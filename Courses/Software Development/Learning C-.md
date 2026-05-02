@@ -94,8 +94,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### An introduction to learning C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/an-introduction-to-learning-c-sharp?u=76281980)
+#### [An introduction to learning C#](https://www.linkedin.com/learning/learning-c-sharp-8581491/an-introduction-to-learning-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -113,13 +112,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), data (2), power (1)
 > **Env Vars:** net (1)
 > **Analogies:** such as (1)
 > **Speakers:** - i (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-c-sharp-8581491/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -133,9 +130,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/learning-c-sharp-8581491/what-you-should-know?u=76281980&t=18)** Now you don't need to be an expert, but I do expect that you are familiar with basic concepts, like functions and variables and other core parts of programming.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-c-sharp-8581491/what-you-should-know?u=76281980&t=27)** And because C# is a fully object-oriented language, you should also be familiar with object-oriented programming concepts, like classes and inheritance.
+> **[0:27](https://www.linkedin.com/learning/learning-c-sharp-8581491/what-you-should-know?u=76281980&t=27)** And because C# is a fully object-oriented language, you should also be familiar with [[Object-Oriented Programming (OOP)|object-oriented programming]] concepts, like classes and inheritance.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-c-sharp-8581491/what-you-should-know?u=76281980&t=37)** Now, if you need to get to speed with these areas, then I suggest starting with a couple of other courses before you take this one, such as "Programming Foundations: Fundamentals" and "[[Programming Foundations- Object-Oriented Design]]."
+> **[0:37](https://www.linkedin.com/learning/learning-c-sharp-8581491/what-you-should-know?u=76281980&t=37)** Now, if you need to get to speed with these areas, then I suggest starting with a couple of other courses before you take this one, such as "[[Programming Foundations]]: Fundamentals" and "[[Programming Foundations- Object-Oriented Design]]."
 >
 > **[0:50](https://www.linkedin.com/learning/learning-c-sharp-8581491/what-you-should-know?u=76281980&t=50)** Both of these courses will give you a great introduction to programming and you'll get a lot more out of this course as a result.
 >
@@ -153,20 +150,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4), [[Programming Foundations]] (2), [[Programming Concepts]] (1)
+> **Frameworks & Libraries:** [[Programming Foundations]] (2), [[Programming Concepts]] (1)
 > **Tools:** terminal (1), command line (1), visual studio (1), vs code (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up your environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/setting-up-your-environment?u=76281980)
+#### [Setting up your environment](https://www.linkedin.com/learning/learning-c-sharp-8581491/setting-up-your-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-c-sharp-8581491/setting-up-your-environment?u=76281980&t=0)** - [Narrator] Before we get started, you'll need to have at least the .NET Core development environment installed on your computer.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-c-sharp-8581491/setting-up-your-environment?u=76281980&t=6)** And if you don't already have .NET installed then in your browser go to .net.[microsoft.com](https://microsoft.com) and then click on the download button.
+> **[0:06](https://www.linkedin.com/learning/learning-c-sharp-8581491/setting-up-your-environment?u=76281980&t=6)** And if you don't already have .NET installed then in your browser go to .net.[[[Microsoft]].com](https://microsoft.com) and then click on the download button.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-c-sharp-8581491/setting-up-your-environment?u=76281980&t=15)** Now, if this screen looks a little bit different when you visit then you can always just do a web search for .NET install and then just go from there.
 >
@@ -180,7 +176,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/learning-c-sharp-8581491/setting-up-your-environment?u=76281980&t=41)** So don't just download the runtime version of .NET You need the SDK.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-c-sharp-8581491/setting-up-your-environment?u=76281980&t=46)** So for windows what you're going to download is the .NET SDK and .NET 5.0 is the most current one right now .NET Core and .NET framework are sort of the older legacy ones .NET Framework goes Windows only.
+> **[0:46](https://www.linkedin.com/learning/learning-c-sharp-8581491/setting-up-your-environment?u=76281980&t=46)** So for [[Windows]] what you're going to download is the .NET SDK and .NET 5.0 is the most current one right now .NET Core and .NET framework are sort of the older legacy ones .NET Framework goes Windows only.
 >
 > **[1:00](https://www.linkedin.com/learning/learning-c-sharp-8581491/setting-up-your-environment?u=76281980&t=60)** .NET Core is cross-platform, but it's older now.
 >
@@ -190,7 +186,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/learning-c-sharp-8581491/setting-up-your-environment?u=76281980&t=72)** You want the .NET SDK.
 >
-> **[1:15](https://www.linkedin.com/learning/learning-c-sharp-8581491/setting-up-your-environment?u=76281980&t=75)** If you're on Linux, again you'll only have the choice of .NET 5.0 or older, choose at least .NET 5.0 and then choose [Install.NET](https://Install.NET) and then on Mac, choose download .NET SDK.
+> **[1:15](https://www.linkedin.com/learning/learning-c-sharp-8581491/setting-up-your-environment?u=76281980&t=75)** If you're on [[Linux]], again you'll only have the choice of .NET 5.0 or older, choose at least .NET 5.0 and then choose [Install.NET](https://Install.NET) and then on Mac, choose download .NET SDK.
 >
 > **[1:30](https://www.linkedin.com/learning/learning-c-sharp-8581491/setting-up-your-environment?u=76281980&t=90)** And alternatively, if you're using a Windows or a Mac you can choose to download the full visual studio IDE itself, the commercial version.
 >
@@ -220,7 +216,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[Linux]] (2), [[Microsoft]] (1), web (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Linux]] (2), [[Microsoft]] (1)
 > **Env Vars:** net (22), sdk (5), ide (2)
 > **Tools:** visual studio (4), terminal (3)
 > **Prerequisites:** install (5), you'll need (2)
@@ -229,8 +225,7 @@ created: 2026-05-02
 > **URLs:** [microsoft.com](https://microsoft.com) (1), [install.net](https://install.net) (1), [visualstudio.com](https://visualstudio.com) (1)
 > **Exercise Files:** download the (3)
 
-#### How to run the examples
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/how-to-run-the-examples?u=76281980)
+#### [How to run the examples](https://www.linkedin.com/learning/learning-c-sharp-8581491/how-to-run-the-examples?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -240,9 +235,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/learning-c-sharp-8581491/how-to-run-the-examples?u=76281980&t=12)** This makes it easy to run them from your computer's terminal program.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-c-sharp-8581491/how-to-run-the-examples?u=76281980&t=16)** And since I'm on windows, I'm going to open up my command prompt program, which you see here.
+> **[0:16](https://www.linkedin.com/learning/learning-c-sharp-8581491/how-to-run-the-examples?u=76281980&t=16)** And since I'm on [[Windows]], I'm going to open up my command prompt program, which you see here.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-c-sharp-8581491/how-to-run-the-examples?u=76281980&t=21)** But if you're on a Mac or Linux computer, then use the terminal program for that operating system.
+> **[0:21](https://www.linkedin.com/learning/learning-c-sharp-8581491/how-to-run-the-examples?u=76281980&t=21)** But if you're on a Mac or [[Linux]] computer, then use the terminal program for that operating system.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-c-sharp-8581491/how-to-run-the-examples?u=76281980&t=26)** So what we're going to do is run one of the finished example files.
 >
@@ -326,7 +321,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Windows]] (1), prompt (1), [[Linux]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1)
 > **Tools:** terminal (7), vs code (3), command line (2), command prompt (1), visual studio (1)
 > **Exercise Files:** exercise files (3)
 > **CLI Commands:** make (1)
@@ -335,8 +330,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### CoderPad Challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/coderpad-challenges-22853406?u=76281980)
+#### [CoderPad Challenges](https://www.linkedin.com/learning/learning-c-sharp-8581491/coderpad-challenges-22853406?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -346,7 +340,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-c-sharp-8581491/coderpad-challenges-22853406?u=76281980&t=16)** These challenges are hosted by CoderPad and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-c-sharp-8581491/coderpad-challenges-22853406?u=76281980&t=23)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:23](https://www.linkedin.com/learning/learning-c-sharp-8581491/coderpad-challenges-22853406?u=76281980&t=23)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-c-sharp-8581491/coderpad-challenges-22853406?u=76281980&t=31)** The code challenge has four areas: there's the instructions in the top left, a code editor for your answer in the top right, another code editor where you can see how your code is used in the bottom right, and a console for output in the bottom left.
 >
@@ -402,7 +396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **UI Navigation:** click on (4), scroll up (1)
 > **Cross-References:** next video (1)
 > **Analogies:** such as (1)
@@ -413,12 +407,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hello World C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/hello-world-c-sharp?u=76281980)
+#### [Hello World C#](https://www.linkedin.com/learning/learning-c-sharp-8581491/hello-world-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-c-sharp-8581491/hello-world-c-sharp?u=76281980&t=0)** - [Instructor] It's a bit of a tradition in the software development world, to start off learning a new language by writing a hello world program.
+> **[0:00](https://www.linkedin.com/learning/learning-c-sharp-8581491/hello-world-c-sharp?u=76281980&t=0)** - [Instructor] It's a bit of a tradition in the [[Software Development]] world, to start off learning a new language by writing a hello world program.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-c-sharp-8581491/hello-world-c-sharp?u=76281980&t=7)** So let's do that for our first example.
 >
@@ -456,7 +449,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/learning-c-sharp-8581491/hello-world-c-sharp?u=76281980&t=150)** So each C# console program has an entry point and that entry point is named main, so when .NET starts up the program, it's going to look for the main entry point and it's going to begin the program there.
 >
-> **[2:43](https://www.linkedin.com/learning/learning-c-sharp-8581491/hello-world-c-sharp?u=76281980&t=163)** So this function has no return value and that's what the void word here means.
+> **[2:43](https://www.linkedin.com/learning/learning-c-sharp-8581491/hello-world-c-sharp?u=76281980&t=163)** So this function has no return value and that's what the void [[Microsoft Word|word]] here means.
 >
 > **[2:48](https://www.linkedin.com/learning/learning-c-sharp-8581491/hello-world-c-sharp?u=76281980&t=168)** And again, we'll learn more about functions a little bit later, and this array of strings are whatever the command line arguments that the app was started with.
 >
@@ -468,7 +461,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/learning-c-sharp-8581491/hello-world-c-sharp?u=76281980&t=194)** And then right line is a function, or method, on the console object and it prints a string to the console, and then the line of code ends with a semi-colon which completes the statement.
 >
-> **[3:27](https://www.linkedin.com/learning/learning-c-sharp-8581491/hello-world-c-sharp?u=76281980&t=207)** Now this is not optional, in C# you have to have semi-colons some languages like JavaScript don't require it, Python, you don't use them, in C# you do.
+> **[3:27](https://www.linkedin.com/learning/learning-c-sharp-8581491/hello-world-c-sharp?u=76281980&t=207)** Now this is not optional, in C# you have to have semi-colons some languages like [[JavaScript]] don't require it, [[Python (Programming Language)|Python]], you don't use them, in C# you do.
 >
 > **[3:35](https://www.linkedin.com/learning/learning-c-sharp-8581491/hello-world-c-sharp?u=76281980&t=215)** So let's run what we already have, and to do that I'm going to type the command in the directory where my program is.
 >
@@ -514,7 +507,7 @@ created: 2026-05-02
 >
 > **[5:52](https://www.linkedin.com/learning/learning-c-sharp-8581491/hello-world-c-sharp?u=76281980&t=352)** And you know what, you're absolutely right.
 >
-> **[5:54](https://www.linkedin.com/learning/learning-c-sharp-8581491/hello-world-c-sharp?u=76281980&t=354)** So starting with C# nine, Microsoft gives you the option to drastically simplify this by getting rid of a lot of the namespace boiler plate and just using what are called top level statements.
+> **[5:54](https://www.linkedin.com/learning/learning-c-sharp-8581491/hello-world-c-sharp?u=76281980&t=354)** So starting with C# nine, [[Microsoft]] gives you the option to drastically simplify this by getting rid of a lot of the namespace boiler plate and just using what are called top level statements.
 >
 > **[6:05](https://www.linkedin.com/learning/learning-c-sharp-8581491/hello-world-c-sharp?u=76281980&t=365)** So I'm going to get rid of all this extra code, everything above the console write lines and read lines, so I'm going to delete all these curly braces, and then I'm going to indent each of these lines back to the beginning, and then just remove everything except for the statements.
 >
@@ -526,11 +519,11 @@ created: 2026-05-02
 >
 > **[6:34](https://www.linkedin.com/learning/learning-c-sharp-8581491/hello-world-c-sharp?u=76281980&t=394)** So if you're just building a simple application, you can actually get rid of a lot of that boiler plate.
 >
-> **[6:39](https://www.linkedin.com/learning/learning-c-sharp-8581491/hello-world-c-sharp?u=76281980&t=399)** Now we won't be doing this very much in the rest of the course, but I just wanted to demonstrate that it's possible to build simple programs without a whole lot of the extra code that .NET auto-generates.
+> **[6:39](https://www.linkedin.com/learning/learning-c-sharp-8581491/hello-world-c-sharp?u=76281980&t=399)** Now we won't be doing this very much in the [[Representational State Transfer (REST)|rest]] of the course, but I just wanted to demonstrate that it's possible to build simple programs without a whole lot of the extra code that .NET auto-generates.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), application (2), [[Software Development]] (1), hit (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Microsoft Word|Word]] (1), [[JavaScript]] (1), [[Python (Programming Language)|Python]] (1), [[Microsoft]] (1)
 > **Tools:** terminal (8), visual studio (1), command line (1)
 > **Env Vars:** net (7)
 > **Cross-References:** go back to (3), later in (1)
@@ -539,8 +532,7 @@ created: 2026-05-02
 > **CLI Commands:** python (1)
 > **Exercise Files:** exercise files (1)
 
-#### Variables and data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/variables-and-data-types?u=76281980)
+#### [Variables and data types](https://www.linkedin.com/learning/learning-c-sharp-8581491/variables-and-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -554,7 +546,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/learning-c-sharp-8581491/variables-and-data-types?u=76281980&t=21)** So here in the code, you can see that I've already declared several different variables of different types.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-c-sharp-8581491/variables-and-data-types?u=76281980&t=26)** So if you're used to working with other languages like JavaScript or maybe Python, than this might look a little different, since in those languages you just create a variable and then assign a value.
+> **[0:26](https://www.linkedin.com/learning/learning-c-sharp-8581491/variables-and-data-types?u=76281980&t=26)** So if you're used to working with other languages like [[JavaScript]] or maybe [[Python (Programming Language)|Python]], than this might look a little different, since in those languages you just create a variable and then assign a value.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-c-sharp-8581491/variables-and-data-types?u=76281980&t=37)** So here in C#, we actually specify the type of variable.
 >
@@ -678,7 +670,7 @@ created: 2026-05-02
 >
 > **[5:55](https://www.linkedin.com/learning/learning-c-sharp-8581491/variables-and-data-types?u=76281980&t=355)** So if I have a float variable, let's call float and we'll call it "i_to_f".
 >
-> **[6:05](https://www.linkedin.com/learning/learning-c-sharp-8581491/variables-and-data-types?u=76281980&t=365)** I can assign i to this, but in order to do that, I have to put the word "float" inside parentheses in order to convert it explicitly into a floating point number.
+> **[6:05](https://www.linkedin.com/learning/learning-c-sharp-8581491/variables-and-data-types?u=76281980&t=365)** I can assign i to this, but in order to do that, I have to put the [[Microsoft Word|word]] "float" inside parentheses in order to convert it explicitly into a floating point number.
 >
 > **[6:17](https://www.linkedin.com/learning/learning-c-sharp-8581491/variables-and-data-types?u=76281980&t=377)** And so that it's clear in the code of what I'm doing.
 >
@@ -718,7 +710,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[JavaScript]] (2), [[Python (Programming Language)|Python]] (1), [[Programming]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Python (Programming Language)|Python]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4), dotnet (2), python (1)
 > **Tools:** terminal (5)
 > **Code Identifiers:** i_to_f (2), f_to_i (2)
@@ -727,8 +719,7 @@ created: 2026-05-02
 > **Env Vars:** ctrl (1)
 > **Versions:** 2.0 (1)
 
-#### Operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/operators?u=76281980)
+#### [Operators](https://www.linkedin.com/learning/learning-c-sharp-8581491/operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -898,13 +889,13 @@ created: 2026-05-02
 >
 > **[7:54](https://www.linkedin.com/learning/learning-c-sharp-8581491/operators?u=76281980&t=474)** And then this assignment didn't happen because again, the value is not null.
 >
-> **[7:58](https://www.linkedin.com/learning/learning-c-sharp-8581491/operators?u=76281980&t=478)** Okay, so that's enough about operators to move along to the rest of the chorus.
+> **[7:58](https://www.linkedin.com/learning/learning-c-sharp-8581491/operators?u=76281980&t=478)** Okay, so that's enough about operators to move along to the [[Representational State Transfer (REST)|rest]] of the chorus.
 >
 > **[8:02](https://www.linkedin.com/learning/learning-c-sharp-8581491/operators?u=76281980&t=482)** But if you feel like maybe you need some more practice then I suggest spending a few minutes here experimenting and trying out different combination of operators to see how they work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** terminal (6)
 > **Analogies:** for example (5)
 > **Non-Speech:** (keyboard typing) (5)
@@ -913,8 +904,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (2)
 > **Speakers:** - [instructor] (1)
 
-#### Writing C# comments
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/writing-c-sharp-comments?u=76281980)
+#### [Writing C# comments](https://www.linkedin.com/learning/learning-c-sharp-8581491/writing-c-sharp-comments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1058,7 +1048,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3)
 > **Env Vars:** xml (8), xnl (1)
 > **Documentation:** the documentation (7), the docs (1)
 > **CLI Commands:** make (3), dotnet (2), find (1)
@@ -1066,14 +1055,14 @@ created: 2026-05-02
 > **Analogies:** for example (4)
 > **Exercise Files:** source code (3)
 > **Cross-References:** go back to (1)
+> **UI Navigation:** scroll down (1)
 
 
 ### 2. C# Program Flow
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conditionals with "if"
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/conditionals-with-if?u=76281980)
+#### [Conditionals with "if"](https://www.linkedin.com/learning/learning-c-sharp-8581491/conditionals-with-if?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1183,7 +1172,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** theval (19)
 > **CLI Commands:** make (3), dotnet (2)
 > **Tools:** terminal (3)
@@ -1192,8 +1180,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Conditionals with "switch"
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/conditionals-with-switch?u=76281980)
+#### [Conditionals with "switch"](https://www.linkedin.com/learning/learning-c-sharp-8581491/conditionals-with-switch?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1302,8 +1289,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### For loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/for-loops?u=76281980)
+#### [For loops](https://www.linkedin.com/learning/learning-c-sharp-8581491/for-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1455,8 +1441,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - many (1)
 
-#### While loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/while-loops?u=76281980)
+#### [While loops](https://www.linkedin.com/learning/learning-c-sharp-8581491/while-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1474,7 +1459,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/learning-c-sharp-8581491/while-loops?u=76281980&t=45)** So inside the parentheses I need to define the logical expression that's going to be evaluated each time through the loop.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-c-sharp-8581491/while-loops?u=76281980&t=52)** So I'm going to have this loop execute while the input Str variable is not equal to the word exit.
+> **[0:52](https://www.linkedin.com/learning/learning-c-sharp-8581491/while-loops?u=76281980&t=52)** So I'm going to have this loop execute while the input Str variable is not equal to the [[Microsoft Word|word]] exit.
 >
 > **[0:59](https://www.linkedin.com/learning/learning-c-sharp-8581491/while-loops?u=76281980&t=59)** So I'm going to write while input Str is not equal to exit then I want to do something.
 >
@@ -1531,8 +1516,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Using break and continue
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/using-break-and-continue?u=76281980)
+#### [Using break and continue](https://www.linkedin.com/learning/learning-c-sharp-8581491/using-break-and-continue?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1574,7 +1558,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/learning-c-sharp-8581491/using-break-and-continue?u=76281980&t=115)** The continuous statement is a little bit different.
 >
-> **[1:58](https://www.linkedin.com/learning/learning-c-sharp-8581491/using-break-and-continue?u=76281980&t=118)** It causes the loop to skip over the rest of the statements in this iteration and continue to the next iteration of the loop.
+> **[1:58](https://www.linkedin.com/learning/learning-c-sharp-8581491/using-break-and-continue?u=76281980&t=118)** It causes the loop to skip over the [[Representational State Transfer (REST)|rest]] of the statements in this iteration and continue to the next iteration of the loop.
 >
 > **[2:07](https://www.linkedin.com/learning/learning-c-sharp-8581491/using-break-and-continue?u=76281980&t=127)** So let's close this terminal, go back to the code.
 >
@@ -1610,11 +1594,11 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/learning-c-sharp-8581491/using-break-and-continue?u=76281980&t=204)** Then we skip the 28 and go right to the 9 and then 17 and 36.
 >
-> **[3:29](https://www.linkedin.com/learning/learning-c-sharp-8581491/using-break-and-continue?u=76281980&t=209)** So these two statements give you greater control over how your loops execute their logic and can help simplify the code needed to build some more granular looping algorithms.
+> **[3:29](https://www.linkedin.com/learning/learning-c-sharp-8581491/using-break-and-continue?u=76281980&t=209)** So these two statements give you greater control over how your loops execute their logic and can help simplify the code needed to build some more granular looping [[Algorithms]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), next (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Algorithms]] (1)
 > **Tools:** terminal (3)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -1622,8 +1606,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - all (1)
 
-#### Exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/exceptions?u=76281980)
+#### [Exceptions](https://www.linkedin.com/learning/learning-c-sharp-8581491/exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1745,7 +1728,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), generic (1)
 > **CLI Commands:** make (4)
 > **Tools:** terminal (4)
 > **Analogies:** just like (2)
@@ -1757,8 +1739,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### String operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-operations?u=76281980)
+#### [String operations](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1778,7 +1759,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-operations?u=76281980&t=49)** And that's the property on the string.
 >
-> **[0:51](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-operations?u=76281980&t=51)** So, in other languages like Python, for example, you might use the len function to get the length of a string, but here, it's a property.
+> **[0:51](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-operations?u=76281980&t=51)** So, in other languages like [[Python (Programming Language)|Python]], for example, you might use the len function to get the length of a string, but here, it's a property.
 >
 > **[0:58](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-operations?u=76281980&t=58)** We can also access individual characters in the string by using square brackets, as if it were an array.
 >
@@ -1944,7 +1925,7 @@ created: 2026-05-02
 >
 > **[7:55](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-operations?u=76281980&t=475)** So I'll set outstr equal to str1 and I'll call the Replace function.
 >
-> **[8:02](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-operations?u=76281980&t=482)** And I'm going to replace the word fox with the word cat.
+> **[8:02](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-operations?u=76281980&t=482)** And I'm going to replace the [[Microsoft Word|word]] fox with the word cat.
 >
 > **[8:09](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-operations?u=76281980&t=489)** And then once again we'll go ahead and Console.WriteLine outstr.
 >
@@ -1976,13 +1957,13 @@ created: 2026-05-02
 >
 > **[9:22](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-operations?u=76281980&t=562)** If you want to check out more of the functions available, you can look at the String class documentation which is available at this link.
 >
-> **[9:31](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-operations?u=76281980&t=571)** And you might want to keep this open as we go through the rest of the chapter to refer back to in case you want to see how the methods work or take a look at any of their variants.
+> **[9:31](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-operations?u=76281980&t=571)** And you might want to keep this open as we go through the [[Representational State Transfer (REST)|rest]] of the chapter to refer back to in case you want to see how the methods work or take a look at any of their variants.
 >
 > **[9:40](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-operations?u=76281980&t=580)** So keep this open as we go through the rest of the chapter, but you can read through these docs and see for yourself how many different kinds of properties and methods are available on the String class.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Representational State Transfer (REST)|Rest]] (2), data (1), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** for example (6), just like (2)
 > **CLI Commands:** cat (2), find (1), python (1), dotnet (1), make (1)
 > **Definitions:** is a  (3), means that (2), is called (1)
@@ -1991,8 +1972,7 @@ created: 2026-05-02
 > **Code Identifiers:** isequal (2)
 > **Speakers:** - [instructor] (1), - 1 (1)
 
-#### String formatting
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-formatting?u=76281980)
+#### [String formatting](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-formatting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2062,7 +2042,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-formatting?u=76281980&t=217)** And now in the output you can see that for D6, it uses six spaces including some leading zeros, for N2, it specifies two decimal places, which is what we had before.
 >
-> **[3:51](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-formatting?u=76281980&t=231)** For F1 that shortens it to just one decimal place and for G3, it uses just three digits and then puts the rest in the exponential format.
+> **[3:51](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-formatting?u=76281980&t=231)** For F1 that shortens it to just one decimal place and for G3, it uses just three digits and then puts the [[Representational State Transfer (REST)|rest]] in the exponential format.
 >
 > **[4:02](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-formatting?u=76281980&t=242)** Let's go back and take a look now at how the alignment specifier works.
 >
@@ -2142,7 +2122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (2), similar to (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -2150,8 +2130,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### String interpolation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-interpolation?u=76281980)
+#### [String interpolation](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-interpolation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2191,7 +2170,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-interpolation?u=76281980&t=86)** So let's rewrite this string using string interpolation.
 >
-> **[1:29](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-interpolation?u=76281980&t=89)** So I'll replace index zero with just the word year.
+> **[1:29](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-interpolation?u=76281980&t=89)** So I'll replace index zero with just the [[Microsoft Word|word]] year.
 >
 > **[1:33](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-interpolation?u=76281980&t=93)** And you can see the syntax coloring is different because the editor realizes oh, this is an interpolated string and it's highlighting my variables correctly.
 >
@@ -2269,11 +2248,11 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-interpolation?u=76281980&t=315)** So this form of string formatting is a lot easier to read than the index version, which is why I prefer to use it.
 >
-> **[5:21](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-interpolation?u=76281980&t=321)** So I'll be using this in the rest of the course when we need to print out variables and strings.
+> **[5:21](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-interpolation?u=76281980&t=321)** So I'll be using this in the [[Representational State Transfer (REST)|rest]] of the course when we need to print out variables and strings.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[Microsoft Word|Word]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (2), imagine (1)
@@ -2282,8 +2261,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **UI Navigation:** open the (1)
 
-#### Using StringBuilder
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/using-stringbuilder?u=76281980)
+#### [Using StringBuilder](https://www.linkedin.com/learning/learning-c-sharp-8581491/using-stringbuilder?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2439,7 +2417,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), feature (1)
 > **CLI Commands:** make (5), cat (2)
 > **Tools:** terminal (3)
 > **Analogies:** for example (2), just like (1)
@@ -2447,9 +2424,9 @@ created: 2026-05-02
 > **Code Identifiers:** jumpcount (1)
 > **Env Vars:** net (1)
 > **Cross-References:** earlier in (1)
+> **Exercise Files:** sample code (1)
 
-#### String parsing
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-parsing?u=76281980)
+#### [String parsing](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-parsing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2627,7 +2604,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), generic (1), feature (1)
 > **Code Identifiers:** targetnum (5), numstr4 (3), numstr1 (2), numstr3 (2), numstr2 (1)
 > **Definitions:** is a  (6), is an  (1), means that (1)
 > **Versions:** 1.235 (2), 1.24 (1)
@@ -2635,17 +2611,16 @@ created: 2026-05-02
 > **Env Vars:** net (2)
 > **Tools:** terminal (2)
 > **UI Navigation:** open the (1), scroll down (1)
+> **CLI Commands:** make (1)
 
-#### Solution: Count the data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/solution-count-the-data-types?u=76281980)
+#### [Solution: Count the data types](https://www.linkedin.com/learning/learning-c-sharp-8581491/solution-count-the-data-types?u=76281980)
 
 
 ### 4. C# Functions
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Function basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/function-basics?u=76281980)
+#### [Function basics](https://www.linkedin.com/learning/learning-c-sharp-8581491/function-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2665,7 +2640,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/learning-c-sharp-8581491/function-basics?u=76281980&t=47)** Functions can have a return value which in this case is going to be a floating point number.
 >
-> **[0:53](https://www.linkedin.com/learning/learning-c-sharp-8581491/function-basics?u=76281980&t=53)** So I'm going to start off by writing the word float, and then that's going to be followed by the name of the function, and I'm going to call it MilesToKm.
+> **[0:53](https://www.linkedin.com/learning/learning-c-sharp-8581491/function-basics?u=76281980&t=53)** So I'm going to start off by writing the [[Microsoft Word|word]] float, and then that's going to be followed by the name of the function, and I'm going to call it MilesToKm.
 >
 > **[1:03](https://www.linkedin.com/learning/learning-c-sharp-8581491/function-basics?u=76281980&t=63)** And then there's an optional list of parameters inside the parentheses and each parameter has its own type.
 >
@@ -2713,13 +2688,13 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/learning-c-sharp-8581491/function-basics?u=76281980&t=242)** So that's a basic example of how to define functions and functions basically, they have a return type, either a type or void along with the name optional parameters and then the code goes in the curly braces.
 >
-> **[4:16](https://www.linkedin.com/learning/learning-c-sharp-8581491/function-basics?u=76281980&t=256)** So we're going to use this as a starting point for the rest of the chapter and see how we can use functions and to find different kinds of functions to take different kinds of parameters.
+> **[4:16](https://www.linkedin.com/learning/learning-c-sharp-8581491/function-basics?u=76281980&t=256)** So we're going to use this as a starting point for the [[Representational State Transfer (REST)|rest]] of the chapter and see how we can use functions and to find different kinds of functions to take different kinds of parameters.
 >
 > **[4:25](https://www.linkedin.com/learning/learning-c-sharp-8581491/function-basics?u=76281980&t=265)** And we'll finish up with another programming challenge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** dotnet (1), find (1)
 > **Versions:** 8.0 (1), 52.0 (1)
 > **UI Navigation:** open the (2)
@@ -2728,8 +2703,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Definitions:** defined as (1)
 
-#### Named and default parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/named-and-default-parameters?u=76281980)
+#### [Named and default parameters](https://www.linkedin.com/learning/learning-c-sharp-8581491/named-and-default-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2809,7 +2783,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** writeline (1)
 > **Tools:** terminal (1)
@@ -2818,8 +2791,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Reference and out parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/reference-and-out-parameters?u=76281980)
+#### [Reference and out parameters](https://www.linkedin.com/learning/learning-c-sharp-8581491/reference-and-out-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2933,14 +2905,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), data (1)
 > **CLI Commands:** make (4)
 > **Tools:** terminal (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [narrator] (1)
 
-#### Returning multiple values
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/returning-multiple-values?u=76281980)
+#### [Returning multiple values](https://www.linkedin.com/learning/learning-c-sharp-8581491/returning-multiple-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2952,7 +2922,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/learning-c-sharp-8581491/returning-multiple-values?u=76281980&t=17)** Now, unfortunately that sometimes leads to code that is hard to read, and it also kind of breaks the convention that parameters are used to give data to functions and return values are used to get results back.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-c-sharp-8581491/returning-multiple-values?u=76281980&t=29)** So starting back in C# version seven, Microsoft added support for a data type known as a tuple.
+> **[0:29](https://www.linkedin.com/learning/learning-c-sharp-8581491/returning-multiple-values?u=76281980&t=29)** So starting back in C# version seven, [[Microsoft]] added support for a data type known as a tuple.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-c-sharp-8581491/returning-multiple-values?u=76281980&t=35)** A tuple is basically a lightweight data structure that lets you group multiple values together in one place.
 >
@@ -3020,7 +2990,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), product (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** as we saw (1), previous video (1)
 > **Exercise Files:** sample code (1)
@@ -3028,8 +2998,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Palindrome
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/solution-palindrome-22820951?u=76281980)
+#### [Solution: Palindrome](https://www.linkedin.com/learning/learning-c-sharp-8581491/solution-palindrome-22820951?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3057,7 +3026,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/learning-c-sharp-8581491/solution-palindrome-22820951?u=76281980&t=72)** And at this point, the string has been stripped of punctuation and spaces, leaving only the characters.
 >
-> **[1:18](https://www.linkedin.com/learning/learning-c-sharp-8581491/solution-palindrome-22820951?u=76281980&t=78)** And this is the string that the rest of the function will use to determine whether it's a palindrome.
+> **[1:18](https://www.linkedin.com/learning/learning-c-sharp-8581491/solution-palindrome-22820951?u=76281980&t=78)** And this is the string that the [[Representational State Transfer (REST)|rest]] of the function will use to determine whether it's a palindrome.
 >
 > **[1:23](https://www.linkedin.com/learning/learning-c-sharp-8581491/solution-palindrome-22820951?u=76281980&t=83)** So the way the code does this is by comparing each character pair.
 >
@@ -3107,8 +3076,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining C# classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/defining-c-sharp-classes?u=76281980)
+#### [Defining C# classes](https://www.linkedin.com/learning/learning-c-sharp-8581491/defining-c-sharp-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3118,7 +3086,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/learning-c-sharp-8581491/defining-c-sharp-classes?u=76281980&t=12)** In this chapter, we're going to learn how to work with C-sharp classes which are the blueprints for creating your own objects.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-c-sharp-8581491/defining-c-sharp-classes?u=76281980&t=19)** And again, I just want to remind you that before you start this chapter you should already be familiar with the principles and ideas of object-oriented programming.
+> **[0:19](https://www.linkedin.com/learning/learning-c-sharp-8581491/defining-c-sharp-classes?u=76281980&t=19)** And again, I just want to remind you that before you start this chapter you should already be familiar with the principles and ideas of [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
 > **[0:29](https://www.linkedin.com/learning/learning-c-sharp-8581491/defining-c-sharp-classes?u=76281980&t=29)** If you're not, then check out the programming fundamentals object-oriented design course.
 >
@@ -3174,7 +3142,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/learning-c-sharp-8581491/defining-c-sharp-classes?u=76281980&t=217)** And that's pretty big, it's like 800 pages.
 >
-> **[3:40](https://www.linkedin.com/learning/learning-c-sharp-8581491/defining-c-sharp-classes?u=76281980&t=220)** And then I'll copy that and we'll make another book, call this one b2, and this will be "The Grapes of Wrath," and that of course was written by John Steinbeck, and that's I think 464 pages.
+> **[3:40](https://www.linkedin.com/learning/learning-c-sharp-8581491/defining-c-sharp-classes?u=76281980&t=220)** And then I'll copy that and we'll make another book, call this one b2, and this will be "The Grapes of Wrath," and that of course was written by [[John the Ripper|John]] Steinbeck, and that's I think 464 pages.
 >
 > **[4:04](https://www.linkedin.com/learning/learning-c-sharp-8581491/defining-c-sharp-classes?u=76281980&t=244)** Now let's call the get description method on each object.
 >
@@ -3208,7 +3176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Programming]] (1), feature (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[John the Ripper|John]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (1)
 > **Tools:** terminal (1)
@@ -3216,8 +3184,7 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - as (1)
 
-#### Access modifiers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/access-modifiers?u=76281980)
+#### [Access modifiers](https://www.linkedin.com/learning/learning-c-sharp-8581491/access-modifiers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3355,7 +3322,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Programming]] (2), feature (1)
 > **CLI Commands:** make (7)
 > **Definitions:** means that (3), is a  (1)
 > **Tools:** terminal (2), vs code (1)
@@ -3363,8 +3329,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
 
-#### Defining properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/defining-properties?u=76281980)
+#### [Defining properties](https://www.linkedin.com/learning/learning-c-sharp-8581491/defining-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3388,7 +3353,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/learning-c-sharp-8581491/defining-properties?u=76281980&t=65)** So I can do that by declaring something called a public property as if it were a member variable.
 >
-> **[1:13](https://www.linkedin.com/learning/learning-c-sharp-8581491/defining-properties?u=76281980&t=73)** So what I'm going to do is use the word public, 'cause I want this to be public.
+> **[1:13](https://www.linkedin.com/learning/learning-c-sharp-8581491/defining-properties?u=76281980&t=73)** So what I'm going to do is use the [[Microsoft Word|word]] public, 'cause I want this to be public.
 >
 > **[1:18](https://www.linkedin.com/learning/learning-c-sharp-8581491/defining-properties?u=76281980&t=78)** I'm going to give it a type string and then I'll give it a Name, which in this case is Name.
 >
@@ -3504,7 +3469,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), application (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** isbn (3)
 > **UI Navigation:** go to (2)
@@ -3513,8 +3478,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Tools:** terminal (1)
 
-#### Inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/inheritance?u=76281980)
+#### [Inheritance](https://www.linkedin.com/learning/learning-c-sharp-8581491/inheritance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3626,15 +3590,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), means that (1), is a  (1)
 > **Analogies:** imagine (1), such as (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### String representation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-representation?u=76281980)
+#### [String representation](https://www.linkedin.com/learning/learning-c-sharp-8581491/string-representation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3756,7 +3718,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Cross-References:** go back to (3), earlier in (1)
 > **CLI Commands:** find (2), make (1)
 > **Documentation:** the documentation (2), the docs (1)
@@ -3765,8 +3726,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Bank
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/solution-bank-22825030?u=76281980)
+#### [Solution: Bank](https://www.linkedin.com/learning/learning-c-sharp-8581491/solution-bank-22825030?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3774,7 +3734,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-c-sharp-8581491/solution-bank-22825030?u=76281980&t=6)** So this was a pretty involved challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-c-sharp-8581491/solution-bank-22825030?u=76281980&t=7)** You had to think about what classes you would need and how you would organize them to support a set of banking operations on two separate types of bank accounts.
+> **[0:07](https://www.linkedin.com/learning/learning-c-sharp-8581491/solution-bank-22825030?u=76281980&t=7)** You had to think about what classes you would need and how you would organize them to support a set of [[Banking]] operations on two separate types of bank accounts.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-c-sharp-8581491/solution-bank-22825030?u=76281980&t=15)** So let's take a look at my code.
 >
@@ -3859,8 +3819,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-c-sharp-8581491/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-c-sharp-8581491/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3872,11 +3831,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/learning-c-sharp-8581491/next-steps?u=76281980&t=17)** So I have a few suggestions on where you might want to go next to continue learning about C#.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-c-sharp-8581491/next-steps?u=76281980&t=23)** Visual Studio is Microsoft's official development tool for working with C# and .NET, so check out the Visual Studio Essential Training series for an in-depth look at this great IDE.
+> **[0:23](https://www.linkedin.com/learning/learning-c-sharp-8581491/next-steps?u=76281980&t=23)** Visual Studio is [[Microsoft]]'s official development tool for working with C# and .NET, so check out the Visual Studio Essential Training series for an in-depth look at this great IDE.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-c-sharp-8581491/next-steps?u=76281980&t=36)** To learn more about some of the more advanced C# language features, check out the C# Collections, C# Interfaces and Generics, and C# Events, Delegates, and Lambdas courses.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-c-sharp-8581491/next-steps?u=76281980&t=49)** And finally, if you're looking to use C# on the web or on mobile devices, take a look at the [ASP.NET](https://ASP.NET) and Xamarin related courses.
+> **[0:49](https://www.linkedin.com/learning/learning-c-sharp-8581491/next-steps?u=76281980&t=49)** And finally, if you're looking to use C# on the web or on mobile devices, take a look at the [[[ASP.NET]]](https://ASP.NET) and Xamarin related courses.
 >
 > **[0:58](https://www.linkedin.com/learning/learning-c-sharp-8581491/next-steps?u=76281980&t=58)** C# is one of my favorite languages to program in because of its rich expressiveness and wide variety of platforms you can target, and I think that after you've spent some time with the language, you'll agree that it's one of the most complete programming environments available.
 >
@@ -3886,7 +3845,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), next (1), [[Microsoft]] (1), web (1), [[ASP.NET]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[ASP.NET]] (1)
 > **Env Vars:** net (3), ide (1), asp (1)
 > **Tools:** visual studio (2)
 > **URLs:** [asp.net](https://asp.net) (1)

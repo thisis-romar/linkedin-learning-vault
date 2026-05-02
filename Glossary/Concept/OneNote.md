@@ -17,7 +17,7 @@ tags:
   - topic/software-development
   - topic/data-science
   - topic/security
-course_count: 27
+course_count: 28
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # OneNote
 
-> **Type:** Concept | **Courses:** 27 | **Topics:** [[Cloud Computing]], [[Network and System Administration]], [[Software Development]], [[Data Science]], [[Cybersecurity]]
+> **Type:** Concept | **Courses:** 28 | **Topics:** [[Cloud Computing]], [[Network and System Administration]], [[Software Development]], [[Data Science]], [[Cybersecurity]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Microsoft Office Accessibility for Beginners]] — 2 mentions
 10. [[Learning PowerPoint Online (Microsoft 365)]] — 2 mentions
 
-> [!note]- See all 27 courses
+> [!note]- See all 28 courses
 > 11. [[Introduction To Microsoft 365 For It Pros]] — 2 mentions
 > 12. [[Microsoft 365 Essential Training for Administrators]] — 2 mentions
 > 13. [[Windows 10 Configure And Support Core Services]] — 2 mentions
@@ -56,8 +56,9 @@ created: 2026-05-02
 > 23. [[Hands-On Introduction- Data Engineering]] — 1 mentions
 > 24. [[Power BI Quick Tips]] — 1 mentions
 > 25. [[Azure AI- The Big Picture]] — 1 mentions
-> 26. [[Learning Excel Desktop Microsoft 365]] — 1 mentions
-> 27. [[Microsoft 365 Teams Administrator Associate Cert Prep Ms 700 Plan Configure And Deploy]] — 1 mentions
+> 26. [[Azure Understanding The Big Picture]] — 1 mentions
+> 27. [[Learning Excel Desktop Microsoft 365]] — 1 mentions
+> 28. [[Microsoft 365 Teams Administrator Associate Cert Prep Ms 700 Plan Configure And Deploy]] — 1 mentions
 
 ## Learning Paths
 

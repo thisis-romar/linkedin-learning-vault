@@ -73,8 +73,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Uploading large files to the OpenAI API
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files/uploading-large-files-to-the-openai-api?u=76281980)
+#### [Uploading large files to the OpenAI API](https://www.linkedin.com/learning/openai-api-working-with-files/uploading-large-files-to-the-openai-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -90,12 +89,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), data (1), ai (1), next (1)
 > **Env Vars:** api (2)
 > **Speakers:** - [fikayo] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/openai-api-working-with-files/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -113,7 +110,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), [[Programming]] (3), ai (1)
 > **Env Vars:** api (4)
 > **Speakers:** - [instructor] (1)
 
@@ -122,8 +118,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The significance of the Files API
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files/the-significance-of-the-files-api?u=76281980)
+#### [The significance of the Files API](https://www.linkedin.com/learning/openai-api-working-with-files/the-significance-of-the-files-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -139,7 +134,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/openai-api-working-with-files/the-significance-of-the-files-api?u=76281980&t=31)** With the Files API, this issue is immediately resolved as you can upload and process bulk data efficiently and securely.
 >
-> **[0:40](https://www.linkedin.com/learning/openai-api-working-with-files/the-significance-of-the-files-api?u=76281980&t=40)** The versatility of the Files API allows you to use it for tasks like training custom AI models with large data sets, batch processing, and complex data analysis.
+> **[0:40](https://www.linkedin.com/learning/openai-api-working-with-files/the-significance-of-the-files-api?u=76281980&t=40)** The versatility of the Files API allows you to use it for tasks like training custom AI models with large data sets, [[Batch Processing]], and complex data analysis.
 >
 > **[0:50](https://www.linkedin.com/learning/openai-api-working-with-files/the-significance-of-the-files-api?u=76281980&t=50)** One of the key benefits of the Files API is efficiency.
 >
@@ -155,18 +150,17 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/openai-api-working-with-files/the-significance-of-the-files-api?u=76281980&t=83)** All these make the Files API powerful tool in the OpenAI suite.
 >
-> **[1:28](https://www.linkedin.com/learning/openai-api-working-with-files/the-significance-of-the-files-api?u=76281980&t=88)** Its ability to undo large data sets efficiently and securely makes it a must know for anyone working in the artificial intelligence space.
+> **[1:28](https://www.linkedin.com/learning/openai-api-working-with-files/the-significance-of-the-files-api?u=76281980&t=88)** Its ability to undo large data sets efficiently and securely makes it a must know for anyone working in the [[Artificial Intelligence (AI)|artificial intelligence]] space.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), api (9), ai (4), [[Security]] (2), game (1)
+> **Frameworks & Libraries:** [[Batch Processing]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** api (9)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Benefits of the Files API
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980)
+#### [Benefits of the Files API](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -184,41 +178,41 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=25)** Next, is improved security.
 >
-> **[0:27](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=27)** Data security is crucial when training models for AI applications.
+> **[0:27](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=27)** [[Data Security]] is crucial when training models for AI applications.
 >
 > **[0:32](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=32)** The Files API ensures that data is uploaded and stored safely, minimizing the risk of exposure during processing.
 >
-> **[0:40](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=40)** Another key benefit of using the Files API is scalability and flexibility.
+> **[0:40](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=40)** Another key benefit of using the Files API is [[Scalability]] and flexibility.
 >
 > **[0:45](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=45)** Whether it's a small or really huge data set, the Files API adapts to your needs, offering immense flexibility.
 >
 > **[0:53](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=53)** There is also the time and cost efficiency benefit.
 >
-> **[0:57](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=57)** By streamlining data processing using the Files API, you save valuable time and resources, and also your operational costs are significantly reduced.
+> **[0:57](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=57)** By streamlining [[Data Processing]] using the Files API, you save valuable time and resources, and also your operational costs are significantly reduced.
 >
 > **[1:08](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=68)** The last benefit we'll look at is how using the Files API leads to enhanced productivity.
 >
-> **[1:15](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=75)** Managing and automating data processing using the Files API allows you and your team members to focus on more strategic tasks, rather than wasting time on routine data management tasks.
+> **[1:15](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=75)** Managing and automating data processing using the Files API allows you and your team members to focus on more strategic tasks, rather than wasting time on routine [[Data Management]] tasks.
 >
 > **[1:27](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=87)** Now that we've seen the benefits of using the OpenAI Files API, let's take a look at some of its use cases.
 >
 > **[1:34](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=94)** First, is in training machine learning models.
 >
-> **[1:37](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=97)** With the Files API, we can undo large data sets for creating and fine tuning machine learning models.
+> **[1:37](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=97)** With the Files API, we can undo large data sets for creating and [[Fine Tuning]] machine learning models.
 >
-> **[1:44](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=104)** Batch processing for analytics is another interesting use case.
+> **[1:44](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=104)** [[Batch Processing]] for analytics is another interesting use case.
 >
 > **[1:47](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=107)** We can leverage the API for efficient batch processing of data that we need for large scale data analytics.
 >
-> **[1:55](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=115)** We can also use the API to securely manage and process sensitive data for research or business insights, ensuring data privacy and security.
+> **[1:55](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=115)** We can also use the API to securely manage and process sensitive data for research or business insights, ensuring [[Data Privacy]] and security.
 >
 > **[2:05](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=125)** For historical data analysis, we can also utilize the Files API to process and analyze sensitive historical data sets.
 >
-> **[2:13](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=133)** This is useful in fields like market research or historical studies.
+> **[2:13](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=133)** This is useful in fields like [[Market Research]] or historical studies.
 >
 > **[2:18](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=138)** Finally on our list, we can use the Files API for automated content generation.
 >
-> **[2:23](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=143)** This can be achieved by applying the Files API to automate generation of content such as reports or articles where large data sets are used as input for AI driven content creation or content creation tools.
+> **[2:23](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=143)** This can be achieved by applying the Files API to automate generation of content such as reports or articles where large data sets are used as input for AI driven [[Content Creation]] or content creation tools.
 >
 > **[2:37](https://www.linkedin.com/learning/openai-api-working-with-files/benefits-of-the-files-api?u=76281980&t=157)** All that we have discussed in this video further shows why the OpenAI Files API is an invaluable tool to any individual or teams looking to manage their machine learning data sets.
 >
@@ -228,7 +222,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), api (18), [[Security]] (4), ai (3), next (2)
+> **Frameworks & Libraries:** [[Data Processing]] (2), [[Batch Processing]] (2), [[Content Creation]] (2), [[Data Security]] (1), [[Scalability]] (1)
 > **Env Vars:** api (18)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
@@ -240,14 +234,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up your development environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files/setting-up-your-development-environment?u=76281980)
+#### [Setting up your development environment](https://www.linkedin.com/learning/openai-api-working-with-files/setting-up-your-development-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/openai-api-working-with-files/setting-up-your-development-environment?u=76281980&t=0)** - [Instructor] In this video, I'll be showing you how to get your development environment ready for using the OpenAI files API.
 >
-> **[0:07](https://www.linkedin.com/learning/openai-api-working-with-files/setting-up-your-development-environment?u=76281980&t=7)** To demonstrate the use of the API we'll be making use of Node.js and also use OpenAI's Node.js SDK package from NPM.
+> **[0:07](https://www.linkedin.com/learning/openai-api-working-with-files/setting-up-your-development-environment?u=76281980&t=7)** To demonstrate the use of the API we'll be making use of [[Node.js]] and also use OpenAI's Node.js SDK package from [[npm]].
 >
 > **[0:16](https://www.linkedin.com/learning/openai-api-working-with-files/setting-up-your-development-environment?u=76281980&t=16)** However, you can follow along if you won't be using Node.js or if you're not familiar with Node.js.
 >
@@ -263,7 +256,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/openai-api-working-with-files/setting-up-your-development-environment?u=76281980&t=54)** Here you can download and install the appropriate Node.js runtime for your operating system.
 >
-> **[1:00](https://www.linkedin.com/learning/openai-api-working-with-files/setting-up-your-development-environment?u=76281980&t=60)** Next, you will need an OpenAI API key.
+> **[1:00](https://www.linkedin.com/learning/openai-api-working-with-files/setting-up-your-development-environment?u=76281980&t=60)** Next, you will need an [[OpenAI API]] key.
 >
 > **[1:04](https://www.linkedin.com/learning/openai-api-working-with-files/setting-up-your-development-environment?u=76281980&t=64)** To get this key, you first need to have an OpenAI platform account and use the trial credits or attach a card to your account to be charged as you use the API.
 >
@@ -325,7 +318,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/openai-api-working-with-files/setting-up-your-development-environment?u=76281980&t=218)** Here in VS Code we have our project opened, OpenAI files.
 >
-> **[3:42](https://www.linkedin.com/learning/openai-api-working-with-files/setting-up-your-development-environment?u=76281980&t=222)** We have our Node.js folder that holds our models and we have our package.json and package lock.json files.
+> **[3:42](https://www.linkedin.com/learning/openai-api-working-with-files/setting-up-your-development-environment?u=76281980&t=222)** We have our Node.js folder that holds our models and we have our package.[[JSON]] and package lock.json files.
 >
 > **[3:48](https://www.linkedin.com/learning/openai-api-working-with-files/setting-up-your-development-environment?u=76281980&t=228)** Now the first step we're going to be taking is to create a .ENV file that is going to hold our API key.
 >
@@ -341,9 +334,9 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/openai-api-working-with-files/setting-up-your-development-environment?u=76281980&t=268)** With the key now inserted, ensure that you save this file.
 >
-> **[4:31](https://www.linkedin.com/learning/openai-api-working-with-files/setting-up-your-development-environment?u=76281980&t=271)** Do note that you have to ensure that you secure this key and make sure you do not mistakenly push it to a public repository like GitHub.
+> **[4:31](https://www.linkedin.com/learning/openai-api-working-with-files/setting-up-your-development-environment?u=76281980&t=271)** Do note that you have to ensure that you secure this key and make sure you do not mistakenly push it to a public repository like [[GitHub]].
 >
-> **[4:39](https://www.linkedin.com/learning/openai-api-working-with-files/setting-up-your-development-environment?u=76281980&t=279)** So this is a good time to add a Git ignore file.
+> **[4:39](https://www.linkedin.com/learning/openai-api-working-with-files/setting-up-your-development-environment?u=76281980&t=279)** So this is a good time to add a [[Git]] ignore file.
 >
 > **[4:46](https://www.linkedin.com/learning/openai-api-working-with-files/setting-up-your-development-environment?u=76281980&t=286)** And add .ENV that .ENV file as a file to be ignored.
 >
@@ -353,7 +346,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (18), api (9), [[npm]] (7), next (4), [[OpenAI API]] (4)
+> **Frameworks & Libraries:** [[Node.js]] (18), [[npm]] (7), [[OpenAI API]] (4), [[JSON]] (2), [[GitHub]] (1)
 > **Env Vars:** api (13), sdk (8), npm (7), env (6), dir (1)
 > **CLI Commands:** node (18), npm (7), make (2), cd (1), git (1)
 > **File Paths:** node.js (18), package.json (1), lock.json (1)
@@ -362,8 +355,7 @@ created: 2026-05-02
 > **URLs:** [nodejs.org](https://nodejs.org) (1)
 > **Cross-References:** in the next (1)
 
-#### Uploading files
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files/uploading-files?u=76281980)
+#### [Uploading files](https://www.linkedin.com/learning/openai-api-working-with-files/uploading-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -385,7 +377,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/openai-api-working-with-files/uploading-files?u=76281980&t=54)** Next, let's take a look at the Spanish translated sample file.
 >
-> **[0:58](https://www.linkedin.com/learning/openai-api-working-with-files/uploading-files?u=76281980&t=58)** This JSON-L file is a file used to train an openai model to learn how to translate prompts to Spanish.
+> **[0:58](https://www.linkedin.com/learning/openai-api-working-with-files/uploading-files?u=76281980&t=58)** This [[JSON]]-L file is a file used to train an openai model to learn how to translate prompts to Spanish.
 >
 > **[1:07](https://www.linkedin.com/learning/openai-api-working-with-files/uploading-files?u=76281980&t=67)** If I collapse the files menu so that we can see this file very well, you can see that each line consists of a prompt and completion pair.
 >
@@ -399,7 +391,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/openai-api-working-with-files/uploading-files?u=76281980&t=98)** First, let me close these files.
 >
-> **[1:41](https://www.linkedin.com/learning/openai-api-working-with-files/uploading-files?u=76281980&t=101)** And the first piece of code we'll be writing is a configuration file for the openai API.
+> **[1:41](https://www.linkedin.com/learning/openai-api-working-with-files/uploading-files?u=76281980&t=101)** And the first piece of code we'll be writing is a configuration file for the [[OpenAI API]].
 >
 > **[1:46](https://www.linkedin.com/learning/openai-api-working-with-files/uploading-files?u=76281980&t=106)** This configuration file will allow us to use the configuration across different files without having to repeat the whole process.
 >
@@ -425,7 +417,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/openai-api-working-with-files/uploading-files?u=76281980&t=164)** Now we have access to all the environment variables defined in the .env file.
 >
-> **[2:49](https://www.linkedin.com/learning/openai-api-working-with-files/uploading-files?u=76281980&t=169)** The next step is to set up our configuration of the openai Node.js library that allows us to work seamlessly with the files API.
+> **[2:49](https://www.linkedin.com/learning/openai-api-working-with-files/uploading-files?u=76281980&t=169)** The next step is to set up our configuration of the openai [[Node.js]] library that allows us to work seamlessly with the files API.
 >
 > **[2:56](https://www.linkedin.com/learning/openai-api-working-with-files/uploading-files?u=76281980&t=176)** To do this, we need to create a new variable called openaiConfig and set it to a new instance of the openai object.
 >
@@ -589,7 +581,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (14), next (8), [[JSON]] (5), [[Node.js]] (3), prompt (2)
+> **Frameworks & Libraries:** [[JSON]] (5), [[Node.js]] (3), [[OpenAI API]] (1)
 > **File Paths:** assistant_queries.txt (6), node.js (3), upload_files.js (3), openaiconfig.js (2), package.json (2)
 > **Env Vars:** api (15), json (3)
 > **Code Identifiers:** assistant_queries (6), openaiconfig (4), upload_files (4), file_upload_response (1), file_upload (1)
@@ -598,8 +590,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (3)
 > **Cross-References:** in the next (1)
 
-#### Query a file
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files/query-a-file?u=76281980)
+#### [Query a file](https://www.linkedin.com/learning/openai-api-working-with-files/query-a-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -667,7 +658,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/openai-api-working-with-files/query-a-file?u=76281980&t=205)** The created_at property is the Unix timestamp in seconds for when the file was created.
 >
-> **[3:31](https://www.linkedin.com/learning/openai-api-working-with-files/query-a-file?u=76281980&t=211)** And lastly, the status and the status_details properties represent the current status of the file and details on why a fine tuning training file failed validation respectively.
+> **[3:31](https://www.linkedin.com/learning/openai-api-working-with-files/query-a-file?u=76281980&t=211)** And lastly, the status and the status_details properties represent the current status of the file and details on why a [[Fine Tuning]] training file failed validation respectively.
 >
 > **[3:43](https://www.linkedin.com/learning/openai-api-working-with-files/query-a-file?u=76281980&t=223)** According to the OpenAI documentation, the last two properties that is status and status_details will soon be deprecated.
 >
@@ -675,7 +666,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), ai (1), node (1), hit (1), [[Fine Tuning]] (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (1)
 > **Code Identifiers:** retrieve_file (3), status_details (2), created_at (1)
 > **Env Vars:** api (6)
 > **File Paths:** retrieve_file.js (3)
@@ -684,8 +675,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** go to (1)
 
-#### Listing files
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files/listing-files?u=76281980)
+#### [Listing files](https://www.linkedin.com/learning/openai-api-working-with-files/listing-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -711,7 +701,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/openai-api-working-with-files/listing-files?u=76281980&t=68)** The next thing to change is our upload purpose.
 >
-> **[1:10](https://www.linkedin.com/learning/openai-api-working-with-files/listing-files?u=76281980&t=70)** Currently we're uploading for the purpose of assistants, but this file is for a fine tuning operation, so we'll be changing the purpose from assistants to fine-tune, and we are done.
+> **[1:10](https://www.linkedin.com/learning/openai-api-working-with-files/listing-files?u=76281980&t=70)** Currently we're uploading for the purpose of assistants, but this file is for a [[Fine Tuning]] operation, so we'll be changing the purpose from assistants to fine-tune, and we are done.
 >
 > **[1:24](https://www.linkedin.com/learning/openai-api-working-with-files/listing-files?u=76281980&t=84)** Let's go ahead and run this code to upload our JSONL file.
 >
@@ -745,7 +735,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/openai-api-working-with-files/listing-files?u=76281980&t=186)** Oh my, as we can see, this returns a complete FilesObjectPage.
 >
-> **[3:12](https://www.linkedin.com/learning/openai-api-working-with-files/listing-files?u=76281980&t=192)** So much data and metadata in here, but the property we're most interested in is the data property.
+> **[3:12](https://www.linkedin.com/learning/openai-api-working-with-files/listing-files?u=76281980&t=192)** So much data and [[Metadata]] in here, but the property we're most interested in is the data property.
 >
 > **[3:18](https://www.linkedin.com/learning/openai-api-working-with-files/listing-files?u=76281980&t=198)** So let's scroll down to see that.
 >
@@ -789,7 +779,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fine Tuning]] (4), data (4), api (3), next (3), node (3)
+> **Frameworks & Libraries:** [[Fine Tuning]] (4), [[Metadata]] (1)
 > **Code Identifiers:** list_files (3), upload_files (2), spanish_translated_sample_file (2), assistant_queries (1), uploadedfiles (1)
 > **Env Vars:** jsonl (3), api (3)
 > **Tools:** terminal (5), vs code (1)
@@ -798,8 +788,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (2), go back to (1)
 > **UI Navigation:** scroll down (1)
 
-#### Deleting files
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files/deleting-files?u=76281980)
+#### [Deleting files](https://www.linkedin.com/learning/openai-api-working-with-files/deleting-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -811,7 +800,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/openai-api-working-with-files/deleting-files?u=76281980&t=22)** Back in VS Code I have added a new file with the name testfile.txt.
 >
-> **[0:27](https://www.linkedin.com/learning/openai-api-working-with-files/deleting-files?u=76281980&t=27)** This file simply contains over 50,000 lines of the word test file content.
+> **[0:27](https://www.linkedin.com/learning/openai-api-working-with-files/deleting-files?u=76281980&t=27)** This file simply contains over 50,000 lines of the [[Microsoft Word|word]] test file content.
 >
 > **[0:34](https://www.linkedin.com/learning/openai-api-working-with-files/deleting-files?u=76281980&t=34)** We're going to be uploading this file, then later delete it using the OpenAI files API.
 >
@@ -877,7 +866,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), data (1), [[Microsoft Word|Word]] (1), node (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **File Paths:** file.txt (5), file.js (3), testfile.txt (1)
 > **Env Vars:** api (8)
 > **Tools:** vs code (4), terminal (3)
@@ -890,20 +879,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-working-with-files/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/openai-api-working-with-files/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/openai-api-working-with-files/next-steps?u=76281980&t=0)** - [Instructor] Congratulations, you have successfully completed this course on working with the OpenAI files API.
 >
-> **[0:06](https://www.linkedin.com/learning/openai-api-working-with-files/next-steps?u=76281980&t=6)** This course is a part of a full series on different parts of the OpenAI API.
+> **[0:06](https://www.linkedin.com/learning/openai-api-working-with-files/next-steps?u=76281980&t=6)** This course is a part of a full series on different parts of the [[OpenAI API]].
 >
 > **[0:10](https://www.linkedin.com/learning/openai-api-working-with-files/next-steps?u=76281980&t=10)** So I'll advise that you check out other OpenAI courses in the series to get a complete knowledge of all the offerings contained in the OpenAI API Suite of features.
 >
 > **[0:22](https://www.linkedin.com/learning/openai-api-working-with-files/next-steps?u=76281980&t=22)** Two other courses that I'll be recommending are Morten Rand-Hendriksen's courses on "Fine-Tuning Your Own GPT Model" and "Building Assistants" using the OpenAI API.
 >
-> **[0:33](https://www.linkedin.com/learning/openai-api-working-with-files/next-steps?u=76281980&t=33)** Both courses are available here on the LinkedIn Learning Library.
+> **[0:33](https://www.linkedin.com/learning/openai-api-working-with-files/next-steps?u=76281980&t=33)** Both courses are available here on the [[LinkedIn]] Learning Library.
 >
 > **[0:37](https://www.linkedin.com/learning/openai-api-working-with-files/next-steps?u=76281980&t=37)** These courses will further expand your knowledge on how you can apply what you have gained in this course to building AI tools for real world use cases, and also trading AI models to suit your use case.
 >
@@ -915,7 +903,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OpenAI API]] (3), api (2), ai (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (3), [[LinkedIn]] (1)
 > **Env Vars:** api (5), gpt (1)
 > **CLI Commands:** go build (1)
 > **Definitions:** is a  (1)

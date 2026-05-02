@@ -63,12 +63,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with variables and conditionals
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/working-with-variables-and-conditionals?u=76281980)
+#### [Working with variables and conditionals](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/working-with-variables-and-conditionals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/working-with-variables-and-conditionals?u=76281980&t=0)** - [Joseph] Tools like Figma are great for designing and prototyping user experiences.
+> **[0:00](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/working-with-variables-and-conditionals?u=76281980&t=0)** - [Joseph] Tools like [[Figma (Software)|Figma]] are great for designing and [[Prototyping]] user experiences.
 >
 > **[0:05](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/working-with-variables-and-conditionals?u=76281980&t=5)** Until recently, a designer wasn't quite able to relay certain actions in a realistic way across a Figma prototype.
 >
@@ -80,19 +79,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[Prototyping]] (1), career (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[Prototyping]] (1)
 > **Tools:** figma (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [joseph] (1)
 
-#### Getting set up
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/getting-set-up?u=76281980)
+#### [Getting set up](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/getting-set-up?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/getting-set-up?u=76281980&t=0)** - [Narrator] Before we get started, here are a few things to know about preparing for this course.
 >
-> **[0:05](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/getting-set-up?u=76281980&t=5)** The exercise files are Figma Design documents that have been exported to local .fig files for distribution.
+> **[0:05](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/getting-set-up?u=76281980&t=5)** The exercise files are [[Figma (Software)|Figma]] Design documents that have been exported to local .fig files for distribution.
 >
 > **[0:12](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/getting-set-up?u=76281980&t=12)** Starter files for specific movies are accessible through the naming convention that corresponds to those movies.
 >
@@ -122,12 +120,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Figma design file overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/figma-design-file-overview?u=76281980)
+#### [Figma design file overview](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/figma-design-file-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/figma-design-file-overview?u=76281980&t=0)** - [Instructor] Before getting into variables and the functionalities they empower, we'll have a look at the Figma design file that we'll use in this course.
+> **[0:00](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/figma-design-file-overview?u=76281980&t=0)** - [Instructor] Before getting into variables and the functionalities they empower, we'll have a look at the [[Figma (Software)|Figma]] design file that we'll use in this course.
 >
 > **[0:09](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/figma-design-file-overview?u=76281980&t=9)** The existing starter prototype includes all the screens and components we'll need with basic navigational interactions already configured.
 >
@@ -135,7 +132,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/figma-design-file-overview?u=76281980&t=21)** We have a home screen, screens for all six product variants, a cart, and some additional things like a profile screen, a preferences screen, thank you, and a simple splash screen.
 >
-> **[0:38](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/figma-design-file-overview?u=76281980&t=38)** We also include a small design system, which contains our colors, typography, and components.
+> **[0:38](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/figma-design-file-overview?u=76281980&t=38)** We also include a small design system, which contains our colors, [[Typography]], and components.
 >
 > **[0:45](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/figma-design-file-overview?u=76281980&t=45)** If we look on our Assets, we can see all the components that have been defined.
 >
@@ -147,7 +144,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/figma-design-file-overview?u=76281980&t=78)** Let's go ahead and launch our design.
 >
-> **[1:26](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/figma-design-file-overview?u=76281980&t=86)** We're taken to the welcome screen and it prompts us to explore different products.
+> **[1:26](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/figma-design-file-overview?u=76281980&t=86)** We're taken to the welcome screen and it prompts us to explore different [[Microsoft Products|products]].
 >
 > **[1:33](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/figma-design-file-overview?u=76281980&t=93)** From here, we're able to select a product, read more about it, and add it to the cart.
 >
@@ -165,16 +162,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Figma (Software)|Figma]] (1), [[Typography]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), [[Typography]] (1), [[Microsoft Products|Products]] (1)
 > **Tools:** figma (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating local variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/creating-local-variables?u=76281980)
+#### [Creating local variables](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/creating-local-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/creating-local-variables?u=76281980&t=0)** - [Instructor] Before we're able to make use of any variables within a Figma design file, we must first create them within the design workspace.
+> **[0:00](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/creating-local-variables?u=76281980&t=0)** - [Instructor] Before we're able to make use of any variables within a [[Figma (Software)|Figma]] design file, we must first create them within the design workspace.
 >
 > **[0:09](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/creating-local-variables?u=76281980&t=9)** A fresh Figma document will not include any variable definitions until you enter into the local variables dialog and begin creating them.
 >
@@ -196,7 +192,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/creating-local-variables?u=76281980&t=69)** And Boolean variables, which we'll also make extensive use of in this course are either true or false.
 >
-> **[1:16](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/creating-local-variables?u=76281980&t=76)** They can be used to show and hide things in the design workspace or to check on certain things through conditionals as you're prototyping.
+> **[1:16](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/creating-local-variables?u=76281980&t=76)** They can be used to show and hide things in the design workspace or to check on certain things through conditionals as you're [[Prototyping]].
 >
 > **[1:27](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/creating-local-variables?u=76281980&t=87)** For this first variable, I'm going to choose number and we have to give the variable a name.
 >
@@ -212,7 +208,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/creating-local-variables?u=76281980&t=141)** Each one of these is set to a value of zero because at the beginning of the experience, the user hasn't added any bottles to their cart yet.
 >
-> **[2:29](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/creating-local-variables?u=76281980&t=149)** We'll also add in some Boolean values, so these are going to control things like whether we can see certain products based on preferences, the preferences themselves, and also a set of Booleans to control which products actually show up in the cart at any specific time based on user input.
+> **[2:29](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/creating-local-variables?u=76281980&t=149)** We'll also add in some Boolean values, so these are going to control things like whether we can see certain [[Microsoft Products|products]] based on preferences, the preferences themselves, and also a set of Booleans to control which products actually show up in the cart at any specific time based on user input.
 >
 > **[2:50](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/creating-local-variables?u=76281980&t=170)** First, let's create some Boolean variables for our three preferences named pref intense,
 >
@@ -254,19 +250,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Figma (Software)|Figma]] (3), [[Microsoft Products|Products]] (2), prompt (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[Microsoft Products|Products]] (2), [[Prototyping]] (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** open the (1), click on (1), toggle (1), right-click (1)
 > **Code Identifiers:** cart_total (1), pref_experimental (1), product_delicate (1)
 > **Tools:** figma (3)
 > **Speakers:** - [instructor] (1)
 
-#### Organizing variables into groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/organizing-variables-into-groups?u=76281980)
+#### [Organizing variables into groups](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/organizing-variables-into-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/organizing-variables-into-groups?u=76281980&t=0)** - [Instructor] The proper organization of data is an important aspect of working with variables, as it is with other aspects of a Figma design document through the use of pages, sections, and frames.
+> **[0:00](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/organizing-variables-into-groups?u=76281980&t=0)** - [Instructor] The proper organization of data is an important aspect of working with variables, as it is with other aspects of a [[Figma (Software)|Figma]] design document through the use of pages, sections, and frames.
 >
 > **[0:11](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/organizing-variables-into-groups?u=76281980&t=11)** We can further organize our variables within each collection into named groups for even better recognition.
 >
@@ -310,19 +305,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), data (1), product (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2)
 > **Code Identifiers:** cart_total (1), num_rosemary (1), prod_delicate (1), cart_rosemary (1)
 > **UI Navigation:** click on (4)
 > **Tools:** figma (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding variable collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/adding-variable-collections?u=76281980)
+#### [Adding variable collections](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/adding-variable-collections?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/adding-variable-collections?u=76281980&t=0)** - [Presenter] Collections in Figma are a mechanism through which sets of variables can be organized as defined clusters, set apart from one another.
+> **[0:00](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/adding-variable-collections?u=76281980&t=0)** - [Presenter] Collections in [[Figma (Software)|Figma]] are a mechanism through which sets of variables can be organized as defined clusters, set apart from one another.
 >
 > **[0:09](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/adding-variable-collections?u=76281980&t=9)** Whenever you create new variables, they're automatically added to the default collection, but you can establish additional collections for specific purposes in your design file.
 >
@@ -372,7 +366,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Figma (Software)|Figma]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1)
 > **Code Identifiers:** price_delicate (1), price_bold (1), price_basil (1), price_garlic (1), price_rosemary (1)
 > **Definitions:** is a  (2)
 > **Warnings:** note that (2)
@@ -380,8 +374,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [presenter] (1)
 
-#### Working with variable modes
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/working-with-variable-modes?u=76281980)
+#### [Working with variable modes](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/working-with-variable-modes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -395,7 +388,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/working-with-variable-modes?u=76281980&t=20)** Modes cannot be used in draft design files.
 >
-> **[0:23](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/working-with-variable-modes?u=76281980&t=23)** Those files must be part of a project, defined within Figma.
+> **[0:23](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/working-with-variable-modes?u=76281980&t=23)** Those files must be part of a project, defined within [[Figma (Software)|Figma]].
 >
 > **[0:28](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/working-with-variable-modes?u=76281980&t=28)** We'll create a new mode to prototype a sale through a decrease in the price assigned to each product.
 >
@@ -407,7 +400,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/working-with-variable-modes?u=76281980&t=63)** All of the variable values are duplicated, so if we scroll over to Mode 1, we can see that the values are the same.
 >
-> **[1:12](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/working-with-variable-modes?u=76281980&t=72)** We're going to rename Mode 1 to Regular because these are the regular prices for our products.
+> **[1:12](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/working-with-variable-modes?u=76281980&t=72)** We're going to rename Mode 1 to Regular because these are the regular prices for our [[Microsoft Products|products]].
 >
 > **[1:26](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/working-with-variable-modes?u=76281980&t=86)** Mode 2, we're going to rename to Sale, and of course, we'll adjust the price to represent that sale by changing the variable values.
 >
@@ -457,7 +450,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Figma (Software)|Figma]] (3), feature (1), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** go to (2), click on (2), switch to (1)
 > **Tools:** figma (3)
 > **Warnings:** note that (2)
@@ -470,12 +463,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Assigning variables to text elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/assigning-variables-to-text-elements?u=76281980)
+#### [Assigning variables to text elements](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/assigning-variables-to-text-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/assigning-variables-to-text-elements?u=76281980&t=0)** - [Instructor] We've defined a set of numeric variables that represent the prices of various products, the quantity of each product added to the shopping cart, and the overall shopping cart total.
+> **[0:00](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/assigning-variables-to-text-elements?u=76281980&t=0)** - [Instructor] We've defined a set of numeric variables that represent the prices of various [[Microsoft Products|products]], the quantity of each product added to the shopping cart, and the overall shopping cart total.
 >
 > **[0:11](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/assigning-variables-to-text-elements?u=76281980&t=11)** Variables can be assigned directly to text objects within the design workspace.
 >
@@ -519,7 +511,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/assigning-variables-to-text-elements?u=76281980&t=179)** Notice that inside the variables that are presented to us, we only have variables that are numeric in nature.
 >
-> **[3:07](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/assigning-variables-to-text-elements?u=76281980&t=187)** That's because those are all that can be applied to this particular type of object inside of Figma.
+> **[3:07](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/assigning-variables-to-text-elements?u=76281980&t=187)** That's because those are all that can be applied to this particular type of object inside of [[Figma (Software)|Figma]].
 >
 > **[3:13](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/assigning-variables-to-text-elements?u=76281980&t=193)** Finally, we'll go down to our cart and there are a number of things to apply here.
 >
@@ -541,19 +533,18 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/assigning-variables-to-text-elements?u=76281980&t=282)** Now, when variable data is adjusted within a running prototype through the user interaction, the text associated with these variable bindings will automatically adjust to display the new values.
 >
-> **[4:53](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/assigning-variables-to-text-elements?u=76281980&t=293)** This is also a great way to cascade values across the design in meaningful ways, even if you will not be prototyping with the assigned variables.
+> **[4:53](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/assigning-variables-to-text-elements?u=76281980&t=293)** This is also a great way to cascade values across the design in meaningful ways, even if you will not be [[Prototyping]] with the assigned variables.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Microsoft Products|Products]] (2), [[Figma (Software)|Figma]] (1), data (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Figma (Software)|Figma]] (1), [[Prototyping]] (1)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** make (1), find (1)
 > **Tools:** figma (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prototyping with conditional logic
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/prototyping-with-conditional-logic?u=76281980)
+#### [Prototyping with conditional logic](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/prototyping-with-conditional-logic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -659,7 +650,7 @@ created: 2026-05-02
 >
 > **[6:27](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/prototyping-with-conditional-logic?u=76281980&t=387)** Now, as I click on each one, the conditional fires and changes from its current state to its opposite.
 >
-> **[6:36](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/prototyping-with-conditional-logic?u=76281980&t=396)** Eventually, these user preferences will determine which products appear to the user based upon their preferences.
+> **[6:36](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/prototyping-with-conditional-logic?u=76281980&t=396)** Eventually, these user preferences will determine which [[Microsoft Products|products]] appear to the user based upon their preferences.
 
 > [!info]- Semantic Content
 >
@@ -669,14 +660,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (1)
 
-#### Developing a reset function
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/developing-a-reset-function?u=76281980)
+#### [Developing a reset function](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/developing-a-reset-function?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/developing-a-reset-function?u=76281980&t=0)** - [Instructor] If a user wishes to reset their preferences to the default values, we can make this easy for them to do so through the use of a reset button.
 >
-> **[0:09](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/developing-a-reset-function?u=76281980&t=9)** Resetting preferences in this case will make all products available to the user.
+> **[0:09](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/developing-a-reset-function?u=76281980&t=9)** Resetting preferences in this case will make all [[Microsoft Products|products]] available to the user.
 >
 > **[0:14](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/developing-a-reset-function?u=76281980&t=14)** We do not need any conditionals here.
 >
@@ -710,14 +700,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Code Identifiers:** pref_intense (1), pref_lighter (1), pref_experimental (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Controlling visibility with Booleans
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/controlling-visibility-with-booleans?u=76281980)
+#### [Controlling visibility with Booleans](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/controlling-visibility-with-booleans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -731,7 +720,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/controlling-visibility-with-booleans?u=76281980&t=41)** Let's start with Delicate.
 >
-> **[0:43](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/controlling-visibility-with-booleans?u=76281980&t=43)** Now, this control is a bit more hidden than others, but it's very important when prototyping with variables, as it allows you to show and hide objects based on these Boolean values.
+> **[0:43](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/controlling-visibility-with-booleans?u=76281980&t=43)** Now, this control is a bit more hidden than others, but it's very important when [[Prototyping]] with variables, as it allows you to show and hide objects based on these Boolean values.
 >
 > **[0:54](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/controlling-visibility-with-booleans?u=76281980&t=54)** If we move over into the properties in our design workspace, and we go to our Layer section, we have the little eyeball for visibility, and of course, we can manually turn this off and on and our objects are going to either hide or be made visible based upon that.
 >
@@ -765,7 +754,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/controlling-visibility-with-booleans?u=76281980&t=169)** Now, inside of our cart, we have our invoice.
 >
-> **[2:54](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/controlling-visibility-with-booleans?u=76281980&t=174)** If we double click there, we get a products list.
+> **[2:54](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/controlling-visibility-with-booleans?u=76281980&t=174)** If we double click there, we get a [[Microsoft Products|products]] list.
 >
 > **[2:57](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/controlling-visibility-with-booleans?u=76281980&t=177)** And within our products list are component instances that include the name of the product, a minus button, a plus button, the quantity, which we already are binding a variable to, and the price which we are already binding a variable to.
 >
@@ -805,11 +794,11 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/controlling-visibility-with-booleans?u=76281980&t=308)** Note, inside of our cart, that with some of these Booleans initially set to False as they are, elements are hidden even in the design workspace.
 >
-> **[5:18](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/controlling-visibility-with-booleans?u=76281980&t=318)** Other elements react and adapt per user interactions within the running prototype.
+> **[5:18](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/controlling-visibility-with-booleans?u=76281980&t=318)** Other elements [[React.js|react]] and adapt per user interactions within the running prototype.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (3), data (1), [[Prototyping]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Prototyping]] (1), [[React.js|React]] (1)
 > **UI Navigation:** click on (5), go to (3), switch to (1)
 > **Code Identifiers:** pref_experimental (2), pref_lighter (1), pref_intense (1), cart_delicate (1), cart_medium (1)
 > **CLI Commands:** make (2)
@@ -817,8 +806,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding products to the cart
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/adding-products-to-the-cart?u=76281980)
+#### [Adding products to the cart](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/adding-products-to-the-cart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -882,7 +870,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/adding-products-to-the-cart?u=76281980&t=253)** I'm going to collapse that and add a new action.
 >
-> **[4:16](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/adding-products-to-the-cart?u=76281980&t=256)** The first thing we want to do is increase the number of Medium products.
+> **[4:16](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/adding-products-to-the-cart?u=76281980&t=256)** The first thing we want to do is increase the number of Medium [[Microsoft Products|products]].
 >
 > **[4:22](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/adding-products-to-the-cart?u=76281980&t=262)** So, let's go ahead and Set variable, and this is going to be num_medium.
 >
@@ -906,7 +894,7 @@ created: 2026-05-02
 >
 > **[5:57](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/adding-products-to-the-cart?u=76281980&t=357)** If we had turned all of these Booleans off delicate would be the only one that shows.
 >
-> **[6:05](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/adding-products-to-the-cart?u=76281980&t=365)** We'll, of course, take care of that after we do all of the rest.
+> **[6:05](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/adding-products-to-the-cart?u=76281980&t=365)** We'll, of course, take care of that after we do all of the [[Representational State Transfer (REST)|rest]].
 >
 > **[6:09](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/adding-products-to-the-cart?u=76281980&t=369)** If we go back home and go to Medium we can add a Medium bottle to the cart as well.
 >
@@ -920,7 +908,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), functional (1), next (1), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** cart_total (4), num_delicate (3), cart_delicate (2), num_medium (2), price_delicate (1)
 > **UI Navigation:** navigate to (4), click on (3), go to (1)
 > **Definitions:** is a  (2)
@@ -929,8 +917,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding quantities to the cart
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/adding-quantities-to-the-cart?u=76281980)
+#### [Adding quantities to the cart](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/adding-quantities-to-the-cart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -938,7 +925,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/adding-quantities-to-the-cart?u=76281980&t=16)** We'll first handle the ability to add quantities to the cart by setting new data values for a product quantity and adjust the cart total as appropriate.
 >
-> **[0:26](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/adding-quantities-to-the-cart?u=76281980&t=26)** Just like before, we'll want to do this for all six products.
+> **[0:26](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/adding-quantities-to-the-cart?u=76281980&t=26)** Just like before, we'll want to do this for all six [[Microsoft Products|products]].
 >
 > **[0:32](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/adding-quantities-to-the-cart?u=76281980&t=32)** Select the Delicate list item, and within that list item, you'll find this little plus button.
 >
@@ -982,7 +969,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), data (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** num_delicate (2), cart_total (2), numb_medium (2), price_delicate (1), price_medium (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** select the (1), click on (1)
@@ -991,8 +978,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Removing quantities in the cart
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/removing-quantities-in-the-cart?u=76281980)
+#### [Removing quantities in the cart](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/removing-quantities-in-the-cart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1082,7 +1068,7 @@ created: 2026-05-02
 >
 > **[5:45](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/removing-quantities-in-the-cart?u=76281980&t=345)** So I'm going to go back to my design workspace, open up my local variables, and then under visibility, turn all of my cart visibility options back to false.
 >
-> **[6:07](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/removing-quantities-in-the-cart?u=76281980&t=367)** Recall that we also created a group of product display Booleans that can be used to perform additional visibility actions for our products, such as when a product may be out of stock or in other use cases.
+> **[6:07](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/removing-quantities-in-the-cart?u=76281980&t=367)** Recall that we also created a group of product display Booleans that can be used to perform additional visibility actions for our [[Microsoft Products|products]], such as when a product may be out of stock or in other use cases.
 >
 > **[6:20](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/removing-quantities-in-the-cart?u=76281980&t=380)** While we do not employ these variables directly in this course, they exist for you to experiment with and take things a bit further if desired.
 >
@@ -1140,7 +1126,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), hit (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** num_delicate (2), price_delicate (1), cart_delicate (1), num_medium (1), price_medium (1)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -1154,12 +1140,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's next?
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/what-s-next?u=76281980)
+#### [What's next?](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/what-s-next?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/what-s-next?u=76281980&t=0)** - [Narrator] With the course concluded, you should have a lot of ideas on how you can apply variables and conditionals to your own interactive prototypes using Figma.
+> **[0:00](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/what-s-next?u=76281980&t=0)** - [Narrator] With the course concluded, you should have a lot of ideas on how you can apply variables and conditionals to your own interactive prototypes using [[Figma (Software)|Figma]].
 >
 > **[0:10](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/what-s-next?u=76281980&t=10)** This set of features is very exciting and is sure to gain more functionality in future releases.
 >
@@ -1167,7 +1152,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/what-s-next?u=76281980&t=29)** We proceeded to use both design and prototype workspaces to either bind those variables to design elements, like text values or object visibility, and also bind actions to user interactions to set variable values, make conditional choices based on those values, and calculate new values across the prototype.
 >
-> **[0:53](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/what-s-next?u=76281980&t=53)** All of this adds an additional level of realism to the overall user experience.
+> **[0:53](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/what-s-next?u=76281980&t=53)** All of this adds an additional level of realism to the overall [[User Experience (UX)|user experience]].
 >
 > **[0:59](https://www.linkedin.com/learning/figma-designing-with-variables-and-conditionals/what-s-next?u=76281980&t=59)** I'm Joseph Labrecque, and I hope you enjoyed working with variables and conditional statements using Figma.
 >

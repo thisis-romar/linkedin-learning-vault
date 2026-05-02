@@ -118,18 +118,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why you need to know about artificial intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/why-you-need-to-know-about-artificial-intelligence?u=76281980)
+#### [Why you need to know about artificial intelligence](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/why-you-need-to-know-about-artificial-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/why-you-need-to-know-about-artificial-intelligence?u=76281980&t=0)** - Artificial intelligence systems are now finding their way into the workplace.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/why-you-need-to-know-about-artificial-intelligence?u=76281980&t=0)** - [[Artificial Intelligence (AI)|Artificial intelligence]] systems are now finding their way into the workplace.
 >
-> **[0:04](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/why-you-need-to-know-about-artificial-intelligence?u=76281980&t=4)** These systems can discover new pharmaceuticals, recommend products, detect fraud, and much more.
+> **[0:04](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/why-you-need-to-know-about-artificial-intelligence?u=76281980&t=4)** These systems can discover new pharmaceuticals, recommend [[Microsoft Products|products]], detect fraud, and much more.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/why-you-need-to-know-about-artificial-intelligence?u=76281980&t=11)** This course will give you a high level overview of artificial intelligence concepts and technology.
 >
-> **[0:17](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/why-you-need-to-know-about-artificial-intelligence?u=76281980&t=17)** You'll see what it means for systems to be intelligent, then discover some widely used machine learning algorithms and artificial neural networks.
+> **[0:17](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/why-you-need-to-know-about-artificial-intelligence?u=76281980&t=17)** You'll see what it means for systems to be intelligent, then discover some widely used machine learning [[Algorithms]] and [[Artificial Neural Networks]].
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/why-you-need-to-know-about-artificial-intelligence?u=76281980&t=26)** Many of those who interact with these systems will be people just like you, people in business entrepreneurs, managers, or students.
 >
@@ -139,7 +138,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Microsoft Products|Products]] (1), [[Algorithms]] (1), [[Artificial Neural Networks]] (1), business (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Microsoft Products|Products]] (1), [[Algorithms]] (1), [[Artificial Neural Networks]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - artificial (1)
 
@@ -148,8 +147,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Define general intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/define-general-intelligence?u=76281980)
+#### [Define general intelligence](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/define-general-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -183,7 +181,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/define-general-intelligence?u=76281980&t=62)** A computer's been able to beat humans in chess for decades.
 >
-> **[1:05](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/define-general-intelligence?u=76281980&t=65)** Google's DeepMind has beaten the best players in an ancient game called Go.
+> **[1:05](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/define-general-intelligence?u=76281980&t=65)** [[Google]]'s DeepMind has beaten the best players in an ancient game called Go.
 >
 > **[1:10](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/define-general-intelligence?u=76281980&t=70)** The game is so complex that there's thought to be more possible games than there are atoms in the universe.
 >
@@ -193,7 +191,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/define-general-intelligence?u=76281980&t=90)** So, how can a system that's so capable also not know what it means to play a game?
 >
-> **[1:36](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/define-general-intelligence?u=76281980&t=96)** For years, computer scientists have defined artificial intelligence as a system that shows behavior that could be interpreted as human intelligence.
+> **[1:36](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/define-general-intelligence?u=76281980&t=96)** For years, computer scientists have defined [[Artificial Intelligence (AI)|artificial intelligence]] as a system that shows behavior that could be interpreted as human intelligence.
 >
 > **[1:45](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/define-general-intelligence?u=76281980&t=105)** But this simple definition cuts to the heart of the challenge.
 >
@@ -219,7 +217,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/define-general-intelligence?u=76281980&t=157)** The organizations that will first benefit from AI systems will be the ones that work within a well-defined space.
 >
-> **[2:44](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/define-general-intelligence?u=76281980&t=164)** We've seen this with web search companies and e-commerce.
+> **[2:44](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/define-general-intelligence?u=76281980&t=164)** We've seen this with web search companies and [[E-Commerce]].
 >
 > **[2:47](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/define-general-intelligence?u=76281980&t=167)** It's easy to see it as rules and pattern matching.
 >
@@ -235,13 +233,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (4), ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), chatbot (3), [[Google]] (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Google]] (2), [[E-Commerce]] (1)
 > **Definitions:** means that (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - one (1)
 
-#### The general problem-solver
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-general-problem-solver?u=76281980)
+#### [The general problem-solver](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-general-problem-solver?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -253,7 +250,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-general-problem-solver?u=76281980&t=19)** When you see a stop sign, you know how to stop for traffic.
 >
-> **[0:22](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-general-problem-solver?u=76281980&t=22)** When you see the letter A, you know that the word will make a certain sound.
+> **[0:22](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-general-problem-solver?u=76281980&t=22)** When you see the letter A, you know that the [[Microsoft Word|word]] will make a certain sound.
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-general-problem-solver?u=76281980&t=26)** When you see a sandwich, you might think of eating.
 >
@@ -263,7 +260,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-general-problem-solver?u=76281980&t=37)** If you program a car to stop at a sign, or if you teach a computer to respond to a language, then it doesn't make the system intelligent.
 >
-> **[0:45](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-general-problem-solver?u=76281980&t=45)** In 1980, the philosopher John Searle explained that sometimes systems can seem intelligent, but they're just mindlessly matching patterns.
+> **[0:45](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-general-problem-solver?u=76281980&t=45)** In 1980, the philosopher [[John the Ripper|John]] Searle explained that sometimes systems can seem intelligent, but they're just mindlessly matching patterns.
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-general-problem-solver?u=76281980&t=53)** To explain, he created what he called the Chinese Room Argument.
 >
@@ -323,14 +320,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1), [[Microsoft Word|Word]] (1), ai (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (2), [[Microsoft Word|Word]] (1)
 > **Analogies:** imagine (2), just like (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Strong vs. weak AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/strong-vs-weak-ai?u=76281980)
+#### [Strong vs. weak AI](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/strong-vs-weak-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -340,7 +336,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/strong-vs-weak-ai?u=76281980&t=9)** The system might seem intelligent, but it's actually just like a parrot with a great memory.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/strong-vs-weak-ai?u=76281980&t=14)** The philosopher John Searle said that you can think of artificial intelligence in two ways.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/strong-vs-weak-ai?u=76281980&t=14)** The philosopher [[John the Ripper|John]] Searle said that you can think of [[Artificial Intelligence (AI)|artificial intelligence]] in two ways.
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/strong-vs-weak-ai?u=76281980&t=19)** There's strong AI and weak AI.
 >
@@ -420,7 +416,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), data (1), database (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[John the Ripper|John]] (1)
 > **Analogies:** just like (2), it's like (1)
 > **Env Vars:** c3po (1), gofai (1)
 > **Definitions:** is a  (2)
@@ -431,8 +427,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Predictive AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/predictive-ai?u=76281980)
+#### [Predictive AI](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/predictive-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -452,7 +447,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/predictive-ai?u=76281980&t=36)** These are businesses trying to better predict your behavior.
 >
-> **[0:40](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/predictive-ai?u=76281980&t=40)** That's why from the very beginning, businesses have been very interested in the power of artificial intelligence.
+> **[0:40](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/predictive-ai?u=76281980&t=40)** That's why from the very beginning, businesses have been very interested in the power of [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:46](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/predictive-ai?u=76281980&t=46)** These companies looked at AI and they saw the potential to predict the future.
 >
@@ -472,7 +467,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/predictive-ai?u=76281980&t=94)** To some people, this power might seem trivial, but think about the differences between the services that you use.
 >
-> **[1:41](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/predictive-ai?u=76281980&t=101)** Why do you use Google or Bing over other search engines?
+> **[1:41](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/predictive-ai?u=76281980&t=101)** Why do you use [[Google]] or Bing over other search engines?
 >
 > **[1:45](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/predictive-ai?u=76281980&t=105)** Why would you use Spotify or Apple Music over other streaming services?
 >
@@ -482,9 +477,9 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/predictive-ai?u=76281980&t=118)** If you think about it, most of the services that have excelled over the past few years have mastered the art of predicting.
 >
-> **[2:06](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/predictive-ai?u=76281980&t=126)** Predictive AI has been the quiet engine that's been driving many of today's largest companies.
+> **[2:06](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/predictive-ai?u=76281980&t=126)** [[Predictive AI]] has been the quiet engine that's been driving many of today's largest companies.
 >
-> **[2:12](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/predictive-ai?u=76281980&t=132)** In fact, LinkedIn, the site that you're on right now, got it started accurately predicting your business contacts.
+> **[2:12](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/predictive-ai?u=76281980&t=132)** In fact, [[LinkedIn]], the site that you're on right now, got it started accurately predicting your business contacts.
 >
 > **[2:20](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/predictive-ai?u=76281980&t=140)** Making predictions relies on what computer systems are good at.
 >
@@ -502,18 +497,17 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/predictive-ai?u=76281980&t=180)** The top companies have made billions of dollars perfecting the ability to sell you a tissue just before you sneeze.
 >
-> **[3:07](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/predictive-ai?u=76281980&t=187)** It's all done through predictive AI's large-scale statistics, probabilities, and data.
+> **[3:07](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/predictive-ai?u=76281980&t=187)** It's all done through predictive AI's large-scale [[Statistics]], probabilities, and data.
 >
 > **[3:13](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/predictive-ai?u=76281980&t=193)** The more data you have, the more accurately you can predict the future.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (8), ai (3), data (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Predictive AI]] (2), [[Google]] (1), [[LinkedIn]] (1), [[Statistics]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - for (1)
 
-#### Generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-ai?u=76281980)
+#### [Generative AI](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -529,13 +523,13 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-ai?u=76281980&t=29)** So, there's a long tradition of taking something that's plentiful and turning it into something valuable.
 >
-> **[0:35](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-ai?u=76281980&t=35)** Fast forward to today, and you have generative AI.
+> **[0:35](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-ai?u=76281980&t=35)** Fast forward to today, and you have [[Generative AI]].
 >
 > **[0:38](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-ai?u=76281980&t=38)** Generative AI is about taking massive amounts of data and converting it into something valuable.
 >
 > **[0:44](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-ai?u=76281980&t=44)** The idea behind it is that if you can get an AI system to vacuum up all the world's data, then it can generate something new.
 >
-> **[0:52](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-ai?u=76281980&t=52)** Remember that predictive AI is about using a smaller amount of data to make accurate predictions.
+> **[0:52](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-ai?u=76281980&t=52)** Remember that [[Predictive AI]] is about using a smaller amount of data to make accurate predictions.
 >
 > **[0:57](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-ai?u=76281980&t=57)** So, you might be able to guess what music a customer likes, and you can guess what items they'll buy.
 >
@@ -553,7 +547,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-ai?u=76281980&t=98)** So, think of it this way.
 >
-> **[1:39](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-ai?u=76281980&t=99)** Imagine that you wanted to create a banking chatbot that answered common questions.
+> **[1:39](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-ai?u=76281980&t=99)** Imagine that you wanted to create a [[Banking]] chatbot that answered common questions.
 >
 > **[1:43](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-ai?u=76281980&t=103)** You could create a predictive AI system that could quickly answer very specific questions.
 >
@@ -589,7 +583,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Generative AI]] (5), ai (3), [[Predictive AI]] (2), chatbot (2)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Predictive AI]] (2), [[Banking]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** just like (1), imagine (1)
 > **Env Vars:** jrr (1)
@@ -600,8 +594,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/machine-learning?u=76281980)
+#### [Machine learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -661,13 +654,13 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/machine-learning?u=76281980&t=118)** The 1990s was a time of explosive growth for machine learning systems.
 >
-> **[2:03](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/machine-learning?u=76281980&t=123)** The new data was like water that poured over the dry fields of artificial intelligence.
+> **[2:03](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/machine-learning?u=76281980&t=123)** The new data was like water that poured over the dry fields of [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[2:09](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/machine-learning?u=76281980&t=129)** At this point, machine learning systems had the fuel they needed to become more intelligent.
 >
 > **[2:14](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/machine-learning?u=76281980&t=134)** So if you wanted to teach the system on how to identify a cat, you had access to millions of cat pictures online.
 >
-> **[2:22](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/machine-learning?u=76281980&t=142)** Computer scientists began to create newer machine learning algorithms.
+> **[2:22](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/machine-learning?u=76281980&t=142)** Computer scientists began to create newer machine learning [[Algorithms]].
 >
 > **[2:26](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/machine-learning?u=76281980&t=146)** There were even some researchers that started to create systems that were designed to mimic the human brain.
 >
@@ -691,19 +684,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Algorithms]] (1)
 > **CLI Commands:** cat (2), find (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** imagine (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - imagine (1)
 
-#### Artificial neural networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/artificial-neural-networks?u=76281980)
+#### [Artificial neural networks](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/artificial-neural-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/artificial-neural-networks?u=76281980&t=0)** - Machine learning has gotten a big boost from artificial neural networks.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/artificial-neural-networks?u=76281980&t=0)** - Machine learning has gotten a big boost from [[Artificial Neural Networks]].
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/artificial-neural-networks?u=76281980&t=4)** An artificial neural network is an AI system that mimics the structure of the human brain.
 >
@@ -723,7 +715,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/artificial-neural-networks?u=76281980&t=30)** Then, in another round, we'd ask if it's alive, "Does it make noise?"
 >
-> **[0:34](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/artificial-neural-networks?u=76281980&t=34)** After each round, we would start to zoom in to identify the item.
+> **[0:34](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/artificial-neural-networks?u=76281980&t=34)** After each round, we would start to [[Zoom]] in to identify the item.
 >
 > **[0:38](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/artificial-neural-networks?u=76281980&t=38)** Then, at the end, we started making guesses.
 >
@@ -775,7 +767,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/artificial-neural-networks?u=76281980&t=154)** When there's dots in a dog-like pattern, then the system makes a guess.
 >
-> **[2:39](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/artificial-neural-networks?u=76281980&t=159)** Now, remember that these neural networks are still machine learning systems, so the network needs access to huge amounts of data.
+> **[2:39](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/artificial-neural-networks?u=76281980&t=159)** Now, remember that these [[Neural Networks]] are still machine learning systems, so the network needs access to huge amounts of data.
 >
 > **[2:46](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/artificial-neural-networks?u=76281980&t=166)** If you don't have hundreds of thousands of pictures of dogs, then there's no way for that artificial neural network to learn.
 >
@@ -785,7 +777,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), data (2), [[Artificial Neural Networks]] (1), ai (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Artificial Neural Networks]] (1), [[Zoom]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** cat (2), make (1)
 > **Analogies:** picture (2), just like (1)
 > **Definitions:** is an  (1), is called (1)
@@ -797,12 +789,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Searching for patterns in data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/searching-for-patterns-in-data?u=76281980)
+#### [Searching for patterns in data](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/searching-for-patterns-in-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/searching-for-patterns-in-data?u=76281980&t=1)** - Over the last 30 years, machine learning systems have become the dominant form of artificial intelligence.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/searching-for-patterns-in-data?u=76281980&t=1)** - Over the last 30 years, machine learning systems have become the dominant form of [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/searching-for-patterns-in-data?u=76281980&t=6)** That's because these systems are exceptionally well designed to look for patterns in massive data sets.
 >
@@ -840,7 +831,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/searching-for-patterns-in-data?u=76281980&t=87)** No human could look through all that data and gain any meaning from it.
 >
-> **[1:31](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/searching-for-patterns-in-data?u=76281980&t=91)** But machine learning algorithms look through this data and find patterns.
+> **[1:31](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/searching-for-patterns-in-data?u=76281980&t=91)** But machine learning [[Algorithms]] look through this data and find patterns.
 >
 > **[1:35](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/searching-for-patterns-in-data?u=76281980&t=95)** You can see which content users find more interesting.
 >
@@ -852,15 +843,15 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/searching-for-patterns-in-data?u=76281980&t=117)** This data has an enormous amount of value.
 >
-> **[1:59](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/searching-for-patterns-in-data?u=76281980&t=119)** You can use it to build new customer products or to improve products you already have.
+> **[1:59](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/searching-for-patterns-in-data?u=76281980&t=119)** You can use it to build new customer [[Microsoft Products|products]] or to improve products you already have.
 >
-> **[2:04](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/searching-for-patterns-in-data?u=76281980&t=124)** It's no coincidence that companies like Google and Microsoft are most enthusiastic about AI.
+> **[2:04](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/searching-for-patterns-in-data?u=76281980&t=124)** It's no coincidence that companies like [[Google]] and [[Microsoft]] are most enthusiastic about AI.
 >
 > **[2:11](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/searching-for-patterns-in-data?u=76281980&t=131)** In many ways, their whole business has been built on using machines to interpret massive data sets.
 >
 > **[2:18](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/searching-for-patterns-in-data?u=76281980&t=138)** This type of pattern matching can be a huge competitive advantage.
 >
-> **[2:22](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/searching-for-patterns-in-data?u=76281980&t=142)** Plus, newer artificial neural networks now allow machines to find patterns and even larger data sets.
+> **[2:22](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/searching-for-patterns-in-data?u=76281980&t=142)** Plus, newer [[Artificial Neural Networks]] now allow machines to find patterns and even larger data sets.
 >
 > **[2:29](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/searching-for-patterns-in-data?u=76281980&t=149)** When just a few decades ago, these patterns would've been imperceptible with regular machine learning algorithms.
 >
@@ -886,20 +877,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Algorithms]] (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Algorithms]] (2), [[Microsoft Products|Products]] (2), [[Google]] (1), [[Microsoft]] (1)
 > **CLI Commands:** find (3)
 > **Analogies:** it's like (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - over (1)
 
-#### Robotics
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/robotics?u=76281980)
+#### [Robotics](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/robotics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/robotics?u=76281980&t=0)** - One of the best ways to connect with humans is to join us in the physical world.
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/robotics?u=76281980&t=5)** That's why robotics is one of the most interesting areas in artificial intelligence.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/robotics?u=76281980&t=5)** That's why robotics is one of the most interesting areas in [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/robotics?u=76281980&t=9)** Robotics is about having machines work on physical tasks.
 >
@@ -929,7 +919,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/robotics?u=76281980&t=73)** A basic example of this is self-driving vehicles.
 >
-> **[1:17](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/robotics?u=76281980&t=77)** You couldn't program a car to react to everything it might see on the road.
+> **[1:17](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/robotics?u=76281980&t=77)** You couldn't program a car to [[React.js|react]] to everything it might see on the road.
 >
 > **[1:20](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/robotics?u=76281980&t=80)** That's why the newest vehicles are using machine learning on an artificial neural network.
 >
@@ -945,13 +935,13 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/robotics?u=76281980&t=113)** That's why you often see self-driving cars with a human in the driver's seat.
 >
-> **[1:57](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/robotics?u=76281980&t=117)** They supervise how the artificial neural network reacts to the data streaming in from the outside world.
+> **[1:57](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/robotics?u=76281980&t=117)** They supervise how the artificial neural network reacts to the [[Data Streaming]] in from the outside world.
 >
 > **[2:03](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/robotics?u=76281980&t=123)** But like any new skill, it takes time for the machine to collect enough data.
 >
-> **[2:08](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/robotics?u=76281980&t=128)** In artificial neural networks, this is often called training the network.
+> **[2:08](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/robotics?u=76281980&t=128)** In [[Artificial Neural Networks]], this is often called training the network.
 >
-> **[2:12](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/robotics?u=76281980&t=132)** Google famously said that they think of their self-driving cars not as a robotics problem, but as a data problem.
+> **[2:12](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/robotics?u=76281980&t=132)** [[Google]] famously said that they think of their self-driving cars not as a robotics problem, but as a data problem.
 >
 > **[2:19](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/robotics?u=76281980&t=139)** It's true that to figure out how to get a car to steer left or right is simple compared to having a car understand when to turn left or right.
 >
@@ -975,14 +965,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), ai (3), [[React.js|React]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Artificial Neural Networks]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Data Streaming]] (1), [[Artificial Neural Networks]] (1), [[Google]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - one (1)
 
-#### Natural language processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/natural-language-processing?u=76281980)
+#### [Natural language processing](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/natural-language-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -990,7 +979,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/natural-language-processing?u=76281980&t=7)** In many ways, machine to machine communication is much more accurate than human communication.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/natural-language-processing?u=76281980&t=14)** Computer networking transmits exact copies of information at lightning speeds.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/natural-language-processing?u=76281980&t=14)** [[Computer Networking]] transmits exact copies of information at lightning speeds.
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/natural-language-processing?u=76281980&t=19)** Humans, on the other hand, are always struggling to reach greater understanding.
 >
@@ -998,13 +987,13 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/natural-language-processing?u=76281980&t=28)** That means that the machines we rely on must do a better job communicating in our world.
 >
-> **[0:34](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/natural-language-processing?u=76281980&t=34)** To achieve this, AI programs do something called natural language processing.
+> **[0:34](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/natural-language-processing?u=76281980&t=34)** To achieve this, AI programs do something called [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/natural-language-processing?u=76281980&t=40)** This is when you interact with a machine using your own natural language.
 >
 > **[0:44](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/natural-language-processing?u=76281980&t=44)** You can talk with the machine in the same way you talk with other humans.
 >
-> **[0:49](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/natural-language-processing?u=76281980&t=49)** We're all familiar with communicating with a search engine like Google.
+> **[0:49](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/natural-language-processing?u=76281980&t=49)** We're all familiar with communicating with a search engine like [[Google]].
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/natural-language-processing?u=76281980&t=53)** There's a little box, and then you type in questions.
 >
@@ -1026,13 +1015,13 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/natural-language-processing?u=76281980&t=93)** The machine also must figure out what's a big fluffy waffle.
 >
-> **[1:38](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/natural-language-processing?u=76281980&t=98)** Modern natural language processing uses machine learning and artificial neural networks.
+> **[1:38](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/natural-language-processing?u=76281980&t=98)** Modern natural language processing uses machine learning and [[Artificial Neural Networks]].
 >
 > **[1:43](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/natural-language-processing?u=76281980&t=103)** It looks through millions of conversations to identify patterns.
 >
-> **[1:47](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/natural-language-processing?u=76281980&t=107)** So if it sees conversations with the word big, fluffy, and Belgian waffles, then it knows that there's a pattern between these words.
+> **[1:47](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/natural-language-processing?u=76281980&t=107)** So if it sees conversations with the [[Microsoft Word|word]] big, fluffy, and Belgian waffles, then it knows that there's a pattern between these words.
 >
-> **[1:55](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/natural-language-processing?u=76281980&t=115)** That's why many companies like Google, Microsoft, and Apple offer free email, voicemail, or text.
+> **[1:55](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/natural-language-processing?u=76281980&t=115)** That's why many companies like Google, [[Microsoft]], and Apple offer free email, voicemail, or text.
 >
 > **[2:01](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/natural-language-processing?u=76281980&t=121)** It's a way to have their artificial neural networks look through conversations to better identify patterns.
 >
@@ -1068,21 +1057,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (7), [[Google]] (5), [[Search]] (2), [[Artificial Neural Networks]] (2), database (2)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (7), [[Google]] (5), [[Artificial Neural Networks]] (2), [[Computer Networking]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** means that (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - as (1)
 
-#### The internet of things
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-internet-of-things?u=76281980)
+#### [The internet of things](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-internet-of-things?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-internet-of-things?u=76281980&t=1)** - Today, there are thermostats, doorbells, and televisions that connect with each other and the world, and there are smart watches that check your location and some even upload medical data.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-internet-of-things?u=76281980&t=12)** This new way of connecting is commonly called the Internet of Things.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-internet-of-things?u=76281980&t=12)** This new way of connecting is commonly called the [[IoT|Internet of Things]].
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-internet-of-things?u=76281980&t=16)** Sometimes you'll see it as IoT for short.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-internet-of-things?u=76281980&t=16)** Sometimes you'll see it as [[IoT]] for short.
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-internet-of-things?u=76281980&t=19)** IoT devices are objects with sensors that communicate with the outside world.
 >
@@ -1104,9 +1092,9 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-internet-of-things?u=76281980&t=64)** That's why many IoT companies invest heavily in AI.
 >
-> **[1:09](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-internet-of-things?u=76281980&t=69)** AI not only allows organizations to see new patterns, it also allows them to quickly react.
+> **[1:09](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-internet-of-things?u=76281980&t=69)** AI not only allows organizations to see new patterns, it also allows them to quickly [[React.js|react]].
 >
-> **[1:15](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-internet-of-things?u=76281980&t=75)** IoT devices and artificial intelligence are a powerful combination that allow companies to create systems that predict people's behavior.
+> **[1:15](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-internet-of-things?u=76281980&t=75)** IoT devices and [[Artificial Intelligence (AI)|artificial intelligence]] are a powerful combination that allow companies to create systems that predict people's behavior.
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-internet-of-things?u=76281980&t=85)** My family purchased one of the earliest versions of Amazon's Alexa home assistant.
 >
@@ -1148,23 +1136,22 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-internet-of-things?u=76281980&t=185)** Instead of just seeing what you're doing online, an IoT device can track your behavior offline.
 >
-> **[3:11](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-internet-of-things?u=76281980&t=191)** This has enormous potential for organizations to sell you products based on what you need and where you go.
+> **[3:11](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-internet-of-things?u=76281980&t=191)** This has enormous potential for organizations to sell you [[Microsoft Products|products]] based on what you need and where you go.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (10), data (9), ai (2), [[Internet of Things (IoT)|Internet of things]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[IoT]] (10), [[IoT|Internet of things]] (1), [[React.js|React]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** ekg (2)
 > **Definitions:** means that (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - today (1)
 
-#### Generative systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980)
+#### [Generative systems](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980&t=0)** - So far, you've seen that predictive AI systems can be used with natural language processing, robotics, and internet-connected devices.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980&t=0)** - So far, you've seen that [[Predictive AI]] systems can be used with [[Natural Language Processing (NLP)|natural language processing]], robotics, and internet-connected devices.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980&t=8)** You can also use predictive AI to find patterns in your data.
 >
@@ -1176,7 +1163,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980&t=23)** That way, you'll have a robot that can learn a few new things, or you could train a system on how to translate a few languages.
 >
-> **[0:30](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980&t=30)** But remember, with enough data and computing power, you might also use a generative AI system.
+> **[0:30](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980&t=30)** But remember, with enough data and computing power, you might also use a [[Generative AI]] system.
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980&t=36)** The last few years, it seems like these systems have emerged out of nowhere.
 >
@@ -1188,7 +1175,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980&t=57)** In 2022, the company OpenAI released one of the very first public generative AI systems.
 >
-> **[1:03](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980&t=63)** It was called DALL-E 2, and it was designed to create generative AI graphics.
+> **[1:03](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980&t=63)** It was called [[DALL-E]] 2, and it was designed to create generative AI graphics.
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980&t=68)** The system searched through billions of online images.
 >
@@ -1198,11 +1185,11 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980&t=84)** This was possible due to having access to billions of photos, plus the ability to perform extensive, inexpensive computation.
 >
-> **[1:34](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980&t=94)** A few months later, the same company released a generative AI chatbot called ChatGPT.
+> **[1:34](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980&t=94)** A few months later, the same company released a generative AI chatbot called [[ChatGPT]].
 >
 > **[1:40](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980&t=100)** People marveled at how the system answered questions.
 >
-> **[1:43](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980&t=103)** It was trained using machine learning on a deep learning artificial neural network.
+> **[1:43](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980&t=103)** It was trained using machine learning on a [[Deep Learning]] artificial neural network.
 >
 > **[1:49](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980&t=109)** But this was different from a predictive system.
 >
@@ -1224,7 +1211,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980&t=152)** These humans helped correct the system to keep it from repeating things such as obvious errors or hate speech.
 >
-> **[2:39](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980&t=159)** The generative AI system was able to have a conversation by predicting each word in a sentence.
+> **[2:39](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980&t=159)** The generative AI system was able to have a conversation by predicting each [[Microsoft Word|word]] in a sentence.
 >
 > **[2:44](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-systems?u=76281980&t=164)** It would respond one word at a time by analyzing billions of conversations.
 >
@@ -1242,7 +1229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Generative AI]] (6), [[Predictive AI]] (4), power (3), chatbot (3)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Predictive AI]] (4), [[Microsoft Word|Word]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[DALL-E]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** dall (1)
 > **Cross-References:** in the last (1)
@@ -1254,8 +1241,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Labeled and unlabeled data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/labeled-and-unlabeled-data?u=76281980)
+#### [Labeled and unlabeled data](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/labeled-and-unlabeled-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1293,7 +1279,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/labeled-and-unlabeled-data?u=76281980&t=60)** These two strategies are very similar to how a machine learns.
 >
-> **[1:05](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/labeled-and-unlabeled-data?u=76281980&t=65)** The system could do something called supervised learning.
+> **[1:05](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/labeled-and-unlabeled-data?u=76281980&t=65)** The system could do something called [[Supervised Learning]].
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/labeled-and-unlabeled-data?u=76281980&t=68)** Here, a data scientist acts like a tutor for the machine.
 >
@@ -1339,29 +1325,28 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/labeled-and-unlabeled-data?u=76281980&t=167)** Then Amazon could use that data to advertise.
 >
-> **[2:50](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/labeled-and-unlabeled-data?u=76281980&t=170)** If you use Amazon, you may have noticed that sometimes they advertise products that seem completely unrelated to what you're looking for, but it's still something you're interested in buying.
+> **[2:50](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/labeled-and-unlabeled-data?u=76281980&t=170)** If you use Amazon, you may have noticed that sometimes they advertise [[Microsoft Products|products]] that seem completely unrelated to what you're looking for, but it's still something you're interested in buying.
 >
 > **[3:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/labeled-and-unlabeled-data?u=76281980&t=180)** Both techniques have their own strengths, and yet each one can give you incredibly useful insights.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), game (3), [[Supervised Learning]] (3), strengths (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (3), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Analogies:** imagine (3)
 > **UI Navigation:** go to (2)
 > **Best Practices:** the key is (1)
 > **Speakers:** - when (1)
 
-#### Massive datasets
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/massive-datasets?u=76281980)
+#### [Massive datasets](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/massive-datasets?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/massive-datasets?u=76281980&t=1)** - If you've ever worked as a product manager or a software developer, then you know that applications need very explicit instructions.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/massive-datasets?u=76281980&t=9)** Every time you open Microsoft Windows or open an app on your iPhone, you're benefiting from a programmer coding the input and output.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/massive-datasets?u=76281980&t=9)** Every time you open [[Microsoft]] [[Windows]] or open an app on your iPhone, you're benefiting from a programmer coding the input and output.
 >
-> **[0:19](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/massive-datasets?u=76281980&t=19)** But we've seen that this type of programming doesn't work well with artificial intelligence.
+> **[0:19](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/massive-datasets?u=76281980&t=19)** But we've seen that this type of programming doesn't work well with [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/massive-datasets?u=76281980&t=24)** There's too many combinations to tie every input to an output.
 >
@@ -1373,7 +1358,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/massive-datasets?u=76281980&t=42)** These messages are filled with unwanted advertisements or viruses.
 >
-> **[0:47](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/massive-datasets?u=76281980&t=47)** You could easily program a word filter that deletes messages with common Spam words.
+> **[0:47](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/massive-datasets?u=76281980&t=47)** You could easily program a [[Microsoft Word|word]] filter that deletes messages with common Spam words.
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/massive-datasets?u=76281980&t=53)** If you frequently get messages on entering contests, you can filter words like "Gold," "Lottery" or "Winner."
 >
@@ -1393,9 +1378,9 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/massive-datasets?u=76281980&t=94)** The training data is a smaller chunk of data that the machine uses to learn.
 >
-> **[1:39](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/massive-datasets?u=76281980&t=99)** The system will use machine learning algorithms.
+> **[1:39](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/massive-datasets?u=76281980&t=99)** The system will use machine learning [[Algorithms]].
 >
-> **[1:42](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/massive-datasets?u=76281980&t=102)** These algorithms rely on statistics.
+> **[1:42](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/massive-datasets?u=76281980&t=102)** These algorithms rely on [[Statistics]].
 >
 > **[1:45](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/massive-datasets?u=76281980&t=105)** You'll see a bunch of these machine learning algorithms later on.
 >
@@ -1447,15 +1432,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Algorithms]] (5), [[Programming]] (2), [[Microsoft Word|Word]] (2), [[Statistics]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (5), [[Microsoft Word|Word]] (2), [[Statistics]] (2), [[Microsoft]] (1), [[Windows]] (1)
 > **Definitions:** is a  (1), means that (1), is called (1)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** iphone (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - if (1)
 
-#### Data models
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/data-models?u=76281980)
+#### [Data models](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/data-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1495,11 +1479,11 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/data-models?u=76281980&t=90)** In a sense, your data model is what you've learned from all that training and data.
 >
-> **[1:35](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/data-models?u=76281980&t=95)** Data models are important to understand when comparing predictive and generative artificial intelligence.
+> **[1:35](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/data-models?u=76281980&t=95)** Data models are important to understand when comparing predictive and generative [[Artificial Intelligence (AI)|artificial intelligence]].
 >
-> **[1:42](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/data-models?u=76281980&t=102)** Data models are mostly used for predictive AI.
+> **[1:42](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/data-models?u=76281980&t=102)** Data models are mostly used for [[Predictive AI]].
 >
-> **[1:46](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/data-models?u=76281980&t=106)** In fact, most of the machine learning algorithms, that you'll see later, are used for data models, so you'll only use them to make predictions.
+> **[1:46](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/data-models?u=76281980&t=106)** In fact, most of the machine learning [[Algorithms]], that you'll see later, are used for data models, so you'll only use them to make predictions.
 >
 > **[1:56](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/data-models?u=76281980&t=116)** That's because predictive systems are trying to get better at making specific guesses.
 >
@@ -1513,7 +1497,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/data-models?u=76281980&t=141)** You need to train yourself on bird species, but that won't help you be a better driver.
 >
-> **[2:26](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/data-models?u=76281980&t=146)** But remember that generative AI is much more flexible, but it also needs more data.
+> **[2:26](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/data-models?u=76281980&t=146)** But remember that [[Generative AI]] is much more flexible, but it also needs more data.
 >
 > **[2:32](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/data-models?u=76281980&t=152)** Think about if you ask a generative AI chatbot a complex question.
 >
@@ -1529,7 +1513,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Predictive AI]] (2), [[Generative AI]] (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Predictive AI]] (2), [[Generative AI]] (2), [[Algorithms]] (1)
 > **Versions:** 99.9 (1), 99.999 (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
@@ -1540,14 +1524,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Classify data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/classify-data?u=76281980)
+#### [Classify data](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/classify-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/classify-data?u=76281980&t=1)** - As humans, we classify things all the time.
 >
-> **[0:04](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/classify-data?u=76281980&t=4)** We put our Microsoft Word docs into folders.
+> **[0:04](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/classify-data?u=76281980&t=4)** We put our [[Microsoft Word]] docs into folders.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/classify-data?u=76281980&t=6)** We separate our business contacts from our personal contacts.
 >
@@ -1577,7 +1560,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/classify-data?u=76281980&t=51)** All binary classification uses supervised machine learning.
 >
-> **[0:56](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/classify-data?u=76281980&t=56)** Remember that supervised learning depends on labeled data.
+> **[0:56](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/classify-data?u=76281980&t=56)** Remember that [[Supervised Learning]] depends on labeled data.
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/classify-data?u=76281980&t=60)** That means that the machine learning system is trained to classify the two answers.
 >
@@ -1589,7 +1572,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/classify-data?u=76281980&t=85)** Since this is supervised machine learning, the credit card companies had to start out with tens of thousands of examples of fraudulent transactions.
 >
-> **[1:34](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/classify-data?u=76281980&t=94)** The data science team would train the system on how to recognize the patterns in future transactions.
+> **[1:34](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/classify-data?u=76281980&t=94)** The [[Data Science]] team would train the system on how to recognize the patterns in future transactions.
 >
 > **[1:40](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/classify-data?u=76281980&t=100)** Email providers use supervised machine learning to classify spam messages.
 >
@@ -1597,11 +1580,11 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/classify-data?u=76281980&t=110)** Once the network processes enough messages, it'll classify your spam email.
 >
-> **[1:55](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/classify-data?u=76281980&t=115)** These techniques are inputting massive amounts of data and then using machine learning algorithms to classify your data into human created categories, categories like booking data, fraudulent transactions, and unwanted email.
+> **[1:55](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/classify-data?u=76281980&t=115)** These techniques are inputting massive amounts of data and then using machine learning [[Algorithms]] to classify your data into human created categories, categories like booking data, fraudulent transactions, and unwanted email.
 >
 > **[2:10](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/classify-data?u=76281980&t=130)** A data scientist creates these categories, and then your AI system classifies the data that it's been trained to recognize.
 >
-> **[2:19](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/classify-data?u=76281980&t=139)** Now, classification is one of the most popular forms of machine learning, but it also takes a lot of upfront effort to train the system.
+> **[2:19](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/classify-data?u=76281980&t=139)** Now, classification is one of the most popular [[Forms]] of machine learning, but it also takes a lot of upfront effort to train the system.
 >
 > **[2:26](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/classify-data?u=76281980&t=146)** It can be a challenge to get tens of thousands of fraudulent credit card transactions or tens of thousands of spam email messages.
 >
@@ -1621,14 +1604,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Microsoft Word]] (1), business (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Microsoft Word]] (1), [[Supervised Learning]] (1), [[Algorithms]] (1), [[Forms]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** means that (1)
 > **Warnings:** warning (1)
 > **Speakers:** - as (1)
 
-#### Cluster data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/cluster-data?u=76281980)
+#### [Cluster data](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/cluster-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1650,7 +1632,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/cluster-data?u=76281980&t=43)** The big difference between clustering and classifying is whether you're working with human-created categories or machine-created groups.
 >
-> **[0:53](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/cluster-data?u=76281980&t=53)** In general, if you're using supervised learning, you're classifying.
+> **[0:53](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/cluster-data?u=76281980&t=53)** In general, if you're using [[Supervised Learning]], you're classifying.
 >
 > **[0:57](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/cluster-data?u=76281980&t=57)** And if you're using unsupervised learning, then you're clustering.
 >
@@ -1706,7 +1688,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/cluster-data?u=76281980&t=168)** There are also many ways that you might want to use machine learning to create clusters.
 >
-> **[2:53](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/cluster-data?u=76281980&t=173)** You might want to have your machine learning algorithms cluster your customers.
+> **[2:53](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/cluster-data?u=76281980&t=173)** You might want to have your machine learning [[Algorithms]] cluster your customers.
 >
 > **[2:56](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/cluster-data?u=76281980&t=176)** Then a human can go through and see if there's any patterns.
 >
@@ -1722,15 +1704,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Supervised Learning]] (2), feature (1), [[Algorithms]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (2), [[Algorithms]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - classifying (1)
 
-#### Reinforcement learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/reinforcement-learning?u=76281980)
+#### [Reinforcement learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/reinforcement-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1754,11 +1735,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/reinforcement-learning?u=76281980&t=36)** So for that, you have to use a different form of machine learning.
 >
-> **[0:41](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/reinforcement-learning?u=76281980&t=41)** This form of machine learning is called reinforcement learning.
+> **[0:41](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/reinforcement-learning?u=76281980&t=41)** This form of machine learning is called [[Reinforcement Learning]].
 >
-> **[0:44](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/reinforcement-learning?u=76281980&t=44)** These are machine learning algorithms that use rewards as a way to give the system incentive to find new patterns.
+> **[0:44](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/reinforcement-learning?u=76281980&t=44)** These are machine learning [[Algorithms]] that use rewards as a way to give the system incentive to find new patterns.
 >
-> **[0:53](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/reinforcement-learning?u=76281980&t=53)** A few years ago, Google used reinforcement learning to teach artificial intelligence systems how to play video games.
+> **[0:53](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/reinforcement-learning?u=76281980&t=53)** A few years ago, [[Google]] used reinforcement learning to teach [[Artificial Intelligence (AI)|artificial intelligence]] systems how to play video games.
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/reinforcement-learning?u=76281980&t=60)** Their AI systems beat expert players at Pong, Atari, and even more modern video games.
 >
@@ -1814,7 +1795,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (6), [[Algorithms]] (2), business (1), power (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (6), [[Algorithms]] (2), [[Google]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Best Practices:** recommended (1), make sure to (1)
 > **UI Navigation:** click on (1)
@@ -1827,14 +1808,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Common algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/common-algorithms?u=76281980)
+#### [Common algorithms](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/common-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/common-algorithms?u=76281980&t=1)** - Machine learning is one of the most popular areas in artificial intelligence.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/common-algorithms?u=76281980&t=1)** - Machine learning is one of the most popular areas in [[Artificial Intelligence (AI)|artificial intelligence]].
 >
-> **[0:04](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/common-algorithms?u=76281980&t=4)** That's partly because of the explosion of data, but it's also because of huge advances in machine learning algorithms.
+> **[0:04](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/common-algorithms?u=76281980&t=4)** That's partly because of the explosion of data, but it's also because of huge advances in machine learning [[Algorithms]].
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/common-algorithms?u=76281980&t=12)** Machine learning on its own is just a set of techniques.
 >
@@ -1842,11 +1822,11 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/common-algorithms?u=76281980&t=18)** They move beyond the early AI systems that needed to be explicitly programmed.
 >
-> **[0:24](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/common-algorithms?u=76281980&t=24)** But there isn't one big machine learning program like Microsoft Office.
+> **[0:24](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/common-algorithms?u=76281980&t=24)** But there isn't one big machine learning program like [[Microsoft Office]].
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/common-algorithms?u=76281980&t=29)** Instead, you have many different machine learning algorithms.
 >
-> **[0:32](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/common-algorithms?u=76281980&t=32)** Most of these algorithms are borrowed from statistics.
+> **[0:32](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/common-algorithms?u=76281980&t=32)** Most of these algorithms are borrowed from [[Statistics]].
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/common-algorithms?u=76281980&t=36)** The key thing to remember is that each of these algorithms are like a chef's kitchen tool.
 >
@@ -1878,7 +1858,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/common-algorithms?u=76281980&t=116)** Since this company was paid based on the success of its promotions, this was a great group to know.
 >
-> **[2:02](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/common-algorithms?u=76281980&t=122)** They found that this group used promotions for products, services, and restaurants.
+> **[2:02](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/common-algorithms?u=76281980&t=122)** They found that this group used promotions for [[Microsoft Products|products]], services, and restaurants.
 >
 > **[2:06](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/common-algorithms?u=76281980&t=126)** Those customers just loved saving money.
 >
@@ -1898,19 +1878,18 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/common-algorithms?u=76281980&t=176)** Like any good chef, the true creativity is not the tools, the ingredients.
 >
-> **[3:01](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/common-algorithms?u=76281980&t=181)** Your data science team might want to mix and match these algorithms to gain the greatest insights from your data.
+> **[3:01](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/common-algorithms?u=76281980&t=181)** Your [[Data Science]] team might want to mix and match these algorithms to gain the greatest insights from your data.
 >
 > **[3:07](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/common-algorithms?u=76281980&t=187)** These machine learning algorithms are available in most of the machine learning software toolkits, so it's here where your data science team can use its skill and creativity.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (11), data (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1), [[Microsoft Office]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (11), [[Data Science]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Office]] (1), [[Statistics]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is called (1)
 > **Speakers:** - machine (1)
 
-#### K-nearest neighbor
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/k-nearest-neighbor?u=76281980)
+#### [K-nearest neighbor](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/k-nearest-neighbor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2000,17 +1979,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **Definitions:** is a  (3), is called (1), means that (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - in (1)
 
-#### K-means clustering
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/k-means-clustering?u=76281980)
+#### [K-means clustering](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/k-means-clustering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/k-means-clustering?u=76281980&t=1)** - Another common machine learning algorithm is k-means clustering.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/k-means-clustering?u=76281980&t=1)** - Another common machine learning algorithm is [[k-means clustering]].
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/k-means-clustering?u=76281980&t=4)** K-means clustering is an unsupervised machine learning algorithm.
 >
@@ -2070,7 +2047,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/k-means-clustering?u=76281980&t=165)** Organizing dogs into three clusters for three different shelters is probably not a problem you'll run into every day.
 >
-> **[2:51](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/k-means-clustering?u=76281980&t=171)** But k-means clustering is one of the most popular machine learning algorithms.
+> **[2:51](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/k-means-clustering?u=76281980&t=171)** But k-means clustering is one of the most popular machine learning [[Algorithms]].
 >
 > **[2:55](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/k-means-clustering?u=76281980&t=175)** One of the more interesting applications is when retailers use clustering to decide who gets promotions.
 >
@@ -2086,7 +2063,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[k-means clustering]] (4), data (1), [[Algorithms]] (1), business (1)
+> **Frameworks & Libraries:** [[k-means clustering]] (4), [[Algorithms]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** go back to (1)
@@ -2094,8 +2071,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - another (1)
 
-#### Regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/regression?u=76281980)
+#### [Regression](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2137,13 +2113,13 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/regression?u=76281980&t=78)** It just tells you that these things are happening.
 >
-> **[1:21](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/regression?u=76281980&t=81)** Machine learning regression algorithms work in a similar way.
+> **[1:21](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/regression?u=76281980&t=81)** Machine learning regression [[Algorithms]] work in a similar way.
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/regression?u=76281980&t=85)** Once you have your training data, you make a prediction, then see how close you are to the outcome.
 >
 > **[1:31](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/regression?u=76281980&t=91)** Then you repeat over and over again until the system makes the most accurate prediction.
 >
-> **[1:37](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/regression?u=76281980&t=97)** In this case, the data science team thought that the change of seasons would be a great predictor for the sale of some vehicles.
+> **[1:37](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/regression?u=76281980&t=97)** In this case, the [[Data Science]] team thought that the change of seasons would be a great predictor for the sale of some vehicles.
 >
 > **[1:44](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/regression?u=76281980&t=104)** So they put the months as a predictor.
 >
@@ -2191,14 +2167,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), business (2), [[Algorithms]] (1), product (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Data Science]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (3)
 > **Analogies:** imagine (2)
 > **Speakers:** - i (1)
 
-#### Naive Bayes
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/naive-bayes?u=76281980)
+#### [Naive Bayes](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/naive-bayes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2208,7 +2183,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/naive-bayes?u=76281980&t=13)** For that, you can use something called Naive Bayes.
 >
-> **[0:17](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/naive-bayes?u=76281980&t=17)** Naive Bayes is one of the most popular machine learning algorithms.
+> **[0:17](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/naive-bayes?u=76281980&t=17)** Naive Bayes is one of the most popular machine learning [[Algorithms]].
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/naive-bayes?u=76281980&t=21)** It's naive because it assumes all the predictors are independent from one another.
 >
@@ -2232,7 +2207,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/naive-bayes?u=76281980&t=66)** Remember, that's why it's called naive.
 >
-> **[1:09](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/naive-bayes?u=76281980&t=69)** Once you have your classes and predictors set up, then the Naive Bayes will do something called class predictor probability.
+> **[1:09](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/naive-bayes?u=76281980&t=69)** Once you have your classes and predictors set up, then the Naive Bayes will do something called class predictor [[Probability]].
 >
 > **[1:17](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/naive-bayes?u=76281980&t=77)** This is when it looks at each one of the predictors and creates a probability that the dog belongs in this class.
 >
@@ -2264,11 +2239,11 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/naive-bayes?u=76281980&t=171)** Banks use it to check for fraud.
 >
-> **[2:53](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/naive-bayes?u=76281980&t=173)** They look at each banking predictor independently and then measure the likelihood that it's fraud.
+> **[2:53](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/naive-bayes?u=76281980&t=173)** They look at each [[Banking]] predictor independently and then measure the likelihood that it's fraud.
 >
 > **[2:59](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/naive-bayes?u=76281980&t=179)** Then they use a class predictor probability to classify the transaction.
 >
-> **[3:04](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/naive-bayes?u=76281980&t=184)** Cybersecurity firms also use Naive Bayes to look for securities threats.
+> **[3:04](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/naive-bayes?u=76281980&t=184)** [[Cybersecurity]] firms also use Naive Bayes to look for securities threats.
 >
 > **[3:09](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/naive-bayes?u=76281980&t=189)** It looks at each threat predictor independently, and then flags items for security review.
 >
@@ -2278,7 +2253,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (7), data (5), [[Algorithms]] (1), next (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Probability]] (7), [[Algorithms]] (1), [[Banking]] (1), [[Cybersecurity]] (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -2290,12 +2265,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Select the best algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/select-the-best-algorithm?u=76281980)
+#### [Select the best algorithm](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/select-the-best-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/select-the-best-algorithm?u=76281980&t=1)** - So now you've seen three examples of supervised machine learning algorithms.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/select-the-best-algorithm?u=76281980&t=1)** - So now you've seen three examples of supervised machine learning [[Algorithms]].
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/select-the-best-algorithm?u=76281980&t=5)** There was K nearest neighbor, regression analysis, and naive bayes.
 >
@@ -2313,7 +2287,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/select-the-best-algorithm?u=76281980&t=38)** Instead, you're judged by the whole meal.
 >
-> **[0:41](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/select-the-best-algorithm?u=76281980&t=41)** That's why it's very common for data science teams to do something called ensemble modeling.
+> **[0:41](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/select-the-best-algorithm?u=76281980&t=41)** That's why it's very common for [[Data Science]] teams to do something called ensemble modeling.
 >
 > **[0:47](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/select-the-best-algorithm?u=76281980&t=47)** If you're an actor or a music fan, then you've probably have heard the term ensemble.
 >
@@ -2383,11 +2357,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (5), data (5), teams (1)
+> **Frameworks & Libraries:** [[Algorithms]] (5), [[Data Science]] (2)
 > **Speakers:** - so (1)
 
-#### Follow the data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/follow-the-data?u=76281980)
+#### [Follow the data](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/follow-the-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2395,7 +2368,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/follow-the-data?u=76281980&t=9)** Only by following the money could the reporter find the truth.
 >
-> **[0:13](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/follow-the-data?u=76281980&t=13)** Like the reporter, machine learning algorithms must follow the data to get to the truth, but that's easier said than done.
+> **[0:13](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/follow-the-data?u=76281980&t=13)** Like the reporter, machine learning [[Algorithms]] must follow the data to get to the truth, but that's easier said than done.
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/follow-the-data?u=76281980&t=21)** In fact, one of the biggest challenges in machine learning is balancing the bias and the variance.
 >
@@ -2463,14 +2436,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Algorithms]] (2), game (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** means that (4), is called (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - in (1)
 
-#### Overfitting and underfitting
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/overfitting-and-underfitting?u=76281980)
+#### [Overfitting and underfitting](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/overfitting-and-underfitting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2546,7 +2518,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), ai (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is called (2)
 > **Warnings:** keep in mind (2)
@@ -2558,14 +2529,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build a neural network
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/build-a-neural-network?u=76281980)
+#### [Build a neural network](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/build-a-neural-network?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/build-a-neural-network?u=76281980&t=1)** - Machine learning algorithms see patterns in your data, but sometimes you just have too much data to use these algorithms.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/build-a-neural-network?u=76281980&t=1)** - Machine learning [[Algorithms]] see patterns in your data, but sometimes you just have too much data to use these algorithms.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/build-a-neural-network?u=76281980&t=7)** So many large organizations use artificial neural networks instead.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/build-a-neural-network?u=76281980&t=7)** So many large organizations use [[Artificial Neural Networks]] instead.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/build-a-neural-network?u=76281980&t=12)** Artificial neural networks are a type of machine learning that uses a structure like the human brain to break down massive data sets.
 >
@@ -2579,7 +2549,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/build-a-neural-network?u=76281980&t=44)** There's the input layer, the hidden layers, and the output layer.
 >
-> **[0:49](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/build-a-neural-network?u=76281980&t=49)** If the network has a lot of hidden layers, then it's called a deep learning artificial neural network.
+> **[0:49](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/build-a-neural-network?u=76281980&t=49)** If the network has a lot of hidden layers, then it's called a [[Deep Learning]] artificial neural network.
 >
 > **[0:55](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/build-a-neural-network?u=76281980&t=55)** That's because the network is many layers deep.
 >
@@ -2633,22 +2603,21 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/build-a-neural-network?u=76281980&t=178)** They're almost like a musical instrument that tunes themselves until they get the perfect note.
 >
-> **[3:04](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/build-a-neural-network?u=76281980&t=184)** So each of the two neurons in the output layer will have a probability score.
+> **[3:04](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/build-a-neural-network?u=76281980&t=184)** So each of the two neurons in the output layer will have a [[Probability]] score.
 >
-> **[3:09](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/build-a-neural-network?u=76281980&t=189)** The key thing to remember is that an artificial neural network is most often used for supervised learning.
+> **[3:09](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/build-a-neural-network?u=76281980&t=189)** The key thing to remember is that an artificial neural network is most often used for [[Supervised Learning]].
 >
 > **[3:15](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/build-a-neural-network?u=76281980&t=195)** You can train the network and then it will tune itself based on whether it correctly identified your input.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Artificial Neural Networks]] (4), [[Algorithms]] (3), next (2), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Artificial Neural Networks]] (4), [[Algorithms]] (3), [[Deep Learning]] (1), [[Probability]] (1), [[Supervised Learning]] (1)
 > **Definitions:** means that (1), is a  (1), is called (1)
 > **Analogies:** imagine (1), think of it as (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - machine (1)
 
-#### Weighing the connections
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/weighing-the-connections?u=76281980)
+#### [Weighing the connections](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/weighing-the-connections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2670,7 +2639,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/weighing-the-connections?u=76281980&t=28)** If you're like most people, you'd guess that a dog is much more likely to be in a grassy field, so your human neural connections added a positive weight to the grassy field and a negative way to the arid desert.
 >
-> **[0:41](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/weighing-the-connections?u=76281980&t=41)** Artificial neural networks do the same thing.
+> **[0:41](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/weighing-the-connections?u=76281980&t=41)** [[Artificial Neural Networks]] do the same thing.
 >
 > **[0:44](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/weighing-the-connections?u=76281980&t=44)** Like us, these networks need to work in a world of probabilities.
 >
@@ -2720,7 +2689,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Artificial Neural Networks]] (2), next (1)
+> **Frameworks & Libraries:** [[Artificial Neural Networks]] (2)
 > **Definitions:** is a  (3)
 > **Analogies:** imagine (1), picture (1)
 > **CLI Commands:** make (1)
@@ -2729,8 +2698,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - as (1)
 
-#### The activation bias
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-activation-bias?u=76281980)
+#### [The activation bias](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-activation-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2776,7 +2744,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-activation-bias?u=76281980&t=108)** It's like the machine is trying to throw darts in a tight formation while the same time using bias to shift the whole dartboard closer to the bullseye.
 >
-> **[1:57](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-activation-bias?u=76281980&t=117)** On top of that, artificial neural networks tend to overfit the data.
+> **[1:57](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-activation-bias?u=76281980&t=117)** On top of that, [[Artificial Neural Networks]] tend to overfit the data.
 >
 > **[2:02](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-activation-bias?u=76281980&t=122)** Remember that overfitting is when the system adds a lot of complexity when it's training.
 >
@@ -2802,7 +2770,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Artificial Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Artificial Neural Networks]] (1)
 > **CLI Commands:** make (3), find (3)
 > **Analogies:** it's like (3)
 > **Definitions:** is called (1)
@@ -2813,8 +2781,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning from mistakes
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/learning-from-mistakes?u=76281980)
+#### [Learning from mistakes](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/learning-from-mistakes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2822,7 +2789,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/learning-from-mistakes?u=76281980&t=4)** You're either right or you're wrong.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/learning-from-mistakes?u=76281980&t=6)** But artificial neural networks need to be much more specific.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/learning-from-mistakes?u=76281980&t=6)** But [[Artificial Neural Networks]] need to be much more specific.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/learning-from-mistakes?u=76281980&t=10)** To a neural network, 95% right is much different from 97% right.
 >
@@ -2830,7 +2797,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/learning-from-mistakes?u=76281980&t=21)** In a sense, the neural network needs a measure of wrongness.
 >
-> **[0:26](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/learning-from-mistakes?u=76281980&t=26)** In neural networks, this is measured as a cost function.
+> **[0:26](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/learning-from-mistakes?u=76281980&t=26)** In [[Neural Networks]], this is measured as a cost function.
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/learning-from-mistakes?u=76281980&t=30)** The cost function is just a number that the system uses to measure its answer against the correct answer.
 >
@@ -2906,14 +2873,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Neural Networks]] (2), [[Neural Networks]] (2), hit (1), data (1)
+> **Frameworks & Libraries:** [[Artificial Neural Networks]] (2), [[Neural Networks]] (2)
 > **CLI Commands:** make (4), cat (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - we (1)
 
-#### Step through the network
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/step-through-the-network?u=76281980)
+#### [Step through the network](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/step-through-the-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2937,7 +2903,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/step-through-the-network?u=76281980&t=46)** Here, the system will be trained with hundreds of thousands of images known to contain dogs.
 >
-> **[0:52](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/step-through-the-network?u=76281980&t=52)** The next step for data scientists is to figure out if they want to use standard machine learning algorithms or if they'd like to use an artificial neural network.
+> **[0:52](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/step-through-the-network?u=76281980&t=52)** The next step for data scientists is to figure out if they want to use standard machine learning [[Algorithms]] or if they'd like to use an artificial neural network.
 >
 > **[1:01](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/step-through-the-network?u=76281980&t=61)** Remember that this is a classification problem, so if they go with machine learning algorithms, they'll probably either use K nearest neighbor or naive Bayes.
 >
@@ -2991,11 +2957,11 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/step-through-the-network?u=76281980&t=212)** However, this approach to binary classification is a powerful way to get insights from your data.
 >
-> **[3:38](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/step-through-the-network?u=76281980&t=218)** Think about your customer data, your sales data, or even data from your IOT devices, and what you can learn from this approach.
+> **[3:38](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/step-through-the-network?u=76281980&t=218)** Think about your customer data, your sales data, or even data from your [[IoT]] devices, and what you can learn from this approach.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), ai (2), next (2), [[Algorithms]] (2), [[IoT]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[IoT]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** iot (1)
 > **Cross-References:** go back to (1)
@@ -3006,8 +2972,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Self-supervised learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/self-supervised-learning?u=76281980)
+#### [Self-supervised learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/self-supervised-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3027,7 +2992,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/self-supervised-learning?u=76281980&t=47)** Those guesses became the foundation for understanding Egyptian hieroglyphs.
 >
-> **[0:53](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/self-supervised-learning?u=76281980&t=53)** It might sound strange, but modern generative AI systems use a similar technique called self-supervised learning.
+> **[0:53](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/self-supervised-learning?u=76281980&t=53)** It might sound strange, but modern [[Generative AI]] systems use a similar technique called self-[[Supervised Learning]].
 >
 > **[1:01](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/self-supervised-learning?u=76281980&t=61)** Remember that most of the data in the world is unstructured.
 >
@@ -3073,7 +3038,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/self-supervised-learning?u=76281980&t=162)** It'll then make a guess that images near these captions are more likely to contain a dog.
 >
-> **[2:48](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/self-supervised-learning?u=76281980&t=168)** Then it will allow the system to create pseudo labels for billions of dog images that would otherwise be buried in all that unstructured data.
+> **[2:48](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/self-supervised-learning?u=76281980&t=168)** Then it will allow the system to create pseudo labels for billions of dog images that would otherwise be buried in all that [[Unstructured Data]].
 >
 > **[2:57](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/self-supervised-learning?u=76281980&t=177)** With these pseudo labels, the supervised learning system will be able to classify these dog images based on what it learns.
 >
@@ -3089,27 +3054,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Supervised Learning]] (5), ai (2), [[Unstructured Data]] (2), power (2)
+> **Frameworks & Libraries:** [[Supervised Learning]] (5), [[Unstructured Data]] (2), [[Generative AI]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** means that (3)
 > **Analogies:** imagine (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - in (1)
 
-#### Foundation models
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/foundation-models?u=76281980)
+#### [Foundation models](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/foundation-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/foundation-models?u=76281980&t=0)** - So now you've seen that self-supervised learning is a powerful new machine learning technique.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/foundation-models?u=76281980&t=0)** - So now you've seen that self-[[Supervised Learning]] is a powerful new machine learning technique.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/foundation-models?u=76281980&t=6)** It's like a giant vacuum that sucks up all the data in the world and gives it an accurate label.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/foundation-models?u=76281980&t=12)** It does this without very much human intervention.
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/foundation-models?u=76281980&t=15)** This technique moves beyond data models and predictive artificial intelligence.
+> **[0:15](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/foundation-models?u=76281980&t=15)** This technique moves beyond data models and predictive [[Artificial Intelligence (AI)|artificial intelligence]].
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/foundation-models?u=76281980&t=20)** That's why this is the primary technique that you use to create generative AI systems.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/foundation-models?u=76281980&t=20)** That's why this is the primary technique that you use to create [[Generative AI]] systems.
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/foundation-models?u=76281980&t=26)** Remember that generative AI systems are much more flexible.
 >
@@ -3181,15 +3145,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Generative AI]] (5), [[Supervised Learning]] (4), chatbot (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Supervised Learning]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (2), it's like (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - so (1)
 
-#### Large language models (LLM)
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/large-language-models-llm?u=76281980)
+#### [Large language models (LLM)](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/large-language-models-llm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3197,7 +3160,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/large-language-models-llm?u=76281980&t=6)** They would read your email and look at your credit card transactions.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/large-language-models-llm?u=76281980&t=9)** They remember every word that you said and read everything that you wrote, and then they would just repeat back what they heard.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/large-language-models-llm?u=76281980&t=9)** They remember every [[Microsoft Word|word]] that you said and read everything that you wrote, and then they would just repeat back what they heard.
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/large-language-models-llm?u=76281980&t=17)** It almost sounds like a creepy old Alfred Hitchcock movie.
 >
@@ -3227,13 +3190,13 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/large-language-models-llm?u=76281980&t=87)** That's why linguistic expert Emily Bender refers to this type of foundation model as stochastic parrots.
 >
-> **[1:34](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/large-language-models-llm?u=76281980&t=94)** They argue that large language models don't understand the meaning of what they're saying.
+> **[1:34](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/large-language-models-llm?u=76281980&t=94)** They argue that [[Large Language Models (LLM)|large language models]] don't understand the meaning of what they're saying.
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/large-language-models-llm?u=76281980&t=99)** Instead, these models just parrot back phrases one word at a time based on probabilities and guesswork.
 >
 > **[1:46](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/large-language-models-llm?u=76281980&t=106)** In many ways, this is like the Chinese room argument that you saw earlier.
 >
-> **[1:50](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/large-language-models-llm?u=76281980&t=110)** Remember that philosopher John Searle argued that machine learning systems could never reach true intelligence?
+> **[1:50](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/large-language-models-llm?u=76281980&t=110)** Remember that philosopher [[John the Ripper|John]] Searle argued that machine learning systems could never reach true intelligence?
 >
 > **[1:57](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/large-language-models-llm?u=76281980&t=117)** That at best these systems could just repeat back responses based on a phrase book.
 >
@@ -3257,9 +3220,9 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/large-language-models-llm?u=76281980&t=180)** If John Searle and Emily Bender are right, then these systems will never truly understand the meaning behind what they're saying.
 >
-> **[3:07](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/large-language-models-llm?u=76281980&t=187)** They'll just be parrots that make it seem like you're having a conversation, but they'll just be repeating a remix of billions of other conversations.
+> **[3:07](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/large-language-models-llm?u=76281980&t=187)** They'll just be parrots that make it seem like you're having a conversation, but they'll just be repeating a [[Remix]] of billions of other conversations.
 >
-> **[3:16](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/large-language-models-llm?u=76281980&t=196)** It's also important to keep in mind that an AI chat bot like ChatGPT doesn't really need to understand the meaning to help you write a better email message.
+> **[3:16](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/large-language-models-llm?u=76281980&t=196)** It's also important to keep in mind that an AI chat bot like [[ChatGPT]] doesn't really need to understand the meaning to help you write a better email message.
 >
 > **[3:27](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/large-language-models-llm?u=76281980&t=207)** That's why it's important to keep in mind that there's a big difference between being intelligent and seeming intelligent.
 >
@@ -3267,21 +3230,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Microsoft Word|Word]] (2), data (2), [[Large Language Models (LLM)|Large language models]] (2), [[Remix]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Large Language Models (LLM)|Large language models]] (2), [[John the Ripper|John]] (2), [[Remix]] (1), [[ChatGPT]] (1)
 > **Definitions:** means that (2), is a  (2)
 > **Analogies:** imagine (2), similar to (1)
 > **Warnings:** keep in mind (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - imagine (1)
 
-#### Image diffusion models
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/image-diffusion-models?u=76281980)
+#### [Image diffusion models](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/image-diffusion-models?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/image-diffusion-models?u=76281980&t=0)** - Imagine that you are in a bakery standing in front of six beautiful cakes.
 >
-> **[0:04](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/image-diffusion-models?u=76281980&t=4)** Two were chocolate, the other two were vanilla, one looked like a wedding cake, and another was a Brazilian brigadeiro.
+> **[0:04](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/image-diffusion-models?u=76281980&t=4)** Two were chocolate, the other two were [[Vanilla]], one looked like a wedding cake, and another was a Brazilian brigadeiro.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/image-diffusion-models?u=76281980&t=12)** As you stand there, someone tells you that you're the new baker.
 >
@@ -3293,7 +3255,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/image-diffusion-models?u=76281980&t=25)** You just need to figure out how to bake a cake on your own.
 >
-> **[0:29](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/image-diffusion-models?u=76281980&t=29)** This is a lot like the challenge that generative AI systems run into when creating new images.
+> **[0:29](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/image-diffusion-models?u=76281980&t=29)** This is a lot like the challenge that [[Generative AI]] systems run into when creating new images.
 >
 > **[0:35](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/image-diffusion-models?u=76281980&t=35)** The system didn't get to see the people, ingredients, or techniques that went into making the images.
 >
@@ -3349,11 +3311,11 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/image-diffusion-models?u=76281980&t=177)** If the system wants to generate something new, it's going to have to rely on a lot more than just six cakes.
 >
-> **[3:04](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/image-diffusion-models?u=76281980&t=184)** These models will look through billions of images and identify patterns using statistics.
+> **[3:04](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/image-diffusion-models?u=76281980&t=184)** These models will look through billions of images and identify patterns using [[Statistics]].
 >
 > **[3:10](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/image-diffusion-models?u=76281980&t=190)** It won't see a cake or a wall or an astronaut the same way that you do.
 >
-> **[3:15](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/image-diffusion-models?u=76281980&t=195)** Instead it will see pixelated patterns that it's learned through self-supervised learning.
+> **[3:15](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/image-diffusion-models?u=76281980&t=195)** Instead it will see pixelated patterns that it's learned through self-[[Supervised Learning]].
 >
 > **[3:21](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/image-diffusion-models?u=76281980&t=201)** It destroyed and recreated all those images.
 >
@@ -3361,7 +3323,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (4), [[Vanilla]] (3), ai (1), data (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Vanilla]] (3), [[Statistics]] (1), [[Supervised Learning]] (1)
 > **Analogies:** imagine (2), it's like (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -3372,8 +3334,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generative adversarial networks (GAN)
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-adversarial-networks-gan?u=76281980)
+#### [Generative adversarial networks (GAN)](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-adversarial-networks-gan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3391,13 +3352,13 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-adversarial-networks-gan?u=76281980&t=30)** One of the most popular is creating a generative adversarial network, or GAN.
 >
-> **[0:36](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-adversarial-networks-gan?u=76281980&t=36)** These GANs don't use self supervised learning or a foundation model.
+> **[0:36](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-adversarial-networks-gan?u=76281980&t=36)** These GANs don't use self [[Supervised Learning]] or a foundation model.
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-adversarial-networks-gan?u=76281980&t=41)** In fact, you could get by with just regular, old unsupervised and supervised learning.
 >
-> **[0:46](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-adversarial-networks-gan?u=76281980&t=46)** The key to thinking about GANs is to focus on the word adversarial.
+> **[0:46](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-adversarial-networks-gan?u=76281980&t=46)** The key to thinking about GANs is to focus on the [[Microsoft Word|word]] adversarial.
 >
-> **[0:51](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-adversarial-networks-gan?u=76281980&t=51)** It's like putting two artificial neural networks in a boxing ring and having them fight it out.
+> **[0:51](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-adversarial-networks-gan?u=76281980&t=51)** It's like putting two [[Artificial Neural Networks]] in a boxing ring and having them fight it out.
 >
 > **[0:56](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-adversarial-networks-gan?u=76281980&t=56)** One neural network is called the generator.
 >
@@ -3435,7 +3396,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-adversarial-networks-gan?u=76281980&t=137)** At some point, the generator will create an image that the discriminator won't be able to classify as fake, and by that time, there's a good chance you won't be able to tell either.
 >
-> **[2:28](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-adversarial-networks-gan?u=76281980&t=148)** Generative adversarial networks can produce extremely photorealistic images, but there are a couple of downsides compared to diffusion models.
+> **[2:28](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-adversarial-networks-gan?u=76281980&t=148)** [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] can produce extremely photorealistic images, but there are a couple of downsides compared to diffusion models.
 >
 > **[2:37](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/generative-adversarial-networks-gan?u=76281980&t=157)** The first is that the discriminator only classifies photographs where it's been trained.
 >
@@ -3455,19 +3416,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Supervised Learning]] (3), data (2), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (2), [[Microsoft Word|Word]] (1), [[Artificial Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (3), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (2), [[Microsoft Word|Word]] (1), [[Artificial Neural Networks]] (1)
 > **Definitions:** is called (2), is a  (1)
 > **Analogies:** it's like (1), imagine (1)
 > **Env Vars:** gan (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - self (1)
 
-#### Variational autoencoder (VAE)
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/variational-autoencoder-vae?u=76281980)
+#### [Variational autoencoder (VAE)](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/variational-autoencoder-vae?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/variational-autoencoder-vae?u=76281980&t=0)** - Generative artificial intelligence and foundation models can give you an enormous amount of flexibility, but you've already seen that sometimes you don't need all that power.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/variational-autoencoder-vae?u=76281980&t=0)** - Generative [[Artificial Intelligence (AI)|artificial intelligence]] and foundation models can give you an enormous amount of flexibility, but you've already seen that sometimes you don't need all that power.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/variational-autoencoder-vae?u=76281980&t=9)** This is particularly true if you want to colorize an old image or increase its resolution.
 >
@@ -3517,7 +3477,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/variational-autoencoder-vae?u=76281980&t=151)** Once you have that pure tree code, you can use the system to decode the image as a perfect copy or create one that's been dramatically improved.
 >
-> **[2:42](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/variational-autoencoder-vae?u=76281980&t=162)** Now, autoencoders do suffer from some of the challenges of traditional predictive AI.
+> **[2:42](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/variational-autoencoder-vae?u=76281980&t=162)** Now, autoencoders do suffer from some of the challenges of traditional [[Predictive AI]].
 >
 > **[2:46](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/variational-autoencoder-vae?u=76281980&t=166)** These systems can only create perfect trees or vases if it's already been trained on thousands or even tens of thousands of labeled images.
 >
@@ -3533,22 +3493,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Predictive AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), power (1), ai (1)
+> **Frameworks & Libraries:** [[Predictive AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** is called (2), means that (1), is a  (1)
 > **Analogies:** picture (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - generative (1)
 
-#### Transformers
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/transformers?u=76281980)
+#### [Transformers](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/transformers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/transformers?u=76281980&t=0)** - In 2017, researchers at Google and the University of Toronto came up with a paper called "Attention is All You Need."
+> **[0:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/transformers?u=76281980&t=0)** - In 2017, researchers at [[Google]] and the University of Toronto came up with a paper called "Attention is All You Need."
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/transformers?u=76281980&t=8)** This paper was trying to come up with a new way to translate English into French and German.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/transformers?u=76281980&t=14)** There are a lot of sentences where a simple change in word order can dramatically change the meaning.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/transformers?u=76281980&t=14)** There are a lot of sentences where a simple change in [[Microsoft Word|word]] order can dramatically change the meaning.
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/transformers?u=76281980&t=19)** Think about these two sentences.
 >
@@ -3584,7 +3543,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/transformers?u=76281980&t=112)** That's why in 2019, companies such as Google and OpenAI started to create transformer-based chat systems.
 >
-> **[2:01](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/transformers?u=76281980&t=121)** Remember that ChatGPT stands for generative pre-trained transformer.
+> **[2:01](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/transformers?u=76281980&t=121)** Remember that [[ChatGPT]] stands for generative pre-trained transformer.
 >
 > **[2:08](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/transformers?u=76281980&t=128)** One key thing to remember is that transformer-based models are all about attention.
 >
@@ -3612,7 +3571,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Google]] (2), ai (2), [[ChatGPT]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Google]] (2), [[ChatGPT]] (1)
 > **CLI Commands:** find (3)
 > **Definitions:** means that (2)
 > **Analogies:** such as (1), imagine (1)
@@ -3623,14 +3582,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The alignment problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-alignment-problem?u=76281980)
+#### [The alignment problem](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-alignment-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-alignment-problem?u=76281980&t=0)** - There's no doubt that artificial intelligence is a highly technical field.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-alignment-problem?u=76281980&t=0)** - There's no doubt that [[Artificial Intelligence (AI)|artificial intelligence]] is a highly technical field.
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-alignment-problem?u=76281980&t=5)** You've seen that even the earliest forms of AI relied on computers, data, and programming.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-alignment-problem?u=76281980&t=5)** You've seen that even the earliest [[Forms]] of AI relied on computers, data, and programming.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-alignment-problem?u=76281980&t=11)** So it makes sense to think that the challenges that you'll run into will also be technical.
 >
@@ -3646,7 +3604,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-alignment-problem?u=76281980&t=38)** The chance of your work being thrown away because of ethical problems is probably far greater than the chance of some technical issue.
 >
-> **[0:46](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-alignment-problem?u=76281980&t=46)** In AI, the main ethical challenges are: value alignment, algorithmic traceability, copyright, and reliability, like generative AI hallucinations.
+> **[0:46](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-alignment-problem?u=76281980&t=46)** In AI, the main ethical challenges are: value alignment, algorithmic traceability, copyright, and reliability, like [[Generative AI]] hallucinations.
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/the-alignment-problem?u=76281980&t=60)** The first big challenge is value alignment.
 >
@@ -3706,20 +3664,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Forms]] (1), data (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Forms]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - there (1)
 
-#### Decision traceability
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/decision-traceability?u=76281980)
+#### [Decision traceability](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/decision-traceability?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/decision-traceability?u=76281980&t=0)** - You've seen that sometimes AI systems do what you say but not what you want.
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/decision-traceability?u=76281980&t=5)** This value alignment can cause a lot of difficulties, especially in complex AI systems, but that's not the only problem you'll run into with machine learning algorithms.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/decision-traceability?u=76281980&t=5)** This value alignment can cause a lot of difficulties, especially in complex AI systems, but that's not the only problem you'll run into with machine learning [[Algorithms]].
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/decision-traceability?u=76281980&t=15)** Sometimes the system will do what you say, but you'll have no idea how it made the decision.
 >
@@ -3733,7 +3690,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/decision-traceability?u=76281980&t=42)** To build the system, your company gathered enormous amounts of data.
 >
-> **[0:46](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/decision-traceability?u=76281980&t=46)** This is a predictive AI system that would look through past medical procedures and find patterns in the best results.
+> **[0:46](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/decision-traceability?u=76281980&t=46)** This is a [[Predictive AI]] system that would look through past medical procedures and find patterns in the best results.
 >
 > **[0:54](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/decision-traceability?u=76281980&t=54)** To be effective, this system would have to look through millions of different medical procedures.
 >
@@ -3771,7 +3728,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/decision-traceability?u=76281980&t=148)** Of course, as these systems become more complex, it becomes much more difficult to explain.
 >
-> **[2:34](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/decision-traceability?u=76281980&t=154)** This is especially true with newer generative AI systems that rely on massive foundation models.
+> **[2:34](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/decision-traceability?u=76281980&t=154)** This is especially true with newer [[Generative AI]] systems that rely on massive foundation models.
 >
 > **[2:41](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/decision-traceability?u=76281980&t=161)** These systems are so complex that even the people who develop them are uncertain what would happen if you made changes to the underlying foundation model.
 >
@@ -3787,19 +3744,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), data (3), [[Predictive AI]] (2), [[Algorithms]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Predictive AI]] (2), [[Algorithms]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (2), find (1), cat (1)
 > **Analogies:** imagine (2)
 > **Env Vars:** xai (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
 
-#### Copyright challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/copyright-challenges?u=76281980)
+#### [Copyright challenges](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/copyright-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/copyright-challenges?u=76281980&t=0)** - When you ask a chatbot like ChatGPT a question, you'll get a response that sounds human.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/copyright-challenges?u=76281980&t=0)** - When you ask a chatbot like [[ChatGPT]] a question, you'll get a response that sounds human.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/copyright-challenges?u=76281980&t=6)** If you ask it to describe a sunset, it will talk about the mix of yellow, orange, pinks, and purple.
 >
@@ -3807,7 +3763,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/copyright-challenges?u=76281980&t=17)** But if you think about it, what's really happening here?
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/copyright-challenges?u=76281980&t=20)** You've already seen that companies like OpenAI are using foundation models such as large language models.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/copyright-challenges?u=76281980&t=20)** You've already seen that companies like OpenAI are using foundation models such as [[Large Language Models (LLM)|large language models]].
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/copyright-challenges?u=76281980&t=26)** Yet with all this power and data, these foundation models have never actually seen a color.
 >
@@ -3815,9 +3771,9 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/copyright-challenges?u=76281980&t=37)** Yet that doesn't stop these models from human-splaining colors, sunsets, and feelings.
 >
-> **[0:44](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/copyright-challenges?u=76281980&t=44)** That's because generative AI models copy what humans say and make it seem like you're talking to a person.
+> **[0:44](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/copyright-challenges?u=76281980&t=44)** That's because [[Generative AI]] models copy what humans say and make it seem like you're talking to a person.
 >
-> **[0:51](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/copyright-challenges?u=76281980&t=51)** It seems like a conversation, but it's just generating sentences from a huge word cloud of probabilities and data.
+> **[0:51](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/copyright-challenges?u=76281980&t=51)** It seems like a conversation, but it's just generating sentences from a huge [[Microsoft Word|word]] cloud of probabilities and data.
 >
 > **[0:59](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/copyright-challenges?u=76281980&t=59)** But this brings up a key issue.
 >
@@ -3853,7 +3809,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/copyright-challenges?u=76281980&t=149)** Then they use that knowledge to answer the world's questions.
 >
-> **[2:33](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/copyright-challenges?u=76281980&t=153)** While Google trains their model on similar data, its Gemini chatbot often provides a link to the original work.
+> **[2:33](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/copyright-challenges?u=76281980&t=153)** While [[Google]] trains their model on similar data, its [[Gemini]] chatbot often provides a link to the original work.
 >
 > **[2:40](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/copyright-challenges?u=76281980&t=160)** Publishers, such as The New York Times, claim that training these models is not fair use.
 >
@@ -3871,14 +3827,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Large Language Models (LLM)|Large language models]] (4), chatbot (2), [[ChatGPT]] (1), power (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (4), [[ChatGPT]] (1), [[Generative AI]] (1), [[Microsoft Word|Word]] (1), [[Google]] (1)
 > **Definitions:** means that (4), is called (1)
 > **Analogies:** such as (3), just like (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - when (1)
 
-#### Privacy concerns
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/privacy-concerns?u=76281980)
+#### [Privacy concerns](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/privacy-concerns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3892,7 +3847,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/privacy-concerns?u=76281980&t=10)** Like you should never get a tattoo in a language you don't understand, or you should never eat anything you found in the back of a work fridge.
 >
-> **[0:18](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/privacy-concerns?u=76281980&t=18)** In the United States, privacy is just a set of guidelines.
+> **[0:18](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/privacy-concerns?u=76281980&t=18)** In the United States, [[Privacy]] is just a set of guidelines.
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/privacy-concerns?u=76281980&t=21)** There isn't the type of hard and fast rules that you see in other countries.
 >
@@ -3918,7 +3873,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/privacy-concerns?u=76281980&t=91)** They may even include how many times they call and where they call from.
 >
-> **[1:35](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/privacy-concerns?u=76281980&t=95)** Privacy protection is about creating a barrier between your personal information and your ability to freely move through society.
+> **[1:35](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/privacy-concerns?u=76281980&t=95)** [[Privacy Protection]] is about creating a barrier between your personal information and your ability to freely move through society.
 >
 > **[1:43](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/privacy-concerns?u=76281980&t=103)** Almost everyone has some expectation of privacy.
 >
@@ -3946,7 +3901,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/privacy-concerns?u=76281980&t=162)** The company Meta was collecting enormous amount of data about their customers.
 >
-> **[2:46](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/privacy-concerns?u=76281980&t=166)** Most of the data capture was legal, but when customers found out, they were less inclined to use their products.
+> **[2:46](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/privacy-concerns?u=76281980&t=166)** Most of the data capture was legal, but when customers found out, they were less inclined to use their [[Microsoft Products|products]].
 >
 > **[2:53](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/privacy-concerns?u=76281980&t=173)** In a sense, Meta ignored the guidelines.
 >
@@ -3958,7 +3913,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Privacy]] (5), ai (2), database (2), [[Privacy Protection]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[Privacy Protection]] (2), [[Microsoft Products|Products]] (1)
 > **Analogies:** think of it like (1), imagine (1)
 > **Best Practices:** you should never (2)
 > **Definitions:** means that (1)
@@ -3970,12 +3925,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using AI systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/using-ai-systems?u=76281980)
+#### [Using AI systems](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/using-ai-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/using-ai-systems?u=76281980&t=1)** - We've seen that artificial intelligence started with the general problem solver.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/using-ai-systems?u=76281980&t=1)** - We've seen that [[Artificial Intelligence (AI)|artificial intelligence]] started with the general problem solver.
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/using-ai-systems?u=76281980&t=5)** This system used symbols to explicitly program a computer's response.
 >
@@ -4037,7 +3991,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/using-ai-systems?u=76281980&t=144)** The AI system scanned through millions of articles on artificial intelligence and wrote out what I said after a short description.
 >
-> **[2:31](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/using-ai-systems?u=76281980&t=151)** Then it used a deep learning artificial neural network to find patterns in articles about business people and AI.
+> **[2:31](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/using-ai-systems?u=76281980&t=151)** Then it used a [[Deep Learning]] artificial neural network to find patterns in articles about business people and AI.
 >
 > **[2:39](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/using-ai-systems?u=76281980&t=159)** It then just reassembled these common patterns into a few paragraphs of text.
 >
@@ -4055,7 +4009,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), data (7), business (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), next (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Deep Learning]] (1)
 > **Analogies:** just like (2), imagine (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the next (2)
@@ -4063,12 +4017,11 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - we (1)
 
-#### Applying AI to solve problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/applying-ai-to-solve-problems?u=76281980)
+#### [Applying AI to solve problems](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/applying-ai-to-solve-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/applying-ai-to-solve-problems?u=76281980&t=0)** - In this course, you got an overview of the technology behind artificial intelligence.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/applying-ai-to-solve-problems?u=76281980&t=0)** - In this course, you got an overview of the technology behind [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/applying-ai-to-solve-problems?u=76281980&t=5)** You saw the field started with key concepts, such as the general problem solver and symbolic reasoning.
 >
@@ -4076,9 +4029,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/applying-ai-to-solve-problems?u=76281980&t=16)** You got an overview of machine learning concepts and technology.
 >
-> **[0:19](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/applying-ai-to-solve-problems?u=76281980&t=19)** You've seen how several different machine learning algorithms can help learn from massive data sets.
+> **[0:19](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/applying-ai-to-solve-problems?u=76281980&t=19)** You've seen how several different machine learning [[Algorithms]] can help learn from massive data sets.
 >
-> **[0:25](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/applying-ai-to-solve-problems?u=76281980&t=25)** You also saw how artificial neural networks could be used with machine learning to get deeper insights and find complex patterns.
+> **[0:25](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/applying-ai-to-solve-problems?u=76281980&t=25)** You also saw how [[Artificial Neural Networks]] could be used with machine learning to get deeper insights and find complex patterns.
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/applying-ai-to-solve-problems?u=76281980&t=33)** Finally, you saw how your network uses back propagation to learn from its mistakes and improve its accuracy.
 >
@@ -4090,9 +4043,9 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/applying-ai-to-solve-problems?u=76281980&t=56)** These decisions could come from a black box where you have no idea what the machine understood.
 >
-> **[1:01](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/applying-ai-to-solve-problems?u=76281980&t=61)** If you're interested in these issues, I've also created a data ethics series, which might be a good follow up to this course.
+> **[1:01](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/applying-ai-to-solve-problems?u=76281980&t=61)** If you're interested in these issues, I've also created a [[Data Ethics]] series, which might be a good follow up to this course.
 >
-> **[1:07](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/applying-ai-to-solve-problems?u=76281980&t=67)** As always, please feel free to follow me on LinkedIn.
+> **[1:07](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/applying-ai-to-solve-problems?u=76281980&t=67)** As always, please feel free to follow me on [[LinkedIn]].
 >
 > **[1:11](https://www.linkedin.com/learning/introduction-to-artificial-intelligence-24947908/applying-ai-to-solve-problems?u=76281980&t=71)** There you'll see articles and links about artificial intelligence, data ethics, and key business challenges.
 >
@@ -4100,7 +4053,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), data (3), ai (2), [[Ethics]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Data Ethics]] (2), [[Algorithms]] (1), [[Artificial Neural Networks]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)

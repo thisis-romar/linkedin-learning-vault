@@ -96,16 +96,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The rise of image generation apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/the-rise-of-image-generation-apps-24189532?u=76281980)
+#### [The rise of image generation apps](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/the-rise-of-image-generation-apps-24189532?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/the-rise-of-image-generation-apps-24189532?u=76281980&t=0)** - If you type imagine, it will come.
 >
-> **[0:02](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/the-rise-of-image-generation-apps-24189532?u=76281980&t=2)** Over the past year generative AI text to image apps or what is known as text to image prompting have taken the world by storm.
+> **[0:02](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/the-rise-of-image-generation-apps-24189532?u=76281980&t=2)** Over the past year [[Generative AI]] text to image apps or what is known as text to image prompting have taken the world by storm.
 >
-> **[0:11](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/the-rise-of-image-generation-apps-24189532?u=76281980&t=11)** Midjourney is one of these apps.
+> **[0:11](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/the-rise-of-image-generation-apps-24189532?u=76281980&t=11)** [[Midjourney]] is one of these apps.
 >
 > **[0:14](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/the-rise-of-image-generation-apps-24189532?u=76281980&t=14)** It was created by an independent research lab of the same name.
 >
@@ -129,15 +128,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (8), [[Generative AI]] (1), ux (1), prompt (1)
+> **Frameworks & Libraries:** [[Midjourney]] (8), [[Generative AI]] (1)
 > **Tools:** discord (2)
 > **Analogies:** imagine (2)
 > **Versions:** version 6 (1)
 > **Definitions:** known as (1)
 > **Speakers:** - if (1)
 
-#### Downloading and using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/downloading-and-using-the-exercise-files-24192217?u=76281980)
+#### [Downloading and using the exercise files](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/downloading-and-using-the-exercise-files-24192217?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -147,11 +145,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/downloading-and-using-the-exercise-files-24192217?u=76281980&t=8)** Now, once you do, save them in a safe place, such as your desktop, your documents or your downloads folder, and I will call you at certain points during different movies to use these images for various processes.
 >
-> **[0:21](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/downloading-and-using-the-exercise-files-24192217?u=76281980&t=21)** For instance, if we double-click the Midjourney Images folder, which is the exercise files, there are two folders I want you to be aware of.
+> **[0:21](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/downloading-and-using-the-exercise-files-24192217?u=76281980&t=21)** For instance, if we double-click the [[Midjourney]] Images folder, which is the exercise files, there are two folders I want you to be aware of.
 >
 > **[0:29](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/downloading-and-using-the-exercise-files-24192217?u=76281980&t=29)** One is the Image to Image folder, which we'll use for blending images, not to mention, using an image reference as part of a text prompt.
 >
-> **[0:38](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/downloading-and-using-the-exercise-files-24192217?u=76281980&t=38)** If I add back, the other folder are some mid journey images that I produced in an earlier date that we'll use with other generative AI art apps to see what else is possible.
+> **[0:38](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/downloading-and-using-the-exercise-files-24192217?u=76281980&t=38)** If I add back, the other folder are some mid journey images that I produced in an earlier date that we'll use with other [[Generative AI]] art apps to see what else is possible.
 >
 > **[0:50](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/downloading-and-using-the-exercise-files-24192217?u=76281980&t=50)** Now, in addition to this, I've also included a ton of examples that you can reference after or during this course.
 >
@@ -169,7 +167,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (2), prompt (2), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Midjourney]] (2), [[Generative AI]] (1)
 > **Exercise Files:** exercise files (4)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1), for instance (1)
@@ -182,8 +180,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How text to image prompts work
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/how-text-to-image-prompts-work-24190344?u=76281980)
+#### [How text to image prompts work](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/how-text-to-image-prompts-work-24190344?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -191,13 +188,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/how-text-to-image-prompts-work-24190344?u=76281980&t=4)** Our story starts with diffusion models.
 >
-> **[0:07](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/how-text-to-image-prompts-work-24190344?u=76281980&t=7)** This represents the north star of generative AI capabilities today when it comes to still and even video imagery.
+> **[0:07](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/how-text-to-image-prompts-work-24190344?u=76281980&t=7)** This represents the north star of [[Generative AI]] capabilities today when it comes to still and even video imagery.
 >
 > **[0:15](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/how-text-to-image-prompts-work-24190344?u=76281980&t=15)** This is because of experimentation over several decades that have led to these diffusion models and what is now allowing for this exponential growth.
 >
 > **[0:23](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/how-text-to-image-prompts-work-24190344?u=76281980&t=23)** Diffusion models fall in the generative model class, and generative AI models are a class of machine learning that can generate new data based on training data.
 >
-> **[0:34](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/how-text-to-image-prompts-work-24190344?u=76281980&t=34)** In this instance, imagery when it comes to Midjourney.
+> **[0:34](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/how-text-to-image-prompts-work-24190344?u=76281980&t=34)** In this instance, imagery when it comes to [[Midjourney]].
 >
 > **[0:37](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/how-text-to-image-prompts-work-24190344?u=76281980&t=37)** So here's the basics of the diffusion model process at a glance.
 >
@@ -215,7 +212,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/how-text-to-image-prompts-work-24190344?u=76281980&t=76)** And then you have the generative image model, which is like a diffusion, in this case, a diffusion model, and that produces an image conditioned on the representation of the language model.
 >
-> **[1:28](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/how-text-to-image-prompts-work-24190344?u=76281980&t=88)** When you think language model, think none other than ChatGPT, 'cause this is essentially how you're going to write text prompts with Midjourney V5 and beyond.
+> **[1:28](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/how-text-to-image-prompts-work-24190344?u=76281980&t=88)** When you think language model, think none other than [[ChatGPT]], 'cause this is essentially how you're going to write text prompts with Midjourney V5 and beyond.
 >
 > **[1:38](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/how-text-to-image-prompts-work-24190344?u=76281980&t=98)** So there's some basic information as it comes to text to image prompting.
 >
@@ -223,15 +220,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), data (2), [[Midjourney]] (2), prompt (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Midjourney]] (2), [[ChatGPT]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Joining Midjourney and installing Discord
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/joining-midjourney-and-installing-discord-24188680?u=76281980)
+#### [Joining Midjourney and installing Discord](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/joining-midjourney-and-installing-discord-24188680?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/joining-midjourney-and-installing-discord-24188680?u=76281980&t=0)** - [Instructor] In this video, we're going to set up what's necessary in order for you to begin prompting Inside of Midjourney, Midjourney is run through Discord.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/joining-midjourney-and-installing-discord-24188680?u=76281980&t=0)** - [Instructor] In this video, we're going to set up what's necessary in order for you to begin prompting Inside of [[Midjourney]], Midjourney is run through Discord.
 >
 > **[0:08](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/joining-midjourney-and-installing-discord-24188680?u=76281980&t=8)** This, however, is changing very quickly.
 >
@@ -303,7 +299,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (10), next (2), feature (1), prompt (1)
+> **Frameworks & Libraries:** [[Midjourney]] (10)
 > **Tools:** discord (10)
 > **Prerequisites:** set up (3), getting started (1)
 > **URLs:** [midjourney.com](https://midjourney.com) (2), [discord.com](https://discord.com) (1)
@@ -312,12 +308,11 @@ created: 2026-05-02
 > **Analogies:** imagine (1), just like (1)
 > **Cross-References:** in the next (1)
 
-#### Creating your first Midjourney text prompt
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/creating-your-first-midjourney-text-prompt-24187697?u=76281980)
+#### [Creating your first Midjourney text prompt](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/creating-your-first-midjourney-text-prompt-24187697?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/creating-your-first-midjourney-text-prompt-24187697?u=76281980&t=0)** - [Instructor] In this video, we're going to get familiar with creating our first text prompt inside of Midjourney.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/creating-your-first-midjourney-text-prompt-24187697?u=76281980&t=0)** - [Instructor] In this video, we're going to get familiar with creating our first text prompt inside of [[Midjourney]].
 >
 > **[0:04](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/creating-your-first-midjourney-text-prompt-24187697?u=76281980&t=4)** In the last video, we set this all up.
 >
@@ -409,7 +404,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (13), prompt (8), web (1), next (1)
+> **Frameworks & Libraries:** [[Midjourney]] (13)
 > **UI Navigation:** click on (5), go to (2), scroll up (1)
 > **Tools:** discord (4)
 > **Cross-References:** in the last (1), later in (1), in the next (1)
@@ -418,12 +413,11 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 
-#### Creating your first Midjourney text prompt on the web
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/creating-your-first-midjourney-text-prompt-on-the-web?u=76281980)
+#### [Creating your first Midjourney text prompt on the web](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/creating-your-first-midjourney-text-prompt-on-the-web?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/creating-your-first-midjourney-text-prompt-on-the-web?u=76281980&t=0)** - [Instructor] At the time of this recording, once you've completed a hundred jobs in Discord using Midjourney, you'll be able to access the web browser and can perform these same text prompts in a much more intuitive interface.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/creating-your-first-midjourney-text-prompt-on-the-web?u=76281980&t=0)** - [Instructor] At the time of this recording, once you've completed a hundred jobs in Discord using [[Midjourney]], you'll be able to access the web browser and can perform these same text prompts in a much more intuitive interface.
 >
 > **[0:14](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/creating-your-first-midjourney-text-prompt-on-the-web?u=76281980&t=14)** In this video, we'll explore some of the similarities between text prompting on the web browser versus in Discord, as well as some of the differences.
 >
@@ -501,7 +495,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), [[Midjourney]] (4), prompt (4), next (2), feature (1)
+> **Frameworks & Libraries:** [[Midjourney]] (4)
 > **Tools:** discord (6), safari (1)
 > **UI Navigation:** click on (3), scroll up (1)
 > **Cross-References:** later in (1), in the next (1)
@@ -510,12 +504,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prompting on Midjourney, viewing your images, and finding inspiration
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/prompting-on-midjourney-viewing-your-images-and-finding-inspiration-24187695?u=76281980)
+#### [Prompting on Midjourney, viewing your images, and finding inspiration](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/prompting-on-midjourney-viewing-your-images-and-finding-inspiration-24187695?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/prompting-on-midjourney-viewing-your-images-and-finding-inspiration-24187695?u=76281980&t=0)** - [Instructor] In the last few movies, we became familiar with how we can text prompt in a channel directly on Discord or on [midjourney.com](https://midjourney.com).
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/prompting-on-midjourney-viewing-your-images-and-finding-inspiration-24187695?u=76281980&t=0)** - [Instructor] In the last few movies, we became familiar with how we can text prompt in a channel directly on Discord or on [[[Midjourney]].com](https://midjourney.com).
 >
 > **[0:09](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/prompting-on-midjourney-viewing-your-images-and-finding-inspiration-24187695?u=76281980&t=9)** And at the time of this recording, this is available to anyone who has produced over 100 images.
 >
@@ -527,7 +520,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/prompting-on-midjourney-viewing-your-images-and-finding-inspiration-24187695?u=76281980&t=36)** And what you should find is an envelope.
 >
-> **[0:39](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/prompting-on-midjourney-viewing-your-images-and-finding-inspiration-24187695?u=76281980&t=39)** So if you don't find that envelope for any reason, you can type in the word envelope up here, and by simply clicking on that envelope, what it's going to do is ask it for information about this specific job.
+> **[0:39](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/prompting-on-midjourney-viewing-your-images-and-finding-inspiration-24187695?u=76281980&t=39)** So if you don't find that envelope for any reason, you can type in the [[Microsoft Word|word]] envelope up here, and by simply clicking on that envelope, what it's going to do is ask it for information about this specific job.
 >
 > **[0:51](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/prompting-on-midjourney-viewing-your-images-and-finding-inspiration-24187695?u=76281980&t=51)** You can see that it shows up here at the side in the Midjourney Bot.
 >
@@ -599,7 +592,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (10), prompt (9), next (1), [[Microsoft Word|Word]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Midjourney]] (10), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (8)
 > **Tools:** discord (7)
 > **UI Navigation:** click on (3), go to (2), scroll down (1)
@@ -613,12 +606,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using external images with a text prompt
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-external-images-with-a-text-prompt-24186867?u=76281980)
+#### [Using external images with a text prompt](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-external-images-with-a-text-prompt-24186867?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-external-images-with-a-text-prompt-24186867?u=76281980&t=0)** - [Educator] In this video, we're going to look at how we can upload an image to Discord, followed by some text in order for Midjourney to create a new image from those sources.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-external-images-with-a-text-prompt-24186867?u=76281980&t=0)** - [Educator] In this video, we're going to look at how we can upload an image to Discord, followed by some text in order for [[Midjourney]] to create a new image from those sources.
 >
 > **[0:11](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-external-images-with-a-text-prompt-24186867?u=76281980&t=11)** Now, a couple things have changed since the last video that you should be aware of.
 >
@@ -704,7 +696,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-external-images-with-a-text-prompt-24186867?u=76281980&t=231)** Got our prompt set up, I'll use the colon and press Command + V.
 >
-> **[3:54](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-external-images-with-a-text-prompt-24186867?u=76281980&t=234)** And right after the word, running with dinosaurs, I'm going to add two things to the end of this prompt.
+> **[3:54](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-external-images-with-a-text-prompt-24186867?u=76281980&t=234)** And right after the [[Microsoft Word|word]], running with dinosaurs, I'm going to add two things to the end of this prompt.
 >
 > **[4:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-external-images-with-a-text-prompt-24186867?u=76281980&t=240)** So I want to press the Comma key and next we want to use these two small dashes which are next to the zero on your keyboard.
 >
@@ -770,7 +762,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (13), prompt (13), next (3), hit (2), feature (1)
+> **Frameworks & Libraries:** [[Midjourney]] (13), [[Microsoft Word|Word]] (1)
 > **Analogies:** imagine (5), for instance (1)
 > **Tools:** discord (5)
 > **Definitions:** stands for (1), known as (1), is a  (1)
@@ -779,12 +771,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1), note that (1)
 > **CLI Commands:** find (1)
 
-#### Blending images
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/blending-images-24189530?u=76281980)
+#### [Blending images](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/blending-images-24189530?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/blending-images-24189530?u=76281980&t=0)** - [Instructor] In a previous video, we took a look at how we could upload an image to Discord and combine that with a text prompt so that Midjourney produced new imagery.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/blending-images-24189530?u=76281980&t=0)** - [Instructor] In a previous video, we took a look at how we could upload an image to Discord and combine that with a text prompt so that [[Midjourney]] produced new imagery.
 >
 > **[0:08](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/blending-images-24189530?u=76281980&t=8)** We even looked at how we could give a weight to the image versus the text, so we could have either the text or the image have more influence over the final result.
 >
@@ -834,7 +825,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (5), prompt (2), web (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Midjourney]] (5)
 > **Tools:** discord (5)
 > **UI Navigation:** click on (2), scroll down (1), right-click (1)
 > **CLI Commands:** find (1), make (1)
@@ -843,12 +834,11 @@ created: 2026-05-02
 > **Versions:** version 5 (1)
 > **Cross-References:** previous video (1)
 
-#### Getting help and adjusting settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/getting-help-and-adjusting-settings-24191242?u=76281980)
+#### [Getting help and adjusting settings](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/getting-help-and-adjusting-settings-24191242?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/getting-help-and-adjusting-settings-24191242?u=76281980&t=0)** - [Instructor] In this video, we're going to get familiar with how we can ask Midjourney for help.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/getting-help-and-adjusting-settings-24191242?u=76281980&t=0)** - [Instructor] In this video, we're going to get familiar with how we can ask [[Midjourney]] for help.
 >
 > **[0:03](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/getting-help-and-adjusting-settings-24191242?u=76281980&t=3)** Not to mention, discover the base settings that we're working with.
 >
@@ -908,7 +898,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/getting-help-and-adjusting-settings-24191242?u=76281980&t=153)** A Low style is going to follow your text prompt, literally, versus a very High style might even ignore most of your text prompts in certain situations.
 >
-> **[2:44](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/getting-help-and-adjusting-settings-24191242?u=76281980&t=164)** You'll notice I'm also in Stealth mode, which keeps my prompts private, as well as I've enabled Remix mode, which I'm going to get to in a second.
+> **[2:44](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/getting-help-and-adjusting-settings-24191242?u=76281980&t=164)** You'll notice I'm also in Stealth mode, which keeps my prompts private, as well as I've enabled [[Remix]] mode, which I'm going to get to in a second.
 >
 > **[2:51](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/getting-help-and-adjusting-settings-24191242?u=76281980&t=171)** This, in combination with Fast mode, which generates the images more quickly at the expense of more time spent on the server, and potentially a higher subscription price.
 >
@@ -974,7 +964,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (13), prompt (12), [[Remix]] (7), power (1), next (1)
+> **Frameworks & Libraries:** [[Midjourney]] (13), [[Remix]] (7)
 > **Analogies:** imagine (5), for instance (2), such as (1), similar to (1)
 > **Versions:** version 4 (4), version 5 (3)
 > **CLI Commands:** find (1), cat (1), make (1)
@@ -983,12 +973,11 @@ created: 2026-05-02
 > **Cross-References:** in the last (2)
 > **Tools:** discord (1)
 
-#### Using Midjourney v5 and beyond
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-midjourney-v5-and-beyond-24192215?u=76281980)
+#### [Using Midjourney v5 and beyond](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-midjourney-v5-and-beyond-24192215?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-midjourney-v5-and-beyond-24192215?u=76281980&t=0)** - [Host] Recently at the time of this recording, version five for Midjourney was released.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-midjourney-v5-and-beyond-24192215?u=76281980&t=0)** - [Host] Recently at the time of this recording, version five for [[Midjourney]] was released.
 >
 > **[0:04](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-midjourney-v5-and-beyond-24192215?u=76281980&t=4)** And there are several changes that just make the algorithm better for when producing images.
 >
@@ -1014,7 +1003,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-midjourney-v5-and-beyond-24192215?u=76281980&t=70)** And one thing to keep in mind is if you're looking for a photo realistic image is to think like a photographer.
 >
-> **[1:16](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-midjourney-v5-and-beyond-24192215?u=76281980&t=76)** A photographer wouldn't type in the word photorealistic.
+> **[1:16](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-midjourney-v5-and-beyond-24192215?u=76281980&t=76)** A photographer wouldn't type in the [[Microsoft Word|word]] photorealistic.
 >
 > **[1:19](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-midjourney-v5-and-beyond-24192215?u=76281980&t=79)** They might mention the name of their lens, the type of lighting, the time of day that it was shot to keep into consideration how the person producing the artwork would talk can go a long way to get you the images that you're looking for.
 >
@@ -1110,7 +1099,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (10), [[Midjourney]] (9), ux (4), [[Microsoft Word|Word]] (2), next (1)
+> **Frameworks & Libraries:** [[Midjourney]] (9), [[Microsoft Word|Word]] (2)
 > **Analogies:** imagine (4), for instance (2)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** iphone (2)
@@ -1119,18 +1108,17 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 
-#### Text separation and weights to drive image creation
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/text-separation-and-weights-to-drive-image-creation-24192214?u=76281980)
+#### [Text separation and weights to drive image creation](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/text-separation-and-weights-to-drive-image-creation-24192214?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/text-separation-and-weights-to-drive-image-creation-24192214?u=76281980&t=0)** - [Instructor] In this video, we're going to look at how we can add parameters to our text prompt in order to help guide Midjourney to get the type of artwork that we're looking for.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/text-separation-and-weights-to-drive-image-creation-24192214?u=76281980&t=0)** - [Instructor] In this video, we're going to look at how we can add parameters to our text prompt in order to help guide [[Midjourney]] to get the type of artwork that we're looking for.
 >
 > **[0:09](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/text-separation-and-weights-to-drive-image-creation-24192214?u=76281980&t=9)** We're going to look at this in two ways.
 >
 > **[0:10](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/text-separation-and-weights-to-drive-image-creation-24192214?u=76281980&t=10)** One way is to essentially separate words when necessary.
 >
-> **[0:15](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/text-separation-and-weights-to-drive-image-creation-24192214?u=76281980&t=15)** The other way is to give specific words a higher weight than others so the balance of that word has a stronger influence than all of the other words in a prompt.
+> **[0:15](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/text-separation-and-weights-to-drive-image-creation-24192214?u=76281980&t=15)** The other way is to give specific words a higher weight than others so the balance of that [[Microsoft Word|word]] has a stronger influence than all of the other words in a prompt.
 >
 > **[0:27](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/text-separation-and-weights-to-drive-image-creation-24192214?u=76281980&t=27)** So how can this be done?
 >
@@ -1204,15 +1192,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (16), [[Microsoft Word|Word]] (3), [[Midjourney]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Midjourney]] (2)
 > **Analogies:** imagine (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Midjourney parameters for lighting, image size, and more
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/midjourney-parameters-for-lighting-image-size-and-more?u=76281980)
+#### [Midjourney parameters for lighting, image size, and more](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/midjourney-parameters-for-lighting-image-size-and-more?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1270,7 +1257,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/midjourney-parameters-for-lighting-image-size-and-more?u=76281980&t=137)** This seed value can be very helpful and added as a parameter to the end of your text prompt.
 >
-> **[2:25](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/midjourney-parameters-for-lighting-image-size-and-more?u=76281980&t=145)** If you don't add a seed value, Midjourney automatically creates one for you.
+> **[2:25](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/midjourney-parameters-for-lighting-image-size-and-more?u=76281980&t=145)** If you don't add a seed value, [[Midjourney]] automatically creates one for you.
 >
 > **[2:30](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/midjourney-parameters-for-lighting-image-size-and-more?u=76281980&t=150)** So I'm just going to first of all, just copy the text prompt, which is still saved to memory, right?
 >
@@ -1340,7 +1327,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (19), next (2), [[Midjourney]] (1)
+> **Frameworks & Libraries:** [[Midjourney]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** imagine (4)
 > **UI Navigation:** click on (1), select the (1)
@@ -1348,12 +1335,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Midjourney parameters for video, seamless textures, and more
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/midjourney-parameters-for-video-seamless-textures-and-more?u=76281980)
+#### [Midjourney parameters for video, seamless textures, and more](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/midjourney-parameters-for-video-seamless-textures-and-more?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/midjourney-parameters-for-video-seamless-textures-and-more?u=76281980&t=0)** - [Instructor] In this video, we're going to continue to explore parameters that we can add to the end of text prompts as we are creating our images inside of Midjourney.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/midjourney-parameters-for-video-seamless-textures-and-more?u=76281980&t=0)** - [Instructor] In this video, we're going to continue to explore parameters that we can add to the end of text prompts as we are creating our images inside of [[Midjourney]].
 >
 > **[0:08](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/midjourney-parameters-for-video-seamless-textures-and-more?u=76281980&t=8)** Let's get started with our handy imagine prompt, followed by a colon.
 >
@@ -1383,7 +1369,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/midjourney-parameters-for-video-seamless-textures-and-more?u=76281980&t=100)** If you press file, simply select the seamless tile in question, and load it in.
 >
-> **[1:48](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/midjourney-parameters-for-video-seamless-textures-and-more?u=76281980&t=108)** You can simply use the scroll bar in order to zoom in and out to make sure that it's okay.
+> **[1:48](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/midjourney-parameters-for-video-seamless-textures-and-more?u=76281980&t=108)** You can simply use the scroll bar in order to [[Zoom]] in and out to make sure that it's okay.
 >
 > **[1:55](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/midjourney-parameters-for-video-seamless-textures-and-more?u=76281980&t=115)** We can see here that the tile isn't perfect in this instance.
 >
@@ -1415,7 +1401,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (6), prompt (6), [[Zoom]] (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[Midjourney]] (6), [[Zoom]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (3)
 > **UI Navigation:** go to (1), select the (1)
@@ -1424,12 +1410,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### Using Style Raw and the Stylize Parameter
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-style-raw-and-the-stylize-parameter-24188678?u=76281980)
+#### [Using Style Raw and the Stylize Parameter](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-style-raw-and-the-stylize-parameter-24188678?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-style-raw-and-the-stylize-parameter-24188678?u=76281980&t=0)** - [Instructor] Whenever you enter a text prompt in Midjourney with the imagine command and press Return, Midjourney is going to add some beautification to it.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-style-raw-and-the-stylize-parameter-24188678?u=76281980&t=0)** - [Instructor] Whenever you enter a text prompt in [[Midjourney]] with the imagine command and press Return, Midjourney is going to add some beautification to it.
 >
 > **[0:08](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-style-raw-and-the-stylize-parameter-24188678?u=76281980&t=8)** If you don't want this beautification to be applied, you can direct it.
 >
@@ -1487,7 +1472,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (11), prompt (8)
+> **Frameworks & Libraries:** [[Midjourney]] (11)
 > **Analogies:** imagine (5), similar to (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
@@ -1498,12 +1483,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Image and text prompt ideation: Repeat, describe, and shorten
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/image-and-text-prompt-ideation-repeat-describe-and-shorten-24192213?u=76281980)
+#### [Image and text prompt ideation: Repeat, describe, and shorten](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/image-and-text-prompt-ideation-repeat-describe-and-shorten-24192213?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/image-and-text-prompt-ideation-repeat-describe-and-shorten-24192213?u=76281980&t=0)** - [Instructor] In this video, we're going to look at how we can use Midjourney for creative ideation by taking a look at both the describe and shorten messages that we can send the bot, not to mention the repeat command.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/image-and-text-prompt-ideation-repeat-describe-and-shorten-24192213?u=76281980&t=0)** - [Instructor] In this video, we're going to look at how we can use [[Midjourney]] for [[Creative Ideation]] by taking a look at both the describe and shorten messages that we can send the bot, not to mention the repeat command.
 >
 > **[0:11](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/image-and-text-prompt-ideation-repeat-describe-and-shorten-24192213?u=76281980&t=11)** Okay, let's get started.
 >
@@ -1597,7 +1581,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/image-and-text-prompt-ideation-repeat-describe-and-shorten-24192213?u=76281980&t=286)** So we're going to get the text prompt, not to mention any parameters that someone added after.
 >
-> **[4:51](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/image-and-text-prompt-ideation-repeat-describe-and-shorten-24192213?u=76281980&t=291)** I'll head back to Discord, and this is where we're going to use that slash key, but in this case, type in the word shorten.
+> **[4:51](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/image-and-text-prompt-ideation-repeat-describe-and-shorten-24192213?u=76281980&t=291)** I'll head back to Discord, and this is where we're going to use that slash key, but in this case, type in the [[Microsoft Word|word]] shorten.
 >
 > **[4:58](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/image-and-text-prompt-ideation-repeat-describe-and-shorten-24192213?u=76281980&t=298)** I'll press the colon key, followed by command V or control V on a PC.
 >
@@ -1605,7 +1589,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/image-and-text-prompt-ideation-repeat-describe-and-shorten-24192213?u=76281980&t=308)** Let's press the return key, and here is what it sees.
 >
-> **[5:11](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/image-and-text-prompt-ideation-repeat-describe-and-shorten-24192213?u=76281980&t=311)** So first off, all at the top, it sees certain tokens which are going to drive the creation of your gen AI images, and that includes nature photography, cinematic, the words small water, middle, et cetera.
+> **[5:11](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/image-and-text-prompt-ideation-repeat-describe-and-shorten-24192213?u=76281980&t=311)** So first off, all at the top, it sees certain [[Tokens]] which are going to drive the creation of your gen AI images, and that includes nature photography, cinematic, the words small water, middle, et cetera.
 >
 > **[5:25](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/image-and-text-prompt-ideation-repeat-describe-and-shorten-24192213?u=76281980&t=325)** If I look here at shortened prompts, here are some ideas Midjourney has in order to not use as many words, but would probably have the same impact of what you're looking for.
 >
@@ -1613,7 +1597,7 @@ created: 2026-05-02
 >
 > **[5:44](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/image-and-text-prompt-ideation-repeat-describe-and-shorten-24192213?u=76281980&t=344)** Let's click on four here, and right now I'll just choose submit.
 >
-> **[5:49](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/image-and-text-prompt-ideation-repeat-describe-and-shorten-24192213?u=76281980&t=349)** I could remix this based on my settings, and Midjourney gets to work, and we can compare it with the shortened description.
+> **[5:49](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/image-and-text-prompt-ideation-repeat-describe-and-shorten-24192213?u=76281980&t=349)** I could [[Remix]] this based on my settings, and Midjourney gets to work, and we can compare it with the shortened description.
 >
 > **[5:55](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/image-and-text-prompt-ideation-repeat-describe-and-shorten-24192213?u=76281980&t=355)** I didn't follow with the other parameters, so the aspect ratio in this case.
 >
@@ -1629,7 +1613,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (15), prompt (9), application (2), [[Creative Ideation]] (1), web (1)
+> **Frameworks & Libraries:** [[Midjourney]] (15), [[Creative Ideation]] (1), [[Microsoft Word|Word]] (1), [[Tokens]] (1), [[Remix]] (1)
 > **Analogies:** imagine (4), kind of like (2)
 > **Cross-References:** earlier in (2), coming up (1), go back to (1)
 > **UI Navigation:** click on (3), scroll down (1)
@@ -1638,12 +1622,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (2)
 > **URLs:** [midjourney.com](https://midjourney.com) (1)
 
-#### Multiple text prompts in one (Permutation Prompts)
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/multiple-text-prompts-in-one-permutation-prompts-24187696?u=76281980)
+#### [Multiple text prompts in one (Permutation Prompts)](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/multiple-text-prompts-in-one-permutation-prompts-24187696?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/multiple-text-prompts-in-one-permutation-prompts-24187696?u=76281980&t=0)** - [Instructor] When you're trying to look for specific outcomes with Midjourney, look no further than permutations.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/multiple-text-prompts-in-one-permutation-prompts-24187696?u=76281980&t=0)** - [Instructor] When you're trying to look for specific outcomes with [[Midjourney]], look no further than permutations.
 >
 > **[0:06](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/multiple-text-prompts-in-one-permutation-prompts-24187696?u=76281980&t=6)** What this allows you to do is essentially have multiple text prompts in one, giving you several different variations.
 >
@@ -1711,7 +1694,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), [[Midjourney]] (4)
+> **Frameworks & Libraries:** [[Midjourney]] (4)
 > **Analogies:** imagine (4), for example (1), similar to (1), kind of like (1), just like (1)
 > **CLI Commands:** make (1), find (1)
 > **Ports:** :17 (2)
@@ -1720,12 +1703,11 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Exercise Files:** exercise files (1)
 
-#### Pan and vary images
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/pan-and-vary-images-24188675?u=76281980)
+#### [Pan and vary images](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/pan-and-vary-images-24188675?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/pan-and-vary-images-24188675?u=76281980&t=0)** - [Instructor] In Midjourney 5.2, after you have upscaled or up-resed your images, you now have a variety of options that you can use to make subtle changes to the framing, not to mention vary elements that exist within that image.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/pan-and-vary-images-24188675?u=76281980&t=0)** - [Instructor] In [[Midjourney]] 5.2, after you have upscaled or up-resed your images, you now have a variety of options that you can use to make subtle changes to the framing, not to mention vary elements that exist within that image.
 >
 > **[0:13](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/pan-and-vary-images-24188675?u=76281980&t=13)** Now, in order to see this, let's all start off by creating a text prompt together.
 >
@@ -1803,19 +1785,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), [[Midjourney]] (3), next (1)
+> **Frameworks & Libraries:** [[Midjourney]] (3)
 > **Analogies:** imagine (2), kind of like (2)
 > **CLI Commands:** make (2)
 > **Versions:** 5.2 (1), 16.9 (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Midjourney's 5.2 Zoom feature
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-midjourney-s-5-2-zoom-feature-24191243?u=76281980)
+#### [Using Midjourney's 5.2 Zoom feature](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-midjourney-s-5-2-zoom-feature-24191243?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-midjourney-s-5-2-zoom-feature-24191243?u=76281980&t=0)** - [Instructor] In this video, we're going to explore the zoom out feature, which is available on up res images inside of Midjourney.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-midjourney-s-5-2-zoom-feature-24191243?u=76281980&t=0)** - [Instructor] In this video, we're going to explore the [[Zoom]] out feature, which is available on up res images inside of [[Midjourney]].
 >
 > **[0:06](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-midjourney-s-5-2-zoom-feature-24191243?u=76281980&t=6)** So first of all, let's all start with a prompt, in order to see this.
 >
@@ -1851,7 +1832,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-midjourney-s-5-2-zoom-feature-24191243?u=76281980&t=85)** And instead of choosing the zoom out two times, or 1.5 times, I'm going to choose a custom zoom.
 >
-> **[1:31](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-midjourney-s-5-2-zoom-feature-24191243?u=76281980&t=91)** And a window's going to pop up very similar to remix.
+> **[1:31](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-midjourney-s-5-2-zoom-feature-24191243?u=76281980&t=91)** And a window's going to pop up very similar to [[Remix]].
 >
 > **[1:34](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-midjourney-s-5-2-zoom-feature-24191243?u=76281980&t=94)** In this case, we could add to this prompt, but then keep in mind it's going to then reuse all of the information that we just typed in, not necessarily giving us what we want to zoom out to.
 >
@@ -1927,7 +1908,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (20), prompt (8), [[Midjourney]] (6), feature (2), application (2)
+> **Frameworks & Libraries:** [[Zoom]] (20), [[Midjourney]] (6), [[Remix]] (1)
 > **Versions:** 1.5 (1), 1.8 (1), 1.7 (1)
 > **Analogies:** imagine (1), similar to (1)
 > **Warnings:** keep in mind (2)
@@ -1936,12 +1917,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Changing part of an image with Vary Region (inpainting)
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/changing-part-of-an-image-with-vary-region-inpainting-24185992?u=76281980)
+#### [Changing part of an image with Vary Region (inpainting)](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/changing-part-of-an-image-with-vary-region-inpainting-24185992?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/changing-part-of-an-image-with-vary-region-inpainting-24185992?u=76281980&t=0)** - [Instructor] In this video, we're going to take a look at Midjourney's Vary Region feature, which is in painting, and will allow us to make changes to a portion of an image, generating new results in just that section.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/changing-part-of-an-image-with-vary-region-inpainting-24185992?u=76281980&t=0)** - [Instructor] In this video, we're going to take a look at [[Midjourney]]'s Vary Region feature, which is in painting, and will allow us to make changes to a portion of an image, generating new results in just that section.
 >
 > **[0:10](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/changing-part-of-an-image-with-vary-region-inpainting-24185992?u=76281980&t=10)** Okay, let's see this in action.
 >
@@ -1967,7 +1947,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/changing-part-of-an-image-with-vary-region-inpainting-24185992?u=76281980&t=60)** So let's click on that button, Vary Region, and an entirely new window pops up.
 >
-> **[1:05](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/changing-part-of-an-image-with-vary-region-inpainting-24185992?u=76281980&t=65)** One extremely important note is that we do want to have remix turned on in order to use this.
+> **[1:05](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/changing-part-of-an-image-with-vary-region-inpainting-24185992?u=76281980&t=65)** One extremely important note is that we do want to have [[Remix]] turned on in order to use this.
 >
 > **[1:10](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/changing-part-of-an-image-with-vary-region-inpainting-24185992?u=76281980&t=70)** So for any reason that you don't, I'm just going to x out of here for a second and just do a dash search for settings followed by Return.
 >
@@ -2065,7 +2045,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (7), prompt (6), feature (3), [[Remix]] (3), hit (1)
+> **Frameworks & Libraries:** [[Midjourney]] (7), [[Remix]] (3)
 > **UI Navigation:** click on (3), go to (1), select the (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (2)
@@ -2074,12 +2054,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** discord (1)
 
-#### Working with Midjourney v6
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/working-with-midjourney-v6-24188679?u=76281980)
+#### [Working with Midjourney v6](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/working-with-midjourney-v6-24188679?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/working-with-midjourney-v6-24188679?u=76281980&t=0)** - [Instructor] At the time of this recording, Midjourney is currently on V6 Alpha.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/working-with-midjourney-v6-24188679?u=76281980&t=0)** - [Instructor] At the time of this recording, [[Midjourney]] is currently on V6 Alpha.
 >
 > **[0:04](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/working-with-midjourney-v6-24188679?u=76281980&t=4)** You can enable this under settings or alternatively, add the parameter --V6, after your text prompt.
 >
@@ -2131,7 +2110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (5), prompt (3), next (2), feature (1)
+> **Frameworks & Libraries:** [[Midjourney]] (5)
 > **Analogies:** imagine (2), such as (1), compare this to (1)
 > **CLI Commands:** cat (3)
 > **Tools:** discord (2)
@@ -2140,12 +2119,11 @@ created: 2026-05-02
 > **Env Vars:** gpu (1)
 > **Cross-References:** in the next (1)
 
-#### Creating text in Midjourney v6
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/creating-text-in-midjourney-v6-24186868?u=76281980)
+#### [Creating text in Midjourney v6](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/creating-text-in-midjourney-v6-24186868?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/creating-text-in-midjourney-v6-24186868?u=76281980&t=0)** - [Instructor] While in this course, we looked at earlier models of Midjourney and how we could produce text using multiple variations with Midjourney Model v6.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/creating-text-in-midjourney-v6-24186868?u=76281980&t=0)** - [Instructor] While in this course, we looked at earlier models of [[Midjourney]] and how we could produce text using multiple variations with Midjourney Model v6.
 >
 > **[0:09](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/creating-text-in-midjourney-v6-24186868?u=76281980&t=9)** You are now able to apply text to your images.
 >
@@ -2179,7 +2157,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/creating-text-in-midjourney-v6-24186868?u=76281980&t=105)** I like U1 in this instance, although it does have a splash of color from the original prompt that I had.
 >
-> **[1:52](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/creating-text-in-midjourney-v6-24186868?u=76281980&t=112)** I'm going to very strong, noting that I have remix turned on.
+> **[1:52](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/creating-text-in-midjourney-v6-24186868?u=76281980&t=112)** I'm going to very strong, noting that I have [[Remix]] turned on.
 >
 > **[1:55](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/creating-text-in-midjourney-v6-24186868?u=76281980&t=115)** And then just submit this to see if I can end up the proper spelling of my fictitious movie.
 >
@@ -2211,18 +2189,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), [[Midjourney]] (4), [[Remix]] (2)
+> **Frameworks & Libraries:** [[Midjourney]] (4), [[Remix]] (2)
 > **Analogies:** imagine (3), just like (1), such as (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Style Reference parameter
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-the-style-reference-parameter?u=76281980)
+#### [Using the Style Reference parameter](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-the-style-reference-parameter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-the-style-reference-parameter?u=76281980&t=0)** - [Instructor] In Midjourney version Six Alpha, they've recently introduced a new parameter called Style Reference.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-the-style-reference-parameter?u=76281980&t=0)** - [Instructor] In [[Midjourney]] version Six Alpha, they've recently introduced a new parameter called Style Reference.
 >
 > **[0:06](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-the-style-reference-parameter?u=76281980&t=6)** This gives us the ability to add an image to the end of a parameter, to use it so that we can define the aesthetic of the images that we would like to produce.
 >
@@ -2296,7 +2273,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (4), prompt (2), next (2), power (1)
+> **Frameworks & Libraries:** [[Midjourney]] (4)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** imagine (2)
 > **Prerequisites:** set up (2)
@@ -2305,12 +2282,11 @@ created: 2026-05-02
 > **Definitions:** refers to (1)
 > **Warnings:** warning (1)
 
-#### Character consistency in v6
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/character-consistency-in-v6-24185990?u=76281980)
+#### [Character consistency in v6](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/character-consistency-in-v6-24185990?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/character-consistency-in-v6-24185990?u=76281980&t=0)** - [Instructor] With Midjourney V6, a new parameter has just been released called Character Consistency.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/character-consistency-in-v6-24185990?u=76281980&t=0)** - [Instructor] With [[Midjourney]] V6, a new parameter has just been released called Character Consistency.
 >
 > **[0:05](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/character-consistency-in-v6-24185990?u=76281980&t=5)** The idea is that you create a character with Midjourney, and then you use the link from the character that you created in other scenes so that you have consistency across your images.
 >
@@ -2352,7 +2328,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/character-consistency-in-v6-24185990?u=76281980&t=154)** Her uniform actually carries on over to the Paris Cafe, and this is where character weight can come into play, so that we can allow Midjourney to be a little bit more creative with how it places that character in the scene.
 >
-> **[2:49](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/character-consistency-in-v6-24185990?u=76281980&t=169)** So I have remix turned on from another movie, so you can actually turn this on if you'd like under your Midjourney preferences.
+> **[2:49](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/character-consistency-in-v6-24185990?u=76281980&t=169)** So I have [[Remix]] turned on from another movie, so you can actually turn this on if you'd like under your Midjourney preferences.
 >
 > **[2:57](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/character-consistency-in-v6-24185990?u=76281980&t=177)** So just simply go to settings, and if you bring up your settings, make sure Remix is enabled.
 >
@@ -2410,7 +2386,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (8), prompt (7), [[Remix]] (2), game (1)
+> **Frameworks & Libraries:** [[Midjourney]] (8), [[Remix]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** imagine (3)
 > **UI Navigation:** go to (1)
@@ -2418,8 +2394,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Experimenting with character consistency and permutations
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/experimenting-with-character-consistency-and-permutations-24187694?u=76281980)
+#### [Experimenting with character consistency and permutations](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/experimenting-with-character-consistency-and-permutations-24187694?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2427,7 +2402,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/experimenting-with-character-consistency-and-permutations-24187694?u=76281980&t=4)** So if you're following along with the Exercise Files, I have a reference for you.
 >
-> **[0:08](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/experimenting-with-character-consistency-and-permutations-24187694?u=76281980&t=8)** You simply want to click on the plus icon to upload a file to Midjourney, and inside that, you'll see a Consistent Characters V6 folder.
+> **[0:08](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/experimenting-with-character-consistency-and-permutations-24187694?u=76281980&t=8)** You simply want to click on the plus icon to upload a file to [[Midjourney]], and inside that, you'll see a Consistent Characters V6 folder.
 >
 > **[0:18](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/experimenting-with-character-consistency-and-permutations-24187694?u=76281980&t=18)** In that folder, we have a couple references of the character that we'll be using.
 >
@@ -2495,7 +2470,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/experimenting-with-character-consistency-and-permutations-24187694?u=76281980&t=233)** Now last but not least, I'm going to take one of these jobs, a closeup of the bearded man yelling on a mountain and wearing his swim trunks.
 >
-> **[4:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/experimenting-with-character-consistency-and-permutations-24187694?u=76281980&t=240)** So I'm going to take this job and I'm going to remix it.
+> **[4:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/experimenting-with-character-consistency-and-permutations-24187694?u=76281980&t=240)** So I'm going to take this job and I'm going to [[Remix]] it.
 >
 > **[4:03](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/experimenting-with-character-consistency-and-permutations-24187694?u=76281980&t=243)** And again, you could set up remix by enabling this in settings, which will allow you to re-roll the job, but then also tag some stuff onto it.
 >
@@ -2521,7 +2496,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (4), prompt (3), [[Remix]] (2), web (1)
+> **Frameworks & Libraries:** [[Midjourney]] (4), [[Remix]] (2)
 > **Analogies:** imagine (2), kind of like (1)
 > **Env Vars:** url (1), sref (1)
 > **Warnings:** warning (1), keep in mind (1)
@@ -2535,12 +2510,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A tour of the Create tab
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/a-tour-of-the-create-tab?u=76281980)
+#### [A tour of the Create tab](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/a-tour-of-the-create-tab?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/a-tour-of-the-create-tab?u=76281980&t=0)** - [Instructor] At the time of this recording, Midjourney Alpha, which is available at [Midjourney.com](https://Midjourney.com) through a web browser, is available to anyone who has created 100 images in Discord.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/a-tour-of-the-create-tab?u=76281980&t=0)** - [Instructor] At the time of this recording, [[Midjourney]] Alpha, which is available at [Midjourney.com](https://Midjourney.com) through a web browser, is available to anyone who has created 100 images in Discord.
 >
 > **[0:09](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/a-tour-of-the-create-tab?u=76281980&t=9)** And while we took a little peek at that earlier in this course, this chapter is going to go much more into depth of what you can do with Midjourney, and the best part is you can reflect on how you've been using Discord and see how we can have similar workflows on the web browser as new features continue to roll out.
 >
@@ -2588,7 +2562,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/a-tour-of-the-create-tab?u=76281980&t=178)** Notice that in using this section, it doesn't actually add anything to the end of your text prompt, but this will be taken into consideration.
 >
-> **[3:05](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/a-tour-of-the-create-tab?u=76281980&t=185)** If we wanted to add additional parameters that you don't see here, this is where you would add a comma and potentially add something else, like, so I'll go --no, and I'm going to type in the word rain so that that negative prompt parameter gets taken into association along with everything that I've activated here in this panel.
+> **[3:05](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/a-tour-of-the-create-tab?u=76281980&t=185)** If we wanted to add additional parameters that you don't see here, this is where you would add a comma and potentially add something else, like, so I'll go --no, and I'm going to type in the [[Microsoft Word|word]] rain so that that negative prompt parameter gets taken into association along with everything that I've activated here in this panel.
 >
 > **[3:29](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/a-tour-of-the-create-tab?u=76281980&t=209)** Let me press Return, and I'll just close out this section here.
 >
@@ -2616,9 +2590,9 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/a-tour-of-the-create-tab?u=76281980&t=303)** So we've got the ability to upscale right now, but just in two different ways, subtle or more creative.
 >
-> **[5:09](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/a-tour-of-the-create-tab?u=76281980&t=309)** We have the ability to remix our image, again, using either a subtle or strong remix variation.
+> **[5:09](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/a-tour-of-the-create-tab?u=76281980&t=309)** We have the ability to [[Remix]] our image, again, using either a subtle or strong remix variation.
 >
-> **[5:16](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/a-tour-of-the-create-tab?u=76281980&t=316)** We can pan and zoom our image.
+> **[5:16](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/a-tour-of-the-create-tab?u=76281980&t=316)** We can pan and [[Zoom]] our image.
 >
 > **[5:18](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/a-tour-of-the-create-tab?u=76281980&t=318)** We could rerun the job here, and we could use, in addition, an image, a style reference, or a prompt along with this image to create something else, and we'll explore in a later movie.
 >
@@ -2664,7 +2638,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (12), [[Midjourney]] (7), [[Remix]] (6), next (5), web (3)
+> **Frameworks & Libraries:** [[Midjourney]] (7), [[Remix]] (6), [[Microsoft Word|Word]] (2), [[Zoom]] (1)
 > **Ports:** :16 (6)
 > **Tools:** discord (6)
 > **UI Navigation:** click on (5), go to (1)
@@ -2673,12 +2647,11 @@ created: 2026-05-02
 > **URLs:** [midjourney.com](https://midjourney.com) (2)
 > **CLI Commands:** make (1)
 
-#### Exploring the community for inspiration
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/exploring-the-community-for-inspiration?u=76281980)
+#### [Exploring the community for inspiration](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/exploring-the-community-for-inspiration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/exploring-the-community-for-inspiration?u=76281980&t=0)** - [Instructor] In a previous movie, we've already become familiar with how we can look for inspiration either through Midjourney channels or directly on the website.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/exploring-the-community-for-inspiration?u=76281980&t=0)** - [Instructor] In a previous movie, we've already become familiar with how we can look for inspiration either through [[Midjourney]] channels or directly on the website.
 >
 > **[0:09](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/exploring-the-community-for-inspiration?u=76281980&t=9)** This movie is all about connecting inspiration on the website with your ability to now text prompts directly from a web browser.
 >
@@ -2734,7 +2707,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/exploring-the-community-for-inspiration?u=76281980&t=175)** I like this image, but I'd like to see some more variations.
 >
-> **[2:58](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/exploring-the-community-for-inspiration?u=76281980&t=178)** So in this case, going to just remix it strong, still brings in the original reference image.
+> **[2:58](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/exploring-the-community-for-inspiration?u=76281980&t=178)** So in this case, going to just [[Remix]] it strong, still brings in the original reference image.
 >
 > **[3:04](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/exploring-the-community-for-inspiration?u=76281980&t=184)** I'll bring down the chaos value to 10 in this case, and actually lower the stylization value.
 >
@@ -2756,7 +2729,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (8), [[Search]] (6), [[Midjourney]] (2), web (1), game (1)
+> **Frameworks & Libraries:** [[Midjourney]] (2), [[Remix]] (1)
 > **UI Navigation:** click on (3), scroll down (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the last (1), in the next (1)
@@ -2765,16 +2738,15 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Warnings:** keep in mind (1)
 
-#### Organizing and rerolling previous image creations
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/organizing-and-rerolling-previous-image-creations?u=76281980)
+#### [Organizing and rerolling previous image creations](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/organizing-and-rerolling-previous-image-creations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/organizing-and-rerolling-previous-image-creations?u=76281980&t=0)** - [Instructor] Like we've done in the Explore Page, we can also use search functionality inside of our own Archives.
 >
-> **[0:07](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/organizing-and-rerolling-previous-image-creations?u=76281980&t=7)** Just on our sidebar here, let's click on the word archive.
+> **[0:07](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/organizing-and-rerolling-previous-image-creations?u=76281980&t=7)** Just on our sidebar here, let's click on the [[Microsoft Word|word]] archive.
 >
-> **[0:11](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/organizing-and-rerolling-previous-image-creations?u=76281980&t=11)** Here is a collection of all of the images that we have generated inside of Midjourney.
+> **[0:11](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/organizing-and-rerolling-previous-image-creations?u=76281980&t=11)** Here is a collection of all of the images that we have generated inside of [[Midjourney]].
 >
 > **[0:16](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/organizing-and-rerolling-previous-image-creations?u=76281980&t=16)** Rather than scroll down, we can use a number of filters to sift through this content.
 >
@@ -2868,7 +2840,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/organizing-and-rerolling-previous-image-creations?u=76281980&t=254)** Close the slider and then just run that job.
 >
-> **[4:17](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/organizing-and-rerolling-previous-image-creations?u=76281980&t=257)** As that job is being created, which we can see here in the background, I will get out of the zoom view just to see these original images.
+> **[4:17](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/organizing-and-rerolling-previous-image-creations?u=76281980&t=257)** As that job is being created, which we can see here in the background, I will get out of the [[Zoom]] view just to see these original images.
 >
 > **[4:24](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/organizing-and-rerolling-previous-image-creations?u=76281980&t=264)** And note here at the side that we also have the ability to create folders.
 >
@@ -2914,7 +2886,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), prompt (7), [[Midjourney]] (5), [[Microsoft Word|Word]] (3), next (3)
+> **Frameworks & Libraries:** [[Midjourney]] (5), [[Microsoft Word|Word]] (3), [[Zoom]] (1)
 > **UI Navigation:** click on (6), scroll down (1), go to (1), scroll up (1), in the sidebar (1)
 > **CLI Commands:** find (3), make (2)
 > **Warnings:** keep in mind (3)
@@ -2923,12 +2895,11 @@ created: 2026-05-02
 > **Analogies:** imagine (2)
 > **Tools:** discord (1)
 
-#### Uploading images
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/uploading-images?u=76281980)
+#### [Uploading images](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/uploading-images?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/uploading-images?u=76281980&t=0)** - [Instructor] In addition to being able to use any image that we create on the Midjourney website inside of a text prompt or blending images together by simply dragging it and dropping it to the Imagine field, we can also upload our own content like we saw in Discord earlier, to blend images, use them as style references and number of other tasks.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/uploading-images?u=76281980&t=0)** - [Instructor] In addition to being able to use any image that we create on the [[Midjourney]] website inside of a text prompt or blending images together by simply dragging it and dropping it to the Imagine field, we can also upload our own content like we saw in Discord earlier, to blend images, use them as style references and number of other tasks.
 >
 > **[0:20](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/uploading-images?u=76281980&t=20)** Let's click on the plus icon next to the Imagine field at the top here to reveal a window which will first of all show you anything that you have uploaded either onto Discord or the Midjourney website.
 >
@@ -2998,7 +2969,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (8), [[Midjourney]] (5), next (3)
+> **Frameworks & Libraries:** [[Midjourney]] (5)
 > **Analogies:** imagine (6), for instance (1), just like (1)
 > **UI Navigation:** click on (5), go to (1)
 > **Tools:** discord (3)
@@ -3006,14 +2977,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working in rooms
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/working-in-rooms?u=76281980)
+#### [Working in rooms](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/working-in-rooms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/working-in-rooms?u=76281980&t=0)** - [Instructor] While you might be very used to channels inside of Discord and being able to learn from other users, not to mention Chat, Midjourney has a solution on their website called Rooms that's worth taking a look at.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/working-in-rooms?u=76281980&t=0)** - [Instructor] While you might be very used to channels inside of Discord and being able to learn from other users, not to mention Chat, [[Midjourney]] has a solution on their website called Rooms that's worth taking a look at.
 >
-> **[0:12](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/working-in-rooms?u=76281980&t=12)** We've already become familiar with the Explore section, which will allow us to see artwork that parts of the Midjourney community have decided to share and we can use and remix as well as use as style references for our own work.
+> **[0:12](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/working-in-rooms?u=76281980&t=12)** We've already become familiar with the Explore section, which will allow us to see artwork that parts of the Midjourney community have decided to share and we can use and [[Remix]] as well as use as style references for our own work.
 >
 > **[0:25](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/working-in-rooms?u=76281980&t=25)** The fourth tab here at the top section is what's called Rooms, and currently at the time of this recording, there are only three available to you.
 >
@@ -3055,14 +3025,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using generative AI images with other AI apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-generative-ai-images-with-other-ai-apps-24192219?u=76281980)
+#### [Using generative AI images with other AI apps](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-generative-ai-images-with-other-ai-apps-24192219?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-generative-ai-images-with-other-ai-apps-24192219?u=76281980&t=0)** - [Instructor] In this video, we're going to look at additional generative AI tools that we can use, along with Midjourney, in order to bring our stills further to life with design, not to mention video.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-generative-ai-images-with-other-ai-apps-24192219?u=76281980&t=0)** - [Instructor] In this video, we're going to look at additional [[Generative AI Tools]] that we can use, along with [[Midjourney]], in order to bring our stills further to life with design, not to mention video.
 >
-> **[0:11](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-generative-ai-images-with-other-ai-apps-24192219?u=76281980&t=11)** Our journey is going to start here with [openai.com](https://openai.com) and a product called DALL-E 2, which you can get to by going to the following website, and once you get here and actually sign up for an account, you can choose to Try DALL-E.
+> **[0:11](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-generative-ai-images-with-other-ai-apps-24192219?u=76281980&t=11)** Our journey is going to start here with [openai.com](https://openai.com) and a product called [[DALL-E]] 2, which you can get to by going to the following website, and once you get here and actually sign up for an account, you can choose to Try DALL-E.
 >
 > **[0:27](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-generative-ai-images-with-other-ai-apps-24192219?u=76281980&t=27)** And then, from here you'll notice that it does give you the ability to, first of all, course, create generative imagery.
 >
@@ -3118,7 +3087,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-generative-ai-images-with-other-ai-apps-24192219?u=76281980&t=186)** If you sign up for an openAI account, you get a certain amount of credits for free, and after that you can purchase credits on demand.
 >
-> **[3:14](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-generative-ai-images-with-other-ai-apps-24192219?u=76281980&t=194)** Another thing to keep in mind is that, if you're a ChatGPT Plus customer, you have access to DALL-E 3 directly in the chat when you're using version 4.
+> **[3:14](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-generative-ai-images-with-other-ai-apps-24192219?u=76281980&t=194)** Another thing to keep in mind is that, if you're a [[ChatGPT]] Plus customer, you have access to DALL-E 3 directly in the chat when you're using version 4.
 >
 > **[3:24](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-generative-ai-images-with-other-ai-apps-24192219?u=76281980&t=204)** To see this in action, simply just start a new chat, and I'll head over to the Midjourney images, the generative art app folder, and let's select the image of the ghost.
 >
@@ -3172,7 +3141,7 @@ created: 2026-05-02
 >
 > **[5:53](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-generative-ai-images-with-other-ai-apps-24192219?u=76281980&t=353)** I'll then click on the camera icon where we can define movement.
 >
-> **[5:58](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-generative-ai-images-with-other-ai-apps-24192219?u=76281980&t=358)** In this case, I just want to move or zoom in on the image, and we can set the Strength of motion somewhere between 0 and 4.
+> **[5:58](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-generative-ai-images-with-other-ai-apps-24192219?u=76281980&t=358)** In this case, I just want to move or [[Zoom]] in on the image, and we can set the Strength of motion somewhere between 0 and 4.
 >
 > **[6:06](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-generative-ai-images-with-other-ai-apps-24192219?u=76281980&t=366)** Next, we have additional parameters that we can add here.
 >
@@ -3228,11 +3197,11 @@ created: 2026-05-02
 >
 > **[8:21](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-generative-ai-images-with-other-ai-apps-24192219?u=76281980&t=501)** Of course, we can also use, instead of their own built-in AI voices, our own voice for video creation and presentation.
 >
-> **[8:30](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-generative-ai-images-with-other-ai-apps-24192219?u=76281980&t=510)** So there you have it: three additional generative AI apps you can use in conjunction with Midjourney.
+> **[8:30](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/using-generative-ai-images-with-other-ai-apps-24192219?u=76281980&t=510)** So there you have it: three additional [[Generative AI]] apps you can use in conjunction with Midjourney.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (14), [[DALL-E]] (8), [[ChatGPT]] (5), prompt (2), ai (2)
+> **Frameworks & Libraries:** [[Midjourney]] (14), [[DALL-E]] (8), [[ChatGPT]] (5), [[Generative AI Tools]] (1), [[Zoom]] (1)
 > **UI Navigation:** click on (7), go to (3), select the (2), checkbox (1)
 > **Env Vars:** dall (8)
 > **Speakers:** - [instructor] (2), - hi (1)
@@ -3241,12 +3210,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Code Identifiers:** openai (1)
 
-#### Understanding Midjourney copyright
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/understanding-midjourney-copyright-24186870?u=76281980)
+#### [Understanding Midjourney copyright](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/understanding-midjourney-copyright-24186870?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/understanding-midjourney-copyright-24186870?u=76281980&t=0)** - [Instructor] In this video, we're going to discuss rights and copyright as it refers to images that are produced with Midjourney.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/understanding-midjourney-copyright-24186870?u=76281980&t=0)** - [Instructor] In this video, we're going to discuss rights and copyright as it refers to images that are produced with [[Midjourney]].
 >
 > **[0:06](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/understanding-midjourney-copyright-24186870?u=76281980&t=6)** Let's start off by doing a prompt here.
 >
@@ -3284,13 +3252,13 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/understanding-midjourney-copyright-24186870?u=76281980&t=144)** What was determined was the artist did have copyright for the parts of the book that she wrote and arranged, but the images produced by Midjourney, she did not have the copyright for.
 >
-> **[2:35](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/understanding-midjourney-copyright-24186870?u=76281980&t=155)** So in keeping this in mind, generative AI art is very fresh, and I'm sure that we're going to be seeing additional cases on these regards, how you can use these images commercially.
+> **[2:35](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/understanding-midjourney-copyright-24186870?u=76281980&t=155)** So in keeping this in mind, [[Generative AI]] art is very fresh, and I'm sure that we're going to be seeing additional cases on these regards, how you can use these images commercially.
 >
 > **[2:46](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/understanding-midjourney-copyright-24186870?u=76281980&t=166)** So don't forget to check Midjourney's own terms, as it deals with copyright, not to mention additional laws in the US as well as internationally.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (8), prompt (1), ai (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Midjourney]] (8), [[Generative AI]] (1)
 > **UI Navigation:** go to (2), scroll down (2), click on (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** refers to (1), is an  (1)
@@ -3299,14 +3267,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** getting started (1)
 
-#### Generative image app alternatives
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/generative-image-app-alternatives-24188676?u=76281980)
+#### [Generative image app alternatives](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/generative-image-app-alternatives-24188676?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/generative-image-app-alternatives-24188676?u=76281980&t=0)** - [Instructor] In this video, we're going to take a look at some other text-to-image based alternatives besides Midjourney.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/generative-image-app-alternatives-24188676?u=76281980&t=0)** - [Instructor] In this video, we're going to take a look at some other text-to-image based alternatives besides [[Midjourney]].
 >
-> **[0:06](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/generative-image-app-alternatives-24188676?u=76281980&t=6)** We're going to start off by looking at DreamStudio, which is still in beta, beta.[dreamstudio.ai](https://dreamstudio.ai), and it actually taps into a model called Stable Diffusion.
+> **[0:06](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/generative-image-app-alternatives-24188676?u=76281980&t=6)** We're going to start off by looking at DreamStudio, which is still in beta, beta.[dreamstudio.ai](https://dreamstudio.ai), and it actually taps into a model called [[Stable Diffusion]].
 >
 > **[0:15](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/generative-image-app-alternatives-24188676?u=76281980&t=15)** Like other services that we saw earlier, you basically purchase a certain series of credits, and with those credits you can generate imagery.
 >
@@ -3344,7 +3311,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/generative-image-app-alternatives-24188676?u=76281980&t=121)** We can download the image if required.
 >
-> **[2:03](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/generative-image-app-alternatives-24188676?u=76281980&t=123)** Another generative text-to-image based app that we can take a look at is Adobe Firefly, which also at the time of this recording is in beta.
+> **[2:03](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/generative-image-app-alternatives-24188676?u=76281980&t=123)** Another generative text-to-image based app that we can take a look at is [[Adobe Firefly]], which also at the time of this recording is in beta.
 >
 > **[2:12](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/generative-image-app-alternatives-24188676?u=76281980&t=132)** There's a few different things that are within Firefly for generative art creation, but let's take a look at the classic text to image.
 >
@@ -3398,7 +3365,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), ai (4), [[Stable Diffusion]] (4), [[Midjourney]] (3), next (2)
+> **Frameworks & Libraries:** [[Stable Diffusion]] (4), [[Midjourney]] (3), [[Adobe Firefly]] (2)
 > **Analogies:** similar to (3), kind of like (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** click on (2)
@@ -3411,12 +3378,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing your Midjourney learning experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/continuing-your-midjourney-learning-experience-24189533?u=76281980)
+#### [Continuing your Midjourney learning experience](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/continuing-your-midjourney-learning-experience-24189533?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/continuing-your-midjourney-learning-experience-24189533?u=76281980&t=0)** - [Instructor] A congratulations is in order for you on completing this course on tips and tricks for using Midjourney.
+> **[0:00](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/continuing-your-midjourney-learning-experience-24189533?u=76281980&t=0)** - [Instructor] A congratulations is in order for you on completing this course on tips and tricks for using [[Midjourney]].
 >
 > **[0:06](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/continuing-your-midjourney-learning-experience-24189533?u=76281980&t=6)** As you continue your learning experience, look no further than these following resources.
 >
@@ -3424,7 +3390,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/continuing-your-midjourney-learning-experience-24189533?u=76281980&t=19)** Simply find a channel, such as multi prompts, that might be helpful for producing images where you can learn from other people's prompts as well as the images that they create.
 >
-> **[0:30](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/continuing-your-midjourney-learning-experience-24189533?u=76281980&t=30)** There are also a number of image jams where you can test out your knowledge, not to mention office hours where you can learn from other creators.
+> **[0:30](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/continuing-your-midjourney-learning-experience-24189533?u=76281980&t=30)** There are also a number of image jams where you can test out your knowledge, not to mention [[Microsoft Office|office]] hours where you can learn from other creators.
 >
 > **[0:39](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/continuing-your-midjourney-learning-experience-24189533?u=76281980&t=39)** In addition to this, don't forget about [midjourney.com](https://midjourney.com) and the explore section where you can find a piece of art that you like that has been shared publicly by another user.
 >
@@ -3442,9 +3408,9 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/continuing-your-midjourney-learning-experience-24189533?u=76281980&t=101)** Head there to become inspired by some artwork that you can create if you are using V5 of the application.
 >
-> **[1:47](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/continuing-your-midjourney-learning-experience-24189533?u=76281980&t=107)** When it comes to generative AI in general, LinkedIn Learning has you covered and is going to continue to grow over the next couple months.
+> **[1:47](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/continuing-your-midjourney-learning-experience-24189533?u=76281980&t=107)** When it comes to [[Generative AI]] in general, [[LinkedIn]] Learning has you covered and is going to continue to grow over the next couple months.
 >
-> **[1:54](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/continuing-your-midjourney-learning-experience-24189533?u=76281980&t=114)** One great course to check out is [[Generative AI for Business Leaders]], which is going to give you a high level review of everything that's coming out, not to mention, not just in terms of graphic design, but other avenues as well that you should be become aware of.
+> **[1:54](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/continuing-your-midjourney-learning-experience-24189533?u=76281980&t=114)** One great course to check out is [[Generative AI for Business Leaders]], which is going to give you a high level review of everything that's coming out, not to mention, not just in terms of [[Graphic Design]], but other avenues as well that you should be become aware of.
 >
 > **[2:09](https://www.linkedin.com/learning/midjourney-tips-and-techniques-for-creating-images/continuing-your-midjourney-learning-experience-24189533?u=76281980&t=129)** Another course that you can check in on, What is Generative AI, to also help foster that general learning.
 >
@@ -3454,7 +3420,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Midjourney]] (6), [[Generative AI]] (3), prompt (2), [[LinkedIn]] (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Midjourney]] (6), [[Generative AI]] (3), [[LinkedIn]] (2), [[Microsoft Office|Office]] (1), [[Graphic Design]] (1)
 > **URLs:** [midjourney.com](https://midjourney.com) (1), [noonshoot.com](https://noonshoot.com) (1), [journeyintoai.com](https://journeyintoai.com) (1)
 > **CLI Commands:** find (2)
 > **Tools:** discord (2)

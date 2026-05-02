@@ -96,16 +96,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of responsible AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/overview-of-responsible-ai?u=76281980)
+#### [Overview of responsible AI](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/overview-of-responsible-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/overview-of-responsible-ai?u=76281980&t=0)** Whether you're a sponsor, developer, or user of artificial intelligence tools in your work or organization, you should be aware not only of their benefits, but also of potential unintended consequences.
+> **[0:00](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/overview-of-responsible-ai?u=76281980&t=0)** Whether you're a sponsor, developer, or user of [[Artificial Intelligence (AI)|artificial intelligence]] tools in your work or organization, you should be aware not only of their benefits, but also of potential unintended consequences.
 >
 > **[0:12](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/overview-of-responsible-ai?u=76281980&t=12)** By raising your awareness of how AI is being used and how to mitigate risks associated with it, you can promote the responsible use of AI while reaping its benefits.
 >
-> **[0:22](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/overview-of-responsible-ai?u=76281980&t=22)** In this LinkedIn learning course, you'll learn from examples of how AI is used in various application domains, such as human resources, social media, and healthcare, why it is important to have guiding principles and to adopt best practices for responsible AI.
+> **[0:22](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/overview-of-responsible-ai?u=76281980&t=22)** In this [[LinkedIn]] learning course, you'll learn from examples of how AI is used in various application domains, such as [[Human Resources (HR)|human resources]], social media, and healthcare, why it is important to have guiding principles and to adopt best practices for [[Responsible AI]].
 >
 > **[0:37](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/overview-of-responsible-ai?u=76281980&t=37)** You'll also be equipped with knowledge for assessing and addressing risks in order to minimize unintended consequences of artificial intelligence.
 >
@@ -115,7 +114,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[LinkedIn]] (1), application (1), [[Human Resources (HR)|Human resources]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[LinkedIn]] (1), [[Human Resources (HR)|Human resources]] (1), [[Responsible AI]] (1)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
 
@@ -124,12 +123,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to artificial intelligence (AI)
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-artificial-intelligence-ai?u=76281980)
+#### [Introduction to artificial intelligence (AI)](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-artificial-intelligence-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-artificial-intelligence-ai?u=76281980&t=0)** You interact with artificial intelligence, AI for short, a lot more than you might realize.
+> **[0:00](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-artificial-intelligence-ai?u=76281980&t=0)** You interact with [[Artificial Intelligence (AI)|artificial intelligence]], AI for short, a lot more than you might realize.
 >
 > **[0:07](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-artificial-intelligence-ai?u=76281980&t=7)** AI is becoming more pervasive in our workplaces, in government offices, hospitals, and schools.
 >
@@ -141,9 +139,9 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-artificial-intelligence-ai?u=76281980&t=41)** The term artificial intelligence was coined in 1955 by a team of researchers proposing a first-of-its-kind summer research project to be held at Dartmouth College.
 >
-> **[0:52](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-artificial-intelligence-ai?u=76281980&t=52)** One of those researchers, Professor John McCarthy went on to further define AI as the science and engineering of making intelligent machines.
+> **[0:52](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-artificial-intelligence-ai?u=76281980&t=52)** One of those researchers, Professor [[John the Ripper|John]] McCarthy went on to further define AI as the science and engineering of making intelligent machines.
 >
-> **[1:02](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-artificial-intelligence-ai?u=76281980&t=62)** As the field has developed, AI has come to refer to a broad branch of computer science concerned with developing algorithms and machines capable of automating analytical tasks and decision making.
+> **[1:02](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-artificial-intelligence-ai?u=76281980&t=62)** As the field has developed, AI has come to refer to a broad branch of computer science concerned with developing [[Algorithms]] and machines capable of automating analytical tasks and decision making.
 >
 > **[1:14](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-artificial-intelligence-ai?u=76281980&t=74)** The capacity of AI systems is described in ranges.
 >
@@ -187,14 +185,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (20), data (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Algorithms]] (3), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Algorithms]] (3), [[John the Ripper|John]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 
-#### AI myths and misunderstandings
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-myths-and-misunderstandings?u=76281980)
+#### [AI myths and misunderstandings](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-myths-and-misunderstandings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -204,7 +201,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-myths-and-misunderstandings?u=76281980&t=11)** As AI tools become more pervasive in our society, it's important for us to understand their limitations and carefully balance their benefits and risks.
 >
-> **[0:20](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-myths-and-misunderstandings?u=76281980&t=20)** In the previous video, I introduced the concept of artificial intelligence, or AI, and I explained how the most common form of AI, machine learning, works, using the example of an algorithm trained to classify any object that is round and red with a stem as an apple.
+> **[0:20](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-myths-and-misunderstandings?u=76281980&t=20)** In the previous video, I introduced the concept of [[Artificial Intelligence (AI)|artificial intelligence]], or AI, and I explained how the most common form of AI, machine learning, works, using the example of an algorithm trained to classify any object that is round and red with a stem as an apple.
 >
 > **[0:37](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-myths-and-misunderstandings?u=76281980&t=37)** Let's explore this example further.
 >
@@ -230,7 +227,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-myths-and-misunderstandings?u=76281980&t=104)** Dr.
 >
-> **[1:44](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-myths-and-misunderstandings?u=76281980&t=104)** Brandy Nonake, Director of the Citrus Policy Lab at UC Berkeley, has noted that Artificial intelligence is taking on a more central role in high-stakes decision-making within our most critical social institutions.
+> **[1:44](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-myths-and-misunderstandings?u=76281980&t=104)** Brandy Nonake, Director of the Citrus Policy Lab at UC Berkeley, has noted that Artificial intelligence is taking on a more central role in high-stakes [[Decision-Making]] within our most critical social institutions.
 >
 > **[1:56](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-myths-and-misunderstandings?u=76281980&t=116)** It has entered into our hospitals, courthouses, and employment offices, deciding who gets insurance, who receives parole, and who gets hired.
 >
@@ -280,7 +277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (22), data (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Decision-Making]] (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Decision-Making]] (2)
 > **Cross-References:** previous video (2), later in (2), in the next (1)
 > **Definitions:** is an  (1), refers to (1)
 > **Analogies:** such as (1), for example (1)
@@ -290,8 +287,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Benefits of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/benefits-of-ai?u=76281980)
+#### [Benefits of AI](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/benefits-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -303,11 +299,11 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/benefits-of-ai?u=76281980&t=19)** Fearing that she would lose her independence, she sought out technology options that would allow her to more easily navigate the world around her.
 >
-> **[0:26](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/benefits-of-ai?u=76281980&t=26)** One of these technologies was Microsoft's Seeing AI.
+> **[0:26](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/benefits-of-ai?u=76281980&t=26)** One of these technologies was [[Microsoft]]'s Seeing AI.
 >
-> **[0:31](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/benefits-of-ai?u=76281980&t=31)** Seeing AI is an intelligent camera app that utilizes computer vision to translate the visual world into audio.
+> **[0:31](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/benefits-of-ai?u=76281980&t=31)** Seeing AI is an intelligent camera app that utilizes [[Computer Vision]] to translate the visual world into audio.
 >
-> **[0:38](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/benefits-of-ai?u=76281980&t=38)** It has helped people who are blind or who have poor vision with more than 20 million tasks, such as recognizing products, people, and currency.
+> **[0:38](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/benefits-of-ai?u=76281980&t=38)** It has helped people who are blind or who have poor vision with more than 20 million tasks, such as recognizing [[Microsoft Products|products]], people, and currency.
 >
 > **[0:47](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/benefits-of-ai?u=76281980&t=47)** By using Seeing AI, Akiko can now more easily navigate new spaces, read handwritten notes, and printed text, and even recognize her daughter Ami's facial expressions.
 >
@@ -345,20 +341,19 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/benefits-of-ai?u=76281980&t=182)** Advancements in the use of AI models can help to uncover such hidden biases and support more equitable access to credit.
 >
-> **[3:09](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/benefits-of-ai?u=76281980&t=189)** While artificial intelligence can enable greater efficiency, effectiveness, and equity, it can also undermine these goals.
+> **[3:09](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/benefits-of-ai?u=76281980&t=189)** While [[Artificial Intelligence (AI)|artificial intelligence]] can enable greater efficiency, effectiveness, and equity, it can also undermine these goals.
 >
 > **[3:17](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/benefits-of-ai?u=76281980&t=197)** As we transition to the next video, I encourage you to think about ways that AI can benefit you, your profession, or your community, and the potential risks it may pose.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), [[Microsoft]] (1), [[Computer Vision]] (1), [[Microsoft Products|Products]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Computer Vision]] (1), [[Microsoft Products|Products]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is an  (1)
 
-#### Risks of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risks-of-ai?u=76281980)
+#### [Risks of AI](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risks-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -382,11 +377,11 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risks-of-ai?u=76281980&t=58)** Leading AI researchers, Joy Buolamwini and Timnit Gebru, evaluated the accuracy of commercial facial recognition systems.
 >
-> **[1:07](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risks-of-ai?u=76281980&t=67)** Their research and research conducted by the National Institute of Standards and Technology, or NIST, found that facial recognition systems are often ill-equipped to handle non-Caucasian faces, producing more false positives on people of color and women.
+> **[1:07](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risks-of-ai?u=76281980&t=67)** Their research and research conducted by the National Institute of Standards and Technology, or [[NIST]], found that facial recognition systems are often ill-equipped to handle non-Caucasian faces, producing more false positives on people of color and women.
 >
 > **[1:24](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risks-of-ai?u=76281980&t=84)** In this video, we'll explore three of the most prominent risks areas of AI.
 >
-> **[1:29](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risks-of-ai?u=76281980&t=89)** Bias and discrimination, transparency and accountability, and privacy and security.
+> **[1:29](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risks-of-ai?u=76281980&t=89)** Bias and discrimination, transparency and [[Accountability]], and [[Privacy]] and security.
 >
 > **[1:35](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risks-of-ai?u=76281980&t=95)** Let's start with bias and discrimination.
 >
@@ -414,13 +409,13 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risks-of-ai?u=76281980&t=175)** Amazon's experience is not isolated.
 >
-> **[2:58](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risks-of-ai?u=76281980&t=178)** LinkedIn, CareerBuilder, and Indeed have all uncovered gender bias in their job recommendation algorithms.
+> **[2:58](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risks-of-ai?u=76281980&t=178)** [[LinkedIn]], CareerBuilder, and Indeed have all uncovered gender bias in their job recommendation [[Algorithms]].
 >
-> **[3:06](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risks-of-ai?u=76281980&t=186)** We'll explore more examples of algorithmic bias in human resources in chapter four when we discuss ways to develop responsible AI systems.
+> **[3:06](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risks-of-ai?u=76281980&t=186)** We'll explore more examples of algorithmic bias in [[Human Resources (HR)|human resources]] in chapter four when we discuss ways to develop [[Responsible AI]] systems.
 >
 > **[3:16](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risks-of-ai?u=76281980&t=196)** Now let's talk about transparency and accountability.
 >
-> **[3:20](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risks-of-ai?u=76281980&t=200)** Machine learning algorithms can vary widely in their complexity, from simple algorithms based on linear regression to complex algorithms based on deep neural networks.
+> **[3:20](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risks-of-ai?u=76281980&t=200)** Machine learning algorithms can vary widely in their complexity, from simple algorithms based on [[Linear Regression]] to complex algorithms based on deep [[Neural Networks]].
 >
 > **[3:31](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risks-of-ai?u=76281980&t=211)** Simple algorithms are usually transparent.
 >
@@ -458,7 +453,7 @@ created: 2026-05-02
 >
 > **[5:31](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risks-of-ai?u=76281980&t=331)** They know that the car has been trained to recognize a stop sign and come to a complete stop.
 >
-> **[5:37](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risks-of-ai?u=76281980&t=337)** By strategically placing tape across the word stop on the sign, they may trick the algorithm into no longer being able to detect that the sign is a stop sign.
+> **[5:37](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risks-of-ai?u=76281980&t=337)** By strategically placing tape across the [[Microsoft Word|word]] stop on the sign, they may trick the algorithm into no longer being able to detect that the sign is a stop sign.
 >
 > **[5:46](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risks-of-ai?u=76281980&t=346)** The car maintains its speed and blows past the stop sign.
 >
@@ -470,7 +465,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), ai (6), [[Algorithms]] (6), [[Accountability]] (4), [[Privacy]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (6), [[Accountability]] (4), [[Privacy]] (2), [[Responsible AI]] (2), [[NIST]] (1)
 > **Analogies:** such as (4), for example (2), imagine (1)
 > **Definitions:** in other words (2), is a  (1)
 > **Env Vars:** nist (1)
@@ -481,8 +476,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to AI experts
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-ai-experts?u=76281980)
+#### [Introduction to AI experts](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-ai-experts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -500,18 +494,17 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-ai-experts?u=76281980&t=48)** In this chapter, we hear from experts to get a better understanding of the benefits and
 >
-> **[0:59](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-ai-experts?u=76281980&t=59)** risks of using AI in the influential domains of human resources, social media, healthcare, and climate resilience.
+> **[0:59](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/introduction-to-ai-experts?u=76281980&t=59)** risks of using AI in the influential domains of [[Human Resources (HR)|human resources]], social media, healthcare, and climate resilience.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), job description (1), [[Human Resources (HR)|Human resources]] (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1)
 
-#### AI in HR and hiring
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-hr-and-hiring?u=76281980)
+#### [AI in HR and hiring](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-hr-and-hiring?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-hr-and-hiring?u=76281980&t=0)** Before we take a look at the issues with AI for human resources, or HR for short, let's hear from an expert in responsible AI governance, Dr.
+> **[0:00](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-hr-and-hiring?u=76281980&t=0)** Before we take a look at the issues with AI for [[Human Resources (HR)|human resources]], or HR for short, let's hear from an expert in [[Responsible AI]] governance, Dr.
 >
 > **[0:09](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-hr-and-hiring?u=76281980&t=9)** Brandy Nonake, Director of the Citrus Policy Lab.
 >
@@ -539,7 +532,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-hr-and-hiring?u=76281980&t=121)** AI can make this process more efficient and can help hiring teams discover hidden talent by finding applicants who have the skills to do the job, but who might not otherwise exhibit historical indicators of success.
 >
-> **[2:13](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-hr-and-hiring?u=76281980&t=133)** For example, the US military is testing a voluntary AI app to surface talent in the reserves for specific projects that require skills like cloud computing or cybersecurity.
+> **[2:13](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-hr-and-hiring?u=76281980&t=133)** For example, the US military is testing a voluntary AI app to surface talent in the reserves for specific projects that require skills like [[Cloud Computing]] or [[Cybersecurity]].
 >
 > **[2:24](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-hr-and-hiring?u=76281980&t=144)** Today, the military has no way of knowing who among their reserves has the relevant work experience, but an app called GigEagle, powered by AI, is being developed to identify that talent.
 >
@@ -569,11 +562,11 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-hr-and-hiring?u=76281980&t=262)** For example, by only considering candidates' credentials rather than their capabilities.
 >
-> **[4:28](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-hr-and-hiring?u=76281980&t=268)** The algorithms reflect only one slice of the data available on candidates.
+> **[4:28](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-hr-and-hiring?u=76281980&t=268)** The [[Algorithms]] reflect only one slice of the data available on candidates.
 >
 > **[4:33](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-hr-and-hiring?u=76281980&t=273)** And since systems are not objective, responsible, or sentient, human oversight when designing and deploying AI in HR is essential.
 >
-> **[4:46](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-hr-and-hiring?u=76281980&t=286)** The World Economic Forum has produced a toolkit on human-centered artificial intelligence for human resources.
+> **[4:46](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-hr-and-hiring?u=76281980&t=286)** The World Economic Forum has produced a toolkit on human-centered [[Artificial Intelligence (AI)|artificial intelligence]] for human resources.
 >
 > **[4:52](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-hr-and-hiring?u=76281980&t=292)** And the Haas Center for Equity, Gender, and Leadership at UC Berkeley developed the Mitigating Bias in Artificial Intelligence playbook.
 >
@@ -583,14 +576,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (20), data (7), hr (5), [[Human Resources (HR)|Human resources]] (3), [[Responsible AI]] (2)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (3), [[Responsible AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Cloud Computing]] (1), [[Cybersecurity]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 
-#### AI in social media
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-social-media?u=76281980)
+#### [AI in social media](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-social-media?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -606,7 +598,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-social-media?u=76281980&t=33)** Maximizing engagement makes sense from the perspective of the company whose objective is maximizing profit through targeted ads.
 >
-> **[0:41](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-social-media?u=76281980&t=41)** To this end, many social platforms engage attention engineers to design algorithms and interfaces that keep people coming back to the site and interacting with it for longer periods of time.
+> **[0:41](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-social-media?u=76281980&t=41)** To this end, many social platforms engage attention engineers to design [[Algorithms]] and interfaces that keep people coming back to the site and interacting with it for longer periods of time.
 >
 > **[0:52](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-social-media?u=76281980&t=52)** The CEO of Netflix, a platform known for inducing binge watching, went so far as to say that sleep is his competition.
 >
@@ -640,7 +632,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-social-media?u=76281980&t=167)** Platforms remain mostly unregulated and without liability for misinformation, hate speech, and other harmful content they help to distribute.
 >
-> **[2:56](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-social-media?u=76281980&t=176)** Which is why more accountability is needed.
+> **[2:56](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-social-media?u=76281980&t=176)** Which is why more [[Accountability]] is needed.
 >
 > **[2:59](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-social-media?u=76281980&t=179)** More on that in a minute.
 >
@@ -680,20 +672,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Algorithms]] (2), [[Accountability]] (1), [[Engineering]] (1), teams (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Accountability]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** ceo (1)
 > **Analogies:** such as (1)
 
-#### AI in healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-healthcare?u=76281980)
+#### [AI in healthcare](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-healthcare?u=76281980&t=0)** Before we take a deep dive into issues with the use of AI in healthcare, let's hear from Dr.
 >
-> **[0:05](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-healthcare?u=76281980&t=5)** Ziad Obermeier, Blue Cross of California Distinguished Associate Professor of Health Policy and Management at the UC Berkeley School of Public Health.
+> **[0:05](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-healthcare?u=76281980&t=5)** Ziad Obermeier, Blue Cross of California Distinguished Associate Professor of Health Policy and Management at the UC Berkeley School of [[Public Health]].
 >
 > **[0:14](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-healthcare?u=76281980&t=14)** His research focuses on the intersection of machine learning, medicine, and health policy.
 >
@@ -701,7 +692,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-healthcare?u=76281980&t=32)** And so we want to find people who are going to get sick, but there's no variable in our data set called get sick or health or anything like that.
 >
-> **[0:43](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-healthcare?u=76281980&t=43)** And so when you're building an algorithm, algorithms are very literal, a variable in a data set.
+> **[0:43](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-healthcare?u=76281980&t=43)** And so when you're building an algorithm, [[Algorithms]] are very literal, a variable in a data set.
 >
 > **[0:49](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-healthcare?u=76281980&t=49)** They looked at who generated a lot of healthcare costs, and they use that as a proxy for who needed things for their health.
 >
@@ -767,7 +758,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-healthcare?u=76281980&t=252)** Psychology relies heavily on human perception and has a history of being problematic and unfair to different populations.
 >
-> **[4:20](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-healthcare?u=76281980&t=260)** Despite these and privacy issues, the lack of availability, access, and affordability of mental health care has driven many startups to use AI to fill the gap.
+> **[4:20](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-healthcare?u=76281980&t=260)** Despite these and [[Privacy Issues]], the lack of availability, access, and affordability of mental health care has driven many startups to use AI to fill the gap.
 >
 > **[4:31](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-healthcare?u=76281980&t=271)** AI is being used to detect mental disorders based on web posts by looking for emotional patterns.
 >
@@ -777,13 +768,13 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-healthcare?u=76281980&t=302)** Crisis Text Line, a prominent mental health support line and nonprofit, uses an AI chatbot to help people cope with traumas such as self-harm, emotional abuse, and thoughts of suicide.
 >
-> **[5:14](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-healthcare?u=76281980&t=314)** Google's multi-task Unified Model, or MUM, can detect, based on search patterns, who might be in crisis and at risk of suicide, and will place the National Suicide Prevention Lifeline and other resources for people in crisis at the top of their search results.
+> **[5:14](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-healthcare?u=76281980&t=314)** [[Google]]'s multi-task Unified Model, or MUM, can detect, based on search patterns, who might be in crisis and at risk of suicide, and will place the National Suicide Prevention Lifeline and other resources for people in crisis at the top of their search results.
 >
 > **[5:30](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-healthcare?u=76281980&t=330)** So much of how algorithms perform, and whether they're fundamentally good and just algorithms, or whether they're flawed biased algorithms, so much of that comes from the data.
 >
 > **[5:43](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-healthcare?u=76281980&t=343)** And I think one of the huge challenges right now for people who want to build algorithms, whether it's for research or for kind of improving clinical care, is just how hard it is to access data.
 >
-> **[5:55](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-healthcare?u=76281980&t=355)** There was a paper a couple years ago that showed that of all of the AI products that were being used or had been FDA approved, like 60 or 70% of them were trained on populations from Palo Alto, Cambridge, or around the Mayo Clinic.
+> **[5:55](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-healthcare?u=76281980&t=355)** There was a paper a couple years ago that showed that of all of the AI [[Microsoft Products|products]] that were being used or had been FDA approved, like 60 or 70% of them were trained on populations from Palo Alto, Cambridge, or around the Mayo Clinic.
 >
 > **[6:11](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-healthcare?u=76281980&t=371)** And so I think that really speaks to a lot of the themes that we've touched on, which is that if algorithms are learning from these specific kinds of patients and from what those patients need, they're going to serve the needs of privileged people who happen to be in these data sets that are accessible to researchers and to product developers.
 >
@@ -801,39 +792,38 @@ created: 2026-05-02
 >
 > **[7:17](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-healthcare?u=76281980&t=437)** In the playbook, you will find tips for people in the C-suite, technical teams, and regulators, along with four steps to diagnose causes, measure, and mitigate bias in commonly used healthcare algorithms.
 >
-> **[7:31](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-healthcare?u=76281980&t=451)** Related to human health and the health of our planet is climate change.
+> **[7:31](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-healthcare?u=76281980&t=451)** Related to human health and the health of our planet is [[Climate Change]].
 >
 > **[7:36](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-healthcare?u=76281980&t=456)** Join me in the next video for a look at the relationship between AI and climate resilience.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), data (17), [[Algorithms]] (13), [[Microsoft Products|Products]] (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (13), [[Microsoft Products|Products]] (3), [[Public Health]] (1), [[Privacy Issues]] (1), [[Google]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** such as (3), for example (1)
 > **Env Vars:** mum (1), fda (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** be aware (1)
 
-#### AI in climate
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980)
+#### [AI in climate](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=0)** This video covers the use of AI for climate resilience, from modeling and forecasting to inform policy and decision making, to optimizing the deployment of clean energy infrastructure and assisting the development of greener technology.
+> **[0:00](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=0)** This video covers the use of AI for climate resilience, from modeling and [[Forecasting]] to inform policy and decision making, to optimizing the deployment of clean energy infrastructure and assisting the development of greener technology.
 >
-> **[0:13](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=13)** We will also consider how AI contributes to climate change itself due to the energy consumed to train and run data-intensive models.
+> **[0:13](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=13)** We will also consider how AI contributes to [[Climate Change]] itself due to the energy consumed to train and run data-intensive models.
 >
 > **[0:22](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=22)** To explain how AI is used to study climate change, I'd like to introduce you to Dr.
 >
 > **[0:27](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=27)** Solomon Shang, Chancellor's Professor in the Goldman School of Public Policy and Director of the Global Policy Laboratory at UC Berkeley.
 >
-> **[0:35](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=35)** He co-founded the Climate Impact Lab and is a National Geographic Explorer, and his team is integrating econometrics, spatial data science, and machine learning to answer questions that are central to rationally managing planetary resources.
+> **[0:35](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=35)** He co-founded the Climate Impact Lab and is a National Geographic Explorer, and his team is integrating econometrics, spatial [[Data Science]], and machine learning to answer questions that are central to rationally managing planetary resources.
 >
 > **[0:50](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=50)** When you think about, you know, like natural disasters affecting societies, and those are going to get more frequent with climate change, there's a lot of ways that we're using, for example, satellite imagery to monitor what happens around the world, to monitor climate change, to monitor natural disasters and how they affect populations.
 >
 > **[1:09](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=69)** And so AI is having a big impact on how we take huge amounts of data from satellites and digest it and turn it into information that could be used to respond to disasters.
 >
-> **[1:21](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=81)** So that's like the kind of work we do here at Berkeley and in the lab, we're trying to develop the techniques that turn this vast amount of unstructured data into actionable information for policymakers, for decision-making,
+> **[1:21](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=81)** So that's like the kind of work we do here at Berkeley and in the lab, we're trying to develop the techniques that turn this vast amount of [[Unstructured Data]] into actionable information for policymakers, for [[Decision-Making]],
 >
 > **[1:37](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=97)** to think about how you could respond to climate change in real time.
 >
@@ -853,7 +843,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=155)** But to provide access to this data and to make it useful to people without special technical skills, Dr.
 >
-> **[2:40](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=160)** Chang and other researchers must distill the many layers of data embedded in satellite images and make the algorithms simpler so that the data and insights are widely understandable and usable by anyone.
+> **[2:40](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=160)** Chang and other researchers must distill the many layers of data embedded in satellite images and make the [[Algorithms]] simpler so that the data and insights are widely understandable and usable by anyone.
 >
 > **[2:53](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=173)** Let's take a look at weather modeling, which can help communities better prepare for and respond to irregular weather patterns.
 >
@@ -889,9 +879,9 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=308)** Smart infrastructure, like Nest Learning Thermostats, can collectively result in significant energy savings.
 >
-> **[5:15](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=315)** Today, Google Maps offers users the option of selecting the most fuel-efficient route, even if it takes a bit longer.
+> **[5:15](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=315)** Today, [[Google]] Maps offers users the option of selecting the most fuel-efficient route, even if it takes a bit longer.
 >
-> **[5:22](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=322)** Google estimates that eco-friendly routing has the potential to prevent over 1 million tons of carbon emissions per year.
+> **[5:22](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=322)** Google estimates that eco-friendly [[Routing]] has the potential to prevent over 1 million tons of carbon emissions per year.
 >
 > **[5:29](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=329)** That's the equivalent of removing over 200,000 cars from the road.
 >
@@ -911,7 +901,7 @@ created: 2026-05-02
 >
 > **[6:30](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=390)** And this is to incentivize developers to optimize their code efficiency.
 >
-> **[6:34](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=394)** It also advises developers on selecting cloud infrastructure in regions that use lower carbon emitting energy sources.
+> **[6:34](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=394)** It also advises developers on selecting [[Cloud Infrastructure]] in regions that use lower carbon emitting energy sources.
 >
 > **[6:43](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=403)** What's the key ingredient of most AI systems?
 >
@@ -939,13 +929,13 @@ created: 2026-05-02
 >
 > **[7:34](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=454)** As Dr.
 >
-> **[7:34](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=454)** Shang suggested, we should encourage companies to build sustainability into the objective functions they embed in their AI systems.
+> **[7:34](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=454)** Shang suggested, we should encourage companies to build [[Sustainability]] into the objective functions they embed in their AI systems.
 >
-> **[7:42](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=462)** Now that we're aware of the benefits and risks of AI in key application domains, we'll explore strategies for developing responsible AI systems in the next chapter.
+> **[7:42](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/ai-in-climate?u=76281980&t=462)** Now that we're aware of the benefits and risks of AI in key application domains, we'll explore strategies for developing [[Responsible AI]] systems in the next chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (25), data (9), [[Climate Change]] (7), [[Forecasting]] (3), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Climate Change]] (7), [[Forecasting]] (3), [[Algorithms]] (2), [[Google]] (2), [[Data Science]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is a  (1), in other words (1), is an  (1)
@@ -957,8 +947,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Responsible and trustworthy AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980)
+#### [Responsible and trustworthy AI](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -966,13 +955,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980&t=18)** In this video, I'll give you an overview of these principles and provide examples of how they are being applied in AI development and oversight.
 >
-> **[0:27](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980&t=27)** Watch, a nonprofit research and advocacy organization, has taken stock of responsible AI principles and guidelines established globally.
+> **[0:27](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980&t=27)** Watch, a nonprofit research and advocacy organization, has taken stock of [[Responsible AI]] principles and guidelines established globally.
 >
-> **[0:35](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980&t=35)** Its AI Ethics Guidelines Global Inventory currently contains 167 sets of principles and guidelines.
+> **[0:35](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980&t=35)** Its AI [[Ethics]] Guidelines Global Inventory currently contains 167 sets of principles and guidelines.
 >
 > **[0:43](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980&t=43)** While responsible AI principles often vary in style and scope across different organizations, consensus has emerged around eight core principles.
 >
-> **[0:52](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980&t=52)** accountability, privacy and security, reliability and safety, transparency and explainability, fairness and non-discrimination, professional responsibility, human control, and the promotion of human values like civil and human rights.
+> **[0:52](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980&t=52)** [[Accountability]], [[Privacy]] and security, reliability and safety, transparency and explainability, fairness and non-discrimination, professional responsibility, human control, and the promotion of human values like civil and human rights.
 >
 > **[1:10](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980&t=70)** Let's explore some ways these eight core responsible AI principles are being implemented.
 >
@@ -984,7 +973,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980&t=105)** To reduce potential vulnerabilities that data will be leaked or disclosed, a developer may decide to run an AI model locally on an end-user's device so that no personal data is transferred.
 >
-> **[1:57](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980&t=117)** To ensure reliability and safety, a developer may implement continuous monitoring to assess whether an AI system is performing reliably.
+> **[1:57](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980&t=117)** To ensure reliability and safety, a developer may implement [[Continuous Monitoring]] to assess whether an AI system is performing reliably.
 >
 > **[2:06](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980&t=126)** In other words, it is repeatedly performing as intended.
 >
@@ -1002,7 +991,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980&t=185)** However, it is not always easy to operationalize concepts of bias into the development of AI models or implement tests and corrective actions.
 >
-> **[3:14](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980&t=194)** For example, the National Institute of Standards and Technology, NIST, issued a report in 2022 that outlined dozens of different types of bias that appear in AI models and several statistical and mathematical strategies to achieve fairness.
+> **[3:14](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980&t=194)** For example, the National Institute of Standards and Technology, [[NIST]], issued a report in 2022 that outlined dozens of different types of bias that appear in AI models and several statistical and mathematical strategies to achieve fairness.
 >
 > **[3:29](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980&t=209)** As a result, human judgment is still needed.
 >
@@ -1024,31 +1013,30 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980&t=289)** Implementation of human control in AI systems means that any decision or action taken by an AI-enabled system must go through human review.
 >
-> **[4:58](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980&t=298)** For example, in high-stakes decision-making in healthcare or human resources, incorporating human control may mean that a radiologist reviews an ultrasound before additional tests are ordered, or a hiring manager reviews all resumes selected or not selected by an AI system before deciding whom to interview.
+> **[4:58](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980&t=298)** For example, in high-stakes [[Decision-Making]] in healthcare or [[Human Resources (HR)|human resources]], incorporating human control may mean that a radiologist reviews an ultrasound before additional tests are ordered, or a hiring manager reviews all resumes selected or not selected by an AI system before deciding whom to interview.
 >
 > **[5:20](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980&t=320)** Above all, AI systems should support the promotion of human values, in other words, civil and human rights.
 >
 > **[5:27](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980&t=327)** To do so, AI developers can conduct human rights impacts assessments, often referred to as HRIAs, of their AI system to identify and mitigate potential human rights harms.
 >
-> **[5:39](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980&t=339)** Responsible AI principles are key to helping organizations develop trustworthy artificial intelligence.
+> **[5:39](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980&t=339)** Responsible AI principles are key to helping organizations develop trustworthy [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[5:45](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-and-trustworthy-ai?u=76281980&t=345)** As we transition to the next video, I encourage you to think about ways your organization may implement the responsible AI principles.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (29), data (8), [[Responsible AI]] (4), [[Privacy]] (3), [[Security]] (3)
+> **Frameworks & Libraries:** [[Responsible AI]] (4), [[Privacy]] (3), [[Accountability]] (2), [[Ethics]] (1), [[Continuous Monitoring]] (1)
 > **Analogies:** such as (3), for example (3)
 > **Definitions:** in other words (2), means that (2)
 > **Cross-References:** later in (1), next video (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** nist (1)
 
-#### Responsible AI principles and practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-ai-principles-and-practices?u=76281980)
+#### [Responsible AI principles and practices](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-ai-principles-and-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-ai-principles-and-practices?u=76281980&t=0)** In this video, you'll be introduced to emerging governance and technology strategies to support responsible and trustworthy AI development and deployment guided by responsible AI principles.
+> **[0:00](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-ai-principles-and-practices?u=76281980&t=0)** In this video, you'll be introduced to emerging governance and technology strategies to support responsible and trustworthy AI development and deployment guided by [[Responsible AI]] principles.
 >
 > **[0:12](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-ai-principles-and-practices?u=76281980&t=12)** Let's explore three strategies, AI documentation, fairness evaluation tools, and responsible AI training toolkits.
 >
@@ -1056,19 +1044,19 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-ai-principles-and-practices?u=76281980&t=25)** For example, IBM has developed fact sheets that encourage AI developers to record the purpose, performance, safety, security, and provenance of AI models.
 >
-> **[0:37](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-ai-principles-and-practices?u=76281980&t=37)** Google's model cards provide a framework for recording the provenance, usage, and ethics-informed evaluation of AI models.
+> **[0:37](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-ai-principles-and-practices?u=76281980&t=37)** [[Google]]'s model cards provide a framework for recording the provenance, usage, and [[Ethics]]-informed evaluation of AI models.
 >
-> **[0:45](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-ai-principles-and-practices?u=76281980&t=45)** And Microsoft's data sheets for data sets and transparency notes encourage documentation of data provenance, composition, collection processes, motivations, and recommended uses.
+> **[0:45](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-ai-principles-and-practices?u=76281980&t=45)** And [[Microsoft]]'s data sheets for data sets and transparency notes encourage documentation of data provenance, composition, collection processes, motivations, and recommended uses.
 >
-> **[0:59](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-ai-principles-and-practices?u=76281980&t=59)** In the public sector, the cities of Helsinki and Amsterdam have launched AI registries to publicly record the data sets used in government-run AI models, how model predictions are used to inform decision-making, and how AI models are assessed for bias and discrimination.
+> **[0:59](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-ai-principles-and-practices?u=76281980&t=59)** In the public sector, the cities of Helsinki and Amsterdam have launched AI registries to publicly record the data sets used in government-run AI models, how model predictions are used to inform [[Decision-Making]], and how AI models are assessed for bias and discrimination.
 >
-> **[1:15](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-ai-principles-and-practices?u=76281980&t=75)** These documentation strategies support the responsible AI principles of transparency and explainability, accountability, reliability and safety, fairness and non-discrimination, and professional responsibility.
+> **[1:15](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-ai-principles-and-practices?u=76281980&t=75)** These documentation strategies support the responsible AI principles of transparency and explainability, [[Accountability]], reliability and safety, fairness and non-discrimination, and professional responsibility.
 >
 > **[1:30](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-ai-principles-and-practices?u=76281980&t=90)** Second, the private sector has also created a variety of fairness evaluation tools to check data and AI models for bias.
 >
-> **[1:38](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-ai-principles-and-practices?u=76281980&t=98)** For example, IBM's AI Fairness 360 Toolkit tests data sets and models for bias and provides recommended algorithms to mitigate identified biases.
+> **[1:38](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-ai-principles-and-practices?u=76281980&t=98)** For example, IBM's AI Fairness 360 Toolkit tests data sets and models for bias and provides recommended [[Algorithms]] to mitigate identified biases.
 >
-> **[1:49](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-ai-principles-and-practices?u=76281980&t=109)** Microsoft's InterpretML can be applied to both Glassbox machine learning models, such as linear regression models, and to Blackbox machine learning models, such as deep neural networks.
+> **[1:49](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-ai-principles-and-practices?u=76281980&t=109)** Microsoft's InterpretML can be applied to both Glassbox machine learning models, such as [[Linear Regression]] models, and to Blackbox machine learning models, such as deep [[Neural Networks]].
 >
 > **[2:01](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-ai-principles-and-practices?u=76281980&t=121)** Google's What If tool enables developers and the public to identify and test, without needing deep technical expertise, predictive features in machine learning models and whether these features contribute to bias.
 >
@@ -1088,7 +1076,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-ai-principles-and-practices?u=76281980&t=207)** When considering appropriate governance and technology strategies to implement, your organization should consider the following questions.
 >
-> **[3:35](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-ai-principles-and-practices?u=76281980&t=215)** Do the AI governance and technology strategies align with established development and deployment practices within our organization?
+> **[3:35](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-ai-principles-and-practices?u=76281980&t=215)** Do the [[AI Governance]] and technology strategies align with established development and deployment practices within our organization?
 >
 > **[3:42](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/responsible-ai-principles-and-practices?u=76281980&t=222)** If not, what needs to change to support successful implementation?
 >
@@ -1102,13 +1090,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), [[Responsible AI]] (6), data (6), [[Google]] (3), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Responsible AI]] (6), [[Google]] (3), [[Microsoft]] (2), [[Ethics]] (1), [[Decision-Making]] (1)
 > **Analogies:** such as (5), for example (3)
 > **Env Vars:** ibm (2)
 > **Best Practices:** recommended (2)
 
-#### Risk and impact assessment models
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risk-and-impact-assessment-models?u=76281980)
+#### [Risk and impact assessment models](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risk-and-impact-assessment-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1134,15 +1121,15 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risk-and-impact-assessment-models?u=76281980&t=88)** In this video, we'll see how these assessments are being used to mitigate unintended negative consequences of AI systems.
 >
-> **[1:35](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risk-and-impact-assessment-models?u=76281980&t=95)** In the United States, the 2020 National AI Initiative Act mandated the National Institute of Standards and Technology, NIST, to develop an AI Risk Management Framework, AIRMF, that could be voluntarily implemented by developers.
+> **[1:35](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risk-and-impact-assessment-models?u=76281980&t=95)** In the United States, the 2020 National AI Initiative Act mandated the National Institute of Standards and Technology, [[NIST]], to develop an AI [[Risk Management Framework (RMF)|Risk Management Framework]], AIRMF, that could be voluntarily implemented by developers.
 >
 > **[1:50](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risk-and-impact-assessment-models?u=76281980&t=110)** The final version of the AIRMF is expected to be published in early 2023.
 >
-> **[1:55](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risk-and-impact-assessment-models?u=76281980&t=115)** In the European Union, the Artificial Intelligence Act would require developers of high-risk AI systems, such as those used in biometric identification or in judicial sentencing, to implement conformity assessments that would aid developers in identifying and mitigating risks before deployment.
+> **[1:55](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risk-and-impact-assessment-models?u=76281980&t=115)** In the European Union, the [[Artificial Intelligence (AI)|Artificial Intelligence]] Act would require developers of high-risk AI systems, such as those used in biometric identification or in judicial sentencing, to implement conformity assessments that would aid developers in identifying and mitigating risks before deployment.
 >
 > **[2:13](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risk-and-impact-assessment-models?u=76281980&t=133)** Companies are also voluntarily implementing AI risk and impact assessments to support development of responsible and trustworthy AI systems and as a mechanism to reduce legal risks associated with liability and negligence if an AI system causes harm.
 >
-> **[2:28](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risk-and-impact-assessment-models?u=76281980&t=148)** Companies may integrate an AI risk and impact assessment fully or in part into established risk management processes such as those already in place to address cybersecurity or data privacy.
+> **[2:28](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risk-and-impact-assessment-models?u=76281980&t=148)** Companies may integrate an AI risk and impact assessment fully or in part into established risk management processes such as those already in place to address [[Cybersecurity]] or [[Data Privacy]].
 >
 > **[2:39](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risk-and-impact-assessment-models?u=76281980&t=159)** So what's in an AI risk and impact assessment?
 >
@@ -1150,7 +1137,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risk-and-impact-assessment-models?u=76281980&t=178)** While most AI risk and impact assessments contain these three parts, they often vary widely in their structure.
 >
-> **[3:05](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risk-and-impact-assessment-models?u=76281980&t=185)** For example, Canada's Algorithmic Impact Assessment Tool has 81 questions, whereas the Ethics and Algorithms Toolkit rolled out in San Francisco contains a few dozen questions.
+> **[3:05](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risk-and-impact-assessment-models?u=76281980&t=185)** For example, Canada's Algorithmic Impact Assessment Tool has 81 questions, whereas the [[Ethics]] and [[Algorithms]] Toolkit rolled out in San Francisco contains a few dozen questions.
 >
 > **[3:17](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risk-and-impact-assessment-models?u=76281980&t=197)** When considering data and design risks, AI risk and impact assessments often include questions to address the following.
 >
@@ -1162,7 +1149,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risk-and-impact-assessment-models?u=76281980&t=227)** Questions to ask include what types of impacts the AI system will have, for example, potential security, discriminatory, or environmental impacts, and who would be affected by these impacts and whether those who are affected represent a vulnerable population.
 >
-> **[4:05](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risk-and-impact-assessment-models?u=76281980&t=245)** AI risk and impact assessments often also consider whether appropriate risk mitigation strategies have been implemented, such as steps taken to identify and address biased data, and implementation of continuous monitoring to identify and mitigate specific risks.
+> **[4:05](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risk-and-impact-assessment-models?u=76281980&t=245)** AI risk and impact assessments often also consider whether appropriate risk mitigation strategies have been implemented, such as steps taken to identify and address biased data, and implementation of [[Continuous Monitoring]] to identify and mitigate specific risks.
 >
 > **[4:22](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/risk-and-impact-assessment-models?u=76281980&t=262)** I encourage you to consider how you might implement an AI risk and impact assessment within your organization.
 >
@@ -1178,18 +1165,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (21), data (6), application (2), [[NIST]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1)
+> **Frameworks & Libraries:** [[NIST]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Cybersecurity]] (1), [[Data Privacy]] (1)
 > **Analogies:** such as (3), for example (3)
 > **Env Vars:** airmf (2), nist (1)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
 
-#### Agency and action: Your role in AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/agency-and-action-your-role-in-ai?u=76281980)
+#### [Agency and action: Your role in AI](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/agency-and-action-your-role-in-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/agency-and-action-your-role-in-ai?u=76281980&t=1)** Organizations that follow responsible AI practices are able to design and or deploy AI more effectively to achieve high value for customers, employees, and shareholders.
+> **[0:01](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/agency-and-action-your-role-in-ai?u=76281980&t=1)** Organizations that follow [[Responsible AI]] practices are able to design and or deploy AI more effectively to achieve high value for customers, employees, and shareholders.
 >
 > **[0:11](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/agency-and-action-your-role-in-ai?u=76281980&t=11)** Therefore, every organization should establish a responsible AI implementation strategy.
 >
@@ -1197,7 +1183,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/agency-and-action-your-role-in-ai?u=76281980&t=27)** For example, an organization may decide to uphold the principle of fairness and non-discrimination.
 >
-> **[0:33](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/agency-and-action-your-role-in-ai?u=76281980&t=33)** To implement this principle in practice, the AI implementation strategy may specify that development teams conduct robust testing of an AI system to identify bias, correct these biases before it is deployed, and implement continuous monitoring to mitigate harms.
+> **[0:33](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/agency-and-action-your-role-in-ai?u=76281980&t=33)** To implement this principle in practice, the AI implementation strategy may specify that development teams conduct robust testing of an AI system to identify bias, correct these biases before it is deployed, and implement [[Continuous Monitoring]] to mitigate harms.
 >
 > **[0:48](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/agency-and-action-your-role-in-ai?u=76281980&t=48)** Organizations that have a responsible AI implementation strategy will likely be able to respond to new regulations more quickly and efficiently than those that do not.
 >
@@ -1219,7 +1205,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/agency-and-action-your-role-in-ai?u=76281980&t=112)** If your organization does not yet have a responsible AI implementation strategy, I encourage you to speak to leadership about establishing one.
 >
-> **[2:01](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/agency-and-action-your-role-in-ai?u=76281980&t=121)** Most large companies, such as Google, Microsoft, and IBM, have a responsible AI implementation strategy that is publicly available.
+> **[2:01](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/agency-and-action-your-role-in-ai?u=76281980&t=121)** Most large companies, such as [[Google]], [[Microsoft]], and IBM, have a responsible AI implementation strategy that is publicly available.
 >
 > **[2:09](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/agency-and-action-your-role-in-ai?u=76281980&t=129)** The University of California also has made public its responsible AI implementation strategy that I encourage you to check out.
 >
@@ -1229,7 +1215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (10), ai (10), teams (1), [[Continuous Monitoring]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (10), [[Continuous Monitoring]] (1), [[Google]] (1), [[Microsoft]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we covered (1), in the next (1)
@@ -1240,22 +1226,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980)
+#### [Next steps and resources](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980&t=0)** In this video, I'll summarize key takeaways, actions you can take, and additional resources to help you determine the best strategies for developing or using AI responsibly.
 >
-> **[0:11](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980&t=11)** In this course, you are introduced to ways that AI is being used in human resources to streamline the hiring process, in social media to aid content moderation, in healthcare to support early detection and effective treatment, and in climate resilience to assess and address sustainability challenges.
+> **[0:11](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980&t=11)** In this course, you are introduced to ways that AI is being used in [[Human Resources (HR)|human resources]] to streamline the hiring process, in social media to aid content moderation, in healthcare to support early detection and effective treatment, and in climate resilience to assess and address [[Sustainability]] challenges.
 >
 > **[0:29](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980&t=29)** You are also introduced to ways that AI simultaneously poses risks in all those domains, such as perpetuating biases and discrimination in HR and healthcare, and increasing energy consumption to run large AI models.
 >
 > **[0:43](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980&t=43)** To mitigate these risks, appropriate safeguards must be put in place.
 >
-> **[0:47](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980&t=47)** If your organization is developing or implementing AI-enabled technologies, it is important to have an AI strategy that includes responsible AI principles and practices.
+> **[0:47](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980&t=47)** If your organization is developing or implementing AI-enabled technologies, it is important to have an [[AI Strategy]] that includes [[Responsible AI]] principles and practices.
 >
-> **[0:58](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980&t=58)** I encourage you to check out AlgorithmWatch's AI Ethics Guidelines Global Inventory for examples of responsible AI principles and practices.
+> **[0:58](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980&t=58)** I encourage you to check out AlgorithmWatch's AI [[Ethics]] Guidelines Global Inventory for examples of responsible AI principles and practices.
 >
 > **[1:07](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980&t=67)** Once responsible AI principles are adopted, a robust review and oversight process should be established to operationalize those principles.
 >
@@ -1263,17 +1248,17 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980&t=87)** Corrective actions can then be taken to address any identified risks before deployment of the AI model.
 >
-> **[1:33](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980&t=93)** The National Institute of Standards and Technology, NIST, has developed the NIST AI Risk Management Framework, a helpful guide for AI risk identification and mitigation.
+> **[1:33](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980&t=93)** The National Institute of Standards and Technology, [[NIST]], has developed the NIST AI [[Risk Management Framework (RMF)|Risk Management Framework]], a helpful guide for AI risk identification and mitigation.
 >
 > **[1:45](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980&t=105)** Additionally, the National AI Advisory Committee, which comprises experts from academia, government, and industry, is developing guidance for responsible development and use of AI.
 >
 > **[1:56](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980&t=116)** I encourage you to check out their work.
 >
-> **[1:59](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980&t=119)** In addition to risk assessment, organizations should implement continuous monitoring processes.
+> **[1:59](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980&t=119)** In addition to risk assessment, organizations should implement [[Continuous Monitoring]] processes.
 >
 > **[2:05](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980&t=125)** In other words, AI-enabled technology should be reassessed throughout its life cycle to identify and mitigate risks as they emerge.
 >
-> **[2:13](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980&t=133)** Numerous companies, including Microsoft, Amazon, and Google, offer continuous monitoring guidance and packages.
+> **[2:13](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980&t=133)** Numerous companies, including [[Microsoft]], Amazon, and [[Google]], offer continuous monitoring guidance and packages.
 >
 > **[2:20](https://www.linkedin.com/learning/responsible-ai-principles-and-practical-applications/next-steps-and-resources?u=76281980&t=140)** You play an important role in supporting responsible development and use of AI within your organization.
 >
@@ -1281,7 +1266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), [[Responsible AI]] (3), [[NIST]] (2), [[Continuous Monitoring]] (2), [[Human Resources (HR)|Human resources]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (3), [[NIST]] (2), [[Continuous Monitoring]] (2), [[Human Resources (HR)|Human resources]] (1), [[Sustainability]] (1)
 > **Env Vars:** nist (2)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** in other words (1)

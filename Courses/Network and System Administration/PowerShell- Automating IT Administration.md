@@ -84,34 +84,32 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### IT automation with PowerShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/it-automation-with-powershell?u=76281980)
+#### [IT automation with PowerShell](https://www.linkedin.com/learning/powershell-automating-it-administration/it-automation-with-powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-automating-it-administration/it-automation-with-powershell?u=76281980&t=0)** - [Liam] This course is going to take you on a journey to help you understand core PowerShell Constructs and Syntax, specifically for working with system information, as well as retrieving that information from clients and servers.
+> **[0:00](https://www.linkedin.com/learning/powershell-automating-it-administration/it-automation-with-powershell?u=76281980&t=0)** - [Liam] This course is going to take you on a journey to help you understand core [[Powershell]] Constructs and Syntax, specifically for working with system information, as well as retrieving that information from clients and servers.
 >
 > **[0:13](https://www.linkedin.com/learning/powershell-automating-it-administration/it-automation-with-powershell?u=76281980&t=13)** You will understand the importance of security controls and restrictions by using just enough administration along with custom roles and capabilities.
 >
 > **[0:21](https://www.linkedin.com/learning/powershell-automating-it-administration/it-automation-with-powershell?u=76281980&t=21)** You'll then lastly, find out how to create custom background jobs as well as scheduled jobs and also scheduled tasks.
 >
-> **[0:28](https://www.linkedin.com/learning/powershell-automating-it-administration/it-automation-with-powershell?u=76281980&t=28)** Hi, I'm Liam, join me for the rest of this course to understand how to use PowerShell for Automating IT Administration tasks.
+> **[0:28](https://www.linkedin.com/learning/powershell-automating-it-administration/it-automation-with-powershell?u=76281980&t=28)** Hi, I'm Liam, join me for the [[Representational State Transfer (REST)|rest]] of this course to understand how to use PowerShell for Automating IT Administration tasks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (2), [[Security]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** powershell (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [liam] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/powershell-automating-it-administration/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-automating-it-administration/what-you-should-know?u=76281980&t=0)** - [Instructor] To be successful with PowerShell it is crucial to possess fundamental skills in networking and operating systems, as they form the foundation for understanding how devices communicate and how operating systems function.
+> **[0:00](https://www.linkedin.com/learning/powershell-automating-it-administration/what-you-should-know?u=76281980&t=0)** - [Instructor] To be successful with [[Powershell]] it is crucial to possess fundamental skills in networking and operating systems, as they form the foundation for understanding how devices communicate and how operating systems function.
 >
-> **[0:14](https://www.linkedin.com/learning/powershell-automating-it-administration/what-you-should-know?u=76281980&t=14)** A basic understanding of PowerShell, the scripting language is necessary due to its widespread use in this course, especially for managing Windows-based servers.
+> **[0:14](https://www.linkedin.com/learning/powershell-automating-it-administration/what-you-should-know?u=76281980&t=14)** A basic understanding of PowerShell, the scripting language is necessary due to its widespread use in this course, especially for managing [[Windows]]-based servers.
 >
 > **[0:24](https://www.linkedin.com/learning/powershell-automating-it-administration/what-you-should-know?u=76281980&t=24)** A lab environment is also helpful consisting of both client and a server, and a must have for your own hands-on experience and testing.
 >
@@ -123,7 +121,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (4), [[Scripting]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (4), [[Windows]] (1)
 > **Tools:** powershell (4)
 > **CLI Commands:** make (1)
 > **Warnings:** note that (1)
@@ -134,8 +132,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why automate IT administration tasks?
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/why-automate-it-administration-tasks?u=76281980)
+#### [Why automate IT administration tasks?](https://www.linkedin.com/learning/powershell-automating-it-administration/why-automate-it-administration-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -163,19 +160,19 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/powershell-automating-it-administration/why-automate-it-administration-tasks?u=76281980&t=85)** Automating your IT administration tasks can lead to cost savings by reducing the need for manual labor, minimizing downtime and improving the overall efficiency of IT operations.
 >
-> **[1:38](https://www.linkedin.com/learning/powershell-automating-it-administration/why-automate-it-administration-tasks?u=76281980&t=98)** The benefits of using PowerShell for automating IT administration tasks instead of other scripting languages really come down to these three.
+> **[1:38](https://www.linkedin.com/learning/powershell-automating-it-administration/why-automate-it-administration-tasks?u=76281980&t=98)** The benefits of using [[Powershell]] for automating IT administration tasks instead of other scripting languages really come down to these three.
 >
-> **[1:47](https://www.linkedin.com/learning/powershell-automating-it-administration/why-automate-it-administration-tasks?u=76281980&t=107)** The first one is it's built for Windows.
+> **[1:47](https://www.linkedin.com/learning/powershell-automating-it-administration/why-automate-it-administration-tasks?u=76281980&t=107)** The first one is it's built for [[Windows]].
 >
 > **[1:50](https://www.linkedin.com/learning/powershell-automating-it-administration/why-automate-it-administration-tasks?u=76281980&t=110)** PowerShell is a native Windows automation tool that is specifically designed for Windows-based environments.
 >
-> **[1:57](https://www.linkedin.com/learning/powershell-automating-it-administration/why-automate-it-administration-tasks?u=76281980&t=117)** This means that it integrates seamlessly with Microsoft products and services making it an ideal tool for automating tasks in a Windows environment.
+> **[1:57](https://www.linkedin.com/learning/powershell-automating-it-administration/why-automate-it-administration-tasks?u=76281980&t=117)** This means that it integrates seamlessly with [[Microsoft Products]] and services making it an ideal tool for automating tasks in a Windows environment.
 >
 > **[2:07](https://www.linkedin.com/learning/powershell-automating-it-administration/why-automate-it-administration-tasks?u=76281980&t=127)** There's also a wide range of functionality.
 >
 > **[2:10](https://www.linkedin.com/learning/powershell-automating-it-administration/why-automate-it-administration-tasks?u=76281980&t=130)** PowerShell offers automation for IT, including command line interfaces, scripting and automation frameworks.
 >
-> **[2:19](https://www.linkedin.com/learning/powershell-automating-it-administration/why-automate-it-administration-tasks?u=76281980&t=139)** It also supports a variety of data formats such as XML JSON, and CSV, making it a versatile tool for automating your tasks.
+> **[2:19](https://www.linkedin.com/learning/powershell-automating-it-administration/why-automate-it-administration-tasks?u=76281980&t=139)** It also supports a variety of data formats such as XML [[JSON]], and CSV, making it a versatile tool for automating your tasks.
 >
 > **[2:29](https://www.linkedin.com/learning/powershell-automating-it-administration/why-automate-it-administration-tasks?u=76281980&t=149)** And of course, it's fairly easy to learn and use.
 >
@@ -187,19 +184,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (6), [[Powershell]] (4), [[Windows]] (4), [[Scripting]] (2), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Powershell]] (4), [[Windows]] (4), [[Microsoft Products]] (1), [[JSON]] (1)
 > **Tools:** powershell (4), command line (1)
 > **Env Vars:** xml (1), json (1), csv (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### What are PowerShell modules, and why are they useful?
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/what-are-powershell-modules-and-why-are-they-useful?u=76281980)
+#### [What are PowerShell modules, and why are they useful?](https://www.linkedin.com/learning/powershell-automating-it-administration/what-are-powershell-modules-and-why-are-they-useful?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-automating-it-administration/what-are-powershell-modules-and-why-are-they-useful?u=76281980&t=0)** - [Instructor] What are PowerShell modules, and why are they useful?
+> **[0:00](https://www.linkedin.com/learning/powershell-automating-it-administration/what-are-powershell-modules-and-why-are-they-useful?u=76281980&t=0)** - [Instructor] What are [[Powershell]] modules, and why are they useful?
 >
 > **[0:03](https://www.linkedin.com/learning/powershell-automating-it-administration/what-are-powershell-modules-and-why-are-they-useful?u=76281980&t=3)** Well, PowerShell modules are self-contained packages of PowerShell commands, functions, and scripts that provide additional functionality to PowerShell.
 >
@@ -207,7 +203,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/powershell-automating-it-administration/what-are-powershell-modules-and-why-are-they-useful?u=76281980&t=22)** By organizing code into smaller, more manageable pieces, modules help to reduce duplication and streamline the development workflow.
 >
-> **[0:30](https://www.linkedin.com/learning/powershell-automating-it-administration/what-are-powershell-modules-and-why-are-they-useful?u=76281980&t=30)** Additionally, modules can be easily shared with others either through a private repository or via public repositories, such as the PowerShell Gallery or GitHub.
+> **[0:30](https://www.linkedin.com/learning/powershell-automating-it-administration/what-are-powershell-modules-and-why-are-they-useful?u=76281980&t=30)** Additionally, modules can be easily shared with others either through a private repository or via public repositories, such as the PowerShell Gallery or [[GitHub]].
 >
 > **[0:41](https://www.linkedin.com/learning/powershell-automating-it-administration/what-are-powershell-modules-and-why-are-they-useful?u=76281980&t=41)** This makes it easier for IT administrators and developers to collaborate and build on each other's work, ultimately leading to more efficient and effective PowerShell based automation solutions.
 >
@@ -223,7 +219,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/powershell-automating-it-administration/what-are-powershell-modules-and-why-are-they-useful?u=76281980&t=97)** PowerShell modules can be classified into three types, standard, third party, and custom.
 >
-> **[1:45](https://www.linkedin.com/learning/powershell-automating-it-administration/what-are-powershell-modules-and-why-are-they-useful?u=76281980&t=105)** Standard modules are pre-installed with PowerShell, or with Windows Server, and provide core functionality for managing Windows based systems.
+> **[1:45](https://www.linkedin.com/learning/powershell-automating-it-administration/what-are-powershell-modules-and-why-are-they-useful?u=76281980&t=105)** Standard modules are pre-installed with PowerShell, or with [[Windows Server]], and provide core functionality for managing [[Windows]] based systems.
 >
 > **[1:53](https://www.linkedin.com/learning/powershell-automating-it-administration/what-are-powershell-modules-and-why-are-they-useful?u=76281980&t=113)** They contain commandments and functions that enable you as an IT administrator to perform common tasks, such as managing files, directories, and system settings.
 >
@@ -259,23 +255,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (20), [[Automation]] (2), [[GitHub]] (1), [[Windows Server]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (20), [[GitHub]] (1), [[Windows Server]] (1), [[Windows]] (1)
 > **Tools:** powershell (20), github (1)
 > **Analogies:** such as (3)
 > **Prerequisites:** install (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using conditional statements and comparisons
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/using-conditional-statements-and-comparisons?u=76281980)
+#### [Using conditional statements and comparisons](https://www.linkedin.com/learning/powershell-automating-it-administration/using-conditional-statements-and-comparisons?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-automating-it-administration/using-conditional-statements-and-comparisons?u=76281980&t=0)** - [Instructor] So, here we are on a Windows 11 machine.
+> **[0:00](https://www.linkedin.com/learning/powershell-automating-it-administration/using-conditional-statements-and-comparisons?u=76281980&t=0)** - [Instructor] So, here we are on a [[Windows]] 11 machine.
 >
 > **[0:03](https://www.linkedin.com/learning/powershell-automating-it-administration/using-conditional-statements-and-comparisons?u=76281980&t=3)** And first off, there's a couple of things that have been installed.
 >
-> **[0:06](https://www.linkedin.com/learning/powershell-automating-it-administration/using-conditional-statements-and-comparisons?u=76281980&t=6)** If I click into the PowerShell here, as it's Windows 11, we have the Windows terminal installed.
+> **[0:06](https://www.linkedin.com/learning/powershell-automating-it-administration/using-conditional-statements-and-comparisons?u=76281980&t=6)** If I click into the [[Powershell]] here, as it's Windows 11, we have the Windows terminal installed.
 >
 > **[0:12](https://www.linkedin.com/learning/powershell-automating-it-administration/using-conditional-statements-and-comparisons?u=76281980&t=12)** And so I've installed PowerShell 7.
 >
@@ -337,7 +332,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/powershell-automating-it-administration/using-conditional-statements-and-comparisons?u=76281980&t=162)** So if it's this, do that, else, do something else.
 >
-> **[2:45](https://www.linkedin.com/learning/powershell-automating-it-administration/using-conditional-statements-and-comparisons?u=76281980&t=165)** So in this example, I'm using the word weather.
+> **[2:45](https://www.linkedin.com/learning/powershell-automating-it-administration/using-conditional-statements-and-comparisons?u=76281980&t=165)** So in this example, I'm using the [[Microsoft Word|word]] weather.
 >
 > **[2:48](https://www.linkedin.com/learning/powershell-automating-it-administration/using-conditional-statements-and-comparisons?u=76281980&t=168)** So first off, let me clear this bottom section here.
 >
@@ -489,7 +484,7 @@ created: 2026-05-02
 >
 > **[9:14](https://www.linkedin.com/learning/powershell-automating-it-administration/using-conditional-statements-and-comparisons?u=76281980&t=554)** So I'm going to introduce here something called get content.
 >
-> **[9:17](https://www.linkedin.com/learning/powershell-automating-it-administration/using-conditional-statements-and-comparisons?u=76281980&t=557)** Get content is going to import something as a JSON object.
+> **[9:17](https://www.linkedin.com/learning/powershell-automating-it-administration/using-conditional-statements-and-comparisons?u=76281980&t=557)** Get content is going to import something as a [[JSON]] object.
 >
 > **[9:21](https://www.linkedin.com/learning/powershell-automating-it-administration/using-conditional-statements-and-comparisons?u=76281980&t=561)** I'm going to go to my files here open my assets one and click computer assets and then I'll just close this back out.
 >
@@ -559,7 +554,7 @@ created: 2026-05-02
 >
 > **[12:16](https://www.linkedin.com/learning/powershell-automating-it-administration/using-conditional-statements-and-comparisons?u=76281980&t=736)** It gives me the computer name.
 >
-> **[12:18](https://www.linkedin.com/learning/powershell-automating-it-administration/using-conditional-statements-and-comparisons?u=76281980&t=738)** It goes through the IF process and says, this is Windows 10 this is Domain joined, and this is an i5.
+> **[12:18](https://www.linkedin.com/learning/powershell-automating-it-administration/using-conditional-statements-and-comparisons?u=76281980&t=738)** It goes through the IF process and says, this is [[Windows 10]] this is Domain joined, and this is an i5.
 >
 > **[12:25](https://www.linkedin.com/learning/powershell-automating-it-administration/using-conditional-statements-and-comparisons?u=76281980&t=745)** This one is Windows 11 and it's not domain joined and it has an i7 and we can loop down and see all of these machines.
 >
@@ -567,7 +562,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (10), [[Windows]] (6), [[JSON]] (6), data (6), [[Microsoft Word|Word]] (4)
+> **Frameworks & Libraries:** [[Powershell]] (10), [[Windows]] (6), [[JSON]] (6), [[Microsoft Word|Word]] (4), [[Windows 10]] (1)
 > **Tools:** powershell (10), visual studio (3), windows terminal (1)
 > **CLI Commands:** make (7), find (2)
 > **Env Vars:** json (6), ram (1)
@@ -576,12 +571,11 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
 
-#### Looping constructs for data manipulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/looping-constructs-for-data-manipulation?u=76281980)
+#### [Looping constructs for data manipulation](https://www.linkedin.com/learning/powershell-automating-it-administration/looping-constructs-for-data-manipulation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-automating-it-administration/looping-constructs-for-data-manipulation?u=76281980&t=0)** - [Instructor] Now, another function that's really important inside PowerShell is the ability for you to loop content.
+> **[0:00](https://www.linkedin.com/learning/powershell-automating-it-administration/looping-constructs-for-data-manipulation?u=76281980&t=0)** - [Instructor] Now, another function that's really important inside [[Powershell]] is the ability for you to loop content.
 >
 > **[0:07](https://www.linkedin.com/learning/powershell-automating-it-administration/looping-constructs-for-data-manipulation?u=76281980&t=7)** Now, in one of our previous examples, we touched on it by using a foreach statement to be able to iterate through the data that we imported and we didn't focus on it too much.
 >
@@ -621,7 +615,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/powershell-automating-it-administration/looping-constructs-for-data-manipulation?u=76281980&t=108)** The foreach takes a variable of values or something.
 >
-> **[1:53](https://www.linkedin.com/learning/powershell-automating-it-administration/looping-constructs-for-data-manipulation?u=76281980&t=113)** In our previous example, remember, we imported the computer assets list, which was a JSON file, which was loaded into a variable, exactly the same as here, into an array object.
+> **[1:53](https://www.linkedin.com/learning/powershell-automating-it-administration/looping-constructs-for-data-manipulation?u=76281980&t=113)** In our previous example, remember, we imported the computer assets list, which was a [[JSON]] file, which was loaded into a variable, exactly the same as here, into an array object.
 >
 > **[2:03](https://www.linkedin.com/learning/powershell-automating-it-administration/looping-constructs-for-data-manipulation?u=76281980&t=123)** And in our example here, we have fruits, apple, banana, orange, and grape.
 >
@@ -791,7 +785,7 @@ created: 2026-05-02
 >
 > **[8:57](https://www.linkedin.com/learning/powershell-automating-it-administration/looping-constructs-for-data-manipulation?u=76281980&t=537)** So let me just do view here.
 >
-> **[8:59](https://www.linkedin.com/learning/powershell-automating-it-administration/looping-constructs-for-data-manipulation?u=76281980&t=539)** Word wrap.
+> **[8:59](https://www.linkedin.com/learning/powershell-automating-it-administration/looping-constructs-for-data-manipulation?u=76281980&t=539)** [[Microsoft Word|Word]] wrap.
 >
 > **[9:00](https://www.linkedin.com/learning/powershell-automating-it-administration/looping-constructs-for-data-manipulation?u=76281980&t=540)** There we go.
 >
@@ -897,7 +891,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[JSON]] (3), [[Powershell]] (2), [[Microsoft Word|Word]] (2), next (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[Powershell]] (2), [[Microsoft Word|Word]] (2)
 > **Definitions:** is a  (5), means that (1)
 > **Analogies:** for example (5), just like (1)
 > **UI Navigation:** select the (2), go to (2), click on (1)
@@ -906,8 +900,7 @@ created: 2026-05-02
 > **File Paths:** syslog-assets.json (1)
 > **CLI Commands:** make (1)
 
-#### Manipulating data with logic tests and loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/manipulating-data-with-logic-tests-and-loops?u=76281980)
+#### [Manipulating data with logic tests and loops](https://www.linkedin.com/learning/powershell-automating-it-administration/manipulating-data-with-logic-tests-and-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -915,7 +908,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/powershell-automating-it-administration/manipulating-data-with-logic-tests-and-loops?u=76281980&t=5)** We then looped through content just for viewing purposes.
 >
-> **[0:09](https://www.linkedin.com/learning/powershell-automating-it-administration/manipulating-data-with-logic-tests-and-loops?u=76281980&t=9)** But of course, as we are going and working with PowerShell, there'll be times where we need to manipulate the data.
+> **[0:09](https://www.linkedin.com/learning/powershell-automating-it-administration/manipulating-data-with-logic-tests-and-loops?u=76281980&t=9)** But of course, as we are going and working with [[Powershell]], there'll be times where we need to manipulate the data.
 >
 > **[0:15](https://www.linkedin.com/learning/powershell-automating-it-administration/manipulating-data-with-logic-tests-and-loops?u=76281980&t=15)** So let's have a look at what this might be.
 >
@@ -1045,7 +1038,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/powershell-automating-it-administration/manipulating-data-with-logic-tests-and-loops?u=76281980&t=281)** So we're saying, well, if we set the success property to be green and the close to blue and the open to sign and the failed to red, and we are basically defining those and then we're saying, well, when we've got that configuration, I want you to go and check the status in uppercase.
 >
-> **[5:00](https://www.linkedin.com/learning/powershell-automating-it-administration/manipulating-data-with-logic-tests-and-loops?u=76281980&t=300)** And then this little kind of double question mark here is the ternary operator that basically is going to say if you happen to find the word success, make it green.
+> **[5:00](https://www.linkedin.com/learning/powershell-automating-it-administration/manipulating-data-with-logic-tests-and-loops?u=76281980&t=300)** And then this little kind of double question mark here is the ternary operator that basically is going to say if you happen to find the [[Microsoft Word|word]] success, make it green.
 >
 > **[5:09](https://www.linkedin.com/learning/powershell-automating-it-administration/manipulating-data-with-logic-tests-and-loops?u=76281980&t=309)** If it's failed, make it red otherwise.
 >
@@ -1113,7 +1106,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Powershell]] (4), database (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (4), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (3), scroll up (1), select the (1)
 > **CLI Commands:** make (3), find (1)
 > **Tools:** powershell (4)
@@ -1122,8 +1115,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with arrays and hash tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/working-with-arrays-and-hash-tables?u=76281980)
+#### [Working with arrays and hash tables](https://www.linkedin.com/learning/powershell-automating-it-administration/working-with-arrays-and-hash-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1169,7 +1161,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/powershell-automating-it-administration/working-with-arrays-and-hash-tables?u=76281980&t=134)** And then we can say for each.
 >
-> **[2:16](https://www.linkedin.com/learning/powershell-automating-it-administration/working-with-arrays-and-hash-tables?u=76281980&t=136)** I'm going to say for each and loop, and it'll say, "Hello John, Sarah, Mike."
+> **[2:16](https://www.linkedin.com/learning/powershell-automating-it-administration/working-with-arrays-and-hash-tables?u=76281980&t=136)** I'm going to say for each and loop, and it'll say, "Hello [[John the Ripper|John]], Sarah, Mike."
 >
 > **[2:19](https://www.linkedin.com/learning/powershell-automating-it-administration/working-with-arrays-and-hash-tables?u=76281980&t=139)** So we were able to iterate through each of those values, and we've done this in the past.
 >
@@ -1221,7 +1213,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/powershell-automating-it-administration/working-with-arrays-and-hash-tables?u=76281980&t=291)** Now, we can do it a little bit differently as well.
 >
-> **[4:54](https://www.linkedin.com/learning/powershell-automating-it-administration/working-with-arrays-and-hash-tables?u=76281980&t=294)** We can actually rewrite the PowerShell the other way around and say, "Actually, I've got my list of ages and then I want to get an enumerator, and then instead of using a for each to the enumerator, we can get the enumerator first and then iterate each object."
+> **[4:54](https://www.linkedin.com/learning/powershell-automating-it-administration/working-with-arrays-and-hash-tables?u=76281980&t=294)** We can actually rewrite the [[Powershell]] the other way around and say, "Actually, I've got my list of ages and then I want to get an enumerator, and then instead of using a for each to the enumerator, we can get the enumerator first and then iterate each object."
 >
 > **[5:11](https://www.linkedin.com/learning/powershell-automating-it-administration/working-with-arrays-and-hash-tables?u=76281980&t=311)** Remember, we use the pipe command.
 >
@@ -1239,7 +1231,7 @@ created: 2026-05-02
 >
 > **[5:31](https://www.linkedin.com/learning/powershell-automating-it-administration/working-with-arrays-and-hash-tables?u=76281980&t=331)** What are we trying to do?
 >
-> **[5:32](https://www.linkedin.com/learning/powershell-automating-it-administration/working-with-arrays-and-hash-tables?u=76281980&t=332)** Well, if I'm managing my environment, I'm managing my network and my Windows machines, et cetera, then there's going to be times where I need to go ahead and retrieve information.
+> **[5:32](https://www.linkedin.com/learning/powershell-automating-it-administration/working-with-arrays-and-hash-tables?u=76281980&t=332)** Well, if I'm managing my environment, I'm managing my network and my [[Windows]] machines, et cetera, then there's going to be times where I need to go ahead and retrieve information.
 >
 > **[5:44](https://www.linkedin.com/learning/powershell-automating-it-administration/working-with-arrays-and-hash-tables?u=76281980&t=344)** So we're going to use a standard PowerShell command.
 >
@@ -1305,7 +1297,7 @@ created: 2026-05-02
 >
 > **[8:22](https://www.linkedin.com/learning/powershell-automating-it-administration/working-with-arrays-and-hash-tables?u=76281980&t=502)** Now, we've done this before, so I'm going to go and say run selection.
 >
-> **[8:26](https://www.linkedin.com/learning/powershell-automating-it-administration/working-with-arrays-and-hash-tables?u=76281980&t=506)** I'm going to check that my JSON data is now loaded, which it will be and you can see it goes that way.
+> **[8:26](https://www.linkedin.com/learning/powershell-automating-it-administration/working-with-arrays-and-hash-tables?u=76281980&t=506)** I'm going to check that my [[JSON]] data is now loaded, which it will be and you can see it goes that way.
 >
 > **[8:32](https://www.linkedin.com/learning/powershell-automating-it-administration/working-with-arrays-and-hash-tables?u=76281980&t=512)** And if you remember how we were doing this before, JSON data, and I can then say vendors, and it gives me the vendors, and then I can add computers, and I get the list of computers.
 >
@@ -1351,7 +1343,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Powershell]] (5), [[Windows]] (2), [[JSON]] (2), next (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (6), [[Powershell]] (5), [[Windows]] (2), [[JSON]] (2)
 > **CLI Commands:** make (6), find (1)
 > **Tools:** powershell (5)
 > **UI Navigation:** select the (1), scroll up (1), click on (1)
@@ -1360,20 +1352,18 @@ created: 2026-05-02
 > **Env Vars:** json (2)
 > **Cross-References:** go back to (1)
 
-#### Understanding PowerShell error handling
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-powershell-error-handling?u=76281980)
+#### [Understanding PowerShell error handling](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-powershell-error-handling?u=76281980)
 
 
 ### 2. Remote and Delegated Administration
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding delegated administration in PowerShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-delegated-administration-in-powershell?u=76281980)
+#### [Understanding delegated administration in PowerShell](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-delegated-administration-in-powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-delegated-administration-in-powershell?u=76281980&t=0)** - [Instructor] So let's understand delegated administration in PowerShell.
+> **[0:00](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-delegated-administration-in-powershell?u=76281980&t=0)** - [Instructor] So let's understand delegated administration in [[Powershell]].
 >
 > **[0:05](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-delegated-administration-in-powershell?u=76281980&t=5)** So first off, what is delegated administration?
 >
@@ -1403,7 +1393,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-delegated-administration-in-powershell?u=76281980&t=152)** This approach provides a more streamlined and scalable way to manage user access, reducing the complexity and maintenance overhead associated with managing access on a user by user basis.
 >
-> **[2:44](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-delegated-administration-in-powershell?u=76281980&t=164)** In PowerShell, role-based access control is implemented using various tools and techniques, including security groups, active directory and built-in PowerShell commands and modules.
+> **[2:44](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-delegated-administration-in-powershell?u=76281980&t=164)** In PowerShell, role-based access control is implemented using various tools and techniques, including security groups, [[Active Directory]] and built-in PowerShell commands and modules.
 >
 > **[2:56](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-delegated-administration-in-powershell?u=76281980&t=176)** Now, when we talk about custom roles, then of course creating custom roles for PowerShell allows you to define precisely the permission that you as the administrator would need to perform specific tasks.
 >
@@ -1437,7 +1427,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-delegated-administration-in-powershell?u=76281980&t=290)** Now what this file does is this will be connected to the PowerShell session.
 >
-> **[4:56](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-delegated-administration-in-powershell?u=76281980&t=296)** Now, to create the rest of it, we would need to create the capability file, which is the truly limiting file where you can see we give it a name, we tell it the modules it can have access to as well as the cmdlets it can use and then any functions it's able to access.
+> **[4:56](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-delegated-administration-in-powershell?u=76281980&t=296)** Now, to create the [[Representational State Transfer (REST)|rest]] of it, we would need to create the capability file, which is the truly limiting file where you can see we give it a name, we tell it the modules it can have access to as well as the cmdlets it can use and then any functions it's able to access.
 >
 > **[5:12](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-delegated-administration-in-powershell?u=76281980&t=312)** We can then use the import role capability file to import that into the current session and then of course we have what's called add role member where we can assign the role member to do this.
 >
@@ -1445,14 +1435,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (12), [[Security]] (6), teams (3), feature (1), functional (1)
+> **Frameworks & Libraries:** [[Powershell]] (12), [[Active Directory]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** powershell (12)
 > **Definitions:** refers to (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring remote access settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-access-settings?u=76281980)
+#### [Configuring remote access settings](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-access-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1460,7 +1449,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-access-settings?u=76281980&t=4)** We touched on this idea of roles and capabilities.
 >
-> **[0:08](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-access-settings?u=76281980&t=8)** Now, when we create roles and capabilities they're done using very specific PowerShell cmdlets and then we have to connect the PowerShell session that we are in or that we wish to create to that capability and role configuration.
+> **[0:08](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-access-settings?u=76281980&t=8)** Now, when we create roles and capabilities they're done using very specific [[Powershell]] cmdlets and then we have to connect the PowerShell session that we are in or that we wish to create to that capability and role configuration.
 >
 > **[0:24](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-access-settings?u=76281980&t=24)** So the first thing we're going to do here is we're going to create a new PowerShell directory.
 >
@@ -1612,7 +1601,7 @@ created: 2026-05-02
 >
 > **[6:46](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-access-settings?u=76281980&t=406)** Scroll all the way down to the list of services that are available.
 >
-> **[6:50](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-access-settings?u=76281980&t=410)** And right towards the bottom remember we have the Windows remote management.
+> **[6:50](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-access-settings?u=76281980&t=410)** And right towards the bottom remember we have the [[Windows]] remote management.
 >
 > **[6:54](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-access-settings?u=76281980&t=414)** I'm just going to say restart.
 >
@@ -1628,7 +1617,7 @@ created: 2026-05-02
 >
 > **[7:12](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-access-settings?u=76281980&t=432)** Now, if I flick to a different PowerShell window what I can actually do now is say go and get me PS session configuration.
 >
-> **[7:20](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-access-settings?u=76281980&t=440)** And you'll see it lists all of the PS configuration options that are there by default which Microsoft provide.
+> **[7:20](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-access-settings?u=76281980&t=440)** And you'll see it lists all of the PS configuration options that are there by default which [[Microsoft]] provide.
 >
 > **[7:26](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-access-settings?u=76281980&t=446)** However, it does now include my JEA blocking.
 >
@@ -1644,7 +1633,7 @@ created: 2026-05-02
 >
 > **[7:51](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-access-settings?u=76281980&t=471)** But actually what's nice is to be able to go and convert that to a module, putting it into the module directory on Windows PowerShell on the machine, and then it's being available across the board.
 >
-> **[8:02](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-access-settings?u=76281980&t=482)** So this syntax is very similar to the rest.
+> **[8:02](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-access-settings?u=76281980&t=482)** So this syntax is very similar to the [[Representational State Transfer (REST)|rest]].
 >
 > **[8:05](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-access-settings?u=76281980&t=485)** We're going to say this is the path that we wish to create.
 >
@@ -1736,7 +1725,7 @@ created: 2026-05-02
 >
 > **[12:02](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-access-settings?u=76281980&t=722)** So you can see that the JEA controls are now working as expected, because I'm able to restrict to the list of commands that I can use by using that capability.
 >
-> **[12:15](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-access-settings?u=76281980&t=735)** Now, if I just exit this session here I suppose the question would be is what would be the impact if, for example, I was not a member of that security group within active directory.
+> **[12:15](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-access-settings?u=76281980&t=735)** Now, if I just exit this session here I suppose the question would be is what would be the impact if, for example, I was not a member of that security group within [[Active Directory]].
 >
 > **[12:31](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-access-settings?u=76281980&t=751)** So right now I'm a member of the security group for delegation.
 >
@@ -1756,7 +1745,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (15), [[Security]] (5), [[Windows]] (3), [[Representational State Transfer (REST)|Rest]] (2), management (1)
+> **Frameworks & Libraries:** [[Powershell]] (15), [[Windows]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft]] (1), [[Active Directory]] (1)
 > **Env Vars:** jea (12), win (3), psrc (1), pssc (1), psd (1)
 > **Tools:** powershell (15), visual studio (1)
 > **CLI Commands:** make (3), rm (3), find (2)
@@ -1765,8 +1754,7 @@ created: 2026-05-02
 > **Definitions:** is called (1), is a  (1), is an  (1)
 > **UI Navigation:** go to (2)
 
-#### Configuring remote management settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-management-settings?u=76281980)
+#### [Configuring remote management settings](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-management-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1776,9 +1764,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-management-settings?u=76281980&t=10)** So limiting what someone can do when they connect in a session.
 >
-> **[0:14](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-management-settings?u=76281980&t=14)** Now one of the advantages of using PowerShell is that it does provide remote access, remote access to Windows machines by default.
+> **[0:14](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-management-settings?u=76281980&t=14)** Now one of the advantages of using [[Powershell]] is that it does provide remote access, remote access to [[Windows]] machines by default.
 >
-> **[0:22](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-management-settings?u=76281980&t=22)** And then of course we can, with newer versions of PowerShell, connect to others such as Linux, Mac OS, et cetera.
+> **[0:22](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-management-settings?u=76281980&t=22)** And then of course we can, with newer versions of PowerShell, connect to others such as [[Linux]], Mac OS, et cetera.
 >
 > **[0:30](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-management-settings?u=76281980&t=30)** Now if we're using a Windows machine to do our connection then of course we do need to go through the configuration that says I want to allow this machine to be the remoting machine.
 >
@@ -1814,7 +1802,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-management-settings?u=76281980&t=125)** So what I'm going to do is, I've got two variables here.
 >
-> **[2:07](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-management-settings?u=76281980&t=127)** One is the username, one is the IP address of my Ubuntu Linux machine.
+> **[2:07](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-management-settings?u=76281980&t=127)** One is the username, one is the IP address of my [[Ubuntu]] Linux machine.
 >
 > **[2:11](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-management-settings?u=76281980&t=131)** So I'm going to just populate those.
 >
@@ -1846,7 +1834,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-management-settings?u=76281980&t=195)** So let me just clear this and then go back to here.
 >
-> **[3:19](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-management-settings?u=76281980&t=199)** I'm going to go from wget and I'm going to scroll all the way along where first off, it's going to download a specific package which is going to be a package from Microsoft.
+> **[3:19](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-management-settings?u=76281980&t=199)** I'm going to go from wget and I'm going to scroll all the way along where first off, it's going to download a specific package which is going to be a package from [[Microsoft]].
 >
 > **[3:28](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-management-settings?u=76281980&t=208)** And then of course you can see we've got this open the package up here and then we're going to use what's called sudo and start to install everything to do with PowerShell.
 >
@@ -2002,7 +1990,7 @@ created: 2026-05-02
 >
 > **[9:55](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-management-settings?u=76281980&t=595)** Okay, so we are back in here.
 >
-> **[9:57](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-management-settings?u=76281980&t=597)** So I'm going to launch a terminal and I'm just going to zoom this in.
+> **[9:57](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-management-settings?u=76281980&t=597)** So I'm going to launch a terminal and I'm just going to [[Zoom]] this in.
 >
 > **[10:01](https://www.linkedin.com/learning/powershell-automating-it-administration/configuring-remote-management-settings?u=76281980&t=601)** Okay, and the first thing we're going to do is we're going to look at a specific configuration file.
 >
@@ -2068,7 +2056,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (20), [[Windows]] (17), [[Linux]] (11), [[Ubuntu]] (9), management (1)
+> **Frameworks & Libraries:** [[Powershell]] (20), [[Windows]] (17), [[Linux]] (11), [[Ubuntu]] (9), [[Microsoft]] (1)
 > **CLI Commands:** ssh (15), make (7), wget (3), find (2), sudo (2)
 > **Tools:** powershell (20), terminal (2), visual studio (1)
 > **Env Vars:** ssh (15), hdp (1), tcp (1), url (1), win (1)
@@ -2077,12 +2065,11 @@ created: 2026-05-02
 > **Analogies:** such as (2), for example (1)
 > **UI Navigation:** open the (1), go to (1)
 
-#### Managing remote sessions and connections
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/managing-remote-sessions-and-connections?u=76281980)
+#### [Managing remote sessions and connections](https://www.linkedin.com/learning/powershell-automating-it-administration/managing-remote-sessions-and-connections?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-automating-it-administration/managing-remote-sessions-and-connections?u=76281980&t=0)** - [Instructor] So once we have remoting configured just as we did on the Linux machine, obviously a slightly different process on a Windows server or a client, we can then start to manage the types of connections that we create.
+> **[0:00](https://www.linkedin.com/learning/powershell-automating-it-administration/managing-remote-sessions-and-connections?u=76281980&t=0)** - [Instructor] So once we have remoting configured just as we did on the [[Linux]] machine, obviously a slightly different process on a [[Windows Server]] or a client, we can then start to manage the types of connections that we create.
 >
 > **[0:13](https://www.linkedin.com/learning/powershell-automating-it-administration/managing-remote-sessions-and-connections?u=76281980&t=13)** So what we're going to do here is we're going to first connect to my Windows server.
 >
@@ -2114,7 +2101,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/powershell-automating-it-administration/managing-remote-sessions-and-connections?u=76281980&t=94)** So it's an ID of seven and it's a WSMan transport one.
 >
-> **[1:38](https://www.linkedin.com/learning/powershell-automating-it-administration/managing-remote-sessions-and-connections?u=76281980&t=98)** So the standard instrumentation for management, the name of the server, it's opened and it's using PowerShell as the configuration name.
+> **[1:38](https://www.linkedin.com/learning/powershell-automating-it-administration/managing-remote-sessions-and-connections?u=76281980&t=98)** So the standard instrumentation for management, the name of the server, it's opened and it's using [[Powershell]] as the configuration name.
 >
 > **[1:47](https://www.linkedin.com/learning/powershell-automating-it-administration/managing-remote-sessions-and-connections?u=76281980&t=107)** Now, of course, remember when we connected using the JEA restrictions, the configuration name would've been different even though it incorporates PowerShell.
 >
@@ -2158,7 +2145,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/powershell-automating-it-administration/managing-remote-sessions-and-connections?u=76281980&t=218)** And this is the session that I have created.
 >
-> **[3:41](https://www.linkedin.com/learning/powershell-automating-it-administration/managing-remote-sessions-and-connections?u=76281980&t=221)** Now, of course if I'd created a new PS session to the Ubuntu server I would also have that one listed as well.
+> **[3:41](https://www.linkedin.com/learning/powershell-automating-it-administration/managing-remote-sessions-and-connections?u=76281980&t=221)** Now, of course if I'd created a new PS session to the [[Ubuntu]] server I would also have that one listed as well.
 >
 > **[3:47](https://www.linkedin.com/learning/powershell-automating-it-administration/managing-remote-sessions-and-connections?u=76281980&t=227)** So I would have to choose the session that I wanted to use, but I can pass the session 'cause we have one.
 >
@@ -2168,7 +2155,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/powershell-automating-it-administration/managing-remote-sessions-and-connections?u=76281980&t=242)** So if I say get service and run that here this is going to run all of the services and show me them that are listed on this current machine.
 >
-> **[4:11](https://www.linkedin.com/learning/powershell-automating-it-administration/managing-remote-sessions-and-connections?u=76281980&t=251)** So this is my Windows 11 machine.
+> **[4:11](https://www.linkedin.com/learning/powershell-automating-it-administration/managing-remote-sessions-and-connections?u=76281980&t=251)** So this is my [[Windows]] 11 machine.
 >
 > **[4:15](https://www.linkedin.com/learning/powershell-automating-it-administration/managing-remote-sessions-and-connections?u=76281980&t=255)** So let me just clear that out.
 >
@@ -2240,7 +2227,7 @@ created: 2026-05-02
 >
 > **[7:05](https://www.linkedin.com/learning/powershell-automating-it-administration/managing-remote-sessions-and-connections?u=76281980&t=425)** So I'm on Windows 11 and I want to say get AD user.
 >
-> **[7:12](https://www.linkedin.com/learning/powershell-automating-it-administration/managing-remote-sessions-and-connections?u=76281980&t=432)** Okay, get AD user is active directory.
+> **[7:12](https://www.linkedin.com/learning/powershell-automating-it-administration/managing-remote-sessions-and-connections?u=76281980&t=432)** Okay, get AD user is [[Active Directory]].
 >
 > **[7:15](https://www.linkedin.com/learning/powershell-automating-it-administration/managing-remote-sessions-and-connections?u=76281980&t=435)** It's got nothing to do with Windows 11, unless I've installed the management pack and I have the modules in there, but I can't actually run get AD user, 'cause what I would like to do is see a list of all the users in the active directory.
 >
@@ -2349,12 +2336,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** select the (1)
 
-#### Connecting to Windows Servers remotely and performing tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/connecting-to-windows-servers-remotely-and-performing-tasks?u=76281980)
+#### [Connecting to Windows Servers remotely and performing tasks](https://www.linkedin.com/learning/powershell-automating-it-administration/connecting-to-windows-servers-remotely-and-performing-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-automating-it-administration/connecting-to-windows-servers-remotely-and-performing-tasks?u=76281980&t=0)** - [Instructor] So now that we've remotely connected to Linux and also to a Windows server, now let's touch on some of the things that we can do remotely.
+> **[0:00](https://www.linkedin.com/learning/powershell-automating-it-administration/connecting-to-windows-servers-remotely-and-performing-tasks?u=76281980&t=0)** - [Instructor] So now that we've remotely connected to [[Linux]] and also to a [[Windows Server]], now let's touch on some of the things that we can do remotely.
 >
 > **[0:09](https://www.linkedin.com/learning/powershell-automating-it-administration/connecting-to-windows-servers-remotely-and-performing-tasks?u=76281980&t=9)** So first off, we obviously have our remote server name and our credential.
 >
@@ -2382,7 +2368,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/powershell-automating-it-administration/connecting-to-windows-servers-remotely-and-performing-tasks?u=76281980&t=60)** Okay, perfect, so let's come out of that and let's clear that.
 >
-> **[1:03](https://www.linkedin.com/learning/powershell-automating-it-administration/connecting-to-windows-servers-remotely-and-performing-tasks?u=76281980&t=63)** Now let's talk about installing specific roles and features because of course one of the advantages of PowerShell on Windows is that we can hook into its ability to install specific things and remove things and make configuration adjustments.
+> **[1:03](https://www.linkedin.com/learning/powershell-automating-it-administration/connecting-to-windows-servers-remotely-and-performing-tasks?u=76281980&t=63)** Now let's talk about installing specific roles and features because of course one of the advantages of [[Powershell]] on [[Windows]] is that we can hook into its ability to install specific things and remove things and make configuration adjustments.
 >
 > **[1:18](https://www.linkedin.com/learning/powershell-automating-it-administration/connecting-to-windows-servers-remotely-and-performing-tasks?u=76281980&t=78)** So let's say you wanted to build a new machine, you've got the server built, the network team gave it to you, you can then just simply come in and say, hey, connect to the server, invoke command, run selection, and this one's going to go ahead and install the web server.
 >
@@ -2492,7 +2478,7 @@ created: 2026-05-02
 >
 > **[6:27](https://www.linkedin.com/learning/powershell-automating-it-administration/connecting-to-windows-servers-remotely-and-performing-tasks?u=76281980&t=387)** So it does allow us to make adjustments to that as well.
 >
-> **[6:31](https://www.linkedin.com/learning/powershell-automating-it-administration/connecting-to-windows-servers-remotely-and-performing-tasks?u=76281980&t=391)** And of course, if I click into here admin tools, go to Active Directory Users and Computers and just go into users, you can see that my new user exists right here with those property values as expected.
+> **[6:31](https://www.linkedin.com/learning/powershell-automating-it-administration/connecting-to-windows-servers-remotely-and-performing-tasks?u=76281980&t=391)** And of course, if I click into here admin tools, go to [[Active Directory]] Users and Computers and just go into users, you can see that my new user exists right here with those property values as expected.
 >
 > **[6:45](https://www.linkedin.com/learning/powershell-automating-it-administration/connecting-to-windows-servers-remotely-and-performing-tasks?u=76281980&t=405)** And of course if I'm looking at the groups, I've got various groups that list here, but of course, there's not really a user's group necessarily because every Active Directory account or local account is added to the user's group anyway because of that's how it creates.
 >
@@ -2546,7 +2532,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (4), [[Windows]] (4), web (3), [[Windows Server]] (2), [[Active Directory]] (2)
+> **Frameworks & Libraries:** [[Powershell]] (4), [[Windows]] (4), [[Windows Server]] (2), [[Active Directory]] (2), [[Linux]] (1)
 > **CLI Commands:** make (6)
 > **Prerequisites:** install (3), configure (2)
 > **Tools:** powershell (4)
@@ -2555,8 +2541,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Performing remote administration tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980)
+#### [Performing remote administration tasks](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2566,7 +2551,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=17)** So I'm actually going to say enter PS session, 'cause I want to interact directly with the machine.
 >
-> **[0:23](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=23)** So here we are, I am now connected to my Windows server.
+> **[0:23](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=23)** So here we are, I am now connected to my [[Windows Server]].
 >
 > **[0:27](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=27)** And the first thing we might want to do is get some system information.
 >
@@ -2586,7 +2571,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=62)** Now, I could get this information and return it back if I wanted to, but this allows me to see it dynamically that's there.
 >
-> **[1:09](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=69)** If I also wanted to perhaps run Windows updates I could do that as well.
+> **[1:09](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=69)** If I also wanted to perhaps run [[Windows]] updates I could do that as well.
 >
 > **[1:14](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=74)** I'm actually just going to do accept all, and not the auto reboot, and I'll say run selection.
 >
@@ -2612,7 +2597,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=122)** So let me clear this bottom section here, and then what we're going to do is we'll say get-module, and I just want to see what's been loaded.
 >
-> **[2:11](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=131)** So directly in this session we have PowerShell Diagnostics Utility and PSS Edit.
+> **[2:11](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=131)** So directly in this session we have [[Powershell]] Diagnostics Utility and PSS Edit.
 >
 > **[2:17](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=137)** So I need to import a specific module into this session.
 >
@@ -2636,7 +2621,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=188)** Which I do.
 >
-> **[3:09](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=189)** And then of course I do want to trust the PowerShell Gallery it's the Microsoft Gallery.
+> **[3:09](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=189)** And then of course I do want to trust the PowerShell Gallery it's the [[Microsoft]] Gallery.
 >
 > **[3:13](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=193)** So why would I not want to trust it?
 >
@@ -2672,7 +2657,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=265)** So it's installed.
 >
-> **[4:26](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=266)** So to check that we can say get-module, and sure enough it now says Parashell, get Parashell management, PS read, package management, you know, we've got this extra kind of piece that's in here.
+> **[4:26](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=266)** So to check that we can say get-module, and sure enough it now says Parashell, get Parashell management, PS read, [[Package Management]], you know, we've got this extra kind of piece that's in here.
 >
 > **[4:40](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=280)** So now I'm going to say import-module, PSWindowsUpdate.
 >
@@ -2716,7 +2701,7 @@ created: 2026-05-02
 >
 > **[6:31](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=391)** I don't have anything else.
 >
-> **[6:33](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=393)** For example, you know, creating a backup of something or you know, managing active directory or things like that.
+> **[6:33](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=393)** For example, you know, creating a backup of something or you know, managing [[Active Directory]] or things like that.
 >
 > **[6:42](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=402)** So I need to know where to get that specific from.
 >
@@ -2742,7 +2727,7 @@ created: 2026-05-02
 >
 > **[7:36](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=456)** And so we can use PowerShell to do that one.
 >
-> **[7:39](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=459)** We can then go through and say, well, if I go through here and say get-command and then maybe say backup, like so, it'll come back and you can see every command available that has the word backup built into it.
+> **[7:39](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=459)** We can then go through and say, well, if I go through here and say get-command and then maybe say backup, like so, it'll come back and you can see every command available that has the [[Microsoft Word|word]] backup built into it.
 >
 > **[7:55](https://www.linkedin.com/learning/powershell-automating-it-administration/performing-remote-administration-tasks?u=76281980&t=475)** So backup group policy, backup web configuration, et cetera.
 >
@@ -2860,7 +2845,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), [[Powershell]] (6), data (3), [[Microsoft Word|Word]] (3), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Powershell]] (6), [[Microsoft Word|Word]] (3), [[Microsoft]] (2), [[Windows Server]] (1)
 > **CLI Commands:** find (8), make (1)
 > **Prerequisites:** install (9)
 > **Tools:** powershell (6), visual studio (2)
@@ -2874,8 +2859,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding PowerShell background jobs
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-powershell-background-jobs?u=76281980)
+#### [Understanding PowerShell background jobs](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-powershell-background-jobs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2883,11 +2867,11 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-powershell-background-jobs?u=76281980&t=2)** Background jobs are tasks that are performed in the background of an application or system without the user needing to actively monitor or manage them.
 >
-> **[0:13](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-powershell-background-jobs?u=76281980&t=13)** They're typically used for tasks that are too time-consuming or resource-intensive to be performed in real time such as large data processing jobs, file uploads, or even sending emails.
+> **[0:13](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-powershell-background-jobs?u=76281980&t=13)** They're typically used for tasks that are too time-consuming or resource-intensive to be performed in real time such as large [[Data Processing]] jobs, file uploads, or even sending emails.
 >
 > **[0:26](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-powershell-background-jobs?u=76281980&t=26)** The purpose of the background job is to allow the user to continue working on other tasks while the job is running in the background.
 >
-> **[0:35](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-powershell-background-jobs?u=76281980&t=35)** PowerShell background jobs offer several benefits that can significantly improve workflow and efficiency.
+> **[0:35](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-powershell-background-jobs?u=76281980&t=35)** [[Powershell]] background jobs offer several benefits that can significantly improve workflow and efficiency.
 >
 > **[0:42](https://www.linkedin.com/learning/powershell-automating-it-administration/understanding-powershell-background-jobs?u=76281980&t=42)** Firstly, they can improve system performance and increase productivity by allowing users to delegate long-running or resource-intensive tasks to the background, freeing up time for other work.
 >
@@ -2929,14 +2913,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (8), data (3), [[Security]] (3), [[Automation]] (2), application (1)
+> **Frameworks & Libraries:** [[Powershell]] (8), [[Data Processing]] (1)
 > **Tools:** powershell (8)
 > **Analogies:** such as (4)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating and managing background jobs
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/creating-and-managing-background-jobs?u=76281980)
+#### [Creating and managing background jobs](https://www.linkedin.com/learning/powershell-automating-it-administration/creating-and-managing-background-jobs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2950,7 +2933,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/powershell-automating-it-administration/creating-and-managing-background-jobs?u=76281980&t=19)** Now I've changed my structure around a little bit here.
 >
-> **[0:23](https://www.linkedin.com/learning/powershell-automating-it-administration/creating-and-managing-background-jobs?u=76281980&t=23)** So what we can see is I've got my PowerShell window on the left and I've got my visual studio code on the right hand side.
+> **[0:23](https://www.linkedin.com/learning/powershell-automating-it-administration/creating-and-managing-background-jobs?u=76281980&t=23)** So what we can see is I've got my [[Powershell]] window on the left and I've got my visual studio code on the right hand side.
 >
 > **[0:30](https://www.linkedin.com/learning/powershell-automating-it-administration/creating-and-managing-background-jobs?u=76281980&t=30)** It's just easier to kind of split it this way for longer pieces of code.
 >
@@ -3187,8 +3170,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 
-#### Monitoring and retrieving results of background jobs
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/monitoring-and-retrieving-results-of-background-jobs?u=76281980)
+#### [Monitoring and retrieving results of background jobs](https://www.linkedin.com/learning/powershell-automating-it-administration/monitoring-and-retrieving-results-of-background-jobs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3292,7 +3274,7 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/powershell-automating-it-administration/monitoring-and-retrieving-results-of-background-jobs?u=76281980&t=317)** So let's just make this a fraction wider here so we can see.
 >
-> **[5:21](https://www.linkedin.com/learning/powershell-automating-it-administration/monitoring-and-retrieving-results-of-background-jobs?u=76281980&t=321)** And what I'm going to do is kick off a new job and this time I want it to stop a process, which is quite a standard thing for IT automation task is to have something stop or restart something as part of a flow.
+> **[5:21](https://www.linkedin.com/learning/powershell-automating-it-administration/monitoring-and-retrieving-results-of-background-jobs?u=76281980&t=321)** And what I'm going to do is kick off a new job and this time I want it to stop a process, which is quite a standard thing for [[IT Automation]] task is to have something stop or restart something as part of a flow.
 >
 > **[5:33](https://www.linkedin.com/learning/powershell-automating-it-administration/monitoring-and-retrieving-results-of-background-jobs?u=76281980&t=333)** So I'm going to have a job, start the job, and in the script block I'm going to say stop process and I'm going to give it a name of non-existent process, so just non-existent.
 >
@@ -3378,7 +3360,7 @@ created: 2026-05-02
 >
 > **[9:44](https://www.linkedin.com/learning/powershell-automating-it-administration/monitoring-and-retrieving-results-of-background-jobs?u=76281980&t=584)** And then what I'm going to do is say for each of the computers in this list, I want you to wait while the jobs are running get the job where the state is equal to running, and then make sure the count is greater or equal to the maximum number of jobs.
 >
-> **[10:00](https://www.linkedin.com/learning/powershell-automating-it-administration/monitoring-and-retrieving-results-of-background-jobs?u=76281980&t=600)** So if I try to issue five and the maximum's two, it should only issue two, and then once it's finished, it should then do the rest.
+> **[10:00](https://www.linkedin.com/learning/powershell-automating-it-administration/monitoring-and-retrieving-results-of-background-jobs?u=76281980&t=600)** So if I try to issue five and the maximum's two, it should only issue two, and then once it's finished, it should then do the [[Representational State Transfer (REST)|rest]].
 >
 > **[10:08](https://www.linkedin.com/learning/powershell-automating-it-administration/monitoring-and-retrieving-results-of-background-jobs?u=76281980&t=608)** And then it will sleep and wait and keep looping until it reaches that and then when it's successfully done the two, it will then start the jobs of the next ones.
 >
@@ -3398,7 +3380,7 @@ created: 2026-05-02
 >
 > **[11:11](https://www.linkedin.com/learning/powershell-automating-it-administration/monitoring-and-retrieving-results-of-background-jobs?u=76281980&t=671)** So we can throttle the jobs as we need to from going out and kind of blasting the network or causing issues on the machine.
 >
-> **[11:19](https://www.linkedin.com/learning/powershell-automating-it-administration/monitoring-and-retrieving-results-of-background-jobs?u=76281980&t=679)** For example, I mean I could have ran it against 1,000 machines, but eventually my PowerShell would probably break if I tried to issue that many commands in one go.
+> **[11:19](https://www.linkedin.com/learning/powershell-automating-it-administration/monitoring-and-retrieving-results-of-background-jobs?u=76281980&t=679)** For example, I mean I could have ran it against 1,000 machines, but eventually my [[Powershell]] would probably break if I tried to issue that many commands in one go.
 >
 > **[11:28](https://www.linkedin.com/learning/powershell-automating-it-administration/monitoring-and-retrieving-results-of-background-jobs?u=76281980&t=688)** So this is a way to control how that works.
 >
@@ -3410,7 +3392,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), next (2), [[Powershell]] (2), [[IT Automation]] (1), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Powershell]] (2), [[IT Automation]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** pss (1), sim (1)
 > **Cross-References:** go back to (2)
@@ -3419,8 +3401,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Automating administrative tasks with scheduled jobs
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/automating-administrative-tasks-with-scheduled-jobs?u=76281980)
+#### [Automating administrative tasks with scheduled jobs](https://www.linkedin.com/learning/powershell-automating-it-administration/automating-administrative-tasks-with-scheduled-jobs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3442,7 +3423,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/powershell-automating-it-administration/automating-administrative-tasks-with-scheduled-jobs?u=76281980&t=50)** Scheduling these tasks for off peak hours can optimize resource usage and maintain system performance during the times of high demand.
 >
-> **[0:58](https://www.linkedin.com/learning/powershell-automating-it-administration/automating-administrative-tasks-with-scheduled-jobs?u=76281980&t=58)** With PowerShell, you can precisely control when these tasks are run, down to the minute and even the second.
+> **[0:58](https://www.linkedin.com/learning/powershell-automating-it-administration/automating-administrative-tasks-with-scheduled-jobs?u=76281980&t=58)** With [[Powershell]], you can precisely control when these tasks are run, down to the minute and even the second.
 >
 > **[1:05](https://www.linkedin.com/learning/powershell-automating-it-administration/automating-administrative-tasks-with-scheduled-jobs?u=76281980&t=65)** And then it's about Asynchronous Operations and Multitasking.
 >
@@ -3458,7 +3439,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/powershell-automating-it-administration/automating-administrative-tasks-with-scheduled-jobs?u=76281980&t=109)** It's a background job that runs a command or script in the background within a separate concurrent session of PowerShell.
 >
-> **[1:57](https://www.linkedin.com/learning/powershell-automating-it-administration/automating-administrative-tasks-with-scheduled-jobs?u=76281980&t=117)** On the other hand, a PowerShell scheduled task is a task scheduled through the Windows Task Scheduler, which is a more comprehensive system-wide service.
+> **[1:57](https://www.linkedin.com/learning/powershell-automating-it-administration/automating-administrative-tasks-with-scheduled-jobs?u=76281980&t=117)** On the other hand, a PowerShell scheduled task is a task scheduled through the [[Windows]] Task Scheduler, which is a more comprehensive system-wide service.
 >
 > **[2:07](https://www.linkedin.com/learning/powershell-automating-it-administration/automating-administrative-tasks-with-scheduled-jobs?u=76281980&t=127)** It can be any executable file, script, or command-line instruction, and is not limited to just running Powershell commands or scripts.
 >
@@ -3498,7 +3479,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/powershell-automating-it-administration/automating-administrative-tasks-with-scheduled-jobs?u=76281980&t=280)** The created task is a Window-ScheduledTask and it can run a variety of actions, not just PowerShell scripts such as, launching applications and running scripts in other languages.
 >
-> **[4:49](https://www.linkedin.com/learning/powershell-automating-it-administration/automating-administrative-tasks-with-scheduled-jobs?u=76281980&t=289)** For example, Python.
+> **[4:49](https://www.linkedin.com/learning/powershell-automating-it-administration/automating-administrative-tasks-with-scheduled-jobs?u=76281980&t=289)** For example, [[Python (Programming Language)|Python]].
 >
 > **[4:52](https://www.linkedin.com/learning/powershell-automating-it-administration/automating-administrative-tasks-with-scheduled-jobs?u=76281980&t=292)** The task created by the Register-ScheduledTasks are managed through the Task Scheduler, which is a Window Service that's more robust and has more options than just the PowerShell Jobs.
 >
@@ -3580,7 +3561,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (23), [[Windows]] (4), [[Automation]] (1), data (1), business (1)
+> **Frameworks & Libraries:** [[Powershell]] (23), [[Windows]] (4), [[Python (Programming Language)|Python]] (1)
 > **Tools:** powershell (23)
 > **Analogies:** for example (4), such as (4)
 > **Definitions:** is a  (4)
@@ -3588,32 +3569,30 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - so (1)
 
-#### Creating scheduled tasks within Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/creating-scheduled-tasks-within-windows?u=76281980)
+#### [Creating scheduled tasks within Windows](https://www.linkedin.com/learning/powershell-automating-it-administration/creating-scheduled-tasks-within-windows?u=76281980)
 
 
 ### Conclusion
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-automating-it-administration/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/powershell-automating-it-administration/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-automating-it-administration/next-steps?u=76281980&t=0)** - [Liam] I hope you've enjoyed this course as much as I've enjoyed being able to put it together for you, and then walk you through using PowerShell for automating IT administration tasks.
+> **[0:00](https://www.linkedin.com/learning/powershell-automating-it-administration/next-steps?u=76281980&t=0)** - [Liam] I hope you've enjoyed this course as much as I've enjoyed being able to put it together for you, and then walk you through using [[Powershell]] for automating IT administration tasks.
 >
-> **[0:09](https://www.linkedin.com/learning/powershell-automating-it-administration/next-steps?u=76281980&t=9)** I recommend that your next steps are create a lab environment that includes a client and a server and also include some non-Windows environments, such as Linux or even macOS.
+> **[0:09](https://www.linkedin.com/learning/powershell-automating-it-administration/next-steps?u=76281980&t=9)** I recommend that your next steps are create a lab environment that includes a client and a server and also include some non-[[Windows]] environments, such as [[Linux]] or even macOS.
 >
 > **[0:20](https://www.linkedin.com/learning/powershell-automating-it-administration/next-steps?u=76281980&t=20)** Second, review the PowerShell Documentation.
 >
-> **[0:23](https://www.linkedin.com/learning/powershell-automating-it-administration/next-steps?u=76281980&t=23)** There are many, many scripts available and samples available either on the GitHub for PowerShell, or you can go to the PowerShell Gallery, or you can go to the PowerShell Documentation for Microsoft.
+> **[0:23](https://www.linkedin.com/learning/powershell-automating-it-administration/next-steps?u=76281980&t=23)** There are many, many scripts available and samples available either on the [[GitHub]] for PowerShell, or you can go to the PowerShell Gallery, or you can go to the PowerShell Documentation for [[Microsoft]].
 >
 > **[0:34](https://www.linkedin.com/learning/powershell-automating-it-administration/next-steps?u=76281980&t=34)** Practice the commands within the lab environment, so if you want to test remoting from a client to a server and vice versa, do it in the safety of the lab environment.
 >
 > **[0:43](https://www.linkedin.com/learning/powershell-automating-it-administration/next-steps?u=76281980&t=43)** And then you can also practice scheduling tasks and retrieving data, et cetera.
 >
-> **[0:48](https://www.linkedin.com/learning/powershell-automating-it-administration/next-steps?u=76281980&t=48)** And then lastly, take some other PowerShell courses here on LinkedIn Learning.
+> **[0:48](https://www.linkedin.com/learning/powershell-automating-it-administration/next-steps?u=76281980&t=48)** And then lastly, take some other PowerShell courses here on [[LinkedIn]] Learning.
 >
 > **[0:52](https://www.linkedin.com/learning/powershell-automating-it-administration/next-steps?u=76281980&t=52)** Regardless of where you go from here with PowerShell, I encourage you to dig deeper and deeper into how it can benefit you.
 >
@@ -3627,7 +3606,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (10), next (2), [[Windows]] (1), [[Linux]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (10), [[Windows]] (1), [[Linux]] (1), [[GitHub]] (1), [[Microsoft]] (1)
 > **Tools:** powershell (10), github (1)
 > **UI Navigation:** go to (2)
 > **Code Identifiers:** macos (1)

@@ -97,14 +97,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The need for model monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/the-need-for-model-monitoring?u=76281980)
+#### [The need for model monitoring](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/the-need-for-model-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/the-need-for-model-monitoring?u=76281980&t=0)** - In machine learning, monitoring your models is critical to ensure that models continue to perform in production with expected levels of accuracy and fairness.
 >
-> **[0:12](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/the-need-for-model-monitoring?u=76281980&t=12)** So in this LinkedIn Learning course, we will discuss the basics of ensuring that drift and bias don't creep into the models you are building.
+> **[0:12](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/the-need-for-model-monitoring?u=76281980&t=12)** So in this [[LinkedIn]] Learning course, we will discuss the basics of ensuring that drift and bias don't creep into the models you are building.
 >
 > **[0:22](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/the-need-for-model-monitoring?u=76281980&t=22)** We will also work on a couple of exercises to show how this can be done well.
 >
@@ -116,18 +115,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - in (1)
 
-#### Setting up the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/setting-up-the-exercise-files?u=76281980)
+#### [Setting up the exercise files](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/setting-up-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/setting-up-the-exercise-files?u=76281980&t=0)** - [Instructor] In this video, we will set up the exercise files and the environment to use in this course.
 >
-> **[0:06](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/setting-up-the-exercise-files?u=76281980&t=6)** All course exercises are built using Python 3.9.
+> **[0:06](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/setting-up-the-exercise-files?u=76281980&t=6)** All course exercises are built using [[Python (Programming Language)|Python]] 3.9.
 >
 > **[0:11](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/setting-up-the-exercise-files?u=76281980&t=11)** We will be using Anaconda and Jupyter Notebooks for these exercises.
 >
@@ -149,9 +147,9 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/setting-up-the-exercise-files?u=76281980&t=72)** Open the command prompt window.
 >
-> **[1:14](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/setting-up-the-exercise-files?u=76281980&t=74)** Please note that if you are on Windows, you would want to use the Anaconda command prompt for the same.
+> **[1:14](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/setting-up-the-exercise-files?u=76281980&t=74)** Please note that if you are on [[Windows]], you would want to use the Anaconda command prompt for the same.
 >
-> **[1:21](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/setting-up-the-exercise-files?u=76281980&t=81)** The exercise files for this course have been downloaded on my computer to the folder /Users/linkedin/ExerciseFiles.
+> **[1:21](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/setting-up-the-exercise-files?u=76281980&t=81)** The exercise files for this course have been downloaded on my computer to the folder /Users/[[LinkedIn]]/ExerciseFiles.
 >
 > **[1:31](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/setting-up-the-exercise-files?u=76281980&t=91)** Please download the exercise files on your computer in a similar folder.
 >
@@ -175,7 +173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), [[Python (Programming Language)|Python]] (3), [[Windows]] (1), [[LinkedIn]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Windows]] (1), [[LinkedIn]] (1)
 > **Tools:** jupyter (6), anaconda (5), command prompt (4)
 > **Exercise Files:** exercise files (5), download the (1)
 > **CLI Commands:** python (3), make (2)
@@ -189,8 +187,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### ML models in production
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/ml-models-in-production?u=76281980)
+#### [ML models in production](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/ml-models-in-production?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -200,7 +197,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/ml-models-in-production?u=76281980&t=15)** Models are typically hosted by a wrapper or API service.
 >
-> **[0:20](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/ml-models-in-production?u=76281980&t=20)** This service may be custom built or user available third party hosting services like TorchServe or TensorFlow serving.
+> **[0:20](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/ml-models-in-production?u=76281980&t=20)** This service may be custom built or user available third party hosting services like TorchServe or [[TensorFlow]] serving.
 >
 > **[0:30](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/ml-models-in-production?u=76281980&t=30)** Users interact with the model through intermediate services.
 >
@@ -210,13 +207,13 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/ml-models-in-production?u=76281980&t=46)** Intermediate services pass the required inputs to the model and receive outputs or predictions from the model.
 >
-> **[0:55](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/ml-models-in-production?u=76281980&t=55)** ML services may be deployed in N+1 configurations for scalability and performance.
+> **[0:55](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/ml-models-in-production?u=76281980&t=55)** ML services may be deployed in N+1 configurations for [[Scalability]] and performance.
 >
 > **[1:03](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/ml-models-in-production?u=76281980&t=63)** Deployment to production systems typically happen using CI/CD pipelines that test and automate these deployments for the models and associated services.
 >
-> **[1:15](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/ml-models-in-production?u=76281980&t=75)** Models and associated services usually have several levels of instrumentation for data collection about performance and associated observability capabilities.
+> **[1:15](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/ml-models-in-production?u=76281980&t=75)** Models and associated services usually have several levels of instrumentation for [[Data Collection]] about performance and associated observability capabilities.
 >
-> **[1:28](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/ml-models-in-production?u=76281980&t=88)** Let's look at an example ML service deployment pattern.
+> **[1:28](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/ml-models-in-production?u=76281980&t=88)** Let's look at an example ML [[Service Deployment]] pattern.
 >
 > **[1:33](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/ml-models-in-production?u=76281980&t=93)** Other deployment patterns are also used.
 >
@@ -238,13 +235,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), api (1), [[TensorFlow]] (1), [[Scalability]] (1), ci (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (1), [[Scalability]] (1), [[Data Collection]] (1), [[Service Deployment]] (1)
 > **Env Vars:** api (1), apa (1)
 > **CLI Commands:** cd (1)
 > **Speakers:** - before (1)
 
-#### Challenges with serving models in production
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/challenges-with-serving-models-in-production?u=76281980)
+#### [Challenges with serving models in production](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/challenges-with-serving-models-in-production?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -280,12 +276,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), data (2), [[Security]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Metrics to monitor
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/metrics-to-monitor?u=76281980)
+#### [Metrics to monitor](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/metrics-to-monitor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -335,13 +329,13 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/metrics-to-monitor?u=76281980&t=147)** These metrics are constrained by the amount and type of data available, especially if true labels are available from production.
 >
-> **[2:36](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/metrics-to-monitor?u=76281980&t=156)** Performance metrics for models include accuracy, F1-scores, type I and II errors, precision, recall, et cetera.
+> **[2:36](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/metrics-to-monitor?u=76281980&t=156)** [[Performance Metrics]] for models include accuracy, F1-scores, type I and II errors, precision, recall, et cetera.
 >
 > **[2:46](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/metrics-to-monitor?u=76281980&t=166)** Computation of these metrics would depend upon the availability of both predicted and actual labels.
 >
 > **[2:54](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/metrics-to-monitor?u=76281980&t=174)** For model drift, the typical measurements are concept drift, feature drift, and correlation.
 >
-> **[3:01](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/metrics-to-monitor?u=76281980&t=181)** There are also responsible AI-related metrics like fairness score and correlation.
+> **[3:01](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/metrics-to-monitor?u=76281980&t=181)** There are also [[Responsible AI]]-related metrics like fairness score and correlation.
 >
 > **[3:07](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/metrics-to-monitor?u=76281980&t=187)** Monitoring these measures are important to ensure that the models are performing to expectations when deployed in production.
 >
@@ -351,13 +345,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), next (1), business (1), concurrent (1), node (1)
+> **Frameworks & Libraries:** [[Performance Metrics]] (1), [[Responsible AI]] (1)
 > **CLI Commands:** make (2), node (1)
 > **Env Vars:** cpu (1)
 > **Speakers:** - to (1)
 
-#### Data for model monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/data-for-model-monitoring?u=76281980)
+#### [Data for model monitoring](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/data-for-model-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -377,7 +370,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/data-for-model-monitoring?u=76281980&t=45)** If true labels can be acquired either through human feedback or explicit labeling, they also need to be collected, and linked with its corresponding prediction.
 >
-> **[0:57](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/data-for-model-monitoring?u=76281980&t=57)** Prediction stats, like confidence levels or probability scores also need to be collected.
+> **[0:57](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/data-for-model-monitoring?u=76281980&t=57)** Prediction stats, like confidence levels or [[Probability]] scores also need to be collected.
 >
 > **[1:04](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/data-for-model-monitoring?u=76281980&t=64)** Finally, latency of the model should be collected for future reference.
 >
@@ -391,7 +384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Probability]] (1), application (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -399,8 +392,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to model drift
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/introduction-to-model-drift?u=76281980)
+#### [Introduction to model drift](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/introduction-to-model-drift?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -448,7 +440,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/introduction-to-model-drift?u=76281980&t=134)** X stands for a feature and Y stands for a target.
 >
-> **[2:18](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/introduction-to-model-drift?u=76281980&t=138)** So the probability of X or P of X is the probability that a given feature value appears in the population.
+> **[2:18](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/introduction-to-model-drift?u=76281980&t=138)** So the [[Probability]] of X or P of X is the probability that a given feature value appears in the population.
 >
 > **[2:28](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/introduction-to-model-drift?u=76281980&t=148)** So if 40% of the patients are over the age of 50, then the probability of age greater than 50 would be 40%.
 >
@@ -486,13 +478,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (14), next (5), feature (3)
+> **Frameworks & Libraries:** [[Probability]] (14)
 > **Definitions:** stands for (2), is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Concept drift
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/concept-drift?u=76281980)
+#### [Concept drift](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/concept-drift?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -506,7 +497,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/concept-drift?u=76281980&t=29)** As a result, the model is no longer able to predict accurately, and needs to be retrained.
 >
-> **[0:36](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/concept-drift?u=76281980&t=36)** In the formal of our conditional probability of Y given X, when the joint probability of X and Y changes, concept drift occurs.
+> **[0:36](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/concept-drift?u=76281980&t=36)** In the formal of our conditional [[Probability]] of Y given X, when the joint probability of X and Y changes, concept drift occurs.
 >
 > **[0:47](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/concept-drift?u=76281980&t=47)** For example, let's say in the real world a patient has diabetes 80% of the time when their age is greater than 50.
 >
@@ -520,13 +511,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (3), data (2), feature (1)
+> **Frameworks & Libraries:** [[Probability]] (3)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Feature drift
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/feature-drift?u=76281980)
+#### [Feature drift](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/feature-drift?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -536,7 +526,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/feature-drift?u=76281980&t=15)** This indicates a change in the features that are different from those that were used for model training.
 >
-> **[0:22](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/feature-drift?u=76281980&t=22)** Looking at the conditional probability formula, here there is a change in the probability of X for feature drift.
+> **[0:22](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/feature-drift?u=76281980&t=22)** Looking at the conditional [[Probability]] formula, here there is a change in the probability of X for feature drift.
 >
 > **[0:30](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/feature-drift?u=76281980&t=30)** One important question is whether the occurrence of a feature drift would also mean that a concept drift is also happening.
 >
@@ -576,12 +566,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (9), [[Probability]] (4), data (1)
+> **Frameworks & Libraries:** [[Probability]] (4)
 > **Definitions:** is a  (4)
 > **Speakers:** - [instructor] (1)
 
-#### What causes drift?
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/what-causes-drift?u=76281980)
+#### [What causes drift?](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/what-causes-drift?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -617,7 +606,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/what-causes-drift?u=76281980&t=74)** Some demographics may be more active in a given time period.
 >
-> **[1:18](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/what-causes-drift?u=76281980&t=78)** Some products may be sold more than expected.
+> **[1:18](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/what-causes-drift?u=76281980&t=78)** Some [[Microsoft Products|products]] may be sold more than expected.
 >
 > **[1:22](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/what-causes-drift?u=76281980&t=82)** For example, during COVID, sale of hand sanitizers increased multi-fold.
 >
@@ -633,14 +622,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), feature (2), [[Microsoft Products|Products]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (3)
 > **Env Vars:** covid (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Drift remediation process
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/drift-remediation-process?u=76281980)
+#### [Drift remediation process](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/drift-remediation-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -674,7 +662,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), feature (1), application (1), next (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -684,8 +671,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Detecting concept drift
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/detecting-concept-drift?u=76281980)
+#### [Detecting concept drift](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/detecting-concept-drift?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -729,13 +715,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [lecturer] (1)
 
-#### Concept drift detection example
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/concept-drift-detection-example?u=76281980)
+#### [Concept drift detection example](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/concept-drift-detection-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -743,13 +727,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/concept-drift-detection-example?u=76281980&t=4)** In this example, we will simulate concept drift for the model, and then analyze changes in feature target relationships.
 >
-> **[0:12](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/concept-drift-detection-example?u=76281980&t=12)** The code for this chapter is in the code_03_XX Drift Detection Example Python notebook.
+> **[0:12](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/concept-drift-detection-example?u=76281980&t=12)** The code for this chapter is in the code_03_XX Drift Detection Example [[Python (Programming Language)|Python]] notebook.
 >
 > **[0:20](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/concept-drift-detection-example?u=76281980&t=20)** Let's load the notebook now.
 >
 > **[0:25](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/concept-drift-detection-example?u=76281980&t=25)** We will first install all the dependency packages for this chapter.
 >
-> **[0:29](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/concept-drift-detection-example?u=76281980&t=29)** These exercises need pandas, scikit-learn, and alibi-detect packages.
+> **[0:29](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/concept-drift-detection-example?u=76281980&t=29)** These exercises need [[Pandas (Software)|pandas]], scikit-learn, and alibi-detect packages.
 >
 > **[0:38](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/concept-drift-detection-example?u=76281980&t=38)** We have training data available in the file credit-approval-training-data.csv.
 >
@@ -797,15 +781,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), feature (2), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **File Paths:** credit-approval-training-data.csv (1), credit-approval-prod-data.csv (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Detecting feature drift
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/detecting-feature-drift?u=76281980)
+#### [Detecting feature drift](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/detecting-feature-drift?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -845,13 +828,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (6), data (2), product (1)
 > **Env Vars:** mmd (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Feature drift detection example
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/feature-drift-detection-example?u=76281980)
+#### [Feature drift detection example](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/feature-drift-detection-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -893,17 +874,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), feature (1)
 > **Versions:** 0.05 (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Detecting drift in text and images
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/detecting-drift-in-text-and-images?u=76281980)
+#### [Detecting drift in text and images](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/detecting-drift-in-text-and-images?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/detecting-drift-in-text-and-images?u=76281980&t=0)** - [Lecturer] Natural language processing and computer vision models are increasing in popularity as deep learning techniques are becoming democratized.
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/detecting-drift-in-text-and-images?u=76281980&t=0)** - [Lecturer] [[Natural Language Processing (NLP)|Natural language processing]] and [[Computer Vision]] models are increasing in popularity as [[Deep Learning]] techniques are becoming democratized.
 >
 > **[0:10](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/detecting-drift-in-text-and-images?u=76281980&t=10)** Drift can happen in these models.
 >
@@ -915,7 +894,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/detecting-drift-in-text-and-images?u=76281980&t=29)** We are only using the class ground truths and predictions, which are numeric irrespective of the type of features, so we can still compute accuracy scores to measure drift.
 >
-> **[0:41](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/detecting-drift-in-text-and-images?u=76281980&t=41)** What about generative AI like text summarization or image generation?
+> **[0:41](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/detecting-drift-in-text-and-images?u=76281980&t=41)** What about [[Generative AI]] like text summarization or image generation?
 >
 > **[0:46](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/detecting-drift-in-text-and-images?u=76281980&t=46)** In this case, we need reference text or images that are the desired outcome or ground truth.
 >
@@ -925,7 +904,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/detecting-drift-in-text-and-images?u=76281980&t=66)** How do we measure feature drift in text data?
 >
-> **[1:10](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/detecting-drift-in-text-and-images?u=76281980&t=70)** Unlike structured data, free text has several tokens that makes it harder to make one-to-one comparisons.
+> **[1:10](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/detecting-drift-in-text-and-images?u=76281980&t=70)** Unlike structured data, free text has several [[Tokens]] that makes it harder to make one-to-one comparisons.
 >
 > **[1:18](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/detecting-drift-in-text-and-images?u=76281980&t=78)** The first technique is to use each unique token as a feature.
 >
@@ -963,36 +942,35 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), feature (7), [[Computer Vision]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Computer Vision]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Deep Learning]] (1), [[Generative AI]] (1), [[Tokens]] (1)
 > **Env Vars:** nlp (1), rgb (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Software for drift detection
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/software-for-drift-detection?u=76281980)
+#### [Software for drift detection](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/software-for-drift-detection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/software-for-drift-detection?u=76281980&t=0)** - [Instructor] There are several out-of-the-box drift detection products and libraries that are available for detecting drift.
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/software-for-drift-detection?u=76281980&t=0)** - [Instructor] There are several out-of-the-box drift detection [[Microsoft Products|products]] and libraries that are available for detecting drift.
 >
 > **[0:09](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/software-for-drift-detection?u=76281980&t=9)** Let's quickly explore a few of them.
 >
 > **[0:12](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/software-for-drift-detection?u=76281980&t=12)** Machine learning platforms like AWS, GCP, and Ajar have their own drift detection capabilities.
 >
-> **[0:19](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/software-for-drift-detection?u=76281980&t=19)** [Seldon.io](https://Seldon.io) is an open-source software that contains the alibi-detect library, which can be used for drift detection.
+> **[0:19](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/software-for-drift-detection?u=76281980&t=19)** [Seldon.io](https://Seldon.io) is an [[Open-Source Software]] that contains the alibi-detect library, which can be used for drift detection.
 >
-> **[0:28](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/software-for-drift-detection?u=76281980&t=28)** TorchDrift is available in PyTorch for drift detection.
+> **[0:28](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/software-for-drift-detection?u=76281980&t=28)** TorchDrift is available in [[PyTorch]] for drift detection.
 >
 > **[0:33](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/software-for-drift-detection?u=76281980&t=33)** Scikit-multiflow can also help with drift detection.
 >
-> **[0:38](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/software-for-drift-detection?u=76281980&t=38)** TensorFlow data validation helps to detect drift in TensorFlow-related use cases.
+> **[0:38](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/software-for-drift-detection?u=76281980&t=38)** [[TensorFlow]] [[Data Validation]] helps to detect drift in TensorFlow-related use cases.
 >
-> **[0:44](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/software-for-drift-detection?u=76281980&t=44)** There are of course a number of commercial MLOps offerings that bundle in drift detection capabilities.
+> **[0:44](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/software-for-drift-detection?u=76281980&t=44)** There are of course a number of commercial [[MLOps]] offerings that bundle in drift detection capabilities.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[TensorFlow]] (2), [[Microsoft Products|Products]] (1), aws (1), gcp (1), open-source (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (2), [[Microsoft Products|Products]] (1), [[Open-Source Software]] (1), [[PyTorch]] (1), [[Data Validation]] (1)
 > **Env Vars:** aws (1), gcp (1)
 > **CLI Commands:** aws (1)
 > **URLs:** [seldon.io](https://seldon.io) (1)
@@ -1004,8 +982,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Drift monitoring pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/drift-monitoring-pipeline?u=76281980)
+#### [Drift monitoring pipeline](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/drift-monitoring-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1023,7 +1000,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/drift-monitoring-pipeline?u=76281980&t=45)** This information is then pushed into a drift database.
 >
-> **[0:49](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/drift-monitoring-pipeline?u=76281980&t=49)** There could be data collection, chewing and consolidation processes that may be used to achieve this goal in a large cluster.
+> **[0:49](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/drift-monitoring-pipeline?u=76281980&t=49)** There could be [[Data Collection]], chewing and consolidation processes that may be used to achieve this goal in a large cluster.
 >
 > **[0:58](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/drift-monitoring-pipeline?u=76281980&t=58)** Then, labeling may be used to add ground truth or true labels to the captured data.
 >
@@ -1045,12 +1022,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (1), feature (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Collection]] (1)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - having (1)
 
-#### Analyzing drift trends
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/analyzing-drift-trends?u=76281980)
+#### [Analyzing drift trends](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/analyzing-drift-trends?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1076,7 +1052,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/analyzing-drift-trends?u=76281980&t=57)** On the other hand, if the interval is too high, drift measurement will be stable, but the drift can go undetected for a long time, impacting the effectiveness of the process.
 >
-> **[1:08](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/analyzing-drift-trends?u=76281980&t=68)** At each interval, drift is computed, and the summary statistics observed is persisted to a database for future reference.
+> **[1:08](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/analyzing-drift-trends?u=76281980&t=68)** At each interval, drift is computed, and the summary [[Statistics]] observed is persisted to a database for future reference.
 >
 > **[1:17](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/analyzing-drift-trends?u=76281980&t=77)** What is the process of analyzing drift over time?
 >
@@ -1100,14 +1076,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Statistics]] (1), database (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** recommended (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discovering root causes for drift
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/discovering-root-causes-for-drift?u=76281980)
+#### [Discovering root causes for drift](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/discovering-root-causes-for-drift?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1131,7 +1106,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/discovering-root-causes-for-drift?u=76281980&t=62)** There could be equipment errors producing incorrect data.
 >
-> **[1:06](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/discovering-root-causes-for-drift?u=76281980&t=66)** There could be data processing errors.
+> **[1:06](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/discovering-root-causes-for-drift?u=76281980&t=66)** There could be [[Data Processing]] errors.
 >
 > **[1:08](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/discovering-root-causes-for-drift?u=76281980&t=68)** There could be changes in user behavior.
 >
@@ -1153,14 +1128,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (5), data (5), business (2), next (2)
+> **Frameworks & Libraries:** [[Data Processing]] (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** find (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Retraining to overcome drift
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/retraining-to-overcome-drift?u=76281980)
+#### [Retraining to overcome drift](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/retraining-to-overcome-drift?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1208,7 +1182,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), feature (1), business (1), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1218,8 +1191,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fairness and bias
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/fairness-and-bias?u=76281980)
+#### [Fairness and bias](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/fairness-and-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1259,13 +1231,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), data (4)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - bias (1)
 
-#### Fairness in ML
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/fairness-in-ml?u=76281980)
+#### [Fairness in ML](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/fairness-in-ml?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1293,12 +1263,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), data (1), business (1), next (1)
 > **Cross-References:** next chapter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sources of ML bias
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/sources-of-ml-bias?u=76281980)
+#### [Sources of ML bias](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/sources-of-ml-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1336,13 +1304,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protected attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/protected-attributes?u=76281980)
+#### [Protected attributes](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/protected-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1358,7 +1324,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/protected-attributes?u=76281980&t=34)** This list of features is selected based on legal or regulatory requirements, ethical guidance, or organizational policies.
 >
-> **[0:44](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/protected-attributes?u=76281980&t=44)** The organization may still collect this information, but these will not be used for any kind of decision-making, either by humans or machine learning models.
+> **[0:44](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/protected-attributes?u=76281980&t=44)** The organization may still collect this information, but these will not be used for any kind of [[Decision-Making]], either by humans or machine learning models.
 >
 > **[0:55](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/protected-attributes?u=76281980&t=55)** Here is a list of key protected attributes: race, religion, gender, age, marital status, and economic status.
 >
@@ -1368,13 +1334,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demographic parity
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/demographic-parity?u=76281980)
+#### [Demographic parity](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/demographic-parity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1420,7 +1385,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1430,8 +1394,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Bias detection techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/bias-detection-techniques?u=76281980)
+#### [Bias detection techniques](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/bias-detection-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1471,20 +1434,19 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/bias-detection-techniques?u=76281980&t=127)** Similarly, you can compare recall differences between the classes to understand if bias plays a role in the model outcomes.
 >
-> **[2:16](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/bias-detection-techniques?u=76281980&t=136)** In this chapter, we will explore equal opportunity scores in detail and do an exercise in Python.
+> **[2:16](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/bias-detection-techniques?u=76281980&t=136)** In this chapter, we will explore equal opportunity scores in detail and do an exercise in [[Python (Programming Language)|Python]].
 >
 > **[2:24](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/bias-detection-techniques?u=76281980&t=144)** I highly recommend learners to use supplemental reading on the other techniques mentioned.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Cross-References:** previous chapter (1), in the next (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Equal opportunity score
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/equal-opportunity-score?u=76281980)
+#### [Equal opportunity score](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/equal-opportunity-score?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1510,7 +1472,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/equal-opportunity-score?u=76281980&t=65)** Let's explore the math behind the EOS score now.
 >
-> **[1:09](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/equal-opportunity-score?u=76281980&t=69)** Here we compute the unprivileged probability and privileged probability.
+> **[1:09](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/equal-opportunity-score?u=76281980&t=69)** Here we compute the unprivileged [[Probability]] and privileged probability.
 >
 > **[1:14](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/equal-opportunity-score?u=76281980&t=74)** Unprivileged probability is the probability of predicting a positive outcome when the true label is positive and the protected attribute is zero.
 >
@@ -1540,15 +1502,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (14), next (1)
+> **Frameworks & Libraries:** [[Probability]] (14)
 > **Env Vars:** eos (10)
 > **Versions:** 0.41 (2), 0.42 (1), 0.97 (1), 0.62 (1), 0.66 (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### EOS example
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/eos-example?u=76281980)
+#### [EOS example](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/eos-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1586,7 +1547,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1)
 > **Env Vars:** eos (3), race (2), age_range (2), age (1), range (1)
 > **File Paths:** credit-approval-training-data.csv (1), credit-approval-fair-data.csv (1)
 > **Code Identifiers:** naive_bayes (1), equal_opportunity_score (1)
@@ -1594,8 +1554,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bias detection software
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/bias-detection-software?u=76281980)
+#### [Bias detection software](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/bias-detection-software?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1617,14 +1576,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), feature (1), aws (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Env Vars:** ibm (1), aws (1)
 > **CLI Commands:** aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overcoming bias in ML
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/overcoming-bias-in-ml?u=76281980)
+#### [Overcoming bias in ML](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/overcoming-bias-in-ml?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1632,7 +1589,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/overcoming-bias-in-ml?u=76281980&t=3)** Let's now discuss some best practices to overcome bias.
 >
-> **[0:08](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/overcoming-bias-in-ml?u=76281980&t=8)** We begin with discussing training data collection.
+> **[0:08](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/overcoming-bias-in-ml?u=76281980&t=8)** We begin with discussing training [[Data Collection]].
 >
 > **[0:11](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/overcoming-bias-in-ml?u=76281980&t=11)** Training data is an important source of bias, so ensuring that the training data is unbiased is a great start to building fair models.
 >
@@ -1680,7 +1637,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (1)
+> **Frameworks & Libraries:** [[Data Collection]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
@@ -1690,14 +1647,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/next-steps?u=76281980&t=0)** - Now that you have learned about model monitoring for drift and bias, you can take your learning even further.
 >
-> **[0:08](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/next-steps?u=76281980&t=8)** First, explore the products and packages available for drift and bias monitoring which we listed in the course.
+> **[0:08](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/next-steps?u=76281980&t=8)** First, explore the [[Microsoft Products|products]] and packages available for drift and bias monitoring which we listed in the course.
 >
 > **[0:17](https://www.linkedin.com/learning/mlops-essentials-monitoring-model-drift-and-bias/next-steps?u=76281980&t=17)** Second, try building a drift and bias monitoring system for a model in your organization.
 >
@@ -1707,7 +1663,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - now (1)
 

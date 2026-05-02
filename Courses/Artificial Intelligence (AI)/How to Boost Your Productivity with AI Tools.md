@@ -85,8 +85,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI is a dream for productivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/ai-is-a-dream-for-productivity-29809099?u=76281980)
+#### [AI is a dream for productivity](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/ai-is-a-dream-for-productivity-29809099?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -110,7 +109,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/ai-is-a-dream-for-productivity-29809099?u=76281980&t=49)** I'm an experimenter, maker, and thinker.
 >
-> **[0:52](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/ai-is-a-dream-for-productivity-29809099?u=76281980&t=52)** I'm a lover, not a fighter, and you'll find a heap of AI courses from me on LinkedIn Learning.
+> **[0:52](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/ai-is-a-dream-for-productivity-29809099?u=76281980&t=52)** I'm a lover, not a fighter, and you'll find a heap of AI courses from me on [[LinkedIn]] Learning.
 >
 > **[0:59](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/ai-is-a-dream-for-productivity-29809099?u=76281980&t=59)** This is an updated version of my AI for Productivity course that now embraces new capabilities like deep research, and it includes new use cases that you can start applying right away.
 >
@@ -144,7 +143,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), next (2), product (1), [[LinkedIn]] (1), career (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
@@ -155,8 +154,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The two reasons to use AI in business
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/the-two-reasons-to-use-ai-in-business-29810092?u=76281980)
+#### [The two reasons to use AI in business](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/the-two-reasons-to-use-ai-in-business-29810092?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -170,7 +168,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/the-two-reasons-to-use-ai-in-business-29810092?u=76281980&t=23)** And guess what? AI is really good at adequacy.
 >
-> **[0:27](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/the-two-reasons-to-use-ai-in-business-29810092?u=76281980&t=27)** In fact, you could say that AI excels at adequacy if it's possible to excel at being adequate.
+> **[0:27](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/the-two-reasons-to-use-ai-in-business-29810092?u=76281980&t=27)** In fact, you could say that AI excels at adequacy if it's possible to [[Microsoft Excel|excel]] at being adequate.
 >
 > **[0:33](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/the-two-reasons-to-use-ai-in-business-29810092?u=76281980&t=33)** So let's explore this further by playing a little game that I like to call Adequacy or Excellence.
 >
@@ -190,7 +188,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/the-two-reasons-to-use-ai-in-business-29810092?u=76281980&t=63)** Excellent choice, excellence it is.
 >
-> **[1:07](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/the-two-reasons-to-use-ai-in-business-29810092?u=76281980&t=67)** Convert text to HTML markup.
+> **[1:07](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/the-two-reasons-to-use-ai-in-business-29810092?u=76281980&t=67)** Convert text to [[HTML]] markup.
 >
 > **[1:10](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/the-two-reasons-to-use-ai-in-business-29810092?u=76281980&t=70)** You got it, adequacy.
 >
@@ -214,7 +212,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/the-two-reasons-to-use-ai-in-business-29810092?u=76281980&t=97)** Understanding whether you need adequacy or excellence will make it easier for you when it comes time to write an effective prompt.
 >
-> **[1:46](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/the-two-reasons-to-use-ai-in-business-29810092?u=76281980&t=106)** In this course, I use a variety of AI tools, and because the course was originally filmed in the earlier days of AI, you'll see me using older versions of ChatGPT and Bing.
+> **[1:46](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/the-two-reasons-to-use-ai-in-business-29810092?u=76281980&t=106)** In this course, I use a variety of AI tools, and because the course was originally filmed in the earlier days of AI, you'll see me using older versions of [[ChatGPT]] and Bing.
 >
 > **[1:58](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/the-two-reasons-to-use-ai-in-business-29810092?u=76281980&t=118)** They'll look slightly different to today's models, and they weren't as powerful as they are today.
 >
@@ -234,15 +232,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), next (2), [[Microsoft Excel|Excel]] (1), game (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[HTML]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** html (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - ai (1)
 
-#### Watch this before you start using AI for work
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/before-you-start-using-ai-for-work-watch-this-29813074?u=76281980)
+#### [Watch this before you start using AI for work](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/before-you-start-using-ai-for-work-watch-this-29813074?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -320,22 +317,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), data (8), business (2), next (1), prompt (1)
 > **Analogies:** picture (1)
 > **Speakers:** - picture (1)
 
-#### Identifying opportunities to benefit from AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/identifying-opportunities-to-benefit-from-ai-29802091?u=76281980)
+#### [Identifying opportunities to benefit from AI](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/identifying-opportunities-to-benefit-from-ai-29802091?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/identifying-opportunities-to-benefit-from-ai-29802091?u=76281980&t=0)** - One of the most common questions I get asked is, "How do I use ChatGPT as part of my job?"
+> **[0:00](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/identifying-opportunities-to-benefit-from-ai-29802091?u=76281980&t=0)** - One of the most common questions I get asked is, "How do I use [[ChatGPT]] as part of my job?"
 >
 > **[0:08](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/identifying-opportunities-to-benefit-from-ai-29802091?u=76281980&t=8)** It comes in a close second to, "Excuse me, did you put your hair on upside down?"
 >
 > **[0:13](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/identifying-opportunities-to-benefit-from-ai-29802091?u=76281980&t=13)** But let's focus on the AI question for now.
 >
-> **[0:16](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/identifying-opportunities-to-benefit-from-ai-29802091?u=76281980&t=16)** The biggest mistake people make when it comes to generative AI like ChatGPT is thinking their tasks are just one thing.
+> **[0:16](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/identifying-opportunities-to-benefit-from-ai-29802091?u=76281980&t=16)** The biggest mistake people make when it comes to [[Generative AI]] like ChatGPT is thinking their tasks are just one thing.
 >
 > **[0:24](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/identifying-opportunities-to-benefit-from-ai-29802091?u=76281980&t=24)** They enter requests like, write me a script for a video about freeform jazz or write a blog post about the history of cheese.
 >
@@ -359,7 +354,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/identifying-opportunities-to-benefit-from-ai-29802091?u=76281980&t=77)** Anything that makes it into the top two rows is going to need some prompt writing.
 >
-> **[1:23](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/identifying-opportunities-to-benefit-from-ai-29802091?u=76281980&t=83)** And if you want to learn how to write effective prompts, you should probably take my course How to Research and Write Using Generative AI Tools.
+> **[1:23](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/identifying-opportunities-to-benefit-from-ai-29802091?u=76281980&t=83)** And if you want to learn how to write effective prompts, you should probably take my course How to Research and Write Using [[Generative AI Tools]].
 >
 > **[1:31](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/identifying-opportunities-to-benefit-from-ai-29802091?u=76281980&t=91)** Just saying.
 >
@@ -377,24 +372,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[ChatGPT]] (2), [[Generative AI]] (1), prompt (1), [[Generative AI Tools]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Generative AI]] (1), [[Generative AI Tools]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** template (1)
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
 
-#### A different approach to AI prompt writing
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/a-different-approach-to-ai-prompt-writing-29800090?u=76281980)
+#### [A different approach to AI prompt writing](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/a-different-approach-to-ai-prompt-writing-29800090?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/a-different-approach-to-ai-prompt-writing-29800090?u=76281980&t=0)** - If you've taken my How to Research and Write Using Generative AI Tools course, you'll have seen a couple of approaches to writing prompts.
+> **[0:00](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/a-different-approach-to-ai-prompt-writing-29800090?u=76281980&t=0)** - If you've taken my How to Research and Write Using [[Generative AI Tools]] course, you'll have seen a couple of approaches to writing prompts.
 >
 > **[0:09](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/a-different-approach-to-ai-prompt-writing-29800090?u=76281980&t=9)** In this course, though, I'm going to do things slightly differently.
 >
 > **[0:14](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/a-different-approach-to-ai-prompt-writing-29800090?u=76281980&t=14)** I've still followed my C.R.E.A.T.E. framework to write the prompts, and if you haven't taken the course I just mentioned yet, you should probably do it after this one, so just to recap, in case you don't know, C.R.E.A.T.E. stands for character.
 >
-> **[0:29](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/a-different-approach-to-ai-prompt-writing-29800090?u=76281980&t=29)** That's the role you want ChatGPT to play.
+> **[0:29](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/a-different-approach-to-ai-prompt-writing-29800090?u=76281980&t=29)** That's the role you want [[ChatGPT]] to play.
 >
 > **[0:32](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/a-different-approach-to-ai-prompt-writing-29800090?u=76281980&t=32)** Request is what you want it to do.
 >
@@ -422,7 +416,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/a-different-approach-to-ai-prompt-writing-29800090?u=76281980&t=136)** (chuckles) This is good. Let me read you the first verse.
 >
-> **[2:21](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/a-different-approach-to-ai-prompt-writing-29800090?u=76281980&t=141)** "In the heart o' the office, a machine sits so grand, "Its whirrin' and hummin' echo throughoot the land.
+> **[2:21](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/a-different-approach-to-ai-prompt-writing-29800090?u=76281980&t=141)** "In the heart o' the [[Microsoft Office|office]], a machine sits so grand, "Its whirrin' and hummin' echo throughoot the land.
 >
 > **[2:28](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/a-different-approach-to-ai-prompt-writing-29800090?u=76281980&t=148)** "It captures yer image in black, white, or grey, "A perfect reflection, nae detail astray."
 >
@@ -452,17 +446,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (10), [[ChatGPT]] (2), [[Generative AI Tools]] (1), ai (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Generative AI Tools]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** stands for (1), is a  (1)
 > **Speakers:** - if (1), - [curly (1)
 
-#### Taking responsibility for the output of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/taking-responsibility-for-the-output-of-ai-29811083?u=76281980)
+#### [Taking responsibility for the output of AI](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/taking-responsibility-for-the-output-of-ai-29811083?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/taking-responsibility-for-the-output-of-ai-29811083?u=76281980&t=0)** - Now, I can't guarantee that generative AI tools will give you an accurate answer, just as I can't guarantee that Robert in customer services will give an accurate answer.
+> **[0:00](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/taking-responsibility-for-the-output-of-ai-29811083?u=76281980&t=0)** - Now, I can't guarantee that [[Generative AI Tools]] will give you an accurate answer, just as I can't guarantee that Robert in customer services will give an accurate answer.
 >
 > **[0:10](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/taking-responsibility-for-the-output-of-ai-29811083?u=76281980&t=10)** Robert, I'm sure this camera that I'm using, he wasn't working properly.
 >
@@ -476,7 +469,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/taking-responsibility-for-the-output-of-ai-29811083?u=76281980&t=47)** You're more likely to get AI hallucinations if you write prompts that don't have sufficient information in them, because the AIs will fill those gaps with information that isn't always true.
 >
-> **[0:59](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/taking-responsibility-for-the-output-of-ai-29811083?u=76281980&t=59)** In the case of ChatGPT, it's not currently connected to the internet, as I'm filming this, it's currently using information that's over 18 months out of date.
+> **[0:59](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/taking-responsibility-for-the-output-of-ai-29811083?u=76281980&t=59)** In the case of [[ChatGPT]], it's not currently connected to the internet, as I'm filming this, it's currently using information that's over 18 months out of date.
 >
 > **[1:09](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/taking-responsibility-for-the-output-of-ai-29811083?u=76281980&t=69)** Now, this may have changed by the time you watch this video.
 >
@@ -492,14 +485,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Generative AI Tools]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Generative AI Tools]] (1), [[ChatGPT]] (1)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1)
 > **Speakers:** - now (1)
 
-#### Organizing your AI prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/organising-your-ai-prompts-29808091?u=76281980)
+#### [Organizing your AI prompts](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/organising-your-ai-prompts-29808091?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -511,7 +503,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/organising-your-ai-prompts-29808091?u=76281980&t=19)** I want to be able to find them whenever I need them.
 >
-> **[0:22](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/organising-your-ai-prompts-29808091?u=76281980&t=22)** So let's start by looking at the ChatGPT interface.
+> **[0:22](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/organising-your-ai-prompts-29808091?u=76281980&t=22)** So let's start by looking at the [[ChatGPT]] interface.
 >
 > **[0:26](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/organising-your-ai-prompts-29808091?u=76281980&t=26)** If you look at the left column over here, you'll see that it contains all of your conversations.
 >
@@ -571,7 +563,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (9), [[ChatGPT]] (2), chatbot (2), next (2), web (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2)
 > **CLI Commands:** find (5), make (1)
 > **Env Vars:** seo (1)
 > **Cross-References:** in the next (1)
@@ -579,8 +571,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - i (1)
 
-#### Understanding AI agents and automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/understanding-ai-agents-and-automation-29808089?u=76281980)
+#### [Understanding AI agents and automation](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/understanding-ai-agents-and-automation-29808089?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -590,7 +581,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/understanding-ai-agents-and-automation-29808089?u=76281980&t=9)** I'm not going to show you how to build these in this course.
 >
-> **[0:11](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/understanding-ai-agents-and-automation-29808089?u=76281980&t=11)** You'll find other LinkedIn Learning courses that can help you with that, but I'll give you an overview so that you've got a better understanding of these options and what they can help you with.
+> **[0:11](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/understanding-ai-agents-and-automation-29808089?u=76281980&t=11)** You'll find other [[LinkedIn]] Learning courses that can help you with that, but I'll give you an overview so that you've got a better understanding of these options and what they can help you with.
 >
 > **[0:24](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/understanding-ai-agents-and-automation-29808089?u=76281980&t=24)** First, let's look at AI automations.
 >
@@ -598,7 +589,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/understanding-ai-agents-and-automation-29808089?u=76281980&t=32)** It's when you connect different tools and tasks together to help you execute a process.
 >
-> **[0:37](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/understanding-ai-agents-and-automation-29808089?u=76281980&t=37)** An example would be email marketing.
+> **[0:37](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/understanding-ai-agents-and-automation-29808089?u=76281980&t=37)** An example would be [[Email Marketing]].
 >
 > **[0:40](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/understanding-ai-agents-and-automation-29808089?u=76281980&t=40)** A process could include collecting email addresses, segmenting, scheduling pre-written emails, and tracking the open rates.
 >
@@ -614,7 +605,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/understanding-ai-agents-and-automation-29808089?u=76281980&t=90)** Start simple with a two-step process and start building yourself up to more powerful workflows.
 >
-> **[1:36](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/understanding-ai-agents-and-automation-29808089?u=76281980&t=96)** Next, we've got agentic AI, sometimes referred to as AI agents.
+> **[1:36](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/understanding-ai-agents-and-automation-29808089?u=76281980&t=96)** Next, we've got agentic AI, sometimes referred to as [[AI Agents]].
 >
 > **[1:43](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/understanding-ai-agents-and-automation-29808089?u=76281980&t=103)** The community haven't really quite settled on the definitions around these terms, you see.
 >
@@ -666,20 +657,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Automation]] (2), next (2), [[LinkedIn]] (1), [[Email Marketing]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[LinkedIn]] (1), [[Email Marketing]] (1)
 > **Definitions:** means that (2), in other words (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - since (1)
 
-#### How to work with AI deep research
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-work-with-ai-deep-research-29811082?u=76281980)
+#### [How to work with AI deep research](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-work-with-ai-deep-research-29811082?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-work-with-ai-deep-research-29811082?u=76281980&t=0)** - AI has moved beyond just being a quick assistant for simple tasks.
 >
-> **[0:04](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-work-with-ai-deep-research-29811082?u=76281980&t=4)** With the development of deep research capabilities, it's become a powerful ally for one of the most time-consuming parts of office work.
+> **[0:04](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-work-with-ai-deep-research-29811082?u=76281980&t=4)** With the development of deep research capabilities, it's become a powerful ally for one of the most time-consuming parts of [[Microsoft Office|office]] work.
 >
 > **[0:13](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-work-with-ai-deep-research-29811082?u=76281980&t=13)** Research, think about how much time you spend gathering information, analyzing it, putting it into reports.
 >
@@ -705,7 +695,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-work-with-ai-deep-research-29811082?u=76281980&t=115)** What makes this particularly valuable in a workplace context is that deep research excels at tasks requiring both breadth and depth.
 >
-> **[2:06](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-work-with-ai-deep-research-29811082?u=76281980&t=126)** It can gather relevant information, it can analyze documents, assist with strategic thinking and handle anything that would traditionally involve some serious, heads-down focus.
+> **[2:06](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-work-with-ai-deep-research-29811082?u=76281980&t=126)** It can gather relevant information, it can analyze documents, assist with [[Strategic Thinking]] and handle anything that would traditionally involve some serious, heads-down focus.
 >
 > **[2:18](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-work-with-ai-deep-research-29811082?u=76281980&t=138)** Of course, it's not perfect, like any AI tool sometimes gets things wrong or makes connections that aren't actually there, which is why you still need to review its output critically, just as you would with a human assistance work.
 >
@@ -725,7 +715,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Microsoft Office|Office]] (1), feature (1), data (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Strategic Thinking]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - ai (1)
 
@@ -734,14 +724,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using GenAI to write better email replies
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-gen-ai-to-write-better-email-replies-29808088?u=76281980)
+#### [Using GenAI to write better email replies](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-gen-ai-to-write-better-email-replies-29808088?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-gen-ai-to-write-better-email-replies-29808088?u=76281980&t=0)** - Not all emails are of equal importance.
 >
-> **[0:03](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-gen-ai-to-write-better-email-replies-29808088?u=76281980&t=3)** In amongst the sea of newsletters that you don't read, the emails that you've been CC'd in on for political reasons, and the messages from foreign princes looking for help getting their fortunes out of the country, you'll find some emails that are worth a bit of effort.
+> **[0:03](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-gen-ai-to-write-better-email-replies-29808088?u=76281980&t=3)** In amongst the sea of [[Newsletters]] that you don't read, the emails that you've been CC'd in on for political reasons, and the messages from foreign princes looking for help getting their fortunes out of the country, you'll find some emails that are worth a bit of effort.
 >
 > **[0:19](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-gen-ai-to-write-better-email-replies-29808088?u=76281980&t=19)** Like the new business inquiry from a dream client, or the nightmare client that wants a six-day job done by tomorrow lunchtime.
 >
@@ -753,7 +742,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-gen-ai-to-write-better-email-replies-29808088?u=76281980&t=50)** AI can help you generate ideas and refine your message, ensuring that your response stands out and leaves a positive impression.
 >
-> **[0:58](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-gen-ai-to-write-better-email-replies-29808088?u=76281980&t=58)** (transition whooshes) So here we are in Microsoft's Edge browser.
+> **[0:58](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-gen-ai-to-write-better-email-replies-29808088?u=76281980&t=58)** (transition whooshes) So here we are in [[Microsoft]]'s Edge browser.
 >
 > **[1:02](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-gen-ai-to-write-better-email-replies-29808088?u=76281980&t=62)** First of all, I want to show you how to bring up the AI chat.
 >
@@ -897,14 +886,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), prompt (3), data (2), next (2), [[Newsletters]] (1)
+> **Frameworks & Libraries:** [[Newsletters]] (1), [[Microsoft]] (1)
 > **CLI Commands:** find (4), make (3)
 > **Definitions:** means that (1), is a  (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - not (1)
 
-#### Creating effective project plans with AI assistance
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-effective-project-plans-with-ai-assistance-29802095?u=76281980)
+#### [Creating effective project plans with AI assistance](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-effective-project-plans-with-ai-assistance-29802095?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -920,7 +908,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-effective-project-plans-with-ai-assistance-29802095?u=76281980&t=27)** This prompt will help you create a first draft of your project plan, and the more information you give it, the more accurate it will be.
 >
-> **[0:36](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-effective-project-plans-with-ai-assistance-29802095?u=76281980&t=36)** ChatGPT can quickly help you generate a project plan outline, including tasks, deadlines, and resources needed.
+> **[0:36](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-effective-project-plans-with-ai-assistance-29802095?u=76281980&t=36)** [[ChatGPT]] can quickly help you generate a project plan outline, including tasks, deadlines, and resources needed.
 >
 > **[0:44](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-effective-project-plans-with-ai-assistance-29802095?u=76281980&t=44)** This not only save you effort, but it also frees up time so you can focus on the creative aspects of the project, The bits that I enjoy.
 >
@@ -932,7 +920,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-effective-project-plans-with-ai-assistance-29802095?u=76281980&t=76)** We're in ChatGPT now, and I'm going to stick with the default GPT-3.5.
 >
-> **[1:22](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-effective-project-plans-with-ai-assistance-29802095?u=76281980&t=82)** I pay for the pro account, so I could go for GPT-4, but I want to stick with 3.5, which is closer to what most people will have if they're using the free version of ChatGPT.
+> **[1:22](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-effective-project-plans-with-ai-assistance-29802095?u=76281980&t=82)** I pay for the pro account, so I could go for [[GPT-4]], but I want to stick with 3.5, which is closer to what most people will have if they're using the free version of ChatGPT.
 >
 > **[1:33](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-effective-project-plans-with-ai-assistance-29802095?u=76281980&t=93)** So at the bottom here, we'll paste in our prompt.
 >
@@ -1054,7 +1042,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), [[ChatGPT]] (3), ai (3), [[GPT-4]] (1), teams (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[GPT-4]] (1)
 > **Analogies:** just like (2), it's like (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gpt (2)
@@ -1062,12 +1050,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - i (1)
 
-#### Writing HTML code more effectively with GenAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/writing-html-code-more-effectively-with-gen-ai-29808090?u=76281980)
+#### [Writing HTML code more effectively with GenAI](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/writing-html-code-more-effectively-with-gen-ai-29808090?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/writing-html-code-more-effectively-with-gen-ai-29808090?u=76281980&t=0)** - Converting plain text into text with HTML markup is not a difficult task, it's just a boring task.
+> **[0:00](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/writing-html-code-more-effectively-with-gen-ai-29808090?u=76281980&t=0)** - Converting plain text into text with [[HTML]] markup is not a difficult task, it's just a boring task.
 >
 > **[0:08](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/writing-html-code-more-effectively-with-gen-ai-29808090?u=76281980&t=8)** And wouldn't it be far better if it could be done without any errors in a matter of seconds so that no human brains need to be damaged by the experience?
 >
@@ -1121,7 +1108,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/writing-html-code-more-effectively-with-gen-ai-29808090?u=76281980&t=147)** So we're going to say, "Yes."
 >
-> **[2:30](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/writing-html-code-more-effectively-with-gen-ai-29808090?u=76281980&t=150)** I'm just going to put in, "Yes, the keyword I want to use is," and for this it might be, let's say, "practical AI for business," because that's kind of what the workshop's about.
+> **[2:30](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/writing-html-code-more-effectively-with-gen-ai-29808090?u=76281980&t=150)** I'm just going to put in, "Yes, the keyword I want to use is," and for this it might be, let's say, "practical [[AI for Business]]," because that's kind of what the workshop's about.
 >
 > **[2:50](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/writing-html-code-more-effectively-with-gen-ai-29808090?u=76281980&t=170)** Let's see what it does here.
 >
@@ -1137,7 +1124,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/writing-html-code-more-effectively-with-gen-ai-29808090?u=76281980&t=216)** Of course, I would!
 >
-> **[3:38](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/writing-html-code-more-effectively-with-gen-ai-29808090?u=76281980&t=218)** ChatGPT speaks code as a first language.
+> **[3:38](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/writing-html-code-more-effectively-with-gen-ai-29808090?u=76281980&t=218)** [[ChatGPT]] speaks code as a first language.
 >
 > **[3:41](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/writing-html-code-more-effectively-with-gen-ai-29808090?u=76281980&t=221)** It's like asking if I'd trust an Italian chef to make a pizza.
 >
@@ -1149,14 +1136,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), seo (4), prompt (3), ai (3), [[Search]] (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[AI for Business]] (1), [[ChatGPT]] (1)
 > **Env Vars:** html (4), seo (4)
 > **CLI Commands:** make (3)
 > **Analogies:** it's like (1)
 > **Speakers:** - converting (1)
 
-#### How to create better presentations from a document with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-create-better-presentations-from-a-document-with-ai-29812080?u=76281980)
+#### [How to create better presentations from a document with AI](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-create-better-presentations-from-a-document-with-ai-29812080?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1166,7 +1152,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-create-better-presentations-from-a-document-with-ai-29812080?u=76281980&t=15)** Instead, I recommend you create your document, which you can use as a leave-behind, and then feed it into an AI-driven prompt to get a first draft of a much better presentation.
 >
-> **[0:26](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-create-better-presentations-from-a-document-with-ai-29812080?u=76281980&t=26)** In seconds, ChatGPT will transform a text-heavy document into a visually engaging and concise presentation that can effectively communicate your key points, or at least a first draft of one.
+> **[0:26](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-create-better-presentations-from-a-document-with-ai-29812080?u=76281980&t=26)** In seconds, [[ChatGPT]] will transform a text-heavy document into a visually engaging and concise presentation that can effectively communicate your key points, or at least a first draft of one.
 >
 > **[0:39](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-create-better-presentations-from-a-document-with-ai-29812080?u=76281980&t=39)** So let's give it a go right now.
 >
@@ -1260,14 +1246,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), ai (4), [[ChatGPT]] (3), business (1), teams (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3)
 > **Definitions:** means that (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - too (1)
 
-#### Developing better social media posts with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/developing-better-social-media-posts-with-ai-29800091?u=76281980)
+#### [Developing better social media posts with AI](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/developing-better-social-media-posts-with-ai-29800091?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1283,7 +1268,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/developing-better-social-media-posts-with-ai-29800091?u=76281980&t=30)** So I wrote this lovely little prompt to help you with that by finding relevant articles and generating engaging comments about them.
 >
-> **[0:39](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/developing-better-social-media-posts-with-ai-29800091?u=76281980&t=39)** And because it needs access to the live internet, we need to use Bing's version of ChatGPT, unless ChatGPT has web access by the time you watch this, there's a good chance of that.
+> **[0:39](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/developing-better-social-media-posts-with-ai-29800091?u=76281980&t=39)** And because it needs access to the live internet, we need to use Bing's version of [[ChatGPT]], unless ChatGPT has web access by the time you watch this, there's a good chance of that.
 >
 > **[0:51](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/developing-better-social-media-posts-with-ai-29800091?u=76281980&t=51)** So let's take this prompt for a spin around the block.
 >
@@ -1389,14 +1374,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), [[ChatGPT]] (3), web (2), [[Search]] (1), business (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3)
 > **CLI Commands:** find (4), make (4)
 > **Analogies:** picture (1), imagine (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - different (1)
 
-#### Using AI to analyze and understand policy documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-to-analyze-and-understand-policy-documents-29807111?u=76281980)
+#### [Using AI to analyze and understand policy documents](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-to-analyze-and-understand-policy-documents-29807111?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1476,7 +1460,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-to-analyze-and-understand-policy-documents-29807111?u=76281980&t=225)** It calls it thinking, but this is processing.
 >
-> **[3:48](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-to-analyze-and-understand-policy-documents-29807111?u=76281980&t=228)** In the same way as it's doing its prediction of what the next word is, which is how it generates the text, it's doing the same but in the background.
+> **[3:48](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-to-analyze-and-understand-policy-documents-29807111?u=76281980&t=228)** In the same way as it's doing its prediction of what the next [[Microsoft Word|word]] is, which is how it generates the text, it's doing the same but in the background.
 >
 > **[3:56](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-to-analyze-and-understand-policy-documents-29807111?u=76281980&t=236)** So when I click to expand what it calls the thought process here, this was all generated in exactly the same way by predicting the next token.
 >
@@ -1578,7 +1562,7 @@ created: 2026-05-02
 >
 > **[7:31](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-to-analyze-and-understand-policy-documents-29807111?u=76281980&t=451)** What you need to do right now report this immediately within 24 hours to our data protection officer.
 >
-> **[7:37](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-to-analyze-and-understand-policy-documents-29807111?u=76281980&t=457)** This is required by our data protection and privacy policy.
+> **[7:37](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-to-analyze-and-understand-policy-documents-29807111?u=76281980&t=457)** This is required by our data protection and [[Privacy]] policy.
 >
 > **[7:40](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-to-analyze-and-understand-policy-documents-29807111?u=76281980&t=460)** Why this is serious.
 >
@@ -1618,7 +1602,7 @@ created: 2026-05-02
 >
 > **[8:57](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-to-analyze-and-understand-policy-documents-29807111?u=76281980&t=537)** Leaving Steve a voicemail.
 >
-> **[8:59](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-to-analyze-and-understand-policy-documents-29807111?u=76281980&t=539)** Steve getting back to you saying that he needs to speak to someone at head office.
+> **[8:59](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-to-analyze-and-understand-policy-documents-29807111?u=76281980&t=539)** Steve getting back to you saying that he needs to speak to someone at head [[Microsoft Office|office]].
 >
 > **[9:03](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-to-analyze-and-understand-policy-documents-29807111?u=76281980&t=543)** Waiting for three days.
 >
@@ -1632,15 +1616,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), data (6), next (3), ai (2), [[Microsoft Office|Office]] (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft Word|Word]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** dpo (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - do (1)
 
-#### How to improve proposal writing with AI assistance
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-improve-proposal-writing-with-ai-assistance-29811081?u=76281980)
+#### [How to improve proposal writing with AI assistance](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-improve-proposal-writing-with-ai-assistance-29811081?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1678,7 +1661,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-improve-proposal-writing-with-ai-assistance-29811081?u=76281980&t=119)** Right. Let me show you how it works.
 >
-> **[2:02](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-improve-proposal-writing-with-ai-assistance-29811081?u=76281980&t=122)** (graphic swoosh) So in this demo, we're going to be using ChatGPT here, and we're using just the standard model GPT-4o, which is the current standard model at the time of filming, of course, could be different for you right now.
+> **[2:02](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-improve-proposal-writing-with-ai-assistance-29811081?u=76281980&t=122)** (graphic swoosh) So in this demo, we're going to be using [[ChatGPT]] here, and we're using just the standard model GPT-4o, which is the current standard model at the time of filming, of course, could be different for you right now.
 >
 > **[2:16](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-improve-proposal-writing-with-ai-assistance-29811081?u=76281980&t=136)** I don't know where you are. Where are you, 2037?
 >
@@ -1722,7 +1705,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-improve-proposal-writing-with-ai-assistance-29811081?u=76281980&t=236)** You will remember all earlier answers, weaving that context into each subsequent section.
 >
-> **[4:02](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-improve-proposal-writing-with-ai-assistance-29811081?u=76281980&t=242)** That's a difficult word to say.
+> **[4:02](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-improve-proposal-writing-with-ai-assistance-29811081?u=76281980&t=242)** That's a difficult [[Microsoft Word|word]] to say.
 >
 > **[4:04](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/how-to-improve-proposal-writing-with-ai-assistance-29811081?u=76281980&t=244)** If information is missing or unclear, you'll let me know before drafting.
 >
@@ -1852,7 +1835,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (8), ai (6), [[Microsoft Word|Word]] (2), next (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[ChatGPT]] (1)
 > **CLI Commands:** make (9), find (1)
 > **Env Vars:** rfp (3), gpt (1)
 > **Definitions:** is a  (4)
@@ -1861,8 +1844,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - writing (1)
 
-#### Using AI for data analysis and spreadsheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-for-data-analysis-and-spreadsheets-29805090?u=76281980)
+#### [Using AI for data analysis and spreadsheets](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-for-data-analysis-and-spreadsheets-29805090?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1876,9 +1858,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-for-data-analysis-and-spreadsheets-29805090?u=76281980&t=20)** I explain what my spreadsheet is about and I describe what I want a formula for.
 >
-> **[0:25](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-for-data-analysis-and-spreadsheets-29805090?u=76281980&t=25)** And within just a few minutes, I'll have a singing and dancing Excel document that does things that I never even knew were possible.
+> **[0:25](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-for-data-analysis-and-spreadsheets-29805090?u=76281980&t=25)** And within just a few minutes, I'll have a singing and dancing [[Microsoft Excel|Excel]] document that does things that I never even knew were possible.
 >
-> **[0:34](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-for-data-analysis-and-spreadsheets-29805090?u=76281980&t=34)** If you use Google Sheets or Apple Numbers instead, just let the prompt know and it will assist you in the exact same way.
+> **[0:34](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-for-data-analysis-and-spreadsheets-29805090?u=76281980&t=34)** If you use [[Google]] Sheets or Apple Numbers instead, just let the prompt know and it will assist you in the exact same way.
 >
 > **[0:43](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-for-data-analysis-and-spreadsheets-29805090?u=76281980&t=43)** AI tools are amazing at spreadsheets.
 >
@@ -1894,9 +1876,9 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-for-data-analysis-and-spreadsheets-29805090?u=76281980&t=78)** So this is a very, very basic list of sales for the month, but I want more data out of this.
 >
-> **[1:25](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-for-data-analysis-and-spreadsheets-29805090?u=76281980&t=85)** So what we're going to do is we're going to go to Copilot.
+> **[1:25](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-for-data-analysis-and-spreadsheets-29805090?u=76281980&t=85)** So what we're going to do is we're going to go to [[Microsoft Copilot|Copilot]].
 >
-> **[1:29](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-for-data-analysis-and-spreadsheets-29805090?u=76281980&t=89)** Seeing this as a Microsoft product, I'm going to try Microsoft's Copilot to see how good it is at helping us with some formulas here.
+> **[1:29](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-for-data-analysis-and-spreadsheets-29805090?u=76281980&t=89)** Seeing this as a [[Microsoft]] product, I'm going to try Microsoft's Copilot to see how good it is at helping us with some formulas here.
 >
 > **[1:37](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-for-data-analysis-and-spreadsheets-29805090?u=76281980&t=97)** So it will either help us with formulas or it will give us instructions on how we can do certain tasks.
 >
@@ -1954,7 +1936,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-for-data-analysis-and-spreadsheets-29805090?u=76281980&t=234)** Good.
 >
-> **[3:56](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-for-data-analysis-and-spreadsheets-29805090?u=76281980&t=236)** Go to the Data tab in the Excel ribbon, click on Data Validation.
+> **[3:56](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-for-data-analysis-and-spreadsheets-29805090?u=76281980&t=236)** Go to the Data tab in the Excel ribbon, click on [[Data Validation]].
 >
 > **[3:59](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-for-data-analysis-and-spreadsheets-29805090?u=76281980&t=239)** So we're going to go to, we're at Data, Data Validation.
 >
@@ -2040,7 +2022,7 @@ created: 2026-05-02
 >
 > **[6:38](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-for-data-analysis-and-spreadsheets-29805090?u=76281980&t=398)** Let's troubleshoot it and get things working.
 >
-> **[6:41](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-for-data-analysis-and-spreadsheets-29805090?u=76281980&t=401)** The most common reason this happens is the entries in column B, Products Sold, might have extra spaces, different capitalization, or even hidden characters that make them not match perfectly with the entries in column H.
+> **[6:41](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-for-data-analysis-and-spreadsheets-29805090?u=76281980&t=401)** The most common reason this happens is the entries in column B, [[Microsoft Products|Products]] Sold, might have extra spaces, different capitalization, or even hidden characters that make them not match perfectly with the entries in column H.
 >
 > **[6:53](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-for-data-analysis-and-spreadsheets-29805090?u=76281980&t=413)** Okay, all right, so let's see.
 >
@@ -2086,7 +2068,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), prompt (5), data (5), [[Microsoft Excel|Excel]] (3), [[Microsoft Copilot|Copilot]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Microsoft Copilot|Copilot]] (2), [[Microsoft]] (2), [[Data Validation]] (2), [[Microsoft Products|Products]] (2)
 > **UI Navigation:** go to (4), click on (4), dropdown (3)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (3)
@@ -2098,8 +2080,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Broadening your idea generation with GenAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/broadening-your-idea-generation-with-gen-ai-29813073?u=76281980)
+#### [Broadening your idea generation with GenAI](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/broadening-your-idea-generation-with-gen-ai-29813073?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2109,7 +2090,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/broadening-your-idea-generation-with-gen-ai-29813073?u=76281980&t=17)** However, I don't necessarily believe that's true.
 >
-> **[0:21](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/broadening-your-idea-generation-with-gen-ai-29813073?u=76281980&t=21)** The problem often lies in the prompts that people give ChatGPT.
+> **[0:21](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/broadening-your-idea-generation-with-gen-ai-29813073?u=76281980&t=21)** The problem often lies in the prompts that people give [[ChatGPT]].
 >
 > **[0:25](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/broadening-your-idea-generation-with-gen-ai-29813073?u=76281980&t=25)** These prompts are nearly always worse than the brief that a human creative would receive, far worse.
 >
@@ -2245,19 +2226,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), prompt (5), [[ChatGPT]] (2), teams (1), generic (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2)
 > **CLI Commands:** make (3)
 > **Cross-References:** coming up (1)
 > **Definitions:** means that (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - as (1)
 
-#### Creating effective mind maps with GenAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-effective-mind-maps-with-gen-ai-29802092?u=76281980)
+#### [Creating effective mind maps with GenAI](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-effective-mind-maps-with-gen-ai-29802092?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-effective-mind-maps-with-gen-ai-29802092?u=76281980&t=0)** - When I work with people to help them generate ideas, they often start by writing things down in a list in a Word document.
+> **[0:00](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-effective-mind-maps-with-gen-ai-29802092?u=76281980&t=0)** - When I work with people to help them generate ideas, they often start by writing things down in a list in a [[Microsoft Word|Word]] document.
 >
 > **[0:07](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-effective-mind-maps-with-gen-ai-29802092?u=76281980&t=7)** This method is a form of linear thinking, which isn't always the best way to explore a problem.
 >
@@ -2271,7 +2251,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-effective-mind-maps-with-gen-ai-29802092?u=76281980&t=47)** If you're already using visual mind mapping software, you might be able to import this list and view it as a visual representation.
 >
-> **[0:55](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-effective-mind-maps-with-gen-ai-29802092?u=76281980&t=55)** So let's input an area that I'm familiar with and see what ChatGPT generates for us.
+> **[0:55](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-effective-mind-maps-with-gen-ai-29802092?u=76281980&t=55)** So let's input an area that I'm familiar with and see what [[ChatGPT]] generates for us.
 >
 > **[1:02](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-effective-mind-maps-with-gen-ai-29802092?u=76281980&t=62)** So we'll paste our prompt in here and you'll be glad to see it's a nice, short one this time.
 >
@@ -2313,14 +2293,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), prompt (2), [[ChatGPT]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** node (3), make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - when (1)
 
-#### Strengthening your debate skills with GenAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/strengthening-your-debate-skills-with-gen-ai-29813072?u=76281980)
+#### [Strengthening your debate skills with GenAI](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/strengthening-your-debate-skills-with-gen-ai-29813072?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2330,7 +2309,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/strengthening-your-debate-skills-with-gen-ai-29813072?u=76281980&t=9)** But when it comes to the logic, flow, and accuracy of your arguments, it's worth getting another perspective, and that's where this prompt can help you.
 >
-> **[0:19](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/strengthening-your-debate-skills-with-gen-ai-29813072?u=76281980&t=19)** All you have to do is enter some text that you've written, perhaps some sales copy or a section from an internal document, and then let ChatGPT search for the flaws, the fallacies, the inaccuracies, and other elements that might weaken your argument.
+> **[0:19](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/strengthening-your-debate-skills-with-gen-ai-29813072?u=76281980&t=19)** All you have to do is enter some text that you've written, perhaps some sales copy or a section from an internal document, and then let [[ChatGPT]] search for the flaws, the fallacies, the inaccuracies, and other elements that might weaken your argument.
 >
 > **[0:35](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/strengthening-your-debate-skills-with-gen-ai-29813072?u=76281980&t=35)** By using this prompt, you can gain a fresh perspective on your writing and ensure that your message is clear and effective.
 >
@@ -2382,13 +2361,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), [[ChatGPT]] (2), [[Search]] (1), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** coming up (2)
 > **Speakers:** - when (1)
 
-#### Using AI to challenge conventional thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-to-challenge-conventional-thinking-29801101?u=76281980)
+#### [Using AI to challenge conventional thinking](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/using-ai-to-challenge-conventional-thinking-29801101?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2450,17 +2428,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), business (2)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - no (1)
 
-#### Presenting ideas to stakeholders with GenAI help
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/presenting-ideas-to-stakeholders-with-gen-ai-help-29802094?u=76281980)
+#### [Presenting ideas to stakeholders with GenAI help](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/presenting-ideas-to-stakeholders-with-gen-ai-help-29802094?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/presenting-ideas-to-stakeholders-with-gen-ai-help-29802094?u=76281980&t=0)** - From my experience, the biggest problem with innovation is not a lack of ideas, it's poor decision-making. (chuckling) And that's not always the fault of the decision-makers.
+> **[0:00](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/presenting-ideas-to-stakeholders-with-gen-ai-help-29802094?u=76281980&t=0)** - From my experience, the biggest problem with innovation is not a lack of ideas, it's poor [[Decision-Making]]. (chuckling) And that's not always the fault of the decision-makers.
 >
 > **[0:11](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/presenting-ideas-to-stakeholders-with-gen-ai-help-29802094?u=76281980&t=11)** Too many people believe the myth that good ideas sell themselves.
 >
@@ -2502,7 +2478,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/presenting-ideas-to-stakeholders-with-gen-ai-help-29802094?u=76281980&t=109)** It's the CEO, the CFO, and the COO, all right, the most important decision-makers, the big guns.
 >
-> **[1:56](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/presenting-ideas-to-stakeholders-with-gen-ai-help-29802094?u=76281980&t=116)** So let's see what ChatGPT has to say about this.
+> **[1:56](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/presenting-ideas-to-stakeholders-with-gen-ai-help-29802094?u=76281980&t=116)** So let's see what [[ChatGPT]] has to say about this.
 >
 > **[2:04](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/presenting-ideas-to-stakeholders-with-gen-ai-help-29802094?u=76281980&t=124)** Here we go.
 >
@@ -2534,7 +2510,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/presenting-ideas-to-stakeholders-with-gen-ai-help-29802094?u=76281980&t=159)** Right.
 >
-> **[2:40](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/presenting-ideas-to-stakeholders-with-gen-ai-help-29802094?u=76281980&t=160)** So collaboration, industry influence, sustainability.
+> **[2:40](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/presenting-ideas-to-stakeholders-with-gen-ai-help-29802094?u=76281980&t=160)** So collaboration, industry influence, [[Sustainability]].
 >
 > **[2:43](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/presenting-ideas-to-stakeholders-with-gen-ai-help-29802094?u=76281980&t=163)** All right, so we're getting to the stuff that's more about what's this social impact on them as human beings.
 >
@@ -2562,14 +2538,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), [[Decision-Making]] (2), product (2), [[ChatGPT]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (2), [[ChatGPT]] (1), [[Sustainability]] (1)
 > **Env Vars:** ceo (1), cfo (1), coo (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - from (1)
 > **Non-Speech:** (gentle music) (1)
 
-#### Finding your thinking blind spots with AI prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/finding-your-thinking-blind-spots-with-ai-prompts-29805088?u=76281980)
+#### [Finding your thinking blind spots with AI prompts](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/finding-your-thinking-blind-spots-with-ai-prompts-29805088?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2711,7 +2686,7 @@ created: 2026-05-02
 >
 > **[6:12](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/finding-your-thinking-blind-spots-with-ai-prompts-29805088?u=76281980&t=372)** So, "The SparkleHoof Accessories proposal pitches a partnership to enhance a stable's horse presentation using vibrant, glittering hoof polishes that prioritize equine safety and hoof health.
 >
-> **[6:23](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/finding-your-thinking-blind-spots-with-ai-prompts-29805088?u=76281980&t=383)** It shows how these fun, high-quality cosmetic products can differentiate the stable services, boost client experience, and amplify marketing, all without compromising care standards."
+> **[6:23](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/finding-your-thinking-blind-spots-with-ai-prompts-29805088?u=76281980&t=383)** It shows how these fun, high-quality cosmetic [[Microsoft Products|products]] can differentiate the stable services, boost client experience, and amplify marketing, all without compromising care standards."
 >
 > **[6:34](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/finding-your-thinking-blind-spots-with-ai-prompts-29805088?u=76281980&t=394)** Right, so here's, it's picking out the strengths.
 >
@@ -2813,7 +2788,7 @@ created: 2026-05-02
 >
 > **[10:32](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/finding-your-thinking-blind-spots-with-ai-prompts-29805088?u=76281980&t=632)** Run free little document. Run free.
 >
-> **[10:36](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/finding-your-thinking-blind-spots-with-ai-prompts-29805088?u=76281980&t=636)** You know, it feels like just yesterday that there were just an empty Word document.
+> **[10:36](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/finding-your-thinking-blind-spots-with-ai-prompts-29805088?u=76281980&t=636)** You know, it feels like just yesterday that there were just an empty [[Microsoft Word|Word]] document.
 >
 > **[10:40](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/finding-your-thinking-blind-spots-with-ai-prompts-29805088?u=76281980&t=640)** I feel so proud.
 >
@@ -2827,7 +2802,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (8), business (4), ai (2), strengths (2), web (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (5), means that (1)
 > **Analogies:** it's like (2), picture (1), kind of like (1), imagine (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -2836,8 +2811,7 @@ created: 2026-05-02
 > **Cross-References:** as you saw (1)
 > **Speakers:** - one (1)
 
-#### Adapting your message for various stakeholders with GenAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/adapting-your-message-for-various-stakeholders-with-gen-ai-29800092?u=76281980)
+#### [Adapting your message for various stakeholders with GenAI](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/adapting-your-message-for-various-stakeholders-with-gen-ai-29800092?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2845,7 +2819,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/adapting-your-message-for-various-stakeholders-with-gen-ai-29800092?u=76281980&t=11)** Few clients gave a hoot about any of that.
 >
-> **[0:14](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/adapting-your-message-for-various-stakeholders-with-gen-ai-29800092?u=76281980&t=14)** In their heads, all they were thinking was, "Will it give me results that will make me look good to the rest of the board?"
+> **[0:14](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/adapting-your-message-for-various-stakeholders-with-gen-ai-29800092?u=76281980&t=14)** In their heads, all they were thinking was, "Will it give me results that will make me look good to the [[Representational State Transfer (REST)|rest]] of the board?"
 >
 > **[0:22](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/adapting-your-message-for-various-stakeholders-with-gen-ai-29800092?u=76281980&t=22)** Now who was right here?
 >
@@ -2971,7 +2945,7 @@ created: 2026-05-02
 >
 > **[6:33](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/adapting-your-message-for-various-stakeholders-with-gen-ai-29800092?u=76281980&t=393)** Why your clinical expertise matters to this innovation, right?
 >
-> **[6:36](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/adapting-your-message-for-various-stakeholders-with-gen-ai-29800092?u=76281980&t=396)** Move beyond recommending products you've never personally experienced.
+> **[6:36](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/adapting-your-message-for-various-stakeholders-with-gen-ai-29800092?u=76281980&t=396)** Move beyond recommending [[Microsoft Products|products]] you've never personally experienced.
 >
 > **[6:39](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/adapting-your-message-for-various-stakeholders-with-gen-ai-29800092?u=76281980&t=399)** The Gourmet Grin Collection offers you the opportunity to be among the first dental professionals to evaluate breakthrough approach to patient compliance.
 >
@@ -3031,7 +3005,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), business (5), prompt (3), [[Representational State Transfer (REST)|Rest]] (1), ai (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is a  (4)
 > **Code Identifiers:** source_document (1), target_audience (1)
@@ -3040,8 +3014,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - throughout (1)
 
-#### Creating visual aids and graphics with AI assistance
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-visual-aids-and-graphics-with-ai-assistance-29802093?u=76281980)
+#### [Creating visual aids and graphics with AI assistance](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-visual-aids-and-graphics-with-ai-assistance-29802093?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3059,7 +3032,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-visual-aids-and-graphics-with-ai-assistance-29802093?u=76281980&t=25)** Come to think of it, this book would've been so much easier to create if I'd just drawn 45 pictures.
 >
-> **[0:33](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-visual-aids-and-graphics-with-ai-assistance-29802093?u=76281980&t=33)** I think I need to have a word with my publisher.
+> **[0:33](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-visual-aids-and-graphics-with-ai-assistance-29802093?u=76281980&t=33)** I think I need to have a [[Microsoft Word|word]] with my publisher.
 >
 > **[0:35](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-visual-aids-and-graphics-with-ai-assistance-29802093?u=76281980&t=35)** All right, after this.
 >
@@ -3067,7 +3040,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-visual-aids-and-graphics-with-ai-assistance-29802093?u=76281980&t=41)** They used to be terrible, adding too many fingers and turning text into gibberish.
 >
-> **[0:47](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-visual-aids-and-graphics-with-ai-assistance-29802093?u=76281980&t=47)** But now, most of them are really good at both of these things, and they're built into lots of AI tools like ChatGPT and Gemini.
+> **[0:47](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-visual-aids-and-graphics-with-ai-assistance-29802093?u=76281980&t=47)** But now, most of them are really good at both of these things, and they're built into lots of AI tools like [[ChatGPT]] and [[Gemini]].
 >
 > **[0:56](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-visual-aids-and-graphics-with-ai-assistance-29802093?u=76281980&t=56)** If you know what you want, you can simply ask for it.
 >
@@ -3083,7 +3056,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-visual-aids-and-graphics-with-ai-assistance-29802093?u=76281980&t=91)** This was Gemini. That's worse.
 >
-> **[1:32](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-visual-aids-and-graphics-with-ai-assistance-29802093?u=76281980&t=92)** Midjourney, what's even going on here?
+> **[1:32](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-visual-aids-and-graphics-with-ai-assistance-29802093?u=76281980&t=92)** [[Midjourney]], what's even going on here?
 >
 > **[1:34](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-visual-aids-and-graphics-with-ai-assistance-29802093?u=76281980&t=94)** Leonardo, totally wrong, but at least I'd eat this one.
 >
@@ -3121,7 +3094,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-visual-aids-and-graphics-with-ai-assistance-29802093?u=76281980&t=186)** I want you to start by channeling the great graphic designers and giving me 10 very different suggestions of how you could bring this concept to life visually, avoid cliches and obvious approaches.
 >
-> **[3:19](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-visual-aids-and-graphics-with-ai-assistance-29802093?u=76281980&t=199)** Think conceptually, consider approaches like cartoon strips, infographics, combining elements, showing consequences, et cetera.
+> **[3:19](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-visual-aids-and-graphics-with-ai-assistance-29802093?u=76281980&t=199)** Think conceptually, consider approaches like cartoon strips, [[Infographics]], combining elements, showing consequences, et cetera.
 >
 > **[3:30](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-visual-aids-and-graphics-with-ai-assistance-29802093?u=76281980&t=210)** Then present me with your 10 suggestions along with text for an AI image generator to create it in the style with aspect ratio.
 >
@@ -3147,7 +3120,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-visual-aids-and-graphics-with-ai-assistance-29802093?u=76281980&t=265)** So let's channel the ghosts of Paul Rand, Saul Bass, Cipe Pineles and their ilk. Okay?
 >
-> **[4:32](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-visual-aids-and-graphics-with-ai-assistance-29802093?u=76281980&t=272)** Right, so the shrunken head office, a row of workers at vintage office desks.
+> **[4:32](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-visual-aids-and-graphics-with-ai-assistance-29802093?u=76281980&t=272)** Right, so the shrunken head [[Microsoft Office|office]], a row of workers at vintage office desks.
 >
 > **[4:38](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/creating-visual-aids-and-graphics-with-ai-assistance-29802093?u=76281980&t=278)** Each worker has a human body, but their heads are comically small, shrunken like dried apples, while a glowing, oversized AI machine looms over them, sucking thought bubbles out their heads like a vacuum.
 >
@@ -3251,7 +3224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), prompt (9), business (4), [[ChatGPT]] (3), [[Gemini]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Gemini]] (2), [[Microsoft Office|Office]] (2), [[Microsoft Word|Word]] (1), [[Midjourney]] (1)
 > **CLI Commands:** make (4)
 > **Non-Speech:** (bright upbeat music) (4)
 > **Definitions:** is a  (2), is an  (1)
@@ -3263,8 +3236,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/summary-and-next-steps-29805089?u=76281980)
+#### [Summary and next steps](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/summary-and-next-steps-29805089?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3278,17 +3250,17 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/summary-and-next-steps-29805089?u=76281980&t=27)** Remember that you can get access to all the prompts on this page right here.
 >
-> **[0:33](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/summary-and-next-steps-29805089?u=76281980&t=33)** And if you want to learn more about writing your own prompts, I recommend that you take my course, How to Research and Write Using Generative AI Tools.
+> **[0:33](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/summary-and-next-steps-29805089?u=76281980&t=33)** And if you want to learn more about writing your own prompts, I recommend that you take my course, How to Research and Write Using [[Generative AI Tools]].
 >
 > **[0:42](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/summary-and-next-steps-29805089?u=76281980&t=42)** And while you're at it, check out my other AI courses on the platform, there are currently about a dozen of them.
 >
-> **[0:49](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/summary-and-next-steps-29805089?u=76281980&t=49)** Now, go and tell your colleagues about this course and share it on LinkedIn, so that people can see just how cool you are.
+> **[0:49](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/summary-and-next-steps-29805089?u=76281980&t=49)** Now, go and tell your colleagues about this course and share it on [[LinkedIn]], so that people can see just how cool you are.
 >
 > **[0:57](https://www.linkedin.com/learning/how-to-boost-your-productivity-with-ai-tools-26974255/summary-and-next-steps-29805089?u=76281980&t=57)** Be careful crossing the road, tell someone you love them, and I'll see you in another course real soon.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Generative AI Tools]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Generative AI Tools]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - well (1)

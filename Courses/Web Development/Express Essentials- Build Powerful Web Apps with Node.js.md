@@ -90,14 +90,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generate server-side code with Express
-> [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/generate-server-side-code-with-express-24554156?u=76281980)
+#### [Generate server-side code with Express](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/generate-server-side-code-with-express-24554156?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/generate-server-side-code-with-express-24554156?u=76281980&t=0)** - [Jamie] If you're a frontend engineer that wants to explore backend or full-stack development, Express is a great first step.
+> **[0:00](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/generate-server-side-code-with-express-24554156?u=76281980&t=0)** - [Jamie] If you're a frontend engineer that wants to explore backend or [[Full-Stack Development]], Express is a great first step.
 >
-> **[0:07](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/generate-server-side-code-with-express-24554156?u=76281980&t=7)** We'll cover everything from installation, creating a server, and the routing knowledge needed to generate server-side code.
+> **[0:07](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/generate-server-side-code-with-express-24554156?u=76281980&t=7)** We'll cover everything from installation, creating a server, and the [[Routing]] knowledge needed to generate server-side code.
 >
 > **[0:14](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/generate-server-side-code-with-express-24554156?u=76281980&t=14)** I'm Jamie Pittman, and I created this course to help you get up and running with Express.
 >
@@ -107,18 +106,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (2), [[Full-Stack Development]] (1), [[Routing]] (1), full-stack (1)
+> **Frameworks & Libraries:** [[Full-Stack Development]] (1), [[Routing]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [jamie] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-you-should-know?u=76281980&t=0)** - [Instructor] This course provides a beginner to intermediate level overview of Express.
 >
-> **[0:05](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-you-should-know?u=76281980&t=5)** Express is a Node.js framework that utilizes JavaScript.
+> **[0:05](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-you-should-know?u=76281980&t=5)** Express is a [[Node.js]] framework that utilizes [[JavaScript]].
 >
 > **[0:10](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-you-should-know?u=76281980&t=10)** You absolutely do not need to be an expert or senior level developer, but this course does require a basic understanding of JavaScript.
 >
@@ -144,7 +142,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (3), [[Node.js]] (2), [[JavaScript]] (2), web (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[JavaScript]] (2)
 > **Tools:** terminal (4), visual studio (1), vs code (1)
 > **File Paths:** node.js (2)
 > **CLI Commands:** node (2)
@@ -158,18 +156,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are Node.js and npm?
-> [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-node-js-and-npm?u=76281980)
+#### [What are Node.js and npm?](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-node-js-and-npm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-node-js-and-npm?u=76281980&t=0)** - [Instructor] Before you can start working with Express, it's important for you to first understand Node.js and NPM, as you will need both of these in order to install and use Express.
+> **[0:00](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-node-js-and-npm?u=76281980&t=0)** - [Instructor] Before you can start working with Express, it's important for you to first understand [[Node.js]] and [[npm]], as you will need both of these in order to install and use Express.
 >
 > **[0:10](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-node-js-and-npm?u=76281980&t=10)** We are going to skin the surface on these technologies.
 >
-> **[0:14](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-node-js-and-npm?u=76281980&t=14)** So if you need more of a refresher on either one, please check out additional courses in the LinkedIn learning library.
+> **[0:14](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-node-js-and-npm?u=76281980&t=14)** So if you need more of a refresher on either one, please check out additional courses in the [[LinkedIn]] learning library.
 >
-> **[0:21](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-node-js-and-npm?u=76281980&t=21)** Node.js is an open source and cross-platform JavaScript runtime environment.
+> **[0:21](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-node-js-and-npm?u=76281980&t=21)** Node.js is an open source and cross-platform [[JavaScript]] runtime environment.
 >
 > **[0:27](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-node-js-and-npm?u=76281980&t=27)** For those of us who write JavaScript already, this provides us with the means of writing server side code for our applications.
 >
@@ -201,7 +198,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-node-js-and-npm?u=76281980&t=126)** But if not, let's head over to the official Node.js site and let's get node installed.
 >
-> **[2:12](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-node-js-and-npm?u=76281980&t=132)** This is the official website for Node.js, and on this download page, based on your operating system, Windows, MacOS, or Linux, you can select the proper installer and get the process started.
+> **[2:12](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-node-js-and-npm?u=76281980&t=132)** This is the official website for Node.js, and on this download page, based on your operating system, [[Windows]], MacOS, or [[Linux]], you can select the proper installer and get the process started.
 >
 > **[2:24](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-node-js-and-npm?u=76281980&t=144)** Find the operating system for your machine under the LTS tab.
 >
@@ -227,7 +224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (10), [[npm]] (8), node (8), express (5), [[JavaScript]] (4)
+> **Frameworks & Libraries:** [[Node.js]] (10), [[npm]] (8), [[JavaScript]] (4), [[LinkedIn]] (1), [[Windows]] (1)
 > **CLI Commands:** node (18), npm (8), find (1)
 > **File Paths:** node.js (10)
 > **Env Vars:** npm (6), lts (2), mpm (1)
@@ -236,8 +233,7 @@ created: 2026-05-02
 > **Analogies:** just like (2), similar to (1)
 > **Versions:** version 16 (1), version 8 (1)
 
-#### What is Express?
-> [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-express?u=76281980)
+#### [What is Express?](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-express?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -245,9 +241,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-express?u=76281980&t=5)** It is definitely one of the most, if not the most popular framework for no JS.
 >
-> **[0:11](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-express?u=76281980&t=11)** Express is used to make building websites, web applications, and APIs, as easy as possible using JavaScript.
+> **[0:11](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-express?u=76281980&t=11)** Express is used to make building websites, web applications, and APIs, as easy as possible using [[JavaScript]].
 >
-> **[0:19](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-express?u=76281980&t=19)** It is used to handle and simplify responses from API requests and supports various templating engines to simplify HTML generation.
+> **[0:19](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-express?u=76281980&t=19)** It is used to handle and simplify responses from API requests and supports various templating engines to simplify [[HTML]] generation.
 >
 > **[0:28](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-express?u=76281980&t=28)** If you're not familiar with templating engines, they're used to create HTML templates with minimal code and give you the ability to feed variables into the templates.
 >
@@ -263,14 +259,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (7), node (3), application (2), [[HTML]] (2), web (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[JavaScript]] (1)
 > **CLI Commands:** node (3), make (1)
 > **Env Vars:** html (2), api (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [narrator] (1)
 
-#### What is Express Application Generator?
-> [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-express-application-generator?u=76281980)
+#### [What is Express Application Generator?](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-express-application-generator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -312,7 +307,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-express-application-generator?u=76281980&t=113)** And this is where I'm going to create my project using Express Application Generator.
 >
-> **[1:58](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-express-application-generator?u=76281980&t=118)** So once you're in that folder, we're going to run the command npm install express-generator.
+> **[1:58](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-express-application-generator?u=76281980&t=118)** So once you're in that folder, we're going to run the command [[npm]] install express-generator.
 >
 > **[2:10](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-express-application-generator?u=76281980&t=130)** All right, once installed, I'm going to go ahead and clear just so I get my terminal nice and clean for us.
 >
@@ -338,7 +333,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-express-application-generator?u=76281980&t=198)** This is going to indicate that we're using that application generator, and then everything that proceeds is going to be any configurations that we add for the project.
 >
-> **[3:29](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-express-application-generator?u=76281980&t=209)** So the first thing we want to do is add a gitignore file, and we can see that in order to do that, we'll add --git.
+> **[3:29](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-express-application-generator?u=76281980&t=209)** So the first thing we want to do is add a gitignore file, and we can see that in order to do that, we'll add --[[Git]].
 >
 > **[3:36](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-express-application-generator?u=76281980&t=216)** Then the next thing that we needed to do was add the Handlebars template engine.
 >
@@ -388,7 +383,7 @@ created: 2026-05-02
 >
 > **[5:38](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-express-application-generator?u=76281980&t=338)** Then we have a public folder.
 >
-> **[5:39](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-express-application-generator?u=76281980&t=339)** This contains folders with images, JavaScript files, style sheets.
+> **[5:39](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-express-application-generator?u=76281980&t=339)** This contains folders with images, [[JavaScript]] files, style sheets.
 >
 > **[5:45](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-express-application-generator?u=76281980&t=345)** Out-of-the-box, Express Application Generator has a style.css sheet that has some basic CSS that we'll see when we run the server.
 >
@@ -404,7 +399,7 @@ created: 2026-05-02
 >
 > **[6:16](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-express-application-generator?u=76281980&t=376)** Basically, you can pass variables into the template engines to generate a view.
 >
-> **[6:21](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-express-application-generator?u=76281980&t=381)** We also see our gitignore file was generated for us, as well as a package.json file.
+> **[6:21](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-express-application-generator?u=76281980&t=381)** We also see our gitignore file was generated for us, as well as a package.[[JSON]] file.
 >
 > **[6:27](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-express-application-generator?u=76281980&t=387)** Lastly, we have our app.js file, and let's go ahead and open that up and see what that has.
 >
@@ -452,7 +447,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (23), application (11), [[npm]] (6), next (3), [[Git]] (2)
+> **Frameworks & Libraries:** [[npm]] (6), [[Git]] (2), [[JavaScript]] (1), [[JSON]] (1)
 > **CLI Commands:** npm (6), make (2), find (2), git (2), mkdir (1)
 > **Tools:** terminal (8), command line (4), vs code (2)
 > **Prerequisites:** install (7), set up (4), getting started (1)
@@ -466,8 +461,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started: Server and project setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980)
+#### [Getting started: Server and project setup](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -483,7 +477,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980&t=38)** All right.
 >
-> **[0:38](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980&t=38)** So I have that new folder created and now I'm going to navigate into it and we can go ahead and initialize this new project using npm init.
+> **[0:38](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980&t=38)** So I have that new folder created and now I'm going to navigate into it and we can go ahead and initialize this new project using [[npm]] init.
 >
 > **[0:50](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980&t=50)** So make sure that you are in that new project folder, and this is where we're going to start the project.
 >
@@ -503,7 +497,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980&t=104)** The entry point for our project is going to be index.js, and we'll talk about that a little bit later, but that's perfect, we don't need to make any changes.
 >
-> **[1:53](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980&t=113)** No test command, no Git repository, no keywords.
+> **[1:53](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980&t=113)** No test command, no [[Git]] repository, no keywords.
 >
 > **[1:58](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980&t=118)** If you want to add your name as the author, go ahead and do so.
 >
@@ -517,13 +511,13 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980&t=146)** So, sorry, I'm going to go to File, Open Folder, and I created this on my desktop, expresses essentials and go ahead and click open.
 >
-> **[2:38](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980&t=158)** So now we can see that a package.json file has been generated from our npm init.
+> **[2:38](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980&t=158)** So now we can see that a package.[[JSON]] file has been generated from our npm init.
 >
 > **[2:46](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980&t=166)** So this looks very familiar, we just saw this in our terminal.
 >
 > **[2:49](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980&t=169)** So now the next thing that we need to do is install express in another package called nodemon, nodemon is a tool that will automatically restart your node server, when a change has been detected in the project.
 >
-> **[3:05](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980&t=185)** It is a huge time saver when working with Node.js.
+> **[3:05](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980&t=185)** It is a huge time saver when working with [[Node.js]].
 >
 > **[3:11](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980&t=191)** So let's open our terminal again.
 >
@@ -533,7 +527,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980&t=223)** You may be asking yourself, what does ES6 refer to?
 >
-> **[3:48](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980&t=228)** You've probably heard it quite a bit, and ES6 is referring to ECMAScript 6, and this is a specific version of JavaScript that is considered industry standard.
+> **[3:48](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980&t=228)** You've probably heard it quite a bit, and ES6 is referring to [[ECMAScript]] 6, and this is a specific version of [[JavaScript]] that is considered industry standard.
 >
 > **[4:01](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980&t=241)** It allows us to use several features of JavaScript that we were not previously able to, such as modules, which we'll talk about here shortly, arrow functions, several other features, even things like const and let, those were part of ES6.
 >
@@ -553,7 +547,7 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980&t=319)** So the first one is babel core.
 >
-> **[5:21](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980&t=321)** So @babel/core, then the next is babel cli, so @babel/cli.
+> **[5:21](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980&t=321)** So @babel/core, then the next is babel [[CLI]], so @babel/cli.
 >
 > **[5:29](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/getting-started-server-and-project-setup?u=76281980&t=329)** The third is @babel/preset-env, and then the last one is @babel/node.
 >
@@ -697,7 +691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (13), [[npm]] (9), [[JSON]] (8), next (6), [[JavaScript]] (5)
+> **Frameworks & Libraries:** [[npm]] (9), [[JSON]] (8), [[JavaScript]] (5), [[CLI]] (3), [[Git]] (1)
 > **CLI Commands:** make (15), npm (9), node (5), cd (1), mkdir (1)
 > **File Paths:** index.js (9), package.json (5), app.js (3), node.js (1), apt.js (1)
 > **Tools:** terminal (10), command line (3), vs code (2)
@@ -706,8 +700,7 @@ created: 2026-05-02
 > **Definitions:** is a  (9)
 > **UI Navigation:** navigate to (1), go to (1), open the (1), click on (1)
 
-#### Mock data is served: Adding data to your server
-> [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/mock-data-is-served-adding-data-to-your-server?u=76281980)
+#### [Mock data is served: Adding data to your server](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/mock-data-is-served-adding-data-to-your-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -725,7 +718,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/mock-data-is-served-adding-data-to-your-server?u=76281980&t=37)** But if you ever need to generate mock data, know that there are many options here for you.
 >
-> **[0:43](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/mock-data-is-served-adding-data-to-your-server?u=76281980&t=43)** These fields and types represent the information that will be housed in the JSON data that we are going to generate.
+> **[0:43](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/mock-data-is-served-adding-data-to-your-server?u=76281980&t=43)** These fields and types represent the information that will be housed in the [[JSON]] data that we are going to generate.
 >
 > **[0:50](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/mock-data-is-served-adding-data-to-your-server?u=76281980&t=50)** I'll start by removing the last two items, gender and IP address.
 >
@@ -813,7 +806,7 @@ created: 2026-05-02
 >
 > **[5:24](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/mock-data-is-served-adding-data-to-your-server?u=76281980&t=324)** What does the statement cannot get mean?
 >
-> **[5:27](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/mock-data-is-served-adding-data-to-your-server?u=76281980&t=327)** At this point in our project, we have not implemented any HTTP methods or created any routes to fetch data.
+> **[5:27](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/mock-data-is-served-adding-data-to-your-server?u=76281980&t=327)** At this point in our project, we have not implemented any HTTP methods or created any routes to [[Fetch]] data.
 >
 > **[5:35](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/mock-data-is-served-adding-data-to-your-server?u=76281980&t=335)** The get method is an HTTP method used to retrieve data that we will discuss in the next video.
 >
@@ -833,7 +826,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), [[JSON]] (6), next (2), express (2), api (1)
+> **Frameworks & Libraries:** [[JSON]] (6), [[Fetch]] (1)
 > **Env Vars:** json (4), http (2), api (1), csv (1)
 > **Tools:** terminal (4), command line (2), vs code (1)
 > **File Paths:** mock.json (3), index.js (1)
@@ -842,8 +835,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** previous video (1), in the next (1)
 
-#### What are HTTP methods and routes?
-> [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-http-methods-and-routes?u=76281980)
+#### [What are HTTP methods and routes?](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-http-methods-and-routes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -997,7 +989,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (3), application (2), express (2), web (1)
 > **Env Vars:** http (12), post (10), put (6), delete (4), crud (3)
 > **API Endpoints:** get  (7), put  (5), post  (4), get
  (2), delete
@@ -1007,9 +998,9 @@ created: 2026-05-02
 > **CLI Commands:** make (3)
 > **URLs:** [localhost:3000](https://localhost:3000) (2)
 > **Ports:** :3000 (2)
+> **Cross-References:** next video (1)
 
-#### Postman: A free tool for testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/postman-a-free-tool-for-testing?u=76281980)
+#### [Postman: A free tool for testing](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/postman-a-free-tool-for-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1105,7 +1096,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (1), express (1), prompt (1), hit (1)
 > **Tools:** postman (12)
 > **Definitions:** is a  (10)
 > **Env Vars:** http (5), url (3)
@@ -1113,9 +1103,9 @@ created: 2026-05-02
 > **URLs:** [postman.com](https://postman.com) (1), [localhost:3000](https://localhost:3000) (1)
 > **Cross-References:** previous video (1), we discussed (1)
 > **Exercise Files:** download the (2)
+> **CLI Commands:** make (1)
 
-#### Let's GET some data: Creating a basic data endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/let-s-get-some-data-creating-a-basic-data-endpoint?u=76281980)
+#### [Let's GET some data: Creating a basic data endpoint](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/let-s-get-some-data-creating-a-basic-data-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1141,7 +1131,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/let-s-get-some-data-creating-a-basic-data-endpoint?u=76281980&t=71)** But for this course, we're going to use the mock data that we already imported to send to our client.
 >
-> **[1:17](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/let-s-get-some-data-creating-a-basic-data-endpoint?u=76281980&t=77)** In order to do that, we will use the response and then apply the method json in order to send data to the client in json format.
+> **[1:17](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/let-s-get-some-data-creating-a-basic-data-endpoint?u=76281980&t=77)** In order to do that, we will use the response and then apply the method [[JSON]] in order to send data to the client in json format.
 >
 > **[1:27](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/let-s-get-some-data-creating-a-basic-data-endpoint?u=76281980&t=87)** In order to set this up, we'll just simply need to pass our data to the json method.
 >
@@ -1175,23 +1165,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), express (3), [[JSON]] (3), database (2), application (1)
+> **Frameworks & Libraries:** [[JSON]] (3)
 > **CLI Commands:** make (3), node (1)
 > **Tools:** postman (4)
 > **Env Vars:** http (1), url (1)
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (1)
 
-#### Serving static files with Express
-> [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/serving-static-files-with-express?u=76281980)
+#### [Serving static files with Express](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/serving-static-files-with-express?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/serving-static-files-with-express?u=76281980&t=0)** - [Instructor] In addition to using Express to query and fetch data from APIs, you can also use express to serve static files.
+> **[0:00](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/serving-static-files-with-express?u=76281980&t=0)** - [Instructor] In addition to using Express to query and [[Fetch]] data from APIs, you can also use express to serve static files.
 >
 > **[0:08](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/serving-static-files-with-express?u=76281980&t=8)** Static files, in this case, are files that are not going to change.
 >
-> **[0:12](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/serving-static-files-with-express?u=76281980&t=12)** So typically you might serve files like photos, PDFs, document files, but you can also serve more development specific files like HTML and CSS files.
+> **[0:12](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/serving-static-files-with-express?u=76281980&t=12)** So typically you might serve files like photos, PDFs, document files, but you can also serve more development specific files like [[HTML]] and CSS files.
 >
 > **[0:23](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/serving-static-files-with-express?u=76281980&t=23)** If you take a look at the exercise files for this course, you should see a folder labeled static_files.
 >
@@ -1321,7 +1310,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (9), [[Fetch]] (1), data (1), [[HTML]] (1), css (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[HTML]] (1)
 > **CLI Commands:** make (4)
 > **Tools:** vs code (3), command line (1)
 > **Env Vars:** html (1), css (1), port (1)
@@ -1335,12 +1324,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are routing parameters?
-> [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-routing-parameters?u=76281980)
+#### [What are routing parameters?](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-routing-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-routing-parameters?u=76281980&t=0)** - Before we build on our express routing knowledge, let's review what we've learned thus far.
+> **[0:00](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-routing-parameters?u=76281980&t=0)** - Before we build on our express [[Routing]] knowledge, let's review what we've learned thus far.
 >
 > **[0:06](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-routing-parameters?u=76281980&t=6)** A route is how an application responds to a client request to a particular end point.
 >
@@ -1424,7 +1412,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-routing-parameters?u=76281980&t=265)** All right, and we can go ahead and save that.
 >
-> **[4:27](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-routing-parameters?u=76281980&t=267)** And then next, as we've done in our other routes, we need to add the request and response and set up the rest of the handler.
+> **[4:27](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-routing-parameters?u=76281980&t=267)** And then next, as we've done in our other routes, we need to add the request and response and set up the [[Representational State Transfer (REST)|rest]] of the handler.
 >
 > **[4:35](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-routing-parameters?u=76281980&t=275)** So request, and then response, and then I'm going to set up my arrow function.
 >
@@ -1508,7 +1496,7 @@ created: 2026-05-02
 >
 > **[8:45](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-routing-parameters?u=76281980&t=525)** That is an array.
 >
-> **[8:47](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-routing-parameters?u=76281980&t=527)** Now we're going to do some data manipulation using a JavaScript array method called filter.
+> **[8:47](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-routing-parameters?u=76281980&t=527)** Now we're going to do some [[Data Manipulation]] using a [[JavaScript]] array method called filter.
 >
 > **[8:55](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-routing-parameters?u=76281980&t=535)** Using the JavaScript array method filter, we're going to filter the data down based on the student ID.
 >
@@ -1574,7 +1562,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Routing]] (9), express (6), application (4), [[JavaScript]] (3)
+> **Frameworks & Libraries:** [[Routing]] (9), [[JavaScript]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Data Manipulation]] (1)
 > **Env Vars:** url (4), crud (1), req (1), res (1)
 > **Prerequisites:** set up (6)
 > **Definitions:** is a  (2), means that (1), is an  (1), basically means (1)
@@ -1583,8 +1571,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll down (2)
 
-#### What are route handlers?
-> [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-route-handlers?u=76281980)
+#### [What are route handlers?](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-route-handlers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1598,7 +1585,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-route-handlers?u=76281980&t=23)** We'll dive into this in our editor in just a second, but for more information about route handlers, you can definitely reference the Express documentation for more information and more detailed and advanced ways to use route handlers.
 >
-> **[0:39](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-route-handlers?u=76281980&t=39)** If we look at our first route, our get at the root of the project, our route handler here is a function with a response.json, a single callback function.
+> **[0:39](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-route-handlers?u=76281980&t=39)** If we look at our first route, our get at the root of the project, our route handler here is a function with a response.[[JSON]], a single callback function.
 >
 > **[0:49](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-route-handlers?u=76281980&t=49)** It is perfectly fine if your route handlers are simple and straightforward.
 >
@@ -1662,7 +1649,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (13), express (2), [[JSON]] (2), hit (2), node (1)
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **Prerequisites:** set up (5)
 > **CLI Commands:** make (2), node (1)
 > **File Paths:** response.json (2)
@@ -1671,8 +1658,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### What are common methods for Express routing?
-> [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-common-methods-for-express-routing?u=76281980)
+#### [What are common methods for Express routing?](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-common-methods-for-express-routing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1684,7 +1670,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-common-methods-for-express-routing?u=76281980&t=30)** The Express documentation has a full list of response methods that you can incorporate into your projects but, for the sake of this course, we're only going to focus on a few of them to help get you started.
 >
-> **[0:43](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-common-methods-for-express-routing?u=76281980&t=43)** Some of these should look familiar to you as we have been using the JSON method and the send method at various points in our project thus far.
+> **[0:43](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-common-methods-for-express-routing?u=76281980&t=43)** Some of these should look familiar to you as we have been using the [[JSON]] method and the send method at various points in our project thus far.
 >
 > **[0:52](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-common-methods-for-express-routing?u=76281980&t=52)** The JSON method simply sends the JSON response.
 >
@@ -1718,7 +1704,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-common-methods-for-express-routing?u=76281980&t=155)** But, for this particular example, we're going to use an external site.
 >
-> **[2:39](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-common-methods-for-express-routing?u=76281980&t=159)** So, within the parentheses, the argument that we're going to pass here to this redirect method is in quotation marks, we're going to go to the LinkedIn URL.
+> **[2:39](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-common-methods-for-express-routing?u=76281980&t=159)** So, within the parentheses, the argument that we're going to pass here to this redirect method is in quotation marks, we're going to go to the [[LinkedIn]] URL.
 >
 > **[2:49](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-are-common-methods-for-express-routing?u=76281980&t=169)** So that is [http://www.linkedin.com](http://www.linkedin.com).
 >
@@ -1734,7 +1720,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (4), [[LinkedIn]] (4), express (3), application (2), data (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[LinkedIn]] (4)
 > **Env Vars:** json (3), url (2), http (1)
 > **CLI Commands:** make (2)
 > **URLs:** [http://www.linkedin.com](http://www.linkedin.com) (1), [localhost:3000](https://localhost:3000) (1)
@@ -1743,8 +1729,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is route chaining in Express?
-> [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-route-chaining-in-express?u=76281980)
+#### [What is route chaining in Express?](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-route-chaining-in-express?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1842,11 +1827,11 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-route-chaining-in-express?u=76281980&t=320)** Great work.
 >
-> **[5:21](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-route-chaining-in-express?u=76281980&t=321)** You've now mastered the basics of Express routing.
+> **[5:21](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-route-chaining-in-express?u=76281980&t=321)** You've now mastered the basics of Express [[Routing]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), express (2), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **Tools:** postman (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** dropdown (1)
@@ -1859,8 +1844,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is middleware?
-> [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-middleware?u=76281980)
+#### [What is middleware?](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-middleware?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1876,13 +1860,13 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-middleware?u=76281980&t=46)** Now that we have a better understanding of the term middleware, let's head back to our editor and take a look at the middleware that we've written up to this point.
 >
-> **[0:55](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-middleware?u=76281980&t=55)** In our index.js file, if you scroll down to around line 48, where we created a get route that incorporated routing parameters, you can see that I've added a few comments to help further explain the concept of middleware.
+> **[0:55](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-middleware?u=76281980&t=55)** In our index.js file, if you scroll down to around line 48, where we created a get route that incorporated [[Routing]] parameters, you can see that I've added a few comments to help further explain the concept of middleware.
 >
 > **[1:09](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-middleware?u=76281980&t=69)** Effectively, all of our code above handling the response is considered middleware.
 >
 > **[1:14](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-middleware?u=76281980&t=74)** In this particular example, we access the routing parameters via the request object and utilize that data to render the response that we send to the client.
 >
-> **[1:24](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-middleware?u=76281980&t=84)** Middleware can come in a number of forms.
+> **[1:24](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-middleware?u=76281980&t=84)** Middleware can come in a number of [[Forms]].
 >
 > **[1:27](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/what-is-middleware?u=76281980&t=87)** Some is built in to Express.
 >
@@ -1892,14 +1876,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (4), next (3), [[Routing]] (2), data (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Routing]] (2), [[Forms]] (1)
 > **File Paths:** index.js (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [narrator] (1)
 
-#### Out of the box: Built-in middleware with Express
-> [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/out-of-the-box-built-in-middleware-with-express?u=76281980)
+#### [Out of the box: Built-in middleware with Express](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/out-of-the-box-built-in-middleware-with-express?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1907,7 +1890,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/out-of-the-box-built-in-middleware-with-express?u=76281980&t=8)** Currently, there are three built-in middleware functions with Express.
 >
-> **[0:12](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/out-of-the-box-built-in-middleware-with-express?u=76281980&t=12)** Static, JSON, and URL-encoded.
+> **[0:12](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/out-of-the-box-built-in-middleware-with-express?u=76281980&t=12)** Static, [[JSON]], and URL-encoded.
 >
 > **[0:15](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/out-of-the-box-built-in-middleware-with-express?u=76281980&t=15)** Express.static serves static assets, including files and images.
 >
@@ -1917,7 +1900,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/out-of-the-box-built-in-middleware-with-express?u=76281980&t=28)** It parses incoming requests with JSON payloads and is based on body parser.
 >
-> **[0:34](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/out-of-the-box-built-in-middleware-with-express?u=76281980&t=34)** Body parser is a Node.js parsing middleware.
+> **[0:34](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/out-of-the-box-built-in-middleware-with-express?u=76281980&t=34)** Body parser is a [[Node.js]] parsing middleware.
 >
 > **[0:38](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/out-of-the-box-built-in-middleware-with-express?u=76281980&t=38)** The final built-in middleware function is express.urlencoded, which is similar to express.json, except it parses incoming requests with URL-encoded payloads.
 >
@@ -1997,7 +1980,7 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/out-of-the-box-built-in-middleware-with-express?u=76281980&t=322)** Before we send the request, we need to set up the body.
 >
-> **[5:27](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/out-of-the-box-built-in-middleware-with-express?u=76281980&t=327)** So to the right of the headers, you'll see Body, and you can go ahead and click there, and then you'll see a couple options here, none, form data, x-www-form-urlencoded, raw, binary and GraphQL.
+> **[5:27](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/out-of-the-box-built-in-middleware-with-express?u=76281980&t=327)** So to the right of the headers, you'll see Body, and you can go ahead and click there, and then you'll see a couple options here, none, form data, x-www-form-urlencoded, raw, binary and [[GraphQL]].
 >
 > **[5:43](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/out-of-the-box-built-in-middleware-with-express?u=76281980&t=343)** We want to select raw.
 >
@@ -2063,7 +2046,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (18), express (17), application (4), next (2), data (2)
+> **Frameworks & Libraries:** [[JSON]] (18), [[Node.js]] (1), [[GraphQL]] (1)
 > **Env Vars:** json (9), url (5), post (2), http (2), key (2)
 > **Tools:** postman (6), terminal (5)
 > **File Paths:** express.json (7), node.js (1)
@@ -2072,8 +2055,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1), click on (1), dropdown (1)
 > **Definitions:** is a  (3)
 
-#### Handling errors: Utilizing middleware for errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/handling-errors-utilizing-middleware-for-errors?u=76281980)
+#### [Handling errors: Utilizing middleware for errors](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/handling-errors-utilizing-middleware-for-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2109,7 +2091,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/handling-errors-utilizing-middleware-for-errors?u=76281980&t=99)** Back here in our editor, we're going to create an error handling middleware function.
 >
-> **[1:45](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/handling-errors-utilizing-middleware-for-errors?u=76281980&t=105)** In terms of organization, we want our custom error handling function to be at the end of our routing file.
+> **[1:45](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/handling-errors-utilizing-middleware-for-errors?u=76281980&t=105)** In terms of organization, we want our custom error handling function to be at the end of our [[Routing]] file.
 >
 > **[1:51](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/handling-errors-utilizing-middleware-for-errors?u=76281980&t=111)** So it should be after the last function and/or before the app.listen.
 >
@@ -2179,13 +2161,13 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/handling-errors-utilizing-middleware-for-errors?u=76281980&t=327)** We now have the stack trace error that was previously being printed in the browser.
 >
-> **[5:33](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/handling-errors-utilizing-middleware-for-errors?u=76281980&t=333)** So I hope you can see why it is better for the user, for the user experience to set up that custom error handler and have a clean, clear message that's being passed to the client and then on the server side, you're actually getting that stack trace error, so as the engineer or developer, you can actually trace down where you're having the errors and amend them accordingly.
+> **[5:33](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/handling-errors-utilizing-middleware-for-errors?u=76281980&t=333)** So I hope you can see why it is better for the user, for the [[User Experience (UX)|user experience]] to set up that custom error handler and have a clean, clear message that's being passed to the client and then on the server side, you're actually getting that stack trace error, so as the engineer or developer, you can actually trace down where you're having the errors and amend them accordingly.
 >
 > **[6:02](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/handling-errors-utilizing-middleware-for-errors?u=76281980&t=362)** So congratulations, you've successfully created a custom error handler function.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), application (2), express (1), hit (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Routing]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (6)
 > **Ports:** :3000 (1), :300 (1), port 3000 (1)
 > **Tools:** terminal (3)
@@ -2194,8 +2176,7 @@ created: 2026-05-02
 > **File Paths:** index.js (1)
 > **UI Navigation:** scroll down (1)
 
-#### Third-party middleware: Suggestions and how to add it
-> [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/third-party-middleware-suggestions-and-how-to-add-it?u=76281980)
+#### [Third-party middleware: Suggestions and how to add it](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/third-party-middleware-suggestions-and-how-to-add-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2225,7 +2206,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/third-party-middleware-suggestions-and-how-to-add-it?u=76281980&t=84)** Typically, the installation is very straightforward.
 >
-> **[1:27](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/third-party-middleware-suggestions-and-how-to-add-it?u=76281980&t=87)** NPM install and usually the module's name.
+> **[1:27](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/third-party-middleware-suggestions-and-how-to-add-it?u=76281980&t=87)** [[npm]] install and usually the module's name.
 >
 > **[1:30](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/third-party-middleware-suggestions-and-how-to-add-it?u=76281980&t=90)** So here, no different.
 >
@@ -2253,7 +2234,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (6), [[npm]] (2), [[Security]] (1), api (1)
+> **Frameworks & Libraries:** [[npm]] (2)
 > **Prerequisites:** install (4), set up (2)
 > **Env Vars:** npm (2), api (1), es6 (1)
 > **CLI Commands:** npm (2)
@@ -2267,8 +2248,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to debug your express application
-> [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/how-to-debug-your-express-application?u=76281980)
+#### [How to debug your express application](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/how-to-debug-your-express-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2276,11 +2256,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/how-to-debug-your-express-application?u=76281980&t=5)** According to the Official Express Documentation, Express uses the Debug module internally to log information about route matches, middleware functions that are in use, application mode, and the flow of the request response cycle.
 >
-> **[0:21](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/how-to-debug-your-express-application?u=76281980&t=21)** When launching the app, instead of using npm start, we would use some form of the commands you see here.
+> **[0:21](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/how-to-debug-your-express-application?u=76281980&t=21)** When launching the app, instead of using [[npm]] start, we would use some form of the commands you see here.
 >
 > **[0:27](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/how-to-debug-your-express-application?u=76281980&t=27)** We are going to have to add an extra flag, but we'll get more into that momentarily.
 >
-> **[0:32](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/how-to-debug-your-express-application?u=76281980&t=32)** The Debug command is fairly consistent across all operating systems, but you can see with Windows users there is a slight difference, so keep that in mind if you're using a Windows machine.
+> **[0:32](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/how-to-debug-your-express-application?u=76281980&t=32)** The Debug command is fairly consistent across all operating systems, but you can see with [[Windows]] users there is a slight difference, so keep that in mind if you're using a Windows machine.
 >
 > **[0:44](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/how-to-debug-your-express-application?u=76281980&t=44)** The logs that you see below after running the command are for an app generated by Express Application Generator.
 >
@@ -2298,7 +2278,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/how-to-debug-your-express-application?u=76281980&t=90)** The Debug command will go a little bit something like this.
 >
-> **[1:33](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/how-to-debug-your-express-application?u=76281980&t=93)** It will be DEBUG in all caps, equals express, colon, asterisk and then a space, node, dash, dash, experimental-json-modules, space, index.js.
+> **[1:33](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/how-to-debug-your-express-application?u=76281980&t=93)** It will be DEBUG in all caps, equals express, colon, asterisk and then a space, node, dash, dash, experimental-[[JSON]]-modules, space, index.js.
 >
 > **[1:56](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/how-to-debug-your-express-application?u=76281980&t=116)** Remember, if you're using a Windows machine, yours will look slightly different at the beginning, but pretty much everything to the right of the asterisk is going to be the same.
 >
@@ -2336,7 +2316,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/how-to-debug-your-express-application?u=76281980&t=262)** that's still being served to the client here.
 >
-> **[4:25](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/how-to-debug-your-express-application?u=76281980&t=265)** Let's go to our class route that we created with our routing parameters.
+> **[4:25](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/how-to-debug-your-express-application?u=76281980&t=265)** Let's go to our class route that we created with our [[Routing]] parameters.
 >
 > **[4:30](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/how-to-debug-your-express-application?u=76281980&t=270)** So that slash, class, and then let's go to student five.
 >
@@ -2406,7 +2386,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (12), [[JSON]] (8), application (4), [[npm]] (4), [[Windows]] (4)
+> **Frameworks & Libraries:** [[JSON]] (8), [[npm]] (4), [[Windows]] (4), [[Routing]] (1)
 > **CLI Commands:** make (10), npm (4), node (2)
 > **Env Vars:** debug (5), json (5), es6 (2), http (1)
 > **Tools:** terminal (10), command line (1)
@@ -2415,8 +2395,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** just like (2)
 
-#### Using express with a database
-> [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/using-express-with-a-database?u=76281980)
+#### [Using express with a database](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/using-express-with-a-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2428,11 +2407,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/using-express-with-a-database?u=76281980&t=21)** You'll be able to retrieve data from your database using get, create new records using post, and update and delete existing records using put and delete.
 >
-> **[0:31](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/using-express-with-a-database?u=76281980&t=31)** Express integrates with a number of popular databases, including MongoDB, SQLite, and many more, as you can see from this list in Express's official documentation.
+> **[0:31](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/using-express-with-a-database?u=76281980&t=31)** Express integrates with a number of popular [[Databases]], including [[MongoDB]], SQLite, and many more, as you can see from this list in Express's official documentation.
 >
 > **[0:42](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/using-express-with-a-database?u=76281980&t=42)** When you're ready to integrate with the database in your project, this documentation can help you navigate the process, step-by-step.
 >
-> **[0:50](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/using-express-with-a-database?u=76281980&t=50)** For example, if we click on MongoDB, we are given installation instructions in a link to the GitHub repository.
+> **[0:50](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/using-express-with-a-database?u=76281980&t=50)** For example, if we click on MongoDB, we are given installation instructions in a link to the [[GitHub]] repository.
 >
 > **[0:59](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/using-express-with-a-database?u=76281980&t=59)** There are also further instructions about loading the module in your project.
 >
@@ -2440,15 +2419,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), express (4), data (3), [[MongoDB]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (2), [[Databases]] (1), [[GitHub]] (1)
 > **Env Vars:** http (1)
 > **Tools:** github (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security concerns and best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/security-concerns-and-best-practices?u=76281980)
+#### [Security concerns and best practices](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/security-concerns-and-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2458,7 +2436,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/security-concerns-and-best-practices?u=76281980&t=10)** We are just going to briefly touch on some of the security best practices to keep in mind with Express.
 >
-> **[0:16](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/security-concerns-and-best-practices?u=76281980&t=16)** For further information regarding security, please check out some of the other LinkedIn Learning courses that are available that go more in depth with this topic.
+> **[0:16](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/security-concerns-and-best-practices?u=76281980&t=16)** For further information regarding security, please check out some of the other [[LinkedIn]] Learning courses that are available that go more in depth with this topic.
 >
 > **[0:25](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/security-concerns-and-best-practices?u=76281980&t=25)** This list was pulled together based on the security concerns that Express has highlighted in their documentation.
 >
@@ -2490,11 +2468,11 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/security-concerns-and-best-practices?u=76281980&t=118)** And lastly, you want to make sure that your dependencies are secure.
 >
-> **[2:02](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/security-concerns-and-best-practices?u=76281980&t=122)** This can be done very easily using npm-audit in the command line.
+> **[2:02](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/security-concerns-and-best-practices?u=76281980&t=122)** This can be done very easily using [[npm]]-audit in the command line.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), express (4), application (4), data (2), web (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[npm]] (1)
 > **CLI Commands:** make (5), find (1), npm (1)
 > **Env Vars:** tls (2), http (2)
 > **Definitions:** is a  (2)
@@ -2507,8 +2485,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2522,9 +2499,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/next-steps?u=76281980&t=20)** If you're working as a developer or software engineer, see if there are ways that you can incorporate Express into your current projects.
 >
-> **[0:28](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/next-steps?u=76281980&t=28)** You can also check out other LinkedIn learning courses on Node.js and Express, including courses that teach you how to use various stacks that include Express, like the MEAN stack, which is MongoDB, Express, Angular, and Node.
+> **[0:28](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/next-steps?u=76281980&t=28)** You can also check out other [[LinkedIn]] learning courses on [[Node.js]] and Express, including courses that teach you how to use various stacks that include Express, like the MEAN stack, which is [[MongoDB]], Express, [[Angular]], and Node.
 >
-> **[0:42](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/next-steps?u=76281980&t=42)** Or the MERN stack, which is MongoDB, Express, React, and Node.
+> **[0:42](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/next-steps?u=76281980&t=42)** Or the MERN stack, which is MongoDB, Express, [[React.js|React]], and Node.
 >
 > **[0:48](https://www.linkedin.com/learning/express-essentials-build-powerful-web-apps-with-node-js/next-steps?u=76281980&t=48)** I hope that you found this course to be valuable.
 >
@@ -2534,7 +2511,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (8), [[LinkedIn]] (2), [[MongoDB]] (2), node (2), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[MongoDB]] (2), [[Node.js]] (1), [[Angular]] (1), [[React.js|React]] (1)
 > **CLI Commands:** node (3)
 > **Env Vars:** mean (1), mern (1)
 > **File Paths:** node.js (1)

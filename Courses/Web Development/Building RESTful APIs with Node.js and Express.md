@@ -90,8 +90,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### RESTful APIs with Node and Express
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/restful-apis-with-node-and-express?u=76281980)
+#### [RESTful APIs with Node and Express](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/restful-apis-with-node-and-express?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -105,13 +104,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/restful-apis-with-node-and-express?u=76281980&t=21)** But I'm here to simplify and demystify the whole process.
 >
-> **[0:26](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/restful-apis-with-node-and-express?u=76281980&t=26)** Hi, I'm Emmanuel Henri and I've been working with Node, Express, and JavaScript for a very long time.
+> **[0:26](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/restful-apis-with-node-and-express?u=76281980&t=26)** Hi, I'm Emmanuel Henri and I've been working with Node, Express, and [[JavaScript]] for a very long time.
 >
 > **[0:32](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/restful-apis-with-node-and-express?u=76281980&t=32)** And it is my great pleasure to help you learn about building an API with these frameworks.
 >
 > **[0:37](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/restful-apis-with-node-and-express?u=76281980&t=37)** First, we'll explore the tools used for testing our API and its database.
 >
-> **[0:43](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/restful-apis-with-node-and-express?u=76281980&t=43)** Next, we'll set the stage for our API with our initial Express server and routing endpoints.
+> **[0:43](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/restful-apis-with-node-and-express?u=76281980&t=43)** Next, we'll set the stage for our API with our initial Express server and [[Routing]] endpoints.
 >
 > **[0:50](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/restful-apis-with-node-and-express?u=76281980&t=50)** Then we'll set up our Mongo database along with its schema.
 >
@@ -121,20 +120,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), express (4), node (3), database (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[Routing]] (1)
 > **Env Vars:** api (7)
 > **CLI Commands:** node (3), mongo (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/what-you-should-know?u=76281980&t=0)** - [Instructor] As this course is an exploration of how to build an API with Node and Express, some basic understanding of Node, MPM, and its commands isn't a must, but will help you.
 >
-> **[0:11](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/what-you-should-know?u=76281980&t=11)** Next, experience with JavaScript is essential to follow along, as this is what we use in this course.
+> **[0:11](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/what-you-should-know?u=76281980&t=11)** Next, experience with [[JavaScript]] is essential to follow along, as this is what we use in this course.
 >
 > **[0:19](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/what-you-should-know?u=76281980&t=19)** As you'll see, I'm running on a Mac.
 >
@@ -144,7 +142,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (2), api (1), express (1), next (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** node (2)
 > **Env Vars:** api (1), mpm (1)
 > **Tools:** vs code (1), terminal (1)
@@ -156,8 +154,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to APIs and the libraries
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/introduction-to-apis-and-the-libraries?u=76281980)
+#### [Introduction to APIs and the libraries](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/introduction-to-apis-and-the-libraries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -183,7 +180,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/introduction-to-apis-and-the-libraries?u=76281980&t=49)** And you might find a few options.
 >
-> **[0:51](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/introduction-to-apis-and-the-libraries?u=76281980&t=51)** So for building our APIs, we'll use a list of standard libraries to get our server together, add persistence with a database and use the latest JavaScript syntax by installing Babel.
+> **[0:51](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/introduction-to-apis-and-the-libraries?u=76281980&t=51)** So for building our APIs, we'll use a list of standard libraries to get our server together, add persistence with a database and use the latest [[JavaScript]] syntax by installing Babel.
 >
 > **[1:03](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/introduction-to-apis-and-the-libraries?u=76281980&t=63)** So for example, we have [nodejs.org](https://nodejs.org) here.
 >
@@ -201,13 +198,13 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/introduction-to-apis-and-the-libraries?u=76281980&t=104)** So this is the compiler.
 >
-> **[1:46](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/introduction-to-apis-and-the-libraries?u=76281980&t=106)** So then we'll use MongoDB as our database so we can persist our data.
+> **[1:46](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/introduction-to-apis-and-the-libraries?u=76281980&t=106)** So then we'll use [[MongoDB]] as our database so we can persist our data.
 >
 > **[1:51](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/introduction-to-apis-and-the-libraries?u=76281980&t=111)** With these tools we'll be able to build an API we can call in with any frontend applications or tools, such as Postman, which we'll explore momentarily.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), data (5), application (3), express (3), database (2)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[MongoDB]] (1)
 > **Env Vars:** api (6)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** find (2)
@@ -216,8 +213,7 @@ created: 2026-05-02
 > **Tools:** postman (1)
 > **UI Navigation:** go to (1)
 
-#### Introduction to Postman
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/introduction-to-postman?u=76281980)
+#### [Introduction to Postman](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/introduction-to-postman?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -227,7 +223,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/introduction-to-postman?u=76281980&t=15)** So if you want to get your own version of Postman, and you don't have it installed inside of your system, you can go to [postman.com](https://postman.com) and then sign up for free.
 >
-> **[0:25](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/introduction-to-postman?u=76281980&t=25)** And once you're signed in, you can actually do it on the web, but if you don't want to do it on the web, there's also tools for Mac, Windows, and Linux.
+> **[0:25](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/introduction-to-postman?u=76281980&t=25)** And once you're signed in, you can actually do it on the web, but if you don't want to do it on the web, there's also tools for Mac, [[Windows]], and [[Linux]].
 >
 > **[0:35](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/introduction-to-postman?u=76281980&t=35)** And it looks something like this.
 >
@@ -249,7 +245,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/introduction-to-postman?u=76281980&t=108)** You can do that in all sorts of type of requests from different languages as well.
 >
-> **[1:53](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/introduction-to-postman?u=76281980&t=113)** So Java, there's Node requests here, PHP, Python, and the list goes on.
+> **[1:53](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/introduction-to-postman?u=76281980&t=113)** So [[Java]], there's Node requests here, [[PHP]], [[Python (Programming Language)|Python]], and the list goes on.
 >
 > **[1:59](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/introduction-to-postman?u=76281980&t=119)** So if you want to have an example, of a node request with Axios, then you have the code here to write in your application based, again, in the params that you've put in here.
 >
@@ -267,7 +263,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), data (2), web (2), node (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1), [[Java]] (1), [[PHP]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (2), curl (1), php (1), python (1)
 > **Tools:** postman (5)
 > **Env Vars:** api (2), php (1)
@@ -276,14 +272,13 @@ created: 2026-05-02
 > **URLs:** [postman.com](https://postman.com) (1)
 > **Documentation:** the documentation (1)
 
-#### Install Node and Express
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-node-and-express?u=76281980)
+#### [Install Node and Express](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-node-and-express?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-node-and-express?u=76281980&t=0)** - [Instructor] So the next step in the tools we need is to have Node and Express properly installed.
 >
-> **[0:04](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-node-and-express?u=76281980&t=4)** We'll also get our project initialized so we can add Express to the package.json file.
+> **[0:04](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-node-and-express?u=76281980&t=4)** We'll also get our project initialized so we can add Express to the package.[[JSON]] file.
 >
 > **[0:10](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-node-and-express?u=76281980&t=10)** So let's get to it.
 >
@@ -295,7 +290,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-node-and-express?u=76281980&t=36)** Then you click on that installer or the one that you got for your system and you follow the instructions.
 >
-> **[0:42](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-node-and-express?u=76281980&t=42)** This is going to install Node.js and npm as well which is the tool that we're going to need to install dependencies inside of our package.
+> **[0:42](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-node-and-express?u=76281980&t=42)** This is going to install [[Node.js]] and [[npm]] as well which is the tool that we're going to need to install dependencies inside of our package.
 >
 > **[0:52](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-node-and-express?u=76281980&t=52)** So if you've done all this before, you've been writing code for a bit, you should already have this in your system, don't worry about it.
 >
@@ -341,7 +336,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (7), [[npm]] (4), next (3), [[JSON]] (3), node (2)
+> **Frameworks & Libraries:** [[npm]] (4), [[JSON]] (3), [[Node.js]] (1)
 > **CLI Commands:** npm (4), node (3), make (2), cd (2)
 > **Prerequisites:** install (6)
 > **File Paths:** package.json (3), node.js (1), index.js (1)
@@ -350,14 +345,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), click on (1)
 > **URLs:** [nodejs.org](https://nodejs.org) (1)
 
-#### Install Mongo
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-mongo?u=76281980)
+#### [Install Mongo](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-mongo?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-mongo?u=76281980&t=0)** - [Instructor] Now that we have the basic server dependencies for our project, we need to install Mongo so we can add the database when we build the server, but also we'll use Mongoose to simplify some of the initial code.
 >
-> **[0:11](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-mongo?u=76281980&t=11)** So go to [mongodb.com](https://mongodb.com) and then go to Products, Community Server in the Community Edition, and then here you can find some downloads to install MongoDB.
+> **[0:11](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-mongo?u=76281980&t=11)** So go to [[[MongoDB]].com](https://mongodb.com) and then go to [[Microsoft Products|Products]], Community Server in the Community Edition, and then here you can find some downloads to install MongoDB.
 >
 > **[0:26](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-mongo?u=76281980&t=26)** So if you're on macOS, you can download this package and follow the instructions.
 >
@@ -389,7 +383,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-mongo?u=76281980&t=120)** And you just follow the instructions here.
 >
-> **[2:02](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-mongo?u=76281980&t=122)** You want to make sure that when you're on a Mac, you have Xcode Command-Line Tools installed and then you go on to brew tap mongodb brew and this will get you installed.
+> **[2:02](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-mongo?u=76281980&t=122)** You want to make sure that when you're on a Mac, you have [[Xcode]] Command-Line Tools installed and then you go on to brew tap mongodb brew and this will get you installed.
 >
 > **[2:16](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-mongo?u=76281980&t=136)** And then what you need to do is make sure that you run MongoDB, because if you don't run it, it's basically as if the database is not there.
 >
@@ -397,7 +391,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-mongo?u=76281980&t=157)** So this is the surest way for macOS users to actually install it.
 >
-> **[2:43](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-mongo?u=76281980&t=163)** If you want to do similar instructions, you have them here for Windows and you have them here for Linux.
+> **[2:43](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-mongo?u=76281980&t=163)** If you want to do similar instructions, you have them here for [[Windows]] and you have them here for [[Linux]].
 >
 > **[2:50](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-mongo?u=76281980&t=170)** So this is the second way of installing it, but again, I find that these instructions are a little bit more safe and it allows us to actually use Homebrew to install it quickly, but also make sure that it's running in the background.
 >
@@ -425,15 +419,15 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-mongo?u=76281980&t=293)** And now that I have this, I'm going to go ahead and install Mongoose.
 >
-> **[4:58](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-mongo?u=76281980&t=298)** And I'm going to do npm, again, i mongoose, like so.
+> **[4:58](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-mongo?u=76281980&t=298)** And I'm going to do [[npm]], again, i mongoose, like so.
 >
-> **[5:08](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-mongo?u=76281980&t=308)** And now if you want to take a look at everything that we've installed so far, you can look at the package.json file and you see that we have Express, that we've installed in the previous video, and now we have Mongoose that we just installed.
+> **[5:08](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-mongo?u=76281980&t=308)** And now if you want to take a look at everything that we've installed so far, you can look at the package.[[JSON]] file and you see that we have Express, that we've installed in the previous video, and now we have Mongoose that we just installed.
 >
 > **[5:22](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/install-mongo?u=76281980&t=322)** So we have all the dependencies that we need and with the instructions from MongoDB, you should have MongoDB running in the background and ready to go for the next stage.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (7), database (4), [[Windows]] (2), next (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (7), [[Windows]] (2), [[Microsoft Products|Products]] (1), [[Xcode]] (1), [[Linux]] (1)
 > **CLI Commands:** make (6), brew (3), mongo (2), find (2), npm (1)
 > **Prerequisites:** install (13)
 > **Tools:** terminal (7), visual studio (3), command line (1)
@@ -442,12 +436,11 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **URLs:** [mongodb.com](https://mongodb.com) (1), [mongoosejs.com](https://mongoosejs.com) (1)
 
-#### Basic Babel setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/basic-babel-setup?u=76281980)
+#### [Basic Babel setup](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/basic-babel-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/basic-babel-setup?u=76281980&t=0)** - [Instructor] This course we'll use the latest JavaScript syntax throughout and we want to be able to code our server without worrying about any syntax breaking our application.
+> **[0:00](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/basic-babel-setup?u=76281980&t=0)** - [Instructor] This course we'll use the latest [[JavaScript]] syntax throughout and we want to be able to code our server without worrying about any syntax breaking our application.
 >
 > **[0:09](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/basic-babel-setup?u=76281980&t=9)** So babel is the tool well set up to help us compile without any issues.
 >
@@ -463,13 +456,13 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/basic-babel-setup?u=76281980&t=35)** And we're going to add first of all, the core code from babel.
 >
-> **[0:41](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/basic-babel-setup?u=76281980&t=41)** Then we're going to add the CLI tool.
+> **[0:41](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/basic-babel-setup?u=76281980&t=41)** Then we're going to add the [[CLI]] tool.
 >
 > **[0:45](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/basic-babel-setup?u=76281980&t=45)** Which allows us to do a script here.
 >
 > **[0:49](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/basic-babel-setup?u=76281980&t=49)** And then we are going to add node the node script or package from babel.
 >
-> **[0:55](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/basic-babel-setup?u=76281980&t=55)** And finally we're going to add the presets so we can use the latest version of java script.
+> **[0:55](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/basic-babel-setup?u=76281980&t=55)** And finally we're going to add the presets so we can use the latest version of [[Java]] script.
 >
 > **[1:00](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/basic-babel-setup?u=76281980&t=60)** And this is preset dash environment.
 >
@@ -513,7 +506,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (2), [[Java]] (2), [[JavaScript]] (1), application (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[JavaScript]] (1), [[CLI]] (1)
 > **Prerequisites:** install (3), set up (1)
 > **CLI Commands:** node (2), make (1)
 > **Tools:** terminal (2)
@@ -527,8 +520,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### RESTful APIs refresher
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/restful-apis-refresher?u=76281980)
+#### [RESTful APIs refresher](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/restful-apis-refresher?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -542,7 +534,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/restful-apis-refresher?u=76281980&t=23)** So in a nutshell, a RESTful API is a way to transact with a backend using HTTP transactions.
 >
-> **[0:31](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/restful-apis-refresher?u=76281980&t=31)** We use a series of calls like get, post, put, and delete with a HTML address to transact with our backend and its data.
+> **[0:31](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/restful-apis-refresher?u=76281980&t=31)** We use a series of calls like get, post, put, and delete with a [[HTML]] address to transact with our backend and its data.
 >
 > **[0:40](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/restful-apis-refresher?u=76281980&t=40)** So when a front-end client web mobile needs to do transactions with a backend, it makes a call, like for example, get with an API endpoint that looks like an HTML URL and the API responds with success or failure with data if need be.
 >
@@ -558,7 +550,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), data (6), application (2), [[HTML]] (2), front-end (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Env Vars:** api (7), html (2), http (1), url (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -566,8 +558,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Initial server setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/initial-server-setup?u=76281980)
+#### [Initial server setup](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/initial-server-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -579,7 +570,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/initial-server-setup?u=76281980&t=14)** So, the first thing we're going to need to do is change the script, in this area here.
 >
-> **[0:19](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/initial-server-setup?u=76281980&t=19)** So, we have nodemon, we need to use nodemon so we can do NPM start and it's going to start our server, automatically and we start it whenever we change our code.
+> **[0:19](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/initial-server-setup?u=76281980&t=19)** So, we have nodemon, we need to use nodemon so we can do [[npm]] start and it's going to start our server, automatically and we start it whenever we change our code.
 >
 > **[0:30](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/initial-server-setup?u=76281980&t=30)** So, this is what we're going to do.
 >
@@ -643,7 +634,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/initial-server-setup?u=76281980&t=221)** Okay? Save that and we're ready to test.
 >
-> **[3:44](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/initial-server-setup?u=76281980&t=224)** So, what we're going to do is first open up a terminal and run or server, which will run the script that we created in the package.json.
+> **[3:44](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/initial-server-setup?u=76281980&t=224)** So, what we're going to do is first open up a terminal and run or server, which will run the script that we created in the package.[[JSON]].
 >
 > **[3:52](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/initial-server-setup?u=76281980&t=232)** So, let's go and do npm start.
 >
@@ -661,7 +652,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (6), node (3), [[npm]] (2), next (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[npm]] (2), [[JSON]] (1)
 > **File Paths:** index.js (4), package.json (1)
 > **CLI Commands:** node (3), npm (2)
 > **Ports:** port 3000 (4)
@@ -670,8 +661,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Analogies:** such as (1)
 
-#### Initial server files and folders
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/initial-server-files-and-folders?u=76281980)
+#### [Initial server files and folders](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/initial-server-files-and-folders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -719,14 +709,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1)
 > **Env Vars:** crm (3), src (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** before we start (1), set up (1)
 > **Speakers:** - so (1)
 
-#### Basic routing endpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/basic-routing-endpoints?u=76281980)
+#### [Basic routing endpoints](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/basic-routing-endpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -840,7 +828,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), front-end (1), web application (1), data (1)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** crmroutes (2), contactid (1)
 > **Tools:** postman (3)
@@ -848,9 +835,9 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is called (1)
+> **Speakers:** - [instructor] (1)
 
-#### Basics of middleware and uses
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/basics-of-middleware-and-uses?u=76281980)
+#### [Basics of middleware and uses](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/basics-of-middleware-and-uses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -952,7 +939,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (2), node (1), application (1)
 > **CLI Commands:** make (2), node (1)
 > **Exercise Files:** template (3)
 > **Env Vars:** url (2)
@@ -964,12 +950,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### MongoDB basics refresher
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/mongodb-basics-refresher?u=76281980)
+#### [MongoDB basics refresher](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/mongodb-basics-refresher?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/mongodb-basics-refresher?u=76281980&t=0)** - [Instructor] This course is not a full on course on MongoDB.
+> **[0:00](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/mongodb-basics-refresher?u=76281980&t=0)** - [Instructor] This course is not a full on course on [[MongoDB]].
 >
 > **[0:03](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/mongodb-basics-refresher?u=76281980&t=3)** And if you want to follow our course on the subject, feel free to take a look at our library.
 >
@@ -985,7 +970,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/mongodb-basics-refresher?u=76281980&t=38)** And then inside each document, we have the data for each contact such as address, telephone, email, et cetera.
 >
-> **[0:46](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/mongodb-basics-refresher?u=76281980&t=46)** The document looks like JSON object with a key value pair approach or arrays of data.
+> **[0:46](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/mongodb-basics-refresher?u=76281980&t=46)** The document looks like [[JSON]] object with a key value pair approach or arrays of data.
 >
 > **[0:52](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/mongodb-basics-refresher?u=76281980&t=52)** So where does Mongos fit into this?
 >
@@ -1027,7 +1012,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), [[MongoDB]] (5), data (5), [[JSON]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (5), [[JSON]] (1)
 > **Prerequisites:** install (3), set up (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (2)
@@ -1036,8 +1021,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Definitions:** is called (1)
 
-#### Database setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/database-setup?u=76281980)
+#### [Database setup](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/database-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1051,7 +1035,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/database-setup?u=76281980&t=45)** So let's go ahead and do the code for that.
 >
-> **[0:49](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/database-setup?u=76281980&t=49)** And when I mean the mongoose, I mean the MongoDB connection but we're using mongoose to make the code a lot more succinct and shorter.
+> **[0:49](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/database-setup?u=76281980&t=49)** And when I mean the mongoose, I mean the [[MongoDB]] connection but we're using mongoose to make the code a lot more succinct and shorter.
 >
 > **[0:58](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/database-setup?u=76281980&t=58)** global dot promise.
 >
@@ -1065,7 +1049,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/database-setup?u=76281980&t=101)** (deep breathe) All right, so this completes our mongoose connection.
 >
-> **[1:47](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/database-setup?u=76281980&t=107)** Now we need to use body parser to allow us to do the json back and forth in between the Mongo database and our server.
+> **[1:47](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/database-setup?u=76281980&t=107)** Now we need to use body parser to allow us to do the [[JSON]] back and forth in between the Mongo database and our server.
 >
 > **[1:55](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/database-setup?u=76281980&t=115)** So let's go and body parser set up just to give you some notes or leave some notes in the exercise files.
 >
@@ -1091,7 +1075,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (4), database (3), [[JSON]] (2), api (1)
+> **Frameworks & Libraries:** [[MongoDB]] (4), [[JSON]] (2)
 > **Non-Speech:** (keyboard keys clicking) (5)
 > **CLI Commands:** make (2), mongo (2)
 > **Env Vars:** crmdb (1), url (1)
@@ -1099,8 +1083,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - we (1)
 
-#### Schema setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/schema-setup?u=76281980)
+#### [Schema setup](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/schema-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1154,7 +1137,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/schema-setup?u=76281980&t=218)** If you want you can also access it from the terminal menu here but I'm using the shortcuts.
 >
-> **[3:46](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/schema-setup?u=76281980&t=226)** Okay so now we have a MongoDB instance running, we have mongoose connecting to it, we have a schema set up.
+> **[3:46](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/schema-setup?u=76281980&t=226)** Okay so now we have a [[MongoDB]] instance running, we have mongoose connecting to it, we have a schema set up.
 >
 > **[3:52](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/schema-setup?u=76281980&t=232)** So right now if you look at the MongoDB instance running on this tool here.
 >
@@ -1168,7 +1151,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), data (4), [[MongoDB]] (3), next (2)
+> **Frameworks & Libraries:** [[MongoDB]] (3)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** crmmodel (2)
 > **Tools:** terminal (2)
@@ -1182,8 +1165,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create POST endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-post-endpoint?u=76281980)
+#### [Create POST endpoint](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-post-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1253,7 +1235,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-post-endpoint?u=76281980&t=192)** then give us the response and error so we know what's happening.
 >
-> **[3:23](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-post-endpoint?u=76281980&t=203)** Otherwise give us the response with the JSON contact, so basically give us the information that the contact that was saved in the database if it's successful.
+> **[3:23](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-post-endpoint?u=76281980&t=203)** Otherwise give us the response with the [[JSON]] contact, so basically give us the information that the contact that was saved in the database if it's successful.
 >
 > **[3:34](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-post-endpoint?u=76281980&t=214)** Okay, so we have our first new controller.
 >
@@ -1339,7 +1321,7 @@ created: 2026-05-02
 >
 > **[6:49](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-post-endpoint?u=76281980&t=409)** And if you have a typo in any of the keys, you're going to see an error message.
 >
-> **[6:55](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-post-endpoint?u=76281980&t=415)** And then I'm going to add company, LinkedIn, and then let's add a phone.
+> **[6:55](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-post-endpoint?u=76281980&t=415)** And then I'm going to add company, [[LinkedIn]], and then let's add a phone.
 >
 > **[7:03](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-post-endpoint?u=76281980&t=423)** And 555-555-1234.
 >
@@ -1371,7 +1353,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), data (2), [[JSON]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[LinkedIn]] (1)
 > **Env Vars:** crm (4), json (1), url (1)
 > **CLI Commands:** make (3)
 > **Tools:** postman (3)
@@ -1379,8 +1361,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create all items GET endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-all-items-get-endpoint?u=76281980)
+#### [Create all items GET endpoint](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-all-items-get-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1396,7 +1377,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-all-items-get-endpoint?u=76281980&t=47)** And then, we're going to pass error contact, like we've done before.
 >
-> **[0:55](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-all-items-get-endpoint?u=76281980&t=55)** And basically, the rest resembles a lot from our if statement here.
+> **[0:55](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-all-items-get-endpoint?u=76281980&t=55)** And basically, the [[Representational State Transfer (REST)|rest]] resembles a lot from our if statement here.
 >
 > **[1:00](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-all-items-get-endpoint?u=76281980&t=60)** So let's go ahead and do that.
 >
@@ -1404,7 +1385,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-all-items-get-endpoint?u=76281980&t=64)** So if error, please send the error.
 >
-> **[1:08](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-all-items-get-endpoint?u=76281980&t=68)** Otherwise, send the response with the JSON contact.
+> **[1:08](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-all-items-get-endpoint?u=76281980&t=68)** Otherwise, send the response with the [[JSON]] contact.
 >
 > **[1:12](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-all-items-get-endpoint?u=76281980&t=72)** And if it has multiple contacts, it's going to give us the document that has all these contacts.
 >
@@ -1454,7 +1435,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-all-items-get-endpoint?u=76281980&t=163)** So for example, right now, we just have this one.
 >
-> **[2:46](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-all-items-get-endpoint?u=76281980&t=166)** So if we were to create another one and I have all this information already here, so let's change this to Manny Anrietto, LinkedIn, and then simply change the number very quickly.
+> **[2:46](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-all-items-get-endpoint?u=76281980&t=166)** So if we were to create another one and I have all this information already here, so let's change this to Manny Anrietto, [[LinkedIn]], and then simply change the number very quickly.
 >
 > **[3:03](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-all-items-get-endpoint?u=76281980&t=183)** And add an email, metoo@[metoo.com](https://metoo.com).
 >
@@ -1470,7 +1451,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[Representational State Transfer (REST)|Rest]] (1), [[JSON]] (1), [[LinkedIn]] (1), data (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[JSON]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Code Identifiers:** getcontacts (2), getcontact (1)
 > **Env Vars:** json (1), crm (1)
@@ -1479,8 +1460,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 
-#### Create specific ID GET endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-specific-id-get-endpoint?u=76281980)
+#### [Create specific ID GET endpoint](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-specific-id-get-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1490,7 +1470,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-specific-id-get-endpoint?u=76281980&t=8)** So let's get to it.
 >
-> **[0:09](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-specific-id-get-endpoint?u=76281980&t=9)** So again, we're going to be playing with the same files over the rest of this chapter.
+> **[0:09](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-specific-id-get-endpoint?u=76281980&t=9)** So again, we're going to be playing with the same files over the [[Representational State Transfer (REST)|rest]] of this chapter.
 >
 > **[0:14](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-specific-id-get-endpoint?u=76281980&t=14)** So, the first thing we're going to do, again, I'm going to go and create in the CRM controller, the function that will be able to find one specific contact.
 >
@@ -1518,7 +1498,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-specific-id-get-endpoint?u=76281980&t=115)** So, if an error, send the error.
 >
-> **[1:57](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-specific-id-get-endpoint?u=76281980&t=117)** Otherwise, send me what I have in my json response.
+> **[1:57](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-specific-id-get-endpoint?u=76281980&t=117)** Otherwise, send me what I have in my [[JSON]] response.
 >
 > **[2:02](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-specific-id-get-endpoint?u=76281980&t=122)** Okay, so we're going to add this, and this, and then save.
 >
@@ -1582,7 +1562,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[JSON]] (1), data (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[JSON]] (1)
 > **Code Identifiers:** getcontactwithid (3), getcontact (1), contactid (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** crm (2), url (2)
@@ -1591,8 +1571,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Create PUT endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-put-endpoint?u=76281980)
+#### [Create PUT endpoint](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-put-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1610,13 +1589,13 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-put-endpoint?u=76281980&t=79)** So what does that mean?
 >
-> **[1:21](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-put-endpoint?u=76281980&t=81)** That means that when they send the JSON response, they're going to show the new information, so the updated contact, not the old one.
+> **[1:21](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-put-endpoint?u=76281980&t=81)** That means that when they send the [[JSON]] response, they're going to show the new information, so the updated contact, not the old one.
 >
 > **[1:30](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-put-endpoint?u=76281980&t=90)** If I didn't put that in, or if I put false here, it would show the old contact information.
 >
 > **[1:36](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-put-endpoint?u=76281980&t=96)** So we want to see that our update has been successful, and then we're going to pass the usual suspects here and do our function.
 >
-> **[1:52](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-put-endpoint?u=76281980&t=112)** And the rest is pretty much the same.
+> **[1:52](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-put-endpoint?u=76281980&t=112)** And the [[Representational State Transfer (REST)|rest]] is pretty much the same.
 >
 > **[1:54](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-put-endpoint?u=76281980&t=114)** So we're going to copy and paste right here what we have...
 >
@@ -1674,7 +1653,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[JSON]] (2), database (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** updatecontact (3), findoneandupdate (1), contactid (1)
 > **Env Vars:** json (2), url (2), crm (1)
 > **Tools:** postman (2), terminal (1)
@@ -1683,8 +1662,7 @@ created: 2026-05-02
 > **URLs:** [metoo.com](https://metoo.com) (1)
 > **UI Navigation:** select the (1)
 
-#### Create DELETE endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-delete-endpoint?u=76281980)
+#### [Create DELETE endpoint](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-delete-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1704,7 +1682,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-delete-endpoint?u=76281980&t=74)** So let's just copy this first.
 >
-> **[1:18](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-delete-endpoint?u=76281980&t=78)** So if you remember, whenever we do something to our data, we get the JSON information back, but in this case, we're deleting something, so it's no longer available.
+> **[1:18](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-delete-endpoint?u=76281980&t=78)** So if you remember, whenever we do something to our data, we get the [[JSON]] information back, but in this case, we're deleting something, so it's no longer available.
 >
 > **[1:30](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/create-delete-endpoint?u=76281980&t=90)** So if there's an error, yeah, give me the error, but if it's successful, don't give me the contact, cause it's going to be null.
 >
@@ -1762,7 +1740,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), data (2), [[JSON]] (2), api (1)
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **Env Vars:** json (2), url (1), api (1)
 > **Definitions:** is a  (2), means that (1)
 > **API Endpoints:** get  (2)
@@ -1775,8 +1753,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Static files serving
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/static-files-serving?u=76281980)
+#### [Static files serving](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/static-files-serving?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1814,7 +1791,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (3)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (1), go to (1)
 > **Analogies:** such as (1), for example (1)
@@ -1822,9 +1798,9 @@ created: 2026-05-02
 > **URLs:** [localhost:3000](https://localhost:3000) (1)
 > **Ports:** :3000 (1)
 > **Env Vars:** crm (1)
+> **Cross-References:** go back to (1)
 
-#### Other potential libraries for API
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/other-potential-libraries-for-api?u=76281980)
+#### [Other potential libraries for API](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/other-potential-libraries-for-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1848,7 +1824,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/other-potential-libraries-for-api?u=76281980&t=53)** Then if you'd like to get a full fledged pre-built API, you could either use Swagger or LoopBack, which is [LoopBack.io](https://LoopBack.io).
 >
-> **[1:02](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/other-potential-libraries-for-api?u=76281980&t=62)** I haven't worked with Swagger but I've built a few projects using LoopBack and I can tell you it's a very good API generator where you can easily build a backend server with all your API endpoints with a few CLI commands.
+> **[1:02](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/other-potential-libraries-for-api?u=76281980&t=62)** I haven't worked with Swagger but I've built a few projects using LoopBack and I can tell you it's a very good API generator where you can easily build a backend server with all your API endpoints with a few [[CLI]] commands.
 >
 > **[1:16](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/other-potential-libraries-for-api?u=76281980&t=76)** So feel free to explore these tools at your own leisure.
 >
@@ -1856,7 +1832,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), express (3), [[CLI]] (1)
+> **Frameworks & Libraries:** [[CLI]] (1)
 > **Env Vars:** api (4), cli (1)
 > **URLs:** [koajs.com](https://koajs.com) (1), [swagger.io](https://swagger.io) (1), [loopback.io](https://loopback.io) (1)
 > **CLI Commands:** make (2)
@@ -1870,8 +1846,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1881,17 +1856,17 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/next-steps?u=76281980&t=13)** To explore this further, you could simply replicate the same process we've done by creating other collections, models, and schemas for your database and also create the proper endpoints for those.
 >
-> **[0:25](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/next-steps?u=76281980&t=25)** Also, if you'd like to explore some of the libraries we mentioned in the options video, I'd strongly suggest to look into LoopBack or Swagger for creating full fledged APIs with tons of options and tokens for security measures.
+> **[0:25](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/next-steps?u=76281980&t=25)** Also, if you'd like to explore some of the libraries we mentioned in the options video, I'd strongly suggest to look into LoopBack or Swagger for creating full fledged APIs with tons of options and [[Tokens]] for security measures.
 >
 > **[0:39](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/next-steps?u=76281980&t=39)** Finally, if you prefer you'd like to learn a bit more about how to secure your APIs beyond using a library like LoopBack, look into JWT and how you can implement these in your API.
 >
-> **[0:52](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/next-steps?u=76281980&t=52)** You can look into the subject by visiting [jwt.io](https://jwt.io) and look into the Node.js section under the libraries tab.
+> **[0:52](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/next-steps?u=76281980&t=52)** You can look into the subject by visiting [jwt.io](https://jwt.io) and look into the [[Node.js]] section under the libraries tab.
 >
 > **[1:01](https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/next-steps?u=76281980&t=61)** Thanks very much for taking my course and I'll see you in a bit.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), node (1), express (1), application (1), database (1)
+> **Frameworks & Libraries:** [[Tokens]] (1), [[Node.js]] (1)
 > **Env Vars:** api (2), jwt (1)
 > **CLI Commands:** node (2)
 > **File Paths:** node.js (1)

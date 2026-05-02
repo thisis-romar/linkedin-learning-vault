@@ -84,12 +84,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implementing smart asynchronous code
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/implementing-smart-asynchronous-code-22163789?u=76281980)
+#### [Implementing smart asynchronous code](https://www.linkedin.com/learning/javascript-async/implementing-smart-asynchronous-code-22163789?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-async/implementing-smart-asynchronous-code-22163789?u=76281980&t=0)** - Do you want to write JavaScript code that waits for a process to return and then does exactly what you want with the result?
+> **[0:00](https://www.linkedin.com/learning/javascript-async/implementing-smart-asynchronous-code-22163789?u=76281980&t=0)** - Do you want to write [[JavaScript]] code that waits for a process to return and then does exactly what you want with the result?
 >
 > **[0:06](https://www.linkedin.com/learning/javascript-async/implementing-smart-asynchronous-code-22163789?u=76281980&t=6)** Understanding the syntax of async code in JavaScript can be a challenge, and choosing between the many async options in modern JavaScript can be overwhelming.
 >
@@ -108,27 +107,25 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - do (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/what-you-should-know-14341180?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/javascript-async/what-you-should-know-14341180?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-async/what-you-should-know-14341180?u=76281980&t=0)** - [Instructor] This course assumes you have some experience coding in JavaScript and making API requests using HTTP.
+> **[0:00](https://www.linkedin.com/learning/javascript-async/what-you-should-know-14341180?u=76281980&t=0)** - [Instructor] This course assumes you have some experience coding in [[JavaScript]] and making API requests using HTTP.
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-async/what-you-should-know-14341180?u=76281980&t=8)** If you don't have experience with JavaScript, a basic JavaScript course would be a great place to start.
 >
-> **[0:15](https://www.linkedin.com/learning/javascript-async/what-you-should-know-14341180?u=76281980&t=15)** To get an overview of the modern JavaScript tools we'll be using, check out a course on ES6 or ECMAScript 6.
+> **[0:15](https://www.linkedin.com/learning/javascript-async/what-you-should-know-14341180?u=76281980&t=15)** To get an overview of the modern JavaScript tools we'll be using, check out a course on ES6 or [[ECMAScript]] 6.
 >
-> **[0:22](https://www.linkedin.com/learning/javascript-async/what-you-should-know-14341180?u=76281980&t=22)** For the basics of working with APIs, explore a course on Ajax.
+> **[0:22](https://www.linkedin.com/learning/javascript-async/what-you-should-know-14341180?u=76281980&t=22)** For the basics of working with APIs, explore a course on [[AJAX]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), api (1), [[ECMAScript]] (1), [[AJAX]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[ECMAScript]] (1), [[AJAX]] (1)
 > **Env Vars:** api (1), http (1), es6 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Environment setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/environment-setup-14340801?u=76281980)
+#### [Environment setup](https://www.linkedin.com/learning/javascript-async/environment-setup-14340801?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -136,7 +133,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/javascript-async/environment-setup-14340801?u=76281980&t=10)** You also need an API key from [OpenWeatherMap.org](https://OpenWeatherMap.org).
 >
-> **[0:14](https://www.linkedin.com/learning/javascript-async/environment-setup-14340801?u=76281980&t=14)** You undoubtedly already have a web browser installed in your machine and any major modern browser, Chrome, Firefox, or Microsoft Edge is fine for this course.
+> **[0:14](https://www.linkedin.com/learning/javascript-async/environment-setup-14340801?u=76281980&t=14)** You undoubtedly already have a web browser installed in your machine and any major modern browser, Chrome, Firefox, or [[Microsoft]] Edge is fine for this course.
 >
 > **[0:25](https://www.linkedin.com/learning/javascript-async/environment-setup-14340801?u=76281980&t=25)** I'll be using Chrome in these videos, which is a popular choice among web developers because of the extensive and powerful developer tools it has built in.
 >
@@ -148,11 +145,11 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/javascript-async/environment-setup-14340801?u=76281980&t=50)** So if you have a code editor you like, such as Sublime Text or Atom, it's fine to use that.
 >
-> **[0:56](https://www.linkedin.com/learning/javascript-async/environment-setup-14340801?u=76281980&t=56)** I use Visual Studio code in these videos, which is a version of Microsoft Visual Studio, created specifically for web development.
+> **[0:56](https://www.linkedin.com/learning/javascript-async/environment-setup-14340801?u=76281980&t=56)** I use Visual Studio code in these videos, which is a version of Microsoft Visual Studio, created specifically for [[Web Development]].
 >
-> **[1:04](https://www.linkedin.com/learning/javascript-async/environment-setup-14340801?u=76281980&t=64)** Visual Studio code is free and has Windows, Mac, and Linux releases.
+> **[1:04](https://www.linkedin.com/learning/javascript-async/environment-setup-14340801?u=76281980&t=64)** Visual Studio code is free and has [[Windows]], Mac, and [[Linux]] releases.
 >
-> **[1:10](https://www.linkedin.com/learning/javascript-async/environment-setup-14340801?u=76281980&t=70)** The code is available on GitHub, and users can submit issues there as well.
+> **[1:10](https://www.linkedin.com/learning/javascript-async/environment-setup-14340801?u=76281980&t=70)** The code is available on [[GitHub]], and users can submit issues there as well.
 >
 > **[1:15](https://www.linkedin.com/learning/javascript-async/environment-setup-14340801?u=76281980&t=75)** I've customized my editor with a few extensions that are particularly useful for this course.
 >
@@ -174,9 +171,9 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/javascript-async/environment-setup-14340801?u=76281980&t=159)** Live Server adds a GoLive icon at the bottom of the Visual Studio code window, which you click to serve and open the current document.
 >
-> **[2:47](https://www.linkedin.com/learning/javascript-async/environment-setup-14340801?u=76281980&t=167)** It's note that when testing front-end web code, using Live Server, you need to launch the server on an HTML document.
+> **[2:47](https://www.linkedin.com/learning/javascript-async/environment-setup-14340801?u=76281980&t=167)** It's note that when testing front-end web code, using Live Server, you need to launch the server on an [[HTML]] document.
 >
-> **[2:54](https://www.linkedin.com/learning/javascript-async/environment-setup-14340801?u=76281980&t=174)** So right now I have a JavaScript file open.
+> **[2:54](https://www.linkedin.com/learning/javascript-async/environment-setup-14340801?u=76281980&t=174)** So right now I have a [[JavaScript]] file open.
 >
 > **[2:56](https://www.linkedin.com/learning/javascript-async/environment-setup-14340801?u=76281980&t=176)** And if I click GoLive, it's going to open a live view of that file, which is just the directory of the currently open project.
 >
@@ -194,7 +191,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[HTML]] (3), api (2), [[Microsoft]] (2), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Microsoft]] (2), [[JavaScript]] (2), [[Web Development]] (1), [[Windows]] (1)
 > **Env Vars:** http (4), html (3), api (2)
 > **Tools:** visual studio (4), firefox (1), sublime (1), atom (1), github (1)
 > **CLI Commands:** make (3)
@@ -203,8 +200,7 @@ created: 2026-05-02
 > **URLs:** [openweathermap.org](https://openweathermap.org) (1)
 > **Analogies:** such as (1)
 
-#### Getting an OpenWeatherMap API key
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/getting-an-openweathermap-api-key-14340798?u=76281980)
+#### [Getting an OpenWeatherMap API key](https://www.linkedin.com/learning/javascript-async/getting-an-openweathermap-api-key-14340798?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -214,7 +210,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/javascript-async/getting-an-openweathermap-api-key-14340798?u=76281980&t=14)** The service provides a limited amount of data for free and by having your own key rather than sharing one, you can ensure that you stay below the limit of free requests.
 >
-> **[0:24](https://www.linkedin.com/learning/javascript-async/getting-an-openweathermap-api-key-14340798?u=76281980&t=24)** To get data from this service, you need to sign up for an account with [openweathermap.org](https://openweathermap.org) and obtain an API key, which you'll use when creating your Ajax requests for data.
+> **[0:24](https://www.linkedin.com/learning/javascript-async/getting-an-openweathermap-api-key-14340798?u=76281980&t=24)** To get data from this service, you need to sign up for an account with [openweathermap.org](https://openweathermap.org) and obtain an API key, which you'll use when creating your [[AJAX]] requests for data.
 >
 > **[0:35](https://www.linkedin.com/learning/javascript-async/getting-an-openweathermap-api-key-14340798?u=76281980&t=35)** So let's set that up now.
 >
@@ -250,7 +246,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/javascript-async/getting-an-openweathermap-api-key-14340798?u=76281980&t=117)** So I'm going to open up the Notes app.
 >
-> **[1:59](https://www.linkedin.com/learning/javascript-async/getting-an-openweathermap-api-key-14340798?u=76281980&t=119)** You could certainly use TextEdit on a Windows machine and in a new note, I'm just going to paste my API key in there, maybe give myself a little note.
+> **[1:59](https://www.linkedin.com/learning/javascript-async/getting-an-openweathermap-api-key-14340798?u=76281980&t=119)** You could certainly use TextEdit on a [[Windows]] machine and in a new note, I'm just going to paste my API key in there, maybe give myself a little note.
 >
 > **[2:13](https://www.linkedin.com/learning/javascript-async/getting-an-openweathermap-api-key-14340798?u=76281980&t=133)** So that's my OpenWeatherMap API key.
 >
@@ -264,7 +260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (9), data (6), [[AJAX]] (2), hit (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[AJAX]] (2), [[Windows]] (1)
 > **Env Vars:** api (9)
 > **URLs:** [openweathermap.org](https://openweathermap.org) (4)
 > **CLI Commands:** make (3)
@@ -278,8 +274,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding what asynchronous means
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/understanding-what-asynchronous-means-14342027?u=76281980)
+#### [Understanding what asynchronous means](https://www.linkedin.com/learning/javascript-async/understanding-what-asynchronous-means-14342027?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -327,7 +322,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), next (1)
 > **Analogies:** imagine (2), for instance (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -335,12 +329,11 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructror] (1)
 
-#### Defining asynchronous programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/defining-asynchronous-programming-14342017?u=76281980)
+#### [Defining asynchronous programming](https://www.linkedin.com/learning/javascript-async/defining-asynchronous-programming-14342017?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-async/defining-asynchronous-programming-14342017?u=76281980&t=0)** - [Instructor] We can build program flow in JavaScript in two different ways.
+> **[0:00](https://www.linkedin.com/learning/javascript-async/defining-asynchronous-programming-14342017?u=76281980&t=0)** - [Instructor] We can build program flow in [[JavaScript]] in two different ways.
 >
 > **[0:05](https://www.linkedin.com/learning/javascript-async/defining-asynchronous-programming-14342017?u=76281980&t=5)** Synchronously and asynchronously.
 >
@@ -380,9 +373,9 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/javascript-async/defining-asynchronous-programming-14342017?u=76281980&t=156)** We write asynchronous code when we want to give part of our code time to complete while still allowing the parsers to continue executing the code that follows right away.
 >
-> **[2:46](https://www.linkedin.com/learning/javascript-async/defining-asynchronous-programming-14342017?u=76281980&t=166)** One of the most common situations where we use asynchronous program flow is when we make Ajax requests.
+> **[2:46](https://www.linkedin.com/learning/javascript-async/defining-asynchronous-programming-14342017?u=76281980&t=166)** One of the most common situations where we use asynchronous program flow is when we make [[AJAX]] requests.
 >
-> **[2:53](https://www.linkedin.com/learning/javascript-async/defining-asynchronous-programming-14342017?u=76281980&t=173)** We write code using XHR or fetch, or maybe a library specific method that sends a request for data to a remote server.
+> **[2:53](https://www.linkedin.com/learning/javascript-async/defining-asynchronous-programming-14342017?u=76281980&t=173)** We write code using XHR or [[Fetch]], or maybe a library specific method that sends a request for data to a remote server.
 >
 > **[3:01](https://www.linkedin.com/learning/javascript-async/defining-asynchronous-programming-14342017?u=76281980&t=181)** This code defaults to an asynchronous mode, meaning that the request gets sent off, and while the parser is waiting for a response, the main program flow moves on to execute other code, like responding to user interactions.
 >
@@ -392,21 +385,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (4), [[JavaScript]] (3), next (2), [[AJAX]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[AJAX]] (1), [[Fetch]] (1)
 > **Definitions:** known as (2), means that (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** xhr (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using callbacks in asynchronous programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/using-callbacks-in-asynchronous-programming?u=76281980)
+#### [Using callbacks in asynchronous programming](https://www.linkedin.com/learning/javascript-async/using-callbacks-in-asynchronous-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-async/using-callbacks-in-asynchronous-programming?u=76281980&t=0)** - [Instructor] JavaScript includes a handful of built-in functions that are executed asynchronously by default.
+> **[0:00](https://www.linkedin.com/learning/javascript-async/using-callbacks-in-asynchronous-programming?u=76281980&t=0)** - [Instructor] [[JavaScript]] includes a handful of built-in functions that are executed asynchronously by default.
 >
-> **[0:07](https://www.linkedin.com/learning/javascript-async/using-callbacks-in-asynchronous-programming?u=76281980&t=7)** These include Ajax methods, such as those in an XML HTTP request object, as well as timing functions like set timeout and animation methods, like request animation frame.
+> **[0:07](https://www.linkedin.com/learning/javascript-async/using-callbacks-in-asynchronous-programming?u=76281980&t=7)** These include [[AJAX]] methods, such as those in an XML HTTP request object, as well as timing functions like set timeout and animation methods, like request animation frame.
 >
 > **[0:20](https://www.linkedin.com/learning/javascript-async/using-callbacks-in-asynchronous-programming?u=76281980&t=20)** These asynchronous methods and functions have long provided the foundation for building asynchronous code in JavaScript.
 >
@@ -450,7 +442,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/javascript-async/using-callbacks-in-asynchronous-programming?u=76281980&t=151)** We're basically just logging three things to the console here.
 >
-> **[2:34](https://www.linkedin.com/learning/javascript-async/using-callbacks-in-asynchronous-programming?u=76281980&t=154)** So first, we log the word hi to the console, and that's going to happen immediately when the script loads.
+> **[2:34](https://www.linkedin.com/learning/javascript-async/using-callbacks-in-asynchronous-programming?u=76281980&t=154)** So first, we log the [[Microsoft Word|word]] hi to the console, and that's going to happen immediately when the script loads.
 >
 > **[2:41](https://www.linkedin.com/learning/javascript-async/using-callbacks-in-asynchronous-programming?u=76281980&t=161)** And next we call set timeout, passing it a function that logs the text, asynchronous result, to the console, but only after 5,000 milliseconds have passed.
 >
@@ -462,7 +454,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/javascript-async/using-callbacks-in-asynchronous-programming?u=76281980&t=195)** But the main program flow will move on to that final console dot log statement and log synchronous result before that set timeout is finished.
 >
-> **[3:25](https://www.linkedin.com/learning/javascript-async/using-callbacks-in-asynchronous-programming?u=76281980&t=205)** And so, I have my index dot HTML file running, using live server.
+> **[3:25](https://www.linkedin.com/learning/javascript-async/using-callbacks-in-asynchronous-programming?u=76281980&t=205)** And so, I have my index dot [[HTML]] file running, using live server.
 >
 > **[3:31](https://www.linkedin.com/learning/javascript-async/using-callbacks-in-asynchronous-programming?u=76281980&t=211)** So, I need to kill my previous live server and then with that index dot HTML file open, going to hit go live.
 >
@@ -488,15 +480,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[JavaScript]] (2), parallel (2), [[Microsoft Word|Word]] (2), [[HTML]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Microsoft Word|Word]] (2), [[HTML]] (2), [[AJAX]] (1)
 > **Definitions:** is called (4), known as (1), is a  (1), is an  (1)
 > **Env Vars:** html (2), xml (1), http (1)
 > **Analogies:** such as (1), for instance (1)
 > **Exercise Files:** sample code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing callbacks for problem-solving
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/implementing-callbacks-for-problem-solving?u=76281980)
+#### [Implementing callbacks for problem-solving](https://www.linkedin.com/learning/javascript-async/implementing-callbacks-for-problem-solving?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -508,7 +499,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/javascript-async/implementing-callbacks-for-problem-solving?u=76281980&t=16)** Here's what that looks like in the end file for this video.
 >
-> **[0:20](https://www.linkedin.com/learning/javascript-async/implementing-callbacks-for-problem-solving?u=76281980&t=20)** We're going to create an Ajax request to OpenWeatherMap to get current weather data for L.A.
+> **[0:20](https://www.linkedin.com/learning/javascript-async/implementing-callbacks-for-problem-solving?u=76281980&t=20)** We're going to create an [[AJAX]] request to OpenWeatherMap to get current weather data for L.A.
 >
 > **[0:25](https://www.linkedin.com/learning/javascript-async/implementing-callbacks-for-problem-solving?u=76281980&t=25)** And then we want to incorporate the data that's returned into the DOM so it's displayed in the browser window.
 >
@@ -540,7 +531,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/javascript-async/implementing-callbacks-for-problem-solving?u=76281980&t=112)** And then we've got a function called successHandler and this is actually going to take the data that we get back and it's going to render it into the DOM.
 >
-> **[2:01](https://www.linkedin.com/learning/javascript-async/implementing-callbacks-for-problem-solving?u=76281980&t=121)** This uses a template literal and then some vanilla JavaScript to actually add the structure to the DOM.
+> **[2:01](https://www.linkedin.com/learning/javascript-async/implementing-callbacks-for-problem-solving?u=76281980&t=121)** This uses a template literal and then some [[Vanilla]] [[JavaScript]] to actually add the structure to the DOM.
 >
 > **[2:09](https://www.linkedin.com/learning/javascript-async/implementing-callbacks-for-problem-solving?u=76281980&t=129)** And so then down here, I've got an event listener for when the DOM has finished loading.
 >
@@ -570,13 +561,13 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/javascript-async/implementing-callbacks-for-problem-solving?u=76281980&t=186)** And so I'm going to call my successHandler function, and I'm going to pass it httpRequest.responseText.
 >
-> **[3:16](https://www.linkedin.com/learning/javascript-async/implementing-callbacks-for-problem-solving?u=76281980&t=196)** So we are getting JSON back from this API that comes back in the response text property of that XHR object.
+> **[3:16](https://www.linkedin.com/learning/javascript-async/implementing-callbacks-for-problem-solving?u=76281980&t=196)** So we are getting [[JSON]] back from this API that comes back in the response text property of that XHR object.
 >
 > **[3:24](https://www.linkedin.com/learning/javascript-async/implementing-callbacks-for-problem-solving?u=76281980&t=204)** And so let's see what happens.
 >
 > **[3:26](https://www.linkedin.com/learning/javascript-async/implementing-callbacks-for-problem-solving?u=76281980&t=206)** I'm going to save that code.
 >
-> **[3:34](https://www.linkedin.com/learning/javascript-async/implementing-callbacks-for-problem-solving?u=76281980&t=214)** Going to switch over to the HTML file and go live with that.
+> **[3:34](https://www.linkedin.com/learning/javascript-async/implementing-callbacks-for-problem-solving?u=76281980&t=214)** Going to switch over to the [[HTML]] file and go live with that.
 >
 > **[3:39](https://www.linkedin.com/learning/javascript-async/implementing-callbacks-for-problem-solving?u=76281980&t=219)** And I don't have any data here.
 >
@@ -630,7 +621,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), dom (6), api (4), [[JSON]] (4), feature (2)
+> **Frameworks & Libraries:** [[JSON]] (4), [[AJAX]] (1), [[Vanilla]] (1), [[JavaScript]] (1), [[HTML]] (1)
 > **Env Vars:** url (9), dom (6), http (4), api (4), json (4)
 > **Code Identifiers:** successhandler (5), httprequest (4), responsetext (2), temptof (1)
 > **CLI Commands:** make (3)
@@ -639,12 +630,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using error checking with multiple callbacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/using-error-checking-with-multiple-callbacks?u=76281980)
+#### [Using error checking with multiple callbacks](https://www.linkedin.com/learning/javascript-async/using-error-checking-with-multiple-callbacks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-async/using-error-checking-with-multiple-callbacks?u=76281980&t=1)** - [Instructor] Our Explore California site uses an Ajax request to get weather, and a callback to work with the data received.
+> **[0:01](https://www.linkedin.com/learning/javascript-async/using-error-checking-with-multiple-callbacks?u=76281980&t=1)** - [Instructor] Our Explore California site uses an [[AJAX]] request to get weather, and a callback to work with the data received.
 >
 > **[0:09](https://www.linkedin.com/learning/javascript-async/using-error-checking-with-multiple-callbacks?u=76281980&t=9)** But what happens when the response contains something other than the data we expect?
 >
@@ -754,7 +744,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[AJAX]] (2), api (2), next (1), dom (1)
+> **Frameworks & Libraries:** [[AJAX]] (2)
 > **Env Vars:** url (2), api (2), xhr (1), dom (1), http (1)
 > **Code Identifiers:** failhandler (2), weatherdiv (2), httprequest (1), classlist (1)
 > **CLI Commands:** make (2)
@@ -766,8 +756,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding promises
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/understanding-promises-14342019?u=76281980)
+#### [Understanding promises](https://www.linkedin.com/learning/javascript-async/understanding-promises-14342019?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -777,7 +766,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/javascript-async/understanding-promises-14342019?u=76281980&t=17)** However, when we start working with code that uses multiple chain callbacks, it can be hard to write code that's both well-organized and easy for humans to read, to solve this problem.
 >
-> **[0:30](https://www.linkedin.com/learning/javascript-async/understanding-promises-14342019?u=76281980&t=30)** Modern JavaScript supports promises, which allow us to string together multiple callbacks while maintaining well-organized and human readable code.
+> **[0:30](https://www.linkedin.com/learning/javascript-async/understanding-promises-14342019?u=76281980&t=30)** Modern [[JavaScript]] supports promises, which allow us to string together multiple callbacks while maintaining well-organized and human readable code.
 >
 > **[0:41](https://www.linkedin.com/learning/javascript-async/understanding-promises-14342019?u=76281980&t=41)** A promise is an object that represents the eventual result of an asynchronous operation.
 >
@@ -809,19 +798,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Documentation:** specification (1)
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
 > **Warnings:** note that (1)
 > **Speakers:** - callbacks (1)
 
-#### Building asynchronous code with promises
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/building-asynchronous-code-with-promises?u=76281980)
+#### [Building asynchronous code with promises](https://www.linkedin.com/learning/javascript-async/building-asynchronous-code-with-promises?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-async/building-asynchronous-code-with-promises?u=76281980&t=0)** - Modern JavaScript includes a method called Fetch, that creates an asynchronous HTTP request using a syntax that's based on Promises.
+> **[0:00](https://www.linkedin.com/learning/javascript-async/building-asynchronous-code-with-promises?u=76281980&t=0)** - Modern [[JavaScript]] includes a method called [[Fetch]], that creates an asynchronous HTTP request using a syntax that's based on Promises.
 >
 > **[0:10](https://www.linkedin.com/learning/javascript-async/building-asynchronous-code-with-promises?u=76281980&t=10)** However, to get practice building Promises from the ground up, we're going to create our own method using the Promises constructor to create and send an XHR request for the weather information on the explore California site.
 >
@@ -849,13 +837,13 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/javascript-async/building-asynchronous-code-with-promises?u=76281980&t=172)** I'm going to comment out that previous function call and because we don't have any response handling set up yet, I'm going to start by just console.logging the response, so we can see what happens when a Promise resolves or rejects.
 >
-> **[3:11](https://www.linkedin.com/learning/javascript-async/building-asynchronous-code-with-promises?u=76281980&t=191)** So I'm just going to call that GET Method, pass it our URL, and then console.log the results and so over in my browser, I have my page loading with livereload and so here is the result of my console.log So my GET function now returns a Promise and we can actually look inside that Promise and see it has a status and a value, the status is resolved meaning that it got a successful response and it got some data back and then the Promise value is actually that data and when I hover over that, I can actually see I have this big blob of JSON containing weather data just like I expect.
+> **[3:11](https://www.linkedin.com/learning/javascript-async/building-asynchronous-code-with-promises?u=76281980&t=191)** So I'm just going to call that GET Method, pass it our URL, and then console.log the results and so over in my browser, I have my page loading with livereload and so here is the result of my console.log So my GET function now returns a Promise and we can actually look inside that Promise and see it has a status and a value, the status is resolved meaning that it got a successful response and it got some data back and then the Promise value is actually that data and when I hover over that, I can actually see I have this big blob of [[JSON]] containing weather data just like I expect.
 >
 > **[3:54](https://www.linkedin.com/learning/javascript-async/building-asynchronous-code-with-promises?u=76281980&t=234)** So this is the first stage of actually creating a promise.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[JavaScript]] (2), [[Fetch]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Fetch]] (1), [[JSON]] (1)
 > **API Endpoints:** get  (5), get
  (1)
 > **Env Vars:** xhr (2), http (1), url (1), json (1)
@@ -865,8 +853,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - modern (1)
 
-#### Appending methods to resolved promises
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/appending-methods-to-resolved-promises?u=76281980)
+#### [Appending methods to resolved promises](https://www.linkedin.com/learning/javascript-async/appending-methods-to-resolved-promises?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -918,14 +905,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), dom (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** http (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
 
-#### Using catch methods for rejected promises
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/using-catch-methods-for-rejected-promises?u=76281980)
+#### [Using catch methods for rejected promises](https://www.linkedin.com/learning/javascript-async/using-catch-methods-for-rejected-promises?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -933,7 +918,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-async/using-catch-methods-for-rejected-promises?u=76281980&t=7)** While the result of a resolved promise is passed to the first then statement that's chained the promise call, you use a separate method, catch, to work with a rejected promise.
 >
-> **[0:18](https://www.linkedin.com/learning/javascript-async/using-catch-methods-for-rejected-promises?u=76281980&t=18)** The catch method allows you to perform error handling, just like the more general catch statement that JavaScript supports.
+> **[0:18](https://www.linkedin.com/learning/javascript-async/using-catch-methods-for-rejected-promises?u=76281980&t=18)** The catch method allows you to perform error handling, just like the more general catch statement that [[JavaScript]] supports.
 >
 > **[0:25](https://www.linkedin.com/learning/javascript-async/using-catch-methods-for-rejected-promises?u=76281980&t=25)** Catch is passed to the object created by the reject method of the original promise.
 >
@@ -997,15 +982,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), [[JavaScript]] (2), data (2), web (1), dom (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Env Vars:** api (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the finally method for executing handlers
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/using-the-finally-method-for-executing-handlers?u=76281980)
+#### [Using the finally method for executing handlers](https://www.linkedin.com/learning/javascript-async/using-the-finally-method-for-executing-handlers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1045,7 +1029,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/javascript-async/using-the-finally-method-for-executing-handlers?u=76281980&t=130)** I can also take this final line out of the success handler, but I do need to keep line 44 in here.
 >
-> **[2:19](https://www.linkedin.com/learning/javascript-async/using-the-finally-method-for-executing-handlers?u=76281980&t=139)** So we still have to change the inner HTML only in the success handler.
+> **[2:19](https://www.linkedin.com/learning/javascript-async/using-the-finally-method-for-executing-handlers?u=76281980&t=139)** So we still have to change the inner [[HTML]] only in the success handler.
 >
 > **[2:24](https://www.linkedin.com/learning/javascript-async/using-the-finally-method-for-executing-handlers?u=76281980&t=144)** So I've taken out the final line of the success handler, the final two lines of the fail handler.
 >
@@ -1069,13 +1053,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), dom (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** api (2), html (1)
 > **UI Navigation:** scroll down (1), scroll up (1)
 > **Speakers:** - in (1)
 
-#### Preparing the all method for executing multiple promises
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/preparing-the-all-method-for-executing-multiple-promises?u=76281980)
+#### [Preparing the all method for executing multiple promises](https://www.linkedin.com/learning/javascript-async/preparing-the-all-method-for-executing-multiple-promises?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1115,13 +1098,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), dom (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing the all method for executing multiple promises
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/implementing-the-all-method-for-executing-multiple-promises?u=76281980)
+#### [Implementing the all method for executing multiple promises](https://www.linkedin.com/learning/javascript-async/implementing-the-all-method-for-executing-multiple-promises?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1197,13 +1178,13 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/javascript-async/implementing-the-all-method-for-executing-multiple-promises?u=76281980&t=294)** So, I'm going to do another dot then.
 >
-> **[4:57](https://www.linkedin.com/learning/javascript-async/implementing-the-all-method-for-executing-multiple-promises?u=76281980&t=297)** And in my anonymous function, I'm going to use the word literals as my parameter name.
+> **[4:57](https://www.linkedin.com/learning/javascript-async/implementing-the-all-method-for-executing-multiple-promises?u=76281980&t=297)** And in my anonymous function, I'm going to use the [[Microsoft Word|word]] literals as my parameter name.
 >
 > **[5:06](https://www.linkedin.com/learning/javascript-async/implementing-the-all-method-for-executing-multiple-promises?u=76281980&t=306)** And so, I'm getting an array of template literals here.
 >
 > **[5:09](https://www.linkedin.com/learning/javascript-async/implementing-the-all-method-for-executing-multiple-promises?u=76281980&t=309)** And so, I'm going to use that weather div reference.
 >
-> **[5:18](https://www.linkedin.com/learning/javascript-async/implementing-the-all-method-for-executing-multiple-promises?u=76281980&t=318)** And I want to set its inner HTML.
+> **[5:18](https://www.linkedin.com/learning/javascript-async/implementing-the-all-method-for-executing-multiple-promises?u=76281980&t=318)** And I want to set its inner [[HTML]].
 >
 > **[5:21](https://www.linkedin.com/learning/javascript-async/implementing-the-all-method-for-executing-multiple-promises?u=76281980&t=321)** And the first thing I want of that inner HTML is that H one element we had earlier.
 >
@@ -1229,7 +1210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (3), api (3), [[HTML]] (3), next (2), data (2)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Microsoft Word|Word]] (2)
 > **Env Vars:** api (3), url (3), html (3)
 > **Exercise Files:** template (6)
 > **CLI Commands:** make (4)
@@ -1237,12 +1218,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making code backward-compatible with polyfill
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/making-code-backward-compatible-with-polyfill?u=76281980)
+#### [Making code backward-compatible with polyfill](https://www.linkedin.com/learning/javascript-async/making-code-backward-compatible-with-polyfill?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/javascript-async/making-code-backward-compatible-with-polyfill?u=76281980&t=1)** - [Instructor] Promises became part of JavaScript in 2015 and are supported by all modern browsers.
+> **[0:01](https://www.linkedin.com/learning/javascript-async/making-code-backward-compatible-with-polyfill?u=76281980&t=1)** - [Instructor] Promises became part of [[JavaScript]] in 2015 and are supported by all modern browsers.
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-async/making-code-backward-compatible-with-polyfill?u=76281980&t=7)** However, code that uses promises won't work on older browsers or on Opera Mini.
 >
@@ -1254,9 +1234,9 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/javascript-async/making-code-backward-compatible-with-polyfill?u=76281980&t=40)** So I'm going to copy that.
 >
-> **[0:42](https://www.linkedin.com/learning/javascript-async/making-code-backward-compatible-with-polyfill?u=76281980&t=42)** And then in my editor, I'm actually going to work with the HTML file.
+> **[0:42](https://www.linkedin.com/learning/javascript-async/making-code-backward-compatible-with-polyfill?u=76281980&t=42)** And then in my editor, I'm actually going to work with the [[HTML]] file.
 >
-> **[0:49](https://www.linkedin.com/learning/javascript-async/making-code-backward-compatible-with-polyfill?u=76281980&t=49)** And in this file, I have my JavaScript files in the head section, and I need to make sure to insert the code for the promises polyfill before the code for my Ajax, which uses it.
+> **[0:49](https://www.linkedin.com/learning/javascript-async/making-code-backward-compatible-with-polyfill?u=76281980&t=49)** And in this file, I have my JavaScript files in the head section, and I need to make sure to insert the code for the promises polyfill before the code for my [[AJAX]], which uses it.
 >
 > **[1:01](https://www.linkedin.com/learning/javascript-async/making-code-backward-compatible-with-polyfill?u=76281980&t=61)** So I'm going to insert that new script element on the line before the script element that references ajax.js.
 >
@@ -1282,8 +1262,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the async/await model
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/understanding-the-async-await-model-14344029?u=76281980)
+#### [Understanding the async/await model](https://www.linkedin.com/learning/javascript-async/understanding-the-async-await-model-14344029?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1293,7 +1272,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/javascript-async/understanding-the-async-await-model-14344029?u=76281980&t=14)** In particular, because it requires identifying where the code is asynchronous and where it's not.
 >
-> **[0:20](https://www.linkedin.com/learning/javascript-async/understanding-the-async-await-model-14344029?u=76281980&t=20)** An even newer way to work with asynchronous code became part of JavaScript in 2017.
+> **[0:20](https://www.linkedin.com/learning/javascript-async/understanding-the-async-await-model-14344029?u=76281980&t=20)** An even newer way to work with asynchronous code became part of [[JavaScript]] in 2017.
 >
 > **[0:26](https://www.linkedin.com/learning/javascript-async/understanding-the-async-await-model-14344029?u=76281980&t=26)** This syntax uses the async and await keywords to enable writing asynchronous code that closely resembles synchronous code patterns.
 >
@@ -1316,8 +1295,7 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using async functions with await statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/using-async-functions-with-await-statements?u=76281980)
+#### [Using async functions with await statements](https://www.linkedin.com/learning/javascript-async/using-async-functions-with-await-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1325,7 +1303,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-async/using-async-functions-with-await-statements?u=76281980&t=8)** And then, when all requests are completed to use the return data, to render the information as part of the DOM.
 >
-> **[0:15](https://www.linkedin.com/learning/javascript-async/using-async-functions-with-await-statements?u=76281980&t=15)** We can use async and await in place of the chain promise pattern here, to make the code look more like the synchronous functions that are common in JavaScript.
+> **[0:15](https://www.linkedin.com/learning/javascript-async/using-async-functions-with-await-statements?u=76281980&t=15)** We can use async and await in place of the chain promise pattern here, to make the code look more like the synchronous functions that are common in [[JavaScript]].
 >
 > **[0:25](https://www.linkedin.com/learning/javascript-async/using-async-functions-with-await-statements?u=76281980&t=25)** So I'm going to start by commenting out my promise.
 >
@@ -1421,7 +1399,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), data (3), dom (2), [[JavaScript]] (1), parallel (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** dom (2), url (2), iife (1)
 > **Exercise Files:** template (1)
@@ -1429,14 +1407,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard typing) (1)
 
-#### Using statements to handle errors in async/await code
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/using-statements-to-handle-errors-in-async-await-code?u=76281980)
+#### [Using statements to handle errors in async/await code](https://www.linkedin.com/learning/javascript-async/using-statements-to-handle-errors-in-async-await-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-async/using-statements-to-handle-errors-in-async-await-code?u=76281980&t=0)** - [Instructor] Async in await statements don't come with their own error handling methods like promises do.
 >
-> **[0:05](https://www.linkedin.com/learning/javascript-async/using-statements-to-handle-errors-in-async-await-code?u=76281980&t=5)** But the async and await structure lets us write code that looks a lot like synchronous JavaScript.
+> **[0:05](https://www.linkedin.com/learning/javascript-async/using-statements-to-handle-errors-in-async-await-code?u=76281980&t=5)** But the async and await structure lets us write code that looks a lot like synchronous [[JavaScript]].
 >
 > **[0:11](https://www.linkedin.com/learning/javascript-async/using-statements-to-handle-errors-in-async-await-code?u=76281980&t=11)** And it turns out that it also works just fine with standard JavaScript error handling statements.
 >
@@ -1488,17 +1465,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), generic (1), api (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3)
 > **Env Vars:** api (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making async/await code backward compatible with polyfill
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/making-async-await-code-backward-compatible-with-polyfill?u=76281980)
+#### [Making async/await code backward compatible with polyfill](https://www.linkedin.com/learning/javascript-async/making-async-await-code-backward-compatible-with-polyfill?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-async/making-async-await-code-backward-compatible-with-polyfill?u=76281980&t=0)** - [Instructor] The Async and Await construction became part of JavaScript in 2017.
+> **[0:00](https://www.linkedin.com/learning/javascript-async/making-async-await-code-backward-compatible-with-polyfill?u=76281980&t=0)** - [Instructor] The Async and Await construction became part of [[JavaScript]] in 2017.
 >
 > **[0:05](https://www.linkedin.com/learning/javascript-async/making-async-await-code-backward-compatible-with-polyfill?u=76281980&t=5)** And it's supported by all modern browsers.
 >
@@ -1540,12 +1516,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a web worker?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/what-is-a-web-worker-14338950?u=76281980)
+#### [What is a web worker?](https://www.linkedin.com/learning/javascript-async/what-is-a-web-worker-14338950?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-async/what-is-a-web-worker-14338950?u=76281980&t=0)** - [Instructor] JavaScript includes a number of features that enable you to program asynchronously, including callbacks, promises and async/await, but all of these async processes still rely on the main browser thread to execute their code after any delay has taken place, such as a set timeout or a response to an AJAX request.
+> **[0:00](https://www.linkedin.com/learning/javascript-async/what-is-a-web-worker-14338950?u=76281980&t=0)** - [Instructor] [[JavaScript]] includes a number of features that enable you to program asynchronously, including callbacks, promises and async/await, but all of these async processes still rely on the main browser thread to execute their code after any delay has taken place, such as a set timeout or a response to an [[AJAX]] request.
 >
 > **[0:21](https://www.linkedin.com/learning/javascript-async/what-is-a-web-worker-14338950?u=76281980&t=21)** The traditional asynchronous model for JavaScript simply rearranges the order in which code is executed on a single thread to avoid blocking, but features that use this model remain limited by the fact, that with a single thread, the browser can do only one thing at a time.
 >
@@ -1567,14 +1542,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[JavaScript]] (3), [[AJAX]] (1), data (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[AJAX]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
 > **Env Vars:** ajax (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a web worker
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/creating-a-web-worker-14341179?u=76281980)
+#### [Creating a web worker](https://www.linkedin.com/learning/javascript-async/creating-a-web-worker-14341179?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1600,7 +1574,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/javascript-async/creating-a-web-worker-14341179?u=76281980&t=60)** One alternative would be to send the data to the server and have the manipulation performed there.
 >
-> **[1:05](https://www.linkedin.com/learning/javascript-async/creating-a-web-worker-14341179?u=76281980&t=65)** But, Ajax requests generally take a lot of time, and can be unpredictable.
+> **[1:05](https://www.linkedin.com/learning/javascript-async/creating-a-web-worker-14341179?u=76281980&t=65)** But, [[AJAX]] requests generally take a lot of time, and can be unpredictable.
 >
 > **[1:10](https://www.linkedin.com/learning/javascript-async/creating-a-web-worker-14341179?u=76281980&t=70)** So the browser is going to make more sense here.
 >
@@ -1610,7 +1584,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/javascript-async/creating-a-web-worker-14341179?u=76281980&t=86)** And, it's not very long.
 >
-> **[1:27](https://www.linkedin.com/learning/javascript-async/creating-a-web-worker-14341179?u=76281980&t=87)** I'm on a pretty recent computer, and both computer hardware, and modern browsers, are optimized for this sort of work.
+> **[1:27](https://www.linkedin.com/learning/javascript-async/creating-a-web-worker-14341179?u=76281980&t=87)** I'm on a pretty recent computer, and both computer [[Hardware]], and modern browsers, are optimized for this sort of work.
 >
 > **[1:36](https://www.linkedin.com/learning/javascript-async/creating-a-web-worker-14341179?u=76281980&t=96)** Now back in my code, I've included a function called delay; which, just incorporates a delay, using a while statement that does nothing to allow me to specify a certain number of milliseconds, I'd like to wait before the next thing happens.
 >
@@ -1648,7 +1622,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/javascript-async/creating-a-web-worker-14341179?u=76281980&t=210)** So I want to rewrite this app, using a web worker.
 >
-> **[3:33](https://www.linkedin.com/learning/javascript-async/creating-a-web-worker-14341179?u=76281980&t=213)** With this delay, I can still expect the image processing to be slow.
+> **[3:33](https://www.linkedin.com/learning/javascript-async/creating-a-web-worker-14341179?u=76281980&t=213)** With this delay, I can still expect the [[Image Processing]] to be slow.
 >
 > **[3:38](https://www.linkedin.com/learning/javascript-async/creating-a-web-worker-14341179?u=76281980&t=218)** And that simulates an older device, or a mobile device.
 >
@@ -1686,7 +1660,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Image Processing]] (2), feature (1), power (1), data (1)
+> **Frameworks & Libraries:** [[Image Processing]] (2), [[AJAX]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** dom (1)
 > **Tools:** visual studio (1)
@@ -1695,8 +1669,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Prerequisites:** set up (1)
 
-#### Sending data to a web worker
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/sending-data-to-a-web-worker-14343037?u=76281980)
+#### [Sending data to a web worker](https://www.linkedin.com/learning/javascript-async/sending-data-to-a-web-worker-14343037?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1842,7 +1815,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), web (6), next (1)
 > **Code Identifiers:** applyfilter (7), postmessage (5), workerresult (2), addeventlistener (1), imagedataobj (1)
 > **File Paths:** filters.js (2), filter-worker.js (1), filter.js (1)
 > **CLI Commands:** make (1)
@@ -1850,8 +1822,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Returning data from a web worker
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/returning-data-from-a-web-worker-14339799?u=76281980)
+#### [Returning data from a web worker](https://www.linkedin.com/learning/javascript-async/returning-data-from-a-web-worker-14339799?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1909,7 +1880,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/javascript-async/returning-data-from-a-web-worker-14339799?u=76281980&t=180)** So saving that, and then I'm going to test that in my browser.
 >
-> **[3:03](https://www.linkedin.com/learning/javascript-async/returning-data-from-a-web-worker-14339799?u=76281980&t=183)** So if I hit gray scale, I've got an issue, and that's because I am trying to use the word results, but that doesn't actually work, I have to reference the results that came back, and that's going to be e.data.
+> **[3:03](https://www.linkedin.com/learning/javascript-async/returning-data-from-a-web-worker-14339799?u=76281980&t=183)** So if I hit gray scale, I've got an issue, and that's because I am trying to use the [[Microsoft Word|word]] results, but that doesn't actually work, I have to reference the results that came back, and that's going to be e.data.
 >
 > **[3:18](https://www.linkedin.com/learning/javascript-async/returning-data-from-a-web-worker-14339799?u=76281980&t=198)** So I'm sending a context like I did before, but instead of having the name e.data for my data, I can just reference it directly in that event object.
 >
@@ -1927,13 +1898,13 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/javascript-async/returning-data-from-a-web-worker-14339799?u=76281980&t=238)** I can also change images and they happen right away.
 >
-> **[4:01](https://www.linkedin.com/learning/javascript-async/returning-data-from-a-web-worker-14339799?u=76281980&t=241)** So the image processing is no longer blocking the main thread because that image processing has its own separate queue in the separate thread.
+> **[4:01](https://www.linkedin.com/learning/javascript-async/returning-data-from-a-web-worker-14339799?u=76281980&t=241)** So the [[Image Processing]] is no longer blocking the main thread because that image processing has its own separate queue in the separate thread.
 >
 > **[4:10](https://www.linkedin.com/learning/javascript-async/returning-data-from-a-web-worker-14339799?u=76281980&t=250)** My code could use an additional update to account for this, because right now that queued image manipulation might overwrite the more recent image selection, but the Web Workers offload that heavy imaging processing task to a separate thread and they make my code more responsive, and that is a definite win.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), web (7), hit (4), [[Image Processing]] (2), next (1)
+> **Frameworks & Libraries:** [[Image Processing]] (2), [[Microsoft Word|Word]] (1)
 > **File Paths:** filters.js (5), worker.js (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** addeventlistener (1)
@@ -1941,8 +1912,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying use cases for web workers
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/identifying-use-cases-for-web-workers?u=76281980)
+#### [Identifying use cases for web workers](https://www.linkedin.com/learning/javascript-async/identifying-use-cases-for-web-workers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1956,15 +1926,15 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/javascript-async/identifying-use-cases-for-web-workers?u=76281980&t=40)** Like a web worker, a service worker runs in a separate thread, but instead of simply running code and sending a response back to the app, a service worker is optimized to make network requests, monitor responses, and work with those responses all in the background.
 >
-> **[0:57](https://www.linkedin.com/learning/javascript-async/identifying-use-cases-for-web-workers?u=76281980&t=57)** Another related feature is a WebSocket.
+> **[0:57](https://www.linkedin.com/learning/javascript-async/identifying-use-cases-for-web-workers?u=76281980&t=57)** Another related feature is a [[WebSocket]].
 >
 > **[1:00](https://www.linkedin.com/learning/javascript-async/identifying-use-cases-for-web-workers?u=76281980&t=60)** A WebSocket maintains a persistent connection with a server and listens for updates.
 >
-> **[1:05](https://www.linkedin.com/learning/javascript-async/identifying-use-cases-for-web-workers?u=76281980&t=65)** Unlike web workers and service workers, WebSockets do not run in their own threads.
+> **[1:05](https://www.linkedin.com/learning/javascript-async/identifying-use-cases-for-web-workers?u=76281980&t=65)** Unlike web workers and service workers, [[WebSocket|WebSockets]] do not run in their own threads.
 >
 > **[1:10](https://www.linkedin.com/learning/javascript-async/identifying-use-cases-for-web-workers?u=76281980&t=70)** As a result, they have direct access to the dom.
 >
-> **[1:13](https://www.linkedin.com/learning/javascript-async/identifying-use-cases-for-web-workers?u=76281980&t=73)** You can use a WebSocket to replace code that performs polling, that is setting up an Ajax request to run at a regular interval to check for changes on the server.
+> **[1:13](https://www.linkedin.com/learning/javascript-async/identifying-use-cases-for-web-workers?u=76281980&t=73)** You can use a WebSocket to replace code that performs polling, that is setting up an [[AJAX]] request to run at a regular interval to check for changes on the server.
 >
 > **[1:23](https://www.linkedin.com/learning/javascript-async/identifying-use-cases-for-web-workers?u=76281980&t=83)** With an open socket, any changes are pushed and your code responds to them as events.
 >
@@ -1972,7 +1942,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[WebSocket]] (3), [[WebSocket|Websockets]] (2), feature (1), dom (1)
+> **Frameworks & Libraries:** [[WebSocket]] (3), [[WebSocket|Websockets]] (2), [[AJAX]] (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1982,18 +1952,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Asynchronous coding experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-async/asynchronous-coding-experience?u=76281980)
+#### [Asynchronous coding experience](https://www.linkedin.com/learning/javascript-async/asynchronous-coding-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-async/asynchronous-coding-experience?u=76281980&t=0)** - [Sasha] Thanks so much for joining me in this course.
 >
-> **[0:03](https://www.linkedin.com/learning/javascript-async/asynchronous-coding-experience?u=76281980&t=3)** You now have a fuller understanding of what asynchronous code does, what's going on under the hood in common asynchronous methods, and experience writing asynchronous code using a variety of modern JavaScript features.
+> **[0:03](https://www.linkedin.com/learning/javascript-async/asynchronous-coding-experience?u=76281980&t=3)** You now have a fuller understanding of what asynchronous code does, what's going on under the hood in common asynchronous methods, and experience writing asynchronous code using a variety of modern [[JavaScript]] features.
 >
 > **[0:17](https://www.linkedin.com/learning/javascript-async/asynchronous-coding-experience?u=76281980&t=17)** To dig deeper into some more advanced JavaScript concepts check out courses on closures or prototypes.
 >
-> **[0:25](https://www.linkedin.com/learning/javascript-async/asynchronous-coding-experience?u=76281980&t=25)** If you want to learn more about using data from APIs in your apps explore courses on Ajax or HTTP.
+> **[0:25](https://www.linkedin.com/learning/javascript-async/asynchronous-coding-experience?u=76281980&t=25)** If you want to learn more about using data from APIs in your apps explore courses on [[AJAX]] or HTTP.
 >
 > **[0:33](https://www.linkedin.com/learning/javascript-async/asynchronous-coding-experience?u=76281980&t=33)** Feel free to follow me online.
 >
@@ -2003,7 +1972,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), data (1), [[AJAX]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[AJAX]] (1)
 > **Env Vars:** http (1)
 > **Speakers:** - [sasha] (1)
 

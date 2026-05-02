@@ -85,8 +85,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore what MapGuide has to offer
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/explore-what-mapguide-has-to-offer?u=76281980)
+#### [Explore what MapGuide has to offer](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/explore-what-mapguide-has-to-offer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -94,27 +93,26 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/explore-what-mapguide-has-to-offer?u=76281980&t=5)** Imagine the ability to have all your data shared to everyone so they can view and query anything they wanted.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/explore-what-mapguide-has-to-offer?u=76281980&t=13)** We're going to explore all the amazing web mapping tools that MapGuide has to offer.
+> **[0:13](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/explore-what-mapguide-has-to-offer?u=76281980&t=13)** We're going to explore all the amazing web mapping tools that [[MapGuide]] has to offer.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/explore-what-mapguide-has-to-offer?u=76281980&t=18)** I'm Gordon Luckett, CAD and GIS consultant and founder of Arrow Geomatics Inc., and I've been working with open source and commercial GIS programs for over 20 years.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/explore-what-mapguide-has-to-offer?u=76281980&t=29)** Jump right into using open source web GIS.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/explore-what-mapguide-has-to-offer?u=76281980&t=32)** Join me in my LinkedIn learning course, Learning MapGuide Open Source.
+> **[0:32](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/explore-what-mapguide-has-to-offer?u=76281980&t=32)** Join me in my [[LinkedIn]] learning course, Learning MapGuide Open Source.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (4), web (3), [[MapGuide]] (2), data (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[MapGuide]] (2), [[LinkedIn]] (1)
 > **Env Vars:** gis (4), cad (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [gordon] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-exercise-files?u=76281980&t=0)** - [Instructor] After downloading the data from the LinkedIn Learning site, extract the exercise files to your desktop.
+> **[0:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-exercise-files?u=76281980&t=0)** - [Instructor] After downloading the data from the [[LinkedIn]] Learning site, extract the exercise files to your desktop.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-exercise-files?u=76281980&t=6)** That's where much of this course assumes the data is located.
 >
@@ -128,7 +126,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-exercise-files?u=76281980&t=34)** This will get you caught up to that point in the video.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-exercise-files?u=76281980&t=38)** For example, inside a MapGuide Maestro, I can pick package, load package, browse to the packages folders on my desktop, and you can see here that chapter three, exercise four is already there.
+> **[0:38](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-exercise-files?u=76281980&t=38)** For example, inside a [[MapGuide]] Maestro, I can pick package, load package, browse to the packages folders on my desktop, and you can see here that chapter three, exercise four is already there.
 >
 > **[0:51](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-exercise-files?u=76281980&t=51)** If I hit open, and OK, it'll load all the data that I need for the next lesson.
 >
@@ -138,7 +136,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[MapGuide]] (2), [[LinkedIn]] (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[MapGuide]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
@@ -151,12 +149,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the components of MapGuide
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980)
+#### [Understanding the components of MapGuide](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=1)** - [Instructor] Understanding the components of MapGuide will be key to guiding you through the install process.
+> **[0:01](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=1)** - [Instructor] Understanding the components of [[MapGuide]] will be key to guiding you through the install process.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=7)** We will look at the various components and the options with installing, configuring, and using MapGuide Open Source.
 >
@@ -168,29 +165,29 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=27)** In 2002, MapGuide reached its limit of its development.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=32)** You can only do so much with ActiveX and Java plugins.
+> **[0:32](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=32)** You can only do so much with ActiveX and [[Java]] plugins.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=35)** So once that was reached it was realized it had to be rebuilt.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=39)** So in 2004, Argus rebuilt the product and it became MapGuide Open Source, eventually.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=46)** Also, in 2004, Argus built FDO, which is a Feature Data Object, for directly connecting to like Oracle Spatial, SDF files, Shapefiles, ArcSDE, and AutoCAD Map.
+> **[0:46](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=46)** Also, in 2004, Argus built FDO, which is a Feature Data Object, for directly connecting to like Oracle Spatial, SDF files, Shapefiles, ArcSDE, and [[AutoCAD]] Map.
 >
 > **[0:58](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=58)** Also, in 2006, all that code was contributed to the OSGeo community.
 >
 > **[1:05](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=65)** The FDO components, which is the data connection, also was contributed that year.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=71)** Just a side note, all GIS related products at Autodesk, AutoCAD Map 3D, Infrastructure Map Server, actually that was retired back in 2018, Infoworks and Civil 3D all have hooks into FDO, which is an open source platform.
+> **[1:11](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=71)** Just a side note, all GIS related [[Microsoft Products|products]] at Autodesk, AutoCAD Map 3D, Infrastructure Map Server, actually that was retired back in 2018, Infoworks and Civil 3D all have hooks into FDO, which is an open source platform.
 >
 > **[1:28](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=88)** Speaking of platform, MapGuide can be installed.
 >
 > **[1:31](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=91)** It's a server, remember.
 >
-> **[1:33](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=93)** It can be installed on Microsoft Windows Server or Linux Server.
+> **[1:33](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=93)** It can be installed on [[Microsoft]] [[Windows Server]] or [[Linux]] Server.
 >
-> **[1:37](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=97)** We can develop with any JavaScript library, .NET, PHP, or Java itself.
+> **[1:37](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=97)** We can develop with any [[JavaScript]] library, .NET, [[PHP]], or Java itself.
 >
-> **[1:45](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=105)** We usually use two different types of web servers, IIS or Apache.
+> **[1:45](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=105)** We usually use two different types of [[Web Servers]], IIS or Apache.
 >
 > **[1:51](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=111)** We use sometimes Tomcat, if you're going to use Java.
 >
@@ -214,7 +211,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=156)** If you use Java, it's very versatile.
 >
-> **[2:38](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=158)** It can be used on Linux or Windows, but it needs the Tomcat hooked into Apache to be able to use that.
+> **[2:38](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=158)** It can be used on Linux or [[Windows]], but it needs the Tomcat hooked into Apache to be able to use that.
 >
 > **[2:44](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=164)** I have to say by far, this is probably the least used extension but there's still a lot of people using it.
 >
@@ -248,7 +245,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=244)** So for example, if you're using Windows Server, you can install Microsoft IIS and .NET.
 >
-> **[4:10](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=250)** If you're using Centos or Ubuntu, you'll use Apache.
+> **[4:10](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=250)** If you're using Centos or [[Ubuntu]], you'll use Apache.
 >
 > **[4:14](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=254)** Although, you can put Apache on Windows, but you can't put ISS on Ubuntu.
 >
@@ -346,7 +343,7 @@ created: 2026-05-02
 >
 > **[7:17](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=437)** We're actually going to be installing IIS on your desktop.
 >
-> **[7:21](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=441)** And if you're running a Windows machine, you can do that without any trouble because even Windows 10 can support an IIS sort of light version, but MapGuide can handle it.
+> **[7:21](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=441)** And if you're running a Windows machine, you can do that without any trouble because even [[Windows 10]] can support an IIS sort of light version, but MapGuide can handle it.
 >
 > **[7:32](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/understanding-the-components-of-mapguide?u=76281980&t=452)** Now, if you don't want to do that, we can use the other web server, Apache, and is automatically bundled when you install MapGuide.
 >
@@ -374,7 +371,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MapGuide]] (32), [[PHP]] (17), web (14), [[Java]] (12), [[Linux]] (6)
+> **Frameworks & Libraries:** [[MapGuide]] (32), [[PHP]] (17), [[Java]] (12), [[Linux]] (6), [[Windows]] (6)
 > **Env Vars:** php (17), iis (15), net (12), fdo (3), sdf (1)
 > **CLI Commands:** php (17), apache (15), make (1)
 > **Prerequisites:** install (15), configure (1)
@@ -383,12 +380,11 @@ created: 2026-05-02
 > **Tools:** firefox (1), safari (1)
 > **URLs:** [vb.net](https://vb.net) (1)
 
-#### Installing MapGuide Server and MapGuide Maestro
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980)
+#### [Installing MapGuide Server and MapGuide Maestro](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=0)** - [Instructor] Installing MapGuide Open Source requires a server or a computer that is exposed in the internet or, at the very least, the intranet.
+> **[0:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=0)** - [Instructor] Installing [[MapGuide]] Open Source requires a server or a computer that is exposed in the internet or, at the very least, the intranet.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=7)** The software, being open source, is free to download, use and install, so let's download it now.
 >
@@ -398,9 +394,9 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=32)** Just pick on that.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=33)** And we're going to download the Windows Installer.
+> **[0:33](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=33)** And we're going to download the [[Windows]] Installer.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=36)** There's other installers like an InstantSetup bundle and an Ubuntu Installer, that sort of thing, but since we're on Windows, we're going to just go ahead and click Download, and that will download the open-source file.
+> **[0:36](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=36)** There's other installers like an InstantSetup bundle and an [[Ubuntu]] Installer, that sort of thing, but since we're on Windows, we're going to just go ahead and click Download, and that will download the open-source file.
 >
 > **[0:48](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=48)** So while that's downloading, let's go get the other product, Maestro.
 >
@@ -414,7 +410,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=83)** Let's go ahead and click on Download MapGuide Maestro, and we'll click on Download MapGuide here.
 >
-> **[1:30](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=90)** And it's actually a GitHub site. It's from jumpinjackie.
+> **[1:30](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=90)** And it's actually a [[GitHub]] site. It's from jumpinjackie.
 >
 > **[1:34](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=94)** He is one of the main contributors to MapGuide, and he's built MapGuide Maestro to speak to MapGuide Server.
 >
@@ -424,7 +420,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=115)** Oh, but there's a couple things we need to do first.
 >
-> **[1:58](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=118)** Because MapGuide can be on two kinds of servers, Internet Information Server or Apache, we're going to turn our Windows 10, that's what I'm using now, desktop into a web server.
+> **[1:58](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=118)** Because MapGuide can be on two kinds of servers, Internet Information Server or Apache, we're going to turn our [[Windows 10]], that's what I'm using now, desktop into a web server.
 >
 > **[2:11](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=131)** So my own desktop is going to be turned into a server just for the purposes of training.
 >
@@ -438,7 +434,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=171)** And what we're going to do is we're going to check a whole bunch of things inside here, so let's expand that.
 >
-> **[2:56](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=176)** And under World Wide Web Services, we're going to expand that, and make sure that you've got all the Application Development Features checked.
+> **[2:56](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=176)** And under World Wide Web Services, we're going to expand that, and make sure that you've got all the [[Application Development]] Features checked.
 >
 > **[3:06](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=186)** That includes CGI and all the .NET, so I'll close that.
 >
@@ -502,7 +498,7 @@ created: 2026-05-02
 >
 > **[5:34](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=334)** My own computer's name is HOWLS.
 >
-> **[5:37](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=337)** So from now on, throughout the rest of this course, you'll be using the name of your computer.
+> **[5:37](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=337)** So from now on, throughout the [[Representational State Transfer (REST)|rest]] of this course, you'll be using the name of your computer.
 >
 > **[5:41](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=341)** In my case, it's HOWLS1. Yours could be anything.
 >
@@ -562,7 +558,7 @@ created: 2026-05-02
 >
 > **[8:05](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=485)** I always use the default, so if you go to HOWLS/mapguide, or your computer /mapguide, and this is where we choose the environment.
 >
-> **[8:11](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=491)** Are we going to develop in .NET or PHP?
+> **[8:11](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=491)** Are we going to develop in .NET or [[PHP]]?
 >
 > **[8:15](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=495)** Now, here's the thing.
 >
@@ -610,7 +606,7 @@ created: 2026-05-02
 >
 > **[9:45](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=585)** I'm not going to bother with that.
 >
-> **[9:47](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=587)** And MySQL isn't going to be installed.
+> **[9:47](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=587)** And [[MySQL]] isn't going to be installed.
 >
 > **[9:49](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=589)** But we could install them if we wanted to.
 >
@@ -618,7 +614,7 @@ created: 2026-05-02
 >
 > **[9:54](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=594)** FDO, Feature Data Objects, basically, these are all the things we can connect to, to a GDAL Provider, ODBC, OGR, PostGIS, SDF, Shape, MySQL, right here is not checked.
 >
-> **[10:11](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=611)** We have SQLite, we have shapefiles, we have SQL Server Spatial, a WFS and WMS.
+> **[10:11](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=611)** We have SQLite, we have shapefiles, we have [[Microsoft SQL Server|SQL Server]] Spatial, a WFS and WMS.
 >
 > **[10:18](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=618)** So those are all the different ways we can connect using FDO.
 >
@@ -684,7 +680,7 @@ created: 2026-05-02
 >
 > **[12:30](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=750)** That's like 127.0.0.1.
 >
-> **[12:33](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=753)** It means that if you're using a computer with the word localhost, it assumes MapGuide is installed on the same computer you're running Maestro, so that's a tricky part.
+> **[12:33](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=753)** It means that if you're using a computer with the [[Microsoft Word|word]] localhost, it assumes MapGuide is installed on the same computer you're running Maestro, so that's a tricky part.
 >
 > **[12:45](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/installing-mapguide-server-and-mapguide-maestro?u=76281980&t=765)** Now, you'll see throughout the course, I may interchangeably use localhost, 127.0.0.1, or the name of my computer.
 >
@@ -720,7 +716,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MapGuide]] (38), next (12), web (11), [[Windows]] (7), [[PHP]] (6)
+> **Frameworks & Libraries:** [[MapGuide]] (38), [[Windows]] (7), [[PHP]] (6), [[Application Development]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** iis (10), howls1 (6), php (6), net (5), http (3)
 > **Prerequisites:** install (20), setup (1), set up (1)
 > **CLI Commands:** apache (7), php (6), make (3), mysql (2), find (1)
@@ -729,12 +725,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2), is called (1), is an  (1), means that (1)
 > **URLs:** [osgeo.org](https://osgeo.org) (1), [mapguide.com](https://mapguide.com) (1)
 
-#### Using the MapGuide web viewer
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-mapguide-web-viewer?u=76281980)
+#### [Using the MapGuide web viewer](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-mapguide-web-viewer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-mapguide-web-viewer?u=76281980&t=0)** - [Instructor] MapGuide has two main flavors of the web-based map viewer.
+> **[0:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-mapguide-web-viewer?u=76281980&t=0)** - [Instructor] [[MapGuide]] has two main flavors of the web-based map viewer.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-mapguide-web-viewer?u=76281980&t=4)** We'll explore both of these flavors and what tools come with each type.
 >
@@ -746,7 +741,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-mapguide-web-viewer?u=76281980&t=19)** It is basically just publishing your map with some very simple tools.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-mapguide-web-viewer?u=76281980&t=24)** You've got the ability to zoom in and out, so I'm using the wheel on my mouse to zoom in and out.
+> **[0:24](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-mapguide-web-viewer?u=76281980&t=24)** You've got the ability to [[Zoom]] in and out, so I'm using the wheel on my mouse to zoom in and out.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-mapguide-web-viewer?u=76281980&t=29)** You'll notice the layers are on the left-hand side by default and you can't move these around.
 >
@@ -858,7 +853,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-mapguide-web-viewer?u=76281980&t=252)** This is the basic web layout.
 >
-> **[4:14](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-mapguide-web-viewer?u=76281980&t=254)** It's the Ajax or basic web layout.
+> **[4:14](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-mapguide-web-viewer?u=76281980&t=254)** It's the [[AJAX]] or basic web layout.
 >
 > **[4:16](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-mapguide-web-viewer?u=76281980&t=256)** There's very little customization you can do.
 >
@@ -882,7 +877,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-mapguide-web-viewer?u=76281980&t=299)** We saw the other one, the Basic.
 >
-> **[5:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-mapguide-web-viewer?u=76281980&t=300)** The one thing you'll notice right away is that I've got Google in the background.
+> **[5:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-mapguide-web-viewer?u=76281980&t=300)** The one thing you'll notice right away is that I've got [[Google]] in the background.
 >
 > **[5:05](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-mapguide-web-viewer?u=76281980&t=305)** And I can change that.
 >
@@ -1018,7 +1013,7 @@ created: 2026-05-02
 >
 > **[9:26](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-mapguide-web-viewer?u=76281980&t=566)** These are CSS pages.
 >
-> **[9:28](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-mapguide-web-viewer?u=76281980&t=568)** So those are Cascading Style Sheets.
+> **[9:28](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-mapguide-web-viewer?u=76281980&t=568)** So those are [[Cascading Style Sheets (CSS)|Cascading Style Sheets]].
 >
 > **[9:30](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-the-mapguide-web-viewer?u=76281980&t=570)** They can be changed to make this and customize this to your particular organization.
 >
@@ -1044,7 +1039,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (15), hit (7), web (6), [[MapGuide]] (5), data (5)
+> **Frameworks & Libraries:** [[Zoom]] (15), [[MapGuide]] (5), [[Google]] (3), [[AJAX]] (1), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1)
 > **Env Vars:** xyz (5), esri (3), url (2), css (1)
 > **Analogies:** for example (3), just like (1)
 > **CLI Commands:** make (3)
@@ -1058,12 +1053,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating project folders in Maestro
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980)
+#### [Creating project folders in Maestro](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980&t=0)** - [Instructor] Before you can get started creating maps, your structure of your folders in MapGuide need to be created.
+> **[0:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980&t=0)** - [Instructor] Before you can get started creating maps, your structure of your folders in [[MapGuide]] need to be created.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980&t=5)** The correct structure of the folders allow for seamless creation of data, layers, maps and web layouts without Maestro.
 >
@@ -1071,7 +1065,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980&t=15)** So I'm going to log into my server, my server's my own desktop and my server name is called or my computer's name is called HOWLS1.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980&t=24)** Again, if you forget how to do that, you can just open up your Windows Explorer, right click on This PC, pick on Properties and you'll see the name of your device.
+> **[0:24](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980&t=24)** Again, if you forget how to do that, you can just open up your [[Windows]] Explorer, right click on This PC, pick on Properties and you'll see the name of your device.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980&t=36)** So we can do that at any time.
 >
@@ -1099,13 +1093,13 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980&t=72)** That's the server we're connected to.
 >
-> **[1:15](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980&t=75)** We have a REST Explorer.
+> **[1:15](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980&t=75)** We have a [[Representational State Transfer (REST)|REST]] Explorer.
 >
 > **[1:16](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980&t=76)** We're not going to use that.
 >
 > **[1:17](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980&t=77)** So I'm just going to unclick the pin.
 >
-> **[1:19](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980&t=79)** The same with Iron console, so we're not going to be using Python.
+> **[1:19](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980&t=79)** The same with Iron console, so we're not going to be using [[Python (Programming Language)|Python]].
 >
 > **[1:23](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980&t=83)** So we're going to hide the Python.
 >
@@ -1159,9 +1153,9 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980&t=201)** And that'll be under 2_DATA.
 >
-> **[3:24](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980&t=204)** Now, it may not just be connecting to files, it may be connecting to databases.
+> **[3:24](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980&t=204)** Now, it may not just be connecting to files, it may be connecting to [[Databases]].
 >
-> **[3:28](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980&t=208)** So for example, if I have big Oracle spatial database or PostGIS database or SQL Server, I may just have a connection to that database here.
+> **[3:28](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980&t=208)** So for example, if I have big Oracle spatial database or PostGIS database or [[Microsoft SQL Server|SQL Server]], I may just have a connection to that database here.
 >
 > **[3:39](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-project-folders-in-maestro?u=76281980&t=219)** Okay, the third thing I'm going to create, another folder, we'll call it LAYERS.
 >
@@ -1219,7 +1213,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MapGuide]] (12), data (11), database (3), web (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[MapGuide]] (12), [[Python (Programming Language)|Python]] (2), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Databases]] (1)
 > **Env Vars:** nanaimo (4), symbols (3), howls1 (2), howls (2), url (1)
 > **CLI Commands:** make (11), python (2)
 > **Definitions:** is called (4), is a  (1), is an  (1)
@@ -1228,12 +1222,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (2)
 > **URLs:** [http://howls](http://howls) (1)
 
-#### Loading data using Maestro
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/loading-data-using-maestro?u=76281980)
+#### [Loading data using Maestro](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/loading-data-using-maestro?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/loading-data-using-maestro?u=76281980&t=0)** - [Instructor] Moving data from your desktop to MapGuide server is easily done with MapGuide Maestro.
+> **[0:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/loading-data-using-maestro?u=76281980&t=0)** - [Instructor] Moving data from your desktop to [[MapGuide]] server is easily done with MapGuide Maestro.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/loading-data-using-maestro?u=76281980&t=5)** Using a load procedure, you can upload shape files or STF files to where ever MapGuide server is located.
 >
@@ -1259,7 +1252,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/loading-data-using-maestro?u=76281980&t=64)** Well here's the thing.
 >
-> **[1:06](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/loading-data-using-maestro?u=76281980&t=66)** IIS or Microsoft Internet Information Server by default only allows you to upload 30 megabytes at a time.
+> **[1:06](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/loading-data-using-maestro?u=76281980&t=66)** IIS or [[Microsoft]] Internet Information Server by default only allows you to upload 30 megabytes at a time.
 >
 > **[1:14](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/loading-data-using-maestro?u=76281980&t=74)** This is 159 megs, so we're going to have to modify Internet Information Server to allow to upload a lot more.
 >
@@ -1301,7 +1294,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/loading-data-using-maestro?u=76281980&t=183)** That's because we have all these different flavors.
 >
-> **[3:05](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/loading-data-using-maestro?u=76281980&t=185)** Every time MapGuide was updated, there's slight versions to the metadata.
+> **[3:05](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/loading-data-using-maestro?u=76281980&t=185)** Every time MapGuide was updated, there's slight versions to the [[Metadata]].
 >
 > **[3:10](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/loading-data-using-maestro?u=76281980&t=190)** So for example you have one here that says MapGuide Open Source 1.2 or MapGuide Enterprise 2008 which is about the same time back in 2008.
 >
@@ -1381,7 +1374,7 @@ created: 2026-05-02
 >
 > **[6:22](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/loading-data-using-maestro?u=76281980&t=382)** So there's four different ways of assigning coordinate system.
 >
-> **[6:24](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/loading-data-using-maestro?u=76281980&t=384)** Through the well-known text, through the coordinate system code which is internal one, and you'll notice this is the same one that all the Autodesk products use too, because they share that kind of library.
+> **[6:24](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/loading-data-using-maestro?u=76281980&t=384)** Through the well-known text, through the coordinate system code which is internal one, and you'll notice this is the same one that all the Autodesk [[Microsoft Products|products]] use too, because they share that kind of library.
 >
 > **[6:36](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/loading-data-using-maestro?u=76281980&t=396)** I think it's called Mentor.
 >
@@ -1523,7 +1516,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[MapGuide]] (8), hit (6), feature (3), [[Metadata]] (2)
+> **Frameworks & Libraries:** [[MapGuide]] (8), [[Metadata]] (2), [[Microsoft]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** iis (5), utm (5), prj (3), ftp (2), dbf (2)
 > **CLI Commands:** make (4), find (2)
 > **UI Navigation:** click on (3), go to (1), scroll down (1), right-click (1)
@@ -1532,12 +1525,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Code Identifiers:** road_centerlines (1)
 
-#### Creating data connections with Maestro
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-data-connections-with-maestro?u=76281980)
+#### [Creating data connections with Maestro](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-data-connections-with-maestro?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-data-connections-with-maestro?u=76281980&t=0)** - [Instructor] If you have files or databases that are visible to the server, such as SQL Server database or a folder of air photos, you can point MapGuide Server to those files.
+> **[0:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-data-connections-with-maestro?u=76281980&t=0)** - [Instructor] If you have files or [[Databases]] that are visible to the server, such as [[Microsoft SQL Server|SQL Server]] database or a folder of air photos, you can point [[MapGuide]] Server to those files.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-data-connections-with-maestro?u=76281980&t=10)** Data connections can point to existing files, but you need to ensure that your server can see those files.
 >
@@ -1585,15 +1577,15 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-data-connections-with-maestro?u=76281980&t=130)** I can set up a connection to a STF file on the server, a Shape file on the server, a WFS or WMS provider out there, like some website.
 >
-> **[2:20](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-data-connections-with-maestro?u=76281980&t=140)** ODBC is the Open Data Base Connectivity, it's a Microsoft connection to databases.
+> **[2:20](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-data-connections-with-maestro?u=76281980&t=140)** ODBC is the Open Data Base Connectivity, it's a [[Microsoft]] connection to databases.
 >
 > **[2:25](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-data-connections-with-maestro?u=76281980&t=145)** There's a GDAO that's for connecting to things like GDAOs for vector, OGRs for RASTER.
 >
 > **[2:33](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-data-connections-with-maestro?u=76281980&t=153)** Then we have the Postjust provider.
 >
-> **[2:35](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-data-connections-with-maestro?u=76281980&t=155)** We have a Microsoft SQL Server, SQLite.
+> **[2:35](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-data-connections-with-maestro?u=76281980&t=155)** We have a [[Microsoft SQL Server]], SQLite.
 >
-> **[2:38](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-data-connections-with-maestro?u=76281980&t=158)** I didn't install the Oracle or the MySQL when we installed MapGuide, but we could, so we can use any of those.
+> **[2:38](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-data-connections-with-maestro?u=76281980&t=158)** I didn't install the Oracle or the [[MySQL]] when we installed MapGuide, but we could, so we can use any of those.
 >
 > **[2:43](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-data-connections-with-maestro?u=76281980&t=163)** In this case, we're going to connect to the GDAO, so we can connect to the RASTER files.
 >
@@ -1709,13 +1701,13 @@ created: 2026-05-02
 >
 > **[8:44](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-data-connections-with-maestro?u=76281980&t=524)** And that rare instance happens when you do that on a server and you're working on a server, which is rare, or in training, like you're doing now, and that does work when you're doing training, but we're not doing that here, we use an Alias instead, so there you are.
 >
-> **[8:58](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-data-connections-with-maestro?u=76281980&t=538)** So connecting to data, using data connections, enables real-time update of the data, rather than depending on load procedures, where you have to manually load the data using Maestro.
+> **[8:58](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-data-connections-with-maestro?u=76281980&t=538)** So connecting to data, using data connections, enables [[Real-Time]] update of the data, rather than depending on load procedures, where you have to manually load the data using Maestro.
 >
 > **[9:09](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-data-connections-with-maestro?u=76281980&t=549)** So the best part about using these Aliases, they don't just work for air photos, they work for Shape files and SDF files too, so that if that file updates, on the server, in some way, whether someone copies it there manually, or whatever, you don't need to worry about loading up Maestro and doing a load procedure, you just point to the directory on the server and it's automatically updated.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MapGuide]] (17), data (15), hit (6), feature (3), [[Databases]] (2)
+> **Frameworks & Libraries:** [[MapGuide]] (17), [[Databases]] (2), [[Microsoft SQL Server|Sql server]] (1), [[Microsoft]] (1), [[Microsoft SQL Server]] (1)
 > **Env Vars:** raster (7), airphotos (7), sql (2), wfs (2), wms (2)
 > **Prerequisites:** set up (4), install (2), configure (1)
 > **UI Navigation:** go to (4), click on (1)
@@ -1729,11 +1721,9 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating point layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-point-layers?u=76281980)
+#### [Creating point layers](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-point-layers?u=76281980)
 
-#### Creating polyline layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-polyline-layers?u=76281980)
+#### [Creating polyline layers](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-polyline-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1841,7 +1831,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-polyline-layers?u=76281980&t=179)** Looks strange at this scale.
 >
-> **[3:01](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-polyline-layers?u=76281980&t=181)** It's looking a little better as I zoom in.
+> **[3:01](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-polyline-layers?u=76281980&t=181)** It's looking a little better as I [[Zoom]] in.
 >
 > **[3:05](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-polyline-layers?u=76281980&t=185)** Well now it's getting a little better.
 >
@@ -1979,7 +1969,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (7), hit (6), data (3), next (2)
+> **Frameworks & Libraries:** [[Zoom]] (7)
 > **CLI Commands:** make (13), find (1)
 > **Versions:** 0.25 (3), 5000.0001 (1)
 > **UI Navigation:** scroll down (1), click on (1), go to (1)
@@ -1987,8 +1977,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - creating (1)
 
-#### Creating polygon layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-polygon-layers?u=76281980)
+#### [Creating polygon layers](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-polygon-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2022,7 +2011,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-polygon-layers?u=76281980&t=81)** Let's pick on that.
 >
-> **[1:23](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-polygon-layers?u=76281980&t=83)** Notice that it put single quotes around the word Mobile Home, because whenever we're adding something that's a character, meaning it's got ABC123 inside, it needs single quotes.
+> **[1:23](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-polygon-layers?u=76281980&t=83)** Notice that it put single quotes around the [[Microsoft Word|word]] Mobile Home, because whenever we're adding something that's a character, meaning it's got ABC123 inside, it needs single quotes.
 >
 > **[1:33](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-polygon-layers?u=76281980&t=93)** Now, if it was just a number, we could type the number one but that has to match to whatever's in the database.
 >
@@ -2142,7 +2131,7 @@ created: 2026-05-02
 >
 > **[6:12](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-polygon-layers?u=76281980&t=372)** And if we hit Preview, you'll see that the data still looks the same.
 >
-> **[6:17](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-polygon-layers?u=76281980&t=377)** But you know, if you zoom right in, there may be options to see.
+> **[6:17](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-polygon-layers?u=76281980&t=377)** But you know, if you [[Zoom]] right in, there may be options to see.
 >
 > **[6:23](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-polygon-layers?u=76281980&t=383)** If you notice here, there is other polygons underneath the big one.
 >
@@ -2150,7 +2139,7 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-polygon-layers?u=76281980&t=392)** So that's maybe something to do with the data.
 >
-> **[6:35](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-polygon-layers?u=76281980&t=395)** So let's close the preview and we'll just close the Rest Explorer, there we go and Save what we're doing so far.
+> **[6:35](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-polygon-layers?u=76281980&t=395)** So let's close the preview and we'll just close the [[Representational State Transfer (REST)|Rest]] Explorer, there we go and Save what we're doing so far.
 >
 > **[6:43](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-polygon-layers?u=76281980&t=403)** One more thing is I want to change the scale so that all those parcels don't appear right away.
 >
@@ -2178,7 +2167,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (15), data (8), [[Zoom]] (4), database (3), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (2), dropdown (2), scroll down (2), click on (1), double-click (1)
 > **CLI Commands:** make (8)
 > **Env Vars:** abc123 (1), mobile_home (1), fff (1)
@@ -2186,8 +2175,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating raster layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-raster-layers?u=76281980)
+#### [Creating raster layers](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-raster-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2205,7 +2193,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-raster-layers?u=76281980&t=31)** And that's an open source technology GDAL.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-raster-layers?u=76281980&t=34)** You can Google that if you want and see what other kind of data types it can connect to.
+> **[0:34](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-raster-layers?u=76281980&t=34)** You can [[Google]] that if you want and see what other kind of data types it can connect to.
 >
 > **[0:38](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-raster-layers?u=76281980&t=38)** We're pointing to a directory called air photos that we set up on our server.
 >
@@ -2259,7 +2247,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-raster-layers?u=76281980&t=147)** So now if I hit preview, cause I've changed the visible from zero to 20,000, now it only kicks in.
 >
-> **[2:33](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-raster-layers?u=76281980&t=153)** If you had looked down here, if I zoom out beyond 20,000, all the images go away, 20,000, I'm still tiling about three or four of them at this scale and so on.
+> **[2:33](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-raster-layers?u=76281980&t=153)** If you had looked down here, if I [[Zoom]] out beyond 20,000, all the images go away, 20,000, I'm still tiling about three or four of them at this scale and so on.
 >
 > **[2:43](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-raster-layers?u=76281980&t=163)** And you notice as I zoom in, it gets clear and clear and clear.
 >
@@ -2325,7 +2313,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Zoom]] (9), hit (4), feature (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (9), [[Google]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** gdal (3), rgb (1)
 > **Analogies:** for example (2), such as (1)
@@ -2334,8 +2322,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating thematic layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-thematic-layers?u=76281980)
+#### [Creating thematic layers](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-thematic-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2423,7 +2410,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-thematic-layers?u=76281980&t=162)** Now I can make a bunch of ranges.
 >
-> **[2:44](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-thematic-layers?u=76281980&t=164)** So from LANES zero to one, it's one color and one to two is another, and you could pick them manually or you could let MapGuide choose equal intervals meaning it'll just dice it up by how many classes you want.
+> **[2:44](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-thematic-layers?u=76281980&t=164)** So from LANES zero to one, it's one color and one to two is another, and you could pick them manually or you could let [[MapGuide]] choose equal intervals meaning it'll just dice it up by how many classes you want.
 >
 > **[2:58](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-thematic-layers?u=76281980&t=178)** So if I pick LANES and say equal, I can pick the number rules and it'll dice it up automatically in equal values.
 >
@@ -2629,7 +2616,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), data (5), next (1), [[MapGuide]] (1)
+> **Frameworks & Libraries:** [[MapGuide]] (1)
 > **Env Vars:** class (10), arterial (6), lanes (6), roads (6), highway (5)
 > **CLI Commands:** make (10)
 > **Definitions:** is a  (5)
@@ -2637,14 +2624,13 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Labeling vector layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/labeling-vector-layers?u=76281980)
+#### [Labeling vector layers](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/labeling-vector-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/labeling-vector-layers?u=76281980&t=0)** - [Instructor] Labeling features on your layer can be done using a column in the dataset.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/labeling-vector-layers?u=76281980&t=5)** For example, you can label road names based on the road name column in your SQL server database.
+> **[0:05](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/labeling-vector-layers?u=76281980&t=5)** For example, you can label road names based on the road name column in your [[Microsoft SQL Server|SQL server]] database.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/labeling-vector-layers?u=76281980&t=11)** Let's label the buildings.
 >
@@ -2772,7 +2758,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/labeling-vector-layers?u=76281980&t=268)** So in order to do that, we need a function called Concatnater Concat and this this one right here.
 >
-> **[4:35](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/labeling-vector-layers?u=76281980&t=275)** Concat and so what we can do is just type the word Concat like that, and everything you want to concatenate you just separate with commas.
+> **[4:35](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/labeling-vector-layers?u=76281980&t=275)** Concat and so what we can do is just type the [[Microsoft Word|word]] Concat like that, and everything you want to concatenate you just separate with commas.
 >
 > **[4:49](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/labeling-vector-layers?u=76281980&t=289)** So we're going to concatenate that rounded height and I'm just going to put a comma and I'm going to put in single quotes is what I'm going to type.
 >
@@ -2834,7 +2820,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), hit (5), next (2), [[Microsoft SQL Server|Sql server]] (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** double-click (1), scroll down (1), click on (1), go to (1)
 > **Analogies:** just like (2), for example (1)
@@ -2847,8 +2833,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating maps in Maestro
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-maps-in-maestro?u=76281980)
+#### [Creating maps in Maestro](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-maps-in-maestro?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2884,7 +2869,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-maps-in-maestro?u=76281980&t=77)** And what we should set this to is to the world Mercator, eight, three, five, seven.
 >
-> **[1:24](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-maps-in-maestro?u=76281980&t=84)** So if we type in three, eight, five, seven and hit validate, that is the coordinate system or pseudo Mercator that Google uses, most of the maps online RTS online use, most of the maps on Bing.
+> **[1:24](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-maps-in-maestro?u=76281980&t=84)** So if we type in three, eight, five, seven and hit validate, that is the coordinate system or pseudo Mercator that [[Google]] uses, most of the maps online RTS online use, most of the maps on Bing.
 >
 > **[1:40](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-maps-in-maestro?u=76281980&t=100)** So if it's a web map, this is the default coordinate system.
 >
@@ -3024,7 +3009,7 @@ created: 2026-05-02
 >
 > **[6:27](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-maps-in-maestro?u=76281980&t=387)** Why?
 >
-> **[6:28](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-maps-in-maestro?u=76281980&t=388)** Because the aerials don't actually turn on until I zoom into a particular scale.
+> **[6:28](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-maps-in-maestro?u=76281980&t=388)** Because the aerials don't actually turn on until I [[Zoom]] into a particular scale.
 >
 > **[6:36](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-maps-in-maestro?u=76281980&t=396)** And there they are.
 >
@@ -3054,7 +3039,7 @@ created: 2026-05-02
 >
 > **[7:16](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-maps-in-maestro?u=76281980&t=436)** Let's move the air photos at the very bottom, drag them out put the parcels just above them and mobile homes above them and then row center lines and streetlights.
 >
-> **[7:27](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-maps-in-maestro?u=76281980&t=447)** So what my rule of thumb is usually, oh no we'll put the parcels above is I usually put rest on the bottom unless you want it to obscure everything.
+> **[7:27](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-maps-in-maestro?u=76281980&t=447)** So what my rule of thumb is usually, oh no we'll put the parcels above is I usually put [[Representational State Transfer (REST)|rest]] on the bottom unless you want it to obscure everything.
 >
 > **[7:35](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-maps-in-maestro?u=76281980&t=455)** I put polygons above that.
 >
@@ -3190,7 +3175,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (9), hit (4), web (4), [[Google]] (2), business (2)
+> **Frameworks & Libraries:** [[Zoom]] (9), [[Google]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (7)
 > **UI Navigation:** click on (2), select the (2), drag and drop (1), checkbox (1)
 > **Prerequisites:** set up (4)
@@ -3204,8 +3189,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating basic web layouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-basic-web-layouts?u=76281980)
+#### [Creating basic web layouts](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-basic-web-layouts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3251,7 +3235,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-basic-web-layouts?u=76281980&t=82)** Normally it just zooms to the extent of your current map.
 >
-> **[1:25](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-basic-web-layouts?u=76281980&t=85)** But you may want to zoom into a particular area.
+> **[1:25](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-basic-web-layouts?u=76281980&t=85)** But you may want to [[Zoom]] into a particular area.
 >
 > **[1:27](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-basic-web-layouts?u=76281980&t=87)** So you can override that, put the X and Y in a particular scale of that map.
 >
@@ -3371,7 +3355,7 @@ created: 2026-05-02
 >
 > **[6:21](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-basic-web-layouts?u=76281980&t=381)** And I would put a URL that's allowed to be embedded inside of a task pane or inside of an I-frame.
 >
-> **[6:27](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-basic-web-layouts?u=76281980&t=387)** Items like [linkedin.com](https://linkedin.com) or [google.com](https://google.com) won't allow you to put anything in there.
+> **[6:27](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-basic-web-layouts?u=76281980&t=387)** Items like [[[LinkedIn]].com](https://linkedin.com) or [[[Google]].com](https://google.com) won't allow you to put anything in there.
 >
 > **[6:32](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-basic-web-layouts?u=76281980&t=392)** So you have to put in your own URL that allows that.
 >
@@ -3413,7 +3397,7 @@ created: 2026-05-02
 >
 > **[7:45](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-basic-web-layouts?u=76281980&t=465)** And you get to set the map image format and the selection.
 >
-> **[7:48](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-basic-web-layouts?u=76281980&t=468)** Also there's startup scripts you can write JavaScript and have something happen in the map by writing some API.
+> **[7:48](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-basic-web-layouts?u=76281980&t=468)** Also there's startup scripts you can write [[JavaScript]] and have something happen in the map by writing some API.
 >
 > **[7:54](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-basic-web-layouts?u=76281980&t=474)** That's really neat.
 >
@@ -3513,7 +3497,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (14), hit (8), [[Zoom]] (8), [[Search]] (5), prompt (3)
+> **Frameworks & Libraries:** [[Zoom]] (8), [[JavaScript]] (2), [[LinkedIn]] (1), [[Google]] (1)
 > **Env Vars:** url (12), gis (3), api (2), iis (1), apn (1)
 > **UI Navigation:** go to (2), scroll down (2), click on (1), in the toolbar (1), select the (1)
 > **Cross-References:** go back to (5)
@@ -3522,14 +3506,13 @@ created: 2026-05-02
 > **URLs:** [linkedin.com](https://linkedin.com) (1), [google.com](https://google.com) (1)
 > **Analogies:** for example (2)
 
-#### Creating searches in basic web layouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-basic-web-layouts?u=76281980)
+#### [Creating searches in basic web layouts](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-basic-web-layouts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-basic-web-layouts?u=76281980&t=0)** - [Instructor] Searches are the quickest way to customize basic web layouts.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-basic-web-layouts?u=76281980&t=4)** You can search the contents of any layer and zoom to that feature using them.
+> **[0:04](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-basic-web-layouts?u=76281980&t=4)** You can search the contents of any layer and [[Zoom]] to that feature using them.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-basic-web-layouts?u=76281980&t=8)** Let's create a search now.
 >
@@ -3595,7 +3578,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-basic-web-layouts?u=76281980&t=168)** Let's get rid of these two bulletin items and put our own things and I'll just delete all that.
 >
-> **[2:54](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-basic-web-layouts?u=76281980&t=174)** It would have been faster for me to write the word concat then that case we'll do that next time.
+> **[2:54](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-basic-web-layouts?u=76281980&t=174)** It would have been faster for me to write the [[Microsoft Word|word]] concat then that case we'll do that next time.
 >
 > **[2:58](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-basic-web-layouts?u=76281980&t=178)** So HOUSENUMBER, and I'll insert again the STREETNAME, there we go.
 >
@@ -3627,11 +3610,11 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-basic-web-layouts?u=76281980&t=245)** And one little bit of magic at the very end between the E and the single quote I'm going to put in a wildcard and that's a percent sign.
 >
-> **[4:15](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-basic-web-layouts?u=76281980&t=255)** I know when windows, if you just go search for star.star, you'll find all the files on your drive.
+> **[4:15](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-basic-web-layouts?u=76281980&t=255)** I know when [[Windows]], if you just go search for star.star, you'll find all the files on your drive.
 >
 > **[4:21](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-basic-web-layouts?u=76281980&t=261)** This is like that.
 >
-> **[4:22](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-basic-web-layouts?u=76281980&t=262)** This is like a star, but this is basically whatever the user types in, it'll finish the rest for them.
+> **[4:22](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-basic-web-layouts?u=76281980&t=262)** This is like a star, but this is basically whatever the user types in, it'll finish the [[Representational State Transfer (REST)|rest]] for them.
 >
 > **[4:28](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-basic-web-layouts?u=76281980&t=268)** So if you type 10MA, it'll give you 10 Main Street, 10 Maple Street and so on.
 >
@@ -3741,7 +3724,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (23), hit (6), web (5), [[Zoom]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Microsoft Word|Word]] (2), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (6), make (3), cat (1)
 > **Env Vars:** pid (5), housenumber (2), streetname (2)
 > **UI Navigation:** in the toolbar (1), scroll down (1), click on (1), select the (1), go to (1)
@@ -3755,8 +3738,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating application definitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-application-definitions?u=76281980)
+#### [Creating application definitions](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-application-definitions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3764,7 +3746,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-application-definitions?u=76281980&t=6)** Application definitions are built with fusion technology.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-application-definitions?u=76281980&t=9)** The fusion refers to a fusion between map guide, and OpenLayers JavaScript framework.
+> **[0:09](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-application-definitions?u=76281980&t=9)** The fusion refers to a fusion between map guide, and OpenLayers [[JavaScript]] framework.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-application-definitions?u=76281980&t=14)** Using application definitions, you have many more tools including advanced client side measure tools.
 >
@@ -3798,7 +3780,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-application-definitions?u=76281980&t=104)** Now you may see this come up, if you're using an older version of Maestro which I am version 610, because map guides changed slightly.
 >
-> **[1:53](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-application-definitions?u=76281980&t=113)** So don't panic, it's easy to fix, all you have to do is go to this definition right here, and where the word, Aqua appears, just change that to Amberson where the question mark is and hit Enter.
+> **[1:53](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-application-definitions?u=76281980&t=113)** So don't panic, it's easy to fix, all you have to do is go to this definition right here, and where the [[Microsoft Word|word]], Aqua appears, just change that to Amberson where the question mark is and hit Enter.
 >
 > **[2:09](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-application-definitions?u=76281980&t=129)** It's just that Maestro hasn't caught up to the most recent version of map guide, that's all.
 >
@@ -3806,7 +3788,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-application-definitions?u=76281980&t=144)** We could actually target a completely different map for the overview map if we want.
 >
-> **[2:29](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-application-definitions?u=76281980&t=149)** So even as we zoom in, you'll see that the overview map is zooming in, in the background.
+> **[2:29](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-application-definitions?u=76281980&t=149)** So even as we [[Zoom]] in, you'll see that the overview map is zooming in, in the background.
 >
 > **[2:35](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-application-definitions?u=76281980&t=155)** It's using the same map, only at a different scale.
 >
@@ -3942,7 +3924,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (12), application (10), hit (7), [[Zoom]] (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (3), [[Microsoft Word|Word]] (2), [[JavaScript]] (1)
 > **Env Vars:** url (6), pdf (2), imo (1)
 > **UI Navigation:** go to (3), select the (1), dropdown (1)
 > **Definitions:** is a  (2), is called (2), refers to (1)
@@ -3951,12 +3933,11 @@ created: 2026-05-02
 > **Versions:** version 610 (1)
 > **Cross-References:** we talked about (1)
 
-#### Using Google and other external providers in application definitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-google-and-other-external-providers-in-application-definitions?u=76281980)
+#### [Using Google and other external providers in application definitions](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-google-and-other-external-providers-in-application-definitions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-google-and-other-external-providers-in-application-definitions?u=76281980&t=0)** - [Instructor] One of the biggest advantages of using fusion or the application definition is that you can use Google, Bing, OpenStreetMap or whatever else XYZ or zed that you want to use.
+> **[0:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-google-and-other-external-providers-in-application-definitions?u=76281980&t=0)** - [Instructor] One of the biggest advantages of using fusion or the application definition is that you can use [[Google]], Bing, OpenStreetMap or whatever else XYZ or zed that you want to use.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-google-and-other-external-providers-in-application-definitions?u=76281980&t=12)** So let's try that now.
 >
@@ -4006,7 +3987,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-google-and-other-external-providers-in-application-definitions?u=76281980&t=114)** So you have to say what your website is, where Map Guide is and where the domain is.
 >
-> **[1:59](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-google-and-other-external-providers-in-application-definitions?u=76281980&t=119)** So for example, if you're at LinkedIn Learning, you'll have to register that domain and then be able to put that key into this little area.
+> **[1:59](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-google-and-other-external-providers-in-application-definitions?u=76281980&t=119)** So for example, if you're at [[LinkedIn]] Learning, you'll have to register that domain and then be able to put that key into this little area.
 >
 > **[2:06](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-google-and-other-external-providers-in-application-definitions?u=76281980&t=126)** And then you set it now that only works if your Map Guide is on that domain.
 >
@@ -4050,9 +4031,9 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-google-and-other-external-providers-in-application-definitions?u=76281980&t=204)** So let's flip back over and hit Refresh.
 >
-> **[3:28](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-google-and-other-external-providers-in-application-definitions?u=76281980&t=208)** And now you can see under my external providers I've got the big map street highlighted and there it is there and I can zoom in and I'm not getting any warnings.
+> **[3:28](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-google-and-other-external-providers-in-application-definitions?u=76281980&t=208)** And now you can see under my external providers I've got the big map street highlighted and there it is there and I can [[Zoom]] in and I'm not getting any warnings.
 >
-> **[3:38](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-google-and-other-external-providers-in-application-definitions?u=76281980&t=218)** You can see Microsoft is at the bottom there.
+> **[3:38](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-google-and-other-external-providers-in-application-definitions?u=76281980&t=218)** You can see [[Microsoft]] is at the bottom there.
 >
 > **[3:42](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-google-and-other-external-providers-in-application-definitions?u=76281980&t=222)** Let's go back to the map and add maybe some other Virtual Earth or so if I say Bing maps, I can do Bing maps with labels.
 >
@@ -4176,7 +4157,7 @@ created: 2026-05-02
 >
 > **[7:22](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-google-and-other-external-providers-in-application-definitions?u=76281980&t=442)** So for example, I can use as Esri's Topo map and I have a URL here, I'm just going to paste it in.
 >
-> **[7:29](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-google-and-other-external-providers-in-application-definitions?u=76281980&t=449)** And I went to their site and basically what this is, if you look at the URL, it's coming from ArcGIS Online, it's a rest service, so there you are and it's a tile and it starts with a Zed Y and an X.
+> **[7:29](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-google-and-other-external-providers-in-application-definitions?u=76281980&t=449)** And I went to their site and basically what this is, if you look at the URL, it's coming from ArcGIS Online, it's a [[Representational State Transfer (REST)|rest]] service, so there you are and it's a tile and it starts with a Zed Y and an X.
 >
 > **[7:43](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/using-google-and-other-external-providers-in-application-definitions?u=76281980&t=463)** There we are.
 >
@@ -4224,7 +4205,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (24), api (14), hit (10), application (4), generic (3)
+> **Frameworks & Libraries:** [[Google]] (24), [[LinkedIn]] (1), [[Zoom]] (1), [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (14), url (4), xyz (3), topo (1)
 > **UI Navigation:** dropdown (2), scroll down (1), go to (1)
 > **Analogies:** for example (3), such as (1)
@@ -4233,14 +4214,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Warnings:** warning (1), be careful (1)
 
-#### Creating searches in application definitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-application-definitions?u=76281980)
+#### [Creating searches in application definitions](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-application-definitions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-application-definitions?u=76281980&t=0)** - [Instructor] Searches are the quickest way to customize your application definition.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-application-definitions?u=76281980&t=4)** You can search the contents of any layer and zoom to that feature.
+> **[0:04](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-application-definitions?u=76281980&t=4)** You can search the contents of any layer and [[Zoom]] to that feature.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-application-definitions?u=76281980&t=7)** Let's do that now.
 >
@@ -4356,7 +4336,7 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-application-definitions?u=76281980&t=293)** I'll show you that again, pick on the file menu, pick widgets, add widget, scroll to the bottom, search for address, there it is now.
 >
-> **[5:03](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-application-definitions?u=76281980&t=303)** Now if I hit save, and I launched my map, I'll just hit refresh, let's not worry about Google, can refresh that again, Oops.
+> **[5:03](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-application-definitions?u=76281980&t=303)** Now if I hit save, and I launched my map, I'll just hit refresh, let's not worry about [[Google]], can refresh that again, Oops.
 >
 > **[5:13](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-searches-in-application-definitions?u=76281980&t=313)** Okay let me close that.
 >
@@ -4430,7 +4410,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (23), [[Google]] (12), application (7), hit (5), api (5)
+> **Frameworks & Libraries:** [[Google]] (12), [[Zoom]] (3)
 > **Env Vars:** api (5), xml (1), xyz (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** scroll down (3), go to (1)
@@ -4439,12 +4419,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a QuickPlot
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-a-quickplot?u=76281980)
+#### [Creating a QuickPlot](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-a-quickplot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-a-quickplot?u=76281980&t=0)** - [Instructor] Quick Plots are widgets inside of MapGuide that enable users to plot directly to PDF.
+> **[0:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-a-quickplot?u=76281980&t=0)** - [Instructor] Quick Plots are widgets inside of [[MapGuide]] that enable users to plot directly to PDF.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-a-quickplot?u=76281980&t=5)** The Quick Plot has advanced settings that customize a scale, title, and legend.
 >
@@ -4454,7 +4433,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-a-quickplot?u=76281980&t=16)** Now, Slate and Aqua are actually really good for the wrapper in terms of using the Quick Plot because you get more area to work with, so I'm going to switch it to Slate and hit Save.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-a-quickplot?u=76281980&t=27)** So, let's check it out, we'll go, and again, after the word Slate, I have to put the ampersand, just remember that because of Maestro 6.10.
+> **[0:27](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-a-quickplot?u=76281980&t=27)** So, let's check it out, we'll go, and again, after the [[Microsoft Word|word]] Slate, I have to put the ampersand, just remember that because of Maestro 6.10.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-a-quickplot?u=76281980&t=36)** Here we go and close the other window, here we are, and you'll see on the second row, there's a Quick Plot button, so let's click that.
 >
@@ -4462,7 +4441,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-a-quickplot?u=76281980&t=53)** So, maybe I'll pick something like a A4, Landscape, and I can turn on Legend, North Arrow, Coordinates, all that stuff, I won't bother with the Advanced, and hit Generate.
 >
-> **[1:04](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-a-quickplot?u=76281980&t=64)** So, I'll get a brand new PDF page, and it shows up here, and you'll notice, no background imagery, so all the XY layers, all the Google, they won't plot, you know, that's just part of the interface, it won't allow you to do that.
+> **[1:04](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-a-quickplot?u=76281980&t=64)** So, I'll get a brand new PDF page, and it shows up here, and you'll notice, no background imagery, so all the XY layers, all the [[Google]], they won't plot, you know, that's just part of the interface, it won't allow you to do that.
 >
 > **[1:17](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-a-quickplot?u=76281980&t=77)** I'll close that, I'll show you why.
 >
@@ -4534,7 +4513,7 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-a-quickplot?u=76281980&t=285)** Let's try A0 in landscape and with the Legend, and leave that, and we'll hit Generate.
 >
-> **[4:55](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-a-quickplot?u=76281980&t=295)** Now, this is going to be a huge file, and look, we're zoomed way out, so we may want to zoom in a little bit, and look how tiny Legend is at this scale, and look how tiny the font is there.
+> **[4:55](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-a-quickplot?u=76281980&t=295)** Now, this is going to be a huge file, and look, we're zoomed way out, so we may want to [[Zoom]] in a little bit, and look how tiny Legend is at this scale, and look how tiny the font is there.
 >
 > **[5:07](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-a-quickplot?u=76281980&t=307)** So, that's a massive page, let's close that.
 >
@@ -4550,7 +4529,7 @@ created: 2026-05-02
 >
 > **[5:29](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-a-quickplot?u=76281980&t=329)** So, the nice thing about Advanced, this is one thing I really love, is the ability to rotate everything so that you can adjust your map, like that, and if I hit Generate now, and this is going to be a massive image.
 >
-> **[5:41](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-a-quickplot?u=76281980&t=341)** Now, just as a side note, your PHP may not be able to handle it, you may get an error at this point, there's a couple of errors that may happen when trying to plot these huge PDFs, and I'm going to review those right now.
+> **[5:41](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-a-quickplot?u=76281980&t=341)** Now, just as a side note, your [[PHP]] may not be able to handle it, you may get an error at this point, there's a couple of errors that may happen when trying to plot these huge PDFs, and I'm going to review those right now.
 >
 > **[5:55](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-a-quickplot?u=76281980&t=355)** The two things that could happen are, one, you'll get an error because there's no permissions to the drive.
 >
@@ -4558,7 +4537,7 @@ created: 2026-05-02
 >
 > **[6:09](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-a-quickplot?u=76281980&t=369)** So, here's the full path, Program Files/OSGeo/MapGuide/Web, and there's a folder here called tcpdf.
 >
-> **[6:17](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-a-quickplot?u=76281980&t=377)** So, what I'm going to do is I'm going to go onto the Security and make sure the IUSR, that's the IUSR on Windows, on our setup has Modify Control 'cause there's going to be 10 files put in there, that's one thing.
+> **[6:17](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-a-quickplot?u=76281980&t=377)** So, what I'm going to do is I'm going to go onto the Security and make sure the IUSR, that's the IUSR on [[Windows]], on our setup has Modify Control 'cause there's going to be 10 files put in there, that's one thing.
 >
 > **[6:29](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/creating-a-quickplot?u=76281980&t=389)** So, if you're getting there, that's one thing you're going to need to change.
 >
@@ -4578,7 +4557,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), [[PHP]] (3), web (3), [[MapGuide]] (2), application (2)
+> **Frameworks & Libraries:** [[PHP]] (3), [[MapGuide]] (2), [[Microsoft Word|Word]] (1), [[Google]] (1), [[Zoom]] (1)
 > **Env Vars:** pdf (4), iusr (2), dpi (1), php (1), iis (1)
 > **CLI Commands:** make (4), php (3)
 > **UI Navigation:** scroll down (2), go to (2), toggle (1)
@@ -4592,12 +4571,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Publishing to the web
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-to-the-web?u=76281980)
+#### [Publishing to the web](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-to-the-web?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-to-the-web?u=76281980&t=0)** - [Instructor] Once you've made your basic web layout, or your fusion-based application definition, everyone on your network can see the MapGuide Server.
+> **[0:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-to-the-web?u=76281980&t=0)** - [Instructor] Once you've made your basic web layout, or your fusion-based application definition, everyone on your network can see the [[MapGuide]] Server.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-to-the-web?u=76281980&t=9)** You can publish to all your peers within that particular network.
 >
@@ -4615,7 +4593,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-to-the-web?u=76281980&t=66)** You could install MapGuide on a cloud, VPS.
 >
-> **[1:10](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-to-the-web?u=76281980&t=70)** You could use Amazon AWS, Microsoft Azure, Rackspace or so on.
+> **[1:10](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-to-the-web?u=76281980&t=70)** You could use Amazon AWS, [[Microsoft Azure]], Rackspace or so on.
 >
 > **[1:16](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-to-the-web?u=76281980&t=76)** That way, everyone can see MapGuide.
 >
@@ -4629,7 +4607,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-to-the-web?u=76281980&t=115)** It's your choice where MapGuide sits.
 >
-> **[1:57](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-to-the-web?u=76281980&t=117)** But remember, if you have two servers, or if you put it outside your firewall, that MapGuide Server cannot see your databases or your files.
+> **[1:57](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-to-the-web?u=76281980&t=117)** But remember, if you have two servers, or if you put it outside your firewall, that MapGuide Server cannot see your [[Databases]] or your files.
 >
 > **[2:07](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-to-the-web?u=76281980&t=127)** So remember if you put it outside, you may have duplicate MapGuide Servers running, one for everyone inside and one for everyone outside.
 >
@@ -4637,7 +4615,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MapGuide]] (13), data (2), web (1), application (1), cloud (1)
+> **Frameworks & Libraries:** [[MapGuide]] (13), [[Microsoft Azure]] (1), [[Databases]] (1)
 > **CLI Commands:** find (1), aws (1), make (1)
 > **Env Vars:** dmz (1), vps (1), aws (1)
 > **Tools:** firefox (1), safari (1)
@@ -4645,14 +4623,13 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Publishing basic web layouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-basic-web-layouts?u=76281980)
+#### [Publishing basic web layouts](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-basic-web-layouts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-basic-web-layouts?u=76281980&t=0)** - The URL for the basic web layouts can be quite long for the user to type in.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-basic-web-layouts?u=76281980&t=4)** The best way to provide a map to the user is through a shorter URL, using techniques such as HTML IFrames, you can provide the user with a very easy URL.
+> **[0:04](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-basic-web-layouts?u=76281980&t=4)** The best way to provide a map to the user is through a shorter URL, using techniques such as [[HTML]] IFrames, you can provide the user with a very easy URL.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-basic-web-layouts?u=76281980&t=14)** Well, let's launch the basic web layout.
 >
@@ -4670,7 +4647,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-basic-web-layouts?u=76281980&t=85)** We have a folder called Inetpub, on the C drive.
 >
-> **[1:30](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-basic-web-layouts?u=76281980&t=90)** This is where the servers installed, and this is true, not just on your PC where we turned it into a web server, but on all Microsoft web servers, this is the default web page.
+> **[1:30](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-basic-web-layouts?u=76281980&t=90)** This is where the servers installed, and this is true, not just on your PC where we turned it into a web server, but on all [[Microsoft]] [[Web Servers]], this is the default web page.
 >
 > **[1:40](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-basic-web-layouts?u=76281980&t=100)** So when you go there, that's what loads.
 >
@@ -4680,7 +4657,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-basic-web-layouts?u=76281980&t=110)** Now, if I go to this folder and I say, right click new, I can't make a new page in there.
 >
-> **[1:58](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-basic-web-layouts?u=76281980&t=118)** It's because it's restricted, it's by Windows.
+> **[1:58](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-basic-web-layouts?u=76281980&t=118)** It's because it's restricted, it's by [[Windows]].
 >
 > **[2:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-basic-web-layouts?u=76281980&t=120)** So what I'm going to do is I'm going to open up Notepad, so just go to Notepad, and right click on Notepad, and then Run As Administrator.
 >
@@ -4728,7 +4705,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-basic-web-layouts?u=76281980&t=278)** I'm going to make the name Id and frame Id map.
 >
-> **[4:42](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-basic-web-layouts?u=76281980&t=282)** The reason you give it a name and an Id is so that programmatically down the road, If you're programming with Java Script or any kind of CSS Sheets, you have a name of this IFrame that you could modify, and Id and name are very powerful.
+> **[4:42](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-basic-web-layouts?u=76281980&t=282)** The reason you give it a name and an Id is so that programmatically down the road, If you're programming with [[Java]] Script or any kind of CSS Sheets, you have a name of this IFrame that you could modify, and Id and name are very powerful.
 >
 > **[4:56](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-basic-web-layouts?u=76281980&t=296)** So you should name them.
 >
@@ -4802,7 +4779,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (12), [[HTML]] (7), hit (4), [[Microsoft]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[Microsoft]] (1), [[Web Servers]] (1), [[Windows]] (1), [[Java]] (1)
 > **Env Vars:** url (17), html (7), http (2), htm (1), css (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** go to (5), click on (1)
@@ -4811,8 +4788,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
 
-#### Publishing application definitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-application-definitions?u=76281980)
+#### [Publishing application definitions](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-application-definitions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4820,11 +4796,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-application-definitions?u=76281980&t=4)** The best way to provide a map to the user is through a shorter URL.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-application-definitions?u=76281980&t=8)** Using techniques such as HTML iframes, you can provide a user with a very easy URL rather than those big, long ones that you see in the applications.
+> **[0:08](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-application-definitions?u=76281980&t=8)** Using techniques such as [[HTML]] iframes, you can provide a user with a very easy URL rather than those big, long ones that you see in the applications.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-application-definitions?u=76281980&t=18)** So let's open up the Nanaimo application, not the basic web layout, but the Nanaimo application, and we'll click Go.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-application-definitions?u=76281980&t=25)** Oh, remember, we need to put the ampersand after the word slate in that case.
+> **[0:25](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-application-definitions?u=76281980&t=25)** Oh, remember, we need to put the ampersand after the [[Microsoft Word|word]] slate in that case.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-application-definitions?u=76281980&t=31)** And there's our URL.
 >
@@ -4866,7 +4842,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-application-definitions?u=76281980&t=120)** But what we're also going to do is we're going to get rid of the name of your computer, mine happens to be howls1, yours could be anything, and the http colon.
 >
-> **[2:08](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-application-definitions?u=76281980&t=128)** So all you see at the beginning is /mapguide, and then all of the rest of our URL.
+> **[2:08](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-application-definitions?u=76281980&t=128)** So all you see at the beginning is /[[MapGuide]], and then all of the [[Representational State Transfer (REST)|rest]] of our URL.
 >
 > **[2:15](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-application-definitions?u=76281980&t=135)** We're going to call it iFrameMap, set the width to 100%, and a little trick I'm doing is setting the height to 99%, and if you put it at 100, you get this tiny scrollbar.
 >
@@ -4888,7 +4864,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-application-definitions?u=76281980&t=178)** Now you notice it's all inside, there's no scrolling, everything looks great, everything will work.
 >
-> **[3:04](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-application-definitions?u=76281980&t=184)** I can pan and zoom, and turn layers on and off.
+> **[3:04](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-application-definitions?u=76281980&t=184)** I can pan and [[Zoom]], and turn layers on and off.
 >
 > **[3:06](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/publishing-application-definitions?u=76281980&t=186)** I've got different layers in the background.
 >
@@ -4924,7 +4900,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), web (5), application (4), [[Microsoft Word|Word]] (1), [[MapGuide]] (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Microsoft Word|Word]] (1), [[MapGuide]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Zoom]] (1)
 > **Env Vars:** url (14), html (5), css (1)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [http://howls1](http://howls1) (2)
@@ -4938,12 +4914,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/next-steps?u=76281980&t=0)** - [Instructor] Thank you for attending this course on MapGuide.
+> **[0:00](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/next-steps?u=76281980&t=0)** - [Instructor] Thank you for attending this course on [[MapGuide]].
 >
 > **[0:02](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/next-steps?u=76281980&t=2)** Before I let you go, I just want to direct you to a few important websites.
 >
@@ -4955,11 +4930,11 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/next-steps?u=76281980&t=24)** We use Version 6M10 in this course and you may be able to get a newer version with a few less bugs in it.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/next-steps?u=76281980&t=31)** Go to LinkedIn Learning and look at some JavaScript courses.
+> **[0:31](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/next-steps?u=76281980&t=31)** Go to [[LinkedIn]] Learning and look at some [[JavaScript]] courses.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/next-steps?u=76281980&t=34)** That's the first port of call when developing with MapGuide is the JavaScript Wrapper.
 >
-> **[0:40](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/next-steps?u=76281980&t=40)** Also, you can check out all the PHP courses, as well as the [asp.net](https://asp.net) to do some more backend development with MapGuide.
+> **[0:40](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/next-steps?u=76281980&t=40)** Also, you can check out all the [[PHP]] courses, as well as the [[[ASP.NET]]](https://asp.net) to do some more backend development with MapGuide.
 >
 > **[0:48](https://www.linkedin.com/learning/learning-mapguide-open-source-13972157/next-steps?u=76281980&t=48)** I hope you enjoyed this course as much as I did teaching it.
 >

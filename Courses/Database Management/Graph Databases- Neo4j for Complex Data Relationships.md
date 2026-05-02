@@ -80,8 +80,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course introduction and goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/course-introduction-and-goals?u=76281980)
+#### [Course introduction and goals](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/course-introduction-and-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -91,47 +90,46 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/course-introduction-and-goals?u=76281980&t=4)** And with more data, the complexity and requirements of data analytics are increasing too.
 >
-> **[0:10](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/course-introduction-and-goals?u=76281980&t=10)** This Neo4j course will introduce you to this new topic and open up a totally new horizon for you.
+> **[0:10](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/course-introduction-and-goals?u=76281980&t=10)** This [[Neo4j]] course will introduce you to this new topic and open up a totally new horizon for you.
 >
-> **[0:17](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/course-introduction-and-goals?u=76281980&t=17)** Understanding how different noSQL databases work and when to use them will make you a super valuable person in any modern data team.
+> **[0:17](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/course-introduction-and-goals?u=76281980&t=17)** Understanding how different [[NoSQL]] [[Databases]] work and when to use them will make you a super valuable person in any modern data team.
 >
 > **[0:25](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/course-introduction-and-goals?u=76281980&t=25)** We'll start by exploring the fundamental terminology and design of Neo4j.
 >
-> **[0:30](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/course-introduction-and-goals?u=76281980&t=30)** Then I'll show you how to design a database model based on a real word data set and interact with it by writing and reading data with Python.
+> **[0:30](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/course-introduction-and-goals?u=76281980&t=30)** Then I'll show you how to design a database model based on a real [[Microsoft Word|word]] data set and interact with it by writing and reading data with [[Python (Programming Language)|Python]].
 >
 > **[0:39](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/course-introduction-and-goals?u=76281980&t=39)** Hi, my name is Andreas Kretz.
 >
 > **[0:41](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/course-introduction-and-goals?u=76281980&t=41)** I have over 10 years of experience as a data engineer.
 >
-> **[0:45](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/course-introduction-and-goals?u=76281980&t=45)** My mission is to help students to either become a data engineer or to add data engineering to their skillset.
+> **[0:45](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/course-introduction-and-goals?u=76281980&t=45)** My mission is to help students to either become a data engineer or to add [[Data Engineering]] to their skillset.
 >
 > **[0:51](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/course-introduction-and-goals?u=76281980&t=51)** So have fun with this course and let's get into it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Neo4j]] (2), [[Analytics]] (1), [[NoSQL]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Neo4j]] (2), [[NoSQL]] (1), [[Databases]] (1), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Code Identifiers:** nosql (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most out of this course, you only need two things.
 >
-> **[0:04](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/what-you-should-know?u=76281980&t=4)** You need to have some Python knowledge and some SQL knowledge.
+> **[0:04](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/what-you-should-know?u=76281980&t=4)** You need to have some [[Python (Programming Language)|Python]] knowledge and some [[SQL]] knowledge.
 >
 > **[0:07](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/what-you-should-know?u=76281980&t=7)** Don't worry though, as with all my courses, I'm limiting this to only the essentials.
 >
-> **[0:13](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/what-you-should-know?u=76281980&t=13)** So if you have a bit of Python knowledge, you can code a bit with Python, you understand the data structures and how to work with functions, then you're good.
+> **[0:13](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/what-you-should-know?u=76281980&t=13)** So if you have a bit of Python knowledge, you can code a bit with Python, you understand the [[Data Structures]] and how to work with functions, then you're good.
 >
 > **[0:22](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/what-you-should-know?u=76281980&t=22)** If you are on the SQL side, know how to create tables, how tables and columns work, how the relationships between tables work, and you have a bit of an understanding and a bit of experience with SQL queries, then you're also good there.
 >
 > **[0:39](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/what-you-should-know?u=76281980&t=39)** You don't need to have very complex knowledge of SQL, basics are absolutely enough.
 >
-> **[0:45](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/what-you-should-know?u=76281980&t=45)** If you feel like you need to brush up a bit on your skills, I recommend two courses from the LinkedIn Learning Library.
+> **[0:45](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/what-you-should-know?u=76281980&t=45)** If you feel like you need to brush up a bit on your skills, I recommend two courses from the [[LinkedIn]] Learning Library.
 >
 > **[0:52](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/what-you-should-know?u=76281980&t=52)** I recommend the course [[Python Essential Training]] and I recommend [[SQL Essential Training]].
 >
@@ -141,18 +139,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), [[Python (Programming Language)|Python]] (4), data (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Python (Programming Language)|Python]] (4), [[Data Structures]] (1), [[LinkedIn]] (1)
 > **Env Vars:** sql (5)
 > **CLI Commands:** python (4)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Real-world graph database use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/real-world-graph-database-use-cases?u=76281980)
+#### [Real-world graph database use cases](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/real-world-graph-database-use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/real-world-graph-database-use-cases?u=76281980&t=0)** - [Narrator] Where are graph databases used?
+> **[0:00](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/real-world-graph-database-use-cases?u=76281980&t=0)** - [Narrator] Where are graph [[Databases]] used?
 >
 > **[0:02](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/real-world-graph-database-use-cases?u=76281980&t=2)** So generally, graph databases are used whenever you have very complex data and complex relationships between the data points in your data.
 >
@@ -270,7 +267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Databases]] (3), business (2), product (1), management (1)
+> **Frameworks & Libraries:** [[Databases]] (3)
 > **CLI Commands:** find (5), cat (1), make (1)
 > **Analogies:** for instance (4)
 > **Ports:** :00 (1), :15 (1), :30 (1)
@@ -282,18 +279,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Neo4j fundamental terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-fundamental-terminology?u=76281980)
+#### [Neo4j fundamental terminology](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-fundamental-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-fundamental-terminology?u=76281980&t=0)** - [Instructor] Let's start the Neo4j fundamentals by looking into where Neo4j actually fits into a platform.
+> **[0:00](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-fundamental-terminology?u=76281980&t=0)** - [Instructor] Let's start the [[Neo4j]] fundamentals by looking into where Neo4j actually fits into a platform.
 >
 > **[0:07](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-fundamental-terminology?u=76281980&t=7)** Now, in this, I draw a line in the middle where we have two parts, an upper part and a lower part.
 >
 > **[0:14](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-fundamental-terminology?u=76281980&t=14)** The upper part is something that you find very often.
 >
-> **[0:17](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-fundamental-terminology?u=76281980&t=17)** You, for instance, have a e-commerce transaction that is happening.
+> **[0:17](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-fundamental-terminology?u=76281980&t=17)** You, for instance, have a [[E-Commerce]] transaction that is happening.
 >
 > **[0:21](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-fundamental-terminology?u=76281980&t=21)** This transaction goes into a transactional database and the client that sits on the user interface on the website looks at the database and sees the status of this eCommerce transaction that the client previously set off.
 >
@@ -311,7 +307,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-fundamental-terminology?u=76281980&t=87)** So this is where it fits usually.
 >
-> **[1:30](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-fundamental-terminology?u=76281980&t=90)** Neo4j and graph databases usually come into play in the upper part in the database part of your transactional process because these databases are transactional databases.
+> **[1:30](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-fundamental-terminology?u=76281980&t=90)** Neo4j and graph [[Databases]] usually come into play in the upper part in the database part of your transactional process because these databases are transactional databases.
 >
 > **[1:43](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-fundamental-terminology?u=76281980&t=103)** Now let's look next into the fundamental terminology of Neo4j.
 >
@@ -321,7 +317,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-fundamental-terminology?u=76281980&t=117)** And these nodes are how you store your data in.
 >
-> **[2:00](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-fundamental-terminology?u=76281980&t=120)** So you don't store your data in tables, like relational databases.
+> **[2:00](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-fundamental-terminology?u=76281980&t=120)** So you don't store your data in tables, like [[Relational Databases]].
 >
 > **[2:05](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-fundamental-terminology?u=76281980&t=125)** You store the data in nodes.
 >
@@ -349,7 +345,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), node (9), database (6), [[Neo4j]] (5), [[Databases]] (3)
+> **Frameworks & Libraries:** [[Neo4j]] (5), [[Databases]] (3), [[E-Commerce]] (1), [[Relational Databases]] (1)
 > **CLI Commands:** node (9), find (3), make (1)
 > **Versions:** node 1 (4), node 2 (4)
 > **Code Identifiers:** ecommerce (3)
@@ -357,14 +353,13 @@ created: 2026-05-02
 > **Analogies:** for instance (1), picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### CRUD and ACID properties of graph databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/crud-and-acid-properties-of-graph-databases?u=76281980)
+#### [CRUD and ACID properties of graph databases](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/crud-and-acid-properties-of-graph-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/crud-and-acid-properties-of-graph-databases?u=76281980&t=1)** - [Narrator] Let's talk about CRUD and ACID-Compatibility.
 >
-> **[0:04](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/crud-and-acid-properties-of-graph-databases?u=76281980&t=4)** CRUD, meaning Create, Read, Update and Delete operations are a standard for relational databases.
+> **[0:04](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/crud-and-acid-properties-of-graph-databases?u=76281980&t=4)** CRUD, meaning Create, Read, Update and Delete operations are a standard for [[Relational Databases]].
 >
 > **[0:13](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/crud-and-acid-properties-of-graph-databases?u=76281980&t=13)** You always have these.
 >
@@ -378,7 +373,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/crud-and-acid-properties-of-graph-databases?u=76281980&t=23)** Or, you want to delete some data out of the database.
 >
-> **[0:26](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/crud-and-acid-properties-of-graph-databases?u=76281980&t=26)** Now, with NoSQL databases, this is sometimes a bit complicated.
+> **[0:26](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/crud-and-acid-properties-of-graph-databases?u=76281980&t=26)** Now, with [[NoSQL]] [[Databases]], this is sometimes a bit complicated.
 >
 > **[0:31](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/crud-and-acid-properties-of-graph-databases?u=76281980&t=31)** Because sometimes a NoSQL database doesn't allow you to update data, or it's difficult to update data.
 >
@@ -428,19 +423,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (12), data (10), [[NoSQL]] (2), [[Databases]] (2), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[NoSQL]] (2), [[Databases]] (2), [[Relational Databases]] (1)
 > **Env Vars:** crud (3), acid (3)
 > **Definitions:** is a  (2), means that (2)
 > **Speakers:** - [narrator] (1)
 
-#### Graph database vs. relational database design
-> [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/graph-database-vs-relational-database-design?u=76281980)
+#### [Graph database vs. relational database design](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/graph-database-vs-relational-database-design?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/graph-database-vs-relational-database-design?u=76281980&t=0)** - [Instructor] Let's look into how you design a Neo4j database.
+> **[0:00](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/graph-database-vs-relational-database-design?u=76281980&t=0)** - [Instructor] Let's look into how you design a [[Neo4j]] database.
 >
-> **[0:04](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/graph-database-vs-relational-database-design?u=76281980&t=4)** For that, let's take a detour into relational databases.
+> **[0:04](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/graph-database-vs-relational-database-design?u=76281980&t=4)** For that, let's take a detour into [[Relational Databases]].
 >
 > **[0:08](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/graph-database-vs-relational-database-design?u=76281980&t=8)** How relational databases work.
 >
@@ -508,23 +502,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), node (4), [[Neo4j]] (3), [[Relational Databases]] (2), database (1)
+> **Frameworks & Libraries:** [[Neo4j]] (3), [[Relational Databases]] (2)
 > **Code Identifiers:** visitedpage (3), visitedby (2), user_first (1), user_last (1), user_id (1)
 > **CLI Commands:** node (4)
 > **Analogies:** for instance (4)
 > **Definitions:** is called (2), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Neo4j query language explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-query-language-explained?u=76281980)
+#### [Neo4j query language explained](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-query-language-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-query-language-explained?u=76281980&t=0)** - [Instructor] Once your data is in the database, how do you query it?
 >
-> **[0:04](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-query-language-explained?u=76281980&t=4)** When you look at relational databases, relational databases have SQL, the structured query language.
+> **[0:04](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-query-language-explained?u=76281980&t=4)** When you look at [[Relational Databases]], relational databases have [[SQL]], the structured query language.
 >
-> **[0:10](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-query-language-explained?u=76281980&t=10)** Here with Neo4j, you don't have that, but you have another cool way of doing this with the Cypher language.
+> **[0:10](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-query-language-explained?u=76281980&t=10)** Here with [[Neo4j]], you don't have that, but you have another cool way of doing this with the Cypher language.
 >
 > **[0:18](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-query-language-explained?u=76281980&t=18)** Here are the basics of Cypher language.
 >
@@ -604,7 +597,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-query-language-explained?u=76281980&t=215)** Because we defined our relation as vis above, we now can access the date and then limit this on 2022 first, January 1st, and then give it a time.
 >
-> **[3:49](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-query-language-explained?u=76281980&t=229)** And with the dot and star, this is a typical regex that you know from Python and this will then match everything that is below this in this date and time.
+> **[3:49](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-query-language-explained?u=76281980&t=229)** And with the dot and star, this is a typical regex that you know from [[Python (Programming Language)|Python]] and this will then match everything that is below this in this date and time.
 >
 > **[4:01](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-query-language-explained?u=76281980&t=241)** So it would match at 10 11, 10 12, 10 13, and so on.
 >
@@ -612,19 +605,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (8), database (2), [[Relational Databases]] (2), data (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (2), [[SQL]] (1), [[Neo4j]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (8), make (3), python (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Code Identifiers:** visitedpage (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Neo4j deployment and scaling explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-deployment-and-scaling-explained?u=76281980)
+#### [Neo4j deployment and scaling explained](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-deployment-and-scaling-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-deployment-and-scaling-explained?u=76281980&t=0)** - [Instructor] Now that we know how to create a Neo4j database, and how to set this up either self-managed or on the cloud, let's look at scaling.
+> **[0:00](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-deployment-and-scaling-explained?u=76281980&t=0)** - [Instructor] Now that we know how to create a [[Neo4j]] database, and how to set this up either self-managed or on the cloud, let's look at scaling.
 >
 > **[0:10](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-deployment-and-scaling-explained?u=76281980&t=10)** Scaling is something that is very important and that you are going to run into at some point.
 >
@@ -638,7 +630,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-deployment-and-scaling-explained?u=76281980&t=39)** Either technically you cannot scale anymore, or it will get too expensive to scale.
 >
-> **[0:45](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-deployment-and-scaling-explained?u=76281980&t=45)** Now, this is where the beauty of NoSQL databases and Neo4j comes in.
+> **[0:45](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-deployment-and-scaling-explained?u=76281980&t=45)** Now, this is where the beauty of [[NoSQL]] [[Databases]] and Neo4j comes in.
 >
 > **[0:50](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-deployment-and-scaling-explained?u=76281980&t=50)** It's horizontal scaling.
 >
@@ -686,7 +678,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), [[Neo4j]] (5), cloud (1), [[NoSQL]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Neo4j]] (5), [[NoSQL]] (1), [[Databases]] (1)
 > **Env Vars:** ram (1), rdb (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** set up (1)
@@ -697,12 +689,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to install Neo4j
-> [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-install-neo4j?u=76281980)
+#### [How to install Neo4j](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-install-neo4j?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-install-neo4j?u=76281980&t=0)** - [Instructor] This is how you can set up your Neo4j database.
+> **[0:00](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-install-neo4j?u=76281980&t=0)** - [Instructor] This is how you can set up your [[Neo4j]] database.
 >
 > **[0:03](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-install-neo4j?u=76281980&t=3)** So go to [neo4j.com](https://neo4j.com), and then on the top right, there is a button Get Started.
 >
@@ -714,7 +705,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-install-neo4j?u=76281980&t=22)** Then this will lead you to a mask where you can log in.
 >
-> **[0:26](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-install-neo4j?u=76281980&t=26)** I'm already logged in, I used my Google account for this.
+> **[0:26](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-install-neo4j?u=76281980&t=26)** I'm already logged in, I used my [[Google]] account for this.
 >
 > **[0:30](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-install-neo4j?u=76281980&t=30)** Then we get onto the overview of AuraDB, where we can create ourselves an instance.
 >
@@ -754,7 +745,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-install-neo4j?u=76281980&t=115)** But the difference here is that the region, which is GCP region.
 >
-> **[2:00](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-install-neo4j?u=76281980&t=120)** So this runs on Google Cloud, as it seems.
+> **[2:00](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-install-neo4j?u=76281980&t=120)** So this runs on [[Google Cloud Platform (GCP)|Google Cloud]], as it seems.
 >
 > **[2:03](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-install-neo4j?u=76281980&t=123)** You can set more here.
 >
@@ -826,7 +817,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neo4j]] (5), database (5), next (2), [[Google]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Neo4j]] (5), [[Google]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Code Identifiers:** contact_tracing (3)
 > **UI Navigation:** go to (1), in the menu (1), scroll down (1)
 > **Prerequisites:** set up (3)
@@ -835,12 +826,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1), just like (1)
 > **URLs:** [neo4j.com](https://neo4j.com) (1)
 
-#### Neo4j user interface and CLI explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-user-interface-and-cli-explained?u=76281980)
+#### [Neo4j user interface and CLI explained](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-user-interface-and-cli-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-user-interface-and-cli-explained?u=76281980&t=0)** - [Instructor] There are two ways how to interact with your Neo4j AuraDB.
+> **[0:00](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-user-interface-and-cli-explained?u=76281980&t=0)** - [Instructor] There are two ways how to interact with your [[Neo4j]] AuraDB.
 >
 > **[0:05](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-user-interface-and-cli-explained?u=76281980&t=5)** The first one is the browser, and the second one is Neo4j Bloom.
 >
@@ -908,11 +898,11 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-user-interface-and-cli-explained?u=76281980&t=166)** Very, let's say, typical tool to interact with the database through writing queries, or do this completely visually with Bloom, which I personally like a lot.
 >
-> **[2:57](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-user-interface-and-cli-explained?u=76281980&t=177)** Here, when you zoom in more, you can also see more details of this, of what's displayed.
+> **[2:57](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-user-interface-and-cli-explained?u=76281980&t=177)** Here, when you [[Zoom]] in more, you can also see more details of this, of what's displayed.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), [[Neo4j]] (3), data (3), database (3), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Neo4j]] (3), [[Zoom]] (1)
 > **Env Vars:** visited (4), islocated (1)
 > **Code Identifiers:** business_address (1), deviceid (1), user_name (1)
 > **Prerequisites:** set up (1), configure (1)
@@ -920,16 +910,15 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to use Python to work with Neo4j
-> [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-use-python-to-work-with-neo4j?u=76281980)
+#### [How to use Python to work with Neo4j](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-use-python-to-work-with-neo4j?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-use-python-to-work-with-neo4j?u=76281980&t=0)** - [Instructor] For interacting with your database we are going to use Py2neo here.
 >
-> **[0:06](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-use-python-to-work-with-neo4j?u=76281980&t=6)** It's a Python library that I personally like.
+> **[0:06](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-use-python-to-work-with-neo4j?u=76281980&t=6)** It's a [[Python (Programming Language)|Python]] library that I personally like.
 >
-> **[0:09](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-use-python-to-work-with-neo4j?u=76281980&t=9)** There is also a standard library for Neo4j.
+> **[0:09](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-use-python-to-work-with-neo4j?u=76281980&t=9)** There is also a standard library for [[Neo4j]].
 >
 > **[0:13](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-use-python-to-work-with-neo4j?u=76281980&t=13)** The upside with Py2neo and why I chose this is it has a very nice feature of bulk uploading data from a CSV file into your database which is very simple and is also nice to work with transactions and querying data for Py2neo, so that's why I chose this and that's why I also recommend this to start with.
 >
@@ -947,13 +936,13 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-use-python-to-work-with-neo4j?u=76281980&t=68)** Now, how do you install this?
 >
-> **[1:12](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-use-python-to-work-with-neo4j?u=76281980&t=72)** There are two ways of installing this when you go back to the Py2neo handbook here, you can do just simple, a PIP install, upgrade Py2neo if you are on a Linux system.
+> **[1:12](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-use-python-to-work-with-neo4j?u=76281980&t=72)** There are two ways of installing this when you go back to the Py2neo handbook here, you can do just simple, a PIP install, upgrade Py2neo if you are on a [[Linux]] system.
 >
-> **[1:23](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-use-python-to-work-with-neo4j?u=76281980&t=83)** The problem is usually with Microsoft, you don't have that.
+> **[1:23](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-use-python-to-work-with-neo4j?u=76281980&t=83)** The problem is usually with [[Microsoft]], you don't have that.
 >
 > **[1:28](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-use-python-to-work-with-neo4j?u=76281980&t=88)** You need to find a way of installing this.
 >
-> **[1:30](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-use-python-to-work-with-neo4j?u=76281980&t=90)** And I'm personally using a lot Anaconda as a managing tool for Python on my Windows machines.
+> **[1:30](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-use-python-to-work-with-neo4j?u=76281980&t=90)** And I'm personally using a lot Anaconda as a managing tool for Python on my [[Windows]] machines.
 >
 > **[1:38](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-use-python-to-work-with-neo4j?u=76281980&t=98)** So how to do this is you go in and you go into the Anaconda navigator.
 >
@@ -977,7 +966,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-use-python-to-work-with-neo4j?u=76281980&t=158)** You cannot execute conda commands.
 >
-> **[2:41](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-use-python-to-work-with-neo4j?u=76281980&t=161)** This has something to do because the terminal is running PowerShell and with Anaconda, you cannot use PowerShell here.
+> **[2:41](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-use-python-to-work-with-neo4j?u=76281980&t=161)** This has something to do because the terminal is running [[Powershell]] and with Anaconda, you cannot use PowerShell here.
 >
 > **[2:48](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-use-python-to-work-with-neo4j?u=76281980&t=168)** So, what you do is on the right, there is the plus, you use the dropdown and you say select default profile, click this, and then go up here where you select just command prompt.
 >
@@ -995,7 +984,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), database (3), [[Python (Programming Language)|Python]] (3), data (2), [[Powershell]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Powershell]] (2), [[Neo4j]] (1), [[Linux]] (1), [[Microsoft]] (1)
 > **Tools:** anaconda (3), vs code (2), powershell (2), command prompt (2), terminal (1)
 > **CLI Commands:** find (4), python (3), pip (2), make (1)
 > **Env Vars:** pip (2), csv (1), cmd (1)
@@ -1004,12 +993,11 @@ created: 2026-05-02
 > **URLs:** [py2neo.org](https://py2neo.org) (1)
 > **Cross-References:** go back to (1)
 
-#### Neo4j security best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-security-best-practices?u=76281980)
+#### [Neo4j security best practices](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-security-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-security-best-practices?u=76281980&t=0)** - [Instructor] Now that we have the database set up and we have our Python library installed, I quickly want to spend a few words on security.
+> **[0:00](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-security-best-practices?u=76281980&t=0)** - [Instructor] Now that we have the database set up and we have our [[Python (Programming Language)|Python]] library installed, I quickly want to spend a few words on security.
 >
 > **[0:10](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-security-best-practices?u=76281980&t=10)** Security is always very important and there are two aspects that you need to look into, security, that is first securing your infrastructure, basically isolating your database in your network.
 >
@@ -1021,7 +1009,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-security-best-practices?u=76281980&t=45)** The network infrastructure security is there for making sure that nobody can access your database from systems that are unsecure or systems where you don't want to have access from.
 >
-> **[1:01](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-security-best-practices?u=76281980&t=61)** The second part is protecting data at rest.
+> **[1:01](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-security-best-practices?u=76281980&t=61)** The second part is protecting data at [[Representational State Transfer (REST)|rest]].
 >
 > **[1:04](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-security-best-practices?u=76281980&t=64)** Now let's say you are in the self-managed infrastructure as we discussed in number one here.
 >
@@ -1049,7 +1037,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-security-best-practices?u=76281980&t=145)** This is something encryption is important.
 >
-> **[2:27](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-security-best-practices?u=76281980&t=147)** Then for actually securing the access, make sure that you use access tokens.
+> **[2:27](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-security-best-practices?u=76281980&t=147)** Then for actually securing the access, make sure that you use access [[Tokens]].
 >
 > **[2:34](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-security-best-practices?u=76281980&t=154)** Tokens are always good to use because they're secure.
 >
@@ -1085,9 +1073,9 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-security-best-practices?u=76281980&t=229)** The other only access this database.
 >
-> **[3:52](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-security-best-practices?u=76281980&t=232)** So it's very important to isolate your database or databases through access roles.
+> **[3:52](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-security-best-practices?u=76281980&t=232)** So it's very important to isolate your database or [[Databases]] through access roles.
 >
-> **[3:58](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-security-best-practices?u=76281980&t=238)** This is through network security.
+> **[3:58](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-security-best-practices?u=76281980&t=238)** This is through [[Network Security]].
 >
 > **[4:01](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-security-best-practices?u=76281980&t=241)** This is firewalls.
 >
@@ -1097,7 +1085,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (12), data (10), [[Security]] (6), web (6), [[Tokens]] (3)
+> **Frameworks & Libraries:** [[Tokens]] (3), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Databases]] (1), [[Network Security]] (1)
 > **CLI Commands:** python (2), make (1)
 > **Prerequisites:** set up (3)
 > **Cross-References:** we discussed (1)
@@ -1108,8 +1096,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The data set explained and goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/the-data-set-explained-and-goals?u=76281980)
+#### [The data set explained and goals](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/the-data-set-explained-and-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1147,7 +1134,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (4), database (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** deviceid (1)
@@ -1155,14 +1141,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modeling data as a relational database
-> [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/modeling-data-as-a-relational-database?u=76281980)
+#### [Modeling data as a relational database](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/modeling-data-as-a-relational-database?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/modeling-data-as-a-relational-database?u=76281980&t=0)** - [Instructor] Now that we know the data, let's design ourselves the database.
 >
-> **[0:04](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/modeling-data-as-a-relational-database?u=76281980&t=4)** The easiest way how I always do this and how I recommend this to all students who want to learn something new like Neo4j is to first look at this typical way how you do this.
+> **[0:04](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/modeling-data-as-a-relational-database?u=76281980&t=4)** The easiest way how I always do this and how I recommend this to all students who want to learn something new like [[Neo4j]] is to first look at this typical way how you do this.
 >
 > **[0:16](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/modeling-data-as-a-relational-database?u=76281980&t=16)** Look at a relational database.
 >
@@ -1186,7 +1171,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/modeling-data-as-a-relational-database?u=76281980&t=58)** How we do this is we are creating a N-to-M relationship, a many-to-many relationship.
 >
-> **[1:06](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/modeling-data-as-a-relational-database?u=76281980&t=66)** Many-to-many relationships, there is only one way of really resolving these in relational databases is by adding another table.
+> **[1:06](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/modeling-data-as-a-relational-database?u=76281980&t=66)** Many-to-many relationships, there is only one way of really resolving these in [[Relational Databases]] is by adding another table.
 >
 > **[1:15](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/modeling-data-as-a-relational-database?u=76281980&t=75)** And that's the middle table here.
 >
@@ -1208,7 +1193,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/modeling-data-as-a-relational-database?u=76281980&t=117)** So the middle table, the Scans table is going to explode in size, which is never really, really good and problematic from a storage and query standpoint.
 >
-> **[2:09](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/modeling-data-as-a-relational-database?u=76281980&t=129)** So if you would still be unsure if Neo4j or NoSQL database is a good selection, this would be a very good indication that you're going to need something like this, especially in the case where you have hundreds of millions of scans.
+> **[2:09](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/modeling-data-as-a-relational-database?u=76281980&t=129)** So if you would still be unsure if Neo4j or [[NoSQL]] database is a good selection, this would be a very good indication that you're going to need something like this, especially in the case where you have hundreds of millions of scans.
 >
 > **[2:23](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/modeling-data-as-a-relational-database?u=76281980&t=143)** Now, also one thing that makes this a bit complicated is you have many indices in this.
 >
@@ -1246,18 +1231,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (10), database (6), [[Neo4j]] (3), data (2), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[Neo4j]] (3), [[Relational Databases]] (1), [[NoSQL]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** zip (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modeling the Neo4j database
-> [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/modeling-the-neo4j-database?u=76281980)
+#### [Modeling the Neo4j database](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/modeling-the-neo4j-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/modeling-the-neo4j-database?u=76281980&t=0)** - [Instructor] So now that we have our relational database with the user table, the Scans table, and the Business table, let's look into a way of doing this with Neo4j, because this might be a bit complicated.
+> **[0:00](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/modeling-the-neo4j-database?u=76281980&t=0)** - [Instructor] So now that we have our relational database with the user table, the Scans table, and the Business table, let's look into a way of doing this with [[Neo4j]], because this might be a bit complicated.
 >
 > **[0:15](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/modeling-the-neo4j-database?u=76281980&t=15)** In Neo4j, let's build this.
 >
@@ -1323,7 +1307,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (10), database (9), [[Neo4j]] (4), node (4), data (1)
+> **Frameworks & Libraries:** [[Neo4j]] (4)
 > **CLI Commands:** node (4), make (2)
 > **Code Identifiers:** user_name (1), deviceid (1), business_id (1), business_name (1), business_address (1)
 > **Env Vars:** visited (4), islocated (2)
@@ -1331,8 +1315,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to bulk import CSV data into Neo4j
-> [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-bulk-import-csv-data-into-neo4j?u=76281980)
+#### [How to bulk import CSV data into Neo4j](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-bulk-import-csv-data-into-neo4j?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1346,7 +1329,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-bulk-import-csv-data-into-neo4j?u=76281980&t=30)** Let's start, but first here, what you see, Py2neo import Graph and the Py2neo.bulk.
 >
-> **[0:38](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-bulk-import-csv-data-into-neo4j?u=76281980&t=38)** These are the important libraries for interacting with our Neo4j database, then we have an import pandas as pd.
+> **[0:38](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-bulk-import-csv-data-into-neo4j?u=76281980&t=38)** These are the important libraries for interacting with our [[Neo4j]] database, then we have an import [[Pandas (Software)|pandas]] as pd.
 >
 > **[0:48](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-bulk-import-csv-data-into-neo4j?u=76281980&t=48)** We do this because, for the preparation of the data, we are going to use pandas here.
 >
@@ -1354,7 +1337,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-bulk-import-csv-data-into-neo4j?u=76281980&t=63)** If you are unsure with pandas, you need to have a quick fresh-up, I put in a link here for you, where you can go, and it's a 10-minute user guide how to use pandas.
 >
-> **[1:15](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-bulk-import-csv-data-into-neo4j?u=76281980&t=75)** So, then we do an import JSON, and then we are going to start and load our data with pd.read_csv, we're going to load our CSV file.
+> **[1:15](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-bulk-import-csv-data-into-neo4j?u=76281980&t=75)** So, then we do an import [[JSON]], and then we are going to start and load our data with pd.read_csv, we're going to load our CSV file.
 >
 > **[1:26](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-bulk-import-csv-data-into-neo4j?u=76281980&t=86)** The CSV, our prepared dataset, here, in my folder, it's laying under data/sf_dataset.csv, and we're going to load this into a data frame, which I call em_data frame for import data.
 >
@@ -1430,7 +1413,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (15), data (11), database (6), [[JSON]] (6), node (6)
+> **Frameworks & Libraries:** [[JSON]] (6), [[Pandas (Software)|Pandas]] (5), [[Neo4j]] (2)
 > **Code Identifiers:** business_id (7), deviceid (3), business_name (2), scan_timestamp (2), read_csv (1)
 > **Env Vars:** json (6), csv (3), zip (3)
 > **CLI Commands:** node (6)
@@ -1439,8 +1422,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to bulk import relational CSV data into Neo4j
-> [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-bulk-import-relational-csv-data-into-neo4j?u=76281980)
+#### [How to bulk import relational CSV data into Neo4j](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-bulk-import-relational-csv-data-into-neo4j?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1532,7 +1514,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-bulk-import-relational-csv-data-into-neo4j?u=76281980&t=177)** Let's do our bulk import.
 >
-> **[2:58](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-bulk-import-relational-csv-data-into-neo4j?u=76281980&t=178)** So on the top, right, press play, run Python file.
+> **[2:58](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-bulk-import-relational-csv-data-into-neo4j?u=76281980&t=178)** So on the top, right, press play, run [[Python (Programming Language)|Python]] file.
 >
 > **[3:05](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-bulk-import-relational-csv-data-into-neo4j?u=76281980&t=185)** And let's put in our data.
 >
@@ -1562,14 +1544,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (10), node (4), data (3), next (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (4), python (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** previous video (1), in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to write transactions to Neo4j with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-write-transactions-to-neo4j-with-python?u=76281980)
+#### [How to write transactions to Neo4j with Python](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-write-transactions-to-neo4j-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1577,7 +1558,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-write-transactions-to-neo4j-with-python?u=76281980&t=6)** And we at once took this file and wrote this into the database.
 >
-> **[0:11](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-write-transactions-to-neo4j-with-python?u=76281980&t=11)** Now, let's go the other way around where we have a single transaction and we store the single transaction into our Neo4j database.
+> **[0:11](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-write-transactions-to-neo4j-with-python?u=76281980&t=11)** Now, let's go the other way around where we have a single transaction and we store the single transaction into our [[Neo4j]] database.
 >
 > **[0:19](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-write-transactions-to-neo4j-with-python?u=76281980&t=19)** What we need to do is first here we need to set our import straight.
 >
@@ -1703,7 +1684,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (8), business (8), database (7), [[Neo4j]] (2), data (2)
+> **Frameworks & Libraries:** [[Neo4j]] (2)
 > **CLI Commands:** node (8)
 > **Env Vars:** blic (1), csv (1)
 > **Code Identifiers:** scan_timestamp (1)
@@ -1716,14 +1697,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to explore Neo4j data with the user interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-explore-neo4j-data-with-the-user-interface?u=76281980)
+#### [How to explore Neo4j data with the user interface](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-explore-neo4j-data-with-the-user-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-explore-neo4j-data-with-the-user-interface?u=76281980&t=0)** - [Instructor] Now, we have written our data in with the Bel import and through the transactions, let's look at the data.
 >
-> **[0:06](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-explore-neo4j-data-with-the-user-interface?u=76281980&t=6)** In the AuraDB overview here, you have two options, Explore which is Neo4j Bloom, and Query which is Neo4j Browser.
+> **[0:06](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-explore-neo4j-data-with-the-user-interface?u=76281980&t=6)** In the AuraDB overview here, you have two options, Explore which is [[Neo4j]] Bloom, and Query which is Neo4j Browser.
 >
 > **[0:14](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-explore-neo4j-data-with-the-user-interface?u=76281980&t=14)** So let's start with Explore.
 >
@@ -1801,19 +1781,18 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-explore-neo4j-data-with-the-user-interface?u=76281980&t=305)** So it's created a sub graph for this information that we queried here.
 >
-> **[5:10](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-explore-neo4j-data-with-the-user-interface?u=76281980&t=310)** And with that, let's look into the python way of querying data, not just through this interface.
+> **[5:10](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-explore-neo4j-data-with-the-user-interface?u=76281980&t=310)** And with that, let's look into the [[Python (Programming Language)|python]] way of querying data, not just through this interface.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (12), data (8), [[Neo4j]] (3), node (2), database (2)
+> **Frameworks & Libraries:** [[Neo4j]] (3), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (2), find (1), python (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to query Neo4j database with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-query-neo4j-database-with-python?u=76281980)
+#### [How to query Neo4j database with Python](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-query-neo4j-database-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1825,7 +1804,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-query-neo4j-database-with-python?u=76281980&t=19)** It's nice to look into data ad hoc if you want to search something, but with usually you would use this within code.
 >
-> **[0:27](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-query-neo4j-database-with-python?u=76281980&t=27)** So for that, we use Python as well.
+> **[0:27](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-query-neo4j-database-with-python?u=76281980&t=27)** So for that, we use [[Python (Programming Language)|Python]] as well.
 >
 > **[0:29](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/how-to-query-neo4j-database-with-python?u=76281980&t=29)** We start here in this code by importing graph from py2neo and then a pretty print I used here because it's a bit nicer for the output, so you understand what's going on.
 >
@@ -1937,13 +1916,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (11), data (7), [[Python (Programming Language)|Python]] (2), next (2), database (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** find (4), python (2)
 > **Definitions:** is called (1), is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Neo4j query optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-query-optimization?u=76281980)
+#### [Neo4j query optimization](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-query-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1959,7 +1937,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-query-optimization?u=76281980&t=43)** Indexing is always important.
 >
-> **[0:45](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-query-optimization?u=76281980&t=45)** It's important for relational databases.
+> **[0:45](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-query-optimization?u=76281980&t=45)** It's important for [[Relational Databases]].
 >
 > **[0:47](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/neo4j-query-optimization?u=76281980&t=47)** It's also important for Neo Force.
 >
@@ -2043,7 +2021,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (8), database (5), data (4), hit (3), next (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (1)
 > **CLI Commands:** node (8), make (2), find (1)
 > **Env Vars:** match (6), where (1)
 > **UI Navigation:** go to (2)
@@ -2056,8 +2034,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2067,9 +2044,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/next-steps?u=76281980&t=8)** You might ask yourself, "What should I do next?"
 >
-> **[0:12](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/next-steps?u=76281980&t=12)** I recommend you go and familiarize with yourself with other NoSQL databases that are out there.
+> **[0:12](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/next-steps?u=76281980&t=12)** I recommend you go and familiarize with yourself with other [[NoSQL]] [[Databases]] that are out there.
 >
-> **[0:18](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/next-steps?u=76281980&t=18)** Start with document stores like MongoDB or key/value stores like Redis.
+> **[0:18](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/next-steps?u=76281980&t=18)** Start with document stores like [[MongoDB]] or key/value stores like [[Redis]].
 >
 > **[0:23](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/next-steps?u=76281980&t=23)** Explore time series databases like InfluxDB or wide-column stores like Cassandra.
 >
@@ -2077,9 +2054,9 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/next-steps?u=76281980&t=32)** Where do you find this information?
 >
-> **[0:34](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/next-steps?u=76281980&t=34)** Search the LinkedIn Learning Library.
+> **[0:34](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/next-steps?u=76281980&t=34)** Search the [[LinkedIn]] Learning Library.
 >
-> **[0:36](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/next-steps?u=76281980&t=36)** There is a great selection of individual courses or check out my Data Engineering Academy.
+> **[0:36](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/next-steps?u=76281980&t=36)** There is a great selection of individual courses or check out my [[Data Engineering]] Academy.
 >
 > **[0:42](https://www.linkedin.com/learning/graph-databases-neo4j-for-complex-data-relationships/next-steps?u=76281980&t=42)** There you find a step-by-step path from computer science and engineering basics to platform design fundamental tools up to full hands-on example projects.
 >
@@ -2093,7 +2070,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (2), [[LinkedIn]] (2), [[Data Engineering]] (2), database (1), next (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[LinkedIn]] (2), [[Data Engineering]] (2), [[NoSQL]] (1), [[MongoDB]] (1)
 > **CLI Commands:** find (3)
 > **URLs:** [learndataengineering.com](https://learndataengineering.com) (1)
 > **Definitions:** is a  (1)

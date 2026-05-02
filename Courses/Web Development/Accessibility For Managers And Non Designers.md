@@ -76,16 +76,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accessibility for managers and non-designers
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/accessibility-for-managers-and-non-designers?u=76281980)
+#### [Accessibility for managers and non-designers](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/accessibility-for-managers-and-non-designers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/accessibility-for-managers-and-non-designers?u=76281980&t=0)** - [David] As a manager, are you concerned that your products are not accessible enough?
+> **[0:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/accessibility-for-managers-and-non-designers?u=76281980&t=0)** - [David] As a manager, are you concerned that your [[Microsoft Products|products]] are not accessible enough?
 >
 > **[0:06](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/accessibility-for-managers-and-non-designers?u=76281980&t=6)** Are you worried about the marketing, financial, and legal implications of that?
 >
-> **[0:11](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/accessibility-for-managers-and-non-designers?u=76281980&t=11)** In this course, you'll learn exactly what accessible design involves and the technology and techniques you need to lead designers and developers.
+> **[0:11](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/accessibility-for-managers-and-non-designers?u=76281980&t=11)** In this course, you'll learn exactly what [[Accessible Design]] involves and the technology and techniques you need to lead designers and developers.
 >
 > **[0:24](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/accessibility-for-managers-and-non-designers?u=76281980&t=24)** Along the way, you'll gain a deep understanding of how accessibility adds value to projects and how to communicate that understanding to stakeholders and designers.
 >
@@ -97,12 +96,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Accessible Design]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Accessible Design]] (1)
 > **Env Vars:** nyu (1)
 > **Speakers:** - [david] (1)
 
-#### What is accessibility and why does it matter?
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/what-is-accessibility-and-why-does-it-matter?u=76281980)
+#### [What is accessibility and why does it matter?](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/what-is-accessibility-and-why-does-it-matter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -118,9 +116,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/what-is-accessibility-and-why-does-it-matter?u=76281980&t=27)** Accessibility is sometimes shortened to a11y or a one, one y pronounced that way, but never say ally because those are ones not L's and ally has a different meaning.
 >
-> **[0:46](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/what-is-accessibility-and-why-does-it-matter?u=76281980&t=46)** Accessible design cannot be reduced to a list.
+> **[0:46](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/what-is-accessibility-and-why-does-it-matter?u=76281980&t=46)** [[Accessible Design]] cannot be reduced to a list.
 >
-> **[0:50](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/what-is-accessibility-and-why-does-it-matter?u=76281980&t=50)** An accessibility conscious manager will be thinking creatively about how to make sure that products are usable by the largest possible audience.
+> **[0:50](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/what-is-accessibility-and-why-does-it-matter?u=76281980&t=50)** An accessibility conscious manager will be thinking creatively about how to make sure that [[Microsoft Products|products]] are usable by the largest possible audience.
 >
 > **[1:01](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/what-is-accessibility-and-why-does-it-matter?u=76281980&t=61)** But we can identify five categories to focus on, vision, hearing, motor skills, cognition, and medical issues that can be triggered by harmful flashing designs.
 >
@@ -136,7 +134,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/what-is-accessibility-and-why-does-it-matter?u=76281980&t=129)** The W3 stands for Worldwide Web.
 >
-> **[2:12](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/what-is-accessibility-and-why-does-it-matter?u=76281980&t=132)** The WAI stands for the Web Accessibility Initiative.
+> **[2:12](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/what-is-accessibility-and-why-does-it-matter?u=76281980&t=132)** The WAI stands for the [[Web Accessibility]] Initiative.
 >
 > **[2:18](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/what-is-accessibility-and-why-does-it-matter?u=76281980&t=138)** When in doubt, this is the go-to resource to help you manage accessible design.
 >
@@ -214,7 +212,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accessible Design]] (6), [[Microsoft Products|Products]] (6), web (4), [[Web Accessibility]] (2)
+> **Frameworks & Libraries:** [[Accessible Design]] (6), [[Microsoft Products|Products]] (6), [[Web Accessibility]] (2)
 > **CLI Commands:** make (9)
 > **Definitions:** is a  (3), stands for (2)
 > **Env Vars:** wai (2), pour (1), wcag (1)
@@ -222,12 +220,11 @@ created: 2026-05-02
 > **URLs:** [w3.org](https://w3.org) (1)
 > **Speakers:** - [instructor] (1)
 
-#### How non-developers impact accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/how-non-developers-impact-accessibility?u=76281980)
+#### [How non-developers impact accessibility](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/how-non-developers-impact-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/how-non-developers-impact-accessibility?u=76281980&t=0)** - [Instructor] Ultimately, it will be designers and developers who implement accessible design, and it will be stakeholders who buy into and support building accessible design into products.
+> **[0:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/how-non-developers-impact-accessibility?u=76281980&t=0)** - [Instructor] Ultimately, it will be designers and developers who implement [[Accessible Design]], and it will be stakeholders who buy into and support building accessible design into [[Microsoft Products|products]].
 >
 > **[0:14](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/how-non-developers-impact-accessibility?u=76281980&t=14)** But non-designer, non-developer administrators on every level are the ones who make the whole process work.
 >
@@ -247,13 +244,13 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/how-non-developers-impact-accessibility?u=76281980&t=91)** Ways to do that include bringing in guest speakers, finding online resources to share, and involving people from impacted communities in not just testing, but helping design products.
 >
-> **[1:47](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/how-non-developers-impact-accessibility?u=76281980&t=107)** As a manager, you can find forms for creating an atmosphere where the value of accessible design is in the air where the data is understood, where empathy in human connections have been built, and on that basis you can foster an atmosphere where everyone in the design process is contributing creative initiatives to infuse accessibility into every dimension of product design and development.
+> **[1:47](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/how-non-developers-impact-accessibility?u=76281980&t=107)** As a manager, you can find [[Forms]] for creating an atmosphere where the value of accessible design is in the air where the data is understood, where empathy in human connections have been built, and on that basis you can foster an atmosphere where everyone in the design process is contributing creative initiatives to infuse accessibility into every dimension of [[Product Design]] and development.
 >
 > **[2:17](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/how-non-developers-impact-accessibility?u=76281980&t=137)** And accessibility inclusive culture is critical, but it's not enough.
 >
 > **[2:22](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/how-non-developers-impact-accessibility?u=76281980&t=142)** Accessible design has to be translated into policies.
 >
-> **[2:27](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/how-non-developers-impact-accessibility?u=76281980&t=147)** At every stage of the design and development of a product there should be reporting and accountability.
+> **[2:27](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/how-non-developers-impact-accessibility?u=76281980&t=147)** At every stage of the design and development of a product there should be reporting and [[Accountability]].
 >
 > **[2:35](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/how-non-developers-impact-accessibility?u=76281980&t=155)** As a manager, you know how to implement accessibility.
 >
@@ -261,13 +258,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accessible Design]] (5), product (3), [[Microsoft Products|Products]] (2), [[Forms]] (1), data (1)
+> **Frameworks & Libraries:** [[Accessible Design]] (5), [[Microsoft Products|Products]] (2), [[Forms]] (1), [[Product Design]] (1), [[Accountability]] (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designing with an inclusive orientation
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-with-an-inclusive-orientation?u=76281980)
+#### [Designing with an inclusive orientation](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-with-an-inclusive-orientation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -283,7 +279,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-with-an-inclusive-orientation?u=76281980&t=53)** Inclusivity is an accessibility factor.
 >
-> **[0:58](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-with-an-inclusive-orientation?u=76281980&t=58)** It expands audience and enhances user experience.
+> **[0:58](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-with-an-inclusive-orientation?u=76281980&t=58)** It expands audience and enhances [[User Experience (UX)|user experience]].
 >
 > **[1:03](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-with-an-inclusive-orientation?u=76281980&t=63)** In addition, inclusivity projects a positive image for a company, a product, an organization, or a message.
 >
@@ -299,7 +295,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-with-an-inclusive-orientation?u=76281980&t=134)** Like all accessible features, inclusive design expands your audience and makes a better user experience for everyone.
 >
-> **[2:25](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-with-an-inclusive-orientation?u=76281980&t=145)** If you don't believe me, pay attention to how big TV advertisers with massive budgets, or online advertisers, pay close attention to providing an inclusive look and feel to their design products.
+> **[2:25](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-with-an-inclusive-orientation?u=76281980&t=145)** If you don't believe me, pay attention to how big TV advertisers with massive budgets, or online advertisers, pay close attention to providing an inclusive look and feel to their design [[Microsoft Products|products]].
 >
 > **[2:41](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-with-an-inclusive-orientation?u=76281980&t=161)** Their research tells them this makes their message stick with more impact.
 >
@@ -307,22 +303,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), product (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** nyu (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Leveraging value from accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/leveraging-value-from-accessibility?u=76281980)
+#### [Leveraging value from accessibility](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/leveraging-value-from-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/leveraging-value-from-accessibility?u=76281980&t=0)** - [Instructor] Let's talk briefly about how to leverage value from accessible design.
+> **[0:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/leveraging-value-from-accessibility?u=76281980&t=0)** - [Instructor] Let's talk briefly about how to leverage value from [[Accessible Design]].
 >
 > **[0:07](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/leveraging-value-from-accessibility?u=76281980&t=7)** Accessible design allows you to reach a qualitatively larger audience with digital design content, and there's an argument in its own right, but that's not all.
 >
-> **[0:19](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/leveraging-value-from-accessibility?u=76281980&t=19)** Accessible design makes the user experience more positive for everyone, and accessible design tells the world you care about reaching disabled people, and accessible design is the right thing to do.
+> **[0:19](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/leveraging-value-from-accessibility?u=76281980&t=19)** Accessible design makes the [[User Experience (UX)|user experience]] more positive for everyone, and accessible design tells the world you care about reaching disabled people, and accessible design is the right thing to do.
 >
 > **[0:36](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/leveraging-value-from-accessibility?u=76281980&t=36)** Accessible design doesn't just boil down to numbers, but consider the range of people who are directly impacted.
 >
@@ -368,7 +363,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accessible Design]] (9), [[User Experience (UX)|User experience]] (2), product (2)
+> **Frameworks & Libraries:** [[Accessible Design]] (9), [[User Experience (UX)|User experience]] (2)
 > **Analogies:** for example (5)
 > **Env Vars:** adhd (2)
 > **Speakers:** - [instructor] (1)
@@ -378,8 +373,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing for accessible visual perception
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-for-accessible-visual-perception?u=76281980)
+#### [Designing for accessible visual perception](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-for-accessible-visual-perception?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -405,7 +399,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-for-accessible-visual-perception?u=76281980&t=118)** There are other advantages to using alt text as well.
 >
-> **[2:02](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-for-accessible-visual-perception?u=76281980&t=122)** It improves search engine optimization because even with all the artificial intelligence tools in search engines now, they don't really search image content as well as they search text.
+> **[2:02](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-for-accessible-visual-perception?u=76281980&t=122)** It improves [[Search Engine Optimization (SEO)|search engine optimization]] because even with all the [[Artificial Intelligence (AI)|artificial intelligence]] tools in search engines now, they don't really search image content as well as they search text.
 >
 > **[2:15](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-for-accessible-visual-perception?u=76281980&t=135)** So including alt text in the example that you're looking on the screen, for example, will bring someone searching for pictures of the Brooklyn Bridge to your webpage.
 >
@@ -427,25 +421,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (2)
 > **URLs:** [webaim.org](https://webaim.org) (1)
 > **Definitions:** short for (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designing for audio accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-for-audio-accessibility?u=76281980)
+#### [Designing for audio accessibility](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-for-audio-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-for-audio-accessibility?u=76281980&t=0)** - [Lecturer] The case for audio does not just boil down to numbers but the numbers alone do make the case.
 >
-> **[0:08](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-for-audio-accessibility?u=76281980&t=8)** You can take a look at these statistics, look around, people who you know are wearing hearing aids, have trouble hearing, and the world's population is aging.
+> **[0:08](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-for-audio-accessibility?u=76281980&t=8)** You can take a look at these [[Statistics]], look around, people who you know are wearing hearing aids, have trouble hearing, and the world's population is aging.
 >
 > **[0:19](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-for-audio-accessibility?u=76281980&t=19)** And as it does, the need for audio accessible content is growing as well.
 >
-> **[0:26](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-for-audio-accessibility?u=76281980&t=26)** Let's review a few dos to keep in mind when leading and evaluating accessible design.
+> **[0:26](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-for-audio-accessibility?u=76281980&t=26)** Let's review a few dos to keep in mind when leading and evaluating [[Accessible Design]].
 >
 > **[0:34](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-for-audio-accessibility?u=76281980&t=34)** First of all, provide text backups for content that relies on audio or visual interpretation.
 >
@@ -504,12 +497,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1), be aware (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Aligning design for operative mobility
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/aligning-design-for-operative-mobility?u=76281980)
+#### [Aligning design for operative mobility](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/aligning-design-for-operative-mobility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/aligning-design-for-operative-mobility?u=76281980&t=0)** - [Presenter] Here are a couple troubling statistics.
+> **[0:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/aligning-design-for-operative-mobility?u=76281980&t=0)** - [Presenter] Here are a couple troubling [[Statistics]].
 >
 > **[0:03](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/aligning-design-for-operative-mobility?u=76281980&t=3)** I think you'll agree.
 >
@@ -521,7 +513,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/aligning-design-for-operative-mobility?u=76281980&t=18)** 23% of disabled people surveyed in a 2021 Pew Research study say they never go online, and that's not right.
 >
-> **[0:30](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/aligning-design-for-operative-mobility?u=76281980&t=30)** The case for accessible design does not just boil down to numbers, but people with motor skill impairments are a visible, active, and important part of society and should not be prevented from engaging with web content.
+> **[0:30](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/aligning-design-for-operative-mobility?u=76281980&t=30)** The case for [[Accessible Design]] does not just boil down to numbers, but people with motor skill impairments are a visible, active, and important part of society and should not be prevented from engaging with web content.
 >
 > **[0:45](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/aligning-design-for-operative-mobility?u=76281980&t=45)** As with all accessible design, providing access to people with motor disabilities, for example, someone who cannot use a mouse, is a good design practice for any user.
 >
@@ -553,7 +545,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/aligning-design-for-operative-mobility?u=76281980&t=173)** Avoid design projects that only work in one particular viewport, like a phone or a laptop.
 >
-> **[3:01](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/aligning-design-for-operative-mobility?u=76281980&t=181)** Make it easy for people filling out forms to select an input even if they can't use a mouse.
+> **[3:01](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/aligning-design-for-operative-mobility?u=76281980&t=181)** Make it easy for people filling out [[Forms]] to select an input even if they can't use a mouse.
 >
 > **[3:08](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/aligning-design-for-operative-mobility?u=76281980&t=188)** And here's another one.
 >
@@ -581,7 +573,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accessible Design]] (2), [[Forms]] (2), [[Statistics]] (1), web (1)
+> **Frameworks & Libraries:** [[Accessible Design]] (2), [[Forms]] (2), [[Statistics]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -590,8 +582,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [presenter] (1)
 
-#### Designing with understandable and robust cognition
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-with-understandable-and-robust-cognition?u=76281980)
+#### [Designing with understandable and robust cognition](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-with-understandable-and-robust-cognition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -607,7 +598,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-with-understandable-and-robust-cognition?u=76281980&t=70)** But that's far from the full positive impact of cognitive design.
 >
-> **[1:16](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-with-understandable-and-robust-cognition?u=76281980&t=76)** In fact, permanent or temporary interference with cognition takes an infinite number of forms.
+> **[1:16](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-with-understandable-and-robust-cognition?u=76281980&t=76)** In fact, permanent or temporary interference with cognition takes an infinite number of [[Forms]].
 >
 > **[1:24](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-with-understandable-and-robust-cognition?u=76281980&t=84)** It can be a user who's tired, who's stressed out, who's dealing with a racket in the background.
 >
@@ -643,7 +634,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-with-understandable-and-robust-cognition?u=76281980&t=223)** So if interacting with a website requires knowing what day it is, let alone knowing what the best appointment open in four weeks is, that's going to disable a lot of people unless you provide them with some tools, like the calendar you see here for solving that.
 >
-> **[4:01](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-with-understandable-and-robust-cognition?u=76281980&t=241)** And by the way, the positive examples of providing cognitive tools like the one on the right and in the rest of this video, come from a prototype of a graphic and UI UX project by designer, June Wang.
+> **[4:01](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-with-understandable-and-robust-cognition?u=76281980&t=241)** And by the way, the positive examples of providing cognitive tools like the one on the right and in the [[Representational State Transfer (REST)|rest]] of this video, come from a prototype of a graphic and UI UX project by designer, June Wang.
 >
 > **[4:17](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-with-understandable-and-robust-cognition?u=76281980&t=257)** Where was I in this presentation?
 >
@@ -663,7 +654,7 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-with-understandable-and-robust-cognition?u=76281980&t=318)** Let's face it, people without cognitive issues are not always 100% focused on what button they're about to click on a website.
 >
-> **[5:26](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-with-understandable-and-robust-cognition?u=76281980&t=326)** So good accessible design will make the process of intuiting which button to click or tap as simple as possible.
+> **[5:26](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-with-understandable-and-robust-cognition?u=76281980&t=326)** So good [[Accessible Design]] will make the process of intuiting which button to click or tap as simple as possible.
 >
 > **[5:39](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/designing-with-understandable-and-robust-cognition?u=76281980&t=339)** Avoid putting undue stress on a user's memory.
 >
@@ -687,7 +678,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (1), [[Forms]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1), ux (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Accessible Design]] (1)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2)
@@ -696,12 +687,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Avoiding triggering medical issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/avoiding-triggering-medical-issues?u=76281980)
+#### [Avoiding triggering medical issues](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/avoiding-triggering-medical-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/avoiding-triggering-medical-issues?u=76281980&t=0)** - [Instructor] A quick disclaimer, before I begin discussing how accessible design applies to avoiding triggering medical conditions.
+> **[0:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/avoiding-triggering-medical-issues?u=76281980&t=0)** - [Instructor] A quick disclaimer, before I begin discussing how [[Accessible Design]] applies to avoiding triggering medical conditions.
 >
 > **[0:11](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/avoiding-triggering-medical-issues?u=76281980&t=11)** And the disclaimer is, I'm not a doctor.
 >
@@ -713,7 +703,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/avoiding-triggering-medical-issues?u=76281980&t=47)** You can get more details from the Epilepsy Foundation.
 >
-> **[0:52](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/avoiding-triggering-medical-issues?u=76281980&t=52)** And here's the basic statistics.
+> **[0:52](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/avoiding-triggering-medical-issues?u=76281980&t=52)** And here's the basic [[Statistics]].
 >
 > **[0:56](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/avoiding-triggering-medical-issues?u=76281980&t=56)** About three to 5% of the 2.7 million Americans with epilepsy are photosensitive, and can have epileptic seizures, triggered by strobe lights.
 >
@@ -727,7 +717,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/avoiding-triggering-medical-issues?u=76281980&t=104)** The Trace Research and Development Center provides a photo sensitive epilepsy analysis tool called Pete that can help designers determine whether or not animations or video in their content are likely to cause seizures.
 >
-> **[2:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/avoiding-triggering-medical-issues?u=76281980&t=120)** And major commercial digital products use another product called the Harding Test to rule out the danger that their content might provoke seizures.
+> **[2:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/avoiding-triggering-medical-issues?u=76281980&t=120)** And major commercial digital [[Microsoft Products|products]] use another product called the Harding Test to rule out the danger that their content might provoke seizures.
 >
 > **[2:12](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/avoiding-triggering-medical-issues?u=76281980&t=132)** Here's the short story.
 >
@@ -737,7 +727,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accessible Design]] (1), web (1), [[Statistics]] (1), [[Microsoft Products|Products]] (1), product (1)
+> **Frameworks & Libraries:** [[Accessible Design]] (1), [[Statistics]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Versions:** 2.7 (1)
 > **Warnings:** caution (1)
@@ -748,8 +738,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Development standards for accessible products
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980)
+#### [Development standards for accessible products](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -761,7 +750,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980&t=25)** The tools are available, and testing is well within your reach.
 >
-> **[0:32](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980&t=32)** How do administrators lead accessible design?
+> **[0:32](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980&t=32)** How do administrators lead [[Accessible Design]]?
 >
 > **[0:36](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980&t=36)** Basically two things.
 >
@@ -769,7 +758,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980&t=41)** By knowledge, I mean being at least conversant in developer speak.
 >
-> **[0:46](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980&t=46)** That goes a long way in building accessible products.
+> **[0:46](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980&t=46)** That goes a long way in building accessible [[Microsoft Products|products]].
 >
 > **[0:51](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980&t=51)** And administrators must communicate potential accessibility issues to the technical staff working on products or experiences.
 >
@@ -777,25 +766,25 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980&t=75)** As an administrator, here are some questions you should ask about digital design projects.
 >
-> **[1:22](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980&t=82)** Is the typography readable?
+> **[1:22](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980&t=82)** Is the [[Typography]] readable?
 >
 > **[1:25](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980&t=85)** Is the color contrast between text and a background sufficient for vision-impaired users?
 >
 > **[1:33](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980&t=93)** Are blind users provided with text to describe what they cannot see?
 >
-> **[1:39](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980&t=99)** Are audio and video elements supplemented with closed captioning or transcripts, and are forms usable for people who cannot use a mouse?
+> **[1:39](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980&t=99)** Are audio and video elements supplemented with closed captioning or transcripts, and are [[Forms]] usable for people who cannot use a mouse?
 >
 > **[1:53](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980&t=113)** Here are a few basic terms you should at least be familiar with.
 >
-> **[1:59](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980&t=119)** HTML is the basic language that webpages are coded with.
+> **[1:59](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980&t=119)** [[HTML]] is the basic language that webpages are coded with.
 >
 > **[2:03](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980&t=123)** CSS is the basic language that webpages are styled with.
 >
-> **[2:10](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980&t=130)** JavaScript adds interaction and animation.
+> **[2:10](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980&t=130)** [[JavaScript]] adds interaction and animation.
 >
 > **[2:16](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980&t=136)** And finally, ARIA refers to accessibility coding that goes with JavaScript.
 >
-> **[2:24](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980&t=144)** Finally, you will be working or may be working with developers who use libraries of accessibility features that are built into coding, Apple, and Android apps.
+> **[2:24](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980&t=144)** Finally, you will be working or may be working with developers who use libraries of accessibility features that are built into coding, Apple, and [[Android]] apps.
 >
 > **[2:38](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/development-standards-for-accessible-products?u=76281980&t=158)** So, administrators should be conversant at least, if not fluent, in technologies that are used to make digital design accessible.
 >
@@ -845,12 +834,11 @@ created: 2026-05-02
 > **URLs:** [webaim.org](https://webaim.org) (1)
 > **Speakers:** - [david] (1)
 
-#### Accessible forms
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/accessible-forms?u=76281980)
+#### [Accessible forms](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/accessible-forms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/accessible-forms?u=76281980&t=0)** - [Instructor] Why are accessible forms so important?
+> **[0:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/accessible-forms?u=76281980&t=0)** - [Instructor] Why are accessible [[Forms]] so important?
 >
 > **[0:04](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/accessible-forms?u=76281980&t=4)** Two reasons.
 >
@@ -878,7 +866,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/accessible-forms?u=76281980&t=87)** That makes it easy for people to choose from a set of color options.
 >
-> **[1:33](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/accessible-forms?u=76281980&t=93)** Designers in any environment can use HTML or other tools to provide helpful feedback for users as they fill out a form.
+> **[1:33](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/accessible-forms?u=76281980&t=93)** Designers in any environment can use [[HTML]] or other tools to provide helpful feedback for users as they fill out a form.
 >
 > **[1:43](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/accessible-forms?u=76281980&t=103)** So for example, telling users which fields in a form are required just makes it easier and more inviting for anyone filling out a form, not just cognitively impaired people.
 >
@@ -924,15 +912,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (10), data (5), [[HTML]] (2), next (2), hit (1)
+> **Frameworks & Libraries:** [[Forms]] (10), [[HTML]] (2)
 > **CLI Commands:** make (6)
 > **Env Vars:** html (2)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Image accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/image-accessibility?u=76281980)
+#### [Image accessibility](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/image-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -952,7 +939,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/image-accessibility?u=76281980&t=70)** So it makes webpages easier to find.
 >
-> **[1:13](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/image-accessibility?u=76281980&t=73)** It enhances the SEO, search engine optimization, of your webpage.
+> **[1:13](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/image-accessibility?u=76281980&t=73)** It enhances the SEO, [[Search Engine Optimization (SEO)|search engine optimization]], of your webpage.
 >
 > **[1:21](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/image-accessibility?u=76281980&t=81)** Alt text is not just for photos.
 >
@@ -962,7 +949,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/image-accessibility?u=76281980&t=101)** Let's experience what it's like for a blind shopper to explore different color and pattern options for a product.
 >
-> **[1:50](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/image-accessibility?u=76281980&t=110)** I will use my keyboard to move between different colors and patterns for a product, and we'll hear audio descriptions for those products.
+> **[1:50](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/image-accessibility?u=76281980&t=110)** I will use my keyboard to move between different colors and patterns for a product, and we'll hear audio descriptions for those [[Microsoft Products|products]].
 >
 > **[2:02](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/image-accessibility?u=76281980&t=122)** - [Narrator] You are currently on a button, group.
 >
@@ -1002,7 +989,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/image-accessibility?u=76281980&t=192)** And here's the importance of a metapoint I've been making throughout this series of videos.
 >
-> **[3:18](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/image-accessibility?u=76281980&t=198)** Accessible design does not mean creating an identical experience for blind users or any other disabled users.
+> **[3:18](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/image-accessibility?u=76281980&t=198)** [[Accessible Design]] does not mean creating an identical experience for blind users or any other disabled users.
 >
 > **[3:27](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/image-accessibility?u=76281980&t=207)** It's about creating the optimal experience for everyone.
 >
@@ -1022,7 +1009,7 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/image-accessibility?u=76281980&t=283)** It's a free, downloadable resource for developers to test for seizure links.
 >
-> **[4:50](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/image-accessibility?u=76281980&t=290)** Here's a two-word takeaway from this video, alt text.
+> **[4:50](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/image-accessibility?u=76281980&t=290)** Here's a two-[[Microsoft Word|word]] takeaway from this video, alt text.
 >
 > **[4:55](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/image-accessibility?u=76281980&t=295)** Organize your design and development process to gather alt text as you gather illustrations, and build in writing alt text where needed and saving it as part of your design and development process.
 >
@@ -1034,7 +1021,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), seo (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Microsoft Products|Products]] (1), [[Accessible Design]] (1)
+> **Frameworks & Libraries:** [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Microsoft Products|Products]] (1), [[Accessible Design]] (1), [[Microsoft Word|Word]] (1)
 > **Speakers:** - [instructor] (2), - [narrator] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** seo (1), peat (1)
@@ -1042,8 +1029,7 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Warnings:** note that (1)
 
-#### Audio accessibilty
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/audio-accessibilty?u=76281980)
+#### [Audio accessibilty](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/audio-accessibilty?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1061,7 +1047,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/audio-accessibilty?u=76281980&t=57)** And there are important legal, economic, and social implications for making audio projects accessible to hearing-impaired people.
 >
-> **[1:08](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/audio-accessibilty?u=76281980&t=68)** Just for example, in response to a lawsuit in 2019, Harvard adopted a Digital Accessibility Policy of committing to provide captions and transcripts, and that was in response to a lawsuit by Advocates for the Deaf.
+> **[1:08](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/audio-accessibilty?u=76281980&t=68)** Just for example, in response to a lawsuit in 2019, Harvard adopted a [[Digital Accessibility]] Policy of committing to provide captions and transcripts, and that was in response to a lawsuit by Advocates for the Deaf.
 >
 > **[1:26](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/audio-accessibilty?u=76281980&t=86)** The most basic and essentially free tool in making audio accessibility is to enable closed captioning and automatically-generated captions can be embedded in YouTube videos.
 >
@@ -1097,7 +1083,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), [[Digital Accessibility]] (1), seo (1)
+> **Frameworks & Libraries:** [[Digital Accessibility]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Env Vars:** seo (1)
@@ -1106,8 +1092,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
 
-#### Content hierarchy and structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/content-hierarchy-and-structure?u=76281980)
+#### [Content hierarchy and structure](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/content-hierarchy-and-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1162,22 +1147,21 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 
-#### Semantic markup
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/semantic-markup?u=76281980)
+#### [Semantic markup](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/semantic-markup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/semantic-markup?u=76281980&t=0)** - [Instructor] Semantic markup is a factor in making websites accessible.
+> **[0:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/semantic-markup?u=76281980&t=0)** - [Instructor] [[Semantic Markup]] is a factor in making websites accessible.
 >
 > **[0:06](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/semantic-markup?u=76281980&t=6)** What is semantic markup?
 >
-> **[0:08](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/semantic-markup?u=76281980&t=8)** Well, for coders, semantic markup is a way to code HTML that makes more sense because elements have names like article or form, instead of just generic names like div, which is short for division.
+> **[0:08](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/semantic-markup?u=76281980&t=8)** Well, for coders, semantic markup is a way to code [[HTML]] that makes more sense because elements have names like article or form, instead of just generic names like div, which is short for division.
 >
 > **[0:24](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/semantic-markup?u=76281980&t=24)** Now, you don't need me to tell you what a header tag defines or a footer.
 >
 > **[0:30](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/semantic-markup?u=76281980&t=30)** nav is short for navigation content, and a link is, well, you know, a link.
 >
-> **[0:38](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/semantic-markup?u=76281980&t=38)** So accessible design uses semantic markup to make content more accessible to people with disabilities.
+> **[0:38](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/semantic-markup?u=76281980&t=38)** So [[Accessible Design]] uses semantic markup to make content more accessible to people with disabilities.
 >
 > **[0:47](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/semantic-markup?u=76281980&t=47)** And as a collateral asset, semantic markup makes it much easier for search engines to connect people with your webpage and content.
 >
@@ -1185,7 +1169,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/semantic-markup?u=76281980&t=69)** And within a webpage, semantic markup allows browsers to announce to a blind visitor where she or he is on a page in the header, in the footer, in a main section, or somewhere else.
 >
-> **[1:25](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/semantic-markup?u=76281980&t=85)** I think it's safe for us to anticipate looking a little bit into the future that with all the developments going on with artificial intelligence, screen readers will learn to find even better ways to convey content that is in a header or a section or a sidebar, for example.
+> **[1:25](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/semantic-markup?u=76281980&t=85)** I think it's safe for us to anticipate looking a little bit into the future that with all the developments going on with [[Artificial Intelligence (AI)|artificial intelligence]], screen readers will learn to find even better ways to convey content that is in a header or a section or a sidebar, for example.
 >
 > **[1:46](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/semantic-markup?u=76281980&t=106)** Semantic markup announces when a user is inside a form and what kind of information is being asked for in any input, like a name, a date, or an email address.
 >
@@ -1199,11 +1183,11 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/semantic-markup?u=76281980&t=170)** So the value of semantic markup in accessibility is that it helps blind users connect with content on a page.
 >
-> **[3:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/semantic-markup?u=76281980&t=180)** And don't forget the collateral value that semantic markup enhance the search engine optimization.
+> **[3:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/semantic-markup?u=76281980&t=180)** And don't forget the collateral value that semantic markup enhance the [[Search Engine Optimization (SEO)|search engine optimization]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Semantic Markup]] (14), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[HTML]] (1), generic (1), [[Accessible Design]] (1)
+> **Frameworks & Libraries:** [[Semantic Markup]] (14), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[HTML]] (1), [[Accessible Design]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
 > **Definitions:** is a  (3), short for (2)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** html (1)
@@ -1211,16 +1195,15 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### The role of ARIA
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/the-role-of-aria?u=76281980)
+#### [The role of ARIA](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/the-role-of-aria?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/the-role-of-aria?u=76281980&t=0)** - [Instructor] ARIA, which stands for Accessible Rich Internet Applications, extends accessibility into content that uses more complex coding than that in a basic webpage.
 >
-> **[0:13](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/the-role-of-aria?u=76281980&t=13)** For example, JavaScript based slide shows, or other animated content, can use ARIA properties to tell browsers how to make that content more accessible for a disabled user.
+> **[0:13](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/the-role-of-aria?u=76281980&t=13)** For example, [[JavaScript]] based slide shows, or other animated content, can use ARIA properties to tell browsers how to make that content more accessible for a disabled user.
 >
-> **[0:29](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/the-role-of-aria?u=76281980&t=29)** In the example of a slideshow, ARIA can provide properties in HTML code that enable a browser to announce to a user that you are looking at slide two of a presentation, and that the next icon is currently selected.
+> **[0:29](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/the-role-of-aria?u=76281980&t=29)** In the example of a slideshow, ARIA can provide properties in [[HTML]] code that enable a browser to announce to a user that you are looking at slide two of a presentation, and that the next icon is currently selected.
 >
 > **[0:47](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/the-role-of-aria?u=76281980&t=47)** Again, the reason for ARIA is that modern websites sometimes require animation and interactivity beyond what can be coded in HTML.
 >
@@ -1242,7 +1225,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), [[JavaScript]] (2), next (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[JavaScript]] (2)
 > **Env Vars:** aria (10), html (4)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
@@ -1255,12 +1238,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing with impacted users
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/testing-with-impacted-users?u=76281980)
+#### [Testing with impacted users](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/testing-with-impacted-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/testing-with-impacted-users?u=76281980&t=0)** - [Instructor] People who have difficulty accessing or interacting with digital design products are a priceless resource in evaluating accessibility.
+> **[0:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/testing-with-impacted-users?u=76281980&t=0)** - [Instructor] People who have difficulty accessing or interacting with digital design [[Microsoft Products|products]] are a priceless resource in evaluating accessibility.
 >
 > **[0:12](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/testing-with-impacted-users?u=76281980&t=12)** Formal accessibility testing can be done by experts using defined protocols, interviews, and controlled tests and observations.
 >
@@ -1318,7 +1300,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/testing-with-impacted-users?u=76281980&t=229)** One of them is Fable.
 >
-> **[3:52](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/testing-with-impacted-users?u=76281980&t=232)** Before closing this video I want to acknowledge the contributions to web accessibility by the late John Slatin.
+> **[3:52](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/testing-with-impacted-users?u=76281980&t=232)** Before closing this video I want to acknowledge the contributions to [[Web Accessibility]] by the late [[John the Ripper|John]] Slatin.
 >
 > **[4:01](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/testing-with-impacted-users?u=76281980&t=241)** He was until his death a pioneer in web accessibility.
 >
@@ -1326,13 +1308,13 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/testing-with-impacted-users?u=76281980&t=250)** He was co-director of the Web Content Accessibility Guidelines, WCHE, when it was updated and revised to the W3C guidelines 2.0.
 >
-> **[4:23](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/testing-with-impacted-users?u=76281980&t=263)** John Slatin drew on and brought his experience, his research, and his advocacy for accessible design from many sources.
+> **[4:23](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/testing-with-impacted-users?u=76281980&t=263)** John Slatin drew on and brought his experience, his research, and his advocacy for [[Accessible Design]] from many sources.
 >
 > **[4:32](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/testing-with-impacted-users?u=76281980&t=272)** But one of them was that he was blind himself.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Web Accessibility]] (2), strengths (1), web (1), [[Accessible Design]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[John the Ripper|John]] (3), [[Web Accessibility]] (2), [[Accessible Design]] (1)
 > **CLI Commands:** find (3)
 > **Analogies:** for example (3)
 > **Env Vars:** wche (1), w3c (1)
@@ -1340,8 +1322,7 @@ created: 2026-05-02
 > **Documentation:** w3c (1)
 > **Speakers:** - [instructor] (1)
 
-#### Nontechnical testing resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/nontechnical-testing-resources?u=76281980)
+#### [Nontechnical testing resources](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/nontechnical-testing-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1349,7 +1330,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/nontechnical-testing-resources?u=76281980&t=12)** I'm going to be using screen grabs from the WAVE accessibility evaluation tool which can be installed as a plugin in browsers.
 >
-> **[0:22](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/nontechnical-testing-resources?u=76281980&t=22)** This tool allows a non-designer, non-developer who is basically conversant with the key elements of digital accessibility, things I cover in other videos in this course, to quickly get a pretty accurate picture of how accessible a page is.
+> **[0:22](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/nontechnical-testing-resources?u=76281980&t=22)** This tool allows a non-designer, non-developer who is basically conversant with the key elements of [[Digital Accessibility]], things I cover in other videos in this course, to quickly get a pretty accurate picture of how accessible a page is.
 >
 > **[0:39](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/nontechnical-testing-resources?u=76281980&t=39)** And features include whether or not a site uses alt text consistently, whether or not the contrast between page background and text color is sufficient, whether or not the page is structured in a way that makes the content digestible by blind people, and what the page has write, like properly define the accessibility features.
 >
@@ -1367,9 +1348,9 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/nontechnical-testing-resources?u=76281980&t=142)** In WAVE, I can also click on a color contrast error icon to examine instances where the contrast between text background and text color is not sufficient to allow users with impaired vision to read the text.
 >
-> **[2:39](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/nontechnical-testing-resources?u=76281980&t=159)** HTML semantic markup, and I'm talking about code like header, footer, nav, article section, or aside can help users who rely on screen readers to navigate through and understand where they're at in a webpage.
+> **[2:39](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/nontechnical-testing-resources?u=76281980&t=159)** [[HTML]] [[Semantic Markup]], and I'm talking about code like header, footer, nav, article section, or aside can help users who rely on screen readers to navigate through and understand where they're at in a webpage.
 >
-> **[2:58](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/nontechnical-testing-resources?u=76281980&t=178)** In other videos in this course, I explain how to use semantic markup, what it is, and in detail, how that gets implemented in web design.
+> **[2:58](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/nontechnical-testing-resources?u=76281980&t=178)** In other videos in this course, I explain how to use semantic markup, what it is, and in detail, how that gets implemented in [[Web Design]].
 >
 > **[3:09](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/nontechnical-testing-resources?u=76281980&t=189)** But here I'm demonstrating how to view and identify an error message in the alerts section of the WAVE accessibility tool that tells us that there are problems with markup.
 >
@@ -1391,21 +1372,20 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/nontechnical-testing-resources?u=76281980&t=248)** So that's a simple test you can do yourself to make sure that a page has basic accessibility for people with limited mobility.
 >
-> **[4:19](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/nontechnical-testing-resources?u=76281980&t=259)** If the WAVE browser extension detects errors in alt text or inaccessible form elements in color contrast, in structure, or other issues, or if you identify issues like content that's inaccessible to deaf or hearing impaired or blind or vision impaired users, then you are in a position to initiate a collegial discussion with your designers and developers to learn more about what they're doing and to help them solve obstacles to creating a more accessible design.
+> **[4:19](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/nontechnical-testing-resources?u=76281980&t=259)** If the WAVE browser extension detects errors in alt text or inaccessible form elements in color contrast, in structure, or other issues, or if you identify issues like content that's inaccessible to deaf or hearing impaired or blind or vision impaired users, then you are in a position to initiate a collegial discussion with your designers and developers to learn more about what they're doing and to help them solve obstacles to creating a more [[Accessible Design]].
 >
 > **[4:55](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/nontechnical-testing-resources?u=76281980&t=295)** And if you're learning about how accessibilities are being addressed through your review, find ways to express your appreciation and encourage that initiative.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Semantic Markup]] (2), [[Digital Accessibility]] (1), [[HTML]] (1), [[Accessible Design]] (1)
+> **Frameworks & Libraries:** [[Semantic Markup]] (2), [[Digital Accessibility]] (1), [[HTML]] (1), [[Web Design]] (1), [[Accessible Design]] (1)
 > **Env Vars:** wave (6), html (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common-sense testing with an inclusive mindset
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/common-sense-testing-with-an-inclusive-mindset?u=76281980)
+#### [Common-sense testing with an inclusive mindset](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/common-sense-testing-with-an-inclusive-mindset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1413,7 +1393,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/common-sense-testing-with-an-inclusive-mindset?u=76281980&t=10)** Leverage that experience.
 >
-> **[0:13](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/common-sense-testing-with-an-inclusive-mindset?u=76281980&t=13)** To put things in more basic terms, accessible design is an application of basic communication design principles, the POUR acronym, P O U R; Perceivable, Operable, Understandable, Robust, is a concentrated checklist for making sure that basic communication design principles have been applied to any project.
+> **[0:13](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/common-sense-testing-with-an-inclusive-mindset?u=76281980&t=13)** To put things in more basic terms, [[Accessible Design]] is an application of basic communication design principles, the POUR acronym, P O U R; Perceivable, Operable, Understandable, Robust, is a concentrated checklist for making sure that basic communication design principles have been applied to any project.
 >
 > **[0:40](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/common-sense-testing-with-an-inclusive-mindset?u=76281980&t=40)** As a project manager, a stakeholder, an art director or anyone responsible for all or part of the process of creating digital designs, you have a communication design sensibility.
 >
@@ -1439,7 +1419,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/common-sense-testing-with-an-inclusive-mindset?u=76281980&t=119)** Feel free to hit pause in the video now and let's see if your list of concerns matches mine.
 >
-> **[2:06](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/common-sense-testing-with-an-inclusive-mindset?u=76281980&t=126)** I know that standard forms that ask for a date come with a calendar icon.
+> **[2:06](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/common-sense-testing-with-an-inclusive-mindset?u=76281980&t=126)** I know that standard [[Forms]] that ask for a date come with a calendar icon.
 >
 > **[2:16](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/common-sense-testing-with-an-inclusive-mindset?u=76281980&t=136)** That helps people who have trouble keeping track with dates select a date and it makes it easier for people who can't navigate with a mouse to choose a date.
 >
@@ -1475,7 +1455,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accessible Design]] (1), application (1), hit (1), [[Forms]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Accessible Design]] (1), [[Forms]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** pour (1)
@@ -1489,8 +1469,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating an inclusive-conscious environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/creating-an-inclusive-conscious-environment?u=76281980)
+#### [Creating an inclusive-conscious environment](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/creating-an-inclusive-conscious-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1498,7 +1477,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/creating-an-inclusive-conscious-environment?u=76281980&t=8)** First of all, as I demonstrate over and over in this course, accessibility is not an option for a successful design project.
 >
-> **[0:17](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/creating-an-inclusive-conscious-environment?u=76281980&t=17)** Yes, policies are required to make sure projects are accessible like mandating that all digital design products adhere to WCAG, that's the Web Content Accessibility Guidelines standards, but policy alone is not sufficient.
+> **[0:17](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/creating-an-inclusive-conscious-environment?u=76281980&t=17)** Yes, policies are required to make sure projects are accessible like mandating that all digital design [[Microsoft Products|products]] adhere to WCAG, that's the Web Content Accessibility Guidelines standards, but policy alone is not sufficient.
 >
 > **[0:38](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/creating-an-inclusive-conscious-environment?u=76281980&t=38)** An accessibility conscious environment uncorks creativity, productivity, and quality accessible products.
 >
@@ -1510,9 +1489,9 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/creating-an-inclusive-conscious-environment?u=76281980&t=78)** And adherence to WCAG contracts is required for most government contracts and most contracts that get government funding.
 >
-> **[1:29](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/creating-an-inclusive-conscious-environment?u=76281980&t=89)** This is the case in the United States, in Europe, and much of the rest of the world.
+> **[1:29](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/creating-an-inclusive-conscious-environment?u=76281980&t=89)** This is the case in the United States, in Europe, and much of the [[Representational State Transfer (REST)|rest]] of the world.
 >
-> **[1:34](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/creating-an-inclusive-conscious-environment?u=76281980&t=94)** So design projects that are not accessible unnecessarily limit who can buy things, donate to a cause, learn things, and you run into legal and economic hassles if you do not apply accessible design.
+> **[1:34](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/creating-an-inclusive-conscious-environment?u=76281980&t=94)** So design projects that are not accessible unnecessarily limit who can buy things, donate to a cause, learn things, and you run into legal and economic hassles if you do not apply [[Accessible Design]].
 >
 > **[1:55](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/creating-an-inclusive-conscious-environment?u=76281980&t=115)** Part of creating a proactive accessibility design environments means finding ways like periodic messages, occasional meetings, informal chats to make everyone involved in the design and development process aware that there are significant legal implications.
 >
@@ -1532,14 +1511,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accessible Design]] (4), [[Microsoft Products|Products]] (3), web (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Accessible Design]] (4), [[Microsoft Products|Products]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** wcag (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Informed orientation and policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/informed-orientation-and-policies?u=76281980)
+#### [Informed orientation and policies](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/informed-orientation-and-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1549,13 +1527,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/informed-orientation-and-policies?u=76281980&t=21)** Your policies already exist.
 >
-> **[0:24](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/informed-orientation-and-policies?u=76281980&t=24)** The WCAG, the Web Content Accessibility Guidelines, are the universal standard for accessible design.
+> **[0:24](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/informed-orientation-and-policies?u=76281980&t=24)** The WCAG, the Web Content Accessibility Guidelines, are the universal standard for [[Accessible Design]].
 >
 > **[0:33](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/informed-orientation-and-policies?u=76281980&t=33)** As a manager, your job is not to be fluent in these rules, but you should be aware of the basic principles that are summarized with the acronym POUR, perceivable, operable, understandable, and robust content.
 >
 > **[0:50](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/informed-orientation-and-policies?u=76281980&t=50)** WCAG standards are, well, they're standards.
 >
-> **[0:54](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/informed-orientation-and-policies?u=76281980&t=54)** Most government-funded projects require that they be adhered to in web design, and there are legal, economic, and public relations implications for not adhering to them.
+> **[0:54](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/informed-orientation-and-policies?u=76281980&t=54)** Most government-funded projects require that they be adhered to in [[Web Design]], and there are legal, economic, and public relations implications for not adhering to them.
 >
 > **[1:08](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/informed-orientation-and-policies?u=76281980&t=68)** According to research by the Seyfarth Law Firm, lawsuits against institutions for having inaccessible websites in the US increased from a little over 800 in the year 2017 to almost 3,000 in the year 2021.
 >
@@ -1579,11 +1557,11 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/informed-orientation-and-policies?u=76281980&t=171)** Style guides are a bridge in any project from conception to development.
 >
-> **[2:57](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/informed-orientation-and-policies?u=76281980&t=177)** They give designers and developers rules for what colors to use, what size typography, and other design elements.
+> **[2:57](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/informed-orientation-and-policies?u=76281980&t=177)** They give designers and developers rules for what colors to use, what size [[Typography]], and other design elements.
 >
 > **[3:07](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/informed-orientation-and-policies?u=76281980&t=187)** Here I want to emphasize the importance that a style guide includes accessible style rules and that designers and developers familiarize themselves with that style guide at the beginning of a project in order to minimize the need to redo designs that later fail accessibility testing.
 >
-> **[3:32](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/informed-orientation-and-policies?u=76281980&t=212)** By the way, I have a course available here at LinkedIn Learning called "Using Style Guides to Bridge Design and Development."
+> **[3:32](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/informed-orientation-and-policies?u=76281980&t=212)** By the way, I have a course available here at [[LinkedIn]] Learning called "Using Style Guides to Bridge Design and Development."
 >
 > **[3:40](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/informed-orientation-and-policies?u=76281980&t=220)** And as someone managing accessible design projects, I think you'll find that course a helpful companion to this one.
 >
@@ -1597,15 +1575,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accessible Design]] (4), web (2), data (1), [[Typography]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Accessible Design]] (4), [[Web Design]] (1), [[Typography]] (1), [[LinkedIn]] (1)
 > **Env Vars:** wcag (7), wave (3), pour (1)
 > **Analogies:** for instance (1), for example (1)
 > **CLI Commands:** find (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unleashing accessible design and development
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/unleashing-accessible-design-and-development?u=76281980)
+#### [Unleashing accessible design and development](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/unleashing-accessible-design-and-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1613,7 +1590,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/unleashing-accessible-design-and-development?u=76281980&t=6)** This is not a paint-by-numbers project.
 >
-> **[0:09](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/unleashing-accessible-design-and-development?u=76281980&t=9)** As a non-designer project manager, you could try to simply mandate accessible design and enforce that with policy and accountability.
+> **[0:09](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/unleashing-accessible-design-and-development?u=76281980&t=9)** As a non-designer project manager, you could try to simply mandate [[Accessible Design]] and enforce that with policy and [[Accountability]].
 >
 > **[0:18](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/unleashing-accessible-design-and-development?u=76281980&t=18)** That's important, but as a successful project manager, and I know you are, you know that rules and enforcement are not sufficient.
 >
@@ -1655,7 +1632,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/unleashing-accessible-design-and-development?u=76281980&t=172)** I'm recommending Accessibility Weekly to non-designer managers because it shows up in your email once a week, which is just about right, and it covers a wide variety of topics in non-technical terms.
 >
-> **[3:09](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/unleashing-accessible-design-and-development?u=76281980&t=189)** If there is one single most valuable one-stop-shopping site for web accessibility advice, news, and tools, it is the WebAIM, that is the Web Accessibility in Mind, website.
+> **[3:09](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/unleashing-accessible-design-and-development?u=76281980&t=189)** If there is one single most valuable one-stop-shopping site for [[Web Accessibility]] advice, news, and tools, it is the WebAIM, that is the Web Accessibility in Mind, website.
 >
 > **[3:25](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/unleashing-accessible-design-and-development?u=76281980&t=205)** That's [webaim.org](https://webaim.org).
 >
@@ -1673,14 +1650,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Web Accessibility]] (3), [[Accessible Design]] (2), [[Accountability]] (1), ux (1)
+> **Frameworks & Libraries:** [[Web Accessibility]] (3), [[Accessible Design]] (2), [[Accountability]] (1)
 > **Env Vars:** a11y (2), wcag (1), wave (1)
 > **CLI Commands:** make (2), find (1)
 > **URLs:** [webaim.org](https://webaim.org) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Developing relationships with impacted user groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/developing-relationships-with-impacted-user-groups?u=76281980)
+#### [Developing relationships with impacted user groups](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/developing-relationships-with-impacted-user-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1694,7 +1670,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/developing-relationships-with-impacted-user-groups?u=76281980&t=42)** But a more effective and meaningful approach draws on the experience and insights of impacted users from the beginning.
 >
-> **[0:52](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/developing-relationships-with-impacted-user-groups?u=76281980&t=52)** In another video in this course, I provide a short list of resources that non-designer project managers can avail themselves of, that provide useful and non-technical insights into accessible design.
+> **[0:52](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/developing-relationships-with-impacted-user-groups?u=76281980&t=52)** In another video in this course, I provide a short list of resources that non-designer project managers can avail themselves of, that provide useful and non-technical insights into [[Accessible Design]].
 >
 > **[1:05](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/developing-relationships-with-impacted-user-groups?u=76281980&t=65)** So you'll find that list useful in keeping up with developments.
 >
@@ -1714,7 +1690,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/developing-relationships-with-impacted-user-groups?u=76281980&t=137)** So you see my theme here, almost all accessibility improvements, multitask, they overlap.
 >
-> **[2:25](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/developing-relationships-with-impacted-user-groups?u=76281980&t=145)** They all make user experience better for a wide range of people.
+> **[2:25](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/developing-relationships-with-impacted-user-groups?u=76281980&t=145)** They all make [[User Experience (UX)|user experience]] better for a wide range of people.
 >
 > **[2:32](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/developing-relationships-with-impacted-user-groups?u=76281980&t=152)** So in short, take a creative and flexible approach to involving people who will benefit from specific accessibility features in a website or an app, and enlist them as testers.
 >
@@ -1728,8 +1704,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Iterative testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980)
+#### [Iterative testing](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1739,7 +1714,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=7)** Now, for a talented college basketball player who goes on to a pro career after just one year in college, that's referred to as one and done.
 >
-> **[0:19](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=19)** Accessible design is not one and done.
+> **[0:19](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=19)** [[Accessible Design]] is not one and done.
 >
 > **[0:23](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=23)** It's an ongoing process.
 >
@@ -1747,13 +1722,13 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=27)** Because technology is constantly expanding and really at a mind blowing pace, and it's opening doors to new advances in accessibility, fingerprint and even more significant eye recognition technology is making logins more accessible.
 >
-> **[0:46](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=46)** Audio simulation can provide a more visceral experience with sound for deaf people and gesture based interactivity allows people with a wide range of disabilities to interact with digital products.
+> **[0:46](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=46)** Audio [[Simulation]] can provide a more visceral experience with sound for deaf people and gesture based interactivity allows people with a wide range of disabilities to interact with digital [[Microsoft Products|products]].
 >
 > **[1:04](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=64)** Also, there's existing technology that's taking a while to really get fully implemented.
 >
-> **[1:10](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=70)** For example, HTML five was released back in 2014 but there are still many features built into this basic website coding language that are not being fully appreciated.
+> **[1:10](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=70)** For example, [[HTML]] five was released back in 2014 but there are still many features built into this basic website coding language that are not being fully appreciated.
 >
-> **[1:24](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=84)** For example, making forms more accessible.
+> **[1:24](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=84)** For example, making [[Forms]] more accessible.
 >
 > **[1:28](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=88)** I dive into accessible forms in some depth in another video in this course, but returning to the issue of forms HTML five makes it possible to create forms that are easy for cognitively challenged users to fill out.
 >
@@ -1767,7 +1742,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=132)** The concept of inclusivity went mainstream with the tumultuous changes in politics and culture and technology that erupted around the world in the 1960s and have continued, struggles for equality have included demands for inclusivity.
 >
-> **[2:30](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=150)** That process remains unfinished and takes expression within the realm of web design.
+> **[2:30](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=150)** That process remains unfinished and takes expression within the realm of [[Web Design]].
 >
 > **[2:38](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=158)** So how is a project manager to keep up with and lead the iterative improvement of design accessibility?
 >
@@ -1775,9 +1750,9 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=173)** Add this to your website.
 >
-> **[2:55](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=175)** Ask users to report accessibility issues or to make a digital accessibility request and provide a link and a welcoming form for them to report those issues.
+> **[2:55](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=175)** Ask users to report accessibility issues or to make a [[Digital Accessibility]] request and provide a link and a welcoming form for them to report those issues.
 >
-> **[3:09](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=189)** If your marketing and analytics department is a one person show, that is you, then you can study spikes and dips in user engagement in Google Analytics.
+> **[3:09](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=189)** If your marketing and analytics department is a one person show, that is you, then you can study spikes and dips in user engagement in [[Google]] Analytics.
 >
 > **[3:22](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=202)** Or if you have access to analytics experts, draw them out on their insights and ideas including integrating accessibility thoughts in the reports they generate.
 >
@@ -1787,13 +1762,13 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=235)** So keep your antenna up and your ears open.
 >
-> **[4:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=240)** The take home point here is that web accessibility and digital accessibility is changing in dramatic ways.
+> **[4:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=240)** The take home point here is that [[Web Accessibility]] and digital accessibility is changing in dramatic ways.
 >
 > **[4:09](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/iterative-testing?u=76281980&t=249)** Yesterday's locked door, for example, gaming for blind deaf and motor impaired users is being unlocked and that process will only accelerate in the days, weeks, months, and years to come.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (4), [[Analytics]] (3), [[HTML]] (2), [[Digital Accessibility]] (2), career (1)
+> **Frameworks & Libraries:** [[Forms]] (4), [[HTML]] (2), [[Digital Accessibility]] (2), [[Accessible Design]] (1), [[Simulation]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (3)
@@ -1805,12 +1780,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making a11y features visible to all users
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/making-a11y-features-visible-to-all-users?u=76281980)
+#### [Making a11y features visible to all users](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/making-a11y-features-visible-to-all-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/making-a11y-features-visible-to-all-users?u=76281980&t=0)** - [Instructor] As you implement accessible design features, make sure those assets are not hidden from users.
+> **[0:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/making-a11y-features-visible-to-all-users?u=76281980&t=0)** - [Instructor] As you implement [[Accessible Design]] features, make sure those assets are not hidden from users.
 >
 > **[0:08](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/making-a11y-features-visible-to-all-users?u=76281980&t=8)** Keep in mind the features your design and development team implements to facilitate access for disabled people almost always benefit other users as well, so make those features prominent even for people who might not be looking for them.
 >
@@ -1818,7 +1792,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/making-a11y-features-visible-to-all-users?u=76281980&t=53)** So make sure the CC and transcript buttons are easy to find and use.
 >
-> **[1:01](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/making-a11y-features-visible-to-all-users?u=76281980&t=61)** Designing forms to tell users what step they're on, like this one, is helpful for users with cognitive issues like ADHD, but these features also help other users stay patient and focused as they complete a multi-step form.
+> **[1:01](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/making-a11y-features-visible-to-all-users?u=76281980&t=61)** Designing [[Forms]] to tell users what step they're on, like this one, is helpful for users with cognitive issues like ADHD, but these features also help other users stay patient and focused as they complete a multi-step form.
 >
 > **[1:19](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/making-a11y-features-visible-to-all-users?u=76281980&t=79)** Similarly, clear messages that tell people when they have made an error in the form and how to fix that are very widely applicable.
 >
@@ -1836,15 +1810,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accessible Design]] (2), [[Forms]] (2), data (1), business (1)
+> **Frameworks & Libraries:** [[Accessible Design]] (2), [[Forms]] (2)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** adhd (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Promoting products as accessible
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/promoting-products-as-accessible?u=76281980)
+#### [Promoting products as accessible](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/promoting-products-as-accessible?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1858,7 +1831,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/promoting-products-as-accessible?u=76281980&t=40)** For example, when American Airlines made their seat back entertainment accessible, they also posted advice on how to use those features in their entertainment system.
 >
-> **[0:53](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/promoting-products-as-accessible?u=76281980&t=53)** When you implement accessible features in your products, make sure to find ways to lead users to use them, and make sure that your accessible design plan and workflow includes tutorials on how to use accessibility tools.
+> **[0:53](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/promoting-products-as-accessible?u=76281980&t=53)** When you implement accessible features in your [[Microsoft Products|products]], make sure to find ways to lead users to use them, and make sure that your [[Accessible Design]] plan and workflow includes tutorials on how to use accessibility tools.
 >
 > **[1:13](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/promoting-products-as-accessible?u=76281980&t=73)** Let's not forget the public relations dimension of leveraging accessibility.
 >
@@ -1870,7 +1843,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/promoting-products-as-accessible?u=76281980&t=103)** Accessibility is an asset just like low prices, high quality, or good service.
 >
-> **[1:50](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/promoting-products-as-accessible?u=76281980&t=110)** Here, Typeform, a company that designs forms for all kinds of uses, shares a case study of how they applied accessible design to a form design project.
+> **[1:50](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/promoting-products-as-accessible?u=76281980&t=110)** Here, Typeform, a company that designs [[Forms]] for all kinds of uses, shares a case study of how they applied accessible design to a form design project.
 >
 > **[2:03](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/promoting-products-as-accessible?u=76281980&t=123)** Here's a thought.
 >
@@ -1886,7 +1859,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (2), [[Accessible Design]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Accessible Design]] (2), [[Forms]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** for example (2), just like (1)
 > **Definitions:** is an  (2)
@@ -1894,8 +1867,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Promoting accessibility policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/promoting-accessibility-policies?u=76281980)
+#### [Promoting accessibility policies](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/promoting-accessibility-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1913,7 +1885,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/promoting-accessibility-policies?u=76281980&t=83)** When your organization implements a commitment to accessibility, share the news.
 >
-> **[1:29](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/promoting-accessibility-policies?u=76281980&t=89)** When you do that, you're not only promoting your own organization's commitment to accessibility, you're also feeding into a societal atmosphere of encouraging accessible design.
+> **[1:29](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/promoting-accessibility-policies?u=76281980&t=89)** When you do that, you're not only promoting your own organization's commitment to accessibility, you're also feeding into a societal atmosphere of encouraging [[Accessible Design]].
 >
 > **[1:43](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/promoting-accessibility-policies?u=76281980&t=103)** Here, [IDM.com](https://IDM.com)'s website documents ongoing innovative technical breakthroughs in accessibility.
 >
@@ -1921,7 +1893,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), [[Accessible Design]] (1), teams (1)
+> **Frameworks & Libraries:** [[Accessible Design]] (1)
 > **CLI Commands:** make (2)
 > **URLs:** [idm.com](https://idm.com) (1)
 > **Env Vars:** idm (1)
@@ -1933,20 +1905,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/next-steps?u=76281980&t=0)** - [David] Let me share two suggestions for how you can amplify, extend, and stay up to date on what you've learned in this course.
 >
-> **[0:08](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/next-steps?u=76281980&t=8)** First of all, follow me at LinkedIn.
+> **[0:08](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/next-steps?u=76281980&t=8)** First of all, follow me at [[LinkedIn]].
 >
 > **[0:11](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/next-steps?u=76281980&t=11)** I post frequently, and I think you'll find material there that's useful.
 >
 > **[0:17](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/next-steps?u=76281980&t=17)** Second, I think you'll find my LinkedIn Learning course titled, Using Style Guides to Bridge Design and Development to be a powerful companion course to this one.
 >
-> **[0:30](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/next-steps?u=76281980&t=30)** That course walks through and models workflow from conception to production, and in that way provides a blueprint for how to implement accessible design in a systemic way.
+> **[0:30](https://www.linkedin.com/learning/accessibility-for-managers-and-non-designers/next-steps?u=76281980&t=30)** That course walks through and models workflow from conception to production, and in that way provides a blueprint for how to implement [[Accessible Design]] in a systemic way.
 
 > [!info]- Semantic Content
 >

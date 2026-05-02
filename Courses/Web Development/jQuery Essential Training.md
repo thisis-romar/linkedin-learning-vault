@@ -116,20 +116,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### jQuery: Write less, do more
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-write-less-do-more?u=76281980)
+#### [jQuery: Write less, do more](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-write-less-do-more?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-write-less-do-more?u=76281980&t=0)** - jQuery, just like the web itself, has come a very long way since it was first introduced.
 >
-> **[0:06](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-write-less-do-more?u=76281980&t=6)** Its original focus was on ensuring compatibility between different browser platforms in order to make frontend web development easier.
+> **[0:06](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-write-less-do-more?u=76281980&t=6)** Its original focus was on ensuring compatibility between different browser platforms in order to make frontend [[Web Development]] easier.
 >
-> **[0:13](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-write-less-do-more?u=76281980&t=13)** Many of those early platform compatibility problems have been addressed over the years as the browser vendors have increasingly adopted web standards.
+> **[0:13](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-write-less-do-more?u=76281980&t=13)** Many of those early platform compatibility problems have been addressed over the years as the browser vendors have increasingly adopted [[Web Standards]].
 >
 > **[0:21](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-write-less-do-more?u=76281980&t=21)** But jQuery still has an important role to play in modern web programming.
 >
-> **[0:25](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-write-less-do-more?u=76281980&t=25)** Today, jQuery's core focus is on productivity and simplicity, and it is used by more than 90% of all JavaScript-enabled websites.
+> **[0:25](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-write-less-do-more?u=76281980&t=25)** Today, jQuery's core focus is on productivity and simplicity, and it is used by more than 90% of all [[JavaScript]]-enabled websites.
 >
 > **[0:33](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-write-less-do-more?u=76281980&t=33)** In this course, we're going to learn about the modern way to use jQuery to boost your coding productivity.
 >
@@ -137,30 +136,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Web Development]] (1), [[Programming]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Web Development]] (1), [[Web Standards]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** jquery (4)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - jquery (1)
 
-#### Getting set up
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/getting-set-up?u=76281980)
+#### [Getting set up](https://www.linkedin.com/learning/jquery-essential-training-24696205/getting-set-up?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/getting-set-up?u=76281980&t=0)** - [Instructor] In order to get the most out of this course, there are some things you will need to be familiar with.
 >
-> **[0:05](https://www.linkedin.com/learning/jquery-essential-training-24696205/getting-set-up?u=76281980&t=5)** So this course is intended for web developers who either need to work with existing jQuery code in their projects, or who want to boost their productivity by leveraging a widely used comprehensive JavaScript library.
+> **[0:05](https://www.linkedin.com/learning/jquery-essential-training-24696205/getting-set-up?u=76281980&t=5)** So this course is intended for web developers who either need to work with existing jQuery code in their projects, or who want to boost their productivity by leveraging a widely used comprehensive [[JavaScript]] library.
 >
 > **[0:18](https://www.linkedin.com/learning/jquery-essential-training-24696205/getting-set-up?u=76281980&t=18)** So you should already have an understanding of JavaScript.
 >
 > **[0:22](https://www.linkedin.com/learning/jquery-essential-training-24696205/getting-set-up?u=76281980&t=22)** jQuery is a JavaScript library, so when you're writing jQuery code, you will be working directly with JavaScript.
 >
-> **[0:30](https://www.linkedin.com/learning/jquery-essential-training-24696205/getting-set-up?u=76281980&t=30)** You should also have a good understanding of the two other core web development languages, HTML and CSS, as we will be using all three in this course.
+> **[0:30](https://www.linkedin.com/learning/jquery-essential-training-24696205/getting-set-up?u=76281980&t=30)** You should also have a good understanding of the two other core [[Web Development]] languages, [[HTML]] and CSS, as we will be using all three in this course.
 >
 > **[0:39](https://www.linkedin.com/learning/jquery-essential-training-24696205/getting-set-up?u=76281980&t=39)** If you need to brush up on these subjects, you can refer to the [[JavaScript Essential Training]], [[HTML Essential Training]], and CSS Essential Training courses here in the library.
 >
-> **[0:50](https://www.linkedin.com/learning/jquery-essential-training-24696205/getting-set-up?u=76281980&t=50)** You can find all of the code exercises used in this course in the GitHub repository you see at this link.
+> **[0:50](https://www.linkedin.com/learning/jquery-essential-training-24696205/getting-set-up?u=76281980&t=50)** You can find all of the code exercises used in this course in the [[GitHub]] repository you see at this link.
 >
 > **[0:57](https://www.linkedin.com/learning/jquery-essential-training-24696205/getting-set-up?u=76281980&t=57)** This code is organized into two folders.
 >
@@ -190,7 +188,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/jquery-essential-training-24696205/getting-set-up?u=76281980&t=127)** I suggest keeping this open in a browser tab as you work through the course so you can refer to it as needed.
 >
-> **[2:14](https://www.linkedin.com/learning/jquery-essential-training-24696205/getting-set-up?u=76281980&t=134)** I'm also going to be using Visual Studio Code in this course, which is a free editor from Microsoft with an incredible set of features for working with all kinds of code.
+> **[2:14](https://www.linkedin.com/learning/jquery-essential-training-24696205/getting-set-up?u=76281980&t=134)** I'm also going to be using Visual Studio Code in this course, which is a free editor from [[Microsoft]] with an incredible set of features for working with all kinds of code.
 >
 > **[2:25](https://www.linkedin.com/learning/jquery-essential-training-24696205/getting-set-up?u=76281980&t=145)** And you can download it from this link.
 >
@@ -218,7 +216,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (6), [[HTML]] (3), css (3), [[GitHub]] (3), api (2)
+> **Frameworks & Libraries:** [[JavaScript]] (6), [[HTML]] (3), [[GitHub]] (3), [[Web Development]] (1), [[Microsoft]] (1)
 > **Env Vars:** html (3), css (3), api (2)
 > **Tools:** github (3), visual studio (3), vs code (2)
 > **Code Identifiers:** jquery (4)
@@ -232,14 +230,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of jQuery
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/overview-of-jquery?u=76281980)
+#### [Overview of jQuery](https://www.linkedin.com/learning/jquery-essential-training-24696205/overview-of-jquery?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/overview-of-jquery?u=76281980&t=0)** - [Instructor] So what is jQuery?
 >
-> **[0:02](https://www.linkedin.com/learning/jquery-essential-training-24696205/overview-of-jquery?u=76281980&t=2)** jQuery is one of the most popular, widely used open source JavaScript libraries on the web today.
+> **[0:02](https://www.linkedin.com/learning/jquery-essential-training-24696205/overview-of-jquery?u=76281980&t=2)** jQuery is one of the most popular, widely used open source [[JavaScript]] libraries on the web today.
 >
 > **[0:08](https://www.linkedin.com/learning/jquery-essential-training-24696205/overview-of-jquery?u=76281980&t=8)** In fact, at this time, we're recording, jQuery is being used on more than 90% of all websites that use JavaScript.
 >
@@ -255,9 +252,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/jquery-essential-training-24696205/overview-of-jquery?u=76281980&t=27)** It provides the basic structure and logic patterns, and then you build your custom application code around it.
 >
-> **[0:33](https://www.linkedin.com/learning/jquery-essential-training-24696205/overview-of-jquery?u=76281980&t=33)** React, for example, is a framework.
+> **[0:33](https://www.linkedin.com/learning/jquery-essential-training-24696205/overview-of-jquery?u=76281980&t=33)** [[React.js|React]], for example, is a framework.
 >
-> **[0:35](https://www.linkedin.com/learning/jquery-essential-training-24696205/overview-of-jquery?u=76281980&t=35)** Other good framework examples include Vue JS and Angular.
+> **[0:35](https://www.linkedin.com/learning/jquery-essential-training-24696205/overview-of-jquery?u=76281980&t=35)** Other good framework examples include [[Vue.js|Vue]] JS and [[Angular]].
 >
 > **[0:39](https://www.linkedin.com/learning/jquery-essential-training-24696205/overview-of-jquery?u=76281980&t=39)** jQuery isn't a framework.
 >
@@ -269,7 +266,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/jquery-essential-training-24696205/overview-of-jquery?u=76281980&t=55)** It's main job is to make building web apps easier and more productive by reducing the amount of boilerplate code you need to write.
 >
-> **[1:03](https://www.linkedin.com/learning/jquery-essential-training-24696205/overview-of-jquery?u=76281980&t=63)** jQuery simplifies common web development tasks like working with webpage content, performing Ajax operations, and building highly interactive experiences.
+> **[1:03](https://www.linkedin.com/learning/jquery-essential-training-24696205/overview-of-jquery?u=76281980&t=63)** jQuery simplifies common [[Web Development]] tasks like working with webpage content, performing [[AJAX]] operations, and building highly interactive experiences.
 >
 > **[1:13](https://www.linkedin.com/learning/jquery-essential-training-24696205/overview-of-jquery?u=76281980&t=73)** jQuery's code syntax is nice and compact.
 >
@@ -299,7 +296,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), application (3), web (2), [[AJAX]] (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[AJAX]] (2), [[React.js|React]] (1), [[Vue.js|Vue]] (1), [[Angular]] (1)
 > **Code Identifiers:** jquery (17)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** dom (1), css (1), ajax (1)
@@ -308,18 +305,17 @@ created: 2026-05-02
 > **Exercise Files:** boilerplate (1)
 > **Warnings:** note that (1)
 
-#### Why use jQuery today?
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/why-use-jquery-today?u=76281980)
+#### [Why use jQuery today?](https://www.linkedin.com/learning/jquery-essential-training-24696205/why-use-jquery-today?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/why-use-jquery-today?u=76281980&t=0)** - [Instructor] You might be asking yourself, why should I learn jQuery today?
 >
-> **[0:03](https://www.linkedin.com/learning/jquery-essential-training-24696205/why-use-jquery-today?u=76281980&t=3)** After all, the browser wars are pretty much over, every major browser today, mostly adheres to web standards, and the need for a compatibility library is much lower.
+> **[0:03](https://www.linkedin.com/learning/jquery-essential-training-24696205/why-use-jquery-today?u=76281980&t=3)** After all, the browser wars are pretty much over, every major browser today, mostly adheres to [[Web Standards]], and the need for a compatibility library is much lower.
 >
 > **[0:13](https://www.linkedin.com/learning/jquery-essential-training-24696205/why-use-jquery-today?u=76281980&t=13)** And yes, all of that is true, but jQuery's mission is very different today from what it was even five years ago ago.
 >
-> **[0:20](https://www.linkedin.com/learning/jquery-essential-training-24696205/why-use-jquery-today?u=76281980&t=20)** Today, jQuery is all about coding productivity, and simplifying common web development tasks.
+> **[0:20](https://www.linkedin.com/learning/jquery-essential-training-24696205/why-use-jquery-today?u=76281980&t=20)** Today, jQuery is all about coding productivity, and simplifying common [[Web Development]] tasks.
 >
 > **[0:26](https://www.linkedin.com/learning/jquery-essential-training-24696205/why-use-jquery-today?u=76281980&t=26)** So let's look at some of the main reasons why jQuery is still an important tool to have in your skillset.
 >
@@ -349,7 +345,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), [[Web Development]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Web Standards]] (1), [[Web Development]] (1)
 > **Code Identifiers:** jquery (13)
 > **Env Vars:** cobol (1), ide (1)
 > **CLI Commands:** find (1)
@@ -362,14 +358,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Enabling jQuery in your web app
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/enabling-jquery-in-your-web-app?u=76281980)
+#### [Enabling jQuery in your web app](https://www.linkedin.com/learning/jquery-essential-training-24696205/enabling-jquery-in-your-web-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/enabling-jquery-in-your-web-app?u=76281980&t=0)** - [Instructor] In this chapter, we'll take a quick tour of the main features of jQuery, which we will then cover in more detail throughout the rest of the course.
+> **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/enabling-jquery-in-your-web-app?u=76281980&t=0)** - [Instructor] In this chapter, we'll take a quick tour of the main features of jQuery, which we will then cover in more detail throughout the [[Representational State Transfer (REST)|rest]] of the course.
 >
-> **[0:08](https://www.linkedin.com/learning/jquery-essential-training-24696205/enabling-jquery-in-your-web-app?u=76281980&t=8)** By the time we reach the end of this chapter, you will have seen how jQuery manipulates page content, builds animations, handles events, and even uses Ajax.
+> **[0:08](https://www.linkedin.com/learning/jquery-essential-training-24696205/enabling-jquery-in-your-web-app?u=76281980&t=8)** By the time we reach the end of this chapter, you will have seen how jQuery manipulates page content, builds animations, handles events, and even uses [[AJAX]].
 >
 > **[0:19](https://www.linkedin.com/learning/jquery-essential-training-24696205/enabling-jquery-in-your-web-app?u=76281980&t=19)** Now, with the exception of this example, we'll be working in the finished folder for the rest of this chapter.
 >
@@ -381,9 +376,9 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/jquery-essential-training-24696205/enabling-jquery-in-your-web-app?u=76281980&t=52)** So there are several ways to include jQuery in your webpage.
 >
-> **[0:56](https://www.linkedin.com/learning/jquery-essential-training-24696205/enabling-jquery-in-your-web-app?u=76281980&t=56)** One way is to use a CDN version, which is accessible from public web servers.
+> **[0:56](https://www.linkedin.com/learning/jquery-essential-training-24696205/enabling-jquery-in-your-web-app?u=76281980&t=56)** One way is to use a CDN version, which is accessible from public [[Web Servers]].
 >
-> **[1:03](https://www.linkedin.com/learning/jquery-essential-training-24696205/enabling-jquery-in-your-web-app?u=76281980&t=63)** And for example, you can use the version that's hosted on Google servers at this link, or you can use the one that jQuery hosts itself.
+> **[1:03](https://www.linkedin.com/learning/jquery-essential-training-24696205/enabling-jquery-in-your-web-app?u=76281980&t=63)** And for example, you can use the version that's hosted on [[Google]] servers at this link, or you can use the one that jQuery hosts itself.
 >
 > **[1:12](https://www.linkedin.com/learning/jquery-essential-training-24696205/enabling-jquery-in-your-web-app?u=76281980&t=72)** So you can see that I'm including the code directly from the jQuery website here.
 >
@@ -479,7 +474,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (5), [[Representational State Transfer (REST)|Rest]] (4), node (2), power (2), [[AJAX]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), [[AJAX]] (1), [[Web Servers]] (1), [[Google]] (1)
 > **Code Identifiers:** jquery (22), addeventlistener (1)
 > **Env Vars:** dom (5), cdn (1)
 > **CLI Commands:** node (2), make (1)
@@ -488,12 +483,11 @@ created: 2026-05-02
 > **File Paths:** min.js (1)
 > **Cross-References:** earlier in (1)
 
-#### Selectors and filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/selectors-and-filters?u=76281980)
+#### [Selectors and filters](https://www.linkedin.com/learning/jquery-essential-training-24696205/selectors-and-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/selectors-and-filters?u=76281980&t=0)** - [Person] For the rest of this chapter, I'm going to be demonstrating code in the "Finished" folder and "Ch_2" just to give you a quick introduction to the features of jQuery that we will be learning about in detail in the rest of this course, so you can either work along with me in your folder, or you can just get comfortable and sit back and watch, it's entirely up to you.
+> **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/selectors-and-filters?u=76281980&t=0)** - [Person] For the [[Representational State Transfer (REST)|rest]] of this chapter, I'm going to be demonstrating code in the "Finished" folder and "Ch_2" just to give you a quick introduction to the features of jQuery that we will be learning about in detail in the rest of this course, so you can either work along with me in your folder, or you can just get comfortable and sit back and watch, it's entirely up to you.
 >
 > **[0:22](https://www.linkedin.com/learning/jquery-essential-training-24696205/selectors-and-filters?u=76281980&t=22)** Follow along if you feel like it.
 >
@@ -539,7 +533,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), web (3), css (3), next (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3)
 > **Code Identifiers:** jquery (8)
 > **Cross-References:** go back to (6)
 > **UI Navigation:** click on (2), select the (2), scroll down (1)
@@ -548,8 +542,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 
-#### Creating and modifying content
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/creating-and-modifying-content?u=76281980)
+#### [Creating and modifying content](https://www.linkedin.com/learning/jquery-essential-training-24696205/creating-and-modifying-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -561,7 +554,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/jquery-essential-training-24696205/creating-and-modifying-content?u=76281980&t=20)** So what we're going to do is see how we can create new content and change content that's already in the page.
 >
-> **[0:26](https://www.linkedin.com/learning/jquery-essential-training-24696205/creating-and-modifying-content?u=76281980&t=26)** So I'm going to create new content by simply calling the jQuery function with a string of HTML.
+> **[0:26](https://www.linkedin.com/learning/jquery-essential-training-24696205/creating-and-modifying-content?u=76281980&t=26)** So I'm going to create new content by simply calling the jQuery function with a string of [[HTML]].
 >
 > **[0:34](https://www.linkedin.com/learning/jquery-essential-training-24696205/creating-and-modifying-content?u=76281980&t=34)** And this is a shortcut way of creating a new HTML tag.
 >
@@ -635,7 +628,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (13), dom (1)
+> **Frameworks & Libraries:** [[HTML]] (13)
 > **Env Vars:** html (13)
 > **Cross-References:** go back to (3), previous video (1), later in (1)
 > **Code Identifiers:** jquery (3)
@@ -644,8 +637,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Event handling
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/event-handling?u=76281980)
+#### [Event handling](https://www.linkedin.com/learning/jquery-essential-training-24696205/event-handling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -653,7 +645,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/jquery-essential-training-24696205/event-handling?u=76281980&t=4)** And in this example, I'll show you a quick introduction to handling events with jQuery, and we'll learn more about the subject later on in the course when we get to the chapter on events.
 >
-> **[0:14](https://www.linkedin.com/learning/jquery-essential-training-24696205/event-handling?u=76281980&t=14)** So let's open up the Events.html file.
+> **[0:14](https://www.linkedin.com/learning/jquery-essential-training-24696205/event-handling?u=76281980&t=14)** So let's open up the Events.[[HTML]] file.
 >
 > **[0:17](https://www.linkedin.com/learning/jquery-essential-training-24696205/event-handling?u=76281980&t=17)** And before we look at the code, let's go ahead and run this example in the browser.
 >
@@ -665,7 +657,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/jquery-essential-training-24696205/event-handling?u=76281980&t=43)** If I have the meta-key down or not.
 >
-> **[0:46](https://www.linkedin.com/learning/jquery-essential-training-24696205/event-handling?u=76281980&t=46)** On Windows, that's the Windows key.
+> **[0:46](https://www.linkedin.com/learning/jquery-essential-training-24696205/event-handling?u=76281980&t=46)** On [[Windows]], that's the Windows key.
 >
 > **[0:48](https://www.linkedin.com/learning/jquery-essential-training-24696205/event-handling?u=76281980&t=48)** On Mac, that's the Command key.
 >
@@ -673,7 +665,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/jquery-essential-training-24696205/event-handling?u=76281980&t=52)** Let's see.
 >
-> **[0:53](https://www.linkedin.com/learning/jquery-essential-training-24696205/event-handling?u=76281980&t=53)** Yeah, and then we have the rest of the events mouseleave.
+> **[0:53](https://www.linkedin.com/learning/jquery-essential-training-24696205/event-handling?u=76281980&t=53)** Yeah, and then we have the [[Representational State Transfer (REST)|rest]] of the events mouseleave.
 >
 > **[0:56](https://www.linkedin.com/learning/jquery-essential-training-24696205/event-handling?u=76281980&t=56)** So when I click, there's some information that shows you the mouse coordinates where I'm clicking.
 >
@@ -733,15 +725,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), web application (1), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** jquery (6), onmouseover (1)
 > **File Paths:** events.html (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Effects and animations
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/effects-and-animations?u=76281980)
+#### [Effects and animations](https://www.linkedin.com/learning/jquery-essential-training-24696205/effects-and-animations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -751,7 +742,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/jquery-essential-training-24696205/effects-and-animations?u=76281980&t=13)** But to get a sense of what you can do with the features provided, let's look at a simple example.
 >
-> **[0:19](https://www.linkedin.com/learning/jquery-essential-training-24696205/effects-and-animations?u=76281980&t=19)** Let's open up the animations.html file.
+> **[0:19](https://www.linkedin.com/learning/jquery-essential-training-24696205/effects-and-animations?u=76281980&t=19)** Let's open up the animations.[[HTML]] file.
 >
 > **[0:22](https://www.linkedin.com/learning/jquery-essential-training-24696205/effects-and-animations?u=76281980&t=22)** And before we go through the code, let's run the example to see what it does.
 >
@@ -805,7 +796,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[HTML]] (1), feature (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Code Identifiers:** jquery (2), testdiv (1)
 > **Cross-References:** later in (3)
 > **File Paths:** animations.html (1)
@@ -813,14 +804,13 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### AJAX operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/ajax-operations?u=76281980)
+#### [AJAX operations](https://www.linkedin.com/learning/jquery-essential-training-24696205/ajax-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/ajax-operations?u=76281980&t=0)** - [Instructor] Let's finish up this chapter by taking a quick look at Ajax, which we will explore more in depth later on in the course.
+> **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/ajax-operations?u=76281980&t=0)** - [Instructor] Let's finish up this chapter by taking a quick look at [[AJAX]], which we will explore more in depth later on in the course.
 >
-> **[0:07](https://www.linkedin.com/learning/jquery-essential-training-24696205/ajax-operations?u=76281980&t=7)** Let's go ahead and open up AJAXIntro.html and before I go into the code, I'm going to bring this up in the browser.
+> **[0:07](https://www.linkedin.com/learning/jquery-essential-training-24696205/ajax-operations?u=76281980&t=7)** Let's go ahead and open up AJAXIntro.[[HTML]] and before I go into the code, I'm going to bring this up in the browser.
 >
 > **[0:16](https://www.linkedin.com/learning/jquery-essential-training-24696205/ajax-operations?u=76281980&t=16)** All right, so here I'm going to demonstrate two things.
 >
@@ -878,7 +868,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (11), [[AJAX]] (7), data (4)
+> **Frameworks & Libraries:** [[HTML]] (11), [[AJAX]] (7)
 > **Env Vars:** html (10), url (3)
 > **Code Identifiers:** jquery (5), setcontent (2), getcontent (1), loadhtml (1)
 > **UI Navigation:** click on (2), scroll down (1)
@@ -890,12 +880,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to selectors and filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/introduction-to-selectors-and-filters?u=76281980)
+#### [Introduction to selectors and filters](https://www.linkedin.com/learning/jquery-essential-training-24696205/introduction-to-selectors-and-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/introduction-to-selectors-and-filters?u=76281980&t=0)** - [Instructor] As I mentioned earlier, retrieving content from web pages is a very basic, and common web development task, and this is where jQuery selectors, and filters are very useful.
+> **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/introduction-to-selectors-and-filters?u=76281980&t=0)** - [Instructor] As I mentioned earlier, retrieving content from web pages is a very basic, and common [[Web Development]] task, and this is where jQuery selectors, and filters are very useful.
 >
 > **[0:11](https://www.linkedin.com/learning/jquery-essential-training-24696205/introduction-to-selectors-and-filters?u=76281980&t=11)** It's one of the main things that jQuery makes a lot easier to accomplish with a lot less code than if you just use the standard DOM API, and that is what we are going to look at in this chapter.
 >
@@ -905,7 +894,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/jquery-essential-training-24696205/introduction-to-selectors-and-filters?u=76281980&t=37)** In this way, you can think of selectors, and filters as the query part of the name jQuery.
 >
-> **[0:44](https://www.linkedin.com/learning/jquery-essential-training-24696205/introduction-to-selectors-and-filters?u=76281980&t=44)** The resulting content can then be manipulated by other jQuery or playing JavaScript functions.
+> **[0:44](https://www.linkedin.com/learning/jquery-essential-training-24696205/introduction-to-selectors-and-filters?u=76281980&t=44)** The resulting content can then be manipulated by other jQuery or playing [[JavaScript]] functions.
 >
 > **[0:51](https://www.linkedin.com/learning/jquery-essential-training-24696205/introduction-to-selectors-and-filters?u=76281980&t=51)** So let's consider a conceptual example.
 >
@@ -927,15 +916,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[Web Development]] (1), dom (1), api (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Web Development]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** jquery (5)
 > **Env Vars:** dom (1), api (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic selectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/basic-selectors?u=76281980)
+#### [Basic selectors](https://www.linkedin.com/learning/jquery-essential-training-24696205/basic-selectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -991,7 +979,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/jquery-essential-training-24696205/basic-selectors?u=76281980&t=183)** All right, now let's try our next example.
 >
-> **[3:08](https://www.linkedin.com/learning/jquery-essential-training-24696205/basic-selectors?u=76281980&t=188)** And what I'm going to do is select elements that have the class name of A on them, and I'm just going to copy and paste the rest of this code right here 'cause it's the same.
+> **[3:08](https://www.linkedin.com/learning/jquery-essential-training-24696205/basic-selectors?u=76281980&t=188)** And what I'm going to do is select elements that have the class name of A on them, and I'm just going to copy and paste the [[Representational State Transfer (REST)|rest]] of this code right here 'cause it's the same.
 >
 > **[3:22](https://www.linkedin.com/learning/jquery-essential-training-24696205/basic-selectors?u=76281980&t=202)** And we'll comment that one out.
 >
@@ -1013,7 +1001,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/jquery-essential-training-24696205/basic-selectors?u=76281980&t=248)** In this case, let's try the ID.
 >
-> **[4:10](https://www.linkedin.com/learning/jquery-essential-training-24696205/basic-selectors?u=76281980&t=250)** So I'm going to fetch the element that has the ID of example, and that's going to be this div right here.
+> **[4:10](https://www.linkedin.com/learning/jquery-essential-training-24696205/basic-selectors?u=76281980&t=250)** So I'm going to [[Fetch]] the element that has the ID of example, and that's going to be this div right here.
 >
 > **[4:19](https://www.linkedin.com/learning/jquery-essential-training-24696205/basic-selectors?u=76281980&t=259)** You can see the ID is equal to example, and we'll do the same thing.
 >
@@ -1043,11 +1031,11 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/jquery-essential-training-24696205/basic-selectors?u=76281980&t=325)** All right, so that should give you an idea of how basic jQuery selects work.
 >
-> **[5:29](https://www.linkedin.com/learning/jquery-essential-training-24696205/basic-selectors?u=76281980&t=329)** You use these to select content in the page that you can then manipulate using jQuery functions or any other JavaScript functions that you might define.
+> **[5:29](https://www.linkedin.com/learning/jquery-essential-training-24696205/basic-selectors?u=76281980&t=329)** You use these to select content in the page that you can then manipulate using jQuery functions or any other [[JavaScript]] functions that you might define.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (6), next (1), [[Representational State Transfer (REST)|Rest]] (1), [[Fetch]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Fetch]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** jquery (8)
 > **Env Vars:** css (6)
 > **Cross-References:** go back to (3)
@@ -1056,8 +1044,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 
-#### Basic filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/basic-filters?u=76281980)
+#### [Basic filters](https://www.linkedin.com/learning/jquery-essential-training-24696205/basic-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1185,15 +1172,15 @@ created: 2026-05-02
 >
 > **[5:48](https://www.linkedin.com/learning/jquery-essential-training-24696205/basic-filters?u=76281980&t=348)** We get zero, one; two is not selected, and then three and four.
 >
-> **[5:54](https://www.linkedin.com/learning/jquery-essential-training-24696205/basic-filters?u=76281980&t=354)** So knowing how to use selectors and filters forms the basic foundation for using jQuery.
+> **[5:54](https://www.linkedin.com/learning/jquery-essential-training-24696205/basic-filters?u=76281980&t=354)** So knowing how to use selectors and filters [[Forms]] the basic foundation for using jQuery.
 >
 > **[6:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/basic-filters?u=76281980&t=360)** A large amount of jQuery code usually involves selecting web content from a page and then operating on it.
 >
-> **[6:06](https://www.linkedin.com/learning/jquery-essential-training-24696205/basic-filters?u=76281980&t=366)** And now that we have this foundation, we can move through the rest of the course and see a lot of the great things that jQuery has to offer.
+> **[6:06](https://www.linkedin.com/learning/jquery-essential-training-24696205/basic-filters?u=76281980&t=366)** And now that we have this foundation, we can move through the [[Representational State Transfer (REST)|rest]] of the course and see a lot of the great things that jQuery has to offer.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), [[Forms]] (1), web (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** jquery (7)
 > **Env Vars:** css (5)
 > **Cross-References:** go back to (2)
@@ -1202,14 +1189,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced selectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/advanced-selectors?u=76281980)
+#### [Advanced selectors](https://www.linkedin.com/learning/jquery-essential-training-24696205/advanced-selectors?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/advanced-selectors?u=76281980&t=0)** - [Instructor] Now that we've seen some of the basic selectors and filters, let's learn about some of the more advanced selectors that you might use in jQuery.
 >
-> **[0:08](https://www.linkedin.com/learning/jquery-essential-training-24696205/advanced-selectors?u=76281980&t=8)** So I'm going to open up the advanced selectors HTML file.
+> **[0:08](https://www.linkedin.com/learning/jquery-essential-training-24696205/advanced-selectors?u=76281980&t=8)** So I'm going to open up the advanced selectors [[HTML]] file.
 >
 > **[0:13](https://www.linkedin.com/learning/jquery-essential-training-24696205/advanced-selectors?u=76281980&t=13)** If you've ever worked with some of the more advanced CSS selectors, such as parent-child or descendant selectors, these are going to look very familiar to you because they use the same syntax.
 >
@@ -1327,7 +1313,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), next (3), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (3), html (1)
 > **Cross-References:** go back to (4)
 > **Analogies:** such as (1), imagine (1), for example (1), just like (1)
@@ -1336,8 +1322,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Attribute filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/attribute-filters?u=76281980)
+#### [Attribute filters](https://www.linkedin.com/learning/jquery-essential-training-24696205/attribute-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1419,7 +1404,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), css (1), next (1), [[Search]] (1)
 > **Code Identifiers:** jquery (6)
 > **CLI Commands:** find (3), make (1)
 > **Cross-References:** go back to (3)
@@ -1428,8 +1412,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/advanced-filters?u=76281980)
+#### [Advanced filters](https://www.linkedin.com/learning/jquery-essential-training-24696205/advanced-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1599,7 +1582,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1), node (1), feature (1)
 > **Cross-References:** go back to (4), we covered (1)
 > **Definitions:** is a  (4), basically means (1)
 > **UI Navigation:** scroll down (3), go to (1)
@@ -1608,16 +1590,15 @@ created: 2026-05-02
 > **Env Vars:** css (1)
 > **Documentation:** the docs (1)
 
-#### Traversing web page elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/traversing-web-page-elements?u=76281980)
+#### [Traversing web page elements](https://www.linkedin.com/learning/jquery-essential-training-24696205/traversing-web-page-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/traversing-web-page-elements?u=76281980&t=0)** - [Instructor] If you've done any serious web development, you're probably familiar by now with the concept that HTML pages are organized as a tree structure.
+> **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/traversing-web-page-elements?u=76281980&t=0)** - [Instructor] If you've done any serious [[Web Development]], you're probably familiar by now with the concept that [[HTML]] pages are organized as a tree structure.
 >
 > **[0:09](https://www.linkedin.com/learning/jquery-essential-training-24696205/traversing-web-page-elements?u=76281980&t=9)** So if you consider a simple HTML page represented by the tree diagram you can see here.
 >
-> **[0:16](https://www.linkedin.com/learning/jquery-essential-training-24696205/traversing-web-page-elements?u=76281980&t=16)** This tree structure and the relationships between the elements are described using an API called the document object model, or DOM, which has been a W3C standard for quite some time now.
+> **[0:16](https://www.linkedin.com/learning/jquery-essential-training-24696205/traversing-web-page-elements?u=76281980&t=16)** This tree structure and the relationships between the elements are described using an API called the [[Document Object Model (DOM)|document object model]], or DOM, which has been a W3C standard for quite some time now.
 >
 > **[0:28](https://www.linkedin.com/learning/jquery-essential-training-24696205/traversing-web-page-elements?u=76281980&t=28)** jQuery makes working with this API much easier with a lot less code.
 >
@@ -1723,7 +1704,7 @@ created: 2026-05-02
 >
 > **[6:57](https://www.linkedin.com/learning/jquery-essential-training-24696205/traversing-web-page-elements?u=76281980&t=417)** One is the current index of the element in question, and the second is the actual element object.
 >
-> **[7:05](https://www.linkedin.com/learning/jquery-essential-training-24696205/traversing-web-page-elements?u=76281980&t=425)** As a DOM element, a pure JavaScript DOM element, this is not going to be a jQuery object, alright?
+> **[7:05](https://www.linkedin.com/learning/jquery-essential-training-24696205/traversing-web-page-elements?u=76281980&t=425)** As a DOM element, a pure [[JavaScript]] DOM element, this is not going to be a jQuery object, alright?
 >
 > **[7:12](https://www.linkedin.com/learning/jquery-essential-training-24696205/traversing-web-page-elements?u=76281980&t=432)** It's a standard DOM element.
 >
@@ -1757,7 +1738,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (8), [[HTML]] (5), dom (5), next (4), api (2)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Web Development]] (1), [[Document Object Model (DOM)|Document object model]] (1), [[JavaScript]] (1)
 > **Env Vars:** css (8), dom (5), html (4), api (2), w3c (1)
 > **CLI Commands:** find (7), make (5)
 > **Code Identifiers:** jquery (8), parentsuntil (4)
@@ -1766,8 +1747,7 @@ created: 2026-05-02
 > **File Paths:** traversing.html (1)
 > **Documentation:** w3c (1)
 
-#### Statement chaining
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/statement-chaining?u=76281980)
+#### [Statement chaining](https://www.linkedin.com/learning/jquery-essential-training-24696205/statement-chaining?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1797,15 +1777,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1), [[Scripting]] (1)
 > **Code Identifiers:** jquery (3)
 > **Definitions:** is called (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** css (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Selectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-selectors?u=76281980)
+#### [Challenge: Selectors](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-selectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1825,7 +1803,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-selectors?u=76281980&t=41)** So here in the start folder, I'll bring this up in live server.
 >
-> **[0:46](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-selectors?u=76281980&t=46)** And that brings us to the H Plus Sport homepage, which contains information about the company, the products, the people, so on.
+> **[0:46](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-selectors?u=76281980&t=46)** And that brings us to the H Plus Sport homepage, which contains information about the company, the [[Microsoft Products|products]], the people, so on.
 >
 > **[0:54](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-selectors?u=76281980&t=54)** Let's go ahead and click on the products link and let's scroll the products into view.
 >
@@ -1845,7 +1823,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-selectors?u=76281980&t=107)** You're going to change the background of these little titles, and let's go take a look at the start code so you can understand how to do that.
 >
-> **[1:58](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-selectors?u=76281980&t=118)** So this is the HTML for the start page.
+> **[1:58](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-selectors?u=76281980&t=118)** So this is the [[HTML]] for the start page.
 >
 > **[2:01](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-selectors?u=76281980&t=121)** It's not a very big file.
 >
@@ -1879,7 +1857,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), product (7), data (4), [[Programming]] (2), [[HTML]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), [[HTML]] (2)
 > **Env Vars:** html (2), css (2)
 > **Code Identifiers:** jquery (2)
 > **UI Navigation:** click on (1), scroll up (1)
@@ -1888,8 +1866,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Solution: Selectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-selectors?u=76281980)
+#### [Solution: Selectors](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-selectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1901,13 +1878,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-selectors?u=76281980&t=8)** Let's take a look at how I solved this challenge.
 >
-> **[0:10](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-selectors?u=76281980&t=10)** Now, one of the things I want to point out here is that it's not important that you get the exact same answer I did because there's many ways you can solve problems like this using JavaScript and jQuery.
+> **[0:10](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-selectors?u=76281980&t=10)** Now, one of the things I want to point out here is that it's not important that you get the exact same answer I did because there's many ways you can solve problems like this using [[JavaScript]] and jQuery.
 >
 > **[0:20](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-selectors?u=76281980&t=20)** I'm going to show you how I chose to solve the problem, and your solution might have been a little bit different, and that's okay.
 >
 > **[0:26](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-selectors?u=76281980&t=26)** So I used three lines of jQuery code that dynamically changed the background for each product name.
 >
-> **[0:33](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-selectors?u=76281980&t=33)** So remember, if we scroll down to the products section, remember that all of the products are listed inside a section tag with an ID of products, and that each product name is an H2 element with a class of product name and a data type attribute indicating what type of product that it is.
+> **[0:33](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-selectors?u=76281980&t=33)** So remember, if we scroll down to the [[Microsoft Products|products]] section, remember that all of the products are listed inside a section tag with an ID of products, and that each product name is an H2 element with a class of product name and a data type attribute indicating what type of product that it is.
 >
 > **[1:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-selectors?u=76281980&t=60)** So all I need to do is write a jQuery selector to select each of these H2 tags and change the background color.
 >
@@ -1933,7 +1910,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[Microsoft Products|Products]] (5), data (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[JavaScript]] (1)
 > **Code Identifiers:** jquery (4)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is an  (1)
@@ -1945,8 +1922,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating content
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/creating-content?u=76281980)
+#### [Creating content](https://www.linkedin.com/learning/jquery-essential-training-24696205/creating-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1956,13 +1932,13 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/jquery-essential-training-24696205/creating-content?u=76281980&t=11)** In addition to working with existing content, there are times when you're going to want to create new content and add it to the page.
 >
-> **[0:19](https://www.linkedin.com/learning/jquery-essential-training-24696205/creating-content?u=76281980&t=19)** For these purposes, you use jQuery's content creation and manipulation functions.
+> **[0:19](https://www.linkedin.com/learning/jquery-essential-training-24696205/creating-content?u=76281980&t=19)** For these purposes, you use jQuery's [[Content Creation]] and manipulation functions.
 >
 > **[0:23](https://www.linkedin.com/learning/jquery-essential-training-24696205/creating-content?u=76281980&t=23)** And as you'll see in this chapter, there are functions for creating, copying, deleting, and moving content around.
 >
 > **[0:31](https://www.linkedin.com/learning/jquery-essential-training-24696205/creating-content?u=76281980&t=31)** So let's start by creating some content.
 >
-> **[0:33](https://www.linkedin.com/learning/jquery-essential-training-24696205/creating-content?u=76281980&t=33)** Here in the editor, I'm going to open up the Creating.html file.
+> **[0:33](https://www.linkedin.com/learning/jquery-essential-training-24696205/creating-content?u=76281980&t=33)** Here in the editor, I'm going to open up the Creating.[[HTML]] file.
 >
 > **[0:38](https://www.linkedin.com/learning/jquery-essential-training-24696205/creating-content?u=76281980&t=38)** And you can see I've already filled out the document ready function with some event handlers for the three buttons that are down here in the page for creating, changing, and changing all content.
 >
@@ -2064,11 +2040,11 @@ created: 2026-05-02
 >
 > **[5:42](https://www.linkedin.com/learning/jquery-essential-training-24696205/creating-content?u=76281980&t=342)** So the text and HTML functions give you an easy way of creating content for use in your pages.
 >
-> **[5:47](https://www.linkedin.com/learning/jquery-essential-training-24696205/creating-content?u=76281980&t=347)** And as we move through the rest of this chapter, you'll see that these can be used with other functions to give you a great deal of flexibility in how you create and manage the content of your web apps.
+> **[5:47](https://www.linkedin.com/learning/jquery-essential-training-24696205/creating-content?u=76281980&t=347)** And as we move through the [[Representational State Transfer (REST)|rest]] of this chapter, you'll see that these can be used with other functions to give you a great deal of flexibility in how you create and manage the content of your web apps.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (14), web application (1), [[Content Creation]] (1), [[Representational State Transfer (REST)|Rest]] (1), web (1)
+> **Frameworks & Libraries:** [[HTML]] (14), [[Content Creation]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** html (12)
 > **Code Identifiers:** jquery (3), newitem (2), createcontent (1), changecontent (1), changeallthecontent (1)
 > **Cross-References:** go back to (4), previous chapter (1)
@@ -2077,8 +2053,7 @@ created: 2026-05-02
 > **File Paths:** creating.html (1)
 > **CLI Commands:** make (1)
 
-#### Inserting page content
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/inserting-page-content?u=76281980)
+#### [Inserting page content](https://www.linkedin.com/learning/jquery-essential-training-24696205/inserting-page-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2090,7 +2065,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/jquery-essential-training-24696205/inserting-page-content?u=76281980&t=18)** You can insert content inside of other elements, and you can insert content relative to the outside of elements, and we'll examine both methods.
 >
-> **[0:27](https://www.linkedin.com/learning/jquery-essential-training-24696205/inserting-page-content?u=76281980&t=27)** So let's consider this sample HTML fragment, which represents a paragraph tag.
+> **[0:27](https://www.linkedin.com/learning/jquery-essential-training-24696205/inserting-page-content?u=76281980&t=27)** So let's consider this sample [[HTML]] fragment, which represents a paragraph tag.
 >
 > **[0:32](https://www.linkedin.com/learning/jquery-essential-training-24696205/inserting-page-content?u=76281980&t=32)** And let's imagine we wanted to insert some new content either inside this tag or before or after the paragraph.
 >
@@ -2214,7 +2189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), web (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Code Identifiers:** jquery (10), prependto (4), insertbefore (4), appendto (3), insertafter (3)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (3)
@@ -2223,8 +2198,7 @@ created: 2026-05-02
 > **Env Vars:** html (2)
 > **Definitions:** is a  (1)
 
-#### Altering page content
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/altering-page-content?u=76281980)
+#### [Altering page content](https://www.linkedin.com/learning/jquery-essential-training-24696205/altering-page-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2332,7 +2306,7 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/jquery-essential-training-24696205/altering-page-content?u=76281980&t=297)** First, let's use the replaceAll function.
 >
-> **[5:01](https://www.linkedin.com/learning/jquery-essential-training-24696205/altering-page-content?u=76281980&t=301)** And I'm going to create some new HTML.
+> **[5:01](https://www.linkedin.com/learning/jquery-essential-training-24696205/altering-page-content?u=76281980&t=301)** And I'm going to create some new [[HTML]].
 >
 > **[5:04](https://www.linkedin.com/learning/jquery-essential-training-24696205/altering-page-content?u=76281980&t=304)** I'm going to create a div with the string, replaced, inside of it, and I'm going to call replaceAll.
 >
@@ -2398,7 +2372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[HTML]] (3)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **Code Identifiers:** jquery (5), wrapall (5), replaceall (3), replacewith (3), replacementfn (1)
 > **Env Vars:** html (3)
 > **UI Navigation:** click on (2), open the (1)
@@ -2407,8 +2381,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manipulating attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/manipulating-attributes?u=76281980)
+#### [Manipulating attributes](https://www.linkedin.com/learning/jquery-essential-training-24696205/manipulating-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2570,7 +2543,7 @@ created: 2026-05-02
 >
 > **[7:25](https://www.linkedin.com/learning/jquery-essential-training-24696205/manipulating-attributes?u=76281980&t=445)** So in the previous examples, I've been using individual strings that identify the attribute I want to affect.
 >
-> **[7:31](https://www.linkedin.com/learning/jquery-essential-training-24696205/manipulating-attributes?u=76281980&t=451)** In this case, I'm going to use this JavaScript object that contains multiple attributes.
+> **[7:31](https://www.linkedin.com/learning/jquery-essential-training-24696205/manipulating-attributes?u=76281980&t=451)** In this case, I'm going to use this [[JavaScript]] object that contains multiple attributes.
 >
 > **[7:36](https://www.linkedin.com/learning/jquery-essential-training-24696205/manipulating-attributes?u=76281980&t=456)** So when this code runs, I'm going to get a reference to all the images.
 >
@@ -2588,7 +2561,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **UI Navigation:** click on (5), scroll down (1), scroll up (1)
 > **Cross-References:** go back to (5), earlier in (1)
 > **CLI Commands:** make (2)
@@ -2597,8 +2570,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/working-with-css?u=76281980)
+#### [Working with CSS](https://www.linkedin.com/learning/jquery-essential-training-24696205/working-with-css?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2624,7 +2596,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/jquery-essential-training-24696205/working-with-css?u=76281980&t=81)** And this is pretty useful, because you can calculate CSS property values on the fly as you're setting them.
 >
-> **[1:27](https://www.linkedin.com/learning/jquery-essential-training-24696205/working-with-css?u=76281980&t=87)** And finally, you can give the css function a JavaScript object that contains a bunch of name value pairs that indicate the properties and values that you want to set them to.
+> **[1:27](https://www.linkedin.com/learning/jquery-essential-training-24696205/working-with-css?u=76281980&t=87)** And finally, you can give the css function a [[JavaScript]] object that contains a bunch of name value pairs that indicate the properties and values that you want to set them to.
 >
 > **[1:41](https://www.linkedin.com/learning/jquery-essential-training-24696205/working-with-css?u=76281980&t=101)** In addition to the basic css function, there's a few others you should know about.
 >
@@ -2724,7 +2696,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (24), web application (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Env Vars:** css (12)
 > **Code Identifiers:** jquery (3), addclass (3), removeclass (2), toggleclass (2), hasclass (1)
 > **UI Navigation:** toggle (4), click on (3)
@@ -2733,12 +2705,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Embedding custom data
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/embedding-custom-data?u=76281980)
+#### [Embedding custom data](https://www.linkedin.com/learning/jquery-essential-training-24696205/embedding-custom-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/embedding-custom-data?u=76281980&t=0)** - [Instructor] HTML provides a way of associating arbitrary data with elements on the page using a feature called data attributes.
+> **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/embedding-custom-data?u=76281980&t=0)** - [Instructor] [[HTML]] provides a way of associating arbitrary data with elements on the page using a feature called data attributes.
 >
 > **[0:08](https://www.linkedin.com/learning/jquery-essential-training-24696205/embedding-custom-data?u=76281980&t=8)** If you're not familiar with data attributes, take a look at this article here on the Mozilla Developer network, which explains what they are and how to use them.
 >
@@ -2762,7 +2733,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/jquery-essential-training-24696205/embedding-custom-data?u=76281980&t=69)** The first is to either supply a key-value pair, in which case the key is the name of the attribute that will hold the data and the value is the data itself.
 >
-> **[1:19](https://www.linkedin.com/learning/jquery-essential-training-24696205/embedding-custom-data?u=76281980&t=79)** Or you could pass in a JavaScript object which contains multiple keys and multiple values to store all at once.
+> **[1:19](https://www.linkedin.com/learning/jquery-essential-training-24696205/embedding-custom-data?u=76281980&t=79)** Or you could pass in a [[JavaScript]] object which contains multiple keys and multiple values to store all at once.
 >
 > **[1:27](https://www.linkedin.com/learning/jquery-essential-training-24696205/embedding-custom-data?u=76281980&t=87)** To retrieve the data, you simply call the data function with the name of the key or with no parameters at all, in which case it will return a JavaScript object containing all of the data that's currently on the element.
 >
@@ -2778,11 +2749,11 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/jquery-essential-training-24696205/embedding-custom-data?u=76281980&t=131)** Let's start by filling out the #show data event handler.
 >
-> **[2:17](https://www.linkedin.com/learning/jquery-essential-training-24696205/embedding-custom-data?u=76281980&t=137)** So I'm just going to call alert, and I'm going to stringify the JSON data that's on there.
+> **[2:17](https://www.linkedin.com/learning/jquery-essential-training-24696205/embedding-custom-data?u=76281980&t=137)** So I'm just going to call alert, and I'm going to stringify the [[JSON]] data that's on there.
 >
 > **[2:27](https://www.linkedin.com/learning/jquery-essential-training-24696205/embedding-custom-data?u=76281980&t=147)** So I'm going to get a reference to my #example <div> and I'm going to call the data function with no parameters.
 >
-> **[2:40](https://www.linkedin.com/learning/jquery-essential-training-24696205/embedding-custom-data?u=76281980&t=160)** And then I'm just going to fill out the rest of my JSON stringify parameters.
+> **[2:40](https://www.linkedin.com/learning/jquery-essential-training-24696205/embedding-custom-data?u=76281980&t=160)** And then I'm just going to fill out the [[Representational State Transfer (REST)|rest]] of my JSON stringify parameters.
 >
 > **[2:47](https://www.linkedin.com/learning/jquery-essential-training-24696205/embedding-custom-data?u=76281980&t=167)** All right, so this code calls the data function with no arguments to get all of the data attributes on the #example <div>.
 >
@@ -2878,7 +2849,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (44), [[JSON]] (3), api (2), [[JavaScript]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[JavaScript]] (2), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** jquery (5), removedata (2)
 > **Env Vars:** json (3), api (2), html (1)
 > **UI Navigation:** click on (5), go to (1)
@@ -2887,8 +2858,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (2)
 > **Analogies:** for example (1)
 
-#### Challenge: Dynamic element visibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-dynamic-element-visibility?u=76281980)
+#### [Challenge: Dynamic element visibility](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-dynamic-element-visibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2900,7 +2870,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-dynamic-element-visibility?u=76281980&t=16)** So, let's go ahead and open up the HPlusSport site.
 >
-> **[0:22](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-dynamic-element-visibility?u=76281980&t=22)** I'm going to open up the index page and we're going to scroll down to the products section, which is right here.
+> **[0:22](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-dynamic-element-visibility?u=76281980&t=22)** I'm going to open up the index page and we're going to scroll down to the [[Microsoft Products|products]] section, which is right here.
 >
 > **[0:34](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-dynamic-element-visibility?u=76281980&t=34)** All right, so, notice that the products section lists various vitamins, right?
 >
@@ -2922,15 +2892,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Programming]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6)
 > **Code Identifiers:** jquery (2), products (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright electronic music) (1)
 
-#### Solution: Dynamic element visibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-dynamic-element-visibility?u=76281980)
+#### [Solution: Dynamic element visibility](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-dynamic-element-visibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2942,7 +2911,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-dynamic-element-visibility?u=76281980&t=12)** And just as a reminder, we'll scroll down.
 >
-> **[0:14](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-dynamic-element-visibility?u=76281980&t=14)** You should be seeing some behavior where if you check, and uncheck these check boxes, products should be showing and hiding.
+> **[0:14](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-dynamic-element-visibility?u=76281980&t=14)** You should be seeing some behavior where if you check, and uncheck these check boxes, [[Microsoft Products|products]] should be showing and hiding.
 >
 > **[0:21](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-dynamic-element-visibility?u=76281980&t=21)** So let's take a look at my solution.
 >
@@ -2982,7 +2951,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (12), data (4), [[Microsoft Products|Products]] (2), css (2), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **UI Navigation:** scroll down (2), checkbox (2), go to (1)
 > **Code Identifiers:** jquery (3)
 > **Env Vars:** css (2)
@@ -2995,8 +2964,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### jQuery event handling features
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-event-handling-features?u=76281980)
+#### [jQuery event handling features](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-event-handling-features?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3004,7 +2972,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-event-handling-features?u=76281980&t=6)** Now today, the major modern browsers have standardized around the new event APIs, but using them is still more work than it needs to be.
 >
-> **[0:14](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-event-handling-features?u=76281980&t=14)** jQuery provides a mechanism for working with events, that's simpler than relying on the document object model, and the WC3 APIs.
+> **[0:14](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-event-handling-features?u=76281980&t=14)** jQuery provides a mechanism for working with events, that's simpler than relying on the [[Document Object Model (DOM)|document object model]], and the WC3 APIs.
 >
 > **[0:23](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-event-handling-features?u=76281980&t=23)** And because jQuery works with sets of elements by default, it's very easy to write code that assigns event handlers to groups of objects just by using the results of the selectors and filters that we've already learned about.
 >
@@ -3014,20 +2982,19 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-event-handling-features?u=76281980&t=52)** You'll probably notice that many of these are now deprecated, so we won't be covering those.
 >
-> **[0:58](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-event-handling-features?u=76281980&t=58)** In the rest of this chapter, we'll see how to use jQuery to listen to events that happen within a webpage, and then dynamically turn them on and off as you need them.
+> **[0:58](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-event-handling-features?u=76281980&t=58)** In the [[Representational State Transfer (REST)|rest]] of this chapter, we'll see how to use jQuery to listen to events that happen within a webpage, and then dynamically turn them on and off as you need them.
 >
 > **[1:06](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-event-handling-features?u=76281980&t=66)** And then we'll see how to use jQuery's Unified event structure.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web application (1), [[Document Object Model (DOM)|Document object model]] (1), api (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Document Object Model (DOM)|Document object model]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** jquery (6)
 > **Env Vars:** wc3 (1), api (1)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Speakers:** - building (1)
 
-#### Binding and unbinding events
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/binding-and-unbinding-events?u=76281980)
+#### [Binding and unbinding events](https://www.linkedin.com/learning/jquery-essential-training-24696205/binding-and-unbinding-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3103,7 +3070,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/jquery-essential-training-24696205/binding-and-unbinding-events?u=76281980&t=220)** to turn off mouse over and mouse leave, which I enabled above, and I have to turn off that specific function.
 >
-> **[3:51](https://www.linkedin.com/learning/jquery-essential-training-24696205/binding-and-unbinding-events?u=76281980&t=231)** Next, I'm going to replace the HTML inside the event target with some text indicating that I shut the event off.
+> **[3:51](https://www.linkedin.com/learning/jquery-essential-training-24696205/binding-and-unbinding-events?u=76281980&t=231)** Next, I'm going to replace the [[HTML]] inside the event target with some text indicating that I shut the event off.
 >
 > **[4:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/binding-and-unbinding-events?u=76281980&t=240)** And I'll use the HTML function for that which we learned about earlier.
 >
@@ -3165,7 +3132,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), [[HTML]] (2), dom (2), data (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Code Identifiers:** jquery (4), charcode (2), removeclass (1), btnonetime (1), fromcharcode (1)
 > **Env Vars:** api (2), html (2), dom (2), css (1)
 > **CLI Commands:** make (2), find (1)
@@ -3174,8 +3141,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the jQuery event object
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/using-the-jquery-event-object?u=76281980)
+#### [Using the jQuery event object](https://www.linkedin.com/learning/jquery-essential-training-24696205/using-the-jquery-event-object?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3201,7 +3167,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/jquery-essential-training-24696205/using-the-jquery-event-object?u=76281980&t=88)** It's a Boolean property that you can use to see if the metaKey was held down.
 >
-> **[1:34](https://www.linkedin.com/learning/jquery-essential-training-24696205/using-the-jquery-event-object?u=76281980&t=94)** So on the Mac, that's the command key, on Windows, it's the Windows key, and so on.
+> **[1:34](https://www.linkedin.com/learning/jquery-essential-training-24696205/using-the-jquery-event-object?u=76281980&t=94)** So on the Mac, that's the command key, on [[Windows]], it's the Windows key, and so on.
 >
 > **[1:39](https://www.linkedin.com/learning/jquery-essential-training-24696205/using-the-jquery-event-object?u=76281980&t=99)** And then finally, if you really need to get access to the platform native event object, you can look here in the event.originalEvent object, and that will give you all of the native event properties.
 >
@@ -3231,7 +3197,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/jquery-essential-training-24696205/using-the-jquery-event-object?u=76281980&t=214)** In each of the callback functions, the code calls a function named updateEventDetails, which we will be filling out.
 >
-> **[3:44](https://www.linkedin.com/learning/jquery-essential-training-24696205/using-the-jquery-event-object?u=76281980&t=224)** Each callback also calls the stop propagation method on the event, because I'm handling the event right here, and I don't need the event to go bubbling up through the rest of the document and triggering all the browser's default event handlers.
+> **[3:44](https://www.linkedin.com/learning/jquery-essential-training-24696205/using-the-jquery-event-object?u=76281980&t=224)** Each callback also calls the stop propagation method on the event, because I'm handling the event right here, and I don't need the event to go bubbling up through the [[Representational State Transfer (REST)|rest]] of the document and triggering all the browser's default event handlers.
 >
 > **[3:57](https://www.linkedin.com/learning/jquery-essential-training-24696205/using-the-jquery-event-object?u=76281980&t=237)** So let's scroll down to the update events details function, and we are going to take the values from the event object and display them in our UI.
 >
@@ -3247,9 +3213,9 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/jquery-essential-training-24696205/using-the-jquery-event-object?u=76281980&t=303)** All right, so this selector affects all the span elements that have ID attributes that are contained with all my detailed line divs.
 >
-> **[5:13](https://www.linkedin.com/learning/jquery-essential-training-24696205/using-the-jquery-event-object?u=76281980&t=313)** All right, and again, another really great example of how a simple jQuery statement can replace a lot of repetitive plain JavaScript code.
+> **[5:13](https://www.linkedin.com/learning/jquery-essential-training-24696205/using-the-jquery-event-object?u=76281980&t=313)** All right, and again, another really great example of how a simple jQuery statement can replace a lot of repetitive plain [[JavaScript]] code.
 >
-> **[5:22](https://www.linkedin.com/learning/jquery-essential-training-24696205/using-the-jquery-event-object?u=76281980&t=322)** The update details function will take the information from the event object parameter that it's passed and will fill out each one of those individual fields, which are down here in the HTML.
+> **[5:22](https://www.linkedin.com/learning/jquery-essential-training-24696205/using-the-jquery-event-object?u=76281980&t=322)** The update details function will take the information from the event object parameter that it's passed and will fill out each one of those individual fields, which are down here in the [[HTML]].
 >
 > **[5:33](https://www.linkedin.com/learning/jquery-essential-training-24696205/using-the-jquery-event-object?u=76281980&t=333)** So if we scroll down and we take a look, each one of these spans is where we're going to be placing the data for each item in the event property object.
 >
@@ -3331,7 +3297,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Windows]] (3), api (2), dom (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[JavaScript]] (1), [[HTML]] (1)
 > **Code Identifiers:** jquery (7), metakey (4), pagex (2), pagey (2), originalevent (1)
 > **Env Vars:** api (2), w3c (1), dom (1), html (1)
 > **UI Navigation:** scroll down (3), click on (1)
@@ -3340,8 +3306,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), kind of like (1)
 > **Documentation:** w3c (1)
 
-#### Challenge: Use jQuery events
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-use-jquery-events?u=76281980)
+#### [Challenge: Use jQuery events](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-use-jquery-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3351,7 +3316,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-use-jquery-events?u=76281980&t=14)** So let's take a look at the start version of the H Plus sports site, and I'm going to scroll down to the product section.
 >
-> **[0:24](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-use-jquery-events?u=76281980&t=24)** And notice that as I'm clicking on each of these products, nothing happens, so we're going to change that.
+> **[0:24](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-use-jquery-events?u=76281980&t=24)** And notice that as I'm clicking on each of these [[Microsoft Products|products]], nothing happens, so we're going to change that.
 >
 > **[0:30](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-use-jquery-events?u=76281980&t=30)** Let me open up the finished version of the site to show you the difference.
 >
@@ -3359,7 +3324,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-use-jquery-events?u=76281980&t=41)** So now when I click on a product, you can see that the products page opens, and you can see that the name of the product is displayed here in the page.
 >
-> **[0:52](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-use-jquery-events?u=76281980&t=52)** The rest of these fields are currently blank and that's because we'll fill those out when we get to the challenge for the Ajax chapter, so don't worry about those for now.
+> **[0:52](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-use-jquery-events?u=76281980&t=52)** The [[Representational State Transfer (REST)|rest]] of these fields are currently blank and that's because we'll fill those out when we get to the challenge for the [[AJAX]] chapter, so don't worry about those for now.
 >
 > **[1:02](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-use-jquery-events?u=76281980&t=62)** If you look closely at the URL field here in the browser, you can see that the URL contains two query string parameters.
 >
@@ -3367,7 +3332,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-use-jquery-events?u=76281980&t=77)** The second is the product ID, and that has the prod ID parameter.
 >
-> **[1:23](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-use-jquery-events?u=76281980&t=83)** All right, so let's go back to the HTML for the start version.
+> **[1:23](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-use-jquery-events?u=76281980&t=83)** All right, so let's go back to the [[HTML]] for the start version.
 >
 > **[1:31](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-use-jquery-events?u=76281980&t=91)** All right, so down in the product section, notice that each list item tag has a data attribute that contains the product ID, so you'll probably need to use that.
 >
@@ -3377,15 +3342,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (12), [[Microsoft Products|Products]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[AJAX]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[AJAX]] (1), [[HTML]] (1)
 > **UI Navigation:** click on (2), scroll down (2)
 > **Env Vars:** url (2), html (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [lecturer] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Use jQuery events
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-use-jquery-events?u=76281980)
+#### [Solution: Use jQuery events](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-use-jquery-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3397,7 +3361,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-use-jquery-events?u=76281980&t=17)** So let's walk through the code and I'll explain how I did this.
 >
-> **[0:20](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-use-jquery-events?u=76281980&t=20)** So first, remember that part of the challenge was that we needed to pass two query string parameters to the product HTML page.
+> **[0:20](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-use-jquery-events?u=76281980&t=20)** So first, remember that part of the challenge was that we needed to pass two query string parameters to the product [[HTML]] page.
 >
 > **[0:30](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-use-jquery-events?u=76281980&t=30)** The first was the product name and the second was the product ID.
 >
@@ -3441,7 +3405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (24), data (2), [[HTML]] (1), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** url (6), html (1), uri (1), api (1)
 > **Cross-References:** earlier in (1), later in (1)
 > **CLI Commands:** make (1)
@@ -3453,14 +3417,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to jQuery animations
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/introduction-to-jquery-animations?u=76281980)
+#### [Introduction to jQuery animations](https://www.linkedin.com/learning/jquery-essential-training-24696205/introduction-to-jquery-animations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/introduction-to-jquery-animations?u=76281980&t=0)** - [Instructor] In this chapter, we're going to learn about the animation features of jQuery.
 >
-> **[0:05](https://www.linkedin.com/learning/jquery-essential-training-24696205/introduction-to-jquery-animations?u=76281980&t=5)** Before CSS animations became standard, building animation in a web app was often a very tedious problem to solve, and jQuery was one of the first JavaScript libraries to offer a set of versatile animation features that developers could use with just a couple lines of script.
+> **[0:05](https://www.linkedin.com/learning/jquery-essential-training-24696205/introduction-to-jquery-animations?u=76281980&t=5)** Before CSS animations became standard, building animation in a web app was often a very tedious problem to solve, and jQuery was one of the first [[JavaScript]] libraries to offer a set of versatile animation features that developers could use with just a couple lines of script.
 >
 > **[0:24](https://www.linkedin.com/learning/jquery-essential-training-24696205/introduction-to-jquery-animations?u=76281980&t=24)** These features are still supported in the library today, though you are more likely to find them in legacy jQuery code.
 >
@@ -3476,15 +3439,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[JavaScript]] (2), web (1), feature (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Code Identifiers:** jquery (6)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** css (2)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hiding and showing elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/hiding-and-showing-elements?u=76281980)
+#### [Hiding and showing elements](https://www.linkedin.com/learning/jquery-essential-training-24696205/hiding-and-showing-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3582,7 +3544,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (2)
 > **UI Navigation:** toggle (5), click on (2)
 > **Code Identifiers:** jquery (4)
 > **Env Vars:** dom (2)
@@ -3590,8 +3551,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fading elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/fading-elements?u=76281980)
+#### [Fading elements](https://www.linkedin.com/learning/jquery-essential-training-24696205/fading-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3683,7 +3643,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** oncomplete (2), fadein (1), fadeout (1), fadeto (1), jquery (1)
 > **Versions:** 0.3 (3), 1.0 (1)
 > **UI Navigation:** click on (4)
@@ -3692,8 +3651,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sliding elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/sliding-elements?u=76281980)
+#### [Sliding elements](https://www.linkedin.com/learning/jquery-essential-training-24696205/sliding-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3762,8 +3720,7 @@ created: 2026-05-02
 > **Code Identifiers:** jquery (1)
 > **Speakers:** - [instructor] (1)
 
-#### Custom animations
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/custom-animations?u=76281980)
+#### [Custom animations](https://www.linkedin.com/learning/jquery-essential-training-24696205/custom-animations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3921,7 +3878,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1)
 > **UI Navigation:** click on (4), scroll down (1)
 > **Code Identifiers:** jquery (3)
 > **Cross-References:** go back to (3)
@@ -3929,18 +3885,18 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Env Vars:** css (1)
 > **Definitions:** is an  (1)
+> **Speakers:** - so (1)
 
 
 ### 7. AJAX Operations
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### jQuery and AJAX
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-and-ajax?u=76281980)
+#### [jQuery and AJAX](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-and-ajax?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-and-ajax?u=76281980&t=0)** - [Instructor] jQuery provides great, comprehensive support for Ajax operations, which is where your web app communicates asynchronously with a remote server.
+> **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-and-ajax?u=76281980&t=0)** - [Instructor] jQuery provides great, comprehensive support for [[AJAX]] operations, which is where your web app communicates asynchronously with a remote server.
 >
 > **[0:10](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-and-ajax?u=76281980&t=10)** And in the past, this feature was really valuable because not all browsers supported the latest Ajax APIs.
 >
@@ -3956,7 +3912,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-and-ajax?u=76281980&t=42)** It's beyond the scope of this course to go into the deep details of what Ajax is and how it works.
 >
-> **[0:47](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-and-ajax?u=76281980&t=47)** If you need to brush up on Ajax, there's a course here in the library called JavaScript and Ajax I suggest you check out.
+> **[0:47](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-and-ajax?u=76281980&t=47)** If you need to brush up on Ajax, there's a course here in the library called [[JavaScript]] and Ajax I suggest you check out.
 >
 > **[0:54](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-and-ajax?u=76281980&t=54)** So before we start, let's take a look at the jQuery API documentation and specifically, the Ajax section.
 >
@@ -3982,7 +3938,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-and-ajax?u=76281980&t=114)** So here in VS Code, let's open up our Basic_AJAX file.
 >
-> **[2:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-and-ajax?u=76281980&t=120)** And in my example code file, I have some buttons and the buttons will trigger our Ajax operations for text and HTML data.
+> **[2:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-and-ajax?u=76281980&t=120)** And in my example code file, I have some buttons and the buttons will trigger our Ajax operations for text and [[HTML]] data.
 >
 > **[2:12](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-and-ajax?u=76281980&t=132)** And I've got this empty paragraph placeholder where the result will be inserted into the page.
 >
@@ -4090,7 +4046,7 @@ created: 2026-05-02
 >
 > **[7:06](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-and-ajax?u=76281980&t=426)** There was an error that was not found and then the request is complete.
 >
-> **[7:12](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-and-ajax?u=76281980&t=432)** Now, you might be looking at this and saying, well, this is not really all that different from the built-in fetch API that's in the browser.
+> **[7:12](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-and-ajax?u=76281980&t=432)** Now, you might be looking at this and saying, well, this is not really all that different from the built-in [[Fetch]] API that's in the browser.
 >
 > **[7:19](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-and-ajax?u=76281980&t=439)** So what's the benefit here?
 >
@@ -4098,13 +4054,13 @@ created: 2026-05-02
 >
 > **[7:31](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-and-ajax?u=76281980&t=451)** And we'll actually cover this later on in the course when we get to the chapter on migrating from jQuery features.
 >
-> **[7:37](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-and-ajax?u=76281980&t=457)** And this is true, especially if you're decoding a lot of JSON because the browser can just do that natively.
+> **[7:37](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-and-ajax?u=76281980&t=457)** And this is true, especially if you're decoding a lot of [[JSON]] because the browser can just do that natively.
 >
-> **[7:42](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-and-ajax?u=76281980&t=462)** As we go through the rest of this chapter though, you'll see some of the additional features that jQuery adds on top of the basic Ajax operations and how they can help you write simpler and more modular code.
+> **[7:42](https://www.linkedin.com/learning/jquery-essential-training-24696205/jquery-and-ajax?u=76281980&t=462)** As we go through the [[Representational State Transfer (REST)|rest]] of this chapter though, you'll see some of the additional features that jQuery adds on top of the basic Ajax operations and how they can help you write simpler and more modular code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AJAX]] (18), data (11), [[HTML]] (5), api (3), [[Fetch]] (3)
+> **Frameworks & Libraries:** [[AJAX]] (18), [[HTML]] (5), [[Fetch]] (3), [[JavaScript]] (1), [[JSON]] (1)
 > **Env Vars:** html (4), api (3), url (2), xhr (1), json (1)
 > **Code Identifiers:** jquery (8), getdata (2)
 > **File Paths:** testdata.txt (1), testdata.html (1), testdata1.txt (1)
@@ -4113,12 +4069,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Cross-References:** earlier in (1)
 
-#### Convenience functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/convenience-functions?u=76281980)
+#### [Convenience functions](https://www.linkedin.com/learning/jquery-essential-training-24696205/convenience-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/convenience-functions?u=76281980&t=0)** - [Instructor] Some types of Ajax operations happen fairly frequently in web development.
+> **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/convenience-functions?u=76281980&t=0)** - [Instructor] Some types of [[AJAX]] operations happen fairly frequently in [[Web Development]].
 >
 > **[0:05](https://www.linkedin.com/learning/jquery-essential-training-24696205/convenience-functions?u=76281980&t=5)** And because of that, jQuery provides a set of shorthand convenience functions to help make those operations easy to code.
 >
@@ -4130,9 +4085,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/jquery-essential-training-24696205/convenience-functions?u=76281980&t=26)** jQuery provides useful shorthand methods such as get and post for performing HTTP GET and POST requests.
 >
-> **[0:35](https://www.linkedin.com/learning/jquery-essential-training-24696205/convenience-functions?u=76281980&t=35)** There's also a getJSON for retrieving JSON data.
+> **[0:35](https://www.linkedin.com/learning/jquery-essential-training-24696205/convenience-functions?u=76281980&t=35)** There's also a getJSON for retrieving [[JSON]] data.
 >
-> **[0:39](https://www.linkedin.com/learning/jquery-essential-training-24696205/convenience-functions?u=76281980&t=39)** There's getScript for retrieving and then executing JavaScript code.
+> **[0:39](https://www.linkedin.com/learning/jquery-essential-training-24696205/convenience-functions?u=76281980&t=39)** There's getScript for retrieving and then executing [[JavaScript]] code.
 >
 > **[0:44](https://www.linkedin.com/learning/jquery-essential-training-24696205/convenience-functions?u=76281980&t=44)** And then there's a load function which retrieves content and places it inside a page element.
 >
@@ -4206,7 +4161,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/jquery-essential-training-24696205/convenience-functions?u=76281980&t=226)** I'm going to call the load function.
 >
-> **[3:48](https://www.linkedin.com/learning/jquery-essential-training-24696205/convenience-functions?u=76281980&t=228)** And I'm just going to call testdata, in this case, the HTML version, which contains a few paragraphs.
+> **[3:48](https://www.linkedin.com/learning/jquery-essential-training-24696205/convenience-functions?u=76281980&t=228)** And I'm just going to call testdata, in this case, the [[HTML]] version, which contains a few paragraphs.
 >
 > **[3:56](https://www.linkedin.com/learning/jquery-essential-training-24696205/convenience-functions?u=76281980&t=236)** So this code will get a reference to that paragraph element and insert the data that's returned from this URL, all in one line of code.
 >
@@ -4254,7 +4209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[HTML]] (6), [[AJAX]] (3), [[Web Development]] (2), api (1)
+> **Frameworks & Libraries:** [[HTML]] (6), [[AJAX]] (3), [[Web Development]] (2), [[JSON]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** jquery (7), ajaxcontent (2), loaddata (2), getjson (1), getscript (1)
 > **Env Vars:** html (5), url (4), api (1), http (1), post (1)
 > **Cross-References:** go back to (6)
@@ -4263,16 +4218,15 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **API Endpoints:** get  (1), post  (1)
 
-#### Working with different data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/working-with-different-data-types?u=76281980)
+#### [Working with different data types](https://www.linkedin.com/learning/jquery-essential-training-24696205/working-with-different-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/working-with-different-data-types?u=76281980&t=0)** - [Instructor] So far in this chapter, we've seen how to work with plain text data and HTML.
+> **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/working-with-different-data-types?u=76281980&t=0)** - [Instructor] So far in this chapter, we've seen how to work with plain text data and [[HTML]].
 >
-> **[0:04](https://www.linkedin.com/learning/jquery-essential-training-24696205/working-with-different-data-types?u=76281980&t=4)** But you can of course use jQuery and AJAX to work with other kinds of data.
+> **[0:04](https://www.linkedin.com/learning/jquery-essential-training-24696205/working-with-different-data-types?u=76281980&t=4)** But you can of course use jQuery and [[AJAX]] to work with other kinds of data.
 >
-> **[0:10](https://www.linkedin.com/learning/jquery-essential-training-24696205/working-with-different-data-types?u=76281980&t=10)** In this example, we'll see how to work with XML and JSON data.
+> **[0:10](https://www.linkedin.com/learning/jquery-essential-training-24696205/working-with-different-data-types?u=76281980&t=10)** In this example, we'll see how to work with XML and [[JSON]] data.
 >
 > **[0:14](https://www.linkedin.com/learning/jquery-essential-training-24696205/working-with-different-data-types?u=76281980&t=14)** So let's open up the DataTypes_AJAX file.
 >
@@ -4364,7 +4318,7 @@ created: 2026-05-02
 >
 > **[5:40](https://www.linkedin.com/learning/jquery-essential-training-24696205/working-with-different-data-types?u=76281980&t=340)** So let's go ahead and do that.
 >
-> **[5:43](https://www.linkedin.com/learning/jquery-essential-training-24696205/working-with-different-data-types?u=76281980&t=343)** So the success function, the result parameter is going to be a JavaScript object.
+> **[5:43](https://www.linkedin.com/learning/jquery-essential-training-24696205/working-with-different-data-types?u=76281980&t=343)** So the success function, the result parameter is going to be a [[JavaScript]] object.
 >
 > **[5:49](https://www.linkedin.com/learning/jquery-essential-training-24696205/working-with-different-data-types?u=76281980&t=349)** It's going to be a whole bunch of JSON code that represents the search results from the Flickr API.
 >
@@ -4404,11 +4358,11 @@ created: 2026-05-02
 >
 > **[7:59](https://www.linkedin.com/learning/jquery-essential-training-24696205/working-with-different-data-types?u=76281980&t=479)** And maybe pause here for a few moments, try out some experiments on your own.
 >
-> **[8:04](https://www.linkedin.com/learning/jquery-essential-training-24696205/working-with-different-data-types?u=76281980&t=484)** Try out using different forms of XML and JSON, and see how easy it's to use jQuery to work with these data types.
+> **[8:04](https://www.linkedin.com/learning/jquery-essential-training-24696205/working-with-different-data-types?u=76281980&t=484)** Try out using different [[Forms]] of XML and JSON, and see how easy it's to use jQuery to work with these data types.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[JSON]] (12), api (8), [[AJAX]] (5), [[Search]] (4)
+> **Frameworks & Libraries:** [[JSON]] (12), [[AJAX]] (5), [[HTML]] (2), [[JavaScript]] (2), [[Forms]] (1)
 > **Env Vars:** xml (19), json (11), api (8), ajax (4), html (2)
 > **Code Identifiers:** jquery (5), getjson (3), flickrapi (3), firstchild (2), nodevalue (2)
 > **Cross-References:** earlier in (1), go back to (1)
@@ -4417,12 +4371,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 
-#### Using global AJAX handlers
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/using-global-ajax-handlers?u=76281980)
+#### [Using global AJAX handlers](https://www.linkedin.com/learning/jquery-essential-training-24696205/using-global-ajax-handlers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/using-global-ajax-handlers?u=76281980&t=0)** - [Instructor] If you're building a web application that uses more than a trivial amount of AJAX, you might want to centralize some of the operations to make them easier to maintain and update in the future.
+> **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/using-global-ajax-handlers?u=76281980&t=0)** - [Instructor] If you're building a web application that uses more than a trivial amount of [[AJAX]], you might want to centralize some of the operations to make them easier to maintain and update in the future.
 >
 > **[0:12](https://www.linkedin.com/learning/jquery-essential-training-24696205/using-global-ajax-handlers?u=76281980&t=12)** The jQuery AJAX module provides a set of global event handlers that you can use to listen for interesting events that take place during the lifecycle of all the AJAX requests on a webpage.
 >
@@ -4568,7 +4521,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AJAX]] (11), application (3), data (3), web application (1), api (1)
+> **Frameworks & Libraries:** [[AJAX]] (11)
 > **Code Identifiers:** jquery (7), ajaxcomplete (4), ajaxerror (3), ajaxstop (3), ajaxsuccess (2)
 > **Env Vars:** ajax (10), api (1), http (1)
 > **Cross-References:** go back to (3)
@@ -4577,18 +4530,17 @@ created: 2026-05-02
 > **Versions:** 3.5 (1)
 > **UI Navigation:** scroll up (1)
 
-#### Challenge: AJAX
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-ajax?u=76281980)
+#### [Challenge: AJAX](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-ajax?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-ajax?u=76281980&t=0)** - [Instructor] In this programming challenge, we're going to use AJAX to load our product database and populate the product information page.
+> **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-ajax?u=76281980&t=0)** - [Instructor] In this programming challenge, we're going to use [[AJAX]] to load our product database and populate the product information page.
 >
-> **[0:13](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-ajax?u=76281980&t=13)** So remember from a previous challenge that our site was passing the product name and product ID to the product page, but that the rest of the fields were empty.
+> **[0:13](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-ajax?u=76281980&t=13)** So remember from a previous challenge that our site was passing the product name and product ID to the product page, but that the [[Representational State Transfer (REST)|rest]] of the fields were empty.
 >
 > **[0:24](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-ajax?u=76281980&t=24)** So I'm going to go ahead and open up the finished site, and I'm going to try out the finished code.
 >
-> **[0:32](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-ajax?u=76281980&t=32)** So when I scroll down to the products, you can see that when I click on a product, what's being loaded now is the product name, whether or not it's in stock, and what the price is.
+> **[0:32](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-ajax?u=76281980&t=32)** So when I scroll down to the [[Microsoft Products|products]], you can see that when I click on a product, what's being loaded now is the product name, whether or not it's in stock, and what the price is.
 >
 > **[0:47](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-ajax?u=76281980&t=47)** So remember from the last challenge that our site was passing the product name and product ID to the product page via the URL query string, but that the rest of the fields were empty.
 >
@@ -4596,13 +4548,13 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-ajax?u=76281980&t=66)** So let's go ahead and take a look at the code for the challenge.
 >
-> **[1:13](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-ajax?u=76281980&t=73)** If you look inside the Start folder in HPlusSport, there is a product-data.json file.
+> **[1:13](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-ajax?u=76281980&t=73)** If you look inside the Start folder in HPlusSport, there is a product-data.[[JSON]] file.
 >
 > **[1:21](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-ajax?u=76281980&t=81)** So the information for each of these products comes from this JSON data.
 >
 > **[1:26](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-ajax?u=76281980&t=86)** So what you'll need to do is load this JSON file using AJAX, and then get the relevant product information using the product ID that is passed to the product page as part of the query string.
 >
-> **[1:40](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-ajax?u=76281980&t=100)** And if you look at the HTML for the product page, I'll scroll down here a little bit.
+> **[1:40](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-ajax?u=76281980&t=100)** And if you look at the [[HTML]] for the product page, I'll scroll down here a little bit.
 >
 > **[1:47](https://www.linkedin.com/learning/jquery-essential-training-24696205/challenge-ajax?u=76281980&t=107)** You can see that there are placeholders here for each of the product data.
 >
@@ -4614,7 +4566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (18), data (5), [[JSON]] (4), [[Representational State Transfer (REST)|Rest]] (3), [[AJAX]] (2)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Representational State Transfer (REST)|Rest]] (3), [[AJAX]] (2), [[Microsoft Products|Products]] (2), [[HTML]] (1)
 > **Env Vars:** json (3), ajax (2), url (1), html (1)
 > **UI Navigation:** scroll down (2), click on (1)
 > **File Paths:** product-data.json (1)
@@ -4623,8 +4575,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: AJAX
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-ajax?u=76281980)
+#### [Solution: AJAX](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-ajax?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4632,9 +4583,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-ajax?u=76281980&t=9)** And remember, it's okay if your solution is different than mine.
 >
-> **[0:13](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-ajax?u=76281980&t=13)** So here in the finished folder, I am going to open up the index.html, product-data, and product.html page.
+> **[0:13](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-ajax?u=76281980&t=13)** So here in the finished folder, I am going to open up the index.[[HTML]], product-data, and product.html page.
 >
-> **[0:23](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-ajax?u=76281980&t=23)** So what we had to do in this challenge was load the JSON data for our products and then find the right product data to display in our placeholders in the product information section, which is down here in the page.
+> **[0:23](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-ajax?u=76281980&t=23)** So what we had to do in this challenge was load the [[JSON]] data for our [[Microsoft Products|products]] and then find the right product data to display in our placeholders in the product information section, which is down here in the page.
 >
 > **[0:40](https://www.linkedin.com/learning/jquery-essential-training-24696205/solution-ajax?u=76281980&t=40)** So you can see that in the JSON data, I have an array of products and each one of these products has some information.
 >
@@ -4674,7 +4625,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (15), [[JSON]] (7), data (6), [[Microsoft Products|Products]] (4), [[HTML]] (2)
+> **Frameworks & Libraries:** [[JSON]] (7), [[Microsoft Products|Products]] (4), [[HTML]] (2)
 > **Env Vars:** json (7), url (1)
 > **Code Identifiers:** jquery (3)
 > **File Paths:** index.html (1), product.html (1)
@@ -4688,8 +4639,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DataTables
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/datatables?u=76281980)
+#### [DataTables](https://www.linkedin.com/learning/jquery-essential-training-24696205/datatables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4719,7 +4669,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/jquery-essential-training-24696205/datatables?u=76281980&t=87)** So let's go ahead and open our example in the code, and we'll take a look at how it works.
 >
-> **[1:33](https://www.linkedin.com/learning/jquery-essential-training-24696205/datatables?u=76281980&t=93)** So here in Chapter, let's open up DataTables.html.
+> **[1:33](https://www.linkedin.com/learning/jquery-essential-training-24696205/datatables?u=76281980&t=93)** So here in Chapter, let's open up DataTables.[[HTML]].
 >
 > **[1:39](https://www.linkedin.com/learning/jquery-essential-training-24696205/datatables?u=76281980&t=99)** So to keep this example simple, I've embedded the data that we're going to work with directly within the HTML inside of a table.
 >
@@ -4727,7 +4677,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/jquery-essential-training-24696205/datatables?u=76281980&t=111)** There are multiple ways to get data into a data table.
 >
-> **[1:56](https://www.linkedin.com/learning/jquery-essential-training-24696205/datatables?u=76281980&t=116)** You can retrieve it from a remote source using Ajax, or you can use regular JavaScript objects or arrays.
+> **[1:56](https://www.linkedin.com/learning/jquery-essential-training-24696205/datatables?u=76281980&t=116)** You can retrieve it from a remote source using [[AJAX]], or you can use regular [[JavaScript]] objects or arrays.
 >
 > **[2:04](https://www.linkedin.com/learning/jquery-essential-training-24696205/datatables?u=76281980&t=124)** It's entirely up to you.
 >
@@ -4785,7 +4735,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/jquery-essential-training-24696205/datatables?u=76281980&t=265)** So it's respecting my new defaults.
 >
-> **[4:27](https://www.linkedin.com/learning/jquery-essential-training-24696205/datatables?u=76281980&t=267)** You can see that we're starting off with a default search of the London office.
+> **[4:27](https://www.linkedin.com/learning/jquery-essential-training-24696205/datatables?u=76281980&t=267)** You can see that we're starting off with a default search of the London [[Microsoft Office|office]].
 >
 > **[4:32](https://www.linkedin.com/learning/jquery-essential-training-24696205/datatables?u=76281980&t=272)** So this is a very rich and full featured plugin, and I don't have nearly enough time to go into all the features.
 >
@@ -4799,7 +4749,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), data (5), [[HTML]] (2), [[AJAX]] (2), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[HTML]] (2), [[AJAX]] (2), [[JavaScript]] (2), [[Microsoft Office|Office]] (1)
 > **Code Identifiers:** jquery (6)
 > **CLI Commands:** find (2), make (2), node (1)
 > **Definitions:** is a  (3)
@@ -4808,8 +4758,7 @@ created: 2026-05-02
 > **Prerequisites:** initialization (2)
 > **File Paths:** datatables.html (1)
 
-#### Form validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/form-validation?u=76281980)
+#### [Form validation](https://www.linkedin.com/learning/jquery-essential-training-24696205/form-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4823,7 +4772,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/jquery-essential-training-24696205/form-validation?u=76281980&t=30)** There's a jQuery plugin that's been around for a very long time, almost as long as jQuery itself, and that can really help here.
 >
-> **[0:38](https://www.linkedin.com/learning/jquery-essential-training-24696205/form-validation?u=76281980&t=38)** You can find it at this link on GitHub.
+> **[0:38](https://www.linkedin.com/learning/jquery-essential-training-24696205/form-validation?u=76281980&t=38)** You can find it at this link on [[GitHub]].
 >
 > **[0:40](https://www.linkedin.com/learning/jquery-essential-training-24696205/form-validation?u=76281980&t=40)** It's called jQuery Validate, and it's free to download, which I've already done.
 >
@@ -4849,7 +4798,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/jquery-essential-training-24696205/form-validation?u=76281980&t=110)** Let me give us some more room to work here.
 >
-> **[1:52](https://www.linkedin.com/learning/jquery-essential-training-24696205/form-validation?u=76281980&t=112)** You can see that on the form itself, I'm using several of the HTML features, such as indicating which fields are required.
+> **[1:52](https://www.linkedin.com/learning/jquery-essential-training-24696205/form-validation?u=76281980&t=112)** You can see that on the form itself, I'm using several of the [[HTML]] features, such as indicating which fields are required.
 >
 > **[2:02](https://www.linkedin.com/learning/jquery-essential-training-24696205/form-validation?u=76281980&t=122)** I've given my fields different types.
 >
@@ -4911,7 +4860,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (2), css (2), web (1), data (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[HTML]] (1)
 > **Env Vars:** url (4), css (2), html (1)
 > **Code Identifiers:** jquery (4), jqueryvalidation (2)
 > **Cross-References:** go back to (4)
@@ -4920,8 +4869,7 @@ created: 2026-05-02
 > **Tools:** github (2)
 > **Definitions:** is a  (2)
 
-#### Toast messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/toast-messages?u=76281980)
+#### [Toast messages](https://www.linkedin.com/learning/jquery-essential-training-24696205/toast-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4943,7 +4891,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/jquery-essential-training-24696205/toast-messages?u=76281980&t=52)** And of course, I can manually close each one as well.
 >
-> **[0:56](https://www.linkedin.com/learning/jquery-essential-training-24696205/toast-messages?u=76281980&t=56)** So, these messages are very easy to implement and customize using the Toast Message jQuery plugin, which you can find in this GitHub repository.
+> **[0:56](https://www.linkedin.com/learning/jquery-essential-training-24696205/toast-messages?u=76281980&t=56)** So, these messages are very easy to implement and customize using the Toast Message jQuery plugin, which you can find in this [[GitHub]] repository.
 >
 > **[1:06](https://www.linkedin.com/learning/jquery-essential-training-24696205/toast-messages?u=76281980&t=66)** It's a very small plugin, it's just a few K in size and it's easy to integrate into your site.
 >
@@ -4953,7 +4901,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/jquery-essential-training-24696205/toast-messages?u=76281980&t=84)** Alright, so here in the code, let's go ahead and open up "ToastMessages" in our starting folder.
 >
-> **[1:32](https://www.linkedin.com/learning/jquery-essential-training-24696205/toast-messages?u=76281980&t=92)** So, I've already included the link to the toasts JavaScript and CSS files here in the code, and I've already got empty click handlers for the four buttons to show each of the toast types.
+> **[1:32](https://www.linkedin.com/learning/jquery-essential-training-24696205/toast-messages?u=76281980&t=92)** So, I've already included the link to the toasts [[JavaScript]] and CSS files here in the code, and I've already got empty click handlers for the four buttons to show each of the toast types.
 >
 > **[1:48](https://www.linkedin.com/learning/jquery-essential-training-24696205/toast-messages?u=76281980&t=108)** So, let's go ahead and fill out each of these button click message handlers.
 >
@@ -5041,7 +4989,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[GitHub]] (1), [[JavaScript]] (1), generic (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** css (2)
 > **Cross-References:** as you saw (1), go back to (1)
@@ -5055,14 +5003,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing to migrate
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/preparing-to-migrate?u=76281980)
+#### [Preparing to migrate](https://www.linkedin.com/learning/jquery-essential-training-24696205/preparing-to-migrate?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/preparing-to-migrate?u=76281980&t=0)** - [Instructor] As popular and useful as jQuery is, you might find yourself working in a code base that is migrating one or more features off of jQuery.
 >
-> **[0:09](https://www.linkedin.com/learning/jquery-essential-training-24696205/preparing-to-migrate?u=76281980&t=9)** In this chapter, I'll discuss some high-level strategy you can use to plan your migration, and then we'll take a look at some specific migration examples to plain Vanilla JavaScript.
+> **[0:09](https://www.linkedin.com/learning/jquery-essential-training-24696205/preparing-to-migrate?u=76281980&t=9)** In this chapter, I'll discuss some high-level strategy you can use to plan your migration, and then we'll take a look at some specific migration examples to plain [[Vanilla]] [[JavaScript]].
 >
 > **[0:20](https://www.linkedin.com/learning/jquery-essential-training-24696205/preparing-to-migrate?u=76281980&t=20)** Before you begin migrating, the first step is to conduct a thorough review and assessment of your current code base and how you are using jQuery.
 >
@@ -5070,7 +5017,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/jquery-essential-training-24696205/preparing-to-migrate?u=76281980&t=31)** After all, jQuery is only 30K.
 >
-> **[0:34](https://www.linkedin.com/learning/jquery-essential-training-24696205/preparing-to-migrate?u=76281980&t=34)** And the slim build, which doesn't contain animations or AJAX, is only 20K.
+> **[0:34](https://www.linkedin.com/learning/jquery-essential-training-24696205/preparing-to-migrate?u=76281980&t=34)** And the slim build, which doesn't contain animations or [[AJAX]], is only 20K.
 >
 > **[0:40](https://www.linkedin.com/learning/jquery-essential-training-24696205/preparing-to-migrate?u=76281980&t=40)** If you still decide that migration is necessary, make a note of all the major jQuery features and other dependencies that you're using.
 >
@@ -5102,23 +5049,23 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/jquery-essential-training-24696205/preparing-to-migrate?u=76281980&t=138)** These functions are used to locate elements within a webpage using the same CSS selectors that jQuery uses.
 >
-> **[2:26](https://www.linkedin.com/learning/jquery-essential-training-24696205/preparing-to-migrate?u=76281980&t=146)** For AJAX operations, we'll see how to use the fetch() API to retrieve data from a remote server.
+> **[2:26](https://www.linkedin.com/learning/jquery-essential-training-24696205/preparing-to-migrate?u=76281980&t=146)** For AJAX operations, we'll see how to use the [[Fetch]]() API to retrieve data from a remote server.
 >
 > **[2:33](https://www.linkedin.com/learning/jquery-essential-training-24696205/preparing-to-migrate?u=76281980&t=153)** We'll also see an example of using CSS transitions and animations to reproduce one of the earlier animation examples in the course.
 >
-> **[2:42](https://www.linkedin.com/learning/jquery-essential-training-24696205/preparing-to-migrate?u=76281980&t=162)** And then we'll wrap up by looking at how to perform content creation and CSS manipulation using standard JavaScript functions.
+> **[2:42](https://www.linkedin.com/learning/jquery-essential-training-24696205/preparing-to-migrate?u=76281980&t=162)** And then we'll wrap up by looking at how to perform [[Content Creation]] and CSS manipulation using standard JavaScript functions.
 >
 > **[2:50](https://www.linkedin.com/learning/jquery-essential-training-24696205/preparing-to-migrate?u=76281980&t=170)** One of the things to keep in mind as you go through this chapter is that even though it's often possible to recreate jQuery features using standard JavaScript, jQuery very often uses the same standard APIs under the hood.
 >
 > **[3:01](https://www.linkedin.com/learning/jquery-essential-training-24696205/preparing-to-migrate?u=76281980&t=181)** As a result, what usually takes just one or a few lines of jQuery code will often result in a lot of additional boilerplate code that jQuery abstracts away, which can make your code less readable and more complex to maintain.
 >
-> **[3:16](https://www.linkedin.com/learning/jquery-essential-training-24696205/preparing-to-migrate?u=76281980&t=196)** There are also cases where standard APIs haven't yet fully caught up with jQuery, or where jQuery provides convenient APIs that are more suited to common web development scenarios.
+> **[3:16](https://www.linkedin.com/learning/jquery-essential-training-24696205/preparing-to-migrate?u=76281980&t=196)** There are also cases where standard APIs haven't yet fully caught up with jQuery, or where jQuery provides convenient APIs that are more suited to common [[Web Development]] scenarios.
 >
 > **[3:27](https://www.linkedin.com/learning/jquery-essential-training-24696205/preparing-to-migrate?u=76281980&t=207)** You might find that there often isn't as much benefit to migrating from jQuery as you initially thought.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (5), css (3), [[AJAX]] (2), [[Vanilla]] (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[AJAX]] (2), [[Vanilla]] (1), [[Fetch]] (1), [[Content Creation]] (1)
 > **Code Identifiers:** jquery (18), queryselector (1), queryselectorall (1)
 > **CLI Commands:** make (7), find (2)
 > **Env Vars:** css (3), ajax (2), api (1)
@@ -5127,8 +5074,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Warnings:** keep in mind (1)
 
-#### Migrating to DOM selectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-to-dom-selectors?u=76281980)
+#### [Migrating to DOM selectors](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-to-dom-selectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5146,7 +5092,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-to-dom-selectors?u=76281980&t=45)** And so here in my editor, I'm going to open up the MigrateSelectors file.
 >
-> **[0:50](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-to-dom-selectors?u=76281980&t=50)** And you can see that I have some jQuery statements that select content, and I've left them here in place in commented out forms so we can refer to them as we build our example.
+> **[0:50](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-to-dom-selectors?u=76281980&t=50)** And you can see that I have some jQuery statements that select content, and I've left them here in place in commented out [[Forms]] so we can refer to them as we build our example.
 >
 > **[1:02](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-to-dom-selectors?u=76281980&t=62)** So the simplest statement just selects an element with a given ID.
 >
@@ -5260,11 +5206,11 @@ created: 2026-05-02
 >
 > **[6:36](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-to-dom-selectors?u=76281980&t=396)** As long as you don't use the non-standard jQuery extensions, like the even operator, you're basically just using the native APIs anyway.
 >
-> **[6:44](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-to-dom-selectors?u=76281980&t=404)** And this illustrates one of the trade-offs you'll have to consider when you think about migrating your code base, how much you value having more succinct and readable code versus reducing your JavaScript load by loading jQuery.
+> **[6:44](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-to-dom-selectors?u=76281980&t=404)** And this illustrates one of the trade-offs you'll have to consider when you think about migrating your code base, how much you value having more succinct and readable code versus reducing your [[JavaScript]] load by loading jQuery.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[Forms]] (1), node (1), api (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** jquery (16), queryselectorall (6), queryselector (5), setattribute (2), foreach (2)
 > **Cross-References:** go back to (4), earlier in (3), as we saw (1)
 > **CLI Commands:** make (2), find (1), node (1)
@@ -5273,18 +5219,17 @@ created: 2026-05-02
 > **Documentation:** mdn (1)
 > **Warnings:** note that (1)
 
-#### Migrating from AJAX
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-from-ajax?u=76281980)
+#### [Migrating from AJAX](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-from-ajax?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-from-ajax?u=76281980&t=0)** - [Instructor] When jQuery was first created, building cross-browser Ajax functionality was a lot harder than it is today.
+> **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-from-ajax?u=76281980&t=0)** - [Instructor] When jQuery was first created, building cross-browser [[AJAX]] functionality was a lot harder than it is today.
 >
-> **[0:07](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-from-ajax?u=76281980&t=7)** With the introduction of the Fetch API, which you can read more about here at this link in the MDN documentation, making simple Ajax requests became a lot easier.
+> **[0:07](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-from-ajax?u=76281980&t=7)** With the introduction of the [[Fetch]] API, which you can read more about here at this link in the MDN documentation, making simple Ajax requests became a lot easier.
 >
 > **[0:15](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-from-ajax?u=76281980&t=15)** But jQuery still has several great features for working with Ajax that haven't yet made it into the browsers.
 >
-> **[0:21](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-from-ajax?u=76281980&t=21)** Let's take a look at how we can implement the code examples from earlier in the course using standard JavaScript.
+> **[0:21](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-from-ajax?u=76281980&t=21)** Let's take a look at how we can implement the code examples from earlier in the course using standard [[JavaScript]].
 >
 > **[0:27](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-from-ajax?u=76281980&t=27)** Let's go ahead and open up the MigrateAJAX code.
 >
@@ -5292,11 +5237,11 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-from-ajax?u=76281980&t=40)** So let's run our existing file in the browser and make sure it still works.
 >
-> **[0:46](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-from-ajax?u=76281980&t=46)** So I'm going to fill out the code for the Fetch API example with these buttons, but if I click on Get Text jQuery and get HTML jQuery, we can see that they are still working.
+> **[0:46](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-from-ajax?u=76281980&t=46)** So I'm going to fill out the code for the Fetch API example with these buttons, but if I click on Get Text jQuery and get [[HTML]] jQuery, we can see that they are still working.
 >
 > **[0:57](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-from-ajax?u=76281980&t=57)** All right, so let's go back to the code.
 >
-> **[1:01](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-from-ajax?u=76281980&t=61)** So to implement the vanilla JavaScript version, we need to use the Fetch API, and I've already put the link into the doc so you can refer to that on your own.
+> **[1:01](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-from-ajax?u=76281980&t=61)** So to implement the [[Vanilla]] JavaScript version, we need to use the Fetch API, and I've already put the link into the doc so you can refer to that on your own.
 >
 > **[1:11](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-from-ajax?u=76281980&t=71)** This API is asynchronous, so I'm going to use Async and Await in order to implement this code.
 >
@@ -5370,7 +5315,7 @@ created: 2026-05-02
 >
 > **[6:16](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-from-ajax?u=76281980&t=376)** So we were able to get the same result, although we had to write more code to do it.
 >
-> **[6:20](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-from-ajax?u=76281980&t=380)** And by the way, our code still doesn't handle JSON or XML.
+> **[6:20](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-from-ajax?u=76281980&t=380)** And by the way, our code still doesn't handle [[JSON]] or XML.
 >
 > **[6:24](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-from-ajax?u=76281980&t=384)** We would have to write even more code for those cases.
 >
@@ -5388,7 +5333,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (13), [[Fetch]] (9), data (8), [[AJAX]] (6), api (6)
+> **Frameworks & Libraries:** [[HTML]] (13), [[Fetch]] (9), [[AJAX]] (6), [[JavaScript]] (2), [[Vanilla]] (1)
 > **Env Vars:** html (12), api (6), mdn (1), json (1), xml (1)
 > **Code Identifiers:** jquery (12), queryselector (2), ajaxcontent (2), innerhtml (2)
 > **UI Navigation:** click on (4), scroll up (1), scroll down (1)
@@ -5397,8 +5342,7 @@ created: 2026-05-02
 > **Documentation:** mdn (1)
 > **Definitions:** is an  (1)
 
-#### Migrating effects
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-effects?u=76281980)
+#### [Migrating effects](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-effects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5410,7 +5354,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-effects?u=76281980&t=30)** So let's open up the animating example as well and I'll click the all properties button and the element animates on the page.
 >
-> **[0:42](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-effects?u=76281980&t=42)** All right, so let's build the same effects using standard CSS in the browser without using any JavaScript.
+> **[0:42](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-effects?u=76281980&t=42)** All right, so let's build the same effects using standard CSS in the browser without using any [[JavaScript]].
 >
 > **[0:49](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-effects?u=76281980&t=49)** Okay, let's open up our start version of migrate effects.
 >
@@ -5472,7 +5416,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-effects?u=76281980&t=225)** Let's go ahead and add a color to the end state.
 >
-> **[3:48](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-effects?u=76281980&t=228)** So back down here, let's add a background color of azure, right?
+> **[3:48](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-effects?u=76281980&t=228)** So back down here, let's add a background color of [[Microsoft Azure|azure]], right?
 >
 > **[3:56](https://www.linkedin.com/learning/jquery-essential-training-24696205/migrating-effects?u=76281980&t=236)** So we'll save that.
 >
@@ -5592,7 +5536,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (11), [[Microsoft Azure|Azure]] (2), [[JavaScript]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[JavaScript]] (1)
 > **Env Vars:** css (10)
 > **Code Identifiers:** jquery (4), thediv (2), fadeout (2), addclass (1)
 > **Cross-References:** go back to (3), earlier in (1)
@@ -5601,8 +5545,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** similar to (1), just like (1), for example (1)
 
-#### Odds and ends
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/odds-and-ends?u=76281980)
+#### [Odds and ends](https://www.linkedin.com/learning/jquery-essential-training-24696205/odds-and-ends?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5610,7 +5553,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/jquery-essential-training-24696205/odds-and-ends?u=76281980&t=8)** So, let's start with CSS and we're going to open up the MigrateMisc file here in our editor.
 >
-> **[0:17](https://www.linkedin.com/learning/jquery-essential-training-24696205/odds-and-ends?u=76281980&t=17)** So, previously in the course, we saw how to use jQuery to manipulate CSS classes on a set of elements, and there are standard JavaScript equivalents for doing this now.
+> **[0:17](https://www.linkedin.com/learning/jquery-essential-training-24696205/odds-and-ends?u=76281980&t=17)** So, previously in the course, we saw how to use jQuery to manipulate CSS classes on a set of elements, and there are standard [[JavaScript]] equivalents for doing this now.
 >
 > **[0:28](https://www.linkedin.com/learning/jquery-essential-training-24696205/odds-and-ends?u=76281980&t=28)** So, I've left the jQuery code for each of the previous examples in place, but commented out, so you can compare the JavaScript code to the jQuery way of doing it.
 >
@@ -5676,11 +5619,11 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/jquery-essential-training-24696205/odds-and-ends?u=76281980&t=321)** So, once again, the jQuery code is more compact than the standard JavaScript code, but the end result is the same.
 >
-> **[5:27](https://www.linkedin.com/learning/jquery-essential-training-24696205/odds-and-ends?u=76281980&t=327)** Now, in practice, jQuery actually uses the same underlying standard DOM functions and properties that you would use in vanilla JavaScript code, but the syntax is much more lightweight than having to write the same code in plain JavaScript.
+> **[5:27](https://www.linkedin.com/learning/jquery-essential-training-24696205/odds-and-ends?u=76281980&t=327)** Now, in practice, jQuery actually uses the same underlying standard DOM functions and properties that you would use in [[Vanilla]] JavaScript code, but the syntax is much more lightweight than having to write the same code in plain JavaScript.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (8), css (3), dom (3), node (1), [[Vanilla]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (8), [[Vanilla]] (1)
 > **Code Identifiers:** jquery (10), queryselector (4), pclass (3), queryselectorall (2), appendchild (2)
 > **UI Navigation:** toggle (4), click on (4)
 > **Env Vars:** css (3), dom (3)
@@ -5694,20 +5637,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/jquery-essential-training-24696205/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/jquery-essential-training-24696205/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jquery-essential-training-24696205/next-steps?u=76281980&t=0)** - Well, that brings us to the end of the course.
 >
-> **[0:02](https://www.linkedin.com/learning/jquery-essential-training-24696205/next-steps?u=76281980&t=2)** I hope you enjoyed learning about jQuery, the most widely used JavaScript library in the world, and what makes it still incredibly useful after all these years that it has been available.
+> **[0:02](https://www.linkedin.com/learning/jquery-essential-training-24696205/next-steps?u=76281980&t=2)** I hope you enjoyed learning about jQuery, the most widely used [[JavaScript]] library in the world, and what makes it still incredibly useful after all these years that it has been available.
 >
 > **[0:13](https://www.linkedin.com/learning/jquery-essential-training-24696205/next-steps?u=76281980&t=13)** Whether you are starting a new project, or working on an existing code base, you should now have the knowledge and confidence to work with jQuery code.
 >
 > **[0:21](https://www.linkedin.com/learning/jquery-essential-training-24696205/next-steps?u=76281980&t=21)** I encourage you to keep on learning about JavaScript, and there are many other courses here in the online library that can help you do just that.
 >
-> **[0:29](https://www.linkedin.com/learning/jquery-essential-training-24696205/next-steps?u=76281980&t=29)** Be sure to connect with me on LinkedIn and share your thoughts on the course, and be sure to check out some of the other titles that I have here in the library.
+> **[0:29](https://www.linkedin.com/learning/jquery-essential-training-24696205/next-steps?u=76281980&t=29)** Be sure to connect with me on [[LinkedIn]] and share your thoughts on the course, and be sure to check out some of the other titles that I have here in the library.
 >
 > **[0:36](https://www.linkedin.com/learning/jquery-essential-training-24696205/next-steps?u=76281980&t=36)** I am looking forward to seeing you again in another one of my courses soon.
 >

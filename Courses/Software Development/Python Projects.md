@@ -83,8 +83,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create your own Python projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/create-your-own-python-projects?u=76281980)
+#### [Create your own Python projects](https://www.linkedin.com/learning/python-projects-14276284/create-your-own-python-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -104,27 +103,26 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/python-projects-14276284/create-your-own-python-projects?u=76281980&t=45)** I'm Barron Stone, and I love helping new developers take the next step in their programming journey.
 >
-> **[0:51](https://www.linkedin.com/learning/python-projects-14276284/create-your-own-python-projects?u=76281980&t=51)** If you're excited to get started creating your own Python projects, let's get to it.
+> **[0:51](https://www.linkedin.com/learning/python-projects-14276284/create-your-own-python-projects?u=76281980&t=51)** If you're excited to get started creating your own [[Python (Programming Language)|Python]] projects, let's get to it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), next (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [barron] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/python-projects-14276284/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-projects-14276284/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is intended to help new programmers take the first steps towards creating their own Python projects.
+> **[0:00](https://www.linkedin.com/learning/python-projects-14276284/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is intended to help new programmers take the first steps towards creating their own [[Python (Programming Language)|Python]] projects.
 >
 > **[0:07](https://www.linkedin.com/learning/python-projects-14276284/what-you-should-know?u=76281980&t=7)** The kind of personal projects you might work on during the weekend for fun or practice to grow your hands-on programming skills.
 >
 > **[0:14](https://www.linkedin.com/learning/python-projects-14276284/what-you-should-know?u=76281980&t=14)** As an example project throughout this course, I'll take you through my journey to develop a Python application which automates generating and sending a daily email digest.
 >
-> **[0:26](https://www.linkedin.com/learning/python-projects-14276284/what-you-should-know?u=76281980&t=26)** Now, this course is not intended to teach advanced software architectures, design patterns, or the type of development methodologies you might encounter in a professional workplace with teams of developers working together on a large-scale project.
+> **[0:26](https://www.linkedin.com/learning/python-projects-14276284/what-you-should-know?u=76281980&t=26)** Now, this course is not intended to teach advanced software architectures, [[Design Patterns]], or the type of development methodologies you might encounter in a professional workplace with teams of developers working together on a large-scale project.
 >
 > **[0:41](https://www.linkedin.com/learning/python-projects-14276284/what-you-should-know?u=76281980&t=41)** There are lots of other courses that cover those more advanced topics.
 >
@@ -140,15 +138,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Programming]] (1), application (1), [[Design Patterns]] (1), teams (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Design Patterns]] (1)
 > **CLI Commands:** python (9)
 > **URLs:** [visualstudio.com](https://visualstudio.com) (1)
 > **Tools:** visual studio (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding inspiration
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/finding-inspiration?u=76281980)
+#### [Finding inspiration](https://www.linkedin.com/learning/python-projects-14276284/finding-inspiration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -158,7 +155,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/python-projects-14276284/finding-inspiration?u=76281980&t=16)** It's similar to the challenge an aspiring author faces when they decide to write a novel, they open up their text editor, and then they stare at a blank page for hours trying to figure out what their story should be about.
 >
-> **[0:28](https://www.linkedin.com/learning/python-projects-14276284/finding-inspiration?u=76281980&t=28)** To help get past that writer's block, here are some potential sources of inspiration for your own next Python project.
+> **[0:28](https://www.linkedin.com/learning/python-projects-14276284/finding-inspiration?u=76281980&t=28)** To help get past that writer's block, here are some potential sources of inspiration for your own next [[Python (Programming Language)|Python]] project.
 >
 > **[0:35](https://www.linkedin.com/learning/python-projects-14276284/finding-inspiration?u=76281980&t=35)** First, what are your hobbies?
 >
@@ -178,7 +175,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/python-projects-14276284/finding-inspiration?u=76281980&t=65)** Do you and your coworkers spend countless hours manually copying data into and out of spreadsheets or generating reports?
 >
-> **[1:13](https://www.linkedin.com/learning/python-projects-14276284/finding-inspiration?u=76281980&t=73)** Write a Python script to automate those processes and you'll be the hero of the office.
+> **[1:13](https://www.linkedin.com/learning/python-projects-14276284/finding-inspiration?u=76281980&t=73)** Write a Python script to automate those processes and you'll be the hero of the [[Microsoft Office|office]].
 >
 > **[1:18](https://www.linkedin.com/learning/python-projects-14276284/finding-inspiration?u=76281980&t=78)** Along those lines, what are things in your own daily routine at home that could benefit from some sort of automation?
 >
@@ -190,7 +187,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Automation]] (3), [[Programming]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** python (5)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
@@ -200,12 +197,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### User stories
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/user-stories?u=76281980)
+#### [User stories](https://www.linkedin.com/learning/python-projects-14276284/user-stories?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-projects-14276284/user-stories?u=76281980&t=0)** - [Instructor] Now that I have the general idea for my next Python project to generate and send a daily email digest.
+> **[0:00](https://www.linkedin.com/learning/python-projects-14276284/user-stories?u=76281980&t=0)** - [Instructor] Now that I have the general idea for my next [[Python (Programming Language)|Python]] project to generate and send a daily email digest.
 >
 > **[0:07](https://www.linkedin.com/learning/python-projects-14276284/user-stories?u=76281980&t=7)** I can start the planning process to figure out more specific details of what exactly it should do.
 >
@@ -285,15 +281,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Python (Programming Language)|Python]] (2), feature (2), next (1), game (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1), imagine (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/use-cases?u=76281980)
+#### [Use cases](https://www.linkedin.com/learning/python-projects-14276284/use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -331,7 +326,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/python-projects-14276284/use-cases?u=76281980&t=115)** That said, you don't necessarily always need to use both.
 >
-> **[1:59](https://www.linkedin.com/learning/python-projects-14276284/use-cases?u=76281980&t=119)** For my own personal Python projects, The scope is usually small enough that I can adequately capture the information I need with user stories, which are quicker and easier to write.
+> **[1:59](https://www.linkedin.com/learning/python-projects-14276284/use-cases?u=76281980&t=119)** For my own personal [[Python (Programming Language)|Python]] projects, The scope is usually small enough that I can adequately capture the information I need with user stories, which are quicker and easier to write.
 >
 > **[2:10](https://www.linkedin.com/learning/python-projects-14276284/use-cases?u=76281980&t=130)** So I tend to stick with those.
 >
@@ -339,15 +334,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), web (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2), is called (1), is an  (1)
 > **CLI Commands:** python (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/requirements?u=76281980)
+#### [Requirements](https://www.linkedin.com/learning/python-projects-14276284/requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -401,17 +395,17 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/python-projects-14276284/requirements?u=76281980&t=215)** I'll start by implementing the four types of content, I described earlier for my daily digest, but there's a good chance I'll want to add more later so I should structure my application in a way that will enable that.
 >
-> **[3:46](https://www.linkedin.com/learning/python-projects-14276284/requirements?u=76281980&t=226)** Finally, regarding resiliency, since I'll be retrieving content from various sources on the web, there's always the possibility that certain content may be unavailable or unusable for some reason.
+> **[3:46](https://www.linkedin.com/learning/python-projects-14276284/requirements?u=76281980&t=226)** Finally, regarding [[Resiliency]], since I'll be retrieving content from various sources on the web, there's always the possibility that certain content may be unavailable or unusable for some reason.
 >
 > **[3:58](https://www.linkedin.com/learning/python-projects-14276284/requirements?u=76281980&t=238)** I don't want my application to crash, if it encounters one of those problems, so it should be fault tolerant and resilient to content errors.
 >
 > **[4:06](https://www.linkedin.com/learning/python-projects-14276284/requirements?u=76281980&t=246)** I think those are enough requirements to get going on the first iteration of my application, so I'll stop for now.
 >
-> **[4:13](https://www.linkedin.com/learning/python-projects-14276284/requirements?u=76281980&t=253)** If you're following this course with your own personal Python project in mind, this is a good time to pause and write down your own set of functional and non-functional requirements.
+> **[4:13](https://www.linkedin.com/learning/python-projects-14276284/requirements?u=76281980&t=253)** If you're following this course with your own personal [[Python (Programming Language)|Python]] project in mind, this is a good time to pause and write down your own set of functional and non-functional requirements.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (16), functional (7), [[Resiliency]] (1), web (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Resiliency]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Prerequisites:** configure (2)
@@ -419,14 +413,13 @@ created: 2026-05-02
 > **Env Vars:** gui (1)
 > **Speakers:** - [instructor] (1)
 
-#### Program architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/program-architecture?u=76281980)
+#### [Program architecture](https://www.linkedin.com/learning/python-projects-14276284/program-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-projects-14276284/program-architecture?u=76281980&t=0)** - [Instructor] Now that I've captured my requirements, it's time to figure out how I'm going to organize and structure my code for this application.
 >
-> **[0:08](https://www.linkedin.com/learning/python-projects-14276284/program-architecture?u=76281980&t=8)** Python is an object-oriented programming language, so I'll need to consider the objects in my program and the classes I might need to create.
+> **[0:08](https://www.linkedin.com/learning/python-projects-14276284/program-architecture?u=76281980&t=8)** [[Python (Programming Language)|Python]] is an [[Object-Oriented Programming (OOP)|object-oriented programming]] language, so I'll need to consider the objects in my program and the classes I might need to create.
 >
 > **[0:16](https://www.linkedin.com/learning/python-projects-14276284/program-architecture?u=76281980&t=16)** A good starting point for that is to look at the various requirements, use cases, and user stories I've written, and pick out the nouns.
 >
@@ -490,11 +483,11 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/python-projects-14276284/program-architecture?u=76281980&t=239)** Spoiler alert: if you stick with me until the end of this course, the final product will differ a bit from the plan you see here.
 >
-> **[4:07](https://www.linkedin.com/learning/python-projects-14276284/program-architecture?u=76281980&t=247)** If you want to learn more about how to organize and structure programs written in object-oriented languages like Python, I recommend checking out the Object-Oriented Design course on LinkedIn Learning.
+> **[4:07](https://www.linkedin.com/learning/python-projects-14276284/program-architecture?u=76281980&t=247)** If you want to learn more about how to organize and structure programs written in object-oriented languages like Python, I recommend checking out the Object-Oriented Design course on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), application (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), functional (1), product (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (3), make (2)
 > **Env Vars:** gui (4)
 > **Analogies:** for example (2), such as (1)
@@ -502,8 +495,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stub code
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/stub-code?u=76281980)
+#### [Stub code](https://www.linkedin.com/learning/python-projects-14276284/stub-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -511,7 +503,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/python-projects-14276284/stub-code?u=76281980&t=7)** Now it's finally time to start writing some code.
 >
-> **[0:13](https://www.linkedin.com/learning/python-projects-14276284/stub-code?u=76281980&t=13)** To give myself a structure to implement my design, I've created stub code for the entire program as three Python modules, which are included with the exercise files for this course.
+> **[0:13](https://www.linkedin.com/learning/python-projects-14276284/stub-code?u=76281980&t=13)** To give myself a structure to implement my design, I've created stub code for the entire program as three [[Python (Programming Language)|Python]] modules, which are included with the exercise files for this course.
 >
 > **[0:24](https://www.linkedin.com/learning/python-projects-14276284/stub-code?u=76281980&t=24)** Those are dd_content.py, dd_email.py, and dd_gui.py.
 >
@@ -557,7 +549,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9)
 > **CLI Commands:** python (9), make (1)
 > **File Paths:** dd_email.py (3), dd_content.py (1), dd_gui.py (1)
 > **Code Identifiers:** dd_email (3), dd_content (1), dd_gui (1)
@@ -571,8 +563,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Daily inspirational quotes
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/daily-inspirational-quotes?u=76281980)
+#### [Daily inspirational quotes](https://www.linkedin.com/learning/python-projects-14276284/daily-inspirational-quotes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -602,7 +593,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/python-projects-14276284/daily-inspirational-quotes?u=76281980&t=66)** Problem solved, right?
 >
-> **[1:09](https://www.linkedin.com/learning/python-projects-14276284/daily-inspirational-quotes?u=76281980&t=69)** It would be fairly straightforward to use a Python Web Scraping Library, like Beautiful Soup, or Scrapy, to scrape random quotes from that page.
+> **[1:09](https://www.linkedin.com/learning/python-projects-14276284/daily-inspirational-quotes?u=76281980&t=69)** It would be fairly straightforward to use a [[Python (Programming Language)|Python]] Web Scraping Library, like Beautiful Soup, or Scrapy, to scrape random quotes from that page.
 >
 > **[1:18](https://www.linkedin.com/learning/python-projects-14276284/daily-inspirational-quotes?u=76281980&t=78)** However, after clicking the button to generate random quotes several times, I realized that not all of the random quotes it produced, motivated and inspired me.
 >
@@ -612,7 +603,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/python-projects-14276284/daily-inspirational-quotes?u=76281980&t=98)** There are lots of file formats I could have used, to store a collection of quotes, along with their respective authors, as structured data.
 >
-> **[1:45](https://www.linkedin.com/learning/python-projects-14276284/daily-inspirational-quotes?u=76281980&t=105)** Common ones, include the comma-separated value, or CSV format, JSON, and XML, all of which have standard Python modules, to make parsing them easy.
+> **[1:45](https://www.linkedin.com/learning/python-projects-14276284/daily-inspirational-quotes?u=76281980&t=105)** Common ones, include the comma-separated value, or CSV format, [[JSON]], and XML, all of which have standard Python modules, to make parsing them easy.
 >
 > **[1:56](https://www.linkedin.com/learning/python-projects-14276284/daily-inspirational-quotes?u=76281980&t=116)** Since storing a bunch of quotes, with their corresponding authors, does not require the hierarchical structure, that JSON and XML can provide.
 >
@@ -676,7 +667,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (2), [[JSON]] (2), next (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[JSON]] (2)
 > **Env Vars:** csv (7), json (2), xml (2)
 > **File Paths:** quotes.csv (4), content.py (3)
 > **CLI Commands:** python (4), make (1)
@@ -685,8 +676,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **UI Navigation:** right-click (1)
 
-#### Weather forecast using OpenWeatherMap
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/weather-forecast-using-openweathermap?u=76281980)
+#### [Weather forecast using OpenWeatherMap](https://www.linkedin.com/learning/python-projects-14276284/weather-forecast-using-openweathermap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -696,7 +686,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/python-projects-14276284/weather-forecast-using-openweathermap?u=76281980&t=23)** I'll need to get my weather information from the internet, and there are a couple of ways I could do that.
 >
-> **[0:29](https://www.linkedin.com/learning/python-projects-14276284/weather-forecast-using-openweathermap?u=76281980&t=29)** I could use a Python web-scraping library to scrape forecast information from a site like [weather.com](https://weather.com).
+> **[0:29](https://www.linkedin.com/learning/python-projects-14276284/weather-forecast-using-openweathermap?u=76281980&t=29)** I could use a [[Python (Programming Language)|Python]] web-scraping library to scrape forecast information from a site like [weather.com](https://weather.com).
 >
 > **[0:36](https://www.linkedin.com/learning/python-projects-14276284/weather-forecast-using-openweathermap?u=76281980&t=36)** I could search the Python Package Index for a Python library to pull weather data from some online source.
 >
@@ -734,7 +724,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/python-projects-14276284/weather-forecast-using-openweathermap?u=76281980&t=166)** So to keep things simple, for the initial version of my application, I'll just use my location for the forecast which is probably fine because realistically I'll be the only recipient of my email digest.
 >
-> **[3:00](https://www.linkedin.com/learning/python-projects-14276284/weather-forecast-using-openweathermap?u=76281980&t=180)** When I call the forecast API for a specific latitude and longitude, by default, it will return the forecast data formatted as JSON.
+> **[3:00](https://www.linkedin.com/learning/python-projects-14276284/weather-forecast-using-openweathermap?u=76281980&t=180)** When I call the forecast API for a specific latitude and longitude, by default, it will return the forecast data formatted as [[JSON]].
 >
 > **[3:09](https://www.linkedin.com/learning/python-projects-14276284/weather-forecast-using-openweathermap?u=76281980&t=189)** And we can see an example of what that looks like here in the documentation.
 >
@@ -802,7 +792,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (16), data (10), [[Python (Programming Language)|Python]] (7), [[JSON]] (7), next (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[JSON]] (7)
 > **Env Vars:** api (16), json (6), url (2), csv (1), zip (1)
 > **Code Identifiers:** get_weather_forecast (8), dd_content (3), get_random_quote (1)
 > **CLI Commands:** python (7), find (1), make (1)
@@ -811,8 +801,7 @@ created: 2026-05-02
 > **Tools:** terminal (1), vs code (1)
 > **File Paths:** dd_content.py (1)
 
-#### 2023 Update on X (formerly known as Twitter)
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/2023-update-on-x-formerly-known-as-twitter?u=76281980)
+#### [2023 Update on X (formerly known as Twitter)](https://www.linkedin.com/learning/python-projects-14276284/2023-update-on-x-formerly-known-as-twitter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -830,14 +819,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), api (2), data (1)
 > **Env Vars:** api (2)
 > **Cross-References:** next video (1), in the next (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Trending X (formerly known as Twitter) topics
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/trending-twitter-topics?u=76281980)
+#### [Trending X (formerly known as Twitter) topics](https://www.linkedin.com/learning/python-projects-14276284/trending-twitter-topics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -851,7 +838,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/python-projects-14276284/trending-twitter-topics?u=76281980&t=35)** Now, as I looked through the Twitter API documentation, I noticed that the APIs authentication process looked a bit more complicated than I wanted to deal with.
 >
-> **[0:44](https://www.linkedin.com/learning/python-projects-14276284/trending-twitter-topics?u=76281980&t=44)** So rather than figuring out how to implement that myself, I decided to see if there was an existing Python library, I could use to interface with the Twitter API.
+> **[0:44](https://www.linkedin.com/learning/python-projects-14276284/trending-twitter-topics?u=76281980&t=44)** So rather than figuring out how to implement that myself, I decided to see if there was an existing [[Python (Programming Language)|Python]] library, I could use to interface with the Twitter API.
 >
 > **[0:55](https://www.linkedin.com/learning/python-projects-14276284/trending-twitter-topics?u=76281980&t=55)** I started my search for a Twitter library at [pypi.org](https://pypi.org) by searching for, well, Twitter.
 >
@@ -875,7 +862,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/python-projects-14276284/trending-twitter-topics?u=76281980&t=119)** I could work my way down this really long list, reading the documentation for various libraries until I find one that will work, but that could take a long time and I might not necessarily find the best library for the job.
 >
-> **[2:13](https://www.linkedin.com/learning/python-projects-14276284/trending-twitter-topics?u=76281980&t=133)** So I changed my search strategy from PyPI to Google.
+> **[2:13](https://www.linkedin.com/learning/python-projects-14276284/trending-twitter-topics?u=76281980&t=133)** So I changed my search strategy from PyPI to [[Google]].
 >
 > **[2:17](https://www.linkedin.com/learning/python-projects-14276284/trending-twitter-topics?u=76281980&t=137)** I searched for Python Twitter trends, and that led me to several blog posts and tutorials from people who had already figured out the problem I'm trying to solve.
 >
@@ -891,7 +878,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/python-projects-14276284/trending-twitter-topics?u=76281980&t=188)** It's a rare but lingering stigma in the programming community that we need to get past.
 >
-> **[3:13](https://www.linkedin.com/learning/python-projects-14276284/trending-twitter-topics?u=76281980&t=193)** The body of knowledge for software development has grown beyond what any one person can be expected to know, and it grows more and more every day.
+> **[3:13](https://www.linkedin.com/learning/python-projects-14276284/trending-twitter-topics?u=76281980&t=193)** The body of knowledge for [[Software Development]] has grown beyond what any one person can be expected to know, and it grows more and more every day.
 >
 > **[3:21](https://www.linkedin.com/learning/python-projects-14276284/trending-twitter-topics?u=76281980&t=201)** We all need to share our knowledge with each other and use it to get better collectively.
 >
@@ -947,7 +934,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (11), [[Search]] (7), [[Python (Programming Language)|Python]] (6), [[Google]] (5), next (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Google]] (5), [[Software Development]] (1)
 > **Env Vars:** api (11), woeid (5), url (1)
 > **CLI Commands:** python (6), find (5), make (1), pip (1)
 > **Code Identifiers:** get_twitter_trends (6), get_weather_forecast (2), trends_place (1)
@@ -956,8 +943,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1), just like (1)
 
-#### Random Wikipedia articles
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/random-wikipedia-articles?u=76281980)
+#### [Random Wikipedia articles](https://www.linkedin.com/learning/python-projects-14276284/random-wikipedia-articles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -967,11 +953,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/python-projects-14276284/random-wikipedia-articles?u=76281980&t=8)** So I checked to see if Wikipedia has an API, I could call it to do that.
 >
-> **[0:13](https://www.linkedin.com/learning/python-projects-14276284/random-wikipedia-articles?u=76281980&t=13)** I searched Google for Wikipedia API documentation.
+> **[0:13](https://www.linkedin.com/learning/python-projects-14276284/random-wikipedia-articles?u=76281980&t=13)** I searched [[Google]] for Wikipedia API documentation.
 >
 > **[0:20](https://www.linkedin.com/learning/python-projects-14276284/random-wikipedia-articles?u=76281980&t=20)** And the second result gave me exactly what I was looking for.
 >
-> **[0:25](https://www.linkedin.com/learning/python-projects-14276284/random-wikipedia-articles?u=76281980&t=25)** Wikipedia conveniently has a REST API, which can be used to access Wikimedia content, Expanding the page content section, and then scrolling down near the bottom of it, I see a description that sounds like get content for a random page.
+> **[0:25](https://www.linkedin.com/learning/python-projects-14276284/random-wikipedia-articles?u=76281980&t=25)** Wikipedia conveniently has a [[Representational State Transfer (REST)|REST]] API, which can be used to access Wikimedia content, Expanding the page content section, and then scrolling down near the bottom of it, I see a description that sounds like get content for a random page.
 >
 > **[0:45](https://www.linkedin.com/learning/python-projects-14276284/random-wikipedia-articles?u=76281980&t=45)** That sounds like exactly what I need.
 >
@@ -979,13 +965,13 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/python-projects-14276284/random-wikipedia-articles?u=76281980&t=55)** This allows me to then select the desired return format from the dropdown menu.
 >
-> **[1:00](https://www.linkedin.com/learning/python-projects-14276284/random-wikipedia-articles?u=76281980&t=60)** It has options to get a random page title, the full page HTML, or just a summary of its key points.
+> **[1:00](https://www.linkedin.com/learning/python-projects-14276284/random-wikipedia-articles?u=76281980&t=60)** It has options to get a random page title, the full page [[HTML]], or just a summary of its key points.
 >
 > **[1:08](https://www.linkedin.com/learning/python-projects-14276284/random-wikipedia-articles?u=76281980&t=68)** I don't need to include an entire Wikipedia article in my digest email, getting a summary sounds perfect for my needs.
 >
 > **[1:15](https://www.linkedin.com/learning/python-projects-14276284/random-wikipedia-articles?u=76281980&t=75)** So I'll select that option and then click the execute button.
 >
-> **[1:21](https://www.linkedin.com/learning/python-projects-14276284/random-wikipedia-articles?u=76281980&t=81)** This request URL field shows me the URL I can use to get a random summary and below it, I can see an example of the response body I'll get back, which is formatted as JSON.
+> **[1:21](https://www.linkedin.com/learning/python-projects-14276284/random-wikipedia-articles?u=76281980&t=81)** This request URL field shows me the URL I can use to get a random summary and below it, I can see an example of the response body I'll get back, which is formatted as [[JSON]].
 >
 > **[1:32](https://www.linkedin.com/learning/python-projects-14276284/random-wikipedia-articles?u=76281980&t=92)** It has fields for things like the page title, thumbnail images, the URL for the full page, and near the very bottom there's a field called extract, which contains a couple of sentences summarizing the article.
 >
@@ -1021,13 +1007,13 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/python-projects-14276284/random-wikipedia-articles?u=76281980&t=221)** If you want to learn more about using web APIs in general, I recommend taking the course introduction to web APIs, which provides a great overview of everything from connecting to APIs to handling errors.
 >
-> **[3:54](https://www.linkedin.com/learning/python-projects-14276284/random-wikipedia-articles?u=76281980&t=234)** Another course you might also find useful is web scraping with Python.
+> **[3:54](https://www.linkedin.com/learning/python-projects-14276284/random-wikipedia-articles?u=76281980&t=234)** Another course you might also find useful is web scraping with [[Python (Programming Language)|Python]].
 >
 > **[3:58](https://www.linkedin.com/learning/python-projects-14276284/random-wikipedia-articles?u=76281980&t=238)** When there's not an API available to use, then web scraping is another way to extract data from the web.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), api (4), [[JSON]] (4), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** url (8), api (4), json (4), rest (1), html (1)
 > **UI Navigation:** click on (1), select the (1), dropdown (1)
 > **CLI Commands:** find (1), python (1)
@@ -1039,8 +1025,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Format an email message
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/format-an-email-message?u=76281980)
+#### [Format an email message](https://www.linkedin.com/learning/python-projects-14276284/format-an-email-message?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1048,7 +1033,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/python-projects-14276284/format-an-email-message?u=76281980&t=4)** It's time to move on to another part of the program, the email itself.
 >
-> **[0:08](https://www.linkedin.com/learning/python-projects-14276284/format-an-email-message?u=76281980&t=8)** which will be implemented in the DD email Python module.
+> **[0:08](https://www.linkedin.com/learning/python-projects-14276284/format-an-email-message?u=76281980&t=8)** which will be implemented in the DD email [[Python (Programming Language)|Python]] module.
 >
 > **[0:12](https://www.linkedin.com/learning/python-projects-14276284/format-an-email-message?u=76281980&t=12)** Here you can see the methods I stubbed out to implement for my Daily Digest email class.
 >
@@ -1072,7 +1057,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/python-projects-14276284/format-an-email-message?u=76281980&t=84)** The message body can be written as Plaintext without any special formatting.
 >
-> **[1:29](https://www.linkedin.com/learning/python-projects-14276284/format-an-email-message?u=76281980&t=89)** Or it can be formatted using HTML, similar to a webpage.
+> **[1:29](https://www.linkedin.com/learning/python-projects-14276284/format-an-email-message?u=76281980&t=89)** Or it can be formatted using [[HTML]], similar to a webpage.
 >
 > **[1:33](https://www.linkedin.com/learning/python-projects-14276284/format-an-email-message?u=76281980&t=93)** And it's possible to include both a Plaintext and HTML version within a single email message using the Multipart content type that's implemented by Python's MIMEMultipart class.
 >
@@ -1194,7 +1179,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (20), next (5), [[Python (Programming Language)|Python]] (4), web (2), data (2)
+> **Frameworks & Libraries:** [[HTML]] (20), [[Python (Programming Language)|Python]] (4)
 > **Env Vars:** html (20)
 > **CLI Commands:** python (4), find (1), make (1)
 > **UI Navigation:** click on (2), scroll up (1), open the (1)
@@ -1203,14 +1188,13 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Tools:** terminal (1)
 
-#### Send an email
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/send-an-email?u=76281980)
+#### [Send an email](https://www.linkedin.com/learning/python-projects-14276284/send-an-email?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-projects-14276284/send-an-email?u=76281980&t=0)** - [Instructor] Now that I have a function to format my daily digest content into an email message, it's time to implement the send email function to actually send an email.
 >
-> **[0:11](https://www.linkedin.com/learning/python-projects-14276284/send-an-email?u=76281980&t=11)** The Python standard library includes an email package which is a library for managing email messages.
+> **[0:11](https://www.linkedin.com/learning/python-projects-14276284/send-an-email?u=76281980&t=11)** The [[Python (Programming Language)|Python]] standard library includes an email package which is a library for managing email messages.
 >
 > **[0:18](https://www.linkedin.com/learning/python-projects-14276284/send-an-email?u=76281980&t=18)** That package contains several modules.
 >
@@ -1230,15 +1214,15 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/python-projects-14276284/send-an-email?u=76281980&t=89)** When I originally recorded this course in August of 2021, I used a Gmail account to send my daily digest email.
 >
-> **[1:38](https://www.linkedin.com/learning/python-projects-14276284/send-an-email?u=76281980&t=98)** However, around May of 2022, Google changed its security policy to no longer allow programmatic sign in with just a username and password, which is considered less secure.
+> **[1:38](https://www.linkedin.com/learning/python-projects-14276284/send-an-email?u=76281980&t=98)** However, around May of 2022, [[Google]] changed its security policy to no longer allow programmatic sign in with just a username and password, which is considered less secure.
 >
 > **[1:50](https://www.linkedin.com/learning/python-projects-14276284/send-an-email?u=76281980&t=110)** That means Gmail no longer worked for my solution.
 >
-> **[1:54](https://www.linkedin.com/learning/python-projects-14276284/send-an-email?u=76281980&t=114)** So, I updated my application to use an Outlook email address instead.
+> **[1:54](https://www.linkedin.com/learning/python-projects-14276284/send-an-email?u=76281980&t=114)** So, I updated my application to use an [[Microsoft Outlook|Outlook]] email address instead.
 >
 > **[2:00](https://www.linkedin.com/learning/python-projects-14276284/send-an-email?u=76281980&t=120)** In this video, I'll show you how I configured my application to send emails with Outlook and I'll update the course exercise files accordingly, but keep in mind when you see me interacting with Gmail in later videos in this course, that's because they were from the original course recording.
 >
-> **[2:19](https://www.linkedin.com/learning/python-projects-14276284/send-an-email?u=76281980&t=139)** This documentation from Microsoft's support page shows the server name, port, and encryption method I'll need to use when connecting the Outlook SMTP server.
+> **[2:19](https://www.linkedin.com/learning/python-projects-14276284/send-an-email?u=76281980&t=139)** This documentation from [[Microsoft]]'s support page shows the server name, port, and encryption method I'll need to use when connecting the Outlook SMTP server.
 >
 > **[2:30](https://www.linkedin.com/learning/python-projects-14276284/send-an-email?u=76281980&t=150)** Now, let's look at how I implemented my send email function.
 >
@@ -1258,7 +1242,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/python-projects-14276284/send-an-email?u=76281980&t=214)** Then, I use the set content method on line 32 to configure the email to use the plain text version of the content.
 >
-> **[3:41](https://www.linkedin.com/learning/python-projects-14276284/send-an-email?u=76281980&t=221)** After that, on line 33, I use the ad alternative method to add the HTML version of the content.
+> **[3:41](https://www.linkedin.com/learning/python-projects-14276284/send-an-email?u=76281980&t=221)** After that, on line 33, I use the ad alternative method to add the [[HTML]] version of the content.
 >
 > **[3:48](https://www.linkedin.com/learning/python-projects-14276284/send-an-email?u=76281980&t=228)** This converts the message into a multi-part container with the original plain text message as the first part and the new HTML message as the second part.
 >
@@ -1288,7 +1272,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), [[Microsoft Outlook|Outlook]] (4), [[Python (Programming Language)|Python]] (2), application (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Microsoft Outlook|Outlook]] (4), [[Python (Programming Language)|Python]] (2), [[Google]] (1), [[Microsoft]] (1)
 > **Env Vars:** smtp (7), html (5), tls (1)
 > **Prerequisites:** set up (2), configure (1)
 > **CLI Commands:** python (2)
@@ -1297,8 +1281,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Tools:** terminal (1)
 
-#### Schedule a task
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/schedule-a-task?u=76281980)
+#### [Schedule a task](https://www.linkedin.com/learning/python-projects-14276284/schedule-a-task?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1320,7 +1303,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/python-projects-14276284/schedule-a-task?u=76281980&t=53)** I created it as a rough outline to organize the pieces of my application I would need to create before I actually dove into the details of implementation.
 >
-> **[1:03](https://www.linkedin.com/learning/python-projects-14276284/schedule-a-task?u=76281980&t=63)** To give my application the ability to schedule a reoccurring time to send the email every day, I decided to use this schedule library, which I found on the Python package index.
+> **[1:03](https://www.linkedin.com/learning/python-projects-14276284/schedule-a-task?u=76281980&t=63)** To give my application the ability to schedule a reoccurring time to send the email every day, I decided to use this schedule library, which I found on the [[Python (Programming Language)|Python]] package index.
 >
 > **[1:13](https://www.linkedin.com/learning/python-projects-14276284/schedule-a-task?u=76281980&t=73)** I picked it because it provides a super simple API for scheduling tasks that repeat at a specified interval or time of day, which seemed like a perfect match for my needs.
 >
@@ -1412,11 +1395,11 @@ created: 2026-05-02
 >
 > **[6:39](https://www.linkedin.com/learning/python-projects-14276284/schedule-a-task?u=76281980&t=399)** Now. I mentioned the need to run the scheduler as a separate thread, but I didn't really go into details about why and how to do that.
 >
-> **[6:47](https://www.linkedin.com/learning/python-projects-14276284/schedule-a-task?u=76281980&t=407)** If you want to learn more about multithreaded programming, I encourage you to check out my course on parallel and concurrent programming with Python.
+> **[6:47](https://www.linkedin.com/learning/python-projects-14276284/schedule-a-task?u=76281980&t=407)** If you want to learn more about multithreaded programming, I encourage you to check out my course on parallel and [[Concurrent Programming]] with Python.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), application (3), api (3), next (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Concurrent Programming]] (1)
 > **Env Vars:** gui (4), api (3), uml (1)
 > **CLI Commands:** python (5), make (2)
 > **Documentation:** the documentation (2)
@@ -1430,8 +1413,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Plan the GUI
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/plan-the-gui?u=76281980)
+#### [Plan the GUI](https://www.linkedin.com/learning/python-projects-14276284/plan-the-gui?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1457,11 +1439,11 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/python-projects-14276284/plan-the-gui?u=76281980&t=55)** I'm going to show you the quick and dirty process I used to lay out my GUI.
 >
-> **[1:00](https://www.linkedin.com/learning/python-projects-14276284/plan-the-gui?u=76281980&t=60)** And you'll see how to implement a GUI, using Python's Tkinter module, but don't expect this lesson to be a masterclass in proper UX design principles.
+> **[1:00](https://www.linkedin.com/learning/python-projects-14276284/plan-the-gui?u=76281980&t=60)** And you'll see how to implement a GUI, using [[Python (Programming Language)|Python]]'s [[Tkinter]] module, but don't expect this lesson to be a masterclass in proper UX design principles.
 >
 > **[1:10](https://www.linkedin.com/learning/python-projects-14276284/plan-the-gui?u=76281980&t=70)** For my own GUI planning.
 >
-> **[1:12](https://www.linkedin.com/learning/python-projects-14276284/plan-the-gui?u=76281980&t=72)** I tend to sketch out my ideas on a sheet of paper, or by moving shapes around on PowerPoint slides.
+> **[1:12](https://www.linkedin.com/learning/python-projects-14276284/plan-the-gui?u=76281980&t=72)** I tend to sketch out my ideas on a sheet of paper, or by moving shapes around on [[Microsoft PowerPoint|PowerPoint]] slides.
 >
 > **[1:18](https://www.linkedin.com/learning/python-projects-14276284/plan-the-gui?u=76281980&t=78)** I'm sure there are better UX design tools out there, but this is what I have on hand, and it's good enough for my own purposes.
 >
@@ -1527,7 +1509,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/python-projects-14276284/plan-the-gui?u=76281980&t=305)** For example, maybe I want to make my GUI short and wide, by arranging the elements into two columns.
 >
-> **[5:11](https://www.linkedin.com/learning/python-projects-14276284/plan-the-gui?u=76281980&t=311)** I could consider using tabs to organize these sections, or perhaps a set of multiple windows, whatever makes sense.
+> **[5:11](https://www.linkedin.com/learning/python-projects-14276284/plan-the-gui?u=76281980&t=311)** I could consider using tabs to organize these sections, or perhaps a set of multiple [[Windows]], whatever makes sense.
 >
 > **[5:18](https://www.linkedin.com/learning/python-projects-14276284/plan-the-gui?u=76281980&t=318)** The modularity of these subsections makes that rearranging easy.
 >
@@ -1535,15 +1517,15 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/python-projects-14276284/plan-the-gui?u=76281980&t=332)** Now, as I mentioned earlier, I am not an expert UX designer.
 >
-> **[5:37](https://www.linkedin.com/learning/python-projects-14276284/plan-the-gui?u=76281980&t=337)** If you're interested in learning more about how to better design user interfaces, you're in luck, because there are several great courses about UX design on LinkedIn learning.
+> **[5:37](https://www.linkedin.com/learning/python-projects-14276284/plan-the-gui?u=76281980&t=337)** If you're interested in learning more about how to better design user interfaces, you're in luck, because there are several great courses about UX design on [[LinkedIn]] learning.
 >
-> **[5:46](https://www.linkedin.com/learning/python-projects-14276284/plan-the-gui?u=76281980&t=346)** The course, User Experience for non-designers, is a good starting point for beginners.
+> **[5:46](https://www.linkedin.com/learning/python-projects-14276284/plan-the-gui?u=76281980&t=346)** The course, [[User Experience (UX)|User Experience]] for non-designers, is a good starting point for beginners.
 >
 > **[5:51](https://www.linkedin.com/learning/python-projects-14276284/plan-the-gui?u=76281980&t=351)** And it's a course I should probably take myself.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (5), functional (4), application (3), [[Python (Programming Language)|Python]] (1), [[Tkinter]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Tkinter]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Windows]] (1), [[LinkedIn]] (1)
 > **Env Vars:** gui (17)
 > **CLI Commands:** make (4), find (2), python (1)
 > **Definitions:** is a  (3)
@@ -1552,8 +1534,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore a Python Tkinter GUI
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/explore-a-python-tkinter-gui?u=76281980)
+#### [Explore a Python Tkinter GUI](https://www.linkedin.com/learning/python-projects-14276284/explore-a-python-tkinter-gui?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1567,7 +1548,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/python-projects-14276284/explore-a-python-tkinter-gui?u=76281980&t=20)** Instead, I'll focus on a few key design decisions, and of course the full code is included in the exercise files if you want to explore it in more detail yourself.
 >
-> **[0:29](https://www.linkedin.com/learning/python-projects-14276284/explore-a-python-tkinter-gui?u=76281980&t=29)** Notice at the top, in addition to importing Python's TKinter module, I've also imported the daily digest email and scheduler modules because my GUI will interact with instances of both.
+> **[0:29](https://www.linkedin.com/learning/python-projects-14276284/explore-a-python-tkinter-gui?u=76281980&t=29)** Notice at the top, in addition to importing [[Python (Programming Language)|Python]]'s [[Tkinter]] module, I've also imported the daily digest email and scheduler modules because my GUI will interact with instances of both.
 >
 > **[0:41](https://www.linkedin.com/learning/python-projects-14276284/explore-a-python-tkinter-gui?u=76281980&t=41)** Expanding my daily digest classes init method at line eight, we see that it takes a parameter named route, which corresponds to the TKinter window in which I want to build this GUI.
 >
@@ -1657,7 +1638,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tkinter]] (11), [[Python (Programming Language)|Python]] (5), next (4), data (2), feature (1)
+> **Frameworks & Libraries:** [[Tkinter]] (11), [[Python (Programming Language)|Python]] (5)
 > **Env Vars:** gui (23), api (1)
 > **CLI Commands:** python (5), make (2)
 > **Exercise Files:** exercise files (2)
@@ -1671,14 +1652,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Iterative improvements
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/iterative-improvements?u=76281980)
+#### [Iterative improvements](https://www.linkedin.com/learning/python-projects-14276284/iterative-improvements?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-projects-14276284/iterative-improvements?u=76281980&t=0)** - [Instructor] By finishing my GUI, I've accomplished the initial scope of goals I set out to achieve and created a fully functioning product.
 >
-> **[0:08](https://www.linkedin.com/learning/python-projects-14276284/iterative-improvements?u=76281980&t=8)** At this point, I can consider this personal Python project a success and I should definitely take a moment to celebrate.
+> **[0:08](https://www.linkedin.com/learning/python-projects-14276284/iterative-improvements?u=76281980&t=8)** At this point, I can consider this personal [[Python (Programming Language)|Python]] project a success and I should definitely take a moment to celebrate.
 >
 > **[0:15](https://www.linkedin.com/learning/python-projects-14276284/iterative-improvements?u=76281980&t=15)** However, this does not mean I have to be done working on my daily digest project.
 >
@@ -1686,7 +1666,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/python-projects-14276284/iterative-improvements?u=76281980&t=33)** Now, in the case of my daily digest project, I'm realistically the only person who will use this program from the admin perspective, so I can informally capture my own ideas that crop up while using my program to build a backlog of potential features to support the admin.
 >
-> **[0:50](https://www.linkedin.com/learning/python-projects-14276284/iterative-improvements?u=76281980&t=50)** The rest of the recipients will likely be consenting friends and family members I convinced to sign up for my daily newsletter, so I should gather feedback from them as well to see what they like and dislike about my daily emails and then add those ideas to my backlog to consider implementing as well.
+> **[0:50](https://www.linkedin.com/learning/python-projects-14276284/iterative-improvements?u=76281980&t=50)** The [[Representational State Transfer (REST)|rest]] of the recipients will likely be consenting friends and family members I convinced to sign up for my daily newsletter, so I should gather feedback from them as well to see what they like and dislike about my daily emails and then add those ideas to my backlog to consider implementing as well.
 >
 > **[1:07](https://www.linkedin.com/learning/python-projects-14276284/iterative-improvements?u=76281980&t=67)** I thought of a few ways I can enhance the experience for my digest recipients, such as allowing the recipients to individually customize which content they wanted to be included in their digest.
 >
@@ -1724,14 +1704,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Python (Programming Language)|Python]] (3), product (1), [[Representational State Transfer (REST)|Rest]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (3), make (2), find (1)
 > **Env Vars:** gui (2), api (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Save configuration settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/save-configuration-settings?u=76281980)
+#### [Save configuration settings](https://www.linkedin.com/learning/python-projects-14276284/save-configuration-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1741,7 +1720,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/python-projects-14276284/save-configuration-settings?u=76281980&t=22)** In order to save information between program runs, I'll need to save it to some sort of file.
 >
-> **[0:28](https://www.linkedin.com/learning/python-projects-14276284/save-configuration-settings?u=76281980&t=28)** All of my GUI information can be represented as text data, so I decided to use JSON as my file format, and you can see that I imported the JSON module up at line five.
+> **[0:28](https://www.linkedin.com/learning/python-projects-14276284/save-configuration-settings?u=76281980&t=28)** All of my GUI information can be represented as text data, so I decided to use [[JSON]] as my file format, and you can see that I imported the JSON module up at line five.
 >
 > **[0:39](https://www.linkedin.com/learning/python-projects-14276284/save-configuration-settings?u=76281980&t=39)** Scrolling down, I added two new methods to my GUI class, a save config method at line 259 and a load config method at line 276.
 >
@@ -1777,7 +1756,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (4), feature (3), application (2), data (1), next (1)
+> **Frameworks & Libraries:** [[JSON]] (4)
 > **Env Vars:** gui (7), json (4), jspn (1)
 > **Code Identifiers:** dd_config (1)
 > **Definitions:** is a  (1)
@@ -1788,12 +1767,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Distribute Python applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/distribute-python-applications?u=76281980)
+#### [Distribute Python applications](https://www.linkedin.com/learning/python-projects-14276284/distribute-python-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-projects-14276284/distribute-python-applications?u=76281980&t=0)** - [Instructor] Continuing to add new features onto a personal Python project can become a never-ending endeavor, but as long as you're still learning and having fun, I say go for it.
+> **[0:00](https://www.linkedin.com/learning/python-projects-14276284/distribute-python-applications?u=76281980&t=0)** - [Instructor] Continuing to add new features onto a personal [[Python (Programming Language)|Python]] project can become a never-ending endeavor, but as long as you're still learning and having fun, I say go for it.
 >
 > **[0:10](https://www.linkedin.com/learning/python-projects-14276284/distribute-python-applications?u=76281980&t=10)** At some point, though, you might want to distribute your fancy new application for others to use.
 >
@@ -1801,7 +1779,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/python-projects-14276284/distribute-python-applications?u=76281980&t=22)** After making a few changes to add the content and features she wants, I'll need to package my application up in a way that she can use.
 >
-> **[0:29](https://www.linkedin.com/learning/python-projects-14276284/distribute-python-applications?u=76281980&t=29)** To my mom, the word python just means a type of snake, so I can't simply hand her a bunch of .py files.
+> **[0:29](https://www.linkedin.com/learning/python-projects-14276284/distribute-python-applications?u=76281980&t=29)** To my mom, the [[Microsoft Word|word]] python just means a type of snake, so I can't simply hand her a bunch of .py files.
 >
 > **[0:38](https://www.linkedin.com/learning/python-projects-14276284/distribute-python-applications?u=76281980&t=38)** A great way to distribute Python applications is using the PyInstaller utility, which bundles a Python application and all of its dependencies into a single package.
 >
@@ -1813,9 +1791,9 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/python-projects-14276284/distribute-python-applications?u=76281980&t=86)** I'll press enter to run it, and while PyInstaller builds my program, let's talk about what those flags mean.
 >
-> **[1:33](https://www.linkedin.com/learning/python-projects-14276284/distribute-python-applications?u=76281980&t=93)** The first flag argument, -w, tells Windows and Mac OS to not open a console window for standard IO when running the program.
+> **[1:33](https://www.linkedin.com/learning/python-projects-14276284/distribute-python-applications?u=76281980&t=93)** The first flag argument, -w, tells [[Windows]] and Mac OS to not open a console window for standard IO when running the program.
 >
-> **[1:43](https://www.linkedin.com/learning/python-projects-14276284/distribute-python-applications?u=76281980&t=103)** Without this flag, a console window will pop up at any time you run this program in addition to the Tkinter GUI window I want.
+> **[1:43](https://www.linkedin.com/learning/python-projects-14276284/distribute-python-applications?u=76281980&t=103)** Without this flag, a console window will pop up at any time you run this program in addition to the [[Tkinter]] GUI window I want.
 >
 > **[1:52](https://www.linkedin.com/learning/python-projects-14276284/distribute-python-applications?u=76281980&t=112)** The next, -F flag, tells PyInstaller to create a one-file bundled executable, which includes everything this program needs to run.
 >
@@ -1833,7 +1811,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), application (5), [[Windows]] (2), [[Microsoft Word|Word]] (1), [[Tkinter]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Windows]] (2), [[Microsoft Word|Word]] (1), [[Tkinter]] (1)
 > **CLI Commands:** python (9), pip (1)
 > **Env Vars:** gui (2), exe (1)
 > **Prerequisites:** install (3)
@@ -1847,14 +1825,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-projects-14276284/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/python-projects-14276284/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-projects-14276284/next-steps?u=76281980&t=0)** - [Barron] Congratulations, you've reached the end of this course.
 >
-> **[0:03](https://www.linkedin.com/learning/python-projects-14276284/next-steps?u=76281980&t=3)** I've taken you through my own process to create new personal Python projects from start to finish, and I hope it's given you some inspiration and motivation to begin or continue building your own Python creations.
+> **[0:03](https://www.linkedin.com/learning/python-projects-14276284/next-steps?u=76281980&t=3)** I've taken you through my own process to create new personal [[Python (Programming Language)|Python]] projects from start to finish, and I hope it's given you some inspiration and motivation to begin or continue building your own Python creations.
 >
 > **[0:16](https://www.linkedin.com/learning/python-projects-14276284/next-steps?u=76281980&t=16)** There's still plenty to learn, and I've mentioned a lot of other Python courses along the way, so I've included a list of those in the exercise files for reference if you want to continue learning.
 >
@@ -1866,7 +1843,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [barron] (1)

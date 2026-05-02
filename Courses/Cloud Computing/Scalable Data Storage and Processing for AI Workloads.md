@@ -85,16 +85,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scalable solutions for storage and processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/scalable-solutions-for-storage-and-processing?u=76281980)
+#### [Scalable solutions for storage and processing](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/scalable-solutions-for-storage-and-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/scalable-solutions-for-storage-and-processing?u=76281980&t=1)** - [Instructor] Hi, and welcome to this course on scalable data storage and processing for AI workloads.
+> **[0:01](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/scalable-solutions-for-storage-and-processing?u=76281980&t=1)** - [Instructor] Hi, and welcome to this course on scalable [[Data Storage]] and processing for AI workloads.
 >
 > **[0:07](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/scalable-solutions-for-storage-and-processing?u=76281980&t=7)** Now, before we dive into the contents of this course, let's understand why it's important to have scalable solutions, especially when you're working with AI model training, deployment, and inference.
 >
-> **[0:19](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/scalable-solutions-for-storage-and-processing?u=76281980&t=19)** Now, in this world of generative AI, it shouldn't be surprising to anyone that AI needs a lot of data.
+> **[0:19](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/scalable-solutions-for-storage-and-processing?u=76281980&t=19)** Now, in this world of [[Generative AI]], it shouldn't be surprising to anyone that AI needs a lot of data.
 >
 > **[0:25](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/scalable-solutions-for-storage-and-processing?u=76281980&t=25)** Scalable AI storage solutions must ensure seamless accommodation of increasing data volumes, crucial as AI models rely on progressively larger data sets for improved training, inference, and overall performance.
 >
@@ -104,7 +103,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/scalable-solutions-for-storage-and-processing?u=76281980&t=55)** Scalable storage supports high-speed data access and processing.
 >
-> **[0:59](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/scalable-solutions-for-storage-and-processing?u=76281980&t=59)** It'll reduce latency and enable efficient handling of real-time analytics and complex AI workloads.
+> **[0:59](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/scalable-solutions-for-storage-and-processing?u=76281980&t=59)** It'll reduce latency and enable efficient handling of [[Real-Time]] analytics and complex AI workloads.
 >
 > **[1:05](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/scalable-solutions-for-storage-and-processing?u=76281980&t=65)** For example, platforms like Amazon use AI for real-time recommendation systems, which means they require rapid access to large customer behavior data sets to deliver their personalized suggestions.
 >
@@ -120,7 +119,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/scalable-solutions-for-storage-and-processing?u=76281980&t=110)** Scalable processing enables AI systems to handle increasing computational demands as models grow more complex and data sets expand.
 >
-> **[1:58](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/scalable-solutions-for-storage-and-processing?u=76281980&t=118)** The phenomenal natural language processing models that we see today like GPT requires substantial computational power for training that scales significantly with larger data sets and advanced architectures.
+> **[1:58](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/scalable-solutions-for-storage-and-processing?u=76281980&t=118)** The phenomenal [[Natural Language Processing (NLP)|natural language processing]] models that we see today like GPT requires substantial computational power for training that scales significantly with larger data sets and advanced architectures.
 >
 > **[2:11](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/scalable-solutions-for-storage-and-processing?u=76281980&t=131)** It's important that even though processing requirements grow, you have efficient allocation of resources and have reduced training and inference time for AI workloads.
 >
@@ -130,13 +129,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), data (12), power (4), [[Real-Time]] (2), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Data Storage]] (1), [[Generative AI]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Analogies:** for example (3), for instance (1)
 > **Env Vars:** gpt (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/prerequisites?u=76281980)
+#### [Prerequisites](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -148,15 +146,15 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/prerequisites?u=76281980&t=22)** If you have a general understanding, but no hands-on experience, that should be sufficient, as well.
 >
-> **[0:27](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/prerequisites?u=76281980&t=27)** I also expect that you have some basic understanding of how data storage solutions work, whether on premises or on cloud platforms and that brings me to another prerequisite.
+> **[0:27](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/prerequisites?u=76281980&t=27)** I also expect that you have some basic understanding of how [[Data Storage]] solutions work, whether on premises or on cloud platforms and that brings me to another prerequisite.
 >
 > **[0:38](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/prerequisites?u=76281980&t=38)** I expect that you're familiar with the big cloud platforms.
 >
-> **[0:41](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/prerequisites?u=76281980&t=41)** You may not have hands-on experience with all three, but some familiarity with at least one will help and then, there is a demo in Python that I have here in this course and I expect that you have basic Python knowledge.
+> **[0:41](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/prerequisites?u=76281980&t=41)** You may not have hands-on experience with all three, but some familiarity with at least one will help and then, there is a demo in [[Python (Programming Language)|Python]] that I have here in this course and I expect that you have basic Python knowledge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), cloud (2), [[Python (Programming Language)|Python]] (2), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Data Storage]] (1)
 > **CLI Commands:** python (2), make (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** you need to have (1), prerequisite (1)
@@ -167,8 +165,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of data: Structured, semistructured, and unstructured
-> [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980)
+#### [Types of data: Structured, semistructured, and unstructured](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -182,7 +179,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=19)** This data is highly organized and formatted in a way that makes it easily searchable.
 >
-> **[0:24](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=24)** This data is typically stored in rows and columns and relational databases.
+> **[0:24](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=24)** This data is typically stored in rows and columns and [[Relational Databases]].
 >
 > **[0:28](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=28)** Structured data refers to any kind of data that has a fixed, rigid schema, the different fields in the data, and the data types for those fields.
 >
@@ -192,9 +189,9 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=47)** There is some degree of organization, such as tags or schemas, but this data does not neatly fit into traditional relational databases.
 >
-> **[0:57](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=57)** Examples of semi-structured data include JSON files, XML files, email metadata, and web clickstream logs.
+> **[0:57](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=57)** Examples of semi-structured data include [[JSON]] files, XML files, email [[Metadata]], and web clickstream logs.
 >
-> **[1:06](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=66)** Unstructured data is data which does not have any predefined format, and includes raw data such as text, images, audio, and video files.
+> **[1:06](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=66)** [[Unstructured Data]] is data which does not have any predefined format, and includes raw data such as text, images, audio, and video files.
 >
 > **[1:17](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=77)** Examples of unstructured data include social media posts, medical imaging data, and surveillance videos.
 >
@@ -204,33 +201,33 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=92)** These different data types are used to train different AI and ML workloads.
 >
-> **[1:38](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=98)** When you have structured organized data, these are commonly used to train machine learning models like linear regression, logistic regression, decision trees, and gradient posting machines.
+> **[1:38](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=98)** When you have structured organized data, these are commonly used to train machine learning models like [[Linear Regression]], [[Logistic Regression]], [[Decision Trees]], and gradient posting machines.
 >
-> **[1:49](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=109)** These are supervised learning models, which excel at making predictions, classifications, and forecasts based on tabular data.
+> **[1:49](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=109)** These are [[Supervised Learning]] models, which [[Microsoft Excel|excel]] at making predictions, classifications, and forecasts based on tabular data.
 >
 > **[1:58](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=118)** Semi-structured data is generally processed using unsupervised learning models.
 >
-> **[2:03](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=123)** Semi-structured data is often processed using clustering algorithms, recommendation systems, or natural language processing models, which can handle variability in data structure and still extract meaningful insights.
+> **[2:03](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=123)** Semi-structured data is often processed using clustering [[Algorithms]], recommendation systems, or [[Natural Language Processing (NLP)|natural language processing]] models, which can handle variability in data structure and still extract meaningful insights.
 >
 > **[2:17](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=137)** Traditional models like linear regression, logistic regression, decision trees, et cetera, cannot work with unstructured data.
 >
-> **[2:24](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=144)** This is used to train advanced deep learning models, such as convolutional neural network for images, recurrent neural networks for sequential text data, and transformers for natural language understanding.
+> **[2:24](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=144)** This is used to train advanced [[Deep Learning]] models, such as convolutional neural network for images, recurrent [[Neural Networks]] for sequential text data, and transformers for natural language understanding.
 >
 > **[2:35](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=155)** These different data types require different kinds of storage solutions.
 >
 > **[2:40](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=160)** There is no one storage which fits all types of data.
 >
-> **[2:44](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=164)** Structured data requires storage solutions like relational databases, SQL databases, or data warehouses that support efficient indexing, querying, and schema management.
+> **[2:44](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=164)** Structured data requires storage solutions like relational databases, [[SQL]] [[Databases]], or data warehouses that support efficient indexing, querying, and schema management.
 >
 > **[2:53](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=173)** These systems are optimized for smaller but highly organized data sets, ensuring fast access and retrieval for analytics and reporting tasks.
 >
-> **[3:02](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=182)** Semi-structured data is typically stored in NoSQL databases, such as MongoDB or Cassandra.
+> **[3:02](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=182)** Semi-structured data is typically stored in [[NoSQL]] databases, such as [[MongoDB]] or Cassandra.
 >
 > **[3:08](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=188)** They can also be stored in file systems designed to handle flexible schema-less formats.
 >
-> **[3:13](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=193)** These storage solutions must accommodate variable structures and provide scalability to manage growing data sets Effectively.
+> **[3:13](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=193)** These storage solutions must accommodate variable structures and provide [[Scalability]] to manage growing data sets Effectively.
 >
-> **[3:20](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=200)** Unstructured data needs scalable storage systems such as distributed file systems such as HDFS, that is, Hadoop Distributed File System, part of the Hadoop framework, Or object storage platforms such as S3 on AWS, or Cloud Storage on Google and Azure Blob Storage.
+> **[3:20](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=200)** Unstructured data needs scalable storage systems such as distributed file systems such as HDFS, that is, [[Hadoop]] Distributed File System, part of the Hadoop framework, Or object storage platforms such as S3 on AWS, or [[Cloud Storage]] on [[Google]] and [[Microsoft Azure|Azure]] Blob Storage.
 >
 > **[3:37](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=217)** These systems prioritize capacity and flexibility to manage high volumes of multimedia and text data without predefined organization.
 >
@@ -238,13 +235,13 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=231)** Processing structured data requires frameworks capable of handling tabular formats.
 >
-> **[3:56](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=236)** Frameworks such as Pandas, Apache Spark, or TensorFlow structured data pipelines.
+> **[3:56](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=236)** Frameworks such as [[Pandas (Software)|Pandas]], [[Apache Spark]], or [[TensorFlow]] structured [[Data Pipelines]].
 >
-> **[4:01](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=241)** These tools streamline data cleaning, feature engineering, and batch processing to prepare data for training and traditional ML models.
+> **[4:01](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=241)** These tools streamline [[Data Cleaning]], [[Feature Engineering]], and [[Batch Processing]] to prepare data for training and traditional ML models.
 >
 > **[4:09](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=249)** AI workflows for semi-structured data need tools that pass and convert irregular formats into usable structures, such as the TensorFlow data API for pre-processing JSON or XML files.
 >
-> **[4:22](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=262)** These workflows must accommodate schema variability and use data integration platforms to enable downstream training of say, recommendation systems or clustering algorithms.
+> **[4:22](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=262)** These workflows must accommodate schema variability and use [[Data Integration]] platforms to enable downstream training of say, recommendation systems or clustering algorithms.
 >
 > **[4:33](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=273)** Unstructured data in AI workflows requires pre-processing techniques like text organization, image sizing, or audio spectrogram generation using libraries such as OpenCV, NLTK or librosa.
 >
@@ -256,7 +253,7 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=306)** While structured data is easier to manage, it may lack the richness or diversity needed for complex AI models, limiting insights and generalizability.
 >
-> **[5:15](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=315)** Semi-structured data poses challenges in standardizing and integrating inconsistent formats, such as varying schemas or nested data structures.
+> **[5:15](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=315)** Semi-structured data poses challenges in standardizing and integrating inconsistent formats, such as varying schemas or nested [[Data Structures]].
 >
 > **[5:25](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-data-structured-semi-structured-unstructured?u=76281980&t=325)** Parsing or converting this data for AI models can be computationally intensive, especially when dealing with large-scale data sets.
 >
@@ -266,15 +263,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (51), [[Unstructured Data]] (8), ai (7), [[Relational Databases]] (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Unstructured Data]] (8), [[Relational Databases]] (3), [[JSON]] (2), [[Linear Regression]] (2), [[Logistic Regression]] (2)
 > **Analogies:** such as (11), for example (1)
 > **Env Vars:** json (2), xml (2), sql (1), hdfs (1), aws (1)
 > **CLI Commands:** aws (1), apache (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding structured data
-> [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980)
+#### [Understanding structured data](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -282,7 +278,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=4)** Starting with structured data.
 >
-> **[0:06](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=6)** This is data that's organized in rows and columns, making it easily searchable and storable in relational databases.
+> **[0:06](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=6)** This is data that's organized in rows and columns, making it easily searchable and storable in [[Relational Databases]].
 >
 > **[0:13](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=13)** Common examples include data of types numbers, dates, and strings, such as customer names, transaction amounts, and timestamps.
 >
@@ -292,94 +288,93 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=37)** Structured data is typically stored in storage systems such as relational databases.
 >
-> **[0:41](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=41)** Examples include MySQL, PostgreSQL, Microsoft SQL Server, or Oracle databases.
+> **[0:41](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=41)** Examples include [[MySQL]], [[PostgreSQL]], [[Microsoft SQL Server]], or Oracle [[Databases]].
 >
-> **[0:47](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=47)** It's best for tabular data with defined schemas, and these support complex queries using SQL.
+> **[0:47](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=47)** It's best for tabular data with defined schemas, and these support complex queries using [[SQL]].
 >
-> **[0:53](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=53)** Structured data can also be stored in data warehouses such as Snowflake, Google BigQuery, Amazon Redshift, and Azure Synapse Analytics.
+> **[0:53](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=53)** Structured data can also be stored in data warehouses such as [[Snowflake]], [[Google]] BigQuery, Amazon Redshift, and [[Microsoft Azure|Azure]] Synapse Analytics.
 >
-> **[1:01](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=61)** Data warehouses are best for aggregated and historical structured data used for analytics and business intelligence.
+> **[1:01](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=61)** Data warehouses are best for aggregated and historical structured data used for analytics and [[Business Intelligence (BI)|business intelligence]].
 >
-> **[1:08](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=68)** Structured data can be stored in cloud-based databases as well, such as Amazon Relational Database Service, Google Cloud SQL, and Azure SQL database.
+> **[1:08](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=68)** Structured data can be stored in cloud-based databases as well, such as Amazon Relational Database Service, [[Google Cloud Platform (GCP)|Google Cloud]] SQL, and Azure SQL database.
 >
 > **[1:17](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=77)** These are scalable managed solutions for storing and querying structured data on the cloud.
 >
-> **[1:22](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=82)** Another option for structured data includes columnar databases such as Apache Cassandra, Amazon DynamoDB, and HBase, best for high performance storage and retrieval of structured data in distributed systems, often for real-time analytics.
+> **[1:22](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=82)** Another option for structured data includes columnar databases such as Apache Cassandra, Amazon DynamoDB, and HBase, best for high performance storage and retrieval of structured data in distributed systems, often for [[Real-Time]] analytics.
 >
 > **[1:37](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=97)** Let's talk about structured data in AI models.
 >
-> **[1:39](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=99)** Structured data is very easy to use in business intelligence tools for building visualizations and dashboards.
+> **[1:39](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=99)** Structured data is very easy to use in business intelligence tools for building visualizations and [[Dashboards]].
 >
-> **[1:46](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=106)** It's used to power AI models such as regression, classification, and forecasting models in finance, healthcare, retail, et cetera.
+> **[1:46](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=106)** It's used to power AI models such as regression, classification, and [[Forecasting]] models in finance, healthcare, retail, et cetera.
 >
-> **[1:54](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=114)** It powers traditional machine learning models such as decision trees, random forests, and support vector machines, which tile on well-organized data sets.
+> **[1:54](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=114)** It powers traditional machine learning models such as [[Decision Trees]], random forests, and support vector machines, which tile on well-organized data sets.
 >
 > **[2:04](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=124)** It tends to be easy to engineer features in structured data, which means AI practitioners can focus on model optimization rather than extensive pre-processing.
 >
 > **[2:13](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=133)** Large-scale structured data is usually stored in data warehouses where data is fed in from different sources, external data, operational data.
 >
-> **[2:22](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=142)** These are then transformed using ETL pipelines, extract, transform, load pipelines, and stored in a warehouse.
+> **[2:22](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=142)** These are then transformed using ETL pipelines, [[Extract, Transform, Load (ETL)|extract, transform, load]] pipelines, and stored in a warehouse.
 >
 > **[2:29](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-structured-data?u=76281980&t=149)** Warehouses are usually integrated with business reporting and forecasting tools used to analyze this data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[Databases]] (3), [[SQL]] (3), [[Analytics]] (3), ai (3)
+> **Frameworks & Libraries:** [[Databases]] (3), [[SQL]] (3), [[Relational Databases]] (2), [[Microsoft Azure|Azure]] (2), [[Business Intelligence (BI)|Business intelligence]] (2)
 > **Analogies:** such as (7)
 > **Env Vars:** sql (4), etl (1)
 > **CLI Commands:** mysql (1), apache (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding semistructured data
-> [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980)
+#### [Understanding semistructured data](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=1)** - [Instructor] Let's dive a little deeper into understanding semi-structured data.
 >
-> **[0:06](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=6)** This data is partially organized and often stored in formats like XML, JSON, or RDF, which includes tags or schemas used for data organization.
+> **[0:06](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=6)** This data is partially organized and often stored in formats like XML, [[JSON]], or RDF, which includes tags or schemas used for data organization.
 >
 > **[0:17](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=17)** Examples include emails, web click streams, and sensor data logs, which provide flexibility while retaining some organizational structure.
 >
-> **[0:27](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=27)** Unstructured data is more flexible than structured data, and it can pose challenges such as handling concurrency issues in databases, or extracting insights from inconsistent formats.
+> **[0:27](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=27)** [[Unstructured Data]] is more flexible than structured data, and it can pose challenges such as handling concurrency issues in [[Databases]], or extracting insights from inconsistent formats.
 >
 > **[0:39](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=39)** Working with unstructured data often requires specialized tools to parse and convert data into usable formats, which means it's more complex to work with than structured data.
 >
 > **[0:51](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=51)** Unstructured data is often stored in repositories, such as data lakehouses.
 >
-> **[0:56](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=56)** Examples include the Databricks Lakehouse platform, or Snowflake or Delta Lake.
+> **[0:56](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=56)** Examples include the Databricks Lakehouse platform, or [[Snowflake]] or Delta Lake.
 >
 > **[1:02](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=62)** Lakehouses can store both structured, semi-structured, and unstructured data and provide capabilities for analytics and machine learning.
 >
-> **[1:10](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=70)** Data lakehouses combine the scalability of data lakes with the reliability and performance of data warehouses.
+> **[1:10](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=70)** Data lakehouses combine the [[Scalability]] of [[Data Lakes]] with the reliability and performance of data warehouses.
 >
-> **[1:17](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=77)** Semi-structured data is very often stored in NoSQL databases.
+> **[1:17](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=77)** Semi-structured data is very often stored in [[NoSQL]] databases.
 >
-> **[1:21](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=81)** Examples include MongoDB, Couchbase, and Amazon's DynamoDB.
+> **[1:21](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=81)** Examples include [[MongoDB]], [[Couchbase]], and Amazon's DynamoDB.
 >
 > **[1:27](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=87)** These storage systems are best suited for flexible storage of semi-structured data in JSON, BSON or XML format.
 >
-> **[1:35](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=95)** They allow dynamic schema changes and fast retrieval for real-time applications.
+> **[1:35](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=95)** They allow dynamic schema changes and fast retrieval for [[Real-Time]] applications.
 >
 > **[1:40](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=100)** Important features include horizontal scalability and support for diverse data models, such as document models, key value models, graph models.
 >
 > **[1:50](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=110)** Cloud object storage, blob storage, or data lakes can also store semi-structured data.
 >
-> **[1:57](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=117)** Examples here include Amazon's S3, Google Cloud Storage, and Azure Blob Storage.
+> **[1:57](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=117)** Examples here include Amazon's S3, [[Google Cloud Platform (GCP)|Google Cloud]] Storage, and [[Microsoft Azure|Azure]] Blob Storage.
 >
 > **[2:02](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=122)** They can store large-scale semi-structured data files, either in the CSV, JSON, or Avro format, and they give you easy accessibility for processing and analytics.
 >
-> **[2:12](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=132)** This is cost effective storage with integration for big data tools and workflows.
+> **[2:12](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=132)** This is cost effective storage with integration for [[Big Data]] tools and workflows.
 >
 > **[2:17](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=137)** Graph data that can be used to represent social media networks or telephone lines or cellular connections, these are also examples of semi-structured data.
 >
-> **[2:28](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=148)** Graph databases such as Neo4j or RDF, are particularly suited for representing relationships and queries over graph-like semi-structured data.
+> **[2:28](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=148)** Graph databases such as [[Neo4j]] or RDF, are particularly suited for representing relationships and queries over graph-like semi-structured data.
 >
 > **[2:37](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=157)** Semi-structured data is used in AI models for tasks such as recommendation systems, anomaly detection, and customer behavior analysis.
 >
-> **[2:47](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=167)** For example, JSON-encoded logs from an E-commerce site can be used to train clustering models or collaborative filtering algorithms to personalize user experiences.
+> **[2:47](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=167)** For example, JSON-encoded logs from an [[E-Commerce]] site can be used to train clustering models or collaborative filtering [[Algorithms]] to personalize user experiences.
 >
-> **[2:58](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=178)** Natural language processing, or NLP models, often process semi-structured data, such as emails or forum posts to extract text for sentiment analysis or intent classification.
+> **[2:58](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=178)** [[Natural Language Processing (NLP)|Natural language processing]], or NLP models, often process semi-structured data, such as emails or forum posts to extract text for sentiment analysis or intent classification.
 >
 > **[3:10](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=190)** AI workflows that involve the use of semi-structured data include parsing feature extraction and schema alignment to prepare the data for downstream processing.
 >
@@ -387,9 +382,9 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=212)** Data lakehouses can store all kinds of data, structured, semi-structured, and unstructured.
 >
-> **[3:37](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=217)** They store the data in an underlying data lake and they have a metadata layer, which adds governance, performance, and reliability when we want to work with the underlying data in the data lake.
+> **[3:37](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=217)** They store the data in an underlying data lake and they have a [[Metadata]] layer, which adds governance, performance, and reliability when we want to work with the underlying data in the data lake.
 >
-> **[3:48](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=228)** Data in lakehouses can be used to build dashboards and train machine learning models.
+> **[3:48](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=228)** Data in lakehouses can be used to build [[Dashboards]] and train machine learning models.
 >
 > **[3:54](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-semi-structured-data?u=76281980&t=234)** Semi-structured data is often stored in data lakes and NoSQL databases as well.
 >
@@ -397,24 +392,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (38), [[JSON]] (4), [[Unstructured Data]] (4), [[Databases]] (4), ai (3)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Unstructured Data]] (4), [[Databases]] (4), [[Data Lakes]] (3), [[Scalability]] (2)
 > **Env Vars:** json (4), xml (2), rdf (2), bson (1), csv (1)
 > **Analogies:** such as (6), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding unstructured data
-> [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-unstructured-data?u=76281980)
+#### [Understanding unstructured data](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-unstructured-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-unstructured-data?u=76281980&t=1)** - [Instructor] And in this video, we'll dive into unstructured data in a little more detail.
+> **[0:01](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-unstructured-data?u=76281980&t=1)** - [Instructor] And in this video, we'll dive into [[Unstructured Data]] in a little more detail.
 >
 > **[0:05](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-unstructured-data?u=76281980&t=5)** Unstructured data lacks a predefined format and cannot be organized or structured in any well-defined manner.
 >
 > **[0:14](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-unstructured-data?u=76281980&t=14)** If you look around you, you'll find that most of the data in the world tends to be unstructured data.
 >
-> **[0:20](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-unstructured-data?u=76281980&t=20)** Audio, video, image files, word processing files, emails, spreadsheets, which form about 80% of enterprise data according to Gartner.
+> **[0:20](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-unstructured-data?u=76281980&t=20)** Audio, video, image files, [[Microsoft Word|word]] processing files, emails, spreadsheets, which form about 80% of enterprise data according to Gartner.
 >
 > **[0:31](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-unstructured-data?u=76281980&t=31)** All of these are unstructured formats.
 >
@@ -422,19 +416,19 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-unstructured-data?u=76281980&t=46)** Processing unstructured data is not easy.
 >
-> **[0:48](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-unstructured-data?u=76281980&t=48)** It requires advanced tools and techniques like machine learning, natural language processing, and computer vision to extract insights.
+> **[0:48](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-unstructured-data?u=76281980&t=48)** It requires advanced tools and techniques like machine learning, [[Natural Language Processing (NLP)|natural language processing]], and [[Computer Vision]] to extract insights.
 >
-> **[0:56](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-unstructured-data?u=76281980&t=56)** Common storage systems for unstructured data include object storage systems like Amazon's S3, Google Cloud Storage, and Azure Blob Storage.
+> **[0:56](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-unstructured-data?u=76281980&t=56)** Common storage systems for unstructured data include object storage systems like Amazon's S3, [[Google Cloud Platform (GCP)|Google Cloud]] Storage, and [[Microsoft Azure|Azure]] Blob Storage.
 >
 > **[1:05](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-unstructured-data?u=76281980&t=65)** These allow us to manage unstructured data at scale.
 >
-> **[1:09](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-unstructured-data?u=76281980&t=69)** These blob storage systems are often referred to as data lakes.
+> **[1:09](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-unstructured-data?u=76281980&t=69)** These blob storage systems are often referred to as [[Data Lakes]].
 >
-> **[1:13](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-unstructured-data?u=76281980&t=73)** Unstructured data can be stored in distributed file systems such as HDFS or Hadoop distributed file system, which can handle large datasets.
+> **[1:13](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-unstructured-data?u=76281980&t=73)** Unstructured data can be stored in distributed file systems such as HDFS or [[Hadoop]] distributed file system, which can handle large datasets.
 >
 > **[1:22](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-unstructured-data?u=76281980&t=82)** Network attached storage or NAS solutions are suitable for smaller scale or localized unstructured data management.
 >
-> **[1:31](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-unstructured-data?u=76281980&t=91)** Unstructured data powers advanced AI models such as convolution neural networks for image recognition and recurrent neural networks or transformers for language understanding.
+> **[1:31](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-unstructured-data?u=76281980&t=91)** Unstructured data powers advanced AI models such as convolution [[Neural Networks]] for image recognition and recurrent neural networks or transformers for language understanding.
 >
 > **[1:41](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/understanding-unstructured-data?u=76281980&t=101)** Unstructured data is crucial for applications such as video analytics, speech-to-text systems, sentiment analysis, and autonomous vehicle training.
 >
@@ -450,7 +444,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unstructured Data]] (14), data (11), ai (2), [[Neural Networks]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Unstructured Data]] (14), [[Data Lakes]] (3), [[Neural Networks]] (2), [[Microsoft Word|Word]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** hdfs (1), nas (1)
 > **CLI Commands:** find (1)
@@ -461,8 +455,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Storage requirements in the AI pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980)
+#### [Storage requirements in the AI pipeline](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -470,7 +463,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=13)** First, let's discuss what we want from storage systems, that whole data for our AI workloads.
 >
-> **[0:19](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=19)** The first is scalability.
+> **[0:19](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=19)** The first is [[Scalability]].
 >
 > **[0:20](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=20)** AI projects often start small, but can grow rapidly, requiring storage solutions that can handle the increasing amounts of data without significant changes.
 >
@@ -484,11 +477,11 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=56)** AI systems should be able to prevent failure and recover gracefully when failures occur.
 >
-> **[1:02](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=62)** This means resiliency is especially important for models running in production, but is also valuable in training to prevent loss of time and resources due to failures.
+> **[1:02](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=62)** This means [[Resiliency]] is especially important for models running in production, but is also valuable in training to prevent loss of time and resources due to failures.
 >
-> **[1:11](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=71)** AI systems often deal with sensitive or proprietary information, which means data security is critical.
+> **[1:11](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=71)** AI systems often deal with sensitive or proprietary information, which means [[Data Security]] is critical.
 >
-> **[1:18](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=78)** Storage system needs to provide secure data storage with strong encryption methods, access controls, and measures to prevent unauthorized access or breaches.
+> **[1:18](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=78)** Storage system needs to provide secure [[Data Storage]] with strong encryption methods, access controls, and measures to prevent unauthorized access or breaches.
 >
 > **[1:28](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=88)** Here is a big picture overview of data storage in the AI pipeline.
 >
@@ -498,7 +491,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=102)** Your model might finally be saved in a quantized format and then used for inference.
 >
-> **[1:48](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=108)** If it's a generative AI model, you might include a vectorized database for retrieval-augmented generation or RAG.
+> **[1:48](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=108)** If it's a [[Generative AI]] model, you might include a vectorized database for [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]] or RAG.
 >
 > **[1:55](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=115)** Let's start by discussing where you'll store your raw data.
 >
@@ -510,7 +503,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=140)** Raw data is typically not in a format that can be directly fed into AI models.
 >
-> **[2:26](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=146)** You need data cleaning and pre-processing operations to be performed on the raw data.
+> **[2:26](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=146)** You need [[Data Cleaning]] and pre-processing operations to be performed on the raw data.
 >
 > **[2:31](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=151)** This can involve removing faulty data, anonymizing sensitive information, and maybe aggregating data.
 >
@@ -558,13 +551,13 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=308)** Quantized models are much smaller.
 >
-> **[5:09](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=309)** They range from megabytes to gigabytes, which means you can deploy them in resource-constrained environments like mobile devices or edge hardware, with reduced precision and smaller size, quantized models require less memory and computational power, enabling faster and more efficient inference, especially on specialized hardware like GPUs, TPUs, or edge accelerators.
+> **[5:09](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=309)** They range from megabytes to gigabytes, which means you can deploy them in resource-constrained environments like mobile devices or edge [[Hardware]], with reduced precision and smaller size, quantized models require less memory and computational power, enabling faster and more efficient inference, especially on specialized hardware like GPUs, TPUs, or edge accelerators.
 >
 > **[5:30](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=330)** These are the models typically used in real time applications.
 >
 > **[5:34](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=334)** If you're working with generative AI, you might choose to use a separate storage system for your vector database.
 >
-> **[5:41](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=341)** We'll talk a lot more about vector databases in a bit, but a vector database stores and retrieves data in a vectorized format, where data points such as text, images, or audio are transformed into numerical embeddings.
+> **[5:41](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=341)** We'll talk a lot more about [[Vector Databases]] in a bit, but a vector database stores and retrieves data in a vectorized format, where data points such as text, images, or audio are transformed into numerical embeddings.
 >
 > **[5:55](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/storage-requirements-in-the-ai-pipeline?u=76281980&t=355)** These numerical embeddings power like similarity search, clustering, and retrieval-augmented generation or RAG.
 >
@@ -586,14 +579,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (36), ai (21), [[Generative AI]] (3), database (3), [[Vector Databases]] (3)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Vector Databases]] (3), [[Data Storage]] (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (2), [[Hardware]] (2)
 > **Env Vars:** rag (2), gbe (1)
 > **Analogies:** picture (1), such as (1), for example (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Data storage in the AI workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980)
+#### [Data storage in the AI workflow](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -615,37 +607,37 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=35)** The different steps in the pipeline require different storage solutions.
 >
-> **[0:40](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=40)** I'm going to discuss the storage solutions for every step in the AI workflow, from data collection to data preparation, then model training, model serving, and then finally, model archiving.
+> **[0:40](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=40)** I'm going to discuss the storage solutions for every step in the AI workflow, from [[Data Collection]] to [[Data Preparation]], then model training, model serving, and then finally, model archiving.
 >
 > **[0:52](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=52)** The first step is data collection.
 >
 > **[0:55](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=55)** Remember, raw data tends to be in huge volumes, you can have petabytes of raw data.
 >
-> **[1:01](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=61)** And these typically tend to be stored in either blob storage or data lakes or file storage.
+> **[1:01](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=61)** And these typically tend to be stored in either blob storage or [[Data Lakes]] or file storage.
 >
 > **[1:07](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=67)** Let's discuss the characteristics of each in turn, starting with blob storage for data.
 >
 > **[1:12](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=72)** Data lakes and blob storage are designed for storing large volumes of unstructured and semi-structured data, such as logs, images, videos, and so on.
 >
-> **[1:22](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=82)** Blob storage tends to be highly scalable and cost effective for cloud-native applications.
+> **[1:22](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=82)** Blob storage tends to be highly scalable and cost effective for [[Cloud-Native Applications]].
 >
 > **[1:29](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=89)** Because of the low cost storage that it provides, you can store large amounts of data for which you haven't determined the right use case yet.
 >
 > **[1:37](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=97)** Blob storage does not index your data, because your data does not have any structure.
 >
-> **[1:42](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=102)** However, it does have support for metadata tagging for easier organization and retrieval of your data.
+> **[1:42](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=102)** However, it does have support for [[Metadata]] tagging for easier organization and retrieval of your data.
 >
 > **[1:49](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=109)** Blob storage is best for raw data that doesn't require complex query or any kind of hierarchical organization.
 >
 > **[1:56](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=116)** File storage on the other hand allows you to store data in a hierarchical structure of directories and subdirectories within which you have files.
 >
-> **[2:05](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=125)** Now, this kind of storage is best for semi-structured data like CSV or JSON files.
+> **[2:05](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=125)** Now, this kind of storage is best for semi-structured data like CSV or [[JSON]] files.
 >
 > **[2:11](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=131)** With raw data, you typically don't store data in high performance file storage, it's just regular file storage.
 >
 > **[2:18](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=138)** So that is best suited for small to medium datasets or legacy applications.
 >
-> **[2:23](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=143)** File storage for raw data tends to have limited scalability and is less cost efficient for massive datasets compared to blob storage.
+> **[2:23](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=143)** File storage for raw data tends to have limited [[Scalability]] and is less cost efficient for massive datasets compared to blob storage.
 >
 > **[2:30](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=150)** Comparing these options, the best choice for raw data in its native format is a blob storage.
 >
@@ -673,7 +665,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=225)** Now, we're already familiar with blob storage or file storage, so let me talk about the characteristics of lakehouses.
 >
-> **[3:53](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=233)** Data lakehouses can store all kinds of data, so whether you have processed, structured, semi-structured, or unstructured data, data lakehouses are a great choice.
+> **[3:53](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=233)** Data lakehouses can store all kinds of data, so whether you have processed, structured, semi-structured, or [[Unstructured Data]], data lakehouses are a great choice.
 >
 > **[4:03](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/data-storage-in-the-ai-workflow?u=76281980&t=243)** The data lakehouse architecture is fairly recent, and it tries to combine the best of data warehouses, that is its performance and reliability, and data lakes, that is its low cost storage solution.
 >
@@ -699,15 +691,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (53), ai (6), [[Scalability]] (4), database (1), [[Cloud-Native Applications]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (4), [[Data Lakes]] (3), [[Data Collection]] (2), [[Data Preparation]] (1), [[Cloud-Native Applications]] (1)
 > **Env Vars:** csv (1), json (1), gpu (1), tpu (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI storage considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980)
+#### [AI storage considerations](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -719,7 +710,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=18)** Let's see what they are.
 >
-> **[0:19](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=19)** The first thing is neglecting data scalability.
+> **[0:19](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=19)** The first thing is neglecting data [[Scalability]].
 >
 > **[0:22](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=22)** Now, your AI training data and your model might be small to start off with, but do not underestimate the data growth rate and make sure you always use storage solutions that can scale.
 >
@@ -733,9 +724,9 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=58)** Another mistake is ignoring data diversity or accounting for only one kind of data, such as structured data.
 >
-> **[1:05](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=65)** If you store only one type of data without considering report for semi-structured and unstructured data, that'll limit your ability to use diverse data sets such as text, images, and video for multimodal applications.
+> **[1:05](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=65)** If you store only one type of data without considering report for semi-structured and [[Unstructured Data]], that'll limit your ability to use diverse data sets such as text, images, and video for multimodal applications.
 >
-> **[1:17](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=77)** Another common mistake, not tracking metadata or not versioning your data.
+> **[1:17](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=77)** Another common mistake, not tracking [[Metadata]] or not versioning your data.
 >
 > **[1:22](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=82)** If you store data without attaching metadata or tracking versions, this causes confusion in identifying the latest or correct version of the dataset for AI training, and that can lead to expensive mistakes down the line.
 >
@@ -745,7 +736,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=105)** If you do this, you risk data breaches, legal violations, and reputational damage.
 >
-> **[1:50](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=110)** Next, let's discuss some special considerations of AI data storage.
+> **[1:50](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=110)** Next, let's discuss some special considerations of AI [[Data Storage]].
 >
 > **[1:55](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=115)** AI workloads, particularly during model training and inference, requires significant computational power.
 >
@@ -755,17 +746,17 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=133)** AI deals with diverse, and often, complex data types such as unstructured data like images, audio, video as well as vector embeddings, representing semantic meaning of text data.
 >
-> **[2:25](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=145)** Traditional databases and storage systems may not be optimized to handle these data types effectively.
+> **[2:25](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=145)** Traditional [[Databases]] and storage systems may not be optimized to handle these data types effectively.
 >
 > **[2:31](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=151)** They need specialized systems, and this is something we've discussed.
 >
-> **[2:34](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=154)** AI workflows involve multiple stages, including data preparation, model training, inferencing, and archiving, each with different storage requirements.
+> **[2:34](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=154)** AI workflows involve multiple stages, including [[Data Preparation]], model training, inferencing, and archiving, each with different storage requirements.
 >
 > **[2:43](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=163)** Data volumes are different in these different phases.
 >
 > **[2:47](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=167)** Raw input data may be in petabytes, whereas refined data may be in the low petabytes or high terabytes, vector embeddings can be in petabytes, again.
 >
-> **[2:56](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=176)** AI models that are deployed to production often require real-time data access for inference, and this places stringent demands on storage latency and throughput.
+> **[2:56](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=176)** AI models that are deployed to production often require [[Real-Time]] data access for inference, and this places stringent demands on storage latency and throughput.
 >
 > **[3:06](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=186)** Your storage solution must provide quick access to models and the necessary data for prediction.
 >
@@ -777,11 +768,11 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=200)** This is what you do to ensure that data is accessible only to authorized individuals or systems.
 >
-> **[3:26](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=206)** AI models often handle sensitive data such as user information or financial data, and improper storage of raw training or inference data can lead to breaches.
+> **[3:26](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=206)** AI models often handle sensitive data such as user information or [[Financial Data]], and improper storage of raw training or inference data can lead to breaches.
 >
 > **[3:36](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=216)** Integrity ensures that data is accurate, consistent, and protected from unauthorized modification.
 >
-> **[3:42](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=222)** If AI data is corrupted or tampered during storage or transfer, this can result in inaccurate model training and this compromised data integrity impacts trust in AI outputs.
+> **[3:42](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=222)** If AI data is corrupted or tampered during storage or transfer, this can result in inaccurate model training and this compromised [[Data Integrity]] impacts trust in AI outputs.
 >
 > **[3:54](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=234)** And finally, availability ensures that data and systems are accessible whenever needed without interruptions.
 >
@@ -797,13 +788,13 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=270)** Make sure you have operational continuity for your storage solution.
 >
-> **[4:34](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=274)** Downtime in accessing training or inference data directly affects AI operations, causing delays in decision-making or customer service.
+> **[4:34](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=274)** Downtime in accessing training or inference data directly affects AI operations, causing delays in [[Decision-Making]] or customer service.
 >
 > **[4:42](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-considerations?u=76281980&t=282)** If you're working with sensitive data, make sure that you are compliant with laws like GDPR, HIPAA, or CCPA, avoiding legal and financial repercussions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (42), ai (17), [[Scalability]] (2), [[Unstructured Data]] (2), [[Metadata]] (2)
+> **Frameworks & Libraries:** [[Scalability]] (2), [[Unstructured Data]] (2), [[Metadata]] (2), [[Real-Time]] (2), [[Data Storage]] (1)
 > **CLI Commands:** make (7)
 > **Env Vars:** cia (3), gdpr (1), hipaa (1), ccpa (1)
 > **Analogies:** such as (4)
@@ -812,8 +803,7 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI storage best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-best-practices?u=76281980)
+#### [AI storage best practices](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -831,7 +821,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-best-practices?u=76281980&t=51)** For edge-generated data, inference and processing should occur locally, while cloud generated data should typically be processed on the cloud.
 >
-> **[0:59](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-best-practices?u=76281980&t=59)** Make sure that your AI strategy leverages AI models from multiple clouds or providers.
+> **[0:59](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-best-practices?u=76281980&t=59)** Make sure that your [[AI Strategy]] leverages AI models from multiple clouds or providers.
 >
 > **[1:05](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-best-practices?u=76281980&t=65)** A multi-cloud approach allows companies to pivot between providers and use emerging AI models without expensive migrations.
 >
@@ -839,7 +829,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-best-practices?u=76281980&t=81)** While choosing your storage solution, look for a predictable cost model.
 >
-> **[1:25](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-best-practices?u=76281980&t=85)** Cloud storage can have hidden costs, such as charges for data reads, rights, and egress, which can dominate the total cost of ownership.
+> **[1:25](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-best-practices?u=76281980&t=85)** [[Cloud Storage]] can have hidden costs, such as charges for data reads, rights, and egress, which can dominate the total cost of ownership.
 >
 > **[1:33](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-storage-best-practices?u=76281980&t=93)** Storing data at neutral cloud-adjacent locations will eliminate these variable fees and enables a fixed-cost model.
 >
@@ -853,29 +843,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), data (10), cloud (8)
+> **Frameworks & Libraries:** [[AI Strategy]] (1), [[Cloud Storage]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** such as (2)
 > **Best Practices:** best practice (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud storage on Google Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/cloud-storage-on-google-cloud?u=76281980)
+#### [Cloud storage on Google Cloud](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/cloud-storage-on-google-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/cloud-storage-on-google-cloud?u=76281980&t=1)** - [Instructor] We've discussed that blob storage is a very important kind of scalable elastic storage for unstructured data used in AI workloads.
+> **[0:01](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/cloud-storage-on-google-cloud?u=76281980&t=1)** - [Instructor] We've discussed that blob storage is a very important kind of scalable elastic storage for [[Unstructured Data]] used in AI workloads.
 >
-> **[0:09](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/cloud-storage-on-google-cloud?u=76281980&t=9)** In this demo, I'll give you a quick tour of the object storage system on Google Cloud, Google Cloud Storage.
+> **[0:09](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/cloud-storage-on-google-cloud?u=76281980&t=9)** In this demo, I'll give you a quick tour of the object storage system on [[Google Cloud Platform (GCP)|Google Cloud]], Google Cloud Storage.
 >
 > **[0:16](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/cloud-storage-on-google-cloud?u=76281980&t=16)** Here I am logged into a Google Cloud account on a Google Cloud project.
 >
-> **[0:20](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/cloud-storage-on-google-cloud?u=76281980&t=20)** Use the navigation menu off to the left to view all products available on the Google Cloud.
+> **[0:20](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/cloud-storage-on-google-cloud?u=76281980&t=20)** Use the navigation menu off to the left to view all [[Microsoft Products|products]] available on the Google Cloud.
 >
 > **[0:25](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/cloud-storage-on-google-cloud?u=76281980&t=25)** Object storage is available in the section Storage.
 >
-> **[0:30](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/cloud-storage-on-google-cloud?u=76281980&t=30)** Cloud Storage is Google's offering for elastic object storage for all kinds of workloads.
+> **[0:30](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/cloud-storage-on-google-cloud?u=76281980&t=30)** [[Cloud Storage]] is [[Google]]'s offering for elastic object storage for all kinds of workloads.
 >
 > **[0:35](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/cloud-storage-on-google-cloud?u=76281980&t=35)** All your data in Object Storage is stored within containers called buckets.
 >
@@ -941,7 +930,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/cloud-storage-on-google-cloud?u=76281980&t=182)** You can upload entire folders or individual objects.
 >
-> **[3:05](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/cloud-storage-on-google-cloud?u=76281980&t=185)** You can use Google Cloud storage with REST APIs or SDKs to programmatically upload data to your buckets.
+> **[3:05](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/cloud-storage-on-google-cloud?u=76281980&t=185)** You can use Google Cloud storage with [[Representational State Transfer (REST)|REST]] APIs or SDKs to programmatically upload data to your buckets.
 >
 > **[3:14](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/cloud-storage-on-google-cloud?u=76281980&t=194)** Google also has transfer services that enable you to connect to other clouds or to your on-premises system in order to transfer data to cloud storage.
 >
@@ -985,7 +974,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), [[Google Cloud Platform (GCP)|Google cloud]] (6), ai (4), cloud (4), [[Google]] (3)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (6), [[Cloud Storage]] (4), [[Google]] (3), [[Unstructured Data]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** uri (2), url (2), rest (1), csv (1), pdf (1)
 > **UI Navigation:** click on (3), drag and drop (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -994,8 +983,7 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Object storage with Amazon S3
-> [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/object-storage-with-amazon-s3?u=76281980)
+#### [Object storage with Amazon S3](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/object-storage-with-amazon-s3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1007,13 +995,13 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/object-storage-with-amazon-s3?u=76281980&t=22)** You simply add data and pay for how much data you've stored in S3.
 >
-> **[0:28](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/object-storage-with-amazon-s3?u=76281980&t=28)** Here I am on the AWS Management Console and I click on the View all Products icon, and here I search for the Storage section.
+> **[0:28](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/object-storage-with-amazon-s3?u=76281980&t=28)** Here I am on the AWS Management Console and I click on the View all [[Microsoft Products|Products]] icon, and here I search for the Storage section.
 >
 > **[0:37](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/object-storage-with-amazon-s3?u=76281980&t=37)** S3 is available within Storage, and there you can see Scalable Storage in the Cloud.
 >
 > **[0:42](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/object-storage-with-amazon-s3?u=76281980&t=42)** Click through to S3, and you can see that I already have some buckets created here for my other projects, and I'll quickly create a new one and upload some data into it.
 >
-> **[0:52](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/object-storage-with-amazon-s3?u=76281980&t=52)** The process here is very similar to that on the Google Cloud.
+> **[0:52](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/object-storage-with-amazon-s3?u=76281980&t=52)** The process here is very similar to that on the [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[0:56](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/object-storage-with-amazon-s3?u=76281980&t=56)** Click on Create Bucket, and this will walk you through the steps of creating a new bucket.
 >
@@ -1043,7 +1031,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/object-storage-with-amazon-s3?u=76281980&t=135)** If you want to ensure access to previous versions of an object, enable bucket versioning.
 >
-> **[2:20](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/object-storage-with-amazon-s3?u=76281980&t=140)** Again, as in Google, all data in your bucket is encrypted by default.
+> **[2:20](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/object-storage-with-amazon-s3?u=76281980&t=140)** Again, as in [[Google]], all data in your bucket is encrypted by default.
 >
 > **[2:25](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/object-storage-with-amazon-s3?u=76281980&t=145)** There are different encryption options available, I'll stick with the default Amazon S3 managed keys.
 >
@@ -1067,7 +1055,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/object-storage-with-amazon-s3?u=76281980&t=187)** We can easily upload the data that we need to the bucket.
 >
-> **[3:10](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/object-storage-with-amazon-s3?u=76281980&t=190)** Amazon 2 offers rest APIs and client STKs that you can use to upload data to buckets programmatically.
+> **[3:10](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/object-storage-with-amazon-s3?u=76281980&t=190)** Amazon 2 offers [[Representational State Transfer (REST)|rest]] APIs and client STKs that you can use to upload data to buckets programmatically.
 >
 > **[3:19](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/object-storage-with-amazon-s3?u=76281980&t=199)** AWS also offers services such as data sync and the AWS transfer family to transfer data from other clouds as well as from on-premises systems to S3 storage.
 >
@@ -1107,7 +1095,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), aws (7), [[Google Cloud Platform (GCP)|Google cloud]] (3), next (2), management (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Microsoft Products|Products]] (1), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** aws (7), uri (3), pdf (2), csv (1), jpeg (1)
 > **CLI Commands:** aws (7), make (2)
 > **UI Navigation:** click on (5), drag and drop (2), go to (1)
@@ -1116,14 +1104,13 @@ created: 2026-05-02
 > **Best Practices:** recommended (2)
 > **Speakers:** - [instructor] (1)
 
-#### Blob storage on Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/blob-storage-on-azure?u=76281980)
+#### [Blob storage on Azure](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/blob-storage-on-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/blob-storage-on-azure?u=76281980&t=1)** - [Instructor] In this demo, I'll give you a quick overview of object storage functionality on Azure.
+> **[0:01](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/blob-storage-on-azure?u=76281980&t=1)** - [Instructor] In this demo, I'll give you a quick overview of object storage functionality on [[Microsoft Azure|Azure]].
 >
-> **[0:05](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/blob-storage-on-azure?u=76281980&t=5)** Now, on both Google and S3, you created a bucket and stored objects within that bucket.
+> **[0:05](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/blob-storage-on-azure?u=76281980&t=5)** Now, on both [[Google]] and S3, you created a bucket and stored objects within that bucket.
 >
 > **[0:11](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/blob-storage-on-azure?u=76281980&t=11)** On Azure, things work a little differently.
 >
@@ -1167,9 +1154,9 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/blob-storage-on-azure?u=76281980&t=126)** I'm just going to stick with the default Geo-redundant storage and intermediate option.
 >
-> **[2:11](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/blob-storage-on-azure?u=76281980&t=131)** These are the only required properties for your storage account, but I'm going to hit Next and show you a property that you might want to configure for big data and analytics workloads, and that is hierarchical namespaces.
+> **[2:11](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/blob-storage-on-azure?u=76281980&t=131)** These are the only required properties for your storage account, but I'm going to hit Next and show you a property that you might want to configure for [[Big Data]] and analytics workloads, and that is hierarchical namespaces.
 >
-> **[2:24](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/blob-storage-on-azure?u=76281980&t=144)** We've seen this option before on Google Cloud storage as well.
+> **[2:24](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/blob-storage-on-azure?u=76281980&t=144)** We've seen this option before on [[Google Cloud Platform (GCP)|Google Cloud]] storage as well.
 >
 > **[2:27](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/blob-storage-on-azure?u=76281980&t=147)** This will give you high performance for your analytics and AI/ML workloads, and it's a recommendation that you have this checked if you're going to be storing data for AI or ML.
 >
@@ -1193,7 +1180,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/blob-storage-on-azure?u=76281980&t=209)** I've called this loony-data-container.
 >
-> **[3:33](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/blob-storage-on-azure?u=76281980&t=213)** Click on Create, and once the container has been created, you can click through and upload data to this container using the UI, or using REST APIs or SDKs.
+> **[3:33](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/blob-storage-on-azure?u=76281980&t=213)** Click on Create, and once the container has been created, you can click through and upload data to this container using the UI, or using [[Representational State Transfer (REST)|REST]] APIs or SDKs.
 >
 > **[3:44](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/blob-storage-on-azure?u=76281980&t=224)** Just like Google Cloud and AWS, Azure offers extensive tools that you can use to transfer data from on-premise systems or from other cloud platforms into Azure blob storage.
 >
@@ -1227,7 +1214,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[Microsoft Azure|Azure]] (13), ai (4), [[Analytics]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (13), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Google]] (1), [[Big Data]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (8), drag and drop (2)
 > **Env Vars:** url (2), rest (1), aws (1)
 > **CLI Commands:** aws (1), make (1)
@@ -1241,12 +1228,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Retrieval-augmented generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980)
+#### [Retrieval-augmented generation](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980&t=1)** - [Instructor] Generative AI models have made popular a new kind of database, the vector database used in RAGs, or retrieval augmented generation.
+> **[0:01](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980&t=1)** - [Instructor] [[Generative AI]] models have made popular a new kind of database, the vector database used in RAGs, or retrieval augmented generation.
 >
 > **[0:11](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980&t=11)** Let's understand what this means.
 >
@@ -1254,9 +1240,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980&t=15)** This is a type of AI that creates new content that can be text, images, or audio by learning patterns from existing data.
 >
-> **[0:23](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980&t=23)** We worked with generative models such as ChatGPT, and Gemini, and we know that they're prone to making mistakes.
+> **[0:23](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980&t=23)** We worked with generative models such as [[ChatGPT]], and [[Gemini]], and we know that they're prone to making mistakes.
 >
-> **[0:30](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980&t=30)** These models rely on their training data and their responses can contain inaccuracies, biases, or outdated information when applied to scenarios requiring real-time or domain-specific knowledge, which is exactly why RAG or retrieval augmented generation is such a powerful technique.
+> **[0:30](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980&t=30)** These models rely on their training data and their responses can contain inaccuracies, biases, or outdated information when applied to scenarios requiring [[Real-Time]] or domain-specific knowledge, which is exactly why RAG or retrieval augmented generation is such a powerful technique.
 >
 > **[0:49](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980&t=49)** A RAG combines a pre-trained language model with an external retrieval system or database to generate contextually accurate and up-to-date responses.
 >
@@ -1284,7 +1270,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980&t=117)** Now, this data needs to be made available to the generative model, and this is done by pre-processing this data into manageable chunks for better retrieval and embedding.
 >
-> **[2:08](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980&t=128)** Both structured and unstructured data are divided into smaller, coherent chunks for processing.
+> **[2:08](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980&t=128)** Both structured and [[Unstructured Data]] are divided into smaller, coherent chunks for processing.
 >
 > **[2:15](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980&t=135)** These chunks are then passed through a text embedding model, and these embeddings are stored in a vector database.
 >
@@ -1312,30 +1298,29 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980&t=240)** RAGs reduce the risk of hallucinations, commonly seen in standalone generative models.
 >
-> **[4:06](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980&t=246)** Unlike static pre-trained models, RAGs can retrieve the latest information from external databases or knowledge bases, keeping model responses current and reflective of a real-time data.
+> **[4:06](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980&t=246)** Unlike static pre-trained models, RAGs can retrieve the latest information from external [[Databases]] or knowledge bases, keeping model responses current and reflective of a real-time data.
 >
-> **[4:18](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980&t=258)** By connecting to a custom knowledge base, the RAG provides domain-specific expertise such as maybe legal documents or medical literature that goes beyond the general knowledge of large language models.
+> **[4:18](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980&t=258)** By connecting to a custom knowledge base, the RAG provides domain-specific expertise such as maybe legal documents or medical literature that goes beyond the general knowledge of [[Large Language Models (LLM)|large language models]].
 >
 > **[4:30](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980&t=270)** The use cases of RAGs are plenty.
 >
-> **[4:33](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980&t=273)** They're applicable in a variety of domains, including customer support, legal research, healthcare queries, and personalized content generation.
+> **[4:33](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980&t=273)** They're applicable in a variety of domains, including [[Customer Support]], legal research, healthcare queries, and personalized content generation.
 >
-> **[4:42](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980&t=282)** By leveraging external storage, that is the vector databases and retrieval, the use of the RAG minimizes the need for fine-tuning large language models, and this reduces the training costs for organizations.
+> **[4:42](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/retrieval-augmented-generation?u=76281980&t=282)** By leveraging external storage, that is the [[Vector Databases]] and retrieval, the use of the RAG minimizes the need for fine-tuning large language models, and this reduces the training costs for organizations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), database (13), rag (7), ai (3), [[Generative AI]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Real-Time]] (2), [[Large Language Models (LLM)|Large language models]] (2), [[ChatGPT]] (1), [[Gemini]] (1)
 > **Env Vars:** rag (6), gpt (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Vector databases and embeddings
-> [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/vector-databases-and-embeddings?u=76281980)
+#### [Vector databases and embeddings](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/vector-databases-and-embeddings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/vector-databases-and-embeddings?u=76281980&t=1)** - [Instructor] Vector databases are an important component of the RAG architecture, so let's understand them in more detail.
+> **[0:01](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/vector-databases-and-embeddings?u=76281980&t=1)** - [Instructor] [[Vector Databases]] are an important component of the RAG architecture, so let's understand them in more detail.
 >
 > **[0:07](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/vector-databases-and-embeddings?u=76281980&t=7)** A vector database is a system that stores data as high-dimensional numeric vectors.
 >
@@ -1353,13 +1338,13 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/vector-databases-and-embeddings?u=76281980&t=76)** Similar vectors that are closer together in space represent semantically related data points.
 >
-> **[1:22](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/vector-databases-and-embeddings?u=76281980&t=82)** These vector embeddings are generated using pre-trained models like BERT, OpenAI embeddings, or domain specific neural networks, which encode raw data into vector forms.
+> **[1:22](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/vector-databases-and-embeddings?u=76281980&t=82)** These vector embeddings are generated using pre-trained models like BERT, OpenAI embeddings, or domain specific [[Neural Networks]], which encode raw data into vector [[Forms]].
 >
-> **[1:33](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/vector-databases-and-embeddings?u=76281980&t=93)** These embeddings need to be stored in special databases.
+> **[1:33](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/vector-databases-and-embeddings?u=76281980&t=93)** These embeddings need to be stored in special [[Databases]].
 >
 > **[1:36](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/vector-databases-and-embeddings?u=76281980&t=96)** Those are our vector databases.
 >
-> **[1:38](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/vector-databases-and-embeddings?u=76281980&t=98)** Examples include Pinecone, Milvus, et cetera, which enable fast retrieval of vectors.
+> **[1:38](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/vector-databases-and-embeddings?u=76281980&t=98)** Examples include [[Pinecone]], Milvus, et cetera, which enable fast retrieval of vectors.
 >
 > **[1:44](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/vector-databases-and-embeddings?u=76281980&t=104)** Search queries are converted into embeddings and compared to stored vectors using metrics like cosine similarity or Euclidean distance.
 >
@@ -1375,7 +1360,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/vector-databases-and-embeddings?u=76281980&t=135)** For example, text embeddings can capture how words relate to one another in a sentence.
 >
-> **[2:21](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/vector-databases-and-embeddings?u=76281980&t=141)** For example, the word bank in riverbank has a different relationship than the word bank in financial bank.
+> **[2:21](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/vector-databases-and-embeddings?u=76281980&t=141)** For example, the [[Microsoft Word|word]] bank in riverbank has a different relationship than the word bank in financial bank.
 >
 > **[2:29](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/vector-databases-and-embeddings?u=76281980&t=149)** Vectors are made of high dimensional features.
 >
@@ -1399,7 +1384,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/vector-databases-and-embeddings?u=76281980&t=199)** For example, embeddings will convert sentences, phrases, or words into numerical vectors that capture their meaning and relationships.
 >
-> **[3:26](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/vector-databases-and-embeddings?u=76281980&t=206)** This is useful for semantic search, question answering, and sentiment analysis.
+> **[3:26](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/vector-databases-and-embeddings?u=76281980&t=206)** This is useful for [[Semantic Search]], question answering, and sentiment analysis.
 >
 > **[3:31](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/vector-databases-and-embeddings?u=76281980&t=211)** You can generate embeddings for images as well.
 >
@@ -1409,7 +1394,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/vector-databases-and-embeddings?u=76281980&t=227)** Embeddings for audio data converts sound waves or features such as pitch and tone into embeddings for tasks requiring auditory analysis.
 >
-> **[3:56](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/vector-databases-and-embeddings?u=76281980&t=236)** This can be used for speech recognition and music recommendation systems.
+> **[3:56](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/vector-databases-and-embeddings?u=76281980&t=236)** This can be used for [[Speech Recognition]] and music recommendation systems.
 >
 > **[4:00](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/vector-databases-and-embeddings?u=76281980&t=240)** Embeddings on video data will combine image and temporal features into embeddings that represent motion scenes or sequences.
 >
@@ -1433,15 +1418,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Vector Databases]] (4), [[Microsoft Word|Word]] (4), [[Search]] (3), database (2)
+> **Frameworks & Libraries:** [[Vector Databases]] (4), [[Microsoft Word|Word]] (4), [[Neural Networks]] (1), [[Forms]] (1), [[Databases]] (1)
 > **Analogies:** for example (6), such as (2)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** cat (2)
 > **Env Vars:** rag (1), bert (1)
 > **Speakers:** - [instructor] (1)
 
-#### Semantic search with Pinecone
-> [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/semantic-search-with-pinecone?u=76281980)
+#### [Semantic search with Pinecone](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/semantic-search-with-pinecone?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1451,7 +1435,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/semantic-search-with-pinecone?u=76281980&t=10)** You'll see that the Vector database matches the embeddings of your questions, the embeddings of the responses to give you fairly accurate responses.
 >
-> **[0:19](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/semantic-search-with-pinecone?u=76281980&t=19)** Now, the vector database that we work within this demo is the free trial of the Pinecone database.
+> **[0:19](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/semantic-search-with-pinecone?u=76281980&t=19)** Now, the vector database that we work within this demo is the free trial of the [[Pinecone]] database.
 >
 > **[0:25](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/semantic-search-with-pinecone?u=76281980&t=25)** Head over to app.[pinecone.io](https://pinecone.io).
 >
@@ -1461,7 +1445,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/semantic-search-with-pinecone?u=76281980&t=37)** All you need to do here is create an account and set up a vector search index.
 >
-> **[0:41](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/semantic-search-with-pinecone?u=76281980&t=41)** I'm going to log in with my Google account.
+> **[0:41](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/semantic-search-with-pinecone?u=76281980&t=41)** I'm going to log in with my [[Google]] account.
 >
 > **[0:43](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/semantic-search-with-pinecone?u=76281980&t=43)** So I continue with Google and just use my logged in user account to create an account with Pinecone.
 >
@@ -1469,7 +1453,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/semantic-search-with-pinecone?u=76281980&t=55)** I just specify the name of my company.
 >
-> **[0:57](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/semantic-search-with-pinecone?u=76281980&t=57)** We'll be using the Python programming language to interact with the database, so that's what I've selected and I hit continue.
+> **[0:57](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/semantic-search-with-pinecone?u=76281980&t=57)** We'll be using the [[Python (Programming Language)|Python]] programming language to interact with the database, so that's what I've selected and I hit continue.
 >
 > **[1:04](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/semantic-search-with-pinecone?u=76281980&t=64)** Then it asks me what I plan to build with Pinecone.
 >
@@ -1591,7 +1575,7 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/semantic-search-with-pinecone?u=76281980&t=351)** The ID field contains the unique ID for the vector.
 >
-> **[5:54](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/semantic-search-with-pinecone?u=76281980&t=354)** The values field contains the actual numeric embedding and the metadata field contains the original sentence that was used to generate the embedding.
+> **[5:54](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/semantic-search-with-pinecone?u=76281980&t=354)** The values field contains the actual numeric embedding and the [[Metadata]] field contains the original sentence that was used to generate the embedding.
 >
 > **[6:03](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/semantic-search-with-pinecone?u=76281980&t=363)** This gives us the vector representations in the form of list of objects for our 20 sentences.
 >
@@ -1657,11 +1641,11 @@ created: 2026-05-02
 >
 > **[8:47](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/semantic-search-with-pinecone?u=76281980&t=527)** If you take a look at the responses, the first response is perfect, but observe that the second response also talks about water in a way, without proper hydration.
 >
-> **[8:57](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/semantic-search-with-pinecone?u=76281980&t=537)** Vector databases are thus able to use embedding representations of text to perform similarity searches on your data.
+> **[8:57](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/semantic-search-with-pinecone?u=76281980&t=537)** [[Vector Databases]] are thus able to use embedding representations of text to perform similarity searches on your data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pinecone]] (23), database (8), data (7), [[Python (Programming Language)|Python]] (6), api (4)
+> **Frameworks & Libraries:** [[Pinecone]] (23), [[Python (Programming Language)|Python]] (6), [[Google]] (2), [[Metadata]] (2), [[Vector Databases]] (1)
 > **CLI Commands:** python (6), make (5), aws (2), find (1)
 > **Env Vars:** api (4), aws (2), efi (1)
 > **Prerequisites:** set up (3), setup (2), install (1)
@@ -1675,8 +1659,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of AI workloads
-> [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980)
+#### [Types of AI workloads](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1690,11 +1673,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=28)** Here are some common AI workloads.
 >
-> **[0:30](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=30)** The first is data processing.
+> **[0:30](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=30)** The first is [[Data Processing]].
 >
 > **[0:32](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=32)** This involves handling, cleaning, and preparing data for analysis or model training.
 >
-> **[0:38](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=38)** Key tasks here include extracting data from diverse sources, transforming data into consistent formats, and loading it into systems for AI algorithms.
+> **[0:38](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=38)** Key tasks here include extracting data from diverse sources, transforming data into consistent formats, and loading it into systems for AI [[Algorithms]].
 >
 > **[0:47](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=47)** You then have machine learning workloads.
 >
@@ -1702,15 +1685,15 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=57)** This involves iterative processing over large data sets to adjust model parameters and enhance accuracy.
 >
-> **[1:04](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=64)** Within AI, you also have deep learning workloads.
+> **[1:04](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=64)** Within AI, you also have [[Deep Learning]] workloads.
 >
-> **[1:07](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=67)** Deep learning is a subset of machine learning, focusing on neural networks with multiple layers to model complex data patterns.
+> **[1:07](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=67)** Deep learning is a subset of machine learning, focusing on [[Neural Networks]] with multiple layers to model complex data patterns.
 >
 > **[1:15](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=75)** Here, key tasks involve training deep neural networks often requiring substantial computational resources due to how complex the models are.
 >
-> **[1:24](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=84)** Then we have generative AI workloads that involve training and deploying models to create new and realistic content by learning patterns and structures from extensive data sets.
+> **[1:24](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=84)** Then we have [[Generative AI]] workloads that involve training and deploying models to create new and realistic content by learning patterns and structures from extensive data sets.
 >
-> **[1:35](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=95)** These workloads include data preparation through pre-processing and augmentation, model training on specialized hardware, real-time or batch inference deployment, and evaluating outputs with iterative feedback for refinement.
+> **[1:35](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=95)** These workloads include [[Data Preparation]] through pre-processing and augmentation, model training on specialized [[Hardware]], [[Real-Time]] or batch inference deployment, and evaluating outputs with iterative feedback for refinement.
 >
 > **[1:49](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=109)** Inference workloads exist for all kinds of model training, whether machine learning, deep learning, or generative AI.
 >
@@ -1728,7 +1711,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=154)** They demand scalable infrastructure that can expand storage, networking, and computational resources, to accommodate increasing data volumes and processing requirements.
 >
-> **[2:46](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=166)** Another important challenge is that of data privacy and security.
+> **[2:46](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=166)** Another important challenge is that of [[Data Privacy]] and security.
 >
 > **[2:51](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=171)** Protecting sensitive data during AI processing involves robust encryption, secure storage systems, and strict access controls to prevent unauthorized access and to safeguard against breaches or misuse.
 >
@@ -1736,7 +1719,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=194)** And in recent times, we're faced with ethical challenges as well.
 >
-> **[3:18](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=198)** We need to address issues such as bias, transparency, and accountability.
+> **[3:18](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=198)** We need to address issues such as bias, transparency, and [[Accountability]].
 >
 > **[3:23](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=203)** This is as essential as implementing safeguards to prevent misuse of generative AI technology and mitigating risks of harmful outputs.
 >
@@ -1746,13 +1729,13 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=218)** Ensure that all data both in transit and addressed is encrypted using robust encryption standards.
 >
-> **[3:44](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=224)** Make sure you implement strict access control measures such as role-based access control and multi-factor authentication to limit who can access AI models and data.
+> **[3:44](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=224)** Make sure you implement strict access control measures such as role-based access control and [[Multi-factor Authentication]] to limit who can access AI models and data.
 >
 > **[3:55](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=235)** This reduces the risk of insider threats and unauthorized access.
 >
 > **[3:59](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=239)** Ensure that you protect AI models from theft and tampering by encrypting model files and employing secure deployment practices.
 >
-> **[4:07](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=247)** Use techniques like differential privacy to safeguard sensitive data during model training and defend against adversarial attacks that attempt to manipulate AI models by introducing malicious inputs.
+> **[4:07](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=247)** Use techniques like differential [[Privacy]] to safeguard sensitive data during model training and defend against adversarial attacks that attempt to manipulate AI models by introducing malicious inputs.
 >
 > **[4:19](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=259)** Another important point to keep in mind for enterprise AI applications is compliance and auditing.
 >
@@ -1762,7 +1745,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=280)** Continuously monitor AI systems for unusual activities or anomalies that could indicate security breaches.
 >
-> **[4:47](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=287)** Make sure you develop and implement a robust incident response plan to quickly address and mitigate any security incidents.
+> **[4:47](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=287)** Make sure you develop and implement a robust [[Incident Response]] plan to quickly address and mitigate any security incidents.
 >
 > **[4:54](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/types-of-ai-workloads?u=76281980&t=294)** Model training and deployment are likely to involve third-party tools.
 >
@@ -1772,7 +1755,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), ai (20), [[Security]] (5), [[Deep Learning]] (4), [[Generative AI]] (4)
+> **Frameworks & Libraries:** [[Deep Learning]] (4), [[Generative AI]] (4), [[Algorithms]] (2), [[Neural Networks]] (2), [[Real-Time]] (2)
 > **CLI Commands:** make (8)
 > **Env Vars:** gdpr (1), hipaa (1), ccpa (1)
 > **Analogies:** such as (3)
@@ -1780,8 +1763,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (2)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices to optimize AI workloads
-> [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980)
+#### [Best practices to optimize AI workloads](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1791,11 +1773,11 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=19)** Leverage parallelization and distributed computing.
 >
-> **[0:22](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=22)** Distribute AI workloads across multiple nodes using frameworks like TensorFlow Distributed or Horovod to significantly reduce training times and optimize resource usage.
+> **[0:22](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=22)** Distribute AI workloads across multiple nodes using frameworks like [[TensorFlow]] Distributed or Horovod to significantly reduce training times and optimize resource usage.
 >
 > **[0:33](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=33)** Adopt data pre-processing pipelines.
 >
-> **[0:36](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=36)** Streamline your data pre-processing with tools like Apache Spark, TensorFlow data APIs, or custom ETL pipelines to efficiently clean, normalize, and prepare data.
+> **[0:36](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=36)** Streamline your data pre-processing with tools like [[Apache Spark]], TensorFlow data APIs, or custom ETL pipelines to efficiently clean, normalize, and prepare data.
 >
 > **[0:47](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=47)** Optimize your networking infrastructure, and we discuss this while discussing storage systems as well.
 >
@@ -1805,19 +1787,19 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=66)** Implement automated hyperparameter tuning and apply techniques like model pruning or quantization to improve model efficiency and speed without compromising accuracy.
 >
-> **[1:17](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=77)** Deploy models strategically, make use of edge computing for latency-sensitive inference tasks while relying on centralized cloud-based infrastructure for large scale training or batch processing.
+> **[1:17](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=77)** Deploy models strategically, make use of edge computing for latency-sensitive inference tasks while relying on centralized cloud-based infrastructure for large scale training or [[Batch Processing]].
 >
 > **[1:29](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=89)** We'll dive a little deeper into each of these options.
 >
 > **[1:33](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=93)** High-performance computing systems, HPCs, significantly reduce the time required to train complex AI models by leveraging parallel processing capabilities.
 >
-> **[1:42](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=102)** HPC environments enable fast data processing and analysis, making them ideal for AI workloads that involve massive datasets.
+> **[1:42](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=102)** HPC environments enable fast [[Data Processing]] and analysis, making them ideal for AI workloads that involve massive datasets.
 >
-> **[1:51](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=111)** Integrating GPUs and TPUs into high-performance systems boosts computational speed and supports advanced machine learning and deep learning algorithms efficiently.
+> **[1:51](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=111)** Integrating GPUs and TPUs into high-performance systems boosts computational speed and supports advanced machine learning and [[Deep Learning]] [[Algorithms]] efficiently.
 >
 > **[2:02](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=122)** Parallelization divides AI tasks into smaller parts that are processed simultaneously across multiple nodes, reducing training and data processing times.
 >
-> **[2:11](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=131)** Distributed computing, on the other hand, spreads AI workloads across interconnected systems, allowing efficient handling of larger datasets and more complex algorithms without hardware bottlenecks.
+> **[2:11](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=131)** Distributed computing, on the other hand, spreads AI workloads across interconnected systems, allowing efficient handling of larger datasets and more complex algorithms without [[Hardware]] bottlenecks.
 >
 > **[2:24](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=144)** Use tools like TensorFlow or Apache Spark to streamline parallelization and distributed computing by automating task distribution across CPUs or GPUs.
 >
@@ -1849,35 +1831,34 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=269)** Deploy your models strategically.
 >
-> **[4:32](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=272)** When you deploy models on edge devices, this allows ultra low latency for inference tasks, making it ideal for applications like autonomous vehicles, IoT devices, or real-time video analytics where immediate responses are critical.
+> **[4:32](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=272)** When you deploy models on edge devices, this allows ultra low latency for inference tasks, making it ideal for applications like autonomous vehicles, [[IoT]] devices, or [[Real-Time]] video analytics where immediate responses are critical.
 >
-> **[4:46](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=286)** Make use of cloud-based infrastructure for scalability.
+> **[4:46](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=286)** Make use of cloud-based infrastructure for [[Scalability]].
 >
 > **[4:50](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/best-practices-to-optimize-ai-workloads?u=76281980&t=290)** Centralized cloud platforms provide the computational power and scalability needed for large-scale training and batch processing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), ai (11), [[TensorFlow]] (4), [[Apache Spark]] (3), cloud (3)
+> **Frameworks & Libraries:** [[TensorFlow]] (4), [[Apache Spark]] (3), [[Batch Processing]] (2), [[Data Processing]] (2), [[Algorithms]] (2)
 > **CLI Commands:** make (9), apache (3)
 > **Env Vars:** etl (1), hpc (1), api (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** make sure you have (1), required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI workloads on the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980)
+#### [AI workloads on the cloud](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=1)** - [Instructor] AI workloads are generally run on cloud platforms because it's only on the cloud that you get the scalability and high performance that you need while training AI models.
+> **[0:01](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=1)** - [Instructor] AI workloads are generally run on cloud platforms because it's only on the cloud that you get the [[Scalability]] and high performance that you need while training AI models.
 >
-> **[0:11](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=11)** So what are some of the products or services that you'd leverage on the cloud to train AI models?
+> **[0:11](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=11)** So what are some of the [[Microsoft Products|products]] or services that you'd leverage on the cloud to train AI models?
 >
 > **[0:17](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=17)** Let's quickly recap the steps involved in an AI workflow, and then we'll talk about the computational resources that can be used.
 >
-> **[0:24](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=24)** The first is ingestion and analytics on data, we have data processing and storage.
+> **[0:24](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=24)** The first is ingestion and analytics on data, we have [[Data Processing]] and storage.
 >
-> **[0:29](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=29)** Then we have machine learning, high performance computing for deep learning and generative AI models, and then deployment and inference.
+> **[0:29](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=29)** Then we have machine learning, high performance computing for [[Deep Learning]] and [[Generative AI]] models, and then deployment and inference.
 >
 > **[0:38](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=38)** Let's discuss the options available on the three major cloud platforms for these different stages in the AI workflow.
 >
@@ -1885,37 +1866,37 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=51)** Each cloud platform offers a plethora of services for working with data and for building and training AI models.
 >
-> **[0:58](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=58)** It would be impossible to list them all here For ingestion and analytics, if you're working on AWS, you'll use Amazon Kinesis, a real-time data streaming service for ingesting and processing large amounts of streaming data from various sources.
+> **[0:58](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=58)** It would be impossible to list them all here For ingestion and analytics, if you're working on AWS, you'll use Amazon Kinesis, a [[Real-Time]] [[Data Streaming]] service for ingesting and processing large amounts of streaming data from various sources.
 >
 > **[1:12](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=72)** You'll use Amazon Redshift, a fast scalable data warehouse for running complex queries on large data sets.
 >
-> **[1:19](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=79)** If you're working on Azure, you'll use Azure Event Hubs, a real-time data ingestion service for streaming data at scale, allowing you to ingest data from various sources.
+> **[1:19](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=79)** If you're working on [[Microsoft Azure|Azure]], you'll use Azure Event Hubs, a real-time [[Data Ingestion]] service for streaming data at scale, allowing you to ingest data from various sources.
 >
-> **[1:30](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=90)** You'll use Azure Synapse Analytics, a unified analytics platform that integrates big data and data warehousing capabilities.
+> **[1:30](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=90)** You'll use Azure Synapse Analytics, a unified analytics platform that integrates [[Big Data]] and [[Data Warehousing]] capabilities.
 >
-> **[1:38](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=98)** On Google's Cloud, you'd use Google Pub/Sub, a messaging service for real time event ingestion and delivery at scale.
+> **[1:38](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=98)** On [[Google]]'s Cloud, you'd use Google Pub/Sub, a messaging service for real time event ingestion and delivery at scale.
 >
-> **[1:44](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=104)** And you'd use BigQuery, a fully managed serverless data warehouse for running fast SQL-like queries on large dataset.
+> **[1:44](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=104)** And you'd use BigQuery, a fully managed serverless data warehouse for running fast [[SQL]]-like queries on large dataset.
 >
-> **[1:52](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=112)** On AWS for data processing and storage, you'd use AWS Glue, a fully managed EPL extract, transform, load service for data preparation and integration.
+> **[1:52](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=112)** On AWS for data processing and storage, you'd use AWS Glue, a fully managed EPL [[Extract, Transform, Load (ETL)|extract, transform, load]] service for [[Data Preparation]] and integration.
 >
-> **[2:03](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=123)** You'd use Amazon S3, scalable object storage for unstructured data, ideal for analytics and backup.
+> **[2:03](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=123)** You'd use Amazon S3, scalable object storage for [[Unstructured Data]], ideal for analytics and backup.
 >
-> **[2:10](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=130)** On Azure, you'd use Azure Data Factory, a cloud-based EPL and data integration service for orchestrating and automating data flows.
+> **[2:10](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=130)** On Azure, you'd use Azure Data Factory, a cloud-based EPL and [[Data Integration]] service for orchestrating and automating data flows.
 >
 > **[2:18](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=138)** And you'd store your data in Azure Blob Storage, scalable object storage for unstructured data like images, videos, and backups.
 >
-> **[2:27](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=147)** On the Google Cloud, you'd use Cloud Dataflow, a fully managed service for stream and batch processing using Apache Beam, and you'd store your data in Google Cloud storage, the unified object storage for structured and unstructured data.
+> **[2:27](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=147)** On the [[Google Cloud Platform (GCP)|Google Cloud]], you'd use Cloud Dataflow, a fully managed service for stream and [[Batch Processing]] using Apache Beam, and you'd store your data in Google Cloud storage, the unified object storage for structured and unstructured data.
 >
 > **[2:40](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=160)** For training your machine learning and deep learning models on Amazon, you'd use Amazon SageMaker, a comprehensive platform for building, training and deploying ML models at scale.
 >
-> **[2:51](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=171)** You may also choose to use AWS Deep Learning AMIs, which are preconfigured machine images with popular deep learning frameworks like TensorFlow, PyTorch, and MXNet for training and Inference.
+> **[2:51](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=171)** You may also choose to use AWS Deep Learning AMIs, which are preconfigured machine images with popular deep learning frameworks like [[TensorFlow]], [[PyTorch]], and MXNet for training and Inference.
 >
 > **[3:02](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=182)** On Azure, you can train ML models using Azure Machine Learning, a cloud platform for building, training and deploying machine learning models with automated ML and drag and drop tools.
 >
-> **[3:13](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=193)** Or you may choose to use Azure Cognitive Services, which offers rebuilt APIs for vision, speech, language, and decision-making tasks.
+> **[3:13](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=193)** Or you may choose to use Azure Cognitive Services, which offers rebuilt APIs for vision, speech, language, and [[Decision-Making]] tasks.
 >
-> **[3:22](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=202)** On Google, you train your AI models using Vertex AI, an end-to-end machine learning platform for managing dataset, building models, and deploying them at scale.
+> **[3:22](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=202)** On Google, you train your AI models using [[Vertex]] AI, an end-to-end machine learning platform for managing dataset, building models, and deploying them at scale.
 >
 > **[3:32](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=212)** Or you may choose to use Cloud AutoML, a suite of machine learning tools that allows users to build custom models with minimal ML expertise.
 >
@@ -1925,7 +1906,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=240)** On Azure, the Azure CycleCloud is a tool for creating, managing, and optimizing HPC clusters in the cloud.
 >
-> **[4:07](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=247)** And HBv3 virtual machines gives you high performance VMs with InfiniBand connectivity designed for demanding HPC workloads.
+> **[4:07](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=247)** And HBv3 [[Virtual Machines]] gives you high performance VMs with InfiniBand connectivity designed for demanding HPC workloads.
 >
 > **[4:16](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=256)** Google offers Google Cloud HPC, a suite of services designed for running HPC workloads, including optimized compute and storage solutions.
 >
@@ -1933,7 +1914,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=274)** For batch inference, AWS batch can be used to process large volumes of data.
 >
-> **[4:39](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=279)** On Azure, AKS or Azure Kubernetes Service allows you to deploy AI models in a scalable and manageable environment.
+> **[4:39](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=279)** On Azure, AKS or Azure [[Kubernetes]] Service allows you to deploy AI models in a scalable and manageable environment.
 >
 > **[4:47](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/ai-workloads-on-the-cloud?u=76281980&t=287)** And Azure Batch is a managed service for running large scale parallel and batch computing jobs tailored for HPC applications.
 >
@@ -1943,7 +1924,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Microsoft Azure|Azure]] (14), cloud (12), ai (11), aws (8)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Google]] (6), [[Deep Learning]] (4), [[Unstructured Data]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (3)
 > **Env Vars:** aws (8), hpc (7), epl (2), sql (1), aks (1)
 > **CLI Commands:** aws (8), apache (1)
 > **Definitions:** is a  (3)
@@ -1956,12 +1937,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/summary-and-next-steps?u=76281980)
+#### [Summary and next steps](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/summary-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/summary-and-next-steps?u=76281980&t=1)** - [Instructor] And this brings us to the very end of the course on scalable data storage and processing for AI workloads.
+> **[0:01](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/summary-and-next-steps?u=76281980&t=1)** - [Instructor] And this brings us to the very end of the course on scalable [[Data Storage]] and processing for AI workloads.
 >
 > **[0:07](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/summary-and-next-steps?u=76281980&t=7)** Let's quickly summarize what we covered in this course.
 >
@@ -1969,17 +1949,17 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/summary-and-next-steps?u=76281980&t=19)** We then discuss how you would choose the right storage system for different stages in the AI pipeline.
 >
-> **[0:25](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/summary-and-next-steps?u=76281980&t=25)** We then moved on to discussing vector databases, a specialized kind of database that's used in retrieval augmented generation and finally, we discussed the different types of AI workloads and the kind of compute solutions that would be used to enable AI processing and with that, it's time for me to call it a day.
+> **[0:25](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/summary-and-next-steps?u=76281980&t=25)** We then moved on to discussing [[Vector Databases]], a specialized kind of database that's used in retrieval augmented generation and finally, we discussed the different types of AI workloads and the kind of compute solutions that would be used to enable AI processing and with that, it's time for me to call it a day.
 >
-> **[0:45](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/summary-and-next-steps?u=76281980&t=45)** Now, if you're interested in studying further, here are some other courses on LinkedIn Learning that you might find interesting.
+> **[0:45](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/summary-and-next-steps?u=76281980&t=45)** Now, if you're interested in studying further, here are some other courses on [[LinkedIn]] Learning that you might find interesting.
 >
-> **[0:51](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/summary-and-next-steps?u=76281980&t=51)** A natural next step would be to study advanced data processing, Batch, Real-time and Cloud Architectures for AI or [[Secure Data Management for AI Implementation]] and that's it from me here today.
+> **[0:51](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/summary-and-next-steps?u=76281980&t=51)** A natural next step would be to study advanced [[Data Processing]], Batch, [[Real-Time]] and Cloud Architectures for AI or [[Secure [[Data Management]] for AI Implementation]] and that's it from me here today.
 >
 > **[1:04](https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads/summary-and-next-steps?u=76281980&t=64)** I hope you enjoyed this course. Thank you for listening.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (5), [[Vector Databases]] (1), database (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Storage]] (1), [[Vector Databases]] (1), [[LinkedIn]] (1), [[Data Processing]] (1), [[Real-Time]] (1)
 > **Cross-References:** we covered (1), we discussed (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)

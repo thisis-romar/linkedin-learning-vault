@@ -93,16 +93,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why MCP and A2A?
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/why-mcp-a2a?u=76281980)
+#### [Why MCP and A2A?](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/why-mcp-a2a?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/why-mcp-a2a?u=76281980&t=0)** - [Narrator] As AI agents go mainstream and integrate with other data sources and agents, standard protocols are needed to ensure easy and consistent integrations.
+> **[0:00](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/why-mcp-a2a?u=76281980&t=0)** - [Narrator] As [[AI Agents]] go mainstream and integrate with other data sources and agents, standard protocols are needed to ensure easy and consistent integrations.
 >
 > **[0:13](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/why-mcp-a2a?u=76281980&t=13)** In this course, I will explain the concepts of MCP and A2A, and how they can be used to build multi-agent systems.
 >
-> **[0:22](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/why-mcp-a2a?u=76281980&t=22)** We will implement three examples for MCP and then build a multi-agent human resources assistant using A2A.
+> **[0:22](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/why-mcp-a2a?u=76281980&t=22)** We will implement three examples for MCP and then build a multi-agent [[Human Resources (HR)|human resources]] assistant using A2A.
 >
 > **[0:32](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/why-mcp-a2a?u=76281980&t=32)** My name is Kumaran Ponnambalam.
 >
@@ -110,7 +109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), data (1), [[Human Resources (HR)|Human resources]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Env Vars:** mcp (3), a2a (3)
 > **Speakers:** - [narrator] (1)
 
@@ -119,12 +118,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Model Context Protocol?
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-model-context-protocol?u=76281980)
+#### [What is Model Context Protocol?](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-model-context-protocol?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-model-context-protocol?u=76281980&t=0)** - [Instructor] In this chapter, we will discuss the concepts of Model Context Protocol, or MCP for short, and how it will be used to build generative AI integrations.
+> **[0:00](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-model-context-protocol?u=76281980&t=0)** - [Instructor] In this chapter, we will discuss the concepts of Model Context Protocol, or MCP for short, and how it will be used to build [[Generative AI]] integrations.
 >
 > **[0:12](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-model-context-protocol?u=76281980&t=12)** We begin by discussing the need for this protocol in this video.
 >
@@ -136,11 +134,11 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-model-context-protocol?u=76281980&t=39)** An orchestration engine helps to orchestrate the request across multiple entities to determine a response.
 >
-> **[0:47](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-model-context-protocol?u=76281980&t=47)** It connects to a set of resources to fetch data or context.
+> **[0:47](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-model-context-protocol?u=76281980&t=47)** It connects to a set of resources to [[Fetch]] data or context.
 >
-> **[0:52](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-model-context-protocol?u=76281980&t=52)** These resources can be structured databases, files, web services, or vector databases, or graph databases.
+> **[0:52](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-model-context-protocol?u=76281980&t=52)** These resources can be structured [[Databases]], files, web services, or [[Vector Databases]], or graph databases.
 >
-> **[1:02](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-model-context-protocol?u=76281980&t=62)** In the case of AI agents, the orchestration layer also integrates with a set of agent tools to execute actions.
+> **[1:02](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-model-context-protocol?u=76281980&t=62)** In the case of [[AI Agents]], the orchestration layer also integrates with a set of agent tools to execute actions.
 >
 > **[1:12](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-model-context-protocol?u=76281980&t=72)** To send data to GenAI models, prompt templates are used.
 >
@@ -156,9 +154,9 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-model-context-protocol?u=76281980&t=113)** Each resource type supports its own interface for data retrieval.
 >
-> **[1:58](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-model-context-protocol?u=76281980&t=118)** This could be SQL, REST, gRPC, or simple file reads.
+> **[1:58](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-model-context-protocol?u=76281980&t=118)** This could be [[SQL]], [[Representational State Transfer (REST)|REST]], gRPC, or simple file reads.
 >
-> **[2:04](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-model-context-protocol?u=76281980&t=124)** AI agents through their tools need to integrate with external systems like web services, third party services, and cloud services for performing actions like creation, retrieval, and updates on data stored in these systems.
+> **[2:04](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-model-context-protocol?u=76281980&t=124)** AI agents through their tools need to integrate with external systems like web services, third party services, and [[Cloud Services]] for performing actions like creation, retrieval, and updates on data stored in these systems.
 >
 > **[2:22](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-model-context-protocol?u=76281980&t=142)** Prompt templates also are not standardized, so each developer or team uses their own methods to store and retrieve them.
 >
@@ -184,15 +182,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Orchestration]] (3), prompt (3), application (2), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Databases]] (2), [[AI Agents]] (2), [[Generative AI]] (1), [[Fetch]] (1), [[Vector Databases]] (1)
 > **Env Vars:** mcp (7), sql (1), rest (1)
 > **Code Identifiers:** grpc (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### MCP architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-architecture?u=76281980)
+#### [MCP architecture](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -232,13 +229,13 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-architecture?u=76281980&t=97)** Let's say we have a Sales AI Assistant application.
 >
-> **[1:41](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-architecture?u=76281980&t=101)** This assistant is an AI agent that answers questions about products as well as performs order management operations.
+> **[1:41](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-architecture?u=76281980&t=101)** This assistant is an AI agent that answers questions about [[Microsoft Products|products]] as well as performs order management operations.
 >
 > **[1:50](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-architecture?u=76281980&t=110)** This is the MCP Host.
 >
 > **[1:53](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-architecture?u=76281980&t=113)** The assistant uses a knowledge base of products sold by the company.
 >
-> **[1:58](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-architecture?u=76281980&t=118)** This knowledge base is stored in a Postgres Vector database where the product data is stored in embedded format for semantic search.
+> **[1:58](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-architecture?u=76281980&t=118)** This knowledge base is stored in a [[PostgreSQL|Postgres]] Vector database where the product data is stored in embedded format for [[Semantic Search]].
 >
 > **[2:09](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-architecture?u=76281980&t=129)** This information will be used using retrieval augmented generation or RAG by the Sales AI Assistant.
 >
@@ -246,7 +243,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-architecture?u=76281980&t=143)** This server exposes search capabilities on the Vector DB as MCP resources.
 >
-> **[2:30](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-architecture?u=76281980&t=150)** It talks with the Vector database using a SQL interface.
+> **[2:30](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-architecture?u=76281980&t=150)** It talks with the Vector database using a [[SQL]] interface.
 >
 > **[2:36](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-architecture?u=76281980&t=156)** To access the knowledge base for RAG, the Sales AI Assistant has a PGVector MCP Client.
 >
@@ -262,7 +259,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-architecture?u=76281980&t=205)** A Salesforce MCP Server is deployed for accessing the Salesforce Cloud using MCP.
 >
-> **[3:32](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-architecture?u=76281980&t=212)** It integrates with the Salesforce Cloud using the REST protocol.
+> **[3:32](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-architecture?u=76281980&t=212)** It integrates with the Salesforce Cloud using the [[Representational State Transfer (REST)|REST]] protocol.
 >
 > **[3:37](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-architecture?u=76281980&t=217)** It exposes tools for creating, updating and deleting orders.
 >
@@ -280,13 +277,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), application (4), [[Microsoft Products|Products]] (3), database (3), [[Search]] (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[SQL]] (2), [[PostgreSQL|Postgres]] (1), [[Semantic Search]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** mcp (37), rag (2), sql (2), rest (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Resources, tools, and prompt templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/resources-tools-prompt-templates?u=76281980)
+#### [Resources, tools, and prompt templates](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/resources-tools-prompt-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -328,7 +324,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/resources-tools-prompt-templates?u=76281980&t=116)** Next comes tools.
 >
-> **[1:58](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/resources-tools-prompt-templates?u=76281980&t=118)** Tools are specifically used in the context of AI agents.
+> **[1:58](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/resources-tools-prompt-templates?u=76281980&t=118)** Tools are specifically used in the context of [[AI Agents]].
 >
 > **[2:03](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/resources-tools-prompt-templates?u=76281980&t=123)** Tools expose executable functionality to the MCP clients.
 >
@@ -346,7 +342,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/resources-tools-prompt-templates?u=76281980&t=172)** Each MCP server will also provide a tool listing interface that can be used by the clients to discover tools provided by the server.
 >
-> **[3:04](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/resources-tools-prompt-templates?u=76281980&t=184)** This listing contains metadata about the tool's inputs, functions, and outputs.
+> **[3:04](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/resources-tools-prompt-templates?u=76281980&t=184)** This listing contains [[Metadata]] about the tool's inputs, functions, and outputs.
 >
 > **[3:09](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/resources-tools-prompt-templates?u=76281980&t=189)** This can be used by a reasoning model to determine if and when to use these tools.
 >
@@ -366,14 +362,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), data (6), ai (4), application (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[Metadata]] (2)
 > **Env Vars:** mcp (15), uri (2)
 > **Definitions:** means that (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transport in MCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/transport-in-mcp?u=76281980)
+#### [Transport in MCP](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/transport-in-mcp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -401,7 +396,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/transport-in-mcp?u=76281980&t=68)** It is usually used to send alerts to the client if the resource or tool on the server side is updated with new data.
 >
-> **[1:19](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/transport-in-mcp?u=76281980&t=79)** All messages are exchanged in JSON-RPC2.0 format between the client and the server.
+> **[1:19](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/transport-in-mcp?u=76281980&t=79)** All messages are exchanged in [[JSON]]-RPC2.0 format between the client and the server.
 >
 > **[1:27](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/transport-in-mcp?u=76281980&t=87)** Both MCP client and server uses prebuilt SDKs for communication.
 >
@@ -441,7 +436,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/transport-in-mcp?u=76281980&t=222)** The sales AI assistant will start the PGVector MCP server when needed, and use STDIO for communication.
 >
-> **[3:52](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/transport-in-mcp?u=76281980&t=232)** The Salesforce MCP server may be remote and hosted using an HTTP SSE interface.
+> **[3:52](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/transport-in-mcp?u=76281980&t=232)** The Salesforce MCP server may be remote and hosted using an HTTP [[Server-Sent Events|SSE]] interface.
 >
 > **[4:00](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/transport-in-mcp?u=76281980&t=240)** This can even be running in the Salesforce Cloud.
 >
@@ -451,15 +446,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[JSON]] (2), ai (2), next (1), [[Server-Sent Events|Sse]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Server-Sent Events|Sse]] (1)
 > **Env Vars:** mcp (15), stdio (3), http (3), json (2), url (2)
 > **Definitions:** is a  (3)
 > **Versions:** 2.0 (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
-#### Messaging flow in MCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/messaging-flow-in-mcp?u=76281980)
+#### [Messaging flow in MCP](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/messaging-flow-in-mcp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -491,18 +485,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), prompt (1)
 > **Env Vars:** mcp (12)
 > **Prerequisites:** initialization (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prebuilt MCP servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/prebuilt-mcp-servers?u=76281980)
+#### [Prebuilt MCP servers](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/prebuilt-mcp-servers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/prebuilt-mcp-servers?u=76281980&t=0)** - [Instructor] Every enterprise uses several third party products like databases, ticketing systems, document hubs, and SaaS services.
+> **[0:00](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/prebuilt-mcp-servers?u=76281980&t=0)** - [Instructor] Every enterprise uses several third party [[Microsoft Products|products]] like [[Databases]], ticketing systems, document hubs, and [[SaaS]] services.
 >
 > **[0:10](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/prebuilt-mcp-servers?u=76281980&t=10)** Does this mean that they need to build an MCP server from scratch for all of them?
 >
@@ -512,7 +504,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/prebuilt-mcp-servers?u=76281980&t=25)** Several data and services providers are building out MCP servers for their offerings, so they can be instantly integrated into Gen AI workflows.
 >
-> **[0:36](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/prebuilt-mcp-servers?u=76281980&t=36)** In addition, other third parties are also building open-source MCP servers for popular databases and cloud services.
+> **[0:36](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/prebuilt-mcp-servers?u=76281980&t=36)** In addition, other third parties are also building open-source MCP servers for popular databases and [[Cloud Services]].
 >
 > **[0:46](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/prebuilt-mcp-servers?u=76281980&t=46)** So, there are few options available for any popular data service.
 >
@@ -522,7 +514,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/prebuilt-mcp-servers?u=76281980&t=64)** If not, try available open-source MCP servers.
 >
-> **[1:09](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/prebuilt-mcp-servers?u=76281980&t=69)** This GitHub Repo has a list of available MCP servers.
+> **[1:09](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/prebuilt-mcp-servers?u=76281980&t=69)** This [[GitHub]] Repo has a list of available MCP servers.
 >
 > **[1:14](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/prebuilt-mcp-servers?u=76281980&t=74)** Links to their content are also provided here.
 >
@@ -530,7 +522,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Databases]] (2), open-source (2), [[Microsoft Products|Products]] (1), [[SaaS]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Microsoft Products|Products]] (1), [[SaaS]] (1), [[Cloud Services]] (1), [[GitHub]] (1)
 > **Env Vars:** mcp (7)
 > **Best Practices:** recommended (2)
 > **Tools:** github (1)
@@ -542,8 +534,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### MCP SDKs
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-sdks?u=76281980)
+#### [MCP SDKs](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-sdks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -553,17 +544,17 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-sdks?u=76281980&t=20)** Let's explore some popular MCP SDKs available.
 >
-> **[0:25](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-sdks?u=76281980&t=25)** If you are building your applications in Python, it's recommended to use the Python SDK that is based on FastMCP.
+> **[0:25](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-sdks?u=76281980&t=25)** If you are building your applications in [[Python (Programming Language)|Python]], it's recommended to use the Python SDK that is based on FastMCP.
 >
 > **[0:34](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-sdks?u=76281980&t=34)** FastMCP is an easy to use SDK that encapsulates the protocol implementation and provides easy decorators to enable MCP.
 >
 > **[0:45](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-sdks?u=76281980&t=45)** We will be using FastMCP in this course.
 >
-> **[0:49](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-sdks?u=76281980&t=49)** LangChain also provides an MCP adapter package that can be used to build MCP clients.
+> **[0:49](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-sdks?u=76281980&t=49)** [[LangChain]] also provides an MCP adapter package that can be used to build MCP clients.
 >
 > **[0:56](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-sdks?u=76281980&t=56)** We will use this to build clients in this course.
 >
-> **[1:00](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-sdks?u=76281980&t=60)** In addition, LlamaIndex also has an MCP package that allows for easy MCP use.
+> **[1:00](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-sdks?u=76281980&t=60)** In addition, [[LlamaIndex]] also has an MCP package that allows for easy MCP use.
 >
 > **[1:08](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/mcp-sdks?u=76281980&t=68)** Most Gen AA frameworks provide some form of MCP implementation.
 >
@@ -580,8 +571,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Simple MCP app design
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/simple-mcp-app-design?u=76281980)
+#### [Simple MCP app design](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/simple-mcp-app-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -591,7 +581,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/simple-mcp-app-design?u=76281980&t=12)** We are going to build a code of conduct assistant for this example.
 >
-> **[0:17](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/simple-mcp-app-design?u=76281980&t=17)** This is a human resources AI assistant that will answer questions about code of conduct policies.
+> **[0:17](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/simple-mcp-app-design?u=76281980&t=17)** This is a [[Human Resources (HR)|human resources]] AI assistant that will answer questions about code of conduct policies.
 >
 > **[0:25](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/simple-mcp-app-design?u=76281980&t=25)** The policies themselves are available in a PDF file called codeofconduct.pdf.
 >
@@ -625,20 +615,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Human Resources (HR)|Human resources]] (1), llm (1), application (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1)
 > **Env Vars:** mcp (10), pdf (2), llm (1), stdio (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build the code-of-conduct MCP server
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-code-of-conduct-mcp-server?u=76281980)
+#### [Build the code-of-conduct MCP server](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-code-of-conduct-mcp-server?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-code-of-conduct-mcp-server?u=76281980&t=0)** - [Instructor] In this video, we will build the code of conduct MCP server.
 >
-> **[0:05](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-code-of-conduct-mcp-server?u=76281980&t=5)** Code for all examples in this course are available in the GitHub link provided with the course.
+> **[0:05](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-code-of-conduct-mcp-server?u=76281980&t=5)** Code for all examples in this course are available in the [[GitHub]] link provided with the course.
 >
 > **[0:13](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-code-of-conduct-mcp-server?u=76281980&t=13)** I will use code spaces to run the code.
 >
@@ -708,19 +697,18 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-code-of-conduct-mcp-server?u=76281980&t=234)** For this, we call the run method in HR COC MCP, we specify transport as STD io.
 >
-> **[4:03](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-code-of-conduct-mcp-server?u=76281980&t=243)** The client will actually run this file, fetch the resource, and then shut down the running instance.
+> **[4:03](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-code-of-conduct-mcp-server?u=76281980&t=243)** The client will actually run this file, [[Fetch]] the resource, and then shut down the running instance.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (2), [[GitHub]] (1), data (1), next (1), database (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Fetch]] (1)
 > **Env Vars:** mcp (8), pdf (4), ura (3), sdk (2), env (1)
 > **Prerequisites:** set up (2), install (1), setup (1)
 > **Tools:** github (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build the code-of-conduct MCP client
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-code-of-conduct-mcp-client?u=76281980)
+#### [Build the code-of-conduct MCP client](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-code-of-conduct-mcp-client?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -744,7 +732,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-code-of-conduct-mcp-client?u=76281980&t=61)** If additional parameters are needed, they should also be provided in the arguments.
 >
-> **[1:10](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-code-of-conduct-mcp-client?u=76281980&t=70)** Next, we set up the Azure Open AI model for LLM in this example.
+> **[1:10](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-code-of-conduct-mcp-client?u=76281980&t=70)** Next, we set up the [[Microsoft Azure|Azure]] Open AI model for LLM in this example.
 >
 > **[1:16](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-code-of-conduct-mcp-client?u=76281980&t=76)** The endpoint, deployment, subscription key, and api_versions are configured in the .env file and will be reused across all examples in this course.
 >
@@ -772,7 +760,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-code-of-conduct-mcp-client?u=76281980&t=167)** We can get the list of resources provided by an MCP server using the load MCP resources method.
 >
-> **[2:56](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-code-of-conduct-mcp-client?u=76281980&t=176)** We can then print the metadata for all the resources.
+> **[2:56](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-code-of-conduct-mcp-client?u=76281980&t=176)** We can then print the [[Metadata]] for all the resources.
 >
 > **[3:00](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-code-of-conduct-mcp-client?u=76281980&t=180)** This will show all the information we configured when creating the server.
 >
@@ -790,7 +778,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-code-of-conduct-mcp-client?u=76281980&t=224)** Next, we create a user query, simulating user input.
 >
-> **[3:48](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-code-of-conduct-mcp-client?u=76281980&t=228)** We ask the question, what are the privacy policies of the company?
+> **[3:48](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-code-of-conduct-mcp-client?u=76281980&t=228)** We ask the question, what are the [[Privacy]] policies of the company?
 >
 > **[3:53](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-code-of-conduct-mcp-client?u=76281980&t=233)** Then, we create a prompt that contains the user query and the retrieved content.
 >
@@ -802,7 +790,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft Azure|Azure]] (2), llm (2), data (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Metadata]] (1), [[Privacy]] (1)
 > **Env Vars:** mcp (13), std (4), llm (2), sdk (1)
 > **Prerequisites:** initialization (3), configure (1), set up (1)
 > **Code Identifiers:** code_of_conduct_client (1), langchain_mcp_adapters (1), api_versions (1), fetch_resource_content (1)
@@ -811,18 +799,17 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Execute the code-of-conduct app with MCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-code-of-conduct-app-with-mcp?u=76281980)
+#### [Execute the code-of-conduct app with MCP](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-code-of-conduct-app-with-mcp?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-code-of-conduct-app-with-mcp?u=76281980&t=0)** - [Instructor] Let's now run the code of conduct MCP client and review the results.
 >
-> **[0:05](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-code-of-conduct-app-with-mcp?u=76281980&t=5)** To run this client, we go to the Run function and select Run Python File in Dedicated Terminal.
+> **[0:05](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-code-of-conduct-app-with-mcp?u=76281980&t=5)** To run this client, we go to the Run function and select Run [[Python (Programming Language)|Python]] File in Dedicated Terminal.
 >
 > **[0:18](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-code-of-conduct-app-with-mcp?u=76281980&t=18)** Here we first see the MCP server being started during the initialization process.
 >
-> **[0:26](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-code-of-conduct-app-with-mcp?u=76281980&t=26)** The metadata for the resources loaded, is printed.
+> **[0:26](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-code-of-conduct-app-with-mcp?u=76281980&t=26)** The [[Metadata]] for the resources loaded, is printed.
 >
 > **[0:30](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-code-of-conduct-app-with-mcp?u=76281980&t=30)** It also shows the URI for the resources.
 >
@@ -849,8 +836,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### HR policy agent design
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-policy-agent-design?u=76281980)
+#### [HR policy agent design](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-policy-agent-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -862,7 +848,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-policy-agent-design?u=76281980&t=19)** Let's first discuss the features of the HR policy agent.
 >
-> **[0:24](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-policy-agent-design?u=76281980&t=24)** The HR policy agent is used by the human resources department in an enterprise to help with their employee queries.
+> **[0:24](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-policy-agent-design?u=76281980&t=24)** The HR policy agent is used by the [[Human Resources (HR)|human resources]] department in an enterprise to help with their employee queries.
 >
 > **[0:34](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-policy-agent-design?u=76281980&t=34)** The agent answers questions about employee policies, like time off, remote work, and other benefits.
 >
@@ -874,7 +860,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-policy-agent-design?u=76281980&t=63)** This is provided as a tool in MCP.
 >
-> **[1:07](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-policy-agent-design?u=76281980&t=67)** This is an example of how retrieval in a retrieval-augmented generation, or RAG, system can be done using an MCP server.
+> **[1:07](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-policy-agent-design?u=76281980&t=67)** This is an example of how retrieval in a [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]], or RAG, system can be done using an MCP server.
 >
 > **[1:18](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-policy-agent-design?u=76281980&t=78)** The prompt for the LLM is also served by the MCP server.
 >
@@ -904,14 +890,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (6), database (4), prompt (3), ai (1), [[Human Resources (HR)|Human resources]] (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1)
 > **Env Vars:** mcp (12), pdf (2), rag (1), llm (1), stdio (1)
 > **Definitions:** is an  (2)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build the HR policy MCP server
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-policy-mcp-server?u=76281980)
+#### [Build the HR policy MCP server](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-policy-mcp-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -965,15 +950,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), database (3), hr (2), next (1), [[Search]] (1)
 > **Env Vars:** mcp (7), pdf (1), pypdf (1), mll6v2 (1), llm (1)
 > **Prerequisites:** set up (3)
 > **Exercise Files:** template (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build the HR policy agent with MCP client
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-policy-agent-with-mcp-client?u=76281980)
+#### [Build the HR policy agent with MCP client](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-policy-agent-with-mcp-client?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -995,7 +978,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-policy-agent-with-mcp-client?u=76281980&t=57)** We will be using the MCP server in Stdio transport mode.
 >
-> **[1:02](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-policy-agent-with-mcp-client?u=76281980&t=62)** For this, we first use the correct path for the MCP server Python file, then we set up the Stdio parameters.
+> **[1:02](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-policy-agent-with-mcp-client?u=76281980&t=62)** For this, we first use the correct path for the MCP server [[Python (Programming Language)|Python]] file, then we set up the Stdio parameters.
 >
 > **[1:11](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-policy-agent-with-mcp-client?u=76281980&t=71)** The OS command to be used is Python, and the arguments to this command is the path to the Python file.
 >
@@ -1003,13 +986,13 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-policy-agent-with-mcp-client?u=76281980&t=89)** During this process, the hr_policy_server.py file is started up.
 >
-> **[1:35](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-policy-agent-with-mcp-client?u=76281980&t=95)** We now fetch the list of all tools supported by this MCP server.
+> **[1:35](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-policy-agent-with-mcp-client?u=76281980&t=95)** We now [[Fetch]] the list of all tools supported by this MCP server.
 >
 > **[1:41](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-policy-agent-with-mcp-client?u=76281980&t=101)** We also get the prompt from the same server by specifying the function name and passing the query as parameter.
 >
 > **[1:49](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-policy-agent-with-mcp-client?u=76281980&t=109)** We print the tool name and the prompt that was retrieved.
 >
-> **[1:57](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-policy-agent-with-mcp-client?u=76281980&t=117)** Now we proceed to create a React agent.
+> **[1:57](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-policy-agent-with-mcp-client?u=76281980&t=117)** Now we proceed to create a [[React.js|React]] agent.
 >
 > **[2:00](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-policy-agent-with-mcp-client?u=76281980&t=120)** We pass the LLM model for reasoning and also the list of tools.
 >
@@ -1035,7 +1018,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Fetch]] (3), prompt (3), next (2), llm (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Fetch]] (3), [[React.js|React]] (1)
 > **Env Vars:** mcp (7), llm (2)
 > **CLI Commands:** python (3)
 > **Code Identifiers:** hr_policy_agent (1), hr_policy_server (1), run_hr_policy_agent (1)
@@ -1044,8 +1027,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is called (1)
 > **Prerequisites:** setup (1), set up (1)
 
-#### Execute the HR policy agent with MCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-hr-policy-agent-with-mcp?u=76281980)
+#### [Execute the HR policy agent with MCP](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-hr-policy-agent-with-mcp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1059,7 +1041,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-hr-policy-agent-with-mcp?u=76281980&t=21)** Then the tools and the prompt are loaded and printed.
 >
-> **[0:25](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-hr-policy-agent-with-mcp?u=76281980&t=25)** The prompt is loaded as a human message that can be readily consumed by the React agent.
+> **[0:25](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-hr-policy-agent-with-mcp?u=76281980&t=25)** The prompt is loaded as a human message that can be readily consumed by the [[React.js|React]] agent.
 >
 > **[0:31](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-hr-policy-agent-with-mcp?u=76281980&t=31)** Then the agent is invoked to answer the query.
 >
@@ -1073,7 +1055,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (3), prompt (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Env Vars:** mcp (6)
 > **Exercise Files:** template (1)
 > **Speakers:** - [speaker] (1)
@@ -1083,8 +1065,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### HR timeoff agent design
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-timeoff-agent-design?u=76281980)
+#### [HR timeoff agent design](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-timeoff-agent-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1130,23 +1111,22 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-timeoff-agent-design?u=76281980&t=133)** The MCP client communicates with the HR time off MCP server for time off management.
 >
-> **[2:21](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-timeoff-agent-design?u=76281980&t=141)** Note that this will use the HTTP/SSE for communication.
+> **[2:21](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-timeoff-agent-design?u=76281980&t=141)** Note that this will use the HTTP/[[Server-Sent Events|SSE]] for communication.
 >
 > **[2:26](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-timeoff-agent-design?u=76281980&t=146)** Unlike the previous examples with SGBAO, where the server is started by the client, here, the server should be up and running for the client to communicate using HTTP.
 >
-> **[2:39](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-timeoff-agent-design?u=76281980&t=159)** Let's now proceed to implement this example in the rest of the chapter.
+> **[2:39](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-timeoff-agent-design?u=76281980&t=159)** Let's now proceed to implement this example in the [[Representational State Transfer (REST)|rest]] of the chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (6), database (4), data (3), prompt (2), management (2)
+> **Frameworks & Libraries:** [[Server-Sent Events|Sse]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** mcp (10), http (2), sse (1), sgbao (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is an  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build the HR timeoff MCP server
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-timeoff-mcp-server?u=76281980)
+#### [Build the HR timeoff MCP server](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-timeoff-mcp-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1208,7 +1188,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-timeoff-mcp-server?u=76281980&t=167)** Finally, it updates the balance in the employee table for available time offs.
 >
-> **[2:56](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-timeoff-mcp-server?u=76281980&t=176)** There is some example usage code that can be used to test this class standalone by simply executing the Python file.
+> **[2:56](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-timeoff-mcp-server?u=76281980&t=176)** There is some example usage code that can be used to test this class standalone by simply executing the [[Python (Programming Language)|Python]] file.
 >
 > **[3:12](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-timeoff-mcp-server?u=76281980&t=192)** Next, we move on to build the MCP server in the timeoff_db server.py file.
 >
@@ -1242,7 +1222,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), next (3), data (3), [[Python (Programming Language)|Python]] (2), llm (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** mcp (6), http (2), llm (1), url (1)
 > **Cross-References:** we discussed (1), previous video (1), in the next (1)
 > **File Paths:** timeoff_datastore.py (1), server.py (1)
@@ -1251,8 +1231,7 @@ created: 2026-05-02
 > **URLs:** [localhost:8000](https://localhost:8000) (1)
 > **Ports:** :8000 (1)
 
-#### Build the HR Timeoff Agent with MCP Client
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-timeoff-agent-with-mcp-client?u=76281980)
+#### [Build the HR Timeoff Agent with MCP Client](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-timeoff-agent-with-mcp-client?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1262,7 +1241,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-timeoff-agent-with-mcp-client?u=76281980&t=11)** Most of this code is similar to the HR policy agent that we built in the previous chapter.
 >
-> **[0:18](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-timeoff-agent-with-mcp-client?u=76281980&t=18)** We begin by first setting up the Azure Chat OpenAI model for use with the agent.
+> **[0:18](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-timeoff-agent-with-mcp-client?u=76281980&t=18)** We begin by first setting up the [[Microsoft Azure|Azure]] Chat OpenAI model for use with the agent.
 >
 > **[0:25](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-timeoff-agent-with-mcp-client?u=76281980&t=25)** We use the environment variables to identify the required parameters.
 >
@@ -1292,7 +1271,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-timeoff-agent-with-mcp-client?u=76281980&t=104)** Once a connection is established, these steps are similar to our previous example.
 >
-> **[1:54](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-timeoff-agent-with-mcp-client?u=76281980&t=114)** We then create a React agent with the tools.
+> **[1:54](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-timeoff-agent-with-mcp-client?u=76281980&t=114)** We then create a [[React.js|React]] agent with the tools.
 >
 > **[1:57](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/build-the-hr-timeoff-agent-with-mcp-client?u=76281980&t=117)** We use the prompt to initiate the agent.
 >
@@ -1316,7 +1295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), prompt (2), hr (1), [[Microsoft Azure|Azure]] (1), llm (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[React.js|React]] (1)
 > **Env Vars:** mcp (3), http (3), url (2), llm (1)
 > **Cross-References:** previous chapter (1), in the next (1)
 > **Analogies:** similar to (2)
@@ -1324,8 +1303,7 @@ created: 2026-05-02
 > **Code Identifiers:** timeoff_agent (1)
 > **Speakers:** - [instructor] (1)
 
-#### Execute the HR timeoff agent with MCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-hr-timeoff-agent-with-mcp?u=76281980)
+#### [Execute the HR timeoff agent with MCP](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-hr-timeoff-agent-with-mcp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1363,7 +1341,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-hr-timeoff-agent-with-mcp?u=76281980&t=111)** This is because the balance is reduced by five based on the previous request.
 >
-> **[1:57](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-hr-timeoff-agent-with-mcp?u=76281980&t=117)** One thing you may notice is that we are creating the React agent for each request, so the list of tools and prompts are fetched again and again.
+> **[1:57](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-hr-timeoff-agent-with-mcp?u=76281980&t=117)** One thing you may notice is that we are creating the [[React.js|React]] agent for each request, so the list of tools and prompts are fetched again and again.
 >
 > **[2:07](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-hr-timeoff-agent-with-mcp?u=76281980&t=127)** We could also create the React agent once and reuse it for new requests.
 >
@@ -1377,7 +1355,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), database (2), [[React.js|React]] (2), hr (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2)
 > **Env Vars:** mcp (4), post (1), http (1)
 > **File Paths:** timeoff_db_server.py (1), timeoff_agent.py (1)
 > **Code Identifiers:** timeoff_db_server (1), timeoff_agent (1)
@@ -1390,8 +1368,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is A2A?
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-a2a?u=76281980)
+#### [What is A2A?](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-a2a?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1409,11 +1386,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-a2a?u=76281980&t=36)** An AA agent can leverage another agent to execute a business function.
 >
-> **[0:41](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-a2a?u=76281980&t=41)** For example, a technical support agent can utilize a product knowledge agent to understand more about a product's features.
+> **[0:41](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-a2a?u=76281980&t=41)** For example, a [[Technical Support]] agent can utilize a product knowledge agent to understand more about a product's features.
 >
 > **[0:51](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-a2a?u=76281980&t=51)** As multi-agent systems evolve, we end up with agents that are built with different frameworks like Lang Chain and LAMA Index.
 >
-> **[1:00](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-a2a?u=76281980&t=60)** They may also be deployed inside a single cluster or distributed across cloud services like AWS and GCP.
+> **[1:00](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-a2a?u=76281980&t=60)** They may also be deployed inside a single cluster or distributed across [[Cloud Services]] like AWS and GCP.
 >
 > **[1:09](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-a2a?u=76281980&t=69)** They may be deployed by different organizations, and communication would require crossing organization boundaries.
 >
@@ -1431,7 +1408,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-a2a?u=76281980&t=127)** Each participating agent in a multi-agent system can implement this standard once, and then it can communicate with any other agent implementing the same standard.
 >
-> **[2:19](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-a2a?u=76281980&t=139)** A2A is a protocol similar to communication protocols like TCP, IP or rest.
+> **[2:19](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-a2a?u=76281980&t=139)** A2A is a protocol similar to communication protocols like TCP, IP or [[Representational State Transfer (REST)|rest]].
 >
 > **[2:26](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-a2a?u=76281980&t=146)** It provides a common transport layer as well as a message structure.
 >
@@ -1447,13 +1424,13 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-a2a?u=76281980&t=175)** So a given workflow can be created using multiple agents in an A2A enabled multi-agent system.
 >
-> **[3:03](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-a2a?u=76281980&t=183)** It has support for access, control, security, and privacy.
+> **[3:03](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-a2a?u=76281980&t=183)** It has support for access, control, security, and [[Privacy]].
 >
 > **[3:08](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/what-is-a2a?u=76281980&t=188)** This allows A2A to be used for communications with agents across organizational and trust boundaries.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), product (2), next (1), [[Technical Support]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Technical Support]] (1), [[Cloud Services]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Privacy]] (1)
 > **Env Vars:** a2a (9), mcp (1), lama (1), aws (1), gcp (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), similar to (1)
@@ -1461,8 +1438,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Architecture of A2A
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/architecture-of-a2a?u=76281980)
+#### [Architecture of A2A](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/architecture-of-a2a?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1542,14 +1518,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (1), application (1)
 > **Env Vars:** a2a (23), mcp (7), llm (1)
 > **Prerequisites:** setup (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### A2A communication elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-communication-elements?u=76281980)
+#### [A2A communication elements](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-communication-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1561,7 +1535,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-communication-elements?u=76281980&t=9)** We begin with the agent card, which is a fundamental elemental for A2A.
 >
-> **[0:16](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-communication-elements?u=76281980&t=16)** An agent card is a JSON-based metadata document.
+> **[0:16](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-communication-elements?u=76281980&t=16)** An agent card is a [[JSON]]-based [[Metadata]] document.
 >
 > **[0:20](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-communication-elements?u=76281980&t=20)** It is used to describe the configurations and capabilities of a given agent.
 >
@@ -1621,13 +1595,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[JSON]] (1), [[Metadata]] (1), next (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[Metadata]] (1)
 > **Env Vars:** a2a (11), json (1)
 > **Definitions:** is a  (4), is an  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### A2A protocols
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-protocols?u=76281980)
+#### [A2A protocols](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-protocols?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1695,13 +1668,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** a2a (18), url (3)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### A2A discovery strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-discovery-strategies?u=76281980)
+#### [A2A discovery strategies](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-discovery-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1721,7 +1692,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-discovery-strategies?u=76281980&t=54)** Here, the agent is built as an A2A server agent, and is deployed with a known URI.
 >
-> **[1:01](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-discovery-strategies?u=76281980&t=61)** The URI is well-known, similar to [google.com](https://google.com), or it is an internal AA agent whose URI is published inside the organization.
+> **[1:01](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-discovery-strategies?u=76281980&t=61)** The URI is well-known, similar to [[[Google]].com](https://google.com), or it is an internal AA agent whose URI is published inside the organization.
 >
 > **[1:11](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-discovery-strategies?u=76281980&t=71)** The agent will host its own Agent Card.
 >
@@ -1759,7 +1730,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[Google]] (1), api (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Env Vars:** uri (6), a2a (3), api (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** previous video (1), we discussed (1)
@@ -1767,8 +1738,7 @@ created: 2026-05-02
 > **URLs:** [google.com](https://google.com) (1)
 > **Speakers:** - [lecturer] (1)
 
-#### A2A client and server communication flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-client-and-server-communication-flow?u=76281980)
+#### [A2A client and server communication flow](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-client-and-server-communication-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1794,7 +1764,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-client-and-server-communication-flow?u=76281980&t=61)** If the Agent Card is hosted by the A2A server itself, then it needs to know the URL for each of the A2A servers it needs to communicate with.
 >
-> **[1:14](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-client-and-server-communication-flow?u=76281980&t=74)** The A2A client uses the URL to the registry to fetch the Agent Card.
+> **[1:14](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-client-and-server-communication-flow?u=76281980&t=74)** The A2A client uses the URL to the registry to [[Fetch]] the Agent Card.
 >
 > **[1:20](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-client-and-server-communication-flow?u=76281980&t=80)** It can also do a search across all agents in the A2A server to identify the right agent and then pull its Agent Card.
 >
@@ -1810,13 +1780,13 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-client-and-server-communication-flow?u=76281980&t=122)** It does the message exchanges as per the protocol and sends the goal or the task to be executed.
 >
-> **[2:10](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-client-and-server-communication-flow?u=76281980&t=130)** This can either follow the request response or the streaming with SSE protocol.
+> **[2:10](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-client-and-server-communication-flow?u=76281980&t=130)** This can either follow the request response or the streaming with [[Server-Sent Events|SSE]] protocol.
 >
 > **[2:16](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-client-and-server-communication-flow?u=76281980&t=136)** The A2A Server interface then invokes an Agent Executor.
 >
 > **[2:22](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-client-and-server-communication-flow?u=76281980&t=142)** The Agent Executor serves as the link between the A2A Server code and the actual AI Agent.
 >
-> **[2:29](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-client-and-server-communication-flow?u=76281980&t=149)** The Agent Executor can either load up the AI Agent inside the A2A server itself, or it can use any other kind of protocol like REST or GRPC to integrate with the AI Agent.
+> **[2:29](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-client-and-server-communication-flow?u=76281980&t=149)** The Agent Executor can either load up the AI Agent inside the A2A server itself, or it can use any other kind of protocol like [[Representational State Transfer (REST)|REST]] or GRPC to integrate with the AI Agent.
 >
 > **[2:45](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/a2a-client-and-server-communication-flow?u=76281980&t=165)** The AI Agent is invoked by the Agent Executor with the given goal or task.
 >
@@ -1830,7 +1800,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Fetch]] (1), [[Search]] (1), [[Server-Sent Events|Sse]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[Server-Sent Events|Sse]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** a2a (20), url (6), uri (1), sse (1), rest (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1840,8 +1810,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### HR multi-agent assistant design
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-multi-agent-assistant-design?u=76281980)
+#### [HR multi-agent assistant design](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/hr-multi-agent-assistant-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1907,15 +1876,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (21), front-end (1)
 > **Env Vars:** a2a (14), mcp (5), http (2), stdio (1), grpc (1)
 > **Warnings:** note that (2)
 > **Cross-References:** previous chapter (1)
 > **Exercise Files:** boilerplate (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement A2A Server for agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/implement-a2a-server-for-agents?u=76281980)
+#### [Implement A2A Server for agents](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/implement-a2a-server-for-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2025,7 +1992,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (7), next (3), application (2), prompt (1)
 > **Code Identifiers:** wrapper_hr_policy_agent (1), run_hr_policy_agent (1), wrapper_timeoff_agent (1)
 > **Env Vars:** url (3)
 > **File Paths:** a2a.wrapper_hr_policy_agent.py (1), a2a.wrapper_timeoff_agent.py (1)
@@ -2033,12 +1999,11 @@ created: 2026-05-02
 > **Analogies:** similar to (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** boilerplate (1)
+> **Speakers:** - [instructor] (1)
 
-#### Implement a A2A client
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/implement-a-a2a-client?u=76281980)
+#### [Implement a A2A client](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/implement-a-a2a-client?u=76281980)
 
-#### Create a multi-agent router agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/create-a-multi-agent-router-agent?u=76281980)
+#### [Create a multi-agent router agent](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/create-a-multi-agent-router-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2060,7 +2025,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/create-a-multi-agent-router-agent?u=76281980&t=72)** We build the graph based on the design of the router agent.
 >
-> **[1:18](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/create-a-multi-agent-router-agent?u=76281980&t=78)** The call_llm method is used to call the LLM and request a routing destination.
+> **[1:18](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/create-a-multi-agent-router-agent?u=76281980&t=78)** The call_llm method is used to call the LLM and request a [[Routing]] destination.
 >
 > **[1:26](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/create-a-multi-agent-router-agent?u=76281980&t=86)** The policy_agent_node method is used to route the query to the Policy_Agent through the a2a client and the a2a server.
 >
@@ -2090,7 +2055,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), llm (3), prompt (3), [[Routing]] (1), next (1)
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **Code Identifiers:** router_agent (1), call_llm (1), policy_agent_node (1), timeoff_agent_node (1), timeoff_agent (1)
 > **Env Vars:** llm (3), url (2)
 > **CLI Commands:** node (3)
@@ -2099,8 +2064,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Execute the multi-agent HR App with A2A
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-multi-agent-hr-app-with-a2a?u=76281980)
+#### [Execute the multi-agent HR App with A2A](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-multi-agent-hr-app-with-a2a?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2110,7 +2074,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-multi-agent-hr-app-with-a2a?u=76281980&t=15)** Please recollect that the timeoff agent uses this MCP server in HTTP mode on port 8,000.
 >
-> **[0:24](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-multi-agent-hr-app-with-a2a?u=76281980&t=24)** We can run this by running the Python file in a dedicated terminal.
+> **[0:24](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-multi-agent-hr-app-with-a2a?u=76281980&t=24)** We can run this by running the [[Python (Programming Language)|Python]] file in a dedicated terminal.
 >
 > **[0:35](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-multi-agent-hr-app-with-a2a?u=76281980&t=35)** Then we need to run the a2a server for the policy agent.
 >
@@ -2158,7 +2122,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-multi-agent-hr-app-with-a2a?u=76281980&t=148)** Let's now switch to the policy a2a servers logs, and see what happens there for this request from the client.
 >
-> **[2:40](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-multi-agent-hr-app-with-a2a?u=76281980&t=160)** We see the first request is for .well-known/agent.json.
+> **[2:40](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-multi-agent-hr-app-with-a2a?u=76281980&t=160)** We see the first request is for .well-known/agent.[[JSON]].
 >
 > **[2:46](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/execute-the-multi-agent-hr-app-with-a2a?u=76281980&t=166)** This is the request received for the agent card.
 >
@@ -2188,7 +2152,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), node (3), [[Python (Programming Language)|Python]] (1), [[JSON]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[JSON]] (1)
 > **Env Vars:** mcp (3), url (2), http (1), policy (1), timeoff (1)
 > **Ports:** port 9 (4), port 8 (1)
 > **CLI Commands:** node (3), python (1)
@@ -2202,8 +2166,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recommended next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/recommended-next-steps?u=76281980)
+#### [Recommended next steps](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/recommended-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2213,7 +2176,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/recommended-next-steps?u=76281980&t=13)** If you want to take your learnings even further, here are some recommendations for your learning journey.
 >
-> **[0:20](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/recommended-next-steps?u=76281980&t=20)** First, learn about how popular agentic frameworks like LongChain, LlamaIndex, AutoGen and CrewAI support MCP and A2A.
+> **[0:20](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/recommended-next-steps?u=76281980&t=20)** First, learn about how popular agentic frameworks like LongChain, [[LlamaIndex]], AutoGen and CrewAI support MCP and A2A.
 >
 > **[0:31](https://www.linkedin.com/learning/hands-on-ai-building-ai-agents-with-model-context-protocol-mcp-and-agent2agent-a2a/recommended-next-steps?u=76281980&t=31)** Build an MCP server for one of your own organization's data sources.
 >
@@ -2227,7 +2190,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LlamaIndex]] (1), data (1)
+> **Frameworks & Libraries:** [[LlamaIndex]] (1)
 > **Env Vars:** mcp (3), a2a (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)

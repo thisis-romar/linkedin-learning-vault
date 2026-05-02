@@ -97,12 +97,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating chatbots
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/creating-chatbots?u=76281980)
+#### [Creating chatbots](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/creating-chatbots?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/creating-chatbots?u=76281980&t=0)** - Artificial intelligence is leading users to expect more and more from their interactions with your website or app.
+> **[0:00](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/creating-chatbots?u=76281980&t=0)** - [[Artificial Intelligence (AI)|Artificial intelligence]] is leading users to expect more and more from their interactions with your website or app.
 >
 > **[0:07](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/creating-chatbots?u=76281980&t=7)** Is yours up to the task?
 >
@@ -120,13 +119,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), aws (1), next (1), chatbot (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (2), aws (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - artificial (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -136,15 +134,15 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/what-you-should-know?u=76281980&t=14)** Of course you'll need to use your bot and a client, like an app or website, so knowledge of how you want to use it, and development skills there, will give you insight into how you can use your bot.
 >
-> **[0:25](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/what-you-should-know?u=76281980&t=25)** We'll use a JavaScript client in this course, and do most of the work from a command line.
+> **[0:25](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/what-you-should-know?u=76281980&t=25)** We'll use a [[JavaScript]] client in this course, and do most of the work from a command line.
 >
-> **[0:29](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/what-you-should-know?u=76281980&t=29)** You'll need NPM installed if you want to perform those steps.
+> **[0:29](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/what-you-should-know?u=76281980&t=29)** You'll need [[npm]] installed if you want to perform those steps.
 >
 > **[0:33](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/what-you-should-know?u=76281980&t=33)** I'll mention it in the video when the time comes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (1), [[JavaScript]] (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[npm]] (1)
 > **Env Vars:** aws (1), iam (1), npm (1)
 > **CLI Commands:** aws (1), npm (1)
 > **Prerequisites:** you'll need (2)
@@ -156,8 +154,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to AWS Lex
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/introduction-to-aws-lex?u=76281980)
+#### [Introduction to AWS Lex](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/introduction-to-aws-lex?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -183,11 +180,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Speakers:** - [instructor] (1)
 
-#### AWS account and console
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/aws-account-and-console?u=76281980)
+#### [AWS account and console](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/aws-account-and-console?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -197,7 +192,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/aws-account-and-console?u=76281980&t=6)** If you're like me, you're only interested in a subset of the offering from AWS.
 >
-> **[0:11](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/aws-account-and-console?u=76281980&t=11)** Like a department or other stores, you probably go to the sections you need and don't worry about the rest.
+> **[0:11](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/aws-account-and-console?u=76281980&t=11)** Like a department or other stores, you probably go to the sections you need and don't worry about the [[Representational State Transfer (REST)|rest]].
 >
 > **[0:16](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/aws-account-and-console?u=76281980&t=16)** We'll be using the Lex service mostly, but we'll also be looking at a few others.
 >
@@ -215,25 +210,24 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/aws-account-and-console?u=76281980&t=41)** Many services are free to use up to a limited use or time.
 >
-> **[0:44](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/aws-account-and-console?u=76281980&t=44)** We'll use free services for this course, but always be mindful of the cost by going to the Billing and Cost Management Dashboard.
+> **[0:44](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/aws-account-and-console?u=76281980&t=44)** We'll use free services for this course, but always be mindful of the cost by going to the Billing and [[Cost Management]] Dashboard.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), [[Representational State Transfer (REST)|Rest]] (1), [[Cost Management]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Cost Management]] (1)
 > **CLI Commands:** aws (5), make (2)
 > **Env Vars:** aws (4)
 > **UI Navigation:** go to (2)
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chatbot concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/chatbot-concepts?u=76281980)
+#### [Chatbot concepts](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/chatbot-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/chatbot-concepts?u=76281980&t=0)** - [Instructor] AWS Lex allows you to create chatbots or bots.
 >
-> **[0:04](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/chatbot-concepts?u=76281980&t=4)** Bots are the container for the rest of the settings, configuration details, and integration for chatbots in AWS.
+> **[0:04](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/chatbot-concepts?u=76281980&t=4)** Bots are the container for the [[Representational State Transfer (REST)|rest]] of the settings, configuration details, and integration for chatbots in AWS.
 >
 > **[0:12](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/chatbot-concepts?u=76281980&t=12)** Effectively, they're like a project that holds the various pieces of the bot.
 >
@@ -271,15 +265,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lex API and CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/lex-api-and-cli?u=76281980)
+#### [Lex API and CLI](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/lex-api-and-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -315,7 +308,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/lex-api-and-cli?u=76281980&t=58)** That will be our bot factory.
 >
-> **[1:00](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/lex-api-and-cli?u=76281980&t=60)** Maybe "laboratory" is a better word 'cause our bots are so smart.
+> **[1:00](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/lex-api-and-cli?u=76281980&t=60)** Maybe "laboratory" is a better [[Microsoft Word|word]] 'cause our bots are so smart.
 >
 > **[1:04](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/lex-api-and-cli?u=76281980&t=64)** As I mentioned, we won't need to do any real coding in creating our bots, though the client apps will need to be coded.
 >
@@ -327,7 +320,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), api (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** aws (3), api (3), iam (1)
 > **CLI Commands:** aws (3)
 > **Tools:** command line (3)
@@ -341,8 +334,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Lex Bot creation
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/lex-bot-creation?u=76281980)
+#### [Lex Bot creation](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/lex-bot-creation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -406,7 +398,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), next (2), [[Search]] (1), generic (1)
 > **Env Vars:** iam (3), aws (2), coppa (1)
 > **CLI Commands:** aws (4)
 > **UI Navigation:** go to (3), scroll down (1)
@@ -414,9 +405,9 @@ created: 2026-05-02
 > **Versions:** 0.4 (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
+> **Prerequisites:** getting started (1)
 
-#### Intents
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/intents?u=76281980)
+#### [Intents](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/intents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -474,7 +465,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/intents?u=76281980&t=125)** And what we're looking for there, that slot is what the user wants to order for dinner.
 >
-> **[2:10](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/intents?u=76281980&t=130)** And we have to pick up on that word, and then we store it in a slot.
+> **[2:10](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/intents?u=76281980&t=130)** And we have to pick up on that [[Microsoft Word|word]], and then we store it in a slot.
 >
 > **[2:15](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/intents?u=76281980&t=135)** Then once the interaction's done, we have this confirmation section that can basically ask the user, are you sure you want to order 5,000 pizzas?
 >
@@ -520,7 +511,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Microsoft Word|Word]] (1), aws (1), database (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Cross-References:** in the next (1)
@@ -528,8 +519,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Kicking off the conversation
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/kicking-off-the-conversation?u=76281980)
+#### [Kicking off the conversation](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/kicking-off-the-conversation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -603,14 +593,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), next (1)
 > **UI Navigation:** click on (1), scroll down (1), go to (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
 
-#### Testing the bot
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/testing-the-bot?u=76281980)
+#### [Testing the bot](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/testing-the-bot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -630,7 +618,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/testing-the-bot?u=76281980&t=41)** There's no response, there's no collecting of data so it just says it's fulfilled.
 >
-> **[0:45](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/testing-the-bot?u=76281980&t=45)** And if I click on the inspect button I can see kind of the summary and I can see the JSON input and output.
+> **[0:45](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/testing-the-bot?u=76281980&t=45)** And if I click on the inspect button I can see kind of the summary and I can see the [[JSON]] input and output.
 >
 > **[0:52](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/testing-the-bot?u=76281980&t=52)** So this is actually what's being sent back and forth from what I type in to the bot itself and what comes back.
 >
@@ -660,13 +648,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** json (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: OrderDrink intent
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/challenge-orderdrink-intent?u=76281980)
+#### [Challenge: OrderDrink intent](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/challenge-orderdrink-intent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -691,8 +678,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: OrderDrink intent
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/solution-orderdrink-intent?u=76281980)
+#### [Solution: OrderDrink intent](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/solution-orderdrink-intent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -728,7 +714,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Analogies:** such as (1), just like (1)
 > **Speakers:** - [instructor] (1)
@@ -739,8 +724,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Slot types
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/slot-types?u=76281980)
+#### [Slot types](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/slot-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -764,7 +748,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/slot-types?u=76281980&t=56)** There's these built-in slots to where if I'm collecting something like an email address or a number, they're predefined to be able to recognize information in a variety of formats depending on what the user says.
 >
-> **[1:08](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/slot-types?u=76281980&t=68)** So for example, duration, if I click on that we know that people say these things in different forms like 10 minutes, 45 seconds, or they might say a given time or they might say 90 minutes instead of an hour and a half.
+> **[1:08](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/slot-types?u=76281980&t=68)** So for example, duration, if I click on that we know that people say these things in different [[Forms]] like 10 minutes, 45 seconds, or they might say a given time or they might say 90 minutes instead of an hour and a half.
 >
 > **[1:22](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/slot-types?u=76281980&t=82)** Who knows how people are going to say it but this one that's provided by Amazon will handle those pieces for you.
 >
@@ -784,7 +768,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), generic (1), [[Forms]] (1), game (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
@@ -792,8 +776,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Custom slot types
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/custom-slot-types?u=76281980)
+#### [Custom slot types](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/custom-slot-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -881,11 +864,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), prompt (1), next (1)
 > **Speakers:** - [narrator] (1)
 
-#### User input prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/user-input-prompts?u=76281980)
+#### [User input prompts](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/user-input-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -973,11 +954,11 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/user-input-prompts?u=76281980&t=217)** Pizza, front door.
 >
-> **[3:51](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/user-input-prompts?u=76281980&t=231)** Yes, and since I said yes it fulfilled this because we don't actually have the rest of the intent done, but we're getting there.
+> **[3:51](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/user-input-prompts?u=76281980&t=231)** Yes, and since I said yes it fulfilled this because we don't actually have the [[Representational State Transfer (REST)|rest]] of the intent done, but we're getting there.
 >
 > **[4:02](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/user-input-prompts?u=76281980&t=242)** And you can see it was a little bumpy.
 >
-> **[4:03](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/user-input-prompts?u=76281980&t=243)** We probably need to make a few changes in there some of the wording and how we word it so that the response is also worded in the way we want but working pretty smooth for just typing in some fields.
+> **[4:03](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/user-input-prompts?u=76281980&t=243)** We probably need to make a few changes in there some of the wording and how we [[Microsoft Word|word]] it so that the response is also worded in the way we want but working pretty smooth for just typing in some fields.
 >
 > **[4:14](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/user-input-prompts?u=76281980&t=254)** I'm pretty encouraged.
 >
@@ -985,7 +966,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** select the (1), click on (1), dropdown (1), scroll down (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** loc (2), lock (1)
@@ -993,8 +974,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Confirmation prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/confirmation-prompts?u=76281980)
+#### [Confirmation prompts](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/confirmation-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1056,12 +1036,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), generic (2), data (1), next (1), power (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a restricted slot
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/challenge-create-a-restricted-slot?u=76281980)
+#### [Challenge: Create a restricted slot](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/challenge-create-a-restricted-slot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1089,8 +1067,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pleasant music) (1)
 
-#### Solution: Create a restricted slot
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/solution-create-a-restricted-slot?u=76281980)
+#### [Solution: Create a restricted slot](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/solution-create-a-restricted-slot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1124,7 +1101,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/solution-create-a-restricted-slot?u=76281980&t=81)** So just like I did before, I'm going to add a new slot and the name will be Restaurant.
 >
-> **[1:28](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/solution-create-a-restricted-slot?u=76281980&t=88)** The slot-type will be rest-type that I just defined, the RestSlot.
+> **[1:28](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/solution-create-a-restricted-slot?u=76281980&t=88)** The slot-type will be [[Representational State Transfer (REST)|rest]]-type that I just defined, the RestSlot.
 >
 > **[1:33](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/solution-create-a-restricted-slot?u=76281980&t=93)** And the prompt, from where do you want to order?
 >
@@ -1172,7 +1149,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (1), select the (1)
 > **Definitions:** is a  (2)
@@ -1186,8 +1163,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Closing response
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/closing-response?u=76281980)
+#### [Closing response](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/closing-response?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1235,13 +1211,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (1), data (1), next (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prompting with card group
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/prompting-with-card-group?u=76281980)
+#### [Prompting with card group](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/prompting-with-card-group?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1305,14 +1279,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4)
 > **UI Navigation:** go to (2), scroll down (2), select the (1)
 > **Env Vars:** url (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Closing response for dessert
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/challenge-closing-response-for-dessert?u=76281980)
+#### [Challenge: Closing response for dessert](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/challenge-closing-response-for-dessert?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1342,14 +1314,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1), next (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Closing response for dessert
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/solution-closing-response-for-dessert?u=76281980)
+#### [Solution: Closing response for dessert](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/solution-closing-response-for-dessert?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1411,7 +1381,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1)
 > **UI Navigation:** scroll down (2), go to (2), click on (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
@@ -1422,8 +1391,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Versions and aliases
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/versions-and-aliases?u=76281980)
+#### [Versions and aliases](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/versions-and-aliases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1485,14 +1453,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **Versions:** version 1 (6)
 > **UI Navigation:** click on (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Client creation
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/client-creation?u=76281980)
+#### [Client creation](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/client-creation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1512,19 +1478,19 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/client-creation?u=76281980&t=46)** I'm just going to click on the "Get started for free".
 >
-> **[0:49](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/client-creation?u=76281980&t=49)** I'm going to select JavaScript from the dropdown and then I'm going to go right to the Libraries tab over here.
+> **[0:49](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/client-creation?u=76281980&t=49)** I'm going to select [[JavaScript]] from the dropdown and then I'm going to go right to the Libraries tab over here.
 >
 > **[0:57](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/client-creation?u=76281980&t=57)** This is going to get me integrate this into a project really quickly.
 >
-> **[1:01](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/client-creation?u=76281980&t=61)** So I've got the prerequisites I need to have Node.js which we'll install NPM as well.
+> **[1:01](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/client-creation?u=76281980&t=61)** So I've got the prerequisites I need to have [[Node.js]] which we'll install [[npm]] as well.
 >
 > **[1:06](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/client-creation?u=76281980&t=66)** So I've already done that.
 >
 > **[1:08](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/client-creation?u=76281980&t=68)** I've got that installed, but you would need to do that.
 >
-> **[1:10](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/client-creation?u=76281980&t=70)** Don't really need to do NPM separately or Git.
+> **[1:10](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/client-creation?u=76281980&t=70)** Don't really need to do NPM separately or [[Git]].
 >
-> **[1:13](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/client-creation?u=76281980&t=73)** I've already got an AWS account and I'm not going to use the Amplify CLI.
+> **[1:13](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/client-creation?u=76281980&t=73)** I've already got an AWS account and I'm not going to use the Amplify [[CLI]].
 >
 > **[1:18](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/client-creation?u=76281980&t=78)** Again, I'm just going to straight to manually setting this up.
 >
@@ -1600,7 +1566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), [[npm]] (4), next (3), application (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[npm]] (4), [[JavaScript]] (1), [[Node.js]] (1), [[Git]] (1), [[CLI]] (1)
 > **CLI Commands:** aws (5), npm (4), make (2), node (1), git (1)
 > **Env Vars:** aws (4), npm (4), cli (1), npx (1)
 > **Tools:** terminal (5), command line (1)
@@ -1609,8 +1575,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (2), go back to (1)
 > **File Paths:** node.js (1), index.js (1)
 
-#### Client preparation
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/client-preparation?u=76281980)
+#### [Client preparation](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/client-preparation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1688,7 +1653,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), hit (4), next (1)
 > **CLI Commands:** aws (4), make (3)
 > **Env Vars:** aws (4), iam (3)
 > **UI Navigation:** go to (2), checkbox (1), click on (1)
@@ -1696,8 +1660,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Gathering configuration data
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/gathering-configuration-data?u=76281980)
+#### [Gathering configuration data](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/gathering-configuration-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1753,7 +1716,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/gathering-configuration-data?u=76281980&t=110)** Now that was kind of a pain to get to.
 >
-> **[1:52](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/gathering-configuration-data?u=76281980&t=112)** You could probably get there a lot faster if you just Google AWS supported languages or Lex V2 supported languages.
+> **[1:52](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/gathering-configuration-data?u=76281980&t=112)** You could probably get there a lot faster if you just [[Google]] AWS supported languages or Lex V2 supported languages.
 >
 > **[1:59](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/gathering-configuration-data?u=76281980&t=119)** I just wanted to show you this as one way to get into it and how to access it.
 >
@@ -1765,7 +1728,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), next (2), hit (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **CLI Commands:** aws (3)
 > **UI Navigation:** go to (3)
 > **Env Vars:** aws (2)
@@ -1774,8 +1737,7 @@ created: 2026-05-02
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing the bot with text
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/testing-the-bot-with-text?u=76281980)
+#### [Testing the bot with text](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/testing-the-bot-with-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1783,7 +1745,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/testing-the-bot-with-text?u=76281980&t=5)** It will use this identity pool so it will allow unauthenticated users access to the bot, and that should work great for us, and then we can see the output in the browser's console.
 >
-> **[0:16](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/testing-the-bot-with-text?u=76281980&t=16)** So back at the Lex documentation for JavaScript, I'm going to scroll to the bottom and go to the next section for interact with bots.
+> **[0:16](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/testing-the-bot-with-text?u=76281980&t=16)** So back at the Lex documentation for [[JavaScript]], I'm going to scroll to the bottom and go to the next section for interact with bots.
 >
 > **[0:23](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/testing-the-bot-with-text?u=76281980&t=23)** I can also click on that over here on the left.
 >
@@ -1811,7 +1773,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/testing-the-bot-with-text?u=76281980&t=88)** So now I'm going to escape this.
 >
-> **[1:30](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/testing-the-bot-with-text?u=76281980&t=90)** I'm going to write and quit for this file to get saved out, and then I'm going to run it with NPM start, and it should start the server load, the browser.
+> **[1:30](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/testing-the-bot-with-text?u=76281980&t=90)** I'm going to write and quit for this file to get saved out, and then I'm going to run it with [[npm]] start, and it should start the server load, the browser.
 >
 > **[1:39](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/testing-the-bot-with-text?u=76281980&t=99)** And I should be able to look at the console to see the output as the response from the text I sent up of, "I want to order dinner."
 >
@@ -1823,15 +1785,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[JavaScript]] (2), next (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[npm]] (1)
 > **UI Navigation:** go to (2), click on (1), scroll down (1), dropdown (1)
 > **CLI Commands:** make (1), npm (1)
 > **File Paths:** index.js (1)
 > **Env Vars:** npm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Engage bot from CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/challenge-engage-bot-from-cli?u=76281980)
+#### [Challenge: Engage bot from CLI](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/challenge-engage-bot-from-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1876,8 +1837,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Engage bot from CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/solution-engage-bot-from-cli?u=76281980)
+#### [Solution: Engage bot from CLI](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/solution-engage-bot-from-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1921,7 +1881,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (1), ai (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Analogies:** just like (1)
@@ -1933,8 +1892,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Lex and Lambdas
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/lex-and-lambdas?u=76281980)
+#### [Lex and Lambdas](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/lex-and-lambdas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1948,7 +1906,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/lex-and-lambdas?u=76281980&t=13)** I love how powerful Lambdas are.
 >
-> **[0:15](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/lex-and-lambdas?u=76281980&t=15)** You can write code in Python, PHP in a variety of different languages have access to basically all AWS services, databases, push notifications, basically everything in AWS.
+> **[0:15](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/lex-and-lambdas?u=76281980&t=15)** You can write code in [[Python (Programming Language)|Python]], [[PHP]] in a variety of different languages have access to basically all AWS services, [[Databases]], push notifications, basically everything in AWS.
 >
 > **[0:28](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/lex-and-lambdas?u=76281980&t=28)** So Lambdas are your gateway from your bot into just about everything else.
 >
@@ -2002,7 +1960,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), next (2), [[Python (Programming Language)|Python]] (1), [[PHP]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[PHP]] (1), [[Databases]] (1)
 > **CLI Commands:** aws (2), python (1), php (1)
 > **Env Vars:** aws (2), php (1)
 > **UI Navigation:** scroll down (1), click on (1)
@@ -2011,8 +1969,7 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### BookTrip sample bot
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/booktrip-sample-bot?u=76281980)
+#### [BookTrip sample bot](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/booktrip-sample-bot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2044,7 +2001,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/booktrip-sample-bot?u=76281980&t=46)** And it's not subject to COPPA, so I'll say no.
 >
-> **[0:50](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/booktrip-sample-bot?u=76281980&t=50)** And I'll use the rest of the defaults.
+> **[0:50](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/booktrip-sample-bot?u=76281980&t=50)** And I'll use the [[Representational State Transfer (REST)|rest]] of the defaults.
 >
 > **[0:51](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/booktrip-sample-bot?u=76281980&t=51)** So all I did was pick an example of the BookTrip and give it a name.
 >
@@ -2088,13 +2045,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** iam (1), coppa (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating and connecting Lambdas
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/creating-and-connecting-lambdas?u=76281980)
+#### [Creating and connecting Lambdas](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/creating-and-connecting-lambdas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2114,7 +2070,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/creating-and-connecting-lambdas?u=76281980&t=37)** So I could say MyBookTrip or whatever I want to call it.
 >
-> **[0:40](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/creating-and-connecting-lambdas?u=76281980&t=40)** I'm just going to call it BookTrip and use the rest of the defaults that are already set up for me.
+> **[0:40](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/creating-and-connecting-lambdas?u=76281980&t=40)** I'm just going to call it BookTrip and use the [[Representational State Transfer (REST)|rest]] of the defaults that are already set up for me.
 >
 > **[0:45](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/creating-and-connecting-lambdas?u=76281980&t=45)** I can see the code down here and how it validates the different slots for things like the car types and the hotel types, the room types here and the various cities.
 >
@@ -2128,7 +2084,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/creating-and-connecting-lambdas?u=76281980&t=68)** But I did find some code that works for Lex Version 2.
 >
-> **[1:11](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/creating-and-connecting-lambdas?u=76281980&t=71)** So I'm going to go to [github.com/aws-samples](https://github.com/aws-samples) and scroll down a little bit to the Find a Repository.
+> **[1:11](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/creating-and-connecting-lambdas?u=76281980&t=71)** So I'm going to go to [[[GitHub]].com/aws-samples](https://github.com/aws-samples) and scroll down a little bit to the Find a Repository.
 >
 > **[1:19](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/creating-and-connecting-lambdas?u=76281980&t=79)** And I am going to search for "booktrip."
 >
@@ -2160,7 +2116,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), aws (2), [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1)
 > **CLI Commands:** find (2), aws (2)
 > **UI Navigation:** scroll down (2), click on (1), go to (1)
 > **Versions:** version 2 (2), version 1 (1)
@@ -2169,8 +2125,7 @@ created: 2026-05-02
 > **File Paths:** lambda_function.py (1)
 > **Code Identifiers:** lambda_function (1)
 
-#### Testing with Lambdas
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/testing-with-lambdas?u=76281980)
+#### [Testing with Lambdas](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/testing-with-lambdas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2278,8 +2233,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue training your chatbots
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/continue-training-your-chatbots?u=76281980)
+#### [Continue training your chatbots](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/continue-training-your-chatbots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2319,13 +2273,13 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/continue-training-your-chatbots?u=76281980&t=59)** Also, check out courses with Lambdas to see what power that can bring.
 >
-> **[1:04](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/continue-training-your-chatbots?u=76281980&t=64)** And feel free to let me know what you're working on, and keep in touch at [brainwashinc.com](https://brainwashinc.com), @brainofbear, and on LinkedIn.
+> **[1:04](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/continue-training-your-chatbots?u=76281980&t=64)** And feel free to let me know what you're working on, and keep in touch at [brainwashinc.com](https://brainwashinc.com), @brainofbear, and on [[LinkedIn]].
 >
 > **[1:11](https://www.linkedin.com/learning/building-intelligent-chatbots-on-aws-22735480/continue-training-your-chatbots?u=76281980&t=71)** Thanks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (1), next (1), power (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Speakers:** - [lex] (5), - order (1), - pizza (1), - monica (1), - the (1)
 > **CLI Commands:** aws (1)
 > **URLs:** [brainwashinc.com](https://brainwashinc.com) (1)

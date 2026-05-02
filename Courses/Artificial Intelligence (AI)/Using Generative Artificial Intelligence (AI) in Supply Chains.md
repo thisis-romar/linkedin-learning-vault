@@ -74,37 +74,35 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/getting-started-with-generative-ai?u=76281980)
+#### [Getting started with generative AI](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/getting-started-with-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/getting-started-with-generative-ai?u=76281980&t=0)** - Artificial intelligence is revolutionizing the way that work gets done in our supply chains.
+> **[0:00](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/getting-started-with-generative-ai?u=76281980&t=0)** - [[Artificial Intelligence (AI)|Artificial intelligence]] is revolutionizing the way that work gets done in our supply chains.
 >
-> **[0:06](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/getting-started-with-generative-ai?u=76281980&t=6)** A lot of the tasks that people do manually today, could be done better, faster, and cheaper using AI tools like ChatGPT, if those people understood how these tools work.
+> **[0:06](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/getting-started-with-generative-ai?u=76281980&t=6)** A lot of the tasks that people do manually today, could be done better, faster, and cheaper using AI tools like [[ChatGPT]], if those people understood how these tools work.
 >
 > **[0:19](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/getting-started-with-generative-ai?u=76281980&t=19)** I'm Daniel Stanton, Mr. Supply Chain.
 >
 > **[0:22](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/getting-started-with-generative-ai?u=76281980&t=22)** I help a lot of companies manage innovation projects and launch new technologies.
 >
-> **[0:27](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/getting-started-with-generative-ai?u=76281980&t=27)** In this course, I'll walk you step-by-step through examples that show how generative AI can make supply chain professionals like you and I more productive.
+> **[0:27](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/getting-started-with-generative-ai?u=76281980&t=27)** In this course, I'll walk you step-by-step through examples that show how [[Generative AI]] can make supply chain professionals like you and I more productive.
 >
 > **[0:38](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/getting-started-with-generative-ai?u=76281980&t=38)** Join me as we move past the hype and look at some of the practical applications for generative AI in today's supply chains.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - artificial (1)
 
-#### Access ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/access-chatgpt?u=76281980)
+#### [Access ChatGPT](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/access-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/access-chatgpt?u=76281980&t=0)** - [Narrator] Chat GPT is one of several AI products from a company called OpenAI.
+> **[0:00](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/access-chatgpt?u=76281980&t=0)** - [Narrator] Chat GPT is one of several AI [[Microsoft Products|products]] from a company called OpenAI.
 >
-> **[0:05](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/access-chatgpt?u=76281980&t=5)** Technically, ChatGPT is a type of artificial intelligence called a large language model or LLM.
+> **[0:05](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/access-chatgpt?u=76281980&t=5)** Technically, [[ChatGPT]] is a type of [[Artificial Intelligence (AI)|artificial intelligence]] called a large language model or LLM.
 >
 > **[0:12](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/access-chatgpt?u=76281980&t=12)** It works as a chat engine.
 >
@@ -140,7 +138,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (7), ai (2), [[Microsoft Products|Products]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), llm (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Microsoft Products|Products]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** gpt (2), llm (1)
 > **URLs:** [chatgpt.com](https://chatgpt.com) (1)
 > **Definitions:** is a  (1)
@@ -151,12 +149,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage the information value chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/manage-the-information-value-chain?u=76281980)
+#### [Manage the information value chain](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/manage-the-information-value-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/manage-the-information-value-chain?u=76281980&t=0)** - [Speaker] Let's pause for just a minute to talk about why generative AI is such a big deal.
+> **[0:00](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/manage-the-information-value-chain?u=76281980&t=0)** - [Speaker] Let's pause for just a minute to talk about why [[Generative AI]] is such a big deal.
 >
 > **[0:05](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/manage-the-information-value-chain?u=76281980&t=5)** I like to illustrate the relationship between people and computers using a model called the information value chain.
 >
@@ -204,23 +201,22 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/manage-the-information-value-chain?u=76281980&t=143)** As that happens, more and more of the tasks that we do in a supply chain become targets for automation.
 >
-> **[2:30](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/manage-the-information-value-chain?u=76281980&t=150)** It's a great example of digital transformation in the supply chain.
+> **[2:30](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/manage-the-information-value-chain?u=76281980&t=150)** It's a great example of [[Digital Transformation]] in the supply chain.
 >
 > **[2:35](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/manage-the-information-value-chain?u=76281980&t=155)** It's what happens as new technologies allow computers to do tasks better than people, and in order to stay competitive, we need to learn how to adopt those technologies as they emerge, and we need to be strategic about which tasks we choose to automate.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Generative AI]] (2), [[Automation]] (1), [[Digital Transformation]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Digital Transformation]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [speaker] (1)
 
-#### Evaluate a generative AI platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/evaluate-a-generative-ai-platform?u=76281980)
+#### [Evaluate a generative AI platform](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/evaluate-a-generative-ai-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/evaluate-a-generative-ai-platform?u=76281980&t=0)** - [Narrator] Artificial intelligence is a simple name that can be used to describe a lot of different technologies.
+> **[0:00](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/evaluate-a-generative-ai-platform?u=76281980&t=0)** - [Narrator] [[Artificial Intelligence (AI)|Artificial intelligence]] is a simple name that can be used to describe a lot of different technologies.
 >
 > **[0:06](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/evaluate-a-generative-ai-platform?u=76281980&t=6)** In simplest terms, AI is when a computer can perform a cognitive task.
 >
@@ -236,23 +232,23 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/evaluate-a-generative-ai-platform?u=76281980&t=42)** I also use artificial intelligence as a language translator.
 >
-> **[0:46](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/evaluate-a-generative-ai-platform?u=76281980&t=46)** On a recent trip to Columbia, I became friends with my Spanish speaking driver, and we had long conversations by passing a phone back and forth using Google Translate.
+> **[0:46](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/evaluate-a-generative-ai-platform?u=76281980&t=46)** On a recent trip to Columbia, I became friends with my Spanish speaking driver, and we had long conversations by passing a phone back and forth using [[Google]] Translate.
 >
 > **[0:57](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/evaluate-a-generative-ai-platform?u=76281980&t=57)** But the newest versions of AI go even further by generating content.
 >
-> **[1:02](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/evaluate-a-generative-ai-platform?u=76281980&t=62)** They're called generative AI, and that's what we're going to focus on in this course.
+> **[1:02](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/evaluate-a-generative-ai-platform?u=76281980&t=62)** They're called [[Generative AI]], and that's what we're going to focus on in this course.
 >
 > **[1:08](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/evaluate-a-generative-ai-platform?u=76281980&t=68)** Mostly, we're going to look at text-based applications.
 >
-> **[1:12](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/evaluate-a-generative-ai-platform?u=76281980&t=72)** So you could use these tips with applications like ChatGPT, Google Gemini, and Microsoft's Copilot.
+> **[1:12](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/evaluate-a-generative-ai-platform?u=76281980&t=72)** So you could use these tips with applications like [[ChatGPT]], [[Google Gemini]], and [[Microsoft]]'s [[Microsoft Copilot|Copilot]].
 >
 > **[1:19](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/evaluate-a-generative-ai-platform?u=76281980&t=79)** When you work with any of these tools, it can seem more like you're having a conversation with a person than providing instructions to a computer.
 >
 > **[1:28](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/evaluate-a-generative-ai-platform?u=76281980&t=88)** It takes some practice to figure out the best ways to ask questions.
 >
-> **[1:32](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/evaluate-a-generative-ai-platform?u=76281980&t=92)** That's a skill called prompt engineering, and it's obviously become very important in this course.
+> **[1:32](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/evaluate-a-generative-ai-platform?u=76281980&t=92)** That's a skill called [[Prompt Engineering]], and it's obviously become very important in this course.
 >
-> **[1:38](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/evaluate-a-generative-ai-platform?u=76281980&t=98)** We're mostly going to work with ChatGPT, but we'll also look quickly at a tool called DALL-E that can create images based on prompts.
+> **[1:38](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/evaluate-a-generative-ai-platform?u=76281980&t=98)** We're mostly going to work with ChatGPT, but we'll also look quickly at a tool called [[DALL-E]] that can create images based on prompts.
 >
 > **[1:47](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/evaluate-a-generative-ai-platform?u=76281980&t=107)** There are a lot of different AI tools available today, and they all have strengths and weaknesses, and every single day the existing tools are getting better and new tools are coming onto the market.
 >
@@ -260,19 +256,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[ChatGPT]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Google]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Google]] (1), [[Generative AI]] (1), [[Google Gemini]] (1)
 > **Definitions:** is a  (1), in other words (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** dall (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Use generative AI in supply chains
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-generative-ai-in-supply-chains?u=76281980)
+#### [Use generative AI in supply chains](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-generative-ai-in-supply-chains?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-generative-ai-in-supply-chains?u=76281980&t=0)** - [Instructor] Let's take a look at some of the things that a tool like ChatGPT can do, and let's start with an example.
+> **[0:00](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-generative-ai-in-supply-chains?u=76281980&t=0)** - [Instructor] Let's take a look at some of the things that a tool like [[ChatGPT]] can do, and let's start with an example.
 >
 > **[0:07](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-generative-ai-in-supply-chains?u=76281980&t=7)** What are five ways in which chat GPT can be useful for supply chain professionals?
 >
@@ -282,27 +277,26 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-generative-ai-in-supply-chains?u=76281980&t=28)** And while the answers may not be perfect, they're often good enough to get you moving in the right direction.
 >
-> **[0:33](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-generative-ai-in-supply-chains?u=76281980&t=33)** For example, if you were brainstorming or starting to look at an AI strategy for your business, or you needed to write a report for a class project, then the answer we just got from ChatGPT would be a great starting point.
+> **[0:33](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-generative-ai-in-supply-chains?u=76281980&t=33)** For example, if you were brainstorming or starting to look at an [[AI Strategy]] for your business, or you needed to write a report for a class project, then the answer we just got from ChatGPT would be a great starting point.
 >
 > **[0:46](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-generative-ai-in-supply-chains?u=76281980&t=46)** Pause the video and try it yourself right now.
 >
-> **[0:49](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-generative-ai-in-supply-chains?u=76281980&t=49)** Think of some questions related to supply chain management and see what types of answers you get from ChatGPT.
+> **[0:49](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-generative-ai-in-supply-chains?u=76281980&t=49)** Think of some questions related to [[Supply Chain Management]] and see what types of answers you get from ChatGPT.
 >
 > **[0:56](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-generative-ai-in-supply-chains?u=76281980&t=56)** Once you're done, come back so that we can look at some specific examples.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (4), ai (2), business (1), [[Supply Chain Management]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[AI Strategy]] (1), [[Supply Chain Management]] (1)
 > **Env Vars:** gpt (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use ChatGPT as a reference
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-reference?u=76281980)
+#### [Use ChatGPT as a reference](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-reference?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-reference?u=76281980&t=0)** - [Presenter] One of the easiest ways to get started with ChatGPT is to use it as a reference tool.
+> **[0:00](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-reference?u=76281980&t=0)** - [Presenter] One of the easiest ways to get started with [[ChatGPT]] is to use it as a reference tool.
 >
 > **[0:06](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-reference?u=76281980&t=6)** It offers quick access to a wide array of supply chain topics, from fundamentals to advanced strategies.
 >
@@ -318,7 +312,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-reference?u=76281980&t=42)** Those are pretty good answers, right?
 >
-> **[0:44](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-reference?u=76281980&t=44)** If you need to look up a new word or you need a refresher on a concept that you haven't used for a while, ChatGPT can be a really handy reference.
+> **[0:44](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-reference?u=76281980&t=44)** If you need to look up a new [[Microsoft Word|word]] or you need a refresher on a concept that you haven't used for a while, ChatGPT can be a really handy reference.
 >
 > **[0:52](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-reference?u=76281980&t=52)** But I do need to reiterate the answers from ChatGPT almost always sound 100% convincing, but sometimes they're actually wrong.
 >
@@ -330,23 +324,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), management (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Microsoft Word|Word]] (1)
 > **Env Vars:** mape (1), ltl (1), ftl (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [presenter] (1)
 
-#### Use ChatGPT as a chatbot
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-chatbot?u=76281980)
+#### [Use ChatGPT as a chatbot](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-chatbot?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-chatbot?u=76281980&t=0)** - [Instructor] Customer service is an important job for every business, and it's an important part of keeping a supply chain moving smoothly.
 >
-> **[0:06](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-chatbot?u=76281980&t=6)** We need to provide service to our external customers who have questions about our products and services, and we also need to provide customer service to our internal customers.
+> **[0:06](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-chatbot?u=76281980&t=6)** We need to provide service to our external customers who have questions about our [[Microsoft Products|products]] and services, and we also need to provide customer service to our internal customers.
 >
 > **[0:16](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-chatbot?u=76281980&t=16)** Just think about how many internal customers our HR and IT departments have to serve.
 >
-> **[0:21](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-chatbot?u=76281980&t=21)** One of the ways that companies are starting to use AI tools like ChatGPT is to enhance service efficiency and quality.
+> **[0:21](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-chatbot?u=76281980&t=21)** One of the ways that companies are starting to use AI tools like [[ChatGPT]] is to enhance service efficiency and quality.
 >
 > **[0:28](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-chatbot?u=76281980&t=28)** By automating responses to common customer inquiries, you can reduce wait times and improve customer satisfaction.
 >
@@ -360,7 +353,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-chatbot?u=76281980&t=70)** How can I capture the screen on my Mac to the clipboard?
 >
-> **[1:14](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-chatbot?u=76281980&t=74)** How can I download a certificate of completion for a course on LinkedIn learning?
+> **[1:14](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-chatbot?u=76281980&t=74)** How can I download a certificate of completion for a course on [[LinkedIn]] learning?
 >
 > **[1:23](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-chatbot?u=76281980&t=83)** So those are a couple of general examples.
 >
@@ -368,12 +361,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), ai (2), product (2), business (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use ChatGPT as a supply chain translator
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-supply-chain-translator?u=76281980)
+#### [Use ChatGPT as a supply chain translator](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-supply-chain-translator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -383,7 +375,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-supply-chain-translator?u=76281980&t=9)** In the old days, I'd open up my Rolodex (laughs) and reach out to one of my colleagues to help translate.
 >
-> **[0:15](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-supply-chain-translator?u=76281980&t=15)** More recently, I've generally used Google Translate, but nowadays I'm starting to use ChatGPT.
+> **[0:15](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-supply-chain-translator?u=76281980&t=15)** More recently, I've generally used [[Google]] Translate, but nowadays I'm starting to use [[ChatGPT]].
 >
 > **[0:21](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-supply-chain-translator?u=76281980&t=21)** Whether it's translating procurement documents, contracts, or emails, ChatGPT can handle a wide range of languages.
 >
@@ -407,25 +399,24 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-supply-chain-translator?u=76281980&t=82)** So you can see that ChatGPT is a pretty powerful tool for doing language translation.
 >
-> **[1:28](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-supply-chain-translator?u=76281980&t=88)** That means we can now use AI to overcome one of the oldest challenges in supply chain management: breaking down language barriers with our customers, our suppliers, and our colleagues all around the world.
+> **[1:28](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-as-a-supply-chain-translator?u=76281980&t=88)** That means we can now use AI to overcome one of the oldest challenges in [[Supply Chain Management]]: breaking down language barriers with our customers, our suppliers, and our colleagues all around the world.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), ai (2), [[Google]] (1), [[Supply Chain Management]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Google]] (1), [[Supply Chain Management]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use ChatGPT to write code for supply chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-to-write-code-for-supply-chain?u=76281980)
+#### [Use ChatGPT to write code for supply chain](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-to-write-code-for-supply-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-to-write-code-for-supply-chain?u=76281980&t=0)** - [Person] Lots of supply chain jobs involve writing computer code.
 >
-> **[0:03](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-to-write-code-for-supply-chain?u=76281980&t=3)** You might need to write SQL queries to pull data for analytics, or you may need to use HTML and JavaScript to create analytics dashboards.
+> **[0:03](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-to-write-code-for-supply-chain?u=76281980&t=3)** You might need to write [[SQL]] queries to pull data for analytics, or you may need to use [[HTML]] and [[JavaScript]] to create analytics [[Dashboards]].
 >
-> **[0:12](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-to-write-code-for-supply-chain?u=76281980&t=12)** Well, if that's you, then ChatGPT can make your life a whole lot easier.
+> **[0:12](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-to-write-code-for-supply-chain?u=76281980&t=12)** Well, if that's you, then [[ChatGPT]] can make your life a whole lot easier.
 >
 > **[0:18](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-to-write-code-for-supply-chain?u=76281980&t=18)** Let's look at an example.
 >
@@ -465,13 +456,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), data (3), [[HTML]] (3), [[Analytics]] (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[HTML]] (3), [[SQL]] (1), [[JavaScript]] (1), [[Dashboards]] (1)
 > **Env Vars:** html (2), sql (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [person] (1)
 
-#### Use ChatGPT to write supply chain content
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-to-write-supply-chain-content?u=76281980)
+#### [Use ChatGPT to write supply chain content](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-to-write-supply-chain-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -479,7 +469,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-to-write-supply-chain-content?u=76281980&t=5)** Or maybe you've spent way too much time drafting an email that should have been simple.
 >
-> **[0:10](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-to-write-supply-chain-content?u=76281980&t=10)** Well, ChatGPT can help us write memos, emails, and even content for our websites and social media.
+> **[0:10](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-to-write-supply-chain-content?u=76281980&t=10)** Well, [[ChatGPT]] can help us write memos, emails, and even content for our websites and social media.
 >
 > **[0:17](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-to-write-supply-chain-content?u=76281980&t=17)** Write an email reminding my supplier Jean at Acme Corporation that I'm waiting for their invoice so that I can process a payment.
 >
@@ -505,8 +495,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use ChatGPT and DALL·E to generate graphics
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-and-dall-e-to-generate-graphics?u=76281980)
+#### [Use ChatGPT and DALL·E to generate graphics](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-and-dall-e-to-generate-graphics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -514,9 +503,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-and-dall-e-to-generate-graphics?u=76281980&t=6)** Well, AI can help us with that too.
 >
-> **[0:09](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-and-dall-e-to-generate-graphics?u=76281980&t=9)** So far we've only been looking at the chat features of ChatGPT, but there have also been some big developments in the world of AI image generation.
+> **[0:09](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-and-dall-e-to-generate-graphics?u=76281980&t=9)** So far we've only been looking at the chat features of [[ChatGPT]], but there have also been some big developments in the world of AI image generation.
 >
-> **[0:19](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-and-dall-e-to-generate-graphics?u=76281980&t=19)** One of the most popular tools is called DALL-E.
+> **[0:19](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-and-dall-e-to-generate-graphics?u=76281980&t=19)** One of the most popular tools is called [[DALL-E]].
 >
 > **[0:22](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/use-chatgpt-and-dall-e-to-generate-graphics?u=76281980&t=22)** And it was developed by the same company that created ChatGPT, OpenAI.
 >
@@ -568,7 +557,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[DALL-E]] (5), [[ChatGPT]] (4), generic (1)
+> **Frameworks & Libraries:** [[DALL-E]] (5), [[ChatGPT]] (4)
 > **Env Vars:** dall (5)
 > **CLI Commands:** make (2), find (1), cargo (1)
 > **Definitions:** is called (1), is a  (1)
@@ -577,14 +566,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Maximize the supply chain benefits of generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/maximize-the-supply-chain-benefits-of-generative-ai?u=76281980)
+#### [Maximize the supply chain benefits of generative AI](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/maximize-the-supply-chain-benefits-of-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/maximize-the-supply-chain-benefits-of-generative-ai?u=76281980&t=0)** - [Narrator] As supply chain professionals, we think about risk a lot.
 >
-> **[0:03](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/maximize-the-supply-chain-benefits-of-generative-ai?u=76281980&t=3)** And when using an AI tool like ChatGPT, there are some important risks that we need to consider.
+> **[0:03](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/maximize-the-supply-chain-benefits-of-generative-ai?u=76281980&t=3)** And when using an AI tool like [[ChatGPT]], there are some important risks that we need to consider.
 >
 > **[0:10](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/maximize-the-supply-chain-benefits-of-generative-ai?u=76281980&t=10)** The first is accuracy.
 >
@@ -606,7 +594,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/maximize-the-supply-chain-benefits-of-generative-ai?u=76281980&t=55)** Ensuring that the content is original is both very important and really hard to do.
 >
-> **[1:01](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/maximize-the-supply-chain-benefits-of-generative-ai?u=76281980&t=61)** Finally, we need to think about intellectual property and data privacy.
+> **[1:01](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/maximize-the-supply-chain-benefits-of-generative-ai?u=76281980&t=61)** Finally, we need to think about intellectual property and [[Data Privacy]].
 >
 > **[1:06](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/maximize-the-supply-chain-benefits-of-generative-ai?u=76281980&t=66)** Be very careful before inputting sensitive or proprietary information into ChatGPT.
 >
@@ -618,22 +606,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (9), ai (3), data (3), business (1), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (9), [[Data Privacy]] (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Manage the risks of generative AI in the supply chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/manage-the-risks-of-generative-ai-in-the-supply-chain?u=76281980)
+#### [Manage the risks of generative AI in the supply chain](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/manage-the-risks-of-generative-ai-in-the-supply-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/manage-the-risks-of-generative-ai-in-the-supply-chain?u=76281980&t=0)** - [Narrator] Supply chain folks want everything better, faster, and cheaper.
 >
-> **[0:04](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/manage-the-risks-of-generative-ai-in-the-supply-chain?u=76281980&t=4)** AI tools like ChatGPT offer real benefits for us and our teams because they can make us more efficient and more effective.
+> **[0:04](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/manage-the-risks-of-generative-ai-in-the-supply-chain?u=76281980&t=4)** AI tools like [[ChatGPT]] offer real benefits for us and our teams because they can make us more efficient and more effective.
 >
 > **[0:13](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/manage-the-risks-of-generative-ai-in-the-supply-chain?u=76281980&t=13)** First, they provide rapid access to a vast range of information which can help with research and decision making.
 >
-> **[0:20](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/manage-the-risks-of-generative-ai-in-the-supply-chain?u=76281980&t=20)** This is particularly valuable because supply chain management is such a broad field involving procurement, logistics, operations, and more.
+> **[0:20](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/manage-the-risks-of-generative-ai-in-the-supply-chain?u=76281980&t=20)** This is particularly valuable because [[Supply Chain Management]] is such a broad field involving procurement, logistics, operations, and more.
 >
 > **[0:29](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/manage-the-risks-of-generative-ai-in-the-supply-chain?u=76281980&t=29)** Second, AI tools can automate routine tasks such as drafting emails or generating reports, and that allows us to focus on more strategic aspects of our work.
 >
@@ -647,7 +634,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), teams (2), [[ChatGPT]] (1), [[Supply Chain Management]] (1), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Supply Chain Management]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gpt (1)
 > **Speakers:** - [narrator] (1)
@@ -657,8 +644,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Integrate ChatGPT into your supply chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/integrate-chatgpt-into-your-supply-chain?u=76281980)
+#### [Integrate ChatGPT into your supply chain](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/integrate-chatgpt-into-your-supply-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -666,9 +652,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/integrate-chatgpt-into-your-supply-chain?u=76281980&t=3)** With AI, they fly.
 >
-> **[0:05](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/integrate-chatgpt-into-your-supply-chain?u=76281980&t=5)** Generative AI is a disruptive innovation that's shaking up the supply chain landscape, so we all need to understand how it's going to affect us.
+> **[0:05](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/integrate-chatgpt-into-your-supply-chain?u=76281980&t=5)** [[Generative AI]] is a disruptive innovation that's shaking up the supply chain landscape, so we all need to understand how it's going to affect us.
 >
-> **[0:14](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/integrate-chatgpt-into-your-supply-chain?u=76281980&t=14)** Tools like ChatGPT can supercharge your performance, helping you to get more done better and in less time.
+> **[0:14](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/integrate-chatgpt-into-your-supply-chain?u=76281980&t=14)** Tools like [[ChatGPT]] can supercharge your performance, helping you to get more done better and in less time.
 >
 > **[0:21](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/integrate-chatgpt-into-your-supply-chain?u=76281980&t=21)** But here's the deal.
 >
@@ -678,7 +664,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/integrate-chatgpt-into-your-supply-chain?u=76281980&t=34)** But we've also got to be aware of the challenges.
 >
-> **[0:37](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/integrate-chatgpt-into-your-supply-chain?u=76281980&t=37)** Ethics matter, and there are a lot of risks with this technology.
+> **[0:37](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/integrate-chatgpt-into-your-supply-chain?u=76281980&t=37)** [[Ethics]] matter, and there are a lot of risks with this technology.
 >
 > **[0:42](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/integrate-chatgpt-into-your-supply-chain?u=76281980&t=42)** Knowing the ins and outs will help us make the best use of this tech while staying true to our values.
 >
@@ -702,17 +688,17 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/integrate-chatgpt-into-your-supply-chain?u=76281980&t=87)** This technology is here today and the clock is ticking.
 >
-> **[1:31](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/integrate-chatgpt-into-your-supply-chain?u=76281980&t=91)** Be sure to follow me on LinkedIn.
+> **[1:31](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/integrate-chatgpt-into-your-supply-chain?u=76281980&t=91)** Be sure to follow me on [[LinkedIn]].
 >
 > **[1:33](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/integrate-chatgpt-into-your-supply-chain?u=76281980&t=93)** For more insights and updates on AI trends.
 >
 > **[1:36](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/integrate-chatgpt-into-your-supply-chain?u=76281980&t=96)** The professionals and the companies that learn how to use AI well will have a huge advantage.
 >
-> **[1:43](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/integrate-chatgpt-into-your-supply-chain?u=76281980&t=103)** So go ahead, dive in, learn the ropes, and let's ride this wave of digital transformation together.
+> **[1:43](https://www.linkedin.com/learning/using-generative-artificial-intelligence-ai-in-supply-chains-24290453/integrate-chatgpt-into-your-supply-chain?u=76281980&t=103)** So go ahead, dive in, learn the ropes, and let's ride this wave of [[Digital Transformation]] together.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (4), ai (3), [[Generative AI]] (2), data (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Generative AI]] (2), [[Ethics]] (1), [[LinkedIn]] (1), [[Digital Transformation]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)

@@ -94,12 +94,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generative AI with large language models
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/generative-ai-with-large-language-models-30120008?u=76281980)
+#### [Generative AI with large language models](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/generative-ai-with-large-language-models-30120008?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/generative-ai-with-large-language-models-30120008?u=76281980&t=0)** - [Fred] Generative AI is transforming our digital world and redefining what machines can do.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/generative-ai-with-large-language-models-30120008?u=76281980&t=0)** - [Fred] [[Generative AI]] is transforming our digital world and redefining what machines can do.
 >
 > **[0:06](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/generative-ai-with-large-language-models-30120008?u=76281980&t=6)** By learning from massive data sets, these models do more than analyze.
 >
@@ -107,7 +106,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/generative-ai-with-large-language-models-30120008?u=76281980&t=13)** From writing poetry to developing code, their creative reach seems almost limitless.
 >
-> **[0:19](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/generative-ai-with-large-language-models-30120008?u=76281980&t=19)** But what are large language models?
+> **[0:19](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/generative-ai-with-large-language-models-30120008?u=76281980&t=19)** But what are [[Large Language Models (LLM)|large language models]]?
 >
 > **[0:21](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/generative-ai-with-large-language-models-30120008?u=76281980&t=21)** How do they fit into the generative AI landscape?
 >
@@ -117,7 +116,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), data (1), [[Large Language Models (LLM)|Large language models]] (1), ai (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Speakers:** - [fred] (1)
 
 
@@ -125,14 +124,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is generative AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980)
+#### [What is generative AI?](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980&t=0)** - [Instructor] In the dynamic landscape of artificial intelligence, one topic has taken center stage and captured the imagination of both researchers and the public.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980&t=0)** - [Instructor] In the dynamic landscape of [[Artificial Intelligence (AI)|artificial intelligence]], one topic has taken center stage and captured the imagination of both researchers and the public.
 >
-> **[0:12](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980&t=12)** Generative AI is the buzzworthy superstar of the AI world, and for good reason.
+> **[0:12](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980&t=12)** [[Generative AI]] is the buzzworthy superstar of the AI world, and for good reason.
 >
 > **[0:19](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980&t=19)** Generative AI is a game changer, a technological leap that allows machines to not only process and analyze data, but to also create, imagine and dream.
 >
@@ -156,13 +154,13 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980&t=109)** If we compare AI to the vast field of biology, which encompasses the study of living organisms, their behavior, and their interactions with the environment, then we can liken machine learning to a specific branch of biology such as genetics.
 >
-> **[2:08](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980&t=128)** Just as biology covers various subfields like zoology, botany, and microbiology, AI encompasses different subfields, besides machine learning, such as natural language processing, computer vision, and robotics.
+> **[2:08](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980&t=128)** Just as biology covers various subfields like zoology, botany, and microbiology, AI encompasses different subfields, besides machine learning, such as [[Natural Language Processing (NLP)|natural language processing]], [[Computer Vision]], and robotics.
 >
-> **[2:26](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980&t=146)** Machine learning focuses on algorithms and techniques that enable systems to learn from data, recognize patterns and make predictions or decisions based on that information.
+> **[2:26](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980&t=146)** Machine learning focuses on [[Algorithms]] and techniques that enable systems to learn from data, recognize patterns and make predictions or decisions based on that information.
 >
 > **[2:37](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980&t=157)** It deals with statistical models, training processes, and optimization methods that allow AI systems to adapt, improve, and evolve.
 >
-> **[2:49](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980&t=169)** For a detailed explanation of what machine learning is, check out my LinkedIn Learning course titled, [[Machine Learning with Python- Foundations]].
+> **[2:49](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980&t=169)** For a detailed explanation of what machine learning is, check out my [[LinkedIn]] Learning course titled, [[Machine Learning with [[Python (Programming Language)|Python]]- Foundations]].
 >
 > **[2:58](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980&t=178)** There are several ways to categorize AI and machine learning models.
 >
@@ -178,13 +176,13 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980&t=217)** In the context of natural language processing, discriminative models are models that focus on classifying or predicting specific properties of the input text.
 >
-> **[3:48](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980&t=228)** They aim to determine the probability of a particular class or label given the input context.
+> **[3:48](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980&t=228)** They aim to determine the [[Probability]] of a particular class or label given the input context.
 >
 > **[3:55](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980&t=235)** Discriminative models are commonly used for tasks such as sentiment analysis, named entity recognition, part of speech tagging, and text classification.
 >
 > **[4:06](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980&t=246)** In contrast, in the same context of natural language processing, generative models are models that are designed to produce text that closely resembles natural language.
 >
-> **[4:19](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980&t=259)** By utilizing an input context, a generative language model anticipates and predicts the subsequent word or sequence of words that are most likely to follow.
+> **[4:19](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980&t=259)** By utilizing an input context, a generative language model anticipates and predicts the subsequent [[Microsoft Word|word]] or sequence of words that are most likely to follow.
 >
 > **[4:32](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-generative-ai?u=76281980&t=272)** These models have the capacity to generate innovative text, complete sentences, and even craft entirely fresh pieces of writing.
 >
@@ -216,28 +214,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Generative AI]] (7), data (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (5), [[Natural Language Processing (NLP)|Natural language processing]] (4)
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (5), [[Natural Language Processing (NLP)|Natural language processing]] (4), [[Computer Vision]] (1), [[Algorithms]] (1)
 > **Analogies:** such as (4), imagine (3), similar to (1)
 > **Definitions:** is a  (4), known as (1)
 > **CLI Commands:** make (1), python (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is a large language model?
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-large-language-model-30136007?u=76281980)
+#### [What is a large language model?](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-large-language-model-30136007?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-large-language-model-30136007?u=76281980&t=1)** - [Instructor] Large language models, or LLMs, have transformed how we interact with technology.
+> **[0:01](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-large-language-model-30136007?u=76281980&t=1)** - [Instructor] [[Large Language Models (LLM)|Large language models]], or LLMs, have transformed how we interact with technology.
 >
 > **[0:06](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-large-language-model-30136007?u=76281980&t=6)** In just a few years, they've moved from cutting edge research to everyday tools, helping us write, code, learn, and communicate more efficiently.
 >
 > **[0:16](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-large-language-model-30136007?u=76281980&t=16)** Today, nearly every major tech company and many reaches labs maintain one or more LLMs.
 >
-> **[0:22](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-large-language-model-30136007?u=76281980&t=22)** These include OpenAI's GPT models that power ChatGPT, Google's Gemini, formerly known as Bard, Meta's Llama, Anthropic's Claude, Cohere's Command, Mistral, NVIDIA's NeMo, and open models like BLOOM and Falcon.
+> **[0:22](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-large-language-model-30136007?u=76281980&t=22)** These include OpenAI's GPT models that power [[ChatGPT]], [[Google]]'s [[Gemini]], formerly known as Bard, Meta's [[LLaMA]], Anthropic's Claude, Cohere's Command, Mistral, NVIDIA's NeMo, and open models like BLOOM and Falcon.
 >
 > **[0:39](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-large-language-model-30136007?u=76281980&t=39)** So what exactly is a large language model?
 >
-> **[0:43](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-large-language-model-30136007?u=76281980&t=43)** A large language model is a generative AI system designed to understand, predict, and produce human-like text.
+> **[0:43](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-large-language-model-30136007?u=76281980&t=43)** A large language model is a [[Generative AI]] system designed to understand, predict, and produce human-like text.
 >
 > **[0:51](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-large-language-model-30136007?u=76281980&t=51)** It learns language patterns by analyzing vast amounts of text and then uses that knowledge to generate coherent, context-aware responses.
 >
@@ -263,7 +260,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-large-language-model-30136007?u=76281980&t=118)** For instance, if we start a separate prompt by writing, "It's raining cats and dash, dash dash."
 >
-> **[2:04](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-large-language-model-30136007?u=76281980&t=124)** An LLM would correctly complete the sentence with the word, "dogs."
+> **[2:04](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-large-language-model-30136007?u=76281980&t=124)** An LLM would correctly complete the sentence with the [[Microsoft Word|word]], "dogs."
 >
 > **[2:08](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-large-language-model-30136007?u=76281980&t=128)** Large language models can also generate longer, more creative text.
 >
@@ -301,24 +298,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (7), llm (6), [[Large Language Models (LLM)|Large language models]] (5), power (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (5), [[ChatGPT]] (1), [[Google]] (1), [[Gemini]] (1), [[LLaMA]] (1)
 > **Env Vars:** llm (6), gpt (1), nvidia (1), bloom (1)
 > **Analogies:** for example (2), for instance (2), such as (2)
 > **Definitions:** known as (2), is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why are large language models so powerful?
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/why-are-large-language-models-so-powerful?u=76281980)
+#### [Why are large language models so powerful?](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/why-are-large-language-models-so-powerful?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/why-are-large-language-models-so-powerful?u=76281980&t=0)** - [Narrator] In the previous video, we explored some of the many things that large language models can do, such as answer questions, solve problems, provide coding and writing assistance, summarize text and translate languages.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/why-are-large-language-models-so-powerful?u=76281980&t=0)** - [Narrator] In the previous video, we explored some of the many things that [[Large Language Models (LLM)|large language models]] can do, such as answer questions, solve problems, provide coding and writing assistance, summarize text and translate languages.
 >
 > **[0:16](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/why-are-large-language-models-so-powerful?u=76281980&t=16)** So how is it that they're so powerful and versatile?
 >
-> **[0:20](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/why-are-large-language-models-so-powerful?u=76281980&t=20)** One key reason is that most modern large language models are based on a very powerful type of artificial neural network invented by Google, known as a transformer.
+> **[0:20](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/why-are-large-language-models-so-powerful?u=76281980&t=20)** One key reason is that most modern large language models are based on a very powerful type of artificial neural network invented by [[Google]], known as a transformer.
 >
-> **[0:32](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/why-are-large-language-models-so-powerful?u=76281980&t=32)** We'll take a closer look at neural networks and transformers later in this course, but for now, what's important to know is that transformers are models that can learn contextual relationships between words.
+> **[0:32](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/why-are-large-language-models-so-powerful?u=76281980&t=32)** We'll take a closer look at [[Neural Networks]] and transformers later in this course, but for now, what's important to know is that transformers are models that can learn contextual relationships between words.
 >
 > **[0:45](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/why-are-large-language-models-so-powerful?u=76281980&t=45)** Another reason why large language models are so powerful is that they're typically trained on massive amounts of text data collected from diverse sources, such as books, academic articles, websites, code repositories, and more.
 >
@@ -340,9 +336,9 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/why-are-large-language-models-so-powerful?u=76281980&t=131)** It is a large open source data set curated by EleutherAI.
 >
-> **[2:15](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/why-are-large-language-models-so-powerful?u=76281980&t=135)** It combines 22 high quality sources, including academic papers, public domain books, Wikipedia content, GitHub code, and conversational data from platforms such as Stack Exchange.
+> **[2:15](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/why-are-large-language-models-so-powerful?u=76281980&t=135)** It combines 22 high quality sources, including academic papers, public domain books, Wikipedia content, [[GitHub]] code, and conversational data from platforms such as Stack Exchange.
 >
-> **[2:29](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/why-are-large-language-models-so-powerful?u=76281980&t=149)** In addition to these general purpose data sets, more recent models also incorporate specialized corporate, such as scientific literature, patent databases, and multilingual text collections, which enhance the reasoning and domain specific capabilities of large language models.
+> **[2:29](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/why-are-large-language-models-so-powerful?u=76281980&t=149)** In addition to these general purpose data sets, more recent models also incorporate specialized corporate, such as scientific literature, patent [[Databases]], and multilingual text collections, which enhance the reasoning and domain specific capabilities of large language models.
 >
 > **[2:47](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/why-are-large-language-models-so-powerful?u=76281980&t=167)** Because of the scale of data that they're exposed to, LLMs can recognize patterns across science, art, and code.
 >
@@ -354,7 +350,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Large Language Models (LLM)|Large language models]] (5), [[Google]] (2), llm (2), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (5), [[Google]] (2), [[Neural Networks]] (1), [[GitHub]] (1), [[Databases]] (1)
 > **Analogies:** such as (4)
 > **Definitions:** is a  (2), known as (1)
 > **Env Vars:** llm (2)
@@ -362,12 +358,11 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Speakers:** - [narrator] (1)
 
-#### Types of large language models
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/types-of-large-language-models?u=76281980)
+#### [Types of large language models](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/types-of-large-language-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/types-of-large-language-models?u=76281980&t=0)** - [Instructor] One of the things that makes large language models so versatile is that they can initially be trained as a general purpose model and then fine tuned for a specific purpose.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/types-of-large-language-models?u=76281980&t=0)** - [Instructor] One of the things that makes [[Large Language Models (LLM)|large language models]] so versatile is that they can initially be trained as a general purpose model and then fine tuned for a specific purpose.
 >
 > **[0:12](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/types-of-large-language-models?u=76281980&t=12)** This is known as transfer learning.
 >
@@ -387,7 +382,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/types-of-large-language-models?u=76281980&t=92)** The model can then be tailored to solve specific problems in different fields such as retail, finance and entertainment, using a relatively small size of what are known as field data sets.
 >
-> **[1:48](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/types-of-large-language-models?u=76281980&t=108)** In natural language processing, general purpose models that are pre-trained and serve as a starting point for other language tasks are known as foundation models.
+> **[1:48](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/types-of-large-language-models?u=76281980&t=108)** In [[Natural Language Processing (NLP)|natural language processing]], general purpose models that are pre-trained and serve as a starting point for other language tasks are known as foundation models.
 >
 > **[2:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/types-of-large-language-models?u=76281980&t=120)** A popular example of a foundation model is Open AI's GPT, which Chat GPT is built on.
 >
@@ -421,7 +416,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/types-of-large-language-models?u=76281980&t=240)** Instruction tuned models are trained on data sets that include examples where text generation is conditioned on explicit instructions or prompts.
 >
-> **[4:11](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/types-of-large-language-models?u=76281980&t=251)** These instructions can take various forms such as explicit commands, questions, or specific formatting requirements.
+> **[4:11](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/types-of-large-language-models?u=76281980&t=251)** These instructions can take various [[Forms]] such as explicit commands, questions, or specific formatting requirements.
 >
 > **[4:20](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/types-of-large-language-models?u=76281980&t=260)** The goal is to generate text that not only maintains coherence and relevance, but also adheres to the given instructions.
 >
@@ -439,15 +434,15 @@ created: 2026-05-02
 >
 > **[5:34](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/types-of-large-language-models?u=76281980&t=334)** This specialized training enables the models to capture the dynamics of conversational interactions, including the flow of dialogue, turn-taking, and contextual understanding.
 >
-> **[5:48](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/types-of-large-language-models?u=76281980&t=348)** Dialogue-tuned language models have numerous applications in areas such as chatbots, virtual assistance, customer support systems, and social conversational agents.
+> **[5:48](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/types-of-large-language-models?u=76281980&t=348)** Dialogue-tuned language models have numerous applications in areas such as chatbots, virtual assistance, [[Customer Support]] systems, and social conversational agents.
 >
 > **[5:59](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/types-of-large-language-models?u=76281980&t=359)** They aim to provide more natural and interactive conversational experiences by generating contextually appropriate responses to user queries or prompts.
 >
 > **[6:12](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/types-of-large-language-models?u=76281980&t=372)** Domain specific language models are the fourth category of language models.
 >
-> **[6:18](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/types-of-large-language-models?u=76281980&t=378)** These types of models are variants of generic language models that are fine tuned to excel in tasks and data relevant to a specific domain.
+> **[6:18](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/types-of-large-language-models?u=76281980&t=378)** These types of models are variants of generic language models that are fine tuned to [[Microsoft Excel|excel]] in tasks and data relevant to a specific domain.
 >
-> **[6:28](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/types-of-large-language-models?u=76281980&t=388)** Fine tuning a domain specific language model involves obtaining and pre-processing domain-specific data and defining the specific tasks you want the model to perform on the domain-specific data.
+> **[6:28](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/types-of-large-language-models?u=76281980&t=388)** [[Fine Tuning]] a domain specific language model involves obtaining and pre-processing domain-specific data and defining the specific tasks you want the model to perform on the domain-specific data.
 >
 > **[6:42](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/types-of-large-language-models?u=76281980&t=402)** This allows the model to adapt and specialize for specific context, making it more effective and contextually relevant for the target domain.
 >
@@ -457,20 +452,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), generic (6), [[Large Language Models (LLM)|Large language models]] (5), prompt (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (5), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Forms]] (1), [[Customer Support]] (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** known as (4)
 > **Analogies:** such as (3)
 > **Env Vars:** gpt (2)
 > **Speakers:** - [instructor] (1)
 
-#### The evolution of large language models
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980)
+#### [The evolution of large language models](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=0)** - [Presenter] When the ancients carefully recorded their knowledge on scrolls of papyrus and housed them in the legendary library of Alexandria, little could they have imagined that all that knowledge and more would be available at the fingertips of the descendants millennia later.
 >
-> **[0:18](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=18)** That is the power and beauty of large language models.
+> **[0:18](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=18)** That is the power and beauty of [[Large Language Models (LLM)|large language models]].
 >
 > **[0:22](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=22)** They can answer questions, summarize information, translate across languages, reason through problems, and even perceive and respond to sound and imagery.
 >
@@ -492,23 +486,23 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=100)** During the 1980s and 1990s, the field evolved from handcrafted rules to statistical modeling.
 >
-> **[1:47](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=107)** n-gram and hidden Markov models estimated word sequence probabilities marking the beginning of data-driven NLP.
+> **[1:47](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=107)** n-gram and hidden Markov models estimated [[Microsoft Word|word]] sequence probabilities marking the beginning of data-driven NLP.
 >
-> **[1:56](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=116)** By the late 1990s, there was a renewed interest in neural networks, largely due to advancements in the back propagation algorithm and the invention of long short-term memory networks in 1997.
+> **[1:56](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=116)** By the late 1990s, there was a renewed interest in [[Neural Networks]], largely due to advancements in the back propagation algorithm and the invention of long short-term memory networks in 1997.
 >
-> **[2:10](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=130)** These improvements enabled models to capture long range dependencies, bridging traditional statistics and neuro computation.
+> **[2:10](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=130)** These improvements enabled models to capture long range dependencies, bridging traditional [[Statistics]] and neuro computation.
 >
 > **[2:19](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=139)** Another significant milestone arrived with the introduction of Stanford's coreNLP Suite in 2010.
 >
-> **[2:27](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=147)** This suite brought together a collection of tools and algorithms that proved instrumental in addressing practical natural language processing tasks such as sentiment analysis and named entity recognition.
+> **[2:27](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=147)** This suite brought together a collection of tools and [[Algorithms]] that proved instrumental in addressing practical [[Natural Language Processing (NLP)|natural language processing]] tasks such as sentiment analysis and named entity recognition.
 >
-> **[2:42](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=162)** In 2013, Google introduced word2vec, a breakthrough in semantic representation.
+> **[2:42](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=162)** In 2013, [[Google]] introduced word2vec, a breakthrough in semantic representation.
 >
 > **[2:48](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=168)** It embedded words as numerical vectors that captures relationships such as king minus man plus woman is about equal to queen.
 >
 > **[2:59](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=179)** This innovation reshapes the field.
 >
-> **[3:02](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=182)** Contributions by researchers at Google continue to pave the way for some major advancements in natural language processing, including the introduction of transformer models in 2017.
+> **[3:02](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=182)** Contributions by researchers at Google continue to pave the way for some major advancements in natural language processing, including the introduction of [[Transformer Models]] in 2017.
 >
 > **[3:15](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=195)** The transformer architecture changed everything.
 >
@@ -522,15 +516,15 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=225)** GPT-3 in 2020 brought few shot internalization.
 >
-> **[3:49](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=229)** And GPT-4 in 2023 extended context, reasoning, and multimodal capacity.
+> **[3:49](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=229)** And [[GPT-4]] in 2023 extended context, reasoning, and multimodal capacity.
 >
-> **[3:57](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=237)** At the same time, models like RoBERTa, T5, PaLM, PaLM 2, and Llama 2 collectively broadened the ecosystem of transformer-based models.
+> **[3:57](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=237)** At the same time, models like RoBERTa, T5, PaLM, PaLM 2, and [[LLaMA]] 2 collectively broadened the ecosystem of transformer-based models.
 >
 > **[4:08](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=248)** The pace since then has been nothing short of explosive.
 >
-> **[4:12](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=252)** In May, 2024, OpenAI launched GPT-4o, capable of real-time voice and vision input.
+> **[4:12](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=252)** In May, 2024, OpenAI launched GPT-4o, capable of [[Real-Time]] voice and vision input.
 >
-> **[4:21](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=261)** Soon after, GPT-4.1 expanded context windows to a million tokens.
+> **[4:21](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=261)** Soon after, GPT-4.1 expanded context [[Windows]] to a million [[Tokens]].
 >
 > **[4:27](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=267)** And GPT-4.5, also known as Orion, enhanced reasoning and conversation quality.
 >
@@ -544,7 +538,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=312)** Claude Opus 4.1 strengthened coding and planning while Claude Gov introduced secure models for government and defense.
 >
-> **[5:21](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=321)** Google's Gemini 2.5 Pro brought deep think reasoning, multimodal input, and tight integration with search, workspace, and Android.
+> **[5:21](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=321)** Google's [[Gemini]] 2.5 Pro brought deep think reasoning, multimodal input, and tight integration with search, workspace, and [[Android]].
 >
 > **[5:32](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-evolution-of-large-language-models-30126004?u=76281980&t=332)** Meta's Llama 4 series, Scout and Maverick, debuted in April, 2025 with massive 10 million token context windows and multimodal architecture.
 >
@@ -584,7 +578,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Large Language Models (LLM)|Large language models]] (5), [[Google]] (3), [[GPT-4]] (3), power (2)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (5), [[Google]] (3), [[GPT-4]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[LLaMA]] (2)
 > **Env Vars:** gpt (9), nlp (2), bert (2), ibm (1), mit (1)
 > **Versions:** 4.1 (2), 4.5 (2), 2.5 (1), v3.2 (1)
 > **Analogies:** such as (3)
@@ -597,8 +591,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a neural network?
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-neural-network?u=76281980)
+#### [What is a neural network?](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-neural-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -614,7 +607,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-neural-network?u=76281980&t=47)** If the sum surpasses this threshold, the neuron generates an output signal or action potential, which is transmitted along its axon to communicate with other neurons.
 >
-> **[0:59](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-neural-network?u=76281980&t=59)** Artificial neural networks solve learning problems by modeling the relationship between a set of input signals and an output signal, similar to the way biological neurons work.
+> **[0:59](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-neural-network?u=76281980&t=59)** [[Artificial Neural Networks]] solve learning problems by modeling the relationship between a set of input signals and an output signal, similar to the way biological neurons work.
 >
 > **[1:11](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-neural-network?u=76281980&t=71)** As a set of inputs are received by an artificial node, each input is weighted by importance.
 >
@@ -626,7 +619,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-neural-network?u=76281980&t=107)** Our objective is to provide a neural network with the independent variables, amount, grade, and purpose, so it learns to correctly predict the values of the dependent variable, whether a borrower will default on their loan or not.
 >
-> **[2:02](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-neural-network?u=76281980&t=122)** Neural networks learn through numbers, so we must represent our training data in numeric form, similar to what we have done here.
+> **[2:02](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-neural-network?u=76281980&t=122)** [[Neural Networks]] learn through numbers, so we must represent our training data in numeric form, similar to what we have done here.
 >
 > **[2:12](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-is-a-neural-network?u=76281980&t=132)** As each row of the training data is passed to the input nodes of the neural network, it assigns weights to each input.
 >
@@ -688,19 +681,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Artificial Neural Networks]] (2), node (2), [[Neural Networks]] (2), parallel (1)
+> **Frameworks & Libraries:** [[Artificial Neural Networks]] (2), [[Neural Networks]] (2)
 > **Definitions:** is a  (3), known as (2)
 > **CLI Commands:** node (2), make (1)
 > **Versions:** 0.4 (3)
 > **Analogies:** similar to (2)
 > **Speakers:** - [narrator] (1)
 
-#### How do neural networks learn?
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/how-do-neural-networks-learn?u=76281980)
+#### [How do neural networks learn?](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/how-do-neural-networks-learn?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/how-do-neural-networks-learn?u=76281980&t=0)** - [Instructor] artificial neural networks solve learning problems by modeling the relationship between a set of input signals and an output signal similar to the way biological neurons work.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/how-do-neural-networks-learn?u=76281980&t=0)** - [Instructor] [[Artificial Neural Networks]] solve learning problems by modeling the relationship between a set of input signals and an output signal similar to the way biological neurons work.
 >
 > **[0:12](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/how-do-neural-networks-learn?u=76281980&t=12)** Just like any other supervised machine learning model, in order to train a neural network, we provide it with a training data set that includes a set of independent variables and a independent variable as shown here.
 >
@@ -710,7 +702,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/how-do-neural-networks-learn?u=76281980&t=52)** Let's walk through a simple example to illustrate how backpropagation works.
 >
-> **[0:57](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/how-do-neural-networks-learn?u=76281980&t=57)** In the previous video, we learned that neural networks learn through numbers.
+> **[0:57](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/how-do-neural-networks-learn?u=76281980&t=57)** In the previous video, we learned that [[Neural Networks]] learn through numbers.
 >
 > **[1:02](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/how-do-neural-networks-learn?u=76281980&t=62)** This means that the data we pass to them must be represented in numeric form.
 >
@@ -754,7 +746,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Artificial Neural Networks]] (1), [[Neural Networks]] (1), next (1)
+> **Frameworks & Libraries:** [[Artificial Neural Networks]] (1), [[Neural Networks]] (1)
 > **Definitions:** known as (2), is a  (2), means that (1)
 > **Analogies:** similar to (1), just like (1), such as (1)
 > **Versions:** 0.622 (2)
@@ -762,12 +754,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deep learning and its significance
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/deep-learning-and-its-significance?u=76281980)
+#### [Deep learning and its significance](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/deep-learning-and-its-significance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/deep-learning-and-its-significance?u=76281980&t=0)** - [Narrator] In the ever evolving landscape of artificial intelligence and machine learning, deep learning stands out as a revolutionary paradigm that has reshaped our understanding of what computers can achieve.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/deep-learning-and-its-significance?u=76281980&t=0)** - [Narrator] In the ever evolving landscape of [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning, [[Deep Learning]] stands out as a revolutionary paradigm that has reshaped our understanding of what computers can achieve.
 >
 > **[0:13](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/deep-learning-and-its-significance?u=76281980&t=13)** At a fundamental level, this groundbreaking approach has propelled AI to new heights, enabling machines to perform complex tasks with human-like proficiency.
 >
@@ -775,7 +766,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/deep-learning-and-its-significance?u=76281980&t=28)** Deep learning is a subset of machine learning, which in turn falls under the broader umbrella of artificial intelligence.
 >
-> **[0:37](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/deep-learning-and-its-significance?u=76281980&t=37)** Deep learning models are essentially complex neural networks.
+> **[0:37](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/deep-learning-and-its-significance?u=76281980&t=37)** Deep learning models are essentially complex [[Neural Networks]].
 >
 > **[0:41](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/deep-learning-and-its-significance?u=76281980&t=41)** The term deep in deep learning refers to the multiple layers of interconnected nodes that make up these types of models.
 >
@@ -817,17 +808,17 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/deep-learning-and-its-significance?u=76281980&t=173)** The convolutional layer consists of a set of filters that allow the network to detect specific patterns in the data.
 >
-> **[3:01](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/deep-learning-and-its-significance?u=76281980&t=181)** The pooling layer reduces the complexity of the data by retaining the most important patterns and discarding the rest.
+> **[3:01](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/deep-learning-and-its-significance?u=76281980&t=181)** The pooling layer reduces the complexity of the data by retaining the most important patterns and discarding the [[Representational State Transfer (REST)|rest]].
 >
-> **[3:11](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/deep-learning-and-its-significance?u=76281980&t=191)** Convolutional neural networks are specialized for processing grid-like data, such as images and videos.
+> **[3:11](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/deep-learning-and-its-significance?u=76281980&t=191)** [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] are specialized for processing grid-like data, such as images and videos.
 >
-> **[3:18](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/deep-learning-and-its-significance?u=76281980&t=198)** They have revolutionized image recognition and computer vision.
+> **[3:18](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/deep-learning-and-its-significance?u=76281980&t=198)** They have revolutionized image recognition and [[Computer Vision]].
 >
 > **[3:24](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/deep-learning-and-its-significance?u=76281980&t=204)** The recurrent neural network, or RNN, is another common deep learning architecture.
 >
 > **[3:30](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/deep-learning-and-its-significance?u=76281980&t=210)** These types of networks utilize recurrent connections, which are connections that loop back on themselves in order to maintain memory of past inputs.
 >
-> **[3:40](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/deep-learning-and-its-significance?u=76281980&t=220)** This recurrent nature makes RNNs well-suited for sequential data where the order of input matters, and for tasks such as time series analysis, natural language processing, speech recognition, and video analysis.
+> **[3:40](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/deep-learning-and-its-significance?u=76281980&t=220)** This recurrent nature makes RNNs well-suited for sequential data where the order of input matters, and for tasks such as [[Time Series Analysis]], [[Natural Language Processing (NLP)|natural language processing]], [[Speech Recognition]], and video analysis.
 >
 > **[3:56](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/deep-learning-and-its-significance?u=76281980&t=236)** As useful as they are, recurrent neural networks suffer from what is known as the vanishing gradient problem.
 >
@@ -847,7 +838,7 @@ created: 2026-05-02
 >
 > **[5:07](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/deep-learning-and-its-significance?u=76281980&t=307)** They use a novel mechanism known as attention to add context to input data.
 >
-> **[5:14](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/deep-learning-and-its-significance?u=76281980&t=314)** Transformers form the foundation of most large language models in use today.
+> **[5:14](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/deep-learning-and-its-significance?u=76281980&t=314)** Transformers form the foundation of most [[Large Language Models (LLM)|large language models]] in use today.
 >
 > **[5:20](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/deep-learning-and-its-significance?u=76281980&t=320)** We will explore the transformer architecture in much more detail, starting with the next video in the core sequence.
 >
@@ -879,7 +870,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (14), data (8), [[Neural Networks]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), node (2)
+> **Frameworks & Libraries:** [[Deep Learning]] (14), [[Neural Networks]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** known as (11), is a  (4), means that (2), refers to (1)
 > **Env Vars:** rnn (3), lstm (1), gru (1), gan (1)
 > **Analogies:** such as (4)
@@ -892,14 +883,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The transformer architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-transformer-architecture?u=76281980)
+#### [The transformer architecture](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-transformer-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-transformer-architecture?u=76281980&t=0)** - [Instructor] You know that expression, when you have a hammer, everything looks like a nail?
 >
-> **[0:06](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-transformer-architecture?u=76281980&t=6)** Well, in the world of natural language processing, it seems like we really have discovered a magical hammer for which everything is, in fact, a nail.
+> **[0:06](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-transformer-architecture?u=76281980&t=6)** Well, in the world of [[Natural Language Processing (NLP)|natural language processing]], it seems like we really have discovered a magical hammer for which everything is, in fact, a nail.
 >
 > **[0:16](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-transformer-architecture?u=76281980&t=16)** This hammer is called a transformer.
 >
@@ -929,9 +919,9 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-transformer-architecture?u=76281980&t=111)** This entire input is passed all at once to the encoding component.
 >
-> **[1:56](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-transformer-architecture?u=76281980&t=116)** Note that a transformer is a neural network, and neural networks learn through numbers.
+> **[1:56](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-transformer-architecture?u=76281980&t=116)** Note that a transformer is a neural network, and [[Neural Networks]] learn through numbers.
 >
-> **[2:02](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-transformer-architecture?u=76281980&t=122)** So when we pass a sequence of words or tokens through the transformer, each word or token has to be represented as a numerical vector known as an embedding.
+> **[2:02](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-transformer-architecture?u=76281980&t=122)** So when we pass a sequence of words or [[Tokens]] through the transformer, each [[Microsoft Word|word]] or token has to be represented as a numerical vector known as an embedding.
 >
 > **[2:12](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-transformer-architecture?u=76281980&t=132)** For example, before the word hi can be passed to a transformer, it would have to be represented as an embedding that looks like this, and so with how, are and you.
 >
@@ -963,7 +953,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-transformer-architecture?u=76281980&t=261)** The job of the softmax layer is to convert the logits scores into probabilities.
 >
-> **[4:27](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-transformer-architecture?u=76281980&t=267)** The word with the highest probability in the model's vocabulary is chosen and is predicted as the output during this time step.
+> **[4:27](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-transformer-architecture?u=76281980&t=267)** The word with the highest [[Probability]] in the model's vocabulary is chosen and is predicted as the output during this time step.
 >
 > **[4:36](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-transformer-architecture?u=76281980&t=276)** In our example, we can imagine that the Spanish word hola will be predicted in the first time step.
 >
@@ -983,21 +973,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), next (5), [[Natural Language Processing (NLP)|Natural language processing]] (2), feature (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Neural Networks]] (1), [[Tokens]] (1), [[Probability]] (1)
 > **Definitions:** is a  (3), known as (2), is called (1)
 > **Cross-References:** in the next (4), later in (1)
 > **Analogies:** for example (2), imagine (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is an encoder-decoder?
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-are-encoders-and-decoders?u=76281980)
+#### [What is an encoder-decoder?](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-are-encoders-and-decoders?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-are-encoders-and-decoders?u=76281980&t=0)** - [Instructor] Transformers, based on the 2017 paper, "Attention is All you Need," revolutionized the representation of words in natural language processing.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-are-encoders-and-decoders?u=76281980&t=0)** - [Instructor] Transformers, based on the 2017 paper, "Attention is All you Need," revolutionized the representation of words in [[Natural Language Processing (NLP)|natural language processing]].
 >
-> **[0:10](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-are-encoders-and-decoders?u=76281980&t=10)** Their ability to capture long-range dependencies, understand context, and learn hierarchical relationships within language data make them incredibly useful for large language models.
+> **[0:10](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-are-encoders-and-decoders?u=76281980&t=10)** Their ability to capture long-range dependencies, understand context, and learn hierarchical relationships within language data make them incredibly useful for [[Large Language Models (LLM)|large language models]].
 >
 > **[0:23](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-are-encoders-and-decoders?u=76281980&t=23)** In the previous video, I mentioned that at the high level, the transformer architecture consists of an encoding component and a decoding component.
 >
@@ -1013,7 +1002,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-are-encoders-and-decoders?u=76281980&t=87)** So what are encoders and decoders?
 >
-> **[1:30](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-are-encoders-and-decoders?u=76281980&t=90)** In the language model, an encoder is a neural network that takes in a sequence of tokens, such as words or sub words, and encodes them into a fixed size vector representation that captures the contextual information of the input.
+> **[1:30](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-are-encoders-and-decoders?u=76281980&t=90)** In the language model, an encoder is a neural network that takes in a sequence of [[Tokens]], such as words or sub words, and encodes them into a fixed size vector representation that captures the contextual information of the input.
 >
 > **[1:45](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-are-encoders-and-decoders?u=76281980&t=105)** A decoder is also a neural network that takes the encoder representation generated by the encoder and uses it to generate output text.
 >
@@ -1021,7 +1010,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-are-encoders-and-decoders?u=76281980&t=124)** To understand how encoders and decoders are used in language models, let's walk through a toy example.
 >
-> **[2:11](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-are-encoders-and-decoders?u=76281980&t=131)** Let's assume that we intend to build a model that predicts the most likely next word, given a sequence of input words.
+> **[2:11](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-are-encoders-and-decoders?u=76281980&t=131)** Let's assume that we intend to build a model that predicts the most likely next [[Microsoft Word|word]], given a sequence of input words.
 >
 > **[2:19](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/what-are-encoders-and-decoders?u=76281980&t=139)** If our model only accepts three input words and is limited to eight words in its vocabulary, then the model could look something like this.
 >
@@ -1099,7 +1088,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), next (5), [[Natural Language Processing (NLP)|Natural language processing]] (2), data (2), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Tokens]] (1)
 > **Definitions:** is a  (3), known as (2), means that (1), is an  (1)
 > **Analogies:** such as (4), for example (1)
 > **CLI Commands:** make (3)
@@ -1108,8 +1097,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### The attention mechanism
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-attention-mechanism?u=76281980)
+#### [The attention mechanism](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-attention-mechanism?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1121,7 +1109,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-attention-mechanism?u=76281980&t=32)** As input is fed to an encoder, it first passes through the self-attention layer, then to the feed-forward layer, which further processes the data.
 >
-> **[0:44](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-attention-mechanism?u=76281980&t=44)** The feed-forward layer is a feed-forward neural network, which we previously learned about in the deep learning course video.
+> **[0:44](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-attention-mechanism?u=76281980&t=44)** The feed-forward layer is a feed-forward neural network, which we previously learned about in the [[Deep Learning]] course video.
 >
 > **[0:52](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-attention-mechanism?u=76281980&t=52)** The self-attention layer captures the importance of different words in relation to each other using a mechanism known as self-attention.
 >
@@ -1167,27 +1155,26 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-attention-mechanism?u=76281980&t=243)** It learns to assign weights to different parts of an input sequence to inform how they are to be processed.
 >
-> **[4:10](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-attention-mechanism?u=76281980&t=250)** So in this example, encoder-decoder attention will assign more importance to the word cat than to the word fat within the input sequence.
+> **[4:10](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-attention-mechanism?u=76281980&t=250)** So in this example, encoder-decoder attention will assign more importance to the [[Microsoft Word|word]] cat than to the word fat within the input sequence.
 >
 > **[4:21](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-attention-mechanism?u=76281980&t=261)** This tells the decoder to translate the word cat before it translates the word fat when going from English to Spanish.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), prompt (2), data (1), [[Deep Learning]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Deep Learning]] (1)
 > **CLI Commands:** cat (8)
 > **Definitions:** refers to (4), known as (3), is a  (1)
 > **Analogies:** similar to (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### How does self-attention work?
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/how-does-self-attention-work?u=76281980)
+#### [How does self-attention work?](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/how-does-self-attention-work?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/how-does-self-attention-work?u=76281980&t=0)** - [Instructor] Self-attention is a key feature of the transformer that enables words to interact with each other within the input sequence.
 >
-> **[0:09](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/how-does-self-attention-work?u=76281980&t=9)** It is one of the most important contributions transformers make to the field of natural language processing.
+> **[0:09](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/how-does-self-attention-work?u=76281980&t=9)** It is one of the most important contributions transformers make to the field of [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[0:17](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/how-does-self-attention-work?u=76281980&t=17)** To illustrate how self-attention works, let's revisit an example from the previous video.
 >
@@ -1199,7 +1186,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/how-does-self-attention-work?u=76281980&t=46)** By using self-attention to figure out which other words in the prompt to attend to, the model can resolve this ambiguity.
 >
-> **[0:55](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/how-does-self-attention-work?u=76281980&t=55)** To simplify our explanation, let's limit the input sequence to the following three words: it, cat, mat and mat, represented by the word embeddings shown here.
+> **[0:55](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/how-does-self-attention-work?u=76281980&t=55)** To simplify our explanation, let's limit the input sequence to the following three words: it, cat, mat and mat, represented by the [[Microsoft Word|word]] embeddings shown here.
 >
 > **[1:08](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/how-does-self-attention-work?u=76281980&t=68)** There are five main steps to the self-attention process.
 >
@@ -1299,7 +1286,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), product (4), feature (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **CLI Commands:** cat (5), make (2), find (2)
 > **Definitions:** is a  (3), refers to (1), is an  (1), known as (1)
 > **Versions:** 2.1 (1), 0.4 (1), 1.8 (1), 3.5 (1)
@@ -1313,24 +1300,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Common applications of large language models
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980)
+#### [Common applications of large language models](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=0)** - [Narrator] Large language models are reshaping the way we live, work, and communicate.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=0)** - [Narrator] [[Large Language Models (LLM)|Large language models]] are reshaping the way we live, work, and communicate.
 >
 > **[0:06](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=6)** They're gradually becoming ubiquitous in a wide range of fields, transforming the way we interact with technology and enabling new possibilities.
 >
-> **[0:16](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=16)** One of the domains in which large language models have found remarkable application is in content creation and text summarization.
+> **[0:16](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=16)** One of the domains in which large language models have found remarkable application is in [[Content Creation]] and text summarization.
 >
-> **[0:25](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=25)** Large language models can serve as versatile writing assistants that can compose various types of content from articles and blogs to social media posts and product descriptions.
+> **[0:25](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=25)** Large language models can serve as versatile writing assistants that can [[Jetpack Compose|compose]] various types of content from articles and blogs to social media posts and product descriptions.
 >
 > **[0:37](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=37)** By learning from vast amounts of text data, LLMs capture different writing styles and structures, generating coherent and relevant content.
 >
 > **[0:48](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=48)** This is revolutionizing content automation.
 >
-> **[0:51](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=51)** For example, e-commerce platforms can now use LLMs to automatically generate product descriptions at scale.
+> **[0:51](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=51)** For example, [[E-Commerce]] platforms can now use LLMs to automatically generate product descriptions at scale.
 >
 > **[1:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=60)** However, it's important to note that human review and editing are still essential in order to maintain quality and to ensure that content aligns with brand guidelines and that it resonates with readers.
 >
@@ -1348,21 +1334,21 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=119)** Their ability to grasp nuances and tailor responses to context makes interactions seamless and user-friendly.
 >
-> **[2:07](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=127)** These types of models are at the heart of chatbots, virtual assistants, customer support systems, and information retrieval systems.
+> **[2:07](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=127)** These types of models are at the heart of chatbots, virtual assistants, [[Customer Support]] systems, and [[Information Retrieval]] systems.
 >
 > **[2:17](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=137)** Users can tap into this prowess by conversing naturally as they receive quick insights on various subjects.
 >
 > **[2:26](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=146)** Search engines are getting a makeover thanks to large language models.
 >
-> **[2:32](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=152)** Major search engines like Google and Bing are already leveraging the power of LLMs in their platforms.
+> **[2:32](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=152)** Major search engines like [[Google]] and Bing are already leveraging the power of LLMs in their platforms.
 >
 > **[2:39](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=159)** These advancements promise enhanced accuracy, relevance, and user satisfaction in search results.
 >
 > **[2:47](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=167)** Despite the gains, hurdles persist.
 >
-> **[2:50](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=170)** Balancing privacy concerns and algorithm refinement to ensure relevant, yet, diverse results demands cautious navigation.
+> **[2:50](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=170)** Balancing [[Privacy]] concerns and algorithm refinement to ensure relevant, yet, diverse results demands cautious navigation.
 >
-> **[3:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=180)** Large language models possess the capacity to not only create natural language, but also generates code in languages like JavaScript, Python, PHP, Java, R, and C#.
+> **[3:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=180)** Large language models possess the capacity to not only create natural language, but also generates code in languages like [[JavaScript]], [[Python (Programming Language)|Python]], [[PHP]], [[Java]], R, and C#.
 >
 > **[3:13](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=193)** This makes it easier to craft basic code for simple projects.
 >
@@ -1372,17 +1358,17 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=222)** LLMs are also useful for debugging existing code and producing accompanying documentation, thereby reducing manual labor.
 >
-> **[3:52](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=232)** Beyond aiding professionals, code generation models also promote learning for junior developers by offering examples and suggestions, and fostering an understanding of programming concepts and best practices.
+> **[3:52](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=232)** Beyond aiding professionals, code generation models also promote learning for junior developers by offering examples and suggestions, and fostering an understanding of [[Programming Concepts]] and best practices.
 >
 > **[4:09](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=249)** Sentiment analysis is a crucial large language model application area that involves the understanding and analysis of emotions, opinions, and intentions in texts.
 >
-> **[4:21](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=261)** LLMs used in this way are useful in various domains, including customer feedback analysis, social media monitoring, market research, and content moderation.
+> **[4:21](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=261)** LLMs used in this way are useful in various domains, including customer feedback analysis, social media monitoring, [[Market Research]], and content moderation.
 >
 > **[4:34](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=274)** Sentiment analysis can spotlight customer-used keywords to describe brands or parts, revealing crucial features that inform future marketing strategies.
 >
 > **[4:48](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=288)** Large language models are also making waves in the field of audio and video transcription.
 >
-> **[4:54](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=294)** Innovative transcription service providers like Sonix leverage generative AI to swiftly transform audio and video files into accurately written transcripts, saving significant time, effort, and cost.
+> **[4:54](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=294)** Innovative transcription service providers like Sonix leverage [[Generative AI]] to swiftly transform audio and video files into accurately written transcripts, saving significant time, effort, and cost.
 >
 > **[5:10](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=310)** Because of their ability to handle unstructured and textual data, large language models are invaluable for fraud detection.
 >
@@ -1390,19 +1376,19 @@ created: 2026-05-02
 >
 > **[5:33](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=333)** This helps uncover nefarious activity that might be disguised in text-based communication.
 >
-> **[5:41](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=341)** Large language models can also serve a valuable role in cybersecurity.
+> **[5:41](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=341)** Large language models can also serve a valuable role in [[Cybersecurity]].
 >
 > **[5:46](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=346)** With a capacity to analyze extensive data within an enterprise network, LLMs can recognize patterns that signal a malicious attack and issue an alert.
 >
 > **[5:57](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=357)** Numerous cybersecurity companies are actively harnessing this potential.
 >
-> **[6:02](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=362)** Companies like SentinelOne and Microsoft are using LLM-powered systems for automated threat detection and response.
+> **[6:02](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=362)** Companies like SentinelOne and [[Microsoft]] are using LLM-powered systems for automated threat detection and response.
 >
 > **[6:12](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=372)** Education at all levels is undergoing a transformation due to the capabilities of large language models.
 >
 > **[6:19](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=379)** LLMs can analyze learner profiles, identify strengths and weaknesses, and craft bespoke learning materials and exercises.
 >
-> **[6:28](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=388)** They can provide real-time feedback, instantly evaluate responses, clarify concepts, and guide learners in their journey of knowledge discovery.
+> **[6:28](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=388)** They can provide [[Real-Time]] feedback, instantly evaluate responses, clarify concepts, and guide learners in their journey of knowledge discovery.
 >
 > **[6:39](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/common-applications-of-large-language-models?u=76281980&t=399)** Large language models have immense potential to also revolutionize healthcare.
 >
@@ -1418,7 +1404,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (14), data (4), [[Search]] (3), application (2), product (2)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (14), [[Cybersecurity]] (2), [[Content Creation]] (1), [[Jetpack Compose|Compose]] (1), [[E-Commerce]] (1)
 > **Env Vars:** llm (2), php (1)
 > **CLI Commands:** python (1), php (1)
 > **Definitions:** is a  (2)
@@ -1426,12 +1412,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenges with large language models
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/challenges-with-large-language-models?u=76281980)
+#### [Challenges with large language models](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/challenges-with-large-language-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/challenges-with-large-language-models?u=76281980&t=0)** - [Instructor] The arrival of ChatGPT in November 2022 marked a new era in conversational AI.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/challenges-with-large-language-models?u=76281980&t=0)** - [Instructor] The arrival of [[ChatGPT]] in November 2022 marked a new era in [[Conversational AI]].
 >
 > **[0:08](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/challenges-with-large-language-models?u=76281980&t=8)** ChatGPT was trained using a variant of the Transformer model on a diverse range of texts from the internet.
 >
@@ -1443,7 +1428,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/challenges-with-large-language-models?u=76281980&t=44)** This led to a blend of excitement and apprehension due to the potential implications of such a powerful AI tool.
 >
-> **[0:52](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/challenges-with-large-language-models?u=76281980&t=52)** As large language models grow in size, capability, and popularity, we have to be clear-eyed about their ethical implications and potential for misuse.
+> **[0:52](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/challenges-with-large-language-models?u=76281980&t=52)** As [[Large Language Models (LLM)|large language models]] grow in size, capability, and popularity, we have to be clear-eyed about their ethical implications and potential for misuse.
 >
 > **[1:03](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/challenges-with-large-language-models?u=76281980&t=63)** One area of concern is regard to bias and prejudice.
 >
@@ -1473,13 +1458,13 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/challenges-with-large-language-models?u=76281980&t=210)** To mitigate the risk of using LLMs for misinformation, it is essential that we implement mechanisms to verify and fact-check the information generated by these models, educate users about the limitations of large language models, label or mark content generated by LLMs to indicate that it's AI or machine generated, which fosters transparency.
 >
-> **[3:57](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/challenges-with-large-language-models?u=76281980&t=237)** Promoting media literacy and critical thinking skills among users is also important to combat misinformation effectively.
+> **[3:57](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/challenges-with-large-language-models?u=76281980&t=237)** Promoting media literacy and critical [[Thinking Skills]] among users is also important to combat misinformation effectively.
 >
 > **[4:06](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/challenges-with-large-language-models?u=76281980&t=246)** Another concern with large language models is interpretability and transparency.
 >
 > **[4:12](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/challenges-with-large-language-models?u=76281980&t=252)** As large language models become larger and more complex, it becomes more and more difficult to understand how they make their decisions.
 >
-> **[4:22](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/challenges-with-large-language-models?u=76281980&t=262)** Enhancing the transparency and explainability of these models is essential to build trust and accountability.
+> **[4:22](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/challenges-with-large-language-models?u=76281980&t=262)** Enhancing the transparency and explainability of these models is essential to build trust and [[Accountability]].
 >
 > **[4:30](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/challenges-with-large-language-models?u=76281980&t=270)** To help with this, developers can provide comprehensive documentation detailing the architecture, training data, and limitations of their models.
 >
@@ -1493,13 +1478,13 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/challenges-with-large-language-models?u=76281980&t=318)** In fact, researchers from the University of Copenhagen estimated that the carbon footprint generated in training OpenAI's GPT-3 was roughly the same as that of driving a car to the moon and back.
 >
-> **[5:33](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/challenges-with-large-language-models?u=76281980&t=333)** To mitigate the environmental impact of training large language models, we can encourage or incentivize the use of energy-efficient hardware, choose data centers powered by renewable energy sources, optimize model architectures, data efficiency, parallelism, and early stopping, employ transfer learning by reusing pre-trained models, advocate for and support policies and regulations that encourage sustainable AI development practice, raise awareness within the AI research and development community about the environmental impact of large language model training, and promote best practices for sustainability.
+> **[5:33](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/challenges-with-large-language-models?u=76281980&t=333)** To mitigate the environmental impact of training large language models, we can encourage or incentivize the use of energy-efficient [[Hardware]], choose data centers powered by renewable energy sources, optimize model architectures, data efficiency, parallelism, and early stopping, employ transfer learning by reusing pre-trained models, advocate for and support policies and regulations that encourage sustainable AI development practice, raise awareness within the AI research and development community about the environmental impact of large language model training, and promote best practices for [[Sustainability]].
 >
 > **[6:17](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/challenges-with-large-language-models?u=76281980&t=377)** Large language models require tremendous amounts of data to train.
 >
 > **[6:21](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/challenges-with-large-language-models?u=76281980&t=381)** At scale, understanding provenance, authorship, and copyright status is a gargantuan if not impossible task.
 >
-> **[6:31](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/challenges-with-large-language-models?u=76281980&t=391)** This raises important privacy and copyright violation concerns, and unvetted training sets can result in a model that is leaking private data, misattributing citations, or plagiarizing copyrighted content.
+> **[6:31](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/challenges-with-large-language-models?u=76281980&t=391)** This raises important [[Privacy]] and copyright violation concerns, and unvetted training sets can result in a model that is leaking private data, misattributing citations, or plagiarizing copyrighted content.
 >
 > **[6:46](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/challenges-with-large-language-models?u=76281980&t=406)** As we write prompts, it's important to note that we become increasingly susceptible to data leakage.
 >
@@ -1523,21 +1508,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Large Language Models (LLM)|Large language models]] (13), ai (11), [[ChatGPT]] (3), [[Privacy]] (3)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (13), [[ChatGPT]] (3), [[Privacy]] (3), [[Conversational AI]] (1), [[Thinking Skills]] (1)
 > **Definitions:** is a  (2), is an  (1), known as (1)
 > **Env Vars:** llm (2), gpt (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### The future of large language models
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-future-of-large-language-models?u=76281980)
+#### [The future of large language models](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-future-of-large-language-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-future-of-large-language-models?u=76281980&t=0)** - [Narrator] Large language models have revolutionized the field of artificial intelligence and transformed the way we interact with technology.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-future-of-large-language-models?u=76281980&t=0)** - [Narrator] [[Large Language Models (LLM)|Large language models]] have revolutionized the field of [[Artificial Intelligence (AI)|artificial intelligence]] and transformed the way we interact with technology.
 >
-> **[0:09](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-future-of-large-language-models?u=76281980&t=9)** With their ability to understand, generate, and manipulate human language, LLMs have opened up a world of possibilities across various domains from natural language understanding and translation, to content creation and more.
+> **[0:09](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-future-of-large-language-models?u=76281980&t=9)** With their ability to understand, generate, and manipulate human language, LLMs have opened up a world of possibilities across various domains from natural language understanding and translation, to [[Content Creation]] and more.
 >
 > **[0:25](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/the-future-of-large-language-models?u=76281980&t=25)** As we look ahead, the future of LLMs promises even more advancements, but also presents challenges that need careful consideration.
 >
@@ -1593,7 +1577,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Large Language Models (LLM)|Large language models]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Content Creation]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Content Creation]] (1)
 > **Env Vars:** llms (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1603,18 +1587,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/next-steps?u=76281980&t=0)** - [Frederick] Thank you for being my travel partner as we explored the basics of generative AI with large language models.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/next-steps?u=76281980&t=0)** - [Frederick] Thank you for being my travel partner as we explored the basics of [[Generative AI]] with [[Large Language Models (LLM)|large language models]].
 >
 > **[0:10](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/next-steps?u=76281980&t=10)** You now know what generative AI is and how it differs from discriminative AI.
 >
 > **[0:16](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/next-steps?u=76281980&t=16)** You've learned what large language models are and how they came about.
 >
-> **[0:21](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/next-steps?u=76281980&t=21)** You've gained a foundational understanding of neural networks and several deep learning architectures, such as the transformer, which is the underlying technology behind most large language models.
+> **[0:21](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/next-steps?u=76281980&t=21)** You've gained a foundational understanding of [[Neural Networks]] and several [[Deep Learning]] architectures, such as the transformer, which is the underlying technology behind most large language models.
 >
 > **[0:34](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/next-steps?u=76281980&t=34)** Finally, you learned how large language models are used, the challenges they present, and some of the ways they're likely to evolve in the future.
 >
@@ -1624,11 +1607,11 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/next-steps?u=76281980&t=56)** There are several directions you could go with your newly acquired knowledge.
 >
-> **[1:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/next-steps?u=76281980&t=60)** A LinkedIn Learning course search using the keywords generative AI and or large language models should yield a rich set of content that you can sink your teeth into.
+> **[1:00](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/next-steps?u=76281980&t=60)** A [[LinkedIn]] Learning course search using the keywords generative AI and or large language models should yield a rich set of content that you can sink your teeth into.
 >
-> **[1:12](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/next-steps?u=76281980&t=72)** If you want a broader understanding of AI and machine learning, you can also check out my introductory machine learning course titled "[[Machine Learning with Python- Foundations]]," or any of the other courses in my "Machine Learning with Python" series.
+> **[1:12](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/next-steps?u=76281980&t=72)** If you want a broader understanding of AI and machine learning, you can also check out my introductory machine learning course titled "[[Machine Learning with [[Python (Programming Language)|Python]]- Foundations]]," or any of the other courses in my "Machine Learning with Python" series.
 >
-> **[1:28](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/next-steps?u=76281980&t=88)** If you're interested in a guided walkthrough of how to leverage generative AI for text generation or image creation, then check out Ronnie Shear's course titled, "[[Introduction To Prompt Engineering For Generative Ai]]."
+> **[1:28](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/next-steps?u=76281980&t=88)** If you're interested in a guided walkthrough of how to leverage generative AI for text generation or image creation, then check out Ronnie Shear's course titled, "[[Introduction To [[Prompt Engineering]] For Generative Ai]]."
 >
 > **[1:43](https://www.linkedin.com/learning/generative-ai-introduction-to-large-language-models/next-steps?u=76281980&t=103)** If you're interested in learning more about transformers and some of the popular large language models in use out there, then check out, "[[Generative AI- Working with Large Language Models]]," by Jonathan Fernandez.
 >
@@ -1642,7 +1625,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (8), [[Generative AI]] (7), next (3), ai (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (8), [[Generative AI]] (7), [[Python (Programming Language)|Python]] (2), [[Neural Networks]] (1), [[Deep Learning]] (1)
 > **CLI Commands:** python (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [frederick] (1)

@@ -78,16 +78,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SQL Server on Linux, containers, and Kubernetes
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/sql-server-on-linux-containers-and-kubernetes?u=76281980)
+#### [SQL Server on Linux, containers, and Kubernetes](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/sql-server-on-linux-containers-and-kubernetes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/sql-server-on-linux-containers-and-kubernetes?u=76281980&t=0)** - [Instructor] You can run SQL Server on so many things other than Windows.
+> **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/sql-server-on-linux-containers-and-kubernetes?u=76281980&t=0)** - [Instructor] You can run [[Microsoft SQL Server|SQL Server]] on so many things other than [[Windows]].
 >
-> **[0:03](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/sql-server-on-linux-containers-and-kubernetes?u=76281980&t=3)** So this course will teach you how to run SQL Server on Linux, in containers and in Kubernetes, or in other words, we will talk about all the ways to run SQL Server on anything but Windows.
+> **[0:03](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/sql-server-on-linux-containers-and-kubernetes?u=76281980&t=3)** So this course will teach you how to run SQL Server on [[Linux]], in containers and in [[Kubernetes]], or in other words, we will talk about all the ways to run SQL Server on anything but Windows.
 >
-> **[0:15](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/sql-server-on-linux-containers-and-kubernetes?u=76281980&t=15)** Join me on a trip that I hope will be a good mix of hands-on demos and theory to explore how running SQL servers on platforms such as Kubernetes can be both lightweight to speed up your development processes, as well as enterprise and production ready.
+> **[0:15](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/sql-server-on-linux-containers-and-kubernetes?u=76281980&t=15)** Join me on a trip that I hope will be a good mix of hands-on demos and theory to explore how running [[SQL]] servers on platforms such as Kubernetes can be both lightweight to speed up your development processes, as well as enterprise and production ready.
 
 > [!info]- Semantic Content
 >
@@ -97,18 +96,17 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo environment and prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980)
+#### [Demo environment and prerequisites](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980&t=0)** - [Instructor] Let us talk about the required demo environment for a minute.
 >
-> **[0:04](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980&t=4)** What you really need for this course is a single Linux machine with eight gigabyte of RAM and four cores.
+> **[0:04](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980&t=4)** What you really need for this course is a single [[Linux]] machine with eight gigabyte of RAM and four cores.
 >
 > **[0:10](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980&t=10)** My setup, however, is a bit more complex.
 >
-> **[0:13](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980&t=13)** To start with, I'm using six Linux servers, one dedicated box to run SQL Server Linux, one run SQL server on containers, and four machines from a Kubernetes environment, including a dedicated NFS server for storage.
+> **[0:13](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980&t=13)** To start with, I'm using six Linux servers, one dedicated box to run [[Microsoft SQL Server|SQL Server]] Linux, one run SQL server on containers, and four machines from a [[Kubernetes]] environment, including a dedicated NFS server for storage.
 >
 > **[0:26](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980&t=26)** All my Linux boxes have the NFS client tools installed, while the NFS server, of course, also has the NFS server activated.
 >
@@ -116,11 +114,11 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980&t=37)** Again, this is far beyond the minimum requirement, so don't worry if you can't replicate this entire setup.
 >
-> **[0:43](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980&t=43)** I have picked Ubuntu 20.04 as my Linux distribution and version, and we will talk in more depth in the next module which Linux version you can and can't use to run SQL Server.
+> **[0:43](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980&t=43)** I have picked [[Ubuntu]] 20.04 as my Linux distribution and version, and we will talk in more depth in the next module which Linux version you can and can't use to run SQL Server.
 >
-> **[0:53](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980&t=53)** In addition to my Linux machine, I'm also running two Windows boxes.
+> **[0:53](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980&t=53)** In addition to my Linux machine, I'm also running two [[Windows]] boxes.
 >
-> **[0:58](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980&t=58)** One of them is my D Domain controller running Windows Server 2022, and the other one is a Windows 10 client, which I'm using as my main client.
+> **[0:58](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980&t=58)** One of them is my D Domain controller running [[Windows Server]] 2022, and the other one is a [[Windows 10]] client, which I'm using as my main client.
 >
 > **[1:06](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980&t=66)** Almost all client tools are cross platform though, so you could also run everything from a single Linux box again.
 >
@@ -134,11 +132,11 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980&t=92)** In my Windows client, I started with installing Choco as a package manager.
 >
-> **[1:37](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980&t=97)** I then used Choco to install VS code and the PowerShell extension, which is where we're running all my demos from.
+> **[1:37](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980&t=97)** I then used Choco to install VS code and the [[Powershell]] extension, which is where we're running all my demos from.
 >
 > **[1:42](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980&t=102)** For connectivity, I also installed the OpenSSH client as well as curl and grep.
 >
-> **[1:48](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980&t=108)** Last but not least, I also added the SQL Server Client Tools Management Studio, Azure Data Studio, as well as a new SQLCMD, so we can connect to our SQL Server instances on Linux from this Windows client.
+> **[1:48](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980&t=108)** Last but not least, I also added the SQL Server Client Tools Management Studio, [[Microsoft Azure|Azure]] Data Studio, as well as a new SQLCMD, so we can connect to our SQL Server instances on Linux from this Windows client.
 >
 > **[2:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/demo-environment-and-prerequisites?u=76281980&t=120)** I will not get into the details of how to deploy and install Linux, NFS storage, or a domain controller.
 >
@@ -162,12 +160,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to run SQL Server on Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/how-to-run-sql-server-on-linux?u=76281980)
+#### [How to run SQL Server on Linux](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/how-to-run-sql-server-on-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/how-to-run-sql-server-on-linux?u=76281980&t=0)** - [Instructor] Let us start with a very brief intro on how SQL Server can even run on Linux given that it's a native Windows application, not some cross-platform Python code or something that comes with out-of-the-box portability.
+> **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/how-to-run-sql-server-on-linux?u=76281980&t=0)** - [Instructor] Let us start with a very brief intro on how [[Microsoft SQL Server|SQL Server]] can even run on [[Linux]] given that it's a native [[Windows]] application, not some cross-platform [[Python (Programming Language)|Python]] code or something that comes with out-of-the-box portability.
 >
 > **[0:12](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/how-to-run-sql-server-on-linux?u=76281980&t=12)** On Linux SQL Server runs as an isolated process, and it is using the regular Windows calls, more than 1200 of them as it does on Windows, but instead of a full Windows operating system, which we don't have on Linux, those calls are handled by a platform abstraction layer, SQLPAL.
 >
@@ -189,11 +186,11 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/how-to-run-sql-server-on-linux?u=76281980&t=69)** So your first question must therefore be, which distributions are supported.
 >
-> **[1:13](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/how-to-run-sql-server-on-linux?u=76281980&t=73)** And as of today, the answer is, SUSE Linux Enterprise Server, Red Hat Enterprise Linux, and Ubuntu.
+> **[1:13](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/how-to-run-sql-server-on-linux?u=76281980&t=73)** And as of today, the answer is, SUSE Linux Enterprise Server, Red Hat Enterprise Linux, and [[Ubuntu]].
 >
 > **[1:21](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/how-to-run-sql-server-on-linux?u=76281980&t=81)** But that doesn't mean you can install SQL Server on any Ubuntu for example, let alone install it and be in a supported scenario.
 >
-> **[1:28](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/how-to-run-sql-server-on-linux?u=76281980&t=88)** Right now, for example, Ubuntu 2204 is the latest release of Ubuntu, but Ubuntu 2004 is the latest release that is officially supported by Microsoft for SQL Server.
+> **[1:28](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/how-to-run-sql-server-on-linux?u=76281980&t=88)** Right now, for example, Ubuntu 2204 is the latest release of Ubuntu, but Ubuntu 2004 is the latest release that is officially supported by [[Microsoft]] for SQL Server.
 >
 > **[1:39](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/how-to-run-sql-server-on-linux?u=76281980&t=99)** Next, you have to think about your edition.
 >
@@ -203,13 +200,13 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/how-to-run-sql-server-on-linux?u=76281980&t=112)** While the core database engine is identical between Windows and Linux, analysis services, for example, are not supported to run on Linux.
 >
-> **[1:59](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/how-to-run-sql-server-on-linux?u=76281980&t=119)** And then of course you have all your other considerations, how to distribute your log files, databases, temp DB etc.
+> **[1:59](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/how-to-run-sql-server-on-linux?u=76281980&t=119)** And then of course you have all your other considerations, how to distribute your log files, [[Databases]], temp DB etc.
 >
-> **[2:06](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/how-to-run-sql-server-on-linux?u=76281980&t=126)** How to monitor your SQL server, do you want active directory authentication, which requires a few extra steps on Linux rather than just clicking a checkbox as on Windows, et cetera.
+> **[2:06](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/how-to-run-sql-server-on-linux?u=76281980&t=126)** How to monitor your SQL server, do you want [[Active Directory]] authentication, which requires a few extra steps on Linux rather than just clicking a checkbox as on Windows, et cetera.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (14), [[Microsoft SQL Server|Sql server]] (10), [[Windows]] (9), [[Ubuntu]] (5), application (3)
+> **Frameworks & Libraries:** [[Linux]] (14), [[Microsoft SQL Server|Sql server]] (10), [[Windows]] (9), [[Ubuntu]] (5), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sql (10), sqlpal (4), suse (1)
 > **Analogies:** for example (3)
 > **Prerequisites:** install (3)
@@ -218,18 +215,17 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deploying SQL Server on Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-sql-server-on-linux?u=76281980)
+#### [Deploying SQL Server on Linux](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-sql-server-on-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-sql-server-on-linux?u=76281980&t=0)** - [Instructor] After these fundamental and basic considerations, it is time for an actual installation.
 >
-> **[0:05](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-sql-server-on-linux?u=76281980&t=5)** And that starts with a question, which version of SQL Server do you want to install?
+> **[0:05](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-sql-server-on-linux?u=76281980&t=5)** And that starts with a question, which version of [[Microsoft SQL Server|SQL Server]] do you want to install?
 >
-> **[0:10](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-sql-server-on-linux?u=76281980&t=10)** Microsoft is providing a central repository with all the installation files and of course this repo doesn't exclusively host SQL Server files, but also a bunch of other tools and products.
+> **[0:10](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-sql-server-on-linux?u=76281980&t=10)** [[Microsoft]] is providing a central repository with all the installation files and of course this repo doesn't exclusively host SQL Server files, but also a bunch of other tools and [[Microsoft Products|products]].
 >
-> **[0:20](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-sql-server-on-linux?u=76281980&t=20)** There isn't just one single SQL Server to download, but they're filed for SQL Server 2017, which was the first SQL Server to support Linux, up to SQL Server 2022.
+> **[0:20](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-sql-server-on-linux?u=76281980&t=20)** There isn't just one single SQL Server to download, but they're filed for SQL Server 2017, which was the first SQL Server to support [[Linux]], up to SQL Server 2022.
 >
 > **[0:29](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-sql-server-on-linux?u=76281980&t=29)** And each of those versions has multiple versions to download from the original release up to all the cumulative updates.
 >
@@ -247,7 +243,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-sql-server-on-linux?u=76281980&t=91)** The last step is then to configure SQL Server, which is probably a bit confusing at first.
 >
-> **[1:36](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-sql-server-on-linux?u=76281980&t=96)** When installing SQL Server on Windows, you provide the addition, the features, the password, et cetera, to be used in the visit before anything will be installed.
+> **[1:36](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-sql-server-on-linux?u=76281980&t=96)** When installing SQL Server on [[Windows]], you provide the addition, the features, the password, et cetera, to be used in the visit before anything will be installed.
 >
 > **[1:45](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-sql-server-on-linux?u=76281980&t=105)** On Linux, that entire process is inverted.
 >
@@ -255,11 +251,11 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-sql-server-on-linux?u=76281980&t=110)** And as you can see, I'm running this as I will before pretty much all my demos in this course from VS Code.
 >
-> **[1:55](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-sql-server-on-linux?u=76281980&t=115)** First, I will secure shell into my SQL and Linux server and again, if you are unable to entirely replicate my setup, my host names, et cetera, you may have to adjust for that a little bit.
+> **[1:55](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-sql-server-on-linux?u=76281980&t=115)** First, I will secure shell into my [[SQL]] and Linux server and again, if you are unable to entirely replicate my setup, my host names, et cetera, you may have to adjust for that a little bit.
 >
 > **[2:05](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-sql-server-on-linux?u=76281980&t=125)** My first step there is then, to add the key to the Microsoft repo so we can validate contents downloaded from there.
 >
-> **[2:11](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-sql-server-on-linux?u=76281980&t=131)** And next I will then add the Microsoft SQL Server 2022 Repository 40122004.
+> **[2:11](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-sql-server-on-linux?u=76281980&t=131)** And next I will then add the [[Microsoft SQL Server]] 2022 Repository 40122004.
 >
 > **[2:17](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-sql-server-on-linux?u=76281980&t=137)** So again, if you're using a slightly different distribution or version or you're looking for a different version of SQL Server, adjust that link accordingly.
 >
@@ -309,12 +305,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessing a SQL Server on Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/accessing-a-sql-server-on-linux?u=76281980)
+#### [Accessing a SQL Server on Linux](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/accessing-a-sql-server-on-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/accessing-a-sql-server-on-linux?u=76281980&t=0)** - [Instructor] When it comes to accessing a SQL Server running on Linux, you should remember that SQL Server on Linux is SQL Server on Windows at its core.
+> **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/accessing-a-sql-server-on-linux?u=76281980&t=0)** - [Instructor] When it comes to accessing a [[Microsoft SQL Server|SQL Server]] running on [[Linux]], you should remember that SQL Server on Linux is SQL Server on [[Windows]] at its core.
 >
 > **[0:08](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/accessing-a-sql-server-on-linux?u=76281980&t=8)** So same considerations and restrictions apply.
 >
@@ -324,13 +319,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/accessing-a-sql-server-on-linux?u=76281980&t=18)** Which tools do you want to use?
 >
-> **[0:20](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/accessing-a-sql-server-on-linux?u=76281980&t=20)** Because just as an accessing SQL Server running on Windows, you can use the mssql-cli, sqlcmd, or Azure Data Studio, and all of those even run on Linux, so there isn't even the need for a Windows client.
+> **[0:20](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/accessing-a-sql-server-on-linux?u=76281980&t=20)** Because just as an accessing SQL Server running on Windows, you can use the mssql-[[CLI]], sqlcmd, or [[Microsoft Azure|Azure]] Data Studio, and all of those even run on Linux, so there isn't even the need for a Windows client.
 >
 > **[0:31](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/accessing-a-sql-server-on-linux?u=76281980&t=31)** But of course, you can also use Management Studio, for example, which does not run on Linux, but of course can access any SQL Server running on Linux.
 >
 > **[0:40](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/accessing-a-sql-server-on-linux?u=76281980&t=40)** Let's first access our SQL Server on Linux from the Linux box directly.
 >
-> **[0:44](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/accessing-a-sql-server-on-linux?u=76281980&t=44)** I will secure share into my box again and add the Microsoft SQL tools to my repo.
+> **[0:44](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/accessing-a-sql-server-on-linux?u=76281980&t=44)** I will secure share into my box again and add the [[Microsoft]] [[SQL]] tools to my repo.
 >
 > **[0:50](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/accessing-a-sql-server-on-linux?u=76281980&t=50)** I'll update my package manager's cache, and I can then install the mssql tools through my package manager.
 >
@@ -359,12 +354,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Integrating SQL Server on Linux with Active Directory
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-linux-with-active-directory?u=76281980)
+#### [Integrating SQL Server on Linux with Active Directory](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-linux-with-active-directory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-linux-with-active-directory?u=76281980&t=0)** - [Instructor] Using only basic SQL authentication is not sufficient for most production workloads, so let's integrate our SQL Server Linux into the Active Directory.
+> **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-linux-with-active-directory?u=76281980&t=0)** - [Instructor] Using only basic [[SQL]] authentication is not sufficient for most production workloads, so let's integrate our [[Microsoft SQL Server|SQL Server]] [[Linux]] into the [[Active Directory]].
 >
 > **[0:08](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-linux-with-active-directory?u=76281980&t=8)** This requires some Kerberos files and configurations, and I will not go into all the details on how Kerberos works.
 >
@@ -372,7 +366,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-linux-with-active-directory?u=76281980&t=18)** One thing that is super important to understand with Kerberos authentication is DNS is key, so make sure that both your fully qualified host name, but also reverse lookup for that IP address work and match.
 >
-> **[0:31](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-linux-with-active-directory?u=76281980&t=31)** Let me log into MySQL Linux box again.
+> **[0:31](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-linux-with-active-directory?u=76281980&t=31)** Let me log into [[MySQL]] Linux box again.
 >
 > **[0:34](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-linux-with-active-directory?u=76281980&t=34)** To get started with our ID integration, we first need to install a couple of extra tools.
 >
@@ -412,7 +406,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-linux-with-active-directory?u=76281980&t=127)** This keytab file will again include the pointer to our host name as well as to our service account.
 >
-> **[2:12](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-linux-with-active-directory?u=76281980&t=132)** I'm also adding a bunch of different encryption algorithms here.
+> **[2:12](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-linux-with-active-directory?u=76281980&t=132)** I'm also adding a bunch of different encryption [[Algorithms]] here.
 >
 > **[2:15](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-linux-with-active-directory?u=76281980&t=135)** Those usable for you may depend on your local AD settings.
 >
@@ -424,11 +418,11 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-linux-with-active-directory?u=76281980&t=162)** I can now use my SQL login to also authorize my Active Directory user.
 >
-> **[2:46](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-linux-with-active-directory?u=76281980&t=166)** This will then allow me to connect to my SQL Server Linux using Windows authentication, which is also revealed by looking at the current username logged into the server.
+> **[2:46](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-linux-with-active-directory?u=76281980&t=166)** This will then allow me to connect to my SQL Server Linux using [[Windows]] authentication, which is also revealed by looking at the current username logged into the server.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (9), [[Active Directory]] (6), [[Linux]] (4), [[SQL]] (2), dns (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (9), [[Active Directory]] (6), [[Linux]] (4), [[SQL]] (2), [[MySQL]] (1)
 > **Env Vars:** sql (11), spn (4), dns (2), demo (1), local (1)
 > **CLI Commands:** make (3), find (1), mysql (1)
 > **Prerequisites:** install (2)
@@ -440,14 +434,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Container fundamentals and Docker installation
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/container-fundamentals-and-docker-installation?u=76281980)
+#### [Container fundamentals and Docker installation](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/container-fundamentals-and-docker-installation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/container-fundamentals-and-docker-installation?u=76281980&t=0)** - [Instructor] Let us think a few years, or maybe even better, decades back.
 >
-> **[0:04](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/container-fundamentals-and-docker-installation?u=76281980&t=4)** When you needed a new SQL server or basically any application, you needed a new dedicated bare metal server, so network, CPU, memory, storage, all the components that make a physical machine with its own dedicated operating system and the design application running on it.
+> **[0:04](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/container-fundamentals-and-docker-installation?u=76281980&t=4)** When you needed a new [[Microsoft SQL Server|SQL server]] or basically any application, you needed a new dedicated bare metal server, so network, CPU, memory, storage, all the components that make a physical machine with its own dedicated operating system and the design application running on it.
 >
 > **[0:20](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/container-fundamentals-and-docker-installation?u=76281980&t=20)** Then CPUs and memory got faster and faster, so it didn't make sense anymore to have a ton of servers that all didn't get properly utilized, but you still wanted to separate your applications and duties.
 >
@@ -459,7 +452,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/container-fundamentals-and-docker-installation?u=76281980&t=49)** That also means we're using three times the disk space here.
 >
-> **[0:53](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/container-fundamentals-and-docker-installation?u=76281980&t=53)** And of course, we also need to maintain all our SQL servers individually.
+> **[0:53](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/container-fundamentals-and-docker-installation?u=76281980&t=53)** And of course, we also need to maintain all our [[SQL]] servers individually.
 >
 > **[0:57](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/container-fundamentals-and-docker-installation?u=76281980&t=57)** And while some of those tasks can be automated, they still need to be done, and they're containers.
 >
@@ -473,7 +466,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/container-fundamentals-and-docker-installation?u=76281980&t=85)** It shares the operating system of the host.
 >
-> **[1:28](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/container-fundamentals-and-docker-installation?u=76281980&t=88)** That also means a Windows container can only run on a Windows host and the Linux container can only run on a Linux host, and the same applies to the entire infrastructure with maybe the exception of storage, because while the container itself only lives in memory and is therefore ephemeral, containers of course support persisted storage, but we'll talk more about that a bit later.
+> **[1:28](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/container-fundamentals-and-docker-installation?u=76281980&t=88)** That also means a [[Windows]] container can only run on a Windows host and the [[Linux]] container can only run on a Linux host, and the same applies to the entire infrastructure with maybe the exception of storage, because while the container itself only lives in memory and is therefore ephemeral, containers of course support persisted storage, but we'll talk more about that a bit later.
 >
 > **[1:50](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/container-fundamentals-and-docker-installation?u=76281980&t=110)** It is actually fairly easy to define your own container images.
 >
@@ -481,7 +474,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/container-fundamentals-and-docker-installation?u=76281980&t=129)** As mentioned, the role of the hypervisor with containers kind of gets taken over by the container runtime, and there are quite a few different offerings out there.
 >
-> **[2:18](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/container-fundamentals-and-docker-installation?u=76281980&t=138)** The standard in Kubernetes right now, for example, is containerd.
+> **[2:18](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/container-fundamentals-and-docker-installation?u=76281980&t=138)** The standard in [[Kubernetes]] right now, for example, is containerd.
 >
 > **[2:22](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/container-fundamentals-and-docker-installation?u=76281980&t=142)** For our standalone container module now though, we'll be using Docker.
 >
@@ -491,7 +484,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/container-fundamentals-and-docker-installation?u=76281980&t=156)** This is super easy.
 >
-> **[2:38](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/container-fundamentals-and-docker-installation?u=76281980&t=158)** I secure into MySQL on Docker server this time and then install Docker through my package manager.
+> **[2:38](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/container-fundamentals-and-docker-installation?u=76281980&t=158)** I secure into [[MySQL]] on Docker server this time and then install Docker through my package manager.
 >
 > **[2:44](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/container-fundamentals-and-docker-installation?u=76281980&t=164)** We can verify Docker has been installed, and that's all it takes.
 >
@@ -525,7 +518,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (14), [[Windows]] (11), [[Microsoft SQL Server|Sql server]] (3), application (3), [[Virtualization]] (2)
+> **Frameworks & Libraries:** [[Linux]] (14), [[Windows]] (11), [[Microsoft SQL Server|Sql server]] (3), [[SQL]] (1), [[Kubernetes]] (1)
 > **CLI Commands:** docker (13), make (4), mysql (1)
 > **Env Vars:** sql (4), cpu (1), iso (1), wsl (1), bios (1)
 > **Prerequisites:** install (6)
@@ -534,18 +527,17 @@ created: 2026-05-02
 > **Versions:** version 2 (1)
 > **Tools:** visual studio (1)
 
-#### Deploying and accessing SQL Server using Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-using-docker?u=76281980)
+#### [Deploying and accessing SQL Server using Docker](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-using-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-using-docker?u=76281980&t=0)** - [Instructor] Deploying a SQL Server on containers is very similar to self-managed deployment on Linux.
+> **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-using-docker?u=76281980&t=0)** - [Instructor] Deploying a [[Microsoft SQL Server|SQL Server]] on containers is very similar to self-managed deployment on [[Linux]].
 >
 > **[0:06](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-using-docker?u=76281980&t=6)** You start by picking a version of SQL Server, however this time, it comes from a container registry, which is also nothing else than a web-based repository.
 >
 > **[0:14](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-using-docker?u=76281980&t=14)** The container registry will again offer you all the available versions and CUs of SQL Server with the latest CU of each SQL Server major release being tagged as Latest.
 >
-> **[0:24](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-using-docker?u=76281980&t=24)** In theory, for example, in disconnected scenarios, you can also run your own container registry and cache the Microsoft images there, but we'll stick to using the public registry.
+> **[0:24](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-using-docker?u=76281980&t=24)** In theory, for example, in disconnected scenarios, you can also run your own container registry and cache the [[Microsoft]] images there, but we'll stick to using the public registry.
 >
 > **[0:35](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-using-docker?u=76281980&t=35)** An optional step will be to pre-pull or download the required containers.
 >
@@ -559,7 +551,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-using-docker?u=76281980&t=61)** Your run command will also include all the required infos like parameters such as passwords, trace flags, or features, as well as persistent storage, ports, and other settings.
 >
-> **[1:12](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-using-docker?u=76281980&t=72)** Since we installed Docker on both, a Linux and our Windows machine, we could current containers from either one.
+> **[1:12](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-using-docker?u=76281980&t=72)** Since we installed Docker on both, a Linux and our [[Windows]] machine, we could current containers from either one.
 >
 > **[1:17](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-using-docker?u=76281980&t=77)** Let's start on Linux so I will secure shell into my machine and pull the latest SQL Server 2022 image.
 >
@@ -579,7 +571,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-using-docker?u=76281980&t=158)** If I want to run a SQL Server 2022 instead of SQL Server 2019, I use the original command again pointing to the SQL Server 2022 image, and also using a different port and name.
 >
-> **[2:49](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-using-docker?u=76281980&t=169)** Again, the image will be pulled, and once that is done, within a matter of seconds, we have two SQL Servers running on Windows as well as another one on Linux.
+> **[2:49](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-using-docker?u=76281980&t=169)** Again, the image will be pulled, and once that is done, within a matter of seconds, we have two [[SQL]] Servers running on Windows as well as another one on Linux.
 >
 > **[2:58](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-using-docker?u=76281980&t=178)** Both of my containers are showing up, and my SQL Server 2022 is also accessible.
 >
@@ -595,7 +587,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (15), [[Linux]] (7), [[Windows]] (5), [[SQL]] (2), web (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (15), [[Linux]] (7), [[Windows]] (5), [[SQL]] (2), [[Microsoft]] (1)
 > **Env Vars:** sql (17), sqlcmd (2), tcp (1)
 > **CLI Commands:** docker (6)
 > **Analogies:** similar to (1), for example (1), such as (1)
@@ -604,8 +596,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Prerequisites:** install (1)
 
-#### Working with a SQL Server using Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-a-sql-server-using-docker?u=76281980)
+#### [Working with a SQL Server using Docker](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-a-sql-server-using-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -613,11 +604,11 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-a-sql-server-using-docker?u=76281980&t=3)** And for that purpose, we create a database called TestDB in one of them.
 >
-> **[0:08](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-a-sql-server-using-docker?u=76281980&t=8)** If I check this databases, my TestDB is also showing up.
+> **[0:08](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-a-sql-server-using-docker?u=76281980&t=8)** If I check this [[Databases]], my TestDB is also showing up.
 >
 > **[0:12](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-a-sql-server-using-docker?u=76281980&t=12)** However, if I stop and delete that container and then simply create a new container using the exact same command, including the same host name, same image, same password, et cetera, TestDB will be gone once I look at that container again.
 >
-> **[0:26](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-a-sql-server-using-docker?u=76281980&t=26)** Let us create another container using a different port, using the same image, but this time, we're actually adding a volume to it called SQL Data 2.
+> **[0:26](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-a-sql-server-using-docker?u=76281980&t=26)** Let us create another container using a different port, using the same image, but this time, we're actually adding a volume to it called [[SQL]] Data 2.
 >
 > **[0:35](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-a-sql-server-using-docker?u=76281980&t=35)** I can create a test database there again, and if I check for that file, in that volume, in that container, it is also showing up.
 >
@@ -633,30 +624,29 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-a-sql-server-using-docker?u=76281980&t=85)** In addition to that, I have also provided a trace flag using the -T switch.
 >
-> **[1:29](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-a-sql-server-using-docker?u=76281980&t=89)** So I'm using -T3205, which is coming right after the SQL server executable itself.
+> **[1:29](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-a-sql-server-using-docker?u=76281980&t=89)** So I'm using -T3205, which is coming right after the [[Microsoft SQL Server|SQL server]] executable itself.
 >
 > **[1:36](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-a-sql-server-using-docker?u=76281980&t=96)** If I check the version of that container, it is showing as an evaluation edition, and if I check the trace status, it will show me the 3205 trace flag that we've just enabled.
 >
-> **[1:48](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-a-sql-server-using-docker?u=76281980&t=108)** If I connected at instance, for example using SSMS, I can connect to that endpoint using my SA user and my password, and I will see that MySQL Server agent is running, and also again, the little penguin or Task because this container is running on Linux.
+> **[1:48](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-a-sql-server-using-docker?u=76281980&t=108)** If I connected at instance, for example using SSMS, I can connect to that endpoint using my SA user and my password, and I will see that [[MySQL]] Server agent is running, and also again, the little penguin or Task because this container is running on [[Linux]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[Databases]] (2), [[SQL]] (1), data (1), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[SQL]] (1), [[Microsoft SQL Server|Sql server]] (1), [[MySQL]] (1), [[Linux]] (1)
 > **Env Vars:** sql (2), mssql (1), t3205 (1), ssms (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** mysql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Integrating SQL Server on containers with Active Directory
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-containers-with-active-directory?u=76281980)
+#### [Integrating SQL Server on containers with Active Directory](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-containers-with-active-directory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-containers-with-active-directory?u=76281980&t=0)** - [Instructor] We can also AD integrate a SQL server running a container, and for that, the host doesn't even need to be integrated into our active directory.
+> **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-containers-with-active-directory?u=76281980&t=0)** - [Instructor] We can also AD integrate a [[Microsoft SQL Server|SQL server]] running a container, and for that, the host doesn't even need to be integrated into our [[Active Directory]].
 >
-> **[0:08](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-containers-with-active-directory?u=76281980&t=8)** You just need any Linux machine that is part of your AD.
+> **[0:08](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-containers-with-active-directory?u=76281980&t=8)** You just need any [[Linux]] machine that is part of your AD.
 >
-> **[0:10](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-containers-with-active-directory?u=76281980&t=10)** I will therefore go back to my SQL Linux machine first, which is AD integrated from our last module.
+> **[0:10](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-containers-with-active-directory?u=76281980&t=10)** I will therefore go back to my [[SQL]] Linux machine first, which is AD integrated from our last module.
 >
 > **[0:15](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-containers-with-active-directory?u=76281980&t=15)** I'm making sure I still have an active cab session.
 >
@@ -708,13 +698,13 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-containers-with-active-directory?u=76281980&t=198)** If you run into any issues with the AD integration, this is the file that you are going to be looking at, /container/dockerad/log/securitylog.
 >
-> **[3:26](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-containers-with-active-directory?u=76281980&t=206)** However, everything here seems fine, so we disconnect from our SQL machine, connect using SQL Auth, authorize our Windows user, and we can now use AD integration in our container running on Docker.
+> **[3:26](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-containers-with-active-directory?u=76281980&t=206)** However, everything here seems fine, so we disconnect from our SQL machine, connect using SQL Auth, authorize our [[Windows]] user, and we can now use AD integration in our container running on Docker.
 >
 > **[3:42](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-containers-with-active-directory?u=76281980&t=222)** Over the last few demos, we've deployed a few in SQL instances, one of them being even integrated into the active directory, so as easy as that, I could now remove and redeploy this container and therefore start with a fresh environment from my developments without losing enterprise features like AD integration.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (12), dns (6), [[Microsoft SQL Server|Sql server]] (4), [[Linux]] (4), [[Active Directory]] (3)
+> **Frameworks & Libraries:** [[SQL]] (12), [[Microsoft SQL Server|Sql server]] (4), [[Linux]] (4), [[Active Directory]] (3), [[Windows]] (1)
 > **Env Vars:** sql (16), dns (6), spn (3), ptr (1), svc (1)
 > **CLI Commands:** docker (8), make (3)
 > **File Paths:** logger.ini (1)
@@ -727,14 +717,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Kubernetes fundamentals
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/kubernetes-fundamentals?u=76281980)
+#### [Kubernetes fundamentals](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/kubernetes-fundamentals?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/kubernetes-fundamentals?u=76281980&t=0)** - [Instructor] As nice as containers are, they are hard to manage on their own, especially for enterprise environments.
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/kubernetes-fundamentals?u=76281980&t=6)** This issue can be solved through container orchestration and Kubernetes is exactly that, a container orchestrator.
+> **[0:06](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/kubernetes-fundamentals?u=76281980&t=6)** This issue can be solved through container orchestration and [[Kubernetes]] is exactly that, a container orchestrator.
 >
 > **[0:13](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/kubernetes-fundamentals?u=76281980&t=13)** It starts by forming pods, which is simply a group of containers that belong together.
 >
@@ -748,11 +737,11 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/kubernetes-fundamentals?u=76281980&t=52)** To make sure the pods can communicate with each other, Kubernetes requires its own network or networking plugin, so every pod will have an IP address, et cetera.
 >
-> **[1:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/kubernetes-fundamentals?u=76281980&t=60)** Your pods can be organized in namespaces, kind of like a named instance of a SQL Server.
+> **[1:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/kubernetes-fundamentals?u=76281980&t=60)** Your pods can be organized in namespaces, kind of like a named instance of a [[Microsoft SQL Server|SQL Server]].
 >
 > **[1:06](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/kubernetes-fundamentals?u=76281980&t=66)** And namespaces can also be distributed across multiple nodes while a pod can't.
 >
-> **[1:11](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/kubernetes-fundamentals?u=76281980&t=71)** To manage your cluster, you would usually use a tool called kubectl, and kubectl supports both imperative commands where directly define the command what you want to happen, as well as declarative commands, where you'll pass a JSON or YAML file to the CLI.
+> **[1:11](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/kubernetes-fundamentals?u=76281980&t=71)** To manage your cluster, you would usually use a tool called kubectl, and kubectl supports both imperative commands where directly define the command what you want to happen, as well as declarative commands, where you'll pass a [[JSON]] or YAML file to the [[CLI]].
 >
 > **[1:26](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/kubernetes-fundamentals?u=76281980&t=86)** This way is preferred in most cases, as it allows you to easily reuse your code and commands to replicate the same results.
 >
@@ -802,21 +791,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (7), [[Microsoft SQL Server|Sql server]] (5), node (3), data (2), [[Orchestration]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (7), [[Microsoft SQL Server|Sql server]] (5), [[JSON]] (1), [[CLI]] (1)
 > **Env Vars:** sql (5), yaml (2), nfs (2), pvc (2), cpu (2)
 > **CLI Commands:** kubectl (3), node (3), make (2)
 > **Analogies:** for example (5), kind of like (1), such as (1)
 > **Code Identifiers:** iscsi (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing Kubernetes
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/installing-kubernetes?u=76281980)
+#### [Installing Kubernetes](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/installing-kubernetes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/installing-kubernetes?u=76281980&t=0)** - [Instructor] Before you can deploy a SQL Server in a Kubernetes cluster, you need a Kubernetes cluster.
+> **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/installing-kubernetes?u=76281980&t=0)** - [Instructor] Before you can deploy a [[Microsoft SQL Server|SQL Server]] in a [[Kubernetes]] cluster, you need a Kubernetes cluster.
 >
-> **[0:05](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/installing-kubernetes?u=76281980&t=5)** And just like there are many different container runtimes and Linux distributions, there are many different Kubernetes distributions from which you'll have to choose from.
+> **[0:05](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/installing-kubernetes?u=76281980&t=5)** And just like there are many different container runtimes and [[Linux]] distributions, there are many different Kubernetes distributions from which you'll have to choose from.
 >
 > **[0:14](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/installing-kubernetes?u=76281980&t=14)** Another very important question, where are you going to deploy this, on-premises or in a cloud?
 >
@@ -838,7 +826,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/installing-kubernetes?u=76281980&t=67)** You then install a Kubernetes networking plugin as well as the desired storage providers and classes.
 >
-> **[1:12](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/installing-kubernetes?u=76281980&t=72)** When deploying a managed cluster in a cloud, the process will again differ in its details from provider to provider, but they usually all offer a CLI as well as a web portal-driven approach to deploy resources.
+> **[1:12](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/installing-kubernetes?u=76281980&t=72)** When deploying a managed cluster in a cloud, the process will again differ in its details from provider to provider, but they usually all offer a [[CLI]] as well as a web portal-driven approach to deploy resources.
 >
 > **[1:23](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/installing-kubernetes?u=76281980&t=83)** Using either of those, you will then deploy a cluster where you typically provide the number of desired worker nodes, location, et cetera.
 >
@@ -848,7 +836,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/installing-kubernetes?u=76281980&t=100)** They are still there though, as you still need someone to distribute loads, et cetera, they're just abstracted away.
 >
-> **[1:46](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/installing-kubernetes?u=76281980&t=106)** To be able to manage my Kubernetes cluster from this Windows box, I will first install the Kubernetes CLI using Chocolatey.
+> **[1:46](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/installing-kubernetes?u=76281980&t=106)** To be able to manage my Kubernetes cluster from this [[Windows]] box, I will first install the Kubernetes CLI using Chocolatey.
 >
 > **[1:52](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/installing-kubernetes?u=76281980&t=112)** For the Kubernetes basic, so kubeadm, the kubelet, containerd, et cetera, I have prepared a bash script that will perform all these tasks for me.
 >
@@ -864,7 +852,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/installing-kubernetes?u=76281980&t=156)** Let's run this script on our control plane, and while this is running, you see there's a lot going on, which probably explains why I've put it in a single script rather than go through it step by step, especially since we have to do this on all our workers as well.
 >
-> **[2:49](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/installing-kubernetes?u=76281980&t=169)** With the correctors in place, I can SQL Shell into my control plane and run kubeadm in it.
+> **[2:49](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/installing-kubernetes?u=76281980&t=169)** With the correctors in place, I can [[SQL]] Shell into my control plane and run kubeadm in it.
 >
 > **[2:55](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/installing-kubernetes?u=76281980&t=175)** To do so, I will first need to check which version got downloaded and installed, because I was not specifying a specific version.
 >
@@ -986,7 +974,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (18), [[Microsoft SQL Server|Sql server]] (3), [[Linux]] (3), cloud (3), node (3)
+> **Frameworks & Libraries:** [[Kubernetes]] (18), [[Microsoft SQL Server|Sql server]] (3), [[Linux]] (3), [[Windows]] (3), [[CLI]] (2)
 > **CLI Commands:** make (8), kubectl (4), node (3)
 > **Env Vars:** nfs (6), sql (4), cli (2), cidr (1), atc (1)
 > **Prerequisites:** install (8)
@@ -995,16 +983,15 @@ created: 2026-05-02
 > **Versions:** 127.3 (1)
 > **Tools:** bash (1)
 
-#### Deploying and accessing SQL Server on Kubernetes
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-on-kubernetes?u=76281980)
+#### [Deploying and accessing SQL Server on Kubernetes](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-on-kubernetes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-on-kubernetes?u=76281980&t=0)** - [Instructor] With your cluster deployed, we can deploy SQL Server to it.
+> **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-on-kubernetes?u=76281980&t=0)** - [Instructor] With your cluster deployed, we can deploy [[Microsoft SQL Server|SQL Server]] to it.
 >
 > **[0:04](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-on-kubernetes?u=76281980&t=4)** While it's not a requirement, it is recommended to separate applications for namespace.
 >
-> **[0:09](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-on-kubernetes?u=76281980&t=9)** In that namespace, you will then start by deploying a persistent volume claim, or even better, a few of them to use different storage for data, logs, backups, et cetera, just as you would on a Windows installation following best practices.
+> **[0:09](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-on-kubernetes?u=76281980&t=9)** In that namespace, you will then start by deploying a persistent volume claim, or even better, a few of them to use different storage for data, logs, backups, et cetera, just as you would on a [[Windows]] installation following best practices.
 >
 > **[0:22](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-on-kubernetes?u=76281980&t=22)** At least for the initial deployment, you will also need to provide a password for that instance.
 >
@@ -1020,7 +1007,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-on-kubernetes?u=76281980&t=53)** A load balancer is mostly seen in cloud deployments as it is being represented by a dedicated IP address for this application.
 >
-> **[1:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-on-kubernetes?u=76281980&t=60)** Kubernetes also offers additional service types beyond these two, but those are the most common ones for our use case.
+> **[1:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-on-kubernetes?u=76281980&t=60)** [[Kubernetes]] also offers additional service types beyond these two, but those are the most common ones for our use case.
 >
 > **[1:07](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-on-kubernetes?u=76281980&t=67)** As pointed out, having a namespace isn't a requirement, but it is highly recommended.
 >
@@ -1046,7 +1033,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-on-kubernetes?u=76281980&t=124)** Next, I will define some storage from a SQL server, and I will start with persistent volume claim using local storage.
 >
-> **[2:11](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-on-kubernetes?u=76281980&t=131)** All I'm doing here is I'm defining a persistent volume claim, which I'm calling sql-storage.
+> **[2:11](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-on-kubernetes?u=76281980&t=131)** All I'm doing here is I'm defining a persistent volume claim, which I'm calling [[SQL]]-storage.
 >
 > **[2:16](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/deploying-and-accessing-sql-server-on-kubernetes?u=76281980&t=136)** It will use local storage.
 >
@@ -1096,7 +1083,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), data (3), node (3), [[Kubernetes]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), [[Kubernetes]] (2), [[Windows]] (1), [[SQL]] (1)
 > **CLI Commands:** kubectl (5), make (3), node (3), docker (2)
 > **Env Vars:** sql (6), yaml (1), tcp (1), mssql_sa_password (1)
 > **Best Practices:** recommended (2), make sure to (1)
@@ -1105,12 +1092,11 @@ created: 2026-05-02
 > **Cross-References:** coming up (1)
 > **Exercise Files:** download the (1)
 
-#### Working with and maintaining SQL Server on Kubernetes
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-and-maintaining-sql-server-on-kubernetes?u=76281980)
+#### [Working with and maintaining SQL Server on Kubernetes](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-and-maintaining-sql-server-on-kubernetes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-and-maintaining-sql-server-on-kubernetes?u=76281980&t=0)** - [Instructor] Let us again make use of our SQL Server and start by restoring some data to it.
+> **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-and-maintaining-sql-server-on-kubernetes?u=76281980&t=0)** - [Instructor] Let us again make use of our [[Microsoft SQL Server|SQL Server]] and start by restoring some data to it.
 >
 > **[0:04](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-and-maintaining-sql-server-on-kubernetes?u=76281980&t=4)** For that purpose, I'm downloading AdventureWorks 2019, which I will then need to copy into my pod.
 >
@@ -1122,7 +1108,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-and-maintaining-sql-server-on-kubernetes?u=76281980&t=38)** The backup file is not present in the pod, so I can use sqlcmd to restore my database.
 >
-> **[0:44](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-and-maintaining-sql-server-on-kubernetes?u=76281980&t=44)** Taking a look at this databases, I can also see my AdventureWorks 2019 database has been successfully restored.
+> **[0:44](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-and-maintaining-sql-server-on-kubernetes?u=76281980&t=44)** Taking a look at this [[Databases]], I can also see my AdventureWorks 2019 database has been successfully restored.
 >
 > **[0:50](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-and-maintaining-sql-server-on-kubernetes?u=76281980&t=50)** Right now, we are running SQL Server 2019 CU21.
 >
@@ -1130,7 +1116,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-and-maintaining-sql-server-on-kubernetes?u=76281980&t=61)** Here, for example, I'm upgrading to the latest image of SQL Server 2022.
 >
-> **[1:07](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-and-maintaining-sql-server-on-kubernetes?u=76281980&t=67)** I can again use kubectl to monitor status of my rollout, so what will happen here is, so we do not have two competing versions of SQL Server accessing our data at the same time, Kubernetes will first scale down my existing SQL Server 2019, so basically, remove my SQL Server 2019 before it will deploy a new replica set of SQL 2022.
+> **[1:07](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-and-maintaining-sql-server-on-kubernetes?u=76281980&t=67)** I can again use kubectl to monitor status of my rollout, so what will happen here is, so we do not have two competing versions of SQL Server accessing our data at the same time, [[Kubernetes]] will first scale down my existing SQL Server 2019, so basically, remove my SQL Server 2019 before it will deploy a new replica set of [[SQL]] 2022.
 >
 > **[1:27](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/working-with-and-maintaining-sql-server-on-kubernetes?u=76281980&t=87)** If I look at that replica set, I will also see my old replica set, but that has zero desired already pods.
 >
@@ -1194,7 +1180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (22), [[SQL]] (3), data (2), database (2), [[Kubernetes]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (22), [[SQL]] (3), [[Kubernetes]] (2), [[Databases]] (1)
 > **Env Vars:** sql (25), pvc (5), nfs (4), yaml (2), mssql (2)
 > **CLI Commands:** kubectl (4), make (1), cp (1), docker (1), node (1)
 > **Analogies:** for example (3), just like (1)
@@ -1203,12 +1189,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Integrating SQL Server on Kubernetes with Active Directory
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-kubernetes-with-active-directory?u=76281980)
+#### [Integrating SQL Server on Kubernetes with Active Directory](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-kubernetes-with-active-directory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-kubernetes-with-active-directory?u=76281980&t=0)** - [Instructor] To deploy an AD integrated SQL server porting Kubernetes, we will use a config map again, and this will all be in one file.
+> **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-kubernetes-with-active-directory?u=76281980&t=0)** - [Instructor] To deploy an AD integrated [[Microsoft SQL Server|SQL server]] porting [[Kubernetes]], we will use a config map again, and this will all be in one file.
 >
 > **[0:07](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-kubernetes-with-active-directory?u=76281980&t=7)** So if we take a look at that file, the first thing you see is I'm deploying this as a StatefulSet rather than a deployment, and you're going to see why in a second.
 >
@@ -1254,7 +1239,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-kubernetes-with-active-directory?u=76281980&t=141)** Just like we did in Docker, we'll need a new keytab file, and that file again needs to be created on a machine that is AD integrated.
 >
-> **[2:28](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-kubernetes-with-active-directory?u=76281980&t=148)** I (indistinct) into my SQL Linux host.
+> **[2:28](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-kubernetes-with-active-directory?u=76281980&t=148)** I (indistinct) into my [[SQL]] [[Linux]] host.
 >
 > **[2:31](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-kubernetes-with-active-directory?u=76281980&t=151)** I remove my old keytab file.
 >
@@ -1276,7 +1261,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-kubernetes-with-active-directory?u=76281980&t=219)** That will also make sure that this new pod actually picks up on the keytab file that I copied on there of earlier.
 >
-> **[3:45](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-kubernetes-with-active-directory?u=76281980&t=225)** I can then authorize my Windows user and connect using SQL authentication.
+> **[3:45](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-kubernetes-with-active-directory?u=76281980&t=225)** I can then authorize my [[Windows]] user and connect using SQL authentication.
 >
 > **[3:50](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/integrating-sql-server-on-kubernetes-with-active-directory?u=76281980&t=230)** Just like we did on Docker, I could also have created a logger.ini file, and copied it to the pod for debugging if needed.
 >
@@ -1284,21 +1269,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (5), data (3), [[Kubernetes]] (2), [[SQL]] (2), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (2), [[SQL]] (2), [[Linux]] (2), [[Microsoft SQL Server|Sql server]] (1), [[Windows]] (1)
 > **Env Vars:** dns (5), sql (3), spn (1), ptr (1)
 > **CLI Commands:** docker (4), make (3)
 > **Analogies:** just like (4)
 > **File Paths:** logger.ini (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure Arc-enabled data services
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/azure-arc-enabled-data-services?u=76281980)
+#### [Azure Arc-enabled data services](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/azure-arc-enabled-data-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/azure-arc-enabled-data-services?u=76281980&t=0)** - [Instructor] While it's not technically SQL server, there's one more offering of SQL and Kubernetes that I would like to briefly mention, and that is Azure Arc-enabled SQL managed instance, which is basically a way to deploy a SQL-managed instance on your own infrastructure through Kubernetes, and it is part of Azure Arc-enabled data services.
+> **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/azure-arc-enabled-data-services?u=76281980&t=0)** - [Instructor] While it's not technically [[Microsoft SQL Server|SQL server]], there's one more offering of [[SQL]] and [[Kubernetes]] that I would like to briefly mention, and that is [[Microsoft Azure|Azure]] Arc-enabled SQL managed instance, which is basically a way to deploy a SQL-managed instance on your own infrastructure through Kubernetes, and it is part of Azure Arc-enabled data services.
 >
-> **[0:18](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/azure-arc-enabled-data-services?u=76281980&t=18)** All you need to do is provide your instance's parameters and settings, one of the deployment tools, which can be the Azure CLI, Kubectl, or visual tools like Azure Data Studio or even the Azure Portal.
+> **[0:18](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/azure-arc-enabled-data-services?u=76281980&t=18)** All you need to do is provide your instance's parameters and settings, one of the deployment tools, which can be the Azure [[CLI]], Kubectl, or visual tools like Azure Data Studio or even the Azure Portal.
 >
 > **[0:29](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/azure-arc-enabled-data-services?u=76281980&t=29)** A simple command like az sql mi-arc create, of course, in addition to the afore mentioned parameters, will result in the deployment of a managed instance.
 >
@@ -1314,7 +1298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[SQL]] (4), data (3), [[Kubernetes]] (2), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[SQL]] (4), [[Kubernetes]] (2), [[Microsoft SQL Server|Sql server]] (1), [[CLI]] (1)
 > **Env Vars:** sql (4), cli (1)
 > **CLI Commands:** kubectl (1), az (1)
 > **Tools:** azure portal (1)
@@ -1326,34 +1310,33 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/summary?u=76281980)
+#### [Summary](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/summary?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/summary?u=76281980&t=0)** - [Instructor] Let us take a few moments to summarize all this.
 >
-> **[0:03](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/summary?u=76281980&t=3)** Based on a platform abstraction layer, SQLPAL, Microsoft was able to ship SQL Server as an identical application on Linux as it does on Windows.
+> **[0:03](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/summary?u=76281980&t=3)** Based on a platform abstraction layer, SQLPAL, [[Microsoft]] was able to ship [[Microsoft SQL Server|SQL Server]] as an identical application on [[Linux]] as it does on [[Windows]].
 >
 > **[0:11](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/summary?u=76281980&t=11)** SQL Server on Linux is available as a standalone application that can be deployed in a variety of distributions, but also in containers, which can then be deployed standalone.
 >
-> **[0:20](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/summary?u=76281980&t=20)** for example, for Docker or an orchestrated way, for example, on Kubernetes.
+> **[0:20](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/summary?u=76281980&t=20)** for example, for Docker or an orchestrated way, for example, on [[Kubernetes]].
 >
-> **[0:25](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/summary?u=76281980&t=25)** All of these deployments methods provided the same flexibility and configuration options that you may already be using on Windows today, from a variety of storage options or features like the SQL Server Agent or active directory integration.
+> **[0:25](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/summary?u=76281980&t=25)** All of these deployments methods provided the same flexibility and configuration options that you may already be using on Windows today, from a variety of storage options or features like the SQL Server Agent or [[Active Directory]] integration.
 >
-> **[0:38](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/summary?u=76281980&t=38)** In addition to self-managed containers, you can also deploy full grown solutions like Azure Arc SQL Managed instance.
+> **[0:38](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/summary?u=76281980&t=38)** In addition to self-managed containers, you can also deploy full grown solutions like [[Microsoft Azure|Azure]] Arc [[SQL]] Managed instance.
 >
-> **[0:44](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/summary?u=76281980&t=44)** The fact that especially containers can be deployed within seconds makes them perfect candidates to be included in your CI/CD or DevOps pipelines.
+> **[0:44](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/summary?u=76281980&t=44)** The fact that especially containers can be deployed within seconds makes them perfect candidates to be included in your CI/CD or [[DevOps]] pipelines.
 >
 > **[0:52](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/summary?u=76281980&t=52)** I hope this course was useful to you and I was able to show you both the power but also the simplicity behind SQL Server and Linux or container-based deployments.
 >
-> **[1:01](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/summary?u=76281980&t=61)** If you have any more questions or feedback please reach out to me here on LinkedIn.
+> **[1:01](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/summary?u=76281980&t=61)** If you have any more questions or feedback please reach out to me here on [[LinkedIn]].
 >
 > **[1:04](https://www.linkedin.com/learning/sql-server-containerization-modern-deployment-strategies-for-data-driven-organizations/summary?u=76281980&t=64)** I'd be more than happy to hear from you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Linux]] (3), application (2), [[Windows]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Linux]] (3), [[Windows]] (2), [[Microsoft]] (1), [[Kubernetes]] (1)
 > **Env Vars:** sql (5), sqlpal (1)
 > **CLI Commands:** docker (1), cd (1)
 > **Analogies:** for example (2)

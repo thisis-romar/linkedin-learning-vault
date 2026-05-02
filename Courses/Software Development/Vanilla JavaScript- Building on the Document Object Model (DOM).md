@@ -85,14 +85,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn the JavaScript DOM inside and out
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/learn-the-javascript-dom-inside-and-out?u=76281980)
+#### [Learn the JavaScript DOM inside and out](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/learn-the-javascript-dom-inside-and-out?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/learn-the-javascript-dom-inside-and-out?u=76281980&t=0)** - This course covers the DOM interface, nodes, trees, and how to access them from JavaScript.
+> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/learn-the-javascript-dom-inside-and-out?u=76281980&t=0)** - This course covers the DOM interface, nodes, trees, and how to access them from [[JavaScript]].
 >
-> **[0:05](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/learn-the-javascript-dom-inside-and-out?u=76281980&t=5)** But it also dives deeper, showing you how the browser parses your HTML and how you can manipulate it yourself, using nothing but a text editor.
+> **[0:05](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/learn-the-javascript-dom-inside-and-out?u=76281980&t=5)** But it also dives deeper, showing you how the browser parses your [[HTML]] and how you can manipulate it yourself, using nothing but a text editor.
 >
 > **[0:12](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/learn-the-javascript-dom-inside-and-out?u=76281980&t=12)** My name is Scott Means and I started writing code while the movie "ET" was still in theaters.
 >
@@ -106,20 +105,19 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/learn-the-javascript-dom-inside-and-out?u=76281980&t=34)** But it also dives deeper showing you how the browser parses your HTML and how you can manipulate it yourself, using nothing but a text editor.
 >
-> **[0:40](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/learn-the-javascript-dom-inside-and-out?u=76281980&t=40)** If you want to understand the DOM like a framework or browser developer does, join me in my LinkedIn learning course, as we explore the Dom API, build a pretty printer, and even write our own HTML parser.
+> **[0:40](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/learn-the-javascript-dom-inside-and-out?u=76281980&t=40)** If you want to understand the DOM like a framework or browser developer does, join me in my [[LinkedIn]] learning course, as we explore the Dom API, build a pretty printer, and even write our own HTML parser.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (4), [[HTML]] (3), [[JavaScript]] (2), [[LinkedIn]] (1), api (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (2), [[LinkedIn]] (1)
 > **Env Vars:** dom (3), html (3), api (1)
 > **Speakers:** - this (1)
 
-#### Where to start
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/where-to-start?u=76281980)
+#### [Where to start](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/where-to-start?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/where-to-start?u=76281980&t=0)** - [Instructor] In order to get the most out of this course, you should be familiar with JavaScript, recursion, arrow functions, regular expressions, and just general JavaScript syntax.
+> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/where-to-start?u=76281980&t=0)** - [Instructor] In order to get the most out of this course, you should be familiar with [[JavaScript]], recursion, arrow functions, regular expressions, and just general JavaScript syntax.
 >
 > **[0:09](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/where-to-start?u=76281980&t=9)** You should also be comfortable with HTML5, custom element tags, and basic CSS syntax.
 >
@@ -129,7 +127,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), css (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Env Vars:** html5 (1), css (1)
 > **Speakers:** - [instructor] (1)
 
@@ -138,18 +136,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Node interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/the-node-interface?u=76281980)
+#### [The Node interface](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/the-node-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/the-node-interface?u=76281980&t=0)** - [Instructor] Have you ever wondered how your lovingly crafted HTML source code is transformed from a bunch of characters in a file to a fully rendered webpage in your browser?
+> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/the-node-interface?u=76281980&t=0)** - [Instructor] Have you ever wondered how your lovingly crafted [[HTML]] source code is transformed from a bunch of characters in a file to a fully rendered webpage in your browser?
 >
 > **[0:08](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/the-node-interface?u=76281980&t=8)** The truth is it's not a direct route.
 >
 > **[0:10](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/the-node-interface?u=76281980&t=10)** before the browser can figure out where and how to display everything on your webpage, it needs to construct a document tree.
 >
-> **[0:16](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/the-node-interface?u=76281980&t=16)** This process of converting your HTML to this object tree or document object model is called parsing.
+> **[0:16](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/the-node-interface?u=76281980&t=16)** This process of converting your HTML to this object tree or [[Document Object Model (DOM)|document object model]] is called parsing.
 >
 > **[0:22](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/the-node-interface?u=76281980&t=22)** Every tag, fragment of text, every comma, is parsed by the browser and stored and the resulting document tree in a node.
 >
@@ -171,7 +168,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/the-node-interface?u=76281980&t=75)** In fact, although the dom level three core standard defines 12 node types and practice, these five types are the only ones you'll encounter when doing normal things in normal HTML documents.
 >
-> **[1:26](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/the-node-interface?u=76281980&t=86)** The rest of the node types are mostly used in XML document processing.
+> **[1:26](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/the-node-interface?u=76281980&t=86)** The [[Representational State Transfer (REST)|rest]] of the node types are mostly used in XML document processing.
 >
 > **[1:29](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/the-node-interface?u=76281980&t=89)** Four of these types of part of the primary dom tree, but attribute nodes are special.
 >
@@ -191,7 +188,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (23), dom (4), [[HTML]] (3), next (2), [[Document Object Model (DOM)|Document object model]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Document Object Model (DOM)|Document object model]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (23), find (2)
 > **Env Vars:** html (3), xml (1), w3c (1)
 > **Documentation:** w3c (1)
@@ -200,8 +197,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### DOM-specific maps and lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/dom-specific-maps-and-lists?u=76281980)
+#### [DOM-specific maps and lists](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/dom-specific-maps-and-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -211,7 +207,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/dom-specific-maps-and-lists?u=76281980&t=11)** So let's show you my development environment that I've set up here.
 >
-> **[0:15](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/dom-specific-maps-and-lists?u=76281980&t=15)** Is pretty simple, I'm running the built-in Python web server.
+> **[0:15](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/dom-specific-maps-and-lists?u=76281980&t=15)** Is pretty simple, I'm running the built-in [[Python (Programming Language)|Python]] web server.
 >
 > **[0:18](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/dom-specific-maps-and-lists?u=76281980&t=18)** So I'm just going to the project folder and running python-m http.server.
 >
@@ -219,7 +215,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/dom-specific-maps-and-lists?u=76281980&t=25)** And I've got my text editor with my code loaded up here, and I'm running Chrome to view my web page.
 >
-> **[0:32](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/dom-specific-maps-and-lists?u=76281980&t=32)** So as you can see, here's the webpage, I've gone ahead and created this basic webpage that has JavaScript file being loaded and it's executing my DOMcontentLoaded event handler.
+> **[0:32](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/dom-specific-maps-and-lists?u=76281980&t=32)** So as you can see, here's the webpage, I've gone ahead and created this basic webpage that has [[JavaScript]] file being loaded and it's executing my DOMcontentLoaded event handler.
 >
 > **[0:45](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/dom-specific-maps-and-lists?u=76281980&t=45)** So the DOMcontentLoaded event handler is called as soon as your page is parsed and the DOM tree is built, but all the external resources may not have been loaded yet.
 >
@@ -235,7 +231,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/dom-specific-maps-and-lists?u=76281980&t=74)** So what I want to do in this application, I have a bunch of ingredients in my recipe, and I want to add up all of the weight, which are in this right-hand column in grams.
 >
-> **[1:22](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/dom-specific-maps-and-lists?u=76281980&t=82)** And if we look at the underlying HTML, you'll see that I have a table, and inside tbody, I have a bunch of table rows.
+> **[1:22](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/dom-specific-maps-and-lists?u=76281980&t=82)** And if we look at the underlying [[HTML]], you'll see that I have a table, and inside tbody, I have a bunch of table rows.
 >
 > **[1:30](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/dom-specific-maps-and-lists?u=76281980&t=90)** So to get access to the table rows, I'm going to use this ingredients ID.
 >
@@ -365,7 +361,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (8), [[JavaScript]] (8), dom (7), [[HTML]] (5), application (3)
+> **Frameworks & Libraries:** [[JavaScript]] (8), [[HTML]] (5), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** node (8), python (3), make (1)
 > **Env Vars:** dom (7), html (5)
 > **Code Identifiers:** foreach (4), childnodes (2), getelementbyid (1), childrenforeach (1)
@@ -374,16 +370,15 @@ created: 2026-05-02
 > **Versions:** python 3 (1)
 > **Cross-References:** go back to (1)
 
-#### Random access with querySelector()
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/random-access-with-queryselector?u=76281980)
+#### [Random access with querySelector()](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/random-access-with-queryselector?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/random-access-with-queryselector?u=76281980&t=0)** - [Instructor] Being able to efficiently locate specific elements in a complex DOM tree is one of the most frequent tasks you'll encounter when writing a vanilla JavaScript DOM application.
+> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/random-access-with-queryselector?u=76281980&t=0)** - [Instructor] Being able to efficiently locate specific elements in a complex DOM tree is one of the most frequent tasks you'll encounter when writing a [[Vanilla]] [[JavaScript]] DOM application.
 >
 > **[0:08](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/random-access-with-queryselector?u=76281980&t=8)** Thanks to the W3C selectors recommendation, we can quickly sift through our DOM tree to access the elements we need.
 >
-> **[0:14](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/random-access-with-queryselector?u=76281980&t=14)** To make it easier to experiment with selectors, we'll build a simple query selector application that'll let us load some HTML, and then run querySelectorAll against it.
+> **[0:14](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/random-access-with-queryselector?u=76281980&t=14)** To make it easier to experiment with selectors, we'll build a simple query selector application that'll let us load some [[HTML]], and then run querySelectorAll against it.
 >
 > **[0:21](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/random-access-with-queryselector?u=76281980&t=21)** We'll be starting from a base application that can load HTML into our page.
 >
@@ -419,7 +414,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/random-access-with-queryselector?u=76281980&t=103)** So now that we have a way to insert some DOM content into our page, I want to be able to type in a selector and pass it directly to querySelectorAll, so I'm going to go back to my HTML, and I'm going to create a form that will allow me to type in a selector and then execute it.
 >
-> **[1:59](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/random-access-with-queryselector?u=76281980&t=119)** And I tend to use forms a lot, because the browser has really great support for forms.
+> **[1:59](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/random-access-with-queryselector?u=76281980&t=119)** And I tend to use [[Forms]] a lot, because the browser has really great support for forms.
 >
 > **[2:03](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/random-access-with-queryselector?u=76281980&t=123)** It gives you a lot of behaviors for free, kind of.
 >
@@ -603,7 +598,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (9), dom (8), application (4), [[Forms]] (4), hit (3)
+> **Frameworks & Libraries:** [[HTML]] (9), [[Forms]] (4), [[Vanilla]] (2), [[JavaScript]] (2)
 > **Code Identifiers:** queryselectorall (10), queryselector (4), innerhtml (3), refreshoutput (1), foreach (1)
 > **Env Vars:** dom (8), html (8), w3c (2), html5 (1)
 > **CLI Commands:** find (6), make (3)
@@ -612,18 +607,17 @@ created: 2026-05-02
 > **Documentation:** w3c (2), stack overflow (1)
 > **Definitions:** is called (2), is a  (1)
 
-#### CRUD in the DOM
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/crud-in-the-dom?u=76281980)
+#### [CRUD in the DOM](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/crud-in-the-dom?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/crud-in-the-dom?u=76281980&t=0)** - [Instructor] CRUD is one of those acronyms that make you laugh the first time you hear it, but you remember it for the rest of your career.
+> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/crud-in-the-dom?u=76281980&t=0)** - [Instructor] CRUD is one of those acronyms that make you laugh the first time you hear it, but you remember it for the [[Representational State Transfer (REST)|rest]] of your career.
 >
 > **[0:05](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/crud-in-the-dom?u=76281980&t=5)** Create, read, update, and delete are the four basic operations for almost every UI-driven application.
 >
 > **[0:12](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/crud-in-the-dom?u=76281980&t=12)** We'll base our credit application on the querySelector testbed application we built in the previous video.
 >
-> **[0:17](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/crud-in-the-dom?u=76281980&t=17)** That allowed us to type or paste arbitrary HTML source code into this webpage, have it be parsed, and then run querySelectorAll on it.
+> **[0:17](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/crud-in-the-dom?u=76281980&t=17)** That allowed us to type or paste arbitrary [[HTML]] source code into this webpage, have it be parsed, and then run querySelectorAll on it.
 >
 > **[0:25](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/crud-in-the-dom?u=76281980&t=25)** And to demonstrate again, I'm going to use Donald Knuth's biography from Wikipedia.
 >
@@ -633,7 +627,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/crud-in-the-dom?u=76281980&t=34)** I'm going to copy the source code, back, and paste it into my page.
 >
-> **[0:38](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/crud-in-the-dom?u=76281980&t=38)** And so now, like I said, I can fetch all the image tags or all the P tags.
+> **[0:38](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/crud-in-the-dom?u=76281980&t=38)** And so now, like I said, I can [[Fetch]] all the image tags or all the P tags.
 >
 > **[0:43](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/crud-in-the-dom?u=76281980&t=43)** And so now that I can do that, the first operation I want to implement is delete.
 >
@@ -659,11 +653,11 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/crud-in-the-dom?u=76281980&t=86)** So the next thing we need to do is actually intercept the event when the user clicks on delete.
 >
-> **[1:33](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/crud-in-the-dom?u=76281980&t=93)** So to do that, we're going to go back into our JavaScript file here, queryall.js.
+> **[1:33](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/crud-in-the-dom?u=76281980&t=93)** So to do that, we're going to go back into our [[JavaScript]] file here, queryall.js.
 >
 > **[1:37](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/crud-in-the-dom?u=76281980&t=97)** And similarly, to the way we handled these other events, we're going to add a new event handler here in our content loaded processing logic.
 >
-> **[1:46](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/crud-in-the-dom?u=76281980&t=106)** And we're going to once again, grab a hold of that form, document.forms.queryall.
+> **[1:46](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/crud-in-the-dom?u=76281980&t=106)** And we're going to once again, grab a hold of that form, document.[[Forms]].queryall.
 >
 > **[1:53](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/crud-in-the-dom?u=76281980&t=113)** And we're going to add an event listener on the form itself.
 >
@@ -883,11 +877,11 @@ created: 2026-05-02
 >
 > **[9:00](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/crud-in-the-dom?u=76281980&t=540)** The create, read, update, and delete functions that you can do with a DOM.
 >
-> **[9:03](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/crud-in-the-dom?u=76281980&t=543)** Now, thanks to CRUD, we have all the building blocks we need to tackle some more ambitious applications using vanilla JavaScript and the DOM.
+> **[9:03](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/crud-in-the-dom?u=76281980&t=543)** Now, thanks to CRUD, we have all the building blocks we need to tackle some more ambitious applications using [[Vanilla]] JavaScript and the DOM.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (6), node (5), application (3), [[HTML]] (3), next (2)
+> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (2), [[Forms]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Fetch]] (1)
 > **Code Identifiers:** deletematches (7), queryselectorall (4), innertext (3), parentelement (3), textifymatches (3)
 > **Env Vars:** dom (6), crud (4), html (3), img (1)
 > **CLI Commands:** find (5), node (5), make (3)
@@ -896,8 +890,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **File Paths:** queryall.js (1)
 
-#### Challenge: queryAll++
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/challenge-queryall-plus-plus?u=76281980)
+#### [Challenge: queryAll++](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/challenge-queryall-plus-plus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -929,15 +922,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), feature (2), dom (1)
 > **Env Vars:** dom (1), html5 (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** queryselector (1)
 > **Speakers:** - so (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: queryAll++
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-queryall-plus-plus?u=76281980)
+#### [Solution: queryAll++](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-queryall-plus-plus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -957,7 +948,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-queryall-plus-plus?u=76281980&t=33)** So, you know, that class list that's the CSS class list add match, so I added a match.
 >
-> **[0:42](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-queryall-plus-plus?u=76281980&t=42)** And then to make it visible, let's go back into our HTML inline style sheet here.
+> **[0:42](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-queryall-plus-plus?u=76281980&t=42)** And then to make it visible, let's go back into our [[HTML]] inline style sheet here.
 >
 > **[0:47](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-queryall-plus-plus?u=76281980&t=47)** And I added any new rule and it is match, and I made background gold and I added a small bit of padding because some elements the background's not visible at all, so I made a one point pad around that so we can see it.
 >
@@ -991,7 +982,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-queryall-plus-plus?u=76281980&t=138)** So details, and the use summary inside that to the summary is what's going to be displayed all the time, so we'll just show our label all the time and save that.
 >
-> **[2:30](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-queryall-plus-plus?u=76281980&t=150)** Now let's go back into our JavaScript code and to refresh query.
+> **[2:30](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-queryall-plus-plus?u=76281980&t=150)** Now let's go back into our [[JavaScript]] code and to refresh query.
 >
 > **[2:33](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-queryall-plus-plus?u=76281980&t=153)** And what we're going to do, is essentially we're going to find all of the elements that have the match class.
 >
@@ -1021,11 +1012,11 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-queryall-plus-plus?u=76281980&t=224)** And also you'll notice that my matches are in here, they're just collapsed, which is nice, you don't want to see all that.
 >
-> **[3:50](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-queryall-plus-plus?u=76281980&t=230)** So, that's it, and so if you had a different solution or had questions about my answer, you can ask questions through the LinkedIn learning website and I'd love to hear what you think and what you did.
+> **[3:50](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-queryall-plus-plus?u=76281980&t=230)** So, that's it, and so if you had a different solution or had questions about my answer, you can ask questions through the [[LinkedIn]] learning website and I'd love to hear what you think and what you did.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), css (3), [[Search]] (3), feature (1), application (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[JavaScript]] (1), [[LinkedIn]] (1)
 > **Env Vars:** html (4), css (3)
 > **CLI Commands:** find (3), make (2)
 > **Cross-References:** go back to (2)
@@ -1039,8 +1030,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where does the DOM come from?
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/where-does-the-dom-come-from?u=76281980)
+#### [Where does the DOM come from?](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/where-does-the-dom-come-from?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1050,7 +1040,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/where-does-the-dom-come-from?u=76281980&t=12)** Having a good working knowledge of how lower-level systems work will always make your high-level code better.
 >
-> **[0:16](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/where-does-the-dom-come-from?u=76281980&t=16)** To really get acquainted with the relationship between HTML and the DOM, we're going to build an HTML pretty printer.
+> **[0:16](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/where-does-the-dom-come-from?u=76281980&t=16)** To really get acquainted with the relationship between [[HTML]] and the DOM, we're going to build an HTML pretty printer.
 >
 > **[0:22](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/where-does-the-dom-come-from?u=76281980&t=22)** So I've already developed a basic skeleton application here.
 >
@@ -1064,7 +1054,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/where-does-the-dom-come-from?u=76281980&t=39)** I have a custom element that I'm using for the output.
 >
-> **[0:43](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/where-does-the-dom-come-from?u=76281980&t=43)** And if we look at this JavaScript file, pretty parsed JS, I'm intercepting the DOMContentLoaded event, and I'm adding an input listener to that text area.
+> **[0:43](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/where-does-the-dom-come-from?u=76281980&t=43)** And if we look at this [[JavaScript]] file, pretty parsed JS, I'm intercepting the DOMContentLoaded event, and I'm adding an input listener to that text area.
 >
 > **[0:51](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/where-does-the-dom-come-from?u=76281980&t=51)** So when it changes, then I call this refreshOutput function and it is parsing the HTML that I got from the text area through the value property.
 >
@@ -1080,7 +1070,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/where-does-the-dom-come-from?u=76281980&t=81)** And so let's go ahead and go back over to our app.
 >
-> **[1:25](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/where-does-the-dom-come-from?u=76281980&t=85)** And actually, first I'm going to show you, I'm using the standard set up I've been using for the rest of this course where I'm using the Python built-in web server to host this, so nothing fancy.
+> **[1:25](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/where-does-the-dom-come-from?u=76281980&t=85)** And actually, first I'm going to show you, I'm using the standard set up I've been using for the [[Representational State Transfer (REST)|rest]] of this course where I'm using the [[Python (Programming Language)|Python]] built-in web server to host this, so nothing fancy.
 >
 > **[1:34](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/where-does-the-dom-come-from?u=76281980&t=94)** And we're going to go back in here and let's go ahead and type in something.
 >
@@ -1130,7 +1120,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (9), application (3), [[JavaScript]] (3), node (3), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[HTML]] (9), [[JavaScript]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** html (9), html5 (3), dom (1)
 > **CLI Commands:** node (3), make (1), python (1), find (1)
 > **Exercise Files:** source code (2)
@@ -1138,12 +1128,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### DIY HTML parsing
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/diy-html-parsing?u=76281980)
+#### [DIY HTML parsing](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/diy-html-parsing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/diy-html-parsing?u=76281980&t=0)** - [Instructor] Writing the code to convert human readable HTML source code into a browser friendly DOM tree structure, can seem overwhelming at first.
+> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/diy-html-parsing?u=76281980&t=0)** - [Instructor] Writing the code to convert human readable [[HTML]] source code into a browser friendly DOM tree structure, can seem overwhelming at first.
 >
 > **[0:07](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/diy-html-parsing?u=76281980&t=7)** There are many different approaches that can be taken, but one of the simplest to understand is a recursive descent parser.
 >
@@ -1155,7 +1144,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/diy-html-parsing?u=76281980&t=28)** While our parser could technically be built to read the input text one character at a time like a file, most real-world parsers use what is called a lexical analyzer or a lexer to make things simpler.
 >
-> **[0:38](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/diy-html-parsing?u=76281980&t=38)** A lexer is like a smart file interface, but instead of just returning single characters, it can recognize and return groups of characters called tokens.
+> **[0:38](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/diy-html-parsing?u=76281980&t=38)** A lexer is like a smart file interface, but instead of just returning single characters, it can recognize and return groups of characters called [[Tokens]].
 >
 > **[0:46](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/diy-html-parsing?u=76281980&t=46)** So our parseContent function will be able to peek at the next content to be read from our source file and delegate parsing to a more specific parsing function, which in turn may recursively call another parsing function.
 >
@@ -1163,13 +1152,13 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/diy-html-parsing?u=76281980&t=65)** So our plan is to write a top level parsing function called prettyParse, which will use a lexer object to read our HTML source code, and then return a completed DOM tree structure.
 >
-> **[1:15](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/diy-html-parsing?u=76281980&t=75)** To do that, we'll be making use of JavaScript classes, lambdas and regular expressions.
+> **[1:15](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/diy-html-parsing?u=76281980&t=75)** To do that, we'll be making use of [[JavaScript]] classes, lambdas and regular expressions.
 >
 > **[1:18](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/diy-html-parsing?u=76281980&t=78)** So let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), dom (2), [[Tokens]] (1), next (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Tokens]] (1), [[JavaScript]] (1)
 > **Env Vars:** html (5), dom (2)
 > **Definitions:** is a  (2), is called (1)
 > **Code Identifiers:** parsecontent (1), prettyparse (1)
@@ -1178,8 +1167,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a firm foundation: The lexer
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/building-a-firm-foundation-the-lexer?u=76281980)
+#### [Building a firm foundation: The lexer](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/building-a-firm-foundation-the-lexer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1189,7 +1177,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/building-a-firm-foundation-the-lexer?u=76281980&t=12)** And we're going to be working from the pretty parser code base that was introduced in an earlier video, for the most part.
 >
-> **[0:17](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/building-a-firm-foundation-the-lexer?u=76281980&t=17)** So once again, it's just a simple HTML page.
+> **[0:17](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/building-a-firm-foundation-the-lexer?u=76281980&t=17)** So once again, it's just a simple [[HTML]] page.
 >
 > **[0:20](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/building-a-firm-foundation-the-lexer?u=76281980&t=20)** It's got a text area on it that allows us to type in or paste HTML.
 >
@@ -1303,7 +1291,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/building-a-firm-foundation-the-lexer?u=76281980&t=280)** Now one of the most common operations you need to do while parsing is to match the text that's currently under the file pointers.
 >
-> **[4:46](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/building-a-firm-foundation-the-lexer?u=76281980&t=286)** So if you can picture it, the rest of the text that you haven't parsed yet against a sequence of characters or a regular expression.
+> **[4:46](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/building-a-firm-foundation-the-lexer?u=76281980&t=286)** So if you can picture it, the [[Representational State Transfer (REST)|rest]] of the text that you haven't parsed yet against a sequence of characters or a regular expression.
 >
 > **[4:51](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/building-a-firm-foundation-the-lexer?u=76281980&t=291)** So we're going to write a new method called match.
 >
@@ -1391,7 +1379,7 @@ created: 2026-05-02
 >
 > **[8:11](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/building-a-firm-foundation-the-lexer?u=76281980&t=491)** But if it's a regular expression, it could be more than one.
 >
-> **[8:14](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/building-a-firm-foundation-the-lexer?u=76281980&t=494)** So we're going to say if the length is truthy as well, and match index, if it matches the entire expression, so a lot of this doesn't make sense unless you dig into regular expressions and matching capturing groups, which unfortunately we don't have time to show all of in this course, but there's a course on LinkedIn I believe about regular expressions and matching.
+> **[8:14](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/building-a-firm-foundation-the-lexer?u=76281980&t=494)** So we're going to say if the length is truthy as well, and match index, if it matches the entire expression, so a lot of this doesn't make sense unless you dig into regular expressions and matching capturing groups, which unfortunately we don't have time to show all of in this course, but there's a course on [[LinkedIn]] I believe about regular expressions and matching.
 >
 > **[8:34](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/building-a-firm-foundation-the-lexer?u=76281980&t=514)** So if you're not familiar with regular expressions, it's definitely worth checking out.
 >
@@ -1493,7 +1481,7 @@ created: 2026-05-02
 >
 > **[12:55](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/building-a-firm-foundation-the-lexer?u=76281980&t=775)** We're going to read until we don't match a regular expression.
 >
-> **[12:58](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/building-a-firm-foundation-the-lexer?u=76281980&t=778)** And the regular expression we want is word character.
+> **[12:58](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/building-a-firm-foundation-the-lexer?u=76281980&t=778)** And the regular expression we want is [[Microsoft Word|word]] character.
 >
 > **[13:01](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/building-a-firm-foundation-the-lexer?u=76281980&t=781)** So we're going to use w, so basically until we match a non-word character, we will keep reading.
 >
@@ -1547,7 +1535,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (8), next (5), [[Search]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[HTML]] (8), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Word|Word]] (2), [[LinkedIn]] (1)
 > **Env Vars:** html (8), eof (5)
 > **Exercise Files:** source code (7)
 > **CLI Commands:** make (4)
@@ -1556,8 +1544,7 @@ created: 2026-05-02
 > **Analogies:** just like (1), picture (1), for example (1)
 > **Prerequisites:** before we start (1)
 
-#### Parsing text
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-text?u=76281980)
+#### [Parsing text](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1565,7 +1552,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-text?u=76281980&t=4)** So the first thing we're going to do, I'm going to go back into my editor and I have the same setup as before, I have my text editor here.
 >
-> **[0:10](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-text?u=76281980&t=10)** I'm running the Python built-in web server in my Chapter 2\02_04 project folder.
+> **[0:10](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-text?u=76281980&t=10)** I'm running the [[Python (Programming Language)|Python]] built-in web server in my Chapter 2\02_04 project folder.
 >
 > **[0:16](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-text?u=76281980&t=16)** And I am using Chrome here to browse.
 >
@@ -1577,7 +1564,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-text?u=76281980&t=32)** And I'm going to write my prettyParse function.
 >
-> **[0:34](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-text?u=76281980&t=34)** So function prettyParse, and it's going to accept HTML.
+> **[0:34](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-text?u=76281980&t=34)** So function prettyParse, and it's going to accept [[HTML]].
 >
 > **[0:37](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-text?u=76281980&t=37)** And in the end it will be returning a DOM.
 >
@@ -1645,7 +1632,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (7), node (3), dom (2), next (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** prettyparse (8), parsecontent (5), appendchild (2), flushtext (2), createdocumentfragment (1)
 > **Env Vars:** html (7), dom (2)
 > **CLI Commands:** node (3), python (1)
@@ -1654,12 +1641,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1), - and (1)
 > **Prerequisites:** setup (1)
 
-#### Parsing comments
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-comments?u=76281980)
+#### [Parsing comments](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-comments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-comments?u=76281980&t=0)** - Now that we have a basic parsing loop implemented, we need to start recognizing different types of HTML markup.
+> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-comments?u=76281980&t=0)** - Now that we have a basic parsing loop implemented, we need to start recognizing different types of [[HTML]] markup.
 >
 > **[0:05](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-comments?u=76281980&t=5)** And the simplest type of markup to recognize is the HTML comments. So let's start there.
 >
@@ -1691,7 +1677,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-comments?u=76281980&t=87)** So we're going to write this new private function up here called option parse comment and parse comment will first we'll get the comment text.
 >
-> **[1:37](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-comments?u=76281980&t=97)** So the comment text is going to be everything between those two tokens, right?
+> **[1:37](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-comments?u=76281980&t=97)** So the comment text is going to be everything between those two [[Tokens]], right?
 >
 > **[1:42](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-comments?u=76281980&t=102)** So we're going to use lexer read until again, and it accepts the lexer as an argument on the callback.
 >
@@ -1729,13 +1715,13 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-comments?u=76281980&t=181)** So it's going to do that. Sorry.
 >
-> **[3:02](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-comments?u=76281980&t=182)** So I'm in my project folder, Python dash M HTTP dot server and there it goes.
+> **[3:02](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-comments?u=76281980&t=182)** So I'm in my project folder, [[Python (Programming Language)|Python]] dash M HTTP dot server and there it goes.
 >
 > **[3:07](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-comments?u=76281980&t=187)** So let's go back into the browser.
 >
 > **[3:10](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-comments?u=76281980&t=190)** And now we can look in here and we'll see, there is my comment node.
 >
-> **[3:15](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-comments?u=76281980&t=195)** And then there is a big old text node with the rest of my source code, just as a simple text right now.
+> **[3:15](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-comments?u=76281980&t=195)** And then there is a big old text node with the [[Representational State Transfer (REST)|rest]] of my source code, just as a simple text right now.
 >
 > **[3:19](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-comments?u=76281980&t=199)** So now we can recognize texts and comments. That's great.
 >
@@ -1749,7 +1735,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), node (3), dom (2), [[Tokens]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Tokens]] (1), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (3), find (2), make (1), python (1)
 > **Env Vars:** html (4), http (1)
 > **Cross-References:** go back to (2)
@@ -1757,12 +1743,11 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Speakers:** - now (1)
 
-#### Parsing elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-elements?u=76281980)
+#### [Parsing elements](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-elements?u=76281980&t=0)** - [Instructor] Now, parsing element content is the most complex task we need to do to complete our HTML parser.
+> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-elements?u=76281980&t=0)** - [Instructor] Now, parsing element content is the most complex task we need to do to complete our [[HTML]] parser.
 >
 > **[0:05](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-elements?u=76281980&t=5)** This is because some elements have no closed tag, some attributes have no values, and many elements have nested element content.
 >
@@ -1770,7 +1755,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-elements?u=76281980&t=16)** So once again, our development environment is very simplistic.
 >
-> **[0:19](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-elements?u=76281980&t=19)** We're going to be using the Python built-in web server.
+> **[0:19](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-elements?u=76281980&t=19)** We're going to be using the [[Python (Programming Language)|Python]] built-in web server.
 >
 > **[0:21](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-elements?u=76281980&t=21)** So Python dash M http server that's comes with Python three in our project folder, and we're going to be using Chrome as our browser.
 >
@@ -1850,7 +1835,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-elements?u=76281980&t=219)** It has no content.
 >
-> **[3:40](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-elements?u=76281980&t=220)** Then most definitely followed by a greater than sign, which means with the end of the open tag, and these two slashes basically delimit this whole thing as a regular expression in JavaScript.
+> **[3:40](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-elements?u=76281980&t=220)** Then most definitely followed by a greater than sign, which means with the end of the open tag, and these two slashes basically delimit this whole thing as a regular expression in [[JavaScript]].
 >
 > **[3:49](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-elements?u=76281980&t=229)** So now we've got all of our closing parentheses there.
 >
@@ -1934,7 +1919,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), [[Python (Programming Language)|Python]] (3), web (1), next (1), node (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Python (Programming Language)|Python]] (3), [[JavaScript]] (1)
 > **Env Vars:** html (4), tbd (2)
 > **CLI Commands:** python (3), node (1), make (1)
 > **Analogies:** for example (2), kind of like (1), similar to (1), picture (1)
@@ -1943,14 +1928,13 @@ created: 2026-05-02
 > **Tools:** atom (1)
 > **Exercise Files:** source code (1)
 
-#### Parsing attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-attributes?u=76281980)
+#### [Parsing attributes](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-attributes?u=76281980&t=0)** - [Instructor] So we're on the home stretch with our home grown HTML parser now.
+> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-attributes?u=76281980&t=0)** - [Instructor] So we're on the home stretch with our home grown [[HTML]] parser now.
 >
-> **[0:03](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-attributes?u=76281980&t=3)** The last thing we need to implement is attribute parsing, So let's go back to our source code again, and once again, I'm running the Python web server here, that's included with Python 3, so I'm running it in my Project folder.
+> **[0:03](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-attributes?u=76281980&t=3)** The last thing we need to implement is attribute parsing, So let's go back to our source code again, and once again, I'm running the [[Python (Programming Language)|Python]] web server here, that's included with Python 3, so I'm running it in my Project folder.
 >
 > **[0:16](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/parsing-attributes?u=76281980&t=16)** So back here in the editor, you'll see that we previously left a TBD comment in here somewhere.
 >
@@ -2124,7 +2108,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (4), next (4), [[HTML]] (3), [[Python (Programming Language)|Python]] (2), web (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** parseattribute (4), createattribute (2), readuntil (2), parsecontent (1), setattributenode (1)
 > **CLI Commands:** node (4), python (2), make (1)
 > **Env Vars:** html (3), tbd (1), href (1), html5 (1)
@@ -2133,8 +2117,7 @@ created: 2026-05-02
 > **Versions:** python 3 (1)
 > **Documentation:** spec (1)
 
-#### Challenge: Void elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/challenge-void-elements?u=76281980)
+#### [Challenge: Void elements](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/challenge-void-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2142,7 +2125,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/challenge-void-elements?u=76281980&t=6)** - [Instructor] I have a confession to make.
 >
-> **[0:07](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/challenge-void-elements?u=76281980&t=7)** We didn't really build an HTML parser.
+> **[0:07](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/challenge-void-elements?u=76281980&t=7)** We didn't really build an [[HTML]] parser.
 >
 > **[0:10](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/challenge-void-elements?u=76281980&t=10)** It's really more of an XHTML parser and the reason is that it doesn't recognize void elements.
 >
@@ -2166,15 +2149,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (3), [[HTML]] (2), application (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Env Vars:** html (2), xhtml (2), w3c (1)
 > **CLI Commands:** make (2)
 > **Documentation:** w3c (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat techno music) (1)
 
-#### Solution: Void elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-void-elements?u=76281980)
+#### [Solution: Void elements](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-void-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2184,7 +2166,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-void-elements?u=76281980&t=10)** So we were given a link to the W3C site where a list of valid void elements can be found, so.
 >
-> **[0:16](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-void-elements?u=76281980&t=16)** We're going to start by getting that list and we're going to turn it into a JavaScript array.
+> **[0:16](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-void-elements?u=76281980&t=16)** We're going to start by getting that list and we're going to turn it into a [[JavaScript]] array.
 >
 > **[0:21](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-void-elements?u=76281980&t=21)** Now, this is a very common task you'll run into a lot.
 >
@@ -2192,7 +2174,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-void-elements?u=76281980&t=26)** This is once again a good use of regular expression.
 >
-> **[0:29](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-void-elements?u=76281980&t=29)** So if you'll find, I'm in my editor here, I'm going to look for words or tokens, you know, by looking for any one or more word characters, and I'm just going to replace it with a single quoted version of that.
+> **[0:29](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-void-elements?u=76281980&t=29)** So if you'll find, I'm in my editor here, I'm going to look for words or [[Tokens]], you know, by looking for any one or more [[Microsoft Word|word]] characters, and I'm just going to replace it with a single quoted version of that.
 >
 > **[0:43](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-void-elements?u=76281980&t=43)** So now you'll see, I have a good list of void element names.
 >
@@ -2250,11 +2232,11 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-void-elements?u=76281980&t=174)** And that concludes our work on the parser.
 >
-> **[2:56](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-void-elements?u=76281980&t=176)** And so in the next chapter, we're going to use this parser to build an HTML Pretty Printer that will create attractive output from our HTML source code.
+> **[2:56](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-void-elements?u=76281980&t=176)** And so in the next chapter, we're going to use this parser to build an [[HTML]] Pretty Printer that will create attractive output from our HTML source code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[HTML]] (2), [[JavaScript]] (1), [[Tokens]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[JavaScript]] (1), [[Tokens]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** parseelement (2), voidelements (2), voidelement (2)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** html (2), w3c (1)
@@ -2268,12 +2250,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Traversing the tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/traversing-the-tree?u=76281980)
+#### [Traversing the tree](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/traversing-the-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/traversing-the-tree?u=76281980&t=0)** - [Instructor] Before starting work on our HTML pretty printer, let's do a quick review of tree traversal algorithms.
+> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/traversing-the-tree?u=76281980&t=0)** - [Instructor] Before starting work on our [[HTML]] pretty printer, let's do a quick review of tree traversal [[Algorithms]].
 >
 > **[0:05](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/traversing-the-tree?u=76281980&t=5)** We'll be using this odd, but perfectly valid, HTML snippet, which is parsed into this DOM tree.
 >
@@ -2325,22 +2306,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (6), dom (5), [[HTML]] (4), [[Algorithms]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Algorithms]] (1)
 > **Env Vars:** dom (5), html (4)
 > **CLI Commands:** node (6), make (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a pretty printer
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/building-a-pretty-printer?u=76281980)
+#### [Building a pretty printer](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/building-a-pretty-printer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/building-a-pretty-printer?u=76281980&t=0)** - [Instructor] So as a quick refresher, the goal of our pretty printer application is to transform boring HTML source code like this into attractive, colorful source code like this.
+> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/building-a-pretty-printer?u=76281980&t=0)** - [Instructor] So as a quick refresher, the goal of our pretty printer application is to transform boring [[HTML]] source code like this into attractive, colorful source code like this.
 >
 > **[0:09](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/building-a-pretty-printer?u=76281980&t=9)** The way we'll accomplish this is by doing a recursive transformation of our input DOM tree into a fully annotated output tree.
 >
-> **[0:17](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/building-a-pretty-printer?u=76281980&t=17)** This is a little overwhelming so let's zoom in for a closer look.
+> **[0:17](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/building-a-pretty-printer?u=76281980&t=17)** This is a little overwhelming so let's [[Zoom]] in for a closer look.
 >
 > **[0:21](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/building-a-pretty-printer?u=76281980&t=21)** Take this comment markup.
 >
@@ -2362,7 +2342,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (4), node (2), application (1), [[HTML]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Zoom]] (1)
 > **Env Vars:** dom (4), html (1), css (1)
 > **CLI Commands:** node (2)
 > **Exercise Files:** source code (2)
@@ -2370,22 +2350,21 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Processing document fragments
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/processing-document-fragments?u=76281980)
+#### [Processing document fragments](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/processing-document-fragments?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/processing-document-fragments?u=76281980&t=0)** - [Instructor] Sometimes getting started with a new project is the hardest part.
 >
-> **[0:03](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/processing-document-fragments?u=76281980&t=3)** Writing an entire HTML Pretty Printer sounds complex but each step in the process is actually pretty simple.
+> **[0:03](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/processing-document-fragments?u=76281980&t=3)** Writing an entire [[HTML]] Pretty Printer sounds complex but each step in the process is actually pretty simple.
 >
 > **[0:10](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/processing-document-fragments?u=76281980&t=10)** So let's go ahead and get started.
 >
 > **[0:11](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/processing-document-fragments?u=76281980&t=11)** My development environment, once again is very basic.
 >
-> **[0:13](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/processing-document-fragments?u=76281980&t=13)** It's a Python web server running in the project folder.
+> **[0:13](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/processing-document-fragments?u=76281980&t=13)** It's a [[Python (Programming Language)|Python]] web server running in the project folder.
 >
-> **[0:17](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/processing-document-fragments?u=76281980&t=17)** You can find that in the GitHub repo for this course.
+> **[0:17](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/processing-document-fragments?u=76281980&t=17)** You can find that in the [[GitHub]] repo for this course.
 >
 > **[0:19](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/processing-document-fragments?u=76281980&t=19)** I'm using Chrome as my browser and I'm using Atom as my editor and you can obviously use whatever tools you like better.
 >
@@ -2475,7 +2454,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (14), dom (4), [[HTML]] (2), css (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Python (Programming Language)|Python]] (1), [[GitHub]] (1)
 > **Code Identifiers:** prettyprint (8), refreshoutput (2), nodetype (2), printchildnodes (2), clonenode (1)
 > **CLI Commands:** node (14), python (1), find (1), make (1)
 > **Env Vars:** dom (4), document_fragment_node (3), html (2), css (2)
@@ -2484,8 +2463,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** github repo (1)
 
-#### Processing comments
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/processing-comments?u=76281980)
+#### [Processing comments](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/processing-comments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2537,7 +2515,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/processing-comments?u=76281980&t=95)** We'll call it, pretty parsed dot CSS.
 >
-> **[1:38](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/processing-comments?u=76281980&t=98)** Now we have to add a reference to that CSS file to our HTML file, and I'll be honest, I have to look the syntax up every single time.
+> **[1:38](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/processing-comments?u=76281980&t=98)** Now we have to add a reference to that CSS file to our [[HTML]] file, and I'll be honest, I have to look the syntax up every single time.
 >
 > **[1:45](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/processing-comments?u=76281980&t=105)** It's been 20 years and it's so hard to remember, but REL equals a style sheet and then type equals text CSS.
 >
@@ -2577,15 +2555,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (12), css (10), dom (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** node (12), make (2)
 > **Env Vars:** css (10), dom (2), html (1), rel (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - one (1)
 
-#### Processing elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/processing-elements?u=76281980)
+#### [Processing elements](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/processing-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2593,7 +2570,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/processing-elements?u=76281980&t=3)** Now element Nodes are complex because they can not only contain other Nodes, but they may also have attribute Nodes that need formatting.
 >
-> **[0:10](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/processing-elements?u=76281980&t=10)** This is a typical HTML element in a element, it has an open tag which contains an attribute, it has some nested content, in this case, a text node, `and a close tag.
+> **[0:10](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/processing-elements?u=76281980&t=10)** This is a typical [[HTML]] element in a element, it has an open tag which contains an attribute, it has some nested content, in this case, a text node, `and a close tag.
 >
 > **[0:22](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/processing-elements?u=76281980&t=22)** to represent all this in our pretty printer, we'll use some custom tags that will allow us to format the different parts of the element on the screen.
 >
@@ -2753,7 +2730,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (7), next (6), css (3), [[HTML]] (2), web (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Code Identifiers:** createelement (3), tagname (2), nodename (2), opentag (2), appendchild (2)
 > **CLI Commands:** node (7), make (1)
 > **Env Vars:** css (3), html (2), tbd (2), element_node (1)
@@ -2762,8 +2739,7 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
 
-#### Processing element attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/processing-element-attributes?u=76281980)
+#### [Processing element attributes](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/processing-element-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2881,7 +2857,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (14), css (2)
 > **Code Identifiers:** attrvalue (7), attrname (6), createelement (3), nodevalue (2), foreach (1)
 > **CLI Commands:** node (14), make (1)
 > **Env Vars:** tbd (2), css (2), attribute_node (1), ca6836 (1)
@@ -2889,13 +2864,13 @@ created: 2026-05-02
 > **Non-Speech:** (keyboard typing) (2)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** source code (1)
+> **Definitions:** means that (1)
 
-#### Handling text and cleanup
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/handling-text-and-cleanup?u=76281980)
+#### [Handling text and cleanup](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/handling-text-and-cleanup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/handling-text-and-cleanup?u=76281980&t=0)** - [Narrator] There was a saying I heard when I was working in the OS division of Microsoft a long time ago, it was the first 90% of the work only takes 10% of the time.
+> **[0:00](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/handling-text-and-cleanup?u=76281980&t=0)** - [Narrator] There was a saying I heard when I was working in the OS division of [[Microsoft]] a long time ago, it was the first 90% of the work only takes 10% of the time.
 >
 > **[0:08](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/handling-text-and-cleanup?u=76281980&t=8)** Unfortunately, the last 10% takes 90% of the time.
 >
@@ -2971,7 +2946,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/handling-text-and-cleanup?u=76281980&t=129)** We're not going to put it in pretty parse CSS because this is all pretty much related to the pretty printer itself.
 >
-> **[2:14](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/handling-text-and-cleanup?u=76281980&t=134)** We're going to put it in the HTML file.
+> **[2:14](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/handling-text-and-cleanup?u=76281980&t=134)** We're going to put it in the [[HTML]] file.
 >
 > **[2:15](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/handling-text-and-cleanup?u=76281980&t=135)** We have this inline style here already.
 >
@@ -3001,7 +2976,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (6), css (2), [[Microsoft]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[HTML]] (1)
 > **CLI Commands:** node (6), make (2)
 > **Env Vars:** css (2), html (1)
 > **Exercise Files:** source code (2)
@@ -3010,8 +2985,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Empty tags
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/challenge-empty-tags?u=76281980)
+#### [Challenge: Empty tags](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/challenge-empty-tags?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3027,12 +3001,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (1)
 > **Exercise Files:** source code (1)
 > **Non-Speech:** (upbeat techno music) (1)
 
-#### Solution: Empty tags
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-empty-tags?u=76281980)
+#### [Solution: Empty tags](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/solution-empty-tags?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3094,7 +3066,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (4), css (2), dom (1), node (1), next (1)
 > **Cross-References:** go back to (3)
 > **Env Vars:** css (2)
 > **CLI Commands:** node (1)
@@ -3107,8 +3078,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Level up your DOM skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/level-up-your-dom-skills?u=76281980)
+#### [Level up your DOM skills](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/level-up-your-dom-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3116,7 +3086,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/level-up-your-dom-skills?u=76281980&t=2)** And also, I love hearing your feedback and questions.
 >
-> **[0:05](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/level-up-your-dom-skills?u=76281980&t=5)** So be sure to follow me on LinkedIn and ask questions in the QA tab if you have them.
+> **[0:05](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/level-up-your-dom-skills?u=76281980&t=5)** So be sure to follow me on [[LinkedIn]] and ask questions in the QA tab if you have them.
 >
 > **[0:09](https://www.linkedin.com/learning/vanilla-javascript-building-on-the-document-object-model-dom/level-up-your-dom-skills?u=76281980&t=9)** At this point, I could direct you to some more courses you could take, but the best advice I can give you if you really want to improve at coding is go build something just for fun, like this app I wrote to visualize the DOM in 3D.
 >
@@ -3128,7 +3098,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), dom (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** go build (1)
 > **Env Vars:** dom (1)
 > **Speakers:** - [instructor] (1)

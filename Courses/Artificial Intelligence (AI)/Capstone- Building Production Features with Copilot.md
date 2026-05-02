@@ -78,12 +78,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Capstone project overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/capstone-project-overview?u=76281980)
+#### [Capstone project overview](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/capstone-project-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/capstone-project-overview?u=76281980&t=5)** - [Instructor] Let's walk through this Capstone project.
+> **[0:05](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/capstone-project-overview?u=76281980&t=5)** - [Instructor] Let's walk through this [[Capstone]] project.
 >
 > **[0:08](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/capstone-project-overview?u=76281980&t=8)** Starting first at the flow, which is on the left here, the developer workflow, the quality gates, the server start, the client requests, the testing, the production workflow.
 >
@@ -91,7 +90,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/capstone-project-overview?u=76281980&t=31)** We can start with this with make quality.
 >
-> **[0:34](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/capstone-project-overview?u=76281980&t=34)** This is a single command that allows us to tie everything together from the unit testing to the mutation testing to the server initialization as well.
+> **[0:34](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/capstone-project-overview?u=76281980&t=34)** This is a single command that allows us to tie everything together from the [[Unit Testing]] to the mutation testing to the server initialization as well.
 >
 > **[0:45](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/capstone-project-overview?u=76281980&t=45)** All this can go together in one quality control command.
 >
@@ -117,7 +116,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/capstone-project-overview?u=76281980&t=125)** And then in terms of the data layer, this would be the base repository, so CRUD operations.
 >
-> **[2:11](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/capstone-project-overview?u=76281980&t=131)** Also, looking at things like storage and the production system, is that using, let's say, Postgres or Dynamo?
+> **[2:11](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/capstone-project-overview?u=76281980&t=131)** Also, looking at things like storage and the production system, is that using, let's say, [[PostgreSQL|Postgres]] or Dynamo?
 >
 > **[2:19](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/capstone-project-overview?u=76281980&t=139)** And then finally, in terms of the key concepts at the bottom, we want to look at a okay for success, error for failure, no exceptions, thrones, we want type safe errors.
 >
@@ -139,7 +138,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), [[Capstone]] (1), [[Unit Testing]] (1), application (1), business (1)
+> **Frameworks & Libraries:** [[Capstone]] (1), [[Unit Testing]] (1), [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** api (6), crud (1), rfc (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -153,12 +152,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Task 0: The planning phase
-> [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-0-the-planning-phase?u=76281980)
+#### [Task 0: The planning phase](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-0-the-planning-phase?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-0-the-planning-phase?u=76281980&t=5)** - [Instructor] Test-driven development is a common term that many software developers understand.
+> **[0:05](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-0-the-planning-phase?u=76281980&t=5)** - [Instructor] [[Test-Driven Development]] is a common term that many software developers understand.
 >
 > **[0:11](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-0-the-planning-phase?u=76281980&t=11)** It stands for test-driven development or TDD.
 >
@@ -170,7 +168,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-0-the-planning-phase?u=76281980&t=32)** If you're rapidly changing and the human is building the code and the tests at the same time.
 >
-> **[0:38](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-0-the-planning-phase?u=76281980&t=38)** But in the era of generative AI and AI programming tools, it starts to make a lot more sense because you're writing a lot more code.
+> **[0:38](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-0-the-planning-phase?u=76281980&t=38)** But in the era of [[Generative AI]] and AI programming tools, it starts to make a lot more sense because you're writing a lot more code.
 >
 > **[0:48](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-0-the-planning-phase?u=76281980&t=48)** And as a result, you need to spend more of your time writing tests.
 >
@@ -248,7 +246,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test-Driven Development]] (5), llm (1), [[Generative AI]] (1), ai (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (5), [[Generative AI]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** pmat (2), tdd (1), llm (1), yaml (1)
 > **Definitions:** is a  (3), stands for (1), means that (1)
@@ -257,12 +255,11 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the zero context
-> [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/understanding-the-xero-context?u=76281980)
+#### [Understanding the zero context](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/understanding-the-xero-context?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/understanding-the-xero-context?u=76281980&t=5)** - [Instructor] Let's start walking through this well structured and very deterministic project capstone.
+> **[0:05](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/understanding-the-xero-context?u=76281980&t=5)** - [Instructor] Let's start walking through this well structured and very deterministic project [[Capstone]].
 >
 > **[0:13](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/understanding-the-xero-context?u=76281980&t=13)** To start with, we can look at the make file.
 >
@@ -294,7 +291,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/understanding-the-xero-context?u=76281980&t=98)** So what I would typically do in a scenario like this is actually stop it and then use some kind of coding assistant.
 >
-> **[1:47](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/understanding-the-xero-context?u=76281980&t=107)** It could be Copilot, for example.
+> **[1:47](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/understanding-the-xero-context?u=76281980&t=107)** It could be [[Microsoft Copilot|Copilot]], for example.
 >
 > **[1:49](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/understanding-the-xero-context?u=76281980&t=109)** If we go through here and we say, Hey, what's going on?
 >
@@ -334,9 +331,9 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/understanding-the-xero-context?u=76281980&t=236)** In this case it's cloud code. And you can see here that I can actually use two tools at the same time.
 >
-> **[4:02](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/understanding-the-xero-context?u=76281980&t=242)** So I can start with, for example, GitHub Copilot, start to get a particular scenario solved and maybe crosscheck it with a separate tool, in this case cloud code.
+> **[4:02](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/understanding-the-xero-context?u=76281980&t=242)** So I can start with, for example, [[GitHub Copilot]], start to get a particular scenario solved and maybe crosscheck it with a separate tool, in this case cloud code.
 >
-> **[4:13](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/understanding-the-xero-context?u=76281980&t=253)** And again, because we have the make file, it makes it very easy to cross reference those two tools because the make file is a central context, and that central context can be run by GitHub Copilot, it could be run by Cloud Code, it could be run by some other tool like Gemini.
+> **[4:13](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/understanding-the-xero-context?u=76281980&t=253)** And again, because we have the make file, it makes it very easy to cross reference those two tools because the make file is a central context, and that central context can be run by GitHub Copilot, it could be run by Cloud Code, it could be run by some other tool like [[Gemini]].
 >
 > **[4:30](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/understanding-the-xero-context?u=76281980&t=270)** It could be run by a third party tool or an Open Source tool.
 >
@@ -350,7 +347,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), [[Debugging]] (2), next (2), [[GitHub Copilot]] (2), [[Capstone]] (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (2), [[Capstone]] (1), [[Microsoft Copilot|Copilot]] (1), [[Gemini]] (1)
 > **CLI Commands:** make (23)
 > **Analogies:** for example (6)
 > **Env Vars:** readme (3), css (1)
@@ -359,8 +356,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **UI Navigation:** toggle (1)
 
-#### Querying internal knowledge bases
-> [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/querying-internal-knowledge-bases?u=76281980)
+#### [Querying internal knowledge bases](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/querying-internal-knowledge-bases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -392,11 +388,11 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/querying-internal-knowledge-bases?u=76281980&t=128)** Once it built that tool, another really interesting component is to then cross reference that specifications with another type of agentic coding tool.
 >
-> **[2:19](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/querying-internal-knowledge-bases?u=76281980&t=139)** For example, if you use Claude to generate that particular tool, maybe you cross reference it with Gemini, and then that particular different tool is going to think about things in a little bit different of a way.
+> **[2:19](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/querying-internal-knowledge-bases?u=76281980&t=139)** For example, if you use Claude to generate that particular tool, maybe you cross reference it with [[Gemini]], and then that particular different tool is going to think about things in a little bit different of a way.
 >
 > **[2:32](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/querying-internal-knowledge-bases?u=76281980&t=152)** You almost red team it.
 >
-> **[2:33](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/querying-internal-knowledge-bases?u=76281980&t=153)** You say, look, I want you to find a critical code review of this particular specification.
+> **[2:33](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/querying-internal-knowledge-bases?u=76281980&t=153)** You say, look, I want you to find a critical [[Code Review]] of this particular specification.
 >
 > **[2:40](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/querying-internal-knowledge-bases?u=76281980&t=160)** I also want you to look at it in the frame of, I assume things are going to be wrong and I want you to find five things that are wrong with this specification.
 >
@@ -410,7 +406,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/querying-internal-knowledge-bases?u=76281980&t=202)** So they're both going to play together.
 >
-> **[3:25](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/querying-internal-knowledge-bases?u=76281980&t=205)** In the case of the specification, you're able to get a higher-quality specification by pulling from these two repos and then red teaming it.
+> **[3:25](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/querying-internal-knowledge-bases?u=76281980&t=205)** In the case of the specification, you're able to get a higher-quality specification by pulling from these two repos and then [[Red Teaming]] it.
 >
 > **[3:34](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/querying-internal-knowledge-bases?u=76281980&t=214)** But then still you need to have the implementation correct.
 >
@@ -426,7 +422,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/querying-internal-knowledge-bases?u=76281980&t=242)** And then again, I'll add property tests.
 >
-> **[4:05](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/querying-internal-knowledge-bases?u=76281980&t=245)** I'll also look at linting. I'll also do end-to-end testing.
+> **[4:05](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/querying-internal-knowledge-bases?u=76281980&t=245)** I'll also look at linting. I'll also do [[End-to-end Testing]].
 >
 > **[4:09](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/querying-internal-knowledge-bases?u=76281980&t=249)** Also go through and look at the static analysis.
 >
@@ -444,7 +440,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1), [[Gemini]] (1), [[Code Review]] (1), [[Red Teaming]] (1), [[End-to-end Testing]] (1)
+> **Frameworks & Libraries:** [[Gemini]] (1), [[Code Review]] (1), [[Red Teaming]] (1), [[End-to-end Testing]] (1)
 > **CLI Commands:** make (5), find (3)
 > **Documentation:** specification (6), spec (1)
 > **Analogies:** for example (3), it's like (1)
@@ -458,8 +454,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Task 1: The API layer
-> [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-1-the-api-layer?u=76281980)
+#### [Task 1: The API layer](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-1-the-api-layer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -497,7 +492,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-1-the-api-layer?u=76281980&t=119)** In fact, the get endpoint is probably one of the easiest ones to try.
 >
-> **[2:03](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-1-the-api-layer?u=76281980&t=123)** If we take a look at this, it says the response code 200, great, the service is healthy, we have the type application JSON.
+> **[2:03](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-1-the-api-layer?u=76281980&t=123)** If we take a look at this, it says the response code 200, great, the service is healthy, we have the type application [[JSON]].
 >
 > **[2:12](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-1-the-api-layer?u=76281980&t=132)** Let's go ahead and try it out.
 >
@@ -551,7 +546,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), [[Programming]] (2), application (1), [[JSON]] (1), power (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **CLI Commands:** make (8), curl (2)
 > **Env Vars:** api (3), json (1), url (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -560,14 +555,13 @@ created: 2026-05-02
 > **Analogies:** for example (1), similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing data validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/implementing-data-validation?u=76281980)
+#### [Implementing data validation](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/implementing-data-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/implementing-data-validation?u=76281980&t=5)** - [Instructor] One of the ways to be highly productive with Agentic coding is to leverage highly productive tools, especially tools that have extremely high quality.
 >
-> **[0:17](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/implementing-data-validation?u=76281980&t=17)** A good example is Deno It's the runtime built in rust for TypeScript.
+> **[0:17](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/implementing-data-validation?u=76281980&t=17)** A good example is Deno It's the runtime built in [[Rust (Programming Language)|rust]] for TypeScript.
 >
 > **[0:22](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/implementing-data-validation?u=76281980&t=22)** And in the case of Zod, it's a type script first schema validation library.
 >
@@ -591,7 +585,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/implementing-data-validation?u=76281980&t=87)** So in terms of this basic schema, you would create a z.object for the user data.
 >
-> **[1:33](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/implementing-data-validation?u=76281980&t=93)** And then at this point, copilot could suggest a field type.
+> **[1:33](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/implementing-data-validation?u=76281980&t=93)** And then at this point, [[Microsoft Copilot|copilot]] could suggest a field type.
 >
 > **[1:38](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/implementing-data-validation?u=76281980&t=98)** You could also add .email for email validation, .min for password length, and .int positive for age.
 >
@@ -607,7 +601,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/implementing-data-validation?u=76281980&t=148)** And in the case of testing, you would then test the valid data with curl.
 >
-> **[2:32](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/implementing-data-validation?u=76281980&t=152)** So you're starting to do end-to-end testing, and then you would show the 200.
+> **[2:32](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/implementing-data-validation?u=76281980&t=152)** So you're starting to do [[End-to-end Testing]], and then you would show the 200.
 >
 > **[2:37](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/implementing-data-validation?u=76281980&t=157)** Okay, you would do a test and valid email format, show the 400 error with a field path, and then do a test weak password, and then show this custom error message.
 >
@@ -629,7 +623,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/implementing-data-validation?u=76281980&t=213)** The Copilot is going to accelerate the schema creation, but not necessarily build everything from scratch.
 >
-> **[3:39](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/implementing-data-validation?u=76281980&t=219)** And then the .refine adds the business logic, the clear errors improve the user experience.
+> **[3:39](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/implementing-data-validation?u=76281980&t=219)** And then the .refine adds the business logic, the clear errors improve the [[User Experience (UX)|user experience]].
 >
 > **[3:46](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/implementing-data-validation?u=76281980&t=226)** And then in terms of the test, you would also test the golden path or the happy path, but you also want to test the failure.
 >
@@ -641,15 +635,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), data (4), api (4), [[End-to-end Testing]] (2), [[Rust (Programming Language)|Rust]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[End-to-end Testing]] (2), [[Rust (Programming Language)|Rust]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** api (4), mpm (1)
 > **Prerequisites:** install (2)
 > **CLI Commands:** curl (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Task 2: The business logic
-> [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-2-the-business-logic?u=76281980)
+#### [Task 2: The business logic](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-2-the-business-logic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -689,7 +682,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-2-the-business-logic?u=76281980&t=155)** Okay, we want to add two numbers, we want to subtract two numbers, we want to divide two numbers, et cetera.
 >
-> **[2:41](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-2-the-business-logic?u=76281980&t=161)** And then when we get into the JavaScript, here's where each of these methods on the calculator class would then correspond directly to the failing test and make them pass.
+> **[2:41](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-2-the-business-logic?u=76281980&t=161)** And then when we get into the [[JavaScript]], here's where each of these methods on the calculator class would then correspond directly to the failing test and make them pass.
 >
 > **[2:53](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-2-the-business-logic?u=76281980&t=173)** So, this is a very different way to code that is a recommended way to code in terms of using agent coding.
 >
@@ -699,7 +692,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** yaml (3)
 > **Definitions:** is a  (2)
@@ -708,8 +701,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling complex business rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/handling-complex-business-rules?u=76281980)
+#### [Handling complex business rules](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/handling-complex-business-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -723,7 +715,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/handling-complex-business-rules?u=76281980&t=42)** A human discovers a bug or a human discovers there's a feature missing.
 >
-> **[0:48](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/handling-complex-business-rules?u=76281980&t=48)** In this case, the manual testing shows that, "Whoops, we actually should match 99.9.50 to 1,000", right?
+> **[0:48](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/handling-complex-business-rules?u=76281980&t=48)** In this case, the [[Manual Testing]] shows that, "Whoops, we actually should match 99.9.50 to 1,000", right?
 >
 > **[0:56](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/handling-complex-business-rules?u=76281980&t=56)** That's a tolerance rule that we need, so we would go ahead and build this BDD spec.
 >
@@ -791,7 +783,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), [[Manual Testing]] (1), next (1), business (1), product (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (1)
 > **Env Vars:** bdd (2), yaml (1)
 > **Documentation:** spec (2)
 > **Definitions:** is a  (2)
@@ -800,8 +792,7 @@ created: 2026-05-02
 > **Versions:** 99.9.50 (1)
 > **UI Navigation:** go to (1)
 
-#### Task 3: The data layer
-> [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-3-the-data-layer?u=76281980)
+#### [Task 3: The data layer](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-3-the-data-layer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -811,7 +802,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-3-the-data-layer?u=76281980&t=16)** Many interpreted languages have severe legacy issues because the binary itself is huge.
 >
-> **[0:23](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-3-the-data-layer?u=76281980&t=23)** So in the case of, for example, Python, oftentimes it could be a hundred or maybe 200 megabytes just to get everything into a container runtime.
+> **[0:23](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-3-the-data-layer?u=76281980&t=23)** So in the case of, for example, [[Python (Programming Language)|Python]], oftentimes it could be a hundred or maybe 200 megabytes just to get everything into a container runtime.
 >
 > **[0:33](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-3-the-data-layer?u=76281980&t=33)** Same with scripting languages.
 >
@@ -821,9 +812,9 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-3-the-data-layer?u=76281980&t=44)** If you look at interpreted languages, they're really an issue in terms of the size.
 >
-> **[0:49](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-3-the-data-layer?u=76281980&t=49)** A binary though, especially for a modern-compiled language like Go or Rust, is tiny, and so the runtime bloat is essentially non-existent.
+> **[0:49](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-3-the-data-layer?u=76281980&t=49)** A binary though, especially for a modern-compiled language like Go or [[Rust (Programming Language)|Rust]], is tiny, and so the runtime bloat is essentially non-existent.
 >
-> **[0:59](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-3-the-data-layer?u=76281980&t=59)** And if you look at the startup time, this really plays a role with CLI execution or deploying it into production.
+> **[0:59](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-3-the-data-layer?u=76281980&t=59)** And if you look at the startup time, this really plays a role with [[CLI]] execution or deploying it into production.
 >
 > **[1:07](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-3-the-data-layer?u=76281980&t=67)** You also eliminate the runtime dependency hell, the surface attack area, also cold start latency and memory overhead.
 >
@@ -893,7 +884,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-3-the-data-layer?u=76281980&t=288)** And so over time, this starts to really play a role in terms of cost and efficiency.
 >
-> **[4:54](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-3-the-data-layer?u=76281980&t=294)** And so these may be useful in prototyping, but in terms of production, they can cause big issues.
+> **[4:54](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-3-the-data-layer?u=76281980&t=294)** And so these may be useful in [[Prototyping]], but in terms of production, they can cause big issues.
 >
 > **[5:00](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-3-the-data-layer?u=76281980&t=300)** So this is something to consider with agentic coding when you can easily convert from one language to another or figure out more automation, where should you be spending your time?
 >
@@ -911,7 +902,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (6), [[Python (Programming Language)|Python]] (5), [[Scripting]] (3), [[CLI]] (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (6), [[Python (Programming Language)|Python]] (5), [[CLI]] (3), [[Prototyping]] (1)
 > **CLI Commands:** python (5), make (5), docker (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for example (3)
@@ -919,8 +910,7 @@ created: 2026-05-02
 > **Documentation:** the readme (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with ORMs and persistence
-> [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/working-with-orms-and-persistence?u=76281980)
+#### [Working with ORMs and persistence](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/working-with-orms-and-persistence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -932,7 +922,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/working-with-orms-and-persistence?u=76281980&t=28)** And I want to dig into a little bit more about how I could use this as the starting point to build persistence.
 >
-> **[0:37](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/working-with-orms-and-persistence?u=76281980&t=37)** So let's say I wanted to use Postgres database or SQL Light or some other kind of system.
+> **[0:37](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/working-with-orms-and-persistence?u=76281980&t=37)** So let's say I wanted to use [[PostgreSQL|Postgres]] database or [[SQL]] Light or some other kind of system.
 >
 > **[0:43](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/working-with-orms-and-persistence?u=76281980&t=43)** What I could do is I could go over to the agent and then notice that it's highlighted here.
 >
@@ -994,7 +984,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/working-with-orms-and-persistence?u=76281980&t=264)** So we'll say create ticket called Ticket-postgres.yaml, and put the steps we went over.
 >
-> **[4:38](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/working-with-orms-and-persistence?u=76281980&t=278)** And then also I want to see it before we submit it to GitHub.
+> **[4:38](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/working-with-orms-and-persistence?u=76281980&t=278)** And then also I want to see it before we submit it to [[GitHub]].
 >
 > **[4:43](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/working-with-orms-and-persistence?u=76281980&t=283)** Okay, let's go ahead and take a look at what this YAML ticket could look like.
 >
@@ -1016,7 +1006,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (6), database (2), [[SQL]] (2), data (1), feature (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (6), [[SQL]] (2), [[GitHub]] (1)
 > **Env Vars:** sql (2), tdd (2), yaml (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (3)
@@ -1030,8 +1020,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Task 4: The test suite
-> [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-4-the-test-suite?u=76281980)
+#### [Task 4: The test suite](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-4-the-test-suite?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1061,7 +1050,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-4-the-test-suite?u=76281980&t=56)** And we see that there's a matcher.ts here.
 >
-> **[1:00](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-4-the-test-suite?u=76281980&t=60)** Now what I would do at this point is I would take the output, in this case, this command here, and then I would copy it and I would go over to Copilot and I'm going to say, this is our coverage.
+> **[1:00](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-4-the-test-suite?u=76281980&t=60)** Now what I would do at this point is I would take the output, in this case, this command here, and then I would copy it and I would go over to [[Microsoft Copilot|Copilot]] and I'm going to say, this is our coverage.
 >
 > **[1:20](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/task-4-the-test-suite?u=76281980&t=80)** Let's improve a little bit.
 >
@@ -1105,7 +1094,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Microsoft Copilot|Copilot]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (1)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** go to (3)
 > **File Paths:** matcher.ts (1), test.ts (1)
@@ -1113,16 +1102,15 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### End-to-end testing strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/end-to-end-testing-strategies?u=76281980)
+#### [End-to-end testing strategies](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/end-to-end-testing-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/end-to-end-testing-strategies?u=76281980&t=5)** - [Instructor] Let's take a look at end-to-end testing.
+> **[0:05](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/end-to-end-testing-strategies?u=76281980&t=5)** - [Instructor] Let's take a look at [[End-to-end Testing]].
 >
 > **[0:07](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/end-to-end-testing-strategies?u=76281980&t=7)** This is really when you've already built a high-quality product.
 >
-> **[0:12](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/end-to-end-testing-strategies?u=76281980&t=12)** You have lots of unit testing, and property testing, and mutation testing, linting, quality analysis.
+> **[0:12](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/end-to-end-testing-strategies?u=76281980&t=12)** You have lots of [[Unit Testing]], and property testing, and mutation testing, linting, quality analysis.
 >
 > **[0:18](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/end-to-end-testing-strategies?u=76281980&t=18)** You also want to look at how the application itself runs.
 >
@@ -1194,7 +1182,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), api (2), [[End-to-end Testing]] (1), product (1), [[Unit Testing]] (1)
+> **Frameworks & Libraries:** [[End-to-end Testing]] (1), [[Unit Testing]] (1)
 > **Env Vars:** api (2), crud (1), post (1)
 > **API Endpoints:** post  (1), get  (1)
 > **File Paths:** tests/e2e/index_page.test.ts (1)
@@ -1202,8 +1190,7 @@ created: 2026-05-02
 > **Code Identifiers:** index_page (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reviewing your implementation
-> [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/reviewing-your-implementation?u=76281980)
+#### [Reviewing your implementation](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/reviewing-your-implementation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1223,7 +1210,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/reviewing-your-implementation?u=76281980&t=63)** Next here, we're going to see that I can analyze the code quality by running some of these commands in this case.
 >
-> **[1:10](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/reviewing-your-implementation?u=76281980&t=70)** First up, we look at the deno.json file, and we can see that the structure looks good.
+> **[1:10](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/reviewing-your-implementation?u=76281980&t=70)** First up, we look at the deno.[[JSON]] file, and we can see that the structure looks good.
 >
 > **[1:17](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/reviewing-your-implementation?u=76281980&t=77)** We have comprehensive test suite, so unit tests, E2E tests, mutation tests.
 >
@@ -1269,7 +1256,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), product (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** pmat (5), e2e (1)
 > **Analogies:** for example (5)
 > **Definitions:** is a  (2)
@@ -1277,8 +1264,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [speaker] (1)
 
-#### Comparing with best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/comparing-with-best-practices?u=76281980)
+#### [Comparing with best practices](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/comparing-with-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1300,7 +1286,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/comparing-with-best-practices?u=76281980&t=46)** And then level three, you have discoverable APIs.
 >
-> **[0:49](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/comparing-with-best-practices?u=76281980&t=49)** Now, in terms of API review checklist here, some of the things to take a look at would include REST principles, also OpenAPI documentation, input validation with Zod for example, RFC error handling, API versioning, security headers, rate limiting.
+> **[0:49](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/comparing-with-best-practices?u=76281980&t=49)** Now, in terms of API review checklist here, some of the things to take a look at would include [[Representational State Transfer (REST)|REST]] principles, also OpenAPI documentation, input validation with Zod for example, RFC error handling, API versioning, security headers, rate limiting.
 >
 > **[1:07](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/comparing-with-best-practices?u=76281980&t=67)** So these are all things that are a checklist of quality, or standards of excellence.
 >
@@ -1326,13 +1312,13 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/comparing-with-best-practices?u=76281980&t=127)** In this case, it's the Lambda OS.
 >
-> **[2:09](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/comparing-with-best-practices?u=76281980&t=129)** It could be Google Cloud functions, or Azure Cloud functions, or some other service that does functions.
+> **[2:09](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/comparing-with-best-practices?u=76281980&t=129)** It could be [[Google Cloud Platform (GCP)|Google Cloud]] functions, or [[Microsoft Azure|Azure]] Cloud functions, or some other service that does functions.
 >
 > **[2:15](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/comparing-with-best-practices?u=76281980&t=135)** But the idea here is to look at what we can do to improve the performance in terms of runtime.
 >
 > **[2:21](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/comparing-with-best-practices?u=76281980&t=141)** So not only should you be looking at the checklist of the best practices for the API, but what about the runtime of the service you're delivering?
 >
-> **[2:30](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/comparing-with-best-practices?u=76281980&t=150)** One of the things that I'm measuring here is that different Rust, or C++, or Go, or Python runtimes have startup time differences.
+> **[2:30](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/comparing-with-best-practices?u=76281980&t=150)** One of the things that I'm measuring here is that different [[Rust (Programming Language)|Rust]], or C++, or Go, or [[Python (Programming Language)|Python]] runtimes have startup time differences.
 >
 > **[2:39](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/comparing-with-best-practices?u=76281980&t=159)** So in the case of Rust, you can get a 10-millisecond response time, or Go, maybe it's a 50-millisecond starttime.
 >
@@ -1352,7 +1338,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/comparing-with-best-practices?u=76281980&t=211)** An interpreted language is going to be much slower than a compiled language.
 >
-> **[3:35](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/comparing-with-best-practices?u=76281980&t=215)** So looking at modern compiled languages potentially after you've done the initial prototyping could be a good strategy.
+> **[3:35](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/comparing-with-best-practices?u=76281980&t=215)** So looking at modern compiled languages potentially after you've done the initial [[Prototyping]] could be a good strategy.
 >
 > **[3:42](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/comparing-with-best-practices?u=76281980&t=222)** And then if you look at the local benchmarking as well, it takes out the factor of the external service that you're running to.
 >
@@ -1360,7 +1346,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), [[Rust (Programming Language)|Rust]] (3), [[Python (Programming Language)|Python]] (3), web (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), [[Python (Programming Language)|Python]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** api (3), http (2), url (1), rest (1), rfc (1)
 > **CLI Commands:** python (3)
 > **Definitions:** is a  (2)
@@ -1369,8 +1355,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Final reflections and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/final-reflections-and-next-steps?u=76281980)
+#### [Final reflections and next steps](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/final-reflections-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1378,9 +1363,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/final-reflections-and-next-steps?u=76281980&t=7)** Let's go ahead and wrap up everything that we covered in this course in terms of final reflections and next steps.
 >
-> **[0:15](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/final-reflections-and-next-steps?u=76281980&t=15)** We have a Capstone Project that is ready for you to enhance to look at some of the quality metrics and improve them.
+> **[0:15](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/final-reflections-and-next-steps?u=76281980&t=15)** We have a [[Capstone]] Project that is ready for you to enhance to look at some of the quality metrics and improve them.
 >
-> **[0:23](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/final-reflections-and-next-steps?u=76281980&t=23)** Now, we also talked about extreme, test-driven development.
+> **[0:23](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/final-reflections-and-next-steps?u=76281980&t=23)** Now, we also talked about extreme, [[Test-Driven Development]].
 >
 > **[0:26](https://www.linkedin.com/learning/capstone-building-production-features-with-copilot/final-reflections-and-next-steps?u=76281980&t=26)** The idea here is with agents, you have to go above and beyond even what you did before.
 >
@@ -1496,7 +1481,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), next (2), [[Test-Driven Development]] (2), [[Capstone]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (2), [[Capstone]] (1)
 > **CLI Commands:** make (8)
 > **Definitions:** is a  (2)
 > **Env Vars:** cicd (1)

@@ -17,7 +17,7 @@ tags:
   - topic/cloud-computing
   - topic/data-science
   - topic/devops
-course_count: 123
+course_count: 126
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Slack
 
-> **Type:** Concept | **Courses:** 123 | **Topics:** [[Software Development]], [[Cybersecurity]], [[Cloud Computing]], [[Data Science]], [[DevOps]]
+> **Type:** Concept | **Courses:** 126 | **Topics:** [[Software Development]], [[Cybersecurity]], [[Cloud Computing]], [[Data Science]], [[DevOps]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Application Security in DevSecOps]] — 10 mentions
 10. [[Azure DevOps for Beginners]] — 9 mentions
 
-> [!note]- See all 123 courses
+> [!note]- See all 126 courses
 > 11. [[Hands On Ai Build Your Own Gpts]] — 7 mentions
 > 12. [[IT Service Management Foundations- Change Management]] — 7 mentions
 > 13. [[Azure Understanding The Big Picture]] — 5 mentions
@@ -93,67 +93,70 @@ created: 2026-05-02
 > 60. [[How to Get a Job in Climate]] — 1 mentions
 > 61. [[Working And Collaborating Online]] — 1 mentions
 > 62. [[Outlook on the Web Essential Training]] — 1 mentions
-> 63. [[Programming Foundations- Conducting Code Reviews]] — 1 mentions
-> 64. [[Tech Career Skills- Communication for Developers]] — 1 mentions
-> 65. [[IT Support for a Hybrid Workforce]] — 1 mentions
-> 66. [[Agile Software Development]] — 1 mentions
-> 67. [[Lean Technology Strategy- Running Agile at Scale]] — 1 mentions
-> 68. [[Finance Foundations]] — 1 mentions
-> 69. [[Everything as a Service (XaaS) is the Future of Business]] — 1 mentions
-> 70. [[AI Literacy for Business Leaders]] — 1 mentions
-> 71. [[Ethics in Cybersecurity]] — 1 mentions
-> 72. [[Data Science Foundations- Fundamentals]] — 1 mentions
-> 73. [[DevOps Foundations- Infrastructure as Code]] — 1 mentions
-> 74. [[Developing Chatbots with Azure]] — 1 mentions
-> 75. [[Cloud Concepts Planning An Application Migration Strategy]] — 1 mentions
-> 76. [[Effectively Leading Digital Transformation]] — 1 mentions
-> 77. [[Learning Network Troubleshooting- Practical Network Diagnostics and Solutions]] — 1 mentions
-> 78. [[Ux Foundations Research]] — 1 mentions
-> 79. [[Cloud for Business- Developing a Cloud Center of Excellence]] — 1 mentions
-> 80. [[FinOps Essentials for Cloud Deployments]] — 1 mentions
-> 81. [[Node.js- Securing RESTful APIs]] — 1 mentions
-> 82. [[Communication Foundations]] — 1 mentions
-> 83. [[Business Etiquette- Phone, Email, and Text]] — 1 mentions
-> 84. [[Programming Concepts for Python]] — 1 mentions
-> 85. [[Model Context Protocol (MCP)- Hands-On with Agentic AI]] — 1 mentions
-> 86. [[Ethical Data Collection for AI Implementation]] — 1 mentions
-> 87. [[AWS- Networking]] — 1 mentions
-> 88. [[AWS- Storage and Data Management]] — 1 mentions
-> 89. [[Fine-Tuning for LLMs- from Beginner to Advanced]] — 1 mentions
-> 90. [[Ai And Developer Productivity]] — 1 mentions
-> 91. [[Introduction To Career Skills In Software Development]] — 1 mentions
-> 92. [[The Habits of Successful Marketers]] — 1 mentions
-> 93. [[Microsoft Security Essentials Concepts Solutions And Ai Powered Protection]] — 1 mentions
-> 94. [[Manage Storage in Azure]] — 1 mentions
-> 95. [[DevSecOps- Automated Security Testing]] — 1 mentions
-> 96. [[Building Resilience]] — 1 mentions
-> 97. [[Ubuntu Linux- Operating System Basics]] — 1 mentions
-> 98. [[Nail Your DevOps Interview]] — 1 mentions
-> 99. [[Putting ITIL® into Practice- Change Enablement]] — 1 mentions
-> 100. [[Learning Jenkins Automating Software Development And System Administration]] — 1 mentions
-> 101. [[React Native Essential Training]] — 1 mentions
-> 102. [[Learning Full-Stack JavaScript Development- MongoDB, Node, and React]] — 1 mentions
-> 103. [[AI Foundations- Ideating and Prototyping]] — 1 mentions
-> 104. [[Agile Software Development- Dealing with Legacy Code and Technical Debt]] — 1 mentions
-> 105. [[UX Deep Dive- Remote Research]] — 1 mentions
-> 106. [[Cert Prep- Unity Certified Associate Game Developer Design, Production, and Industry Awareness]] — 1 mentions
-> 107. [[Linux- Overview and Installation]] — 1 mentions
-> 108. [[Learning Bitbucket]] — 1 mentions
-> 109. [[Hands-On AI- RAG using LlamaIndex]] — 1 mentions
-> 110. [[Digital Marketing Foundations]] — 1 mentions
-> 111. [[Marketing Foundations]] — 1 mentions
-> 112. [[Choosing A Cloud Platform For Developers Aws Azure And Gcp]] — 1 mentions
-> 113. [[OWASP Top 10- -9 Security Logging and Monitoring Failures and -10 Server-Side Request Forgery]] — 1 mentions
-> 114. [[Building a Headless WordPress Site with Gatsby]] — 1 mentions
-> 115. [[Electronics Foundations- Semiconductor Devices]] — 1 mentions
-> 116. [[A Day In The Life Of A Data Scientist]] — 1 mentions
-> 117. [[Advanced Spring- Spring Boot Actuator]] — 1 mentions
-> 118. [[Advanced Laravel]] — 1 mentions
-> 119. [[Practical Database Design- Implementing Responsible Data Solutions with SQL Querying]] — 1 mentions
-> 120. [[InfraWorks and ArcGIS- AEC Collaboration]] — 1 mentions
-> 121. [[Creating Block Patterns in WordPress]] — 1 mentions
-> 122. [[RAG for Cybersecurity- Use Cases and Implementation]] — 1 mentions
-> 123. [[Leading With A Digital Mindset In The Age Of Ai]] — 1 mentions
+> 63. [[Microsoft Entra ID Fundamentals]] — 1 mentions
+> 64. [[Programming Foundations- Conducting Code Reviews]] — 1 mentions
+> 65. [[Tech Career Skills- Communication for Developers]] — 1 mentions
+> 66. [[IT Support for a Hybrid Workforce]] — 1 mentions
+> 67. [[Agile Software Development]] — 1 mentions
+> 68. [[Lean Technology Strategy- Running Agile at Scale]] — 1 mentions
+> 69. [[Finance Foundations]] — 1 mentions
+> 70. [[Everything as a Service (XaaS) is the Future of Business]] — 1 mentions
+> 71. [[AI Literacy for Business Leaders]] — 1 mentions
+> 72. [[Ethics in Cybersecurity]] — 1 mentions
+> 73. [[Data Science Foundations- Fundamentals]] — 1 mentions
+> 74. [[DevOps Foundations- Infrastructure as Code]] — 1 mentions
+> 75. [[Developing Chatbots with Azure]] — 1 mentions
+> 76. [[Cloud Concepts Planning An Application Migration Strategy]] — 1 mentions
+> 77. [[Effectively Leading Digital Transformation]] — 1 mentions
+> 78. [[Learning Network Troubleshooting- Practical Network Diagnostics and Solutions]] — 1 mentions
+> 79. [[Ux Foundations Research]] — 1 mentions
+> 80. [[Cloud for Business- Developing a Cloud Center of Excellence]] — 1 mentions
+> 81. [[FinOps Essentials for Cloud Deployments]] — 1 mentions
+> 82. [[Node.js- Securing RESTful APIs]] — 1 mentions
+> 83. [[Communication Foundations]] — 1 mentions
+> 84. [[Business Etiquette- Phone, Email, and Text]] — 1 mentions
+> 85. [[Programming Concepts for Python]] — 1 mentions
+> 86. [[Model Context Protocol (MCP)- Hands-On with Agentic AI]] — 1 mentions
+> 87. [[Ethical Data Collection for AI Implementation]] — 1 mentions
+> 88. [[AWS- Networking]] — 1 mentions
+> 89. [[AWS- Storage and Data Management]] — 1 mentions
+> 90. [[Fine-Tuning for LLMs- from Beginner to Advanced]] — 1 mentions
+> 91. [[Ai And Developer Productivity]] — 1 mentions
+> 92. [[Introduction To Career Skills In Software Development]] — 1 mentions
+> 93. [[The Habits of Successful Marketers]] — 1 mentions
+> 94. [[Microsoft Security Essentials Concepts Solutions And Ai Powered Protection]] — 1 mentions
+> 95. [[Manage Storage in Azure]] — 1 mentions
+> 96. [[DevSecOps- Automated Security Testing]] — 1 mentions
+> 97. [[Building Resilience]] — 1 mentions
+> 98. [[Ubuntu Linux- Operating System Basics]] — 1 mentions
+> 99. [[Nail Your DevOps Interview]] — 1 mentions
+> 100. [[Putting ITIL® into Practice- Change Enablement]] — 1 mentions
+> 101. [[Learning Jenkins Automating Software Development And System Administration]] — 1 mentions
+> 102. [[Leading Remote Projects and Virtual Teams]] — 1 mentions
+> 103. [[React Native Essential Training]] — 1 mentions
+> 104. [[Transition from Data Science to Data Engineering]] — 1 mentions
+> 105. [[Learning Full-Stack JavaScript Development- MongoDB, Node, and React]] — 1 mentions
+> 106. [[AI Foundations- Ideating and Prototyping]] — 1 mentions
+> 107. [[Agile Software Development- Dealing with Legacy Code and Technical Debt]] — 1 mentions
+> 108. [[UX Deep Dive- Remote Research]] — 1 mentions
+> 109. [[Cert Prep- Unity Certified Associate Game Developer Design, Production, and Industry Awareness]] — 1 mentions
+> 110. [[Linux- Overview and Installation]] — 1 mentions
+> 111. [[Learning Bitbucket]] — 1 mentions
+> 112. [[Hands-On AI- RAG using LlamaIndex]] — 1 mentions
+> 113. [[Digital Marketing Foundations]] — 1 mentions
+> 114. [[Marketing Foundations]] — 1 mentions
+> 115. [[Choosing A Cloud Platform For Developers Aws Azure And Gcp]] — 1 mentions
+> 116. [[OWASP Top 10- -9 Security Logging and Monitoring Failures and -10 Server-Side Request Forgery]] — 1 mentions
+> 117. [[Building a Headless WordPress Site with Gatsby]] — 1 mentions
+> 118. [[Electronics Foundations- Semiconductor Devices]] — 1 mentions
+> 119. [[A Day In The Life Of A Data Scientist]] — 1 mentions
+> 120. [[Advanced Spring- Spring Boot Actuator]] — 1 mentions
+> 121. [[Advanced Laravel]] — 1 mentions
+> 122. [[Practical Database Design- Implementing Responsible Data Solutions with SQL Querying]] — 1 mentions
+> 123. [[InfraWorks and ArcGIS- AEC Collaboration]] — 1 mentions
+> 124. [[Creating Block Patterns in WordPress]] — 1 mentions
+> 125. [[RAG for Cybersecurity- Use Cases and Implementation]] — 1 mentions
+> 126. [[Leading With A Digital Mindset In The Age Of Ai]] — 1 mentions
 
 ## Learning Paths
 
@@ -165,7 +168,7 @@ created: 2026-05-02
 6. [[Digital Transformation for Tech Leaders]] — 17 total mentions
 7. [[Become an Ethical Hacker]] — 17 total mentions
 8. [[Get Ahead in DevSecOps]] — 17 total mentions
-9. [[Identity and Access Management in Azure]] — 14 total mentions
+9. [[Identity and Access Management in Azure]] — 15 total mentions
 10. [[Getting Started as an Azure Developer]] — 14 total mentions
 
 ---

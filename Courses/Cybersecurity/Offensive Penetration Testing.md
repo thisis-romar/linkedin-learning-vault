@@ -142,12 +142,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Offensive penetration testing course overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980)
+#### [Offensive penetration testing course overview](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=0)** Welcome to the Cybrary OnDemand Offensive Penetration Testing Course.
+> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=0)** Welcome to the Cybrary OnDemand Offensive [[Penetration Testing]] Course.
 >
 > **[0:04](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=4)** My name is Clint Kehr, and I'll be your tour guide.
 >
@@ -155,7 +154,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=8)** Well, this course is a very hands-on course.
 >
-> **[0:11](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=11)** I don't want it to be a death by PowerPoint course.
+> **[0:11](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=11)** I don't want it to be a death by [[Microsoft PowerPoint|PowerPoint]] course.
 >
 > **[0:13](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=13)** I want to demonstrate the techniques that ethical hackers or Pentesters are currently using, as well as you getting your hands dirty in labs.
 >
@@ -179,7 +178,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=76)** And I can kind of attribute that to the role I'm in now.
 >
-> **[1:20](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=80)** I think the OSCP was a great way to get my foot in the door in my current role.
+> **[1:20](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=80)** I think the [[OSCP]] was a great way to get my foot in the door in my current role.
 >
 > **[1:26](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=86)** So like I said, this is going to be a very hands-on course.
 >
@@ -197,13 +196,13 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=142)** But if you need to brush up or your intermediate, I think this course would be perfect for you.
 >
-> **[2:26](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=146)** Cybersecurity professionals, that's a very ambiguous term.
+> **[2:26](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=146)** [[Cybersecurity]] professionals, that's a very ambiguous term.
 >
 > **[2:29](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=149)** But if you're already in the industry and you want to learn more about hacking techniques, this is a good course for you.
 >
 > **[2:37](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=157)** And network administrators.
 >
-> **[2:38](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=158)** I think the best hackers have that network administration background because as hackers, right, we need to basically emulate or model our techniques off of what network admins do.
+> **[2:38](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=158)** I think the best hackers have that [[Network Administration]] background because as hackers, right, we need to basically emulate or model our techniques off of what network admins do.
 >
 > **[2:50](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=170)** Right.
 >
@@ -217,7 +216,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=183)** So we're talking about these certifications, these hacking certifications.
 >
-> **[3:08](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=188)** There's a lot of different organizations out there, CEH being EC-Councils.
+> **[3:08](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=188)** There's a lot of different organizations out there, [[CEH]] being EC-Councils.
 >
 > **[3:14](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=194)** And I want to also point out the fact that, yes, it is a multiple-choice test, but they've kind of moved also into a hands-on version of the CEH as well, which I think is great.
 >
@@ -225,7 +224,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=207)** So I applaud EC-Council for also offering a hands-on version of the CEH.
 >
-> **[3:33](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=213)** eLearnSecurity is newer, but I've taken the eWPT and the eCPPT exams and both of those are seven days in an environment to hack and then seven days to write a report.
+> **[3:33](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=213)** eLearnSecurity is newer, but I've taken the eWPT and the [[eCPPT]] exams and both of those are seven days in an environment to hack and then seven days to write a report.
 >
 > **[3:46](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=226)** I think that's incredibly realistic and also very beneficial.
 >
@@ -269,7 +268,7 @@ created: 2026-05-02
 >
 > **[6:07](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=367)** So I'm very fortunate in the fact that I got to be a federal agent, I got to be a law enforcement officer.
 >
-> **[6:13](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=373)** And I also get to, in my current role, protect people by doing ethical hacking.
+> **[6:13](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=373)** And I also get to, in my current role, protect people by doing [[Ethical Hacking]].
 >
 > **[6:22](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=382)** I also want to mention, if I can go back, this picture of the hacker in a hoodie.
 >
@@ -301,7 +300,7 @@ created: 2026-05-02
 >
 > **[7:07](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=427)** So our learning objectives in this course, we'll start at the beginning.
 >
-> **[7:10](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=430)** We'll start at how to install VirtualBox and how to download the Kali Linux, distro of Linux.
+> **[7:10](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=430)** We'll start at how to install VirtualBox and how to download the [[Kali Linux]], distro of [[Linux]].
 >
 > **[7:19](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=439)** So we start at the very basics, then we'll talk about a penetration test from web app Pentesting to network penetration testing.
 >
@@ -325,7 +324,7 @@ created: 2026-05-02
 >
 > **[8:05](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=485)** You should already have a solid understanding of TCP/IP networking.
 >
-> **[8:08](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=488)** You should have a reasonable level of understanding of Windows and Linux.
+> **[8:08](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=488)** You should have a reasonable level of understanding of [[Windows]] and Linux.
 >
 > **[8:12](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=492)** Maybe you've been in network admin, maybe you haven't.
 >
@@ -333,9 +332,9 @@ created: 2026-05-02
 >
 > **[8:17](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=497)** I think that's a good baseline here.
 >
-> **[8:19](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=499)** You should be familiar with Windows and the Linux command line like I just said, and also some understanding of Bash scripting and Python scripting as well.
+> **[8:19](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=499)** You should be familiar with Windows and the Linux command line like I just said, and also some understanding of Bash scripting and [[Python (Programming Language)|Python]] scripting as well.
 >
-> **[8:29](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=509)** It's not imperative, but we're talking a lot about exploit scripts here, and it's not being a script kiddie and just using Metasploit and firing things off from there, but also the fact that you can read scripts and understand what they do.
+> **[8:29](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=509)** It's not imperative, but we're talking a lot about exploit scripts here, and it's not being a script kiddie and just using [[Metasploit]] and firing things off from there, but also the fact that you can read scripts and understand what they do.
 >
 > **[8:45](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=525)** So we're going to go through, like I said, from the very beginning of the foundations of success in these tests, these hands-on tests to setting up Kali Linux and then understanding network protocols.
 >
@@ -351,7 +350,7 @@ created: 2026-05-02
 >
 > **[9:15](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=555)** And then privilege escalation, going from an unprivileged user to a privileged user as well as understanding how to crack passwords and conduct brute force login attacks.
 >
-> **[9:26](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=566)** Then we're going to kind of put everything together with a capstone lab that you'll have to do.
+> **[9:26](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=566)** Then we're going to kind of put everything together with a [[Capstone]] lab that you'll have to do.
 >
 > **[9:32](https://www.linkedin.com/learning/offensive-penetration-testing/offensive-penetration-testing-course-overview?u=76281980&t=572)** And then I'll kind of close with developing that hacker mindset.
 >
@@ -367,7 +366,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OSCP]] (3), [[Cybersecurity]] (3), [[Security]] (3), [[Linux]] (3), [[Kali Linux]] (2)
+> **Frameworks & Libraries:** [[CEH]] (4), [[OSCP]] (3), [[Cybersecurity]] (3), [[Linux]] (3), [[Kali Linux]] (2)
 > **Env Vars:** ceh (4), oscp (3), giac (2), sans (1), gpen (1)
 > **Definitions:** is a  (5)
 > **Code Identifiers:** elearnsecurity (1), ewpt (1), ecppt (1), elearn (1)
@@ -381,8 +380,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the penetration test report
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-penetration-test-report?u=76281980)
+#### [Understanding the penetration test report](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-penetration-test-report?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -408,7 +406,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-penetration-test-report?u=76281980&t=68)** Methodologies are important, information gathering.
 >
-> **[1:12](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-penetration-test-report?u=76281980&t=72)** At the end of OSCP, you don't want to realize that you didn't scan for every port and you didn't discover every service.
+> **[1:12](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-penetration-test-report?u=76281980&t=72)** At the end of [[OSCP]], you don't want to realize that you didn't scan for every port and you didn't discover every service.
 >
 > **[1:19](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-penetration-test-report?u=76281980&t=79)** Our scanning and enumeration portion of our Pentest is very, very, very critical.
 >
@@ -424,15 +422,15 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-penetration-test-report?u=76281980&t=111)** So if you can describe what that vulnerability is, if there's a CVE attached to that, that's great.
 >
-> **[1:57](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-penetration-test-report?u=76281980&t=117)** You may find exploit code in something like Exploit-db.
+> **[1:57](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-penetration-test-report?u=76281980&t=117)** You may find exploit code in something like [[Exploit-DB]].
 >
-> **[2:00](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-penetration-test-report?u=76281980&t=120)** Google is your best friend here as well as maybe you found something, a vulnerability in a custom piece of software. In offensive security, in their sample report, they have both both a CVE and something found in a custom piece of application.
+> **[2:00](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-penetration-test-report?u=76281980&t=120)** [[Google]] is your best friend here as well as maybe you found something, a vulnerability in a custom piece of software. In offensive security, in their sample report, they have both both a CVE and something found in a custom piece of application.
 >
 > **[2:18](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-penetration-test-report?u=76281980&t=138)** So if there's a specific CVE, of course, you can use that information from your Google searches.
 >
 > **[2:23](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-penetration-test-report?u=76281980&t=143)** And then for custom applications, you may want to use something like a CWE, which is more of a broad category.
 >
-> **[2:30](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-penetration-test-report?u=76281980&t=150)** So a CVE might be a SQL injection in a WordPress plugin, whereas a CWE is just generally what a SQL injection is.
+> **[2:30](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-penetration-test-report?u=76281980&t=150)** So a CVE might be a [[SQL]] injection in a [[WordPress]] plugin, whereas a CWE is just generally what a SQL injection is.
 >
 > **[2:40](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-penetration-test-report?u=76281980&t=160)** So you want to explain what the vulnerability is as well as how to fix it. If there's a CVE, you can be confident that the vendor has issued a patch or guidance on how to fix that.
 >
@@ -568,7 +566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OSCP]] (8), [[Security]] (5), [[SQL]] (4), [[Google]] (3), application (2)
+> **Frameworks & Libraries:** [[OSCP]] (8), [[SQL]] (4), [[Google]] (3), [[Exploit-DB]] (1), [[WordPress]] (1)
 > **Env Vars:** oscp (8), cve (7), sql (4), cwe (2), pwk (2)
 > **CLI Commands:** make (4), find (3)
 > **Ports:** port 22 (2)
@@ -577,8 +575,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 
-#### Penetration test report demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/penetration-test-report-demo?u=76281980)
+#### [Penetration test report demo](https://www.linkedin.com/learning/offensive-penetration-testing/penetration-test-report-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -588,11 +585,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/offensive-penetration-testing/penetration-test-report-demo?u=76281980&t=13)** It provides a whole lot of information.
 >
-> **[0:14](https://www.linkedin.com/learning/offensive-penetration-testing/penetration-test-report-demo?u=76281980&t=14)** You can see off the bat if we're looking for a particular vulnerability in this case, CVE-2009-3023, which came out in the year 2009, we can already see there's two public exploits available for this in one Metasploit module.
+> **[0:14](https://www.linkedin.com/learning/offensive-penetration-testing/penetration-test-report-demo?u=76281980&t=14)** You can see off the bat if we're looking for a particular vulnerability in this case, CVE-2009-3023, which came out in the year 2009, we can already see there's two public exploits available for this in one [[Metasploit]] module.
 >
 > **[0:27](https://www.linkedin.com/learning/offensive-penetration-testing/penetration-test-report-demo?u=76281980&t=27)** I'll go into that a little bit later.
 >
-> **[0:29](https://www.linkedin.com/learning/offensive-penetration-testing/penetration-test-report-demo?u=76281980&t=29)** But a description is here that it's a buffer overflow in FTP and Microsoft IIS versions 5.0 through 6.0.
+> **[0:29](https://www.linkedin.com/learning/offensive-penetration-testing/penetration-test-report-demo?u=76281980&t=29)** But a description is here that it's a buffer overflow in FTP and [[Microsoft]] IIS versions 5.0 through 6.0.
 >
 > **[0:38](https://www.linkedin.com/learning/offensive-penetration-testing/penetration-test-report-demo?u=76281980&t=38)** And if you look down here, the CVSS score, it's a 9.3, the highest being a 10.
 >
@@ -612,9 +609,9 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/offensive-penetration-testing/penetration-test-report-demo?u=76281980&t=86)** Now, if we go down here, we'll see that there's references to the exploit.
 >
-> **[1:29](https://www.linkedin.com/learning/offensive-penetration-testing/penetration-test-report-demo?u=76281980&t=89)** I It's in red right here, so we can actually go to Exploit-db which we'll do later in our labs and we can then go to Exploit-db and look at this particular exploit and then modify it for our environment and then hope that it works.
+> **[1:29](https://www.linkedin.com/learning/offensive-penetration-testing/penetration-test-report-demo?u=76281980&t=89)** I It's in red right here, so we can actually go to [[Exploit-DB]] which we'll do later in our labs and we can then go to Exploit-db and look at this particular exploit and then modify it for our environment and then hope that it works.
 >
-> **[1:46](https://www.linkedin.com/learning/offensive-penetration-testing/penetration-test-report-demo?u=76281980&t=106)** The other thing is we have a Metasploit module attached to it, so you can use Metasploit once in OSCP.
+> **[1:46](https://www.linkedin.com/learning/offensive-penetration-testing/penetration-test-report-demo?u=76281980&t=106)** The other thing is we have a Metasploit module attached to it, so you can use Metasploit once in [[OSCP]].
 >
 > **[1:51](https://www.linkedin.com/learning/offensive-penetration-testing/penetration-test-report-demo?u=76281980&t=111)** And if we wanted to use it, if we found this particular vulnerability, we could then -- then we know based on this website that there is a Metasploit module that we could use to exploit that vulnerability.
 >
@@ -630,7 +627,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/offensive-penetration-testing/penetration-test-report-demo?u=76281980&t=156)** Complexity is low.
 >
-> **[2:37](https://www.linkedin.com/learning/offensive-penetration-testing/penetration-test-report-demo?u=76281980&t=157)** You just have to use some JavaScript to execute the cross-site scripting exploit.
+> **[2:37](https://www.linkedin.com/learning/offensive-penetration-testing/penetration-test-report-demo?u=76281980&t=157)** You just have to use some [[JavaScript]] to execute the cross-site scripting exploit.
 >
 > **[2:43](https://www.linkedin.com/learning/offensive-penetration-testing/penetration-test-report-demo?u=76281980&t=163)** There are no privileges required.
 >
@@ -648,7 +645,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/offensive-penetration-testing/penetration-test-report-demo?u=76281980&t=181)** Confidentiality is high because as an attacker, I could craft my exploit so that I could steal somebodies cookie or read sensitive information.
 >
-> **[3:11](https://www.linkedin.com/learning/offensive-penetration-testing/penetration-test-report-demo?u=76281980&t=191)** Integrity is high because maybe I can redirect them to a phishing page that looks exactly like a legitimate page and they could give me some sensitive information there.
+> **[3:11](https://www.linkedin.com/learning/offensive-penetration-testing/penetration-test-report-demo?u=76281980&t=191)** Integrity is high because maybe I can redirect them to a [[Phishing]] page that looks exactly like a legitimate page and they could give me some sensitive information there.
 >
 > **[3:22](https://www.linkedin.com/learning/offensive-penetration-testing/penetration-test-report-demo?u=76281980&t=202)** And availability is high because I can redirect somebody so there's no ability for them to actually reach that domain, which all this calculated.
 >
@@ -672,7 +669,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Scripting]] (2), [[Microsoft]] (1), [[OSCP]] (1), web (1)
+> **Frameworks & Libraries:** [[Metasploit]] (4), [[Exploit-DB]] (2), [[Microsoft]] (1), [[OSCP]] (1), [[JavaScript]] (1)
 > **Env Vars:** cve (7), cwe (6), cvss (5), ftp (1), iis (1)
 > **Versions:** 5.0 (1), 6.0 (1), 9.3 (1), 8.8 (1)
 > **UI Navigation:** go to (3)
@@ -680,8 +677,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Analogies:** for example (1)
 
-#### Note-taking and mind mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980)
+#### [Note-taking and mind mapping](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -691,7 +687,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=18)** So I mean mind mapping and note taking a very broad sense.
 >
-> **[0:21](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=21)** I mean, when you're taking notes, when you're honing a box in the labs. I mean, when you're learning about various techniques, like hopefully you're learning about things now, taking notes and mind mapping could be mind mapping your strategies in taking OSCP or just general strategies in hacking or Pentesting.
+> **[0:21](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=21)** I mean, when you're taking notes, when you're honing a box in the labs. I mean, when you're learning about various techniques, like hopefully you're learning about things now, taking notes and mind mapping could be mind mapping your strategies in taking [[OSCP]] or just general strategies in hacking or Pentesting.
 >
 > **[0:43](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=43)** So an admission I have to make is I'm not very good at taking notes or creating mind maps.
 >
@@ -719,7 +715,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=96)** Could be the same thing here.
 >
-> **[1:37](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=97)** I know when I was learning Python, it wasn't until I actually typed out the keys that I started learning more and more and more about Python.
+> **[1:37](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=97)** I know when I was learning [[Python (Programming Language)|Python]], it wasn't until I actually typed out the keys that I started learning more and more and more about Python.
 >
 > **[1:45](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=105)** That's to say, don't try anything new the day of OSCP.
 >
@@ -743,9 +739,9 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=145)** So that's to say that, you know, it might be difficult for other people to understand your mind map. If it works for you, that's great.
 >
-> **[2:32](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=152)** I will say that I've seen some great mind maps on LinkedIn to prepare for OSCP and I think they do a really great job.
+> **[2:32](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=152)** I will say that I've seen some great mind maps on [[LinkedIn]] to prepare for OSCP and I think they do a really great job.
 >
-> **[2:38](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=158)** They link concepts like, you know, here are all the scanning tools and techniques, here are the privilege, escalation tools and techniques for Linux or Windows.
+> **[2:38](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=158)** They link concepts like, you know, here are all the scanning tools and techniques, here are the privilege, escalation tools and techniques for [[Linux]] or [[Windows]].
 >
 > **[2:47](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=167)** So that's to say that there are some really great mind maps out there and it does help kind of bring complex topics and make them more digestible.
 >
@@ -769,9 +765,9 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=217)** So, you know, if you are a mind map person, give one of these a try and see if you like it. For note taking, there's a lot of different ways to take notes.
 >
-> **[3:45](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=225)** I've seen some great GitHub repos on notes for OSCP.
+> **[3:45](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=225)** I've seen some great [[GitHub]] repos on notes for OSCP.
 >
-> **[3:50](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=230)** Usually, my Google searches I'll search for like Aurora Shell and I'll come across a great GitHub repo of somebody who has all their nice reverse shells listed out for Python or PHP right there in their GitHub repo.
+> **[3:50](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=230)** Usually, my [[Google]] searches I'll search for like Aurora Shell and I'll come across a great GitHub repo of somebody who has all their nice reverse shells listed out for Python or [[PHP]] right there in their GitHub repo.
 >
 > **[4:03](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=243)** It's great for developers if you're used to using GitHub, you know, this might come naturally for you, but I do think it works quite well.
 >
@@ -785,9 +781,9 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=262)** You can put in screenshots, you can write text, you can write everything out very nicely.
 >
-> **[4:27](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=267)** You can also do that with OneNote, which is a Microsoft product.
+> **[4:27](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=267)** You can also do that with [[OneNote]], which is a [[Microsoft]] product.
 >
-> **[4:30](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=270)** I used OneNote for my ECPPT preparation when I was actually taking the test and it was really nice.
+> **[4:30](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=270)** I used OneNote for my [[eCPPT]] preparation when I was actually taking the test and it was really nice.
 >
 > **[4:38](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=278)** I could lay out all my tabs by which box, you know, I was hacking and I could paste my screenshots.
 >
@@ -795,19 +791,19 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=285)** I really liked OneNote.
 >
-> **[4:47](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=287)** When I first started taking notes for OSCP, I did so in a Microsoft Word document.
+> **[4:47](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=287)** When I first started taking notes for OSCP, I did so in a [[Microsoft Word]] document.
 >
 > **[4:53](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=293)** Not the best way to take notes.
 >
 > **[4:55](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=295)** I just kind of pasted everything.
 >
-> **[4:56](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=296)** It was kind of like a stream of consciousness pasted into a word document.
+> **[4:56](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=296)** It was kind of like a stream of consciousness pasted into a [[Microsoft Word|word]] document.
 >
 > **[5:03](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=303)** I found the complexity is I would not know which command was the correct one and which was the wrong one that I had tried.
 >
 > **[5:10](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=310)** So if you do stick with word documents in your note taking, I would really make sure that there's a logical flow to that.
 >
-> **[5:17](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=317)** Of course, if you don't like one or Microsoft products or you don't want to buy Microsoft Word, you can always use LibreOffice Writer.
+> **[5:17](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=317)** Of course, if you don't like one or [[Microsoft Products]] or you don't want to buy Microsoft Word, you can always use LibreOffice Writer.
 >
 > **[5:26](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=326)** So here are some note taking tips.
 >
@@ -829,7 +825,7 @@ created: 2026-05-02
 >
 > **[5:58](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=358)** If your host OS crashes, then you lose all your notes there.
 >
-> **[6:02](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=362)** So I like to back up my notes like OneDrive.
+> **[6:02](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=362)** So I like to back up my notes like [[Microsoft OneDrive|OneDrive]].
 >
 > **[6:05](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=365)** I think putting things in the cloud is a very wise decision because if something happens to, you know, your host, then you always have your cloud to -- that your documents are backed up onto.
 >
@@ -853,7 +849,7 @@ created: 2026-05-02
 >
 > **[7:04](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=424)** I have a whole word document of commands that I like to use, and they're broken out into web app attacks.
 >
-> **[7:10](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=430)** Here's WordPress or privilege escalation for Linux and Windows.
+> **[7:10](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=430)** Here's [[WordPress]] or privilege escalation for Linux and Windows.
 >
 > **[7:14](https://www.linkedin.com/learning/offensive-penetration-testing/note-taking-and-mind-mapping?u=76281980&t=434)** So I can find things easily.
 >
@@ -886,18 +882,17 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Best Practices:** you should always (1)
 
-#### Finding resources to prepare for the offensive penetration testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980)
+#### [Finding resources to prepare for the offensive penetration testing](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=0)** Finding Resources to Prepare for Hands-on Pentesting Certifications.
 >
-> **[0:05](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=5)** Our learning objectives are to know which resources are available to prepare for hands-on penetration testing certifications and determine which resources are right for you.
+> **[0:05](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=5)** Our learning objectives are to know which resources are available to prepare for hands-on [[Penetration Testing]] certifications and determine which resources are right for you.
 >
 > **[0:16](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=16)** I want to show you this graph because I think it really illustrates the purpose or the point of doing hands-on labs.
 >
-> **[0:24](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=24)** So if you look at the OSCP pass rate, in their lab environment, their PWK lab environment, the more boxes you own, the more likely you are to pass.
+> **[0:24](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=24)** So if you look at the [[OSCP]] pass rate, in their lab environment, their PWK lab environment, the more boxes you own, the more likely you are to pass.
 >
 > **[0:37](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=37)** And personally, I know that to be true, because when I first took OSCP, my first attempt, I had poned less than 10 boxes in the lab environment.
 >
@@ -919,13 +914,13 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=86)** I really enjoy Hack the Box.
 >
-> **[1:28](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=88)** There are some other ones out there like Vuln Hub, Pentesting Academy and some free ones like OverTheWire and TryHackMe also has some free content available as well.
+> **[1:28](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=88)** There are some other ones out there like Vuln Hub, Pentesting Academy and some free ones like OverTheWire and [[TryHackMe]] also has some free content available as well.
 >
 > **[1:39](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=99)** We also have to know what commands to use.
 >
-> **[1:41](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=101)** So there's great GitHub Repos out there available with commands, important commands for these certifications as well as people's personal websites.
+> **[1:41](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=101)** So there's great [[GitHub]] Repos out there available with commands, important commands for these certifications as well as people's personal websites.
 >
-> **[1:52](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=112)** So we'll look at g0tmilk in a little bit.
+> **[1:52](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=112)** So we'll look at [[g0tmi1k|g0tmilk]] in a little bit.
 >
 > **[1:53](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=113)** Books and guides.
 >
@@ -959,11 +954,11 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=191)** I want to do more of the real life type boxes like these that you see here.
 >
-> **[3:17](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=197)** Many labs are harder than the certifications themselves, you know, are harder than eCPPT or OSCP.
+> **[3:17](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=197)** Many labs are harder than the certifications themselves, you know, are harder than [[eCPPT]] or OSCP.
 >
 > **[3:25](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=205)** Some of these boxes take me days to own, and that's obviously not -- you don't have the time for that in these hands-on certifications. There's also walkthroughs for retired machines.
 >
-> **[3:36](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=216)** Again, if you pay for the VIP plan, you'll have the ability to go through these retired machines and Ippsec, I can't give IPsec enough credit because Ippsec videos are really me watching them and looking at his processes.
+> **[3:36](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=216)** Again, if you pay for the VIP plan, you'll have the ability to go through these retired machines and [[IppSec]], I can't give IPsec enough credit because Ippsec videos are really me watching them and looking at his processes.
 >
 > **[3:52](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=232)** This methodology taught me so much about my own methodology.
 >
@@ -1023,9 +1018,9 @@ created: 2026-05-02
 >
 > **[6:33](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=393)** So I do enjoy because I like my own VM having that option to use open VPN.
 >
-> **[6:40](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=400)** So list of commands: Pentestmonkey, we'll see his reverse shells later on in this course.
+> **[6:40](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=400)** So list of commands: [[pentestmonkey]], we'll see his reverse shells later on in this course.
 >
-> **[6:46](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=406)** But Pentestmonkey's great. G0tmilk has an excellent write up on Linux privilege escalation. Medium articles, not medium in size but medium.
+> **[6:46](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=406)** But Pentestmonkey's great. G0tmilk has an excellent write up on [[Linux]] privilege escalation. Medium articles, not medium in size but medium.
 >
 > **[6:58](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=418)** The publishing company, I guess you could call it, has some excellent walkthroughs of CTFs or, you know, Hack The Box machines, GitHub repos, blogs.
 >
@@ -1053,7 +1048,7 @@ created: 2026-05-02
 >
 > **[8:19](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=499)** So Pre-built Labs: DVWA, Metasploitable, and Webgoat.
 >
-> **[8:24](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=504)** I think it's good to get some hands-on experience in setting up DVWA just because you have to figure out how to create a MySQL database. Metasploitable: We'll see that this here, there are so many walkthroughs for all of these which --so I think is good if you're a beginner to -- just because there's so many resources out there, free resources to use it.
+> **[8:24](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=504)** I think it's good to get some hands-on experience in setting up DVWA just because you have to figure out how to create a [[MySQL]] database. Metasploitable: We'll see that this here, there are so many walkthroughs for all of these which --so I think is good if you're a beginner to -- just because there's so many resources out there, free resources to use it.
 >
 > **[8:48](https://www.linkedin.com/learning/offensive-penetration-testing/finding-resources-to-prepare-for-the-offensive-penetration-testing?u=76281980&t=528)** If you're more seasoned and getting ready for things like OSCP and eCPPT, you might want to move on to TryHackMe and Hack The Box and things like that just because I think they're a bit more or a bit harder than these intentionally vulnerable pre-built labs.
 >
@@ -1069,7 +1064,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OSCP]] (6), [[Penetration Testing]] (2), [[GitHub]] (2), vpn (2), next (2)
+> **Frameworks & Libraries:** [[IppSec]] (7), [[OSCP]] (6), [[TryHackMe]] (5), [[g0tmi1k|G0tmilk]] (3), [[pentestmonkey]] (3)
 > **Env Vars:** oscp (6), dvwa (3), vip (3), pwk (2), vpn (2)
 > **Tools:** command line (3), github (2)
 > **CLI Commands:** make (1), find (1), mysql (1)
@@ -1081,12 +1076,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up the Kali Linux VM
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980)
+#### [Setting up the Kali Linux VM](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980&t=0)** Module 3: Kali Linux Basics.
+> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980&t=0)** Module 3: [[Kali Linux]] Basics.
 >
 > **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980&t=3)** Setting up the Kali Linux VM.
 >
@@ -1096,11 +1090,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980&t=17)** So hopefully, if you're watching this course, you already have some familiarization with virtualization software.
 >
-> **[0:23](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980&t=23)** If you use things like VulnHub, what you're going to need to do is use something like VirtualBox or VMware to load these virtual machines in.
+> **[0:23](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980&t=23)** If you use things like VulnHub, what you're going to need to do is use something like VirtualBox or VMware to load these [[Virtual Machines]] in.
 >
 > **[0:34](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980&t=34)** So virtualization is kind of like inception.
 >
-> **[0:36](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980&t=36)** It's a computer within a computer. You have your host operating system, whether you have a Mac or you have Windows and then you have a computer within that using this virtualization software, which is really just a file, but it's a whole operating system contained within your computer.
+> **[0:36](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980&t=36)** It's a computer within a computer. You have your host operating system, whether you have a Mac or you have [[Windows]] and then you have a computer within that using this virtualization software, which is really just a file, but it's a whole operating system contained within your computer.
 >
 > **[0:50](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980&t=50)** For example, people who analyze malware will do so in a virtual machine because the malware will infect the virtual machine, but not the host operating system.
 >
@@ -1116,13 +1110,13 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980&t=78)** Because I do a lot of virtualization, I do pay for the Pro version of Fusion and Workstation.
 >
-> **[1:27](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980&t=87)** So I started learning on Oracle VirtualBox just because it's free and it runs on every platform, it runs on Windows, Linux, and Mac. And VMware Workstation Player only runs on Windows and Linux.
+> **[1:27](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980&t=87)** So I started learning on Oracle VirtualBox just because it's free and it runs on every platform, it runs on Windows, [[Linux]], and Mac. And VMware Workstation Player only runs on Windows and Linux.
 >
 > **[1:37](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980&t=97)** VMware Fusion is for Macs.
 >
 > **[1:41](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980&t=101)** So what you want to do is you're going to want to download an ISO file from the Kali download web page.
 >
-> **[1:50](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980&t=110)** Now, you're not only going to use this for, for these exercises, but you'll need these for things like Hack The Box or for VulnHub or for TryHackMe.
+> **[1:50](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980&t=110)** Now, you're not only going to use this for, for these exercises, but you'll need these for things like Hack The Box or for VulnHub or for [[TryHackMe]].
 >
 > **[1:59](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980&t=119)** That's where you'll run your open VPN software from and do everything within your virtual machine.
 >
@@ -1142,7 +1136,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980&t=162)** So again, you may need to enable virtualization.
 >
-> **[2:47](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980&t=167)** You know, google that if you're having issues on how to go through the BIOS or UEFI. To enable virtualization on your machine, you're going to need 2 GB of RAM.
+> **[2:47](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980&t=167)** You know, [[Google]] that if you're having issues on how to go through the BIOS or UEFI. To enable virtualization on your machine, you're going to need 2 GB of RAM.
 >
 > **[2:58](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-kali-linux-vm?u=76281980&t=178)** The virtualization software will share the memory of your computer.
 >
@@ -1360,7 +1354,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kali Linux]] (17), [[Virtualization]] (9), [[Windows]] (6), [[Linux]] (3), web (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (17), [[Windows]] (6), [[Linux]] (3), [[TryHackMe]] (1), [[Google]] (1)
 > **Env Vars:** iso (5), ram (3), ova (3), bios (2), usb (2)
 > **CLI Commands:** make (13), sudo (1)
 > **Prerequisites:** install (6), you'll need (1), make sure you have (1)
@@ -1369,12 +1363,11 @@ created: 2026-05-02
 > **Tools:** terminal (3)
 > **Cross-References:** go back to (1), we covered (1)
 
-#### Overview of the tools in Kali Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/overview-of-the-tools-in-kali-linux?u=76281980)
+#### [Overview of the tools in Kali Linux](https://www.linkedin.com/learning/offensive-penetration-testing/overview-of-the-tools-in-kali-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/overview-of-the-tools-in-kali-linux?u=76281980&t=0)** An Overview of the Tools in Kali Linux.
+> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/overview-of-the-tools-in-kali-linux?u=76281980&t=0)** An Overview of the Tools in [[Kali Linux]].
 >
 > **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/overview-of-the-tools-in-kali-linux?u=76281980&t=3)** Our learning objectives are to learn about the various tools available in Kali Linux and installing some of these tools that will help you in this course and in your hacking journey.
 >
@@ -1384,9 +1377,9 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/offensive-penetration-testing/overview-of-the-tools-in-kali-linux?u=76281980&t=30)** So they typically fall -- these applications fall into either the command line or to a GUI.
 >
-> **[0:37](https://www.linkedin.com/learning/offensive-penetration-testing/overview-of-the-tools-in-kali-linux?u=76281980&t=37)** So I used Windows a lot when I was younger, and I'm used to seeing Windows pop up and nice graphical user interfaces and I just preferred that.
+> **[0:37](https://www.linkedin.com/learning/offensive-penetration-testing/overview-of-the-tools-in-kali-linux?u=76281980&t=37)** So I used [[Windows]] a lot when I was younger, and I'm used to seeing Windows pop up and nice graphical user interfaces and I just preferred that.
 >
-> **[0:46](https://www.linkedin.com/learning/offensive-penetration-testing/overview-of-the-tools-in-kali-linux?u=76281980&t=46)** So when I started my hacking journey, the GUI version of Nmap -- was Nmap, I started using that and I was more comfortable with that.
+> **[0:46](https://www.linkedin.com/learning/offensive-penetration-testing/overview-of-the-tools-in-kali-linux?u=76281980&t=46)** So when I started my hacking journey, the GUI version of [[Nmap]] -- was Nmap, I started using that and I was more comfortable with that.
 >
 > **[0:54](https://www.linkedin.com/learning/offensive-penetration-testing/overview-of-the-tools-in-kali-linux?u=76281980&t=54)** But as I got more proficient as a Pentester, I greatly preferred using the command line.
 >
@@ -1418,7 +1411,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/offensive-penetration-testing/overview-of-the-tools-in-kali-linux?u=76281980&t=118)** I also like to install Chromium in my Kali VMs just because when we get into web attacks, some browsers work with like cross-site scripting, maybe Firefox will work, whereas Chromium won't and vice versa.
 >
-> **[2:12](https://www.linkedin.com/learning/offensive-penetration-testing/overview-of-the-tools-in-kali-linux?u=76281980&t=132)** Also, with browser add-ons, I prefer having different browsers just because when I use Burp Suite you'll see if you have a lot of extensions added and you intercept -- you're starting to intercept all that traffic that it creates a lot of traffic having all those extensions.
+> **[2:12](https://www.linkedin.com/learning/offensive-penetration-testing/overview-of-the-tools-in-kali-linux?u=76281980&t=132)** Also, with browser add-ons, I prefer having different browsers just because when I use [[Burp Suite]] you'll see if you have a lot of extensions added and you intercept -- you're starting to intercept all that traffic that it creates a lot of traffic having all those extensions.
 >
 > **[2:26](https://www.linkedin.com/learning/offensive-penetration-testing/overview-of-the-tools-in-kali-linux?u=76281980&t=146)** So I like having two different browsers, one with a bunch of extensions and one without.
 >
@@ -1584,7 +1577,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kali Linux]] (4), web (4), hit (4), [[Search]] (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Nmap]] (5), [[Kali Linux]] (4), [[Windows]] (2), [[Burp Suite]] (1)
 > **Prerequisites:** install (15), setup (1), make sure you have (1), configure (1)
 > **CLI Commands:** sudo (5), apt (5), make (4), find (2), ls (1)
 > **Tools:** command line (6), firefox (4), terminal (2), zsh (1)
@@ -1593,18 +1586,17 @@ created: 2026-05-02
 > **Cross-References:** later in (2), as we saw (1)
 > **File Paths:** config.yaml (1)
 
-#### Understanding the command line
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980)
+#### [Understanding the command line](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=1)** Understanding the Command Line.
 >
-> **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=3)** Our learning objectives are to understand why the command line is important for penetration testers and also to explain how the Linux file system is structured.
+> **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=3)** Our learning objectives are to understand why the command line is important for penetration testers and also to explain how the [[Linux]] file system is structured.
 >
 > **[0:11](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=11)** So you'll see this graphic here from The Matrix many, many years ago.
 >
-> **[0:15](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=15)** But you'll see that here, Trinity is actually using Nmap, which is a tool that we'll learn about later.
+> **[0:15](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=15)** But you'll see that here, Trinity is actually using [[Nmap]], which is a tool that we'll learn about later.
 >
 > **[0:21](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=21)** But that's to say that most movies are not true to life.
 >
@@ -1628,7 +1620,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=68)** This is also something that I guess I struggled with when I first got to the PWK labs because I didn't really know the command line and I didn't really know the Linux file system.
 >
-> **[1:18](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=78)** And I think this goes towards that graph that we saw a few lessons ago where when people had hacked into more machines, they had more success in OSCP, probably because the more reps you get, the more you understand how these file systems work.
+> **[1:18](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=78)** And I think this goes towards that graph that we saw a few lessons ago where when people had hacked into more machines, they had more success in [[OSCP]], probably because the more reps you get, the more you understand how these file systems work.
 >
 > **[1:32](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=92)** So the root directory, that's where the root user's home is, typically in a CTF or Hack The Box or PWK.
 >
@@ -1642,7 +1634,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=122)** So another good directory to look in.
 >
-> **[2:04](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=124)** Etc has the system configuration files.
+> **[2:04](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=124)** Etc has the [[System Configuration]] files.
 >
 > **[2:07](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=127)** The most frequent ones that we look for are password and shadow, because the if both of those combined, we can start cracking passwords and get on the box that way.
 >
@@ -1650,15 +1642,15 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=143)** So these are the system binaries.
 >
-> **[2:26](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=146)** So, you know, let's say we want to know if Netcat is on a machine, we can look in the bin directory to see if NC Netcat is in there.
+> **[2:26](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=146)** So, you know, let's say we want to know if [[Netcat]] is on a machine, we can look in the bin directory to see if NC Netcat is in there.
 >
 > **[2:35](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=155)** Also, the user directory is important because sometimes netcat may not be in bin, maybe it might be in user bin.
 >
-> **[2:43](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=163)** And this is something I had to learn as well in the PWK labs because if I was looking for Python, maybe Python's not in bin, maybe it's in user bin Python to execute Python on that box.
+> **[2:43](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=163)** And this is something I had to learn as well in the PWK labs because if I was looking for [[Python (Programming Language)|Python]], maybe Python's not in bin, maybe it's in user bin Python to execute Python on that box.
 >
 > **[2:56](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=176)** Var is good; that contains logs, var logs, access.logs, a good one.
 >
-> **[3:02](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=182)** Also var logs apache and also apache itself has all of its files in var.www.html, is going to be our Apache server and all the files that server has in that directory.
+> **[3:02](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=182)** Also var logs apache and also apache itself has all of its files in var.www.[[HTML]], is going to be our Apache server and all the files that server has in that directory.
 >
 > **[3:19](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=199)** Here are some other directories.
 >
@@ -1680,7 +1672,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=268)** I like the Z-shell more than bash just because I think it has more functionality and this is overly simplified, but Linux treats everything as a file.
 >
-> **[4:38](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=278)** So coming from the Windows world where things are a lot different, I needed to learn that in Linux, everything is a file.
+> **[4:38](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=278)** So coming from the [[Windows]] world where things are a lot different, I needed to learn that in Linux, everything is a file.
 >
 > **[4:45](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-command-line?u=76281980&t=285)** Even directories are considered files in Linux.
 >
@@ -1778,19 +1770,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (9), [[Python (Programming Language)|Python]] (4), cd (4), [[Windows]] (3), hit (2)
+> **Frameworks & Libraries:** [[Linux]] (9), [[Python (Programming Language)|Python]] (4), [[Netcat]] (3), [[Windows]] (3), [[Nmap]] (2)
 > **CLI Commands:** ssh (4), python (4), cd (4), make (4), apache (3)
 > **Env Vars:** pwk (3), ssh (3), rdp (2), vnc (2), oscp (1)
 > **Tools:** command line (7), bash (2), zsh (1)
 > **Definitions:** is a  (4)
 > **File Paths:** var.www.html (1), cybrary.txt (1)
 
-#### Who, what, when, where, and how of the Linux command line
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/who-what-when-where-and-how-of-the-linux-command-line?u=76281980)
+#### [Who, what, when, where, and how of the Linux command line](https://www.linkedin.com/learning/offensive-penetration-testing/who-what-when-where-and-how-of-the-linux-command-line?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/offensive-penetration-testing/who-what-when-where-and-how-of-the-linux-command-line?u=76281980&t=1)** The who, what, when, where, and how of the Linux command line.
+> **[0:01](https://www.linkedin.com/learning/offensive-penetration-testing/who-what-when-where-and-how-of-the-linux-command-line?u=76281980&t=1)** The who, what, when, where, and how of the [[Linux]] command line.
 >
 > **[0:05](https://www.linkedin.com/learning/offensive-penetration-testing/who-what-when-where-and-how-of-the-linux-command-line?u=76281980&t=5)** So in this lesson, we'll learn the who, what, when, where, and how the Linux command line.
 >
@@ -1800,7 +1791,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/offensive-penetration-testing/who-what-when-where-and-how-of-the-linux-command-line?u=76281980&t=26)** Why are we here?
 >
-> **[0:27](https://www.linkedin.com/learning/offensive-penetration-testing/who-what-when-where-and-how-of-the-linux-command-line?u=76281980&t=27)** Well, we're here to pass the OSCP.
+> **[0:27](https://www.linkedin.com/learning/offensive-penetration-testing/who-what-when-where-and-how-of-the-linux-command-line?u=76281980&t=27)** Well, we're here to pass the [[OSCP]].
 >
 > **[0:29](https://www.linkedin.com/learning/offensive-penetration-testing/who-what-when-where-and-how-of-the-linux-command-line?u=76281980&t=29)** And how, in your report, so you cover everything.
 >
@@ -1812,7 +1803,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/offensive-penetration-testing/who-what-when-where-and-how-of-the-linux-command-line?u=76281980&t=55)** Well, it's a command in the Linux terminal.
 >
-> **[0:57](https://www.linkedin.com/learning/offensive-penetration-testing/who-what-when-where-and-how-of-the-linux-command-line?u=76281980&t=57)** It's also a command on Windows.
+> **[0:57](https://www.linkedin.com/learning/offensive-penetration-testing/who-what-when-where-and-how-of-the-linux-command-line?u=76281980&t=57)** It's also a command on [[Windows]].
 >
 > **[0:59](https://www.linkedin.com/learning/offensive-penetration-testing/who-what-when-where-and-how-of-the-linux-command-line?u=76281980&t=59)** It works on either. That's why I really like this command because if I'm enumerating a system and I do, "who am I," hopefully, it will come back with either system or root because it will work on either Linux or Windows.
 >
@@ -1908,7 +1899,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/offensive-penetration-testing/who-what-when-where-and-how-of-the-linux-command-line?u=76281980&t=298)** Whereis; locates programs.
 >
-> **[5:00](https://www.linkedin.com/learning/offensive-penetration-testing/who-what-when-where-and-how-of-the-linux-command-line?u=76281980&t=300)** Maybe you don't know where Python is on that box.
+> **[5:00](https://www.linkedin.com/learning/offensive-penetration-testing/who-what-when-where-and-how-of-the-linux-command-line?u=76281980&t=300)** Maybe you don't know where [[Python (Programming Language)|Python]] is on that box.
 >
 > **[5:02](https://www.linkedin.com/learning/offensive-penetration-testing/who-what-when-where-and-how-of-the-linux-command-line?u=76281980&t=302)** You do Where is Python?
 >
@@ -1928,7 +1919,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/offensive-penetration-testing/who-what-when-where-and-how-of-the-linux-command-line?u=76281980&t=332)** So I just see the output that where it finds something.
 >
-> **[5:36](https://www.linkedin.com/learning/offensive-penetration-testing/who-what-when-where-and-how-of-the-linux-command-line?u=76281980&t=336)** This can be very verbose, though because you're looking for everything that has the word password in it.
+> **[5:36](https://www.linkedin.com/learning/offensive-penetration-testing/who-what-when-where-and-how-of-the-linux-command-line?u=76281980&t=336)** This can be very verbose, though because you're looking for everything that has the [[Microsoft Word|word]] password in it.
 >
 > **[5:43](https://www.linkedin.com/learning/offensive-penetration-testing/who-what-when-where-and-how-of-the-linux-command-line?u=76281980&t=343)** How?
 >
@@ -1950,7 +1941,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (6), [[Search]] (3), [[OSCP]] (2), [[Windows]] (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Linux]] (6), [[OSCP]] (2), [[Windows]] (2), [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (4), grep (3), make (2), sudo (2), ls (2)
 > **Tools:** command line (4), terminal (1), bash (1)
 > **Env Vars:** oscp (2), rwx (1)
@@ -1959,28 +1950,27 @@ created: 2026-05-02
 > **Documentation:** man page (1)
 > **Definitions:** is a  (1)
 
-#### Windows command lab
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/windows-command-lab?u=76281980)
+#### [Windows command lab](https://www.linkedin.com/learning/offensive-penetration-testing/windows-command-lab?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/offensive-penetration-testing/windows-command-lab?u=76281980&t=1)** Windows Command Line.
+> **[0:01](https://www.linkedin.com/learning/offensive-penetration-testing/windows-command-lab?u=76281980&t=1)** [[Windows]] Command Line.
 >
 > **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/windows-command-lab?u=76281980&t=3)** Now, we're going to learn about some basic commands in Windows.
 >
 > **[0:07](https://www.linkedin.com/learning/offensive-penetration-testing/windows-command-lab?u=76281980&t=7)** Don't forget about Windows.
 >
-> **[0:09](https://www.linkedin.com/learning/offensive-penetration-testing/windows-command-lab?u=76281980&t=9)** I think this is a big mistake or something that many Pentesters, junior Pentesters have problems with is you learn so much about Linux.
+> **[0:09](https://www.linkedin.com/learning/offensive-penetration-testing/windows-command-lab?u=76281980&t=9)** I think this is a big mistake or something that many Pentesters, junior Pentesters have problems with is you learn so much about [[Linux]].
 >
 > **[0:17](https://www.linkedin.com/learning/offensive-penetration-testing/windows-command-lab?u=76281980&t=17)** Linux is great to learn on Linux is great to hack.
 >
-> **[0:21](https://www.linkedin.com/learning/offensive-penetration-testing/windows-command-lab?u=76281980&t=21)** But you know, Windows was a big weakness of mine in OSCP.
+> **[0:21](https://www.linkedin.com/learning/offensive-penetration-testing/windows-command-lab?u=76281980&t=21)** But you know, Windows was a big weakness of mine in [[OSCP]].
 >
 > **[0:25](https://www.linkedin.com/learning/offensive-penetration-testing/windows-command-lab?u=76281980&t=25)** I really was not comfortable with Windows and the commands that I had to use when I actually got into a Windows box to do privilege escalation or where to look for sensitive files.
 >
 > **[0:34](https://www.linkedin.com/learning/offensive-penetration-testing/windows-command-lab?u=76281980&t=34)** I just -- it wasn't a strong point of mine.
 >
-> **[0:37](https://www.linkedin.com/learning/offensive-penetration-testing/windows-command-lab?u=76281980&t=37)** And, you know, I think some of the places like Hack The Box or TryHackMe are trying to do both Windows and Linux hosts now so you can get comfortable with both.
+> **[0:37](https://www.linkedin.com/learning/offensive-penetration-testing/windows-command-lab?u=76281980&t=37)** And, you know, I think some of the places like Hack The Box or [[TryHackMe]] are trying to do both Windows and Linux hosts now so you can get comfortable with both.
 >
 > **[0:49](https://www.linkedin.com/learning/offensive-penetration-testing/windows-command-lab?u=76281980&t=49)** But, you know, like I said, it's important to know Windows as well because we don't really use Windows when we are hacking and we're not really in the command line.
 >
@@ -1988,7 +1978,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/offensive-penetration-testing/windows-command-lab?u=76281980&t=63)** But the command line actually has a great amount of information when you know how to use it.
 >
-> **[1:08](https://www.linkedin.com/learning/offensive-penetration-testing/windows-command-lab?u=76281980&t=68)** Also, with the utilization now of PowerShell, we have even more abilities in Windows.
+> **[1:08](https://www.linkedin.com/learning/offensive-penetration-testing/windows-command-lab?u=76281980&t=68)** Also, with the utilization now of [[Powershell]], we have even more abilities in Windows.
 >
 > **[1:15](https://www.linkedin.com/learning/offensive-penetration-testing/windows-command-lab?u=76281980&t=75)** I don't really talk about PowerShell in this course, but it's important to understand both a command terminal or command shell and how to use PowerShell as well, and we'll use PowerShell a little bit later when we talk about privilege escalation.
 >
@@ -2094,7 +2084,7 @@ created: 2026-05-02
 >
 > **[6:14](https://www.linkedin.com/learning/offensive-penetration-testing/windows-command-lab?u=76281980&t=374)** So similar to Linux but not copy like we said in Linux is CP here is copy, move like mv.
 >
-> **[6:22](https://www.linkedin.com/learning/offensive-penetration-testing/windows-command-lab?u=76281980&t=382)** This is the whole word move.
+> **[6:22](https://www.linkedin.com/learning/offensive-penetration-testing/windows-command-lab?u=76281980&t=382)** This is the whole [[Microsoft Word|word]] move.
 >
 > **[6:24](https://www.linkedin.com/learning/offensive-penetration-testing/windows-command-lab?u=76281980&t=384)** Del deletes files and doskey /history is like doing history on Linux.
 >
@@ -2102,7 +2092,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (21), [[Linux]] (15), [[Powershell]] (5), web (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[Windows]] (21), [[Linux]] (15), [[Powershell]] (5), [[OSCP]] (1), [[TryHackMe]] (1)
 > **Tools:** command line (7), powershell (5), terminal (1)
 > **CLI Commands:** find (2), cat (2), cd (1), make (1), grep (1)
 > **Env Vars:** oscp (1), dll (1), iis (1), uac (1)
@@ -2111,14 +2101,13 @@ created: 2026-05-02
 > **File Paths:** example.txt (1)
 > **Best Practices:** don't forget (1)
 
-#### Command line lab
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/command-line-lab?u=76281980)
+#### [Command line lab](https://www.linkedin.com/learning/offensive-penetration-testing/command-line-lab?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/command-line-lab?u=76281980&t=0)** Welcome to your first lab: Command Line Lab.
 >
-> **[0:04](https://www.linkedin.com/learning/offensive-penetration-testing/command-line-lab?u=76281980&t=4)** Your lab objective is to find all nine flags in the Linux and Windows machines using the command line.
+> **[0:04](https://www.linkedin.com/learning/offensive-penetration-testing/command-line-lab?u=76281980&t=4)** Your lab objective is to find all nine flags in the [[Linux]] and [[Windows]] machines using the command line.
 >
 > **[0:11](https://www.linkedin.com/learning/offensive-penetration-testing/command-line-lab?u=76281980&t=11)** I'm going to provide you with your login credential for Kali.
 >
@@ -2142,7 +2131,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/offensive-penetration-testing/command-line-lab?u=76281980&t=63)** Flag 2, find the running service.
 >
-> **[1:05](https://www.linkedin.com/learning/offensive-penetration-testing/command-line-lab?u=76281980&t=65)** You can also use PowerShell on these if you want.
+> **[1:05](https://www.linkedin.com/learning/offensive-penetration-testing/command-line-lab?u=76281980&t=65)** You can also use [[Powershell]] on these if you want.
 >
 > **[1:08](https://www.linkedin.com/learning/offensive-penetration-testing/command-line-lab?u=76281980&t=68)** Flag 3, this one is hidden on someone's desktop and Flag 4, use a recursive directory search to find this one. So it might be hidden amongst different directories or in a hard-t- find directory, I should say.
 >
@@ -2152,13 +2141,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Linux]] (2), next (1), [[Powershell]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Linux]] (2), [[Powershell]] (1)
 > **CLI Commands:** find (4)
 > **Tools:** command line (2), powershell (1)
 > **Cross-References:** in the next (1)
 
-#### Command line lab walkthrough
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/command-line-lab-walkthrough?u=76281980)
+#### [Command line lab walkthrough](https://www.linkedin.com/learning/offensive-penetration-testing/command-line-lab-walkthrough?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2214,11 +2202,11 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/offensive-penetration-testing/command-line-lab-walkthrough?u=76281980&t=107)** History: And we see in history, Number 4 is Flag 5.
 >
-> **[1:56](https://www.linkedin.com/learning/offensive-penetration-testing/command-line-lab-walkthrough?u=76281980&t=116)** So that is Linux, all Five Flags.
+> **[1:56](https://www.linkedin.com/learning/offensive-penetration-testing/command-line-lab-walkthrough?u=76281980&t=116)** So that is [[Linux]], all Five Flags.
 >
 > **[2:01](https://www.linkedin.com/learning/offensive-penetration-testing/command-line-lab-walkthrough?u=76281980&t=121)** All right.
 >
-> **[2:03](https://www.linkedin.com/learning/offensive-penetration-testing/command-line-lab-walkthrough?u=76281980&t=123)** We are now in Windows.
+> **[2:03](https://www.linkedin.com/learning/offensive-penetration-testing/command-line-lab-walkthrough?u=76281980&t=123)** We are now in [[Windows]].
 >
 > **[2:07](https://www.linkedin.com/learning/offensive-penetration-testing/command-line-lab-walkthrough?u=76281980&t=127)** So I said use a net on your users.
 >
@@ -2240,7 +2228,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/offensive-penetration-testing/command-line-lab-walkthrough?u=76281980&t=167)** SVC host is also called flag.
 >
-> **[2:50](https://www.linkedin.com/learning/offensive-penetration-testing/command-line-lab-walkthrough?u=76281980&t=170)** You can also use PowerShell on this if you want.
+> **[2:50](https://www.linkedin.com/learning/offensive-penetration-testing/command-line-lab-walkthrough?u=76281980&t=170)** You can also use [[Powershell]] on this if you want.
 >
 > **[2:56](https://www.linkedin.com/learning/offensive-penetration-testing/command-line-lab-walkthrough?u=76281980&t=176)** You can do get-services, find string flag.
 >
@@ -2280,7 +2268,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (2), [[Linux]] (1), [[Windows]] (1), [[Search]] (1), data (1)
+> **Frameworks & Libraries:** [[Powershell]] (2), [[Linux]] (1), [[Windows]] (1)
 > **CLI Commands:** find (4), cat (3), grep (2), ls (1)
 > **Tools:** terminal (2), powershell (2), command line (1), zsh (1)
 > **File Paths:** flag.txt (1), 4.txt (1)
@@ -2291,8 +2279,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scanning network protocols
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980)
+#### [Scanning network protocols](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2312,9 +2299,9 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980&t=29)** We can fire up the command prompt or the terminal and interact with our own host.
 >
-> **[0:32](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980&t=32)** But to pass OSCP, you need to be able to interact with a remote host.
+> **[0:32](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980&t=32)** But to pass [[OSCP]], you need to be able to interact with a remote host.
 >
-> **[0:37](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980&t=37)** So you're going to have to use a network. So you'll, you know, maybe you'll call the helpdesk and you'll say, I want to reach [Google.com](https://Google.com).
+> **[0:37](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980&t=37)** So you're going to have to use a network. So you'll, you know, maybe you'll call the helpdesk and you'll say, I want to reach [[[Google]].com](https://Google.com).
 >
 > **[0:45](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980&t=45)** I'm having problems.
 >
@@ -2358,19 +2345,19 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980&t=151)** Also, I would recommend a course like Network+ or Security+ to kind of go over more of these protocols, what networking is.
 >
-> **[2:40](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980&t=160)** I think when I left law enforcement and got more into cybersecurity, what I was more comfortable with was networking.
+> **[2:40](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980&t=160)** I think when I left law enforcement and got more into [[Cybersecurity]], what I was more comfortable with was networking.
 >
 > **[2:46](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980&t=166)** Just because as a hacker, I mean, you need to know about networking and how to interact with hosts across a network and know what all the different protocols are.
 >
 > **[2:56](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980&t=176)** So there are more scanning tools than just these three.
 >
-> **[2:59](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980&t=179)** But I just wanted to point out these three, Nmap being my favorite. Nmap has been around for a very long time.
+> **[2:59](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980&t=179)** But I just wanted to point out these three, [[Nmap]] being my favorite. Nmap has been around for a very long time.
 >
 > **[3:05](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980&t=185)** It's very reliable and has the Nmap scripting engine, which is very robust in finding various vulnerabilities and enumerating various services.
 >
 > **[3:15](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980&t=195)** I love Nmap.
 >
-> **[3:16](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980&t=196)** I think in OSCP, Nmap is perfect, but that's also to say that there is something like Netcat.
+> **[3:16](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980&t=196)** I think in OSCP, Nmap is perfect, but that's also to say that there is something like [[Netcat]].
 >
 > **[3:23](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-network-protocols?u=76281980&t=203)** So Netcat isn't just used for things like getting a bind shell or getting a reverse shell.
 >
@@ -2406,7 +2393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (6), dns (4), [[OSCP]] (2), prompt (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (8), [[Netcat]] (7), [[Google]] (6), [[OSCP]] (2), [[Cybersecurity]] (1)
 > **Env Vars:** tcp (6), udp (5), dns (4), ack (3), icmp (2)
 > **URLs:** [google.com](https://google.com) (4)
 > **Ports:** port 53 (1), port 22 (1), port 80 (1), port 445 (1)
@@ -2415,12 +2402,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Scanning with Nmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-nmap?u=76281980)
+#### [Scanning with Nmap](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-nmap?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-nmap?u=76281980&t=0)** Scanning with Nmap.
+> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-nmap?u=76281980&t=0)** Scanning with [[Nmap]].
 >
 > **[0:02](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-nmap?u=76281980&t=2)** In this lesson, we'll understand how to use Nmap to scan for open ports and services.
 >
@@ -2448,7 +2434,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-nmap?u=76281980&t=53)** If you want to scan a single host, you just do Nmap and the host's IP address.
 >
-> **[0:57](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-nmap?u=76281980&t=57)** Or you could do [google.com](https://google.com).
+> **[0:57](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-nmap?u=76281980&t=57)** Or you could do [[[Google]].com](https://google.com).
 >
 > **[0:58](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-nmap?u=76281980&t=58)** Although don't use [google.com](https://google.com), use something you're authorized to scan.
 >
@@ -2462,7 +2448,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-nmap?u=76281980&t=97)** So if I have all my IPs in a list, I can use the little iL flag.
 >
-> **[1:43](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-nmap?u=76281980&t=103)** And like I talked about in Linux, everything is case sensitive.
+> **[1:43](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-nmap?u=76281980&t=103)** And like I talked about in [[Linux]], everything is case sensitive.
 >
 > **[1:46](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-nmap?u=76281980&t=106)** Things are case sensitive in Nmap too.
 >
@@ -2474,7 +2460,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-nmap?u=76281980&t=125)** The -p- scans all ports.
 >
-> **[2:09](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-nmap?u=76281980&t=129)** I would say in OSCP, it's a good idea to scan all ports just because you never know.
+> **[2:09](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-nmap?u=76281980&t=129)** I would say in [[OSCP]], it's a good idea to scan all ports just because you never know.
 >
 > **[2:14](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-nmap?u=76281980&t=134)** You never know if they're hiding something in a certain port because they know that if you do a default Nmap scan, you will not be able to find that service that's vulnerable.
 >
@@ -2574,7 +2560,7 @@ created: 2026-05-02
 >
 > **[6:17](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-nmap?u=76281980&t=377)** So if we look here, we can see that some other scripts were run clock skew in BT stat. And we see some information about SMB here, SMB OS Discovery.
 >
-> **[6:30](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-nmap?u=76281980&t=390)** So we know that we're working with Windows XP.
+> **[6:30](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-nmap?u=76281980&t=390)** So we know that we're working with [[Windows]] XP.
 >
 > **[6:33](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-nmap?u=76281980&t=393)** Also, it's called old school.
 >
@@ -2608,7 +2594,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OSCP]] (3), [[Scripting]] (2), [[Google]] (2), [[Windows]] (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (16), [[OSCP]] (3), [[Google]] (2), [[Windows]] (2), [[Linux]] (1)
 > **Env Vars:** udp (6), ftp (4), tcp (3), oscp (3), smb (3)
 > **Code Identifiers:** sc (3), sv (3), il (1), su (1)
 > **Ports:** port 445 (1), port 21 (1), port 139 (1), port
@@ -2618,8 +2604,7 @@ created: 2026-05-02
 > **URLs:** [google.com](https://google.com) (2)
 > **Warnings:** be careful (2)
 
-#### Scanning with MASSCAN
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-masscan?u=76281980)
+#### [Scanning with MASSCAN](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-masscan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2631,7 +2616,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-masscan?u=76281980&t=15)** If your job is to scan a subnet very quickly or maybe the entire Internet very quickly at a certain port, this is the scanner for you.
 >
-> **[0:23](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-masscan?u=76281980&t=23)** It doesn't work exactly like Nmap.
+> **[0:23](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-masscan?u=76281980&t=23)** It doesn't work exactly like [[Nmap]].
 >
 > **[0:26](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-masscan?u=76281980&t=26)** It doesn't do all that error checking.
 >
@@ -2639,7 +2624,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-masscan?u=76281980&t=32)** That's why it can work so fast.
 >
-> **[0:35](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-masscan?u=76281980&t=35)** So that's why I like Nmap better, I should say, in the context of OSCP, just because you're trying to get those granular details. If you're trying to scan for all open ports in the OSCP environment, you know, maybe use Masscan, but when you actually want to pull more information like banners and maybe some vulnerability checking, Nmap is the tool for you.
+> **[0:35](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-masscan?u=76281980&t=35)** So that's why I like Nmap better, I should say, in the context of [[OSCP]], just because you're trying to get those granular details. If you're trying to scan for all open ports in the OSCP environment, you know, maybe use Masscan, but when you actually want to pull more information like banners and maybe some vulnerability checking, Nmap is the tool for you.
 >
 > **[1:00](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-masscan?u=76281980&t=60)** So if we compare Masscan with Nmap, when you run Nmap, if you just do an Nmap in an IP address, it already looks for default ports.
 >
@@ -2653,7 +2638,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-masscan?u=76281980&t=82)** If you're strategic and you search for ports like 21, 22, 445,139, if you know these common ports, then you can accomplish your task very quickly.
 >
-> **[1:32](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-masscan?u=76281980&t=92)** Also, you can't use names like [Google.com](https://Google.com).
+> **[1:32](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-masscan?u=76281980&t=92)** Also, you can't use names like [[[Google]].com](https://Google.com).
 >
 > **[1:35](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-masscan?u=76281980&t=95)** It doesn't use DNS.
 >
@@ -2769,7 +2754,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[OSCP]] (2), [[Google]] (2), dns (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (12), [[OSCP]] (2), [[Google]] (2)
 > **Env Vars:** oscp (2), dns (2), syn (2), ack (2), ssh (2)
 > **Ports:** port 80 (2), port 1 (1), port 61 (1), port 21 (1), port 22 (1)
 > **CLI Commands:** ssh (2)
@@ -2778,18 +2763,17 @@ created: 2026-05-02
 > **Cross-References:** as you saw (1), we covered (1)
 > **Definitions:** is a  (2)
 
-#### Scanning with Netcat
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-netcat?u=76281980)
+#### [Scanning with Netcat](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-netcat?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-netcat?u=76281980&t=0)** Scanning with Netcat.
+> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-netcat?u=76281980&t=0)** Scanning with [[Netcat]].
 >
 > **[0:02](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-netcat?u=76281980&t=2)** Our learning objectives are to understand how to use Netcat to scan for open ports and services, as well as demonstrate how to write simple scripts to scan for open ports with Netcat.
 >
 > **[0:12](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-netcat?u=76281980&t=12)** So Netcat isn't just a port scanner.
 >
-> **[0:15](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-netcat?u=76281980&t=15)** In fact, out of Masscan and Nmap, Netcat is probably something you would want to use the least out of the three for scanning ports.
+> **[0:15](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-netcat?u=76281980&t=15)** In fact, out of Masscan and [[Nmap]], Netcat is probably something you would want to use the least out of the three for scanning ports.
 >
 > **[0:23](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-netcat?u=76281980&t=23)** But I just wanted to show you, as I mentioned before, there was a Hack The Box challenge I did where Nmap didn't find the open port, but Netcat did.
 >
@@ -2807,7 +2791,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-netcat?u=76281980&t=63)** When you connect to another system or you send traffic, your connection is not secure.
 >
-> **[1:10](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-netcat?u=76281980&t=70)** It's not that big of a deal in terms of OSCP, but in the real world, you use something like Netcat where you would use encryption to communicate with another system.
+> **[1:10](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-netcat?u=76281980&t=70)** It's not that big of a deal in terms of [[OSCP]], but in the real world, you use something like Netcat where you would use encryption to communicate with another system.
 >
 > **[1:24](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-netcat?u=76281980&t=84)** So as a port scanner, this is the syntax for Netcat.
 >
@@ -2869,7 +2853,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-netcat?u=76281980&t=228)** Of course, you can change that to whatever port you want.
 >
-> **[3:52](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-netcat?u=76281980&t=232)** You can also do this with Python.
+> **[3:52](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-netcat?u=76281980&t=232)** You can also do this with [[Python (Programming Language)|Python]].
 >
 > **[3:56](https://www.linkedin.com/learning/offensive-penetration-testing/scanning-with-netcat?u=76281980&t=236)** And as you can see here, there's the shebang at the top which is calling user bin Python 3.
 >
@@ -3003,7 +2987,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), dns (3), [[OSCP]] (2), traffic (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Netcat]] (23), [[Python (Programming Language)|Python]] (11), [[Nmap]] (5), [[OSCP]] (2)
 > **CLI Commands:** python (11), find (3), awk (3), grep (2), chmod (2)
 > **Env Vars:** http (5), dns (3), oscp (2), https (2), awk (2)
 > **Tools:** bash (6), command line (1)
@@ -3012,14 +2996,13 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **API Endpoints:** get  (1)
 
-#### Using Wireshark
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/using-wireshark?u=76281980)
+#### [Using Wireshark](https://www.linkedin.com/learning/offensive-penetration-testing/using-wireshark?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/using-wireshark?u=76281980&t=0)** Using Wireshark.
+> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/using-wireshark?u=76281980&t=0)** Using [[Wireshark]].
 >
-> **[0:02](https://www.linkedin.com/learning/offensive-penetration-testing/using-wireshark?u=76281980&t=2)** In this lesson, we're going to understand the basic use of Wireshark as both an attacker and defender, as well as to understand the traffic we generate with Nmap.
+> **[0:02](https://www.linkedin.com/learning/offensive-penetration-testing/using-wireshark?u=76281980&t=2)** In this lesson, we're going to understand the basic use of Wireshark as both an attacker and [[Microsoft Defender|defender]], as well as to understand the traffic we generate with [[Nmap]].
 >
 > **[0:10](https://www.linkedin.com/learning/offensive-penetration-testing/using-wireshark?u=76281980&t=10)** So Wireshark is an open-source packet capture tool and it also analyzes packets as well.
 >
@@ -3091,7 +3074,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/offensive-penetration-testing/using-wireshark?u=76281980&t=226)** So it's actually not very stealthy.
 >
-> **[3:49](https://www.linkedin.com/learning/offensive-penetration-testing/using-wireshark?u=76281980&t=229)** You know, in the OSCP, we don't have to be too concerned.
+> **[3:49](https://www.linkedin.com/learning/offensive-penetration-testing/using-wireshark?u=76281980&t=229)** You know, in the [[OSCP]], we don't have to be too concerned.
 >
 > **[3:52](https://www.linkedin.com/learning/offensive-penetration-testing/using-wireshark?u=76281980&t=232)** We don't have blue team members trying to stop us.
 >
@@ -3117,7 +3100,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (13), traffic (10), [[Scripting]] (3), [[Microsoft Defender|Defender]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Nmap]] (14), [[Wireshark]] (13), [[Microsoft Defender|Defender]] (2), [[OSCP]] (1)
 > **Env Vars:** syn (4), ack (4), tcp (3), vpn (1), oscp (1)
 > **Ports:** port 23 (5)
 > **Code Identifiers:** st (3)
@@ -3126,12 +3109,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 
-#### Wireshark and Encrypted Traffic
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/wireshark-and-encrypted-traffic?u=76281980)
+#### [Wireshark and Encrypted Traffic](https://www.linkedin.com/learning/offensive-penetration-testing/wireshark-and-encrypted-traffic?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/wireshark-and-encrypted-traffic?u=76281980&t=0)** Wireshark and Encrypted Traffic.
+> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/wireshark-and-encrypted-traffic?u=76281980&t=0)** [[Wireshark]] and Encrypted Traffic.
 >
 > **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/wireshark-and-encrypted-traffic?u=76281980&t=3)** We only have one learning objective here, and that's to understand the difference between encrypted traffic and unencrypted traffic when using Wireshark or while using Wireshark.
 >
@@ -3139,9 +3121,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/offensive-penetration-testing/wireshark-and-encrypted-traffic?u=76281980&t=13)** Well, as an attacker, we want to know, again, what our tools do.
 >
-> **[0:16](https://www.linkedin.com/learning/offensive-penetration-testing/wireshark-and-encrypted-traffic?u=76281980&t=16)** And if I'm using Netcat in a Pentest and I am exfiltrating data, I'm doing everything in the clear.
+> **[0:16](https://www.linkedin.com/learning/offensive-penetration-testing/wireshark-and-encrypted-traffic?u=76281980&t=16)** And if I'm using [[Netcat]] in a Pentest and I am exfiltrating data, I'm doing everything in the clear.
 >
-> **[0:23](https://www.linkedin.com/learning/offensive-penetration-testing/wireshark-and-encrypted-traffic?u=76281980&t=23)** A defender can see exactly what data I'm exfiltrating, which, of course, is bad.
+> **[0:23](https://www.linkedin.com/learning/offensive-penetration-testing/wireshark-and-encrypted-traffic?u=76281980&t=23)** A [[Microsoft Defender|defender]] can see exactly what data I'm exfiltrating, which, of course, is bad.
 >
 > **[0:28](https://www.linkedin.com/learning/offensive-penetration-testing/wireshark-and-encrypted-traffic?u=76281980&t=28)** So it's important to know what our tools do.
 >
@@ -3151,7 +3133,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/offensive-penetration-testing/wireshark-and-encrypted-traffic?u=76281980&t=39)** Socat has been out longer of course than that But the tool is like Netcat, is a bit more versatile and it's a little bit harder to learn how to use.
 >
-> **[0:49](https://www.linkedin.com/learning/offensive-penetration-testing/wireshark-and-encrypted-traffic?u=76281980&t=49)** Now, we can see here I'm creating a reverse shell on Port 22 from my Windows box, connecting to my Kali box.
+> **[0:49](https://www.linkedin.com/learning/offensive-penetration-testing/wireshark-and-encrypted-traffic?u=76281980&t=49)** Now, we can see here I'm creating a reverse shell on Port 22 from my [[Windows]] box, connecting to my Kali box.
 >
 > **[0:56](https://www.linkedin.com/learning/offensive-penetration-testing/wireshark-and-encrypted-traffic?u=76281980&t=56)** And here's the syntax. Again, not as easy to learn as Netcat.
 >
@@ -3165,7 +3147,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/offensive-penetration-testing/wireshark-and-encrypted-traffic?u=76281980&t=87)** So that's to say we're busted because Port 22 is supposed to be SSH, it's supposed to be encrypted traffic.
 >
-> **[1:35](https://www.linkedin.com/learning/offensive-penetration-testing/wireshark-and-encrypted-traffic?u=76281980&t=95)** So a defender would very quickly pick up what we're doing. Now, as far as OSCP is concerned, you know, I wouldn't really worry about that, but that's to say if we are connecting to HTTPS, we're not going to be able to see the traffic that we're generating because it's going to be encrypted.
+> **[1:35](https://www.linkedin.com/learning/offensive-penetration-testing/wireshark-and-encrypted-traffic?u=76281980&t=95)** So a defender would very quickly pick up what we're doing. Now, as far as [[OSCP]] is concerned, you know, I wouldn't really worry about that, but that's to say if we are connecting to HTTPS, we're not going to be able to see the traffic that we're generating because it's going to be encrypted.
 >
 > **[1:52](https://www.linkedin.com/learning/offensive-penetration-testing/wireshark-and-encrypted-traffic?u=76281980&t=112)** So if we're trying to debug something where encryption is involved, it's going to be a lot harder for us.
 >
@@ -3207,7 +3189,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/offensive-penetration-testing/wireshark-and-encrypted-traffic?u=76281980&t=222)** Let's try this again.
 >
-> **[3:45](https://www.linkedin.com/learning/offensive-penetration-testing/wireshark-and-encrypted-traffic?u=76281980&t=225)** But this time, let's use -- we're not going to use Socat, we're going to use Ncat which is made by our friends at Nmap.
+> **[3:45](https://www.linkedin.com/learning/offensive-penetration-testing/wireshark-and-encrypted-traffic?u=76281980&t=225)** But this time, let's use -- we're not going to use Socat, we're going to use [[Netcat|Ncat]] which is made by our friends at [[Nmap]].
 >
 > **[3:57](https://www.linkedin.com/learning/offensive-penetration-testing/wireshark-and-encrypted-traffic?u=76281980&t=237)** So what we'll do now is we will capture again.
 >
@@ -3235,7 +3217,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (8), [[Wireshark]] (6), [[Windows]] (3), data (2), [[Microsoft Defender|Defender]] (2)
+> **Frameworks & Libraries:** [[Netcat]] (8), [[Wireshark]] (6), [[Netcat|Ncat]] (4), [[Windows]] (3), [[Microsoft Defender|Defender]] (2)
 > **Env Vars:** ssl (3), pwk (2), ssh (1), oscp (1), https (1)
 > **Ports:** port 22 (3), port
 12345 (1), port 12345 (1)
@@ -3245,18 +3227,17 @@ created: 2026-05-02
 > **UI Navigation:** right-click (1)
 > **Definitions:** is a  (1)
 
-#### Weaponizing Wireshark
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980)
+#### [Weaponizing Wireshark](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=0)** Weaponizing Wireshark.
+> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=0)** Weaponizing [[Wireshark]].
 >
 > **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=3)** Our learning objectives are to understand how to weaponize Wireshark packet captures as well as exploiting a host identified with a vulnerability via Wireshark.
 >
 > **[0:11](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=11)** This is the fun stuff here.
 >
-> **[0:14](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=14)** So we've seen from the blue team side or the defender side what we can do with packet captures, how, if an attacker is not using encryption, how we can see exactly what they're doing or data they're exfiltrating or commands they're running on our victim hosts.
+> **[0:14](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=14)** So we've seen from the blue team side or the [[Microsoft Defender|defender]] side what we can do with packet captures, how, if an attacker is not using encryption, how we can see exactly what they're doing or data they're exfiltrating or commands they're running on our victim hosts.
 >
 > **[0:28](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=28)** Now, let's look at this from the attacker perspective.
 >
@@ -3268,7 +3249,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=51)** Now, we're actually looking at interacting with a live person, a client, someone who's visiting a website, and we want to see if we can exploit them.
 >
-> **[1:00](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=60)** So in order to do that, we need to look for things like user-agent strings, which we saw before, where the person -- where we as the attacker are printing a user-agent string with Nmap scripting engine.
+> **[1:00](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=60)** So in order to do that, we need to look for things like user-agent strings, which we saw before, where the person -- where we as the attacker are printing a user-agent string with [[Nmap]] scripting engine.
 >
 > **[1:12](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=72)** Now we're going to kind of flip that and let's say we're intercepting packets over a wire, maybe we're sniffing packets.
 >
@@ -3280,7 +3261,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=93)** So if someone is using a browser that has a vulnerability in it, maybe a remote code execution vulnerability, we as the attacker can compromise their system simply by them going to our controlled website.
 >
-> **[1:46](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=106)** So of course, there's some phishing involved in that.
+> **[1:46](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=106)** So of course, there's some [[Phishing]] involved in that.
 >
 > **[1:49](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=109)** But for example, let's say we have a victim and we've enticed the victim to go to our website and we're using Wireshark to intercept packets.
 >
@@ -3288,13 +3269,13 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=125)** It's a clear-text protocol, it's not HTTPS and we get their user-agent string.
 >
-> **[2:10](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=130)** Now Google is our friend and using Google, we're looking at their user-agent string and it comes back to Internet Explorer 8.0.
+> **[2:10](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=130)** Now [[Google]] is our friend and using Google, we're looking at their user-agent string and it comes back to Internet Explorer 8.0.
 >
 > **[2:17](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=137)** Now, realistically, I don't know who's using Internet Explorer 8.0 anymore, but here, our victim, unfortunately for them, is using that.
 >
 > **[2:25](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=145)** And, again, I'm using a Google Search here and I find a way to exploit this host.
 >
-> **[2:34](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=154)** So what I'm going to do now in my Kali VM, is I'm going to use Metasploit, the Metasploit Frameork.
+> **[2:34](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=154)** So what I'm going to do now in my Kali VM, is I'm going to use [[Metasploit]], the Metasploit Frameork.
 >
 > **[2:42](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=162)** And you can see here I have a whole lot of options already set, but I'm just going to launch the Metasploit Framework using a module and I'll show you what the info says here.
 >
@@ -3324,7 +3305,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=243)** Now, you'll see Metasploit is -- this module is doing a whole lot of stuff.
 >
-> **[4:09](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=249)** It's sending HTML response.
+> **[4:09](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=249)** It's sending [[HTML]] response.
 >
 > **[4:11](https://www.linkedin.com/learning/offensive-penetration-testing/weaponizing-wireshark?u=76281980&t=251)** We can see the request, we've received setting the exploit, it's sending the stage and we can see him.
 >
@@ -3352,7 +3333,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (8), [[Scripting]] (3), [[Google]] (3), [[Phishing]] (2), [[Microsoft Defender|Defender]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (8), [[Metasploit]] (4), [[Google]] (3), [[Phishing]] (2), [[Microsoft Defender|Defender]] (1)
 > **Env Vars:** pwk (1), ocp (1), http (1), https (1), html (1)
 > **UI Navigation:** go to (4)
 > **Versions:** 8.0 (2)
@@ -3362,8 +3343,7 @@ created: 2026-05-02
 8080 (1)
 > **Cross-References:** later in (1)
 
-#### SMB enumeration
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980)
+#### [SMB enumeration](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3379,11 +3359,11 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=24)** So from here, I want you to take the information and learn how to use it hands-on.
 >
-> **[0:30](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=30)** This is -- OSCP is not a memorization test.
+> **[0:30](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=30)** This is -- [[OSCP]] is not a memorization test.
 >
 > **[0:33](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=33)** So just, you know, it's okay if you forget certain things, but I'll try to hint at like flags and switches and things like that and the tools that we'll use, because that's what's important.
 >
-> **[0:44](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=44)** So SMB is used by Windows as well as Linux.
+> **[0:44](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=44)** So SMB is used by [[Windows]] as well as [[Linux]].
 >
 > **[0:48](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=48)** Some people might just focus on the Windows version.
 >
@@ -3393,7 +3373,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=61)** It's also known as common Internet File System CIFS and there's basically three versions.
 >
-> **[1:08](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=68)** Version 1 is old. On the older machines, you'll find it. On the newer machines like Windows 10, it does not come by default, it's disabled.
+> **[1:08](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=68)** Version 1 is old. On the older machines, you'll find it. On the newer machines like [[Windows 10]], it does not come by default, it's disabled.
 >
 > **[1:19](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=79)** SMB Version 2 is kind of an upgrade from SMB Version 1. Guest access is disabled by default on it, so it's a little bit safer, this SMB Version 1.
 >
@@ -3405,7 +3385,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=116)** So there's Port 139 and 445.
 >
-> **[2:00](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=120)** And as you'll see here in this Nmap scan, we're looking at both. We're looking at 139, which is SMB over net bios and also Port 445 which is SMB over IP address.
+> **[2:00](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=120)** And as you'll see here in this [[Nmap]] scan, we're looking at both. We're looking at 139, which is SMB over net bios and also Port 445 which is SMB over IP address.
 >
 > **[2:14](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=134)** So in the newer version, you can use an IP address. In the older version on 139, you actually need the hostname.
 >
@@ -3443,7 +3423,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=225)** So even if you have SMB access to a certain share and you can look at a flag, it's not good enough in OSCP.
 >
-> **[3:52](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=232)** You actually need to get a shell with something like Netcat, which we looked at in the Wireshark module.
+> **[3:52](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=232)** You actually need to get a shell with something like [[Netcat]], which we looked at in the [[Wireshark]] module.
 >
 > **[3:59](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=239)** So here, you'll see Nmap an you can use Nmap for a lot of great things.
 >
@@ -3461,7 +3441,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=277)** And we talked about that before.
 >
-> **[4:39](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=279)** So this is Metasploit table and this is actually a Linux box and not a Windows box.
+> **[4:39](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=279)** So this is [[Metasploit]] table and this is actually a Linux box and not a Windows box.
 >
 > **[4:45](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=285)** Rpcclient is great.
 >
@@ -3485,7 +3465,7 @@ created: 2026-05-02
 >
 > **[5:50](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=350)** It just depends on the permissions of that share.
 >
-> **[5:56](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=356)** So here, we see I'm using hydra and I found a username and password.
+> **[5:56](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=356)** So here, we see I'm using [[Hydra]] and I found a username and password.
 >
 > **[6:01](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration?u=76281980&t=361)** I'm going to show you that in the demo a little bit later.
 >
@@ -3499,7 +3479,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[Linux]] (4), [[Scripting]] (3), [[OSCP]] (2), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (7), [[Windows]] (4), [[Linux]] (4), [[OSCP]] (2), [[Windows 10]] (1)
 > **Env Vars:** smb (24), ipc (3), oscp (2), cifs (1), nt1 (1)
 > **Versions:** version 1 (3), version 2 (1), version 3 (1)
 > **CLI Commands:** find (2)
@@ -3508,16 +3488,15 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Best Practices:** pro tip (1)
 
-#### SMB enumeration demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980)
+#### [SMB enumeration demo](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=0)** All right.
 >
-> **[0:01](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=1)** So if you weren't paying attention in the PowerPoint, now is the time to pay attention, because I'm going to go over all the tools we just learned about SMB from the PowerPoint in a hands-on demo.
+> **[0:01](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=1)** So if you weren't paying attention in the [[Microsoft PowerPoint|PowerPoint]], now is the time to pay attention, because I'm going to go over all the tools we just learned about SMB from the PowerPoint in a hands-on demo.
 >
-> **[0:11](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=11)** So the first thing we're going to use against our target is Nmap.
+> **[0:11](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=11)** So the first thing we're going to use against our target is [[Nmap]].
 >
 > **[0:16](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=16)** And you'll see here, I have a different terminal window.
 >
@@ -3525,7 +3504,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=21)** There it is, Terminator.
 >
-> **[0:23](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=23)** What I like about this is you can split it vertically, you can split it horizontally, and you don't have to open numerous terminal windows.
+> **[0:23](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=23)** What I like about this is you can split it vertically, you can split it horizontally, and you don't have to open numerous terminal [[Windows]].
 >
 > **[0:30](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=30)** I find myself opening many of them.
 >
@@ -3581,7 +3560,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=208)** So let's get out of this.
 >
-> **[3:30](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=210)** Now, let's clear our screen and let's try to brute-force this IEUSER using hydra and see what permissions we have.
+> **[3:30](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=210)** Now, let's clear our screen and let's try to brute-force this IEUSER using [[Hydra]] and see what permissions we have.
 >
 > **[3:41](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=221)** So see here, hydra, little l since we already know our user is IEUSER, we could make a list of users that we enumerate with big L and maybe a text file with all the different users.
 >
@@ -3593,7 +3572,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=242)** It just takes over 40 minutes to find it.
 >
-> **[4:05](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=245)** And that's sometimes the trouble with brute forcing logins is it can take a very long time depending on what word lists you're using for either a user or a password combination.
+> **[4:05](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=245)** And that's sometimes the trouble with brute forcing logins is it can take a very long time depending on what [[Microsoft Word|word]] lists you're using for either a user or a password combination.
 >
 > **[4:17](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=257)** So let this run.
 >
@@ -3629,17 +3608,17 @@ created: 2026-05-02
 >
 > **[5:38](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=338)** All different groups, domains.
 >
-> **[5:43](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=343)** So simply adding those arguments in the Nmap scripting engine gave us a whole lot more information. In OSCP, like I said, enumeration is the key, right?
+> **[5:43](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=343)** So simply adding those arguments in the Nmap scripting engine gave us a whole lot more information. In [[OSCP]], like I said, enumeration is the key, right?
 >
 > **[5:56](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=356)** So now that we've found this and we see that we can write to Inetpub, let's see if we can put something on that server.
 >
 > **[6:05](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=365)** And just going to this web server here, we see this welcome page.
 >
-> **[6:10](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=370)** Now, we'll talk about enumerating web servers a little bit later, but I told you guys to install things like Wappalyzer.
+> **[6:10](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=370)** Now, we'll talk about enumerating [[Web Servers]] a little bit later, but I told you guys to install things like Wappalyzer.
 >
-> **[6:16](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=376)** We can see the web framework is [ASP.NET](https://ASP.NET).
+> **[6:16](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=376)** We can see the web framework is [[[ASP.NET]]](https://ASP.NET).
 >
-> **[6:19](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=379)** It's a Windows server.
+> **[6:19](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=379)** It's a [[Windows Server]].
 >
 > **[6:21](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=381)** It's using IIS 7.5.
 >
@@ -3669,7 +3648,7 @@ created: 2026-05-02
 >
 > **[7:34](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=454)** That's right.
 >
-> **[7:35](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=455)** We're in the web root here and we can then try to write or create a shell with MSF venom.
+> **[7:35](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=455)** We're in the web root here and we can then try to write or create a shell with [[Metasploit|MSF]] venom.
 >
 > **[7:44](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=464)** We'll talk about shells later, but for now, let's go ahead and split this vertically and let's create a ASP shell with MSF venom.
 >
@@ -3693,7 +3672,7 @@ created: 2026-05-02
 >
 > **[8:39](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=519)** I already created it before, but I just like knowing where it is exactly.
 >
-> **[8:45](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=525)** So now, what we're going to do is we're going to launch this Metasploit Framework, which we'll talk about a lot more later about shells, but I'm going to execute the Metasploit Framework or execute a module or create a module within Metasploit Framework, exploit multi-handler.
+> **[8:45](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=525)** So now, what we're going to do is we're going to launch this [[Metasploit]] Framework, which we'll talk about a lot more later about shells, but I'm going to execute the Metasploit Framework or execute a module or create a module within Metasploit Framework, exploit multi-handler.
 >
 > **[9:04](https://www.linkedin.com/learning/offensive-penetration-testing/smb-enumeration-demo?u=76281980&t=544)** And here, I'm just doing a whole bunch of things that I'm executing before I actually started up as opposed to starting it up and having to enter each of these individually.
 >
@@ -3743,7 +3722,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), [[Windows]] (6), [[Microsoft PowerPoint|Powerpoint]] (3), hit (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (7), [[Windows]] (6), [[Metasploit|Msf]] (4), [[Microsoft PowerPoint|Powerpoint]] (3), [[Metasploit]] (3)
 > **Env Vars:** smb (9), ieuser (7), asp (7), msf (4), roku (2)
 > **CLI Commands:** make (3), find (2), ssh (1), ls (1)
 > **Tools:** terminal (4)
@@ -3753,8 +3732,7 @@ created: 2026-05-02
 > **Analogies:** kind of like (1), for example (1), just like (1)
 > **Versions:** 192.168.1 (1), 7.5 (1)
 
-#### NFS enumeration
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/nfs-enumeration?u=76281980)
+#### [NFS enumeration](https://www.linkedin.com/learning/offensive-penetration-testing/nfs-enumeration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3776,7 +3754,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/offensive-penetration-testing/nfs-enumeration?u=76281980&t=39)** As you can see here, we're using rpcinfo and we're looking at the different ports.
 >
-> **[0:44](https://www.linkedin.com/learning/offensive-penetration-testing/nfs-enumeration?u=76281980&t=44)** So you know, we can use Nmap as well, but here, rpcinfo is telling us some ports that are in use by NFS and you'll see both TCP and UDP.
+> **[0:44](https://www.linkedin.com/learning/offensive-penetration-testing/nfs-enumeration?u=76281980&t=44)** So you know, we can use [[Nmap]] as well, but here, rpcinfo is telling us some ports that are in use by NFS and you'll see both TCP and UDP.
 >
 > **[0:59](https://www.linkedin.com/learning/offensive-penetration-testing/nfs-enumeration?u=76281980&t=59)** All right.
 >
@@ -3800,7 +3778,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/offensive-penetration-testing/nfs-enumeration?u=76281980&t=138)** So I'm going to show that to you in a demo now.
 >
-> **[2:24](https://www.linkedin.com/learning/offensive-penetration-testing/nfs-enumeration?u=76281980&t=144)** I did want to mention, though, before the demo that simply mounting shares is not enough in OSCP to consider getting a shell on a remote system.
+> **[2:24](https://www.linkedin.com/learning/offensive-penetration-testing/nfs-enumeration?u=76281980&t=144)** I did want to mention, though, before the demo that simply mounting shares is not enough in [[OSCP]] to consider getting a shell on a remote system.
 >
 > **[2:35](https://www.linkedin.com/learning/offensive-penetration-testing/nfs-enumeration?u=76281980&t=155)** You actually do have to get a shell.
 >
@@ -3846,7 +3824,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/offensive-penetration-testing/nfs-enumeration?u=76281980&t=282)** So like I was talking about, you know, we want to get on this machine now.
 >
-> **[4:46](https://www.linkedin.com/learning/offensive-penetration-testing/nfs-enumeration?u=76281980&t=286)** And since this is a Linux machine, and we know that is SSH from our previous enumeration, I know you didn't see that, but for sake of argument here, let's say I've already looked at this machine.
+> **[4:46](https://www.linkedin.com/learning/offensive-penetration-testing/nfs-enumeration?u=76281980&t=286)** And since this is a [[Linux]] machine, and we know that is SSH from our previous enumeration, I know you didn't see that, but for sake of argument here, let's say I've already looked at this machine.
 >
 > **[4:59](https://www.linkedin.com/learning/offensive-penetration-testing/nfs-enumeration?u=76281980&t=299)** I've already seen it.
 >
@@ -3896,15 +3874,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[OSCP]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (1), [[OSCP]] (1), [[Linux]] (1)
 > **Env Vars:** nfs (13), ssh (6), tcp (3), udp (3), smb (2)
 > **CLI Commands:** ssh (7), make (3), cat (2)
 > **Definitions:** stands for (1), is a  (1)
 > **Ports:** port 2049 (1)
 > **Analogies:** kind of like (1)
 
-#### SMTP enumeration
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/smtp-enumeration?u=76281980)
+#### [SMTP enumeration](https://www.linkedin.com/learning/offensive-penetration-testing/smtp-enumeration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3920,7 +3897,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/offensive-penetration-testing/smtp-enumeration?u=76281980&t=40)** So a lot of spammers will use this service and that's why a lot of people get nervous about SMTP and leaving Port 25 open.
 >
-> **[0:50](https://www.linkedin.com/learning/offensive-penetration-testing/smtp-enumeration?u=76281980&t=50)** So for enumeration, we can use Nmap.
+> **[0:50](https://www.linkedin.com/learning/offensive-penetration-testing/smtp-enumeration?u=76281980&t=50)** So for enumeration, we can use [[Nmap]].
 >
 > **[0:53](https://www.linkedin.com/learning/offensive-penetration-testing/smtp-enumeration?u=76281980&t=53)** And as you can see here, we're using script SMTP with the asterisks and we can see here on the Metasploitable box, it runs a few different scripts, SMTP commands, SMTP enum new users, which it didn't find anybody using that. I'll show you in the next slide how you can do that.
 >
@@ -3932,7 +3909,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/offensive-penetration-testing/smtp-enumeration?u=76281980&t=99)** These aren't people that are exactly going to be receiving email, but you can see all the services that are on this box.
 >
-> **[1:45](https://www.linkedin.com/learning/offensive-penetration-testing/smtp-enumeration?u=76281980&t=105)** You can see MySQL, you can see SSH, you can see FTP, you can see www.data, so probably a web server.
+> **[1:45](https://www.linkedin.com/learning/offensive-penetration-testing/smtp-enumeration?u=76281980&t=105)** You can see [[MySQL]], you can see SSH, you can see FTP, you can see www.data, so probably a web server.
 >
 > **[1:52](https://www.linkedin.com/learning/offensive-penetration-testing/smtp-enumeration?u=76281980&t=112)** So you can -- it's not only enumerating the users, but also the services on this Metasploitable box.
 >
@@ -3960,13 +3937,13 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/offensive-penetration-testing/smtp-enumeration?u=76281980&t=178)** It doesn't know what the service is.
 >
-> **[3:00](https://www.linkedin.com/learning/offensive-penetration-testing/smtp-enumeration?u=76281980&t=180)** So let's split this vertically and let's run Ncat and you can run Ncat as a SMTP client.
+> **[3:00](https://www.linkedin.com/learning/offensive-penetration-testing/smtp-enumeration?u=76281980&t=180)** So let's split this vertically and let's run [[Netcat|Ncat]] and you can run Ncat as a SMTP client.
 >
 > **[3:11](https://www.linkedin.com/learning/offensive-penetration-testing/smtp-enumeration?u=76281980&t=191)** You can see here, it's old-school and my home network FiOS.
 >
 > **[3:17](https://www.linkedin.com/learning/offensive-penetration-testing/smtp-enumeration?u=76281980&t=197)** But let's just do help.
 >
-> **[3:21](https://www.linkedin.com/learning/offensive-penetration-testing/smtp-enumeration?u=76281980&t=201)** So we see with help, it says 32-bit Windows email server from njstar Software, which is interesting, Right.
+> **[3:21](https://www.linkedin.com/learning/offensive-penetration-testing/smtp-enumeration?u=76281980&t=201)** So we see with help, it says 32-bit [[Windows]] email server from njstar Software, which is interesting, Right.
 >
 > **[3:29](https://www.linkedin.com/learning/offensive-penetration-testing/smtp-enumeration?u=76281980&t=209)** It tells us which commands we can use.
 >
@@ -3976,9 +3953,9 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/offensive-penetration-testing/smtp-enumeration?u=76281980&t=219)** So I'm going to clear this on this side.
 >
-> **[3:42](https://www.linkedin.com/learning/offensive-penetration-testing/smtp-enumeration?u=76281980&t=222)** And let's go to Metasploit.
+> **[3:42](https://www.linkedin.com/learning/offensive-penetration-testing/smtp-enumeration?u=76281980&t=222)** And let's go to [[Metasploit]].
 >
-> **[3:45](https://www.linkedin.com/learning/offensive-penetration-testing/smtp-enumeration?u=76281980&t=225)** Now, I don't like using Metasploit all the time because in OSCP, we can only use it once. Right.
+> **[3:45](https://www.linkedin.com/learning/offensive-penetration-testing/smtp-enumeration?u=76281980&t=225)** Now, I don't like using Metasploit all the time because in [[OSCP]], we can only use it once. Right.
 >
 > **[3:50](https://www.linkedin.com/learning/offensive-penetration-testing/smtp-enumeration?u=76281980&t=230)** We have to use it sparingly.
 >
@@ -4008,7 +3985,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), next (1), [[MySQL]] (1), data (1), web (1)
+> **Frameworks & Libraries:** [[Nmap]] (3), [[Metasploit]] (3), [[Netcat|Ncat]] (2), [[MySQL]] (1), [[Windows]] (1)
 > **Env Vars:** smtp (15), cve (1), ssh (1), ftp (1), nfs (1)
 > **CLI Commands:** find (1), mysql (1), ssh (1), cat (1), make (1)
 > **Ports:** port 25 (5)
@@ -4017,8 +3994,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 
-#### SNMP enumeration
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/snmp-enumeration?u=76281980)
+#### [SNMP enumeration](https://www.linkedin.com/learning/offensive-penetration-testing/snmp-enumeration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4042,7 +4018,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/offensive-penetration-testing/snmp-enumeration?u=76281980&t=68)** But certain OIDs refer to certain things like maybe the hostname or usernames or certain services that are running.
 >
-> **[1:16](https://www.linkedin.com/learning/offensive-penetration-testing/snmp-enumeration?u=76281980&t=76)** So a Google is worth it if you're looking for specific OID strings.
+> **[1:16](https://www.linkedin.com/learning/offensive-penetration-testing/snmp-enumeration?u=76281980&t=76)** So a [[Google]] is worth it if you're looking for specific OID strings.
 >
 > **[1:22](https://www.linkedin.com/learning/offensive-penetration-testing/snmp-enumeration?u=76281980&t=82)** SNMP is based on UDP.
 >
@@ -4058,7 +4034,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/offensive-penetration-testing/snmp-enumeration?u=76281980&t=117)** Like SMB, there's three versions of SNMP, there's Version 1 and Version 2c, Charlie, which have no encryption, so it's transmitted in the clear, and then version three, which is the most secure because it has encryption.
 >
-> **[2:13](https://www.linkedin.com/learning/offensive-penetration-testing/snmp-enumeration?u=76281980&t=133)** So Nmap is our trusty friend yet again for enumerating SNMP.
+> **[2:13](https://www.linkedin.com/learning/offensive-penetration-testing/snmp-enumeration?u=76281980&t=133)** So [[Nmap]] is our trusty friend yet again for enumerating SNMP.
 >
 > **[2:17](https://www.linkedin.com/learning/offensive-penetration-testing/snmp-enumeration?u=76281980&t=137)** And you can see here, we're using Nmap SU. I'm the root user so I don't have to use sudo.
 >
@@ -4110,11 +4086,11 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/offensive-penetration-testing/snmp-enumeration?u=76281980&t=269)** Also here, you can see I did a - w option for SNMM-check and we can see that right access is permitted.
 >
-> **[4:41](https://www.linkedin.com/learning/offensive-penetration-testing/snmp-enumeration?u=76281980&t=281)** That's good if it's a Linux machine. Because it is a Linux machine, you can actually try to get a shell on that with a Metasploit module.
+> **[4:41](https://www.linkedin.com/learning/offensive-penetration-testing/snmp-enumeration?u=76281980&t=281)** That's good if it's a [[Linux]] machine. Because it is a Linux machine, you can actually try to get a shell on that with a [[Metasploit]] module.
 >
 > **[4:50](https://www.linkedin.com/learning/offensive-penetration-testing/snmp-enumeration?u=76281980&t=290)** Linux SNMP, Net SNMPD. RW stands for read-write access.
 >
-> **[4:56](https://www.linkedin.com/learning/offensive-penetration-testing/snmp-enumeration?u=76281980&t=296)** And that's to say that SNMP isn't a Windows-specific protocol.
+> **[4:56](https://www.linkedin.com/learning/offensive-penetration-testing/snmp-enumeration?u=76281980&t=296)** And that's to say that SNMP isn't a [[Windows]]-specific protocol.
 >
 > **[5:01](https://www.linkedin.com/learning/offensive-penetration-testing/snmp-enumeration?u=76281980&t=301)** We can also have it in Linux as well.
 >
@@ -4130,7 +4106,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (4), management (2), [[Google]] (2), database (1), game (1)
+> **Frameworks & Libraries:** [[Linux]] (4), [[Google]] (2), [[Nmap]] (2), [[Metasploit]] (2), [[Windows]] (1)
 > **Env Vars:** snmp (27), oid (5), mib (2), udp (2), sshd (2)
 > **CLI Commands:** sudo (2), find (1)
 > **Versions:** version 1 (2), 192.168.1 (1)
@@ -4138,8 +4114,7 @@ created: 2026-05-02
 > **Ports:** port 161 (2)
 > **Tools:** terminal (1)
 
-#### FTP enumeration
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration?u=76281980)
+#### [FTP enumeration](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4161,9 +4136,9 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration?u=76281980&t=49)** The thing though is when you're anonymous, you may not have the same privileges to get and put files onto a server as you would with a normal user or as an admin.
 >
-> **[1:00](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration?u=76281980&t=60)** So you also notice that if you have, maybe, have a web server on the Internet, that FTP, you can enable FTP so that you can put things like files, HTML or images onto your web server and upload it there.
+> **[1:00](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration?u=76281980&t=60)** So you also notice that if you have, maybe, have a web server on the Internet, that FTP, you can enable FTP so that you can put things like files, [[HTML]] or images onto your web server and upload it there.
 >
-> **[1:17](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration?u=76281980&t=77)** So for FTP scanning, Nmap is our tool yet again and you can see with just our default scan with our SV, SC flags that it will do the ftp_anon script to see if anonymous logins are allowed.
+> **[1:17](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration?u=76281980&t=77)** So for FTP scanning, [[Nmap]] is our tool yet again and you can see with just our default scan with our SV, SC flags that it will do the ftp_anon script to see if anonymous logins are allowed.
 >
 > **[1:33](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration?u=76281980&t=93)** And if they are, it will tell you if that share is readable or writable and also do it as ftp_cest down there.
 >
@@ -4183,9 +4158,9 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration?u=76281980&t=165)** So you may want to brute-force your login for FTP.
 >
-> **[2:50](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration?u=76281980&t=170)** And we can see here, I used hydra again, with little l admin and password is this custom list I used.
+> **[2:50](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration?u=76281980&t=170)** And we can see here, I used [[Hydra]] again, with little l admin and password is this custom list I used.
 >
-> **[2:59](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration?u=76281980&t=179)** If you go out there and Google like what's the default password for FTP, that may give you some some luck and I'll show you that in the demo here in a little bit.
+> **[2:59](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration?u=76281980&t=179)** If you go out there and [[Google]] like what's the default password for FTP, that may give you some some luck and I'll show you that in the demo here in a little bit.
 >
 > **[3:11](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration?u=76281980&t=191)** I also want to point out ascii versus binary mode.
 >
@@ -4199,7 +4174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), prompt (1), [[HTML]] (1), [[Scripting]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (3), [[HTML]] (1), [[Hydra]] (1), [[Google]] (1)
 > **Env Vars:** ftp (16), sftp (1), html (1), pwk (1)
 > **Code Identifiers:** ftp_anon (1), ftp_cest (1)
 > **Definitions:** stands for (1), is a  (1)
@@ -4207,8 +4182,7 @@ created: 2026-05-02
 > **Ports:** port 21 (1)
 > **UI Navigation:** switch to (1)
 
-#### FTP enumeration demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration-demo?u=76281980)
+#### [FTP enumeration demo](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4216,7 +4190,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration-demo?u=76281980&t=1)** More hands-on demos here.
 >
-> **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration-demo?u=76281980&t=3)** So we're going to use Nmap against this host.
+> **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration-demo?u=76281980&t=3)** So we're going to use [[Nmap]] against this host.
 >
 > **[0:05](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration-demo?u=76281980&t=5)** I identified Port 2121 open, which is not our default port for FTP, but it's like Port 21.
 >
@@ -4270,7 +4244,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration-demo?u=76281980&t=157)** But let's try to figure out if we have more permissions as perhaps the admin user.
 >
-> **[2:42](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration-demo?u=76281980&t=162)** So if you just Google, "default ftp credentials," should I even spell it right, We can see the account admin has a password of password, so let's try that.
+> **[2:42](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration-demo?u=76281980&t=162)** So if you just [[Google]], "default ftp credentials," should I even spell it right, We can see the account admin has a password of password, so let's try that.
 >
 > **[3:00](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration-demo?u=76281980&t=180)** So we'll go back.
 >
@@ -4282,7 +4256,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration-demo?u=76281980&t=195)** And like, we could do change directory.. and go back a directory.
 >
-> **[3:19](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration-demo?u=76281980&t=199)** Let's try that with directory to see if we can enumerate this Windows box.
+> **[3:19](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration-demo?u=76281980&t=199)** Let's try that with directory to see if we can enumerate this [[Windows]] box.
 >
 > **[3:26](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration-demo?u=76281980&t=206)** So we can see here that we did go back and we can go to users.
 >
@@ -4310,7 +4284,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration-demo?u=76281980&t=276)** And one way we can verify it, of course, is we want to get our listener ready.
 >
-> **[4:44](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration-demo?u=76281980&t=284)** So I'm going to set our listener up with MSF console.
+> **[4:44](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration-demo?u=76281980&t=284)** So I'm going to set our listener up with [[Metasploit|MSF]] console.
 >
 > **[4:51](https://www.linkedin.com/learning/offensive-penetration-testing/ftp-enumeration-demo?u=76281980&t=291)** Already setting all my options here, you can see the payload, the host, the port, just like the SMB module.
 >
@@ -4352,15 +4326,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[Windows]] (3), [[Scripting]] (1), [[Search]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Nmap]] (2), [[Google]] (1), [[Metasploit|Msf]] (1)
 > **Env Vars:** ftp (11), smb (3), iis (1), msf (1), asp (1)
 > **CLI Commands:** find (2), make (1), ls (1)
 > **Ports:** port 2121 (3), port 21 (1)
 > **UI Navigation:** go to (3), switch to (1)
 > **Analogies:** it's like (1), just like (1)
 
-#### SSH enumeration
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980)
+#### [SSH enumeration](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4384,7 +4357,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=34)** So people used to interact with systems, remote systems through Telnet. Well, Telnet was a clear text protocol.
 >
-> **[0:40](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=40)** And as we saw during the Wireshark module, if someone's sniffing traffic and you're doing things in the clear, they could see when you logged in.
+> **[0:40](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=40)** And as we saw during the [[Wireshark]] module, if someone's sniffing traffic and you're doing things in the clear, they could see when you logged in.
 >
 > **[0:48](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=48)** And, of course, the first thing that pops up in Telnet, as with SSH, is it asks you for a username and password.
 >
@@ -4410,7 +4383,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=116)** But as far as shells go, like this is, perhaps, the best shell.
 >
-> **[2:01](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=121)** Better than getting a Netcat shell, SSH is great because you can use Tab completion.
+> **[2:01](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=121)** Better than getting a [[Netcat]] shell, SSH is great because you can use Tab completion.
 >
 > **[2:06](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=126)** It's very stable.
 >
@@ -4432,7 +4405,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=168)** So the private key, it can also have a passphrase in it as well for security.
 >
-> **[2:55](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=175)** I have EC2 instances with AWS.
+> **[2:55](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=175)** I have [[Amazon EC2|EC2]] instances with AWS.
 >
 > **[2:58](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=178)** EC2 uses a public-private key pair and doesn't use a username password which you can enable that, of course.
 >
@@ -4454,9 +4427,9 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=243)** So if you can use username and password, a great way to do that is to brute force if you don't know what it is.
 >
-> **[4:11](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=251)** And you can see I've used hydra, again here.
+> **[4:11](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=251)** And you can see I've used [[Hydra]], again here.
 >
-> **[4:14](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=254)** Nmap has a brute force script in it.
+> **[4:14](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=254)** [[Nmap]] has a brute force script in it.
 >
 > **[4:16](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=256)** It takes a very long time. So hydra would be my rule of choice in brute forcing logins.
 >
@@ -4500,7 +4473,7 @@ created: 2026-05-02
 >
 > **[6:52](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=412)** So I'm going to use hydra -l root.
 >
-> **[7:02](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=422)** And we're going to use user shared word list rock you and we're going
+> **[7:02](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=422)** And we're going to use user shared [[Microsoft Word|word]] list rock you and we're going
 >
 > **[7:13](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=433)** to specify our host 192.168.1.49 ssh and give that a go.
 >
@@ -4516,7 +4489,7 @@ created: 2026-05-02
 >
 > **[7:51](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=471)** So what I want to do now is, of course, enumerate.
 >
-> **[7:54](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=474)** That's the big thing in OSCP. Right.
+> **[7:54](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=474)** That's the big thing in [[OSCP]]. Right.
 >
 > **[7:56](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=476)** Let's enumerate.
 >
@@ -4574,7 +4547,7 @@ created: 2026-05-02
 >
 > **[11:09](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=669)** I'm going to change this to root and querty.
 >
-> **[11:16](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=676)** Like I said, we don't see a command prompt now, but in Linux, we hope that silence means success.
+> **[11:16](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=676)** Like I said, we don't see a command prompt now, but in [[Linux]], we hope that silence means success.
 >
 > **[11:21](https://www.linkedin.com/learning/offensive-penetration-testing/ssh-enumeration?u=76281980&t=681)** So what I can do now is use different tools using proxy chain.
 >
@@ -4594,7 +4567,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), web (5), [[Wireshark]] (2), traffic (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), [[Hydra]] (3), [[Nmap]] (3), [[Wireshark]] (2), [[Microsoft Word|Word]] (2)
 > **Env Vars:** ssh (23), ec2 (6), rsa (3), socks4 (3), nfs (2)
 > **CLI Commands:** ssh (26), cat (2), aws (1), make (1), curl (1)
 > **Ports:** port 22 (5), port 80 (4), port 1234 (2), port 9050 (2)
@@ -4603,8 +4576,7 @@ created: 2026-05-02
 > **Definitions:** stands for (1), is a  (1)
 > **Prerequisites:** set up (2)
 
-#### Protocol tips
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/protocol-tips?u=76281980)
+#### [Protocol tips](https://www.linkedin.com/learning/offensive-penetration-testing/protocol-tips?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4628,9 +4600,9 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/offensive-penetration-testing/protocol-tips?u=76281980&t=57)** If we know ACP, it might be on 80, it might be on 8080, it might be on 8088.
 >
-> **[1:03](https://www.linkedin.com/learning/offensive-penetration-testing/protocol-tips?u=76281980&t=63)** So that's to say let's use our tools, let's use Nmap, let's scan every single port.
+> **[1:03](https://www.linkedin.com/learning/offensive-penetration-testing/protocol-tips?u=76281980&t=63)** So that's to say let's use our tools, let's use [[Nmap]], let's scan every single port.
 >
-> **[1:09](https://www.linkedin.com/learning/offensive-penetration-testing/protocol-tips?u=76281980&t=69)** Because if you're thinking like someone who's making OSCP, you know how these tools work.
+> **[1:09](https://www.linkedin.com/learning/offensive-penetration-testing/protocol-tips?u=76281980&t=69)** Because if you're thinking like someone who's making [[OSCP]], you know how these tools work.
 >
 > **[1:16](https://www.linkedin.com/learning/offensive-penetration-testing/protocol-tips?u=76281980&t=76)** You know how Nmap works.
 >
@@ -4644,11 +4616,11 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/offensive-penetration-testing/protocol-tips?u=76281980&t=111)** And we saw even with Nmap when we looked at the SMTP demo, it didn't even recognize the service.
 >
-> **[1:58](https://www.linkedin.com/learning/offensive-penetration-testing/protocol-tips?u=76281980&t=118)** We didn't know the service until we used Ncat and we manually enumerated it.
+> **[1:58](https://www.linkedin.com/learning/offensive-penetration-testing/protocol-tips?u=76281980&t=118)** We didn't know the service until we used [[Netcat|Ncat]] and we manually enumerated it.
 >
 > **[2:03](https://www.linkedin.com/learning/offensive-penetration-testing/protocol-tips?u=76281980&t=123)** So that's where you're starting to build your skills.
 >
-> **[2:05](https://www.linkedin.com/learning/offensive-penetration-testing/protocol-tips?u=76281980&t=125)** You're starting to say, well, if Nmap doesn't work for me, maybe I can go to Ncat or Netcat or maybe Masscan is the right tool here.
+> **[2:05](https://www.linkedin.com/learning/offensive-penetration-testing/protocol-tips?u=76281980&t=125)** You're starting to say, well, if Nmap doesn't work for me, maybe I can go to Ncat or [[Netcat]] or maybe Masscan is the right tool here.
 >
 > **[2:14](https://www.linkedin.com/learning/offensive-penetration-testing/protocol-tips?u=76281980&t=134)** So it's knowing which tools to use when things fail you. The best hackers are able to manually enumerate things and don't rely on a particular tool.
 >
@@ -4684,7 +4656,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/offensive-penetration-testing/protocol-tips?u=76281980&t=200)** It's important to keep doing things like Hack The Box and CTFs over and over again because the more boxes you enumerate, the more you'll realize like, hey, that's not a particular service I've seen.
 >
-> **[3:32](https://www.linkedin.com/learning/offensive-penetration-testing/protocol-tips?u=76281980&t=212)** Normally, maybe that's, you know, maybe there's a vulnerability there, or I know which particular files to look at in Linux to tell me more about the configuration of that machine.
+> **[3:32](https://www.linkedin.com/learning/offensive-penetration-testing/protocol-tips?u=76281980&t=212)** Normally, maybe that's, you know, maybe there's a vulnerability there, or I know which particular files to look at in [[Linux]] to tell me more about the configuration of that machine.
 >
 > **[3:41](https://www.linkedin.com/learning/offensive-penetration-testing/protocol-tips?u=76281980&t=221)** And it just comes with more and more reps.
 >
@@ -4700,7 +4672,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/offensive-penetration-testing/protocol-tips?u=76281980&t=248)** Maybe we can find the password for that.
 >
-> **[4:11](https://www.linkedin.com/learning/offensive-penetration-testing/protocol-tips?u=76281980&t=251)** You know, even with FTP, even with a Google search, we found that the default credentials for admin is password and that worked for us.
+> **[4:11](https://www.linkedin.com/learning/offensive-penetration-testing/protocol-tips?u=76281980&t=251)** You know, even with FTP, even with a [[Google]] search, we found that the default credentials for admin is password and that worked for us.
 >
 > **[4:20](https://www.linkedin.com/learning/offensive-penetration-testing/protocol-tips?u=76281980&t=260)** You know, maybe we don't even have to brute force.
 >
@@ -4756,7 +4728,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[OSCP]] (2), [[Linux]] (2), hit (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (9), [[OSCP]] (2), [[Netcat|Ncat]] (2), [[Linux]] (2), [[Netcat]] (1)
 > **Env Vars:** ftp (7), oscp (2), ssh (1), http (1), acp (1)
 > **Ports:** port 22 (3), port 21 (2), port 2121 (1)
 > **CLI Commands:** find (4), ssh (1)
@@ -4764,8 +4736,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 
-#### Network Protocols Lab
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/network-protocols-lab?u=76281980)
+#### [Network Protocols Lab](https://www.linkedin.com/learning/offensive-penetration-testing/network-protocols-lab?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4775,7 +4746,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/offensive-penetration-testing/network-protocols-lab?u=76281980&t=9)** I'm going to provide you with the credentials for every single box here.
 >
-> **[0:12](https://www.linkedin.com/learning/offensive-penetration-testing/network-protocols-lab?u=76281980&t=12)** That doesn't mean you should log in to the Windows and Linux box from the network diagram on your Kali box.
+> **[0:12](https://www.linkedin.com/learning/offensive-penetration-testing/network-protocols-lab?u=76281980&t=12)** That doesn't mean you should log in to the [[Windows]] and [[Linux]] box from the network diagram on your Kali box.
 >
 > **[0:20](https://www.linkedin.com/learning/offensive-penetration-testing/network-protocols-lab?u=76281980&t=20)** Interact with windows with these credentials and without the credentials and see the difference.
 >
@@ -4812,20 +4783,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Web application enumeration
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980)
+#### [Web application enumeration](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=0)** Web application penetration testing. Web application enumeration.
+> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=0)** Web application [[Penetration Testing]]. Web application enumeration.
 >
-> **[0:06](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=6)** Our learning objectives are to understand what tools are available to enumerate web servers, describe the limitations of these scanners, know what directory brute-forcing is and how it can aid in website enumeration, and explain why manual enumeration of web applications is important.
+> **[0:06](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=6)** Our learning objectives are to understand what tools are available to enumerate [[Web Servers]], describe the limitations of these scanners, know what directory brute-forcing is and how it can aid in website enumeration, and explain why manual enumeration of web applications is important.
 >
 > **[0:23](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=23)** Do you recognize that picture?
 >
-> **[0:25](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=25)** It's of our friend WordPress, which we'll get a lot more familiar with in the upcoming labs.
+> **[0:25](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=25)** It's of our friend [[WordPress]], which we'll get a lot more familiar with in the upcoming labs.
 >
-> **[0:30](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=30)** In full disclosure, when I saw a web server in PWK or OSCP, I got nervous because our attack service just grew exponentially.
+> **[0:30](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=30)** In full disclosure, when I saw a web server in PWK or [[OSCP]], I got nervous because our attack service just grew exponentially.
 >
 > **[0:40](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=40)** There could be various pages in there, there could be admin accounts, there could be user accounts.
 >
@@ -4837,7 +4807,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=60)** And, again, the more reps you do, the more experience you have with web applications, the less scary it becomes.
 >
-> **[1:07](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=67)** You'll also notice that there's all these content management systems, there's WordPress, there's Drupal, there's Joomla.
+> **[1:07](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=67)** You'll also notice that there's all these [[Content Management Systems (CMS)|content management systems]], there's WordPress, there's [[Drupal]], there's Joomla.
 >
 > **[1:14](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=74)** And what makes them interesting is they have a large attack surface as well.
 >
@@ -4849,7 +4819,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=100)** So it makes it a larger attack surface there.
 >
-> **[1:43](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=103)** Also, if you're doing bug bounties now or if you're a web application security engineer or pen tester, your mindset needs to change.
+> **[1:43](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=103)** Also, if you're doing bug bounties now or if you're a [[Web Application Security]] engineer or pen tester, your mindset needs to change.
 >
 > **[1:52](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=112)** Doesn't matter if the secure flag isn't set on a cookie.
 >
@@ -4863,7 +4833,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=140)** If you want to do that, I recommend the EWPT exam because that is very specific to web applications.
 >
-> **[2:31](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=151)** So enumeration with our friend Nmap yet again.
+> **[2:31](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=151)** So enumeration with our friend [[Nmap]] yet again.
 >
 > **[2:34](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=154)** So keep in mind when you're doing your scan with Nmap, that's probably the first time you're going to observe a web server and don't assume it's on Port 80 or 443.
 >
@@ -4879,7 +4849,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=200)** That kind of has a very robust output.
 >
-> **[3:23](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=203)** It's not as good as things like Burp Suite, active scan.
+> **[3:23](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=203)** It's not as good as things like [[Burp Suite]], active scan.
 >
 > **[3:25](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=205)** Of course, you can't use Burp Suite Pro in OSCP, but it's kind of, you know, it's a fast scanner -- vulnerability scanner for web applications.
 >
@@ -4899,13 +4869,13 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=247)** Also, let's look at the bottom.
 >
-> **[4:09](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=249)** We can see a possible SQL injection that's great for us.
+> **[4:09](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=249)** We can see a possible [[SQL]] injection that's great for us.
 >
 > **[4:13](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=253)** And maybe enumerating users or usernames and passwords or maybe even getting a Shell in the box.
 >
 > **[4:19](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=259)** So we're also trying to look for different folders and directories on the web server.
 >
-> **[4:28](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=268)** With Nikto, that also does stuff like that.
+> **[4:28](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=268)** With [[Nikto]], that also does stuff like that.
 >
 > **[4:31](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=271)** This is a great scanner.
 >
@@ -4943,7 +4913,7 @@ created: 2026-05-02
 >
 > **[6:13](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=373)** This is what's vulnerable.
 >
-> **[6:16](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=376)** Dirb is a fast and dirty directory brute force.
+> **[6:16](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=376)** [[Dirb]] is a fast and dirty directory brute force.
 >
 > **[6:20](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=380)** I really like it.
 >
@@ -4959,19 +4929,19 @@ created: 2026-05-02
 >
 > **[6:41](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=401)** It's default installed in Kali.
 >
-> **[6:43](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=403)** You can specify a word list, it has a default word list in it, but there's a word list I like using and we'll look at Dirbuster.
+> **[6:43](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=403)** You can specify a [[Microsoft Word|word]] list, it has a default word list in it, but there's a word list I like using and we'll look at Dirbuster.
 >
 > **[6:51](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=411)** And you can see here I like using that directory-list-2.3-medium.txt.
 >
-> **[6:56](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=416)** So I always like using no matter whether it's Dirbuster or Gobuster, which we'll look at next.
+> **[6:56](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=416)** So I always like using no matter whether it's Dirbuster or [[Gobuster]], which we'll look at next.
 >
-> **[7:02](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=422)** But Dirbusters OWASP directory brute forcer is written in Java.
+> **[7:02](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=422)** But Dirbusters [[OWASP]] directory brute forcer is written in [[Java]].
 >
 > **[7:07](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=427)** You can specify which word list you want to use.
 >
 > **[7:10](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=430)** You can specify the file extension.
 >
-> **[7:12](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=432)** That's why it's important to enumerate the technology, whether the server is using PHP or ASP, whether it has text files on it, whether it's using Perl, maybe there's CGI in there.
+> **[7:12](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=432)** That's why it's important to enumerate the technology, whether the server is using [[PHP]] or ASP, whether it has text files on it, whether it's using Perl, maybe there's CGI in there.
 >
 > **[7:25](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=445)** So I would definitely recommend knowing what file extensions to specify or trying a few different ones.
 >
@@ -4987,7 +4957,7 @@ created: 2026-05-02
 >
 > **[7:55](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=475)** So you can see here you can also specify extensions.
 >
-> **[7:58](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=478)** I have PHP, TXT, HTML, and it's giving me the response code of the server as well.
+> **[7:58](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=478)** I have PHP, TXT, [[HTML]], and it's giving me the response code of the server as well.
 >
 > **[8:05](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=485)** It's written in Go.
 >
@@ -4999,7 +4969,7 @@ created: 2026-05-02
 >
 > **[8:19](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=499)** From this, you can already tell it's WordPress.
 >
-> **[8:21](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=501)** You can already tell there's a MySQL database there.
+> **[8:21](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=501)** You can already tell there's a [[MySQL]] database there.
 >
 > **[8:23](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=503)** It doesn't show the version of Apache, but we know we're working with Apache.
 >
@@ -5097,7 +5067,7 @@ created: 2026-05-02
 >
 > **[11:43](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=703)** So how do we downgrade to 1.0?
 >
-> **[11:46](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=706)** We can use Netcat. V for verbose port 80.
+> **[11:46](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=706)** We can use [[Netcat]]. V for verbose port 80.
 >
 > **[11:51](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-enumeration?u=76281980&t=711)** You'll press "Enter," you won't see anything.
 >
@@ -5177,7 +5147,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (14), [[Microsoft Word|Word]] (6), web application (4), [[WordPress]] (4), [[OSCP]] (4)
+> **Frameworks & Libraries:** [[Nmap]] (8), [[Microsoft Word|Word]] (6), [[Gobuster]] (6), [[Nikto]] (5), [[Dirb]] (5)
 > **Env Vars:** http (9), oscp (4), crsf (4), https (3), php (3)
 > **CLI Commands:** apache (4), curl (4), find (3), php (3), nginx (1)
 > **Versions:** 1.0 (5), 2.3 (1), 192.168.1 (1), 1.1 (1), 127.0.0 (1)
@@ -5186,18 +5156,17 @@ created: 2026-05-02
 > **Ports:** port 80 (4)
 > **Tools:** bash (3), command line (1)
 
-#### Using intercepting proxies: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980)
+#### [Using intercepting proxies: Part 1](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=0)** Using Intercepting Proxies.
 >
-> **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=3)** Our learning objectives are to understand what an intercepting proxy is, demonstrate how to set up Burp Suite community edition, know the different tools within Burp Suite such as repeater and intruder and decoder, and also understand OWASP ZAP or Zed Attack Proxy.
+> **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=3)** Our learning objectives are to understand what an intercepting proxy is, demonstrate how to set up [[Burp Suite]] community edition, know the different tools within Burp Suite such as repeater and intruder and decoder, and also understand [[OWASP]] ZAP or Zed Attack Proxy.
 >
 > **[0:20](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=20)** Burp Suite.
 >
-> **[0:21](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=21)** If you're anywhere in the web application security space, you should know what Burp Suite is.
+> **[0:21](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=21)** If you're anywhere in the [[Web Application Security]] space, you should know what Burp Suite is.
 >
 > **[0:27](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=27)** It is by far hands down the most popular intercepting proxy out there.
 >
@@ -5207,11 +5176,11 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=44)** I would highly recommend you go out there and do these labs.
 >
-> **[0:48](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=48)** I've done many of their labs on various things, things not in OSCP, things that are in OSCP, you know, very complex topics such as like HTTP requests smuggling or SSRF.
+> **[0:48](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=48)** I've done many of their labs on various things, things not in [[OSCP]], things that are in OSCP, you know, very complex topics such as like HTTP requests smuggling or SSRF.
 >
 > **[1:04](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=64)** So I think PortSwIgger does a very great job and their hands down, if you want to do web application security, they have the academy for that.
 >
-> **[1:14](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=74)** The community edition of Burp Suite is in Kali Linux.
+> **[1:14](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=74)** The community edition of Burp Suite is in [[Kali Linux]].
 >
 > **[1:20](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=80)** If you're going to be doing things like bug bounty or you're a professional web app pen tester, you really need to buy the pro version.
 >
@@ -5261,7 +5230,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=244)** It's called intercepting proxy because you can modify the packets.
 >
-> **[4:09](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=249)** We saw Netcat and we changed -- we downgraded HTTP to 1.0.
+> **[4:09](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=249)** We saw [[Netcat]] and we changed -- we downgraded HTTP to 1.0.
 >
 > **[4:13](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=253)** Well, you can do that a lot easier using an intercepting proxy.
 >
@@ -5283,7 +5252,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=292)** Maybe I want to change the password to something else and I can quickly do that here as opposed to going through the browser.
 >
-> **[4:58](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=298)** If I want to test a SQL injection, I can quickly do that here as opposed to having to look at the browser over and over and over every time I send a different request.
+> **[4:58](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=298)** If I want to test a [[SQL]] injection, I can quickly do that here as opposed to having to look at the browser over and over and over every time I send a different request.
 >
 > **[5:07](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=307)** So repeater allows you to send different types of requests and analyze the response.
 >
@@ -5297,7 +5266,7 @@ created: 2026-05-02
 >
 > **[5:23](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=323)** You'll notice that it's throttled in the community edition.
 >
-> **[5:27](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=327)** So if you're going to do things like brute-forcing username and password, hydra might be a better tool for you to use.
+> **[5:27](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=327)** So if you're going to do things like brute-forcing username and password, [[Hydra]] might be a better tool for you to use.
 >
 > **[5:33](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=333)** You can grep specific strings.
 >
@@ -5321,7 +5290,7 @@ created: 2026-05-02
 >
 > **[6:31](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=391)** There's also decoder.
 >
-> **[6:34](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=394)** So you can see here we have a Base64 encoded value that decodes to cyber is awesome, but you can decode and encode things like Base64 URL, HTML.
+> **[6:34](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=394)** So you can see here we have a Base64 encoded value that decodes to cyber is awesome, but you can decode and encode things like Base64 URL, [[HTML]].
 >
 > **[6:46](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-1?u=76281980&t=406)** So there's a lot of different options here as far as encoding and decoding.
 >
@@ -5369,7 +5338,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Burp Suite]] (18), web (6), [[OSCP]] (4), [[Security]] (3), feature (3)
+> **Frameworks & Libraries:** [[Burp Suite]] (18), [[OSCP]] (4), [[OWASP]] (2), [[Web Application Security]] (2), [[Kali Linux]] (1)
 > **Env Vars:** zap (4), oscp (4), https (4), post (3), owasp (2)
 > **API Endpoints:** get  (3), post  (3)
 > **Prerequisites:** install (3), set up (2)
@@ -5378,14 +5347,13 @@ created: 2026-05-02
 > **Analogies:** such as (3)
 > **URLs:** [portswigger.net](https://portswigger.net) (1), [http://burpsuite](http://burpsuite) (1)
 
-#### Using intercepting proxies: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-2?u=76281980)
+#### [Using intercepting proxies: Part 2](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-2?u=76281980&t=1)** All right.
 >
-> **[0:02](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-2?u=76281980&t=2)** So let's go to the basics of how to set up Burp Suite.
+> **[0:02](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-2?u=76281980&t=2)** So let's go to the basics of how to set up [[Burp Suite]].
 >
 > **[0:05](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-2?u=76281980&t=5)** So I use this proxy SwitchyOmega.
 >
@@ -5507,11 +5475,11 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-2?u=76281980&t=283)** I want to load a bunch of passwords.
 >
-> **[4:48](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-2?u=76281980&t=288)** So I'm going to go to metasploit, I'm going to go to IP my passwords.
+> **[4:48](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-2?u=76281980&t=288)** So I'm going to go to [[Metasploit]], I'm going to go to IP my passwords.
 >
 > **[4:59](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-2?u=76281980&t=299)** And also I talked about the ability to grep.
 >
-> **[5:03](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-2?u=76281980&t=303)** So if I wanted to grep for a specific word, I'm going to clear this, I'm going to put administration.
+> **[5:03](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-2?u=76281980&t=303)** So if I wanted to grep for a specific [[Microsoft Word|word]], I'm going to clear this, I'm going to put administration.
 >
 > **[5:14](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-2?u=76281980&t=314)** Add that and we'll let this -- we'll start the attack and you'll notice that it warns you that you'll be throttled because this is a community edition.
 >
@@ -5565,7 +5533,7 @@ created: 2026-05-02
 >
 > **[7:29](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-2?u=76281980&t=449)** So I'm going to look for alerts.
 >
-> **[7:32](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-2?u=76281980&t=452)** I can see it found cross-site scripting, I can see it found a SQL injection.
+> **[7:32](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-2?u=76281980&t=452)** I can see it found cross-site scripting, I can see it found a [[SQL]] injection.
 >
 > **[7:38](https://www.linkedin.com/learning/offensive-penetration-testing/using-intercepting-proxies-part-2?u=76281980&t=458)** So I like this that it shows you what the alerts are.
 >
@@ -5607,7 +5575,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Burp Suite]] (11), [[Scripting]] (4), [[SQL]] (3), feature (2), next (2)
+> **Frameworks & Libraries:** [[Burp Suite]] (11), [[SQL]] (3), [[Metasploit]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (15), right-click (1), double-click (1)
 > **Env Vars:** zap (4), http (3), sql (3), https (1), dom (1)
 > **CLI Commands:** make (4), grep (2), find (1)
@@ -5616,18 +5584,17 @@ created: 2026-05-02
 > **Ports:** port 8080 (2)
 > **File Paths:** robots.txt (1)
 
-#### SQL injections
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980)
+#### [SQL injections](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980&t=0)** SQL injections.
+> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980&t=0)** [[SQL]] injections.
 >
 > **[0:02](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980&t=2)** Learning objectives are to understand how to identify SQL injection vulnerabilities and demonstrate how to manually exploit injections.
 >
-> **[0:12](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980&t=12)** So SQL, Structured Query Language in relational databases.
+> **[0:12](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980&t=12)** So SQL, Structured Query Language in [[Relational Databases]].
 >
-> **[0:16](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980&t=16)** Databases are everywhere in web applications.
+> **[0:16](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980&t=16)** [[Databases]] are everywhere in web applications.
 >
 > **[0:19](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980&t=19)** If you've ever been shopping for something on Amazon and there's a price and there's an item, there's probably an underlying database for that.
 >
@@ -5635,11 +5602,11 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980&t=45)** And because there's so many databases out there in web applications, that the -- a SQL injection attack has been around for a very, very long time.
 >
-> **[0:54](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980&t=54)** A SQL injection is basically being able to inject our own SQL statements -- raw SQL statements into forms or the URL itself, and that allows us to query the database, interact with the database, delete things, add things, and do very bad things like figure out usernames and passwords or other sensitive information in these databases.
+> **[0:54](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980&t=54)** A SQL injection is basically being able to inject our own SQL statements -- raw SQL statements into [[Forms]] or the URL itself, and that allows us to query the database, interact with the database, delete things, add things, and do very bad things like figure out usernames and passwords or other sensitive information in these databases.
 >
 > **[1:19](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980&t=79)** It's also important to know what the underlying database is.
 >
-> **[1:23](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980&t=83)** Is it MySQL, is it MSSQL, is it Oracle DB?
+> **[1:23](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980&t=83)** Is it [[MySQL]], is it MSSQL, is it Oracle DB?
 >
 > **[1:26](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980&t=86)** Why is that important?
 >
@@ -5677,11 +5644,11 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980&t=185)** That is an error-based SQL injection because we see an error. Blind based, I bet you can guess, is where you don't see an error like that.
 >
-> **[3:15](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980&t=195)** Our most powerful tool with SQL injections, finding them, and enumerating databases is SQLMap.
+> **[3:15](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980&t=195)** Our most powerful tool with SQL injections, finding them, and enumerating databases is [[SQLmap]].
 >
 > **[3:23](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980&t=203)** It's a great tool, great tool. If you're going to be doing any of the Elan exams, SQLMap is a great tool for that.
 >
-> **[3:33](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980&t=213)** Can't use it in OSCP?
+> **[3:33](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980&t=213)** Can't use it in [[OSCP]]?
 >
 > **[3:34](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980&t=214)** Sorry. But, you know, SQLMap is great for labs and things like that.
 >
@@ -5719,7 +5686,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980&t=312)** So what do we do?
 >
-> **[5:13](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980&t=313)** We google SQL injections for MySQL. Right.
+> **[5:13](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980&t=313)** We [[Google]] SQL injections for MySQL. Right.
 >
 > **[5:16](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injections?u=76281980&t=316)** That's our best friend.
 >
@@ -5869,7 +5836,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (24), database (14), [[MySQL]] (12), [[Databases]] (7), web (3)
+> **Frameworks & Libraries:** [[SQL]] (24), [[MySQL]] (12), [[Databases]] (7), [[SQLmap]] (5), [[OSCP]] (3)
 > **Env Vars:** sql (24), oscp (3), url (2), dvwa (2), where (2)
 > **CLI Commands:** mysql (12), find (3), make (1)
 > **Code Identifiers:** information_schema (3), table_name (2), schema_name (1), table_schema (1), column_name (1)
@@ -5878,12 +5845,11 @@ created: 2026-05-02
 > **Versions:** version 5 (1)
 > **Cross-References:** we covered (1)
 
-#### SQL injection authentication bypass
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injection-authentication-bypass?u=76281980)
+#### [SQL injection authentication bypass](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injection-authentication-bypass?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injection-authentication-bypass?u=76281980&t=1)** SQL Injection Authentication Bypass - Practical Scenario.
+> **[0:01](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injection-authentication-bypass?u=76281980&t=1)** [[SQL]] Injection Authentication Bypass - Practical Scenario.
 >
 > **[0:05](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injection-authentication-bypass?u=76281980&t=5)** Our learning objective is one, understand how to bypass authentication with a SQL injection.
 >
@@ -5891,11 +5857,11 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injection-authentication-bypass?u=76281980&t=23)** A lot of googling.
 >
-> **[0:24](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injection-authentication-bypass?u=76281980&t=24)** I'm not a master at SQL or MySQL database.
+> **[0:24](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injection-authentication-bypass?u=76281980&t=24)** I'm not a master at SQL or [[MySQL]] database.
 >
 > **[0:28](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injection-authentication-bypass?u=76281980&t=28)** I'm not a database administrator.
 >
-> **[0:31](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injection-authentication-bypass?u=76281980&t=31)** It just took a lot of research, which is the basis of OSCP.
+> **[0:31](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injection-authentication-bypass?u=76281980&t=31)** It just took a lot of research, which is the basis of [[OSCP]].
 >
 > **[0:35](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injection-authentication-bypass?u=76281980&t=35)** Right.
 >
@@ -5925,7 +5891,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injection-authentication-bypass?u=76281980&t=100)** We could cURL this because it's a nice, pretty web page.
 >
-> **[1:44](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injection-authentication-bypass?u=76281980&t=104)** If we cURL that we got -- we get more of the source of the page, but we can either google for that exact -- now my Google is going off -- we can google for that exact, you know, FreeSMS Student Management System version 2.1.2.
+> **[1:44](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injection-authentication-bypass?u=76281980&t=104)** If we cURL that we got -- we get more of the source of the page, but we can either [[Google]] for that exact -- now my Google is going off -- we can google for that exact, you know, FreeSMS Student Management System version 2.1.2.
 >
 > **[2:02](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injection-authentication-bypass?u=76281980&t=122)** Or we can use exploit DB or Searchsploit.
 >
@@ -5939,7 +5905,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injection-authentication-bypass?u=76281980&t=142)** It just copies it to the desktop because that's the directory I'm in.
 >
-> **[2:26](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injection-authentication-bypass?u=76281980&t=146)** So it will copy that Python script to the desktop.
+> **[2:26](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injection-authentication-bypass?u=76281980&t=146)** So it will copy that [[Python (Programming Language)|Python]] script to the desktop.
 >
 > **[2:29](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injection-authentication-bypass?u=76281980&t=149)** Now, we should always read what the script does.
 >
@@ -5995,9 +5961,9 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injection-authentication-bypass?u=76281980&t=266)** You can make your own script.
 >
-> **[4:27](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injection-authentication-bypass?u=76281980&t=267)** You can use Burp Suite like I showed you.
+> **[4:27](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injection-authentication-bypass?u=76281980&t=267)** You can use [[Burp Suite]] like I showed you.
 >
-> **[4:30](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injection-authentication-bypass?u=76281980&t=270)** You can use intruder with sniper and enter that into these forms.
+> **[4:30](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injection-authentication-bypass?u=76281980&t=270)** You can use intruder with sniper and enter that into these [[Forms]].
 >
 > **[4:37](https://www.linkedin.com/learning/offensive-penetration-testing/sql-injection-authentication-bypass?u=76281980&t=277)** Or some of the other payloads I showed you as well, not just sniper.
 >
@@ -6033,7 +5999,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (10), database (3), [[Google]] (3), [[OSCP]] (2), web (2)
+> **Frameworks & Libraries:** [[SQL]] (10), [[Google]] (3), [[OSCP]] (2), [[Python (Programming Language)|Python]] (2), [[Forms]] (2)
 > **Env Vars:** sql (10), oscp (2), cve (1), sms (1)
 > **CLI Commands:** find (5), make (2), curl (2), python (2), mysql (1)
 > **Versions:** version 2 (2), 1.2 (2), 2.1.2 (1)
@@ -6042,8 +6008,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **UI Navigation:** go to (1)
 
-#### Cross-Site Scripting (XSS)
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980)
+#### [Cross-Site Scripting (XSS)](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6051,21 +6016,21 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=3)** Our learning objectives are to understand the basics of cross-site scripting, demonstrate how to use the BeEF framework, and identify the different types of cross-site scripting vulnerabilities.
 >
-> **[0:14](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=14)** So I've spoken a lot about server-side attacks attacking FTP servers, attacking web servers, attacking SMB.
+> **[0:14](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=14)** So I've spoken a lot about server-side attacks attacking FTP servers, attacking [[Web Servers]], attacking SMB.
 >
 > **[0:23](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=23)** So these are all server-side attacks.
 >
 > **[0:27](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=27)** Client-side attacks are having to have someone interact like a victim, open up their browser and surf to your website.
 >
-> **[0:37](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=37)** We saw this client-side attack in the Wireshark module and the drive by download, that person had to click that link and be enticed to go to our website.
+> **[0:37](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=37)** We saw this client-side attack in the [[Wireshark]] module and the drive by download, that person had to click that link and be enticed to go to our website.
 >
-> **[0:46](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=46)** Cross-site scripting is an injection attack, so we're actually allowed to or were able to inject JavaScript into a web form or into the URL bar itself, kind of like SQL injection where we could also write SQL queries into things like into the URL bar itself or into a form.
+> **[0:46](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=46)** Cross-site scripting is an injection attack, so we're actually allowed to or were able to inject [[JavaScript]] into a web form or into the URL bar itself, kind of like [[SQL]] injection where we could also write SQL queries into things like into the URL bar itself or into a form.
 >
 > **[1:10](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=70)** Cross-site scripting, you can write JavaScript into the URL or into a form.
 >
 > **[1:18](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=78)** And what makes that dangerous is JavaScript allows attackers to do things like steal cookies, to redirect victims to their controlled page.
 >
-> **[1:27](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=87)** And you can also inject things like HTML, which is not as bad.
+> **[1:27](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=87)** And you can also inject things like [[HTML]], which is not as bad.
 >
 > **[1:31](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=91)** Why?
 >
@@ -6079,7 +6044,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=126)** Reflect is also written on the page when it's executed, but stored is on the page.
 >
-> **[2:11](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=131)** So you'll see this a lot in web forms or forums, I should say, where people visit the forum and there's stored JavaScript in it that may redirect the victim to the attacker's controlled page.
+> **[2:11](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=131)** So you'll see this a lot in web [[Forms]] or forums, I should say, where people visit the forum and there's stored JavaScript in it that may redirect the victim to the attacker's controlled page.
 >
 > **[2:23](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=143)** Or there might be a small little image in there that actually is redirecting someone's browser or having their browser contact the attacker's controlled server so they can steal cookies and then log in as the victim.
 >
@@ -6087,7 +6052,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=158)** DOM-Based is hard to understand for a lot of people, but it's not written to the server like stored or reflected where you can actually see it on the source of the page.
 >
-> **[2:48](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=168)** DOM occurs in the document object model of the page or document object model, which is kind of a hard thing to understand within itself.
+> **[2:48](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=168)** DOM occurs in the [[Document Object Model (DOM)|document object model]] of the page or document object model, which is kind of a hard thing to understand within itself.
 >
 > **[3:01](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=181)** But we'll talk about that a little bit later.
 >
@@ -6109,7 +6074,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=227)** What is typo squatted mean?
 >
-> **[3:48](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=228)** Typo squatted means if I want a typo squat something like google instead of O's, I could put zeros and the victim would look at that link and say, oh, I'm going to Google.
+> **[3:48](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=228)** Typo squatted means if I want a typo squat something like [[Google]] instead of O's, I could put zeros and the victim would look at that link and say, oh, I'm going to Google.
 >
 > **[3:58](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=238)** But in fact, it's Google with two zeros as opposed to two O's.
 >
@@ -6205,7 +6170,7 @@ created: 2026-05-02
 >
 > **[8:26](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=506)** I don't think anyone's going to be sitting there.
 >
-> **[8:28](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=508)** I'm not giving you any hints or anything like that, but think about it for PWK or OSCP.
+> **[8:28](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=508)** I'm not giving you any hints or anything like that, but think about it for PWK or [[OSCP]].
 >
 > **[8:34](https://www.linkedin.com/learning/offensive-penetration-testing/cross-site-scripting-xss?u=76281980&t=514)** Again, I'm not giving any hints, but they have to script a victim going to that page.
 >
@@ -6257,7 +6222,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scripting]] (15), [[JavaScript]] (11), dom (7), [[HTML]] (5), web (4)
+> **Frameworks & Libraries:** [[JavaScript]] (11), [[HTML]] (5), [[Google]] (3), [[SQL]] (2), [[Document Object Model (DOM)|Document object model]] (2)
 > **Env Vars:** dom (7), url (5), html (4), sql (2), ftp (1)
 > **CLI Commands:** apache (2), make (1), find (1)
 > **Definitions:** is an  (2), is a  (2)
@@ -6266,8 +6231,7 @@ created: 2026-05-02
 > **Ports:** port 3000 (1)
 > **Tools:** firefox (1)
 
-#### BeEF demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/beef-demo?u=76281980)
+#### [BeEF demo](https://www.linkedin.com/learning/offensive-penetration-testing/beef-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6279,7 +6243,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/offensive-penetration-testing/beef-demo?u=76281980&t=7)** But let's follow our methodology.
 >
-> **[0:10](https://www.linkedin.com/learning/offensive-penetration-testing/beef-demo?u=76281980&t=10)** So we typically do our Nmap scan.
+> **[0:10](https://www.linkedin.com/learning/offensive-penetration-testing/beef-demo?u=76281980&t=10)** So we typically do our [[Nmap]] scan.
 >
 > **[0:12](https://www.linkedin.com/learning/offensive-penetration-testing/beef-demo?u=76281980&t=12)** Let's say I have a host, I already have some information that Port 25 is open and I want to figure out what the version is of that -- of whatever software is running on Port 25.
 >
@@ -6289,11 +6253,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/offensive-penetration-testing/beef-demo?u=76281980&t=36)** And we see that we have two exploits for persistent cross-site scripting vulnerabilities.
 >
-> **[0:43](https://www.linkedin.com/learning/offensive-penetration-testing/beef-demo?u=76281980&t=43)** And there's a Python script here.
+> **[0:43](https://www.linkedin.com/learning/offensive-penetration-testing/beef-demo?u=76281980&t=43)** And there's a [[Python (Programming Language)|Python]] script here.
 >
 > **[0:44](https://www.linkedin.com/learning/offensive-penetration-testing/beef-demo?u=76281980&t=44)** I can also go to that or search for that in exploit DB.
 >
-> **[0:51](https://www.linkedin.com/learning/offensive-penetration-testing/beef-demo?u=76281980&t=51)** This is what differentiates you from script kiddies, is the fact that you can look at this script and this is what you need to do for OSCP and you need to start picking this apart.
+> **[0:51](https://www.linkedin.com/learning/offensive-penetration-testing/beef-demo?u=76281980&t=51)** This is what differentiates you from script kiddies, is the fact that you can look at this script and this is what you need to do for [[OSCP]] and you need to start picking this apart.
 >
 > **[1:02](https://www.linkedin.com/learning/offensive-penetration-testing/beef-demo?u=76281980&t=62)** And I'm doing this early because there's an exploit -- a public exploit module, but let's start thinking about this now.
 >
@@ -6321,7 +6285,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/offensive-penetration-testing/beef-demo?u=76281980&t=96)** So what I did is I modify the code. And what I did is I know that there's a user at localhost and there's an admin at localhost.
 >
-> **[1:52](https://www.linkedin.com/learning/offensive-penetration-testing/beef-demo?u=76281980&t=112)** My objective is to get the username and password of the admin user and you can see here that the content type is text HTML, which is important because it will do our script tag here.
+> **[1:52](https://www.linkedin.com/learning/offensive-penetration-testing/beef-demo?u=76281980&t=112)** My objective is to get the username and password of the admin user and you can see here that the content type is text [[HTML]], which is important because it will do our script tag here.
 >
 > **[2:05](https://www.linkedin.com/learning/offensive-penetration-testing/beef-demo?u=76281980&t=125)** Script document location, I'll show you that in the slides, is my controlled server.
 >
@@ -6439,15 +6403,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[HTML]] (2), application (2), [[Scripting]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[HTML]] (2), [[Nmap]] (1), [[OSCP]] (1)
 > **Ports:** port 25 (5), port 8000 (1)
 > **Env Vars:** html (2), smtp (1), oscp (1), urgent (1)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** python (2)
 > **Versions:** 192.168.1 (1)
 
-#### File inclusion vulnerabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980)
+#### [File inclusion vulnerabilities](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6461,11 +6424,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=25)** So that's basically what we're looking at here, but in a web application where if you do dot dot slash, dot dot slash, dot dot slash, you can go back into that server and you can enumerate things like the /etc/passwd file or any file that the server has permissions to access or whatever the user is for that server, which is usually dub, dub, dub data, or it could be a daemon you'd have -- or daemon you -- whatever however you spell it, but you can go back into the server and look at various files.
 >
-> **[0:57](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=57)** So this affects PHP-based applications mostly, and it basically is a way that developers develop PHP code where they can include files within the web server but they don't code it properly and that allows us as attackers to go back and either look at files within the server itself or also include files remotely from our server.
+> **[0:57](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=57)** So this affects [[PHP]]-based applications mostly, and it basically is a way that developers develop PHP code where they can include files within the web server but they don't code it properly and that allows us as attackers to go back and either look at files within the server itself or also include files remotely from our server.
 >
 > **[1:26](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=86)** So when we talk about local file inclusion, what we're talking about is the ability to read files on that machine.
 >
-> **[1:34](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=94)** And you'll see for Linux machines at /etc/passwd is a file that most people look for. One, because it's -- everyone can read it most -- usually.
+> **[1:34](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=94)** And you'll see for [[Linux]] machines at /etc/passwd is a file that most people look for. One, because it's -- everyone can read it most -- usually.
 >
 > **[1:44](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=104)** And the other time is because you can enumerate the users on that machine.
 >
@@ -6477,7 +6440,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=148)** In theory, if it's a password, that's not too crazy.
 >
-> **[2:32](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=152)** We'll talk about that later in the password cracking lab. For windows, these are some files you can look for as well.
+> **[2:32](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=152)** We'll talk about that later in the password cracking lab. For [[Windows]], these are some files you can look for as well.
 >
 > **[2:38](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=158)** Windows\System32\drivers\etc\hosts.
 >
@@ -6503,7 +6466,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=220)** So here's the /etc/passwd file.
 >
-> **[3:44](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=224)** As you can see, this is a vulnerability in a WordPress plugin.
+> **[3:44](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=224)** As you can see, this is a vulnerability in a [[WordPress]] plugin.
 >
 > **[3:47](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=227)** This might be important later in your lab just telling you.
 >
@@ -6561,7 +6524,7 @@ created: 2026-05-02
 >
 > **[5:48](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=348)** Is it ASP?
 >
-> **[5:49](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=349)** Is it Java?
+> **[5:49](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=349)** Is it [[Java]]?
 >
 > **[5:51](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=351)** Again, RFI affects PHP, but think about what kind of shell we're going to need on the box.
 >
@@ -6573,7 +6536,7 @@ created: 2026-05-02
 >
 > **[6:22](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=382)** Also, keep in mind when you do RFI, maybe it's looking for a certain file.
 >
-> **[6:29](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=389)** So what I'll do is I'll set up Netcat on a certain port and I'll put my -- here's the example.
+> **[6:29](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=389)** So what I'll do is I'll set up [[Netcat]] on a certain port and I'll put my -- here's the example.
 >
 > **[6:35](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=395)** It's like filter.php and my server and I see that it's looking for this wp-load.php.
 >
@@ -6609,13 +6572,13 @@ created: 2026-05-02
 >
 > **[8:12](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=492)** But what will happen is you should get a shell.
 >
-> **[8:15](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=495)** And I adapted this from the steps in the Metasploit Unleashed course.
+> **[8:15](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=495)** And I adapted this from the steps in the [[Metasploit]] Unleashed course.
 >
 > **[8:21](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=501)** So they don't do all this.
 >
 > **[8:22](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=502)** They don't show you how to get a shell.
 >
-> **[8:24](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=504)** But because we're practicing for OSCP, shell is important.
+> **[8:24](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=504)** But because we're practicing for [[OSCP]], shell is important.
 >
 > **[8:30](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-vulnerabilities?u=76281980&t=510)** So I'm going to do a demo after this and actually show you how to get a shell.
 >
@@ -6623,7 +6586,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (13), [[Windows]] (5), [[Linux]] (4), web application (1), data (1)
+> **Frameworks & Libraries:** [[PHP]] (13), [[Windows]] (5), [[Linux]] (4), [[WordPress]] (1), [[Java]] (1)
 > **Env Vars:** php (10), ssh (5), rfi (5), ftp (4), lfi (3)
 > **CLI Commands:** php (13), ssh (5), make (2), apache (1), nginx (1)
 > **File Paths:** wp-load.php (2), desktop.ini (1), win.ini (1), filter.php (1)
@@ -6632,8 +6595,7 @@ created: 2026-05-02
 > **Code Identifiers:** allow_url_fopen (1), allow_url_include (1)
 > **Analogies:** it's like (2)
 
-#### File inclusion demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-demo?u=76281980)
+#### [File inclusion demo](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6641,17 +6603,17 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-demo?u=76281980&t=3)** Here's Wappalyzer.
 >
-> **[0:05](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-demo?u=76281980&t=5)** So I know it's from Ubuntu.
+> **[0:05](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-demo?u=76281980&t=5)** So I know it's from [[Ubuntu]].
 >
-> **[0:06](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-demo?u=76281980&t=6)** Which means it's Linux.
+> **[0:06](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-demo?u=76281980&t=6)** Which means it's [[Linux]].
 >
 > **[0:07](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-demo?u=76281980&t=7)** Which means if I look for the /etc/passwd file, it will work.
 >
-> **[0:10](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-demo?u=76281980&t=10)** But I'm looking for a Windows file.
+> **[0:10](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-demo?u=76281980&t=10)** But I'm looking for a [[Windows]] file.
 >
 > **[0:12](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-demo?u=76281980&t=12)** It won't work because this is not a Windows box.
 >
-> **[0:14](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-demo?u=76281980&t=14)** Also, we're looking at PHP and we're on Apache 2.2.8 and I also know the version of PHP here.
+> **[0:14](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-demo?u=76281980&t=14)** Also, we're looking at [[PHP]] and we're on Apache 2.2.8 and I also know the version of PHP here.
 >
 > **[0:23](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-demo?u=76281980&t=23)** So I can see this page parameter is including -- this includes .php file.
 >
@@ -6705,7 +6667,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-demo?u=76281980&t=180)** So I'm going to kill the connection here.
 >
-> **[3:03](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-demo?u=76281980&t=183)** And what I'm going to do is I'm going to create that shell.txt file with msfvenom.
+> **[3:03](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-demo?u=76281980&t=183)** And what I'm going to do is I'm going to create that shell.txt file with [[Metasploit|msfvenom]].
 >
 > **[3:12](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-demo?u=76281980&t=192)** Now, you'll notice the payloads php/meterpreter/reverse_tcp with my host as the LHOST, and my LPORT is 4444 and we're going to make this into this txt file.
 >
@@ -6713,7 +6675,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-demo?u=76281980&t=212)** Well, it's because it's your own server.
 >
-> **[3:35](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-demo?u=76281980&t=215)** So the other thing to do is we want to set up Metasploit.
+> **[3:35](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-demo?u=76281980&t=215)** So the other thing to do is we want to set up [[Metasploit]].
 >
 > **[3:41](https://www.linkedin.com/learning/offensive-penetration-testing/file-inclusion-demo?u=76281980&t=221)** So, you know, I like to execute things directly from the terminal here before actually loading Metasploit -- the Metasploit framework.
 >
@@ -6745,7 +6707,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (6), [[Linux]] (2), [[Windows]] (2), [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[PHP]] (6), [[Metasploit]] (3), [[Linux]] (2), [[Windows]] (2), [[Ubuntu]] (1)
 > **CLI Commands:** php (6), ssh (5), make (3), apache (1), chmod (1)
 > **Env Vars:** php (4), ssh (4), lfi (3), rfi (2), dvwa (1)
 > **Ports:** port 8000 (2), :4444 (1), :8000 (1)
@@ -6754,8 +6716,7 @@ created: 2026-05-02
 > **File Paths:** shell.txt (2)
 > **Code Identifiers:** id_rsa (1), reverse_tcp (1)
 
-#### File upload vulnerabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/file-upload-vulnerabilities?u=76281980)
+#### [File upload vulnerabilities](https://www.linkedin.com/learning/offensive-penetration-testing/file-upload-vulnerabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6773,7 +6734,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/offensive-penetration-testing/file-upload-vulnerabilities?u=76281980&t=41)** And again, it's important to understand the underlying architecture of the server.
 >
-> **[0:46](https://www.linkedin.com/learning/offensive-penetration-testing/file-upload-vulnerabilities?u=76281980&t=46)** What -- is it PHP, is it ASP? That's going to ultimately determine what type of file you're going to upload.
+> **[0:46](https://www.linkedin.com/learning/offensive-penetration-testing/file-upload-vulnerabilities?u=76281980&t=46)** What -- is it [[PHP]], is it ASP? That's going to ultimately determine what type of file you're going to upload.
 >
 > **[0:57](https://www.linkedin.com/learning/offensive-penetration-testing/file-upload-vulnerabilities?u=76281980&t=57)** So our administrator portal for the Awesome Photoblog doesn't allow file extensions named PHP.
 >
@@ -6819,7 +6780,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/offensive-penetration-testing/file-upload-vulnerabilities?u=76281980&t=195)** So what do you do?
 >
-> **[3:16](https://www.linkedin.com/learning/offensive-penetration-testing/file-upload-vulnerabilities?u=76281980&t=196)** You use Burp Suite.
+> **[3:16](https://www.linkedin.com/learning/offensive-penetration-testing/file-upload-vulnerabilities?u=76281980&t=196)** You use [[Burp Suite]].
 >
 > **[3:18](https://www.linkedin.com/learning/offensive-penetration-testing/file-upload-vulnerabilities?u=76281980&t=198)** So when you intercept this post request in Burp Suite you are changing the content type from application x-php to image/jpeg.
 >
@@ -6837,7 +6798,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/offensive-penetration-testing/file-upload-vulnerabilities?u=76281980&t=258)** That has to do with magic bytes.
 >
-> **[4:20](https://www.linkedin.com/learning/offensive-penetration-testing/file-upload-vulnerabilities?u=76281980&t=260)** You can you can look this up in Google, but you see magic bytes JFIF.
+> **[4:20](https://www.linkedin.com/learning/offensive-penetration-testing/file-upload-vulnerabilities?u=76281980&t=260)** You can you can look this up in [[Google]], but you see magic bytes JFIF.
 >
 > **[4:26](https://www.linkedin.com/learning/offensive-penetration-testing/file-upload-vulnerabilities?u=76281980&t=266)** If you look up magic bytes for things like GIF or GIF files, I know there's a big war about what you call it, or any type of file, there are magic bytes. So when something looks at a file, it will look at things like the headers of the file, and if it says JFIF, it will think it's a -- well, in this case, it thinks it's a JPEG file.
 >
@@ -6847,7 +6808,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/offensive-penetration-testing/file-upload-vulnerabilities?u=76281980&t=299)** So here we go.
 >
-> **[5:01](https://www.linkedin.com/learning/offensive-penetration-testing/file-upload-vulnerabilities?u=76281980&t=301)** I was able to obfuscate my code in that image and I ran Netcat and was able to get a reverse shell by tricking the server into thinking that my PHP -- that the PHP JPEG was a JPEG when, in fact, it had PHP embedded inside of it and the server, of course, is running PHP.
+> **[5:01](https://www.linkedin.com/learning/offensive-penetration-testing/file-upload-vulnerabilities?u=76281980&t=301)** I was able to obfuscate my code in that image and I ran [[Netcat]] and was able to get a reverse shell by tricking the server into thinking that my PHP -- that the PHP JPEG was a JPEG when, in fact, it had PHP embedded inside of it and the server, of course, is running PHP.
 >
 > **[5:26](https://www.linkedin.com/learning/offensive-penetration-testing/file-upload-vulnerabilities?u=76281980&t=326)** So that's how I was able to get a reverse shell.
 >
@@ -6855,13 +6816,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (17), application (3), [[Burp Suite]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[PHP]] (17), [[Burp Suite]] (2), [[Google]] (1), [[Netcat]] (1)
 > **Env Vars:** php (14), jpeg (7), asp (2), jfif (2), gif (2)
 > **CLI Commands:** php (17)
 > **Definitions:** is a  (1)
 
-#### XXE attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980)
+#### [XXE attacks](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6897,7 +6857,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980&t=127)** So here we have an application and we have to figure out the structure of XML.
 >
-> **[2:15](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980&t=135)** XML is not like HTML, hypertext markup language.
+> **[2:15](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980&t=135)** XML is not like [[HTML]], hypertext markup language.
 >
 > **[2:18](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980&t=138)** They're both markup languages, but HTML has tags like body tags or an HTML tag or things that we know, title, tags that are defined.
 >
@@ -6929,9 +6889,9 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980&t=210)** So now, what we're going to do is we're going to call it file and we're going to look for the /etc/passwd file.
 >
-> **[3:35](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980&t=215)** And we know that this is a Linux Box Debian from the response header and now we see the /etc/passwd file.
+> **[3:35](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980&t=215)** And we know that this is a [[Linux]] Box Debian from the response header and now we see the /etc/passwd file.
 >
-> **[3:44](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980&t=224)** You can also do this with the expect command in PHP, but keep in mind the expect command is disabled by default, so you have to get lucky to be able to do the expect command and execute commands on this box.
+> **[3:44](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980&t=224)** You can also do this with the expect command in [[PHP]], but keep in mind the expect command is disabled by default, so you have to get lucky to be able to do the expect command and execute commands on this box.
 >
 > **[3:58](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980&t=238)** I'll show you that in the demo.
 >
@@ -6945,7 +6905,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980&t=262)** And you can see here you have logged in as on the response and this whole giant mess of letters, that's base-64 encoding.
 >
-> **[4:30](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980&t=270)** Well, you should be thinking I'm using Burp Suite.
+> **[4:30](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980&t=270)** Well, you should be thinking I'm using [[Burp Suite]].
 >
 > **[4:32](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980&t=272)** What does Burp Suite have? It has a decoder.
 >
@@ -6959,7 +6919,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980&t=301)** So if you have Burp Suite Pro, you might have seen this because you have collaborator client which basically, Burp Suite, when it does, the active scan will try to reach out to a collaborator client server and it will tell you if it was successful, whether it was a DNS request or an HTTP request will tell you if this server, through an XXE vulnerability, was able to reach out remotely.
 >
-> **[5:26](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980&t=326)** So as you can see here, I'm leveraging this system command to my own server where I have Netcat set up and you can see I made a connection to my own server.
+> **[5:26](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980&t=326)** So as you can see here, I'm leveraging this system command to my own server where I have [[Netcat]] set up and you can see I made a connection to my own server.
 >
 > **[5:39](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980&t=339)** So let me now show you a demo.
 >
@@ -7045,7 +7005,7 @@ created: 2026-05-02
 >
 > **[8:29](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980&t=509)** I'm going to move to Shell PHP and I am going to stand up my server again.
 >
-> **[8:36](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980&t=516)** Python 3 on port 8000.
+> **[8:36](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980&t=516)** [[Python (Programming Language)|Python]] 3 on port 8000.
 >
 > **[8:41](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980&t=521)** And what I want to do now is to cURL command, to have this server download that shell.php file.
 >
@@ -7079,7 +7039,7 @@ created: 2026-05-02
 >
 > **[10:02](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980&t=602)** I'm going to do -ls and hopefully we see shell.php and we do.
 >
-> **[10:10](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980&t=610)** So I also have to set up our Metasploit Framework here.
+> **[10:10](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980&t=610)** So I also have to set up our [[Metasploit]] Framework here.
 >
 > **[10:22](https://www.linkedin.com/learning/offensive-penetration-testing/xxe-attacks?u=76281980&t=622)** So now, what I should be able to do is execute this with a PHP command.
 >
@@ -7099,7 +7059,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (15), [[Burp Suite]] (4), [[HTML]] (3), application (2), data (2)
+> **Frameworks & Libraries:** [[PHP]] (15), [[Burp Suite]] (4), [[HTML]] (3), [[Linux]] (1), [[Netcat]] (1)
 > **Env Vars:** xxe (17), php (12), xml (10), html (3), ssrf (2)
 > **CLI Commands:** php (15), curl (2), python (1), ls (1)
 > **File Paths:** shell.php (3)
@@ -7108,18 +7068,17 @@ created: 2026-05-02
 > **Versions:** version 1 (1), python 3 (1)
 > **Prerequisites:** set up (2)
 
-#### Content management systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980)
+#### [Content management systems](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=1)** Content Management Systems.
+> **[0:01](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=1)** [[Content Management Systems (CMS)|Content Management Systems]].
 >
 > **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=3)** Our learning objectives are to understand what Content Management Systems, CMS' are, and why people use them, as well as identify how to enumerate and exploit a CMS.
 >
 > **[0:14](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=14)** If you've been on the Internet, you've run into a CMS.
 >
-> **[0:18](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=18)** So when I was an agent, I was trying to figure out how to build websites and I went to school for building websites with HTML and CSS and JavaScript and basically learned how to build websites from the ground up.
+> **[0:18](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=18)** So when I was an agent, I was trying to figure out how to build websites and I went to school for building websites with [[HTML]] and CSS and [[JavaScript]] and basically learned how to build websites from the ground up.
 >
 > **[0:37](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=37)** And it's hard.
 >
@@ -7129,13 +7088,13 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=43)** We have them because it's a user-friendly way to build a website.
 >
-> **[0:47](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=47)** If you have an e-commerce site or if you're a small business or even a large business that wants to stand up a website quickly and in a user-friendly way and have multiple people have access to be able to manage that content within that site, a CMS is the way to go and that's why you see them all over the place.
+> **[0:47](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=47)** If you have an [[E-Commerce]] site or if you're a small business or even a large business that wants to stand up a website quickly and in a user-friendly way and have multiple people have access to be able to manage that content within that site, a CMS is the way to go and that's why you see them all over the place.
 >
 > **[1:07](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=67)** So it typically has a dashboard that a user or an administrator can log into and deal with things like blogs and plugins and themes and make it look nice and add plugins to it.
 >
-> **[1:21](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=81)** So it's really -- because it's so user-friendly, so many people use them, making it such a big target for people to find zero days in them because if everyone's using the same technology across the Internet, it's profitable for an attacker to find a vulnerability in that Content Management System because then you could exploit multiple sites, hundreds of sites, thousands of sites.
+> **[1:21](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=81)** So it's really -- because it's so user-friendly, so many people use them, making it such a big target for people to find zero days in them because if everyone's using the same technology across the Internet, it's profitable for an attacker to find a vulnerability in that [[Content Management]] System because then you could exploit multiple sites, hundreds of sites, thousands of sites.
 >
-> **[1:45](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=105)** If you see the news about WordPress and finding a vulnerable plugin, it says it affects 20,000 users+.
+> **[1:45](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=105)** If you see the news about [[WordPress]] and finding a vulnerable plugin, it says it affects 20,000 users+.
 >
 > **[1:53](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=113)** It's just these large number of sites using these plugins and that's why it's such a big target for both us as good hackers as well as the criminal element.
 >
@@ -7155,11 +7114,11 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=169)** You don't need a lot of technical knowledge in order to know how to use it.
 >
-> **[2:53](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=173)** And it's written in PHP and you'll see with each of these, they're all written in PHP, so you should be thinking web shell needs to be PHP.
+> **[2:53](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=173)** And it's written in [[PHP]] and you'll see with each of these, they're all written in PHP, so you should be thinking web shell needs to be PHP.
 >
 > **[3:00](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=180)** Once I get access to the administrator database or if I can upload a file, it needs to be PHP.
 >
-> **[3:07](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=187)** Drupal.
+> **[3:07](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=187)** [[Drupal]].
 >
 > **[3:08](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=188)** Drupal is also very, very popular.
 >
@@ -7175,7 +7134,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=222)** The thing with Drupal is there have been various versions of something called Drupal again, which just means it affects every Drupal user who is using that version of Drupal.
 >
-> **[3:53](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=233)** It's like a core vulnerability that affects like Drupal 7.1 for like unauthenticated SQL injection and you can add whatever user and password you want to, to log into the administrator dashboard.
+> **[3:53](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=233)** It's like a core vulnerability that affects like Drupal 7.1 for like unauthenticated [[SQL]] injection and you can add whatever user and password you want to, to log into the administrator dashboard.
 >
 > **[4:11](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=251)** So all of these Drupal gardens are various vulnerabilities that affect all of Drupal for that version.
 >
@@ -7227,7 +7186,7 @@ created: 2026-05-02
 >
 > **[6:23](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=383)** But I think it's better than nothing.
 >
-> **[6:25](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=385)** You can use Nmap for WordPress, but I've used it for WordPress and nothing beats WPSscan for WordPress, so I'm not even going to talk about Nmap in WordPress, but know that you can also use Nmap for WordPress if worse comes to worse. Droopescan written in Python.
+> **[6:25](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=385)** You can use [[Nmap]] for WordPress, but I've used it for WordPress and nothing beats WPSscan for WordPress, so I'm not even going to talk about Nmap in WordPress, but know that you can also use Nmap for WordPress if worse comes to worse. Droopescan written in [[Python (Programming Language)|Python]].
 >
 > **[6:45](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=405)** Try it, give it a go, and compare it to WPScan with WordPress sites.
 >
@@ -7247,7 +7206,7 @@ created: 2026-05-02
 >
 > **[7:51](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=471)** And I'll show you that in the demo here next.
 >
-> **[7:54](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=474)** Once you do that, once you get into the dashboard, you can also try to figure out a lot of these CMS' have a MySQL database or some kind of SQL database where you can get information about people who have registered as users and passwords and sensitive data.
+> **[7:54](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=474)** Once you do that, once you get into the dashboard, you can also try to figure out a lot of these CMS' have a [[MySQL]] database or some kind of SQL database where you can get information about people who have registered as users and passwords and sensitive data.
 >
 > **[8:12](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems?u=76281980&t=492)** So it's great to have access to the dashboard.
 >
@@ -7263,7 +7222,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (20), [[Drupal]] (15), cms (9), [[PHP]] (7), database (4)
+> **Frameworks & Libraries:** [[WordPress]] (20), [[Drupal]] (15), [[PHP]] (7), [[Content Management Systems (CMS)|Content management systems]] (3), [[Nmap]] (3)
 > **Env Vars:** cms (9), php (7), api (3), sql (2), html (1)
 > **CLI Commands:** find (7), php (7), make (5), python (1), mysql (1)
 > **URLs:** [wpscan.com](https://wpscan.com) (1)
@@ -7272,18 +7231,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
 
-#### Content management systems demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems-demo?u=76281980)
+#### [Content management systems demo](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems-demo?u=76281980&t=1)** So we're typically going to realize we're dealing with the CMS after our Nmap scan. Right.
+> **[0:01](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems-demo?u=76281980&t=1)** So we're typically going to realize we're dealing with the CMS after our [[Nmap]] scan. Right.
 >
 > **[0:06](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems-demo?u=76281980&t=6)** So we've done our Nmap scan.
 >
-> **[0:07](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems-demo?u=76281980&t=7)** We can see Port 80 is open, so we're dealing with the Apache server here with PHP and we already see WordPress everywhere and WordPress versions.
+> **[0:07](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems-demo?u=76281980&t=7)** We can see Port 80 is open, so we're dealing with the Apache server here with [[PHP]] and we already see [[WordPress]] everywhere and WordPress versions.
 >
-> **[0:18](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems-demo?u=76281980&t=18)** Now, you can, of course, google that version of WordPress and see if there's some type of core vulnerability for it, but I would probably wait for WPScan to get more information.
+> **[0:18](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems-demo?u=76281980&t=18)** Now, you can, of course, [[Google]] that version of WordPress and see if there's some type of core vulnerability for it, but I would probably wait for WPScan to get more information.
 >
 > **[0:29](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems-demo?u=76281980&t=29)** Also, if you go to the site itself, you can see it says just another WordPress site.
 >
@@ -7301,7 +7259,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems-demo?u=76281980&t=57)** You can see it has WordPress and of course phpMyAdmin.
 >
-> **[1:01](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems-demo?u=76281980&t=61)** Now, if you know anything about that is if we have access to phpMyAdmin, we can see the underlying MySQL database of the website, MySQL.
+> **[1:01](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems-demo?u=76281980&t=61)** Now, if you know anything about that is if we have access to phpMyAdmin, we can see the underlying [[MySQL]] database of the website, MySQL.
 >
 > **[1:10](https://www.linkedin.com/learning/offensive-penetration-testing/content-management-systems-demo?u=76281980&t=70)** So that could be important for later hint.
 >
@@ -7449,7 +7407,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (11), [[PHP]] (9), database (7), api (3), [[MySQL]] (2)
+> **Frameworks & Libraries:** [[WordPress]] (11), [[PHP]] (9), [[Nmap]] (3), [[MySQL]] (2), [[Google]] (1)
 > **CLI Commands:** php (9), make (3), mysql (2), apache (1), curl (1)
 > **Env Vars:** php (6), api (3), cms (1), xmlrpc (1), pen (1)
 > **Code Identifiers:** phpmyadmin (7), curl (1), wp_user (1), cat_user_share_web_shell (1)
@@ -7458,14 +7416,13 @@ created: 2026-05-02
 > **File Paths:** robots.txt (1), twentytwenty/404.php (1), 404.php (1)
 > **Ports:** port 80 (1), port 1234 (1)
 
-#### Web application lab
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab?u=76281980)
+#### [Web application lab](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab?u=76281980&t=0)** Welcome to the Web Application Lab.
 >
-> **[0:02](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab?u=76281980&t=2)** Your learning objective is to get a shell on both Windows and Linux web servers.
+> **[0:02](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab?u=76281980&t=2)** Your learning objective is to get a shell on both [[Windows]] and [[Linux]] [[Web Servers]].
 >
 > **[0:07](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab?u=76281980&t=7)** That means your exploitation path should be on the web server.
 >
@@ -7479,11 +7436,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Windows]] (2), [[Linux]] (2), web application (1), api (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Linux]] (2), [[Web Servers]] (1)
 > **Env Vars:** api (1)
 
-#### Web application lab walkthrough
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980)
+#### [Web application lab walkthrough](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7491,13 +7447,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=7)** So we have two hosts here.
 >
-> **[0:09](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=9)** One is a Bitnami WordPress stack, which is a Linux host and the other is a Windows host.
+> **[0:09](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=9)** One is a Bitnami [[WordPress]] stack, which is a [[Linux]] host and the other is a [[Windows]] host.
 >
 > **[0:16](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=16)** And like I told you before, you need to go to [wpscan.com](https://wpscan.com) and get an API token to scan this Bitnami WordPress site.
 >
 > **[0:26](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=26)** Of course, you can.
 >
-> **[0:27](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=27)** use Nmap to scan these but since this is a web attack lab, you can be pretty sure it's either in Port 80 or 443.
+> **[0:27](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=27)** use [[Nmap]] to scan these but since this is a web attack lab, you can be pretty sure it's either in Port 80 or 443.
 >
 > **[0:36](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=36)** So if we go to this site, we notice it's in the WordPress directory and that becomes important when we use WPScan.
 >
@@ -7531,7 +7487,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=116)** And sometimes it's not, again, it's not too little information, it's too much information.
 >
-> **[2:01](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=121)** So you have to kind of pick out of these 3 vulnerabilities, unauthenticated file inclusion, unauthenticated SQL injection, and this upload arbitrary code execution or arbitrary file upload, which one is most important.
+> **[2:01](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=121)** So you have to kind of pick out of these 3 vulnerabilities, unauthenticated file inclusion, unauthenticated [[SQL]] injection, and this upload arbitrary code execution or arbitrary file upload, which one is most important.
 >
 > **[2:15](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=135)** And this is where your hacker senses have to kick in.
 >
@@ -7543,7 +7499,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=153)** I kind of threw that in there as a trick.
 >
-> **[2:35](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=155)** I mean, you can use this if you want, but of course, in OSCP, you can't use this.
+> **[2:35](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=155)** I mean, you can use this if you want, but of course, in [[OSCP]], you can't use this.
 >
 > **[2:39](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=159)** The other thing is, I said the people that write this might not give you a lot of information.
 >
@@ -7575,11 +7531,11 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=214)** So if I go back and look, I did this on purpose here.
 >
-> **[3:39](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=219)** So if you look at the arbitrary file upload, there's actually two in Exploitdb; one is a Metasploit module.
+> **[3:39](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=219)** So if you look at the arbitrary file upload, there's actually two in [[Exploit-DB|Exploitdb]]; one is a [[Metasploit]] module.
 >
 > **[3:46](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=226)** That's fun.
 >
-> **[3:48](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=228)** And the other should be PHP, a script in PHP.
+> **[3:48](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=228)** And the other should be [[PHP]], a script in PHP.
 >
 > **[3:55](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=235)** There's two PHP scripts.
 >
@@ -7601,7 +7557,7 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=283)** going to rename it to shell just to make it easy.
 >
-> **[4:51](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=291)** And, of course, this is the Pentestmonkey shell.
+> **[4:51](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=291)** And, of course, this is the [[pentestmonkey]] shell.
 >
 > **[4:53](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=293)** So I have to edit some things.
 >
@@ -7657,7 +7613,7 @@ created: 2026-05-02
 >
 > **[8:07](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=487)** You could use WordPress and do this, but you've just wasted a module and I wouldn't do that when all you need to do is a simple cURL request which you can understand by looking at the PHP here.
 >
-> **[8:18](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=498)** If you don't understand it, just take a look and google all this and figure out. That's how I I figured it out was googling and basically came down to a cURL request.
+> **[8:18](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=498)** If you don't understand it, just take a look and [[Google]] all this and figure out. That's how I I figured it out was googling and basically came down to a cURL request.
 >
 > **[8:29](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=509)** So that's how easy it is for that and I made it that way on purpose.
 >
@@ -7677,7 +7633,7 @@ created: 2026-05-02
 >
 > **[9:25](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=565)** I don't know what that is.
 >
-> **[9:28](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=568)** So if I quit and I clear this, I can use dirb [http://192.168.1.100/webdav](http://192.168.1.100/webdav).
+> **[9:28](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=568)** So if I quit and I clear this, I can use [[Dirb]] [http://192.168.1.100/webdav](http://192.168.1.100/webdav).
 >
 > **[9:41](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=581)** Now, you can specify extensions.
 >
@@ -7721,7 +7677,7 @@ created: 2026-05-02
 >
 > **[11:40](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=700)** And, of course, what we can do now is like before.
 >
-> **[11:45](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=705)** I'm going to split the terminal vertically and Netcat.
+> **[11:45](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=705)** I'm going to split the terminal vertically and [[Netcat]].
 >
 > **[11:52](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=712)** So now that we have a shell on here, I should be able to go to shell.php.
 >
@@ -7757,7 +7713,7 @@ created: 2026-05-02
 >
 > **[13:11](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=791)** We can do better. Right.
 >
-> **[13:14](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=794)** So what I can do is I can do an msfvenom payload.
+> **[13:14](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=794)** So what I can do is I can do an [[Metasploit|msfvenom]] payload.
 >
 > **[13:22](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=802)** I'll do a /windows/shell_reverse_tcp, make our LHOST us, LPORT 444, format is exe, Shell.exe.
 >
@@ -7803,7 +7759,7 @@ created: 2026-05-02
 >
 > **[16:30](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=990)** We see it's there.
 >
-> **[16:32](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=992)** So now we need to set up MSF console.
+> **[16:32](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=992)** So now we need to set up [[Metasploit|MSF]] console.
 >
 > **[16:38](https://www.linkedin.com/learning/offensive-penetration-testing/web-application-lab-walkthrough?u=76281980&t=998)** Actually, I don't need to set up MSF console because -- well, you can if you want. Right.
 >
@@ -7861,8 +7817,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to practice buffer overflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980)
+#### [How to practice buffer overflows](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7876,13 +7831,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=16)** This is something that you need to practice and get good at.
 >
-> **[0:20](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=20)** Again, I can't give away anything about OSCP, but in the course material, they show you and go through a buffer overflow.
+> **[0:20](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=20)** Again, I can't give away anything about [[OSCP]], but in the course material, they show you and go through a buffer overflow.
 >
-> **[0:29](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=29)** If you're also thinking about doing eCPPT as a pathway to OSCP, the buffer overflow is very important as well.
+> **[0:29](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=29)** If you're also thinking about doing [[eCPPT]] as a pathway to OSCP, the buffer overflow is very important as well.
 >
 > **[0:37](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=37)** You'll notice that a lot of people, when they write or give intros to buffer overflows, they're using older machines.
 >
-> **[0:46](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=46)** Maybe it's Windows XP, a 32-bit system, an x86 executable, something that's older.
+> **[0:46](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=46)** Maybe it's [[Windows]] XP, a 32-bit system, an x86 executable, something that's older.
 >
 > **[0:53](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=53)** So that's why I do have that Windows XP VM.
 >
@@ -7892,7 +7847,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=72)** Again, if you're practicing this or planning to do eCPPT, you definitely need to get a VM and install Immunity Debugger on it.
 >
-> **[1:21](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=81)** And you also need to install Python, the x86 version as well as Mona, and that will help you run different modem modules which you'll see later and why that's important.
+> **[1:21](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=81)** And you also need to install [[Python (Programming Language)|Python]], the x86 version as well as Mona, and that will help you run different modem modules which you'll see later and why that's important.
 >
 > **[1:36](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=96)** So I just want to give you some resources. Other than this course, if you want to practice buffer overflows, I would say over everything that I practiced, I practiced buffer overflow the most and it was a good strategy.
 >
@@ -7900,17 +7855,17 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=119)** The buffer overflow is important, but it's not the most important thing to do, so balance your time accordingly.
 >
-> **[2:07](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=127)** One resource is this War-FTP Version 1.65 in Georgia's book, "Penetration Testing: A Hands-on Approach."
+> **[2:07](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=127)** One resource is this War-FTP Version 1.65 in Georgia's book, "[[Penetration Testing]]: A Hands-on Approach."
 >
 > **[2:15](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=135)** You need to have an older VM For this, you need to have Windows XP.
 >
-> **[2:19](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=139)** It won't work on newer OSs, it won't work on Windows 10, wouldn't work on Windows 7 for me.
+> **[2:19](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=139)** It won't work on newer OSs, it won't work on [[Windows 10]], wouldn't work on Windows 7 for me.
 >
 > **[2:26](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=146)** So it did work on Windows XP.
 >
 > **[2:29](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=149)** There's also Freefloat FTP server.
 >
-> **[2:34](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=154)** All these things you can download or at least this one you can download on exploit-db.
+> **[2:34](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=154)** All these things you can download or at least this one you can download on [[Exploit-DB]].
 >
 > **[2:39](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=159)** And there's also a medium article walkthrough on it.
 >
@@ -7924,7 +7879,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=183)** So that's what I use, but you'll see what we'll be using.
 >
-> **[3:08](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=188)** There is a whole write-up on it and the guy obviously is a developer and his coding is beautiful, for lack of a better word.
+> **[3:08](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=188)** There is a whole write-up on it and the guy obviously is a developer and his coding is beautiful, for lack of a better [[Microsoft Word|word]].
 >
 > **[3:18](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-practice-buffer-overflows?u=76281980&t=198)** There's also MiniShare 1.4.1 another exploit-db where you can download it, remote buffer overflow.
 >
@@ -7960,7 +7915,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), [[OSCP]] (2), [[Python (Programming Language)|Python]] (1), [[Penetration Testing]] (1), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Exploit-DB]] (3), [[OSCP]] (2), [[eCPPT]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** pwk (3), oscp (2), ftp (2), pdf (2)
 > **Prerequisites:** install (3), you need to have (2)
 > **CLI Commands:** find (2), python (1)
@@ -7968,8 +7923,7 @@ created: 2026-05-02
 > **Code Identifiers:** ecppt (2)
 > **Definitions:** is a  (1)
 
-#### Setting up the environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-environment?u=76281980)
+#### [Setting up the environment](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7987,7 +7941,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-environment?u=76281980&t=39)** And here's the PDF.
 >
-> **[0:40](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-environment?u=76281980&t=40)** You'll notice that he added Python 3 to this.
+> **[0:40](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-environment?u=76281980&t=40)** You'll notice that he added [[Python (Programming Language)|Python]] 3 to this.
 >
 > **[0:43](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-environment?u=76281980&t=43)** Why did he do that?
 >
@@ -8001,9 +7955,9 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-environment?u=76281980&t=74)** How I do that is I do period/ in this directory and then I execute this and that will use Python 2 instead of Python 3.
 >
-> **[1:27](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-environment?u=76281980&t=87)** So what I'm going to do is I'm going to remote desktop over to our vulnerable Windows machine.
+> **[1:27](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-environment?u=76281980&t=87)** So what I'm going to do is I'm going to remote desktop over to our vulnerable [[Windows]] machine.
 >
-> **[1:33](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-environment?u=76281980&t=93)** This is a Windows machine that I downloaded from the Microsoft developer site.
+> **[1:33](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-environment?u=76281980&t=93)** This is a Windows machine that I downloaded from the [[Microsoft]] developer site.
 >
 > **[1:37](https://www.linkedin.com/learning/offensive-penetration-testing/setting-up-the-environment?u=76281980&t=97)** These are free to use for 30 days, 30-day trial.
 >
@@ -8089,7 +8043,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Windows]] (2), hit (2), next (2), prompt (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Windows]] (2), [[Microsoft]] (1)
 > **CLI Commands:** python (12), make (3), find (1)
 > **Versions:** python 3 (4), python 2 (4), 9.1 (1)
 > **Env Vars:** pdf (2), tcp (1)
@@ -8098,8 +8052,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Fuzzing the application
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/fuzzing-the-application?u=76281980)
+#### [Fuzzing the application](https://www.linkedin.com/learning/offensive-penetration-testing/fuzzing-the-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8113,7 +8066,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/offensive-penetration-testing/fuzzing-the-application?u=76281980&t=27)** What we'd like to do is figure out how we can control EIP, which I'll show you in the Debugger.
 >
-> **[0:33](https://www.linkedin.com/learning/offensive-penetration-testing/fuzzing-the-application?u=76281980&t=33)** But what this program that I wrote, this Python script does is it sends an array of buffers.
+> **[0:33](https://www.linkedin.com/learning/offensive-penetration-testing/fuzzing-the-application?u=76281980&t=33)** But what this program that I wrote, this [[Python (Programming Language)|Python]] script does is it sends an array of buffers.
 >
 > **[0:40](https://www.linkedin.com/learning/offensive-penetration-testing/fuzzing-the-application?u=76281980&t=40)** It sends 50 A's over and over and over.
 >
@@ -8151,7 +8104,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/offensive-penetration-testing/fuzzing-the-application?u=76281980&t=148)** So I'm going to use that as our test next.
 >
-> **[2:33](https://www.linkedin.com/learning/offensive-penetration-testing/fuzzing-the-application?u=76281980&t=153)** So what we'll do is we need to use, it's in here /user/share/metasploit/framework/tools/exploit.
+> **[2:33](https://www.linkedin.com/learning/offensive-penetration-testing/fuzzing-the-application?u=76281980&t=153)** So what we'll do is we need to use, it's in here /user/share/[[Metasploit]]/framework/tools/exploit.
 >
 > **[2:45](https://www.linkedin.com/learning/offensive-penetration-testing/fuzzing-the-application?u=76281980&t=165)** So we're going to create a long string of characters to find our offset.
 >
@@ -8239,15 +8192,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Python (Programming Language)|Python]] (2), next (1), hit (1)
+> **Frameworks & Libraries:** [[Metasploit]] (3), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** eip (13), evp (1)
 > **CLI Commands:** find (5), make (5), python (2)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 
-#### Finding bad characters
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/finding-bad-characters?u=76281980)
+#### [Finding bad characters](https://www.linkedin.com/learning/offensive-penetration-testing/finding-bad-characters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8338,8 +8290,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Finding the return address
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/finding-the-return-address?u=76281980)
+#### [Finding the return address](https://www.linkedin.com/learning/offensive-penetration-testing/finding-the-return-address?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8389,7 +8340,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/offensive-penetration-testing/finding-the-return-address?u=76281980&t=197)** But to toggle this, you press "f2," you might get this suspicious breakpoint warning.
 >
-> **[3:26](https://www.linkedin.com/learning/offensive-penetration-testing/finding-the-return-address?u=76281980&t=206)** But now, I'm going to go back to Kali and you'll see where I changed my or where I wrote my Python script and how I changed it.
+> **[3:26](https://www.linkedin.com/learning/offensive-penetration-testing/finding-the-return-address?u=76281980&t=206)** But now, I'm going to go back to Kali and you'll see where I changed my or where I wrote my [[Python (Programming Language)|Python]] script and how I changed it.
 >
 > **[3:35](https://www.linkedin.com/learning/offensive-penetration-testing/finding-the-return-address?u=76281980&t=215)** Keep in mind, if you're having issues, if it's saying permission denied when you write your script, chmod plus x, you can chmod at 777 but that might be a reason why you're having issues executing your scripts.
 >
@@ -8423,7 +8374,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** jmp (8), esp (8), aslr (1), pwk (1), pen (1)
 > **CLI Commands:** find (8), chmod (2), python (1)
 > **UI Navigation:** go to (2), toggle (1)
@@ -8432,8 +8383,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** means that (1)
 
-#### Getting a shell
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/getting-a-shell?u=76281980)
+#### [Getting a shell](https://www.linkedin.com/learning/offensive-penetration-testing/getting-a-shell?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8451,11 +8401,11 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/offensive-penetration-testing/getting-a-shell?u=76281980&t=35)** And what I'll do now is I want to create my shell code.
 >
-> **[0:43](https://www.linkedin.com/learning/offensive-penetration-testing/getting-a-shell?u=76281980&t=43)** So I'm using msfvenom again and I'm using my payload Windows shell reverse TCP.
+> **[0:43](https://www.linkedin.com/learning/offensive-penetration-testing/getting-a-shell?u=76281980&t=43)** So I'm using [[Metasploit|msfvenom]] again and I'm using my payload [[Windows]] shell reverse TCP.
 >
 > **[0:48](https://www.linkedin.com/learning/offensive-penetration-testing/getting-a-shell?u=76281980&t=48)** You can change this, you can make it shell, you can do meterpreter reverse TCP.
 >
-> **[0:55](https://www.linkedin.com/learning/offensive-penetration-testing/getting-a-shell?u=76281980&t=55)** I like shell reverse TCP because I can use Netcat I don't have to set up, you know -- I don't have to set up Metasploit again.
+> **[0:55](https://www.linkedin.com/learning/offensive-penetration-testing/getting-a-shell?u=76281980&t=55)** I like shell reverse TCP because I can use [[Netcat]] I don't have to set up, you know -- I don't have to set up [[Metasploit]] again.
 >
 > **[1:02](https://www.linkedin.com/learning/offensive-penetration-testing/getting-a-shell?u=76281980&t=62)** So you'll see that my localhost is my Kali box.
 >
@@ -8463,7 +8413,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/offensive-penetration-testing/getting-a-shell?u=76281980&t=67)** Exit function thread is to prevent the program from crashing if I get out of my Netcat shell.
 >
-> **[1:13](https://www.linkedin.com/learning/offensive-penetration-testing/getting-a-shell?u=76281980&t=73)** Our format is in Python and we're using an encoding of x86 shikata_ga_nai.
+> **[1:13](https://www.linkedin.com/learning/offensive-penetration-testing/getting-a-shell?u=76281980&t=73)** Our format is in [[Python (Programming Language)|Python]] and we're using an encoding of x86 shikata_ga_nai.
 >
 > **[1:20](https://www.linkedin.com/learning/offensive-penetration-testing/getting-a-shell?u=76281980&t=80)** I should -- hopefully, I'm saying that right.
 >
@@ -8545,7 +8495,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Python (Programming Language)|Python]] (3), prompt (2)
+> **Frameworks & Libraries:** [[Netcat]] (4), [[Windows]] (3), [[Python (Programming Language)|Python]] (3), [[Metasploit|Msfvenom]] (1), [[Metasploit]] (1)
 > **CLI Commands:** python (3), find (3), make (2)
 > **Env Vars:** tcp (3), nop (3), pwk (1)
 > **Prerequisites:** set up (3)
@@ -8554,14 +8504,13 @@ created: 2026-05-02
 > **Tools:** command prompt (1)
 > **Best Practices:** don't forget (1)
 
-#### Buffer overflow lab
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/buffer-overflow-lab?u=76281980)
+#### [Buffer overflow lab](https://www.linkedin.com/learning/offensive-penetration-testing/buffer-overflow-lab?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/buffer-overflow-lab?u=76281980&t=0)** Welcome to the Buffer Overflow lab.
 >
-> **[0:02](https://www.linkedin.com/learning/offensive-penetration-testing/buffer-overflow-lab?u=76281980&t=2)** Your lab objective is to follow the steps that you saw me just do to get a shell on the Windows host.
+> **[0:02](https://www.linkedin.com/learning/offensive-penetration-testing/buffer-overflow-lab?u=76281980&t=2)** Your lab objective is to follow the steps that you saw me just do to get a shell on the [[Windows]] host.
 >
 > **[0:07](https://www.linkedin.com/learning/offensive-penetration-testing/buffer-overflow-lab?u=76281980&t=7)** Now, I'm not going to do a walkthrough because that's what I did during this whole module, but I do want to set you up for success.
 >
@@ -8569,7 +8518,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/offensive-penetration-testing/buffer-overflow-lab?u=76281980&t=18)** Okay. So log into both boxes.
 >
-> **[0:22](https://www.linkedin.com/learning/offensive-penetration-testing/buffer-overflow-lab?u=76281980&t=22)** You'll log in with Root Kali on Linux and in your Windows box, you'll see admin log in with the password, admin.
+> **[0:22](https://www.linkedin.com/learning/offensive-penetration-testing/buffer-overflow-lab?u=76281980&t=22)** You'll log in with Root Kali on [[Linux]] and in your Windows box, you'll see admin log in with the password, admin.
 >
 > **[0:34](https://www.linkedin.com/learning/offensive-penetration-testing/buffer-overflow-lab?u=76281980&t=34)** Now, you'll notice on the desktop you have buffer overflow here.
 >
@@ -8609,7 +8558,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/offensive-penetration-testing/buffer-overflow-lab?u=76281980&t=149)** So we just want to test this and make sure it works. Right.
 >
-> **[2:37](https://www.linkedin.com/learning/offensive-penetration-testing/buffer-overflow-lab?u=76281980&t=157)** So we will test sent, Python script, "Hello, Python Script."
+> **[2:37](https://www.linkedin.com/learning/offensive-penetration-testing/buffer-overflow-lab?u=76281980&t=157)** So we will test sent, [[Python (Programming Language)|Python]] script, "Hello, Python Script."
 >
 > **[2:45](https://www.linkedin.com/learning/offensive-penetration-testing/buffer-overflow-lab?u=76281980&t=165)** You'll see that it was bytes received, bytes sent, client disconnected here. So we know it's working.
 >
@@ -8641,7 +8590,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Python (Programming Language)|Python]] (2), [[Linux]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Python (Programming Language)|Python]] (2), [[Linux]] (1)
 > **CLI Commands:** make (2), python (2), find (1)
 > **File Paths:** chars.txt (2)
 > **Env Vars:** esp (1), eip (1)
@@ -8654,8 +8603,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to look for public exploits
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980)
+#### [Where to look for public exploits](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8663,9 +8611,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=3)** Where to look for Public Exploits.
 >
-> **[0:06](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=6)** Our learning objectives are to identify resources for finding exploit code for vulnerabilities, understand the benefits of finding public exploit code and know how to download this code or use Kali's searchsploit Exploit-DB.
+> **[0:06](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=6)** Our learning objectives are to identify resources for finding exploit code for vulnerabilities, understand the benefits of finding public exploit code and know how to download this code or use Kali's searchsploit [[Exploit-DB]].
 >
-> **[0:20](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=20)** So if you've been with me this far, you have seen me use Exploit-DB on a few occasions and using the exploit code within Exploit-DB or finding vulnerabilities based off Google.
+> **[0:20](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=20)** So if you've been with me this far, you have seen me use Exploit-DB on a few occasions and using the exploit code within Exploit-DB or finding vulnerabilities based off [[Google]].
 >
 > **[0:32](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=32)** I'll use Google searches for -- in this case Konica Minolta and Exploit-DB.
 >
@@ -8679,15 +8627,15 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=99)** Keep in mind that the exploit code, some are better than others, some have comments in them that are very helpful.
 >
-> **[1:47](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=107)** In this case, you see that there are comments in this script that say how to set up your Netcat listener.
+> **[1:47](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=107)** In this case, you see that there are comments in this script that say how to set up your [[Netcat]] listener.
 >
 > **[1:54](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=114)** Not all of them are that user-friendly.
 >
 > **[1:56](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=116)** Some are, you know, the bare bones exploit code or some exploit code I've seen do things that I'm like wondering why, you know, why did you add that?
 >
-> **[2:05](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=125)** Why did you add that SQLmap command in there which you should have seen in the web attack lab.
+> **[2:05](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=125)** Why did you add that [[SQLmap]] command in there which you should have seen in the web attack lab.
 >
-> **[2:11](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=131)** That SQL map had a -- it drops you into a SQL shell.
+> **[2:11](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=131)** That [[SQL]] map had a -- it drops you into a SQL shell.
 >
 > **[2:15](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=135)** I don't know why it did that.
 >
@@ -8699,13 +8647,13 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=156)** Of course, searchsploit is an offline database, so you'd have to update it if it's a very recent vulnerability and you can do that with searchsploit -u to update.
 >
-> **[2:47](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=167)** And speaking of searchsploit, here it is. It's the command line tool in Kali Linux, the offline Exploit-DB that you can search for keywords.
+> **[2:47](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=167)** And speaking of searchsploit, here it is. It's the command line tool in [[Kali Linux]], the offline Exploit-DB that you can search for keywords.
 >
 > **[2:58](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=178)** You can also -- as you'll see here, I'm just printing what this Konica Minolta vulnerability is with -p.
 >
 > **[3:05](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=185)** A useful thing I found is you can do -m and it will copy that exploit into the current working directory so you don't have to find it.
 >
-> **[3:13](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=193)** Here's the Path: /user/share/exploitdb/exploits/windows/remote/39215.py.
+> **[3:13](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=193)** Here's the Path: /user/share/[[Exploit-DB|exploitdb]]/exploits/[[Windows]]/remote/39215.py.
 >
 > **[3:20](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=200)** If you're in desktop and you do the -m option and the dot for your current working directory, it will put on your desktop so you don't have to phish for that specific file.
 >
@@ -8719,7 +8667,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=228)** As you see here, it has the Exploit-DB link and also, the security patches because, of course, when you're writing your report, it's not only the vulnerability or the exploit, it's also how to fix the vulnerability.
 >
-> **[3:59](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=239)** It also gives you the Konica Minolta FTP utility 1.0 Metasploit module.
+> **[3:59](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=239)** It also gives you the Konica Minolta FTP utility 1.0 [[Metasploit]] module.
 >
 > **[4:06](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=246)** So you know as well that this is also in Metasploit.
 >
@@ -8737,7 +8685,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=281)** I find it to be very similar to Exploit-DB.
 >
-> **[4:43](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=283)** I don't know if they share the exact same code, but in many cases, I find the same code snippets in Exploit-DB that are also in Packet Storm. GitHub.
+> **[4:43](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=283)** I don't know if they share the exact same code, but in many cases, I find the same code snippets in Exploit-DB that are also in Packet Storm. [[GitHub]].
 >
 > **[4:55](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=295)** So I've also found exploits in GitHub as well.
 >
@@ -8757,7 +8705,7 @@ created: 2026-05-02
 >
 > **[5:42](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=342)** CTF Write-ups.
 >
-> **[5:43](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=343)** Believe it or not, I found a lot of helpful walkthroughs and guides in CTF Write-ups, specifically things like Hack The Box where you can look at a full write-up as how this person and you see here machines in preparation for the OSCP.
+> **[5:43](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=343)** Believe it or not, I found a lot of helpful walkthroughs and guides in CTF Write-ups, specifically things like Hack The Box where you can look at a full write-up as how this person and you see here machines in preparation for the [[OSCP]].
 >
 > **[5:59](https://www.linkedin.com/learning/offensive-penetration-testing/where-to-look-for-public-exploits?u=76281980&t=359)** So they do full walkthroughs from scanning to exploitation to privilege escalation.
 >
@@ -8791,7 +8739,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (6), [[Search]] (5), [[Google]] (3), database (3), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Exploit-DB]] (20), [[GitHub]] (6), [[Metasploit]] (4), [[Google]] (3), [[SQL]] (2)
 > **Env Vars:** cve (4), ctf (4), sql (2), cvss (1), ftp (1)
 > **CLI Commands:** find (8)
 > **Tools:** github (6), command line (1)
@@ -8800,8 +8748,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (3)
 > **File Paths:** user/share/exploitdb/exploits/windows/remote/39215.py (1)
 
-#### Understanding the code
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980)
+#### [Understanding the code](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8809,9 +8756,9 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=2)** Our learning objectives are to understand how to analyze, exploit code, interpret what the code does, and check if the exploit code is malicious to our own machines.
 >
-> **[0:13](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=13)** Understanding the code: So you don't have to be a developer to pass the OSCP.
+> **[0:13](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=13)** Understanding the code: So you don't have to be a developer to pass the [[OSCP]].
 >
-> **[0:19](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=19)** I understand a little bit more than I did when I passed OSCP about Python and JavaScript and things like that, but I definitely was by no means an expert in writing code or writing scripts.
+> **[0:19](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=19)** I understand a little bit more than I did when I passed OSCP about [[Python (Programming Language)|Python]] and [[JavaScript]] and things like that, but I definitely was by no means an expert in writing code or writing scripts.
 >
 > **[0:32](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=32)** I mean, I did some bash scripting and I did some Python scripting and still now I just say I can script, but you do generally need to know what code does and you did that in the buffer overflow lab that whole module is your writing code.
 >
@@ -8829,7 +8776,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=95)** So it's kind of like that and it goes to the same with other types of code.
 >
-> **[1:40](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=100)** I don't know, Java, I don't know C#, but I should at least study enough to know what the code is doing because the worst thing that could happen is I pull somebody's code from GitHub and I have no idea what it does and it just dices my box because someone thought it would be funny if someone pulled code from their website and, you know, now they're laughing at us because we've erased all of our files or they've created a backdoor.
+> **[1:40](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=100)** I don't know, [[Java]], I don't know C#, but I should at least study enough to know what the code is doing because the worst thing that could happen is I pull somebody's code from [[GitHub]] and I have no idea what it does and it just dices my box because someone thought it would be funny if someone pulled code from their website and, you know, now they're laughing at us because we've erased all of our files or they've created a backdoor.
 >
 > **[2:08](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=128)** So again, it's really important to know what the code is doing.
 >
@@ -8879,7 +8826,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=240)** He tells you a lot.
 >
-> **[4:03](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=243)** What software it was tested on, what version of Windows it was tested on, how to set up a Netcat listener and what it looks like when the exploit works as you should get this command line prompt in the Windows box.
+> **[4:03](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=243)** What software it was tested on, what version of [[Windows]] it was tested on, how to set up a [[Netcat]] listener and what it looks like when the exploit works as you should get this command line prompt in the Windows box.
 >
 > **[4:19](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=259)** And also realize, is it Python 2 or is this Python 3 with a shebang user bin Python?
 >
@@ -8889,7 +8836,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=273)** So again, know what version of Python this looks like or is.
 >
-> **[4:38](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=278)** So you'll also notice in this code a hard-coded IP address with MSF venom.
+> **[4:38](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=278)** So you'll also notice in this code a hard-coded IP address with [[Metasploit|MSF]] venom.
 >
 > **[4:44](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=284)** We've used MSF venom a lot.
 >
@@ -8907,7 +8854,7 @@ created: 2026-05-02
 >
 > **[5:11](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=311)** Because you need to have the username and password to authenticate into the application to exploit the vulnerability.
 >
-> **[5:18](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=318)** You can see this is a WordPress plugin that only works if you're authenticated into the application.
+> **[5:18](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=318)** You can see this is a [[WordPress]] plugin that only works if you're authenticated into the application.
 >
 > **[5:23](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=323)** You'll notice that with a lot of WordPress plugins is you might have to be authenticated to exploit it.
 >
@@ -8915,7 +8862,7 @@ created: 2026-05-02
 >
 > **[5:41](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=341)** Right.
 >
-> **[5:41](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=341)** Because it's going to be a whole lot easier for an unauthenticated file upload vulnerability than an authenticated SQL injection.
+> **[5:41](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=341)** Because it's going to be a whole lot easier for an unauthenticated file upload vulnerability than an authenticated [[SQL]] injection.
 >
 > **[5:50](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=350)** Also be aware, you know, is it HTTP [vulnerablesite.com](https://vulnerablesite.com)? Of course, ours isn't going to say [vulnerablesite.com](https://vulnerablesite.com) You know, ours could be an IP address and we could have a different WordPress directory.
 >
@@ -8933,7 +8880,7 @@ created: 2026-05-02
 >
 > **[6:42](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=402)** You should be able to interpret what the exploit code does.
 >
-> **[6:45](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=405)** Google again is your friend.
+> **[6:45](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=405)** [[Google]] again is your friend.
 >
 > **[6:47](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=407)** If you just want to google certain syntax, you know, what's import system or import socket in Python? What is that doing? Google it you know it's in your code for the FTP vulnerability.
 >
@@ -8947,7 +8894,7 @@ created: 2026-05-02
 >
 > **[7:24](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=444)** So that's why I talk about GitHub being careful.
 >
-> **[7:27](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=447)** Exploit-DB, if there's that check mark, I wouldn't worry so much about.
+> **[7:27](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=447)** [[Exploit-DB]], if there's that check mark, I wouldn't worry so much about.
 >
 > **[7:31](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-code?u=76281980&t=451)** But know where you're downloading the code from and check and make sure you understand what the code does.
 >
@@ -8957,7 +8904,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (19), [[WordPress]] (4), [[Google]] (3), [[OSCP]] (2), [[Scripting]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (19), [[WordPress]] (4), [[Google]] (3), [[OSCP]] (2), [[GitHub]] (2)
 > **CLI Commands:** python (19), ssh (1), make (1)
 > **Env Vars:** oscp (2), ftp (2), msf (2), ssh (1), smtp (1)
 > **Versions:** python 3 (6), python 2 (4), 192.168.17 (1)
@@ -8966,8 +8913,7 @@ created: 2026-05-02
 > **URLs:** [vulnerablesite.com](https://vulnerablesite.com) (2)
 > **Analogies:** it's like (1), kind of like (1)
 
-#### Modifying the code to fit the environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980)
+#### [Modifying the code to fit the environment](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8977,19 +8923,19 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=10)** So I've spoken about this before.
 >
-> **[0:11](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=11)** When we find exploit code in Exploit-DB or wherever it may be, whoever authored that code doesn't know the environment we're working in.
+> **[0:11](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=11)** When we find exploit code in [[Exploit-DB]] or wherever it may be, whoever authored that code doesn't know the environment we're working in.
 >
 > **[0:20](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=20)** They will leave IP addresses -- whatever exploit that worked for them, they'll leave IP addresses and assume that we know how to change it to our environment.
 >
 > **[0:28](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=28)** They'll leave ports like FTP 21, whereas in our environment it could be Port 5000, who knows?
 >
-> **[0:36](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=36)** But in some cases, you'll see the exploit code they actually give us in the comments that it's a hard-coded IP address. Even in pentestmonkeys, PHP, reverse shell, you know, he'll say change this, change this.
+> **[0:36](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=36)** But in some cases, you'll see the exploit code they actually give us in the comments that it's a hard-coded IP address. Even in pentestmonkeys, [[PHP]], reverse shell, you know, he'll say change this, change this.
 >
 > **[0:49](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=49)** Very nice of him to do that, but not everybody does that.
 >
 > **[0:53](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=53)** And that's the same with web requests.
 >
-> **[0:56](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=56)** So WordPress may be in a directory called WordPress, it may be in the root directory or it may be in some other name directory like WP.
+> **[0:56](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=56)** So [[WordPress]] may be in a directory called WordPress, it may be in the root directory or it may be in some other name directory like WP.
 >
 > **[1:05](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=65)** So when you run your exploit, it may not work because you didn't have the correct directory structure.
 >
@@ -9005,7 +8951,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=97)** So with that in mind, let's go to a demo.
 >
-> **[1:41](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=101)** So I'm going to do my Nmap scan here.
+> **[1:41](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=101)** So I'm going to do my [[Nmap]] scan here.
 >
 > **[1:45](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=105)** And I'm not going to do the full port scan because that will take a while.
 >
@@ -9019,7 +8965,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=145)** with anonymous login.
 >
-> **[2:28](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=148)** I can see that I logged in here, but I can also, like I said, Google dork.
+> **[2:28](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=148)** I can see that I logged in here, but I can also, like I said, [[Google]] dork.
 >
 > **[2:35](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=155)** So I would take the Konica Minolta FTP utility information
 >
@@ -9045,7 +8991,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=232)** We already have a lot done for us by the author of this exploit.
 >
-> **[3:56](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=236)** We do see an MSF venom payload that will have to change the LHOST to us.
+> **[3:56](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=236)** We do see an [[Metasploit|MSF]] venom payload that will have to change the LHOST to us.
 >
 > **[4:02](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=242)** We can leave the LPORT as well if we wanted to 4444.
 >
@@ -9059,7 +9005,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=265)** And we also know anonymous login is allowed so we can leave that as well.
 >
-> **[4:29](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=269)** So now what we need to do is msfvenom.
+> **[4:29](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=269)** So now what we need to do is [[Metasploit|msfvenom]].
 >
 > **[4:38](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=278)** So I will change this to us.
 >
@@ -9075,9 +9021,9 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=318)** now, split this vertically.
 >
-> **[5:26](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=326)** I'll do Netcat.
+> **[5:26](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=326)** I'll do [[Netcat]].
 >
-> **[5:28](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=328)** And what we'll see here is, do we know if this is Python?
+> **[5:28](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=328)** And what we'll see here is, do we know if this is [[Python (Programming Language)|Python]]?
 >
 > **[5:33](https://www.linkedin.com/learning/offensive-penetration-testing/modifying-the-code-to-fit-the-environment?u=76281980&t=333)** 2 or 3?
 >
@@ -9109,7 +9055,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[WordPress]] (4), [[Google]] (2), [[PHP]] (1), web (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[WordPress]] (4), [[Google]] (2), [[Exploit-DB]] (1), [[PHP]] (1)
 > **CLI Commands:** find (5), python (5), chmod (2), php (1)
 > **Env Vars:** ftp (5), php (1), smb (1), rdp (1), msf (1)
 > **Versions:** python 2 (3)
@@ -9118,18 +9064,17 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Introduction to Metasploit
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980)
+#### [Introduction to Metasploit](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980&t=0)** An introduction to Metasploit.
+> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980&t=0)** An introduction to [[Metasploit]].
 >
 > **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980&t=3)** Our learning objectives are to understand what the Metasploit Framework is and how to use it.
 >
 > **[0:07](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980&t=7)** Become familiar with how to search for modules, select them, and then read info about them and demonstrate how to run exploit modules.
 >
-> **[0:16](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980&t=16)** So the Metasploit Framework is a Framework written for Pentesters in Ruby. And we've been using Python a lot, but this is written in Ruby and there's a great introduction on the Offensive Security website.
+> **[0:16](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980&t=16)** So the Metasploit Framework is a Framework written for Pentesters in Ruby. And we've been using [[Python (Programming Language)|Python]] a lot, but this is written in Ruby and there's a great introduction on the Offensive Security website.
 >
 > **[0:30](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980&t=30)** So go to Offensive Security and you should see the course, Metasploit unleashed.
 >
@@ -9141,9 +9086,9 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980&t=60)** So a lot of people shy away from getting to know Metasploit.
 >
-> **[1:04](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980&t=64)** And I was just talking to someone about this last week where we both have OSCP and we were saying, hey, we don't really know a lot about Metasploit because you try to stay away from it in preparation for OSCP. Because if you become too reliant on it, then you don't know how to look for exploit code and modify it, which is all the great things that OSCP tries to teach you.
+> **[1:04](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980&t=64)** And I was just talking to someone about this last week where we both have [[OSCP]] and we were saying, hey, we don't really know a lot about Metasploit because you try to stay away from it in preparation for OSCP. Because if you become too reliant on it, then you don't know how to look for exploit code and modify it, which is all the great things that OSCP tries to teach you.
 >
-> **[1:24](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980&t=84)** So when it came time for me to do eCPPT, I was really over my head.
+> **[1:24](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980&t=84)** So when it came time for me to do [[eCPPT]], I was really over my head.
 >
 > **[1:31](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980&t=91)** And when I came time to pivot, I really didn't know what to do.
 >
@@ -9165,13 +9110,13 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980&t=138)** Maybe it's a reverse shell that you need.
 >
-> **[2:22](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980&t=142)** Or maybe it's not Linux, it's Windows or you need to change the target.
+> **[2:22](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980&t=142)** Or maybe it's not [[Linux]], it's [[Windows]] or you need to change the target.
 >
 > **[2:27](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980&t=147)** So that's why you need to know how or have some idea of how to use Metasploit.
 >
 > **[2:38](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980&t=158)** All right.
 >
-> **[2:40](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980&t=160)** So finding an exploit module. You may see this when you're searching an Exploit-DB where you come across a service and you search for it and it says this, "This module requires Metasploit."
+> **[2:40](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980&t=160)** So finding an exploit module. You may see this when you're searching an [[Exploit-DB]] where you come across a service and you search for it and it says this, "This module requires Metasploit."
 >
 > **[2:55](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980&t=175)** That's a clue. Right.
 >
@@ -9185,7 +9130,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980&t=209)** So in that case, I would definitely go with the public exploit code.
 >
-> **[3:32](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980&t=212)** So starting Metasploit, you've seen me use msfconsole from the command line a lot.
+> **[3:32](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980&t=212)** So starting Metasploit, you've seen me use [[Metasploit|msfconsole]] from the command line a lot.
 >
 > **[3:37](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-metasploit?u=76281980&t=217)** You can also run the database and they talk about that in the Metasploit Unleashed course, but you can off the bat run the database with msfdb run.
 >
@@ -9341,7 +9286,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OSCP]] (7), database (6), [[Search]] (5), [[Windows]] (4), [[Security]] (2)
+> **Frameworks & Libraries:** [[Metasploit]] (27), [[OSCP]] (7), [[Windows]] (4), [[Python (Programming Language)|Python]] (1), [[eCPPT]] (1)
 > **Env Vars:** oscp (7), tcp (2), asp (1), ftp (1), ctf (1)
 > **CLI Commands:** ruby (4), make (2), python (1), find (1)
 > **Definitions:** is a  (4)
@@ -9350,12 +9295,11 @@ created: 2026-05-02
 > **Code Identifiers:** ecppt (1), db_nmap (1)
 > **Versions:** 192.168.1 (2)
 
-#### Using Metasploit or not
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/using-metasploit-or-not?u=76281980)
+#### [Using Metasploit or not](https://www.linkedin.com/learning/offensive-penetration-testing/using-metasploit-or-not?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/using-metasploit-or-not?u=76281980&t=0)** Using Metasploit in the OSCP or Not.
+> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/using-metasploit-or-not?u=76281980&t=0)** Using [[Metasploit]] in the [[OSCP]] or Not.
 >
 > **[0:04](https://www.linkedin.com/learning/offensive-penetration-testing/using-metasploit-or-not?u=76281980&t=4)** Our learning objective is to determine the pluses and minuses of using Metasploit on the OSCP.
 >
@@ -9373,7 +9317,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/offensive-penetration-testing/using-metasploit-or-not?u=76281980&t=76)** Use Metasploit and don't use Metasploit.
 >
-> **[1:17](https://www.linkedin.com/learning/offensive-penetration-testing/using-metasploit-or-not?u=76281980&t=77)** And I'll use that with things like SQL map.
+> **[1:17](https://www.linkedin.com/learning/offensive-penetration-testing/using-metasploit-or-not?u=76281980&t=77)** And I'll use that with things like [[SQL]] map.
 >
 > **[1:20](https://www.linkedin.com/learning/offensive-penetration-testing/using-metasploit-or-not?u=76281980&t=80)** I'll use SQL map in labs and then I won't and I'll try to determine how much harder it is not using SQL map than when I do use SQL map.
 >
@@ -9387,7 +9331,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/offensive-penetration-testing/using-metasploit-or-not?u=76281980&t=108)** So when you have some comfort in looking at exploit code and knowing what an exploit does, you understand the complexity.
 >
-> **[1:56](https://www.linkedin.com/learning/offensive-penetration-testing/using-metasploit-or-not?u=76281980&t=116)** If there's hashing algorithms that go towards it or trying to brute force dates and times and things like that, it gets more complex.
+> **[1:56](https://www.linkedin.com/learning/offensive-penetration-testing/using-metasploit-or-not?u=76281980&t=116)** If there's hashing [[Algorithms]] that go towards it or trying to brute force dates and times and things like that, it gets more complex.
 >
 > **[2:03](https://www.linkedin.com/learning/offensive-penetration-testing/using-metasploit-or-not?u=76281980&t=123)** And then you should start thinking, well, maybe Metasploit is the right way to go here because, you know, maybe it's difficult for me to try to figure out all this on my own.
 >
@@ -9457,11 +9401,11 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/offensive-penetration-testing/using-metasploit-or-not?u=76281980&t=316)** And are there other ways to exploit it? Is there other public exploit code out there available for somebody to find it?
 >
-> **[5:23](https://www.linkedin.com/learning/offensive-penetration-testing/using-metasploit-or-not?u=76281980&t=323)** And, maybe, there is, and maybe it's just a matter of, you know, maybe it's not an Exploit-DB but it's in GitHub, someone else who has the exploit code and you don't need to use Metasploit.
+> **[5:23](https://www.linkedin.com/learning/offensive-penetration-testing/using-metasploit-or-not?u=76281980&t=323)** And, maybe, there is, and maybe it's just a matter of, you know, maybe it's not an [[Exploit-DB]] but it's in [[GitHub]], someone else who has the exploit code and you don't need to use Metasploit.
 >
 > **[5:34](https://www.linkedin.com/learning/offensive-penetration-testing/using-metasploit-or-not?u=76281980&t=334)** So that's why we always go back and you always hear enumerate, enumerate, enumerate.
 >
-> **[5:38](https://www.linkedin.com/learning/offensive-penetration-testing/using-metasploit-or-not?u=76281980&t=338)** That goes the same for your Google Searches or Bing Searches or whatever search engine you want to use is trying to find that exploit code and not having to go to Metasploit.
+> **[5:38](https://www.linkedin.com/learning/offensive-penetration-testing/using-metasploit-or-not?u=76281980&t=338)** That goes the same for your [[Google]] Searches or Bing Searches or whatever search engine you want to use is trying to find that exploit code and not having to go to Metasploit.
 >
 > **[5:49](https://www.linkedin.com/learning/offensive-penetration-testing/using-metasploit-or-not?u=76281980&t=349)** So here's our quiz.
 >
@@ -9481,7 +9425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OSCP]] (8), [[SQL]] (4), [[Security]] (2), [[Algorithms]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Metasploit]] (35), [[OSCP]] (8), [[SQL]] (4), [[Algorithms]] (1), [[Exploit-DB]] (1)
 > **Env Vars:** oscp (8), sql (4), pwk (2), lhost (1), faq (1)
 > **CLI Commands:** find (6), make (3), curl (1), ruby (1)
 > **UI Navigation:** go to (2)
@@ -9490,14 +9434,13 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Tools:** github (1)
 
-#### Public exploit lab
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab?u=76281980)
+#### [Public exploit lab](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab?u=76281980&t=0)** Welcome to the Public Exploit Lab.
 >
-> **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab?u=76281980&t=3)** Our lab objective is to modify the code of the publicly available exploit to get a shell on the windows host. Log into your Linux machine or your Kali machine with username root password Kali and you will see the folder for this public exploit on your desktop.
+> **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab?u=76281980&t=3)** Our lab objective is to modify the code of the publicly available exploit to get a shell on the [[Windows]] host. Log into your [[Linux]] machine or your Kali machine with username root password Kali and you will see the folder for this public exploit on your desktop.
 >
 > **[0:22](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab?u=76281980&t=22)** So use that.
 >
@@ -9505,23 +9448,22 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab?u=76281980&t=25)** Make sure you use your other tools.
 >
-> **[0:27](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab?u=76281980&t=27)** Make sure you use Nmap and some other things to interact with the protocol, to understand the service and also use that information to modify the publicly available code to get your shell.
+> **[0:27](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab?u=76281980&t=27)** Make sure you use [[Nmap]] and some other things to interact with the protocol, to understand the service and also use that information to modify the publicly available code to get your shell.
 >
 > **[0:43](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab?u=76281980&t=43)** So good luck.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1), [[Nmap]] (1)
 > **CLI Commands:** make (2)
 
-#### Public exploit lab walkthrough
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab-walkthrough?u=76281980)
+#### [Public exploit lab walkthrough](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab-walkthrough?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab-walkthrough?u=76281980&t=0)** Welcome to the Public Exploit Lab Walkthrough.
 >
-> **[0:06](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab-walkthrough?u=76281980&t=6)** So let's start our Nmap scan.
+> **[0:06](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab-walkthrough?u=76281980&t=6)** So let's start our [[Nmap]] scan.
 >
 > **[0:12](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab-walkthrough?u=76281980&t=12)** sV, sC.
 >
@@ -9553,7 +9495,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab-walkthrough?u=76281980&t=117)** So I need to figure out how to get on this.
 >
-> **[1:59](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab-walkthrough?u=76281980&t=119)** Well, if you google what's the default username and password FTP, it's admin password.
+> **[1:59](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab-walkthrough?u=76281980&t=119)** Well, if you [[Google]] what's the default username and password FTP, it's admin password.
 >
 > **[2:10](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab-walkthrough?u=76281980&t=130)** And you can see you're logged in now.
 >
@@ -9567,7 +9509,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab-walkthrough?u=76281980&t=149)** Well, let's look at this code here.
 >
-> **[2:31](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab-walkthrough?u=76281980&t=151)** So we know there's msfvenom involved.
+> **[2:31](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab-walkthrough?u=76281980&t=151)** So we know there's [[Metasploit|msfvenom]] involved.
 >
 > **[2:34](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab-walkthrough?u=76281980&t=154)** We know that there's a hard-coded IP, so we, of course, need to change this.
 >
@@ -9579,7 +9521,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab-walkthrough?u=76281980&t=182)** Sometimes it takes you minutes.
 >
-> **[3:04](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab-walkthrough?u=76281980&t=184)** So I'm changing this to the IP address of our victim or other Windows box and Port 2121. So I need to change this too.
+> **[3:04](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab-walkthrough?u=76281980&t=184)** So I'm changing this to the IP address of our victim or other [[Windows]] box and Port 2121. So I need to change this too.
 >
 > **[3:16](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab-walkthrough?u=76281980&t=196)** Right.
 >
@@ -9611,7 +9553,7 @@ created: 2026-05-02
 >
 > **[5:41](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab-walkthrough?u=76281980&t=341)** You'll see, I typically run the same commands that I'm in a box, right?
 >
-> **[5:47](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab-walkthrough?u=76281980&t=347)** Whoami or IP or ID if I'm on Linux.
+> **[5:47](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab-walkthrough?u=76281980&t=347)** Whoami or IP or ID if I'm on [[Linux]].
 >
 > **[5:53](https://www.linkedin.com/learning/offensive-penetration-testing/public-exploit-lab-walkthrough?u=76281980&t=353)** Just want to know who I am and I want to know the IP address to make sure I'm actually on the box that I intended to.
 >
@@ -9627,7 +9569,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Metasploit|Msfvenom]] (2), [[Nmap]] (1), [[Google]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** ftp (5), pwk (1)
 > **CLI Commands:** make (3), chmod (1), find (1)
 > **Ports:** port 2121 (3), port 21 (1), port
@@ -9640,8 +9582,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The different types of shells
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980)
+#### [The different types of shells](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9653,7 +9594,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980&t=19)** So you've seen me get some shells on some boxes, finding some exploits and getting shells.
 >
-> **[0:24](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980&t=24)** What happens next is typically in OSCP land or PWK is we need to escalate privileges further to become root or system if it's a Windows box.
+> **[0:24](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980&t=24)** What happens next is typically in [[OSCP]] land or PWK is we need to escalate privileges further to become root or system if it's a [[Windows]] box.
 >
 > **[0:36](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980&t=36)** In order to do that, we need to have a stable shell.
 >
@@ -9665,11 +9606,11 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980&t=48)** Sometimes the architecture of the box is different than the shell that we have.
 >
-> **[0:52](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980&t=52)** Sometimes we're not calling the shell correctly, or we're trying to use a bash shell, and the Linux machine doesn't even have bash. They have SH, they have a shell, and we don't know that.
+> **[0:52](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980&t=52)** Sometimes we're not calling the shell correctly, or we're trying to use a bash shell, and the [[Linux]] machine doesn't even have bash. They have SH, they have a shell, and we don't know that.
 >
 > **[1:04](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980&t=64)** And we need to kind of figure out what is on that box that we can actually get a foothold on it and also how we can exploit privileges or escalate privileges, I should say, which does in some cases require that we're able to sudo if it's a Linux box or that the architecture matters.
 >
-> **[1:22](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980&t=82)** I was talking about that with Metasploit is the architecture really matters.
+> **[1:22](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980&t=82)** I was talking about that with [[Metasploit]] is the architecture really matters.
 >
 > **[1:27](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980&t=87)** So you'll find that if you don't have a good shell, your functionality is greatly reduced.
 >
@@ -9679,7 +9620,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980&t=102)** So basically, the victim will open up a port, a listener port.
 >
-> **[1:46](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980&t=106)** So we've used some kind of exploit and we have the victim open up a port -- a listener port, and we attach ourselves to that using Meterpreter or Netcat or Ncat.
+> **[1:46](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980&t=106)** So we've used some kind of exploit and we have the victim open up a port -- a listener port, and we attach ourselves to that using Meterpreter or [[Netcat]] or [[Netcat|Ncat]].
 >
 > **[1:57](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980&t=117)** And that's how we connect to the box with a direct connection from us as an attacker directly to that open port on the victim machine.
 >
@@ -9729,7 +9670,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980&t=268)** Is it Netcat?
 >
-> **[4:29](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980&t=269)** Is it Python?
+> **[4:29](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980&t=269)** Is it [[Python (Programming Language)|Python]]?
 >
 > **[4:30](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980&t=270)** Some other tried and true ones are pen test monkey and high on coffee.
 >
@@ -9815,7 +9756,7 @@ created: 2026-05-02
 >
 > **[8:13](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980&t=493)** I say that -- I preface that by saying it does depend.
 >
-> **[8:16](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980&t=496)** PHP shells are not the best in my opinion, but in this case, the Meterpreter shell is useful because we can do things like pivot to other systems, other hosts. And that becomes very useful in things like ECPPT and capture the flags and things like that, is now we have additional functionality due to the fact that we have an Meterpreter shell, we can do a whole lot more than we can if we had, let's say, a Netcat shell.
+> **[8:16](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980&t=496)** [[PHP]] shells are not the best in my opinion, but in this case, the Meterpreter shell is useful because we can do things like pivot to other systems, other hosts. And that becomes very useful in things like [[eCPPT]] and capture the flags and things like that, is now we have additional functionality due to the fact that we have an Meterpreter shell, we can do a whole lot more than we can if we had, let's say, a Netcat shell.
 >
 > **[8:46](https://www.linkedin.com/learning/offensive-penetration-testing/the-different-types-of-shells?u=76281980&t=526)** Also, know your architecture.
 >
@@ -9839,7 +9780,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Windows]] (5), web (5), [[OSCP]] (2), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Windows]] (5), [[Netcat]] (5), [[Metasploit]] (3), [[OSCP]] (2)
 > **CLI Commands:** sudo (11), python (8), ssh (4), find (2), make (2)
 > **Env Vars:** ssh (4), oscp (2), pwk (2), tcp (1), php (1)
 > **Tools:** bash (6), command prompt (1)
@@ -9848,8 +9789,7 @@ created: 2026-05-02
 > **Code Identifiers:** reverse_tcp (1)
 > **URLs:** [revshells.com](https://revshells.com) (1)
 
-#### How to upgrade a shell
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-upgrade-a-shell?u=76281980)
+#### [How to upgrade a shell](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-upgrade-a-shell?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9871,11 +9811,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-upgrade-a-shell?u=76281980&t=28)** You can go from a command shell and you'll see here I used multi-managed shell Meterpreter.
 >
-> **[0:33](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-upgrade-a-shell?u=76281980&t=33)** And again, this is going to be something that more in PWKs and CTFs than actually OSCP because again, this is a module here.
+> **[0:33](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-upgrade-a-shell?u=76281980&t=33)** And again, this is going to be something that more in PWKs and CTFs than actually [[OSCP]] because again, this is a module here.
 >
 > **[0:40](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-upgrade-a-shell?u=76281980&t=40)** So you will migrate from a command shell which has limited functionality to a Meterpreter shell where we can do things like set up a pivot point.
 >
-> **[0:52](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-upgrade-a-shell?u=76281980&t=52)** So that's to say that when you are in CTFs and PWK and you're using Metasploit and you do get a command shell off the bat, there is a module that you can go from getting just a command shell to a Meterpreter shell with a lot more functionality.
+> **[0:52](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-upgrade-a-shell?u=76281980&t=52)** So that's to say that when you are in CTFs and PWK and you're using [[Metasploit]] and you do get a command shell off the bat, there is a module that you can go from getting just a command shell to a Meterpreter shell with a lot more functionality.
 >
 > **[1:11](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-upgrade-a-shell?u=76281980&t=71)** In some cases, you'll find you have a restricted shell.
 >
@@ -9903,23 +9843,23 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-upgrade-a-shell?u=76281980&t=131)** But this is a tool to put in your toolbar.
 >
-> **[2:15](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-upgrade-a-shell?u=76281980&t=135)** Also here, you'll see that I have a PHP shell and you can see I'm issuing commands and I don't get any output.
+> **[2:15](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-upgrade-a-shell?u=76281980&t=135)** Also here, you'll see that I have a [[PHP]] shell and you can see I'm issuing commands and I don't get any output.
 >
 > **[2:24](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-upgrade-a-shell?u=76281980&t=144)** I don't see anything.
 >
 > **[2:25](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-upgrade-a-shell?u=76281980&t=145)** So what I want to do is I want to upgrade to a Meterpreter shell possible multi-handler, like I said, multi-handler when I recorded this -- when I'm recording this now, you can use multi-handler on any box you want.
 >
-> **[2:39](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-upgrade-a-shell?u=76281980&t=159)** So that's what I typically do is once I have a PHP shell, normally through a web shell or I get RCE through a web server is I'll get on the box with the Netcat shell and then I will download. You'll see curl wget, which you should recognize as ways to get the shell from my box, and I'm making it executable.
+> **[2:39](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-upgrade-a-shell?u=76281980&t=159)** So that's what I typically do is once I have a PHP shell, normally through a web shell or I get RCE through a web server is I'll get on the box with the [[Netcat]] shell and then I will download. You'll see curl wget, which you should recognize as ways to get the shell from my box, and I'm making it executable.
 >
-> **[3:01](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-upgrade-a-shell?u=76281980&t=181)** And ultimately, I am executing this shell.elf, which is something that I created with msfvenom.
+> **[3:01](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-upgrade-a-shell?u=76281980&t=181)** And ultimately, I am executing this shell.elf, which is something that I created with [[Metasploit|msfvenom]].
 >
-> **[3:09](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-upgrade-a-shell?u=76281980&t=189)** So if you're on a Linux box, you can use msfvenom to create this elf file and ultimately have it execute.
+> **[3:09](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-upgrade-a-shell?u=76281980&t=189)** So if you're on a [[Linux]] box, you can use msfvenom to create this elf file and ultimately have it execute.
 >
 > **[3:15](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-upgrade-a-shell?u=76281980&t=195)** And you see here now I have a nice Meterpreter session open.
 >
 > **[3:21](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-upgrade-a-shell?u=76281980&t=201)** So here's a cheat sheet.
 >
-> **[3:23](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-upgrade-a-shell?u=76281980&t=203)** If you do get on a box and you do see have limited functionality, you can do this python import pty.
+> **[3:23](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-upgrade-a-shell?u=76281980&t=203)** If you do get on a box and you do see have limited functionality, you can do this [[Python (Programming Language)|python]] import pty.
 >
 > **[3:28](https://www.linkedin.com/learning/offensive-penetration-testing/how-to-upgrade-a-shell?u=76281980&t=208)** That's importing -- basically having Python use this library and this language to create its own shell, which is very stable, I found. It is echo os.system bin bash or even bin shell and some cases and bin sh -i.
 >
@@ -9995,7 +9935,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[OSCP]] (3), [[PHP]] (2), web (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[OSCP]] (3), [[PHP]] (2), [[Metasploit|Msfvenom]] (2), [[Metasploit]] (1)
 > **CLI Commands:** python (7), ssh (2), php (2), python3 (2), find (1)
 > **Env Vars:** oscp (3), ssh (2), php (2), pwk (1), rce (1)
 > **Tools:** bash (8), terminal (2)
@@ -10003,12 +9943,11 @@ created: 2026-05-02
 > **Warnings:** note that (2), be careful (1)
 > **Prerequisites:** set up (1)
 
-#### Transferring files to and from Kali Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980)
+#### [Transferring files to and from Kali Linux](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=0)** Transferring Files to and from Kali Linux.
+> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=0)** Transferring Files to and from [[Kali Linux]].
 >
 > **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=3)** Our learning objective is to understand the various methods to transfer files to and from Kali.
 >
@@ -10036,11 +9975,11 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=69)** As you can see here, I have HTTP, FTP, SMB, SSH.
 >
-> **[1:13](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=73)** Of course, you need to be able to SSH onto the machine to do that and Netcat.
+> **[1:13](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=73)** Of course, you need to be able to SSH onto the machine to do that and [[Netcat]].
 >
 > **[1:17](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=77)** So we have a plethora of ways, if you will, to get files to and from a host, to and from our Kali machine.
 >
-> **[1:26](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=86)** So HTTP, this is probably the way I do this the most is I will either use python -m SimpleHTTPServer which is python2 which defaults to Port 8000, you can change that if you want, or python3 http.server.
+> **[1:26](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=86)** So HTTP, this is probably the way I do this the most is I will either use [[Python (Programming Language)|python]] -m SimpleHTTPServer which is python2 which defaults to Port 8000, you can change that if you want, or python3 http.server.
 >
 > **[1:42](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=102)** I now prefer to you use python3 http.server just because when you do control C, you don't get a messy output with python3, whereas with python2 you do.
 >
@@ -10052,11 +9991,11 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=131)** So if I want to enable Apache to start up every time I boot up the machine, I'll do systemctl enable apache2 or systemctl start apache2.
 >
-> **[2:20](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=140)** You have to make sure that those files though are in var www html and that's where your files are sitting.
+> **[2:20](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=140)** You have to make sure that those files though are in var www [[HTML]] and that's where your files are sitting.
 >
 > **[2:27](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=147)** If I have some exploit set up or something like that, or I want to do something locally on my machine, that's where I'll have it sitting.
 >
-> **[2:34](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=154)** Or if I want to have persistence or if I know that I'm going to be transferring a Netcat shell with a Windows box often I will leave it in var www html.
+> **[2:34](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=154)** Or if I want to have persistence or if I know that I'm going to be transferring a Netcat shell with a [[Windows]] box often I will leave it in var www html.
 >
 > **[2:45](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=165)** Just so I know that it's always going to be sitting there and I don't have to use Python every single time.
 >
@@ -10068,7 +10007,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=196)** I couldn't get things from the victim back onto my machine.
 >
-> **[3:18](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=198)** Well, I solve that by this guy's great GitHub fey beyond where you can use this script.
+> **[3:18](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=198)** Well, I solve that by this guy's great [[GitHub]] fey beyond where you can use this script.
 >
 > **[3:25](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=205)** Simply it should be put server, I called it, whereas you can see, I'm issuing a command from my host, my Mac.
 >
@@ -10084,7 +10023,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=243)** So here's the syntax to use certutil to grab files from your your Kali machine.
 >
-> **[4:11](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=251)** Also, with PowerShell, you can do that as well.
+> **[4:11](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=251)** Also, with [[Powershell]], you can do that as well.
 >
 > **[4:14](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=254)** To get files, download files, you can also execute them in a single line of PowerShell.
 >
@@ -10094,7 +10033,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=261)** Let's say you want to download an executable, you can download it and also execute it with the same line of PowerShell.
 >
-> **[4:28](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=268)** So on Linux boxes, they should have Wget and cURL.
+> **[4:28](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=268)** So on [[Linux]] boxes, they should have Wget and cURL.
 >
 > **[4:31](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-to-and-from-kali-linux?u=76281980&t=271)** And what we're doing is we're using Wget.
 >
@@ -10146,7 +10085,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Windows]] (4), [[Powershell]] (3), [[HTML]] (2), web (2)
+> **Frameworks & Libraries:** [[Netcat]] (7), [[Python (Programming Language)|Python]] (4), [[Windows]] (4), [[Powershell]] (3), [[HTML]] (2)
 > **CLI Commands:** ssh (5), python (4), curl (4), wget (4), python3 (3)
 > **Env Vars:** smb (7), ftp (6), ssh (5), http (2), hdp (1)
 > **Prerequisites:** set up (5), install (1), you need to have (1)
@@ -10155,14 +10094,13 @@ created: 2026-05-02
 > **Ports:** port 8000 (1), port 21 (1)
 > **Cross-References:** in the last (1)
 
-#### Transferring files demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-demo?u=76281980)
+#### [Transferring files demo](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-demo?u=76281980&t=1)** Welcome to the file transfer lab demo.
 >
-> **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-demo?u=76281980&t=3)** You can see I'm going to Drupal site here.
+> **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-demo?u=76281980&t=3)** You can see I'm going to [[Drupal]] site here.
 >
 > **[0:05](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-demo?u=76281980&t=5)** You can tell that because it's just powered by Drupal and also because a little Drupal logo here.
 >
@@ -10172,13 +10110,13 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-demo?u=76281980&t=20)** Hello, admin.
 >
-> **[0:22](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-demo?u=76281980&t=22)** So what I want to do now, this is just getting to know content management systems.
+> **[0:22](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-demo?u=76281980&t=22)** So what I want to do now, this is just getting to know [[Content Management Systems (CMS)|content management systems]].
 >
 > **[0:25](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-demo?u=76281980&t=25)** What I want to do with content is I want to add content.
 >
 > **[0:29](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-demo?u=76281980&t=29)** I add a basic page.
 >
-> **[0:31](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-demo?u=76281980&t=31)** I'm going to call this shell.php and I'm going to change this to PHP code.
+> **[0:31](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-demo?u=76281980&t=31)** I'm going to call this shell.[[PHP]] and I'm going to change this to PHP code.
 >
 > **[0:39](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-demo?u=76281980&t=39)** Now, I need to figure out what shell I want to use.
 >
@@ -10186,7 +10124,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-demo?u=76281980&t=43)** You can see this is that site I was telling you about, [revshells.com](https://revshells.com).
 >
-> **[0:48](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-demo?u=76281980&t=48)** I've already picked the PentestMonkey shell.
+> **[0:48](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-demo?u=76281980&t=48)** I've already picked the [[pentestmonkey]] shell.
 >
 > **[0:50](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-demo?u=76281980&t=50)** I like this shell.
 >
@@ -10202,7 +10140,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-demo?u=76281980&t=69)** So what I need to get ready is I need to get a listener ready.
 >
-> **[1:14](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-demo?u=76281980&t=74)** Netcat nlvp 4444, and we'll save this.
+> **[1:14](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-demo?u=76281980&t=74)** [[Netcat]] nlvp 4444, and we'll save this.
 >
 > **[1:24](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-demo?u=76281980&t=84)** And we see if I hit "Preview," now I have my shell here, www-data.
 >
@@ -10216,7 +10154,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-demo?u=76281980&t=105)** How do we make this a nicer shell?
 >
-> **[1:49](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-demo?u=76281980&t=109)** So I told you about python -c import pty.
+> **[1:49](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-demo?u=76281980&t=109)** So I told you about [[Python (Programming Language)|python]] -c import pty.
 >
 > **[1:53](https://www.linkedin.com/learning/offensive-penetration-testing/transferring-files-demo?u=76281980&t=113)** Let's do that.
 >
@@ -10324,7 +10262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (7), [[PHP]] (3), [[Python (Programming Language)|Python]] (2), [[Content Management Systems (CMS)|Content management systems]] (1), hit (1)
+> **Frameworks & Libraries:** [[Drupal]] (7), [[PHP]] (3), [[Python (Programming Language)|Python]] (2), [[Content Management Systems (CMS)|Content management systems]] (1), [[pentestmonkey]] (1)
 > **CLI Commands:** php (3), curl (3), python (2), make (1), cat (1)
 > **Tools:** bash (4), terminal (2)
 > **File Paths:** dirty.c (2), shell.php (1), secret.txt (1), dirtycow.c (1)
@@ -10338,18 +10276,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Linux privilege escalation
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980)
+#### [Linux privilege escalation](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980&t=0)** Module 9: Privilege Escalation.
 >
-> **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980&t=3)** Linux Privilege Escalation.
+> **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980&t=3)** [[Linux]] Privilege Escalation.
 >
 > **[0:05](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980&t=5)** Our learning objectives are to understand what Linux kernel exploits are and explain the various methods to escalate privileges in Linux.
 >
-> **[0:13](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980&t=13)** So getting a shell or a foothold on a box is only half the battle. In OSCP and some of these boxes, you're going to have to escalate privileges from an unprivileged user to either root, if it's a Linux box or system, if it's a Windows box.
+> **[0:13](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980&t=13)** So getting a shell or a foothold on a box is only half the battle. In [[OSCP]] and some of these boxes, you're going to have to escalate privileges from an unprivileged user to either root, if it's a Linux box or system, if it's a [[Windows]] box.
 >
 > **[0:28](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980&t=28)** People typically in the lab environment, I would say, rely a lot on kernel exploits and kernel exploits are great because they're -- all you have to do is enumerate the kernel version of that Linux box and hopefully, it matches up to an exploit and you can become root, which we saw with this Dirty Cow Exploit.
 >
@@ -10385,7 +10322,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980&t=166)** And how do we do that?
 >
-> **[2:47](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980&t=167)** There's a really great -- g0tmi1k has this really great page.
+> **[2:47](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980&t=167)** There's a really great -- [[g0tmi1k]] has this really great page.
 >
 > **[2:51](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980&t=171)** Why is it really long?
 >
@@ -10427,7 +10364,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980&t=291)** Also, if you can view the /etc/shadow file, you can crack passwords, which we'll talk about more in the password cracking lab.
 >
-> **[4:58](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980&t=298)** But together, if I can only read the /etc/passwd file and I can only read the /etc/shadow file, I can put those together with john the ripper and I can crack passwords that way.
+> **[4:58](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980&t=298)** But together, if I can only read the /etc/passwd file and I can only read the /etc/shadow file, I can put those together with [[John the Ripper]] and I can crack passwords that way.
 >
 > **[5:10](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980&t=310)** SUID binaries.
 >
@@ -10439,9 +10376,9 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980&t=327)** VyOS privilege escalation via sudo pppd.
 >
-> **[5:30](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980&t=330)** And what I'm running here is a Netcat shell.
+> **[5:30](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980&t=330)** And what I'm running here is a [[Netcat]] shell.
 >
-> **[5:35](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980&t=335)** I'm using sudo pppd connect and you'll see Netcat here and I now am root on the box. So SUID binaries, when you can run sudo on a binary and basically run something with root permissions, google that service and see if there is a privilege escalation vulnerability for that like I did here and ultimately I got root here.
+> **[5:35](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980&t=335)** I'm using sudo pppd connect and you'll see Netcat here and I now am root on the box. So SUID binaries, when you can run sudo on a binary and basically run something with root permissions, [[Google]] that service and see if there is a privilege escalation vulnerability for that like I did here and ultimately I got root here.
 >
 > **[6:02](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980&t=362)** Cron jobs is also why I had you look at cron jobs is because if a cron job is running as root and you can edit that file, then you could, again, put a nice reverse shell in there to take out whatever's in there or add a reverse shell in there and connect to your box as root.
 >
@@ -10449,7 +10386,7 @@ created: 2026-05-02
 >
 > **[6:25](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980&t=385)** If it only runs, you know, every -- once every Monday, you know, every other month, it's not going to work because you want something that's continually running every minute or every 5 minutes.
 >
-> **[6:38](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980&t=398)** Pspy on GitHub has helped me on a lot of Hack The Box challenges and it will show you all the processes that are running.
+> **[6:38](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980&t=398)** Pspy on [[GitHub]] has helped me on a lot of Hack The Box challenges and it will show you all the processes that are running.
 >
 > **[6:45](https://www.linkedin.com/learning/offensive-penetration-testing/linux-privilege-escalation?u=76281980&t=405)** So you'll see it in kind of in nearly real time what processes are running and it colorizing it, so you can tell which ones are running as root and then see if a process is running as root and then see if you have permissions to modify that file.
 >
@@ -10475,7 +10412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (8), [[OSCP]] (1), [[Windows]] (1), [[Search]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Linux]] (8), [[Netcat]] (2), [[OSCP]] (1), [[Windows]] (1), [[g0tmi1k]] (1)
 > **CLI Commands:** sudo (6), find (4), make (2)
 > **Env Vars:** suid (4), gcc (2), oscp (1)
 > **Versions:** 3.2.0 (1), 2.6.22 (1), 3.9 (1)
@@ -10484,20 +10421,19 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **URLs:** [archive.org](https://archive.org) (1)
 
-#### Windows privilege escalation
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980)
+#### [Windows privilege escalation](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980&t=0)** Windows Privilege Escalation.
+> **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980&t=0)** [[Windows]] Privilege Escalation.
 >
-> **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980&t=3)** Our learning objectives are to demonstrate how to use PowerUp.ps1, a PowerShell script to enumerate privilege escalation vulnerabilities and explain the various methods to escalate privileges in Windows.
+> **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980&t=3)** Our learning objectives are to demonstrate how to use PowerUp.ps1, a [[Powershell]] script to enumerate privilege escalation vulnerabilities and explain the various methods to escalate privileges in Windows.
 >
-> **[0:15](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980&t=15)** So Windows privilege escalation was a huge weakness of mine, and it's basically the reason that I failed my second attempt at OSCP is I didn't know if I got on any Windows box, hypothetically, and my second attempt, I had no idea what to do.
+> **[0:15](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980&t=15)** So Windows privilege escalation was a huge weakness of mine, and it's basically the reason that I failed my second attempt at [[OSCP]] is I didn't know if I got on any Windows box, hypothetically, and my second attempt, I had no idea what to do.
 >
 > **[0:32](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980&t=32)** I had no idea how to enumerate Windows and how to escalate privileges properly.
 >
-> **[0:37](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980&t=37)** And you're going to have to know how to escalate privileges on both Windows and Linux boxes.
+> **[0:37](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980&t=37)** And you're going to have to know how to escalate privileges on both Windows and [[Linux]] boxes.
 >
 > **[0:44](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980&t=44)** But windows for me was very, very tricky.
 >
@@ -10531,7 +10467,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980&t=131)** I don't expect you to copy this down verbatim here.
 >
-> **[2:13](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980&t=133)** Obviously, you can google this and get the full string that you can use in your own machine to test out.
+> **[2:13](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980&t=133)** Obviously, you can [[Google]] this and get the full string that you can use in your own machine to test out.
 >
 > **[2:23](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980&t=143)** So SC. Like I said, this starts, stops, and query services as well as configure services.
 >
@@ -10573,7 +10509,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980&t=301)** Then I'll execute this command in the bin path that I was talking about.
 >
-> **[5:04](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980&t=304)** Net user john Password123! add. So it's adding the john user by starting and stopping the service.
+> **[5:04](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980&t=304)** Net user [[John the Ripper|john]] Password123! add. So it's adding the john user by starting and stopping the service.
 >
 > **[5:12](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980&t=312)** Now, it's executing another command, net localgroup Administrators John /add, is adding John to the administrators group.
 >
@@ -10607,7 +10543,7 @@ created: 2026-05-02
 >
 > **[7:03](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980&t=423)** It's also good to know how to exploit manually.
 >
-> **[7:08](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980&t=428)** So what I also did is I created an msfvenom payload and you can see I made an executable.
+> **[7:08](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980&t=428)** So what I also did is I created an [[Metasploit|msfvenom]] payload and you can see I made an executable.
 >
 > **[7:15](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980&t=435)** I call it evil.exe.
 >
@@ -10655,7 +10591,7 @@ created: 2026-05-02
 >
 > **[8:55](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980&t=535)** And these guides will tell you about that.
 >
-> **[8:58](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980&t=538)** Metasploit post module.
+> **[8:58](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980&t=538)** [[Metasploit]] post module.
 >
 > **[9:00](https://www.linkedin.com/learning/offensive-penetration-testing/windows-privilege-escalation?u=76281980&t=540)** I talked about this as well.
 >
@@ -10691,7 +10627,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (23), [[Powershell]] (6), [[OSCP]] (3), [[Linux]] (3), next (1)
+> **Frameworks & Libraries:** [[Windows]] (23), [[Powershell]] (6), [[John the Ripper|John]] (6), [[OSCP]] (3), [[Linux]] (3)
 > **Tools:** powershell (6), command line (2)
 > **Env Vars:** oscp (3), smb (2), pwk (1)
 > **CLI Commands:** find (3), make (1)
@@ -10700,18 +10636,17 @@ created: 2026-05-02
 > **Ports:** port 443 (1)
 > **Cross-References:** in the next (1)
 
-#### A word on privilege escalation enumeration scripts
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980)
+#### [A word on privilege escalation enumeration scripts](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=1)** A Word on Privilege Escalation Enumeration Scripts.
+> **[0:01](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=1)** A [[Microsoft Word|Word]] on Privilege Escalation Enumeration Scripts.
 >
-> **[0:05](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=5)** Our learning objectives are to understand the good, the bad, and the ugly of privilege escalation scripts, and you need to decide which privilege escalation scripts that you're going to use in OSCP.
+> **[0:05](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=5)** Our learning objectives are to understand the good, the bad, and the ugly of privilege escalation scripts, and you need to decide which privilege escalation scripts that you're going to use in [[OSCP]].
 >
 > **[0:16](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=16)** So why do we use privilege escalation scripts?
 >
-> **[0:19](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=19)** Well, you might be asking yourself, Clint, why did you go through the Linux and Windows privilege escalation lessons so quickly about manual enumeration?
+> **[0:19](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=19)** Well, you might be asking yourself, Clint, why did you go through the [[Linux]] and [[Windows]] privilege escalation lessons so quickly about manual enumeration?
 >
 > **[0:28](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=28)** Well, because we have these great scripts that we can use that does the manual enumeration work that would take us days to do in minutes or seconds.
 >
@@ -10731,7 +10666,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=80)** But it's good to get lost and know how to find your way back home.
 >
-> **[1:24](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=84)** Of course, now we have phones and GPS and all that stuff, but I kind of feel like that's the way it should be with privilege escalation is we shouldn't rely on these scripts, but they do make things a whole lot easier, just like our, you know, using your Google Maps makes life a whole lot easier.
+> **[1:24](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=84)** Of course, now we have phones and GPS and all that stuff, but I kind of feel like that's the way it should be with privilege escalation is we shouldn't rely on these scripts, but they do make things a whole lot easier, just like our, you know, using your [[Google]] Maps makes life a whole lot easier.
 >
 > **[1:40](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=100)** Don't let it be a crutch, though.
 >
@@ -10751,13 +10686,13 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=134)** So understand the output it gives you and understand how to exploit the things that it tells you may be vulnerable.
 >
-> **[2:21](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=141)** Also, I know I shouldn't have to say this, but you should already be using these when you do the labs or Hack The Box or TryHackMe or whatever lab environment you're in, you should -- this should be a tried and true script and it shouldn't be just one. Should be one or two, probably two, because some of these boxes may not have Python, when you're relying on a Python script, especially on a Windows box.
+> **[2:21](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=141)** Also, I know I shouldn't have to say this, but you should already be using these when you do the labs or Hack The Box or [[TryHackMe]] or whatever lab environment you're in, you should -- this should be a tried and true script and it shouldn't be just one. Should be one or two, probably two, because some of these boxes may not have [[Python (Programming Language)|Python]], when you're relying on a Python script, especially on a Windows box.
 >
 > **[2:47](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=167)** But we'll talk about that more as we go on.
 >
 > **[2:49](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=169)** So Linux privilege escalation scripts.
 >
-> **[2:52](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=172)** LinPEAS is a newer one.
+> **[2:52](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=172)** [[LinPEAS]] is a newer one.
 >
 > **[2:54](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=174)** It takes a long time, but I think it has a really great output.
 >
@@ -10783,15 +10718,15 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=226)** So I wouldn't really rely on a Python script to use in a Windows box.
 >
-> **[3:51](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=231)** There's windows-privesc-check from PentestMonkey.
+> **[3:51](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=231)** There's windows-privesc-check from [[pentestmonkey]].
 >
 > **[3:54](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=234)** Of course, if it comes in executable, that's great for us on a Windows box.
 >
-> **[3:58](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=238)** And there's also PowerShell scripts.
+> **[3:58](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=238)** And there's also [[Powershell]] scripts.
 >
-> **[4:01](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=241)** Now, we hope the antivirus is off, that we hope that Windows Defender isn't picking these things up.
+> **[4:01](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=241)** Now, we hope the antivirus is off, that we hope that Windows [[Microsoft Defender|Defender]] isn't picking these things up.
 >
-> **[4:06](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=246)** But I know when I was using winPEAS, my antivirus picked it up and deleted it.
+> **[4:06](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=246)** But I know when I was using [[WinPEAS]], my antivirus picked it up and deleted it.
 >
 > **[4:12](https://www.linkedin.com/learning/offensive-penetration-testing/a-word-on-privilege-escalation-enumeration-scripts?u=76281980&t=252)** So, you know, be cognizant of that with any of these things when you download it that your machine may think it is malicious.
 >
@@ -10828,14 +10763,13 @@ created: 2026-05-02
 > **Tools:** powershell (1)
 > **Definitions:** is a  (1)
 
-#### Privilege escalation lab
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-lab?u=76281980)
+#### [Privilege escalation lab](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-lab?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-lab?u=76281980&t=0)** Welcome to the Privilege Escalation Lab.
 >
-> **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-lab?u=76281980&t=3)** Your lab objectives are to gain an initial foothold on the Windows and Linux machines and escalate privileges to become root on Linux and system on Windows.
+> **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-lab?u=76281980&t=3)** Your lab objectives are to gain an initial foothold on the [[Windows]] and [[Linux]] machines and escalate privileges to become root on Linux and system on Windows.
 >
 > **[0:12](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-lab?u=76281980&t=12)** Now, you might want to split this up. First, you know, either go for Windows or go for Linux, but it might be pretty difficult to try to get both in one sitting, especially if the lab is timed.
 >
@@ -10855,11 +10789,11 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-lab?u=76281980&t=60)** That's not really the intended way to do it.
 >
-> **[1:02](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-lab?u=76281980&t=62)** I didn't make the lab, so -- but I did find that unintended path. For Linux, like I said, you don't have, you know, LinEnum or LinPEAS, some of the scripts that you may be used to.
+> **[1:02](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-lab?u=76281980&t=62)** I didn't make the lab, so -- but I did find that unintended path. For Linux, like I said, you don't have, you know, LinEnum or [[LinPEAS]], some of the scripts that you may be used to.
 >
 > **[1:17](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-lab?u=76281980&t=77)** So it may be a little difficult figuring out how to do it.
 >
-> **[1:20](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-lab?u=76281980&t=80)** But I would go to, you know, I think you might learn a lot just manually enumerating this by looking at g0tmi1k's Linux privilege escalation page and kind of working through that and also working through this box.
+> **[1:20](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-lab?u=76281980&t=80)** But I would go to, you know, I think you might learn a lot just manually enumerating this by looking at [[g0tmi1k]]'s Linux privilege escalation page and kind of working through that and also working through this box.
 >
 > **[1:35](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-lab?u=76281980&t=95)** There are many ways to get root on it.
 >
@@ -10869,13 +10803,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), [[Linux]] (6)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Linux]] (6), [[LinPEAS]] (1), [[g0tmi1k]] (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 
-#### Privilege escalation walkthrough: Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980)
+#### [Privilege escalation walkthrough: Windows](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10883,7 +10816,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=6)** Buckle your seatbelts because we're going to be here for a while.
 >
-> **[0:09](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=9)** So the unintended exploitation path that I had hinted at is using PSExec on the Windows box.
+> **[0:09](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=9)** So the unintended exploitation path that I had hinted at is using PSExec on the [[Windows]] box.
 >
 > **[0:17](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=17)** If we are able to figure out the username and password, which you've seen before, right, administrator password on the Windows box and use impacket-psexec, you saw this in the slides that I showed you about using PSExec.
 >
@@ -10901,11 +10834,11 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=59)** Also, if you look at the link is rejetto/hfs and we have a version at 2.3.
 >
-> **[1:08](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=68)** So we can use searchsploit for rejetto and we see we have a Python script here.
+> **[1:08](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=68)** So we can use searchsploit for rejetto and we see we have a [[Python (Programming Language)|Python]] script here.
 >
-> **[1:22](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=82)** So you can do this on Metasploit or you can do it not.
+> **[1:22](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=82)** So you can do this on [[Metasploit]] or you can do it not.
 >
-> **[1:27](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=87)** I'm going to show you how to not do it on Metasploit because we don't rely on Metasploit for OSCP.
+> **[1:27](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=87)** I'm going to show you how to not do it on Metasploit because we don't rely on Metasploit for [[OSCP]].
 >
 > **[1:32](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=92)** So what I will do is searchsploit and I'm going to take a look at this mouse pad 39.
 >
@@ -10921,7 +10854,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=125)** So I need to put my box.
 >
-> **[2:08](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=128)** And whatever port I want my Netcat listener on, it will tell you your Netcat listener needs to be on the web server.
+> **[2:08](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=128)** And whatever port I want my [[Netcat]] listener on, it will tell you your Netcat listener needs to be on the web server.
 >
 > **[2:16](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=136)** Well, why don't we just use our web server?
 >
@@ -10933,7 +10866,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=146)** But I'm going to use locate Netcat.exe and here's Netcat.
 >
-> **[2:34](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=154)** So I'm going to put this or move this to var/www/html.
+> **[2:34](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=154)** So I'm going to put this or move this to var/www/[[HTML]].
 >
 > **[2:47](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=167)** I could also copy.
 >
@@ -10987,7 +10920,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=316)** We see that.
 >
-> **[5:17](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=317)** So I need to go into PowerShell now.
+> **[5:17](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=317)** So I need to go into [[Powershell]] now.
 >
 > **[5:21](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=321)** I want to do is import module PowerUp.ps1 and invoke all checks.
 >
@@ -11011,7 +10944,7 @@ created: 2026-05-02
 >
 > **[6:18](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=378)** I'm going to make my own thing here.
 >
-> **[6:20](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=380)** So I will do msfvenom, payload is Windows shell_reverse_tcp LHOST is me.
+> **[6:20](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=380)** So I will do [[Metasploit|msfvenom]], payload is Windows shell_reverse_tcp LHOST is me.
 >
 > **[6:36](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=396)** LPORT, 1234.
 >
@@ -11081,7 +11014,7 @@ created: 2026-05-02
 >
 > **[10:19](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=619)** Both unintended and intended exploitation paths.
 >
-> **[10:22](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=622)** Now, let's pivot over to the Linux box.
+> **[10:22](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=622)** Now, let's pivot over to the [[Linux]] box.
 >
 > **[10:27](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-windows?u=76281980&t=627)** But what I'm going to do is make another video for that.
 >
@@ -11091,7 +11024,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (7), web (3), [[Python (Programming Language)|Python]] (2), [[OSCP]] (2), [[Powershell]] (2)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Netcat]] (6), [[Metasploit]] (3), [[Python (Programming Language)|Python]] (2), [[OSCP]] (2)
 > **CLI Commands:** make (8), python (2), systemctl (1)
 > **Env Vars:** http (2), oscp (2), lhost (1), lport (1)
 > **Versions:** 192.168.1 (3), 2.3 (1), python 3 (1)
@@ -11100,14 +11033,13 @@ created: 2026-05-02
 > **Tools:** powershell (2)
 > **File Paths:** flag.txt (1)
 
-#### Privilege escalation walkthrough: Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980)
+#### [Privilege escalation walkthrough: Linux](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=1)** Welcome to Part 2 of the Privilege Escalation Lab.
 >
-> **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=3)** Now, we're going to focus on the Linux box.
+> **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=3)** Now, we're going to focus on the [[Linux]] box.
 >
 > **[0:07](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=7)** So I hinted that it is web-based, the foothold.
 >
@@ -11121,7 +11053,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=37)** There are apparently 11 others. So try all 11 if you want to but this is how you get better, right, through practice.
 >
-> **[0:49](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=49)** So, okay. So now, I want to -- I could use dirb on this.
+> **[0:49](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=49)** So, okay. So now, I want to -- I could use [[Dirb]] on this.
 >
 > **[0:58](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=58)** I told you, I like to use WhatWeb to see the technology.
 >
@@ -11133,9 +11065,9 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=75)** Okay.
 >
-> **[1:18](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=78)** Nothing earth-shattering here Here we seize Ubuntu.
+> **[1:18](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=78)** Nothing earth-shattering here Here we seize [[Ubuntu]].
 >
-> **[1:25](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=85)** So if I run dirb, and I specify for extension PHP,
+> **[1:25](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=85)** So if I run dirb, and I specify for extension [[PHP]],
 >
 > **[1:41](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=101)** we see we have shell.php.
 >
@@ -11149,7 +11081,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=120)** PHP shells aren't the best.
 >
-> **[2:02](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=122)** So I'm going to use msfvenom, payload is going to be Linux x86.
+> **[2:02](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=122)** So I'm going to use [[Metasploit|msfvenom]], payload is going to be Linux x86.
 >
 > **[2:12](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=132)** We can do meterpreter.
 >
@@ -11161,11 +11093,11 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=161)** So because I'm using meterpreter, I now have to use.
 >
-> **[2:46](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=166)** Metasploit.
+> **[2:46](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=166)** [[Metasploit]].
 >
 > **[2:51](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=171)** So I can split this.
 >
-> **[2:55](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=175)** I am going to do msfconsole.
+> **[2:55](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=175)** I am going to do [[Metasploit|msfconsole]].
 >
 > **[3:03](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=183)** Now, we have to use multi-handler. Right.
 >
@@ -11233,7 +11165,7 @@ created: 2026-05-02
 >
 > **[6:26](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=386)** SUID type F.
 >
-> **[6:33](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=393)** And again, I think the Bible for this or the manual is g0tmi1k's Linux privilege escalation guide.
+> **[6:33](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=393)** And again, I think the Bible for this or the manual is [[g0tmi1k]]'s Linux privilege escalation guide.
 >
 > **[6:48](https://www.linkedin.com/learning/offensive-penetration-testing/privilege-escalation-walkthrough-linux?u=76281980&t=408)** We'll see something interesting towards the end here.
 >
@@ -11273,7 +11205,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), [[PHP]] (3), web (1), [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[PHP]] (3), [[Dirb]] (2), [[Ubuntu]] (1), [[Metasploit|Msfvenom]] (1)
 > **CLI Commands:** php (3), make (2), chmod (2), find (2), apache (1)
 > **Env Vars:** suid (4), php (2), lhost (2), lport (2)
 > **Versions:** 192.168.1 (4)
@@ -11287,8 +11219,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to password cracking tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980)
+#### [Introduction to password cracking tools](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11296,17 +11227,17 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=5)** An introduction of password cracking tools.
 >
-> **[0:08](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=8)** Our learning objective is to explain the various tools available to identify hash values and crack passwords in Kali Linux.
+> **[0:08](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=8)** Our learning objective is to explain the various tools available to identify hash values and crack passwords in [[Kali Linux]].
 >
 > **[0:17](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=17)** So in Kali, we have two weapons of choice, if you will.
 >
-> **[0:21](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=21)** One is John the Ripper, and this is my favorite of the two.
+> **[0:21](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=21)** One is [[John the Ripper]], and this is my favorite of the two.
 >
 > **[0:25](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=25)** And it is a command line tool that used to have this great GUI or still does, but it's not in Kali anymore by default called Johnny.
 >
 > **[0:34](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=34)** And it was -- I know I said I like the command line better, but out of all the GUI-based tools, this was probably my favorite to use and it was very, very user-friendly.
 >
-> **[0:43](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=43)** Hashcat takes a little bit of getting used to.
+> **[0:43](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=43)** [[Hashcat]] takes a little bit of getting used to.
 >
 > **[0:47](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=47)** There's a steeper learning curve and you really need to know what hash you're working with, otherwise you're not going to crack the password.
 >
@@ -11314,7 +11245,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=59)** So first things first.
 >
-> **[1:01](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=61)** You're doing OSCP and you come across a long string of letters and numbers and dollar signs and you don't know what it is.
+> **[1:01](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=61)** You're doing [[OSCP]] and you come across a long string of letters and numbers and dollar signs and you don't know what it is.
 >
 > **[1:09](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=69)** Of course, this goes for PWK and other labs that you do, and CTFs is it's a hash value.
 >
@@ -11332,7 +11263,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=88)** One is called hashid and as you see here, I had a file named Shadow and I simply did hashid shadow and analyzed the hash value and it came up with SHA 512 Crypt.
 >
-> **[1:41](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=101)** I also did it where I specified the hash just in the command line within single quotes here and it came up with WordPress, Joomla, and PHP pass.
+> **[1:41](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=101)** I also did it where I specified the hash just in the command line within single quotes here and it came up with [[WordPress]], Joomla, and [[PHP]] pass.
 >
 > **[1:51](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=111)** Well, I found this on a WordPress site so I bet you can guess which one that is.
 >
@@ -11340,7 +11271,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=123)** You have to put every hash in there individually.
 >
-> **[2:09](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=129)** Of course, you can also use Google.
+> **[2:09](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=129)** Of course, you can also use [[Google]].
 >
 > **[2:10](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=130)** If you see something dollar sign, p dollar sign, you can google that and figure out what that is.
 >
@@ -11350,7 +11281,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=148)** I say you should learn both.
 >
-> **[2:30](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=150)** But Johnny is very, very forgiving because you can simply type John put in the password file and it will try to figure out what that hash value is and crack it for you.
+> **[2:30](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=150)** But Johnny is very, very forgiving because you can simply type [[John the Ripper|John]] put in the password file and it will try to figure out what that hash value is and crack it for you.
 >
 > **[2:40](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=160)** There's also the "single crack" mode.
 >
@@ -11366,7 +11297,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=193)** It already knew that it was SHA 512.
 >
-> **[3:15](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=195)** So you'll see here that it's using a default word list usr/share/ John password list, which is a pretty good list.
+> **[3:15](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=195)** So you'll see here that it's using a default [[Microsoft Word|word]] list usr/share/ John password list, which is a pretty good list.
 >
 > **[3:23](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-password-cracking-tools?u=76281980&t=203)** I would say a lot of people default to rockyou.txt which is zipped in Kali Linux.
 >
@@ -11450,7 +11381,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Google]] (3), [[Kali Linux]] (2), [[WordPress]] (2), [[OSCP]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (12), [[Hashcat]] (9), [[Microsoft Word|Word]] (6), [[Google]] (3), [[Kali Linux]] (2)
 > **Env Vars:** md5 (4), sha (3), gui (2), oscp (1), pwk (1)
 > **Definitions:** is a  (4), is called (1)
 > **CLI Commands:** make (2), php (1), unzip (1)
@@ -11458,14 +11389,13 @@ created: 2026-05-02
 > **Tools:** command line (3)
 > **Analogies:** just like (1)
 
-#### Introduction to login brute-forcing tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-login-brute-forcing-tools?u=76281980)
+#### [Introduction to login brute-forcing tools](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-login-brute-forcing-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-login-brute-forcing-tools?u=76281980&t=0)** An Introduction to Login Brute-Forcing Tools.
 >
-> **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-login-brute-forcing-tools?u=76281980&t=3)** Our learning objective is to understand the different tools in Kali Linux to brute-force logins.
+> **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-login-brute-forcing-tools?u=76281980&t=3)** Our learning objective is to understand the different tools in [[Kali Linux]] to brute-force logins.
 >
 > **[0:09](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-login-brute-forcing-tools?u=76281980&t=9)** So we come across SSH or Telnet if it's an old system or SMB and it asks us for a username and password.
 >
@@ -11473,9 +11403,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-login-brute-forcing-tools?u=76281980&t=26)** Well, how do we brute-force this?
 >
-> **[0:28](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-login-brute-forcing-tools?u=76281980&t=28)** The hope is that we do have some users that we've enumerated and we have a whole long password list that we can use, but the tools of the trade in brute-forcing logins are Hydra, Medusa, and ncrack are all available in Kali Linux.
+> **[0:28](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-login-brute-forcing-tools?u=76281980&t=28)** The hope is that we do have some users that we've enumerated and we have a whole long password list that we can use, but the tools of the trade in brute-forcing logins are [[Hydra]], Medusa, and ncrack are all available in Kali Linux.
 >
-> **[0:46](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-login-brute-forcing-tools?u=76281980&t=46)** My favorite is THC-Hydra.
+> **[0:46](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-login-brute-forcing-tools?u=76281980&t=46)** My favorite is [[Hydra|THC-Hydra]].
 >
 > **[0:49](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-login-brute-forcing-tools?u=76281980&t=49)** I think it's the most effective that Framework that I've used.
 >
@@ -11489,7 +11419,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-login-brute-forcing-tools?u=76281980&t=76)** this can be a very, very effective tool.
 >
-> **[1:19](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-login-brute-forcing-tools?u=76281980&t=79)** You can also use it to crack web forms, which I'll talk about in the next lesson, but I just like the versatility of Hydra.
+> **[1:19](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-login-brute-forcing-tools?u=76281980&t=79)** You can also use it to crack web [[Forms]], which I'll talk about in the next lesson, but I just like the versatility of Hydra.
 >
 > **[1:28](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-login-brute-forcing-tools?u=76281980&t=88)** Medusa.
 >
@@ -11519,7 +11449,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-login-brute-forcing-tools?u=76281980&t=144)** So I like Hydra, I've used Medusa and I don't find anything wrong with Medusa.
 >
-> **[2:30](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-login-brute-forcing-tools?u=76281980&t=150)** And there's also ncrack, so ncrack is from the makers of Nmap.
+> **[2:30](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-login-brute-forcing-tools?u=76281980&t=150)** And there's also ncrack, so ncrack is from the makers of [[Nmap]].
 >
 > **[2:33](https://www.linkedin.com/learning/offensive-penetration-testing/introduction-to-login-brute-forcing-tools?u=76281980&t=153)** So they -- if you were used to using Nmap, the makers are the same that made ncrack.
 >
@@ -11541,7 +11471,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kali Linux]] (2), web (1), [[Forms]] (1), next (1)
+> **Frameworks & Libraries:** [[Hydra]] (6), [[Nmap]] (4), [[Kali Linux]] (2), [[Hydra|Thc-hydra]] (1), [[Forms]] (1)
 > **Env Vars:** ssh (3), smb (3), thc (1), ftp (1), pwk (1)
 > **CLI Commands:** ssh (3), find (1)
 > **Cross-References:** in the next (1)
@@ -11549,8 +11479,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 
-#### Password brute-forcing web logins
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-web-logins?u=76281980)
+#### [Password brute-forcing web logins](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-web-logins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11558,7 +11487,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-web-logins?u=76281980&t=3)** Our learning objectives are to understand the different tools in Kali to brute-force web logins.
 >
-> **[0:08](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-web-logins?u=76281980&t=8)** Hydra is my go-to tool because I think it's really, really fast compared to Burp Suite.
+> **[0:08](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-web-logins?u=76281980&t=8)** [[Hydra]] is my go-to tool because I think it's really, really fast compared to [[Burp Suite]].
 >
 > **[0:15](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-web-logins?u=76281980&t=15)** Burp Suite can be very, very slow.
 >
@@ -11602,7 +11531,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-web-logins?u=76281980&t=112)** But if you're using the community edition and you're brute-forcing a thousand passwords, that's going to take you a really long time.
 >
-> **[1:58](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-web-logins?u=76281980&t=118)** And time is of the essence in OSCP.
+> **[1:58](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-web-logins?u=76281980&t=118)** And time is of the essence in [[OSCP]].
 >
 > **[2:01](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-web-logins?u=76281980&t=121)** So here's Burp Suite.
 >
@@ -11630,7 +11559,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-web-logins?u=76281980&t=182)** Always check for default passwords as well.
 >
-> **[3:06](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-web-logins?u=76281980&t=186)** You can save a whole lot of time if you just research with the default password is for that service or that content management system or whatever you may find, and it could be that easy.
+> **[3:06](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-web-logins?u=76281980&t=186)** You can save a whole lot of time if you just research with the default password is for that service or that [[Content Management]] system or whatever you may find, and it could be that easy.
 >
 > **[3:18](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-web-logins?u=76281980&t=198)** So you may not even have to waste your time trying to brute-force a login.
 >
@@ -11646,7 +11575,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-web-logins?u=76281980&t=224)** So how do I figure out?
 >
-> **[3:45](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-web-logins?u=76281980&t=225)** I see it's a WordPress site, which is great.
+> **[3:45](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-web-logins?u=76281980&t=225)** I see it's a [[WordPress]] site, which is great.
 >
 > **[3:47](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-web-logins?u=76281980&t=227)** Right.
 >
@@ -11678,7 +11607,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-web-logins?u=76281980&t=270)** So what I want to do is I want to use CWEL because I want to scrape that turtle page and see if the password might be in there.
 >
-> **[4:44](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-web-logins?u=76281980&t=284)** So I'm going to use CWEL My depth is one, my minimum word length is five.
+> **[4:44](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-web-logins?u=76281980&t=284)** So I'm going to use CWEL My depth is one, my minimum [[Microsoft Word|word]] length is five.
 >
 > **[4:51](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-web-logins?u=76281980&t=291)** I'm going to write to something called turtle.txt from the output of this tool.
 >
@@ -11812,15 +11741,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Burp Suite]] (12), web (5), data (3), [[WordPress]] (3), [[OSCP]] (1)
+> **Frameworks & Libraries:** [[Hydra]] (13), [[Burp Suite]] (12), [[WordPress]] (3), [[OSCP]] (1), [[Content Management]] (1)
 > **Env Vars:** cwel (4), http (1), oscp (1), cewl (1)
 > **CLI Commands:** cat (2), make (2), find (1)
 > **UI Navigation:** go to (4)
 > **Definitions:** is a  (4)
 > **File Paths:** turtle.txt (3)
 
-#### Password brute-forcing tips
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-tips?u=76281980)
+#### [Password brute-forcing tips](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-tips?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11828,7 +11756,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-tips?u=76281980&t=2)** Our learning objective is to describe some useful tips when trying to brute-force protocols and web services.
 >
-> **[0:09](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-tips?u=76281980&t=9)** So you saw what I did on that WordPress site.
+> **[0:09](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-tips?u=76281980&t=9)** So you saw what I did on that [[WordPress]] site.
 >
 > **[0:12](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-tips?u=76281980&t=12)** I put a user in there.
 >
@@ -11842,7 +11770,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-tips?u=76281980&t=44)** So be aware of that.
 >
-> **[0:45](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-tips?u=76281980&t=45)** The other thing is a test between Hydra, ncrack, and Medusa showed ncrack was the fastest.
+> **[0:45](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-tips?u=76281980&t=45)** The other thing is a test between [[Hydra]], ncrack, and Medusa showed ncrack was the fastest.
 >
 > **[0:52](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-tips?u=76281980&t=52)** Now, that's good to know.
 >
@@ -11866,7 +11794,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-tips?u=76281980&t=87)** There are other ones you can use that are more targeted rather than waiting days for rockyou to find the correct password.
 >
-> **[1:36](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-tips?u=76281980&t=96)** There are lists already in Kali under user share word lists.
+> **[1:36](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-tips?u=76281980&t=96)** There are lists already in Kali under user share [[Microsoft Word|word]] lists.
 >
 > **[1:41](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-tips?u=76281980&t=101)** Also, you can create a custom wordlist.
 >
@@ -11904,7 +11832,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-tips?u=76281980&t=194)** I can try to enumerate users on this box by doing a few different things.
 >
-> **[3:20](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-tips?u=76281980&t=200)** So what I want to do is I want to use Nmap, and I've already determined that simple network management protocol, SNMP is enabled here.
+> **[3:20](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-tips?u=76281980&t=200)** So what I want to do is I want to use [[Nmap]], and I've already determined that simple network management protocol, SNMP is enabled here.
 >
 > **[3:33](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-tips?u=76281980&t=213)** So I'm going to do Nmap SU, notice I'm already root so I don't need to do sU do port 161 sC. This is going to do the the default scripts for SNMP and let's see what we get.
 >
@@ -11960,7 +11888,7 @@ created: 2026-05-02
 >
 > **[6:13](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-tips?u=76281980&t=373)** We're using rockyou, again.
 >
-> **[6:16](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-tips?u=76281980&t=376)** We're using HTTP head request and index site HTML.
+> **[6:16](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-tips?u=76281980&t=376)** We're using HTTP head request and index site [[HTML]].
 >
 > **[6:23](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-tips?u=76281980&t=383)** So Nmap already found it.
 >
@@ -12016,7 +11944,7 @@ created: 2026-05-02
 >
 > **[8:36](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-tips?u=76281980&t=516)** I'll paste one of these hashes and it tells me that it's a SHA 512 so I will get out of here.
 >
-> **[8:44](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-tips?u=76281980&t=524)** And now I want to use John on this file.
+> **[8:44](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-tips?u=76281980&t=524)** And now I want to use [[John the Ripper|John]] on this file.
 >
 > **[8:51](https://www.linkedin.com/learning/offensive-penetration-testing/password-brute-forcing-tips?u=76281980&t=531)** And because I know what it is, I want to specify that.
 >
@@ -12086,7 +12014,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[WordPress]] (2), [[Microsoft Word|Word]] (1), management (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Hydra]] (12), [[Nmap]] (6), [[WordPress]] (2), [[John the Ripper|John]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** ieuser (7), snmp (5), smb (5), sha (3), oid (2)
 > **CLI Commands:** find (4), make (2), ssh (1)
 > **Warnings:** be aware (4)
@@ -12095,8 +12023,7 @@ created: 2026-05-02
 > **Versions:** 192.168.1 (2)
 > **Definitions:** is a  (2)
 
-#### Brute-force and password-cracking lab
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab?u=76281980)
+#### [Brute-force and password-cracking lab](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12104,9 +12031,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab?u=76281980&t=4)** Your lab objectives are to crack the passwords on the Kali's root user's desktop.
 >
-> **[0:08](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab?u=76281980&t=8)** You'll notice two files there, and you'll probably be able to identify what type of hash they are by the name of it, but also use hashid or hash-identifier to figure out what they are and also get on the Linux machine and crack as many passwords as you can by combining the /etc/passwd and /etc/shadow files using John the Ripper.
+> **[0:08](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab?u=76281980&t=8)** You'll notice two files there, and you'll probably be able to identify what type of hash they are by the name of it, but also use hashid or hash-identifier to figure out what they are and also get on the [[Linux]] machine and crack as many passwords as you can by combining the /etc/passwd and /etc/shadow files using [[John the Ripper]].
 >
-> **[0:29](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab?u=76281980&t=29)** John has an unshadow function that you can use to combine these two files to crack passwords.
+> **[0:29](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab?u=76281980&t=29)** [[John the Ripper|John]] has an unshadow function that you can use to combine these two files to crack passwords.
 >
 > **[0:36](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab?u=76281980&t=36)** So that's a big hint I'm giving you there.
 >
@@ -12116,10 +12043,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[John the Ripper]] (1), [[John the Ripper|John]] (1)
 
-#### Brute-force and password-cracking lab walkthrough
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab-walkthrough?u=76281980)
+#### [Brute-force and password-cracking lab walkthrough](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab-walkthrough?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12159,7 +12085,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab-walkthrough?u=76281980&t=96)** We see it's here now.
 >
-> **[1:40](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab-walkthrough?u=76281980&t=100)** So this will help me with my format with John.
+> **[1:40](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab-walkthrough?u=76281980&t=100)** So this will help me with my format with [[John the Ripper|John]].
 >
 > **[1:44](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab-walkthrough?u=76281980&t=104)** So I can do John MD5 format equals raw MD5.
 >
@@ -12185,9 +12111,9 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab-walkthrough?u=76281980&t=174)** So that's why identifying them off the bat is very helpful.
 >
-> **[2:59](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab-walkthrough?u=76281980&t=179)** So now, we need to get on to this host, this Linux host, which is Metasploitable.
+> **[2:59](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab-walkthrough?u=76281980&t=179)** So now, we need to get on to this host, this [[Linux]] host, which is Metasploitable.
 >
-> **[3:05](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab-walkthrough?u=76281980&t=185)** If you did Nmap On port 1524, you'll notice something interesting.
+> **[3:05](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab-walkthrough?u=76281980&t=185)** If you did [[Nmap]] On port 1524, you'll notice something interesting.
 >
 > **[3:23](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab-walkthrough?u=76281980&t=203)** Probably, the easiest way to get on the box.
 >
@@ -12195,7 +12121,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab-walkthrough?u=76281980&t=213)** Well, that's pretty easy. Right.
 >
-> **[3:36](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab-walkthrough?u=76281980&t=216)** So we do netcat 192.168.1.30: 1524.
+> **[3:36](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab-walkthrough?u=76281980&t=216)** So we do [[Netcat]] 192.168.1.30: 1524.
 >
 > **[3:44](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab-walkthrough?u=76281980&t=224)** Now, we are root.
 >
@@ -12237,7 +12163,7 @@ created: 2026-05-02
 >
 > **[6:38](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab-walkthrough?u=76281980&t=398)** Because we've done this before.
 >
-> **[6:40](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab-walkthrough?u=76281980&t=400)** We know that MSF admin's password is MSF admin.
+> **[6:40](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab-walkthrough?u=76281980&t=400)** We know that [[Metasploit|MSF]] admin's password is MSF admin.
 >
 > **[6:45](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab-walkthrough?u=76281980&t=405)** I wonder if that's in rockyou.txt. So you can do msfadmin and see if it's in user/share/wordlist/rockyou.
 >
@@ -12277,13 +12203,13 @@ created: 2026-05-02
 >
 > **[8:27](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab-walkthrough?u=76281980&t=507)** So we have root is msfadmin.
 >
-> **[8:28](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab-walkthrough?u=76281980&t=508)** Sys is batman, klog, msfadmin, postgres, user, service, administrator.
+> **[8:28](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab-walkthrough?u=76281980&t=508)** Sys is batman, klog, msfadmin, [[PostgreSQL|postgres]], user, service, administrator.
 >
 > **[8:37](https://www.linkedin.com/learning/offensive-penetration-testing/brute-force-and-password-cracking-lab-walkthrough?u=76281980&t=517)** So that is how you crack all those passwords.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (1), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (6), [[Metasploit|Msf]] (2), [[Linux]] (1), [[Nmap]] (1), [[Netcat]] (1)
 > **Env Vars:** sha (6), md5 (4), msf (2)
 > **CLI Commands:** cat (3), find (2), unzip (1), make (1)
 > **File Paths:** rockyou.txt (2)
@@ -12298,16 +12224,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hands-on penetration test lab
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab?u=76281980)
+#### [Hands-on penetration test lab](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab?u=76281980&t=1)** Welcome to your final capstone lab.
+> **[0:01](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab?u=76281980&t=1)** Welcome to your final [[Capstone]] lab.
 >
 > **[0:03](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab?u=76281980&t=3)** The hands-on penetration test lab.
 >
-> **[0:06](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab?u=76281980&t=6)** Your lab objective here is to become the root user on the Linux host by whatever means you can.
+> **[0:06](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab?u=76281980&t=6)** Your lab objective here is to become the root user on the [[Linux]] host by whatever means you can.
 >
 > **[0:13](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab?u=76281980&t=13)** So think about all the tools and techniques you've learned throughout this course.
 >
@@ -12319,8 +12244,7 @@ created: 2026-05-02
 >
 > **Frameworks & Libraries:** [[Capstone]] (1), [[Linux]] (1)
 
-#### Hands-on penetration test lab walkthrough
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980)
+#### [Hands-on penetration test lab walkthrough](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12338,25 +12262,25 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=33)** Port 22 is filtered, 80 is open Apache.
 >
-> **[0:36](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=36)** You could, of course, google this and see if there's any vulnerabilities for it and as well as a squid proxy.
+> **[0:36](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=36)** You could, of course, [[Google]] this and see if there's any vulnerabilities for it and as well as a squid proxy.
 >
 > **[0:42](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=42)** So of course, because 80 is open, I'm going to use my web browser to go to this page and I see it's a login page.
 >
 > **[0:50](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=50)** I'll also view the source to see if there's anything interesting, which I don't really.
 >
-> **[0:57](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=57)** And I also see that we have Apache, PHP, and Debian operating system.
+> **[0:57](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=57)** And I also see that we have Apache, [[PHP]], and Debian operating system.
 >
-> **[1:05](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=65)** So at least I know we're dealing with Linux here.
+> **[1:05](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=65)** So at least I know we're dealing with [[Linux]] here.
 >
 > **[1:09](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=69)** So how do I get onto this box?
 >
 > **[1:12](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=72)** This might take you a long time trying to get in here.
 >
-> **[1:15](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=75)** If I do test@[test.com](https://test.com), single quote and anything for password, we see that there was an error running the query and that we're dealing with MySQL.
+> **[1:15](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=75)** If I do test@[test.com](https://test.com), single quote and anything for password, we see that there was an error running the query and that we're dealing with [[MySQL]].
 >
 > **[1:27](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=87)** Right.
 >
-> **[1:27](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=87)** So this is an error-based SQL injection.
+> **[1:27](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=87)** So this is an error-based [[SQL]] injection.
 >
 > **[1:31](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=91)** Well, it doesn't respond to our typical or one equals one.
 >
@@ -12370,7 +12294,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=106)** So this is the only comment that it will work with and this will get you some good information.
 >
-> **[1:53](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=113)** This is welcome john@[skytech.com](https://skytech.com).
+> **[1:53](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=113)** This is welcome [[John the Ripper|john]]@[skytech.com](https://skytech.com).
 >
 > **[1:55](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=115)** So, unfortunately, you have to -- you only have $2 here, so -- but we have a username and password for SSH.
 >
@@ -12390,7 +12314,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=154)** And what this will do is should allow us to use proxy chains to do things like enumerate.
 >
-> **[2:42](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=162)** So if you want to use Nmap, you have to be very, very careful with proxy chains.
+> **[2:42](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=162)** So if you want to use [[Nmap]], you have to be very, very careful with proxy chains.
 >
 > **[2:47](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=167)** So in order to use Nmap with proxy chains, you have to use sT and Pn and you'll notice if we run this, Port 22 is open. So we can now use Port 22 -- you can use proxy chains to SSH in and we have John's information.
 >
@@ -12420,7 +12344,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=253)** MySQL user is root, password is root.
 >
-> **[4:21](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=261)** And now we're in the database, so shell databases.
+> **[4:21](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=261)** And now we're in the database, so shell [[Databases]].
 >
 > **[4:28](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=268)** And we saw from that login script, it was using SkyTech. So we can use SkyTech.
 >
@@ -12520,7 +12444,7 @@ created: 2026-05-02
 >
 > **[8:17](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=497)** So that is how you go from basically enumerating with Nmap finding that we have a squid proxy and we also have a login.
 >
-> **[8:30](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=510)** You can try SQLMap.
+> **[8:30](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=510)** You can try [[SQLmap]].
 >
 > **[8:32](https://www.linkedin.com/learning/offensive-penetration-testing/hands-on-penetration-test-lab-walkthrough?u=76281980&t=512)** I didn't get -- SQLMap wouldn't work for me on this and that's one of the reasons why I picked this. But SQLMap wouldn't work on this web form.
 >
@@ -12546,7 +12470,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[MySQL]] (3), [[SQL]] (3), [[PHP]] (2), database (2)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (7), [[MySQL]] (3), [[SQL]] (3), [[Nmap]] (3), [[SQLmap]] (3)
 > **CLI Commands:** sudo (6), cat (5), ls (5), ssh (4), mysql (3)
 > **Env Vars:** ssh (4), sql (3), php (1), http (1)
 > **URLs:** [test.com](https://test.com) (1), [skytech.com](https://skytech.com) (1), [http://192.168.1.90](http://192.168.1.90) (1), [http://31283128](http://31283128) (1)
@@ -12555,8 +12479,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Definitions:** is an  (1), is a  (1)
 
-#### Writing the report
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/writing-the-report?u=76281980)
+#### [Writing the report](https://www.linkedin.com/learning/offensive-penetration-testing/writing-the-report?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12564,7 +12487,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/offensive-penetration-testing/writing-the-report?u=76281980&t=16)** So you will be exhausted.
 >
-> **[0:18](https://www.linkedin.com/learning/offensive-penetration-testing/writing-the-report?u=76281980&t=18)** At least I was taking OSCP and the stress and not being able to sleep well.
+> **[0:18](https://www.linkedin.com/learning/offensive-penetration-testing/writing-the-report?u=76281980&t=18)** At least I was taking [[OSCP]] and the stress and not being able to sleep well.
 >
 > **[0:24](https://www.linkedin.com/learning/offensive-penetration-testing/writing-the-report?u=76281980&t=24)** So you're going to be very tired after the lab environment.
 >
@@ -12614,7 +12537,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/offensive-penetration-testing/writing-the-report?u=76281980&t=149)** So when I look back in my notes, when I'm in the Pen 200 PWK environment and I'm like, what was I writing? That helps me hone in on, you know, what I should use.
 >
-> **[2:38](https://www.linkedin.com/learning/offensive-penetration-testing/writing-the-report?u=76281980&t=158)** Should I use one node. Is one node effective? Is putting everything into a word doc effective?
+> **[2:38](https://www.linkedin.com/learning/offensive-penetration-testing/writing-the-report?u=76281980&t=158)** Should I use one node. Is one node effective? Is putting everything into a [[Microsoft Word|word]] doc effective?
 >
 > **[2:43](https://www.linkedin.com/learning/offensive-penetration-testing/writing-the-report?u=76281980&t=163)** No, it's not.
 >
@@ -12636,7 +12559,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/offensive-penetration-testing/writing-the-report?u=76281980&t=196)** That's something I forgot to do in my first attempt in OSCP is scan all the ports.
 >
-> **[3:21](https://www.linkedin.com/learning/offensive-penetration-testing/writing-the-report?u=76281980&t=201)** And that's why I told you when you do your Nmap scan, do all the ports -p- to scan all the ports.
+> **[3:21](https://www.linkedin.com/learning/offensive-penetration-testing/writing-the-report?u=76281980&t=201)** And that's why I told you when you do your [[Nmap]] scan, do all the ports -p- to scan all the ports.
 >
 > **[3:27](https://www.linkedin.com/learning/offensive-penetration-testing/writing-the-report?u=76281980&t=207)** You can also try UDP as well.
 >
@@ -12686,7 +12609,7 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/offensive-penetration-testing/writing-the-report?u=76281980&t=304)** So for me, Snagit is really great.
 >
-> **[5:06](https://www.linkedin.com/learning/offensive-penetration-testing/writing-the-report?u=76281980&t=306)** I also use just native word editing software in Microsoft Word, and that worked fine as well.
+> **[5:06](https://www.linkedin.com/learning/offensive-penetration-testing/writing-the-report?u=76281980&t=306)** I also use just native word editing software in [[Microsoft Word]], and that worked fine as well.
 >
 > **[5:13](https://www.linkedin.com/learning/offensive-penetration-testing/writing-the-report?u=76281980&t=313)** But I do other things, you know, especially like in the bug bounty world or professionally pentesting, then I really, really think Snagit is the way to go.
 >
@@ -12766,7 +12689,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OSCP]] (7), node (2), [[Microsoft Word|Word]] (2), [[Microsoft Word]] (1), business (1)
+> **Frameworks & Libraries:** [[OSCP]] (7), [[Microsoft Word|Word]] (2), [[Nmap]] (1), [[Microsoft Word]] (1)
 > **Env Vars:** oscp (7), pwk (3), udp (2), cve (2), cvss (2)
 > **CLI Commands:** make (6), find (3), node (2)
 > **Best Practices:** don't forget (3)
@@ -12779,8 +12702,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the hacker mindset
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-hacker-mindset?u=76281980)
+#### [Understanding the hacker mindset](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-hacker-mindset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12806,7 +12728,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-hacker-mindset?u=76281980&t=57)** So that was a positive thing from the inception of the term "hacker."
 >
-> **[1:03](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-hacker-mindset?u=76281980&t=63)** So I'm part of a group called Hacking is not a Crime, and we basically try to spread the word that a hacker is not a bad person.
+> **[1:03](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-hacker-mindset?u=76281980&t=63)** So I'm part of a group called Hacking is not a Crime, and we basically try to spread the [[Microsoft Word|word]] that a hacker is not a bad person.
 >
 > **[1:10](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-hacker-mindset?u=76281980&t=70)** When the news says a hacker broke into this and they show people with the hood on and gloves because, you know, you got to wear gloves when you type, that's definitely the wrong image.
 >
@@ -12868,7 +12790,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-hacker-mindset?u=76281980&t=199)** But yes, there are definitely jobs out there that are very line by line by line in the instruction manual have to follow X, Y, and Z.
 >
-> **[3:27](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-hacker-mindset?u=76281980&t=207)** So that's to say when we go to school and we learn all these things and structure, you know, it kind of gives you a disservice when it comes to thinking strategically and laterally around problems and becoming mentally agile.
+> **[3:27](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-hacker-mindset?u=76281980&t=207)** So that's to say when we go to school and we learn all these things and structure, you know, it kind of gives you a disservice when it comes to thinking strategically and laterally around problems and becoming mentally [[Agile Development|agile]].
 >
 > **[3:41](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-hacker-mindset?u=76281980&t=221)** So if you've been a hacker and you've been in these CTFs and even if you've done this professionally, you fail, you fail a lot.
 >
@@ -12894,7 +12816,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-hacker-mindset?u=76281980&t=275)** And this is what I talk about where enumeration is so important.
 >
-> **[4:39](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-hacker-mindset?u=76281980&t=279)** If you're on a web server and you're putting an ASP shell on something that has PHP, is not going to work, or if I'm trying to do remote code execution on a Windows box and I'm catting /etc/passwd and it's not working, well, why am I doing that?
+> **[4:39](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-hacker-mindset?u=76281980&t=279)** If you're on a web server and you're putting an ASP shell on something that has [[PHP]], is not going to work, or if I'm trying to do remote code execution on a [[Windows]] box and I'm catting /etc/passwd and it's not working, well, why am I doing that?
 >
 > **[4:53](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-hacker-mindset?u=76281980&t=293)** I'm not being smart about my enumeration.
 >
@@ -12902,7 +12824,7 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-hacker-mindset?u=76281980&t=302)** So think about that.
 >
-> **[5:03](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-hacker-mindset?u=76281980&t=303)** You're going to be nervous and you're going to be tired in OSCP.
+> **[5:03](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-hacker-mindset?u=76281980&t=303)** You're going to be nervous and you're going to be tired in [[OSCP]].
 >
 > **[5:07](https://www.linkedin.com/learning/offensive-penetration-testing/understanding-the-hacker-mindset?u=76281980&t=307)** So I don't blame you if you do that by accident.
 >
@@ -12930,15 +12852,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), [[Microsoft Word|Word]] (2), [[Windows]] (2), career (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Microsoft Word|Word]] (2), [[Windows]] (2), [[Agile Development|Agile]] (1), [[OSCP]] (1)
 > **CLI Commands:** make (3), php (3), find (1)
 > **Env Vars:** php (3), asp (2), mit (1), oscp (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
-#### Tips on harnessing the hacker mindset
-> [LinkedIn Learning](https://www.linkedin.com/learning/offensive-penetration-testing/tips-on-harnessing-the-hacker-mindset?u=76281980)
+#### [Tips on harnessing the hacker mindset](https://www.linkedin.com/learning/offensive-penetration-testing/tips-on-harnessing-the-hacker-mindset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -12948,7 +12869,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/offensive-penetration-testing/tips-on-harnessing-the-hacker-mindset?u=76281980&t=10)** So enumeration.
 >
-> **[0:11](https://www.linkedin.com/learning/offensive-penetration-testing/tips-on-harnessing-the-hacker-mindset?u=76281980&t=11)** You will hear that so many times in guides and manuals and everything about OSCP.
+> **[0:11](https://www.linkedin.com/learning/offensive-penetration-testing/tips-on-harnessing-the-hacker-mindset?u=76281980&t=11)** You will hear that so many times in guides and manuals and everything about [[OSCP]].
 >
 > **[0:16](https://www.linkedin.com/learning/offensive-penetration-testing/tips-on-harnessing-the-hacker-mindset?u=76281980&t=16)** Everyone will say it's all about enumeration and they're so right and it's so easy to say that. Right.
 >
@@ -12956,7 +12877,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/offensive-penetration-testing/tips-on-harnessing-the-hacker-mindset?u=76281980&t=25)** And there's a strategy to that.
 >
-> **[0:28](https://www.linkedin.com/learning/offensive-penetration-testing/tips-on-harnessing-the-hacker-mindset?u=76281980&t=28)** And the strategy is to keep doing things labs over and over again so you understand the infrastructure of Linux and Windows and maybe they'll throw in an operating system you've never seen before.
+> **[0:28](https://www.linkedin.com/learning/offensive-penetration-testing/tips-on-harnessing-the-hacker-mindset?u=76281980&t=28)** And the strategy is to keep doing things labs over and over again so you understand the infrastructure of [[Linux]] and [[Windows]] and maybe they'll throw in an operating system you've never seen before.
 >
 > **[0:41](https://www.linkedin.com/learning/offensive-penetration-testing/tips-on-harnessing-the-hacker-mindset?u=76281980&t=41)** And then you have to think, you know, what should I do here?
 >
@@ -12964,7 +12885,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/offensive-penetration-testing/tips-on-harnessing-the-hacker-mindset?u=76281980&t=48)** So that's to say that enumeration is important.
 >
-> **[0:52](https://www.linkedin.com/learning/offensive-penetration-testing/tips-on-harnessing-the-hacker-mindset?u=76281980&t=52)** Google is your friend.
+> **[0:52](https://www.linkedin.com/learning/offensive-penetration-testing/tips-on-harnessing-the-hacker-mindset?u=76281980&t=52)** [[Google]] is your friend.
 >
 > **[0:53](https://www.linkedin.com/learning/offensive-penetration-testing/tips-on-harnessing-the-hacker-mindset?u=76281980&t=53)** Just a funny story is I worked with some FBI computer scientists when I was an agent and I would say, hey, you get a lot of your answers by googling.
 >
@@ -13004,7 +12925,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/offensive-penetration-testing/tips-on-harnessing-the-hacker-mindset?u=76281980&t=157)** And now you need to learn the cloud.
 >
-> **[2:39](https://www.linkedin.com/learning/offensive-penetration-testing/tips-on-harnessing-the-hacker-mindset?u=76281980&t=159)** And what if people go from AWS to GCP or Azure or like, you know, the environment is constantly changing.
+> **[2:39](https://www.linkedin.com/learning/offensive-penetration-testing/tips-on-harnessing-the-hacker-mindset?u=76281980&t=159)** And what if people go from AWS to GCP or [[Microsoft Azure|Azure]] or like, you know, the environment is constantly changing.
 >
 > **[2:49](https://www.linkedin.com/learning/offensive-penetration-testing/tips-on-harnessing-the-hacker-mindset?u=76281980&t=169)** So something that you knew one day could be completely different tomorrow.
 >
@@ -13018,7 +12939,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/offensive-penetration-testing/tips-on-harnessing-the-hacker-mindset?u=76281980&t=202)** So there's a different mindset.
 >
-> **[3:24](https://www.linkedin.com/learning/offensive-penetration-testing/tips-on-harnessing-the-hacker-mindset?u=76281980&t=204)** You know, I talked about mindset a little in the last lesson, but if you're a bug bounty hunter or a web app Pentester and do application security, you have to kind of think differently.
+> **[3:24](https://www.linkedin.com/learning/offensive-penetration-testing/tips-on-harnessing-the-hacker-mindset?u=76281980&t=204)** You know, I talked about mindset a little in the last lesson, but if you're a bug bounty hunter or a web app Pentester and do [[Application Security]], you have to kind of think differently.
 >
 > **[3:38](https://www.linkedin.com/learning/offensive-penetration-testing/tips-on-harnessing-the-hacker-mindset?u=76281980&t=218)** Because I remember when I got to the company I'm working in now and I've been doing things like OSCP and CTFs, and the objective was always to get root on the box, whereas in the bug bounty world, it's, hey, I found this vulnerability in your web app, you know, pay me for it.
 >
@@ -13090,7 +13011,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OSCP]] (5), web (4), cloud (2), [[Linux]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[OSCP]] (5), [[Linux]] (1), [[Windows]] (1), [[Google]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** oscp (5), gpen (2), fbi (1), aws (1), gcp (1)
 > **CLI Commands:** make (2), aws (1)
 > **Cross-References:** in the last (1), go back to (1)

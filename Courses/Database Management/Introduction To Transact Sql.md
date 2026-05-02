@@ -89,14 +89,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Transact-SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/transact-sql?u=76281980)
+#### [Transact-SQL](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/transact-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/transact-sql?u=76281980&t=0)** - Relational databases have been a cornerstone of businesses for decades now, and SQL Server is one of the top offerings in this area.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/transact-sql?u=76281980&t=0)** - [[Relational Databases]] have been a cornerstone of businesses for decades now, and [[Microsoft SQL Server|SQL Server]] is one of the top offerings in this area.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/transact-sql?u=76281980&t=7)** If you are looking to interact with data held within SQL Server databases, you're going to need to learn some Transact-SQL, or T-SQL, and if that's the case, this course is for you.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/transact-sql?u=76281980&t=7)** If you are looking to interact with data held within SQL Server [[Databases]], you're going to need to learn some [[Transact-SQL (T-SQL)|Transact-SQL]], or T-[[SQL]], and if that's the case, this course is for you.
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/transact-sql?u=76281980&t=17)** I'll build up from the basics, guiding you through your first SELECT statement to help you get the data you need out of a database.
 >
@@ -106,19 +105,18 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/transact-sql?u=76281980&t=31)** My pronouns are she and her, and I've worked with SQL Server databases for over 10 years.
 >
-> **[0:35](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/transact-sql?u=76281980&t=35)** I'm a dual Microsoft MVP in both the Data Platform and the Azure specialities, and I enjoy working with SQL Server databases both on-prem and in the cloud.
+> **[0:35](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/transact-sql?u=76281980&t=35)** I'm a dual [[Microsoft]] MVP in both the Data Platform and the [[Microsoft Azure|Azure]] specialities, and I enjoy working with SQL Server databases both on-prem and in the cloud.
 >
 > **[0:44](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/transact-sql?u=76281980&t=44)** By the end of this course, you'll be able to write the T-SQL you need to get the job done.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), data (3), [[Databases]] (3), [[SQL]] (2), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Databases]] (3), [[SQL]] (2), [[Relational Databases]] (1), [[Transact-SQL (T-SQL)|Transact-sql]] (1)
 > **Env Vars:** sql (7), select (1), mvp (1)
 > **SQL:** select (1)
 > **Speakers:** - relational (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -126,15 +124,15 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-you-should-know?u=76281980&t=7)** The good news here is this is an introduction to TSQL and the way I've written this course should allow you to enjoy and learn without too much existing knowledge.
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-you-should-know?u=76281980&t=15)** What I will say is a basic understanding of relational databases and specifically SQL Server will help.
+> **[0:15](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-you-should-know?u=76281980&t=15)** What I will say is a basic understanding of [[Relational Databases]] and specifically [[Microsoft SQL Server|SQL Server]] will help.
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-you-should-know?u=76281980&t=21)** We are going to cover the language of TSQL and although I will highlight areas where there might be design or performance considerations to think about we won't dive into those topics here.
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-you-should-know?u=76281980&t=30)** In the videos, you'll see me using SQL Server Management Studio to execute queries against the sample database.
 >
-> **[0:36](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-you-should-know?u=76281980&t=36)** This is a free tool from Microsoft to download and I'd recommend installing and getting comfortable with how that works.
+> **[0:36](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-you-should-know?u=76281980&t=36)** This is a free tool from [[Microsoft]] to download and I'd recommend installing and getting comfortable with how that works.
 >
-> **[0:43](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-you-should-know?u=76281980&t=43)** If you want to follow along with the scripts as I show them in the videos, you can find all the code at the GitHub link shown here.
+> **[0:43](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-you-should-know?u=76281980&t=43)** If you want to follow along with the scripts as I show them in the videos, you can find all the code at the [[GitHub]] link shown here.
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-you-should-know?u=76281980&t=50)** And finally, if you need a sample database to play with I can highly recommend using one of the DBA tools docker containers.
 >
@@ -146,7 +144,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[Microsoft SQL Server|Sql server]] (2), [[Relational Databases]] (1), management (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[Relational Databases]] (1), [[Microsoft]] (1), [[GitHub]] (1)
 > **Env Vars:** tsql (2), sql (2), dba (1)
 > **CLI Commands:** docker (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -155,18 +153,17 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is T-SQL?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-is-t-sql?u=76281980)
+#### [What is T-SQL?](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-is-t-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-is-t-sql?u=76281980&t=0)** - [Instructor] So this course is an introduction to Transact-SQL, also known as T-SQL.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-is-t-sql?u=76281980&t=0)** - [Instructor] So this course is an introduction to [[Transact-SQL (T-SQL)|Transact-SQL]], also known as T-[[SQL]].
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-is-t-sql?u=76281980&t=5)** So I guess the first thing we should cover is what that even is.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-is-t-sql?u=76281980&t=8)** But first, let's take it one step further back and talk about just SQL.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-is-t-sql?u=76281980&t=12)** SQL, which stands for Structured Query Language, is a language used to interact and manage databases and the data they contain.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-is-t-sql?u=76281980&t=12)** SQL, which stands for Structured Query Language, is a language used to interact and manage [[Databases]] and the data they contain.
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-is-t-sql?u=76281980&t=20)** It is a domain specific language, which means it was designed and written for a specific domain.
 >
@@ -174,9 +171,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-is-t-sql?u=76281980&t=27)** With SQL, we can create tables and other objects within databases, insert, update, delete, and select data, and perform other administration tasks, such as backups or maintenance.
 >
-> **[0:38](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-is-t-sql?u=76281980&t=38)** SQL is standard across many different relational, database management systems.
+> **[0:38](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-is-t-sql?u=76281980&t=38)** SQL is standard across many different relational, [[Database Management]] systems.
 >
-> **[0:41](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-is-t-sql?u=76281980&t=41)** However, some like SQL Server use an extended version of the language that includes additional functionality for the specific database system.
+> **[0:41](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-is-t-sql?u=76281980&t=41)** However, some like [[Microsoft SQL Server|SQL Server]] use an extended version of the language that includes additional functionality for the specific database system.
 >
 > **[0:49](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/what-is-t-sql?u=76281980&t=49)** T-SQL is the extended version of SQL that SQL Server uses.
 >
@@ -192,14 +189,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), [[Microsoft SQL Server|Sql server]] (5), [[Databases]] (4), data (3), database (3)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Microsoft SQL Server|Sql server]] (5), [[Databases]] (4), [[Database Management]] (2), [[Transact-SQL (T-SQL)|Transact-sql]] (1)
 > **Env Vars:** sql (14)
 > **Definitions:** is a  (2), is an  (1), known as (1), stands for (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### CoderPad tour
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/coderpad-tour?u=76281980)
+#### [CoderPad tour](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/coderpad-tour?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -209,7 +205,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/coderpad-tour?u=76281980&t=14)** These challenges are hosted by CoderPad and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/coderpad-tour?u=76281980&t=20)** We recommend using a desktop browser for the best experience with code challenges but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/coderpad-tour?u=76281980&t=20)** We recommend using a desktop browser for the best experience with code challenges but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/coderpad-tour?u=76281980&t=28)** The code Challenge has three areas: instructions in the top left, a console for output in the bottom left and a code editor for your answer on the right.
 >
@@ -231,7 +227,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [narrator] (1)
@@ -241,8 +237,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Structure of a SELECT statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/structure-of-a-select-statement?u=76281980)
+#### [Structure of a SELECT statement](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/structure-of-a-select-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -268,11 +263,11 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/structure-of-a-select-statement?u=76281980&t=61)** The dbo in this FROM clause specifies the schema where our table is.
 >
-> **[1:05](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/structure-of-a-select-statement?u=76281980&t=65)** dbo is the default schema for SQL Server databases.
+> **[1:05](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/structure-of-a-select-statement?u=76281980&t=65)** dbo is the default schema for [[Microsoft SQL Server|SQL Server]] [[Databases]].
 >
 > **[1:09](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/structure-of-a-select-statement?u=76281980&t=69)** We are able to create additional schemas in SQL server, and these schemas could be created to form logical collections of data.
 >
-> **[1:16](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/structure-of-a-select-statement?u=76281980&t=76)** For example, you could create a schema called Sales that would group all sales data, and a second schema called Human Resources for the HR data (indistinct).
+> **[1:16](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/structure-of-a-select-statement?u=76281980&t=76)** For example, you could create a schema called Sales that would group all sales data, and a second schema called [[Human Resources (HR)|Human Resources]] for the HR data (indistinct).
 >
 > **[1:24](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/structure-of-a-select-statement?u=76281980&t=84)** Schemas can be useful to separate data needed for different applications or to apply security permissions to specific data sets.
 >
@@ -288,7 +283,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/structure-of-a-select-statement?u=76281980&t=116)** However, SELECT * is not considered a best practice, and instead we should specify the column names for just the data we want to retrieve.
 >
-> **[2:03](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/structure-of-a-select-statement?u=76281980&t=123)** I won't talk much about performance tuning in this course, but minimizing the amount of data you need by choosing just the necessary columns is an important part of writing performance queries.
+> **[2:03](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/structure-of-a-select-statement?u=76281980&t=123)** I won't talk much about [[Performance Tuning]] in this course, but minimizing the amount of data you need by choosing just the necessary columns is an important part of writing performance queries.
 >
 > **[2:14](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/structure-of-a-select-statement?u=76281980&t=134)** You can specify which columns to return by providing a comma-separated list.
 >
@@ -296,13 +291,13 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/structure-of-a-select-statement?u=76281980&t=151)** Running this code will retrieve just the necessary data we need about our customers.
 >
-> **[2:35](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/structure-of-a-select-statement?u=76281980&t=155)** Just like that, you've written your first T-SQL statement that will form the basis of what we need for the rest of this course.
+> **[2:35](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/structure-of-a-select-statement?u=76281980&t=155)** Just like that, you've written your first T-[[SQL]] statement that will form the basis of what we need for the [[Representational State Transfer (REST)|rest]] of this course.
 >
 > **[2:41](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/structure-of-a-select-statement?u=76281980&t=161)** I'll look at many other building blocks to make this more complex throughout this course, but a lot will come back to this basic SELECT statement.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), database (3), [[Microsoft SQL Server|Sql server]] (2), business (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (1), [[Human Resources (HR)|Human resources]] (1), [[Performance Tuning]] (1), [[SQL]] (1)
 > **Env Vars:** select (7), sql (3)
 > **SQL:** select (7)
 > **Analogies:** imagine (1), for example (1), just like (1)
@@ -311,8 +306,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Best Practices:** best practice (1)
 
-#### Aliasing columns and tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/aliasing-columns-and-tables?u=76281980)
+#### [Aliasing columns and tables](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/aliasing-columns-and-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -360,7 +354,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **SQL:** select (5)
 > **Env Vars:** select (5)
 > **CLI Commands:** make (1)
@@ -369,8 +362,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding calculations to your result set
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/adding-calculations-to-your-result-set?u=76281980)
+#### [Adding calculations to your result set](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/adding-calculations-to-your-result-set?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -382,13 +374,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/adding-calculations-to-your-result-set?u=76281980&t=9)** There are columns for both unit price and quantity, but to get total price, you'll need to perform a calculation on these two columns.
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/adding-calculations-to-your-result-set?u=76281980&t=20)** With T-SQL, you can do this right in line within the SELECT statement.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/adding-calculations-to-your-result-set?u=76281980&t=20)** With T-[[SQL]], you can do this right in line within the SELECT statement.
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/adding-calculations-to-your-result-set?u=76281980&t=25)** In this example, you'll see I just multiplied the UnitPrice by the Quantity.
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/adding-calculations-to-your-result-set?u=76281980&t=28)** Running this query gets the expected result of a total price column.
 >
-> **[0:32](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/adding-calculations-to-your-result-set?u=76281980&t=32)** However, you can see that SQL Server hasn't named this column, it's just "No column name," which isn't very useful for whoever or whatever might consume this data.
+> **[0:32](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/adding-calculations-to-your-result-set?u=76281980&t=32)** However, you can see that [[Microsoft SQL Server|SQL Server]] hasn't named this column, it's just "No column name," which isn't very useful for whoever or whatever might consume this data.
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/adding-calculations-to-your-result-set?u=76281980&t=41)** You already learned how to solve this problem though with column aliases.
 >
@@ -412,7 +404,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft SQL Server|Sql server]] (2), [[SQL]] (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[SQL]] (1)
 > **Env Vars:** sql (3), select (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** dm_db_partition_stats (1)
@@ -420,8 +412,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Simple SELECT statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/solution-write-a-select-statement-to-retrieve-data?u=76281980)
+#### [Solution: Simple SELECT statement](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/solution-write-a-select-statement-to-retrieve-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -449,7 +440,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **SQL:** select (1)
 > **Env Vars:** select (1)
 > **Cross-References:** in the next (1)
@@ -461,12 +451,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Filtering data with WHERE using equalities
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-data-with-where-using-equalities?u=76281980)
+#### [Filtering data with WHERE using equalities](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-data-with-where-using-equalities?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-data-with-where-using-equalities?u=76281980&t=0)** - [Instructor] So far, I've demonstrated how to write the most basic SELECT statement that returns all the rows from a table or view within SQL Server.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-data-with-where-using-equalities?u=76281980&t=0)** - [Instructor] So far, I've demonstrated how to write the most basic SELECT statement that returns all the rows from a table or view within [[Microsoft SQL Server|SQL Server]].
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-data-with-where-using-equalities?u=76281980&t=7)** However, often you don't need all the data.
 >
@@ -494,7 +483,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-data-with-where-using-equalities?u=76281980&t=79)** Executing this, you'll see we have filtered the results set to just those two employees whose last names match a value specified within the IN conditions.
 >
-> **[1:28](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-data-with-where-using-equalities?u=76281980&t=88)** Using the operators you've now learned about, you can get a long way to write in T-SQL that will find just the rows you're looking for.
+> **[1:28](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-data-with-where-using-equalities?u=76281980&t=88)** Using the operators you've now learned about, you can get a long way to write in T-[[SQL]] that will find just the rows you're looking for.
 >
 > **[1:34](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-data-with-where-using-equalities?u=76281980&t=94)** You can start building some great reports and processes that will enable people to use your data, but you also might want to find data that doesn't meet certain requirements.
 >
@@ -502,7 +491,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1)
 > **Env Vars:** where (5), select (4), sql (2)
 > **SQL:** where (5), select (4)
 > **CLI Commands:** find (3)
@@ -511,12 +500,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling inequalities with WHERE clauses
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/handling-inequalities-with-where-clauses?u=76281980)
+#### [Handling inequalities with WHERE clauses](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/handling-inequalities-with-where-clauses?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/handling-inequalities-with-where-clauses?u=76281980&t=0)** - [Instructor] There are many ways that you can filter data with T-SQL Syntax to ensure you get just the rows you need in your results set.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/handling-inequalities-with-where-clauses?u=76281980&t=0)** - [Instructor] There are many ways that you can filter data with T-[[SQL]] Syntax to ensure you get just the rows you need in your results set.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/handling-inequalities-with-where-clauses?u=76281980&t=6)** I will now introduce a couple more operators.
 >
@@ -556,15 +544,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[SQL]] (3), [[Programming]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3)
 > **Env Vars:** usa (4), sql (3), ansi (1)
 > **CLI Commands:** find (7)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Find rows where strings partially match
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/find-rows-where-strings-partially-match?u=76281980)
+#### [Find rows where strings partially match](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/find-rows-where-strings-partially-match?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -582,7 +569,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/find-rows-where-strings-partially-match?u=76281980&t=27)** If I wanted to filter this data for certain values in the ShipName, I could use the operators that you've already learned but only if I knew the specific names of businesses.
 >
-> **[0:36](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/find-rows-where-strings-partially-match?u=76281980&t=36)** In this case, I want to find any that have the word hungry in their name.
+> **[0:36](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/find-rows-where-strings-partially-match?u=76281980&t=36)** In this case, I want to find any that have the [[Microsoft Word|word]] hungry in their name.
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/find-rows-where-strings-partially-match?u=76281980&t=45)** We can accomplish this by adding a WHERE clause and using the like operator.
 >
@@ -590,7 +577,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/find-rows-where-strings-partially-match?u=76281980&t=53)** Since I want to find businesses that have the word hungry anywhere in their name, I'll add a wildcard to both the start and the end of the word.
 >
-> **[1:00](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/find-rows-where-strings-partially-match?u=76281980&t=60)** The wildcard operator in T-SQL is the percent sign, so the pattern we want to search for is %hungry%.
+> **[1:00](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/find-rows-where-strings-partially-match?u=76281980&t=60)** The wildcard operator in T-[[SQL]] is the percent sign, so the pattern we want to search for is %hungry%.
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/find-rows-where-strings-partially-match?u=76281980&t=68)** When I execute this query, you can see that there are a couple of different businesses with hungry in the name.
 >
@@ -602,7 +589,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/find-rows-where-strings-partially-match?u=76281980&t=94)** This can be done at several different levels, including for the whole database or for a certain column.
 >
-> **[1:40](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/find-rows-where-strings-partially-match?u=76281980&t=100)** For now, you just need to know that, by default, and in all my examples in this course, case doesn't matter for our SQL Server queries.
+> **[1:40](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/find-rows-where-strings-partially-match?u=76281980&t=100)** For now, you just need to know that, by default, and in all my examples in this course, case doesn't matter for our [[Microsoft SQL Server|SQL Server]] queries.
 >
 > **[1:48](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/find-rows-where-strings-partially-match?u=76281980&t=108)** Because we started our pattern with a percent sign, the SQL Server engine must look for that word to exist anywhere within the column value.
 >
@@ -620,15 +607,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Word|Word]] (4), [[Microsoft SQL Server|Sql server]] (3), [[SQL]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Microsoft SQL Server|Sql server]] (3), [[SQL]] (2)
 > **CLI Commands:** find (6)
 > **Env Vars:** sql (5), where (1)
 > **SQL:** where (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filtering numeric data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-numeric-data?u=76281980)
+#### [Filtering numeric data](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-numeric-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -640,7 +626,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-numeric-data?u=76281980&t=10)** They can be used with numeric values, but I have a couple more options to show that are really useful when you have numeric data types, like prices or quantity.
 >
-> **[0:18](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-numeric-data?u=76281980&t=18)** Let's start by running a select star query against the products table.
+> **[0:18](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-numeric-data?u=76281980&t=18)** Let's start by running a select star query against the [[Microsoft Products|products]] table.
 >
 > **[0:22](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-numeric-data?u=76281980&t=22)** This is a great way to view the structure and some of the data within.
 >
@@ -654,7 +640,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-numeric-data?u=76281980&t=46)** First of all, let's find all the items that are in stock.
 >
-> **[0:52](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-numeric-data?u=76281980&t=52)** As you'll find with T-SQL, there are often multiple ways to write queries.
+> **[0:52](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-numeric-data?u=76281980&t=52)** As you'll find with T-[[SQL]], there are often multiple ways to write queries.
 >
 > **[0:56](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-numeric-data?u=76281980&t=56)** You can't, or at least shouldn't, have negative stock levels.
 >
@@ -674,7 +660,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-numeric-data?u=76281980&t=98)** As well as the greater than operator, you could also use greater than or equal to, which would include the value you specify.
 >
-> **[1:45](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-numeric-data?u=76281980&t=105)** The link at the bottom of this slide will take you to the Microsoft Docs page, where you can get more information on all of these operators.
+> **[1:45](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-numeric-data?u=76281980&t=105)** The link at the bottom of this slide will take you to the [[Microsoft]] Docs page, where you can get more information on all of these operators.
 >
 > **[1:51](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/filtering-numeric-data?u=76281980&t=111)** Talking of including the value in your results there, let's run one more query to show off the less than or equal to operator.
 >
@@ -696,14 +682,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Products|Products]] (4), database (1), [[SQL]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[SQL]] (1), [[Microsoft]] (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combining multiple operators into one WHERE clause
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/combining-multiple-operators-into-one-where-clause?u=76281980)
+#### [Combining multiple operators into one WHERE clause](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/combining-multiple-operators-into-one-where-clause?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -739,9 +724,9 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/combining-multiple-operators-into-one-where-clause?u=76281980&t=81)** When I write this query, I'm expecting only to get rows where the freight is less than five, but if I execute this, you'll see that I get results for France where the freight is more than five.
 >
-> **[1:34](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/combining-multiple-operators-into-one-where-clause?u=76281980&t=94)** That's because of operator precedence, which means the order in which the SQL engine processes the operators.
+> **[1:34](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/combining-multiple-operators-into-one-where-clause?u=76281980&t=94)** That's because of operator precedence, which means the order in which the [[SQL]] engine processes the operators.
 >
-> **[1:40](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/combining-multiple-operators-into-one-where-clause?u=76281980&t=100)** SQL Server has processed the and first and then the or.
+> **[1:40](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/combining-multiple-operators-into-one-where-clause?u=76281980&t=100)** [[Microsoft SQL Server|SQL Server]] has processed the and first and then the or.
 >
 > **[1:44](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/combining-multiple-operators-into-one-where-clause?u=76281980&t=104)** Don't panic, though.
 >
@@ -753,29 +738,28 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/combining-multiple-operators-into-one-where-clause?u=76281980&t=130)** The ship country is either France or Spain, and the freight is always under five.
 >
-> **[2:15](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/combining-multiple-operators-into-one-where-clause?u=76281980&t=135)** There's a lot of great documentation on the topic on the Microsoft Docs site.
+> **[2:15](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/combining-multiple-operators-into-one-where-clause?u=76281980&t=135)** There's a lot of great documentation on the topic on the [[Microsoft]] Docs site.
 >
 > **[2:19](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/combining-multiple-operators-into-one-where-clause?u=76281980&t=139)** Here are three topics to get you started, but there are plenty of other pages to enjoy.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), data (1), [[SQL]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[SQL]] (1), [[Microsoft]] (1)
 > **Env Vars:** sql (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding how NULL data affects query results
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/understanding-how-null-data-affects-query-results?u=76281980)
+#### [Understanding how NULL data affects query results](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/understanding-how-null-data-affects-query-results?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/understanding-how-null-data-affects-query-results?u=76281980&t=0)** - [Instructor] This topic is a slightly more advanced one but I just want to bring it up here so you're aware of it.
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/understanding-how-null-data-affects-query-results?u=76281980&t=5)** This is how null values are treated when we write T-SQL queries.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/understanding-how-null-data-affects-query-results?u=76281980&t=5)** This is how null values are treated when we write T-[[SQL]] queries.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/understanding-how-null-data-affects-query-results?u=76281980&t=9)** Where this gets a little more complicated is you can change the behavior of how nulls are treated but for this intro course, we're going to look at how they're treated by default.
 >
-> **[0:17](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/understanding-how-null-data-affects-query-results?u=76281980&t=17)** when you connect to SQL Server.
+> **[0:17](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/understanding-how-null-data-affects-query-results?u=76281980&t=17)** when you connect to [[Microsoft SQL Server|SQL Server]].
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/understanding-how-null-data-affects-query-results?u=76281980&t=19)** By default, the ANSI_NULLS option is set to on.
 >
@@ -813,15 +797,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[SQL]] (2), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Definitions:** is a  (4), basically means (1), is an  (1)
 > **Env Vars:** sql (3), ansi_nulls (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Filtered SELECT statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/solution-select-data-meeting-multiple-where-conditions?u=76281980)
+#### [Solution: Filtered SELECT statement](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/solution-select-data-meeting-multiple-where-conditions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -861,11 +844,11 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/solution-select-data-meeting-multiple-where-conditions?u=76281980&t=80)** Using greater than or equal to, you will include the chef salad in your results which costs exactly nine, and you'll get an error that the wrong output, too many rows were returned.
 >
-> **[1:32](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/solution-select-data-meeting-multiple-where-conditions?u=76281980&t=92)** Hopefully, you got the correct result and we're ready to move on to the next section and add further to your T-SQL skills.
+> **[1:32](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/solution-select-data-meeting-multiple-where-conditions?u=76281980&t=92)** Hopefully, you got the correct result and we're ready to move on to the next section and add further to your T-[[SQL]] skills.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** sql (1)
 > **Warnings:** note that (1)
@@ -877,8 +860,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### ORDER BY
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/order-by?u=76281980)
+#### [ORDER BY](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/order-by?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -890,7 +872,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/order-by?u=76281980&t=19)** For example, if the data is showing sales per month, it would be nice if the months were in order as we'd expect them in the year.
 >
-> **[0:27](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/order-by?u=76281980&t=27)** It's important to remember though, if you don't specify an order, SQL Server will return the rows as it finds them.
+> **[0:27](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/order-by?u=76281980&t=27)** It's important to remember though, if you don't specify an order, [[Microsoft SQL Server|SQL Server]] will return the rows as it finds them.
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/order-by?u=76281980&t=33)** And depending on the index you used, the order might change even if it seems like the results are always in the order you wanted.
 >
@@ -900,7 +882,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/order-by?u=76281980&t=46)** At this point of the course, this should be starting to look familiar.
 >
-> **[0:49](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/order-by?u=76281980&t=49)** I'm specifying, I want to select four columns from the products table.
+> **[0:49](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/order-by?u=76281980&t=49)** I'm specifying, I want to select four columns from the [[Microsoft Products|products]] table.
 >
 > **[0:54](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/order-by?u=76281980&t=54)** Running this query, I get the expected results, except they could be in any order.
 >
@@ -934,14 +916,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (3), data (2), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** order (6), sql (1)
 > **SQL:** order by (6)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### TOP
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/top?u=76281980)
+#### [TOP](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/top?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -951,7 +932,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/top?u=76281980&t=7)** However, in the real world it's likely that our tables will have thousands, millions, or perhaps even billions of rows.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/top?u=76281980&t=14)** If you write a select statement and return a large number of rows, you could cause significant performance issues on the SQL server.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/top?u=76281980&t=14)** If you write a select statement and return a large number of rows, you could cause significant performance issues on the [[Microsoft SQL Server|SQL server]].
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/top?u=76281980&t=20)** And let's be honest, none of us are actually going to read a billion rows of data.
 >
@@ -979,7 +960,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/top?u=76281980&t=91)** Executing this query you can see it now only shows 10 rows of data but all of the columns still.
 >
-> **[1:37](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/top?u=76281980&t=97)** This can be a really useful tool for working out what data you have available within the tables of your databases.
+> **[1:37](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/top?u=76281980&t=97)** This can be a really useful tool for working out what data you have available within the tables of your [[Databases]].
 >
 > **[1:42](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/top?u=76281980&t=102)** As you start to write more complicated queries you'll find more uses for the top keyword.
 >
@@ -987,13 +968,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), database (3), [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (1)
 > **Env Vars:** sql (2), dbo (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### DISTINCT
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/distinct?u=76281980)
+#### [DISTINCT](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/distinct?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1037,8 +1017,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Intermediate SELECT statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/solution?u=76281980)
+#### [Solution: Intermediate SELECT statement](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1066,7 +1045,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/solution?u=76281980&t=55)** One thing worth noting, it's possible to get the correct answer without the order by clause.
 >
-> **[1:00](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/solution?u=76281980&t=60)** Depending on how the SQL engine gets the results, they might be in order but it's never guaranteed unless you specify order by so don't skip that last piece.
+> **[1:00](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/solution?u=76281980&t=60)** Depending on how the [[SQL]] engine gets the results, they might be in order but it's never guaranteed unless you specify order by so don't skip that last piece.
 >
 > **[1:09](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/solution?u=76281980&t=69)** Great work on this one.
 >
@@ -1074,7 +1053,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** in the next (1)
@@ -1086,14 +1065,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### INNER JOIN
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/inner-join?u=76281980)
+#### [INNER JOIN](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/inner-join?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/inner-join?u=76281980&t=0)** - [Instructor] It's time for things to get a little more interesting.
 >
-> **[0:02](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/inner-join?u=76281980&t=2)** So far, each query I've written has been against only one table, but most databases are designed in a normalized fashion, which means that the data you want to see is spread across multiple tables.
+> **[0:02](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/inner-join?u=76281980&t=2)** So far, each query I've written has been against only one table, but most [[Databases]] are designed in a normalized fashion, which means that the data you want to see is spread across multiple tables.
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/inner-join?u=76281980&t=17)** If I run a select top 10 against the Orders table, you can see that within this table there are references to data in other tables.
 >
@@ -1101,13 +1079,13 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/inner-join?u=76281980&t=31)** But by using that ID, we can essentially look up the data about, say, EmployeeID number 5 within another table.
 >
-> **[0:38](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/inner-join?u=76281980&t=38)** As you learn more about databases and more specifically database design, you'll start to hear about primary keys and foreign keys.
+> **[0:38](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/inner-join?u=76281980&t=38)** As you learn more about databases and more specifically [[Database Design]], you'll start to hear about primary keys and foreign keys.
 >
 > **[0:46](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/inner-join?u=76281980&t=46)** These keys help to structure our data to ensure these relationships between tables are enforced.
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/inner-join?u=76281980&t=51)** For example, we can't have an order made by a CustomerID that doesn't exist in the Customer table.
 >
-> **[0:57](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/inner-join?u=76281980&t=57)** At the moment, as you're just starting to learn T-SQL don't worry too much about the design aspects, but it is important to recognize how to join multiple tables together to get what you need.
+> **[0:57](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/inner-join?u=76281980&t=57)** At the moment, as you're just starting to learn T-[[SQL]] don't worry too much about the design aspects, but it is important to recognize how to join multiple tables together to get what you need.
 >
 > **[1:06](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/inner-join?u=76281980&t=66)** The first join we'll cover is the most common, and that is the inner join.
 >
@@ -1145,7 +1123,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/inner-join?u=76281980&t=164)** You might notice a red squiggly line under CustomerID.
 >
-> **[2:47](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/inner-join?u=76281980&t=167)** SQL Server Management Studio is telling me there is a problem.
+> **[2:47](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/inner-join?u=76281980&t=167)** [[Microsoft SQL Server|SQL Server]] Management Studio is telling me there is a problem.
 >
 > **[2:50](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/inner-join?u=76281980&t=170)** If I hover over that red line or execute the query, you'll see the problem.
 >
@@ -1165,14 +1143,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Databases]] (2), next (2), database (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Database Design]] (1), [[SQL]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Definitions:** means that (2), is a  (2)
 > **Env Vars:** sql (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### LEFT JOIN
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/left-join?u=76281980)
+#### [LEFT JOIN](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/left-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1188,7 +1165,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/left-join?u=76281980&t=28)** This means that consideration is needed on which table is the left table was specified first in the FROM clause.
 >
-> **[0:34](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/left-join?u=76281980&t=34)** For this video, the question we're trying to answer from the data in this database is which products have had no sales?
+> **[0:34](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/left-join?u=76281980&t=34)** For this video, the question we're trying to answer from the data in this database is which [[Microsoft Products|products]] have had no sales?
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/left-join?u=76281980&t=40)** So basically, which products have no matching order detail records.
 >
@@ -1218,7 +1195,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/left-join?u=76281980&t=112)** However, if we scroll down to ProductID 2 in the results, you'll notice that only the first column, ProductID, has a value in.
 >
-> **[1:59](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/left-join?u=76281980&t=119)** The rest are null, because there was no matching rows in the OrderDetails for ProductID number two.
+> **[1:59](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/left-join?u=76281980&t=119)** The [[Representational State Transfer (REST)|rest]] are null, because there was no matching rows in the OrderDetails for ProductID number two.
 >
 > **[2:08](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/left-join?u=76281980&t=128)** To make this easier to see, and if the goal of this query was to just find products with no sales, I could add a WHERE clause to only show products where one of the values from the second table is null.
 >
@@ -1230,7 +1207,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), data (3), next (1), database (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** join (7), left (4), inner (2), where (1)
 > **SQL:** left join (4), inner join (2), join (1), where (1)
 > **CLI Commands:** make (1), find (1)
@@ -1238,8 +1215,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### FULL OUTER JOIN
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/full-outer-join?u=76281980)
+#### [FULL OUTER JOIN](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/full-outer-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1283,21 +1259,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **UI Navigation:** scroll down (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combining more than two tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/combining-more-than-two-tables?u=76281980)
+#### [Combining more than two tables](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/combining-more-than-two-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/combining-more-than-two-tables?u=76281980&t=0)** - [Instructor] As you've seen so far, joins can be really useful for connecting tables together and getting the whole picture from your data.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/combining-more-than-two-tables?u=76281980&t=7)** The whole idea of a relational database, like SQL Server, is to normalize the data and store it in this distributed fashion where data lives in appropriate tables and can then be brought together as we query it.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/combining-more-than-two-tables?u=76281980&t=7)** The whole idea of a relational database, like [[Microsoft SQL Server|SQL Server]], is to normalize the data and store it in this distributed fashion where data lives in appropriate tables and can then be brought together as we query it.
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/combining-more-than-two-tables?u=76281980&t=18)** So far though, we've only joined two tables together.
 >
@@ -1349,19 +1323,18 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/combining-more-than-two-tables?u=76281980&t=132)** If you want to use a mix of inner joins and outer joins, either full outer joins or left joins, you need to consider the order as you want to make sure you don't filter out rows that you're expecting to keep.
 >
-> **[2:24](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/combining-more-than-two-tables?u=76281980&t=144)** Well, folks, thus joins another great tool for your T SQL Querying Tool Belt.
+> **[2:24](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/combining-more-than-two-tables?u=76281980&t=144)** Well, folks, thus joins another great tool for your T [[SQL]] Querying Tool Belt.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft SQL Server|Sql server]] (2), database (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[SQL]] (1)
 > **Env Vars:** sql (3)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** picture (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/solution-22866535?u=76281980)
+#### [Solution: Joins](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/solution-22866535?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1395,7 +1368,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1)
 > **SQL:** select (1)
 > **Env Vars:** select (1)
@@ -1407,8 +1379,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/create-a-table?u=76281980)
+#### [Create a table](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/create-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1418,7 +1389,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/create-a-table?u=76281980&t=15)** In this video I'll explain the syntax you need to create your first table.
 >
-> **[0:19](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/create-a-table?u=76281980&t=19)** It's worth noting here that I'll explain how to create a simple table that you can use within the rest of this course.
+> **[0:19](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/create-a-table?u=76281980&t=19)** It's worth noting here that I'll explain how to create a simple table that you can use within the [[Representational State Transfer (REST)|rest]] of this course.
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/create-a-table?u=76281980&t=24)** But the art of designing database tables is a complex subject area.
 >
@@ -1442,9 +1413,9 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/create-a-table?u=76281980&t=78)** As I mentioned I also want this column to be my primary key so I'll add primary key after the data type, this will create the primary key constraint with a default name.
 >
-> **[1:27](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/create-a-table?u=76281980&t=87)** If you prefer to control the name you can instead define the primary key constraint after the column definitions, I'll share a link to the Microsoft documentation on this syntax at the end of this video.
+> **[1:27](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/create-a-table?u=76281980&t=87)** If you prefer to control the name you can instead define the primary key constraint after the column definitions, I'll share a link to the [[Microsoft]] documentation on this syntax at the end of this video.
 >
-> **[1:37](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/create-a-table?u=76281980&t=97)** There is also a really neat feature in SQL server called identities, which allows me to specify that this animal ID column as an identity, and as data is inserted, the ID will auto increment.
+> **[1:37](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/create-a-table?u=76281980&t=97)** There is also a really neat feature in [[Microsoft SQL Server|SQL server]] called identities, which allows me to specify that this animal ID column as an identity, and as data is inserted, the ID will auto increment.
 >
 > **[1:48](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/create-a-table?u=76281980&t=108)** I can add the identity keyword to the same column and then I'll specify the seed, which is the starting value.
 >
@@ -1478,7 +1449,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/create-a-table?u=76281980&t=175)** If I didn't specify the precision for DATETIME2, it would use two extra bytes per value.
 >
-> **[3:00](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/create-a-table?u=76281980&t=180)** That doesn't sound a lot but it adds up fast in big databases.
+> **[3:00](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/create-a-table?u=76281980&t=180)** That doesn't sound a lot but it adds up fast in big [[Databases]].
 >
 > **[3:05](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/create-a-table?u=76281980&t=185)** For the final column, I'll name it isMammal, and I'll specify a bit data type.
 >
@@ -1500,7 +1471,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), next (4), database (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1)
 > **Env Vars:** varchar (2), datetime2 (2), int (1), sql (1), varcharmax (1)
 > **SQL:** varchar (2)
 > **Definitions:** is a  (2)
@@ -1509,12 +1480,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Insert data into a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/insert-data-into-a-table?u=76281980)
+#### [Insert data into a table](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/insert-data-into-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/insert-data-into-a-table?u=76281980&t=0)** - [Instructor] In the last video, you saw how to design and create your very own SQL server table, which is very exciting, except it's currently pretty empty.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/insert-data-into-a-table?u=76281980&t=0)** - [Instructor] In the last video, you saw how to design and create your very own [[Microsoft SQL Server|SQL server]] table, which is very exciting, except it's currently pretty empty.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/insert-data-into-a-table?u=76281980&t=8)** And let's be honest, an empty SQL server table isn't much fun.
 >
@@ -1576,7 +1546,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft SQL Server|Sql server]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** sp_help (3), sql (2)
 > **Code Identifiers:** stg_animals (1)
 > **Cross-References:** in the last (1)
@@ -1584,8 +1554,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Update data within a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/update-data-within-a-table?u=76281980)
+#### [Update data within a table](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/update-data-within-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1643,14 +1612,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (1), database (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delete data from a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/delete-data-from-a-table?u=76281980)
+#### [Delete data from a table](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/delete-data-from-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1698,7 +1665,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (2)
 > **Code Identifiers:** ismammal (3)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
@@ -1706,8 +1672,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### TRUNCATE a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/truncate-a-table?u=76281980)
+#### [TRUNCATE a table](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/truncate-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1741,7 +1706,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/truncate-a-table?u=76281980&t=72)** So I will write TRUNCATE TABLE animals.
 >
-> **[1:20](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/truncate-a-table?u=76281980&t=80)** Executing that, you'll notice I get a message, command completed successfully but no row count, which I've received with the other data manipulation statements I've executed.
+> **[1:20](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/truncate-a-table?u=76281980&t=80)** Executing that, you'll notice I get a message, command completed successfully but no row count, which I've received with the other [[Data Manipulation]] statements I've executed.
 >
 > **[1:29](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/truncate-a-table?u=76281980&t=89)** This operation targeted all the rows in the table and it didn't keep track of how many it had to remove.
 >
@@ -1757,7 +1722,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1), [[Data Manipulation]] (1), power (1)
+> **Frameworks & Libraries:** [[Data Manipulation]] (1)
 > **Env Vars:** truncate (5), table (5), where (2), select (2), top (1)
 > **SQL:** where (2), select (2)
 > **Warnings:** caveat (1), be careful (1)
@@ -1766,8 +1731,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Analogies:** such as (1)
 
-#### Update data with a join
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/update-data-with-a-join?u=76281980)
+#### [Update data with a join](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/update-data-with-a-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1823,7 +1787,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Env Vars:** select (3), update (2), delete (2), alter (2), table (2)
 > **SQL:** select (3), update (2), alter table (2), varchar (1), inner join (1)
 > **Code Identifiers:** stg_animals (4)
@@ -1835,22 +1798,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/next-steps?u=76281980&t=0)** - [Instructor] Well, folks, that brings us to the end of this course.
 >
-> **[0:02](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/next-steps?u=76281980&t=2)** I hope you've enjoyed it and I also hope you feel like you've learned a good amount of T-SQL enough to create a good base for you to continue your learning.
+> **[0:02](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/next-steps?u=76281980&t=2)** I hope you've enjoyed it and I also hope you feel like you've learned a good amount of T-[[SQL]] enough to create a good base for you to continue your learning.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/next-steps?u=76281980&t=9)** There are many resources available to continue this journey.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/next-steps?u=76281980&t=12)** One recommendation is to search for T-SQL or SQL Server within the LinkedIn Learning Library.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/next-steps?u=76281980&t=12)** One recommendation is to search for T-SQL or [[Microsoft SQL Server|SQL Server]] within the [[LinkedIn]] Learning Library.
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/next-steps?u=76281980&t=18)** You'll find lots of great content there and I've even got an Advanced T-SQL Level Up course that you can tackle once you feel ready.
 >
-> **[0:25](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/next-steps?u=76281980&t=25)** Also, the online SQL community is strong and lots of experts are often blogging and presenting about SQL Server topics, including writing T-SQL, performance tuning and other administration type topics.
+> **[0:25](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/next-steps?u=76281980&t=25)** Also, the online SQL community is strong and lots of experts are often blogging and presenting about SQL Server topics, including writing T-SQL, [[Performance Tuning]] and other administration type topics.
 >
 > **[0:37](https://www.linkedin.com/learning/introduction-to-transact-sql-22864585/next-steps?u=76281980&t=37)** I'd recommend following the #sqlserver and sqlfamily on LinkedIn, Twitter and Blue Sky to get connected and keep up to date with the latest content.
 >
@@ -1866,7 +1828,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), [[LinkedIn]] (3), [[Microsoft SQL Server|Sql server]] (2), [[Search]] (1), [[Performance Tuning]] (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[LinkedIn]] (3), [[Microsoft SQL Server|Sql server]] (2), [[Performance Tuning]] (1)
 > **Env Vars:** sql (7)
 > **CLI Commands:** find (3)
 > **Speakers:** - [instructor] (1)

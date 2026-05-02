@@ -73,8 +73,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The impact of supply chain on the environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/the-impact-of-supply-chain-on-the-environment?u=76281980)
+#### [The impact of supply chain on the environment](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/the-impact-of-supply-chain-on-the-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -86,7 +85,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/the-impact-of-supply-chain-on-the-environment?u=76281980&t=31)** 80 and 90%.
 >
-> **[0:34](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/the-impact-of-supply-chain-on-the-environment?u=76281980&t=34)** There's no denying that a huge proportion of responsibility when it comes to sustainability lies with us as supply chain professionals.
+> **[0:34](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/the-impact-of-supply-chain-on-the-environment?u=76281980&t=34)** There's no denying that a huge proportion of responsibility when it comes to [[Sustainability]] lies with us as supply chain professionals.
 >
 > **[0:44](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/the-impact-of-supply-chain-on-the-environment?u=76281980&t=44)** By identifying key areas of impact and making small, intentional changes, we as supply chain professionals hold the key to driving huge environmental change.
 >
@@ -110,7 +109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (6), business (3), product (2), career (1)
+> **Frameworks & Libraries:** [[Sustainability]] (6)
 > **CLI Commands:** make (1)
 > **Speakers:** - did (1)
 
@@ -119,12 +118,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why planning is important to achieving sustainability
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/why-planning-is-important-to-achieving-sustainability?u=76281980)
+#### [Why planning is important to achieving sustainability](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/why-planning-is-important-to-achieving-sustainability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/why-planning-is-important-to-achieving-sustainability?u=76281980&t=1)** - Today, we're talking about the link between planning and sustainability.
+> **[0:01](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/why-planning-is-important-to-achieving-sustainability?u=76281980&t=1)** - Today, we're talking about the link between planning and [[Sustainability]].
 >
 > **[0:06](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/why-planning-is-important-to-achieving-sustainability?u=76281980&t=6)** You might not automatically see a direct link between the two, but trust me, it's there and it's vital.
 >
@@ -212,7 +210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (5), next (3), [[Sustainability]] (2)
+> **Frameworks & Libraries:** [[Sustainability]] (2)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** imagine (1), for example (1)
 > **Best Practices:** make sure to (1)
@@ -220,12 +218,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - today (1)
 
-#### Create a practical action plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/create-a-practical-action-plan?u=76281980)
+#### [Create a practical action plan](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/create-a-practical-action-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/create-a-practical-action-plan?u=76281980&t=1)** - Small steps to sustainability can achieve powerful impacts.
+> **[0:01](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/create-a-practical-action-plan?u=76281980&t=1)** - Small steps to [[Sustainability]] can achieve powerful impacts.
 >
 > **[0:05](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/create-a-practical-action-plan?u=76281980&t=5)** Take Coca-Cola, for example.
 >
@@ -275,21 +272,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (6), business (5), power (1)
+> **Frameworks & Libraries:** [[Sustainability]] (6)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - small (1)
 
-#### Map your supply chain and its environmental impact
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/map-your-supply-chain-and-its-environmental-impact?u=76281980)
+#### [Map your supply chain and its environmental impact](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/map-your-supply-chain-and-its-environmental-impact?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/map-your-supply-chain-and-its-environmental-impact?u=76281980&t=0)** - When you hear the words, sustainable supply chain, do you automatically think of carbon emissions?
 >
-> **[0:07](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/map-your-supply-chain-and-its-environmental-impact?u=76281980&t=7)** Whilst obviously emissions play a huge role, sustainability in supply chain is so much more.
+> **[0:07](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/map-your-supply-chain-and-its-environmental-impact?u=76281980&t=7)** Whilst obviously emissions play a huge role, [[Sustainability]] in supply chain is so much more.
 >
 > **[0:15](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/map-your-supply-chain-and-its-environmental-impact?u=76281980&t=15)** Take Disney, for example, energy and emissions make up a third of their strategy.
 >
@@ -343,15 +339,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Sustainability]] (5), management (1), product (1), next (1)
+> **Frameworks & Libraries:** [[Sustainability]] (5)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for example (2), picture (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Versions:** 99.8 (1)
 > **Speakers:** - when (1)
 
-#### Create a compelling business case for change
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/create-a-compelling-business-case-for-change?u=76281980)
+#### [Create a compelling business case for change](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/create-a-compelling-business-case-for-change?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -361,7 +356,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/create-a-compelling-business-case-for-change?u=76281980&t=17)** In business as in life, there's often a real reluctance to embrace change.
 >
-> **[0:22](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/create-a-compelling-business-case-for-change?u=76281980&t=22)** Maybe it's fear, maybe it's a kind of self preservation, we can't say for sure but either way that reluctance prevents progress and when it comes to sustainability, we can't really afford to stand still.
+> **[0:22](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/create-a-compelling-business-case-for-change?u=76281980&t=22)** Maybe it's fear, maybe it's a kind of self preservation, we can't say for sure but either way that reluctance prevents progress and when it comes to [[Sustainability]], we can't really afford to stand still.
 >
 > **[0:37](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/create-a-compelling-business-case-for-change?u=76281980&t=37)** So I'm going to help you get that all important buy-in from internal stakeholders.
 >
@@ -377,7 +372,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/create-a-compelling-business-case-for-change?u=76281980&t=110)** So once you've developed an irresistible business case that really understands your business's unique impacts and pulls in all those potential positives, how do you go about selling it?
 >
-> **[2:04](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/create-a-compelling-business-case-for-change?u=76281980&t=124)** Well, according to the Center for Creative Leadership, there are four key ways to influencing others, organizational intelligence, team promotion, trust building and leveraging networks.
+> **[2:04](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/create-a-compelling-business-case-for-change?u=76281980&t=124)** Well, according to the Center for Creative Leadership, there are four key ways to [[Influencing Others]], organizational intelligence, team promotion, trust building and leveraging networks.
 >
 > **[2:18](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/create-a-compelling-business-case-for-change?u=76281980&t=138)** That really is a powerful combination.
 >
@@ -409,14 +404,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (9), business (7), management (3), leadership (2), [[Influencing Others]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (9), [[Influencing Others]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - charles (1)
 
-#### Collaboration is critical to successful sustainability plans
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collaboration-is-critical-to-successful-sustainability-plans?u=76281980)
+#### [Collaboration is critical to successful sustainability plans](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collaboration-is-critical-to-successful-sustainability-plans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -436,7 +430,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collaboration-is-critical-to-successful-sustainability-plans?u=76281980&t=46)** Collaboration is the future of business.
 >
-> **[0:49](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collaboration-is-critical-to-successful-sustainability-plans?u=76281980&t=49)** You might be thinking, "Okay, but isn't collaboration "just a fancier word for teamwork?"
+> **[0:49](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collaboration-is-critical-to-successful-sustainability-plans?u=76281980&t=49)** You might be thinking, "Okay, but isn't collaboration "just a fancier [[Microsoft Word|word]] for teamwork?"
 >
 > **[0:55](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collaboration-is-critical-to-successful-sustainability-plans?u=76281980&t=55)** No, true collaboration is so much more.
 >
@@ -452,7 +446,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collaboration-is-critical-to-successful-sustainability-plans?u=76281980&t=92)** Honestly, this list just of individual benefits could go on and on but, ultimately, what you need to know is that collaboration creates more efficient, cost-effective, innovative and inclusive strategies.
 >
-> **[1:48](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collaboration-is-critical-to-successful-sustainability-plans?u=76281980&t=108)** And isn't that exactly what you need when you're considering your sustainability goals?
+> **[1:48](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collaboration-is-critical-to-successful-sustainability-plans?u=76281980&t=108)** And isn't that exactly what you need when you're considering your [[Sustainability]] goals?
 >
 > **[1:53](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collaboration-is-critical-to-successful-sustainability-plans?u=76281980&t=113)** Good collaboration doesn't end with your internal stakeholders either.
 >
@@ -464,7 +458,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collaboration-is-critical-to-successful-sustainability-plans?u=76281980&t=150)** And we're starting to see those strategic partnerships form and begin to drive that change.
 >
-> **[2:36](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collaboration-is-critical-to-successful-sustainability-plans?u=76281980&t=156)** Partly in response to the failure of enough political leaders to take sufficient action on climate change, we've seen impressive and effective cross-sector and multi-stakeholder collaborations appear between NGOs and companies.
+> **[2:36](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collaboration-is-critical-to-successful-sustainability-plans?u=76281980&t=156)** Partly in response to the failure of enough political leaders to take sufficient action on [[Climate Change]], we've seen impressive and effective cross-sector and multi-stakeholder collaborations appear between NGOs and companies.
 >
 > **[2:53](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collaboration-is-critical-to-successful-sustainability-plans?u=76281980&t=173)** For example, the We Mean Business Coalition includes over 1300 companies and it's SOS 1.5 Initiative actually provides sector specific deep dives and tailored roadmaps for any company, who are looking to achieve climate action.
 >
@@ -488,7 +482,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Sustainability]] (2), management (1), functional (1), teams (1)
+> **Frameworks & Libraries:** [[Sustainability]] (2), [[Microsoft Word|Word]] (1), [[Climate Change]] (1)
 > **Analogies:** picture (1), for example (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sos (1)
@@ -500,8 +494,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Taking a proactive approach to supplier management
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/taking-a-proactive-approach-to-supplier-management?u=76281980)
+#### [Taking a proactive approach to supplier management](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/taking-a-proactive-approach-to-supplier-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -513,11 +506,11 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/taking-a-proactive-approach-to-supplier-management?u=76281980&t=37)** Sounds great, right?
 >
-> **[0:39](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/taking-a-proactive-approach-to-supplier-management?u=76281980&t=39)** But the reality is that this trickle-down concept hasn't been fully realized, and many suppliers, especially those at lower levels of the chain, often violate the required sustainability standards whilst the brand on top is looking the other way.
+> **[0:39](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/taking-a-proactive-approach-to-supplier-management?u=76281980&t=39)** But the reality is that this trickle-down concept hasn't been fully realized, and many suppliers, especially those at lower levels of the chain, often violate the required [[Sustainability]] standards whilst the brand on top is looking the other way.
 >
 > **[0:57](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/taking-a-proactive-approach-to-supplier-management?u=76281980&t=57)** A couple of years ago, two leading supply chain academics conducted a study into supplier management and sustainability.
 >
-> **[1:06](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/taking-a-proactive-approach-to-supplier-management?u=76281980&t=66)** They looked at three multinationals who were really considered to be sustainability leaders across automotive, electronics, pharmaceuticals, and consumer product industries.
+> **[1:06](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/taking-a-proactive-approach-to-supplier-management?u=76281980&t=66)** They looked at three multinationals who were really considered to be sustainability leaders across automotive, [[Electronics]], pharmaceuticals, and consumer product industries.
 >
 > **[1:18](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/taking-a-proactive-approach-to-supplier-management?u=76281980&t=78)** And as a part of their analysis, they also studied a representative set of each of the company's suppliers, a mixture of top and lower tiers based across Mexico, China, Taiwan, and the United States.
 >
@@ -539,7 +532,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/taking-a-proactive-approach-to-supplier-management?u=76281980&t=194)** It's not easy, but there are a few core practices you can introduce and processes you could update to make positive steps in that right direction.
 >
-> **[3:24](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/taking-a-proactive-approach-to-supplier-management?u=76281980&t=204)** When you're choosing new suppliers, they should have a clear vision and ethics that align with your own.
+> **[3:24](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/taking-a-proactive-approach-to-supplier-management?u=76281980&t=204)** When you're choosing new suppliers, they should have a clear vision and [[Ethics]] that align with your own.
 >
 > **[3:31](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/taking-a-proactive-approach-to-supplier-management?u=76281980&t=211)** They should have their own rigorous SLAs so they aren't relying as heavily on you to guide them when it comes to meeting core sustainability standards.
 >
@@ -559,17 +552,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (9), management (3), [[Electronics]] (1), product (1), business (1)
+> **Frameworks & Libraries:** [[Sustainability]] (9), [[Electronics]] (1), [[Ethics]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - increasingly (1)
 
-#### Assess the fit of your procurement practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/assess-the-fit-of-your-procurement-practices?u=76281980)
+#### [Assess the fit of your procurement practices](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/assess-the-fit-of-your-procurement-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/assess-the-fit-of-your-procurement-practices?u=76281980&t=1)** - So there's growing evidence to say that sustainability factors influence things like financial returns and present an opportunity to really drive long-term value in your business.
+> **[0:01](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/assess-the-fit-of-your-procurement-practices?u=76281980&t=1)** - So there's growing evidence to say that [[Sustainability]] factors influence things like financial returns and present an opportunity to really drive long-term value in your business.
 >
 > **[0:14](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/assess-the-fit-of-your-procurement-practices?u=76281980&t=14)** So it's really no wonder that some of the world's largest organizations are now proactively addressing their sustainability risks and looking to partner with suppliers who are doing the same, which in turn, really helps mitigate risk along the chain.
 >
@@ -601,7 +593,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/assess-the-fit-of-your-procurement-practices?u=76281980&t=145)** Society, from the top down, now demands so much more.
 >
-> **[2:30](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/assess-the-fit-of-your-procurement-practices?u=76281980&t=150)** And so that transparency, which allows you to mitigate risk and bring much needed accountability across supplier network, is going to be key to ensuring both business success and a sustainable future.
+> **[2:30](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/assess-the-fit-of-your-procurement-practices?u=76281980&t=150)** And so that transparency, which allows you to mitigate risk and bring much needed [[Accountability]] across supplier network, is going to be key to ensuring both business success and a sustainable future.
 >
 > **[2:47](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/assess-the-fit-of-your-procurement-practices?u=76281980&t=167)** Supply chain sustainability isn't only about the environment.
 >
@@ -631,19 +623,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (10), business (4), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (10), [[Accountability]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** lgtbqia (1)
 > **Speakers:** - so (1)
 
-#### Use supplier and procurement best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/use-supplier-and-procurement-best-practices?u=76281980)
+#### [Use supplier and procurement best practices](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/use-supplier-and-procurement-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/use-supplier-and-procurement-best-practices?u=76281980&t=1)** - So today, I want to help you think about best practices, just a little bit differently.
 >
-> **[0:06](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/use-supplier-and-procurement-best-practices?u=76281980&t=6)** I want you to learn to look outwards as well as inwards to achieve not a best practice policy, but a best practice mindset that serves your brand, your partners, and the sustainability strategy you're looking to develop.
+> **[0:06](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/use-supplier-and-procurement-best-practices?u=76281980&t=6)** I want you to learn to look outwards as well as inwards to achieve not a best practice policy, but a best practice mindset that serves your brand, your partners, and the [[Sustainability]] strategy you're looking to develop.
 >
 > **[0:22](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/use-supplier-and-procurement-best-practices?u=76281980&t=22)** I've worked with businesses who've aired in the belief that the exact replication of policy, regardless of the differing environments it was being applied to, would bring success.
 >
@@ -671,7 +662,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/use-supplier-and-procurement-best-practices?u=76281980&t=124)** When you align your values and sustainability aspirations across your supply chain, you'll inspire commitment and innovation instead of limiting it with prescriptive policies.
 >
-> **[2:17](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/use-supplier-and-procurement-best-practices?u=76281980&t=137)** You'll be able to trust your workforce and your suppliers to work in the best way for them, safe in the knowledge that whichever way they do it, you're all working towards a singular vision, utilizing synergistic ethics and equal commitment to high standards.
+> **[2:17](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/use-supplier-and-procurement-best-practices?u=76281980&t=137)** You'll be able to trust your workforce and your suppliers to work in the best way for them, safe in the knowledge that whichever way they do it, you're all working towards a singular vision, utilizing synergistic [[Ethics]] and equal commitment to high standards.
 >
 > **[2:35](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/use-supplier-and-procurement-best-practices?u=76281980&t=155)** And this new way of thinking and working with others is also facilitated through collaboration.
 >
@@ -699,7 +690,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (4), business (3), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (4), [[Ethics]] (1)
 > **Best Practices:** best practice (6)
 > **Analogies:** for example (2)
 > **Speakers:** - so (1)
@@ -709,8 +700,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why good data is important to achieve sustainability targets
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/why-good-data-is-important-to-achieve-sustainability-targets?u=76281980)
+#### [Why good data is important to achieve sustainability targets](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/why-good-data-is-important-to-achieve-sustainability-targets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -720,7 +710,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/why-good-data-is-important-to-achieve-sustainability-targets?u=76281980&t=9)** Whether your company has a state of the art computerized system, or maybe a set of post-it notes, the data you have is only as good as what you do with it.
 >
-> **[0:19](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/why-good-data-is-important-to-achieve-sustainability-targets?u=76281980&t=19)** So, let's look at why data is so important, specifically when it comes to sustainability goals.
+> **[0:19](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/why-good-data-is-important-to-achieve-sustainability-targets?u=76281980&t=19)** So, let's look at why data is so important, specifically when it comes to [[Sustainability]] goals.
 >
 > **[0:25](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/why-good-data-is-important-to-achieve-sustainability-targets?u=76281980&t=25)** Data can help you evaluate your plan.
 >
@@ -734,7 +724,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/why-good-data-is-important-to-achieve-sustainability-targets?u=76281980&t=59)** So high quality data helps you measure your impact.
 >
-> **[1:03](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/why-good-data-is-important-to-achieve-sustainability-targets?u=76281980&t=63)** Good data will tell us whether or not you're meeting those eco targets and whether your suppliers are even hitting their SLAs and continuing to commit to your shared ethics.
+> **[1:03](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/why-good-data-is-important-to-achieve-sustainability-targets?u=76281980&t=63)** Good data will tell us whether or not you're meeting those eco targets and whether your suppliers are even hitting their SLAs and continuing to commit to your shared [[Ethics]].
 >
 > **[1:14](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/why-good-data-is-important-to-achieve-sustainability-targets?u=76281980&t=74)** If they're not, use that data to reconsider whether those chosen suppliers really are in fact, the right partners to help you meet your goals.
 >
@@ -780,16 +770,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Sustainability]] (7), business (2), [[Ethics]] (1), next (1)
+> **Frameworks & Libraries:** [[Sustainability]] (7), [[Ethics]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - so (1)
 
-#### Collect and use the right sustainability data to shape plans
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collect-and-use-the-right-sustainability-data-to-shape-plans?u=76281980)
+#### [Collect and use the right sustainability data to shape plans](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collect-and-use-the-right-sustainability-data-to-shape-plans?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collect-and-use-the-right-sustainability-data-to-shape-plans?u=76281980&t=1)** - So last year, Google carried out some research in the UK to better understand the true impact of sustainability on purchase decision-making.
+> **[0:01](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collect-and-use-the-right-sustainability-data-to-shape-plans?u=76281980&t=1)** - So last year, [[Google]] carried out some research in the UK to better understand the true impact of [[Sustainability]] on purchase [[Decision-Making]].
 >
 > **[0:11](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collect-and-use-the-right-sustainability-data-to-shape-plans?u=76281980&t=11)** When responding to a survey, a huge fifty-five percent of shoppers claimed sustainability was more important than value or quality, yet people's real behavior when researching their actions rather than what they claim in a survey revealed a very different story, saying that sustainability on its own was substantially less important than value, quality, and even style.
 >
@@ -815,15 +804,15 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collect-and-use-the-right-sustainability-data-to-shape-plans?u=76281980&t=109)** And when they're layered together, you'll have a robust dataset that is capable of informing every element of your sustainability strategy.
 >
-> **[1:58](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collect-and-use-the-right-sustainability-data-to-shape-plans?u=76281980&t=118)** And you can even go one step further, anchor your data by analyzing global trends and comparing it against big data.
+> **[1:58](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collect-and-use-the-right-sustainability-data-to-shape-plans?u=76281980&t=118)** And you can even go one step further, anchor your data by analyzing global trends and comparing it against [[Big Data]].
 >
 > **[2:08](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collect-and-use-the-right-sustainability-data-to-shape-plans?u=76281980&t=128)** Now thankfully, this is one kind of data you don't have to collect yourself.
 >
-> **[2:15](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collect-and-use-the-right-sustainability-data-to-shape-plans?u=76281980&t=135)** Big data is extracted mainly from public databases or things like satellite photos and captures information about physical occurrences, such as fires or earthquakes, and even social behaviors like light intensity per household, or the use of transport.
+> **[2:15](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collect-and-use-the-right-sustainability-data-to-shape-plans?u=76281980&t=135)** Big data is extracted mainly from public [[Databases]] or things like satellite photos and captures information about physical occurrences, such as fires or earthquakes, and even social behaviors like light intensity per household, or the use of transport.
 >
 > **[2:34](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collect-and-use-the-right-sustainability-data-to-shape-plans?u=76281980&t=154)** This big data is a valuable source of information for industry adding the contextual meat to the bone of your sustainability strategy.
 >
-> **[2:43](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collect-and-use-the-right-sustainability-data-to-shape-plans?u=76281980&t=163)** For example, your business level data might show that one of your facilities is maybe experiencing cost increases and limited availability for certain products, but you're not sure why.
+> **[2:43](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collect-and-use-the-right-sustainability-data-to-shape-plans?u=76281980&t=163)** For example, your business level data might show that one of your facilities is maybe experiencing cost increases and limited availability for certain [[Microsoft Products|products]], but you're not sure why.
 >
 > **[2:57](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collect-and-use-the-right-sustainability-data-to-shape-plans?u=76281980&t=177)** So overlaying big data on top could show that the area in which that facility is based has become increasingly prone to drought, meaning production, supply, and demand have all been affected.
 >
@@ -835,7 +824,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collect-and-use-the-right-sustainability-data-to-shape-plans?u=76281980&t=209)** Jeffrey Moore author and consultant nailed it.
 >
-> **[3:32](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collect-and-use-the-right-sustainability-data-to-shape-plans?u=76281980&t=212)** When he said without big data analytics, companies are blind and deaf wandering out onto the web, like deer on a freeway.
+> **[3:32](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collect-and-use-the-right-sustainability-data-to-shape-plans?u=76281980&t=212)** When he said without [[Big Data Analytics]], companies are blind and deaf wandering out onto the web, like deer on a freeway.
 >
 > **[3:42](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/collect-and-use-the-right-sustainability-data-to-shape-plans?u=76281980&t=222)** So dive deeper into your own business.
 >
@@ -843,17 +832,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Sustainability]] (6), [[Big Data]] (4), business (3), [[Google]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (6), [[Big Data]] (4), [[Google]] (1), [[Decision-Making]] (1), [[Databases]] (1)
 > **Analogies:** picture (1), such as (1), for example (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - so (1)
 
-#### Finding a trusted data partner to meet your targets
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/finding-a-trusted-data-partner-to-meet-your-targets?u=76281980)
+#### [Finding a trusted data partner to meet your targets](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/finding-a-trusted-data-partner-to-meet-your-targets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/finding-a-trusted-data-partner-to-meet-your-targets?u=76281980&t=1)** - From AI and machine learning to IoT devices and virtual reality, technology is developing at a rapid pace.
+> **[0:01](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/finding-a-trusted-data-partner-to-meet-your-targets?u=76281980&t=1)** - From AI and machine learning to [[IoT]] devices and virtual reality, technology is developing at a rapid pace.
 >
 > **[0:10](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/finding-a-trusted-data-partner-to-meet-your-targets?u=76281980&t=10)** But whilst it brings plenty of positives, sometimes we have to remember that there are a lot of businesses that haven't even caught up yet, especially in supply chain.
 >
@@ -863,7 +851,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/finding-a-trusted-data-partner-to-meet-your-targets?u=76281980&t=42)** And that's surprisingly common.
 >
-> **[0:44](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/finding-a-trusted-data-partner-to-meet-your-targets?u=76281980&t=44)** Brands tell me time and again that they don't have their data house in order, especially when it comes to sustainability.
+> **[0:44](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/finding-a-trusted-data-partner-to-meet-your-targets?u=76281980&t=44)** Brands tell me time and again that they don't have their data house in order, especially when it comes to [[Sustainability]].
 >
 > **[0:52](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/finding-a-trusted-data-partner-to-meet-your-targets?u=76281980&t=52)** And that's okay.
 >
@@ -911,7 +899,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Sustainability]] (7), business (4), ai (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (7), [[IoT]] (1)
 > **CLI Commands:** apt (1), find (1), make (1)
 > **Env Vars:** esg (1), csr (1)
 > **Analogies:** picture (1)
@@ -922,8 +910,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Refine your approach to supply chain sustainability
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/refine-your-approach-to-supply-chain-sustainability?u=76281980)
+#### [Refine your approach to supply chain sustainability](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/refine-your-approach-to-supply-chain-sustainability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -931,7 +918,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/refine-your-approach-to-supply-chain-sustainability?u=76281980&t=15)** She quite rightly teaches us that no matter how sound the basis for a strategy appears or how much it's vetted, everything you do during the planning process, the discussions you have, the projections you make, remain largely theoretical until it's put to test in the real world.
 >
-> **[0:34](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/refine-your-approach-to-supply-chain-sustainability?u=76281980&t=34)** Expecting to get your sustainability strategy right the first time is kind of unrealistic.
+> **[0:34](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/refine-your-approach-to-supply-chain-sustainability?u=76281980&t=34)** Expecting to get your [[Sustainability]] strategy right the first time is kind of unrealistic.
 >
 > **[0:41](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/refine-your-approach-to-supply-chain-sustainability?u=76281980&t=41)** Go in with the mindset of progress, not perfection.
 >
@@ -949,7 +936,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/refine-your-approach-to-supply-chain-sustainability?u=76281980&t=121)** Does feedback from your suppliers mean you need to adjust their set of eco targets?
 >
-> **[2:07](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/refine-your-approach-to-supply-chain-sustainability?u=76281980&t=127)** Can your systems really facilitate your extra data management requirements?
+> **[2:07](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/refine-your-approach-to-supply-chain-sustainability?u=76281980&t=127)** Can your systems really facilitate your extra [[Data Management]] requirements?
 >
 > **[2:12](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/refine-your-approach-to-supply-chain-sustainability?u=76281980&t=132)** Does your supply chain actually extend further than maybe you even thought?
 >
@@ -961,13 +948,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Sustainability]] (2), data (2), management (1)
+> **Frameworks & Libraries:** [[Sustainability]] (2), [[Data Management]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - sherrin (1)
 
-#### Take action to support your longer-term sustainability goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/take-action-to-support-your-longer-term-sustainability-goals?u=76281980)
+#### [Take action to support your longer-term sustainability goals](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/take-action-to-support-your-longer-term-sustainability-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -975,7 +961,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/take-action-to-support-your-longer-term-sustainability-goals?u=76281980&t=9)** But it's estimated that it will take at least 30 years just to modernize the ships that contribute to this huge figure.
 >
-> **[0:18](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/take-action-to-support-your-longer-term-sustainability-goals?u=76281980&t=18)** There's no denying that with sustainability, you're playing the long game.
+> **[0:18](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/take-action-to-support-your-longer-term-sustainability-goals?u=76281980&t=18)** There's no denying that with [[Sustainability]], you're playing the long game.
 >
 > **[0:23](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/take-action-to-support-your-longer-term-sustainability-goals?u=76281980&t=23)** And that can be a real barrier for both consumers and businesses alike to even just get started.
 >
@@ -1015,7 +1001,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/take-action-to-support-your-longer-term-sustainability-goals?u=76281980&t=157)** Skills-based volunteering is a really impactful, but underused approach.
 >
-> **[2:43](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/take-action-to-support-your-longer-term-sustainability-goals?u=76281980&t=163)** In nonprofit organizations, there's often a big need for things like marketing, operations, strategic planning, finance, so offering up those skills can actually bring even more impact than traditional philanthropic activities.
+> **[2:43](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/take-action-to-support-your-longer-term-sustainability-goals?u=76281980&t=163)** In [[Nonprofit Organizations]], there's often a big need for things like marketing, operations, strategic planning, finance, so offering up those skills can actually bring even more impact than traditional philanthropic activities.
 >
 > **[3:00](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/take-action-to-support-your-longer-term-sustainability-goals?u=76281980&t=180)** There are plenty of options out there, but the most important thing to remember is that big journeys start with small steps.
 >
@@ -1031,15 +1017,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (4), business (4), game (1), data (1), [[Nonprofit Organizations]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (4), [[Nonprofit Organizations]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** bsr (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - according (1)
 
-#### Next steps: Your sustainable supply chain plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/next-steps-your-sustainable-supply-chain-plan?u=76281980)
+#### [Next steps: Your sustainable supply chain plan](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/next-steps-your-sustainable-supply-chain-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1053,7 +1038,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/next-steps-your-sustainable-supply-chain-plan?u=76281980&t=20)** Ensure that all of your required processes, partners, and technologies are in place.
 >
-> **[0:26](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/next-steps-your-sustainable-supply-chain-plan?u=76281980&t=26)** Do you have your green team and sustainability champion at the ready?
+> **[0:26](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/next-steps-your-sustainable-supply-chain-plan?u=76281980&t=26)** Do you have your green team and [[Sustainability]] champion at the ready?
 >
 > **[0:31](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/next-steps-your-sustainable-supply-chain-plan?u=76281980&t=31)** Are all your suppliers on board with your shared goals?
 >
@@ -1107,13 +1092,13 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/next-steps-your-sustainable-supply-chain-plan?u=76281980&t=209)** Don't forget to connect with me wherever you hang out on social media.
 >
-> **[3:33](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/next-steps-your-sustainable-supply-chain-plan?u=76281980&t=213)** You can find me or Let's Talk Supply Chain on LinkedIn, Twitter, Clubhouse, and even on TikTok!
+> **[3:33](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/next-steps-your-sustainable-supply-chain-plan?u=76281980&t=213)** You can find me or Let's Talk Supply Chain on [[LinkedIn]], Twitter, Clubhouse, and even on TikTok!
 >
 > **[3:39](https://www.linkedin.com/learning/fundamentals-of-sustainable-supply-chains/next-steps-your-sustainable-supply-chain-plan?u=76281980&t=219)** Good luck and I will see you soon.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (9), data (4), next (2), business (2), hit (1)
+> **Frameworks & Libraries:** [[Sustainability]] (9), [[LinkedIn]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Best Practices:** don't forget (2), remember to (1)

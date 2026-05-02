@@ -17,7 +17,7 @@ tags:
   - topic/data-science
   - topic/cloud-computing
   - topic/web-development
-course_count: 103
+course_count: 104
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Kubernetes
 
-> **Type:** Tool | **Courses:** 103 | **Topics:** [[DevOps]], [[Software Development]], [[Data Science]], [[Cloud Computing]], [[Web Development]]
+> **Type:** Tool | **Courses:** 104 | **Topics:** [[DevOps]], [[Software Development]], [[Data Science]], [[Cloud Computing]], [[Web Development]]
 
 ## Courses
 
@@ -38,9 +38,9 @@ created: 2026-05-02
 7. [[Kubernetes- Cloud Native Ecosystem]] — 63 mentions
 8. [[DevOps Foundations- Infrastructure as Code]] — 42 mentions
 9. [[SQL Server Containerization- Modern Deployment Strategies for Data-Driven Organizations]] — 38 mentions
-10. [[Devops Foundations]] — 29 mentions
+10. [[Devops Foundations]] — 30 mentions
 
-> [!note]- See all 103 courses
+> [!note]- See all 104 courses
 > 11. [[Docker Essential Training]] — 28 mentions
 > 12. [[Continuous Delivery for Cloud Native Java Apps]] — 23 mentions
 > 13. [[Cloud Architecture- Design Decisions]] — 22 mentions
@@ -73,22 +73,22 @@ created: 2026-05-02
 > 40. [[Integrating AI into the Product Architecture]] — 3 mentions
 > 41. [[Building a Cloud Architecture Diagram]] — 3 mentions
 > 42. [[Scalable Data Storage and Processing for AI Workloads]] — 3 mentions
-> 43. [[Windows Server 2022 Essential Training]] — 3 mentions
-> 44. [[Google Cloud Digital Leader Cert Prep 1 Digital Transformation With Google Cloud]] — 3 mentions
-> 45. [[Google Cloud Security for Beginners- Tools and Services]] — 3 mentions
-> 46. [[Introduction to Docker for Java Developers]] — 3 mentions
-> 47. [[Cloud Computing Careers and Certifications]] — 2 mentions
-> 48. [[Complete Guide to Data Lakes and Lakehouses]] — 2 mentions
-> 49. [[Advanced Data Processing- Batch, Real-Time, and Cloud Architectures for AI]] — 2 mentions
-> 50. [[Azure AI Services Essential Training]] — 2 mentions
-> 51. [[Rust for Data Engineering]] — 2 mentions
-> 52. [[PySpark Essential Training- Introduction to Building Data Pipelines]] — 2 mentions
-> 53. [[Azure Understanding The Big Picture]] — 2 mentions
-> 54. [[Azure Cloud Fundamentals- Explore Cloud Services]] — 2 mentions
-> 55. [[Threat Modeling- Tampering in Depth]] — 2 mentions
-> 56. [[Manage Storage in Azure]] — 2 mentions
-> 57. [[Advanced Gemini for Developers]] — 2 mentions
-> 58. [[DevOps Tips]] — 2 mentions
+> 43. [[Azure Understanding The Big Picture]] — 3 mentions
+> 44. [[Windows Server 2022 Essential Training]] — 3 mentions
+> 45. [[Google Cloud Digital Leader Cert Prep 1 Digital Transformation With Google Cloud]] — 3 mentions
+> 46. [[DevOps Tips]] — 3 mentions
+> 47. [[Google Cloud Security for Beginners- Tools and Services]] — 3 mentions
+> 48. [[Introduction to Docker for Java Developers]] — 3 mentions
+> 49. [[Cloud Computing Careers and Certifications]] — 2 mentions
+> 50. [[Complete Guide to Data Lakes and Lakehouses]] — 2 mentions
+> 51. [[Advanced Data Processing- Batch, Real-Time, and Cloud Architectures for AI]] — 2 mentions
+> 52. [[Azure AI Services Essential Training]] — 2 mentions
+> 53. [[Rust for Data Engineering]] — 2 mentions
+> 54. [[PySpark Essential Training- Introduction to Building Data Pipelines]] — 2 mentions
+> 55. [[Azure Cloud Fundamentals- Explore Cloud Services]] — 2 mentions
+> 56. [[Threat Modeling- Tampering in Depth]] — 2 mentions
+> 57. [[Manage Storage in Azure]] — 2 mentions
+> 58. [[Advanced Gemini for Developers]] — 2 mentions
 > 59. [[DevOps Foundations- Monitoring and Observability]] — 2 mentions
 > 60. [[Implement and Evaluate Cloud AI Solutions- Foundations of Responsible AI]] — 2 mentions
 > 61. [[Continuous Integration- Tools]] — 2 mentions
@@ -125,23 +125,24 @@ created: 2026-05-02
 > 92. [[Advanced Terraform]] — 1 mentions
 > 93. [[Learning SnowflakeDB]] — 1 mentions
 > 94. [[MongoDB Essential Training]] — 1 mentions
-> 95. [[Learning JDBC]] — 1 mentions
-> 96. [[Red Hat Certified Engineer Ex294 Cert Prep 1 Foundations Of Ansible]] — 1 mentions
-> 97. [[Learning Docker Compose]] — 1 mentions
-> 98. [[Databricks Certified Data Engineer Associate Cert Prep]] — 1 mentions
-> 99. [[Big Data in the Age of AI]] — 1 mentions
-> 100. [[Spring Boot Observability- Deep Dive into Logging, Metrics, and Tracing]] — 1 mentions
-> 101. [[Learning Selenium- Structure, Scale, Run, and Optimize Automated Tests]] — 1 mentions
-> 102. [[Introduction to IT Architecture]] — 1 mentions
-> 103. [[Node.js- Testing and Code Quality]] — 1 mentions
+> 95. [[AI Foundations- Ideating and Prototyping]] — 1 mentions
+> 96. [[Learning JDBC]] — 1 mentions
+> 97. [[Red Hat Certified Engineer Ex294 Cert Prep 1 Foundations Of Ansible]] — 1 mentions
+> 98. [[Learning Docker Compose]] — 1 mentions
+> 99. [[Databricks Certified Data Engineer Associate Cert Prep]] — 1 mentions
+> 100. [[Big Data in the Age of AI]] — 1 mentions
+> 101. [[Spring Boot Observability- Deep Dive into Logging, Metrics, and Tracing]] — 1 mentions
+> 102. [[Learning Selenium- Structure, Scale, Run, and Optimize Automated Tests]] — 1 mentions
+> 103. [[Introduction to IT Architecture]] — 1 mentions
+> 104. [[Node.js- Testing and Code Quality]] — 1 mentions
 
 ## Learning Paths
 
 1. [[Getting Started with Kubernetes]] — 869 total mentions
 2. [[MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security]] — 211 total mentions
 3. [[The Top 10 Most Popular Courses among Engineering Professionals]] — 207 total mentions
-4. [[Getting Started with DevOps]] — 78 total mentions
-5. [[DevOps Professional Certificate by PagerDuty and LinkedIn]] — 71 total mentions
+4. [[Getting Started with DevOps]] — 79 total mentions
+5. [[DevOps Professional Certificate by PagerDuty and LinkedIn]] — 72 total mentions
 6. [[Advance Your Spring Development Skills]] — 66 total mentions
 7. [[Infrastructure as Code with Terraform]] — 54 total mentions
 8. [[Containerize Applications with Docker]] — 49 total mentions

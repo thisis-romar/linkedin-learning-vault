@@ -53,8 +53,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Practical tips to build connections, write better messages, and grow your career
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-smart-way-to-grow-your-network-with-linkedin-s-andrew-mccaskill/practical-tips-to-build-connections-write-better-messages-and-grow-your-career-26255266?u=76281980)
+#### [Practical tips to build connections, write better messages, and grow your career](https://www.linkedin.com/learning/the-smart-way-to-grow-your-network-with-linkedin-s-andrew-mccaskill/practical-tips-to-build-connections-write-better-messages-and-grow-your-career-26255266?u=76281980)
 
 
 ## Instructor

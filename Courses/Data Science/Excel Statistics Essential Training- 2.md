@@ -80,20 +80,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Excel for statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/using-excel-for-statistics?u=76281980)
+#### [Using Excel for statistics](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/using-excel-for-statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/using-excel-for-statistics?u=76281980&t=0)** - Data is just data until you figure out what the data means.
 >
-> **[0:04](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/using-excel-for-statistics?u=76281980&t=4)** Being able to perform statistical analysis in Excel is something companies and research organizations need every day.
+> **[0:04](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/using-excel-for-statistics?u=76281980&t=4)** Being able to perform [[Statistical Analysis]] in [[Microsoft Excel|Excel]] is something companies and research organizations need every day.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/using-excel-for-statistics?u=76281980&t=12)** Perhaps now more than ever.
 >
 > **[0:14](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/using-excel-for-statistics?u=76281980&t=14)** If you're looking to crack topics like regression, hypothesis tests, ANOVA and Monte Carlo simulations, and Excel is your tool of choice, you've come to the right place.
 >
-> **[0:26](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/using-excel-for-statistics?u=76281980&t=26)** Hi, I'm Eddie Davila, and I love working in statistics and Excel.
+> **[0:26](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/using-excel-for-statistics?u=76281980&t=26)** Hi, I'm Eddie Davila, and I love working in [[Statistics]] and Excel.
 >
 > **[0:31](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/using-excel-for-statistics?u=76281980&t=31)** In this course, you'll discover how Excel can help you tackle and then interpret advanced statistical analysis.
 >
@@ -101,16 +100,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (4), [[Statistical Analysis]] (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Statistical Analysis]] (2), [[Statistics]] (1)
 > **Env Vars:** anova (1)
 > **Speakers:** - data (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/what-you-need-to-know?u=76281980&t=0)** - [Narrator] Welcome to Excel Statistics Essential Training two.
+> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/what-you-need-to-know?u=76281980&t=0)** - [Narrator] Welcome to [[Microsoft Excel|Excel]] [[Statistics]] Essential Training two.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/what-you-need-to-know?u=76281980&t=4)** In this class, we'll tackle both intermediate, as well as a few advanced statistics topics.
 >
@@ -133,12 +131,11 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Statistics]] (3)
 > **Speakers:** - [narrator] (1)
 
-#### Exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/exercise-files?u=76281980)
+#### [Exercise files](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/exercise-files?u=76281980&t=0)** - [Instructor] Hi there, I just wanted to remind you that the exercise files that come with this course, they're meant for you to follow along with my work and the videos, and they're there so you can practice working with statistics in Excel.
+> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/exercise-files?u=76281980&t=0)** - [Instructor] Hi there, I just wanted to remind you that the exercise files that come with this course, they're meant for you to follow along with my work and the videos, and they're there so you can practice working with [[Statistics]] in [[Microsoft Excel|Excel]].
 >
 > **[0:12](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/exercise-files?u=76281980&t=12)** Each one is named with the chapter number followed by the video number.
 >
@@ -164,18 +161,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[Statistics]] (3), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[Statistics]] (3)
 > **Exercise Files:** exercise files (2)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tool pack
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/tool-pack?u=76281980)
+#### [Tool pack](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/tool-pack?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/tool-pack?u=76281980&t=0)** - [Lecturer] All right, since we'll be performing some intermediate and advanced statistical functions in Excel, you're going to need one of the Excel analysis tools.
+> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/tool-pack?u=76281980&t=0)** - [Lecturer] All right, since we'll be performing some intermediate and advanced statistical functions in [[Microsoft Excel|Excel]], you're going to need one of the Excel analysis tools.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/tool-pack?u=76281980&t=8)** It's called the Analysis ToolPak.
 >
@@ -221,7 +217,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (5)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5)
 > **UI Navigation:** click on (4), go to (2), scroll down (1)
 > **CLI Commands:** find (3)
 > **Prerequisites:** install (1)
@@ -232,8 +228,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sample considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/sample-considerations?u=76281980)
+#### [Sample considerations](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/sample-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -241,7 +236,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/sample-considerations?u=76281980&t=2)** Well, it means that we reach a conclusion, a conclusion based on evidence.
 >
-> **[0:09](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/sample-considerations?u=76281980&t=9)** This course is largely about statistical inference, which means that in this statistics course, we'll make some evidence based conclusions.
+> **[0:09](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/sample-considerations?u=76281980&t=9)** This course is largely about statistical inference, which means that in this [[Statistics]] course, we'll make some evidence based conclusions.
 >
 > **[0:17](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/sample-considerations?u=76281980&t=17)** So what will we use as evidence?
 >
@@ -279,7 +274,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/sample-considerations?u=76281980&t=97)** Well, how will you choose the 250 women?
 >
-> **[1:40](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/sample-considerations?u=76281980&t=100)** Will you choose women that go to the doctor's office?
+> **[1:40](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/sample-considerations?u=76281980&t=100)** Will you choose women that go to the doctor's [[Microsoft Office|office]]?
 >
 > **[1:42](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/sample-considerations?u=76281980&t=102)** Women leaving the grocery store?
 >
@@ -355,7 +350,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/sample-considerations?u=76281980&t=268)** In this course, you won't need to gather data, you'll be given data sets, but often to see our statistics concepts in action, you'll be asked to gather sample data, simple random samples, of course, from the population of data we provide.
 >
-> **[4:44](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/sample-considerations?u=76281980&t=284)** Luckily we have Excel and gathering a simple random sample from a population in Excel is actually quite simple.
+> **[4:44](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/sample-considerations?u=76281980&t=284)** Luckily we have [[Microsoft Excel|Excel]] and gathering a simple random sample from a population in Excel is actually quite simple.
 >
 > **[4:52](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/sample-considerations?u=76281980&t=292)** Let's head on over to Excel to choose some random samples.
 >
@@ -499,7 +494,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Microsoft Excel|Excel]] (4), [[Statistics]] (2), [[Microsoft Office|Office]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Statistics]] (2), [[Microsoft Office|Office]] (2)
 > **Definitions:** means that (3), is a  (2), in other words (1)
 > **Env Vars:** d229 (3), a229 (1), a93 (1)
 > **CLI Commands:** make (2), find (2)
@@ -508,8 +503,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### The central limit theorem
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/the-central-limit-theorem?u=76281980)
+#### [The central limit theorem](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/the-central-limit-theorem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -545,7 +539,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/the-central-limit-theorem?u=76281980&t=102)** The curve is getting taller and more narrow, which means a larger sample size gives us a smaller standard deviation.
 >
-> **[1:52](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/the-central-limit-theorem?u=76281980&t=112)** Let's actually see this inaction by using Excel.
+> **[1:52](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/the-central-limit-theorem?u=76281980&t=112)** Let's actually see this inaction by using [[Microsoft Excel|Excel]].
 >
 > **[1:56](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/the-central-limit-theorem?u=76281980&t=116)** Okay, so what are we looking here?
 >
@@ -671,7 +665,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (7), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** f20 (1), d951 (1)
 > **Versions:** 706.2 (1)
 > **UI Navigation:** go to (1)
@@ -679,8 +673,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### T-statistic vs. z-statistic
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/t-statistic-vs-z-statistic?u=76281980)
+#### [T-statistic vs. z-statistic](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/t-statistic-vs-z-statistic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -694,7 +687,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/t-statistic-vs-z-statistic?u=76281980&t=25)** And rarely do we know the population standard deviation.
 >
-> **[0:29](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/t-statistic-vs-z-statistic?u=76281980&t=29)** Small sample sizes and no access to the population standard deviation, those are two forms of uncertainty.
+> **[0:29](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/t-statistic-vs-z-statistic?u=76281980&t=29)** Small sample sizes and no access to the population standard deviation, those are two [[Forms]] of uncertainty.
 >
 > **[0:38](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/t-statistic-vs-z-statistic?u=76281980&t=38)** So if we gather 100 samples, and each sample has a sample size of only five data points, we start to run into a problem.
 >
@@ -744,7 +737,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/t-statistic-vs-z-statistic?u=76281980&t=175)** Nonetheless, even once we figure out that degrees of freedom is just n minus one, this chart still doesn't look like a whole lot of fun.
 >
-> **[3:04](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/t-statistic-vs-z-statistic?u=76281980&t=184)** But thankfully, we have Excel.
+> **[3:04](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/t-statistic-vs-z-statistic?u=76281980&t=184)** But thankfully, we have [[Microsoft Excel|Excel]].
 >
 > **[3:07](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/t-statistic-vs-z-statistic?u=76281980&t=187)** Let's head over to Excel to see the t statistic in action.
 >
@@ -778,7 +771,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/t-statistic-vs-z-statistic?u=76281980&t=275)** And we want to type in true here. Tell me what the z score is.
 >
-> **[4:40](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/t-statistic-vs-z-statistic?u=76281980&t=280)** And I will tell you what the probability of that score is.
+> **[4:40](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/t-statistic-vs-z-statistic?u=76281980&t=280)** And I will tell you what the [[Probability]] of that score is.
 >
 > **[4:44](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/t-statistic-vs-z-statistic?u=76281980&t=284)** So you can see right here, this score is 90.22 percent higher than all the other scores in the distribution.
 >
@@ -958,7 +951,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (6), data (5), [[Microsoft Excel|Excel]] (2), next (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Probability]] (6), [[Microsoft Excel|Excel]] (2), [[Forms]] (1)
 > **Versions:** 2.5 (5), 70.8 (4), 2.093 (4), 16.4 (3), 97.5 (3)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** in other words (1), stands for (1), means that (1), is a  (1)
@@ -970,8 +963,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to confidence intervals
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/introduction-to-confidence-intervals?u=76281980)
+#### [Introduction to confidence intervals](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/introduction-to-confidence-intervals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1043,7 +1035,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/introduction-to-confidence-intervals?u=76281980&t=202)** In these formulas, I assumed we'd need a z-score.
 >
-> **[3:25](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/introduction-to-confidence-intervals?u=76281980&t=205)** Then again, we'll be using Excel.
+> **[3:25](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/introduction-to-confidence-intervals?u=76281980&t=205)** Then again, we'll be using [[Microsoft Excel|Excel]].
 >
 > **[3:28](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/introduction-to-confidence-intervals?u=76281980&t=208)** So Excel will likely be doing most of the calculations for us.
 >
@@ -1053,16 +1045,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **Versions:** 6.25 (3)
 > **Speakers:** - [instructor] (1)
 
-#### Creating confidence intervals in Excel (proportions)
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/creating-confidence-intervals-in-excel-proportions?u=76281980)
+#### [Creating confidence intervals in Excel (proportions)](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/creating-confidence-intervals-in-excel-proportions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/creating-confidence-intervals-in-excel-proportions?u=76281980&t=0)** - [Instructor] Before we jump to Excel to create confidence intervals for proportions, let's take a look at the formula and the elements of the formula that we'll use to create the upper limit and the lower limit of our confidence intervals.
+> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/creating-confidence-intervals-in-excel-proportions?u=76281980&t=0)** - [Instructor] Before we jump to [[Microsoft Excel|Excel]] to create confidence intervals for proportions, let's take a look at the formula and the elements of the formula that we'll use to create the upper limit and the lower limit of our confidence intervals.
 >
 > **[0:13](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/creating-confidence-intervals-in-excel-proportions?u=76281980&t=13)** The formula for the upper limit is p-hat plus a Z value times the expression under the square root symbol, which is actually our sampling error.
 >
@@ -1320,7 +1311,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **Versions:** 0.40 (3), 2.0 (3), 2.5 (3), 0.05 (2), 1.96 (2)
 > **Definitions:** is a  (3)
 > **UI Navigation:** click on (1), go to (1)
@@ -1328,8 +1319,7 @@ created: 2026-05-02
 > **Env Vars:** a501 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating confidence intervals in Excel (means)
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/creating-confidence-intervals-in-excel-means?u=76281980)
+#### [Creating confidence intervals in Excel (means)](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/creating-confidence-intervals-in-excel-means?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1383,7 +1373,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/creating-confidence-intervals-in-excel-means?u=76281980&t=149)** So now to find our t-score.
 >
-> **[2:31](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/creating-confidence-intervals-in-excel-means?u=76281980&t=151)** Without Excel we need to use a t table.
+> **[2:31](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/creating-confidence-intervals-in-excel-means?u=76281980&t=151)** Without [[Microsoft Excel|Excel]] we need to use a t table.
 >
 > **[2:34](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/creating-confidence-intervals-in-excel-means?u=76281980&t=154)** Our sample size, n, is 25, so our degrees of freedom is n-1, 24.
 >
@@ -1443,7 +1433,7 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/creating-confidence-intervals-in-excel-means?u=76281980&t=325)** And that means that we're going to exclude 1% on the high end and 1% on the low end.
 >
-> **[5:30](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/creating-confidence-intervals-in-excel-means?u=76281980&t=330)** So what we're looking for here in terms of our Z-score, we're going to go ahead and type in the NORM.S.INV and our probability that we want is 0.99.
+> **[5:30](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/creating-confidence-intervals-in-excel-means?u=76281980&t=330)** So what we're looking for here in terms of our Z-score, we're going to go ahead and type in the NORM.S.INV and our [[Probability]] that we want is 0.99.
 >
 > **[5:44](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/creating-confidence-intervals-in-excel-means?u=76281980&t=344)** Again, we're doing that because it's a 98% confidence interval.
 >
@@ -1549,7 +1539,7 @@ created: 2026-05-02
 >
 > **[10:38](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/creating-confidence-intervals-in-excel-means?u=76281980&t=638)** What I want to show you is that when you're doing something like this, taking a sample and you want to create an upper and lower limit, it does not work when you have the entire population, but when you have a sample, in this case, Excel can help you a little bit.
 >
-> **[10:59](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/creating-confidence-intervals-in-excel-means?u=76281980&t=659)** So what you can do is you can go up to our Data menu, click on Data Analysis, you find Descriptive Statistics in here, click OK.
+> **[10:59](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/creating-confidence-intervals-in-excel-means?u=76281980&t=659)** So what you can do is you can go up to our Data menu, click on Data Analysis, you find Descriptive [[Statistics]] in here, click OK.
 >
 > **[11:11](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/creating-confidence-intervals-in-excel-means?u=76281980&t=671)** And what we're going to do is we're going to grab our sample data.
 >
@@ -1559,7 +1549,7 @@ created: 2026-05-02
 >
 > **[11:31](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/creating-confidence-intervals-in-excel-means?u=76281980&t=691)** Now we want a 98% confidence interval.
 >
-> **[11:35](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/creating-confidence-intervals-in-excel-means?u=76281980&t=695)** And so we just tell Excel 98% and it'll figure out the rest for you.
+> **[11:35](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/creating-confidence-intervals-in-excel-means?u=76281980&t=695)** And so we just tell Excel 98% and it'll figure out the [[Representational State Transfer (REST)|rest]] for you.
 >
 > **[11:39](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/creating-confidence-intervals-in-excel-means?u=76281980&t=699)** Our output range, I'm going to put that right here and this will give us our summary statistics.
 >
@@ -1585,7 +1575,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (5), [[Probability]] (3), [[Statistics]] (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Probability]] (3), [[Statistics]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 2.326 (3), 1.96 (2), 0.99 (2), 30.12 (1), 41.88 (1)
 > **CLI Commands:** find (4), make (1)
 > **Env Vars:** inv (2), d41 (1), norm (1), stdev (1)
@@ -1599,14 +1589,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to test a hypothesis
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/how-to-test-a-hypothesis?u=76281980)
+#### [How to test a hypothesis](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/how-to-test-a-hypothesis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/how-to-test-a-hypothesis?u=76281980&t=0)** - [Instructor] In a trial, lawyers use evidence in an attempt to prove a person is either guilty or not guilty.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/how-to-test-a-hypothesis?u=76281980&t=7)** So far in statistics, we've seen evidence.
+> **[0:07](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/how-to-test-a-hypothesis?u=76281980&t=7)** So far in [[Statistics]], we've seen evidence.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/how-to-test-a-hypothesis?u=76281980&t=10)** Samples are our evidence.
 >
@@ -1660,19 +1649,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (2), next (2)
+> **Frameworks & Libraries:** [[Statistics]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), just like (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Five steps of hypothesis testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/five-steps-of-hypothesis-testing?u=76281980)
+#### [Five steps of hypothesis testing](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/five-steps-of-hypothesis-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/five-steps-of-hypothesis-testing?u=76281980&t=0)** - [Instructor] Statistics help us draw sound conclusions, conclusions that are based on evidence.
+> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/five-steps-of-hypothesis-testing?u=76281980&t=0)** - [Instructor] [[Statistics]] help us draw sound conclusions, conclusions that are based on evidence.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/five-steps-of-hypothesis-testing?u=76281980&t=6)** To do this properly though, we need to have a fair trial.
 >
@@ -1768,7 +1756,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/five-steps-of-hypothesis-testing?u=76281980&t=226)** Next, we need to find the p-value for that test statistic.
 >
-> **[3:51](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/five-steps-of-hypothesis-testing?u=76281980&t=231)** The p-value is the probability that this outcome could occur by chance.
+> **[3:51](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/five-steps-of-hypothesis-testing?u=76281980&t=231)** The p-value is the [[Probability]] that this outcome could occur by chance.
 >
 > **[3:58](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/five-steps-of-hypothesis-testing?u=76281980&t=238)** So we go to our Z-score table.
 >
@@ -1820,7 +1808,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (4), next (3), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (4), [[Probability]] (1)
 > **Versions:** 2.50 (2), 0.0062 (2), 0.9938 (1), 99.38 (1), 0.05 (1)
 > **Definitions:** means that (2), is called (1), is a  (1), is an  (1)
 > **CLI Commands:** find (1)
@@ -1828,8 +1816,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### One-tailed vs. two-tailed tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/one-tailed-vs-two-tailed-tests?u=76281980)
+#### [One-tailed vs. two-tailed tests](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/one-tailed-vs-two-tailed-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1917,8 +1904,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hypothesis test exercise (means)
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/hypothesis-test-exercise-means?u=76281980)
+#### [Hypothesis test exercise (means)](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/hypothesis-test-exercise-means?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1934,7 +1920,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/hypothesis-test-exercise-means?u=76281980&t=32)** For the supplement, an expected recovery time for patients, for the dog food, an expected amount of dog food in each bag.
 >
-> **[0:41](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/hypothesis-test-exercise-means?u=76281980&t=41)** We will of course use Excel to perform these hypothesis tests.
+> **[0:41](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/hypothesis-test-exercise-means?u=76281980&t=41)** We will of course use [[Microsoft Excel|Excel]] to perform these hypothesis tests.
 >
 > **[0:44](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/hypothesis-test-exercise-means?u=76281980&t=44)** But before we head over to Excel, let me provide you some helpful formulas.
 >
@@ -2236,7 +2222,7 @@ created: 2026-05-02
 >
 > **[14:49](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/hypothesis-test-exercise-means?u=76281980&t=889)** My degrees of freedom, well, we just figured that out a little while ago, our degrees of freedom are 15 and then we just type in true 'cause we want it to be cumulative.
 >
-> **[15:01](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/hypothesis-test-exercise-means?u=76281980&t=901)** And you'll notice here that this has given us a probability of 0.0711.
+> **[15:01](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/hypothesis-test-exercise-means?u=76281980&t=901)** And you'll notice here that this has given us a [[Probability]] of 0.0711.
 >
 > **[15:12](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/hypothesis-test-exercise-means?u=76281980&t=912)** That's our left-tailed test.
 >
@@ -2282,7 +2268,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (1), next (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Probability]] (1)
 > **Versions:** 8.5 (5), 39.59 (3), 1.91 (3), 1.55 (3), 1.5 (2)
 > **Env Vars:** dist (3), norm (1), inv (1)
 > **UI Navigation:** go to (5)
@@ -2290,8 +2276,7 @@ created: 2026-05-02
 > **CLI Commands:** find (2), make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Hypothesis test exercise (proportions)
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/hypothesis-test-exercise-proportions?u=76281980)
+#### [Hypothesis test exercise (proportions)](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/hypothesis-test-exercise-proportions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2301,7 +2286,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/hypothesis-test-exercise-proportions?u=76281980&t=8)** In this scenario, we'll investigate whether an upcoming election is still undecided based on a recent poll of likely voters.
 >
-> **[0:16](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/hypothesis-test-exercise-proportions?u=76281980&t=16)** We will, of course, use Excel to perform our hypothesis test.
+> **[0:16](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/hypothesis-test-exercise-proportions?u=76281980&t=16)** We will, of course, use [[Microsoft Excel|Excel]] to perform our hypothesis test.
 >
 > **[0:20](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/hypothesis-test-exercise-proportions?u=76281980&t=20)** But before we head over to Excel, let me show you a formula we'll utilize for this hypothesis test.
 >
@@ -2483,7 +2468,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **Versions:** 0.50 (5), 1.88 (5), 0.542 (1), 0.0224 (1), 1.644 (1)
 > **Env Vars:** norm (2), sqrt (1), dist (1), inv (1), b35 (1)
 > **CLI Commands:** make (2), find (1)
@@ -2496,8 +2481,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explanation of two population comparisons
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/explanation-of-two-population-comparisons?u=76281980)
+#### [Explanation of two population comparisons](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/explanation-of-two-population-comparisons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2547,17 +2531,16 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/explanation-of-two-population-comparisons?u=76281980&t=137)** For these men it didn't matter which group they were in.
 >
-> **[2:21](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/explanation-of-two-population-comparisons?u=76281980&t=141)** In this chapter, we'll use Excel to help us compare two populations by performing hypothesis tests on two independent samples, and we'll do it for both proportions and means.
+> **[2:21](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/explanation-of-two-population-comparisons?u=76281980&t=141)** In this chapter, we'll use [[Microsoft Excel|Excel]] to help us compare two populations by performing hypothesis tests on two independent samples, and we'll do it for both proportions and means.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Prerequisites:** required to (3)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing two populations (proportions)
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/comparing-two-populations-proportions?u=76281980)
+#### [Comparing two populations (proportions)](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/comparing-two-populations-proportions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2609,7 +2592,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/comparing-two-populations-proportions?u=76281980&t=109)** The new drug, the placebo, they're all the same.
 >
-> **[1:52](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/comparing-two-populations-proportions?u=76281980&t=112)** That would mean that the probability or the proportion of people with heart attacks in Group 1 and the proportion of people with heart attacks in Group 2, that would ultimately be the same.
+> **[1:52](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/comparing-two-populations-proportions?u=76281980&t=112)** That would mean that the [[Probability]] or the proportion of people with heart attacks in Group 1 and the proportion of people with heart attacks in Group 2, that would ultimately be the same.
 >
 > **[2:04](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/comparing-two-populations-proportions?u=76281980&t=124)** So we think that P1 minus P2 is actually zero.
 >
@@ -2673,7 +2656,7 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/comparing-two-populations-proportions?u=76281980&t=330)** So our standard error is that bottom part of this Z formula.
 >
-> **[5:35](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/comparing-two-populations-proportions?u=76281980&t=335)** And I've taken it, and I've put it over here 'cause we want to take this piece by piece 'cause this is going to be rather big to put into Excel.
+> **[5:35](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/comparing-two-populations-proportions?u=76281980&t=335)** And I've taken it, and I've put it over here 'cause we want to take this piece by piece 'cause this is going to be rather big to put into [[Microsoft Excel|Excel]].
 >
 > **[5:42](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/comparing-two-populations-proportions?u=76281980&t=342)** So what I'm going to do is I'm going to break this up into two parts.
 >
@@ -2724,8 +2707,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing two populations (means)
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/comparing-two-populations-means?u=76281980)
+#### [Comparing two populations (means)](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/comparing-two-populations-means?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2733,7 +2715,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/comparing-two-populations-means?u=76281980&t=7)** And let's look a look at this particular scenario so we'd understand what we're looking at here.
 >
-> **[0:11](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/comparing-two-populations-means?u=76281980&t=11)** So in this particular scenario, we have a company that has developed a simulation app, and this app is supposed to help people understand math concepts.
+> **[0:11](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/comparing-two-populations-means?u=76281980&t=11)** So in this particular scenario, we have a company that has developed a [[Simulation]] app, and this app is supposed to help people understand math concepts.
 >
 > **[0:20](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/comparing-two-populations-means?u=76281980&t=20)** And the company tested the simulation by working with two different math classes.
 >
@@ -2881,7 +2863,7 @@ created: 2026-05-02
 >
 > **[7:09](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/comparing-two-populations-means?u=76281980&t=429)** That was a lot of work.
 >
-> **[7:10](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/comparing-two-populations-means?u=76281980&t=430)** Luckily though, we have Excel.
+> **[7:10](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/comparing-two-populations-means?u=76281980&t=430)** Luckily though, we have [[Microsoft Excel|Excel]].
 >
 > **[7:12](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/comparing-two-populations-means?u=76281980&t=432)** And Excel can do a lot of this work for us much more quickly.
 >
@@ -3087,7 +3069,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (16), [[Microsoft Excel|Excel]] (4), data (4)
+> **Frameworks & Libraries:** [[Simulation]] (16), [[Microsoft Excel|Excel]] (4)
 > **Versions:** 151.9 (4), 140.7 (3), 0.05 (3), 1.65 (3), 1.43 (3)
 > **Definitions:** is a  (6)
 > **CLI Commands:** find (3), make (1)
@@ -3101,8 +3083,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### ANOVA: What is analysis of variance?
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/anova-what-is-analysis-of-variance?u=76281980)
+#### [ANOVA: What is analysis of variance?](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/anova-what-is-analysis-of-variance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3236,7 +3217,7 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/anova-what-is-analysis-of-variance?u=76281980&t=347)** By the way, when you have the sum of squares within and the sum of squares between, and you add those up, you now get what's called SST, the sum squares total, or as a lot of people prefer to say, the total sum of squares.
 >
-> **[6:04](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/anova-what-is-analysis-of-variance?u=76281980&t=364)** Now of course, we've done this the long way to begin with but Excel allows us to do it a little bit more quickly.
+> **[6:04](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/anova-what-is-analysis-of-variance?u=76281980&t=364)** Now of course, we've done this the long way to begin with but [[Microsoft Excel|Excel]] allows us to do it a little bit more quickly.
 >
 > **[6:11](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/anova-what-is-analysis-of-variance?u=76281980&t=371)** Now, we want to take out all the spaces here.
 >
@@ -3332,7 +3313,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), next (4), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **Env Vars:** anova (6), b10 (3), sst (2), ssw (1), ssb (1)
 > **Cross-References:** in the next (2), next video (1)
 > **Versions:** 0.05 (2)
@@ -3341,8 +3322,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hypothesis test and the F-statistic
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/hypothesis-test-and-the-f-statistic?u=76281980)
+#### [Hypothesis test and the F-statistic](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/hypothesis-test-and-the-f-statistic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3374,7 +3354,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/hypothesis-test-and-the-f-statistic?u=76281980&t=91)** The F-statistic is what you use in ANOVA.
 >
-> **[1:34](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/hypothesis-test-and-the-f-statistic?u=76281980&t=94)** And just like with the t- and the z-statistic, there are going to be critical values and there are good f's and bad F-statistics.
+> **[1:34](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/hypothesis-test-and-the-f-statistic?u=76281980&t=94)** And just like with the t- and the z-statistic, there are going to be critical values and there are good f's and bad F-[[Statistics]].
 >
 > **[1:44](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/hypothesis-test-and-the-f-statistic?u=76281980&t=104)** In this case right here, you can see a high F-statistic usually means a low p-value, which usually means we reject the null hypothesis.
 >
@@ -3406,7 +3386,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/hypothesis-test-and-the-f-statistic?u=76281980&t=171)** But I've done a lot of this for you.
 >
-> **[2:52](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/hypothesis-test-and-the-f-statistic?u=76281980&t=172)** And of course, Excel does all this work for you, if you'd like.
+> **[2:52](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/hypothesis-test-and-the-f-statistic?u=76281980&t=172)** And of course, [[Microsoft Excel|Excel]] does all this work for you, if you'd like.
 >
 > **[2:56](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/hypothesis-test-and-the-f-statistic?u=76281980&t=176)** But as we begin to say to ourselves, "Well, are these groups the same or different?"
 >
@@ -3648,7 +3628,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Statistics]] (1)
 > **Versions:** 0.05 (7), 5.14 (2), 7.8 (1), 11.84 (1), 0.828 (1)
 > **Env Vars:** anova (8), ssb (1), ssw (1), df1 (1)
 > **CLI Commands:** find (3), make (1)
@@ -3662,12 +3642,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is regression?
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/what-is-regression?u=76281980)
+#### [What is regression?](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/what-is-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/what-is-regression?u=76281980&t=0)** - [Instructor] Linear regression analysis is a statistical attempt to understand the relationship between two variables.
+> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/what-is-regression?u=76281980&t=0)** - [Instructor] [[Linear Regression]] analysis is a statistical attempt to understand the relationship between two variables.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/what-is-regression?u=76281980&t=7)** For example, what's the relationship between the miles on a certain type of car and the value of that car.
 >
@@ -3691,7 +3670,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/what-is-regression?u=76281980&t=61)** The data would then be plotted on a scatter chart.
 >
-> **[1:05](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/what-is-regression?u=76281980&t=65)** This is where Excel comes into play.
+> **[1:05](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/what-is-regression?u=76281980&t=65)** This is where [[Microsoft Excel|Excel]] comes into play.
 >
 > **[1:08](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/what-is-regression?u=76281980&t=68)** We'll be using Excel to help us create a line that best fits our data points.
 >
@@ -3737,19 +3716,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (3), [[Linear Regression]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Linear Regression]] (2)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (1), just like (1)
 > **Versions:** 0.10 (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Regression terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/regression-terminology?u=76281980)
+#### [Regression terminology](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/regression-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/regression-terminology?u=76281980&t=0)** - [Narrator] Before we perform a regression in Excel, let's get acquainted with some terms you'll be seeing in the regression results Excel will provide you.
+> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/regression-terminology?u=76281980&t=0)** - [Narrator] Before we perform a regression in [[Microsoft Excel|Excel]], let's get acquainted with some terms you'll be seeing in the regression results Excel will provide you.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/regression-terminology?u=76281980&t=8)** The first thing we want to understand is the formula of our regression line, y equals mx plus b.
 >
@@ -3827,18 +3805,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (3), next (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **Definitions:** is a  (4), is called (2), means that (2), is an  (1)
 > **Versions:** 1.0 (1), 0.75 (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Linear regressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/linear-regressions?u=76281980)
+#### [Linear regressions](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/linear-regressions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/linear-regressions?u=76281980&t=0)** - [Instructor] All right, so let's run some basic linear regressions using Excel.
+> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/linear-regressions?u=76281980&t=0)** - [Instructor] All right, so let's run some basic linear regressions using [[Microsoft Excel|Excel]].
 >
 > **[0:05](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/linear-regressions?u=76281980&t=5)** And you can see, I've set up a number of worksheets here.
 >
@@ -4140,7 +4117,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (5), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5)
 > **UI Navigation:** go to (8), click on (5)
 > **CLI Commands:** make (6), find (1)
 > **Env Vars:** nba (4), nfl (2), anova (1)
@@ -4154,8 +4131,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are simulations?
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/what-are-simulations?u=76281980)
+#### [What are simulations?](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/what-are-simulations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4171,7 +4147,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/what-are-simulations?u=76281980&t=21)** You see, Monte Carlo simulations allow you to run an experiment or a model hundreds, or even thousands of times.
 >
-> **[0:30](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/what-are-simulations?u=76281980&t=30)** So, it's an incredible opportunity to collect massive random samples based on statistics and to do it for events that haven't happened yet.
+> **[0:30](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/what-are-simulations?u=76281980&t=30)** So, it's an incredible opportunity to collect massive random samples based on [[Statistics]] and to do it for events that haven't happened yet.
 >
 > **[0:41](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/what-are-simulations?u=76281980&t=41)** So, it allows us to test the statistics we've learned in this course and preceding courses on real life systems, processes, or designs.
 >
@@ -4193,16 +4169,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (3), power (1)
+> **Frameworks & Libraries:** [[Statistics]] (3)
 > **Definitions:** refers to (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Monte Carlo simulation example
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/monte-carlo-simulation-example?u=76281980)
+#### [Monte Carlo simulation example](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/monte-carlo-simulation-example?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/monte-carlo-simulation-example?u=76281980&t=0)** - [Instructor] Okay, so let's learn how to do a Monte Carlo simulation in Excel using a very, very simple example.
+> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/monte-carlo-simulation-example?u=76281980&t=0)** - [Instructor] Okay, so let's learn how to do a Monte Carlo [[Simulation]] in [[Microsoft Excel|Excel]] using a very, very simple example.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/monte-carlo-simulation-example?u=76281980&t=8)** We're going to be rolling dice here and we're going to take the sum of the dice, and we want to see how many times we end up with some critical value, whether it's equal to that critical value, above the critical value, or below the critical value.
 >
@@ -4210,7 +4185,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/monte-carlo-simulation-example?u=76281980&t=28)** Even if we're rolling four of them, we know how to calculate the odds of this.
 >
-> **[0:32](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/monte-carlo-simulation-example?u=76281980&t=32)** And you wouldn't necessarily need a Monte Carlo simulation for this, unless you want to demonstrate to somebody something like the central limit theorem or something else basic about statistics.
+> **[0:32](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/monte-carlo-simulation-example?u=76281980&t=32)** And you wouldn't necessarily need a Monte Carlo simulation for this, unless you want to demonstrate to somebody something like the central limit theorem or something else basic about [[Statistics]].
 >
 > **[0:44](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/monte-carlo-simulation-example?u=76281980&t=44)** But we're going to do this because I want to show you that Monte Carlo simulation works.
 >
@@ -4418,7 +4393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (4), next (4), data (4), [[Microsoft Excel|Excel]] (2), hit (2)
+> **Frameworks & Libraries:** [[Simulation]] (4), [[Microsoft Excel|Excel]] (2), [[Statistics]] (1)
 > **UI Navigation:** go to (4), click on (2)
 > **Prerequisites:** set up (5)
 > **Env Vars:** countif (2), b15 (1)
@@ -4427,12 +4402,11 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 
-#### Business simulation example
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/business-simulation-example?u=76281980)
+#### [Business simulation example](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/business-simulation-example?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/business-simulation-example?u=76281980&t=0)** - [Instructor] All right, in the previous video, we learned a really basic use for Monte Carlo simulation.
+> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/business-simulation-example?u=76281980&t=0)** - [Instructor] All right, in the previous video, we learned a really basic use for Monte Carlo [[Simulation]].
 >
 > **[0:07](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/business-simulation-example?u=76281980&t=7)** In this case, we're going to do something that's slightly more difficult, probably a little bit more business-oriented, and hopefully, a little more interesting to you.
 >
@@ -4612,7 +4586,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (5), data (4), business (2), hit (2)
+> **Frameworks & Libraries:** [[Simulation]] (5)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2), click on (1)
 > **Env Vars:** randbetween (1)
@@ -4626,12 +4600,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue learning Excel statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/continue-learning-excel-statistics?u=76281980)
+#### [Continue learning Excel statistics](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/continue-learning-excel-statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/continue-learning-excel-statistics?u=76281980&t=0)** - Congrats, stats, Excel, you did it.
+> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/continue-learning-excel-statistics?u=76281980&t=0)** - Congrats, stats, [[Microsoft Excel|Excel]], you did it.
 >
 > **[0:03](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/continue-learning-excel-statistics?u=76281980&t=3)** You cracked the surface of intimidating topics like hypothesis tests, ANOVA, Regression, Monte Carlo simulations, and you've done it in Excel.
 >
@@ -4639,11 +4612,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/continue-learning-excel-statistics?u=76281980&t=20)** That said, we just cracked the surface.
 >
-> **[0:23](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/continue-learning-excel-statistics?u=76281980&t=23)** There are plenty more statistics courses in the LinkedIn Learning Library.
+> **[0:23](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/continue-learning-excel-statistics?u=76281980&t=23)** There are plenty more [[Statistics]] courses in the [[LinkedIn]] Learning Library.
 >
 > **[0:27](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/continue-learning-excel-statistics?u=76281980&t=27)** You could dig in deeper in Excel, or you can explore tools like SPSS, and if you really want to impress the boss, dive into the courses on analytics.
 >
-> **[0:37](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/continue-learning-excel-statistics?u=76281980&t=37)** And if stats and Excel are your new obsessions, maybe it's time for you to consider a career in data science.
+> **[0:37](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/continue-learning-excel-statistics?u=76281980&t=37)** And if stats and Excel are your new obsessions, maybe it's time for you to consider a career in [[Data Science]].
 >
 > **[0:45](https://www.linkedin.com/learning/excel-statistics-essential-training-2-22879835/continue-learning-excel-statistics?u=76281980&t=45)** The world could use your help.
 >
@@ -4651,7 +4624,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (3), [[Statistics]] (1), [[LinkedIn]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Statistics]] (1), [[LinkedIn]] (1), [[Data Science]] (1)
 > **Env Vars:** anova (1), spss (1)
 > **Speakers:** - congrats (1)
 

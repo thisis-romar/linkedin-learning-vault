@@ -86,13 +86,13 @@ created: 2026-05-02
 > 53. [[Drupal 9 Essential Training 1 Introduction And Administration]] — 6 mentions
 > 54. [[Learning JavaScript Debugging]] — 6 mentions
 > 55. [[Ethical Hacking- Session Hijacking]] — 5 mentions
-> 56. [[Building Great Forms with HTML and CSS]] — 5 mentions
-> 57. [[WordPress Essential Training]] — 5 mentions
-> 58. [[Ethical Hacking- Enumeration]] — 4 mentions
-> 59. [[Ethical Hacking- The Complete Malware Analysis Process]] — 4 mentions
-> 60. [[Designing RESTful APIs]] — 4 mentions
-> 61. [[Python for Health Sciences and Healthcare]] — 4 mentions
-> 62. [[Azure Understanding The Big Picture]] — 4 mentions
+> 56. [[Azure Understanding The Big Picture]] — 5 mentions
+> 57. [[Building Great Forms with HTML and CSS]] — 5 mentions
+> 58. [[WordPress Essential Training]] — 5 mentions
+> 59. [[Ethical Hacking- Enumeration]] — 4 mentions
+> 60. [[Ethical Hacking- The Complete Malware Analysis Process]] — 4 mentions
+> 61. [[Designing RESTful APIs]] — 4 mentions
+> 62. [[Python for Health Sciences and Healthcare]] — 4 mentions
 > 63. [[Building a Video Transcriber with Node.js and Google AI Speech-To-Text API]] — 4 mentions
 > 64. [[Google Cloud Data and Storage Foundations]] — 4 mentions
 > 65. [[C Plus Plus Essential Training]] — 4 mentions

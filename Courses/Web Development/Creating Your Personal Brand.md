@@ -67,8 +67,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is personal branding?
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/what-is-personal-branding?u=76281980)
+#### [What is personal branding?](https://www.linkedin.com/learning/creating-your-personal-brand/what-is-personal-branding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -76,7 +75,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/creating-your-personal-brand/what-is-personal-branding?u=76281980&t=7)** Would they give you the same answer that you might say about yourself?
 >
-> **[0:10](https://www.linkedin.com/learning/creating-your-personal-brand/what-is-personal-branding?u=76281980&t=10)** Personal branding puts the intention and the focus in your reputation, and ensures that other people see you the way you want.
+> **[0:10](https://www.linkedin.com/learning/creating-your-personal-brand/what-is-personal-branding?u=76281980&t=10)** [[Personal Branding]] puts the intention and the focus in your reputation, and ensures that other people see you the way you want.
 >
 > **[0:18](https://www.linkedin.com/learning/creating-your-personal-brand/what-is-personal-branding?u=76281980&t=18)** My name is Lida Citroen, and I specialize in reputation management and personal branding.
 >
@@ -88,7 +87,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Personal Branding]] (2), management (1), teams (1), career (1)
+> **Frameworks & Libraries:** [[Personal Branding]] (2)
 > **Speakers:** - if (1)
 
 
@@ -96,8 +95,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating your personal brand
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/creating-your-personal-brand?u=76281980)
+#### [Creating your personal brand](https://www.linkedin.com/learning/creating-your-personal-brand/creating-your-personal-brand?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -117,7 +115,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/creating-your-personal-brand/creating-your-personal-brand?u=76281980&t=30)** It tells people what they can expect from you.
 >
-> **[0:33](https://www.linkedin.com/learning/creating-your-personal-brand/creating-your-personal-brand?u=76281980&t=33)** The process of personal branding is very simple, but it's not easy.
+> **[0:33](https://www.linkedin.com/learning/creating-your-personal-brand/creating-your-personal-brand?u=76281980&t=33)** The process of [[Personal Branding]] is very simple, but it's not easy.
 >
 > **[0:37](https://www.linkedin.com/learning/creating-your-personal-brand/creating-your-personal-brand?u=76281980&t=37)** In this course, I'm going to ask you to think about things which might push you outside of your comfort zone.
 >
@@ -137,13 +135,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Personal Branding]] (4), career (2), power (1)
+> **Frameworks & Libraries:** [[Personal Branding]] (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - what (1)
 
-#### Creating career opportunities
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/creating-career-opportunities-2?u=76281980)
+#### [Creating career opportunities](https://www.linkedin.com/learning/creating-your-personal-brand/creating-career-opportunities-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -159,7 +156,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/creating-your-personal-brand/creating-career-opportunities-2?u=76281980&t=27)** I work with a lot of established and emerging business leaders, entrepreneurs, high-potential employees, job seekers, college students, really anyone who's looking to take more control and intention over their career.
 >
-> **[0:40](https://www.linkedin.com/learning/creating-your-personal-brand/creating-career-opportunities-2?u=76281980&t=40)** It doesn't always mean you're in transition, but what personal branding gives you is the opportunity to take a moment, stop where you are and ask yourself, where do I want to be going forward?
+> **[0:40](https://www.linkedin.com/learning/creating-your-personal-brand/creating-career-opportunities-2?u=76281980&t=40)** It doesn't always mean you're in transition, but what [[Personal Branding]] gives you is the opportunity to take a moment, stop where you are and ask yourself, where do I want to be going forward?
 >
 > **[0:53](https://www.linkedin.com/learning/creating-your-personal-brand/creating-career-opportunities-2?u=76281980&t=53)** So when you think about the personal branding process, I like to describe that it takes the randomness out of your career and allows you to articulate a game plan and a strategy that helps you make smart decisions.
 >
@@ -179,12 +176,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (5), [[Personal Branding]] (2), business (1), game (1)
+> **Frameworks & Libraries:** [[Personal Branding]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - when (1)
 
-#### Building influence
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/building-influence-2?u=76281980)
+#### [Building influence](https://www.linkedin.com/learning/creating-your-personal-brand/building-influence-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -196,7 +192,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/creating-your-personal-brand/building-influence-2?u=76281980&t=26)** I remember, a few years ago, I got done speaking at an event, and a young woman approached me and said, "Lida, I have a problem.
 >
-> **[0:33](https://www.linkedin.com/learning/creating-your-personal-brand/building-influence-2?u=76281980&t=33)** "I'm known in my company as the office mom."
+> **[0:33](https://www.linkedin.com/learning/creating-your-personal-brand/building-influence-2?u=76281980&t=33)** "I'm known in my company as the [[Microsoft Office|office]] mom."
 >
 > **[0:36](https://www.linkedin.com/learning/creating-your-personal-brand/building-influence-2?u=76281980&t=36)** She said, "The executives have passed me up "for two promotions now "because they think I'm the office mom," and we talked about what behavior she had been exhibiting to create that brand, and what we found out is she was the one who bought the birthday cake and circulated the card.
 >
@@ -240,7 +236,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/creating-your-personal-brand/building-influence-2?u=76281980&t=145)** You're not attaching that action to the value, and you're not getting credit.
 >
-> **[2:29](https://www.linkedin.com/learning/creating-your-personal-brand/building-influence-2?u=76281980&t=149)** And in the world of personal branding and career advancement, you do need credibility to build influence.
+> **[2:29](https://www.linkedin.com/learning/creating-your-personal-brand/building-influence-2?u=76281980&t=149)** And in the world of [[Personal Branding]] and career advancement, you do need credibility to build influence.
 >
 > **[2:36](https://www.linkedin.com/learning/creating-your-personal-brand/building-influence-2?u=76281980&t=156)** So I want you to take a moment now and think about your values.
 >
@@ -252,7 +248,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), leadership (1), [[Personal Branding]] (1), career (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Personal Branding]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** dna (1)
 > **Cross-References:** we talked about (1)
@@ -263,14 +259,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining your current brand
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/defining-your-current-brand-2?u=76281980)
+#### [Defining your current brand](https://www.linkedin.com/learning/creating-your-personal-brand/defining-your-current-brand-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/creating-your-personal-brand/defining-your-current-brand-2?u=76281980&t=1)** - I remember my client Mark a few years ago.
 >
-> **[0:03](https://www.linkedin.com/learning/creating-your-personal-brand/defining-your-current-brand-2?u=76281980&t=3)** Mark didn't realize he had a personal branding problem until we started looking at what was happening in his company.
+> **[0:03](https://www.linkedin.com/learning/creating-your-personal-brand/defining-your-current-brand-2?u=76281980&t=3)** Mark didn't realize he had a [[Personal Branding]] problem until we started looking at what was happening in his company.
 >
 > **[0:10](https://www.linkedin.com/learning/creating-your-personal-brand/defining-your-current-brand-2?u=76281980&t=10)** Lot of people were leaving the company and not really giving a lot of details on why.
 >
@@ -324,17 +319,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Personal Branding]] (4), teams (1), career (1), business (1)
+> **Frameworks & Libraries:** [[Personal Branding]] (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - i (1)
 
-#### Creating your desired brand
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/creating-your-desired-brand-2?u=76281980)
+#### [Creating your desired brand](https://www.linkedin.com/learning/creating-your-personal-brand/creating-your-desired-brand-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/creating-your-personal-brand/creating-your-desired-brand-2?u=76281980&t=1)** - Remember I told you that personal branding was about control?
+> **[0:01](https://www.linkedin.com/learning/creating-your-personal-brand/creating-your-desired-brand-2?u=76281980&t=1)** - Remember I told you that [[Personal Branding]] was about control?
 >
 > **[0:04](https://www.linkedin.com/learning/creating-your-personal-brand/creating-your-desired-brand-2?u=76281980&t=4)** Well, here's how you're going to get that control.
 >
@@ -382,13 +376,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Personal Branding]] (1), next (1), business (1), career (1)
+> **Frameworks & Libraries:** [[Personal Branding]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - remember (1)
 
-#### Identifying your target audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/identifying-your-target-audience-2?u=76281980)
+#### [Identifying your target audience](https://www.linkedin.com/learning/creating-your-personal-brand/identifying-your-target-audience-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -400,7 +393,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/creating-your-personal-brand/identifying-your-target-audience-2?u=76281980&t=22)** You're going to market your product to people who find the offer of the experience of your brand enticing and appealing and people who can afford you.
 >
-> **[0:31](https://www.linkedin.com/learning/creating-your-personal-brand/identifying-your-target-audience-2?u=76281980&t=31)** Well, personal branding works the same way.
+> **[0:31](https://www.linkedin.com/learning/creating-your-personal-brand/identifying-your-target-audience-2?u=76281980&t=31)** Well, [[Personal Branding]] works the same way.
 >
 > **[0:34](https://www.linkedin.com/learning/creating-your-personal-brand/identifying-your-target-audience-2?u=76281980&t=34)** You promote and position yourself to audiences specifically who will find you relevant and compelling.
 >
@@ -464,7 +457,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), functional (2), [[Personal Branding]] (1)
+> **Frameworks & Libraries:** [[Personal Branding]] (1)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** go to (2)
 > **Analogies:** imagine (1), just like (1)
@@ -475,8 +468,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a personal marketing strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/creating-a-personal-marketing-strategy?u=76281980)
+#### [Creating a personal marketing strategy](https://www.linkedin.com/learning/creating-your-personal-brand/creating-a-personal-marketing-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -488,7 +480,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/creating-your-personal-brand/creating-a-personal-marketing-strategy?u=76281980&t=14)** Your personal brand tells your target audience what you stand for, what you believe in, and how you can offer them value.
 >
-> **[0:22](https://www.linkedin.com/learning/creating-your-personal-brand/creating-a-personal-marketing-strategy?u=76281980&t=22)** Some people approach personal branding because there's a challenge.
+> **[0:22](https://www.linkedin.com/learning/creating-your-personal-brand/creating-a-personal-marketing-strategy?u=76281980&t=22)** Some people approach [[Personal Branding]] because there's a challenge.
 >
 > **[0:25](https://www.linkedin.com/learning/creating-your-personal-brand/creating-a-personal-marketing-strategy?u=76281980&t=25)** Maybe you've gone through the exercises in the previous movies and you've seen that your current brand is here but your desired brand is very different.
 >
@@ -536,18 +528,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Personal Branding]] (1), hit (1), next (1), management (1)
+> **Frameworks & Libraries:** [[Personal Branding]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - your (1)
 
-#### Networking your personal brand
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/networking-your-personal-brand-2?u=76281980)
+#### [Networking your personal brand](https://www.linkedin.com/learning/creating-your-personal-brand/networking-your-personal-brand-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/creating-your-personal-brand/networking-your-personal-brand-2?u=76281980&t=1)** - When you think about networking, where are some of the places you imagine you can network?
 >
-> **[0:05](https://www.linkedin.com/learning/creating-your-personal-brand/networking-your-personal-brand-2?u=76281980&t=5)** I believe you can network anywhere at company meetings, sitting on an airplane, at a business event or even in the elevator of your own office building.
+> **[0:05](https://www.linkedin.com/learning/creating-your-personal-brand/networking-your-personal-brand-2?u=76281980&t=5)** I believe you can network anywhere at company meetings, sitting on an airplane, at a business event or even in the elevator of your own [[Microsoft Office|office]] building.
 >
 > **[0:13](https://www.linkedin.com/learning/creating-your-personal-brand/networking-your-personal-brand-2?u=76281980&t=13)** When I teach networking, I call it intentional networking because I want the emphasis to be on designing a networking strategy for you that meets your personal brand goals.
 >
@@ -603,14 +594,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), career (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - when (1)
 
-#### Managing your online reputation
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/managing-your-online-reputation-2?u=76281980)
+#### [Managing your online reputation](https://www.linkedin.com/learning/creating-your-personal-brand/managing-your-online-reputation-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -622,7 +612,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/creating-your-personal-brand/managing-your-online-reputation-2?u=76281980&t=14)** Social media is a real way to express your values and your offer to people everywhere.
 >
-> **[0:21](https://www.linkedin.com/learning/creating-your-personal-brand/managing-your-online-reputation-2?u=76281980&t=21)** Let's review some of the social media basics as they relate to personal branding.
+> **[0:21](https://www.linkedin.com/learning/creating-your-personal-brand/managing-your-online-reputation-2?u=76281980&t=21)** Let's review some of the social media basics as they relate to [[Personal Branding]].
 >
 > **[0:26](https://www.linkedin.com/learning/creating-your-personal-brand/managing-your-online-reputation-2?u=76281980&t=26)** First, it's important to stay genuine online.
 >
@@ -648,11 +638,11 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/creating-your-personal-brand/managing-your-online-reputation-2?u=76281980&t=95)** So if you're commenting on things or posting pictures that you think, well, somebody might not see that, or maybe a hiring manager won't notice that I did that.
 >
-> **[1:43](https://www.linkedin.com/learning/creating-your-personal-brand/managing-your-online-reputation-2?u=76281980&t=103)** Just believe that they will because privacy settings are not fail-proof.
+> **[1:43](https://www.linkedin.com/learning/creating-your-personal-brand/managing-your-online-reputation-2?u=76281980&t=103)** Just believe that they will because [[Privacy]] settings are not fail-proof.
 >
 > **[1:48](https://www.linkedin.com/learning/creating-your-personal-brand/managing-your-online-reputation-2?u=76281980&t=108)** Also, stay focused on your target audience online, where are they?
 >
-> **[1:52](https://www.linkedin.com/learning/creating-your-personal-brand/managing-your-online-reputation-2?u=76281980&t=112)** If you're trying to get the attention of business leaders and professionals, you're probably going to spend a lot of time on LinkedIn, it's where business professionals go.
+> **[1:52](https://www.linkedin.com/learning/creating-your-personal-brand/managing-your-online-reputation-2?u=76281980&t=112)** If you're trying to get the attention of business leaders and professionals, you're probably going to spend a lot of time on [[LinkedIn]], it's where business professionals go.
 >
 > **[2:00](https://www.linkedin.com/learning/creating-your-personal-brand/managing-your-online-reputation-2?u=76281980&t=120)** If you're more of the creative type and you want to get the attention of ad directors or marketing firms, a platform like Instagram might be more relevant for you.
 >
@@ -698,19 +688,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4), business (3), [[Personal Branding]] (2), express (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Personal Branding]] (2), [[Privacy]] (1)
 > **Analogies:** for instance (2), picture (2), just like (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - a (1)
 
-#### Conveying your personal brand authentically
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/conveying-your-personal-brand-authentically?u=76281980)
+#### [Conveying your personal brand authentically](https://www.linkedin.com/learning/creating-your-personal-brand/conveying-your-personal-brand-authentically?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/creating-your-personal-brand/conveying-your-personal-brand-authentically?u=76281980&t=1)** - Personal branding is a lot about perception and judgment.
+> **[0:01](https://www.linkedin.com/learning/creating-your-personal-brand/conveying-your-personal-brand-authentically?u=76281980&t=1)** - [[Personal Branding]] is a lot about perception and judgment.
 >
 > **[0:04](https://www.linkedin.com/learning/creating-your-personal-brand/conveying-your-personal-brand-authentically?u=76281980&t=4)** Is that fair?
 >
@@ -790,14 +779,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Personal Branding]] (2), business (1)
+> **Frameworks & Libraries:** [[Personal Branding]] (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** dna (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - personal (1)
 
-#### Creating a perfect elevator pitch
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/creating-a-perfect-elevator-pitch-2?u=76281980)
+#### [Creating a perfect elevator pitch](https://www.linkedin.com/learning/creating-your-personal-brand/creating-a-perfect-elevator-pitch-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -883,7 +871,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), career (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** picture (1), imagine (1)
 > **Speakers:** - if (1)
@@ -893,8 +880,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Start today to take control of your brand
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-your-personal-brand/start-today-to-take-control-of-your-brand?u=76281980)
+#### [Start today to take control of your brand](https://www.linkedin.com/learning/creating-your-personal-brand/start-today-to-take-control-of-your-brand?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -902,7 +888,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/creating-your-personal-brand/start-today-to-take-control-of-your-brand?u=76281980&t=4)** It takes the randomness out of how you're going to show up, the relationships you're going to build, and where you're going to go in your career.
 >
-> **[0:11](https://www.linkedin.com/learning/creating-your-personal-brand/start-today-to-take-control-of-your-brand?u=76281980&t=11)** Personal branding is all about you personally.
+> **[0:11](https://www.linkedin.com/learning/creating-your-personal-brand/start-today-to-take-control-of-your-brand?u=76281980&t=11)** [[Personal Branding]] is all about you personally.
 >
 > **[0:14](https://www.linkedin.com/learning/creating-your-personal-brand/start-today-to-take-control-of-your-brand?u=76281980&t=14)** While there are formulas and metrics, your path is yours alone, and you must feel confident in your values in order to make this work.
 >
@@ -930,7 +916,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Personal Branding]] (2), career (1), power (1)
+> **Frameworks & Libraries:** [[Personal Branding]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - your (1)
 

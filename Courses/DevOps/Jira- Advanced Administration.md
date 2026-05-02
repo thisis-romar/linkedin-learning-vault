@@ -111,12 +111,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Administration in Jira
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/administration-in-jira?u=76281980)
+#### [Administration in Jira](https://www.linkedin.com/learning/jira-advanced-administration/administration-in-jira?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/administration-in-jira?u=76281980&t=0)** - [Rachel] Jira is the industry standard for tracking work, tasks, and strategic company initiatives.
+> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/administration-in-jira?u=76281980&t=0)** - [Rachel] [[Jira]] is the industry standard for tracking work, tasks, and strategic company initiatives.
 >
 > **[0:06](https://www.linkedin.com/learning/jira-advanced-administration/administration-in-jira?u=76281980&t=6)** The software is infinitely flexible and customizable.
 >
@@ -134,7 +133,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/jira-advanced-administration/administration-in-jira?u=76281980&t=43)** How to manage project specific settings like components and versions.
 >
-> **[0:47](https://www.linkedin.com/learning/jira-advanced-administration/administration-in-jira?u=76281980&t=47)** How to use groups and roles for easy user management.
+> **[0:47](https://www.linkedin.com/learning/jira-advanced-administration/administration-in-jira?u=76281980&t=47)** How to use groups and roles for easy [[User Management]].
 >
 > **[0:51](https://www.linkedin.com/learning/jira-advanced-administration/administration-in-jira?u=76281980&t=51)** How to restrict access and share information with permissions.
 >
@@ -148,12 +147,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (6), application (1), power (1), [[User Management]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Jira]] (6), [[User Management]] (1)
 > **Tools:** jira (6)
 > **Speakers:** - [rachel] (1)
 
-#### Who is this for?
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/who-is-this-for?u=76281980)
+#### [Who is this for?](https://www.linkedin.com/learning/jira-advanced-administration/who-is-this-for?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -167,7 +165,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/jira-advanced-administration/who-is-this-for?u=76281980&t=28)** Don't miss the challenges, quizzes, downloadable handouts, and some personal experiences, scattered throughout the course.
 >
-> **[0:36](https://www.linkedin.com/learning/jira-advanced-administration/who-is-this-for?u=76281980&t=36)** This course helps Jira administrators better understand the settings and schemes they are configuring.
+> **[0:36](https://www.linkedin.com/learning/jira-advanced-administration/who-is-this-for?u=76281980&t=36)** This course helps [[Jira]] administrators better understand the settings and schemes they are configuring.
 >
 > **[0:42](https://www.linkedin.com/learning/jira-advanced-administration/who-is-this-for?u=76281980&t=42)** The information applies to Jira software and Jira core application types.
 >
@@ -205,18 +203,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (17), application (3), feature (2), cloud (2), data (2)
+> **Frameworks & Libraries:** [[Jira]] (17)
 > **Tools:** jira (17)
 > **CLI Commands:** make (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - in (1)
 
-#### What do you need?
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/what-do-you-need?u=76281980)
+#### [What do you need?](https://www.linkedin.com/learning/jira-advanced-administration/what-do-you-need?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/what-do-you-need?u=76281980&t=0)** - Ideally, you've been managing Jira for a while and have experience creating projects, configuring existing schemes, and creating new custom schemes when necessary.
+> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/what-do-you-need?u=76281980&t=0)** - Ideally, you've been managing [[Jira]] for a while and have experience creating projects, configuring existing schemes, and creating new custom schemes when necessary.
 >
 > **[0:10](https://www.linkedin.com/learning/jira-advanced-administration/what-do-you-need?u=76281980&t=10)** All you need for this course is admin access to a Jira application.
 >
@@ -228,7 +225,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/jira-advanced-administration/what-do-you-need?u=76281980&t=37)** It's also nice to have a development environment that doesn't impact anyone at all where you can try new code, try new things, and try migrations, customizations, and bulk changes.
 >
-> **[0:48](https://www.linkedin.com/learning/jira-advanced-administration/what-do-you-need?u=76281980&t=48)** One more thing before we get started, Atlassian has changed terminology over the years, and some new terms were recently introduced.
+> **[0:48](https://www.linkedin.com/learning/jira-advanced-administration/what-do-you-need?u=76281980&t=48)** One more thing before we get started, [[Atlassian]] has changed terminology over the years, and some new terms were recently introduced.
 >
 > **[0:56](https://www.linkedin.com/learning/jira-advanced-administration/what-do-you-need?u=76281980&t=56)** The terms apps and Jira Service Management have been around for awhile, but Jira Work Management is newer.
 >
@@ -246,7 +243,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (7), next (4), management (2), cloud (2), application (1)
+> **Frameworks & Libraries:** [[Jira]] (7), [[Atlassian]] (1)
 > **Tools:** jira (7)
 > **Documentation:** the documentation (1)
 > **Speakers:** - ideally (1)
@@ -256,8 +253,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Global configuration overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/global-configuration-overview?u=76281980)
+#### [Global configuration overview](https://www.linkedin.com/learning/jira-advanced-administration/global-configuration-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -265,15 +261,15 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/jira-advanced-administration/global-configuration-overview?u=76281980&t=5)** The menu contains all your admin abilities, grouped in sections, the sections and section names in the menu differ a little between deployment types.
 >
-> **[0:15](https://www.linkedin.com/learning/jira-advanced-administration/global-configuration-overview?u=76281980&t=15)** For example, this cloud screenshot shows billing and products options that you won't see in server and data center.
+> **[0:15](https://www.linkedin.com/learning/jira-advanced-administration/global-configuration-overview?u=76281980&t=15)** For example, this cloud screenshot shows billing and [[Microsoft Products|products]] options that you won't see in server and data center.
 >
-> **[0:22](https://www.linkedin.com/learning/jira-advanced-administration/global-configuration-overview?u=76281980&t=22)** As an administrator, I find myself visiting the issues and user management pages the most often.
+> **[0:22](https://www.linkedin.com/learning/jira-advanced-administration/global-configuration-overview?u=76281980&t=22)** As an administrator, I find myself visiting the issues and [[User Management]] pages the most often.
 >
 > **[0:28](https://www.linkedin.com/learning/jira-advanced-administration/global-configuration-overview?u=76281980&t=28)** Sometimes I forget which feature is in which admin section.
 >
 > **[0:32](https://www.linkedin.com/learning/jira-advanced-administration/global-configuration-overview?u=76281980&t=32)** Here's a tip to help you find the setting you're looking for.
 >
-> **[0:35](https://www.linkedin.com/learning/jira-advanced-administration/global-configuration-overview?u=76281980&t=35)** First type gg on any Jira page to open the administration search box, then type the first few letters of your search to show suggestions.
+> **[0:35](https://www.linkedin.com/learning/jira-advanced-administration/global-configuration-overview?u=76281980&t=35)** First type gg on any [[Jira]] page to open the administration search box, then type the first few letters of your search to show suggestions.
 >
 > **[0:45](https://www.linkedin.com/learning/jira-advanced-administration/global-configuration-overview?u=76281980&t=45)** For example, typing workflow will suggest three pages with workflow in the name.
 >
@@ -303,11 +299,11 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/jira-advanced-administration/global-configuration-overview?u=76281980&t=111)** While we don't have time to cover every available setting, I recommend you review them all and make sure they represent what you're trying to achieve at your organization.
 >
-> **[1:59](https://www.linkedin.com/learning/jira-advanced-administration/global-configuration-overview?u=76281980&t=119)** For example, check your public sharing setting and make sure it's off, unless you're really trying to share dashboards and filters with non logged in users.
+> **[1:59](https://www.linkedin.com/learning/jira-advanced-administration/global-configuration-overview?u=76281980&t=119)** For example, check your public sharing setting and make sure it's off, unless you're really trying to share [[Dashboards]] and filters with non logged in users.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), [[Search]] (3), data (2), [[Jira]] (2), application (1)
+> **Frameworks & Libraries:** [[Jira]] (2), [[Microsoft Products|Products]] (1), [[User Management]] (1), [[Dashboards]] (1)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** in the menu (1), open the (1), go to (1)
 > **Analogies:** for example (3)
@@ -315,8 +311,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using global permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/using-global-permissions?u=76281980)
+#### [Using global permissions](https://www.linkedin.com/learning/jira-advanced-administration/using-global-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -326,7 +321,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/jira-advanced-administration/using-global-permissions?u=76281980&t=10)** While the naming differs a little between the deployment types and versions, their meaning is the same.
 >
-> **[0:15](https://www.linkedin.com/learning/jira-advanced-administration/using-global-permissions?u=76281980&t=15)** The Jira system administrators permission is only available in server and data center.
+> **[0:15](https://www.linkedin.com/learning/jira-advanced-administration/using-global-permissions?u=76281980&t=15)** The [[Jira]] system administrators permission is only available in server and data center.
 >
 > **[0:21](https://www.linkedin.com/learning/jira-advanced-administration/using-global-permissions?u=76281980&t=21)** Users or groups with this permission can perform every Jira function.
 >
@@ -336,7 +331,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/jira-advanced-administration/using-global-permissions?u=76281980&t=40)** Limit this permission to only those who really need it and understand what they are doing.
 >
-> **[0:45](https://www.linkedin.com/learning/jira-advanced-administration/using-global-permissions?u=76281980&t=45)** I recommend selecting two users so there's a backup if one's out of the office.
+> **[0:45](https://www.linkedin.com/learning/jira-advanced-administration/using-global-permissions?u=76281980&t=45)** I recommend selecting two users so there's a backup if one's out of the [[Microsoft Office|office]].
 >
 > **[0:51](https://www.linkedin.com/learning/jira-advanced-administration/using-global-permissions?u=76281980&t=51)** The next permission is called administer Jira in cloud or Jira administrators in server.
 >
@@ -346,7 +341,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/jira-advanced-administration/using-global-permissions?u=76281980&t=66)** I recommend selecting two to five users.
 >
-> **[1:10](https://www.linkedin.com/learning/jira-advanced-administration/using-global-permissions?u=76281980&t=70)** For server and data center users, Atlassian has a comprehensive list of the differences between these two admin permissions.
+> **[1:10](https://www.linkedin.com/learning/jira-advanced-administration/using-global-permissions?u=76281980&t=70)** For server and data center users, [[Atlassian]] has a comprehensive list of the differences between these two admin permissions.
 >
 > **[1:17](https://www.linkedin.com/learning/jira-advanced-administration/using-global-permissions?u=76281980&t=77)** See the documentation at the URL shown.
 >
@@ -366,7 +361,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/jira-advanced-administration/using-global-permissions?u=76281980&t=115)** If you have external users like contractors or customers, you may want to limit this permission to avoid exposing employee names.
 >
-> **[2:03](https://www.linkedin.com/learning/jira-advanced-administration/using-global-permissions?u=76281980&t=123)** The share dashboards and filters or create shared objects permission allows users to share their filters, boards, and dashboards with other users, groups, and project roles.
+> **[2:03](https://www.linkedin.com/learning/jira-advanced-administration/using-global-permissions?u=76281980&t=123)** The share [[Dashboards]] and filters or create shared objects permission allows users to share their filters, boards, and dashboards with other users, groups, and project roles.
 >
 > **[2:14](https://www.linkedin.com/learning/jira-advanced-administration/using-global-permissions?u=76281980&t=134)** For example, a team lead needs this permission to share their dashboard with team members.
 >
@@ -390,7 +385,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/jira-advanced-administration/using-global-permissions?u=76281980&t=198)** With this permission, users can manage a thousand issues at a time and projects they have access to.
 >
-> **[3:24](https://www.linkedin.com/learning/jira-advanced-administration/using-global-permissions?u=76281980&t=204)** This is helpful for project managers, team leads, scrum masters, and admins doing the cleanup.
+> **[3:24](https://www.linkedin.com/learning/jira-advanced-administration/using-global-permissions?u=76281980&t=204)** This is helpful for project managers, team leads, [[Scrum]] masters, and admins doing the cleanup.
 >
 > **[3:30](https://www.linkedin.com/learning/jira-advanced-administration/using-global-permissions?u=76281980&t=210)** You may want to exclude this ability for external users however.
 >
@@ -488,7 +483,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (18), application (11), next (9), data (5), cloud (4)
+> **Frameworks & Libraries:** [[Jira]] (18), [[Dashboards]] (3), [[Microsoft Office|Office]] (1), [[Atlassian]] (1), [[Scrum]] (1)
 > **Tools:** jira (18)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is called (2), is an  (1), is a  (1)
@@ -497,12 +492,11 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Warnings:** be careful (1), be aware (1)
 
-#### Customizing the interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/customizing-the-interface?u=76281980)
+#### [Customizing the interface](https://www.linkedin.com/learning/jira-advanced-administration/customizing-the-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/customizing-the-interface?u=76281980&t=0)** - [Narrator] Some organizations like to customize Jira's look and feel so it matches their branding.
+> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/customizing-the-interface?u=76281980&t=0)** - [Narrator] Some organizations like to customize [[Jira]]'s look and feel so it matches their branding.
 >
 > **[0:05](https://www.linkedin.com/learning/jira-advanced-administration/customizing-the-interface?u=76281980&t=5)** The settings are straightforward, but I included this section so I can share some customization tips and impacts.
 >
@@ -544,7 +538,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/jira-advanced-administration/customizing-the-interface?u=76281980&t=91)** I also recommend using a transparent file for this image.
 >
-> **[1:35](https://www.linkedin.com/learning/jira-advanced-administration/customizing-the-interface?u=76281980&t=95)** Finally, use a unique favicon image, especially if you use other Atlassian products.
+> **[1:35](https://www.linkedin.com/learning/jira-advanced-administration/customizing-the-interface?u=76281980&t=95)** Finally, use a unique favicon image, especially if you use other [[Atlassian]] [[Microsoft Products|products]].
 >
 > **[1:40](https://www.linkedin.com/learning/jira-advanced-administration/customizing-the-interface?u=76281980&t=100)** When multiple applications use the same icon, it's hard for users to distinguish between them.
 >
@@ -582,22 +576,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (8), application (4), cloud (2), next (2), management (1)
+> **Frameworks & Libraries:** [[Jira]] (8), [[Atlassian]] (1), [[Microsoft Products|Products]] (1)
 > **Tools:** jira (8)
 > **Env Vars:** ico (1), png (1), jpeg (1), gif (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Enabling and disabling email
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/enabling-and-disabling-email?u=76281980)
+#### [Enabling and disabling email](https://www.linkedin.com/learning/jira-advanced-administration/enabling-and-disabling-email?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/enabling-and-disabling-email?u=76281980&t=0)** - [Narrator] For cloud administrators, the mail server is already connected and configured for you.
 >
-> **[0:05](https://www.linkedin.com/learning/jira-advanced-administration/enabling-and-disabling-email?u=76281980&t=5)** Atlassian hosts the mail server, so there's not much for you to do in this admin area.
+> **[0:05](https://www.linkedin.com/learning/jira-advanced-administration/enabling-and-disabling-email?u=76281980&t=5)** [[Atlassian]] hosts the mail server, so there's not much for you to do in this admin area.
 >
-> **[0:10](https://www.linkedin.com/learning/jira-advanced-administration/enabling-and-disabling-email?u=76281980&t=10)** In cloud, email will be sent from an address in the format jira@applicationname.[atlassian.net](https://atlassian.net).
+> **[0:10](https://www.linkedin.com/learning/jira-advanced-administration/enabling-and-disabling-email?u=76281980&t=10)** In cloud, email will be sent from an address in the format [[Jira]]@applicationname.[atlassian.net](https://atlassian.net).
 >
 > **[0:18](https://www.linkedin.com/learning/jira-advanced-administration/enabling-and-disabling-email?u=76281980&t=18)** For server and data center administrators, you'll need to connect Jira to your mail server.
 >
@@ -621,7 +614,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/jira-advanced-administration/enabling-and-disabling-email?u=76281980&t=72)** I always disable mail in my test environment to avoid spamming users with fake or duplicate messages.
 >
-> **[1:18](https://www.linkedin.com/learning/jira-advanced-administration/enabling-and-disabling-email?u=76281980&t=78)** Finally, some organizations turn off email permanently and instead rely on integrations with other software like Slack, for example.
+> **[1:18](https://www.linkedin.com/learning/jira-advanced-administration/enabling-and-disabling-email?u=76281980&t=78)** Finally, some organizations turn off email permanently and instead rely on integrations with other software like [[Slack]], for example.
 >
 > **[1:26](https://www.linkedin.com/learning/jira-advanced-administration/enabling-and-disabling-email?u=76281980&t=86)** To turn off email notifications from a specific Jira project however, make that change in a notification scheme instead.
 >
@@ -629,7 +622,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (5), cloud (2), [[Atlassian]] (2), data (2), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Jira]] (5), [[Atlassian]] (2), [[Slack]] (1)
 > **Tools:** jira (5), slack (1)
 > **CLI Commands:** make (2), find (1)
 > **URLs:** [atlassian.net](https://atlassian.net) (1), [domain.com](https://domain.com) (1)
@@ -638,8 +631,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: General configuration options
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/challenge-general-configuration-options?u=76281980)
+#### [Challenge: General configuration options](https://www.linkedin.com/learning/jira-advanced-administration/challenge-general-configuration-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -659,13 +651,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), next (1), business (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: General configuration options
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/solution-general-configuration-options?u=76281980)
+#### [Solution: General configuration options](https://www.linkedin.com/learning/jira-advanced-administration/solution-general-configuration-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -687,7 +677,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -697,14 +686,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of schemes
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/types-of-schemes?u=76281980)
+#### [Types of schemes](https://www.linkedin.com/learning/jira-advanced-administration/types-of-schemes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/types-of-schemes?u=76281980&t=0)** - [Instructor] Let's quickly review some important terms and definitions from the basic admin course.
 >
-> **[0:05](https://www.linkedin.com/learning/jira-advanced-administration/types-of-schemes?u=76281980&t=5)** An issue is an individual item in Jira.
+> **[0:05](https://www.linkedin.com/learning/jira-advanced-administration/types-of-schemes?u=76281980&t=5)** An issue is an individual item in [[Jira]].
 >
 > **[0:08](https://www.linkedin.com/learning/jira-advanced-administration/types-of-schemes?u=76281980&t=8)** Each time you create an item, you're creating a new issue with a unique key to identify it.
 >
@@ -716,11 +704,11 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/jira-advanced-administration/types-of-schemes?u=76281980&t=32)** I always laugh at that last one.
 >
-> **[0:34](https://www.linkedin.com/learning/jira-advanced-administration/types-of-schemes?u=76281980&t=34)** It's like saying you're going to send a Microsoft Outlook instead of an email.
+> **[0:34](https://www.linkedin.com/learning/jira-advanced-administration/types-of-schemes?u=76281980&t=34)** It's like saying you're going to send a [[Microsoft Outlook]] instead of an email.
 >
 > **[0:38](https://www.linkedin.com/learning/jira-advanced-administration/types-of-schemes?u=76281980&t=38)** A project is a collection of issues.
 >
-> **[0:41](https://www.linkedin.com/learning/jira-advanced-administration/types-of-schemes?u=76281980&t=41)** The word project in Jira is different than an initiative your team is working on outside of Jira.
+> **[0:41](https://www.linkedin.com/learning/jira-advanced-administration/types-of-schemes?u=76281980&t=41)** The [[Microsoft Word|word]] project in Jira is different than an initiative your team is working on outside of Jira.
 >
 > **[0:46](https://www.linkedin.com/learning/jira-advanced-administration/types-of-schemes?u=76281980&t=46)** Think of a Jira project as a container for all your teams initiatives, tasks and to-do items.
 >
@@ -832,7 +820,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (10), [[Security]] (6), next (5), application (2), cloud (2)
+> **Frameworks & Libraries:** [[Jira]] (10), [[Microsoft Outlook]] (1), [[Microsoft Word|Word]] (1)
 > **Tools:** jira (10)
 > **Definitions:** is a  (3), is an  (1), is called (1)
 > **Analogies:** for example (3), it's like (1)
@@ -841,8 +829,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scheme hierarchy
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/scheme-hierarchy?u=76281980)
+#### [Scheme hierarchy](https://www.linkedin.com/learning/jira-advanced-administration/scheme-hierarchy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -892,7 +879,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/jira-advanced-administration/scheme-hierarchy?u=76281980&t=116)** You cannot remove schemes that are in use.
 >
-> **[1:59](https://www.linkedin.com/learning/jira-advanced-administration/scheme-hierarchy?u=76281980&t=119)** In this example, the Scrum issue type screen scheme is associated with a demo project, so you can't delete it.
+> **[1:59](https://www.linkedin.com/learning/jira-advanced-administration/scheme-hierarchy?u=76281980&t=119)** In this example, the [[Scrum]] issue type screen scheme is associated with a demo project, so you can't delete it.
 >
 > **[2:05](https://www.linkedin.com/learning/jira-advanced-administration/scheme-hierarchy?u=76281980&t=125)** The Kanban issue type screen scheme is associated with no projects, however, so a delete link is available.
 >
@@ -908,7 +895,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/jira-advanced-administration/scheme-hierarchy?u=76281980&t=156)** If this all sounds a little confusing, don't worry.
 >
-> **[2:39](https://www.linkedin.com/learning/jira-advanced-administration/scheme-hierarchy?u=76281980&t=159)** This was the hardest part of JIRA administration for me to understand.
+> **[2:39](https://www.linkedin.com/learning/jira-advanced-administration/scheme-hierarchy?u=76281980&t=159)** This was the hardest part of [[Jira]] administration for me to understand.
 >
 > **[2:43](https://www.linkedin.com/learning/jira-advanced-administration/scheme-hierarchy?u=76281980&t=163)** Use your test environment to experiment with these settings until they make more sense.
 >
@@ -918,19 +905,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), business (1), [[Scrum]] (1), [[Jira]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (1), [[Jira]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** jira (1), url (1)
 > **Tools:** jira (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sharing schemes between projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/sharing-schemes-between-projects?u=76281980)
+#### [Sharing schemes between projects](https://www.linkedin.com/learning/jira-advanced-administration/sharing-schemes-between-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/sharing-schemes-between-projects?u=76281980&t=0)** - Jira schemes exist so they can be shared between multiple projects.
+> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/sharing-schemes-between-projects?u=76281980&t=0)** - [[Jira]] schemes exist so they can be shared between multiple projects.
 >
 > **[0:04](https://www.linkedin.com/learning/jira-advanced-administration/sharing-schemes-between-projects?u=76281980&t=4)** Instead of creating one scheme per project, I recommend one set of schemes per project type.
 >
@@ -964,7 +950,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/jira-advanced-administration/sharing-schemes-between-projects?u=76281980&t=95)** Don't name settings for the project using them.
 >
-> **[1:37](https://www.linkedin.com/learning/jira-advanced-administration/sharing-schemes-between-projects?u=76281980&t=97)** For example, a workflow called development with code review is more descriptive and useful than dev project.
+> **[1:37](https://www.linkedin.com/learning/jira-advanced-administration/sharing-schemes-between-projects?u=76281980&t=97)** For example, a workflow called development with [[Code Review]] is more descriptive and useful than dev project.
 >
 > **[1:45](https://www.linkedin.com/learning/jira-advanced-administration/sharing-schemes-between-projects?u=76281980&t=105)** Next, names should be descriptive but generic so they can be used for multiple use cases and projects.
 >
@@ -974,7 +960,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/jira-advanced-administration/sharing-schemes-between-projects?u=76281980&t=120)** Here's why short names are better than long.
 >
-> **[2:03](https://www.linkedin.com/learning/jira-advanced-administration/sharing-schemes-between-projects?u=76281980&t=123)** Long and multiple word names make things harder to search and query for.
+> **[2:03](https://www.linkedin.com/learning/jira-advanced-administration/sharing-schemes-between-projects?u=76281980&t=123)** Long and multiple [[Microsoft Word|word]] names make things harder to search and query for.
 >
 > **[2:08](https://www.linkedin.com/learning/jira-advanced-administration/sharing-schemes-between-projects?u=76281980&t=128)** For example, multi-word names require quotes in queries.
 >
@@ -1000,14 +986,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (5), [[Microsoft Word|Word]] (3), next (2), business (1), [[Code Review]] (1)
+> **Frameworks & Libraries:** [[Jira]] (5), [[Microsoft Word|Word]] (3), [[Code Review]] (1)
 > **CLI Commands:** make (5), find (2)
 > **Tools:** jira (5)
 > **Analogies:** for example (4)
 > **Speakers:** - jira (1)
 
-#### Challenge: Scheme review
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/challenge-scheme-review?u=76281980)
+#### [Challenge: Scheme review](https://www.linkedin.com/learning/jira-advanced-administration/challenge-scheme-review?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1027,13 +1012,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), next (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Scheme review
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/solution-scheme-review?u=76281980)
+#### [Solution: Scheme review](https://www.linkedin.com/learning/jira-advanced-administration/solution-scheme-review?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1045,7 +1028,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/jira-advanced-administration/solution-scheme-review?u=76281980&t=12)** It's not useful, so click the delete link to remove it.
 >
-> **[0:16](https://www.linkedin.com/learning/jira-advanced-administration/solution-scheme-review?u=76281980&t=16)** The third scheme was created by Jira when a service desk project was created.
+> **[0:16](https://www.linkedin.com/learning/jira-advanced-administration/solution-scheme-review?u=76281980&t=16)** The third scheme was created by [[Jira]] when a service desk project was created.
 >
 > **[0:21](https://www.linkedin.com/learning/jira-advanced-administration/solution-scheme-review?u=76281980&t=21)** You can tell by how it's named.
 >
@@ -1070,8 +1053,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use and create custom issue types
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-issue-types?u=76281980)
+#### [Use and create custom issue types](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-issue-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1081,7 +1063,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-issue-types?u=76281980&t=13)** In this section, we'll define Issue Types, Issue Type Schemes, and discuss best practices for creating custom types.
 >
-> **[0:21](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-issue-types?u=76281980&t=21)** issue types provide structure in Jira projects.
+> **[0:21](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-issue-types?u=76281980&t=21)** issue types provide structure in [[Jira]] projects.
 >
 > **[0:24](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-issue-types?u=76281980&t=24)** They help distinguish between requests like stories and tasks or incident and change requests.
 >
@@ -1109,7 +1091,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-issue-types?u=76281980&t=81)** All issue types contain the following attributes, a unique name to identify it, an optional description, a type which is either standard or sub-task, and an icon to help visually identify it.
 >
-> **[1:34](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-issue-types?u=76281980&t=94)** Users see the icon when they create issues, in user objects like filters, boards and dashboards, and an email notifications.
+> **[1:34](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-issue-types?u=76281980&t=94)** Users see the icon when they create issues, in user objects like filters, boards and [[Dashboards]], and an email notifications.
 >
 > **[1:42](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-issue-types?u=76281980&t=102)** Users see the description when they hover over the icon.
 >
@@ -1275,7 +1257,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (7), business (3), teams (3), next (3), application (2)
+> **Frameworks & Libraries:** [[Jira]] (7), [[Dashboards]] (1)
 > **Tools:** jira (7)
 > **Analogies:** for example (5), just like (2)
 > **CLI Commands:** find (2)
@@ -1283,11 +1265,9 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - let (1)
 
-#### Use and create custom workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-workflows?u=76281980)
+#### [Use and create custom workflows](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-workflows?u=76281980)
 
-#### Use and create custom screens
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-screens?u=76281980)
+#### [Use and create custom screens](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-screens?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1295,7 +1275,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-screens?u=76281980&t=7)** Screens define which fields are present and their display order.
 >
-> **[0:11](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-screens?u=76281980&t=11)** Jira lets you define the order of some fields, but not all.
+> **[0:11](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-screens?u=76281980&t=11)** [[Jira]] lets you define the order of some fields, but not all.
 >
 > **[0:14](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-screens?u=76281980&t=14)** And field display capabilities differ between cloud and server and data center.
 >
@@ -1463,7 +1443,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (5), [[Jira]] (3), cloud (3), data (3), application (1)
+> **Frameworks & Libraries:** [[Jira]] (3)
 > **Analogies:** for example (5)
 > **CLI Commands:** make (3), find (1)
 > **Tools:** jira (3)
@@ -1472,8 +1452,7 @@ created: 2026-05-02
 > **Cross-References:** we discussed (2)
 > **Speakers:** - [narrator] (1)
 
-#### Use and create custom fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-fields?u=76281980)
+#### [Use and create custom fields](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1487,7 +1466,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-fields?u=76281980&t=13)** Scroll down to the bottom of the page and multiply the number of pages by 25 for an approximate count.
 >
-> **[0:19](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-fields?u=76281980&t=19)** Two, your software comes with approximately 30 custom fields and that doubles if you installed Jira Service Management.
+> **[0:19](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-fields?u=76281980&t=19)** Two, your software comes with approximately 30 custom fields and that doubles if you installed [[Jira]] Service Management.
 >
 > **[0:25](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-fields?u=76281980&t=25)** Additional fields are also added by third-party apps and Jira administrators.
 >
@@ -1515,7 +1494,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-fields?u=76281980&t=83)** You can add locked fields to screens but you can't modify their settings.
 >
-> **[1:28](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-fields?u=76281980&t=88)** There are many custom field types to choose from and additional types are available with free or paid apps from the Atlassian marketplace.
+> **[1:28](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-fields?u=76281980&t=88)** There are many custom field types to choose from and additional types are available with free or paid apps from the [[Atlassian]] marketplace.
 >
 > **[1:35](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-fields?u=76281980&t=95)** Let's discuss the most common ones.
 >
@@ -1621,7 +1600,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-fields?u=76281980&t=308)** Use the built-in linking functions instead.
 >
-> **[5:10](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-fields?u=76281980&t=310)** One company use the custom field to link Jira issues to confluence pages instead of the built-in function.
+> **[5:10](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-fields?u=76281980&t=310)** One company use the custom field to link Jira issues to [[Confluence]] pages instead of the built-in function.
 >
 > **[5:16](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-fields?u=76281980&t=316)** When they migrated and their confluence URL changed, all their links broke and they had to manually update them in the database.
 >
@@ -1741,7 +1720,7 @@ created: 2026-05-02
 >
 > **[9:56](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-fields?u=76281980&t=596)** I chose the name expiration instead of contract expiration so other teams with other types of expiration dates could also use this field.
 >
-> **[10:05](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-fields?u=76281980&t=605)** I also emitted the word date from the fields name as the date format is visually obvious.
+> **[10:05](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-fields?u=76281980&t=605)** I also emitted the [[Microsoft Word|word]] date from the fields name as the date format is visually obvious.
 >
 > **[10:12](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-custom-fields?u=76281980&t=612)** Finally, I omitted a field description because I thought the fields name and type were self-explanatory.
 >
@@ -1769,7 +1748,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (14), next (5), cloud (4), management (3), application (3)
+> **Frameworks & Libraries:** [[Jira]] (14), [[Atlassian]] (2), [[Confluence]] (2), [[Microsoft Word|Word]] (1)
 > **Tools:** jira (14), confluence (2)
 > **Env Vars:** jql (2), url (2), jsu (1)
 > **UI Navigation:** go to (2), scroll down (1), checkbox (1), select the (1)
@@ -1778,8 +1757,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Cross-References:** we discussed (1)
 
-#### Challenge: Create a project template
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-a-project-template?u=76281980)
+#### [Challenge: Create a project template](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-a-project-template?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1795,16 +1773,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Create a project template
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-a-project-template?u=76281980)
+#### [Solution: Create a project template](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-a-project-template?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-a-project-template?u=76281980&t=0)** - [Instructor] Were you able to create new schemes to use as a standard for future Jira projects?
+> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-a-project-template?u=76281980&t=0)** - [Instructor] Were you able to create new schemes to use as a standard for future [[Jira]] projects?
 >
 > **[0:10](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-a-project-template?u=76281980&t=10)** Here's how I do it.
 >
@@ -1830,7 +1806,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (2), next (2), business (1), teams (1), hr (1)
+> **Frameworks & Libraries:** [[Jira]] (2)
 > **Tools:** jira (2)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
@@ -1841,8 +1817,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use and create versions
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-versions?u=76281980)
+#### [Use and create versions](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-versions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1890,7 +1865,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-versions?u=76281980&t=121)** Match first in naming to conventions used in other systems.
 >
-> **[2:04](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-versions?u=76281980&t=124)** For example, if the release is named 1.1.0 in another application, don't name it 1.1 in Jira.
+> **[2:04](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-versions?u=76281980&t=124)** For example, if the release is named 1.1.0 in another application, don't name it 1.1 in [[Jira]].
 >
 > **[2:12](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-versions?u=76281980&t=132)** While 1.1.0 and 1.1 may mean the exact same thing, format differences make them hard to search for.
 >
@@ -1900,7 +1875,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-versions?u=76281980&t=148)** Users should easily be able to predict the next version number.
 >
-> **[2:32](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-versions?u=76281980&t=152)** Tom Preston-Werner inventor of Gravatar, and co-founder of GitHub, created the semantic versioning specification.
+> **[2:32](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-versions?u=76281980&t=152)** Tom Preston-Werner inventor of Gravatar, and co-founder of [[GitHub]], created the semantic versioning specification.
 >
 > **[2:39](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-versions?u=76281980&t=159)** This is a recommendation for naming versions in the format, major.minor.patch.
 >
@@ -1934,7 +1909,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), application (2), [[Jira]] (2), next (2), power (1)
+> **Frameworks & Libraries:** [[Jira]] (2), [[GitHub]] (1)
 > **Versions:** 1.1.0 (2), 1.1 (2)
 > **Analogies:** for example (4)
 > **Tools:** jira (2), github (1)
@@ -1943,8 +1918,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Documentation:** specification (1)
 
-#### Use and create components
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-components?u=76281980)
+#### [Use and create components](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1954,13 +1928,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-components?u=76281980&t=7)** In this screenshot, issues are categorized by skill needed.
 >
-> **[0:11](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-components?u=76281980&t=11)** This forms a nice grouping that can be queried.
+> **[0:11](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-components?u=76281980&t=11)** This [[Forms]] a nice grouping that can be queried.
 >
 > **[0:14](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-components?u=76281980&t=14)** Next, this is one of the few fields that project-level administrators can manage.
 >
 > **[0:18](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-components?u=76281980&t=18)** Just like with versions, I recommend delegating component management duties to project admins.
 >
-> **[0:24](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-components?u=76281980&t=24)** Finally, components is the only field in JIRA with auto assignment capabilities.
+> **[0:24](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-components?u=76281980&t=24)** Finally, components is the only field in [[Jira]] with auto assignment capabilities.
 >
 > **[0:30](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-components?u=76281980&t=30)** In this screenshot, I'm listed as the default lead for the front end component.
 >
@@ -2012,7 +1986,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-components?u=76281980&t=139)** I see so many JIRA projects without them.
 >
-> **[2:22](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-components?u=76281980&t=142)** It's okay if you don't want to use the routing feature, but at least use the selections so you can group and report unrelated work.
+> **[2:22](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-components?u=76281980&t=142)** It's okay if you don't want to use the [[Routing]] feature, but at least use the selections so you can group and report unrelated work.
 >
 > **[2:29](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-components?u=76281980&t=149)** Next, if the component field is required, make sure there's an other selection.
 >
@@ -2020,7 +1994,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-components?u=76281980&t=157)** Finally, make component names short.
 >
-> **[2:40](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-components?u=76281980&t=160)** One word or two-word values make the easiest queries.
+> **[2:40](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-components?u=76281980&t=160)** One [[Microsoft Word|word]] or two-word values make the easiest queries.
 >
 > **[2:44](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-components?u=76281980&t=164)** Here's some things to avoid.
 >
@@ -2042,7 +2016,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-components?u=76281980&t=199)** For each new hire, they created an issue and selected the components for each application or resource the user needed.
 >
-> **[3:27](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-components?u=76281980&t=207)** In this example, the new hire needed a chair, a desk phone, and a license from Microsoft Excel.
+> **[3:27](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-components?u=76281980&t=207)** In this example, the new hire needed a chair, a desk phone, and a license from [[Microsoft Excel]].
 >
 > **[3:34](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-components?u=76281980&t=214)** For each component selected, a subtask was automatically created, assigned to the component lead, and the new hires name was appended to the summary.
 >
@@ -2058,7 +2032,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (7), next (2), data (2), [[Microsoft Word|Word]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Jira]] (7), [[Microsoft Word|Word]] (2), [[Forms]] (1), [[Routing]] (1), [[Microsoft Excel]] (1)
 > **Env Vars:** jira (7)
 > **Tools:** jira (7)
 > **CLI Commands:** make (4)
@@ -2067,8 +2041,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Best Practices:** you should always (1)
 
-#### Working with users
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/working-with-users?u=76281980)
+#### [Working with users](https://www.linkedin.com/learning/jira-advanced-administration/working-with-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2076,7 +2049,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/jira-advanced-administration/working-with-users?u=76281980&t=3)** Let's discuss how each project can have a distinct set of users with different capabilities.
 >
-> **[0:09](https://www.linkedin.com/learning/jira-advanced-administration/working-with-users?u=76281980&t=9)** But first, here's a reminder that Jira has both global and project level elements that impact users.
+> **[0:09](https://www.linkedin.com/learning/jira-advanced-administration/working-with-users?u=76281980&t=9)** But first, here's a reminder that [[Jira]] has both global and project level elements that impact users.
 >
 > **[0:15](https://www.linkedin.com/learning/jira-advanced-administration/working-with-users?u=76281980&t=15)** Each person has a user account, which may be part of one or more groups.
 >
@@ -2088,7 +2061,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/jira-advanced-administration/working-with-users?u=76281980&t=35)** If Jira Service Management is installed, there are two additional roles called service desk customers and service desk team.
 >
-> **[0:43](https://www.linkedin.com/learning/jira-advanced-administration/working-with-users?u=76281980&t=43)** In Cloud, there's an additional role called Atlassian add-ons project access, which is used by apps.
+> **[0:43](https://www.linkedin.com/learning/jira-advanced-administration/working-with-users?u=76281980&t=43)** In Cloud, there's an additional role called [[Atlassian]] add-ons project access, which is used by apps.
 >
 > **[0:49](https://www.linkedin.com/learning/jira-advanced-administration/working-with-users?u=76281980&t=49)** These roles are used by all projects and determine who can do what in each project.
 >
@@ -2146,11 +2119,11 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/jira-advanced-administration/working-with-users?u=76281980&t=168)** In Server and Data Center, the global administrators group is called Jira-Administrators.
 >
-> **[2:53](https://www.linkedin.com/learning/jira-advanced-administration/working-with-users?u=76281980&t=173)** Just like with versions and components, I recommend delegating this type of user management to project level admins.
+> **[2:53](https://www.linkedin.com/learning/jira-advanced-administration/working-with-users?u=76281980&t=173)** Just like with versions and components, I recommend delegating this type of [[User Management]] to project level admins.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (4), cloud (4), next (3), data (3), application (2)
+> **Frameworks & Libraries:** [[Jira]] (4), [[Atlassian]] (1), [[User Management]] (1)
 > **Tools:** jira (4)
 > **Cross-References:** we talked about (1), in the next (1)
 > **Definitions:** is called (2)
@@ -2159,35 +2132,33 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - users (1)
 
-#### Challenge: Create components
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-components?u=76281980)
+#### [Challenge: Create components](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-components?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-components?u=76281980&t=0)** (upbear music)
 >
-> **[0:05](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-components?u=76281980&t=5)** - [Instructor] In this challenge, you'll create components for a Jira project, look for existing projects that don't already have components, or use a test project.
+> **[0:05](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-components?u=76281980&t=5)** - [Instructor] In this challenge, you'll create components for a [[Jira]] project, look for existing projects that don't already have components, or use a test project.
 >
 > **[0:14](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-components?u=76281980&t=14)** Next, determine one question for the components to answer.
 >
-> **[0:17](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-components?u=76281980&t=17)** For example, what area of the business is impacted, or which office location is impacted?
+> **[0:17](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-components?u=76281980&t=17)** For example, what area of the business is impacted, or which [[Microsoft Office|office]] location is impacted?
 >
 > **[0:24](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-components?u=76281980&t=24)** Then, create the component selections to answer the question.
 >
 > **[0:27](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-components?u=76281980&t=27)** Be sure to use terminology that makes sense to the user.
 >
-> **[0:30](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-components?u=76281980&t=30)** Finally, add component leads and set the default assignee, if you want to use the routing feature.
+> **[0:30](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-components?u=76281980&t=30)** Finally, add component leads and set the default assignee, if you want to use the [[Routing]] feature.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (1), next (1), business (1), [[Microsoft Office|Office]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Jira]] (1), [[Microsoft Office|Office]] (1), [[Routing]] (1)
 > **Tools:** jira (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbear music) (1)
 
-#### Solution: Create components
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-components?u=76281980)
+#### [Solution: Create components](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2197,13 +2168,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-components?u=76281980&t=8)** Here's how to do it.
 >
-> **[0:10](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-components?u=76281980&t=10)** I found that the human resources project doesn't have components, so I'll create some there.
+> **[0:10](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-components?u=76281980&t=10)** I found that the [[Human Resources (HR)|human resources]] project doesn't have components, so I'll create some there.
 >
 > **[0:15](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-components?u=76281980&t=15)** Navigate to the project's admin area by clicking Project Settings, then Components.
 >
 > **[0:21](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-components?u=76281980&t=21)** Next, I asked the HR team how they'd like to categorize their work.
 >
-> **[0:25](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-components?u=76281980&t=25)** They have one staff member dedicated to each office, so segmenting their work by location is useful.
+> **[0:25](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-components?u=76281980&t=25)** They have one staff member dedicated to each [[Microsoft Office|office]], so segmenting their work by location is useful.
 >
 > **[0:31](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-components?u=76281980&t=31)** I'll create one component per office.
 >
@@ -2215,7 +2186,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), hr (2), [[Human Resources (HR)|Human resources]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Human Resources (HR)|Human resources]] (1)
 > **UI Navigation:** navigate to (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -2226,12 +2197,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leveraging project roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/leveraging-project-roles?u=76281980)
+#### [Leveraging project roles](https://www.linkedin.com/learning/jira-advanced-administration/leveraging-project-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/leveraging-project-roles?u=76281980&t=0)** - [Instructor] In the last section, we talked about project roles and how they're used globally by every Jira project.
+> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/leveraging-project-roles?u=76281980&t=0)** - [Instructor] In the last section, we talked about project roles and how they're used globally by every [[Jira]] project.
 >
 > **[0:06](https://www.linkedin.com/learning/jira-advanced-administration/leveraging-project-roles?u=76281980&t=6)** The default roles of administrators and developers are a good starting point, but sometimes it's useful to create more.
 >
@@ -2295,7 +2265,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (9), teams (1), next (1), leadership (1), application (1)
+> **Frameworks & Libraries:** [[Jira]] (9)
 > **Tools:** jira (9)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1), we talked about (1)
@@ -2303,8 +2273,7 @@ created: 2026-05-02
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/working-with-groups?u=76281980)
+#### [Working with groups](https://www.linkedin.com/learning/jira-advanced-administration/working-with-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2312,9 +2281,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/jira-advanced-administration/working-with-groups?u=76281980&t=3)** Think of a role as a common function on a team and a group as the list of individuals performing that function.
 >
-> **[0:10](https://www.linkedin.com/learning/jira-advanced-administration/working-with-groups?u=76281980&t=10)** Project roles are often created when you initially configured JIRA and are likely not changed very often.
+> **[0:10](https://www.linkedin.com/learning/jira-advanced-administration/working-with-groups?u=76281980&t=10)** Project roles are often created when you initially configured [[Jira]] and are likely not changed very often.
 >
-> **[0:16](https://www.linkedin.com/learning/jira-advanced-administration/working-with-groups?u=76281980&t=16)** Groups require regular maintenance however but they make user management easier.
+> **[0:16](https://www.linkedin.com/learning/jira-advanced-administration/working-with-groups?u=76281980&t=16)** Groups require regular maintenance however but they make [[User Management]] easier.
 >
 > **[0:21](https://www.linkedin.com/learning/jira-advanced-administration/working-with-groups?u=76281980&t=21)** In this section, we'll discuss how to create, use and maintain groups.
 >
@@ -2392,21 +2361,20 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/jira-advanced-administration/working-with-groups?u=76281980&t=212)** Finally, as a JIRA administrator, you should delegate project management duties to project level admins.
 >
-> **[3:39](https://www.linkedin.com/learning/jira-advanced-administration/working-with-groups?u=76281980&t=219)** I recommend selecting two project admins so there's a backup if one is out of the office.
+> **[3:39](https://www.linkedin.com/learning/jira-advanced-administration/working-with-groups?u=76281980&t=219)** I recommend selecting two project admins so there's a backup if one is out of the [[Microsoft Office|office]].
 >
 > **[3:44](https://www.linkedin.com/learning/jira-advanced-administration/working-with-groups?u=76281980&t=224)** Project admin should manage project users and application administrators must manage group membership.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (6), [[User Management]] (3), application (2), leadership (1), data (1)
+> **Frameworks & Libraries:** [[Jira]] (6), [[User Management]] (3), [[Microsoft Office|Office]] (1)
 > **Env Vars:** jira (6)
 > **Tools:** jira (6)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using groups and roles in schemes
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/using-groups-and-roles-in-schemes?u=76281980)
+#### [Using groups and roles in schemes](https://www.linkedin.com/learning/jira-advanced-administration/using-groups-and-roles-in-schemes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2414,7 +2382,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/jira-advanced-administration/using-groups-and-roles-in-schemes?u=76281980&t=6)** Here are some examples.
 >
-> **[0:08](https://www.linkedin.com/learning/jira-advanced-administration/using-groups-and-roles-in-schemes?u=76281980&t=8)** As previously shown, you can use groups and roles to give abilities in individual Jira projects.
+> **[0:08](https://www.linkedin.com/learning/jira-advanced-administration/using-groups-and-roles-in-schemes?u=76281980&t=8)** As previously shown, you can use groups and roles to give abilities in individual [[Jira]] projects.
 >
 > **[0:15](https://www.linkedin.com/learning/jira-advanced-administration/using-groups-and-roles-in-schemes?u=76281980&t=15)** Next, you can use groups and roles to determine abilities and permission schemes.
 >
@@ -2432,7 +2400,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/jira-advanced-administration/using-groups-and-roles-in-schemes?u=76281980&t=55)** This condition is used to hide the done transition to non-administrators.
 >
-> **[1:01](https://www.linkedin.com/learning/jira-advanced-administration/using-groups-and-roles-in-schemes?u=76281980&t=61)** End users can't create roles or groups, but they can leverage them in objects like boards, dashboards, dashboard gadgets, filters and filter subscriptions.
+> **[1:01](https://www.linkedin.com/learning/jira-advanced-administration/using-groups-and-roles-in-schemes?u=76281980&t=61)** End users can't create roles or groups, but they can leverage them in objects like boards, [[Dashboards]], dashboard gadgets, filters and filter subscriptions.
 >
 > **[1:12](https://www.linkedin.com/learning/jira-advanced-administration/using-groups-and-roles-in-schemes?u=76281980&t=72)** Finally, roles and groups are often used in third-party apps.
 >
@@ -2444,7 +2412,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/jira-advanced-administration/using-groups-and-roles-in-schemes?u=76281980&t=86)** This is a huge time-saver when there are many users to add.
 >
-> **[1:31](https://www.linkedin.com/learning/jira-advanced-administration/using-groups-and-roles-in-schemes?u=76281980&t=91)** Here's another example using the Power Admin app from Botron Atlassian Apps.
+> **[1:31](https://www.linkedin.com/learning/jira-advanced-administration/using-groups-and-roles-in-schemes?u=76281980&t=91)** Here's another example using the Power Admin app from Botron [[Atlassian]] Apps.
 >
 > **[1:36](https://www.linkedin.com/learning/jira-advanced-administration/using-groups-and-roles-in-schemes?u=76281980&t=96)** This helps your administrators understand dependencies and usage.
 >
@@ -2454,14 +2422,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Jira]] (1), next (1), [[Security]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Jira]] (1), [[Dashboards]] (1), [[Atlassian]] (1)
 > **Tools:** jira (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a read-only role
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-a-read-only-role?u=76281980)
+#### [Challenge: Create a read-only role](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-a-read-only-role?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2471,7 +2438,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-a-read-only-role?u=76281980&t=10)** First, create a new custom role called viewers.
 >
-> **[0:14](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-a-read-only-role?u=76281980&t=14)** Next, use the test user you created in the Jira basic administration course, or any test user with general application access.
+> **[0:14](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-a-read-only-role?u=76281980&t=14)** Next, use the test user you created in the [[Jira]] basic administration course, or any test user with general application access.
 >
 > **[0:22](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-a-read-only-role?u=76281980&t=22)** Add the test user to the viewers role in a test project.
 >
@@ -2479,13 +2446,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Jira]] (1), application (1)
+> **Frameworks & Libraries:** [[Jira]] (1)
 > **Tools:** jira (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Create a read-only role
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-a-read-only-role?u=76281980)
+#### [Solution: Create a read-only role](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-a-read-only-role?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2503,7 +2469,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -2515,15 +2480,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use and create permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-permissions?u=76281980)
+#### [Use and create permissions](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-permissions?u=76281980)
 
-#### Use and create issue security
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-issue-security?u=76281980)
+#### [Use and create issue security](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-issue-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-issue-security?u=76281980&t=0)** - [instructor] In addition to JIRA application permissions and project permissions, you can also use issue security schemes to limit access to individual project issues.
+> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-issue-security?u=76281980&t=0)** - [instructor] In addition to [[Jira]] application permissions and project permissions, you can also use issue security schemes to limit access to individual project issues.
 >
 > **[0:10](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-issue-security?u=76281980&t=10)** Issue security schemes are often used to protect sensitive information for legal security audit and compliance reasons.
 >
@@ -2609,7 +2572,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (31), [[Jira]] (5), next (5), application (3), leadership (2)
+> **Frameworks & Libraries:** [[Jira]] (5)
 > **Env Vars:** jira (5)
 > **Tools:** jira (5)
 > **CLI Commands:** make (3)
@@ -2617,8 +2580,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use and create notifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-notifications?u=76281980)
+#### [Use and create notifications](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-notifications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2628,7 +2590,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-notifications?u=76281980&t=9)** For example, who should receive a message when an issue was created, updated, or assigned?
 >
-> **[0:15](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-notifications?u=76281980&t=15)** Jira comes with one default notification scheme.
+> **[0:15](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-notifications?u=76281980&t=15)** [[Jira]] comes with one default notification scheme.
 >
 > **[0:18](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-notifications?u=76281980&t=18)** You might have a business need for more than one, but you don't need one per project.
 >
@@ -2670,7 +2632,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-notifications?u=76281980&t=130)** And will the user appreciate this notification, or filter it out?"
 >
-> **[2:14](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-notifications?u=76281980&t=134)** There may be better ways for keeping up with Jira changes, like dashboards, filter subscriptions, or connecting Jira to a team chat room.
+> **[2:14](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-notifications?u=76281980&t=134)** There may be better ways for keeping up with Jira changes, like [[Dashboards]], filter subscriptions, or connecting Jira to a team chat room.
 >
 > **[2:22](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-notifications?u=76281980&t=142)** Don't let Jira send more emails than are really needed.
 >
@@ -2722,7 +2684,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-notifications?u=76281980&t=286)** Use these to alert someone about a specific action.
 >
-> **[4:49](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-notifications?u=76281980&t=289)** For example, alert the lead developer that an issue is ready for code review.
+> **[4:49](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-notifications?u=76281980&t=289)** For example, alert the lead developer that an issue is ready for [[Code Review]].
 >
 > **[4:54](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-notifications?u=76281980&t=294)** Alert the testing team that an issue is ready for verification.
 >
@@ -2794,7 +2756,7 @@ created: 2026-05-02
 >
 > **[7:42](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-notifications?u=76281980&t=462)** In Server and Data Center, there's one user profile setting called "My Changes."
 >
-> **[7:47](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-notifications?u=76281980&t=467)** In all deployment types, users can choose whether to receive notifications in HTML or text format.
+> **[7:47](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-notifications?u=76281980&t=467)** In all deployment types, users can choose whether to receive notifications in [[HTML]] or text format.
 >
 > **[7:54](https://www.linkedin.com/learning/jira-advanced-administration/use-and-create-notifications?u=76281980&t=474)** Also, it's good to know that users only receive notifications for issues they had the permission to see.
 >
@@ -2836,7 +2798,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (19), generic (4), feature (3), application (2), business (1)
+> **Frameworks & Libraries:** [[Jira]] (19), [[Dashboards]] (1), [[Code Review]] (1), [[HTML]] (1)
 > **Tools:** jira (19)
 > **CLI Commands:** make (6), find (1)
 > **Analogies:** for example (3), just like (2)
@@ -2845,8 +2807,7 @@ created: 2026-05-02
 > **Env Vars:** html (1), url (1)
 > **Warnings:** note that (1), troubleshoot (1)
 
-#### Challenge: Create read-only permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-read-only-permissions?u=76281980)
+#### [Challenge: Create read-only permissions](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-read-only-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2870,8 +2831,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Create read-only permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-read-only-permissions?u=76281980)
+#### [Solution: Create read-only permissions](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-read-only-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2901,7 +2861,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -2912,16 +2871,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use and vet apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-and-vet-apps?u=76281980)
+#### [Use and vet apps](https://www.linkedin.com/learning/jira-advanced-administration/use-and-vet-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/use-and-vet-apps?u=76281980&t=0)** - [Instructor] Jira is super powerful on its own.
+> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/use-and-vet-apps?u=76281980&t=0)** - [Instructor] [[Jira]] is super powerful on its own.
 >
 > **[0:02](https://www.linkedin.com/learning/jira-advanced-administration/use-and-vet-apps?u=76281980&t=2)** But sometimes you'll want to extend it with additional features.
 >
-> **[0:06](https://www.linkedin.com/learning/jira-advanced-administration/use-and-vet-apps?u=76281980&t=6)** You can add more Jira capabilities for the apps from the Atlassian Marketplace.
+> **[0:06](https://www.linkedin.com/learning/jira-advanced-administration/use-and-vet-apps?u=76281980&t=6)** You can add more Jira capabilities for the apps from the [[Atlassian]] Marketplace.
 >
 > **[0:11](https://www.linkedin.com/learning/jira-advanced-administration/use-and-vet-apps?u=76281980&t=11)** Apps were previously called ad-ons and plugins.
 >
@@ -2997,7 +2955,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/jira-advanced-administration/use-and-vet-apps?u=76281980&t=177)** Next, test the app, create a predefined set of questions and test cases to use for all apps, create some additional test cases that are app-specific too.
 >
-> **[3:08](https://www.linkedin.com/learning/jira-advanced-administration/use-and-vet-apps?u=76281980&t=188)** For a list of question to help with the app vetting process, download my handout from the exercise file area in LinkedIn Learning.
+> **[3:08](https://www.linkedin.com/learning/jira-advanced-administration/use-and-vet-apps?u=76281980&t=188)** For a list of question to help with the app vetting process, download my handout from the exercise file area in [[LinkedIn]] Learning.
 >
 > **[3:16](https://www.linkedin.com/learning/jira-advanced-administration/use-and-vet-apps?u=76281980&t=196)** Make sure the requestor or other potential users help with app testing.
 >
@@ -3085,7 +3043,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (9), [[Atlassian]] (9), data (8), application (7), cloud (4)
+> **Frameworks & Libraries:** [[Jira]] (9), [[Atlassian]] (9), [[LinkedIn]] (1)
 > **Prerequisites:** install (12), make sure you have (1)
 > **CLI Commands:** make (7), find (5)
 > **Env Vars:** jira (5), upm (5), url (1)
@@ -3094,14 +3052,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1), zip file (1)
 > **Documentation:** the documentation (1)
 
-#### Create connections
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/create-connections?u=76281980)
+#### [Create connections](https://www.linkedin.com/learning/jira-advanced-administration/create-connections?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/create-connections?u=76281980&t=0)** - [Instructor] You can make Jira even more powerful by connecting other Atlassian applications.
+> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/create-connections?u=76281980&t=0)** - [Instructor] You can make [[Jira]] even more powerful by connecting other [[Atlassian]] applications.
 >
-> **[0:05](https://www.linkedin.com/learning/jira-advanced-administration/create-connections?u=76281980&t=5)** For instance, link Jira to another Atlassian product, like Confluence or Bitbucket.
+> **[0:05](https://www.linkedin.com/learning/jira-advanced-administration/create-connections?u=76281980&t=5)** For instance, link Jira to another Atlassian product, like [[Confluence]] or [[Bitbucket]].
 >
 > **[0:10](https://www.linkedin.com/learning/jira-advanced-administration/create-connections?u=76281980&t=10)** You can also link a Jira cloud application to a Jira server application.
 >
@@ -3173,7 +3130,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/jira-advanced-administration/create-connections?u=76281980&t=179)** Link Jira to another Atlassian application by using the application links feature.
 >
-> **[3:04](https://www.linkedin.com/learning/jira-advanced-administration/create-connections?u=76281980&t=184)** You'll find it in the products admin area in cloud or the applications admin area in server and data center.
+> **[3:04](https://www.linkedin.com/learning/jira-advanced-administration/create-connections?u=76281980&t=184)** You'll find it in the [[Microsoft Products|products]] admin area in cloud or the applications admin area in server and data center.
 >
 > **[3:11](https://www.linkedin.com/learning/jira-advanced-administration/create-connections?u=76281980&t=191)** Here's an example of Jira cloud application connected to a Jira server and a Confluence cloud application.
 >
@@ -3201,7 +3158,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (30), [[Confluence]] (17), application (11), cloud (6), [[Atlassian]] (3)
+> **Frameworks & Libraries:** [[Jira]] (30), [[Confluence]] (17), [[Atlassian]] (3), [[Bitbucket]] (1), [[Microsoft Products|Products]] (1)
 > **Tools:** jira (30), confluence (17), bitbucket (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** url (2), jql (1)
@@ -3210,12 +3167,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 
-#### Create integrations
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980)
+#### [Create integrations](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980&t=0)** - [Instructor] You can also enhance Jira by integrating it with other applications and middleware.
+> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980&t=0)** - [Instructor] You can also enhance [[Jira]] by integrating it with other applications and middleware.
 >
 > **[0:05](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980&t=5)** For example, you can share issue status updates in your team's chat room.
 >
@@ -3225,7 +3181,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980&t=19)** For example, connect Jira to Salesforce, so teams can work out of both applications.
 >
-> **[0:25](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980&t=25)** Let's connect the Slack chat application to Jira Cloud as an example.
+> **[0:25](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980&t=25)** Let's connect the [[Slack]] chat application to Jira Cloud as an example.
 >
 > **[0:29](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980&t=29)** Don't worry if you don't have Slack.
 >
@@ -3239,7 +3195,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980&t=60)** When I'm mobile, I use Slack as a home base.
 >
-> **[1:03](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980&t=63)** Because I've integrated Slack with Jira and Confluence, I can see what's happening without needing to log into those applications individually.
+> **[1:03](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980&t=63)** Because I've integrated Slack with Jira and [[Confluence]], I can see what's happening without needing to log into those applications individually.
 >
 > **[1:10](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980&t=70)** Here's how to set up this integration.
 >
@@ -3255,7 +3211,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980&t=94)** I want to connect to a specific Jira project, so I'll click the connect project button.
 >
-> **[1:40](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980&t=100)** My Atlassian ID has access to multiple Jira applications, so I'll select the desired one in the first dropdown menu.
+> **[1:40](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980&t=100)** My [[Atlassian]] ID has access to multiple Jira applications, so I'll select the desired one in the first dropdown menu.
 >
 > **[1:47](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980&t=107)** In the second menu, I've selected the desired Jira project.
 >
@@ -3287,7 +3243,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980&t=171)** You can also create Jira issues from Slack using a slash command.
 >
-> **[2:55](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980&t=175)** Simply type /jira, a space and the word create.
+> **[2:55](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980&t=175)** Simply type /jira, a space and the [[Microsoft Word|word]] create.
 >
 > **[3:00](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980&t=180)** You can also include an issue summary in the command.
 >
@@ -3341,17 +3297,17 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980&t=302)** You can also integrate and connect applications through third-party middleware.
 >
-> **[5:07](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980&t=307)** For example, I can connect Jira with my ActiveCampaign CRM or with a WordPress website forum plugin.
+> **[5:07](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980&t=307)** For example, I can connect Jira with my ActiveCampaign CRM or with a [[WordPress]] website forum plugin.
 >
 > **[5:13](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980&t=313)** There are a lot of connection mechanisms out there.
 >
 > **[5:16](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980&t=316)** Simply enter Jira and the name of your other application in your favorite search engine.
 >
-> **[5:21](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980&t=321)** And of course, if you can't find the integration you're looking for, you can always develop your own using an Atlassian framework or the REST API.
+> **[5:21](https://www.linkedin.com/learning/jira-advanced-administration/create-integrations?u=76281980&t=321)** And of course, if you can't find the integration you're looking for, you can always develop your own using an Atlassian framework or the [[Representational State Transfer (REST)|REST]] API.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (28), [[Slack]] (22), application (5), next (3), teams (2)
+> **Frameworks & Libraries:** [[Jira]] (28), [[Slack]] (22), [[Atlassian]] (2), [[Confluence]] (1), [[Microsoft Word|Word]] (1)
 > **Tools:** jira (28), slack (22), confluence (1)
 > **Env Vars:** url (3), jql (2), sla (1), crm (1), rest (1)
 > **Analogies:** for example (6)
@@ -3360,14 +3316,13 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Warnings:** be aware (1)
 
-#### Challenge: Connect Jira to Confluence
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/challenge-connect-jira-to-confluence?u=76281980)
+#### [Challenge: Connect Jira to Confluence](https://www.linkedin.com/learning/jira-advanced-administration/challenge-connect-jira-to-confluence?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/challenge-connect-jira-to-confluence?u=76281980&t=0)** (bright music)
 >
-> **[0:05](https://www.linkedin.com/learning/jira-advanced-administration/challenge-connect-jira-to-confluence?u=76281980&t=5)** - [Instructor] In this challenge, we'll connect to Jira cloud application to a second Confluence cloud application for the simple purpose of showing the procedure.
+> **[0:05](https://www.linkedin.com/learning/jira-advanced-administration/challenge-connect-jira-to-confluence?u=76281980&t=5)** - [Instructor] In this challenge, we'll connect to [[Jira]] cloud application to a second [[Confluence]] cloud application for the simple purpose of showing the procedure.
 >
 > **[0:14](https://www.linkedin.com/learning/jira-advanced-administration/challenge-connect-jira-to-confluence?u=76281980&t=14)** I realize your organization might not have Confluence or your Confluence application might already be connected.
 >
@@ -3375,7 +3330,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/jira-advanced-administration/challenge-connect-jira-to-confluence?u=76281980&t=21)** You could sign up for a new Confluence free trial or simply think of another use case that better fits your organization.
 >
-> **[0:28](https://www.linkedin.com/learning/jira-advanced-administration/challenge-connect-jira-to-confluence?u=76281980&t=28)** How about connecting another Atlassian application, integrating Jira with a non-Atlassian application or vetting and installing an app from the Atlassian marketplace?
+> **[0:28](https://www.linkedin.com/learning/jira-advanced-administration/challenge-connect-jira-to-confluence?u=76281980&t=28)** How about connecting another [[Atlassian]] application, integrating Jira with a non-Atlassian application or vetting and installing an app from the Atlassian marketplace?
 >
 > **[0:38](https://www.linkedin.com/learning/jira-advanced-administration/challenge-connect-jira-to-confluence?u=76281980&t=38)** And of course, you'll want to test any installs in a non-production environment first.
 >
@@ -3383,24 +3338,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Confluence]] (4), [[Atlassian]] (4), [[Jira]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Confluence]] (4), [[Atlassian]] (4), [[Jira]] (2)
 > **Tools:** confluence (4), jira (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Connect Jira to Confluence
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/solution-connect-jira-to-confluence?u=76281980)
+#### [Solution: Connect Jira to Confluence](https://www.linkedin.com/learning/jira-advanced-administration/solution-connect-jira-to-confluence?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/solution-connect-jira-to-confluence?u=76281980&t=0)** (bright music)
 >
-> **[0:05](https://www.linkedin.com/learning/jira-advanced-administration/solution-connect-jira-to-confluence?u=76281980&t=5)** - [Instructor] Were you able to connect your cloud to Confluence or complete a similar use case helpful for your organization?
+> **[0:05](https://www.linkedin.com/learning/jira-advanced-administration/solution-connect-jira-to-confluence?u=76281980&t=5)** - [Instructor] Were you able to connect your cloud to [[Confluence]] or complete a similar use case helpful for your organization?
 >
-> **[0:11](https://www.linkedin.com/learning/jira-advanced-administration/solution-connect-jira-to-confluence?u=76281980&t=11)** Here's how to connect to Atlassian applications.
+> **[0:11](https://www.linkedin.com/learning/jira-advanced-administration/solution-connect-jira-to-confluence?u=76281980&t=11)** Here's how to connect to [[Atlassian]] applications.
 >
-> **[0:14](https://www.linkedin.com/learning/jira-advanced-administration/solution-connect-jira-to-confluence?u=76281980&t=14)** First, visit the application links page in the Products admin section in cloud or the Applications admin section in Server and Data Center.
+> **[0:14](https://www.linkedin.com/learning/jira-advanced-administration/solution-connect-jira-to-confluence?u=76281980&t=14)** First, visit the application links page in the [[Microsoft Products|Products]] admin section in cloud or the Applications admin section in Server and Data Center.
 >
 > **[0:23](https://www.linkedin.com/learning/jira-advanced-administration/solution-connect-jira-to-confluence?u=76281980&t=23)** Next, enter the URL of the application to link to and click the form submission button.
 >
@@ -3412,7 +3366,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), cloud (2), [[Confluence]] (1), [[Atlassian]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Confluence]] (1), [[Atlassian]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** url (1)
 > **Tools:** confluence (1)
 > **Speakers:** - [instructor] (1)
@@ -3423,12 +3377,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Import data
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/import-data?u=76281980)
+#### [Import data](https://www.linkedin.com/learning/jira-advanced-administration/import-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/import-data?u=76281980&t=0)** - [Instructor] The bulk import function is a quick way to get data into JIRA.
+> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/import-data?u=76281980&t=0)** - [Instructor] The bulk import function is a quick way to get data into [[Jira]].
 >
 > **[0:04](https://www.linkedin.com/learning/jira-advanced-administration/import-data?u=76281980&t=4)** Use it when you need to import many similar issues like test cases, recurring issues like tasks for quarterly audits or data from another application or another JIRA environment.
 >
@@ -3482,7 +3435,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/jira-advanced-administration/import-data?u=76281980&t=158)** Open the exporter file, remove the sample data and paste in real data using the same format.
 >
-> **[2:45](https://www.linkedin.com/learning/jira-advanced-administration/import-data?u=76281980&t=165)** Here's a sample CSV file opened in Microsoft Excel and Windows Notepad.
+> **[2:45](https://www.linkedin.com/learning/jira-advanced-administration/import-data?u=76281980&t=165)** Here's a sample CSV file opened in [[Microsoft Excel]] and [[Windows]] Notepad.
 >
 > **[2:50](https://www.linkedin.com/learning/jira-advanced-administration/import-data?u=76281980&t=170)** This file has just a few of the possible JIRA fields.
 >
@@ -3600,7 +3553,7 @@ created: 2026-05-02
 >
 > **[7:16](https://www.linkedin.com/learning/jira-advanced-administration/import-data?u=76281980&t=436)** For this example, I'll map trivial to low.
 >
-> **[7:19](https://www.linkedin.com/learning/jira-advanced-administration/import-data?u=76281980&t=439)** I find it easier to do these transformations in Excel, but you're able to do them with the JIRA importer tool.
+> **[7:19](https://www.linkedin.com/learning/jira-advanced-administration/import-data?u=76281980&t=439)** I find it easier to do these transformations in [[Microsoft Excel|Excel]], but you're able to do them with the JIRA importer tool.
 >
 > **[7:26](https://www.linkedin.com/learning/jira-advanced-administration/import-data?u=76281980&t=446)** Mapping the fields was the last step if or when it's planned, you'll see a success message like in this example.
 >
@@ -3690,7 +3643,7 @@ created: 2026-05-02
 >
 > **[10:56](https://www.linkedin.com/learning/jira-advanced-administration/import-data?u=76281980&t=656)** Always back up your data, use this test environment and only import a few records at first.
 >
-> **[11:02](https://www.linkedin.com/learning/jira-advanced-administration/import-data?u=76281980&t=662)** Finally, leverage Atlassian documentation for additional tips and ways to handle certain types of data.
+> **[11:02](https://www.linkedin.com/learning/jira-advanced-administration/import-data?u=76281980&t=662)** Finally, leverage [[Atlassian]] documentation for additional tips and ways to handle certain types of data.
 >
 > **[11:09](https://www.linkedin.com/learning/jira-advanced-administration/import-data?u=76281980&t=669)** Here are some things to avoid.
 >
@@ -3706,7 +3659,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (35), data (20), next (4), cloud (3), feature (2)
+> **Frameworks & Libraries:** [[Jira]] (35), [[Microsoft Excel|Excel]] (2), [[Microsoft Excel]] (1), [[Windows]] (1), [[Atlassian]] (1)
 > **Env Vars:** jira (35), csv (27)
 > **Tools:** jira (35)
 > **CLI Commands:** make (7), find (4)
@@ -3715,12 +3668,11 @@ created: 2026-05-02
 > **Best Practices:** don't forget (2), it's best to (1)
 > **Prerequisites:** you'll need (1), make sure you have (1)
 
-#### Create issues from email
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/create-issues-from-email?u=76281980)
+#### [Create issues from email](https://www.linkedin.com/learning/jira-advanced-administration/create-issues-from-email?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/create-issues-from-email?u=76281980&t=0)** - [Instructor] Another way to get issues into Jira is to create them from email.
+> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/create-issues-from-email?u=76281980&t=0)** - [Instructor] Another way to get issues into [[Jira]] is to create them from email.
 >
 > **[0:04](https://www.linkedin.com/learning/jira-advanced-administration/create-issues-from-email?u=76281980&t=4)** Sometimes organizations use this feature as an alternative to the create form or to create requests tracked in other applications.
 >
@@ -3758,7 +3710,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/jira-advanced-administration/create-issues-from-email?u=76281980&t=103)** At the top of the page is the connection to the mail server.
 >
-> **[1:46](https://www.linkedin.com/learning/jira-advanced-administration/create-issues-from-email?u=76281980&t=106)** In Cloud, this is automatically configured for you using Atlassian's mail server.
+> **[1:46](https://www.linkedin.com/learning/jira-advanced-administration/create-issues-from-email?u=76281980&t=106)** In Cloud, this is automatically configured for you using [[Atlassian]]'s mail server.
 >
 > **[1:51](https://www.linkedin.com/learning/jira-advanced-administration/create-issues-from-email?u=76281980&t=111)** In Cloud, Jira's admin address is in the format jira@applicationname.[atlassian.net](https://atlassian.net).
 >
@@ -3838,7 +3790,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (37), feature (7), cloud (5), application (3), [[Atlassian]] (2)
+> **Frameworks & Libraries:** [[Jira]] (37), [[Atlassian]] (2)
 > **Tools:** jira (37)
 > **Env Vars:** pop (2), imap (2)
 > **CLI Commands:** make (1), find (1)
@@ -3847,12 +3799,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), you'll need (1)
 > **Definitions:** is a  (1)
 
-#### Use an issue collector
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-an-issue-collector?u=76281980)
+#### [Use an issue collector](https://www.linkedin.com/learning/jira-advanced-administration/use-an-issue-collector?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/use-an-issue-collector?u=76281980&t=0)** - [Narrator] Another way to get issues into Jira is to use the issue collector feature.
+> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/use-an-issue-collector?u=76281980&t=0)** - [Narrator] Another way to get issues into [[Jira]] is to use the issue collector feature.
 >
 > **[0:04](https://www.linkedin.com/learning/jira-advanced-administration/use-an-issue-collector?u=76281980&t=4)** Instead of sending an email message, users can fill out a smaller version of a create form that's embedded on your website or in another application.
 >
@@ -3864,7 +3815,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/jira-advanced-administration/use-an-issue-collector?u=76281980&t=27)** This method also has additional capabilities, like collecting feedback from non-Jira users.
 >
-> **[0:33](https://www.linkedin.com/learning/jira-advanced-administration/use-an-issue-collector?u=76281980&t=33)** The requirements for using this feature are application or project level admin access, and the ability to embed an HTML or JavaScript snippet into another website or application.
+> **[0:33](https://www.linkedin.com/learning/jira-advanced-administration/use-an-issue-collector?u=76281980&t=33)** The requirements for using this feature are application or project level admin access, and the ability to embed an [[HTML]] or [[JavaScript]] snippet into another website or application.
 >
 > **[0:46](https://www.linkedin.com/learning/jira-advanced-administration/use-an-issue-collector?u=76281980&t=46)** Here's an example of an issue collector embedded on a webpage.
 >
@@ -3940,7 +3891,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/jira-advanced-administration/use-an-issue-collector?u=76281980&t=215)** This project has two different issue collectors for two different purposes.
 >
-> **[3:39](https://www.linkedin.com/learning/jira-advanced-administration/use-an-issue-collector?u=76281980&t=219)** Click the link in the name column to see statistics and collector details.
+> **[3:39](https://www.linkedin.com/learning/jira-advanced-administration/use-an-issue-collector?u=76281980&t=219)** Click the link in the name column to see [[Statistics]] and collector details.
 >
 > **[3:44](https://www.linkedin.com/learning/jira-advanced-administration/use-an-issue-collector?u=76281980&t=224)** Hover over the activity column to see account of issues created or click the edit button to change settings.
 >
@@ -3952,7 +3903,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/jira-advanced-administration/use-an-issue-collector?u=76281980&t=250)** You can also embed multiple collectors in the single webpage using custom triggers.
 >
-> **[4:15](https://www.linkedin.com/learning/jira-advanced-administration/use-an-issue-collector?u=76281980&t=255)** The web forms are easy to embed, trigger, and complete.
+> **[4:15](https://www.linkedin.com/learning/jira-advanced-administration/use-an-issue-collector?u=76281980&t=255)** The web [[Forms]] are easy to embed, trigger, and complete.
 >
 > **[4:19](https://www.linkedin.com/learning/jira-advanced-administration/use-an-issue-collector?u=76281980&t=259)** If collector settings change in Jira, you won't have to change the embed code.
 >
@@ -3980,7 +3931,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (17), application (7), web (6), next (4), feature (3)
+> **Frameworks & Libraries:** [[Jira]] (17), [[JavaScript]] (3), [[HTML]] (2), [[Statistics]] (1), [[Forms]] (1)
 > **Tools:** jira (17)
 > **UI Navigation:** select the (3), go to (1), checkbox (1)
 > **Env Vars:** html (2), url (1)
@@ -3989,12 +3940,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 
-#### Use automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/use-automation?u=76281980)
+#### [Use automation](https://www.linkedin.com/learning/jira-advanced-administration/use-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/use-automation?u=76281980&t=0)** - [Instructor] In this section, we'll talk about using automation to improve data quality, and to make your life easier.
+> **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/use-automation?u=76281980&t=0)** - [Instructor] In this section, we'll talk about using automation to improve [[Data Quality]], and to make your life easier.
 >
 > **[0:06](https://www.linkedin.com/learning/jira-advanced-administration/use-automation?u=76281980&t=6)** You probably use automation every day without thinking about it.
 >
@@ -4004,7 +3954,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/jira-advanced-administration/use-automation?u=76281980&t=24)** Automation means making a process or a system operate automatically.
 >
-> **[0:29](https://www.linkedin.com/learning/jira-advanced-administration/use-automation?u=76281980&t=29)** JIRA admins are busy people.
+> **[0:29](https://www.linkedin.com/learning/jira-advanced-administration/use-automation?u=76281980&t=29)** [[Jira]] admins are busy people.
 >
 > **[0:30](https://www.linkedin.com/learning/jira-advanced-administration/use-automation?u=76281980&t=30)** What if there was a way to eliminate the more mundane tasks so you can focus on projects that are more interesting, and deliver more value?
 >
@@ -4042,7 +3992,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/jira-advanced-administration/use-automation?u=76281980&t=111)** In JIRA Service Management, there are also some legacy capabilities that will one day be de-commissioned.
 >
-> **[1:57](https://www.linkedin.com/learning/jira-advanced-administration/use-automation?u=76281980&t=117)** At that time, Atlassian will automatically migrate any rules from the legacy version to the new version for you.
+> **[1:57](https://www.linkedin.com/learning/jira-advanced-administration/use-automation?u=76281980&t=117)** At that time, [[Atlassian]] will automatically migrate any rules from the legacy version to the new version for you.
 >
 > **[2:04](https://www.linkedin.com/learning/jira-advanced-administration/use-automation?u=76281980&t=124)** In Server and Data Center, JIRA software doesn't come with automation, but you can add it with an app.
 >
@@ -4228,7 +4178,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (23), [[Jira]] (16), cloud (5), data (4), application (4)
+> **Frameworks & Libraries:** [[Jira]] (16), [[Atlassian]] (3), [[Data Quality]] (2)
 > **Env Vars:** jira (16), jql (4), jsm (1), sla (1), url (1)
 > **Tools:** jira (16)
 > **CLI Commands:** make (4), find (3)
@@ -4237,8 +4187,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Warnings:** troubleshoot (1)
 
-#### Challenge: Create an issue collector
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-an-issue-collector?u=76281980)
+#### [Challenge: Create an issue collector](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-an-issue-collector?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4246,21 +4195,20 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-an-issue-collector?u=76281980&t=5)** - [Instructor] In this challenge, you'll create an issue collector to embed in a webpage or application.
 >
-> **[0:10](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-an-issue-collector?u=76281980&t=10)** First, choose a Jira project, configure the collector in the project admin area and embed the collector as desired.
+> **[0:10](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-an-issue-collector?u=76281980&t=10)** First, choose a [[Jira]] project, configure the collector in the project admin area and embed the collector as desired.
 >
 > **[0:18](https://www.linkedin.com/learning/jira-advanced-administration/challenge-create-an-issue-collector?u=76281980&t=18)** You can choose any collector settings or template you like.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Jira]] (1)
+> **Frameworks & Libraries:** [[Jira]] (1)
 > **Tools:** jira (1)
 > **Exercise Files:** template (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Create an issue collector
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-an-issue-collector?u=76281980)
+#### [Solution: Create an issue collector](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-an-issue-collector?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4278,15 +4226,15 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-an-issue-collector?u=76281980&t=26)** I'll keep the default settings and click the form submission button.
 >
-> **[0:31](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-an-issue-collector?u=76281980&t=31)** Next, copy of the HTML or JavaScript and embedded as desired.
+> **[0:31](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-an-issue-collector?u=76281980&t=31)** Next, copy of the [[HTML]] or [[JavaScript]] and embedded as desired.
 >
 > **[0:36](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-an-issue-collector?u=76281980&t=36)** Then complete the web form to test the issue collector.
 >
-> **[0:39](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-an-issue-collector?u=76281980&t=39)** Also make sure the issue was successfully created in Jira.
+> **[0:39](https://www.linkedin.com/learning/jira-advanced-administration/solution-create-an-issue-collector?u=76281980&t=39)** Also make sure the issue was successfully created in [[Jira]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[HTML]] (1), [[JavaScript]] (1), web (1), [[Jira]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[JavaScript]] (1), [[Jira]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** html (1)
 > **Tools:** jira (1)
@@ -4298,14 +4246,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-advanced-administration/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/jira-advanced-administration/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-advanced-administration/next-steps?u=76281980&t=0)** - [Narrator] Congrats on completing the course.
 >
-> **[0:02](https://www.linkedin.com/learning/jira-advanced-administration/next-steps?u=76281980&t=2)** You've explored the major areas of the Jira configuration and helped create a strong foundation that will serve you well for years to come.
+> **[0:02](https://www.linkedin.com/learning/jira-advanced-administration/next-steps?u=76281980&t=2)** You've explored the major areas of the [[Jira]] configuration and helped create a strong foundation that will serve you well for years to come.
 >
 > **[0:09](https://www.linkedin.com/learning/jira-advanced-administration/next-steps?u=76281980&t=9)** You should now be able to configure the most important global and project settings, create, modify and remove schemes, create custom elements like fields, workflows and events, use groups and roles to grant and restrict application, project and issue access, extend Jira using apps, connections and integrations, and use advanced features like create via email, the issue collector and automation.
 >
@@ -4319,7 +4266,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/jira-advanced-administration/next-steps?u=76281980&t=50)** My "9 Ways to Learn Jira Administration" article will point you in the right direction.
 >
-> **[0:56](https://www.linkedin.com/learning/jira-advanced-administration/next-steps?u=76281980&t=56)** As you've probably heard, Atlassian stopped selling new licenses of server products in February of 2021 and support for server products ends on February 2nd, 2024.
+> **[0:56](https://www.linkedin.com/learning/jira-advanced-administration/next-steps?u=76281980&t=56)** As you've probably heard, [[Atlassian]] stopped selling new licenses of server [[Microsoft Products|products]] in February of 2021 and support for server products ends on February 2nd, 2024.
 >
 > **[1:07](https://www.linkedin.com/learning/jira-advanced-administration/next-steps?u=76281980&t=67)** So what should you do if you have Jira server?
 >
@@ -4353,7 +4300,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/jira-advanced-administration/next-steps?u=76281980&t=151)** You can ask a question or start a discussion.
 >
-> **[2:34](https://www.linkedin.com/learning/jira-advanced-administration/next-steps?u=76281980&t=154)** There are also plenty of Jira themed groups on LinkedIn and Facebook.
+> **[2:34](https://www.linkedin.com/learning/jira-advanced-administration/next-steps?u=76281980&t=154)** There are also plenty of Jira themed groups on [[LinkedIn]] and Facebook.
 >
 > **[2:39](https://www.linkedin.com/learning/jira-advanced-administration/next-steps?u=76281980&t=159)** Next, studying for Atlassian Certification is a great way to learn more about Jira.
 >
@@ -4389,7 +4336,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (14), [[Atlassian]] (12), cloud (4), next (3), [[Microsoft Products|Products]] (3)
+> **Frameworks & Libraries:** [[Jira]] (14), [[Atlassian]] (12), [[Microsoft Products|Products]] (3), [[LinkedIn]] (1)
 > **Tools:** jira (14)
 > **CLI Commands:** make (2), find (1)
 > **URLs:** [atlassian.com](https://atlassian.com) (2), [jirastrategy.com](https://jirastrategy.com) (1)

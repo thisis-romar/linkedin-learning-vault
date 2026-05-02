@@ -85,12 +85,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why React is so important
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/why-react-is-so-important?u=76281980)
+#### [Why React is so important](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/why-react-is-so-important?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/why-react-is-so-important?u=76281980&t=0)** - [Ray] There's two reasons why, if I had to learn only one JavaScript framework, it would be React.
+> **[0:00](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/why-react-is-so-important?u=76281980&t=0)** - [Ray] There's two reasons why, if I had to learn only one [[JavaScript]] framework, it would be [[React.js|React]].
 >
 > **[0:06](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/why-react-is-so-important?u=76281980&t=6)** Now first, the speed at which it's dominated the industry is amazing.
 >
@@ -102,11 +101,11 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/why-react-is-so-important?u=76281980&t=24)** React makes things that are annoying, like managing the virtual DOM, trivial.
 >
-> **[0:29](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/why-react-is-so-important?u=76281980&t=29)** Hey there, this is Ray Villalobos, senior staff instructor at LinkedIn, and I created this course as a quick introduction to React that will teach you how it works in a practical way.
+> **[0:29](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/why-react-is-so-important?u=76281980&t=29)** Hey there, this is Ray Villalobos, senior staff instructor at [[LinkedIn]], and I created this course as a quick introduction to React that will teach you how it works in a practical way.
 >
-> **[0:39](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/why-react-is-so-important?u=76281980&t=39)** I'm using React Hooks in this course, the most modern way of working with the library.
+> **[0:39](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/why-react-is-so-important?u=76281980&t=39)** I'm using [[React Hooks]] in this course, the most modern way of working with the library.
 >
-> **[0:44](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/why-react-is-so-important?u=76281980&t=44)** I'm assuming you know the basics of HTML, CSS, and JavaScript, and that's about it.
+> **[0:44](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/why-react-is-so-important?u=76281980&t=44)** I'm assuming you know the basics of [[HTML]], CSS, and JavaScript, and that's about it.
 >
 > **[0:49](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/why-react-is-so-important?u=76281980&t=49)** Now, we're going to build a simple application that will get you some experience with React and show you why it's worth your time.
 >
@@ -114,12 +113,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), [[JavaScript]] (2), dom (1), [[LinkedIn]] (1), [[React Hooks]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[JavaScript]] (2), [[LinkedIn]] (1), [[React Hooks]] (1), [[HTML]] (1)
 > **Env Vars:** dom (1), html (1), css (1)
 > **Speakers:** - [ray] (1)
 
-#### Exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/exercise-files?u=76281980)
+#### [Exercise files](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -131,7 +129,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/exercise-files?u=76281980&t=16)** You can hit the t key to show or hide this toolbar.
 >
-> **[0:20](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/exercise-files?u=76281980&t=20)** You'll find a links to the GitHub repository for this course as well as contact information.
+> **[0:20](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/exercise-files?u=76281980&t=20)** You'll find a links to the [[GitHub]] repository for this course as well as contact information.
 >
 > **[0:26](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/exercise-files?u=76281980&t=26)** If you hit the m key, you should see an index for all the slides on the course.
 >
@@ -153,21 +151,21 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/exercise-files?u=76281980&t=72)** If you see an E at the end of the name, that's how the code looked at the end of the video.
 >
-> **[1:17](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/exercise-files?u=76281980&t=77)** If you want to, you can download the course by going to the Code button and choosing one of the options like Open with Codespaces or GitHub Desktop.
+> **[1:17](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/exercise-files?u=76281980&t=77)** If you want to, you can download the course by going to the Code button and choosing one of the options like Open with [[Codespaces]] or GitHub Desktop.
 >
 > **[1:27](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/exercise-files?u=76281980&t=87)** If you're familiar with terminal commands, you can also download the repo by using the clipboard icon to copy the link.
 >
-> **[1:33](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/exercise-files?u=76281980&t=93)** We recommend that you download the main branch and issue an NPM install command.
+> **[1:33](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/exercise-files?u=76281980&t=93)** We recommend that you download the main branch and issue an [[npm]] install command.
 >
 > **[1:38](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/exercise-files?u=76281980&t=98)** You can also look at the code or download any of these branches by going to the branch pop-up first, and then using the Code button, you can download the ZIP file for the specific video you want to follow along with.
 >
-> **[1:52](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/exercise-files?u=76281980&t=112)** If you need more experience with Git and GitHub, do a search for [[Learning Git and GitHub]] in our library.
+> **[1:52](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/exercise-files?u=76281980&t=112)** If you need more experience with [[Git]] and GitHub, do a search for [[Learning Git and GitHub]] in our library.
 >
 > **[1:58](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/exercise-files?u=76281980&t=118)** That's how you work with this project, so let's keep going.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (5), hit (2), [[Git]] (2), [[Codespaces]] (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Git]] (2), [[Codespaces]] (1), [[npm]] (1)
 > **Tools:** github (5), terminal (1)
 > **Exercise Files:** download the (4), github repo (1), zip file (1)
 > **CLI Commands:** find (2), git (2), npm (1)
@@ -181,22 +179,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-requirements?u=76281980)
+#### [Installing requirements](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-requirements?u=76281980&t=0)** - [Instructor] Let's take a look at the tools we'll need to get started installing a React project with Create React App.
+> **[0:00](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-requirements?u=76281980&t=0)** - [Instructor] Let's take a look at the tools we'll need to get started installing a [[React.js|React]] project with Create React App.
 >
 > **[0:06](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-requirements?u=76281980&t=6)** Now before you get started, you'll need to have some tools pre-installed on your computer to work on this project.
 >
-> **[0:12](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-requirements?u=76281980&t=12)** First, you'll need a copy of Git installed.
+> **[0:12](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-requirements?u=76281980&t=12)** First, you'll need a copy of [[Git]] installed.
 >
-> **[0:15](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-requirements?u=76281980&t=15)** A Git is a version control system that lets you keep track of and collaborate on projects.
+> **[0:15](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-requirements?u=76281980&t=15)** A Git is a [[Version Control]] system that lets you keep track of and collaborate on projects.
 >
-> **[0:21](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-requirements?u=76281980&t=21)** If you're on a PC, when you install Git, you have the option of installing an app called Git Bash, which lets you use Linux commands on a PC.
+> **[0:21](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-requirements?u=76281980&t=21)** If you're on a PC, when you install Git, you have the option of installing an app called Git Bash, which lets you use [[Linux]] commands on a PC.
 >
-> **[0:30](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-requirements?u=76281980&t=30)** You'll also need a copy of Node.js, which is used to manage the project.
+> **[0:30](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-requirements?u=76281980&t=30)** You'll also need a copy of [[Node.js]], which is used to manage the project.
 >
 > **[0:34](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-requirements?u=76281980&t=34)** A couple of optional tools will also make your life easier.
 >
@@ -212,7 +209,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-requirements?u=76281980&t=63)** You can create a React app with a tool called Create React App.
 >
-> **[1:07](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-requirements?u=76281980&t=67)** It's a much simpler way to create projects, but it does require that you have npm, which comes with Node.js 5.2 or higher.
+> **[1:07](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-requirements?u=76281980&t=67)** It's a much simpler way to create projects, but it does require that you have [[npm]], which comes with Node.js 5.2 or higher.
 >
 > **[1:15](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-requirements?u=76281980&t=75)** If you have a previous version of the Create React App project, you can uninstall it with the command seen here.
 >
@@ -244,7 +241,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (12), [[Git]] (5), [[npm]] (5), application (4), [[Node.js]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (12), [[Git]] (5), [[npm]] (5), [[Node.js]] (2), [[Version Control]] (1)
 > **CLI Commands:** git (5), npm (5), yarn (3), node (2), make (2)
 > **Tools:** terminal (4), bash (2), visual studio (1)
 > **Definitions:** is a  (3), means that (1)
@@ -253,12 +250,11 @@ created: 2026-05-02
 > **Env Vars:** jsx (1)
 > **Versions:** 5.2 (1)
 
-#### React installation
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980)
+#### [React installation](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=0)** - [Instructor] The create-react-app makes it easier to create a project by installing a lot of modules.
+> **[0:00](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=0)** - [Instructor] The create-[[React.js|react]]-app makes it easier to create a project by installing a lot of modules.
 >
 > **[0:05](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=5)** So let's go over what we got when we installed the project with create react app.
 >
@@ -268,11 +264,11 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=19)** If you're comfortable with react installations, you might want to skip this video.
 >
-> **[0:23](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=23)** Also, if you're working with our GitHub repo, like I am, you'll see some additional files and folders like the contributing license, notice, GitHub folder, and a different read me file than the default installation.
+> **[0:23](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=23)** Also, if you're working with our [[GitHub]] repo, like I am, you'll see some additional files and folders like the contributing license, notice, GitHub folder, and a different read me file than the default installation.
 >
-> **[0:37](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=37)** Those are required for us to add the projects on GitHub but the rest is the default installation.
+> **[0:37](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=37)** Those are required for us to add the projects on GitHub but the [[Representational State Transfer (REST)|rest]] is the default installation.
 >
-> **[0:43](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=43)** Now let's go ahead and run the npm start or the yarn start command.
+> **[0:43](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=43)** Now let's go ahead and run the [[npm]] start or the yarn start command.
 >
 > **[0:48](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=48)** So I'm going to pull up a terminal and go to the terminal menu and select new terminal and then type in the npm start or yarn start command.
 >
@@ -282,7 +278,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=67)** Let's talk about some of the modules that get installed when you use create react app.
 >
-> **[1:11](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=71)** First Webpack is a JavaScript bundler.
+> **[1:11](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=71)** First Webpack is a [[JavaScript]] bundler.
 >
 > **[1:14](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=74)** Its main job is to manage how our application is assembled and the loading of your different modules into an application.
 >
@@ -300,9 +296,9 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=127)** Now you can see the modules that I was talking about installed right here.
 >
-> **[2:10](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=130)** So for example you can see jest install right there, as well as the testing version for the react library of jest and some of the other tools that we talked about into the package.json file.
+> **[2:10](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=130)** So for example you can see jest install right there, as well as the testing version for the react library of jest and some of the other tools that we talked about into the package.[[JSON]] file.
 >
-> **[2:24](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=144)** Now the package.json is the file that Node.js creates to manage my project.
+> **[2:24](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=144)** Now the package.json is the file that [[Node.js]] creates to manage my project.
 >
 > **[2:29](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=149)** You can also see a browser list section down here.
 >
@@ -326,9 +322,9 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=193)** The robots.txt file gives web crawlers information about your sites.
 >
-> **[3:18](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=198)** Web crawlers are applications that search engines like Google use to get more information about your websites.
+> **[3:18](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=198)** Web crawlers are applications that search engines like [[Google]] use to get more information about your websites.
 >
-> **[3:24](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=204)** The index.html file is the entry point for browsers.
+> **[3:24](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=204)** The index.[[HTML]] file is the entry point for browsers.
 >
 > **[3:28](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=208)** You can modify this file if you want, but Webpack will use this file to inject the JavaScript code you write as well as react code and other CSS.
 >
@@ -346,7 +342,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=239)** Now this file is going to import a lot of code from different libraries like React and React-dom.
 >
-> **[4:05](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=245)** React is the main library for working with react while React-dom manages how the document object model works within react.
+> **[4:05](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=245)** React is the main library for working with react while React-dom manages how the [[Document Object Model (DOM)|document object model]] works within react.
 >
 > **[4:13](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/react-installation?u=76281980&t=253)** Now these are being loaded by Node.js using what's listed as dependencies in your package.json file.
 >
@@ -414,7 +410,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (16), [[JavaScript]] (13), application (9), [[HTML]] (7), [[GitHub]] (5)
+> **Frameworks & Libraries:** [[React.js|React]] (16), [[JavaScript]] (13), [[HTML]] (7), [[GitHub]] (5), [[JSON]] (3)
 > **File Paths:** package.json (3), node.js (2), app.js (2), robots.txt (1), index.html (1)
 > **Env Vars:** html (5), css (3), jsx (3)
 > **CLI Commands:** node (3), npm (2), yarn (2), find (2)
@@ -423,8 +419,7 @@ created: 2026-05-02
 > **Code Identifiers:** classname (2), node_modules (1), setuptests (1)
 > **Analogies:** for example (3), just like (1)
 
-#### Customizing your installs
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/customizing-your-installs?u=76281980)
+#### [Customizing your installs](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/customizing-your-installs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -434,7 +429,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/customizing-your-installs?u=76281980&t=5)** Here's what we have so far, and the application is already running in the terminal, and so what I'm going to do is remove a bunch of files, that I'm not going to use in this project.
 >
-> **[0:15](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/customizing-your-installs?u=76281980&t=15)** So for example these logos I'm going to get rid of, as well as my manifest.json file, robots.txt, it doesn't hurt that much to leave them in there, but I just want my project to look a little bit simpler.
+> **[0:15](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/customizing-your-installs?u=76281980&t=15)** So for example these logos I'm going to get rid of, as well as my manifest.[[JSON]] file, robots.txt, it doesn't hurt that much to leave them in there, but I just want my project to look a little bit simpler.
 >
 > **[0:29](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/customizing-your-installs?u=76281980&t=29)** I'm not going to use this app.css file, so I'm going to get rid of that too, or the tests, and I'm not going to use this logo.svg, and I'll also get rid of this, setup test for report web vitals, and this setup tests.js.
 >
@@ -444,7 +439,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/customizing-your-installs?u=76281980&t=58)** All right, in addition to that, we're going to need to make some modifications, to some of the files.
 >
-> **[1:03](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/customizing-your-installs?u=76281980&t=63)** We'll start with the index.html.
+> **[1:03](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/customizing-your-installs?u=76281980&t=63)** We'll start with the index.[[HTML]].
 >
 > **[1:05](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/customizing-your-installs?u=76281980&t=65)** I usually take out like these comments, once I know what I'm doing and, so let's just get rid of all the comments first.
 >
@@ -500,7 +495,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/customizing-your-installs?u=76281980&t=212)** Control C to get out of that one.
 >
-> **[3:34](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/customizing-your-installs?u=76281980&t=214)** I'll clear this out, it's always cleaner, and then issue an npm start command again.
+> **[3:34](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/customizing-your-installs?u=76281980&t=214)** I'll clear this out, it's always cleaner, and then issue an [[npm]] start command again.
 >
 > **[3:40](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/customizing-your-installs?u=76281980&t=220)** And now we get just the very simple page, that says, "Your Appointments."
 >
@@ -508,7 +503,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), web (2), application (1), [[JSON]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[HTML]] (1), [[npm]] (1)
 > **File Paths:** app.css (2), index.js (2), manifest.json (1), robots.txt (1), tests.js (1)
 > **CLI Commands:** make (7), npm (1)
 > **Tools:** terminal (6)
@@ -517,8 +512,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (2)
 > **Env Vars:** css (1)
 
-#### Using React icon components
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/using-react-icon-components?u=76281980)
+#### [Using React icon components](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/using-react-icon-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -526,9 +520,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/using-react-icon-components?u=76281980&t=3)** So, let's take a look at how we can install a module that is external to help us add icons to our project.
 >
-> **[0:10](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/using-react-icon-components?u=76281980&t=10)** Now the one I'm going to be using is called React Icons, and it's one of my favorite React Component Libraries.
+> **[0:10](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/using-react-icon-components?u=76281980&t=10)** Now the one I'm going to be using is called [[React.js|React]] Icons, and it's one of my favorite React Component Libraries.
 >
-> **[0:17](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/using-react-icon-components?u=76281980&t=17)** To install it, we're going to issue an npm install command, and use react-icons, and then save it as a dependency.
+> **[0:17](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/using-react-icon-components?u=76281980&t=17)** To install it, we're going to issue an [[npm]] install command, and use react-icons, and then save it as a dependency.
 >
 > **[0:25](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/using-react-icon-components?u=76281980&t=25)** So, I'll just copy this code right here, from the slide and then go into my terminal, in my project, and go ahead and paste it in there, and run it.
 >
@@ -562,7 +556,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/using-react-icon-components?u=76281980&t=143)** And once you find one that you want to use, just click on it and notice that it copies the icon name to the clipboard, which means that you can immediately use.
 >
-> **[2:32](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/using-react-icon-components?u=76281980&t=152)** You just have to remember that this two-letter word before the name of the icon is the extension, but if you know the library, if you go to say BoxIcons, which is where this comes from, you can see that this is how you would import it, the bi goes at the beginning.
+> **[2:32](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/using-react-icon-components?u=76281980&t=152)** You just have to remember that this two-letter [[Microsoft Word|word]] before the name of the icon is the extension, but if you know the library, if you go to say BoxIcons, which is where this comes from, you can see that this is how you would import it, the bi goes at the beginning.
 >
 > **[2:51](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/using-react-icon-components?u=76281980&t=171)** So, you can kind of guess it from the name or you can just go to that sort of icons page and find the icon and the import command right here.
 >
@@ -598,7 +592,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (7), bi (2), [[npm]] (1), [[Search]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (7), [[npm]] (1), [[Microsoft Word|Word]] (1)
 > **Prerequisites:** install (6)
 > **CLI Commands:** find (4), npm (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -606,14 +600,13 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [tutor] (1)
 
-#### Installing Tailwind CSS in React
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-tailwind-css-in-react?u=76281980)
+#### [Installing Tailwind CSS in React](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-tailwind-css-in-react?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-tailwind-css-in-react?u=76281980&t=0)** - [Instructor] Tailwind CSS is a framework for building great looking sites, with a utility first approach.
 >
-> **[0:06](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-tailwind-css-in-react?u=76281980&t=6)** Now this is super popular for libraries like React.
+> **[0:06](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-tailwind-css-in-react?u=76281980&t=6)** Now this is super popular for libraries like [[React.js|React]].
 >
 > **[0:09](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-tailwind-css-in-react?u=76281980&t=9)** So let's take a look at how you go about installing it.
 >
@@ -635,7 +628,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-tailwind-css-in-react?u=76281980&t=56)** There's actually more stuff to the right of this slide, but if you just triple click, it should get everything.
 >
-> **[1:02](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-tailwind-css-in-react?u=76281980&t=62)** And then I'm going to come into my application and just paste all that in, now I'm installing Tailwind CSS, of course, as well as additional things to make it compatible with PostCSS 7, as you can see here, and I'm also installing a module called Autoprefixer, add a specific version, and then I'm also installing something called Tailwind CSS forms.
+> **[1:02](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-tailwind-css-in-react?u=76281980&t=62)** And then I'm going to come into my application and just paste all that in, now I'm installing Tailwind CSS, of course, as well as additional things to make it compatible with PostCSS 7, as you can see here, and I'm also installing a module called Autoprefixer, add a specific version, and then I'm also installing something called Tailwind CSS [[Forms]].
 >
 > **[1:27](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-tailwind-css-in-react?u=76281980&t=87)** By default, when you install tailwind it doesn't come with the CSS components.
 >
@@ -643,7 +636,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-tailwind-css-in-react?u=76281980&t=93)** That's something that is not on the string if you copy it from the website.
 >
-> **[1:38](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-tailwind-css-in-react?u=76281980&t=98)** So if later on the installation becomes a lot simpler you're going to need to NPM install just this additional library.
+> **[1:38](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-tailwind-css-in-react?u=76281980&t=98)** So if later on the installation becomes a lot simpler you're going to need to [[npm]] install just this additional library.
 >
 > **[1:46](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-tailwind-css-in-react?u=76281980&t=106)** So, let's keep on going, let's go ahead and hit return here.
 >
@@ -653,7 +646,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-tailwind-css-in-react?u=76281980&t=123)** And that stands for Create React App Configuration Override.
 >
-> **[2:07](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-tailwind-css-in-react?u=76281980&t=127)** Now then we'll modify the scripts in our package.json to use that.
+> **[2:07](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-tailwind-css-in-react?u=76281980&t=127)** Now then we'll modify the scripts in our package.[[JSON]] to use that.
 >
 > **[2:10](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-tailwind-css-in-react?u=76281980&t=130)** So I'm going to copy this, go back and here it looks like that other installation is done and paste this thing.
 >
@@ -713,9 +706,9 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-tailwind-css-in-react?u=76281980&t=298)** And first we need this purge section, so we're going to paste that in here.
 >
-> **[5:03](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-tailwind-css-in-react?u=76281980&t=303)** This is going to look for all the files of this type, JavaScript files, JSX, TS and TSX as those TypeScript files here.
+> **[5:03](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-tailwind-css-in-react?u=76281980&t=303)** This is going to look for all the files of this type, [[JavaScript]] files, JSX, TS and TSX as those TypeScript files here.
 >
-> **[5:11](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-tailwind-css-in-react?u=76281980&t=311)** And also the index.html, and then put them through the plugin looks like sometimes when you paste things it tends to copy whatever was in the next line.
+> **[5:11](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-tailwind-css-in-react?u=76281980&t=311)** And also the index.[[HTML]], and then put them through the plugin looks like sometimes when you paste things it tends to copy whatever was in the next line.
 >
 > **[5:21](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/installing-tailwind-css-in-react?u=76281980&t=321)** So, sorry about that.
 >
@@ -821,7 +814,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (20), [[React.js|React]] (5), [[npm]] (4), [[JSON]] (3), next (3)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[npm]] (4), [[JSON]] (3), [[JavaScript]] (3), [[HTML]] (3)
 > **Env Vars:** css (18), craco (7), npm (4), jsx (3), html (2)
 > **CLI Commands:** make (7), npm (4), find (2)
 > **File Paths:** package.json (3), craco.config.js (2), index.css (2), config.js (1), index.html (1)
@@ -835,8 +828,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your first component
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/your-first-component?u=76281980)
+#### [Your first component](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/your-first-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -846,13 +838,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/your-first-component?u=76281980&t=7)** Now you've already seen a couple of components in our application.
 >
-> **[0:10](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/your-first-component?u=76281980&t=10)** If we take a peek at the index.JS file, which is the entry point for our application, you'll notice that it doesn't start outputting HTML to our page.
+> **[0:10](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/your-first-component?u=76281980&t=10)** If we take a peek at the index.JS file, which is the entry point for our application, you'll notice that it doesn't start outputting [[HTML]] to our page.
 >
 > **[0:20](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/your-first-component?u=76281980&t=20)** Instead it calls a separate component called App right here.
 >
 > **[0:24](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/your-first-component?u=76281980&t=24)** It imports it from this file which then displays the information that we need right here.
 >
-> **[0:30](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/your-first-component?u=76281980&t=30)** And App.JS itself calls a different component from the React icons library.
+> **[0:30](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/your-first-component?u=76281980&t=30)** And App.JS itself calls a different component from the [[React.js|React]] icons library.
 >
 > **[0:35](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/your-first-component?u=76281980&t=35)** And you can see how it's used in this line right here.
 >
@@ -876,7 +868,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/your-first-component?u=76281980&t=68)** Now in here there's a couple of ways that we could create the component.
 >
-> **[1:12](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/your-first-component?u=76281980&t=72)** We can use a function and type in the function name and then create a function just like we would in normal JavaScript.
+> **[1:12](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/your-first-component?u=76281980&t=72)** We can use a function and type in the function name and then create a function just like we would in normal [[JavaScript]].
 >
 > **[1:20](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/your-first-component?u=76281980&t=80)** But there's another way that you can do this and it's a little bit more convenient for some of the work that we'll be doing later on.
 >
@@ -894,7 +886,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/your-first-component?u=76281980&t=119)** So what it's going to return is some HTML and I've prepared a file here for you with all the HTML you need for this component.
 >
-> **[2:07](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/your-first-component?u=76281980&t=127)** Now this is written in JSX, so you see class name instead of the word class and we're already using an icon component called search right here and caret down.
+> **[2:07](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/your-first-component?u=76281980&t=127)** Now this is written in JSX, so you see class name instead of the [[Microsoft Word|word]] class and we're already using an icon component called search right here and caret down.
 >
 > **[2:19](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/your-first-component?u=76281980&t=139)** So let's go ahead and copy this.
 >
@@ -940,7 +932,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (11), [[HTML]] (6), application (3), bi (3), [[React.js|React]] (2)
+> **Frameworks & Libraries:** [[HTML]] (6), [[React.js|React]] (2), [[JavaScript]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** html (6), jsx (2)
 > **Definitions:** means that (1), is called (1), we call this (1)
 > **File Paths:** index.js (1), app.js (1)
@@ -948,8 +940,7 @@ created: 2026-05-02
 > **Analogies:** just like (2)
 > **Speakers:** - all (1)
 
-#### Creating a sub-component Hooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/creating-a-sub-component-hooks?u=76281980)
+#### [Creating a sub-component Hooks](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/creating-a-sub-component-hooks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -965,7 +956,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/creating-a-sub-component-hooks?u=76281980&t=39)** And I have the cool font that lets me use ligatures in VS code so my arrow functions look pretty awesome.
 >
-> **[0:45](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/creating-a-sub-component-hooks?u=76281980&t=45)** And then we're going to need a return statement with some additional HTML.
+> **[0:45](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/creating-a-sub-component-hooks?u=76281980&t=45)** And then we're going to need a return statement with some additional [[HTML]].
 >
 > **[0:51](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/creating-a-sub-component-hooks?u=76281980&t=51)** So I put that on this page for you.
 >
@@ -983,15 +974,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), [[HTML]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **UI Navigation:** dropdown (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** html (1)
 > **Tools:** vs code (1)
 > **Speakers:** - [tutor] (1)
 
-#### Getting appointments and debugging
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/getting-appointments-and-debugging?u=76281980)
+#### [Getting appointments and debugging](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/getting-appointments-and-debugging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1003,7 +993,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/getting-appointments-and-debugging?u=76281980&t=21)** So let's go through the process again.
 >
-> **[0:23](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/getting-appointments-and-debugging?u=76281980&t=23)** We're going to import some icons so let's go ahead and import something called BiCalendarPlus and then this will come from react icons/bi and then we'll create the constant for ad appointment using our arrow function.
+> **[0:23](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/getting-appointments-and-debugging?u=76281980&t=23)** We're going to import some icons so let's go ahead and import something called BiCalendarPlus and then this will come from [[React.js|react]] icons/bi and then we'll create the constant for ad appointment using our arrow function.
 >
 > **[0:48](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/getting-appointments-and-debugging?u=76281980&t=48)** This is going to return something.
 >
@@ -1095,7 +1085,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), [[React.js|React]] (3), bi (3), css (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3)
 > **CLI Commands:** make (4)
 > **Tools:** terminal (3), visual studio (1)
 > **UI Navigation:** toggle (2), dropdown (1)
@@ -1104,8 +1094,7 @@ created: 2026-05-02
 > **Definitions:** means that (2)
 > **Cross-References:** previous video (1)
 
-#### Importing JSON data as a variable
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/importing-json-data-as-a-variable?u=76281980)
+#### [Importing JSON data as a variable](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/importing-json-data-as-a-variable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1115,7 +1104,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/importing-json-data-as-a-variable?u=76281980&t=9)** So, I'm going to go and select all this and I'm going to place it in this source folder.
 >
-> **[0:15](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/importing-json-data-as-a-variable?u=76281980&t=15)** So, if I insert a file here, I'm going to call it data.JSON and I paste all of my JSON code in there.
+> **[0:15](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/importing-json-data-as-a-variable?u=76281980&t=15)** So, if I insert a file here, I'm going to call it data.[[JSON]] and I paste all of my JSON code in there.
 >
 > **[0:23](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/importing-json-data-as-a-variable?u=76281980&t=23)** Then we can easily import that into App.JS just by adding an import statement.
 >
@@ -1141,7 +1130,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/importing-json-data-as-a-variable?u=76281980&t=78)** And then, what we can do is use that appointmentList variable.
 >
-> **[1:23](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/importing-json-data-as-a-variable?u=76281980&t=83)** And we're going to use JavaScript's map function to create a temporary variable called appointment for each one of those items as they come in and then we'll use an arrow function.
+> **[1:23](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/importing-json-data-as-a-variable?u=76281980&t=83)** And we're going to use [[JavaScript]]'s map function to create a temporary variable called appointment for each one of those items as they come in and then we'll use an arrow function.
 >
 > **[1:34](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/importing-json-data-as-a-variable?u=76281980&t=94)** And this time we're going to add a parenthesis here, which will be what gets returned from this list and placed in here instead of this expression.
 >
@@ -1183,11 +1172,11 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/importing-json-data-as-a-variable?u=76281980&t=199)** All you have to do is use an import statement.
 >
-> **[3:22](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/importing-json-data-as-a-variable?u=76281980&t=202)** It can go straight into a variable that then you can use, using regular JavaScript to map a series of HTML or JSX HTML into the variable and display our list pretty easily.
+> **[3:22](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/importing-json-data-as-a-variable?u=76281980&t=202)** It can go straight into a variable that then you can use, using regular JavaScript to map a series of [[HTML]] or JSX HTML into the variable and display our list pretty easily.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[JSON]] (4), [[JavaScript]] (2), [[HTML]] (2), css (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[JavaScript]] (2), [[HTML]] (2)
 > **Env Vars:** json (4), html (2), url (1), css (1), jsx (1)
 > **Code Identifiers:** appointmentlist (2), petname (2)
 > **File Paths:** data.json (2), app.js (1)
@@ -1199,8 +1188,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Passing data to a component
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/passing-data-to-a-component?u=76281980)
+#### [Passing data to a component](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/passing-data-to-a-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1274,18 +1262,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** bi (1), application (1)
 > **File Paths:** app.js (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 > **Speakers:** - components (1)
 
-#### The useState Hook and conditional classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/the-usestate-hook-and-conditional-classes?u=76281980)
+#### [The useState Hook and conditional classes](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/the-usestate-hook-and-conditional-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/the-usestate-hook-and-conditional-classes?u=76281980&t=0)** - The modern way to work with React projects is to use a feature called Hooks.
+> **[0:00](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/the-usestate-hook-and-conditional-classes?u=76281980&t=0)** - The modern way to work with [[React.js|React]] projects is to use a feature called Hooks.
 >
 > **[0:05](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/the-usestate-hook-and-conditional-classes?u=76281980&t=5)** Hooks allow you to use state and other react features without having to write classes.
 >
@@ -1299,13 +1285,13 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/the-usestate-hook-and-conditional-classes?u=76281980&t=38)** This component is going to keep track of a variable and I'm going to call this variable called toggleForm.
 >
-> **[0:45](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/the-usestate-hook-and-conditional-classes?u=76281980&t=45)** And this is what's going to allow our application to show or hide the rest of the form.
+> **[0:45](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/the-usestate-hook-and-conditional-classes?u=76281980&t=45)** And this is what's going to allow our application to show or hide the [[Representational State Transfer (REST)|rest]] of the form.
 >
 > **[0:52](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/the-usestate-hook-and-conditional-classes?u=76281980&t=52)** So the way that useState works is you create the name of the variable, and then you also create something that modifies that variable.
 >
 > **[1:02](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/the-usestate-hook-and-conditional-classes?u=76281980&t=62)** So it's essentially like a function that you can call whenever you want to modify that variable.
 >
-> **[1:07](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/the-usestate-hook-and-conditional-classes?u=76281980&t=67)** And it's normally called the same thing as the variable name, usually with the word 'set' at the front.
+> **[1:07](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/the-usestate-hook-and-conditional-classes?u=76281980&t=67)** And it's normally called the same thing as the variable name, usually with the [[Microsoft Word|word]] 'set' at the front.
 >
 > **[1:15](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/the-usestate-hook-and-conditional-classes?u=76281980&t=75)** I'm going to ask that to useState.
 >
@@ -1341,7 +1327,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/the-usestate-hook-and-conditional-classes?u=76281980&t=177)** I'm going to put this class name on the next line and I'll say onClick.
 >
-> **[3:03](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/the-usestate-hook-and-conditional-classes?u=76281980&t=183)** So it's sort of like a JavaScript onClick event here in JSX.
+> **[3:03](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/the-usestate-hook-and-conditional-classes?u=76281980&t=183)** So it's sort of like a [[JavaScript]] onClick event here in JSX.
 >
 > **[3:07](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/the-usestate-hook-and-conditional-classes?u=76281980&t=187)** And then whenever I click on this button it's going to execute a arrow function.
 >
@@ -1395,15 +1381,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), feature (3), [[JavaScript]] (2), application (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** usestate (5), onclick (2), toggleform (1), userstate (1), settoggleform (1)
 > **UI Navigation:** toggle (4), click on (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** jsx (1)
 > **Speakers:** - the (1)
 
-#### Passing state and hiding components
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/passing-state-and-hiding-components?u=76281980)
+#### [Passing state and hiding components](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/passing-state-and-hiding-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1415,7 +1400,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/passing-state-and-hiding-components?u=76281980&t=20)** Let's go ahead and import state.
 >
-> **[0:23](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/passing-state-and-hiding-components?u=76281980&t=23)** So, useState from react, and that means that we can useState in any of these two different components.
+> **[0:23](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/passing-state-and-hiding-components?u=76281980&t=23)** So, useState from [[React.js|react]], and that means that we can useState in any of these two different components.
 >
 > **[0:32](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/passing-state-and-hiding-components?u=76281980&t=32)** So, we have two components here and what we want to do is actually pass information about the state from this main component into this sub-component.
 >
@@ -1467,7 +1452,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (1), data (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Code Identifiers:** usestate (3), togglesort (2), settogglesort (2), onclick (2)
 > **UI Navigation:** toggle (6), dropdown (2), click on (1)
 > **Analogies:** similar to (1), it's like (1)
@@ -1480,14 +1465,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### useEffect and useCallback Hooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/useeffect-and-usecallback-hooks?u=76281980)
+#### [useEffect and useCallback Hooks](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/useeffect-and-usecallback-hooks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/useeffect-and-usecallback-hooks?u=76281980&t=0)** - [Instructor] Normally your data wouldn't be coming from your own project.
 >
-> **[0:04](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/useeffect-and-usecallback-hooks?u=76281980&t=4)** You would be checking this data that JSON file usually from an API, like GraphQL or your own REST API.
+> **[0:04](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/useeffect-and-usecallback-hooks?u=76281980&t=4)** You would be checking this data that [[JSON]] file usually from an API, like [[GraphQL]] or your own [[Representational State Transfer (REST)|REST]] API.
 >
 > **[0:13](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/useeffect-and-usecallback-hooks?u=76281980&t=13)** So to simulate that we're going to take this data with our JSON file.
 >
@@ -1499,7 +1483,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/useeffect-and-usecallback-hooks?u=76281980&t=28)** So this is similar to what would happen if you were getting this data from an API.
 >
-> **[0:33](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/useeffect-and-usecallback-hooks?u=76281980&t=33)** So in order to get that to work within our project we're going to have to use a few other hooks in our React application.
+> **[0:33](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/useeffect-and-usecallback-hooks?u=76281980&t=33)** So in order to get that to work within our project we're going to have to use a few other hooks in our [[React.js|React]] application.
 >
 > **[0:41](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/useeffect-and-usecallback-hooks?u=76281980&t=41)** And the hooks that we have to use will need to be imported.
 >
@@ -1535,7 +1519,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/useeffect-and-usecallback-hooks?u=76281980&t=132)** For doing that I'm going to create a function called fetchData and this is going to use the callback effect.
 >
-> **[2:23](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/useeffect-and-usecallback-hooks?u=76281980&t=143)** We'll use an arrow function here and now we can use JavaScript's fetch API which will allow us to retrieve an element either from a local file or from a server.
+> **[2:23](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/useeffect-and-usecallback-hooks?u=76281980&t=143)** We'll use an arrow function here and now we can use [[JavaScript]]'s [[Fetch]] API which will allow us to retrieve an element either from a local file or from a server.
 >
 > **[2:36](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/useeffect-and-usecallback-hooks?u=76281980&t=156)** So here we'll use the fetch method and we're going to retrieve the data, that JSON file.
 >
@@ -1609,7 +1593,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[JSON]] (6), [[React.js|React]] (6), [[Fetch]] (6), api (5)
+> **Frameworks & Libraries:** [[JSON]] (6), [[React.js|React]] (6), [[Fetch]] (6), [[GraphQL]] (4), [[JavaScript]] (3)
 > **Code Identifiers:** useeffect (8), usestate (3), usecallback (3), fetchdata (2)
 > **Env Vars:** json (6), api (5), rest (1), url (1), dom (1)
 > **CLI Commands:** make (4)
@@ -1617,8 +1601,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deleting records
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/deleting-records?u=76281980)
+#### [Deleting records](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/deleting-records?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1650,7 +1633,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/deleting-records?u=76281980&t=117)** That is part of the state management.
 >
-> **[1:59](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/deleting-records?u=76281980&t=119)** So when you create useState, you create this method called set appointment list and that's what we're using here and what we'll do is we will take the appointment list, the current one and then use the JavaScript filter method to remove any items that match the ID that we get past.
+> **[1:59](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/deleting-records?u=76281980&t=119)** So when you create useState, you create this method called set appointment list and that's what we're using here and what we'll do is we will take the appointment list, the current one and then use the [[JavaScript]] filter method to remove any items that match the ID that we get past.
 >
 > **[2:22](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/deleting-records?u=76281980&t=142)** So we will receive that into a temporary variable called appointment and then make sure that the appointment ID matches the one that we received whenever somebody clicks on that element.
 >
@@ -1664,7 +1647,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), management (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** ondeleteappointment (1), usestate (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -1672,8 +1655,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Searching with a filtered array
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/searching-with-a-filtered-array?u=76281980)
+#### [Searching with a filtered array](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/searching-with-a-filtered-array?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1723,7 +1705,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/searching-with-a-filtered-array?u=76281980&t=209)** So for each item, we're going to check each of the fields that we're interested in searching through.
 >
-> **[3:34](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/searching-with-a-filtered-array?u=76281980&t=214)** So return, item, petName, to make sure that it doesn't care about uppercase and lowercase, I'll convert the petName to lowercase using a JavaScript function.
+> **[3:34](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/searching-with-a-filtered-array?u=76281980&t=214)** So return, item, petName, to make sure that it doesn't care about uppercase and lowercase, I'll convert the petName to lowercase using a [[JavaScript]] function.
 >
 > **[3:51](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/searching-with-a-filtered-array?u=76281980&t=231)** And we'll use the includes method from JavaScript to also take a look at the query and compare our petName to the query, also converted to lowercase just in case.
 >
@@ -1739,15 +1721,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Code Identifiers:** onquerychange (5), petname (4), setquery (2), appointmentlist (2), onchange (1)
 > **CLI Commands:** make (3), cat (1)
 > **Definitions:** means that (3)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up a sort
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/setting-up-a-sort?u=76281980)
+#### [Setting up a sort](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/setting-up-a-sort?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1767,7 +1748,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/setting-up-a-sort?u=76281980&t=54)** All right, let's go ahead and create our sorting algorithm.
 >
-> **[0:57](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/setting-up-a-sort?u=76281980&t=57)** So in the same place that we filter the appointments, I'm going to add an additional section here and use the JavaScript sort function.
+> **[0:57](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/setting-up-a-sort?u=76281980&t=57)** So in the same place that we filter the appointments, I'm going to add an additional section here and use the [[JavaScript]] sort function.
 >
 > **[1:05](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/setting-up-a-sort?u=76281980&t=65)** So JavaScript sort expects a couple of different variables.
 >
@@ -1839,7 +1820,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[JavaScript]] (3), application (2), hit (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3)
 > **Code Identifiers:** petname (5), sortby (3), orderby (3), setsortby (2), tolowercase (2)
 > **Cross-References:** in the next (2)
 > **File Paths:** app.js (1)
@@ -1847,8 +1828,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Programming the sorting interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/programming-the-sorting-interface?u=76281980)
+#### [Programming the sorting interface](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/programming-the-sorting-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1920,7 +1900,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), next (1)
 > **Code Identifiers:** orderby (3), onorderbychange (3), mysort (3), sortby (3), onsortbychange (2)
 > **UI Navigation:** dropdown (5), click on (2), toggle (1)
 > **CLI Commands:** make (4)
@@ -1928,8 +1907,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - let (1)
 
-#### Adding a new appointment
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/adding-a-new-appointment?u=76281980)
+#### [Adding a new appointment](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/adding-a-new-appointment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1969,7 +1947,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/adding-a-new-appointment?u=76281980&t=128)** So instead of doing this, what I'm going to do is select setFormData, of course, and this is where you would pass everything.
 >
-> **[2:16](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/adding-a-new-appointment?u=76281980&t=136)** And then in here, we're going to pass an object and we'll use these three dots, which is called the spread operator in JavaScript.
+> **[2:16](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/adding-a-new-appointment?u=76281980&t=136)** And then in here, we're going to pass an object and we'll use these three dots, which is called the spread operator in [[JavaScript]].
 >
 > **[2:26](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/adding-a-new-appointment?u=76281980&t=146)** Sort of a newer feature.
 >
@@ -2105,7 +2083,7 @@ created: 2026-05-02
 >
 > **[10:37](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/adding-a-new-appointment?u=76281980&t=637)** So remember, the item.id is the ID of each item as you go through them.
 >
-> **[10:42](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/adding-a-new-appointment?u=76281980&t=642)** However, because it is in JSON format, by default, this will be a string.
+> **[10:42](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/adding-a-new-appointment?u=76281980&t=642)** However, because it is in [[JSON]] format, by default, this will be a string.
 >
 > **[10:48](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/adding-a-new-appointment?u=76281980&t=648)** So we need to put this in a Number method to make sure that we convert it into a number from a string, otherwise your math is not going to work because when you add things in strings, it actually concatenates them instead of adding them.
 >
@@ -2157,7 +2135,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), data (2), feature (1), database (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[JSON]] (1)
 > **Code Identifiers:** formdata (10), lastid (8), ownername (6), apttime (4), onsendappointment (4)
 > **CLI Commands:** make (6)
 > **Definitions:** means that (2), is called (1)
@@ -2171,14 +2149,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/next-steps?u=76281980&t=0)** - [Ray] Working with a real project like this is a lot of fun, but I bet you're probably wondering what else you could do with this technology.
 >
-> **[0:07](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/next-steps?u=76281980&t=7)** Of course, you can go to the React website and take a look at the documentation as well as the tutorial.
+> **[0:07](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/next-steps?u=76281980&t=7)** Of course, you can go to the [[React.js|React]] website and take a look at the documentation as well as the tutorial.
 >
 > **[0:13](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/next-steps?u=76281980&t=13)** If you go to the docs, make sure that you check out the section on Hooks, which is how we treated things in this course.
 >
@@ -2186,21 +2163,21 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/next-steps?u=76281980&t=27)** There's also a step-by-step tutorial that will walk you through building an additional application.
 >
-> **[0:32](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/next-steps?u=76281980&t=32)** And we also have lots of content on LinkedIn Learning, so make sure you do a search for React on our website, and you can take a look at this React.js for additional courses on the subject.
+> **[0:32](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/next-steps?u=76281980&t=32)** And we also have lots of content on [[LinkedIn]] Learning, so make sure you do a search for React on our website, and you can take a look at this [[React.js]] for additional courses on the subject.
 >
 > **[0:45](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/next-steps?u=76281980&t=45)** Now, you can also look me up on LinkedIn Learning.
 >
-> **[0:48](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/next-steps?u=76281980&t=48)** I've created lots of courses on many different topics, including several courses on React and Vue.js.
+> **[0:48](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/next-steps?u=76281980&t=48)** I've created lots of courses on many different topics, including several courses on React and [[Vue.js]].
 >
 > **[0:55](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/next-steps?u=76281980&t=55)** In addition to that, go ahead and follow me on LinkedIn.
 >
-> **[0:58](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/next-steps?u=76281980&t=58)** I publish all kinds of interesting content, including a couple of different tools daily, a weekly newsletter, and lots of things like live streaming.
+> **[0:58](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/next-steps?u=76281980&t=58)** I publish all kinds of interesting content, including a couple of different tools daily, a weekly newsletter, and lots of things like [[Live Streaming]].
 >
 > **[1:08](https://www.linkedin.com/learning/react-js-building-an-interface-8551484/next-steps?u=76281980&t=68)** If you want to learn what I'm up to, go ahead and check out my website at [raybo.org](https://raybo.org), and you can follow me just about anywhere at planetoftheweb.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), [[LinkedIn]] (3), application (1), [[Search]] (1), [[React.js]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[LinkedIn]] (3), [[React.js]] (1), [[Vue.js]] (1), [[Live Streaming]] (1)
 > **Documentation:** the documentation (2), the docs (1)
 > **File Paths:** react.js (1), vue.js (1)
 > **CLI Commands:** make (2)

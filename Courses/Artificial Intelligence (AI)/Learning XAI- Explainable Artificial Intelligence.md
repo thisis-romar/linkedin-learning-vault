@@ -98,8 +98,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### XAI: the key to fair and transparent AI for all
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/xai-the-key-to-fair-and-transparent-ai-for-all?u=76281980)
+#### [XAI: the key to fair and transparent AI for all](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/xai-the-key-to-fair-and-transparent-ai-for-all?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,13 +110,13 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/xai-the-key-to-fair-and-transparent-ai-for-all?u=76281980&t=20)** We'll be exploring tools to identify where your models fail and implement targeted solutions.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/xai-the-key-to-fair-and-transparent-ai-for-all?u=76281980&t=27)** Hi, I'm Jazmia Henry, an AI engineer who has built and deployed systems from Microsoft and the world's largest financial institutions.
+> **[0:27](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/xai-the-key-to-fair-and-transparent-ai-for-all?u=76281980&t=27)** Hi, I'm Jazmia Henry, an AI engineer who has built and deployed systems from [[Microsoft]] and the world's largest financial institutions.
 >
 > **[0:38](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/xai-the-key-to-fair-and-transparent-ai-for-all?u=76281980&t=38)** Let's get to work so you'll leave this course with the ability to develop AI that delivers exceptional performance, keeps the public's trust, and works fairly for all of us.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Speakers:** - ai (1)
 
 
@@ -125,14 +124,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Bias in AI and its impact
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-ai-and-its-impact?u=76281980)
+#### [Bias in AI and its impact](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-ai-and-its-impact?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-ai-and-its-impact?u=76281980&t=1)** - Bias in AI.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-ai-and-its-impact?u=76281980&t=3)** Many AI practitioners hear the word bias and they immediately take pause.
+> **[0:03](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-ai-and-its-impact?u=76281980&t=3)** Many AI practitioners hear the [[Microsoft Word|word]] bias and they immediately take pause.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-ai-and-its-impact?u=76281980&t=9)** The idea of bias in AI is an arguing point for many leaders across the industry.
 >
@@ -144,17 +142,17 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-ai-and-its-impact?u=76281980&t=38)** Bias in AI is when an AI model returns a skewed, unfavorable, unfair, or unrepresentative output, likely due to underlying human-created data with these biases.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-ai-and-its-impact?u=76281980&t=52)** While many of these biases are reflection of the society that the data comes from, the nature of how these probabilistic AI models behave, that is models that make predictions based on probability, makes bias matching more amplified.
+> **[0:52](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-ai-and-its-impact?u=76281980&t=52)** While many of these biases are reflection of the society that the data comes from, the nature of how these probabilistic AI models behave, that is models that make predictions based on [[Probability]], makes bias matching more amplified.
 >
 > **[1:10](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-ai-and-its-impact?u=76281980&t=70)** The impacts that bias in AI can have on the public are over-reaching.
 >
-> **[1:17](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-ai-and-its-impact?u=76281980&t=77)** Generative AI, which is the focus for this course, is particularly rife with biased outputs that can have long-term effects on users, businesses, and their customers.
+> **[1:17](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-ai-and-its-impact?u=76281980&t=77)** [[Generative AI]], which is the focus for this course, is particularly rife with biased outputs that can have long-term effects on users, businesses, and their customers.
 >
 > **[1:30](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-ai-and-its-impact?u=76281980&t=90)** Examples can be as extreme as parroting racist slurs or creating harmful deep fakes targeting marginalized individuals or even seemingly innocuous as not saying the name David Mayer.
 >
 > **[1:46](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-ai-and-its-impact?u=76281980&t=106)** Do you all remember that?
 >
-> **[1:48](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-ai-and-its-impact?u=76281980&t=108)** This happened due to an internal flag making it impossible for anyone with that name to get service on a particular AI platform, or even text generators that perpetuate gendered stereotypes in business communications and image generators that reinforce limited cultural representations.
+> **[1:48](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-ai-and-its-impact?u=76281980&t=108)** This happened due to an internal flag making it impossible for anyone with that name to get service on a particular AI platform, or even text generators that perpetuate gendered stereotypes in [[Business Communications]] and image generators that reinforce limited cultural representations.
 >
 > **[2:11](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-ai-and-its-impact?u=76281980&t=131)** These biases can deeply impact how users express themselves and how their work is perceived.
 >
@@ -164,7 +162,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-ai-and-its-impact?u=76281980&t=150)** Understand how bias may harm your customers, even if that bias is unintended.
 >
-> **[2:37](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-ai-and-its-impact?u=76281980&t=157)** Thankfully, many responsible AI leaders have worked really hard to determine and refine ways to mitigate these biases so that it can be less likely to show up in a deployed model.
+> **[2:37](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-ai-and-its-impact?u=76281980&t=157)** Thankfully, many [[Responsible AI]] leaders have worked really hard to determine and refine ways to mitigate these biases so that it can be less likely to show up in a deployed model.
 >
 > **[2:54](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-ai-and-its-impact?u=76281980&t=174)** Researchers like Dr. Timnit Gebru, Dr. Alex Hanna, and Dr. Joy Buolamwini, just to name a few, dedicate their careers to uncovering bias in generative AI and coming up with mitigation techniques.
 >
@@ -172,14 +170,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Generative AI]] (4), data (2), [[Microsoft Word|Word]] (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Microsoft Word|Word]] (1), [[Probability]] (1), [[Business Communications]] (1), [[Responsible AI]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - bias (1)
 
-#### How does generative AI work
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/how-does-generative-ai-work?u=76281980)
+#### [How does generative AI work](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/how-does-generative-ai-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -187,11 +184,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/how-does-generative-ai-work?u=76281980&t=5)** Whether that box is filled with magical treasures or is actually a Pandora's box is up to the training data that's inside.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/how-does-generative-ai-work?u=76281980&t=16)** So what's inside the black box of generative AI?
+> **[0:16](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/how-does-generative-ai-work?u=76281980&t=16)** So what's inside the black box of [[Generative AI]]?
 >
 > **[0:20](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/how-does-generative-ai-work?u=76281980&t=20)** How does it work?
 >
-> **[0:22](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/how-does-generative-ai-work?u=76281980&t=22)** Well, it's a bunch of multiplied vectors all working to predict the most probable word in a sentence.
+> **[0:22](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/how-does-generative-ai-work?u=76281980&t=22)** Well, it's a bunch of multiplied vectors all working to predict the most probable [[Microsoft Word|word]] in a sentence.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/how-does-generative-ai-work?u=76281980&t=30)** This works by analyzing massive datasets to identify and learn underlying patterns and relationships between encountered words.
 >
@@ -203,7 +200,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/how-does-generative-ai-work?u=76281980&t=71)** AI isn't magic, it's math, and any kind of math can be better understood if we break things down into digestible parts.
 >
-> **[1:23](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/how-does-generative-ai-work?u=76281980&t=83)** In generative AI, training data is passed through neural networks, typically a transformer model that mathematically represents patterns in the data.
+> **[1:23](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/how-does-generative-ai-work?u=76281980&t=83)** In generative AI, training data is passed through [[Neural Networks]], typically a transformer model that mathematically represents patterns in the data.
 >
 > **[1:34](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/how-does-generative-ai-work?u=76281980&t=94)** This is represented by this equation.
 >
@@ -221,7 +218,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/how-does-generative-ai-work?u=76281980&t=158)** This pattern matching can amplify bias, which can get out of control.
 >
-> **[2:44](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/how-does-generative-ai-work?u=76281980&t=164)** In Dr. Safiya Noble's book "Algorithms of Oppression," her studies found that models that rely on text-based probabilistic pattern matching have been shown to associate Black women with negative attributes like mean and angry, while having more favorable attributes for the words white man.
+> **[2:44](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/how-does-generative-ai-work?u=76281980&t=164)** In Dr. Safiya Noble's book "[[Algorithms]] of Oppression," her studies found that models that rely on text-based probabilistic pattern matching have been shown to associate Black women with negative attributes like mean and angry, while having more favorable attributes for the words white man.
 >
 > **[3:07](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/how-does-generative-ai-work?u=76281980&t=187)** This is just one example of many.
 >
@@ -237,13 +234,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (8), data (6), ai (3), [[Microsoft Word|Word]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (8), [[Microsoft Word|Word]] (1), [[Neural Networks]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** the key is (1)
 > **Speakers:** - ai (1)
 
-#### Challenges of bias mitigation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/challenges-of-bias-mitigation?u=76281980)
+#### [Challenges of bias mitigation](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/challenges-of-bias-mitigation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -257,7 +253,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/challenges-of-bias-mitigation?u=76281980&t=33)** When we use mathematical processes like vectorization and matrix multiplication to represent words, we create unintended consequences.
 >
-> **[0:43](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/challenges-of-bias-mitigation?u=76281980&t=43)** Think about this word, queen.
+> **[0:43](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/challenges-of-bias-mitigation?u=76281980&t=43)** Think about this [[Microsoft Word|word]], queen.
 >
 > **[0:46](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/challenges-of-bias-mitigation?u=76281980&t=46)** Well, when we're talking about a mathematical process of how it's represented, it's represented as queen equals king, minus man plus woman.
 >
@@ -285,7 +281,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), ai (3), database (1), [[Microsoft Word|Word]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - when (1)
 
@@ -294,14 +290,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Bias in data: "Bad data in, bad data out"
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-data-bad-data-in-bad-data-out?u=76281980)
+#### [Bias in data: "Bad data in, bad data out"](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-data-bad-data-in-bad-data-out?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-data-bad-data-in-bad-data-out?u=76281980&t=1)** - On the cover of a groundbreaking book, "Algorithms of Oppression" Dr. Safiya Umoja Noble notice something disturbing.
+> **[0:01](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-data-bad-data-in-bad-data-out?u=76281980&t=1)** - On the cover of a groundbreaking book, "[[Algorithms]] of Oppression" Dr. Safiya Umoja Noble notice something disturbing.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-data-bad-data-in-bad-data-out?u=76281980&t=8)** Imagine you're on Google and you type in "Why are black women so..."
+> **[0:08](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-data-bad-data-in-bad-data-out?u=76281980&t=8)** Imagine you're on [[Google]] and you type in "Why are black women so..."
 >
 > **[0:16](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-data-bad-data-in-bad-data-out?u=76281980&t=16)** and then the auto complete suggestions begin to pop up.
 >
@@ -337,7 +332,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-data-bad-data-in-bad-data-out?u=76281980&t=124)** So think about it like this.
 >
-> **[2:06](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-data-bad-data-in-bad-data-out?u=76281980&t=126)** If a word like black gets associated with negative terms in a training data, the model learns this pattern and might strengthen the harmful associations in its outputs.
+> **[2:06](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-data-bad-data-in-bad-data-out?u=76281980&t=126)** If a [[Microsoft Word|word]] like black gets associated with negative terms in a training data, the model learns this pattern and might strengthen the harmful associations in its outputs.
 >
 > **[2:19](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-data-bad-data-in-bad-data-out?u=76281980&t=139)** Remember, AI models aren't magical oracles of truth.
 >
@@ -353,14 +348,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), ai (3), [[Google]] (2), [[Search]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Algorithms]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** bert (1), gpt (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - on (1)
 
-#### Prompt engineering crash course
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980)
+#### [Prompt engineering crash course](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -368,7 +362,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980&t=3)** I'm so excited to be chatting with you all today.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980&t=5)** We're going to be talking about how we can use prompt engineering in order to improve the biases that might be happening with a large language model.
+> **[0:05](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980&t=5)** We're going to be talking about how we can use [[Prompt Engineering]] in order to improve the biases that might be happening with a large language model.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980&t=15)** So there is a quick point that I want to make at the top.
 >
@@ -376,11 +370,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980&t=25)** I'm going to be using the natural language toolkit.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980&t=28)** That is a package that's very important when it comes to natural language processing.
+> **[0:28](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980&t=28)** That is a package that's very important when it comes to [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[0:33](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980&t=33)** It's kind of like the OG of language models.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980&t=37)** It has a bunch of really good packages when it comes to word embeddings.
+> **[0:37](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980&t=37)** It has a bunch of really good packages when it comes to [[Microsoft Word|word]] embeddings.
 >
 > **[0:42](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980&t=42)** That being said, it is not the most advanced of packages out there.
 >
@@ -398,7 +392,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980&t=77)** And yeah, we're going to be moving forward with that.
 >
-> **[1:19](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980&t=79)** For those of you who are Hugging Face fans, I'll also have some examples using Hugging Face as well.
+> **[1:19](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980&t=79)** For those of you who are [[Hugging Face]] fans, I'll also have some examples using Hugging Face as well.
 >
 > **[1:25](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980&t=85)** Hugging Face is really great, but we're using the larger models in Hugging Face, it takes a longer time.
 >
@@ -410,11 +404,11 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980&t=102)** Let's go ahead and dig into some things.
 >
-> **[1:43](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980&t=103)** So, most important thing, want to make sure that your Python version is a good Python version.
+> **[1:43](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980&t=103)** So, most important thing, want to make sure that your [[Python (Programming Language)|Python]] version is a good Python version.
 >
 > **[1:51](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980&t=111)** There are a few ways that you can make sure that your Python version is the correct version.
 >
-> **[1:56](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980&t=116)** One of the ways, and I'll actually go ahead and add this here, since we're using Google Colab, we don't necessarily have to do this, but for those of you who are not using Google Colab, you want to do Python 3 version, and then the answer of what Python version you're using is going to pop right out.
+> **[1:56](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980&t=116)** One of the ways, and I'll actually go ahead and add this here, since we're using [[Google]] Colab, we don't necessarily have to do this, but for those of you who are not using Google Colab, you want to do Python 3 version, and then the answer of what Python version you're using is going to pop right out.
 >
 > **[2:15](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980&t=135)** That's going to be within your Bash.
 >
@@ -474,7 +468,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980&t=299)** Let's just look at, all right, what if somebody has these different sentences?
 >
-> **[5:04](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980&t=304)** He is likely to excel in engineering roles due to his analytical thinking.
+> **[5:04](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980&t=304)** He is likely to [[Microsoft Excel|excel]] in engineering roles due to his analytical thinking.
 >
 > **[5:09](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/prompt-engineering-crash-course?u=76281980&t=309)** That might be one example that might flag as gender bias.
 >
@@ -529,14 +523,13 @@ created: 2026-05-02
 > **File Paths:** requirements.txt (1)
 > **Versions:** python 3 (1)
 
-#### Bias in mathetmical assumptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-mathetmical-assumptions?u=76281980)
+#### [Bias in mathetmical assumptions](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-mathetmical-assumptions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-mathetmical-assumptions?u=76281980&t=1)** - Queen equals king, minus man plus woman.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-mathetmical-assumptions?u=76281980&t=6)** This is the underlying equation behind all of generative AI.
+> **[0:06](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-mathetmical-assumptions?u=76281980&t=6)** This is the underlying equation behind all of [[Generative AI]].
 >
 > **[0:11](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-mathetmical-assumptions?u=76281980&t=11)** At first glance, this equation seems harmless enough, but when we dig deeper, we can uncover a crucial relationship about how AI processes relationships between words, creating linear analogies that can lead to bias.
 >
@@ -544,7 +537,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-mathetmical-assumptions?u=76281980&t=36)** In AI, words become numbers through a process called vectorization.
 >
-> **[0:43](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-mathetmical-assumptions?u=76281980&t=43)** Instead of understanding what queen actually means, the AI looks at how close this word appears to other words in massive amounts of text.
+> **[0:43](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-mathetmical-assumptions?u=76281980&t=43)** Instead of understanding what queen actually means, the AI looks at how close this [[Microsoft Word|word]] appears to other words in massive amounts of text.
 >
 > **[0:53](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/bias-in-mathetmical-assumptions?u=76281980&t=53)** The distance between words in this mathematical space tells the AI how related they are.
 >
@@ -574,7 +567,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Generative AI]] (1), [[Microsoft Word|Word]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** bert (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** it's like (1)
@@ -585,8 +578,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to GenAI model training
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/introduction-to-genai-model-training?u=76281980)
+#### [Introduction to GenAI model training](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/introduction-to-genai-model-training?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -610,7 +602,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/introduction-to-genai-model-training?u=76281980&t=53)** This imbalance isn't just a data problem, it's a representation problem.
 >
-> **[1:00](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/introduction-to-genai-model-training?u=76281980&t=60)** As these databases get larger, they run into something that we call documentation debt.
+> **[1:00](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/introduction-to-genai-model-training?u=76281980&t=60)** As these [[Databases]] get larger, they run into something that we call documentation debt.
 >
 > **[1:06](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/introduction-to-genai-model-training?u=76281980&t=66)** It becomes harder and harder to track what's actually in the data, let alone ensures quality or representativeness.
 >
@@ -628,14 +620,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), database (1), web (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Versions:** 5.5 (1), 5.2 (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gpt (1)
 > **Speakers:** - common (1)
 
-#### Demographic parity and its applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/demographic-parity-and-its-applications?u=76281980)
+#### [Demographic parity and its applications](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/demographic-parity-and-its-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -663,7 +654,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/demographic-parity-and-its-applications?u=76281980&t=88)** The goal is to ensure that our AI systems aren't perpetuating or amplifying existing societal biases.
 >
-> **[1:38](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/demographic-parity-and-its-applications?u=76281980&t=98)** Let's look at how this works with large language models.
+> **[1:38](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/demographic-parity-and-its-applications?u=76281980&t=98)** Let's look at how this works with [[Large Language Models (LLM)|large language models]].
 >
 > **[1:42](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/demographic-parity-and-its-applications?u=76281980&t=102)** If a model is more likely to complete sentences about certain groups with positive attributes while using negative attributes for other groups, we have a demographic parity problem.
 >
@@ -673,7 +664,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/demographic-parity-and-its-applications?u=76281980&t=123)** Demographic parity isn't just a metric.
 >
-> **[2:06](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/demographic-parity-and-its-applications?u=76281980&t=126)** It's a tool for accountability.
+> **[2:06](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/demographic-parity-and-its-applications?u=76281980&t=126)** It's a tool for [[Accountability]].
 >
 > **[2:09](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/demographic-parity-and-its-applications?u=76281980&t=129)** By measuring and enforcing this kind of fairness, we can build AI systems that work equally well for everyone, not just majority groups.
 >
@@ -681,13 +672,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Large Language Models (LLM)|Large language models]] (1), [[Accountability]] (1), next (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[Accountability]] (1)
 > **Cross-References:** next video (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - let (1)
 
-#### Equal opportunity parity for evaluating fairness
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/equal-opportunity-parity-for-evaluating-fairness?u=76281980)
+#### [Equal opportunity parity for evaluating fairness](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/equal-opportunity-parity-for-evaluating-fairness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -723,12 +713,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - let (1)
 
-#### Equalized odds parity to compare subgroup performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/equalized-odds-parity-to-compare-subgroup-performance?u=76281980)
+#### [Equalized odds parity to compare subgroup performance](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/equalized-odds-parity-to-compare-subgroup-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -756,7 +744,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/equalized-odds-parity-to-compare-subgroup-performance?u=76281980&t=69)** The closer this number gets to zero, the better our model at performing in terms of fairness.
 >
-> **[1:17](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/equalized-odds-parity-to-compare-subgroup-performance?u=76281980&t=77)** This comprehensive view helps us catch subtle forms of bias that might slip through other metrics.
+> **[1:17](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/equalized-odds-parity-to-compare-subgroup-performance?u=76281980&t=77)** This comprehensive view helps us catch subtle [[Forms]] of bias that might slip through other metrics.
 >
 > **[1:24](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/equalized-odds-parity-to-compare-subgroup-performance?u=76281980&t=84)** Think of it like a balanced scale.
 >
@@ -770,13 +758,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1), ai (1), next (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Cross-References:** next video (1)
 > **Analogies:** think of it like (1)
 > **Speakers:** - remember (1)
 
-#### HELM
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/helm?u=76281980)
+#### [HELM](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/helm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -784,7 +771,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/helm?u=76281980&t=11)** How could you possibly compare them fairly?
 >
-> **[0:15](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/helm?u=76281980&t=15)** This was the challenge that Stanford University tackled when they created HELM, the holistic evaluation of language models.
+> **[0:15](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/helm?u=76281980&t=15)** This was the challenge that Stanford University tackled when they created [[Helm]], the holistic evaluation of language models.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/helm?u=76281980&t=23)** Let's explore how this groundbreaking framework is transforming how we evaluate AI systems for bias and fairness.
 >
@@ -826,13 +813,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Helm]] (7), ai (4), data (1)
+> **Frameworks & Libraries:** [[Helm]] (7)
 > **Env Vars:** helm (7)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
-#### Red-teaming
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/red-teaming?u=76281980)
+#### [Red-teaming](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/red-teaming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -840,7 +826,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/red-teaming?u=76281980&t=6)** It's not enough to just check a few examples or run one type of test.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/red-teaming?u=76281980&t=12)** We need comprehensive evaluation frameworks, and that's where red teaming comes in.
+> **[0:12](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/red-teaming?u=76281980&t=12)** We need comprehensive evaluation frameworks, and that's where [[Red Teaming]] comes in.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/red-teaming?u=76281980&t=18)** Red teaming is a method where we actively try to find ways our model might fail or show bias.
 >
@@ -866,25 +852,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Red Teaming]] (3), ai (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Red Teaming]] (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Analogies:** think of it like (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - when (1)
 
-#### Exercise: Building an evaluation pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-building-an-evaluation-pipeline?u=76281980)
+#### [Exercise: Building an evaluation pipeline](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-building-an-evaluation-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-building-an-evaluation-pipeline?u=76281980&t=0)** - [Instructor] Hello, learners.
 >
-> **[0:02](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-building-an-evaluation-pipeline?u=76281980&t=2)** Today we're going to be talking about how you can improve the generative AI output by using evaluation pipeline.
+> **[0:02](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-building-an-evaluation-pipeline?u=76281980&t=2)** Today we're going to be talking about how you can improve the [[Generative AI]] output by using evaluation pipeline.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-building-an-evaluation-pipeline?u=76281980&t=11)** This is going to be really fun and exciting, so let's go ahead and dig into things.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-building-an-evaluation-pipeline?u=76281980&t=16)** So first, you're going to want to make sure that you have Python 3.8 installed.
+> **[0:16](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-building-an-evaluation-pipeline?u=76281980&t=16)** So first, you're going to want to make sure that you have [[Python (Programming Language)|Python]] 3.8 installed.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-building-an-evaluation-pipeline?u=76281980&t=22)** That should still be installed from the last time, but just in case you don't, go ahead into your terminal and make sure.
 >
@@ -914,9 +899,9 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-building-an-evaluation-pipeline?u=76281980&t=128)** So what does that do?
 >
-> **[2:10](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-building-an-evaluation-pipeline?u=76281980&t=130)** This package has a bunch of different word embedding packages that you can use.
+> **[2:10](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-building-an-evaluation-pipeline?u=76281980&t=130)** This package has a bunch of different [[Microsoft Word|word]] embedding packages that you can use.
 >
-> **[2:16](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-building-an-evaluation-pipeline?u=76281980&t=136)** It's a pretty popular package in machine learning and natural language processing.
+> **[2:16](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-building-an-evaluation-pipeline?u=76281980&t=136)** It's a pretty popular package in machine learning and [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[2:22](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-building-an-evaluation-pipeline?u=76281980&t=142)** So let's go ahead and download the ones that are important for us today.
 >
@@ -1038,7 +1023,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), data (3), [[Generative AI]] (1), [[Troubleshooting]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Generative AI]] (1), [[Microsoft Word|Word]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **CLI Commands:** make (17), python (6), find (1)
 > **Versions:** python 3 (5), 13.2 (1), 9.6 (1), 3.8 (1)
 > **Tools:** terminal (3), jupyter (1), vs code (1)
@@ -1052,8 +1037,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a counterfactual?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/what-is-a-counterfactual?u=76281980)
+#### [What is a counterfactual?](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/what-is-a-counterfactual?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1063,7 +1047,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/what-is-a-counterfactual?u=76281980&t=20)** At its core, a counterfactual is a what if question.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/what-is-a-counterfactual?u=76281980&t=24)** In generative AI, it means asking, "What would the model output be if we change this one sensitive attribute in the input?"
+> **[0:24](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/what-is-a-counterfactual?u=76281980&t=24)** In [[Generative AI]], it means asking, "What would the model output be if we change this one sensitive attribute in the input?"
 >
 > **[0:34](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/what-is-a-counterfactual?u=76281980&t=34)** Think about it like a controlled experiment.
 >
@@ -1089,7 +1073,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/what-is-a-counterfactual?u=76281980&t=127)** In the paper titled "Man is to Computer Programmer as Woman is to Homemaker?
 >
-> **[2:13](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/what-is-a-counterfactual?u=76281980&t=133)** Debiasing Word Embeddings," researchers from Boston University and Microsoft Research applied this counterfactual approach to word embeddings.
+> **[2:13](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/what-is-a-counterfactual?u=76281980&t=133)** Debiasing [[Microsoft Word|Word]] Embeddings," researchers from Boston University and [[Microsoft]] Research applied this counterfactual approach to word embeddings.
 >
 > **[2:23](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/what-is-a-counterfactual?u=76281980&t=143)** They discovered that when they altered only gender terms in their inputs, the model outputs revealed troubling associations.
 >
@@ -1109,16 +1093,15 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/what-is-a-counterfactual?u=76281980&t=213)** They transform bias detection from subjective impression to measurable evidence, and provide a framework for ongoing evaluation and improvement.
 >
-> **[3:45](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/what-is-a-counterfactual?u=76281980&t=225)** By incorporating counterfactual testing into responsible AI development, we push past just acknowledging bias exists to precisely mapping and addressing it, a crucial step toward more equitable AI systems.
+> **[3:45](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/what-is-a-counterfactual?u=76281980&t=225)** By incorporating counterfactual testing into [[Responsible AI]] development, we push past just acknowledging bias exists to precisely mapping and addressing it, a crucial step toward more equitable AI systems.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), ai (3), [[Microsoft Word|Word]] (2), [[Generative AI]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Generative AI]] (1), [[Microsoft]] (1), [[Responsible AI]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
-#### Concept of counterfactuals and what-if scenarios
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/concept-of-counterfactuals-and-what-if-scenarios?u=76281980)
+#### [Concept of counterfactuals and what-if scenarios](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/concept-of-counterfactuals-and-what-if-scenarios?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1188,20 +1171,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), power (1), data (1), teams (1), strengths (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - what (1)
 
-#### Applications of counterfactuals for transparency
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/applications-of-counterfactuals-for-transparency?u=76281980)
+#### [Applications of counterfactuals for transparency](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/applications-of-counterfactuals-for-transparency?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/applications-of-counterfactuals-for-transparency?u=76281980&t=1)** - We've explored how counterfactuals help detect bias and evaluate model performance.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/applications-of-counterfactuals-for-transparency?u=76281980&t=6)** Now let's examine their unique power for explaining the behavior of large language models, or LLMs, systems that present distinct transparency challenges.
+> **[0:06](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/applications-of-counterfactuals-for-transparency?u=76281980&t=6)** Now let's examine their unique power for explaining the behavior of [[Large Language Models (LLM)|large language models]], or LLMs, systems that present distinct transparency challenges.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/applications-of-counterfactuals-for-transparency?u=76281980&t=18)** Unlike traditional AI systems that might classify an image or predict a numerical value, LLMs generate human-like text across virtually unlimited context.
+> **[0:18](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/applications-of-counterfactuals-for-transparency?u=76281980&t=18)** Unlike [[Traditional AI]] systems that might classify an image or predict a numerical value, LLMs generate human-like text across virtually unlimited context.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/applications-of-counterfactuals-for-transparency?u=76281980&t=30)** This makes their decisions particularly difficult to interpret.
 >
@@ -1221,7 +1202,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/applications-of-counterfactuals-for-transparency?u=76281980&t=85)** These targeted variations help us understand, not just what the model says, but how it reaches its conclusions, making this reasoning process more transparent.
 >
-> **[1:37](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/applications-of-counterfactuals-for-transparency?u=76281980&t=97)** Counterfactuals also excel at revealing the boundaries of LLM knowledge and reasoning capabilities.
+> **[1:37](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/applications-of-counterfactuals-for-transparency?u=76281980&t=97)** Counterfactuals also [[Microsoft Excel|excel]] at revealing the boundaries of LLM knowledge and reasoning capabilities.
 >
 > **[1:45](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/applications-of-counterfactuals-for-transparency?u=76281980&t=105)** By systematically varying factual elements and prompts, we can determine when an LLM's knowledge begins and ends.
 >
@@ -1231,7 +1212,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/applications-of-counterfactuals-for-transparency?u=76281980&t=135)** And that shows how a model can handle hypotheticals and extrapolate from their training data.
 >
-> **[2:22](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/applications-of-counterfactuals-for-transparency?u=76281980&t=142)** These exercises map the contours of model capabilities in ways that direct questioning simply cannot, and perhaps the most advanced application of counterfactuals is counterfactual fine tuning for transparency.
+> **[2:22](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/applications-of-counterfactuals-for-transparency?u=76281980&t=142)** These exercises map the contours of model capabilities in ways that direct questioning simply cannot, and perhaps the most advanced application of counterfactuals is counterfactual [[Fine Tuning]] for transparency.
 >
 > **[2:37](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/applications-of-counterfactuals-for-transparency?u=76281980&t=157)** This is about deliberately training models on counterfactual examples to make their reasoning more explicit.
 >
@@ -1253,15 +1234,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (4), [[Large Language Models (LLM)|Large language models]] (3), application (2), [[Fine Tuning]] (2), power (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (3), [[Fine Tuning]] (2), [[Traditional AI]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** llm (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - we (1)
 
-#### Counterfactual modeling for improved fairness
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/counterfactual-modeling-for-improved-fairness?u=76281980)
+#### [Counterfactual modeling for improved fairness](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/counterfactual-modeling-for-improved-fairness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1327,13 +1307,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), ai (1)
 > **Cross-References:** we discussed (1)
 > **Analogies:** for example (1)
 > **Speakers:** - an (1)
 
-#### Exercise: TensorFlow counterfactual
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-tensorflow-counterfactual?u=76281980)
+#### [Exercise: TensorFlow counterfactual](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-tensorflow-counterfactual?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1341,7 +1319,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-tensorflow-counterfactual?u=76281980&t=5)** I am so excited to be working on this with you all today.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-tensorflow-counterfactual?u=76281980&t=8)** So, we're going to be talking about how we can do counterfactual analysis for our generative AI outputs.
+> **[0:08](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-tensorflow-counterfactual?u=76281980&t=8)** So, we're going to be talking about how we can do counterfactual analysis for our [[Generative AI]] outputs.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-tensorflow-counterfactual?u=76281980&t=16)** If you all remember, by swapping out words that might be problematic with words that are not problematic and vice versa, changing that one variable, we'll be able to see the ways in which there might be bias popping up in our models.
 >
@@ -1361,7 +1339,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-tensorflow-counterfactual?u=76281980&t=62)** We're going to have a random seed of 42, it is to make sure that it's not writing the same things over and over again.
 >
-> **[1:10](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-tensorflow-counterfactual?u=76281980&t=70)** We're going to make sure that the similarity threshold is set up in such way so that we can make sure whatever swap out we have in our counterfactual analysis is going to be very different than the originating word.
+> **[1:10](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-tensorflow-counterfactual?u=76281980&t=70)** We're going to make sure that the similarity threshold is set up in such way so that we can make sure whatever swap out we have in our counterfactual analysis is going to be very different than the originating [[Microsoft Word|word]].
 >
 > **[1:24](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-tensorflow-counterfactual?u=76281980&t=84)** And we build here a pipeline that makes it very easy for us to identify, make sure that the similarities are not there for it between the counterfactual and the original text.
 >
@@ -1465,7 +1443,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Generative AI]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Generative AI]] (1)
 > **CLI Commands:** make (10)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1)
@@ -1476,8 +1454,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of sampling data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/the-power-of-sampling-data?u=76281980)
+#### [The power of sampling data](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/the-power-of-sampling-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1521,7 +1498,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/the-power-of-sampling-data?u=76281980&t=180)** In this case, audit your samples to ensure all groups appear across all relevant contexts.
 >
-> **[3:08](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/the-power-of-sampling-data?u=76281980&t=188)** Next, bring in participatory sampling by involving representatives from affected communities and data collection decisions.
+> **[3:08](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/the-power-of-sampling-data?u=76281980&t=188)** Next, bring in participatory sampling by involving representatives from affected communities and [[Data Collection]] decisions.
 >
 > **[3:18](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/the-power-of-sampling-data?u=76281980&t=198)** This addresses the documentation debt problem we looked at in chapter three.
 >
@@ -1561,14 +1538,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), ai (4), power (2), feature (2), next (1)
+> **Frameworks & Libraries:** [[Data Collection]] (2)
 > **Cross-References:** we discussed (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)
 
-#### Data validation and evaluation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/data-validation-and-evaluation?u=76281980)
+#### [Data validation and evaluation](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/data-validation-and-evaluation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1620,7 +1596,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/data-validation-and-evaluation?u=76281980&t=208)** Also, there's cultural context loss, where culturally specific references might lose their meaning when processed by models trained predominantly on data from dominant cultures.
 >
-> **[3:44](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/data-validation-and-evaluation?u=76281980&t=224)** Finally, let's examine data quality problems related to distribution and volume.
+> **[3:44](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/data-validation-and-evaluation?u=76281980&t=224)** Finally, let's examine [[Data Quality]] problems related to distribution and volume.
 >
 > **[3:52](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/data-validation-and-evaluation?u=76281980&t=232)** To start, there's a long tail representation problem, where rare but important phenomena appear too infrequently for models to learn properly.
 >
@@ -1642,12 +1618,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), ai (3), next (2), generic (1)
+> **Frameworks & Libraries:** [[Data Quality]] (2)
 > **Analogies:** for example (1)
 > **Speakers:** - we (1)
 
-#### Overview of stratified sampling
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/overview-of-stratified-sampling?u=76281980)
+#### [Overview of stratified sampling](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/overview-of-stratified-sampling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1657,7 +1632,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/overview-of-stratified-sampling?u=76281980&t=22)** When applied to AI training data, this seemingly simple technique can dramatically reduce the biases we've discussed so far.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/overview-of-stratified-sampling?u=76281980&t=33)** Stratified sampling offers several compelling advantages for reducing bias in generative AI.
+> **[0:33](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/overview-of-stratified-sampling?u=76281980&t=33)** Stratified sampling offers several compelling advantages for reducing bias in [[Generative AI]].
 >
 > **[0:41](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/overview-of-stratified-sampling?u=76281980&t=41)** More importantly, it guarantees representation of all identified subgroups in your training data.
 >
@@ -1711,17 +1686,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), ai (2), [[Generative AI]] (2), feature (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - let (1)
 
-#### Sampling based on demographics
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/sampling-based-on-demographics?u=76281980)
+#### [Sampling based on demographics](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/sampling-based-on-demographics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/sampling-based-on-demographics?u=76281980&t=1)** - Consider Safiya Noble's example from "Algorithms of Oppression," that we discussed earlier where search results for black women revealed harmful stereotypes.
+> **[0:01](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/sampling-based-on-demographics?u=76281980&t=1)** - Consider Safiya Noble's example from "[[Algorithms]] of Oppression," that we discussed earlier where search results for black women revealed harmful stereotypes.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/sampling-based-on-demographics?u=76281980&t=13)** This wasn't just a technical failure, it represented a fundamental and ability of the system to authentically reflect diverse human experiences.
 >
@@ -1779,22 +1753,21 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/sampling-based-on-demographics?u=76281980&t=302)** It's about creating AI that can authentically reflect the full spectrum of human experience.
 >
-> **[5:09](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/sampling-based-on-demographics?u=76281980&t=309)** When it thoughtfully, it ensures that generative AI doesn't simply reproduce the dominant perspectives found in Common Crawl in similar data sets, but genuinely represents diverse voices and contributes to more inclusive technological futures.
+> **[5:09](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/sampling-based-on-demographics?u=76281980&t=309)** When it thoughtfully, it ensures that [[Generative AI]] doesn't simply reproduce the dominant perspectives found in Common Crawl in similar data sets, but genuinely represents diverse voices and contributes to more inclusive technological futures.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), ai (2), [[Algorithms]] (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
 > **Analogies:** such as (1)
 > **Speakers:** - consider (1)
 
-#### Random sampling within stratified groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/random-sampling-within-stratified-groups?u=76281980)
+#### [Random sampling within stratified groups](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/random-sampling-within-stratified-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/random-sampling-within-stratified-groups?u=76281980&t=1)** - When we talked about stratified sampling, we explored how dividing data into different subgroups ensures representation across key demographic dimensions, but for large language models, also known for LLMs, stratified sampling alone isn't the complete story, so let's uncover how introducing randomness within these carefully structured groups creates a powerful hybrid approach that addresses the unique challenges of training modern LLMs.
+> **[0:01](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/random-sampling-within-stratified-groups?u=76281980&t=1)** - When we talked about stratified sampling, we explored how dividing data into different subgroups ensures representation across key demographic dimensions, but for [[Large Language Models (LLM)|large language models]], also known for LLMs, stratified sampling alone isn't the complete story, so let's uncover how introducing randomness within these carefully structured groups creates a powerful hybrid approach that addresses the unique challenges of training modern LLMs.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/random-sampling-within-stratified-groups?u=76281980&t=35)** Random sampling within stratified groups is particularly valuable for LLMs because these models must process vast text corpora while maintaining both representative coverage and linguistic diversity.
 >
@@ -1838,15 +1811,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), llm (4), [[Large Language Models (LLM)|Large language models]] (2), business (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2)
 > **Env Vars:** llm (4)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - when (1)
 
-#### Testing model performance across diverse samples
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/testing-model-performance-across-diverse-samples?u=76281980)
+#### [Testing model performance across diverse samples](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/testing-model-performance-across-diverse-samples?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1878,7 +1850,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/testing-model-performance-across-diverse-samples?u=76281980&t=113)** Monitor linguistic sophistication across groups, including vocabulary range, syntactic complexity, and reasoning-depth.
 >
-> **[2:04](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/testing-model-performance-across-diverse-samples?u=76281980&t=124)** Models often display higher sophistication when discussing majority groups, a subtle form of bias that can significantly impact user experience.
+> **[2:04](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/testing-model-performance-across-diverse-samples?u=76281980&t=124)** Models often display higher sophistication when discussing majority groups, a subtle form of bias that can significantly impact [[User Experience (UX)|user experience]].
 >
 > **[2:16](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/testing-model-performance-across-diverse-samples?u=76281980&t=136)** Effective testing leads directly to targeted fine-tuning interventions.
 >
@@ -1890,7 +1862,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/testing-model-performance-across-diverse-samples?u=76281980&t=161)** This creates a correction signal focused precisely on the identified issue.
 >
-> **[2:47](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/testing-model-performance-across-diverse-samples?u=76281980&t=167)** Address completion and consistencies through specialized prompt engineering training that teaches the model to maintain consistent reasoning patterns regardless of demographic context.
+> **[2:47](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/testing-model-performance-across-diverse-samples?u=76281980&t=167)** Address completion and consistencies through specialized [[Prompt Engineering]] training that teaches the model to maintain consistent reasoning patterns regardless of demographic context.
 >
 > **[3:00](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/testing-model-performance-across-diverse-samples?u=76281980&t=180)** Essentially, training it to recognize when it's deviating from fair treatment.
 >
@@ -1900,7 +1872,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/testing-model-performance-across-diverse-samples?u=76281980&t=201)** Systematic testing across diverse samples isn't just a final quality check.
 >
-> **[3:28](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/testing-model-performance-across-diverse-samples?u=76281980&t=208)** It's an integral part of responsible AI development that should inform each iteration of your model.
+> **[3:28](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/testing-model-performance-across-diverse-samples?u=76281980&t=208)** It's an integral part of [[Responsible AI]] development that should inform each iteration of your model.
 >
 > **[3:35](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/testing-model-performance-across-diverse-samples?u=76281980&t=215)** By identifying specific patterns of bias or inconsistency, you create the feedback loop necessary for continuous improvement.
 >
@@ -1908,11 +1880,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (1), [[User Experience (UX)|User experience]] (1), [[Prompt Engineering]] (1), data (1), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Prompt Engineering]] (1), [[Responsible AI]] (1)
 > **Speakers:** - we (1)
 
-#### Exercise: Design sampling criteria with RAI principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-design-sampling-criteria-with-rai-principles?u=76281980)
+#### [Exercise: Design sampling criteria with RAI principles](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-design-sampling-criteria-with-rai-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1922,7 +1893,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-design-sampling-criteria-with-rai-principles?u=76281980&t=11)** So there's going to be a couple of things that I want to call to attention to you.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-design-sampling-criteria-with-rai-principles?u=76281980&t=16)** We are running this one in Google Colab.
+> **[0:16](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-design-sampling-criteria-with-rai-principles?u=76281980&t=16)** We are running this one in [[Google]] Colab.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-design-sampling-criteria-with-rai-principles?u=76281980&t=20)** So for those of you who don't know what Google Colab is, it is a way for you to be able to connect to Google's platform and be able to take advantage of all of its GPUs.
 >
@@ -1954,7 +1925,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-design-sampling-criteria-with-rai-principles?u=76281980&t=100)** Let's get into things.
 >
-> **[1:41](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-design-sampling-criteria-with-rai-principles?u=76281980&t=101)** So of course you got to make sure that you have your Python 3.8 installed.
+> **[1:41](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-design-sampling-criteria-with-rai-principles?u=76281980&t=101)** So of course you got to make sure that you have your [[Python (Programming Language)|Python]] 3.8 installed.
 >
 > **[1:47](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-design-sampling-criteria-with-rai-principles?u=76281980&t=107)** Then you're going to want to call on your requirements.txt file.
 >
@@ -1970,7 +1941,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-design-sampling-criteria-with-rai-principles?u=76281980&t=130)** There's a couple of things that we're pulling in here.
 >
-> **[2:13](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-design-sampling-criteria-with-rai-principles?u=76281980&t=133)** If you all see transformers here, those of you who are big fans of Hugging Face will get pretty excited.
+> **[2:13](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-design-sampling-criteria-with-rai-principles?u=76281980&t=133)** If you all see transformers here, those of you who are big fans of [[Hugging Face]] will get pretty excited.
 >
 > **[2:18](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-design-sampling-criteria-with-rai-principles?u=76281980&t=138)** Transformers is part of the Hugging Face packages and allows for you to pull on all of the open source AI models that they have on Hugging Face.
 >
@@ -2004,7 +1975,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-design-sampling-criteria-with-rai-principles?u=76281980&t=217)** This is a great package.
 >
-> **[3:39](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-design-sampling-criteria-with-rai-principles?u=76281980&t=219)** It has all the word embeddings that you need.
+> **[3:39](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-design-sampling-criteria-with-rai-principles?u=76281980&t=219)** It has all the [[Microsoft Word|word]] embeddings that you need.
 >
 > **[3:42](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-design-sampling-criteria-with-rai-principles?u=76281980&t=222)** You'll be pulling in that responsible data sampler with our synthetic data.
 >
@@ -2034,7 +2005,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (6), data (5), [[Hugging Face]] (3), [[Python (Programming Language)|Python]] (1), ai (1)
+> **Frameworks & Libraries:** [[Google]] (6), [[Hugging Face]] (3), [[Python (Programming Language)|Python]] (1), [[Microsoft Word|Word]] (1)
 > **Tools:** colab (5), vs code (3)
 > **CLI Commands:** make (6), python (1)
 > **Definitions:** is a  (3), means that (1), is an  (1)
@@ -2048,14 +2019,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to model constraints to control bias
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/introduction-to-model-constraints-to-control-bias?u=76281980)
+#### [Introduction to model constraints to control bias](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/introduction-to-model-constraints-to-control-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/introduction-to-model-constraints-to-control-bias?u=76281980&t=1)** - Even with the best training approaches, models can still produce harmful or biased outputs in unexpected scenarios.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/introduction-to-model-constraints-to-control-bias?u=76281980&t=9)** This brings us to a crucial component of responsible AI, post-training constraints.
+> **[0:09](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/introduction-to-model-constraints-to-control-bias?u=76281980&t=9)** This brings us to a crucial component of [[Responsible AI]], post-training constraints.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/introduction-to-model-constraints-to-control-bias?u=76281980&t=16)** Model constraints serve as guardrails that shape AI behaviors after training is complete.
 >
@@ -2069,7 +2039,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/introduction-to-model-constraints-to-control-bias?u=76281980&t=55)** These analyze generated content before it reaches users, blocking or flagging potentially harmful material.
 >
-> **[1:05](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/introduction-to-model-constraints-to-control-bias?u=76281980&t=65)** These range from simple keyword block lists to sophisticated classifiers that detect subtle forms of bias or harmful content.
+> **[1:05](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/introduction-to-model-constraints-to-control-bias?u=76281980&t=65)** These range from simple keyword block lists to sophisticated classifiers that detect subtle [[Forms]] of bias or harmful content.
 >
 > **[1:14](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/introduction-to-model-constraints-to-control-bias?u=76281980&t=74)** While seemingly straightforward, these embody ethical judgements about what content should or shouldn't be permitted.
 >
@@ -2133,13 +2103,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Responsible AI]] (3), [[Forms]] (1), next (1), prompt (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (3), [[Forms]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - even (1)
 
-#### Power of flagging, pruning, and nudging
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/power-of-flagging-pruning-and-nudging?u=76281980)
+#### [Power of flagging, pruning, and nudging](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/power-of-flagging-pruning-and-nudging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2195,13 +2164,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), management (1)
 > **Analogies:** for example (1)
 > **Warnings:** warning (1)
 > **Speakers:** - so (1)
 
-#### Using human-in-the-loop tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/using-human-in-the-loop-tools?u=76281980)
+#### [Using human-in-the-loop tools](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/using-human-in-the-loop-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2225,7 +2192,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/using-human-in-the-loop-tools?u=76281980&t=102)** For coherence and logical flow, AI systems may produce content that makes sense in isolated segments, but contains contradictions or non-sequiturs when viewed as a whole.
 >
-> **[1:56](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/using-human-in-the-loop-tools?u=76281980&t=116)** Human reviewers excel at identifying these higher-level structural issues, improving overall coherence with relatively minimal edits that focus on transitions and logical connections rather than wholesale rewrites.
+> **[1:56](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/using-human-in-the-loop-tools?u=76281980&t=116)** Human reviewers [[Microsoft Excel|excel]] at identifying these higher-level structural issues, improving overall coherence with relatively minimal edits that focus on transitions and logical connections rather than wholesale rewrites.
 >
 > **[2:15](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/using-human-in-the-loop-tools?u=76281980&t=135)** For contextual relevance, humans significantly enhance AI content by aligning it with specific audience needs and cultural context.
 >
@@ -2265,11 +2232,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), [[Microsoft Excel|Excel]] (3), teams (1), strengths (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **Speakers:** - throughout (1)
 
-#### Exercise: Model constraint pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-model-constraint-pipeline?u=76281980)
+#### [Exercise: Model constraint pipeline](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-model-constraint-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2305,13 +2271,13 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-model-constraint-pipeline?u=76281980&t=115)** So let's walk very quickly into what just happened.
 >
-> **[1:58](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-model-constraint-pipeline?u=76281980&t=118)** So you're going to use Python 3.
+> **[1:58](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-model-constraint-pipeline?u=76281980&t=118)** So you're going to use [[Python (Programming Language)|Python]] 3.
 >
 > **[2:01](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-model-constraint-pipeline?u=76281980&t=121)** If you have 3.8 plus version of Python, you're going to call on the file, which is called constraint_pipeline.
 >
 > **[2:09](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-model-constraint-pipeline?u=76281980&t=129)** And it ran through a bunch of test cases.
 >
-> **[2:11](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-model-constraint-pipeline?u=76281980&t=131)** For those of you who have a quality assurance background, a background running unit test, this should look very similar to what you're used to here.
+> **[2:11](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-model-constraint-pipeline?u=76281980&t=131)** For those of you who have a [[Quality Assurance]] background, a background running unit test, this should look very similar to what you're used to here.
 >
 > **[2:20](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/exercise-model-constraint-pipeline?u=76281980&t=140)** We had a very important call here, which was looking at our AI output constraint pipeline.
 >
@@ -2365,7 +2331,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Python (Programming Language)|Python]] (2), next (2), [[Engineering]] (1), cd (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Quality Assurance]] (1)
 > **CLI Commands:** python (2), make (1), cd (1)
 > **Code Identifiers:** post_training_model_constraints (1), constraint_pipeline (1)
 > **Versions:** python 3 (1), 3.8 (1)
@@ -2378,8 +2344,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore an example of GenAI output
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/we-explore-an-example-of-genai-output?u=76281980)
+#### [Explore an example of GenAI output](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/we-explore-an-example-of-genai-output?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2419,7 +2384,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/we-explore-an-example-of-genai-output?u=76281980&t=143)** Now it's your turn.
 >
-> **[2:25](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/we-explore-an-example-of-genai-output?u=76281980&t=145)** Take what we've explored and apply it to a generative AI model of your choice, whether it's CLIP, Dolly, GPT, or another generative AI system.
+> **[2:25](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/we-explore-an-example-of-genai-output?u=76281980&t=145)** Take what we've explored and apply it to a [[Generative AI]] model of your choice, whether it's CLIP, Dolly, GPT, or another generative AI system.
 >
 > **[2:36](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/we-explore-an-example-of-genai-output?u=76281980&t=156)** To mitigate bias, you can explore either one or a combination of our explorer techniques.
 >
@@ -2431,7 +2396,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/we-explore-an-example-of-genai-output?u=76281980&t=184)** This allows for us to implement fairness aware constraints during model training and inference to reduce bias outputs.
 >
-> **[3:13](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/we-explore-an-example-of-genai-output?u=76281980&t=193)** As AI becomes an increasingly influential force in shaping narratives representation and decision making, responsible AI development is not just an option, it's a necessity.
+> **[3:13](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/we-explore-an-example-of-genai-output?u=76281980&t=193)** As AI becomes an increasingly influential force in shaping narratives representation and decision making, [[Responsible AI]] development is not just an option, it's a necessity.
 >
 > **[3:26](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/we-explore-an-example-of-genai-output?u=76281980&t=206)** By identifying and mitigating biases through structured evaluation and thoughtful interventions, we take a step towards building AI systems that are more equitable, inclusive, and representative of the diverse world that we live in.
 >
@@ -2439,7 +2404,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), data (5), business (1), [[Generative AI]] (1), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Responsible AI]] (1)
 > **Env Vars:** clip (4), gpt (1)
 > **Analogies:** picture (1)
 > **Speakers:** - when (1)
@@ -2449,8 +2414,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing your XAI learning journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/continuing-your-xai-learning-journey?u=76281980)
+#### [Continuing your XAI learning journey](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/continuing-your-xai-learning-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2498,19 +2462,19 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/continuing-your-xai-learning-journey?u=76281980&t=123)** It's about using the right tools to fix it.
 >
-> **[2:07](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/continuing-your-xai-learning-journey?u=76281980&t=127)** To learn more about how to mitigate bias in generative AI, follow me on my website at [jazmiahenry.com](https://jazmiahenry.com) or on my LinkedIn page jazmiahenry.
+> **[2:07](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/continuing-your-xai-learning-journey?u=76281980&t=127)** To learn more about how to mitigate bias in [[Generative AI]], follow me on my website at [jazmiahenry.com](https://jazmiahenry.com) or on my [[LinkedIn]] page jazmiahenry.
 >
 > **[2:18](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/continuing-your-xai-learning-journey?u=76281980&t=138)** AI isn't just about bigger models.
 >
 > **[2:21](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/continuing-your-xai-learning-journey?u=76281980&t=141)** It's about creating a better foundation.
 >
-> **[2:25](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/continuing-your-xai-learning-journey?u=76281980&t=145)** If we want responsible AI, we need to rethink how we build it from the ground up.
+> **[2:25](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/continuing-your-xai-learning-journey?u=76281980&t=145)** If we want [[Responsible AI]], we need to rethink how we build it from the ground up.
 >
 > **[2:31](https://www.linkedin.com/learning/learning-xai-explainable-artificial-intelligence-25369961/continuing-your-xai-learning-journey?u=76281980&t=151)** That starts by acknowledging bias testing for it and designing systems that can adapt and improve because the future of AI isn't just about being more powerful, it should be about being more fair.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), data (7), [[Generative AI]] (1), [[LinkedIn]] (1), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[LinkedIn]] (1), [[Responsible AI]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [jazmiahenry.com](https://jazmiahenry.com) (1)
 > **Definitions:** is a  (1)

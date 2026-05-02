@@ -130,12 +130,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AWS networking overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/aws-networking-overview?u=76281980)
+#### [AWS networking overview](https://www.linkedin.com/learning/aws-networking-14125632/aws-networking-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-networking-14125632/aws-networking-overview?u=76281980&t=0)** - [Sharif] Hi, I'm Sharif Nijim, and I'd like to welcome you to this course on networking in Amazon web services.
+> **[0:00](https://www.linkedin.com/learning/aws-networking-14125632/aws-networking-overview?u=76281980&t=0)** - [Sharif] Hi, I'm Sharif Nijim, and I'd like to welcome you to this course on networking in [[Amazon Web Services (AWS)|Amazon web services]].
 >
 > **[0:07](https://www.linkedin.com/learning/aws-networking-14125632/aws-networking-overview?u=76281980&t=7)** Being well versed in networking will help you understand how your current infrastructure is set up, and how your applications work.
 >
@@ -157,14 +156,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), cloud (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), data (1), dns (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Env Vars:** aws (5), vpc (3), dns (1)
 > **CLI Commands:** aws (5), make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [sharif] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/aws-networking-14125632/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -180,7 +178,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/aws-networking-14125632/what-you-should-know?u=76281980&t=27)** While no prior AWS knowledge is necessary for this course, it certainly doesn't hurt.
 >
-> **[0:33](https://www.linkedin.com/learning/aws-networking-14125632/what-you-should-know?u=76281980&t=33)** If you have the option, I'd recommend learning about security in AWS before diving into networking, should have an awareness of basic computer networking concepts and understanding of server virtualization is useful as is some exposure to command-line tools.
+> **[0:33](https://www.linkedin.com/learning/aws-networking-14125632/what-you-should-know?u=76281980&t=33)** If you have the option, I'd recommend learning about security in AWS before diving into networking, should have an awareness of basic [[Computer Networking]] concepts and understanding of server virtualization is useful as is some exposure to command-line tools.
 >
 > **[0:48](https://www.linkedin.com/learning/aws-networking-14125632/what-you-should-know?u=76281980&t=48)** Think of this course as a tasting menu from the chef's table of AWS networking.
 >
@@ -200,7 +198,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (9), [[Security]] (2), database (1), business (1), [[Computer Networking]] (1)
+> **Frameworks & Libraries:** [[Computer Networking]] (1)
 > **CLI Commands:** aws (9), find (1), make (1)
 > **Env Vars:** aws (9)
 > **Warnings:** be aware (1)
@@ -211,8 +209,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Virtual Private Cloud (VPC) overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/virtual-private-cloud-vpc-overview?u=76281980)
+#### [Virtual Private Cloud (VPC) overview](https://www.linkedin.com/learning/aws-networking-14125632/virtual-private-cloud-vpc-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -294,7 +291,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/aws-networking-14125632/virtual-private-cloud-vpc-overview?u=76281980&t=222)** Just as you would with an on-premise data center, you want to be able to control network access to these servers.
 >
-> **[3:48](https://www.linkedin.com/learning/aws-networking-14125632/virtual-private-cloud-vpc-overview?u=76281980&t=228)** For instance, you would want to allow your web servers to be accessible by anyone in the world.
+> **[3:48](https://www.linkedin.com/learning/aws-networking-14125632/virtual-private-cloud-vpc-overview?u=76281980&t=228)** For instance, you would want to allow your [[Web Servers]] to be accessible by anyone in the world.
 >
 > **[3:53](https://www.linkedin.com/learning/aws-networking-14125632/virtual-private-cloud-vpc-overview?u=76281980&t=233)** Simultaneously, you want to ensure that your application and database servers remain private.
 >
@@ -356,7 +353,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (20), database (5), data (4), web (4), application (4)
+> **Frameworks & Libraries:** [[Web Servers]] (3)
 > **Env Vars:** vpc (25), aws (20), nat (7), dhcp (3), dns (2)
 > **CLI Commands:** aws (20), make (3), az (1)
 > **Prerequisites:** configure (5), you'll need (3), set up (2)
@@ -365,8 +362,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1), be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Establish private connections
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/establish-private-connections?u=76281980)
+#### [Establish private connections](https://www.linkedin.com/learning/aws-networking-14125632/establish-private-connections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -396,7 +392,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/aws-networking-14125632/establish-private-connections?u=76281980&t=87)** In this context, a data center is any facility where you have physical equipment.
 >
-> **[1:33](https://www.linkedin.com/learning/aws-networking-14125632/establish-private-connections?u=76281980&t=93)** You want the servers in your physical data center to communicate privately with your elastic compute cloud or EC2 instances.
+> **[1:33](https://www.linkedin.com/learning/aws-networking-14125632/establish-private-connections?u=76281980&t=93)** You want the servers in your physical data center to communicate privately with your elastic compute cloud or [[Amazon EC2|EC2]] instances.
 >
 > **[1:41](https://www.linkedin.com/learning/aws-networking-14125632/establish-private-connections?u=76281980&t=101)** An EC2 instance is simply a virtual server hosted in AWS.
 >
@@ -450,7 +446,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/aws-networking-14125632/establish-private-connections?u=76281980&t=260)** If you want to communicate privately between the two, AWS supports the ability to establish a private VPC peering connection.
 >
-> **[4:27](https://www.linkedin.com/learning/aws-networking-14125632/establish-private-connections?u=76281980&t=267)** The unique thing about a VPC peering connection is that it doesn't need a gateway or VPN connection as it makes use of internal AWS routing infrastructure.
+> **[4:27](https://www.linkedin.com/learning/aws-networking-14125632/establish-private-connections?u=76281980&t=267)** The unique thing about a VPC peering connection is that it doesn't need a gateway or VPN connection as it makes use of internal AWS [[Routing]] infrastructure.
 >
 > **[4:37](https://www.linkedin.com/learning/aws-networking-14125632/establish-private-connections?u=76281980&t=277)** A VPC peering connection is highly available and shouldn't be considered as a single point of failure.
 >
@@ -478,25 +474,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (29), vpn (11), data (10), traffic (5), [[Amazon EC2|Ec2]] (4)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Routing]] (1)
 > **Env Vars:** aws (29), vpc (13), vpn (11), ec2 (4), vpg (2)
 > **CLI Commands:** aws (29), make (1)
 > **Prerequisites:** configure (3), required to (1), set up (1), you'll need (1)
 > **Definitions:** is a  (2), is called (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Route 53 overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/route-53-overview?u=76281980)
+#### [Route 53 overview](https://www.linkedin.com/learning/aws-networking-14125632/route-53-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-networking-14125632/route-53-overview?u=76281980&t=0)** - [Instructor] Route 53 is an AWS tool for providing domain name system, or DNS services.
+> **[0:00](https://www.linkedin.com/learning/aws-networking-14125632/route-53-overview?u=76281980&t=0)** - [Instructor] Route 53 is an AWS tool for providing [[Domain Name System (DNS)|domain name system]], or DNS services.
 >
 > **[0:06](https://www.linkedin.com/learning/aws-networking-14125632/route-53-overview?u=76281980&t=6)** Let's explore some of the defining features of Route 53.
 >
 > **[0:10](https://www.linkedin.com/learning/aws-networking-14125632/route-53-overview?u=76281980&t=10)** Cleverly named after the port used for DNS queries, Route 53 provides name address resolution.
 >
-> **[0:17](https://www.linkedin.com/learning/aws-networking-14125632/route-53-overview?u=76281980&t=17)** It maps a user-friendly name like www.[google.com](https://google.com) to an IP address like 216.58.216.206.
+> **[0:17](https://www.linkedin.com/learning/aws-networking-14125632/route-53-overview?u=76281980&t=17)** It maps a user-friendly name like www.[[[Google]].com](https://google.com) to an IP address like 216.58.216.206.
 >
 > **[0:28](https://www.linkedin.com/learning/aws-networking-14125632/route-53-overview?u=76281980&t=28)** A more interesting capability of Route 53 is DNS failover.
 >
@@ -504,7 +499,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/aws-networking-14125632/route-53-overview?u=76281980&t=42)** With global traffic management, Route 53 allows you to create traffic policies that optimize your user's experience.
 >
-> **[0:49](https://www.linkedin.com/learning/aws-networking-14125632/route-53-overview?u=76281980&t=49)** Let's explore the type of routing policies you can implement with Route 53.
+> **[0:49](https://www.linkedin.com/learning/aws-networking-14125632/route-53-overview?u=76281980&t=49)** Let's explore the type of [[Routing]] policies you can implement with Route 53.
 >
 > **[0:55](https://www.linkedin.com/learning/aws-networking-14125632/route-53-overview?u=76281980&t=55)** One option is the ability to create a failover policy.
 >
@@ -520,7 +515,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/aws-networking-14125632/route-53-overview?u=76281980&t=90)** After observing traffic patterns, you notice that a bit more of the traffic hitting your site originates on the west coast of the United States.
 >
-> **[1:37](https://www.linkedin.com/learning/aws-networking-14125632/route-53-overview?u=76281980&t=97)** To optimize your user experience, you can add capacity in U.S. west, then implement a 3/2 route policy.
+> **[1:37](https://www.linkedin.com/learning/aws-networking-14125632/route-53-overview?u=76281980&t=97)** To optimize your [[User Experience (UX)|user experience]], you can add capacity in U.S. west, then implement a 3/2 route policy.
 >
 > **[1:46](https://www.linkedin.com/learning/aws-networking-14125632/route-53-overview?u=76281980&t=106)** AWS will route traffic based on the weight assigned to a record set divided by the sum of all weights for all record sets.
 >
@@ -578,7 +573,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (9), aws (8), dns (8), [[Routing]] (4), application (2)
+> **Frameworks & Libraries:** [[Routing]] (4), [[Domain Name System (DNS)|Domain name system]] (1), [[Google]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** aws (8), dns (8), elb (1)
 > **CLI Commands:** aws (8)
 > **Definitions:** is a  (3), is an  (1)
@@ -587,8 +582,7 @@ created: 2026-05-02
 > **URLs:** [google.com](https://google.com) (1), [mycompany.com](https://mycompany.com) (1)
 > **Versions:** 216.58.216 (1)
 
-#### The command-line interface (CLI) for Mac
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/the-command-line-interface-cli-for-mac?u=76281980)
+#### [The command-line interface (CLI) for Mac](https://www.linkedin.com/learning/aws-networking-14125632/the-command-line-interface-cli-for-mac?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -598,7 +592,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/aws-networking-14125632/the-command-line-interface-cli-for-mac?u=76281980&t=13)** That said, only through automation is the management of your AWS infrastructure scalable.
 >
-> **[0:19](https://www.linkedin.com/learning/aws-networking-14125632/the-command-line-interface-cli-for-mac?u=76281980&t=19)** One of the many available automation tools is the AWS Command-Line Interface, or CLI.
+> **[0:19](https://www.linkedin.com/learning/aws-networking-14125632/the-command-line-interface-cli-for-mac?u=76281980&t=19)** One of the many available automation tools is the AWS Command-Line Interface, or [[CLI]].
 >
 > **[0:25](https://www.linkedin.com/learning/aws-networking-14125632/the-command-line-interface-cli-for-mac?u=76281980&t=25)** I'll be using it at times throughout this course, so let's take a moment to see how to install and configure it.
 >
@@ -616,7 +610,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/aws-networking-14125632/the-command-line-interface-cli-for-mac?u=76281980&t=69)** I happen to be doing this install at a point of transition.
 >
-> **[1:13](https://www.linkedin.com/learning/aws-networking-14125632/the-command-line-interface-cli-for-mac?u=76281980&t=73)** Note that the CLI no longer supports versions 2.6 or 3.3 of Python.
+> **[1:13](https://www.linkedin.com/learning/aws-networking-14125632/the-command-line-interface-cli-for-mac?u=76281980&t=73)** Note that the CLI no longer supports versions 2.6 or 3.3 of [[Python (Programming Language)|Python]].
 >
 > **[1:19](https://www.linkedin.com/learning/aws-networking-14125632/the-command-line-interface-cli-for-mac?u=76281980&t=79)** Scrolling down a bit on this page, I get to the Prerequisites.
 >
@@ -672,11 +666,11 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/aws-networking-14125632/the-command-line-interface-cli-for-mac?u=76281980&t=209)** I'm going to copy both the config and credentials file into the .aws directory for later use.
 >
-> **[3:37](https://www.linkedin.com/learning/aws-networking-14125632/the-command-line-interface-cli-for-mac?u=76281980&t=217)** In the next video, I'll run through installing the CLI on a Windows machine.
+> **[3:37](https://www.linkedin.com/learning/aws-networking-14125632/the-command-line-interface-cli-for-mac?u=76281980&t=217)** In the next video, I'll run through installing the CLI on a [[Windows]] machine.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CLI]] (14), aws (10), [[Search]] (3), [[Python (Programming Language)|Python]] (3), web (2)
+> **Frameworks & Libraries:** [[CLI]] (14), [[Python (Programming Language)|Python]] (3), [[Windows]] (1)
 > **Env Vars:** cli (13), aws (7)
 > **CLI Commands:** aws (10), python (3), find (1), curl (1), unzip (1)
 > **Prerequisites:** install (5), configure (3), setup (1), set up (1)
@@ -685,12 +679,11 @@ created: 2026-05-02
 > **Cross-References:** next chapter (1), in the next (1)
 > **Definitions:** is a  (2)
 
-#### The command-line interface (CLI) for Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/the-command-line-interface-cli-for-windows?u=76281980)
+#### [The command-line interface (CLI) for Windows](https://www.linkedin.com/learning/aws-networking-14125632/the-command-line-interface-cli-for-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-networking-14125632/the-command-line-interface-cli-for-windows?u=76281980&t=0)** - [Instructor] Let's proceed with installing the AWS CLI for Windows.
+> **[0:00](https://www.linkedin.com/learning/aws-networking-14125632/the-command-line-interface-cli-for-windows?u=76281980&t=0)** - [Instructor] Let's proceed with installing the AWS [[CLI]] for [[Windows]].
 >
 > **[0:04](https://www.linkedin.com/learning/aws-networking-14125632/the-command-line-interface-cli-for-windows?u=76281980&t=4)** Once again, if you already have the CLI installed, or are not a Windows user, feel free to skip to the next chapter.
 >
@@ -720,7 +713,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/aws-networking-14125632/the-command-line-interface-cli-for-windows?u=76281980&t=73)** Note that the machine I'm installing on is a T2 Micro.
 >
-> **[1:17](https://www.linkedin.com/learning/aws-networking-14125632/the-command-line-interface-cli-for-windows?u=76281980&t=77)** One useful hint when installing software, even if the end state is a smaller EC2 instance is to create a larger instance when doing the install.
+> **[1:17](https://www.linkedin.com/learning/aws-networking-14125632/the-command-line-interface-cli-for-windows?u=76281980&t=77)** One useful hint when installing software, even if the end state is a smaller [[Amazon EC2|EC2]] instance is to create a larger instance when doing the install.
 >
 > **[1:27](https://www.linkedin.com/learning/aws-networking-14125632/the-command-line-interface-cli-for-windows?u=76281980&t=87)** Then when it's configured appropriately, you can simply size it down.
 >
@@ -760,7 +753,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (9), [[CLI]] (6), aws (4), next (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Windows]] (9), [[CLI]] (6), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** cli (6), aws (4), msi (1), ec2 (1)
 > **CLI Commands:** aws (4), make (1)
 > **Prerequisites:** install (4), configure (1)
@@ -774,8 +767,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore the default VPC
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/explore-the-default-vpc?u=76281980)
+#### [Explore the default VPC](https://www.linkedin.com/learning/aws-networking-14125632/explore-the-default-vpc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -785,7 +777,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/aws-networking-14125632/explore-the-default-vpc?u=76281980&t=18)** Let's take a peek inside of the US East Ohio region's default VPC to understand what you get right out of the box.
 >
-> **[0:26](https://www.linkedin.com/learning/aws-networking-14125632/explore-the-default-vpc?u=76281980&t=26)** First off, the default VPC has a Classless Inter-Domain Routing, or CIDR, range of /16.
+> **[0:26](https://www.linkedin.com/learning/aws-networking-14125632/explore-the-default-vpc?u=76281980&t=26)** First off, the default VPC has a Classless Inter-Domain [[Routing]], or CIDR, range of /16.
 >
 > **[0:33](https://www.linkedin.com/learning/aws-networking-14125632/explore-the-default-vpc?u=76281980&t=33)** The default VPC's CIDR block is 172.31.0.0/16, and that's the case for the default VPC in every region inside of AWS.
 >
@@ -809,11 +801,11 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/aws-networking-14125632/explore-the-default-vpc?u=76281980&t=99)** While you are free to use the default VPC and modify its configuration, it's out-of-the-box setup is broadly permissive.
 >
-> **[1:47](https://www.linkedin.com/learning/aws-networking-14125632/explore-the-default-vpc?u=76281980&t=107)** It is designed as the catch-all location into which EC2 virtual machines called instances get dumped in the event they aren't assigned to a VPC.
+> **[1:47](https://www.linkedin.com/learning/aws-networking-14125632/explore-the-default-vpc?u=76281980&t=107)** It is designed as the catch-all location into which [[Amazon EC2|EC2]] [[Virtual Machines]] called instances get dumped in the event they aren't assigned to a VPC.
 >
 > **[1:55](https://www.linkedin.com/learning/aws-networking-14125632/explore-the-default-vpc?u=76281980&t=115)** I prefer to create my own VPCs and avoid using the default VPC.
 >
-> **[2:00](https://www.linkedin.com/learning/aws-networking-14125632/explore-the-default-vpc?u=76281980&t=120)** This way, I can be sure that when I create servers or databases in AWS, I know exactly where they are going.
+> **[2:00](https://www.linkedin.com/learning/aws-networking-14125632/explore-the-default-vpc?u=76281980&t=120)** This way, I can be sure that when I create servers or [[Databases]] in AWS, I know exactly where they are going.
 >
 > **[2:06](https://www.linkedin.com/learning/aws-networking-14125632/explore-the-default-vpc?u=76281980&t=126)** Deleting a region's default VPC is a dangerous proposition, as doing so can render some AWS services in that region inoperable.
 >
@@ -865,7 +857,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/aws-networking-14125632/explore-the-default-vpc?u=76281980&t=288)** That's a little lengthy, but expanding the Name column allows me to see the entire thing.
 >
-> **[4:53](https://www.linkedin.com/learning/aws-networking-14125632/explore-the-default-vpc?u=76281980&t=293)** Okay, now let's rename the rest of the components.
+> **[4:53](https://www.linkedin.com/learning/aws-networking-14125632/explore-the-default-vpc?u=76281980&t=293)** Okay, now let's rename the [[Representational State Transfer (REST)|rest]] of the components.
 >
 > **[4:57](https://www.linkedin.com/learning/aws-networking-14125632/explore-the-default-vpc?u=76281980&t=297)** Clicking on the VPC Dashboard link brings me back to the Overview where I can see subnets, route tables, et cetera.
 >
@@ -963,7 +955,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (10), [[Security]] (7), traffic (6), web (3), next (3)
+> **Frameworks & Libraries:** [[Routing]] (1), [[Amazon EC2|Ec2]] (1), [[Virtual Machines]] (1), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** vpc (41), aws (10), acl (4), cidr (3), dhcp (2)
 > **CLI Commands:** aws (10), find (2)
 > **Code Identifiers:** nacl (3)
@@ -972,8 +964,7 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1), go back to (1)
 > **Warnings:** note that (2)
 
-#### Explore VPC templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-templates?u=76281980)
+#### [Explore VPC templates](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1029,7 +1020,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-templates?u=76281980&t=126)** The wizard also built an internet gateway and attaches it to the VPC.
 >
-> **[2:11](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-templates?u=76281980&t=131)** So any EC2 instance launched in the VPC can access the internet.
+> **[2:11](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-templates?u=76281980&t=131)** So any [[Amazon EC2|EC2]] instance launched in the VPC can access the internet.
 >
 > **[2:15](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-templates?u=76281980&t=135)** Since the wizard allocates a very small number of the IP's available in the slash 16 network, you have plenty of room to grow through the use of additional sub-nets.
 >
@@ -1057,7 +1048,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-templates?u=76281980&t=196)** Again, leaving you with room to grow.
 >
-> **[3:19](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-templates?u=76281980&t=199)** The third template picks up where the second template left off and adds a hardware VPN into the picture.
+> **[3:19](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-templates?u=76281980&t=199)** The third template picks up where the second template left off and adds a [[Hardware]] VPN into the picture.
 >
 > **[3:25](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-templates?u=76281980&t=205)** This is a great place to start.
 >
@@ -1071,7 +1062,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (12), vpn (2), data (2), [[Amazon EC2|Ec2]] (1), web (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (1), [[Hardware]] (1)
 > **Env Vars:** vpc (14), aws (12), vpn (2), ec2 (1)
 > **CLI Commands:** aws (12), find (1)
 > **Exercise Files:** template (5)
@@ -1080,8 +1071,7 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Warnings:** keep in mind (1)
 
-#### Handcrafting a VPC
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/handcrafting-a-vpc?u=76281980)
+#### [Handcrafting a VPC](https://www.linkedin.com/learning/aws-networking-14125632/handcrafting-a-vpc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1095,13 +1085,13 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/aws-networking-14125632/handcrafting-a-vpc?u=76281980&t=24)** I'm going to build the network to support a public-facing web application which uses S3 for storing static assets.
 >
-> **[0:32](https://www.linkedin.com/learning/aws-networking-14125632/handcrafting-a-vpc?u=76281980&t=32)** This application consists of public web servers, private application servers, and a relational database services, or RDS, database.
+> **[0:32](https://www.linkedin.com/learning/aws-networking-14125632/handcrafting-a-vpc?u=76281980&t=32)** This application consists of public [[Web Servers]], private application servers, and a relational database services, or RDS, database.
 >
 > **[0:41](https://www.linkedin.com/learning/aws-networking-14125632/handcrafting-a-vpc?u=76281980&t=41)** To do so, I will build a VPC containing two subnets.
 >
 > **[0:46](https://www.linkedin.com/learning/aws-networking-14125632/handcrafting-a-vpc?u=76281980&t=46)** The first subnet will be public.
 >
-> **[0:48](https://www.linkedin.com/learning/aws-networking-14125632/handcrafting-a-vpc?u=76281980&t=48)** This subnet will contain my EC2 web servers.
+> **[0:48](https://www.linkedin.com/learning/aws-networking-14125632/handcrafting-a-vpc?u=76281980&t=48)** This subnet will contain my [[Amazon EC2|EC2]] web servers.
 >
 > **[0:51](https://www.linkedin.com/learning/aws-networking-14125632/handcrafting-a-vpc?u=76281980&t=51)** I will create an internet gateway so that my web servers can get to the internet.
 >
@@ -1169,7 +1159,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/aws-networking-14125632/handcrafting-a-vpc?u=76281980&t=217)** The last box on this screen has to do with tenancy.
 >
-> **[3:41](https://www.linkedin.com/learning/aws-networking-14125632/handcrafting-a-vpc?u=76281980&t=221)** Dedicated tendency is like renting a dedicated piece of hardware from AWS, which my use case doesn't warrant.
+> **[3:41](https://www.linkedin.com/learning/aws-networking-14125632/handcrafting-a-vpc?u=76281980&t=221)** Dedicated tendency is like renting a dedicated piece of [[Hardware]] from AWS, which my use case doesn't warrant.
 >
 > **[3:49](https://www.linkedin.com/learning/aws-networking-14125632/handcrafting-a-vpc?u=76281980&t=229)** Therefore, instead of selecting dedicated from this dropdown, I'm going to go ahead and go with the default.
 >
@@ -1215,7 +1205,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (8), web (6), cloud (2), application (2), database (2)
+> **Frameworks & Libraries:** [[Web Servers]] (4), [[Amazon EC2|Ec2]] (2), [[Hardware]] (1)
 > **Env Vars:** vpc (23), aws (8), cidr (3), acl (3), rds (2)
 > **CLI Commands:** aws (8)
 > **Warnings:** note that (3), be aware (1)
@@ -1224,8 +1214,7 @@ created: 2026-05-02
 > **Versions:** 192.168.0 (1)
 > **Tools:** aws console (1)
 
-#### Configure VPC subnets
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/configure-vpc-subnets?u=76281980)
+#### [Configure VPC subnets](https://www.linkedin.com/learning/aws-networking-14125632/configure-vpc-subnets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1293,7 +1282,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/aws-networking-14125632/configure-vpc-subnets?u=76281980&t=173)** Clicking on the Routes tab, we can see that all traffic within this subnet is routed locally.
 >
-> **[2:59](https://www.linkedin.com/learning/aws-networking-14125632/configure-vpc-subnets?u=76281980&t=179)** Any EC2 instance placed into this subnet can't get to the internet as no internet gateway is configured yet for this VPC.
+> **[2:59](https://www.linkedin.com/learning/aws-networking-14125632/configure-vpc-subnets?u=76281980&t=179)** Any [[Amazon EC2|EC2]] instance placed into this subnet can't get to the internet as no internet gateway is configured yet for this VPC.
 >
 > **[3:07](https://www.linkedin.com/learning/aws-networking-14125632/configure-vpc-subnets?u=76281980&t=187)** Now let's go ahead and create a private subnet.
 >
@@ -1305,7 +1294,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/aws-networking-14125632/configure-vpc-subnets?u=76281980&t=208)** I happen to be using a Mac terminal.
 >
-> **[3:30](https://www.linkedin.com/learning/aws-networking-14125632/configure-vpc-subnets?u=76281980&t=210)** If you're running Windows, you'll want to be in a command shell or Bash environment, depending on how you've installed the AWS CLI.
+> **[3:30](https://www.linkedin.com/learning/aws-networking-14125632/configure-vpc-subnets?u=76281980&t=210)** If you're running [[Windows]], you'll want to be in a command shell or Bash environment, depending on how you've installed the AWS [[CLI]].
 >
 > **[3:37](https://www.linkedin.com/learning/aws-networking-14125632/configure-vpc-subnets?u=76281980&t=217)** Regardless of your platform, the config file we're looking for is located in the .aws directory under your user's home directory.
 >
@@ -1391,7 +1380,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (10), web (5), [[Amazon EC2|Ec2]] (3), next (3), [[CLI]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[CLI]] (2), [[Windows]] (1)
 > **Env Vars:** vpc (16), aws (7), cidr (4), cli (2), ec2 (1)
 > **CLI Commands:** aws (10), make (3)
 > **Tools:** command line (2), terminal (1), bash (1)
@@ -1400,8 +1389,7 @@ created: 2026-05-02
 > **Versions:** 192.168.0 (1), 192.168.2 (1)
 > **URLs:** [snijm.dev](https://snijm.dev) (1)
 
-#### Configure route tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-tables?u=76281980)
+#### [Configure route tables](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1417,7 +1405,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-tables?u=76281980&t=17)** The main route table contains a default route for internal VPC traffic.
 >
-> **[0:22](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-tables?u=76281980&t=22)** While it isn't possible to modify the default route, it is possible for you to add custom routing rules, route tables control, how sub-net traffic gets routed by allowing you to specify a target for each destination.
+> **[0:22](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-tables?u=76281980&t=22)** While it isn't possible to modify the default route, it is possible for you to add custom [[Routing]] rules, route tables control, how sub-net traffic gets routed by allowing you to specify a target for each destination.
 >
 > **[0:36](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-tables?u=76281980&t=36)** Each sub-net within your VPC has to be associated with a route table.
 >
@@ -1489,7 +1477,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-tables?u=76281980&t=208)** Now let's go ahead and create a route table for the private sub-net.
 >
-> **[3:33](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-tables?u=76281980&t=213)** Instead of doing it through the console, I'm going to do it through the CLI.
+> **[3:33](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-tables?u=76281980&t=213)** Instead of doing it through the console, I'm going to do it through the [[CLI]].
 >
 > **[3:37](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-tables?u=76281980&t=217)** In order to do that, I'm going to need to grab the VPC ID.
 >
@@ -1497,7 +1485,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-tables?u=76281980&t=223)** So I'm simply going to highlight it and copy it into my buffer.
 >
-> **[3:47](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-tables?u=76281980&t=227)** Okay, here I am at the command line, the command I want to use is aws ec2 create-route-table.
+> **[3:47](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-tables?u=76281980&t=227)** Okay, here I am at the command line, the command I want to use is aws [[Amazon EC2|ec2]] create-route-table.
 >
 > **[3:55](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-tables?u=76281980&t=235)** The first parameter I want to specify is the VPC ID and the profile I want to specify is my named profile.
 >
@@ -1555,7 +1543,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), traffic (3), [[Routing]] (3), [[Amazon EC2|Ec2]] (3), [[CLI]] (2)
+> **Frameworks & Libraries:** [[Routing]] (3), [[Amazon EC2|Ec2]] (3), [[CLI]] (2)
 > **Env Vars:** vpc (15), cli (2), aws (1)
 > **CLI Commands:** aws (4)
 > **UI Navigation:** select the (3), dropdown (1)
@@ -1564,8 +1552,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** think of it as (1)
 
-#### Configure an internet gateway
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/configure-an-internet-gateway?u=76281980)
+#### [Configure an internet gateway](https://www.linkedin.com/learning/aws-networking-14125632/configure-an-internet-gateway?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1577,7 +1564,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/aws-networking-14125632/configure-an-internet-gateway?u=76281980&t=14)** Similarly, it is a highly available component.
 >
-> **[0:18](https://www.linkedin.com/learning/aws-networking-14125632/configure-an-internet-gateway?u=76281980&t=18)** As such, you don't have to worry about the reliability or scalability of this component.
+> **[0:18](https://www.linkedin.com/learning/aws-networking-14125632/configure-an-internet-gateway?u=76281980&t=18)** As such, you don't have to worry about the reliability or [[Scalability]] of this component.
 >
 > **[0:23](https://www.linkedin.com/learning/aws-networking-14125632/configure-an-internet-gateway?u=76281980&t=23)** You only need one for your VPC.
 >
@@ -1625,7 +1612,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/aws-networking-14125632/configure-an-internet-gateway?u=76281980&t=146)** Note the helpful AWS command line interface command expansion.
 >
-> **[2:31](https://www.linkedin.com/learning/aws-networking-14125632/configure-an-internet-gateway?u=76281980&t=151)** Expanding that, I can see the actual CLI command that's needed to attach an internet gateway to a VPC.
+> **[2:31](https://www.linkedin.com/learning/aws-networking-14125632/configure-an-internet-gateway?u=76281980&t=151)** Expanding that, I can see the actual [[CLI]] command that's needed to attach an internet gateway to a VPC.
 >
 > **[2:38](https://www.linkedin.com/learning/aws-networking-14125632/configure-an-internet-gateway?u=76281980&t=158)** Keep that in mind as we'll be doing that in just a moment.
 >
@@ -1701,7 +1688,7 @@ created: 2026-05-02
 >
 > **[5:26](https://www.linkedin.com/learning/aws-networking-14125632/configure-an-internet-gateway?u=76281980&t=326)** The first thing I want to do is create the IGW.
 >
-> **[5:29](https://www.linkedin.com/learning/aws-networking-14125632/configure-an-internet-gateway?u=76281980&t=329)** To do so, I specify the aws ec2 create-internet-gateway command using my development profile.
+> **[5:29](https://www.linkedin.com/learning/aws-networking-14125632/configure-an-internet-gateway?u=76281980&t=329)** To do so, I specify the aws [[Amazon EC2|ec2]] create-internet-gateway command using my development profile.
 >
 > **[5:37](https://www.linkedin.com/learning/aws-networking-14125632/configure-an-internet-gateway?u=76281980&t=337)** In short order, I get the response message with the ID of the internet gateway I just created.
 >
@@ -1797,7 +1784,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (8), aws (7), [[CLI]] (5), next (4), [[Amazon EC2|Ec2]] (4)
+> **Frameworks & Libraries:** [[CLI]] (5), [[Amazon EC2|Ec2]] (4), [[Scalability]] (1)
 > **Env Vars:** vpc (25), igw (22), cli (5), aws (3)
 > **CLI Commands:** aws (7), find (1), make (1)
 > **UI Navigation:** click on (4), select the (3), dropdown (1)
@@ -1806,14 +1793,13 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Warnings:** note that (2)
 
-#### Configure a NAT gateway
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/configure-a-nat-gateway?u=76281980)
+#### [Configure a NAT gateway](https://www.linkedin.com/learning/aws-networking-14125632/configure-a-nat-gateway?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-networking-14125632/configure-a-nat-gateway?u=76281980&t=0)** - [Instructor] One of the useful capabilities of network address translation or NAT is the ability to map multiple private hosts to a single internet routeable IP address.
 >
-> **[0:10](https://www.linkedin.com/learning/aws-networking-14125632/configure-a-nat-gateway?u=76281980&t=10)** Spurred on by the Internet of Things, there are more than 20 billion devices connected to the internet.
+> **[0:10](https://www.linkedin.com/learning/aws-networking-14125632/configure-a-nat-gateway?u=76281980&t=10)** Spurred on by the [[IoT|Internet of Things]], there are more than 20 billion devices connected to the internet.
 >
 > **[0:15](https://www.linkedin.com/learning/aws-networking-14125632/configure-a-nat-gateway?u=76281980&t=15)** Which is more than the roughly 3.7 billion publicly available IPv4 addresses.
 >
@@ -1829,7 +1815,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/aws-networking-14125632/configure-a-nat-gateway?u=76281980&t=42)** If you go with this option, you have more operational responsibility and flexibility.
 >
-> **[0:48](https://www.linkedin.com/learning/aws-networking-14125632/configure-a-nat-gateway?u=76281980&t=48)** First off you have to manage the EC2 instance, operating system patches, software updates and the like are all your responsibility.
+> **[0:48](https://www.linkedin.com/learning/aws-networking-14125632/configure-a-nat-gateway?u=76281980&t=48)** First off you have to manage the [[Amazon EC2|EC2]] instance, operating system patches, software updates and the like are all your responsibility.
 >
 > **[0:57](https://www.linkedin.com/learning/aws-networking-14125632/configure-a-nat-gateway?u=76281980&t=57)** If you want a highly available configuration, you need to configure and manage that yourself with a multi-instance multi availability zone approach.
 >
@@ -1949,11 +1935,11 @@ created: 2026-05-02
 >
 > **[6:03](https://www.linkedin.com/learning/aws-networking-14125632/configure-a-nat-gateway?u=76281980&t=363)** If I want to verify that the NAT gateway exists, I can simply click the NAT gateways link in the left-hand nav.
 >
-> **[6:10](https://www.linkedin.com/learning/aws-networking-14125632/configure-a-nat-gateway?u=76281980&t=370)** Of course, with all things AWS, it is possible to do a NAT gateway through the CLI as well.
+> **[6:10](https://www.linkedin.com/learning/aws-networking-14125632/configure-a-nat-gateway?u=76281980&t=370)** Of course, with all things AWS, it is possible to do a NAT gateway through the [[CLI]] as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), aws (5), traffic (4), [[Internet of Things (IoT)|Internet of things]] (1), next (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), [[IoT|Internet of things]] (1), [[CLI]] (1)
 > **Env Vars:** nat (37), ec2 (6), aws (5), eip (3), ssh (2)
 > **CLI Commands:** aws (5), ssh (2)
 > **Definitions:** is a  (4)
@@ -1962,8 +1948,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), similar to (1)
 > **Versions:** 3.7 (1)
 
-#### Configure VPC endpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/configure-vpc-endpoints?u=76281980)
+#### [Configure VPC endpoints](https://www.linkedin.com/learning/aws-networking-14125632/configure-vpc-endpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2065,11 +2050,11 @@ created: 2026-05-02
 >
 > **[5:14](https://www.linkedin.com/learning/aws-networking-14125632/configure-vpc-endpoints?u=76281980&t=314)** I can just simply look at the private route table and note that the route has been added successfully.
 >
-> **[5:20](https://www.linkedin.com/learning/aws-networking-14125632/configure-vpc-endpoints?u=76281980&t=320)** Of course, as with all things AWS, it is possible to accomplish all of these steps programmatically via the CLI.
+> **[5:20](https://www.linkedin.com/learning/aws-networking-14125632/configure-vpc-endpoints?u=76281980&t=320)** Of course, as with all things AWS, it is possible to accomplish all of these steps programmatically via the [[CLI]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (14), traffic (2), data (1), [[Security]] (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[CLI]] (1)
 > **Env Vars:** vpc (22), aws (14), cli (1)
 > **CLI Commands:** aws (14), find (1)
 > **UI Navigation:** click on (2), select the (2), scroll down (1)
@@ -2078,12 +2063,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a VPC
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/create-a-vpc?u=76281980)
+#### [Create a VPC](https://www.linkedin.com/learning/aws-networking-14125632/create-a-vpc?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-networking-14125632/create-a-vpc?u=76281980&t=0)** - [Instructor] With an understanding of the components that comprise a VPC, let's now use a VPC wizard to create the infrastructure for an application that has both public facing web servers, as well as private application and database servers.
+> **[0:00](https://www.linkedin.com/learning/aws-networking-14125632/create-a-vpc?u=76281980&t=0)** - [Instructor] With an understanding of the components that comprise a VPC, let's now use a VPC wizard to create the infrastructure for an application that has both public facing [[Web Servers]], as well as private application and database servers.
 >
 > **[0:14](https://www.linkedin.com/learning/aws-networking-14125632/create-a-vpc?u=76281980&t=14)** While we're at it, let's do a NAT gateway, as well as an S3 endpoint.
 >
@@ -2091,11 +2075,11 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/aws-networking-14125632/create-a-vpc?u=76281980&t=24)** The big difference will be the CIDR range.
 >
-> **[0:27](https://www.linkedin.com/learning/aws-networking-14125632/create-a-vpc?u=76281980&t=27)** A quick word of caution: Wizards are a great way to learn new concepts, however, I strongly encourage you not to get into the habit of relying on them.
+> **[0:27](https://www.linkedin.com/learning/aws-networking-14125632/create-a-vpc?u=76281980&t=27)** A quick [[Microsoft Word|word]] of caution: Wizards are a great way to learn new concepts, however, I strongly encourage you not to get into the habit of relying on them.
 >
 > **[0:36](https://www.linkedin.com/learning/aws-networking-14125632/create-a-vpc?u=76281980&t=36)** Wizards necessarily abstract what's going on behind the scenes.
 >
-> **[0:40](https://www.linkedin.com/learning/aws-networking-14125632/create-a-vpc?u=76281980&t=40)** Remember, automation is the key to consistency and scalability.
+> **[0:40](https://www.linkedin.com/learning/aws-networking-14125632/create-a-vpc?u=76281980&t=40)** Remember, automation is the key to consistency and [[Scalability]].
 >
 > **[0:45](https://www.linkedin.com/learning/aws-networking-14125632/create-a-vpc?u=76281980&t=45)** Instead of relying on tools designed for human interaction, you should be developing scripts.
 >
@@ -2201,9 +2185,9 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/aws-networking-14125632/create-a-vpc?u=76281980&t=310)** Again, this is not something I would do in a production environment, but it works for the purposes of this demo.
 >
-> **[5:17](https://www.linkedin.com/learning/aws-networking-14125632/create-a-vpc?u=76281980&t=317)** I want DNS host names for the EC2 instances I will be placing in this VPC, so I leave the Yes radio button selected for Enabled DNS host names.
+> **[5:17](https://www.linkedin.com/learning/aws-networking-14125632/create-a-vpc?u=76281980&t=317)** I want DNS host names for the [[Amazon EC2|EC2]] instances I will be placing in this VPC, so I leave the Yes radio button selected for Enabled DNS host names.
 >
-> **[5:27](https://www.linkedin.com/learning/aws-networking-14125632/create-a-vpc?u=76281980&t=327)** In terms of hardware tendency, I have two options; default and dedicated.
+> **[5:27](https://www.linkedin.com/learning/aws-networking-14125632/create-a-vpc?u=76281980&t=327)** In terms of [[Hardware]] tendency, I have two options; default and dedicated.
 >
 > **[5:32](https://www.linkedin.com/learning/aws-networking-14125632/create-a-vpc?u=76281980&t=332)** Dedicated tendency means that my future EC2 instances would be on single-tenant hardware.
 >
@@ -2245,7 +2229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), next (3), [[Hardware]] (3), web (2), aws (2)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Web Servers]] (2), [[Amazon EC2|Ec2]] (2), [[Microsoft Word|Word]] (1), [[Scalability]] (1)
 > **Env Vars:** vpc (15), nat (8), eip (6), cidr (2), aws (2)
 > **CLI Commands:** aws (2), make (1), find (1), az (1)
 > **UI Navigation:** dropdown (2), click on (1), scroll down (1), open the (1)
@@ -2254,8 +2238,7 @@ created: 2026-05-02
 > **Versions:** 10.0.0 (1)
 > **Exercise Files:** template (1)
 
-#### Expand a VPC
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/expand-a-vpc?u=76281980)
+#### [Expand a VPC](https://www.linkedin.com/learning/aws-networking-14125632/expand-a-vpc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2329,7 +2312,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), power (1), traffic (1)
 > **Env Vars:** vpc (15), cidr (13), aws (3), ipv4 (1)
 > **CLI Commands:** aws (3), make (1)
 > **Definitions:** is a  (1), means that (1)
@@ -2343,8 +2325,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding security groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/understanding-security-groups?u=76281980)
+#### [Understanding security groups](https://www.linkedin.com/learning/aws-networking-14125632/understanding-security-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2358,7 +2339,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/aws-networking-14125632/understanding-security-groups?u=76281980&t=24)** First off security groups are applied at the AWS component level.
 >
-> **[0:29](https://www.linkedin.com/learning/aws-networking-14125632/understanding-security-groups?u=76281980&t=29)** For example, access to AWS components including EC2 instances, Elastic Load Balancers and Relational Database Services are all controlled with security groups.
+> **[0:29](https://www.linkedin.com/learning/aws-networking-14125632/understanding-security-groups?u=76281980&t=29)** For example, access to AWS components including [[Amazon EC2|EC2]] instances, Elastic Load Balancers and Relational Database Services are all controlled with security groups.
 >
 > **[0:40](https://www.linkedin.com/learning/aws-networking-14125632/understanding-security-groups?u=76281980&t=40)** Security groups are assigned to AWS components individually.
 >
@@ -2426,7 +2407,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/aws-networking-14125632/understanding-security-groups?u=76281980&t=225)** You could attach a security group that allows no inbound traffic to the instance and it would still be able to retrieve data.
 >
-> **[3:52](https://www.linkedin.com/learning/aws-networking-14125632/understanding-security-groups?u=76281980&t=232)** Suppose you attach the same security group to a pair of EC2 instances that are being used as web servers.
+> **[3:52](https://www.linkedin.com/learning/aws-networking-14125632/understanding-security-groups?u=76281980&t=232)** Suppose you attach the same security group to a pair of EC2 instances that are being used as [[Web Servers]].
 >
 > **[3:59](https://www.linkedin.com/learning/aws-networking-14125632/understanding-security-groups?u=76281980&t=239)** You've defined a rule that allows inbound traffic on port 443 and 80, all as well.
 >
@@ -2454,7 +2435,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (34), traffic (17), aws (7), [[Amazon EC2|Ec2]] (7), data (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (7), [[Web Servers]] (1)
 > **Env Vars:** aws (7), ec2 (7), vpc (4), rds (1)
 > **CLI Commands:** aws (7), make (1)
 > **Analogies:** for example (2), picture (1), imagine (1), for instance (1), just like (1)
@@ -2463,8 +2444,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (2)
 > **Ports:** port 443 (1)
 
-#### Verifying security groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/verifying-security-groups?u=76281980)
+#### [Verifying security groups](https://www.linkedin.com/learning/aws-networking-14125632/verifying-security-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2476,7 +2456,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/aws-networking-14125632/verifying-security-groups?u=76281980&t=14)** We're going to go ahead and update the security group to allow them to communicate.
 >
-> **[0:18](https://www.linkedin.com/learning/aws-networking-14125632/verifying-security-groups?u=76281980&t=18)** Working within the context of a VPC, let's go to the EC2 dashboard and look at the configuration of a pair of EC2 instances.
+> **[0:18](https://www.linkedin.com/learning/aws-networking-14125632/verifying-security-groups?u=76281980&t=18)** Working within the context of a VPC, let's go to the [[Amazon EC2|EC2]] dashboard and look at the configuration of a pair of EC2 instances.
 >
 > **[0:26](https://www.linkedin.com/learning/aws-networking-14125632/verifying-security-groups?u=76281980&t=26)** To get there, I simply type EC2 in the search box.
 >
@@ -2514,7 +2494,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/aws-networking-14125632/verifying-security-groups?u=76281980&t=130)** In this case, the security group contains two rules: one to allow secure shell or SSH traffic on port 22 and another to allow internet control message protocol, or ICMP, pings.
 >
-> **[2:23](https://www.linkedin.com/learning/aws-networking-14125632/verifying-security-groups?u=76281980&t=143)** While you might not want to allow ICMP traffic on your production web servers, I've allowed it here for illustrative purposes.
+> **[2:23](https://www.linkedin.com/learning/aws-networking-14125632/verifying-security-groups?u=76281980&t=143)** While you might not want to allow ICMP traffic on your production [[Web Servers]], I've allowed it here for illustrative purposes.
 >
 > **[2:31](https://www.linkedin.com/learning/aws-networking-14125632/verifying-security-groups?u=76281980&t=151)** Now I'm going to click on the name of the security group to see how it is actually configured.
 >
@@ -2528,7 +2508,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/aws-networking-14125632/verifying-security-groups?u=76281980&t=186)** Remember, outbound traffic to the internet from within a VPC is stateful, regardless of what is specified in the inbound rule.
 >
-> **[3:14](https://www.linkedin.com/learning/aws-networking-14125632/verifying-security-groups?u=76281980&t=194)** From my laptop, let's open up a couple of terminal windows and ping each instance.
+> **[3:14](https://www.linkedin.com/learning/aws-networking-14125632/verifying-security-groups?u=76281980&t=194)** From my laptop, let's open up a couple of terminal [[Windows]] and ping each instance.
 >
 > **[3:19](https://www.linkedin.com/learning/aws-networking-14125632/verifying-security-groups?u=76281980&t=199)** In order to do so, I'm going to need the public IP addresses from each instance.
 >
@@ -2548,7 +2528,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), [[Amazon EC2|Ec2]] (7), traffic (6), web (2), next (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (7), [[Web Servers]] (1), [[Windows]] (1)
 > **Env Vars:** ec2 (7), vpc (4), ssh (3), icmp (3), cpu (1)
 > **CLI Commands:** ssh (3), az (1)
 > **UI Navigation:** click on (3), go to (1)
@@ -2557,8 +2537,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Prerequisites:** set up (1)
 
-#### Configuring security groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/configuring-security-groups?u=76281980)
+#### [Configuring security groups](https://www.linkedin.com/learning/aws-networking-14125632/configuring-security-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2570,9 +2549,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/aws-networking-14125632/configuring-security-groups?u=76281980&t=13)** Notice that to connect, I need to specify the private key file, which I've already downloaded to my laptop.
 >
-> **[0:20](https://www.linkedin.com/learning/aws-networking-14125632/configuring-security-groups?u=76281980&t=20)** I simply copy the example command and paste it into one of my terminal windows.
+> **[0:20](https://www.linkedin.com/learning/aws-networking-14125632/configuring-security-groups?u=76281980&t=20)** I simply copy the example command and paste it into one of my terminal [[Windows]].
 >
-> **[0:25](https://www.linkedin.com/learning/aws-networking-14125632/configuring-security-groups?u=76281980&t=25)** Note that the first time you connect to an EC2 instance, you have to verify the authenticity of the host.
+> **[0:25](https://www.linkedin.com/learning/aws-networking-14125632/configuring-security-groups?u=76281980&t=25)** Note that the first time you connect to an [[Amazon EC2|EC2]] instance, you have to verify the authenticity of the host.
 >
 > **[0:31](https://www.linkedin.com/learning/aws-networking-14125632/configuring-security-groups?u=76281980&t=31)** When you say yes here, the authenticity is stored in your known hosts file on your local machine.
 >
@@ -2634,7 +2613,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (12), [[Windows]] (2), traffic (2), [[Amazon EC2|Ec2]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** ssh (4), icmp (4), ec2 (1), vpc (1)
 > **CLI Commands:** ssh (4)
 > **Tools:** terminal (4)
@@ -2643,8 +2622,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
 
-#### Understanding network ACLs
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/understanding-network-acls?u=76281980)
+#### [Understanding network ACLs](https://www.linkedin.com/learning/aws-networking-14125632/understanding-network-acls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2662,7 +2640,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/aws-networking-14125632/understanding-network-acls?u=76281980&t=36)** However, each subnet can only be associated with one and only one NACL.
 >
-> **[0:42](https://www.linkedin.com/learning/aws-networking-14125632/understanding-network-acls?u=76281980&t=42)** Where security groups are granular to the EC2 instance, NACLs affect entire subnets.
+> **[0:42](https://www.linkedin.com/learning/aws-networking-14125632/understanding-network-acls?u=76281980&t=42)** Where security groups are granular to the [[Amazon EC2|EC2]] instance, NACLs affect entire subnets.
 >
 > **[0:49](https://www.linkedin.com/learning/aws-networking-14125632/understanding-network-acls?u=76281980&t=49)** NACLs are applied in a stateless fashion.
 >
@@ -2702,7 +2680,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/aws-networking-14125632/understanding-network-acls?u=76281980&t=165)** You could configure a NACL that specifically allows 80 and 443 while denying everything else.
 >
-> **[2:51](https://www.linkedin.com/learning/aws-networking-14125632/understanding-network-acls?u=76281980&t=171)** Suppose someone stands up a MySQL database server and makes an error with the security group, which would allow traffic on the default port of 3306 to come from the internet.
+> **[2:51](https://www.linkedin.com/learning/aws-networking-14125632/understanding-network-acls?u=76281980&t=171)** Suppose someone stands up a [[MySQL]] database server and makes an error with the security group, which would allow traffic on the default port of 3306 to come from the internet.
 >
 > **[3:04](https://www.linkedin.com/learning/aws-networking-14125632/understanding-network-acls?u=76281980&t=184)** With the NACL in place, there is a second level of protection.
 >
@@ -2712,7 +2690,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (13), [[Security]] (10), [[Amazon EC2|Ec2]] (3), aws (2), database (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[MySQL]] (1)
 > **Env Vars:** nacl (10), vpc (6), ec2 (3), aws (2)
 > **CLI Commands:** aws (2), mysql (1), make (1)
 > **Prerequisites:** configure (3)
@@ -2721,8 +2699,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore a network ACL scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-network-acl-scenario?u=76281980)
+#### [Explore a network ACL scenario](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-network-acl-scenario?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2748,7 +2725,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-network-acl-scenario?u=76281980&t=53)** In the Frankfurt region, I have a /28 VPC in the 192 range with a single public subnet.
 >
-> **[1:00](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-network-acl-scenario?u=76281980&t=60)** In Tokyo, I've set up two EC2 instances.
+> **[1:00](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-network-acl-scenario?u=76281980&t=60)** In Tokyo, I've set up two [[Amazon EC2|EC2]] instances.
 >
 > **[1:04](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-network-acl-scenario?u=76281980&t=64)** The first is located in the public subnet with a public IP of 13.231.191.237 and a private IP of 10.0.0.90.
 >
@@ -2770,7 +2747,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4), [[Security]] (2), [[Amazon EC2|Ec2]] (1), next (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** vpc (5), ssh (3), icmp (3), nat (2), nacl (2)
 > **Versions:** 13.231.191 (1), 10.0.0 (1), 10.0.1 (1), 52.59.188 (1), 192.168.66 (1)
 > **Prerequisites:** set up (3), configure (1)
@@ -2779,8 +2756,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure network ACLs, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/configure-network-acls-part-1?u=76281980)
+#### [Configure network ACLs, part 1](https://www.linkedin.com/learning/aws-networking-14125632/configure-network-acls-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2794,7 +2770,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/aws-networking-14125632/configure-network-acls-part-1?u=76281980&t=18)** Down in the lower right corner is my laptop somewhere out on the internet.
 >
-> **[0:22](https://www.linkedin.com/learning/aws-networking-14125632/configure-network-acls-part-1?u=76281980&t=22)** In Frankfurt, there's a single EC2 instance.
+> **[0:22](https://www.linkedin.com/learning/aws-networking-14125632/configure-network-acls-part-1?u=76281980&t=22)** In Frankfurt, there's a single [[Amazon EC2|EC2]] instance.
 >
 > **[0:25](https://www.linkedin.com/learning/aws-networking-14125632/configure-network-acls-part-1?u=76281980&t=25)** Over in Tokyo, we can see the public and private EC2 instances, as well as the NAT gateway.
 >
@@ -2810,7 +2786,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/aws-networking-14125632/configure-network-acls-part-1?u=76281980&t=65)** Our NACL wIll put a stop to that.
 >
-> **[1:08](https://www.linkedin.com/learning/aws-networking-14125632/configure-network-acls-part-1?u=76281980&t=68)** With a clear understanding of our VPC and instance landscape, let's validate our setup from a pair of terminal windows before creating a custom NACL.
+> **[1:08](https://www.linkedin.com/learning/aws-networking-14125632/configure-network-acls-part-1?u=76281980&t=68)** With a clear understanding of our VPC and instance landscape, let's validate our setup from a pair of terminal [[Windows]] before creating a custom NACL.
 >
 > **[1:17](https://www.linkedin.com/learning/aws-networking-14125632/configure-network-acls-part-1?u=76281980&t=77)** Here I've opened up a pair of terminal windows on my laptop.
 >
@@ -2906,7 +2882,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (8), [[Amazon EC2|Ec2]] (2), [[Security]] (2), [[Windows]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[Windows]] (2)
 > **Env Vars:** nacl (19), vpc (8), ssh (5), nat (3), ec2 (2)
 > **UI Navigation:** select the (3), go to (1), click on (1), dropdown (1)
 > **CLI Commands:** ssh (5)
@@ -2915,8 +2891,7 @@ created: 2026-05-02
 > **Code Identifiers:** will (1)
 > **Cross-References:** in the next (1)
 
-#### Configure network ACLs, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/configure-network-acls-part-2?u=76281980)
+#### [Configure network ACLs, part 2](https://www.linkedin.com/learning/aws-networking-14125632/configure-network-acls-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2958,7 +2933,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/aws-networking-14125632/configure-network-acls-part-2?u=76281980&t=98)** We don't have any outbound rules yet, so I click the add rule button.
 >
-> **[1:42](https://www.linkedin.com/learning/aws-networking-14125632/configure-network-acls-part-2?u=76281980&t=102)** You may recall from various networking classes, that many Linux kernels use the ports between 32,768 and 61,000 as ephemeral ports.
+> **[1:42](https://www.linkedin.com/learning/aws-networking-14125632/configure-network-acls-part-2?u=76281980&t=102)** You may recall from various networking classes, that many [[Linux]] kernels use the ports between 32,768 and 61,000 as ephemeral ports.
 >
 > **[1:52](https://www.linkedin.com/learning/aws-networking-14125632/configure-network-acls-part-2?u=76281980&t=112)** Therefore, this is the port range I'm going to add to the outbound rule to allow responses to inbound SSH connections.
 >
@@ -2992,7 +2967,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/aws-networking-14125632/configure-network-acls-part-2?u=76281980&t=180)** NACLs are a great way to ensure that a misconfigured security group doesn't allow unintended network traffic.
 >
-> **[3:06](https://www.linkedin.com/learning/aws-networking-14125632/configure-network-acls-part-2?u=76281980&t=186)** When thinking about your NACL design, consider setting up rules to restrict access to databases and internal applications.
+> **[3:06](https://www.linkedin.com/learning/aws-networking-14125632/configure-network-acls-part-2?u=76281980&t=186)** When thinking about your NACL design, consider setting up rules to restrict access to [[Databases]] and internal applications.
 >
 > **[3:13](https://www.linkedin.com/learning/aws-networking-14125632/configure-network-acls-part-2?u=76281980&t=193)** You'll want to think through how you intend on doing operating system patching.
 >
@@ -3002,7 +2977,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (9), web (1), [[Linux]] (1), next (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Databases]] (1)
 > **Env Vars:** ssh (9), nacl (7), icmp (4), icnp (1), aws (1)
 > **CLI Commands:** ssh (9), aws (1)
 > **Prerequisites:** configure (3)
@@ -3010,12 +2985,11 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### VPC Flow Logs overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/vpc-flow-logs-overview?u=76281980)
+#### [VPC Flow Logs overview](https://www.linkedin.com/learning/aws-networking-14125632/vpc-flow-logs-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-networking-14125632/vpc-flow-logs-overview?u=76281980&t=0)** - Experienced network security professionals may feel uncomfortable about moving services off premises.
+> **[0:00](https://www.linkedin.com/learning/aws-networking-14125632/vpc-flow-logs-overview?u=76281980&t=0)** - Experienced [[Network Security]] professionals may feel uncomfortable about moving services off premises.
 >
 > **[0:06](https://www.linkedin.com/learning/aws-networking-14125632/vpc-flow-logs-overview?u=76281980&t=6)** This is typically caused by a reduced ability to monitor network traffic.
 >
@@ -3061,11 +3035,11 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/aws-networking-14125632/vpc-flow-logs-overview?u=76281980&t=140)** Finally, calls to some internal AWS traffic is restricted.
 >
-> **[2:25](https://www.linkedin.com/learning/aws-networking-14125632/vpc-flow-logs-overview?u=76281980&t=145)** This includes things like Windows license activation, instance metadata, and traffic associated with the default VPC router's reserved IP address.
+> **[2:25](https://www.linkedin.com/learning/aws-networking-14125632/vpc-flow-logs-overview?u=76281980&t=145)** This includes things like [[Windows]] license activation, instance [[Metadata]], and traffic associated with the default VPC router's reserved IP address.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (9), aws (5), [[Network Security]] (1), web (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (1), [[Windows]] (1), [[Metadata]] (1)
 > **Env Vars:** vpc (12), aws (5), iam (1), tcp (1), udp (1)
 > **CLI Commands:** aws (5)
 > **Analogies:** similar to (1), picture (1)
@@ -3073,8 +3047,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - experienced (1)
 
-#### Create and configure VPC Flow Logs
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/create-and-configure-vpc-flow-logs?u=76281980)
+#### [Create and configure VPC Flow Logs](https://www.linkedin.com/learning/aws-networking-14125632/create-and-configure-vpc-flow-logs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3144,7 +3117,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/aws-networking-14125632/create-and-configure-vpc-flow-logs?u=76281980&t=164)** This opens up a pre-populated identity and access management or IAM create role screen in a new browser tab.
 >
-> **[2:52](https://www.linkedin.com/learning/aws-networking-14125632/create-and-configure-vpc-flow-logs?u=76281980&t=172)** Clicking the little triangle next to the view policy document lets me see the policy in JSON format.
+> **[2:52](https://www.linkedin.com/learning/aws-networking-14125632/create-and-configure-vpc-flow-logs?u=76281980&t=172)** Clicking the little triangle next to the view policy document lets me see the policy in [[JSON]] format.
 >
 > **[2:59](https://www.linkedin.com/learning/aws-networking-14125632/create-and-configure-vpc-flow-logs?u=76281980&t=179)** For my purposes, this default policy is just fine, so I go ahead and proceed by clicking the blue allow button in the lower right portion of the screen.
 >
@@ -3164,7 +3137,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), next (3), traffic (3), aws (2), web (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** vpc (10), aws (2), iam (2), json (1)
 > **UI Navigation:** click on (2), select the (1), dropdown (1)
 > **CLI Commands:** aws (2), make (1)
@@ -3172,8 +3145,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore VPC Flow Logs
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-flow-logs?u=76281980)
+#### [Explore VPC Flow Logs](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-flow-logs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3199,7 +3171,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-flow-logs?u=76281980&t=48)** That is, these are all accepted connections, but what I'm more interested in in this case is rejected connections.
 >
-> **[0:56](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-flow-logs?u=76281980&t=56)** So I filter by the word 'reject.'
+> **[0:56](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-flow-logs?u=76281980&t=56)** So I filter by the [[Microsoft Word|word]] 'reject.'
 >
 > **[0:59](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-flow-logs?u=76281980&t=59)** I see quite a few reject messages.
 >
@@ -3211,9 +3183,9 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-flow-logs?u=76281980&t=84)** The seventh column shows the port on which the connection was attempted, or in this case rejected.
 >
-> **[1:31](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-flow-logs?u=76281980&t=91)** 33 89 is the port for remote desktop protocol, that is if you're trying to establish a remote desktop connection to a Windows instance.
+> **[1:31](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-flow-logs?u=76281980&t=91)** 33 89 is the port for remote desktop protocol, that is if you're trying to establish a remote desktop connection to a [[Windows]] instance.
 >
-> **[1:41](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-flow-logs?u=76281980&t=101)** If we're interested in more specifics, we can highlight and copy the network interface in question, then in a new tab to figure out what network interface that corresponds to, I need to get to the EC2 dashboard.
+> **[1:41](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-flow-logs?u=76281980&t=101)** If we're interested in more specifics, we can highlight and copy the network interface in question, then in a new tab to figure out what network interface that corresponds to, I need to get to the [[Amazon EC2|EC2]] dashboard.
 >
 > **[1:55](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-flow-logs?u=76281980&t=115)** Dropping down the services menu, I right-click on the EC2 link and open it in a new tab.
 >
@@ -3235,7 +3207,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-flow-logs?u=76281980&t=162)** So since we were seeing rejects on port 33 89, it looks like there are some bad guys out there knocking on the door trying to connect to this bastion host.
 >
-> **[2:52](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-flow-logs?u=76281980&t=172)** Fortunately, I've taken appropriate network security control precautions, and their connections are getting rejected.
+> **[2:52](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-flow-logs?u=76281980&t=172)** Fortunately, I've taken appropriate [[Network Security]] control precautions, and their connections are getting rejected.
 >
 > **[2:59](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-flow-logs?u=76281980&t=179)** This illustrates why you need to be very careful with your security groups and network ACLs.
 >
@@ -3251,11 +3223,11 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-flow-logs?u=76281980&t=222)** Fortunately for you, flow logs follow a very distinct format.
 >
-> **[3:46](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-flow-logs?u=76281980&t=226)** There are a number of products available on the market that can ingest flow log data to help you visualize their contents and unlock the insights they contain.
+> **[3:46](https://www.linkedin.com/learning/aws-networking-14125632/explore-vpc-flow-logs?u=76281980&t=226)** There are a number of [[Microsoft Products|products]] available on the market that can ingest flow log data to help you visualize their contents and unlock the insights they contain.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Windows]] (2), [[Security]] (2), [[Microsoft Word|Word]] (1), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Windows]] (2), [[Microsoft Word|Word]] (1), [[Network Security]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** vpc (5), ec2 (4)
 > **UI Navigation:** click on (4), navigate to (1), right-click (1), scroll down (1)
 > **Ports:** port 33 (2)
@@ -3269,8 +3241,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### VPC peering overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/vpc-peering-overview?u=76281980)
+#### [VPC peering overview](https://www.linkedin.com/learning/aws-networking-14125632/vpc-peering-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3308,13 +3279,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), management (1), traffic (1)
 > **Env Vars:** aws (4), vpc (3)
 > **CLI Commands:** aws (4), find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement VPC peering
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/implement-vpc-peering?u=76281980)
+#### [Implement VPC peering](https://www.linkedin.com/learning/aws-networking-14125632/implement-vpc-peering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3374,7 +3343,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/aws-networking-14125632/implement-vpc-peering?u=76281980&t=129)** So I dropped down the services link and select VPC.
 >
-> **[2:12](https://www.linkedin.com/learning/aws-networking-14125632/implement-vpc-peering?u=76281980&t=132)** From the dashboards I click the your VPCs link in the left-hand nav.
+> **[2:12](https://www.linkedin.com/learning/aws-networking-14125632/implement-vpc-peering?u=76281980&t=132)** From the [[Dashboards]] I click the your VPCs link in the left-hand nav.
 >
 > **[2:16](https://www.linkedin.com/learning/aws-networking-14125632/implement-vpc-peering?u=76281980&t=136)** My target VPC is the Paris research VPC.
 >
@@ -3418,13 +3387,13 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/aws-networking-14125632/implement-vpc-peering?u=76281980&t=244)** However, without modifying the route tables associated with each VPC, the traffic will not route appropriately.
 >
-> **[4:11](https://www.linkedin.com/learning/aws-networking-14125632/implement-vpc-peering?u=76281980&t=251)** As a way of encouraging you to complete the routing work at this point in the process, AWS embeds a modify my route tables now link in the confirmation screen.
+> **[4:11](https://www.linkedin.com/learning/aws-networking-14125632/implement-vpc-peering?u=76281980&t=251)** As a way of encouraging you to complete the [[Routing]] work at this point in the process, AWS embeds a modify my route tables now link in the confirmation screen.
 >
 > **[4:20](https://www.linkedin.com/learning/aws-networking-14125632/implement-vpc-peering?u=76281980&t=260)** Let's go ahead and do that next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), aws (3), [[Dashboards]] (1), traffic (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[Routing]] (1)
 > **Env Vars:** vpc (20), aws (3)
 > **UI Navigation:** click on (3), select the (1), scroll down (1)
 > **CLI Commands:** aws (3), find (1)
@@ -3433,8 +3402,7 @@ created: 2026-05-02
 > **Tools:** aws console (1)
 > **Definitions:** is a  (1)
 
-#### Configure VPC peer routing
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/configure-vpc-peer-routing?u=76281980)
+#### [Configure VPC peer routing](https://www.linkedin.com/learning/aws-networking-14125632/configure-vpc-peer-routing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3450,7 +3418,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/aws-networking-14125632/configure-vpc-peer-routing?u=76281980&t=33)** Finally, I will have to update the appropriate security groups to allow traffic from these new IP ranges.
 >
-> **[0:40](https://www.linkedin.com/learning/aws-networking-14125632/configure-vpc-peer-routing?u=76281980&t=40)** For the purposes of this video, I'm going to focus in on connectivity from an EC2 instance in the private research subnet.
+> **[0:40](https://www.linkedin.com/learning/aws-networking-14125632/configure-vpc-peer-routing?u=76281980&t=40)** For the purposes of this video, I'm going to focus in on connectivity from an [[Amazon EC2|EC2]] instance in the private research subnet.
 >
 > **[0:47](https://www.linkedin.com/learning/aws-networking-14125632/configure-vpc-peer-routing?u=76281980&t=47)** I'll make the appropriate configuration changes so that it can access an EC2 instance in the private subnet of the development account.
 >
@@ -3482,7 +3450,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/aws-networking-14125632/configure-vpc-peer-routing?u=76281980&t=132)** Next, I click on the routes tab.
 >
-> **[2:14](https://www.linkedin.com/learning/aws-networking-14125632/configure-vpc-peer-routing?u=76281980&t=134)** I see one route for the local VPC, and another routing all other traffic to the internet gateway.
+> **[2:14](https://www.linkedin.com/learning/aws-networking-14125632/configure-vpc-peer-routing?u=76281980&t=134)** I see one route for the local VPC, and another [[Routing]] all other traffic to the internet gateway.
 >
 > **[2:20](https://www.linkedin.com/learning/aws-networking-14125632/configure-vpc-peer-routing?u=76281980&t=140)** To add my route, I simply click the edit routes button.
 >
@@ -3508,7 +3476,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (5), [[Security]] (2), [[Amazon EC2|Ec2]] (2), aws (2), [[Routing]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[Routing]] (2)
 > **Env Vars:** vpc (6), ec2 (2), aws (2), pcx (2)
 > **UI Navigation:** click on (3), select the (1), dropdown (1)
 > **CLI Commands:** aws (2), make (1)
@@ -3517,8 +3485,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** set up (1)
 
-#### Verify VPC peer routing
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/verify-vpc-peer-routing?u=76281980)
+#### [Verify VPC peer routing](https://www.linkedin.com/learning/aws-networking-14125632/verify-vpc-peer-routing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3528,7 +3495,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/aws-networking-14125632/verify-vpc-peer-routing?u=76281980&t=17)** Specifically, we will be updating route information related to the private subnet in Paris.
 >
-> **[0:23](https://www.linkedin.com/learning/aws-networking-14125632/verify-vpc-peer-routing?u=76281980&t=23)** To validate this configuration, there are some EC2 instances we're going to use.
+> **[0:23](https://www.linkedin.com/learning/aws-networking-14125632/verify-vpc-peer-routing?u=76281980&t=23)** To validate this configuration, there are some [[Amazon EC2|EC2]] instances we're going to use.
 >
 > **[0:28](https://www.linkedin.com/learning/aws-networking-14125632/verify-vpc-peer-routing?u=76281980&t=28)** In Paris, there is an instance in the public subnet with an IP of 192.168.2.122.
 >
@@ -3542,9 +3509,9 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/aws-networking-14125632/verify-vpc-peer-routing?u=76281980&t=69)** And, finally, change the security group configuration for the EC2 instance in Canada.
 >
-> **[1:14](https://www.linkedin.com/learning/aws-networking-14125632/verify-vpc-peer-routing?u=76281980&t=74)** Since there are a number of configuration changes to make and automation is the key to managing infrastructure at scale, let's do this now through the AWS CLI.
+> **[1:14](https://www.linkedin.com/learning/aws-networking-14125632/verify-vpc-peer-routing?u=76281980&t=74)** Since there are a number of configuration changes to make and automation is the key to managing infrastructure at scale, let's do this now through the AWS [[CLI]].
 >
-> **[1:24](https://www.linkedin.com/learning/aws-networking-14125632/verify-vpc-peer-routing?u=76281980&t=84)** Okay, here I have three terminal windows setup.
+> **[1:24](https://www.linkedin.com/learning/aws-networking-14125632/verify-vpc-peer-routing?u=76281980&t=84)** Okay, here I have three terminal [[Windows]] setup.
 >
 > **[1:27](https://www.linkedin.com/learning/aws-networking-14125632/verify-vpc-peer-routing?u=76281980&t=87)** Notice the two terminal windows on the left are on the same machine with the IP of 192.168.2.122.
 >
@@ -3578,7 +3545,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), traffic (3), [[Security]] (2), [[Windows]] (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Windows]] (2), [[CLI]] (1)
 > **Env Vars:** ec2 (3), vpc (1), aws (1), cli (1), ssh (1)
 > **Versions:** 192.168.2 (2), 192.168.22 (1), 10.0.0 (1), 10.0.243 (1)
 > **CLI Commands:** make (2), aws (1), ssh (1)
@@ -3592,8 +3559,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand Transit Gateway
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/understand-transit-gateway?u=76281980)
+#### [Understand Transit Gateway](https://www.linkedin.com/learning/aws-networking-14125632/understand-transit-gateway?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3685,7 +3651,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (8), aws (8), vpn (6), traffic (4), data (2)
 > **Env Vars:** vpc (9), aws (8), vpn (6), nat (1)
 > **CLI Commands:** aws (8), find (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -3693,8 +3658,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1), just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement Transit Gateway
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/implement-transit-gateway?u=76281980)
+#### [Implement Transit Gateway](https://www.linkedin.com/learning/aws-networking-14125632/implement-transit-gateway?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3746,7 +3710,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), teams (1), [[Security]] (1)
 > **Env Vars:** vpc (3), ssh (1), icnp (1), tgw (1)
 > **CLI Commands:** find (1), ssh (1), make (1)
 > **Warnings:** note that (3)
@@ -3754,9 +3717,9 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** configure (1)
+> **Speakers:** - [instructor] (1)
 
-#### Configure Transit Gateway
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/configure-transit-gateway?u=76281980)
+#### [Configure Transit Gateway](https://www.linkedin.com/learning/aws-networking-14125632/configure-transit-gateway?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3814,7 +3777,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/aws-networking-14125632/configure-transit-gateway?u=76281980&t=147)** Only two to go.
 >
-> **[2:29](https://www.linkedin.com/learning/aws-networking-14125632/configure-transit-gateway?u=76281980&t=149)** I know you're thinking at this point that this would be a wonderful place to jump into the CLI for some automation.
+> **[2:29](https://www.linkedin.com/learning/aws-networking-14125632/configure-transit-gateway?u=76281980&t=149)** I know you're thinking at this point that this would be a wonderful place to jump into the [[CLI]] for some automation.
 >
 > **[2:35](https://www.linkedin.com/learning/aws-networking-14125632/configure-transit-gateway?u=76281980&t=155)** If I open a new browser tab and search for the create transit gateway VPC attachment, I can see that it's contained in the documentation for the latest TLI.
 >
@@ -3872,7 +3835,7 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/aws-networking-14125632/configure-transit-gateway?u=76281980&t=319)** Let's go ahead and add those now.
 >
-> **[5:22](https://www.linkedin.com/learning/aws-networking-14125632/configure-transit-gateway?u=76281980&t=322)** Let's use the AWS ec2 create-tags command to name those appropriately.
+> **[5:22](https://www.linkedin.com/learning/aws-networking-14125632/configure-transit-gateway?u=76281980&t=322)** Let's use the AWS [[Amazon EC2|ec2]] create-tags command to name those appropriately.
 >
 > **[5:29](https://www.linkedin.com/learning/aws-networking-14125632/configure-transit-gateway?u=76281980&t=329)** The first thing I need to specify is the resources flag.
 >
@@ -3890,7 +3853,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), next (2), vpn (1), [[CLI]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[CLI]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** vpc (17), aws (4), vpn (1), ejz (1), acs (1)
 > **CLI Commands:** aws (4), find (1)
 > **UI Navigation:** click on (2), dropdown (1), scroll up (1), scroll down (1)
@@ -3899,8 +3862,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1), in the next (1)
 > **Documentation:** the documentation (1)
 
-#### Validate Transit Gateway
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/validate-transit-gateway?u=76281980)
+#### [Validate Transit Gateway](https://www.linkedin.com/learning/aws-networking-14125632/validate-transit-gateway?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3940,7 +3902,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/aws-networking-14125632/validate-transit-gateway?u=76281980&t=98)** Okay, let's take a quick validation check and see how we did.
 >
-> **[1:43](https://www.linkedin.com/learning/aws-networking-14125632/validate-transit-gateway?u=76281980&t=103)** Here, I have three terminal windows.
+> **[1:43](https://www.linkedin.com/learning/aws-networking-14125632/validate-transit-gateway?u=76281980&t=103)** Here, I have three terminal [[Windows]].
 >
 > **[1:46](https://www.linkedin.com/learning/aws-networking-14125632/validate-transit-gateway?u=76281980&t=106)** In each one, I've manifested a connection to a host in the administrative public sub-net.
 >
@@ -3956,7 +3918,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/aws-networking-14125632/validate-transit-gateway?u=76281980&t=138)** Let's take a quick look at the security group to see what's going on.
 >
-> **[2:23](https://www.linkedin.com/learning/aws-networking-14125632/validate-transit-gateway?u=76281980&t=143)** In the AWS console, I open up the EC2 configuration screen in a new browser tab.
+> **[2:23](https://www.linkedin.com/learning/aws-networking-14125632/validate-transit-gateway?u=76281980&t=143)** In the AWS console, I open up the [[Amazon EC2|EC2]] configuration screen in a new browser tab.
 >
 > **[2:30](https://www.linkedin.com/learning/aws-networking-14125632/validate-transit-gateway?u=76281980&t=150)** I see I have four running instances.
 >
@@ -3976,7 +3938,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), [[Security]] (2), [[Windows]] (1), [[Amazon EC2|Ec2]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** vpc (5), aws (2), vpc1 (2), cidr (1), vpc2 (1)
 > **CLI Commands:** aws (2), make (1)
 > **Tools:** terminal (2), aws console (1)
@@ -3985,8 +3947,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Warnings:** note that (1)
 
-#### Challenge: Transit Gateway
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/challenge-transit-gateway?u=76281980)
+#### [Challenge: Transit Gateway](https://www.linkedin.com/learning/aws-networking-14125632/challenge-transit-gateway?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4010,15 +3971,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1)
 > **Env Vars:** vpc (3)
 > **CLI Commands:** make (2)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Transit Gateway
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/solution-transit-gateway?u=76281980)
+#### [Solution: Transit Gateway](https://www.linkedin.com/learning/aws-networking-14125632/solution-transit-gateway?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4034,15 +3993,15 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/aws-networking-14125632/solution-transit-gateway?u=76281980&t=47)** We need to proceed to make the same change for VPC 2 as we did for VPC 1, and yet again for VPC 3.
 >
-> **[0:57](https://www.linkedin.com/learning/aws-networking-14125632/solution-transit-gateway?u=76281980&t=57)** Recall that I had set up three terminal windows, all connected to the bastion host, each one pinging a separate instance in VPCs 1 through 3.
+> **[0:57](https://www.linkedin.com/learning/aws-networking-14125632/solution-transit-gateway?u=76281980&t=57)** Recall that I had set up three terminal [[Windows]], all connected to the bastion host, each one pinging a separate instance in VPCs 1 through 3.
 >
 > **[1:08](https://www.linkedin.com/learning/aws-networking-14125632/solution-transit-gateway?u=76281980&t=68)** In the fourth window, let's take a peek at a script I created that will make the appropriate route changes for me.
 >
-> **[1:16](https://www.linkedin.com/learning/aws-networking-14125632/solution-transit-gateway?u=76281980&t=76)** Let's come down and step through the EC2 create-route command.
+> **[1:16](https://www.linkedin.com/learning/aws-networking-14125632/solution-transit-gateway?u=76281980&t=76)** Let's come down and step through the [[Amazon EC2|EC2]] create-route command.
 >
 > **[1:21](https://www.linkedin.com/learning/aws-networking-14125632/solution-transit-gateway?u=76281980&t=81)** The route table ID being specified in the first parameter has a subnet association with the public subnet for the administrative VPC.
 >
-> **[1:31](https://www.linkedin.com/learning/aws-networking-14125632/solution-transit-gateway?u=76281980&t=91)** In terms of the destination CIDR block, note that it's routing the entire 10. IP space.
+> **[1:31](https://www.linkedin.com/learning/aws-networking-14125632/solution-transit-gateway?u=76281980&t=91)** In terms of the destination CIDR block, note that it's [[Routing]] the entire 10. IP space.
 >
 > **[1:38](https://www.linkedin.com/learning/aws-networking-14125632/solution-transit-gateway?u=76281980&t=98)** I can specify an all-encompassing CIDR block here because each of the independent VPCs reside in the 10. IP space.
 >
@@ -4094,7 +4053,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4), next (2), [[Windows]] (1), [[Amazon EC2|Ec2]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Amazon EC2|Ec2]] (1), [[Routing]] (1)
 > **Env Vars:** vpc (14), cidr (3), ec2 (1), ssh (1)
 > **CLI Commands:** make (3), ssh (1)
 > **Versions:** 172.16 (1), 10.0.0 (1), 10.1.0 (1), 10.2.0 (1)
@@ -4108,8 +4067,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configure Route 53 DNS
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-53-dns?u=76281980)
+#### [Configure Route 53 DNS](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-53-dns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4125,7 +4083,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-53-dns?u=76281980&t=27)** If you have never done anything in Route 53 before, you will see a screen that looks just like this.
 >
-> **[0:33](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-53-dns?u=76281980&t=33)** You see the four main options, including DNS management, traffic management, availability monitoring, and domain registration.
+> **[0:33](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-53-dns?u=76281980&t=33)** You see the four main options, including [[DNS Management]], traffic management, availability monitoring, and domain registration.
 >
 > **[0:41](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-53-dns?u=76281980&t=41)** In this case, I want to look at domain registration options.
 >
@@ -4199,7 +4157,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), dns (6), management (3), traffic (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[DNS Management]] (1)
 > **Env Vars:** aws (7), dns (6), ipv4 (1), ipv6 (1)
 > **CLI Commands:** aws (7), find (3)
 > **Warnings:** note that (5)
@@ -4208,8 +4166,7 @@ created: 2026-05-02
 > **Analogies:** for example (2), just like (1)
 > **Cross-References:** in the next (1)
 
-#### Understand Route 53 alias
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/understand-route-53-alias?u=76281980)
+#### [Understand Route 53 alias](https://www.linkedin.com/learning/aws-networking-14125632/understand-route-53-alias?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4225,7 +4182,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/aws-networking-14125632/understand-route-53-alias?u=76281980&t=30)** An alias can also reference an Elastic Load Balancer.
 >
-> **[0:34](https://www.linkedin.com/learning/aws-networking-14125632/understand-route-53-alias?u=76281980&t=34)** This is useful if you are fronting multiple EC2 instances with an ELB.
+> **[0:34](https://www.linkedin.com/learning/aws-networking-14125632/understand-route-53-alias?u=76281980&t=34)** This is useful if you are fronting multiple [[Amazon EC2|EC2]] instances with an ELB.
 >
 > **[0:39](https://www.linkedin.com/learning/aws-networking-14125632/understand-route-53-alias?u=76281980&t=39)** You can make application-level changes, alter your availability zone strategy, or incorporate auto-scaling groups to meet elastic demand without worrying about having to reconfigure DNS.
 >
@@ -4241,7 +4198,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/aws-networking-14125632/understand-route-53-alias?u=76281980&t=90)** While I have a bunch of buckets in here, I'm going to filter on SBN Demo and open that bucket.
 >
-> **[1:35](https://www.linkedin.com/learning/aws-networking-14125632/understand-route-53-alias?u=76281980&t=95)** Notice that this bucket contains an index.html file as well as an s404.html file.
+> **[1:35](https://www.linkedin.com/learning/aws-networking-14125632/understand-route-53-alias?u=76281980&t=95)** Notice that this bucket contains an index.[[HTML]] file as well as an s404.html file.
 >
 > **[1:43](https://www.linkedin.com/learning/aws-networking-14125632/understand-route-53-alias?u=76281980&t=103)** Clicking on the link for the s404.html file opens its page, and clicking on the object URL at the bottom shows that it contains a simple error message.
 >
@@ -4255,7 +4212,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (4), [[HTML]] (4), aws (3), feature (1), [[Amazon EC2|Ec2]] (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** dns (4), aws (3), url (2), ec2 (1), elb (1)
 > **CLI Commands:** aws (3), make (2)
 > **File Paths:** index.html (2), s404.html (2)
@@ -4264,8 +4221,7 @@ created: 2026-05-02
 > **Definitions:** is called (1), is an  (1)
 > **URLs:** [sbndemo.org](https://sbndemo.org) (1)
 
-#### Configure Route 53 alias
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-53-alias?u=76281980)
+#### [Configure Route 53 alias](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-53-alias?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4281,7 +4237,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-53-alias?u=76281980&t=22)** We left off inside the [sbndemo.org](https://sbndemo.org) bucket.
 >
-> **[0:26](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-53-alias?u=76281980&t=26)** The first thing I need to do, is make sure that the index.html and the s404.html, are both publicly available.
+> **[0:26](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-53-alias?u=76281980&t=26)** The first thing I need to do, is make sure that the index.[[HTML]] and the s404.html, are both publicly available.
 >
 > **[0:36](https://www.linkedin.com/learning/aws-networking-14125632/configure-route-53-alias?u=76281980&t=36)** So, I select both of them and then choose the make public option from the actions menu.
 >
@@ -4351,7 +4307,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), aws (3), next (1), management (1), dns (1)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **CLI Commands:** make (4), aws (3)
 > **File Paths:** index.html (2), s404.html (2)
 > **URLs:** [sbndemo.org](https://sbndemo.org) (4)
@@ -4360,8 +4316,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2), configure (1)
 > **Definitions:** is a  (1), refers to (1)
 
-#### Understand private DNS
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/understand-private-dns?u=76281980)
+#### [Understand private DNS](https://www.linkedin.com/learning/aws-networking-14125632/understand-private-dns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4393,15 +4348,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), dns (5), feature (1), next (1)
 > **Env Vars:** dns (5), vpc (5)
 > **Prerequisites:** configure (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore a private DNS scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-private-dns-scenario?u=76281980)
+#### [Explore a private DNS scenario](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-private-dns-scenario?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4411,15 +4364,15 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-private-dns-scenario?u=76281980&t=6)** I want to change [sbndemo.org](https://sbndemo.org).
 >
-> **[0:08](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-private-dns-scenario?u=76281980&t=8)** Replacing my static S3 site with a WordPress blog.
+> **[0:08](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-private-dns-scenario?u=76281980&t=8)** Replacing my static S3 site with a [[WordPress]] blog.
 >
 > **[0:12](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-private-dns-scenario?u=76281980&t=12)** Let's go into the console and see how this can be accomplished.
 >
-> **[0:15](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-private-dns-scenario?u=76281980&t=15)** Here I am at the EC2 dashboard where I can see I have two running instances.
+> **[0:15](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-private-dns-scenario?u=76281980&t=15)** Here I am at the [[Amazon EC2|EC2]] dashboard where I can see I have two running instances.
 >
 > **[0:20](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-private-dns-scenario?u=76281980&t=20)** Clicking on the Running Instances link shows me a little bit more detail about the instances themselves.
 >
-> **[0:27](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-private-dns-scenario?u=76281980&t=27)** One is my WordPress development environment and the other is a Windows Testbox.
+> **[0:27](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-private-dns-scenario?u=76281980&t=27)** One is my [[Wordpress Development]] environment and the other is a [[Windows]] Testbox.
 >
 > **[0:33](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-private-dns-scenario?u=76281980&t=33)** Looking at the details for the WordPress instance, I see it has a private IP address of 10.0.0.26 and no public IP address.
 >
@@ -4477,7 +4430,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (6), [[Windows]] (6), [[Amazon EC2|Ec2]] (1), [[Wordpress Development]] (1), dns (1)
+> **Frameworks & Libraries:** [[WordPress]] (6), [[Windows]] (6), [[Amazon EC2|Ec2]] (1), [[Wordpress Development]] (1)
 > **Env Vars:** vpc (4), ec2 (1), rdp (1), dns (1)
 > **Warnings:** note that (3), warning (1)
 > **URLs:** [sbndemo.org](https://sbndemo.org) (3)
@@ -4486,8 +4439,7 @@ created: 2026-05-02
 > **Versions:** 10.0.0 (1)
 > **UI Navigation:** select the (1)
 
-#### Configure private DNS
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/configure-private-dns?u=76281980)
+#### [Configure private DNS](https://www.linkedin.com/learning/aws-networking-14125632/configure-private-dns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4529,7 +4481,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/aws-networking-14125632/configure-private-dns?u=76281980&t=94)** Now that we have created a private hosted zone, we need to create a record set.
 >
-> **[1:38](https://www.linkedin.com/learning/aws-networking-14125632/configure-private-dns?u=76281980&t=98)** Let's go ahead and create an A record that points to the internal IP address of the WordPress instance.
+> **[1:38](https://www.linkedin.com/learning/aws-networking-14125632/configure-private-dns?u=76281980&t=98)** Let's go ahead and create an A record that points to the internal IP address of the [[WordPress]] instance.
 >
 > **[1:46](https://www.linkedin.com/learning/aws-networking-14125632/configure-private-dns?u=76281980&t=106)** To get started, I click the blue create record set button.
 >
@@ -4541,13 +4493,13 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/aws-networking-14125632/configure-private-dns?u=76281980&t=125)** Back in the Route 53 tab, I simply paste that into the value section.
 >
-> **[2:10](https://www.linkedin.com/learning/aws-networking-14125632/configure-private-dns?u=76281980&t=130)** While there are a variety of routing policy options, it's simple that I want.
+> **[2:10](https://www.linkedin.com/learning/aws-networking-14125632/configure-private-dns?u=76281980&t=130)** While there are a variety of [[Routing]] policy options, it's simple that I want.
 >
 > **[2:16](https://www.linkedin.com/learning/aws-networking-14125632/configure-private-dns?u=76281980&t=136)** Okay, everything looks good here.
 >
 > **[2:19](https://www.linkedin.com/learning/aws-networking-14125632/configure-private-dns?u=76281980&t=139)** So I click the blue create button.
 >
-> **[2:21](https://www.linkedin.com/learning/aws-networking-14125632/configure-private-dns?u=76281980&t=141)** Now, let's go back to the windows test box and validate that that configuration worked.
+> **[2:21](https://www.linkedin.com/learning/aws-networking-14125632/configure-private-dns?u=76281980&t=141)** Now, let's go back to the [[Windows]] test box and validate that that configuration worked.
 >
 > **[2:27](https://www.linkedin.com/learning/aws-networking-14125632/configure-private-dns?u=76281980&t=147)** Here, we have the IP address, which resolves to the blog.
 >
@@ -4565,13 +4517,13 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/aws-networking-14125632/configure-private-dns?u=76281980&t=182)** There you have it.
 >
-> **[3:03](https://www.linkedin.com/learning/aws-networking-14125632/configure-private-dns?u=76281980&t=183)** Production users have not been affected, while I can fully simulate the new sites user experience from within the confines of my VPC.
+> **[3:03](https://www.linkedin.com/learning/aws-networking-14125632/configure-private-dns?u=76281980&t=183)** Production users have not been affected, while I can fully simulate the new sites [[User Experience (UX)|user experience]] from within the confines of my VPC.
 >
 > **[3:12](https://www.linkedin.com/learning/aws-networking-14125632/configure-private-dns?u=76281980&t=192)** When I have finished my internal testing, I can easily assign an elastic IP to the WordPress instance and update the DNS entry for my public zone.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (4), [[WordPress]] (4), aws (1), next (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), [[Routing]] (1), [[Windows]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** vpc (9), dns (4), aws (1)
 > **URLs:** [sbndemo.org](https://sbndemo.org) (4)
 > **Cross-References:** go back to (2)
@@ -4580,8 +4532,7 @@ created: 2026-05-02
 > **UI Navigation:** dropdown (1)
 > **Warnings:** note that (1)
 
-#### Understand Elastic IP addresses
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/understand-elastic-ip-addresses?u=76281980)
+#### [Understand Elastic IP addresses](https://www.linkedin.com/learning/aws-networking-14125632/understand-elastic-ip-addresses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4589,7 +4540,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/aws-networking-14125632/understand-elastic-ip-addresses?u=76281980&t=8)** Let's explore some of the useful characteristics of an elastic IP or EIP.
 >
-> **[0:13](https://www.linkedin.com/learning/aws-networking-14125632/understand-elastic-ip-addresses?u=76281980&t=13)** An elastic IP is a static IP address that can be pointed to an EC2 instance.
+> **[0:13](https://www.linkedin.com/learning/aws-networking-14125632/understand-elastic-ip-addresses?u=76281980&t=13)** An elastic IP is a static IP address that can be pointed to an [[Amazon EC2|EC2]] instance.
 >
 > **[0:19](https://www.linkedin.com/learning/aws-networking-14125632/understand-elastic-ip-addresses?u=76281980&t=19)** You can move an EIP from one instance to another.
 >
@@ -4629,7 +4580,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), [[Amazon EC2|Ec2]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** eip (8), aws (4), sdn (3), ec2 (1)
 > **CLI Commands:** aws (4), make (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -4637,12 +4588,11 @@ created: 2026-05-02
 > **Warnings:** note that (1), caveat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Elastic IP and Route 53
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/use-elastic-ip-and-route-53?u=76281980)
+#### [Use Elastic IP and Route 53](https://www.linkedin.com/learning/aws-networking-14125632/use-elastic-ip-and-route-53?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-networking-14125632/use-elastic-ip-and-route-53?u=76281980&t=0)** - [Instructor] Now that we understand what an Elastic IP is, let's use one in concert with Route 53 to make my WordPress site public.
+> **[0:00](https://www.linkedin.com/learning/aws-networking-14125632/use-elastic-ip-and-route-53?u=76281980&t=0)** - [Instructor] Now that we understand what an Elastic IP is, let's use one in concert with Route 53 to make my [[WordPress]] site public.
 >
 > **[0:09](https://www.linkedin.com/learning/aws-networking-14125632/use-elastic-ip-and-route-53?u=76281980&t=9)** Consider [sbndemo.org](https://sbndemo.org)'s public status.
 >
@@ -4724,7 +4674,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (7), dns (2), aws (1), [[Security]] (1), management (1)
+> **Frameworks & Libraries:** [[WordPress]] (7)
 > **Env Vars:** eip (6), dns (2), aws (1)
 > **URLs:** [sbndemo.org](https://sbndemo.org) (7)
 > **CLI Commands:** make (4), aws (1)
@@ -4738,8 +4688,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand CloudFront
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/understand-cloudfront?u=76281980)
+#### [Understand CloudFront](https://www.linkedin.com/learning/aws-networking-14125632/understand-cloudfront?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4791,7 +4740,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/aws-networking-14125632/understand-cloudfront?u=76281980&t=192)** To that end, CloudFront can be used with Lambda at the edge to run functions as close to your users as possible as.
 >
-> **[3:21](https://www.linkedin.com/learning/aws-networking-14125632/understand-cloudfront?u=76281980&t=201)** As expected, CloudFront has deep integration points with other AWS services, including EC2 and Certificate Manager.
+> **[3:21](https://www.linkedin.com/learning/aws-networking-14125632/understand-cloudfront?u=76281980&t=201)** As expected, CloudFront has deep integration points with other AWS services, including [[Amazon EC2|EC2]] and Certificate Manager.
 >
 > **[3:31](https://www.linkedin.com/learning/aws-networking-14125632/understand-cloudfront?u=76281980&t=211)** As you will see, getting things up and running within the AWS ecosystem is relatively straightforward.
 >
@@ -4827,11 +4776,11 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/aws-networking-14125632/understand-cloudfront?u=76281980&t=313)** When distributing content at scale analyzing logs can provide valuable insights about the people you serve.
 >
-> **[5:20](https://www.linkedin.com/learning/aws-networking-14125632/understand-cloudfront?u=76281980&t=320)** You can get logs delivered to an S3 bucket, or if you have the need for real-time insight, you can have logs pushed to a consensus data stream at an additional cost.
+> **[5:20](https://www.linkedin.com/learning/aws-networking-14125632/understand-cloudfront?u=76281980&t=320)** You can get logs delivered to an S3 bucket, or if you have the need for [[Real-Time]] insight, you can have logs pushed to a consensus data stream at an additional cost.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), web (3), product (1), [[Security]] (1), web application (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (1), [[Real-Time]] (1)
 > **Env Vars:** aws (7), cdn (2), ec2 (1)
 > **CLI Commands:** aws (7)
 > **Definitions:** is a  (3), means that (1), is an  (1)
@@ -4840,8 +4789,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create CloudFront distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/create-cloudfront-distribution?u=76281980)
+#### [Create CloudFront distribution](https://www.linkedin.com/learning/aws-networking-14125632/create-cloudfront-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4895,7 +4843,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/aws-networking-14125632/create-cloudfront-distribution?u=76281980&t=157)** Since that's not what I'm doing, I'm going to go ahead and accept the default value as no.
 >
-> **[2:43](https://www.linkedin.com/learning/aws-networking-14125632/create-cloudfront-distribution?u=76281980&t=163)** One thing that's worth noting is that if you use an AWS service like S3 or EC2 as your origin, data transfer from that service into CloudFront is at no cost.
+> **[2:43](https://www.linkedin.com/learning/aws-networking-14125632/create-cloudfront-distribution?u=76281980&t=163)** One thing that's worth noting is that if you use an AWS service like S3 or [[Amazon EC2|EC2]] as your origin, data transfer from that service into CloudFront is at no cost.
 >
 > **[2:56](https://www.linkedin.com/learning/aws-networking-14125632/create-cloudfront-distribution?u=76281980&t=176)** Note that it is possible to create Lambda function associations here.
 >
@@ -4905,7 +4853,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/aws-networking-14125632/create-cloudfront-distribution?u=76281980&t=191)** So I'm going to skip that step.
 >
-> **[3:13](https://www.linkedin.com/learning/aws-networking-14125632/create-cloudfront-distribution?u=76281980&t=193)** I also don't need real-time logs.
+> **[3:13](https://www.linkedin.com/learning/aws-networking-14125632/create-cloudfront-distribution?u=76281980&t=193)** I also don't need [[Real-Time]] logs.
 >
 > **[3:16](https://www.linkedin.com/learning/aws-networking-14125632/create-cloudfront-distribution?u=76281980&t=196)** So I'm just going to scroll on down to the distribution setting section.
 >
@@ -4925,11 +4873,11 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/aws-networking-14125632/create-cloudfront-distribution?u=76281980&t=256)** One thing that's worth looking at is the default route object.
 >
-> **[4:21](https://www.linkedin.com/learning/aws-networking-14125632/create-cloudfront-distribution?u=76281980&t=261)** In this case, I do have an index.HTML file in my S3 bucket.
+> **[4:21](https://www.linkedin.com/learning/aws-networking-14125632/create-cloudfront-distribution?u=76281980&t=261)** In this case, I do have an index.[[HTML]] file in my S3 bucket.
 >
 > **[4:27](https://www.linkedin.com/learning/aws-networking-14125632/create-cloudfront-distribution?u=76281980&t=267)** So I'm going to specify that here.
 >
-> **[4:30](https://www.linkedin.com/learning/aws-networking-14125632/create-cloudfront-distribution?u=76281980&t=270)** Let's take a quick look at the rest of the contents of that bucket now.
+> **[4:30](https://www.linkedin.com/learning/aws-networking-14125632/create-cloudfront-distribution?u=76281980&t=270)** Let's take a quick look at the [[Representational State Transfer (REST)|rest]] of the contents of that bucket now.
 >
 > **[4:36](https://www.linkedin.com/learning/aws-networking-14125632/create-cloudfront-distribution?u=76281980&t=276)** To do so I simply type S3 into services and open that link in a new browser tab.
 >
@@ -4971,7 +4919,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), next (3), [[HTML]] (2), [[Search]] (1), [[Amazon EC2|Ec2]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Amazon EC2|Ec2]] (1), [[Real-Time]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** aws (4), html (2), sbn (2), ec2 (1), acl (1)
 > **CLI Commands:** aws (4), find (1)
 > **UI Navigation:** scroll down (2), click on (1), dropdown (1), select the (1)
@@ -4980,8 +4928,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2), is an  (1)
 > **File Paths:** index.html (1)
 
-#### Explore CloudFront distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/explore-cloudfront-distribution?u=76281980)
+#### [Explore CloudFront distribution](https://www.linkedin.com/learning/aws-networking-14125632/explore-cloudfront-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4989,7 +4936,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/aws-networking-14125632/explore-cloudfront-distribution?u=76281980&t=6)** Back in the AWS Web Console, we can see that the Status column about this CloudFront distribution has changed to Deployed, simply copying the CloudFront domain name, let's test it out in a new browser tab.
 >
-> **[0:22](https://www.linkedin.com/learning/aws-networking-14125632/explore-cloudfront-distribution?u=76281980&t=22)** Note that I didn't specify anything, so CloudFront defaulted to my index.html page.
+> **[0:22](https://www.linkedin.com/learning/aws-networking-14125632/explore-cloudfront-distribution?u=76281980&t=22)** Note that I didn't specify anything, so CloudFront defaulted to my index.[[HTML]] page.
 >
 > **[0:30](https://www.linkedin.com/learning/aws-networking-14125632/explore-cloudfront-distribution?u=76281980&t=30)** If I wanted to retrieve the image itself, I can simply specify the name of the object in my S3 bucket.
 >
@@ -5029,7 +4976,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), aws (1), web (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Env Vars:** url (2), aws (1), html (1)
 > **UI Navigation:** select the (1), open the (1)
 > **File Paths:** index.html (1)
@@ -5038,14 +4985,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore CloudFront reporting
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/explore-cloudfront-reporting?u=76281980)
+#### [Explore CloudFront reporting](https://www.linkedin.com/learning/aws-networking-14125632/explore-cloudfront-reporting?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-networking-14125632/explore-cloudfront-reporting?u=76281980&t=0)** - [Instructor] Now that we have our CloudFront distribution up and running, let's take a look at some of the reporting characteristics and options that are available to us.
 >
-> **[0:10](https://www.linkedin.com/learning/aws-networking-14125632/explore-cloudfront-reporting?u=76281980&t=10)** To do so, from the CloudFront dashboard, I navigate to the reports and analytics section in the left-hand nav, and choose cache statistics.
+> **[0:10](https://www.linkedin.com/learning/aws-networking-14125632/explore-cloudfront-reporting?u=76281980&t=10)** To do so, from the CloudFront dashboard, I navigate to the reports and analytics section in the left-hand nav, and choose cache [[Statistics]].
 >
 > **[0:21](https://www.linkedin.com/learning/aws-networking-14125632/explore-cloudfront-reporting?u=76281980&t=21)** The first thing I want to do, is specify the name of the distribution I'm working with.
 >
@@ -5055,11 +5001,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/aws-networking-14125632/explore-cloudfront-reporting?u=76281980&t=38)** However, if we look at the total statistics, we see that we're hitting the cache quite a bit.
 >
-> **[0:46](https://www.linkedin.com/learning/aws-networking-14125632/explore-cloudfront-reporting?u=76281980&t=46)** The reason we have so many hits on our cache is that I spun up a bunch of EC2 instances distributed around the globe, and I am simply issuing a curl command to retrieve objects from this CloudFront distribution.
+> **[0:46](https://www.linkedin.com/learning/aws-networking-14125632/explore-cloudfront-reporting?u=76281980&t=46)** The reason we have so many hits on our cache is that I spun up a bunch of [[Amazon EC2|EC2]] instances distributed around the globe, and I am simply issuing a curl command to retrieve objects from this CloudFront distribution.
 >
 > **[1:03](https://www.linkedin.com/learning/aws-networking-14125632/explore-cloudfront-reporting?u=76281980&t=63)** Let's update the popular objects report.
 >
-> **[1:06](https://www.linkedin.com/learning/aws-networking-14125632/explore-cloudfront-reporting?u=76281980&t=66)** Here, we can see that both the mountain scene and the index HTML are getting by far the most requests.
+> **[1:06](https://www.linkedin.com/learning/aws-networking-14125632/explore-cloudfront-reporting?u=76281980&t=66)** Here, we can see that both the mountain scene and the index [[HTML]] are getting by far the most requests.
 >
 > **[1:15](https://www.linkedin.com/learning/aws-networking-14125632/explore-cloudfront-reporting?u=76281980&t=75)** While there are just a handful of misses, let's take a look at the right-most two columns.
 >
@@ -5113,7 +5059,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (2), web (2), [[Analytics]] (1), [[Amazon EC2|Ec2]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Amazon EC2|Ec2]] (1), [[HTML]] (1)
 > **CLI Commands:** curl (3)
 > **Env Vars:** ec2 (1), html (1), http (1)
 > **UI Navigation:** navigate to (1), select the (1)
@@ -5122,8 +5068,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Restrict geographic access in CloudFront
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/restrict-geographic-access-in-cloudfront?u=76281980)
+#### [Restrict geographic access in CloudFront](https://www.linkedin.com/learning/aws-networking-14125632/restrict-geographic-access-in-cloudfront?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5135,7 +5080,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/aws-networking-14125632/restrict-geographic-access-in-cloudfront?u=76281980&t=26)** What I want to do is go ahead and restrict access to block traffic from Sweden.
 >
-> **[0:33](https://www.linkedin.com/learning/aws-networking-14125632/restrict-geographic-access-in-cloudfront?u=76281980&t=33)** First, let's take a quick look at what is generating that traffic in the search for services and features bar I type EC2.
+> **[0:33](https://www.linkedin.com/learning/aws-networking-14125632/restrict-geographic-access-in-cloudfront?u=76281980&t=33)** First, let's take a quick look at what is generating that traffic in the search for services and features bar I type [[Amazon EC2|EC2]].
 >
 > **[0:43](https://www.linkedin.com/learning/aws-networking-14125632/restrict-geographic-access-in-cloudfront?u=76281980&t=43)** And then I right click the EC2 virtual servers in the cloud link and open it in a new tab.
 >
@@ -5161,7 +5106,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/aws-networking-14125632/restrict-geographic-access-in-cloudfront?u=76281980&t=107)** Issuing a tail command on the curl log will show the most recent response that curl is getting every time it hits that CloudFront distribution.
 >
-> **[1:57](https://www.linkedin.com/learning/aws-networking-14125632/restrict-geographic-access-in-cloudfront?u=76281980&t=117)** In this case, it's retrieving the HTML, which makes sense.
+> **[1:57](https://www.linkedin.com/learning/aws-networking-14125632/restrict-geographic-access-in-cloudfront?u=76281980&t=117)** In this case, it's retrieving the [[HTML]], which makes sense.
 >
 > **[2:02](https://www.linkedin.com/learning/aws-networking-14125632/restrict-geographic-access-in-cloudfront?u=76281980&t=122)** Now let's go ahead and block traffic from Sweden.
 >
@@ -5221,7 +5166,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4), [[Amazon EC2|Ec2]] (3), [[HTML]] (3), [[Search]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[HTML]] (3)
 > **Env Vars:** ec2 (3), html (3)
 > **CLI Commands:** curl (5)
 > **Warnings:** note that (4)
@@ -5230,8 +5175,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delete CloudFront distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/delete-cloudfront-distribution?u=76281980)
+#### [Delete CloudFront distribution](https://www.linkedin.com/learning/aws-networking-14125632/delete-cloudfront-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5271,7 +5215,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (1), web (1)
 > **UI Navigation:** navigate to (1), select the (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
@@ -5280,8 +5223,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand Global Accelerator
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/understand-global-accelerator?u=76281980)
+#### [Understand Global Accelerator](https://www.linkedin.com/learning/aws-networking-14125632/understand-global-accelerator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5297,7 +5239,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/aws-networking-14125632/understand-global-accelerator?u=76281980&t=35)** When you create a Global Accelerator, you're assigned two static IP addresses, you can then direct endpoint traffic to these two IP addresses as opposed to the service that you are using with Global Accelerator.
 >
-> **[0:50](https://www.linkedin.com/learning/aws-networking-14125632/understand-global-accelerator?u=76281980&t=50)** As expected Global Accelerator works well with other AWS services, including load balancers, elastic IP addresses, and EC2 instances.
+> **[0:50](https://www.linkedin.com/learning/aws-networking-14125632/understand-global-accelerator?u=76281980&t=50)** As expected Global Accelerator works well with other AWS services, including load balancers, elastic IP addresses, and [[Amazon EC2|EC2]] instances.
 >
 > **[1:00](https://www.linkedin.com/learning/aws-networking-14125632/understand-global-accelerator?u=76281980&t=60)** Global Accelerator is comprised of a number of components.
 >
@@ -5349,7 +5291,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (7), aws (7), data (3), application (2), [[Amazon EC2|Ec2]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** aws (7), ec2 (2)
 > **CLI Commands:** aws (7)
 > **Definitions:** is a  (2)
@@ -5357,14 +5299,13 @@ created: 2026-05-02
 > **Warnings:** note that (1), be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore a Global Accelerator scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-global-accelerator-scenario?u=76281980)
+#### [Explore a Global Accelerator scenario](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-global-accelerator-scenario?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-global-accelerator-scenario?u=76281980&t=0)** - [Instructor] With an understanding of what a global accelerator is and what it can do, consider the following scenario.
 >
-> **[0:06](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-global-accelerator-scenario?u=76281980&t=6)** You are operating an application running on an EC2 server in the Mumbai ap-south-1 Region.
+> **[0:06](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-global-accelerator-scenario?u=76281980&t=6)** You are operating an application running on an [[Amazon EC2|EC2]] server in the Mumbai ap-south-1 Region.
 >
 > **[0:14](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-global-accelerator-scenario?u=76281980&t=14)** To give yourself flexibility, you decide to put an elastic IP in front of the server itself.
 >
@@ -5378,7 +5319,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-global-accelerator-scenario?u=76281980&t=53)** It is possible to run into unforeseen congestion and delays, which are completely not associated with your service.
 >
-> **[1:02](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-global-accelerator-scenario?u=76281980&t=62)** This can add unwanted latency, negatively impacting the user experience.
+> **[1:02](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-global-accelerator-scenario?u=76281980&t=62)** This can add unwanted latency, negatively impacting the [[User Experience (UX)|user experience]].
 >
 > **[1:07](https://www.linkedin.com/learning/aws-networking-14125632/explore-a-global-accelerator-scenario?u=76281980&t=67)** To provide a consistent path to your service, you decide to implement a global accelerator.
 >
@@ -5390,14 +5331,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), application (1), [[Amazon EC2|Ec2]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** aws (3), ec2 (1)
 > **CLI Commands:** aws (3)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure Global Accelerator
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/configure-global-accelerator?u=76281980)
+#### [Configure Global Accelerator](https://www.linkedin.com/learning/aws-networking-14125632/configure-global-accelerator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5407,7 +5347,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/aws-networking-14125632/configure-global-accelerator?u=76281980&t=11)** First, let's verify my web server.
 >
-> **[0:14](https://www.linkedin.com/learning/aws-networking-14125632/configure-global-accelerator?u=76281980&t=14)** I can do that by navigating to EC2.
+> **[0:14](https://www.linkedin.com/learning/aws-networking-14125632/configure-global-accelerator?u=76281980&t=14)** I can do that by navigating to [[Amazon EC2|EC2]].
 >
 > **[0:17](https://www.linkedin.com/learning/aws-networking-14125632/configure-global-accelerator?u=76281980&t=17)** Clicking on the EC2 link takes me to the EC2 management console.
 >
@@ -5453,7 +5393,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/aws-networking-14125632/configure-global-accelerator?u=76281980&t=133)** After typing that in, I have the option of selecting an accelerator type.
 >
-> **[2:18](https://www.linkedin.com/learning/aws-networking-14125632/configure-global-accelerator?u=76281980&t=138)** In this case, I want to go with the standard routing, which automatically directs traffic to the nearest, healthiest endpoint.
+> **[2:18](https://www.linkedin.com/learning/aws-networking-14125632/configure-global-accelerator?u=76281980&t=138)** In this case, I want to go with the standard [[Routing]], which automatically directs traffic to the nearest, healthiest endpoint.
 >
 > **[2:27](https://www.linkedin.com/learning/aws-networking-14125632/configure-global-accelerator?u=76281980&t=147)** With those configurations specified, I click the "Next" button to proceed to the following screen.
 >
@@ -5501,7 +5441,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), next (4), traffic (3), management (2), application (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), [[Routing]] (1)
 > **Env Vars:** ec2 (6), aws (1), http (1), tcp (1), eip (1)
 > **UI Navigation:** dropdown (2), click on (1), select the (1), open the (1)
 > **Warnings:** note that (4), be aware (1)
@@ -5510,8 +5450,7 @@ created: 2026-05-02
 > **Versions:** 15.207.169 (1)
 > **Cross-References:** in the next (1)
 
-#### Explore Global Accelerator
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/explore-global-accelerator?u=76281980)
+#### [Explore Global Accelerator](https://www.linkedin.com/learning/aws-networking-14125632/explore-global-accelerator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5543,7 +5482,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/aws-networking-14125632/explore-global-accelerator?u=76281980&t=86)** I'll add a sleep 1, so I hit that page every second.
 >
-> **[1:31](https://www.linkedin.com/learning/aws-networking-14125632/explore-global-accelerator?u=76281980&t=91)** Here, we can see the HTML that's returned as well as the timing information.
+> **[1:31](https://www.linkedin.com/learning/aws-networking-14125632/explore-global-accelerator?u=76281980&t=91)** Here, we can see the [[HTML]] that's returned as well as the timing information.
 >
 > **[1:36](https://www.linkedin.com/learning/aws-networking-14125632/explore-global-accelerator?u=76281980&t=96)** Note that it varies between 0.5 and 0.6 seconds.
 >
@@ -5593,7 +5532,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), [[HTML]] (1), management (1), traffic (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Versions:** 0.5 (3), 0.4 (2), 0.6 (1), 1.5 (1), 1.6 (1)
 > **Tools:** terminal (3)
 > **UI Navigation:** select the (1), click on (1)
@@ -5602,8 +5541,7 @@ created: 2026-05-02
 > **Env Vars:** html (1)
 > **Analogies:** similar to (1)
 
-#### Delete Global Accelerator
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/delete-global-accelerator?u=76281980)
+#### [Delete Global Accelerator](https://www.linkedin.com/learning/aws-networking-14125632/delete-global-accelerator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5617,7 +5555,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/aws-networking-14125632/delete-global-accelerator?u=76281980&t=28)** Note that you get a warning indicating that the static IP addresses provided by AWS assigned to this accelerator will be lost.
 >
-> **[0:37](https://www.linkedin.com/learning/aws-networking-14125632/delete-global-accelerator?u=76281980&t=37)** It's kind of like replacing the public IP on an EC2 server with an elastic IP.
+> **[0:37](https://www.linkedin.com/learning/aws-networking-14125632/delete-global-accelerator?u=76281980&t=37)** It's kind of like replacing the public IP on an [[Amazon EC2|EC2]] server with an elastic IP.
 >
 > **[0:43](https://www.linkedin.com/learning/aws-networking-14125632/delete-global-accelerator?u=76281980&t=43)** You can't get it back.
 >
@@ -5641,39 +5579,38 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), traffic (1), aws (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2)
 > **Warnings:** note that (3), warning (1)
 > **Env Vars:** ec2 (2), aws (1)
 > **CLI Commands:** aws (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand API Gateway
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/understand-api-gateway?u=76281980)
+#### [Understand API Gateway](https://www.linkedin.com/learning/aws-networking-14125632/understand-api-gateway?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-networking-14125632/understand-api-gateway?u=76281980&t=0)** - [Instructor] If you have application programming interfaces that you want to make broadly accessible, you'll want to take a close look at how the AWS API Gateway can help you with everything from version management to performance.
+> **[0:00](https://www.linkedin.com/learning/aws-networking-14125632/understand-api-gateway?u=76281980&t=0)** - [Instructor] If you have [[Application Programming Interfaces (API)|application programming interfaces]] that you want to make broadly accessible, you'll want to take a close look at how the AWS API Gateway can help you with everything from version management to performance.
 >
 > **[0:15](https://www.linkedin.com/learning/aws-networking-14125632/understand-api-gateway?u=76281980&t=15)** There are a variety of technologies that can be used to develop and deploy application programming interfaces.
 >
 > **[0:22](https://www.linkedin.com/learning/aws-networking-14125632/understand-api-gateway?u=76281980&t=22)** With API gateway, you can homogenize access regardless of the technology that underpins the APIs themselves.
 >
-> **[0:31](https://www.linkedin.com/learning/aws-networking-14125632/understand-api-gateway?u=76281980&t=31)** Suppose you have developers who are using the Elastic Container Service to facilitate HTTP API development.
+> **[0:31](https://www.linkedin.com/learning/aws-networking-14125632/understand-api-gateway?u=76281980&t=31)** Suppose you have developers who are using the Elastic Container Service to facilitate HTTP [[API Development]].
 >
 > **[0:39](https://www.linkedin.com/learning/aws-networking-14125632/understand-api-gateway?u=76281980&t=39)** You can use API gateway to route inbound requests to your ECS endpoint.
 >
 > **[0:45](https://www.linkedin.com/learning/aws-networking-14125632/understand-api-gateway?u=76281980&t=45)** That said, please note that requesters must come in over HTTPS in order to access an API gateway managed endpoint.
 >
-> **[0:54](https://www.linkedin.com/learning/aws-networking-14125632/understand-api-gateway?u=76281980&t=54)** Similarly, you can use API gateway to front REST APIs that have been developed in a serverless manner using Lambda.
+> **[0:54](https://www.linkedin.com/learning/aws-networking-14125632/understand-api-gateway?u=76281980&t=54)** Similarly, you can use API gateway to front [[Representational State Transfer (REST)|REST]] APIs that have been developed in a serverless manner using Lambda.
 >
-> **[1:03](https://www.linkedin.com/learning/aws-networking-14125632/understand-api-gateway?u=76281980&t=63)** If you use Elastic Beanstalk to manage your infrastructure or, run your own EC2 instances to provide WebSocket APIs, these deployment models are supported by API gateway.
+> **[1:03](https://www.linkedin.com/learning/aws-networking-14125632/understand-api-gateway?u=76281980&t=63)** If you use Elastic Beanstalk to manage your infrastructure or, run your own [[Amazon EC2|EC2]] instances to provide [[WebSocket]] APIs, these deployment models are supported by API gateway.
 >
 > **[1:17](https://www.linkedin.com/learning/aws-networking-14125632/understand-api-gateway?u=76281980&t=77)** While all of these capabilities are useful, API gateway also has the ability to restrict access based on rate limits, authorization, and access controls.
 >
 > **[1:29](https://www.linkedin.com/learning/aws-networking-14125632/understand-api-gateway?u=76281980&t=89)** It can also be considered a fault tolerant component with the ability to accommodate thousands of concurrent requests.
 >
-> **[1:37](https://www.linkedin.com/learning/aws-networking-14125632/understand-api-gateway?u=76281980&t=97)** From a payload perspective, API gateway can support query string parameters, request headers, JSON, XML, and more.
+> **[1:37](https://www.linkedin.com/learning/aws-networking-14125632/understand-api-gateway?u=76281980&t=97)** From a payload perspective, API gateway can support query string parameters, request headers, [[JSON]], XML, and more.
 >
 > **[1:48](https://www.linkedin.com/learning/aws-networking-14125632/understand-api-gateway?u=76281980&t=108)** Developing, deploying, monitoring, and securing APIs is a deep and complicated set of topics.
 >
@@ -5693,7 +5630,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/aws-networking-14125632/understand-api-gateway?u=76281980&t=157)** Since APIs are simply the encapsulation of a piece of business logic, it is quite likely that they will change over time, to that end, you have the ability to specify stages in API gateway.
 >
-> **[2:50](https://www.linkedin.com/learning/aws-networking-14125632/understand-api-gateway?u=76281980&t=170)** For example, you can use stages to direct incoming requests to your development, quality assurance, or production APIs.
+> **[2:50](https://www.linkedin.com/learning/aws-networking-14125632/understand-api-gateway?u=76281980&t=170)** For example, you can use stages to direct incoming requests to your development, [[Quality Assurance]], or production APIs.
 >
 > **[3:00](https://www.linkedin.com/learning/aws-networking-14125632/understand-api-gateway?u=76281980&t=180)** Depending on the scale at which you operate, it may make sense to use API gateways caching feature to improve overall API performance.
 >
@@ -5707,7 +5644,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (19), aws (2), [[Representational State Transfer (REST)|Rest]] (2), application (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Application Programming Interfaces (API)|Application programming interfaces]] (1), [[API Development]] (1), [[Amazon EC2|Ec2]] (1), [[WebSocket]] (1)
 > **Env Vars:** api (18), http (2), rest (2), aws (1), ecs (1)
 > **CLI Commands:** make (3), aws (2)
 > **Definitions:** is a  (2), is an  (1)
@@ -5716,8 +5653,7 @@ created: 2026-05-02
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **API Endpoints:** get  (1)
 
-#### Configure API Gateway
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/configure-api-gateway?u=76281980)
+#### [Configure API Gateway](https://www.linkedin.com/learning/aws-networking-14125632/configure-api-gateway?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5727,7 +5663,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/aws-networking-14125632/configure-api-gateway?u=76281980&t=11)** The first thing I want to do is make sure I have an API that I want to front with API gateway.
 >
-> **[0:18](https://www.linkedin.com/learning/aws-networking-14125632/configure-api-gateway?u=76281980&t=18)** I went ahead and wrote a simple API in Python that given a stock ticker will return its current price.
+> **[0:18](https://www.linkedin.com/learning/aws-networking-14125632/configure-api-gateway?u=76281980&t=18)** I went ahead and wrote a simple API in [[Python (Programming Language)|Python]] that given a stock ticker will return its current price.
 >
 > **[0:26](https://www.linkedin.com/learning/aws-networking-14125632/configure-api-gateway?u=76281980&t=26)** Given its simplicity, I chose to deploy it in Lambda.
 >
@@ -5747,7 +5683,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/aws-networking-14125632/configure-api-gateway?u=76281980&t=76)** Therefore I'm going to build an HTTP API.
 >
-> **[1:21](https://www.linkedin.com/learning/aws-networking-14125632/configure-api-gateway?u=76281980&t=81)** Scrolling down, we can see that WebSocket APIs, REST APIs and private REST APIs are also supported.
+> **[1:21](https://www.linkedin.com/learning/aws-networking-14125632/configure-api-gateway?u=76281980&t=81)** Scrolling down, we can see that [[WebSocket]] APIs, [[Representational State Transfer (REST)|REST]] APIs and private REST APIs are also supported.
 >
 > **[1:31](https://www.linkedin.com/learning/aws-networking-14125632/configure-api-gateway?u=76281980&t=91)** In the HTTP API box, I click the build button to proceed.
 >
@@ -5791,7 +5727,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/aws-networking-14125632/configure-api-gateway?u=76281980&t=192)** This takes me to the stage definition screen.
 >
-> **[3:16](https://www.linkedin.com/learning/aws-networking-14125632/configure-api-gateway?u=76281980&t=196)** It is here that I could, for example, configure stages for my development, quality assurance and production APIs.
+> **[3:16](https://www.linkedin.com/learning/aws-networking-14125632/configure-api-gateway?u=76281980&t=196)** It is here that I could, for example, configure stages for my development, [[Quality Assurance]] and production APIs.
 >
 > **[3:24](https://www.linkedin.com/learning/aws-networking-14125632/configure-api-gateway?u=76281980&t=204)** In the interest of simplicity, I'm going to simply go with the default.
 >
@@ -5801,7 +5737,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/aws-networking-14125632/configure-api-gateway?u=76281980&t=221)** I proceed by clicking the Next button.
 >
-> **[3:44](https://www.linkedin.com/learning/aws-networking-14125632/configure-api-gateway?u=76281980&t=224)** This brings me to a review page where I can look at the name of my API, where it's integrated the routing and the stages.
+> **[3:44](https://www.linkedin.com/learning/aws-networking-14125632/configure-api-gateway?u=76281980&t=224)** This brings me to a review page where I can look at the name of my API, where it's integrated the [[Routing]] and the stages.
 >
 > **[3:53](https://www.linkedin.com/learning/aws-networking-14125632/configure-api-gateway?u=76281980&t=233)** Everything looks good here, so I go ahead and click Create.
 >
@@ -5869,7 +5805,7 @@ created: 2026-05-02
 >
 > **[6:41](https://www.linkedin.com/learning/aws-networking-14125632/configure-api-gateway?u=76281980&t=401)** Down below, I have the option of specifying the format in which I want access logging to occur.
 >
-> **[6:48](https://www.linkedin.com/learning/aws-networking-14125632/configure-api-gateway?u=76281980&t=408)** For this demonstration, I'll simply select Json.
+> **[6:48](https://www.linkedin.com/learning/aws-networking-14125632/configure-api-gateway?u=76281980&t=408)** For this demonstration, I'll simply select [[JSON]].
 >
 > **[6:52](https://www.linkedin.com/learning/aws-networking-14125632/configure-api-gateway?u=76281980&t=412)** To complete my login configuration, I click the Save button towards the bottom right side of the screen.
 >
@@ -5877,7 +5813,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (19), next (7), aws (5), [[Search]] (3), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Python (Programming Language)|Python]] (1), [[WebSocket]] (1), [[Quality Assurance]] (1), [[Routing]] (1)
 > **Env Vars:** api (19), aws (5), http (4), arn (4), rest (2)
 > **UI Navigation:** dropdown (4), click on (2), navigate to (1), switch to (1), open the (1)
 > **CLI Commands:** aws (5), make (2), python (1)
@@ -5886,8 +5822,7 @@ created: 2026-05-02
 > **Definitions:** means that (1), is an  (1)
 > **Analogies:** for example (1), imagine (1)
 
-#### Explore API Gateway
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/explore-api-gateway?u=76281980)
+#### [Explore API Gateway](https://www.linkedin.com/learning/aws-networking-14125632/explore-api-gateway?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5911,7 +5846,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/aws-networking-14125632/explore-api-gateway?u=76281980&t=58)** Just like that, I've liberated my Lambda code and made it accessible from the internet.
 >
-> **[1:04](https://www.linkedin.com/learning/aws-networking-14125632/explore-api-gateway?u=76281980&t=64)** Now, suppose I've gotten feedback that indicates that simply having the price in the resultant JSON is insufficient.
+> **[1:04](https://www.linkedin.com/learning/aws-networking-14125632/explore-api-gateway?u=76281980&t=64)** Now, suppose I've gotten feedback that indicates that simply having the price in the resultant [[JSON]] is insufficient.
 >
 > **[1:12](https://www.linkedin.com/learning/aws-networking-14125632/explore-api-gateway?u=76281980&t=72)** My customers also want the ticker symbol.
 >
@@ -5931,7 +5866,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), [[JSON]] (2)
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **Env Vars:** api (7), url (5), json (2)
 > **UI Navigation:** click on (1)
 > **Analogies:** just like (1)
@@ -5939,14 +5874,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (typing) (1)
 
-#### Throttling with API Gateway
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/throttling-with-api-gateway?u=76281980)
+#### [Throttling with API Gateway](https://www.linkedin.com/learning/aws-networking-14125632/throttling-with-api-gateway?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-networking-14125632/throttling-with-api-gateway?u=76281980&t=0)** - [Instructor] Now that we verified our API Gateway is working as intended, let's see how we can protect it with throttling.
 >
-> **[0:09](https://www.linkedin.com/learning/aws-networking-14125632/throttling-with-api-gateway?u=76281980&t=9)** Here I am with two browser tabs open, on the left I have my API Gateway, on the right I have an EC2 instance connect window logged on to an EC2 instance.
+> **[0:09](https://www.linkedin.com/learning/aws-networking-14125632/throttling-with-api-gateway?u=76281980&t=9)** Here I am with two browser tabs open, on the left I have my API Gateway, on the right I have an [[Amazon EC2|EC2]] instance connect window logged on to an EC2 instance.
 >
 > **[0:23](https://www.linkedin.com/learning/aws-networking-14125632/throttling-with-api-gateway?u=76281980&t=23)** The first thing I'm going to do is write a quick loop that will invoke my API every second.
 >
@@ -6006,7 +5940,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (10), [[Amazon EC2|Ec2]] (2), hit (1), traffic (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** api (10), ec2 (2), url (2)
 > **CLI Commands:** curl (3)
 > **UI Navigation:** select the (2), dropdown (1)
@@ -6014,8 +5948,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delete API Gateway
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/delete-api-gateway?u=76281980)
+#### [Delete API Gateway](https://www.linkedin.com/learning/aws-networking-14125632/delete-api-gateway?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6033,7 +5966,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/aws-networking-14125632/delete-api-gateway?u=76281980&t=32)** Since that's exactly what I want to do, I click the delete button relatively quickly and return to the API gateway, default page.
 >
-> **[0:42](https://www.linkedin.com/learning/aws-networking-14125632/delete-api-gateway?u=76281980&t=42)** Note that again, unlike an EC2, I don't see the ghost of API gateways past.
+> **[0:42](https://www.linkedin.com/learning/aws-networking-14125632/delete-api-gateway?u=76281980&t=42)** Note that again, unlike an [[Amazon EC2|EC2]], I don't see the ghost of API gateways past.
 >
 > **[0:49](https://www.linkedin.com/learning/aws-networking-14125632/delete-api-gateway?u=76281980&t=49)** Its history is immediately gone.
 >
@@ -6055,7 +5988,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/aws-networking-14125632/delete-api-gateway?u=76281980&t=108)** Clicking on the name of that log group, I can see the log streams associated with all calls that were made to that gateway.
 >
-> **[1:58](https://www.linkedin.com/learning/aws-networking-14125632/delete-api-gateway?u=76281980&t=118)** Looking at a relatively old entry, I can see the git request that was serviced by my gateway.
+> **[1:58](https://www.linkedin.com/learning/aws-networking-14125632/delete-api-gateway?u=76281980&t=118)** Looking at a relatively old entry, I can see the [[Git]] request that was serviced by my gateway.
 >
 > **[2:09](https://www.linkedin.com/learning/aws-networking-14125632/delete-api-gateway?u=76281980&t=129)** Navigating back to the top, and clicking the newest log stream, I can see a whole bunch of individual events.
 >
@@ -6067,7 +6000,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), [[Amazon EC2|Ec2]] (2), next (1), [[Search]] (1), [[Git]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2), [[Git]] (1)
 > **Env Vars:** api (6), ec2 (2)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** git (1)
@@ -6080,14 +6013,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Troubleshooting connectivity issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/troubleshooting-connectivity-issues?u=76281980)
+#### [Troubleshooting connectivity issues](https://www.linkedin.com/learning/aws-networking-14125632/troubleshooting-connectivity-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/aws-networking-14125632/troubleshooting-connectivity-issues?u=76281980&t=0)** - [Instructor] Now that you know a fair bit about networking in AWS, let's talk about how to troubleshoot connectivity issues.
 >
-> **[0:08](https://www.linkedin.com/learning/aws-networking-14125632/troubleshooting-connectivity-issues?u=76281980&t=8)** Let's start with issues that might prevent you from connecting to an EC2 instance.
+> **[0:08](https://www.linkedin.com/learning/aws-networking-14125632/troubleshooting-connectivity-issues?u=76281980&t=8)** Let's start with issues that might prevent you from connecting to an [[Amazon EC2|EC2]] instance.
 >
 > **[0:14](https://www.linkedin.com/learning/aws-networking-14125632/troubleshooting-connectivity-issues?u=76281980&t=14)** Suppose you are trying to connect to an EC2 instance inside of AWS, but are unable to.
 >
@@ -6141,7 +6073,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (6), [[Security]] (6), aws (4), [[Amazon EC2|Ec2]] (3), api (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3)
 > **Env Vars:** aws (4), ec2 (3), vpc (2), nacl (1), api (1)
 > **CLI Commands:** aws (4), make (3), find (1)
 > **Warnings:** troubleshoot (1), keep in mind (1), be aware (1)
@@ -6150,8 +6082,7 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Troubleshooting scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/challenge-troubleshooting-scenario?u=76281980)
+#### [Challenge: Troubleshooting scenario](https://www.linkedin.com/learning/aws-networking-14125632/challenge-troubleshooting-scenario?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6207,7 +6138,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/aws-networking-14125632/challenge-troubleshooting-scenario?u=76281980&t=143)** In this case, I'm simply going to call it Demo.
 >
-> **[2:27](https://www.linkedin.com/learning/aws-networking-14125632/challenge-troubleshooting-scenario?u=76281980&t=147)** Scrolling down to the parameters section, it is going to launch two EC2 instances.
+> **[2:27](https://www.linkedin.com/learning/aws-networking-14125632/challenge-troubleshooting-scenario?u=76281980&t=147)** Scrolling down to the parameters section, it is going to launch two [[Amazon EC2|EC2]] instances.
 >
 > **[2:33](https://www.linkedin.com/learning/aws-networking-14125632/challenge-troubleshooting-scenario?u=76281980&t=153)** They are going to be of type t2 micro.
 >
@@ -6281,7 +6212,7 @@ created: 2026-05-02
 >
 > **[5:52](https://www.linkedin.com/learning/aws-networking-14125632/challenge-troubleshooting-scenario?u=76281980&t=352)** Clicking back to the CloudFormation tab, I need to copy the value of this SecurityGroup.
 >
-> **[5:58](https://www.linkedin.com/learning/aws-networking-14125632/challenge-troubleshooting-scenario?u=76281980&t=358)** The next thing I need to do is navigate to my command line, either a Windows terminal on a Windows machine, or the terminal on a Mac to run a command line interface script.
+> **[5:58](https://www.linkedin.com/learning/aws-networking-14125632/challenge-troubleshooting-scenario?u=76281980&t=358)** The next thing I need to do is navigate to my command line, either a [[Windows]] terminal on a Windows machine, or the terminal on a Mac to run a command line interface script.
 >
 > **[6:14](https://www.linkedin.com/learning/aws-networking-14125632/challenge-troubleshooting-scenario?u=76281980&t=374)** The script to disrupt this environment exists as an Exercise file.
 >
@@ -6303,7 +6234,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), aws (3), [[Amazon EC2|Ec2]] (3), [[Windows]] (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Windows]] (3)
 > **Env Vars:** vpc (5), aws (3), ec2 (3), url (2), ssh (1)
 > **Tools:** command line (5), aws console (1), windows terminal (1), terminal (1)
 > **Exercise Files:** template (6), exercise files (1), exercise file (1)
@@ -6312,8 +6243,7 @@ created: 2026-05-02
 > **Versions:** 31.0.0 (1), 172.31.16 (1)
 > **Definitions:** is a  (2)
 
-#### Solution: Troubleshooting scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/solution-troubleshooting-scenario?u=76281980)
+#### [Solution: Troubleshooting scenario](https://www.linkedin.com/learning/aws-networking-14125632/solution-troubleshooting-scenario?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6329,7 +6259,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/aws-networking-14125632/solution-troubleshooting-scenario?u=76281980&t=31)** Clicking on the resources tab, what I want to dig into is the web server group itself.
 >
-> **[0:37](https://www.linkedin.com/learning/aws-networking-14125632/solution-troubleshooting-scenario?u=76281980&t=37)** Clicking on the link for the demo web server group takes me to the EC2 auto-scale group section.
+> **[0:37](https://www.linkedin.com/learning/aws-networking-14125632/solution-troubleshooting-scenario?u=76281980&t=37)** Clicking on the link for the demo web server group takes me to the [[Amazon EC2|EC2]] auto-scale group section.
 >
 > **[0:45](https://www.linkedin.com/learning/aws-networking-14125632/solution-troubleshooting-scenario?u=76281980&t=45)** Here, we can see that both the desired and minimum capacity is set to two.
 >
@@ -6479,7 +6409,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (21), traffic (10), web (7), cloud (2), [[Amazon EC2|Ec2]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (2)
 > **UI Navigation:** click on (5), go to (2), select the (1), open the (1), dropdown (1)
 > **Env Vars:** ec2 (2), dns (2), vpc (1), aws (1)
 > **Ports:** port 80 (4), port 22 (1)
@@ -6488,8 +6418,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Troubleshooting cleanup
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/troubleshooting-cleanup?u=76281980)
+#### [Troubleshooting cleanup](https://www.linkedin.com/learning/aws-networking-14125632/troubleshooting-cleanup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6509,7 +6438,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/aws-networking-14125632/troubleshooting-cleanup?u=76281980&t=36)** Since that's exactly what I want to do, I go ahead and click the Delete Stack button.
 >
-> **[0:44](https://www.linkedin.com/learning/aws-networking-14125632/troubleshooting-cleanup?u=76281980&t=44)** Clicking over into the EC2 management console, I navigate to the instances link in the left-hand navigation.
+> **[0:44](https://www.linkedin.com/learning/aws-networking-14125632/troubleshooting-cleanup?u=76281980&t=44)** Clicking over into the [[Amazon EC2|EC2]] management console, I navigate to the instances link in the left-hand navigation.
 >
 > **[0:54](https://www.linkedin.com/learning/aws-networking-14125632/troubleshooting-cleanup?u=76281980&t=54)** Hitting the Refresh tab, I can see that in real time, the state for these instances has changed from running to shutting down.
 >
@@ -6545,7 +6474,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), [[Security]] (5), [[Troubleshooting]] (1), [[Amazon EC2|Ec2]] (1), management (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (1)
 > **Warnings:** note that (2)
 > **Env Vars:** ec2 (1)
 > **UI Navigation:** navigate to (1)
@@ -6556,12 +6485,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/aws-networking-14125632/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/aws-networking-14125632/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/aws-networking-14125632/next-steps?u=76281980&t=0)** - [Sharif] Thanks for watching networking in Amazon Web Services.
+> **[0:00](https://www.linkedin.com/learning/aws-networking-14125632/next-steps?u=76281980&t=0)** - [Sharif] Thanks for watching networking in [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
 > **[0:03](https://www.linkedin.com/learning/aws-networking-14125632/next-steps?u=76281980&t=3)** I've had a lot of fun being your guide for this survey of networking in AWS.
 >
@@ -6593,7 +6521,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/aws-networking-14125632/next-steps?u=76281980&t=94)** There's also regular AWS chatter at [stackoverflow.com](https://stackoverflow.com).
 >
-> **[1:39](https://www.linkedin.com/learning/aws-networking-14125632/next-steps?u=76281980&t=99)** If you are a Slack user, there are a number of public channels in which AWS concepts are discussed and debated.
+> **[1:39](https://www.linkedin.com/learning/aws-networking-14125632/next-steps?u=76281980&t=99)** If you are a [[Slack]] user, there are a number of public channels in which AWS concepts are discussed and debated.
 >
 > **[1:45](https://www.linkedin.com/learning/aws-networking-14125632/next-steps?u=76281980&t=105)** I can't overstate the importance of looking behind the curtain.
 >
@@ -6605,7 +6533,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (12), [[Security]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), business (1), dns (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Slack]] (1)
 > **Env Vars:** aws (10), vpc (3), dns (1)
 > **CLI Commands:** aws (12), find (1)
 > **URLs:** [amazon.com](https://amazon.com) (2), [stackoverflow.com](https://stackoverflow.com) (1)

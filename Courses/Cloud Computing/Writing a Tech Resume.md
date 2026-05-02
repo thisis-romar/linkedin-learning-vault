@@ -100,8 +100,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why do you need a resume?
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/why-do-you-need-a-resume?u=76281980)
+#### [Why do you need a resume?](https://www.linkedin.com/learning/writing-a-tech-resume/why-do-you-need-a-resume?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -143,7 +142,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[Search]] (1)
 > **Non-Speech:** (gentle music) (3), (upbeat music) (3)
 > **Speakers:** - a (1), - hi (1), - so (1), - well (1)
 > **Definitions:** is an  (1)
@@ -153,8 +151,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How hiring managers read your resume
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/how-hiring-managers-read-your-resume?u=76281980)
+#### [How hiring managers read your resume](https://www.linkedin.com/learning/writing-a-tech-resume/how-hiring-managers-read-your-resume?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -190,7 +187,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/writing-a-tech-resume/how-hiring-managers-read-your-resume?u=76281980&t=75)** There are however some downsides that come with the reverse chronological format.
 >
-> **[1:19](https://www.linkedin.com/learning/writing-a-tech-resume/how-hiring-managers-read-your-resume?u=76281980&t=79)** Since this is the most widely used resume format, it's more difficult to stand out from the rest of the candidate pool.
+> **[1:19](https://www.linkedin.com/learning/writing-a-tech-resume/how-hiring-managers-read-your-resume?u=76281980&t=79)** Since this is the most widely used resume format, it's more difficult to stand out from the [[Representational State Transfer (REST)|rest]] of the candidate pool.
 >
 > **[1:25](https://www.linkedin.com/learning/writing-a-tech-resume/how-hiring-managers-read-your-resume?u=76281980&t=85)** And if you have a large gap in your employment history, or no relevant work experience, this format might draw attention to those areas.
 >
@@ -230,7 +227,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (4), [[Representational State Transfer (REST)|Rest]] (1), career (1), feature (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
@@ -238,8 +235,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - on (1)
 
-#### Resume length
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/resume-length?u=76281980)
+#### [Resume length](https://www.linkedin.com/learning/writing-a-tech-resume/resume-length?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -277,8 +273,7 @@ created: 2026-05-02
 >
 > **Speakers:** - one (1)
 
-#### The difference between a resume and a CV
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/the-difference-between-a-resume-and-a-cv?u=76281980)
+#### [The difference between a resume and a CV](https://www.linkedin.com/learning/writing-a-tech-resume/the-difference-between-a-resume-and-a-cv?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -314,7 +309,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - when (1)
 
@@ -323,8 +317,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Contact information
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/contact-information?u=76281980)
+#### [Contact information](https://www.linkedin.com/learning/writing-a-tech-resume/contact-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -370,7 +363,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/writing-a-tech-resume/contact-information?u=76281980&t=116)** It's a red flag for a recruiter if a candidate uses an email address which is clearly years old.
 >
-> **[2:02](https://www.linkedin.com/learning/writing-a-tech-resume/contact-information?u=76281980&t=122)** Lastly, you may want to include a link to your personal website or portfolio, or a link to your professional network profile, like LinkedIn.
+> **[2:02](https://www.linkedin.com/learning/writing-a-tech-resume/contact-information?u=76281980&t=122)** Lastly, you may want to include a link to your personal website or portfolio, or a link to your professional network profile, like [[LinkedIn]].
 >
 > **[2:11](https://www.linkedin.com/learning/writing-a-tech-resume/contact-information?u=76281980&t=131)** This can give recruiters a more comprehensive overview of who you are without having to add extraneous or irrelevant information to your resume.
 >
@@ -386,8 +379,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
 
-#### Education
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/education?u=76281980)
+#### [Education](https://www.linkedin.com/learning/writing-a-tech-resume/education?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -433,7 +425,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/writing-a-tech-resume/education?u=76281980&t=141)** For example, if you attended three out of four years of a computer science degree, you can list the college name, dates attended, city, state, and the number of credits completed.
 >
-> **[2:33](https://www.linkedin.com/learning/writing-a-tech-resume/education?u=76281980&t=153)** You can even list the specific course names, such as programming with java.
+> **[2:33](https://www.linkedin.com/learning/writing-a-tech-resume/education?u=76281980&t=153)** You can even list the specific course names, such as programming with [[Java]].
 >
 > **[2:37](https://www.linkedin.com/learning/writing-a-tech-resume/education?u=76281980&t=157)** If you didn't attend college, but instead attended a coding bootcamp, you should include the bootcamp name, program name, month and year attended, as well as city and state.
 >
@@ -447,7 +439,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/writing-a-tech-resume/education?u=76281980&t=209)** This will allow you to list some achievements on your resume.
 >
-> **[3:33](https://www.linkedin.com/learning/writing-a-tech-resume/education?u=76281980&t=213)** LinkedIn Learning offers many affordable online courses, and, once completed, you can add a badge of completion to your LinkedIn profile.
+> **[3:33](https://www.linkedin.com/learning/writing-a-tech-resume/education?u=76281980&t=213)** [[LinkedIn]] Learning offers many affordable online courses, and, once completed, you can add a badge of completion to your LinkedIn profile.
 >
 > **[3:41](https://www.linkedin.com/learning/writing-a-tech-resume/education?u=76281980&t=221)** This will greatly strengthen your position within an applicant pool.
 >
@@ -457,7 +449,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Programming]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Java]] (1)
 > **Env Vars:** gpa (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
@@ -465,8 +457,7 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Speakers:** - education (1)
 
-#### Work experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/work-experience?u=76281980)
+#### [Work experience](https://www.linkedin.com/learning/writing-a-tech-resume/work-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -492,7 +483,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/writing-a-tech-resume/work-experience?u=76281980&t=74)** Stating impact over logistics will leave a much better impression on a recruiter.
 >
-> **[1:20](https://www.linkedin.com/learning/writing-a-tech-resume/work-experience?u=76281980&t=80)** For example, instead of stating, "developed the user interface for meeting software," you should state, "updated the legacy codebase from Dojo to React "in order to deliver features more quickly."
+> **[1:20](https://www.linkedin.com/learning/writing-a-tech-resume/work-experience?u=76281980&t=80)** For example, instead of stating, "developed the user interface for meeting software," you should state, "updated the legacy codebase from Dojo to [[React.js|React]] "in order to deliver features more quickly."
 >
 > **[1:32](https://www.linkedin.com/learning/writing-a-tech-resume/work-experience?u=76281980&t=92)** Use words like achieved, earned, increased, decreased, modernized, and resolved.
 >
@@ -520,25 +511,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - understanding (1)
 
-#### Relevant skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/relevant-skills?u=76281980)
+#### [Relevant skills](https://www.linkedin.com/learning/writing-a-tech-resume/relevant-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/writing-a-tech-resume/relevant-skills?u=76281980&t=0)** - The skills you list on your technical resume will differ slightly from the skills you'd find on the resume of a candidate for a marketing role.
 >
-> **[0:08](https://www.linkedin.com/learning/writing-a-tech-resume/relevant-skills?u=76281980&t=8)** Soft skills are skills which apply to every job.
+> **[0:08](https://www.linkedin.com/learning/writing-a-tech-resume/relevant-skills?u=76281980&t=8)** [[Soft Skills]] are skills which apply to every job.
 >
 > **[0:11](https://www.linkedin.com/learning/writing-a-tech-resume/relevant-skills?u=76281980&t=11)** They include skills such as leadership, communication, and creative thinking.
 >
 > **[0:16](https://www.linkedin.com/learning/writing-a-tech-resume/relevant-skills?u=76281980&t=16)** In contrast, hard skills are the skills which qualify you for a particular job role.
 >
-> **[0:22](https://www.linkedin.com/learning/writing-a-tech-resume/relevant-skills?u=76281980&t=22)** In the technical industry, they would include skills such as Java, Ruby, and web accessibility.
+> **[0:22](https://www.linkedin.com/learning/writing-a-tech-resume/relevant-skills?u=76281980&t=22)** In the technical industry, they would include skills such as [[Java]], Ruby, and [[Web Accessibility]].
 >
 > **[0:28](https://www.linkedin.com/learning/writing-a-tech-resume/relevant-skills?u=76281980&t=28)** When creating the skills section, it's important to focus on your hard skills.
 >
@@ -560,7 +550,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/writing-a-tech-resume/relevant-skills?u=76281980&t=82)** For example, if you've worked with C++ for eight years and understand its nuances, you might list your advanced proficiency with the language.
 >
-> **[1:31](https://www.linkedin.com/learning/writing-a-tech-resume/relevant-skills?u=76281980&t=91)** In contrast, perhaps you've only worked with JavaScript for a year.
+> **[1:31](https://www.linkedin.com/learning/writing-a-tech-resume/relevant-skills?u=76281980&t=91)** In contrast, perhaps you've only worked with [[JavaScript]] for a year.
 >
 > **[1:35](https://www.linkedin.com/learning/writing-a-tech-resume/relevant-skills?u=76281980&t=95)** And while you can get by with it, you're not as proficient as you are with C++.
 >
@@ -584,18 +574,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), [[Soft Skills]] (2), [[Programming]] (2), [[JavaScript]] (2), leadership (1)
+> **Frameworks & Libraries:** [[Java]] (6), [[Soft Skills]] (2), [[JavaScript]] (2), [[Web Accessibility]] (1)
 > **Analogies:** such as (2), for example (2)
 > **CLI Commands:** find (1), ruby (1)
 > **Best Practices:** rule of thumb (1), you should never (1)
 > **Speakers:** - the (1)
 
-#### Awards and certifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/awards-and-certifications?u=76281980)
+#### [Awards and certifications](https://www.linkedin.com/learning/writing-a-tech-resume/awards-and-certifications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/writing-a-tech-resume/awards-and-certifications?u=76281980&t=0)** - Awards are achievements which showcase your ability to excel in the workplace, and they can add value to your resume.
+> **[0:00](https://www.linkedin.com/learning/writing-a-tech-resume/awards-and-certifications?u=76281980&t=0)** - Awards are achievements which showcase your ability to [[Microsoft Excel|excel]] in the workplace, and they can add value to your resume.
 >
 > **[0:08](https://www.linkedin.com/learning/writing-a-tech-resume/awards-and-certifications?u=76281980&t=8)** When I was working as a software engineer at IBM, I received two awards from my managers, so I added an Awards section to my resume.
 >
@@ -609,7 +598,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/writing-a-tech-resume/awards-and-certifications?u=76281980&t=41)** Certifications are often achieved through the completion of an online or in-person course or training.
 >
-> **[0:48](https://www.linkedin.com/learning/writing-a-tech-resume/awards-and-certifications?u=76281980&t=48)** I love taking courses on platforms like LinkedIn Learning and Coursera because they allow me to add a certification to my LinkedIn profile.
+> **[0:48](https://www.linkedin.com/learning/writing-a-tech-resume/awards-and-certifications?u=76281980&t=48)** I love taking courses on platforms like [[LinkedIn]] Learning and Coursera because they allow me to add a certification to my LinkedIn profile.
 >
 > **[0:57](https://www.linkedin.com/learning/writing-a-tech-resume/awards-and-certifications?u=76281980&t=57)** These can show potential employers that you enjoy continued education, and you're reliable and like to see your work through to the end.
 >
@@ -635,8 +624,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of word choice
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/the-importance-of-word-choice?u=76281980)
+#### [The importance of word choice](https://www.linkedin.com/learning/writing-a-tech-resume/the-importance-of-word-choice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -668,13 +656,13 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/writing-a-tech-resume/the-importance-of-word-choice?u=76281980&t=68)** Cater the work experience outcomes to the role you want to achieve.
 >
-> **[1:13](https://www.linkedin.com/learning/writing-a-tech-resume/the-importance-of-word-choice?u=76281980&t=73)** Use data and statistics where possible.
+> **[1:13](https://www.linkedin.com/learning/writing-a-tech-resume/the-importance-of-word-choice?u=76281980&t=73)** Use data and [[Statistics]] where possible.
 >
 > **[1:16](https://www.linkedin.com/learning/writing-a-tech-resume/the-importance-of-word-choice?u=76281980&t=76)** If you have tangible values, include them.
 >
 > **[1:19](https://www.linkedin.com/learning/writing-a-tech-resume/the-importance-of-word-choice?u=76281980&t=79)** For example, if you refactored a legacy codebase to be more modern and this led to a 35% reduction in the size of the codebase, state that.
 >
-> **[1:29](https://www.linkedin.com/learning/writing-a-tech-resume/the-importance-of-word-choice?u=76281980&t=89)** You can say refactored Dojo legacy codebase into React, which led to a 35% reduction in the package size.
+> **[1:29](https://www.linkedin.com/learning/writing-a-tech-resume/the-importance-of-word-choice?u=76281980&t=89)** You can say refactored Dojo legacy codebase into [[React.js|React]], which led to a 35% reduction in the package size.
 >
 > **[1:37](https://www.linkedin.com/learning/writing-a-tech-resume/the-importance-of-word-choice?u=76281980&t=97)** When writing about your work experience, it's important to use words which positively reflect the outcomes of your actions.
 >
@@ -710,14 +698,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), leadership (1), data (1), [[Statistics]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[React.js|React]] (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (1), such as (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - when (1)
 
-#### State your impact
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/state-your-impact?u=76281980)
+#### [State your impact](https://www.linkedin.com/learning/writing-a-tech-resume/state-your-impact?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -753,7 +740,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), product (1), seo (1), [[Search]] (1)
 > **Env Vars:** w3c (1), seo (1)
 > **CLI Commands:** make (1)
 > **Documentation:** w3c (1)
@@ -765,18 +751,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Word processors
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/word-processors?u=76281980)
+#### [Word processors](https://www.linkedin.com/learning/writing-a-tech-resume/word-processors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/writing-a-tech-resume/word-processors?u=76281980&t=0)** - Word processors are one of the simplest, yet most effective tools you can use to build your resume.
+> **[0:00](https://www.linkedin.com/learning/writing-a-tech-resume/word-processors?u=76281980&t=0)** - [[Microsoft Word|Word]] processors are one of the simplest, yet most effective tools you can use to build your resume.
 >
 > **[0:06](https://www.linkedin.com/learning/writing-a-tech-resume/word-processors?u=76281980&t=6)** They're a great tool if you're a first-time resume builder and you want to ease into the process.
 >
 > **[0:11](https://www.linkedin.com/learning/writing-a-tech-resume/word-processors?u=76281980&t=11)** There are many great word processing tools for building a resume, both online as well as native applications.
 >
-> **[0:18](https://www.linkedin.com/learning/writing-a-tech-resume/word-processors?u=76281980&t=18)** The first native application we'll take a look at is Microsoft Word.
+> **[0:18](https://www.linkedin.com/learning/writing-a-tech-resume/word-processors?u=76281980&t=18)** The first native application we'll take a look at is [[Microsoft Word]].
 >
 > **[0:22](https://www.linkedin.com/learning/writing-a-tech-resume/word-processors?u=76281980&t=22)** Word is an easy-to-use word processor that provides built-in resume templates for you to use.
 >
@@ -784,7 +769,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/writing-a-tech-resume/word-processors?u=76281980&t=37)** Simply open Microsoft Word, click on the Resume template provided in the Getting Started panel, and begin designing.
 >
-> **[0:45](https://www.linkedin.com/learning/writing-a-tech-resume/word-processors?u=76281980&t=45)** Word even comes with built-in LinkedIn integrations, so you can search for example resumes from their database.
+> **[0:45](https://www.linkedin.com/learning/writing-a-tech-resume/word-processors?u=76281980&t=45)** Word even comes with built-in [[LinkedIn]] integrations, so you can search for example resumes from their database.
 >
 > **[0:52](https://www.linkedin.com/learning/writing-a-tech-resume/word-processors?u=76281980&t=52)** If you go to the Design tab at the top of the toolbar, you can pick from many different resume designs, and even search the web for other templates.
 >
@@ -794,7 +779,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/writing-a-tech-resume/word-processors?u=76281980&t=77)** Yet it is a paid application, so this might be a drawback if you're not looking to purchase a word processor.
 >
-> **[1:23](https://www.linkedin.com/learning/writing-a-tech-resume/word-processors?u=76281980&t=83)** The second word processor you can use to build a resume is Google Docs.
+> **[1:23](https://www.linkedin.com/learning/writing-a-tech-resume/word-processors?u=76281980&t=83)** The second word processor you can use to build a resume is [[Google]] Docs.
 >
 > **[1:28](https://www.linkedin.com/learning/writing-a-tech-resume/word-processors?u=76281980&t=88)** This is a free online word processor that also comes with pre-configured resume templates.
 >
@@ -822,7 +807,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (11), [[Google]] (5), application (3), [[Microsoft Word]] (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (11), [[Google]] (5), [[Microsoft Word]] (3), [[LinkedIn]] (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2), find (1)
@@ -831,14 +816,13 @@ created: 2026-05-02
 > **URLs:** [google.com](https://google.com) (1)
 > **Analogies:** for example (1)
 
-#### Resume builders
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/resume-builders?u=76281980)
+#### [Resume builders](https://www.linkedin.com/learning/writing-a-tech-resume/resume-builders?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/writing-a-tech-resume/resume-builders?u=76281980&t=0)** - Resume builders are a newer set of tools which guide you through the resume crafting experience.
 >
-> **[0:06](https://www.linkedin.com/learning/writing-a-tech-resume/resume-builders?u=76281980&t=6)** They typically only focus on building resumes, in contrast to a word processing application which can be used for a multitude of reasons.
+> **[0:06](https://www.linkedin.com/learning/writing-a-tech-resume/resume-builders?u=76281980&t=6)** They typically only focus on building resumes, in contrast to a [[Microsoft Word|word]] processing application which can be used for a multitude of reasons.
 >
 > **[0:14](https://www.linkedin.com/learning/writing-a-tech-resume/resume-builders?u=76281980&t=14)** Resume builders walk you through the process of entering your information in order to de-structure the content building process and make the resume building experience more approachable.
 >
@@ -864,7 +848,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/writing-a-tech-resume/resume-builders?u=76281980&t=90)** Resume builders can connect with social media, which can be a pro or a con.
 >
-> **[1:35](https://www.linkedin.com/learning/writing-a-tech-resume/resume-builders?u=76281980&t=95)** The ability to connect your LinkedIn profile to your resume could be a big time saver as the resume builder will scrape your data and pre-populate your resume.
+> **[1:35](https://www.linkedin.com/learning/writing-a-tech-resume/resume-builders?u=76281980&t=95)** The ability to connect your [[LinkedIn]] profile to your resume could be a big time saver as the resume builder will scrape your data and pre-populate your resume.
 >
 > **[1:44](https://www.linkedin.com/learning/writing-a-tech-resume/resume-builders?u=76281980&t=104)** But it might populate the fields with the incorrect content.
 >
@@ -882,13 +866,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), application (1), [[LinkedIn]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[LinkedIn]] (1)
 > **URLs:** [resume.io](https://resume.io) (3)
 > **CLI Commands:** make (2)
 > **Speakers:** - resume (1)
 
-#### Visual design tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/visual-design-tools?u=76281980)
+#### [Visual design tools](https://www.linkedin.com/learning/writing-a-tech-resume/visual-design-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -896,11 +879,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/writing-a-tech-resume/visual-design-tools?u=76281980&t=7)** Visual design tools are applications which you can use to build high fidelity designs and graphics.
 >
-> **[0:13](https://www.linkedin.com/learning/writing-a-tech-resume/visual-design-tools?u=76281980&t=13)** Adobe Illustrator, Sketch and Figma are three well-known design tools that you can use to build your resume.
+> **[0:13](https://www.linkedin.com/learning/writing-a-tech-resume/visual-design-tools?u=76281980&t=13)** Adobe Illustrator, Sketch and [[Figma (Software)|Figma]] are three well-known design tools that you can use to build your resume.
 >
 > **[0:20](https://www.linkedin.com/learning/writing-a-tech-resume/visual-design-tools?u=76281980&t=20)** These tools allow you to fully customize your design.
 >
-> **[0:23](https://www.linkedin.com/learning/writing-a-tech-resume/visual-design-tools?u=76281980&t=23)** Since you'll be designing your resume from scratch, you have full control over layout, color palette, typography and more.
+> **[0:23](https://www.linkedin.com/learning/writing-a-tech-resume/visual-design-tools?u=76281980&t=23)** Since you'll be designing your resume from scratch, you have full control over layout, color palette, [[Typography]] and more.
 >
 > **[0:32](https://www.linkedin.com/learning/writing-a-tech-resume/visual-design-tools?u=76281980&t=32)** With full control over the design of your resume, you can be sure that no other candidate will have the same design or layout as you.
 >
@@ -914,7 +897,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/writing-a-tech-resume/visual-design-tools?u=76281980&t=76)** This is difficult if you're not a trained designer, although you can get inspiration online.
 >
-> **[1:21](https://www.linkedin.com/learning/writing-a-tech-resume/visual-design-tools?u=76281980&t=81)** Lastly, since design tools are not necessarily meant for creating resumes, it's more time consuming to update the content than a word processor or resume builder, and since the design tool is most likely a native application, this means you must have your computer to make changes.
+> **[1:21](https://www.linkedin.com/learning/writing-a-tech-resume/visual-design-tools?u=76281980&t=81)** Lastly, since design tools are not necessarily meant for creating resumes, it's more time consuming to update the content than a [[Microsoft Word|word]] processor or resume builder, and since the design tool is most likely a native application, this means you must have your computer to make changes.
 >
 > **[1:39](https://www.linkedin.com/learning/writing-a-tech-resume/visual-design-tools?u=76281980&t=99)** While there are a lot of drawbacks for using a design tool to build your resume, they provide you with the most flexibility.
 >
@@ -922,7 +905,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), [[Typography]] (1), [[Microsoft Word|Word]] (1), application (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), [[Typography]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** figma (1)
 > **Speakers:** - visual (1)
@@ -932,18 +915,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Typography
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/typography?u=76281980)
+#### [Typography](https://www.linkedin.com/learning/writing-a-tech-resume/typography?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/writing-a-tech-resume/typography?u=76281980&t=0)** - Typography is the style and appearance of your textual content.
+> **[0:00](https://www.linkedin.com/learning/writing-a-tech-resume/typography?u=76281980&t=0)** - [[Typography]] is the style and appearance of your textual content.
 >
 > **[0:04](https://www.linkedin.com/learning/writing-a-tech-resume/typography?u=76281980&t=4)** It includes font families like Times New Roman and Helvetica, and type scale, or the ratio that we use to convey content with different levels of importance.
 >
 > **[0:14](https://www.linkedin.com/learning/writing-a-tech-resume/typography?u=76281980&t=14)** You should be intentional when choosing font families and type scale for your resume, because the way in which we design our content impacts the way a recruiter will read it.
 >
-> **[0:24](https://www.linkedin.com/learning/writing-a-tech-resume/typography?u=76281980&t=24)** If you're using a word processor or a resume builder with templates, the font family will be pre-selected for you.
+> **[0:24](https://www.linkedin.com/learning/writing-a-tech-resume/typography?u=76281980&t=24)** If you're using a [[Microsoft Word|word]] processor or a resume builder with templates, the font family will be pre-selected for you.
 >
 > **[0:32](https://www.linkedin.com/learning/writing-a-tech-resume/typography?u=76281980&t=32)** However, if you are using a design tool to build your resume from scratch, you'll have complete control over which font family to choose from, and the type of font family you choose will have an impact on the tone of your resume.
 >
@@ -973,7 +955,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/writing-a-tech-resume/typography?u=76281980&t=113)** A combination of Serif and Sans-Serif fonts for headings and content provide a nice contrast.
 >
-> **[1:59](https://www.linkedin.com/learning/writing-a-tech-resume/typography?u=76281980&t=119)** You can use Google Fonts to see popular pairings with common font families.
+> **[1:59](https://www.linkedin.com/learning/writing-a-tech-resume/typography?u=76281980&t=119)** You can use [[Google]] Fonts to see popular pairings with common font families.
 >
 > **[2:04](https://www.linkedin.com/learning/writing-a-tech-resume/typography?u=76281980&t=124)** Here are some of the most popular font choices you can choose from.
 >
@@ -1009,8 +991,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - typography (1)
 
-#### Color
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/color?u=76281980)
+#### [Color](https://www.linkedin.com/learning/writing-a-tech-resume/color?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1060,7 +1041,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/writing-a-tech-resume/color?u=76281980&t=129)** Having an established color pallette will bring life to your content.
 >
-> **[2:13](https://www.linkedin.com/learning/writing-a-tech-resume/color?u=76281980&t=133)** Adding this visual flair will differentiate your resume from the rest.
+> **[2:13](https://www.linkedin.com/learning/writing-a-tech-resume/color?u=76281980&t=133)** Adding this visual flair will differentiate your resume from the [[Representational State Transfer (REST)|rest]].
 
 > [!info]- Semantic Content
 >
@@ -1069,8 +1050,7 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - a (1)
 
-#### Layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/layout?u=76281980)
+#### [Layout](https://www.linkedin.com/learning/writing-a-tech-resume/layout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1104,18 +1084,17 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - recruiters (1)
 
-#### File format
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/file-format?u=76281980)
+#### [File format](https://www.linkedin.com/learning/writing-a-tech-resume/file-format?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/writing-a-tech-resume/file-format?u=76281980&t=0)** - Once you've created your resume, it's time to export it, but which file formats are appropriate?
 >
-> **[0:06](https://www.linkedin.com/learning/writing-a-tech-resume/file-format?u=76281980&t=6)** Most employers expect either a Microsoft Word document or a PDF version of your resume.
+> **[0:06](https://www.linkedin.com/learning/writing-a-tech-resume/file-format?u=76281980&t=6)** Most employers expect either a [[Microsoft Word]] document or a PDF version of your resume.
 >
 > **[0:12](https://www.linkedin.com/learning/writing-a-tech-resume/file-format?u=76281980&t=12)** However, this may vary depending upon the company, so you should check the job posting for more information.
 >
-> **[0:19](https://www.linkedin.com/learning/writing-a-tech-resume/file-format?u=76281980&t=19)** Microsoft Word is the most popular word processor for writing documents and your files will be saved as a DOC or a DOCX format.
+> **[0:19](https://www.linkedin.com/learning/writing-a-tech-resume/file-format?u=76281980&t=19)** Microsoft Word is the most popular [[Microsoft Word|word]] processor for writing documents and your files will be saved as a DOC or a DOCX format.
 >
 > **[0:28](https://www.linkedin.com/learning/writing-a-tech-resume/file-format?u=76281980&t=28)** It's not recommended to use OpenOffice to create and export your resume because the DOC or DOCX formats will be altered when opened in Microsoft Word.
 >
@@ -1155,8 +1134,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary or objective
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/summary-or-objective?u=76281980)
+#### [Summary or objective](https://www.linkedin.com/learning/writing-a-tech-resume/summary-or-objective?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1178,7 +1156,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/writing-a-tech-resume/summary-or-objective?u=76281980&t=46)** An objective section can be useful if you have limited work experience, so if you've just graduated college, this can be a useful section to include.
 >
-> **[0:56](https://www.linkedin.com/learning/writing-a-tech-resume/summary-or-objective?u=76281980&t=56)** Your objective might read, "Motivated software engineer "looking to grow Java knowledge by developing "an enterprise-level application."
+> **[0:56](https://www.linkedin.com/learning/writing-a-tech-resume/summary-or-objective?u=76281980&t=56)** Your objective might read, "Motivated software engineer "looking to grow [[Java]] knowledge by developing "an enterprise-level application."
 >
 > **[1:04](https://www.linkedin.com/learning/writing-a-tech-resume/summary-or-objective?u=76281980&t=64)** If however, you're a seasoned software engineer with 10 years experience programming in Java, your summary statement might read, "Experienced Java developer with 10 years architecting "and building large-scale enterprise applications."
 >
@@ -1188,12 +1166,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), career (1), application (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - several (1)
 
-#### Extracurricular activities or hobbies
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/extracurricular-activities-or-hobbies?u=76281980)
+#### [Extracurricular activities or hobbies](https://www.linkedin.com/learning/writing-a-tech-resume/extracurricular-activities-or-hobbies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1209,7 +1186,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/writing-a-tech-resume/extracurricular-activities-or-hobbies?u=76281980&t=51)** If you're a recent college graduate and you participated in extracurricular activities these can be a nice addition to your resume.
 >
-> **[1:00](https://www.linkedin.com/learning/writing-a-tech-resume/extracurricular-activities-or-hobbies?u=76281980&t=60)** Perhaps you worked with the admissions office to interview potential students for admission.
+> **[1:00](https://www.linkedin.com/learning/writing-a-tech-resume/extracurricular-activities-or-hobbies?u=76281980&t=60)** Perhaps you worked with the admissions [[Microsoft Office|office]] to interview potential students for admission.
 >
 > **[1:05](https://www.linkedin.com/learning/writing-a-tech-resume/extracurricular-activities-or-hobbies?u=76281980&t=65)** This activity demonstrates leadership and good communication skills if you don't have a lot of relevant work experience.
 >
@@ -1217,13 +1194,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - your (1)
 
-#### References
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/references?u=76281980)
+#### [References](https://www.linkedin.com/learning/writing-a-tech-resume/references?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1245,7 +1221,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/writing-a-tech-resume/references?u=76281980&t=47)** I personally have never been asked for a list of references prior to receiving a job offer.
 >
-> **[0:53](https://www.linkedin.com/learning/writing-a-tech-resume/references?u=76281980&t=53)** It's important that every word on your resume lends itself to gaining you a job interview and if you have a lot of work experience or skills, adding references can take away prime real estate.
+> **[0:53](https://www.linkedin.com/learning/writing-a-tech-resume/references?u=76281980&t=53)** It's important that every [[Microsoft Word|word]] on your resume lends itself to gaining you a job interview and if you have a lot of work experience or skills, adding references can take away prime real estate.
 >
 > **[1:06](https://www.linkedin.com/learning/writing-a-tech-resume/references?u=76281980&t=66)** Because references are not a required part of the job hunting process, you run the risk of including irrelevant information.
 >
@@ -1261,8 +1237,7 @@ created: 2026-05-02
 > **Best Practices:** you should never (1)
 > **Speakers:** - it (1)
 
-#### Photo
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/photo?u=76281980)
+#### [Photo](https://www.linkedin.com/learning/writing-a-tech-resume/photo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1287,8 +1262,7 @@ created: 2026-05-02
 > **Best Practices:** bad practice (1)
 > **Speakers:** - many (1)
 
-#### Graduation year
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/graduation-year?u=76281980)
+#### [Graduation year](https://www.linkedin.com/learning/writing-a-tech-resume/graduation-year?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1311,12 +1285,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### LinkedIn
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/linkedin?u=76281980)
+#### [LinkedIn](https://www.linkedin.com/learning/writing-a-tech-resume/linkedin?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/writing-a-tech-resume/linkedin?u=76281980&t=0)** - LinkedIn is one of the most noteworthy job hunting and professional networking websites, so having a complete LinkedIn profile can help you receive a job interview.
+> **[0:00](https://www.linkedin.com/learning/writing-a-tech-resume/linkedin?u=76281980&t=0)** - [[LinkedIn]] is one of the most noteworthy job hunting and [[Professional Networking]] websites, so having a complete LinkedIn profile can help you receive a job interview.
 >
 > **[0:10](https://www.linkedin.com/learning/writing-a-tech-resume/linkedin?u=76281980&t=10)** When I was job hunting abroad, I used LinkedIn as a way to search for open roles.
 >
@@ -1360,23 +1333,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (12), [[Professional Networking]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (12), [[Professional Networking]] (2)
 > **Definitions:** is a  (3)
 > **Best Practices:** you should always (1)
 > **Speakers:** - linkedin (1)
 
-#### GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/github?u=76281980)
+#### [GitHub](https://www.linkedin.com/learning/writing-a-tech-resume/github?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/writing-a-tech-resume/github?u=76281980&t=0)** - GitHub is one of the most popular websites to build an online presence in the tech industry.
+> **[0:00](https://www.linkedin.com/learning/writing-a-tech-resume/github?u=76281980&t=0)** - [[GitHub]] is one of the most popular websites to build an online presence in the tech industry.
 >
 > **[0:06](https://www.linkedin.com/learning/writing-a-tech-resume/github?u=76281980&t=6)** It allows you to showcase your best projects, contribute to open source, and connect with developers all around the world.
 >
 > **[0:14](https://www.linkedin.com/learning/writing-a-tech-resume/github?u=76281980&t=14)** Having several projects on GitHub, which demonstrate your technical skills can improve your chances of landing a job interview.
 >
-> **[0:21](https://www.linkedin.com/learning/writing-a-tech-resume/github?u=76281980&t=21)** For example, if you list React or Gatsby on your resume, you may want to have a few projects on GitHub that showcase these skills.
+> **[0:21](https://www.linkedin.com/learning/writing-a-tech-resume/github?u=76281980&t=21)** For example, if you list [[React.js|React]] or Gatsby on your resume, you may want to have a few projects on GitHub that showcase these skills.
 >
 > **[0:31](https://www.linkedin.com/learning/writing-a-tech-resume/github?u=76281980&t=31)** Creating a GitHub profile with several completed projects can be time consuming.
 >
@@ -1393,14 +1365,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - github (1)
 
-#### Personal portfolio or website
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/personal-portfolio-or-website?u=76281980)
+#### [Personal portfolio or website](https://www.linkedin.com/learning/writing-a-tech-resume/personal-portfolio-or-website?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/writing-a-tech-resume/personal-portfolio-or-website?u=76281980&t=0)** - Creating a personal portfolio or website is a wonderful way to provide more information about yourself, and it can also demonstrate your technical skills.
 >
-> **[0:10](https://www.linkedin.com/learning/writing-a-tech-resume/personal-portfolio-or-website?u=76281980&t=10)** If your strongest front-end development skills are with React, you might want to build your portfolio using the Library.
+> **[0:10](https://www.linkedin.com/learning/writing-a-tech-resume/personal-portfolio-or-website?u=76281980&t=10)** If your strongest [[Front-End Development]] skills are with [[React.js|React]], you might want to build your portfolio using the Library.
 >
 > **[0:17](https://www.linkedin.com/learning/writing-a-tech-resume/personal-portfolio-or-website?u=76281980&t=17)** Building a personal website using the technologies you're comfortable with allows you to demonstrate the skills on your resume and gives you a place to be a bit more creative.
 >
@@ -1418,7 +1389,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2), [[Front-End Development]] (1), web (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Front-End Development]] (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - creating (1)
@@ -1428,8 +1399,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps with your resume
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-a-tech-resume/next-steps-with-your-resume?u=76281980)
+#### [Next steps with your resume](https://www.linkedin.com/learning/writing-a-tech-resume/next-steps-with-your-resume?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1441,7 +1411,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/writing-a-tech-resume/next-steps-with-your-resume?u=76281980&t=26)** It does a comparative analysis of your resume for areas of improvement.
 >
-> **[0:31](https://www.linkedin.com/learning/writing-a-tech-resume/next-steps-with-your-resume?u=76281980&t=31)** There are also plenty of courses on LinkedIn Learning which help you once you do land a job interview.
+> **[0:31](https://www.linkedin.com/learning/writing-a-tech-resume/next-steps-with-your-resume?u=76281980&t=31)** There are also plenty of courses on [[LinkedIn]] Learning which help you once you do land a job interview.
 >
 > **[0:37](https://www.linkedin.com/learning/writing-a-tech-resume/next-steps-with-your-resume?u=76281980&t=37)** If you have any questions or comments, you're more than welcome to reach out to me on Twitter.
 

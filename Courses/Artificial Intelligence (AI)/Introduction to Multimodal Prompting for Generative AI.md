@@ -90,8 +90,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GenAI with multimodal prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/genai-with-multimodal-prompts?u=76281980)
+#### [GenAI with multimodal prompts](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/genai-with-multimodal-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -99,7 +98,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/genai-with-multimodal-prompts?u=76281980&t=2)** That's what multimodality allows you to do, and that's exactly what we'll learn in this course.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/genai-with-multimodal-prompts?u=76281980&t=8)** We'll look at how models such as GPT-4 and Gemini can handle different types of inputs, including video and audio.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/genai-with-multimodal-prompts?u=76281980&t=8)** We'll look at how models such as [[GPT-4]] and [[Gemini]] can handle different types of inputs, including video and audio.
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/genai-with-multimodal-prompts?u=76281980&t=16)** We'll even generate music and images using cutting edge technologies.
 >
@@ -107,13 +106,13 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/genai-with-multimodal-prompts?u=76281980&t=25)** I'm a software developer with over a decade of experience working for companies that lean heavily on AI.
 >
-> **[0:32](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/genai-with-multimodal-prompts?u=76281980&t=32)** If you want to squeeze every bit of value out of artificial intelligence, you're in the right place.
+> **[0:32](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/genai-with-multimodal-prompts?u=76281980&t=32)** If you want to squeeze every bit of value out of [[Artificial Intelligence (AI)|artificial intelligence]], you're in the right place.
 >
 > **[0:38](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/genai-with-multimodal-prompts?u=76281980&t=38)** So let's get to it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[GPT-4]] (1), [[Gemini]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[GPT-4]] (1), [[Gemini]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** gpt (1)
 > **Analogies:** such as (1)
 > **Speakers:** - use (1)
@@ -123,8 +122,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is multimodality?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/what-is-multimodality?u=76281980)
+#### [What is multimodality?](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/what-is-multimodality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -134,7 +132,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/what-is-multimodality?u=76281980&t=19)** Now, let's think of something such as an apple.
 >
-> **[0:22](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/what-is-multimodality?u=76281980&t=22)** Here we have the word apple.
+> **[0:22](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/what-is-multimodality?u=76281980&t=22)** Here we have the [[Microsoft Word|word]] apple.
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/what-is-multimodality?u=76281980&t=24)** It's a text representation of an apple.
 >
@@ -162,14 +160,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** refers to (1), is a  (1), is an  (1)
 > **Analogies:** such as (2), similar to (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - before (1)
 
-#### Visual modality
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/visual-modality?u=76281980)
+#### [Visual modality](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/visual-modality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -189,19 +186,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), web (1)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Textual and auditory modality
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/textual-and-auditory-modality?u=76281980)
+#### [Textual and auditory modality](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/textual-and-auditory-modality?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/textual-and-auditory-modality?u=76281980&t=0)** - [Instructor] Text as a modality has been front and center in the way many people have discovered the power of generative AI.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/textual-and-auditory-modality?u=76281980&t=0)** - [Instructor] Text as a modality has been front and center in the way many people have discovered the power of [[Generative AI]].
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/textual-and-auditory-modality?u=76281980&t=9)** There are GPT-based systems such as ChatGPT and Copilot, as well as Google's Gemini and Anthropic's Claude.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/textual-and-auditory-modality?u=76281980&t=9)** There are GPT-based systems such as [[ChatGPT]] and [[Microsoft Copilot|Copilot]], as well as [[Google]]'s [[Gemini]] and Anthropic's Claude.
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/textual-and-auditory-modality?u=76281980&t=20)** Now, these systems largely began as receiving text and producing text, and were widely used for text generation, question answering.
 >
@@ -213,7 +208,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/textual-and-auditory-modality?u=76281980&t=69)** There's also speech synthesis and enhancement.
 >
-> **[1:12](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/textual-and-auditory-modality?u=76281980&t=72)** There's speech recognition.
+> **[1:12](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/textual-and-auditory-modality?u=76281980&t=72)** There's [[Speech Recognition]].
 >
 > **[1:14](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/textual-and-auditory-modality?u=76281980&t=74)** Both of these have been around for a while, but have really improved lately.
 >
@@ -223,7 +218,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), power (1), [[Generative AI]] (1), [[ChatGPT]] (1), [[Microsoft Copilot|Copilot]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[ChatGPT]] (1), [[Microsoft Copilot|Copilot]] (1), [[Google]] (1), [[Gemini]] (1)
 > **Env Vars:** gpt (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -234,8 +229,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GPT-4 and 4o
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-and-4o?u=76281980)
+#### [GPT-4 and 4o](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-and-4o?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -267,12 +261,11 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - gpt4 (1)
 
-#### Text to image in GPT-4
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/text-to-image-in-gpt4?u=76281980)
+#### [Text to image in GPT-4](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/text-to-image-in-gpt4?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/text-to-image-in-gpt4?u=76281980&t=0)** - [Narrator] A fun way to start using ChatGPT's multimodal capabilities is using the ChatGPT app.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/text-to-image-in-gpt4?u=76281980&t=0)** - [Narrator] A fun way to start using [[ChatGPT]]'s multimodal capabilities is using the ChatGPT app.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/text-to-image-in-gpt4?u=76281980&t=8)** You can take photos directly into your phone.
 >
@@ -302,18 +295,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), prompt (3), ai (1), management (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [narrator] (1)
 
-#### GPT-4 API with various input types
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980)
+#### [GPT-4 API with various input types](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980&t=0)** - [Instructor] In this one, we're going to experiment with the OpenAI API, but you don't have to know how to code to follow along.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980&t=0)** - [Instructor] In this one, we're going to experiment with the [[OpenAI API]], but you don't have to know how to code to follow along.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980&t=7)** If you're not familiar with coding or APIs, feel free to follow along with this example using the ChatGPT interface.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980&t=7)** If you're not familiar with coding or APIs, feel free to follow along with this example using the [[ChatGPT]] interface.
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980&t=17)** Now, if you head over to platform.[openai.com](https://openai.com) and create an account, you can go ahead and grab an API key.
 >
@@ -321,7 +313,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980&t=39)** And this is of course a secret key, so I'm not going to export the actual key, but this is where the key would go.
 >
-> **[0:49](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980&t=49)** And once you've done that, you want to install the OpenAI Python package.
+> **[0:49](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980&t=49)** And once you've done that, you want to install the OpenAI [[Python (Programming Language)|Python]] package.
 >
 > **[0:54](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980&t=54)** So python3 -m pip install openai.
 >
@@ -353,7 +345,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980&t=154)** This is the latest GPT model at the time of this recording, and it's very capable when it comes to multimodality.
 >
-> **[2:42](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980&t=162)** I'm going to say that the response type should be a JSON object, and then I'm going to insert a text input, and I'm going to tell the system, as an interior designer, you're capable of describing very specific colors.
+> **[2:42](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980&t=162)** I'm going to say that the response type should be a [[JSON]] object, and then I'm going to insert a text input, and I'm going to tell the system, as an interior designer, you're capable of describing very specific colors.
 >
 > **[2:58](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980&t=178)** What colors are used in this mug?
 >
@@ -363,7 +355,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980&t=202)** I could also use an image URL, which might be more straightforward at times.
 >
-> **[3:28](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980&t=208)** Finally, I'll say that the max tokens is 300, and if there's a response, I'm going to stylize echo this response.
+> **[3:28](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980&t=208)** Finally, I'll say that the max [[Tokens]] is 300, and if there's a response, I'm going to stylize echo this response.
 >
 > **[3:38](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980&t=218)** So let's go ahead and run this.
 >
@@ -373,13 +365,13 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980&t=239)** These are very non-generic colors to describe this mug, which is exactly what I wanted.
 >
-> **[4:06](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980&t=246)** So with the OpenAI API, you can use some of the most capable large language models that are definitely capable of multimodality in your applications.
+> **[4:06](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980&t=246)** So with the OpenAI API, you can use some of the most capable [[Large Language Models (LLM)|large language models]] that are definitely capable of multimodality in your applications.
 >
 > **[4:18](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gpt4-api-with-various-input-types?u=76281980&t=258)** And The Playground interface makes it even more straightforward.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OpenAI API]] (2), api (2), [[JSON]] (2), generic (2), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (2), [[JSON]] (2), [[ChatGPT]] (1), [[Python (Programming Language)|Python]] (1), [[Tokens]] (1)
 > **Env Vars:** api (4), gpt (3), url (2), json (2), open_ai_api_key (1)
 > **CLI Commands:** python3 (2), python (1), pip (1), find (1), make (1)
 > **Prerequisites:** install (3)
@@ -388,11 +380,9 @@ created: 2026-05-02
 > **URLs:** [openai.com](https://openai.com) (1)
 > **Tools:** terminal (1)
 
-#### Challenge: Drawing to code
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/challenge-drawing-to-code?u=76281980)
+#### [Challenge: Drawing to code](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/challenge-drawing-to-code?u=76281980)
 
-#### Solution: Drawing to code
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/solution-drawing-to-code?u=76281980)
+#### [Solution: Drawing to code](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/solution-drawing-to-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -404,13 +394,13 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/solution-drawing-to-code?u=76281980&t=24)** Now it's time to put multimodality to work by turning this wireframe into a page.
 >
-> **[0:31](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/solution-drawing-to-code?u=76281980&t=31)** So, here I am in the ChatGPT interface and I'll make sure I have GPT-4o selected.
+> **[0:31](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/solution-drawing-to-code?u=76281980&t=31)** So, here I am in the [[ChatGPT]] interface and I'll make sure I have GPT-4o selected.
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/solution-drawing-to-code?u=76281980&t=40)** Now I'm going to go ahead and drag this image and I'll type in my prompt.
 >
 > **[0:49](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/solution-drawing-to-code?u=76281980&t=49)** You are a senior (keyboard clicking) front-end developer specializing in responsive web applications.
 >
-> **[1:10](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/solution-drawing-to-code?u=76281980&t=70)** Generate a single HTML file
+> **[1:10](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/solution-drawing-to-code?u=76281980&t=70)** Generate a single [[HTML]] file
 >
 > **[1:18](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/solution-drawing-to-code?u=76281980&t=78)** with a responsive interface based on this wireframe.
 >
@@ -436,11 +426,11 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/solution-drawing-to-code?u=76281980&t=204)** Now, GPT-4o is actually much better at creating these interfaces.
 >
-> **[3:31](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/solution-drawing-to-code?u=76281980&t=211)** Both GPT-4 and GPT-4o can write pretty impressive code, but it seems like when it comes to turning visuals into code GPT-4o has a slight edge.
+> **[3:31](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/solution-drawing-to-code?u=76281980&t=211)** Both [[GPT-4]] and GPT-4o can write pretty impressive code, but it seems like when it comes to turning visuals into code GPT-4o has a slight edge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), ai (1), management (1), [[ChatGPT]] (1), prompt (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[ChatGPT]] (1), [[GPT-4]] (1)
 > **Env Vars:** gpt (5), html (1), css (1)
 > **CLI Commands:** make (4), python3 (2)
 > **Non-Speech:** (upbeat music) (1), (keyboard clicking) (1)
@@ -454,12 +444,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Gemini?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/what-is-gemini?u=76281980)
+#### [What is Gemini?](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/what-is-gemini?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/what-is-gemini?u=76281980&t=1)** - Gemini 1.5 is Google's flagship large language model at the time of this recording.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/what-is-gemini?u=76281980&t=1)** - [[Gemini]] 1.5 is [[Google]]'s flagship large language model at the time of this recording.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/what-is-gemini?u=76281980&t=8)** Now, as far as modalities go, Gemini has quite a few capabilities.
 >
@@ -471,7 +460,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/what-is-gemini?u=76281980&t=44)** Another unique feature of this model is its very large context window.
 >
-> **[0:52](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/what-is-gemini?u=76281980&t=52)** This model can support up to a million token context window in production and in research they've been able to use up to 10 million tokens.
+> **[0:52](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/what-is-gemini?u=76281980&t=52)** This model can support up to a million token context window in production and in research they've been able to use up to 10 million [[Tokens]].
 >
 > **[1:04](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/what-is-gemini?u=76281980&t=64)** This could mean processing 700,000 words, one hour of video, or 11 hours of audio.
 >
@@ -479,30 +468,29 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/what-is-gemini?u=76281980&t=86)** Now, Gemini can be accessed via the chat interface that Google offers.
 >
-> **[1:32](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/what-is-gemini?u=76281980&t=92)** You can also build an experiment with it using Google's AI Studio and leveraging the Vertex platform.
+> **[1:32](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/what-is-gemini?u=76281980&t=92)** You can also build an experiment with it using Google's AI Studio and leveraging the [[Vertex]] platform.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (4), [[Google]] (3), feature (1), [[Tokens]] (1), ai (1)
+> **Frameworks & Libraries:** [[Gemini]] (4), [[Google]] (3), [[Tokens]] (1), [[Vertex]] (1)
 > **Versions:** 1.5 (1)
 > **Speakers:** - gemini (1)
 
-#### Images in Gemini
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/images-in-gemini?u=76281980)
+#### [Images in Gemini](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/images-in-gemini?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/images-in-gemini?u=76281980&t=0)** - [Instructor] Let's put Google's multimodals capabilities to work using text in conjunction with images as our input.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/images-in-gemini?u=76281980&t=0)** - [Instructor] Let's put [[Google]]'s multimodals capabilities to work using text in conjunction with images as our input.
 >
-> **[0:10](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/images-in-gemini?u=76281980&t=10)** So for this one, we're going to use this e-commerce website.
+> **[0:10](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/images-in-gemini?u=76281980&t=10)** So for this one, we're going to use this [[E-Commerce]] website.
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/images-in-gemini?u=76281980&t=15)** I've included a screenshot of this landing page in the exercise files for the course, and you can also use your own screenshot.
 >
-> **[0:23](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/images-in-gemini?u=76281980&t=23)** Now, for this one, you can use the Gemini Advanced Web interface, but I prefer to use AI studios, as it does give me some fine-tuned control.
+> **[0:23](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/images-in-gemini?u=76281980&t=23)** Now, for this one, you can use the [[Gemini]] Advanced Web interface, but I prefer to use AI studios, as it does give me some fine-tuned control.
 >
 > **[0:35](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/images-in-gemini?u=76281980&t=35)** And here, I'm going to include a system instruction, and this allows me to dictate the style or the premise of the conversation, and I'm going to tell Gemini that it's a marketing expert specializing in e-commerce.
 >
-> **[0:59](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/images-in-gemini?u=76281980&t=59)** Now, an interesting prompt engineering method, especially when you have a slightly longer context window, is to get the model to come up with a plan.
+> **[0:59](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/images-in-gemini?u=76281980&t=59)** Now, an interesting [[Prompt Engineering]] method, especially when you have a slightly longer context window, is to get the model to come up with a plan.
 >
 > **[1:10](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/images-in-gemini?u=76281980&t=70)** So I can say, "What are the steps you would take
 >
@@ -546,14 +534,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (2), [[Gemini]] (2), ai (2), [[Prompt Engineering]] (2), product (2)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), [[Gemini]] (2), [[Prompt Engineering]] (2), [[Google]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** cta (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Gemini video inputs
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gemini-video-inputs?u=76281980)
+#### [Gemini video inputs](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gemini-video-inputs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -561,7 +548,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gemini-video-inputs?u=76281980&t=2)** Although a video is technically a series of images, it can often represent things that a still image cannot represent.
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gemini-video-inputs?u=76281980&t=11)** Google's Gemini 1.5 does quite an impressive job when it comes to reasoning about video inputs.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gemini-video-inputs?u=76281980&t=11)** [[Google]]'s [[Gemini]] 1.5 does quite an impressive job when it comes to reasoning about video inputs.
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gemini-video-inputs?u=76281980&t=19)** Let's head over to AI Studios and check this out.
 >
@@ -571,7 +558,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gemini-video-inputs?u=76281980&t=39)** I'll do upload, browse, magic, and I'll go ahead and select this file.
 >
-> **[0:50](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gemini-video-inputs?u=76281980&t=50)** After the video is processed, I'm told that this particular clip will take up 2065 tokens from my context window, and I'm ready to add my prompt.
+> **[0:50](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gemini-video-inputs?u=76281980&t=50)** After the video is processed, I'm told that this particular clip will take up 2065 [[Tokens]] from my context window, and I'm ready to add my prompt.
 >
 > **[1:05](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/gemini-video-inputs?u=76281980&t=65)** In this video, the ball does not vanish.
 >
@@ -591,13 +578,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (3), ai (2), [[Google]] (1), [[Tokens]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Gemini]] (3), [[Google]] (1), [[Tokens]] (1)
 > **Versions:** 1.5 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Video narration
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/challenge-video-naration?u=76281980)
+#### [Challenge: Video narration](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/challenge-video-naration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -605,7 +591,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/challenge-video-naration?u=76281980&t=5)** - [Narrator] It is time for a challenge and for this one, I want you to go ahead and find a video that has no narration.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/challenge-video-naration?u=76281980&t=12)** Now, if you're using Gemini in the chat interface, you can go ahead and find something on YouTube.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/challenge-video-naration?u=76281980&t=12)** Now, if you're using [[Gemini]] in the chat interface, you can go ahead and find something on YouTube.
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/challenge-video-naration?u=76281980&t=19)** If you're using AI Studio, you can even create a video and I want you to go ahead and create an narration script for that video.
 >
@@ -619,20 +605,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (1), ai (1), next (1)
+> **Frameworks & Libraries:** [[Gemini]] (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (light upbeat music) (1)
 
-#### Solution: Video narration
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/solution-video-naration?u=76281980)
+#### [Solution: Video narration](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/solution-video-naration?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/solution-video-naration?u=76281980&t=0)** - [Instructor] The goal of this challenge was to create an narration script for a video that doesn't have any talking in it.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/solution-video-naration?u=76281980&t=12)** Now, you could do this using Gemini's Chat interface in conjunction with YouTube.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/solution-video-naration?u=76281980&t=12)** Now, you could do this using [[Gemini]]'s Chat interface in conjunction with YouTube.
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/solution-video-naration?u=76281980&t=18)** I chose to use AI Studio because I wanted to use my own video.
 >
@@ -670,7 +655,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Gemini]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Gemini]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -679,8 +664,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Audio in generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/audio-in-generative-ai?u=76281980)
+#### [Audio in generative AI](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/audio-in-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -688,7 +672,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/audio-in-generative-ai?u=76281980&t=5)** A good example of a multimodal AI task that involves audio is having a language model reason about an audio input.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/audio-in-generative-ai?u=76281980&t=14)** We're going to look at this with Gemini 1.5.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/audio-in-generative-ai?u=76281980&t=14)** We're going to look at this with [[Gemini]] 1.5.
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/audio-in-generative-ai?u=76281980&t=18)** So you would input a text prompt along with some audio, and the text could ask questions about this audio, and then the model can provide a text answer.
 >
@@ -706,18 +690,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), [[Gemini]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Gemini]] (1)
 > **Versions:** 1.5 (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - in (1)
 
-#### Prompt and audio
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/prompt-and-audio?u=76281980)
+#### [Prompt and audio](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/prompt-and-audio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/prompt-and-audio?u=76281980&t=0)** - [Narrator] We're back in AI studio to see what it means for Gemini 1.5 to be able to process raw audio as an input.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/prompt-and-audio?u=76281980&t=0)** - [Narrator] We're back in AI studio to see what it means for [[Gemini]] 1.5 to be able to process raw audio as an input.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/prompt-and-audio?u=76281980&t=10)** Now I've created this recording.
 >
@@ -731,7 +714,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/prompt-and-audio?u=76281980&t=65)** This is a multimodal task.
 >
-> **[1:07](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/prompt-and-audio?u=76281980&t=67)** We have some tokens which are text, and we have 224 tokens of audio.
+> **[1:07](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/prompt-and-audio?u=76281980&t=67)** We have some [[Tokens]] which are text, and we have 224 tokens of audio.
 >
 > **[1:16](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/prompt-and-audio?u=76281980&t=76)** Now I'll go ahead and run the prompt, and it was able to identify the melody as Twinkle Twinkle Little Star, which is one popular way of naming this tune by Mozart.
 >
@@ -743,18 +726,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (2), [[Tokens]] (2), ai (1), next (1), prompt (1)
+> **Frameworks & Libraries:** [[Gemini]] (2), [[Tokens]] (2)
 > **Versions:** 1.5 (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (music playing) (1)
 
-#### Generating music
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/generating-music?u=76281980)
+#### [Generating music](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/generating-music?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/generating-music?u=76281980&t=0)** - [Narrator] To check out music generation, we're going to use an environment that Google has created for experimenting with things that are in development.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/generating-music?u=76281980&t=0)** - [Narrator] To check out music generation, we're going to use an environment that [[Google]] has created for experimenting with things that are in development.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/generating-music?u=76281980&t=10)** This environment can be used at aitestkitchen.[withgoogle.com](https://withgoogle.com), and at the time of this recording, it's actually restricted to certain regions, but this is a good taste of what's to come as far as generating music.
 >
@@ -766,19 +748,18 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/generating-music?u=76281980&t=49)** rock and roll.
 >
-> **[0:56](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/generating-music?u=76281980&t=56)** Now, keep in mind that this technology is very early on in its development, and it may not be long before we can generate background music for videos and really unleash creativity when it comes to making music with generative AI.
+> **[0:56](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/generating-music?u=76281980&t=56)** Now, keep in mind that this technology is very early on in its development, and it may not be long before we can generate background music for videos and really unleash creativity when it comes to making music with [[Generative AI]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), prompt (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Generative AI]] (1)
 > **URLs:** [withgoogle.com](https://withgoogle.com) (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Challenge: Soundtrack creation
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/challenge-soundtrack-creation?u=76281980)
+#### [Challenge: Soundtrack creation](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/challenge-soundtrack-creation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -798,13 +779,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1), next (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Soundtrack creation
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/solution-soundtrack-creation?u=76281980)
+#### [Solution: Soundtrack creation](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/solution-soundtrack-creation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -834,8 +813,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -843,11 +821,11 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/next-steps?u=76281980&t=2)** I wanted to thank you for taking the time to learn how to leverage multimodality in AI.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/next-steps?u=76281980&t=8)** Now to keep the learning going, I can recommend a few resources as well as courses in the LinkedIn Learning Library.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/next-steps?u=76281980&t=8)** Now to keep the learning going, I can recommend a few resources as well as courses in the [[LinkedIn]] Learning Library.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/next-steps?u=76281980&t=16)** To get a broad sense of the generative AI ecosystem and what prompt engineering means for various tools, I can recommend my course, [[Introduction To Prompt Engineering For Generative Ai]].
+> **[0:16](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/next-steps?u=76281980&t=16)** To get a broad sense of the [[Generative AI]] ecosystem and what [[Prompt Engineering]] means for various tools, I can recommend my course, [[Introduction To Prompt Engineering For Generative Ai]].
 >
-> **[0:30](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/next-steps?u=76281980&t=30)** Then there's Ray Villalobos' course, [[Exploring Million-Token Models with Google Gemini Pro 1.5]].
+> **[0:30](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/next-steps?u=76281980&t=30)** Then there's Ray Villalobos' course, [[Exploring Million-Token Models with [[Google Gemini]] Pro 1.5]].
 >
 > **[0:38](https://www.linkedin.com/learning/introduction-to-multimodal-prompting-for-generative-ai/next-steps?u=76281980&t=38)** In this course, Ray looks at what such a large context window means when it comes to different input types, such as text, video, and audio.
 >
@@ -865,7 +843,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prompt Engineering]] (4), ai (3), [[Generative AI]] (3), [[LinkedIn]] (2), [[Google Gemini]] (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (4), [[Generative AI]] (3), [[LinkedIn]] (2), [[Google Gemini]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gpt (1)
 > **Versions:** 1.5 (1)

@@ -73,12 +73,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### To maintain longevity, you need to keep learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/to-maintain-longevity-you-need-to-keep-learning?u=76281980)
+#### [To maintain longevity, you need to keep learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/to-maintain-longevity-you-need-to-keep-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advance-your-cybersecurity-career/to-maintain-longevity-you-need-to-keep-learning?u=76281980&t=0)** - There was a misconception of thinking, once you land that first cybersecurity role, you made it.
+> **[0:00](https://www.linkedin.com/learning/advance-your-cybersecurity-career/to-maintain-longevity-you-need-to-keep-learning?u=76281980&t=0)** - There was a misconception of thinking, once you land that first [[Cybersecurity]] role, you made it.
 >
 > **[0:05](https://www.linkedin.com/learning/advance-your-cybersecurity-career/to-maintain-longevity-you-need-to-keep-learning?u=76281980&t=5)** In order to advance your cybersecurity career, you must partake in continuous learning to stay current.
 >
@@ -86,7 +85,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/advance-your-cybersecurity-career/to-maintain-longevity-you-need-to-keep-learning?u=76281980&t=13)** To maintain longevity, you need to learn something new.
 >
-> **[0:16](https://www.linkedin.com/learning/advance-your-cybersecurity-career/to-maintain-longevity-you-need-to-keep-learning?u=76281980&t=16)** Because you're here in LinkedIn Learning, you already distinguish yourself that you're ready to do this.
+> **[0:16](https://www.linkedin.com/learning/advance-your-cybersecurity-career/to-maintain-longevity-you-need-to-keep-learning?u=76281980&t=16)** Because you're here in [[LinkedIn]] Learning, you already distinguish yourself that you're ready to do this.
 >
 > **[0:21](https://www.linkedin.com/learning/advance-your-cybersecurity-career/to-maintain-longevity-you-need-to-keep-learning?u=76281980&t=21)** Hi, my name is Henri Davis.
 >
@@ -102,7 +101,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (6), career (4), [[LinkedIn]] (1), game (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[LinkedIn]] (1)
 > **Cross-References:** we discussed (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - there (1)
@@ -112,8 +111,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Self-evaluate your cybersecurity career
-> [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/self-evaluate-your-cybersecurity-career?u=76281980)
+#### [Self-evaluate your cybersecurity career](https://www.linkedin.com/learning/advance-your-cybersecurity-career/self-evaluate-your-cybersecurity-career?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -177,18 +175,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (5), management (1), strengths (1), game (1), [[Security]] (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - do (1)
 
-#### Ask questions that align with your organization's mission
-> [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/ask-questions-that-align-with-your-organization-s-mission?u=76281980)
+#### [Ask questions that align with your organization's mission](https://www.linkedin.com/learning/advance-your-cybersecurity-career/ask-questions-that-align-with-your-organization-s-mission?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advance-your-cybersecurity-career/ask-questions-that-align-with-your-organization-s-mission?u=76281980&t=0)** - [Instructor] Most people think that cybersecurity is about being in the Wild West playing cops and robbers as we defend against security threats.
+> **[0:00](https://www.linkedin.com/learning/advance-your-cybersecurity-career/ask-questions-that-align-with-your-organization-s-mission?u=76281980&t=0)** - [Instructor] Most people think that [[Cybersecurity]] is about being in the Wild West playing cops and robbers as we defend against security threats.
 >
-> **[0:07](https://www.linkedin.com/learning/advance-your-cybersecurity-career/ask-questions-that-align-with-your-organization-s-mission?u=76281980&t=7)** But truth be told, our job is to help support the business operations to keep the environment safe so it can continue to make money.
+> **[0:07](https://www.linkedin.com/learning/advance-your-cybersecurity-career/ask-questions-that-align-with-your-organization-s-mission?u=76281980&t=7)** But truth be told, our job is to help support the [[Business Operations]] to keep the environment safe so it can continue to make money.
 >
 > **[0:15](https://www.linkedin.com/learning/advance-your-cybersecurity-career/ask-questions-that-align-with-your-organization-s-mission?u=76281980&t=15)** If you grasp that concept, then you'll understand how to formulate questions that align with the company strategy and vision better.
 >
@@ -218,22 +214,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Security]] (1), business (1), teams (1), career (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Business Operations]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Review your cybersecurity documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/review-your-cybersecurity-documentation?u=76281980)
+#### [Review your cybersecurity documentation](https://www.linkedin.com/learning/advance-your-cybersecurity-career/review-your-cybersecurity-documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advance-your-cybersecurity-career/review-your-cybersecurity-documentation?u=76281980&t=0)** - Writing technical documentation is an underrated skillset because a lot of people don't want to do it.
+> **[0:00](https://www.linkedin.com/learning/advance-your-cybersecurity-career/review-your-cybersecurity-documentation?u=76281980&t=0)** - Writing [[Technical Documentation]] is an underrated skillset because a lot of people don't want to do it.
 >
 > **[0:06](https://www.linkedin.com/learning/advance-your-cybersecurity-career/review-your-cybersecurity-documentation?u=76281980&t=6)** And some people aren't good at it.
 >
 > **[0:08](https://www.linkedin.com/learning/advance-your-cybersecurity-career/review-your-cybersecurity-documentation?u=76281980&t=8)** I can tell you personally, how many organizations suffer from the lack of documentation.
 >
-> **[0:12](https://www.linkedin.com/learning/advance-your-cybersecurity-career/review-your-cybersecurity-documentation?u=76281980&t=12)** And when you have a lack of documentation, this can lead to huge cybersecurity risks.
+> **[0:12](https://www.linkedin.com/learning/advance-your-cybersecurity-career/review-your-cybersecurity-documentation?u=76281980&t=12)** And when you have a lack of documentation, this can lead to huge [[Cybersecurity]] risks.
 >
 > **[0:17](https://www.linkedin.com/learning/advance-your-cybersecurity-career/review-your-cybersecurity-documentation?u=76281980&t=17)** And there's also a lack of knowledge that exists on the team.
 >
@@ -283,19 +278,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Technical Documentation]] (3), [[Cybersecurity]] (1), teams (1), business (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Technical Documentation]] (3), [[Cybersecurity]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (2)
 > **Documentation:** the documentation (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - writing (1)
 
-#### Learn the importance of KPIs and metrics in cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/learn-the-importance-of-kpis-and-metrics-in-cybersecurity?u=76281980)
+#### [Learn the importance of KPIs and metrics in cybersecurity](https://www.linkedin.com/learning/advance-your-cybersecurity-career/learn-the-importance-of-kpis-and-metrics-in-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advance-your-cybersecurity-career/learn-the-importance-of-kpis-and-metrics-in-cybersecurity?u=76281980&t=0)** - [Instructor] Learn the importance of KPIs and metrics in cybersecurity.
+> **[0:00](https://www.linkedin.com/learning/advance-your-cybersecurity-career/learn-the-importance-of-kpis-and-metrics-in-cybersecurity?u=76281980&t=0)** - [Instructor] Learn the importance of KPIs and metrics in [[Cybersecurity]].
 >
 > **[0:04](https://www.linkedin.com/learning/advance-your-cybersecurity-career/learn-the-importance-of-kpis-and-metrics-in-cybersecurity?u=76281980&t=4)** Did you know that most of every tool, person in your environment is based on KPIs and metrics?
 >
@@ -321,7 +315,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (1), business (1), [[Security]] (1), [[Orchestration]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **Env Vars:** soc (2), kpi (1), soar (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** stands for (1)
@@ -333,8 +327,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuously learn new skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/continuously-learn-new-skills?u=76281980)
+#### [Continuously learn new skills](https://www.linkedin.com/learning/advance-your-cybersecurity-career/continuously-learn-new-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -344,13 +337,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/advance-your-cybersecurity-career/continuously-learn-new-skills?u=76281980&t=7)** So, being a skilled ninja is just like being a skilled cyber security professional.
 >
-> **[0:11](https://www.linkedin.com/learning/advance-your-cybersecurity-career/continuously-learn-new-skills?u=76281980&t=11)** In order to be a skilled cyber security professional, you need to work on your skills, whether they're technical or soft skills, weekly and daily.
+> **[0:11](https://www.linkedin.com/learning/advance-your-cybersecurity-career/continuously-learn-new-skills?u=76281980&t=11)** In order to be a skilled cyber security professional, you need to work on your skills, whether they're technical or [[Soft Skills]], weekly and daily.
 >
 > **[0:19](https://www.linkedin.com/learning/advance-your-cybersecurity-career/continuously-learn-new-skills?u=76281980&t=19)** The reason you need to keep on improving your skillset in cyber security is because, threats are ever changing.
 >
 > **[0:25](https://www.linkedin.com/learning/advance-your-cybersecurity-career/continuously-learn-new-skills?u=76281980&t=25)** When I started my journey to get into cyber security over 10 years ago, it was nothing like it is now.
 >
-> **[0:31](https://www.linkedin.com/learning/advance-your-cybersecurity-career/continuously-learn-new-skills?u=76281980&t=31)** Now you have this thing called the IOT and all these different cloud based apps.
+> **[0:31](https://www.linkedin.com/learning/advance-your-cybersecurity-career/continuously-learn-new-skills?u=76281980&t=31)** Now you have this thing called the [[IoT]] and all these different cloud based apps.
 >
 > **[0:35](https://www.linkedin.com/learning/advance-your-cybersecurity-career/continuously-learn-new-skills?u=76281980&t=35)** The attack vectors are growing at a tremendous rate to where we don't have the manpower for it.
 >
@@ -362,7 +355,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/advance-your-cybersecurity-career/continuously-learn-new-skills?u=76281980&t=55)** EDR tools like CrowdStrike, Tanium, McAfee ePO, SIEM tools like Splunk, QRadar and even SOAR tools like Phantom and XSOAR.
 >
-> **[1:04](https://www.linkedin.com/learning/advance-your-cybersecurity-career/continuously-learn-new-skills?u=76281980&t=64)** This enabled me to get better at my job and become more marketable in the cybersecurity job market.
+> **[1:04](https://www.linkedin.com/learning/advance-your-cybersecurity-career/continuously-learn-new-skills?u=76281980&t=64)** This enabled me to get better at my job and become more marketable in the [[Cybersecurity]] job market.
 >
 > **[1:10](https://www.linkedin.com/learning/advance-your-cybersecurity-career/continuously-learn-new-skills?u=76281980&t=70)** I learned the skills mentioned above via trial and error, training from vendors, self-study and shadowing platform engineers.
 >
@@ -400,18 +393,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), [[Soft Skills]] (1), [[IoT]] (1), cloud (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (1), [[IoT]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** siem (2), iot (1), edr (1), soar (1), xsoar (1)
 > **Code Identifiers:** epo (1), elearning (1)
 > **Analogies:** just like (1)
 > **Speakers:** - my (1)
 
-#### Complete cybersecurity projects to advance your career
-> [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/complete-cybersecurity-projects-to-advance-your-career?u=76281980)
+#### [Complete cybersecurity projects to advance your career](https://www.linkedin.com/learning/advance-your-cybersecurity-career/complete-cybersecurity-projects-to-advance-your-career?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advance-your-cybersecurity-career/complete-cybersecurity-projects-to-advance-your-career?u=76281980&t=0)** - To advance in your cybersecurity career, you need some type of project in your portfolio and that you can highlight on your resume.
+> **[0:00](https://www.linkedin.com/learning/advance-your-cybersecurity-career/complete-cybersecurity-projects-to-advance-your-career?u=76281980&t=0)** - To advance in your [[Cybersecurity]] career, you need some type of project in your portfolio and that you can highlight on your resume.
 >
 > **[0:07](https://www.linkedin.com/learning/advance-your-cybersecurity-career/complete-cybersecurity-projects-to-advance-your-career?u=76281980&t=7)** Even if you think something that you worked on at work isn't that big, I want you to take a step back and look at it again.
 >
@@ -445,14 +437,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (1), career (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** soar (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - to (1)
 
-#### Become a SME for your role
-> [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/become-a-sme-for-your-role?u=76281980)
+#### [Become a SME for your role](https://www.linkedin.com/learning/advance-your-cybersecurity-career/become-a-sme-for-your-role?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -496,13 +487,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), [[Search]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** soc (1)
 > **Speakers:** - whatever (1)
 
-#### Engage in meetings to stand out
-> [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/engage-in-meetings-to-stand-out?u=76281980)
+#### [Engage in meetings to stand out](https://www.linkedin.com/learning/advance-your-cybersecurity-career/engage-in-meetings-to-stand-out?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -520,13 +509,13 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/advance-your-cybersecurity-career/engage-in-meetings-to-stand-out?u=76281980&t=40)** The best way to stand out on your role is be different and not be afraid to feel like something.
 >
-> **[0:45](https://www.linkedin.com/learning/advance-your-cybersecurity-career/engage-in-meetings-to-stand-out?u=76281980&t=45)** So what do you plan on doing at your next team Zoom meeting?
+> **[0:45](https://www.linkedin.com/learning/advance-your-cybersecurity-career/engage-in-meetings-to-stand-out?u=76281980&t=45)** So what do you plan on doing at your next team [[Zoom]] meeting?
 >
 > **[0:48](https://www.linkedin.com/learning/advance-your-cybersecurity-career/engage-in-meetings-to-stand-out?u=76281980&t=48)** Do you plan to address some things that are happening on your team to bring visibility to it?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -534,8 +523,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Improve your soft skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/improve-your-soft-skills?u=76281980)
+#### [Improve your soft skills](https://www.linkedin.com/learning/advance-your-cybersecurity-career/improve-your-soft-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -545,9 +533,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/advance-your-cybersecurity-career/improve-your-soft-skills?u=76281980&t=7)** That hiring manager and that team is looking at your personality and seeing how you're going to mix with the team and the organization, 'cause believe it or not being a good fit for the company culture is very huge when it comes to hiring decisions.
 >
-> **[0:21](https://www.linkedin.com/learning/advance-your-cybersecurity-career/improve-your-soft-skills?u=76281980&t=21)** In cybersecurity, we interact with different clients, teams, business units that are not always technical.
+> **[0:21](https://www.linkedin.com/learning/advance-your-cybersecurity-career/improve-your-soft-skills?u=76281980&t=21)** In [[Cybersecurity]], we interact with different clients, teams, business units that are not always technical.
 >
-> **[0:28](https://www.linkedin.com/learning/advance-your-cybersecurity-career/improve-your-soft-skills?u=76281980&t=28)** This is where soft skills play a major key in your job's day-to-day function.
+> **[0:28](https://www.linkedin.com/learning/advance-your-cybersecurity-career/improve-your-soft-skills?u=76281980&t=28)** This is where [[Soft Skills]] play a major key in your job's day-to-day function.
 >
 > **[0:33](https://www.linkedin.com/learning/advance-your-cybersecurity-career/improve-your-soft-skills?u=76281980&t=33)** Soft skills are non-technical skills that are correlated to how you work.
 >
@@ -561,7 +549,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/advance-your-cybersecurity-career/improve-your-soft-skills?u=76281980&t=59)** When you're talking to a director, upper directors, owner of the company, just keep it simple and tell 'em what they need to know.
 >
-> **[1:09](https://www.linkedin.com/learning/advance-your-cybersecurity-career/improve-your-soft-skills?u=76281980&t=69)** When you reach out to a team member on Slack or Teams, don't just ask for an update without greeting the person first.
+> **[1:09](https://www.linkedin.com/learning/advance-your-cybersecurity-career/improve-your-soft-skills?u=76281980&t=69)** When you reach out to a team member on [[Slack]] or Teams, don't just ask for an update without greeting the person first.
 >
 > **[1:15](https://www.linkedin.com/learning/advance-your-cybersecurity-career/improve-your-soft-skills?u=76281980&t=75)** Try this instead, "Hey, good morning," or "How are you doing?"
 >
@@ -585,7 +573,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/advance-your-cybersecurity-career/improve-your-soft-skills?u=76281980&t=136)** No matter how smart you are, you are still a person before your technical skill set.
 >
-> **[2:21](https://www.linkedin.com/learning/advance-your-cybersecurity-career/improve-your-soft-skills?u=76281980&t=141)** That hiring manager, those recruiters, the team, they're reviewing everything you do and your personality to see if you're going to mesh well with them.
+> **[2:21](https://www.linkedin.com/learning/advance-your-cybersecurity-career/improve-your-soft-skills?u=76281980&t=141)** That hiring manager, those recruiters, the team, they're reviewing everything you do and your personality to see if you're going to [[Mesh]] well with them.
 >
 > **[2:30](https://www.linkedin.com/learning/advance-your-cybersecurity-career/improve-your-soft-skills?u=76281980&t=150)** Companies care if you're a big culture fit for them.
 >
@@ -599,18 +587,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Soft Skills]] (9), teams (2), [[Cybersecurity]] (1), business (1), management (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (9), [[Cybersecurity]] (1), [[Slack]] (1), [[Mesh]] (1)
 > **CLI Commands:** make (2)
 > **Versions:** 2.0 (1)
 > **Tools:** slack (1)
 > **Speakers:** - you (1)
 
-#### Networking soft skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/networking-soft-skills?u=76281980)
+#### [Networking soft skills](https://www.linkedin.com/learning/advance-your-cybersecurity-career/networking-soft-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advance-your-cybersecurity-career/networking-soft-skills?u=76281980&t=0)** - [Narrator] Marketing your soft skills.
+> **[0:00](https://www.linkedin.com/learning/advance-your-cybersecurity-career/networking-soft-skills?u=76281980&t=0)** - [Narrator] Marketing your [[Soft Skills]].
 >
 > **[0:02](https://www.linkedin.com/learning/advance-your-cybersecurity-career/networking-soft-skills?u=76281980&t=2)** Now this course is not a how to get a cyber security job course, but I want to touch on this to help you out in your cyber security career.
 >
@@ -628,7 +615,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/advance-your-cybersecurity-career/networking-soft-skills?u=76281980&t=34)** They're good. Hire them."
 >
-> **[0:36](https://www.linkedin.com/learning/advance-your-cybersecurity-career/networking-soft-skills?u=76281980&t=36)** Use LinkedIn and network with other professionals.
+> **[0:36](https://www.linkedin.com/learning/advance-your-cybersecurity-career/networking-soft-skills?u=76281980&t=36)** Use [[LinkedIn]] and network with other professionals.
 >
 > **[0:40](https://www.linkedin.com/learning/advance-your-cybersecurity-career/networking-soft-skills?u=76281980&t=40)** It's 2022.
 >
@@ -670,7 +657,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (8), [[Security]] (6), career (5), [[Search]] (2), [[Soft Skills]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (8), [[Soft Skills]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cnbc (1)
 > **Definitions:** is a  (1)
@@ -681,8 +668,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Excel and advance in your career
-> [LinkedIn Learning](https://www.linkedin.com/learning/advance-your-cybersecurity-career/excel-and-advance-in-your-career?u=76281980)
+#### [Excel and advance in your career](https://www.linkedin.com/learning/advance-your-cybersecurity-career/excel-and-advance-in-your-career?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -700,11 +686,11 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/advance-your-cybersecurity-career/excel-and-advance-in-your-career?u=76281980&t=22)** I have a podcast where we drop weekly information on how to level up your tech game, called the TechTual Talk Podcast, available on all streaming platforms.
 >
-> **[0:30](https://www.linkedin.com/learning/advance-your-cybersecurity-career/excel-and-advance-in-your-career?u=76281980&t=30)** And also, if you still need help to get into cybersecurity yourself, check out my ebook, "The TechTual Approach to Breaking Into Cybersecurity."
+> **[0:30](https://www.linkedin.com/learning/advance-your-cybersecurity-career/excel-and-advance-in-your-career?u=76281980&t=30)** And also, if you still need help to get into [[Cybersecurity]] yourself, check out my ebook, "The TechTual Approach to Breaking Into Cybersecurity."
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (2), game (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2)
 > **Speakers:** - now (1)
 
 

@@ -57,12 +57,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Descriptive and exploratory statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980)
+#### [Descriptive and exploratory statistics](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=0)** - [Darren] I'm Darren Glosenmeyer, lead statistics developer at Wolfram Research.
+> **[0:00](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=0)** - [Darren] I'm Darren Glosenmeyer, lead [[Statistics]] developer at Wolfram Research.
 >
 > **[0:04](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=4)** And in today's course, we're going to talk about descriptive and exploratory statistics.
 >
@@ -80,7 +79,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=44)** The Import and Export functions are useful for loading in various types of data, including numeric and tabular data, as you would typically find in many statistical applications.
 >
-> **[0:55](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=55)** Pretty much all of the standard formats that you would expect to work with, Excel data files, database files, those are all accessible within Mathematica.
+> **[0:55](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=55)** Pretty much all of the standard formats that you would expect to work with, [[Microsoft Excel|Excel]] data files, database files, those are all accessible within Mathematica.
 >
 > **[1:06](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=66)** And we can see a long list of the file types that can be imported and exported in Mathematica.
 >
@@ -88,7 +87,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=79)** Some of those are graphics, some of those are numeric data, some of those are textual data formats.
 >
-> **[1:24](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=84)** There's also a database link included, which is fully SQL compatible, so you can interact with any database you might have available.
+> **[1:24](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=84)** There's also a database link included, which is fully [[SQL]] compatible, so you can interact with any database you might have available.
 >
 > **[1:37](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=97)** In terms of descriptive statistics, we'll start out with a dataset on Old Faithful geyser duration and waiting times to get a feel for the descriptive statistics and charts available in Mathematica.
 >
@@ -104,7 +103,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=174)** There are numerous types of visualization functions in Mathematica, and we can see a small gallery of those.
 >
-> **[3:01](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=181)** They include histograms, various types of density plots, quantile plots, probability plots, and so on.
+> **[3:01](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=181)** They include histograms, various types of density plots, quantile plots, [[Probability]] plots, and so on.
 >
 > **[3:16](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=196)** So in that last slide, we looked at univariate descriptions of data.
 >
@@ -148,7 +147,7 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=337)** It's often important to transform your data.
 >
-> **[5:41](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=341)** And for this example, we'll take a look at some financial data, Dow Jones closing prices from 2010, 2011.
+> **[5:41](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=341)** And for this example, we'll take a look at some [[Financial Data]], Dow Jones closing prices from 2010, 2011.
 >
 > **[5:48](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=348)** And some built-in functions for smoothing your data include MovingAverage, MovingMedian, and ExponentialMovingAverage.
 >
@@ -174,7 +173,7 @@ created: 2026-05-02
 >
 > **[7:10](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=430)** In addition to MovingAverages and MovingMedian, there are built-in filters, often used in signal processing that can also be useful for smoothing data.
 >
-> **[7:19](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=439)** And there are general functions for correlations and convolutions of data, as well as arithmetic and general linear algebra functions that can be used to create smoothers.
+> **[7:19](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=439)** And there are general functions for correlations and convolutions of data, as well as arithmetic and general [[Linear Algebra]] functions that can be used to create smoothers.
 >
 > **[7:36](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=456)** Another common application is to group your data together in some way.
 >
@@ -224,7 +223,7 @@ created: 2026-05-02
 >
 > **[10:35](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=635)** And they're all pretty far away from import export.
 >
-> **[10:39](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=639)** And so the distance and dissimilarity being used here is the number of changes of characters in the word in order to get from one to the other.
+> **[10:39](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=639)** And so the distance and dissimilarity being used here is the number of changes of characters in the [[Microsoft Word|word]] in order to get from one to the other.
 >
 > **[10:49](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/descriptive-and-exploratory-statistics?u=76281980&t=649)** And we notice we get this message back about the number of ties.
 >
@@ -238,7 +237,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (52), [[Statistics]] (9), database (3), [[Microsoft Excel|Excel]] (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (9), [[Microsoft Excel|Excel]] (2), [[SQL]] (1), [[Probability]] (1), [[Financial Data]] (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** find (1)
 > **URLs:** [wolfram.com](https://wolfram.com) (1)
@@ -250,20 +249,18 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Statistical distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/statistical-distribution?u=76281980)
+#### [Statistical distribution](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/statistical-distribution?u=76281980)
 
 
 ### 3. Hypothesis Testing
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hypothesis testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/hypothesis-testing?u=76281980)
+#### [Hypothesis testing](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/hypothesis-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/hypothesis-testing?u=76281980&t=0)** - [Darren] I'm Darren Glosemeyer, lead statistics developer at Wolfram Research.
+> **[0:00](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/hypothesis-testing?u=76281980&t=0)** - [Darren] I'm Darren Glosemeyer, lead [[Statistics]] developer at Wolfram Research.
 >
 > **[0:04](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/hypothesis-testing?u=76281980&t=4)** And in this course we're going to talk about hypothesis testing in Mathematica.
 >
@@ -289,7 +286,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/hypothesis-testing?u=76281980&t=106)** And a one-sided test would say that the true value is greater than or less than that particular value.
 >
-> **[1:56](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/hypothesis-testing?u=76281980&t=116)** So for instance, if we look at a two-sided P-value, we would see that we would have two times the probability that X is greater than the particular estimate in this case, data had as our estimate.
+> **[1:56](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/hypothesis-testing?u=76281980&t=116)** So for instance, if we look at a two-sided P-value, we would see that we would have two times the [[Probability]] that X is greater than the particular estimate in this case, data had as our estimate.
 >
 > **[2:11](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/hypothesis-testing?u=76281980&t=131)** So the P-value is going to be twice this tail, and in this case we're going to have a P-value that is twice the lower tail 'cause theta is below the median.
 >
@@ -305,7 +302,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/hypothesis-testing?u=76281980&t=193)** So we can start off here with some example data.
 >
-> **[3:16](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/hypothesis-testing?u=76281980&t=196)** And this data describes failure times for airplane windows.
+> **[3:16](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/hypothesis-testing?u=76281980&t=196)** And this data describes failure times for airplane [[Windows]].
 >
 > **[3:22](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/hypothesis-testing?u=76281980&t=202)** And so we might want to test the hypothesis that the mean or median failure time is 28 against the alternative that it's not.
 >
@@ -453,7 +450,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Statistics]] (2), [[Probability]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Probability]] (2), [[Windows]] (1)
 > **Versions:** 0.05 (5), 0.04 (1)
 > **Analogies:** for instance (5), such as (1)
 > **CLI Commands:** make (2)
@@ -467,18 +464,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Model fitting and analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/model-fitting-and-analysis?u=76281980)
+#### [Model fitting and analysis](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/model-fitting-and-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/model-fitting-and-analysis?u=76281980&t=0)** - [Darren] I'm Darren Glosemeyer, Lead Statistics Developer at Wolfram Research.
+> **[0:00](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/model-fitting-and-analysis?u=76281980&t=0)** - [Darren] I'm Darren Glosemeyer, Lead [[Statistics]] Developer at Wolfram Research.
 >
 > **[0:03](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/model-fitting-and-analysis?u=76281980&t=3)** And in this course we're going to talk about model fitting.
 >
-> **[0:09](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/model-fitting-and-analysis?u=76281980&t=9)** Mathematica includes a framework for linear, non-linear, logit, probit, and generalized linear models, as well as extensive optimization functions, linear algebra, and a package for analysis of variance, which allow for many types of model fitting and analysis.
+> **[0:09](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/model-fitting-and-analysis?u=76281980&t=9)** Mathematica includes a framework for linear, non-linear, logit, probit, and generalized linear models, as well as extensive optimization functions, [[Linear Algebra]], and a package for analysis of variance, which allow for many types of model fitting and analysis.
 >
-> **[0:26](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/model-fitting-and-analysis?u=76281980&t=26)** First, we'll start by importing some data from an Excel spreadsheet, and we'll use this data for a linear regression model.
+> **[0:26](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/model-fitting-and-analysis?u=76281980&t=26)** First, we'll start by importing some data from an [[Microsoft Excel|Excel]] spreadsheet, and we'll use this data for a [[Linear Regression]] model.
 >
 > **[0:34](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/model-fitting-and-analysis?u=76281980&t=34)** So we have a data set with three predictors and one response variable, and we'll call those first three predictors x, y, and z.
 >
@@ -546,7 +542,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/model-fitting-and-analysis?u=76281980&t=246)** There are lots of possibilities.
 >
-> **[4:08](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/model-fitting-and-analysis?u=76281980&t=248)** Some common cases of these types of models are linear regression model, the logistic regression model, the probit model, log-linear models for count data, and gamma and inverse Gaussian models.
+> **[4:08](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/model-fitting-and-analysis?u=76281980&t=248)** Some common cases of these types of models are linear regression model, the [[Logistic Regression]] model, the probit model, log-linear models for count data, and gamma and inverse Gaussian models.
 >
 > **[4:18](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/model-fitting-and-analysis?u=76281980&t=258)** In Mathematica, these are all included in the generalized linear model fit function, and quasi-likelihood models are also allowed.
 >
@@ -576,7 +572,7 @@ created: 2026-05-02
 >
 > **[6:16](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/model-fitting-and-analysis?u=76281980&t=376)** And we can see a difference in the basic form in these outputs.
 >
-> **[6:23](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/model-fitting-and-analysis?u=76281980&t=383)** And we could take a look at the functional forms of these guys.
+> **[6:23](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/model-fitting-and-analysis?u=76281980&t=383)** And we could take a look at the functional [[Forms]] of these guys.
 >
 > **[6:26](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/model-fitting-and-analysis?u=76281980&t=386)** Again, we can use normal.
 >
@@ -756,7 +752,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Linear Regression]] (9), functional (5), [[Statistics]] (2), [[Logistic Regression]] (2)
+> **Frameworks & Libraries:** [[Linear Regression]] (9), [[Statistics]] (2), [[Logistic Regression]] (2), [[Linear Algebra]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** anova (5), aic (1), cdf (1)
 > **Definitions:** is a  (4), is called (1), is an  (1)
 > **Analogies:** for instance (4)
@@ -770,8 +766,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Modeling with statistical distributions
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/modeling-with-statistical-distributions?u=76281980)
+#### [Modeling with statistical distributions](https://www.linkedin.com/learning/statistical-analysis-with-wolfram-language/modeling-with-statistical-distributions?u=76281980)
 
 
 ## Instructor

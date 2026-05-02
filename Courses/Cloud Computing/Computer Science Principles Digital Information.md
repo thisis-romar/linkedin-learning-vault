@@ -81,16 +81,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/computer-science-principles-digital-information/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/computer-science-principles-digital-information/welcome?u=76281980&t=1)** - Computer science is more than just coding and programming.
 >
-> **[0:04](https://www.linkedin.com/learning/computer-science-principles-digital-information/welcome?u=76281980&t=4)** It's about understanding how hardware and software work together to create tools that the world uses every day.
+> **[0:04](https://www.linkedin.com/learning/computer-science-principles-digital-information/welcome?u=76281980&t=4)** It's about understanding how [[Hardware]] and software work together to create tools that the world uses every day.
 >
-> **[0:11](https://www.linkedin.com/learning/computer-science-principles-digital-information/welcome?u=76281980&t=11)** Information in tons of different forms from text, values, pictures, to logic need to be represented in a way that the hardware and software understand.
+> **[0:11](https://www.linkedin.com/learning/computer-science-principles-digital-information/welcome?u=76281980&t=11)** Information in tons of different [[Forms]] from text, values, pictures, to logic need to be represented in a way that the hardware and software understand.
 >
 > **[0:22](https://www.linkedin.com/learning/computer-science-principles-digital-information/welcome?u=76281980&t=22)** That requires abstracting what we see, hear, and understand and represent it in a digital way.
 >
@@ -114,16 +113,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (2), [[Forms]] (2), [[Programming]] (1), data (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Forms]] (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - computer (1)
 
-#### What you should know beforehand
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/what-you-should-know-beforehand?u=76281980)
+#### [What you should know beforehand](https://www.linkedin.com/learning/computer-science-principles-digital-information/what-you-should-know-beforehand?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/computer-science-principles-digital-information/what-you-should-know-beforehand?u=76281980&t=1)** - This course is designed for anyone who is curious about how computers, hardware, and software work.
+> **[0:01](https://www.linkedin.com/learning/computer-science-principles-digital-information/what-you-should-know-beforehand?u=76281980&t=1)** - This course is designed for anyone who is curious about how computers, [[Hardware]], and software work.
 >
 > **[0:06](https://www.linkedin.com/learning/computer-science-principles-digital-information/what-you-should-know-beforehand?u=76281980&t=6)** You don't have to have any programming experience in order to complete this course and you don't need any specific devices or computers.
 >
@@ -139,11 +137,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), [[Hardware]] (1), data (1), application (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Speakers:** - this (1)
 
-#### Contact
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/contact?u=76281980)
+#### [Contact](https://www.linkedin.com/learning/computer-science-principles-digital-information/contact?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -161,7 +158,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/computer-science-principles-digital-information/contact?u=76281980&t=29)** On this site, I have a lot of information on the projects I'm working on and general updates and additional information on the courses, apps, and materials I create.
 >
-> **[0:36](https://www.linkedin.com/learning/computer-science-principles-digital-information/contact?u=76281980&t=36)** On LinkedIn, you can follow me and read my posts and updates at [linkedin.com/in/sfdesigner](https://linkedin.com/in/sfdesigner).
+> **[0:36](https://www.linkedin.com/learning/computer-science-principles-digital-information/contact?u=76281980&t=36)** On [[LinkedIn]], you can follow me and read my posts and updates at [linkedin.com/in/sfdesigner](https://linkedin.com/in/sfdesigner).
 >
 > **[0:43](https://www.linkedin.com/learning/computer-science-principles-digital-information/contact?u=76281980&t=43)** On LinkedIn, I do a lot of articles and posts on working, teaching, and living in a technology industry.
 >
@@ -185,7 +182,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/computer-science-principles-digital-information/contact?u=76281980&t=89)** I'd love to hear from you, so check out the website and reach out whichever means works best for you.
 >
-> **[1:34](https://www.linkedin.com/learning/computer-science-principles-digital-information/contact?u=76281980&t=94)** But just a heads-up, while I love hearing from everyone, just remember that I can't answer any technical support questions about the course.
+> **[1:34](https://www.linkedin.com/learning/computer-science-principles-digital-information/contact?u=76281980&t=94)** But just a heads-up, while I love hearing from everyone, just remember that I can't answer any [[Technical Support]] questions about the course.
 >
 > **[1:42](https://www.linkedin.com/learning/computer-science-principles-digital-information/contact?u=76281980&t=102)** For those, be sure to follow the appropriate links on the site.
 >
@@ -193,7 +190,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Programming]] (1), next (1), [[Technical Support]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Technical Support]] (1)
 > **CLI Commands:** find (4)
 > **URLs:** [dougwinnie.com](https://dougwinnie.com) (1), [linkedin.com](https://linkedin.com) (1), [facebook.com](https://facebook.com) (1)
 > **UI Navigation:** go to (2)
@@ -204,8 +201,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### History of innovation
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/history-of-innovation?u=76281980)
+#### [History of innovation](https://www.linkedin.com/learning/computer-science-principles-digital-information/history-of-innovation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -247,7 +243,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/computer-science-principles-digital-information/history-of-innovation?u=76281980&t=140)** But all this innovation goes back to the basic principles of computer science.
 >
-> **[2:25](https://www.linkedin.com/learning/computer-science-principles-digital-information/history-of-innovation?u=76281980&t=145)** Programming, the internet and data storage are all possible through the basic abstraction of information that we all recognize into the native language of modern computer can interpret and understand.
+> **[2:25](https://www.linkedin.com/learning/computer-science-principles-digital-information/history-of-innovation?u=76281980&t=145)** Programming, the internet and [[Data Storage]] are all possible through the basic abstraction of information that we all recognize into the native language of modern computer can interpret and understand.
 >
 > **[2:39](https://www.linkedin.com/learning/computer-science-principles-digital-information/history-of-innovation?u=76281980&t=159)** While we might be here today, when you look towards future innovation it will be based on the principles that have been built and have evolved in the past century.
 >
@@ -255,7 +251,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/computer-science-principles-digital-information/history-of-innovation?u=76281980&t=178)** The impact of the innovation of computers and computer science extends far beyond the computer.
 >
-> **[3:04](https://www.linkedin.com/learning/computer-science-principles-digital-information/history-of-innovation?u=76281980&t=184)** In the areas of art and fashion computers are used to build 3D printed clothing and pieces of art using code that generates patterns and designs using algorithms found in nature such as fractals.
+> **[3:04](https://www.linkedin.com/learning/computer-science-principles-digital-information/history-of-innovation?u=76281980&t=184)** In the areas of art and fashion computers are used to build 3D printed clothing and pieces of art using code that generates patterns and designs using [[Algorithms]] found in nature such as fractals.
 >
 > **[3:16](https://www.linkedin.com/learning/computer-science-principles-digital-information/history-of-innovation?u=76281980&t=196)** In the area of medicine robotics and sensors are able to enter the body and detect medical conditions that would otherwise have gone unnoticed and could lead to misdiagnosis or future complications.
 >
@@ -265,13 +261,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), parallel (1), [[Programming]] (1), [[Algorithms]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Data Storage]] (1), [[Algorithms]] (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - innovation (1)
 
-#### Impact of coding and programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/impact-of-coding-and-programming?u=76281980)
+#### [Impact of coding and programming](https://www.linkedin.com/learning/computer-science-principles-digital-information/impact-of-coding-and-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -283,7 +278,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/computer-science-principles-digital-information/impact-of-coding-and-programming?u=76281980&t=8)** If it wasn't for programmers that tell computers what to do, they would just sit there.
 >
-> **[0:13](https://www.linkedin.com/learning/computer-science-principles-digital-information/impact-of-coding-and-programming?u=76281980&t=13)** Coding and programming are what allow all the hardware innovations that have been created come alive.
+> **[0:13](https://www.linkedin.com/learning/computer-science-principles-digital-information/impact-of-coding-and-programming?u=76281980&t=13)** Coding and programming are what allow all the [[Hardware]] innovations that have been created come alive.
 >
 > **[0:19](https://www.linkedin.com/learning/computer-science-principles-digital-information/impact-of-coding-and-programming?u=76281980&t=19)** The way the programming works with hardware can happen at many levels.
 >
@@ -323,13 +318,13 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/computer-science-principles-digital-information/impact-of-coding-and-programming?u=76281980&t=103)** So the API protects your system and creates a clearly defined way that programmers can work with hardware and with other software.
 >
-> **[1:51](https://www.linkedin.com/learning/computer-science-principles-digital-information/impact-of-coding-and-programming?u=76281980&t=111)** The operating systems we work with every day are things like macOS, Linux, Windows, iOS and Android.
+> **[1:51](https://www.linkedin.com/learning/computer-science-principles-digital-information/impact-of-coding-and-programming?u=76281980&t=111)** The operating systems we work with every day are things like macOS, [[Linux]], [[Windows]], iOS and [[Android]].
 >
 > **[1:59](https://www.linkedin.com/learning/computer-science-principles-digital-information/impact-of-coding-and-programming?u=76281980&t=119)** Each of these are the base system that allows the apps we use interact with the hardware of the system and they give us a way to navigate and access information and resources on all of our devices.
 >
 > **[2:11](https://www.linkedin.com/learning/computer-science-principles-digital-information/impact-of-coding-and-programming?u=76281980&t=131)** The makers of the operating system also provide a set of tools that allow developers to build applications that work with the system.
 >
-> **[2:20](https://www.linkedin.com/learning/computer-science-principles-digital-information/impact-of-coding-and-programming?u=76281980&t=140)** These are called SDKs or software development kits.
+> **[2:20](https://www.linkedin.com/learning/computer-science-principles-digital-information/impact-of-coding-and-programming?u=76281980&t=140)** These are called SDKs or [[Software Development]] kits.
 >
 > **[2:25](https://www.linkedin.com/learning/computer-science-principles-digital-information/impact-of-coding-and-programming?u=76281980&t=145)** These kits are tools that help programmers build applications that can be installed on top of the operating system.
 >
@@ -379,7 +374,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (10), [[Programming]] (5), game (5), api (4), application (2)
+> **Frameworks & Libraries:** [[Hardware]] (10), [[Windows]] (2), [[Linux]] (1), [[Android]] (1), [[Software Development]] (1)
 > **Env Vars:** api (4)
 > **Definitions:** is called (3)
 > **Code Identifiers:** macos (1), ios (1)
@@ -393,8 +388,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Yes and no answers with binary
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/yes-and-no-answers-with-binary?u=76281980)
+#### [Yes and no answers with binary](https://www.linkedin.com/learning/computer-science-principles-digital-information/yes-and-no-answers-with-binary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -452,8 +446,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - are (1)
 
-#### Binary and bits
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/binary-and-bits?u=76281980)
+#### [Binary and bits](https://www.linkedin.com/learning/computer-science-principles-digital-information/binary-and-bits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -513,13 +506,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Definitions:** is called (3), is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - we (1)
 
-#### Communicating with bits
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/communicating-with-bits?u=76281980)
+#### [Communicating with bits](https://www.linkedin.com/learning/computer-science-principles-digital-information/communicating-with-bits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -625,13 +616,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Definitions:** is called (2), means that (1)
 > **Analogies:** for instance (2), for example (1)
 > **Speakers:** - we (1)
 
-#### Digital communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/digital-communication?u=76281980)
+#### [Digital communication](https://www.linkedin.com/learning/computer-science-principles-digital-information/digital-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -671,7 +660,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/computer-science-principles-digital-information/digital-communication?u=76281980&t=120)** Data that's encoded into binary states and transmitted is then sent using these electric pulses.
 >
-> **[2:07](https://www.linkedin.com/learning/computer-science-principles-digital-information/digital-communication?u=76281980&t=127)** Electric and wire communications are the foundation of much of digital communication, especially within a home or office.
+> **[2:07](https://www.linkedin.com/learning/computer-science-principles-digital-information/digital-communication?u=76281980&t=127)** Electric and wire communications are the foundation of much of digital communication, especially within a home or [[Microsoft Office|office]].
 >
 > **[2:15](https://www.linkedin.com/learning/computer-science-principles-digital-information/digital-communication?u=76281980&t=135)** For instance, while you might use Wi-Fi that uses radio waves to transmit data, the hotspots you connect to are wired in a complex network of transmission lines that use electricity.
 >
@@ -747,7 +736,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Office|Office]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for instance (1), for example (1)
 > **CLI Commands:** find (1)
@@ -761,8 +750,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Abstraction of numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/abstraction-of-numbers?u=76281980)
+#### [Abstraction of numbers](https://www.linkedin.com/learning/computer-science-principles-digital-information/abstraction-of-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -858,7 +846,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/computer-science-principles-digital-information/abstraction-of-numbers?u=76281980&t=248)** So seven, two, three in hexadecimal, when we update our formulas for the columns of the digits, actually represents what we would recognize as one, eight, two, seven in decimal.
 >
-> **[4:19](https://www.linkedin.com/learning/computer-science-principles-digital-information/abstraction-of-numbers?u=76281980&t=259)** You'll often see hexadecimal when you do coding, especially in a web design.
+> **[4:19](https://www.linkedin.com/learning/computer-science-principles-digital-information/abstraction-of-numbers?u=76281980&t=259)** You'll often see hexadecimal when you do coding, especially in a [[Web Design]].
 >
 > **[4:24](https://www.linkedin.com/learning/computer-science-principles-digital-information/abstraction-of-numbers?u=76281980&t=264)** Colors represented by a series of three or six hexadecimal numbers, with the first group representing red, the second group as green, and the last as blue.
 >
@@ -876,15 +864,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), power (2), web (1)
+> **Frameworks & Libraries:** [[Web Design]] (1)
 > **CLI Commands:** make (2), yarn (1)
 > **Analogies:** for example (3)
 > **UI Navigation:** go to (1)
 > **Definitions:** is called (1)
 > **Speakers:** - when (1)
 
-#### Binary numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/binary-numbers?u=76281980)
+#### [Binary numbers](https://www.linkedin.com/learning/computer-science-principles-digital-information/binary-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -948,12 +935,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (10), next (6)
 > **CLI Commands:** find (1)
 > **Speakers:** - [voiceover] (1)
 
-#### Bit size and values
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/bit-size-and-values?u=76281980)
+#### [Bit size and values](https://www.linkedin.com/learning/computer-science-principles-digital-information/bit-size-and-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1065,7 +1050,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/computer-science-principles-digital-information/bit-size-and-values?u=76281980&t=262)** So that seems harmless enough, but a spreadsheet can contain tons of data in it.
 >
-> **[4:27](https://www.linkedin.com/learning/computer-science-principles-digital-information/bit-size-and-values?u=76281980&t=267)** In fact, Excel spreadsheets can contain over a million rows and more than sixteen thousand columns.
+> **[4:27](https://www.linkedin.com/learning/computer-science-principles-digital-information/bit-size-and-values?u=76281980&t=267)** In fact, [[Microsoft Excel|Excel]] spreadsheets can contain over a million rows and more than sixteen thousand columns.
 >
 > **[4:33](https://www.linkedin.com/learning/computer-science-principles-digital-information/bit-size-and-values?u=76281980&t=273)** That's over 17 billion cells of data.
 >
@@ -1081,14 +1066,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), power (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - with (1)
 
-#### Overflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/overflow?u=76281980)
+#### [Overflow](https://www.linkedin.com/learning/computer-science-principles-digital-information/overflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1176,7 +1160,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[Programming]] (1)
 > **Ports:** :14 (1), :45 (1), :52 (1)
 > **Env Vars:** y2k (1), utc (1)
 > **Speakers:** - when (1)
@@ -1186,8 +1169,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### ASCII and Unicode
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/ascii-and-unicode?u=76281980)
+#### [ASCII and Unicode](https://www.linkedin.com/learning/computer-science-principles-digital-information/ascii-and-unicode?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1257,18 +1239,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1)
 > **Env Vars:** ascii (3), utf8 (1)
 > **Definitions:** is called (4)
 > **CLI Commands:** find (1)
 > **Speakers:** - using (1)
 
-#### Encoding formatted text
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/encoding-formatted-text?u=76281980)
+#### [Encoding formatted text](https://www.linkedin.com/learning/computer-science-principles-digital-information/encoding-formatted-text?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/computer-science-principles-digital-information/encoding-formatted-text?u=76281980&t=0)** - [Voiceover] While text contains the words we want to say, we use emphasis, color, size, and other typography elements to add energy and additional meaning to the words.
+> **[0:00](https://www.linkedin.com/learning/computer-science-principles-digital-information/encoding-formatted-text?u=76281980&t=0)** - [Voiceover] While text contains the words we want to say, we use emphasis, color, size, and other [[Typography]] elements to add energy and additional meaning to the words.
 >
 > **[0:10](https://www.linkedin.com/learning/computer-science-principles-digital-information/encoding-formatted-text?u=76281980&t=10)** This can use features like bold, italics, underlines, strikethroughs, various colors, and other ways to format text.
 >
@@ -1290,7 +1270,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/computer-science-principles-digital-information/encoding-formatted-text?u=76281980&t=74)** When you use these, you can format text quite easily and add more style to your text.
 >
-> **[1:20](https://www.linkedin.com/learning/computer-science-principles-digital-information/encoding-formatted-text?u=76281980&t=80)** Today, we have languages like HTML that are used to send and store information.
+> **[1:20](https://www.linkedin.com/learning/computer-science-principles-digital-information/encoding-formatted-text?u=76281980&t=80)** Today, we have languages like [[HTML]] that are used to send and store information.
 >
 > **[1:26](https://www.linkedin.com/learning/computer-science-principles-digital-information/encoding-formatted-text?u=76281980&t=86)** Instead of two-character sequence, HTML uses tags, which are unique combinations of letters that people can use to mark up their text.
 >
@@ -1298,7 +1278,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/computer-science-principles-digital-information/encoding-formatted-text?u=76281980&t=98)** You are denoting specific areas and are telling the program that will read the document to treat certain elements differently than others.
 >
-> **[1:47](https://www.linkedin.com/learning/computer-science-principles-digital-information/encoding-formatted-text?u=76281980&t=107)** So instead of a two-character sequence, you would have a tag that is surrounded by pointed brackets with a specific word or phrase within it to say what type it is.
+> **[1:47](https://www.linkedin.com/learning/computer-science-principles-digital-information/encoding-formatted-text?u=76281980&t=107)** So instead of a two-character sequence, you would have a tag that is surrounded by pointed brackets with a specific [[Microsoft Word|word]] or phrase within it to say what type it is.
 >
 > **[1:57](https://www.linkedin.com/learning/computer-science-principles-digital-information/encoding-formatted-text?u=76281980&t=117)** Then you would define the end of the region using a closing tag, which adds a forward slash in the code.
 >
@@ -1314,7 +1294,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), [[Typography]] (1), data (1), [[Microsoft Word|Word]] (1), application (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Typography]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** html (4), utf (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [voiceover] (1)
@@ -1324,8 +1304,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### File sizes and bytes
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/file-sizes-and-bytes?u=76281980)
+#### [File sizes and bytes](https://www.linkedin.com/learning/computer-science-principles-digital-information/file-sizes-and-bytes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1417,7 +1396,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/computer-science-principles-digital-information/file-sizes-and-bytes?u=76281980&t=199)** But don't expect your next computer to store that much on it As the need for more storage increased, new ways to store more information needed to be invented.
 >
-> **[3:30](https://www.linkedin.com/learning/computer-science-principles-digital-information/file-sizes-and-bytes?u=76281980&t=210)** Over time, starting with punched cards through magnetic media, optical, solid state drives, and now cloud storage.
+> **[3:30](https://www.linkedin.com/learning/computer-science-principles-digital-information/file-sizes-and-bytes?u=76281980&t=210)** Over time, starting with punched cards through magnetic media, optical, solid state drives, and now [[Cloud Storage]].
 >
 > **[3:38](https://www.linkedin.com/learning/computer-science-principles-digital-information/file-sizes-and-bytes?u=76281980&t=218)** The ability to store data gets larger and larger.
 >
@@ -1443,14 +1422,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (3), cloud (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (1)
 > **Definitions:** is a  (5), is called (2)
 > **Analogies:** just like (1), such as (1)
 > **Versions:** 4.6 (1)
 > **Speakers:** - the (1)
 
-#### Text compression
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/text-compression?u=76281980)
+#### [Text compression](https://www.linkedin.com/learning/computer-science-principles-digital-information/text-compression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1496,14 +1474,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Search]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - with (1)
 
-#### Encoding images
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/encoding-images?u=76281980)
+#### [Encoding images](https://www.linkedin.com/learning/computer-science-principles-digital-information/encoding-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1617,7 +1593,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), web (2)
 > **Env Vars:** rgb (2), tif (1), jpeg (1), png (1), gif (1)
 > **Definitions:** is a  (4), is called (2)
 > **CLI Commands:** make (4)
@@ -1626,8 +1601,7 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Speakers:** - documents (1)
 
-#### Image compression and file formats
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/image-compression-and-file-formats?u=76281980)
+#### [Image compression and file formats](https://www.linkedin.com/learning/computer-science-principles-digital-information/image-compression-and-file-formats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1727,7 +1701,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** gif (7), jpeg (4), rgb (2), raw (2), lzw (1)
 > **Analogies:** for example (1), for instance (1), picture (1), such as (1)
 > **Definitions:** is an  (2), means that (1)
@@ -1740,8 +1713,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-science-principles-digital-information/summary?u=76281980)
+#### [Summary](https://www.linkedin.com/learning/computer-science-principles-digital-information/summary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1763,7 +1735,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** ascii (1)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)

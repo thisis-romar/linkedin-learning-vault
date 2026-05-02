@@ -61,12 +61,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Migrating to Figma
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/migrating-to-figma?u=76281980)
+#### [Migrating to Figma](https://www.linkedin.com/learning/figma-for-ux-design-23411224/migrating-to-figma?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/figma-for-ux-design-23411224/migrating-to-figma?u=76281980&t=0)** Are you a UX designer using Sketch or Adobe XD, and interested in migrating to Figma?
+> **[0:00](https://www.linkedin.com/learning/figma-for-ux-design-23411224/migrating-to-figma?u=76281980&t=0)** Are you a UX designer using Sketch or [[Adobe XD]], and interested in migrating to [[Figma (Software)|Figma]]?
 >
 > **[0:05](https://www.linkedin.com/learning/figma-for-ux-design-23411224/migrating-to-figma?u=76281980&t=5)** My name is Eric Nordquist, and I've worked as a UX professional for 20 years, managing teams at large corporations, as well as teaching future students of UX as a professor.
 >
@@ -76,11 +75,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (3), [[Figma (Software)|Figma]] (2), [[Adobe XD]] (1), teams (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), [[Adobe XD]] (1)
 > **Tools:** figma (2)
 
-#### Expectations
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/expectations?u=76281980)
+#### [Expectations](https://www.linkedin.com/learning/figma-for-ux-design-23411224/expectations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -88,7 +86,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/figma-for-ux-design-23411224/expectations?u=76281980&t=4)** I'm assuming you are an experienced UI UX designer with a lot of knowledge using design tools.
 >
-> **[0:11](https://www.linkedin.com/learning/figma-for-ux-design-23411224/expectations?u=76281980&t=11)** You may be coming from Sketch, Adobe XD, Aksher, Envision, and are now interested in learning Figma and this course will absolutely meet that goal.
+> **[0:11](https://www.linkedin.com/learning/figma-for-ux-design-23411224/expectations?u=76281980&t=11)** You may be coming from Sketch, [[Adobe XD]], Aksher, Envision, and are now interested in learning [[Figma (Software)|Figma]] and this course will absolutely meet that goal.
 >
 > **[0:19](https://www.linkedin.com/learning/figma-for-ux-design-23411224/expectations?u=76281980&t=19)** But this is not a course on any UX UI fundamentals or design best practices.
 >
@@ -96,7 +94,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (2), [[Figma (Software)|Figma]] (2), [[Adobe XD]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), [[Adobe XD]] (1)
 > **Tools:** figma (2)
 
 
@@ -104,12 +102,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating your first team
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-your-first-team?u=76281980)
+#### [Creating your first team](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-your-first-team?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-your-first-team?u=76281980&t=0)** Before we get into actually designing in Figma, I want to make sure you're aware of the different options you have for accessing the tool.
+> **[0:00](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-your-first-team?u=76281980&t=0)** Before we get into actually designing in [[Figma (Software)|Figma]], I want to make sure you're aware of the different options you have for accessing the tool.
 >
 > **[0:07](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-your-first-team?u=76281980&t=7)** So if you go to [Figma.com](https://Figma.com), up in the top right-hand corner is where you'll create your account.
 >
@@ -263,7 +260,7 @@ created: 2026-05-02
 >
 > **[6:22](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-your-first-team?u=76281980&t=382)** You can see there's things such as inspiration.
 >
-> **[6:24](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-your-first-team?u=76281980&t=384)** You have design systems, visual assets.
+> **[6:24](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-your-first-team?u=76281980&t=384)** You have [[Design Systems]], visual assets.
 >
 > **[6:28](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-your-first-team?u=76281980&t=388)** So just like a lot of the other resources that you'll use online, make sure you're at least checking out what Figma has inside of the Figma community.
 >
@@ -279,7 +276,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (17), teams (6), application (5), feature (2), next (2)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (17), [[Design Systems]] (1)
 > **Tools:** figma (17)
 > **CLI Commands:** make (7), find (5)
 > **UI Navigation:** click on (4), go to (2), drag and drop (1)
@@ -287,12 +284,11 @@ created: 2026-05-02
 > **Analogies:** such as (1), just like (1)
 > **URLs:** [figma.com](https://figma.com) (1)
 
-#### Overview of a design file
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/overview-of-a-design-file?u=76281980)
+#### [Overview of a design file](https://www.linkedin.com/learning/figma-for-ux-design-23411224/overview-of-a-design-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/figma-for-ux-design-23411224/overview-of-a-design-file?u=76281980&t=0)** Now that we've created our first team, let's go ahead and do some housekeeping, name our first project, and let's start orienting ourself with our design file, which is where you're going to be spending all of your time inside of Figma.
+> **[0:00](https://www.linkedin.com/learning/figma-for-ux-design-23411224/overview-of-a-design-file?u=76281980&t=0)** Now that we've created our first team, let's go ahead and do some housekeeping, name our first project, and let's start orienting ourself with our design file, which is where you're going to be spending all of your time inside of [[Figma (Software)|Figma]].
 >
 > **[0:12](https://www.linkedin.com/learning/figma-for-ux-design-23411224/overview-of-a-design-file?u=76281980&t=12)** So if we come over to our newly created team, called Cintere, let's go ahead to the project.
 >
@@ -384,7 +380,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/figma-for-ux-design-23411224/overview-of-a-design-file?u=76281980&t=245)** As we get more and more adept inside Figma, we start working with teams or larger files, we'll start to create reusable components.
 >
-> **[4:13](https://www.linkedin.com/learning/figma-for-ux-design-23411224/overview-of-a-design-file?u=76281980&t=253)** We may even turn those components into full-blown design systems.
+> **[4:13](https://www.linkedin.com/learning/figma-for-ux-design-23411224/overview-of-a-design-file?u=76281980&t=253)** We may even turn those components into full-blown [[Design Systems]].
 >
 > **[4:17](https://www.linkedin.com/learning/figma-for-ux-design-23411224/overview-of-a-design-file?u=76281980&t=257)** All of those can be searched and accessed here under the assets tab.
 >
@@ -410,7 +406,7 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/figma-for-ux-design-23411224/overview-of-a-design-file?u=76281980&t=325)** So when they come in and view the Figma file, front-end devs can switch over to the dev mode and they're going to start to see the images displayed with pixel spacings, sizings, things like that, that'll help them as they're developing the front-end.
 >
-> **[5:41](https://www.linkedin.com/learning/figma-for-ux-design-23411224/overview-of-a-design-file?u=76281980&t=341)** So I'll close this for now and next to the dev mode go back to design mode and next to the dev mode is the play button the play button is where we can turn on and run prototypes once we've built prototypes and we are going to get into that a bit later but know that the play button here is where we start to go into prototyping mode then following down the right hand side we have the ability to change our background color so right now we're in the design pane and since I have no assets created currently in our canvas all we can do is change our background color so I can come in here click on the color swatch I could change my background color to whatever I want for now we'll just leave it on black I can change the opacity and whatnot also notice the three options at the bottom we won't spend a lot of time with local
+> **[5:41](https://www.linkedin.com/learning/figma-for-ux-design-23411224/overview-of-a-design-file?u=76281980&t=341)** So I'll close this for now and next to the dev mode go back to design mode and next to the dev mode is the play button the play button is where we can turn on and run prototypes once we've built prototypes and we are going to get into that a bit later but know that the play button here is where we start to go into [[Prototyping]] mode then following down the right hand side we have the ability to change our background color so right now we're in the design pane and since I have no assets created currently in our canvas all we can do is change our background color so I can come in here click on the color swatch I could change my background color to whatever I want for now we'll just leave it on black I can change the opacity and whatnot also notice the three options at the bottom we won't spend a lot of time with local
 >
 > **[6:32](https://www.linkedin.com/learning/figma-for-ux-design-23411224/overview-of-a-design-file?u=76281980&t=392)** variables in this tutorial but variables local styles are ways you can set up default attributes that you used often to help save time so think of color styles, text styles, maybe your headings are always a certain point in a certain font so we can create a text style that keeps us from having to choose all those options every time we use that feature.
 >
@@ -438,7 +434,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (12), next (9), feature (3), [[Prototyping]] (3), teams (2)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (12), [[Prototyping]] (3), [[Design Systems]] (1)
 > **Tools:** figma (12)
 > **Analogies:** just like (5), similar to (1), for example (1), such as (1)
 > **CLI Commands:** make (3), find (1)
@@ -452,8 +448,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating project styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-project-styles?u=76281980)
+#### [Creating project styles](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-project-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -461,7 +456,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-project-styles?u=76281980&t=5)** If we head over to our exercise files, inside of our exercise files we have a folder called Concepts.
 >
-> **[0:11](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-project-styles?u=76281980&t=11)** Let's go ahead and open up that, and we have a Concept Animation, which we'll be creating as we move into prototyping, and we also have our Concept Hero page.
+> **[0:11](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-project-styles?u=76281980&t=11)** Let's go ahead and open up that, and we have a Concept Animation, which we'll be creating as we move into [[Prototyping]], and we also have our Concept Hero page.
 >
 > **[0:21](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-project-styles?u=76281980&t=21)** So again, we're working on a new website redesign for this company called Cintere.
 >
@@ -491,7 +486,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-project-styles?u=76281980&t=79)** We're gonna have some predefined text styles for us as well.
 >
-> **[1:24](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-project-styles?u=76281980&t=84)** So what I want to do is take advantage of text and color styles inside of Figma.
+> **[1:24](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-project-styles?u=76281980&t=84)** So what I want to do is take advantage of text and color styles inside of [[Figma (Software)|Figma]].
 >
 > **[1:29](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-project-styles?u=76281980&t=89)** That's going to help us be more efficient.
 >
@@ -521,13 +516,13 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-project-styles?u=76281980&t=149)** You can explore variables as you get more familiar with Figma.
 >
-> **[2:32](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-project-styles?u=76281980&t=152)** Mainly as you start working with larger design systems is when you'll need to start worrying about variables.
+> **[2:32](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-project-styles?u=76281980&t=152)** Mainly as you start working with larger [[Design Systems]] is when you'll need to start worrying about variables.
 >
 > **[2:36](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-project-styles?u=76281980&t=156)** But for us and what we're doing, local styles are gonna be just fine.
 >
 > **[2:40](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-project-styles?u=76281980&t=160)** So with that in mind, let's go ahead and create our four colors here that are on brand first interior.
 >
-> **[2:46](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-project-styles?u=76281980&t=166)** So I'm just gonna zoom in so we can get some reference.
+> **[2:46](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-project-styles?u=76281980&t=166)** So I'm just gonna [[Zoom]] in so we can get some reference.
 >
 > **[2:48](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-project-styles?u=76281980&t=168)** We're gonna go ahead and set up a color style for this blue, this yellow, this orange, and this pink.
 >
@@ -659,7 +654,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4), hit (3), [[Search]] (2), [[Design Systems]] (2), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4), [[Design Systems]] (2), [[Prototyping]] (1), [[Zoom]] (1)
 > **UI Navigation:** click on (5), right-click (2), go to (1)
 > **CLI Commands:** make (5)
 > **Tools:** figma (4)
@@ -668,17 +663,15 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (2)
 > **Definitions:** is a  (2)
 
-#### Creating the hero section
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-the-hero-section?u=76281980)
+#### [Creating the hero section](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-the-hero-section?u=76281980)
 
-#### Applying auto layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/applying-auto-layout?u=76281980)
+#### [Applying auto layout](https://www.linkedin.com/learning/figma-for-ux-design-23411224/applying-auto-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/figma-for-ux-design-23411224/applying-auto-layout?u=76281980&t=0)** We've made it to the Auto Layout portion of the course.
 >
-> **[0:03](https://www.linkedin.com/learning/figma-for-ux-design-23411224/applying-auto-layout?u=76281980&t=3)** Auto Layout is one of the coolest features that Figma has.
+> **[0:03](https://www.linkedin.com/learning/figma-for-ux-design-23411224/applying-auto-layout?u=76281980&t=3)** Auto Layout is one of the coolest features that [[Figma (Software)|Figma]] has.
 >
 > **[0:07](https://www.linkedin.com/learning/figma-for-ux-design-23411224/applying-auto-layout?u=76281980&t=7)** It's super powerful and super robust, and could be an entire course on its own.
 >
@@ -688,7 +681,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/figma-for-ux-design-23411224/applying-auto-layout?u=76281980&t=29)** Components allow us to create a design element once and then reuse it throughout our project.
 >
-> **[0:34](https://www.linkedin.com/learning/figma-for-ux-design-23411224/applying-auto-layout?u=76281980&t=34)** The key benefit being that any edit made to the parent component will automatically flow out to the rest of the usage inside of our app.
+> **[0:34](https://www.linkedin.com/learning/figma-for-ux-design-23411224/applying-auto-layout?u=76281980&t=34)** The key benefit being that any edit made to the parent component will automatically flow out to the [[Representational State Transfer (REST)|rest]] of the usage inside of our app.
 >
 > **[0:42](https://www.linkedin.com/learning/figma-for-ux-design-23411224/applying-auto-layout?u=76281980&t=42)** So for things like a navigation, if we build out 50 pages that all use the navigation, we make one tweak to the component and that tweak flows out automatically to all instances of that component or across all 50 pages we've already created inside of Figma.
 >
@@ -736,7 +729,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/figma-for-ux-design-23411224/applying-auto-layout?u=76281980&t=145)** We'll close those down.
 >
-> **[2:26](https://www.linkedin.com/learning/figma-for-ux-design-23411224/applying-auto-layout?u=76281980&t=146)** Let's zoom in some and let's add an underline underneath this so we can kind of show a selected state.
+> **[2:26](https://www.linkedin.com/learning/figma-for-ux-design-23411224/applying-auto-layout?u=76281980&t=146)** Let's [[Zoom]] in some and let's add an underline underneath this so we can kind of show a selected state.
 >
 > **[2:31](https://www.linkedin.com/learning/figma-for-ux-design-23411224/applying-auto-layout?u=76281980&t=151)** Just going to come up, click my line tool.
 >
@@ -944,7 +937,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), [[Figma (Software)|Figma]] (8), next (3), [[Representational State Transfer (REST)|Rest]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (8), [[Representational State Transfer (REST)|Rest]] (1), [[Zoom]] (1)
 > **Tools:** figma (8)
 > **UI Navigation:** click on (6), right-click (1)
 > **CLI Commands:** make (5)
@@ -952,8 +945,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Warnings:** be aware (1)
 
-#### Creating a responsive button
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-a-responsive-button?u=76281980)
+#### [Creating a responsive button](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-a-responsive-button?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -989,7 +981,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-a-responsive-button?u=76281980&t=78)** We had our shape, which was initially a frame, our rectangle, we've applied auto layout to that as well.
 >
-> **[1:23](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-a-responsive-button?u=76281980&t=83)** So now Figma understands that these two need to behave accordingly as one unit.
+> **[1:23](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-a-responsive-button?u=76281980&t=83)** So now [[Figma (Software)|Figma]] understands that these two need to behave accordingly as one unit.
 >
 > **[1:28](https://www.linkedin.com/learning/figma-for-ux-design-23411224/creating-a-responsive-button?u=76281980&t=88)** So what we can do is select our frame and come up and adjust our padding.
 >
@@ -1097,21 +1089,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), power (1), next (1), [[Figma (Software)|Figma]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1)
 > **UI Navigation:** select the (1), go to (1), click on (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Tools:** figma (1)
 
-#### Using masks
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/using-masks?u=76281980)
+#### [Using masks](https://www.linkedin.com/learning/figma-for-ux-design-23411224/using-masks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/figma-for-ux-design-23411224/using-masks?u=76281980&t=0)** Using subtle outlines and masked imagery can add a lot to our design in a really minimalist way.
 >
-> **[0:06](https://www.linkedin.com/learning/figma-for-ux-design-23411224/using-masks?u=76281980&t=6)** Let's work on applying strokes and masks as we continue exploring Figma.
+> **[0:06](https://www.linkedin.com/learning/figma-for-ux-design-23411224/using-masks?u=76281980&t=6)** Let's work on applying strokes and masks as we continue exploring [[Figma (Software)|Figma]].
 >
 > **[0:11](https://www.linkedin.com/learning/figma-for-ux-design-23411224/using-masks?u=76281980&t=11)** First thing we'll need to do is open up our exercise files again.
 >
@@ -1383,7 +1374,7 @@ created: 2026-05-02
 >
 > **[10:35](https://www.linkedin.com/learning/figma-for-ux-design-23411224/using-masks?u=76281980&t=635)** There we go.
 >
-> **[10:37](https://www.linkedin.com/learning/figma-for-ux-design-23411224/using-masks?u=76281980&t=637)** All right, so let's just continue on with that for the rest of these.
+> **[10:37](https://www.linkedin.com/learning/figma-for-ux-design-23411224/using-masks?u=76281980&t=637)** All right, so let's just continue on with that for the [[Representational State Transfer (REST)|rest]] of these.
 >
 > **[10:43](https://www.linkedin.com/learning/figma-for-ux-design-23411224/using-masks?u=76281980&t=643)** Let's go ahead and hit command D.
 >
@@ -1453,7 +1444,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), [[Figma (Software)|Figma]] (4), [[Representational State Transfer (REST)|Rest]] (1), oop (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Tools:** figma (4)
 > **Analogies:** just like (2), such as (1)
@@ -1465,14 +1456,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prototyping with smart animations
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/prototyping-with-smart-animations?u=76281980)
+#### [Prototyping with smart animations](https://www.linkedin.com/learning/figma-for-ux-design-23411224/prototyping-with-smart-animations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/figma-for-ux-design-23411224/prototyping-with-smart-animations?u=76281980&t=0)** Building prototypes is a key aspect of what we do, and Figma has all of the features we would expect, plus a couple of new ones.
+> **[0:00](https://www.linkedin.com/learning/figma-for-ux-design-23411224/prototyping-with-smart-animations?u=76281980&t=0)** Building prototypes is a key aspect of what we do, and [[Figma (Software)|Figma]] has all of the features we would expect, plus a couple of new ones.
 >
-> **[0:07](https://www.linkedin.com/learning/figma-for-ux-design-23411224/prototyping-with-smart-animations?u=76281980&t=7)** I want to start by creating an opening animation that will get us into prototyping, flows, and smart animations inside of Figma.
+> **[0:07](https://www.linkedin.com/learning/figma-for-ux-design-23411224/prototyping-with-smart-animations?u=76281980&t=7)** I want to start by creating an opening animation that will get us into [[Prototyping]], flows, and smart animations inside of Figma.
 >
 > **[0:16](https://www.linkedin.com/learning/figma-for-ux-design-23411224/prototyping-with-smart-animations?u=76281980&t=16)** So what I'm thinking for the animation is, as the user comes to the home page, instead of just coming directly to the hero section, I want this to build with some type of animation.
 >
@@ -1556,7 +1546,7 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/figma-for-ux-design-23411224/prototyping-with-smart-animations?u=76281980&t=351)** And then we will copy and paste our design verbiage in here.
 >
-> **[6:01](https://www.linkedin.com/learning/figma-for-ux-design-23411224/prototyping-with-smart-animations?u=76281980&t=361)** Zoom out, grab this, copy and paste.
+> **[6:01](https://www.linkedin.com/learning/figma-for-ux-design-23411224/prototyping-with-smart-animations?u=76281980&t=361)** [[Zoom]] out, grab this, copy and paste.
 >
 > **[6:07](https://www.linkedin.com/learning/figma-for-ux-design-23411224/prototyping-with-smart-animations?u=76281980&t=367)** Alright, so let's start looking at our prototyping options.
 >
@@ -1678,7 +1668,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (14), hit (6), [[Prototyping]] (5), feature (3), next (3)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (14), [[Prototyping]] (5), [[Zoom]] (1)
 > **Tools:** figma (14)
 > **UI Navigation:** go to (5), click on (4), navigate to (1)
 > **CLI Commands:** make (4)
@@ -1687,14 +1677,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
 
-#### Working with other designers
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/working-with-other-designers?u=76281980)
+#### [Working with other designers](https://www.linkedin.com/learning/figma-for-ux-design-23411224/working-with-other-designers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/figma-for-ux-design-23411224/working-with-other-designers?u=76281980&t=0)** Early on in the history of Figma, one of the primary reasons companies started migrating over to Figma was the ability for multiple designers to be in the same design file at one time.
+> **[0:00](https://www.linkedin.com/learning/figma-for-ux-design-23411224/working-with-other-designers?u=76281980&t=0)** Early on in the history of [[Figma (Software)|Figma]], one of the primary reasons companies started migrating over to Figma was the ability for multiple designers to be in the same design file at one time.
 >
-> **[0:11](https://www.linkedin.com/learning/figma-for-ux-design-23411224/working-with-other-designers?u=76281980&t=11)** This not only improved collaboration, but it also increased the efficiency of the entire team since there was no longer a need to worry about version control and sharing of files.
+> **[0:11](https://www.linkedin.com/learning/figma-for-ux-design-23411224/working-with-other-designers?u=76281980&t=11)** This not only improved collaboration, but it also increased the efficiency of the entire team since there was no longer a need to worry about [[Version Control]] and sharing of files.
 >
 > **[0:22](https://www.linkedin.com/learning/figma-for-ux-design-23411224/working-with-other-designers?u=76281980&t=22)** Let's look at our design file and see what changes when another designer is in there with us.
 >
@@ -1724,7 +1713,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/figma-for-ux-design-23411224/working-with-other-designers?u=76281980&t=118)** Not only does this help us quickly locate where others are working, but it also really is useful whenever we're presenting.
 >
-> **[2:05](https://www.linkedin.com/learning/figma-for-ux-design-23411224/working-with-other-designers?u=76281980&t=125)** So say for example, I'm leading a meeting, I have control over Zoom or whatever tool we're using, I'm sharing my screen, but now I want to hand off to another designer and let them kind of navigate through their designs.
+> **[2:05](https://www.linkedin.com/learning/figma-for-ux-design-23411224/working-with-other-designers?u=76281980&t=125)** So say for example, I'm leading a meeting, I have control over [[Zoom]] or whatever tool we're using, I'm sharing my screen, but now I want to hand off to another designer and let them kind of navigate through their designs.
 >
 > **[2:16](https://www.linkedin.com/learning/figma-for-ux-design-23411224/working-with-other-designers?u=76281980&t=136)** I don't need to share control of Zoom or pass control of Zoom to that other designer.
 >
@@ -1750,15 +1739,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4), [[Zoom]] (3), [[Version Control]] (1), application (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (4), [[Zoom]] (3), [[Version Control]] (1)
 > **Tools:** figma (4)
 > **UI Navigation:** click on (2), go to (1)
 > **Analogies:** for example (3)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is an  (1)
 
-#### Collaborating with stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/collaborating-with-stakeholders?u=76281980)
+#### [Collaborating with stakeholders](https://www.linkedin.com/learning/figma-for-ux-design-23411224/collaborating-with-stakeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1774,7 +1762,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/figma-for-ux-design-23411224/collaborating-with-stakeholders?u=76281980&t=34)** We can simply copy the link and we can send that link to them via e-mail.
 >
-> **[0:38](https://www.linkedin.com/learning/figma-for-ux-design-23411224/collaborating-with-stakeholders?u=76281980&t=38)** So let's assume now that we've done that and we're now logging into Figma to see what feedback we have from the client.
+> **[0:38](https://www.linkedin.com/learning/figma-for-ux-design-23411224/collaborating-with-stakeholders?u=76281980&t=38)** So let's assume now that we've done that and we're now logging into [[Figma (Software)|Figma]] to see what feedback we have from the client.
 >
 > **[0:44](https://www.linkedin.com/learning/figma-for-ux-design-23411224/collaborating-with-stakeholders?u=76281980&t=44)** So what we'll do is we'll come up here to the commenting icon in our toolbar, we'll select that, and notice over on the right hand side we have two new comments.
 >
@@ -1820,7 +1808,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/figma-for-ux-design-23411224/collaborating-with-stakeholders?u=76281980&t=140)** Let's start on our frame one of our prototype.
 >
-> **[2:23](https://www.linkedin.com/learning/figma-for-ux-design-23411224/collaborating-with-stakeholders?u=76281980&t=143)** Let's tell somebody that they need to clean this up so that our prototyping screens are all together, not so spread out.
+> **[2:23](https://www.linkedin.com/learning/figma-for-ux-design-23411224/collaborating-with-stakeholders?u=76281980&t=143)** Let's tell somebody that they need to clean this up so that our [[Prototyping]] screens are all together, not so spread out.
 >
 > **[2:30](https://www.linkedin.com/learning/figma-for-ux-design-23411224/collaborating-with-stakeholders?u=76281980&t=150)** So we can use our at sign if we want to, to go ahead and have a mention.
 >
@@ -1884,7 +1872,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Figma (Software)|Figma]] (2), ux (1), [[Prototyping]] (1), hit (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), [[Prototyping]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (1), we discussed (1)
 > **Tools:** figma (2)
@@ -1892,18 +1880,17 @@ created: 2026-05-02
 > **Warnings:** be careful (1), be aware (1)
 > **Analogies:** similar to (1)
 
-#### Exporting files
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/exporting-files?u=76281980)
+#### [Exporting files](https://www.linkedin.com/learning/figma-for-ux-design-23411224/exporting-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/figma-for-ux-design-23411224/exporting-files?u=76281980&t=0)** Now that we are done designing our project and we've resolved all the comments that we want to, it's time to export our assets so we can hand them off to development.
 >
-> **[0:10](https://www.linkedin.com/learning/figma-for-ux-design-23411224/exporting-files?u=76281980&t=10)** Now again, if your development team is working inside of Figma, we can just give them access and they can use the development mode that we discussed up in the top right hand corner, but let's assume for now that we need to pass these things off as kind of raw assets.
+> **[0:10](https://www.linkedin.com/learning/figma-for-ux-design-23411224/exporting-files?u=76281980&t=10)** Now again, if your development team is working inside of [[Figma (Software)|Figma]], we can just give them access and they can use the development mode that we discussed up in the top right hand corner, but let's assume for now that we need to pass these things off as kind of raw assets.
 >
 > **[0:22](https://www.linkedin.com/learning/figma-for-ux-design-23411224/exporting-files?u=76281980&t=22)** So let's just kind of handle our first frame here, our hero section.
 >
-> **[0:26](https://www.linkedin.com/learning/figma-for-ux-design-23411224/exporting-files?u=76281980&t=26)** We'll zoom in, select our hero section, and over in the right-hand design pane at the very bottom we have our export feature.
+> **[0:26](https://www.linkedin.com/learning/figma-for-ux-design-23411224/exporting-files?u=76281980&t=26)** We'll [[Zoom]] in, select our hero section, and over in the right-hand design pane at the very bottom we have our export feature.
 >
 > **[0:34](https://www.linkedin.com/learning/figma-for-ux-design-23411224/exporting-files?u=76281980&t=34)** If we go down there and hit our plus sign we'll say we want this frame at 2x and then we have the option to select a PNG, a JPEG, PDF, whatever it is that we like to do.
 >
@@ -1929,7 +1916,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/figma-for-ux-design-23411224/exporting-files?u=76281980&t=97)** We'll change that to 2x and leave that as a PNG.
 >
-> **[1:41](https://www.linkedin.com/learning/figma-for-ux-design-23411224/exporting-files?u=76281980&t=101)** Now this is a good way to handle individual screen or icon exports but when we want to quickly export out all of our frames for a presentation so maybe we need to go to the client for whatever reason we can't use the prototyping feature that we've already discussed maybe the client wants a PDF exported.
+> **[1:41](https://www.linkedin.com/learning/figma-for-ux-design-23411224/exporting-files?u=76281980&t=101)** Now this is a good way to handle individual screen or icon exports but when we want to quickly export out all of our frames for a presentation so maybe we need to go to the client for whatever reason we can't use the [[Prototyping]] feature that we've already discussed maybe the client wants a PDF exported.
 >
 > **[1:58](https://www.linkedin.com/learning/figma-for-ux-design-23411224/exporting-files?u=76281980&t=118)** So what we can do is zoom out.
 >
@@ -1961,7 +1948,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), [[Figma (Software)|Figma]] (3), [[Zoom]] (2), feature (2), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[Zoom]] (2), [[Prototyping]] (1)
 > **Env Vars:** png (4), jpeg (4), pdf (4)
 > **Tools:** figma (3)
 > **Definitions:** is a  (2)
@@ -1975,14 +1962,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Wrap-up
-> [LinkedIn Learning](https://www.linkedin.com/learning/figma-for-ux-design-23411224/wrap-up?u=76281980)
+#### [Wrap-up](https://www.linkedin.com/learning/figma-for-ux-design-23411224/wrap-up?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/figma-for-ux-design-23411224/wrap-up?u=76281980&t=0)** Congratulations, you have made it to the end of the course.
 >
-> **[0:04](https://www.linkedin.com/learning/figma-for-ux-design-23411224/wrap-up?u=76281980&t=4)** During our project, I introduced you to the Figma homepage and we reviewed the user interface which should have increased your confidence since it shares so many aspects to the tools you already know.
+> **[0:04](https://www.linkedin.com/learning/figma-for-ux-design-23411224/wrap-up?u=76281980&t=4)** During our project, I introduced you to the [[Figma (Software)|Figma]] homepage and we reviewed the user interface which should have increased your confidence since it shares so many aspects to the tools you already know.
 >
 > **[0:14](https://www.linkedin.com/learning/figma-for-ux-design-23411224/wrap-up?u=76281980&t=14)** You learned the robustness of frames and how they're a key element to the power of Figma with auto layouts.
 >
@@ -1992,7 +1978,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), power (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3)
 > **Tools:** figma (3)
 
 

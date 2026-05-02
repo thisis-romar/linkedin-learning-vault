@@ -17,7 +17,7 @@ tags:
   - topic/cloud-computing
   - topic/network-and-system-administration
   - topic/artificial-intelligence
-course_count: 34
+course_count: 32
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Software Projects
 
-> **Type:** Concept | **Courses:** 34 | **Topics:** [[Software Development]], [[DevOps]], [[Cloud Computing]], [[Network and System Administration]], [[Artificial Intelligence (AI)]]
+> **Type:** Concept | **Courses:** 32 | **Topics:** [[Software Development]], [[DevOps]], [[Cloud Computing]], [[Network and System Administration]], [[Artificial Intelligence (AI)]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Developing Ci Cd Solutions With Azure Devops]] — 2 mentions
 10. [[GenAIOps Foundations]] — 2 mentions
 
-> [!note]- See all 34 courses
+> [!note]- See all 32 courses
 > 11. [[Learning Asp Dot Net Core Mvc Razor Pages Web Apis Other Foundations]] — 2 mentions
 > 12. [[Increasing Efficiency with Jira and Confluence Integrations]] — 2 mentions
 > 13. [[Azure DevOps for Beginners]] — 2 mentions
@@ -57,14 +57,12 @@ created: 2026-05-02
 > 24. [[Test Automation Foundations]] — 1 mentions
 > 25. [[Learning Vertex AI- MLOps with Google Cloud]] — 1 mentions
 > 26. [[Agile Software Development- Remote Teams (2019)]] — 1 mentions
-> 27. [[Kubernetes- Microservices]] — 1 mentions
-> 28. [[Kotlin Essential Training Functions Collections And I O]] — 1 mentions
-> 29. [[Spring Framework in Depth]] — 1 mentions
-> 30. [[Jira- Basic Administration]] — 1 mentions
-> 31. [[Learning Bitbucket]] — 1 mentions
-> 32. [[Bitbucket Pipelines for CI-CD]] — 1 mentions
-> 33. [[Advanced Bitbucket Pipelines- Automating Deployments and Managing Third-Party Integrations]] — 1 mentions
-> 34. [[WordPress- Internationalization]] — 1 mentions
+> 27. [[Kotlin Essential Training Functions Collections And I O]] — 1 mentions
+> 28. [[Jira- Basic Administration]] — 1 mentions
+> 29. [[Learning Bitbucket]] — 1 mentions
+> 30. [[Bitbucket Pipelines for CI-CD]] — 1 mentions
+> 31. [[Advanced Bitbucket Pipelines- Automating Deployments and Managing Third-Party Integrations]] — 1 mentions
+> 32. [[WordPress- Internationalization]] — 1 mentions
 
 ## Learning Paths
 

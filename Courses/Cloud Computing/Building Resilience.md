@@ -76,8 +76,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Thrive by building resilience
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/thrive-by-building-resilience?u=76281980)
+#### [Thrive by building resilience](https://www.linkedin.com/learning/building-resilience-24351480/thrive-by-building-resilience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,8 +110,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What does it mean to be resilient?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/what-does-it-mean-to-be-resilient?u=76281980)
+#### [What does it mean to be resilient?](https://www.linkedin.com/learning/building-resilience-24351480/what-does-it-mean-to-be-resilient?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -146,7 +144,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/building-resilience-24351480/what-does-it-mean-to-be-resilient?u=76281980&t=76)** Sometimes things are just hard, and that's okay.
 >
-> **[1:19](https://www.linkedin.com/learning/building-resilience-24351480/what-does-it-mean-to-be-resilient?u=76281980&t=79)** Every single day in my office, I see people try to shortcut their struggles.
+> **[1:19](https://www.linkedin.com/learning/building-resilience-24351480/what-does-it-mean-to-be-resilient?u=76281980&t=79)** Every single day in my [[Microsoft Office|office]], I see people try to shortcut their struggles.
 >
 > **[1:24](https://www.linkedin.com/learning/building-resilience-24351480/what-does-it-mean-to-be-resilient?u=76281980&t=84)** They ignore them, avoid them and numb them.
 >
@@ -169,8 +167,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 
-#### Self-compassion and your inner narrator
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/self-compassion-and-your-inner-narrator?u=76281980)
+#### [Self-compassion and your inner narrator](https://www.linkedin.com/learning/building-resilience-24351480/self-compassion-and-your-inner-narrator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -259,8 +256,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 
-#### Tune into emotional patterns for greater resilience
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/tune-into-emotional-patterns-for-greater-resilience?u=76281980)
+#### [Tune into emotional patterns for greater resilience](https://www.linkedin.com/learning/building-resilience-24351480/tune-into-emotional-patterns-for-greater-resilience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -308,7 +304,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/building-resilience-24351480/tune-into-emotional-patterns-for-greater-resilience?u=76281980&t=99)** What I want you to do is just for a week, keep an emotions and reactions log. Throughout your day, note the strong emotions you experience.
 >
-> **[1:49](https://www.linkedin.com/learning/building-resilience-24351480/tune-into-emotional-patterns-for-greater-resilience?u=76281980&t=109)** Then think what caused them, how did you feel and how did you react.
+> **[1:49](https://www.linkedin.com/learning/building-resilience-24351480/tune-into-emotional-patterns-for-greater-resilience?u=76281980&t=109)** Then think what caused them, how did you feel and how did you [[React.js|react]].
 >
 > **[1:54](https://www.linkedin.com/learning/building-resilience-24351480/tune-into-emotional-patterns-for-greater-resilience?u=76281980&t=114)** Over time, take note of the themes.
 >
@@ -328,7 +324,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2), data (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2)
 > **CLI Commands:** make (1), snap (1)
 > **Analogies:** for example (2)
 > **UI Navigation:** go to (1)
@@ -338,8 +334,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Increase mental agility and flexibility to build resilience
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/increase-mental-agility-flexibility-to-build-resilience?u=76281980)
+#### [Increase mental agility and flexibility to build resilience](https://www.linkedin.com/learning/building-resilience-24351480/increase-mental-agility-flexibility-to-build-resilience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -351,7 +346,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/building-resilience-24351480/increase-mental-agility-flexibility-to-build-resilience?u=76281980&t=20)** Mental agility is the ability to think quickly and flexibly.
 >
-> **[0:24](https://www.linkedin.com/learning/building-resilience-24351480/increase-mental-agility-flexibility-to-build-resilience?u=76281980&t=24)** Agile people can see things from multiple angles, and they're open to new ideas and perspectives, even when those new ideas challenge their existing beliefs.
+> **[0:24](https://www.linkedin.com/learning/building-resilience-24351480/increase-mental-agility-flexibility-to-build-resilience?u=76281980&t=24)** [[Agile Development|Agile]] people can see things from multiple angles, and they're open to new ideas and perspectives, even when those new ideas challenge their existing beliefs.
 >
 > **[0:33](https://www.linkedin.com/learning/building-resilience-24351480/increase-mental-agility-flexibility-to-build-resilience?u=76281980&t=33)** This flexibility in the way you think will make you a better and more realistic problem solver.
 >
@@ -419,12 +414,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Agile Development|Agile]] (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 
-#### Practice acknowledging difficult truths
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/practice-acknowledging-difficult-truths?u=76281980)
+#### [Practice acknowledging difficult truths](https://www.linkedin.com/learning/building-resilience-24351480/practice-acknowledging-difficult-truths?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -488,12 +482,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### The importance of grief for resilience
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/the-importance-of-grief-for-resilience?u=76281980)
+#### [The importance of grief for resilience](https://www.linkedin.com/learning/building-resilience-24351480/the-importance-of-grief-for-resilience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -531,7 +523,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/building-resilience-24351480/the-importance-of-grief-for-resilience?u=76281980&t=97)** Sharing your experience with someone who can understand and give you support is a hugely important part of grieving.
 >
-> **[1:43](https://www.linkedin.com/learning/building-resilience-24351480/the-importance-of-grief-for-resilience?u=76281980&t=103)** Whether you're joining a support group or just sending a slack message to a co-worker talking about feeling disappointed about something, let yourself lean on others.
+> **[1:43](https://www.linkedin.com/learning/building-resilience-24351480/the-importance-of-grief-for-resilience?u=76281980&t=103)** Whether you're joining a support group or just sending a [[Slack]] message to a co-worker talking about feeling disappointed about something, let yourself lean on others.
 >
 > **[1:52](https://www.linkedin.com/learning/building-resilience-24351480/the-importance-of-grief-for-resilience?u=76281980&t=112)** Next, create a ritual or ceremony to help with closure.
 >
@@ -563,14 +555,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Slack]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** in the last (1)
 > **Tools:** slack (1)
 > **Definitions:** is a  (1)
 
-#### Set goals to build agency during challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/set-goals-to-build-agency-during-challenges?u=76281980)
+#### [Set goals to build agency during challenges](https://www.linkedin.com/learning/building-resilience-24351480/set-goals-to-build-agency-during-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -578,7 +569,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/building-resilience-24351480/set-goals-to-build-agency-during-challenges?u=76281980&t=4)** And when you feel powerless, your natural inclination will probably be to try to regain control.
 >
-> **[0:10](https://www.linkedin.com/learning/building-resilience-24351480/set-goals-to-build-agency-during-challenges?u=76281980&t=10)** We sacrifice so much wellness trying to attain and maintain control in life, but most of the time control is more of an illusion than a reality.
+> **[0:10](https://www.linkedin.com/learning/building-resilience-24351480/set-goals-to-build-agency-during-challenges?u=76281980&t=10)** We sacrifice so much [[Wellness]] trying to attain and maintain control in life, but most of the time control is more of an illusion than a reality.
 >
 > **[0:22](https://www.linkedin.com/learning/building-resilience-24351480/set-goals-to-build-agency-during-challenges?u=76281980&t=22)** So instead of control, I want you to pursue agency and self-efficacy.
 >
@@ -604,7 +595,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/building-resilience-24351480/set-goals-to-build-agency-during-challenges?u=76281980&t=69)** I want you to try this with me right now.
 >
-> **[1:11](https://www.linkedin.com/learning/building-resilience-24351480/set-goals-to-build-agency-during-challenges?u=76281980&t=71)** Grab a pen or get a Word Doc ready.
+> **[1:11](https://www.linkedin.com/learning/building-resilience-24351480/set-goals-to-build-agency-during-challenges?u=76281980&t=71)** Grab a pen or get a [[Microsoft Word|Word]] Doc ready.
 >
 > **[1:14](https://www.linkedin.com/learning/building-resilience-24351480/set-goals-to-build-agency-during-challenges?u=76281980&t=74)** Let's help you get some practice by setting a goal in this moment.
 >
@@ -652,13 +643,13 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/building-resilience-24351480/set-goals-to-build-agency-during-challenges?u=76281980&t=182)** Take a minute to do that now and set an intention to start on it today, or even before you move to the next movie.
 >
-> **[3:08](https://www.linkedin.com/learning/building-resilience-24351480/set-goals-to-build-agency-during-challenges?u=76281980&t=188)** And here's one more bonus tip if you're looking to spark action on the goal you set, try telling someone in your life about it for accountability.
+> **[3:08](https://www.linkedin.com/learning/building-resilience-24351480/set-goals-to-build-agency-during-challenges?u=76281980&t=188)** And here's one more bonus tip if you're looking to spark action on the goal you set, try telling someone in your life about it for [[Accountability]].
 >
 > **[3:16](https://www.linkedin.com/learning/building-resilience-24351480/set-goals-to-build-agency-during-challenges?u=76281980&t=196)** As you practice setting goals and see how great it feels to achieve them, your resilience will grow naturally as you prove to yourself that you can do hard things and you can create positive change in your life.
 >
 > **[3:28](https://www.linkedin.com/learning/building-resilience-24351480/set-goals-to-build-agency-during-challenges?u=76281980&t=208)** Don't let obstacles or setbacks derail you from achieving your overarching goal.
 >
-> **[3:33](https://www.linkedin.com/learning/building-resilience-24351480/set-goals-to-build-agency-during-challenges?u=76281980&t=213)** Remember to focus on what you can control and let go of the rest.
+> **[3:33](https://www.linkedin.com/learning/building-resilience-24351480/set-goals-to-build-agency-during-challenges?u=76281980&t=213)** Remember to focus on what you can control and let go of the [[Representational State Transfer (REST)|rest]].
 >
 > **[3:37](https://www.linkedin.com/learning/building-resilience-24351480/set-goals-to-build-agency-during-challenges?u=76281980&t=217)** And of course, celebrate your wins along the way.
 >
@@ -666,15 +657,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), leadership (2), [[Wellness]] (1), [[Microsoft Word|Word]] (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Wellness]] (1), [[Microsoft Word|Word]] (1), [[Accountability]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** remember to (1)
 
-#### Celebrate wins for sustained resilience
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/celebrate-wins-for-sustained-resilience?u=76281980)
+#### [Celebrate wins for sustained resilience](https://www.linkedin.com/learning/building-resilience-24351480/celebrate-wins-for-sustained-resilience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -720,11 +710,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), business (1), strengths (1)
 > **CLI Commands:** make (1)
 
-#### Reframe unhelpful thoughts to be more resilient
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/reframe-unhelpful-thoughts-to-be-more-resilient?u=76281980)
+#### [Reframe unhelpful thoughts to be more resilient](https://www.linkedin.com/learning/building-resilience-24351480/reframe-unhelpful-thoughts-to-be-more-resilient?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -744,7 +732,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/building-resilience-24351480/reframe-unhelpful-thoughts-to-be-more-resilient?u=76281980&t=46)** Let's talk about some common ways to reframe your thinking.
 >
-> **[0:50](https://www.linkedin.com/learning/building-resilience-24351480/reframe-unhelpful-thoughts-to-be-more-resilient?u=76281980&t=50)** First, go from "should have" to "could have". People who are hard on themselves use the word should a lot.
+> **[0:50](https://www.linkedin.com/learning/building-resilience-24351480/reframe-unhelpful-thoughts-to-be-more-resilient?u=76281980&t=50)** First, go from "should have" to "could have". People who are hard on themselves use the [[Microsoft Word|word]] should a lot.
 >
 > **[0:58](https://www.linkedin.com/learning/building-resilience-24351480/reframe-unhelpful-thoughts-to-be-more-resilient?u=76281980&t=58)** "I should have gotten more done."
 >
@@ -754,7 +742,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/building-resilience-24351480/reframe-unhelpful-thoughts-to-be-more-resilient?u=76281980&t=62)** The problem with the should mindset is that if you think you should have already done something, you'll feel like you can't do it now.
 >
-> **[1:09](https://www.linkedin.com/learning/building-resilience-24351480/reframe-unhelpful-thoughts-to-be-more-resilient?u=76281980&t=69)** So reframe with could. Instead of "I should have gotten work done last night instead of watching TV", say "I could have gotten work done last night, but I chose to watch TV and rest instead."
+> **[1:09](https://www.linkedin.com/learning/building-resilience-24351480/reframe-unhelpful-thoughts-to-be-more-resilient?u=76281980&t=69)** So reframe with could. Instead of "I should have gotten work done last night instead of watching TV", say "I could have gotten work done last night, but I chose to watch TV and [[Representational State Transfer (REST)|rest]] instead."
 >
 > **[1:22](https://www.linkedin.com/learning/building-resilience-24351480/reframe-unhelpful-thoughts-to-be-more-resilient?u=76281980&t=82)** Instead of "I should be a better writer", try "I could be a better writer if I devote myself to writing 30 minutes every day."
 >
@@ -802,13 +790,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), power (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (6), make (1)
 > **Analogies:** for example (1), imagine (1)
 > **Definitions:** is a  (1)
 
-#### Stress management for resilience
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/stress-management-for-resilience?u=76281980)
+#### [Stress management for resilience](https://www.linkedin.com/learning/building-resilience-24351480/stress-management-for-resilience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -870,15 +857,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), next (1)
 > **CLI Commands:** find (1)
 
-#### Build a relationship with vulnerability
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/build-a-relationship-with-vulnerability?u=76281980)
+#### [Build a relationship with vulnerability](https://www.linkedin.com/learning/building-resilience-24351480/build-a-relationship-with-vulnerability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-resilience-24351480/build-a-relationship-with-vulnerability?u=76281980&t=0)** When you hear the word vulnerability, what comes to mind?
+> **[0:00](https://www.linkedin.com/learning/building-resilience-24351480/build-a-relationship-with-vulnerability?u=76281980&t=0)** When you hear the [[Microsoft Word|word]] vulnerability, what comes to mind?
 >
 > **[0:04](https://www.linkedin.com/learning/building-resilience-24351480/build-a-relationship-with-vulnerability?u=76281980&t=4)** So many of the people I talked to about this admit that they equate vulnerability with weakness. And that makes sense in a world that prizes strength and certainty and independence.
 >
@@ -940,7 +925,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Prerequisites:** you'll need (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** imagine (1)
@@ -950,8 +935,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Assessing and building internal resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/assess-and-building-internal-resources?u=76281980)
+#### [Assessing and building internal resources](https://www.linkedin.com/learning/building-resilience-24351480/assess-and-building-internal-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -969,11 +953,11 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/building-resilience-24351480/assess-and-building-internal-resources?u=76281980&t=37)** So right now, we're going to make a list of the internal resources that you have developed.
 >
-> **[0:42](https://www.linkedin.com/learning/building-resilience-24351480/assess-and-building-internal-resources?u=76281980&t=42)** Get a piece of paper or a Word doc ready to make a list.
+> **[0:42](https://www.linkedin.com/learning/building-resilience-24351480/assess-and-building-internal-resources?u=76281980&t=42)** Get a piece of paper or a [[Microsoft Word|Word]] doc ready to make a list.
 >
 > **[0:46](https://www.linkedin.com/learning/building-resilience-24351480/assess-and-building-internal-resources?u=76281980&t=46)** I want you to think about your personal strengths and qualities that have helped you through difficult moments.
 >
-> **[0:52](https://www.linkedin.com/learning/building-resilience-24351480/assess-and-building-internal-resources?u=76281980&t=52)** Maybe it's your sense of humor, your problem solving skills, the fact that you have a naturally optimistic attitude, your grit and determination, your belief in yourself, or the knowledge that you have successfully navigated painful situations before.
+> **[0:52](https://www.linkedin.com/learning/building-resilience-24351480/assess-and-building-internal-resources?u=76281980&t=52)** Maybe it's your sense of humor, your problem solving skills, the fact that you have a naturally optimistic attitude, your [[Grit]] and determination, your belief in yourself, or the knowledge that you have successfully navigated painful situations before.
 >
 > **[1:07](https://www.linkedin.com/learning/building-resilience-24351480/assess-and-building-internal-resources?u=76281980&t=67)** Write down anything that comes to mind. If you need a minute to do this, pause the video now.
 >
@@ -999,12 +983,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft Word|Word]] (1), strengths (1), [[Grit]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Grit]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 
-#### Assessing and building external resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/assess-and-building-external-resources?u=76281980)
+#### [Assessing and building external resources](https://www.linkedin.com/learning/building-resilience-24351480/assess-and-building-external-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1058,13 +1041,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1)
 > **Prerequisites:** you'll need (1)
 
-#### Find and vet your mentors
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/find-and-vet-your-mentors?u=76281980)
+#### [Find and vet your mentors](https://www.linkedin.com/learning/building-resilience-24351480/find-and-vet-your-mentors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1090,7 +1071,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/building-resilience-24351480/find-and-vet-your-mentors?u=76281980&t=67)** Maybe you'd like to connect with someone who specializes in the type of work you're doing right now, or perhaps you'd like to talk to someone who has a similar background as you do, but they're doing the kind of work you hope to move into.
 >
-> **[1:18](https://www.linkedin.com/learning/building-resilience-24351480/find-and-vet-your-mentors?u=76281980&t=78)** You might reach out to your LinkedIn network or do research to identify potential mentors.
+> **[1:18](https://www.linkedin.com/learning/building-resilience-24351480/find-and-vet-your-mentors?u=76281980&t=78)** You might reach out to your [[LinkedIn]] network or do research to identify potential mentors.
 >
 > **[1:23](https://www.linkedin.com/learning/building-resilience-24351480/find-and-vet-your-mentors?u=76281980&t=83)** This won't take long, so don't build it up in your mind as a big task.
 >
@@ -1100,7 +1081,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/building-resilience-24351480/find-and-vet-your-mentors?u=76281980&t=98)** What specific guidance or support are you seeking?
 >
-> **[1:41](https://www.linkedin.com/learning/building-resilience-24351480/find-and-vet-your-mentors?u=76281980&t=101)** For example, you might ask if they would go for a coffee or have a Zoom meeting once a month or once a quarter so that you can benefit from their wisdom and experience.
+> **[1:41](https://www.linkedin.com/learning/building-resilience-24351480/find-and-vet-your-mentors?u=76281980&t=101)** For example, you might ask if they would go for a coffee or have a [[Zoom]] meeting once a month or once a quarter so that you can benefit from their wisdom and experience.
 >
 > **[1:50](https://www.linkedin.com/learning/building-resilience-24351480/find-and-vet-your-mentors?u=76281980&t=110)** Finally, make the ask.
 >
@@ -1124,13 +1105,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Search]] (1), next (1), [[Zoom]] (1), express (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
 
-#### Give support to get support
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/give-support-to-get-support?u=76281980)
+#### [Give support to get support](https://www.linkedin.com/learning/building-resilience-24351480/give-support-to-get-support?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1144,7 +1124,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/building-resilience-24351480/give-support-to-get-support?u=76281980&t=21)** You shouldn't help others just so that you have help when you need it.
 >
-> **[0:25](https://www.linkedin.com/learning/building-resilience-24351480/give-support-to-get-support?u=76281980&t=25)** But the truth is, every time you lend a listening ear, a word of encouragement or helpful resource to someone, you strengthen your connection and build goodwill. To support others, think about small gestures.
+> **[0:25](https://www.linkedin.com/learning/building-resilience-24351480/give-support-to-get-support?u=76281980&t=25)** But the truth is, every time you lend a listening ear, a [[Microsoft Word|word]] of encouragement or helpful resource to someone, you strengthen your connection and build goodwill. To support others, think about small gestures.
 >
 > **[0:37](https://www.linkedin.com/learning/building-resilience-24351480/give-support-to-get-support?u=76281980&t=37)** You might offer to take something off a colleague's plate, volunteer to drive a friend's kids to practice with your own, support a teammate with a project, or send a helpful article to someone who's facing a challenge.
 >
@@ -1188,8 +1168,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Break an emotional sweat
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-resilience-24351480/break-an-emotional-sweat?u=76281980)
+#### [Break an emotional sweat](https://www.linkedin.com/learning/building-resilience-24351480/break-an-emotional-sweat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1205,7 +1184,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/building-resilience-24351480/break-an-emotional-sweat?u=76281980&t=24)** Maybe you add an entry to your journal, let yourself grieve a small loss or celebrate a small win.
 >
-> **[0:31](https://www.linkedin.com/learning/building-resilience-24351480/break-an-emotional-sweat?u=76281980&t=31)** And to keep your practice going, find me on social media at Doctor Emily Anhalt and check out my other courses here on LinkedIn learning.
+> **[0:31](https://www.linkedin.com/learning/building-resilience-24351480/break-an-emotional-sweat?u=76281980&t=31)** And to keep your practice going, find me on social media at Doctor Emily Anhalt and check out my other courses here on [[LinkedIn]] learning.
 >
 > **[0:39](https://www.linkedin.com/learning/building-resilience-24351480/break-an-emotional-sweat?u=76281980&t=39)** Be proud of yourself for breaking an emotional sweat because building resilience takes effort and dedication.
 >
@@ -1223,7 +1202,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), power (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 

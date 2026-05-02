@@ -151,12 +151,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apply the power of Tableau 2025 to your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/apply-the-power-of-tableau-2025-to-your-data?u=76281980)
+#### [Apply the power of Tableau 2025 to your data](https://www.linkedin.com/learning/tableau-essential-training-29553026/apply-the-power-of-tableau-2025-to-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/apply-the-power-of-tableau-2025-to-your-data?u=76281980&t=0)** - [Curt] Tableau is a powerful and versatile tool for visualizing data within your business or organization.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/apply-the-power-of-tableau-2025-to-your-data?u=76281980&t=0)** - [Curt] [[Tableau]] is a powerful and versatile tool for visualizing data within your business or organization.
 >
 > **[0:06](https://www.linkedin.com/learning/tableau-essential-training-29553026/apply-the-power-of-tableau-2025-to-your-data?u=76281980&t=6)** Mastering the skills you need to use Tableau effectively will let you work quickly and make great decisions.
 >
@@ -164,18 +163,17 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/tableau-essential-training-29553026/apply-the-power-of-tableau-2025-to-your-data?u=76281980&t=20)** I'm Curt Frye.
 >
-> **[0:21](https://www.linkedin.com/learning/tableau-essential-training-29553026/apply-the-power-of-tableau-2025-to-your-data?u=76281980&t=21)** Join me at LinkedIn Learning for an introduction to the essential skills that will let you unlock the power and flexibility that comes with Tableau 2025.1.
+> **[0:21](https://www.linkedin.com/learning/tableau-essential-training-29553026/apply-the-power-of-tableau-2025-to-your-data?u=76281980&t=21)** Join me at [[LinkedIn]] Learning for an introduction to the essential skills that will let you unlock the power and flexibility that comes with Tableau 2025.1.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (4), data (2), power (2), business (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (4), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Versions:** 2025.1 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [curt] (1)
 
-#### What you should know before starting
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/what-you-should-know-before-starting?u=76281980)
+#### [What you should know before starting](https://www.linkedin.com/learning/tableau-essential-training-29553026/what-you-should-know-before-starting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -185,7 +183,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/tableau-essential-training-29553026/what-you-should-know-before-starting?u=76281980&t=11)** First, it would be extremely helpful if you have experience with a spreadsheet program.
 >
-> **[0:16](https://www.linkedin.com/learning/tableau-essential-training-29553026/what-you-should-know-before-starting?u=76281980&t=16)** We use Excel as our primary data source, and a lot of what you see in Excel transfers to Tableau very well.
+> **[0:16](https://www.linkedin.com/learning/tableau-essential-training-29553026/what-you-should-know-before-starting?u=76281980&t=16)** We use [[Microsoft Excel|Excel]] as our primary data source, and a lot of what you see in Excel transfers to [[Tableau]] very well.
 >
 > **[0:24](https://www.linkedin.com/learning/tableau-essential-training-29553026/what-you-should-know-before-starting?u=76281980&t=24)** You should also have a willingness to explore.
 >
@@ -223,7 +221,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (11), [[Microsoft Excel|Excel]] (2), data (2), product (1)
+> **Frameworks & Libraries:** [[Tableau]] (11), [[Microsoft Excel|Excel]] (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** mba (1)
@@ -235,16 +233,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Download Tableau
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/download-tableau?u=76281980)
+#### [Download Tableau](https://www.linkedin.com/learning/tableau-essential-training-29553026/download-tableau?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/download-tableau?u=76281980&t=0)** - [Instructor] Because you're viewing movies from a course on Tableau, I assume that you're interested in acquiring the software if you don't already have it.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/download-tableau?u=76281980&t=0)** - [Instructor] Because you're viewing movies from a course on [[Tableau]], I assume that you're interested in acquiring the software if you don't already have it.
 >
 > **[0:09](https://www.linkedin.com/learning/tableau-essential-training-29553026/download-tableau?u=76281980&t=9)** In this movie, I will describe where to find the program online and also describe the different versions of Tableau that are available to you.
 >
-> **[0:17](https://www.linkedin.com/learning/tableau-essential-training-29553026/download-tableau?u=76281980&t=17)** The Tableau website is [tableau.com](https://tableau.com), and I have gone to the products/tableau webpage, and here I have information about Tableau and all of its varieties.
+> **[0:17](https://www.linkedin.com/learning/tableau-essential-training-29553026/download-tableau?u=76281980&t=17)** The Tableau website is [tableau.com](https://tableau.com), and I have gone to the [[Microsoft Products|products]]/tableau webpage, and here I have information about Tableau and all of its varieties.
 >
 > **[0:32](https://www.linkedin.com/learning/tableau-essential-training-29553026/download-tableau?u=76281980&t=32)** I'll use the navigation bar at the bottom to move to Product Portfolio, and depending on when you watch this movie, it's very likely that the page will change.
 >
@@ -252,7 +249,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/tableau-essential-training-29553026/download-tableau?u=76281980&t=47)** So I'll click Product Portfolio, and I have a list of the products that you can pay for.
 >
-> **[0:55](https://www.linkedin.com/learning/tableau-essential-training-29553026/download-tableau?u=76281980&t=55)** So I have Tableau Prep, which is about data preparation.
+> **[0:55](https://www.linkedin.com/learning/tableau-essential-training-29553026/download-tableau?u=76281980&t=55)** So I have Tableau Prep, which is about [[Data Preparation]].
 >
 > **[0:58](https://www.linkedin.com/learning/tableau-essential-training-29553026/download-tableau?u=76281980&t=58)** If you have data that has consistent formatting, but you want to change it to a different format, then Tableau Prep is perfect for you.
 >
@@ -284,7 +281,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (19), data (6), product (4), [[Microsoft Products|Products]] (3), cloud (2)
+> **Frameworks & Libraries:** [[Tableau]] (19), [[Microsoft Products|Products]] (3), [[Data Preparation]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **URLs:** [tableau.com](https://tableau.com) (1)
@@ -292,12 +289,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connect data sources to Tableau
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/install-tableau-drivers?u=76281980)
+#### [Connect data sources to Tableau](https://www.linkedin.com/learning/tableau-essential-training-29553026/install-tableau-drivers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/install-tableau-drivers?u=76281980&t=0)** - [Narrator] One of the benefits of using Tableau is that you can connect to many different data sources.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/install-tableau-drivers?u=76281980&t=0)** - [Narrator] One of the benefits of using [[Tableau]] is that you can connect to many different data sources.
 >
 > **[0:06](https://www.linkedin.com/learning/tableau-essential-training-29553026/install-tableau-drivers?u=76281980&t=6)** In Tableau Desktop, which is the edition I'm using for this course, you have built in connectivity to many different types of data sources.
 >
@@ -307,13 +303,13 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/tableau-essential-training-29553026/install-tableau-drivers?u=76281980&t=30)** And then, you can also connect to individual files.
 >
-> **[0:33](https://www.linkedin.com/learning/tableau-essential-training-29553026/install-tableau-drivers?u=76281980&t=33)** Microsoft Excel is the most common.
+> **[0:33](https://www.linkedin.com/learning/tableau-essential-training-29553026/install-tableau-drivers?u=76281980&t=33)** [[Microsoft Excel]] is the most common.
 >
-> **[0:35](https://www.linkedin.com/learning/tableau-essential-training-29553026/install-tableau-drivers?u=76281980&t=35)** You can also do Text file, a JSON file, Access, also PDF which is very useful.
+> **[0:35](https://www.linkedin.com/learning/tableau-essential-training-29553026/install-tableau-drivers?u=76281980&t=35)** You can also do Text file, a [[JSON]] file, Access, also PDF which is very useful.
 >
 > **[0:42](https://www.linkedin.com/learning/tableau-essential-training-29553026/install-tableau-drivers?u=76281980&t=42)** You can use that to look for data in the PDF file and then do conversions.
 >
-> **[0:47](https://www.linkedin.com/learning/tableau-essential-training-29553026/install-tableau-drivers?u=76281980&t=47)** Those are the built-in file types that you can connect to and then, below, we have To a Server and I'll scroll down, and here, you have common server types, such as Microsoft SQL Server, MySQL, Oracle, Amazon Redshift.
+> **[0:47](https://www.linkedin.com/learning/tableau-essential-training-29553026/install-tableau-drivers?u=76281980&t=47)** Those are the built-in file types that you can connect to and then, below, we have To a Server and I'll scroll down, and here, you have common server types, such as [[Microsoft SQL Server]], [[MySQL]], Oracle, Amazon Redshift.
 >
 > **[1:03](https://www.linkedin.com/learning/tableau-essential-training-29553026/install-tableau-drivers?u=76281980&t=63)** Here, if you click more underneath To a Server, then you get a list of all of the installed connectors and as you can see, there are quite a lot of them.
 >
@@ -329,7 +325,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Tableau]] (4), [[Search]] (2), [[Microsoft Excel]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (4), [[Microsoft Excel]] (1), [[JSON]] (1), [[Microsoft SQL Server]] (1), [[MySQL]] (1)
 > **Env Vars:** pdf (2), json (1), sql (1)
 > **CLI Commands:** mysql (1), find (1)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -337,12 +333,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Introduce Tableau file types
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/introduce-tableau-file-types?u=76281980)
+#### [Introduce Tableau file types](https://www.linkedin.com/learning/tableau-essential-training-29553026/introduce-tableau-file-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/introduce-tableau-file-types?u=76281980&t=0)** - [Instructor] Tableau looks like a reasonably simple program, but there is actually a lot going on.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/introduce-tableau-file-types?u=76281980&t=0)** - [Instructor] [[Tableau]] looks like a reasonably simple program, but there is actually a lot going on.
 >
 > **[0:06](https://www.linkedin.com/learning/tableau-essential-training-29553026/introduce-tableau-file-types?u=76281980&t=6)** And one of the ways that you can use Tableau to its full extent is to take advantage of different file types.
 >
@@ -352,7 +347,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/tableau-essential-training-29553026/introduce-tableau-file-types?u=76281980&t=22)** A Tableau workbook, which is the type of file that we will use throughout this course, stores a visualization without source data.
 >
-> **[0:30](https://www.linkedin.com/learning/tableau-essential-training-29553026/introduce-tableau-file-types?u=76281980&t=30)** So if you send the workbook to someone without including the data source, such as an Excel file, they will have limited use of that file.
+> **[0:30](https://www.linkedin.com/learning/tableau-essential-training-29553026/introduce-tableau-file-types?u=76281980&t=30)** So if you send the workbook to someone without including the data source, such as an [[Microsoft Excel|Excel]] file, they will have limited use of that file.
 >
 > **[0:40](https://www.linkedin.com/learning/tableau-essential-training-29553026/introduce-tableau-file-types?u=76281980&t=40)** A Tableau data source, on the other hand, stores the server address, password, and other information required to access a data source.
 >
@@ -378,18 +373,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (17), data (12), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (17), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Get help in Tableau
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/get-help-in-tableau?u=76281980)
+#### [Get help in Tableau](https://www.linkedin.com/learning/tableau-essential-training-29553026/get-help-in-tableau?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/get-help-in-tableau?u=76281980&t=0)** - [Instructor] Before I start creating data connections and visualizations in Tableau, I wanted to show you how to get help within the program.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/get-help-in-tableau?u=76281980&t=0)** - [Instructor] Before I start creating data connections and visualizations in [[Tableau]], I wanted to show you how to get help within the program.
 >
 > **[0:08](https://www.linkedin.com/learning/tableau-essential-training-29553026/get-help-in-tableau?u=76281980&t=8)** And you do that using the Help menu.
 >
@@ -451,7 +445,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Tableau]] (5), web (3), [[Search]] (2), product (1)
+> **Frameworks & Libraries:** [[Tableau]] (5)
 > **UI Navigation:** scroll down (3)
 > **Prerequisites:** getting started (3)
 > **Analogies:** for example (1), such as (1)
@@ -463,20 +457,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Connect to a data source
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/connect-to-a-data-source?u=76281980)
+#### [Connect to a data source](https://www.linkedin.com/learning/tableau-essential-training-29553026/connect-to-a-data-source?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/connect-to-a-data-source?u=76281980&t=0)** - [Instructor] When you are ready to create a visualization within Tableau, you need to connect to an outside data source.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/connect-to-a-data-source?u=76281980&t=0)** - [Instructor] When you are ready to create a visualization within [[Tableau]], you need to connect to an outside data source.
 >
-> **[0:06](https://www.linkedin.com/learning/tableau-essential-training-29553026/connect-to-a-data-source?u=76281980&t=6)** In this movie, I will show you how to connect to an Excel workbook, but the skills that you learn will apply to other types of data sources as well.
+> **[0:06](https://www.linkedin.com/learning/tableau-essential-training-29553026/connect-to-a-data-source?u=76281980&t=6)** In this movie, I will show you how to connect to an [[Microsoft Excel|Excel]] workbook, but the skills that you learn will apply to other types of data sources as well.
 >
 > **[0:15](https://www.linkedin.com/learning/tableau-essential-training-29553026/connect-to-a-data-source?u=76281980&t=15)** I have opened Tableau.
 >
 > **[0:17](https://www.linkedin.com/learning/tableau-essential-training-29553026/connect-to-a-data-source?u=76281980&t=17)** I have not created or saved a workbook yet because I need to connect to a data source.
 >
-> **[0:23](https://www.linkedin.com/learning/tableau-essential-training-29553026/connect-to-a-data-source?u=76281980&t=23)** I'll go over to the Connect panel, and then under To a File, I will click Microsoft Excel.
+> **[0:23](https://www.linkedin.com/learning/tableau-essential-training-29553026/connect-to-a-data-source?u=76281980&t=23)** I'll go over to the Connect panel, and then under To a File, I will click [[Microsoft Excel]].
 >
 > **[0:32](https://www.linkedin.com/learning/tableau-essential-training-29553026/connect-to-a-data-source?u=76281980&t=32)** Then in the Chapter02 folder of the Exercise Files collection, I can double click the file that I want to connect to, and that will be OrderData.
 >
@@ -508,34 +501,33 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Tableau]] (2), product (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Excel]] (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Join related data sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-related-data-sources?u=76281980)
+#### [Join related data sources](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-related-data-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-related-data-sources?u=76281980&t=0)** - [Narrator] One of the fundamental principles of good data design is spreading your data out so that individual tables store information about a specific business object.
 >
-> **[0:11](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-related-data-sources?u=76281980&t=11)** For example, you can have one table that stores information about your customers and another about your products.
+> **[0:11](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-related-data-sources?u=76281980&t=11)** For example, you can have one table that stores information about your customers and another about your [[Microsoft Products|products]].
 >
 > **[0:17](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-related-data-sources?u=76281980&t=17)** In this movie, I will show you how to create connections to multiple data sources that are related.
 >
-> **[0:25](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-related-data-sources?u=76281980&t=25)** I have run Tableau and the file that I will connect to is a Microsoft Excel workbook.
+> **[0:25](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-related-data-sources?u=76281980&t=25)** I have run [[Tableau]] and the file that I will connect to is a [[Microsoft Excel]] workbook.
 >
 > **[0:31](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-related-data-sources?u=76281980&t=31)** So I'll go over to the connect panel and click Microsoft Excel.
 >
-> **[0:36](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-related-data-sources?u=76281980&t=36)** Then in the chapter two folder of the Exercise Files collection, I will double-click RelateTables, and here I have a connection to a Microsoft file called RelateTables.
+> **[0:36](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-related-data-sources?u=76281980&t=36)** Then in the chapter two folder of the Exercise Files collection, I will double-click RelateTables, and here I have a connection to a [[Microsoft]] file called RelateTables.
 >
 > **[0:51](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-related-data-sources?u=76281980&t=51)** And within it I have three different sheets.
 >
 > **[0:54](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-related-data-sources?u=76281980&t=54)** One contains information about orders, another has information about products, and the third has information about properties.
 >
-> **[1:02](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-related-data-sources?u=76281980&t=62)** And the idea is that I'm storing information about a hotel chain and we're keeping track of the items such as furnishings and office supplies that we order to help the hotels run.
+> **[1:02](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-related-data-sources?u=76281980&t=62)** And the idea is that I'm storing information about a hotel chain and we're keeping track of the items such as furnishings and [[Microsoft Office|office]] supplies that we order to help the hotels run.
 >
 > **[1:15](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-related-data-sources?u=76281980&t=75)** My base table is orders, so I will drag that onto the data area and I want to bring over the products and properties data as well.
 >
@@ -577,15 +569,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), product (8), data (7), [[Tableau]] (2), [[Microsoft Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), [[Tableau]] (2), [[Microsoft Excel]] (2), [[Microsoft]] (1), [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **UI Navigation:** double-click (1), go to (1)
 > **Analogies:** for example (1), such as (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [narrator] (1)
 
-#### Join data sources with inconsistent field names
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-data-sources-with-inconsistent-field-names?u=76281980)
+#### [Join data sources with inconsistent field names](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-data-sources-with-inconsistent-field-names?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -595,15 +586,15 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-data-sources-with-inconsistent-field-names?u=76281980&t=10)** In this movie, I will show you how to create a join or relationship between tables, where the common field has the same data, but has a different name in each table.
 >
-> **[0:21](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-data-sources-with-inconsistent-field-names?u=76281980&t=21)** I have started Tableau and I need to create a connection to an Excel workbook.
+> **[0:21](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-data-sources-with-inconsistent-field-names?u=76281980&t=21)** I have started [[Tableau]] and I need to create a connection to an [[Microsoft Excel|Excel]] workbook.
 >
-> **[0:26](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-data-sources-with-inconsistent-field-names?u=76281980&t=26)** So I'll go over to the Connect Task pane and click Microsoft Excel.
+> **[0:26](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-data-sources-with-inconsistent-field-names?u=76281980&t=26)** So I'll go over to the Connect Task pane and click [[Microsoft Excel]].
 >
 > **[0:33](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-data-sources-with-inconsistent-field-names?u=76281980&t=33)** Then, in the chapter two folder of the Exercise Files collection, I will double click different names.
 >
 > **[0:42](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-data-sources-with-inconsistent-field-names?u=76281980&t=42)** And so far everything looks the same as it did in the previous movie.
 >
-> **[0:46](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-data-sources-with-inconsistent-field-names?u=76281980&t=46)** I have three tables: orders, products, and properties.
+> **[0:46](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-data-sources-with-inconsistent-field-names?u=76281980&t=46)** I have three tables: orders, [[Microsoft Products|products]], and properties.
 >
 > **[0:50](https://www.linkedin.com/learning/tableau-essential-training-29553026/join-data-sources-with-inconsistent-field-names?u=76281980&t=50)** So I'll drag orders over, that is my base table from which I am creating relationships.
 >
@@ -643,19 +634,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[Microsoft Products|Products]] (4), data (2), [[Tableau]] (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Tableau]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Excel]] (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Clean up source data
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/clean-up-source-data?u=76281980)
+#### [Clean up source data](https://www.linkedin.com/learning/tableau-essential-training-29553026/clean-up-source-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/clean-up-source-data?u=76281980&t=0)** - [Instructor] Most of the time, the data that you bring into Tableau will be pretty clean.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/clean-up-source-data?u=76281980&t=0)** - [Instructor] Most of the time, the data that you bring into [[Tableau]] will be pretty clean.
 >
-> **[0:04](https://www.linkedin.com/learning/tableau-essential-training-29553026/clean-up-source-data?u=76281980&t=4)** For example, you might have Excel workbooks that contain single tables with no incorrect values.
+> **[0:04](https://www.linkedin.com/learning/tableau-essential-training-29553026/clean-up-source-data?u=76281980&t=4)** For example, you might have [[Microsoft Excel|Excel]] workbooks that contain single tables with no incorrect values.
 >
 > **[0:10](https://www.linkedin.com/learning/tableau-essential-training-29553026/clean-up-source-data?u=76281980&t=10)** However, there might be times when you find that your data isn't formatted the way that it should be, and Tableau has a hard time reading it.
 >
@@ -663,7 +653,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/tableau-essential-training-29553026/clean-up-source-data?u=76281980&t=24)** I have started Tableau and now I need to create a connection to a data source.
 >
-> **[0:31](https://www.linkedin.com/learning/tableau-essential-training-29553026/clean-up-source-data?u=76281980&t=31)** This will be an Excel file, so I will go over to the Connect task pane and click Microsoft Excel.
+> **[0:31](https://www.linkedin.com/learning/tableau-essential-training-29553026/clean-up-source-data?u=76281980&t=31)** This will be an Excel file, so I will go over to the Connect task pane and click [[Microsoft Excel]].
 >
 > **[0:38](https://www.linkedin.com/learning/tableau-essential-training-29553026/clean-up-source-data?u=76281980&t=38)** And then in the Chapter02 folder of the Exercise Files Collection, I will double click CleanUpData.
 >
@@ -719,13 +709,13 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/tableau-essential-training-29553026/clean-up-source-data?u=76281980&t=193)** Because I'm only looking at the table, I am not looking at the Excel row above the table.
 >
-> **[3:19](https://www.linkedin.com/learning/tableau-essential-training-29553026/clean-up-source-data?u=76281980&t=199)** The example of data cleaning I've shown in this movie is about as simple as they come, and any of you watching this course who have had to bring in data from multiple sources knows how difficult it can be.
+> **[3:19](https://www.linkedin.com/learning/tableau-essential-training-29553026/clean-up-source-data?u=76281980&t=199)** The example of [[Data Cleaning]] I've shown in this movie is about as simple as they come, and any of you watching this course who have had to bring in data from multiple sources knows how difficult it can be.
 >
 > **[3:30](https://www.linkedin.com/learning/tableau-essential-training-29553026/clean-up-source-data?u=76281980&t=210)** If you need to clean data sources frequently and you find rules or patterns that work, I recommend looking into Tableau Prep, which is a data cleaning program that Tableau added to its repertoire in late 2018.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Tableau]] (7), [[Microsoft Excel|Excel]] (6), [[Microsoft Excel]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (7), [[Microsoft Excel|Excel]] (6), [[Microsoft Excel]] (2), [[Data Cleaning]] (2)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (2)
 > **Definitions:** short for (1), is a  (1)
@@ -734,12 +724,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reorder fields in a visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/reorder-fields-in-a-visualization?u=76281980)
+#### [Reorder fields in a visualization](https://www.linkedin.com/learning/tableau-essential-training-29553026/reorder-fields-in-a-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/reorder-fields-in-a-visualization?u=76281980&t=0)** - [Instructor] After you create a visualization in Tableau, you can change the organization of your data by manipulating fields.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/reorder-fields-in-a-visualization?u=76281980&t=0)** - [Instructor] After you create a visualization in [[Tableau]], you can change the organization of your data by manipulating fields.
 >
 > **[0:07](https://www.linkedin.com/learning/tableau-essential-training-29553026/reorder-fields-in-a-visualization?u=76281980&t=7)** In this movie, I will show you how to create this, and then reorganize the fields within it.
 >
@@ -785,19 +774,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (10), data (5), [[Tableau]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Change the summary operation
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-summary-operation?u=76281980)
+#### [Change the summary operation](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-summary-operation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-summary-operation?u=76281980&t=0)** - [Instructor] When you visualize data in Tableau, most of the time you will want to find the sum of whatever data you have collected.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-summary-operation?u=76281980&t=0)** - [Instructor] When you visualize data in [[Tableau]], most of the time you will want to find the sum of whatever data you have collected.
 >
 > **[0:08](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-summary-operation?u=76281980&t=8)** For example, in this case, I have the sum of the value of orders placed in five different product categories.
 >
@@ -817,7 +805,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-summary-operation?u=76281980&t=65)** In this case, I'll just click Average so I can see the average order within each product category.
 >
-> **[1:11](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-summary-operation?u=76281980&t=71)** And, there I see that my furnishing orders were usually about $165 to $166, housekeeping 47, maintenance 116, office supplies 44.5, and public areas just a little bit less than $121.
+> **[1:11](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-summary-operation?u=76281980&t=71)** And, there I see that my furnishing orders were usually about $165 to $166, housekeeping 47, maintenance 116, [[Microsoft Office|office]] supplies 44.5, and public areas just a little bit less than $121.
 >
 > **[1:29](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-summary-operation?u=76281980&t=89)** So that is the average across all the orders for each of those categories.
 >
@@ -825,7 +813,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), data (2), [[Tableau]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (1), such as (1)
 > **Versions:** 44.5 (1)
@@ -833,28 +821,27 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Split text into multiple columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/split-text-into-multiple-columns?u=76281980)
+#### [Split text into multiple columns](https://www.linkedin.com/learning/tableau-essential-training-29553026/split-text-into-multiple-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/split-text-into-multiple-columns?u=76281980&t=0)** - [Person] Well-structured data collections divide information into separate units.
 >
-> **[0:05](https://www.linkedin.com/learning/tableau-essential-training-29553026/split-text-into-multiple-columns?u=76281980&t=5)** You would store information about customers and the products they order in separate tables, for example.
+> **[0:05](https://www.linkedin.com/learning/tableau-essential-training-29553026/split-text-into-multiple-columns?u=76281980&t=5)** You would store information about customers and the [[Microsoft Products|products]] they order in separate tables, for example.
 >
 > **[0:11](https://www.linkedin.com/learning/tableau-essential-training-29553026/split-text-into-multiple-columns?u=76281980&t=11)** And you should also split items like customer names into first name, middle name and last name columns when you can.
 >
 > **[0:19](https://www.linkedin.com/learning/tableau-essential-training-29553026/split-text-into-multiple-columns?u=76281980&t=19)** If you need to work with data that combines multiple values into a single column, you can try to split the text into multiple columns to make it easier to work with, and in this movie, I will show you how to do that.
 >
-> **[0:32](https://www.linkedin.com/learning/tableau-essential-training-29553026/split-text-into-multiple-columns?u=76281980&t=32)** I'm starting in Excel so that you can see the data we're working with, and the file is "SplitData," which is an Excel workbook you can find in the "Chapter02" folder of the exercise files collection.
+> **[0:32](https://www.linkedin.com/learning/tableau-essential-training-29553026/split-text-into-multiple-columns?u=76281980&t=32)** I'm starting in [[Microsoft Excel|Excel]] so that you can see the data we're working with, and the file is "SplitData," which is an Excel workbook you can find in the "Chapter02" folder of the exercise files collection.
 >
 > **[0:44](https://www.linkedin.com/learning/tableau-essential-training-29553026/split-text-into-multiple-columns?u=76281980&t=44)** And here, I have a list of cities and states where my company has hotels, so I have the property ID in the first column, and then, city and state combined into the second column.
 >
-> **[0:58](https://www.linkedin.com/learning/tableau-essential-training-29553026/split-text-into-multiple-columns?u=76281980&t=58)** However, because city and state are separate entities and cities are contained within states, those two values really should be in separate columns, so let's go into Tableau and split them apart.
+> **[0:58](https://www.linkedin.com/learning/tableau-essential-training-29553026/split-text-into-multiple-columns?u=76281980&t=58)** However, because city and state are separate entities and cities are contained within states, those two values really should be in separate columns, so let's go into [[Tableau]] and split them apart.
 >
 > **[1:12](https://www.linkedin.com/learning/tableau-essential-training-29553026/split-text-into-multiple-columns?u=76281980&t=72)** I'll close this workbook, and then, create a connection to it in Tableau.
 >
-> **[1:19](https://www.linkedin.com/learning/tableau-essential-training-29553026/split-text-into-multiple-columns?u=76281980&t=79)** In the "Connect" task pane, I'll click "Microsoft Excel," and it is "SplitData," so I'll double click there, and I get my preview on the right with "Property ID" and "City and State."
+> **[1:19](https://www.linkedin.com/learning/tableau-essential-training-29553026/split-text-into-multiple-columns?u=76281980&t=79)** In the "Connect" task pane, I'll click "[[Microsoft Excel]]," and it is "SplitData," so I'll double click there, and I get my preview on the right with "Property ID" and "City and State."
 >
 > **[1:32](https://www.linkedin.com/learning/tableau-essential-training-29553026/split-text-into-multiple-columns?u=76281980&t=92)** To split "City and State" into separate columns, I actually have a couple of options, I can have Tableau do it by itself or I can do it on my own.
 >
@@ -876,7 +863,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (6), data (5), [[Microsoft Excel|Excel]] (2), [[Microsoft Products|Products]] (1), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (6), [[Microsoft Excel|Excel]] (2), [[Microsoft Products|Products]] (1), [[Microsoft Excel]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is an  (1)
@@ -888,12 +875,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Display the data underlying a workbook
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-the-data-underlying-a-workbook?u=76281980)
+#### [Display the data underlying a workbook](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-the-data-underlying-a-workbook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-the-data-underlying-a-workbook?u=76281980&t=0)** - [Instructor] You can use Tableau to create effective, creative visualizations.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-the-data-underlying-a-workbook?u=76281980&t=0)** - [Instructor] You can use [[Tableau]] to create effective, creative visualizations.
 >
 > **[0:04](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-the-data-underlying-a-workbook?u=76281980&t=4)** But what if you want to look at the data that underlies a vis that you've created?
 >
@@ -911,7 +897,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-the-data-underlying-a-workbook?u=76281980&t=43)** If you want to view the data source for a worksheet, then you can go to the bottom left corner and click Data Source.
 >
-> **[0:51](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-the-data-underlying-a-workbook?u=76281980&t=51)** That opens the data source window or the Connections window, and you can see here that I have the name of the base table, which is Orders, and then I also have Products and Properties.
+> **[0:51](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-the-data-underlying-a-workbook?u=76281980&t=51)** That opens the data source window or the Connections window, and you can see here that I have the name of the base table, which is Orders, and then I also have [[Microsoft Products|Products]] and Properties.
 >
 > **[1:06](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-the-data-underlying-a-workbook?u=76281980&t=66)** So this is the data model, and the lines indicate that Orders is used to connect to Products and to Properties.
 >
@@ -949,19 +935,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Microsoft Products|Products]] (5), [[Tableau]] (2), product (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Tableau]] (2)
 > **CLI Commands:** find (1)
 > **Versions:** 2025.1 (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add, duplicate, and rename worksheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-duplicate-and-rename-worksheets?u=76281980)
+#### [Add, duplicate, and rename worksheets](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-duplicate-and-rename-worksheets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-duplicate-and-rename-worksheets?u=76281980&t=0)** - [Instructor] Tableau workbooks store your data in worksheets and each worksheet contains a visualization or other content.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-duplicate-and-rename-worksheets?u=76281980&t=0)** - [Instructor] [[Tableau]] workbooks store your data in worksheets and each worksheet contains a visualization or other content.
 >
 > **[0:08](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-duplicate-and-rename-worksheets?u=76281980&t=8)** In this movie, I will show you how to add, duplicate, and rename worksheets.
 >
@@ -1019,19 +1004,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Tableau]] (3)
+> **Frameworks & Libraries:** [[Tableau]] (3)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reorder, clear, and delete worksheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/reorder-clear-and-delete-worksheets?u=76281980)
+#### [Reorder, clear, and delete worksheets](https://www.linkedin.com/learning/tableau-essential-training-29553026/reorder-clear-and-delete-worksheets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/reorder-clear-and-delete-worksheets?u=76281980&t=0)** - [Instructor] After you have worked in Tableau for a while, it is likely that your workbooks will contain multiple worksheets.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/reorder-clear-and-delete-worksheets?u=76281980&t=0)** - [Instructor] After you have worked in [[Tableau]] for a while, it is likely that your workbooks will contain multiple worksheets.
 >
 > **[0:06](https://www.linkedin.com/learning/tableau-essential-training-29553026/reorder-clear-and-delete-worksheets?u=76281980&t=6)** In this movie, I will demonstrate some useful skills for managing worksheets in workbooks that contain multiple sheets.
 >
@@ -1063,7 +1047,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/tableau-essential-training-29553026/reorder-clear-and-delete-worksheets?u=76281980&t=124)** So I'll click that and the worksheet has been deleted.
 >
-> **[2:08](https://www.linkedin.com/learning/tableau-essential-training-29553026/reorder-clear-and-delete-worksheets?u=76281980&t=128)** If you're an Excel user, you might think that the worksheet cannot be un-deleted, that is you can't undo a worksheet deletion.
+> **[2:08](https://www.linkedin.com/learning/tableau-essential-training-29553026/reorder-clear-and-delete-worksheets?u=76281980&t=128)** If you're an [[Microsoft Excel|Excel]] user, you might think that the worksheet cannot be un-deleted, that is you can't undo a worksheet deletion.
 >
 > **[2:16](https://www.linkedin.com/learning/tableau-essential-training-29553026/reorder-clear-and-delete-worksheets?u=76281980&t=136)** In Tableau, that's only the case if you save and close the workbook.
 >
@@ -1071,18 +1055,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (2), next (2), data (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (2), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Change a worksheet’s tab color
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-a-worksheet-s-tab-color?u=76281980)
+#### [Change a worksheet’s tab color](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-a-worksheet-s-tab-color?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-a-worksheet-s-tab-color?u=76281980&t=0)** - [Instructor] When you create a Tableau workbook, you might want to bring your colleagues' attention to the most important data.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-a-worksheet-s-tab-color?u=76281980&t=0)** - [Instructor] When you create a [[Tableau]] workbook, you might want to bring your colleagues' attention to the most important data.
 >
 > **[0:07](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-a-worksheet-s-tab-color?u=76281980&t=7)** One way you can do that is to call out the worksheet somehow.
 >
@@ -1108,19 +1091,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Tableau]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** right-click (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Show or hide worksheet elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/show-or-hide-worksheet-elements?u=76281980)
+#### [Show or hide worksheet elements](https://www.linkedin.com/learning/tableau-essential-training-29553026/show-or-hide-worksheet-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/show-or-hide-worksheet-elements?u=76281980&t=0)** - [Instructor] After you have created a visualization in Tableau, it's possible you'll want to remove some elements from the interface so that you have an unobstructed view of your data.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/show-or-hide-worksheet-elements?u=76281980&t=0)** - [Instructor] After you have created a visualization in [[Tableau]], it's possible you'll want to remove some elements from the interface so that you have an unobstructed view of your data.
 >
 > **[0:10](https://www.linkedin.com/learning/tableau-essential-training-29553026/show-or-hide-worksheet-elements?u=76281980&t=10)** In this movie, I will show you how to hide and also re-display elements of the user interface.
 >
@@ -1152,7 +1134,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/tableau-essential-training-29553026/show-or-hide-worksheet-elements?u=76281980&t=131)** Captions work very much the same way that alt text works on images that you'll find on social media.
 >
-> **[2:18](https://www.linkedin.com/learning/tableau-essential-training-29553026/show-or-hide-worksheet-elements?u=76281980&t=138)** It's great for a word-based summary, and it's also useful for your colleagues who use screen readers, and if you want to get rid of the caption, you can go back up to worksheet and click Show Caption and it will be removed.
+> **[2:18](https://www.linkedin.com/learning/tableau-essential-training-29553026/show-or-hide-worksheet-elements?u=76281980&t=138)** It's great for a [[Microsoft Word|word]]-based summary, and it's also useful for your colleagues who use screen readers, and if you want to get rid of the caption, you can go back up to worksheet and click Show Caption and it will be removed.
 >
 > **[2:36](https://www.linkedin.com/learning/tableau-essential-training-29553026/show-or-hide-worksheet-elements?u=76281980&t=156)** Also in the worksheet menu, you can show or hide the summary card, and that gives you a summary of the data that's currently displayed.
 >
@@ -1178,7 +1160,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/tableau-essential-training-29553026/show-or-hide-worksheet-elements?u=76281980&t=232)** So you'll see shelf and card used interchangeably within the program.
 >
-> **[3:58](https://www.linkedin.com/learning/tableau-essential-training-29553026/show-or-hide-worksheet-elements?u=76281980&t=238)** I won't actually show or hide any of the cards because you've seen how the process works throughout the rest of the movie.
+> **[3:58](https://www.linkedin.com/learning/tableau-essential-training-29553026/show-or-hide-worksheet-elements?u=76281980&t=238)** I won't actually show or hide any of the cards because you've seen how the process works throughout the [[Representational State Transfer (REST)|rest]] of the movie.
 >
 > **[4:05](https://www.linkedin.com/learning/tableau-essential-training-29553026/show-or-hide-worksheet-elements?u=76281980&t=245)** Many Tableau visualizations take up a lot of your worksheet.
 >
@@ -1188,7 +1170,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Tableau]] (2), next (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (2), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (3), means that (1)
 > **UI Navigation:** go to (1)
@@ -1196,12 +1178,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Save your changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/save-your-changes?u=76281980)
+#### [Save your changes](https://www.linkedin.com/learning/tableau-essential-training-29553026/save-your-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/save-your-changes?u=76281980&t=0)** - [Instructor] When you make changes to a Tableau workbook, you can save them in a couple of different ways.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/save-your-changes?u=76281980&t=0)** - [Instructor] When you make changes to a [[Tableau]] workbook, you can save them in a couple of different ways.
 >
 > **[0:06](https://www.linkedin.com/learning/tableau-essential-training-29553026/save-your-changes?u=76281980&t=6)** Tableau also has a built-in function that lets you revert to the last saved estate of the workbook.
 >
@@ -1255,11 +1236,11 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/tableau-essential-training-29553026/save-your-changes?u=76281980&t=126)** As before, I don't actually want to save any of the changes, so I'll just click Cancel.
 >
-> **[2:11](https://www.linkedin.com/learning/tableau-essential-training-29553026/save-your-changes?u=76281980&t=131)** The final thing that I'll show you is very useful, and I wish we had this in Excel and other Microsoft Office programs.
+> **[2:11](https://www.linkedin.com/learning/tableau-essential-training-29553026/save-your-changes?u=76281980&t=131)** The final thing that I'll show you is very useful, and I wish we had this in [[Microsoft Excel|Excel]] and other [[Microsoft Office]] programs.
 >
 > **[2:19](https://www.linkedin.com/learning/tableau-essential-training-29553026/save-your-changes?u=76281980&t=139)** So if I go to File, you might have seen Revert to Saved, which uses the F12 keyboard shortcut.
 >
-> **[2:28](https://www.linkedin.com/learning/tableau-essential-training-29553026/save-your-changes?u=76281980&t=148)** And this is one other area where Microsoft Office users can get confused, because in Office, F12 opens the Save As dialog box, where here in Tableau, it is Revert to Saved.
+> **[2:28](https://www.linkedin.com/learning/tableau-essential-training-29553026/save-your-changes?u=76281980&t=148)** And this is one other area where Microsoft Office users can get confused, because in [[Microsoft Office|Office]], F12 opens the Save As dialog box, where here in Tableau, it is Revert to Saved.
 >
 > **[2:42](https://www.linkedin.com/learning/tableau-essential-training-29553026/save-your-changes?u=76281980&t=162)** So let me show you what happens if I go through reverting the file to its last saved configuration.
 >
@@ -1286,12 +1267,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Save your workbook as a PDF file
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/save-your-workbook-as-a-pdf-file?u=76281980)
+#### [Save your workbook as a PDF file](https://www.linkedin.com/learning/tableau-essential-training-29553026/save-your-workbook-as-a-pdf-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/save-your-workbook-as-a-pdf-file?u=76281980&t=0)** - [Instructor] Tableau lets you create terrific visualizations and once you create them, you will want to share them.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/save-your-workbook-as-a-pdf-file?u=76281980&t=0)** - [Instructor] [[Tableau]] lets you create terrific visualizations and once you create them, you will want to share them.
 >
 > **[0:06](https://www.linkedin.com/learning/tableau-essential-training-29553026/save-your-workbook-as-a-pdf-file?u=76281980&t=6)** There are a number of ways you can do that, and in this movie I will show you how to print a visualization to a PDF file.
 >
@@ -1345,7 +1325,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (1), next (1), web (1), application (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **Env Vars:** pdf (14)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Analogies:** such as (2)
@@ -1353,12 +1333,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a packaged workbook
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-packaged-workbook?u=76281980)
+#### [Create a packaged workbook](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-packaged-workbook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-packaged-workbook?u=76281980&t=0)** - [Instructor] Tableau is a very useful and versatile program, but not everyone has a copy of it.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-packaged-workbook?u=76281980&t=0)** - [Instructor] [[Tableau]] is a very useful and versatile program, but not everyone has a copy of it.
 >
 > **[0:06](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-packaged-workbook?u=76281980&t=6)** If you want to share your Tableau workbooks with other users who might not have Tableau, or at least not the full version, you can do so by creating what is called a packaged workbook.
 >
@@ -1398,7 +1377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (9), data (5), application (1)
+> **Frameworks & Libraries:** [[Tableau]] (9)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -1406,16 +1385,15 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Export data to a CSV file
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/export-data-to-a-csv-file?u=76281980)
+#### [Export data to a CSV file](https://www.linkedin.com/learning/tableau-essential-training-29553026/export-data-to-a-csv-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/export-data-to-a-csv-file?u=76281980&t=0)** - [Instructor] Most of this course focuses on how to bring data into Tableau, but it can be just as useful to know how to export it.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/export-data-to-a-csv-file?u=76281980&t=0)** - [Instructor] Most of this course focuses on how to bring data into [[Tableau]], but it can be just as useful to know how to export it.
 >
 > **[0:08](https://www.linkedin.com/learning/tableau-essential-training-29553026/export-data-to-a-csv-file?u=76281980&t=8)** The most useful data format is often the Comma Separated Value, or CSV, file.
 >
-> **[0:14](https://www.linkedin.com/learning/tableau-essential-training-29553026/export-data-to-a-csv-file?u=76281980&t=14)** And in this movie, I will show you how to export your Tableau data as a CSV file, and what it looks like when you open it in Excel.
+> **[0:14](https://www.linkedin.com/learning/tableau-essential-training-29553026/export-data-to-a-csv-file?u=76281980&t=14)** And in this movie, I will show you how to export your Tableau data as a CSV file, and what it looks like when you open it in [[Microsoft Excel|Excel]].
 >
 > **[0:22](https://www.linkedin.com/learning/tableau-essential-training-29553026/export-data-to-a-csv-file?u=76281980&t=22)** My sample file is oh 03_09.csv, and you can find it in the Chapter 3 folder of the Exercise files collection.
 >
@@ -1459,7 +1437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Tableau]] (3), [[Microsoft Excel|Excel]] (2), product (2)
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** csv (7)
 > **File Paths:** 03_09.csv (1)
 > **CLI Commands:** find (1)
@@ -1473,12 +1451,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Present Tableau operators and built-in functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/present-tableau-operators-and-built-in-functions?u=76281980)
+#### [Present Tableau operators and built-in functions](https://www.linkedin.com/learning/tableau-essential-training-29553026/present-tableau-operators-and-built-in-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/present-tableau-operators-and-built-in-functions?u=76281980&t=0)** - [Instructor] One of the best aspects of Tableau is the selection of built-in functions and operators that you can use to create calculations quickly.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/present-tableau-operators-and-built-in-functions?u=76281980&t=0)** - [Instructor] One of the best aspects of [[Tableau]] is the selection of built-in functions and operators that you can use to create calculations quickly.
 >
 > **[0:09](https://www.linkedin.com/learning/tableau-essential-training-29553026/present-tableau-operators-and-built-in-functions?u=76281980&t=9)** In this movie, I'll describe some of the more frequently used operators and built-in functions that will save you time and help you gather important information about your business.
 >
@@ -1514,11 +1491,11 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/tableau-essential-training-29553026/present-tableau-operators-and-built-in-functions?u=76281980&t=124)** Next, here are some of the commonly used functions.
 >
-> **[2:08](https://www.linkedin.com/learning/tableau-essential-training-29553026/present-tableau-operators-and-built-in-functions?u=76281980&t=128)** By far, the most common that you'll use in Tableau is SUM, which adds up a set of values; average, written as AVG rather than the entire word, finds the average; and MIN and MAX find the smallest and largest values.
+> **[2:08](https://www.linkedin.com/learning/tableau-essential-training-29553026/present-tableau-operators-and-built-in-functions?u=76281980&t=128)** By far, the most common that you'll use in Tableau is SUM, which adds up a set of values; average, written as AVG rather than the entire [[Microsoft Word|word]], finds the average; and MIN and MAX find the smallest and largest values.
 >
 > **[2:25](https://www.linkedin.com/learning/tableau-essential-training-29553026/present-tableau-operators-and-built-in-functions?u=76281980&t=145)** Those calculations are very useful when you are looking at the range of values in a dataset.
 >
-> **[2:31](https://www.linkedin.com/learning/tableau-essential-training-29553026/present-tableau-operators-and-built-in-functions?u=76281980&t=151)** Standard deviation finds the standard deviation of a set of values, and again, is very useful when you are doing statistical analysis.
+> **[2:31](https://www.linkedin.com/learning/tableau-essential-training-29553026/present-tableau-operators-and-built-in-functions?u=76281980&t=151)** Standard deviation finds the standard deviation of a set of values, and again, is very useful when you are doing [[Statistical Analysis]].
 >
 > **[2:40](https://www.linkedin.com/learning/tableau-essential-training-29553026/present-tableau-operators-and-built-in-functions?u=76281980&t=160)** Other functions that you might use are ABS, which returns the absolute value, which is the distance from zero of a number.
 >
@@ -1538,19 +1515,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (3), next (2), business (1), [[Programming]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (3), [[Microsoft Word|Word]] (1), [[Statistical Analysis]] (1)
 > **Env Vars:** sum (1), avg (1), min (1), max (1), abs (1)
 > **Versions:** 20.1 (2), 20.9 (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a calculated field
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-calculated-field?u=76281980)
+#### [Create a calculated field](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-calculated-field?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-calculated-field?u=76281980&t=0)** - [Instructor] When you analyze your data in Tableau, it's possible that the original data source might not contain all the values that you want.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-calculated-field?u=76281980&t=0)** - [Instructor] When you analyze your data in [[Tableau]], it's possible that the original data source might not contain all the values that you want.
 >
 > **[0:07](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-calculated-field?u=76281980&t=7)** For example, you might know total sales, but you don't know the contribution to selling General and Administrative expenses, called SG&A.
 >
@@ -1644,7 +1620,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Tableau]] (2), product (1), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **Definitions:** is an  (1), stands for (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Versions:** 0.11 (1)
@@ -1653,12 +1629,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** warning (1)
 
-#### Create a calculated field on a shelf
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-calculated-field-on-a-shelf?u=76281980)
+#### [Create a calculated field on a shelf](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-calculated-field-on-a-shelf?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-calculated-field-on-a-shelf?u=76281980&t=0)** - [Instructor] Creating a calculated field in Tableau is a fairly straightforward process.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-calculated-field-on-a-shelf?u=76281980&t=0)** - [Instructor] Creating a calculated field in [[Tableau]] is a fairly straightforward process.
 >
 > **[0:05](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-calculated-field-on-a-shelf?u=76281980&t=5)** However, there will be times when you don't want to go through all the trouble of naming a field and creating it.
 >
@@ -1718,7 +1693,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (2), next (2), product (1), data (1)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **Versions:** 0.89 (5)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (2)
@@ -1727,12 +1702,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add a table calculation
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-a-table-calculation?u=76281980)
+#### [Add a table calculation](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-a-table-calculation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-a-table-calculation?u=76281980&t=0)** - [Instructor] Summarizing your data in a Tableau table lets you discover important insights about your data.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-a-table-calculation?u=76281980&t=0)** - [Instructor] Summarizing your data in a [[Tableau]] table lets you discover important insights about your data.
 >
 > **[0:06](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-a-table-calculation?u=76281980&t=6)** You can enhance your tables by adding table calculations to create additional summaries based on what you already have.
 >
@@ -1810,7 +1784,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Tableau]] (1), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** go to (2), select the (1)
@@ -1819,12 +1793,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use level of detail expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/use-level-of-detail-expressions?u=76281980)
+#### [Use level of detail expressions](https://www.linkedin.com/learning/tableau-essential-training-29553026/use-level-of-detail-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/use-level-of-detail-expressions?u=76281980&t=0)** - [Instructor] One terrific capability in Tableau is the ability to create level of detail expressions.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/use-level-of-detail-expressions?u=76281980&t=0)** - [Instructor] One terrific capability in [[Tableau]] is the ability to create level of detail expressions.
 >
 > **[0:07](https://www.linkedin.com/learning/tableau-essential-training-29553026/use-level-of-detail-expressions?u=76281980&t=7)** Most calculations happen at a specific level such as the sheet level, the table row level, and so on.
 >
@@ -1946,7 +1919,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Tableau]] (2), application (1)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **Env Vars:** lod (15)
 > **CLI Commands:** find (5)
 > **Exercise Files:** exercise files (1)
@@ -1958,8 +1931,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Calculate averages, medians, minimums, and maximums
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/calculate-averages-medians-minimums-and-maximums?u=76281980)
+#### [Calculate averages, medians, minimums, and maximums](https://www.linkedin.com/learning/tableau-essential-training-29553026/calculate-averages-medians-minimums-and-maximums?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2031,21 +2003,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Count occurrences and distinct items
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/count-occurrences-and-distinct-items?u=76281980)
+#### [Count occurrences and distinct items](https://www.linkedin.com/learning/tableau-essential-training-29553026/count-occurrences-and-distinct-items?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/count-occurrences-and-distinct-items?u=76281980&t=0)** - [Speaker] Large data collections tended to contain a lot of repeated values.
 >
-> **[0:04](https://www.linkedin.com/learning/tableau-essential-training-29553026/count-occurrences-and-distinct-items?u=76281980&t=4)** For example, if you order products to help a hotel chain run, then you might see a lot of orders for items such as lamps, bedspreads, and so on.
+> **[0:04](https://www.linkedin.com/learning/tableau-essential-training-29553026/count-occurrences-and-distinct-items?u=76281980&t=4)** For example, if you order [[Microsoft Products|products]] to help a hotel chain run, then you might see a lot of orders for items such as lamps, bedspreads, and so on.
 >
 > **[0:15](https://www.linkedin.com/learning/tableau-essential-training-29553026/count-occurrences-and-distinct-items?u=76281980&t=15)** In this movie, I will show you how to count the number of orders placed within several categories and then also show you how to count the number of distinct items in this case products that were ordered from within each category.
 >
@@ -2069,7 +2039,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/count-occurrences-and-distinct-items?u=76281980&t=120)** So I'll drag product name to the data area.
 >
-> **[2:05](https://www.linkedin.com/learning/tableau-essential-training-29553026/count-occurrences-and-distinct-items?u=76281980&t=125)** And what happens is that because I had a measure, Tableau thinks that I want to add it to the row shelf as a way of organizing the visualization that I'll create.
+> **[2:05](https://www.linkedin.com/learning/tableau-essential-training-29553026/count-occurrences-and-distinct-items?u=76281980&t=125)** And what happens is that because I had a measure, [[Tableau]] thinks that I want to add it to the row shelf as a way of organizing the visualization that I'll create.
 >
 > **[2:15](https://www.linkedin.com/learning/tableau-essential-training-29553026/count-occurrences-and-distinct-items?u=76281980&t=135)** And so, it did that.
 >
@@ -2089,7 +2059,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/tableau-essential-training-29553026/count-occurrences-and-distinct-items?u=76281980&t=170)** Actually, I'll click Show me again.
 >
-> **[2:52](https://www.linkedin.com/learning/tableau-essential-training-29553026/count-occurrences-and-distinct-items?u=76281980&t=172)** And I see that we have orders for 26 different products and furnishings, 19 in housekeeping, 15 in maintenance, 13 in office supplies, and 21 for items that are used in the public areas.
+> **[2:52](https://www.linkedin.com/learning/tableau-essential-training-29553026/count-occurrences-and-distinct-items?u=76281980&t=172)** And I see that we have orders for 26 different products and furnishings, 19 in housekeeping, 15 in maintenance, 13 in [[Microsoft Office|office]] supplies, and 21 for items that are used in the public areas.
 >
 > **[3:04](https://www.linkedin.com/learning/tableau-essential-training-29553026/count-occurrences-and-distinct-items?u=76281980&t=184)** So remember, if you want to count the number of orders within a specific category, in this case product category, use order details count.
 >
@@ -2097,7 +2067,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), data (4), [[Microsoft Products|Products]] (4), [[Tableau]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Tableau]] (1), [[Microsoft Office|Office]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
@@ -2105,12 +2075,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [speaker] (1)
 
-#### Display the Summary Card
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-the-summary-card?u=76281980)
+#### [Display the Summary Card](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-the-summary-card?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-the-summary-card?u=76281980&t=0)** - [Instructor] You can summarize your Tableau data in many different ways, but most formulas only provide one value at a time.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-the-summary-card?u=76281980&t=0)** - [Instructor] You can summarize your [[Tableau]] data in many different ways, but most formulas only provide one value at a time.
 >
 > **[0:07](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-the-summary-card?u=76281980&t=7)** If you want to display several summaries of your data, such as minimums, maximums, and standard deviations, you can display the Summary card.
 >
@@ -2186,7 +2155,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Tableau]] (3), next (2)
+> **Frameworks & Libraries:** [[Tableau]] (3)
 > **UI Navigation:** go to (2), checkbox (1)
 > **CLI Commands:** find (2)
 > **Versions:** 253.5 (2)
@@ -2195,8 +2164,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Warnings:** note that (1)
 
-#### Calculate percentages within a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/calculate-percentages-within-a-table?u=76281980)
+#### [Calculate percentages within a table](https://www.linkedin.com/learning/tableau-essential-training-29553026/calculate-percentages-within-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2212,7 +2180,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/tableau-essential-training-29553026/calculate-percentages-within-a-table?u=76281980&t=39)** However, if I want to know the percentage that each value contributes to the grand total of the table, then it's not easy to determine that.
 >
-> **[0:48](https://www.linkedin.com/learning/tableau-essential-training-29553026/calculate-percentages-within-a-table?u=76281980&t=48)** However, with just a few clicks, I can have Tableau do it for me.
+> **[0:48](https://www.linkedin.com/learning/tableau-essential-training-29553026/calculate-percentages-within-a-table?u=76281980&t=48)** However, with just a few clicks, I can have [[Tableau]] do it for me.
 >
 > **[0:52](https://www.linkedin.com/learning/tableau-essential-training-29553026/calculate-percentages-within-a-table?u=76281980&t=52)** So I will go to the analysis menu, then I'll 0.2 percentage of, and here I have a number of options, none just shows the values as they are.
 >
@@ -2238,13 +2206,13 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/tableau-essential-training-29553026/calculate-percentages-within-a-table?u=76281980&t=164)** And then the other values, you can see here, housekeeping has gone up and the others are more or less the same.
 >
-> **[2:51](https://www.linkedin.com/learning/tableau-essential-training-29553026/calculate-percentages-within-a-table?u=76281980&t=171)** Office supplies have gone up a bit as well, but that was one of my lowest expenditures.
+> **[2:51](https://www.linkedin.com/learning/tableau-essential-training-29553026/calculate-percentages-within-a-table?u=76281980&t=171)** [[Microsoft Office|Office]] supplies have gone up a bit as well, but that was one of my lowest expenditures.
 >
 > **[2:56](https://www.linkedin.com/learning/tableau-essential-training-29553026/calculate-percentages-within-a-table?u=76281980&t=176)** When I'm done displaying percentages and I want to go back to the original data, I can open the analysis menu, point to percentage of, click none, and continue on with my work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), product (1), [[Tableau]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1), [[Microsoft Office|Office]] (1)
 > **Versions:** 0.2 (1), 22.4 (1), 4.37 (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** go to (1), open the (1)
@@ -2252,8 +2220,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Forecast future values
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/forecast-future-values?u=76281980)
+#### [Forecast future values](https://www.linkedin.com/learning/tableau-essential-training-29553026/forecast-future-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2273,7 +2240,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/tableau-essential-training-29553026/forecast-future-values?u=76281980&t=74)** So the forecast estimate for 2024, quarter number four, is 11,858, and for quarter number one of 2025, it's 12,271.
 >
-> **[1:26](https://www.linkedin.com/learning/tableau-essential-training-29553026/forecast-future-values?u=76281980&t=86)** And yes, I do have data for quarter number four of 2024 in my dataset, but Tableau needs to have two quarters for which to project its data, and that is the line that you see here.
+> **[1:26](https://www.linkedin.com/learning/tableau-essential-training-29553026/forecast-future-values?u=76281980&t=86)** And yes, I do have data for quarter number four of 2024 in my dataset, but [[Tableau]] needs to have two quarters for which to project its data, and that is the line that you see here.
 >
 > **[1:42](https://www.linkedin.com/learning/tableau-essential-training-29553026/forecast-future-values?u=76281980&t=102)** So this forecast line tells me that if past trends continue, then I will see a slight increase from 2024 to 2025.
 >
@@ -2309,7 +2276,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (3), business (2), [[Analytics]] (1), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **UI Navigation:** go to (1), right-click (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -2321,8 +2288,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sort based on a field’s values
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/sort-based-on-a-field-s-values?u=76281980)
+#### [Sort based on a field’s values](https://www.linkedin.com/learning/tableau-essential-training-29553026/sort-based-on-a-field-s-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2392,7 +2358,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), business (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (1)
@@ -2400,8 +2365,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a nested sort
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-nested-sort?u=76281980)
+#### [Create a nested sort](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-nested-sort?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2443,7 +2407,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-nested-sort?u=76281980&t=134)** And in fact, the product category order within each of the states has in some cases changed.
 >
-> **[2:23](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-nested-sort?u=76281980&t=143)** So for Arizona, we have office supplies at the top public areas maintenance, so that's OPMHF where if I go back to order total, then I get OHPMF
+> **[2:23](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-nested-sort?u=76281980&t=143)** So for Arizona, we have [[Microsoft Office|office]] supplies at the top public areas maintenance, so that's OPMHF where if I go back to order total, then I get OHPMF
 >
 > **[2:37](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-nested-sort?u=76281980&t=157)** So the order has definitely changed.
 >
@@ -2455,7 +2419,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), data (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** opmhf (1), ohpmf (1)
 > **Cross-References:** go back to (1)
@@ -2463,12 +2427,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [speaker] (1)
 
-#### Create a selection filter
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-selection-filter?u=76281980)
+#### [Create a selection filter](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-selection-filter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-selection-filter?u=76281980&t=0)** - [Instructor] When you save data in a Tableau workbook, the program maintains an internal list of the values in each column.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-selection-filter?u=76281980&t=0)** - [Instructor] When you save data in a [[Tableau]] workbook, the program maintains an internal list of the values in each column.
 >
 > **[0:07](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-selection-filter?u=76281980&t=7)** If you want to filter a column so only certain values appear, you can take advantage of that list by creating a selection filter.
 >
@@ -2500,7 +2463,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-selection-filter?u=76281980&t=117)** So I'll click in the Enter Search Text button, and here, I will type chair and I don't need to press Enter.
 >
-> **[2:05](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-selection-filter?u=76281980&t=125)** And at the top, I have Low Chair, Office Chair, Reading Chair, Swivel Chair, and Tall Chair.
+> **[2:05](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-selection-filter?u=76281980&t=125)** And at the top, I have Low Chair, [[Microsoft Office|Office]] Chair, Reading Chair, Swivel Chair, and Tall Chair.
 >
 > **[2:12](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-selection-filter?u=76281980&t=132)** So those are the ones that I want.
 >
@@ -2516,14 +2479,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), data (3), [[Search]] (3), next (2), [[Microsoft Office|Office]] (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Tableau]] (1)
 > **UI Navigation:** go to (1), select the (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a wildcard filter
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-wildcard-filter?u=76281980)
+#### [Create a wildcard filter](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-wildcard-filter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2535,7 +2497,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-wildcard-filter?u=76281980&t=26)** My sample file is 06_04_Wildcard, and you can find it in the chapter six folder of the exercise files collection.
 >
-> **[0:34](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-wildcard-filter?u=76281980&t=34)** In this workbook, I have a text table with products that I buy from my hotels, broken down by product category and then by product name.
+> **[0:34](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-wildcard-filter?u=76281980&t=34)** In this workbook, I have a text table with [[Microsoft Products|products]] that I buy from my hotels, broken down by product category and then by product name.
 >
 > **[0:44](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-wildcard-filter?u=76281980&t=44)** And if I scroll down, you can see that I have five different categories and quite a few items within them.
 >
@@ -2561,7 +2523,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-wildcard-filter?u=76281980&t=104)** So instead, I will do "contains."
 >
-> **[1:47](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-wildcard-filter?u=76281980&t=107)** And here, Tableau will look for any product name that has the characters that I type in in that order, anywhere within the product name.
+> **[1:47](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-wildcard-filter?u=76281980&t=107)** And here, [[Tableau]] will look for any product name that has the characters that I type in in that order, anywhere within the product name.
 >
 > **[1:59](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-wildcard-filter?u=76281980&t=119)** So if I type "T-O-W", and click "apply," then I get the towel rack, the hand towel, and the large towel.
 >
@@ -2589,7 +2551,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Search]] (5), data (3), business (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Tableau]] (1)
 > **UI Navigation:** select the (2), scroll down (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** find (1)
@@ -2597,14 +2559,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Create a condition filter
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-condition-filter?u=76281980)
+#### [Create a condition filter](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-condition-filter?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-condition-filter?u=76281980&t=0)** - [Instructor] When you analyze business data, you will often want to limit the range of values that appear.
 >
-> **[0:06](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-condition-filter?u=76281980&t=6)** For example, you might want to identify products that you've spent more than $15,000 on over the last two years.
+> **[0:06](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-condition-filter?u=76281980&t=6)** For example, you might want to identify [[Microsoft Products|products]] that you've spent more than $15,000 on over the last two years.
 >
 > **[0:14](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-condition-filter?u=76281980&t=14)** In this movie, I will show you how to do that by creating a condition filter.
 >
@@ -2660,15 +2621,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), data (3), [[Microsoft Products|Products]] (3), business (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** select the (2)
 > **Analogies:** for example (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a top filter
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-top-filter?u=76281980)
+#### [Create a top filter](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-top-filter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2722,15 +2682,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (3)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [host] (1)
 
-#### Edit, clear, and delete filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/edit-clear-and-delete-filters?u=76281980)
+#### [Edit, clear, and delete filters](https://www.linkedin.com/learning/tableau-essential-training-29553026/edit-clear-and-delete-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2742,7 +2700,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/tableau-essential-training-29553026/edit-clear-and-delete-filters?u=76281980&t=15)** My sample file is 06_07_EditFilters and you can find it in the Chapter 6 folder of the Exercise Files collection.
 >
-> **[0:24](https://www.linkedin.com/learning/tableau-essential-training-29553026/edit-clear-and-delete-filters?u=76281980&t=24)** In this vis, I have a text table that shows the top 10 products that I have spent money on.
+> **[0:24](https://www.linkedin.com/learning/tableau-essential-training-29553026/edit-clear-and-delete-filters?u=76281980&t=24)** In this vis, I have a text table that shows the top 10 [[Microsoft Products|products]] that I have spent money on.
 >
 > **[0:31](https://www.linkedin.com/learning/tableau-essential-training-29553026/edit-clear-and-delete-filters?u=76281980&t=31)** So I have the largest amount on king size beds, below that, double, then a lot of portable drills, and also a lot of leaf blowers.
 >
@@ -2774,17 +2732,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Microsoft Products|Products]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter data using parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/filter-data-using-parameters?u=76281980)
+#### [Filter data using parameters](https://www.linkedin.com/learning/tableau-essential-training-29553026/filter-data-using-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/filter-data-using-parameters?u=76281980&t=0)** - [Instructor] When you create a filter, Tableau limits the visualization summary to the values you want.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/filter-data-using-parameters?u=76281980&t=0)** - [Instructor] When you create a filter, [[Tableau]] limits the visualization summary to the values you want.
 >
 > **[0:06](https://www.linkedin.com/learning/tableau-essential-training-29553026/filter-data-using-parameters?u=76281980&t=6)** You can always edit the filter, but you could also use a visible control to make changes.
 >
@@ -2794,7 +2751,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/tableau-essential-training-29553026/filter-data-using-parameters?u=76281980&t=21)** My sample file is 06_08_CreateParameter, and you can find it in the chapter six folder of the exercise files collection.
 >
-> **[0:31](https://www.linkedin.com/learning/tableau-essential-training-29553026/filter-data-using-parameters?u=76281980&t=31)** In this workbook, I have a single worksheet, and on it, I have the amount spent for all of the products that I've ordered for my company, and let's say that I want to show the top one to 10, and I want to be able to control how many are being shown.
+> **[0:31](https://www.linkedin.com/learning/tableau-essential-training-29553026/filter-data-using-parameters?u=76281980&t=31)** In this workbook, I have a single worksheet, and on it, I have the amount spent for all of the [[Microsoft Products|products]] that I've ordered for my company, and let's say that I want to show the top one to 10, and I want to be able to control how many are being shown.
 >
 > **[0:51](https://www.linkedin.com/learning/tableau-essential-training-29553026/filter-data-using-parameters?u=76281980&t=51)** To do that, I can define a parameter.
 >
@@ -2848,7 +2805,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Tableau]] (1), data (1), next (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Tableau]] (1)
 > **UI Navigation:** in the sidebar (1), select the (1), go to (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (2)
@@ -2856,8 +2813,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Edit and delete parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/edit-and-delete-parameters?u=76281980)
+#### [Edit and delete parameters](https://www.linkedin.com/learning/tableau-essential-training-29553026/edit-and-delete-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2889,7 +2845,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/tableau-essential-training-29553026/edit-and-delete-parameters?u=76281980&t=85)** This displays the edit parameter dialogue box, and it is exactly the same, except for the name, as the create parameter dialogue box.
 >
-> **[1:34](https://www.linkedin.com/learning/tableau-essential-training-29553026/edit-and-delete-parameters?u=76281980&t=94)** So I have the name called Order Total Parameter, and I will change that to Top Products by Spend, and everything else is okay, except for the maximum value.
+> **[1:34](https://www.linkedin.com/learning/tableau-essential-training-29553026/edit-and-delete-parameters?u=76281980&t=94)** So I have the name called Order Total Parameter, and I will change that to Top [[Microsoft Products|Products]] by Spend, and everything else is okay, except for the maximum value.
 >
 > **[1:50](https://www.linkedin.com/learning/tableau-essential-training-29553026/edit-and-delete-parameters?u=76281980&t=110)** So, I will go from two items up to 10.
 >
@@ -2917,7 +2873,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Microsoft Products|Products]] (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Warnings:** be aware (1)
@@ -2928,8 +2884,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Define a group
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-group?u=76281980)
+#### [Define a group](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-group?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2939,7 +2894,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-group?u=76281980&t=16)** My sample file is 0701_Create_Group, and you can find it in the Chapter 7 folder of the exercise files collection.
 >
-> **[0:25](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-group?u=76281980&t=25)** In this data set, I have a summary of orders placed by a hotel chain for maintenance, office supplies, and other things needed to run the hotels.
+> **[0:25](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-group?u=76281980&t=25)** In this data set, I have a summary of orders placed by a hotel chain for maintenance, [[Microsoft Office|office]] supplies, and other things needed to run the hotels.
 >
 > **[0:36](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-group?u=76281980&t=36)** So let's see where a group would be useful.
 >
@@ -2971,7 +2926,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-group?u=76281980&t=127)** And instead of Product Category, I will call Furnishings Group.
 >
-> **[2:14](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-group?u=76281980&t=134)** I can also tell that it is a group because to the left, there is a paperclip icon and a tableau that is used to indicate a group.
+> **[2:14](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-group?u=76281980&t=134)** I can also tell that it is a group because to the left, there is a paperclip icon and a [[Tableau]] that is used to indicate a group.
 >
 > **[2:24](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-group?u=76281980&t=144)** I'll press Enter, and the alias is still Furnishings & Furniture, which I will keep.
 >
@@ -2979,19 +2934,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), data (4), [[Microsoft Office|Office]] (1), database (1), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Tableau]] (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** select the (1), in the sidebar (1)
 > **Definitions:** is a  (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define a group for other values
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-group-for-other-values?u=76281980)
+#### [Define a group for other values](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-group-for-other-values?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-group-for-other-values?u=76281980&t=0)** - [Instructor] When you analyze data in Tableau, you'll often find that creating a group is a great way to analyze your data.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-group-for-other-values?u=76281980&t=0)** - [Instructor] When you analyze data in [[Tableau]], you'll often find that creating a group is a great way to analyze your data.
 >
 > **[0:08](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-group-for-other-values?u=76281980&t=8)** In this movie, I will show you how to define a group and then also how to include every other value inside what's called an other group.
 >
@@ -3059,19 +3013,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), data (4), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (2)
 > **UI Navigation:** checkbox (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Find members of a group
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/find-members-of-a-group?u=76281980)
+#### [Find members of a group](https://www.linkedin.com/learning/tableau-essential-training-29553026/find-members-of-a-group?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/find-members-of-a-group?u=76281980&t=0)** - [Instructor] The data collections that you summarize in Tableau can be quite large.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/find-members-of-a-group?u=76281980&t=0)** - [Instructor] The data collections that you summarize in [[Tableau]] can be quite large.
 >
 > **[0:05](https://www.linkedin.com/learning/tableau-essential-training-29553026/find-members-of-a-group?u=76281980&t=5)** If you want to add members to a group and don't want to waste the time scrolling through all the values in a dimension, you can use the group dialogue boxes, find capabilities to identify the values you want to add.
 >
@@ -3125,7 +3078,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[Tableau]] (3), data (2)
+> **Frameworks & Libraries:** [[Tableau]] (3)
 > **CLI Commands:** find (8)
 > **Warnings:** note that (2)
 > **Env Vars:** o7_03 (1)
@@ -3133,12 +3086,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Edit and delete groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/edit-and-delete-groups?u=76281980)
+#### [Edit and delete groups](https://www.linkedin.com/learning/tableau-essential-training-29553026/edit-and-delete-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/edit-and-delete-groups?u=76281980&t=0)** - [Instructor] Many times the groups you create in Tableau will be permanent, such as when a company changes its name.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/edit-and-delete-groups?u=76281980&t=0)** - [Instructor] Many times the groups you create in [[Tableau]] will be permanent, such as when a company changes its name.
 >
 > **[0:06](https://www.linkedin.com/learning/tableau-essential-training-29553026/edit-and-delete-groups?u=76281980&t=6)** However, there will be times when you create a group to help with specific analysis.
 >
@@ -3200,15 +3152,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Tableau]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **UI Navigation:** right-click (2), click on (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define a set
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-set?u=76281980)
+#### [Define a set](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-set?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3268,15 +3219,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create summaries using sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-summaries-using-sets?u=76281980)
+#### [Create summaries using sets](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-summaries-using-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3322,15 +3271,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** find (3)
 > **UI Navigation:** in the sidebar (1), go to (1), scroll down (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combine sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/combine-sets?u=76281980)
+#### [Combine sets](https://www.linkedin.com/learning/tableau-essential-training-29553026/combine-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3440,7 +3387,7 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/tableau-essential-training-29553026/combine-sets?u=76281980&t=351)** And because there's no overlap between those two sets, I get zero.
 >
-> **[5:57](https://www.linkedin.com/learning/tableau-essential-training-29553026/combine-sets?u=76281980&t=357)** Because if you create a filter the way that I did here by adding sets, Tableau will look for overlap.
+> **[5:57](https://www.linkedin.com/learning/tableau-essential-training-29553026/combine-sets?u=76281980&t=357)** Because if you create a filter the way that I did here by adding sets, [[Tableau]] will look for overlap.
 >
 > **[6:04](https://www.linkedin.com/learning/tableau-essential-training-29553026/combine-sets?u=76281980&t=364)** And in this case, there is none.
 >
@@ -3448,7 +3395,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (1), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** in the toolbar (1), in the sidebar (1)
 > **Cross-References:** go back to (1)
@@ -3456,8 +3403,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Edit and delete sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/edit-and-delete-sets?u=76281980)
+#### [Edit and delete sets](https://www.linkedin.com/learning/tableau-essential-training-29553026/edit-and-delete-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3545,7 +3491,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **Definitions:** is an  (2), in other words (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -3556,8 +3501,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create column and stacked column charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-column-and-stacked-column-charts?u=76281980)
+#### [Create column and stacked column charts](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-column-and-stacked-column-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3567,7 +3511,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-column-and-stacked-column-charts?u=76281980&t=13)** My sample file is called 08_01_Column, and you can find it in the Chapter08 folder of the Exercise Files collection.
 >
-> **[0:20](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-column-and-stacked-column-charts?u=76281980&t=20)** This Tableau workbook has a connection to My Housekeeping Data workbook, and over on the left in the navigation pane, you can see that I have Order Date, Product Category, and other fields which are available as dimensions.
+> **[0:20](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-column-and-stacked-column-charts?u=76281980&t=20)** This [[Tableau]] workbook has a connection to My Housekeeping Data workbook, and over on the left in the navigation pane, you can see that I have Order Date, Product Category, and other fields which are available as dimensions.
 >
 > **[0:37](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-column-and-stacked-column-charts?u=76281980&t=37)** And then down below, I have the Order Number, Order Total, Price, Quantity, and other Measure Values.
 >
@@ -3579,7 +3523,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-column-and-stacked-column-charts?u=76281980&t=59)** So I've got that.
 >
-> **[1:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-column-and-stacked-column-charts?u=76281980&t=60)** So I have Furnishings, Housekeeping, Maintenance, Office Supplies, and Public Areas.
+> **[1:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-column-and-stacked-column-charts?u=76281980&t=60)** So I have Furnishings, Housekeeping, Maintenance, [[Microsoft Office|Office]] Supplies, and Public Areas.
 >
 > **[1:04](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-column-and-stacked-column-charts?u=76281980&t=64)** And then I will drag over Order Total, which is the total amount of money spent in each of those categories.
 >
@@ -3615,18 +3559,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), product (4), [[Microsoft Office|Office]] (2), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Tableau]] (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create line charts and area fill charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-line-charts-and-area-fill-charts?u=76281980)
+#### [Create line charts and area fill charts](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-line-charts-and-area-fill-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-line-charts-and-area-fill-charts?u=76281980&t=0)** - [Instructor] A lot of the data that you visualize in Tableau will have a date associated with it.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-line-charts-and-area-fill-charts?u=76281980&t=0)** - [Instructor] A lot of the data that you visualize in [[Tableau]] will have a date associated with it.
 >
 > **[0:06](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-line-charts-and-area-fill-charts?u=76281980&t=6)** For example, you could track orders for furnishings and other elements used in a set of hotels that you own.
 >
@@ -3702,7 +3645,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-line-charts-and-area-fill-charts?u=76281980&t=236)** So I'll click the show me button again, and here I have the contribution for each of the product categories.
 >
-> **[4:03](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-line-charts-and-area-fill-charts?u=76281980&t=243)** And we start at the bottom and then work our way up so we can see public areas, office supplies, maintenance, housekeeping, and furnishings.
+> **[4:03](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-line-charts-and-area-fill-charts?u=76281980&t=243)** And we start at the bottom and then work our way up so we can see public areas, [[Microsoft Office|office]] supplies, maintenance, housekeeping, and furnishings.
 >
 > **[4:16](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-line-charts-and-area-fill-charts?u=76281980&t=256)** So if you want to see data over time and you're only caring about totals, then use a line chart.
 >
@@ -3710,7 +3653,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), product (6), [[Tableau]] (1), next (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** in the sidebar (1)
@@ -3718,8 +3661,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create pie charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-pie-charts?u=76281980)
+#### [Create pie charts](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-pie-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3755,13 +3697,13 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-pie-charts?u=76281980&t=137)** And here, I get a warning saying, The field being added may contain as many as 94 members, and the recommended maximum for this shelf is 20, and it asks, What do I want you to do?
 >
-> **[2:28](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-pie-charts?u=76281980&t=148)** Well, I will add all members, and you can see why Tableau did not recommend using more than 20, because this pie chart is impossible to read.
+> **[2:28](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-pie-charts?u=76281980&t=148)** Well, I will add all members, and you can see why [[Tableau]] did not recommend using more than 20, because this pie chart is impossible to read.
 >
 > **[2:40](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-pie-charts?u=76281980&t=160)** So, instead, I will press Control-Z to move back, Control-Z again to undo, and I am back with my 5-category pie chart, which I think provides a terrific summary of my data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), product (6), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** in the sidebar (1), go to (1)
 > **Exercise Files:** exercise files (1)
@@ -3770,8 +3712,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create scatter plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-scatter-plots?u=76281980)
+#### [Create scatter plots](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-scatter-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3861,7 +3802,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** for example (4)
 > **Cross-References:** go back to (1)
@@ -3870,14 +3810,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identify data clusters
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/identify-data-clusters?u=76281980)
+#### [Identify data clusters](https://www.linkedin.com/learning/tableau-essential-training-29553026/identify-data-clusters?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/identify-data-clusters?u=76281980&t=0)** - [Instructor] When you visualize your data using a scatterplot, you will often find that some of the values form obvious groups.
 >
-> **[0:07](https://www.linkedin.com/learning/tableau-essential-training-29553026/identify-data-clusters?u=76281980&t=7)** In machine learning and data analysis terms, those groups are called clusters, and one of the great features in Tableau is the ability to identify those clusters within your data.
+> **[0:07](https://www.linkedin.com/learning/tableau-essential-training-29553026/identify-data-clusters?u=76281980&t=7)** In machine learning and data analysis terms, those groups are called clusters, and one of the great features in [[Tableau]] is the ability to identify those clusters within your data.
 >
 > **[0:18](https://www.linkedin.com/learning/tableau-essential-training-29553026/identify-data-clusters?u=76281980&t=18)** In this movie, I will show you how to identify clusters and also change how they are calculated.
 >
@@ -3979,7 +3918,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Tableau]] (3), [[Analytics]] (2), next (1), business (1)
+> **Frameworks & Libraries:** [[Tableau]] (3)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** sum (2)
 > **Cross-References:** go back to (2)
@@ -3988,8 +3927,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** you need to have (1)
 
-#### Create histograms
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-histograms?u=76281980)
+#### [Create histograms](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-histograms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4047,20 +3985,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1), product (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Summarize data using a smart histogram
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/summarize-data-using-a-smart-histogram?u=76281980)
+#### [Summarize data using a smart histogram](https://www.linkedin.com/learning/tableau-essential-training-29553026/summarize-data-using-a-smart-histogram?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/summarize-data-using-a-smart-histogram?u=76281980&t=0)** - [Instructor] Histogram summarize data using a vertical bar chart, also called a column chart where each column represents the count of data points that occur within a given value range.
 >
-> **[0:12](https://www.linkedin.com/learning/tableau-essential-training-29553026/summarize-data-using-a-smart-histogram?u=76281980&t=12)** In this movie, I will show you how to create what Tableau calls a Smart Histogram by controlling the size of the bins.
+> **[0:12](https://www.linkedin.com/learning/tableau-essential-training-29553026/summarize-data-using-a-smart-histogram?u=76281980&t=12)** In this movie, I will show you how to create what [[Tableau]] calls a Smart Histogram by controlling the size of the bins.
 >
 > **[0:20](https://www.linkedin.com/learning/tableau-essential-training-29553026/summarize-data-using-a-smart-histogram?u=76281980&t=20)** My sample file is 08_07_SmartHistogram, and you can find it in the Chapter 8 folder of the Exercise Files collection.
 >
@@ -4116,14 +4052,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **CLI Commands:** find (1)
 > **Versions:** 52.9 (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a treemap
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-treemap?u=76281980)
+#### [Create a treemap](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-treemap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4139,7 +4074,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-treemap?u=76281980&t=32)** My sample file is 08_08_Treemap, and you can find it in the Chapter 8 folder of the Exercise Files Collection.
 >
-> **[0:39](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-treemap?u=76281980&t=39)** I have already created a data connection, and here I'm looking at products that I order in five different categories for the hotels that I run.
+> **[0:39](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-treemap?u=76281980&t=39)** I have already created a data connection, and here I'm looking at [[Microsoft Products|products]] that I order in five different categories for the hotels that I run.
 >
 > **[0:49](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-treemap?u=76281980&t=49)** I'll break the orders down by the number of orders, so not the total of value, but the number of orders, and also by product category.
 >
@@ -4149,7 +4084,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-treemap?u=76281980&t=75)** So here, I see that I have basically 1,300 furnishings orders, bit over a thousand for housekeeping and the other values you see here.
 >
-> **[1:26](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-treemap?u=76281980&t=86)** For a small data collection like this, text might be what you're looking for.
+> **[1:26](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-treemap?u=76281980&t=86)** For a small [[Data Collection]] like this, text might be what you're looking for.
 >
 > **[1:30](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-treemap?u=76281980&t=90)** It might be enough.
 >
@@ -4167,7 +4102,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-treemap?u=76281980&t=118)** And if I hover the mouse pointer over it, you can see that I have the product category and the number of orders in the tool tip.
 >
-> **[2:07](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-treemap?u=76281980&t=127)** Same thing for public areas, housekeeping, maintenance, and office supplies.
+> **[2:07](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-treemap?u=76281980&t=127)** Same thing for public areas, housekeeping, maintenance, and [[Microsoft Office|office]] supplies.
 >
 > **[2:13](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-treemap?u=76281980&t=133)** You can change the color that has been applied to your treemap by going to the color button on the Marks card.
 >
@@ -4195,7 +4130,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), product (4), business (1), [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Data Collection]] (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** go to (2), select the (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** exercise files (1)
@@ -4206,8 +4141,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Change the visual summary type
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-visual-summary-type?u=76281980)
+#### [Change the visual summary type](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-visual-summary-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4215,7 +4149,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-visual-summary-type?u=76281980&t=5)** In this movie, I will show you how to do that.
 >
-> **[0:08](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-visual-summary-type?u=76281980&t=8)** My sample file is 09_01_ChangeType, and that is a Tableau workbook you can find in the chapter nine folder of the Exercise files collection.
+> **[0:08](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-visual-summary-type?u=76281980&t=8)** My sample file is 09_01_ChangeType, and that is a [[Tableau]] workbook you can find in the chapter nine folder of the Exercise files collection.
 >
 > **[0:18](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-visual-summary-type?u=76281980&t=18)** In this workbook's only worksheet, I have a text table that shows the quantity of items ordered for five different product categories.
 >
@@ -4259,7 +4193,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (3), product (2), data (1)
+> **Frameworks & Libraries:** [[Tableau]] (3)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (3)
 > **Analogies:** for example (3)
@@ -4267,12 +4201,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Change the appearance of your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-appearance-of-your-data?u=76281980)
+#### [Change the appearance of your data](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-appearance-of-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-appearance-of-your-data?u=76281980&t=0)** - [Instructor] When you create a visualization in Tableau, it's important that you get everything looking right.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-appearance-of-your-data?u=76281980&t=0)** - [Instructor] When you create a visualization in [[Tableau]], it's important that you get everything looking right.
 >
 > **[0:06](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-appearance-of-your-data?u=76281980&t=6)** A little bit of formatting can help your colleagues understand your data more effectively.
 >
@@ -4380,7 +4313,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (3), data (2), product (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (3)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
@@ -4388,8 +4321,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set a default format for a field
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/set-a-default-format-for-a-field?u=76281980)
+#### [Set a default format for a field](https://www.linkedin.com/learning/tableau-essential-training-29553026/set-a-default-format-for-a-field?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4449,7 +4381,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** in the sidebar (1)
 > **Exercise Files:** exercise files (1)
@@ -4457,12 +4388,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Display a visualization in Presentation mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-a-visualization-in-presentation-mode?u=76281980)
+#### [Display a visualization in Presentation mode](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-a-visualization-in-presentation-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-a-visualization-in-presentation-mode?u=76281980&t=0)** - [Narrator] One way to make your Tableau visualizations easier for your audiences to understand is by making them larger so they're more visible.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-a-visualization-in-presentation-mode?u=76281980&t=0)** - [Narrator] One way to make your [[Tableau]] visualizations easier for your audiences to understand is by making them larger so they're more visible.
 >
 > **[0:08](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-a-visualization-in-presentation-mode?u=76281980&t=8)** And in this movie, I will show you how to do that by switching to presentation mode.
 >
@@ -4478,7 +4408,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-a-visualization-in-presentation-mode?u=76281980&t=52)** The first is that I could go to the toolbar above the viz and click the button that looks like a screen that would be used for a slideshow.
 >
-> **[1:02](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-a-visualization-in-presentation-mode?u=76281980&t=62)** That would be familiar to you if you have used Microsoft PowerPoint.
+> **[1:02](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-a-visualization-in-presentation-mode?u=76281980&t=62)** That would be familiar to you if you have used [[Microsoft PowerPoint]].
 >
 > **[1:06](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-a-visualization-in-presentation-mode?u=76281980&t=66)** And if I move the mouse pointer back over that button, you'll see that you can also press F7.
 >
@@ -4500,18 +4430,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (2), data (1), [[Microsoft PowerPoint]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (2), [[Microsoft PowerPoint]] (1)
 > **UI Navigation:** go to (2), switch to (1)
 > **CLI Commands:** make (1), find (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [narrator] (1)
 
-#### Create a highlight table
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-highlight-table?u=76281980)
+#### [Create a highlight table](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-highlight-table?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-highlight-table?u=76281980&t=0)** - [Instructor] You can create many different types of visualizations in Tableau, but I wanted to focus on one that you might not use that much.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-highlight-table?u=76281980&t=0)** - [Instructor] You can create many different types of visualizations in [[Tableau]], but I wanted to focus on one that you might not use that much.
 >
 > **[0:09](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-highlight-table?u=76281980&t=9)** This visualization is called a highlight table, and it uses color to indicate the relative proportion of values that are contributed by cells in a text table.
 >
@@ -4559,19 +4488,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (1), product (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is called (2)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Display a viz in a tooltip
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-a-viz-in-a-tooltip?u=76281980)
+#### [Display a viz in a tooltip](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-a-viz-in-a-tooltip?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-a-viz-in-a-tooltip?u=76281980&t=0)** - [Instructor] When you move your mouse pointer over a data point in a visualization, Tableau displays a tooltip that summarizes the data represented by that point.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-a-viz-in-a-tooltip?u=76281980&t=0)** - [Instructor] When you move your mouse pointer over a data point in a visualization, [[Tableau]] displays a tooltip that summarizes the data represented by that point.
 >
 > **[0:09](https://www.linkedin.com/learning/tableau-essential-training-29553026/display-a-viz-in-a-tooltip?u=76281980&t=9)** In this movie, I will show you how to edit those tooltips as well as how to include a visualization within a tooltip.
 >
@@ -4653,7 +4581,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), data (4), [[Tableau]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **UI Navigation:** go to (3), select the (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (2)
@@ -4667,8 +4595,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Annotate a visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/annotate-a-visualization?u=76281980)
+#### [Annotate a visualization](https://www.linkedin.com/learning/tableau-essential-training-29553026/annotate-a-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4704,19 +4631,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Format chart elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/format-chart-elements?u=76281980)
+#### [Format chart elements](https://www.linkedin.com/learning/tableau-essential-training-29553026/format-chart-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/format-chart-elements?u=76281980&t=0)** - [Instructor] When you create a visualization in Tableau, the program applies built-in formatting to what you make.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/format-chart-elements?u=76281980&t=0)** - [Instructor] When you create a visualization in [[Tableau]], the program applies built-in formatting to what you make.
 >
 > **[0:07](https://www.linkedin.com/learning/tableau-essential-training-29553026/format-chart-elements?u=76281980&t=7)** As with most every other aspect of a Tableau viz, you can format your elements to emphasize specific aspects of your data or just provide the appearance you want.
 >
@@ -4818,7 +4743,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Tableau]] (3)
+> **Frameworks & Libraries:** [[Tableau]] (3)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Analogies:** for example (2)
@@ -4826,14 +4751,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Change the order of colors in a visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-order-of-colors-in-a-visualization?u=76281980)
+#### [Change the order of colors in a visualization](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-order-of-colors-in-a-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-order-of-colors-in-a-visualization?u=76281980&t=0)** - [Instructor] Programs that let you create graphs and charts apply built-in color schemes to those objects.
 >
-> **[0:05](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-order-of-colors-in-a-visualization?u=76281980&t=5)** In this movie, I will show you how to change the sequence of colors that Tableau applies to your chart elements.
+> **[0:05](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-order-of-colors-in-a-visualization?u=76281980&t=5)** In this movie, I will show you how to change the sequence of colors that [[Tableau]] applies to your chart elements.
 >
 > **[0:12](https://www.linkedin.com/learning/tableau-essential-training-29553026/change-the-order-of-colors-in-a-visualization?u=76281980&t=12)** My sample file is 10_03_ColorSequence, and you can find it in the Chapter 10 folder of the exercise files collection.
 >
@@ -4875,7 +4799,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Tableau]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **CLI Commands:** find (1)
 > **Versions:** 2025.1 (1)
 > **UI Navigation:** go to (1)
@@ -4884,12 +4808,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add a trend line to a chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-a-trend-line-to-a-chart?u=76281980)
+#### [Add a trend line to a chart](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-a-trend-line-to-a-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-a-trend-line-to-a-chart?u=76281980&t=0)** - [Instructor] Creating Tableau visualizations lets you discover important information about your business.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-a-trend-line-to-a-chart?u=76281980&t=0)** - [Instructor] Creating [[Tableau]] visualizations lets you discover important information about your business.
 >
 > **[0:05](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-a-trend-line-to-a-chart?u=76281980&t=5)** If you want to display specific information about how things have changed over time, you can add a trend line to a chart.
 >
@@ -4969,7 +4892,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Tableau]] (2), next (2), business (1)
+> **Frameworks & Libraries:** [[Tableau]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** 0.05 (2), 0.28 (1)
 > **UI Navigation:** go to (1)
@@ -4978,12 +4901,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add reference lines and quartile indicators
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-reference-lines-and-quartile-indicators?u=76281980)
+#### [Add reference lines and quartile indicators](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-reference-lines-and-quartile-indicators?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-reference-lines-and-quartile-indicators?u=76281980&t=0)** - [Instructor] When you create a visualization, Tableau builds it from your data and the rules and conventions of the vis style that you selected.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-reference-lines-and-quartile-indicators?u=76281980&t=0)** - [Instructor] When you create a visualization, [[Tableau]] builds it from your data and the rules and conventions of the vis style that you selected.
 >
 > **[0:08](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-reference-lines-and-quartile-indicators?u=76281980&t=8)** You can add other elements, such as reference lines, to compliment the built-in features of your visualization type.
 >
@@ -4993,7 +4915,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-reference-lines-and-quartile-indicators?u=76281980&t=26)** In this workbook, I track monthly purchases of furnishings.
 >
-> **[0:32](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-reference-lines-and-quartile-indicators?u=76281980&t=32)** Those are the products that we use in hotel rooms.
+> **[0:32](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-reference-lines-and-quartile-indicators?u=76281980&t=32)** Those are the [[Microsoft Products|products]] that we use in hotel rooms.
 >
 > **[0:35](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-reference-lines-and-quartile-indicators?u=76281980&t=35)** And what I want to do is create a series of reference lines that allow me to judge the data.
 >
@@ -5101,7 +5023,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (2), [[Tableau]] (1), [[Microsoft Products|Products]] (1), business (1)
+> **Frameworks & Libraries:** [[Tableau]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** go back to (1)
@@ -5113,12 +5035,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a basic map
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-basic-map?u=76281980)
+#### [Create a basic map](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-basic-map?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-basic-map?u=76281980&t=0)** - [Instructor] Creating maps in Tableau is a fairly straightforward process, but there are some things that you need to look out for.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-basic-map?u=76281980&t=0)** - [Instructor] Creating maps in [[Tableau]] is a fairly straightforward process, but there are some things that you need to look out for.
 >
 > **[0:08](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-basic-map?u=76281980&t=8)** In this movie, I wanted to walk you through the process of creating a map in Tableau.
 >
@@ -5226,7 +5147,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (6), data (4), next (1)
+> **Frameworks & Libraries:** [[Tableau]] (6)
 > **Env Vars:** zip (9)
 > **UI Navigation:** double-click (5), scroll down (2)
 > **Definitions:** is a  (4), is an  (1), refers to (1), means that (1)
@@ -5235,12 +5156,11 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add and remove map layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-and-remove-map-layers?u=76281980)
+#### [Add and remove map layers](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-and-remove-map-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-and-remove-map-layers?u=76281980&t=0)** - [Instructor] After you create a map in Tableau, you can change the map's appearance and also change the information that appears on it.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-and-remove-map-layers?u=76281980&t=0)** - [Instructor] After you create a map in [[Tableau]], you can change the map's appearance and also change the information that appears on it.
 >
 > **[0:08](https://www.linkedin.com/learning/tableau-essential-training-29553026/add-and-remove-map-layers?u=76281980&t=8)** In this movie, I will show you how to do that.
 >
@@ -5338,19 +5258,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **UI Navigation:** go to (3), scroll down (3)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enhance map analysis using distance measurement tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/enhance-map-analysis-using-distance-measurement-tools?u=76281980)
+#### [Enhance map analysis using distance measurement tools](https://www.linkedin.com/learning/tableau-essential-training-29553026/enhance-map-analysis-using-distance-measurement-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/enhance-map-analysis-using-distance-measurement-tools?u=76281980&t=0)** - [Presenter] Businesses often deliver products to customers in cities.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/enhance-map-analysis-using-distance-measurement-tools?u=76281980&t=0)** - [Presenter] Businesses often deliver [[Microsoft Products|products]] to customers in cities.
 >
 > **[0:04](https://www.linkedin.com/learning/tableau-essential-training-29553026/enhance-map-analysis-using-distance-measurement-tools?u=76281980&t=4)** So minimizing the distance their drivers have to travel can save significant amounts of money every year.
 >
@@ -5394,11 +5313,11 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/tableau-essential-training-29553026/enhance-map-analysis-using-distance-measurement-tools?u=76281980&t=166)** It depends very much on your screen resolution and also the nature of your data.
 >
-> **[2:52](https://www.linkedin.com/learning/tableau-essential-training-29553026/enhance-map-analysis-using-distance-measurement-tools?u=76281980&t=172)** So if I were to zoom out, and I'm using the scroll wheel to zoom out by moving the scroll wheel down, and then I use the radial selection tool, you'll see that I don't get the distance estimation.
+> **[2:52](https://www.linkedin.com/learning/tableau-essential-training-29553026/enhance-map-analysis-using-distance-measurement-tools?u=76281980&t=172)** So if I were to [[Zoom]] out, and I'm using the scroll wheel to zoom out by moving the scroll wheel down, and then I use the radial selection tool, you'll see that I don't get the distance estimation.
 >
 > **[3:07](https://www.linkedin.com/learning/tableau-essential-training-29553026/enhance-map-analysis-using-distance-measurement-tools?u=76281980&t=187)** And the reason is that when I'm at this zoom level, it's too imprecise.
 >
-> **[3:12](https://www.linkedin.com/learning/tableau-essential-training-29553026/enhance-map-analysis-using-distance-measurement-tools?u=76281980&t=192)** Basically, Tableau is not able to do the calculations that it needs accurately.
+> **[3:12](https://www.linkedin.com/learning/tableau-essential-training-29553026/enhance-map-analysis-using-distance-measurement-tools?u=76281980&t=192)** Basically, [[Tableau]] is not able to do the calculations that it needs accurately.
 >
 > **[3:17](https://www.linkedin.com/learning/tableau-essential-training-29553026/enhance-map-analysis-using-distance-measurement-tools?u=76281980&t=197)** But again, if I scroll in, probably about to here and I drag again, then I do get the measurement.
 >
@@ -5406,7 +5325,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Zoom]] (3), [[Microsoft Products|Products]] (1), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), [[Microsoft Products|Products]] (1), [[Tableau]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** zip (1)
@@ -5415,12 +5334,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Prerequisites:** required to (1)
 
-#### Disable pan and zoom in maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/disable-pan-and-zoom-in-maps?u=76281980)
+#### [Disable pan and zoom in maps](https://www.linkedin.com/learning/tableau-essential-training-29553026/disable-pan-and-zoom-in-maps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/disable-pan-and-zoom-in-maps?u=76281980&t=0)** - [Instructor] Tableau is a powerful data analysis program, and when you visualize data using maps, you can zoom in and out and also pan from side to side to view your data from many perspectives.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/disable-pan-and-zoom-in-maps?u=76281980&t=0)** - [Instructor] [[Tableau]] is a powerful data analysis program, and when you visualize data using maps, you can [[Zoom]] in and out and also pan from side to side to view your data from many perspectives.
 >
 > **[0:12](https://www.linkedin.com/learning/tableau-essential-training-29553026/disable-pan-and-zoom-in-maps?u=76281980&t=12)** If you want to limit yourself to a specific view, perhaps during a presentation, Tableau lets you turn off pan and zoom to direct attention to the data you want to emphasize.
 >
@@ -5474,19 +5392,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (14), data (5), [[Tableau]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (14), [[Tableau]] (2)
 > **UI Navigation:** go to (3), scroll up (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define custom regions
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-custom-regions?u=76281980)
+#### [Define custom regions](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-custom-regions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-custom-regions?u=76281980&t=0)** - [Instructor] The map layouts that Tableau provides, give you everything you need to know about the standard organizational levels, continents, countries, state, cities, and so on.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-custom-regions?u=76281980&t=0)** - [Instructor] The map layouts that [[Tableau]] provides, give you everything you need to know about the standard organizational levels, continents, countries, state, cities, and so on.
 >
 > **[0:10](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-custom-regions?u=76281980&t=10)** What it doesn't and really can't do is identify regions that are specific to your business.
 >
@@ -5578,7 +5495,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (3), business (1)
+> **Frameworks & Libraries:** [[Tableau]] (3)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Exercise Files:** exercise files (1)
@@ -5590,8 +5507,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Present data using story points and stories
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/present-data-using-storylines?u=76281980)
+#### [Present data using story points and stories](https://www.linkedin.com/learning/tableau-essential-training-29553026/present-data-using-storylines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5599,7 +5515,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/tableau-essential-training-29553026/present-data-using-storylines?u=76281980&t=6)** You also need to communicate your findings effectively.
 >
-> **[0:09](https://www.linkedin.com/learning/tableau-essential-training-29553026/present-data-using-storylines?u=76281980&t=9)** Tableau includes stories, which let you define a sequence of story points, consisting of worksheets in your workbook that allows you to build a persuasive story about your insights.
+> **[0:09](https://www.linkedin.com/learning/tableau-essential-training-29553026/present-data-using-storylines?u=76281980&t=9)** [[Tableau]] includes stories, which let you define a sequence of story points, consisting of worksheets in your workbook that allows you to build a persuasive story about your insights.
 >
 > **[0:20](https://www.linkedin.com/learning/tableau-essential-training-29553026/present-data-using-storylines?u=76281980&t=20)** And in this movie, I will show you how to create one.
 >
@@ -5659,7 +5575,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/tableau-essential-training-29553026/present-data-using-storylines?u=76281980&t=191)** There we go.
 >
-> **[3:12](https://www.linkedin.com/learning/tableau-essential-training-29553026/present-data-using-storylines?u=76281980&t=192)** And I will add the caption, Top Five Products Purchased, and there we go.
+> **[3:12](https://www.linkedin.com/learning/tableau-essential-training-29553026/present-data-using-storylines?u=76281980&t=192)** And I will add the caption, Top Five [[Microsoft Products|Products]] Purchased, and there we go.
 >
 > **[3:22](https://www.linkedin.com/learning/tableau-essential-training-29553026/present-data-using-storylines?u=76281980&t=202)** And once again, I can move to specific sheets by clicking their indicator there, or I can move back and forth using the left and right arrows.
 >
@@ -5691,7 +5607,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), business (1), [[Tableau]] (1), data (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** double-click (2), go to (2), in the sidebar (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** exercise files (1)
@@ -5699,18 +5615,17 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-dashboard?u=76281980)
+#### [Create a dashboard](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-dashboard?u=76281980&t=0)** - [Instructor] When you manage all or part of an organization, it is absolutely vital that you have the information you need at your fingertips.
 >
-> **[0:08](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-dashboard?u=76281980&t=8)** In Tableau, you can do that by creating a dashboard.
+> **[0:08](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-dashboard?u=76281980&t=8)** In [[Tableau]], you can do that by creating a dashboard.
 >
 > **[0:13](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-dashboard?u=76281980&t=13)** In this movie, I will use the 12_02 Dashboard workbook as a sample file to show you how to create a dashboard.
 >
-> **[0:22](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-dashboard?u=76281980&t=22)** This workbook has three worksheets, so I have a column chart with sales broken down by category, then trending purchases by month, and then the top five products by cost that I have bought in my few years of data.
+> **[0:22](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-dashboard?u=76281980&t=22)** This workbook has three worksheets, so I have a column chart with sales broken down by category, then trending purchases by month, and then the top five [[Microsoft Products|products]] by cost that I have bought in my few years of data.
 >
 > **[0:40](https://www.linkedin.com/learning/tableau-essential-training-29553026/create-a-dashboard?u=76281980&t=40)** To create a dashboard, go to the tab bar, and then the second button to the right of the last displayed worksheet tab is new dashboard.
 >
@@ -5744,16 +5659,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), data (2), product (2), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Tableau]] (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Arrange and resize dashboard elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/arrange-and-resize-dashboard-elements?u=76281980)
+#### [Arrange and resize dashboard elements](https://www.linkedin.com/learning/tableau-essential-training-29553026/arrange-and-resize-dashboard-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/arrange-and-resize-dashboard-elements?u=76281980&t=0)** - [Instructor] In older versions of Tableau, exchanging one sheet for another in a dashboard took several steps.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/arrange-and-resize-dashboard-elements?u=76281980&t=0)** - [Instructor] In older versions of [[Tableau]], exchanging one sheet for another in a dashboard took several steps.
 >
 > **[0:07](https://www.linkedin.com/learning/tableau-essential-training-29553026/arrange-and-resize-dashboard-elements?u=76281980&t=7)** However, now you can do it with just a few clicks.
 >
@@ -5763,7 +5677,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/tableau-essential-training-29553026/arrange-and-resize-dashboard-elements?u=76281980&t=22)** In this workbook, I have a dashboard on the sheet named Dashboard 1, so I'll click that.
 >
-> **[0:28](https://www.linkedin.com/learning/tableau-essential-training-29553026/arrange-and-resize-dashboard-elements?u=76281980&t=28)** And here I have two sheets, my product category orders and then the top five products that I've sent money on.
+> **[0:28](https://www.linkedin.com/learning/tableau-essential-training-29553026/arrange-and-resize-dashboard-elements?u=76281980&t=28)** And here I have two sheets, my product category orders and then the top five [[Microsoft Products|products]] that I've sent money on.
 >
 > **[0:37](https://www.linkedin.com/learning/tableau-essential-training-29553026/arrange-and-resize-dashboard-elements?u=76281980&t=37)** If I wanted to remove, for example, product category orders, then I could click it and then click Remove from Dashboard, and then go over to Sheets and drag on my By Month line chart.
 >
@@ -5781,15 +5695,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (2), product (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Tableau]] (2), [[Microsoft Products|Products]] (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Replace a worksheet in a dashboard quickly
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/replace-a-worksheet-in-a-dashboard-quickly?u=76281980)
+#### [Replace a worksheet in a dashboard quickly](https://www.linkedin.com/learning/tableau-essential-training-29553026/replace-a-worksheet-in-a-dashboard-quickly?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5803,9 +5716,9 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/tableau-essential-training-29553026/replace-a-worksheet-in-a-dashboard-quickly?u=76281980&t=30)** I have all three sheets displayed in my Dashboard.
 >
-> **[0:34](https://www.linkedin.com/learning/tableau-essential-training-29553026/replace-a-worksheet-in-a-dashboard-quickly?u=76281980&t=34)** So, I've gone By Category, then the Top Five Products, and also a line chart with total expenditure By Month.
+> **[0:34](https://www.linkedin.com/learning/tableau-essential-training-29553026/replace-a-worksheet-in-a-dashboard-quickly?u=76281980&t=34)** So, I've gone By Category, then the Top Five [[Microsoft Products|Products]], and also a line chart with total expenditure By Month.
 >
-> **[0:41](https://www.linkedin.com/learning/tableau-essential-training-29553026/replace-a-worksheet-in-a-dashboard-quickly?u=76281980&t=41)** These elements are currently tiled, meaning that they are locked into a grid that Tableau creates for you.
+> **[0:41](https://www.linkedin.com/learning/tableau-essential-training-29553026/replace-a-worksheet-in-a-dashboard-quickly?u=76281980&t=41)** These elements are currently tiled, meaning that they are locked into a grid that [[Tableau]] creates for you.
 >
 > **[0:49](https://www.linkedin.com/learning/tableau-essential-training-29553026/replace-a-worksheet-in-a-dashboard-quickly?u=76281980&t=49)** If I want to resize an element, then I can do that by clicking it and then moving the mouse pointer over and edge that can be dragged.
 >
@@ -5857,7 +5770,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/tableau-essential-training-29553026/replace-a-worksheet-in-a-dashboard-quickly?u=76281980&t=260)** So, with Top Five Products selected, I will click it's More Options down arrow, and then click Floating.
 >
-> **[4:28](https://www.linkedin.com/learning/tableau-essential-training-29553026/replace-a-worksheet-in-a-dashboard-quickly?u=76281980&t=268)** And here, I have an element that I can move around, and you see that the text, and actually the rest of the element, is, in fact, see through.
+> **[4:28](https://www.linkedin.com/learning/tableau-essential-training-29553026/replace-a-worksheet-in-a-dashboard-quickly?u=76281980&t=268)** And here, I have an element that I can move around, and you see that the text, and actually the [[Representational State Transfer (REST)|rest]] of the element, is, in fact, see through.
 >
 > **[4:41](https://www.linkedin.com/learning/tableau-essential-training-29553026/replace-a-worksheet-in-a-dashboard-quickly?u=76281980&t=281)** So, I have layers.
 >
@@ -5871,7 +5784,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), [[Tableau]] (3), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), [[Tableau]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4), find (2)
 > **UI Navigation:** scroll down (2), go to (1)
 > **Cross-References:** go back to (1)
@@ -5879,12 +5792,11 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Define a filter action
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-filter-action?u=76281980)
+#### [Define a filter action](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-filter-action?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-filter-action?u=76281980&t=0)** - [Instructor] Dashboards provide useful summaries for your company's data, bringing the most important values to one place.
+> **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-filter-action?u=76281980&t=0)** - [Instructor] [[Dashboards]] provide useful summaries for your company's data, bringing the most important values to one place.
 >
 > **[0:07](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-filter-action?u=76281980&t=7)** In many cases, you will want to look at a subset of your data.
 >
@@ -5922,7 +5834,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-filter-action?u=76281980&t=155)** And I could do the same thing for Housekeeping, so not spending a lot per city there.
 >
-> **[2:41](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-filter-action?u=76281980&t=161)** Then on Maintenance items, Office Supplies, and for items in the Public Areas.
+> **[2:41](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-filter-action?u=76281980&t=161)** Then on Maintenance items, [[Microsoft Office|Office]] Supplies, and for items in the Public Areas.
 >
 > **[2:50](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-filter-action?u=76281980&t=170)** If you want to remove the filter, then you can either click away within the control itself.
 >
@@ -5934,14 +5846,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Dashboards]] (1), business (1), product (1), next (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define a highlight action
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-highlight-action?u=76281980)
+#### [Define a highlight action](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-highlight-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5949,7 +5860,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-highlight-action?u=76281980&t=6)** You'll probably care most about a subset of that data at any one time.
 >
-> **[0:10](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-highlight-action?u=76281980&t=10)** So Tableau lets you create highlights according to rules that you create.
+> **[0:10](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-highlight-action?u=76281980&t=10)** So [[Tableau]] lets you create highlights according to rules that you create.
 >
 > **[0:15](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-highlight-action?u=76281980&t=15)** I'll show you how to define an action so you can apply a dashboard highlight quickly.
 >
@@ -6055,13 +5966,13 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-highlight-action?u=76281980&t=233)** And also the highlighting.
 >
-> **[3:55](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-highlight-action?u=76281980&t=235)** I found that creating highlights in Tableau dashboards are very useful when I'm giving a presentation.
+> **[3:55](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-highlight-action?u=76281980&t=235)** I found that creating highlights in Tableau [[Dashboards]] are very useful when I'm giving a presentation.
 >
 > **[4:02](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-a-highlight-action?u=76281980&t=242)** So if you think they would, create them, and use them to help your explanations for your audience.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Tableau]] (2), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (2), [[Dashboards]] (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (1), checkbox (1)
 > **Analogies:** for example (2)
@@ -6069,8 +5980,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define parameter actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-parameter-actions?u=76281980)
+#### [Define parameter actions](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-parameter-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6166,7 +6076,7 @@ created: 2026-05-02
 >
 > **[5:14](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-parameter-actions?u=76281980&t=314)** Instead, I will change the line value to the Refline parameter.
 >
-> **[5:20](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-parameter-actions?u=76281980&t=320)** The default value is 14,000, so you can see that is where Tableau has placed the line.
+> **[5:20](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-parameter-actions?u=76281980&t=320)** The default value is 14,000, so you can see that is where [[Tableau]] has placed the line.
 >
 > **[5:27](https://www.linkedin.com/learning/tableau-essential-training-29553026/define-parameter-actions?u=76281980&t=327)** I'll make one other change just to make the effect of the line that much easier to see.
 >
@@ -6192,7 +6102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Analytics]] (1), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Tableau]] (1)
 > **UI Navigation:** go to (4), select the (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (2)
@@ -6206,20 +6116,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Further resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/tableau-essential-training-29553026/further-resources?u=76281980)
+#### [Further resources](https://www.linkedin.com/learning/tableau-essential-training-29553026/further-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/tableau-essential-training-29553026/further-resources?u=76281980&t=0)** - [Instructor] Thanks again for your interest in the course.
 >
-> **[0:02](https://www.linkedin.com/learning/tableau-essential-training-29553026/further-resources?u=76281980&t=2)** Before I go, I wanted to mention several resources that you can use to learn more about Tableau.
+> **[0:02](https://www.linkedin.com/learning/tableau-essential-training-29553026/further-resources?u=76281980&t=2)** Before I go, I wanted to mention several resources that you can use to learn more about [[Tableau]].
 >
 > **[0:09](https://www.linkedin.com/learning/tableau-essential-training-29553026/further-resources?u=76281980&t=9)** First is the product website, and that is www.[tableau.com](https://tableau.com).
 >
 > **[0:16](https://www.linkedin.com/learning/tableau-essential-training-29553026/further-resources?u=76281980&t=16)** There, you can find knowledge base articles, and also user forums that let you ask and answer questions.
 >
-> **[0:24](https://www.linkedin.com/learning/tableau-essential-training-29553026/further-resources?u=76281980&t=24)** One book that I recommend is "Data Modeling with Tableau" by Kirk Munroe, and that's put out by Packt Publishing.
+> **[0:24](https://www.linkedin.com/learning/tableau-essential-training-29553026/further-resources?u=76281980&t=24)** One book that I recommend is "[[Data Modeling]] with Tableau" by Kirk Munroe, and that's put out by Packt Publishing.
 >
 > **[0:31](https://www.linkedin.com/learning/tableau-essential-training-29553026/further-resources?u=76281980&t=31)** In this book, Kirk gives you a great overview of how to create usable datasets, and also what you do with your analysis when you have the data in place, so that is highly recommended.
 >
@@ -6235,7 +6144,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tableau]] (9), data (2), product (1)
+> **Frameworks & Libraries:** [[Tableau]] (9), [[Data Modeling]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [tableau.com](https://tableau.com) (1)
 > **UI Navigation:** go to (1)

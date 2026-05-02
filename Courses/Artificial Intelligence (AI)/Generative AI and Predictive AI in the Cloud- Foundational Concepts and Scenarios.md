@@ -93,50 +93,48 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI and the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-the-cloud?u=76281980)
+#### [AI and the cloud](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-the-cloud?u=76281980&t=0)** AI has become essential for many organizations. In this course, we'll teach the basics of both predictive and generative AI, and we'll show the most common ways that can be used and applied.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-the-cloud?u=76281980&t=0)** AI has become essential for many organizations. In this course, we'll teach the basics of both predictive and [[Generative AI]], and we'll show the most common ways that can be used and applied.
 >
 > **[0:14](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-the-cloud?u=76281980&t=14)** For many organizations, it's not just about adopting AI, we need to be prepared for AI in the real world.
 >
-> **[0:22](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-the-cloud?u=76281980&t=22)** We also need to understand the relationship of AI with cloud computing and its potential relationship with quantum computing.
+> **[0:22](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-the-cloud?u=76281980&t=22)** We also need to understand the relationship of AI with [[Cloud Computing]] and its potential relationship with [[Quantum Computing]].
 >
-> **[0:31](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-the-cloud?u=76281980&t=31)** If you are new to cloud computing in general, I recommend you first complete my LinkedIn Learning course, Cloud Computing for the Digital Business.
+> **[0:31](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-the-cloud?u=76281980&t=31)** If you are new to cloud computing in general, I recommend you first complete my [[LinkedIn]] Learning course, Cloud Computing for the Digital Business.
 >
 > **[0:40](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-the-cloud?u=76281980&t=40)** So let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), cloud (3), [[Generative AI]] (1), [[LinkedIn]] (1), business (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Generative AI]] (1), [[LinkedIn]] (1)
 
 
 ### 1. AI Basics
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/introduction-to-ai?u=76281980)
+#### [Introduction to AI](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/introduction-to-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/introduction-to-ai?u=76281980&t=0)** Artificial intelligence is all about getting machines to think and behave more like humans.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/introduction-to-ai?u=76281980&t=0)** [[Artificial Intelligence (AI)|Artificial intelligence]] is all about getting machines to think and behave more like humans.
 >
 > **[0:08](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/introduction-to-ai?u=76281980&t=8)** When machines acquire these capabilities, we can then train them to carry out those capabilities faster, more efficiently, and more reliably than humans.
 >
 > **[0:18](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/introduction-to-ai?u=76281980&t=18)** Therefore, from a business perspective, AI introduces significant opportunities for advancement, and AI-driven machines become valuable because they enable the business itself to become more intelligent in how it makes decisions and operates.
 >
-> **[0:37](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/introduction-to-ai?u=76281980&t=37)** For most businesses, cloud computing is necessary to realize this vision because getting machines to emulate humans usually requires industrial-level infrastructure that we usually only find within the clouds.
+> **[0:37](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/introduction-to-ai?u=76281980&t=37)** For most businesses, [[Cloud Computing]] is necessary to realize this vision because getting machines to emulate humans usually requires industrial-level infrastructure that we usually only find within the clouds.
 >
-> **[0:51](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/introduction-to-ai?u=76281980&t=51)** We'll talk more about that later. For now, this course is going to provide a simple introduction to two kinds of artificial intelligence: Predictive AI and generative AI.
+> **[0:51](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/introduction-to-ai?u=76281980&t=51)** We'll talk more about that later. For now, this course is going to provide a simple introduction to two kinds of artificial intelligence: [[Predictive AI]] and [[Generative AI]].
 >
-> **[1:03](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/introduction-to-ai?u=76281980&t=63)** Predictive AI helps the business with its decision-making, and generative AI can contribute new data-driven assets to the business.
+> **[1:03](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/introduction-to-ai?u=76281980&t=63)** Predictive AI helps the business with its [[Decision-Making]], and generative AI can contribute new data-driven assets to the business.
 >
-> **[1:13](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/introduction-to-ai?u=76281980&t=73)** We'll explain each of these types of AI in more detail in later chapters, but for now, we'll just point out that predictive and generative AI systems have different processing requirements, which means that each will relate a bit differently to how it is integrated with cloud infrastructure.
+> **[1:13](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/introduction-to-ai?u=76281980&t=73)** We'll explain each of these types of AI in more detail in later chapters, but for now, we'll just point out that predictive and generative AI systems have different processing requirements, which means that each will relate a bit differently to how it is integrated with [[Cloud Infrastructure]].
 >
-> **[1:35](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/introduction-to-ai?u=76281980&t=95)** Another consideration is that we will typically always want to customize a predictive AI system to get the specific insights and capabilities our business needs. While we can also do the same with a generative AI system, there is actually a large marketplace of ready-made generative AI tools that are commonly used by businesses without the need for further customization.
+> **[1:35](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/introduction-to-ai?u=76281980&t=95)** Another consideration is that we will typically always want to customize a predictive AI system to get the specific insights and capabilities our business needs. While we can also do the same with a generative AI system, there is actually a large marketplace of ready-made [[Generative AI Tools]] that are commonly used by businesses without the need for further customization.
 >
 > **[2:02](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/introduction-to-ai?u=76281980&t=122)** What this means is that depending on the nature of our business, there may be a greater likelihood for us to build and implement a custom predictive AI system than a custom generative AI system.
 >
@@ -148,12 +146,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), ai (6), [[Generative AI]] (6), [[Predictive AI]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Predictive AI]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Cloud Computing]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
 
-#### AI and big data
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-big-data?u=76281980)
+#### [AI and big data](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-big-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -161,7 +158,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-big-data?u=76281980&t=12)** Some of this data may have been generated internally, while other data may need to be collected from external sources.
 >
-> **[0:21](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-big-data?u=76281980&t=21)** A big data system is used to manage and process all of this data.
+> **[0:21](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-big-data?u=76281980&t=21)** A [[Big Data]] system is used to manage and process all of this data.
 >
 > **[0:26](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-big-data?u=76281980&t=26)** For example, data we acquire from different sources or different vendors will almost always have different formats and characteristics.
 >
@@ -171,22 +168,21 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-big-data?u=76281980&t=53)** The big data environment basically allows us to store and organize the data we feed into the AI system, so that it can then carry out the processing it needs to.
 >
-> **[1:05](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-big-data?u=76281980&t=65)** When we use big data platforms for this purpose, they can demand large storage capacity that will likely only continue to grow over time, especially with predictive AI systems that may need more and more diverse input data to process.
+> **[1:05](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-big-data?u=76281980&t=65)** When we use big data platforms for this purpose, they can demand large storage capacity that will likely only continue to grow over time, especially with [[Predictive AI]] systems that may need more and more diverse input data to process.
 >
-> **[1:23](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-big-data?u=76281980&t=83)** With generative AI systems, the need for big data is not always as crucial and is mostly dependent on the scope of content generation the system is focused on.
+> **[1:23](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-big-data?u=76281980&t=83)** With [[Generative AI]] systems, the need for big data is not always as crucial and is mostly dependent on the scope of content generation the system is focused on.
 >
 > **[1:34](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-big-data?u=76281980&t=94)** For example, a generative AI system designed to produce a very specific type of content may not require large volumes of diverse data and therefore may not need the features of a big data environment.
 >
-> **[1:49](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-big-data?u=76281980&t=109)** The type of storage and data management infrastructure required by big data platforms are essential capabilities we find in clouds, but are really just the starting point when it comes to giving AI systems what they need.
+> **[1:49](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-big-data?u=76281980&t=109)** The type of storage and [[Data Management]] infrastructure required by big data platforms are essential capabilities we find in clouds, but are really just the starting point when it comes to giving AI systems what they need.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Big Data]] (6), ai (4), [[Generative AI]] (2), business (1)
+> **Frameworks & Libraries:** [[Big Data]] (6), [[Generative AI]] (2), [[Predictive AI]] (1), [[Data Management]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 
-#### AI models and training
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-models-and-training?u=76281980)
+#### [AI models and training](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-models-and-training?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -202,7 +198,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-models-and-training?u=76281980&t=39)** The algorithm is used to shape the logic specific to the type of analysis we need to perform for our business.
 >
-> **[0:47](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-models-and-training?u=76281980&t=47)** This logic forms the basis of our custom AI solution, which we refer to as the model.
+> **[0:47](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-models-and-training?u=76281980&t=47)** This logic [[Forms]] the basis of our custom AI solution, which we refer to as the model.
 >
 > **[0:54](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-models-and-training?u=76281980&t=54)** The AI systems model kind of represents the problem we're trying to solve.
 >
@@ -214,7 +210,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-models-and-training?u=76281980&t=81)** It's called training data because it's used to train the model so that it can get better and better at its ability to solve our problem.
 >
-> **[1:31](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-models-and-training?u=76281980&t=91)** For AI systems that need a lot of training data, like predictive AI systems usually do, this data usually comes from a big data environment that we'll have used to prep the training data for us.
+> **[1:31](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-models-and-training?u=76281980&t=91)** For AI systems that need a lot of training data, like [[Predictive AI]] systems usually do, this data usually comes from a [[Big Data]] environment that we'll have used to prep the training data for us.
 >
 > **[1:44](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-models-and-training?u=76281980&t=104)** The more data we run through the system, the more the model gets trained, which means the better it gets at being able to solve our problem.
 >
@@ -224,7 +220,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-models-and-training?u=76281980&t=134)** This can result in ever-evolving data intelligence that continues to improve on an ongoing basis.
 >
-> **[2:23](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-models-and-training?u=76281980&t=143)** Predictive and generative AI models are trained a bit differently using different algorithms.
+> **[2:23](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-models-and-training?u=76281980&t=143)** Predictive and [[Generative AI]] models are trained a bit differently using different [[Algorithms]].
 >
 > **[2:30](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-models-and-training?u=76281980&t=150)** Whereas predictive AI models are trained to identify patterns and relationships in data to produce new insights and predictions, generative AI models are trained to produce new content that is similar to their training data.
 >
@@ -232,11 +228,11 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-models-and-training?u=76281980&t=181)** We can in fact, use a generative AI system to actually create new training data for a predictive AI system.
 >
-> **[3:09](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-models-and-training?u=76281980&t=189)** This is referred to as synthetic data generation, and it can be an effective means of improving the predictive AI model training process and also overcoming data privacy concerns.
+> **[3:09](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-models-and-training?u=76281980&t=189)** This is referred to as synthetic data generation, and it can be an effective means of improving the predictive AI model training process and also overcoming [[Data Privacy]] concerns.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), ai (7), [[Predictive AI]] (5), [[Generative AI]] (4), business (1)
+> **Frameworks & Libraries:** [[Predictive AI]] (5), [[Generative AI]] (4), [[Forms]] (1), [[Big Data]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for example (1), similar to (1)
 
@@ -245,20 +241,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI, clouds, and quantum computers
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980)
+#### [AI, clouds, and quantum computers](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980&t=0)** In this video, we'll take a look at cloud computing as it can relate to AI systems.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980&t=0)** In this video, we'll take a look at [[Cloud Computing]] as it can relate to AI systems.
 >
-> **[0:06](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980&t=6)** If you're new to cloud computing altogether, be sure to take my course on LinkedIn Learning titled Cloud Computing for the Digital Business.
+> **[0:06](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980&t=6)** If you're new to cloud computing altogether, be sure to take my course on [[LinkedIn]] Learning titled Cloud Computing for the Digital Business.
 >
 > **[0:15](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980&t=15)** Let's now check out what a cloud-based AI environment looks like from an infrastructure perspective.
 >
 > **[0:22](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980&t=22)** We'll begin by recapping the two main parts an AI environment can consist of.
 >
-> **[0:27](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980&t=27)** We've got the big data system we need to manage and combine the large volume of data we need for our AI system processing.
+> **[0:27](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980&t=27)** We've got the [[Big Data]] system we need to manage and combine the large volume of data we need for our AI system processing.
 >
 > **[0:37](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980&t=37)** And then there's the AI system itself, which needs support for the ongoing streams of data we need to feed into it, as well as new data it may need to produce.
 >
@@ -268,9 +263,9 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980&t=63)** The second is compute power for the significant amount of processing these systems need to perform.
 >
-> **[1:10](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980&t=70)** Let's talk about data storage first.
+> **[1:10](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980&t=70)** Let's talk about [[Data Storage]] first.
 >
-> **[1:13](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980&t=73)** The use of data science technology naturally transitions our business to become more data-centric in many different ways.
+> **[1:13](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980&t=73)** The use of [[Data Science]] technology naturally transitions our business to become more data-centric in many different ways.
 >
 > **[1:22](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980&t=82)** We not only use data we've already been collecting for many years, we increase the amount of data we collect, and we go out to get even more data from external sources.
 >
@@ -280,7 +275,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980&t=116)** First, clouds offer highly scalable data storage solutions equipped with sophisticated automation technology that doesn't just store the data, but also automatically backs it up, as well as monitors and scans the data to ensure its health and integrity.
 >
-> **[2:15](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980&t=135)** Furthermore, cloud security automation tech can automatically scan, respond, and protect the data from cyber attacks, including attempts to access and augment confidential data as well as attempts to corrupt or destroy data.
+> **[2:15](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980&t=135)** Furthermore, [[Cloud Security]] automation tech can automatically scan, respond, and protect the data from cyber attacks, including attempts to access and augment confidential data as well as attempts to corrupt or destroy data.
 >
 > **[2:34](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980&t=154)** Now let's talk about compute power.
 >
@@ -290,7 +285,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980&t=172)** The volume of data that may need to be processed on an ongoing basis can be much greater, and the computational complexity required to carry out advanced AI functions can be hugely more demanding than anything else the business may have ever had to power in the past.
 >
-> **[3:12](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980&t=192)** As we have already established, this is especially the case with generative AI systems, as well as predictive AI systems that need to perform complex processing.
+> **[3:12](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980&t=192)** As we have already established, this is especially the case with [[Generative AI]] systems, as well as [[Predictive AI]] systems that need to perform complex processing.
 >
 > **[3:23](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980&t=203)** Again, we can invest in the purchase and administration of all the servers and other types of infrastructures required to support this type of processing, but it usually makes more sense to put them in a cloud.
 >
@@ -302,17 +297,16 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980&t=254)** A cloud provider may further offer the use of quantum computers, which can provide an extremely powerful amount of compute power that can enable AI systems to train and improve much faster than with traditional computing systems.
 >
-> **[4:30](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980&t=270)** We'll make reference to the use of quantum computing in relation to AI data processing later in this course.
+> **[4:30](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-clouds-and-quantum-computers?u=76281980&t=270)** We'll make reference to the use of [[Quantum Computing]] in relation to AI [[Data Processing]] later in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), ai (10), cloud (9), power (5), [[Automation]] (4)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Big Data]] (2), [[Data Storage]] (2), [[LinkedIn]] (1), [[Data Science]] (1)
 > **Cross-References:** in the next (1), later in (1)
 > **Prerequisites:** required to (2)
 > **CLI Commands:** make (1)
 
-#### AI and cloud automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-cloud-automation?u=76281980)
+#### [AI and cloud automation](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-cloud-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -324,7 +318,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-cloud-automation?u=76281980&t=24)** Automated AI model deployment, which is when we use a cloud automation tool to deploy and also configure a model, including setting up the necessary storage and compute resources.
 >
-> **[0:39](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-cloud-automation?u=76281980&t=39)** We can use cloud automation tools to also collect and filter training data, which is referred to as data ingestion and preprocessing.
+> **[0:39](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-cloud-automation?u=76281980&t=39)** We can use cloud automation tools to also collect and filter training data, which is referred to as [[Data Ingestion]] and preprocessing.
 >
 > **[0:49](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/ai-and-cloud-automation?u=76281980&t=49)** Tools are available to evaluate a model's performance and to help optimize the model while it's undergoing training.
 >
@@ -340,18 +334,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[Automation]] (8), ai (8), data (4), next (1)
 > **Cross-References:** previous video (1)
 > **Prerequisites:** configure (1)
 
-#### Common cloud AI benefits
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20285313?u=76281980)
+#### [Common cloud AI benefits](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20285313?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20285313?u=76281980&t=0)** Now that we've covered common cloud automation capabilities relevant to AI, let's start establishing some broader benefits of building AI solutions in the cloud.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20285313?u=76281980&t=0)** Now that we've covered common cloud automation capabilities relevant to AI, let's start establishing some broader benefits of building [[AI Solutions]] in the cloud.
 >
-> **[0:11](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20285313?u=76281980&t=11)** This will be the first of four videos in this course dedicated to highlighting cloud computing features and resources for AI systems.
+> **[0:11](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20285313?u=76281980&t=11)** This will be the first of four videos in this course dedicated to highlighting [[Cloud Computing]] features and resources for AI systems.
 >
 > **[0:21](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20285313?u=76281980&t=21)** In this first video, we'll cover some baseline benefits that are generally applicable to all types of AI solutions.
 >
@@ -365,11 +357,11 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20285313?u=76281980&t=62)** Let's begin.
 >
-> **[1:03](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20285313?u=76281980&t=63)** Cloud providers offer extensive marketplaces that allow us to acquire AI system products.
+> **[1:03](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20285313?u=76281980&t=63)** Cloud providers offer extensive marketplaces that allow us to acquire AI system [[Microsoft Products|products]].
 >
 > **[1:10](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20285313?u=76281980&t=70)** These can then be quickly provisioned and deployed in readymade, pre-configured infrastructure that is further supplemented with a variety of automation features and expert support staff.
 >
-> **[1:22](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20285313?u=76281980&t=82)** The fact that this type of environment can be made available to us without the need to purchase any hardware is very attractive, especially for when we're setting up an AI system for the first time.
+> **[1:22](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20285313?u=76281980&t=82)** The fact that this type of environment can be made available to us without the need to purchase any [[Hardware]] is very attractive, especially for when we're setting up an AI system for the first time.
 >
 > **[1:36](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20285313?u=76281980&t=96)** It helps us reduce our initial investment.
 >
@@ -383,11 +375,11 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20285313?u=76281980&t=129)** What this means for AI-related innovations is that you will have a better chance of getting early access to the latest AI tech from cloud providers.
 >
-> **[2:20](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20285313?u=76281980&t=140)** This includes getting access to the latest algorithms as well.
+> **[2:20](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20285313?u=76281980&t=140)** This includes getting access to the latest [[Algorithms]] as well.
 >
 > **[2:24](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20285313?u=76281980&t=144)** This may especially be important if you are operating in a market in which competitors are also using AI tech.
 >
-> **[2:32](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20285313?u=76281980&t=152)** One aspect of cloud environments becoming the premier destination for technology innovation is that cloud providers have benefited from increased innovation in IT security, including the use of AI systems as parts of native cloud security architectures.
+> **[2:32](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20285313?u=76281980&t=152)** One aspect of cloud environments becoming the premier destination for technology innovation is that cloud providers have benefited from increased innovation in IT security, including the use of AI systems as parts of native [[Cloud Security]] architectures.
 >
 > **[2:52](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20285313?u=76281980&t=172)** This has given cloud environments the reputation of being the safest place to host data, an important consideration, especially when having to work with AI systems that need access to private and sensitive data.
 >
@@ -401,13 +393,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), cloud (18), [[Security]] (4), [[Automation]] (3), [[Microsoft Products|Products]] (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[AI Solutions]] (2), [[Cloud Computing]] (2), [[Cloud Security]] (2), [[Hardware]] (1)
 > **Cross-References:** later in (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** getting started (1)
 
-#### Common cloud AI challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20289339?u=76281980)
+#### [Common cloud AI challenges](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20289339?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -433,19 +424,19 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20289339?u=76281980&t=92)** One of the more difficult data flaws to weed out is data bias, whereby the data we use for model training has certain biases that make it unfair or inappropriate.
 >
-> **[1:46](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20289339?u=76281980&t=106)** Filtering out bad data spans both big data and AI system environments.
+> **[1:46](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20289339?u=76281980&t=106)** Filtering out bad data spans both [[Big Data]] and AI system environments.
 >
 > **[1:53](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20289339?u=76281980&t=113)** Much of this can be automated, but the expertise of AI specialists is often a critical success factor.
 >
 > **[2:01](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20289339?u=76281980&t=121)** This leads us to the next common challenge, which is a shortage of qualified talent.
 >
-> **[2:08](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20289339?u=76281980&t=128)** As AI systems become more widely adopted, it can be difficult for the supply of talented data science professionals to keep up with the demand.
+> **[2:08](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20289339?u=76281980&t=128)** As AI systems become more widely adopted, it can be difficult for the supply of talented [[Data Science]] professionals to keep up with the demand.
 >
 > **[2:19](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20289339?u=76281980&t=139)** To exasperate this as more businesses in competitive markets use AI systems to outperform each other, the nature of the system capabilities become more complex, requiring greater levels of expertise.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), data (8), cloud (4), business (2), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (1), [[Data Science]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
@@ -454,8 +445,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How humans make decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-humans-make-decisions?u=76281980)
+#### [How humans make decisions](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-humans-make-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -467,29 +457,28 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-humans-make-decisions?u=76281980&t=27)** Let's say you need to make a decision about something in your life, like buying a new car.
 >
-> **[0:32](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-humans-make-decisions?u=76281980&t=32)** If you collect some data to help you make a more informed decision, then you are already applying some of the basic principles of data science.
+> **[0:32](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-humans-make-decisions?u=76281980&t=32)** If you collect some data to help you make a more informed decision, then you are already applying some of the basic principles of [[Data Science]].
 >
-> **[0:42](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-humans-make-decisions?u=76281980&t=42)** For example, you might collect data about different features of cars, statistics about their past performance as well as how much they cost, how available they are, et cetera.
+> **[0:42](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-humans-make-decisions?u=76281980&t=42)** For example, you might collect data about different features of cars, [[Statistics]] about their past performance as well as how much they cost, how available they are, et cetera.
 >
 > **[0:54](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-humans-make-decisions?u=76281980&t=54)** All of this data will help you better figure out which car suits your requirements the best.
 >
 > **[1:02](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-humans-make-decisions?u=76281980&t=62)** In other words, the knowledge of this data will help your brain make a data-driven decision, a decision that factors in the data.
 >
-> **[1:12](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-humans-make-decisions?u=76281980&t=72)** Now that we've described a simple example of how a human makes a data-driven decision, let's see how it works when we involve predictive AI.
+> **[1:12](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-humans-make-decisions?u=76281980&t=72)** Now that we've described a simple example of how a human makes a data-driven decision, let's see how it works when we involve [[Predictive AI]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), ai (1), [[Statistics]] (1), [[Predictive AI]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Statistics]] (1), [[Predictive AI]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
 
-#### How predictive AI helps humans make decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-helps-humans-make?u=76281980)
+#### [How predictive AI helps humans make decisions](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-helps-humans-make?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-helps-humans-make?u=76281980&t=1)** Predictive AI systems are capable of emulating human intelligence when it comes to analytical tasks, such as identifying patterns in data, problem-solving, and decision-making.
+> **[0:01](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-helps-humans-make?u=76281980&t=1)** [[Predictive AI]] systems are capable of emulating human intelligence when it comes to analytical tasks, such as identifying patterns in data, problem-solving, and [[Decision-Making]].
 >
 > **[0:13](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-helps-humans-make?u=76281980&t=13)** That's a heavy statement.
 >
@@ -503,13 +492,13 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-helps-humans-make?u=76281980&t=59)** The predictive AI system can then produce data intelligence, such as a recommendation as to which car is the most compatible with our requirements.
 >
-> **[1:11](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-helps-humans-make?u=76281980&t=71)** That data intelligence is derived from processing both generic data, like the statistics and data we provided about our requirements, like how we plan to use the car.
+> **[1:11](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-helps-humans-make?u=76281980&t=71)** That data intelligence is derived from processing both generic data, like the [[Statistics]] and data we provided about our requirements, like how we plan to use the car.
 >
 > **[1:23](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-helps-humans-make?u=76281980&t=83)** Using this type of data intelligence to make decisions helps us make intelligent decisions.
 >
 > **[1:30](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-helps-humans-make?u=76281980&t=90)** Businesses rely on predictive AI practices and technology to make all kinds of decisions.
 >
-> **[1:37](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-helps-humans-make?u=76281980&t=97)** It could be tactical decisions about how the business operates, how employees are performing, and how and where products are selling.
+> **[1:37](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-helps-humans-make?u=76281980&t=97)** It could be tactical decisions about how the business operates, how employees are performing, and how and where [[Microsoft Products|products]] are selling.
 >
 > **[1:47](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-helps-humans-make?u=76281980&t=107)** Or it could be strategic decisions about what markets the business should or should not enter, what competitors are doing that the business could also do, and how the business can grow and expand.
 >
@@ -521,18 +510,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Predictive AI]] (6), business (4), [[Decision-Making]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Predictive AI]] (6), [[Decision-Making]] (1), [[Statistics]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (6)
 > **Analogies:** such as (3), for example (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### How predictive AI can make decisions on its own
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-make-decisions-on-its-own?u=76281980)
+#### [How predictive AI can make decisions on its own](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-make-decisions-on-its-own?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-make-decisions-on-its-own?u=76281980&t=0)** Another key feature of AI systems is their ability to carry out autonomous decision-making logic.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-make-decisions-on-its-own?u=76281980&t=0)** Another key feature of AI systems is their ability to carry out autonomous [[Decision-Making]] logic.
 >
 > **[0:07](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-make-decisions-on-its-own?u=76281980&t=7)** This means that we can give an AI system the responsibility for not only creating data intelligence, but also independently acting upon it.
 >
@@ -554,23 +542,22 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-make-decisions-on-its-own?u=76281980&t=101)** We feed this data into the AI system, which continually uses it to learn how to improve not only its analysis capability, but also its decision-making capability so that it can make better and better decisions over time.
 >
-> **[1:57](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-make-decisions-on-its-own?u=76281980&t=117)** The autonomous decision-making scenario we just described is an example of the potential that can be realized when delegating decision-making responsibilities to a predictive AI system.
+> **[1:57](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-make-decisions-on-its-own?u=76281980&t=117)** The autonomous decision-making scenario we just described is an example of the potential that can be realized when delegating decision-making responsibilities to a [[Predictive AI]] system.
 >
 > **[2:11](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-make-decisions-on-its-own?u=76281980&t=131)** In the next chapter, we'll explore some more advanced scenarios whereby autonomous decision-making is utilized to support backend business automation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Decision-Making]] (6), data (3), business (3), feature (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (6), [[Predictive AI]] (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 
-#### Common cloud AI benefits
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits?u=76281980)
+#### [Common cloud AI benefits](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits?u=76281980&t=0)** Now that we understand the role of predictive AI as it relates to decision-making, let's highlight some common benefits of having this type of AI system reside in a cloud.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits?u=76281980&t=0)** Now that we understand the role of [[Predictive AI]] as it relates to [[Decision-Making]], let's highlight some common benefits of having this type of AI system reside in a cloud.
 >
 > **[0:13](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits?u=76281980&t=13)** If we're going to be making critical decisions using this data intelligence, doing everything we can to ensure the utmost accuracy in what is provided is very important.
 >
@@ -578,7 +565,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits?u=76281980&t=34)** The array of AI model-related cloud automation features that we covered in Chapter Two, together with the availability of powerful cloud resources that help us ensure that training data is correctly prepared and processed, all of this can help guarantee the highest levels of accuracy in the data intelligence our AI systems produce.
 >
-> **[1:01](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits?u=76281980&t=61)** The involvement of quantum computers can further help us process much larger amounts of data, as well as improve the precision of the output, especially with more complex forms of data processing.
+> **[1:01](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits?u=76281980&t=61)** The involvement of quantum computers can further help us process much larger amounts of data, as well as improve the precision of the output, especially with more complex [[Forms]] of [[Data Processing]].
 >
 > **[1:14](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits?u=76281980&t=74)** The next video in this chapter focuses on common problems with predictive AI.
 >
@@ -590,17 +577,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (5), cloud (4), [[Decision-Making]] (3), [[Predictive AI]] (2)
+> **Frameworks & Libraries:** [[Decision-Making]] (3), [[Predictive AI]] (2), [[Forms]] (1), [[Data Processing]] (1)
 > **Cross-References:** we covered (1), next video (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
-#### Common cloud AI challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20289338?u=76281980)
+#### [Common cloud AI challenges](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20289338?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20289338?u=76281980&t=0)** When we use predictive AI to support our decision-making, we need to have a level of trust that it is guiding us in the right direction, and we need to trust that the data being used is also protected.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20289338?u=76281980&t=0)** When we use [[Predictive AI]] to support our [[Decision-Making]], we need to have a level of trust that it is guiding us in the right direction, and we need to trust that the data being used is also protected.
 >
 > **[0:15](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20289338?u=76281980&t=15)** One of the ongoing challenges of using an AI system is not having an understanding of how or why the system reached a certain conclusion.
 >
@@ -616,7 +602,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20289338?u=76281980&t=72)** As discussed in the previous video, cloud automation tools are available to help apply explainability techniques.
 >
-> **[1:20](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20289338?u=76281980&t=80)** Businesses that use predictive AI for decision-making purposes will often need to use data that may have privacy concerns or may be governed by privacy and security regulations.
+> **[1:20](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20289338?u=76281980&t=80)** Businesses that use predictive AI for decision-making purposes will often need to use data that may have [[Privacy]] concerns or may be governed by privacy and security regulations.
 >
 > **[1:34](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20289338?u=76281980&t=94)** The classic examples are customer data and employee data.
 >
@@ -632,7 +618,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), cloud (5), [[Predictive AI]] (4), ai (4), [[Decision-Making]] (3)
+> **Frameworks & Libraries:** [[Predictive AI]] (4), [[Decision-Making]] (3), [[Privacy]] (3)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
@@ -642,8 +628,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Automation without AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/automation-without-ai?u=76281980)
+#### [Automation without AI](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/automation-without-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -665,7 +650,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/automation-without-ai?u=76281980&t=67)** We'll then revisit these examples in the next videos to better demonstrate how automation can be enhanced with AI.
 >
-> **[1:16](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/automation-without-ai?u=76281980&t=76)** Robotic process automation, or RPA, is a type of technology that allows us to build software programs called RPA bots, which are designed to interact with user interfaces of various existing business applications.
+> **[1:16](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/automation-without-ai?u=76281980&t=76)** [[Robotic Process Automation (RPA)|Robotic process automation]], or RPA, is a type of technology that allows us to build software programs called RPA bots, which are designed to interact with user interfaces of various existing business applications.
 >
 > **[1:32](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/automation-without-ai?u=76281980&t=92)** Their purpose is to help us automate menial tasks that humans previously performed manually out of the box.
 >
@@ -675,11 +660,11 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/automation-without-ai?u=76281980&t=117)** Chatbots are software programs that provide the ability to interact with customers via text or voice.
 >
-> **[2:05](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/automation-without-ai?u=76281980&t=125)** They can be used to instantly answer questions, supply information, suggest recommendations, and provide technical support.
+> **[2:05](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/automation-without-ai?u=76281980&t=125)** They can be used to instantly answer questions, supply information, suggest recommendations, and provide [[Technical Support]].
 >
 > **[2:13](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/automation-without-ai?u=76281980&t=133)** All without the need for human staff to do so.
 >
-> **[2:17](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/automation-without-ai?u=76281980&t=137)** To do all this, chatbots typically rely on pre-scripted dialogue as well as elaborate conditional logic that determines how they react to different types of customer responses.
+> **[2:17](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/automation-without-ai?u=76281980&t=137)** To do all this, chatbots typically rely on pre-scripted dialogue as well as elaborate conditional logic that determines how they [[React.js|react]] to different types of customer responses.
 >
 > **[2:30](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/automation-without-ai?u=76281980&t=150)** As we all know, business apps like this have been in use for many, many years and have become commonplace with just about any business.
 >
@@ -693,15 +678,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (10), ai (4), [[Automation]] (4), rpa (3), next (2)
+> **Frameworks & Libraries:** [[Robotic Process Automation (RPA)|Robotic process automation]] (1), [[Technical Support]] (1), [[React.js|React]] (1)
 > **Env Vars:** rpa (3)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - being (1)
 
-#### How predictive AI can enhance automation: RPA bots
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-enhance-automation-rpa-bots?u=76281980)
+#### [How predictive AI can enhance automation: RPA bots](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-enhance-automation-rpa-bots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -711,7 +695,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-enhance-automation-rpa-bots?u=76281980&t=22)** Let's return to our RPA solution.
 >
-> **[0:25](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-enhance-automation-rpa-bots?u=76281980&t=25)** Here we could utilize a predictive AI system to carry out an analysis on how our application has been performing in the past by training its model on historical usage, activity, and performance data.
+> **[0:25](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-enhance-automation-rpa-bots?u=76281980&t=25)** Here we could utilize a [[Predictive AI]] system to carry out an analysis on how our application has been performing in the past by training its model on historical usage, activity, and performance data.
 >
 > **[0:41](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-enhance-automation-rpa-bots?u=76281980&t=41)** We can further add data associated with business tasks that are still carried out manually.
 >
@@ -741,28 +725,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), rpa (4), business (3), [[Predictive AI]] (3), data (3)
+> **Frameworks & Libraries:** [[Predictive AI]] (3)
 > **Env Vars:** rpa (4)
 > **CLI Commands:** make (3)
 > **Cross-References:** previous video (1), we talked about (1), in the next (1)
 > **Speakers:** - as (1)
 
-#### How predictive AI can enhance automation: Chatbots
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-enhance-automation-chatbots?u=76281980)
+#### [How predictive AI can enhance automation: Chatbots](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-enhance-automation-chatbots?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-enhance-automation-chatbots?u=76281980&t=0)** Let's now explore a new scenario based on the use of cloud-based AI systems together with chatbot technology.
 >
-> **[0:08](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-enhance-automation-chatbots?u=76281980&t=8)** As with an RPA application or other types of business apps, a chatbot solution can also benefit from new insights that can be revealed by analysis performed by a predictive AI system.
+> **[0:08](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-enhance-automation-chatbots?u=76281980&t=8)** As with an RPA application or other types of business apps, a chatbot solution can also benefit from new insights that can be revealed by analysis performed by a [[Predictive AI]] system.
 >
 > **[0:22](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-enhance-automation-chatbots?u=76281980&t=22)** Not only may there be ways to enhance the utilization or deployment of the chatbot software programs, there will likely be many ways that the chatbot dialogue can be improved or expanded.
 >
 > **[0:35](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-enhance-automation-chatbots?u=76281980&t=35)** The predictive AI system can figure out these types of improvements by studying training data from past conversations with customers, and further assessing the quality of dialogue and customer satisfaction resulting from those conversations.
 >
-> **[0:52](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-enhance-automation-chatbots?u=76281980&t=52)** As we did with the RPA solution, we can now consider giving the AI system autonomous decision-making responsibility for our chatbot solution.
+> **[0:52](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-enhance-automation-chatbots?u=76281980&t=52)** As we did with the RPA solution, we can now consider giving the AI system autonomous [[Decision-Making]] responsibility for our chatbot solution.
 >
-> **[1:04](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-enhance-automation-chatbots?u=76281980&t=64)** For example, instead of being restricted to predetermined responses for certain types of conversations, the AI could choose from a broad range of available dialogues to take certain conversations into new directions, such as trying to sell a customer new products after successfully assisting the customer with resolving an issue with the product they are currently using.
+> **[1:04](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-enhance-automation-chatbots?u=76281980&t=64)** For example, instead of being restricted to predetermined responses for certain types of conversations, the AI could choose from a broad range of available dialogues to take certain conversations into new directions, such as trying to sell a customer new [[Microsoft Products|products]] after successfully assisting the customer with resolving an issue with the product they are currently using.
 >
 > **[1:31](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-enhance-automation-chatbots?u=76281980&t=91)** There are many nuances to these types of conversations that can make it difficult to preprogram in advance.
 >
@@ -770,27 +753,26 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-enhance-automation-chatbots?u=76281980&t=113)** We've been exploring some interesting cloud-based and AI-driven automation solutions, but we've really just covered the tip of the iceberg.
 >
-> **[2:01](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-enhance-automation-chatbots?u=76281980&t=121)** There are many creative and powerful ways to incorporate AI technology within business operations and communication, both internally and externally.
+> **[2:01](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-enhance-automation-chatbots?u=76281980&t=121)** There are many creative and powerful ways to incorporate AI technology within [[Business Operations]] and communication, both internally and externally.
 >
-> **[2:13](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-enhance-automation-chatbots?u=76281980&t=133)** We'll also be revisiting both this and the previous scenario, with some further enhancements from the use of generative AI.
+> **[2:13](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-predictive-ai-can-enhance-automation-chatbots?u=76281980&t=133)** We'll also be revisiting both this and the previous scenario, with some further enhancements from the use of [[Generative AI]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), chatbot (5), cloud (2), rpa (2), business (2)
+> **Frameworks & Libraries:** [[Predictive AI]] (2), [[Decision-Making]] (1), [[Microsoft Products|Products]] (1), [[Business Operations]] (1), [[Generative AI]] (1)
 > **Env Vars:** rpa (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 
-#### Common cloud AI benefits
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20284343?u=76281980)
+#### [Common cloud AI benefits](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20284343?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20284343?u=76281980&t=0)** When incorporating predictive AI capabilities into our runtime automation solutions, we are essentially making them part of important business operations that may be happening in real-time and may involve interactions with customers.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20284343?u=76281980&t=0)** When incorporating [[Predictive AI]] capabilities into our runtime automation solutions, we are essentially making them part of important [[Business Operations]] that may be happening in [[Real-Time]] and may involve interactions with customers.
 >
 > **[0:17](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20284343?u=76281980&t=17)** Let's have a look at how clouds can support this responsibility.
 >
-> **[0:22](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20284343?u=76281980&t=22)** One of the most fundamental means by which clouds can help just about any type of runtime application is to provide high-end infrastructure capable of ensuring scalability.
+> **[0:22](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20284343?u=76281980&t=22)** One of the most fundamental means by which clouds can help just about any type of runtime application is to provide high-end infrastructure capable of ensuring [[Scalability]].
 >
 > **[0:34](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20284343?u=76281980&t=34)** Our AI-driven automation solution may face unpredictable or even volatile usage by customers or internal staff.
 >
@@ -806,18 +788,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Automation]] (3), ai (2), [[Predictive AI]] (1), business (1)
+> **Frameworks & Libraries:** [[Predictive AI]] (1), [[Business Operations]] (1), [[Real-Time]] (1), [[Scalability]] (1)
 
-#### Common cloud AI challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20288345?u=76281980)
+#### [Common cloud AI challenges](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20288345?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20288345?u=76281980&t=0)** This video covers some practical concerns about making predictive AI systems part of greater cloud-hosted business applications.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20288345?u=76281980&t=0)** This video covers some practical concerns about making [[Predictive AI]] systems part of greater cloud-hosted business applications.
 >
 > **[0:10](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20288345?u=76281980&t=10)** When we take the time and effort to build an automation solution involving different types of technologies, including AI systems that help optimize and enhance automation capabilities, we end up creating an elaborate application architecture.
 >
-> **[0:28](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20288345?u=76281980&t=28)** Once we do so in a cloud environment, that architecture can become tightly integrated with many cloud infrastructure resources, as well as many of the cloud automation extensions that we come to rely on.
+> **[0:28](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20288345?u=76281980&t=28)** Once we do so in a cloud environment, that architecture can become tightly integrated with many [[Cloud Infrastructure]] resources, as well as many of the cloud automation extensions that we come to rely on.
 >
 > **[0:43](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20288345?u=76281980&t=43)** A business's applications can be its most valuable assets, especially those that connect it with its market and customers.
 >
@@ -835,13 +816,13 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20288345?u=76281980&t=119)** However, with AI-driven automation solutions that can become highly reliant on the cloud environments they reside in, the cost-benefit can begin to disappear after some time when the ongoing costs start to add up.
 >
-> **[2:15](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20288345?u=76281980&t=135)** Predictive AI systems used for human decision-making, as well as generative AI systems that may not need industrial strength compute power can be moved out of a cloud more easily than an AI system that is fully integrated with a greater automated business application.
+> **[2:15](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20288345?u=76281980&t=135)** Predictive AI systems used for human [[Decision-Making]], as well as [[Generative AI]] systems that may not need industrial strength compute power can be moved out of a cloud more easily than an AI system that is fully integrated with a greater automated business application.
 >
 > **[2:35](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges-20288345?u=76281980&t=155)** Despite all of that, the benefits and business value that clouds give us will usually outweigh these costs, but it's still important to be prepared for them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (13), ai (6), business (5), [[Automation]] (4), application (3)
+> **Frameworks & Libraries:** [[Predictive AI]] (1), [[Decision-Making]] (1), [[Generative AI]] (1)
 > **Cross-References:** we discussed (1), earlier in (1)
 > **Analogies:** for example (1)
 
@@ -850,8 +831,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating new content and ideas without AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/creating-new-content-and-ideas-without-ai?u=76281980)
+#### [Creating new content and ideas without AI](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/creating-new-content-and-ideas-without-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -859,13 +839,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/creating-new-content-and-ideas-without-ai?u=76281980&t=13)** In business, we are also constantly creating new marketing ideas, new website content, new reports and new business plans.
 >
-> **[0:24](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/creating-new-content-and-ideas-without-ai?u=76281980&t=24)** Generative AI introduces new methods of automated creation.
+> **[0:24](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/creating-new-content-and-ideas-without-ai?u=76281980&t=24)** [[Generative AI]] introduces new methods of automated creation.
 >
 > **[0:31](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/creating-new-content-and-ideas-without-ai?u=76281980&t=31)** To understand this, it's best to begin with a quick recap of how us humans create.
 >
 > **[0:38](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/creating-new-content-and-ideas-without-ai?u=76281980&t=38)** A human will create new content based on its ability to access knowledge in its memory, to research new knowledge as additional input and its ability to author the new content for its intended audience.
 >
-> **[0:54](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/creating-new-content-and-ideas-without-ai?u=76281980&t=54)** These steps a human takes during the content creation process have a few common limitations.
+> **[0:54](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/creating-new-content-and-ideas-without-ai?u=76281980&t=54)** These steps a human takes during the [[Content Creation]] process have a few common limitations.
 >
 > **[1:01](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/creating-new-content-and-ideas-without-ai?u=76281980&t=61)** First, it can take a long time to both assemble, filter, and then author and review the content.
 >
@@ -901,17 +881,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Generative AI]] (3), [[Content Creation]] (2), ai (2), express (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Content Creation]] (2)
 > **Analogies:** such as (1), for example (1), similar to (1)
 > **Cross-References:** coming up (2)
 > **Best Practices:** it's best to (1)
 
-#### How generative AI can create new business content
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-content?u=76281980)
+#### [How generative AI can create new business content](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-content?u=76281980&t=0)** Generative AI systems have the ability to be creative.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-content?u=76281980&t=0)** [[Generative AI]] systems have the ability to be creative.
 >
 > **[0:04](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-content?u=76281980&t=4)** What this means is that the AI can produce brand-new content for us, everything from written documents, software code, images, and more.
 >
@@ -923,7 +902,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-content?u=76281980&t=33)** For example, let's revisit the automated RPA solution we described in Video 2 from Chapter 4.
 >
-> **[0:41](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-content?u=76281980&t=41)** In that video, we explained how predictive AI could be used to create data intelligence that helps us figure out how to improve or expand our RPA solution.
+> **[0:41](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-content?u=76281980&t=41)** In that video, we explained how [[Predictive AI]] could be used to create data intelligence that helps us figure out how to improve or expand our RPA solution.
 >
 > **[0:53](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-content?u=76281980&t=53)** Once we decide what updates to make to our application, we could utilize a generative AI system to generate the new source code we need to make those updates.
 >
@@ -937,7 +916,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-content?u=76281980&t=100)** So instead of us humans taking the data intelligence from the predictive AI system and using it to author new scripts, we let the generative AI system do that for us.
 >
-> **[1:53](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-content?u=76281980&t=113)** We can also consider coupling the generative AI system's ability to produce new script content with the AI system's autonomous decision-making capability.
+> **[1:53](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-content?u=76281980&t=113)** We can also consider coupling the generative AI system's ability to produce new script content with the AI system's autonomous [[Decision-Making]] capability.
 >
 > **[2:06](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-content?u=76281980&t=126)** So instead of the chatbot script being predetermined, the generative AI system would be responsible for deciding, at runtime, what dialogue to produce during a given conversation.
 >
@@ -953,22 +932,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (11), data (4), chatbot (4), ai (3), [[Predictive AI]] (3)
+> **Frameworks & Libraries:** [[Generative AI]] (11), [[Predictive AI]] (3), [[Decision-Making]] (1)
 > **Analogies:** it's like (1), for example (1), such as (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** rpa (2)
 > **Cross-References:** we mentioned (1)
 
-#### How generative AI can create new business ideas
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-ideas?u=76281980)
+#### [How generative AI can create new business ideas](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-ideas?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-ideas?u=76281980&t=0)** - In the business world, nothing is as valuable as a good idea.
 >
-> **[0:05](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-ideas?u=76281980&t=5)** It is creativity that leads to innovation and helps us evolve and progress in terms of products, technology, and succeeding as a business.
+> **[0:05](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-ideas?u=76281980&t=5)** It is creativity that leads to innovation and helps us evolve and progress in terms of [[Microsoft Products|products]], technology, and succeeding as a business.
 >
-> **[0:15](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-ideas?u=76281980&t=15)** Generative AI systems have the ability to be creative.
+> **[0:15](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-ideas?u=76281980&t=15)** [[Generative AI]] systems have the ability to be creative.
 >
 > **[0:19](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-ideas?u=76281980&t=19)** This means they can come up with new ideas that can provide genuine business value.
 >
@@ -986,13 +964,13 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-ideas?u=76281980&t=61)** Imagine that over time we have been collecting lots of data from thousands of customers that have been using a range of our car models.
 >
-> **[1:11](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-ideas?u=76281980&t=71)** So as we know, a predictive AI system could use this data to provide us with valuable insights into things like customer preferences and car usage trends, which we could then use to make better decisions on how to improve the cars in the future.
+> **[1:11](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-ideas?u=76281980&t=71)** So as we know, a [[Predictive AI]] system could use this data to provide us with valuable insights into things like customer preferences and car usage trends, which we could then use to make better decisions on how to improve the cars in the future.
 >
 > **[1:29](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-ideas?u=76281980&t=89)** But with a generative AI system, we could use this data to ask the system itself to come up with entirely new ideas, such as new features in cars to replace those that customers didn't like, or perhaps even designs for entirely new types of cars.
 >
 > **[1:48](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-ideas?u=76281980&t=108)** Let's now go back to the RPA and chatbot solutions we described in chapter four.
 >
-> **[1:54](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-ideas?u=76281980&t=114)** We take all the relevant information about those two solutions and our business operations together with additional information from external sources such as different cloud vendor specs, new technology innovations, application design trends, case studies, and so on, and we use that to train a generative AI system.
+> **[1:54](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-ideas?u=76281980&t=114)** We take all the relevant information about those two solutions and our [[Business Operations]] together with additional information from external sources such as different cloud vendor specs, new technology innovations, application design trends, case studies, and so on, and we use that to train a generative AI system.
 >
 > **[2:16](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-ideas?u=76281980&t=136)** We then ask the system how we can further improve our backend automation in order to better achieve our business goals.
 >
@@ -1000,7 +978,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-ideas?u=76281980&t=158)** In this new proposed environment, we could essentially position chatbots as the means by which we give our automation solutions ad hoc commands that are analyzed, optimized, and executed via an autonomous AI system that would be responsible for controlling and interacting with the RPA bots.
 >
-> **[3:01](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-ideas?u=76281980&t=181)** The proposed solution architecture is further distributed across a multi-cloud environment to better address budgetary requirements we also provided as part of the training data.
+> **[3:01](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-ideas?u=76281980&t=181)** The proposed [[Solution Architecture]] is further distributed across a multi-cloud environment to better address budgetary requirements we also provided as part of the training data.
 >
 > **[3:13](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/how-generative-ai-can-create-new-business-ideas?u=76281980&t=193)** The ability for generative AI systems to be creative is extremely powerful.
 >
@@ -1012,19 +990,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (6), business (5), data (4), rpa (3), cloud (3)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Microsoft Products|Products]] (1), [[Predictive AI]] (1), [[Business Operations]] (1), [[Solution Architecture]] (1)
 > **Env Vars:** rpa (3)
 > **Cross-References:** go back to (2)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
 
-#### Common cloud AI benefits
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20286354?u=76281980)
+#### [Common cloud AI benefits](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20286354?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20286354?u=76281980&t=0)** - Generative AI systems are known to require more powerful infrastructure compared to predictive systems.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20286354?u=76281980&t=0)** - [[Generative AI]] systems are known to require more powerful infrastructure compared to predictive systems.
 >
 > **[0:07](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20286354?u=76281980&t=7)** This often makes clouds their natural deployment destination.
 >
@@ -1036,22 +1013,21 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20286354?u=76281980&t=37)** Clouds can offer automated compliance checking tools to audit the data being generated.
 >
-> **[0:43](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20286354?u=76281980&t=43)** This can also encompass checking for ethics-related compliance requirements to help root out biases that can skew the data output.
+> **[0:43](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20286354?u=76281980&t=43)** This can also encompass checking for [[Ethics]]-related compliance requirements to help root out biases that can skew the data output.
 >
 > **[0:53](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-benefits-20286354?u=76281980&t=53)** The compute power required to process more complex generative AI models could justify the need for quantum computers, not only to carry out the processing, but to do so within a reasonable timeframe.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (4), data (2), cloud (1), business (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Ethics]] (1)
 > **Definitions:** means that (1)
 > **Speakers:** - generative (1)
 
-#### Common cloud AI challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges?u=76281980)
+#### [Common cloud AI challenges](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges?u=76281980&t=1)** - Working with generative AI systems to produce new content can lead to challenges that we may not be prepared for.
+> **[0:01](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges?u=76281980&t=1)** - Working with [[Generative AI]] systems to produce new content can lead to challenges that we may not be prepared for.
 >
 > **[0:09](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges?u=76281980&t=9)** Much of these obstacles also relate to how the newly generated content gets used after it's produced.
 >
@@ -1061,15 +1037,15 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges?u=76281980&t=32)** Hallucinations are typically inconsistent with the training data, but they can be related to model complexity and insufficient explainability.
 >
-> **[0:42](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges?u=76281980&t=42)** The use of quantum computing with generative AI systems can increase the likelihood of hallucinations.
+> **[0:42](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges?u=76281980&t=42)** The use of [[Quantum Computing]] with generative AI systems can increase the likelihood of hallucinations.
 >
-> **[0:50](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges?u=76281980&t=50)** This is sometimes due to the complex nature of the algorithms quantum computers use.
+> **[0:50](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges?u=76281980&t=50)** This is sometimes due to the complex nature of the [[Algorithms]] quantum computers use.
 >
 > **[0:57](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges?u=76281980&t=57)** Hallucinations are especially problematic for generative AI systems because of the quantity of content they can produce and the difficulty in finding content that may simply be not true.
 >
 > **[1:11](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges?u=76281980&t=71)** If every body of content you create using a generative AI system might contain one or more hallucinations, you would likely begin to lose trust in the system and would be hesitant to use that content for business purposes.
 >
-> **[1:28](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges?u=76281980&t=88)** Various techniques exist from minimizing and preventing hallucinations, including retraining large language models with improved training data.
+> **[1:28](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges?u=76281980&t=88)** Various techniques exist from minimizing and preventing hallucinations, including retraining [[Large Language Models (LLM)|large language models]] with improved training data.
 >
 > **[1:39](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/common-cloud-ai-challenges?u=76281980&t=99)** Depending on the nature of the content being created by a generative AI system, there may be legal considerations that need to be taken into account.
 >
@@ -1087,7 +1063,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (8), data (4), ai (2), [[Quantum Computing]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (8), [[Quantum Computing]] (1), [[Algorithms]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Speakers:** - working (1)
 
 
@@ -1095,26 +1071,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/next-steps?u=76281980&t=0)** - Thank you for joining me on this exploration of modern day artificial intelligence, cloud computing and quantum computing, and all the possibilities these innovations are opening for us in the digital era.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/next-steps?u=76281980&t=0)** - Thank you for joining me on this exploration of modern day [[Artificial Intelligence (AI)|artificial intelligence]], [[Cloud Computing]] and [[Quantum Computing]], and all the possibilities these innovations are opening for us in the digital era.
 >
 > **[0:14](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/next-steps?u=76281980&t=14)** Before we conclude, here are some recommended resources.
 >
 > **[0:18](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/next-steps?u=76281980&t=18)** There are three books that I would suggest you look into for further coverage of some of the topics we covered in this course.
 >
-> **[0:25](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/next-steps?u=76281980&t=25)** "An Insider's Guide to Cloud Computing," "A Field Guide to Digital Transformation," and the second edition of the book "Cloud Computing: Concepts, Technology, Security, and Architecture."
+> **[0:25](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/next-steps?u=76281980&t=25)** "An Insider's Guide to Cloud Computing," "A Field Guide to [[Digital Transformation]]," and the second edition of the book "Cloud Computing: Concepts, Technology, Security, and Architecture."
 >
-> **[0:39](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/next-steps?u=76281980&t=39)** I also recommend you check out the LinkedIn Learning course, Generative AI Core Concepts by David Linthicum.
+> **[0:39](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/next-steps?u=76281980&t=39)** I also recommend you check out the [[LinkedIn]] Learning course, [[Generative AI]] Core Concepts by David Linthicum.
 >
 > **[0:47](https://www.linkedin.com/learning/generative-ai-and-predictive-ai-in-the-cloud-foundational-concepts-and-scenarios/next-steps?u=76281980&t=47)** Thanks again and best of luck with your cloud AI journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Quantum Computing]] (1), [[Digital Transformation]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Quantum Computing]] (1), [[Digital Transformation]] (1), [[LinkedIn]] (1)
 > **Cross-References:** we covered (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - thank (1)

@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/testmu-ai-test-automation-professio
 course_count: 2
 linkedin_topics:
   - Software Development
-louvain_cluster: 14
+louvain_cluster: 12
 tags:
   - professional-certificate
   - topic/software-development

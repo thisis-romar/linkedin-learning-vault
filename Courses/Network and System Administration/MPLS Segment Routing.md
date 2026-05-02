@@ -101,14 +101,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Supercharge your MPLS segment routing
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/supercharge-your-mpls-segment-routing?u=76281980)
+#### [Supercharge your MPLS segment routing](https://www.linkedin.com/learning/mpls-segment-routing/supercharge-your-mpls-segment-routing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/supercharge-your-mpls-segment-routing?u=76281980&t=0)** - [Arash] Have you ever wondered how modern networks achieve precise traffic engineering, simplify operations, and scale seamlessly across domains?
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/supercharge-your-mpls-segment-routing?u=76281980&t=0)** - [Arash] Have you ever wondered how modern networks achieve precise [[Traffic Engineering]], simplify operations, and scale seamlessly across domains?
 >
-> **[0:11](https://www.linkedin.com/learning/mpls-segment-routing/supercharge-your-mpls-segment-routing?u=76281980&t=11)** Welcome to the MPLS segment routing or SR course where we dive deep into one of the most advanced technologies in networking.
+> **[0:11](https://www.linkedin.com/learning/mpls-segment-routing/supercharge-your-mpls-segment-routing?u=76281980&t=11)** Welcome to the [[Multiprotocol Label Switching (MPLS)|MPLS]] segment [[Routing]] or SR course where we dive deep into one of the most advanced technologies in networking.
 >
 > **[0:20](https://www.linkedin.com/learning/mpls-segment-routing/supercharge-your-mpls-segment-routing?u=76281980&t=20)** In this course, you will learn SR fundamentals, understand how segment routing integrates with MPLS to enable efficient traffic forwarding and engineering, traffic engineering with SRT policies, discover how to optimize network paths based on constraints like bandwidth and latency, multi-domain solutions, solve real world challenges in large-scale complex network environments using SR.
 >
@@ -122,7 +121,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (3), [[Traffic Engineering]] (2), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), traffic (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Routing]] (3), [[Traffic Engineering]] (2), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2)
 > **Env Vars:** mpls (2), srt (1), mpl (1)
 > **Speakers:** - [arash] (1)
 
@@ -131,8 +130,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### IP forwarding
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/ip-forwarding?u=76281980)
+#### [IP forwarding](https://www.linkedin.com/learning/mpls-segment-routing/ip-forwarding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -154,7 +152,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/mpls-segment-routing/ip-forwarding?u=76281980&t=57)** When a router receives an IP packet, its first job is to check the destination IP address inside the packet.
 >
-> **[1:05](https://www.linkedin.com/learning/mpls-segment-routing/ip-forwarding?u=76281980&t=65)** The router then refers to its routing table, a dynamic database that stores information about how to reach various network destinations.
+> **[1:05](https://www.linkedin.com/learning/mpls-segment-routing/ip-forwarding?u=76281980&t=65)** The router then refers to its [[Routing]] table, a dynamic database that stores information about how to reach various network destinations.
 >
 > **[1:16](https://www.linkedin.com/learning/mpls-segment-routing/ip-forwarding?u=76281980&t=76)** The routing table contains a list of possible destination networks and the best path to reach them.
 >
@@ -172,13 +170,13 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/mpls-segment-routing/ip-forwarding?u=76281980&t=141)** This ensures that data travels efficiently and accurately across complex networks.
 >
-> **[2:28](https://www.linkedin.com/learning/mpls-segment-routing/ip-forwarding?u=76281980&t=148)** However, traditional IP forwarding does come with its challenges, particularly when it comes to traffic engineering.
+> **[2:28](https://www.linkedin.com/learning/mpls-segment-routing/ip-forwarding?u=76281980&t=148)** However, traditional IP forwarding does come with its challenges, particularly when it comes to [[Traffic Engineering]].
 >
 > **[2:37](https://www.linkedin.com/learning/mpls-segment-routing/ip-forwarding?u=76281980&t=157)** In IP networks, optimizing traffic paths and managing congestion can be quite complex.
 >
 > **[2:44](https://www.linkedin.com/learning/mpls-segment-routing/ip-forwarding?u=76281980&t=164)** Each router along the path must individually process the IP header and consult its routing table, which can be cumbersome and slow.
 >
-> **[2:55](https://www.linkedin.com/learning/mpls-segment-routing/ip-forwarding?u=76281980&t=175)** In contrast, MPLS or multiprotocol label switching, simplifies traffic engineering.
+> **[2:55](https://www.linkedin.com/learning/mpls-segment-routing/ip-forwarding?u=76281980&t=175)** In contrast, [[Multiprotocol Label Switching (MPLS)|MPLS]] or [[Multiprotocol Label Switching (MPLS)|multiprotocol label switching]], simplifies traffic engineering.
 >
 > **[3:01](https://www.linkedin.com/learning/mpls-segment-routing/ip-forwarding?u=76281980&t=181)** With MPLS, the head end router specifies the entire path for a packet and assigns a label to it.
 >
@@ -194,24 +192,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Routing]] (5), next (4), [[Traffic Engineering]] (4), [[Multiprotocol Label Switching (MPLS)|Mpls]] (4)
+> **Frameworks & Libraries:** [[Routing]] (5), [[Traffic Engineering]] (4), [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), [[Multiprotocol Label Switching (MPLS)|Multiprotocol label switching]] (1)
 > **Env Vars:** mpls (4)
 > **Definitions:** is a  (2), refers to (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### MPLS forwarding
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/mpls-forwarding?u=76281980)
+#### [MPLS forwarding](https://www.linkedin.com/learning/mpls-segment-routing/mpls-forwarding?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/mpls-forwarding?u=76281980&t=0)** - [Instructor] Today, we will dive into the concept of MPLS forwarding, a key technique used to optimize packet routing in networks.
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/mpls-forwarding?u=76281980&t=0)** - [Instructor] Today, we will dive into the concept of [[Multiprotocol Label Switching (MPLS)|MPLS]] forwarding, a key technique used to optimize packet [[Routing]] in networks.
 >
 > **[0:09](https://www.linkedin.com/learning/mpls-segment-routing/mpls-forwarding?u=76281980&t=9)** We will explore how MPLS works, its benefits, and why it is a crucial component of modern networking.
 >
 > **[0:17](https://www.linkedin.com/learning/mpls-segment-routing/mpls-forwarding?u=76281980&t=17)** Let's get started.
 >
-> **[0:19](https://www.linkedin.com/learning/mpls-segment-routing/mpls-forwarding?u=76281980&t=19)** MPLS stands for Multiprotocol Label Switching.
+> **[0:19](https://www.linkedin.com/learning/mpls-segment-routing/mpls-forwarding?u=76281980&t=19)** MPLS stands for [[Multiprotocol Label Switching (MPLS)|Multiprotocol Label Switching]].
 >
 > **[0:23](https://www.linkedin.com/learning/mpls-segment-routing/mpls-forwarding?u=76281980&t=23)** It's a technique used to forward packets through a network based on labels rather than traditional IP routing methods.
 >
@@ -247,13 +244,13 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/mpls-segment-routing/mpls-forwarding?u=76281980&t=132)** This speeds up forwarding process as routers only need to perform simple label swaps.
 >
-> **[2:19](https://www.linkedin.com/learning/mpls-segment-routing/mpls-forwarding?u=76281980&t=139)** Traffic engineering.
+> **[2:19](https://www.linkedin.com/learning/mpls-segment-routing/mpls-forwarding?u=76281980&t=139)** [[Traffic Engineering]].
 >
 > **[2:20](https://www.linkedin.com/learning/mpls-segment-routing/mpls-forwarding?u=76281980&t=140)** MPLS allows for advanced traffic engineering through explicit path setup.
 >
 > **[2:26](https://www.linkedin.com/learning/mpls-segment-routing/mpls-forwarding?u=76281980&t=146)** Network operators can define specific Label Switch Paths or LSPs to optimize traffic flow and avoid congestion.
 >
-> **[2:35](https://www.linkedin.com/learning/mpls-segment-routing/mpls-forwarding?u=76281980&t=155)** Scalability.
+> **[2:35](https://www.linkedin.com/learning/mpls-segment-routing/mpls-forwarding?u=76281980&t=155)** [[Scalability]].
 >
 > **[2:37](https://www.linkedin.com/learning/mpls-segment-routing/mpls-forwarding?u=76281980&t=157)** MPLS supports large-scale networks with complex routing needs while maintaining performance.
 >
@@ -289,7 +286,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (18), [[Routing]] (11), traffic (4), next (3), [[Scalability]] (3)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (18), [[Routing]] (11), [[Scalability]] (3), [[Traffic Engineering]] (2), [[Multiprotocol Label Switching (MPLS)|Multiprotocol label switching]] (1)
 > **Env Vars:** mpls (18), ler (2), fec (1), lsr (1), ldp (1)
 > **Definitions:** is a  (3), stands for (1), known as (1)
 > **Prerequisites:** configure (2), setup (1)
@@ -297,14 +294,13 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Segment routing (SR)
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-sr?u=76281980)
+#### [Segment routing (SR)](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-sr?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-sr?u=76281980&t=0)** - [Instructor] In today's session, we will explore segment routing or SR, a modern approach to network routing and traffic engineering.
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-sr?u=76281980&t=0)** - [Instructor] In today's session, we will explore segment [[Routing]] or SR, a modern approach to network routing and [[Traffic Engineering]].
 >
-> **[0:08](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-sr?u=76281980&t=8)** We will compare the benefits of SR with traditional MPLS traffic engineering and introduce the two types of SR implementations.
+> **[0:08](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-sr?u=76281980&t=8)** We will compare the benefits of SR with traditional [[Multiprotocol Label Switching (MPLS)|MPLS]] traffic engineering and introduce the two types of SR implementations.
 >
 > **[0:17](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-sr?u=76281980&t=17)** Let's get started.
 >
@@ -320,7 +316,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-sr?u=76281980&t=54)** Segment routing encodes path information in the packet header, eliminating the need for additional protocols and simplifying management.
 >
-> **[1:04](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-sr?u=76281980&t=64)** Enhanced scalability.
+> **[1:04](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-sr?u=76281980&t=64)** Enhanced [[Scalability]].
 >
 > **[1:06](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-sr?u=76281980&t=66)** MPLS traffic engineering needs to maintain label states and distribution information in each router, leading to scalability challenges.
 >
@@ -348,7 +344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (15), [[Routing]] (14), [[Traffic Engineering]] (7), management (4), [[Scalability]] (3)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (15), [[Routing]] (14), [[Traffic Engineering]] (7), [[Scalability]] (3)
 > **Env Vars:** mpls (15), ldp (1), rsvp (1)
 > **Speakers:** - [instructor] (1)
 
@@ -357,12 +353,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding source routing and segment routing
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/understanding-source-routing-and-segment-routing?u=76281980)
+#### [Understanding source routing and segment routing](https://www.linkedin.com/learning/mpls-segment-routing/understanding-source-routing-and-segment-routing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/understanding-source-routing-and-segment-routing?u=76281980&t=0)** - [Instructor] In this session, we will learn about source routing and segment routing.
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/understanding-source-routing-and-segment-routing?u=76281980&t=0)** - [Instructor] In this session, we will learn about source [[Routing]] and segment routing.
 >
 > **[0:05](https://www.linkedin.com/learning/mpls-segment-routing/understanding-source-routing-and-segment-routing?u=76281980&t=5)** We will explore the fundamentals of these routing techniques, their segment types, and how they operate within a network.
 >
@@ -408,11 +403,11 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/mpls-segment-routing/understanding-source-routing-and-segment-routing?u=76281980&t=172)** This means that the packet will always follow the predefined path through that specific link, providing precise control over the packet's route.
 >
-> **[3:02](https://www.linkedin.com/learning/mpls-segment-routing/understanding-source-routing-and-segment-routing?u=76281980&t=182)** Adjacency segments are particularly useful for traffic engineering, allowing network operators to manage and optimize the flow of traffic through a specific path.
+> **[3:02](https://www.linkedin.com/learning/mpls-segment-routing/understanding-source-routing-and-segment-routing?u=76281980&t=182)** Adjacency segments are particularly useful for [[Traffic Engineering]], allowing network operators to manage and optimize the flow of traffic through a specific path.
 >
 > **[3:12](https://www.linkedin.com/learning/mpls-segment-routing/understanding-source-routing-and-segment-routing?u=76281980&t=192)** This is crucial in scenarios where certain links need to be used for load balancing or to ensure quality of service.
 >
-> **[3:20](https://www.linkedin.com/learning/mpls-segment-routing/understanding-source-routing-and-segment-routing?u=76281980&t=200)** Segment routing can operate over different forwarding planes, primarily MPLS, multiprotocol label switching, and IPv6.
+> **[3:20](https://www.linkedin.com/learning/mpls-segment-routing/understanding-source-routing-and-segment-routing?u=76281980&t=200)** Segment routing can operate over different forwarding planes, primarily [[Multiprotocol Label Switching (MPLS)|MPLS]], [[Multiprotocol Label Switching (MPLS)|multiprotocol label switching]], and IPv6.
 >
 > **[3:29](https://www.linkedin.com/learning/mpls-segment-routing/understanding-source-routing-and-segment-routing?u=76281980&t=209)** Each forwarding plane type has its own advantage and use cases.
 >
@@ -426,7 +421,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (17), traffic (5), node (5), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), next (1)
+> **Frameworks & Libraries:** [[Routing]] (17), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), [[Traffic Engineering]] (1), [[Multiprotocol Label Switching (MPLS)|Multiprotocol label switching]] (1)
 > **CLI Commands:** node (5)
 > **Definitions:** is a  (2), known as (1), means that (1)
 > **Env Vars:** mpls (2), igp (1)
@@ -434,12 +429,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Global and local segments, SRGB, and segment advertisements
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/global-and-local-segments-srgb-and-segment-advertisements?u=76281980)
+#### [Global and local segments, SRGB, and segment advertisements](https://www.linkedin.com/learning/mpls-segment-routing/global-and-local-segments-srgb-and-segment-advertisements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/global-and-local-segments-srgb-and-segment-advertisements?u=76281980&t=0)** - [Instructor] In this session, we will cover the key concepts of global segment, local segment, segment routing global block or SRGB, default SRGB, prefix segment advertisement, and adjacency segment advertisement.
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/global-and-local-segments-srgb-and-segment-advertisements?u=76281980&t=0)** - [Instructor] In this session, we will cover the key concepts of global segment, local segment, segment [[Routing]] global block or SRGB, default SRGB, prefix segment advertisement, and adjacency segment advertisement.
 >
 > **[0:16](https://www.linkedin.com/learning/mpls-segment-routing/global-and-local-segments-srgb-and-segment-advertisements?u=76281980&t=16)** Global segment.
 >
@@ -495,19 +489,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (8), node (5), traffic (3)
+> **Frameworks & Libraries:** [[Routing]] (8)
 > **Env Vars:** srgb (9), sid (3), igp (1), ospf (1)
 > **Definitions:** is an  (2), means that (2), is a  (2), defined as (1), known as (1)
 > **CLI Commands:** node (5)
 > **Analogies:** such as (2), for example (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding IGP prefix segment
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/understanding-igp-prefix-segment?u=76281980)
+#### [Understanding IGP prefix segment](https://www.linkedin.com/learning/mpls-segment-routing/understanding-igp-prefix-segment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/understanding-igp-prefix-segment?u=76281980&t=0)** - [Instructor] An IGP or Interior Gateway Protocol prefix segment is a crucial concept in segment routing, enabling efficient and scalable routing within an autonomous system.
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/understanding-igp-prefix-segment?u=76281980&t=0)** - [Instructor] An IGP or Interior Gateway Protocol prefix segment is a crucial concept in segment [[Routing]], enabling efficient and scalable routing within an autonomous system.
 >
 > **[0:12](https://www.linkedin.com/learning/mpls-segment-routing/understanding-igp-prefix-segment?u=76281980&t=12)** The IGP prefix segment ensures that packet follow the shortest path to reach the destination IGP prefix within the network.
 >
@@ -587,20 +580,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Routing]] (3), traffic (2)
+> **Frameworks & Libraries:** [[Routing]] (3)
 > **Env Vars:** igp (15), sid (15), ecmp (1), isis (1), ospf (1)
 > **Versions:** 10.0.5 (3), 10.0.1 (2), 10.0.2 (2), 10.0.3 (2), 10.0.4 (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding IGP adjacency segment
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/understanding-igp-adjacency-segment?u=76281980)
+#### [Understanding IGP adjacency segment](https://www.linkedin.com/learning/mpls-segment-routing/understanding-igp-adjacency-segment?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/understanding-igp-adjacency-segment?u=76281980&t=0)** - [Instructor] In this session, we will cover the concept of IGP Adjacency Segments, their properties, and how they are used in a network.
 >
-> **[0:09](https://www.linkedin.com/learning/mpls-segment-routing/understanding-igp-adjacency-segment?u=76281980&t=9)** In segment routing, an IGP adjacency segment refers to a specific type of segment used to direct packets between directly connected routers.
+> **[0:09](https://www.linkedin.com/learning/mpls-segment-routing/understanding-igp-adjacency-segment?u=76281980&t=9)** In segment [[Routing]], an IGP adjacency segment refers to a specific type of segment used to direct packets between directly connected routers.
 >
 > **[0:19](https://www.linkedin.com/learning/mpls-segment-routing/understanding-igp-adjacency-segment?u=76281980&t=19)** This segment is crucial in defining the exact path that packets should take through the network by leveraging existing IGP protocols like IS-IS or OSPF.
 >
@@ -664,22 +656,21 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/mpls-segment-routing/understanding-igp-adjacency-segment?u=76281980&t=219)** Path definition: Allows for exact control over packet roads by specifying specific adjacencies the packet must follow.
 >
-> **[3:48](https://www.linkedin.com/learning/mpls-segment-routing/understanding-igp-adjacency-segment?u=76281980&t=228)** Versatility: Supports flexible routing methods such as traffic engineering by determining specific hubs along the route.
+> **[3:48](https://www.linkedin.com/learning/mpls-segment-routing/understanding-igp-adjacency-segment?u=76281980&t=228)** Versatility: Supports flexible routing methods such as [[Traffic Engineering]] by determining specific hubs along the route.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (3), traffic (1), next (1), [[Traffic Engineering]] (1)
+> **Frameworks & Libraries:** [[Routing]] (3), [[Traffic Engineering]] (1)
 > **Env Vars:** sid (8), igp (6), ospf (2)
 > **Definitions:** refers to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### SRGB advertisement and index advertisement
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/srgb-advertisement-and-index-advertisement?u=76281980)
+#### [SRGB advertisement and index advertisement](https://www.linkedin.com/learning/mpls-segment-routing/srgb-advertisement-and-index-advertisement?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/srgb-advertisement-and-index-advertisement?u=76281980&t=0)** - [Instructor] In this session, we will explore the concepts of SRGB advertisement and index advertisement, which are crucial for the efficient operation of segment routing networks.
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/srgb-advertisement-and-index-advertisement?u=76281980&t=0)** - [Instructor] In this session, we will explore the concepts of SRGB advertisement and index advertisement, which are crucial for the efficient operation of segment [[Routing]] networks.
 >
 > **[0:12](https://www.linkedin.com/learning/mpls-segment-routing/srgb-advertisement-and-index-advertisement?u=76281980&t=12)** First, let's learn about SRGB advertisements.
 >
@@ -793,7 +784,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (8), data (1), management (1)
+> **Frameworks & Libraries:** [[Routing]] (8)
 > **Env Vars:** srgb (22), sid (5), lfib (3), ospf (2), igp (1)
 > **Versions:** 5.5.5 (8)
 > **Analogies:** for example (3)
@@ -801,16 +792,15 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Label switching database (LSD)
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/label-switching-database-lsd?u=76281980)
+#### [Label switching database (LSD)](https://www.linkedin.com/learning/mpls-segment-routing/label-switching-database-lsd?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/label-switching-database-lsd?u=76281980&t=0)** - [Instructor] Welcome to this video on the label switching database or LSD and its role in segment routing.
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/label-switching-database-lsd?u=76281980&t=0)** - [Instructor] Welcome to this video on the label switching database or LSD and its role in segment [[Routing]].
 >
 > **[0:07](https://www.linkedin.com/learning/mpls-segment-routing/label-switching-database-lsd?u=76281980&t=7)** Let's dive into how LSD manages label allocations and preserves the segment routing global block or SRGB label range.
 >
-> **[0:16](https://www.linkedin.com/learning/mpls-segment-routing/label-switching-database-lsd?u=76281980&t=16)** Most MPLS applications use label dynamically allocated by LSD.
+> **[0:16](https://www.linkedin.com/learning/mpls-segment-routing/label-switching-database-lsd?u=76281980&t=16)** Most [[Multiprotocol Label Switching (MPLS)|MPLS]] applications use label dynamically allocated by LSD.
 >
 > **[0:21](https://www.linkedin.com/learning/mpls-segment-routing/label-switching-database-lsd?u=76281980&t=21)** These applications include LDP, RSVP, L2VPN, BGP, LU and VPN, IS-IS adjacency SID, OSPF adjacency SID, TE binding SID.
 >
@@ -874,7 +864,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (10), [[Multiprotocol Label Switching (MPLS)|Mpls]] (5), database (1), vpn (1)
+> **Frameworks & Libraries:** [[Routing]] (10), [[Multiprotocol Label Switching (MPLS)|Mpls]] (5)
 > **Env Vars:** lsd (16), srgb (16), mpls (5), ospf (4), ldp (3)
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (1)
@@ -884,12 +874,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### IS-IS segment routing configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/is-is-segment-routing-configuration?u=76281980)
+#### [IS-IS segment routing configuration](https://www.linkedin.com/learning/mpls-segment-routing/is-is-segment-routing-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/is-is-segment-routing-configuration?u=76281980&t=0)** - [Instructor] In this video, we will delve into configuring segment routing, or SR, using IS-IS on IOS XR.
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/is-is-segment-routing-configuration?u=76281980&t=0)** - [Instructor] In this video, we will delve into configuring segment [[Routing]], or SR, using IS-IS on IOS XR.
 >
 > **[0:07](https://www.linkedin.com/learning/mpls-segment-routing/is-is-segment-routing-configuration?u=76281980&t=7)** Segment routing can utilize either IS-IS or OSVF as its interior gateway port, or IGP.
 >
@@ -943,7 +932,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/mpls-segment-routing/is-is-segment-routing-configuration?u=76281980&t=305)** Step two, enable segment routing on IS-IS.
 >
-> **[5:09](https://www.linkedin.com/learning/mpls-segment-routing/is-is-segment-routing-configuration?u=76281980&t=309)** Now let's enable segment routing on the IS-IS instance and configure MPLS as the data plane.
+> **[5:09](https://www.linkedin.com/learning/mpls-segment-routing/is-is-segment-routing-configuration?u=76281980&t=309)** Now let's enable segment routing on the IS-IS instance and configure [[Multiprotocol Label Switching (MPLS)|MPLS]] as the data plane.
 >
 > **[5:16](https://www.linkedin.com/learning/mpls-segment-routing/is-is-segment-routing-configuration?u=76281980&t=316)** #router isis TAG, enter IS-IS IS-IS router configuration mode.
 >
@@ -975,7 +964,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (14), [[Multiprotocol Label Switching (MPLS)|Mpls]] (8), data (2), next (1)
+> **Frameworks & Libraries:** [[Routing]] (14), [[Multiprotocol Label Switching (MPLS)|Mpls]] (8)
 > **Env Vars:** arash (8), mpls (3), sid (3), osvf (2), tag (2)
 > **Versions:** 49.0001.0000 (4), 1.1.1 (1), 2.2.2 (1), 3.3.3 (1), 0000.0001.00 (1)
 > **Prerequisites:** configure (6)
@@ -983,12 +972,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### IS-IS segment routing verification
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/is-is-segment-routing-verification?u=76281980)
+#### [IS-IS segment routing verification](https://www.linkedin.com/learning/mpls-segment-routing/is-is-segment-routing-verification?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/is-is-segment-routing-verification?u=76281980&t=0)** - [Instructor] In this session, we will learn how to monitor and verify is-is segment routing.
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/is-is-segment-routing-verification?u=76281980&t=0)** - [Instructor] In this session, we will learn how to monitor and verify is-is segment [[Routing]].
 >
 > **[0:06](https://www.linkedin.com/learning/mpls-segment-routing/is-is-segment-routing-verification?u=76281980&t=6)** The show is-is adjacency detail command in Cisco iOS XR provides detailed information about is-is adjacencies, particularly useful in the context of segment routing.
 >
@@ -1020,7 +1008,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/mpls-segment-routing/is-is-segment-routing-verification?u=76281980&t=122)** is-is will advertise each of these adjacency SIDs to all other routers in the network.
 >
-> **[2:09](https://www.linkedin.com/learning/mpls-segment-routing/is-is-segment-routing-verification?u=76281980&t=129)** This advertisement ensures that each router is aware of the SIDs associated with the adjacencies, facilitating efficient traffic engineering and routing within the segment routing framework.
+> **[2:09](https://www.linkedin.com/learning/mpls-segment-routing/is-is-segment-routing-verification?u=76281980&t=129)** This advertisement ensures that each router is aware of the SIDs associated with the adjacencies, facilitating efficient [[Traffic Engineering]] and routing within the segment routing framework.
 >
 > **[2:23](https://www.linkedin.com/learning/mpls-segment-routing/is-is-segment-routing-verification?u=76281980&t=143)** To verify that the link state of R1, including segment routing information is available in all routers, you can use the show is-is database R1.00-00 verbose command on R1, R2, R3, and R4.
 >
@@ -1088,7 +1076,7 @@ created: 2026-05-02
 >
 > **[6:21](https://www.linkedin.com/learning/mpls-segment-routing/is-is-segment-routing-verification?u=76281980&t=381)** Check LFIB on R2.
 >
-> **[6:23](https://www.linkedin.com/learning/mpls-segment-routing/is-is-segment-routing-verification?u=76281980&t=383)** Use the command show MPLS forwarding table on R2 to verify how the label 16,004 is handled.
+> **[6:23](https://www.linkedin.com/learning/mpls-segment-routing/is-is-segment-routing-verification?u=76281980&t=383)** Use the command show [[Multiprotocol Label Switching (MPLS)|MPLS]] forwarding table on R2 to verify how the label 16,004 is handled.
 >
 > **[6:32](https://www.linkedin.com/learning/mpls-segment-routing/is-is-segment-routing-verification?u=76281980&t=392)** The output will show the label operation and the next top information.
 >
@@ -1126,7 +1114,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (22), next (6), database (3), [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), traffic (1)
+> **Frameworks & Libraries:** [[Routing]] (22), [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), [[Traffic Engineering]] (1)
 > **Env Vars:** sid (20), srgb (9), frr (7), icmp (2), mpls (2)
 > **Versions:** 4.4.4 (3), 10.2.3 (1), 10.3.4 (1)
 > **Definitions:** is a  (3), is an  (1), in other words (1)
@@ -1135,12 +1123,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Prerequisites:** configure (1)
 
-#### OSPF segment routing configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/ospf-segment-routing-configuration?u=76281980)
+#### [OSPF segment routing configuration](https://www.linkedin.com/learning/mpls-segment-routing/ospf-segment-routing-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/ospf-segment-routing-configuration?u=76281980&t=0)** - [Instructor] In this video, we will delve into configuring segment routing or SR using OSPF on IOS XR.
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/ospf-segment-routing-configuration?u=76281980&t=0)** - [Instructor] In this video, we will delve into configuring segment [[Routing]] or SR using OSPF on IOS XR.
 >
 > **[0:08](https://www.linkedin.com/learning/mpls-segment-routing/ospf-segment-routing-configuration?u=76281980&t=8)** We will configure a network with four routers.
 >
@@ -1162,7 +1149,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/mpls-segment-routing/ospf-segment-routing-configuration?u=76281980&t=58)** Enable OSPF.
 >
-> **[1:00](https://www.linkedin.com/learning/mpls-segment-routing/ospf-segment-routing-configuration?u=76281980&t=60)** Enable segment routing with MPLS.
+> **[1:00](https://www.linkedin.com/learning/mpls-segment-routing/ospf-segment-routing-configuration?u=76281980&t=60)** Enable segment routing with [[Multiprotocol Label Switching (MPLS)|MPLS]].
 >
 > **[1:02](https://www.linkedin.com/learning/mpls-segment-routing/ospf-segment-routing-configuration?u=76281980&t=62)** Router OSPF PID.
 >
@@ -1212,7 +1199,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (12), [[Multiprotocol Label Switching (MPLS)|Mpls]] (6), next (1)
+> **Frameworks & Libraries:** [[Routing]] (12), [[Multiprotocol Label Switching (MPLS)|Mpls]] (6)
 > **Env Vars:** ospf (9), arash (4), ios (3), mpls (1), pid (1)
 > **Prerequisites:** configure (5)
 > **Versions:** 1.1.1 (1), 2.2.2 (1), 3.3.3 (1), 4.4.4 (1)
@@ -1220,12 +1207,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### OSPF segment routing verification
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/ospf-segment-routing-verification?u=76281980)
+#### [OSPF segment routing verification](https://www.linkedin.com/learning/mpls-segment-routing/ospf-segment-routing-verification?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/ospf-segment-routing-verification?u=76281980&t=0)** - [Instructor] In this session, we will learn how to monitor and verify OSPF segment routing.
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/ospf-segment-routing-verification?u=76281980&t=0)** - [Instructor] In this session, we will learn how to monitor and verify OSPF segment [[Routing]].
 >
 > **[0:06](https://www.linkedin.com/learning/mpls-segment-routing/ospf-segment-routing-verification?u=76281980&t=6)** The show ospf neighbor command in Cisco IOS XR is used to display information about the OSPF neighbors on a router.
 >
@@ -1275,7 +1261,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/mpls-segment-routing/ospf-segment-routing-verification?u=76281980&t=183)** Label SR, indicates that segment routing or SR labels are being used.
 >
-> **[3:10](https://www.linkedin.com/learning/mpls-segment-routing/ospf-segment-routing-verification?u=76281980&t=190)** Local label 16,004, the local MPLS label assigned to this prefix by the router.
+> **[3:10](https://www.linkedin.com/learning/mpls-segment-routing/ospf-segment-routing-verification?u=76281980&t=190)** Local label 16,004, the local [[Multiprotocol Label Switching (MPLS)|MPLS]] label assigned to this prefix by the router.
 >
 > **[3:18](https://www.linkedin.com/learning/mpls-segment-routing/ospf-segment-routing-verification?u=76281980&t=198)** Label imposed 16,004, the MPLS label that will be imposed or added on packets testing for this prefix.
 >
@@ -1345,7 +1331,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (15), [[Multiprotocol Label Switching (MPLS)|Mpls]] (13), traffic (4), database (4), next (3)
+> **Frameworks & Libraries:** [[Routing]] (15), [[Multiprotocol Label Switching (MPLS)|Mpls]] (13)
 > **Env Vars:** ospf (17), mpls (10), sid (7), ios (3), cef (3)
 > **Versions:** 4.4.4 (3), 2.2.2 (2), 10.2.3 (2), 10.1.2 (1), 1.1.1 (1)
 > **Analogies:** such as (2)
@@ -1358,12 +1344,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Segment routing co-existence with LDP
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-co-existence-with-ldp?u=76281980)
+#### [Segment routing co-existence with LDP](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-co-existence-with-ldp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-co-existence-with-ldp?u=76281980&t=0)** - [Instructor] In this lesson, we will explore segment routing and LDP coexistence.
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-co-existence-with-ldp?u=76281980&t=0)** - [Instructor] In this lesson, we will explore segment [[Routing]] and LDP coexistence.
 >
 > **[0:06](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-co-existence-with-ldp?u=76281980&t=6)** We will begin by examining how segment routing and LDP can coexist in the control plane, then we will delve into how they operate together in the data plane.
 >
@@ -1371,7 +1356,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-co-existence-with-ldp?u=76281980&t=28)** Segment routing and LDP control plane coexistence.
 >
-> **[0:33](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-co-existence-with-ldp?u=76281980&t=33)** The MPLS architecture allows for the concurrent use of multiple label distribution protocols such as LDP, RSVP-TE, and segment routing or SR.
+> **[0:33](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-co-existence-with-ldp?u=76281980&t=33)** The [[Multiprotocol Label Switching (MPLS)|MPLS]] architecture allows for the concurrent use of multiple label distribution protocols such as LDP, RSVP-TE, and segment routing or SR.
 >
 > **[0:45](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-co-existence-with-ldp?u=76281980&t=45)** This capability enables the SR control plane to coexist with other protocols without direct interaction.
 >
@@ -1469,7 +1454,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (17), [[Multiprotocol Label Switching (MPLS)|Mpls]] (8), data (2), next (2), concurrent (1)
+> **Frameworks & Libraries:** [[Routing]] (17), [[Multiprotocol Label Switching (MPLS)|Mpls]] (8)
 > **Env Vars:** ldp (24), srgb (9), mpls (6), sid (3), lfib (3)
 > **Versions:** 1.1.1 (7)
 > **Prerequisites:** configure (2)
@@ -1478,8 +1463,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
 
-#### Simple migration from LDP to Segment routing
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/simple-migration-from-ldp-to-segment-routing?u=76281980)
+#### [Simple migration from LDP to Segment routing](https://www.linkedin.com/learning/mpls-segment-routing/simple-migration-from-ldp-to-segment-routing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1509,7 +1493,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/mpls-segment-routing/simple-migration-from-ldp-to-segment-routing?u=76281980&t=60)** During this stage, the default preference for LDP label imposition remains, meaning LDP labels will still be used for forwarding.
 >
-> **[1:10](https://www.linkedin.com/learning/mpls-segment-routing/simple-migration-from-ldp-to-segment-routing?u=76281980&t=70)** SR will be operational, but LDP will continue to handle label imposition for MPLS traffic as the default protocol.
+> **[1:10](https://www.linkedin.com/learning/mpls-segment-routing/simple-migration-from-ldp-to-segment-routing?u=76281980&t=70)** SR will be operational, but LDP will continue to handle label imposition for [[Multiprotocol Label Switching (MPLS)|MPLS]] traffic as the default protocol.
 >
 > **[1:19](https://www.linkedin.com/learning/mpls-segment-routing/simple-migration-from-ldp-to-segment-routing?u=76281980&t=79)** Step 2, configure PEs to prefer SR labeling position.
 >
@@ -1517,7 +1501,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/mpls-segment-routing/simple-migration-from-ldp-to-segment-routing?u=76281980&t=93)** This can also be done in no particular order.
 >
-> **[1:37](https://www.linkedin.com/learning/mpls-segment-routing/simple-migration-from-ldp-to-segment-routing?u=76281980&t=97)** Using the command segment-routing mpls sr-prefer, you can shift the label preference from LDP two SR for these PE routers.
+> **[1:37](https://www.linkedin.com/learning/mpls-segment-routing/simple-migration-from-ldp-to-segment-routing?u=76281980&t=97)** Using the command segment-[[Routing]] mpls sr-prefer, you can shift the label preference from LDP two SR for these PE routers.
 >
 > **[1:47](https://www.linkedin.com/learning/mpls-segment-routing/simple-migration-from-ldp-to-segment-routing?u=76281980&t=107)** After this step, PEs will impose SR labels rather than LDP labels when forwarding MPLS traffic.
 >
@@ -1537,17 +1521,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), traffic (3), [[Routing]] (3)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), [[Routing]] (3)
 > **Env Vars:** ldp (14), mpls (3)
 > **Prerequisites:** configure (2)
 > **Speakers:** - [instructor] (1)
 
-#### LDP to Segment routing interworking
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/ldp-to-segment-routing-interworking?u=76281980)
+#### [LDP to Segment routing interworking](https://www.linkedin.com/learning/mpls-segment-routing/ldp-to-segment-routing-interworking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/ldp-to-segment-routing-interworking?u=76281980&t=0)** - [Instructor] In this lesson, we will learn about LDP to segment routing interworking.
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/ldp-to-segment-routing-interworking?u=76281980&t=0)** - [Instructor] In this lesson, we will learn about LDP to segment [[Routing]] interworking.
 >
 > **[0:05](https://www.linkedin.com/learning/mpls-segment-routing/ldp-to-segment-routing-interworking?u=76281980&t=5)** Let's start with the scenario involving five routers to explain how LDP and SR can work together seamlessly.
 >
@@ -1609,7 +1592,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/mpls-segment-routing/ldp-to-segment-routing-interworking?u=76281980&t=188)** After R3 forwards the labeled packet to R4 with the SR label 16,005, R4 checks its LFIB and sees that the label 16,005 corresponds to the destination 1.1.1.5/32.
 >
-> **[3:26](https://www.linkedin.com/learning/mpls-segment-routing/ldp-to-segment-routing-interworking?u=76281980&t=206)** R4 performs a PHP or penultimate hop popping operation, meaning it pops the label 16,005.
+> **[3:26](https://www.linkedin.com/learning/mpls-segment-routing/ldp-to-segment-routing-interworking?u=76281980&t=206)** R4 performs a [[PHP]] or penultimate hop popping operation, meaning it pops the label 16,005.
 >
 > **[3:34](https://www.linkedin.com/learning/mpls-segment-routing/ldp-to-segment-routing-interworking?u=76281980&t=214)** The packet is now label-free and is forwarded to R5.
 >
@@ -1625,20 +1608,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (3), node (3), next (3), [[PHP]] (1)
+> **Frameworks & Libraries:** [[Routing]] (3), [[PHP]] (1)
 > **Env Vars:** ldp (22), lfib (2), sid (2), srgb (1), fib (1)
 > **Versions:** 1.1.1 (9)
 > **CLI Commands:** node (3), php (1)
 > **Speakers:** - [instructor] (1)
 
-#### Segment routing to LDP interworking
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-to-ldp-interworking?u=76281980)
+#### [Segment routing to LDP interworking](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-to-ldp-interworking?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-to-ldp-interworking?u=76281980&t=0)** - [Instructor] In this lesson we will learn about SR to LDP interworking.
 >
-> **[0:05](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-to-ldp-interworking?u=76281980&t=5)** Let's use an example involving five routers to understand how segment routing or SR and LDP Interwork.
+> **[0:05](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-to-ldp-interworking?u=76281980&t=5)** Let's use an example involving five routers to understand how segment [[Routing]] or SR and LDP Interwork.
 >
 > **[0:13](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-to-ldp-interworking?u=76281980&t=13)** We have five routers, R1, R2, R3, R4 and R5.
 >
@@ -1674,7 +1656,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-to-ldp-interworking?u=76281980&t=127)** In our example, the mapping server advertises prefix SID index five for the prefix one, 1.1.1.5/32 on behalf of R5.
 >
-> **[2:18](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-to-ldp-interworking?u=76281980&t=138)** R1, R2 and R3 the segment routing nodes use the mapping to install the segment routing MPLS forwarding entry in their LFIB.
+> **[2:18](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-to-ldp-interworking?u=76281980&t=138)** R1, R2 and R3 the segment routing nodes use the mapping to install the segment routing [[Multiprotocol Label Switching (MPLS)|MPLS]] forwarding entry in their LFIB.
 >
 > **[2:28](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-to-ldp-interworking?u=76281980&t=148)** When a packet testing for 1.1.1.5 is received by R1, it is forwarded with the prefix SID label 16005.
 >
@@ -1718,7 +1700,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (8), node (3), [[Multiprotocol Label Switching (MPLS)|Mpls]] (1), next (1)
+> **Frameworks & Libraries:** [[Routing]] (8), [[Multiprotocol Label Switching (MPLS)|Mpls]] (1)
 > **Env Vars:** ldp (16), sid (8), lfib (2), srgb (1), mpls (1)
 > **Versions:** 1.1.1 (11)
 > **CLI Commands:** node (3)
@@ -1726,12 +1708,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Segment routing over LDP interworking
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-over-ldp-interworking?u=76281980)
+#### [Segment routing over LDP interworking](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-over-ldp-interworking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-over-ldp-interworking?u=76281980&t=0)** - [Instructor] In this lesson, we will explore Segment Routing or SR over LDP interworking using a six-router network.
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-over-ldp-interworking?u=76281980&t=0)** - [Instructor] In this lesson, we will explore Segment [[Routing]] or SR over LDP interworking using a six-router network.
 >
 > **[0:08](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-over-ldp-interworking?u=76281980&t=8)** We will discuss two conditions, one for a prefix in the SR domain and one for a prefix in the LDP domain.
 >
@@ -1829,7 +1810,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (4), traffic (2), node (1), next (1)
+> **Frameworks & Libraries:** [[Routing]] (4)
 > **Env Vars:** ldp (31), sid (11), srl (4), srgb (1), igp (1)
 > **Versions:** 1.1.1 (16)
 > **Definitions:** is an  (4)
@@ -1838,12 +1819,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### LDP over segment routing interworking
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/ldp-over-segment-routing-interworking?u=76281980)
+#### [LDP over segment routing interworking](https://www.linkedin.com/learning/mpls-segment-routing/ldp-over-segment-routing-interworking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/ldp-over-segment-routing-interworking?u=76281980&t=0)** - [Instructor] In this lesson, we will explore LDP over Segment Routing, or SR Interworking, using an example with five routers, R1, R2, R3, R4, and R5.
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/ldp-over-segment-routing-interworking?u=76281980&t=0)** - [Instructor] In this lesson, we will explore LDP over Segment [[Routing]], or SR Interworking, using an example with five routers, R1, R2, R3, R4, and R5.
 >
 > **[0:12](https://www.linkedin.com/learning/mpls-segment-routing/ldp-over-segment-routing-interworking?u=76281980&t=12)** In our topology, R1 is an LDP-only router.
 >
@@ -1937,7 +1917,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (4), traffic (2), node (1)
+> **Frameworks & Libraries:** [[Routing]] (4)
 > **Env Vars:** ldp (37), sid (7), lfib (3), igp (1), fib (1)
 > **Versions:** 5.5.5 (7), 4.4.4 (6)
 > **Definitions:** is an  (6)
@@ -1951,8 +1931,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Classic loop free alternate (LFA)
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/classic-loop-free-alternate-lfa?u=76281980)
+#### [Classic loop free alternate (LFA)](https://www.linkedin.com/learning/mpls-segment-routing/classic-loop-free-alternate-lfa?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1974,7 +1953,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/mpls-segment-routing/classic-loop-free-alternate-lfa?u=76281980&t=52)** R4 is connected to the destination network.
 >
-> **[0:55](https://www.linkedin.com/learning/mpls-segment-routing/classic-loop-free-alternate-lfa?u=76281980&t=55)** The network uses an IGP, or interior gateway protocol, like OSPF or IS-IS to populate the routing tables.
+> **[0:55](https://www.linkedin.com/learning/mpls-segment-routing/classic-loop-free-alternate-lfa?u=76281980&t=55)** The network uses an IGP, or interior gateway protocol, like OSPF or IS-IS to populate the [[Routing]] tables.
 >
 > **[1:05](https://www.linkedin.com/learning/mpls-segment-routing/classic-loop-free-alternate-lfa?u=76281980&t=65)** Path selection and primary route.
 >
@@ -2034,19 +2013,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (5), [[Routing]] (3), data (1), next (1)
+> **Frameworks & Libraries:** [[Routing]] (3)
 > **Env Vars:** lfa (18), frr (10), igp (6), ospf (1)
 > **UI Navigation:** switch to (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### TI-LFA for link protection
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-for-link-protection?u=76281980)
+#### [TI-LFA for link protection](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-for-link-protection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-for-link-protection?u=76281980&t=0)** - [Instructor] In the previous lesson, we discussed classic loop-free alternate or LFA and its limitations, including transient congestion and suboptimal routing.
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-for-link-protection?u=76281980&t=0)** - [Instructor] In the previous lesson, we discussed classic loop-free alternate or LFA and its limitations, including transient congestion and suboptimal [[Routing]].
 >
 > **[0:11](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-for-link-protection?u=76281980&t=11)** Today, we will explore topology-dependent loop-free alternate or TI-LFA, which resolves these issues by providing 100% link and node protection with sub 50 millisecond reroute time.
 >
@@ -2102,7 +2080,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-for-link-protection?u=76281980&t=235)** By design, this approach eliminates transient congestion and provides seamless rerouting without sacrificing optimality.
 >
-> **[4:04](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-for-link-protection?u=76281980&t=244)** TI-LFA, especially with segment routing, is a powerful tool for enhancing network resiliency.
+> **[4:04](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-for-link-protection?u=76281980&t=244)** TI-LFA, especially with segment routing, is a powerful tool for enhancing network [[Resiliency]].
 >
 > **[4:11](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-for-link-protection?u=76281980&t=251)** It not only ensures fast failover within 50 millisecond, but also guarantees loop-free rerouting through segment lists.
 >
@@ -2112,7 +2090,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (9), traffic (4), node (1), data (1), [[Resiliency]] (1)
+> **Frameworks & Libraries:** [[Routing]] (9), [[Resiliency]] (1)
 > **Env Vars:** lfa (14), igp (2), ospf (1), process (1), tag (1)
 > **Versions:** 4.4.4 (3), 10.1.3 (1)
 > **Cross-References:** we discussed (1), in the next (1)
@@ -2121,8 +2099,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### TI-LFA for node protection
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-for-node-protection?u=76281980)
+#### [TI-LFA for node protection](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-for-node-protection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2174,7 +2151,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-for-node-protection?u=76281980&t=216)** Q node: node 4.4.4.4 with label 24002 where Q node indicates a node reached via an adjacency SID or adjacency segment ID The label 24002 is the adjacency SID for the link to 4.4.4.4.
 >
-> **[3:58](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-for-node-protection?u=76281980&t=238)** This structure shows the backup path using specific segment routing identifiers, prefix SID for nodes and adjacency SID For direct adjacencies.
+> **[3:58](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-for-node-protection?u=76281980&t=238)** This structure shows the backup path using specific segment [[Routing]] identifiers, prefix SID for nodes and adjacency SID For direct adjacencies.
 >
 > **[4:10](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-for-node-protection?u=76281980&t=250)** Link protection may also provide guaranteed node protection.
 >
@@ -2188,7 +2165,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (17), next (3), traffic (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **CLI Commands:** node (17)
 > **Env Vars:** lfa (6), igp (4), sid (4), arash (2), ospf (1)
 > **Versions:** 4.4.4 (6), 0.0.0 (2), node 3 (1), 3.3.3 (1), node 4 (1)
@@ -2197,8 +2174,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### TI-LFA with SRLG
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-with-srlg?u=76281980)
+#### [TI-LFA with SRLG](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-with-srlg?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2268,7 +2244,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), feature (1), node (1), next (1)
 > **Env Vars:** srlg (16), lfa (9), int_name (1), index (1), srlg_value (1)
 > **Prerequisites:** configure (3), setup (1)
 > **Analogies:** for instance (1), imagine (1), for example (1)
@@ -2276,9 +2251,9 @@ created: 2026-05-02
 > **Versions:** 4.4.4 (2)
 > **Definitions:** is a  (2)
 > **SQL:** index (1)
+> **Cross-References:** in the next (1)
 
-#### TI-LFA preference
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-preference?u=76281980)
+#### [TI-LFA preference](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-preference?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2342,7 +2317,7 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-preference?u=76281980&t=287)** This example shows that SRLG has a higher preference than link protection.
 >
-> **[4:53](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-preference?u=76281980&t=293)** SRLG considers common failure domains and offers protection at a higher level of resiliency.
+> **[4:53](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-preference?u=76281980&t=293)** SRLG considers common failure domains and offers protection at a higher level of [[Resiliency]].
 >
 > **[5:01](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-preference?u=76281980&t=301)** This preference hierarchy means that TI-LFA link protection has the lowest priority when compared to TI-LFA node protection and SRLG, providing basic backup for link failures unless a shared risk is identified.
 >
@@ -2386,7 +2361,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (24), traffic (5), next (3), feature (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Resiliency]] (1)
 > **Env Vars:** srlg (26), lfa (10), igp (10), igo (1)
 > **CLI Commands:** node (24), find (2)
 > **Versions:** 4.4.4 (5)
@@ -2395,8 +2370,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### TI-LFA for LDP traffic
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-for-ldp-traffic?u=76281980)
+#### [TI-LFA for LDP traffic](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-for-ldp-traffic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2412,7 +2386,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-for-ldp-traffic?u=76281980&t=47)** This delay can disrupt applications relying on the network.
 >
-> **[0:52](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-for-ldp-traffic?u=76281980&t=52)** To improve convergence, we enable segment routing or SR on the core routers R1, R2, R3, and R4 while keeping LDP on the PE routers R5 and R6.
+> **[0:52](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-for-ldp-traffic?u=76281980&t=52)** To improve convergence, we enable segment [[Routing]] or SR on the core routers R1, R2, R3, and R4 while keeping LDP on the PE routers R5 and R6.
 >
 > **[1:05](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-for-ldp-traffic?u=76281980&t=65)** With TI-LFA enabled on R1's interface, if the primary link between R1 and R2 fails, the traffic will automatically switch to an alternative path, the bottom path, within 50 milliseconds.
 >
@@ -2424,17 +2398,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **Env Vars:** ldp (5), lfa (4), igp (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### TI-LFA wrap-up
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-wrap-up?u=76281980)
+#### [TI-LFA wrap-up](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-wrap-up?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-wrap-up?u=76281980&t=0)** - [Instructor] We have covered the essential of Topology-Independent Loop-Free Alternate, or TI-LFA, an advanced mechanism in segment routing that ensures quick, reliable failover paths for both link and node protection, all within a 50 milliseconds recovery timeframe.
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-wrap-up?u=76281980&t=0)** - [Instructor] We have covered the essential of Topology-Independent Loop-Free Alternate, or TI-LFA, an advanced mechanism in segment [[Routing]] that ensures quick, reliable failover paths for both link and node protection, all within a 50 milliseconds recovery timeframe.
 >
 > **[0:20](https://www.linkedin.com/learning/mpls-segment-routing/ti-lfa-wrap-up?u=76281980&t=20)** TI-LFA delivers 100% coverage by offering both link and node protection, preventing any gaps in failover, which is especially critical in high-demand networks.
 >
@@ -2482,7 +2455,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (6), traffic (6), node (3)
+> **Frameworks & Libraries:** [[Routing]] (6)
 > **Env Vars:** lfa (11), igp (3), ldp (1), sid (1), srlg (1)
 > **CLI Commands:** node (3)
 > **Analogies:** imagine (1), such as (1)
@@ -2495,12 +2468,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Segment routing traffic engineering (SR-TE) overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-traffic-engineering-sr-te-overview?u=76281980)
+#### [Segment routing traffic engineering (SR-TE) overview](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-traffic-engineering-sr-te-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-traffic-engineering-sr-te-overview?u=76281980&t=0)** - [Instructor] Welcome to this session on Segment Routing Traffic Engineering or SR-TE.
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-traffic-engineering-sr-te-overview?u=76281980&t=0)** - [Instructor] Welcome to this session on Segment [[Routing]] [[Traffic Engineering]] or SR-TE.
 >
 > **[0:06](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-traffic-engineering-sr-te-overview?u=76281980&t=6)** In this lesson, we will explore how SR-TE enables network operators to define paths for traffic flow in a way that meets specific requirements, such as lower costs or minimal delays.
 >
@@ -2572,7 +2544,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (11), node (7), [[Routing]] (2), [[Traffic Engineering]] (2), next (1)
+> **Frameworks & Libraries:** [[Routing]] (2), [[Traffic Engineering]] (2)
 > **CLI Commands:** node (7)
 > **Versions:** node 4 (3), node 1 (2), 1.1.1 (1), 2.2.2 (1)
 > **Analogies:** such as (3)
@@ -2581,12 +2553,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### SR-TE policy with an explicit path
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-policy-with-an-explicit-path?u=76281980)
+#### [SR-TE policy with an explicit path](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-policy-with-an-explicit-path?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-policy-with-an-explicit-path?u=76281980&t=0)** - [Instructor] In this lesson, we are diving into SR-TE policies with explicit paths unlocking how to take full control over your traffic flow In segment routing traffic engineering, an SR policy is a structured path through the network used to direct traffic according to a specified requirements.
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-policy-with-an-explicit-path?u=76281980&t=0)** - [Instructor] In this lesson, we are diving into SR-TE policies with explicit paths unlocking how to take full control over your traffic flow In segment [[Routing]] [[Traffic Engineering]], an SR policy is a structured path through the network used to direct traffic according to a specified requirements.
 >
 > **[0:22](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-policy-with-an-explicit-path?u=76281980&t=22)** An SR policy can consist of one or more candidate paths, or Cpaths, which are options for reaching a destination.
 >
@@ -2616,7 +2587,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-policy-with-an-explicit-path?u=76281980&t=136)** This is the path with preference 100, and it defines an explicit set of hubs from R1 to the destination via a specific intermediate routers.
 >
-> **[2:27](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-policy-with-an-explicit-path?u=76281980&t=147)** Segment list name R12436, index 10 mpls label 16,002, index 20 mpls label 16,004, index 30 mpls label 16,003, index 40 mpls label 16,006.
+> **[2:27](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-policy-with-an-explicit-path?u=76281980&t=147)** Segment list name R12436, index 10 [[Multiprotocol Label Switching (MPLS)|mpls]] label 16,002, index 20 mpls label 16,004, index 30 mpls label 16,003, index 40 mpls label 16,006.
 >
 > **[2:49](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-policy-with-an-explicit-path?u=76281980&t=169)** Segment list R12536.
 >
@@ -2710,7 +2681,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (13), [[Multiprotocol Label Switching (MPLS)|Mpls]] (10), [[Routing]] (4), [[Traffic Engineering]] (4)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (10), [[Routing]] (4), [[Traffic Engineering]] (4)
 > **Env Vars:** sid (5), r12436 (3), rib (2), fib (2), r12536 (2)
 > **Versions:** 6.6.6 (8)
 > **Definitions:** is a  (3)
@@ -2719,12 +2690,11 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using adjacency SID in SR-TE with explicit method
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/using-adjacency-sid-in-sr-te-with-explicit-method?u=76281980)
+#### [Using adjacency SID in SR-TE with explicit method](https://www.linkedin.com/learning/mpls-segment-routing/using-adjacency-sid-in-sr-te-with-explicit-method?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/using-adjacency-sid-in-sr-te-with-explicit-method?u=76281980&t=0)** - [Narrator] In this video, we will discuss the need to use adjacency SIDs in segment routing, traffic engineering, or SRT when employing the explicit method for traffic steering.
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/using-adjacency-sid-in-sr-te-with-explicit-method?u=76281980&t=0)** - [Narrator] In this video, we will discuss the need to use adjacency SIDs in segment [[Routing]], [[Traffic Engineering]], or SRT when employing the explicit method for traffic steering.
 >
 > **[0:12](https://www.linkedin.com/learning/mpls-segment-routing/using-adjacency-sid-in-sr-te-with-explicit-method?u=76281980&t=12)** The explicit method in SRT allows us to define a specific path for our traffic to follow, giving us more control over how package travels the network.
 >
@@ -2756,7 +2726,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/mpls-segment-routing/using-adjacency-sid-in-sr-te-with-explicit-method?u=76281980&t=113)** Segment list green, index one.
 >
-> **[1:55](https://www.linkedin.com/learning/mpls-segment-routing/using-adjacency-sid-in-sr-te-with-explicit-method?u=76281980&t=115)** These points to the MPLS label 16,002, which may represent the first segment of R traffic path.
+> **[1:55](https://www.linkedin.com/learning/mpls-segment-routing/using-adjacency-sid-in-sr-te-with-explicit-method?u=76281980&t=115)** These points to the [[Multiprotocol Label Switching (MPLS)|MPLS]] label 16,002, which may represent the first segment of R traffic path.
 >
 > **[2:03](https://www.linkedin.com/learning/mpls-segment-routing/using-adjacency-sid-in-sr-te-with-explicit-method?u=76281980&t=123)** Index two.
 >
@@ -2794,19 +2764,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (11), [[Multiprotocol Label Switching (MPLS)|Mpls]] (6), [[Routing]] (3), [[Traffic Engineering]] (2), management (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (6), [[Routing]] (3), [[Traffic Engineering]] (2)
 > **Env Vars:** sid (7), mpls (6), srt (4)
 > **Versions:** 4.4.4 (1)
 > **UI Navigation:** switch to (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding SR-TE policy binding SID
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/understanding-sr-te-policy-binding-sid?u=76281980)
+#### [Understanding SR-TE policy binding SID](https://www.linkedin.com/learning/mpls-segment-routing/understanding-sr-te-policy-binding-sid?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/understanding-sr-te-policy-binding-sid?u=76281980&t=0)** - [Instructor] In this lesson, we are going to explore an essential concept in Segment Routing Traffic Engineering or SRT.
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/understanding-sr-te-policy-binding-sid?u=76281980&t=0)** - [Instructor] In this lesson, we are going to explore an essential concept in Segment [[Routing]] [[Traffic Engineering]] or SRT.
 >
 > **[0:07](https://www.linkedin.com/learning/mpls-segment-routing/understanding-sr-te-policy-binding-sid?u=76281980&t=7)** The binding segment identifier or binding SID.
 >
@@ -2828,7 +2797,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/mpls-segment-routing/understanding-sr-te-policy-binding-sid?u=76281980&t=73)** Simplification: By consolidating a policy into one identifier, you make complex SRT policies simpler to apply and manage.
 >
-> **[1:23](https://www.linkedin.com/learning/mpls-segment-routing/understanding-sr-te-policy-binding-sid?u=76281980&t=83)** Scalability: Binding SIDs allow you to create and manage more flexible, scalable networks.
+> **[1:23](https://www.linkedin.com/learning/mpls-segment-routing/understanding-sr-te-policy-binding-sid?u=76281980&t=83)** [[Scalability]]: Binding SIDs allow you to create and manage more flexible, scalable networks.
 >
 > **[1:32](https://www.linkedin.com/learning/mpls-segment-routing/understanding-sr-te-policy-binding-sid?u=76281980&t=92)** You can group policies and easily reference paths without reconfiguring individual paths.
 >
@@ -2840,7 +2809,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/mpls-segment-routing/understanding-sr-te-policy-binding-sid?u=76281980&t=121)** When you assign a binding SID to this policy, any traffic sent to that binding SID will automatically follow the specified SRT policy paths.
 >
-> **[2:12](https://www.linkedin.com/learning/mpls-segment-routing/understanding-sr-te-policy-binding-sid?u=76281980&t=132)** This single binding SID is treated like an MPLS label or an identifier that represents the entire path for that policy.
+> **[2:12](https://www.linkedin.com/learning/mpls-segment-routing/understanding-sr-te-policy-binding-sid?u=76281980&t=132)** This single binding SID is treated like an [[Multiprotocol Label Switching (MPLS)|MPLS]] label or an identifier that represents the entire path for that policy.
 >
 > **[2:22](https://www.linkedin.com/learning/mpls-segment-routing/understanding-sr-te-policy-binding-sid?u=76281980&t=142)** In this configuration, we have assigned Policy1 a binding SID of MPLS label 1000.
 >
@@ -2860,7 +2829,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (8), [[Traffic Engineering]] (2), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), [[Routing]] (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Traffic Engineering]] (2), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), [[Routing]] (1), [[Scalability]] (1)
 > **Env Vars:** sid (15), srt (9), mpls (2), sids (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** think of it as (1), imagine (1)
@@ -2869,12 +2838,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Segment routing traffic engineering (SR-TE) dynamic path
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-traffic-engineering-sr-te-dynamic-path?u=76281980)
+#### [Segment routing traffic engineering (SR-TE) dynamic path](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-traffic-engineering-sr-te-dynamic-path?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-traffic-engineering-sr-te-dynamic-path?u=76281980&t=0)** - [Instructor] In this lesson, we learn how segment routing traffic engineering, or SR-TE Dynamic Path enables network to dynamically adapt to changing conditions and always choose the most optimized path.
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-traffic-engineering-sr-te-dynamic-path?u=76281980&t=0)** - [Instructor] In this lesson, we learn how segment [[Routing]] [[Traffic Engineering]], or SR-TE Dynamic Path enables network to dynamically adapt to changing conditions and always choose the most optimized path.
 >
 > **[0:14](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-traffic-engineering-sr-te-dynamic-path?u=76281980&t=14)** SR-TE Dynamic Path allows the head end router to compute the best route based on defined objectives, such as minimizing hop count, cost or delay, while respecting constraints like bandwidth or avoiding specific links.
 >
@@ -2882,7 +2850,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-traffic-engineering-sr-te-dynamic-path?u=76281980&t=34)** A sequence of segment identifiers that guide packets through the desired route in the network.
 >
-> **[0:41](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-traffic-engineering-sr-te-dynamic-path?u=76281980&t=41)** If network conditions change, such as a link failure or increased congestion, the headend recalculates the past in real-time, ensuring performance and resiliency without manual intervention.
+> **[0:41](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-traffic-engineering-sr-te-dynamic-path?u=76281980&t=41)** If network conditions change, such as a link failure or increased congestion, the headend recalculates the past in [[Real-Time]], ensuring performance and [[Resiliency]] without manual intervention.
 >
 > **[0:54](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-traffic-engineering-sr-te-dynamic-path?u=76281980&t=54)** In more complex scenarios, such as multi-domain or multi-area networks, where the headend lags full visibility of the topology, the task of past computation can be delegated to a past computation element or PCE.
 >
@@ -2904,7 +2872,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-traffic-engineering-sr-te-dynamic-path?u=76281980&t=138)** If the network change like link failures or topology updates, the path is recomputed automatically.
 >
-> **[2:26](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-traffic-engineering-sr-te-dynamic-path?u=76281980&t=146)** Scalability, unlike traditional MPLST, SRT does not require maintaining a state for every path in intermediate routers.
+> **[2:26](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-traffic-engineering-sr-te-dynamic-path?u=76281980&t=146)** [[Scalability]], unlike traditional MPLST, SRT does not require maintaining a state for every path in intermediate routers.
 >
 > **[2:36](https://www.linkedin.com/learning/mpls-segment-routing/segment-routing-traffic-engineering-sr-te-dynamic-path?u=76281980&t=156)** The SID list is computed at the source and carried in the packet header.
 >
@@ -2930,20 +2898,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), [[Traffic Engineering]] (2), [[Routing]] (1), [[Real-Time]] (1), [[Resiliency]] (1)
+> **Frameworks & Libraries:** [[Traffic Engineering]] (2), [[Routing]] (1), [[Real-Time]] (1), [[Resiliency]] (1), [[Scalability]] (1)
 > **Env Vars:** sid (3), pce (2), igp (2), ospf (2), isis (2)
 > **Analogies:** such as (4)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### SR-TE dynamic path based on metric-type hop count
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-dynamic-path-based-on-metric-type-hop-count?u=76281980)
+#### [SR-TE dynamic path based on metric-type hop count](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-dynamic-path-based-on-metric-type-hop-count?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-dynamic-path-based-on-metric-type-hop-count?u=76281980&t=0)** - [Instructor] In this video, we learn about implementing SR-TE dynamic path based on metric-type hop count.
 >
-> **[0:08](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-dynamic-path-based-on-metric-type-hop-count?u=76281980&t=8)** You will see how segment routing traffic engineering adapts dynamically to select the most efficient path based on hop count, ensuring optimized traffic flow.
+> **[0:08](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-dynamic-path-based-on-metric-type-hop-count?u=76281980&t=8)** You will see how segment [[Routing]] [[Traffic Engineering]] adapts dynamically to select the most efficient path based on hop count, ensuring optimized traffic flow.
 >
 > **[0:20](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-dynamic-path-based-on-metric-type-hop-count?u=76281980&t=20)** We will explore a scenario with five routers to demonstrate how SR-TE works.
 >
@@ -2991,7 +2958,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-dynamic-path-based-on-metric-type-hop-count?u=76281980&t=141)** In this case, it's the loopback address of R5, 5.5.5.5 The SR policy will calculate paths that direct traffic toward this endpoint.
 >
-> **[2:33](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-dynamic-path-based-on-metric-type-hop-count?u=76281980&t=153)** Binding-sid mpls 1000.
+> **[2:33](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-dynamic-path-based-on-metric-type-hop-count?u=76281980&t=153)** Binding-sid [[Multiprotocol Label Switching (MPLS)|mpls]] 1000.
 >
 > **[2:36](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-dynamic-path-based-on-metric-type-hop-count?u=76281980&t=156)** The binding SID or segment identifier is an MPLS label, 1000 in this case, that represents the SR policy.
 >
@@ -3051,7 +3018,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (9), [[Routing]] (5), [[Traffic Engineering]] (4), database (2), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2)
+> **Frameworks & Libraries:** [[Routing]] (5), [[Traffic Engineering]] (4), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2)
 > **Versions:** 5.5.5 (5)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** sid (2), mpls (1)
@@ -3060,12 +3027,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### SR-TE dynamic path based on metric-type IGP or TE
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-dynamic-path-based-on-metric-type-igp-or-te?u=76281980)
+#### [SR-TE dynamic path based on metric-type IGP or TE](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-dynamic-path-based-on-metric-type-igp-or-te?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-dynamic-path-based-on-metric-type-igp-or-te?u=76281980&t=0)** - [Instructor] In this lesson, we explore how segment routing traffic engineering, or SR-TE, can be configured to use different paths based on metric type IGP and metric type TE in a network with five routers, R1, R2, R3, R4, and R5.
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-dynamic-path-based-on-metric-type-igp-or-te?u=76281980&t=0)** - [Instructor] In this lesson, we explore how segment [[Routing]] [[Traffic Engineering]], or SR-TE, can be configured to use different paths based on metric type IGP and metric type TE in a network with five routers, R1, R2, R3, R4, and R5.
 >
 > **[0:18](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-dynamic-path-based-on-metric-type-igp-or-te?u=76281980&t=18)** We have two paths from R1 to R5.
 >
@@ -3089,7 +3055,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-dynamic-path-based-on-metric-type-igp-or-te?u=76281980&t=81)** end-point ipv4 5.5.5.5 sets the destination endpoint for the SR policy as R5's loopback address.
 >
-> **[1:31](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-dynamic-path-based-on-metric-type-igp-or-te?u=76281980&t=91)** binding-sid mpls 1000 reserves MPLS binding SID 1000 for this policy.
+> **[1:31](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-dynamic-path-based-on-metric-type-igp-or-te?u=76281980&t=91)** binding-sid [[Multiprotocol Label Switching (MPLS)|mpls]] 1000 reserves MPLS binding SID 1000 for this policy.
 >
 > **[1:40](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-dynamic-path-based-on-metric-type-igp-or-te?u=76281980&t=100)** candidate-paths defines possible path for the policy.
 >
@@ -3139,18 +3105,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (11), [[Routing]] (6), [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), [[Traffic Engineering]] (2), next (1)
+> **Frameworks & Libraries:** [[Routing]] (6), [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), [[Traffic Engineering]] (2)
 > **Env Vars:** igp (7), mpls (2), sid (2)
 > **Versions:** 5.5.5 (9)
 > **Prerequisites:** configure (2)
 > **Speakers:** - [instructor] (1)
 
-#### Constraints in dynamic segment routing traffic engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/constraints-in-dynamic-segment-routing-traffic-engineering?u=76281980)
+#### [Constraints in dynamic segment routing traffic engineering](https://www.linkedin.com/learning/mpls-segment-routing/constraints-in-dynamic-segment-routing-traffic-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/constraints-in-dynamic-segment-routing-traffic-engineering?u=76281980&t=0)** - [Instructor] Dynamic Segment Routing traffic engineering, or SRT, allows networks to dynamically calculate and optimize traffic paths based on specific requirements or constraints.
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/constraints-in-dynamic-segment-routing-traffic-engineering?u=76281980&t=0)** - [Instructor] Dynamic Segment [[Routing]] [[Traffic Engineering]], or SRT, allows networks to dynamically calculate and optimize traffic paths based on specific requirements or constraints.
 >
 > **[0:12](https://www.linkedin.com/learning/mpls-segment-routing/constraints-in-dynamic-segment-routing-traffic-engineering?u=76281980&t=12)** Constraints are rules that determine whether a particular path can be used.
 >
@@ -3200,7 +3165,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/mpls-segment-routing/constraints-in-dynamic-segment-routing-traffic-engineering?u=76281980&t=186)** Here's how we define the policy.
 >
-> **[3:09](https://www.linkedin.com/learning/mpls-segment-routing/constraints-in-dynamic-segment-routing-traffic-engineering?u=76281980&t=189)** Policy P1, color 20 end-point ipv4 5.5.5.5, binding-sid mpls 1000, candidate-paths, preference 100, dynamic, metric type igp, exit.
+> **[3:09](https://www.linkedin.com/learning/mpls-segment-routing/constraints-in-dynamic-segment-routing-traffic-engineering?u=76281980&t=189)** Policy P1, color 20 end-point ipv4 5.5.5.5, binding-sid [[Multiprotocol Label Switching (MPLS)|mpls]] 1000, candidate-paths, preference 100, dynamic, metric type igp, exit.
 >
 > **[3:27](https://www.linkedin.com/learning/mpls-segment-routing/constraints-in-dynamic-segment-routing-traffic-engineering?u=76281980&t=207)** And here is the important part.
 >
@@ -3234,7 +3199,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (7), traffic (5), [[Traffic Engineering]] (2), next (2), [[Multiprotocol Label Switching (MPLS)|Mpls]] (1)
+> **Frameworks & Libraries:** [[Routing]] (7), [[Traffic Engineering]] (2), [[Multiprotocol Label Switching (MPLS)|Mpls]] (1)
 > **Env Vars:** srt (3), green (3), igp (2)
 > **Prerequisites:** configure (2), set up (1)
 > **Versions:** 5.5.5 (2)
@@ -3248,8 +3213,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SR-TE automatic traffic steering with BGP
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-automatic-traffic-steering-with-bgp?u=76281980)
+#### [SR-TE automatic traffic steering with BGP](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-automatic-traffic-steering-with-bgp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3257,7 +3221,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-automatic-traffic-steering-with-bgp?u=76281980&t=11)** Imagine a service provider network with two customers, red and orange.
 >
-> **[0:16](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-automatic-traffic-steering-with-bgp?u=76281980&t=16)** Both customers have two sites, site one and site two, and we want to control how traffic flows between their sites using segment routing traffic engineering, or SRT.
+> **[0:16](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-automatic-traffic-steering-with-bgp?u=76281980&t=16)** Both customers have two sites, site one and site two, and we want to control how traffic flows between their sites using segment [[Routing]] [[Traffic Engineering]], or SRT.
 >
 > **[0:29](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-automatic-traffic-steering-with-bgp?u=76281980&t=29)** The goal is simple.
 >
@@ -3349,15 +3313,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (15), [[Routing]] (1), [[Traffic Engineering]] (1), power (1)
+> **Frameworks & Libraries:** [[Routing]] (1), [[Traffic Engineering]] (1)
 > **Env Vars:** bgp (7), srt (7), red (4), orange (3), set_color (2)
 > **Versions:** 5.5.5 (4), 7.7.7 (4), 9.9.9 (4)
 > **Prerequisites:** configure (2), set up (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### SR-TE on demand nexthop (ODN)
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-on-demand-nexthop-odn?u=76281980)
+#### [SR-TE on demand nexthop (ODN)](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-on-demand-nexthop-odn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3383,13 +3346,13 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-on-demand-nexthop-odn?u=76281980&t=76)** Color 20 for TE optimized path.
 >
-> **[1:20](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-on-demand-nexthop-odn?u=76281980&t=80)** Segment-routing.
+> **[1:20](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-on-demand-nexthop-odn?u=76281980&t=80)** Segment-[[Routing]].
 >
 > **[1:21](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-on-demand-nexthop-odn?u=76281980&t=81)** This command enables segment routing, or SR, on the device.
 >
 > **[1:26](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-on-demand-nexthop-odn?u=76281980&t=86)** traffic-engineering.
 >
-> **[1:27](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-on-demand-nexthop-odn?u=76281980&t=87)** This enables traffic engineering, or TE, which provides more granular control over the path selection process based on various factors like bandwidth, delay, or other criteria.
+> **[1:27](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-on-demand-nexthop-odn?u=76281980&t=87)** This enables [[Traffic Engineering]], or TE, which provides more granular control over the path selection process based on various factors like bandwidth, delay, or other criteria.
 >
 > **[1:41](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-on-demand-nexthop-odn?u=76281980&t=101)** on-demand color 10.
 >
@@ -3403,7 +3366,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-on-demand-nexthop-odn?u=76281980&t=122)** This keyword indicates that the ODN is dynamic, meaning it is not statically defined but can change based on network conditions.
 >
-> **[2:12](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-on-demand-nexthop-odn?u=76281980&t=132)** The dynamic setting ensures that the traffic path will adjust automatically based on real-time routing information.
+> **[2:12](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-on-demand-nexthop-odn?u=76281980&t=132)** The dynamic setting ensures that the traffic path will adjust automatically based on [[Real-Time]] routing information.
 >
 > **[2:20](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-on-demand-nexthop-odn?u=76281980&t=140)** metric type igp.
 >
@@ -3417,7 +3380,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-on-demand-nexthop-odn?u=76281980&t=169)** Here, color 20 will be used to steer traffic based on the traffic engineering, or TE, metric.
 >
-> **[2:55](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-on-demand-nexthop-odn?u=76281980&t=175)** This allows the network to choose the path with the best TE metric, which typically accounts for factors like available bandwidth, latency, and other performance metrics beyond just IGP.
+> **[2:55](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-on-demand-nexthop-odn?u=76281980&t=175)** This allows the network to choose the path with the best TE metric, which typically accounts for factors like available bandwidth, latency, and other [[Performance Metrics]] beyond just IGP.
 >
 > **[3:10](https://www.linkedin.com/learning/mpls-segment-routing/sr-te-on-demand-nexthop-odn?u=76281980&t=190)** dynamic.
 >
@@ -3461,17 +3424,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (17), [[Routing]] (6), next (3), [[Traffic Engineering]] (3), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Routing]] (6), [[Traffic Engineering]] (3), [[Real-Time]] (1), [[Performance Metrics]] (1)
 > **Env Vars:** igp (15), odn (5), bgp (3), sla (2), ospf (1)
 > **Prerequisites:** configure (2)
 > **Speakers:** - [instructor] (1)
 
-#### Multi-domain ODN with path computation element (PCE)
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/multi-domain-odn-with-path-computation-element-pce?u=76281980)
+#### [Multi-domain ODN with path computation element (PCE)](https://www.linkedin.com/learning/mpls-segment-routing/multi-domain-odn-with-path-computation-element-pce?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/multi-domain-odn-with-path-computation-element-pce?u=76281980&t=0)** - [Instructor] In this lesson, we will explore the concept of Segment Routing Traffic Engineering or SRT in a multi-domain environment using the on-demand next hop or ODN model with Path Computation Element or PCE.
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/multi-domain-odn-with-path-computation-element-pce?u=76281980&t=0)** - [Instructor] In this lesson, we will explore the concept of Segment [[Routing]] [[Traffic Engineering]] or SRT in a multi-domain environment using the on-demand next hop or ODN model with Path Computation Element or PCE.
 >
 > **[0:15](https://www.linkedin.com/learning/mpls-segment-routing/multi-domain-odn-with-path-computation-element-pce?u=76281980&t=15)** We will also discuss the Path Computation Element Protocol or PCEP and use a practical example to tie everything together.
 >
@@ -3557,7 +3519,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/mpls-segment-routing/multi-domain-odn-with-path-computation-element-pce?u=76281980&t=278)** Centralized path computation reduces the complexity of configuring and managing SR policies manually.
 >
-> **[4:46](https://www.linkedin.com/learning/mpls-segment-routing/multi-domain-odn-with-path-computation-element-pce?u=76281980&t=286)** Scalability.
+> **[4:46](https://www.linkedin.com/learning/mpls-segment-routing/multi-domain-odn-with-path-computation-element-pce?u=76281980&t=286)** [[Scalability]].
 >
 > **[4:47](https://www.linkedin.com/learning/mpls-segment-routing/multi-domain-odn-with-path-computation-element-pce?u=76281980&t=287)** PCE supports large scale deployments by uploading path computation from individual routers.
 >
@@ -3567,7 +3529,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (6), [[Traffic Engineering]] (4), data (2), [[Routing]] (1), next (1)
+> **Frameworks & Libraries:** [[Traffic Engineering]] (4), [[Routing]] (1), [[Scalability]] (1)
 > **Env Vars:** pce (18), sid (11), pcep (7), srt (6), pcc (4)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -3579,12 +3541,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-segment-routing/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/mpls-segment-routing/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/next-steps?u=76281980&t=0)** - [Arash] Congratulations on successfully completing the MPLS Segment Routing course.
+> **[0:00](https://www.linkedin.com/learning/mpls-segment-routing/next-steps?u=76281980&t=0)** - [Arash] Congratulations on successfully completing the [[Multiprotocol Label Switching (MPLS)|MPLS]] Segment [[Routing]] course.
 >
 > **[0:06](https://www.linkedin.com/learning/mpls-segment-routing/next-steps?u=76281980&t=6)** You have worked hard, and I'm excited to see your progress and dedication to mastering this powerful networking technology.
 >
@@ -3594,7 +3555,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/mpls-segment-routing/next-steps?u=76281980&t=31)** A great next step, as SRv6 is rapidly becoming a critical part of modern networking.
 >
-> **[0:38](https://www.linkedin.com/learning/mpls-segment-routing/next-steps?u=76281980&t=38)** It leverages the power of IPv6 to further enhance scalability and efficiency.
+> **[0:38](https://www.linkedin.com/learning/mpls-segment-routing/next-steps?u=76281980&t=38)** It leverages the power of IPv6 to further enhance [[Scalability]] and efficiency.
 >
 > **[0:45](https://www.linkedin.com/learning/mpls-segment-routing/next-steps?u=76281980&t=45)** Advanced Segment Routing.
 >
@@ -3608,7 +3569,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (4), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), next (2), power (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Routing]] (4), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), [[Scalability]] (1)
 > **Env Vars:** mpls (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [arash] (1)

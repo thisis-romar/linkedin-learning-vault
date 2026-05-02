@@ -75,14 +75,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sustainability is part of everybody's job
-> [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-is-part-of-everybody-s-job?u=76281980)
+#### [Sustainability is part of everybody's job](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-is-part-of-everybody-s-job?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-is-part-of-everybody-s-job?u=76281980&t=0)** - Believe it or not, it was a trash can like this that started my journey into employee engagement for sustainability.
+> **[0:00](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-is-part-of-everybody-s-job?u=76281980&t=0)** - Believe it or not, it was a trash can like this that started my journey into employee engagement for [[Sustainability]].
 >
-> **[0:07](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-is-part-of-everybody-s-job?u=76281980&t=7)** As a Microsoft worker at the corporate headquarters, I saw dozens of them every day overflowing with single-use plastics, so I decided to do something about it.
+> **[0:07](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-is-part-of-everybody-s-job?u=76281980&t=7)** As a [[Microsoft]] worker at the corporate headquarters, I saw dozens of them every day overflowing with single-use plastics, so I decided to do something about it.
 >
 > **[0:17](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-is-part-of-everybody-s-job?u=76281980&t=17)** A colleague and I banded together and convinced Microsoft to pilot a first-of-its-kind zero waste cafeteria.
 >
@@ -94,7 +93,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-is-part-of-everybody-s-job?u=76281980&t=42)** Hi, I'm Drew Wilkinson and my mission is to make sustainability part of everybody's job.
 >
-> **[0:47](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-is-part-of-everybody-s-job?u=76281980&t=47)** Because to address climate change, organizations have to engage their entire workforce in their sustainability efforts, regardless of job title or past experience.
+> **[0:47](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-is-part-of-everybody-s-job?u=76281980&t=47)** Because to address [[Climate Change]], organizations have to engage their entire workforce in their sustainability efforts, regardless of job title or past experience.
 >
 > **[0:59](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-is-part-of-everybody-s-job?u=76281980&t=59)** In this course, you'll learn how to do just that.
 >
@@ -107,8 +106,7 @@ created: 2026-05-02
 > **Speakers:** - believe (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### How I made sustainability part of my job
-> [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-i-made-sustainability-part-of-my-job?u=76281980)
+#### [How I made sustainability part of my job](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-i-made-sustainability-part-of-my-job?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -118,11 +116,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-i-made-sustainability-part-of-my-job?u=76281980&t=8)** Let me share how I got involved in this work and why it means so much to me.
 >
-> **[0:12](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-i-made-sustainability-part-of-my-job?u=76281980&t=12)** I unexpectedly joined Microsoft in 2016, and I found myself in an environment like nothing I had ever encountered before.
+> **[0:12](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-i-made-sustainability-part-of-my-job?u=76281980&t=12)** I unexpectedly joined [[Microsoft]] in 2016, and I found myself in an environment like nothing I had ever encountered before.
 >
 > **[0:20](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-i-made-sustainability-part-of-my-job?u=76281980&t=20)** It was a bit disorienting, given my unconventional background, think mosh pits, nonprofit work, and the deck of a rusted old boat manned by eco pirates, but I quickly saw the opportunity.
 >
-> **[0:32](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-i-made-sustainability-part-of-my-job?u=76281980&t=32)** Microsoft had a tremendous amount of resources, and if even a fraction of them could be directed towards tackling climate change, the impact could be huge.
+> **[0:32](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-i-made-sustainability-part-of-my-job?u=76281980&t=32)** Microsoft had a tremendous amount of resources, and if even a fraction of them could be directed towards tackling [[Climate Change]], the impact could be huge.
 >
 > **[0:41](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-i-made-sustainability-part-of-my-job?u=76281980&t=41)** So I started asking questions.
 >
@@ -132,7 +130,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-i-made-sustainability-part-of-my-job?u=76281980&t=52)** From there, we formed a small meetup group in Seattle to connect with like-minded colleagues.
 >
-> **[0:57](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-i-made-sustainability-part-of-my-job?u=76281980&t=57)** That group eventually grew into the company's first employee sustainability community with 10,000 members in 40 chapters around the world.
+> **[0:57](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-i-made-sustainability-part-of-my-job?u=76281980&t=57)** That group eventually grew into the company's first employee [[Sustainability]] community with 10,000 members in 40 chapters around the world.
 >
 > **[1:06](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-i-made-sustainability-part-of-my-job?u=76281980&t=66)** It secured executive sponsorship from the company's chief sustainability officer, and was made a central part of the company's sustainability strategy.
 >
@@ -158,24 +156,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (7), [[Microsoft]] (4), [[Climate Change]] (2), career (1), leadership (1)
+> **Frameworks & Libraries:** [[Sustainability]] (7), [[Microsoft]] (4), [[Climate Change]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - what (1)
 
-#### Defining employee engagement for sustainability
-> [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/defining-employee-engagement-for-sustainability?u=76281980)
+#### [Defining employee engagement for sustainability](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/defining-employee-engagement-for-sustainability?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/defining-employee-engagement-for-sustainability?u=76281980&t=0)** - Let's start with some basic definitions.
 >
-> **[0:03](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/defining-employee-engagement-for-sustainability?u=76281980&t=3)** Sustainability, this word means a lot of different things, depending on who you ask.
+> **[0:03](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/defining-employee-engagement-for-sustainability?u=76281980&t=3)** [[Sustainability]], this [[Microsoft Word|word]] means a lot of different things, depending on who you ask.
 >
 > **[0:07](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/defining-employee-engagement-for-sustainability?u=76281980&t=7)** But for the purposes of this course, when I say sustainability, I mean to create and maintain the conditions for humans and nature to coexist for present and future generations.
 >
 > **[0:18](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/defining-employee-engagement-for-sustainability?u=76281980&t=18)** I like this definition because it's simple, but all encompassing.
 >
-> **[0:22](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/defining-employee-engagement-for-sustainability?u=76281980&t=22)** Second, anthropogenic climate change.
+> **[0:22](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/defining-employee-engagement-for-sustainability?u=76281980&t=22)** Second, anthropogenic [[Climate Change]].
 >
 > **[0:25](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/defining-employee-engagement-for-sustainability?u=76281980&t=25)** This refers to changes to Earth's climate caused by human activities, particularly the burning of fossil fuels, deforestation, and industrial processes which release greenhouse gases, like carbon dioxide into the atmosphere.
 >
@@ -215,7 +212,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (8), [[Climate Change]] (3), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Sustainability]] (8), [[Climate Change]] (3), [[Microsoft Word|Word]] (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** refers to (1)
 > **Analogies:** think of it like (1)
@@ -227,8 +224,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Employee engagement for sustainability: Expanding the circle
-> [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-expanding-the-circle?u=76281980)
+#### [Employee engagement for sustainability: Expanding the circle](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-expanding-the-circle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -238,17 +234,17 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-expanding-the-circle?u=76281980&t=5)** Now open them.
 >
-> **[0:07](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-expanding-the-circle?u=76281980&t=7)** Notice how you react to these words.
+> **[0:07](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-expanding-the-circle?u=76281980&t=7)** Notice how you [[React.js|react]] to these words.
 >
-> **[0:09](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-expanding-the-circle?u=76281980&t=9)** What comes to mind when you read that phrase, "climate change?"
+> **[0:09](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-expanding-the-circle?u=76281980&t=9)** What comes to mind when you read that phrase, "[[Climate Change]]?"
 >
 > **[0:13](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-expanding-the-circle?u=76281980&t=13)** What do you feel in your body?
 >
-> **[0:15](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-expanding-the-circle?u=76281980&t=15)** And which word do you find yourself emphasizing, "climate" or "change?"
+> **[0:15](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-expanding-the-circle?u=76281980&t=15)** And which [[Microsoft Word|word]] do you find yourself emphasizing, "climate" or "change?"
 >
 > **[0:20](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-expanding-the-circle?u=76281980&t=20)** I often find myself focusing on the change part because my work has proven to me, time and again, that to change everything, we need everyone.
 >
-> **[0:29](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-expanding-the-circle?u=76281980&t=29)** But in most organizations, full-time sustainability roles make up less than 1% of the overall workforce.
+> **[0:29](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-expanding-the-circle?u=76281980&t=29)** But in most organizations, full-time [[Sustainability]] roles make up less than 1% of the overall workforce.
 >
 > **[0:37](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-expanding-the-circle?u=76281980&t=37)** These workers are tasked with measuring the organization's environmental footprint, identifying cost-effective and non-disruptive ways to reduce it, and influencing its supply chain and end consumers to do the same.
 >
@@ -294,23 +290,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (8), [[Climate Change]] (3), [[React.js|React]] (2), [[Microsoft Word|Word]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (8), [[Climate Change]] (3), [[React.js|React]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (1), imagine (1)
 > **Speakers:** - let (1)
 
-#### Employee engagement for sustainability: The talent shortage
-> [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-the-talent-shortage?u=76281980)
+#### [Employee engagement for sustainability: The talent shortage](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-the-talent-shortage?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-the-talent-shortage?u=76281980&t=0)** - Imagine if 26% of your potential workforce wouldn't even consider working for you regardless of your pay and benefits.
 >
-> **[0:10](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-the-talent-shortage?u=76281980&t=10)** Why, because sustainability is their top non-negotiable when considering an employer.
+> **[0:10](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-the-talent-shortage?u=76281980&t=10)** Why, because [[Sustainability]] is their top non-negotiable when considering an employer.
 >
-> **[0:15](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-the-talent-shortage?u=76281980&t=15)** Environmental sustainability is now a competitive differentiator for talent.
+> **[0:15](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-the-talent-shortage?u=76281980&t=15)** [[Environmental Sustainability]] is now a competitive differentiator for talent.
 >
-> **[0:20](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-the-talent-shortage?u=76281980&t=20)** If companies want to hire, attract, and retain the best and brightest, they will not only have to get serious about addressing climate change, they will have to create opportunities for their entire workforce to contribute in a meaningful way regardless of job title or past experience.
+> **[0:20](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-the-talent-shortage?u=76281980&t=20)** If companies want to hire, attract, and retain the best and brightest, they will not only have to get serious about addressing [[Climate Change]], they will have to create opportunities for their entire workforce to contribute in a meaningful way regardless of job title or past experience.
 >
 > **[0:36](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-the-talent-shortage?u=76281980&t=36)** Demographics are changing and so are the expectations placed on companies by their employees.
 >
@@ -324,7 +319,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-the-talent-shortage?u=76281980&t=73)** Companies are now expected to create jobs, improve society, and reduce their harm on the environment simultaneously.
 >
-> **[1:20](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-the-talent-shortage?u=76281980&t=80)** This is commonly referred to as the triple bottom line, and recent research from LinkedIn shows another trend.
+> **[1:20](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-the-talent-shortage?u=76281980&t=80)** This is commonly referred to as the triple bottom line, and recent research from [[LinkedIn]] shows another trend.
 >
 > **[1:26](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-the-talent-shortage?u=76281980&t=86)** Demand for qualified green talent is already growing twice as quickly as supply.
 >
@@ -346,17 +341,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (2), [[Climate Change]] (2), [[Environmental Sustainability]] (1), [[LinkedIn]] (1), management (1)
+> **Frameworks & Libraries:** [[Sustainability]] (2), [[Climate Change]] (2), [[Environmental Sustainability]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
-#### Employee engagement for sustainability: Avoiding risks
-> [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-avoiding-risks?u=76281980)
+#### [Employee engagement for sustainability: Avoiding risks](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-avoiding-risks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-avoiding-risks?u=76281980&t=0)** - Climate change can elicit strong reactions and complex feelings.
+> **[0:00](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-avoiding-risks?u=76281980&t=0)** - [[Climate Change]] can elicit strong reactions and complex feelings.
 >
 > **[0:04](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-avoiding-risks?u=76281980&t=4)** After all, we're talking about natural disasters, mass extinctions, and real suffering that impacts people's everyday lives and future plans.
 >
@@ -364,7 +358,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-avoiding-risks?u=76281980&t=20)** It's how a company responds that matters.
 >
-> **[0:23](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-avoiding-risks?u=76281980&t=23)** Those reactions can create real risks for organizations that fail to engage employees in sustainability.
+> **[0:23](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-avoiding-risks?u=76281980&t=23)** Those reactions can create real risks for organizations that fail to engage employees in [[Sustainability]].
 >
 > **[0:29](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/employee-engagement-for-sustainability-avoiding-risks?u=76281980&t=29)** Workplace activism can tarnish a company's reputation, shareholder resolutions can disrupt business plans, and customer boycotts can tank sales.
 >
@@ -408,7 +402,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (6), business (2), management (2), [[Climate Change]] (1), power (1)
+> **Frameworks & Libraries:** [[Sustainability]] (6), [[Climate Change]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - climate (1)
 
@@ -417,12 +411,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The virtuous cycle of employee engagement
-> [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/the-virtuous-cycle-of-employee-engagement?u=76281980)
+#### [The virtuous cycle of employee engagement](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/the-virtuous-cycle-of-employee-engagement?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/the-virtuous-cycle-of-employee-engagement?u=76281980&t=0)** - So who is responsible for engaging employees in sustainability?
+> **[0:00](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/the-virtuous-cycle-of-employee-engagement?u=76281980&t=0)** - So who is responsible for engaging employees in [[Sustainability]]?
 >
 > **[0:04](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/the-virtuous-cycle-of-employee-engagement?u=76281980&t=4)** Company leaders?
 >
@@ -466,11 +459,11 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/the-virtuous-cycle-of-employee-engagement?u=76281980&t=101)** They are a powerful and necessary part of engaging employees, because they bring alignment and validity to the work.
 >
-> **[1:48](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/the-virtuous-cycle-of-employee-engagement?u=76281980&t=108)** In terms of drawbacks, top-down initiatives tend to be slower, more bureaucratic, and less agile than bottom-up, but they also are more durable and long lasting.
+> **[1:48](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/the-virtuous-cycle-of-employee-engagement?u=76281980&t=108)** In terms of drawbacks, top-down initiatives tend to be slower, more bureaucratic, and less [[Agile Development|agile]] than bottom-up, but they also are more durable and long lasting.
 >
 > **[1:58](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/the-virtuous-cycle-of-employee-engagement?u=76281980&t=118)** Bottom-up refers to unofficial or grassroots initiatives by employees to engage themselves in sustainability.
 >
-> **[2:05](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/the-virtuous-cycle-of-employee-engagement?u=76281980&t=125)** These efforts are usually driven by volunteers and often take the form of an employee sustainability community, commonly known as a green team like the one I started at Microsoft.
+> **[2:05](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/the-virtuous-cycle-of-employee-engagement?u=76281980&t=125)** These efforts are usually driven by volunteers and often take the form of an employee sustainability community, commonly known as a green team like the one I started at [[Microsoft]].
 >
 > **[2:15](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/the-virtuous-cycle-of-employee-engagement?u=76281980&t=135)** When a company is slow to engage its workforce top-down, employees may start the work themselves.
 >
@@ -514,15 +507,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (12), hr (2), [[Agile Development|Agile]] (2), [[Microsoft]] (2), business (2)
+> **Frameworks & Libraries:** [[Sustainability]] (12), [[Agile Development|Agile]] (2), [[Microsoft]] (2)
 > **Definitions:** is a  (3), refers to (2), known as (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** cso (1), ceo (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - so (1)
 
-#### How to educate employees to engage with sustainability
-> [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-educate-employees-to-engage-with-sustainability?u=76281980)
+#### [How to educate employees to engage with sustainability](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-educate-employees-to-engage-with-sustainability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -530,7 +522,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-educate-employees-to-engage-with-sustainability?u=76281980&t=7)** It provides everyone with two things, a shared language and a better idea of where to focus their efforts.
 >
-> **[0:14](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-educate-employees-to-engage-with-sustainability?u=76281980&t=14)** Education on sustainability is an ongoing journey for everyone that requires a learn-it-all mindset.
+> **[0:14](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-educate-employees-to-engage-with-sustainability?u=76281980&t=14)** Education on [[Sustainability]] is an ongoing journey for everyone that requires a learn-it-all mindset.
 >
 > **[0:20](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-educate-employees-to-engage-with-sustainability?u=76281980&t=20)** This is in contrast to a know-it-all mindset.
 >
@@ -546,7 +538,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-educate-employees-to-engage-with-sustainability?u=76281980&t=63)** Here's how I started.
 >
-> **[1:05](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-educate-employees-to-engage-with-sustainability?u=76281980&t=65)** At Microsoft, my colleagues and I leveraged the green team I co-founded to advocate for the creation of an official sustainability training program.
+> **[1:05](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-educate-employees-to-engage-with-sustainability?u=76281980&t=65)** At [[Microsoft]], my colleagues and I leveraged the green team I co-founded to advocate for the creation of an official sustainability training program.
 >
 > **[1:13](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-educate-employees-to-engage-with-sustainability?u=76281980&t=73)** We presented our case to the chief sustainability officer and HR department, and it paid off.
 >
@@ -558,7 +550,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-educate-employees-to-engage-with-sustainability?u=76281980&t=103)** Over time, employees added to this top-down training and self-organized to create all kinds of on-demand educational resources from how to plant pollinator gardens to subgroups fighting wildlife poaching.
 >
-> **[1:55](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-educate-employees-to-engage-with-sustainability?u=76281980&t=115)** Community members hosted monthly calls with sustainability professionals to show all the different ways people could work on climate change and curated educational guides for sustainability upskilling and certification opportunities outside the company.
+> **[1:55](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-educate-employees-to-engage-with-sustainability?u=76281980&t=115)** Community members hosted monthly calls with sustainability professionals to show all the different ways people could work on [[Climate Change]] and curated educational guides for sustainability upskilling and certification opportunities outside the company.
 >
 > **[2:08](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-educate-employees-to-engage-with-sustainability?u=76281980&t=128)** This is a good example of bottom-up efforts aligning well with top-down ones to help educate employees.
 >
@@ -566,7 +558,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-educate-employees-to-engage-with-sustainability?u=76281980&t=140)** The first is understanding the causes, effects, and solutions for climate change.
 >
-> **[2:25](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-educate-employees-to-engage-with-sustainability?u=76281980&t=145)** Employees need to zoom out from their companies and look at the big picture, you know, the planet-sized view, in order to orient themselves in the problem.
+> **[2:25](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-educate-employees-to-engage-with-sustainability?u=76281980&t=145)** Employees need to [[Zoom]] out from their companies and look at the big picture, you know, the planet-sized view, in order to orient themselves in the problem.
 >
 > **[2:33](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-educate-employees-to-engage-with-sustainability?u=76281980&t=153)** The good news about this building block is that it's universal and freely accessible.
 >
@@ -616,7 +608,7 @@ created: 2026-05-02
 >
 > **[5:07](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-educate-employees-to-engage-with-sustainability?u=76281980&t=307)** They also create special opportunities for peer-to-peer education.
 >
-> **[5:12](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-educate-employees-to-engage-with-sustainability?u=76281980&t=312)** Companies can also leverage existing communication channels, like monthly newsletters or town hall events, to encourage dialogue with employees about sustainability.
+> **[5:12](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-educate-employees-to-engage-with-sustainability?u=76281980&t=312)** Companies can also leverage existing communication channels, like monthly [[Newsletters]] or town hall events, to encourage dialogue with employees about sustainability.
 >
 > **[5:21](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-educate-employees-to-engage-with-sustainability?u=76281980&t=321)** Remember, communication means listening just as much as speaking.
 >
@@ -624,14 +616,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (21), [[Climate Change]] (6), [[Microsoft]] (2), business (2), management (2)
+> **Frameworks & Libraries:** [[Sustainability]] (21), [[Climate Change]] (6), [[Microsoft]] (2), [[Zoom]] (1), [[Newsletters]] (1)
 > **Definitions:** is an  (2), is a  (2)
 > **Analogies:** picture (1), for example (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - although (1)
 
-#### How to inspire employees to engage with sustainability
-> [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-inspire-employees-to-engage-with-sustainability?u=76281980)
+#### [How to inspire employees to engage with sustainability](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-inspire-employees-to-engage-with-sustainability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -649,13 +640,13 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-inspire-employees-to-engage-with-sustainability?u=76281980&t=25)** This is especially important because people need to understand how to move from abstract concepts, and data to real life examples and applications.
 >
-> **[0:35](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-inspire-employees-to-engage-with-sustainability?u=76281980&t=35)** It's one thing to say, make sustainability part of everybody's job, but quite another to find relatable examples of how your colleagues have actually done it.
+> **[0:35](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-inspire-employees-to-engage-with-sustainability?u=76281980&t=35)** It's one thing to say, make [[Sustainability]] part of everybody's job, but quite another to find relatable examples of how your colleagues have actually done it.
 >
-> **[0:44](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-inspire-employees-to-engage-with-sustainability?u=76281980&t=44)** One of my favorite examples of employee driven inspiration during my time at Microsoft was for Earth Day, hundreds of employees came together to create role specific sustainability guides, offering a set of daily practices that anyone could adopt.
+> **[0:44](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-inspire-employees-to-engage-with-sustainability?u=76281980&t=44)** One of my favorite examples of employee driven inspiration during my time at [[Microsoft]] was for Earth Day, hundreds of employees came together to create role specific sustainability guides, offering a set of daily practices that anyone could adopt.
 >
 > **[0:59](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-inspire-employees-to-engage-with-sustainability?u=76281980&t=59)** The outcome was a comprehensive list of crowdsourced resources, featuring tangible steps for over 10 common job roles, ranging from project managers to software engineers and designers.
 >
-> **[1:11](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-inspire-employees-to-engage-with-sustainability?u=76281980&t=71)** These guides inspired thousands of employees to take action on climate change in their own work, while also sharing that knowledge outside the company, creating a ripple effect of positivity beyond Microsoft.
+> **[1:11](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-inspire-employees-to-engage-with-sustainability?u=76281980&t=71)** These guides inspired thousands of employees to take action on [[Climate Change]] in their own work, while also sharing that knowledge outside the company, creating a ripple effect of positivity beyond Microsoft.
 >
 > **[1:22](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-inspire-employees-to-engage-with-sustainability?u=76281980&t=82)** Here are some quick tips on how you can inspire employees to contribute.
 >
@@ -685,13 +676,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (4), [[Microsoft]] (3), next (1), data (1), [[Climate Change]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (4), [[Microsoft]] (3), [[Climate Change]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - take (1)
 
-#### How to activate employees to engage with sustainability
-> [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-activate-employees-to-engage-with-sustainability?u=76281980)
+#### [How to activate employees to engage with sustainability](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-activate-employees-to-engage-with-sustainability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -703,9 +693,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-activate-employees-to-engage-with-sustainability?u=76281980&t=20)** Activation is essential because it generates the momentum that drives the entire cycle forward.
 >
-> **[0:26](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-activate-employees-to-engage-with-sustainability?u=76281980&t=26)** Activation can take many forms from educating your colleagues to changing a structure or process or speaking up publicly.
+> **[0:26](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-activate-employees-to-engage-with-sustainability?u=76281980&t=26)** Activation can take many [[Forms]] from educating your colleagues to changing a structure or process or speaking up publicly.
 >
-> **[0:34](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-activate-employees-to-engage-with-sustainability?u=76281980&t=34)** So let me share three real world examples of how different employees have gotten active in sustainability efforts at work.
+> **[0:34](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-activate-employees-to-engage-with-sustainability?u=76281980&t=34)** So let me share three real world examples of how different employees have gotten active in [[Sustainability]] efforts at work.
 >
 > **[0:41](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-activate-employees-to-engage-with-sustainability?u=76281980&t=41)** First, utilizing data for sustainability.
 >
@@ -741,7 +731,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-activate-employees-to-engage-with-sustainability?u=76281980&t=146)** They can also accelerate culture change and increase innovation, cooperation, and efficiency across the company.
 >
-> **[2:34](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-activate-employees-to-engage-with-sustainability?u=76281980&t=154)** At Microsoft, we started our employee sustainability community with just two people, but grew it to more than 10,000 members in five years.
+> **[2:34](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-activate-employees-to-engage-with-sustainability?u=76281980&t=154)** At [[Microsoft]], we started our employee sustainability community with just two people, but grew it to more than 10,000 members in five years.
 >
 > **[2:43](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/how-to-activate-employees-to-engage-with-sustainability?u=76281980&t=163)** You never know until you try.
 >
@@ -765,14 +755,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (9), data (2), [[Forms]] (1), leadership (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (9), [[Forms]] (1), [[Microsoft]] (1)
 > **Env Vars:** aka (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - with (1)
 
-#### Challenge: Create a virtuous cycle in your organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/challenge-create-a-virtuous-cycle-in-your-organization?u=76281980)
+#### [Challenge: Create a virtuous cycle in your organization](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/challenge-create-a-virtuous-cycle-in-your-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -784,7 +773,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/challenge-create-a-virtuous-cycle-in-your-organization?u=76281980&t=16)** From there, you can figure out how you want to help make it happen.
 >
-> **[0:19](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/challenge-create-a-virtuous-cycle-in-your-organization?u=76281980&t=19)** Download the exercise file titled Creating a Virtuous Cycle for Engaging Employees in Sustainability.
+> **[0:19](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/challenge-create-a-virtuous-cycle-in-your-organization?u=76281980&t=19)** Download the exercise file titled Creating a Virtuous Cycle for Engaging Employees in [[Sustainability]].
 >
 > **[0:25](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/challenge-create-a-virtuous-cycle-in-your-organization?u=76281980&t=25)** Once opened, you'll see prompts asking you a series of questions about each phase of the virtuous cycle.
 >
@@ -830,19 +819,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (6), next (1)
+> **Frameworks & Libraries:** [[Sustainability]] (6)
 > **CLI Commands:** make (2), find (1)
 > **Exercise Files:** download the (1), exercise file (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - it (1)
 
-#### Sustainability impact vs. influence
-> [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-impact-vs-influence?u=76281980)
+#### [Sustainability impact vs. influence](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-impact-vs-influence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-impact-vs-influence?u=76281980&t=0)** - This course is titled Making Sustainability Part of Everybody's Job because its primary focus is on driving sustainability action in the workplace.
+> **[0:00](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-impact-vs-influence?u=76281980&t=0)** - This course is titled Making [[Sustainability]] Part of Everybody's Job because its primary focus is on driving sustainability action in the workplace.
 >
 > **[0:09](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-impact-vs-influence?u=76281980&t=9)** But that doesn't mean we should limit our efforts to just work.
 >
@@ -866,7 +854,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-impact-vs-influence?u=76281980&t=77)** But this conservation has a relatively low impact.
 >
-> **[1:22](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-impact-vs-influence?u=76281980&t=82)** While we should absolutely pursue these types of actions on an individual basis, we can also acknowledge that their impact in changing the underlying conditions creating climate change is limited, even if we can convince our housemates or neighbors to do the same.
+> **[1:22](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-impact-vs-influence?u=76281980&t=82)** While we should absolutely pursue these types of actions on an individual basis, we can also acknowledge that their impact in changing the underlying conditions creating [[Climate Change]] is limited, even if we can convince our housemates or neighbors to do the same.
 >
 > **[1:37](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-impact-vs-influence?u=76281980&t=97)** The real value here is in changing ourselves so that we can help change others.
 >
@@ -882,7 +870,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-impact-vs-influence?u=76281980&t=155)** Now that we understand the difference between impact and influence, let's take a closer look at how you can acquire more influence in your personal, professional, and political life to have a greater impact.
 >
-> **[2:47](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-impact-vs-influence?u=76281980&t=167)** There are lots of great resources out there, including several great LinkedIn Learning courses that address personal sustainability, so we won't spend much time here.
+> **[2:47](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-impact-vs-influence?u=76281980&t=167)** There are lots of great resources out there, including several great [[LinkedIn]] Learning courses that address personal sustainability, so we won't spend much time here.
 >
 > **[2:55](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-impact-vs-influence?u=76281980&t=175)** But here are some quick tips for changes you can make in your personal sphere.
 >
@@ -894,7 +882,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-impact-vs-influence?u=76281980&t=197)** Repair, recycle, reuse.
 >
-> **[3:21](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-impact-vs-influence?u=76281980&t=201)** Eat fewer animal products and more plant-based foods.
+> **[3:21](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-impact-vs-influence?u=76281980&t=201)** Eat fewer animal [[Microsoft Products|products]] and more plant-based foods.
 >
 > **[3:24](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/sustainability-impact-vs-influence?u=76281980&t=204)** Use public transit and human-powered transport whenever possible.
 >
@@ -944,13 +932,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (15), [[Climate Change]] (4), business (1), [[LinkedIn]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (15), [[Climate Change]] (4), [[LinkedIn]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - this (1)
 
-#### Finding your sustainability sweet spot
-> [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/finding-your-sustainability-sweet-spot?u=76281980)
+#### [Finding your sustainability sweet spot](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/finding-your-sustainability-sweet-spot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -976,9 +963,9 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/finding-your-sustainability-sweet-spot?u=76281980&t=54)** I like the series of questions and have adopted it as a way to help others find the best first place to start.
 >
-> **[1:01](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/finding-your-sustainability-sweet-spot?u=76281980&t=61)** I've also modified it by adding two additional questions: What can I uniquely provide and how can I do it at a scale big enough to matter for climate change?
+> **[1:01](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/finding-your-sustainability-sweet-spot?u=76281980&t=61)** I've also modified it by adding two additional questions: What can I uniquely provide and how can I do it at a scale big enough to matter for [[Climate Change]]?
 >
-> **[1:13](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/finding-your-sustainability-sweet-spot?u=76281980&t=73)** I call it finding your sustainability sweet spot.
+> **[1:13](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/finding-your-sustainability-sweet-spot?u=76281980&t=73)** I call it finding your [[Sustainability]] sweet spot.
 >
 > **[1:17](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/finding-your-sustainability-sweet-spot?u=76281980&t=77)** It accounts for every part of your professional and planetary journey so far and helps you find the place of least resistance to get started.
 >
@@ -990,7 +977,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (2), career (1), [[Climate Change]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (2), [[Climate Change]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - which (1)
@@ -1000,12 +987,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenges and opportunities for employee engagement
-> [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/challenges-and-opportunities-for-employee-engagement?u=76281980)
+#### [Challenges and opportunities for employee engagement](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/challenges-and-opportunities-for-employee-engagement?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/challenges-and-opportunities-for-employee-engagement?u=76281980&t=0)** - Chances are, getting employees involved with sustainability at your workplace is a new concept, which means you're likely to encounter obstacles and even resistance.
+> **[0:00](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/challenges-and-opportunities-for-employee-engagement?u=76281980&t=0)** - Chances are, getting employees involved with [[Sustainability]] at your workplace is a new concept, which means you're likely to encounter obstacles and even resistance.
 >
 > **[0:10](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/challenges-and-opportunities-for-employee-engagement?u=76281980&t=10)** This is completely natural, not to worry, I've got you.
 >
@@ -1029,7 +1015,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/challenges-and-opportunities-for-employee-engagement?u=76281980&t=87)** Further, a lack of designated place may signal to employees that they aren't supposed to be working on sustainability.
 >
-> **[1:34](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/challenges-and-opportunities-for-employee-engagement?u=76281980&t=94)** Lack of culture, work culture is defined as an organization's values, ethics, vision, behaviors, and environment.
+> **[1:34](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/challenges-and-opportunities-for-employee-engagement?u=76281980&t=94)** Lack of culture, work culture is defined as an organization's values, [[Ethics]], vision, behaviors, and environment.
 >
 > **[1:43](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/challenges-and-opportunities-for-employee-engagement?u=76281980&t=103)** It dictates the rewards, incentives, and norms that help people collaborate effectively.
 >
@@ -1053,18 +1039,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (11), [[Ethics]] (1), job description (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Sustainability]] (11), [[Ethics]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - chances (1)
 
-#### Challenge: Overcome barriers to engage employees in sustainability
-> [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/challenge-overcome-barriers-to-engage-employees-in-sustainability?u=76281980)
+#### [Challenge: Overcome barriers to engage employees in sustainability](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/challenge-overcome-barriers-to-engage-employees-in-sustainability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/challenge-overcome-barriers-to-engage-employees-in-sustainability?u=76281980&t=0)** - We just learned about the five common challenges for employees getting more involved in sustainability initiatives.
+> **[0:00](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/challenge-overcome-barriers-to-engage-employees-in-sustainability?u=76281980&t=0)** - We just learned about the five common challenges for employees getting more involved in [[Sustainability]] initiatives.
 >
 > **[0:06](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/challenge-overcome-barriers-to-engage-employees-in-sustainability?u=76281980&t=6)** Lack of time, lack of education, lack of place, lack of culture, and lack of relevance.
 >
@@ -1082,14 +1067,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (2), next (1)
+> **Frameworks & Libraries:** [[Sustainability]] (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** open the (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - we (1)
 
-#### Solution: Overcome barriers to engage employees in sustainability
-> [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/solution-overcome-barriers-to-engage-employees-in-sustainability?u=76281980)
+#### [Solution: Overcome barriers to engage employees in sustainability](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/solution-overcome-barriers-to-engage-employees-in-sustainability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1107,9 +1091,9 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/solution-overcome-barriers-to-engage-employees-in-sustainability?u=76281980&t=30)** Lack of time.
 >
-> **[0:32](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/solution-overcome-barriers-to-engage-employees-in-sustainability?u=76281980&t=32)** Here's one way that companies can give employees time to work on sustainability in a top-down manner: Create team or company-wide activities like Focus Fridays, where no meetings are scheduled and employees have dedicated time for learning and development.
+> **[0:32](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/solution-overcome-barriers-to-engage-employees-in-sustainability?u=76281980&t=32)** Here's one way that companies can give employees time to work on [[Sustainability]] in a top-down manner: Create team or company-wide activities like Focus Fridays, where no meetings are scheduled and employees have dedicated time for learning and development.
 >
-> **[0:47](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/solution-overcome-barriers-to-engage-employees-in-sustainability?u=76281980&t=47)** Companies like Google have famously created a 20% rule that gives employees permission to use one workday per week to do this, but even a few hours can make a real difference.
+> **[0:47](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/solution-overcome-barriers-to-engage-employees-in-sustainability?u=76281980&t=47)** Companies like [[Google]] have famously created a 20% rule that gives employees permission to use one workday per week to do this, but even a few hours can make a real difference.
 >
 > **[0:57](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/solution-overcome-barriers-to-engage-employees-in-sustainability?u=76281980&t=57)** And here are some ways that employees can advocate for more time to work on sustainability in a bottom-up fashion.
 >
@@ -1147,7 +1131,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/solution-overcome-barriers-to-engage-employees-in-sustainability?u=76281980&t=175)** If it doesn't, consider starting it.
 >
-> **[2:58](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/solution-overcome-barriers-to-engage-employees-in-sustainability?u=76281980&t=178)** These communities often exist online on platforms like Slack, or Microsoft Teams.
+> **[2:58](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/solution-overcome-barriers-to-engage-employees-in-sustainability?u=76281980&t=178)** These communities often exist online on platforms like [[Slack]], or [[Microsoft Teams]].
 >
 > **[3:03](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/solution-overcome-barriers-to-engage-employees-in-sustainability?u=76281980&t=183)** Use whatever is normal for cross-company collaboration to start.
 >
@@ -1169,7 +1153,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/solution-overcome-barriers-to-engage-employees-in-sustainability?u=76281980&t=263)** Lack of relevance.
 >
-> **[4:24](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/solution-overcome-barriers-to-engage-employees-in-sustainability?u=76281980&t=264)** It's important to connect climate change to employees' everyday experiences and show how it directly affects their lives and work.
+> **[4:24](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/solution-overcome-barriers-to-engage-employees-in-sustainability?u=76281980&t=264)** It's important to connect [[Climate Change]] to employees' everyday experiences and show how it directly affects their lives and work.
 >
 > **[4:32](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/solution-overcome-barriers-to-engage-employees-in-sustainability?u=76281980&t=272)** Sometimes you simply have to translate this into terms people already understand.
 >
@@ -1197,7 +1181,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (19), business (3), hr (2), [[Google]] (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (19), [[Google]] (1), [[Slack]] (1), [[Microsoft Teams]] (1), [[Climate Change]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (2)
@@ -1209,14 +1193,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### To change everything, we need everyone
-> [LinkedIn Learning](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/to-change-everything-we-need-everyone?u=76281980)
+#### [To change everything, we need everyone](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/to-change-everything-we-need-everyone?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/to-change-everything-we-need-everyone?u=76281980&t=0)** - We're at the end of the course.
 >
-> **[0:01](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/to-change-everything-we-need-everyone?u=76281980&t=1)** Congratulations, and thank you so much for joining me in the mission to make sustainability part of everybody's job.
+> **[0:01](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/to-change-everything-we-need-everyone?u=76281980&t=1)** Congratulations, and thank you so much for joining me in the mission to make [[Sustainability]] part of everybody's job.
 >
 > **[0:08](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/to-change-everything-we-need-everyone?u=76281980&t=8)** To be successful, I need your help.
 >
@@ -1248,7 +1231,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/to-change-everything-we-need-everyone?u=76281980&t=99)** You never know what can happen when you try.
 >
-> **[1:42](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/to-change-everything-we-need-everyone?u=76281980&t=102)** When I started this work at Microsoft all those years ago, it was just me and one other employee.
+> **[1:42](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/to-change-everything-we-need-everyone?u=76281980&t=102)** When I started this work at [[Microsoft]] all those years ago, it was just me and one other employee.
 >
 > **[1:48](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/to-change-everything-we-need-everyone?u=76281980&t=108)** From two, we grew into a movement 10,000-strong and successfully change the paradigm of who was allowed to work on sustainability.
 >
@@ -1318,7 +1301,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/to-change-everything-we-need-everyone?u=76281980&t=257)** It's about living up to the promise that your people are your most valuable asset by including them in the work of our lifetimes.
 >
-> **[4:24](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/to-change-everything-we-need-everyone?u=76281980&t=264)** If you need help or want to keep in touch, please check out the additional resources on my website, drewwilkinson.earth, or connect with me on LinkedIn.
+> **[4:24](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/to-change-everything-we-need-everyone?u=76281980&t=264)** If you need help or want to keep in touch, please check out the additional resources on my website, drewwilkinson.earth, or connect with me on [[LinkedIn]].
 >
 > **[4:35](https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job/to-change-everything-we-need-everyone?u=76281980&t=275)** My favorite part of doing this work is watching people light up and figure out how they can uniquely advance sustainability.
 >
@@ -1330,7 +1313,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (18), next (2), [[Microsoft]] (2), career (1), power (1)
+> **Frameworks & Libraries:** [[Sustainability]] (18), [[Microsoft]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (7), find (3)
 > **Cross-References:** we talked about (1)
 > **Exercise Files:** exercise files (1)

@@ -99,8 +99,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Best practices of data visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/best-practices-of-data-visualization-14398183?u=76281980)
+#### [Best practices of data visualization](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/best-practices-of-data-visualization-14398183?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -108,7 +107,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/best-practices-of-data-visualization-14398183?u=76281980&t=6)** My name is Amy Balliett, I'm the author of the award-winning book on visual communication and data viz, "Killer Visual Strategies," a senior fellow of visual strategy at Material.
 >
-> **[0:18](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/best-practices-of-data-visualization-14398183?u=76281980&t=18)** And I founded the leading data storytelling agency, Killer Visual Strategies, which is now part of the insights driven marketing firm, Material.
+> **[0:18](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/best-practices-of-data-visualization-14398183?u=76281980&t=18)** And I founded the leading [[Data Storytelling]] agency, Killer Visual Strategies, which is now part of the insights driven marketing firm, Material.
 >
 > **[0:28](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/best-practices-of-data-visualization-14398183?u=76281980&t=28)** I've built a career in visual communication and the data storytelling that fuels it.
 >
@@ -138,17 +137,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Data Storytelling]] (2), career (1)
+> **Frameworks & Libraries:** [[Data Storytelling]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [amy] (1)
 
-#### What you will learn
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/what-you-will-learn-24790384?u=76281980)
+#### [What you will learn](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/what-you-will-learn-24790384?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/what-you-will-learn-24790384?u=76281980&t=1)** - [Presenter] Whether you are new to data visualization or someone who lives in Excel and analytics on a regular basis, this course is for you.
+> **[0:01](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/what-you-will-learn-24790384?u=76281980&t=1)** - [Presenter] Whether you are new to data visualization or someone who lives in [[Microsoft Excel|Excel]] and analytics on a regular basis, this course is for you.
 >
 > **[0:10](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/what-you-will-learn-24790384?u=76281980&t=10)** You don't need to be an expert at Excel to take this course.
 >
@@ -180,12 +178,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (3), database (3), [[Analytics]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **Cross-References:** later in (1)
 > **Speakers:** - [presenter] (1)
 
-#### Exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/exercise-files-14396344?u=76281980)
+#### [Exercise files](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/exercise-files-14396344?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -199,7 +196,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Exercise Files:** exercise files (3)
 > **Speakers:** - [instructor] (1)
 
@@ -208,8 +204,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of data viz in today's market
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/the-importance-of-data-viz-in-today-s-market-14393399?u=76281980)
+#### [The importance of data viz in today's market](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/the-importance-of-data-viz-in-today-s-market-14393399?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -229,7 +224,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/the-importance-of-data-viz-in-today-s-market-14393399?u=76281980&t=56)** In fact, many would argue that this has led to greater experiences with the brands that they trust and have learned to avoid the pitfalls from those that they don't.
 >
-> **[1:07](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/the-importance-of-data-viz-in-today-s-market-14393399?u=76281980&t=67)** My point is not to scare you or to convince you that big data is worth it simply for the convenience factor, though I do love it when services like Netflix can predict exactly what shows I want to watch based on the data that they've compiled about me.
+> **[1:07](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/the-importance-of-data-viz-in-today-s-market-14393399?u=76281980&t=67)** My point is not to scare you or to convince you that [[Big Data]] is worth it simply for the convenience factor, though I do love it when services like Netflix can predict exactly what shows I want to watch based on the data that they've compiled about me.
 >
 > **[1:24](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/the-importance-of-data-viz-in-today-s-market-14393399?u=76281980&t=84)** My point is this, like it or not, we have created a world fueled by data.
 >
@@ -243,15 +238,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), web (2), next (2), [[Big Data]] (2)
+> **Frameworks & Libraries:** [[Big Data]] (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### A quick history of data viz
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/a-quick-history-of-data-viz-14399149?u=76281980)
+#### [A quick history of data viz](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/a-quick-history-of-data-viz-14399149?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -307,15 +301,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Security]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2)
 > **Env Vars:** aka (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Our level of data literacy: The brain science
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/our-level-of-data-literacy-the-brain-science-14395250?u=76281980)
+#### [Our level of data literacy: The brain science](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/our-level-of-data-literacy-the-brain-science-14395250?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -341,7 +333,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/our-level-of-data-literacy-the-brain-science-14395250?u=76281980&t=67)** It provides myriad insights into the best ways that we can execute on that data viz as well.
 >
-> **[1:14](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/our-level-of-data-literacy-the-brain-science-14395250?u=76281980&t=74)** For example, if you've seen me speak before, you've likely heard one of my favorite statistics.
+> **[1:14](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/our-level-of-data-literacy-the-brain-science-14395250?u=76281980&t=74)** For example, if you've seen me speak before, you've likely heard one of my favorite [[Statistics]].
 >
 > **[1:21](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/our-level-of-data-literacy-the-brain-science-14395250?u=76281980&t=81)** The human brain registers visual information 60,000 times faster than any other form of communication that exists today.
 >
@@ -351,7 +343,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/our-level-of-data-literacy-the-brain-science-14395250?u=76281980&t=109)** Pre-attentive processing works like a filter.
 >
-> **[1:52](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/our-level-of-data-literacy-the-brain-science-14395250?u=76281980&t=112)** It's a unique system in our brain that takes in all of the information around us, calls immediate insights, and forms conclusions before the brain moves into attentive processing.
+> **[1:52](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/our-level-of-data-literacy-the-brain-science-14395250?u=76281980&t=112)** It's a unique system in our brain that takes in all of the information around us, calls immediate insights, and [[Forms]] conclusions before the brain moves into attentive processing.
 >
 > **[2:05](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/our-level-of-data-literacy-the-brain-science-14395250?u=76281980&t=125)** Taking, on average, 1/10th of a second, pre-attentive processing is hyper fast.
 >
@@ -395,18 +387,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Statistics]] (1), [[Forms]] (1), product (1), power (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Forms]] (1)
 > **Analogies:** imagine (4), for example (3), picture (1)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Our level of data literacy: The charts that matter
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/our-level-of-data-literacy-the-charts-that-matter-24793040?u=76281980)
+#### [Our level of data literacy: The charts that matter](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/our-level-of-data-literacy-the-charts-that-matter-24793040?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/our-level-of-data-literacy-the-charts-that-matter-24793040?u=76281980&t=1)** - [Instructor] While our brain science, informs our understanding of charts and graphs, the types of charts and graphs that you choose to use, should be informed by the data literacy of your audience.
+> **[0:01](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/our-level-of-data-literacy-the-charts-that-matter-24793040?u=76281980&t=1)** - [Instructor] While our brain science, informs our understanding of charts and graphs, the types of charts and graphs that you choose to use, should be informed by the [[Data Literacy]] of your audience.
 >
 > **[0:14](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/our-level-of-data-literacy-the-charts-that-matter-24793040?u=76281980&t=14)** For example, most audiences are comfortable looking at pie charts, bar graphs, line graphs and area graphs.
 >
@@ -438,12 +429,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9)
+> **Frameworks & Libraries:** [[Data Literacy]] (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Using simple charts and graphs
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/using-simple-charts-and-graphs-14399151?u=76281980)
+#### [Using simple charts and graphs](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/using-simple-charts-and-graphs-14399151?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -527,7 +517,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), next (1)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (1), in other words (1)
 > **Analogies:** for instance (1), for example (1)
@@ -535,8 +524,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using complex charts and graphs
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/using-complex-charts-and-graphs-24789440?u=76281980)
+#### [Using complex charts and graphs](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/using-complex-charts-and-graphs-24789440?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -564,7 +552,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/using-complex-charts-and-graphs-24789440?u=76281980&t=102)** This makes them a great alternative to a pie chart when the amount of items that add up to the whole exceed five.
 >
-> **[1:50](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/using-complex-charts-and-graphs-24789440?u=76281980&t=110)** If creating a heat map with a data visualization tool like Excel, the order in which each rectangle sits will actually be determined by the tool itself.
+> **[1:50](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/using-complex-charts-and-graphs-24789440?u=76281980&t=110)** If creating a heat map with a data visualization tool like [[Microsoft Excel|Excel]], the order in which each rectangle sits will actually be determined by the tool itself.
 >
 > **[2:00](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/using-complex-charts-and-graphs-24789440?u=76281980&t=120)** It's pretty hard to force an order with heat maps because the layout is largely driven by fitting each rectangle accordingly.
 >
@@ -590,7 +578,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/using-complex-charts-and-graphs-24789440?u=76281980&t=220)** Like a bar graph, I can quickly determine which show was more successful.
 >
-> **[3:45](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/using-complex-charts-and-graphs-24789440?u=76281980&t=225)** Like a pie chart, I can see a breakdown of products sold at each show.
+> **[3:45](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/using-complex-charts-and-graphs-24789440?u=76281980&t=225)** Like a pie chart, I can see a breakdown of [[Microsoft Products|products]] sold at each show.
 >
 > **[3:51](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/using-complex-charts-and-graphs-24789440?u=76281980&t=231)** Stacked bar graphs order their bar slices the same across each bar.
 >
@@ -616,14 +604,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), product (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** means that (1), is a  (1), in other words (1)
 > **Analogies:** for example (2), for instance (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Pop quiz
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/challenge-pop-quiz-14398191?u=76281980)
+#### [Challenge: Pop quiz](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/challenge-pop-quiz-14398191?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -637,15 +624,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** pdf (1)
 > **Cross-References:** next video (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Pop quiz
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/solution-pop-quiz-14392987?u=76281980)
+#### [Solution: Pop quiz](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/solution-pop-quiz-14392987?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -723,7 +708,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), next (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
 
@@ -732,8 +716,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Key questions to ask
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/key-questions-to-ask-14393402?u=76281980)
+#### [Key questions to ask](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/key-questions-to-ask-14393402?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -765,7 +748,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/key-questions-to-ask-14393402?u=76281980&t=68)** You suspect that selling merchandise at shows might be the best source of a predictable income.
 >
-> **[1:15](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/key-questions-to-ask-14393402?u=76281980&t=75)** So you want to compare your sales of five products over your past five shows.
+> **[1:15](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/key-questions-to-ask-14393402?u=76281980&t=75)** So you want to compare your sales of five [[Microsoft Products|products]] over your past five shows.
 >
 > **[1:21](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/key-questions-to-ask-14393402?u=76281980&t=81)** Now, there are multiple ways that you can show this data.
 >
@@ -793,13 +776,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), cd (3), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **CLI Commands:** cd (3), make (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Question 1: Who is your audience?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/question-1-who-is-your-audience-14395251?u=76281980)
+#### [Question 1: Who is your audience?](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/question-1-who-is-your-audience-14395251?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -817,7 +799,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/question-1-who-is-your-audience-14395251?u=76281980&t=51)** For instance, are they viewing your database in an infographic?
 >
-> **[0:55](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/question-1-who-is-your-audience-14395251?u=76281980&t=55)** Then you may want to keep all of the charts and graphs as simple as possible since infographics that don't feel overly complex see far more success.
+> **[0:55](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/question-1-who-is-your-audience-14395251?u=76281980&t=55)** Then you may want to keep all of the charts and graphs as simple as possible since [[Infographics]] that don't feel overly complex see far more success.
 >
 > **[1:06](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/question-1-who-is-your-audience-14395251?u=76281980&t=66)** Are they viewing a slide deck that you're presenting?
 >
@@ -827,7 +809,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/question-1-who-is-your-audience-14395251?u=76281980&t=85)** This will also inform the data that you compile, and the ways in which you organize that data.
 >
-> **[1:32](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/question-1-who-is-your-audience-14395251?u=76281980&t=92)** For example, let's assume that you're creating a slide deck for an upcoming marketing presentation at your office.
+> **[1:32](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/question-1-who-is-your-audience-14395251?u=76281980&t=92)** For example, let's assume that you're creating a slide deck for an upcoming marketing presentation at your [[Microsoft Office|office]].
 >
 > **[1:40](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/question-1-who-is-your-audience-14395251?u=76281980&t=100)** You're going to be presenting data about a marketing campaign that just wrapped up.
 >
@@ -845,18 +827,17 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/question-1-who-is-your-audience-14395251?u=76281980&t=174)** Before you start compiling data to build your data visualizations, it's imperative that you define your target audience.
 >
-> **[3:03](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/question-1-who-is-your-audience-14395251?u=76281980&t=183)** This will help you identify the data that best speaks to them, as well as the best graphical representation that will meet their level of data literacy.
+> **[3:03](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/question-1-who-is-your-audience-14395251?u=76281980&t=183)** This will help you identify the data that best speaks to them, as well as the best graphical representation that will meet their level of [[Data Literacy]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), database (1), [[Infographics]] (1), [[Microsoft Office|Office]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Infographics]] (1), [[Microsoft Office|Office]] (1), [[Data Literacy]] (1)
 > **Analogies:** for example (3), for instance (1)
 > **Env Vars:** ceo (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [tutor] (1)
 
-#### Question 2: What are your objectives?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/question-2-what-are-your-objectives-14393410?u=76281980)
+#### [Question 2: What are your objectives?](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/question-2-what-are-your-objectives-14393410?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -914,13 +895,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), business (3), hit (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Question 3: What data will serve your objectives?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/question-3-what-data-will-serve-your-objectives-14395252?u=76281980)
+#### [Question 3: What data will serve your objectives?](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/question-3-what-data-will-serve-your-objectives-14395252?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -970,11 +949,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (10), data (8)
 > **Speakers:** - [lecturer] (1)
 
-#### Question 4: What chart or graph is best?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/question-4-what-chart-or-graph-is-best-14393401?u=76281980)
+#### [Question 4: What chart or graph is best?](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/question-4-what-chart-or-graph-is-best-14393401?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1042,20 +1019,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), traffic (10), [[Search]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: The best charts to use
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/challenge-the-best-charts-to-use-14398186?u=76281980)
+#### [Challenge: The best charts to use](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/challenge-the-best-charts-to-use-14398186?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/challenge-the-best-charts-to-use-14398186?u=76281980&t=1)** - [Instructor] It's now time for your second challenge.
 >
-> **[0:03](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/challenge-the-best-charts-to-use-14398186?u=76281980&t=3)** In your exercise files look for an Excel spreadsheet called DataViz-4 Questions Exercise.
+> **[0:03](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/challenge-the-best-charts-to-use-14398186?u=76281980&t=3)** In your exercise files look for an [[Microsoft Excel|Excel]] spreadsheet called DataViz-4 Questions Exercise.
 >
 > **[0:10](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/challenge-the-best-charts-to-use-14398186?u=76281980&t=10)** And open it up.
 >
@@ -1119,13 +1094,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Cross-References:** next video (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: The best charts to use
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/solution-the-best-charts-to-use-14397213?u=76281980)
+#### [Solution: The best charts to use](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/solution-the-best-charts-to-use-14397213?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1271,7 +1245,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), next (3)
 > **Analogies:** for example (3), for instance (1), similar to (1), such as (1)
 > **Versions:** 3.9 (2), 3.84 (1), 76.8 (1)
 > **CLI Commands:** find (1), make (1)
@@ -1285,8 +1258,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Being a data fiduciary
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/being-a-data-fiduciary-14395248?u=76281980)
+#### [Being a data fiduciary](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/being-a-data-fiduciary-14395248?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1294,7 +1266,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/being-a-data-fiduciary-14395248?u=76281980&t=12)** Your role when presenting data is to be a data fiduciary, to visualize data in a way that is easy to comprehend while also being the most accurate representation of the information at hand.
 >
-> **[0:27](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/being-a-data-fiduciary-14395248?u=76281980&t=27)** You see, with big data being such an intricate part of our lives, charts and graphs have become commonplace and commercialized.
+> **[0:27](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/being-a-data-fiduciary-14395248?u=76281980&t=27)** You see, with [[Big Data]] being such an intricate part of our lives, charts and graphs have become commonplace and commercialized.
 >
 > **[0:35](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/being-a-data-fiduciary-14395248?u=76281980&t=35)** And these days, organizations of all kinds are trying to hook their audiences with compelling visualizations.
 >
@@ -1312,11 +1284,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Big Data]] (1), next (1)
+> **Frameworks & Libraries:** [[Big Data]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mistake 1: Putting form over function
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-1-putting-form-over-function-14398190?u=76281980)
+#### [Mistake 1: Putting form over function](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-1-putting-form-over-function-14398190?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1346,7 +1317,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-1-putting-form-over-function-14398190?u=76281980&t=83)** Is the visualization too complicated to understand quickly?
 >
-> **[1:27](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-1-putting-form-over-function-14398190?u=76281980&t=87)** Is it so simple that it looks like it was designed in Excel?
+> **[1:27](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-1-putting-form-over-function-14398190?u=76281980&t=87)** Is it so simple that it looks like it was designed in [[Microsoft Excel|Excel]]?
 >
 > **[1:31](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-1-putting-form-over-function-14398190?u=76281980&t=91)** The perfect middle ground is a visual that is appealing to the eyes while being very simple to digest.
 >
@@ -1374,14 +1345,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), career (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mistake 2: Improper use of scales
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-2-improper-use-of-scales-14396350?u=76281980)
+#### [Mistake 2: Improper use of scales](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-2-improper-use-of-scales-14396350?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1401,7 +1371,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-2-improper-use-of-scales-14396350?u=76281980&t=45)** While subtle, this can quickly get confusing.
 >
-> **[0:49](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-2-improper-use-of-scales-14396350?u=76281980&t=49)** As designers work to add visual appeal to fully compose designs like infographics, they sometimes make the mistake of switching up scales.
+> **[0:49](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-2-improper-use-of-scales-14396350?u=76281980&t=49)** As designers work to add visual appeal to fully [[Jetpack Compose|compose]] designs like [[Infographics]], they sometimes make the mistake of switching up scales.
 >
 > **[0:59](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-2-improper-use-of-scales-14396350?u=76281980&t=59)** This is exemplified further in the center stacked bar graph, which provides a good central hook but requires the viewer to untangle its meaning when compared to the simplicity of the other charts and graphs.
 >
@@ -1415,7 +1385,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-2-improper-use-of-scales-14396350?u=76281980&t=100)** The eyes quickly focus on the pie charts with imagery rather than treating each one equally.
 >
-> **[1:47](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-2-improper-use-of-scales-14396350?u=76281980&t=107)** If one is in fact more important than the rest, then making it larger might be okay at that point.
+> **[1:47](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-2-improper-use-of-scales-14396350?u=76281980&t=107)** If one is in fact more important than the [[Representational State Transfer (REST)|rest]], then making it larger might be okay at that point.
 >
 > **[1:54](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-2-improper-use-of-scales-14396350?u=76281980&t=114)** But in this current setup, it doesn't work.
 >
@@ -1429,7 +1399,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Jetpack Compose|Compose]] (1), [[Infographics]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (1), [[Infographics]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Versions:** 44.6 (1)
 > **Analogies:** for example (1)
@@ -1437,8 +1407,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mistake 3: Manipulating the axis
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-3-manipulating-the-axis-14394359?u=76281980)
+#### [Mistake 3: Manipulating the axis](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-3-manipulating-the-axis-14394359?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1458,7 +1427,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-3-manipulating-the-axis-14394359?u=76281980&t=46)** But remember when we discussed pre-attentive processing?
 >
-> **[0:50](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-3-manipulating-the-axis-14394359?u=76281980&t=50)** Our subconscious forms conclusions before we are consciously or attentively processing the information.
+> **[0:50](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-3-manipulating-the-axis-14394359?u=76281980&t=50)** Our subconscious [[Forms]] conclusions before we are consciously or attentively processing the information.
 >
 > **[0:58](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-3-manipulating-the-axis-14394359?u=76281980&t=58)** As a result, most viewers would take this graph at face value and conclude that sales will continue to increase, rather than realize the subtle manipulation of the y-axis.
 >
@@ -1496,14 +1465,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), business (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Cross-References:** we discussed (2), in the last (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mistake 4: Forcing your audience to do math
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-4-forcing-your-audience-to-do-math-14397215?u=76281980)
+#### [Mistake 4: Forcing your audience to do math](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-4-forcing-your-audience-to-do-math-14397215?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1515,7 +1483,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-4-forcing-your-audience-to-do-math-14397215?u=76281980&t=22)** Now, if you've never heard of a quantagram, don't worry, you're not alone.
 >
-> **[0:27](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-4-forcing-your-audience-to-do-math-14397215?u=76281980&t=27)** The word quantagram is not an industry standard.
+> **[0:27](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-4-forcing-your-audience-to-do-math-14397215?u=76281980&t=27)** The [[Microsoft Word|word]] quantagram is not an industry standard.
 >
 > **[0:30](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-4-forcing-your-audience-to-do-math-14397215?u=76281980&t=30)** In reality, my team got tired of saying multiple male bathroom signs to describe the usage of repetitive pictograms to display a number.
 >
@@ -1523,7 +1491,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-4-forcing-your-audience-to-do-math-14397215?u=76281980&t=45)** Now that you know what a quantagram is, you're probably thinking about the myriad times.
 >
-> **[0:50](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-4-forcing-your-audience-to-do-math-14397215?u=76281980&t=50)** You've seen these visualizations online and in infographics.
+> **[0:50](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-4-forcing-your-audience-to-do-math-14397215?u=76281980&t=50)** You've seen these visualizations online and in [[Infographics]].
 >
 > **[0:54](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-4-forcing-your-audience-to-do-math-14397215?u=76281980&t=54)** Sometimes they're done very well, while other times they're overused and sometimes even annoying.
 >
@@ -1565,15 +1533,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Word|Word]] (1), [[Infographics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Infographics]] (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for example (1), imagine (1)
 > **Versions:** 2.9 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mistake 5: Organizing data passively
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-5-organizing-data-passively-14395253?u=76281980)
+#### [Mistake 5: Organizing data passively](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-5-organizing-data-passively-14395253?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1585,7 +1552,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-5-organizing-data-passively-14395253?u=76281980&t=16)** You know that you're likely to make the most money in merchandise sales, but you aren't yet sure what sells better, your shirts, CDs, limited edition vinyl, posters, or key chains.
 >
-> **[0:29](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-5-organizing-data-passively-14395253?u=76281980&t=29)** Knowing your hot ticket items will inform how you display these products at your next show, so you take a look at the numbers over the past five shows, which look like this.
+> **[0:29](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-5-organizing-data-passively-14395253?u=76281980&t=29)** Knowing your hot ticket items will inform how you display these [[Microsoft Products|products]] at your next show, so you take a look at the numbers over the past five shows, which look like this.
 >
 > **[0:41](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-5-organizing-data-passively-14395253?u=76281980&t=41)** With just five items to review, it seems pretty easy to quickly discern that your CDs are selling better than anything else.
 >
@@ -1603,7 +1570,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-5-organizing-data-passively-14395253?u=76281980&t=109)** In addition to helping you draw quick conclusions, ordering your data in this way will also help you tell a story.
 >
-> **[1:57](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-5-organizing-data-passively-14395253?u=76281980&t=117)** For example, maybe you want to show an investor that your CDs are better than the rest.
+> **[1:57](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-5-organizing-data-passively-14395253?u=76281980&t=117)** For example, maybe you want to show an investor that your CDs are better than the [[Representational State Transfer (REST)|rest]].
 >
 > **[2:03](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-5-organizing-data-passively-14395253?u=76281980&t=123)** By organizing from your lowest sold item to your most popular, a typical investor that reads left to right will focus on the growth potential.
 >
@@ -1617,15 +1584,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Products|Products]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we discussed (1)
 > **Analogies:** for example (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mistake 6: Assuming percentage equals pie
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-6-assuming-percentage-equals-pie-14393409?u=76281980)
+#### [Mistake 6: Assuming percentage equals pie](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/mistake-6-assuming-percentage-equals-pie-14393409?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1679,13 +1645,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Data viz mistakes
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/challenge-data-viz-mistakes-14394358?u=76281980)
+#### [Challenge: Data viz mistakes](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/challenge-data-viz-mistakes-14394358?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1719,14 +1683,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **CLI Commands:** find (3)
 > **Env Vars:** pdf (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Data viz mistakes
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/solution-data-viz-mistakes-14398184?u=76281980)
+#### [Solution: Data viz mistakes](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/solution-data-viz-mistakes-14398184?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1784,7 +1746,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (2)
 > **Definitions:** means that (1), in other words (1)
 > **Best Practices:** make sure to (1), remember to (1)
 > **CLI Commands:** make (1)
@@ -1796,14 +1757,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The best free data visualization tools to use
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/the-best-free-data-visualization-tools-to-use?u=76281980)
+#### [The best free data visualization tools to use](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/the-best-free-data-visualization-tools-to-use?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/the-best-free-data-visualization-tools-to-use?u=76281980&t=0)** - [Instructor] Upcoming lessons in this course provide hands-on tutorials to leverage Adobe Illustrator's robust data visualization tools.
 >
-> **[0:09](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/the-best-free-data-visualization-tools-to-use?u=76281980&t=9)** But what if you don't have access to the Adobe Creative Cloud or experience using Illustrator?
+> **[0:09](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/the-best-free-data-visualization-tools-to-use?u=76281980&t=9)** But what if you don't have access to the [[Adobe Creative Cloud]] or experience using Illustrator?
 >
 > **[0:16](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/the-best-free-data-visualization-tools-to-use?u=76281980&t=16)** Luckily, there are some great online tools that offer a freemium option to visualize a wide array of charts and graphs that you can rely on instead.
 >
@@ -1813,9 +1773,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/the-best-free-data-visualization-tools-to-use?u=76281980&t=39)** My favorite free data viz tool online is Flourish Studio.
 >
-> **[0:45](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/the-best-free-data-visualization-tools-to-use?u=76281980&t=45)** This tool is incredibly easy to use, allows you to add simple animations to your visualizations, lets you output code for a fully interactive data visualization, connects directly with Canva, and provides intuitive methods for customizing any design, including the ability to upload your own brand guidelines in the paid version.
+> **[0:45](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/the-best-free-data-visualization-tools-to-use?u=76281980&t=45)** This tool is incredibly easy to use, allows you to add simple animations to your visualizations, lets you output code for a fully interactive data visualization, connects directly with [[Canva]], and provides intuitive methods for customizing any design, including the ability to upload your own brand guidelines in the paid version.
 >
-> **[1:10](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/the-best-free-data-visualization-tools-to-use?u=76281980&t=70)** If your aim is to create data visualizations for marketing and visual storytelling purposes, Flourish is a perfect solution.
+> **[1:10](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/the-best-free-data-visualization-tools-to-use?u=76281980&t=70)** If your aim is to create data visualizations for marketing and visual [[Storytelling]] purposes, Flourish is a perfect solution.
 >
 > **[1:20](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/the-best-free-data-visualization-tools-to-use?u=76281980&t=80)** PlotDB comes in at a close second to Flourish Studio.
 >
@@ -1853,7 +1813,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Adobe Creative Cloud]] (1), [[Canva]] (1), [[Storytelling]] (1), parallel (1)
+> **Frameworks & Libraries:** [[Adobe Creative Cloud]] (1), [[Canva]] (1), [[Storytelling]] (1)
 > **URLs:** [rawgraphs.io](https://rawgraphs.io) (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -1861,8 +1821,7 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using data visualization plugins in Adobe Illustrator
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/using-data-visualization-plugins-in-adobe-illustrator?u=76281980)
+#### [Using data visualization plugins in Adobe Illustrator](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/using-data-visualization-plugins-in-adobe-illustrator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1904,18 +1863,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1)
 > **Cross-References:** in the last (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Visualizing data with generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/visualizing-data-with-generative-ai?u=76281980)
+#### [Visualizing data with generative AI](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/visualizing-data-with-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/visualizing-data-with-generative-ai?u=76281980&t=0)** - [Instructor] In the previous lessons, I've discussed several data viz solutions that rely on artificial intelligence in one form or another, but none of them utilize generative AI to create visualizations.
+> **[0:00](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/visualizing-data-with-generative-ai?u=76281980&t=0)** - [Instructor] In the previous lessons, I've discussed several data viz solutions that rely on [[Artificial Intelligence (AI)|artificial intelligence]] in one form or another, but none of them utilize [[Generative AI]] to create visualizations.
 >
 > **[0:14](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/visualizing-data-with-generative-ai?u=76281980&t=14)** You see, artificial intelligence has been working in the background of applications and services for quite some time now.
 >
@@ -1923,7 +1880,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/visualizing-data-with-generative-ai?u=76281980&t=34)** Given this differentiation, when we talk about visualizing data with artificial intelligence, my focus for this lesson will be on visualizing data with generative AI, in other words, visualizing data through communication rather than design.
 >
-> **[0:52](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/visualizing-data-with-generative-ai?u=76281980&t=52)** To exemplify this, let's consider the veritable leader of democratized data viz, data analytics, and powerful visualizations, Tableau.
+> **[0:52](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/visualizing-data-with-generative-ai?u=76281980&t=52)** To exemplify this, let's consider the veritable leader of democratized data viz, data analytics, and powerful visualizations, [[Tableau]].
 >
 > **[1:02](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/visualizing-data-with-generative-ai?u=76281980&t=62)** As it continues as a leader in its field, AI will be right at its side dissecting data and empowering users.
 >
@@ -1931,9 +1888,9 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/visualizing-data-with-generative-ai?u=76281980&t=80)** Using a conversational approach, users can upload data sets and ask the analyst questions, or provide prompts that quickly generate graphs and answer to their query.
 >
-> **[1:32](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/visualizing-data-with-generative-ai?u=76281980&t=92)** If you're looking for a more simplified interface, [julius.ai](https://julius.ai) mirrors the experience that you might have with Google Gemini or ChatGPT.
+> **[1:32](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/visualizing-data-with-generative-ai?u=76281980&t=92)** If you're looking for a more simplified interface, [julius.ai](https://julius.ai) mirrors the experience that you might have with [[Google Gemini]] or [[ChatGPT]].
 >
-> **[1:42](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/visualizing-data-with-generative-ai?u=76281980&t=102)** In my course, [[Visualizing Advanced Charts and Graphs]], I use a broad data set of NBA statistics.
+> **[1:42](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/visualizing-data-with-generative-ai?u=76281980&t=102)** In my course, [[Visualizing Advanced Charts and Graphs]], I use a broad data set of NBA [[Statistics]].
 >
 > **[1:49](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/visualizing-data-with-generative-ai?u=76281980&t=109)** If I upload that data set to Julius, I can ask it to provide different chart types based on questions that I want answered, and receive the following outputs.
 >
@@ -1957,15 +1914,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Generative AI]] (5), ai (5), [[ChatGPT]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[ChatGPT]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Tableau]] (3), [[Google Gemini]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** nba (1), gpt (1)
 > **Definitions:** in other words (1), is a  (1)
 > **URLs:** [julius.ai](https://julius.ai) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating bar graphs in Adobe Illustrator
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/creating-bar-graphs-in-adobe-illustrator-24790393?u=76281980)
+#### [Creating bar graphs in Adobe Illustrator](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/creating-bar-graphs-in-adobe-illustrator-24790393?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1987,7 +1943,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/creating-bar-graphs-in-adobe-illustrator-24790393?u=76281980&t=51)** If you don't hold down the shift key, the chart will be more rectangular in any proportion you choose.
 >
-> **[0:59](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/creating-bar-graphs-in-adobe-illustrator-24790393?u=76281980&t=59)** Now, once you let go of your mouse, the foundational elements of a bar chart will appear in front of you with an Excel like data entry box floating above.
+> **[0:59](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/creating-bar-graphs-in-adobe-illustrator-24790393?u=76281980&t=59)** Now, once you let go of your mouse, the foundational elements of a bar chart will appear in front of you with an [[Microsoft Excel|Excel]] like data entry box floating above.
 >
 > **[1:09](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/creating-bar-graphs-in-adobe-illustrator-24790393?u=76281980&t=69)** Input your data going from left to right and hit the check box when you're done.
 >
@@ -2071,7 +2027,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), next (3), [[Microsoft Excel|Excel]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** select the (2), navigate to (2), dropdown (1), click on (1)
 > **CLI Commands:** find (3), make (2)
 > **Analogies:** for example (2)
@@ -2079,8 +2035,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating pie charts in Adobe Illustrator
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/creating-pie-charts-in-adobe-illustrator-24786535?u=76281980)
+#### [Creating pie charts in Adobe Illustrator](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/creating-pie-charts-in-adobe-illustrator-24786535?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2144,7 +2099,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/creating-pie-charts-in-adobe-illustrator-24786535?u=76281980&t=205)** Once you have ungrouped the chart, simply delete the layers that you don't want.
 >
-> **[3:31](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/creating-pie-charts-in-adobe-illustrator-24786535?u=76281980&t=211)** Now we have a circle perfectly cut out of the center of your pie chart, making it a donut chart that can rest on top of any background that you wish.
+> **[3:31](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/creating-pie-charts-in-adobe-illustrator-24786535?u=76281980&t=211)** Now we have a circle perfectly cut out of the center of your pie chart, making it a donut chart that can [[Representational State Transfer (REST)|rest]] on top of any background that you wish.
 >
 > **[3:41](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/creating-pie-charts-in-adobe-illustrator-24786535?u=76281980&t=221)** Play around with other methods of stylizing your charts as well.
 >
@@ -2158,15 +2113,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (3), for instance (1), just like (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** dropdown (1), select the (1), navigate to (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating line and area graphs in Adobe Illustrator
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/creating-line-and-area-graphs-in-adobe-illustrator-24791352?u=76281980)
+#### [Creating line and area graphs in Adobe Illustrator](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/creating-line-and-area-graphs-in-adobe-illustrator-24791352?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2206,15 +2160,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** navigate to (1), dropdown (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [presenter] (1)
 
-#### How to use labels and color
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/how-to-use-labels-and-color-24786536?u=76281980)
+#### [How to use labels and color](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/how-to-use-labels-and-color-24786536?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2252,7 +2204,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** we discussed (1)
 > **Warnings:** be careful (1)
@@ -2263,8 +2214,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Thank you
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/thank-you-24786537?u=76281980)
+#### [Thank you](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/thank-you-24786537?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2276,7 +2226,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/thank-you-24786537?u=76281980&t=49)** If you would like to learn about the brain science behind visual communication and data visualizations, check out my course 20 Rules of Visual Communication, and if you're looking to take what you learned today and leverage it for infographic design, check out my course Infographic Design Theory, followed by the hands-on Learning Infographic Design.
 >
-> **[1:14](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/thank-you-24786537?u=76281980&t=74)** And of course, be sure to check out other courses like [[Data Visualization Storytelling]] with Bill Shander, where you're going to learn how to tell stories with data.
+> **[1:14](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/thank-you-24786537?u=76281980&t=74)** And of course, be sure to check out other courses like [[Data Visualization [[Storytelling]]]] with Bill Shander, where you're going to learn how to tell stories with data.
 >
 > **[1:26](https://www.linkedin.com/learning/data-visualization-best-practices-14429760/thank-you-24786537?u=76281980&t=86)** And if you're just learning about communicating with visuals, I suggest checking out Von Glitschka's 5-Day Drawing Challenge: Communicating Through Drawing.
 >
@@ -2286,7 +2236,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (1), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [amy] (1)
 

@@ -93,14 +93,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Securing microservices
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/securing-microservices?u=76281980)
+#### [Securing microservices](https://www.linkedin.com/learning/microservices-security/securing-microservices?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microservices-security/securing-microservices?u=76281980&t=0)** - [Kevin] Innovation in the microservice space has outpaced security.
 >
-> **[0:05](https://www.linkedin.com/learning/microservices-security/securing-microservices?u=76281980&t=5)** When teams acknowledge the security gap and attempt to secure their microservices, there's normally a lot of confusion, because it's the intersection of two deep spaces.
+> **[0:05](https://www.linkedin.com/learning/microservices-security/securing-microservices?u=76281980&t=5)** When teams acknowledge the security gap and attempt to secure their [[Microservices]], there's normally a lot of confusion, because it's the intersection of two deep spaces.
 >
 > **[0:16](https://www.linkedin.com/learning/microservices-security/securing-microservices?u=76281980&t=16)** Frustrated, they'll default to applying security tactics that worked in the past.
 >
@@ -114,16 +113,15 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/microservices-security/securing-microservices?u=76281980&t=49)** We'll go in depth into how platforms like API gateways and identity providers can be used to deliver secure microservices and save you time by not reinventing the wheel.
 >
-> **[1:02](https://www.linkedin.com/learning/microservices-security/securing-microservices?u=76281980&t=62)** So join me on my LinkedIn Learning course to learn the foundations of microservice security.
+> **[1:02](https://www.linkedin.com/learning/microservices-security/securing-microservices?u=76281980&t=62)** So join me on my [[LinkedIn]] Learning course to learn the foundations of microservice security.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Microservices]] (4), teams (1), api (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (4), [[LinkedIn]] (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [kevin] (1)
 
-#### Microservices learning curve
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/microservices-learning-curve?u=76281980)
+#### [Microservices learning curve](https://www.linkedin.com/learning/microservices-security/microservices-learning-curve?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -131,7 +129,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/microservices-security/microservices-learning-curve?u=76281980&t=10)** When I first encountered microservice security, it was a bit overwhelming.
 >
-> **[0:14](https://www.linkedin.com/learning/microservices-security/microservices-learning-curve?u=76281980&t=14)** Building microservices is already complicated.
+> **[0:14](https://www.linkedin.com/learning/microservices-security/microservices-learning-curve?u=76281980&t=14)** Building [[Microservices]] is already complicated.
 >
 > **[0:17](https://www.linkedin.com/learning/microservices-security/microservices-learning-curve?u=76281980&t=17)** However, I was now confronted with a bunch of new security technologies, standards, and techniques.
 >
@@ -143,9 +141,9 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/microservices-security/microservices-learning-curve?u=76281980&t=51)** So this course captures those conversations and it's intended to help anyone with a role or an interest in building a microservice-based system get past the initial information overload.
 >
-> **[1:05](https://www.linkedin.com/learning/microservices-security/microservices-learning-curve?u=76281980&t=65)** Given the new way of working introduced by microservices and DevOps, this creates a pretty wide audience.
+> **[1:05](https://www.linkedin.com/learning/microservices-security/microservices-learning-curve?u=76281980&t=65)** Given the new way of working introduced by microservices and [[DevOps]], this creates a pretty wide audience.
 >
-> **[1:12](https://www.linkedin.com/learning/microservices-security/microservices-learning-curve?u=76281980&t=72)** I've had conversations with people in all sorts of positions, including application developers, security engineers, pipeline developers, and even scrum masters.
+> **[1:12](https://www.linkedin.com/learning/microservices-security/microservices-learning-curve?u=76281980&t=72)** I've had conversations with people in all sorts of positions, including application developers, security engineers, pipeline developers, and even [[Scrum]] masters.
 >
 > **[1:22](https://www.linkedin.com/learning/microservices-security/microservices-learning-curve?u=76281980&t=82)** If you're in one of these roles, you can benefit from the information in this course.
 >
@@ -153,15 +151,15 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/microservices-security/microservices-learning-curve?u=76281980&t=95)** I can unpack most of that information but you're going to get the most from this course if you have a little background in how systems are built and architected.
 >
-> **[1:44](https://www.linkedin.com/learning/microservices-security/microservices-learning-curve?u=76281980&t=104)** If you haven't worked in a team to build a traditional information system before or haven't heard of concepts like APIs and containers, there may be other courses in the LinkedIn Learning platform that would benefit you more, like Microservice Foundations.
+> **[1:44](https://www.linkedin.com/learning/microservices-security/microservices-learning-curve?u=76281980&t=104)** If you haven't worked in a team to build a traditional information system before or haven't heard of concepts like APIs and containers, there may be other courses in the [[LinkedIn]] Learning platform that would benefit you more, like Microservice Foundations.
 >
 > **[2:01](https://www.linkedin.com/learning/microservices-security/microservices-learning-curve?u=76281980&t=121)** That's all there is to know.
 >
-> **[2:03](https://www.linkedin.com/learning/microservices-security/microservices-learning-curve?u=76281980&t=123)** I can guide you through the rest of the lessons from here.
+> **[2:03](https://www.linkedin.com/learning/microservices-security/microservices-learning-curve?u=76281980&t=123)** I can guide you through the [[Representational State Transfer (REST)|rest]] of the lessons from here.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Microservices]] (4), [[DevOps]] (1), application (1), [[Scrum]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (4), [[DevOps]] (1), [[Scrum]] (1), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -169,18 +167,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Microservice concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/microservice-concepts?u=76281980)
+#### [Microservice concepts](https://www.linkedin.com/learning/microservices-security/microservice-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microservices-security/microservice-concepts?u=76281980&t=0)** - [Instructor] Microservice Architectures have introduced a fundamental shift that changes how developers build, operate, and secure technical systems.
 >
-> **[0:11](https://www.linkedin.com/learning/microservices-security/microservice-concepts?u=76281980&t=11)** Before microservices many systems were built using a three tier architecture that consisted of a presentation layer that runs in the browser, a logic tier that ran server side and a database tier where information was stored.
+> **[0:11](https://www.linkedin.com/learning/microservices-security/microservice-concepts?u=76281980&t=11)** Before [[Microservices]] many systems were built using a three tier architecture that consisted of a presentation layer that runs in the browser, a logic tier that ran server side and a database tier where information was stored.
 >
 > **[0:26](https://www.linkedin.com/learning/microservices-security/microservice-concepts?u=76281980&t=26)** In this architecture the logic tier contains a set of services that work together to provide the systems business capabilities and data.
 >
-> **[0:36](https://www.linkedin.com/learning/microservices-security/microservice-concepts?u=76281980&t=36)** In a hypothetical e-commerce system this might include services for business functions like the product catalog, inventory, pricing, shopping cart, and delivery.
+> **[0:36](https://www.linkedin.com/learning/microservices-security/microservice-concepts?u=76281980&t=36)** In a hypothetical [[E-Commerce]] system this might include services for business functions like the product catalog, inventory, pricing, shopping cart, and delivery.
 >
 > **[0:47](https://www.linkedin.com/learning/microservices-security/microservice-concepts?u=76281980&t=47)** In a monolith we develop, package and deploy these business services as a single executable, which allows them to communicate in process to complete business functions.
 >
@@ -188,7 +185,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/microservices-security/microservice-concepts?u=76281980&t=72)** Since microservices execute in their own process space, all communication and collaboration between services occurs over a network protocol, typically HTTP.
 >
-> **[1:25](https://www.linkedin.com/learning/microservices-security/microservice-concepts?u=76281980&t=85)** Access to a microservices data and capabilities occur strictly through a well-defined interface that is exposed as a rest API.
+> **[1:25](https://www.linkedin.com/learning/microservices-security/microservice-concepts?u=76281980&t=85)** Access to a microservices data and capabilities occur strictly through a well-defined interface that is exposed as a [[Representational State Transfer (REST)|rest]] API.
 >
 > **[1:35](https://www.linkedin.com/learning/microservices-security/microservice-concepts?u=76281980&t=95)** Microservice architectures deliver a number of benefits that are related to their loose coupling and independence.
 >
@@ -212,23 +209,22 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/microservices-security/microservice-concepts?u=76281980&t=175)** If a service within the distributed system begins to fail microservices can implement several fault tolerance strategies to keep the system intact.
 >
-> **[3:05](https://www.linkedin.com/learning/microservices-security/microservice-concepts?u=76281980&t=185)** One resiliency pattern is the circuit breaker pattern which redirects traffic intended for a failing service to another service that provides a basic or default implementation of the service.
+> **[3:05](https://www.linkedin.com/learning/microservices-security/microservice-concepts?u=76281980&t=185)** One [[Resiliency]] pattern is the circuit breaker pattern which redirects traffic intended for a failing service to another service that provides a basic or default implementation of the service.
 >
 > **[3:19](https://www.linkedin.com/learning/microservices-security/microservice-concepts?u=76281980&t=199)** These characteristics differentiate a microservice architecture from the traditional three tier monolith and will require it different security strategies be applied to achieve confidentiality integrity, and availability.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (7), business (4), data (2), database (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (7), [[E-Commerce]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Resiliency]] (1)
 > **Env Vars:** http (1), api (1), cpu (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security fundamentals
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/security-fundamentals?u=76281980)
+#### [Security fundamentals](https://www.linkedin.com/learning/microservices-security/security-fundamentals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-security/security-fundamentals?u=76281980&t=0)** - [Instructor] Before we discuss microservice security, let's talk about several security fundamentals that apply to any system architecture.
+> **[0:00](https://www.linkedin.com/learning/microservices-security/security-fundamentals?u=76281980&t=0)** - [Instructor] Before we discuss microservice security, let's talk about several security fundamentals that apply to any [[System Architecture]].
 >
 > **[0:09](https://www.linkedin.com/learning/microservices-security/security-fundamentals?u=76281980&t=9)** When securing an information system, there are three primary security objectives, confidentiality, integrity and availability.
 >
@@ -254,7 +250,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/microservices-security/security-fundamentals?u=76281980&t=97)** Systems may need to authenticate both human users and other systems, which is accomplished through the exchange of something you know such as a password or something you have such as a token.
 >
-> **[1:50](https://www.linkedin.com/learning/microservices-security/security-fundamentals?u=76281980&t=110)** Highly sensitive systems may apply additional security measures like multi-factor authentication that combines several authentication methods such as a password and a one-time pin.
+> **[1:50](https://www.linkedin.com/learning/microservices-security/security-fundamentals?u=76281980&t=110)** Highly sensitive systems may apply additional security measures like [[Multi-factor Authentication]] that combines several authentication methods such as a password and a one-time pin.
 >
 > **[2:05](https://www.linkedin.com/learning/microservices-security/security-fundamentals?u=76281980&t=125)** Once identity is established, a system uses the authorization process to control access to resources based upon a user's privileges.
 >
@@ -264,7 +260,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/microservices-security/security-fundamentals?u=76281980&t=158)** Trust is another very important security concept because it determines to what extent something is believed to be true.
 >
-> **[2:47](https://www.linkedin.com/learning/microservices-security/security-fundamentals?u=76281980&t=167)** Systems must frequently decide whether to trust various pieces of information such as a user's identity, access privileges, tokens and transactional business data.
+> **[2:47](https://www.linkedin.com/learning/microservices-security/security-fundamentals?u=76281980&t=167)** Systems must frequently decide whether to trust various pieces of information such as a user's identity, access privileges, [[Tokens]] and transactional business data.
 >
 > **[2:59](https://www.linkedin.com/learning/microservices-security/security-fundamentals?u=76281980&t=179)** This determination is made based upon factors such as the source of the data, it's age and the integrity checks it is undergone.
 >
@@ -286,19 +282,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), data (4), [[System Architecture]] (1), next (1), [[Multi-factor Authentication]] (1)
+> **Frameworks & Libraries:** [[System Architecture]] (1), [[Multi-factor Authentication]] (1), [[Tokens]] (1)
 > **Analogies:** such as (6)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (2)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microservice security challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/microservice-security-challenges?u=76281980)
+#### [Microservice security challenges](https://www.linkedin.com/learning/microservices-security/microservice-security-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-security/microservice-security-challenges?u=76281980&t=0)** - [Instructor] Microservice Architectures present unique security challenges that require us to rethink how we approach application security.
+> **[0:00](https://www.linkedin.com/learning/microservices-security/microservice-security-challenges?u=76281980&t=0)** - [Instructor] Microservice Architectures present unique security challenges that require us to rethink how we approach [[Application Security]].
 >
 > **[0:09](https://www.linkedin.com/learning/microservices-security/microservice-security-challenges?u=76281980&t=9)** Security strategies used in monolith are well established when compared to a Microservice Architecture.
 >
@@ -342,7 +337,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/microservices-security/microservice-security-challenges?u=76281980&t=162)** For example, a denial of service attack could crash a non-essential service.
 >
-> **[2:48](https://www.linkedin.com/learning/microservices-security/microservice-security-challenges?u=76281980&t=168)** However, since the attack only hit one service, it's possible for the rest of the system to remain available.
+> **[2:48](https://www.linkedin.com/learning/microservices-security/microservice-security-challenges?u=76281980&t=168)** However, since the attack only hit one service, it's possible for the [[Representational State Transfer (REST)|rest]] of the system to remain available.
 >
 > **[2:57](https://www.linkedin.com/learning/microservices-security/microservice-security-challenges?u=76281980&t=177)** If a service were exploited, the impact might be confined to a smaller portion of the system because it is harder for an attacker to move laterally.
 >
@@ -352,7 +347,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), traffic (5), data (2), application (1), hit (1)
+> **Frameworks & Libraries:** [[Application Security]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** known as (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -362,12 +357,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Distributed access management patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/distributed-access-management-patterns?u=76281980)
+#### [Distributed access management patterns](https://www.linkedin.com/learning/microservices-security/distributed-access-management-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-security/distributed-access-management-patterns?u=76281980&t=0)** - [Instructor] As microservices have matured, so have the techniques used to secure them.
+> **[0:00](https://www.linkedin.com/learning/microservices-security/distributed-access-management-patterns?u=76281980&t=0)** - [Instructor] As [[Microservices]] have matured, so have the techniques used to secure them.
 >
 > **[0:06](https://www.linkedin.com/learning/microservices-security/distributed-access-management-patterns?u=76281980&t=6)** In security domains, such as identity and access management, you're going to even discover general patterns that have emerged, like the ones we're about to discuss.
 >
@@ -375,11 +369,11 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/microservices-security/distributed-access-management-patterns?u=76281980&t=24)** Our discussion will leave a few key points for later.
 >
-> **[0:27](https://www.linkedin.com/learning/microservices-security/distributed-access-management-patterns?u=76281980&t=27)** However, it's important we highlight two concepts before we proceed, clients and tokens.
+> **[0:27](https://www.linkedin.com/learning/microservices-security/distributed-access-management-patterns?u=76281980&t=27)** However, it's important we highlight two concepts before we proceed, clients and [[Tokens]].
 >
-> **[0:34](https://www.linkedin.com/learning/microservices-security/distributed-access-management-patterns?u=76281980&t=34)** Client is a general term that describes any hardware or software calling a service.
+> **[0:34](https://www.linkedin.com/learning/microservices-security/distributed-access-management-patterns?u=76281980&t=34)** Client is a general term that describes any [[Hardware]] or software calling a service.
 >
-> **[0:39](https://www.linkedin.com/learning/microservices-security/distributed-access-management-patterns?u=76281980&t=39)** For microservice architectures, this could be a mobile device, a single page application, a Java backend, a batch process, or another company's application.
+> **[0:39](https://www.linkedin.com/learning/microservices-security/distributed-access-management-patterns?u=76281980&t=39)** For microservice architectures, this could be a mobile device, a single page application, a [[Java]] backend, a batch process, or another company's application.
 >
 > **[0:50](https://www.linkedin.com/learning/microservices-security/distributed-access-management-patterns?u=76281980&t=50)** Now, clients are also used by end users to access their data on APIs or microservices.
 >
@@ -401,7 +395,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/microservices-security/distributed-access-management-patterns?u=76281980&t=112)** These tokens are passed in calls to the microservices by the client to demonstrate its permission to access them.
 >
-> **[2:01](https://www.linkedin.com/learning/microservices-security/distributed-access-management-patterns?u=76281980&t=121)** From here, the pattern can take several forms.
+> **[2:01](https://www.linkedin.com/learning/microservices-security/distributed-access-management-patterns?u=76281980&t=121)** From here, the pattern can take several [[Forms]].
 >
 > **[2:05](https://www.linkedin.com/learning/microservices-security/distributed-access-management-patterns?u=76281980&t=125)** In simple and direct implementations, microservices will pass the token back to the identity service to verify its authenticity before granting access to a resource.
 >
@@ -431,14 +425,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (10), [[Tokens]] (5), traffic (5), [[Security]] (4), management (2)
+> **Frameworks & Libraries:** [[Microservices]] (10), [[Tokens]] (5), [[Hardware]] (1), [[Java]] (1), [[Forms]] (1)
 > **Env Vars:** uuid (1), api (1)
 > **Analogies:** such as (1), similar to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identity and Access Management platforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/identity-and-access-management-platforms?u=76281980)
+#### [Identity and Access Management platforms](https://www.linkedin.com/learning/microservices-security/identity-and-access-management-platforms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -454,7 +447,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/microservices-security/identity-and-access-management-platforms?u=76281980&t=41)** Now if you're in an enterprise setting, it's highly likely that your IAM platform has been selected for you.
 >
-> **[0:50](https://www.linkedin.com/learning/microservices-security/identity-and-access-management-platforms?u=76281980&t=50)** As a developer or a security engineer, you're going to find yourself integrating microservices with the IAM platform in order to secure them.
+> **[0:50](https://www.linkedin.com/learning/microservices-security/identity-and-access-management-platforms?u=76281980&t=50)** As a developer or a security engineer, you're going to find yourself integrating [[Microservices]] with the IAM platform in order to secure them.
 >
 > **[1:01](https://www.linkedin.com/learning/microservices-security/identity-and-access-management-platforms?u=76281980&t=61)** From an integration perspective, we're primarily interested in four capabilities provided by these platforms: authentication, identity management, security standard implementations, and token management.
 >
@@ -466,9 +459,9 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/microservices-security/identity-and-access-management-platforms?u=76281980&t=95)** Identity store store users credentials, and information like permissions about them that we can use to make access control decisions within a system.
 >
-> **[1:46](https://www.linkedin.com/learning/microservices-security/identity-and-access-management-platforms?u=76281980&t=106)** Identity stores range from local databases, to corporate held apps, to even social networking sites that allow users to use their credentials on that platform to authenticate in another system.
+> **[1:46](https://www.linkedin.com/learning/microservices-security/identity-and-access-management-platforms?u=76281980&t=106)** Identity stores range from local [[Databases]], to corporate held apps, to even social networking sites that allow users to use their credentials on that platform to authenticate in another system.
 >
-> **[2:01](https://www.linkedin.com/learning/microservices-security/identity-and-access-management-platforms?u=76281980&t=121)** For extra sensitive scenarios, IAM platforms also support multi-factor authentication.
+> **[2:01](https://www.linkedin.com/learning/microservices-security/identity-and-access-management-platforms?u=76281980&t=121)** For extra sensitive scenarios, IAM platforms also support [[Multi-factor Authentication]].
 >
 > **[2:08](https://www.linkedin.com/learning/microservices-security/identity-and-access-management-platforms?u=76281980&t=128)** Using this technique, we combine their credentials with another form of authentication, like a one-time pin or biometrics.
 >
@@ -480,7 +473,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/microservices-security/identity-and-access-management-platforms?u=76281980&t=165)** Using the identity management capabilities found in an IAM platform, we can satisfy these scenarios.
 >
-> **[2:53](https://www.linkedin.com/learning/microservices-security/identity-and-access-management-platforms?u=76281980&t=173)** These solutions are also great sources for implementations of security standards and protocols used by microservices, such as OAuth two, OpenID Connect, and JSON Web Token.
+> **[2:53](https://www.linkedin.com/learning/microservices-security/identity-and-access-management-platforms?u=76281980&t=173)** These solutions are also great sources for implementations of security standards and protocols used by microservices, such as OAuth two, OpenID Connect, and [[JSON]] Web Token.
 >
 > **[3:06](https://www.linkedin.com/learning/microservices-security/identity-and-access-management-platforms?u=76281980&t=186)** These are the details I mentioned in our pattern discussion.
 >
@@ -488,7 +481,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/microservices-security/identity-and-access-management-platforms?u=76281980&t=198)** If you find yourself building an authorization server, it's time to take a step back and readdress the situation.
 >
-> **[3:26](https://www.linkedin.com/learning/microservices-security/identity-and-access-management-platforms?u=76281980&t=206)** Tokens are also extremely important for securing microservices, and you'll find capabilities for managing them within many identity and access management platforms.
+> **[3:26](https://www.linkedin.com/learning/microservices-security/identity-and-access-management-platforms?u=76281980&t=206)** [[Tokens]] are also extremely important for securing microservices, and you'll find capabilities for managing them within many identity and access management platforms.
 >
 > **[3:37](https://www.linkedin.com/learning/microservices-security/identity-and-access-management-platforms?u=76281980&t=217)** The capability to create and verify tokens is handled by an authorization server, which is defined in the OAuth two specification, and implemented in many IAM platforms.
 >
@@ -508,7 +501,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (9), [[Security]] (5), [[Microservices]] (4), [[Tokens]] (3), open-source (1)
+> **Frameworks & Libraries:** [[Microservices]] (4), [[Tokens]] (3), [[Databases]] (1), [[Multi-factor Authentication]] (1), [[JSON]] (1)
 > **Env Vars:** iam (8), json (1)
 > **CLI Commands:** find (6), make (1)
 > **Analogies:** such as (2)
@@ -516,8 +509,7 @@ created: 2026-05-02
 > **Best Practices:** general rule (1)
 > **Speakers:** - [instructor] (1)
 
-#### API gateways
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/api-gateways?u=76281980)
+#### [API gateways](https://www.linkedin.com/learning/microservices-security/api-gateways?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -529,7 +521,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/microservices-security/api-gateways?u=76281980&t=27)** In many microservice-based systems, an API gateway platform, which is one type of reverse proxy, is placed at the edge of the microservice deployment, where the traffic enters.
 >
-> **[0:38](https://www.linkedin.com/learning/microservices-security/api-gateways?u=76281980&t=38)** To reach the microservices, all traffic must first pass through an API interface located in the gateway.
+> **[0:38](https://www.linkedin.com/learning/microservices-security/api-gateways?u=76281980&t=38)** To reach the [[Microservices]], all traffic must first pass through an API interface located in the gateway.
 >
 > **[0:46](https://www.linkedin.com/learning/microservices-security/api-gateways?u=76281980&t=46)** This creates a secure access point into the microservices and shields the clients from any changes made beyond the gateway.
 >
@@ -549,7 +541,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/microservices-security/api-gateways?u=76281980&t=116)** Aside from policies, API gateways also provide visibility into the traffic that enters our microservices.
 >
-> **[2:04](https://www.linkedin.com/learning/microservices-security/api-gateways?u=76281980&t=124)** We can monitor and trace this traffic via dashboards built into the tool, and these can be helpful when we need to investigate a security incident.
+> **[2:04](https://www.linkedin.com/learning/microservices-security/api-gateways?u=76281980&t=124)** We can monitor and trace this traffic via [[Dashboards]] built into the tool, and these can be helpful when we need to investigate a security incident.
 >
 > **[2:13](https://www.linkedin.com/learning/microservices-security/api-gateways?u=76281980&t=133)** Additionally, there are many features not related to security that we can interject into an API gateway, like monetization.
 >
@@ -577,19 +569,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (11), [[Microservices]] (10), traffic (9), [[Security]] (5), management (2)
+> **Frameworks & Libraries:** [[Microservices]] (10), [[Dashboards]] (1)
 > **Env Vars:** api (11), iam (3)
 > **CLI Commands:** find (4), make (1)
 > **Documentation:** stack overflow (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Access scenarios
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/access-scenarios?u=76281980)
+#### [Access scenarios](https://www.linkedin.com/learning/microservices-security/access-scenarios?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-security/access-scenarios?u=76281980&t=0)** - [Instructor] Whether you are building microservices or a client calling them through an API, it is helpful to understand the wide array of complex access scenarios that can influence your security scheme.
+> **[0:00](https://www.linkedin.com/learning/microservices-security/access-scenarios?u=76281980&t=0)** - [Instructor] Whether you are building [[Microservices]] or a client calling them through an API, it is helpful to understand the wide array of complex access scenarios that can influence your security scheme.
 >
 > **[0:13](https://www.linkedin.com/learning/microservices-security/access-scenarios?u=76281980&t=13)** Access to a microservice occurs through a client, which is the system making the call to the service.
 >
@@ -661,33 +652,32 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), application (4), [[Microservices]] (3), api (2), web application (1)
+> **Frameworks & Libraries:** [[Microservices]] (3)
 > **Analogies:** for example (1), such as (1), picture (1), think of it like (1), similar to (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** api (2), iam (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with IAM platforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/work-with-iam-platforms?u=76281980)
+#### [Work with IAM platforms](https://www.linkedin.com/learning/microservices-security/work-with-iam-platforms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-security/work-with-iam-platforms?u=76281980&t=0)** - [Instructor] In this lesson, we're going to get hands-on with an IAM platform so that you can better understand the underlying concepts and how they help secure our microservices.
+> **[0:00](https://www.linkedin.com/learning/microservices-security/work-with-iam-platforms?u=76281980&t=0)** - [Instructor] In this lesson, we're going to get hands-on with an IAM platform so that you can better understand the underlying concepts and how they help secure our [[Microservices]].
 >
-> **[0:11](https://www.linkedin.com/learning/microservices-security/work-with-iam-platforms?u=76281980&t=11)** For our exploration, we'll be using Microsoft Entra.
+> **[0:11](https://www.linkedin.com/learning/microservices-security/work-with-iam-platforms?u=76281980&t=11)** For our exploration, we'll be using [[Microsoft]] [[Microsoft Entra ID|Entra]].
 >
 > **[0:16](https://www.linkedin.com/learning/microservices-security/work-with-iam-platforms?u=76281980&t=16)** It's one of the most widely used identity and access management platforms.
 >
 > **[0:21](https://www.linkedin.com/learning/microservices-security/work-with-iam-platforms?u=76281980&t=21)** Now Entra is really an entire family of security services offered by Microsoft, and here you can see all of the great capabilities that it delivers.
 >
-> **[0:33](https://www.linkedin.com/learning/microservices-security/work-with-iam-platforms?u=76281980&t=33)** The feature set that we'll be using is Microsoft Entra ID because it's where we find core capabilities like app registration and OAuth configurations that we'll need to secure microservices.
+> **[0:33](https://www.linkedin.com/learning/microservices-security/work-with-iam-platforms?u=76281980&t=33)** The feature set that we'll be using is [[Microsoft Entra ID]] because it's where we find core capabilities like app registration and OAuth configurations that we'll need to secure microservices.
 >
-> **[0:47](https://www.linkedin.com/learning/microservices-security/work-with-iam-platforms?u=76281980&t=47)** To work with Entra ID, you'll need to log into the admin center by navigating to entra.[microsoft.com](https://microsoft.com) within your web browser.
+> **[0:47](https://www.linkedin.com/learning/microservices-security/work-with-iam-platforms?u=76281980&t=47)** To work with [[Microsoft Entra ID|Entra ID]], you'll need to log into the admin center by navigating to entra.[microsoft.com](https://microsoft.com) within your web browser.
 >
-> **[0:57](https://www.linkedin.com/learning/microservices-security/work-with-iam-platforms?u=76281980&t=57)** Now, if you worked with the Azure Cloud, the layout and style of this portal should feel familiar, and that's because Microsoft Entra Identity is primarily a cloud-based Identity as a Service.
+> **[0:57](https://www.linkedin.com/learning/microservices-security/work-with-iam-platforms?u=76281980&t=57)** Now, if you worked with the [[Microsoft Azure|Azure]] Cloud, the layout and style of this portal should feel familiar, and that's because Microsoft Entra Identity is primarily a cloud-based Identity as a Service.
 >
-> **[1:11](https://www.linkedin.com/learning/microservices-security/work-with-iam-platforms?u=76281980&t=71)** In the past, the service was known as Azure Active Directory, so just know that you might encounter its former name if you're looking at older information on the web.
+> **[1:11](https://www.linkedin.com/learning/microservices-security/work-with-iam-platforms?u=76281980&t=71)** In the past, the service was known as [[Microsoft Entra ID|Azure Active Directory]], so just know that you might encounter its former name if you're looking at older information on the web.
 >
 > **[1:23](https://www.linkedin.com/learning/microservices-security/work-with-iam-platforms?u=76281980&t=83)** Over here on the sidebar, within this identity group, we'll find the capabilities that we need to architect and build a secure distributed system composed of microservices.
 >
@@ -757,7 +747,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (6), [[Microsoft Entra ID|Entra]] (6), [[Microsoft]] (4), [[Microsoft Azure|Azure]] (4), management (2)
+> **Frameworks & Libraries:** [[Microservices]] (6), [[Microsoft Entra ID|Entra]] (6), [[Microsoft]] (4), [[Microsoft Azure|Azure]] (4), [[Microsoft Entra ID]] (1)
 > **UI Navigation:** click on (3), dropdown (1)
 > **CLI Commands:** find (2), make (1)
 > **Tools:** azure portal (2)
@@ -771,12 +761,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/tokens?u=76281980)
+#### [Tokens](https://www.linkedin.com/learning/microservices-security/tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-security/tokens?u=76281980&t=0)** - [Instructor] Microservices depend heavily upon tokens for establishing identity and enforcing access control.
+> **[0:00](https://www.linkedin.com/learning/microservices-security/tokens?u=76281980&t=0)** - [Instructor] [[Microservices]] depend heavily upon [[Tokens]] for establishing identity and enforcing access control.
 >
 > **[0:07](https://www.linkedin.com/learning/microservices-security/tokens?u=76281980&t=7)** Tokens help overcome the challenges posed by a distributed system.
 >
@@ -790,7 +779,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/microservices-security/tokens?u=76281980&t=49)** At a high level, tokens fall under one of two formats, reference or structured.
 >
-> **[0:55](https://www.linkedin.com/learning/microservices-security/tokens?u=76281980&t=55)** The major difference between these two tokens is where the token's actual metadata is stored.
+> **[0:55](https://www.linkedin.com/learning/microservices-security/tokens?u=76281980&t=55)** The major difference between these two tokens is where the token's actual [[Metadata]] is stored.
 >
 > **[1:02](https://www.linkedin.com/learning/microservices-security/tokens?u=76281980&t=62)** A reference token is an opaque string that doesn't contain any meaningful data.
 >
@@ -800,7 +789,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/microservices-security/tokens?u=76281980&t=90)** The metadata is stored in key value pairs known as claims, which are grouped together into a claim set.
 >
-> **[1:38](https://www.linkedin.com/learning/microservices-security/tokens?u=76281980&t=98)** One of the standards for formatting structured tokens commonly used inside microservices is JSON web token.
+> **[1:38](https://www.linkedin.com/learning/microservices-security/tokens?u=76281980&t=98)** One of the standards for formatting structured tokens commonly used inside microservices is [[JSON]] web token.
 >
 > **[1:46](https://www.linkedin.com/learning/microservices-security/tokens?u=76281980&t=106)** When discussing JSON web tokens, you'll hear the term pronounced as either JWT or jot.
 >
@@ -810,7 +799,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/microservices-security/tokens?u=76281980&t=129)** The jot structure defines three segments, a header, the payload, and a signature.
 >
-> **[2:16](https://www.linkedin.com/learning/microservices-security/tokens?u=76281980&t=136)** The JOSE header of a jot specifies how the token was cryptographically protected, allowing the holder of the token to understand what algorithms or techniques were used to sign or encrypt the token.
+> **[2:16](https://www.linkedin.com/learning/microservices-security/tokens?u=76281980&t=136)** The JOSE header of a jot specifies how the token was cryptographically protected, allowing the holder of the token to understand what [[Algorithms]] or techniques were used to sign or encrypt the token.
 >
 > **[2:29](https://www.linkedin.com/learning/microservices-security/tokens?u=76281980&t=149)** The payload or claim set of a jot contains information formatted in key value pairs that pertain to the end user or authentication event.
 >
@@ -840,22 +829,21 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/microservices-security/tokens?u=76281980&t=259)** However, the trade-off is that tokens are much more difficult to manage.
 >
-> **[4:25](https://www.linkedin.com/learning/microservices-security/tokens?u=76281980&t=265)** In upcoming discussions, we'll layer in how various standards and cryptography are used to protect the integrity and confidentiality of tokens in microservice-based systems so that they can securely be used for access control.
+> **[4:25](https://www.linkedin.com/learning/microservices-security/tokens?u=76281980&t=265)** In upcoming discussions, we'll layer in how various standards and [[Cryptography]] are used to protect the integrity and confidentiality of tokens in microservice-based systems so that they can securely be used for access control.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (18), [[Microservices]] (4), [[Metadata]] (4), [[JSON]] (3), web (2)
+> **Frameworks & Libraries:** [[Tokens]] (18), [[Microservices]] (4), [[Metadata]] (4), [[JSON]] (3), [[Algorithms]] (1)
 > **Env Vars:** json (3), iam (2), jwt (2), jose (1)
 > **Definitions:** known as (2), is a  (2), is an  (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### OAuth 2 primer
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/oauth-2-primer?u=76281980)
+#### [OAuth 2 primer](https://www.linkedin.com/learning/microservices-security/oauth-2-primer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-security/oauth-2-primer?u=76281980&t=0)** - [Instructor] OAuth is an authorization standard that supports token based security approaches like those used for securing microservices.
+> **[0:00](https://www.linkedin.com/learning/microservices-security/oauth-2-primer?u=76281980&t=0)** - [Instructor] OAuth is an authorization standard that supports token based security approaches like those used for securing [[Microservices]].
 >
 > **[0:09](https://www.linkedin.com/learning/microservices-security/oauth-2-primer?u=76281980&t=9)** OAuth can be a little complicated but it's really important to understand.
 >
@@ -871,7 +859,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/microservices-security/oauth-2-primer?u=76281980&t=46)** The resource server makes a resource owner's information accessible if an access token is provided.
 >
-> **[0:55](https://www.linkedin.com/learning/microservices-security/oauth-2-primer?u=76281980&t=55)** The authorization server is responsible for issuing that access token to a client and verifying the integrity of access tokens pass to the resource server.
+> **[0:55](https://www.linkedin.com/learning/microservices-security/oauth-2-primer?u=76281980&t=55)** The authorization server is responsible for issuing that access token to a client and verifying the integrity of access [[Tokens]] pass to the resource server.
 >
 > **[1:06](https://www.linkedin.com/learning/microservices-security/oauth-2-primer?u=76281980&t=66)** Finally, the client is an application that accesses resources on behalf of a resource owner.
 >
@@ -929,27 +917,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (5), [[Security]] (2), api (2), [[Tokens]] (2), next (1)
+> **Frameworks & Libraries:** [[Microservices]] (5), [[Tokens]] (2)
 > **Env Vars:** api (2), https (1), jwt (1), jws (1)
 > **Definitions:** is an  (2), is a  (2), known as (1)
 > **Documentation:** specification (3)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### OAuth in Microsoft Entra
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/oauth-in-microsoft-entra?u=76281980)
+#### [OAuth in Microsoft Entra](https://www.linkedin.com/learning/microservices-security/oauth-in-microsoft-entra?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microservices-security/oauth-in-microsoft-entra?u=76281980&t=0)** - [Instructor] In OAuth, key concepts, like the resource owner, resource server, clients, and authorization server form the backbone of how access control works.
 >
-> **[0:11](https://www.linkedin.com/learning/microservices-security/oauth-in-microsoft-entra?u=76281980&t=11)** In this lesson, we'll get hands-on to explore how some of these OAuth concepts come to life, using Microsoft Entra.
+> **[0:11](https://www.linkedin.com/learning/microservices-security/oauth-in-microsoft-entra?u=76281980&t=11)** In this lesson, we'll get hands-on to explore how some of these OAuth concepts come to life, using [[Microsoft]] [[Microsoft Entra ID|Entra]].
 >
 > **[0:19](https://www.linkedin.com/learning/microservices-security/oauth-in-microsoft-entra?u=76281980&t=19)** So we have those four basic building blocks in OAuth, like I mentioned, the authorization server, the resource owner, the resource server, and the client.
 >
 > **[0:30](https://www.linkedin.com/learning/microservices-security/oauth-in-microsoft-entra?u=76281980&t=30)** Now, within Entra, one of the major features of Microsoft Entra is that it serves as an authorization server according to the OAuth protocol.
 >
-> **[0:41](https://www.linkedin.com/learning/microservices-security/oauth-in-microsoft-entra?u=76281980&t=41)** That means it's capable of issuing and managing access tokens.
+> **[0:41](https://www.linkedin.com/learning/microservices-security/oauth-in-microsoft-entra?u=76281980&t=41)** That means it's capable of issuing and managing access [[Tokens]].
 >
 > **[0:46](https://www.linkedin.com/learning/microservices-security/oauth-in-microsoft-entra?u=76281980&t=46)** Now, just to get a glimpse of its support, let's head over here to the application section, and then we'll go to app registrations, and then we'll navigate to the endpoints tab.
 >
@@ -961,7 +948,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/microservices-security/oauth-in-microsoft-entra?u=76281980&t=95)** Remember in the previous lesson where we have created this user, test user one?
 >
-> **[1:42](https://www.linkedin.com/learning/microservices-security/oauth-in-microsoft-entra?u=76281980&t=102)** Well, this user is going to work with different applications inside of our Azure tenant, and it's going to own various resources within those apps.
+> **[1:42](https://www.linkedin.com/learning/microservices-security/oauth-in-microsoft-entra?u=76281980&t=102)** Well, this user is going to work with different applications inside of our [[Microsoft Azure|Azure]] tenant, and it's going to own various resources within those apps.
 >
 > **[1:53](https://www.linkedin.com/learning/microservices-security/oauth-in-microsoft-entra?u=76281980&t=113)** So for example, if our organization creates a messaging app, this user might own resources, like chat messages, that they're going to control the access to.
 >
@@ -1043,7 +1030,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (10), application (6), [[Microsoft]] (4), next (3), [[Tokens]] (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (10), [[Microsoft]] (4), [[Tokens]] (2), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** click on (4), navigate to (2), go to (1)
 > **Env Vars:** api (2), uri (2)
 > **Analogies:** for example (1), think of it like (1)
@@ -1052,12 +1039,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Prerequisites:** set up (1)
 
-#### Register client applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/register-client-applications?u=76281980)
+#### [Register client applications](https://www.linkedin.com/learning/microservices-security/register-client-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-security/register-client-applications?u=76281980&t=0)** - [Instructor] The final OAuth building block that we'll check out in Microsoft Entra is the client.
+> **[0:00](https://www.linkedin.com/learning/microservices-security/register-client-applications?u=76281980&t=0)** - [Instructor] The final OAuth building block that we'll check out in [[Microsoft]] [[Microsoft Entra ID|Entra]] is the client.
 >
 > **[0:06](https://www.linkedin.com/learning/microservices-security/register-client-applications?u=76281980&t=6)** You'll recall the client is some application or service that wants to access the resource owners protected resources, which are held by the resource server, and that's our microservice.
 >
@@ -1085,7 +1071,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/microservices-security/register-client-applications?u=76281980&t=103)** This will be important during our OAuth flows.
 >
-> **[1:47](https://www.linkedin.com/learning/microservices-security/register-client-applications?u=76281980&t=107)** Now we're going to add some permissions to this client application to allow it to access the scope that we created on our microservices.
+> **[1:47](https://www.linkedin.com/learning/microservices-security/register-client-applications?u=76281980&t=107)** Now we're going to add some permissions to this client application to allow it to access the scope that we created on our [[Microservices]].
 >
 > **[1:58](https://www.linkedin.com/learning/microservices-security/register-client-applications?u=76281980&t=118)** To do that, we come over here to API permissions, and then we click on this button to add a permission for our app registration.
 >
@@ -1125,7 +1111,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Microsoft Entra ID|Entra]] (4), [[Microsoft]] (3), api (3), [[Microservices]] (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (4), [[Microsoft]] (3), [[Microservices]] (2)
 > **Env Vars:** uri (4), api (3)
 > **UI Navigation:** click on (4), select the (1)
 > **Definitions:** is a  (3)
@@ -1133,14 +1119,13 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Issuing tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/issuing-tokens?u=76281980)
+#### [Issuing tokens](https://www.linkedin.com/learning/microservices-security/issuing-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microservices-security/issuing-tokens?u=76281980&t=0)** - [Instructor] Being issued an access token is the first step for clients that need to securely access a microservice.
 >
-> **[0:07](https://www.linkedin.com/learning/microservices-security/issuing-tokens?u=76281980&t=7)** Tokens are issued to a client after a series of calls are orchestrated between the resource owner, the client application and the authorization server.
+> **[0:07](https://www.linkedin.com/learning/microservices-security/issuing-tokens?u=76281980&t=7)** [[Tokens]] are issued to a client after a series of calls are orchestrated between the resource owner, the client application and the authorization server.
 >
 > **[0:17](https://www.linkedin.com/learning/microservices-security/issuing-tokens?u=76281980&t=17)** The first part of this exchange is very important because the resource owner authenticates with the authorization server using their credentials.
 >
@@ -1166,7 +1151,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/microservices-security/issuing-tokens?u=76281980&t=90)** To understand the exact details of how tokens can be issued, the OAuth two framework specifies four grant types.
 >
-> **[1:38](https://www.linkedin.com/learning/microservices-security/issuing-tokens?u=76281980&t=98)** We'll dive into the details of the two most commonly used for microservices, the authorization code grant and the client credentials grant.
+> **[1:38](https://www.linkedin.com/learning/microservices-security/issuing-tokens?u=76281980&t=98)** We'll dive into the details of the two most commonly used for [[Microservices]], the authorization code grant and the client credentials grant.
 >
 > **[1:48](https://www.linkedin.com/learning/microservices-security/issuing-tokens?u=76281980&t=108)** Both grant types define HTTPS calls to specific end points expected on the authorization server that are used by the client in the process of obtaining a token.
 >
@@ -1220,22 +1205,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (3), application (3), [[Microservices]] (2), api (1), management (1)
+> **Frameworks & Libraries:** [[Tokens]] (3), [[Microservices]] (2)
 > **Env Vars:** uri (4), https (2), iam (2), csrf (1), http (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with OAuth 2.0 endpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/work-with-oauth2-endpoints?u=76281980)
+#### [Work with OAuth 2.0 endpoints](https://www.linkedin.com/learning/microservices-security/work-with-oauth2-endpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microservices-security/work-with-oauth2-endpoints?u=76281980&t=0)** - [Instructor] To get a better sense of how an OAuth flow works, we're going to secure and access a small .NET microservice.
 >
-> **[0:09](https://www.linkedin.com/learning/microservices-security/work-with-oauth2-endpoints?u=76281980&t=9)** For our example, I built a small web API that returns a user's chat messages, which are stored in a SQL server database.
+> **[0:09](https://www.linkedin.com/learning/microservices-security/work-with-oauth2-endpoints?u=76281980&t=9)** For our example, I built a small web API that returns a user's chat messages, which are stored in a [[Microsoft SQL Server|SQL server]] database.
 >
-> **[0:19](https://www.linkedin.com/learning/microservices-security/work-with-oauth2-endpoints?u=76281980&t=19)** So, this is the microservice that we registered in Microsoft Entra, and now we will implement token-based authorization for it.
+> **[0:19](https://www.linkedin.com/learning/microservices-security/work-with-oauth2-endpoints?u=76281980&t=19)** So, this is the microservice that we registered in [[Microsoft]] [[Microsoft Entra ID|Entra]], and now we will implement token-based authorization for it.
 >
 > **[0:28](https://www.linkedin.com/learning/microservices-security/work-with-oauth2-endpoints?u=76281980&t=28)** .NET Has great integration with Microsoft Entra that makes it really simple to achieve that for a microservice.
 >
@@ -1245,17 +1229,17 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/microservices-security/work-with-oauth2-endpoints?u=76281980&t=57)** These allow our microservice to authorize incoming requests using an access token.
 >
-> **[1:03](https://www.linkedin.com/learning/microservices-security/work-with-oauth2-endpoints?u=76281980&t=63)** The authorized attribute will cause .NET to validate the token it receives from the client, and then, the required scope attribute points to a scope's property that's defined in our app settings.json configuration file, which we can see over here.
+> **[1:03](https://www.linkedin.com/learning/microservices-security/work-with-oauth2-endpoints?u=76281980&t=63)** The authorized attribute will cause .NET to validate the token it receives from the client, and then, the required scope attribute points to a scope's property that's defined in our app settings.[[JSON]] configuration file, which we can see over here.
 >
 > **[1:25](https://www.linkedin.com/learning/microservices-security/work-with-oauth2-endpoints?u=76281980&t=85)** In this file, we've configured the scope property to require that clients accessing the web API have been authorized for the chat.messages scope that we set up for the chat microservice.
 >
-> **[1:39](https://www.linkedin.com/learning/microservices-security/work-with-oauth2-endpoints?u=76281980&t=99)** You'll also notice that we provide the client ID of the chat microservice, and its Azure tenant ID.
+> **[1:39](https://www.linkedin.com/learning/microservices-security/work-with-oauth2-endpoints?u=76281980&t=99)** You'll also notice that we provide the client ID of the chat microservice, and its [[Microsoft Azure|Azure]] tenant ID.
 >
 > **[1:47](https://www.linkedin.com/learning/microservices-security/work-with-oauth2-endpoints?u=76281980&t=107)** We've obtained all of these values from the app registration page for the chat microservice that's located within the Azure portal.
 >
 > **[1:57](https://www.linkedin.com/learning/microservices-security/work-with-oauth2-endpoints?u=76281980&t=117)** You can see them all over here.
 >
-> **[1:59](https://www.linkedin.com/learning/microservices-security/work-with-oauth2-endpoints?u=76281980&t=119)** So, now everything is in place for this microservice to use tokens to ensure only authorized access is permitted to the chat messages.
+> **[1:59](https://www.linkedin.com/learning/microservices-security/work-with-oauth2-endpoints?u=76281980&t=119)** So, now everything is in place for this microservice to use [[Tokens]] to ensure only authorized access is permitted to the chat messages.
 >
 > **[2:11](https://www.linkedin.com/learning/microservices-security/work-with-oauth2-endpoints?u=76281980&t=131)** Let's now shift our attention to the client.
 >
@@ -1263,7 +1247,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/microservices-security/work-with-oauth2-endpoints?u=76281980&t=142)** To do that, it needs to obtain an access token that it can include with the request to our chat microservice.
 >
-> **[2:31](https://www.linkedin.com/learning/microservices-security/work-with-oauth2-endpoints?u=76281980&t=151)** To demonstrate this flow, I'm going to use a REST client named Insomnia.
+> **[2:31](https://www.linkedin.com/learning/microservices-security/work-with-oauth2-endpoints?u=76281980&t=151)** To demonstrate this flow, I'm going to use a [[Representational State Transfer (REST)|REST]] client named Insomnia.
 >
 > **[2:36](https://www.linkedin.com/learning/microservices-security/work-with-oauth2-endpoints?u=76281980&t=156)** Here, in Insomnia, I've created a GET request against the messages operation on our chat microservice.
 >
@@ -1335,7 +1319,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[Microsoft Entra ID|Entra]] (5), [[Microsoft]] (3), [[Microsoft Azure|Azure]] (3), api (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra]] (5), [[Microsoft]] (3), [[Microsoft Azure|Azure]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** net (3), api (2), rest (2), url (2), uri (2)
 > **Tools:** insomnia (5), azure portal (2)
 > **Prerequisites:** set up (2), configure (1), you'll need (1)
@@ -1344,8 +1328,7 @@ created: 2026-05-02
 > **API Endpoints:** get  (1)
 > **Cross-References:** earlier in (1)
 
-#### Issuing identity tokens with OIDC
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/issuing-identity-tokens-with-oidc?u=76281980)
+#### [Issuing identity tokens with OIDC](https://www.linkedin.com/learning/microservices-security/issuing-identity-tokens-with-oidc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1367,7 +1350,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/microservices-security/issuing-identity-tokens-with-oidc?u=76281980&t=55)** You've probably seen this scenario before.
 >
-> **[0:59](https://www.linkedin.com/learning/microservices-security/issuing-identity-tokens-with-oidc?u=76281980&t=59)** Organizations like LinkedIn, Google or Facebook allow applications they don't own to use their identity provider.
+> **[0:59](https://www.linkedin.com/learning/microservices-security/issuing-identity-tokens-with-oidc?u=76281980&t=59)** Organizations like [[LinkedIn]], [[Google]] or Facebook allow applications they don't own to use their identity provider.
 >
 > **[1:07](https://www.linkedin.com/learning/microservices-security/issuing-identity-tokens-with-oidc?u=76281980&t=67)** If you've ever used a sign in with button, you've seen OpenID Connect in action.
 >
@@ -1403,7 +1386,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/microservices-security/issuing-identity-tokens-with-oidc?u=76281980&t=193)** Since the ID token is a jot, it contains a cryptographic signature that protects the token from being tampered with.
 >
-> **[3:21](https://www.linkedin.com/learning/microservices-security/issuing-identity-tokens-with-oidc?u=76281980&t=201)** Identity tokens should only be used by clients and should not be used for API access.
+> **[3:21](https://www.linkedin.com/learning/microservices-security/issuing-identity-tokens-with-oidc?u=76281980&t=201)** Identity [[Tokens]] should only be used by clients and should not be used for API access.
 >
 > **[3:28](https://www.linkedin.com/learning/microservices-security/issuing-identity-tokens-with-oidc?u=76281980&t=208)** To establish user identity within a microservice, the access token can be passed to the identity provider's user info endpoint to receive claims with information about the end-user.
 >
@@ -1459,11 +1442,11 @@ created: 2026-05-02
 >
 > **[6:19](https://www.linkedin.com/learning/microservices-security/issuing-identity-tokens-with-oidc?u=76281980&t=379)** So you can see how OpenID Connect augments OAuth to provide a useful identity layer on top of the protocol.
 >
-> **[6:26](https://www.linkedin.com/learning/microservices-security/issuing-identity-tokens-with-oidc?u=76281980&t=386)** The capabilities that are provided by this layer, especially the identity token and user info endpoint, provide an extremely useful specification for establishing a user context across microservices.
+> **[6:26](https://www.linkedin.com/learning/microservices-security/issuing-identity-tokens-with-oidc?u=76281980&t=386)** The capabilities that are provided by this layer, especially the identity token and user info endpoint, provide an extremely useful specification for establishing a user context across [[Microservices]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), application (1), [[LinkedIn]] (1), [[Tokens]] (1), api (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[LinkedIn]] (1), [[Tokens]] (1), [[Microservices]] (1)
 > **Env Vars:** oidc (3), api (1), eyj (1), hs256 (1)
 > **Documentation:** specification (2)
 > **Definitions:** is a  (2)
@@ -1472,12 +1455,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Token validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/token-validation?u=76281980)
+#### [Token validation](https://www.linkedin.com/learning/microservices-security/token-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-security/token-validation?u=76281980&t=0)** - [Instructor] Tokens are sensitive pieces of information that must be validated because they grant access to the microservices that sit behind an API.
+> **[0:00](https://www.linkedin.com/learning/microservices-security/token-validation?u=76281980&t=0)** - [Instructor] [[Tokens]] are sensitive pieces of information that must be validated because they grant access to the [[Microservices]] that sit behind an API.
 >
 > **[0:10](https://www.linkedin.com/learning/microservices-security/token-validation?u=76281980&t=10)** In a token-based security scheme, the token is held by the client between requests and it is passed to the resource server with each request.
 >
@@ -1497,7 +1479,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/microservices-security/token-validation?u=76281980&t=67)** It's also important that the authorization server has clustering and caching in place so that it can scale to meet heavy loads.
 >
-> **[1:17](https://www.linkedin.com/learning/microservices-security/token-validation?u=76281980&t=77)** Validating and protecting structured tokens is a much deeper and more complicated space, which is defined by the JSON object signing and encryption specifications.
+> **[1:17](https://www.linkedin.com/learning/microservices-security/token-validation?u=76281980&t=77)** Validating and protecting structured tokens is a much deeper and more complicated space, which is defined by the [[JSON]] object signing and encryption specifications.
 >
 > **[1:28](https://www.linkedin.com/learning/microservices-security/token-validation?u=76281980&t=88)** These are also known as JOSE.
 >
@@ -1505,7 +1487,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/microservices-security/token-validation?u=76281980&t=101)** JSON web token defines the token structure and it's at the core of the JOSE specifications.
 >
-> **[1:48](https://www.linkedin.com/learning/microservices-security/token-validation?u=76281980&t=108)** The JSON web signature specification outlines the steps required to create the JWT signature which further references the JSON web algorithms and JSON web key standards.
+> **[1:48](https://www.linkedin.com/learning/microservices-security/token-validation?u=76281980&t=108)** The JSON web signature specification outlines the steps required to create the JWT signature which further references the JSON web [[Algorithms]] and JSON web key standards.
 >
 > **[2:01](https://www.linkedin.com/learning/microservices-security/token-validation?u=76281980&t=121)** If you need to encrypt the JWT to protect sensitive claims, you can use the JSON web encryption standard.
 >
@@ -1611,7 +1593,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (14), web (11), [[Algorithms]] (3), [[Tokens]] (2), api (2)
+> **Frameworks & Libraries:** [[JSON]] (14), [[Algorithms]] (3), [[Tokens]] (2), [[Microservices]] (1)
 > **Env Vars:** jwt (17), json (14), jose (5), url (3), api (2)
 > **Definitions:** is a  (6), is an  (1), known as (1)
 > **Documentation:** specification (2)
@@ -1620,8 +1602,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1), you'll need (1)
 > **CLI Commands:** make (1)
 
-#### Token maintenance and protection
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/token-maintenance-and-protection?u=76281980)
+#### [Token maintenance and protection](https://www.linkedin.com/learning/microservices-security/token-maintenance-and-protection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1641,7 +1622,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/microservices-security/token-maintenance-and-protection?u=76281980&t=67)** This is helpful when the client needs to access information when the resource owner is offline.
 >
-> **[1:14](https://www.linkedin.com/learning/microservices-security/token-maintenance-and-protection?u=76281980&t=74)** Now there's one big problem with refresh tokens.
+> **[1:14](https://www.linkedin.com/learning/microservices-security/token-maintenance-and-protection?u=76281980&t=74)** Now there's one big problem with refresh [[Tokens]].
 >
 > **[1:16](https://www.linkedin.com/learning/microservices-security/token-maintenance-and-protection?u=76281980&t=76)** If they're stolen, they're very similar to a password.
 >
@@ -1683,11 +1664,11 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/microservices-security/token-maintenance-and-protection?u=76281980&t=222)** We've discussed the general purpose of tokens, their life cycle, and a few best practices.
 >
-> **[3:47](https://www.linkedin.com/learning/microservices-security/token-maintenance-and-protection?u=76281980&t=227)** Understanding how they are used, when they are used, and the different standards that apply will allow you to be certain your microservices are securely using them.
+> **[3:47](https://www.linkedin.com/learning/microservices-security/token-maintenance-and-protection?u=76281980&t=227)** Understanding how they are used, when they are used, and the different standards that apply will allow you to be certain your [[Microservices]] are securely using them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (12), management (2), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (12), [[Microservices]] (1)
 > **Documentation:** specification (2)
 > **Env Vars:** tls (1)
 > **Cross-References:** we talked about (1)
@@ -1700,12 +1681,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### MTLS
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/mtls?u=76281980)
+#### [MTLS](https://www.linkedin.com/learning/microservices-security/mtls?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-security/mtls?u=76281980&t=0)** - [Instructor] Identity plays an important role in digital security and microservices are not an exception.
+> **[0:00](https://www.linkedin.com/learning/microservices-security/mtls?u=76281980&t=0)** - [Instructor] Identity plays an important role in digital security and [[Microservices]] are not an exception.
 >
 > **[0:06](https://www.linkedin.com/learning/microservices-security/mtls?u=76281980&t=6)** Some microservice security schemes choose to simply trust the network after a request has passed a certain point in the architecture.
 >
@@ -1735,7 +1715,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/microservices-security/mtls?u=76281980&t=117)** It's only the client that verifies the server's identity, checking that its certificate was issued by a trusted list of certificate authorities maintained in the browser.
 >
-> **[2:09](https://www.linkedin.com/learning/microservices-security/mtls?u=76281980&t=129)** You've most likely seen this in your browser when visiting a sensitive website, like an online banking platform.
+> **[2:09](https://www.linkedin.com/learning/microservices-security/mtls?u=76281980&t=129)** You've most likely seen this in your browser when visiting a sensitive website, like an online [[Banking]] platform.
 >
 > **[2:17](https://www.linkedin.com/learning/microservices-security/mtls?u=76281980&t=137)** A little lock displaced to the left of the URL, where you can see the website cert.
 >
@@ -1781,17 +1761,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (8), [[Security]] (4), [[Banking]] (1), web (1), api (1)
+> **Frameworks & Libraries:** [[Microservices]] (8), [[Banking]] (1)
 > **Env Vars:** tls (11), pki (1), url (1), api (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Securing east to west traffic
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/securing-east-to-west-traffic?u=76281980)
+#### [Securing east to west traffic](https://www.linkedin.com/learning/microservices-security/securing-east-to-west-traffic?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-security/securing-east-to-west-traffic?u=76281980&t=0)** - [Instructor] Well-designed microservices are created with the single responsibility pattern in mind.
+> **[0:00](https://www.linkedin.com/learning/microservices-security/securing-east-to-west-traffic?u=76281980&t=0)** - [Instructor] Well-designed [[Microservices]] are created with the single responsibility pattern in mind.
 >
 > **[0:05](https://www.linkedin.com/learning/microservices-security/securing-east-to-west-traffic?u=76281980&t=5)** They do one thing and they do it well.
 >
@@ -1801,7 +1780,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/microservices-security/securing-east-to-west-traffic?u=76281980&t=19)** The sideways traffic between the microservices creates new security considerations, such as how we identify a user and how we make access decisions within the cluster of services.
 >
-> **[0:32](https://www.linkedin.com/learning/microservices-security/securing-east-to-west-traffic?u=76281980&t=32)** Let's consider a simple e-commerce scenario where a customer is placing an order.
+> **[0:32](https://www.linkedin.com/learning/microservices-security/securing-east-to-west-traffic?u=76281980&t=32)** Let's consider a simple [[E-Commerce]] scenario where a customer is placing an order.
 >
 > **[0:38](https://www.linkedin.com/learning/microservices-security/securing-east-to-west-traffic?u=76281980&t=38)** We'll assume the customer has already authenticated and the client owned by the e-commerce company is holding a valid access token.
 >
@@ -1821,7 +1800,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/microservices-security/securing-east-to-west-traffic?u=76281980&t=118)** Unfortunately, while this approach is somewhat better it still takes us closer to a distributed monolith.
 >
-> **[2:05](https://www.linkedin.com/learning/microservices-security/securing-east-to-west-traffic?u=76281980&t=125)** Without the original tokens, the payment service has no awareness of the end user's identity.
+> **[2:05](https://www.linkedin.com/learning/microservices-security/securing-east-to-west-traffic?u=76281980&t=125)** Without the original [[Tokens]], the payment service has no awareness of the end user's identity.
 >
 > **[2:12](https://www.linkedin.com/learning/microservices-security/securing-east-to-west-traffic?u=76281980&t=132)** It is forced to defer access control decisions to the order service because the order service can obtain the identity of the end user using something like the sub-claim on a JWT or using the OIDC user info endpoint.
 >
@@ -1855,14 +1834,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (8), traffic (2), [[Security]] (2), [[E-Commerce]] (2), api (2)
+> **Frameworks & Libraries:** [[Microservices]] (8), [[E-Commerce]] (2), [[Tokens]] (1)
 > **Env Vars:** jwt (3), api (2), oidc (1), iam (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Monitoring and logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/monitoring-and-logging?u=76281980)
+#### [Monitoring and logging](https://www.linkedin.com/learning/microservices-security/monitoring-and-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1876,7 +1854,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/microservices-security/monitoring-and-logging?u=76281980&t=31)** Logs can also serve as great mechanisms for establishing audit trails for sensitive operations that may be exploited by insiders.
 >
-> **[0:41](https://www.linkedin.com/learning/microservices-security/monitoring-and-logging?u=76281980&t=41)** Like most other security concerns, microservices present a unique challenge, because sensitive operations that once occurred in process now span multiple distributed components.
+> **[0:41](https://www.linkedin.com/learning/microservices-security/monitoring-and-logging?u=76281980&t=41)** Like most other security concerns, [[Microservices]] present a unique challenge, because sensitive operations that once occurred in process now span multiple distributed components.
 >
 > **[0:54](https://www.linkedin.com/learning/microservices-security/monitoring-and-logging?u=76281980&t=54)** This causes logging to be fragmented across the multiple services, and discrepancies can arise between logging strategies used by different teams.
 >
@@ -1910,7 +1888,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/microservices-security/monitoring-and-logging?u=76281980&t=206)** Once the information from your microservices is logged centrally, automated monitoring can identify and alert developers to suspicious behavior in the system.
 >
-> **[3:38](https://www.linkedin.com/learning/microservices-security/monitoring-and-logging?u=76281980&t=218)** These alerts typically focus on traffic that fails due to mutual TLS, invalid access tokens, or excessive traffic which can be an indicator of an attacker probing your system.
+> **[3:38](https://www.linkedin.com/learning/microservices-security/monitoring-and-logging?u=76281980&t=218)** These alerts typically focus on traffic that fails due to mutual TLS, invalid access [[Tokens]], or excessive traffic which can be an indicator of an attacker probing your system.
 >
 > **[3:50](https://www.linkedin.com/learning/microservices-security/monitoring-and-logging?u=76281980&t=230)** Once detected, alerts can be issued through an instant response system that proceeds through a series of escalated notifications to ensure they receive the appropriate attention.
 >
@@ -1922,25 +1900,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (7), [[Security]] (6), teams (4), open-source (2), traffic (2)
+> **Frameworks & Libraries:** [[Microservices]] (7), [[Tokens]] (1)
 > **Env Vars:** http (1), tls (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Service mesh
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/service-mesh?u=76281980)
+#### [Service mesh](https://www.linkedin.com/learning/microservices-security/service-mesh?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-security/service-mesh?u=76281980&t=0)** - [Instructor] To help manage the complexities of service-to-service communication inside of a microservice-based system, we can use a platform known as a service mesh.
+> **[0:00](https://www.linkedin.com/learning/microservices-security/service-mesh?u=76281980&t=0)** - [Instructor] To help manage the complexities of service-to-service communication inside of a microservice-based system, we can use a platform known as a service [[Mesh]].
 >
 > **[0:11](https://www.linkedin.com/learning/microservices-security/service-mesh?u=76281980&t=11)** When using a service mesh, there are a few prerequisites.
 >
-> **[0:15](https://www.linkedin.com/learning/microservices-security/service-mesh?u=76281980&t=15)** Your microservices must run in containers, with Docker pretty much being the standard these days.
+> **[0:15](https://www.linkedin.com/learning/microservices-security/service-mesh?u=76281980&t=15)** Your [[Microservices]] must run in containers, with Docker pretty much being the standard these days.
 >
-> **[0:21](https://www.linkedin.com/learning/microservices-security/service-mesh?u=76281980&t=21)** They must also be deployed in a container orchestration system like Kubernetes.
+> **[0:21](https://www.linkedin.com/learning/microservices-security/service-mesh?u=76281980&t=21)** They must also be deployed in a container orchestration system like [[Kubernetes]].
 >
 > **[0:26](https://www.linkedin.com/learning/microservices-security/service-mesh?u=76281980&t=26)** You can find many vendors that package a container runtime in container orchestrator, or you can leverage the open source distributions of these platforms.
 >
@@ -1956,7 +1933,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/microservices-security/service-mesh?u=76281980&t=86)** The fabric formed by the mesh delivers an excellent strategy for managing and controlling the operations of the microservice deployment by intercepting the traffic between them.
 >
-> **[1:38](https://www.linkedin.com/learning/microservices-security/service-mesh?u=76281980&t=98)** If we inspect the high level architecture of Istio, a popular security mesh provided by Google, we'll find that it splits logically into a data plane and a control plane.
+> **[1:38](https://www.linkedin.com/learning/microservices-security/service-mesh?u=76281980&t=98)** If we inspect the high level architecture of Istio, a popular security mesh provided by [[Google]], we'll find that it splits logically into a data plane and a control plane.
 >
 > **[1:51](https://www.linkedin.com/learning/microservices-security/service-mesh?u=76281980&t=111)** The data plane contains the set of proxies that microservices use to communicate with each other inside of the service mesh.
 >
@@ -2002,7 +1979,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Mesh]] (13), [[Microservices]] (9), [[Security]] (5), [[Kubernetes]] (2), traffic (2)
+> **Frameworks & Libraries:** [[Mesh]] (13), [[Microservices]] (9), [[Kubernetes]] (2), [[Google]] (1)
 > **CLI Commands:** find (2), docker (1), make (1)
 > **Env Vars:** tls (4)
 > **Definitions:** known as (3)
@@ -2014,14 +1991,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Throttling and rate limiting
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/throttling-and-rate-limiting?u=76281980)
+#### [Throttling and rate limiting](https://www.linkedin.com/learning/microservices-security/throttling-and-rate-limiting?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microservices-security/throttling-and-rate-limiting?u=76281980&t=0)** - [Instructor] As an API gains adoption and its usage increases, it's important to maintain the experience and to meet the performance demands of its clients.
 >
-> **[0:10](https://www.linkedin.com/learning/microservices-security/throttling-and-rate-limiting?u=76281980&t=10)** Often, the operations found on an API are composed from those made available in a cluster of microservices.
+> **[0:10](https://www.linkedin.com/learning/microservices-security/throttling-and-rate-limiting?u=76281980&t=10)** Often, the operations found on an API are composed from those made available in a cluster of [[Microservices]].
 >
 > **[0:18](https://www.linkedin.com/learning/microservices-security/throttling-and-rate-limiting?u=76281980&t=18)** These microservices must remain stable as traffic increases.
 >
@@ -2089,20 +2065,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (11), [[Microservices]] (7), traffic (3), concurrent (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (7)
 > **Env Vars:** api (11), cpu (1)
 > **Analogies:** such as (2), for instance (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Container runtime security
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/container-runtime-security?u=76281980)
+#### [Container runtime security](https://www.linkedin.com/learning/microservices-security/container-runtime-security?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microservices-security/container-runtime-security?u=76281980&t=0)** - [Instructor] To receive the full benefits of a microservice architecture, it takes a flexible execution environment that allows for rapid yet stable deployments.
 >
-> **[0:10](https://www.linkedin.com/learning/microservices-security/container-runtime-security?u=76281980&t=10)** This is why the majority of developers choose to deploy microservices inside of containers.
+> **[0:10](https://www.linkedin.com/learning/microservices-security/container-runtime-security?u=76281980&t=10)** This is why the majority of developers choose to deploy [[Microservices]] inside of containers.
 >
 > **[0:15](https://www.linkedin.com/learning/microservices-security/container-runtime-security?u=76281980&t=15)** And in most cases, that means Docker.
 >
@@ -2114,7 +2089,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/microservices-security/container-runtime-security?u=76281980&t=45)** It should have a very limited number of users that can access it directly.
 >
-> **[0:50](https://www.linkedin.com/learning/microservices-security/container-runtime-security?u=76281980&t=50)** If you're using a container orchestrator like Kubernetes, this number should be even smaller, because the need to access the host is diminished.
+> **[0:50](https://www.linkedin.com/learning/microservices-security/container-runtime-security?u=76281980&t=50)** If you're using a container orchestrator like [[Kubernetes]], this number should be even smaller, because the need to access the host is diminished.
 >
 > **[0:59](https://www.linkedin.com/learning/microservices-security/container-runtime-security?u=76281980&t=59)** When choosing an operating system for the host, it's best to use a thin distro specifically designed for using containers, like Red Hat's Fedora CoreOS.
 >
@@ -2166,7 +2141,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), [[Microservices]] (4), [[Kubernetes]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (4), [[Kubernetes]] (1)
 > **CLI Commands:** docker (6)
 > **Definitions:** is a  (2)
 > **Best Practices:** it's best to (1), best practice (1)
@@ -2174,12 +2149,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Image security
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/image-security?u=76281980)
+#### [Image security](https://www.linkedin.com/learning/microservices-security/image-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-security/image-security?u=76281980&t=0)** - [Teacher] When securing microservices in containers, a lot of attention is paid to the runtime configuration.
+> **[0:00](https://www.linkedin.com/learning/microservices-security/image-security?u=76281980&t=0)** - [Teacher] When securing [[Microservices]] in containers, a lot of attention is paid to the runtime configuration.
 >
 > **[0:07](https://www.linkedin.com/learning/microservices-security/image-security?u=76281980&t=7)** However, we need to keep in mind that securely building and sourcing images is just as important.
 >
@@ -2195,7 +2169,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/microservices-security/image-security?u=76281980&t=48)** If you're a developer, this is like creating an instance of a class.
 >
-> **[0:53](https://www.linkedin.com/learning/microservices-security/image-security?u=76281980&t=53)** Just like classes in object-oriented programming, you can use a class written by another developer, you can build your own or a combination of the two.
+> **[0:53](https://www.linkedin.com/learning/microservices-security/image-security?u=76281980&t=53)** Just like classes in [[Object-Oriented Programming (OOP)|object-oriented programming]], you can use a class written by another developer, you can build your own or a combination of the two.
 >
 > **[1:03](https://www.linkedin.com/learning/microservices-security/image-security?u=76281980&t=63)** Containers are the same way.
 >
@@ -2209,7 +2183,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/microservices-security/image-security?u=76281980&t=91)** First, it's very important that the base image is an official base image provided by a trusted source through a trusted repository.
 >
-> **[1:40](https://www.linkedin.com/learning/microservices-security/image-security?u=76281980&t=100)** Typically, you'll be getting these images from major technology players like Microsoft, Red Hat or official Linux distros.
+> **[1:40](https://www.linkedin.com/learning/microservices-security/image-security?u=76281980&t=100)** Typically, you'll be getting these images from major technology players like [[Microsoft]], Red Hat or official [[Linux]] distros.
 >
 > **[1:49](https://www.linkedin.com/learning/microservices-security/image-security?u=76281980&t=109)** If you pull an image from an untrusted source, it is possible to introduce a malicious container into your environment that has been planted by an attacker.
 >
@@ -2223,7 +2197,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/microservices-security/image-security?u=76281980&t=163)** Now, just because an image was deemed secure at one point in time, doesn't mean a vulnerability can't be found against it.
 >
-> **[2:50](https://www.linkedin.com/learning/microservices-security/image-security?u=76281980&t=170)** So here we're looking at a Red Hat Python image.
+> **[2:50](https://www.linkedin.com/learning/microservices-security/image-security?u=76281980&t=170)** So here we're looking at a Red Hat [[Python (Programming Language)|Python]] image.
 >
 > **[2:54](https://www.linkedin.com/learning/microservices-security/image-security?u=76281980&t=174)** And you'll notice that if we look at the latest version of the image, it is secure.
 >
@@ -2253,7 +2227,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Microservices]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Microsoft]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Microsoft]] (1), [[Linux]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1), rails (1)
 > **Definitions:** known as (2), is an  (1)
 > **Env Vars:** cicd (1), cve (1)
@@ -2262,8 +2236,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** configure (1)
 
-#### Audit container security
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/audit-container-security?u=76281980)
+#### [Audit container security](https://www.linkedin.com/learning/microservices-security/audit-container-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2277,7 +2250,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/microservices-security/audit-container-security?u=76281980&t=35)** Now let's get hands-on and I'll show you how Docker bench works.
 >
-> **[0:40](https://www.linkedin.com/learning/microservices-security/audit-container-security?u=76281980&t=40)** So here in Windows subsystem for Linux, I've installed Docker on Abuntu.
+> **[0:40](https://www.linkedin.com/learning/microservices-security/audit-container-security?u=76281980&t=40)** So here in [[Windows]] subsystem for [[Linux]], I've installed Docker on Abuntu.
 >
 > **[0:46](https://www.linkedin.com/learning/microservices-security/audit-container-security?u=76281980&t=46)** And then within Docker I have a single container running our microservice.
 >
@@ -2323,11 +2296,11 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/microservices-security/audit-container-security?u=76281980&t=214)** I highly recommend that you consider running Docker Bench.
 >
-> **[3:38](https://www.linkedin.com/learning/microservices-security/audit-container-security?u=76281980&t=218)** It's a great way to improve the security posture of your microservices.
+> **[3:38](https://www.linkedin.com/learning/microservices-security/audit-container-security?u=76281980&t=218)** It's a great way to improve the security posture of your [[Microservices]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), [[Windows]] (1), [[Linux]] (1), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1), [[Microservices]] (1)
 > **CLI Commands:** docker (17)
 > **Versions:** 5.13 (1), 5.26 (1)
 > **Definitions:** is a  (2)
@@ -2336,12 +2309,11 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Analogies:** for example (1)
 
-#### Secrets management
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/secrets-management?u=76281980)
+#### [Secrets management](https://www.linkedin.com/learning/microservices-security/secrets-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-security/secrets-management?u=76281980&t=0)** - [Instructor] Microservices often need to store secrets.
+> **[0:00](https://www.linkedin.com/learning/microservices-security/secrets-management?u=76281980&t=0)** - [Instructor] [[Microservices]] often need to store secrets.
 >
 > **[0:03](https://www.linkedin.com/learning/microservices-security/secrets-management?u=76281980&t=3)** Things like client credentials, database passwords, and SSL certificates that must be kept confidential.
 >
@@ -2353,7 +2325,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/microservices-security/secrets-management?u=76281980&t=31)** If you use these techniques, your microservices secrets won't be so secret anymore with a little bit of access to source control in image registry or host.
 >
-> **[0:43](https://www.linkedin.com/learning/microservices-security/secrets-management?u=76281980&t=43)** Luckily, container orchestration platforms like Kubernetes, OpenShift and others provide better approaches to managing your secrets.
+> **[0:43](https://www.linkedin.com/learning/microservices-security/secrets-management?u=76281980&t=43)** Luckily, container orchestration platforms like [[Kubernetes]], OpenShift and others provide better approaches to managing your secrets.
 >
 > **[0:51](https://www.linkedin.com/learning/microservices-security/secrets-management?u=76281980&t=51)** Now there's no excuse to bake them into a container image.
 >
@@ -2407,18 +2379,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (6), management (4), api (4), [[Kubernetes]] (3), database (2)
+> **Frameworks & Libraries:** [[Microservices]] (6), [[Kubernetes]] (3)
 > **Env Vars:** api (4), ssl (1), http (1)
 > **CLI Commands:** find (1), docker (1)
 > **Definitions:** is an  (1), known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Secure pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/secure-pipelines?u=76281980)
+#### [Secure pipelines](https://www.linkedin.com/learning/microservices-security/secure-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-security/secure-pipelines?u=76281980&t=0)** - [Instructor] DevOps pipelines are a key enabler to achieving the rapid delivery cadence that draws most development teams towards microservices.
+> **[0:00](https://www.linkedin.com/learning/microservices-security/secure-pipelines?u=76281980&t=0)** - [Instructor] [[DevOps]] pipelines are a key enabler to achieving the rapid delivery cadence that draws most development teams towards [[Microservices]].
 >
 > **[0:09](https://www.linkedin.com/learning/microservices-security/secure-pipelines?u=76281980&t=9)** If you think of a pipeline as a function, it accepts commits from a developer as inputs.
 >
@@ -2452,7 +2423,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/microservices-security/secure-pipelines?u=76281980&t=146)** After the microservice is built into an artifact, a barrage of unit and integration tests are typically ran against it.
 >
-> **[2:35](https://www.linkedin.com/learning/microservices-security/secure-pipelines?u=76281980&t=155)** This provides an excellent point to inject some interactive security testing.
+> **[2:35](https://www.linkedin.com/learning/microservices-security/secure-pipelines?u=76281980&t=155)** This provides an excellent point to inject some interactive [[Security Testing]].
 >
 > **[2:41](https://www.linkedin.com/learning/microservices-security/secure-pipelines?u=76281980&t=161)** These tests detect security issues while the code executes and alerts you to them.
 >
@@ -2490,22 +2461,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), ci (3), teams (2), [[Microservices]] (2), cd (2)
+> **Frameworks & Libraries:** [[Microservices]] (2), [[DevOps]] (1), [[Security Testing]] (1)
 > **CLI Commands:** cd (2)
 > **Exercise Files:** source code (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prevent leaked credentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/prevent-leaked-credentials?u=76281980)
+#### [Prevent leaked credentials](https://www.linkedin.com/learning/microservices-security/prevent-leaked-credentials?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-security/prevent-leaked-credentials?u=76281980&t=0)** - [Narrator] One of the best ways to secure your microservices is to add automated verifications into a CI/CD pipeline with static security analysis tools.
+> **[0:00](https://www.linkedin.com/learning/microservices-security/prevent-leaked-credentials?u=76281980&t=0)** - [Narrator] One of the best ways to secure your [[Microservices]] is to add automated verifications into a CI/CD pipeline with static security analysis tools.
 >
-> **[0:11](https://www.linkedin.com/learning/microservices-security/prevent-leaked-credentials?u=76281980&t=11)** To show you how these tools can provide immediate security, we're going to walk through a pull request workflow using Azure DevOps, where I've enabled a credential scanner in my pipeline.
+> **[0:11](https://www.linkedin.com/learning/microservices-security/prevent-leaked-credentials?u=76281980&t=11)** To show you how these tools can provide immediate security, we're going to walk through a pull request workflow using [[Microsoft Azure|Azure]] [[DevOps]], where I've enabled a credential scanner in my pipeline.
 >
-> **[0:29](https://www.linkedin.com/learning/microservices-security/prevent-leaked-credentials?u=76281980&t=29)** So I have this change sitting in Git that I just finished.
+> **[0:29](https://www.linkedin.com/learning/microservices-security/prevent-leaked-credentials?u=76281980&t=29)** So I have this change sitting in [[Git]] that I just finished.
 >
 > **[0:33](https://www.linkedin.com/learning/microservices-security/prevent-leaked-credentials?u=76281980&t=33)** This change updates the password that our microservice uses for its database connection.
 >
@@ -2531,25 +2501,24 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/microservices-security/prevent-leaked-credentials?u=76281980&t=136)** So you can see how automation is a very powerful tool for securing microservices.
 >
-> **[2:22](https://www.linkedin.com/learning/microservices-security/prevent-leaked-credentials?u=76281980&t=142)** A credential scanner is just one example of the many SaaS tools that you can incorporate into your pipelines for better security.
+> **[2:22](https://www.linkedin.com/learning/microservices-security/prevent-leaked-credentials?u=76281980&t=142)** A credential scanner is just one example of the many [[SaaS]] tools that you can incorporate into your pipelines for better security.
 >
 > **[2:30](https://www.linkedin.com/learning/microservices-security/prevent-leaked-credentials?u=76281980&t=150)** Now let's move on to our next lesson, and I'll show you how we can securely handle this credential required for our microservice.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Microsoft Azure|Azure]] (3), [[DevOps]] (3), [[Microservices]] (2), [[Git]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[DevOps]] (3), [[Microservices]] (2), [[Git]] (2), [[SaaS]] (1)
 > **CLI Commands:** git (2), cd (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [narrator] (1)
 
-#### Keep secrets with Key Vault
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/keep-secrets-with-key-vault?u=76281980)
+#### [Keep secrets with Key Vault](https://www.linkedin.com/learning/microservices-security/keep-secrets-with-key-vault?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microservices-security/keep-secrets-with-key-vault?u=76281980&t=0)** - [Instructor] In this lesson, we're going to get hands-on with Azure Key Vault to learn how to securely handle the secrets required by our microservice.
+> **[0:00](https://www.linkedin.com/learning/microservices-security/keep-secrets-with-key-vault?u=76281980&t=0)** - [Instructor] In this lesson, we're going to get hands-on with [[Microsoft Azure|Azure]] Key Vault to learn how to securely handle the secrets required by our microservice.
 >
 > **[0:09](https://www.linkedin.com/learning/microservices-security/keep-secrets-with-key-vault?u=76281980&t=9)** So you'll recall this connection string from our previous lesson that we use to establish a database connection from our microservice.
 >
@@ -2639,9 +2608,9 @@ created: 2026-05-02
 >
 > **[5:26](https://www.linkedin.com/learning/microservices-security/keep-secrets-with-key-vault?u=76281980&t=326)** So in this case, it's my account within Azure.
 >
-> **[5:30](https://www.linkedin.com/learning/microservices-security/keep-secrets-with-key-vault?u=76281980&t=330)** Now, once we have the SecretClient, we're going to use this GetSecret call to fetch that dbConnectionString secret that we just created within the vault.
+> **[5:30](https://www.linkedin.com/learning/microservices-security/keep-secrets-with-key-vault?u=76281980&t=330)** Now, once we have the SecretClient, we're going to use this GetSecret call to [[Fetch]] that dbConnectionString secret that we just created within the vault.
 >
-> **[5:42](https://www.linkedin.com/learning/microservices-security/keep-secrets-with-key-vault?u=76281980&t=342)** Once we have that connection string value, we pass it into Entity Framework in order to set up our connection to the SQL Server database.
+> **[5:42](https://www.linkedin.com/learning/microservices-security/keep-secrets-with-key-vault?u=76281980&t=342)** Once we have that connection string value, we pass it into Entity Framework in order to set up our connection to the [[Microsoft SQL Server|SQL Server]] database.
 >
 > **[5:55](https://www.linkedin.com/learning/microservices-security/keep-secrets-with-key-vault?u=76281980&t=355)** All right, let's go ahead and launch the app and then we'll head over to Insomnia to test out this call.
 >
@@ -2657,11 +2626,11 @@ created: 2026-05-02
 >
 > **[6:39](https://www.linkedin.com/learning/microservices-security/keep-secrets-with-key-vault?u=76281980&t=399)** It's slightly more involved than just placing the secret right in the configuration.
 >
-> **[6:44](https://www.linkedin.com/learning/microservices-security/keep-secrets-with-key-vault?u=76281980&t=404)** However, it's a much more secure approach for handling secrets within our microservices, and the SDKs help us out a lot here.
+> **[6:44](https://www.linkedin.com/learning/microservices-security/keep-secrets-with-key-vault?u=76281980&t=404)** However, it's a much more secure approach for handling secrets within our [[Microservices]], and the SDKs help us out a lot here.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), database (3), hit (1), [[Security]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Fetch]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Microservices]] (1)
 > **UI Navigation:** click on (7), go to (1)
 > **Env Vars:** sdk (2), rbac (1), sql (1)
 > **Tools:** insomnia (2), azure portal (1), visual studio (1)
@@ -2675,14 +2644,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Securing microservices
-> [LinkedIn Learning](https://www.linkedin.com/learning/microservices-security/securing-microservices-2?u=76281980)
+#### [Securing microservices](https://www.linkedin.com/learning/microservices-security/securing-microservices-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microservices-security/securing-microservices-2?u=76281980&t=0)** - [Kevin] Thanks for watching this course on microservice security.
 >
-> **[0:04](https://www.linkedin.com/learning/microservices-security/securing-microservices-2?u=76281980&t=4)** In the course I've provided you with strategies for securing microservices that overcome the security challenges of a distributed system by using leading standards and platforms.
+> **[0:04](https://www.linkedin.com/learning/microservices-security/securing-microservices-2?u=76281980&t=4)** In the course I've provided you with strategies for securing [[Microservices]] that overcome the security challenges of a distributed system by using leading standards and platforms.
 >
 > **[0:17](https://www.linkedin.com/learning/microservices-security/securing-microservices-2?u=76281980&t=17)** Before we wrap up the course I want to provide you with some recommendations for what to explore next and give you some information about my other courses.
 >
@@ -2690,21 +2658,21 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/microservices-security/securing-microservices-2?u=76281980&t=36)** These materials will deepen your understanding of the standards used to secure microservices and allow you to teach them to others.
 >
-> **[0:46](https://www.linkedin.com/learning/microservices-security/securing-microservices-2?u=76281980&t=46)** Throughout my career I've learned the most through hands-on prototyping.
+> **[0:46](https://www.linkedin.com/learning/microservices-security/securing-microservices-2?u=76281980&t=46)** Throughout my career I've learned the most through hands-on [[Prototyping]].
 >
 > **[0:50](https://www.linkedin.com/learning/microservices-security/securing-microservices-2?u=76281980&t=50)** I encourage you to download or sign up for some of the platforms mentioned in this course and to build small proof of concepts against them with the techniques we discussed.
 >
 > **[1:00](https://www.linkedin.com/learning/microservices-security/securing-microservices-2?u=76281980&t=60)** Prototypes pay huge dividends.
 >
-> **[1:04](https://www.linkedin.com/learning/microservices-security/securing-microservices-2?u=76281980&t=64)** If you've liked my teaching style I have a few other courses on the LinkedIn Learning platform that might interest you.
+> **[1:04](https://www.linkedin.com/learning/microservices-security/securing-microservices-2?u=76281980&t=64)** If you've liked my teaching style I have a few other courses on the [[LinkedIn]] Learning platform that might interest you.
 >
-> **[1:11](https://www.linkedin.com/learning/microservices-security/securing-microservices-2?u=76281980&t=71)** "Git for Teams" is a course I built that deliver strategies for teams that use Git.
+> **[1:11](https://www.linkedin.com/learning/microservices-security/securing-microservices-2?u=76281980&t=71)** "[[Git]] for Teams" is a course I built that deliver strategies for teams that use Git.
 >
 > **[1:17](https://www.linkedin.com/learning/microservices-security/securing-microservices-2?u=76281980&t=77)** It can make your team's development much more fluid.
 >
 > **[1:20](https://www.linkedin.com/learning/microservices-security/securing-microservices-2?u=76281980&t=80)** "Building APIs with Swagger" covers a design first approach to creating APIs with the OpenAPI specification.
 >
-> **[1:28](https://www.linkedin.com/learning/microservices-security/securing-microservices-2?u=76281980&t=88)** "Java EE 8 Essential Training" covers 13 of the most widely used Java EE APIs and gives you a rock solid foundation for building Java web applications.
+> **[1:28](https://www.linkedin.com/learning/microservices-security/securing-microservices-2?u=76281980&t=88)** "[[Java]] EE 8 Essential Training" covers 13 of the most widely used Java EE APIs and gives you a rock solid foundation for building Java web applications.
 >
 > **[1:40](https://www.linkedin.com/learning/microservices-security/securing-microservices-2?u=76281980&t=100)** "Spring Batch" can provide you with a proven architecture to construct complex batch jobs that run on the JVM using Spring.
 >
@@ -2718,7 +2686,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (5), [[Microservices]] (3), [[Security]] (2), [[Git]] (2), teams (2)
+> **Frameworks & Libraries:** [[Java]] (5), [[Microservices]] (3), [[Git]] (2), [[Prototyping]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** git (2), make (1)
 > **Env Vars:** jwt (1), jvm (1)
 > **Versions:** java 8 (1)

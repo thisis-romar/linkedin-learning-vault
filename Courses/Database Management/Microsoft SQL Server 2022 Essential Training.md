@@ -138,14 +138,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create databases with SQL Server 2022
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-databases-with-sql-server-2022?u=76281980)
+#### [Create databases with SQL Server 2022](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-databases-with-sql-server-2022?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-databases-with-sql-server-2022?u=76281980&t=0)** - [Adam] SQL Server 2022 is the newest version of Microsoft's flagship database engine.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-databases-with-sql-server-2022?u=76281980&t=0)** - [Adam] [[Microsoft SQL Server|SQL Server]] 2022 is the newest version of [[Microsoft]]'s flagship database engine.
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-databases-with-sql-server-2022?u=76281980&t=6)** It powers some of the largest and most mission critical databases for companies around the globe, yet it's still able to scale down to meet the needs of any small business or independent application developer.
+> **[0:06](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-databases-with-sql-server-2022?u=76281980&t=6)** It powers some of the largest and most mission critical [[Databases]] for companies around the globe, yet it's still able to scale down to meet the needs of any small business or independent application developer.
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-databases-with-sql-server-2022?u=76281980&t=18)** In this course, I'll show you how you can leverage SQL Server's world-class capabilities for yourself.
 >
@@ -153,7 +152,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-databases-with-sql-server-2022?u=76281980&t=32)** Let me show you how you can get started in SQL Server to create a secure wrapper around your data and ensure that it's complete and reliable.
 >
-> **[0:40](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-databases-with-sql-server-2022?u=76281980&t=40)** I'll also demonstrate creating queries in the Transact-SQL language that'll help you analyze the data you've stored to reveal new insights.
+> **[0:40](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-databases-with-sql-server-2022?u=76281980&t=40)** I'll also demonstrate creating queries in the [[Transact-SQL (T-SQL)|Transact-SQL]] language that'll help you analyze the data you've stored to reveal new insights.
 >
 > **[0:48](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-databases-with-sql-server-2022?u=76281980&t=48)** I'm excited about the 2022 release of SQL Server and it's never been easier to learn how to make it work for you.
 >
@@ -161,35 +160,33 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), [[Databases]] (2), data (2), [[Microsoft]] (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), [[Databases]] (2), [[Microsoft]] (1), [[Transact-SQL (T-SQL)|Transact-sql]] (1)
 > **Env Vars:** sql (6)
 > **CLI Commands:** make (1)
 > **Speakers:** - [adam] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/what-you-should-know?u=76281980&t=0)** - [Instructor] We're going to cover the essentials of working with SQL Server 2022 in this course, but I don't expect that you'll have any prior database experience.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/what-you-should-know?u=76281980&t=0)** - [Instructor] We're going to cover the essentials of working with [[Microsoft SQL Server|SQL Server]] 2022 in this course, but I don't expect that you'll have any prior database experience.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/what-you-should-know?u=76281980&t=9)** I'll start with some fundamental concepts and build out from there.
 >
-> **[0:13](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/what-you-should-know?u=76281980&t=13)** By the end of the course, you should feel comfortable working with SQL Server and the Management Studio application to create simple databases and work with your data tables.
+> **[0:13](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/what-you-should-know?u=76281980&t=13)** By the end of the course, you should feel comfortable working with SQL Server and the Management Studio application to create simple [[Databases]] and work with your data tables.
 >
-> **[0:23](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/what-you-should-know?u=76281980&t=23)** To get the most out of the course, you should come prepared with a working knowledge of the Windows operating system and know how to install programs and manage files.
+> **[0:23](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/what-you-should-know?u=76281980&t=23)** To get the most out of the course, you should come prepared with a working knowledge of the [[Windows]] operating system and know how to install programs and manage files.
 >
-> **[0:33](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/what-you-should-know?u=76281980&t=33)** It would also be beneficial if you've put some time into identifying your own data storage needs so that you can actively think about how to apply the course's lessons to your own unique situation.
+> **[0:33](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/what-you-should-know?u=76281980&t=33)** It would also be beneficial if you've put some time into identifying your own [[Data Storage]] needs so that you can actively think about how to apply the course's lessons to your own unique situation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), data (2), database (1), management (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (1), [[Windows]] (1), [[Data Storage]] (1)
 > **Env Vars:** sql (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring the code challenge environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/exploring-the-code-challenge-environment?u=76281980)
+#### [Exploring the code challenge environment](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/exploring-the-code-challenge-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -197,7 +194,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/exploring-the-code-challenge-environment?u=76281980&t=16)** These challenges are hosted by CoderPad and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:24](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/exploring-the-code-challenge-environment?u=76281980&t=24)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:24](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/exploring-the-code-challenge-environment?u=76281980&t=24)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:33](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/exploring-the-code-challenge-environment?u=76281980&t=33)** The code challenge has three areas.
 >
@@ -227,7 +224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **UI Navigation:** click on (2)
 > **SQL:** select (1)
 > **Env Vars:** select (1)
@@ -241,12 +238,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Core concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980)
+#### [Core concepts](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=0)** - [Instructor] SQL Server is used to manage databases that range in size from a small personal database up to enterprise-scale data estates that support some of the largest corporations in the world.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=0)** - [Instructor] [[Microsoft SQL Server|SQL Server]] is used to manage [[Databases]] that range in size from a small personal database up to enterprise-scale data estates that support some of the largest corporations in the world.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=12)** So before we just dive in and start working with the platform, it's important to get familiar with a few key concepts first.
 >
@@ -254,9 +250,9 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=23)** You might think that SQL Server is a database, but that's only partially correct.
 >
-> **[0:28](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=28)** Instead, it's better to think of SQL Server as a relational database management system, or what's commonly abbreviated as an RDBMS.
+> **[0:28](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=28)** Instead, it's better to think of SQL Server as a relational [[Database Management]] system, or what's commonly abbreviated as an RDBMS.
 >
-> **[0:37](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=37)** The key word here is management.
+> **[0:37](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=37)** The key [[Microsoft Word|word]] here is management.
 >
 > **[0:40](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=40)** SQL Server manages all of the tasks associated with creating new databases and their components, such as tables, storing and retrieving data from those database tables and acts as a gatekeeper through the management of end user logins and the verification of access permissions.
 >
@@ -278,7 +274,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=142)** These approaches provide a lot of flexibility in where the server software is actually running and how users can access them, and I'll show you how to install SQL Server using each of these methods in upcoming movies.
 >
-> **[2:35](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=155)** As a bonus, installing SQL Server on your own PC, in the cloud or using a container is also a much cheaper way to get experience with the platform, without having to purchase dedicated and expensive server-grade hardware.
+> **[2:35](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=155)** As a bonus, installing SQL Server on your own PC, in the cloud or using a container is also a much cheaper way to get experience with the platform, without having to purchase dedicated and expensive server-grade [[Hardware]].
 >
 > **[2:51](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=171)** A single SQL Server installation is called an instance, and each instance can hold many individual databases under its umbrella.
 >
@@ -292,13 +288,13 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=226)** So how do you do that?
 >
-> **[3:47](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=227)** Well, at the heart of SQL Server, as its name would imply, is something called SQL.
+> **[3:47](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=227)** Well, at the heart of SQL Server, as its name would imply, is something called [[SQL]].
 >
 > **[3:53](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=233)** SQL stands for Structured Query Language.
 >
 > **[3:56](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=236)** It's the standardized way that users interact with most database platforms on the market today.
 >
-> **[4:06](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=246)** The specific implementation of SQL that Microsoft SQL Server uses, or the dialect, if you prefer, is called Transact SQL.
+> **[4:06](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=246)** The specific implementation of SQL that [[Microsoft SQL Server]] uses, or the dialect, if you prefer, is called Transact SQL.
 >
 > **[4:16](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=256)** You'll often hear people refer to this as Transact SQL or Simply T-SQL, depending on who you're talking to.
 >
@@ -316,13 +312,13 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=317)** As an alternative, you can install a graphical interface.
 >
-> **[5:21](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=321)** Microsoft provides an additional program called Management Studio that most database professionals use in order to get a graphical user interface similar to the Windows File Explorer.
+> **[5:21](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=321)** [[Microsoft]] provides an additional program called Management Studio that most database professionals use in order to get a graphical user interface similar to the [[Windows]] File Explorer.
 >
 > **[5:35](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=335)** It's a separate add-on program that isn't required, but we'll install it to help us get used to the server's operation and ease us into writing our own T-SQL commands in a more beginner-friendly environment.
 >
 > **[5:48](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=348)** The problem is, is that Management Studio is a Windows-only application.
 >
-> **[5:53](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=353)** I'll be using a Windows computer and Management Studio throughout this course, but if you're interested in working with SQL Server on a Linux or a macOS computer, you'll want to take a look at a different graphical interface called Azure Data Studio.
+> **[5:53](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=353)** I'll be using a Windows computer and Management Studio throughout this course, but if you're interested in working with SQL Server on a [[Linux]] or a macOS computer, you'll want to take a look at a different graphical interface called [[Microsoft Azure|Azure]] Data Studio.
 >
 > **[6:07](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/core-concepts?u=76281980&t=367)** It provides much of the same functionality as Management Studio but is cross-platform and can run on any operating system.
 >
@@ -334,7 +330,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (22), database (12), [[SQL]] (11), management (10), data (6)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (22), [[SQL]] (11), [[Databases]] (4), [[Windows]] (3), [[Database Management]] (2)
 > **Env Vars:** sql (34), rdbms (1)
 > **Prerequisites:** install (5), you'll need (2), getting started (1), set up (1)
 > **Definitions:** is called (2), is a  (1), stands for (1)
@@ -343,12 +339,11 @@ created: 2026-05-02
 > **Code Identifiers:** macos (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choose a SQL Server 2022 edition
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/choose-a-sql-server-2022-edition?u=76281980)
+#### [Choose a SQL Server 2022 edition](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/choose-a-sql-server-2022-edition?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/choose-a-sql-server-2022-edition?u=76281980&t=0)** - [Instructor] In order to follow along with this course and to give yourself a playground with which you can freely explore the features and capabilities of SQL Server, you're going to want to get your own copy of SQL Server running on hardware that you control.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/choose-a-sql-server-2022-edition?u=76281980&t=0)** - [Instructor] In order to follow along with this course and to give yourself a playground with which you can freely explore the features and capabilities of [[Microsoft SQL Server|SQL Server]], you're going to want to get your own copy of SQL Server running on [[Hardware]] that you control.
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/choose-a-sql-server-2022-edition?u=76281980&t=15)** To do that, you'll want to pick the right edition for your needs.
 >
@@ -356,7 +351,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/choose-a-sql-server-2022-edition?u=76281980&t=27)** Enterprise Edition is the most fully featured edition and it supports running on an unlimited amount of CPU cores and memory.
 >
-> **[0:35](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/choose-a-sql-server-2022-edition?u=76281980&t=35)** This is the edition used by very large mission critical database applications at scales and performance levels required by some of the largest corporations around.
+> **[0:35](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/choose-a-sql-server-2022-edition?u=76281980&t=35)** This is the edition used by very large mission critical [[Database Applications]] at scales and performance levels required by some of the largest corporations around.
 >
 > **[0:46](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/choose-a-sql-server-2022-edition?u=76281980&t=46)** The Standard Edition has most of the same features of Enterprise, but is limited in the number of CPU cores and the amount of memory that it can run on.
 >
@@ -386,7 +381,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/choose-a-sql-server-2022-edition?u=76281980&t=150)** Why is this one free?
 >
-> **[2:32](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/choose-a-sql-server-2022-edition?u=76281980&t=152)** Microsoft only allows you to run the Developer Edition for educational purposes or to build, test, and demonstrate applications in non-production environments.
+> **[2:32](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/choose-a-sql-server-2022-edition?u=76281980&t=152)** [[Microsoft]] only allows you to run the Developer Edition for educational purposes or to build, test, and demonstrate applications in non-production environments.
 >
 > **[2:43](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/choose-a-sql-server-2022-edition?u=76281980&t=163)** This means that you can use Developer Edition to build the applications needed to open your new online shoe store, but you can't use Developer Edition to actually run the store and take orders from customers.
 >
@@ -400,27 +395,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (7), database (4), express (4), feature (3), business (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (7), [[Hardware]] (1), [[Database Applications]] (1), [[Microsoft]] (1)
 > **Env Vars:** sql (7), cpu (3)
 > **Definitions:** means that (2)
 > **Analogies:** such as (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install SQL Server on your PC
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-sql-server-on-your-pc-22141827?u=76281980)
+#### [Install SQL Server on your PC](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-sql-server-on-your-pc-22141827?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-sql-server-on-your-pc-22141827?u=76281980&t=0)** - [Instructor] If you are running a Windows PC and want to get your own copy of the installation materials, you'll start at this URL.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-sql-server-on-your-pc-22141827?u=76281980&t=0)** - [Instructor] If you are running a [[Windows]] PC and want to get your own copy of the installation materials, you'll start at this URL.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-sql-server-on-your-pc-22141827?u=76281980&t=8)** Click on the Try Now button.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-sql-server-on-your-pc-22141827?u=76281980&t=10)** Here we'll have three options for running SQL Server in Microsoft's Azure cloud.
+> **[0:10](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-sql-server-on-your-pc-22141827?u=76281980&t=10)** Here we'll have three options for running [[Microsoft SQL Server|SQL Server]] in [[Microsoft]]'s [[Microsoft Azure|Azure]] cloud.
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-sql-server-on-your-pc-22141827?u=76281980&t=15)** Scroll down on the page a little bit though and you'll find two options for obtaining a free edition that you can install on your own computer.
 >
-> **[0:23](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-sql-server-on-your-pc-22141827?u=76281980&t=23)** The Express Edition is perfect for people that want to build databases for their small business.
+> **[0:23](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-sql-server-on-your-pc-22141827?u=76281980&t=23)** The Express Edition is perfect for people that want to build [[Databases]] for their small business.
 >
 > **[0:28](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-sql-server-on-your-pc-22141827?u=76281980&t=28)** I'll choose to use the Developer Edition though which is more fully featured.
 >
@@ -460,7 +454,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-sql-server-on-your-pc-22141827?u=76281980&t=146)** First, I need to accept the license terms then choose the installation location.
 >
-> **[2:31](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-sql-server-on-your-pc-22141827?u=76281980&t=151)** I recommend that you just leave it in the default location inside of your program files folder and a new folder for Microsoft SQL Server.
+> **[2:31](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-sql-server-on-your-pc-22141827?u=76281980&t=151)** I recommend that you just leave it in the default location inside of your program files folder and a new folder for [[Microsoft SQL Server]].
 >
 > **[2:39](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-sql-server-on-your-pc-22141827?u=76281980&t=159)** Go ahead and press the Install button.
 >
@@ -474,7 +468,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-sql-server-on-your-pc-22141827?u=76281980&t=191)** It also shows me my current sequel administrator name.
 >
-> **[3:15](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-sql-server-on-your-pc-22141827?u=76281980&t=195)** It's using the name of my computer which for me is Windows 10-PC and we have a back slash and my current Windows username, Adam.
+> **[3:15](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-sql-server-on-your-pc-22141827?u=76281980&t=195)** It's using the name of my computer which for me is [[Windows 10]]-PC and we have a back slash and my current Windows username, Adam.
 >
 > **[3:24](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-sql-server-on-your-pc-22141827?u=76281980&t=204)** You'll want to keep note of this information that you see on your screen because you'll need it later on.
 >
@@ -482,9 +476,9 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-sql-server-on-your-pc-22141827?u=76281980&t=212)** Press the Connect Now button.
 >
-> **[3:35](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-sql-server-on-your-pc-22141827?u=76281980&t=215)** This will open up the command line interface using a program called SQL Command.
+> **[3:35](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-sql-server-on-your-pc-22141827?u=76281980&t=215)** This will open up the command line interface using a program called [[SQL]] Command.
 >
-> **[3:40](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-sql-server-on-your-pc-22141827?u=76281980&t=220)** This is where we can begin issuing commands to the server using Transact-SQL.
+> **[3:40](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-sql-server-on-your-pc-22141827?u=76281980&t=220)** This is where we can begin issuing commands to the server using [[Transact-SQL (T-SQL)|Transact-SQL]].
 >
 > **[3:45](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-sql-server-on-your-pc-22141827?u=76281980&t=225)** It automatically ran one for us.
 >
@@ -522,7 +516,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (10), [[Databases]] (6), application (3), [[Windows]] (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (10), [[Databases]] (6), [[Windows]] (2), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** sql (13), url (1), usb (1), mssql (1), version (1)
 > **Prerequisites:** install (6), you'll need (1)
 > **CLI Commands:** make (3), find (2)
@@ -531,12 +525,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (2)
 > **Cross-References:** in the next (1)
 
-#### Install Management Studio
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-management-studio-22153334?u=76281980)
+#### [Install Management Studio](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-management-studio-22153334?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-management-studio-22153334?u=76281980&t=0)** - [Instructor] SQL Server Management Studio will give us a graphical user interface for our database server.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-management-studio-22153334?u=76281980&t=0)** - [Instructor] [[Microsoft SQL Server|SQL Server]] Management Studio will give us a graphical user interface for our database server.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-management-studio-22153334?u=76281980&t=6)** You can find the download for SSMS by navigating to this URL, or by clicking the button presented at the end of the SQL Server installation process.
 >
@@ -566,7 +559,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-management-studio-22153334?u=76281980&t=83)** As a final step, I want to pin that to my start menu for easy access.
 >
-> **[1:28](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-management-studio-22153334?u=76281980&t=88)** You can either find it in the recently added section here, or you can scroll down until you get to the Microsoft SQL Server Tools folder, and you'll find SQL Server Management Studio right there.
+> **[1:28](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-management-studio-22153334?u=76281980&t=88)** You can either find it in the recently added section here, or you can scroll down until you get to the [[Microsoft SQL Server]] Tools folder, and you'll find SQL Server Management Studio right there.
 >
 > **[1:38](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-management-studio-22153334?u=76281980&t=98)** Let's go ahead and right click on it and pin it to my start menu.
 >
@@ -576,7 +569,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), management (3), database (1), web (1), [[Microsoft SQL Server]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), [[Microsoft SQL Server]] (1)
 > **Env Vars:** sql (7), ssms (5), url (1)
 > **CLI Commands:** find (4), make (1)
 > **UI Navigation:** click on (3), scroll down (2)
@@ -585,16 +578,15 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Exercise Files:** download the (1)
 
-#### Enable features with Configuration Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-features-with-configuration-manager?u=76281980)
+#### [Enable features with Configuration Manager](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-features-with-configuration-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-features-with-configuration-manager?u=76281980&t=0)** - [Narrator] I've just installed SQL Server, but if I look around on my desktop, I'm not going to find any indication that it's currently running. There is no program button on my task bar, and if I take a look inside of my system icon tray, you're not going to see any icons there related to SQL Server either.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-features-with-configuration-manager?u=76281980&t=0)** - [Narrator] I've just installed [[Microsoft SQL Server|SQL Server]], but if I look around on my desktop, I'm not going to find any indication that it's currently running. There is no program button on my task bar, and if I take a look inside of my system icon tray, you're not going to see any icons there related to SQL Server either.
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-features-with-configuration-manager?u=76281980&t=16)** However, the server is currently running on my computer and it's waiting for users to make a connection.
 >
-> **[0:22](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-features-with-configuration-manager?u=76281980&t=22)** To check on the status of the server, I'm going to go over to my Start menu, and I'll find a program inside of the Microsoft SQL Server folder called SQL Server Configuration Manager.
+> **[0:22](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-features-with-configuration-manager?u=76281980&t=22)** To check on the status of the server, I'm going to go over to my Start menu, and I'll find a program inside of the [[Microsoft SQL Server]] folder called SQL Server Configuration Manager.
 >
 > **[0:33](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-features-with-configuration-manager?u=76281980&t=33)** It's this icon right here with a toolbox.
 >
@@ -604,7 +596,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-features-with-configuration-manager?u=76281980&t=43)** Configuration Manager will show you a list on the left side of all of the different service types that have been installed.
 >
-> **[0:49](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-features-with-configuration-manager?u=76281980&t=49)** This is where you would go to adjust network configuration settings, for example, so that other users can connect to the database server that's running on your computer over an office network.
+> **[0:49](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-features-with-configuration-manager?u=76281980&t=49)** This is where you would go to adjust network configuration settings, for example, so that other users can connect to the database server that's running on your computer over an [[Microsoft Office|office]] network.
 >
 > **[1:01](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-features-with-configuration-manager?u=76281980&t=61)** Click on SQL Server Services on the left and we'll take a look at this middle panel.
 >
@@ -638,7 +630,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-features-with-configuration-manager?u=76281980&t=155)** Mine is set to Automatic.
 >
-> **[2:38](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-features-with-configuration-manager?u=76281980&t=158)** This will automatically start SQL Server when my computer boots up, so if I restart my computer, SQL Server will also get restarted and be available as soon as Windows finishes loading.
+> **[2:38](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-features-with-configuration-manager?u=76281980&t=158)** This will automatically start SQL Server when my computer boots up, so if I restart my computer, SQL Server will also get restarted and be available as soon as [[Windows]] finishes loading.
 >
 > **[2:50](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-features-with-configuration-manager?u=76281980&t=170)** The other options here are to set Startup to Disabled.
 >
@@ -650,7 +642,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-features-with-configuration-manager?u=76281980&t=183)** In the Manual mode, SQL Server will not automatically start when the computer reboots, and it must be manually started each time.
 >
-> **[3:11](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-features-with-configuration-manager?u=76281980&t=191)** Depending on the type of work that you do and how often you require access to your databases, you can decide if it's best to allow SQL Server to start running automatically or to choose to start it manually only when you need it.
+> **[3:11](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-features-with-configuration-manager?u=76281980&t=191)** Depending on the type of work that you do and how often you require access to your [[Databases]], you can decide if it's best to allow SQL Server to start running automatically or to choose to start it manually only when you need it.
 >
 > **[3:25](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-features-with-configuration-manager?u=76281980&t=205)** I'll leave mine set to Automatic.
 >
@@ -672,7 +664,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (14), database (3), [[Microsoft SQL Server]] (1), [[Microsoft Office|Office]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (14), [[Microsoft SQL Server]] (1), [[Microsoft Office|Office]] (1), [[Windows]] (1), [[Databases]] (1)
 > **Env Vars:** sql (15), mssql (1)
 > **UI Navigation:** click on (4), in the toolbar (1), dropdown (1)
 > **CLI Commands:** make (3), find (2)
@@ -680,26 +672,25 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Deploy SQL Server 2022 in the Azure cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/deploy-sql-server-2022-in-the-azure-cloud?u=76281980)
+#### [Deploy SQL Server 2022 in the Azure cloud](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/deploy-sql-server-2022-in-the-azure-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/deploy-sql-server-2022-in-the-azure-cloud?u=76281980&t=0)** - (Narrator) Installing SQL Server the traditional way onto your personal computer or a local server machine is only one way to get up and running.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/deploy-sql-server-2022-in-the-azure-cloud?u=76281980&t=0)** - (Narrator) Installing [[Microsoft SQL Server|SQL Server]] the traditional way onto your personal computer or a local server machine is only one way to get up and running.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/deploy-sql-server-2022-in-the-azure-cloud?u=76281980&t=9)** But what if you only have access to a low powered machine or you simply don't have enough available hard drive space to accommodate the installation?
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/deploy-sql-server-2022-in-the-azure-cloud?u=76281980&t=16)** Well, in those cases, you can offload the installation to remote machines in the cloud and connect over the internet.
 >
-> **[0:24](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/deploy-sql-server-2022-in-the-azure-cloud?u=76281980&t=24)** Microsoft's Azure platform allows you to do just that.
+> **[0:24](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/deploy-sql-server-2022-in-the-azure-cloud?u=76281980&t=24)** [[Microsoft]]'s [[Microsoft Azure|Azure]] platform allows you to do just that.
 >
 > **[0:28](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/deploy-sql-server-2022-in-the-azure-cloud?u=76281980&t=28)** You can provision the resources that you need and get a SQL Server instance up and running by deploying a virtual machine.
 >
-> **[0:36](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/deploy-sql-server-2022-in-the-azure-cloud?u=76281980&t=36)** The benefit of this approach is that Microsoft handles all of the work associated with keeping the hardware in a good, healthy state.
+> **[0:36](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/deploy-sql-server-2022-in-the-azure-cloud?u=76281980&t=36)** The benefit of this approach is that Microsoft handles all of the work associated with keeping the [[Hardware]] in a good, healthy state.
 >
 > **[0:43](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/deploy-sql-server-2022-in-the-azure-cloud?u=76281980&t=43)** They apply any security or feature update patches automatically and make your database available worldwide over the internet.
 >
-> **[0:52](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/deploy-sql-server-2022-in-the-azure-cloud?u=76281980&t=52)** In this age where more and more people are working remotely, this arrangement can make it extremely easy for everyone to access the databases that they need from wherever they choose to work.
+> **[0:52](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/deploy-sql-server-2022-in-the-azure-cloud?u=76281980&t=52)** In this age where more and more people are working remotely, this arrangement can make it extremely easy for everyone to access the [[Databases]] that they need from wherever they choose to work.
 >
 > **[1:04](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/deploy-sql-server-2022-in-the-azure-cloud?u=76281980&t=64)** To explore this option, you'll start at portal.[azure.com](https://azure.com).
 >
@@ -711,7 +702,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/deploy-sql-server-2022-in-the-azure-cloud?u=76281980&t=84)** Next, we'll search the marketplace for SQL Server 2022.
 >
-> **[1:32](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/deploy-sql-server-2022-in-the-azure-cloud?u=76281980&t=92)** Here you should find the option to create a virtual machine for SQL Server 2022 on Windows Server 2022.
+> **[1:32](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/deploy-sql-server-2022-in-the-azure-cloud?u=76281980&t=92)** Here you should find the option to create a virtual machine for SQL Server 2022 on [[Windows Server]] 2022.
 >
 > **[1:40](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/deploy-sql-server-2022-in-the-azure-cloud?u=76281980&t=100)** Make sure it's the resource provided by Microsoft and then go ahead and click it to start the process.
 >
@@ -795,7 +786,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/deploy-sql-server-2022-in-the-azure-cloud?u=76281980&t=264)** I'll choose that option to set it to public so that it's easier to make connections from my computer.
 >
-> **[4:29](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/deploy-sql-server-2022-in-the-azure-cloud?u=76281980&t=269)** I'll also enable SQL authentication, and we'll use the admin name that I typed in previously.
+> **[4:29](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/deploy-sql-server-2022-in-the-azure-cloud?u=76281980&t=269)** I'll also enable [[SQL]] authentication, and we'll use the admin name that I typed in previously.
 >
 > **[4:34](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/deploy-sql-server-2022-in-the-azure-cloud?u=76281980&t=274)** Adam and the password right there.
 >
@@ -821,7 +812,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (10), next (6), [[Microsoft]] (4), cloud (2), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (10), [[Microsoft]] (4), [[Microsoft Azure|Azure]] (2), [[Hardware]] (1), [[Databases]] (1)
 > **Env Vars:** sql (11), ssd (1)
 > **UI Navigation:** scroll down (4), go to (4), dropdown (2)
 > **CLI Commands:** make (7), find (2)
@@ -830,26 +821,25 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 
-#### Work with SQL Server in Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/work-with-sql-server-in-docker?u=76281980)
+#### [Work with SQL Server in Docker](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/work-with-sql-server-in-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/work-with-sql-server-in-docker?u=76281980&t=0)** - [Instructor] There is one additional way to get up and running with your own personal SQL Server instance, and that's to run the entire thing in an isolated container, using a program called Docker.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/work-with-sql-server-in-docker?u=76281980&t=0)** - [Instructor] There is one additional way to get up and running with your own personal [[Microsoft SQL Server|SQL Server]] instance, and that's to run the entire thing in an isolated container, using a program called Docker.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/work-with-sql-server-in-docker?u=76281980&t=12)** Docker allows you to compartmentalize your applications.
 >
-> **[0:15](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/work-with-sql-server-in-docker?u=76281980&t=15)** And by running SQL Server in a container, it makes it very easy to create, duplicate, backup, restore, and completely remove your entire server without ever having to make a change to the rest of your computer.
+> **[0:15](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/work-with-sql-server-in-docker?u=76281980&t=15)** And by running SQL Server in a container, it makes it very easy to create, duplicate, backup, restore, and completely remove your entire server without ever having to make a change to the [[Representational State Transfer (REST)|rest]] of your computer.
 >
 > **[0:29](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/work-with-sql-server-in-docker?u=76281980&t=29)** Docker containers exist as a single file on your computer, and they contain everything the SQL Server instance needs to operate.
 >
 > **[0:38](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/work-with-sql-server-in-docker?u=76281980&t=38)** For working with a new platform or experimenting and learning about new features, this is by far my preferred method of deploying SQL Server.
 >
-> **[0:47](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/work-with-sql-server-in-docker?u=76281980&t=47)** And the best part is that this is a cross-platform solution, so it'll work on Windows, Linux, and macOS computers, unlike the traditional installation.
+> **[0:47](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/work-with-sql-server-in-docker?u=76281980&t=47)** And the best part is that this is a cross-platform solution, so it'll work on [[Windows]], [[Linux]], and macOS computers, unlike the traditional installation.
 >
 > **[0:58](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/work-with-sql-server-in-docker?u=76281980&t=58)** The process starts by installing Docker, which you can find at [docker.com](https://docker.com).
 >
-> **[1:03](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/work-with-sql-server-in-docker?u=76281980&t=63)** Click on Products in the top menu and then click Docker Desktop from the right-hand column.
+> **[1:03](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/work-with-sql-server-in-docker?u=76281980&t=63)** Click on [[Microsoft Products|Products]] in the top menu and then click Docker Desktop from the right-hand column.
 >
 > **[1:09](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/work-with-sql-server-in-docker?u=76281980&t=69)** Then, I'll click the link to download for the appropriate operating system.
 >
@@ -875,7 +865,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/work-with-sql-server-in-docker?u=76281980&t=129)** There's actually one additional step that we need to move through.
 >
-> **[2:12](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/work-with-sql-server-in-docker?u=76281980&t=132)** Click on the link that'll open up a Microsoft page.
+> **[2:12](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/work-with-sql-server-in-docker?u=76281980&t=132)** Click on the link that'll open up a [[Microsoft]] page.
 >
 > **[2:15](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/work-with-sql-server-in-docker?u=76281980&t=135)** And while that's opening up in the background, I'm just going to drag this window and drag it to the bottom of the screen.
 >
@@ -947,7 +937,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/work-with-sql-server-in-docker?u=76281980&t=315)** Now, at this point, I have a SQL Server 2022 instance running inside of an isolated Docker container.
 >
-> **[5:22](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/work-with-sql-server-in-docker?u=76281980&t=322)** This keeps the processes separated from my main computer, but I can log into it and manage any databases on this instance from Management Studio in exactly the same way that I can access my traditionally installed SQL Server instance.
+> **[5:22](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/work-with-sql-server-in-docker?u=76281980&t=322)** This keeps the processes separated from my main computer, but I can log into it and manage any [[Databases]] on this instance from Management Studio in exactly the same way that I can access my traditionally installed SQL Server instance.
 >
 > **[5:38](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/work-with-sql-server-in-docker?u=76281980&t=338)** As you can see, there are lots of options for running SQL Server and you should think about and choose the option that best suits your needs.
 >
@@ -955,7 +945,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (12), [[Windows]] (6), [[Linux]] (4), [[Microsoft]] (3), prompt (3)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (12), [[Windows]] (6), [[Linux]] (4), [[Microsoft]] (3), [[Databases]] (2)
 > **CLI Commands:** docker (15), make (3), find (1)
 > **Env Vars:** sql (12)
 > **Tools:** docker desktop (3), command prompt (3), terminal (1)
@@ -969,12 +959,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### User permissions and authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-permissions-and-authentication?u=76281980)
+#### [User permissions and authentication](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-permissions-and-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-permissions-and-authentication?u=76281980&t=0)** - [Instructor] Databases often contain sensitive or proprietary information, and one of the primary responsibilities of SQL Server is to protect your data from unauthorized access.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-permissions-and-authentication?u=76281980&t=0)** - [Instructor] [[Databases]] often contain sensitive or proprietary information, and one of the primary responsibilities of [[Microsoft SQL Server|SQL Server]] is to protect your data from unauthorized access.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-permissions-and-authentication?u=76281980&t=12)** Each user that connects to the server needs to be authenticated and given a set of permissions that defines what they can do.
 >
@@ -988,11 +977,11 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-permissions-and-authentication?u=76281980&t=42)** SQL Server provides two different methods for authenticating user access.
 >
-> **[0:47](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-permissions-and-authentication?u=76281980&t=47)** The first is called Windows Authentication which uses your Windows Operating Systems login account and it passes those credentials over to SQL Server.
+> **[0:47](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-permissions-and-authentication?u=76281980&t=47)** The first is called [[Windows]] Authentication which uses your Windows Operating Systems login account and it passes those credentials over to SQL Server.
 >
 > **[0:57](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-permissions-and-authentication?u=76281980&t=57)** This makes it easy for many users because they won't have to remember a new account name and password.
 >
-> **[1:04](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-permissions-and-authentication?u=76281980&t=64)** This method is also easy for large organizations to manage because the credentials are often stored company wide through services such as Active Directory.
+> **[1:04](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-permissions-and-authentication?u=76281980&t=64)** This method is also easy for large organizations to manage because the credentials are often stored company wide through services such as [[Active Directory]].
 >
 > **[1:16](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-permissions-and-authentication?u=76281980&t=76)** The second method is called SQL Server Authentication.
 >
@@ -1010,7 +999,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-permissions-and-authentication?u=76281980&t=120)** They oversee the configuration and management of the server itself, and they have full access to do anything that they want.
 >
-> **[2:08](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-permissions-and-authentication?u=76281980&t=128)** They will configure and maintain the server's hardware and create and manage other user accounts that are allowed access into the system.
+> **[2:08](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-permissions-and-authentication?u=76281980&t=128)** They will configure and maintain the server's [[Hardware]] and create and manage other user accounts that are allowed access into the system.
 >
 > **[2:17](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-permissions-and-authentication?u=76281980&t=137)** Then, each individual database will have one or more database administrators that are in charge of creating and maintaining tables and populating them with data, performing backups and establishing user permissions within the database itself.
 >
@@ -1032,19 +1021,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), data (9), [[Microsoft SQL Server|Sql server]] (5), [[Windows]] (2), management (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), [[Windows]] (2), [[Databases]] (1), [[Active Directory]] (1), [[Hardware]] (1)
 > **Env Vars:** sql (5)
 > **Definitions:** is called (2)
 > **Analogies:** such as (1), for instance (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Log in with Management Studio
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/log-in-with-management-studio?u=76281980)
+#### [Log in with Management Studio](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/log-in-with-management-studio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/log-in-with-management-studio?u=76281980&t=0)** - [Instructor] We've got SQL Server installed.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/log-in-with-management-studio?u=76281980&t=0)** - [Instructor] We've got [[Microsoft SQL Server|SQL Server]] installed.
 >
 > **[0:02](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/log-in-with-management-studio?u=76281980&t=2)** And we installed Management Studio, our graphical front end for working with the server.
 >
@@ -1060,7 +1048,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/log-in-with-management-studio?u=76281980&t=32)** We have the option of server type, and I'm going to be connecting to a database engine.
 >
-> **[0:36](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/log-in-with-management-studio?u=76281980&t=36)** But you have different types of SQL Server services that you can connect to, including reporting services, integration services, or Azure SSIS Integration Runtime.
+> **[0:36](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/log-in-with-management-studio?u=76281980&t=36)** But you have different types of SQL Server services that you can connect to, including reporting services, integration services, or [[Microsoft Azure|Azure]] SSIS Integration Runtime.
 >
 > **[0:47](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/log-in-with-management-studio?u=76281980&t=47)** Now, I don't have any of these actually installed on my system, so I'll just leave it here to the database engine itself.
 >
@@ -1074,7 +1062,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/log-in-with-management-studio?u=76281980&t=71)** Next step, we get to choose our authentication method.
 >
-> **[1:14](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/log-in-with-management-studio?u=76281980&t=74)** We have Windows authentication, SQL Server authentication, and then we have some options if our organization is using Active Directory right here.
+> **[1:14](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/log-in-with-management-studio?u=76281980&t=74)** We have [[Windows]] authentication, SQL Server authentication, and then we have some options if our organization is using [[Active Directory]] right here.
 >
 > **[1:23](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/log-in-with-management-studio?u=76281980&t=83)** Now when I installed SQL Server, it added my current Windows user account as a system administrator.
 >
@@ -1098,7 +1086,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/log-in-with-management-studio?u=76281980&t=151)** This area provides a tree view of all of the contents of the SQL Server instance that you've connected to.
 >
-> **[2:39](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/log-in-with-management-studio?u=76281980&t=159)** At the top level, we have databases, security items, server objects, and so on.
+> **[2:39](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/log-in-with-management-studio?u=76281980&t=159)** At the top level, we have [[Databases]], security items, server objects, and so on.
 >
 > **[2:46](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/log-in-with-management-studio?u=76281980&t=166)** You can expand each of these folders to see what they contain.
 >
@@ -1142,7 +1130,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/log-in-with-management-studio?u=76281980&t=296)** Finally, I need to come back over here to the left hand side and open up the text editor section.
 >
-> **[5:01](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/log-in-with-management-studio?u=76281980&t=301)** Then I'll click Transact-SQL.
+> **[5:01](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/log-in-with-management-studio?u=76281980&t=301)** Then I'll click [[Transact-SQL (T-SQL)|Transact-SQL]].
 >
 > **[5:04](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/log-in-with-management-studio?u=76281980&t=304)** This brings up a warning that the changes that I just made aren't going to appear until I restart the application, so that's just good to know.
 >
@@ -1162,7 +1150,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (9), [[Databases]] (5), management (4), database (4), [[Windows]] (4)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (9), [[Databases]] (5), [[Windows]] (4), [[Transact-SQL (T-SQL)|Transact-sql]] (2), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** sql (11), ssis (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** dropdown (2), click on (1), go to (1)
@@ -1171,12 +1159,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Best Practices:** remember to (1)
 
-#### Enable the System Administrator account
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-the-system-administrator-account?u=76281980)
+#### [Enable the System Administrator account](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-the-system-administrator-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-the-system-administrator-account?u=76281980&t=0)** - [Narrator] By default, SQL Server will only allow Windows Authentication logins to the server.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-the-system-administrator-account?u=76281980&t=0)** - [Narrator] By default, [[Microsoft SQL Server|SQL Server]] will only allow [[Windows]] Authentication logins to the server.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-the-system-administrator-account?u=76281980&t=5)** We can enable SQL Server authentication, that requires a username and password to be used, as an alternative way to gain access into the system.
 >
@@ -1194,9 +1181,9 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-the-system-administrator-account?u=76281980&t=49)** This setting is great for testing and development, of your database projects.
 >
-> **[0:53](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-the-system-administrator-account?u=76281980&t=53)** But Microsoft actually discourages SQL Server authentication, in production databases, because Windows Authentication only creates a much more rigorous way, to verify the identity, of the people that are accessing your data.
+> **[0:53](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-the-system-administrator-account?u=76281980&t=53)** But [[Microsoft]] actually discourages SQL Server authentication, in production [[Databases]], because Windows Authentication only creates a much more rigorous way, to verify the identity, of the people that are accessing your data.
 >
-> **[1:07](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-the-system-administrator-account?u=76281980&t=67)** And Windows account types are typically managed, to follow security best practices of the organization, through Active Directory.
+> **[1:07](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-the-system-administrator-account?u=76281980&t=67)** And Windows account types are typically managed, to follow security best practices of the organization, through [[Active Directory]].
 >
 > **[1:15](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enable-the-system-administrator-account?u=76281980&t=75)** Windows Authentication can even integrate with fingerprint scanners, or RFID badges, in some cases.
 >
@@ -1318,7 +1305,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (14), [[Windows]] (12), data (5), [[Security]] (4), database (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (14), [[Windows]] (12), [[Microsoft]] (1), [[Databases]] (1), [[Active Directory]] (1)
 > **Env Vars:** sql (14), rfid (1)
 > **UI Navigation:** right-click (4), scroll up (1)
 > **CLI Commands:** make (3), find (1)
@@ -1327,14 +1314,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
-#### Connect to Azure and Docker servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/connect-to-azure-and-docker-servers?u=76281980)
+#### [Connect to Azure and Docker servers](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/connect-to-azure-and-docker-servers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/connect-to-azure-and-docker-servers?u=76281980&t=0)** - [Instructor] Management Studio will allow you to connect to multiple SQL Server instances at the same time, and they'll just show up one on top of another over here in the Object Explorer panel.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/connect-to-azure-and-docker-servers?u=76281980&t=0)** - [Instructor] Management Studio will allow you to connect to multiple [[Microsoft SQL Server|SQL Server]] instances at the same time, and they'll just show up one on top of another over here in the Object Explorer panel.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/connect-to-azure-and-docker-servers?u=76281980&t=11)** In the previous chapter, I created two additional database servers, one running in an Azure Cloud hosted virtual machine, and a second one that's running inside of a Docker container.
+> **[0:11](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/connect-to-azure-and-docker-servers?u=76281980&t=11)** In the previous chapter, I created two additional database servers, one running in an [[Microsoft Azure|Azure]] Cloud hosted virtual machine, and a second one that's running inside of a Docker container.
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/connect-to-azure-and-docker-servers?u=76281980&t=23)** So let's connect to both of those instances now.
 >
@@ -1352,7 +1338,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/connect-to-azure-and-docker-servers?u=76281980&t=59)** Next, we need the port that SQL Server is using.
 >
-> **[1:03](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/connect-to-azure-and-docker-servers?u=76281980&t=63)** Go back to the dashboard and then find the link for the SQL Virtual Machine.
+> **[1:03](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/connect-to-azure-and-docker-servers?u=76281980&t=63)** Go back to the dashboard and then find the link for the [[SQL]] Virtual Machine.
 >
 > **[1:08](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/connect-to-azure-and-docker-servers?u=76281980&t=68)** Go ahead and click that.
 >
@@ -1410,7 +1396,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/connect-to-azure-and-docker-servers?u=76281980&t=223)** Since Docker is running on my personal computer, I don't actually need an IP address for this one.
 >
-> **[3:48](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/connect-to-azure-and-docker-servers?u=76281980&t=228)** I can instead use the word local host in our connection string.
+> **[3:48](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/connect-to-azure-and-docker-servers?u=76281980&t=228)** I can instead use the [[Microsoft Word|word]] local host in our connection string.
 >
 > **[3:53](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/connect-to-azure-and-docker-servers?u=76281980&t=233)** Okay, so that's all the information I need.
 >
@@ -1430,7 +1416,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/connect-to-azure-and-docker-servers?u=76281980&t=269)** In fact, if you look at the icon for this connection, you'll see that we have a very tiny little penguin.
 >
-> **[4:35](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/connect-to-azure-and-docker-servers?u=76281980&t=275)** This is the Linux mascot, which indicates that this server is running on Linux inside of the container.
+> **[4:35](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/connect-to-azure-and-docker-servers?u=76281980&t=275)** This is the [[Linux]] mascot, which indicates that this server is running on Linux inside of the container.
 >
 > **[4:42](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/connect-to-azure-and-docker-servers?u=76281980&t=282)** So as you can see, we have lots of options for how you can run SQL Server.
 >
@@ -1440,7 +1426,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (10), management (4), [[Microsoft Azure|Azure]] (3), database (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (10), [[Microsoft Azure|Azure]] (3), [[SQL]] (2), [[Linux]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (12)
 > **CLI Commands:** docker (5), find (2), make (1)
 > **UI Navigation:** click on (2), scroll down (1), in the sidebar (1)
@@ -1454,16 +1440,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create the first database
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980)
+#### [Create the first database](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=0)** - [Instructor] SQL Server is not a database.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=0)** - [Instructor] [[Microsoft SQL Server|SQL Server]] is not a database.
 >
-> **[0:02](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=2)** It's a database management system.
+> **[0:02](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=2)** It's a [[Database Management]] system.
 >
-> **[0:05](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=5)** That means that it's the application that you use to create and manage your databases.
+> **[0:05](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=5)** That means that it's the application that you use to create and manage your [[Databases]].
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=10)** SQL Server is just a tool that you can create databases with, and it does the work of controlling user access to those databases.
 >
@@ -1481,13 +1466,13 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=54)** We could use Management Studio, in the graphical interface here on the screen.
 >
-> **[0:59](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=59)** But I'd like to take a step back a moment and return to the command-line tool, SQL Command.
+> **[0:59](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=59)** But I'd like to take a step back a moment and return to the command-line tool, [[SQL]] Command.
 >
 > **[1:05](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=65)** We saw this tool very briefly when I first introduced SQL Server and installed it on my machine.
 >
 > **[1:12](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=72)** I want to show this tool again to simply reinforce the idea that Management Studio is nothing more than an interface to SQL Server's capabilities, and it's one option of many.
 >
-> **[1:24](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=84)** You could also use a program called Azure Data Studio to perform many of these same tasks.
+> **[1:24](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=84)** You could also use a program called [[Microsoft Azure|Azure]] Data Studio to perform many of these same tasks.
 >
 > **[1:30](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=90)** SQL Server largely doesn't care how it receives your instructions, just that they're formatted in a way that it understands.
 >
@@ -1495,7 +1480,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=107)** So let's leave the Management Studio graphical interface for just a moment, and I'll come down to my Start menu, and I'll do a search for cmd.
 >
-> **[1:56](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=116)** Then I'll bring up the Windows Command Prompt application.
+> **[1:56](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=116)** Then I'll bring up the [[Windows]] Command Prompt application.
 >
 > **[1:59](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=119)** Then I'll type in sqlcmd to get to the SQL Command tool.
 >
@@ -1521,7 +1506,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=192)** I'll type in CREATE DATABASE KinetEco.
 >
-> **[3:16](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=196)** This is an example of a Transact-SQL command which is the language that you'll use to communicate with SQL Server, regardless of whether you're using the SQL Command tool like we are now, or through Management Studio, or any other interface.
+> **[3:16](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=196)** This is an example of a [[Transact-SQL (T-SQL)|Transact-SQL]] command which is the language that you'll use to communicate with SQL Server, regardless of whether you're using the SQL Command tool like we are now, or through Management Studio, or any other interface.
 >
 > **[3:30](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=210)** We'll talk a lot about Transact-SQL later on in the course.
 >
@@ -1567,7 +1552,7 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=319)** Then I'll find my C drive.
 >
-> **[5:22](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=322)** We'll go into the Program Files folder, then Microsoft SQL Server.
+> **[5:22](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=322)** We'll go into the Program Files folder, then [[Microsoft SQL Server]].
 >
 > **[5:30](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-the-first-database?u=76281980&t=330)** Inside of here, we'll find a folder for our database instance.
 >
@@ -1625,7 +1610,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (22), [[Microsoft SQL Server|Sql server]] (18), [[Databases]] (10), data (10), management (7)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (18), [[Databases]] (10), [[SQL]] (5), [[Windows]] (3), [[Transact-SQL (T-SQL)|Transact-sql]] (2)
 > **Env Vars:** sql (27), create (2), database (2), data (2), mssqlserver (1)
 > **CLI Commands:** make (5), find (4)
 > **Tools:** command prompt (4)
@@ -1634,14 +1619,13 @@ created: 2026-05-02
 > **Analogies:** such as (1), similar to (1)
 > **Code Identifiers:** sp_databases (1)
 
-#### Database configuration options
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-configuration-options?u=76281980)
+#### [Database configuration options](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-configuration-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-configuration-options?u=76281980&t=0)** - [Instructor] The graphical interface here in Management Studio gives us an opportunity to explore some of the other configuration options that are available when creating a new database without having to know all of the intricacies of the create database transact SQL command.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-configuration-options?u=76281980&t=0)** - [Instructor] The graphical interface here in Management Studio gives us an opportunity to explore some of the other configuration options that are available when creating a new database without having to know all of the intricacies of the create database transact [[SQL]] command.
 >
-> **[0:16](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-configuration-options?u=76281980&t=16)** To do this, right click on the databases folder underneath your connected instance and then choose new database from the popup menu.
+> **[0:16](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-configuration-options?u=76281980&t=16)** To do this, right click on the [[Databases]] folder underneath your connected instance and then choose new database from the popup menu.
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-configuration-options?u=76281980&t=25)** That'll open up the new database graphical workflow, and we have a number of different options that we can move through that are separated into these three pages, general, options and file groups.
 >
@@ -1671,7 +1655,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-configuration-options?u=76281980&t=124)** Next up, we have the initial size of the database in megabytes.
 >
-> **[2:09](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-configuration-options?u=76281980&t=129)** SQL Server will reserve space on the hard drive, even though we're not filling it up right away.
+> **[2:09](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-configuration-options?u=76281980&t=129)** [[Microsoft SQL Server|SQL Server]] will reserve space on the hard drive, even though we're not filling it up right away.
 >
 > **[2:15](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-configuration-options?u=76281980&t=135)** When we do fill up the initial space reservation, the database will automatically grow based on the settings in the next column, the auto growth setting.
 >
@@ -1761,7 +1745,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (26), data (13), [[Microsoft SQL Server|Sql server]] (9), [[Databases]] (5), management (3)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (9), [[Databases]] (5), [[SQL]] (2)
 > **Env Vars:** sql (11), mdf (1), ldf (1)
 > **UI Navigation:** click on (3)
 > **Analogies:** for instance (3)
@@ -1770,8 +1754,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Tools:** command line (1)
 
-#### Table structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/table-structures?u=76281980)
+#### [Table structures](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/table-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1779,7 +1762,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/table-structures?u=76281980&t=6)** This means it's time to create a table.
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/table-structures?u=76281980&t=9)** Tables in a SQL Server database are created by defining the columns of information that you want to store.
+> **[0:09](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/table-structures?u=76281980&t=9)** Tables in a [[Microsoft SQL Server|SQL Server]] database are created by defining the columns of information that you want to store.
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/table-structures?u=76281980&t=16)** These columns called fields break down the details about the data into individual attributes.
 >
@@ -1833,7 +1816,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/table-structures?u=76281980&t=229)** Or will you need to be able to store numbers up in the billions?
 >
-> **[3:54](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/table-structures?u=76281980&t=234)** In order to create a table in SQL server, you're going to need to make a decision here, and this isn't one that you'll be able to easily change later, so it's in your best interest to think through your data storage needs carefully and build the table correctly the first time.
+> **[3:54](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/table-structures?u=76281980&t=234)** In order to create a table in SQL server, you're going to need to make a decision here, and this isn't one that you'll be able to easily change later, so it's in your best interest to think through your [[Data Storage]] needs carefully and build the table correctly the first time.
 >
 > **[4:09](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/table-structures?u=76281980&t=249)** And finally the last piece of information that SQL Server needs to know about your table's columns is whether it will be acceptable for a value to be left blank when entering in new records.
 >
@@ -1853,7 +1836,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Microsoft SQL Server|Sql server]] (9), database (5), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (9), [[Data Storage]] (1)
 > **CLI Commands:** make (8), find (2)
 > **Env Vars:** sql (9)
 > **Analogies:** for instance (3), for example (1)
@@ -1861,18 +1844,17 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a simple table
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980)
+#### [Create a simple table](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980&t=0)** - [Instructor] I'd like to create a table in the Red30 Tech database to store information about their customers.
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980&t=6)** In Management Studio, we can create a table by going into the Databases folder and finding the folder that will represent our tables.
+> **[0:06](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980&t=6)** In Management Studio, we can create a table by going into the [[Databases]] folder and finding the folder that will represent our tables.
 >
 > **[0:14](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980&t=14)** Right-click on it and point to New, and you'll see that we have lots of different options.
 >
-> **[0:18](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980&t=18)** The first one that just says Table is the standard type of data table used in most relational databases.
+> **[0:18](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980&t=18)** The first one that just says Table is the standard type of data table used in most [[Relational Databases]].
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980&t=25)** But you can also create memory optimized tables, which will store data in system memory as well as on disc so that it's faster to read and write.
 >
@@ -1882,9 +1864,9 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980&t=47)** Regular data tables don't include this capability and can only show you the current state of the data.
 >
-> **[0:52](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980&t=52)** Ledger tables are a new feature for SQL Server 2022.
+> **[0:52](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980&t=52)** Ledger tables are a new feature for [[Microsoft SQL Server|SQL Server]] 2022.
 >
-> **[0:56](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980&t=56)** They use cryptography and blockchain technologies to securely protect data from unauthorized changes.
+> **[0:56](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980&t=56)** They use [[Cryptography]] and [[Blockchain]] technologies to securely protect data from unauthorized changes.
 >
 > **[1:03](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980&t=63)** The data stored in a ledger table will show evidence of tampering during an audit and maintains a historical record of previous values so that any alterations that are made during an attack can be identified and corrected.
 >
@@ -1892,7 +1874,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980&t=83)** With graph tables, you store things called nodes and edges that define a web of interrelated connections.
 >
-> **[1:30](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980&t=90)** Finally, we have external tables, which are for connecting to Hadoop and Azure Blob Storage locations and file tables for storing files inside of a SQL Server database.
+> **[1:30](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980&t=90)** Finally, we have external tables, which are for connecting to [[Hadoop]] and [[Microsoft Azure|Azure]] Blob Storage locations and file tables for storing files inside of a SQL Server database.
 >
 > **[1:42](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980&t=102)** So those are a lot of advanced options that you can leverage depending on the kinds of data that you'll be storing and your specific requirements.
 >
@@ -1908,7 +1890,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980&t=139)** Remember our naming conventions.
 >
-> **[2:21](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980&t=141)** I'm not going to use any spaces between the two words here, and I'm going to capitalize the first letter of each word.
+> **[2:21](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980&t=141)** I'm not going to use any spaces between the two words here, and I'm going to capitalize the first letter of each [[Microsoft Word|word]].
 >
 > **[2:29](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980&t=149)** So that's the column name.
 >
@@ -2004,7 +1986,7 @@ created: 2026-05-02
 >
 > **[6:54](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980&t=414)** So for instance, if you have a warehouse manager as one of your database users, you could group all of the tables that they need access to under a warehouse schema and then give the manager ownership of that schema.
 >
-> **[7:08](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980&t=428)** This will allow them to access all of the tables within the schema group, but keep them out of the tables in the human resources schema, for example.
+> **[7:08](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980&t=428)** This will allow them to access all of the tables within the schema group, but keep them out of the tables in the [[Human Resources (HR)|human resources]] schema, for example.
 >
 > **[7:16](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-simple-table?u=76281980&t=436)** Until we get around to creating custom schemas in our database, all of our tables will be placed in the same dbo schema group.
 >
@@ -2022,7 +2004,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), database (8), [[Microsoft SQL Server|Sql server]] (6), [[Databases]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), [[Databases]] (2), [[Relational Databases]] (1), [[Cryptography]] (1), [[Blockchain]] (1)
 > **Env Vars:** sql (6)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (3), means that (1), is called (1)
@@ -2031,14 +2013,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Edit a table's structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/edit-a-table-s-structure?u=76281980)
+#### [Edit a table's structure](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/edit-a-table-s-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/edit-a-table-s-structure?u=76281980&t=0)** - Occasionally you'll want to make a change to the structure of a table and management studio will step in and prevent you from saving the change.
 >
-> **[0:08](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/edit-a-table-s-structure?u=76281980&t=8)** This is especially true when you're just starting out with SQL Server and you're building things on the fly and then go back and revise your database after the fact.
+> **[0:08](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/edit-a-table-s-structure?u=76281980&t=8)** This is especially true when you're just starting out with [[Microsoft SQL Server|SQL Server]] and you're building things on the fly and then go back and revise your database after the fact.
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/edit-a-table-s-structure?u=76281980&t=16)** For instance, let's go back into the customer's table that we just created and I'll right click on it and open it back up in the design tool.
 >
@@ -2080,19 +2061,18 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/edit-a-table-s-structure?u=76281980&t=159)** If you have any data stored in the table, it should be copied into the updated table structures automatically but there is always a chance of that process getting messed up and losing some data.
 >
-> **[2:51](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/edit-a-table-s-structure?u=76281980&t=171)** I'll leave it to you to decide whether that's a risk worth taking on your own in your own databases.
+> **[2:51](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/edit-a-table-s-structure?u=76281980&t=171)** I'll leave it to you to decide whether that's a risk worth taking on your own in your own [[Databases]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft SQL Server|Sql server]] (3), management (2), database (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[Databases]] (1)
 > **CLI Commands:** make (6), find (2)
 > **Env Vars:** sql (3)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Analogies:** for instance (2)
 > **Speakers:** - occasionally (1)
 
-#### Enter data into a table using the GUI
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enter-data-into-a-table-using-the-gui?u=76281980)
+#### [Enter data into a table using the GUI](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enter-data-into-a-table-using-the-gui?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2134,7 +2114,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enter-data-into-a-table-using-the-gui?u=76281980&t=105)** And you'll notice that those red icons and the pencil icon on the left both have disappeared.
 >
-> **[1:51](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enter-data-into-a-table-using-the-gui?u=76281980&t=111)** So now no matter what happens, if you close the editor, the power to your office shuts off, or whatever, the data that we just typed in for Katherine's record has already been saved into the database.
+> **[1:51](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enter-data-into-a-table-using-the-gui?u=76281980&t=111)** So now no matter what happens, if you close the editor, the power to your [[Microsoft Office|office]] shuts off, or whatever, the data that we just typed in for Katherine's record has already been saved into the database.
 >
 > **[2:03](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enter-data-into-a-table-using-the-gui?u=76281980&t=123)** You don't need to go through a separate step or click on a save button on a toolbar to actually save changes that you're making to your data here.
 >
@@ -2148,7 +2128,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enter-data-into-a-table-using-the-gui?u=76281980&t=149)** If you read through this text here, you'll see why.
 >
-> **[2:32](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enter-data-into-a-table-using-the-gui?u=76281980&t=152)** We're asking SQL Server to store a null value into the LastName column for record number two.
+> **[2:32](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enter-data-into-a-table-using-the-gui?u=76281980&t=152)** We're asking [[Microsoft SQL Server|SQL Server]] to store a null value into the LastName column for record number two.
 >
 > **[2:39](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enter-data-into-a-table-using-the-gui?u=76281980&t=159)** When we created the table, we specifically said that nulls were not allowed in that column.
 >
@@ -2174,23 +2154,22 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enter-data-into-a-table-using-the-gui?u=76281980&t=229)** Now, if I right click on the customers table in the Object Explorer window on the left and choose select top 1000 rows, it's going to return the data that we just entered into the table.
 >
-> **[4:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enter-data-into-a-table-using-the-gui?u=76281980&t=240)** Here you can see the data that's been saved into our table for our two customers, as well as the Transact-SQL command at the top that returns this information from the database.
+> **[4:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/enter-data-into-a-table-using-the-gui?u=76281980&t=240)** Here you can see the data that's been saved into our table for our two customers, as well as the [[Transact-SQL (T-SQL)|Transact-SQL]] command at the top that returns this information from the database.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), database (5), next (4), management (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Transact-SQL (T-SQL)|Transact-sql]] (1)
 > **UI Navigation:** click on (3)
 > **Env Vars:** sql (2)
 > **CLI Commands:** find (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Import data from CSV files
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/import-data-from-csv-files?u=76281980)
+#### [Import data from CSV files](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/import-data-from-csv-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/import-data-from-csv-files?u=76281980&t=0)** - [Instructor] If you have data stored in a spreadsheet format such as Excel or Google Sheets, or another database system such as Microsoft Access, then you can export that data as a CSV file from their native program to easily bring it into SQL Server.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/import-data-from-csv-files?u=76281980&t=0)** - [Instructor] If you have data stored in a spreadsheet format such as [[Microsoft Excel|Excel]] or [[Google]] Sheets, or another database system such as [[Microsoft]] Access, then you can export that data as a CSV file from their native program to easily bring it into [[Microsoft SQL Server|SQL Server]].
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/import-data-from-csv-files?u=76281980&t=17)** CSV stands for comma separated values, and it's an example of what's often called a flat file data table.
 >
@@ -2254,7 +2233,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/import-data-from-csv-files?u=76281980&t=216)** If your CSV file has multiple header rows, you can specify how many to skip before getting to the column names.
 >
-> **[3:43](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/import-data-from-csv-files?u=76281980&t=223)** Sometimes CSV files will include metadata at the top of the file, indicating the date the table was made or who made it.
+> **[3:43](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/import-data-from-csv-files?u=76281980&t=223)** Sometimes CSV files will include [[Metadata]] at the top of the file, indicating the date the table was made or who made it.
 >
 > **[3:52](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/import-data-from-csv-files?u=76281980&t=232)** I don't need to skip any rows in the file before we get to the header, so I'll leave this set to zero.
 >
@@ -2288,7 +2267,7 @@ created: 2026-05-02
 >
 > **[5:26](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/import-data-from-csv-files?u=76281980&t=326)** This will allow us to specify the server that we want to connect to, and again, this is the server that's on my pc.
 >
-> **[5:32](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/import-data-from-csv-files?u=76281980&t=332)** We'll use Windows authentication to log in and it should automatically select the Red30 Tech database, but if you need to, you can make a change right there.
+> **[5:32](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/import-data-from-csv-files?u=76281980&t=332)** We'll use [[Windows]] authentication to log in and it should automatically select the Red30 Tech database, but if you need to, you can make a change right there.
 >
 > **[5:41](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/import-data-from-csv-files?u=76281980&t=341)** Go ahead and press the next button and we'll specify where we want the data to go inside of the Red30 Tech database.
 >
@@ -2348,7 +2327,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (37), next (9), database (8), [[Microsoft SQL Server|Sql server]] (7), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (7), [[Microsoft Excel|Excel]] (3), [[Google]] (1), [[Microsoft]] (1), [[Metadata]] (1)
 > **Env Vars:** csv (12), sql (7)
 > **CLI Commands:** make (5), find (3)
 > **UI Navigation:** click on (2), dropdown (2), checkbox (1)
@@ -2357,12 +2336,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1), configure (1)
 > **Exercise Files:** exercise files (1)
 
-#### Create tables from flat files
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-tables-from-flat-files?u=76281980)
+#### [Create tables from flat files](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-tables-from-flat-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-tables-from-flat-files?u=76281980&t=0)** - If you are looking to import an entire table including its column structure and data into your SQL Server database, then there's a more modern and streamlined wizard to help you do that than the one that we saw in the last movie.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-tables-from-flat-files?u=76281980&t=0)** - If you are looking to import an entire table including its column structure and data into your [[Microsoft SQL Server|SQL Server]] database, then there's a more modern and streamlined wizard to help you do that than the one that we saw in the last movie.
 >
 > **[0:13](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-tables-from-flat-files?u=76281980&t=13)** You can find it by right clicking on the database.
 >
@@ -2374,7 +2352,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-tables-from-flat-files?u=76281980&t=36)** First, we need to specify the location of the file that we want to import.
 >
-> **[0:40](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-tables-from-flat-files?u=76281980&t=40)** Press the browse button, and in the chapter three folder, I have a CSV file that stores information about the products that Red 30 tech stocks.
+> **[0:40](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-tables-from-flat-files?u=76281980&t=40)** Press the browse button, and in the chapter three folder, I have a CSV file that stores information about the [[Microsoft Products|products]] that Red 30 tech stocks.
 >
 > **[0:49](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-tables-from-flat-files?u=76281980&t=49)** Go ahead and select that file and press open.
 >
@@ -2468,7 +2446,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), database (6), next (6), [[Microsoft Products|Products]] (4), product (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** dbo (2), int (2), sql (1), csv (1), tsql (1)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** dropdown (2), select the (1), click on (1)
@@ -2477,18 +2455,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 
-#### Install a sample database
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-a-sample-database?u=76281980)
+#### [Install a sample database](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-a-sample-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-a-sample-database?u=76281980&t=0)** - Learning about SQL Server is often easier when you have lots of data to peruse or can dig into an existing database to see how it was put together.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-a-sample-database?u=76281980&t=0)** - Learning about [[Microsoft SQL Server|SQL Server]] is often easier when you have lots of data to peruse or can dig into an existing database to see how it was put together.
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-a-sample-database?u=76281980&t=9)** Microsoft provides an example database that's useful to have on hand for experimentation or to explore topics in database development.
+> **[0:09](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-a-sample-database?u=76281980&t=9)** [[Microsoft]] provides an example database that's useful to have on hand for experimentation or to explore topics in [[Database Development]].
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-a-sample-database?u=76281980&t=18)** Let me show you how you can add it to your SQL Server instance.
 >
-> **[0:22](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-a-sample-database?u=76281980&t=22)** The process starts at Microsoft's SQL Server Samples GitHub page at this URL.
+> **[0:22](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-a-sample-database?u=76281980&t=22)** The process starts at Microsoft's SQL Server Samples [[GitHub]] page at this URL.
 >
 > **[0:27](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-a-sample-database?u=76281980&t=27)** Here, you'll find the Wide World Importers sample database that's frequently used in Microsoft's own example documentation.
 >
@@ -2526,7 +2503,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-a-sample-database?u=76281980&t=122)** I'll close the file explorer and return back to Management Studio.
 >
-> **[2:06](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-a-sample-database?u=76281980&t=126)** To restore the database, you'll right click on the databases folder underneath your Connection and choose Restore database.
+> **[2:06](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-a-sample-database?u=76281980&t=126)** To restore the database, you'll right click on the [[Databases]] folder underneath your Connection and choose Restore database.
 >
 > **[2:15](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/install-a-sample-database?u=76281980&t=135)** Then we're going to restore it from a device source.
 >
@@ -2556,7 +2533,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), [[Microsoft SQL Server|Sql server]] (8), [[Microsoft]] (4), data (3), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (8), [[Microsoft]] (4), [[Databases]] (2), [[Database Development]] (1), [[GitHub]] (1)
 > **Env Vars:** sql (8), mssql (2), url (1), mssql16 (1), server (1)
 > **UI Navigation:** click on (4), scroll down (1)
 > **CLI Commands:** find (4)
@@ -2570,12 +2547,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choose appropriate data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/choose-appropriate-data-types?u=76281980)
+#### [Choose appropriate data types](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/choose-appropriate-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/choose-appropriate-data-types?u=76281980&t=0)** - [Instructor] Having a good solid understanding of SQL server's data types will make it easier for you to select the best option for your data storage needs when constructing your databases tables.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/choose-appropriate-data-types?u=76281980&t=0)** - [Instructor] Having a good solid understanding of [[Microsoft SQL Server|SQL server]]'s data types will make it easier for you to select the best option for your [[Data Storage]] needs when constructing your [[Databases]] tables.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/choose-appropriate-data-types?u=76281980&t=11)** I've touched on the topic briefly, but we need to explore the concept in more detail.
 >
@@ -2591,7 +2567,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/choose-appropriate-data-types?u=76281980&t=67)** For a company that only has a few employees, that's probably not a big deal, but multiply that kind of data bloat over millions of records in a database, and it can quickly turn into a significant amount of storage space that's being wasted.
 >
-> **[1:21](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/choose-appropriate-data-types?u=76281980&t=81)** And it's not just for storage, most database systems transfer information over a network, sometimes over very long distances.
+> **[1:21](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/choose-appropriate-data-types?u=76281980&t=81)** And it's not just for storage, most [[Database Systems]] transfer information over a network, sometimes over very long distances.
 >
 > **[1:28](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/choose-appropriate-data-types?u=76281980&t=88)** If you can cut your transmission times by a quarter just by picking the right data type up front, then it's in your best interest to take that responsibility seriously.
 >
@@ -2617,19 +2593,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), database (4), [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (1), hr (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[Data Storage]] (2), [[Databases]] (1), [[Database Systems]] (1)
 > **Env Vars:** sql (2), int (1), abc (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### SQL Server data type options
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/sql-server-data-type-options?u=76281980)
+#### [SQL Server data type options](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/sql-server-data-type-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/sql-server-data-type-options?u=76281980&t=0)** - [Instructor] Now that we know why we need to choose appropriate data types, you're probably wondering what your data type options are in SQL Server, and what makes them different.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/sql-server-data-type-options?u=76281980&t=0)** - [Instructor] Now that we know why we need to choose appropriate data types, you're probably wondering what your data type options are in [[Microsoft SQL Server|SQL Server]], and what makes them different.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/sql-server-data-type-options?u=76281980&t=8)** So let's get more specific.
 >
@@ -2721,17 +2696,17 @@ created: 2026-05-02
 >
 > **[5:11](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/sql-server-data-type-options?u=76281980&t=311)** Nchar and nvarchar are unicode variants that allow characters from the extended character sets that support international languages.
 >
-> **[5:20](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/sql-server-data-type-options?u=76281980&t=320)** The prefix N stands for the word national.
+> **[5:20](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/sql-server-data-type-options?u=76281980&t=320)** The prefix N stands for the [[Microsoft Word|word]] national.
 >
 > **[5:24](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/sql-server-data-type-options?u=76281980&t=324)** Because Unicode and codings take twice the storage space of the basic Latin character set, these variations top out at half the number of characters.
 >
-> **[5:33](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/sql-server-data-type-options?u=76281980&t=333)** Now, there is a small complication here though because in 2019 Microsoft added the ability to store unicode characters in a standard char and varchar data type using the utf8 character in coding system.
+> **[5:33](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/sql-server-data-type-options?u=76281980&t=333)** Now, there is a small complication here though because in 2019 [[Microsoft]] added the ability to store unicode characters in a standard char and varchar data type using the utf8 character in coding system.
 >
 > **[5:47](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/sql-server-data-type-options?u=76281980&t=347)** It's a specialty use case that makes it possible, but it does require the database to be configured to enable the functionality, and it breaks with the traditional separation.
 >
 > **[5:56](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/sql-server-data-type-options?u=76281980&t=356)** between two different data types.
 >
-> **[5:58](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/sql-server-data-type-options?u=76281980&t=358)** I would recommend sticking with the mental model that only the nchar and nvarchar variants should be used for unicode text, which is the way the SQL standard is written, and it's the way that every other database platform uses these data types.
+> **[5:58](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/sql-server-data-type-options?u=76281980&t=358)** I would recommend sticking with the mental model that only the nchar and nvarchar variants should be used for unicode text, which is the way the [[SQL]] standard is written, and it's the way that every other database platform uses these data types.
 >
 > **[6:13](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/sql-server-data-type-options?u=76281980&t=373)** Now, if you do happen to need more characters in a text field, then you'll need to jump up to the varchar max and nvarchar max data types, which each allow you up to two gigabytes of storage.
 >
@@ -2751,7 +2726,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (36), [[Microsoft SQL Server|Sql server]] (3), next (3), power (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[Microsoft Word|Word]] (2), [[Microsoft]] (2), [[SQL]] (1)
 > **Env Vars:** sql (4), xml (1)
 > **Definitions:** is a  (2), is called (1), stands for (1)
 > **CLI Commands:** make (1), find (1)
@@ -2760,8 +2735,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automatically assign record identities
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/automatically-assign-record-identities?u=76281980)
+#### [Automatically assign record identities](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/automatically-assign-record-identities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2807,7 +2781,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/automatically-assign-record-identities?u=76281980&t=155)** All of these are unique identifiers that help various organizations and governments keep track of who is who.
 >
-> **[2:43](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/automatically-assign-record-identities?u=76281980&t=163)** And because they're so common, SQL Server has this capability to have the database engine automatically assign new unique identifiers when new records are added.
+> **[2:43](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/automatically-assign-record-identities?u=76281980&t=163)** And because they're so common, [[Microsoft SQL Server|SQL Server]] has this capability to have the database engine automatically assign new unique identifiers when new records are added.
 >
 > **[2:54](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/automatically-assign-record-identities?u=76281980&t=174)** So, let's go back and give this new column a name.
 >
@@ -2853,7 +2827,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), database (5), [[Microsoft SQL Server|Sql server]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** int (3), sql (2), ctrl (1)
 > **CLI Commands:** make (4), find (1)
 > **Documentation:** specification (3)
@@ -2862,14 +2836,13 @@ created: 2026-05-02
 > **Analogies:** such as (1), for instance (1)
 > **Best Practices:** good practice (1)
 
-#### Primary key fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/primary-key-fields?u=76281980)
+#### [Primary key fields](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/primary-key-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/primary-key-fields?u=76281980&t=0)** - [Instructor] If I open the Red30 Tech customers table in the design tool again, we'll see that we now have the customer ID column created that's automatically generating unique identifiers for each customer that we enter into the table.
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/primary-key-fields?u=76281980&t=14)** Because unique record identifiers are so core to the functionality of a relational database, we can take the concept one step further and tell SQL Server that even though there may be other columns in the table that store unique values, this column in particular is the most important.
+> **[0:14](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/primary-key-fields?u=76281980&t=14)** Because unique record identifiers are so core to the functionality of a relational database, we can take the concept one step further and tell [[Microsoft SQL Server|SQL Server]] that even though there may be other columns in the table that store unique values, this column in particular is the most important.
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/primary-key-fields?u=76281980&t=32)** We do this by designating the column as the table's primary key.
 >
@@ -2915,7 +2888,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/primary-key-fields?u=76281980&t=224)** The only requirement for a primary key column is that every value in the column is unique to each record.
 >
-> **[3:51](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/primary-key-fields?u=76281980&t=231)** So if you are supplying your own unique value for each record, like a products model number if it's specific to your manufacturing process or if there's another naturally occurring unique value in your database, oftentimes email addresses are used for this purpose, you can assign those columns as the primary key instead.
+> **[3:51](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/primary-key-fields?u=76281980&t=231)** So if you are supplying your own unique value for each record, like a [[Microsoft Products|products]] model number if it's specific to your manufacturing process or if there's another naturally occurring unique value in your database, oftentimes email addresses are used for this purpose, you can assign those columns as the primary key instead.
 >
 > **[4:10](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/primary-key-fields?u=76281980&t=250)** In fact, you can combine multiple columns into something called a composite key if jointly they describe a unique record.
 >
@@ -2925,7 +2898,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), database (2), [[Microsoft SQL Server|Sql server]] (2), data (2), feature (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (5), make (2)
 > **UI Navigation:** click on (3), toggle (2), open the (1)
 > **Env Vars:** sql (2)
@@ -2934,8 +2907,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Establish a default value
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/establish-a-default-value?u=76281980)
+#### [Establish a default value](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/establish-a-default-value?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2943,7 +2915,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/establish-a-default-value?u=76281980&t=9)** This way, you can simply skip over that field to accept the default or change it if it needs to be something different.
 >
-> **[0:15](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/establish-a-default-value?u=76281980&t=15)** For the Red30 Tech database, we found that most of our newer products are going to be in the ebooks category, so I want that to be the default value that'll get suggested when entering in new products.
+> **[0:15](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/establish-a-default-value?u=76281980&t=15)** For the Red30 Tech database, we found that most of our newer [[Microsoft Products|products]] are going to be in the ebooks category, so I want that to be the default value that'll get suggested when entering in new products.
 >
 > **[0:28](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/establish-a-default-value?u=76281980&t=28)** To make this change find the products table in the Red30 Tech database, right click on it and open up the design window.
 >
@@ -2951,7 +2923,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/establish-a-default-value?u=76281980&t=43)** Here I'll type in the value that we want to be supplied automatically, ebooks.
 >
-> **[0:48](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/establish-a-default-value?u=76281980&t=48)** When I press enter SQL Server wraps this in single quotation marks, which indicates that this is a text string.
+> **[0:48](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/establish-a-default-value?u=76281980&t=48)** When I press enter [[Microsoft SQL Server|SQL Server]] wraps this in single quotation marks, which indicates that this is a text string.
 >
 > **[0:55](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/establish-a-default-value?u=76281980&t=55)** It also prepense, the N character which means that this will use the Unicode character set.
 >
@@ -2979,7 +2951,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/establish-a-default-value?u=76281980&t=126)** It currently says null, and I'm just going to press tab to skip over that column.
 >
-> **[2:11](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/establish-a-default-value?u=76281980&t=131)** Then we'll fill in the values for the rest of the columns for the new product.
+> **[2:11](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/establish-a-default-value?u=76281980&t=131)** Then we'll fill in the values for the [[Representational State Transfer (REST)|rest]] of the columns for the new product.
 >
 > **[2:16](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/establish-a-default-value?u=76281980&t=136)** EB522 is the product ID number.
 >
@@ -3005,7 +2977,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/establish-a-default-value?u=76281980&t=206)** Just type in getdate with no space and then an open and a closed parenthesis at the end.
 >
-> **[3:32](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/establish-a-default-value?u=76281980&t=212)** This will fetch the current system date and time and automatically supply that as the value for the column whenever we enter in a new product.
+> **[3:32](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/establish-a-default-value?u=76281980&t=212)** This will [[Fetch]] the current system date and time and automatically supply that as the value for the column whenever we enter in a new product.
 >
 > **[3:41](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/establish-a-default-value?u=76281980&t=221)** All right, let's press Control S on the keyboard to save the design change to the table.
 >
@@ -3023,7 +2995,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/establish-a-default-value?u=76281980&t=257)** This ebook will be EB523.
 >
-> **[4:22](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/establish-a-default-value?u=76281980&t=262)** It's Advanced Databases.
+> **[4:22](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/establish-a-default-value?u=76281980&t=262)** It's Advanced [[Databases]].
 >
 > **[4:27](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/establish-a-default-value?u=76281980&t=267)** The price is $19.99 again.
 >
@@ -3037,7 +3009,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), product (7), data (5), database (4), [[Microsoft SQL Server|Sql server]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), [[Microsoft SQL Server|Sql server]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Fetch]] (1), [[Databases]] (1)
 > **Env Vars:** sql (2), eb522 (1), eb523 (1)
 > **Definitions:** means that (2), is a  (1), is an  (1)
 > **CLI Commands:** find (2), make (1)
@@ -3045,16 +3017,15 @@ created: 2026-05-02
 > **UI Navigation:** click on (3)
 > **Speakers:** - in (1)
 
-#### Check constraints
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/check-constraints?u=76281980)
+#### [Check constraints](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/check-constraints?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/check-constraints?u=76281980&t=0)** - [Instructor] When your data is expected to meet some criteria, you can ensure that what gets entered is valid with a check constraint.
 >
-> **[0:08](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/check-constraints?u=76281980&t=8)** Check constraints are very similar to the data validation features of spreadsheet programs like Excel.
+> **[0:08](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/check-constraints?u=76281980&t=8)** Check constraints are very similar to the [[Data Validation]] features of spreadsheet programs like [[Microsoft Excel|Excel]].
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/check-constraints?u=76281980&t=14)** With a check constraint on your table, SQL Server will make sure that the values that are being written to your data tables meet the requirements that you've specified.
+> **[0:14](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/check-constraints?u=76281980&t=14)** With a check constraint on your table, [[Microsoft SQL Server|SQL Server]] will make sure that the values that are being written to your data tables meet the requirements that you've specified.
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/check-constraints?u=76281980&t=25)** I want to add a check constraint to the Red30 Tech customers table.
 >
@@ -3150,7 +3121,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/check-constraints?u=76281980&t=276)** Here, we can see the new check constraint that we've just added.
 >
-> **[4:40](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/check-constraints?u=76281980&t=280)** As a quick aside, if you also go into the Products table, and expand the Constraints folder underneath that table, you'll see to additional constraints for the default values that we put in in the previous movie.
+> **[4:40](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/check-constraints?u=76281980&t=280)** As a quick aside, if you also go into the [[Microsoft Products|Products]] table, and expand the Constraints folder underneath that table, you'll see to additional constraints for the default values that we put in in the previous movie.
 >
 > **[4:53](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/check-constraints?u=76281980&t=293)** Default values are also implemented as a type of constraint on the data.
 >
@@ -3158,7 +3129,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), database (3), [[Microsoft SQL Server|Sql server]] (2), business (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Data Validation]] (2), [[Microsoft SQL Server|Sql server]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** right-click (4), click on (1), in the toolbar (1), go to (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** sql (2)
@@ -3166,8 +3137,7 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unique constraints
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/unique-constraints?u=76281980)
+#### [Unique constraints](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/unique-constraints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3175,11 +3145,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/unique-constraints?u=76281980&t=8)** The table's primary key column is just one example of a column that needs to maintain unique values.
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/unique-constraints?u=76281980&t=14)** It's probably a bad idea to have two different products with exactly the same name because that would make it confusing for customers that are trying to place an order.
+> **[0:14](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/unique-constraints?u=76281980&t=14)** It's probably a bad idea to have two different [[Microsoft Products|products]] with exactly the same name because that would make it confusing for customers that are trying to place an order.
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/unique-constraints?u=76281980&t=23)** Or maybe you want to use email addresses as a way to identify individual people when posting reviews on a recipe website.
 >
-> **[0:31](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/unique-constraints?u=76281980&t=31)** We can have SQL Server monitor the values that are being stored in our table, and by identifying individual columns that should not allow duplicate values between records, we can have the server enforce this rule on the data.
+> **[0:31](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/unique-constraints?u=76281980&t=31)** We can have [[Microsoft SQL Server|SQL Server]] monitor the values that are being stored in our table, and by identifying individual columns that should not allow duplicate values between records, we can have the server enforce this rule on the data.
 >
 > **[0:46](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/unique-constraints?u=76281980&t=46)** Let's take a look inside of the products table for the Red30Tech database.
 >
@@ -3297,7 +3267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), [[Microsoft SQL Server|Sql server]] (7), data (6), product (6), database (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), [[Microsoft SQL Server|Sql server]] (7)
 > **CLI Commands:** make (5), cat (4), find (2)
 > **Env Vars:** sql (7), bp112 (1)
 > **UI Navigation:** dropdown (2), click on (1)
@@ -3306,8 +3276,7 @@ created: 2026-05-02
 > **Code Identifiers:** ix_products (1)
 > **Speakers:** - [instructor] (1)
 
-#### Foreign keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/foreign-keys?u=76281980)
+#### [Foreign keys](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/foreign-keys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3329,7 +3298,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/foreign-keys?u=76281980&t=53)** Let's right-click on it and Select Top 1000 Rows to view some of the data.
 >
-> **[0:58](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/foreign-keys?u=76281980&t=58)** I want to focus on the first record here at the very top for the Tailspin Toys Head Office.
+> **[0:58](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/foreign-keys?u=76281980&t=58)** I want to focus on the first record here at the very top for the Tailspin Toys Head [[Microsoft Office|Office]].
 >
 > **[1:04](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/foreign-keys?u=76281980&t=64)** We have lots of columns that describe this particular customer, if I scroll over to the right, we'll find a property or a column for the DeliveryCityID.
 >
@@ -3385,13 +3354,13 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/foreign-keys?u=76281980&t=232)** Then the StateProvinceID from this table is a foreign key in this table, but it links to the primary key in the States table.
 >
-> **[4:02](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/foreign-keys?u=76281980&t=242)** So that's how foreign keys work in your relational databases, they link information from one record to records in another table.
+> **[4:02](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/foreign-keys?u=76281980&t=242)** So that's how foreign keys work in your [[Relational Databases]], they link information from one record to records in another table.
 >
 > **[4:11](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/foreign-keys?u=76281980&t=251)** We can now take this concept and apply it to the Red30 Tech database next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), data (5), application (2), [[Microsoft Office|Office]] (2), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Relational Databases]] (1)
 > **CLI Commands:** find (8)
 > **UI Navigation:** right-click (3), go to (1)
 > **Definitions:** is a  (2), means that (1), is an  (1)
@@ -3399,14 +3368,13 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a foreign key column
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-foreign-key-column?u=76281980)
+#### [Create a foreign key column](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-foreign-key-column?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-foreign-key-column?u=76281980&t=0)** - [Instructor] To apply the concept of a foreign key column to our Red30 tech database, I want to create a new table.
 >
-> **[0:07](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-foreign-key-column?u=76281980&t=7)** We have a table for customers, and we also have a table for products.
+> **[0:07](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-foreign-key-column?u=76281980&t=7)** We have a table for customers, and we also have a table for [[Microsoft Products|products]].
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-foreign-key-column?u=76281980&t=11)** So it would make sense if we had a table for orders where we could store information about the products that specific customers have ordered.
 >
@@ -3508,13 +3476,13 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-foreign-key-column?u=76281980&t=280)** So now I can easily find out who this order is for by looking up the customer ID found in the foreign key column in this table back to the primary key column in the customer's table to confirm that it links to Katherine.
 >
-> **[4:52](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-foreign-key-column?u=76281980&t=292)** And I can look up the unique product ID in the products table to see the specific item that she ordered, and that's how you link related information together in SQL Server.
+> **[4:52](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-foreign-key-column?u=76281980&t=292)** And I can look up the unique product ID in the products table to see the specific item that she ordered, and that's how you link related information together in [[Microsoft SQL Server|SQL Server]].
 >
 > **[5:04](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-foreign-key-column?u=76281980&t=304)** By creating a foreign key column in one table that uses the same data type as the primary key in another table, you can use those values to look up additional details across the database.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), product (8), [[Microsoft Products|Products]] (7), database (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** nvarchar (2), bp104 (2), sql (1)
 > **CLI Commands:** find (2), make (1), cat (1)
 > **UI Navigation:** click on (3), checkbox (1)
@@ -3522,12 +3490,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create relationships between tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-relationships-between-tables?u=76281980)
+#### [Create relationships between tables](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-relationships-between-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-relationships-between-tables?u=76281980&t=0)** - [Instructor] Now that we've created a link between the data in the Red30 Tech customers orders and products tables, the last step in creating a relationship between the primary key and foreign key columns is to tell SQL Server what we've built.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-relationships-between-tables?u=76281980&t=0)** - [Instructor] Now that we've created a link between the data in the Red30 Tech customers orders and [[Microsoft Products|products]] tables, the last step in creating a relationship between the primary key and foreign key columns is to tell [[Microsoft SQL Server|SQL Server]] what we've built.
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-relationships-between-tables?u=76281980&t=15)** We need to formalize the relationship so that it can be recognized by the database engine.
 >
@@ -3631,7 +3598,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), data (4), [[Microsoft SQL Server|Sql server]] (4), [[Microsoft Products|Products]] (3), database (3)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Microsoft Products|Products]] (3)
 > **Env Vars:** sql (4), zz100 (2)
 > **CLI Commands:** find (2), make (1)
 > **Documentation:** specification (3)
@@ -3644,22 +3611,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the role of T-SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/understand-the-role-of-t-sql?u=76281980)
+#### [Understand the role of T-SQL](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/understand-the-role-of-t-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/understand-the-role-of-t-sql?u=76281980&t=0)** - [Instructor] Structured Query Language, or SQL, is the language that we use to talk to our database server.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/understand-the-role-of-t-sql?u=76281980&t=0)** - [Instructor] Structured Query Language, or [[SQL]], is the language that we use to talk to our database server.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/understand-the-role-of-t-sql?u=76281980&t=7)** The language has been around for a very long time, having been adopted by the American National Standards Institute, or ANSI, way back in 1986.
 >
-> **[0:17](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/understand-the-role-of-t-sql?u=76281980&t=17)** Every relational database management system on the market today uses some form of the SQL language.
+> **[0:17](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/understand-the-role-of-t-sql?u=76281980&t=17)** Every relational [[Database Management]] system on the market today uses some form of the SQL language.
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/understand-the-role-of-t-sql?u=76281980&t=23)** Though some adhere to the standard syntax closer than others.
 >
-> **[0:27](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/understand-the-role-of-t-sql?u=76281980&t=27)** Because Microsoft has built some unique and differentiating features into SQL Server, they've had to slightly modify the language away from strict ANSI compliance.
+> **[0:27](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/understand-the-role-of-t-sql?u=76281980&t=27)** Because [[Microsoft]] has built some unique and differentiating features into [[Microsoft SQL Server|SQL Server]], they've had to slightly modify the language away from strict ANSI compliance.
 >
-> **[0:38](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/understand-the-role-of-t-sql?u=76281980&t=38)** Today, Microsoft's version of the language is called Transact-SQL or T-SQL.
+> **[0:38](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/understand-the-role-of-t-sql?u=76281980&t=38)** Today, Microsoft's version of the language is called [[Transact-SQL (T-SQL)|Transact-SQL]] or T-SQL.
 >
 > **[0:45](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/understand-the-role-of-t-sql?u=76281980&t=45)** Everything that we've done so far in Management Studio has been performed on the server using the T-SQL language.
 >
@@ -3691,7 +3657,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/understand-the-role-of-t-sql?u=76281980&t=131)** For instance, if I scroll through the function section and get to the date time functions, and expand that, and come down and find the function for GETDATE, we'll see how to use this specific function to return the system date and time from the database.
 >
-> **[2:27](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/understand-the-role-of-t-sql?u=76281980&t=147)** We used this function when we created the timestamped default value in the Red30 Tech Products Table.
+> **[2:27](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/understand-the-role-of-t-sql?u=76281980&t=147)** We used this function when we created the timestamped default value in the Red30 Tech [[Microsoft Products|Products]] Table.
 >
 > **[2:33](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/understand-the-role-of-t-sql?u=76281980&t=153)** So bookmark these pages.
 >
@@ -3699,7 +3665,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), database (5), management (3), [[Microsoft]] (2), [[Microsoft SQL Server|Sql server]] (2)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Microsoft]] (2), [[Microsoft SQL Server|Sql server]] (2), [[Transact-SQL (T-SQL)|Transact-sql]] (2), [[Database Management]] (1)
 > **Env Vars:** sql (9), ansi (2), getdate (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** scroll down (1), scroll up (1)
@@ -3708,8 +3674,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use the T-SQL editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-the-t-sql-editor?u=76281980)
+#### [Use the T-SQL editor](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-the-t-sql-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3731,7 +3696,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-the-t-sql-editor?u=76281980&t=51)** On line number two, we have Go.
 >
-> **[0:54](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-the-t-sql-editor?u=76281980&t=54)** The Go Command is used by SQL Server to execute all of the code above before moving on to the lines below.
+> **[0:54](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-the-t-sql-editor?u=76281980&t=54)** The Go Command is used by [[Microsoft SQL Server|SQL Server]] to execute all of the code above before moving on to the lines below.
 >
 > **[1:03](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-the-t-sql-editor?u=76281980&t=63)** On line number four, we have a block comment.
 >
@@ -3771,7 +3736,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-the-t-sql-editor?u=76281980&t=181)** I'd like to spend a few minutes talking about the interface.
 >
-> **[3:05](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-the-t-sql-editor?u=76281980&t=185)** The color coding allows you to quickly identify different components of these SQL code.
+> **[3:05](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-the-t-sql-editor?u=76281980&t=185)** The color coding allows you to quickly identify different components of these [[SQL]] code.
 >
 > **[3:10](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-the-t-sql-editor?u=76281980&t=190)** Blue text is used for sequel keywords.
 >
@@ -3787,7 +3752,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-the-t-sql-editor?u=76281980&t=221)** You'll see potential problems underlined in a red squiggly line.
 >
-> **[3:45](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-the-t-sql-editor?u=76281980&t=225)** For instance, if I misspell the word create here on line number 11.
+> **[3:45](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-the-t-sql-editor?u=76281980&t=225)** For instance, if I misspell the [[Microsoft Word|word]] create here on line number 11.
 >
 > **[3:50](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-the-t-sql-editor?u=76281980&t=230)** After a moment, everything updates to indicate that we might have some errors on a few lines.
 >
@@ -3853,19 +3818,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[SQL]] (4), management (3), database (3), next (3)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[SQL]] (4), [[Microsoft Word|Word]] (2)
 > **Env Vars:** sql (8), tsql (3), dbo (2)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** for instance (3)
 > **UI Navigation:** click on (1), scroll down (1)
 > **Speakers:** - [teacher] (1)
 
-#### Create a table with T-SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-table-with-t-sql?u=76281980)
+#### [Create a table with T-SQL](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-table-with-t-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-table-with-t-sql?u=76281980&t=0)** - [Instructor] To start writing your own SQL Commands in Management Studio, you'll start with the new query button here on the toolbar or press control N on your keyboard.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-table-with-t-sql?u=76281980&t=0)** - [Instructor] To start writing your own [[SQL]] Commands in Management Studio, you'll start with the new query button here on the toolbar or press control N on your keyboard.
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-table-with-t-sql?u=76281980&t=10)** That'll open up a new blank query editing window for you to get started in.
 >
@@ -3879,7 +3843,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-table-with-t-sql?u=76281980&t=34)** On the toolbar is a dropdown menu where you can select the target database for your script.
 >
-> **[0:39](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-table-with-t-sql?u=76281980&t=39)** When you expand this panel, it shows you all the other databases on the same server so you could target your script to any of those.
+> **[0:39](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-table-with-t-sql?u=76281980&t=39)** When you expand this panel, it shows you all the other [[Databases]] on the same server so you could target your script to any of those.
 >
 > **[0:47](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-table-with-t-sql?u=76281980&t=47)** Make sure that our script is currently targeting the Red30 Tech database.
 >
@@ -3921,7 +3885,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-table-with-t-sql?u=76281980&t=153)** Because we're inside what's called a block of code, in this case the create table block, it's customary to indent the lines within.
 >
-> **[2:42](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-table-with-t-sql?u=76281980&t=162)** Transact-SQL is also white space insensitive.
+> **[2:42](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-table-with-t-sql?u=76281980&t=162)** [[Transact-SQL (T-SQL)|Transact-SQL]] is also white space insensitive.
 >
 > **[2:46](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-table-with-t-sql?u=76281980&t=166)** So you can add all the empty spaces that you want to make your script legible.
 >
@@ -3959,7 +3923,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-table-with-t-sql?u=76281980&t=264)** Though it's not strictly required in the T-SQL implementation of the SQL language, it's a good idea to get in the habit of including this semicolon at the end of your commands.
 >
-> **[4:35](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-table-with-t-sql?u=76281980&t=275)** Microsoft says that future versions of SQL Server may require that statements are terminated with a semicolon.
+> **[4:35](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-table-with-t-sql?u=76281980&t=275)** [[Microsoft]] says that future versions of [[Microsoft SQL Server|SQL Server]] may require that statements are terminated with a semicolon.
 >
 > **[4:42](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-table-with-t-sql?u=76281980&t=282)** So that's our basic create table statement.
 >
@@ -3995,7 +3959,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), management (4), database (4), data (4), next (3)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Databases]] (2), [[Transact-SQL (T-SQL)|Transact-sql]] (2), [[Microsoft SQL Server|Sql server]] (2), [[Microsoft]] (1)
 > **Env Vars:** sql (9), varchar (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), is called (1), means that (1)
@@ -4004,8 +3968,7 @@ created: 2026-05-02
 > **File Paths:** createtablecomplete.sql (1)
 > **SQL:** varchar (1)
 
-#### Solution: Create tables with T-SQL commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/solution-create-tables-with-t-sql-commands?u=76281980)
+#### [Solution: Create tables with T-SQL commands](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/solution-create-tables-with-t-sql-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4091,7 +4054,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), next (2)
 > **Env Vars:** insert (2), create (1), table (1)
 > **CLI Commands:** make (3)
 > **SQL:** create table (1)
@@ -4099,9 +4061,9 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
+> **Non-Speech:** (upbeat music) (1)
 
-#### Add data to a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/add-data-to-a-table?u=76281980)
+#### [Add data to a table](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/add-data-to-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4113,7 +4075,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/add-data-to-a-table?u=76281980&t=19)** To do that, go up to the file menu, then choose open and click open file, or press the control O shortcut.
 >
-> **[0:26](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/add-data-to-a-table?u=76281980&t=26)** Then inside the chapter five folder, find the insert start SQL file and press open.
+> **[0:26](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/add-data-to-a-table?u=76281980&t=26)** Then inside the chapter five folder, find the insert start [[SQL]] file and press open.
 >
 > **[0:33](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/add-data-to-a-table?u=76281980&t=33)** That'll bring us right back to where we were at the end of the last movie.
 >
@@ -4131,7 +4093,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/add-data-to-a-table?u=76281980&t=76)** The three columns in the table are the category ID, category name, and category abbreviation columns.
 >
-> **[1:25](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/add-data-to-a-table?u=76281980&t=85)** However, the category ID column uses the automatic identity specification feature, so we don't need to supply a value for that column, it'll be done automatically by SQL Server.
+> **[1:25](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/add-data-to-a-table?u=76281980&t=85)** However, the category ID column uses the automatic identity specification feature, so we don't need to supply a value for that column, it'll be done automatically by [[Microsoft SQL Server|SQL Server]].
 >
 > **[1:36](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/add-data-to-a-table?u=76281980&t=96)** I just need to fill data in for the name and the abbreviation data.
 >
@@ -4203,7 +4165,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), database (6), product (4), [[Microsoft SQL Server|Sql server]] (3), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[SQL]] (2)
 > **Env Vars:** sql (5)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** dropdown (2), open the (1), in the toolbar (1)
@@ -4212,8 +4174,7 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Speakers:** - to (1)
 
-#### Solution: Add data with T-SQL commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/solution-add-data-with-t-sql-commands?u=76281980)
+#### [Solution: Add data with T-SQL commands](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/solution-add-data-with-t-sql-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4291,7 +4252,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), database (1)
 > **Env Vars:** insert (6), itemname (2), category (2), price (2), select (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Versions:** 10.99 (1), 12.49 (1), 6.99 (1)
@@ -4299,12 +4259,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (techno upbeat music) (1)
 
-#### Retrieve records with SELECT
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/retrieve-records-with-select?u=76281980)
+#### [Retrieve records with SELECT](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/retrieve-records-with-select?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/retrieve-records-with-select?u=76281980&t=0)** - [Man] The next SQL statement that I want to introduce you to is the SELECT statement.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/retrieve-records-with-select?u=76281980&t=0)** - [Man] The next [[SQL]] statement that I want to introduce you to is the SELECT statement.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/retrieve-records-with-select?u=76281980&t=5)** This one is probably the most common that you'll write, and it's for pulling data out of the database and asking questions about your data.
 >
@@ -4350,7 +4309,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/retrieve-records-with-select?u=76281980&t=127)** Let me go ahead and just switch this back, and now I can get rid of Red30Tech and just leave the schema, dbo and the table customers.
 >
-> **[2:16](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/retrieve-records-with-select?u=76281980&t=136)** If we don't specify a schema, then SQL Server will assume that we mean a table in the default schema for our user account.
+> **[2:16](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/retrieve-records-with-select?u=76281980&t=136)** If we don't specify a schema, then [[Microsoft SQL Server|SQL Server]] will assume that we mean a table in the default schema for our user account.
 >
 > **[2:25](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/retrieve-records-with-select?u=76281980&t=145)** It's a good idea to be in the habit of including the schema to make sure that SQL Server fully understands our requests.
 >
@@ -4386,11 +4345,11 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/retrieve-records-with-select?u=76281980&t=229)** So when I execute the query, I get all of the columns and all of the data that the table contains.
 >
-> **[3:56](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/retrieve-records-with-select?u=76281980&t=236)** So that's how you use a SELECT statement to return data from a single table in your SQL Server databases.
+> **[3:56](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/retrieve-records-with-select?u=76281980&t=236)** So that's how you use a SELECT statement to return data from a single table in your SQL Server [[Databases]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), database (7), [[Microsoft SQL Server|Sql server]] (4), next (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[SQL]] (1), [[Databases]] (1)
 > **Env Vars:** select (14), sql (5), top (1)
 > **SQL:** select (14)
 > **UI Navigation:** dropdown (2)
@@ -4399,12 +4358,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [man] (1)
 
-#### Solution: Query data in a database
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/solution-query-data-in-a-database?u=76281980)
+#### [Solution: Query data in a database](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/solution-query-data-in-a-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/solution-query-data-in-a-database?u=76281980&t=0)** - [Instructor] In this challenge, we're given a table of products sold by a coffee roaster, and we need to produce a query that retrieves just the information of interest to the shipping department manager.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/solution-query-data-in-a-database?u=76281980&t=0)** - [Instructor] In this challenge, we're given a table of [[Microsoft Products|products]] sold by a coffee roaster, and we need to produce a query that retrieves just the information of interest to the shipping department manager.
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/solution-query-data-in-a-database?u=76281980&t=17)** And we can start by saying SELECT, that's our keyword to grab columns from a data table.
 >
@@ -4454,24 +4412,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (2), next (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **SQL:** select (4)
 > **Env Vars:** select (4)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Filter returned results with WHERE
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/filter-returned-results-with-where?u=76281980)
+#### [Filter returned results with WHERE](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/filter-returned-results-with-where?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/filter-returned-results-with-where?u=76281980&t=0)** - When you're only interested in seeing records that meet a certain criteria, you'll add a where clause to your select queries.
 >
-> **[0:08](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/filter-returned-results-with-where?u=76281980&t=8)** I've opened up a file called Where_Start.sql and you can see that it contains the query for our customer's table that pulls out all of the columns.
+> **[0:08](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/filter-returned-results-with-where?u=76281980&t=8)** I've opened up a file called Where_Start.[[SQL]] and you can see that it contains the query for our customer's table that pulls out all of the columns.
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/filter-returned-results-with-where?u=76281980&t=17)** The first time you open this file, you may get red underlines underneath all of these little words here.
 >
-> **[0:23](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/filter-returned-results-with-where?u=76281980&t=23)** And that's simply because the SQL Server Management Studio IntelliSense feature hasn't updated itself yet to understand that these are all valid table and column names.
+> **[0:23](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/filter-returned-results-with-where?u=76281980&t=23)** And that's simply because the [[Microsoft SQL Server|SQL Server]] Management Studio IntelliSense feature hasn't updated itself yet to understand that these are all valid table and column names.
 >
 > **[0:33](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/filter-returned-results-with-where?u=76281980&t=33)** Occasionally, you'll need to go to the edit menu, then down to IntelliSense, and choose the option to refresh the local cache.
 >
@@ -4519,7 +4476,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[Microsoft SQL Server|Sql server]] (2), management (2), [[SQL]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[SQL]] (1)
 > **Env Vars:** sql (2)
 > **File Paths:** where_start.sql (1)
 > **CLI Commands:** make (1)
@@ -4528,8 +4485,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - when (1)
 
-#### Sort records
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/sort-records?u=76281980)
+#### [Sort records](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/sort-records?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4595,18 +4551,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2)
 > **Analogies:** for instance (3)
 > **Env Vars:** desc (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
-#### Solution: Filter and sort data with a query
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/solution-filter-and-sort-data-with-a-query?u=76281980)
+#### [Solution: Filter and sort data with a query](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/solution-filter-and-sort-data-with-a-query?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/solution-filter-and-sort-data-with-a-query?u=76281980&t=0)** - [Instructor] For this challenge, we needed to find some products that meet a customer's specific requirements at a local toy store.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/solution-filter-and-sort-data-with-a-query?u=76281980&t=0)** - [Instructor] For this challenge, we needed to find some [[Microsoft Products|products]] that meet a customer's specific requirements at a local toy store.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/solution-filter-and-sort-data-with-a-query?u=76281980&t=12)** And I can start by seeing what the full data set is from the table just by selecting all of the columns, so select asterisk from the table called product catalog.
 >
@@ -4710,7 +4664,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), product (4), data (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5)
 > **CLI Commands:** find (2), make (1)
 > **Versions:** 29.99 (1), 13.99 (1), 10.99 (1)
 > **Non-Speech:** (instructor typing) (2), (upbeat music) (1)
@@ -4718,8 +4672,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delete records from a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/delete-records-from-a-table?u=76281980)
+#### [Delete records from a table](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/delete-records-from-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4741,7 +4694,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/delete-records-from-a-table?u=76281980&t=38)** To do this, I could start with a command, DELETE FROM Customers.
 >
-> **[0:46](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/delete-records-from-a-table?u=76281980&t=46)** Now, if I run this line number four, right now SQL Server will actually remove all of the data from the table, because I haven't limited the scope of the delete.
+> **[0:46](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/delete-records-from-a-table?u=76281980&t=46)** Now, if I run this line number four, right now [[Microsoft SQL Server|SQL Server]] will actually remove all of the data from the table, because I haven't limited the scope of the delete.
 >
 > **[0:55](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/delete-records-from-a-table?u=76281980&t=55)** You do that with a criteria.
 >
@@ -4811,7 +4764,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), data (3), [[Microsoft SQL Server|Sql server]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** sql (2), delete (1), where (1)
 > **CLI Commands:** make (2)
 > **SQL:** delete from (1), where (1)
@@ -4820,14 +4773,13 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Analogies:** just like (1)
 
-#### Update records in a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/update-records-in-a-table?u=76281980)
+#### [Update records in a table](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/update-records-in-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/update-records-in-a-table?u=76281980&t=0)** - [Instructor] Records in your data tables will occasionally need to be modified.
 >
-> **[0:04](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/update-records-in-a-table?u=76281980&t=4)** To do this with a SQL query you'll use an update statement.
+> **[0:04](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/update-records-in-a-table?u=76281980&t=4)** To do this with a [[SQL]] query you'll use an update statement.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/update-records-in-a-table?u=76281980&t=9)** Let's suppose one of our customers called the company and they want to change their order quantity.
 >
@@ -4849,7 +4801,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/update-records-in-a-table?u=76281980&t=58)** Now, just like with the delete statement we need to be really careful at this point.
 >
-> **[1:02](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/update-records-in-a-table?u=76281980&t=62)** If our table had lots of orders saved and I executed these two lines, SQL server will very quickly change every order quantity to five.
+> **[1:02](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/update-records-in-a-table?u=76281980&t=62)** If our table had lots of orders saved and I executed these two lines, [[Microsoft SQL Server|SQL server]] will very quickly change every order quantity to five.
 >
 > **[1:12](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/update-records-in-a-table?u=76281980&t=72)** That's very clearly not what we want to do.
 >
@@ -4869,14 +4821,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), data (1), database (1), product (1), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (3)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Remove and update records in a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/solution-remove-and-update-records-in-a-table?u=76281980)
+#### [Solution: Remove and update records in a table](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/solution-remove-and-update-records-in-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4960,7 +4911,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/solution-remove-and-update-records-in-a-table?u=76281980&t=219)** There's one of them.
 >
-> **[3:40](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/solution-remove-and-update-records-in-a-table?u=76281980&t=220)** Now he does have a couple of them, so there's one, but this is for the Digital Transformation Expo, which is not the record that we're interested in.
+> **[3:40](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/solution-remove-and-update-records-in-a-table?u=76281980&t=220)** Now he does have a couple of them, so there's one, but this is for the [[Digital Transformation]] Expo, which is not the record that we're interested in.
 >
 > **[3:48](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/solution-remove-and-update-records-in-a-table?u=76281980&t=228)** We do want to go down here and find this one for the Tech Innovators Conference.
 >
@@ -5016,7 +4967,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (4), database (2), next (2), express (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1)
 > **Env Vars:** where (8), set (7), update (6), delete (3), select (1)
 > **SQL:** where (8), update (6), select (1), delete from (1)
 > **CLI Commands:** make (5), find (3)
@@ -5025,22 +4976,21 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Joining related tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/joining-related-tables?u=76281980)
+#### [Joining related tables](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/joining-related-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/joining-related-tables?u=76281980&t=0)** - [Josh Olenslager] No discussion of SQL SELECT Statements would be complete without talking about how to view information from across multiple tables.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/joining-related-tables?u=76281980&t=0)** - [Josh Olenslager] No discussion of [[SQL]] SELECT Statements would be complete without talking about how to view information from across multiple tables.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/joining-related-tables?u=76281980&t=8)** This involves adding a JOIN to our FROM clauses in the SQL SELECT query.
 >
 > **[0:14](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/joining-related-tables?u=76281980&t=14)** To review, I'm going to startup a brand new query here.
 >
-> **[0:16](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/joining-related-tables?u=76281980&t=16)** I'll just type out three SELECT queries to pull all the information from the customers, orders, and products tables.
+> **[0:16](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/joining-related-tables?u=76281980&t=16)** I'll just type out three SELECT queries to pull all the information from the customers, orders, and [[Microsoft Products|products]] tables.
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/joining-related-tables?u=76281980&t=25)** I'll type out all three SELECT statements and then without highlighting any of them I'll just execute all three at once.
 >
-> **[0:33](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/joining-related-tables?u=76281980&t=33)** This will show me three different results windows down below.
+> **[0:33](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/joining-related-tables?u=76281980&t=33)** This will show me three different results [[Windows]] down below.
 >
 > **[0:36](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/joining-related-tables?u=76281980&t=36)** So here we have all of the customers, then if I scroll down, I'll see all of our orders in which case we only have the one there, as well as all of the products listed down below.
 >
@@ -5132,7 +5082,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), data (6), next (3), [[SQL]] (2), product (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[SQL]] (2), [[Windows]] (1)
 > **Env Vars:** join (9), select (6), inner (5), sql (2), bp104 (1)
 > **SQL:** select (6), join (5), inner join (4)
 > **UI Navigation:** scroll down (2)
@@ -5140,8 +5090,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [josh (1)
 
-#### Solution: Query information from related tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/solution-query-information-from-related-tables?u=76281980)
+#### [Solution: Query information from related tables](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/solution-query-information-from-related-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5195,7 +5144,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/solution-query-information-from-related-tables?u=76281980&t=148)** So that adds in the column for the loan date.
 >
-> **[2:30](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/solution-query-information-from-related-tables?u=76281980&t=150)** So I could see we have, John Doe has checked out two books.
+> **[2:30](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/solution-query-information-from-related-tables?u=76281980&t=150)** So I could see we have, [[John the Ripper|John]] Doe has checked out two books.
 >
 > **[2:35](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/solution-query-information-from-related-tables?u=76281980&t=155)** We have the loan dates for those, and we have these other customers that have pulled out books as well.
 >
@@ -5249,12 +5198,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Remove a table from the database
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/remove-a-table-from-the-database?u=76281980)
+#### [Remove a table from the database](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/remove-a-table-from-the-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5336,13 +5285,13 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/remove-a-table-from-the-database?u=76281980&t=244)** With those changes in place, I'll execute the entire script without highlighting any portion of it.
 >
-> **[4:10](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/remove-a-table-from-the-database?u=76281980&t=250)** SQL Server will execute all of these commands one after another, and we get the results below when it completes.
+> **[4:10](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/remove-a-table-from-the-database?u=76281980&t=250)** [[Microsoft SQL Server|SQL Server]] will execute all of these commands one after another, and we get the results below when it completes.
 >
 > **[4:17](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/remove-a-table-from-the-database?u=76281980&t=257)** If I refresh the contents of the table's folder over here in the Object Explorer, you'll see that we have our ProductCategories Table has been built again.
 >
-> **[4:26](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/remove-a-table-from-the-database?u=76281980&t=266)** I'll go ahead and save this script in the exercise files as "Delete Table Complete.sql".
+> **[4:26](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/remove-a-table-from-the-database?u=76281980&t=266)** I'll go ahead and save this script in the exercise files as "Delete Table Complete.[[SQL]]".
 >
-> **[4:32](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/remove-a-table-from-the-database?u=76281980&t=272)** Now, hopefully this illustrates the power of writing T SQL Scripts, instead of relying on the user interface here in Management Studio to perform tasks in your SQL Server databases.
+> **[4:32](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/remove-a-table-from-the-database?u=76281980&t=272)** Now, hopefully this illustrates the power of writing T SQL Scripts, instead of relying on the user interface here in Management Studio to perform tasks in your SQL Server [[Databases]].
 >
 > **[4:43](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/remove-a-table-from-the-database?u=76281980&t=283)** By having a script file saved, I can instantly run through any process on the server and consistently recreate the exact same steps anytime that I need to.
 >
@@ -5350,7 +5299,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), data (4), [[SQL]] (3), [[Microsoft SQL Server|Sql server]] (2), power (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** sql (4), gui (1)
 > **File Paths:** complete.sql (1)
@@ -5362,12 +5311,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a view of the data
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-view-of-the-data?u=76281980)
+#### [Create a view of the data](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-view-of-the-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-view-of-the-data?u=76281980&t=0)** - [Instructor] Any time you pull information out of a SQL Server table, you're using a SELECT statement that queries a list of tables and columns, and processes the data according to your requirements.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-view-of-the-data?u=76281980&t=0)** - [Instructor] Any time you pull information out of a [[Microsoft SQL Server|SQL Server]] table, you're using a SELECT statement that queries a list of tables and columns, and processes the data according to your requirements.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-view-of-the-data?u=76281980&t=12)** SELECT statements can get pretty complex, especially when multiple table joins and filtering criteria are in play.
 >
@@ -5391,7 +5339,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-view-of-the-data?u=76281980&t=68)** This designer is split into four different areas.
 >
-> **[1:11](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-view-of-the-data?u=76281980&t=71)** We have the diagram pane here at the top, the criteria pane here, the SQL pane, and finally, a results pane at the very bottom.
+> **[1:11](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-view-of-the-data?u=76281980&t=71)** We have the diagram pane here at the top, the criteria pane here, the [[SQL]] pane, and finally, a results pane at the very bottom.
 >
 > **[1:21](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-view-of-the-data?u=76281980&t=81)** Up on the toolbar, we have four different buttons that'll toggle each one of these sections on or off.
 >
@@ -5411,7 +5359,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-view-of-the-data?u=76281980&t=121)** That's linked to the Orders table with all of its fields.
 >
-> **[2:04](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-view-of-the-data?u=76281980&t=124)** Then we have the Products table that's linked to the orders.
+> **[2:04](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-view-of-the-data?u=76281980&t=124)** Then we have the [[Microsoft Products|Products]] table that's linked to the orders.
 >
 > **[2:07](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-view-of-the-data?u=76281980&t=127)** We can go ahead and make this a little bigger.
 >
@@ -5545,7 +5493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Products|Products]] (6), [[SQL]] (5), database (3), product (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[SQL]] (5), [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** select (12), sql (7), order (2)
 > **SQL:** select (12), order by (2)
 > **Definitions:** is a  (2), is an  (1), means that (1)
@@ -5554,12 +5502,11 @@ created: 2026-05-02
 > **Analogies:** just like (1), for instance (1)
 > **Best Practices:** remember to (1)
 
-#### Data table indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/data-table-indexes?u=76281980)
+#### [Data table indexes](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/data-table-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/data-table-indexes?u=76281980&t=0)** - SQL Server depends on indexes in order to locate specific records at a table as quickly as possible.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/data-table-indexes?u=76281980&t=0)** - [[Microsoft SQL Server|SQL Server]] depends on indexes in order to locate specific records at a table as quickly as possible.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/data-table-indexes?u=76281980&t=7)** Without an index, SQL server needs to perform something called a table scan when trying to locate specific records.
 >
@@ -5593,7 +5540,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/data-table-indexes?u=76281980&t=128)** In only two steps we eliminated 75% of the leaves as not holding the records that we were looking for.
 >
-> **[2:16](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/data-table-indexes?u=76281980&t=136)** Indexes are created with a Create Index Transact SQL Statement, or are automatically generated when a primary key is defined on the table.
+> **[2:16](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/data-table-indexes?u=76281980&t=136)** Indexes are created with a Create Index Transact [[SQL]] Statement, or are automatically generated when a primary key is defined on the table.
 >
 > **[2:25](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/data-table-indexes?u=76281980&t=145)** In fact, establishing a primary key for your table creates a clustered index, and it defines how the table is physically ordered on disc.
 >
@@ -5621,15 +5568,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), data (4), node (2), database (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), [[SQL]] (1)
 > **Env Vars:** sql (7)
 > **CLI Commands:** find (3), node (2)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - sql (1)
 
-#### Create additional indexes on a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-additional-indexes-on-a-table?u=76281980)
+#### [Create additional indexes on a table](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-additional-indexes-on-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5641,7 +5587,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-additional-indexes-on-a-table?u=76281980&t=21)** This will give you everything that you need to add new non-clustered indexes to your tables that will speed up the queries on those indexed columns.
 >
-> **[0:29](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-additional-indexes-on-a-table?u=76281980&t=29)** So instead of demonstrating this workflow again, let's go ahead and add an index to our database using T-SQL commands instead.
+> **[0:29](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-additional-indexes-on-a-table?u=76281980&t=29)** So instead of demonstrating this workflow again, let's go ahead and add an index to our database using T-[[SQL]] commands instead.
 >
 > **[0:37](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-additional-indexes-on-a-table?u=76281980&t=37)** I'm going to close this window, and then close the design window.
 >
@@ -5693,25 +5639,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (1), [[SQL]] (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** sql (1), create (1), nonclustered (1), index (1), asc (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** find (1)
 > **SQL:** index (1)
 > **Speakers:** - [instructor] (1)
 
-#### Aggregate functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/aggregate-functions?u=76281980)
+#### [Aggregate functions](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/aggregate-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/aggregate-functions?u=76281980&t=0)** - [Instructor] Functions are little programmatic routines that usually take in some input data, then it processes that data and then it outputs a value.
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/aggregate-functions?u=76281980&t=9)** We can use them in our SQL SELECT queries to process data and return useful information.
+> **[0:09](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/aggregate-functions?u=76281980&t=9)** We can use them in our [[SQL]] SELECT queries to process data and return useful information.
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/aggregate-functions?u=76281980&t=15)** Previously, we saw the GetDate function, which didn't actually require any inputs but when you call it, it simply returns the current system date and time.
 >
-> **[0:25](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/aggregate-functions?u=76281980&t=25)** More useful functions can be applied to the data that's stored in your tables and a group of functions, called aggregate functions, can provide you with some very useful statistics about the data that your tables contain.
+> **[0:25](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/aggregate-functions?u=76281980&t=25)** More useful functions can be applied to the data that's stored in your tables and a group of functions, called aggregate functions, can provide you with some very useful [[Statistics]] about the data that your tables contain.
 >
 > **[0:39](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/aggregate-functions?u=76281980&t=39)** I have a number of these queries written out that I'd like to run through on the WideWorldImporters database.
 >
@@ -5857,11 +5802,11 @@ created: 2026-05-02
 >
 > **[6:55](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/aggregate-functions?u=76281980&t=415)** So that's a number of ways that we can apply the MAX, MIN, average and COUNT functions to retrieve some useful summary data from the database.
 >
-> **[7:04](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/aggregate-functions?u=76281980&t=424)** I encourage you to play around with these functions on your own data until you feel comfortable using them as they're very handy to have in your SQL Server toolbox.
+> **[7:04](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/aggregate-functions?u=76281980&t=424)** I encourage you to play around with these functions on your own data until you feel comfortable using them as they're very handy to have in your [[Microsoft SQL Server|SQL Server]] toolbox.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), database (5), [[SQL]] (2), [[Statistics]] (1), application (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Statistics]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** max (5), where (4), sql (2), select (2), group (1)
 > **CLI Commands:** find (6), make (2)
 > **SQL:** where (4), select (2), group by (1)
@@ -5870,12 +5815,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Use built-in functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-built-in-functions?u=76281980)
+#### [Use built-in functions](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-built-in-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-built-in-functions?u=76281980&t=0)** - [Instructor] All of the functions that SQL Server ships with can be found inside of your database.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-built-in-functions?u=76281980&t=0)** - [Instructor] All of the functions that [[Microsoft SQL Server|SQL Server]] ships with can be found inside of your database.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-built-in-functions?u=76281980&t=5)** For instance, let's take a look in the Red30Tech database and first all collapse the tables folder.
 >
@@ -5885,7 +5829,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-built-in-functions?u=76281980&t=20)** This reveals a number of different categories.
 >
-> **[0:23](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-built-in-functions?u=76281980&t=23)** If you've ever used Excel, these are comparable to the formula books that organize all of the functions in that program.
+> **[0:23](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-built-in-functions?u=76281980&t=23)** If you've ever used [[Microsoft Excel|Excel]], these are comparable to the formula books that organize all of the functions in that program.
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-built-in-functions?u=76281980&t=30)** Expanding each of these folders, for instance, the aggregate functions will show you all the different functions that are available within SQL Server.
 >
@@ -5901,7 +5845,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-built-in-functions?u=76281980&t=76)** If you're doing scientific or statistical work, then the standard deviation and variance functions, that you'll find down here at the bottom, might be something that you'll apply to your data.
 >
-> **[1:26](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-built-in-functions?u=76281980&t=86)** Or if you're dealing with financial data, perhaps summing revenue values will give you some interesting insights into your business.
+> **[1:26](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-built-in-functions?u=76281980&t=86)** Or if you're dealing with [[Financial Data]], perhaps summing revenue values will give you some interesting insights into your business.
 >
 > **[1:35](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-built-in-functions?u=76281980&t=95)** As you dig through these folders, you'll see that there's dozens and dozens of functions to choose from.
 >
@@ -5983,13 +5927,13 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-built-in-functions?u=76281980&t=289)** Now, rather than go through how to use every function that SQL Server offers, I'll point you to the reference documentation at this URL.
 >
-> **[4:57](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-built-in-functions?u=76281980&t=297)** Here, you can read up on what each function does, what their parameters are, and how to make the most of them in your databases.
+> **[4:57](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-built-in-functions?u=76281980&t=297)** Here, you can read up on what each function does, what their parameters are, and how to make the most of them in your [[Databases]].
 >
-> **[5:04](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-built-in-functions?u=76281980&t=304)** Or you can search LinkedIn Learning for my course, Querying SQL Server 2022, where I go much more in depth into the wide variety of functions that SQL Server supports.
+> **[5:04](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/use-built-in-functions?u=76281980&t=304)** Or you can search [[LinkedIn]] Learning for my course, Querying SQL Server 2022, where I go much more in depth into the wide variety of functions that SQL Server supports.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Microsoft SQL Server|Sql server]] (5), database (4), [[Microsoft Excel|Excel]] (1), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), [[Microsoft Excel|Excel]] (1), [[Financial Data]] (1), [[Databases]] (1), [[LinkedIn]] (1)
 > **Env Vars:** sql (5), url (1)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** scroll down (1), select the (1), in the sidebar (1), scroll up (1)
@@ -5998,8 +5942,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leverage user-defined scalar functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/leverage-user-defined-scalar-functions?u=76281980)
+#### [Leverage user-defined scalar functions](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/leverage-user-defined-scalar-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6007,7 +5950,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/leverage-user-defined-scalar-functions?u=76281980&t=14)** Scaler functions is just a fancy way of saying a function that returns a single value.
 >
-> **[0:19](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/leverage-user-defined-scalar-functions?u=76281980&t=19)** Most of SQL servers built in functions are scaler.
+> **[0:19](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/leverage-user-defined-scalar-functions?u=76281980&t=19)** Most of [[SQL]] servers built in functions are scaler.
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/leverage-user-defined-scalar-functions?u=76281980&t=23)** The count function, for example, doesn't matter how many records you feed into it, it will always return just a single number.
 >
@@ -6057,7 +6000,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/leverage-user-defined-scalar-functions?u=76281980&t=154)** Let's go ahead and move down to line number six where we can start our create function statement.
 >
-> **[2:41](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/leverage-user-defined-scalar-functions?u=76281980&t=161)** All user defined functions get created in schema, just like tables and many other objects in SQL server.
+> **[2:41](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/leverage-user-defined-scalar-functions?u=76281980&t=161)** All user defined functions get created in schema, just like tables and many other objects in [[Microsoft SQL Server|SQL server]].
 >
 > **[2:48](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/leverage-user-defined-scalar-functions?u=76281980&t=168)** So I'll put this function in the Warehouse schema.
 >
@@ -6155,7 +6098,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), next (4), database (3), [[Microsoft SQL Server|Sql server]] (3), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[SQL]] (1)
 > **Env Vars:** sql (4), begin (1)
 > **Versions:** 10.2 (3), 1.8 (2)
 > **CLI Commands:** find (2), make (2)
@@ -6164,12 +6107,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to stored procedures
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/introduction-to-stored-procedures?u=76281980)
+#### [Introduction to stored procedures](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/introduction-to-stored-procedures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/introduction-to-stored-procedures?u=76281980&t=0)** - [Instructor] Stored procedures are SQL Server's way of bundling blocks of code into reusable units that can be called on by an application or another user of the database.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/introduction-to-stored-procedures?u=76281980&t=0)** - [Instructor] Stored procedures are [[Microsoft SQL Server|SQL Server]]'s way of bundling blocks of code into reusable units that can be called on by an application or another user of the database.
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/introduction-to-stored-procedures?u=76281980&t=10)** These can be anything from a simple select statement or a more complex collection of database requests, programmatic functions, and loops.
 >
@@ -6227,11 +6169,11 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/introduction-to-stored-procedures?u=76281980&t=215)** Otherwise, SQL Server will assume that the table references are on the same schema as the stored procedure if you don't otherwise specify.
 >
-> **[3:43](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/introduction-to-stored-procedures?u=76281980&t=223)** So with a little planning and some application of the TSQL commands that you already know, you can create a library of useful stored procedures that'll help speed up and simplify the process of maintaining your own databases.
+> **[3:43](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/introduction-to-stored-procedures?u=76281980&t=223)** So with a little planning and some application of the TSQL commands that you already know, you can create a library of useful stored procedures that'll help speed up and simplify the process of maintaining your own [[Databases]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), application (5), [[Security]] (3), [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (1)
 > **Env Vars:** sql (2), tsql (2), exec (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1), such as (1)
@@ -6239,8 +6181,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create stored procedures
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-stored-procedures?u=76281980)
+#### [Create stored procedures](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-stored-procedures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6254,7 +6195,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-stored-procedures?u=76281980&t=21)** Here you can see that this database already has quite a few store procedures created inside of it.
 >
-> **[0:27](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-stored-procedures?u=76281980&t=27)** Another way that we can get to the same information using Transact SQL is to run the query that I have starting on line umber six.
+> **[0:27](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-stored-procedures?u=76281980&t=27)** Another way that we can get to the same information using Transact [[SQL]] is to run the query that I have starting on line umber six.
 >
 > **[0:35](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-stored-procedures?u=76281980&t=35)** This will pull out the schema name and procedure name columns from a system table called sys.procedures.
 >
@@ -6282,11 +6223,11 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-stored-procedures?u=76281980&t=106)** It then uses those to find people across the database regardless of whether they're in the salesperson, employee, customer, or supplier tables.
 >
-> **[1:56](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-stored-procedures?u=76281980&t=116)** At the very end, it then converts the output results into a JSON data type, and we can see that on line number 37.
+> **[1:56](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-stored-procedures?u=76281980&t=116)** At the very end, it then converts the output results into a [[JSON]] data type, and we can see that on line number 37.
 >
 > **[2:03](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-stored-procedures?u=76281980&t=123)** To try it out, let's open up a new query window.
 >
-> **[2:07](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-stored-procedures?u=76281980&t=127)** Then we could type E X E C or you could type out the whole word execute, the name of the store procedure website dot search for people.
+> **[2:07](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-stored-procedures?u=76281980&t=127)** Then we could type E X E C or you could type out the whole [[Microsoft Word|word]] execute, the name of the store procedure website dot search for people.
 >
 > **[2:20](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-stored-procedures?u=76281980&t=140)** Then we'll supply a name that we want to search for inside of single quotation marks.
 >
@@ -6334,7 +6275,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-stored-procedures?u=76281980&t=244)** The results sort the values by the on hand number so you can see the items with the lowest inventory on hand appear first in the list.
 >
-> **[4:12](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-stored-procedures?u=76281980&t=252)** Now, let's alter the store procedure to add a where clause that filters the records to only show the items where the quantity of products on hand is less than our reorder threshold.
+> **[4:12](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-stored-procedures?u=76281980&t=252)** Now, let's alter the store procedure to add a where clause that filters the records to only show the items where the quantity of [[Microsoft Products|products]] on hand is less than our reorder threshold.
 >
 > **[4:24](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-stored-procedures?u=76281980&t=264)** To do that, we'll use an alter procedure statement.
 >
@@ -6366,7 +6307,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), [[Search]] (5), [[SQL]] (2), [[JSON]] (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[SQL]] (2), [[JSON]] (2), [[Microsoft Products|Products]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (2), json (2), usp (2)
 > **UI Navigation:** click on (3), scroll down (3)
 > **CLI Commands:** find (3), make (1)
@@ -6375,8 +6316,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
-#### Parameterized stored procedures
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/parameterized-stored-procedures?u=76281980)
+#### [Parameterized stored procedures](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/parameterized-stored-procedures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6422,7 +6362,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/parameterized-stored-procedures?u=76281980&t=145)** We can get a different result set by simply modifying this parameter here at the end.
 >
-> **[2:30](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/parameterized-stored-procedures?u=76281980&t=150)** If I run line number 24, we'll run the exact same store procedure, but this time look for blue products.
+> **[2:30](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/parameterized-stored-procedures?u=76281980&t=150)** If I run line number 24, we'll run the exact same store procedure, but this time look for blue [[Microsoft Products|products]].
 >
 > **[2:37](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/parameterized-stored-procedures?u=76281980&t=157)** This returns the 23 items that we have that are the color blue.
 >
@@ -6472,7 +6412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), database (2), [[Search]] (2), data (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **UI Navigation:** scroll down (3)
 > **Code Identifiers:** uspselectproductsbycolor (1), peramcolor (1)
 > **CLI Commands:** make (1)
@@ -6483,18 +6423,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a full backup of the database
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-full-backup-of-the-database?u=76281980)
+#### [Create a full backup of the database](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-full-backup-of-the-database?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-full-backup-of-the-database?u=76281980&t=0)** - It should be no surprise that backing up your database is an exceptionally good idea.
 >
-> **[0:05](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-full-backup-of-the-database?u=76281980&t=5)** You never know when disaster is about to strike and I'm not just talking about earthquakes and fires or a hardware failure.
+> **[0:05](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-full-backup-of-the-database?u=76281980&t=5)** You never know when disaster is about to strike and I'm not just talking about earthquakes and fires or a [[Hardware]] failure.
 >
 > **[0:13](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-full-backup-of-the-database?u=76281980&t=13)** Eventually there will come a day when you do something silly like casually forgetting a where clause in a delete statement and you wipe out an entire data table.
 >
-> **[0:22](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-full-backup-of-the-database?u=76281980&t=22)** There is no undo option when it comes to SQL Server, so you need to be ready for when that day comes.
+> **[0:22](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-full-backup-of-the-database?u=76281980&t=22)** There is no undo option when it comes to [[Microsoft SQL Server|SQL Server]], so you need to be ready for when that day comes.
 >
 > **[0:29](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-full-backup-of-the-database?u=76281980&t=29)** To make a backup, just right click on your database in the Object Explorer panel then point to tasks and choose backup.
 >
@@ -6532,7 +6471,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-full-backup-of-the-database?u=76281980&t=114)** Options here are to either use a disc drive or we can choose a URL.
 >
-> **[2:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-full-backup-of-the-database?u=76281980&t=120)** If you choose URL and then press the add button you'll be prompted for an Azure storage container which is a component of Microsoft's cloud platform that integrates with SQL Server.
+> **[2:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-full-backup-of-the-database?u=76281980&t=120)** If you choose URL and then press the add button you'll be prompted for an [[Microsoft Azure|Azure]] storage container which is a component of [[Microsoft]]'s cloud platform that integrates with SQL Server.
 >
 > **[2:12](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-full-backup-of-the-database?u=76281980&t=132)** You can even create a new container in the cloud here by signing into your Azure account.
 >
@@ -6546,7 +6485,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-full-backup-of-the-database?u=76281980&t=156)** If you were to add multiple locations here your backups would be split with a portion of the data going into one location and a portion going into the other.
 >
-> **[2:46](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-full-backup-of-the-database?u=76281980&t=166)** For large databases, this can speed up the process of saving a backup, but in order to restore you'll need both files as neither will contain everything.
+> **[2:46](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-full-backup-of-the-database?u=76281980&t=166)** For large [[Databases]], this can speed up the process of saving a backup, but in order to restore you'll need both files as neither will contain everything.
 >
 > **[2:56](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-full-backup-of-the-database?u=76281980&t=176)** For most users, you'll want to stick with a single backup location here and rely on other methods for creating redundant copies of your backup if you need them.
 >
@@ -6588,11 +6527,11 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-full-backup-of-the-database?u=76281980&t=294)** Then I'll press cancel to dismiss the backup dialogue window and we can see our script right here.
 >
-> **[5:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-full-backup-of-the-database?u=76281980&t=300)** This will allow you to review the exact transact SQL code that creates your backup files and either make edits here or incorporate this code into a larger maintenance script that you may want to run regularly to ensure that you always have a recent backup of your database.
+> **[5:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-full-backup-of-the-database?u=76281980&t=300)** This will allow you to review the exact transact [[SQL]] code that creates your backup files and either make edits here or incorporate this code into a larger maintenance script that you may want to run regularly to ensure that you always have a recent backup of your database.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (16), [[Microsoft SQL Server|Sql server]] (4), data (3), next (3), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Microsoft Azure|Azure]] (2), [[Hardware]] (1), [[Microsoft]] (1), [[Databases]] (1)
 > **Env Vars:** sql (5), url (2)
 > **UI Navigation:** click on (2), select the (1), dropdown (1), checkbox (1)
 > **Definitions:** means that (2), is an  (1), is a  (1)
@@ -6600,8 +6539,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - it (1)
 
-#### Create a differential backup
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-differential-backup?u=76281980)
+#### [Create a differential backup](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-differential-backup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6627,7 +6565,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-differential-backup?u=76281980&t=80)** In the Destination, we're going to save to the same location as our full backup, and you can review that file path right there.
 >
-> **[1:29](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-differential-backup?u=76281980&t=89)** New SQL Server users might have a bit of hesitation here though, and think that we're about to overwrite the full backup that we've made since the typical experience of other programs is to overwrite existing files.
+> **[1:29](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-differential-backup?u=76281980&t=89)** New [[Microsoft SQL Server|SQL Server]] users might have a bit of hesitation here though, and think that we're about to overwrite the full backup that we've made since the typical experience of other programs is to overwrite existing files.
 >
 > **[1:43](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-differential-backup?u=76281980&t=103)** This gets us back to the idea of a backup media.
 >
@@ -6649,7 +6587,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-differential-backup?u=76281980&t=149)** Then I'll press the Okay button, and the changes that were made to the customer's table have now been added into our backup set as a differential.
 >
-> **[2:38](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-differential-backup?u=76281980&t=158)** And that's all there is to creating a differential backup for your database, since they don't include the full set of every record in the database, they're much faster to complete, even in large or active databases.
+> **[2:38](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-differential-backup?u=76281980&t=158)** And that's all there is to creating a differential backup for your database, since they don't include the full set of every record in the database, they're much faster to complete, even in large or active [[Databases]].
 >
 > **[2:51](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-differential-backup?u=76281980&t=171)** The trade-off that you make with differentials is that it adds a bit of complexity to the restoration process.
 >
@@ -6657,21 +6595,20 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-differential-backup?u=76281980&t=185)** That way it minimizes the size of the differentials that would need to be applied to get a database backup and running after a failure, when you make another full backup, it essentially resets the process.
 >
-> **[3:19](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-differential-backup?u=76281980&t=199)** What you don't want to do is make one full backup in January and then hundreds of differentials throughout the rest of the year.
+> **[3:19](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-differential-backup?u=76281980&t=199)** What you don't want to do is make one full backup in January and then hundreds of differentials throughout the [[Representational State Transfer (REST)|rest]] of the year.
 >
 > **[3:27](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-differential-backup?u=76281980&t=207)** That could dramatically slow down the backup process as your differential backups get larger and larger over time, the trick is to find a good balance between the frequency of your full backups and the differential backups that you make.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (12), data (1), [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** sql (1), bak (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Restore a backup
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/restore-a-backup?u=76281980)
+#### [Restore a backup](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/restore-a-backup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6691,7 +6628,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/restore-a-backup?u=76281980&t=34)** I'm going to choose to restore the database.
 >
-> **[0:38](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/restore-a-backup?u=76281980&t=38)** SQL Server will go through its internal records to determine which backup sets are available, and you can make sure that the Red 30 Tech database is selected in the dropdown menu here at the top.
+> **[0:38](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/restore-a-backup?u=76281980&t=38)** [[Microsoft SQL Server|SQL Server]] will go through its internal records to determine which backup sets are available, and you can make sure that the Red 30 Tech database is selected in the dropdown menu here at the top.
 >
 > **[0:49](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/restore-a-backup?u=76281980&t=49)** At the bottom we have a list of our backup sets.
 >
@@ -6727,7 +6664,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/restore-a-backup?u=76281980&t=152)** There's a legend down here that describes the different arrows that you'll see.
 >
-> **[2:37](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/restore-a-backup?u=76281980&t=157)** You can zoom in to a different timeline interval.
+> **[2:37](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/restore-a-backup?u=76281980&t=157)** You can [[Zoom]] in to a different timeline interval.
 >
 > **[2:39](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/restore-a-backup?u=76281980&t=159)** I'm going to change this from day to hour.
 >
@@ -6751,7 +6688,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (14), data (3), [[Microsoft SQL Server|Sql server]] (3), product (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[Zoom]] (1)
 > **UI Navigation:** click on (2), dropdown (2)
 > **Env Vars:** sql (3)
 > **CLI Commands:** make (2)
@@ -6759,18 +6696,17 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - let (1)
 
-#### Business continuity solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/business-continuity-solutions?u=76281980)
+#### [Business continuity solutions](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/business-continuity-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/business-continuity-solutions?u=76281980&t=0)** - [Instructor] Having a backup and restore plan in place ready to go when disaster strikes, is an essential practice for anyone that works with a database management system.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/business-continuity-solutions?u=76281980&t=0)** - [Instructor] Having a backup and restore plan in place ready to go when disaster strikes, is an essential practice for anyone that works with a [[Database Management]] system.
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/business-continuity-solutions?u=76281980&t=10)** But if you can reduce the risk of even having a catastrophic failure in the first place, then it'll go a long way towards securing your information too.
 >
-> **[0:19](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/business-continuity-solutions?u=76281980&t=19)** SQL Server offers a couple of advanced data protection features that fall under the concept of business continuity.
+> **[0:19](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/business-continuity-solutions?u=76281980&t=19)** [[Microsoft SQL Server|SQL Server]] offers a couple of advanced data protection features that fall under the concept of business continuity.
 >
-> **[0:27](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/business-continuity-solutions?u=76281980&t=27)** The goal here is to make sure that the server and the databases it contains, are highly available whenever they're required and the streamlined disaster recovery efforts.
+> **[0:27](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/business-continuity-solutions?u=76281980&t=27)** The goal here is to make sure that the server and the [[Databases]] it contains, are highly available whenever they're required and the streamlined disaster recovery efforts.
 >
 > **[0:39](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/business-continuity-solutions?u=76281980&t=39)** The more powerful business continuity option is called Availability Groups.
 >
@@ -6786,13 +6722,13 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/business-continuity-solutions?u=76281980&t=86)** This process of failing over from one machine to the next is managed by a feature of the operating system that SQL Server is installed on.
 >
-> **[1:34](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/business-continuity-solutions?u=76281980&t=94)** Either Windows server failover clusters, or Linux Pacemaker clusters.
+> **[1:34](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/business-continuity-solutions?u=76281980&t=94)** Either [[Windows Server]] failover clusters, or [[Linux]] Pacemaker clusters.
 >
 > **[1:41](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/business-continuity-solutions?u=76281980&t=101)** The benefit of this arrangement is that little to no downtime will be experienced by the users.
 >
 > **[1:48](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/business-continuity-solutions?u=76281980&t=108)** Further, because the secondary replicas are functionally identical to the primary, they can be used for read-only tasks, such as reporting or for creating database backups.
 >
-> **[2:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/business-continuity-solutions?u=76281980&t=120)** The trade off, of course, is that the business needs to maintain two or more physical servers for this to work and they need to have nearly identical configurations which effectively doubles the cost of the hardware.
+> **[2:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/business-continuity-solutions?u=76281980&t=120)** The trade off, of course, is that the business needs to maintain two or more physical servers for this to work and they need to have nearly identical configurations which effectively doubles the cost of the [[Hardware]].
 >
 > **[2:14](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/business-continuity-solutions?u=76281980&t=134)** The other option for maintaining business continuity is through a process called Log Shipping.
 >
@@ -6828,27 +6764,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (14), business (5), data (4), [[Microsoft SQL Server|Sql server]] (3), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[Databases]] (2), [[Windows Server]] (2), [[Linux]] (2), [[Database Management]] (1)
 > **Env Vars:** sql (3)
 > **Definitions:** is an  (1), is called (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Continuously replicate data to the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/continuously-replicate-data-to-the-cloud?u=76281980)
+#### [Continuously replicate data to the cloud](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/continuously-replicate-data-to-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/continuously-replicate-data-to-the-cloud?u=76281980&t=0)** - [Narrator] One of the headline new features for SQL Server 2022 is called Link for Azure SQL Managed Instance.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/continuously-replicate-data-to-the-cloud?u=76281980&t=0)** - [Narrator] One of the headline new features for [[Microsoft SQL Server|SQL Server]] 2022 is called Link for [[Microsoft Azure|Azure]] [[SQL]] Managed Instance.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/continuously-replicate-data-to-the-cloud?u=76281980&t=8)** It aims to make it much easier to maintain redundant copies of your valuable data, both in your local on-premises SQL Server Instances, and in the Azure Cloud.
 >
-> **[0:19](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/continuously-replicate-data-to-the-cloud?u=76281980&t=19)** And Azure SQL Managed Instance is a version of SQL Server that runs on Microsoft's cloud platform.
+> **[0:19](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/continuously-replicate-data-to-the-cloud?u=76281980&t=19)** And Azure SQL Managed Instance is a version of SQL Server that runs on [[Microsoft]]'s cloud platform.
 >
-> **[0:25](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/continuously-replicate-data-to-the-cloud?u=76281980&t=25)** It's considered a platform as a service offering, in which Microsoft maintains both the hardware and the Instance's internal operations.
+> **[0:25](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/continuously-replicate-data-to-the-cloud?u=76281980&t=25)** It's considered a [[PaaS|platform as a service]] offering, in which Microsoft maintains both the [[Hardware]] and the Instance's internal operations.
 >
-> **[0:35](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/continuously-replicate-data-to-the-cloud?u=76281980&t=35)** You are then free to create your own databases and manage your own data without having to worry about maintenance of the server.
+> **[0:35](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/continuously-replicate-data-to-the-cloud?u=76281980&t=35)** You are then free to create your own [[Databases]] and manage your own data without having to worry about maintenance of the server.
 >
 > **[0:42](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/continuously-replicate-data-to-the-cloud?u=76281980&t=42)** With the new Link feature, you can connect your own on-premises SQL Server databases with a duplicate copy of your database running on a managed Instance.
 >
@@ -6872,7 +6807,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/continuously-replicate-data-to-the-cloud?u=76281980&t=130)** Finally, since the linked databases are in the cloud, they can be replicated to different data centers, that may be geographically very far away from your primary on-premises servers.
 >
-> **[2:21](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/continuously-replicate-data-to-the-cloud?u=76281980&t=141)** This improves resiliency in the face of natural disasters, and can help you make your database more accessible to users around the world.
+> **[2:21](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/continuously-replicate-data-to-the-cloud?u=76281980&t=141)** This improves [[Resiliency]] in the face of natural disasters, and can help you make your database more accessible to users around the world.
 >
 > **[2:30](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/continuously-replicate-data-to-the-cloud?u=76281980&t=150)** Now, at the time of this recording, the SQL Server 2022 link feature is still in a closed beta testing period, and Microsoft is only allowing a limited number of pre-qualified partners to test it out.
 >
@@ -6880,7 +6815,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), data (6), cloud (5), [[Databases]] (5), database (5)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), [[Databases]] (5), [[Microsoft Azure|Azure]] (4), [[Microsoft]] (3), [[SQL]] (2)
 > **Env Vars:** sql (8)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1), is a  (1)
@@ -6891,12 +6826,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a new user account
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-new-user-account?u=76281980)
+#### [Create a new user account](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-new-user-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-new-user-account?u=76281980&t=0)** - [Instructor] I'd like to create a new user account, here, in SQL Server, so that we can start to get used to the idea of segmenting access to the system, by using different logins, with different kinds of permissions.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-new-user-account?u=76281980&t=0)** - [Instructor] I'd like to create a new user account, here, in [[Microsoft SQL Server|SQL Server]], so that we can start to get used to the idea of segmenting access to the system, by using different logins, with different kinds of permissions.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-new-user-account?u=76281980&t=12)** You might remember that you can find information about the current login accounts, that are on the server by going into the Security folder and then expanding the Logins folder.
 >
@@ -6904,7 +6838,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-new-user-account?u=76281980&t=25)** Most of these are system accounts.
 >
-> **[0:28](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-new-user-account?u=76281980&t=28)** I also have my Windows authentication account that I'm currently using there, as well as the System Administrator or the SA account, that we previously enabled.
+> **[0:28](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-new-user-account?u=76281980&t=28)** I also have my [[Windows]] authentication account that I'm currently using there, as well as the System Administrator or the SA account, that we previously enabled.
 >
 > **[0:37](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-new-user-account?u=76281980&t=37)** Now, in order to add in, a new login account, I'll right click on the Logins folder, and then click New Login.
 >
@@ -6938,7 +6872,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-new-user-account?u=76281980&t=120)** If we're taking a look at User Mapping, this controls what Octavia can do within each individual database.
 >
-> **[2:07](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-new-user-account?u=76281980&t=127)** Again, I'm not going to connect her to any specific databases, at this point, and we'll just leave her listed in the public role, for each of the databases.
+> **[2:07](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-new-user-account?u=76281980&t=127)** Again, I'm not going to connect her to any specific [[Databases]], at this point, and we'll just leave her listed in the public role, for each of the databases.
 >
 > **[2:15](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/create-a-new-user-account?u=76281980&t=135)** So I'm going to go back up to the general tab.
 >
@@ -6986,7 +6920,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (7), [[Microsoft SQL Server|Sql server]] (5), [[Windows]] (4), [[Security]] (3), database (3)
+> **Frameworks & Libraries:** [[Databases]] (7), [[Microsoft SQL Server|Sql server]] (5), [[Windows]] (4)
 > **Env Vars:** sql (5)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (1), in the sidebar (1)
@@ -6994,18 +6928,17 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### User roles and permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-roles-and-permissions?u=76281980)
+#### [User roles and permissions](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-roles-and-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-roles-and-permissions?u=76281980&t=0)** - [Instructor] The security of your database is primarily maintained by assigning users to the correct roles that give them the permissions that they need to do their jobs, while also keeping them out of things that they shouldn't have access to.
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-roles-and-permissions?u=76281980&t=14)** Let's now give our new user Octavia some additional permissions so that she can gain a deeper level of access to perform work on the server And in our databases.
+> **[0:14](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-roles-and-permissions?u=76281980&t=14)** Let's now give our new user Octavia some additional permissions so that she can gain a deeper level of access to perform work on the server And in our [[Databases]].
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-roles-and-permissions?u=76281980&t=25)** Octavia does not have the authorization to adjust her own permissions though, so in order to give her permissions, I need to be using a system administrator account.
 >
-> **[0:36](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-roles-and-permissions?u=76281980&t=36)** If you're still connected to your instance with Octavia's account, we need to switch over to the sysadmin account, either using our Windows authentication account or the SA login.
+> **[0:36](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-roles-and-permissions?u=76281980&t=36)** If you're still connected to your instance with Octavia's account, we need to switch over to the sysadmin account, either using our [[Windows]] authentication account or the SA login.
 >
 > **[0:46](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-roles-and-permissions?u=76281980&t=46)** Then, when we're using that connection, we'll go into the "Security" folder and expand "Logins", and then finally, double click on Octavia's account.
 >
@@ -7063,7 +6996,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-roles-and-permissions?u=76281980&t=219)** "db_backupoperators" can perform database backups.
 >
-> **[3:44](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-roles-and-permissions?u=76281980&t=224)** Users in the "db_ddladmin" role can run data definition language SQL commands.
+> **[3:44](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-roles-and-permissions?u=76281980&t=224)** Users in the "db_ddladmin" role can run data definition language [[SQL]] commands.
 >
 > **[3:51](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/user-roles-and-permissions?u=76281980&t=231)** Essentially, this means that they can work with the structures of tables and relationships.
 >
@@ -7095,7 +7028,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (19), data (11), [[Security]] (2), [[Databases]] (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Windows]] (2), [[SQL]] (1)
 > **Code Identifiers:** db_owner (1), db_backupoperators (1), db_ddladmin (1), db_datawriters (1), db_datareaders (1)
 > **UI Navigation:** click on (2)
 > **Env Vars:** sql (1)
@@ -7104,8 +7037,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Database schemas
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-schemas?u=76281980)
+#### [Database schemas](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-schemas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7113,7 +7045,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-schemas?u=76281980&t=8)** Usually these table groups are going to mirror the types of groups that you already have in your organization.
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-schemas?u=76281980&t=14)** You might have a sales team and an operations team and a product development team.
+> **[0:14](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-schemas?u=76281980&t=14)** You might have a sales team and an operations team and a [[Product Development]] team.
 >
 > **[0:19](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-schemas?u=76281980&t=19)** Each of these groups of workers generate data that's unique to their department, but still contributes to the larger pool of data collected by the company.
 >
@@ -7121,9 +7053,9 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-schemas?u=76281980&t=32)** If I expand the Red30Tech database inside of our server, go ahead and expand that folder there and then take a look at the tables, you'll see that all of the tables that we created so far have been added to the dbo schema.
 >
-> **[0:47](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-schemas?u=76281980&t=47)** Dbo stands for database owner and it's the default schema that gets created for all new databases in SQL Server.
+> **[0:47](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-schemas?u=76281980&t=47)** Dbo stands for database owner and it's the default schema that gets created for all new [[Databases]] in [[Microsoft SQL Server|SQL Server]].
 >
-> **[0:55](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-schemas?u=76281980&t=55)** We can create our own new schemas and start organizing these tables better with a simple line of Transact-SQL code.
+> **[0:55](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-schemas?u=76281980&t=55)** We can create our own new schemas and start organizing these tables better with a simple line of [[Transact-SQL (T-SQL)|Transact-SQL]] code.
 >
 > **[1:02](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-schemas?u=76281980&t=62)** So with the Red30Tech database selected, I'll press the New Query button.
 >
@@ -7211,7 +7143,7 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-schemas?u=76281980&t=327)** I'm going to close this tab here and not save any changes to the script.
 >
-> **[5:31](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-schemas?u=76281980&t=331)** Then I'm going to scroll up here and collapse my connection that uses my Windows authentication account, and we'll take a look at the connection that we have made with Octavia account personally.
+> **[5:31](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-schemas?u=76281980&t=331)** Then I'm going to scroll up here and collapse my connection that uses my [[Windows]] authentication account, and we'll take a look at the connection that we have made with Octavia account personally.
 >
 > **[5:42](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-schemas?u=76281980&t=342)** Let's expand the databases folder and you might need to right click on this and choose Refresh.
 >
@@ -7231,7 +7163,7 @@ created: 2026-05-02
 >
 > **[6:27](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-schemas?u=76281980&t=387)** Right click, Select Top 1000 Rows and she can read that data as well.
 >
-> **[6:32](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-schemas?u=76281980&t=392)** She should not be able to edit or insert anything into the products table though, since it's not part of the sales schema.
+> **[6:32](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-schemas?u=76281980&t=392)** She should not be able to edit or insert anything into the [[Microsoft Products|products]] table though, since it's not part of the sales schema.
 >
 > **[6:38](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-schemas?u=76281980&t=398)** Let's go ahead and close this tab.
 >
@@ -7267,7 +7199,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (14), data (9), [[Databases]] (2), [[Microsoft SQL Server|Sql server]] (2), application (2)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Microsoft SQL Server|Sql server]] (2), [[Microsoft Products|Products]] (2), [[Product Development]] (1), [[Transact-SQL (T-SQL)|Transact-sql]] (1)
 > **Env Vars:** sql (3), schema (2), create (1), alter (1), transfer (1)
 > **UI Navigation:** click on (5), scroll up (1)
 > **CLI Commands:** make (4), find (1)
@@ -7276,12 +7208,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1), set up (1)
 > **SQL:** update (1)
 
-#### Dynamic data masking
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/dynamic-data-masking?u=76281980)
+#### [Dynamic data masking](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/dynamic-data-masking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/dynamic-data-masking?u=76281980&t=0)** - [Instructor] Dynamic data masking is another feature of SQL Server that helps protect the security of your data.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/dynamic-data-masking?u=76281980&t=0)** - [Instructor] Dynamic data masking is another feature of [[Microsoft SQL Server|SQL Server]] that helps protect the security of your data.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/dynamic-data-masking?u=76281980&t=7)** When enabled, it allows users to query information out of the data tables, but it will apply various obfuscation techniques to make the data less readable.
 >
@@ -7293,7 +7224,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/dynamic-data-masking?u=76281980&t=41)** In order to edit the table's design, you need to have the correct permissions to run alter table statements.
 >
-> **[0:48](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/dynamic-data-masking?u=76281980&t=48)** So I've gone ahead and logged backed into the server with my personal Windows account, Adam.
+> **[0:48](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/dynamic-data-masking?u=76281980&t=48)** So I've gone ahead and logged backed into the server with my personal [[Windows]] account, Adam.
 >
 > **[0:55](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/dynamic-data-masking?u=76281980&t=55)** This gives me the system administrator privileges that I need to execute these statements.
 >
@@ -7373,7 +7304,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), database (5), [[Microsoft SQL Server|Sql server]] (2), feature (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[Windows]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** sql (2)
 > **UI Navigation:** scroll down (1), click on (1)
@@ -7382,12 +7313,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** you need to have (1)
 
-#### Always On data encryption
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/always-on-data-encryption?u=76281980)
+#### [Always On data encryption](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/always-on-data-encryption?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/always-on-data-encryption?u=76281980&t=1)** - [Instructor] Encrypting the data that SQL Server stores provides the most secure method for data storage.
+> **[0:01](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/always-on-data-encryption?u=76281980&t=1)** - [Instructor] Encrypting the data that [[Microsoft SQL Server|SQL Server]] stores provides the most secure method for [[Data Storage]].
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/always-on-data-encryption?u=76281980&t=7)** With the Always Encrypted feature of SQL Server, encryption and decryption keys are stored outside of the server and connected to user accounts or external applications.
 >
@@ -7397,7 +7327,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/always-on-data-encryption?u=76281980&t=28)** So even if someone were to obtain a copy of your database, the data would be useless without the decryption keys.
 >
-> **[0:36](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/always-on-data-encryption?u=76281980&t=36)** Ensure that you're logged into your Windows Authentication account, and then right click on the Red30Tech database.
+> **[0:36](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/always-on-data-encryption?u=76281980&t=36)** Ensure that you're logged into your [[Windows]] Authentication account, and then right click on the Red30Tech database.
 >
 > **[0:42](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/always-on-data-encryption?u=76281980&t=42)** Point to Tasks and you'll see the option to Encrypt Columns.
 >
@@ -7431,7 +7361,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/always-on-data-encryption?u=76281980&t=117)** On this page, we'll create the key.
 >
-> **[2:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/always-on-data-encryption?u=76281980&t=120)** Since keys are stored outside of the database server, we need to choose whether to store them in the Windows Certificate Store on your computer or in an Azure Key Vault online.
+> **[2:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/always-on-data-encryption?u=76281980&t=120)** Since keys are stored outside of the database server, we need to choose whether to store them in the Windows Certificate Store on your computer or in an [[Microsoft Azure|Azure]] Key Vault online.
 >
 > **[2:11](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/always-on-data-encryption?u=76281980&t=131)** I'll choose my Window Certificate Store.
 >
@@ -7477,7 +7407,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/always-on-data-encryption?u=76281980&t=231)** Now I can press the Connect button to reconnect to my server.
 >
-> **[3:55](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/always-on-data-encryption?u=76281980&t=235)** Finally, we'll go into the Databases folder, expand the Red30Tech database and the Tables folder, right click sales.Customers and choose Select Top 1000 Rows.
+> **[3:55](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/always-on-data-encryption?u=76281980&t=235)** Finally, we'll go into the [[Databases]] folder, expand the Red30Tech database and the Tables folder, right click sales.Customers and choose Select Top 1000 Rows.
 >
 > **[4:06](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/always-on-data-encryption?u=76281980&t=246)** This displays a little information window about the option to parameterize your always encrypted data.
 >
@@ -7537,7 +7467,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), database (11), next (9), [[Microsoft SQL Server|Sql server]] (7), [[Windows]] (7)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (7), [[Windows]] (7), [[Databases]] (2), [[Data Storage]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** sql (7)
 > **UI Navigation:** click on (4), select the (1)
 > **Definitions:** means that (1), is a  (1)
@@ -7549,12 +7479,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore the role of system databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/explore-the-role-of-system-databases?u=76281980)
+#### [Explore the role of system databases](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/explore-the-role-of-system-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/explore-the-role-of-system-databases?u=76281980&t=0)** - [Narrator] In the Object Explorer, at the top, in the Databases Folder, we have a folder for the System Databases.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/explore-the-role-of-system-databases?u=76281980&t=0)** - [Narrator] In the Object Explorer, at the top, in the [[Databases]] Folder, we have a folder for the System Databases.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/explore-the-role-of-system-databases?u=76281980&t=7)** These four databases, master, model, msdb and tempdb, are required for the server to operate.
 >
@@ -7562,7 +7491,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/explore-the-role-of-system-databases?u=76281980&t=23)** So don't alter their tables, don't add or delete any records.
 >
-> **[0:27](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/explore-the-role-of-system-databases?u=76281980&t=27)** SQL Server has a number of built-in dynamic management views, console commands, and system stored procedures that will allow you to safely interact with these databases.
+> **[0:27](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/explore-the-role-of-system-databases?u=76281980&t=27)** [[Microsoft SQL Server|SQL Server]] has a number of built-in dynamic management views, console commands, and system stored procedures that will allow you to safely interact with these databases.
 >
 > **[0:37](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/explore-the-role-of-system-databases?u=76281980&t=37)** So it's likely that you won't ever need to access them directly anyway.
 >
@@ -7600,7 +7529,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), [[Databases]] (10), [[Microsoft SQL Server|Sql server]] (9), management (1), data (1)
+> **Frameworks & Libraries:** [[Databases]] (10), [[Microsoft SQL Server|Sql server]] (9)
 > **Env Vars:** sql (9)
 > **Analogies:** just like (2), such as (1)
 > **Exercise Files:** template (2)
@@ -7608,12 +7537,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Prevent excessive TempDB autogrowth
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/prevent-excessive-tempdb-autogrowth?u=76281980)
+#### [Prevent excessive TempDB autogrowth](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/prevent-excessive-tempdb-autogrowth?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/prevent-excessive-tempdb-autogrowth?u=76281980&t=0)** - [Instructor] Whenever your SQL Server instance is restarted, the system database, tempdb, is recreated.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/prevent-excessive-tempdb-autogrowth?u=76281980&t=0)** - [Instructor] Whenever your [[Microsoft SQL Server|SQL Server]] instance is restarted, the system database, tempdb, is recreated.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/prevent-excessive-tempdb-autogrowth?u=76281980&t=7)** If your workload requires a large amount of space in tempdb to function efficiently, then you might be hitting a bottleneck of tempdb being too small and having to Autogrow up to an appropriate size every time the server restarts.
 >
@@ -7655,7 +7583,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** sql (1)
 > **UI Navigation:** click on (1)
@@ -7663,12 +7591,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review the SQL Server error log
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/review-the-sql-server-error-log?u=76281980)
+#### [Review the SQL Server error log](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/review-the-sql-server-error-log?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/review-the-sql-server-error-log?u=76281980&t=0)** - [Instructor] SQL Server maintains an error log of issues that it's encountered while running.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/review-the-sql-server-error-log?u=76281980&t=0)** - [Instructor] [[Microsoft SQL Server|SQL Server]] maintains an error log of issues that it's encountered while running.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/review-the-sql-server-error-log?u=76281980&t=5)** These logs can help you troubleshoot problems and see other events that the system has flagged.
 >
@@ -7702,7 +7629,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), management (1), [[Search]] (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4)
 > **Env Vars:** sql (4)
 > **UI Navigation:** click on (2), in the toolbar (1)
 > **Definitions:** is a  (2)
@@ -7711,12 +7638,11 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dynamic management views
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/dynamic-management-views?u=76281980)
+#### [Dynamic management views](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/dynamic-management-views?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/dynamic-management-views?u=76281980&t=0)** - [Instructor] Dynamic management views, or DMVs, return information about the state or the settings of your SQL Server instances.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/dynamic-management-views?u=76281980&t=0)** - [Instructor] Dynamic management views, or DMVs, return information about the state or the settings of your [[Microsoft SQL Server|SQL Server]] instances.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/dynamic-management-views?u=76281980&t=9)** This information is useful for diagnosing problems and tuning performance.
 >
@@ -7734,7 +7660,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/dynamic-management-views?u=76281980&t=60)** You'll select individual columns from the view to access their content.
 >
-> **[1:05](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/dynamic-management-views?u=76281980&t=65)** Microsoft has stated that the contents of each view is subject to change between SQL Server versions.
+> **[1:05](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/dynamic-management-views?u=76281980&t=65)** [[Microsoft]] has stated that the contents of each view is subject to change between SQL Server versions.
 >
 > **[1:11](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/dynamic-management-views?u=76281980&t=71)** So avoid using SELECT * to obtain all of the views columns if storing the SELECT statement in production code.
 >
@@ -7774,11 +7700,11 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/dynamic-management-views?u=76281980&t=202)** This list continues to grow as Microsoft adds new views into the system with each new version of SQL Server.
 >
-> **[3:29](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/dynamic-management-views?u=76281980&t=209)** If you find yourself taking on a database or a system administrator role, I would highly recommend taking a look at the technical documentation on the topic and perusing the more than two dozen categories of DMVs presented here.
+> **[3:29](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/dynamic-management-views?u=76281980&t=209)** If you find yourself taking on a database or a system administrator role, I would highly recommend taking a look at the [[Technical Documentation]] on the topic and perusing the more than two dozen categories of DMVs presented here.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), management (6), [[Microsoft SQL Server|Sql server]] (5), data (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), [[Microsoft]] (2), [[Technical Documentation]] (1)
 > **Env Vars:** sql (5), select (3), view (2), state (2), server (1)
 > **SQL:** select (3)
 > **Definitions:** is called (3)
@@ -7787,12 +7713,11 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Database Console Commands (DBCC)
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-console-commands-dbcc?u=76281980)
+#### [Database Console Commands (DBCC)](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-console-commands-dbcc?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-console-commands-dbcc?u=76281980&t=0)** - [Instructor] SQL Server has a number of built-in commands that will check the structure of your databases and provide information that could be useful when troubleshooting problems.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-console-commands-dbcc?u=76281980&t=0)** - [Instructor] [[Microsoft SQL Server|SQL Server]] has a number of built-in commands that will check the structure of your [[Databases]] and provide information that could be useful when troubleshooting problems.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-console-commands-dbcc?u=76281980&t=9)** Collectively, they're called database console commands or DBCC commands.
 >
@@ -7820,7 +7745,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-console-commands-dbcc?u=76281980&t=96)** CHECKCATALOG checks for catalog consistency.
 >
-> **[1:39](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-console-commands-dbcc?u=76281980&t=99)** Then CHECKDB verifies the content of every indexed view, validates links between files on disc and the metadata stored in the table for file stream enabled databases.
+> **[1:39](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-console-commands-dbcc?u=76281980&t=99)** Then CHECKDB verifies the content of every indexed view, validates links between files on disc and the [[Metadata]] stored in the table for file stream enabled databases.
 >
 > **[1:50](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-console-commands-dbcc?u=76281980&t=110)** And then it finally validates these service broker data.
 >
@@ -7836,7 +7761,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-console-commands-dbcc?u=76281980&t=145)** Now, CHECKDB also has limited ability to perform repairs if it does identify any problems.
 >
-> **[2:31](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-console-commands-dbcc?u=76281980&t=151)** However, Microsoft strongly urges that you restore from a backup instead of relying on these repair features.
+> **[2:31](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-console-commands-dbcc?u=76281980&t=151)** However, [[Microsoft]] strongly urges that you restore from a backup instead of relying on these repair features.
 >
 > **[2:37](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/database-console-commands-dbcc?u=76281980&t=157)** If you do want to see what those look like though I have the line on number 13 of the script here, that shows you how to use the repair feature.
 >
@@ -7892,7 +7817,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (12), data (10), [[Databases]] (3), feature (2), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Databases]] (3), [[Microsoft SQL Server|Sql server]] (1), [[Metadata]] (1), [[Microsoft]] (1)
 > **Env Vars:** dbcc (5), checkdb (5), sql (1), checktable (1), checkcatalog (1)
 > **Analogies:** for instance (2), such as (1)
 > **CLI Commands:** find (1), make (1)
@@ -7906,28 +7831,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/next-steps?u=76281980&t=0)** - [Adam] I'd like to thank you for joining me in this exploration of SQL Server 2022.
+> **[0:00](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/next-steps?u=76281980&t=0)** - [Adam] I'd like to thank you for joining me in this exploration of [[Microsoft SQL Server|SQL Server]] 2022.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/next-steps?u=76281980&t=5)** I think this is going to be a fantastic new release of SQL Server, and I'm excited to have you on board for the journey.
 >
-> **[0:12](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/next-steps?u=76281980&t=12)** While we covered a good number of the features of the product, there's always more to learn when it comes to the world of database administration.
+> **[0:12](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/next-steps?u=76281980&t=12)** While we covered a good number of the features of the product, there's always more to learn when it comes to the world of [[Database Administration]].
 >
 > **[0:19](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/next-steps?u=76281980&t=19)** Here's a couple of recommendations for where to go next.
 >
-> **[0:23](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/next-steps?u=76281980&t=23)** First, I highly recommend taking a standalone course on the Transact SQL language.
+> **[0:23](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/next-steps?u=76281980&t=23)** First, I highly recommend taking a standalone course on the Transact [[SQL]] language.
 >
 > **[0:28](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/next-steps?u=76281980&t=28)** Everything that you do in SQL Server will benefit from a deeper understanding of the wide range of capabilities of SQL.
 >
-> **[0:36](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/next-steps?u=76281980&t=36)** On this front, keep an eye on LinkedIn Learning for my upcoming course, querying SQL Server 2022.
+> **[0:36](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/next-steps?u=76281980&t=36)** On this front, keep an eye on [[LinkedIn]] Learning for my upcoming course, querying SQL Server 2022.
 >
 > **[0:43](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/next-steps?u=76281980&t=43)** In that course, I'll cover writing select queries and using functions that'll help you squeeze the most information out of your data.
 >
-> **[0:51](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/next-steps?u=76281980&t=51)** For more exposure to the theory behind relational database design, I encourage you to check out a couple of my other courses, including Learning Relational Databases or the five courses in the Database Foundation series, starting with Intro to Databases.
+> **[0:51](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/next-steps?u=76281980&t=51)** For more exposure to the theory behind relational [[Database Design]], I encourage you to check out a couple of my other courses, including Learning [[Relational Databases]] or the five courses in the Database Foundation series, starting with Intro to [[Databases]].
 >
 > **[1:07](https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training/next-steps?u=76281980&t=67)** Once again, I've been Adam Wilburt.
 >
@@ -7935,7 +7859,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[SQL]] (2), database (2), product (1), [[Database Administration]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[SQL]] (2), [[Database Administration]] (1), [[LinkedIn]] (1), [[Relational Databases]] (1)
 > **Env Vars:** sql (6)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [adam] (1)

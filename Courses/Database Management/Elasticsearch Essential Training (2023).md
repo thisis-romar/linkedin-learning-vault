@@ -82,12 +82,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore Elasticsearch for your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/explore-elasticsearch-for-your-data?u=76281980)
+#### [Explore Elasticsearch for your data](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/explore-elasticsearch-for-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/explore-elasticsearch-for-your-data?u=76281980&t=0)** - [Ben] The ability to index documents and search for them using plain text is a powerful capability, which is why Elasticsearch is so widely adopted by organizations of all sizes.
+> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/explore-elasticsearch-for-your-data?u=76281980&t=0)** - [Ben] The ability to index documents and search for them using plain text is a powerful capability, which is why [[Elasticsearch]] is so widely adopted by organizations of all sizes.
 >
 > **[0:10](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/explore-elasticsearch-for-your-data?u=76281980&t=10)** As we'll learn, it has evolved well beyond these basic capabilities.
 >
@@ -103,27 +102,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Elasticsearch]] (4), data (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Elasticsearch]] (4)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [ben] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/what-you-should-know?u=76281980&t=0)** - To get the most out of this course you should be familiar with JavaScript.
+> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/what-you-should-know?u=76281980&t=0)** - To get the most out of this course you should be familiar with [[JavaScript]].
 >
-> **[0:03](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/what-you-should-know?u=76281980&t=3)** The Elasticsearch Query Engine is based on JSON objects, which is a type of formatting text inside a document that works perfectly with JavaScript.
+> **[0:03](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/what-you-should-know?u=76281980&t=3)** The [[Elasticsearch]] Query Engine is based on [[JSON]] objects, which is a type of formatting text inside a document that works perfectly with JavaScript.
 >
 > **[0:12](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/what-you-should-know?u=76281980&t=12)** If you're familiar with web technologies, you'll already have an idea of how data flows in and out of Elasticsearch, and what it's used for.
 >
-> **[0:18](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/what-you-should-know?u=76281980&t=18)** Knowing some basics about databases, will also help you understand how Elasticsearch stores and organizes its data.
+> **[0:18](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/what-you-should-know?u=76281980&t=18)** Knowing some basics about [[Databases]], will also help you understand how Elasticsearch stores and organizes its data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Elasticsearch]] (3), [[JavaScript]] (2), data (2), [[JSON]] (1), web (1)
+> **Frameworks & Libraries:** [[Elasticsearch]] (3), [[JavaScript]] (2), [[JSON]] (1), [[Databases]] (1)
 > **Env Vars:** json (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - to (1)
@@ -133,14 +131,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Elasticsearch origins
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-origins?u=76281980)
+#### [Elasticsearch origins](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-origins?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-origins?u=76281980&t=0)** - [Instructor] I like to start my courses by showing where the platform that we're digging into came from because I believe it helps us understand a little bit more about why things are the way they are.
 >
-> **[0:10](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-origins?u=76281980&t=10)** Now, to do this with Elasticsearch we have to go back to 1999 when the platform Lucene came out.
+> **[0:10](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-origins?u=76281980&t=10)** Now, to do this with [[Elasticsearch]] we have to go back to 1999 when the platform Lucene came out.
 >
 > **[0:15](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-origins?u=76281980&t=15)** Doug Cutting wrote it originally back then and it was available as an open-source project on SourceForge.
 >
@@ -162,13 +159,13 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-origins?u=76281980&t=86)** Elasticsearch is a distributed restful search and analytics engine that helps with all kinds of use cases in today's technology landscape.
 >
-> **[1:33](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-origins?u=76281980&t=93)** For its data format, Elasticsearch uses JSON, which is the JavaScript Object Notation.
+> **[1:33](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-origins?u=76281980&t=93)** For its data format, Elasticsearch uses [[JSON]], which is the [[JavaScript]] Object Notation.
 >
 > **[1:38](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-origins?u=76281980&t=98)** And for its interface, it uses HTTP.
 >
 > **[1:41](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-origins?u=76281980&t=101)** Now, both of these are incredibly common on the web which makes Elasticsearch really flexible and can be integrated with almost any application out there.
 >
-> **[1:49](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-origins?u=76281980&t=109)** In working with Elasticsearch there are clients available in Java, .NET, Python, and many other languages.
+> **[1:49](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-origins?u=76281980&t=109)** In working with Elasticsearch there are clients available in [[Java]], .NET, [[Python (Programming Language)|Python]], and many other languages.
 >
 > **[1:54](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-origins?u=76281980&t=114)** Across the landscape, Elasticsearch is by far the most popular enterprise search engine.
 >
@@ -178,18 +175,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), [[Elasticsearch]] (7), data (4), web (2), open-source (1)
+> **Frameworks & Libraries:** [[Elasticsearch]] (7), [[JSON]] (1), [[JavaScript]] (1), [[Java]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** apache (2), cat (1), python (1), find (1)
 > **Env Vars:** hdfs (1), json (1), http (1), net (1)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Elastic the company
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-the-company?u=76281980)
+#### [Elastic the company](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-the-company?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-the-company?u=76281980&t=0)** - [Instructor] Elastic, the company, provides the open source ELK Stack, which is Elasticsearch, Logstash, and Kibana.
+> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-the-company?u=76281980&t=0)** - [Instructor] Elastic, the company, provides the open source ELK Stack, which is [[Elasticsearch]], Logstash, and Kibana.
 >
 > **[0:06](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-the-company?u=76281980&t=6)** Recently, they reported that they have now over 100 million downloads of their platform.
 >
@@ -197,7 +193,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-the-company?u=76281980&t=20)** They also offer hosting and training and consulting, which are typically grouped into what we call professional services.
 >
-> **[0:26](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-the-company?u=76281980&t=26)** So this is a common model that many successful open source companies, similar to Cloudera and what they offer with Hadoop, or Teradata, what they do for Presto.
+> **[0:26](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-the-company?u=76281980&t=26)** So this is a common model that many successful open source companies, similar to Cloudera and what they offer with [[Hadoop]], or Teradata, what they do for Presto.
 >
 > **[0:35](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-the-company?u=76281980&t=35)** I mention this because, as a business wondering whether or not you should invest in something like Elasticsearch, the fact that there is a commercial entity pushing it forward and investing back in the open source version of the platform is a good sign.
 >
@@ -207,14 +203,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Elasticsearch]] (2), [[Security]] (1), [[Hadoop]] (1), business (1)
+> **Frameworks & Libraries:** [[Elasticsearch]] (2), [[Hadoop]] (1)
 > **Definitions:** is a  (3), known as (1)
 > **Env Vars:** elk (2)
 > **Analogies:** such as (1), similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Elastic Stack overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-stack-overview?u=76281980)
+#### [Elastic Stack overview](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-stack-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -228,7 +223,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-stack-overview?u=76281980&t=20)** Logstash offers common connectors, transformations, and outputs, as well as there is an open source community building additional connectors and additional transformations for almost any scenario you may encounter.
 >
-> **[0:32](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-stack-overview?u=76281980&t=32)** I won't be diving too deep into Logstash in this course, as the main focus is on Elasticsearch, however, know that if you're running Elasticsearch, you are most likely going to want Logstash as a good way to ingest data.
+> **[0:32](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-stack-overview?u=76281980&t=32)** I won't be diving too deep into Logstash in this course, as the main focus is on [[Elasticsearch]], however, know that if you're running Elasticsearch, you are most likely going to want Logstash as a good way to ingest data.
 >
 > **[0:44](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-stack-overview?u=76281980&t=44)** Another platform for getting your data into your cluster is Beats.
 >
@@ -240,7 +235,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-stack-overview?u=76281980&t=67)** The focus of Elasticsearch is essentially to ingest the data that is being given and create indexes of these documents and distribute them across all of the nodes in its cluster.
 >
-> **[1:16](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-stack-overview?u=76281980&t=76)** From there, Elasticsearch provides an interface using HTTP to search the documents and has many built-in algorithms for scoring them as well as a way to customize your search results.
+> **[1:16](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-stack-overview?u=76281980&t=76)** From there, Elasticsearch provides an interface using HTTP to search the documents and has many built-in [[Algorithms]] for scoring them as well as a way to customize your search results.
 >
 > **[1:27](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-stack-overview?u=76281980&t=87)** When it comes to using Elasticsearch as an analytics platform or doing more advanced tuning, it may make sense to add Kibana to your platform.
 >
@@ -260,13 +255,13 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-stack-overview?u=76281980&t=133)** We'll take a look at that later just so you can get a sense of how it looks and feels, but for the demos that we'll be going through, we'll be running them locally on our machine.
 >
-> **[2:20](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-stack-overview?u=76281980&t=140)** The four key advantages that the Elastic Stack gives you is first scalability.
+> **[2:20](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-stack-overview?u=76281980&t=140)** The four key advantages that the Elastic Stack gives you is first [[Scalability]].
 >
 > **[2:25](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-stack-overview?u=76281980&t=145)** By horizontally scaling, you can spin up your Elastic cluster to handle any amount of data.
 >
 > **[2:29](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-stack-overview?u=76281980&t=149)** It offers near realtime results with Beats ingestion tools and it helps you do things like anomaly detection, fraud identification, and all of this is possible because it's happening in real time.
 >
-> **[2:39](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-stack-overview?u=76281980&t=159)** Of course, this is a NoSQL platform, which means that you don't need a schema when you ingest the data.
+> **[2:39](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-stack-overview?u=76281980&t=159)** Of course, this is a [[NoSQL]] platform, which means that you don't need a schema when you ingest the data.
 >
 > **[2:45](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elastic-stack-overview?u=76281980&t=165)** You can figure out the schema after the fact.
 >
@@ -276,14 +271,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Elasticsearch]] (7), [[Search]] (3), etl (1), database (1)
+> **Frameworks & Libraries:** [[Elasticsearch]] (7), [[Algorithms]] (1), [[Scalability]] (1), [[NoSQL]] (1)
 > **Definitions:** is a  (2), known as (1), is an  (1), is called (1), stands for (1)
 > **Env Vars:** etl (1), http (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/use-cases?u=76281980)
+#### [Use cases](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -293,7 +287,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/use-cases?u=76281980&t=12)** It's incredibly common to have logs dash pulling in your web server logs, or security logs from your firewall, for example.
 >
-> **[0:18](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/use-cases?u=76281980&t=18)** Throw them into an index where then, on top of that, you have dashboards, learning, and all kinds of things that you may want to be looking at in your real time with regards to what's going on with your traffic or your security systems.
+> **[0:18](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/use-cases?u=76281980&t=18)** Throw them into an index where then, on top of that, you have [[Dashboards]], learning, and all kinds of things that you may want to be looking at in your real time with regards to what's going on with your traffic or your security systems.
 >
 > **[0:30](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/use-cases?u=76281980&t=30)** So, when it comes to analyzing security and log events, this is a fantastic tool because of how good it is at identifying things in real time.
 >
@@ -303,7 +297,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/use-cases?u=76281980&t=60)** This way, the marketing team can really gain a lot of insight into the efforts that they have on trying to get people to our website to then sign up or buy a product, or whatever the case may be, and this is all made possible because of the data that's being ingested is so rich with information that helps our marketing team hone in their efforts and kind of use their dollars wisely.
 >
-> **[1:22](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/use-cases?u=76281980&t=82)** You can probably also guess that, operationally, this information and being able to react to it in real time would be very useful for your operation center.
+> **[1:22](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/use-cases?u=76281980&t=82)** You can probably also guess that, operationally, this information and being able to [[React.js|react]] to it in real time would be very useful for your operation center.
 >
 > **[1:32](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/use-cases?u=76281980&t=92)** Now, whether that is monitoring a server, or a cluster of servers, that support a web app or something like a factory that has sensors all over with machines running, being able to ingest the data and then present it in alerts based on anomalies, or then kick off other actions, is really, really useful, especially if you have something that is running with a lot of volume, whether that's people on a website, people using an app, streaming videos, whatever the case may be.
 >
@@ -315,18 +309,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (7), data (5), [[Security]] (4), web (3), [[React.js|React]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Dashboards]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Elasticsearch concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-concepts?u=76281980)
+#### [Elasticsearch concepts](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-concepts?u=76281980&t=0)** - [Instructor] Before we dig in and start using Elasticsearch, I thought it would make sense to cover all the concepts here so that you have a general understanding of how the pieces fit together.
+> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-concepts?u=76281980&t=0)** - [Instructor] Before we dig in and start using [[Elasticsearch]], I thought it would make sense to cover all the concepts here so that you have a general understanding of how the pieces fit together.
 >
 > **[0:09](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-concepts?u=76281980&t=9)** We'll first have our cluster, and as you can imagine, a cluster is a collection of nodes.
 >
@@ -344,7 +337,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-concepts?u=76281980&t=60)** At the base unit, you have a document, which could be for a single customer or order, or an event, let's say coming from an app or a website.
 >
-> **[1:08](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-concepts?u=76281980&t=68)** Now, these documents are stored in the JSON format and are physically residing inside of your index.
+> **[1:08](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-concepts?u=76281980&t=68)** Now, these documents are stored in the [[JSON]] format and are physically residing inside of your index.
 >
 > **[1:14](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/elasticsearch-concepts?u=76281980&t=74)** Now, the index, in order to be scalable, has to be distributed and it does so using shards and replicas.
 >
@@ -366,7 +359,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (7), [[Elasticsearch]] (3), data (2), [[Search]] (1), product (1)
+> **Frameworks & Libraries:** [[Elasticsearch]] (3), [[JSON]] (1)
 > **CLI Commands:** node (7), make (1)
 > **Definitions:** is a  (5)
 > **Analogies:** imagine (1), such as (1), similar to (1)
@@ -379,12 +372,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Running Elasticsearch in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/running-elasticsearch-in-the-cloud?u=76281980)
+#### [Running Elasticsearch in the cloud](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/running-elasticsearch-in-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/running-elasticsearch-in-the-cloud?u=76281980&t=0)** - [Ben] Let's start by setting up Elasticsearch.
+> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/running-elasticsearch-in-the-cloud?u=76281980&t=0)** - [Ben] Let's start by setting up [[Elasticsearch]].
 >
 > **[0:03](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/running-elasticsearch-in-the-cloud?u=76281980&t=3)** And we're going to do this using their hosted option from [elastic.co](https://elastic.co).
 >
@@ -410,7 +402,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/running-elasticsearch-in-the-cloud?u=76281980&t=51)** We'll call it Bens ES Cluster 123.
 >
-> **[0:57](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/running-elasticsearch-in-the-cloud?u=76281980&t=57)** You can change where the actual cluster is being deployed here, it's to the Google Cloud Platform, you can see that by this icon here.
+> **[0:57](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/running-elasticsearch-in-the-cloud?u=76281980&t=57)** You can change where the actual cluster is being deployed here, it's to the [[Google Cloud Platform (GCP)|Google Cloud Platform]], you can see that by this icon here.
 >
 > **[1:03](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/running-elasticsearch-in-the-cloud?u=76281980&t=63)** But if you're in a different location, it should default somewhere else.
 >
@@ -424,7 +416,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/running-elasticsearch-in-the-cloud?u=76281980&t=80)** A lot of this is what Elastic, the company, is trying to sell us.
 >
-> **[1:24](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/running-elasticsearch-in-the-cloud?u=76281980&t=84)** And for this course, what I want to do is teach you how to use it as if you had your own open source version that maybe was self-hosted on a server or if you were doing it in some other cloud platform like Google Cloud or AWS.
+> **[1:24](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/running-elasticsearch-in-the-cloud?u=76281980&t=84)** And for this course, what I want to do is teach you how to use it as if you had your own open source version that maybe was self-hosted on a server or if you were doing it in some other cloud platform like [[Google Cloud Platform (GCP)|Google Cloud]] or AWS.
 >
 > **[1:35](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/running-elasticsearch-in-the-cloud?u=76281980&t=95)** So to use this, we're actually going to skip over all this stuff here, and I'm going to click on these little three dots on the left.
 >
@@ -440,7 +432,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Elasticsearch]] (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), cloud (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), aws (1)
+> **Frameworks & Libraries:** [[Elasticsearch]] (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** find (2), aws (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **URLs:** [elastic.co](https://elastic.co) (1)
@@ -448,8 +440,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [ben] (1)
 
-#### Exploring your cluster
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/exploring-your-cluster?u=76281980)
+#### [Exploring your cluster](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/exploring-your-cluster?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -531,7 +522,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/exploring-your-cluster?u=76281980&t=156)** All right, now let's add a document here.
 >
-> **[2:38](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/exploring-your-cluster?u=76281980&t=158)** So I'm going to pass in some JSON data and this is going to be an order.
+> **[2:38](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/exploring-your-cluster?u=76281980&t=158)** So I'm going to pass in some [[JSON]] data and this is going to be an order.
 >
 > **[2:45](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/exploring-your-cluster?u=76281980&t=165)** So we're doing the same thing we normally would do if you're familiar with JSON format here.
 >
@@ -587,7 +578,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), hit (3), application (3), [[JSON]] (2), web (1)
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **UI Navigation:** dropdown (2), open the (1), click on (1)
 > **CLI Commands:** cat (1), go run (1)
 > **Env Vars:** json (2)
@@ -601,16 +592,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Bulk loading data
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/bulk-loading-data?u=76281980)
+#### [Bulk loading data](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/bulk-loading-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/bulk-loading-data?u=76281980&t=0)** - [Instructor] Let's start here in our Elasticsearch journey by uploading some data because obviously, you're not going to hand type data in.
+> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/bulk-loading-data?u=76281980&t=0)** - [Instructor] Let's start here in our [[Elasticsearch]] journey by uploading some data because obviously, you're not going to hand type data in.
 >
 > **[0:06](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/bulk-loading-data?u=76281980&t=6)** You could use a spreadsheet for that.
 >
-> **[0:08](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/bulk-loading-data?u=76281980&t=8)** So what I want to do in this video is show you how to use cURL commands from the terminal, whether that's Windows or Mac, and actually upload a file.
+> **[0:08](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/bulk-loading-data?u=76281980&t=8)** So what I want to do in this video is show you how to use cURL commands from the terminal, whether that's [[Windows]] or Mac, and actually upload a file.
 >
 > **[0:16](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/bulk-loading-data?u=76281980&t=16)** So real simple stuff but an example that you could obviously use to take further into building an application or some kind of data service, whatever application you want to do with Elasticsearch.
 >
@@ -654,7 +644,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/bulk-loading-data?u=76281980&t=104)** Okay, so let's open up terminal now and let's get to uploading some data.
 >
-> **[1:50](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/bulk-loading-data?u=76281980&t=110)** Now, if I'm on a Mac, I can open up an application called Terminal or if I'm on Windows, I'm going to open up Ubuntu, which is a Windows subsystem for Linux.
+> **[1:50](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/bulk-loading-data?u=76281980&t=110)** Now, if I'm on a Mac, I can open up an application called Terminal or if I'm on Windows, I'm going to open up [[Ubuntu]], which is a Windows subsystem for [[Linux]].
 >
 > **[1:58](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/bulk-loading-data?u=76281980&t=118)** Essentially, it's Linux running on my Windows computer.
 >
@@ -720,7 +710,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/bulk-loading-data?u=76281980&t=240)** We don't want to do that.
 >
-> **[4:01](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/bulk-loading-data?u=76281980&t=241)** And so now what I want to do is go over to the exercise files and there is a bit of data in there and along with the instructions, I'm going to paste that in and you can see I have some JSON data here.
+> **[4:01](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/bulk-loading-data?u=76281980&t=241)** And so now what I want to do is go over to the exercise files and there is a bit of data in there and along with the instructions, I'm going to paste that in and you can see I have some [[JSON]] data here.
 >
 > **[4:12](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/bulk-loading-data?u=76281980&t=252)** Now, the interesting thing about this JSON data is that it has an index which doesn't exist currently in our cluster and it has IDs for the different documents we're creating and columns and values for each one of these.
 >
@@ -792,7 +782,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), api (8), hit (8), [[Elasticsearch]] (6), [[Windows]] (5)
+> **Frameworks & Libraries:** [[Elasticsearch]] (6), [[Windows]] (5), [[JSON]] (3), [[Linux]] (2), [[Ubuntu]] (1)
 > **Env Vars:** api (8), es_host (3), json (3), es_api_key (2), url (1)
 > **Tools:** terminal (6), bash (1)
 > **CLI Commands:** curl (3), ls (1), find (1)
@@ -801,12 +791,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (2)
 > **Definitions:** is a  (2)
 
-#### Loading sample data
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/loading-sample-data?u=76281980)
+#### [Loading sample data](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/loading-sample-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/loading-sample-data?u=76281980&t=0)** - [Instructor] Now let's load some data into our Elasticsearch cluster that we're going to then use later in other ways with other tools.
+> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/loading-sample-data?u=76281980&t=0)** - [Instructor] Now let's load some data into our [[Elasticsearch]] cluster that we're going to then use later in other ways with other tools.
 >
 > **[0:08](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/loading-sample-data?u=76281980&t=8)** Now to start, there are files already in the exercise files if you've downloaded them from this course.
 >
@@ -818,15 +807,15 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/loading-sample-data?u=76281980&t=37)** So let's jump over to that folder now so we can upload this account's data.
 >
-> **[0:41](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/loading-sample-data?u=76281980&t=41)** Now I'm on Windows here with Ubuntu running, so if you're on a Mac, you'll see a different path, but the command is essentially the same, cd means change directory and then I need to give it where the data actually lives.
+> **[0:41](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/loading-sample-data?u=76281980&t=41)** Now I'm on [[Windows]] here with [[Ubuntu]] running, so if you're on a Mac, you'll see a different path, but the command is essentially the same, cd means change directory and then I need to give it where the data actually lives.
 >
-> **[0:51](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/loading-sample-data?u=76281980&t=51)** So on Windows under the Ubuntu Windows subsystem for Linux, it's going to be mnt c and then users for me and then ben, downloads, exercise files, and data.
+> **[0:51](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/loading-sample-data?u=76281980&t=51)** So on Windows under the Ubuntu Windows subsystem for [[Linux]], it's going to be mnt c and then users for me and then ben, downloads, exercise files, and data.
 >
 > **[1:08](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/loading-sample-data?u=76281980&t=68)** So I'll jump over there then I'll see what's in the directory.
 >
 > **[1:11](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/loading-sample-data?u=76281980&t=71)** And you can see there's several different files here.
 >
-> **[1:13](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/loading-sample-data?u=76281980&t=73)** We're looking for that accounts.json one there, so we're good to go.
+> **[1:13](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/loading-sample-data?u=76281980&t=73)** We're looking for that accounts.[[JSON]] one there, so we're good to go.
 >
 > **[1:17](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/loading-sample-data?u=76281980&t=77)** Let's have a look at that file real quick.
 >
@@ -872,7 +861,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/loading-sample-data?u=76281980&t=204)** And that's kind of one of the really cool things about Elasticsearch is that you can really use it as a service where you don't have to tell it anything upfront.
 >
-> **[3:31](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/loading-sample-data?u=76281980&t=211)** If you've worked with other traditional databases in the past where your application needs to write data to it, you often will have to create all of that data infrastructure before you do anything.
+> **[3:31](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/loading-sample-data?u=76281980&t=211)** If you've worked with other traditional [[Databases]] in the past where your application needs to write data to it, you often will have to create all of that data infrastructure before you do anything.
 >
 > **[3:41](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/loading-sample-data?u=76281980&t=221)** Here, I literally just send it to an endpoint and bang, it works.
 >
@@ -930,7 +919,7 @@ created: 2026-05-02
 >
 > **[5:50](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/loading-sample-data?u=76281980&t=350)** You can see as we scroll down it read in all of those fields, right?
 >
-> **[5:54](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/loading-sample-data?u=76281980&t=354)** You have some of the metadata, the id, the index, et cetera, and then you have the the account number address on all the other bits of data that we actually sent over.
+> **[5:54](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/loading-sample-data?u=76281980&t=354)** You have some of the [[Metadata]], the id, the index, et cetera, and then you have the the account number address on all the other bits of data that we actually sent over.
 >
 > **[6:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/loading-sample-data?u=76281980&t=360)** So, you can change some of these things, it tells you the data types, if it can be aggregated, et cetera.
 >
@@ -938,7 +927,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Elasticsearch]] (9), [[Windows]] (3), hit (3), api (3)
+> **Frameworks & Libraries:** [[Elasticsearch]] (9), [[Windows]] (3), [[Ubuntu]] (2), [[JSON]] (2), [[Linux]] (1)
 > **CLI Commands:** curl (2), make (2), cd (1)
 > **Env Vars:** api (3)
 > **UI Navigation:** scroll down (2), click on (1)
@@ -947,12 +936,11 @@ created: 2026-05-02
 > **File Paths:** accounts.json (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/setting-data-types?u=76281980)
+#### [Setting data types](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/setting-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/setting-data-types?u=76281980&t=0)** - [Instructor] When it comes to data types in Elasticsearch, there are four main categories that I want to cover.
+> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/setting-data-types?u=76281980&t=0)** - [Instructor] When it comes to data types in [[Elasticsearch]], there are four main categories that I want to cover.
 >
 > **[0:05](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/setting-data-types?u=76281980&t=5)** First, we have our Core data types and these are the ones you might be familiar with, such as Text, Numeric, Boolean, Binary, and Range.
 >
@@ -960,9 +948,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/setting-data-types?u=76281980&t=16)** However, there are some additional types, such as Complex data types.
 >
-> **[0:20](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/setting-data-types?u=76281980&t=20)** A Complex data type is typically represented as an array or an object, or even a nested array of JSON objects.
+> **[0:20](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/setting-data-types?u=76281980&t=20)** A Complex data type is typically represented as an array or an object, or even a nested array of [[JSON]] objects.
 >
-> **[0:27](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/setting-data-types?u=76281980&t=27)** If you're familiar with things like Hadoop and Hive, the Big Data platforms out there, you're probably familiar with this structure because these things show up all over the place in the Big Data world.
+> **[0:27](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/setting-data-types?u=76281980&t=27)** If you're familiar with things like [[Hadoop]] and Hive, the [[Big Data]] platforms out there, you're probably familiar with this structure because these things show up all over the place in the Big Data world.
 >
 > **[0:37](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/setting-data-types?u=76281980&t=37)** Elasticsearch also provides geo_point and geo_shape data types.
 >
@@ -972,7 +960,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/setting-data-types?u=76281980&t=47)** These are the actual points and architectures that you need to draw a shape on a screen, or in an app.
 >
-> **[0:53](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/setting-data-types?u=76281980&t=53)** There are also some Specialized data types in Elasticsearch for handling things such as IP addresses, auto-complete suggestions on a website, and things like tokens that live in a string.
+> **[0:53](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/setting-data-types?u=76281980&t=53)** There are also some Specialized data types in Elasticsearch for handling things such as IP addresses, auto-complete suggestions on a website, and things like [[Tokens]] that live in a string.
 >
 > **[1:02](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/setting-data-types?u=76281980&t=62)** We won't go deep into any of those in this course, but I thought it'd be helpful for you to know about them in case you come across them in your day-to-day work.
 >
@@ -1010,7 +998,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/setting-data-types?u=76281980&t=163)** So first, I'm going to browse over to the folder in my terminal window here.
 >
-> **[2:47](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/setting-data-types?u=76281980&t=167)** I'm on Windows with Ubuntu running so that's why it looks funky.
+> **[2:47](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/setting-data-types?u=76281980&t=167)** I'm on [[Windows]] with [[Ubuntu]] running so that's why it looks funky.
 >
 > **[2:51](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/setting-data-types?u=76281980&t=171)** If you're on a Mac, it may to be a little bit different, but these commands should all work the same.
 >
@@ -1154,7 +1142,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (47), [[Elasticsearch]] (9), [[JSON]] (4), api (3), hit (3)
+> **Frameworks & Libraries:** [[Elasticsearch]] (9), [[JSON]] (4), [[Big Data]] (2), [[Hadoop]] (1), [[Tokens]] (1)
 > **Code Identifiers:** geo_point (5), geo_shape (2), play_name (2), speech_number (2), geo_points (1)
 > **CLI Commands:** curl (5), cat (2), ls (1), make (1)
 > **Env Vars:** api (3), post (2), json (1), url (1), scene (1)
@@ -1168,14 +1156,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Simple queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/simple-queries?u=76281980)
+#### [Simple queries](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/simple-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/simple-queries?u=76281980&t=0)** - [Instructor] So one of the really cool features and one of the main benefits of using a platform like Elasticsearch with Kibana is the ability to run queries and have its engine figure out what you're looking for.
+> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/simple-queries?u=76281980&t=0)** - [Instructor] So one of the really cool features and one of the main benefits of using a platform like [[Elasticsearch]] with Kibana is the ability to run queries and have its engine figure out what you're looking for.
 >
-> **[0:11](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/simple-queries?u=76281980&t=11)** Sort of like a SQL engine for a database.
+> **[0:11](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/simple-queries?u=76281980&t=11)** Sort of like a [[SQL]] engine for a database.
 >
 > **[0:14](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/simple-queries?u=76281980&t=14)** But here we're talking documents and search queries.
 >
@@ -1227,7 +1214,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/simple-queries?u=76281980&t=118)** So this is just one of the most basic ways on how to run a query against our documents in our Elasticsearch database.
 >
-> **[2:06](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/simple-queries?u=76281980&t=126)** Now if you're familiar with databases and SQL stuff like that this would be very simple like having a where clause.
+> **[2:06](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/simple-queries?u=76281980&t=126)** Now if you're familiar with [[Databases]] and SQL stuff like that this would be very simple like having a where clause.
 >
 > **[2:12](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/simple-queries?u=76281980&t=132)** So if we want to extend this capability and write a bit more of a complex query, we have some other ways to do that.
 >
@@ -1257,7 +1244,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/simple-queries?u=76281980&t=191)** So essentially this query right now is doing the same thing as the previous one.
 >
-> **[3:15](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/simple-queries?u=76281980&t=195)** And I'm just going to kind of bring this up so it's easier to read 'cause it'll make more sense once we have the rest of it there.
+> **[3:15](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/simple-queries?u=76281980&t=195)** And I'm just going to kind of bring this up so it's easier to read 'cause it'll make more sense once we have the [[Representational State Transfer (REST)|rest]] of it there.
 >
 > **[3:22](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/simple-queries?u=76281980&t=202)** So at the end of this one I'm going to put a comma and now I'm going to do another match condition.
 >
@@ -1265,7 +1252,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/simple-queries?u=76281980&t=209)** So here I'm going to add my second clause, if you will, and it's going to say match.
 >
-> **[3:34](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/simple-queries?u=76281980&t=214)** In fact, I need to first give it a curly brace and then type the word match.
+> **[3:34](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/simple-queries?u=76281980&t=214)** In fact, I need to first give it a curly brace and then type the [[Microsoft Word|word]] match.
 >
 > **[3:39](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/simple-queries?u=76281980&t=219)** There we go.
 >
@@ -1383,7 +1370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (9), [[Elasticsearch]] (6), data (6), hit (6), api (4)
+> **Frameworks & Libraries:** [[Elasticsearch]] (6), [[SQL]] (2), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** api (4), sql (2)
 > **Definitions:** is a  (2), is called (1)
@@ -1392,14 +1379,13 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Term-level queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/term-level-queries?u=76281980)
+#### [Term-level queries](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/term-level-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/term-level-queries?u=76281980&t=0)** - [Instructor] Okay, this is 04_02 term level queries.
 >
-> **[0:05](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/term-level-queries?u=76281980&t=5)** In addition to match queries, we also have another way that we can issue queries or another type of query that we can use with Elasticsearch in Kibana.
+> **[0:05](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/term-level-queries?u=76281980&t=5)** In addition to match queries, we also have another way that we can issue queries or another type of query that we can use with [[Elasticsearch]] in Kibana.
 >
 > **[0:14](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/term-level-queries?u=76281980&t=14)** So we'd already know the one we've done before.
 >
@@ -1527,15 +1513,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), data (4), [[Elasticsearch]] (2), api (2), hit (2)
+> **Frameworks & Libraries:** [[Elasticsearch]] (2)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (2), find (2)
 > **API Endpoints:** get  (3)
 > **Env Vars:** api (2)
 > **Speakers:** - [instructor] (1)
 
-#### Analysis and tokenization
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/analysis-and-tokenization?u=76281980)
+#### [Analysis and tokenization](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/analysis-and-tokenization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1575,9 +1560,9 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/analysis-and-tokenization?u=76281980&t=81)** We're going to analyze what's actually happening when it wants to parse the data that was passed in, parse the query.
 >
-> **[1:28](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/analysis-and-tokenization?u=76281980&t=88)** So you can see that it created tokens.
+> **[1:28](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/analysis-and-tokenization?u=76281980&t=88)** So you can see that it created [[Tokens]].
 >
-> **[1:31](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/analysis-and-tokenization?u=76281980&t=91)** And the tokens here are for every single word, right?
+> **[1:31](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/analysis-and-tokenization?u=76281980&t=91)** And the tokens here are for every single [[Microsoft Word|word]], right?
 >
 > **[1:35](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/analysis-and-tokenization?u=76281980&t=95)** And you can also notice that it kept the capitalization.
 >
@@ -1601,7 +1586,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/analysis-and-tokenization?u=76281980&t=153)** So that is kind of a weird query coming in.
 >
-> **[2:37](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/analysis-and-tokenization?u=76281980&t=157)** And it speaks to how just even using the standard tokenizer, Elasticsearch here is able to parse it in a way that makes sense.
+> **[2:37](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/analysis-and-tokenization?u=76281980&t=157)** And it speaks to how just even using the standard tokenizer, [[Elasticsearch]] here is able to parse it in a way that makes sense.
 >
 > **[2:44](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/analysis-and-tokenization?u=76281980&t=164)** You're trying to get at what could the user possibly be querying for here?
 >
@@ -1713,7 +1698,7 @@ created: 2026-05-02
 >
 > **[7:24](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/analysis-and-tokenization?u=76281980&t=444)** So once again, let me run it here.
 >
-> **[7:26](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/analysis-and-tokenization?u=76281980&t=446)** It dropped the capital from the first letter and it kept the rest of the word.
+> **[7:26](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/analysis-and-tokenization?u=76281980&t=446)** It dropped the capital from the first letter and it kept the [[Representational State Transfer (REST)|rest]] of the word.
 >
 > **[7:32](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/analysis-and-tokenization?u=76281980&t=452)** But under english title it dropped that because that's how that analyzer works.
 >
@@ -1733,7 +1718,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Tokens]] (5), hit (4), [[Microsoft Word|Word]] (4), [[Elasticsearch]] (2)
+> **Frameworks & Libraries:** [[Tokens]] (5), [[Microsoft Word|Word]] (4), [[Elasticsearch]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **URLs:** [example.com](https://example.com) (2), [https://ben](https://ben) (1), [sullins.com](https://sullins.com) (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** url (2)
@@ -1747,12 +1732,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basic aggregations
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/basic-aggregations?u=76281980)
+#### [Basic aggregations](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/basic-aggregations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/basic-aggregations?u=76281980&t=0)** - [Instructor] All right, now we're going to have some fun here in Elasticsearch.
+> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/basic-aggregations?u=76281980&t=0)** - [Instructor] All right, now we're going to have some fun here in [[Elasticsearch]].
 >
 > **[0:04](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/basic-aggregations?u=76281980&t=4)** And what we're going to do is run queries, which are known as aggregations.
 >
@@ -1930,7 +1914,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Elasticsearch]] (4), hit (4), [[Search]] (3), api (2)
+> **Frameworks & Libraries:** [[Elasticsearch]] (4)
 > **Code Identifiers:** doc_count (3), avg_bal (1)
 > **CLI Commands:** find (1), make (1)
 > **API Endpoints:** get  (2)
@@ -1939,12 +1923,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** known as (1)
 
-#### Filtering aggregations
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/filtering-aggregations?u=76281980)
+#### [Filtering aggregations](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/filtering-aggregations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/filtering-aggregations?u=76281980&t=0)** - [Instructor] In addition to the basic aggregations that you can do using Elasticsearch and how easy and nice that is, you may want to filter or kind of give different slices of those aggregations.
+> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/filtering-aggregations?u=76281980&t=0)** - [Instructor] In addition to the basic aggregations that you can do using [[Elasticsearch]] and how easy and nice that is, you may want to filter or kind of give different slices of those aggregations.
 >
 > **[0:11](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/filtering-aggregations?u=76281980&t=11)** And that is possible using different filters on top of these aggregations.
 >
@@ -2026,11 +2009,11 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/filtering-aggregations?u=76281980&t=233)** And then it is adhering to our query, which has this Boolean operator and two different conditions we're giving it.
 >
-> **[4:01](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/filtering-aggregations?u=76281980&t=241)** So, you can really kind of combine and stack all the things we've been learning in this course to provide very relevant and very good results to your customers, whether that be a business person on a business intelligence kind of situation or an actual app or website.
+> **[4:01](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/filtering-aggregations?u=76281980&t=241)** So, you can really kind of combine and stack all the things we've been learning in this course to provide very relevant and very good results to your customers, whether that be a business person on a [[Business Intelligence (BI)|business intelligence]] kind of situation or an actual app or website.
 >
 > **[4:16](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/filtering-aggregations?u=76281980&t=256)** Now, another cool thing that you can do with this aggregation engine built in to Elasticsearch is perform aggregations at different levels.
 >
-> **[4:24](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/filtering-aggregations?u=76281980&t=264)** And so, this could be very difficult in other programming languages or other data platforms, say a SQL database or something.
+> **[4:24](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/filtering-aggregations?u=76281980&t=264)** And so, this could be very difficult in other programming languages or other data platforms, say a [[SQL]] database or something.
 >
 > **[4:31](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/filtering-aggregations?u=76281980&t=271)** So, I'm just going to paste this in, and I'll walk you through this last example here where what we're going to do is look at the state and global average.
 >
@@ -2066,7 +2049,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Elasticsearch]] (2), [[Search]] (2), hit (2), business (1)
+> **Frameworks & Libraries:** [[Elasticsearch]] (2), [[Business Intelligence (BI)|Business intelligence]] (1), [[SQL]] (1)
 > **Env Vars:** sql (1), api (1)
 > **Definitions:** essentially is (1), is a  (1)
 > **Analogies:** imagine (1), just like (1)
@@ -2074,16 +2057,15 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Percentiles and histograms
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/percentiles-and-histograms?u=76281980)
+#### [Percentiles and histograms](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/percentiles-and-histograms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/percentiles-and-histograms?u=76281980&t=0)** - [Instructor] Elasticsearch offers some advanced ways of analyzing data above and beyond your basic aggregation, such as min, max, average, or count.
+> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/percentiles-and-histograms?u=76281980&t=0)** - [Instructor] [[Elasticsearch]] offers some advanced ways of analyzing data above and beyond your basic aggregation, such as min, max, average, or count.
 >
 > **[0:10](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/percentiles-and-histograms?u=76281980&t=10)** So today, what we're going to look at is percentiles in histograms.
 >
-> **[0:15](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/percentiles-and-histograms?u=76281980&t=15)** If you're familiar with that from a statistics class or some kind of statistics background, this will all make sense to you, but, otherwise, I'll try to explain it and, kind of, keep it simple as to when you would use this type of analysis.
+> **[0:15](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/percentiles-and-histograms?u=76281980&t=15)** If you're familiar with that from a [[Statistics]] class or some kind of statistics background, this will all make sense to you, but, otherwise, I'll try to explain it and, kind of, keep it simple as to when you would use this type of analysis.
 >
 > **[0:26](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/percentiles-and-histograms?u=76281980&t=26)** Let's start here by looking at our search API for our bank index.
 >
@@ -2195,11 +2177,11 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/percentiles-and-histograms?u=76281980&t=283)** And you pass in these two fields here, and bang, you've got this really good dataset coming out.
 >
-> **[4:48](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/percentiles-and-histograms?u=76281980&t=288)** And that is one of the ways that you can use Elasticsearch for more advanced statistical analysis.
+> **[4:48](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/percentiles-and-histograms?u=76281980&t=288)** And that is one of the ways that you can use Elasticsearch for more advanced [[Statistical Analysis]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Statistics]] (4), [[Elasticsearch]] (3), [[Search]] (1), api (1)
+> **Frameworks & Libraries:** [[Statistics]] (4), [[Elasticsearch]] (3), [[Statistical Analysis]] (1)
 > **Code Identifiers:** percentile_ranks (2), pct_balances (1), bal_outlier (1)
 > **CLI Commands:** make (1), find (1)
 > **API Endpoints:** get  (2)
@@ -2213,12 +2195,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Kibana overview and setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/kibana-overview-and-setup?u=76281980)
+#### [Kibana overview and setup](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/kibana-overview-and-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/kibana-overview-and-setup?u=76281980&t=0)** - So, along with Elasticsearch, the actual engine that stores our documents, and allows us to use APIs to put data in and pull it back out and manipulate it, do all the fun things we've been doing, there is Kibana, which is a really great way to interact with this data in a visual kind of interface, one that doesn't require a lot of coding.
+> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/kibana-overview-and-setup?u=76281980&t=0)** - So, along with [[Elasticsearch]], the actual engine that stores our documents, and allows us to use APIs to put data in and pull it back out and manipulate it, do all the fun things we've been doing, there is Kibana, which is a really great way to interact with this data in a visual kind of interface, one that doesn't require a lot of coding.
 >
 > **[0:21](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/kibana-overview-and-setup?u=76281980&t=21)** So, to get set up here, the way I want to get this working for you, is to analyze some log data.
 >
@@ -2260,7 +2241,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/kibana-overview-and-setup?u=76281980&t=155)** I can click on Fields, I can see what's in them.
 >
-> **[2:38](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/kibana-overview-and-setup?u=76281980&t=158)** I can even pull in field statistics, if I want, where it looks at each of the individual ones and sees the distribution among them.
+> **[2:38](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/kibana-overview-and-setup?u=76281980&t=158)** I can even pull in field [[Statistics]], if I want, where it looks at each of the individual ones and sees the distribution among them.
 >
 > **[2:45](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/kibana-overview-and-setup?u=76281980&t=165)** I mean, there's just so much and it's so easy to just pop in here to individual documents, as well as to look at individual fields.
 >
@@ -2272,14 +2253,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), web (2), [[Analytics]] (2), cloud (2), [[Elasticsearch]] (1)
+> **Frameworks & Libraries:** [[Elasticsearch]] (1), [[Statistics]] (1)
 > **UI Navigation:** click on (3)
 > **Definitions:** is a  (2), is called (1)
 > **Prerequisites:** set up (2), setup (1)
 > **Speakers:** - so (1)
 
-#### Creating visualizations in Kibana
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/creating-visualizations-in-kibana?u=76281980)
+#### [Creating visualizations in Kibana](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/creating-visualizations-in-kibana?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2319,7 +2299,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/creating-visualizations-in-kibana?u=76281980&t=74)** Usually what we're looking for visually is the steepness of the angle between the two data points, not necessarily the dots or the size of the bars, whatever.
 >
-> **[1:23](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/creating-visualizations-in-kibana?u=76281980&t=83)** And so, you can do that here, and then of course we can change this if we wanted to, but for me, this is the simple way to create a time series analysis.
+> **[1:23](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/creating-visualizations-in-kibana?u=76281980&t=83)** And so, you can do that here, and then of course we can change this if we wanted to, but for me, this is the simple way to create a [[Time Series Analysis]].
 >
 > **[1:33](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/creating-visualizations-in-kibana?u=76281980&t=93)** So I'll click save here and I'll give it a title of Visits by Hour.
 >
@@ -2357,7 +2337,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/creating-visualizations-in-kibana?u=76281980&t=142)** And so now I'm here, it created a new layer, and within that layer I can do some things.
 >
-> **[2:27](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/creating-visualizations-in-kibana?u=76281980&t=147)** So I'm going to zoom in here.
+> **[2:27](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/creating-visualizations-in-kibana?u=76281980&t=147)** So I'm going to [[Zoom]] in here.
 >
 > **[2:29](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/creating-visualizations-in-kibana?u=76281980&t=149)** We're a US-based company in this example.
 >
@@ -2523,7 +2503,7 @@ created: 2026-05-02
 >
 > **[7:49](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/creating-visualizations-in-kibana?u=76281980&t=469)** And this new Lens feature is really great.
 >
-> **[7:51](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/creating-visualizations-in-kibana?u=76281980&t=471)** It's almost Tableau-esque, if you're familiar with Tableau.
+> **[7:51](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/creating-visualizations-in-kibana?u=76281980&t=471)** It's almost [[Tableau]]-esque, if you're familiar with Tableau.
 >
 > **[7:54](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/creating-visualizations-in-kibana?u=76281980&t=474)** But play around with this.
 >
@@ -2533,7 +2513,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Zoom]] (4), feature (2), traffic (2), [[Tableau]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[Tableau]] (2), [[Time Series Analysis]] (1)
 > **UI Navigation:** click on (10)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** kpi (4)
@@ -2542,12 +2522,11 @@ created: 2026-05-02
 > **Analogies:** for example (1), kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating dashboards in Kibana
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/creating-dashboards-in-kibana?u=76281980)
+#### [Creating dashboards in Kibana](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/creating-dashboards-in-kibana?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/creating-dashboards-in-kibana?u=76281980&t=0)** - [Instructor] Another great feature in Kibana is the ability to create dashboards.
+> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/creating-dashboards-in-kibana?u=76281980&t=0)** - [Instructor] Another great feature in Kibana is the ability to create [[Dashboards]].
 >
 > **[0:04](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/creating-dashboards-in-kibana?u=76281980&t=4)** So we already have bevy of wonderful data visualizations here, and what I want to do is essentially combine those to a single page, that is essentially what the definition of a dashboard is.
 >
@@ -2655,7 +2634,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/creating-dashboards-in-kibana?u=76281980&t=181)** Really beautiful.
 >
-> **[3:02](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/creating-dashboards-in-kibana?u=76281980&t=182)** As the data flows into Elasticsearch, this would automatically update.
+> **[3:02](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/creating-dashboards-in-kibana?u=76281980&t=182)** As the data flows into [[Elasticsearch]], this would automatically update.
 >
 > **[3:06](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/creating-dashboards-in-kibana?u=76281980&t=186)** I have these dates specifically set here because we know we're just working with some sample data, but this could also be dynamically generated to be today, this week, last 15 minutes, et cetera, so it is pretty powerful.
 >
@@ -2681,7 +2660,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Dashboards]] (2), next (2), traffic (2), feature (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Elasticsearch]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** pdf (1), png (1)
 > **UI Navigation:** dropdown (1)
@@ -2693,20 +2672,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps with Elasticsearch
-> [LinkedIn Learning](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/next-steps-with-elasticsearch?u=76281980)
+#### [Next steps with Elasticsearch](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/next-steps-with-elasticsearch?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/next-steps-with-elasticsearch?u=76281980&t=0)** - As we've seen, Elasticsearch is much more than just a search engine.
+> **[0:00](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/next-steps-with-elasticsearch?u=76281980&t=0)** - As we've seen, [[Elasticsearch]] is much more than just a search engine.
 >
-> **[0:04](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/next-steps-with-elasticsearch?u=76281980&t=4)** In fact, many data analysts, DevOps professionals, and marketing professionals rely on Elasticsearch daily for their work.
+> **[0:04](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/next-steps-with-elasticsearch?u=76281980&t=4)** In fact, many data analysts, [[DevOps]] professionals, and marketing professionals rely on Elasticsearch daily for their work.
 >
 > **[0:10](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/next-steps-with-elasticsearch?u=76281980&t=10)** The journey isn't over, however.
 >
 > **[0:12](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/next-steps-with-elasticsearch?u=76281980&t=12)** There are many more concepts, tools, and platforms to understand before you become truly experienced in this platform.
 >
-> **[0:19](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/next-steps-with-elasticsearch?u=76281980&t=19)** To continue this journey, I recommend checking out other related courses, such as Data Science Foundations: Data Engineering, SQL Tips Tricks and Techniques, Analyzing Big Data with Hive, and any of the top 10 courses I have out there, such as the ones on computational linguistics, machine learning, or business intelligence.
+> **[0:19](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/next-steps-with-elasticsearch?u=76281980&t=19)** To continue this journey, I recommend checking out other related courses, such as [[Data Science Foundations]]: [[Data Engineering]], [[SQL]] Tips Tricks and Techniques, Analyzing [[Big Data]] with Hive, and any of the top 10 courses I have out there, such as the ones on computational linguistics, machine learning, or [[Business Intelligence (BI)|business intelligence]].
 >
 > **[0:38](https://www.linkedin.com/learning/elasticsearch-essential-training-2023/next-steps-with-elasticsearch?u=76281980&t=38)** With the skills you've learned here, and that you'll get with these additional courses, you are well on your way to becoming a truly powerful data scientist.
 >
@@ -2716,7 +2694,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Elasticsearch]] (2), [[Search]] (1), [[DevOps]] (1), [[Data Science Foundations]] (1)
+> **Frameworks & Libraries:** [[Elasticsearch]] (2), [[DevOps]] (1), [[Data Science Foundations]] (1), [[Data Engineering]] (1), [[SQL]] (1)
 > **Analogies:** such as (2)
 > **Env Vars:** sql (1)
 > **Speakers:** - as (1)

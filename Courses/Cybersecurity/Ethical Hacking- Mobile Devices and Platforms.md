@@ -89,8 +89,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Keeping your mobile devices safe
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/keeping-your-mobile-devices-safe?u=76281980)
+#### [Keeping your mobile devices safe](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/keeping-your-mobile-devices-safe?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -110,26 +109,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Security]] (1), career (1)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
 
-#### Before watching this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/before-watching-this-course-2?u=76281980)
+#### [Before watching this course](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/before-watching-this-course-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/before-watching-this-course-2?u=76281980&t=0)** - [Narrator] This is a practical course, and during this course, I'll be mainly using Windows-based tools to interact with the mobile devices.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/before-watching-this-course-2?u=76281980&t=0)** - [Narrator] This is a practical course, and during this course, I'll be mainly using [[Windows]]-based tools to interact with the mobile devices.
 >
-> **[0:08](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/before-watching-this-course-2?u=76281980&t=8)** I'll also be using the VirtualBox environment to run a Ubuntu GNOME virtual machine.
+> **[0:08](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/before-watching-this-course-2?u=76281980&t=8)** I'll also be using the VirtualBox environment to run a [[Ubuntu]] GNOME virtual machine.
 >
 > **[0:14](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/before-watching-this-course-2?u=76281980&t=14)** And I'll be running applications at the command line on the mobile devices.
 >
-> **[0:18](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/before-watching-this-course-2?u=76281980&t=18)** Below the user interface, these are Linux-based systems.
+> **[0:18](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/before-watching-this-course-2?u=76281980&t=18)** Below the user interface, these are [[Linux]]-based systems.
 >
 > **[0:22](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/before-watching-this-course-2?u=76281980&t=22)** You should be competent in computer, network and mobile technologies, and be familiar with the basic Windows and Linux command line interfaces.
 >
-> **[0:30](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/before-watching-this-course-2?u=76281980&t=30)** We'll use software tools for the Android testing, but you'll require an iPhone or iPad that can be jailbroken and used for iOS testing and preferably not one that you use for your personal or work activities.
+> **[0:30](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/before-watching-this-course-2?u=76281980&t=30)** We'll use software tools for the [[Android]] testing, but you'll require an iPhone or iPad that can be jailbroken and used for iOS testing and preferably not one that you use for your personal or work activities.
 
 > [!info]- Semantic Content
 >
@@ -140,14 +137,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Course disclaimer
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/course-disclaimer-2?u=76281980)
+#### [Course disclaimer](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/course-disclaimer-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/course-disclaimer-2?u=76281980&t=0)** - [Narrator] This is one of a series of ethical hacking courses, and it uses a range of third-party testing tools.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/course-disclaimer-2?u=76281980&t=0)** - [Narrator] This is one of a series of [[Ethical Hacking]] courses, and it uses a range of third-party testing tools.
 >
-> **[0:06](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/course-disclaimer-2?u=76281980&t=6)** Some are commercial products and some are open-source.
+> **[0:06](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/course-disclaimer-2?u=76281980&t=6)** Some are commercial [[Microsoft Products|products]] and some are open-source.
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/course-disclaimer-2?u=76281980&t=10)** The download and installation instructions for all tools used in this course is available as a PDF in the associated course material.
 >
@@ -165,7 +161,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethical Hacking]] (1), [[Microsoft Products|Products]] (1), open-source (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** pdf (1)
 > **Speakers:** - [narrator] (1)
 
@@ -174,8 +170,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand and test for mobile vulnerabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980)
+#### [Understand and test for mobile vulnerabilities](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -187,11 +182,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980&t=26)** The challenge of achieving non-intrusive security is most pronounced on mobile platforms, and the many flaws found over the last few years have squashed any idea that the mobile operating systems are somehow less vulnerable than their IT counterparts, all of which goes to make the job of the security tester critical to the continuing growth and success of mobile device use.
 >
-> **[0:53](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980&t=53)** The Open Web Application Security Project, OWASP, started life by providing a framework and tools for testing web applications.
+> **[0:53](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980&t=53)** The Open [[Web Application Security]] Project, [[OWASP]], started life by providing a framework and tools for testing web applications.
 >
-> **[1:03](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980&t=63)** However, its tremendous success spurred the creation of additional security testing projects in mobile, and more recently, Internet of Things.
+> **[1:03](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980&t=63)** However, its tremendous success spurred the creation of additional [[Security Testing]] projects in mobile, and more recently, [[IoT|Internet of Things]].
 >
-> **[1:12](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980&t=72)** The OWASP Mobile Security Project, whose web page is shown here, is a good place to start in looking at the threats to mobile applications and the best practices in mobile device and application security.
+> **[1:12](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980&t=72)** The OWASP Mobile Security Project, whose web page is shown here, is a good place to start in looking at the threats to mobile applications and the best practices in mobile device and [[Application Security]].
 >
 > **[1:26](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980&t=86)** OWASP maintains a list of mobile threats that should be checked, and a key deliverable from the OWASP project is the top 10 threats list.
 >
@@ -203,9 +198,9 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980&t=110)** Improper platform usage.
 >
-> **[1:53](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980&t=113)** This category covers the misuse of a platform feature or failure to use platform security controls, including Android intents, platform permissions, misuse of touch ID, the Keychain and other security controls in the mobile operating system.
+> **[1:53](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980&t=113)** This category covers the misuse of a platform feature or failure to use platform security controls, including [[Android]] intents, platform permissions, misuse of touch ID, the Keychain and other security controls in the mobile operating system.
 >
-> **[2:12](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980&t=132)** Insecure data storage combines two of the threats from the 2014 top 10 insecure data storage and unintended data leakage.
+> **[2:12](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980&t=132)** Insecure [[Data Storage]] combines two of the threats from the 2014 top 10 insecure data storage and unintended data leakage.
 >
 > **[2:22](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980&t=142)** Unfortunately, there are far too many ways in which these issues can occur.
 >
@@ -219,13 +214,13 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980&t=187)** This can include failing to identify the user and to correctly maintain the user's identity throughout the session.
 >
-> **[3:15](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980&t=195)** Insufficient cryptography.
+> **[3:15](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980&t=195)** Insufficient [[Cryptography]].
 >
 > **[3:17](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980&t=197)** This issue is highlighted with a weakness found in MD4 and MD5 some years ago.
 >
 > **[3:23](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980&t=203)** But in general, cryptography is an area of significant concern because it's extremely difficult to design and code good cryptographic systems.
 >
-> **[3:31](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980&t=211)** Then the proprietary algorithms should be approached with suspicion.
+> **[3:31](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980&t=211)** Then the proprietary [[Algorithms]] should be approached with suspicion.
 >
 > **[3:36](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understand-and-test-for-mobile-vulnerabilities?u=76281980&t=216)** Insecure authorization includes all threats related to failures in authorization, specifically to user-restricted function or access-controlled data.
 >
@@ -283,7 +278,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), [[OWASP]] (6), application (6), data (5), mobile application (3)
+> **Frameworks & Libraries:** [[OWASP]] (6), [[Data Storage]] (2), [[Cryptography]] (2), [[Web Application Security]] (1), [[Security Testing]] (1)
 > **Env Vars:** owasp (6), ssl (1), md4 (1), md5 (1)
 > **Definitions:** is a  (3), is an  (2), known as (1)
 > **Analogies:** such as (3)
@@ -291,8 +286,7 @@ created: 2026-05-02
 > **Code Identifiers:** iphone (1)
 > **Speakers:** - [instructor] (1)
 
-#### Static analysis of applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980)
+#### [Static analysis of applications](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -314,7 +308,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=71)** It's useful for the tester to identify and understand the full set of network interfaces used by the application across cellular, wifi, Bluetooth and near-field communication services.
 >
-> **[1:22](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=82)** These all have different characteristics, and potentially introduce different forms of threats.
+> **[1:22](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=82)** These all have different characteristics, and potentially introduce different [[Forms]] of threats.
 >
 > **[1:27](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=87)** The types of networking protocols used by the application are important areas of focus for the tester, as these may introduce security features, or may introduce security risks.
 >
@@ -326,9 +320,9 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=122)** Traditional sources of risk include applications which access the address book, messages and email, however, business and social media applications may also include information of a quite sensitive nature.
 >
-> **[2:15](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=135)** Any interaction with other applications on the platform, and especially those which link to Cloud services or payment gateways, will need to be reviewed.
+> **[2:15](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=135)** Any interaction with other applications on the platform, and especially those which link to [[Cloud Services]] or payment gateways, will need to be reviewed.
 >
-> **[2:23](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=143)** The tester will be interested in various aspects of the server-side environment, such as the hosting provider, authentication services, payment gateway services, as well as an understanding of the application development environment.
+> **[2:23](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=143)** The tester will be interested in various aspects of the server-side environment, such as the hosting provider, authentication services, payment gateway services, as well as an understanding of the [[Application Development]] environment.
 >
 > **[2:37](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=157)** The tester should review the permissions used by the application, the libraries in use, and any information relating to security weaknesses in those libraries.
 >
@@ -354,23 +348,23 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=260)** Understanding the sensitivity of the data being processed, such as credit card numbers, bank account details, medical data and so on, is important when assessing the effectiveness of data protection.
 >
-> **[4:31](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=271)** Testing is particularly important where the data is stored on devices which are or can be taken outside of the application environment, such as Cloud storage, SD cards and so on.
+> **[4:31](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=271)** Testing is particularly important where the data is stored on devices which are or can be taken outside of the application environment, such as [[Cloud Storage]], SD cards and so on.
 >
 > **[4:42](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=282)** Data stored in logs and in cash locations is also a common source of risk.
 >
-> **[4:48](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=288)** Testing mobile websites differs little from testing browser websites, and the OWASP guidance is a good start.
+> **[4:48](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=288)** Testing mobile websites differs little from testing browser websites, and the [[OWASP]] guidance is a good start.
 >
-> **[4:55](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=295)** There are countless issues to consider, from cross-site scripting and HTML injection to cookies and cross-domain policies.
+> **[4:55](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=295)** There are countless issues to consider, from cross-site scripting and [[HTML]] injection to cookies and cross-domain policies.
 >
-> **[5:02](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=302)** OWASP provides 12 categories of testing within their Web Application Penetration Testing Methodology.
+> **[5:02](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=302)** OWASP provides 12 categories of testing within their Web Application [[Penetration Testing]] Methodology.
 >
-> **[5:09](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=309)** Any vectors which might allow SQL and XML injection need to be identified and tested.
+> **[5:09](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=309)** Any vectors which might allow [[SQL]] and XML injection need to be identified and tested.
 >
 > **[5:14](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=314)** Where an application uses a shell, the tester needs to look for ways to inject arbitrary system commands or modify intended commands.
 >
 > **[5:22](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=322)** Encryption of data is a potential area of findings for testers.
 >
-> **[5:27](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=327)** Two key areas of interest in mobile testing are random number generators and certificate management.
+> **[5:27](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=327)** Two key areas of interest in [[Mobile Testing]] are random number generators and certificate management.
 >
 > **[5:34](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=334)** An additional security feature which is used in mobile apps is pinning, an application may optionally implement either certificate pinning or public key pinning.
 >
@@ -378,7 +372,7 @@ created: 2026-05-02
 >
 > **[5:56](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=356)** The downside of pinning certificates is that when a certificate expires and is renewed, pinning has to be updated.
 >
-> **[6:03](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=363)** Google rotates its service certificates regularly, for example.
+> **[6:03](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=363)** [[Google]] rotates its service certificates regularly, for example.
 >
 > **[6:07](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/static-analysis-of-applications-2?u=76281980&t=367)** Pinning public keys is a little harder to implement, but key rotation is not as much an issue.
 >
@@ -386,19 +380,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (17), data (9), [[Security]] (7), business (3), [[OWASP]] (3)
+> **Frameworks & Libraries:** [[OWASP]] (3), [[Forms]] (1), [[Cloud Services]] (1), [[Application Development]] (1), [[Cloud Storage]] (1)
 > **Env Vars:** owasp (3), gps (1), usb (1), api (1), html (1)
 > **Analogies:** such as (6), for example (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Exercise Files:** source code (2)
 > **Speakers:** - [narrator] (1)
 
-#### Dynamic analysis of applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-applications-2?u=76281980)
+#### [Dynamic analysis of applications](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-applications-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-applications-2?u=76281980&t=0)** - [Instructor] The second stage of security testing for mobile devices is called dynamic analysis.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-applications-2?u=76281980&t=0)** - [Instructor] The second stage of [[Security Testing]] for mobile devices is called dynamic analysis.
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-applications-2?u=76281980&t=5)** This is focused on looking at what the application does while it's running and what happens to the device storage between starting the application and closing the application.
 >
@@ -414,7 +407,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-applications-2?u=76281980&t=58)** As with any application, the tester will look for ways to bypass or subvert credential entry and object access controls, including brute force attacks where viable.
 >
-> **[1:08](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-applications-2?u=76281980&t=68)** Web testing relevant to the application functionality needs to be done, including testing to determine whether client-side JavaScript code or malicious HTML or XML can be injected into the application.
+> **[1:08](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-applications-2?u=76281980&t=68)** Web testing relevant to the application functionality needs to be done, including testing to determine whether client-side [[JavaScript]] code or malicious [[HTML]] or XML can be injected into the application.
 >
 > **[1:22](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-applications-2?u=76281980&t=82)** The tester will check the potential for malformation of user and service input into the application and any effect that might have.
 >
@@ -430,18 +423,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (13), data (3), [[Security]] (1), web (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Security Testing]] (1), [[JavaScript]] (1), [[HTML]] (1)
 > **Env Vars:** imei (1), html (1), xml (1)
 > **Definitions:** is called (1), is an  (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mobile web testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/mobile-web-testing?u=76281980)
+#### [Mobile web testing](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/mobile-web-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/mobile-web-testing?u=76281980&t=0)** - [Instructor] When we're testing websites, we'll often use a tool such as Burp Suite to intercept web traffic and allow us to inspect the web messages, change them and insert new ones.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/mobile-web-testing?u=76281980&t=0)** - [Instructor] When we're testing websites, we'll often use a tool such as [[Burp Suite]] to intercept web traffic and allow us to inspect the web messages, change them and insert new ones.
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/mobile-web-testing?u=76281980&t=10)** We can do the same with our mobile apps.
 >
@@ -449,7 +441,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/mobile-web-testing?u=76281980&t=18)** When we use Burp Suite as a proxy, that traffic goes from the mobile app into Burp Suite and is then sent on to the backend application.
 >
-> **[0:27](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/mobile-web-testing?u=76281980&t=27)** Let's take a quick look at how we set up the Android phone to proxy.
+> **[0:27](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/mobile-web-testing?u=76281980&t=27)** Let's take a quick look at how we set up the [[Android]] phone to proxy.
 >
 > **[0:31](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/mobile-web-testing?u=76281980&t=31)** We can get to the proxy settings by long pressing the network name and selecting Modify Network.
 >
@@ -463,7 +455,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Burp Suite]] (5), web (5), traffic (4), application (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Burp Suite]] (5), [[Android]] (1)
 > **Prerequisites:** set up (1), setup (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
@@ -474,12 +466,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the Android operating system
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980)
+#### [Understanding the Android operating system](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980&t=1)** - [Instructor] Android was first released by Google in 2008, is based on the Linux kernel, and typically runs on an ARM processor.
+> **[0:01](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980&t=1)** - [Instructor] [[Android]] was first released by [[Google]] in 2008, is based on the [[Linux]] kernel, and typically runs on an ARM processor.
 >
 > **[0:09](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980&t=9)** The Android operating systems have whimsical names, with the first Android 4 release being called Jellybean and a later release, KitKat.
 >
@@ -505,11 +496,11 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980&t=75)** One of the main changes is making security application-centric rather than user-centric, allowing for proper sandboxing of applications.
 >
-> **[1:25](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980&t=85)** An Android mobile device consists of a hardware platform, on top of which is the Android implementation of the Linux kernel.
+> **[1:25](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980&t=85)** An Android mobile device consists of a [[Hardware]] platform, on top of which is the Android implementation of the Linux kernel.
 >
 > **[1:32](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980&t=92)** And above that, the Android runtime environment and libraries.
 >
-> **[1:36](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980&t=96)** Pre-installed and user-installed applications, typically in Java, run in the runtime environment and use the application framework for accessing user-level system resources.
+> **[1:36](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980&t=96)** Pre-installed and user-installed applications, typically in [[Java]], run in the runtime environment and use the application framework for accessing user-level system resources.
 >
 > **[1:48](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980&t=108)** The Linux kernel is the core part of the operating system that mediates access to system resources.
 >
@@ -541,7 +532,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980&t=221)** I've downloaded an app called Peggo to my testing folder.
 >
-> **[3:45](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980&t=225)** While this isn't recognized in Windows, we can change the application extension to zip.
+> **[3:45](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980&t=225)** While this isn't recognized in [[Windows]], we can change the application extension to zip.
 >
 > **[4:02](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980&t=242)** Now let's have a look at it.
 >
@@ -563,11 +554,11 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980&t=295)** Code runs either as an application, which has a user interface and typically interacts with the user, or a service, which has no graphical user interface and is typically used for long-running background tasks.
 >
-> **[5:08](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980&t=308)** In addition, there are two forms of helper routines.
+> **[5:08](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980&t=308)** In addition, there are two [[Forms]] of helper routines.
 >
 > **[5:11](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980&t=311)** The first is a broadcast receiver, which allows the application to register for specific events, which will then be passed to it for action.
 >
-> **[5:20](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980&t=320)** The second is a content provider, which interfaces between an application and file storage, and provides an SQL-like interface to read, write, modify, and delete data.
+> **[5:20](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980&t=320)** The second is a content provider, which interfaces between an application and file storage, and provides an [[SQL]]-like interface to read, write, modify, and delete data.
 >
 > **[5:33](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-operating-system-22400547?u=76281980&t=333)** SQLite is a common database service accessed via a content provider.
 >
@@ -593,7 +584,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (27), application (19), [[Linux]] (10), [[Security]] (3), [[Google]] (2)
+> **Frameworks & Libraries:** [[Android]] (27), [[Linux]] (10), [[Google]] (2), [[Hardware]] (2), [[Java]] (2)
 > **Definitions:** is a  (4), known as (1), is called (1)
 > **Env Vars:** arm (1), cpu (1), aot (1), sql (1)
 > **CLI Commands:** chmod (1), ls (1)
@@ -602,18 +593,17 @@ created: 2026-05-02
 > **File Paths:** androidmanifest.xml (1)
 > **Documentation:** specification (1)
 
-#### Understanding the Android security model
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-security-model?u=76281980)
+#### [Understanding the Android security model](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-security-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-security-model?u=76281980&t=1)** - [Instructor] The Android security model takes a different perspective from Linux by assuming that the trust boundary is a single application rather than a single user.
+> **[0:01](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-security-model?u=76281980&t=1)** - [Instructor] The [[Android]] security model takes a different perspective from [[Linux]] by assuming that the trust boundary is a single application rather than a single user.
 >
-> **[0:12](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-security-model?u=76281980&t=12)** The model builds on this by providing a sandboxed environment for applications, and the next explicit means of allowing interactions between the mobile hardware, the user, and the application.
+> **[0:12](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-security-model?u=76281980&t=12)** The model builds on this by providing a sandboxed environment for applications, and the next explicit means of allowing interactions between the mobile [[Hardware]], the user, and the application.
 >
 > **[0:23](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-security-model?u=76281980&t=23)** It also introduces the concept of signing applications to ensure trusted provenance.
 >
-> **[0:30](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-security-model?u=76281980&t=30)** Android applications are available from the Google Play Store, and this is the primary trusted source with over a million applications available.
+> **[0:30](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-security-model?u=76281980&t=30)** Android applications are available from the [[Google]] Play Store, and this is the primary trusted source with over a million applications available.
 >
 > **[0:38](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-security-model?u=76281980&t=38)** However, there are many other sources of Android applications which can be used including vendor-specific application repositories.
 >
@@ -681,33 +671,32 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-security-model?u=76281980&t=258)** Android 11 brought in more permissions, and auto reset application permissions after a period in months of inactivity.
 >
-> **[4:28](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-security-model?u=76281980&t=268)** A privacy dashboard was introduced in Android 12.
+> **[4:28](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-security-model?u=76281980&t=268)** A [[Privacy]] dashboard was introduced in Android 12.
 >
-> **[4:31](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-security-model?u=76281980&t=271)** There was no significant security added in Android 13, but there is a suggestion that Android 14 will block the installation of old applications, which are based on the less secure older software development kits.
+> **[4:31](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/understanding-the-android-security-model?u=76281980&t=271)** There was no significant security added in Android 13, but there is a suggestion that Android 14 will block the installation of old applications, which are based on the less secure older [[Software Development]] kits.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (19), application (18), data (8), [[Security]] (5), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Android]] (19), [[Linux]] (1), [[Hardware]] (1), [[Google]] (1), [[Privacy]] (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** wpa3 (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preparing for Android testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/preparing-for-android-testing-2?u=76281980)
+#### [Preparing for Android testing](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/preparing-for-android-testing-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/preparing-for-android-testing-2?u=76281980&t=0)** - [Instructor] There are two environments that we need to install to enable Android testing.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/preparing-for-android-testing-2?u=76281980&t=0)** - [Instructor] There are two environments that we need to install to enable [[Android]] testing.
 >
-> **[0:05](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/preparing-for-android-testing-2?u=76281980&t=5)** The first of these is the Java SDK, available from the Oracle site shown here.
+> **[0:05](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/preparing-for-android-testing-2?u=76281980&t=5)** The first of these is the [[Java]] SDK, available from the Oracle site shown here.
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/preparing-for-android-testing-2?u=76281980&t=10)** There's a number of options available for download and either 8.01 or 8.02 will be fine.
 >
 > **[0:16](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/preparing-for-android-testing-2?u=76281980&t=16)** Select the option for you and download it.
 >
-> **[0:19](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/preparing-for-android-testing-2?u=76281980&t=19)** I'll download and install Java 8.01 for Windows x64.
+> **[0:19](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/preparing-for-android-testing-2?u=76281980&t=19)** I'll download and install Java 8.01 for [[Windows]] x64.
 >
 > **[0:25](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/preparing-for-android-testing-2?u=76281980&t=25)** We finish downloading, so let's go install it.
 >
@@ -743,12 +732,11 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extracting and reading the manifest file
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-the-manifest-file-2?u=76281980)
+#### [Extracting and reading the manifest file](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-the-manifest-file-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-the-manifest-file-2?u=76281980&t=0)** - [Instructor] The file AndroidManifest.xml is used to describe the functionality and requirements of an Android application.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-the-manifest-file-2?u=76281980&t=0)** - [Instructor] The file AndroidManifest.xml is used to describe the functionality and requirements of an [[Android]] application.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-the-manifest-file-2?u=76281980&t=8)** And it's generated as part of the build process for that Android application.
 >
@@ -770,11 +758,11 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-the-manifest-file-2?u=76281980&t=80)** Okay, we're good to go.
 >
-> **[1:24](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-the-manifest-file-2?u=76281980&t=84)** When doing mobile testing commercially, you'll usually be given the APK file from your customer.
+> **[1:24](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-the-manifest-file-2?u=76281980&t=84)** When doing [[Mobile Testing]] commercially, you'll usually be given the APK file from your customer.
 >
 > **[1:30](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-the-manifest-file-2?u=76281980&t=90)** However, you may want to test an application from one of the Android stores and you'll need to download it.
 >
-> **[1:38](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-the-manifest-file-2?u=76281980&t=98)** Freeware applications are best sourced from the Google Play Store, but the standard install expects these to be downloaded and directly installed on an Android device.
+> **[1:38](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-the-manifest-file-2?u=76281980&t=98)** Freeware applications are best sourced from the [[Google]] Play Store, but the standard install expects these to be downloaded and directly installed on an Android device.
 >
 > **[1:49](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-the-manifest-file-2?u=76281980&t=109)** An alternative is to do the first step of a sideload via the Evozi website.
 >
@@ -846,9 +834,9 @@ created: 2026-05-02
 >
 > **[6:23](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-the-manifest-file-2?u=76281980&t=383)** While some keys aren't particularly sensitive, some are.
 >
-> **[6:26](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-the-manifest-file-2?u=76281980&t=386)** Between June and November 2013, security research has discovered that developers were putting sensitive API keys into their applications which potentially revealed Facebook, Twitter, Bitly, Flicker, Foursquare, LinkedIn, and Google accounts.
+> **[6:26](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-the-manifest-file-2?u=76281980&t=386)** Between June and November 2013, security research has discovered that developers were putting sensitive API keys into their applications which potentially revealed Facebook, Twitter, Bitly, Flicker, Foursquare, [[LinkedIn]], and Google accounts.
 >
-> **[6:43](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-the-manifest-file-2?u=76281980&t=403)** Amazingly, some of these values even had names which included the word secret or private.
+> **[6:43](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-the-manifest-file-2?u=76281980&t=403)** Amazingly, some of these values even had names which included the [[Microsoft Word|word]] secret or private.
 >
 > **[6:49](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-the-manifest-file-2?u=76281980&t=409)** While these specific issues have been fixed, the use of hard-coded values continues to be a key one for testers to be aware of.
 >
@@ -862,7 +850,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), [[Android]] (8), [[Google]] (3), [[Search]] (2), api (2)
+> **Frameworks & Libraries:** [[Android]] (8), [[Google]] (3), [[Mobile Testing]] (1), [[LinkedIn]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** apk (8), url (4), sms (3), api (2), xml (1)
 > **Versions:** version 2 (2), 4.0 (1), 2.17 (1), version 5 (1)
 > **File Paths:** androidmanifest.xml (2), apktool.yml (1)
@@ -871,22 +859,21 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **URLs:** [apkfiles.com](https://apkfiles.com) (1)
 
-#### Extracting and reading JavaScript code
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-javascript-code-2?u=76281980)
+#### [Extracting and reading JavaScript code](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-javascript-code-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-javascript-code-2?u=76281980&t=0)** - [Instructor] We can recover the JavaScript code from Android applications by processing the downloaded APK file.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-javascript-code-2?u=76281980&t=0)** - [Instructor] We can recover the [[JavaScript]] code from [[Android]] applications by processing the downloaded APK file.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-javascript-code-2?u=76281980&t=8)** This requires the use of the dex2jar and the JD-GUI tools.
 >
 > **[0:13](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-javascript-code-2?u=76281980&t=13)** The first tool, dex2jar, can be downloaded from its SourceForge site.
 >
-> **[0:18](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-javascript-code-2?u=76281980&t=18)** This comes as a zip file and includes both Windows and Linux tools.
+> **[0:18](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-javascript-code-2?u=76281980&t=18)** This comes as a zip file and includes both [[Windows]] and [[Linux]] tools.
 >
 > **[0:23](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-javascript-code-2?u=76281980&t=23)** I've downloaded this already into my Android testing tools directory.
 >
-> **[0:29](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-javascript-code-2?u=76281980&t=29)** JD-GUI is available, as are a number of other Java decompiler tools, from the site shown here.
+> **[0:29](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-javascript-code-2?u=76281980&t=29)** JD-GUI is available, as are a number of other [[Java]] decompiler tools, from the site shown here.
 >
 > **[0:36](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-javascript-code-2?u=76281980&t=36)** It's a standalone graphical tool that displays the Java source code and class elements in a very usable way.
 >
@@ -932,7 +919,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-javascript-code-2?u=76281980&t=202)** This contains three modules.
 >
-> **[3:24](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-javascript-code-2?u=76281980&t=204)** Facebook ads, google, and karumi.dexter.
+> **[3:24](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-javascript-code-2?u=76281980&t=204)** Facebook ads, [[Google]], and karumi.dexter.
 >
 > **[3:32](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-javascript-code-2?u=76281980&t=212)** Dexter is an Android library for handling permissions.
 >
@@ -946,7 +933,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-javascript-code-2?u=76281980&t=244)** And the latter expands to various crypto and maths folders.
 >
-> **[4:09](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-javascript-code-2?u=76281980&t=249)** Bouncy Castle is a lightweight cryptography API for Java, developed and supported by the Legion of the Bouncy Castle, a not for profit organization based in Victoria, Australia.
+> **[4:09](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-javascript-code-2?u=76281980&t=249)** Bouncy Castle is a lightweight [[Cryptography]] API for Java, developed and supported by the Legion of the Bouncy Castle, a not for profit organization based in Victoria, Australia.
 >
 > **[4:24](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-and-reading-javascript-code-2?u=76281980&t=264)** The application uses another open source library.
 >
@@ -966,7 +953,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (11), [[Android]] (7), [[Java]] (5), [[Windows]] (4), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Android]] (7), [[Java]] (5), [[Windows]] (4), [[JavaScript]] (1), [[Linux]] (1)
 > **Env Vars:** gui (3), sms (3), apk (2), bat (1), api (1)
 > **Exercise Files:** source code (5), zip file (2)
 > **UI Navigation:** click on (1), scroll down (1), open the (1)
@@ -974,8 +961,7 @@ created: 2026-05-02
 > **Tools:** bash (1)
 > **Speakers:** - [instructor] (1)
 
-#### Recreating Java source code with JAD
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/recreating-java-source-code-with-jad-2?u=76281980)
+#### [Recreating Java source code with JAD](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/recreating-java-source-code-with-jad-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -983,9 +969,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/recreating-java-source-code-with-jad-2?u=76281980&t=4)** We can also recover the source code through the command line, using the Jad tool.
 >
-> **[0:09](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/recreating-java-source-code-with-jad-2?u=76281980&t=9)** This reads an Android application's class files, and provides proper source code outputs in individual text files.
+> **[0:09](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/recreating-java-source-code-with-jad-2?u=76281980&t=9)** This reads an [[Android]] application's class files, and provides proper source code outputs in individual text files.
 >
-> **[0:17](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/recreating-java-source-code-with-jad-2?u=76281980&t=17)** Jad hasn't kept pace with Java development, but it's still a potentially useful alternative to JD GUI.
+> **[0:17](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/recreating-java-source-code-with-jad-2?u=76281980&t=17)** Jad hasn't kept pace with [[Java]] development, but it's still a potentially useful alternative to JD GUI.
 >
 > **[0:24](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/recreating-java-source-code-with-jad-2?u=76281980&t=24)** The Jad executable is available as a download from the Varaneckas website.
 >
@@ -1015,7 +1001,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), application (2), [[Android]] (1)
+> **Frameworks & Libraries:** [[Java]] (6), [[Android]] (1)
 > **Env Vars:** gui (4), sms (4), apk (1), jar (1)
 > **Exercise Files:** source code (4)
 > **CLI Commands:** find (1)
@@ -1023,14 +1009,13 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Browsing applications directly with JADX
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/browsing-applications-directly-with-jadx-2?u=76281980)
+#### [Browsing applications directly with JADX](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/browsing-applications-directly-with-jadx-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/browsing-applications-directly-with-jadx-2?u=76281980&t=0)** - [Instructor] A very useful tool which can be used to browse Android applications is JADX.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/browsing-applications-directly-with-jadx-2?u=76281980&t=0)** - [Instructor] A very useful tool which can be used to browse [[Android]] applications is JADX.
 >
-> **[0:05](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/browsing-applications-directly-with-jadx-2?u=76281980&t=5)** This can be downloaded from the GitHub site, as a zip archive, or as an executable.
+> **[0:05](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/browsing-applications-directly-with-jadx-2?u=76281980&t=5)** This can be downloaded from the [[GitHub]] site, as a zip archive, or as an executable.
 >
 > **[0:13](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/browsing-applications-directly-with-jadx-2?u=76281980&t=13)** I've downloaded this, and extracted it into my testing directory.
 >
@@ -1066,19 +1051,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), application (4), [[Android]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Android]] (1), [[GitHub]] (1)
 > **Env Vars:** jadx (5), apk (2), gui (1), sms (1), xml (1)
 > **UI Navigation:** click on (3), open the (2), navigate to (1)
 > **File Paths:** manifest.xml (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting command-line access with ADB
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/getting-command-line-access-with-adb?u=76281980)
+#### [Getting command-line access with ADB](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/getting-command-line-access-with-adb?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/getting-command-line-access-with-adb?u=76281980&t=0)** - [Instructor] When preparing the environment for testing, we loaded the Android SDK.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/getting-command-line-access-with-adb?u=76281980&t=0)** - [Instructor] When preparing the environment for testing, we loaded the [[Android]] SDK.
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/getting-command-line-access-with-adb?u=76281980&t=5)** One of the important testing tools that we loaded with that is called ADB: the Android Debug Bridge.
 >
@@ -1140,7 +1124,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/getting-command-line-access-with-adb?u=76281980&t=152)** We can see that we have the system application packages listed in APK and ODEX files.
 >
-> **[2:38](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/getting-command-line-access-with-adb?u=76281980&t=158)** We noted earlier that applications are zip archives in which the JAVA code is stored in the classes.dex file.
+> **[2:38](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/getting-command-line-access-with-adb?u=76281980&t=158)** We noted earlier that applications are zip archives in which the [[Java]] code is stored in the classes.dex file.
 >
 > **[2:45](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/getting-command-line-access-with-adb?u=76281980&t=165)** An ODEX is basically a preprocessed version of an application's classes.dex, that is execution ready for Dalvik.
 >
@@ -1156,7 +1140,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/getting-command-line-access-with-adb?u=76281980&t=211)** These are not actually deleted, just hidden.
 >
-> **[3:34](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/getting-command-line-access-with-adb?u=76281980&t=214)** We can use the Exit command to leave the shell and return to the Windows command shell.
+> **[3:34](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/getting-command-line-access-with-adb?u=76281980&t=214)** We can use the Exit command to leave the shell and return to the [[Windows]] command shell.
 >
 > **[3:39](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/getting-command-line-access-with-adb?u=76281980&t=219)** It's simple with ADB to extract an application so that we can take a look at it.
 >
@@ -1194,7 +1178,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (12), application (4), [[Debugging]] (3), data (2), feature (1)
+> **Frameworks & Libraries:** [[Android]] (12), [[Java]] (1), [[Windows]] (1)
 > **Env Vars:** adb (11), apk (4), usb (3), odex (3), sdk (2)
 > **Tools:** command line (2), bash (1)
 > **Prerequisites:** install (3)
@@ -1203,12 +1187,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Exercise Files:** source code (1)
 
-#### Install an Android emulator from the SDK
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/install-an-android-emulator-from-the-sdk-2?u=76281980)
+#### [Install an Android emulator from the SDK](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/install-an-android-emulator-from-the-sdk-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/install-an-android-emulator-from-the-sdk-2?u=76281980&t=0)** - [Instructor] The Android SDK provides a means of running an emulated Android device.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/install-an-android-emulator-from-the-sdk-2?u=76281980&t=0)** - [Instructor] The [[Android]] SDK provides a means of running an emulated Android device.
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/install-an-android-emulator-from-the-sdk-2?u=76281980&t=5)** The first thing we need to do is to selet the variant of Android we want in the SDK manager, and load it.
 >
@@ -1260,19 +1243,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (8), api (1), prompt (1)
+> **Frameworks & Libraries:** [[Android]] (8)
 > **Env Vars:** sdk (3), arm (1), eabi (1), api (1), wsvta (1)
 > **UI Navigation:** select the (3), scroll down (1)
 > **Versions:** 4.4.2 (3)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dynamic analysis of Android applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-android-applications-2?u=76281980)
+#### [Dynamic analysis of Android applications](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-android-applications-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-android-applications-2?u=76281980&t=0)** - [Instructor] I'll download the Slack team collaboration application and do some dynamic analysis.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-android-applications-2?u=76281980&t=0)** - [Instructor] I'll download the [[Slack]] [[Team Collaboration]] application and do some dynamic analysis.
 >
 > **[0:06](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-android-applications-2?u=76281980&t=6)** I can download this from the website shown by downloading from the secure server.
 >
@@ -1352,7 +1334,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-android-applications-2?u=76281980&t=190)** First though, let's go into the device and have a look at what data's been collected.
 >
-> **[3:17](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-android-applications-2?u=76281980&t=197)** Slack has setup its data structures and we've got a number of new folders.
+> **[3:17](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-android-applications-2?u=76281980&t=197)** Slack has setup its [[Data Structures]] and we've got a number of new folders.
 >
 > **[3:21](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-android-applications-2?u=76281980&t=201)** We have a cache file and in it, an image_manager_disk_cache subfolder.
 >
@@ -1370,7 +1352,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-android-applications-2?u=76281980&t=228)** That looks okay.
 >
-> **[3:50](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-android-applications-2?u=76281980&t=230)** I'll look at the databases next.
+> **[3:50](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-android-applications-2?u=76281980&t=230)** I'll look at the [[Databases]] next.
 >
 > **[3:52](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-android-applications-2?u=76281980&t=232)** There's a reasonable amount of material here to look at.
 >
@@ -1400,7 +1382,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-android-applications-2?u=76281980&t=280)** And we can get one from the URL shown.
 >
-> **[4:43](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-android-applications-2?u=76281980&t=283)** This is a simple download and Windows install.
+> **[4:43](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-android-applications-2?u=76281980&t=283)** This is a simple download and [[Windows]] install.
 >
 > **[4:46](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/dynamic-analysis-of-android-applications-2?u=76281980&t=286)** I have it installed so let's look at the databases.
 >
@@ -1438,7 +1420,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (13), data (8), [[Databases]] (5), application (4), next (2)
+> **Frameworks & Libraries:** [[Slack]] (13), [[Databases]] (5), [[Team Collaboration]] (1), [[Data Structures]] (1), [[Windows]] (1)
 > **Tools:** slack (13)
 > **Env Vars:** url (2), t2e39pbe1 (2), apk (1), adb (1), lan (1)
 > **Prerequisites:** install (3), setup (3)
@@ -1447,16 +1429,15 @@ created: 2026-05-02
 > **Code Identifiers:** image_manager_disk_cache (1)
 > **Cross-References:** coming up (1)
 
-#### Using Drozer to analyze applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/using-drozer-to-analyze-applications-2?u=76281980)
+#### [Using Drozer to analyze applications](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/using-drozer-to-analyze-applications-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/using-drozer-to-analyze-applications-2?u=76281980&t=0)** - [Instructor] There are dozens of security testing tools for Android, ranging from very expensive enterprise-grade systems, which have a comprehensive set of automated tests such as FORTIFY to simple free tools to test for one aspect of security.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/using-drozer-to-analyze-applications-2?u=76281980&t=0)** - [Instructor] There are dozens of [[Security Testing]] tools for [[Android]], ranging from very expensive enterprise-grade systems, which have a comprehensive set of automated tests such as FORTIFY to simple free tools to test for one aspect of security.
 >
 > **[0:15](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/using-drozer-to-analyze-applications-2?u=76281980&t=15)** The list of tools is changing daily with many becoming obsolete as time passes, and many new ones appearing.
 >
-> **[0:21](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/using-drozer-to-analyze-applications-2?u=76281980&t=21)** The GitHub site here provides a list of tools which you may wish to look at.
+> **[0:21](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/using-drozer-to-analyze-applications-2?u=76281980&t=21)** The [[GitHub]] site here provides a list of tools which you may wish to look at.
 >
 > **[0:25](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/using-drozer-to-analyze-applications-2?u=76281980&t=25)** One notable and accessible tool that we'll take a look at is Drozer.
 >
@@ -1464,7 +1445,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/using-drozer-to-analyze-applications-2?u=76281980&t=40)** Drozer's pretty useful as it doesn't need root and can run as a normal app using its own bridge.
 >
-> **[0:45](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/using-drozer-to-analyze-applications-2?u=76281980&t=45)** I've downloaded and installed the Windows version.
+> **[0:45](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/using-drozer-to-analyze-applications-2?u=76281980&t=45)** I've downloaded and installed the [[Windows]] version.
 >
 > **[0:48](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/using-drozer-to-analyze-applications-2?u=76281980&t=48)** Drozer currently has a bug and is unable to find the javac executable from path when the JDK is installed.
 >
@@ -1472,7 +1453,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/using-drozer-to-analyze-applications-2?u=76281980&t=59)** It's in the drozer, Lib, drozer folder and I'll hard code the path to javac.
 >
-> **[1:05](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/using-drozer-to-analyze-applications-2?u=76281980&t=65)** Okay, I've now put in my path to the javac executable in the JDK as Program Files\\java\\jdk1.8.0_101\\bin.
+> **[1:05](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/using-drozer-to-analyze-applications-2?u=76281980&t=65)** Okay, I've now put in my path to the javac executable in the JDK as Program Files\\[[Java]]\\jdk1.8.0_101\\bin.
 >
 > **[1:17](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/using-drozer-to-analyze-applications-2?u=76281980&t=77)** The Drozer zip file includes a device agent called agent.apk which we need to push onto the device.
 >
@@ -1508,7 +1489,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/using-drozer-to-analyze-applications-2?u=76281980&t=147)** This lists the packages.
 >
-> **[2:32](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/using-drozer-to-analyze-applications-2?u=76281980&t=152)** And we can see at the top, the com.Slack package is installed.
+> **[2:32](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/using-drozer-to-analyze-applications-2?u=76281980&t=152)** And we can see at the top, the com.[[Slack]] package is installed.
 >
 > **[2:36](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/using-drozer-to-analyze-applications-2?u=76281980&t=156)** Let's check the information on that package.
 >
@@ -1518,7 +1499,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/using-drozer-to-analyze-applications-2?u=76281980&t=180)** This shows there's four activities and six broadcast receivers exported.
 >
-> **[3:05](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/using-drozer-to-analyze-applications-2?u=76281980&t=185)** However the databases or content providers aren't exported and Drozer hasn't reported that debugging is on, which is good.
+> **[3:05](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/using-drozer-to-analyze-applications-2?u=76281980&t=185)** However the [[Databases]] or content providers aren't exported and Drozer hasn't reported that debugging is on, which is good.
 >
 > **[3:13](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/using-drozer-to-analyze-applications-2?u=76281980&t=193)** Let's drill down into one of the activities.
 >
@@ -1564,7 +1545,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Android]] (1), [[GitHub]] (1), [[Windows]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Security Testing]] (1), [[Android]] (1), [[GitHub]] (1), [[Windows]] (1), [[Java]] (1)
 > **Env Vars:** jdk (2), fortify (1), mwr (1), labs (1), gui (1)
 > **Tools:** github (1), command line (1), slack (1)
 > **CLI Commands:** find (2)
@@ -1573,12 +1554,11 @@ created: 2026-05-02
 > **Exercise Files:** zip file (1)
 > **Definitions:** is a  (1)
 
-#### Checking for scam phones
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/checking-for-scam-phones?u=76281980)
+#### [Checking for scam phones](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/checking-for-scam-phones?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/checking-for-scam-phones?u=76281980&t=0)** - [Instructor] Sometimes a bargain is not quite such a bargain, especially when we're buying tech products from overseas.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/checking-for-scam-phones?u=76281980&t=0)** - [Instructor] Sometimes a bargain is not quite such a bargain, especially when we're buying tech [[Microsoft Products|products]] from overseas.
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/checking-for-scam-phones?u=76281980&t=7)** Let's take a look at a bargain P40 Pro smartphone bought from an online shop in Asia for less than $100.
 >
@@ -1632,7 +1612,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Products|Products]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** p40 (3), ram (3), cpu (2), mtk6799 (2), dcim (1)
 > **CLI Commands:** cat (2)
 > **Documentation:** specification (1)
@@ -1645,8 +1625,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### iOS applications and vulnerabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/ios-applications-and-vulnerabilities?u=76281980)
+#### [iOS applications and vulnerabilities](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/ios-applications-and-vulnerabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1714,9 +1693,9 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/ios-applications-and-vulnerabilities?u=76281980&t=182)** However, in addition to the standard web weaknesses, there are some specific iOS issues which we will cover.
 >
-> **[3:09](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/ios-applications-and-vulnerabilities?u=76281980&t=189)** The first area of investigation joint testing is application data storage.
+> **[3:09](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/ios-applications-and-vulnerabilities?u=76281980&t=189)** The first area of investigation joint testing is application [[Data Storage]].
 >
-> **[3:14](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/ios-applications-and-vulnerabilities?u=76281980&t=194)** There are three main options for storage in iOS, SQLite databases, the keychain and property list files.
+> **[3:14](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/ios-applications-and-vulnerabilities?u=76281980&t=194)** There are three main options for storage in iOS, SQLite [[Databases]], the keychain and property list files.
 >
 > **[3:22](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/ios-applications-and-vulnerabilities?u=76281980&t=202)** All can use the range of default protection provided by iOS, but require applications to specify the form of protection.
 >
@@ -1740,7 +1719,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (34), data (15), web (3), [[Security]] (1), management (1)
+> **Frameworks & Libraries:** [[Data Storage]] (1), [[Databases]] (1)
 > **Code Identifiers:** ios (9)
 > **Env Vars:** url (2), uuid (1), xml (1), utf (1)
 > **Definitions:** is a  (4)
@@ -1749,8 +1728,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Securing iOS applications by design
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/securing-ios-applications-by-design?u=76281980)
+#### [Securing iOS applications by design](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/securing-ios-applications-by-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1760,7 +1738,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/securing-ios-applications-by-design?u=76281980&t=10)** Security in iOS starts when the user switches on the device.
 >
-> **[0:14](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/securing-ios-applications-by-design?u=76281980&t=14)** The Boot ROM hardware contains read-only code to bootstrap the system and Apple's public key.
+> **[0:14](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/securing-ios-applications-by-design?u=76281980&t=14)** The Boot ROM [[Hardware]] contains read-only code to bootstrap the system and Apple's public key.
 >
 > **[0:20](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/securing-ios-applications-by-design?u=76281980&t=20)** The public key is used to verify the integrity of the second stage low-level boot code.
 >
@@ -1786,7 +1764,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/securing-ios-applications-by-design?u=76281980&t=99)** Memory pages can be marked as write but not execute, using the ARM chip's Execute Never feature.
 >
-> **[1:45](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/securing-ios-applications-by-design?u=76281980&t=105)** This is similar to the Data Execution Protection feature familiar to Windows users.
+> **[1:45](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/securing-ios-applications-by-design?u=76281980&t=105)** This is similar to the Data Execution Protection feature familiar to [[Windows]] users.
 >
 > **[1:50](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/securing-ios-applications-by-design?u=76281980&t=110)** Address space layout randomization ensures that code and data are not still together, and so makes exploitation by overwriting memory locations, much more difficult.
 >
@@ -1798,9 +1776,9 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/securing-ios-applications-by-design?u=76281980&t=144)** iOS uses three types of data file.
 >
-> **[2:27](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/securing-ios-applications-by-design?u=76281980&t=147)** SQLite databases, property lists, and the key chain.
+> **[2:27](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/securing-ios-applications-by-design?u=76281980&t=147)** SQLite [[Databases]], property lists, and the key chain.
 >
-> **[2:32](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/securing-ios-applications-by-design?u=76281980&t=152)** By default, all data is encrypted at rest using a file system key, so that should media be stolen, the information isn't compromised.
+> **[2:32](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/securing-ios-applications-by-design?u=76281980&t=152)** By default, all data is encrypted at [[Representational State Transfer (REST)|rest]] using a file system key, so that should media be stolen, the information isn't compromised.
 >
 > **[2:41](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/securing-ios-applications-by-design?u=76281980&t=161)** When the device is turned on, this is unlocked.
 >
@@ -1836,7 +1814,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), data (6), [[Security]] (3), feature (3), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Windows]] (1), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** ios (4), iboot (2), idevices (1)
 > **Analogies:** such as (3), similar to (1)
 > **Env Vars:** rom (1), arm (1), api (1)
@@ -1844,8 +1822,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Jailbreaking for command-line access
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/jailbreaking-for-command-line-access?u=76281980)
+#### [Jailbreaking for command-line access](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/jailbreaking-for-command-line-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1853,7 +1830,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/jailbreaking-for-command-line-access?u=76281980&t=4)** And this means breaking the Apple security lockdown, a process called Jailbreaking.
 >
-> **[0:09](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/jailbreaking-for-command-line-access?u=76281980&t=9)** This can be done from Windows using the popular Pangu tool.
+> **[0:09](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/jailbreaking-for-command-line-access?u=76281980&t=9)** This can be done from [[Windows]] using the popular Pangu tool.
 >
 > **[0:13](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/jailbreaking-for-command-line-access?u=76281980&t=13)** Different versions of the tool are available for different versions of iOS.
 >
@@ -1865,7 +1842,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/jailbreaking-for-command-line-access?u=76281980&t=31)** An older iPhone 4 or 5 is not too expensive.
 >
-> **[0:34](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/jailbreaking-for-command-line-access?u=76281980&t=34)** And if you're serious about mobile testing, then it's useful to have a device configured and ready to go.
+> **[0:34](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/jailbreaking-for-command-line-access?u=76281980&t=34)** And if you're serious about [[Mobile Testing]], then it's useful to have a device configured and ready to go.
 >
 > **[0:40](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/jailbreaking-for-command-line-access?u=76281980&t=40)** It's preferable not to use your main day to day mobile for this work, as the device will have lower security and may be less reliable than the standard iPhone configuration.
 >
@@ -2007,7 +1984,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (10), [[Search]] (3), database (3), [[Security]] (2), data (2)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Mobile Testing]] (1)
 > **Code Identifiers:** iphone (9), ios (5)
 > **CLI Commands:** find (5), ssh (1)
 > **Env Vars:** sms (2), usb (1), ssid (1), ssh (1), dcim (1)
@@ -2016,8 +1993,7 @@ created: 2026-05-02
 > **Analogies:** for instance (2), for example (1)
 > **URLs:** [viber.app](https://viber.app) (2)
 
-#### More jailbreak and extractor tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/more-jailbreak-and-extractor-tools?u=76281980)
+#### [More jailbreak and extractor tools](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/more-jailbreak-and-extractor-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2041,21 +2017,20 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/more-jailbreak-and-extractor-tools?u=76281980&t=79)** Another tool which uses a different approach is iOS 16++.
 >
-> **[1:24](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/more-jailbreak-and-extractor-tools?u=76281980&t=84)** This doesn't jailbreak iOS directly, but installs a web-based operating system which enables jailbreak simulation including installing Cydia.
+> **[1:24](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/more-jailbreak-and-extractor-tools?u=76281980&t=84)** This doesn't jailbreak iOS directly, but installs a web-based operating system which enables jailbreak [[Simulation]] including installing Cydia.
 >
 > **[1:34](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/more-jailbreak-and-extractor-tools?u=76281980&t=94)** If you need to run a jailbreak or just extract a tool from a third-party repository, this is a useful reference site.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), next (1), web (1), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (1)
 > **Code Identifiers:** ios (5)
 > **Definitions:** is a  (4), is an  (1)
 > **Env Vars:** rpc (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preparing to test iOS applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/preparing-to-test-ios-applications?u=76281980)
+#### [Preparing to test iOS applications](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/preparing-to-test-ios-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2109,11 +2084,11 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/preparing-to-test-ios-applications?u=76281980&t=129)** To do this, we can use WinSCP.
 >
-> **[2:11](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/preparing-to-test-ios-applications?u=76281980&t=131)** The installer is available from the webpage shown here, and it's a simple Windows installation.
+> **[2:11](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/preparing-to-test-ios-applications?u=76281980&t=131)** The installer is available from the webpage shown here, and it's a simple [[Windows]] installation.
 >
 > **[2:16](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/preparing-to-test-ios-applications?u=76281980&t=136)** I've taken the typical installation option.
 >
-> **[2:19](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/preparing-to-test-ios-applications?u=76281980&t=139)** One of the data storage options in iOS is SQLite, so it's useful to have an SQLite viewer on hand so that we can extract and investigate these databases.
+> **[2:19](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/preparing-to-test-ios-applications?u=76281980&t=139)** One of the [[Data Storage]] options in iOS is SQLite, so it's useful to have an SQLite viewer on hand so that we can extract and investigate these [[Databases]].
 >
 > **[2:29](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/preparing-to-test-ios-applications?u=76281980&t=149)** We can get an SQLite browser from the URL shown.
 >
@@ -2127,7 +2102,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/preparing-to-test-ios-applications?u=76281980&t=179)** To do that, we'll need to load a binary code disassembler for the iOS application executable.
 >
-> **[3:05](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/preparing-to-test-ios-applications?u=76281980&t=185)** There are a number of different disassemblers for Mac OS, Linux, and Windows.
+> **[3:05](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/preparing-to-test-ios-applications?u=76281980&t=185)** There are a number of different disassemblers for Mac OS, [[Linux]], and Windows.
 >
 > **[3:09](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/preparing-to-test-ios-applications?u=76281980&t=189)** The standard tool used by professionals is IDA.
 >
@@ -2143,7 +2118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Windows]] (3), next (2), [[Engineering]] (2), data (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Data Storage]] (1), [[Databases]] (1), [[Linux]] (1)
 > **Env Vars:** ipa (2), ssh (1), ios (1), url (1), ida (1)
 > **Prerequisites:** install (5)
 > **Code Identifiers:** ios (4)
@@ -2152,12 +2127,11 @@ created: 2026-05-02
 > **Tools:** command line (2)
 > **Definitions:** is called (1), is a  (1)
 
-#### Extracting properties and class headers
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-properties-and-class-headers?u=76281980)
+#### [Extracting properties and class headers](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-properties-and-class-headers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-properties-and-class-headers?u=76281980&t=0)** - [Instructor] There are two forms of iOS applications.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-properties-and-class-headers?u=76281980&t=0)** - [Instructor] There are two [[Forms]] of iOS applications.
 >
 > **[0:03](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-properties-and-class-headers?u=76281980&t=3)** Encrypted apps and unencrypted apps.
 >
@@ -2179,7 +2153,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-properties-and-class-headers?u=76281980&t=65)** I'll just rename this to make it simpler.
 >
-> **[1:08](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-properties-and-class-headers?u=76281980&t=68)** It's possible to directly look at unencrypted applications on Windows because IPA files are, in fact, nothing more than zip files.
+> **[1:08](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-properties-and-class-headers?u=76281980&t=68)** It's possible to directly look at unencrypted applications on [[Windows]] because IPA files are, in fact, nothing more than zip files.
 >
 > **[1:16](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/extracting-properties-and-class-headers?u=76281980&t=76)** I'll use WinSCP to navigate to the Bubbsie.ipa file we've just created in the Dumped folder and copy it to my Windows Testing directory.
 >
@@ -2269,7 +2243,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (18), [[Windows]] (3), [[Forms]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Forms]] (1)
 > **Env Vars:** ipa (2), png (1), plist (1), uuid (1), e36f9e3e (1)
 > **UI Navigation:** navigate to (2), open the (1), go to (1)
 > **CLI Commands:** make (2), find (1)
@@ -2278,14 +2252,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is called (1)
 > **Versions:** 1.2 (1)
 
-#### Disassembling iOS executable code
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980)
+#### [Disassembling iOS executable code](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980&t=0)** - [Narrator] iOS is a compiled application.
 >
-> **[0:03](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980&t=3)** And we can't recover source code, as we can for Android.
+> **[0:03](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980&t=3)** And we can't recover source code, as we can for [[Android]].
 >
 > **[0:06](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980&t=6)** When can however download the application binary.
 >
@@ -2309,7 +2282,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980&t=46)** We'll use the bubbsie binary to demonstrate these tools.
 >
-> **[0:49](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980&t=49)** Let's fetch it from the bubbsie app folder.
+> **[0:49](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980&t=49)** Let's [[Fetch]] it from the bubbsie app folder.
 >
 > **[0:55](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980&t=55)** The first disassembler I want to take a brief look at, is IDA.
 >
@@ -2319,13 +2292,13 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980&t=71)** The left hand pane lists all functions found.
 >
-> **[1:13](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980&t=73)** And the right hand pane, allows the code to be displayed in various forms.
+> **[1:13](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980&t=73)** And the right hand pane, allows the code to be displayed in various [[Forms]].
 >
 > **[1:18](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980&t=78)** The bottom pane is a console for messages.
 >
 > **[1:22](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980&t=82)** The IDA tab provides a pane for the selected function to be displayed.
 >
-> **[1:25](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980&t=85)** And informally shows the control flow.
+> **[1:25](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980&t=85)** And informally shows the [[Control Flow]].
 >
 > **[1:28](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980&t=88)** As we move down the function list, we can click on the function to see it displayed in disassembled form, in the right hand panel.
 >
@@ -2339,9 +2312,9 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980&t=116)** However, I'll take a look at another disassembler, which provides a significant capability, at a more affordable price.
 >
-> **[2:03](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980&t=123)** The second disassembler I'll look at, is called Hopper and it runs on Linux.
+> **[2:03](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980&t=123)** The second disassembler I'll look at, is called Hopper and it runs on [[Linux]].
 >
-> **[2:08](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980&t=128)** I'll be running this in the Ubuntu Gnome environment.
+> **[2:08](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980&t=128)** I'll be running this in the [[Ubuntu]] Gnome environment.
 >
 > **[2:12](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980&t=132)** Hopper is a disassembler, which is capable of handling iOS applications, as well as a range of other binary formats.
 >
@@ -2409,7 +2382,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980&t=251)** We've got a list of areas where the string is used.
 >
-> **[4:14](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980&t=254)** I'll look at the first single word secret.
+> **[4:14](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980&t=254)** I'll look at the first single [[Microsoft Word|word]] secret.
 >
 > **[4:19](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/disassembling-ios-executable-code?u=76281980&t=259)** That has no references.
 >
@@ -2457,7 +2430,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Engineering]] (2), data (2), [[Ubuntu]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Ubuntu]] (2), [[Android]] (1), [[Fetch]] (1), [[Forms]] (1), [[Control Flow]] (1)
 > **Env Vars:** ida (7)
 > **UI Navigation:** click on (4), select the (2), scroll down (1)
 > **Code Identifiers:** ios (4)
@@ -2466,8 +2439,7 @@ created: 2026-05-02
 > **Analogies:** such as (2), similar to (1)
 > **CLI Commands:** find (1)
 
-#### Advancing into dynamic analysis of iOS
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/advancing-into-dynamic-analysis-of-ios?u=76281980)
+#### [Advancing into dynamic analysis of iOS](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/advancing-into-dynamic-analysis-of-ios?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2579,7 +2551,7 @@ created: 2026-05-02
 >
 > **[5:23](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/advancing-into-dynamic-analysis-of-ios?u=76281980&t=323)** It's been created by Snoop-it, so we don't need to be concerned about it.
 >
-> **[5:27](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/advancing-into-dynamic-analysis-of-ios?u=76281980&t=327)** We can, however, extract the SQLite databases, and look at them them using our database browser.
+> **[5:27](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/advancing-into-dynamic-analysis-of-ios?u=76281980&t=327)** We can, however, extract the SQLite [[Databases]], and look at them them using our database browser.
 >
 > **[5:33](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/advancing-into-dynamic-analysis-of-ios?u=76281980&t=333)** I'll download the cache.db-wal, cache.db-shm and cache.db files to my testing directory and have a look at them.
 >
@@ -2601,7 +2573,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (11), web (6), data (3), database (2), mobile application (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Env Vars:** url (2), uuid (1), e36f (1), tjc (1), mac (1)
 > **UI Navigation:** click on (2), scroll down (2), select the (1)
 > **Code Identifiers:** ios (1), ksec (1), hellosnoopi (1), irate (1)
@@ -2615,12 +2587,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Taking a look at Security Shepherd
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/taking-a-look-at-security-shepherd?u=76281980)
+#### [Taking a look at Security Shepherd](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/taking-a-look-at-security-shepherd?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/taking-a-look-at-security-shepherd?u=76281980&t=0)** - [Instructor] The OWASP folks have provided a training tool which we can use to learn about mobile testing.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/taking-a-look-at-security-shepherd?u=76281980&t=0)** - [Instructor] The [[OWASP]] folks have provided a training tool which we can use to learn about [[Mobile Testing]].
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/taking-a-look-at-security-shepherd?u=76281980&t=5)** It's the Security Shepherd, described on the website here.
 >
@@ -2652,7 +2623,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/taking-a-look-at-security-shepherd?u=76281980&t=81)** Let's select the first, Broken Crypto.
 >
-> **[1:25](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/taking-a-look-at-security-shepherd?u=76281980&t=85)** We can see that the lesson is about breaking an encrypted chat session, and we're pointed to the Android VM.
+> **[1:25](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/taking-a-look-at-security-shepherd?u=76281980&t=85)** We can see that the lesson is about breaking an encrypted chat session, and we're pointed to the [[Android]] VM.
 >
 > **[1:32](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/taking-a-look-at-security-shepherd?u=76281980&t=92)** Here we can see the MobileShepherd virtual device.
 >
@@ -2662,7 +2633,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/taking-a-look-at-security-shepherd?u=76281980&t=109)** To escape the device, we can press the right Control key on our host keyboard.
 >
-> **[1:54](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/taking-a-look-at-security-shepherd?u=76281980&t=114)** We can also do a check at port 5555 on the Security Shepherd mobile device, nmap -PS -sV
+> **[1:54](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/taking-a-look-at-security-shepherd?u=76281980&t=114)** We can also do a check at port 5555 on the Security Shepherd mobile device, [[Nmap]] -PS -sV
 >
 > **[2:04](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/taking-a-look-at-security-shepherd?u=76281980&t=124)** - p5555 10.0.2.21.
 >
@@ -2676,7 +2647,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Android]] (2), [[OWASP]] (1), [[Mobile Testing]] (1), management (1)
+> **Frameworks & Libraries:** [[Android]] (2), [[OWASP]] (1), [[Mobile Testing]] (1), [[Nmap]] (1)
 > **Versions:** 10.0.2 (4)
 > **Env Vars:** owasp (1), apk (1), adb (1)
 > **Ports:** port 5555 (1), :5555 (1)
@@ -2685,8 +2656,7 @@ created: 2026-05-02
 > **Code Identifiers:** sv (1)
 > **Exercise Files:** download the (1)
 
-#### Watching for bad cryptography
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/watching-for-bad-cryptography?u=76281980)
+#### [Watching for bad cryptography](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/watching-for-bad-cryptography?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2741,14 +2711,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Insecure data when in developer mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/insecure-data-when-in-developer-mode?u=76281980)
+#### [Insecure data when in developer mode](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/insecure-data-when-in-developer-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/insecure-data-when-in-developer-mode?u=76281980&t=0)** - [Instructor] Let's check out another lesson.
 >
-> **[0:02](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/insecure-data-when-in-developer-mode?u=76281980&t=2)** This time, we'll take a look at insecure data storage.
+> **[0:02](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/insecure-data-when-in-developer-mode?u=76281980&t=2)** This time, we'll take a look at insecure [[Data Storage]].
 >
 > **[0:06](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/insecure-data-when-in-developer-mode?u=76281980&t=6)** As described here, mobile apps can store data in the mobile device rather than in a backend server.
 >
@@ -2762,7 +2731,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/insecure-data-when-in-developer-mode?u=76281980&t=34)** This brings up a message panel saying the key isn't here.
 >
-> **[0:37](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/insecure-data-when-in-developer-mode?u=76281980&t=37)** Our mobile device has been set up to developer mode, so we can get into an Android shell on the device.
+> **[0:37](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/insecure-data-when-in-developer-mode?u=76281980&t=37)** Our mobile device has been set up to developer mode, so we can get into an [[Android]] shell on the device.
 >
 > **[0:43](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/insecure-data-when-in-developer-mode?u=76281980&t=43)** We've already seen that we can connect from Kali using ADB.
 >
@@ -2782,11 +2751,11 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/insecure-data-when-in-developer-mode?u=76281980&t=91)** And we'll see what we've got.
 >
-> **[1:32](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/insecure-data-when-in-developer-mode?u=76281980&t=92)** We've got cache, databases, and lib.
+> **[1:32](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/insecure-data-when-in-developer-mode?u=76281980&t=92)** We've got cache, [[Databases]], and lib.
 >
 > **[1:35](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/insecure-data-when-in-developer-mode?u=76281980&t=95)** Let's go into the databases folder, and list, and we can see we have two databases, member and member journal.
 >
-> **[1:46](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/insecure-data-when-in-developer-mode?u=76281980&t=106)** To look at the data in the member, SQL Lite database, we can simply dump the file out with cat, cat members, and we can see that it has a name VARCHAR, and a password VARCHAR.
+> **[1:46](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/insecure-data-when-in-developer-mode?u=76281980&t=106)** To look at the data in the member, [[SQL]] Lite database, we can simply dump the file out with cat, cat members, and we can see that it has a name VARCHAR, and a password VARCHAR.
 >
 > **[2:01](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/insecure-data-when-in-developer-mode?u=76281980&t=121)** And we have an entry, admin battery, 7, 7, 7.
 >
@@ -2796,11 +2765,11 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/insecure-data-when-in-developer-mode?u=76281980&t=138)** There are more lessons and many challenges that you can take in Security Shepherds mobile arena.
 >
-> **[2:24](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/insecure-data-when-in-developer-mode?u=76281980&t=144)** You should continue to work through these after you finished this LinkedIn learning course to consolidate and extend your knowledge in the mobile testing space.
+> **[2:24](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/insecure-data-when-in-developer-mode?u=76281980&t=144)** You should continue to work through these after you finished this [[LinkedIn]] learning course to consolidate and extend your knowledge in the [[Mobile Testing]] space.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Databases]] (3), database (2), [[Android]] (1), application (1)
+> **Frameworks & Libraries:** [[Databases]] (3), [[Data Storage]] (1), [[Android]] (1), [[SQL]] (1), [[LinkedIn]] (1)
 > **Env Vars:** adb (2), varchar (2), sql (1)
 > **CLI Commands:** cat (2), make (1), cd (1)
 > **UI Navigation:** click on (1), select the (1), navigate to (1)
@@ -2814,38 +2783,37 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/next-steps?u=76281980&t=0)** - [Malcolm] I'd really like to thank you for joining me for this LinkedIn Learning course.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/next-steps?u=76281980&t=0)** - [Malcolm] I'd really like to thank you for joining me for this [[LinkedIn]] Learning course.
 >
 > **[0:04](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/next-steps?u=76281980&t=4)** I hope you enjoyed learning how to test the security of mobile technology and applications.
 >
-> **[0:10](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/next-steps?u=76281980&t=10)** Learning how to do mobile testing is just the start of your path to becoming a good mobile tester.
+> **[0:10](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/next-steps?u=76281980&t=10)** Learning how to do [[Mobile Testing]] is just the start of your path to becoming a good mobile tester.
 >
 > **[0:17](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/next-steps?u=76281980&t=17)** Having understood the concepts and learnt about how to use the tools, you now need to practice and gain experience, and, in particular, become familiar with what is normal in a mobile app so that you can detect the abnormal.
 >
 > **[0:31](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/next-steps?u=76281980&t=31)** It's a lot of work, but it's also a lot of fun.
 >
-> **[0:35](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/next-steps?u=76281980&t=35)** There's always something new in cybersecurity.
+> **[0:35](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/next-steps?u=76281980&t=35)** There's always something new in [[Cybersecurity]].
 >
-> **[0:38](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/next-steps?u=76281980&t=38)** And if you're interested in learning more, then check out the full cybersecurity ethical hacking segment of the library, where new security testing courses are added regularly.
+> **[0:38](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/next-steps?u=76281980&t=38)** And if you're interested in learning more, then check out the full cybersecurity [[Ethical Hacking]] segment of the library, where new [[Security Testing]] courses are added regularly.
 >
-> **[0:48](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/next-steps?u=76281980&t=48)** You'll find courses on using Kali Linux, information gathering, denial of service, wireless testing, and much more.
+> **[0:48](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/next-steps?u=76281980&t=48)** You'll find courses on using [[Kali Linux]], information gathering, denial of service, wireless testing, and much more.
 >
 > **[0:57](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/next-steps?u=76281980&t=57)** I'd also like to invite you to go to my author page, where you can find some additional courses on cybersecurity.
 >
 > **[1:04](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/next-steps?u=76281980&t=64)** If you want to get hands-on with some of the common tools, then do take a look at my introduction to Kali Linux, web application testing, and wireless testing courses.
 >
-> **[1:14](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/next-steps?u=76281980&t=74)** If you're wanting to learn about security for the cloud, then cybersecurity for cloud computing is for you.
+> **[1:14](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/next-steps?u=76281980&t=74)** If you're wanting to learn about security for the cloud, then cybersecurity for [[Cloud Computing]] is for you.
 >
 > **[1:22](https://www.linkedin.com/learning/ethical-hacking-mobile-devices-and-platforms/next-steps?u=76281980&t=82)** Thanks again for joining me on this course, and I hope to see you again soon.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Security]] (3), [[Kali Linux]] (2), cloud (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Kali Linux]] (2), [[LinkedIn]] (1), [[Mobile Testing]] (1), [[Ethical Hacking]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm] (1)

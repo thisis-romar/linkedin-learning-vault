@@ -81,8 +81,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### C++ interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/c-plus-plus-interviews-14295274?u=76281980)
+#### [C++ interviews](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/c-plus-plus-interviews-14295274?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -102,17 +101,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Programming]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [erin] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/what-you-should-know-14294229?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/what-you-should-know-14294229?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/what-you-should-know-14294229?u=76281980&t=0)** - [Instructor] You should be comfortable with the standard C++ features like functions, data structures, loops, and decision structures, to name a few.
+> **[0:00](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/what-you-should-know-14294229?u=76281980&t=0)** - [Instructor] You should be comfortable with the standard C++ features like functions, [[Data Structures]], loops, and decision structures, to name a few.
 >
 > **[0:09](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/what-you-should-know-14294229?u=76281980&t=9)** You should also be comfortable with a C++ 11 specific IDE.
 >
@@ -122,7 +119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1)
 > **Env Vars:** ide (1)
 > **Speakers:** - [instructor] (1)
 
@@ -131,8 +128,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting ready for the interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/getting-ready-for-the-interview-14293268?u=76281980)
+#### [Getting ready for the interview](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/getting-ready-for-the-interview-14293268?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -140,7 +136,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/getting-ready-for-the-interview-14293268?u=76281980&t=3)** It's something that everyone has to do in order to land that dream job.
 >
-> **[0:07](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/getting-ready-for-the-interview-14293268?u=76281980&t=7)** In order to prepare for any interview, there are a few things you can do, like updating your LinkedIn profile and researching the company.
+> **[0:07](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/getting-ready-for-the-interview-14293268?u=76281980&t=7)** In order to prepare for any interview, there are a few things you can do, like updating your [[LinkedIn]] profile and researching the company.
 >
 > **[0:16](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/getting-ready-for-the-interview-14293268?u=76281980&t=16)** To prepare for a C++ technical interview, you will also need to look over some of the popular features of the language.
 >
@@ -148,9 +144,9 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/getting-ready-for-the-interview-14293268?u=76281980&t=28)** There you'll find important details that you should understand the job you are applying for.
 >
-> **[0:33](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/getting-ready-for-the-interview-14293268?u=76281980&t=33)** For example, if you are interviewing for an embedded systems engineering position, you'll need to understand memory allocation.
+> **[0:33](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/getting-ready-for-the-interview-14293268?u=76281980&t=33)** For example, if you are [[Interviewing]] for an embedded systems engineering position, you'll need to understand memory allocation.
 >
-> **[0:41](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/getting-ready-for-the-interview-14293268?u=76281980&t=41)** Other positions may require you to understand GUI design or database design.
+> **[0:41](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/getting-ready-for-the-interview-14293268?u=76281980&t=41)** Other positions may require you to understand GUI design or [[Database Design]].
 >
 > **[0:45](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/getting-ready-for-the-interview-14293268?u=76281980&t=45)** This is important to look for when you read the job posting.
 >
@@ -162,7 +158,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/getting-ready-for-the-interview-14293268?u=76281980&t=66)** For a mid-level position, though, they may expect five to seven years' experience and some examples of your code.
 >
-> **[1:12](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/getting-ready-for-the-interview-14293268?u=76281980&t=72)** If you have code that you're able to share, consider creating a Git repository or other cloud-based location for some of your best code.
+> **[1:12](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/getting-ready-for-the-interview-14293268?u=76281980&t=72)** If you have code that you're able to share, consider creating a [[Git]] repository or other cloud-based location for some of your best code.
 >
 > **[1:20](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/getting-ready-for-the-interview-14293268?u=76281980&t=80)** If you don't have any code that you can share, be ready to talk about it in your interview.
 >
@@ -174,15 +170,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Interviewing]] (1), [[Engineering]] (1), database (1), [[Git]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Interviewing]] (1), [[Database Design]] (1), [[Git]] (1)
 > **CLI Commands:** find (3), git (1)
 > **Env Vars:** gui (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Know the company
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/know-the-company-14296189?u=76281980)
+#### [Know the company](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/know-the-company-14296189?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -192,7 +187,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/know-the-company-14296189?u=76281980&t=18)** Are you expected to work in teams or by yourself?
 >
-> **[0:21](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/know-the-company-14296189?u=76281980&t=21)** Do they use the agile or Kanban model of development?
+> **[0:21](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/know-the-company-14296189?u=76281980&t=21)** Do they use the [[Agile Development|agile]] or Kanban model of development?
 >
 > **[0:25](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/know-the-company-14296189?u=76281980&t=25)** Do they use and expect you to know the new features in C++17?
 >
@@ -208,11 +203,11 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/know-the-company-14296189?u=76281980&t=56)** Or you might be looking to work in a small startup with only a few other employees.
 >
-> **[1:01](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/know-the-company-14296189?u=76281980&t=61)** The next place to look to find information about a company is LinkedIn.
+> **[1:01](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/know-the-company-14296189?u=76281980&t=61)** The next place to look to find information about a company is [[LinkedIn]].
 >
 > **[1:06](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/know-the-company-14296189?u=76281980&t=66)** Not only is LinkedIn a great place to learn a new skill, it's also a great place to find out if you have any connections already working at the company.
 >
-> **[1:14](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/know-the-company-14296189?u=76281980&t=74)** if you do, chances are they might be willing to put in a good word for you.
+> **[1:14](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/know-the-company-14296189?u=76281980&t=74)** if you do, chances are they might be willing to put in a good [[Microsoft Word|word]] for you.
 >
 > **[1:19](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/know-the-company-14296189?u=76281980&t=79)** You can even apply and ask for a recommendation right on LinkedIn site.
 >
@@ -240,14 +235,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), next (2), [[Microsoft Word|Word]] (2), teams (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Microsoft Word|Word]] (2), [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/types-of-questions-14294234?u=76281980)
+#### [Types of questions](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/types-of-questions-14294234?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -259,7 +253,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/types-of-questions-14294234?u=76281980&t=15)** Gauging how well you handle the questions will be something that needs practice.
 >
-> **[0:19](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/types-of-questions-14294234?u=76281980&t=19)** If you are interviewing for a C++ development position, you could expect to get some C++ coding questions.
+> **[0:19](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/types-of-questions-14294234?u=76281980&t=19)** If you are [[Interviewing]] for a C++ development position, you could expect to get some C++ coding questions.
 >
 > **[0:26](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/types-of-questions-14294234?u=76281980&t=26)** These are typically given in a timed manner, sometimes hours, sometimes days, and you may have the choice to complete online or they may ask you to finish when you arrive on site.
 >
@@ -283,7 +277,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/types-of-questions-14294234?u=76281980&t=101)** This is to make sure you are comfortable speaking to other humans about what you are doing.
 >
-> **[1:46](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/types-of-questions-14294234?u=76281980&t=106)** As a C++ developer, you may find most of your time is spent alone at a desk, but more and more companies are moving to an Agile work environment where group work is a requirement.
+> **[1:46](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/types-of-questions-14294234?u=76281980&t=106)** As a C++ developer, you may find most of your time is spent alone at a desk, but more and more companies are moving to an [[Agile Development|Agile]] work environment where group work is a requirement.
 >
 > **[1:57](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/types-of-questions-14294234?u=76281980&t=117)** This is why working well with others is a crucial skill that you will need to have and you may get asked about.
 >
@@ -309,8 +303,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to prepare for technical questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/how-to-prepare-for-technical-questions-14294231?u=76281980)
+#### [How to prepare for technical questions](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/how-to-prepare-for-technical-questions-14294231?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -380,15 +373,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), data (3), strengths (1), [[Programming]] (1)
 > **Analogies:** for example (3), just like (1)
 > **URLs:** [leetcode.com](https://leetcode.com) (1), [pramp.com](https://pramp.com) (1), [geeksforgeeks.org](https://geeksforgeeks.org) (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Questions to ask
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/questions-to-ask-14300151?u=76281980)
+#### [Questions to ask](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/questions-to-ask-14300151?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -436,7 +427,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/questions-to-ask-14300151?u=76281980&t=100)** How much time will the company allow if there's a family emergency?
 >
-> **[1:44](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/questions-to-ask-14300151?u=76281980&t=104)** Can you bring your pet to the office?
+> **[1:44](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/questions-to-ask-14300151?u=76281980&t=104)** Can you bring your pet to the [[Microsoft Office|office]]?
 >
 > **[1:46](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/questions-to-ask-14300151?u=76281980&t=106)** It's okay if you don't have any questions for the interviewer.
 >
@@ -446,7 +437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), [[Security]] (1), feature (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ide (1)
 > **Definitions:** is a  (1)
@@ -459,8 +450,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Difference between C and C++
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/difference-between-c-and-c-plus-plus-14299160?u=76281980)
+#### [Difference between C and C++](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/difference-between-c-and-c-plus-plus-14299160?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -492,7 +482,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/difference-between-c-and-c-plus-plus-14299160?u=76281980&t=94)** Let's look at the most obvious difference between the two languages.
 >
-> **[1:38](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/difference-between-c-and-c-plus-plus-14299160?u=76281980&t=98)** C++ is an object-oriented programming language and C is not.
+> **[1:38](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/difference-between-c-and-c-plus-plus-14299160?u=76281980&t=98)** C++ is an [[Object-Oriented Programming (OOP)|object-oriented programming]] language and C is not.
 >
 > **[1:43](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/difference-between-c-and-c-plus-plus-14299160?u=76281980&t=103)** C++ is also a procedural language and so is C.
 >
@@ -522,20 +512,19 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/difference-between-c-and-c-plus-plus-14299160?u=76281980&t=195)** C++ brings to the table a special way of tying procedural style with object-oriented programming.
 >
-> **[3:22](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/difference-between-c-and-c-plus-plus-14299160?u=76281980&t=202)** It was one of the first object-oriented programming languages written and is responsible for most software items we use today, things like Windows, Facebook and Google, to name a few, have some portion written in C++.
+> **[3:22](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/difference-between-c-and-c-plus-plus-14299160?u=76281980&t=202)** It was one of the first object-oriented programming languages written and is responsible for most software items we use today, things like [[Windows]], Facebook and [[Google]], to name a few, have some portion written in C++.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), data (3), [[Programming]] (2), [[Debugging]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[Windows]] (1), [[Google]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is OOP?
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/what-is-oop-14295275?u=76281980)
+#### [What is OOP?](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/what-is-oop-14295275?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/what-is-oop-14295275?u=76281980&t=0)** - [Instructor] Since C++17 was one of the first object oriented languages, candidates will usually get asked if they can explain how the features of object oriented programming changed software development.
+> **[0:00](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/what-is-oop-14295275?u=76281980&t=0)** - [Instructor] Since C++17 was one of the first object oriented languages, candidates will usually get asked if they can explain how the features of object oriented programming changed [[Software Development]].
 >
 > **[0:12](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/what-is-oop-14295275?u=76281980&t=12)** What makes object oriented programming special is its use of objects.
 >
@@ -553,7 +542,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/what-is-oop-14295275?u=76281980&t=63)** Okay, let's say you were hired to write some software for a bank.
 >
-> **[1:08](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/what-is-oop-14295275?u=76281980&t=68)** After you finish, the word gets out and now more banks want the exact same software.
+> **[1:08](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/what-is-oop-14295275?u=76281980&t=68)** After you finish, the [[Microsoft Word|word]] gets out and now more banks want the exact same software.
 >
 > **[1:13](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/what-is-oop-14295275?u=76281980&t=73)** It would be okay if they all had the same name, but they're all separate banks with individual needs for their own version.
 >
@@ -565,7 +554,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/what-is-oop-14295275?u=76281980&t=99)** Well-written code is nice, but if it's too specific, we can only use it once.
 >
-> **[1:44](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/what-is-oop-14295275?u=76281980&t=104)** If we create a generic bank class, we can instantiate it two times in multiple forms for two different banks.
+> **[1:44](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/what-is-oop-14295275?u=76281980&t=104)** If we create a generic bank class, we can instantiate it two times in multiple [[Forms]] for two different banks.
 >
 > **[1:51](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/what-is-oop-14295275?u=76281980&t=111)** This is one of the features of object oriented programming called polymorphism.
 >
@@ -581,21 +570,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (6), data (2), generic (2), [[Software Development]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Microsoft Word|Word]] (1), [[Forms]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Polymorphism in C++
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/polymorphism-in-c-plus-plus-14297229?u=76281980)
+#### [Polymorphism in C++](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/polymorphism-in-c-plus-plus-14297229?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/polymorphism-in-c-plus-plus-14297229?u=76281980&t=0)** - [Instructor] Allowing one item to be defined and used in multiple ways is the feature in object-oriented programming called polymorphism.
+> **[0:00](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/polymorphism-in-c-plus-plus-14297229?u=76281980&t=0)** - [Instructor] Allowing one item to be defined and used in multiple ways is the feature in [[Object-Oriented Programming (OOP)|object-oriented programming]] called polymorphism.
 >
 > **[0:08](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/polymorphism-in-c-plus-plus-14297229?u=76281980&t=8)** Think of a door.
 >
-> **[0:10](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/polymorphism-in-c-plus-plus-14297229?u=76281980&t=10)** Did you picture your home's front door or did you picture your office door or maybe you pictured your car door?
+> **[0:10](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/polymorphism-in-c-plus-plus-14297229?u=76281980&t=10)** Did you picture your home's front door or did you picture your [[Microsoft Office|office]] door or maybe you pictured your car door?
 >
-> **[0:16](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/polymorphism-in-c-plus-plus-14297229?u=76281980&t=16)** A door simply means the mechanism that opens and closes to allow things in or out, yet the instances of doors can come in many forms.
+> **[0:16](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/polymorphism-in-c-plus-plus-14297229?u=76281980&t=16)** A door simply means the mechanism that opens and closes to allow things in or out, yet the instances of doors can come in many [[Forms]].
 >
 > **[0:25](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/polymorphism-in-c-plus-plus-14297229?u=76281980&t=25)** A car door wouldn't work if you put it on your house and a garage door sure wouldn't work in your office.
 >
@@ -615,18 +603,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), [[Microsoft Office|Office]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Forms]] (1)
 > **Analogies:** picture (2)
 > **Definitions:** is an  (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inheritance in C++
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/inheritance-in-c-plus-plus-14294237?u=76281980)
+#### [Inheritance in C++](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/inheritance-in-c-plus-plus-14294237?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/inheritance-in-c-plus-plus-14294237?u=76281980&t=0)** - [Instructor] Another important feature of object-oriented programming is inheritance.
+> **[0:00](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/inheritance-in-c-plus-plus-14294237?u=76281980&t=0)** - [Instructor] Another important feature of [[Object-Oriented Programming (OOP)|object-oriented programming]] is inheritance.
 >
 > **[0:05](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/inheritance-in-c-plus-plus-14294237?u=76281980&t=5)** In inheritance, a class can be derived from another class.
 >
@@ -634,15 +621,15 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/inheritance-in-c-plus-plus-14294237?u=76281980&t=13)** Let's look at our example of building a home.
 >
-> **[0:16](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/inheritance-in-c-plus-plus-14294237?u=76281980&t=16)** You have a home class that has windows, doors, rooms, and more.
+> **[0:16](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/inheritance-in-c-plus-plus-14294237?u=76281980&t=16)** You have a home class that has [[Windows]], doors, rooms, and more.
 >
-> **[0:20](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/inheritance-in-c-plus-plus-14294237?u=76281980&t=20)** Suddenly, the word gets out about your wonderful home and your family wants a home just like yours on your street.
+> **[0:20](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/inheritance-in-c-plus-plus-14294237?u=76281980&t=20)** Suddenly, the [[Microsoft Word|word]] gets out about your wonderful home and your family wants a home just like yours on your street.
 >
 > **[0:27](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/inheritance-in-c-plus-plus-14294237?u=76281980&t=27)** We know duplicating ourselves is out of the question, but we need to build these homes quickly.
 >
 > **[0:33](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/inheritance-in-c-plus-plus-14294237?u=76281980&t=33)** If you have a solid home class, then you can create as many different homes as you need, and every single instance will inherit the same features as the original home.
 >
-> **[0:44](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/inheritance-in-c-plus-plus-14294237?u=76281980&t=44)** Then, you can add features to specific homes, like cousin John needs an extra three bedrooms because his wife is expecting triplets, or sister Sarah wants a pool so she can post selfies by the water all day, and grandma Jean needs an elevator because she can't walk up stairs anymore, but they all still have the same features as the base house, which are doors, windows, rooms, and more.
+> **[0:44](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/inheritance-in-c-plus-plus-14294237?u=76281980&t=44)** Then, you can add features to specific homes, like cousin [[John the Ripper|John]] needs an extra three bedrooms because his wife is expecting triplets, or sister Sarah wants a pool so she can post selfies by the water all day, and grandma Jean needs an elevator because she can't walk up stairs anymore, but they all still have the same features as the base house, which are doors, windows, rooms, and more.
 >
 > **[1:09](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/inheritance-in-c-plus-plus-14294237?u=76281980&t=69)** Think of an example, either in code or real life, where you have used inheritance.
 >
@@ -666,13 +653,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[Windows]] (2), game (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Microsoft Word|Word]] (1), [[John the Ripper|John]] (1)
 > **Definitions:** is called (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Encapsulation in C++
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/encapsulation-in-c-plus-plus-14297226?u=76281980)
+#### [Encapsulation in C++](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/encapsulation-in-c-plus-plus-14297226?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -714,21 +700,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), feature (1), generic (1), next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Abstraction in C++
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/abstraction-in-c-plus-plus-14299162?u=76281980)
+#### [Abstraction in C++](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/abstraction-in-c-plus-plus-14299162?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/abstraction-in-c-plus-plus-14299162?u=76281980&t=0)** - [Instructor] Object-oriented programming also introduces us to this idea of abstraction.
+> **[0:00](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/abstraction-in-c-plus-plus-14299162?u=76281980&t=0)** - [Instructor] [[Object-Oriented Programming (OOP)|Object-oriented programming]] also introduces us to this idea of abstraction.
 >
 > **[0:05](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/abstraction-in-c-plus-plus-14299162?u=76281980&t=5)** Abstraction is the ability to utilize only the information we need.
 >
-> **[0:09](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/abstraction-in-c-plus-plus-14299162?u=76281980&t=9)** In C++, this is vital to keeping things like personal information and algorithms safe.
+> **[0:09](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/abstraction-in-c-plus-plus-14299162?u=76281980&t=9)** In C++, this is vital to keeping things like personal information and [[Algorithms]] safe.
 >
 > **[0:16](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/abstraction-in-c-plus-plus-14299162?u=76281980&t=16)** Back to our home example, the new neighbor just built a greenhouse in their backyard, and they don't want anyone to see their prize petunias just yet, so they install a digital door lock on the door.
 >
@@ -746,11 +730,11 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/abstraction-in-c-plus-plus-14299162?u=76281980&t=65)** And there you have it, the four features of object-oriented programming are polymorphism, inheritance, encapsulation, and abstraction.
 >
-> **[1:14](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/abstraction-in-c-plus-plus-14299162?u=76281980&t=74)** In the interview, you should be able to discuss how these features can be used to help team collaboration, code reusability, maintenance, and the security of users' data.
+> **[1:14](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/abstraction-in-c-plus-plus-14299162?u=76281980&t=74)** In the interview, you should be able to discuss how these features can be used to help [[Team Collaboration]], code reusability, maintenance, and the security of users' data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Algorithms]] (1), web (1), game (1), [[Team Collaboration]] (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Algorithms]] (1), [[Team Collaboration]] (1)
 > **Env Vars:** pin (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
@@ -760,8 +744,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Strings in C++
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/strings-in-c-plus-plus?u=76281980)
+#### [Strings in C++](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/strings-in-c-plus-plus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -801,7 +784,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/strings-in-c-plus-plus?u=76281980&t=103)** As a challenge, if you were given this question to determine if a given string is a palindrome, how would you solve it?
 >
-> **[1:51](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/strings-in-c-plus-plus?u=76281980&t=111)** Remember, a palindrome is a word that is the same when read forwards and backwards.
+> **[1:51](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/strings-in-c-plus-plus?u=76281980&t=111)** Remember, a palindrome is a [[Microsoft Word|word]] that is the same when read forwards and backwards.
 >
 > **[1:57](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/strings-in-c-plus-plus?u=76281980&t=117)** Tacocat is one of my favorite palindromes.
 >
@@ -829,14 +812,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (6), means that (1)
 > **CLI Commands:** make (1), cat (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Arrays in C++
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/arrays-in-c-plus-plus?u=76281980)
+#### [Arrays in C++](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/arrays-in-c-plus-plus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -926,14 +908,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (4), [[Programming]] (2)
 > **CLI Commands:** find (6), make (2)
 > **Cross-References:** later in (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Vectors in C++
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/vectors-in-c-plus-plus?u=76281980)
+#### [Vectors in C++](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/vectors-in-c-plus-plus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1023,7 +1003,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (2)
 > **Definitions:** is a  (1), means that (1)
 > **Exercise Files:** template (1)
 > **Analogies:** for example (1)
@@ -1034,8 +1013,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Linked lists in C++
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/linked-lists-in-c-plus-plus?u=76281980)
+#### [Linked lists in C++](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/linked-lists-in-c-plus-plus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1119,7 +1097,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (16), data (6), next (4), [[Programming]] (1)
 > **CLI Commands:** node (16)
 > **Definitions:** is a  (4)
 > **Exercise Files:** exercise file (1)
@@ -1127,8 +1104,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stacks in C++
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/stacks-in-c-plus-plus?u=76281980)
+#### [Stacks in C++](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/stacks-in-c-plus-plus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1140,7 +1116,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/stacks-in-c-plus-plus?u=76281980&t=20)** First in last out, or FILO.
 >
-> **[0:24](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/stacks-in-c-plus-plus?u=76281980&t=24)** In computer science, it's expected to know how to evaluate strings, either for natural language processing or an expression written in pre or postfix notation.
+> **[0:24](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/stacks-in-c-plus-plus?u=76281980&t=24)** In computer science, it's expected to know how to evaluate strings, either for [[Natural Language Processing (NLP)|natural language processing]] or an expression written in pre or postfix notation.
 >
 > **[0:34](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/stacks-in-c-plus-plus?u=76281980&t=34)** Postfix notation is an arithmetic expression with the operators written after the operands.
 >
@@ -1204,14 +1180,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Definitions:** is a  (3), is an  (1), means that (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** filo (1)
 > **Speakers:** - [instructor] (1)
 
-#### Queues in C++
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/queues-in-c-plus-plus?u=76281980)
+#### [Queues in C++](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/queues-in-c-plus-plus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1265,7 +1240,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** toconvert (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1274,8 +1248,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Classes in C++
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/classes-in-c-plus-plus?u=76281980)
+#### [Classes in C++](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/classes-in-c-plus-plus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1283,7 +1256,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/classes-in-c-plus-plus?u=76281980&t=3)** They set it apart from its predecessor and allow us to put code into separate files that can be used later.
 >
-> **[0:09](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/classes-in-c-plus-plus?u=76281980&t=9)** Creating a generic class has opened the doors for all the amazing features of object-oriented programming.
+> **[0:09](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/classes-in-c-plus-plus?u=76281980&t=9)** Creating a generic class has opened the doors for all the amazing features of [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
 > **[0:15](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/classes-in-c-plus-plus?u=76281980&t=15)** I didn't want to discuss classes too early and overshadow all the other important structures that you should know before your interview.
 >
@@ -1295,7 +1268,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/classes-in-c-plus-plus?u=76281980&t=33)** Because the constructor is the only function you can write that you can specify the parameters you need and never call.
 >
-> **[0:39](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/classes-in-c-plus-plus?u=76281980&t=39)** If you're writing a video game and you create a character class, the constructor can be used to initialize your character to full health when it's created, or maybe you're creating a banking system and you're running a special where every person who opens a checking account during December will receive $50.
+> **[0:39](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/classes-in-c-plus-plus?u=76281980&t=39)** If you're writing a video game and you create a character class, the constructor can be used to initialize your character to full health when it's created, or maybe you're creating a [[Banking]] system and you're running a special where every person who opens a checking account during December will receive $50.
 >
 > **[0:57](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/classes-in-c-plus-plus?u=76281980&t=57)** You can add that in the constructor, so each time an account is created, the $50 is automatically added.
 >
@@ -1325,11 +1298,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), game (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Banking]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Access modifiers in C++
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/access-modifiers-in-c-plus-plus?u=76281980)
+#### [Access modifiers in C++](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/access-modifiers-in-c-plus-plus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1371,14 +1343,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (typing) (1)
 
-#### Virtual functions in C++
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/virtual-functions-in-c-plus-plus?u=76281980)
+#### [Virtual functions in C++](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/virtual-functions-in-c-plus-plus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1412,7 +1382,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), game (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
@@ -1423,8 +1392,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### More practice with C++
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/more-practice-with-c-plus-plus?u=76281980)
+#### [More practice with C++](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/more-practice-with-c-plus-plus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1432,7 +1400,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/more-practice-with-c-plus-plus?u=76281980&t=6)** For more C++-specific courses, check out Code Clinic C++ and C++ Essential Training.
 >
-> **[0:14](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/more-practice-with-c-plus-plus?u=76281980&t=14)** If you need to polish up on your non-technical interview skills, check out some of the more specific courses in the library, and please connect with me on LinkedIn.
+> **[0:14](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/more-practice-with-c-plus-plus?u=76281980&t=14)** If you need to polish up on your non-technical interview skills, check out some of the more specific courses in the library, and please connect with me on [[LinkedIn]].
 >
 > **[0:23](https://www.linkedin.com/learning/nail-your-c-plus-plus-interview/more-practice-with-c-plus-plus?u=76281980&t=23)** I would love to hear about your interview experiences.
 

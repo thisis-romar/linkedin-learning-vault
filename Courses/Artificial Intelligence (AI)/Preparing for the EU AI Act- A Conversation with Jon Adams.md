@@ -79,12 +79,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the EU AI Act
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/understanding-the-eu-ai-act?u=76281980)
+#### [Understanding the EU AI Act](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/understanding-the-eu-ai-act?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/understanding-the-eu-ai-act?u=76281980&t=0)** - The Artificial Intelligence Act passed by the European Union in 2024 is an incredibly important set of regulations governing how businesses can use AI.
+> **[0:00](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/understanding-the-eu-ai-act?u=76281980&t=0)** - The [[Artificial Intelligence (AI)|Artificial Intelligence]] Act passed by the European Union in 2024 is an incredibly important set of regulations governing how businesses can use AI.
 >
 > **[0:11](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/understanding-the-eu-ai-act?u=76281980&t=11)** This act does institute laws specifically for EU member nations, but the impact stretches far beyond the borders of Europe.
 >
@@ -92,24 +91,23 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/understanding-the-eu-ai-act?u=76281980&t=27)** To help you understand important details of the EU AI Act, we wanted to hear from somebody who has firsthand experience with the legal implications and the compliance measures required by these regulations.
 >
-> **[0:39](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/understanding-the-eu-ai-act?u=76281980&t=39)** I was very happy to sit down with Jon Adams, who is a Senior Director for Legal at LinkedIn, to talk about his experiences and his advice for working within the requirements of the EU AI Act.
+> **[0:39](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/understanding-the-eu-ai-act?u=76281980&t=39)** I was very happy to sit down with Jon Adams, who is a Senior Director for Legal at [[LinkedIn]], to talk about his experiences and his advice for working within the requirements of the EU AI Act.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[LinkedIn]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - the (1)
 
-#### Meet Jon Adams
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/meet-jon-adams?u=76281980)
+#### [Meet Jon Adams](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/meet-jon-adams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/meet-jon-adams?u=76281980&t=0)** - All right, so before we get started, John, can you give me a quick introduction of who you are and the sort of work you're doing as it relates to the EU AI Act?
+> **[0:00](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/meet-jon-adams?u=76281980&t=0)** - All right, so before we get started, [[John the Ripper|John]], can you give me a quick introduction of who you are and the sort of work you're doing as it relates to the EU AI Act?
 >
 > **[0:09](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/meet-jon-adams?u=76281980&t=9)** - Sure, absolutely. So my name is Jon Adams.
 >
-> **[0:11](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/meet-jon-adams?u=76281980&t=11)** I'm the Senior Director for Legal at LinkedIn that is responsible for dealing with legal issues relating to AI, so AI product counseling, AI compliance counseling, AI governance within the company.
+> **[0:11](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/meet-jon-adams?u=76281980&t=11)** I'm the Senior Director for Legal at [[LinkedIn]] that is responsible for dealing with legal issues relating to AI, so AI product counseling, AI compliance counseling, [[AI Governance]] within the company.
 >
 > **[0:23](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/meet-jon-adams?u=76281980&t=23)** - Excellent and of course we're going to talk about what you know about the AI Act as a legal professional, but we're certainly not going to talk about specifics of what you're doing with your employer.
 >
@@ -123,7 +121,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[LinkedIn]] (3), product (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[John the Ripper|John]] (1), [[AI Governance]] (1)
 > **Speakers:** - all (1), - sure (1), - excellent (1), - right (1)
 
 
@@ -131,8 +129,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### An overview of the EU AI Act
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/an-overview-of-the-eu-ai-act?u=76281980)
+#### [An overview of the EU AI Act](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/an-overview-of-the-eu-ai-act?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -156,7 +153,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/an-overview-of-the-eu-ai-act?u=76281980&t=54)** And it applies to virtually every organization that's developing, deploying, importing, or otherwise using or involved in the AI value chain where that AI touches Europe.
 >
-> **[1:03](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/an-overview-of-the-eu-ai-act?u=76281980&t=63)** So in many respects, it's kind of like the GDPR, which applied to, like, basically all data processing in the EU, but it applies to all AI systems as opposed to data processing more generally.
+> **[1:03](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/an-overview-of-the-eu-ai-act?u=76281980&t=63)** So in many respects, it's kind of like the GDPR, which applied to, like, basically all [[Data Processing]] in the EU, but it applies to all AI systems as opposed to data processing more generally.
 >
 > **[1:15](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/an-overview-of-the-eu-ai-act?u=76281980&t=75)** And so it's, you know, if you think about it that way, it's additional requirements for data processing, particularly in the AI context, as well.
 >
@@ -178,7 +175,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), data (4)
+> **Frameworks & Libraries:** [[Data Processing]] (3)
 > **Speakers:** - yeah (2), - to (1), - i (1)
 > **Env Vars:** gdpr (3)
 > **CLI Commands:** make (1)
@@ -186,14 +183,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** kind of like (1)
 
-#### Identifying the scope and coverage of the act
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/identifying-the-scope-and-coverage-of-the-act?u=76281980)
+#### [Identifying the scope and coverage of the act](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/identifying-the-scope-and-coverage-of-the-act?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/identifying-the-scope-and-coverage-of-the-act?u=76281980&t=0)** - So let's talk about scope and coverage of these laws.
 >
-> **[0:03](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/identifying-the-scope-and-coverage-of-the-act?u=76281980&t=3)** And you said law is the right word, not policy, not regulation, it's laws. - Yeah.
+> **[0:03](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/identifying-the-scope-and-coverage-of-the-act?u=76281980&t=3)** And you said law is the right [[Microsoft Word|word]], not policy, not regulation, it's laws. - Yeah.
 >
 > **[0:09](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/identifying-the-scope-and-coverage-of-the-act?u=76281980&t=9)** - So let's talk about the scope.
 >
@@ -219,7 +215,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/identifying-the-scope-and-coverage-of-the-act?u=76281980&t=62)** They're distributors that are organizations that are making available within the European market, AI developed elsewhere.
 >
-> **[1:09](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/identifying-the-scope-and-coverage-of-the-act?u=76281980&t=69)** And then they're also product manufacturers that happen to bring AI into Europe as part of their products.
+> **[1:09](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/identifying-the-scope-and-coverage-of-the-act?u=76281980&t=69)** And then they're also product manufacturers that happen to bring AI into Europe as part of their [[Microsoft Products|products]].
 >
 > **[1:14](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/identifying-the-scope-and-coverage-of-the-act?u=76281980&t=74)** And so it's pretty broad in terms of like the entire value chain relating to AI development.
 >
@@ -249,13 +245,13 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/identifying-the-scope-and-coverage-of-the-act?u=76281980&t=138)** And, yeah, I think you've touched on this a little bit, but to bring focus onto it, I want to talk about what exactly the goal is with the AI Act.
 >
-> **[2:27](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/identifying-the-scope-and-coverage-of-the-act?u=76281980&t=147)** Is the intent, you know, I was going to ask is the intent to protect individual privacy?
+> **[2:27](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/identifying-the-scope-and-coverage-of-the-act?u=76281980&t=147)** Is the intent, you know, I was going to ask is the intent to protect individual [[Privacy]]?
 >
 > **[2:33](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/identifying-the-scope-and-coverage-of-the-act?u=76281980&t=153)** And you've already clarified it's not exclusively about that, but what else does it cover?
 >
 > **[2:38](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/identifying-the-scope-and-coverage-of-the-act?u=76281980&t=158)** Is it designed to safeguard jobs?
 >
-> **[2:41](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/identifying-the-scope-and-coverage-of-the-act?u=76281980&t=161)** Are there components of ethics involved?
+> **[2:41](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/identifying-the-scope-and-coverage-of-the-act?u=76281980&t=161)** Are there components of [[Ethics]] involved?
 >
 > **[2:45](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/identifying-the-scope-and-coverage-of-the-act?u=76281980&t=165)** - Yeah, it's kind of like a kitchen sink kind of law, right?
 >
@@ -305,14 +301,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (29), data (7), product (4), [[Ethics]] (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (3), [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1), [[Privacy]] (1)
 > **Analogies:** kind of like (3), for example (2), imagine (1)
 > **Speakers:** - so (2), - yeah (2), - okay (1)
 > **Env Vars:** gdpr (3)
 > **Cross-References:** we talked about (1)
 
-#### How does the law apply to different technologies?
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/how-does-the-law-applies-to-different-technologies?u=76281980)
+#### [How does the law apply to different technologies?](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/how-does-the-law-applies-to-different-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -372,17 +367,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), data (1), llm (1)
 > **Speakers:** - you (1), - yeah (1)
 > **Env Vars:** llm (1)
 > **Definitions:** is a  (1)
 
-#### A risk-based approach to regulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/a-risk-based-approach-to-regulation?u=76281980)
+#### [A risk-based approach to regulation](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/a-risk-based-approach-to-regulation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/a-risk-based-approach-to-regulation?u=76281980&t=0)** - I think that's a really interesting component that I'm learning now as you're describing it to me, that, and correct me if I'm wrong, the main driving force here is how it's affecting people and you keep using the word risks.
+> **[0:00](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/a-risk-based-approach-to-regulation?u=76281980&t=0)** - I think that's a really interesting component that I'm learning now as you're describing it to me, that, and correct me if I'm wrong, the main driving force here is how it's affecting people and you keep using the [[Microsoft Word|word]] risks.
 >
 > **[0:14](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/a-risk-based-approach-to-regulation?u=76281980&t=14)** So whether something is good or bad or needs to be regulated, most of their attention is on what risk it brings to the public.
 >
@@ -392,7 +385,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/a-risk-based-approach-to-regulation?u=76281980&t=28)** It also assigns obligations to different parties within the value chain, right?
 >
-> **[0:32](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/a-risk-based-approach-to-regulation?u=76281980&t=32)** So you can imagine that if you are building a high risk AI system that can be used for a variety of different things, as the person that's building the system that has an idea what the models are that are involved, that has an idea of how the system's been built, you have a variety of different obligations related to transparency, that risk management, like data quality and insurance, et cetera.
+> **[0:32](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/a-risk-based-approach-to-regulation?u=76281980&t=32)** So you can imagine that if you are building a high risk AI system that can be used for a variety of different things, as the person that's building the system that has an idea what the models are that are involved, that has an idea of how the system's been built, you have a variety of different obligations related to transparency, that risk management, like [[Data Quality]] and insurance, et cetera.
 >
 > **[0:54](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/a-risk-based-approach-to-regulation?u=76281980&t=54)** And I mean, that's actually a significant part of the AI Act is outlying what those requirements are.
 >
@@ -406,12 +399,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), management (3), [[Microsoft Word|Word]] (1), data (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Data Quality]] (1)
 > **Speakers:** - i (1), - right (1)
 > **Analogies:** imagine (1)
 
-#### Timeline and risk-evaluation for compliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/timeline-and-risk-evaluation-for-compliance?u=76281980)
+#### [Timeline and risk-evaluation for compliance](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/timeline-and-risk-evaluation-for-compliance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -427,15 +419,15 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/timeline-and-risk-evaluation-for-compliance?u=76281980&t=38)** Stopping banned, you know, or prohibited AI, or training employees and ensuring that there's appropriate, you know, education that... You know, within companies that are building and doing things with AI, and they put those obligations up first, and those actually came into effect on February 2nd, the next stage is coming up in August, right?
 >
-> **[0:58](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/timeline-and-risk-evaluation-for-compliance?u=76281980&t=58)** And so, those obligations relate to, you know, the provision of general-purpose AI models and systems in Europe, so again, we talked about that earlier, but they are for people that are building LLMs and models like that, and they're really focused on the documentation, transparency, notice, and, you know, there are additional obligations that come into effect for general-purpose AI that's viewed as being systemic risk, so if the AI is of a certain degree of capability or is trained within a certain amount of computing power, it's viewed as systemic risk and there are additional regulatory notices required in that context, and then, the bulk of the other requirements after you get past, like, the general-purpose AI models that have been all over the news, you know, ChatGPT, you know, everything else,
+> **[0:58](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/timeline-and-risk-evaluation-for-compliance?u=76281980&t=58)** And so, those obligations relate to, you know, the provision of general-purpose AI models and systems in Europe, so again, we talked about that earlier, but they are for people that are building LLMs and models like that, and they're really focused on the documentation, transparency, notice, and, you know, there are additional obligations that come into effect for general-purpose AI that's viewed as being systemic risk, so if the AI is of a certain degree of capability or is trained within a certain amount of computing power, it's viewed as systemic risk and there are additional regulatory notices required in that context, and then, the bulk of the other requirements after you get past, like, the general-purpose AI models that have been all over the news, you know, [[ChatGPT]], you know, everything else,
 >
-> **[1:47](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/timeline-and-risk-evaluation-for-compliance?u=76281980&t=107)** the rest of the requirements, generally speaking, with certain limitations, come into effect on August 2nd, 2026, that's where the most meaningful obligations come into effect, and most of those, really, are tied to, you know, the high-risk AI systems that have a variety of different compliance obligations, and then, the development and bringing-to-market of AI systems that require transparency, and there's a lot... You know, I don't know if we want to get into this, but there are a lot of different requirements for high-risk AI systems that, you know, in the next year-and-a-half or so, many companies are going to spend a lot of time working to address.
+> **[1:47](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/timeline-and-risk-evaluation-for-compliance?u=76281980&t=107)** the [[Representational State Transfer (REST)|rest]] of the requirements, generally speaking, with certain limitations, come into effect on August 2nd, 2026, that's where the most meaningful obligations come into effect, and most of those, really, are tied to, you know, the high-risk AI systems that have a variety of different compliance obligations, and then, the development and bringing-to-market of AI systems that require transparency, and there's a lot... You know, I don't know if we want to get into this, but there are a lot of different requirements for high-risk AI systems that, you know, in the next year-and-a-half or so, many companies are going to spend a lot of time working to address.
 >
 > **[2:26](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/timeline-and-risk-evaluation-for-compliance?u=76281980&t=146)** - I guess... I had it in my mind that there would be several signposts along the way, but it sounds like you're saying that there was a big signpost February 2nd that just passed, the next big signpost is this August, and then, a third big signpost next August, with not a lot of major signposts in-between.
 >
 > **[2:45](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/timeline-and-risk-evaluation-for-compliance?u=76281980&t=165)** Is that what I'm hearing?
 >
-> **[2:47](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/timeline-and-risk-evaluation-for-compliance?u=76281980&t=167)** - I mean, that's largely right, yeah, and, I mean, there will be all these other things happening in parallel, for example, there's, you know, a code of practice that is currently being developed that relates to general-purpose AI, and there are different drafts of that that are being circulated from a working group that is working with the European AI office, and so, there'll be little incremental things, but for most companies that are not ridiculously in the weeds on this topic, the big deadlines are the February 2nd of this year, the August 2nd of this year, and then, the August 2nd of next year, and then, in certain cases, depending on the way in which, like... The industry in which a company operates and the degree to which their AI is integrated into, say, an existing product that's governed by existing product liability laws,
+> **[2:47](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/timeline-and-risk-evaluation-for-compliance?u=76281980&t=167)** - I mean, that's largely right, yeah, and, I mean, there will be all these other things happening in parallel, for example, there's, you know, a code of practice that is currently being developed that relates to general-purpose AI, and there are different drafts of that that are being circulated from a working group that is working with the European AI [[Microsoft Office|office]], and so, there'll be little incremental things, but for most companies that are not ridiculously in the weeds on this topic, the big deadlines are the February 2nd of this year, the August 2nd of this year, and then, the August 2nd of next year, and then, in certain cases, depending on the way in which, like... The industry in which a company operates and the degree to which their AI is integrated into, say, an existing product that's governed by existing product liability laws,
 >
 > **[3:34](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/timeline-and-risk-evaluation-for-compliance?u=76281980&t=214)** there may be additional incremental deadlines, but largely, it's these large signposts along the way.
 >
@@ -455,9 +447,9 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/timeline-and-risk-evaluation-for-compliance?u=76281980&t=302)** You know, there needs to be a risk management system to evaluate, analyze risks, figure out how to mitigate them, you know, look at the whole AI life cycle and the process, and test it to make sure it works, right?
 >
-> **[5:13](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/timeline-and-risk-evaluation-for-compliance?u=76281980&t=313)** There are requirements about data governance that... You know, basically, you can't just use any data, you can't just, you know, do whatever you want with data for AI training, you actually have to have a program in place that meets certain, you know, quality criteria and all of that, you have to have appropriate data governance.
+> **[5:13](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/timeline-and-risk-evaluation-for-compliance?u=76281980&t=313)** There are requirements about [[Data Governance]] that... You know, basically, you can't just use any data, you can't just, you know, do whatever you want with data for AI training, you actually have to have a program in place that meets certain, you know, quality criteria and all of that, you have to have appropriate data governance.
 >
-> **[5:32](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/timeline-and-risk-evaluation-for-compliance?u=76281980&t=332)** All the developers are going to have to have appropriate technical documentation outlining how they meet the regulatory requirements, there has to be a bunch of security and... And oversight measures, right?
+> **[5:32](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/timeline-and-risk-evaluation-for-compliance?u=76281980&t=332)** All the developers are going to have to have appropriate [[Technical Documentation]] outlining how they meet the regulatory requirements, there has to be a bunch of security and... And oversight measures, right?
 >
 > **[5:44](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/timeline-and-risk-evaluation-for-compliance?u=76281980&t=344)** You know, you have to make sure that the system is logged appropriately, that the system is safe and secure, robust, that it... You know, it provides accurate outputs, and there are a variety of different obligations around transparency and human oversight too, right?
 >
@@ -473,17 +465,17 @@ created: 2026-05-02
 >
 > **[6:29](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/timeline-and-risk-evaluation-for-compliance?u=76281980&t=389)** Where basically, you have to develop a plan to do all of the things you need to do for the AI Act, and then, apply it to each of those AI systems that are in the high-risk area.
 >
-> **[6:40](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/timeline-and-risk-evaluation-for-compliance?u=76281980&t=400)** - And so, that documentation, I would assume a big part of that is to be prepared for possible audits, if that's the right word.
+> **[6:40](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/timeline-and-risk-evaluation-for-compliance?u=76281980&t=400)** - And so, that documentation, I would assume a big part of that is to be prepared for possible audits, if that's the right [[Microsoft Word|word]].
 >
 > **[6:47](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/timeline-and-risk-evaluation-for-compliance?u=76281980&t=407)** - Audits, or even what they would call, you know, like, you know, a conformity assessment, right?
 >
-> **[6:52](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/timeline-and-risk-evaluation-for-compliance?u=76281980&t=412)** So, like, you know how different consumer products will have, like, the CE mark?
+> **[6:52](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/timeline-and-risk-evaluation-for-compliance?u=76281980&t=412)** So, like, you know how different consumer [[Microsoft Products|products]] will have, like, the CE mark?
 >
 > **[6:58](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/timeline-and-risk-evaluation-for-compliance?u=76281980&t=418)** There's essentially a conformity assessment there that says this conforms to the standards in Europe for that kind of product, there's actually going to be a conformity process for high-risk AI systems as well, where, depending on the kind of high-risk AI system you have, there is an assessment as to whether or not it conforms to the legal standards, and that will be driven, you know, by, in some cases, audits and self... You know, internally-developed controls, in other cases, it'll be managed by independent outside bodies, but yeah, that's actually exactly right, like, there's a significant audit component hanging over all of this.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (28), next (5), data (4), product (3), management (3)
+> **Frameworks & Libraries:** [[Data Governance]] (2), [[ChatGPT]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Office|Office]] (1), [[Technical Documentation]] (1)
 > **Speakers:** - yeah (3), - so (2), - i (2), - okay (1), - and (1)
 > **CLI Commands:** make (3), rails (1)
 > **Cross-References:** coming up (1), we talked about (1), in the next (1)
@@ -491,8 +483,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Definitions:** is an  (1)
 
-#### Ensuring that people stay in the loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/ensuring-that-people-stay-in-the-loop?u=76281980)
+#### [Ensuring that people stay in the loop](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/ensuring-that-people-stay-in-the-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -506,7 +497,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/ensuring-that-people-stay-in-the-loop?u=76281980&t=51)** Like they don't explicitly call it black box concerns, but I think that's a very real like thread going through the narrative there, right?
 >
-> **[0:59](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/ensuring-that-people-stay-in-the-loop?u=76281980&t=59)** Something that is a risk that people have cared about for a very long time in AI ethics.
+> **[0:59](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/ensuring-that-people-stay-in-the-loop?u=76281980&t=59)** Something that is a risk that people have cared about for a very long time in AI [[Ethics]].
 >
 > **[1:04](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/ensuring-that-people-stay-in-the-loop?u=76281980&t=64)** I mean, the AI Act takes this on in certain respects through, in some cases say, "Hey, black box or not, if you're doing certain bad things, they're going to be prohibited, right?"
 >
@@ -524,7 +515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (1)
 > **Speakers:** - you (1), - yeah (1), - okay (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -534,8 +525,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What does this mean for businesses outside the EU?
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/what-does-this-mean-for-businesses-outside-the-eu?u=76281980)
+#### [What does this mean for businesses outside the EU?](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/what-does-this-mean-for-businesses-outside-the-eu?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -561,7 +551,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/what-does-this-mean-for-businesses-outside-the-eu?u=76281980&t=73)** We're also seeing it even in the United States, right, like piecemeal efforts.
 >
-> **[1:16](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/what-does-this-mean-for-businesses-outside-the-eu?u=76281980&t=76)** Like there's a California law that was signed into effect back in September that, you know, as of January, 2026, will require transparency and documentation for generative AI, treating it very similar to like the general purpose AI provisions of the AI Act.
+> **[1:16](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/what-does-this-mean-for-businesses-outside-the-eu?u=76281980&t=76)** Like there's a California law that was signed into effect back in September that, you know, as of January, 2026, will require transparency and documentation for [[Generative AI]], treating it very similar to like the general purpose AI provisions of the AI Act.
 >
 > **[1:33](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/what-does-this-mean-for-businesses-outside-the-eu?u=76281980&t=93)** So like, you know, the AI Act applies to Europe, but most people that are developing AI aren't limiting it just to Europe.
 >
@@ -591,7 +581,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), business (1), data (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1)
 > **Speakers:** - yeah (3), - so (1), - and (1), - it (1)
 > **Env Vars:** gdpr (2), lgpd (1)
 > **Analogies:** similar to (2)
@@ -599,8 +589,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 
-#### Understanding enforcement and penalties
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/understanding-enforcement-and-penalties?u=76281980)
+#### [Understanding enforcement and penalties](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/understanding-enforcement-and-penalties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -610,7 +599,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/understanding-enforcement-and-penalties?u=76281980&t=25)** And if there's anything else we should know about, what if companies fall short of these obligations?
 >
-> **[0:32](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/understanding-enforcement-and-penalties?u=76281980&t=32)** - Yeah, I mean, like, there's definitely the, I mean, and this is the kind of thing where, again, we don't know exactly how the EUAI office is going to enforce the law, but you could imagine that, I mean obviously, the law calls for the potential for monetary penalties, but there's also things where, you know, certain practices, if they're not in line with the law could be, you know, barred from taking place, right?
+> **[0:32](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/understanding-enforcement-and-penalties?u=76281980&t=32)** - Yeah, I mean, like, there's definitely the, I mean, and this is the kind of thing where, again, we don't know exactly how the EUAI [[Microsoft Office|office]] is going to enforce the law, but you could imagine that, I mean obviously, the law calls for the potential for monetary penalties, but there's also things where, you know, certain practices, if they're not in line with the law could be, you know, barred from taking place, right?
 >
 > **[0:55](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/understanding-enforcement-and-penalties?u=76281980&t=55)** The European Union could say, or, you know, one of the national level regulators could say, you know, "You have not completed what you need to be doing for purposes of compliance," and so you really cannot deploy this AI or develop this AI, or provide it to the European market, right?
 >
@@ -620,13 +609,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Speakers:** - but (1), - i (1), - yeah (1), - that (1)
 > **Env Vars:** euai (1)
 > **Analogies:** imagine (1)
 
-#### How should business leaders prepare?
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/how-should-business-leaders-prepare?u=76281980)
+#### [How should business leaders prepare?](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/how-should-business-leaders-prepare?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -668,7 +656,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/how-should-business-leaders-prepare?u=76281980&t=144)** You might want to consult with others in industry and see, okay, like, you know, here's what we're doing.
 >
-> **[2:30](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/how-should-business-leaders-prepare?u=76281980&t=150)** Here's what the AI Act says we need to be doing, and can we build a roadmap that gets us from like what we're currently doing from our responsible AI or AI governance perspective to the things that we must be doing as of each of those different signposts.
+> **[2:30](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/how-should-business-leaders-prepare?u=76281980&t=150)** Here's what the AI Act says we need to be doing, and can we build a roadmap that gets us from like what we're currently doing from our [[Responsible AI]] or [[AI Governance]] perspective to the things that we must be doing as of each of those different signposts.
 >
 > **[2:43](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/how-should-business-leaders-prepare?u=76281980&t=163)** And so that process, I mean, it takes time and it is a multi-stakeholder process within most companies.
 >
@@ -688,7 +676,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/how-should-business-leaders-prepare?u=76281980&t=230)** For many companies, particularly large-scale companies, whether they're European or not, you know, and this is in a variety of different sectors.
 >
-> **[3:59](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/how-should-business-leaders-prepare?u=76281980&t=239)** You can imagine this in, you know, the finance sector, the technology sector, like the human resources sector, et cetera.
+> **[3:59](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/how-should-business-leaders-prepare?u=76281980&t=239)** You can imagine this in, you know, the finance sector, the technology sector, like the [[Human Resources (HR)|human resources]] sector, et cetera.
 >
 > **[4:05](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/how-should-business-leaders-prepare?u=76281980&t=245)** There will be lots of different AI systems within scope for your company.
 >
@@ -718,14 +706,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), business (3), teams (1), [[Responsible AI]] (1), [[Human Resources (HR)|Human resources]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (1), [[AI Governance]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Speakers:** - yeah (3), - obviously (1), - okay (1), - and (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (2)
 
-#### Is there anything that individuals need to know or do?
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/is-there-anything-that-individuals-need-to-know-or-do?u=76281980)
+#### [Is there anything that individuals need to know or do?](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/is-there-anything-that-individuals-need-to-know-or-do?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -769,7 +756,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), teams (5), business (3), leadership (1), hr (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1), kind of like (1)
 > **Speakers:** - as (1), - yeah (1)
@@ -780,8 +766,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/additional-resources?u=76281980)
+#### [Additional resources](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/additional-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -803,7 +788,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/additional-resources?u=76281980&t=40)** So thanks so much.
 >
-> **[0:41](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/additional-resources?u=76281980&t=41)** - [Nick] After finishing our conversation, Jon offered a few additional resources that can help people learn more about the EU Artificial Intelligence Act.
+> **[0:41](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/additional-resources?u=76281980&t=41)** - [Nick] After finishing our conversation, Jon offered a few additional resources that can help people learn more about the EU [[Artificial Intelligence (AI)|Artificial Intelligence]] Act.
 >
 > **[0:50](https://www.linkedin.com/learning/preparing-for-the-eu-ai-act-a-conversation-with-jon-adams/additional-resources?u=76281980&t=50)** There are resources available on the website for the European Commission.
 >
@@ -813,7 +798,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Speakers:** - that (1), - yeah (1), - [nick] (1)
 
 

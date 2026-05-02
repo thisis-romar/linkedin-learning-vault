@@ -67,12 +67,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### All about usability testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/all-about-usability-testing?u=76281980)
+#### [All about usability testing](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/all-about-usability-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/all-about-usability-testing?u=76281980&t=0)** - Usability testing is one of the most commonly used UX research methods, and for good reason.
+> **[0:00](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/all-about-usability-testing?u=76281980&t=0)** - [[Usability Testing]] is one of the most commonly used [[UX Research]] methods, and for good reason.
 >
 > **[0:06](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/all-about-usability-testing?u=76281980&t=6)** Usability testing is the gold standard for evaluative research, and it's a flexible enough method to gather a variety of data.
 >
@@ -88,11 +87,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Usability Testing]] (4), ux (1), data (1)
+> **Frameworks & Libraries:** [[Usability Testing]] (4), [[UX Research]] (1)
 > **Speakers:** - usability (1)
 
-#### Recap of usability testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/recap-of-usability-testing?u=76281980)
+#### [Recap of usability testing](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/recap-of-usability-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -102,7 +100,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/recap-of-usability-testing?u=76281980&t=15)** Like most UX tools, there are many variations, and it's important to understand those nuances so you can plan for your particular situation.
 >
-> **[0:24](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/recap-of-usability-testing?u=76281980&t=24)** While the general goal of usability testing is to assess usability, you might be doing so in vastly different contexts that change how you ought to plan, run, and analyze the sessions.
+> **[0:24](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/recap-of-usability-testing?u=76281980&t=24)** While the general goal of [[Usability Testing]] is to assess usability, you might be doing so in vastly different contexts that change how you ought to plan, run, and analyze the sessions.
 >
 > **[0:34](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/recap-of-usability-testing?u=76281980&t=34)** If you're not already familiar with usability testing, now would be a great time to check out UX Foundations: Usability Testing, which covers the basics.
 >
@@ -110,7 +108,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Usability Testing]] (3), ux (2), product (1)
+> **Frameworks & Libraries:** [[Usability Testing]] (3)
 > **Speakers:** - a (1)
 
 
@@ -118,8 +116,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Usability test locations
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/usability-test-locations?u=76281980)
+#### [Usability test locations](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/usability-test-locations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -133,7 +130,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/usability-test-locations?u=76281980&t=34)** Yes, I'm talking the dreaded one-way mirror set up.
 >
-> **[0:37](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/usability-test-locations?u=76281980&t=37)** These Labs might be at a third-party research facility, or even just a dedicated room of an office.
+> **[0:37](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/usability-test-locations?u=76281980&t=37)** These Labs might be at a third-party research facility, or even just a dedicated room of an [[Microsoft Office|office]].
 >
 > **[0:42](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/usability-test-locations?u=76281980&t=42)** If you don't have a lab, or need to bring the research to the participants, you might still conduct the sessions physically next to the participants.
 >
@@ -187,7 +184,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/usability-test-locations?u=76281980&t=202)** The first is that remote work allows you to access participants who are geographically spread out without extra time or costs.
 >
-> **[3:30](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/usability-test-locations?u=76281980&t=210)** The world is ever shrinking, and many of our products and services serve a large base of people.
+> **[3:30](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/usability-test-locations?u=76281980&t=210)** The world is ever shrinking, and many of our [[Microsoft Products|products]] and services serve a large base of people.
 >
 > **[3:37](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/usability-test-locations?u=76281980&t=217)** It's essential to be sure that you're incorporating feedback from multiple cultures, locations and contexts so as not to bias your results.
 >
@@ -205,15 +202,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), traffic (2), product (2), [[Microsoft Office|Office]] (1), ux (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1)
 > **Prerequisites:** set up (2), before we start (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 > **Analogies:** picture (1)
 > **Speakers:** - before (1)
 
-#### Moderated vs. unmoderated usability tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/moderated-vs-unmoderated-usability-tests?u=76281980)
+#### [Moderated vs. unmoderated usability tests](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/moderated-vs-unmoderated-usability-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -251,7 +247,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/moderated-vs-unmoderated-usability-tests?u=76281980&t=123)** And be precise in the instruction.
 >
-> **[2:06](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/moderated-vs-unmoderated-usability-tests?u=76281980&t=126)** Let's say we were testing the LinkedIn Learning site.
+> **[2:06](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/moderated-vs-unmoderated-usability-tests?u=76281980&t=126)** Let's say we were testing the [[LinkedIn]] Learning site.
 >
 > **[2:09](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/moderated-vs-unmoderated-usability-tests?u=76281980&t=129)** A good task might be something like, find a UX related LinkedIn Learning course you haven't yet watched, and stop when you get to a brief description of the course.
 >
@@ -275,7 +271,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/moderated-vs-unmoderated-usability-tests?u=76281980&t=191)** Everything from response to a new design direction, to interpretation of messaging options, to gut-checking which of an interaction pattern best suited our goals.
 >
-> **[3:21](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/moderated-vs-unmoderated-usability-tests?u=76281980&t=201)** These broad, quick studies have been especially useful when working in agile settings, and we needed data super fast.
+> **[3:21](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/moderated-vs-unmoderated-usability-tests?u=76281980&t=201)** These broad, quick studies have been especially useful when working in [[Agile Development|agile]] settings, and we needed data super fast.
 >
 > **[3:28](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/moderated-vs-unmoderated-usability-tests?u=76281980&t=208)** I also like to use unmoderated studies when I'm benchmarking and comparing the results over time.
 >
@@ -285,15 +281,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), functional (1), product (1), ux (1), parallel (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Code Identifiers:** ecommerce (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - along (1)
 
-#### Using usability tests to explore
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/using-usability-tests-to-explore?u=76281980)
+#### [Using usability tests to explore](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/using-usability-tests-to-explore?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -313,9 +308,9 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/using-usability-tests-to-explore?u=76281980&t=47)** You'll still have research goals and target areas to cover, but the tasks will be more general and more focused on hearing from the user how they accomplished a goal, than assessing a particular path for interaction.
 >
-> **[0:59](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/using-usability-tests-to-explore?u=76281980&t=59)** For instance, in a traditional test of an e-commerce site, you might have one task that is dedicated to assessing the search function and one that is designed to get participants to browse with categories.
+> **[0:59](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/using-usability-tests-to-explore?u=76281980&t=59)** For instance, in a traditional test of an [[E-Commerce]] site, you might have one task that is dedicated to assessing the search function and one that is designed to get participants to browse with categories.
 >
-> **[1:12](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/using-usability-tests-to-explore?u=76281980&t=72)** In a more exploratory usability test, you might ask users to generally identify a product that fits their needs and then observe which path they take, probing along the way to understand why they did it that way, what's preferable, and understand their decision-making process.
+> **[1:12](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/using-usability-tests-to-explore?u=76281980&t=72)** In a more exploratory usability test, you might ask users to generally identify a product that fits their needs and then observe which path they take, probing along the way to understand why they did it that way, what's preferable, and understand their [[Decision-Making]] process.
 >
 > **[1:29](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/using-usability-tests-to-explore?u=76281980&t=89)** You still want to understand how well the process works for them, but you're also evaluating the product or service more holistically and getting feedback about what they really do, rather than breaking it down to assess one piece at a time.
 >
@@ -329,7 +324,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/using-usability-tests-to-explore?u=76281980&t=130)** Your new goal becomes to better understand that decision and learn more about their context, rather than to assess the ease of use of the feature, they wouldn't use.
 >
-> **[2:19](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/using-usability-tests-to-explore?u=76281980&t=139)** This sort of exploratory formative usability testing, can be done at any time there is an existing solution and you want to learn more about real behavior or motivation users have.
+> **[2:19](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/using-usability-tests-to-explore?u=76281980&t=139)** This sort of exploratory formative [[Usability Testing]], can be done at any time there is an existing solution and you want to learn more about real behavior or motivation users have.
 >
 > **[2:30](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/using-usability-tests-to-explore?u=76281980&t=150)** That doesn't necessarily mean you have to test something live, but is often done in early stages of a redesign, assessment of a live product or early in the process of building something brand new.
 >
@@ -337,7 +332,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Usability Testing]] (2), [[E-Commerce]] (1), [[Search]] (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Usability Testing]] (2), [[E-Commerce]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
@@ -349,12 +344,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Participant recruiting considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/participant-recruiting-considerations?u=76281980)
+#### [Participant recruiting considerations](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/participant-recruiting-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/participant-recruiting-considerations?u=76281980&t=0)** - Many people who are new to usability testing struggle most with questions about the participants.
+> **[0:00](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/participant-recruiting-considerations?u=76281980&t=0)** - Many people who are new to [[Usability Testing]] struggle most with questions about the participants.
 >
 > **[0:06](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/participant-recruiting-considerations?u=76281980&t=6)** Who should you target?
 >
@@ -370,7 +364,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/participant-recruiting-considerations?u=76281980&t=29)** Lots of new researchers assume that you can include any general participant to identify usability issues.
 >
-> **[0:35](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/participant-recruiting-considerations?u=76281980&t=35)** If you're working on something like voting machines or a general e-commerce site, then yes, your audience truly could be just about anyone.
+> **[0:35](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/participant-recruiting-considerations?u=76281980&t=35)** If you're working on something like voting machines or a general [[E-Commerce]] site, then yes, your audience truly could be just about anyone.
 >
 > **[0:43](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/participant-recruiting-considerations?u=76281980&t=43)** Maybe you just need to know which of two Add to Cart interactions is easier.
 >
@@ -432,14 +426,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Usability Testing]] (1), [[E-Commerce]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Usability Testing]] (1), [[E-Commerce]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - many (1)
 
-#### Usability test logistics and preparation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/usability-test-logistics-and-preparation?u=76281980)
+#### [Usability test logistics and preparation](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/usability-test-logistics-and-preparation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -487,13 +480,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (1), set up (1)
 > **Speakers:** - while (1)
 
-#### Tips for moderating effective usability sessions
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/tips-for-moderating-effective-usability-sessions?u=76281980)
+#### [Tips for moderating effective usability sessions](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/tips-for-moderating-effective-usability-sessions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -583,7 +574,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), next (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -595,8 +585,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identifying and sharing true insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/identifying-and-sharing-true-insights?u=76281980)
+#### [Identifying and sharing true insights](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/identifying-and-sharing-true-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -658,7 +647,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (2), application (1), product (1), teams (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for instance (2)
 > **Best Practices:** you should always (1)
@@ -669,12 +657,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Practice makes perfect
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/practice-makes-perfect?u=76281980)
+#### [Practice makes perfect](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/practice-makes-perfect?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/practice-makes-perfect?u=76281980&t=0)** - Thank you so much for tuning in to my usability testing course.
+> **[0:00](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/practice-makes-perfect?u=76281980&t=0)** - Thank you so much for tuning in to my [[Usability Testing]] course.
 >
 > **[0:04](https://www.linkedin.com/learning/ux-deep-dive-usability-testing/practice-makes-perfect?u=76281980&t=4)** This course should have given you practical tips to improve your research practices, and gain the best insights from your testing efforts.
 >

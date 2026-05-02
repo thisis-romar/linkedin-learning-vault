@@ -76,8 +76,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Transformational change for your data organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/transformational-change-for-your-data-organization?u=76281980)
+#### [Transformational change for your data organization](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/transformational-change-for-your-data-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -89,20 +88,19 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/transformational-change-for-your-data-organization?u=76281980&t=22)** I work with a number of Fortune 500 clients to help them adopt AI optimized operations practices.
 >
-> **[0:29](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/transformational-change-for-your-data-organization?u=76281980&t=29)** You may also know me on LinkedIn as I am a top community voice for machine learning.
+> **[0:29](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/transformational-change-for-your-data-organization?u=76281980&t=29)** You may also know me on [[LinkedIn]] as I am a top community voice for machine learning.
 >
 > **[0:34](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/transformational-change-for-your-data-organization?u=76281980&t=34)** In this course, you'll gain an in-depth understanding of the complex operations carried out by teams within data organizations.
 >
-> **[0:42](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/transformational-change-for-your-data-organization?u=76281980&t=42)** But more importantly, you'll discover how AI SaaS tools and automation can dramatically reduce time, cost, and effort compared to traditional methods.
+> **[0:42](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/transformational-change-for-your-data-organization?u=76281980&t=42)** But more importantly, you'll discover how AI [[SaaS]] tools and automation can dramatically reduce time, cost, and effort compared to traditional methods.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), teams (2), ai (2), [[LinkedIn]] (1), [[SaaS]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[SaaS]] (1)
 > **Analogies:** imagine (1), picture (1)
 > **Speakers:** - imagine (1)
 
-#### Introduction to DataOps and the benefits of using AI tools to enhance operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-dataops-and-the-benefits-of-using-ai-tools-to-enhance-operations?u=76281980)
+#### [Introduction to DataOps and the benefits of using AI tools to enhance operations](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-dataops-and-the-benefits-of-using-ai-tools-to-enhance-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -122,7 +120,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-dataops-and-the-benefits-of-using-ai-tools-to-enhance-operations?u=76281980&t=62)** It's about making data work for the business in the most efficient way possible from start to finish.
 >
-> **[1:10](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-dataops-and-the-benefits-of-using-ai-tools-to-enhance-operations?u=76281980&t=70)** Gartner, a leading research and advisory company, defines DataOps as a collaborative data management practice focused on improving the communication, integration, and automation of data flows between data managers and data consumers across an organization.
+> **[1:10](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-dataops-and-the-benefits-of-using-ai-tools-to-enhance-operations?u=76281980&t=70)** Gartner, a leading research and advisory company, defines DataOps as a collaborative [[Data Management]] practice focused on improving the communication, integration, and automation of data flows between data managers and data consumers across an organization.
 >
 > **[1:27](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-dataops-and-the-benefits-of-using-ai-tools-to-enhance-operations?u=76281980&t=87)** Similarly, another definition from O'Reilly's book called "Getting DataOps Right" describes it as the automated, process-oriented methodology for making clean, reliable data available to teams throughout your company.
 >
@@ -158,7 +156,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-dataops-and-the-benefits-of-using-ai-tools-to-enhance-operations?u=76281980&t=186)** DataOps encourages continuous improvement in automation, helping to reduce and manage technical debt efficiently.
 >
-> **[3:14](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-dataops-and-the-benefits-of-using-ai-tools-to-enhance-operations?u=76281980&t=194)** Lastly, DataOps overcomes the challenge of inflexible data architecture.
+> **[3:14](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-dataops-and-the-benefits-of-using-ai-tools-to-enhance-operations?u=76281980&t=194)** Lastly, DataOps overcomes the challenge of inflexible [[Data Architecture]].
 >
 > **[3:18](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-dataops-and-the-benefits-of-using-ai-tools-to-enhance-operations?u=76281980&t=198)** A poor designed architecture can become a bottleneck, preventing the system from scaling and adapting to new requirements.
 >
@@ -168,11 +166,11 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-dataops-and-the-benefits-of-using-ai-tools-to-enhance-operations?u=76281980&t=215)** It represents a cultural shift in how organizations approach data management.
 >
-> **[3:41](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-dataops-and-the-benefits-of-using-ai-tools-to-enhance-operations?u=76281980&t=221)** It borrows concepts from Agile methodology, and DevOps' applying them to the world of data and analytics.
+> **[3:41](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-dataops-and-the-benefits-of-using-ai-tools-to-enhance-operations?u=76281980&t=221)** It borrows concepts from [[Agile Development|Agile]] methodology, and [[DevOps]]' applying them to the world of data and analytics.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), teams (5), [[Automation]] (3), management (2), business (1)
+> **Frameworks & Libraries:** [[Data Management]] (2), [[Data Architecture]] (1), [[Agile Development|Agile]] (1), [[DevOps]] (1)
 > **Analogies:** imagine (1), just like (1)
 > **CLI Commands:** find (1)
 > **Warnings:** note that (1)
@@ -183,14 +181,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identify and prioritize your organization's data
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/identify-and-prioritze-your-organiztion-s-data?u=76281980)
+#### [Identify and prioritize your organization's data](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/identify-and-prioritze-your-organiztion-s-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/identify-and-prioritze-your-organiztion-s-data?u=76281980&t=0)** - [Instructor] Whether you're a small startup or a large organization, making sure that you have a good understanding of the internal data sources and external data sources of your organization before you identify an AI strategy for optimizing your data organization's efficiency.
+> **[0:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/identify-and-prioritze-your-organiztion-s-data?u=76281980&t=0)** - [Instructor] Whether you're a small startup or a large organization, making sure that you have a good understanding of the internal data sources and external data sources of your organization before you identify an [[AI Strategy]] for optimizing your data organization's efficiency.
 >
-> **[0:18](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/identify-and-prioritze-your-organiztion-s-data?u=76281980&t=18)** Some of the internal data sources include sales data like, for example, sales transaction, customer contracts, lead conversion rates, et cetera, financial data such as billing, revenue, cost, profitability.
+> **[0:18](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/identify-and-prioritze-your-organiztion-s-data?u=76281980&t=18)** Some of the internal data sources include sales data like, for example, sales transaction, customer contracts, lead conversion rates, et cetera, [[Financial Data]] such as billing, revenue, cost, profitability.
 >
 > **[0:31](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/identify-and-prioritze-your-organiztion-s-data?u=76281980&t=31)** Next is marketing data, and then we have customer service data such as tickets, case resolutions, and then we have HR data such as employee records, performance review, payroll.
 >
@@ -206,13 +203,13 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/identify-and-prioritze-your-organiztion-s-data?u=76281980&t=79)** And then we have social media data such as brand mentions, customer feedback, influencer engagement on public social platforms.
 >
-> **[1:27](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/identify-and-prioritze-your-organiztion-s-data?u=76281980&t=87)** Then we have web data, which is web traffic, competitive analysis, SEO metrics, et cetera, which were obtained via web analytics tools.
+> **[1:27](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/identify-and-prioritze-your-organiztion-s-data?u=76281980&t=87)** Then we have web data, which is web traffic, competitive analysis, SEO metrics, et cetera, which were obtained via [[Web Analytics]] tools.
 >
-> **[1:35](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/identify-and-prioritze-your-organiztion-s-data?u=76281980&t=95)** You may also have survey data such as customer or employee market research data, which was conducted by third party agencies.
+> **[1:35](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/identify-and-prioritze-your-organiztion-s-data?u=76281980&t=95)** You may also have survey data such as customer or employee [[Market Research]] data, which was conducted by third party agencies.
 >
 > **[1:43](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/identify-and-prioritze-your-organiztion-s-data?u=76281980&t=103)** Other external data sources may include user-generated data such as reviews, complaints, or other feedback shared by online customers.
 >
-> **[1:50](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/identify-and-prioritze-your-organiztion-s-data?u=76281980&t=110)** And then we may have IoT or sensor data.
+> **[1:50](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/identify-and-prioritze-your-organiztion-s-data?u=76281980&t=110)** And then we may have [[IoT]] or sensor data.
 >
 > **[1:52](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/identify-and-prioritze-your-organiztion-s-data?u=76281980&t=112)** If your company produces a product that uses IoT technology, then there may be data from instruments, devices, or assets that are externally monitored.
 >
@@ -220,11 +217,11 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/identify-and-prioritze-your-organiztion-s-data?u=76281980&t=143)** Your metrics may include financial metrics such as ROI and data initiatives, such as return on investments from data-related projects or initiatives.
 >
-> **[2:31](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/identify-and-prioritze-your-organiztion-s-data?u=76281980&t=151)** Another financial metric is cost of data quality, the cost associated with maintaining and improving data quality, which indicates the efficiency in resource utilization.
+> **[2:31](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/identify-and-prioritze-your-organiztion-s-data?u=76281980&t=151)** Another financial metric is cost of [[Data Quality]], the cost associated with maintaining and improving data quality, which indicates the efficiency in resource utilization.
 >
 > **[2:41](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/identify-and-prioritze-your-organiztion-s-data?u=76281980&t=161)** You also have data quality score, which is a comprehensive rating, reflective of data accuracy, consistency, timeliness and completeness of the data.
 >
-> **[2:51](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/identify-and-prioritze-your-organiztion-s-data?u=76281980&t=171)** Next is rate of data incidents, the number of data breaches, losses, inaccuracy incidents indicating the data security and accuracy.
+> **[2:51](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/identify-and-prioritze-your-organiztion-s-data?u=76281980&t=171)** Next is rate of data incidents, the number of data breaches, losses, inaccuracy incidents indicating the [[Data Security]] and accuracy.
 >
 > **[3:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/identify-and-prioritze-your-organiztion-s-data?u=76281980&t=180)** And then we also have data accessibility and availability.
 >
@@ -242,15 +239,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (46), next (4), web (3), product (2), [[IoT]] (2)
+> **Frameworks & Libraries:** [[Data Quality]] (3), [[IoT]] (2), [[AI Strategy]] (1), [[Financial Data]] (1), [[Web Analytics]] (1)
 > **Analogies:** such as (12), for example (1)
 > **Env Vars:** seo (1), roi (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How AI can be used to discover, catalog, and understand your data sources?
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980)
+#### [How AI can be used to discover, catalog, and understand your data sources?](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -258,9 +254,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=6)** Let's explore five ways in which AI can drastically improve how your organization handles its data.
 >
-> **[0:13](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=13)** AI tools can now scan and catalog existing data repositories, databases, and file systems within your organization.
+> **[0:13](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=13)** AI tools can now scan and catalog existing data repositories, [[Databases]], and file systems within your organization.
 >
-> **[0:21](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=21)** Algorithms are used to identify patterns in structures and data, making it easier to locate and categorize datasets, and here's how it works.
+> **[0:21](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=21)** [[Algorithms]] are used to identify patterns in structures and data, making it easier to locate and categorize datasets, and here's how it works.
 >
 > **[0:30](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=30)** The process begins with scanning, where AI tools crawl through data sources.
 >
@@ -276,9 +272,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=59)** This automation saves time, streamlining a process that was manual and time-consuming.
 >
-> **[1:05](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=65)** It also enhances data governance by providing oversight of an organization's data assets.
+> **[1:05](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=65)** It also enhances [[Data Governance]] by providing oversight of an organization's data assets.
 >
-> **[1:12](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=72)** Similarly, AI algorithms analyze metadata associated with datasets to understand their characteristics, such as data types, formats, and relationships.
+> **[1:12](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=72)** Similarly, AI algorithms analyze [[Metadata]] associated with datasets to understand their characteristics, such as data types, formats, and relationships.
 >
 > **[1:22](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=82)** This analysis helps in creating an inventory of data sources, providing a picture of an organization's data landscape.
 >
@@ -292,11 +288,11 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=106)** Finally, it evaluates the completeness and accuracy of the metadata.
 >
-> **[1:49](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=109)** The benefits are significant in that it provides understanding of the content and structure of the datasets, which is crucial for data management.
+> **[1:49](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=109)** The benefits are significant in that it provides understanding of the content and structure of the datasets, which is crucial for [[Data Management]].
 >
-> **[1:59](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=119)** This helps users determine the suitability of a dataset for specific analysis or application, improves data lineage tracking, and enhances the data quality management.
+> **[1:59](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=119)** This helps users determine the suitability of a dataset for specific analysis or application, improves [[Data Lineage]] tracking, and enhances the [[Data Quality]] management.
 >
-> **[2:11](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=131)** Text mining and natural language processing are also increasingly being used for data management nowadays.
+> **[2:11](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=131)** [[Text Mining]] and [[Natural Language Processing (NLP)|natural language processing]] are also increasingly being used for data management nowadays.
 >
 > **[2:16](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=136)** NLP techniques can be used to analyze textual content, including documentation, reports, and descriptions to identify mentions of data sources, their purposes, and interconnections.
 >
@@ -304,7 +300,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=153)** It enables tagging, applying labels to documents and datasets.
 >
-> **[2:38](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=158)** This helps your organization to gain insights from unstructured data, and it also improves the searchability of both structured and unstructured data.
+> **[2:38](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=158)** This helps your organization to gain insights from [[Unstructured Data]], and it also improves the searchability of both structured and unstructured data.
 >
 > **[2:48](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=168)** AI can establish and track data lineage showing how data flows through an organization's systems.
 >
@@ -324,7 +320,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=211)** This helps us to do impact analysis, help organizations predict how changes in one part of the system may affect others.
 >
-> **[3:40](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=220)** And it also supports compliance tracking, making it easy to meet regulatory requirements about data handling and privacy.
+> **[3:40](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=220)** And it also supports compliance tracking, making it easy to meet regulatory requirements about data handling and [[Privacy]].
 >
 > **[3:47](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=227)** Now let's explore how AI uses pattern recognition.
 >
@@ -344,7 +340,7 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=272)** For example, it can help in fraud detection by identifying unusual transaction patterns.
 >
-> **[4:37](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=277)** It's useful in predictive modeling, allowing organizations to forecast future trends based on historical data patterns.
+> **[4:37](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=277)** It's useful in [[Predictive Modeling]], allowing organizations to forecast future trends based on historical data patterns.
 >
 > **[4:45](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/how-ai-can-be-used-to-discover-catalog-and-understand-your-data-sources?u=76281980&t=285)** It can also identify relationships between variables, uncovering connections that might not be immediately apparent.
 >
@@ -354,18 +350,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (40), ai (14), [[Algorithms]] (5), management (4), [[Metadata]] (3)
+> **Frameworks & Libraries:** [[Algorithms]] (5), [[Metadata]] (3), [[Data Management]] (3), [[Data Lineage]] (3), [[Unstructured Data]] (2)
 > **Analogies:** such as (1), picture (1), for example (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** nlp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automate data cataloging and classification using Collibra Data Intelligence Platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/automate-data-cataloging-and-classification-using-collibra-data-intelligence-platform?u=76281980)
+#### [Automate data cataloging and classification using Collibra Data Intelligence Platform](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/automate-data-cataloging-and-classification-using-collibra-data-intelligence-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/automate-data-cataloging-and-classification-using-collibra-data-intelligence-platform?u=76281980&t=0)** - [Instructor] Now, let's put this into action and see how AI can be used for data cataloging and data classification.
+> **[0:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/automate-data-cataloging-and-classification-using-collibra-data-intelligence-platform?u=76281980&t=0)** - [Instructor] Now, let's put this into action and see how AI can be used for data cataloging and [[Data Classification]].
 >
 > **[0:08](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/automate-data-cataloging-and-classification-using-collibra-data-intelligence-platform?u=76281980&t=8)** We're going to explore a tool called Collibra Data Intelligence Platform.
 >
@@ -381,7 +376,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/automate-data-cataloging-and-classification-using-collibra-data-intelligence-platform?u=76281980&t=45)** You see that this pulled several different datasets for us.
 >
-> **[0:49](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/automate-data-cataloging-and-classification-using-collibra-data-intelligence-platform?u=76281980&t=49)** It pulled columns, it pulled Tableau workbooks, and it pulled tables.
+> **[0:49](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/automate-data-cataloging-and-classification-using-collibra-data-intelligence-platform?u=76281980&t=49)** It pulled columns, it pulled [[Tableau]] workbooks, and it pulled tables.
 >
 > **[0:53](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/automate-data-cataloging-and-classification-using-collibra-data-intelligence-platform?u=76281980&t=53)** We see over here that this table over here contains a comment that says about employee promotions, which seems very relevant to what we're looking for.
 >
@@ -421,7 +416,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/automate-data-cataloging-and-classification-using-collibra-data-intelligence-platform?u=76281980&t=173)** We see here that the tool has automatically created a schema diagram showing the transformation that the data underwent, from source to destination.
 >
-> **[3:03](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/automate-data-cataloging-and-classification-using-collibra-data-intelligence-platform?u=76281980&t=183)** Further, you can even inspect the SQL query used at a table and column level, which was auto-generated by AI as well.
+> **[3:03](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/automate-data-cataloging-and-classification-using-collibra-data-intelligence-platform?u=76281980&t=183)** Further, you can even inspect the [[SQL]] query used at a table and column level, which was auto-generated by AI as well.
 >
 > **[3:12](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/automate-data-cataloging-and-classification-using-collibra-data-intelligence-platform?u=76281980&t=192)** Now, let's explore the data further by clicking on one of the columns.
 >
@@ -437,15 +432,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), ai (8), [[Data Classification]] (2), power (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Data Classification]] (2), [[Tableau]] (1), [[SQL]] (1)
 > **Env Vars:** uuid (1), ssn (1), sql (1)
 > **UI Navigation:** click on (3)
 > **Analogies:** imagine (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Risks and controls for consideration
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-and-controls-for-consideration?u=76281980)
+#### [Risks and controls for consideration](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-and-controls-for-consideration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -455,7 +449,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-and-controls-for-consideration?u=76281980&t=24)** There is a known risk of AI models misinterpreting or misclassifying data, which can lead to some serious inaccuracies.
 >
-> **[0:31](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-and-controls-for-consideration?u=76281980&t=31)** To combat this, we need to implement robust data quality checks and validation processes.
+> **[0:31](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-and-controls-for-consideration?u=76281980&t=31)** To combat this, we need to implement robust [[Data Quality]] checks and validation processes.
 >
 > **[0:38](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-and-controls-for-consideration?u=76281980&t=38)** It's also very important to maintain human oversight.
 >
@@ -465,7 +459,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-and-controls-for-consideration?u=76281980&t=50)** Before you implement an AI tool to perform auto-cataloging and auto-classification, please ensure that your team performs adequate testing with representative data to make sure that the cataloging and the classification is in line with the expectations of your organization.
 >
-> **[1:09](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-and-controls-for-consideration?u=76281980&t=69)** Make sure to check for data quality issues and data integrity issues.
+> **[1:09](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-and-controls-for-consideration?u=76281980&t=69)** Make sure to check for data quality issues and [[Data Integrity]] issues.
 >
 > **[1:15](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-and-controls-for-consideration?u=76281980&t=75)** Do this testing before you implement the data and even after you implement the data, do periodic assessments to make sure that the AI tool is performing as intended.
 >
@@ -479,7 +473,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-and-controls-for-consideration?u=76281980&t=103)** A well thought out integration plan can save you a lot of headaches down the road.
 >
-> **[1:48](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-and-controls-for-consideration?u=76281980&t=108)** Let's say your organization does not want to use a SaaS AI tool that's out in the market today and would like to produce or create its own AI tool.
+> **[1:48](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-and-controls-for-consideration?u=76281980&t=108)** Let's say your organization does not want to use a [[SaaS]] AI tool that's out in the market today and would like to produce or create its own AI tool.
 >
 > **[1:58](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-and-controls-for-consideration?u=76281980&t=118)** In that case, please ensure that your organization trains the model on a diverse set of data.
 >
@@ -493,11 +487,11 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-and-controls-for-consideration?u=76281980&t=140)** Your AI needs to keep learning to stay relevant in our ever-changing data landscape.
 >
-> **[2:26](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-and-controls-for-consideration?u=76281980&t=146)** Lastly, we have the challenge of unstructured data.
+> **[2:26](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-and-controls-for-consideration?u=76281980&t=146)** Lastly, we have the challenge of [[Unstructured Data]].
 >
 > **[2:30](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-and-controls-for-consideration?u=76281980&t=150)** AI can sometimes struggle with interpreting data and images accurately.
 >
-> **[2:34](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-and-controls-for-consideration?u=76281980&t=154)** To address this, we need to invest in specialized models and algorithms designed specifically for handling unstructured data.
+> **[2:34](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-and-controls-for-consideration?u=76281980&t=154)** To address this, we need to invest in specialized models and [[Algorithms]] designed specifically for handling unstructured data.
 >
 > **[2:41](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-and-controls-for-consideration?u=76281980&t=161)** It's like giving your AI the right tools for the job.
 >
@@ -511,7 +505,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), data (14), [[Unstructured Data]] (2), [[Security]] (2), next (1)
+> **Frameworks & Libraries:** [[Data Quality]] (2), [[Unstructured Data]] (2), [[Data Integrity]] (1), [[SaaS]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Analogies:** think of it as (1), it's like (1)
@@ -524,12 +518,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to data quality monitoring and traditional methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-data-quality-monitoring-and-traditional-methods?u=76281980)
+#### [Introduction to data quality monitoring and traditional methods](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-data-quality-monitoring-and-traditional-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-data-quality-monitoring-and-traditional-methods?u=76281980&t=0)** - [Instructor] Now let's explore how data quality checks can be automated using AI.
+> **[0:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-data-quality-monitoring-and-traditional-methods?u=76281980&t=0)** - [Instructor] Now let's explore how [[Data Quality]] checks can be automated using AI.
 >
 > **[0:05](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-data-quality-monitoring-and-traditional-methods?u=76281980&t=5)** Data quality checks are performed to ensure that data within an organization meet standards for accuracy, completeness, consistency, and validity.
 >
@@ -547,9 +540,9 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-data-quality-monitoring-and-traditional-methods?u=76281980&t=66)** It was like looking for a needle in a haystack, but the haystack was made of numbers and text.
 >
-> **[1:12](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-data-quality-monitoring-and-traditional-methods?u=76281980&t=72)** Companies would set up rules for data validation.
+> **[1:12](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-data-quality-monitoring-and-traditional-methods?u=76281980&t=72)** Companies would set up rules for [[Data Validation]].
 >
-> **[1:16](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-data-quality-monitoring-and-traditional-methods?u=76281980&t=76)** For example, they might specify that all phone numbers must have 10 digits, then the teams would run these rules against their databases, often as overnight batch processes.
+> **[1:16](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-data-quality-monitoring-and-traditional-methods?u=76281980&t=76)** For example, they might specify that all phone numbers must have 10 digits, then the teams would run these rules against their [[Databases]], often as overnight batch processes.
 >
 > **[1:27](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/introduction-to-data-quality-monitoring-and-traditional-methods?u=76281980&t=87)** The next morning, they'd come back to find lists of flagged entries that didn't meet the criteria, and from there, it was just a matter of human intervention.
 >
@@ -571,22 +564,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), ai (2), teams (2), database (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (5), [[Data Validation]] (1), [[Databases]] (1)
 > **Analogies:** such as (2), imagine (1), picture (1), for example (1)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enhance the quality of streaming data pipelines using AI and stream monitoring tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-streaming-data-pipeline-using-ai-and-stream-monitoring-tools?u=76281980)
+#### [Enhance the quality of streaming data pipelines using AI and stream monitoring tools](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-streaming-data-pipeline-using-ai-and-stream-monitoring-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-streaming-data-pipeline-using-ai-and-stream-monitoring-tools?u=76281980&t=0)** - [Instructor] Let's explore how quality monitoring for various data types, such as streaming data, batch data, structured, unstructured and semi-structured data can be automated using AI.
 >
-> **[0:11](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-streaming-data-pipeline-using-ai-and-stream-monitoring-tools?u=76281980&t=11)** Streaming data is a continuous flow of real-time information from various sources requiring immediate processing and analysis.
+> **[0:11](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-streaming-data-pipeline-using-ai-and-stream-monitoring-tools?u=76281980&t=11)** Streaming data is a continuous flow of [[Real-Time]] information from various sources requiring immediate processing and analysis.
 >
-> **[0:19](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-streaming-data-pipeline-using-ai-and-stream-monitoring-tools?u=76281980&t=19)** Some examples of streaming data are IoT sensor data, financial transaction logs, social media feeds, and health monitoring device data.
+> **[0:19](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-streaming-data-pipeline-using-ai-and-stream-monitoring-tools?u=76281980&t=19)** Some examples of streaming data are [[IoT]] sensor data, financial transaction logs, social media feeds, and health monitoring device data.
 >
 > **[0:29](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-streaming-data-pipeline-using-ai-and-stream-monitoring-tools?u=76281980&t=29)** For streaming data, real-time processing is absolutely crucial.
 >
@@ -596,17 +588,17 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-streaming-data-pipeline-using-ai-and-stream-monitoring-tools?u=76281980&t=44)** So for example, an AI system could instantly flag anomalies and sensor data from IoT devices ensuring only quality data moves downstream.
 >
-> **[0:54](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-streaming-data-pipeline-using-ai-and-stream-monitoring-tools?u=76281980&t=54)** Machine learning algorithms can learn patterns in your data stream and automatically apply cleansing rules.
+> **[0:54](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-streaming-data-pipeline-using-ai-and-stream-monitoring-tools?u=76281980&t=54)** Machine learning [[Algorithms]] can learn patterns in your data stream and automatically apply cleansing rules.
 >
 > **[1:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-streaming-data-pipeline-using-ai-and-stream-monitoring-tools?u=76281980&t=60)** These could include deduplication of records, standardization of formats like date formats, or address formats and imputation of missing values based on historical patterns.
 >
-> **[1:11](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-streaming-data-pipeline-using-ai-and-stream-monitoring-tools?u=76281980&t=71)** AI powered monitoring system can track data quality metrics in real time.
+> **[1:11](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-streaming-data-pipeline-using-ai-and-stream-monitoring-tools?u=76281980&t=71)** AI powered monitoring system can track [[Data Quality]] metrics in real time.
 >
 > **[1:15](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-streaming-data-pipeline-using-ai-and-stream-monitoring-tools?u=76281980&t=75)** They can learn normal patterns and alert when deviations occur.
 >
 > **[1:18](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-streaming-data-pipeline-using-ai-and-stream-monitoring-tools?u=76281980&t=78)** This proactive approach allows for immediate intervention when data quality issues arise.
 >
-> **[1:25](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-streaming-data-pipeline-using-ai-and-stream-monitoring-tools?u=76281980&t=85)** Integrate the AI tool of choice with streaming data platform like Apache Kafka or Amazon Kinesis to ingest and process real-time data.
+> **[1:25](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-streaming-data-pipeline-using-ai-and-stream-monitoring-tools?u=76281980&t=85)** Integrate the AI tool of choice with streaming data platform like [[Apache Kafka]] or Amazon Kinesis to ingest and process real-time data.
 >
 > **[1:33](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-streaming-data-pipeline-using-ai-and-stream-monitoring-tools?u=76281980&t=93)** Use of anomaly detection algorithms such as isolation forest, autoencoders, to analyze streaming data and identify deviations from expected patterns.
 >
@@ -616,18 +608,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), ai (6), [[Real-Time]] (4), [[IoT]] (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Real-Time]] (4), [[Data Quality]] (3), [[IoT]] (2), [[Algorithms]] (2), [[Apache Kafka]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** apache (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enhance the quality of batch processing pipelines using AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-batch-processing-pipeline-using-ai?u=76281980)
+#### [Enhance the quality of batch processing pipelines using AI](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-batch-processing-pipeline-using-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-batch-processing-pipeline-using-ai?u=76281980&t=0)** - [Instructor] While batch processing doesn't have the same real-time constraints as streaming, AI can still significantly enhance and automate data quality processes.
+> **[0:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-batch-processing-pipeline-using-ai?u=76281980&t=0)** - [Instructor] While [[Batch Processing]] doesn't have the same [[Real-Time]] constraints as streaming, AI can still significantly enhance and automate [[Data Quality]] processes.
 >
 > **[0:09](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-batch-processing-pipeline-using-ai?u=76281980&t=9)** AI can analyze large batches of data to automatically generate data profiles.
 >
@@ -637,7 +628,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-batch-processing-pipeline-using-ai?u=76281980&t=29)** This reduces a need for manual rule creation and maintenance.
 >
-> **[0:33](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-batch-processing-pipeline-using-ai?u=76281980&t=33)** Once you identify the data quality tool of your choice, consider integrating it with orchestration tools like Apache Airflow or Kubernetes for automating remediation workflows.
+> **[0:33](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-batch-processing-pipeline-using-ai?u=76281980&t=33)** Once you identify the data quality tool of your choice, consider integrating it with orchestration tools like [[Apache Airflow]] or [[Kubernetes]] for automating remediation workflows.
 >
 > **[0:43](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-batch-processing-pipeline-using-ai?u=76281980&t=43)** In addition to the AI features, you can execute predefined scripts or actions to correct issues, such as filling missing values, updating records, or triggering data quality checks.
 >
@@ -651,11 +642,11 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-batch-processing-pipeline-using-ai?u=76281980&t=85)** Let's put this into action and discuss how AWS Glue evaluates data quality rules.
 >
-> **[1:31](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-batch-processing-pipeline-using-ai?u=76281980&t=91)** AWS Glue is a tool that's provided as part of the AWS suite of products.
+> **[1:31](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-batch-processing-pipeline-using-ai?u=76281980&t=91)** AWS Glue is a tool that's provided as part of the AWS suite of [[Microsoft Products|products]].
 >
 > **[1:36](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-batch-processing-pipeline-using-ai?u=76281980&t=96)** If your organization is already using AWS, then this is a great choice.
 >
-> **[1:41](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-batch-processing-pipeline-using-ai?u=76281980&t=101)** AWS Glue collects data statistics when assessing data quality rules.
+> **[1:41](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-batch-processing-pipeline-using-ai?u=76281980&t=101)** AWS Glue collects data [[Statistics]] when assessing data quality rules.
 >
 > **[1:46](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-batch-processing-pipeline-using-ai?u=76281980&t=106)** For instance, it might count unique values in a data set and compare this to expected values.
 >
@@ -675,19 +666,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), ai (6), aws (6), [[Statistics]] (3), [[Real-Time]] (2)
+> **Frameworks & Libraries:** [[Data Quality]] (9), [[Statistics]] (3), [[Real-Time]] (2), [[Batch Processing]] (1), [[Apache Airflow]] (1)
 > **CLI Commands:** aws (6), apache (1)
 > **Env Vars:** aws (6), etl (1)
 > **Analogies:** such as (1), for example (1), for instance (1), compare this to (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Demonstration of AWS Glue data quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-of-aws-glue-data-quality?u=76281980)
+#### [Demonstration of AWS Glue data quality](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-of-aws-glue-data-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-of-aws-glue-data-quality?u=76281980&t=0)** - [Narrator] Now let's check out a demo of the AWS Glue Data Quality Tool.
+> **[0:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-of-aws-glue-data-quality?u=76281980&t=0)** - [Narrator] Now let's check out a demo of the AWS Glue [[Data Quality]] Tool.
 >
 > **[0:04](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-of-aws-glue-data-quality?u=76281980&t=4)** If you would like to revisit how this tool works in the background and uses machine learning, you can check out the previous lesson.
 >
@@ -695,7 +685,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-of-aws-glue-data-quality?u=76281980&t=13)** To enable anomaly detection, you can open AWS Glue Studio job and toggle to enable anomaly detection.
 >
-> **[0:21](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-of-aws-glue-data-quality?u=76281980&t=21)** Turning this enables anomaly detection on your data by analyzing your data over time and providing statistics about your data and observations that you can act on.
+> **[0:21](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-of-aws-glue-data-quality?u=76281980&t=21)** Turning this enables anomaly detection on your data by analyzing your data over time and providing [[Statistics]] about your data and observations that you can act on.
 >
 > **[0:31](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-of-aws-glue-data-quality?u=76281980&t=31)** To enable anomaly detection in AWS Glue Studio, choose the data quality node in your job, then choose the anomaly detection tab.
 >
@@ -747,61 +737,59 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Statistics]] (6), aws (4), next (3), node (2)
+> **Frameworks & Libraries:** [[Statistics]] (6), [[Data Quality]] (4)
 > **CLI Commands:** aws (4), node (2)
 > **Env Vars:** aws (4)
 > **UI Navigation:** toggle (2)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [narrator] (1)
 
-#### Enhance the quality of structured and unstructured data using AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-structured-and-unstructured-data-using-ai?u=76281980)
+#### [Enhance the quality of structured and unstructured data using AI](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-structured-and-unstructured-data-using-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-structured-and-unstructured-data-using-ai?u=76281980&t=0)** - [Narrator] Now let's see how AI can be used to enhance the quality of structured and unstructured data.
+> **[0:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-structured-and-unstructured-data-using-ai?u=76281980&t=0)** - [Narrator] Now let's see how AI can be used to enhance the quality of structured and [[Unstructured Data]].
 >
-> **[0:06](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-structured-and-unstructured-data-using-ai?u=76281980&t=6)** Natural language processing, otherwise known as NLP, can extract entities, categorize data, identify sentiment, enhance the quality and usability of textual data.
+> **[0:06](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-structured-and-unstructured-data-using-ai?u=76281980&t=6)** [[Natural Language Processing (NLP)|Natural language processing]], otherwise known as NLP, can extract entities, categorize data, identify sentiment, enhance the quality and usability of textual data.
 >
-> **[0:16](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-structured-and-unstructured-data-using-ai?u=76281980&t=16)** Computer vision algorithms can analyze and categorize images, ensuring that they meet quality standards before entering your data pipeline.
+> **[0:16](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-structured-and-unstructured-data-using-ai?u=76281980&t=16)** [[Computer Vision]] [[Algorithms]] can analyze and categorize images, ensuring that they meet quality standards before entering your data pipeline.
 >
-> **[0:24](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-structured-and-unstructured-data-using-ai?u=76281980&t=24)** AI can help parse and standardize semi-structured data like JSON or XML.
+> **[0:24](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-structured-and-unstructured-data-using-ai?u=76281980&t=24)** AI can help parse and standardize semi-structured data like [[JSON]] or XML.
 >
 > **[0:28](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-structured-and-unstructured-data-using-ai?u=76281980&t=28)** Machine learning models can learn the structure of your semi-structured data and flag inconsistencies or structure errors.
 >
 > **[0:35](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-structured-and-unstructured-data-using-ai?u=76281980&t=35)** They can also assist in schema mapping, like making it easier to integrate diverse data sources.
 >
-> **[0:42](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-structured-and-unstructured-data-using-ai?u=76281980&t=42)** There are some overarching AI techniques and features, which can significantly enhance data quality.
+> **[0:42](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-structured-and-unstructured-data-using-ai?u=76281980&t=42)** There are some overarching AI techniques and features, which can significantly enhance [[Data Quality]].
 >
-> **[0:48](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-structured-and-unstructured-data-using-ai?u=76281980&t=48)** AI powered knowledge graphs can map relationships between data elements, providing context that enhance data quality checks.
+> **[0:48](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-structured-and-unstructured-data-using-ai?u=76281980&t=48)** AI powered [[Knowledge Graphs]] can map relationships between data elements, providing context that enhance data quality checks.
 >
 > **[0:55](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-structured-and-unstructured-data-using-ai?u=76281980&t=55)** They can help identify inconsistencies across different data sources and suggest corrections.
 >
-> **[1:02](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-structured-and-unstructured-data-using-ai?u=76281980&t=62)** Large language models, otherwise known as LLMs, can be fine tuned to understand your specific data domain.
+> **[1:02](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-structured-and-unstructured-data-using-ai?u=76281980&t=62)** [[Large Language Models (LLM)|Large language models]], otherwise known as LLMs, can be fine tuned to understand your specific data domain.
 >
 > **[1:09](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-structured-and-unstructured-data-using-ai?u=76281980&t=69)** They can generate complex data quality rules based on natural language descriptions, assist in data cleansing by suggesting corrections for inconsistent or incorrect data.
 >
-> **[1:20](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-structured-and-unstructured-data-using-ai?u=76281980&t=80)** They can also help in data integration by understanding and mapping different data schemas.
+> **[1:20](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-structured-and-unstructured-data-using-ai?u=76281980&t=80)** They can also help in [[Data Integration]] by understanding and mapping different data schemas.
 >
 > **[1:26](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/enhance-quality-of-structured-and-unstructured-data-using-ai?u=76281980&t=86)** Advanced anomaly detection algorithms can work across various data types and processing paradigms to identify outliers and potential data quality issues.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), ai (4), [[Algorithms]] (2), [[Unstructured Data]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (4), [[Algorithms]] (2), [[Unstructured Data]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Computer Vision]] (1)
 > **Env Vars:** nlp (1), json (1), xml (1)
 > **Definitions:** known as (2)
 > **Speakers:** - [narrator] (1)
 
-#### Demonstration of automating data quality monitoring using Collibra Data Intelligence Platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-data-quality-monitoring-using-collibra-data-intelligence-platform?u=76281980)
+#### [Demonstration of automating data quality monitoring using Collibra Data Intelligence Platform](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-data-quality-monitoring-using-collibra-data-intelligence-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-data-quality-monitoring-using-collibra-data-intelligence-platform?u=76281980&t=0)** - [Instructor] Now let's see a demo of how AI can be used for data quality monitoring.
+> **[0:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-data-quality-monitoring-using-collibra-data-intelligence-platform?u=76281980&t=0)** - [Instructor] Now let's see a demo of how AI can be used for [[Data Quality]] monitoring.
 >
 > **[0:05](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-data-quality-monitoring-using-collibra-data-intelligence-platform?u=76281980&t=5)** Collibra Data Quality Tool leverages Spark-based parallel processing to efficiently analyze extensive datasets, offering both horizontal and vertical scaling capabilities.
 >
-> **[0:17](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-data-quality-monitoring-using-collibra-data-intelligence-platform?u=76281980&t=17)** This enables comprehensive scanning of large scale databases and diverse file systems.
+> **[0:17](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-data-quality-monitoring-using-collibra-data-intelligence-platform?u=76281980&t=17)** This enables comprehensive scanning of large scale [[Databases]] and diverse file systems.
 >
 > **[0:22](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-data-quality-monitoring-using-collibra-data-intelligence-platform?u=76281980&t=22)** They've got you covered with over 30 built in connectors, but here's the cool part.
 >
@@ -841,7 +829,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-data-quality-monitoring-using-collibra-data-intelligence-platform?u=76281980&t=115)** Now, let's run the job.
 >
-> **[1:58](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-data-quality-monitoring-using-collibra-data-intelligence-platform?u=76281980&t=118)** The data profile table provides comprehensive insights into column level data quality metrics, automatically compiling various statistics from the DQ job we just ran.
+> **[1:58](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-data-quality-monitoring-using-collibra-data-intelligence-platform?u=76281980&t=118)** The data profile table provides comprehensive insights into column level data quality metrics, automatically compiling various [[Statistics]] from the DQ job we just ran.
 >
 > **[2:09](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-data-quality-monitoring-using-collibra-data-intelligence-platform?u=76281980&t=129)** These insights help distinguish between relative metrics for numeric and non-numeric data, covering aspects like data type, quality percentages, uniqueness and null values or empty values.
 >
@@ -867,7 +855,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-data-quality-monitoring-using-collibra-data-intelligence-platform?u=76281980&t=216)** The behavior tab highlights data changes such as changes in unique value counts.
 >
-> **[3:40](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-data-quality-monitoring-using-collibra-data-intelligence-platform?u=76281980&t=220)** Today, only one office location has been detected in the data when typically it's about 15.
+> **[3:40](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-data-quality-monitoring-using-collibra-data-intelligence-platform?u=76281980&t=220)** Today, only one [[Microsoft Office|office]] location has been detected in the data when typically it's about 15.
 >
 > **[3:46](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-data-quality-monitoring-using-collibra-data-intelligence-platform?u=76281980&t=226)** This impacts the quality score and shows signs that something is abnormal.
 >
@@ -907,7 +895,7 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-data-quality-monitoring-using-collibra-data-intelligence-platform?u=76281980&t=327)** We saw how it can automate anomaly detection to identify unexpected changes in data patterns, such as shifts in unique value counts, and presence of outliers, all without requiring any manual rule creation.
 >
-> **[5:41](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-data-quality-monitoring-using-collibra-data-intelligence-platform?u=76281980&t=341)** We saw how machine learning algorithms can provide detailed insights or reports through automated generation of data profiles, histograms, and correlation matrices offering a comprehensive view of data quality without any manual analysis.
+> **[5:41](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-data-quality-monitoring-using-collibra-data-intelligence-platform?u=76281980&t=341)** We saw how machine learning [[Algorithms]] can provide detailed insights or reports through automated generation of data profiles, histograms, and correlation matrices offering a comprehensive view of data quality without any manual analysis.
 >
 > **[5:59](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-data-quality-monitoring-using-collibra-data-intelligence-platform?u=76281980&t=359)** We also saw how AI can provide intelligent outlier detection with confidence scoring, helping us prioritize which anomalies need immediate attention.
 >
@@ -915,21 +903,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (36), ai (6), next (3), management (2), parallel (1)
+> **Frameworks & Libraries:** [[Data Quality]] (13), [[Databases]] (1), [[Statistics]] (1), [[Microsoft Office|Office]] (1), [[Algorithms]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** stands for (2), basically means (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### What to know before implementing AI for data quality automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/what-to-know-before-implementing-ai-for-data-quality-automation?u=76281980)
+#### [What to know before implementing AI for data quality automation](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/what-to-know-before-implementing-ai-for-data-quality-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/what-to-know-before-implementing-ai-for-data-quality-automation?u=76281980&t=0)** - [Instructor] Now that you understand how AI can be used to automate data quality monitoring, before you start implementing AI, let's take a look at a few risks and some best practices for implementing AI driven data quality automation.
+> **[0:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/what-to-know-before-implementing-ai-for-data-quality-automation?u=76281980&t=0)** - [Instructor] Now that you understand how AI can be used to automate [[Data Quality]] monitoring, before you start implementing AI, let's take a look at a few risks and some best practices for implementing AI driven data quality automation.
 >
-> **[0:15](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/what-to-know-before-implementing-ai-for-data-quality-automation?u=76281980&t=15)** Some of the common risks associated with implementing AI as part of this process is misidentification of critical data quality issues, implementation of misaligned or ineffective AI solutions, biased or inaccurate AI model performance, stakeholder resistance, degradation of AI model effectiveness over time.
+> **[0:15](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/what-to-know-before-implementing-ai-for-data-quality-automation?u=76281980&t=15)** Some of the common risks associated with implementing AI as part of this process is misidentification of critical data quality issues, implementation of misaligned or ineffective [[AI Solutions]], biased or inaccurate AI model performance, stakeholder resistance, degradation of AI model effectiveness over time.
 >
 > **[0:35](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/what-to-know-before-implementing-ai-for-data-quality-automation?u=76281980&t=35)** To combat these risks, here are some of the best practices for implementing AI.
 >
@@ -941,13 +928,13 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/what-to-know-before-implementing-ai-for-data-quality-automation?u=76281980&t=58)** Choose AI tools that align with your specific needs.
 >
-> **[1:02](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/what-to-know-before-implementing-ai-for-data-quality-automation?u=76281980&t=62)** Many cloud providers and data management platforms now offer AI enhanced data quality features, such as the AWS Glue Data Quality tool that we looked at.
+> **[1:02](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/what-to-know-before-implementing-ai-for-data-quality-automation?u=76281980&t=62)** Many cloud providers and [[Data Management]] platforms now offer AI enhanced data quality features, such as the AWS Glue Data Quality tool that we looked at.
 >
 > **[1:12](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/what-to-know-before-implementing-ai-for-data-quality-automation?u=76281980&t=72)** If you are building your AI data quality monitoring tool from scratch, ensure that you have a good training data set for your AI model.
 >
 > **[1:20](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/what-to-know-before-implementing-ai-for-data-quality-automation?u=76281980&t=80)** The quality of your AI is only as good as the data it learns from.
 >
-> **[1:24](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/what-to-know-before-implementing-ai-for-data-quality-automation?u=76281980&t=84)** Implemented in phases, regardless of whether you decide to build an AI tool or use a SaaS tool, start with a pilot project to demonstrate the value to your key stakeholders.
+> **[1:24](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/what-to-know-before-implementing-ai-for-data-quality-automation?u=76281980&t=84)** Implemented in phases, regardless of whether you decide to build an AI tool or use a [[SaaS]] tool, start with a pilot project to demonstrate the value to your key stakeholders.
 >
 > **[1:35](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/what-to-know-before-implementing-ai-for-data-quality-automation?u=76281980&t=95)** Continuously monitor and refine your AI models to ensure that they adapt to changing data patterns.
 >
@@ -959,7 +946,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), data (18), management (2), [[Automation]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Data Quality]] (11), [[AI Solutions]] (1), [[Data Management]] (1), [[SaaS]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Analogies:** such as (1)
@@ -970,12 +957,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of data analytics, business intelligence tools, and AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980)
+#### [The power of data analytics, business intelligence tools, and AI](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980&t=0)** - [Instructor] Now that we've learned about tools that can identify data catalog and classify the data, and we saw how to use AI to perform data quality monitoring, it's finally time to put that data into use, like making diamonds out of coal.
+> **[0:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980&t=0)** - [Instructor] Now that we've learned about tools that can identify data catalog and classify the data, and we saw how to use AI to perform [[Data Quality]] monitoring, it's finally time to put that data into use, like making diamonds out of coal.
 >
 > **[0:16](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980&t=16)** Data analytics is the process of examining data to uncover patterns and draw conclusions.
 >
@@ -983,13 +969,13 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980&t=23)** Analysts piece together information to solve business problems.
 >
-> **[0:28](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980&t=28)** A retail company might analyze sales data to determine popular products in different seasons.
+> **[0:28](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980&t=28)** A retail company might analyze sales data to determine popular [[Microsoft Products|products]] in different seasons.
 >
-> **[0:34](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980&t=34)** Business intelligence tools, also known as BI tools, collect, process and visualize data from various sources.
+> **[0:34](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980&t=34)** [[Business Intelligence (BI)|Business intelligence]] tools, also known as BI tools, collect, process and visualize data from various sources.
 >
 > **[0:42](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980&t=42)** They're like the Swiss Army knives of the data world.
 >
-> **[0:44](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980&t=44)** These tools transform numbers into charts, dashboards, and reports.
+> **[0:44](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980&t=44)** These tools transform numbers into charts, [[Dashboards]], and reports.
 >
 > **[0:49](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980&t=49)** Now let's talk about AI's role in enhancing data analytics.
 >
@@ -997,7 +983,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980&t=60)** Here's an example.
 >
-> **[1:01](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980&t=61)** Imagine you're running an e-commerce platform.
+> **[1:01](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980&t=61)** Imagine you're running an [[E-Commerce]] platform.
 >
 > **[1:03](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980&t=63)** Traditional analytics might show which products are selling.
 >
@@ -1005,13 +991,13 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980&t=69)** AI-enhanced analytics can predict future popular products, suggest customer recommendations, and detect potential fraud in real time.
 >
-> **[1:18](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980&t=78)** As you can see with AI, we can not only see the data and understand the data visually with the BI tools, AI brings several capabilities to data analytics, such as automated data preparation, pattern recognition, predictive analysis, natural language processing, automated insights and personalized dashboards.
+> **[1:18](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980&t=78)** As you can see with AI, we can not only see the data and understand the data visually with the BI tools, AI brings several capabilities to data analytics, such as automated [[Data Preparation]], pattern recognition, predictive analysis, [[Natural Language Processing (NLP)|natural language processing]], automated insights and personalized dashboards.
 >
 > **[1:40](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980&t=100)** We see these capabilities and actions through various BI tools.
 >
-> **[1:44](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980&t=104)** Microsoft Power BI offers insights that highlight trends in your data.
+> **[1:44](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980&t=104)** [[Microsoft Power BI]] offers insights that highlight trends in your data.
 >
-> **[1:48](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980&t=108)** Tableau's Ask Data feature allows you to query data using natural language.
+> **[1:48](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980&t=108)** [[Tableau]]'s Ask Data feature allows you to query data using natural language.
 >
 > **[1:53](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/the-power-of-data-analytics-business-intelligence-tools-and-ai?u=76281980&t=113)** We have other BI tools that also have similar AI capabilities, like IBM Cognos Analytics, Qlik Sense, Looker, SAP Analytics Cloud, et cetera.
 >
@@ -1023,14 +1009,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), ai (8), [[Analytics]] (8), bi (6), [[Microsoft Products|Products]] (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Dashboards]] (2), [[Data Quality]] (1), [[Business Intelligence (BI)|Business intelligence]] (1), [[E-Commerce]] (1)
 > **Analogies:** it's like (1), imagine (1), such as (1)
 > **Env Vars:** ibm (1), sap (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demonstration of pattern recognition and predictive analytics using Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-of-pattern-recognition-and-predictive-analytics-using-powerbi?u=76281980)
+#### [Demonstration of pattern recognition and predictive analytics using Power BI](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-of-pattern-recognition-and-predictive-analytics-using-powerbi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1038,7 +1023,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-of-pattern-recognition-and-predictive-analytics-using-powerbi?u=76281980&t=6)** AI models can forecast future trends and outcomes based on historical data.
 >
-> **[0:11](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-of-pattern-recognition-and-predictive-analytics-using-powerbi?u=76281980&t=11)** The Key Influencers Visual is an AI powered tool that identifies and ranks factors driving business metrics.
+> **[0:11](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-of-pattern-recognition-and-predictive-analytics-using-powerbi?u=76281980&t=11)** The Key Influencers Visual is an AI powered tool that identifies and ranks factors driving [[Business Metrics]].
 >
 > **[0:18](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-of-pattern-recognition-and-predictive-analytics-using-powerbi?u=76281980&t=18)** It uses pattern recognition and predictive analysis to reveal trends in forecast outcomes.
 >
@@ -1062,7 +1047,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-of-pattern-recognition-and-predictive-analytics-using-powerbi?u=76281980&t=82)** Over here, the Key Influencers tab provides us insight into what influences a buyer.
 >
-> **[1:27](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-of-pattern-recognition-and-predictive-analytics-using-powerbi?u=76281980&t=87)** So for example, Galvin Barrett is likely to buy from the category of products labeled as women, and Galvin is also likely to buy when there is a promo going on.
+> **[1:27](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-of-pattern-recognition-and-predictive-analytics-using-powerbi?u=76281980&t=87)** So for example, Galvin Barrett is likely to buy from the category of [[Microsoft Products|products]] labeled as women, and Galvin is also likely to buy when there is a promo going on.
 >
 > **[1:39](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-of-pattern-recognition-and-predictive-analytics-using-powerbi?u=76281980&t=99)** The likelihood of Galvin buying a product, if it's marked as promo, is 4.34.
 >
@@ -1074,7 +1059,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-of-pattern-recognition-and-predictive-analytics-using-powerbi?u=76281980&t=133)** Let's take a look at another example.
 >
-> **[2:16](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-of-pattern-recognition-and-predictive-analytics-using-powerbi?u=76281980&t=136)** If you go back to the Learn option within your Power BI dashboard, you'll see that there's another sample report called Artificial Intelligence Sample.
+> **[2:16](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-of-pattern-recognition-and-predictive-analytics-using-powerbi?u=76281980&t=136)** If you go back to the Learn option within your [[Microsoft Power BI|Power BI]] dashboard, you'll see that there's another sample report called [[Artificial Intelligence (AI)|Artificial Intelligence]] Sample.
 >
 > **[2:24](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-of-pattern-recognition-and-predictive-analytics-using-powerbi?u=76281980&t=144)** Click on this.
 >
@@ -1092,7 +1077,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), product (4), ai (3), business (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Business Metrics]] (1), [[Microsoft Products|Products]] (1), [[Microsoft Power BI|Power bi]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **UI Navigation:** click on (4), go to (1)
 > **Versions:** 4.34 (1), 28.45 (1), 0.2 (1), 2.76 (1)
 > **Definitions:** is an  (1), is a  (1), in other words (1)
@@ -1101,18 +1086,17 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demonstration of automating anomaly detection and root cause suggestion using Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-anomaly-detection-and-root-cause-suggestion-using-powerbi?u=76281980)
+#### [Demonstration of automating anomaly detection and root cause suggestion using Power BI](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-anomaly-detection-and-root-cause-suggestion-using-powerbi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-anomaly-detection-and-root-cause-suggestion-using-powerbi?u=76281980&t=0)** - [Tutor] Power BI's anomaly detection feature, eases AI to automatically identify unusual patterns or outliers in data, helping analysts quickly spot and investigate unexpected trends or data points, without manual intervention.
+> **[0:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-anomaly-detection-and-root-cause-suggestion-using-powerbi?u=76281980&t=0)** - [Tutor] [[Microsoft Power BI|Power BI]]'s anomaly detection feature, eases AI to automatically identify unusual patterns or outliers in data, helping analysts quickly spot and investigate unexpected trends or data points, without manual intervention.
 >
 > **[0:14](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-anomaly-detection-and-root-cause-suggestion-using-powerbi?u=76281980&t=14)** It provides multidimensional AI visualization, helping us to drill down, to obtain in-depth breakdown of the data, based on your criteria and can be used for root cause analysis.
 >
 > **[0:28](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-anomaly-detection-and-root-cause-suggestion-using-powerbi?u=76281980&t=28)** Now, let's take a look at this in action.
 >
-> **[0:31](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-anomaly-detection-and-root-cause-suggestion-using-powerbi?u=76281980&t=31)** In the artificial intelligence sample report, go to the Anomaly Detection tab.
+> **[0:31](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-anomaly-detection-and-root-cause-suggestion-using-powerbi?u=76281980&t=31)** In the [[Artificial Intelligence (AI)|artificial intelligence]] sample report, go to the Anomaly Detection tab.
 >
 > **[0:36](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-anomaly-detection-and-root-cause-suggestion-using-powerbi?u=76281980&t=36)** We see over here that the anomaly detection option has been enabled and if we click on this graph at the point where it has detected the anomaly, we see that AI provides a clear understanding of what the anomaly is.
 >
@@ -1128,7 +1112,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-anomaly-detection-and-root-cause-suggestion-using-powerbi?u=76281980&t=93)** And we see over here that campaigns with factor number three may have contributed to the anomaly that was detected.
 >
-> **[1:42](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-anomaly-detection-and-root-cause-suggestion-using-powerbi?u=76281980&t=102)** So consumer trade shows, market trends newsletters, new product release emails did not work as expected.
+> **[1:42](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-anomaly-detection-and-root-cause-suggestion-using-powerbi?u=76281980&t=102)** So consumer trade shows, market trends [[Newsletters]], new product release emails did not work as expected.
 >
 > **[1:50](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-anomaly-detection-and-root-cause-suggestion-using-powerbi?u=76281980&t=110)** As you see with the click a few buttons, we were able to identify anomalies and also get possible explanation for why these anomalies may have occurred and drill down to the factors that led to the anomaly.
 >
@@ -1136,16 +1120,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), data (3), power (1), bi (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Newsletters]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Speakers:** - [tutor] (1)
 
-#### Demonstration of automating sentiment analysis with Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-sentiment-analysis-with-powerbi?u=76281980)
+#### [Demonstration of automating sentiment analysis with Power BI](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-sentiment-analysis-with-powerbi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-sentiment-analysis-with-powerbi?u=76281980&t=0)** - [Instructor] Now imagine you're a business trying to understand how your customers feel about your products.
+> **[0:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-sentiment-analysis-with-powerbi?u=76281980&t=0)** - [Instructor] Now imagine you're a business trying to understand how your customers feel about your [[Microsoft Products|products]].
 >
 > **[0:05](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-sentiment-analysis-with-powerbi?u=76281980&t=5)** You have thousands of reviews, but how do you quickly gauge the overall sentiment?
 >
@@ -1165,7 +1148,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-sentiment-analysis-with-powerbi?u=76281980&t=39)** No, it's much more sophisticated.
 >
-> **[0:41](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-sentiment-analysis-with-powerbi?u=76281980&t=41)** It uses a combination of techniques, including text processing, part of speech analysis, and even word associations.
+> **[0:41](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-sentiment-analysis-with-powerbi?u=76281980&t=41)** It uses a combination of techniques, including text processing, part of speech analysis, and even [[Microsoft Word|word]] associations.
 >
 > **[0:49](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-sentiment-analysis-with-powerbi?u=76281980&t=49)** It's like having a linguist, a psychologist, and a statistician all working together to understand the nuances of language.
 >
@@ -1187,7 +1170,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-sentiment-analysis-with-powerbi?u=76281980&t=101)** It's a powerful asset for businesses looking to understand customer sentiment and review social media posts or forum discussions.
 >
-> **[1:49](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-sentiment-analysis-with-powerbi?u=76281980&t=109)** Remember, in the age of big data, tools like this are invaluable.
+> **[1:49](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-sentiment-analysis-with-powerbi?u=76281980&t=109)** Remember, in the age of [[Big Data]], tools like this are invaluable.
 >
 > **[1:54](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/demonstration-to-automate-sentiment-analysis-with-powerbi?u=76281980&t=114)** They allow us to quickly and accurately gauge public opinion on a massive scale.
 >
@@ -1197,17 +1180,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), business (1), [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1), [[Big Data]] (1)
 > **Analogies:** imagine (1), think of it as (1), it's like (1)
 > **Versions:** 0.50 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Forecasting time-series data using Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/forecasting-time-series-data-using-powerbi?u=76281980)
+#### [Forecasting time-series data using Power BI](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/forecasting-time-series-data-using-powerbi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/forecasting-time-series-data-using-powerbi?u=76281980&t=0)** - [Instructor] One of Power BI's most powerful features is forecasting.
+> **[0:00](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/forecasting-time-series-data-using-powerbi?u=76281980&t=0)** - [Instructor] One of [[Microsoft Power BI|Power BI]]'s most powerful features is [[Forecasting]].
 >
 > **[0:04](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/forecasting-time-series-data-using-powerbi?u=76281980&t=4)** This tool is a game changer for anyone working with time-series data.
 >
@@ -1231,7 +1213,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/forecasting-time-series-data-using-powerbi?u=76281980&t=54)** So the forecasting feature extends your existing line chart, adding a section that represents your predictive future value.
 >
-> **[1:01](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/forecasting-time-series-data-using-powerbi?u=76281980&t=61)** The real power of this tool is in its ability to enable data-driven decision making.
+> **[1:01](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/forecasting-time-series-data-using-powerbi?u=76281980&t=61)** The real power of this tool is in its ability to enable [[Data-driven Decision Making]].
 >
 > **[1:05](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/forecasting-time-series-data-using-powerbi?u=76281980&t=65)** As an analyst, you can now provide stakeholders with visualized predictions of future trends all within your Power BI reports.
 >
@@ -1253,15 +1235,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), power (3), feature (3), bi (2), [[Forecasting]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Forecasting]] (2), [[Data-driven Decision Making]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** pto (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Talk to your data using AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/talk-to-your-data-using-ai?u=76281980)
+#### [Talk to your data using AI](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/talk-to-your-data-using-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1271,7 +1252,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/talk-to-your-data-using-ai?u=76281980&t=8)** You can ask these questions in plain simple English, and here's how we can do it.
 >
-> **[0:15](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/talk-to-your-data-using-ai?u=76281980&t=15)** In your browser, type app.[powerbi.com](https://powerbi.com), and it'll take you to your Power BI dashboard.
+> **[0:15](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/talk-to-your-data-using-ai?u=76281980&t=15)** In your browser, type app.[powerbi.com](https://powerbi.com), and it'll take you to your [[Microsoft Power BI|Power BI]] dashboard.
 >
 > **[0:23](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/talk-to-your-data-using-ai?u=76281980&t=23)** And over here on the left side, there's an option called Learn.
 >
@@ -1299,14 +1280,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), chatbot (2), next (1), feature (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 > **UI Navigation:** click on (3)
 > **Versions:** 1.47 (1), 13.84 (1)
 > **URLs:** [powerbi.com](https://powerbi.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Risks of using AI for data analytics and mitigating controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980)
+#### [Risks of using AI for data analytics and mitigating controls](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1316,17 +1296,17 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=11)** As AI continues to enhance data analytics process, it's crucial to understand both sides of the coin, especially potential pitfalls and how to address them effectively.
 >
-> **[0:22](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=22)** First and foremost, we must address data privacy and security concerns.
+> **[0:22](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=22)** First and foremost, we must address [[Data Privacy]] and security concerns.
 >
-> **[0:27](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=27)** Remember, these SaaS tools are processing potentially sensitive business data.
+> **[0:27](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=27)** Remember, these [[SaaS]] tools are processing potentially sensitive business data.
 >
 > **[0:31](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=31)** To mitigate this risk, we need to implement a multi-layered approach.
 >
-> **[0:34](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=34)** Start with strong data encryption, both in transit and at rest.
+> **[0:34](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=34)** Start with strong data encryption, both in transit and at [[Representational State Transfer (REST)|rest]].
 >
 > **[0:39](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=39)** This is your first line of defense against unauthorized access.
 >
-> **[0:43](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=43)** Next, take advantage of features like Power BI's low level security.
+> **[0:43](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=43)** Next, take advantage of features like [[Microsoft Power BI|Power BI]]'s low level security.
 >
 > **[0:48](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=48)** This ensures that users only see the data they're supposed to see.
 >
@@ -1376,7 +1356,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=160)** To counter this, you need to foster a culture of critical thinking within your organization.
 >
-> **[2:45](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=165)** Train your teams to use AI generated insights as a starting point for analysis, not the final word.
+> **[2:45](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=165)** Train your teams to use AI generated insights as a starting point for analysis, not the final [[Microsoft Word|word]].
 >
 > **[2:51](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=171)** Encourage them to question the results, to dig deeper.
 >
@@ -1390,7 +1370,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=205)** SaaS AI tools need to work seamlessly with your existing systems to be truly, truly effective.
 >
-> **[3:30](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=210)** Start by carefully planning your data architecture.
+> **[3:30](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=210)** Start by carefully planning your [[Data Architecture]].
 >
 > **[3:33](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=213)** Understand how data will flow between systems and when potential bottlenecks may occur.
 >
@@ -1398,11 +1378,11 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=225)** These can help you create more seamless data ecosystem.
 >
-> **[3:48](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=228)** Implement proper data governance practices.
+> **[3:48](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=228)** Implement proper [[Data Governance]] practices.
 >
 > **[3:50](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=230)** This ensures that data remains consistent and reliable across all your systems.
 >
-> **[3:55](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=235)** Regular testing of your data pipelines is crucial.
+> **[3:55](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=235)** Regular testing of your [[Data Pipelines]] is crucial.
 >
 > **[3:59](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=239)** You need to ensure that the data feeding into your AI tools is accurate and up to date at all times.
 >
@@ -1418,7 +1398,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=273)** Educate your stakeholders on the basics of how the AI models work.
 >
-> **[4:38](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=278)** You don't need to turn them into data scientists, but a basic understanding can go a long way in building trust in the system.
+> **[4:38](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=278)** You don't need to turn them into data scientists, but a basic understanding can go a long way in [[Building Trust]] in the system.
 >
 > **[4:45](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=285)** Last but not least, let's discuss compliance.
 >
@@ -1430,7 +1410,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=308)** Use the compliance features built into your tools.
 >
-> **[5:11](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=311)** For example, the Artificial Intelligence Act is a European Union regulation concerning artificial intelligence.
+> **[5:11](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=311)** For example, the [[Artificial Intelligence (AI)|Artificial Intelligence]] Act is a European Union regulation concerning artificial intelligence.
 >
 > **[5:18](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/risks-of-using-ai-for-data-analytics-and-mitigating-controls?u=76281980&t=318)** For example, if you're in the European Union, the EU AI Act may be applicable to you.
 >
@@ -1448,7 +1428,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), ai (18), power (6), bi (6), business (5)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[SaaS]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Data Privacy]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gdpr (1), hippa (1)
 > **Analogies:** for example (2)
@@ -1462,8 +1442,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Extending AI in your data operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/extending-ai-in-your-data-operations?u=76281980)
+#### [Extending AI in your data operations](https://www.linkedin.com/learning/using-ai-to-improve-ops-for-your-data-organization/extending-ai-in-your-data-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1493,7 +1472,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), ai (4), [[Automation]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)
 

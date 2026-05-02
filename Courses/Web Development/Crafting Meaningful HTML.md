@@ -81,37 +81,35 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Craft meaningful HTML
-> [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/craft-meaningful-html-23412209?u=76281980)
+#### [Craft meaningful HTML](https://www.linkedin.com/learning/crafting-meaningful-html/craft-meaningful-html-23412209?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/crafting-meaningful-html/craft-meaningful-html-23412209?u=76281980&t=0)** - Semantic HTML means HTML with meaning behind its elements.
+> **[0:00](https://www.linkedin.com/learning/crafting-meaningful-html/craft-meaningful-html-23412209?u=76281980&t=0)** - Semantic [[HTML]] means HTML with meaning behind its elements.
 >
 > **[0:05](https://www.linkedin.com/learning/crafting-meaningful-html/craft-meaningful-html-23412209?u=76281980&t=5)** It's the UX of HTML, and good semantics mean good accessible user experiences.
 >
-> **[0:12](https://www.linkedin.com/learning/crafting-meaningful-html/craft-meaningful-html-23412209?u=76281980&t=12)** With accessibility at the forefront of developers' minds and with lawsuits about inaccessible websites in the news, there's never been a better time to learn the rest of HTML.
+> **[0:12](https://www.linkedin.com/learning/crafting-meaningful-html/craft-meaningful-html-23412209?u=76281980&t=12)** With accessibility at the forefront of developers' minds and with lawsuits about inaccessible websites in the news, there's never been a better time to learn the [[Representational State Transfer (REST)|rest]] of HTML.
 >
-> **[0:22](https://www.linkedin.com/learning/crafting-meaningful-html/craft-meaningful-html-23412209?u=76281980&t=22)** Let me show you how to improve accessibility and user experience.
+> **[0:22](https://www.linkedin.com/learning/crafting-meaningful-html/craft-meaningful-html-23412209?u=76281980&t=22)** Let me show you how to improve accessibility and [[User Experience (UX)|user experience]].
 >
-> **[0:26](https://www.linkedin.com/learning/crafting-meaningful-html/craft-meaningful-html-23412209?u=76281980&t=26)** I'm Jen Kramer, and for over 20 years, I've been teaching students that the Hypertext Markup Language is about identifying the types of content on a webpage, not about providing the scaffolding for hanging CSS classes and JavaScript events.
+> **[0:26](https://www.linkedin.com/learning/crafting-meaningful-html/craft-meaningful-html-23412209?u=76281980&t=26)** I'm Jen Kramer, and for over 20 years, I've been teaching students that the Hypertext Markup Language is about identifying the types of content on a webpage, not about providing the scaffolding for hanging CSS classes and [[JavaScript]] events.
 >
 > **[0:42](https://www.linkedin.com/learning/crafting-meaningful-html/craft-meaningful-html-23412209?u=76281980&t=42)** So if you're ready, let's get started crafting some meaningful HTML.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), ux (1), [[Representational State Transfer (REST)|Rest]] (1), [[User Experience (UX)|User experience]] (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Representational State Transfer (REST)|Rest]] (1), [[User Experience (UX)|User experience]] (1), [[JavaScript]] (1)
 > **Env Vars:** html (5), css (1)
 > **Speakers:** - semantic (1)
 
-#### Working with CodePen
-> [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/working-with-codepen?u=76281980)
+#### [Working with CodePen](https://www.linkedin.com/learning/crafting-meaningful-html/working-with-codepen?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/crafting-meaningful-html/working-with-codepen?u=76281980&t=0)** - [Instructor] In this course, we'll be working with a product called CodePen.
+> **[0:00](https://www.linkedin.com/learning/crafting-meaningful-html/working-with-codepen?u=76281980&t=0)** - [Instructor] In this course, we'll be working with a product called [[CodePen]].
 >
-> **[0:04](https://www.linkedin.com/learning/crafting-meaningful-html/working-with-codepen?u=76281980&t=4)** CodePen is something of an industry standard at this point, it is a way that you can work with HTML, CSS, and JavaScript online and where everyone can see your work.
+> **[0:04](https://www.linkedin.com/learning/crafting-meaningful-html/working-with-codepen?u=76281980&t=4)** CodePen is something of an industry standard at this point, it is a way that you can work with [[HTML]], CSS, and [[JavaScript]] online and where everyone can see your work.
 >
 > **[0:15](https://www.linkedin.com/learning/crafting-meaningful-html/working-with-codepen?u=76281980&t=15)** So I have some of the examples that we'll be using in this course available here through the CodePen editor.
 >
@@ -139,21 +137,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CodePen]] (4), product (1), [[HTML]] (1), css (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[CodePen]] (4), [[HTML]] (1), [[JavaScript]] (1)
 > **Env Vars:** html (1), css (1), url (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with Visual Studio Code
-> [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/working-with-vs-code?u=76281980)
+#### [Working with Visual Studio Code](https://www.linkedin.com/learning/crafting-meaningful-html/working-with-vs-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/crafting-meaningful-html/working-with-vs-code?u=76281980&t=0)** - [Instructor] While this course starts in CodePen, we will be moving into Visual Studio Code, also called VS Code.
+> **[0:00](https://www.linkedin.com/learning/crafting-meaningful-html/working-with-vs-code?u=76281980&t=0)** - [Instructor] While this course starts in [[CodePen]], we will be moving into Visual Studio Code, also called VS Code.
 >
-> **[0:09](https://www.linkedin.com/learning/crafting-meaningful-html/working-with-vs-code?u=76281980&t=9)** This is one of approximately one bajillion different editors that are out there and available for editing HTML and CSS.
+> **[0:09](https://www.linkedin.com/learning/crafting-meaningful-html/working-with-vs-code?u=76281980&t=9)** This is one of approximately one bajillion different editors that are out there and available for editing [[HTML]] and CSS.
 >
 > **[0:18](https://www.linkedin.com/learning/crafting-meaningful-html/working-with-vs-code?u=76281980&t=18)** CodePen is a really great product, but unfortunately, it doesn't allow us to see into the head of our document and we are going to need to take a look at the head of our document in order to completely understand all of the ramifications of semantics that we'll be looking at in this course.
 >
@@ -161,19 +158,19 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/crafting-meaningful-html/working-with-vs-code?u=76281980&t=40)** If you want to use a different editor it's totally fine with me, whatever you're comfortable with is fine, but if you like to follow along with exactly what I use, this is the product that I'm using.
 >
-> **[0:49](https://www.linkedin.com/learning/crafting-meaningful-html/working-with-vs-code?u=76281980&t=49)** So this is at code.[visualstudio.com](https://visualstudio.com), this is a Microsoft product, it's something of an industry standard, and we're going to start right here on the home page, there's a big button.
+> **[0:49](https://www.linkedin.com/learning/crafting-meaningful-html/working-with-vs-code?u=76281980&t=49)** So this is at code.[visualstudio.com](https://visualstudio.com), this is a [[Microsoft]] product, it's something of an industry standard, and we're going to start right here on the home page, there's a big button.
 >
-> **[0:59](https://www.linkedin.com/learning/crafting-meaningful-html/working-with-vs-code?u=76281980&t=59)** I am using a Mac and so this says download for Mac, if you are using a PC, it's going to say download for Windows.
+> **[0:59](https://www.linkedin.com/learning/crafting-meaningful-html/working-with-vs-code?u=76281980&t=59)** I am using a Mac and so this says download for Mac, if you are using a PC, it's going to say download for [[Windows]].
 >
 > **[1:07](https://www.linkedin.com/learning/crafting-meaningful-html/working-with-vs-code?u=76281980&t=67)** So I'm going to go ahead and click the download button, it's going to go ahead and download this program for me and then I'm going to go ahead and install it on my computer and you should go ahead and do the same thing.
 >
 > **[1:20](https://www.linkedin.com/learning/crafting-meaningful-html/working-with-vs-code?u=76281980&t=80)** Once you've gone ahead and installed Visual Studio Code, VS Code as it's also called, just go on ahead and open it up, you should see a screen that's very similar to this one, and if you've got that then you're totally in the right place.
 >
-> **[1:33](https://www.linkedin.com/learning/crafting-meaningful-html/working-with-vs-code?u=76281980&t=93)** When we start using VS Code, I will walk you through everything you'll need to do at that point in time, but for now, if you download VS Code, get it installed, and see this screen, you're in great shape and you're ready to start the rest of the course.
+> **[1:33](https://www.linkedin.com/learning/crafting-meaningful-html/working-with-vs-code?u=76281980&t=93)** When we start using VS Code, I will walk you through everything you'll need to do at that point in time, but for now, if you download VS Code, get it installed, and see this screen, you're in great shape and you're ready to start the [[Representational State Transfer (REST)|rest]] of the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CodePen]] (3), product (3), [[HTML]] (1), css (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[CodePen]] (3), [[HTML]] (1), [[Microsoft]] (1), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** vs code (4), visual studio (3)
 > **Env Vars:** html (1), css (1)
 > **Definitions:** is a  (2)
@@ -187,8 +184,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore content and add it to CodePen
-> [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/explore-content-and-add-it-to-codepen?u=76281980)
+#### [Explore content and add it to CodePen](https://www.linkedin.com/learning/crafting-meaningful-html/explore-content-and-add-it-to-codepen?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -196,7 +192,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/crafting-meaningful-html/explore-content-and-add-it-to-codepen?u=76281980&t=8)** All of the content that makes up that website.
 >
-> **[0:11](https://www.linkedin.com/learning/crafting-meaningful-html/explore-content-and-add-it-to-codepen?u=76281980&t=11)** Typically, you'll be given this as a Word document and it will have certain items marked in bold or with headings and so forth.
+> **[0:11](https://www.linkedin.com/learning/crafting-meaningful-html/explore-content-and-add-it-to-codepen?u=76281980&t=11)** Typically, you'll be given this as a [[Microsoft Word|Word]] document and it will have certain items marked in bold or with headings and so forth.
 >
 > **[0:18](https://www.linkedin.com/learning/crafting-meaningful-html/explore-content-and-add-it-to-codepen?u=76281980&t=18)** To keep this experiment as straightforward as possible, I have set up all the content that we're going to be using to work with in this particular course as plain text so you don't have to have Word.
 >
@@ -230,7 +226,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/crafting-meaningful-html/explore-content-and-add-it-to-codepen?u=76281980&t=108)** And then go ahead and open up a web browser.
 >
-> **[1:52](https://www.linkedin.com/learning/crafting-meaningful-html/explore-content-and-add-it-to-codepen?u=76281980&t=112)** And you're going to go to [codepen.io](https://codepen.io).
+> **[1:52](https://www.linkedin.com/learning/crafting-meaningful-html/explore-content-and-add-it-to-codepen?u=76281980&t=112)** And you're going to go to [[[CodePen]].io](https://codepen.io).
 >
 > **[1:55](https://www.linkedin.com/learning/crafting-meaningful-html/explore-content-and-add-it-to-codepen?u=76281980&t=115)** And if you're not logged in, you can log in.
 >
@@ -240,7 +236,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/crafting-meaningful-html/explore-content-and-add-it-to-codepen?u=76281980&t=129)** You can pull these things around.
 >
-> **[2:12](https://www.linkedin.com/learning/crafting-meaningful-html/explore-content-and-add-it-to-codepen?u=76281980&t=132)** In this course, we're really going to spend all of our time up here in HTML, no time at all in Java Script, and almost no time in CSS.
+> **[2:12](https://www.linkedin.com/learning/crafting-meaningful-html/explore-content-and-add-it-to-codepen?u=76281980&t=132)** In this course, we're really going to spend all of our time up here in [[HTML]], no time at all in [[Java]] Script, and almost no time in CSS.
 >
 > **[2:20](https://www.linkedin.com/learning/crafting-meaningful-html/explore-content-and-add-it-to-codepen?u=76281980&t=140)** Go on ahead and paste in the text that you just copied from that text document, and that is our starting point for this course.
 >
@@ -254,7 +250,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CodePen]] (3), [[Microsoft Word|Word]] (2), web (1), [[HTML]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[CodePen]] (3), [[Microsoft Word|Word]] (2), [[HTML]] (1), [[Java]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** html (1), css (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -263,12 +259,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** set up (1)
 
-#### Identify major elements of a page
-> [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/identify-major-elements-of-a-page?u=76281980)
+#### [Identify major elements of a page](https://www.linkedin.com/learning/crafting-meaningful-html/identify-major-elements-of-a-page?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/crafting-meaningful-html/identify-major-elements-of-a-page?u=76281980&t=0)** - Now that we have our text here available to us in CodePen, the first thing I want to do is set just a few critical tags that are important to understand this document overall.
+> **[0:00](https://www.linkedin.com/learning/crafting-meaningful-html/identify-major-elements-of-a-page?u=76281980&t=0)** - Now that we have our text here available to us in [[CodePen]], the first thing I want to do is set just a few critical tags that are important to understand this document overall.
 >
 > **[0:12](https://www.linkedin.com/learning/crafting-meaningful-html/identify-major-elements-of-a-page?u=76281980&t=12)** And the types of tag that usually we encounter for this type of thing are things like a header, maybe a section, maybe an article and maybe an aside.
 >
@@ -352,12 +347,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[CodePen]] (1), next (1)
+> **Frameworks & Libraries:** [[CodePen]] (1)
 > **Definitions:** in other words (2), is an  (1), is a  (1)
 > **Speakers:** - now (1)
 
-#### Identify headings and paragraphs
-> [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/identify-headings-and-paragraphs?u=76281980)
+#### [Identify headings and paragraphs](https://www.linkedin.com/learning/crafting-meaningful-html/identify-headings-and-paragraphs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -479,7 +473,7 @@ created: 2026-05-02
 >
 > **[6:51](https://www.linkedin.com/learning/crafting-meaningful-html/identify-headings-and-paragraphs?u=76281980&t=411)** You probably won't be really happy with the way it looks.
 >
-> **[6:54](https://www.linkedin.com/learning/crafting-meaningful-html/identify-headings-and-paragraphs?u=76281980&t=414)** Remember that again, this course is focusing very much on making sure that we craft HTML that's meaningful.
+> **[6:54](https://www.linkedin.com/learning/crafting-meaningful-html/identify-headings-and-paragraphs?u=76281980&t=414)** Remember that again, this course is focusing very much on making sure that we craft [[HTML]] that's meaningful.
 >
 > **[7:01](https://www.linkedin.com/learning/crafting-meaningful-html/identify-headings-and-paragraphs?u=76281980&t=421)** It does not cover the CSS portion of this to make this look beautiful.
 >
@@ -489,14 +483,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), next (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** make (12)
 > **Definitions:** is a  (4), is an  (1)
 > **Env Vars:** css (3), html (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enhance an article with emphasis and links
-> [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/enhance-an-article-with-emphasis-and-links?u=76281980)
+#### [Enhance an article with emphasis and links](https://www.linkedin.com/learning/crafting-meaningful-html/enhance-an-article-with-emphasis-and-links?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -504,7 +497,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/crafting-meaningful-html/enhance-an-article-with-emphasis-and-links?u=76281980&t=9)** So first of all, let's talk about strong and M, and these two tags you may be familiar with already.
 >
-> **[0:16](https://www.linkedin.com/learning/crafting-meaningful-html/enhance-an-article-with-emphasis-and-links?u=76281980&t=16)** They are two of the most abused tags in all of HTML.
+> **[0:16](https://www.linkedin.com/learning/crafting-meaningful-html/enhance-an-article-with-emphasis-and-links?u=76281980&t=16)** They are two of the most abused tags in all of [[HTML]].
 >
 > **[0:21](https://www.linkedin.com/learning/crafting-meaningful-html/enhance-an-article-with-emphasis-and-links?u=76281980&t=21)** Typically, people use the strong tag for making things bold and the M tag for making things emphasized, but that's not how they're supposed to be used at all.
 >
@@ -532,7 +525,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/crafting-meaningful-html/enhance-an-article-with-emphasis-and-links?u=76281980&t=98)** This is really important and I want to draw some attention to it, so I'm going to use the strong tag to do that.
 >
-> **[1:44](https://www.linkedin.com/learning/crafting-meaningful-html/enhance-an-article-with-emphasis-and-links?u=76281980&t=104)** So I'm going to start by putting that strong tag here, right before the word often, and I'm going to end it here, just before the period.
+> **[1:44](https://www.linkedin.com/learning/crafting-meaningful-html/enhance-an-article-with-emphasis-and-links?u=76281980&t=104)** So I'm going to start by putting that strong tag here, right before the [[Microsoft Word|word]] often, and I'm going to end it here, just before the period.
 >
 > **[1:58](https://www.linkedin.com/learning/crafting-meaningful-html/enhance-an-article-with-emphasis-and-links?u=76281980&t=118)** I'm emphasizing that grocery store salad dressings are full of preservatives that impact the taste and nutritional value of the dressing.
 >
@@ -600,7 +593,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), css (2), next (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[HTML]] (1)
 > **CLI Commands:** make (7)
 > **Env Vars:** css (2), html (1), url (1)
 > **Definitions:** is a  (2), refers to (1)
@@ -609,8 +602,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ordered, unordered, and definition lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/ordered-unordered-and-definition-lists?u=76281980)
+#### [Ordered, unordered, and definition lists](https://www.linkedin.com/learning/crafting-meaningful-html/ordered-unordered-and-definition-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -648,7 +640,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/crafting-meaningful-html/ordered-unordered-and-definition-lists?u=76281980&t=143)** The important part here is the semantic meaning of the list, the unordered list.
 >
-> **[2:28](https://www.linkedin.com/learning/crafting-meaningful-html/ordered-unordered-and-definition-lists?u=76281980&t=148)** If I change this instead to an ol, ol and CodePen will automatically change the last tag for you, this becomes a numbered list, so in other words we have a series of numbers in front of all of those things.
+> **[2:28](https://www.linkedin.com/learning/crafting-meaningful-html/ordered-unordered-and-definition-lists?u=76281980&t=148)** If I change this instead to an ol, ol and [[CodePen]] will automatically change the last tag for you, this becomes a numbered list, so in other words we have a series of numbers in front of all of those things.
 >
 > **[2:42](https://www.linkedin.com/learning/crafting-meaningful-html/ordered-unordered-and-definition-lists?u=76281980&t=162)** However, as I had mentioned, it's better marked-up as an unordered list because we don't have to do these things in a certain order.
 >
@@ -668,7 +660,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/crafting-meaningful-html/ordered-unordered-and-definition-lists?u=76281980&t=213)** This is going to start with the dl tag and it will end with the /dl tag, or course, dl, definition or descriptive list.
 >
-> **[3:43](https://www.linkedin.com/learning/crafting-meaningful-html/ordered-unordered-and-definition-lists?u=76281980&t=223)** After that, then the very first word, the one that will describe the things that come after, is a dt, as in a definition term, so /dt.
+> **[3:43](https://www.linkedin.com/learning/crafting-meaningful-html/ordered-unordered-and-definition-lists?u=76281980&t=223)** After that, then the very first [[Microsoft Word|word]], the one that will describe the things that come after, is a dt, as in a definition term, so /dt.
 >
 > **[3:57](https://www.linkedin.com/learning/crafting-meaningful-html/ordered-unordered-and-definition-lists?u=76281980&t=237)** And then each of these items winds up becoming a dd.
 >
@@ -676,7 +668,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/crafting-meaningful-html/ordered-unordered-and-definition-lists?u=76281980&t=264)** Okay?
 >
-> **[4:25](https://www.linkedin.com/learning/crafting-meaningful-html/ordered-unordered-and-definition-lists?u=76281980&t=265)** And I'm just going to drop the rest of that sentence and then we're going to go to fruit juices.
+> **[4:25](https://www.linkedin.com/learning/crafting-meaningful-html/ordered-unordered-and-definition-lists?u=76281980&t=265)** And I'm just going to drop the [[Representational State Transfer (REST)|rest]] of that sentence and then we're going to go to fruit juices.
 >
 > **[4:34](https://www.linkedin.com/learning/crafting-meaningful-html/ordered-unordered-and-definition-lists?u=76281980&t=274)** This is now back to the dt again, cause that's the term.
 >
@@ -690,27 +682,26 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/crafting-meaningful-html/ordered-unordered-and-definition-lists?u=76281980&t=337)** Again, that's the default display, you can absolutely do some incredibly cool styling with definition lists to really draw attention to these and make it very clear the relationship between the term and the various types of things described by that term.
 >
-> **[5:53](https://www.linkedin.com/learning/crafting-meaningful-html/ordered-unordered-and-definition-lists?u=76281980&t=353)** Definition lists may be something that are not in your normal repertoire but they're incredibly helpful, useful and deserve your time and attention to master that in your HTML repertoire.
+> **[5:53](https://www.linkedin.com/learning/crafting-meaningful-html/ordered-unordered-and-definition-lists?u=76281980&t=353)** Definition lists may be something that are not in your normal repertoire but they're incredibly helpful, useful and deserve your time and attention to master that in your [[HTML]] repertoire.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), css (1), web (1), [[CodePen]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[CodePen]] (1), [[Microsoft Word|Word]] (1), [[HTML]] (1)
 > **Definitions:** stands for (1), in other words (1), is a  (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** css (1), html (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: First pass at article markup
-> [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/challenge-first-pass-at-article-markup?u=76281980)
+#### [Challenge: First pass at article markup](https://www.linkedin.com/learning/crafting-meaningful-html/challenge-first-pass-at-article-markup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/crafting-meaningful-html/challenge-first-pass-at-article-markup?u=76281980&t=0)** - [Instructor] Ready for a little challenge now that you've had some introduction to some of these HTML tags?
+> **[0:00](https://www.linkedin.com/learning/crafting-meaningful-html/challenge-first-pass-at-article-markup?u=76281980&t=0)** - [Instructor] Ready for a little challenge now that you've had some introduction to some of these [[HTML]] tags?
 >
 > **[0:11](https://www.linkedin.com/learning/crafting-meaningful-html/challenge-first-pass-at-article-markup?u=76281980&t=11)** Let's see if you can apply them to a new document.
 >
-> **[0:14](https://www.linkedin.com/learning/crafting-meaningful-html/challenge-first-pass-at-article-markup?u=76281980&t=14)** So I have a starting Codepen available for you.
+> **[0:14](https://www.linkedin.com/learning/crafting-meaningful-html/challenge-first-pass-at-article-markup?u=76281980&t=14)** So I have a starting [[CodePen]] available for you.
 >
 > **[0:17](https://www.linkedin.com/learning/crafting-meaningful-html/challenge-first-pass-at-article-markup?u=76281980&t=17)** What I would like for you to do first is to read the text.
 >
@@ -742,7 +733,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), [[CodePen]] (1), web (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[CodePen]] (1)
 > **Env Vars:** html (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** in other words (1)
@@ -750,8 +741,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat chime) (1)
 
-#### Solution: First pass at article markup
-> [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/solution-first-pass-at-article-markup?u=76281980)
+#### [Solution: First pass at article markup](https://www.linkedin.com/learning/crafting-meaningful-html/solution-first-pass-at-article-markup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -781,7 +771,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/crafting-meaningful-html/solution-first-pass-at-article-markup?u=76281980&t=58)** That's like really important because people may not be a little weirded out by reading this article and it's talking about olive oil but it's also talking about hair and hands, and feet, and so forth.
 >
-> **[1:08](https://www.linkedin.com/learning/crafting-meaningful-html/solution-first-pass-at-article-markup?u=76281980&t=68)** So then I went through the rest of the document here.
+> **[1:08](https://www.linkedin.com/learning/crafting-meaningful-html/solution-first-pass-at-article-markup?u=76281980&t=68)** So then I went through the [[Representational State Transfer (REST)|rest]] of the document here.
 >
 > **[1:12](https://www.linkedin.com/learning/crafting-meaningful-html/solution-first-pass-at-article-markup?u=76281980&t=72)** Because I started with H1.
 >
@@ -839,7 +829,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -850,16 +840,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Move your code from CodePen to Visual Studio Code (VS Code)
-> [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/move-your-code-from-codepen-to-visual-studio-code-vs-code?u=76281980)
+#### [Move your code from CodePen to Visual Studio Code (VS Code)](https://www.linkedin.com/learning/crafting-meaningful-html/move-your-code-from-codepen-to-visual-studio-code-vs-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/crafting-meaningful-html/move-your-code-from-codepen-to-visual-studio-code-vs-code?u=76281980&t=0)** - [Instructor] Now that you know a little bit of the basics of HTML that go in the body portion of the webpage, I want to move everything on over to VSCode.
+> **[0:00](https://www.linkedin.com/learning/crafting-meaningful-html/move-your-code-from-codepen-to-visual-studio-code-vs-code?u=76281980&t=0)** - [Instructor] Now that you know a little bit of the basics of [[HTML]] that go in the body portion of the webpage, I want to move everything on over to VSCode.
 >
 > **[0:12](https://www.linkedin.com/learning/crafting-meaningful-html/move-your-code-from-codepen-to-visual-studio-code-vs-code?u=76281980&t=12)** And the reason why is it's going to give us access to the head of the document, there's some things we need to talk about there.
 >
-> **[0:19](https://www.linkedin.com/learning/crafting-meaningful-html/move-your-code-from-codepen-to-visual-studio-code-vs-code?u=76281980&t=19)** We're also going to wind up having to drop in some images, and the free version of Codepen won't allow you to work with images here directly within Codepen.
+> **[0:19](https://www.linkedin.com/learning/crafting-meaningful-html/move-your-code-from-codepen-to-visual-studio-code-vs-code?u=76281980&t=19)** We're also going to wind up having to drop in some images, and the free version of [[CodePen]] won't allow you to work with images here directly within Codepen.
 >
 > **[0:28](https://www.linkedin.com/learning/crafting-meaningful-html/move-your-code-from-codepen-to-visual-studio-code-vs-code?u=76281980&t=28)** You have to do some other things in order to make that work.
 >
@@ -923,7 +912,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), [[CodePen]] (4), next (4), hit (2)
+> **Frameworks & Libraries:** [[HTML]] (5), [[CodePen]] (4)
 > **Env Vars:** html (4)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (2)
@@ -932,12 +921,11 @@ created: 2026-05-02
 > **File Paths:** salad.html (1)
 > **Cross-References:** next video (1)
 
-#### Understand the head code
-> [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/understand-the-head-code?u=76281980)
+#### [Understand the head code](https://www.linkedin.com/learning/crafting-meaningful-html/understand-the-head-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/crafting-meaningful-html/understand-the-head-code?u=76281980&t=0)** - All right so we just put our content from CodePen into a brand new fresh HTML document.
+> **[0:00](https://www.linkedin.com/learning/crafting-meaningful-html/understand-the-head-code?u=76281980&t=0)** - All right so we just put our content from [[CodePen]] into a brand new fresh [[HTML]] document.
 >
 > **[0:07](https://www.linkedin.com/learning/crafting-meaningful-html/understand-the-head-code?u=76281980&t=7)** And I said this was so that you can see what's going on in the head of the document.
 >
@@ -1005,7 +993,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/crafting-meaningful-html/understand-the-head-code?u=76281980&t=151)** That's what it's there for.
 >
-> **[2:32](https://www.linkedin.com/learning/crafting-meaningful-html/understand-the-head-code?u=76281980&t=152)** The next line here is a uniquely Microsoft line of code, and it's here because of course VS Code is a Microsoft product.
+> **[2:32](https://www.linkedin.com/learning/crafting-meaningful-html/understand-the-head-code?u=76281980&t=152)** The next line here is a uniquely [[Microsoft]] line of code, and it's here because of course VS Code is a Microsoft product.
 >
 > **[2:42](https://www.linkedin.com/learning/crafting-meaningful-html/understand-the-head-code?u=76281980&t=162)** This is telling Internet Explorer, which is a type of web browser, to render the page at the highest support available.
 >
@@ -1027,7 +1015,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/crafting-meaningful-html/understand-the-head-code?u=76281980&t=218)** Maybe 'Blog'. Maybe 'Dressing up a Salad'.
 >
-> **[3:44](https://www.linkedin.com/learning/crafting-meaningful-html/understand-the-head-code?u=76281980&t=224)** And there's a lot of thinking on this for search engine optimization.
+> **[3:44](https://www.linkedin.com/learning/crafting-meaningful-html/understand-the-head-code?u=76281980&t=224)** And there's a lot of thinking on this for [[Search Engine Optimization (SEO)|search engine optimization]].
 >
 > **[3:47](https://www.linkedin.com/learning/crafting-meaningful-html/understand-the-head-code?u=76281980&t=227)** Some people will tell you that if this should actually go in the reverse order.
 >
@@ -1041,7 +1029,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (10), web (3), [[Microsoft]] (3), next (2), product (2)
+> **Frameworks & Libraries:** [[HTML]] (10), [[Microsoft]] (3), [[Search Engine Optimization (SEO)|Search engine optimization]] (2), [[CodePen]] (1)
 > **Env Vars:** html (10), html5 (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (4)
@@ -1050,8 +1038,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - all (1)
 
-#### Add semantic navigation
-> [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/add-semantic-navigation?u=76281980)
+#### [Add semantic navigation](https://www.linkedin.com/learning/crafting-meaningful-html/add-semantic-navigation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1143,7 +1130,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** find (2), make (1)
 > **File Paths:** navigation.txt (1)
@@ -1151,9 +1137,9 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** just like (1)
+> **Prerequisites:** set up (1)
 
-#### Add images, figures, and figure captions
-> [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/add-images-figures-and-figure-captions?u=76281980)
+#### [Add images, figures, and figure captions](https://www.linkedin.com/learning/crafting-meaningful-html/add-images-figures-and-figure-captions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1175,7 +1161,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/crafting-meaningful-html/add-images-figures-and-figure-captions?u=76281980&t=33)** One is of salad dressing and the other is of Jennifer, who wrote this article.
 >
-> **[0:39](https://www.linkedin.com/learning/crafting-meaningful-html/add-images-figures-and-figure-captions?u=76281980&t=39)** Go ahead and copy those images off to your desktop, in addition to that salad, that html document that you're working with.
+> **[0:39](https://www.linkedin.com/learning/crafting-meaningful-html/add-images-figures-and-figure-captions?u=76281980&t=39)** Go ahead and copy those images off to your desktop, in addition to that salad, that [[HTML]] document that you're working with.
 >
 > **[0:47](https://www.linkedin.com/learning/crafting-meaningful-html/add-images-figures-and-figure-captions?u=76281980&t=47)** And then we can go ahead and drop those images into our webpage.
 >
@@ -1231,7 +1217,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/crafting-meaningful-html/add-images-figures-and-figure-captions?u=76281980&t=172)** If you start typing in your alt tag and your text starts scrolling off the screen, one of the things you'll see going on here now that we're in the article is our sentences have gotten ridiculously long on this page.
 >
-> **[3:03](https://www.linkedin.com/learning/crafting-meaningful-html/add-images-figures-and-figure-captions?u=76281980&t=183)** By default, VS Code does not have word wrap turned on.
+> **[3:03](https://www.linkedin.com/learning/crafting-meaningful-html/add-images-figures-and-figure-captions?u=76281980&t=183)** By default, VS Code does not have [[Microsoft Word|word]] wrap turned on.
 >
 > **[3:08](https://www.linkedin.com/learning/crafting-meaningful-html/add-images-figures-and-figure-captions?u=76281980&t=188)** You can turn on word wrap by going to view, toggle word wrap, and that'll cause all of these sentences to wrap really nicely.
 >
@@ -1313,7 +1299,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), next (1), [[HTML]] (1), css (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[HTML]] (1)
 > **Analogies:** picture (12), for example (1)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** go to (1), toggle (1)
@@ -1322,14 +1308,13 @@ created: 2026-05-02
 > **Env Vars:** css (1)
 > **Tools:** vs code (1)
 
-#### Add footers with address, time, and date
-> [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/add-footers-with-address-time-and-date?u=76281980)
+#### [Add footers with address, time, and date](https://www.linkedin.com/learning/crafting-meaningful-html/add-footers-with-address-time-and-date?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/crafting-meaningful-html/add-footers-with-address-time-and-date?u=76281980&t=0)** - [Instructor] One of the elements missing from this as a webpage now that we have site identity, we have a navigation bar, we have some text, we have images, we don't have a footer.
 >
-> **[0:11](https://www.linkedin.com/learning/crafting-meaningful-html/add-footers-with-address-time-and-date?u=76281980&t=11)** Typically the footer is at the bottom of the webpage and it contains information like a disclaimer, links to privacy policies, social media, contact information, and a copyright statement, all that stuff usually winds up in the footer.
+> **[0:11](https://www.linkedin.com/learning/crafting-meaningful-html/add-footers-with-address-time-and-date?u=76281980&t=11)** Typically the footer is at the bottom of the webpage and it contains information like a disclaimer, links to [[Privacy]] policies, social media, contact information, and a copyright statement, all that stuff usually winds up in the footer.
 >
 > **[0:24](https://www.linkedin.com/learning/crafting-meaningful-html/add-footers-with-address-time-and-date?u=76281980&t=24)** So, I've gone ahead and created a footer for you, here's some text from your exercise files.
 >
@@ -1381,7 +1366,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/crafting-meaningful-html/add-footers-with-address-time-and-date?u=76281980&t=156)** Href equals something.
 >
-> **[2:44](https://www.linkedin.com/learning/crafting-meaningful-html/add-footers-with-address-time-and-date?u=76281980&t=164)** And the word about.
+> **[2:44](https://www.linkedin.com/learning/crafting-meaningful-html/add-footers-with-address-time-and-date?u=76281980&t=164)** And the [[Microsoft Word|word]] about.
 >
 > **[2:48](https://www.linkedin.com/learning/crafting-meaningful-html/add-footers-with-address-time-and-date?u=76281980&t=168)** Then we can go on ahead and copy the ending tags, copy paste.
 >
@@ -1403,7 +1388,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/crafting-meaningful-html/add-footers-with-address-time-and-date?u=76281980&t=215)** Inside of this, in all likelihood, you're going to want to put in a couple of line breaks.
 >
-> **[3:40](https://www.linkedin.com/learning/crafting-meaningful-html/add-footers-with-address-time-and-date?u=76281980&t=220)** The line breaks are done by the BR tag, one of the more overused tags that we have in HTML.
+> **[3:40](https://www.linkedin.com/learning/crafting-meaningful-html/add-footers-with-address-time-and-date?u=76281980&t=220)** The line breaks are done by the BR tag, one of the more overused tags that we have in [[HTML]].
 >
 > **[3:46](https://www.linkedin.com/learning/crafting-meaningful-html/add-footers-with-address-time-and-date?u=76281980&t=226)** The BR tag is designed for a purpose like this where an address is never written all on one line or almost never written all in one line.
 >
@@ -1461,7 +1446,7 @@ created: 2026-05-02
 >
 > **[6:57](https://www.linkedin.com/learning/crafting-meaningful-html/add-footers-with-address-time-and-date?u=76281980&t=417)** That's actually not the correct symbol for copyright, we can look up the right symbol for copyright though.
 >
-> **[7:02](https://www.linkedin.com/learning/crafting-meaningful-html/add-footers-with-address-time-and-date?u=76281980&t=422)** If you just simply do a Google search for HTML copyright symbol, you will find, as comes up right here in our search results, the sign that you are looking for is indeed the copyright symbol and here's the code: ampersand copy semicolon.
+> **[7:02](https://www.linkedin.com/learning/crafting-meaningful-html/add-footers-with-address-time-and-date?u=76281980&t=422)** If you just simply do a [[Google]] search for HTML copyright symbol, you will find, as comes up right here in our search results, the sign that you are looking for is indeed the copyright symbol and here's the code: ampersand copy semicolon.
 >
 > **[7:19](https://www.linkedin.com/learning/crafting-meaningful-html/add-footers-with-address-time-and-date?u=76281980&t=439)** You can just copy that and drop that right on in here.
 >
@@ -1503,7 +1488,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Privacy]] (2), [[Microsoft Word|Word]] (2), [[HTML]] (2), css (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Microsoft Word|Word]] (2), [[HTML]] (2), [[Google]] (1)
 > **CLI Commands:** make (4), find (3)
 > **Env Vars:** html (2), css (1), mdn (1)
 > **UI Navigation:** click on (2), scroll down (1)
@@ -1512,8 +1497,7 @@ created: 2026-05-02
 > **Documentation:** mdn (1)
 > **Exercise Files:** exercise files (1)
 
-#### Add quotes, line breaks, and citations
-> [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/add-quotes-line-breaks-and-citations?u=76281980)
+#### [Add quotes, line breaks, and citations](https://www.linkedin.com/learning/crafting-meaningful-html/add-quotes-line-breaks-and-citations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1523,7 +1507,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/crafting-meaningful-html/add-quotes-line-breaks-and-citations?u=76281980&t=7)** There's a thing that was said, and there's likely a person who said it.
 >
-> **[0:12](https://www.linkedin.com/learning/crafting-meaningful-html/add-quotes-line-breaks-and-citations?u=76281980&t=12)** Our Two Trees Olive Oil example doesn't have any quotes in it, so I've set up some examples for you here in codepen.
+> **[0:12](https://www.linkedin.com/learning/crafting-meaningful-html/add-quotes-line-breaks-and-citations?u=76281980&t=12)** Our Two Trees Olive Oil example doesn't have any quotes in it, so I've set up some examples for you here in [[CodePen]].
 >
 > **[0:20](https://www.linkedin.com/learning/crafting-meaningful-html/add-quotes-line-breaks-and-citations?u=76281980&t=20)** So I've got two quotations here from Shakespeare, and the first one is from "Hamlet."
 >
@@ -1617,7 +1601,7 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/crafting-meaningful-html/add-quotes-line-breaks-and-citations?u=76281980&t=285)** And usually, you take the quotation marks out when you do this.
 >
-> **[4:49](https://www.linkedin.com/learning/crafting-meaningful-html/add-quotes-line-breaks-and-citations?u=76281980&t=289)** The reason why is, you can see over here in the display, is that those quotations that I had in before, the straight quote marks, using the q tag, it'll put in the beautiful, curly quotes, or the smart quotes, like Microsoft Word calls them.
+> **[4:49](https://www.linkedin.com/learning/crafting-meaningful-html/add-quotes-line-breaks-and-citations?u=76281980&t=289)** The reason why is, you can see over here in the display, is that those quotations that I had in before, the straight quote marks, using the q tag, it'll put in the beautiful, curly quotes, or the smart quotes, like [[Microsoft Word]] calls them.
 >
 > **[5:04](https://www.linkedin.com/learning/crafting-meaningful-html/add-quotes-line-breaks-and-citations?u=76281980&t=304)** And it will look lovely here on the page.
 >
@@ -1639,7 +1623,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[CodePen]] (1), [[Microsoft Word]] (1)
+> **Frameworks & Libraries:** [[CodePen]] (1), [[Microsoft Word]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (2), just like (1)
 > **URLs:** [mit.edu](https://mit.edu) (2)
@@ -1648,8 +1632,7 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### When to use div and span elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/when-to-use-div-and-span-elements?u=76281980)
+#### [When to use div and span elements](https://www.linkedin.com/learning/crafting-meaningful-html/when-to-use-div-and-span-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1741,7 +1724,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), web (1), product (1), next (1)
 > **Warnings:** warning (9)
 > **CLI Commands:** make (8)
 > **Definitions:** is a  (2), is an  (1), in other words (1)
@@ -1749,14 +1731,13 @@ created: 2026-05-02
 > **Non-Speech:** (keyboard clicking) (3)
 > **Env Vars:** css (2)
 
-#### Challenge: Identify semantic problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/challenge-identify-semantic-problems?u=76281980)
+#### [Challenge: Identify semantic problems](https://www.linkedin.com/learning/crafting-meaningful-html/challenge-identify-semantic-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/crafting-meaningful-html/challenge-identify-semantic-problems?u=76281980&t=0)** - [Instructor] Now that you've learned all of these fabulous new tags that you can incorporate into your documents it's time for another challenge.
 >
-> **[0:13](https://www.linkedin.com/learning/crafting-meaningful-html/challenge-identify-semantic-problems?u=76281980&t=13)** And in this particular challenge I've given you this starting html document.
+> **[0:13](https://www.linkedin.com/learning/crafting-meaningful-html/challenge-identify-semantic-problems?u=76281980&t=13)** And in this particular challenge I've given you this starting [[HTML]] document.
 >
 > **[0:18](https://www.linkedin.com/learning/crafting-meaningful-html/challenge-identify-semantic-problems?u=76281980&t=18)** It is unfortunately marked up the way I see many html documents marked up out there on the web today.
 >
@@ -1778,19 +1759,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), web (2), next (1)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Identify semantic problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/solution-identify-semantic-problems?u=76281980)
+#### [Solution: Identify semantic problems](https://www.linkedin.com/learning/crafting-meaningful-html/solution-identify-semantic-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/crafting-meaningful-html/solution-identify-semantic-problems?u=76281980&t=0)** - [Narrator] So how'd you do with that particular challenge?
 >
-> **[0:08](https://www.linkedin.com/learning/crafting-meaningful-html/solution-identify-semantic-problems?u=76281980&t=8)** Hopefully you were able to put into use a lot of those fabulous HTML tags that you didn't know about into this new document.
+> **[0:08](https://www.linkedin.com/learning/crafting-meaningful-html/solution-identify-semantic-problems?u=76281980&t=8)** Hopefully you were able to put into use a lot of those fabulous [[HTML]] tags that you didn't know about into this new document.
 >
 > **[0:17](https://www.linkedin.com/learning/crafting-meaningful-html/solution-identify-semantic-problems?u=76281980&t=17)** As always, there are lots of solutions to this particular challenge.
 >
@@ -1908,7 +1888,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/crafting-meaningful-html/solution-identify-semantic-problems?u=76281980&t=321)** Then you're going to layer on the CSS.
 >
-> **[5:24](https://www.linkedin.com/learning/crafting-meaningful-html/solution-identify-semantic-problems?u=76281980&t=324)** And then if you are using it, then you would layer on the JAVA Script on top of that.
+> **[5:24](https://www.linkedin.com/learning/crafting-meaningful-html/solution-identify-semantic-problems?u=76281980&t=324)** And then if you are using it, then you would layer on the [[Java]] Script on top of that.
 >
 > **[5:29](https://www.linkedin.com/learning/crafting-meaningful-html/solution-identify-semantic-problems?u=76281980&t=329)** So always push your HTML as far as possible.
 >
@@ -1916,7 +1896,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), next (5), [[HTML]] (3), css (3), feature (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Java]] (1)
 > **Env Vars:** html (3), css (3), abbr (1), evoo (1), java (1)
 > **Definitions:** stands for (1), is a  (1), in other words (1)
 > **CLI Commands:** make (2)
@@ -1930,14 +1910,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Controlling breaks with <wbr> or &shy;
-> [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/2401501?u=76281980)
+#### [Controlling breaks with <wbr> or &shy;](https://www.linkedin.com/learning/crafting-meaningful-html/2401501?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/crafting-meaningful-html/2401501?u=76281980&t=0)** - [Instructor] In this next chapter, I'd like to take a look at some other tags that are still semantic HTML and are very important but didn't conveniently fit into other parts of the course.
+> **[0:00](https://www.linkedin.com/learning/crafting-meaningful-html/2401501?u=76281980&t=0)** - [Instructor] In this next chapter, I'd like to take a look at some other tags that are still semantic [[HTML]] and are very important but didn't conveniently fit into other parts of the course.
 >
-> **[0:10](https://www.linkedin.com/learning/crafting-meaningful-html/2401501?u=76281980&t=10)** I'm going to start here with the WBR tag, and words in the English language are often not too long, relatively speaking, however, every so often you'll encounter a really long word, like dichlorodifluoromethane, which is a bit longer than average.
+> **[0:10](https://www.linkedin.com/learning/crafting-meaningful-html/2401501?u=76281980&t=10)** I'm going to start here with the WBR tag, and words in the English language are often not too long, relatively speaking, however, every so often you'll encounter a really long [[Microsoft Word|word]], like dichlorodifluoromethane, which is a bit longer than average.
 >
 > **[0:27](https://www.linkedin.com/learning/crafting-meaningful-html/2401501?u=76281980&t=27)** When that appears in the middle of a paragraph it looks fine, however, if it appears at the end of the line it may make the rag of your paragraph look a little bit odd.
 >
@@ -2005,7 +1984,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/crafting-meaningful-html/2401501?u=76281980&t=281)** Well, it depends.
 >
-> **[4:42](https://www.linkedin.com/learning/crafting-meaningful-html/2401501?u=76281980&t=282)** Just like all great things in web design.
+> **[4:42](https://www.linkedin.com/learning/crafting-meaningful-html/2401501?u=76281980&t=282)** Just like all great things in [[Web Design]].
 >
 > **[4:45](https://www.linkedin.com/learning/crafting-meaningful-html/2401501?u=76281980&t=285)** If the hyphen is important, then you should use the ampersand shy hyphen character.
 >
@@ -2013,7 +1992,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (16), next (4), rag (3), [[HTML]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (16), [[HTML]] (1), [[Web Design]] (1)
 > **Env Vars:** wbr (6), html (1)
 > **Analogies:** just like (3), for example (2)
 > **Definitions:** is a  (3), is called (1)
@@ -2021,12 +2000,11 @@ created: 2026-05-02
 > **Cross-References:** next chapter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Displaying code with <code>, <samp>, and <kbd>
-> [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/2397633?u=76281980)
+#### [Displaying code with <code>, <samp>, and <kbd>](https://www.linkedin.com/learning/crafting-meaningful-html/2397633?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/crafting-meaningful-html/2397633?u=76281980&t=0)** - [Instructor] Unsurprisingly, HTML offers several tags for marking up code, keyboard inputs, and screen outputs.
+> **[0:00](https://www.linkedin.com/learning/crafting-meaningful-html/2397633?u=76281980&t=0)** - [Instructor] Unsurprisingly, [[HTML]] offers several tags for marking up code, keyboard inputs, and screen outputs.
 >
 > **[0:07](https://www.linkedin.com/learning/crafting-meaningful-html/2397633?u=76281980&t=7)** It's easy to confuse which tag is used for what.
 >
@@ -2036,7 +2014,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/crafting-meaningful-html/2397633?u=76281980&t=21)** And as you see here, there are some instructions to do some work, and then there's some code inside of this pre tag, so here's what you're going to do.
 >
-> **[0:29](https://www.linkedin.com/learning/crafting-meaningful-html/2397633?u=76281980&t=29)** You're going to write an alert dialog box using JavaScript.
+> **[0:29](https://www.linkedin.com/learning/crafting-meaningful-html/2397633?u=76281980&t=29)** You're going to write an alert dialog box using [[JavaScript]].
 >
 > **[0:33](https://www.linkedin.com/learning/crafting-meaningful-html/2397633?u=76281980&t=33)** You're going to use command option I to open up your browser's coding console.
 >
@@ -2122,7 +2100,7 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/crafting-meaningful-html/2397633?u=76281980&t=285)** Once you actually type all of this code into your console, this is going to generate a little pop-up window for you.
 >
-> **[4:52](https://www.linkedin.com/learning/crafting-meaningful-html/2397633?u=76281980&t=292)** And that pop-up window depends on what browser you're using, but if you're using Chrome like I am, it'll say at the top, something like LinkedIn learning says, and then hello world, it'll look kind of like this.
+> **[4:52](https://www.linkedin.com/learning/crafting-meaningful-html/2397633?u=76281980&t=292)** And that pop-up window depends on what browser you're using, but if you're using Chrome like I am, it'll say at the top, something like [[LinkedIn]] learning says, and then hello world, it'll look kind of like this.
 >
 > **[5:03](https://www.linkedin.com/learning/crafting-meaningful-html/2397633?u=76281980&t=303)** And there's actually a way of semantically marking this up as well.
 >
@@ -2146,7 +2124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), [[LinkedIn]] (3), [[JavaScript]] (2), hit (2), css (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[LinkedIn]] (3), [[JavaScript]] (2)
 > **Env Vars:** kbd (5), html (3), ascii (2), css (1)
 > **Analogies:** for example (2), just like (2), kind of like (1)
 > **CLI Commands:** make (2)
@@ -2155,18 +2133,17 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Providing scripting alternatives with <noscript>
-> [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/2402517?u=76281980)
+#### [Providing scripting alternatives with <noscript>](https://www.linkedin.com/learning/crafting-meaningful-html/2402517?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/crafting-meaningful-html/2402517?u=76281980&t=0)** - [Instructor] So many pages are powered primarily by JavaScript these days.
+> **[0:00](https://www.linkedin.com/learning/crafting-meaningful-html/2402517?u=76281980&t=0)** - [Instructor] So many pages are powered primarily by [[JavaScript]] these days.
 >
 > **[0:04](https://www.linkedin.com/learning/crafting-meaningful-html/2402517?u=76281980&t=4)** However, there are situations where people may disable JavaScript or have some other reason that they can't run the JavaScript on your website.
 >
 > **[0:13](https://www.linkedin.com/learning/crafting-meaningful-html/2402517?u=76281980&t=13)** What happens in those situations?
 >
-> **[0:16](https://www.linkedin.com/learning/crafting-meaningful-html/2402517?u=76281980&t=16)** Well, I've written a really simple, really basic sort of CodePen here, just a single line of JavaScript inside of some script tags.
+> **[0:16](https://www.linkedin.com/learning/crafting-meaningful-html/2402517?u=76281980&t=16)** Well, I've written a really simple, really basic sort of [[CodePen]] here, just a single line of JavaScript inside of some script tags.
 >
 > **[0:24](https://www.linkedin.com/learning/crafting-meaningful-html/2402517?u=76281980&t=24)** And this does in fact work.
 >
@@ -2194,7 +2171,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/crafting-meaningful-html/2402517?u=76281980&t=86)** And one way of doing this is with the noscript tag.
 >
-> **[1:30](https://www.linkedin.com/learning/crafting-meaningful-html/2402517?u=76281980&t=90)** So I'm just going to start this by commenting out this particular bit of script right here in my HTML.
+> **[1:30](https://www.linkedin.com/learning/crafting-meaningful-html/2402517?u=76281980&t=90)** So I'm just going to start this by commenting out this particular bit of script right here in my [[HTML]].
 >
 > **[1:38](https://www.linkedin.com/learning/crafting-meaningful-html/2402517?u=76281980&t=98)** Otherwise, as I type, I'm going to get that little alert box coming up over and over again.
 >
@@ -2248,7 +2225,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (15), [[CodePen]] (2), hit (2), [[HTML]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (15), [[CodePen]] (2), [[HTML]] (2)
 > **Env Vars:** html (2)
 > **Cross-References:** coming up (2)
 > **Definitions:** in other words (1), is a  (1)
@@ -2257,8 +2234,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Providing details with <details> and <summary>
-> [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/2402518?u=76281980)
+#### [Providing details with <details> and <summary>](https://www.linkedin.com/learning/crafting-meaningful-html/2402518?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2284,7 +2260,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/crafting-meaningful-html/2402518?u=76281980&t=53)** And then after that answer we'll go on ahead and put in a slash details tag.
 >
-> **[1:01](https://www.linkedin.com/learning/crafting-meaningful-html/2402518?u=76281980&t=61)** And of course you can indent your HTML inside of that and then we're going to do the same thing again here.
+> **[1:01](https://www.linkedin.com/learning/crafting-meaningful-html/2402518?u=76281980&t=61)** And of course you can indent your [[HTML]] inside of that and then we're going to do the same thing again here.
 >
 > **[1:08](https://www.linkedin.com/learning/crafting-meaningful-html/2402518?u=76281980&t=68)** Details slash details.
 >
@@ -2298,7 +2274,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/crafting-meaningful-html/2402518?u=76281980&t=87)** And inside of that is our question and our answer.
 >
-> **[1:30](https://www.linkedin.com/learning/crafting-meaningful-html/2402518?u=76281980&t=90)** So that is the default configuration here for the details tag, it will display your information closed by default and it will display the word details.
+> **[1:30](https://www.linkedin.com/learning/crafting-meaningful-html/2402518?u=76281980&t=90)** So that is the default configuration here for the details tag, it will display your information closed by default and it will display the [[Microsoft Word|word]] details.
 >
 > **[1:42](https://www.linkedin.com/learning/crafting-meaningful-html/2402518?u=76281980&t=102)** Now that's awesome, that's super fun.
 >
@@ -2328,23 +2304,22 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/crafting-meaningful-html/2402518?u=76281980&t=167)** So the details tag will combine with summary is pretty exciting.
 >
-> **[2:51](https://www.linkedin.com/learning/crafting-meaningful-html/2402518?u=76281980&t=171)** It allows you to have accordion like functionality inside of your webpage without even implementing any JavaScript at all and it can communicate this information in an accessible way with just HTML.
+> **[2:51](https://www.linkedin.com/learning/crafting-meaningful-html/2402518?u=76281980&t=171)** It allows you to have accordion like functionality inside of your webpage without even implementing any [[JavaScript]] at all and it can communicate this information in an accessible way with just HTML.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), [[Microsoft Word|Word]] (2), next (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Microsoft Word|Word]] (2), [[JavaScript]] (1)
 > **UI Navigation:** click on (4)
 > **Env Vars:** html (3)
 > **Definitions:** in other words (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the misunderstood <hr>
-> [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/2400519?u=76281980)
+#### [Understanding the misunderstood <hr>](https://www.linkedin.com/learning/crafting-meaningful-html/2400519?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/crafting-meaningful-html/2400519?u=76281980&t=0)** - The HR tag is one of those early tags you might learn in web development.
+> **[0:00](https://www.linkedin.com/learning/crafting-meaningful-html/2400519?u=76281980&t=0)** - The HR tag is one of those early tags you might learn in [[Web Development]].
 >
 > **[0:05](https://www.linkedin.com/learning/crafting-meaningful-html/2400519?u=76281980&t=5)** Historically HR stands for horizontal rule.
 >
@@ -2418,7 +2393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (10), css (3), [[Web Development]] (1), generic (1)
+> **Frameworks & Libraries:** [[Web Development]] (1)
 > **Definitions:** in other words (2), is a  (2), stands for (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** css (3)
@@ -2432,14 +2407,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/crafting-meaningful-html/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/crafting-meaningful-html/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/crafting-meaningful-html/next-steps?u=76281980&t=0)** - Hi, everybody, it's Jen Kramer.
 >
-> **[0:02](https://www.linkedin.com/learning/crafting-meaningful-html/next-steps?u=76281980&t=2)** Thank you so much for watching Crafting Meaningful HTML.
+> **[0:02](https://www.linkedin.com/learning/crafting-meaningful-html/next-steps?u=76281980&t=2)** Thank you so much for watching Crafting Meaningful [[HTML]].
 >
 > **[0:07](https://www.linkedin.com/learning/crafting-meaningful-html/next-steps?u=76281980&t=7)** If you enjoyed this course, there's so much more to learn.
 >
@@ -2459,7 +2433,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), data (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **Env Vars:** html (3), css (1)
 > **Speakers:** - hi (1)
 

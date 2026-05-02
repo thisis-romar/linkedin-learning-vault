@@ -105,49 +105,47 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a neural network in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/creating-a-neural-network-in-python?u=76281980)
+#### [Creating a neural network in Python](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/creating-a-neural-network-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/creating-a-neural-network-in-python?u=76281980&t=0)** - Neural networks are everywhere and chances are you are using them every day when you're shopping online and a product you like pops up, when you see a weather forecast and why not, when you use your smartphone.
+> **[0:00](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/creating-a-neural-network-in-python?u=76281980&t=0)** - [[Neural Networks]] are everywhere and chances are you are using them every day when you're shopping online and a product you like pops up, when you see a weather forecast and why not, when you use your smartphone.
 >
-> **[0:14](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/creating-a-neural-network-in-python?u=76281980&t=14)** I'm Eduardo Corpeno and I'd like to invite you to take this course where we will create a neural network from scratch in Python.
+> **[0:14](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/creating-a-neural-network-in-python?u=76281980&t=14)** I'm Eduardo Corpeno and I'd like to invite you to take this course where we will create a neural network from scratch in [[Python (Programming Language)|Python]].
 >
-> **[0:21](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/creating-a-neural-network-in-python?u=76281980&t=21)** Whether you are starting your journey into artificial intelligence and machine learning or you have some experience using neural networks with popular tools like PyTorch or TensorFlow and you'd like to brush up on the basics, this course is for you.
+> **[0:21](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/creating-a-neural-network-in-python?u=76281980&t=21)** Whether you are starting your journey into [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning or you have some experience using neural networks with popular tools like [[PyTorch]] or [[TensorFlow]] and you'd like to brush up on the basics, this course is for you.
 >
-> **[0:37](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/creating-a-neural-network-in-python?u=76281980&t=37)** Although professional tools allow you to train neural networks from a high-level perspective, the objective of this course is to give you a chance to tap into the details of the algorithms behind neural networks.
+> **[0:37](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/creating-a-neural-network-in-python?u=76281980&t=37)** Although professional tools allow you to train neural networks from a high-level perspective, the objective of this course is to give you a chance to tap into the details of the [[Algorithms]] behind neural networks.
 >
 > **[0:49](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/creating-a-neural-network-in-python?u=76281980&t=49)** This will allow you to fully understand what's going on inside and you'll make much better use of professional machine learning tools in the future.
 >
-> **[0:58](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/creating-a-neural-network-in-python?u=76281980&t=58)** So come join me in my LinkedIn learning course and let's have fun with neural networks and Python.
+> **[0:58](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/creating-a-neural-network-in-python?u=76281980&t=58)** So come join me in my [[LinkedIn]] learning course and let's have fun with neural networks and Python.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neural Networks]] (5), [[Python (Programming Language)|Python]] (2), product (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[PyTorch]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (5), [[Python (Programming Language)|Python]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[PyTorch]] (1), [[TensorFlow]] (1)
 > **CLI Commands:** python (2), make (1)
 > **Speakers:** - neural (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-you-should-know?u=76281980&t=0)** - [Instructor] Before we start, here are some things you should know.
 >
-> **[0:04](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-you-should-know?u=76281980&t=4)** First and foremost, you must feel comfortable with writing code in Python 3.
+> **[0:04](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-you-should-know?u=76281980&t=4)** First and foremost, you must feel comfortable with writing code in [[Python (Programming Language)|Python]] 3.
 >
 > **[0:09](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-you-should-know?u=76281980&t=9)** If you're not sure, I suggest that you give it a try until you reach the first programming exercise.
 >
 > **[0:16](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-you-should-know?u=76281980&t=16)** If you still need some training, go ahead and browse our library to choose one of our many courses on Python.
 >
-> **[0:23](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-you-should-know?u=76281980&t=23)** Second, you may run the exercise files using a GitHub code space, which is a nice cloud development environment for you to test your code without having to install anything.
+> **[0:23](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-you-should-know?u=76281980&t=23)** Second, you may run the exercise files using a [[GitHub]] code space, which is a nice [[Cloud Development]] environment for you to test your code without having to install anything.
 >
 > **[0:36](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-you-should-know?u=76281980&t=36)** We'll tell you more about this later.
 >
 > **[0:39](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-you-should-know?u=76281980&t=39)** In case you prefer to run the code in your computer, you'll need to have Python 3 installed with the NumPy library.
 >
-> **[0:48](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-you-should-know?u=76281980&t=48)** Also, for the final project, I will show you an application with a graphical user interface that uses the Tkinter package, which probably came with your Python distribution.
+> **[0:48](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-you-should-know?u=76281980&t=48)** Also, for the final project, I will show you an application with a graphical user interface that uses the [[Tkinter]] package, which probably came with your Python distribution.
 >
 > **[1:02](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-you-should-know?u=76281980&t=62)** In the GitHub Codespace, you will use the cloud version of Visual Studio Code, but I also recommend that you install this IDE in your computer if you intend to run the code locally.
 >
@@ -155,7 +153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[GitHub]] (2), [[Programming]] (1), [[Cloud Development]] (1), application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[GitHub]] (2), [[Cloud Development]] (1), [[Tkinter]] (1)
 > **CLI Commands:** python (4)
 > **Prerequisites:** install (2), before we start (1), you'll need (1)
 > **Tools:** github (2), visual studio (1)
@@ -164,16 +162,15 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/using-github-codespaces-with-this-course?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/using-github-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Instructor] This is Ravi De Lobos, Senior Staff Instructor at LinkedIn Learning, and I'm going to show you how to work with LinkedIn Learning courses using GitHub Codespaces.
+> **[0:00](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Instructor] This is Ravi De Lobos, Senior Staff Instructor at [[LinkedIn]] Learning, and I'm going to show you how to work with LinkedIn Learning courses using [[GitHub]] [[Codespaces]].
 >
 > **[0:09](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/using-github-codespaces-with-this-course?u=76281980&t=9)** Codespaces is a code editor in the cloud with the full power of Visual Studio Code.
 >
-> **[0:14](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real world hands on practice that mirrors software development in the workplace.
+> **[0:14](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real world hands on practice that mirrors [[Software Development]] in the workplace.
 >
 > **[0:19](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/using-github-codespaces-with-this-course?u=76281980&t=19)** This course was created using GitHub Codespaces.
 >
@@ -241,7 +238,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/using-github-codespaces-with-this-course?u=76281980&t=195)** As you work through a course, you might make some changes on a branch.
 >
-> **[3:19](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/using-github-codespaces-with-this-course?u=76281980&t=199)** I'm going to make a minor edit on the index.html file right here.
+> **[3:19](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/using-github-codespaces-with-this-course?u=76281980&t=199)** I'm going to make a minor edit on the index.[[HTML]] file right here.
 >
 > **[3:27](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/using-github-codespaces-with-this-course?u=76281980&t=207)** I'm going to go ahead and save that, and you can see that I've modified this file because there's an M right here, and the branch name now has an asterisk on it.
 >
@@ -285,7 +282,7 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/using-github-codespaces-with-this-course?u=76281980&t=322)** And I'll ask it to go ahead and stage the changes, and then I'm going to hit this button here, I'll hit OK.
 >
-> **[5:34](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/using-github-codespaces-with-this-course?u=76281980&t=334)** You can also let it go ahead and run git fetch.
+> **[5:34](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/using-github-codespaces-with-this-course?u=76281980&t=334)** You can also let it go ahead and run [[Git]] [[Fetch]].
 >
 > **[5:37](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/using-github-codespaces-with-this-course?u=76281980&t=337)** That way it'll automatically sync with your forked repo.
 >
@@ -301,7 +298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), [[LinkedIn]] (2), [[Software Development]] (1), [[HTML]] (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** click on (3), switch to (3), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -315,8 +312,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a neural network?
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-is-a-neural-network?u=76281980)
+#### [What is a neural network?](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-is-a-neural-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -332,13 +328,13 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-is-a-neural-network?u=76281980&t=26)** Now let's consider what a neural network is not so that we get some misconceptions out of the way.
 >
-> **[0:32](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-is-a-neural-network?u=76281980&t=32)** A neural network is not a series of if-then statements or any other form of hard-coded data the software may fetch to produce an answer.
+> **[0:32](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-is-a-neural-network?u=76281980&t=32)** A neural network is not a series of if-then statements or any other form of hard-coded data the software may [[Fetch]] to produce an answer.
 >
 > **[0:41](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-is-a-neural-network?u=76281980&t=41)** A neural network is not all there is to machine learning.
 >
 > **[0:45](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-is-a-neural-network?u=76281980&t=45)** In fact, you'll see that machine learning is an extensive field of knowledge on its own.
 >
-> **[0:50](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-is-a-neural-network?u=76281980&t=50)** And lastly, although neural networks are useful for classifying, they are certainly not the only type of classifier out there.
+> **[0:50](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-is-a-neural-network?u=76281980&t=50)** And lastly, although [[Neural Networks]] are useful for classifying, they are certainly not the only type of classifier out there.
 >
 > **[0:59](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/what-is-a-neural-network?u=76281980&t=59)** Now I'd like to give you an idea of what constitutes a neural network.
 >
@@ -350,17 +346,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Fetch]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[Neural Networks]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (1), picture (1)
 > **Speakers:** - [presenter] (1)
 
-#### Why Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/why-python?u=76281980)
+#### [Why Python](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/why-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/why-python?u=76281980&t=0)** - [Instructor] I'd like to take a moment to tell you why we chose Python as the programing language for this course.
+> **[0:00](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/why-python?u=76281980&t=0)** - [Instructor] I'd like to take a moment to tell you why we chose [[Python (Programming Language)|Python]] as the programing language for this course.
 >
 > **[0:06](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/why-python?u=76281980&t=6)** So here are some of the most important aspects about Python I'd like you to know.
 >
@@ -378,29 +373,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Programming]] (1), application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The many applications of machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980)
+#### [The many applications of machine learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980&t=0)** - [Instructor] Since neural networks are an important part of machine learning I'd like to tell you just a few of the most popular applications of machine learning, which is the field of computer science related to training machines to solve problems.
+> **[0:00](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980&t=0)** - [Instructor] Since [[Neural Networks]] are an important part of machine learning I'd like to tell you just a few of the most popular applications of machine learning, which is the field of computer science related to training machines to solve problems.
 >
-> **[0:14](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980&t=14)** Machine learning algorithms are widely used for image recognition where a machine can be taught to make sense of still images or video.
+> **[0:14](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980&t=14)** Machine learning [[Algorithms]] are widely used for image recognition where a machine can be taught to make sense of still images or video.
 >
 > **[0:22](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980&t=22)** An example of this would be face recognition in surveillance systems.
 >
-> **[0:26](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980&t=26)** Speech recognition is something you may already be used to.
+> **[0:26](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980&t=26)** [[Speech Recognition]] is something you may already be used to.
 >
 > **[0:30](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980&t=30)** Well, this is another typical application of machine learning where the input from thousands and thousands of people has taught a machine what the words mean over time.
 >
 > **[0:41](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980&t=41)** These people may have different voices and accents, and this makes the computer even better at understanding what new people are saying.
 >
-> **[0:49](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980&t=49)** Prediction is a big application of machine learning, which is useful at producing stock market advice, weather forecasting, and even at many stages of health care, like diagnostics and treatment.
+> **[0:49](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980&t=49)** Prediction is a big application of machine learning, which is useful at producing stock market advice, weather [[Forecasting]], and even at many stages of health care, like diagnostics and treatment.
 >
 > **[1:02](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980&t=62)** Another big application of machine learning are recommender systems, which I'm sure you are experiencing all the time in your video services like Netflix and Amazon Prime Video, in online stores like [Amazon.com](https://Amazon.com), and even in the advertisements you get in social media.
 >
@@ -416,7 +410,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980&t=116)** Now, let me briefly tell you about the three broad paradigms of machine learning and some of their best known tools.
 >
-> **[2:03](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980&t=123)** First, we have supervised learning where you actively teach the AI by providing it with lots of data samples along with the results you expect.
+> **[2:03](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980&t=123)** First, we have [[Supervised Learning]] where you actively teach the AI by providing it with lots of data samples along with the results you expect.
 >
 > **[2:13](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980&t=133)** Here are two big problems supervised learning can solve.
 >
@@ -428,7 +422,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980&t=153)** Next, we have classification, or recognizing the category a sample belongs to.
 >
-> **[2:39](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980&t=159)** Among other famous tools we have the support vector machine, neural networks, and decision trees, which are very suitable for implementing the software behind [akinator.com](https://akinator.com) and [20q.net](https://20q.net).
+> **[2:39](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980&t=159)** Among other famous tools we have the support vector machine, neural networks, and [[Decision Trees]], which are very suitable for implementing the software behind [akinator.com](https://akinator.com) and [20q.net](https://20q.net).
 >
 > **[2:52](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980&t=172)** The second paradigm of machine learning is unsupervised learning where you simply feed data into the AI, and it makes sense of this data on its own.
 >
@@ -444,30 +438,29 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980&t=213)** Among these we have autoencoders, self-organizing maps, and deep belief networks.
 >
-> **[3:39](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980&t=219)** The third paradigm of machine learning is reinforcement learning where the AI is composed of a feedback loop with rewards and penalties based on its behavior.
+> **[3:39](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980&t=219)** The third paradigm of machine learning is [[Reinforcement Learning]] where the AI is composed of a feedback loop with rewards and penalties based on its behavior.
 >
-> **[3:50](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980&t=230)** For this area I'll just mention the most famous application today, AI agents capable of learning how to play video games without supervision.
+> **[3:50](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980&t=230)** For this area I'll just mention the most famous application today, [[AI Agents]] capable of learning how to play video games without supervision.
 >
 > **[4:00](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-many-applications-of-machine-learning?u=76281980&t=240)** If you've seen one of these projects you may know that they often exceed human capabilities, which I personally find mind blowing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), ai (5), application (4), [[Neural Networks]] (3), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Neural Networks]] (3), [[Algorithms]] (2), [[Forecasting]] (2), [[Supervised Learning]] (2), [[Speech Recognition]] (1)
 > **URLs:** [akinator.com](https://akinator.com) (2), [20q.net](https://20q.net) (2), [amazon.com](https://amazon.com) (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Types of classifiers
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-classifiers?u=76281980)
+#### [Types of classifiers](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-classifiers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-classifiers?u=76281980&t=0)** - [Instructor] In this course, we'll work with neural networks for classification, their oldest application.
+> **[0:00](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-classifiers?u=76281980&t=0)** - [Instructor] In this course, we'll work with [[Neural Networks]] for classification, their oldest application.
 >
 > **[0:06](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-classifiers?u=76281980&t=6)** So let me show you a few classifiers in machine learning and where neural networks fit in.
 >
-> **[0:12](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-classifiers?u=76281980&t=12)** First we have the logistic regression, which is a function with an input vector and a single return value.
+> **[0:12](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-classifiers?u=76281980&t=12)** First we have the [[Logistic Regression]], which is a function with an input vector and a single return value.
 >
 > **[0:19](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-classifiers?u=76281980&t=19)** Depending on the values in the input vector the function will return a value between zero and one as a way of classifying the input as belonging to class zero or class one.
 >
@@ -509,9 +502,9 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-classifiers?u=76281980&t=159)** Here's an example of such boundary.
 >
-> **[2:44](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-classifiers?u=76281980&t=164)** A seemingly different approach to classification are decision trees.
+> **[2:44](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-classifiers?u=76281980&t=164)** A seemingly different approach to classification are [[Decision Trees]].
 >
-> **[2:49](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-classifiers?u=76281980&t=169)** These algorithms have a tree-like structure of questions very much like a series of if-else statements, but not quite.
+> **[2:49](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-classifiers?u=76281980&t=169)** These [[Algorithms]] have a tree-like structure of questions very much like a series of if-else statements, but not quite.
 >
 > **[2:56](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-classifiers?u=76281980&t=176)** It turns out that a decision tree uses a training algorithm based on information theory to produce the shortest possible tree, that is, to classify a new sample in the smallest number of steps.
 >
@@ -539,20 +532,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neural Networks]] (5), data (2), application (1), [[Logistic Regression]] (1), [[Decision Trees]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (5), [[Logistic Regression]] (1), [[Decision Trees]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (2), known as (2)
 > **Analogies:** for instance (1), similar to (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of neural networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-neural-networks?u=76281980)
+#### [Types of neural networks](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-neural-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-neural-networks?u=76281980&t=0)** - As you could see, machine learning has an extensive set of tools for pretty much any problem out there.
 >
-> **[0:07](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-neural-networks?u=76281980&t=7)** Now let's zero in on neural networks.
+> **[0:07](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-neural-networks?u=76281980&t=7)** Now let's zero in on [[Neural Networks]].
 >
 > **[0:10](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-neural-networks?u=76281980&t=10)** There are dozens of neural network types but I'd like to mention three very special types.
 >
@@ -572,7 +564,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-neural-networks?u=76281980&t=68)** The success of these type of neural networks led to the development of a large family called deep neural networks which have a large number of neural layers between the input and the output.
 >
-> **[1:21](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-neural-networks?u=76281980&t=81)** One example of this evolution of deep neural networks are convolutional neural networks.
+> **[1:21](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-neural-networks?u=76281980&t=81)** One example of this evolution of deep neural networks are [[Convolutional Neural Networks (CNN)|convolutional neural networks]].
 >
 > **[1:27](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-neural-networks?u=76281980&t=87)** An application I like very much is the Deep Dream Generator which is a convolutional neural network that takes in a picture as input, then processes it through the many, many layers it has, and finally shows you the modifications it has added to the original picture.
 >
@@ -590,19 +582,18 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-neural-networks?u=76281980&t=138)** Notice the tattoos all over my skin, the armrest at the left looks like a plant to me, and my knee turned into a bug.
 >
-> **[2:26](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-neural-networks?u=76281980&t=146)** Finally, here's my LinkedIn Learning profile picture, and this is the resulting dream.
+> **[2:26](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-neural-networks?u=76281980&t=146)** Finally, here's my [[LinkedIn]] Learning profile picture, and this is the resulting dream.
 >
 > **[2:33](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/types-of-neural-networks?u=76281980&t=153)** I just love how the AI dreamt of me with a lizard head instead of a hand.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neural Networks]] (6), ai (3), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), application (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (6), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[LinkedIn]] (1)
 > **Analogies:** picture (7)
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
 
-#### Multilayer perceptrons
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/multilayer-perceptrons?u=76281980)
+#### [Multilayer perceptrons](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/multilayer-perceptrons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -614,7 +605,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/multilayer-perceptrons?u=76281980&t=18)** This is typically sketched from left to right.
 >
-> **[0:21](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/multilayer-perceptrons?u=76281980&t=21)** Feedforward neural networks have a so-called fully-connected architecture between layers of neurons.
+> **[0:21](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/multilayer-perceptrons?u=76281980&t=21)** Feedforward [[Neural Networks]] have a so-called fully-connected architecture between layers of neurons.
 >
 > **[0:27](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/multilayer-perceptrons?u=76281980&t=27)** Here's an example. First, we have the input layer.
 >
@@ -650,7 +641,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -659,12 +650,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Neurons and the brain
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/neurons-and-the-brain?u=76281980)
+#### [Neurons and the brain](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/neurons-and-the-brain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/neurons-and-the-brain?u=76281980&t=0)** - Earlier I mentioned that neural networks were inspired by the brain, so it makes sense to take a quick view at the ultimate computer.
+> **[0:00](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/neurons-and-the-brain?u=76281980&t=0)** - Earlier I mentioned that [[Neural Networks]] were inspired by the brain, so it makes sense to take a quick view at the ultimate computer.
 >
 > **[0:08](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/neurons-and-the-brain?u=76281980&t=8)** There are many things we know about the brain and so many other things we don't.
 >
@@ -694,7 +684,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/neurons-and-the-brain?u=76281980&t=80)** This response is usually interpreted as binary, so that if the stimulus from the inputs is high enough, it is said that the neuron fires an output signal.
 >
-> **[1:31](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/neurons-and-the-brain?u=76281980&t=91)** This output signal goes through an extension called "The Axon" into other neurons, or some other part of the body that will react to this signal, such as muscles.
+> **[1:31](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/neurons-and-the-brain?u=76281980&t=91)** This output signal goes through an extension called "The Axon" into other neurons, or some other part of the body that will [[React.js|react]] to this signal, such as muscles.
 >
 > **[1:43](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/neurons-and-the-brain?u=76281980&t=103)** Now let's build a computational model of a neuron based on these three elements.
 
@@ -705,8 +695,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - earlier (1)
 
-#### A simple model of a neuron
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/a-simple-model-of-a-neuron?u=76281980)
+#### [A simple model of a neuron](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/a-simple-model-of-a-neuron?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -714,7 +703,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/a-simple-model-of-a-neuron?u=76281980&t=11)** To come up with the block diagram, you can see at the right, we'll call the inputs X0 through Xn minus 1 for a neuron with n inputs.
 >
-> **[0:22](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/a-simple-model-of-a-neuron?u=76281980&t=22)** Now, biological neurons seem to react in different sensitivities to different incoming signals, so we'll model that mathematically by assigning a weight to each input channel.
+> **[0:22](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/a-simple-model-of-a-neuron?u=76281980&t=22)** Now, biological neurons seem to [[React.js|react]] in different sensitivities to different incoming signals, so we'll model that mathematically by assigning a weight to each input channel.
 >
 > **[0:35](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/a-simple-model-of-a-neuron?u=76281980&t=35)** Let's call them W0 through Wn minus 1.
 >
@@ -812,12 +801,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Definitions:** means that (3), is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Activation functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/activation-functions?u=76281980)
+#### [Activation functions](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/activation-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -941,11 +929,11 @@ created: 2026-05-02
 >
 > **[6:00](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/activation-functions?u=76281980&t=360)** As you can see in the mathematical expression this function leaves the value of X unchanged for positive values and outputs zero for negative values of X.
 >
-> **[6:11](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/activation-functions?u=76281980&t=371)** All of these traits are visible in the plot, and although the function is unbounded it's a very popular activation function for neural networks.
+> **[6:11](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/activation-functions?u=76281980&t=371)** All of these traits are visible in the plot, and although the function is unbounded it's a very popular activation function for [[Neural Networks]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), next (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (1)
 > **Definitions:** is a  (3), means that (2)
 > **Versions:** 1.25 (2), 1.26 (1), 1.24 (1)
 > **CLI Commands:** make (2)
@@ -953,8 +941,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Perceptrons: A better model of a neuron
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/perceptrons-a-better-model-of-a-neuron?u=76281980)
+#### [Perceptrons: A better model of a neuron](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/perceptrons-a-better-model-of-a-neuron?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -990,7 +977,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/perceptrons-a-better-model-of-a-neuron?u=76281980&t=88)** Before we get to the code, let me show you how to set up a code space and browse through the branches in Visual Studio Code.
 >
-> **[1:36](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/perceptrons-a-better-model-of-a-neuron?u=76281980&t=96)** Here we have the GitHub repository for the course.
+> **[1:36](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/perceptrons-a-better-model-of-a-neuron?u=76281980&t=96)** Here we have the [[GitHub]] repository for the course.
 >
 > **[1:40](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/perceptrons-a-better-model-of-a-neuron?u=76281980&t=100)** To start a code space, you can click on the code button and go to the code spaces tab.
 >
@@ -1080,7 +1067,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[GitHub]] (1), web (1), data (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **UI Navigation:** go to (2), switch to (1), click on (1), dropdown (1), open the (1)
 > **Tools:** visual studio (2), github (1)
 > **Versions:** 0.5 (2)
@@ -1089,8 +1076,7 @@ created: 2026-05-02
 > **File Paths:** mlp.py (1)
 > **Exercise Files:** exercise files (1)
 
-#### Challenge: Finish the perceptron
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/challenge-finish-the-perceptron?u=76281980)
+#### [Challenge: Finish the perceptron](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/challenge-finish-the-perceptron?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1112,7 +1098,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/challenge-finish-the-perceptron?u=76281980&t=46)** The sigmoid activation function, and a separate method to write values to the weights.
 >
-> **[0:53](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/challenge-finish-the-perceptron?u=76281980&t=53)** For the argument, receive a regular Python list of floating point numbers.
+> **[0:53](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/challenge-finish-the-perceptron?u=76281980&t=53)** For the argument, receive a regular [[Python (Programming Language)|Python]] list of floating point numbers.
 >
 > **[0:58](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/challenge-finish-the-perceptron?u=76281980&t=58)** You may or may not validate that the length of this list matches the number of inputs in the neuron, including the bias.
 >
@@ -1124,14 +1110,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - ready (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Finish the perceptron
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/solution-finish-the-perceptron?u=76281980)
+#### [Solution: Finish the perceptron](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/solution-finish-the-perceptron?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1157,12 +1142,11 @@ created: 2026-05-02
 > **Speakers:** - [eduardo] (1)
 > **Non-Speech:** (pleasant electronic music) (1)
 
-#### Logic gates
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/logic-gates?u=76281980)
+#### [Logic gates](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/logic-gates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/logic-gates?u=76281980&t=0)** - In their early days, neural networks were tested with simple functions to see if they were capable of performing the calculations they were designed to perform.
+> **[0:00](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/logic-gates?u=76281980&t=0)** - In their early days, [[Neural Networks]] were tested with simple functions to see if they were capable of performing the calculations they were designed to perform.
 >
 > **[0:10](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/logic-gates?u=76281980&t=10)** This led to implementing logic gates with perceptrons.
 >
@@ -1220,7 +1204,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/logic-gates?u=76281980&t=184)** That's it.
 >
-> **[3:05](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/logic-gates?u=76281980&t=185)** In the rest of the code, I'm testing all four cases with the print function.
+> **[3:05](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/logic-gates?u=76281980&t=185)** In the [[Representational State Transfer (REST)|rest]] of the code, I'm testing all four cases with the print function.
 >
 > **[3:11](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/logic-gates?u=76281980&t=191)** Let's see it working.
 >
@@ -1234,14 +1218,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Neural Networks]] (1), express (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 0.5 (1)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Challenge: Logic gates with perceptrons
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/challenge-logic-gates-with-perceptrons?u=76281980)
+#### [Challenge: Logic gates with perceptrons](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/challenge-logic-gates-with-perceptrons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1267,15 +1250,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (quirky music) (1)
 
-#### Solution: Logic gates with perceptrons
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/solution-logic-gates-with-perceptrons?u=76281980)
+#### [Solution: Logic gates with perceptrons](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/solution-logic-gates-with-perceptrons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1291,7 +1272,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/solution-logic-gates-with-perceptrons?u=76281980&t=28)** That is, for an input of zero zero, we get an output value very close to zero.
 >
-> **[0:34](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/solution-logic-gates-with-perceptrons?u=76281980&t=34)** The rest of the input combinations yield an output greater than 0.99.
+> **[0:34](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/solution-logic-gates-with-perceptrons?u=76281980&t=34)** The [[Representational State Transfer (REST)|rest]] of the input combinations yield an output greater than 0.99.
 >
 > **[0:40](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/solution-logic-gates-with-perceptrons?u=76281980&t=40)** If you like this exercise, you may want to create the NAND and the NOR gate next.
 >
@@ -1301,7 +1282,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** nand (1), nor (1)
 > **CLI Commands:** make (1)
 > **Versions:** 0.99 (1)
@@ -1314,8 +1295,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Linear separability
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/linear-separability?u=76281980)
+#### [Linear separability](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/linear-separability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1411,14 +1391,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** xor (9), nand (7)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (2)
 > **Speakers:** - [man] (1)
 
-#### Writing the multilayer perceptron class
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/writing-the-multilayer-perceptron-class?u=76281980)
+#### [Writing the multilayer perceptron class](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/writing-the-multilayer-perceptron-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1438,9 +1416,9 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/writing-the-multilayer-perceptron-class?u=76281980&t=33)** So here's our first implementation of the MultiLayerPerceptron class.
 >
-> **[0:37](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/writing-the-multilayer-perceptron-class?u=76281980&t=37)** I'll write the constructor and you'll write the rest.
+> **[0:37](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/writing-the-multilayer-perceptron-class?u=76281980&t=37)** I'll write the constructor and you'll write the [[Representational State Transfer (REST)|rest]].
 >
-> **[0:41](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/writing-the-multilayer-perceptron-class?u=76281980&t=41)** In the constructor, starting at line 36, I'm receiving a parameter called layers, which is a Python list of integers, which represent the number of neurons per layer.
+> **[0:41](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/writing-the-multilayer-perceptron-class?u=76281980&t=41)** In the constructor, starting at line 36, I'm receiving a parameter called layers, which is a [[Python (Programming Language)|Python]] list of integers, which represent the number of neurons per layer.
 >
 > **[0:53](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/writing-the-multilayer-perceptron-class?u=76281980&t=53)** This includes the input layer, which has no neurons but here we mean the number of inputs.
 >
@@ -1482,13 +1460,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Finish the multilayer perceptron class
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/challenge-finish-the-multilayer-perceptron-class?u=76281980)
+#### [Challenge: Finish the multilayer perceptron class](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/challenge-finish-the-multilayer-perceptron-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1522,7 +1499,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** printweights (1)
 > **Env Vars:** xor (1)
@@ -1530,9 +1506,9 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [presenter] (1)
+> **Non-Speech:** (bright electronic music) (1)
 
-#### Solution: Finish the multilayer perceptron class
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/solution-finish-the-multilayer-perceptron-class?u=76281980)
+#### [Solution: Finish the multilayer perceptron class](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/solution-finish-the-multilayer-perceptron-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1588,7 +1564,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Env Vars:** xor (2)
 > **Tools:** terminal (1)
 > **Speakers:** - [presenter] (1)
@@ -1599,8 +1574,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The need for training
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-need-for-training?u=76281980)
+#### [The need for training](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-need-for-training?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1618,7 +1592,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-need-for-training?u=76281980&t=29)** For example, we could simply use the logic embedded in programming languages to get away with logic.
 >
-> **[0:35](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-need-for-training?u=76281980&t=35)** Well, it turns out that the real value of neural networks lie in their ability to learn.
+> **[0:35](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-need-for-training?u=76281980&t=35)** Well, it turns out that the real value of [[Neural Networks]] lie in their ability to learn.
 >
 > **[0:42](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-need-for-training?u=76281980&t=42)** Sure, we just got a multilayer perceptron to behave as an XOR gate by writing the exact weights it needed.
 >
@@ -1708,14 +1682,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Programming]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (1)
 > **Env Vars:** xor (3), nand (1)
 > **Definitions:** known as (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### The training process
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-training-process?u=76281980)
+#### [The training process](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-training-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1769,7 +1742,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-training-process?u=76281980&t=127)** There's nothing we intend to do to improve the learning.
 >
-> **[2:10](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-training-process?u=76281980&t=130)** Actually, what's usually done here is that we prepare several classifiers, say two support vector machines and three neural networks.
+> **[2:10](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-training-process?u=76281980&t=130)** Actually, what's usually done here is that we prepare several classifiers, say two support vector machines and three [[Neural Networks]].
 >
 > **[2:21](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-training-process?u=76281980&t=141)** We may tweak our network, you know?
 >
@@ -1807,14 +1780,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), feature (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (1)
 > **Definitions:** known as (2), is a  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### The error function
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-error-function?u=76281980)
+#### [The error function](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-error-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1876,8 +1848,7 @@ created: 2026-05-02
 > **Versions:** 0.6 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Gradient descent
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/gradient-descent?u=76281980)
+#### [Gradient descent](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/gradient-descent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1939,8 +1910,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Delta rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-delta-rule?u=76281980)
+#### [The Delta rule](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-delta-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2047,8 +2017,7 @@ created: 2026-05-02
 > **Versions:** 0.5 (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Backpropagation algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-backpropagation-algorithm?u=76281980)
+#### [The Backpropagation algorithm](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-backpropagation-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2148,7 +2117,7 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-backpropagation-algorithm?u=76281980&t=287)** So let's suppose we are interested in calculating the error term for output 01.
 >
-> **[4:53](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-backpropagation-algorithm?u=76281980&t=293)** Now let's zoom into the output layer for this example.
+> **[4:53](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-backpropagation-algorithm?u=76281980&t=293)** Now let's [[Zoom]] into the output layer for this example.
 >
 > **[4:57](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-backpropagation-algorithm?u=76281980&t=297)** To calculate lowercase delta sub one that's the error term for neuron number one in the output layer, we'll use O sub one and Y sub one in the equation.
 >
@@ -2186,7 +2155,7 @@ created: 2026-05-02
 >
 > **[6:54](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-backpropagation-algorithm?u=76281980&t=414)** To calculate lowercase delta sub two one, we'll need the usual derivative of the sigmoid times the weighted sum of the error terms.
 >
-> **[7:04](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-backpropagation-algorithm?u=76281980&t=424)** So these are the products we'll have to add for this neuron.
+> **[7:04](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-backpropagation-algorithm?u=76281980&t=424)** So these are the [[Microsoft Products|products]] we'll have to add for this neuron.
 >
 > **[7:08](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-backpropagation-algorithm?u=76281980&t=428)** Lower case delta three zero or the error term of the output neuron zero times W zero one.
 >
@@ -2220,7 +2189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), next (2), [[Zoom]] (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Microsoft Products|Products]] (2)
 > **Versions:** 0.2 (2), 0.15 (2), 0.49 (1), 0.51 (1), 0.04 (1)
 > **Definitions:** is a  (3), means that (1)
 > **Cross-References:** in the next (1), in the last (1)
@@ -2228,8 +2197,7 @@ created: 2026-05-02
 > **Env Vars:** mse (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Write your own Backpropagation method
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/challenge-write-your-own-backpropagation-method?u=76281980)
+#### [Challenge: Write your own Backpropagation method](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/challenge-write-your-own-backpropagation-method?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2247,7 +2215,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/challenge-write-your-own-backpropagation-method?u=76281980&t=35)** The method is called bp and it receives a feature vector x and a label vector y.
 >
-> **[0:41](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/challenge-write-your-own-backpropagation-method?u=76281980&t=41)** Both are regular Python lists.
+> **[0:41](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/challenge-write-your-own-backpropagation-method?u=76281980&t=41)** Both are regular [[Python (Programming Language)|Python]] lists.
 >
 > **[0:44](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/challenge-write-your-own-backpropagation-method?u=76281980&t=44)** So the first two lines convert those lists into NumPy arrays as usual to have the operations in NumPy.
 >
@@ -2303,7 +2271,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), feature (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** xor (1)
@@ -2312,8 +2280,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Prerequisites:** you'll need (1)
 
-#### Solution: Write your own Backpropagation method
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/solution-write-your-own-backpropagation-method?u=76281980)
+#### [Solution: Write your own Backpropagation method](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/solution-write-your-own-backpropagation-method?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2407,7 +2374,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** npi (1)
 > **Cross-References:** in the last (1)
@@ -2419,14 +2385,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Segment display recognition
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/segment-display-recognition?u=76281980)
+#### [Segment display recognition](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/segment-display-recognition?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/segment-display-recognition?u=76281980&t=0)** - [Instructor] Congratulations for making it this far.
 >
-> **[0:03](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/segment-display-recognition?u=76281980&t=3)** You've learned an impressive number of concepts that will be useful in your journey into artificial intelligence and machine learning.
+> **[0:03](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/segment-display-recognition?u=76281980&t=3)** You've learned an impressive number of concepts that will be useful in your journey into [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning.
 >
 > **[0:10](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/segment-display-recognition?u=76281980&t=10)** Now it's time to have some fun with a practical application of your brand new multilayer perception class.
 >
@@ -2434,7 +2399,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/segment-display-recognition?u=76281980&t=22)** So let me tell you a few details about OCR.
 >
-> **[0:25](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/segment-display-recognition?u=76281980&t=25)** It's a set of algorithms used to recognize characters in a picture.
+> **[0:25](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/segment-display-recognition?u=76281980&t=25)** It's a set of [[Algorithms]] used to recognize characters in a picture.
 >
 > **[0:29](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/segment-display-recognition?u=76281980&t=29)** It's useful for many applications like digitizing books or documents.
 >
@@ -2468,7 +2433,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/segment-display-recognition?u=76281980&t=113)** So again, the objective is to recognize multi-digit numbers by first recognizing the digits separately.
 >
-> **[2:00](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/segment-display-recognition?u=76281980&t=120)** This is a suitable task for a neural network because the input may come from a picture or a camera used by some computer vision system.
+> **[2:00](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/segment-display-recognition?u=76281980&t=120)** This is a suitable task for a neural network because the input may come from a picture or a camera used by some [[Computer Vision]] system.
 >
 > **[2:08](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/segment-display-recognition?u=76281980&t=128)** The software will extract the brightness of each segment and send that seven number vector to our neural network.
 >
@@ -2498,15 +2463,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1), web (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1), [[Computer Vision]] (1)
 > **Env Vars:** ocr (3), pdf (1), sdr (1)
 > **Analogies:** picture (2), for example (2)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Design your own SDR neural network
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/challenge-design-your-own-sdr-neural-network?u=76281980)
+#### [Challenge: Design your own SDR neural network](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/challenge-design-your-own-sdr-neural-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2548,13 +2512,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Design your own SDR neural network
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/solution-design-your-own-sdr-neural-network?u=76281980)
+#### [Solution: Design your own SDR neural network](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/solution-design-your-own-sdr-neural-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2670,8 +2632,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Challenge: Train your own SDR neural network
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/challenge-train-your-own-sdr-neural-network?u=76281980)
+#### [Challenge: Train your own SDR neural network](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/challenge-train-your-own-sdr-neural-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2701,7 +2662,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/challenge-train-your-own-sdr-neural-network?u=76281980&t=57)** Do this in the text terminal to keep it quick and simple.
 >
-> **[1:01](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/challenge-train-your-own-sdr-neural-network?u=76281980&t=61)** Now, after I show you the text-based solution for this challenge, I will show you three separate applications that implement the three neural networks we saw earlier using sliders, buttons and other GUI controls.
+> **[1:01](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/challenge-train-your-own-sdr-neural-network?u=76281980&t=61)** Now, after I show you the text-based solution for this challenge, I will show you three separate applications that implement the three [[Neural Networks]] we saw earlier using sliders, buttons and other GUI controls.
 >
 > **[1:16](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/challenge-train-your-own-sdr-neural-network?u=76281980&t=76)** And you'll have the chance to use your neural network in these demos if you'd like.
 >
@@ -2751,7 +2712,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neural Networks]] (1), functional (1), next (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (1)
 > **Env Vars:** gui (3), xor (1)
 > **CLI Commands:** make (1), find (1)
 > **Tools:** terminal (2)
@@ -2760,8 +2721,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Warnings:** be aware (1)
 
-#### Solution: Train your own SDR neural network
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/solution-train-your-own-sdr-neural-network?u=76281980)
+#### [Solution: Train your own SDR neural network](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/solution-train-your-own-sdr-neural-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2787,7 +2747,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/solution-train-your-own-sdr-neural-network?u=76281980&t=95)** Look at line 182 for the output of the seven to one system.
 >
-> **[1:40](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/solution-train-your-own-sdr-neural-network?u=76281980&t=100)** Notice that I'm multiplying the neural networks output by 10 and then printing the truncated version of that number.
+> **[1:40](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/solution-train-your-own-sdr-neural-network?u=76281980&t=100)** Notice that I'm multiplying the [[Neural Networks]] output by 10 and then printing the truncated version of that number.
 >
 > **[1:48](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/solution-train-your-own-sdr-neural-network?u=76281980&t=108)** That is an integer between zero and nine.
 >
@@ -2841,7 +2801,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Neural Networks]] (2), application (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (2)
 > **Tools:** terminal (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** gui (1)
@@ -2849,16 +2809,15 @@ created: 2026-05-02
 > **Speakers:** - let (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### 7 to 1 network GUI demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/7-to-1-network-gui-demo?u=76281980)
+#### [7 to 1 network GUI demo](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/7-to-1-network-gui-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/7-to-1-network-gui-demo?u=76281980&t=0)** - I wrote three applications for our segment display recognition neural network, all with a graphical user interface to allow you to see the neural network working as you tweak the input values.
 >
-> **[0:14](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/7-to-1-network-gui-demo?u=76281980&t=14)** Please note that you cannot run these demos in the GitHub code space because of the gooey elements.
+> **[0:14](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/7-to-1-network-gui-demo?u=76281980&t=14)** Please note that you cannot run these demos in the [[GitHub]] code space because of the gooey elements.
 >
-> **[0:21](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/7-to-1-network-gui-demo?u=76281980&t=21)** So if you'd like to follow along, you'll need to have Python installed in your computer, along with Non-py and TK inter.
+> **[0:21](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/7-to-1-network-gui-demo?u=76281980&t=21)** So if you'd like to follow along, you'll need to have [[Python (Programming Language)|Python]] installed in your computer, along with Non-py and TK inter.
 >
 > **[0:30](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/7-to-1-network-gui-demo?u=76281980&t=30)** What you are seeing right now is my local installation of Visual Studio Code.
 >
@@ -2876,7 +2835,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/7-to-1-network-gui-demo?u=76281980&t=92)** The second one is called run.ann and that's where the neural network is run once every time the user changes the input controls.
 >
-> **[1:42](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/7-to-1-network-gui-demo?u=76281980&t=102)** I'd rather show you the rest in the running application.
+> **[1:42](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/7-to-1-network-gui-demo?u=76281980&t=102)** I'd rather show you the [[Representational State Transfer (REST)|rest]] in the running application.
 >
 > **[1:45](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/7-to-1-network-gui-demo?u=76281980&t=105)** Let's start with the 7 to 1 model.
 >
@@ -2952,7 +2911,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[GitHub]] (1), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is called (2), in other words (1)
 > **File Paths:** sdrnn_7to7.py (1), mlp.py (1)
 > **CLI Commands:** python (1), make (1)
@@ -2961,8 +2920,7 @@ created: 2026-05-02
 > **Versions:** 0.0001 (1)
 > **Warnings:** note that (1)
 
-#### 7 to 10 network GUI demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/7-to-10-network-gui-demo?u=76281980)
+#### [7 to 10 network GUI demo](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/7-to-10-network-gui-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3011,8 +2969,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### 7 to 7 network GUI demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/7-to-7-network-gui-demo?u=76281980)
+#### [7 to 7 network GUI demo](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/7-to-7-network-gui-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3078,7 +3035,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **Env Vars:** led (1), mlp (1)
 > **Analogies:** similar to (1), for example (1)
 > **CLI Commands:** make (1)
@@ -3090,14 +3046,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/next-steps?u=76281980&t=0)** - [Eduardo] So that's it.
 >
-> **[0:01](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/next-steps?u=76281980&t=1)** I hope you had fun learning how to use Python to create neural networks.
+> **[0:01](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/next-steps?u=76281980&t=1)** I hope you had fun learning how to use [[Python (Programming Language)|Python]] to create [[Neural Networks]].
 >
 > **[0:06](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/next-steps?u=76281980&t=6)** Of course, there's so much more you can learn about neural networks, so as next steps, I suggest the following.
 >
@@ -3105,7 +3060,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/next-steps?u=76281980&t=18)** Assess your neural networks for usual problems like overfitting and underfitting.
 >
-> **[0:24](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/next-steps?u=76281980&t=24)** Experiment with more hidden layers and with more or less neurons per layer, and you may want to try all of these things with a readily available neural network tool like TensorFlow or PyTorch instead of writing the code by yourself.
+> **[0:24](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/next-steps?u=76281980&t=24)** Experiment with more hidden layers and with more or less neurons per layer, and you may want to try all of these things with a readily available neural network tool like [[TensorFlow]] or [[PyTorch]] instead of writing the code by yourself.
 >
 > **[0:39](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/next-steps?u=76281980&t=39)** Thank you for taking the course.
 >
@@ -3115,7 +3070,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neural Networks]] (3), next (3), [[Python (Programming Language)|Python]] (1), [[TensorFlow]] (1), [[PyTorch]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (3), [[Python (Programming Language)|Python]] (1), [[TensorFlow]] (1), [[PyTorch]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [eduardo] (1)
 

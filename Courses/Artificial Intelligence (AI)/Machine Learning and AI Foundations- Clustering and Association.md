@@ -106,18 +106,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Clustering and association
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/clustering-and-association?u=76281980)
+#### [Clustering and association](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/clustering-and-association?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/clustering-and-association?u=76281980&t=0)** - [Keith] If you're on your machine learning journey, then you've probably heard that you don't always meet the criteria for supervised learning.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/clustering-and-association?u=76281980&t=0)** - [Keith] If you're on your machine learning journey, then you've probably heard that you don't always meet the criteria for [[Supervised Learning]].
 >
 > **[0:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/clustering-and-association?u=76281980&t=8)** You might need unsupervised machine learning.
 >
-> **[0:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/clustering-and-association?u=76281980&t=12)** We'll review several of the most common algorithms for performing cluster analysis, including hierarchical, k-means, BIRCH, HDBScan and self-organizing maps.
+> **[0:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/clustering-and-association?u=76281980&t=12)** We'll review several of the most common [[Algorithms]] for performing cluster analysis, including hierarchical, k-means, BIRCH, HDBScan and self-organizing maps.
 >
-> **[0:23](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/clustering-and-association?u=76281980&t=23)** We'll be doing software demonstrations throughout, using both SPSS Modeler and SPSS Statistics, but our focus will be the concepts and interpretation, so there'll be a lot of running a model, taking a look, making improvements and then running it again.
+> **[0:23](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/clustering-and-association?u=76281980&t=23)** We'll be doing software demonstrations throughout, using both SPSS Modeler and SPSS [[Statistics]], but our focus will be the concepts and interpretation, so there'll be a lot of running a model, taking a look, making improvements and then running it again.
 >
 > **[0:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/clustering-and-association?u=76281980&t=39)** I'm Keith McCormick, and I'm an active consultant, conference speaker and book author.
 >
@@ -129,8 +128,7 @@ created: 2026-05-02
 > **Env Vars:** spss (2), birch (1)
 > **Speakers:** - [keith] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -138,7 +136,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-you-should-know?u=76281980&t=4)** I'm going to assume that most of you are new to unsupervised learning in general and cluster analysis and association rules specifically.
 >
-> **[0:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-you-should-know?u=76281980&t=16)** Also I'm going to assume that you're quite new or brand new to SPSS Statistics and SPSS Modeler, so the prerequisites are at a minimum.
+> **[0:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-you-should-know?u=76281980&t=16)** Also I'm going to assume that you're quite new or brand new to SPSS [[Statistics]] and SPSS Modeler, so the prerequisites are at a minimum.
 >
 > **[0:25](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-you-should-know?u=76281980&t=25)** But I do have some cautions for you that will really help you enjoy the course fully.
 >
@@ -154,33 +152,32 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-you-should-know?u=76281980&t=95)** I'm going to be as explicit as I can when I introduce new things, but a comfort level with descriptive statistics will really help you enjoy the course.
 >
-> **[1:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-you-should-know?u=76281980&t=105)** Finally, we're going to be doing machine learning and data mining type activities in this course, so if your gateway to this topic is an academic background in statistics, the whole notion of these highly exploratory techniques to data analysis might be new to you.
+> **[1:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-you-should-know?u=76281980&t=105)** Finally, we're going to be doing machine learning and [[Data Mining]] type activities in this course, so if your gateway to this topic is an academic background in statistics, the whole notion of these highly exploratory techniques to data analysis might be new to you.
 >
 > **[2:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-you-should-know?u=76281980&t=126)** You might be more familiar with experimental design or inferential statistics and so on.
 >
 > **[2:13](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-you-should-know?u=76281980&t=133)** If so, you might want to get comfortable with the whole idea of machine learning and data mining before taking this course.
 >
-> **[2:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-you-should-know?u=76281980&t=140)** My Essential Elements for Predictive Analytics might help you do so, but again if you're comfortable entering a world that might be a little bit new to you, you can probably start with this course as well.
+> **[2:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-you-should-know?u=76281980&t=140)** My Essential Elements for [[Predictive Analytics]] might help you do so, but again if you're comfortable entering a world that might be a little bit new to you, you can probably start with this course as well.
 >
 > **[2:32](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-you-should-know?u=76281980&t=152)** I hope you enjoy the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (8), data (4), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (8), [[Data Mining]] (2), [[Predictive Analytics]] (1)
 > **Env Vars:** spss (6)
 > **Tools:** notion (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/using-the-exercise-files?u=76281980&t=0)** - [Instructor] I've made a real effort to give you all of the resources that you need to click along with me and be very engaged as I go through the material.
 >
-> **[0:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/using-the-exercise-files?u=76281980&t=10)** If you want to use the same software package that I've used in doing these demonstrations, you can download the trial of IBM SPSS Statistics and IBM SPSS Modeler at these locations.
+> **[0:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/using-the-exercise-files?u=76281980&t=10)** If you want to use the same software package that I've used in doing these demonstrations, you can download the trial of [[IBM SPSS]] [[Statistics]] and IBM SPSS Modeler at these locations.
 >
 > **[0:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/using-the-exercise-files?u=76281980&t=27)** I've also given you all the necessary data and when appropriate the necessary code.
 >
@@ -198,14 +195,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[IBM SPSS]] (2), [[Statistics]] (2)
+> **Frameworks & Libraries:** [[IBM SPSS]] (2), [[Statistics]] (2)
 > **Env Vars:** spss (4), ibm (2)
 > **CLI Commands:** find (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is unsupervised machine learning?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-unsupervised-machine-learning?u=76281980)
+#### [What is unsupervised machine learning?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-unsupervised-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -221,7 +217,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-unsupervised-machine-learning?u=76281980&t=33)** Let's continue just a bit, but I want to contrast this with my own definition of machine learning.
 >
-> **[0:38](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-unsupervised-machine-learning?u=76281980&t=38)** Wikipedia's continues, machine learning explores the study and construction of algorithms that can learn from and make predictions on data.
+> **[0:38](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-unsupervised-machine-learning?u=76281980&t=38)** Wikipedia's continues, machine learning explores the study and construction of [[Algorithms]] that can learn from and make predictions on data.
 >
 > **[0:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-unsupervised-machine-learning?u=76281980&t=47)** I certainly agree with this.
 >
@@ -249,7 +245,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-unsupervised-machine-learning?u=76281980&t=110)** The algorithms take care of that next piece generating the models.
 >
-> **[1:55](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-unsupervised-machine-learning?u=76281980&t=115)** So what form does this take in supervised learning?
+> **[1:55](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-unsupervised-machine-learning?u=76281980&t=115)** So what form does this take in [[Supervised Learning]]?
 >
 > **[2:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-unsupervised-machine-learning?u=76281980&t=120)** In supervised learning we give the computer a data set with what is called a target variable.
 >
@@ -265,7 +261,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-unsupervised-machine-learning?u=76281980&t=150)** This is not the subject of our course today.
 >
-> **[2:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-unsupervised-machine-learning?u=76281980&t=153)** Decision trees is perhaps the most common supervised learning technique, and I actually have a course on decision trees right here in the library.
+> **[2:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-unsupervised-machine-learning?u=76281980&t=153)** [[Decision Trees]] is perhaps the most common supervised learning technique, and I actually have a course on decision trees right here in the library.
 >
 > **[2:43](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-unsupervised-machine-learning?u=76281980&t=163)** Unsupervised learning is a search for homogeneous subsets that produces one or more possible segmentations of the data that differ by how similar the cases are within the segment and how many subsets there are, and how common or rare they are.
 >
@@ -305,7 +301,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-unsupervised-machine-learning?u=76281980&t=262)** So sometimes I see definitions of unsupervised that make it seem like it's pretty much supervised, but when you can't find a target variable or you don't have ready access to a target variable it's actually a very different set of goals when we do unsupervised.
 >
-> **[4:40](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-unsupervised-machine-learning?u=76281980&t=280)** Now we come to a third area of machine learning called reinforcement learning.
+> **[4:40](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-unsupervised-machine-learning?u=76281980&t=280)** Now we come to a third area of machine learning called [[Reinforcement Learning]].
 >
 > **[4:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-unsupervised-machine-learning?u=76281980&t=285)** Only recently has this been a source of confusion, mostly because of two application areas that have gotten a lot of excitement.
 >
@@ -331,7 +327,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Algorithms]] (7), [[Supervised Learning]] (4), [[Decision Trees]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (7), [[Supervised Learning]] (4), [[Decision Trees]] (2), [[Reinforcement Learning]] (2)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** is a  (2), refers to (1), is called (1)
 > **Tools:** notion (1)
@@ -343,8 +339,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Looking at the data with a 2D scatter plot
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/looking-at-the-data-with-a-2d-scatter-plot?u=76281980)
+#### [Looking at the data with a 2D scatter plot](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/looking-at-the-data-with-a-2d-scatter-plot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -390,7 +385,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/looking-at-the-data-with-a-2d-scatter-plot?u=76281980&t=112)** I've chosen them because they're rather different from each other and the pattern that they show in the data.
 >
-> **[1:57](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/looking-at-the-data-with-a-2d-scatter-plot?u=76281980&t=117)** Video Games and Hardware, just those two.
+> **[1:57](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/looking-at-the-data-with-a-2d-scatter-plot?u=76281980&t=117)** Video Games and [[Hardware]], just those two.
 >
 > **[2:01](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/looking-at-the-data-with-a-2d-scatter-plot?u=76281980&t=121)** And we're going to click on Okay.
 >
@@ -472,7 +467,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Hardware]] (5), product (3), game (1), next (1)
+> **Frameworks & Libraries:** [[Hardware]] (5)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (1), double-click (1)
 > **Definitions:** is a  (1), in other words (1)
@@ -481,8 +476,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding hierarchical cluster analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/understanding-hierarchical-cluster-analysis?u=76281980)
+#### [Understanding hierarchical cluster analysis](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/understanding-hierarchical-cluster-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -506,7 +500,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/understanding-hierarchical-cluster-analysis?u=76281980&t=78)** I don't have any variables that have special status here so I can choose any variable to be my Y, X or Z.
 >
-> **[1:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/understanding-hierarchical-cluster-analysis?u=76281980&t=86)** I'm going to choose video game sales amount as my Y axis, hardware as my X axis and these are the sales sums not the ratio variables, these are the variables at the top of the data set.
+> **[1:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/understanding-hierarchical-cluster-analysis?u=76281980&t=86)** I'm going to choose video game sales amount as my Y axis, [[Hardware]] as my X axis and these are the sales sums not the ratio variables, these are the variables at the top of the data set.
 >
 > **[1:43](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/understanding-hierarchical-cluster-analysis?u=76281980&t=103)** And entertainment is going to be the Z.
 >
@@ -560,7 +554,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/understanding-hierarchical-cluster-analysis?u=76281980&t=295)** Certainly not a problem with the tiny data set we're looking at now but there's a big difference everybody between 30 cubed, a thousand cubed, 10,000 cubed, let's say half a million cubed.
 >
-> **[5:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/understanding-hierarchical-cluster-analysis?u=76281980&t=309)** So basically you simply can't do hierarchical on large data sets even these days with the powerful computers that we have most data mining or predictive analytic software packages simply don't support hierarchical because it's so computationally intensive.
+> **[5:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/understanding-hierarchical-cluster-analysis?u=76281980&t=309)** So basically you simply can't do hierarchical on large data sets even these days with the powerful computers that we have most [[Data Mining]] or predictive analytic software packages simply don't support hierarchical because it's so computationally intensive.
 >
 > **[5:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/understanding-hierarchical-cluster-analysis?u=76281980&t=327)** So when you would want to use hierarchical cluster analysis is when it's meaningful to look at a smaller data set.
 >
@@ -570,7 +564,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), game (2), [[Hardware]] (2), next (2)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Data Mining]] (1)
 > **Analogies:** imagine (4), just like (1), for instance (1)
 > **Definitions:** stands for (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -578,8 +572,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running hierarchical cluster analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/running-hierarchical-cluster-analysis?u=76281980)
+#### [Running hierarchical cluster analysis](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/running-hierarchical-cluster-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -611,7 +604,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/running-hierarchical-cluster-analysis?u=76281980&t=90)** So average in this case is comparing people to people.
 >
-> **[1:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/running-hierarchical-cluster-analysis?u=76281980&t=93)** However, if you standardize by case, what you're saying is that Joe Smith has a particular average spend, but his video game spend is higher than his average, but his hardware spend is lower than his average.
+> **[1:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/running-hierarchical-cluster-analysis?u=76281980&t=93)** However, if you standardize by case, what you're saying is that Joe Smith has a particular average spend, but his video game spend is higher than his average, but his [[Hardware]] spend is lower than his average.
 >
 > **[1:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/running-hierarchical-cluster-analysis?u=76281980&t=107)** So you can do this any number of ways.
 >
@@ -621,7 +614,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/running-hierarchical-cluster-analysis?u=76281980&t=129)** In a later video, I'm going to walk you through how I standardized this particular set of variables.
 >
-> **[2:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/running-hierarchical-cluster-analysis?u=76281980&t=136)** So I'm going to bring the standardized variables over and I'm going to click on Statistics, and we're not going to focus too much on the statistics at the moment.
+> **[2:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/running-hierarchical-cluster-analysis?u=76281980&t=136)** So I'm going to bring the standardized variables over and I'm going to click on [[Statistics]], and we're not going to focus too much on the statistics at the moment.
 >
 > **[2:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/running-hierarchical-cluster-analysis?u=76281980&t=148)** We'll go ahead and generate a range of solutions here This is really just going to be a frequencies table for clusters, let's say, between three and eight, which is a common range that I might choose.
 >
@@ -653,15 +646,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), game (4), [[Hardware]] (3), [[Statistics]] (2)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Statistics]] (2)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Definitions:** means that (1), is a  (1)
 > **Env Vars:** gt60 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interpreting a dendrogram
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-a-dendrogram?u=76281980)
+#### [Interpreting a dendrogram](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-a-dendrogram?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -733,21 +725,20 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-a-dendrogram?u=76281980&t=233)** Even if your data set is large, consider taking a small sample of your data just to experience looking at cluster analysis through this lens.
 >
-> **[4:04](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-a-dendrogram?u=76281980&t=244)** It will inform your knowledge of other clustering algorithms that are better at scaling up to large data sets.
+> **[4:04](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-a-dendrogram?u=76281980&t=244)** It will inform your knowledge of other clustering [[Algorithms]] that are better at scaling up to large data sets.
 >
 > **[4:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-a-dendrogram?u=76281980&t=251)** Go ahead and give yourself that experience.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** spss (1), pdf (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** imagine (2)
 > **Speakers:** - [narrator] (1)
 
-#### Methods for measuring distance
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/methods-for-measuring-distance?u=76281980)
+#### [Methods for measuring distance](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/methods-for-measuring-distance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -845,21 +836,20 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/methods-for-measuring-distance?u=76281980&t=317)** In conclusion, I really want you to try hierarchical.
 >
-> **[5:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/methods-for-measuring-distance?u=76281980&t=322)** At a minimum, it should be part of your data science professional development to kind of find out where some of these more contemporary approaches come from.
+> **[5:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/methods-for-measuring-distance?u=76281980&t=322)** At a minimum, it should be part of your [[Data Science]] professional development to kind of find out where some of these more contemporary approaches come from.
 >
 > **[5:31](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/methods-for-measuring-distance?u=76281980&t=331)** But also, it can be powerful in the context of a real world project, because you may discover patterns through some of these methods that you simply won't find with other techniques.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **CLI Commands:** find (9), make (1)
 > **Definitions:** is an  (1), in other words (1), means that (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is k-nearest neighbors?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-k-nearest-neighbors?u=76281980)
+#### [What is k-nearest neighbors?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-k-nearest-neighbors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -867,7 +857,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-k-nearest-neighbors?u=76281980&t=5)** It's not a clustering technique, per se, but it's closely related to our clustering technique, so by taking a look at this algorithm, we're going to accomplish two things.
 >
-> **[0:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-k-nearest-neighbors?u=76281980&t=16)** We're going to deepen our understanding of clustering algorithms, but too, we're going to get to experience what it's like to look at a data set where there's clearly identifiable labels.
+> **[0:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-k-nearest-neighbors?u=76281980&t=16)** We're going to deepen our understanding of clustering [[Algorithms]], but too, we're going to get to experience what it's like to look at a data set where there's clearly identifiable labels.
 >
 > **[0:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-k-nearest-neighbors?u=76281980&t=28)** In this case, the names of individuals, and that will really help us understand how these distances are calculated.
 >
@@ -875,7 +865,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-k-nearest-neighbors?u=76281980&t=41)** And this data set is rather famous now because it is used as one of the practice data sets on [kaggle.com](https://kaggle.com).
 >
-> **[0:50](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-k-nearest-neighbors?u=76281980&t=50)** If you're not familiar with [kaggle.com](https://kaggle.com), it's a data science or data mining competition web site.
+> **[0:50](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-k-nearest-neighbors?u=76281980&t=50)** If you're not familiar with [kaggle.com](https://kaggle.com), it's a [[Data Science]] or [[Data Mining]] competition web site.
 >
 > **[0:57](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-k-nearest-neighbors?u=76281980&t=57)** So here we are in the data set, and again what makes this one so interesting right now, is that we can take the name and actually label the space, so what we're going to look at is not unlike a 3-D scatterplot in some ways, but we're going to be really getting a little bit deeper sense of how proximity is determined and we're going to talk a little bit about categorical variables, a topic that we're going to come back to and revisit on multiple occasions.
 >
@@ -887,7 +877,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-k-nearest-neighbors?u=76281980&t=99)** When you declare a target variable, you actually turn this into a classification technique, but we're not going to declare a target variable and it's simply going to calculate distances.
 >
-> **[1:51](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-k-nearest-neighbors?u=76281980&t=111)** That's what makes it like a clustering technique, but the moment you add that target variable, you turn into a classification technique, like decision trees or a whole host of others.
+> **[1:51](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-k-nearest-neighbors?u=76281980&t=111)** That's what makes it like a clustering technique, but the moment you add that target variable, you turn into a classification technique, like [[Decision Trees]] or a whole host of others.
 >
 > **[2:02](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-is-k-nearest-neighbors?u=76281980&t=122)** So, we're going to take just three of the variables.
 >
@@ -937,7 +927,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Algorithms]] (2), web (1), [[Decision Trees]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Data Science]] (1), [[Data Mining]] (1), [[Decision Trees]] (1)
 > **Analogies:** it's like (1), similar to (1), for instance (1)
 > **URLs:** [kaggle.com](https://kaggle.com) (2)
 > **UI Navigation:** click on (2)
@@ -950,8 +940,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How does k-means work?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/how-does-k-means-work?u=76281980)
+#### [How does k-means work?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/how-does-k-means-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -989,14 +978,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Programming]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** spss (1), sas (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Which variables should be used with k-means?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/which-variables-should-be-used-with-k-means?u=76281980)
+#### [Which variables should be used with k-means?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/which-variables-should-be-used-with-k-means?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1056,7 +1043,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/which-variables-should-be-used-with-k-means?u=76281980&t=132)** One way is there are actually methods that handle categorical variables.
 >
-> **[2:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/which-variables-should-be-used-with-k-means?u=76281980&t=136)** The problem with that is it causes some folks to go chasing after these algorithms that let them throw all their variables in together.
+> **[2:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/which-variables-should-be-used-with-k-means?u=76281980&t=136)** The problem with that is it causes some folks to go chasing after these [[Algorithms]] that let them throw all their variables in together.
 >
 > **[2:23](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/which-variables-should-be-used-with-k-means?u=76281980&t=143)** You don't really want to use that approach.
 >
@@ -1066,13 +1053,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), product (1), next (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Cross-References:** later in (1), coming up (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interpreting a box plot
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-a-box-plot?u=76281980)
+#### [Interpreting a box plot](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-a-box-plot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1082,7 +1068,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-a-box-plot?u=76281980&t=11)** I want to make sure that we're practiced at interpreting them.
 >
-> **[0:14](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-a-box-plot?u=76281980&t=14)** A tiny bit of history, the whole idea of a box plot dates all the way back to that late 70s in a book that a gentleman by the name of John Tukey wrote called Exploratory Data Analysis.
+> **[0:14](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-a-box-plot?u=76281980&t=14)** A tiny bit of history, the whole idea of a box plot dates all the way back to that late 70s in a book that a gentleman by the name of [[John the Ripper|John]] Tukey wrote called Exploratory Data Analysis.
 >
 > **[0:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-a-box-plot?u=76281980&t=27)** The whole nature of the book is too 70s to be worth reading now, but it's an important book and it's influenced the way that we do graphics and no matter what tool you use, you're almost certainly going to have a way of doing box plots.
 >
@@ -1176,19 +1162,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), game (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** spss (1)
 > **Definitions:** means that (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running a k-means cluster analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/running-a-k-means-cluster-analysis?u=76281980)
+#### [Running a k-means cluster analysis](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/running-a-k-means-cluster-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/running-a-k-means-cluster-analysis?u=76281980&t=0)** - [Instructor] We're going to run a k-means cluster analysis in IBM SPSS modeler.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/running-a-k-means-cluster-analysis?u=76281980&t=0)** - [Instructor] We're going to run a k-means cluster analysis in [[IBM SPSS]] modeler.
 >
 > **[0:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/running-a-k-means-cluster-analysis?u=76281980&t=6)** So a couple of things for you to know.
 >
@@ -1254,14 +1239,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[IBM SPSS]] (1)
+> **Frameworks & Libraries:** [[IBM SPSS]] (1)
 > **Env Vars:** spss (4), str (2), ibm (1), sav (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interpreting cluster analysis output
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-cluster-analysis-output?u=76281980)
+#### [Interpreting cluster analysis output](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-cluster-analysis-output?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1293,7 +1277,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-cluster-analysis-output?u=76281980&t=98)** Moving down, we see that red is basically at zero for game consoles, not their thing apparently.
 >
-> **[1:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-cluster-analysis-output?u=76281980&t=105)** Red is around the 50th percentile for hardware.
+> **[1:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-cluster-analysis-output?u=76281980&t=105)** Red is around the 50th percentile for [[Hardware]].
 >
 > **[1:52](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-cluster-analysis-output?u=76281980&t=112)** Then scrolling down a bit here, we can see that red is at zero for movies, red is at zero for software, at zero for streaming, and then it's around the 25th percentile for sales amount in video games.
 >
@@ -1327,7 +1311,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-cluster-analysis-output?u=76281980&t=255)** So, streaming in particular, I might think, wow, well, what year of data is this?
 >
-> **[4:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-cluster-analysis-output?u=76281980&t=260)** In data mining and predictive analytics, you're rarely looking at the current year's data.
+> **[4:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-cluster-analysis-output?u=76281980&t=260)** In [[Data Mining]] and [[Predictive Analytics]], you're rarely looking at the current year's data.
 >
 > **[4:25](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-cluster-analysis-output?u=76281980&t=265)** You're usually looking at the previous year or even older than that.
 >
@@ -1351,15 +1335,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (5), data (4), [[Hardware]] (3), product (3), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Data Mining]] (1), [[Predictive Analytics]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (1), picture (1)
 > **UI Navigation:** double-click (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What does silhouette mean?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-does-silhouette-mean?u=76281980)
+#### [What does silhouette mean?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-does-silhouette-mean?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1405,14 +1388,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** modeller (4), sas (1)
 > **CLI Commands:** make (1), find (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Which cases should be used with k-means?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/which-cases-should-be-used-with-k-means?u=76281980)
+#### [Which cases should be used with k-means?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/which-cases-should-be-used-with-k-means?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1480,13 +1461,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), data (2), [[Search]] (1)
 > **CLI Commands:** make (5), node (3), find (2)
 > **Definitions:** is called (2), is an  (2)
 > **Speakers:** - [narrator] (1)
 
-#### Finding optimum value for k: k = 3
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743321?u=76281980)
+#### [Finding optimum value for k: k = 3](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743321?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1534,7 +1513,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743321?u=76281980&t=150)** You can see that we have a cluster that's way above the others in spending on those big screen TVs in the entertainment category.
 >
-> **[2:37](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743321?u=76281980&t=157)** We've seen that before, but that very same group is around the 25th percentile, which I guess is also zero for game consoles, for them at least, but then hardware, they buy some, video games, they spend some on that as well, not as much as the other groups, but they spend some, and now movies isn't showing as much differentiation as possible.
+> **[2:37](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743321?u=76281980&t=157)** We've seen that before, but that very same group is around the 25th percentile, which I guess is also zero for game consoles, for them at least, but then [[Hardware]], they buy some, video games, they spend some on that as well, not as much as the other groups, but they spend some, and now movies isn't showing as much differentiation as possible.
 >
 > **[2:59](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743321?u=76281980&t=179)** So, you can see that everything is these moving parts.
 >
@@ -1544,7 +1523,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743321?u=76281980&t=191)** Plan on iterating and iterating again.
 >
-> **[3:14](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743321?u=76281980&t=194)** There just is not enough consensus in the user community of k-means clustering or these other techniques to know that one cluster analysis is perfect.
+> **[3:14](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743321?u=76281980&t=194)** There just is not enough consensus in the user community of [[k-means clustering]] or these other techniques to know that one cluster analysis is perfect.
 >
 > **[3:25](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743321?u=76281980&t=205)** There is no perfect.
 >
@@ -1578,15 +1557,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), game (3), [[Hardware]] (2), [[k-means clustering]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[k-means clustering]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** notion (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding optimum value for k: k = 4
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743322?u=76281980)
+#### [Finding optimum value for k: k = 4](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743322?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1628,7 +1606,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743322?u=76281980&t=119)** Cluster two, in this case, is the high TV spenders, and then, they're low on game consoles.
 >
-> **[2:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743322?u=76281980&t=127)** They spend some on hardware, but not as much as everybody else, and they spend some on video games, but not as much as everybody else.
+> **[2:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743322?u=76281980&t=127)** They spend some on [[Hardware]], but not as much as everybody else, and they spend some on video games, but not as much as everybody else.
 >
 > **[2:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743322?u=76281980&t=135)** So what seems to be happening now, is that cluster two spends on TVs but pretty much just TVs.
 >
@@ -1706,13 +1684,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (6), [[Hardware]] (5), next (2), data (1)
+> **Frameworks & Libraries:** [[Hardware]] (5)
 > **Definitions:** in other words (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding optimum value for k: k = 5
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743323?u=76281980)
+#### [Finding optimum value for k: k = 5](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743323?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1750,7 +1727,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743323?u=76281980&t=108)** Because think about how we're going to use this.
 >
-> **[1:50](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743323?u=76281980&t=110)** We're going to be issuing coupons or coming up with new products or redesigning the store, or taking action in some way to serve a cluster that it maybe is underserved, tapping into a new market, that kind of thing.
+> **[1:50](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743323?u=76281980&t=110)** We're going to be issuing coupons or coming up with new [[Microsoft Products|products]] or redesigning the store, or taking action in some way to serve a cluster that it maybe is underserved, tapping into a new market, that kind of thing.
 >
 > **[2:04](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743323?u=76281980&t=124)** If we're going to do that, we're not going to be chasing after new services that represent either a small number of people or folks that rarely come to our store or that are loyal to someone else and not to us, you see.
 >
@@ -1760,9 +1737,9 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743323?u=76281980&t=148)** We can see green for instance is way above everybody else in TV, but now this cluster's a little bit different.
 >
-> **[2:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743323?u=76281980&t=155)** They're also showing a little bit of activity on hardware, and they have a non-zero value for video games but different than the others.
+> **[2:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743323?u=76281980&t=155)** They're also showing a little bit of activity on [[Hardware]], and they have a non-zero value for video games but different than the others.
 >
-> **[2:43](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743323?u=76281980&t=163)** So they're not only TV, a little bit of the rest of their personality is coming through as well.
+> **[2:43](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743323?u=76281980&t=163)** So they're not only TV, a little bit of the [[Representational State Transfer (REST)|rest]] of their personality is coming through as well.
 >
 > **[2:48](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743323?u=76281980&t=168)** Let's take a look at red.
 >
@@ -1810,15 +1787,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (6), product (2), game (2), [[Microsoft Products|Products]] (1), node (1)
+> **Frameworks & Libraries:** [[Hardware]] (6), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), node (1)
 > **Cross-References:** coming up (1)
 > **Tools:** notion (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### What the best solution?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-the-best-solution?u=76281980)
+#### [What the best solution?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/what-the-best-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1872,7 +1848,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), node (1), business (1)
 > **Analogies:** for instance (2), picture (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** node (1)
@@ -1886,8 +1861,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summarizing cluster means in a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/summarizing-cluster-means-in-a-table?u=76281980)
+#### [Summarizing cluster means in a table](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/summarizing-cluster-means-in-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1901,11 +1875,11 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/summarizing-cluster-means-in-a-table?u=76281980&t=40)** It's called Ready For Cluster With Categorical Variables.
 >
-> **[0:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/summarizing-cluster-means-in-a-table?u=76281980&t=45)** And we're going to be opening this in SPSS Statistics.
+> **[0:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/summarizing-cluster-means-in-a-table?u=76281980&t=45)** And we're going to be opening this in SPSS [[Statistics]].
 >
 > **[0:51](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/summarizing-cluster-means-in-a-table?u=76281980&t=51)** Okay, here we are in the data set and let me make what perhaps at first will seem like an obvious point.
 >
-> **[0:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/summarizing-cluster-means-in-a-table?u=76281980&t=58)** We standardize the variables and created ratios for reasons that we've discussed, so that variables with big dollar amounts, like the big screen TVs don't dwarf the products with small dollar amounts like video games.
+> **[0:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/summarizing-cluster-means-in-a-table?u=76281980&t=58)** We standardize the variables and created ratios for reasons that we've discussed, so that variables with big dollar amounts, like the big screen TVs don't dwarf the [[Microsoft Products|products]] with small dollar amounts like video games.
 >
 > **[1:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/summarizing-cluster-means-in-a-table?u=76281980&t=76)** However, that doesn't mean that our colleagues and our bosses and our clients are interested in the ratio as much as the dollar amounts.
 >
@@ -1937,7 +1911,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/summarizing-cluster-means-in-a-table?u=76281980&t=202)** Now what that allows me to do is if I want to print this or send it out to a PDF whatever it might be, I can go ahead and make this separate sheets in a workbook that I can give them, that's easily done.
 >
-> **[3:34](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/summarizing-cluster-means-in-a-table?u=76281980&t=214)** In SPSS actually what I would do is I would right click and export from here, that's going to allow me to do my PDF options, my Word, my Excel but again let's take a closer look.
+> **[3:34](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/summarizing-cluster-means-in-a-table?u=76281980&t=214)** In SPSS actually what I would do is I would right click and export from here, that's going to allow me to do my PDF options, my [[Microsoft Word|Word]], my [[Microsoft Excel|Excel]] but again let's take a closer look.
 >
 > **[3:51](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/summarizing-cluster-means-in-a-table?u=76281980&t=231)** I have a lot of information that's very valuable.
 >
@@ -1959,15 +1933,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Statistics]] (3), management (1), [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (4), click on (2), scroll down (1)
 > **Env Vars:** spss (3), pdf (2), anova (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Traffic Light feature in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/traffic-light-feature-in-excel?u=76281980)
+#### [Traffic Light feature in Excel](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/traffic-light-feature-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1999,7 +1972,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/traffic-light-feature-in-excel?u=76281980&t=85)** I'm going to right-click and Export.
 >
-> **[1:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/traffic-light-feature-in-excel?u=76281980&t=90)** I'm going to tell it that I want Excel, and I'm going to go ahead and send it to wherever I want that file to go.
+> **[1:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/traffic-light-feature-in-excel?u=76281980&t=90)** I'm going to tell it that I want [[Microsoft Excel|Excel]], and I'm going to go ahead and send it to wherever I want that file to go.
 >
 > **[1:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/traffic-light-feature-in-excel?u=76281980&t=99)** In this case I'm just going to temporarily send it to the Desktop.
 >
@@ -2019,7 +1992,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/traffic-light-feature-in-excel?u=76281980&t=150)** We find that cluster-2 is much higher than the others on the fraction that they spend on video games.
 >
-> **[2:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/traffic-light-feature-in-excel?u=76281980&t=159)** They also spend a little bit on hardware, kind of a middling level on hardware.
+> **[2:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/traffic-light-feature-in-excel?u=76281980&t=159)** They also spend a little bit on [[Hardware]], kind of a middling level on hardware.
 >
 > **[2:44](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/traffic-light-feature-in-excel?u=76281980&t=164)** Cluster-3 has high spend on game consoles, but they still spend a bit on hardware and video games, low on everything else.
 >
@@ -2033,15 +2006,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Hardware]] (4), data (1), product (1), game (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Hardware]] (4)
 > **UI Navigation:** click on (2), go to (1), scroll down (1), right-click (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Line graphs
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/line-graphs?u=76281980)
+#### [Line graphs](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/line-graphs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2053,7 +2025,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/line-graphs?u=76281980&t=21)** I'm going to take just a couple of moments to clean up the dataset before we proceed with our graphic.
 >
-> **[0:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/line-graphs?u=76281980&t=27)** I'm going to be showing you how to make a multiple line plot in SPSS Statistics.
+> **[0:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/line-graphs?u=76281980&t=27)** I'm going to be showing you how to make a multiple line plot in SPSS [[Statistics]].
 >
 > **[0:32](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/line-graphs?u=76281980&t=32)** So I'm going to go to the Variable View.
 >
@@ -2093,7 +2065,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/line-graphs?u=76281980&t=130)** And we're going to take that last variable and we're going to simply call this Kmeans and click on Add New Name.
 >
-> **[2:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/line-graphs?u=76281980&t=139)** And that's it, it does all the rest of the work.
+> **[2:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/line-graphs?u=76281980&t=139)** And that's it, it does all the [[Representational State Transfer (REST)|rest]] of the work.
 >
 > **[2:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/line-graphs?u=76281980&t=141)** It's going to create a new variable now that's set up a little bit differently.
 >
@@ -2115,7 +2087,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/line-graphs?u=76281980&t=201)** They were the clusters that bought the phone accessories to go with their phones.
 >
-> **[3:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/line-graphs?u=76281980&t=206)** And it actually becomes part of the conversation at the office around what you've accomplished with the cluster analysis.
+> **[3:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/line-graphs?u=76281980&t=206)** And it actually becomes part of the conversation at the [[Microsoft Office|office]] around what you've accomplished with the cluster analysis.
 >
 > **[3:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/line-graphs?u=76281980&t=213)** So what I'm going to do now is just clean up these automated labels just a little bit and we'll proceed with our line plot.
 >
@@ -2173,7 +2145,7 @@ created: 2026-05-02
 >
 > **[6:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/line-graphs?u=76281980&t=379)** Well, the red cluster, as you can see, is the highest of any of the clusters on Video Games.
 >
-> **[6:24](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/line-graphs?u=76281980&t=384)** It's very low on all the others, except that it's up around 10 to 15% on Hardware.
+> **[6:24](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/line-graphs?u=76281980&t=384)** It's very low on all the others, except that it's up around 10 to 15% on [[Hardware]].
 >
 > **[6:31](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/line-graphs?u=76281980&t=391)** And there's all kinds of little things you could do when you're interactive in SPSS.
 >
@@ -2183,13 +2155,13 @@ created: 2026-05-02
 >
 > **[6:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/line-graphs?u=76281980&t=405)** That would be useful when you're interactive in SPSS.
 >
-> **[6:48](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/line-graphs?u=76281980&t=408)** But you can export this as an image, drop it into a PowerPoint slide.
+> **[6:48](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/line-graphs?u=76281980&t=408)** But you can export this as an image, drop it into a [[Microsoft PowerPoint|PowerPoint]] slide.
 >
 > **[6:53](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/line-graphs?u=76281980&t=413)** And again, with a little bit of practice, it's a wonderful way of looking at all of your variables and all of your clusters at the same time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (3), product (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Office|Office]] (1), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Office|Office]] (1), [[Hardware]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Env Vars:** spss (5)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
@@ -2203,8 +2175,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How does HDBSCAN work?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/how-does-hdbscan-work?u=76281980)
+#### [How does HDBSCAN work?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/how-does-hdbscan-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2256,7 +2227,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/how-does-hdbscan-work?u=76281980&t=119)** So what about HDBSCAN in Modeler?
 >
-> **[2:02](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/how-does-hdbscan-work?u=76281980&t=122)** Well, it's implemented not natively, but through Python, as we're about to see.
+> **[2:02](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/how-does-hdbscan-work?u=76281980&t=122)** Well, it's implemented not natively, but through [[Python (Programming Language)|Python]], as we're about to see.
 >
 > **[2:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/how-does-hdbscan-work?u=76281980&t=128)** It's an extension of DBSCAN, which is another algorithm, in fact, quite a popular one, by adding this hierarchical component.
 >
@@ -2282,15 +2253,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** hdbscan (7), dbscan (4)
 > **CLI Commands:** python (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [tutor] (1)
 
-#### An HDBSCAN example
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/an-hdbscan-example?u=76281980)
+#### [An HDBSCAN example](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/an-hdbscan-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2300,9 +2270,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/an-hdbscan-example?u=76281980&t=25)** Well, there's a couple of ways.
 >
-> **[0:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/an-hdbscan-example?u=76281980&t=26)** You could go to modeling and all and scroll through all the algorithms, and you certainly could find it that way, way over on the right-hand side.
+> **[0:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/an-hdbscan-example?u=76281980&t=26)** You could go to modeling and all and scroll through all the [[Algorithms]], and you certainly could find it that way, way over on the right-hand side.
 >
-> **[0:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/an-hdbscan-example?u=76281980&t=35)** But you could also click on Python here because it is implemented through Python.
+> **[0:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/an-hdbscan-example?u=76281980&t=35)** But you could also click on [[Python (Programming Language)|Python]] here because it is implemented through Python.
 >
 > **[0:41](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/an-hdbscan-example?u=76281980&t=41)** I've already loaded it and run it because it is a bit computationally intensive.
 >
@@ -2368,7 +2338,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), data (2), [[Python (Programming Language)|Python]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Algorithms]] (1)
 > **Env Vars:** hdbscan (9)
 > **CLI Commands:** node (3), find (2), python (2)
 > **UI Navigation:** click on (2), go to (1)
@@ -2382,8 +2352,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Relating clusters to categories statistically
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/relating-clusters-to-categories-statistically?u=76281980)
+#### [Relating clusters to categories statistically](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/relating-clusters-to-categories-statistically?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2435,7 +2404,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/relating-clusters-to-categories-statistically?u=76281980&t=150)** You don't need to put the categorical variables in the cluster analysis most of the time, because what you need to do is what I'm about to show you, which is, once the clusters exist, go ahead and run the categories against the cluster membership.
 >
-> **[2:46](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/relating-clusters-to-categories-statistically?u=76281980&t=166)** So I'm going to go to Analyze, Descriptive Statistics, Crosstabs.
+> **[2:46](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/relating-clusters-to-categories-statistically?u=76281980&t=166)** So I'm going to go to Analyze, Descriptive [[Statistics]], Crosstabs.
 >
 > **[2:52](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/relating-clusters-to-categories-statistically?u=76281980&t=172)** And I'm going to make my KMeans variable my column.
 >
@@ -2443,7 +2412,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/relating-clusters-to-categories-statistically?u=76281980&t=190)** Oop, forgive me, there's a couple that don't belong, so I'm going to deselect Zip, I'm going to deselect Hit, because it's actually not a categorical variable, it's a scale variable.
 >
-> **[3:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/relating-clusters-to-categories-statistically?u=76281980&t=201)** But the rest of them can be my rows.
+> **[3:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/relating-clusters-to-categories-statistically?u=76281980&t=201)** But the [[Representational State Transfer (REST)|rest]] of them can be my rows.
 >
 > **[3:24](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/relating-clusters-to-categories-statistically?u=76281980&t=204)** And under Statistics, I'm going to ask for a chi-square.
 >
@@ -2501,7 +2470,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), application (2), [[Statistics]] (2), hit (2), oop (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (4), make (2)
 > **Definitions:** is a  (4), known as (1), means that (1)
 > **Env Vars:** zip (2), birch (1)
@@ -2510,8 +2479,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Relating clusters to categories visually
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/relating-clusters-to-categories-visually?u=76281980)
+#### [Relating clusters to categories visually](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/relating-clusters-to-categories-visually?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2545,7 +2513,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/relating-clusters-to-categories-visually?u=76281980&t=89)** We've got our list.
 >
-> **[1:31](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/relating-clusters-to-categories-visually?u=76281980&t=91)** We're selling consumer electronics.
+> **[1:31](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/relating-clusters-to-categories-visually?u=76281980&t=91)** We're selling consumer [[Electronics]].
 >
 > **[1:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/relating-clusters-to-categories-visually?u=76281980&t=93)** We share the lists at let's say, with a photo shop or photo magazine, and that's how we determine.
 >
@@ -2576,8 +2544,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running a multiple correspondence analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/running-a-multiple-correspondence-analysis?u=76281980)
+#### [Running a multiple correspondence analysis](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/running-a-multiple-correspondence-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2681,7 +2648,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (3)
 > **UI Navigation:** click on (6), go to (1), open the (1)
 > **Code Identifiers:** photo_num (1), goldstar_num (1), gender_num (1), homeowner_num (1)
 > **CLI Commands:** make (2), find (1)
@@ -2690,8 +2656,7 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interpreting a perceptual map
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-a-perceptual-map?u=76281980)
+#### [Interpreting a perceptual map](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-a-perceptual-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2737,7 +2702,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-a-perceptual-map?u=76281980&t=156)** Cluster four seems to be associated with goldstar false and photo_num yes.
 >
-> **[2:44](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-a-perceptual-map?u=76281980&t=164)** Now remember we're selling consumer electronics, but we've identified through list sharing that they're into photography, but goldstar is false.
+> **[2:44](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-a-perceptual-map?u=76281980&t=164)** Now remember we're selling consumer [[Electronics]], but we've identified through list sharing that they're into photography, but goldstar is false.
 >
 > **[2:54](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-a-perceptual-map?u=76281980&t=174)** This really is great, because what other method could we use to display five or six or seven or eight variables?
 >
@@ -2749,7 +2714,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Electronics]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Code Identifiers:** photo_num (1)
 > **Env Vars:** spss (1)
@@ -2758,8 +2723,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using cluster analysis and decision trees together
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/using-cluster-analysis-and-decision-trees-together?u=76281980)
+#### [Using cluster analysis and decision trees together](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/using-cluster-analysis-and-decision-trees-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2771,7 +2735,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/using-cluster-analysis-and-decision-trees-together?u=76281980&t=35)** So, how should you really do it together?
 >
-> **[0:38](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/using-cluster-analysis-and-decision-trees-together?u=76281980&t=38)** As it turns out, cluster analysis and decision trees are a powerful combination.
+> **[0:38](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/using-cluster-analysis-and-decision-trees-together?u=76281980&t=38)** As it turns out, cluster analysis and [[Decision Trees]] are a powerful combination.
 >
 > **[0:44](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/using-cluster-analysis-and-decision-trees-together?u=76281980&t=44)** Here's how it works.
 >
@@ -2825,7 +2789,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/using-cluster-analysis-and-decision-trees-together?u=76281980&t=210)** You really can convert your cluster analysis into something that is deployable.
 >
-> **[3:34](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/using-cluster-analysis-and-decision-trees-together?u=76281980&t=214)** In other words, you can do a phase one that is unsupervised learning followed by a phase two that is supervised learning.
+> **[3:34](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/using-cluster-analysis-and-decision-trees-together?u=76281980&t=214)** In other words, you can do a phase one that is unsupervised learning followed by a phase two that is [[Supervised Learning]].
 >
 > **[3:42](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/using-cluster-analysis-and-decision-trees-together?u=76281980&t=222)** Let me walk you through the steps.
 >
@@ -2859,7 +2823,7 @@ created: 2026-05-02
 >
 > **[6:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/using-cluster-analysis-and-decision-trees-together?u=76281980&t=375)** And we see that node two starts to get an increased number of the members of cluster four, and you might recall that cluster four are the PC gamers.
 >
-> **[6:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/using-cluster-analysis-and-decision-trees-together?u=76281980&t=388)** They like to play the video games, apparently, on their PC because they buy hardware and they've got video game activity.
+> **[6:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/using-cluster-analysis-and-decision-trees-together?u=76281980&t=388)** They like to play the video games, apparently, on their PC because they buy [[Hardware]] and they've got video game activity.
 >
 > **[6:37](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/using-cluster-analysis-and-decision-trees-together?u=76281980&t=397)** What might we speculate about this group?
 >
@@ -2905,7 +2869,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Decision Trees]] (6), node (3), [[Supervised Learning]] (2), hit (2)
+> **Frameworks & Libraries:** [[Decision Trees]] (6), [[Supervised Learning]] (2), [[Hardware]] (1)
 > **CLI Commands:** make (4), find (3), node (3)
 > **Definitions:** is a  (4), in other words (1)
 > **Env Vars:** hit (2)
@@ -2913,8 +2877,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### A BIRCH/two-step example
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/a-birch-two-step-example?u=76281980)
+#### [A BIRCH/two-step example](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/a-birch-two-step-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2954,7 +2917,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/a-birch-two-step-example?u=76281980&t=118)** And it's also not clear what benefit we get, because even though we might be terribly interested in whether the resulting clusters are majority male or majority female, this is not the way to do it.
 >
-> **[2:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/a-birch-two-step-example?u=76281980&t=132)** We should leave gender out, and after it's done, asks that about the clusters, the two step forms for us.
+> **[2:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/a-birch-two-step-example?u=76281980&t=132)** We should leave gender out, and after it's done, asks that about the clusters, the two step [[Forms]] for us.
 >
 > **[2:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/a-birch-two-step-example?u=76281980&t=140)** So be very careful when you're invited to add those categorical variables.
 >
@@ -3021,8 +2984,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - we (1)
 
-#### A self organizing map example
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/a-self-organizing-map-example?u=76281980)
+#### [A self organizing map example](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/a-self-organizing-map-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3164,7 +3126,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), business (1), application (1)
 > **CLI Commands:** cat (8), make (5), find (2)
 > **Definitions:** is a  (4)
 > **Analogies:** for instance (2)
@@ -3176,8 +3137,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The k = 1 trick
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743338?u=76281980)
+#### [The k = 1 trick](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743338?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3209,7 +3169,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743338?u=76281980&t=71)** So the methods will differ a little bit, and again, we're going to see three.
 >
-> **[1:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743338?u=76281980&t=75)** Now, if you're looking for something like fraud, supervised learning sometimes also allows for an approach.
+> **[1:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743338?u=76281980&t=75)** Now, if you're looking for something like fraud, [[Supervised Learning]] sometimes also allows for an approach.
 >
 > **[1:23](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743338?u=76281980&t=83)** In that, if you know in your historical data that some were fraud and some were not fraud, you could use that and you could make that a target variable in a supervised learning situation.
 >
@@ -3273,9 +3233,9 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743338?u=76281980&t=249)** Protocol type and flag.
 >
-> **[4:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743338?u=76281980&t=252)** Now, as it turns out, the IBM SPSS modeler algorithm will automatically create indicator codes for categories to allow them to be used in K-Means.
+> **[4:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743338?u=76281980&t=252)** Now, as it turns out, the [[IBM SPSS]] modeler algorithm will automatically create indicator codes for categories to allow them to be used in K-Means.
 >
-> **[4:23](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743338?u=76281980&t=263)** The IBM SPSS Statistics K-Means algorithm implementation doesn't do that.
+> **[4:23](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743338?u=76281980&t=263)** The IBM SPSS [[Statistics]] K-Means algorithm implementation doesn't do that.
 >
 > **[4:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743338?u=76281980&t=269)** So, you are going to want to investigate your own implementation of K-Means to see how it handles categories.
 >
@@ -3291,7 +3251,7 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743338?u=76281980&t=309)** So, let's take a look at how this works, 'cause it's actually quite straightforward.
 >
-> **[5:14](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743338?u=76281980&t=314)** Now by the way, this technique was first mentioned to me by Tom Khabaza, who's one of the co-authors of CRISP-DM.
+> **[5:14](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743338?u=76281980&t=314)** Now by the way, this technique was first mentioned to me by Tom Khabaza, who's one of the co-authors of [[CRISP-DM]].
 >
 > **[5:24](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743338?u=76281980&t=324)** And he contributed an example very similar to this, but with a different data set, in the IBM SPSS Modeler Cookbook.
 >
@@ -3321,11 +3281,11 @@ created: 2026-05-02
 >
 > **[6:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743338?u=76281980&t=407)** A weird or unusual or anomalous case is far away from the center that's represented by the mass of typical cases.
 >
-> **[6:57](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743338?u=76281980&t=417)** So, it really is a nice little trick, and I think it also helps you understand how some of the more sophisticated anomaly detection algorithms work.
+> **[6:57](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/743338?u=76281980&t=417)** So, it really is a nice little trick, and I think it also helps you understand how some of the more sophisticated anomaly detection [[Algorithms]] work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[IBM SPSS]] (3), [[Supervised Learning]] (2), node (2), next (1)
+> **Frameworks & Libraries:** [[IBM SPSS]] (3), [[Supervised Learning]] (2), [[Statistics]] (1), [[CRISP-DM]] (1), [[Algorithms]] (1)
 > **Env Vars:** ibm (3), spss (3), kdd99 (1), crisp (1), kmd (1)
 > **CLI Commands:** make (2), node (2), find (1)
 > **UI Navigation:** click on (2), go to (1)
@@ -3334,8 +3294,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Warnings:** note that (1)
 
-#### Anomaly detection algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/anomaly-detection-algorithms?u=76281980)
+#### [Anomaly detection algorithms](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/anomaly-detection-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3437,14 +3396,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), hit (2), data (2), next (1)
 > **CLI Commands:** node (3), find (2), make (1)
 > **UI Navigation:** go to (1), click on (1), scroll down (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using SOM for anomaly detection
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/using-som-for-anomaly-detection?u=76281980)
+#### [Using SOM for anomaly detection](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/using-som-for-anomaly-detection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3506,7 +3463,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/using-som-for-anomaly-detection?u=76281980&t=264)** You will still get a clustering of the colors together.
 >
-> **[4:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/using-som-for-anomaly-detection?u=76281980&t=267)** Now if you know your supervised learning, you might think Keith, this is a bit odd, you've got what appears to be a target variable here.
+> **[4:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/using-som-for-anomaly-detection?u=76281980&t=267)** Now if you know your [[Supervised Learning]], you might think Keith, this is a bit odd, you've got what appears to be a target variable here.
 >
 > **[4:36](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/using-som-for-anomaly-detection?u=76281980&t=276)** You have attack type and some are normal and some aren't.
 >
@@ -3558,7 +3515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), node (3), [[Supervised Learning]] (3), next (1), business (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (3)
 > **CLI Commands:** node (3), find (1), make (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** it's like (1), for instance (1)
@@ -3567,14 +3524,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### One Class SVM
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/one-class-svm?u=76281980)
+#### [One Class SVM](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/one-class-svm?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/one-class-svm?u=76281980&t=0)** - [Instructor] Recent versions of Modeler, I'm in Modeler 18.4 right now, offer another option for anomaly detection.
 >
-> **[0:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/one-class-svm?u=76281980&t=9)** There's a new node, the one class SVM node, that support vector machine, can be found down here in the Python tab.
+> **[0:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/one-class-svm?u=76281980&t=9)** There's a new node, the one class SVM node, that support vector machine, can be found down here in the [[Python (Programming Language)|Python]] tab.
 >
 > **[0:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/one-class-svm?u=76281980&t=19)** Or in the modeling tab, if you scroll all the way over to the right.
 >
@@ -3642,7 +3598,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (7), [[Python (Programming Language)|Python]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (7), find (2), python (1)
 > **Env Vars:** svm (4)
 > **Versions:** 18.4 (1)
@@ -3656,8 +3612,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro to association rules and sequence analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/intro-to-association-rules-and-sequence-analysis?u=76281980)
+#### [Intro to association rules and sequence analysis](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/intro-to-association-rules-and-sequence-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3727,13 +3682,13 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/intro-to-association-rules-and-sequence-analysis?u=76281980&t=290)** Most implementations of association rules will allow you to work with that transactional data.
 >
-> **[4:56](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/intro-to-association-rules-and-sequence-analysis?u=76281980&t=296)** Just one more quick example, here a customer has bought movies and hardware, they are true on movies and hardware, they're false on everything else.
+> **[4:56](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/intro-to-association-rules-and-sequence-analysis?u=76281980&t=296)** Just one more quick example, here a customer has bought movies and [[Hardware]], they are true on movies and hardware, they're false on everything else.
 >
 > **[5:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/intro-to-association-rules-and-sequence-analysis?u=76281980&t=305)** So that's the basics, and now we're going to proceed to rehearse the steps of doing association rules and sequence analysis.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), product (4), web (3), [[Hardware]] (2), business (1)
+> **Frameworks & Libraries:** [[Hardware]] (2)
 > **Env Vars:** sku (6)
 > **Best Practices:** recommended (2)
 > **Warnings:** keep in mind (1), warning (1)
@@ -3741,8 +3696,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running association rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/running-association-rules?u=76281980)
+#### [Running association rules](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/running-association-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3856,7 +3810,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/running-association-rules?u=76281980&t=275)** With cash customers, you might choose the basket ID.
 >
-> **[4:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/running-association-rules?u=76281980&t=279)** Now you're not looking at customers over time, but rather what products were found together on the same receipt.
+> **[4:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/running-association-rules?u=76281980&t=279)** Now you're not looking at customers over time, but rather what [[Microsoft Products|products]] were found together on the same receipt.
 >
 > **[4:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/running-association-rules?u=76281980&t=287)** I will usually run it both ways.
 >
@@ -3880,7 +3834,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (14), data (8), node (2), game (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (4), node (2), find (1)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Env Vars:** spss (2)
@@ -3889,14 +3843,13 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Warnings:** be careful (1)
 
-#### Some association rules terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/some-association-rules-terminology?u=76281980)
+#### [Some association rules terminology](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/some-association-rules-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/some-association-rules-terminology?u=76281980&t=0)** - [Narrator] Before we dive into a lot of complex modeling results, let's review some important terms.
 >
-> **[0:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/some-association-rules-terminology?u=76281980&t=9)** Now, a word of caution.
+> **[0:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/some-association-rules-terminology?u=76281980&t=9)** Now, a [[Microsoft Word|word]] of caution.
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/some-association-rules-terminology?u=76281980&t=11)** If you're not using SPSS Modeler, the same concepts will be present in whatever tool you use, but in some cases, the names might be slightly different.
 >
@@ -3912,7 +3865,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/some-association-rules-terminology?u=76281980&t=58)** Keep in mind, for instance, that if you're looking at grocery store data, you might have pizza predicts beer as well as beer predicts pizza.
 >
-> **[1:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/some-association-rules-terminology?u=76281980&t=67)** So, the same products might be the antecedent, as well as the consequent.
+> **[1:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/some-association-rules-terminology?u=76281980&t=67)** So, the same [[Microsoft Products|products]] might be the antecedent, as well as the consequent.
 >
 > **[1:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/some-association-rules-terminology?u=76281980&t=71)** So, the antecedent is the If pizza, and the consequent is the Then beer.
 >
@@ -3960,7 +3913,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (3), [[Microsoft Word|Word]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Warnings:** caution (1), be careful (1), keep in mind (1)
 > **CLI Commands:** find (1)
@@ -3969,8 +3922,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Interpreting association rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-association-rules?u=76281980)
+#### [Interpreting association rules](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-association-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4080,9 +4032,9 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-association-rules?u=76281980&t=301)** So not people, but trips to the store.
 >
-> **[5:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-association-rules?u=76281980&t=305)** And because the rules have been made a little bit more granular, because of the settings, we can see that if folks buy hardware and software on the same trip to the store, they've got a 44% chance of buying video games.
+> **[5:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-association-rules?u=76281980&t=305)** And because the rules have been made a little bit more granular, because of the settings, we can see that if folks buy [[Hardware]] and software on the same trip to the store, they've got a 44% chance of buying video games.
 >
-> **[5:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-association-rules?u=76281980&t=322)** Now, we're talking about consumer electronics here, but it's these kinds of relationships that prompt grocery stores to put spontaneous purchases near the checkout.
+> **[5:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-association-rules?u=76281980&t=322)** Now, we're talking about consumer [[Electronics]] here, but it's these kinds of relationships that prompt grocery stores to put spontaneous purchases near the checkout.
 >
 > **[5:34](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-association-rules?u=76281980&t=334)** These kinds of patterns have been analyzed for years.
 >
@@ -4104,7 +4056,7 @@ created: 2026-05-02
 >
 > **[6:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-association-rules?u=76281980&t=376)** Why would one do that?
 >
-> **[6:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-association-rules?u=76281980&t=379)** Essentially, to get all of the rules into the model, where you could export it to Excel, you can sort, you can filter, you can choose on a variety of criterion.
+> **[6:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-association-rules?u=76281980&t=379)** Essentially, to get all of the rules into the model, where you could export it to [[Microsoft Excel|Excel]], you can sort, you can filter, you can choose on a variety of criterion.
 >
 > **[6:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/interpreting-association-rules?u=76281980&t=389)** For instance, here in Modeler, we can go back to the model, we can go to show filter, and now we can do any number of things.
 >
@@ -4120,7 +4072,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (5), data (2), generic (1), product (1), next (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Electronics]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (5)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** just like (1), for instance (1)
@@ -4129,8 +4081,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Putting association rules to use
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/putting-association-rules-to-use?u=76281980)
+#### [Putting association rules to use](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/putting-association-rules-to-use?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4158,7 +4109,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/putting-association-rules-to-use?u=76281980&t=50)** We can look up at what we're selling this product codes for.
 >
-> **[0:53](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/putting-association-rules-to-use?u=76281980&t=53)** What that allows us to do is very simple spreadsheet work to say given what we know about the confidence of the rule, if all of the folks that bought the antecedent products do indeed buy the consequence at the particular price point that's represented by these product codes, our expected gain and notice that I've sorted on this, our expected gain is going to be $1.15 million.
+> **[0:53](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/putting-association-rules-to-use?u=76281980&t=53)** What that allows us to do is very simple spreadsheet work to say given what we know about the confidence of the rule, if all of the folks that bought the antecedent [[Microsoft Products|products]] do indeed buy the consequence at the particular price point that's represented by these product codes, our expected gain and notice that I've sorted on this, our expected gain is going to be $1.15 million.
 >
 > **[1:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/putting-association-rules-to-use?u=76281980&t=88)** But even this is much too much detail.
 >
@@ -4186,7 +4137,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/putting-association-rules-to-use?u=76281980&t=167)** We've all experienced that, but sometimes the reason that we generate these rules is so that humans can actually look at them and plan a new marketing campaign, a marketing campaign that perhaps does not exist until we do this analysis.
 >
-> **[3:01](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/putting-association-rules-to-use?u=76281980&t=181)** So if you want to think this through with me, since the antecedents all come from the entertainment category and all of the consequence come from video games and hardware, this is for the yellow highlighted rules now, the marketing team can develop the same creatives around a campaign that involves big screen TVs and playing video games on their computer with the big screen TV as a monitor.
+> **[3:01](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/putting-association-rules-to-use?u=76281980&t=181)** So if you want to think this through with me, since the antecedents all come from the entertainment category and all of the consequence come from video games and [[Hardware]], this is for the yellow highlighted rules now, the marketing team can develop the same creatives around a campaign that involves big screen TVs and playing video games on their computer with the big screen TV as a monitor.
 >
 > **[3:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/putting-association-rules-to-use?u=76281980&t=209)** They can have the same images.
 >
@@ -4232,7 +4183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), management (4), game (2), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Hardware]] (1)
 > **Env Vars:** sku (4)
 > **CLI Commands:** make (2)
 > **Versions:** 1.15 (1)
@@ -4240,8 +4191,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing clustering and association rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/comparing-clustering-and-association-rules?u=76281980)
+#### [Comparing clustering and association rules](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/comparing-clustering-and-association-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4249,7 +4199,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/comparing-clustering-and-association-rules?u=76281980&t=7)** And also in the kind of results they present to you.
 >
-> **[0:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/comparing-clustering-and-association-rules?u=76281980&t=10)** But since association rules is finding relationships between product purchases and its people, namely the people that belong to our cluster segments, are buying those products.
+> **[0:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/comparing-clustering-and-association-rules?u=76281980&t=10)** But since association rules is finding relationships between product purchases and its people, namely the people that belong to our cluster segments, are buying those [[Microsoft Products|products]].
 >
 > **[0:23](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/comparing-clustering-and-association-rules?u=76281980&t=23)** It really is two sides of the same coin.
 >
@@ -4299,14 +4249,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), product (1), [[Microsoft Products|Products]] (1), generic (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Warnings:** caution (1), keep in mind (1)
 > **UI Navigation:** switch to (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sequence detection
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/sequence-detection?u=76281980)
+#### [Sequence detection](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/sequence-detection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4362,7 +4311,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/sequence-detection?u=76281980&t=149)** Not a surprise.
 >
-> **[2:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/sequence-detection?u=76281980&t=150)** But whenever I look at it, I'm reminded of the old Monty Python skit about spam, spam, spam, eggs and spam, because this is the kind of rules that will be kicked out.
+> **[2:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/sequence-detection?u=76281980&t=150)** But whenever I look at it, I'm reminded of the old Monty [[Python (Programming Language)|Python]] skit about spam, spam, spam, eggs and spam, because this is the kind of rules that will be kicked out.
 >
 > **[2:41](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/sequence-detection?u=76281980&t=161)** I've had this very same experience working with a cruise line when we trying to look at the sequence in which people took trips.
 >
@@ -4410,7 +4359,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Python (Programming Language)|Python]] (1), web (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** just like (1), for instance (1)
 > **CLI Commands:** python (1)
@@ -4423,8 +4372,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/next-steps-22995415?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/next-steps-22995415?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4436,21 +4384,21 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/next-steps-22995415?u=76281980&t=13)** Then if you are an SPSS user, it's very easy to find all the courses in the library using SPSS.
 >
-> **[0:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/next-steps-22995415?u=76281980&t=20)** They're in a special SPSS learning path, which includes a great deep dive into SPSS statistics and then some additional SPSS model of courses that I have in the library.
+> **[0:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/next-steps-22995415?u=76281980&t=20)** They're in a special SPSS learning path, which includes a great deep dive into SPSS [[Statistics]] and then some additional SPSS model of courses that I have in the library.
 >
-> **[0:32](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/next-steps-22995415?u=76281980&t=32)** If you're not an SPSS user, there are numerous videos that show you the steps to produce a cluster analysis and tools like Python, R and Excel.
+> **[0:32](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/next-steps-22995415?u=76281980&t=32)** If you're not an SPSS user, there are numerous videos that show you the steps to produce a cluster analysis and tools like [[Python (Programming Language)|Python]], R and [[Microsoft Excel|Excel]].
 >
 > **[0:41](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/next-steps-22995415?u=76281980&t=41)** Not all of them will cover the theory in as much depth as we've just done, but with that behind you, you're ready for those courses now.
 >
-> **[0:50](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/next-steps-22995415?u=76281980&t=50)** Finally, if you want to go broad rather than deep, I've got a predictive analytics overview course that will help you with that goal.
+> **[0:50](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/next-steps-22995415?u=76281980&t=50)** Finally, if you want to go broad rather than deep, I've got a [[Predictive Analytics]] overview course that will help you with that goal.
 >
-> **[0:59](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/next-steps-22995415?u=76281980&t=59)** Whichever path you choose, I hope you'll let me know how you are progressing by posting your progress, following me on LinkedIn, and maybe even attending one of my office hours.
+> **[0:59](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/next-steps-22995415?u=76281980&t=59)** Whichever path you choose, I hope you'll let me know how you are progressing by posting your progress, following me on [[LinkedIn]], and maybe even attending one of my [[Microsoft Office|office]] hours.
 >
 > **[1:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-clustering-and-association/next-steps-22995415?u=76281980&t=70)** And if you see me at a conference, I hope you'll say hi.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1), [[Statistics]] (1), [[Python (Programming Language)|Python]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Python (Programming Language)|Python]] (1), [[Microsoft Excel|Excel]] (1), [[Predictive Analytics]] (1), [[LinkedIn]] (1)
 > **Env Vars:** spss (6)
 > **CLI Commands:** find (2), python (1)
 > **Speakers:** - [instructor] (1)

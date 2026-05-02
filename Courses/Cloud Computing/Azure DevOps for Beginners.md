@@ -124,8 +124,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use Azure DevOps to enhance application development
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-azure-devops-to-enhance-application-development?u=76281980)
+#### [Use Azure DevOps to enhance application development](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-azure-devops-to-enhance-application-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -133,13 +132,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-azure-devops-to-enhance-application-development?u=76281980&t=8)** It's natural for software vendors to bundle these services together.
 >
-> **[0:11](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-azure-devops-to-enhance-application-development?u=76281980&t=11)** Nowadays, we call these DevOps suites.
+> **[0:11](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-azure-devops-to-enhance-application-development?u=76281980&t=11)** Nowadays, we call these [[DevOps]] suites.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-azure-devops-to-enhance-application-development?u=76281980&t=14)** Over the years, Microsoft has adopted the use of DevOps practices and created tools that bring the DevOps workflow to everyone.
+> **[0:14](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-azure-devops-to-enhance-application-development?u=76281980&t=14)** Over the years, [[Microsoft]] has adopted the use of DevOps practices and created tools that bring the DevOps workflow to everyone.
 >
 > **[0:22](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-azure-devops-to-enhance-application-development?u=76281980&t=22)** Hey there, I'm Walt Ritscher.
 >
-> **[0:24](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-azure-devops-to-enhance-application-development?u=76281980&t=24)** Join me and we'll explore how development teams can manage work efficiently using Azure Boards.
+> **[0:24](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-azure-devops-to-enhance-application-development?u=76281980&t=24)** Join me and we'll explore how development teams can manage work efficiently using [[Microsoft Azure|Azure]] Boards.
 >
 > **[0:29](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-azure-devops-to-enhance-application-development?u=76281980&t=29)** There's a section in this course on Azure Repos where you can see how to use Azure DevOps to host your source code.
 >
@@ -151,34 +150,33 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (6), [[Microsoft Azure|Azure]] (6), [[Microsoft]] (1), teams (1), next (1)
+> **Frameworks & Libraries:** [[DevOps]] (6), [[Microsoft Azure|Azure]] (6), [[Microsoft]] (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [walt] (1)
 
-#### Getting the most from this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/getting-the-most-from-this-course?u=76281980)
+#### [Getting the most from this course](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/getting-the-most-from-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/getting-the-most-from-this-course?u=76281980&t=0)** - [Instructor] During this course, we'll explore the range of Azure DevOps services.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/getting-the-most-from-this-course?u=76281980&t=0)** - [Instructor] During this course, we'll explore the range of [[Azure DevOps Services]].
 >
-> **[0:04](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/getting-the-most-from-this-course?u=76281980&t=4)** Most of the content in the course focuses on Azure Boards, Azure Repos, and Azure Pipelines, which are the most popular services.
+> **[0:04](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/getting-the-most-from-this-course?u=76281980&t=4)** Most of the content in the course focuses on [[Microsoft Azure|Azure]] Boards, Azure Repos, and Azure Pipelines, which are the most popular services.
 >
-> **[0:12](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/getting-the-most-from-this-course?u=76281980&t=12)** We are exploring Azure DevOps with a broad scope to help newcomers get a realistic overview of the topic.
+> **[0:12](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/getting-the-most-from-this-course?u=76281980&t=12)** We are exploring Azure [[DevOps]] with a broad scope to help newcomers get a realistic overview of the topic.
 >
 > **[0:18](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/getting-the-most-from-this-course?u=76281980&t=18)** However, it's important to note that this course will not cover the general principles of DevOps.
 >
 > **[0:23](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/getting-the-most-from-this-course?u=76281980&t=23)** Understanding DevOps principles is essential for modern development.
 >
-> **[0:27](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/getting-the-most-from-this-course?u=76281980&t=27)** DevOps is a set of practices that combine software development, Dev, and IT operations, Ops.
+> **[0:27](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/getting-the-most-from-this-course?u=76281980&t=27)** DevOps is a set of practices that combine [[Software Development]], Dev, and IT operations, Ops.
 >
-> **[0:33](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/getting-the-most-from-this-course?u=76281980&t=33)** It aims to shorten the system's development lifecycle and ensure the continuous delivery of high-quality software.
+> **[0:33](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/getting-the-most-from-this-course?u=76281980&t=33)** It aims to shorten the system's development lifecycle and ensure the [[Continuous Delivery (CD)|continuous delivery]] of high-quality software.
 >
-> **[0:40](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/getting-the-most-from-this-course?u=76281980&t=40)** It involves collaboration, automation, continuous integration and delivery, monitoring and feedback.
+> **[0:40](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/getting-the-most-from-this-course?u=76281980&t=40)** It involves collaboration, automation, [[Continuous Integration (CI)|continuous integration]] and delivery, monitoring and feedback.
 >
 > **[0:46](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/getting-the-most-from-this-course?u=76281980&t=46)** The main goal of DevOps is to create a culture and environment where building, testing and releasing software can happen rapidly, frequently, and more reliably.
 >
-> **[0:56](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/getting-the-most-from-this-course?u=76281980&t=56)** In this course, we are focusing specifically on Microsoft's Azure DevOps.
+> **[0:56](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/getting-the-most-from-this-course?u=76281980&t=56)** In this course, we are focusing specifically on [[Microsoft]]'s Azure DevOps.
 >
 > **[1:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/getting-the-most-from-this-course?u=76281980&t=60)** While we'll cover many topics, it's important to be realistic.
 >
@@ -190,7 +188,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/getting-the-most-from-this-course?u=76281980&t=79)** Later, you can drill down into the parts that are most interesting to you or essential to your organization.
 >
-> **[1:25](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/getting-the-most-from-this-course?u=76281980&t=85)** When it's time to dive deeper into DevOps, consider exploring additional courses available on LinkedIn Learning.
+> **[1:25](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/getting-the-most-from-this-course?u=76281980&t=85)** When it's time to dive deeper into DevOps, consider exploring additional courses available on [[LinkedIn]] Learning.
 >
 > **[1:31](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/getting-the-most-from-this-course?u=76281980&t=91)** These courses cover various aspects of DevOps from advanced automation techniques to in-depth practices for continuous integration and deployment.
 >
@@ -212,7 +210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (15), [[Microsoft Azure|Azure]] (10), [[Automation]] (2), [[Continuous Integration (CI)|Continuous integration]] (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (15), [[Microsoft Azure|Azure]] (10), [[Continuous Integration (CI)|Continuous integration]] (2), [[Microsoft]] (2), [[Azure DevOps Services]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
@@ -224,8 +222,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of Azure DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980)
+#### [Overview of Azure DevOps](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -233,15 +230,15 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=3)** Successful teams find effective ways to work on software at every stage of the development lifecycle.
 >
-> **[0:10](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=10)** In recent years, we've added DevOps to the development process to help standardize and automate more phases of the development workflow.
+> **[0:10](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=10)** In recent years, we've added [[DevOps]] to the development process to help standardize and automate more phases of the development workflow.
 >
-> **[0:18](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=18)** DevOps is a set of practices that combines software development, Dev, and IT operations, Ops.
+> **[0:18](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=18)** DevOps is a set of practices that combines [[Software Development]], Dev, and IT operations, Ops.
 >
-> **[0:24](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=24)** It aims to shorten the development lifecycle and ensure the continuous delivery of high-quality software.
+> **[0:24](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=24)** It aims to shorten the development lifecycle and ensure the [[Continuous Delivery (CD)|continuous delivery]] of high-quality software.
 >
 > **[0:31](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=31)** DevOps builds on several principles.
 >
-> **[0:33](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=33)** Think of it as a combination of shared planning tools, a shared code base, continuous integration, test-driven techniques, and automated delivery and deployment.
+> **[0:33](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=33)** Think of it as a combination of shared planning tools, a shared code base, [[Continuous Integration (CI)|continuous integration]], test-driven techniques, and automated delivery and deployment.
 >
 > **[0:44](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=44)** None of these principles are new.
 >
@@ -279,7 +276,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=136)** In compiled languages like C#, when updated code is committed to the source control repository, it automatically triggers a build, including compiling the code.
 >
-> **[2:25](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=145)** Automated builds are also useful for non-compiled languages like JavaScript.
+> **[2:25](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=145)** Automated builds are also useful for non-compiled languages like [[JavaScript]].
 >
 > **[2:29](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=149)** During this process, the code is minified and transpiled, and multiple JavaScript libraries are bundled into a single file, which can improve website performance.
 >
@@ -313,7 +310,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=230)** This not only improves the reliability and predictability of deployments, but it also accelerates the development process, as developers can work in an environment that mirrors production.
 >
-> **[4:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=240)** Microsoft adopted the DevOps workflow for its own development processes.
+> **[4:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=240)** [[Microsoft]] adopted the DevOps workflow for its own development processes.
 >
 > **[4:04](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=244)** They've been automating key parts of their application lifecycle for years.
 >
@@ -321,7 +318,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=251)** When we use these tools, we are benefiting from the work and improvements done to ensure their tools can handle the massive enterprise-wide projects.
 >
-> **[4:18](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=258)** This set of tools is called Azure DevOps, a new name for services that have been around for many years.
+> **[4:18](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=258)** This set of tools is called [[Microsoft Azure|Azure]] DevOps, a new name for services that have been around for many years.
 >
 > **[4:24](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=264)** If you've heard about Visual Studio Team Services, and the other names shown here, those are the predecessors.
 >
@@ -331,9 +328,9 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=275)** You can think of it as a rebranding of some developer services to align with this new vision.
 >
-> **[4:40](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=280)** To clarify, Azure contains all the cloud services from Microsoft.
+> **[4:40](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=280)** To clarify, Azure contains all the [[Cloud Services]] from Microsoft.
 >
-> **[4:44](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=284)** This is where you find cloud databases and serverless functions, where you can configure virtual machines and other services.
+> **[4:44](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=284)** This is where you find cloud [[Databases]] and serverless functions, where you can configure [[Virtual Machines]] and other services.
 >
 > **[4:52](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=292)** Those are Azure.
 >
@@ -345,7 +342,7 @@ created: 2026-05-02
 >
 > **[5:07](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=307)** Azure Boards, Azure Pipelines, Azure Repos, Azure Test Plans, and Azure Artifacts.
 >
-> **[5:15](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=315)** Use Azure Boards to track work with Kanban boards, with backlogs, team dashboards, and custom reporting.
+> **[5:15](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=315)** Use Azure Boards to track work with Kanban boards, with backlogs, team [[Dashboards]], and custom reporting.
 >
 > **[5:22](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=322)** Work can be tracked across teams, we get drag-and-drop sprint planning and flexible work item tracking.
 >
@@ -355,13 +352,13 @@ created: 2026-05-02
 >
 > **[5:39](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=339)** Azure Pipelines provides services to automate your build, integration, and deployment process.
 >
-> **[5:45](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=345)** It provides a CI/CD system that can work with multiple languages, code can be pulled from popular source control systems like GitHub or other Git providers, it has hosted Windows, macOS, and Linux build agents, also, integration with Visual Studio App Center enables mobile deployments.
+> **[5:45](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=345)** It provides a CI/CD system that can work with multiple languages, code can be pulled from popular source control systems like [[GitHub]] or other [[Git]] providers, it has hosted [[Windows]], macOS, and [[Linux]] build agents, also, integration with Visual Studio App Center enables mobile deployments.
 >
 > **[6:02](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=362)** Use Azure Repos to host your source code repository.
 >
 > **[6:05](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=365)** It supports Git, of course.
 >
-> **[6:07](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=367)** Also, Microsoft has its own source control system called Team Foundation Version Control.
+> **[6:07](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=367)** Also, Microsoft has its own source control system called Team Foundation [[Version Control]].
 >
 > **[6:13](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=373)** Yes, Microsoft bought GitHub, which is the biggest Git online repository, so you can always host your code repositories there instead.
 >
@@ -383,7 +380,7 @@ created: 2026-05-02
 >
 > **[7:03](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=423)** Think of this as a way to manage dependencies in your code base.
 >
-> **[7:08](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=428)** As a developer, you may already be familiar with the idea of package management platforms such as npm or NuGet.
+> **[7:08](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=428)** As a developer, you may already be familiar with the idea of [[Package Management]] platforms such as [[npm]] or NuGet.
 >
 > **[7:14](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/overview-of-azure-devops?u=76281980&t=434)** Use artifacts to build a combined feed of all your dependencies in your organization, including your private proprietary packages.
 >
@@ -397,7 +394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), [[DevOps]] (15), application (11), teams (5), [[Microsoft]] (5)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (21), [[DevOps]] (15), [[Microsoft]] (5), [[Git]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (2)
 > **CLI Commands:** find (3), git (3), make (1), cd (1), npm (1)
 > **Tools:** visual studio (2), github (2), azure portal (1)
 > **Definitions:** is a  (3), is called (1)
@@ -406,18 +403,17 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Prerequisites:** configure (1)
 
-#### Where to access Azure DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/where-to-access-azure-devops?u=76281980)
+#### [Where to access Azure DevOps](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/where-to-access-azure-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/where-to-access-azure-devops?u=76281980&t=0)** - [Instructor] Azure DevOps services are in the cloud.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/where-to-access-azure-devops?u=76281980&t=0)** - [Instructor] [[Azure DevOps Services]] are in the cloud.
 >
 > **[0:02](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/where-to-access-azure-devops?u=76281980&t=2)** In this video, we'll look at various ways to interact with the services.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/where-to-access-azure-devops?u=76281980&t=6)** There are several different interface choices that provide access to these services.
 >
-> **[0:10](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/where-to-access-azure-devops?u=76281980&t=10)** We can use the Azure DevOps web portal, the Azure DevOps command line, plus, we can use developer tools, like Visual Studio and Visual Studio Code.
+> **[0:10](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/where-to-access-azure-devops?u=76281980&t=10)** We can use the [[Microsoft Azure|Azure]] [[DevOps]] web portal, the Azure DevOps command line, plus, we can use developer tools, like Visual Studio and Visual Studio Code.
 >
 > **[0:19](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/where-to-access-azure-devops?u=76281980&t=19)** The Azure DevOps web portal is the primary way I'll access the services in this course.
 >
@@ -425,7 +421,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/where-to-access-azure-devops?u=76281980&t=27)** Within a project, you can access its boards, its repos, pipelines, test plans, and artifacts.
 >
-> **[0:33](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/where-to-access-azure-devops?u=76281980&t=33)** The Azure Command Line Interface, the CLI, provides a set of commands used to create and manage Azure resources.
+> **[0:33](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/where-to-access-azure-devops?u=76281980&t=33)** The Azure Command Line Interface, the [[CLI]], provides a set of commands used to create and manage Azure resources.
 >
 > **[0:40](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/where-to-access-azure-devops?u=76281980&t=40)** It's designed to help you interact with Azure with an emphasis on automation.
 >
@@ -435,7 +431,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/where-to-access-azure-devops?u=76281980&t=60)** You can find the installer at this URL.
 >
-> **[1:02](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/where-to-access-azure-devops?u=76281980&t=62)** I installed the Windows version, but it's also available for Mac OS and Linux environments.
+> **[1:02](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/where-to-access-azure-devops?u=76281980&t=62)** I installed the [[Windows]] version, but it's also available for Mac OS and [[Linux]] environments.
 >
 > **[1:08](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/where-to-access-azure-devops?u=76281980&t=68)** You will need to install the Azure DevOps extension for the Azure CLI.
 >
@@ -467,7 +463,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/where-to-access-azure-devops?u=76281980&t=141)** The repo is named Example, and it will be created in the Sentinel Project.
 >
-> **[2:26](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/where-to-access-azure-devops?u=76281980&t=146)** This command lists all the repositories in the Sentinel Project, so it starts with az, then repose, then the word list, I'm telling it to use the Project Sentinel to find the information and then output the information into a table.
+> **[2:26](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/where-to-access-azure-devops?u=76281980&t=146)** This command lists all the repositories in the Sentinel Project, so it starts with az, then repose, then the [[Microsoft Word|word]] list, I'm telling it to use the Project Sentinel to find the information and then output the information into a table.
 >
 > **[2:39](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/where-to-access-azure-devops?u=76281980&t=159)** Another logical place to access DevOps is through your development IDEs and editors, Visual Studio and Visual Studio Code offer integration with DevOps services.
 >
@@ -485,7 +481,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (26), [[DevOps]] (15), [[CLI]] (8), [[Azure DevOps Services]] (4), web (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (26), [[DevOps]] (15), [[CLI]] (8), [[Azure DevOps Services]] (4), [[Windows]] (2)
 > **Tools:** visual studio (6), command line (4), terminal (1), windows terminal (1)
 > **Env Vars:** cli (8), url (1), ide (1)
 > **CLI Commands:** az (3), find (2)
@@ -494,12 +490,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand the DevOps price plans
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/understand-the-devops-price-plans?u=76281980)
+#### [Understand the DevOps price plans](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/understand-the-devops-price-plans?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/understand-the-devops-price-plans?u=76281980&t=0)** - [Instructor] To begin your journey with Azure DevOps, I recommend visiting the Azure DevOps website.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/understand-the-devops-price-plans?u=76281980&t=0)** - [Instructor] To begin your journey with [[Microsoft Azure|Azure]] [[DevOps]], I recommend visiting the Azure DevOps website.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/understand-the-devops-price-plans?u=76281980&t=5)** There you can access detailed documentation and find licensing costs for your organization or for this course.
 >
@@ -507,13 +502,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/understand-the-devops-price-plans?u=76281980&t=13)** Please note that pricing can change over time, so the cost mentioned here might not be accurate in the future.
 >
-> **[0:19](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/understand-the-devops-price-plans?u=76281980&t=19)** There are two licensing options, Azure DevOps Services and Azure DevOps Server.
+> **[0:19](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/understand-the-devops-price-plans?u=76281980&t=19)** There are two licensing options, [[Azure DevOps Services]] and Azure DevOps Server.
 >
-> **[0:24](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/understand-the-devops-price-plans?u=76281980&t=24)** For this course, I am using Azure DevOps Services, which is a hosted service, managed by Microsoft on their servers.
+> **[0:24](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/understand-the-devops-price-plans?u=76281980&t=24)** For this course, I am using Azure DevOps Services, which is a hosted service, managed by [[Microsoft]] on their servers.
 >
 > **[0:32](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/understand-the-devops-price-plans?u=76281980&t=32)** If you have reasons that prevent you from using Microsoft hosted services, such as legal restrictions on hosting your source code on external servers, you may want to consider licensing Azure DevOps server.
 >
-> **[0:43](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/understand-the-devops-price-plans?u=76281980&t=43)** This option allows you to install and run the DevOps tools on your own hardware.
+> **[0:43](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/understand-the-devops-price-plans?u=76281980&t=43)** This option allows you to install and run the [[DevOps Tools]] on your own [[Hardware]].
 >
 > **[0:48](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/understand-the-devops-price-plans?u=76281980&t=48)** As I mentioned, I'm using Azure DevOps Services for this course.
 >
@@ -545,7 +540,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[DevOps]] (6), [[Azure DevOps Services]] (3), [[Microsoft]] (2), teams (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[DevOps]] (6), [[Azure DevOps Services]] (3), [[Microsoft]] (2), [[DevOps Tools]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** such as (1), for example (1)
 > **Exercise Files:** source code (1)
@@ -554,12 +549,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Log in to Azure DevOps web portal
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/login-to-azure-devops-web-portal?u=76281980)
+#### [Log in to Azure DevOps web portal](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/login-to-azure-devops-web-portal?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/login-to-azure-devops-web-portal?u=76281980&t=0)** - [Instructor] During this course, we will use the tools here on the Azure DevOps web portal.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/login-to-azure-devops-web-portal?u=76281980&t=0)** - [Instructor] During this course, we will use the tools here on the [[Microsoft Azure|Azure]] [[DevOps]] web portal.
 >
 > **[0:04](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/login-to-azure-devops-web-portal?u=76281980&t=4)** Let's see how to log in and get started.
 >
@@ -567,13 +561,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/login-to-azure-devops-web-portal?u=76281980&t=9)** That's via dev.[azure.com](https://azure.com).
 >
-> **[0:12](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/login-to-azure-devops-web-portal?u=76281980&t=12)** Now, there are other places on the internet and Microsoft's websites that look like you can log in here, so let's look at some of those and why they won't work.
+> **[0:12](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/login-to-azure-devops-web-portal?u=76281980&t=12)** Now, there are other places on the internet and [[Microsoft]]'s websites that look like you can log in here, so let's look at some of those and why they won't work.
 >
 > **[0:19](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/login-to-azure-devops-web-portal?u=76281980&t=19)** Here's an example.
 >
 > **[0:20](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/login-to-azure-devops-web-portal?u=76281980&t=20)** I'm on the Azure website.
 >
-> **[0:22](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/login-to-azure-devops-web-portal?u=76281980&t=22)** I'm reading about the Microsoft Azure portal.
+> **[0:22](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/login-to-azure-devops-web-portal?u=76281980&t=22)** I'm reading about the [[Microsoft Azure]] portal.
 >
 > **[0:25](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/login-to-azure-devops-web-portal?u=76281980&t=25)** There's this tempting big blue sign in button.
 >
@@ -589,15 +583,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[DevOps]] (8), web (1), [[Microsoft]] (1), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[DevOps]] (8), [[Microsoft]] (1), [[Microsoft Azure]] (1)
 > **UI Navigation:** click on (3)
 > **Tools:** azure portal (2)
 > **URLs:** [azure.com](https://azure.com) (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tour the DevOps portal
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/tour-the-devops-portal?u=76281980)
+#### [Tour the DevOps portal](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/tour-the-devops-portal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -623,7 +616,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/tour-the-devops-portal?u=76281980&t=35)** Now, the name of the organization becomes part of your URL.
 >
-> **[0:39](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/tour-the-devops-portal?u=76281980&t=39)** So, if I click on this one here, terrys-open-source, you can see that we're at dev.[azure.com/terrys-open-source](https://azure.com/terrys-open-source).
+> **[0:39](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/tour-the-devops-portal?u=76281980&t=39)** So, if I click on this one here, terrys-open-source, you can see that we're at dev.[[[Microsoft Azure|azure]].com/terrys-open-source](https://azure.com/terrys-open-source).
 >
 > **[0:47](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/tour-the-devops-portal?u=76281980&t=47)** She also has another one here.
 >
@@ -633,13 +626,13 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/tour-the-devops-portal?u=76281980&t=58)** It's here we can set defaults for the org that apply to all projects in the org unless overridden in the project.
 >
-> **[1:04](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/tour-the-devops-portal?u=76281980&t=64)** So, you can see I've got settings like privacy URL, the time zone, and the region.
+> **[1:04](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/tour-the-devops-portal?u=76281980&t=64)** So, you can see I've got settings like [[Privacy]] URL, the time zone, and the region.
 >
 > **[1:10](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/tour-the-devops-portal?u=76281980&t=70)** I've got a place where I can manage the projects.
 >
 > **[1:12](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/tour-the-devops-portal?u=76281980&t=72)** I can manage the users.
 >
-> **[1:14](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/tour-the-devops-portal?u=76281980&t=74)** If I'm in an enterprise, I'm probably paying for DevOps.
+> **[1:14](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/tour-the-devops-portal?u=76281980&t=74)** If I'm in an enterprise, I'm probably paying for [[DevOps]].
 >
 > **[1:18](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/tour-the-devops-portal?u=76281980&t=78)** So, this is where I'd set up billing.
 >
@@ -657,7 +650,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** open-source (4), [[Microsoft Azure|Azure]] (2), hr (1), [[Privacy]] (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Privacy]] (1), [[DevOps]] (1)
 > **UI Navigation:** click on (3), dropdown (1), go to (1)
 > **Env Vars:** url (2)
 > **Cross-References:** go back to (1), in the next (1)
@@ -665,12 +658,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an Azure DevOps project
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-an-azure-devops-project?u=76281980)
+#### [Create an Azure DevOps project](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-an-azure-devops-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-an-azure-devops-project?u=76281980&t=0)** - [Instructor] I've logged into the Azure DevOps portal with my main instructor account.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-an-azure-devops-project?u=76281980&t=0)** - [Instructor] I've logged into the [[Microsoft Azure|Azure]] [[DevOps]] portal with my main instructor account.
 >
 > **[0:04](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-an-azure-devops-project?u=76281980&t=4)** You can see my initials in the upper right, and if I hover over that, you can see I'm logged in as Walt Richer.
 >
@@ -708,13 +700,13 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-an-azure-devops-project?u=76281980&t=64)** Now, if I click the create project button, it'll create it with some defaults that are defined within the organization and I can see those defaults by clicking on advanced.
 >
-> **[1:12](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-an-azure-devops-project?u=76281980&t=72)** There's two items to choose from here, version control and work item process.
+> **[1:12](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-an-azure-devops-project?u=76281980&t=72)** There's two items to choose from here, [[Version Control]] and work item process.
 >
 > **[1:16](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-an-azure-devops-project?u=76281980&t=76)** I'll talk more about the work items and what the processes are in the Azure Boards chapter.
 >
 > **[1:22](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-an-azure-devops-project?u=76281980&t=82)** So I get to pick the version control.
 >
-> **[1:24](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-an-azure-devops-project?u=76281980&t=84)** I can choose Git or Team Foundation Version Control, and I can choose from one of these four work item.
+> **[1:24](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-an-azure-devops-project?u=76281980&t=84)** I can choose [[Git]] or Team Foundation Version Control, and I can choose from one of these four work item.
 >
 > **[1:30](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-an-azure-devops-project?u=76281980&t=90)** I'm choosing the default, so I'll leave them as is and then click create project.
 >
@@ -744,17 +736,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (3), [[Version Control]] (3), [[Microsoft Azure|Azure]] (2), [[Git]] (2), teams (1)
+> **Frameworks & Libraries:** [[DevOps]] (3), [[Version Control]] (3), [[Microsoft Azure|Azure]] (2), [[Git]] (2)
 > **CLI Commands:** git (2), find (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a project with the Microsoft demo generator
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-project-with-the-microsoft-demo-generator?u=76281980)
+#### [Create a project with the Microsoft demo generator](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-project-with-the-microsoft-demo-generator?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-project-with-the-microsoft-demo-generator?u=76281980&t=0)** - [Instructor] It is useful to have sample data when working on a course so that you can check out how pipelines work, and how Azure boards work, and all the parts of Azure DevOps, and that's why Microsoft has created this Azure DevOps demo generator.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-project-with-the-microsoft-demo-generator?u=76281980&t=0)** - [Instructor] It is useful to have sample data when working on a course so that you can check out how pipelines work, and how [[Microsoft Azure|Azure]] boards work, and all the parts of Azure [[DevOps]], and that's why [[Microsoft]] has created this Azure DevOps demo generator.
 >
 > **[0:14](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-project-with-the-microsoft-demo-generator?u=76281980&t=14)** So the first thing we need to just talk about, signing in.
 >
@@ -788,11 +779,11 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-project-with-the-microsoft-demo-generator?u=76281980&t=76)** So if I'm looking at the general templates, I can see ones that explain different kinds of concepts.
 >
-> **[1:20](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-project-with-the-microsoft-demo-generator?u=76281980&t=80)** So this one works with Agile, and data and artificial intelligence and react.
+> **[1:20](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-project-with-the-microsoft-demo-generator?u=76281980&t=80)** So this one works with [[Agile Development|Agile]], and data and [[Artificial Intelligence (AI)|artificial intelligence]] and [[React.js|react]].
 >
-> **[1:25](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-project-with-the-microsoft-demo-generator?u=76281980&t=85)** This one uses the Scrum work item templates.
+> **[1:25](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-project-with-the-microsoft-demo-generator?u=76281980&t=85)** This one uses the [[Scrum]] work item templates.
 >
-> **[1:28](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-project-with-the-microsoft-demo-generator?u=76281980&t=88)** [ASP.NET](https://ASP.NET) Core and Azure App Service.
+> **[1:28](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-project-with-the-microsoft-demo-generator?u=76281980&t=88)** [[[ASP.NET]]](https://ASP.NET) Core and Azure App Service.
 >
 > **[1:31](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-project-with-the-microsoft-demo-generator?u=76281980&t=91)** This one uses Scrum and [ASP.NET](https://ASP.NET) Core, and Azure App Service.
 >
@@ -826,19 +817,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[DevOps]] (6), [[Microsoft]] (3), data (2), [[Scrum]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[DevOps]] (6), [[Microsoft]] (3), [[Scrum]] (2), [[ASP.NET Core]] (2)
 > **Env Vars:** asp (2), net (2)
 > **UI Navigation:** click on (3)
 > **URLs:** [asp.net](https://asp.net) (2)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### View the generated project
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-the-generated-project?u=76281980)
+#### [View the generated project](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-the-generated-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-the-generated-project?u=76281980&t=0)** - [Instructor] I switch back to the DevOps portal and I'm looking at my organization, and you can see at the bottom of my list is Health Clinic.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-the-generated-project?u=76281980&t=0)** - [Instructor] I switch back to the [[DevOps]] portal and I'm looking at my organization, and you can see at the bottom of my list is Health Clinic.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-the-generated-project?u=76281980&t=8)** And it's also a comment saying it was generated by the Demo Generator.
 >
@@ -862,11 +852,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add users to an organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-users-to-an-organization?u=76281980)
+#### [Add users to an organization](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-users-to-an-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -876,9 +865,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-users-to-an-organization?u=76281980&t=4)** There are several ways you can add people to a team.
 >
-> **[0:07](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-users-to-an-organization?u=76281980&t=7)** If you're using Azure Active Directory, you can just look them up in the directory and add 'em that way.
+> **[0:07](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-users-to-an-organization?u=76281980&t=7)** If you're using [[Microsoft Entra ID|Azure Active Directory]], you can just look them up in the directory and add 'em that way.
 >
-> **[0:11](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-users-to-an-organization?u=76281980&t=11)** The examples for this course, I'm using people's Microsoft account, so I will send them an invite to the team.
+> **[0:11](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-users-to-an-organization?u=76281980&t=11)** The examples for this course, I'm using people's [[Microsoft]] account, so I will send them an invite to the team.
 >
 > **[0:19](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-users-to-an-organization?u=76281980&t=19)** You find your teams by going to a project, then go to Project Settings and then look at Teams.
 >
@@ -914,7 +903,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-users-to-an-organization?u=76281980&t=98)** Basic provides access to most features.
 >
-> **[1:41](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-users-to-an-organization?u=76281980&t=101)** You assign this to users that have Visual Studio Professional subscriptions or people that have Azure DevOps Server Cals.
+> **[1:41](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-users-to-an-organization?u=76281980&t=101)** You assign this to users that have Visual Studio Professional subscriptions or people that have [[Microsoft Azure|Azure]] [[DevOps]] Server Cals.
 >
 > **[1:48](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-users-to-an-organization?u=76281980&t=108)** Stakeholder is for providing partial access to stakeholders.
 >
@@ -954,15 +943,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (6), [[Microsoft Entra ID|Azure active directory]] (1), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (1), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1), [[DevOps]] (1)
 > **UI Navigation:** go to (6), click on (4)
 > **Cross-References:** go back to (2)
 > **Tools:** visual studio (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
-#### Add users to an Azure DevOps team
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-users-to-an-azure-devops-team?u=76281980)
+#### [Add users to an Azure DevOps team](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-users-to-an-azure-devops-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -996,7 +984,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), next (1), web (1)
 > **UI Navigation:** go to (6), click on (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
@@ -1007,22 +994,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage your team workflow with Azure Boards
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980)
+#### [Manage your team workflow with Azure Boards](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=0)** - [Instructor] Azure Boards is the place in Azure DevOps for managing software projects.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] Boards is the place in Azure [[DevOps]] for managing [[Software Projects]].
 >
 > **[0:04](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=4)** It has tools for planning, work assignments, and reports.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=8)** Azure Boards offers essential tasks such as tracking work items, this allows teams to monitor and manage tasks, bugs, and user stories throughout the project lifecycle.
 >
-> **[0:18](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=18)** You can visualize work in Azure Boards using Kanban boards and dashboards to track the status and progress of work items.
+> **[0:18](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=18)** You can visualize work in Azure Boards using Kanban boards and [[Dashboards]] to track the status and progress of work items.
 >
 > **[0:25](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=25)** Plan and organize work by structuring and prioritizing tasks such as backlogs and dashboards for efficient project management.
 >
-> **[0:33](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=33)** Azure boards streamline scrum with timeboxed sprints, allowing teams to manage and commit to work efficiently.
+> **[0:33](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=33)** Azure boards streamline [[Scrum]] with timeboxed sprints, allowing teams to manage and commit to work efficiently.
 >
 > **[0:39](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=39)** Teams can plan sprints by dragging and dropping work items while interactive task boards help track progress and support effective scrum practices.
 >
@@ -1048,7 +1034,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=120)** What is tracked depends on what process methodology is used.
 >
-> **[2:04](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=124)** For example, an Agile team will use different terminology and workflows from other types of process systems.
+> **[2:04](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=124)** For example, an [[Agile Development|Agile]] team will use different terminology and workflows from other types of process systems.
 >
 > **[2:10](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=130)** To address this, Azure Board supports four process templates, Basic, Agile, Scrum, and CMMI.
 >
@@ -1070,7 +1056,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=183)** This is essentially a DevOps version of a to-do list.
 >
-> **[3:07](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=187)** The focus is on work items and version control.
+> **[3:07](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=187)** The focus is on work items and [[Version Control]].
 >
 > **[3:10](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=190)** Work items can include a variety of things like tasks, bugs, and issues that need to be tracked and managed.
 >
@@ -1078,7 +1064,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=200)** The Agile process template is a popular one.
 >
-> **[3:23](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=203)** Agile teams approach software development by emphasizing incremental delivery, team collaboration, continual planning, and continual learning.
+> **[3:23](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=203)** Agile teams approach [[Software Development]] by emphasizing incremental delivery, [[Team Collaboration]], continual planning, and continual learning.
 >
 > **[3:32](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=212)** The Agile process template embodies the principles of the Agile manifesto, focusing on customer collaboration, adaptive planning, and early delivery.
 >
@@ -1158,11 +1144,11 @@ created: 2026-05-02
 >
 > **[7:24](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=444)** This feature helps in aligning team efforts, ensuring timely delivery of project goals, and improving overall project transparency.
 >
-> **[7:31](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=451)** Here's an example from the Microsoft's doc site.
+> **[7:31](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=451)** Here's an example from the [[Microsoft]]'s doc site.
 >
 > **[7:34](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=454)** This image shows the delivery plan interface focusing on the feature timeline and story section.
 >
-> **[7:40](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=460)** The first column lists the teams involved in the planning, such as the Microsoft Azure DevOps team and the Azure Pipelines team.
+> **[7:40](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=460)** The first column lists the teams involved in the planning, such as the [[Microsoft Azure]] DevOps team and the Azure Pipelines team.
 >
 > **[7:48](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=468)** Other columns represent each month from October to February.
 >
@@ -1208,23 +1194,22 @@ created: 2026-05-02
 >
 > **[9:40](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=580)** It is highly customizable to suit your project needs and has built in tools for communication and collaboration.
 >
-> **[9:46](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=586)** It offers querying dashboards, Kanban boards, it has reports for real time project insights and it integrates well with other Azure DevOps services.
+> **[9:46](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manage-your-team-workflow-with-azure-boards?u=76281980&t=586)** It offers querying dashboards, Kanban boards, it has reports for real time project insights and it integrates well with other [[Azure DevOps Services]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (19), [[Microsoft Azure|Azure]] (17), [[Agile Development|Agile]] (13), [[Scrum]] (12), feature (6)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), [[Agile Development|Agile]] (13), [[Scrum]] (12), [[DevOps]] (5), [[Dashboards]] (4)
 > **Definitions:** is a  (9), means that (1), known as (1)
 > **Exercise Files:** template (9)
 > **Analogies:** such as (4), for example (4), for instance (1)
 > **Env Vars:** cmmi (4)
 > **Speakers:** - [instructor] (1)
 
-#### Tour of Azure Boards
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/tour-of-azure-boards?u=76281980)
+#### [Tour of Azure Boards](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/tour-of-azure-boards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/tour-of-azure-boards?u=76281980&t=0)** - [Instructor] Let's start by taking a quick look at what's available in the Azure Boards section of a project.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/tour-of-azure-boards?u=76281980&t=0)** - [Instructor] Let's start by taking a quick look at what's available in the [[Microsoft Azure|Azure]] Boards section of a project.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/tour-of-azure-boards?u=76281980&t=6)** So I'm using the HealthClinic project.
 >
@@ -1252,13 +1237,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2)
 > **Definitions:** refers to (2), is a  (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a work item
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-a-work-item?u=76281980)
+#### [Create a work item](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-a-work-item?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1270,7 +1254,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-a-work-item?u=76281980&t=15)** Now, this list is based on which process template you chose.
 >
-> **[0:18](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-a-work-item?u=76281980&t=18)** I picked the Scrum template for this example, so these are Scrum-specific work items.
+> **[0:18](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-a-work-item?u=76281980&t=18)** I picked the [[Scrum]] template for this example, so these are Scrum-specific work items.
 >
 > **[0:23](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-a-work-item?u=76281980&t=23)** Let's start by talking about Epic.
 >
@@ -1352,21 +1336,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (9), [[Scrum]] (2), application (2), product (2), next (2)
+> **Frameworks & Libraries:** [[Scrum]] (2)
 > **UI Navigation:** go to (4), click on (2), dropdown (1)
 > **Analogies:** think of it as (2), for example (1)
 > **Exercise Files:** template (2)
 > **Env Vars:** hipaa (1)
 > **Speakers:** - [instructor] (1)
 
-#### Boards and backlogs
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/boards-and-backlogs?u=76281980)
+#### [Boards and backlogs](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/boards-and-backlogs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/boards-and-backlogs?u=76281980&t=0)** - [Instructor] This is the chapter about Azure Boards, and I've been mentioning a lot of Agile topics in the other videos in this chapter.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/boards-and-backlogs?u=76281980&t=0)** - [Instructor] This is the chapter about [[Microsoft Azure|Azure]] Boards, and I've been mentioning a lot of [[Agile Development|Agile]] topics in the other videos in this chapter.
 >
-> **[0:07](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/boards-and-backlogs?u=76281980&t=7)** Things like Kanban and Kanban boards, and Scrum, and topics like that.
+> **[0:07](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/boards-and-backlogs?u=76281980&t=7)** Things like Kanban and Kanban boards, and [[Scrum]], and topics like that.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/boards-and-backlogs?u=76281980&t=12)** They're all deep topics and you can learn more about those on the other courses in our catalog.
 >
@@ -1466,19 +1449,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (5), [[Microsoft Azure|Azure]] (4), [[Scrum]] (3), product (3), [[Agile Development|Agile]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Scrum]] (3), [[Agile Development|Agile]] (2)
 > **UI Navigation:** click on (4), dropdown (3), go to (3)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** hipaa (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set sprint cadence
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/set-sprint-cadence?u=76281980)
+#### [Set sprint cadence](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/set-sprint-cadence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/set-sprint-cadence?u=76281980&t=0)** - [Instructor] A Scrum Team plans and tracks work at regular time intervals, referred to as a sprint cadence.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/set-sprint-cadence?u=76281980&t=0)** - [Instructor] A [[Scrum]] Team plans and tracks work at regular time intervals, referred to as a sprint cadence.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/set-sprint-cadence?u=76281980&t=5)** A typical cadence is two weeks, but it's up to the individual team to decide what makes sense for them.
 >
@@ -1502,12 +1484,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (1), teams (1)
+> **Frameworks & Libraries:** [[Scrum]] (1)
 > **UI Navigation:** go to (1), click on (1), select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Boards and sprints
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/boards-and-sprints?u=76281980)
+#### [Boards and sprints](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/boards-and-sprints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1569,14 +1550,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Analytics]] (1)
 > **UI Navigation:** go to (2), navigate to (1), switch to (1), dropdown (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Kanban board basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/kanban-board-basics?u=76281980)
+#### [Kanban board basics](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/kanban-board-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1590,7 +1569,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/kanban-board-basics?u=76281980&t=12)** Some teams use color as an additional signal, for example, orange notes might indicate bugs.
 >
-> **[0:17](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/kanban-board-basics?u=76281980&t=17)** Most Kanban applications mimic the look of the physical board and cards, and it's no different for Azure Boards.
+> **[0:17](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/kanban-board-basics?u=76281980&t=17)** Most Kanban applications mimic the look of the physical board and cards, and it's no different for [[Microsoft Azure|Azure]] Boards.
 >
 > **[0:24](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/kanban-board-basics?u=76281980&t=24)** Here, you can see each of the work items represented as a card.
 >
@@ -1676,7 +1655,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Microsoft Azure|Azure]] (2), product (2), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2)
 > **UI Navigation:** go to (2), dropdown (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -1685,8 +1664,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add columns and swimlanes to a Kanban board
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-columns-and-swim-lanes-to-kanban-board?u=76281980)
+#### [Add columns and swimlanes to a Kanban board](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-columns-and-swim-lanes-to-kanban-board?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1694,7 +1672,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-columns-and-swim-lanes-to-kanban-board?u=76281980&t=13)** So you'll have these stages as you go through your work.
 >
-> **[0:16](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-columns-and-swim-lanes-to-kanban-board?u=76281980&t=16)** Microsoft has made some assumptions about what those stages are.
+> **[0:16](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-columns-and-swim-lanes-to-kanban-board?u=76281980&t=16)** [[Microsoft]] has made some assumptions about what those stages are.
 >
 > **[0:19](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-columns-and-swim-lanes-to-kanban-board?u=76281980&t=19)** So you've got the new stage, develop, which is subdivided into two sub-columns, build and test, and done, and you can add your own columns or you can rename the ones that are shown here.
 >
@@ -1704,7 +1682,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-columns-and-swim-lanes-to-kanban-board?u=76281980&t=44)** Because our team uses some extra steps between develop and build, we're going to add our own column.
 >
-> **[0:49](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-columns-and-swim-lanes-to-kanban-board?u=76281980&t=49)** That's our code review step.
+> **[0:49](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-columns-and-swim-lanes-to-kanban-board?u=76281980&t=49)** That's our [[Code Review]] step.
 >
 > **[0:50](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-columns-and-swim-lanes-to-kanban-board?u=76281980&t=50)** So I'll click on new column, type in code review, split the column into doing and done.
 >
@@ -1726,7 +1704,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-columns-and-swim-lanes-to-kanban-board?u=76281980&t=109)** In Kanban, these are called swimlines, and they typically represent different kinds of work or different teams performing work.
 >
-> **[1:55](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-columns-and-swim-lanes-to-kanban-board?u=76281980&t=115)** Now, in Azure DevOps, we can create our own teams, so it doesn't make sense to have swimlane for a team, but if that's the way you prefer to work, you can do it.
+> **[1:55](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-columns-and-swim-lanes-to-kanban-board?u=76281980&t=115)** Now, in [[Microsoft Azure|Azure]] [[DevOps]], we can create our own teams, so it doesn't make sense to have swimlane for a team, but if that's the way you prefer to work, you can do it.
 >
 > **[2:06](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-columns-and-swim-lanes-to-kanban-board?u=76281980&t=126)** Let me show you how to add one anyway.
 >
@@ -1744,15 +1722,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (4), teams (2), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Code Review]] (4), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1), [[DevOps]] (1)
 > **UI Navigation:** go to (3), click on (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set work in progress (WIP) limits
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/set-work-in-progress-wip-limits?u=76281980)
+#### [Set work in progress (WIP) limits](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/set-work-in-progress-wip-limits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1766,7 +1743,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/set-work-in-progress-wip-limits?u=76281980&t=20)** The WIP limit is set to seven.
 >
-> **[0:23](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/set-work-in-progress-wip-limits?u=76281980&t=23)** Now, I think on our team, we only have two items in code review at any one time.
+> **[0:23](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/set-work-in-progress-wip-limits?u=76281980&t=23)** Now, I think on our team, we only have two items in [[Code Review]] at any one time.
 >
 > **[0:28](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/set-work-in-progress-wip-limits?u=76281980&t=28)** We don't want people putting a bunch of cards in that column because it takes a while for our code reviewers to get to the work.
 >
@@ -1793,8 +1770,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Kanban board tag settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/kanban-board-tag-settings?u=76281980)
+#### [Kanban board tag settings](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/kanban-board-tag-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1822,12 +1798,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **UI Navigation:** go to (2), click on (1), dropdown (1)
 > **Speakers:** - [instructor] (1)
 
-#### Kanban board custom styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/kanban-board-custom-styles?u=76281980)
+#### [Kanban board custom styles](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/kanban-board-custom-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1873,16 +1847,15 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
 
-#### View work progress with dashboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-work-progress-with-dashboards?u=76281980)
+#### [View work progress with dashboards](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-work-progress-with-dashboards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-work-progress-with-dashboards?u=76281980&t=0)** - [Instructor] I'm going to take a side trip and look at the Overview section in the Azure DevOps portal, and there's three areas here.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-work-progress-with-dashboards?u=76281980&t=0)** - [Instructor] I'm going to take a side trip and look at the Overview section in the [[Microsoft Azure|Azure]] [[DevOps]] portal, and there's three areas here.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-work-progress-with-dashboards?u=76281980&t=7)** There's the Summary, which gives you a summary information about this project.
 >
-> **[0:12](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-work-progress-with-dashboards?u=76281980&t=12)** There's a Wiki area for creating wiki entries, and what I'm looking at in this video is Dashboards.
+> **[0:12](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-work-progress-with-dashboards?u=76281980&t=12)** There's a Wiki area for creating wiki entries, and what I'm looking at in this video is [[Dashboards]].
 >
 > **[0:18](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-work-progress-with-dashboards?u=76281980&t=18)** Use these to gain visibility into your team's progress.
 >
@@ -1906,7 +1879,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-work-progress-with-dashboards?u=76281980&t=67)** Here is this first one.
 >
-> **[1:09](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-work-progress-with-dashboards?u=76281980&t=69)** If I click on these three dots and choose about this widget, it'll take me to a page on the Microsoft documentation that tells me this is the markdown widget to display items from a markdown file.
+> **[1:09](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-work-progress-with-dashboards?u=76281980&t=69)** If I click on these three dots and choose about this widget, it'll take me to a page on the [[Microsoft]] documentation that tells me this is the markdown widget to display items from a markdown file.
 >
 > **[1:21](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-work-progress-with-dashboards?u=76281980&t=81)** So where is this information coming from?
 >
@@ -1972,7 +1945,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (3), next (2), [[Microsoft Azure|Azure]] (1), [[DevOps]] (1), teams (1)
+> **Frameworks & Libraries:** [[Dashboards]] (3), [[Microsoft Azure|Azure]] (1), [[DevOps]] (1), [[Microsoft]] (1)
 > **UI Navigation:** click on (2), go to (2)
 > **CLI Commands:** make (1), find (1)
 > **File Paths:** readme.md (1)
@@ -1980,8 +1953,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create custom work item queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-custom-work-item-queries?u=76281980)
+#### [Create custom work item queries](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-custom-work-item-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1999,7 +1971,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-custom-work-item-queries?u=76281980&t=22)** That's one I created.
 >
-> **[0:24](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-custom-work-item-queries?u=76281980&t=24)** And the rest of them come from the demo generator.
+> **[0:24](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-custom-work-item-queries?u=76281980&t=24)** And the [[Representational State Transfer (REST)|rest]] of them come from the demo generator.
 >
 > **[0:26](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-custom-work-item-queries?u=76281980&t=26)** When you click on one of these items as to unfinished work, it runs the query and shows the results here.
 >
@@ -2066,8 +2038,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add a custom query to the dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-custom-query-to-the-dashboard?u=76281980)
+#### [Add a custom query to the dashboard](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-custom-query-to-the-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2077,7 +2048,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-custom-query-to-the-dashboard?u=76281980&t=8)** The second step is to decide what kind of widget to add.
 >
-> **[0:12](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-custom-query-to-the-dashboard?u=76281980&t=12)** So let's look what we can find for the word query.
+> **[0:12](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-custom-query-to-the-dashboard?u=76281980&t=12)** So let's look what we can find for the [[Microsoft Word|word]] query.
 >
 > **[0:14](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-custom-query-to-the-dashboard?u=76281980&t=14)** I see one called query results.
 >
@@ -2136,14 +2107,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are Azure repos?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980)
+#### [What are Azure repos?](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980&t=0)** - [Narrator] In the world of software development, managing and maintaining code is as crucial as writing it.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980&t=0)** - [Narrator] In the world of [[Software Development]], managing and maintaining code is as crucial as writing it.
 >
-> **[0:05](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980&t=5)** Version control is essential for software development as it allows multiple developers to collaborate efficiently tracking and managing changes to the code base over time.
+> **[0:05](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980&t=5)** [[Version Control]] is essential for software development as it allows multiple developers to collaborate efficiently tracking and managing changes to the code base over time.
 >
 > **[0:16](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980&t=16)** It ensures that every modification is documented, enabling easier identification and resolution of issues, and providing a history of changes for future reference and audits.
 >
@@ -2159,11 +2129,11 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980&t=57)** Developers check out files from the central repository, make changes, and then commit those changes back to the central location.
 >
-> **[1:04](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980&t=64)** Distributed version control systems like Git allow each contributor to have a full copy of the entire repository on their local computer with a cloud serving as a synchronization and collaboration point.
+> **[1:04](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980&t=64)** Distributed version control systems like [[Git]] allow each contributor to have a full copy of the entire repository on their local computer with a cloud serving as a synchronization and collaboration point.
 >
-> **[1:16](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980&t=76)** Azure repos are a set of version control tools provided by Microsoft as part of the Azure DevOps services.
+> **[1:16](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980&t=76)** [[Microsoft Azure|Azure]] repos are a set of version control tools provided by [[Microsoft]] as part of the [[Azure DevOps Services]].
 >
-> **[1:23](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980&t=83)** Simply put, they offer a location to store your repositories on Microsoft Cloud servers that are integrated with the other DevOps services, Azure repos are closely tied to an Azure DevOps project.
+> **[1:23](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980&t=83)** Simply put, they offer a location to store your repositories on Microsoft Cloud servers that are integrated with the other [[DevOps]] services, Azure repos are closely tied to an Azure DevOps project.
 >
 > **[1:34](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980&t=94)** When you create a project, you choose an Azure repo implementation.
 >
@@ -2203,7 +2173,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980&t=195)** Azure repos is a hosting service for Git remotes facilitating this collaborative workflow.
 >
-> **[3:20](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980&t=200)** A natural question to consider is the role of GitHub.
+> **[3:20](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980&t=200)** A natural question to consider is the role of [[GitHub]].
 >
 > **[3:23](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980&t=203)** As part of the Microsoft ecosystem, GitHub also offers a set of DevOps services, including serving as a Git repository host.
 >
@@ -2241,7 +2211,7 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980&t=289)** The example shown in this chapter are simple.
 >
-> **[4:51](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980&t=291)** If you are new to Git or a version controller, you can find more comprehensive courses on the LinkedIn learning site.
+> **[4:51](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980&t=291)** If you are new to Git or a version controller, you can find more comprehensive courses on the [[LinkedIn]] learning site.
 >
 > **[4:57](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980&t=297)** If you are an experienced Git user, there isn't much to learn.
 >
@@ -2251,7 +2221,7 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980&t=309)** The way you'll use Git on the developer computer will not change.
 >
-> **[5:14](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980&t=314)** This is a rundown on how we'll use Git in the rest of this chapter.
+> **[5:14](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980&t=314)** This is a rundown on how we'll use Git in the [[Representational State Transfer (REST)|rest]] of this chapter.
 >
 > **[5:17](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-repos?u=76281980&t=317)** Someone on our team creates a repository on the web portal.
 >
@@ -2290,8 +2260,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### View the parts of Azure repos
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-the-parts-of-azure-repos?u=76281980)
+#### [View the parts of Azure repos](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-the-parts-of-azure-repos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2311,7 +2280,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-the-parts-of-azure-repos?u=76281980&t=33)** I can also go back to the files and edit the files.
 >
-> **[0:37](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-the-parts-of-azure-repos?u=76281980&t=37)** So let's say I want to edit this SQL file here, and click on that.
+> **[0:37](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-the-parts-of-azure-repos?u=76281980&t=37)** So let's say I want to edit this [[SQL]] file here, and click on that.
 >
 > **[0:41](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-the-parts-of-azure-repos?u=76281980&t=41)** That opens the SQL file and it has a online editor.
 >
@@ -2365,13 +2334,13 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-the-parts-of-azure-repos?u=76281980&t=151)** I can see the date that it was authored.
 >
-> **[2:33](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-the-parts-of-azure-repos?u=76281980&t=153)** I can see the ahead/behind statistics about this branch, current status.
+> **[2:33](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-the-parts-of-azure-repos?u=76281980&t=153)** I can see the ahead/behind [[Statistics]] about this branch, current status.
 >
 > **[2:40](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-the-parts-of-azure-repos?u=76281980&t=160)** And I can also click on this to go see the files that are in that branch.
 >
 > **[2:45](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-the-parts-of-azure-repos?u=76281980&t=165)** So that gives you an idea of what you can do in the web portal.
 >
-> **[2:48](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-the-parts-of-azure-repos?u=76281980&t=168)** So what I want you to see is, like, most modern Git-hosting sites, there are a lot of tools available on this site for working with the files and the repositories.
+> **[2:48](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-the-parts-of-azure-repos?u=76281980&t=168)** So what I want you to see is, like, most modern [[Git]]-hosting sites, there are a lot of tools available on this site for working with the files and the repositories.
 >
 > **[2:56](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/view-the-parts-of-azure-repos?u=76281980&t=176)** And this is great because there are many members of your teams that aren't actively developing.
 >
@@ -2383,7 +2352,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), web (2), [[Statistics]] (1), [[Git]] (1), teams (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Statistics]] (1), [[Git]] (1)
 > **UI Navigation:** click on (6)
 > **CLI Commands:** make (1), git (1)
 > **Env Vars:** sql (2)
@@ -2391,8 +2360,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an Azure repo in the portal
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-an-azure-repo-in-the-portal?u=76281980)
+#### [Create an Azure repo in the portal](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-an-azure-repo-in-the-portal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2400,7 +2368,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-an-azure-repo-in-the-portal?u=76281980&t=3)** Currently in the HealthClinic project, I only have a single repository.
 >
-> **[0:07](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-an-azure-repo-in-the-portal?u=76281980&t=7)** I would like to add an additional repository so that I can have simple examples for the rest of the videos in this chapter.
+> **[0:07](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-an-azure-repo-in-the-portal?u=76281980&t=7)** I would like to add an additional repository so that I can have simple examples for the [[Representational State Transfer (REST)|rest]] of the videos in this chapter.
 >
 > **[0:14](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-an-azure-repo-in-the-portal?u=76281980&t=14)** There are several ways to do this.
 >
@@ -2444,7 +2412,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-an-azure-repo-in-the-portal?u=76281980&t=103)** Call this one SimpleRepo.
 >
-> **[1:44](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-an-azure-repo-in-the-portal?u=76281980&t=104)** Now, if you're an experienced Git developer, what I'm talking about for the next minute will be familiar.
+> **[1:44](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-an-azure-repo-in-the-portal?u=76281980&t=104)** Now, if you're an experienced [[Git]] developer, what I'm talking about for the next minute will be familiar.
 >
 > **[1:49](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-an-azure-repo-in-the-portal?u=76281980&t=109)** So please be patient.
 >
@@ -2474,7 +2442,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Git]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Git]] (1)
 > **UI Navigation:** click on (3), go to (3), dropdown (2), in the sidebar (1)
 > **Env Vars:** readme (4)
 > **Tools:** visual studio (3)
@@ -2483,12 +2451,11 @@ created: 2026-05-02
 > **Documentation:** the readme (1)
 > **Speakers:** - [narrator] (1)
 
-#### Clone the repo to a developer computer
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/clone-the-repo-to-a-developer-computer?u=76281980)
+#### [Clone the repo to a developer computer](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/clone-the-repo-to-a-developer-computer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/clone-the-repo-to-a-developer-computer?u=76281980&t=0)** - [Instructor] To clone the repository, I need to know the Azure repo URL for the repository so in the Health Clinic, I've got two repositories.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/clone-the-repo-to-a-developer-computer?u=76281980&t=0)** - [Instructor] To clone the repository, I need to know the [[Microsoft Azure|Azure]] repo URL for the repository so in the Health Clinic, I've got two repositories.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/clone-the-repo-to-a-developer-computer?u=76281980&t=9)** I'll click here and then choose the repository I want from this dropdown.
 >
@@ -2496,13 +2463,13 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/clone-the-repo-to-a-developer-computer?u=76281980&t=14)** Then I'll click and clone to get the URL, copy that.
 >
-> **[0:17](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/clone-the-repo-to-a-developer-computer?u=76281980&t=17)** Then I'll switch over to my command line interface, which in my case is a customized shell running inside Windows terminal.
+> **[0:17](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/clone-the-repo-to-a-developer-computer?u=76281980&t=17)** Then I'll switch over to my command line interface, which in my case is a customized shell running inside [[Windows]] terminal.
 >
-> **[0:27](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/clone-the-repo-to-a-developer-computer?u=76281980&t=27)** When I mean customized, this is PowerShell, but I've customized the way it looks and the way the prompt looks in PowerShell.
+> **[0:27](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/clone-the-repo-to-a-developer-computer?u=76281980&t=27)** When I mean customized, this is [[Powershell]], but I've customized the way it looks and the way the prompt looks in PowerShell.
 >
-> **[0:33](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/clone-the-repo-to-a-developer-computer?u=76281980&t=33)** So now I'll change directory to my source folder repos, and then to this learning Azure DevOps folder.
+> **[0:33](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/clone-the-repo-to-a-developer-computer?u=76281980&t=33)** So now I'll change directory to my source folder repos, and then to this learning Azure [[DevOps]] folder.
 >
-> **[0:44](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/clone-the-repo-to-a-developer-computer?u=76281980&t=44)** Then I'll type in Git clone, paste in the URL, and before I run this, be clear, you have to have Git installed on your computer.
+> **[0:44](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/clone-the-repo-to-a-developer-computer?u=76281980&t=44)** Then I'll type in [[Git]] clone, paste in the URL, and before I run this, be clear, you have to have Git installed on your computer.
 >
 > **[0:53](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/clone-the-repo-to-a-developer-computer?u=76281980&t=53)** I've got Git for Windows installed, so this should work.
 >
@@ -2558,7 +2525,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (4), [[Git]] (4), [[Microsoft Azure|Azure]] (3), prompt (3), [[Windows]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (4), [[Git]] (4), [[Microsoft Azure|Azure]] (3), [[Windows]] (2), [[Powershell]] (2)
 > **Tools:** visual studio (7), powershell (2), vs code (2), command line (1), windows terminal (1)
 > **Env Vars:** url (3), dir (1), uri (1), sln (1)
 > **UI Navigation:** go to (3), dropdown (1), switch to (1), click on (1)
@@ -2566,8 +2533,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a repo branch
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-a-repo-branch?u=76281980)
+#### [Create a repo branch](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-a-repo-branch?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2611,7 +2577,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-a-repo-branch?u=76281980&t=81)** It's got a check mark by it that it hasn't been published.
 >
-> **[1:24](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-a-repo-branch?u=76281980&t=84)** It says here, it has not been published to Azure DevOps.
+> **[1:24](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-a-repo-branch?u=76281980&t=84)** It says here, it has not been published to [[Microsoft Azure|Azure]] [[DevOps]].
 >
 > **[1:27](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-a-repo-branch?u=76281980&t=87)** So if any of my teammates were to go look for this new branch, they wouldn't see it.
 >
@@ -2621,7 +2587,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-a-repo-branch?u=76281980&t=99)** Now, when I hover over this, it says it's up to date with origin add header.
 >
-> **[1:45](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-a-repo-branch?u=76281980&t=105)** No, I don't want to do get fetch, not at the moment.
+> **[1:45](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-a-repo-branch?u=76281980&t=105)** No, I don't want to do get [[Fetch]], not at the moment.
 >
 > **[1:47](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-a-repo-branch?u=76281980&t=107)** Now let's go verify that that branch is available in the web portal.
 >
@@ -2635,7 +2601,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), feature (2), web (2), application (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[DevOps]] (1), [[Fetch]] (1)
 > **API Endpoints:** get  (2)
 > **UI Navigation:** go to (2)
 > **Env Vars:** readme (1)
@@ -2643,8 +2609,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### Edit and commit to repo
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/edit-and-commit-to-repo?u=76281980)
+#### [Edit and commit to repo](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/edit-and-commit-to-repo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2674,7 +2639,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/edit-and-commit-to-repo?u=76281980&t=50)** That saves it to my local repository.
 >
-> **[0:54](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/edit-and-commit-to-repo?u=76281980&t=54)** And then, the next step is to synchronize with the DevOps server.
+> **[0:54](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/edit-and-commit-to-repo?u=76281980&t=54)** And then, the next step is to synchronize with the [[DevOps]] server.
 >
 > **[0:58](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/edit-and-commit-to-repo?u=76281980&t=58)** I have the choice of pushing the data directly to the server or issuing a pull request.
 >
@@ -2682,21 +2647,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[DevOps]] (1), data (1)
+> **Frameworks & Libraries:** [[DevOps]] (1)
 > **Tools:** visual studio (3)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Push the branch to DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/push-the-branch-to-devops?u=76281980)
+#### [Push the branch to DevOps](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/push-the-branch-to-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/push-the-branch-to-devops?u=76281980&t=0)** - [Instructor] At this point, I have my changes on my local repository, but that's the only place where they're located, so I need to push them to the DevOps server, and that gives us the opportunity to talk about the difference.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/push-the-branch-to-devops?u=76281980&t=0)** - [Instructor] At this point, I have my changes on my local repository, but that's the only place where they're located, so I need to push them to the [[DevOps]] server, and that gives us the opportunity to talk about the difference.
 >
-> **[0:12](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/push-the-branch-to-devops?u=76281980&t=12)** So, git push is a Git operation, and that allows me to send the contents to any other remotes that I might have from my repository, and then the idea of a pull request is something that was coined by GitHub, and it's also part of DevOps, and this is where I ask other people to pull my pending change into the repository.
+> **[0:12](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/push-the-branch-to-devops?u=76281980&t=12)** So, [[Git]] push is a Git operation, and that allows me to send the contents to any other remotes that I might have from my repository, and then the idea of a pull request is something that was coined by [[GitHub]], and it's also part of DevOps, and this is where I ask other people to pull my pending change into the repository.
 >
 > **[0:33](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/push-the-branch-to-devops?u=76281980&t=33)** Here's the workflow.
 >
@@ -2727,8 +2691,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a pull request
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-a-pull-request?u=76281980)
+#### [Create a pull request](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/create-a-pull-request?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2788,16 +2751,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### Team review of pull request
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/team-review-of-pull-request?u=76281980)
+#### [Team review of pull request](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/team-review-of-pull-request?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/team-review-of-pull-request?u=76281980&t=0)** - [Walt] Now, we are logged in with Tadd's account and he's working in the Azure DevOps portal.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/team-review-of-pull-request?u=76281980&t=0)** - [Walt] Now, we are logged in with Tadd's account and he's working in the [[Microsoft Azure|Azure]] [[DevOps]] portal.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/team-review-of-pull-request?u=76281980&t=5)** And right now, if you look at pull requests, there's no pull request.
 >
@@ -2889,7 +2850,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (2), [[Microsoft Azure|Azure]] (1), hit (1)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** similar to (1)
@@ -2900,16 +2861,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are Azure pipelines?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-pipelines?u=76281980)
+#### [What are Azure pipelines?](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-pipelines?u=76281980&t=0)** - [Lecturer] Azure Pipelines is a set of services that automate your application build and deployment phases.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-pipelines?u=76281980&t=0)** - [Lecturer] [[Microsoft Azure|Azure]] Pipelines is a set of services that automate your application build and deployment phases.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-pipelines?u=76281980&t=6)** This is Microsoft's continuous integration and continuous deployment system.
+> **[0:06](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-pipelines?u=76281980&t=6)** This is [[Microsoft]]'s [[Continuous Integration (CI)|continuous integration]] and continuous deployment system.
 >
-> **[0:10](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-pipelines?u=76281980&t=10)** There is some overlap between continuous integration, CI, and continuous delivery, CD.
+> **[0:10](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-pipelines?u=76281980&t=10)** There is some overlap between continuous integration, CI, and [[Continuous Delivery (CD)|continuous delivery]], CD.
 >
 > **[0:15](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-pipelines?u=76281980&t=15)** Let's clarify the relationship between those two.
 >
@@ -2933,13 +2893,13 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-pipelines?u=76281980&t=88)** Continuous deployment is the process of deploying every code change that passes the automated test through the production environment, ensuring that software is always in a releasable state.
 >
-> **[1:38](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-pipelines?u=76281980&t=98)** Continuous integration is the industry word that describes the process of automating the building and testing of code.
+> **[1:38](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-pipelines?u=76281980&t=98)** Continuous integration is the industry [[Microsoft Word|word]] that describes the process of automating the building and testing of code.
 >
 > **[1:44](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-pipelines?u=76281980&t=104)** This practice involves developers frequently merging their code changes into a central repository or automated builds and tests run.
 >
 > **[1:51](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-pipelines?u=76281980&t=111)** The main goal of continuous integration is to provide rapid feedback so that if there are any defects in the code base, it can be identified and resolved as soon as possible.
 >
-> **[2:01](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-pipelines?u=76281980&t=121)** In Azure DevOps, continuous integration is part of the build pipeline.
+> **[2:01](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-pipelines?u=76281980&t=121)** In Azure [[DevOps]], continuous integration is part of the build pipeline.
 >
 > **[2:05](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-pipelines?u=76281980&t=125)** Continuous deployment is the industry word that describes the process of automating the deployment of the application which ensures the final product is made available to the customers.
 >
@@ -2955,7 +2915,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-pipelines?u=76281980&t=169)** Here's our first look at the process.
 >
-> **[2:51](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-pipelines?u=76281980&t=171)** The continuous integration process starts with a trigger, typically, a code commit to your version control system, as your pipelines automatically fetches the latest code and executes a build process defined in a YAML file or through the classic editor.
+> **[2:51](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-pipelines?u=76281980&t=171)** The continuous integration process starts with a trigger, typically, a code commit to your [[Version Control]] system, as your pipelines automatically fetches the latest code and executes a build process defined in a YAML file or through the classic editor.
 >
 > **[3:05](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-are-azure-pipelines?u=76281980&t=185)** Automated tests are run to ensure code quality.
 >
@@ -3019,7 +2979,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[Continuous Integration (CI)|Continuous integration]] (9), application (5), [[Continuous Delivery (CD)|Continuous delivery]] (5), ci (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[Continuous Integration (CI)|Continuous integration]] (9), [[Continuous Delivery (CD)|Continuous delivery]] (5), [[DevOps]] (4), [[Microsoft]] (2)
 > **Definitions:** is a  (3), means that (1), refers to (1)
 > **CLI Commands:** cd (4)
 > **Env Vars:** yaml (2)
@@ -3027,12 +2987,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Continuous integration with build pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/continuous-integration-with-build-pipelines?u=76281980)
+#### [Continuous integration with build pipelines](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/continuous-integration-with-build-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/continuous-integration-with-build-pipelines?u=76281980&t=0)** - [Instructor] Before talking about continuous integration, let's examine the idea of code integration.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/continuous-integration-with-build-pipelines?u=76281980&t=0)** - [Instructor] Before talking about [[Continuous Integration (CI)|continuous integration]], let's examine the idea of code integration.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/continuous-integration-with-build-pipelines?u=76281980&t=5)** This is a broad topic with various historical definitions, but for our purposes, it refers to the process of merging new code with existing code to create a unified version of an application.
 >
@@ -3058,9 +3017,9 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/continuous-integration-with-build-pipelines?u=76281980&t=93)** Finally, you test everything to ensure it works correctly.
 >
-> **[1:37](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/continuous-integration-with-build-pipelines?u=76281980&t=97)** While it's possible to do this manually, automation is preferable, which is where the Azure DevOps Build Pipeline comes in.
+> **[1:37](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/continuous-integration-with-build-pipelines?u=76281980&t=97)** While it's possible to do this manually, automation is preferable, which is where the [[Microsoft Azure|Azure]] [[DevOps]] Build Pipeline comes in.
 >
-> **[1:44](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/continuous-integration-with-build-pipelines?u=76281980&t=104)** The build process or the Build Pipeline is customarily triggered when code is committed into the version control system.
+> **[1:44](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/continuous-integration-with-build-pipelines?u=76281980&t=104)** The build process or the Build Pipeline is customarily triggered when code is committed into the [[Version Control]] system.
 >
 > **[1:51](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/continuous-integration-with-build-pipelines?u=76281980&t=111)** There are many nuances to this process.
 >
@@ -3070,9 +3029,9 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/continuous-integration-with-build-pipelines?u=76281980&t=125)** The so-called nightly build as your pipeline supports both of these scenarios.
 >
-> **[2:10](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/continuous-integration-with-build-pipelines?u=76281980&t=130)** As pipelines can build applications on Windows, Linux, and Mac OS making it versatile for different development environments.
+> **[2:10](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/continuous-integration-with-build-pipelines?u=76281980&t=130)** As pipelines can build applications on [[Windows]], [[Linux]], and Mac OS making it versatile for different development environments.
 >
-> **[2:19](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/continuous-integration-with-build-pipelines?u=76281980&t=139)** Azure pipelines integrates seamlessly with various version control systems like Azure repos, GIT GitHub, and Team Foundation Version Control.
+> **[2:19](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/continuous-integration-with-build-pipelines?u=76281980&t=139)** Azure pipelines integrates seamlessly with various version control systems like Azure repos, [[Git]] [[GitHub]], and Team Foundation Version Control.
 >
 > **[2:29](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/continuous-integration-with-build-pipelines?u=76281980&t=149)** This allows for automatic builds and validations whenever changes are pushed to the repository.
 >
@@ -3086,11 +3045,11 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/continuous-integration-with-build-pipelines?u=76281980&t=196)** It supports many programming languages and platforms.
 >
-> **[3:19](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/continuous-integration-with-build-pipelines?u=76281980&t=199)** This automation maintains code quality and keeps the code base deployable, enhancing efficiency, and reducing human error in software development.
+> **[3:19](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/continuous-integration-with-build-pipelines?u=76281980&t=199)** This automation maintains code quality and keeps the code base deployable, enhancing efficiency, and reducing human error in [[Software Development]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), teams (3), [[Version Control]] (3), [[Continuous Integration (CI)|Continuous integration]] (2), [[Automation]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Version Control]] (3), [[Continuous Integration (CI)|Continuous integration]] (2), [[DevOps]] (2), [[Windows]] (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Env Vars:** git (1), yaml (1)
 > **CLI Commands:** git (1)
@@ -3099,18 +3058,17 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### The pipeline components
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/the-pipeline-components?u=76281980)
+#### [The pipeline components](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/the-pipeline-components?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/the-pipeline-components?u=76281980&t=0)** - [Instructor] Azure Pipeline consists of several key components that work together to automate your build, delivery, and deployment process.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/the-pipeline-components?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] Pipeline consists of several key components that work together to automate your build, delivery, and deployment process.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/the-pipeline-components?u=76281980&t=6)** We'll look at some of the components on this list.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/the-pipeline-components?u=76281980&t=9)** Typically, you define your pipeline in a YAML file, which outlines the steps to be taken during the build, test, and deployment phases.
 >
-> **[0:17](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/the-pipeline-components?u=76281980&t=17)** The YAML file can be stored alongside your code, making that easier to maintain and version the file with the rest of your application code.
+> **[0:17](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/the-pipeline-components?u=76281980&t=17)** The YAML file can be stored alongside your code, making that easier to maintain and version the file with the [[Representational State Transfer (REST)|rest]] of your application code.
 >
 > **[0:25](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/the-pipeline-components?u=76281980&t=25)** Azure Pipelines reads this file to execute tasks in the order and the environment you specify.
 >
@@ -3122,13 +3080,13 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/the-pipeline-components?u=76281980&t=44)** Azure Pipelines provides two types of agents.
 >
-> **[0:47](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/the-pipeline-components?u=76281980&t=47)** Microsoft hosted agents are ready-made environments maintained by Microsoft.
+> **[0:47](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/the-pipeline-components?u=76281980&t=47)** [[Microsoft]] hosted agents are ready-made environments maintained by Microsoft.
 >
 > **[0:51](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/the-pipeline-components?u=76281980&t=51)** They are pre-configured with popular software and tools, saving you the trouble of setting up and managing your own machines.
 >
 > **[0:59](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/the-pipeline-components?u=76281980&t=59)** Self-hosted agents are environments that you manage yourself.
 >
-> **[1:02](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/the-pipeline-components?u=76281980&t=62)** They give you more control over the configuration and can run on your hardware or in the cloud.
+> **[1:02](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/the-pipeline-components?u=76281980&t=62)** They give you more control over the configuration and can run on your [[Hardware]] or in the cloud.
 >
 > **[1:08](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/the-pipeline-components?u=76281980&t=68)** In Azure Pipelines, a job is a single phase of your pipeline, like building code or running tests.
 >
@@ -3156,9 +3114,9 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/the-pipeline-components?u=76281980&t=131)** Each step runs within a job on an agent.
 >
-> **[2:15](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/the-pipeline-components?u=76281980&t=135)** You can define steps using built-in tasks from Azure Pipelines, or write your own scripts in PowerShell, Bash, Python or other languages.
+> **[2:15](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/the-pipeline-components?u=76281980&t=135)** You can define steps using built-in tasks from Azure Pipelines, or write your own scripts in [[Powershell]], Bash, [[Python (Programming Language)|Python]] or other languages.
 >
-> **[2:24](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/the-pipeline-components?u=76281980&t=144)** You can also enhance your pipeline with third-party tasks from the Azure DevOps marketplace.
+> **[2:24](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/the-pipeline-components?u=76281980&t=144)** You can also enhance your pipeline with third-party tasks from the Azure [[DevOps]] marketplace.
 >
 > **[2:30](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/the-pipeline-components?u=76281980&t=150)** Tasks are pre-created scripts or extensions that you can add to your steps.
 >
@@ -3220,7 +3178,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[DevOps]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft]] (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[DevOps]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft]] (2), [[Hardware]] (1)
 > **Definitions:** is a  (6)
 > **Analogies:** such as (2), for example (1)
 > **Env Vars:** yaml (2)
@@ -3229,12 +3187,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore the pipeline section of the DevOps portal
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-pipeline-section-of-the-devops-portal?u=76281980)
+#### [Explore the pipeline section of the DevOps portal](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-pipeline-section-of-the-devops-portal?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-pipeline-section-of-the-devops-portal?u=76281980&t=0)** - [Instructor] We'll take a quick look at the parts of the Azure Pipeline.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-pipeline-section-of-the-devops-portal?u=76281980&t=0)** - [Instructor] We'll take a quick look at the parts of the [[Microsoft Azure|Azure]] Pipeline.
 >
 > **[0:04](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-pipeline-section-of-the-devops-portal?u=76281980&t=4)** So, click on Pipelines.
 >
@@ -3244,7 +3201,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-pipeline-section-of-the-devops-portal?u=76281980&t=12)** So, it's a bit confusing here.
 >
-> **[0:13](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-pipeline-section-of-the-devops-portal?u=76281980&t=13)** It says Pipelines as the Azure DevOps section, and then, immediately below that is the Pipelines sub-page.
+> **[0:13](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-pipeline-section-of-the-devops-portal?u=76281980&t=13)** It says Pipelines as the Azure [[DevOps]] section, and then, immediately below that is the Pipelines sub-page.
 >
 > **[0:20](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-pipeline-section-of-the-devops-portal?u=76281980&t=20)** This is where you find your build pipelines.
 >
@@ -3256,7 +3213,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-pipeline-section-of-the-devops-portal?u=76281980&t=33)** An environment is a collection of resources that can be targeted by deployments from the pipeline.
 >
-> **[0:38](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-pipeline-section-of-the-devops-portal?u=76281980&t=38)** For example, a cluster of virtual machines.
+> **[0:38](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-pipeline-section-of-the-devops-portal?u=76281980&t=38)** For example, a cluster of [[Virtual Machines]].
 >
 > **[0:41](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-pipeline-section-of-the-devops-portal?u=76281980&t=41)** Typical examples of environment names are dev, test and qa, or staging and production.
 >
@@ -3274,7 +3231,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-pipeline-section-of-the-devops-portal?u=76281980&t=66)** And then here I see the Tasks, Variables, Triggers, Options, and many other settings.
 >
-> **[1:14](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-pipeline-section-of-the-devops-portal?u=76281980&t=74)** And if you look at Triggers, and you can see that there's a continuous integration trigger set up.
+> **[1:14](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-pipeline-section-of-the-devops-portal?u=76281980&t=74)** And if you look at Triggers, and you can see that there's a [[Continuous Integration (CI)|continuous integration]] trigger set up.
 >
 > **[1:20](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-pipeline-section-of-the-devops-portal?u=76281980&t=80)** And it's a branch filter.
 >
@@ -3288,7 +3245,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-pipeline-section-of-the-devops-portal?u=76281980&t=98)** You notice there's lots of other choices.
 >
-> **[1:40](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-pipeline-section-of-the-devops-portal?u=76281980&t=100)** We can work with GitHub, GitHub Enterprises, Subversion, Bitbucket Cloud, and other Git providers.
+> **[1:40](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-pipeline-section-of-the-devops-portal?u=76281980&t=100)** We can work with [[GitHub]], GitHub Enterprises, Subversion, [[Bitbucket]] Cloud, and other [[Git]] providers.
 >
 > **[1:48](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-pipeline-section-of-the-devops-portal?u=76281980&t=108)** This is using the repository, this part of this project.
 >
@@ -3298,7 +3255,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-pipeline-section-of-the-devops-portal?u=76281980&t=117)** So, the agent is going to do all of this work.
 >
-> **[2:01](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-pipeline-section-of-the-devops-portal?u=76281980&t=121)** It's going to restore, it's going to npm install bower.
+> **[2:01](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-pipeline-section-of-the-devops-portal?u=76281980&t=121)** It's going to restore, it's going to [[npm]] install bower.
 >
 > **[2:05](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-pipeline-section-of-the-devops-portal?u=76281980&t=125)** It's going to run another npm installer.
 >
@@ -3323,12 +3280,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Explore the example web project
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-example-web-project?u=76281980)
+#### [Explore the example web project](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-example-web-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-example-web-project?u=76281980&t=0)** - [Instructor] I created this [ASP.NET](https://ASP.NET) Core website in Visual Studio using the [ASP.NET](https://ASP.NET) Core template, it's using all the default settings.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-example-web-project?u=76281980&t=0)** - [Instructor] I created this [[[ASP.NET]]](https://ASP.NET) Core website in Visual Studio using the [ASP.NET](https://ASP.NET) Core template, it's using all the default settings.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-example-web-project?u=76281980&t=9)** I've made one slight change to the code here in Layout.cshtml, it's right here on line 40.
 >
@@ -3344,7 +3300,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-example-web-project?u=76281980&t=49)** I put this in source control, and so, it is committed to source control.
 >
-> **[0:53](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-example-web-project?u=76281980&t=53)** And if you go take a look at DevOps, let's go to Repos.
+> **[0:53](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-example-web-project?u=76281980&t=53)** And if you go take a look at [[DevOps]], let's go to Repos.
 >
 > **[1:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-example-web-project?u=76281980&t=60)** I'll open SimpleRepo.
 >
@@ -3354,7 +3310,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-example-web-project?u=76281980&t=75)** So that's already been committed to the repository.
 >
-> **[1:20](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-example-web-project?u=76281980&t=80)** I've also created an app service in Azure.
+> **[1:20](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-example-web-project?u=76281980&t=80)** I've also created an app service in [[Microsoft Azure|Azure]].
 >
 > **[1:24](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-example-web-project?u=76281980&t=84)** This is the deployment location.
 >
@@ -3386,12 +3342,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add a service connection to Azure Resource Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-service-connection-to-azure-resource-manager?u=76281980)
+#### [Add a service connection to Azure Resource Manager](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-service-connection-to-azure-resource-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-service-connection-to-azure-resource-manager?u=76281980&t=0)** - [Narrator] In order to connect to my Azure subscription, I need to create what's called the service connection.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-service-connection-to-azure-resource-manager?u=76281980&t=0)** - [Narrator] In order to connect to my [[Microsoft Azure|Azure]] subscription, I need to create what's called the service connection.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-service-connection-to-azure-resource-manager?u=76281980&t=5)** You can find that in Project Settings, click here.
 >
@@ -3420,16 +3375,15 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Explore the pipeline templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-pipeline-templates?u=76281980)
+#### [Explore the pipeline templates](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-pipeline-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-pipeline-templates?u=76281980&t=0)** - [Instructor] One benefit from working with Azure pipelines is the included templates.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-pipeline-templates?u=76281980&t=0)** - [Instructor] One benefit from working with [[Microsoft Azure|Azure]] pipelines is the included templates.
 >
 > **[0:04](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-pipeline-templates?u=76281980&t=4)** When you're creating a build pipeline, you can use a template to get started.
 >
-> **[0:07](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-pipeline-templates?u=76281980&t=7)** We'll take a look at some of the templates that are available for [ASP.NET](https://ASP.NET).
+> **[0:07](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-pipeline-templates?u=76281980&t=7)** We'll take a look at some of the templates that are available for [[[ASP.NET]]](https://ASP.NET).
 >
 > **[0:11](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-pipeline-templates?u=76281980&t=11)** The first step is to open pipelines, and then go to the build pipeline section, that's this one here, click on a new pipeline.
 >
@@ -3441,7 +3395,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-pipeline-templates?u=76281980&t=40)** Then I'll choose my source.
 >
-> **[0:42](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-pipeline-templates?u=76281980&t=42)** I'll use Azure repos git, I'll choose the team project, the repository that contains my code, that's a simple repo, choose the main branch, and click on continue.
+> **[0:42](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-pipeline-templates?u=76281980&t=42)** I'll use Azure repos [[Git]], I'll choose the team project, the repository that contains my code, that's a simple repo, choose the main branch, and click on continue.
 >
 > **[0:54](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/explore-the-pipeline-templates?u=76281980&t=54)** You can see there's a lot of templates here.
 >
@@ -3475,7 +3429,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[ASP.NET]] (4), web application (2), [[Git]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[ASP.NET]] (4), [[Git]] (1)
 > **Env Vars:** net (5), asp (4), yaml (4)
 > **Exercise Files:** template (6), zip file (1)
 > **URLs:** [asp.net](https://asp.net) (4)
@@ -3484,8 +3438,7 @@ created: 2026-05-02
 > **CLI Commands:** git (1), docker (1)
 > **Cross-References:** in the next (1)
 
-#### Add a build pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-build-pipeline?u=76281980)
+#### [Add a build pipeline](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-build-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3493,7 +3446,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-build-pipeline?u=76281980&t=4)** I've got two areas I need to fix, they have the red text.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-build-pipeline?u=76281980&t=6)** So what's wrong here is I need to provide my Azure subscription.
+> **[0:06](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-build-pipeline?u=76281980&t=6)** So what's wrong here is I need to provide my [[Microsoft Azure|Azure]] subscription.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-build-pipeline?u=76281980&t=9)** Before we get there, let's take a look at the name.
 >
@@ -3509,7 +3462,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-build-pipeline?u=76281980&t=29)** I'll specify which agent to run.
 >
-> **[0:31](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-build-pipeline?u=76281980&t=31)** I have choices for MacOS, Ubuntu, and for Windows.
+> **[0:31](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-build-pipeline?u=76281980&t=31)** I have choices for MacOS, [[Ubuntu]], and for [[Windows]].
 >
 > **[0:36](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-build-pipeline?u=76281980&t=36)** I'll choose the Visual Studio 2017 build agent.
 >
@@ -3561,7 +3514,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-build-pipeline?u=76281980&t=130)** At least that's my plan.
 >
-> **[2:12](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-build-pipeline?u=76281980&t=132)** I want it to archive files and it's going to archive on DevOps somewhere.
+> **[2:12](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-build-pipeline?u=76281980&t=132)** I want it to archive files and it's going to archive on [[DevOps]] somewhere.
 >
 > **[2:18](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-build-pipeline?u=76281980&t=138)** It's going to archive it as a zip file.
 >
@@ -3591,7 +3544,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), web (3), [[Windows]] (2), next (2), [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Windows]] (2), [[Ubuntu]] (1), [[DevOps]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** sln (2)
 > **UI Navigation:** click on (2)
@@ -3600,14 +3553,13 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Tools:** visual studio (1)
 
-#### Manually run and troubleshoot a pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manually-run-and-troubleshoot-a-pipeline?u=76281980)
+#### [Manually run and troubleshoot a pipeline](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manually-run-and-troubleshoot-a-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manually-run-and-troubleshoot-a-pipeline?u=76281980&t=0)** - [Instructor] Now that we have our pipeline, it's time to test it, see if it works correctly.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manually-run-and-troubleshoot-a-pipeline?u=76281980&t=4)** You click on it and then you can run it manually from the DevOps portal by clicking on this blue button, "Run pipeline."
+> **[0:04](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manually-run-and-troubleshoot-a-pipeline?u=76281980&t=4)** You click on it and then you can run it manually from the [[DevOps]] portal by clicking on this blue button, "Run pipeline."
 >
 > **[0:13](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manually-run-and-troubleshoot-a-pipeline?u=76281980&t=13)** Once you bring up this dialogue, you specify which agent pool, you specify which agent, which branch in the repository and other advanced settings, and then you click on run.
 >
@@ -3623,7 +3575,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manually-run-and-troubleshoot-a-pipeline?u=76281980&t=46)** Now let's prove it's successful. Click here.
 >
-> **[0:51](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manually-run-and-troubleshoot-a-pipeline?u=76281980&t=51)** We see that it has the green check mark, and I can also verify this by going to the URL for the app service and see that my website is now running in Azure.
+> **[0:51](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manually-run-and-troubleshoot-a-pipeline?u=76281980&t=51)** We see that it has the green check mark, and I can also verify this by going to the URL for the app service and see that my website is now running in [[Microsoft Azure|Azure]].
 >
 > **[1:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manually-run-and-troubleshoot-a-pipeline?u=76281980&t=60)** That's our end goal, is to build our product and push it out to Azure.
 >
@@ -3641,7 +3593,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manually-run-and-troubleshoot-a-pipeline?u=76281980&t=91)** I'm going to go back to the pipelines, click here, choose to edit, and I had to make two fixes in order to get the successful build.
 >
-> **[1:41](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manually-run-and-troubleshoot-a-pipeline?u=76281980&t=101)** First of all, I had to use this agent, Windows 2019, that's the one that has the correct MSBuild version, so I had to switch that.
+> **[1:41](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manually-run-and-troubleshoot-a-pipeline?u=76281980&t=101)** First of all, I had to use this agent, [[Windows]] 2019, that's the one that has the correct MSBuild version, so I had to switch that.
 >
 > **[1:50](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/manually-run-and-troubleshoot-a-pipeline?u=76281980&t=110)** And the other thing is, I started out by using .NET 5 for its website.
 >
@@ -3659,7 +3611,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[DevOps]] (1), product (1), [[Troubleshooting]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[DevOps]] (1), [[Windows]] (1)
 > **Env Vars:** net (4), sdk (3), url (1)
 > **Versions:** 3.1 (3), version 16 (1), 7.0 (1)
 > **CLI Commands:** make (2), find (1)
@@ -3668,8 +3620,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Update the repo to trigger the build
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/update-the-repo-to-trigger-the-build?u=76281980)
+#### [Update the repo to trigger the build](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/update-the-repo-to-trigger-the-build?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3701,7 +3652,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/update-the-repo-to-trigger-the-build?u=76281980&t=73)** It's been two minutes, and now I will refresh the page.
 >
-> **[1:19](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/update-the-repo-to-trigger-the-build?u=76281980&t=79)** And it verifies that we've deployed to the Azure app service.
+> **[1:19](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/update-the-repo-to-trigger-the-build?u=76281980&t=79)** And it verifies that we've deployed to the [[Microsoft Azure|Azure]] app service.
 >
 > **[1:24](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/update-the-repo-to-trigger-the-build?u=76281980&t=84)** And then I'll click over here.
 >
@@ -3716,14 +3667,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add a release pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-release-pipeline?u=76281980)
+#### [Add a release pipeline](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-release-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-release-pipeline?u=76281980&t=0)** - [Instructor] We've successfully created this pipeline and tested it.
 >
-> **[0:03](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-release-pipeline?u=76281980&t=3)** It is combination of building the items for our application and also deploying to the Azure app services.
+> **[0:03](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-release-pipeline?u=76281980&t=3)** It is combination of building the items for our application and also deploying to the [[Microsoft Azure|Azure]] app services.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-release-pipeline?u=76281980&t=10)** In many instances, you want to separate these.
 >
@@ -3749,7 +3699,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-release-pipeline?u=76281980&t=48)** And here you would create a new release pipeline, and you need to set up two things, a stage and an artifact.
 >
-> **[0:55](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-release-pipeline?u=76281980&t=55)** So for the stage, I want to do an Azure App Service Deployment.
+> **[0:55](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-release-pipeline?u=76281980&t=55)** So for the stage, I want to do an Azure App [[Service Deployment]].
 >
 > **[1:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-a-release-pipeline?u=76281980&t=60)** So I click here and choose Apply.
 >
@@ -3781,14 +3731,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), application (1), web (1), [[Service Deployment]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Service Deployment]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Prerequisites:** set up (2)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use custom variables in the pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-custom-variables-in-the-pipeline?u=76281980)
+#### [Use custom variables in the pipeline](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-custom-variables-in-the-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3798,7 +3747,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-custom-variables-in-the-pipeline?u=76281980&t=10)** If you look at the footer on the bottom of this page, you see there's a version number.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-custom-variables-in-the-pipeline?u=76281980&t=14)** So I have some version number code in the [ASP.NET](https://ASP.NET) site that picks this up.
+> **[0:14](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-custom-variables-in-the-pipeline?u=76281980&t=14)** So I have some version number code in the [[[ASP.NET]]](https://ASP.NET) site that picks this up.
 >
 > **[0:20](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-custom-variables-in-the-pipeline?u=76281980&t=20)** This is not the standard number format that is used by a .NET core.
 >
@@ -3820,7 +3769,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-custom-variables-in-the-pipeline?u=76281980&t=64)** So I took the default numbering format for .NET and I made it my own.
 >
-> **[1:10](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-custom-variables-in-the-pipeline?u=76281980&t=70)** So I added the major version and then the minor version, and then the rest of the data.
+> **[1:10](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-custom-variables-in-the-pipeline?u=76281980&t=70)** So I added the major version and then the minor version, and then the [[Representational State Transfer (REST)|rest]] of the data.
 >
 > **[1:15](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-custom-variables-in-the-pipeline?u=76281980&t=75)** So now when it builds, it will generate this in the assembly.
 >
@@ -3830,7 +3779,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[ASP.NET]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[ASP.NET]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** net (4), asp (2)
 > **URLs:** [asp.net](https://asp.net) (2)
 > **UI Navigation:** click on (1)
@@ -3841,8 +3790,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Extensibility and integration overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980)
+#### [Extensibility and integration overview](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3850,7 +3798,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=6)** Systems that provide extension points are valuable because third parties can enhance the ecosystem with their offerings.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=14)** Microsoft systems are known for their extensibility support.
+> **[0:14](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=14)** [[Microsoft]] systems are known for their extensibility support.
 >
 > **[0:17](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=17)** Each of the systems shown here can be enhanced with additional features.
 >
@@ -3858,7 +3806,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=29)** All these Microsoft systems have a marketplace where you can find and install extensions.
 >
-> **[0:33](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=33)** The same applies to Azure DevOps.
+> **[0:33](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=33)** The same applies to [[Microsoft Azure|Azure]] [[DevOps]].
 >
 > **[0:35](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=35)** Use a marketplace to find and install Microsoft and third-party extensions.
 >
@@ -3880,11 +3828,11 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=85)** Another way to extend Azure DevOps is by integrating with your team chat and collaboration software.
 >
-> **[1:31](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=91)** Microsoft provides DevOps extensions for Slack and Microsoft Teams.
+> **[1:31](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=91)** Microsoft provides DevOps extensions for [[Slack]] and [[Microsoft Teams]].
 >
-> **[1:36](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=96)** Additionally, there are extensions available for Discord, Google Chat, and other platforms.
+> **[1:36](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=96)** Additionally, there are extensions available for Discord, [[Google]] Chat, and other platforms.
 >
-> **[1:41](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=101)** They enable real-time notifications about build statuses, pull requests, and work item updates, facilitating seamless communication within your development team.
+> **[1:41](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=101)** They enable [[Real-Time]] notifications about build statuses, pull requests, and work item updates, facilitating seamless communication within your development team.
 >
 > **[1:50](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=110)** But Microsoft's Teams integration allows you to receive notifications and create work items directly from your chat.
 >
@@ -3910,9 +3858,9 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=162)** They help maintain high-quality code by identifying potential issues early in the development process.
 >
-> **[2:49](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=169)** Examples include SonarQube for comprehensive code analysis and ESLint for JavaScript linting.
+> **[2:49](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=169)** Examples include SonarQube for comprehensive code analysis and [[ESLint]] for [[JavaScript]] linting.
 >
-> **[2:55](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=175)** Custom widgets for dashboards provide visualizations and metrics and reports that help teams monitor the health and progress of their projects.
+> **[2:55](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=175)** Custom widgets for [[Dashboards]] provide visualizations and metrics and reports that help teams monitor the health and progress of their projects.
 >
 > **[3:02](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=182)** These widgets can display information like build statuses, work item trends and code coverage metrics.
 >
@@ -3922,7 +3870,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=208)** Tools in the API and connectors category provide connectivity to other platforms and services, such as cloud providers or third-party applications.
 >
-> **[3:36](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=216)** For example, the Azure DevOps REST API allows you to programmatically interact with Azure DevOps services, enabling custom integrations and automations.
+> **[3:36](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=216)** For example, the Azure DevOps [[Representational State Transfer (REST)|REST]] API allows you to programmatically interact with [[Azure DevOps Services]], enabling custom integrations and automations.
 >
 > **[3:46](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=226)** Extensions that can scan for security vulnerabilities in code and dependencies help ensure that applications are secure.
 >
@@ -3934,7 +3882,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=256)** They provide features like source control integration, work item tracking, and build management directly within the editor.
 >
-> **[4:23](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=263)** This is the code review and pull request category.
+> **[4:23](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=263)** This is the [[Code Review]] and pull request category.
 >
 > **[4:25](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=265)** These extensions enhance the code review process and manage pull request more effectively.
 >
@@ -3946,9 +3894,9 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=284)** They help view integrate with external services, enabling automated workflows and notifications.
 >
-> **[4:50](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=290)** Service hooks can trigger actions in other services, such as sending a message to a Slack channel when a build completes or creating a new issue in GitHub when a work item is updated.
+> **[4:50](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=290)** Service hooks can trigger actions in other services, such as sending a message to a Slack channel when a build completes or creating a new issue in [[GitHub]] when a work item is updated.
 >
-> **[5:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=300)** You could, for example, automatically create a card in Trello when a work item is created, or send a push notification to your team's mobile devices if a build fails.
+> **[5:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=300)** You could, for example, automatically create a card in [[Trello]] when a work item is created, or send a push notification to your team's mobile devices if a build fails.
 >
 > **[5:08](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=308)** Service are based on the publisher/subscriber design pattern.
 >
@@ -3956,11 +3904,11 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=318)** You can create subscriptions for those events in the subscriber applications.
 >
-> **[5:22](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=322)** In this example, we have Microsoft Office UserVoice and Azure Storage acting as subscribers.
+> **[5:22](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=322)** In this example, we have [[Microsoft Office]] UserVoice and Azure Storage acting as subscribers.
 >
 > **[5:27](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=327)** Each subscriber defines the action to take when the event is triggered.
 >
-> **[5:31](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=331)** For instance, you could add a row to an Excel table or update a feature request on UserVoice.
+> **[5:31](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=331)** For instance, you could add a row to an [[Microsoft Excel|Excel]] table or update a feature request on UserVoice.
 >
 > **[5:36](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/extensibility-and-integration-overview?u=76281980&t=336)** If none of the published extensions in the marketplace meet your needs, you can create your own.
 >
@@ -3970,7 +3918,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), [[DevOps]] (8), [[Microsoft]] (5), management (5), teams (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), [[DevOps]] (8), [[Microsoft]] (5), [[Slack]] (4), [[Code Review]] (3)
 > **Analogies:** for example (4), such as (4), for instance (1)
 > **Tools:** slack (4), visual studio (2), discord (1), github (1)
 > **Env Vars:** api (2), rest (1)
@@ -3979,20 +3927,19 @@ created: 2026-05-02
 > **UI Navigation:** click on (1), scroll down (1)
 > **URLs:** [visualstudio.com](https://visualstudio.com) (1)
 
-#### Add Azure DevOps apps to Slack
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-azure-devops-apps-to-slack?u=76281980)
+#### [Add Azure DevOps apps to Slack](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-azure-devops-apps-to-slack?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-azure-devops-apps-to-slack?u=76281980&t=0)** - [Instructor] To add an app to a workspace, open your workspace in Slack, then go to the bottom of the left sidebar and choose Add Apps, and then search for your app here.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-azure-devops-apps-to-slack?u=76281980&t=0)** - [Instructor] To add an app to a workspace, open your workspace in [[Slack]], then go to the bottom of the left sidebar and choose Add Apps, and then search for your app here.
 >
-> **[0:11](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-azure-devops-apps-to-slack?u=76281980&t=11)** I'll look for Azure.
+> **[0:11](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-azure-devops-apps-to-slack?u=76281980&t=11)** I'll look for [[Microsoft Azure|Azure]].
 >
 > **[0:13](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-azure-devops-apps-to-slack?u=76281980&t=13)** You'll see a list of apps that start with Azure.
 >
-> **[0:15](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-azure-devops-apps-to-slack?u=76281980&t=15)** It's a similar experience in Microsoft Teams.
+> **[0:15](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-azure-devops-apps-to-slack?u=76281980&t=15)** It's a similar experience in [[Microsoft Teams]].
 >
-> **[0:18](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-azure-devops-apps-to-slack?u=76281980&t=18)** Now, in this case, I've already installed three of these apps, so these top three items are from DevOps, and you can see, I can tell they're installed because I can see 'em over here in the left sidebar, but also they don't have the Add button.
+> **[0:18](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-azure-devops-apps-to-slack?u=76281980&t=18)** Now, in this case, I've already installed three of these apps, so these top three items are from [[DevOps]], and you can see, I can tell they're installed because I can see 'em over here in the left sidebar, but also they don't have the Add button.
 >
 > **[0:29](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/add-azure-devops-apps-to-slack?u=76281980&t=29)** For the apps that I haven't added yet, I would click on the Add button.
 >
@@ -4010,18 +3957,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[DevOps]] (2), [[Slack]] (1), [[Search]] (1), [[Microsoft Teams]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[DevOps]] (2), [[Slack]] (1), [[Microsoft Teams]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Tools:** slack (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure Slack channel to work with DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/configure-slack-channel-to-work-with-devops?u=76281980)
+#### [Configure Slack channel to work with DevOps](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/configure-slack-channel-to-work-with-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/configure-slack-channel-to-work-with-devops?u=76281980&t=0)** - [Instructor] Now I have the application installed, I want to start configuring it to work with my DevOps project.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/configure-slack-channel-to-work-with-devops?u=76281980&t=0)** - [Instructor] Now I have the application installed, I want to start configuring it to work with my [[DevOps]] project.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/configure-slack-channel-to-work-with-devops?u=76281980&t=5)** You can see that there's some items listed here.
 >
@@ -4031,7 +3977,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/configure-slack-channel-to-work-with-devops?u=76281980&t=13)** Press that, press enter.
 >
-> **[0:17](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/configure-slack-channel-to-work-with-devops?u=76281980&t=17)** And it tells me I'm already signed into Azure Repos with my instructor account.
+> **[0:17](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/configure-slack-channel-to-work-with-devops?u=76281980&t=17)** And it tells me I'm already signed into [[Microsoft Azure|Azure]] Repos with my instructor account.
 >
 > **[0:21](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/configure-slack-channel-to-work-with-devops?u=76281980&t=21)** So that looks good.
 >
@@ -4045,7 +3991,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/configure-slack-channel-to-work-with-devops?u=76281980&t=37)** So I switch over to the DevOps portal, open my repo, grab this URL, and click here.
 >
-> **[0:48](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/configure-slack-channel-to-work-with-devops?u=76281980&t=48)** Slack enters the beginning part of the command azrepos.
+> **[0:48](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/configure-slack-channel-to-work-with-devops?u=76281980&t=48)** [[Slack]] enters the beginning part of the command azrepos.
 >
 > **[0:52](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/configure-slack-channel-to-work-with-devops?u=76281980&t=52)** And then I'll say subscribe.
 >
@@ -4059,18 +4005,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (2), [[Slack]] (2), application (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[Slack]] (2), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** url (3)
 > **Tools:** slack (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Examine configuration messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/examine-configuration-messages?u=76281980)
+#### [Examine configuration messages](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/examine-configuration-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/examine-configuration-messages?u=76281980&t=0)** - [Instructor] Let's take a look at some of the messages we can get from DevOps.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/examine-configuration-messages?u=76281980&t=0)** - [Instructor] Let's take a look at some of the messages we can get from [[DevOps]].
 >
 > **[0:03](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/examine-configuration-messages?u=76281980&t=3)** I'll go to board-messages.
 >
@@ -4078,7 +4023,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/examine-configuration-messages?u=76281980&t=7)** And you can see some of the commands I've issued.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/examine-configuration-messages?u=76281980&t=8)** So I started with Azure Boards.
+> **[0:08](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/examine-configuration-messages?u=76281980&t=8)** So I started with [[Microsoft Azure|Azure]] Boards.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/examine-configuration-messages?u=76281980&t=10)** I signed in.
 >
@@ -4120,16 +4065,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (1), [[Microsoft Azure|Azure]] (1), product (1)
+> **Frameworks & Libraries:** [[DevOps]] (1), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** click on (2), go to (1), scroll up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Watch integration message flow into Slack
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/watch-integration-message-flow-into-slack?u=76281980)
+#### [Watch integration message flow into Slack](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/watch-integration-message-flow-into-slack?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/watch-integration-message-flow-into-slack?u=76281980&t=0)** - [Instructor] This video, I'll make some changes in the Azure DevOps Boards, and we'll see the results showing up, the notifications showing up in Slack.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/watch-integration-message-flow-into-slack?u=76281980&t=0)** - [Instructor] This video, I'll make some changes in the [[Microsoft Azure|Azure]] [[DevOps]] Boards, and we'll see the results showing up, the notifications showing up in [[Slack]].
 >
 > **[0:06](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/watch-integration-message-flow-into-slack?u=76281980&t=6)** I have Azure DevOps portal open and I've opened the Azure Boards view.
 >
@@ -4153,14 +4097,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[DevOps]] (3), [[Slack]] (2), web (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[DevOps]] (3), [[Slack]] (2)
 > **CLI Commands:** make (3)
 > **Tools:** slack (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### What extensions can contribute
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-extensions-can-contribute?u=76281980)
+#### [What extensions can contribute](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-extensions-can-contribute?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4168,7 +4111,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-extensions-can-contribute?u=76281980&t=7)** Later in this chapter, we'll explore two free extensions from the marketplace.
 >
-> **[0:11](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-extensions-can-contribute?u=76281980&t=11)** One interesting aspect of extensions is that they can alter the user interface here in the DevOps portal.
+> **[0:11](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-extensions-can-contribute?u=76281980&t=11)** One interesting aspect of extensions is that they can alter the user interface here in the [[DevOps]] portal.
 >
 > **[0:17](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/what-extensions-can-contribute?u=76281980&t=17)** They can add tabs, pages, sections, and context menus.
 >
@@ -4208,14 +4151,13 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use the marketplace to install free extensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-marketplace-to-install-free-extensions?u=76281980)
+#### [Use the marketplace to install free extensions](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-marketplace-to-install-free-extensions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-marketplace-to-install-free-extensions?u=76281980&t=0)** - Let's see how to install an extension.
 >
-> **[0:02](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-marketplace-to-install-free-extensions?u=76281980&t=2)** First step is to go to this section on the DevOps portal.
+> **[0:02](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-marketplace-to-install-free-extensions?u=76281980&t=2)** First step is to go to this section on the [[DevOps]] portal.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-marketplace-to-install-free-extensions?u=76281980&t=6)** Click here and choose Browse Marketplace.
 >
@@ -4223,13 +4165,13 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-marketplace-to-install-free-extensions?u=76281980&t=11)** The first one we're looking for is called Code Search.
 >
-> **[0:15](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-marketplace-to-install-free-extensions?u=76281980&t=15)** This is a free extension from Microsoft.
+> **[0:15](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-marketplace-to-install-free-extensions?u=76281980&t=15)** This is a free extension from [[Microsoft]].
 >
 > **[0:21](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-marketplace-to-install-free-extensions?u=76281980&t=21)** This is the one we're looking for.
 >
 > **[0:23](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-marketplace-to-install-free-extensions?u=76281980&t=23)** I'll select this extension.
 >
-> **[0:24](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-marketplace-to-install-free-extensions?u=76281980&t=24)** It's useful as it allows us to search through our repository code with the Azure search engine.
+> **[0:24](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-marketplace-to-install-free-extensions?u=76281980&t=24)** It's useful as it allows us to search through our repository code with the [[Microsoft Azure|Azure]] search engine.
 >
 > **[0:31](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-marketplace-to-install-free-extensions?u=76281980&t=31)** Click here to get it free.
 >
@@ -4249,15 +4191,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), next (2), [[DevOps]] (1), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (1), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1)
 > **Prerequisites:** install (3)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** go to (1), dropdown (1)
 > **Definitions:** is called (1), is a  (1)
 > **Speakers:** - let (1)
 
-#### Use the code search extension
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-code-search-extension?u=76281980)
+#### [Use the code search extension](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-code-search-extension?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4269,7 +4210,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-code-search-extension?u=76281980&t=20)** So this is showing that not only can I search through my work items, but I can also search through my code.
 >
-> **[0:26](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-code-search-extension?u=76281980&t=26)** So if I look for a word like print, in my results, I get 37 code results, and I can see there's 37 code results and there's five work item results.
+> **[0:26](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-code-search-extension?u=76281980&t=26)** So if I look for a [[Microsoft Word|word]] like print, in my results, I get 37 code results, and I can see there's 37 code results and there's five work item results.
 >
 > **[0:38](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-code-search-extension?u=76281980&t=38)** Without the code search extension, I would only see the work items.
 >
@@ -4277,7 +4218,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-code-search-extension?u=76281980&t=57)** I know for sure it's in this index.cshtml file because we worked on that in this course.
 >
-> **[1:03](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-code-search-extension?u=76281980&t=63)** Now I want to look for files with the JavaScript extension, so I'll say ext: JavaScript or js, do a search.
+> **[1:03](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-code-search-extension?u=76281980&t=63)** Now I want to look for files with the [[JavaScript]] extension, so I'll say ext: JavaScript or js, do a search.
 >
 > **[1:15](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-code-search-extension?u=76281980&t=75)** Now it's returning matches for just our JavaScript files.
 >
@@ -4293,12 +4234,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (9), [[JavaScript]] (4), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Microsoft Word|Word]] (2)
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Use the persona extension
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-persona-extension?u=76281980)
+#### [Use the persona extension](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-persona-extension?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4348,11 +4288,11 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-persona-extension?u=76281980&t=90)** And now, we can see that personas affected is Shanice.
 >
-> **[1:33](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-persona-extension?u=76281980&t=93)** So this is one of the examples of how you can extend the feature set of Azure DevOps with extensions.
+> **[1:33](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/use-the-persona-extension?u=76281980&t=93)** So this is one of the examples of how you can extend the feature set of [[Microsoft Azure|Azure]] [[DevOps]] with extensions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), teams (1), [[Microsoft Azure|Azure]] (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[DevOps]] (1)
 > **UI Navigation:** click on (3)
 > **Analogies:** picture (3)
 > **Cross-References:** go back to (1)
@@ -4364,30 +4304,29 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Streamline dependencies with Azure Artifacts
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980)
+#### [Streamline dependencies with Azure Artifacts](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=0)** - [Instructor] In modern software development, efficient management of dependencies and package sharing is crucial for maintaining smooth and effective workflows.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=0)** - [Instructor] In modern [[Software Development]], efficient management of dependencies and package sharing is crucial for maintaining smooth and effective workflows.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=8)** The complexity increases significantly as software projects grow in size and age.
+> **[0:08](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=8)** The complexity increases significantly as [[Software Projects]] grow in size and age.
 >
 > **[0:13](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=13)** Imagine this scenario.
 >
-> **[0:15](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=15)** A company is developing a large-scale application using a microservices architecture.
+> **[0:15](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=15)** A company is developing a large-scale application using a [[Microservices]] architecture.
 >
 > **[0:21](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=21)** Each microservice is developed, tested, and deployed independently by different teams using various programming languages and package managers.
 >
-> **[0:29](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=29)** Those package managers could be NPM for JavaScript, NuGet for dotnet, and pip for Python.
+> **[0:29](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=29)** Those package managers could be [[npm]] for [[JavaScript]], NuGet for dotnet, and pip for [[Python (Programming Language)|Python]].
 >
 > **[0:35](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=35)** This distributed development approach, while powerful, introduces several challenges.
 >
-> **[0:40](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=40)** One is dependency management.
+> **[0:40](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=40)** One is [[Dependency Management]].
 >
 > **[0:42](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=42)** We need to ensure that all microservices consistently use the correct versions of shared libraries and dependencies.
 >
-> **[0:49](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=49)** What about version control?
+> **[0:49](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=49)** What about [[Version Control]]?
 >
 > **[0:50](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=50)** We need to track different package versions and maintain backwards compatibility.
 >
@@ -4401,9 +4340,9 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=73)** The ones written for the company and not intended for outside consumption?
 >
-> **[1:17](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=77)** That brings us to Azure Artifacts.
+> **[1:17](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=77)** That brings us to [[Microsoft Azure|Azure]] Artifacts.
 >
-> **[1:20](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=80)** It is a universal package management tool designed to address these challenges.
+> **[1:20](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=80)** It is a universal [[Package Management]] tool designed to address these challenges.
 >
 > **[1:24](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=84)** It provides a centralized repository for storing all packages.
 >
@@ -4417,7 +4356,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=109)** This flexibility allows teams to manage all their dependencies in one place regardless of the programming languages or technologies they use.
 >
-> **[1:58](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=118)** One of the standout features is its seamless integration with Azure DevOps, you can easily integrate package management into your continuous integration and continuous deployment pipelines, ensuring that your applications always have access to the latest and correct dependencies.
+> **[1:58](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=118)** One of the standout features is its seamless integration with Azure [[DevOps]], you can easily integrate package management into your [[Continuous Integration (CI)|continuous integration]] and continuous deployment pipelines, ensuring that your applications always have access to the latest and correct dependencies.
 >
 > **[2:13](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/streamline-dependencies-with-azure-artifacts?u=76281980&t=133)** Security is a top priority when it comes to managing those packages.
 >
@@ -4461,7 +4400,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), teams (8), [[Programming]] (3), [[Security]] (3), application (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Microservices]] (2), [[npm]] (2), [[Dependency Management]] (2), [[Package Management]] (2)
 > **CLI Commands:** npm (2), dotnet (1), pip (1), python (1), cd (1)
 > **Env Vars:** npm (2)
 > **Definitions:** is a  (2)
@@ -4469,14 +4408,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enhance testing efficiency with Azure Test Plans
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/enhance-testing-efficiency-with-azure-test-plans?u=76281980)
+#### [Enhance testing efficiency with Azure Test Plans](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/enhance-testing-efficiency-with-azure-test-plans?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/enhance-testing-efficiency-with-azure-test-plans?u=76281980&t=0)** - [Presenter] In the rapidly evolving landscape of software development, maintaining high standards of quality is paramount.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/enhance-testing-efficiency-with-azure-test-plans?u=76281980&t=0)** - [Presenter] In the rapidly evolving landscape of [[Software Development]], maintaining high standards of quality is paramount.
 >
-> **[0:07](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/enhance-testing-efficiency-with-azure-test-plans?u=76281980&t=7)** Azure Test Plans, a comprehensive testing solution integrated within Azure DevOps, offers a robust framework to ensure that applications are reliable, functional, and user-friendly.
+> **[0:07](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/enhance-testing-efficiency-with-azure-test-plans?u=76281980&t=7)** [[Microsoft Azure|Azure]] Test Plans, a comprehensive testing solution integrated within Azure [[DevOps]], offers a robust framework to ensure that applications are reliable, functional, and user-friendly.
 >
 > **[0:18](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/enhance-testing-efficiency-with-azure-test-plans?u=76281980&t=18)** Let's talk about the two separate testing segments in Azure DevOps.
 >
@@ -4486,7 +4424,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/enhance-testing-efficiency-with-azure-test-plans?u=76281980&t=29)** It supports a range of tests including unit, integration, regression, and UI tests.
 >
-> **[0:34](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/enhance-testing-efficiency-with-azure-test-plans?u=76281980&t=34)** Azure Test Plans, on the other hand, provide a comprehensive suite of testing tools within the Azure DevOps ecosystem designed to support all types of testing needs, including manual testing, exploratory testing, and automated testing.
+> **[0:34](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/enhance-testing-efficiency-with-azure-test-plans?u=76281980&t=34)** Azure Test Plans, on the other hand, provide a comprehensive suite of testing tools within the Azure DevOps ecosystem designed to support all types of testing needs, including [[Manual Testing]], exploratory testing, and automated testing.
 >
 > **[0:49](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/enhance-testing-efficiency-with-azure-test-plans?u=76281980&t=49)** Azure Test Plans is tailored for managing and executing tests to ensure software quality, while Azure Pipelines provides a framework for automating the entire software release process from code commit to production deployment.
 >
@@ -4502,7 +4440,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/enhance-testing-efficiency-with-azure-test-plans?u=76281980&t=89)** Exploratory testing helps uncover defects and improve application quality.
 >
-> **[1:35](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/enhance-testing-efficiency-with-azure-test-plans?u=76281980&t=95)** Exploratory testing is an approach to software testing where the testers actively explore the application without predefined test cases.
+> **[1:35](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/enhance-testing-efficiency-with-azure-test-plans?u=76281980&t=95)** Exploratory testing is an approach to [[Software Testing]] where the testers actively explore the application without predefined test cases.
 >
 > **[1:43](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/enhance-testing-efficiency-with-azure-test-plans?u=76281980&t=103)** Instead of following a strict script, testers use their creativity, intuition, and knowledge of the application to identify defects.
 >
@@ -4532,22 +4470,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), [[DevOps]] (6), application (5), [[Software Development]] (3), functional (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), [[DevOps]] (6), [[Software Development]] (3), [[Manual Testing]] (1), [[Software Testing]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Cross-References:** we talked about (1), earlier in (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [presenter] (1)
 
-#### GitHub actions versus Azure Devops
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/github-actions-versus-azure-devops?u=76281980)
+#### [GitHub actions versus Azure Devops](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/github-actions-versus-azure-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/github-actions-versus-azure-devops?u=76281980&t=0)** - [Instructor] We've spent the entire course exploring the features of Azure DevOps.
+> **[0:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/github-actions-versus-azure-devops?u=76281980&t=0)** - [Instructor] We've spent the entire course exploring the features of [[Microsoft Azure|Azure]] [[DevOps]].
 >
-> **[0:04](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/github-actions-versus-azure-devops?u=76281980&t=4)** Given that Microsoft also owns GitHub, you might be curious about what GitHub has to offer in the realm of DevOps.
+> **[0:04](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/github-actions-versus-azure-devops?u=76281980&t=4)** Given that [[Microsoft]] also owns [[GitHub]], you might be curious about what GitHub has to offer in the realm of DevOps.
 >
-> **[0:12](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/github-actions-versus-azure-devops?u=76281980&t=12)** Both are powerful platforms designed to support the software development lifecycle, but they cater to slightly different needs and audiences.
+> **[0:12](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/github-actions-versus-azure-devops?u=76281980&t=12)** Both are powerful platforms designed to support the [[Software Development]] lifecycle, but they cater to slightly different needs and audiences.
 >
 > **[0:19](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/github-actions-versus-azure-devops?u=76281980&t=19)** GitHub actions enables CI CD automation, allowing you to build, test, and deploy your code directly from GitHub.
 >
@@ -4565,7 +4502,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/github-actions-versus-azure-devops?u=76281980&t=53)** Azure Boards offers an equivalent feature for project management and issue tracking.
 >
-> **[0:58](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/github-actions-versus-azure-devops?u=76281980&t=58)** GitHub Codespaces provides a cloud-based development environment, ensuring consistency and flexibility in your workflow.
+> **[0:58](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/github-actions-versus-azure-devops?u=76281980&t=58)** GitHub [[Codespaces]] provides a cloud-based development environment, ensuring consistency and flexibility in your workflow.
 >
 > **[1:05](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/github-actions-versus-azure-devops?u=76281980&t=65)** Microsoft previously offered Visual Studio Codespaces a similar service, which has since been integrated into GitHub Codespaces.
 >
@@ -4577,7 +4514,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/github-actions-versus-azure-devops?u=76281980&t=98)** Lastly, GitHub repo serves as the core of your project in GitHub.
 >
-> **[1:43](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/github-actions-versus-azure-devops?u=76281980&t=103)** This has become the go-to for version control and collaboration due to its seamless integration with other development tools, extensive community support, and powerful features like pull requests, branch management, and code review capabilities.
+> **[1:43](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/github-actions-versus-azure-devops?u=76281980&t=103)** This has become the go-to for [[Version Control]] and collaboration due to its seamless integration with other development tools, extensive community support, and powerful features like pull requests, branch management, and [[Code Review]] capabilities.
 >
 > **[1:57](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/github-actions-versus-azure-devops?u=76281980&t=117)** This is akin to Azure Repos.
 >
@@ -4601,7 +4538,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/github-actions-versus-azure-devops?u=76281980&t=170)** You can automate issue movements across columns in the boards based on triggers.
 >
-> **[2:55](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/github-actions-versus-azure-devops?u=76281980&t=175)** GitHub packages, this is for package management, you can host and manage packages for various languages, including MPM, maven, NuGet, and Docker.
+> **[2:55](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/github-actions-versus-azure-devops?u=76281980&t=175)** GitHub packages, this is for [[Package Management]], you can host and manage packages for various languages, including MPM, maven, NuGet, and Docker.
 >
 > **[3:04](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/github-actions-versus-azure-devops?u=76281980&t=184)** It of course, integrates with GitHub repositories for easy publishing and consumption of packages.
 >
@@ -4621,13 +4558,13 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/github-actions-versus-azure-devops?u=76281980&t=240)** Also has templates, use issued templates to standardize reporting.
 >
-> **[4:05](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/github-actions-versus-azure-devops?u=76281980&t=245)** GitHub offers a comprehensive suite of tools that cater to various aspects of the software development lifecycle, including continuous integration and continuous deployment, project management, package management, development environments, issue tracking, community engagement, security and analytics.
+> **[4:05](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/github-actions-versus-azure-devops?u=76281980&t=245)** GitHub offers a comprehensive suite of tools that cater to various aspects of the software development lifecycle, including [[Continuous Integration (CI)|continuous integration]] and continuous deployment, project management, package management, development environments, issue tracking, community engagement, security and analytics.
 >
 > **[4:22](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/github-actions-versus-azure-devops?u=76281980&t=262)** These tools are designed to integrate seamlessly with GitHub repositories, providing a cohesive and efficient workflow or developers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (31), [[Microsoft Azure|Azure]] (11), [[Security]] (7), [[DevOps]] (5), management (5)
+> **Frameworks & Libraries:** [[GitHub]] (31), [[Microsoft Azure|Azure]] (11), [[DevOps]] (5), [[Codespaces]] (4), [[Microsoft]] (2)
 > **Tools:** github (31), visual studio (1)
 > **CLI Commands:** cd (1), docker (1)
 > **Env Vars:** api (1), mpm (1)
@@ -4641,8 +4578,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4650,11 +4586,11 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/next-steps?u=76281980&t=3)** It's been a journey.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/next-steps?u=76281980&t=4)** We explored a range of Azure DevOps services.
+> **[0:04](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/next-steps?u=76281980&t=4)** We explored a range of [[Azure DevOps Services]].
 >
 > **[0:07](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/next-steps?u=76281980&t=7)** Perhaps you are wondering what to do next.
 >
-> **[0:09](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/next-steps?u=76281980&t=9)** In this course, we focused specifically on Microsoft's Azure DevOps.
+> **[0:09](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/next-steps?u=76281980&t=9)** In this course, we focused specifically on [[Microsoft]]'s [[Microsoft Azure|Azure]] [[DevOps]].
 >
 > **[0:14](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/next-steps?u=76281980&t=14)** While we covered many topics, it's important to be realistic.
 >
@@ -4662,9 +4598,9 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/next-steps?u=76281980&t=23)** My goal was to identify the core elements of Azure DevOps and provide a broad overview of what Microsoft offers.
 >
-> **[0:30](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/next-steps?u=76281980&t=30)** When it's time to dive deeper into DevOps, consider exploring additional courses available on LinkedIn Learning.
+> **[0:30](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/next-steps?u=76281980&t=30)** When it's time to dive deeper into DevOps, consider exploring additional courses available on [[LinkedIn]] Learning.
 >
-> **[0:36](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/next-steps?u=76281980&t=36)** These courses cover various aspects of DevOps, from advanced automation techniques, to in-depth practices for continuous integration and deployment.
+> **[0:36](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/next-steps?u=76281980&t=36)** These courses cover various aspects of DevOps, from advanced automation techniques, to in-depth practices for [[Continuous Integration (CI)|continuous integration]] and deployment.
 >
 > **[0:45](https://www.linkedin.com/learning/azure-devops-for-beginners-23145679/next-steps?u=76281980&t=45)** In addition to the general DevOps principles, there is a wealth of Azure DevOps-specific content available.
 >
@@ -4682,7 +4618,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (7), [[Microsoft Azure|Azure]] (4), next (2), [[Microsoft]] (2), [[Azure DevOps Services]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (7), [[Microsoft Azure|Azure]] (4), [[Microsoft]] (2), [[Azure DevOps Services]] (1), [[LinkedIn]] (1)
 > **Cross-References:** we covered (1), in the next (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)

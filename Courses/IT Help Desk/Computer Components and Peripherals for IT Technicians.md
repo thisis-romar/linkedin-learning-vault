@@ -93,8 +93,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Expand PC capabilities with peripherals
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/expand-pc-capabilities-with-peripherals?u=76281980)
+#### [Expand PC capabilities with peripherals](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/expand-pc-capabilities-with-peripherals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -126,8 +125,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring the computer system
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-computer-system?u=76281980)
+#### [Exploring the computer system](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-computer-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -169,14 +167,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1)
 > **Env Vars:** ibm (2), cpu (2)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
 
-#### Understanding peripherals
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-peripherals?u=76281980)
+#### [Understanding peripherals](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-peripherals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -222,14 +218,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1)
 > **Analogies:** such as (2)
 > **Env Vars:** usb (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Working with connectors and connections
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/working-with-connectors-and-connections?u=76281980)
+#### [Working with connectors and connections](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/working-with-connectors-and-connections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -325,7 +319,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), feature (1), power (1)
 > **Env Vars:** usb (23), trs (1), rj45 (1), hdmi (1)
 > **Versions:** 3.0 (4), 2.0 (2)
 > **CLI Commands:** find (2)
@@ -339,14 +332,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Opening the case
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/opening-the-case?u=76281980)
+#### [Opening the case](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/opening-the-case?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/opening-the-case?u=76281980&t=1)** - Please be careful when opening the computer box.
 >
-> **[0:03](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/opening-the-case?u=76281980&t=3)** Your goal is to get inside without damaging the electronics, or yourself.
+> **[0:03](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/opening-the-case?u=76281980&t=3)** Your goal is to get inside without damaging the [[Electronics]], or yourself.
 >
 > **[0:09](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/opening-the-case?u=76281980&t=9)** This type of computer box is designed for internal expansion and upgrades.
 >
@@ -382,7 +374,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/opening-the-case?u=76281980&t=114)** For now, I'd like to show you how to do a little cleaning.
 >
-> **[1:57](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/opening-the-case?u=76281980&t=117)** This computer is rather new, but yours probably isn't, especially if you have a home office and pets, you should perform some internal cleaning.
+> **[1:57](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/opening-the-case?u=76281980&t=117)** This computer is rather new, but yours probably isn't, especially if you have a home [[Microsoft Office|office]] and pets, you should perform some internal cleaning.
 >
 > **[2:06](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/opening-the-case?u=76281980&t=126)** Two items you need are a can of air, and if you have one, a tiny vacuum cleaner.
 >
@@ -406,7 +398,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/opening-the-case?u=76281980&t=182)** When you're ready, you can close the case.
 >
-> **[3:06](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/opening-the-case?u=76281980&t=186)** (case rattling and thumping) If I'm doing a hardware upgrade or any modifications, I just set the cover on the box.
+> **[3:06](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/opening-the-case?u=76281980&t=186)** (case rattling and thumping) If I'm doing a [[Hardware]] upgrade or any modifications, I just set the cover on the box.
 >
 > **[3:17](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/opening-the-case?u=76281980&t=197)** This way I can turn on the machine and ensure that the upgrade or repair worked.
 >
@@ -416,14 +408,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), [[Electronics]] (1), data (1), [[Microsoft Office|Office]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Electronics]] (1), [[Microsoft Office|Office]] (1), [[Hardware]] (1)
 > **Warnings:** be careful (1), troubleshoot (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - please (1)
 
-#### Looking inside the box
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/looking-inside-the-box?u=76281980)
+#### [Looking inside the box](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/looking-inside-the-box?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -453,7 +444,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/looking-inside-the-box?u=76281980&t=68)** Expansion slots provide for internal expansion.
 >
-> **[1:12](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/looking-inside-the-box?u=76281980&t=72)** These cards include video adapters, high-end audio and other hardware plugged directly into one of these slots.
+> **[1:12](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/looking-inside-the-box?u=76281980&t=72)** These cards include video adapters, high-end audio and other [[Hardware]] plugged directly into one of these slots.
 >
 > **[1:19](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/looking-inside-the-box?u=76281980&t=79)** The motherboard is also host to these connectors.
 >
@@ -499,15 +490,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (6), [[Hardware]] (1), next (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Env Vars:** cpu (3), ram (1), ssd (1), usb (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** such as (1)
 > **Speakers:** - inside (1)
 
-#### Exploring the motherboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-motherboard?u=76281980)
+#### [Exploring the motherboard](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-motherboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -519,7 +509,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-motherboard?u=76281980&t=15)** Rather than open up the computer and look at the motherboard directly, you can run the DirectX Diagnostic Tool to gather some motherboard details.
 >
-> **[0:25](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-motherboard?u=76281980&t=25)** Press the Windows + r keyboard shortcut and type dxdiag, press Enter.
+> **[0:25](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-motherboard?u=76281980&t=25)** Press the [[Windows]] + r keyboard shortcut and type dxdiag, press Enter.
 >
 > **[0:33](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-motherboard?u=76281980&t=33)** If you're prompted about digitally signed drivers, click the Yes button, and the DirectX Diagnostic Tool may take time to open.
 >
@@ -533,7 +523,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-motherboard?u=76281980&t=70)** The processor, or CPU, is the main chip on the motherboard.
 >
-> **[1:14](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-motherboard?u=76281980&t=74)** The computer's software controls the processor which runs the rest of the computer system.
+> **[1:14](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-motherboard?u=76281980&t=74)** The computer's software controls the processor which runs the [[Representational State Transfer (REST)|rest]] of the computer system.
 >
 > **[1:20](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-motherboard?u=76281980&t=80)** If you're looking at a motherboard, you may not see the processor directly.
 >
@@ -549,9 +539,9 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-motherboard?u=76281980&t=108)** These chips include the chipset or BIOS.
 >
-> **[1:51](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-motherboard?u=76281980&t=111)** The chipset supplies basic communications as well as the smarts to run PC hardware.
+> **[1:51](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-motherboard?u=76281980&t=111)** The chipset supplies basic communications as well as the smarts to run PC [[Hardware]].
 >
-> **[1:57](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-motherboard?u=76281980&t=117)** Much of these electronics were once peripherals added to the system, including the clock timer, Input/Output hardware such as USB ports, audio capabilities, the networking adapter, basic graphics, the keyboard and mouse controller, and so on.
+> **[1:57](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-motherboard?u=76281980&t=117)** Much of these [[Electronics]] were once peripherals added to the system, including the clock timer, Input/Output hardware such as USB ports, audio capabilities, the networking adapter, basic graphics, the keyboard and mouse controller, and so on.
 >
 > **[2:13](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-motherboard?u=76281980&t=133)** Also found on the motherboard is a tiny battery which helps the computer clock keep track of the time when the power is off.
 >
@@ -595,15 +585,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Hardware]] (2), power (2), [[Representational State Transfer (REST)|Rest]] (1), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Hardware]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Electronics]] (1)
 > **Env Vars:** cpu (3), ram (3), bios (1), usb (1)
 > **Definitions:** known as (2), is a  (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
-#### Accessing internal storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-internal-storage?u=76281980)
+#### [Accessing internal storage](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-internal-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -663,14 +652,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), data (3)
 > **CLI Commands:** rails (2)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding power and cooling
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-power-and-cooling?u=76281980)
+#### [Understanding power and cooling](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-power-and-cooling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -710,7 +697,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-power-and-cooling?u=76281980&t=98)** Therefore, a viable reason to replace a power supply would be when adding another video card or multiple mass storage devices.
 >
-> **[1:47](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-power-and-cooling?u=76281980&t=107)** These hardware devices, video cards and hard drives specify their power requirements in watts.
+> **[1:47](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-power-and-cooling?u=76281980&t=107)** These [[Hardware]] devices, video cards and hard drives specify their power requirements in watts.
 >
 > **[1:54](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-power-and-cooling?u=76281980&t=114)** So you total up all the watts to determine how many are needed by the power supply, what it should provide.
 >
@@ -718,7 +705,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-power-and-cooling?u=76281980&t=125)** It may blow up or, more politely, it dies.
 >
-> **[2:09](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-power-and-cooling?u=76281980&t=129)** But the rest of the system survives.
+> **[2:09](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-power-and-cooling?u=76281980&t=129)** But the [[Representational State Transfer (REST)|rest]] of the system survives.
 >
 > **[2:11](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-power-and-cooling?u=76281980&t=131)** You just replace the power supply with one of higher wattage and you're good to go.
 >
@@ -772,7 +759,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (33), feature (2), [[Hardware]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** atx (1), atx12v (1), cpu (1), sata (1), ata (1)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** select the (1), open the (1)
@@ -781,8 +768,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Closing the case
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/closing-the-case?u=76281980)
+#### [Closing the case](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/closing-the-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -830,7 +816,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/closing-the-case?u=76281980&t=127)** If you forgot to reconnect an internal component, the sequence is different or it reports an error.
 >
-> **[2:13](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/closing-the-case?u=76281980&t=133)** Once Windows appears, you're done.
+> **[2:13](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/closing-the-case?u=76281980&t=133)** Once [[Windows]] appears, you're done.
 >
 > **[2:16](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/closing-the-case?u=76281980&t=136)** The operation was a success.
 >
@@ -850,7 +836,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/closing-the-case?u=76281980&t=169)** If the screen stayed dark, then check the video connector.
 >
-> **[2:52](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/closing-the-case?u=76281980&t=172)** Don't discount that you may have installed malfunctioning hardware.
+> **[2:52](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/closing-the-case?u=76281980&t=172)** Don't discount that you may have installed malfunctioning [[Hardware]].
 >
 > **[2:56](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/closing-the-case?u=76281980&t=176)** Perhaps a memory card you added was dead or the new power supply doesn't work.
 >
@@ -866,7 +852,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (10), [[Windows]] (2), data (1), [[Hardware]] (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Hardware]] (1)
 > **Analogies:** for example (2)
 > **Speakers:** - when (1)
 
@@ -875,8 +861,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the processor
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-the-processor?u=76281980)
+#### [Understanding the processor](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-the-processor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -888,9 +873,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-the-processor?u=76281980&t=16)** These orders are given by software.
 >
-> **[0:19](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-the-processor?u=76281980&t=19)** The software in charge is the operating system, such as Windows or Linux.
+> **[0:19](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-the-processor?u=76281980&t=19)** The software in charge is the operating system, such as [[Windows]] or [[Linux]].
 >
-> **[0:23](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-the-processor?u=76281980&t=23)** It tells the processor what to do and how to control the rest of the computer.
+> **[0:23](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-the-processor?u=76281980&t=23)** It tells the processor what to do and how to control the [[Representational State Transfer (REST)|rest]] of the computer.
 >
 > **[0:28](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-the-processor?u=76281980&t=28)** Yet when you peel back the complexity, the processor works like a very fast and complicated calculator.
 >
@@ -972,15 +957,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), power (2), traffic (1), [[Linux]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Linux]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cpu (8)
 > **Analogies:** such as (2), for example (2)
 > **Definitions:** refers to (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reviewing memory requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/reviewing-memory-requirements?u=76281980)
+#### [Reviewing memory requirements](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/reviewing-memory-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1032,7 +1016,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/reviewing-memory-requirements?u=76281980&t=179)** Like the CPU, RAM has many technical gauges by which it's measured.
 >
-> **[3:04](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/reviewing-memory-requirements?u=76281980&t=184)** Most of these items are tied to the motherboard type so even if you could install newfangled better memory the system's hardware may not be capable of using the extra features.
+> **[3:04](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/reviewing-memory-requirements?u=76281980&t=184)** Most of these items are tied to the motherboard type so even if you could install newfangled better memory the system's [[Hardware]] may not be capable of using the extra features.
 >
 > **[3:15](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/reviewing-memory-requirements?u=76281980&t=195)** Of all the technical RAM descriptions, the most common mentioned is speed measured in nanoseconds or one billionth of a second.
 >
@@ -1086,7 +1070,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), data (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Env Vars:** ram (9), cpu (5), dimm (3), dram (2), sram (2)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for example (2), such as (1)
@@ -1095,8 +1079,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - memory (1)
 
-#### Adding expansion cards
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-expansion-cards?u=76281980)
+#### [Adding expansion cards](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-expansion-cards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1104,7 +1087,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-expansion-cards?u=76281980&t=12)** The motherboard featured a series of expansion slots.
 >
-> **[0:16](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-expansion-cards?u=76281980&t=16)** Into these slots plugged expansion cards that expanded the computer's hardware capabilities.
+> **[0:16](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-expansion-cards?u=76281980&t=16)** Into these slots plugged expansion cards that expanded the computer's [[Hardware]] capabilities.
 >
 > **[0:22](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-expansion-cards?u=76281980&t=22)** Today's PCs, specifically, the larger form factor models, also feature expansion slots for the same purpose.
 >
@@ -1214,13 +1197,13 @@ created: 2026-05-02
 >
 > **[5:50](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-expansion-cards?u=76281980&t=350)** The final part of the process involves adding device drivers, the software that controls the new hardware.
 >
-> **[5:56](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-expansion-cards?u=76281980&t=356)** In Windows, this process is automatic.
+> **[5:56](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-expansion-cards?u=76281980&t=356)** In [[Windows]], this process is automatic.
 >
 > **[5:59](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-expansion-cards?u=76281980&t=359)** If not, you can refer to the documentation that came with the expansion card to complete the software part of installation, and enjoy the new hardware that you've added to your computer.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), [[Hardware]] (4), feature (2), express (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (4), [[Windows]] (1)
 > **Analogies:** such as (2), for example (2)
 > **CLI Commands:** snap (1)
 > **Env Vars:** ibm (1)
@@ -1234,8 +1217,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with internal storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/working-with-internal-storage?u=76281980)
+#### [Working with internal storage](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/working-with-internal-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1257,9 +1239,9 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/working-with-internal-storage?u=76281980&t=58)** To review available internal storage open a file explorer window.
 >
-> **[1:03](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/working-with-internal-storage?u=76281980&t=63)** In Windows, press the Windows E keyboard shortcut, and then navigate to the this PC area.
+> **[1:03](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/working-with-internal-storage?u=76281980&t=63)** In [[Windows]], press the Windows E keyboard shortcut, and then navigate to the this PC area.
 >
-> **[1:11](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/working-with-internal-storage?u=76281980&t=71)** The devices and drives area lists storage attached to the computer, internal, external, network, and cloud storage.
+> **[1:11](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/working-with-internal-storage?u=76281980&t=71)** The devices and drives area lists storage attached to the computer, internal, external, network, and [[Cloud Storage]].
 >
 > **[1:20](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/working-with-internal-storage?u=76281980&t=80)** Drive C is the primary hard drive.
 >
@@ -1273,7 +1255,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/working-with-internal-storage?u=76281980&t=103)** Additional letters are assigned as Windows discovers the media during its startup sequence.
 >
-> **[1:49](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/working-with-internal-storage?u=76281980&t=109)** Unless a drive letter is mapped to a specific piece of hardware the assignments are different on each PC, and can be different each time the system starts as you add or remove storage.
+> **[1:49](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/working-with-internal-storage?u=76281980&t=109)** Unless a drive letter is mapped to a specific piece of [[Hardware]] the assignments are different on each PC, and can be different each time the system starts as you add or remove storage.
 >
 > **[2:01](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/working-with-internal-storage?u=76281980&t=121)** All drives require power and data connections.
 >
@@ -1313,7 +1295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (8), [[Windows]] (4), data (4), [[Hardware]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Hardware]] (2), [[Cloud Storage]] (1)
 > **Env Vars:** sata (8), ata (1), ibm (1)
 > **Definitions:** is a  (2), stands for (2)
 > **CLI Commands:** find (3)
@@ -1322,8 +1304,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** install (1)
 
-#### Adding removable and external storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-removable-and-external-storage?u=76281980)
+#### [Adding removable and external storage](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-removable-and-external-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1359,7 +1340,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-removable-and-external-storage?u=76281980&t=101)** Providing you don't remove the storage or add more internal storage.
 >
-> **[1:45](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-removable-and-external-storage?u=76281980&t=105)** The drive is assigned a consistent letter each time Windows starts.
+> **[1:45](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-removable-and-external-storage?u=76281980&t=105)** The drive is assigned a consistent letter each time [[Windows]] starts.
 >
 > **[1:49](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-removable-and-external-storage?u=76281980&t=109)** This consistency is important.
 >
@@ -1415,7 +1396,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-removable-and-external-storage?u=76281980&t=240)** Select the removable drive, right click, and choose the eject command.
 >
-> **[4:06](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-removable-and-external-storage?u=76281980&t=246)** When you see the notice that it's safe to remove the hardware you can pull out the thumb drive, or remove the media.
+> **[4:06](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-removable-and-external-storage?u=76281980&t=246)** When you see the notice that it's safe to remove the [[Hardware]] you can pull out the thumb drive, or remove the media.
 >
 > **[4:13](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-removable-and-external-storage?u=76281980&t=253)** If Windows bulks and refuses to let the drive go, it means something in the computer is still accessing the media.
 >
@@ -1425,7 +1406,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), data (3), prompt (1), [[Search]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Hardware]] (1)
 > **Env Vars:** usb (10), esata (1)
 > **Versions:** 3.0 (3)
 > **UI Navigation:** open the (2), select the (1)
@@ -1434,8 +1415,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - adding (1)
 
-#### Preparing mass storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/preparing-mass-storage?u=76281980)
+#### [Preparing mass storage](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/preparing-mass-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1449,7 +1429,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/preparing-mass-storage?u=76281980&t=24)** All storage media has at least one partition.
 >
-> **[0:28](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/preparing-mass-storage?u=76281980&t=28)** This partition is mounted into the storage system, and in Windows it's assigned a drive letter.
+> **[0:28](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/preparing-mass-storage?u=76281980&t=28)** This partition is mounted into the storage system, and in [[Windows]] it's assigned a drive letter.
 >
 > **[0:33](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/preparing-mass-storage?u=76281980&t=33)** Media cards and thumb drives have only a single partition, so these are capable of hosting only a single drive letter.
 >
@@ -1543,7 +1523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (10), management (3), data (3), business (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (10)
 > **Env Vars:** ntfs (3), efi (2), fat (1)
 > **UI Navigation:** click on (3)
 > **Prerequisites:** configure (1), setup (1), install (1)
@@ -1555,8 +1535,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the graphics system
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-the-graphics-system?u=76281980)
+#### [Understanding the graphics system](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-the-graphics-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1582,7 +1561,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-the-graphics-system?u=76281980&t=55)** The only consistent rule I know for gauging a GPU's power is that, well, the more money you're paying the better graphics processor.
 >
-> **[1:03](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-the-graphics-system?u=76281980&t=63)** Such power isn't necessary for an office computer only when the software demands a high-performance GPU such as for image processing, video animation, or high-end games is such an adapter necessary.
+> **[1:03](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-the-graphics-system?u=76281980&t=63)** Such power isn't necessary for an [[Microsoft Office|office]] computer only when the software demands a high-performance GPU such as for [[Image Processing]], video animation, or high-end games is such an adapter necessary.
 >
 > **[1:16](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-the-graphics-system?u=76281980&t=76)** Also found on the display adapter card is video memory called VRAM for video RAM.
 >
@@ -1616,7 +1595,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-the-graphics-system?u=76281980&t=166)** This memory is augmented by 77 or so gigabytes of main or system memory for a total amount of graphics memory of 65 gigabytes.
 >
-> **[3:00](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-the-graphics-system?u=76281980&t=180)** Obviously, this PC is built for video production.
+> **[3:00](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-the-graphics-system?u=76281980&t=180)** Obviously, this PC is built for [[Video Production]].
 >
 > **[3:03](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-the-graphics-system?u=76281980&t=183)** A consumer or office PC doesn't need this robust amount of memory.
 >
@@ -1636,14 +1615,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (6), [[Microsoft Office|Office]] (2), [[Image Processing]] (1), [[Video Production]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Image Processing]] (1), [[Video Production]] (1)
 > **Env Vars:** vram (5), gpu (3), ram (2), usb (2), vpu (1)
 > **Analogies:** such as (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [narrator] (1)
 
-#### Adjusting the monitor
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adjusting-the-monitor?u=76281980)
+#### [Adjusting the monitor](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adjusting-the-monitor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1741,7 +1719,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adjusting-the-monitor?u=76281980&t=269)** Here's the brightness setting with contrast below that.
 >
-> **[4:33](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adjusting-the-monitor?u=76281980&t=273)** These items can also be set via software in Windows.
+> **[4:33](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adjusting-the-monitor?u=76281980&t=273)** These items can also be set via software in [[Windows]].
 >
 > **[4:37](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adjusting-the-monitor?u=76281980&t=277)** Color temperature determines whether the whites shown on the monitor have a blue or cold look to them or a red or warm look.
 >
@@ -1757,7 +1735,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (6), data (3), feature (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Env Vars:** lcd (4), usb (2), htmi (1)
 > **Definitions:** known as (1), stands for (1)
 > **Analogies:** for example (1), such as (1)
@@ -1765,12 +1743,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - despite (1)
 
-#### Configuring graphics
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/configuring-graphics?u=76281980)
+#### [Configuring graphics](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/configuring-graphics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/configuring-graphics?u=76281980&t=0)** - [Instructor] You can adjust a few settings on the monitor, but for adjusting computer graphics, you use Windows.
+> **[0:00](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/configuring-graphics?u=76281980&t=0)** - [Instructor] You can adjust a few settings on the monitor, but for adjusting computer graphics, you use [[Windows]].
 >
 > **[0:06](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/configuring-graphics?u=76281980&t=6)** Remember that the display adapter is the brains of the PC graphic system.
 >
@@ -1794,7 +1771,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/configuring-graphics?u=76281980&t=58)** Click the Turn on now button to get an idea of what this setting does.
 >
-> **[1:01](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/configuring-graphics?u=76281980&t=61)** The monitor's hardware cuts back on the blue signal, bathing the screen in a relaxing golden glow.
+> **[1:01](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/configuring-graphics?u=76281980&t=61)** The monitor's [[Hardware]] cuts back on the blue signal, bathing the screen in a relaxing golden glow.
 >
 > **[1:08](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/configuring-graphics?u=76281980&t=68)** You can set the warmth with this slider here, and you can also use the schedule item to schedule when Night light is activated.
 >
@@ -1834,7 +1811,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), feature (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Hardware]] (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** recommended (2)
 > **UI Navigation:** click on (1)
@@ -1843,12 +1820,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding a second monitor
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-a-second-monitor?u=76281980)
+#### [Adding a second monitor](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-a-second-monitor?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-a-second-monitor?u=76281980&t=0)** - [Instructor] A second or even third monitor can extend the desktop's real estate wide and tall providing more room for open windows, documents and apps.
+> **[0:00](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-a-second-monitor?u=76281980&t=0)** - [Instructor] A second or even third monitor can extend the desktop's real estate wide and tall providing more room for open [[Windows]], documents and apps.
 >
 > **[0:10](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-a-second-monitor?u=76281980&t=10)** All modern PCs allow for a second monitor.
 >
@@ -1946,7 +1922,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), power (1)
+> **Frameworks & Libraries:** [[Windows]] (4)
 > **Env Vars:** ram (2), hdmi (1), usb (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (1), scroll down (1), select the (1)
@@ -1960,12 +1936,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Connecting a keyboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-a-keyboard?u=76281980)
+#### [Connecting a keyboard](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-a-keyboard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-a-keyboard?u=76281980&t=0)** - [Instructor] The keyboard is perhaps the original computer peripheral, providing input after scientists grew weary of throwing switches and rewiring hardware.
+> **[0:00](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-a-keyboard?u=76281980&t=0)** - [Instructor] The keyboard is perhaps the original computer peripheral, providing input after scientists grew weary of throwing switches and rewiring [[Hardware]].
 >
 > **[0:09](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-a-keyboard?u=76281980&t=9)** keyboards use the USB standard traditionally connected to a USB port on the computer's rump.
 >
@@ -1997,7 +1972,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-a-keyboard?u=76281980&t=91)** Num lock toggles the state of the numeric keypad between the number keys and the cursor control keys.
 >
-> **[1:37](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-a-keyboard?u=76281980&t=97)** The scroll lock key is used only in a few programs, such as Microsoft Excel, and that's about it.
+> **[1:37](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-a-keyboard?u=76281980&t=97)** The scroll lock key is used only in a few programs, such as [[Microsoft Excel]], and that's about it.
 >
 > **[1:44](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-a-keyboard?u=76281980&t=104)** Keyboards use one of two technologies to detect key movement: magnetic membrane or mechanical.
 >
@@ -2007,13 +1982,13 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-a-keyboard?u=76281980&t=124)** Bonus keyboard features abound.
 >
-> **[2:07](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-a-keyboard?u=76281980&t=127)** Some offer special buttons, such as those to play media, fetch email, adjust volume, and so on.
+> **[2:07](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-a-keyboard?u=76281980&t=127)** Some offer special buttons, such as those to play media, [[Fetch]] email, adjust volume, and so on.
 >
 > **[2:13](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-a-keyboard?u=76281980&t=133)** LED keyboards illuminate key caps in different colors corresponding to the software used.
 >
 > **[2:19](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-a-keyboard?u=76281980&t=139)** These keyboards may require a second USB connection and special software must be installed to access these extra features.
 >
-> **[2:27](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-a-keyboard?u=76281980&t=147)** To configure the keyboard in Windows, you use the control panel.
+> **[2:27](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-a-keyboard?u=76281980&t=147)** To configure the keyboard in [[Windows]], you use the control panel.
 >
 > **[2:31](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-a-keyboard?u=76281980&t=151)** Press the Windows + E keyboard shortcut to summon an explorer window.
 >
@@ -2045,14 +2020,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Hardware]] (1), feature (1), [[Microsoft Excel]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Hardware]] (1), [[Microsoft Excel]] (1), [[Fetch]] (1)
 > **Env Vars:** usb (5), led (1)
 > **Analogies:** such as (4)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding pointing devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-pointing-devices?u=76281980)
+#### [Adding pointing devices](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-pointing-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2114,7 +2088,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-pointing-devices?u=76281980&t=174)** Once you attach a pointing device to the computer, it's configured and ready to go.
 >
-> **[2:59](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-pointing-devices?u=76281980&t=179)** To make further adjustments in Windows, open the Settings app, press the Windows + I keyboard shortcut.
+> **[2:59](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-pointing-devices?u=76281980&t=179)** To make further adjustments in [[Windows]], open the Settings app, press the Windows + I keyboard shortcut.
 >
 > **[3:06](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-pointing-devices?u=76281980&t=186)** Choose Devices, also called Bluetooth and Devices in some versions of Windows.
 >
@@ -2136,7 +2110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), feature (1)
+> **Frameworks & Libraries:** [[Windows]] (3)
 > **Env Vars:** usb (7), led (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for example (1), similar to (1), such as (1)
@@ -2144,8 +2118,7 @@ created: 2026-05-02
 > **UI Navigation:** double-click (1), open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with touchscreen input
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/working-with-touchscreen-input?u=76281980)
+#### [Working with touchscreen input](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/working-with-touchscreen-input?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2163,7 +2136,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/working-with-touchscreen-input?u=76281980&t=38)** You probably won't use all 10 input points at once, but this is the gauge.
 >
-> **[0:44](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/working-with-touchscreen-input?u=76281980&t=44)** To discover how many input points a touchscreen monitor could handle, open the settings app, press the windows+i keyboard shortcut.
+> **[0:44](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/working-with-touchscreen-input?u=76281980&t=44)** To discover how many input points a touchscreen monitor could handle, open the settings app, press the [[Windows]]+i keyboard shortcut.
 >
 > **[0:53](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/working-with-touchscreen-input?u=76281980&t=53)** From the system category, choose about.
 >
@@ -2198,14 +2171,13 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - with (1)
 
-#### Accessing the audio
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-the-audio?u=76281980)
+#### [Accessing the audio](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-the-audio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-the-audio?u=76281980&t=0)** - [Instructor] Computer audio hardware is integrated into the motherboard on the chip set.
+> **[0:00](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-the-audio?u=76281980&t=0)** - [Instructor] Computer audio [[Hardware]] is integrated into the motherboard on the chip set.
 >
-> **[0:05](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-the-audio?u=76281980&t=5)** These electronics are quite sophisticated including a MIDI synthesizer and other features.
+> **[0:05](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-the-audio?u=76281980&t=5)** These [[Electronics]] are quite sophisticated including a MIDI synthesizer and other features.
 >
 > **[0:10](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-the-audio?u=76281980&t=10)** An internal speaker works as the default should you not attach any external speakers to the computer.
 >
@@ -2275,7 +2247,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-the-audio?u=76281980&t=183)** Add 0.1 to each configuration to augment the sound with a bass.
 >
-> **[3:08](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-the-audio?u=76281980&t=188)** To review sound settings in Windows, press the Windows I keyboard shortcut to bring up the settings app.
+> **[3:08](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-the-audio?u=76281980&t=188)** To review sound settings in [[Windows]], press the Windows I keyboard shortcut to bring up the settings app.
 >
 > **[3:14](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-the-audio?u=76281980&t=194)** From system, choose sound.
 >
@@ -2297,7 +2269,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[Hardware]] (3), [[Electronics]] (1), cd (1), feature (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Hardware]] (3), [[Electronics]] (1)
 > **Env Vars:** usb (3), trs (2), midi (1), pdif (1)
 > **Versions:** 4.0 (2), 3.0 (1), 5.0 (1), 0.1 (1)
 > **UI Navigation:** select the (2)
@@ -2311,8 +2283,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring printer types
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-printer-types?u=76281980)
+#### [Exploring printer types](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-printer-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2360,7 +2331,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
@@ -2369,8 +2339,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - the (1)
 
-#### Connecting and configuring the printer
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-and-configuring-the-printer?u=76281980)
+#### [Connecting and configuring the printer](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-and-configuring-the-printer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2386,7 +2355,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-and-configuring-the-printer?u=76281980&t=24)** For wireless access, use the printer's control panel to discover and connect with the wifi network.
 >
-> **[0:32](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-and-configuring-the-printer?u=76281980&t=32)** Aside from the hardware connection, printer configuration in Windows is automatic.
+> **[0:32](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-and-configuring-the-printer?u=76281980&t=32)** Aside from the [[Hardware]] connection, printer configuration in [[Windows]] is automatic.
 >
 > **[0:36](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-and-configuring-the-printer?u=76281980&t=36)** The printer is recognized and made available almost instantly.
 >
@@ -2396,9 +2365,9 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-and-configuring-the-printer?u=76281980&t=47)** Press the Windows I keyboard shortcut.
 >
-> **[0:50](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-and-configuring-the-printer?u=76281980&t=50)** Choose Bluetooth and devices, or devices here in Windows 10, then printers and scanners.
+> **[0:50](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-and-configuring-the-printer?u=76281980&t=50)** Choose Bluetooth and devices, or devices here in [[Windows 10]], then printers and scanners.
 >
-> **[0:57](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-and-configuring-the-printer?u=76281980&t=57)** You see a list of printers and other output devices, such as the Microsoft Print to PDF utility.
+> **[0:57](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-and-configuring-the-printer?u=76281980&t=57)** You see a list of printers and other output devices, such as the [[Microsoft]] Print to PDF utility.
 >
 > **[1:03](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-and-configuring-the-printer?u=76281980&t=63)** If scanners are available, they're listed here as well.
 >
@@ -2438,7 +2407,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-and-configuring-the-printer?u=76281980&t=173)** While you can cancel a print job in Windows the most effective way is to use the printer's control panel.
 >
-> **[2:59](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-and-configuring-the-printer?u=76281980&t=179)** Look for a cancel button a large X or the word cancel.
+> **[2:59](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-and-configuring-the-printer?u=76281980&t=179)** Look for a cancel button a large X or the [[Microsoft Word|word]] cancel.
 >
 > **[3:03](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/connecting-and-configuring-the-printer?u=76281980&t=183)** Tap that button to halt printing.
 >
@@ -2450,7 +2419,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), [[Windows 10]] (2), [[Microsoft]] (2), feature (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Windows 10]] (2), [[Microsoft]] (2), [[Hardware]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** pdf (2), usb (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** setup (2)
@@ -2462,22 +2431,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring the network
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980)
+#### [Exploring the network](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980&t=0)** - [Instructor] Network access is made wired or wirelessly.
 >
-> **[0:03](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980&t=3)** Generally speaking, a desktop computer has a wired connection, laptops and mobile devices use wireless, though the current trend is for wireless networking for all devices as it involves less infrastructure.
+> **[0:03](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980&t=3)** Generally speaking, a desktop computer has a wired connection, laptops and mobile devices use wireless, though the current trend is for [[Wireless Networking]] for all devices as it involves less infrastructure.
 >
-> **[0:17](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980&t=17)** The hardware required to connect a network wired or wirelessly is a network adapter called N-I-C or NIC for network interface controller.
+> **[0:17](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980&t=17)** The [[Hardware]] required to connect a network wired or wirelessly is a network adapter called N-I-C or NIC for network interface controller.
 >
 > **[0:27](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980&t=27)** This controller features a unique ID called the MAC address.
 >
 > **[0:32](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980&t=32)** MAC stands for media access control.
 >
-> **[0:35](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980&t=35)** The number can be used for network security as each network adapter has a unique MAC address.
+> **[0:35](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980&t=35)** The number can be used for [[Network Security]] as each network adapter has a unique MAC address.
 >
 > **[0:41](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980&t=41)** Wired networks require wires or cables.
 >
@@ -2503,7 +2471,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980&t=114)** Instead, a wireless hub connects the network devices.
 >
-> **[1:58](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980&t=118)** Hubs can bridge to other hubs creating a wireless mesh.
+> **[1:58](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980&t=118)** Hubs can bridge to other hubs creating a wireless [[Mesh]].
 >
 > **[2:02](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980&t=122)** This arrangement extends the network beyond the range of a single wireless hub or base station.
 >
@@ -2513,7 +2481,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980&t=137)** These ports can also connect to a network printer, mass storage, or a switch or hub to add additional wired connections to the network.
 >
-> **[2:27](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980&t=147)** To examine available devices on the network, press the Windows + E keyboard shortcut to bring up a File Explorer window and choose Network from the navigation pane.
+> **[2:27](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980&t=147)** To examine available devices on the network, press the [[Windows]] + E keyboard shortcut to bring up a File Explorer window and choose Network from the navigation pane.
 >
 > **[2:37](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/exploring-the-network?u=76281980&t=157)** This window is populated with network devices.
 >
@@ -2543,7 +2511,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireless Networking]] (2), [[Windows]] (2), [[Security]] (2), [[Hardware]] (1), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[Wireless Networking]] (2), [[Windows]] (2), [[Hardware]] (1), [[Network Security]] (1), [[Mesh]] (1)
 > **Env Vars:** mac (3), nic (1), cat5 (1), cat6 (1)
 > **Definitions:** is a  (2), known as (2), stands for (1)
 > **UI Navigation:** go to (1), open the (1)
@@ -2551,8 +2519,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making the network connection
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/making-the-network-connection?u=76281980)
+#### [Making the network connection](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/making-the-network-connection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2570,11 +2537,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/making-the-network-connection?u=76281980&t=34)** The Wi-Fi network's name and the network password.
 >
-> **[0:38](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/making-the-network-connection?u=76281980&t=38)** In Windows, you start your Wi-Fi connection journey on the task bar with the action center.
+> **[0:38](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/making-the-network-connection?u=76281980&t=38)** In [[Windows]], you start your Wi-Fi connection journey on the task bar with the action center.
 >
 > **[0:44](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/making-the-network-connection?u=76281980&t=44)** These icons pop up a menu called the action center which you can also pop up by pressing the Windows + A keyboard shortcut.
 >
-> **[0:51](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/making-the-network-connection?u=76281980&t=51)** It looks different between Windows 10 and Windows 11.
+> **[0:51](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/making-the-network-connection?u=76281980&t=51)** It looks different between [[Windows 10]] and Windows 11.
 >
 > **[0:55](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/making-the-network-connection?u=76281980&t=55)** The Wi-Fi button is used to enable or disable the Wi-Fi radio.
 >
@@ -2590,7 +2557,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/making-the-network-connection?u=76281980&t=89)** For a new network connection you may be queried whether the network is public or private.
 >
-> **[1:33](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/making-the-network-connection?u=76281980&t=93)** A private network is like your home or office.
+> **[1:33](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/making-the-network-connection?u=76281980&t=93)** A private network is like your home or [[Microsoft Office|office]].
 >
 > **[1:36](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/making-the-network-connection?u=76281980&t=96)** A public network is found at an airport, library, cafe, and so on.
 >
@@ -2626,7 +2593,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (7), [[Windows 10]] (2), [[Security]] (2), [[Troubleshooting]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Windows 10]] (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -2634,8 +2601,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessing network resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-network-resources?u=76281980)
+#### [Accessing network resources](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-network-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2647,7 +2613,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-network-resources?u=76281980&t=14)** Other network resources include printers and scanners, mass storage, media servers, and so on.
 >
-> **[0:20](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-network-resources?u=76281980&t=20)** You can access and use these resources providing you know how to find them in Windows.
+> **[0:20](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-network-resources?u=76281980&t=20)** You can access and use these resources providing you know how to find them in [[Windows]].
 >
 > **[0:27](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-network-resources?u=76281980&t=27)** The first place to look to get an overview of network resources is the network window.
 >
@@ -2681,7 +2647,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-network-resources?u=76281980&t=108)** Choose This PC from the File Explorer window.
 >
-> **[1:53](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-network-resources?u=76281980&t=113)** On the computer menu in Windows 10, choose Map network drive.
+> **[1:53](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-network-resources?u=76281980&t=113)** On the computer menu in [[Windows 10]], choose Map network drive.
 >
 > **[1:57](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-network-resources?u=76281980&t=117)** In Windows 11, click the menu overflow and choose Map network drive.
 >
@@ -2699,13 +2665,13 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-network-resources?u=76281980&t=150)** Here in this PC window, you see the drive, it's assigned the letter you chose, and it will be available each time you sign into Windows.
 >
-> **[2:39](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-network-resources?u=76281980&t=159)** While this trick works, and it's especially useful for network storage, be aware that it's much easier to share files across cloud storage instead of mapping a network drive.
+> **[2:39](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-network-resources?u=76281980&t=159)** While this trick works, and it's especially useful for network storage, be aware that it's much easier to share files across [[Cloud Storage]] instead of mapping a network drive.
 >
-> **[2:49](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-network-resources?u=76281980&t=169)** For example, I use Microsoft OneDrive on all my computers as a convenient way to share work files and folders without the need to mess with mapping a network drive.
+> **[2:49](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/accessing-network-resources?u=76281980&t=169)** For example, I use [[Microsoft OneDrive]] on all my computers as a convenient way to share work files and folders without the need to mess with mapping a network drive.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), prompt (1), game (1), [[Windows 10]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Windows 10]] (1), [[Cloud Storage]] (1), [[Microsoft OneDrive]] (1)
 > **Analogies:** for example (3), such as (2)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** rose (1)
@@ -2713,8 +2679,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [narrator] (1)
 
-#### Sharing network resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/sharing-network-resources?u=76281980)
+#### [Sharing network resources](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/sharing-network-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2724,13 +2689,13 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/sharing-network-resources?u=76281980&t=14)** Once shared, these resources are available to anyone with network access.
 >
-> **[0:19](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/sharing-network-resources?u=76281980&t=19)** To share resources, you must first enable file and printer sharing in Windows.
+> **[0:19](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/sharing-network-resources?u=76281980&t=19)** To share resources, you must first enable file and printer sharing in [[Windows]].
 >
 > **[0:24](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/sharing-network-resources?u=76281980&t=24)** These options may be disabled and they should be disabled when you're connected to a public network.
 >
 > **[0:29](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/sharing-network-resources?u=76281980&t=29)** Press the Windows + I keyboard shortcut to summon the settings app, choose network and internet.
 >
-> **[0:37](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/sharing-network-resources?u=76281980&t=37)** In Windows 10, choose the network and sharing center item and advanced sharing settings.
+> **[0:37](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/sharing-network-resources?u=76281980&t=37)** In [[Windows 10]], choose the network and sharing center item and advanced sharing settings.
 >
 > **[0:45](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/sharing-network-resources?u=76281980&t=45)** In Windows 11, choose advanced network settings and then advanced network settings again, then you can see the options available for file and printer sharing.
 >
@@ -2758,9 +2723,9 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/sharing-network-resources?u=76281980&t=139)** The folder is now available on the local network, but you must have an account on this computer to access it.
 >
-> **[2:26](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/sharing-network-resources?u=76281980&t=146)** A better solution, of course, is to use cloud storage for sharing.
+> **[2:26](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/sharing-network-resources?u=76281980&t=146)** A better solution, of course, is to use [[Cloud Storage]] for sharing.
 >
-> **[2:30](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/sharing-network-resources?u=76281980&t=150)** These include OneDrive, Google Drive, Dropbox and so on providing that that software is installed on your computer.
+> **[2:30](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/sharing-network-resources?u=76281980&t=150)** These include [[Microsoft OneDrive|OneDrive]], [[Google Drive]], Dropbox and so on providing that that software is installed on your computer.
 >
 > **[2:37](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/sharing-network-resources?u=76281980&t=157)** Often this type of sharing is better than local network sharing, as the files are available anywhere you have internet access and they're more easily shared with others.
 >
@@ -2772,7 +2737,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), [[Windows 10]] (2), cloud (1), [[Microsoft OneDrive|Onedrive]] (1), [[Google Drive]] (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Windows 10]] (2), [[Cloud Storage]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[Google Drive]] (1)
 > **UI Navigation:** navigate to (1), open the (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2781,8 +2746,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Bluetooth
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-bluetooth?u=76281980)
+#### [Understanding Bluetooth](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-bluetooth?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2826,7 +2790,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-bluetooth?u=76281980&t=125)** To confirm that your PC has a Bluetooth adapter, you can look for a Bluetooth icon on the taskbar or just open the settings app.
 >
-> **[2:13](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-bluetooth?u=76281980&t=133)** Press the windows I keyboard shortcut, choose Bluetooth and devices or here in Windows 10 it's just Bluetooth.
+> **[2:13](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-bluetooth?u=76281980&t=133)** Press the [[Windows]] I keyboard shortcut, choose Bluetooth and devices or here in [[Windows 10]] it's just Bluetooth.
 >
 > **[2:21](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/understanding-bluetooth?u=76281980&t=141)** And if you see this item Bluetooth and how it's discoverable, the computer is equipped with a Bluetooth radio and you can use and pair Bluetooth peripherals.
 
@@ -2840,8 +2804,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding a Bluetooth peripheral
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-a-bluetooth-peripheral?u=76281980)
+#### [Adding a Bluetooth peripheral](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-a-bluetooth-peripheral?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2853,9 +2816,9 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-a-bluetooth-peripheral?u=76281980&t=22)** Before pairing, open the settings app to confirm that the Bluetooth radio is available and active.
 >
-> **[0:28](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-a-bluetooth-peripheral?u=76281980&t=28)** Press the Windows + i keyboard shortcut.
+> **[0:28](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-a-bluetooth-peripheral?u=76281980&t=28)** Press the [[Windows]] + i keyboard shortcut.
 >
-> **[0:31](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-a-bluetooth-peripheral?u=76281980&t=31)** Choose Devices here in Windows 10.
+> **[0:31](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-a-bluetooth-peripheral?u=76281980&t=31)** Choose Devices here in [[Windows 10]].
 >
 > **[0:33](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-a-bluetooth-peripheral?u=76281980&t=33)** In Windows 11, choose Bluetooth and devices.
 >
@@ -2925,11 +2888,11 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-a-bluetooth-peripheral?u=76281980&t=188)** The secret is to reactivate the Bluetooth radio after placing the laptop into airplane mode.
 >
-> **[3:15](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-a-bluetooth-peripheral?u=76281980&t=195)** Once done, your Bluetooth peripherals automatically reconnect and you can enjoy the rest of the flight.
+> **[3:15](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/adding-a-bluetooth-peripheral?u=76281980&t=195)** Once done, your Bluetooth peripherals automatically reconnect and you can enjoy the [[Representational State Transfer (REST)|rest]] of the flight.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Windows 10]] (2), power (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Windows 10]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** pin (3)
 > **UI Navigation:** open the (1), select the (1)
 > **Definitions:** is called (1), is a  (1)
@@ -2943,8 +2906,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Pursuing your professional curiosity
-> [LinkedIn Learning](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/pursuing-your-professional-curiosity?u=76281980)
+#### [Pursuing your professional curiosity](https://www.linkedin.com/learning/computer-components-and-peripherals-for-it-technicians-22837007/pursuing-your-professional-curiosity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2960,7 +2922,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (1), [[Search]] (1), career (1)
 > **Speakers:** - are (1)
 
 

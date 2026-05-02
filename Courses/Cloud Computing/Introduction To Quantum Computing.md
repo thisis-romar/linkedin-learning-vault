@@ -70,8 +70,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A new era of computing is emerging
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-new-era-of-computing-is-emerging?u=76281980)
+#### [A new era of computing is emerging](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-new-era-of-computing-is-emerging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -95,7 +94,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-new-era-of-computing-is-emerging?u=76281980&t=40)** With the current progress of research and development, quantum based computing may eventually be millions of times faster than the computing power that we all use today inside our smartphones, laptop computers and other devices.
 >
-> **[0:56](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-new-era-of-computing-is-emerging?u=76281980&t=56)** Hi, I'm Jonathan Reichental, and I'm delighted to introduce you to the fundamentalS of quantum computing.
+> **[0:56](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-new-era-of-computing-is-emerging?u=76281980&t=56)** Hi, I'm Jonathan Reichental, and I'm delighted to introduce you to the fundamentalS of [[Quantum Computing]].
 >
 > **[1:04](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-new-era-of-computing-is-emerging?u=76281980&t=64)** This new model of information processing has moved from the theoretical to reality, with quantum computers beginning to be used for scientific and commercial use.
 >
@@ -117,7 +116,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Quantum Computing]] (4), power (2)
+> **Frameworks & Libraries:** [[Quantum Computing]] (4)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** fundamentals (1)
 > **Definitions:** known as (1)
@@ -129,8 +128,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The current computing age
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-computing-age?u=76281980)
+#### [The current computing age](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-computing-age?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -144,11 +142,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-computing-age?u=76281980&t=36)** A medical breakthrough at a lab, once sluggish to gain traction, can now be distributed, analyzed, and further progressed by scientists from all over the world, increasing the likelihood of finding cures.
 >
-> **[0:50](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-computing-age?u=76281980&t=50)** Advanced software and high-performing computers are giving systems artificial intelligence, enabling machines to augment and replace routine and complex human activities.
+> **[0:50](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-computing-age?u=76281980&t=50)** Advanced software and high-performing computers are giving systems [[Artificial Intelligence (AI)|artificial intelligence]], enabling machines to augment and replace routine and complex human activities.
 >
 > **[1:02](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-computing-age?u=76281980&t=62)** From driving cars to diagnosing disease, from sorting photographs to flying planes, from optimizing crop yields to predicting climate patterns, today's computing platforms are advancing the human experience in positive and often unpredictable ways.
 >
-> **[1:20](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-computing-age?u=76281980&t=80)** New technologies are also creating remarkable challenges, from the rapid erosion of privacy to questions of technology ethics that includes who should own data, and machine decision-making on our roads, in our hospitals, and in the theater of war.
+> **[1:20](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-computing-age?u=76281980&t=80)** New technologies are also creating remarkable challenges, from the rapid erosion of [[Privacy]] to questions of technology [[Ethics]] that includes who should own data, and machine [[Decision-Making]] on our roads, in our hospitals, and in the theater of war.
 >
 > **[1:38](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-computing-age?u=76281980&t=98)** Our current era of computing is bringing so many of us a vast amount of continuous and new value in almost every area of our lives, but also upending so much of what used to be predictable and routine.
 >
@@ -174,9 +172,9 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-computing-age?u=76281980&t=194)** It's also providing us with a larger toolkit of options to solve the biggest challenges.
 >
-> **[3:19](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-computing-age?u=76281980&t=199)** Areas such as the existential risks of climate change, for space exploration, for building better and smarter cities, for leaps in medical possibilities like CRISPR that enables us to edit our genomes and change their function, for improved manufacturing and materials, more immersive entertainment, and healthier food production.
+> **[3:19](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-computing-age?u=76281980&t=199)** Areas such as the existential risks of [[Climate Change]], for space exploration, for building better and smarter cities, for leaps in medical possibilities like CRISPR that enables us to edit our genomes and change their function, for improved manufacturing and materials, more immersive entertainment, and healthier food production.
 >
-> **[3:43](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-computing-age?u=76281980&t=223)** Of course, we'll also see an increase in nefarious uses of technology, increased cybersecurity risks, and challenges to human jobs as robots and artificial intelligence play increasing roles.
+> **[3:43](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-computing-age?u=76281980&t=223)** Of course, we'll also see an increase in nefarious uses of technology, increased [[Cybersecurity]] risks, and challenges to human jobs as robots and artificial intelligence play increasing roles.
 >
 > **[3:57](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-computing-age?u=76281980&t=237)** We'll see the social impacts of too much screen time and all this increased technology use will place even greater pressure on our existing energy systems.
 >
@@ -190,20 +188,19 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-computing-age?u=76281980&t=283)** It will be needed to support the innovation in computing performance necessary in the decades ahead.
 >
-> **[4:50](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-computing-age?u=76281980&t=290)** This is where quantum computing, which may usher in a new era of computing possibilities, will play an essential role.
+> **[4:50](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-computing-age?u=76281980&t=290)** This is where [[Quantum Computing]], which may usher in a new era of computing possibilities, will play an essential role.
 >
 > **[4:59](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-computing-age?u=76281980&t=299)** It won't be the only technology to move us forward, but it'll be an important and game-changing one.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Privacy]] (1), [[Ethics]] (1), data (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Privacy]] (1), [[Ethics]] (1), [[Decision-Making]] (1), [[Climate Change]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** crispr (1)
 > **Analogies:** such as (1)
 > **Speakers:** - today (1)
 
-#### A brief history of the third industrial revolution
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-brief-history-of-the-third-industrial-revolution?u=76281980)
+#### [A brief history of the third industrial revolution](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-brief-history-of-the-third-industrial-revolution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -229,7 +226,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-brief-history-of-the-third-industrial-revolution?u=76281980&t=77)** Electricity, for example, enabled the invention of the telephone, a singular technology of consequence.
 >
-> **[1:26](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-brief-history-of-the-third-industrial-revolution?u=76281980&t=86)** The era of global telecommunications began in earnest and still continues today.
+> **[1:26](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-brief-history-of-the-third-industrial-revolution?u=76281980&t=86)** The era of global [[Telecommunications]] began in earnest and still continues today.
 >
 > **[1:32](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-brief-history-of-the-third-industrial-revolution?u=76281980&t=92)** Both of these Industrial Revolutions set the stage for a third Industrial Revolution.
 >
@@ -243,7 +240,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-brief-history-of-the-third-industrial-revolution?u=76281980&t=131)** To be on or off, so to speak.
 >
-> **[2:14](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-brief-history-of-the-third-industrial-revolution?u=76281980&t=134)** They are the essential building blocks of electronics and modern computing.
+> **[2:14](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-brief-history-of-the-third-industrial-revolution?u=76281980&t=134)** They are the essential building blocks of [[Electronics]] and modern computing.
 >
 > **[2:19](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-brief-history-of-the-third-industrial-revolution?u=76281980&t=139)** Miniaturization of switches or transistors resulted in the microchips we have today.
 >
@@ -267,28 +264,27 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-brief-history-of-the-third-industrial-revolution?u=76281980&t=210)** Our digital world has modified our destiny and created completely new opportunities and challenges.
 >
-> **[3:37](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-brief-history-of-the-third-industrial-revolution?u=76281980&t=217)** The benefits of remarkable computing power teases us at what may be possible in the future, as we increase performance and intelligence in our hardware and software.
+> **[3:37](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-brief-history-of-the-third-industrial-revolution?u=76281980&t=217)** The benefits of remarkable computing power teases us at what may be possible in the future, as we increase performance and intelligence in our [[Hardware]] and software.
 >
 > **[3:48](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-brief-history-of-the-third-industrial-revolution?u=76281980&t=228)** Even as the third Industrial Revolution plays out, a new wave of change is beginning to emerge.
 >
 > **[3:55](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-brief-history-of-the-third-industrial-revolution?u=76281980&t=235)** The convergence of the digital, physical, and biological worlds combined with new global demographics and economics, is hinting at the opening stages of a fourth Industrial Revolution.
 >
-> **[4:08](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-brief-history-of-the-third-industrial-revolution?u=76281980&t=248)** While it's still early the evidence of even more radical and disruptive change for humanity is ahead, without question, quantum computing will be a central player in this new revolution.
+> **[4:08](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-brief-history-of-the-third-industrial-revolution?u=76281980&t=248)** While it's still early the evidence of even more radical and disruptive change for humanity is ahead, without question, [[Quantum Computing]] will be a central player in this new revolution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), [[Telecommunications]] (1), [[Electronics]] (1), web (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Telecommunications]] (1), [[Electronics]] (1), [[Hardware]] (1), [[Quantum Computing]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - understanding (1)
 
-#### A simple explanation of classical computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-simple-explanation-of-classical-computing?u=76281980)
+#### [A simple explanation of classical computing](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-simple-explanation-of-classical-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-simple-explanation-of-classical-computing?u=76281980&t=0)** - Quantum computing is a new way of processing information.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-simple-explanation-of-classical-computing?u=76281980&t=0)** - [[Quantum Computing]] is a new way of processing information.
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-simple-explanation-of-classical-computing?u=76281980&t=4)** It's quite different when compared with how computers work today.
 >
@@ -406,15 +402,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Quantum Computing]] (1), power (1), next (1)
+> **Frameworks & Libraries:** [[Quantum Computing]] (1)
 > **Definitions:** is a  (4), is called (2), is an  (1)
 > **Tools:** atom (3)
 > **Analogies:** for example (3)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - quantum (1)
 
-#### Drivers of the next generation of computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/drivers-of-the-next-generation-of-computing?u=76281980)
+#### [Drivers of the next generation of computing](https://www.linkedin.com/learning/introduction-to-quantum-computing/drivers-of-the-next-generation-of-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -456,7 +451,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/introduction-to-quantum-computing/drivers-of-the-next-generation-of-computing?u=76281980&t=109)** Here are a few specific examples of drivers of a next generation of computing.
 >
-> **[1:55](https://www.linkedin.com/learning/introduction-to-quantum-computing/drivers-of-the-next-generation-of-computing?u=76281980&t=115)** The first example is our need for better cybersecurity.
+> **[1:55](https://www.linkedin.com/learning/introduction-to-quantum-computing/drivers-of-the-next-generation-of-computing?u=76281980&t=115)** The first example is our need for better [[Cybersecurity]].
 >
 > **[2:00](https://www.linkedin.com/learning/introduction-to-quantum-computing/drivers-of-the-next-generation-of-computing?u=76281980&t=120)** Old benefits of a digital connected world have only increased the potential for security issues.
 >
@@ -466,7 +461,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/introduction-to-quantum-computing/drivers-of-the-next-generation-of-computing?u=76281980&t=139)** Current approaches, including widely adopted encryption technologies, will eventually become less effective.
 >
-> **[2:26](https://www.linkedin.com/learning/introduction-to-quantum-computing/drivers-of-the-next-generation-of-computing?u=76281980&t=146)** Ironically, it may be quantum computing that eventually breaks current encryption techniques.
+> **[2:26](https://www.linkedin.com/learning/introduction-to-quantum-computing/drivers-of-the-next-generation-of-computing?u=76281980&t=146)** Ironically, it may be [[Quantum Computing]] that eventually breaks current encryption techniques.
 >
 > **[2:32](https://www.linkedin.com/learning/introduction-to-quantum-computing/drivers-of-the-next-generation-of-computing?u=76281980&t=152)** To insure a more secure, appropriately-scaled response to our hyper-digital, connected future, we'll require new approaches and new technology.
 >
@@ -512,7 +507,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Quantum Computing]] (4), [[Cybersecurity]] (3), next (2), power (2), data (2)
+> **Frameworks & Libraries:** [[Quantum Computing]] (4), [[Cybersecurity]] (3)
 > **Analogies:** such as (1), imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - so (1)
@@ -522,12 +517,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What exactly is this quantum stuff?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/what-exactly-is-this-quantum-stuff?u=76281980)
+#### [What exactly is this quantum stuff?](https://www.linkedin.com/learning/introduction-to-quantum-computing/what-exactly-is-this-quantum-stuff?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-quantum-computing/what-exactly-is-this-quantum-stuff?u=76281980&t=0)** - I don't know about you but for me terms such as quantum mechanics, quantum physics and quantum computing all have an exotic and mysterious allure to them.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-quantum-computing/what-exactly-is-this-quantum-stuff?u=76281980&t=0)** - I don't know about you but for me terms such as quantum mechanics, quantum physics and [[Quantum Computing]] all have an exotic and mysterious allure to them.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-quantum-computing/what-exactly-is-this-quantum-stuff?u=76281980&t=11)** I immediately think of a world of science that remains hidden to most by complexity and only understandable by a few.
 >
@@ -565,7 +559,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/introduction-to-quantum-computing/what-exactly-is-this-quantum-stuff?u=76281980&t=123)** For example, while researching deep in the smallest discrete unit of a physical property, called a quantum, results question the certainty of a particle's behavior and location at a given time.
 >
-> **[2:17](https://www.linkedin.com/learning/introduction-to-quantum-computing/what-exactly-is-this-quantum-stuff?u=76281980&t=137)** Scientists concluded that this behavior may in fact be subject to probability.
+> **[2:17](https://www.linkedin.com/learning/introduction-to-quantum-computing/what-exactly-is-this-quantum-stuff?u=76281980&t=137)** Scientists concluded that this behavior may in fact be subject to [[Probability]].
 >
 > **[2:23](https://www.linkedin.com/learning/introduction-to-quantum-computing/what-exactly-is-this-quantum-stuff?u=76281980&t=143)** While at first thought to be mistakes in the complex mathematics that derive these conclusions, later validation proved otherwise.
 >
@@ -622,12 +616,11 @@ created: 2026-05-02
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - i (1)
 
-#### A brief timeline of quantum research to date
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-brief-timeline-of-quantum-research-to-date?u=76281980)
+#### [A brief timeline of quantum research to date](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-brief-timeline-of-quantum-research-to-date?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-brief-timeline-of-quantum-research-to-date?u=76281980&t=0)** - Given the recent increased interest in quantum computing, it may seem like it's a new area of research and development.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-brief-timeline-of-quantum-research-to-date?u=76281980&t=0)** - Given the recent increased interest in [[Quantum Computing]], it may seem like it's a new area of research and development.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-quantum-computing/a-brief-timeline-of-quantum-research-to-date?u=76281980&t=7)** Some of the biggest breakthroughs are happening now, but quantum computing and quantum mechanics more broadly already has an illustrious history.
 >
@@ -697,13 +690,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Quantum Computing]] (7), product (1)
+> **Frameworks & Libraries:** [[Quantum Computing]] (7)
 > **Definitions:** known as (1), is a  (1), is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - given (1)
 
-#### What is quantum computing?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/what-is-quantum-computing?u=76281980)
+#### [What is quantum computing?](https://www.linkedin.com/learning/introduction-to-quantum-computing/what-is-quantum-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -727,9 +719,9 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-quantum-computing/what-is-quantum-computing?u=76281980&t=60)** - Yeah, I think it's always hard to tell exactly when something is going to happen.
 >
-> **[1:05](https://www.linkedin.com/learning/introduction-to-quantum-computing/what-is-quantum-computing?u=76281980&t=65)** You know, we say, you know, five years out but I think the real thing to think about here is that quantum computing is coming.
+> **[1:05](https://www.linkedin.com/learning/introduction-to-quantum-computing/what-is-quantum-computing?u=76281980&t=65)** You know, we say, you know, five years out but I think the real thing to think about here is that [[Quantum Computing]] is coming.
 >
-> **[1:14](https://www.linkedin.com/learning/introduction-to-quantum-computing/what-is-quantum-computing?u=76281980&t=74)** There are enough people like us and Google and IBM that we have a lot of smart people and we're spending a lot of money and it's going to happen.
+> **[1:14](https://www.linkedin.com/learning/introduction-to-quantum-computing/what-is-quantum-computing?u=76281980&t=74)** There are enough people like us and [[Google]] and IBM that we have a lot of smart people and we're spending a lot of money and it's going to happen.
 >
 > **[1:24](https://www.linkedin.com/learning/introduction-to-quantum-computing/what-is-quantum-computing?u=76281980&t=84)** Could be a couple years.
 >
@@ -743,7 +735,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/introduction-to-quantum-computing/what-is-quantum-computing?u=76281980&t=104)** It's different than classical computing.
 >
-> **[1:46](https://www.linkedin.com/learning/introduction-to-quantum-computing/what-is-quantum-computing?u=76281980&t=106)** The algorithms are different.
+> **[1:46](https://www.linkedin.com/learning/introduction-to-quantum-computing/what-is-quantum-computing?u=76281980&t=106)** The [[Algorithms]] are different.
 >
 > **[1:48](https://www.linkedin.com/learning/introduction-to-quantum-computing/what-is-quantum-computing?u=76281980&t=108)** The way that you do computation is different.
 >
@@ -817,15 +809,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Quantum Computing]] (7), next (1), [[Google]] (1), [[Algorithms]] (1), power (1)
+> **Frameworks & Libraries:** [[Quantum Computing]] (7), [[Google]] (1), [[Algorithms]] (1)
 > **CLI Commands:** cat (8)
 > **Definitions:** is a  (2), is called (2), in other words (1)
 > **Speakers:** - after (1), - yeah (1), - the (1), - so (1), - note (1)
 > **Analogies:** imagine (2)
 > **Env Vars:** ibm (1)
 
-#### Superposition: The core idea in quantum computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/superposition-the-core-idea-in-quantum-computing?u=76281980)
+#### [Superposition: The core idea in quantum computing](https://www.linkedin.com/learning/introduction-to-quantum-computing/superposition-the-core-idea-in-quantum-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -859,7 +850,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/introduction-to-quantum-computing/superposition-the-core-idea-in-quantum-computing?u=76281980&t=94)** As the coin is spinning, it's neither.
 >
-> **[1:37](https://www.linkedin.com/learning/introduction-to-quantum-computing/superposition-the-core-idea-in-quantum-computing?u=76281980&t=97)** It's only when it comes to a rest that we know whether it will be heads or tails.
+> **[1:37](https://www.linkedin.com/learning/introduction-to-quantum-computing/superposition-the-core-idea-in-quantum-computing?u=76281980&t=97)** It's only when it comes to a [[Representational State Transfer (REST)|rest]] that we know whether it will be heads or tails.
 >
 > **[1:43](https://www.linkedin.com/learning/introduction-to-quantum-computing/superposition-the-core-idea-in-quantum-computing?u=76281980&t=103)** So this binary device, a coin, with only two sides when spinning, it technically in multiple states.
 >
@@ -867,7 +858,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/introduction-to-quantum-computing/superposition-the-core-idea-in-quantum-computing?u=76281980&t=115)** What does this mean in practice?
 >
-> **[1:58](https://www.linkedin.com/learning/introduction-to-quantum-computing/superposition-the-core-idea-in-quantum-computing?u=76281980&t=118)** - So we have superposition, we have entanglement, and there's another really key element for quantum algorithms, and that's interference.
+> **[1:58](https://www.linkedin.com/learning/introduction-to-quantum-computing/superposition-the-core-idea-in-quantum-computing?u=76281980&t=118)** - So we have superposition, we have entanglement, and there's another really key element for quantum [[Algorithms]], and that's interference.
 >
 > **[2:06](https://www.linkedin.com/learning/introduction-to-quantum-computing/superposition-the-core-idea-in-quantum-computing?u=76281980&t=126)** And so, when we think about interference, how does that work, what does that mean?
 >
@@ -903,7 +894,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/introduction-to-quantum-computing/superposition-the-core-idea-in-quantum-computing?u=76281980&t=214)** A quantum computer would guess many answers in parallel, thus finding the solution in no time at all.
 >
-> **[3:41](https://www.linkedin.com/learning/introduction-to-quantum-computing/superposition-the-core-idea-in-quantum-computing?u=76281980&t=221)** Qubits are at the center of what makes quantum computing work.
+> **[3:41](https://www.linkedin.com/learning/introduction-to-quantum-computing/superposition-the-core-idea-in-quantum-computing?u=76281980&t=221)** Qubits are at the center of what makes [[Quantum Computing]] work.
 >
 > **[3:45](https://www.linkedin.com/learning/introduction-to-quantum-computing/superposition-the-core-idea-in-quantum-computing?u=76281980&t=225)** Today, we are able to tie a few qubits together to create quantum gates, their equivalent of logic gates.
 >
@@ -923,7 +914,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (3), [[Quantum Computing]] (3), [[Representational State Transfer (REST)|Rest]] (1), parallel (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Quantum Computing]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - so (2), - we (1), - a (1)
 > **CLI Commands:** make (1)
 > **Tools:** notion (1)
@@ -931,8 +922,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Best Practices:** the key is (1)
 
-#### Entanglement and other fun concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/entanglement-and-other-fun-concepts?u=76281980)
+#### [Entanglement and other fun concepts](https://www.linkedin.com/learning/introduction-to-quantum-computing/entanglement-and-other-fun-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -964,7 +954,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/introduction-to-quantum-computing/entanglement-and-other-fun-concepts?u=76281980&t=98)** I'm going to go ahead and spin these two coins on the table.
 >
-> **[1:41](https://www.linkedin.com/learning/introduction-to-quantum-computing/entanglement-and-other-fun-concepts?u=76281980&t=101)** (coin spinning) If we stop one of the coins, it will rest on heads or tails.
+> **[1:41](https://www.linkedin.com/learning/introduction-to-quantum-computing/entanglement-and-other-fun-concepts?u=76281980&t=101)** (coin spinning) If we stop one of the coins, it will [[Representational State Transfer (REST)|rest]] on heads or tails.
 >
 > **[1:49](https://www.linkedin.com/learning/introduction-to-quantum-computing/entanglement-and-other-fun-concepts?u=76281980&t=109)** If these two coins were entangled, the other coin would also stop, and it would rest on the other side of the coin to the one we stopped.
 >
@@ -986,7 +976,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/introduction-to-quantum-computing/entanglement-and-other-fun-concepts?u=76281980&t=150)** Perhaps, as some believe, quantum entanglement is in some way what is holding the universe together.
 >
-> **[2:37](https://www.linkedin.com/learning/introduction-to-quantum-computing/entanglement-and-other-fun-concepts?u=76281980&t=157)** So how does quantum entanglement factor into quantum computing?
+> **[2:37](https://www.linkedin.com/learning/introduction-to-quantum-computing/entanglement-and-other-fun-concepts?u=76281980&t=157)** So how does quantum entanglement factor into [[Quantum Computing]]?
 >
 > **[2:41](https://www.linkedin.com/learning/introduction-to-quantum-computing/entanglement-and-other-fun-concepts?u=76281980&t=161)** Previously we explored the quantum equivalent of a classical bit, called a qubit.
 >
@@ -1048,7 +1038,7 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/introduction-to-quantum-computing/entanglement-and-other-fun-concepts?u=76281980&t=337)** And it turns out that there are some quantum states of matter that have very similar mathematically identical type of robustness, and so topological quantum computers based on using as your physical platform those kinds of quantum states of matter.
 >
-> **[5:53](https://www.linkedin.com/learning/introduction-to-quantum-computing/entanglement-and-other-fun-concepts?u=76281980&t=353)** And so a lot of the research here at Microsoft, the big technical challenge for us is to controllably make those quantum states of matter in the laboratory, and ultimately in quantum hardware, so that you will have intrinsically, inherently, much more coherent, more stable qubits.
+> **[5:53](https://www.linkedin.com/learning/introduction-to-quantum-computing/entanglement-and-other-fun-concepts?u=76281980&t=353)** And so a lot of the research here at [[Microsoft]], the big technical challenge for us is to controllably make those quantum states of matter in the laboratory, and ultimately in quantum [[Hardware]], so that you will have intrinsically, inherently, much more coherent, more stable qubits.
 >
 > **[6:14](https://www.linkedin.com/learning/introduction-to-quantum-computing/entanglement-and-other-fun-concepts?u=76281980&t=374)** That said, decoherenece also explains how quantum mechanics is the basis of classical mechanics.
 >
@@ -1058,7 +1048,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Quantum Computing]] (1), power (1), parallel (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Quantum Computing]] (1), [[Microsoft]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** means that (1), is called (1), is an  (1)
 > **Speakers:** - entanglement (1), - when (1), - you (1)
@@ -1068,8 +1058,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The current state of quantum computing research
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-state-of-quantum-computing-research?u=76281980)
+#### [The current state of quantum computing research](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-state-of-quantum-computing-research?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1081,7 +1070,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-state-of-quantum-computing-research?u=76281980&t=17)** We want this capability now.
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-state-of-quantum-computing-research?u=76281980&t=20)** Quantum computing is still an emerging technology.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-state-of-quantum-computing-research?u=76281980&t=20)** [[Quantum Computing]] is still an emerging technology.
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-state-of-quantum-computing-research?u=76281980&t=23)** What major breakthroughs are required for it to enter the mainstream?
 >
@@ -1123,9 +1112,9 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-state-of-quantum-computing-research?u=76281980&t=198)** You can't just run classical computing software that works with binary bits on a system that uses qubits.
 >
-> **[3:26](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-state-of-quantum-computing-research?u=76281980&t=206)** In other words, PC-based Microsoft Windows can't be installed on a quantum computer.
+> **[3:26](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-state-of-quantum-computing-research?u=76281980&t=206)** In other words, PC-based [[Microsoft]] [[Windows]] can't be installed on a quantum computer.
 >
-> **[3:32](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-state-of-quantum-computing-research?u=76281980&t=212)** Quantum computers need their own algorithms, operating systems, and programming platforms.
+> **[3:32](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-state-of-quantum-computing-research?u=76281980&t=212)** Quantum computers need their own [[Algorithms]], operating systems, and programming platforms.
 >
 > **[3:38](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-state-of-quantum-computing-research?u=76281980&t=218)** Classical computing software evolved over decades and was represented by generations of software.
 >
@@ -1139,7 +1128,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-state-of-quantum-computing-research?u=76281980&t=255)** However, innovation is moving quickly.
 >
-> **[4:18](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-state-of-quantum-computing-research?u=76281980&t=258)** While we are addressing the hardware and software needs, we also need to see more participants in the quantum computing marketplace.
+> **[4:18](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-state-of-quantum-computing-research?u=76281980&t=258)** While we are addressing the [[Hardware]] and software needs, we also need to see more participants in the quantum computing marketplace.
 >
 > **[4:26](https://www.linkedin.com/learning/introduction-to-quantum-computing/the-current-state-of-quantum-computing-research?u=76281980&t=266)** This will happen when it becomes more evident what the timeline is for broader adoption.
 >
@@ -1153,17 +1142,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Quantum Computing]] (3), [[Programming]] (2), strengths (1), [[Microsoft]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Quantum Computing]] (3), [[Microsoft]] (1), [[Windows]] (1), [[Algorithms]] (1), [[Hardware]] (1)
 > **Speakers:** - by (1), - taking (1), - [man (1), - quantum (1), - while (1)
 > **Definitions:** means that (2), is a  (1), in other words (1)
 > **CLI Commands:** make (2)
 
-#### Examples of quantum computing implementations
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980)
+#### [Examples of quantum computing implementations](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=0)** - For much of history of quantum computing, the concepts were theoretical and documented in complex mathematics.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=0)** - For much of history of [[Quantum Computing]], the concepts were theoretical and documented in complex mathematics.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=8)** Fortunately, since the late 1990s, actual quantum computers have been built.
 >
@@ -1191,29 +1179,29 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=69)** IBM does have experimental machines with higher qubit counts but are not available for public use.
 >
-> **[1:17](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=77)** IBM also provides an open source quantum software development kit called Qiskit and a virtual interface for coding called IBM Q Experience.
+> **[1:17](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=77)** IBM also provides an open source quantum [[Software Development]] kit called Qiskit and a virtual interface for coding called IBM Q Experience.
 >
 > **[1:29](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=89)** Detailed information is provided on IBM's quantum computing website, regarding these implementations and how to access and use them.
 >
-> **[1:38](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=98)** Microsoft has been working on both the hardware and software for quantum computers for over a decade.
+> **[1:38](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=98)** [[Microsoft]] has been working on both the [[Hardware]] and software for quantum computers for over a decade.
 >
-> **[1:44](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=104)** Their quantum-focused programing language is called Q# and has integration with Visual Studio and the Python language.
+> **[1:44](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=104)** Their quantum-focused programing language is called Q# and has integration with Visual Studio and the [[Python (Programming Language)|Python]] language.
 >
-> **[1:53](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=113)** It enables development on Windows, Mac OS, and Linux.
+> **[1:53](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=113)** It enables development on [[Windows]], Mac OS, and [[Linux]].
 >
 > **[1:58](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=118)** Microsoft believes, as do many, that classical and quantum computing will work together, at least for the foreseeable future.
 >
 > **[2:08](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=128)** A classical computer would determine if a workload would be best processed in a quantum computer.
 >
-> **[2:14](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=134)** If it is, the workload will be uploaded to a quantum computing platform and then results will be made available through Microsoft's Azure service.
+> **[2:14](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=134)** If it is, the workload will be uploaded to a quantum computing platform and then results will be made available through Microsoft's [[Microsoft Azure|Azure]] service.
 >
-> **[2:26](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=146)** Google is now deep in the quantum computing research and development business.
+> **[2:26](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=146)** [[Google]] is now deep in the quantum computing research and development business.
 >
-> **[2:31](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=151)** Their focus is on quantum powering artificial intelligence, developed through both hardware and software.
+> **[2:31](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=151)** Their focus is on quantum powering [[Artificial Intelligence (AI)|artificial intelligence]], developed through both hardware and software.
 >
 > **[2:38](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=158)** Their current quantum processor called Bristlecone supports 72 qubits.
 >
-> **[2:45](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=165)** They also offer two open source platforms, Cirq, which is for experimenting with quantum algorithms, and OpenFermion, which is for working on problems associated with chemical and material sciences.
+> **[2:45](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=165)** They also offer two open source platforms, Cirq, which is for experimenting with quantum [[Algorithms]], and OpenFermion, which is for working on problems associated with chemical and material sciences.
 >
 > **[3:00](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=180)** D-Wave was founded in 1999 and is often cited as the first commercial quantum computing company.
 >
@@ -1229,9 +1217,9 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=230)** A deeper explanation of this is outside the scope of this introductory course.
 >
-> **[3:55](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=235)** D-Wave systems have been used to develop over 100 applications, including those in cyber-security, optimization, financial analysis, manufacturing processes, and more.
+> **[3:55](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=235)** D-Wave systems have been used to develop over 100 applications, including those in cyber-security, optimization, [[Financial Analysis]], manufacturing processes, and more.
 >
-> **[4:09](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=249)** Amazon has indicated their intent to offer cloud-based quantum processing through their popular Amazon Web Services or AWS offerings.
+> **[4:09](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=249)** Amazon has indicated their intent to offer cloud-based quantum processing through their popular [[Amazon Web Services (AWS)|Amazon Web Services]] or AWS offerings.
 >
 > **[4:18](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=258)** China's Alibaba is pursuing a similar path.
 >
@@ -1247,7 +1235,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=292)** There are opportunities, not only to solve these great problems, but you know, there are opportunities in security space where this comes into play that a lot of people are looking at.
 >
-> **[5:07](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=307)** I'm hoping that the countries will come together and try to work together on solving some of these big programs like climate change and like, food production.
+> **[5:07](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=307)** I'm hoping that the countries will come together and try to work together on solving some of these big programs like [[Climate Change]] and like, food production.
 >
 > **[5:17](https://www.linkedin.com/learning/introduction-to-quantum-computing/examples-of-quantum-computing-implementations?u=76281980&t=317)** I think healthcare is another area.
 >
@@ -1257,19 +1245,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Quantum Computing]] (11), [[Microsoft]] (3), [[Hardware]] (3), [[Google]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Quantum Computing]] (11), [[Microsoft]] (3), [[Hardware]] (3), [[Google]] (2), [[Software Development]] (1)
 > **Env Vars:** ibm (5), aws (1)
 > **Speakers:** - for (1), - i (1), - more (1)
 > **CLI Commands:** python (1), aws (1)
 > **Definitions:** is a  (1), is called (1)
 > **Tools:** visual studio (1)
 
-#### Quantum computing applications now and in the future
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-applications-now-and-in-the-future?u=76281980)
+#### [Quantum computing applications now and in the future](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-applications-now-and-in-the-future?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-applications-now-and-in-the-future?u=76281980&t=0)** - How is quantum computing used today and what might be its use in the future?
+> **[0:00](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-applications-now-and-in-the-future?u=76281980&t=0)** - How is [[Quantum Computing]] used today and what might be its use in the future?
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-applications-now-and-in-the-future?u=76281980&t=5)** Today, it continues to be categorized in the prototype and experimental realm, although it is already contributing to decisions in a variety of important industries.
 >
@@ -1297,11 +1284,11 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-applications-now-and-in-the-future?u=76281980&t=111)** - [Instructor] Current users are largely limited to big industries or research in academia.
 >
-> **[1:56](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-applications-now-and-in-the-future?u=76281980&t=116)** Unsurprisingly, these entities include NASA, Lockheed Martin, Airbus, Google, and the Los Alamos National Laboratory.
+> **[1:56](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-applications-now-and-in-the-future?u=76281980&t=116)** Unsurprisingly, these entities include NASA, Lockheed Martin, Airbus, [[Google]], and the Los Alamos National Laboratory.
 >
 > **[2:06](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-applications-now-and-in-the-future?u=76281980&t=126)** Lockheed Martin and Airbus, large aviation enterprises, are using their quantum computers for aeronautical modeling.
 >
-> **[2:14](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-applications-now-and-in-the-future?u=76281980&t=134)** They are both, for example, researching and investing in the optimization power of quantum to aid in the routing and scheduling of aircraft.
+> **[2:14](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-applications-now-and-in-the-future?u=76281980&t=134)** They are both, for example, researching and investing in the optimization power of quantum to aid in the [[Routing]] and scheduling of aircraft.
 >
 > **[2:24](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-applications-now-and-in-the-future?u=76281980&t=144)** For them, this has commercial benefits in both time and costs.
 >
@@ -1333,7 +1320,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-applications-now-and-in-the-future?u=76281980&t=261)** - There are certain chemical reactions where they have huge technological applications like nitrogen fixation, for example.
 >
-> **[4:36](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-applications-now-and-in-the-future?u=76281980&t=276)** It's used for all the agricultural purposes in fertilizers but the main reaction that leads to this nitrogen fixation takes a lot of energy, so basically agricultural companies that produce these agricultural products, they use more than a few percent of world's consumption of electricity for this.
+> **[4:36](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-applications-now-and-in-the-future?u=76281980&t=276)** It's used for all the agricultural purposes in fertilizers but the main reaction that leads to this nitrogen fixation takes a lot of energy, so basically agricultural companies that produce these agricultural [[Microsoft Products|products]], they use more than a few percent of world's consumption of electricity for this.
 >
 > **[5:05](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-applications-now-and-in-the-future?u=76281980&t=305)** At the same time, we know that there are certain bacterias that are doing the same job at room temperature, meaning they don't require any energy, so we know that there are more efficient pathways to solve this problem, we just don't know how and quantum computer can provide this pathway to learn about these systems and solve these problems.
 >
@@ -1341,7 +1328,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Quantum Computing]] (3), management (1), [[Google]] (1), power (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Quantum Computing]] (3), [[Google]] (1), [[Routing]] (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - how (1), - quantum (1), - [instructor] (1), - my (1), - there (1)
 > **Env Vars:** erp (1), crm (1), nasa (1)
 > **Analogies:** for example (3)
@@ -1353,12 +1340,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Opportunities for enterprises and individuals
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/opportunities-for-enterprises-and-individuals?u=76281980)
+#### [Opportunities for enterprises and individuals](https://www.linkedin.com/learning/introduction-to-quantum-computing/opportunities-for-enterprises-and-individuals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-quantum-computing/opportunities-for-enterprises-and-individuals?u=76281980&t=0)** - If current trends continue, the evidence suggests that quantum computing is going to be a disruptive and sizable global market opportunity.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-quantum-computing/opportunities-for-enterprises-and-individuals?u=76281980&t=0)** - If current trends continue, the evidence suggests that [[Quantum Computing]] is going to be a disruptive and sizable global market opportunity.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-quantum-computing/opportunities-for-enterprises-and-individuals?u=76281980&t=9)** While it's apparent that we're still quite a few years out from broad, mainstream adoption, now is the time to learn, engage and begin planning.
 >
@@ -1378,7 +1364,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/introduction-to-quantum-computing/opportunities-for-enterprises-and-individuals?u=76281980&t=91)** - It's a different way to compute, so you need to understand how quantum computers work.
 >
-> **[1:37](https://www.linkedin.com/learning/introduction-to-quantum-computing/opportunities-for-enterprises-and-individuals?u=76281980&t=97)** There's a lot of linear algebra involved, you need to make sure that you understand that well.
+> **[1:37](https://www.linkedin.com/learning/introduction-to-quantum-computing/opportunities-for-enterprises-and-individuals?u=76281980&t=97)** There's a lot of [[Linear Algebra]] involved, you need to make sure that you understand that well.
 >
 > **[1:42](https://www.linkedin.com/learning/introduction-to-quantum-computing/opportunities-for-enterprises-and-individuals?u=76281980&t=102)** If you're a machine learning person, a lot of the things that you learn transition over.
 >
@@ -1418,9 +1404,9 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/introduction-to-quantum-computing/opportunities-for-enterprises-and-individuals?u=76281980&t=237)** - So it's important, with a quantum computer, to note that it's a hybrid computer, so a quantum computer won't be standalone, right?
 >
-> **[4:06](https://www.linkedin.com/learning/introduction-to-quantum-computing/opportunities-for-enterprises-and-individuals?u=76281980&t=246)** It's controlled by all of our, it's controlled by a classical computer, so it will plug in to Azure, right, it'll be another accelerator available to you in the cloud.
+> **[4:06](https://www.linkedin.com/learning/introduction-to-quantum-computing/opportunities-for-enterprises-and-individuals?u=76281980&t=246)** It's controlled by all of our, it's controlled by a classical computer, so it will plug in to [[Microsoft Azure|Azure]], right, it'll be another accelerator available to you in the cloud.
 >
-> **[4:17](https://www.linkedin.com/learning/introduction-to-quantum-computing/opportunities-for-enterprises-and-individuals?u=76281980&t=257)** So as you program your classical code and you take advantage of, say, a GPU or an FPGA, right, you really use a heterogeneous compute environment now to get amazing results from algorithms in general.
+> **[4:17](https://www.linkedin.com/learning/introduction-to-quantum-computing/opportunities-for-enterprises-and-individuals?u=76281980&t=257)** So as you program your classical code and you take advantage of, say, a GPU or an FPGA, right, you really use a heterogeneous compute environment now to get amazing results from [[Algorithms]] in general.
 >
 > **[4:32](https://www.linkedin.com/learning/introduction-to-quantum-computing/opportunities-for-enterprises-and-individuals?u=76281980&t=272)** And so this is going to be similar, you're going to program in this heterogeneous compute environment, parts of your computation will go to this quantum computer, right, to this quantum accelerator if you will.
 >
@@ -1442,7 +1428,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Quantum Computing]] (8), business (5), cloud (3), next (2), [[Linear Algebra]] (1)
+> **Frameworks & Libraries:** [[Quantum Computing]] (8), [[Linear Algebra]] (1), [[Microsoft Azure|Azure]] (1), [[Algorithms]] (1)
 > **Speakers:** - if (1), - one (1), - it (1), - [instructor] (1), - so (1)
 > **Env Vars:** gpu (2), fpga (2), cpu (1)
 > **CLI Commands:** make (2)
@@ -1451,8 +1437,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Warnings:** note that (1)
 
-#### Quantum computing in the fourth industrial revolution
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-in-the-fourth-industrial-revolution?u=76281980)
+#### [Quantum computing in the fourth industrial revolution](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-in-the-fourth-industrial-revolution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1460,9 +1445,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-in-the-fourth-industrial-revolution?u=76281980&t=9)** It will be defined by disruptive technologies and macro trends that will have materially greater impact, scope and velocity than anything that has come before.
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-in-the-fourth-industrial-revolution?u=76281980&t=20)** This period will be the context for the emergence of quantum computing.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-in-the-fourth-industrial-revolution?u=76281980&t=20)** This period will be the context for the emergence of [[Quantum Computing]].
 >
-> **[0:25](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-in-the-fourth-industrial-revolution?u=76281980&t=25)** All ready anticipated to be a groundbreaking period due to factors such as artificial intelligence, blockchain technology, urban innovation, fifth generation or 5G telecommunications, demographic and economic shifts, medical advances and our response to climate change, quantum computing will drive change in unexpected and important ways.
+> **[0:25](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-in-the-fourth-industrial-revolution?u=76281980&t=25)** All ready anticipated to be a groundbreaking period due to factors such as [[Artificial Intelligence (AI)|artificial intelligence]], [[Blockchain]] technology, urban innovation, fifth generation or [[5G]] [[Telecommunications]], demographic and economic shifts, medical advances and our response to [[Climate Change]], quantum computing will drive change in unexpected and important ways.
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-in-the-fourth-industrial-revolution?u=76281980&t=50)** Sure, it will enable faster processing of the most complex computing tasks, but it will be its relationship and convergence with other technologies and behavioral shifts that will result in the biggest and most important changes.
 >
@@ -1470,7 +1455,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-in-the-fourth-industrial-revolution?u=76281980&t=69)** AI is breaking new ground every day in the capabilities it can improve, augment and create.
 >
-> **[1:15](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-in-the-fourth-industrial-revolution?u=76281980&t=75)** From medicine, to new material sciences, to financial analysis, consumer electronics and more, it's already a game changer.
+> **[1:15](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-in-the-fourth-industrial-revolution?u=76281980&t=75)** From medicine, to new material sciences, to [[Financial Analysis]], consumer [[Electronics]] and more, it's already a game changer.
 >
 > **[1:24](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-in-the-fourth-industrial-revolution?u=76281980&t=84)** When we integrate AI with quantum we'll accelerate capabilities, innovation and energize research to achieve stunning results.
 >
@@ -1482,15 +1467,15 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-in-the-fourth-industrial-revolution?u=76281980&t=109)** It's a different type of database for storing and managing data.
 >
-> **[1:54](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-in-the-fourth-industrial-revolution?u=76281980&t=114)** It is more secure than traditional databases and not governed by any central authority.
+> **[1:54](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-in-the-fourth-industrial-revolution?u=76281980&t=114)** It is more secure than traditional [[Databases]] and not governed by any central authority.
 >
-> **[2:00](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-in-the-fourth-industrial-revolution?u=76281980&t=120)** It's the basis of cryptocurrency but has found important roles in a wide range of applications.
+> **[2:00](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-in-the-fourth-industrial-revolution?u=76281980&t=120)** It's the basis of [[Cryptocurrency]] but has found important roles in a wide range of applications.
 >
 > **[2:07](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-in-the-fourth-industrial-revolution?u=76281980&t=127)** It's also emerging and evolving.
 >
 > **[2:09](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-in-the-fourth-industrial-revolution?u=76281980&t=129)** One of it's best qualities is its security.
 >
-> **[2:13](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-in-the-fourth-industrial-revolution?u=76281980&t=133)** Blockchains use cryptography that both enables only authorized individuals to interact with them but also helps to protect data from being altered in the database.
+> **[2:13](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-in-the-fourth-industrial-revolution?u=76281980&t=133)** Blockchains use [[Cryptography]] that both enables only authorized individuals to interact with them but also helps to protect data from being altered in the database.
 >
 > **[2:23](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-in-the-fourth-industrial-revolution?u=76281980&t=143)** The cryptography uses math that is just too hard for a human or even the best existing classical computing power to solve in order to break the security.
 >
@@ -1540,7 +1525,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-in-the-fourth-industrial-revolution?u=76281980&t=316)** We will need bold, new ideas and technologies to help solve this existential crisis.
 >
-> **[5:24](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-in-the-fourth-industrial-revolution?u=76281980&t=324)** - The key application areas we think about really enabling are in the simulation of physical systems.
+> **[5:24](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-in-the-fourth-industrial-revolution?u=76281980&t=324)** - The key application areas we think about really enabling are in the [[Simulation]] of physical systems.
 >
 > **[5:31](https://www.linkedin.com/learning/introduction-to-quantum-computing/quantum-computing-in-the-fourth-industrial-revolution?u=76281980&t=331)** What that means is we're looking at simulating chemical processes, reaction rates, catalyst problems, you know, when does a catalyst come in and can it make it a reaction more efficient?
 >
@@ -1582,7 +1567,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Quantum Computing]] (8), [[Blockchain]] (5), [[Cryptography]] (4), ai (3), database (3)
+> **Frameworks & Libraries:** [[Quantum Computing]] (8), [[Blockchain]] (5), [[Cryptography]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[5G]] (1)
 > **Speakers:** - you (2), - this (1), - finally (1), - the (1), - yeah (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (2)
@@ -1593,14 +1578,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Final thoughts and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-quantum-computing/final-thoughts-and-next-steps?u=76281980)
+#### [Final thoughts and next steps](https://www.linkedin.com/learning/introduction-to-quantum-computing/final-thoughts-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-quantum-computing/final-thoughts-and-next-steps?u=76281980&t=0)** - The big question left now is: When will quantum computers be generally available?
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-quantum-computing/final-thoughts-and-next-steps?u=76281980&t=6)** There's a common refrain in the industry that we're about 10 years out from mainstream quantum computing.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-quantum-computing/final-thoughts-and-next-steps?u=76281980&t=6)** There's a common refrain in the industry that we're about 10 years out from mainstream [[Quantum Computing]].
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-quantum-computing/final-thoughts-and-next-steps?u=76281980&t=12)** However, that's been said each year for many years already.
 >
@@ -1636,9 +1620,9 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/introduction-to-quantum-computing/final-thoughts-and-next-steps?u=76281980&t=121)** Consider joining some meet-ups, and if one doesn't exist in your area, start one.
 >
-> **[2:07](https://www.linkedin.com/learning/introduction-to-quantum-computing/final-thoughts-and-next-steps?u=76281980&t=127)** I've created LinkedIn Learning courses on several of the other technologies and trends cited.
+> **[2:07](https://www.linkedin.com/learning/introduction-to-quantum-computing/final-thoughts-and-next-steps?u=76281980&t=127)** I've created [[LinkedIn]] Learning courses on several of the other technologies and trends cited.
 >
-> **[2:12](https://www.linkedin.com/learning/introduction-to-quantum-computing/final-thoughts-and-next-steps?u=76281980&t=132)** These include Blockchain technology, smart cities, and a deep exploration of the fourth industrial revolution.
+> **[2:12](https://www.linkedin.com/learning/introduction-to-quantum-computing/final-thoughts-and-next-steps?u=76281980&t=132)** These include [[Blockchain]] technology, smart cities, and a deep exploration of the fourth industrial revolution.
 >
 > **[2:20](https://www.linkedin.com/learning/introduction-to-quantum-computing/final-thoughts-and-next-steps?u=76281980&t=140)** I've been working in various roles in technology, business, and government for 30 years.
 >
@@ -1650,7 +1634,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/introduction-to-quantum-computing/final-thoughts-and-next-steps?u=76281980&t=172)** We've come a long way, but major work continues to be ahead.
 >
-> **[2:57](https://www.linkedin.com/learning/introduction-to-quantum-computing/final-thoughts-and-next-steps?u=76281980&t=177)** From creating more system stability to implementing fault tolerance to supporting greater numbers of qubits, and building the ecosystem of software, hardware, and service providers, our challenges are not trivial.
+> **[2:57](https://www.linkedin.com/learning/introduction-to-quantum-computing/final-thoughts-and-next-steps?u=76281980&t=177)** From creating more system stability to implementing fault tolerance to supporting greater numbers of qubits, and building the ecosystem of software, [[Hardware]], and service providers, our challenges are not trivial.
 >
 > **[3:12](https://www.linkedin.com/learning/introduction-to-quantum-computing/final-thoughts-and-next-steps?u=76281980&t=192)** Could it all fail?
 >
@@ -1678,7 +1662,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Quantum Computing]] (5), next (1), [[Security]] (1), cloud (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Quantum Computing]] (5), [[LinkedIn]] (1), [[Blockchain]] (1), [[Hardware]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Tools:** notion (1)

@@ -88,20 +88,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advanced decision trees
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-decision-trees?u=76281980)
+#### [Advanced decision trees](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-decision-trees?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-decision-trees?u=76281980&t=0)** - [Keith] We're about to continue the journey that began with the decision trees with KNIME course.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-decision-trees?u=76281980&t=0)** - [Keith] We're about to continue the journey that began with the [[Decision Trees]] with [[Knime]] course.
 >
-> **[0:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-decision-trees?u=76281980&t=7)** We've already learned about the two most popular and influential decision tree algorithms, but there are many more options than just those two.
+> **[0:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-decision-trees?u=76281980&t=7)** We've already learned about the two most popular and influential decision tree [[Algorithms]], but there are many more options than just those two.
 >
 > **[0:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-decision-trees?u=76281980&t=19)** Along the way, we'll learn more about KNIME itself.
 >
 > **[0:23](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-decision-trees?u=76281980&t=23)** As a no code option, KNIME is very easy to learn, but there are also low code options within KNIME that open the door to many more possibilities.
 >
-> **[0:38](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-decision-trees?u=76281980&t=38)** If it's possible with Python, it's also possible right in KNIME and we'll be seeing how.
+> **[0:38](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-decision-trees?u=76281980&t=38)** If it's possible with [[Python (Programming Language)|Python]], it's also possible right in KNIME and we'll be seeing how.
 >
 > **[0:46](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-decision-trees?u=76281980&t=46)** So join me to be a more sophisticated user of KNIME and how that allows for a greater variety of algorithms, including, of course, more decision tree and rule induction algorithms using techniques like separate and conquer and random forest.
 >
@@ -115,8 +114,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [keith] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -124,11 +122,11 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/what-you-should-know?u=76281980&t=3)** Certainly watching the first course is the easiest way to get up to speed on these topics but on the chance that you are comfortable with all three of them already, here's what we covered.
 >
-> **[0:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/what-you-should-know?u=76281980&t=15)** First, the theory behind decision trees including advantages, potential weaknesses and why they're so important to machine learning.
+> **[0:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/what-you-should-know?u=76281980&t=15)** First, the theory behind [[Decision Trees]] including advantages, potential weaknesses and why they're so important to machine learning.
 >
-> **[0:25](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/what-you-should-know?u=76281980&t=25)** Then a thorough introduction to KNIME's decision tree learner node, and all of the functions that would typically be used along with it in KNIME, including partitioning, balancing and scoring.
+> **[0:25](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/what-you-should-know?u=76281980&t=25)** Then a thorough introduction to [[Knime]]'s decision tree learner node, and all of the functions that would typically be used along with it in KNIME, including partitioning, balancing and scoring.
 >
-> **[0:42](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/what-you-should-know?u=76281980&t=42)** Finally, we covered the theory of both CART and C4.5 and how to adjust the settings in the decision tree learner to mimic these two very influential algorithms.
+> **[0:42](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/what-you-should-know?u=76281980&t=42)** Finally, we covered the theory of both CART and C4.5 and how to adjust the settings in the decision tree learner to mimic these two very influential [[Algorithms]].
 >
 > **[0:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/what-you-should-know?u=76281980&t=58)** So if you have a thorough understanding of all three of these topics, you can proceed directly with this course.
 >
@@ -136,14 +134,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (2), [[Decision Trees]] (1), node (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Knime]] (2), [[Decision Trees]] (1), [[Algorithms]] (1)
 > **Env Vars:** knime (2), cart (1)
 > **Cross-References:** we covered (2)
 > **CLI Commands:** node (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -181,7 +178,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), node (2), [[Analytics]] (1), next (1)
 > **CLI Commands:** make (2), node (2)
 > **Speakers:** - [instructor] (1)
 
@@ -190,12 +186,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why are trees considered greedy algorithms?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/why-are-trees-considered-greedy-algorithms?u=76281980)
+#### [Why are trees considered greedy algorithms?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/why-are-trees-considered-greedy-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/why-are-trees-considered-greedy-algorithms?u=76281980&t=0)** - [Instructor] In the previous course, we discussed in general the advantages and disadvantages of decision tree algorithms.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/why-are-trees-considered-greedy-algorithms?u=76281980&t=0)** - [Instructor] In the previous course, we discussed in general the advantages and disadvantages of decision tree [[Algorithms]].
 >
 > **[0:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/why-are-trees-considered-greedy-algorithms?u=76281980&t=8)** We won't revisit that whole list now, except one particular disadvantage or weakness of trees, better understanding that will help us understand the goals of this course and that potential weakness is that decision tree algorithms are greedy.
 >
@@ -237,7 +232,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/why-are-trees-considered-greedy-algorithms?u=76281980&t=162)** However, everyone, even if you don't play chess, can recognize that playing just one move at a time is risky.
 >
-> **[2:52](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/why-are-trees-considered-greedy-algorithms?u=76281980&t=172)** Well, decision trees very much play one move at a time and that's perhaps the best way to to think about it.
+> **[2:52](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/why-are-trees-considered-greedy-algorithms?u=76281980&t=172)** Well, [[Decision Trees]] very much play one move at a time and that's perhaps the best way to to think about it.
 >
 > **[3:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/why-are-trees-considered-greedy-algorithms?u=76281980&t=180)** So, developers of tree algorithms have tried to come up with all kinds of different and creative ways to make the best possible decisions at each branch.
 >
@@ -252,12 +247,11 @@ created: 2026-05-02
 > **Env Vars:** cart (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why are there so many algorithms?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/why-are-there-so-many-algorithms?u=76281980)
+#### [Why are there so many algorithms?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/why-are-there-so-many-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/why-are-there-so-many-algorithms?u=76281980&t=0)** - [Instructor] We're going to see at least briefly, a half dozen more algorithms in this course.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/why-are-there-so-many-algorithms?u=76281980&t=0)** - [Instructor] We're going to see at least briefly, a half dozen more [[Algorithms]] in this course.
 >
 > **[0:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/why-are-there-so-many-algorithms?u=76281980&t=6)** All variations on the decision tree or rule induction theme, and that's just a small sampling of the number that exists.
 >
@@ -273,7 +267,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/why-are-there-so-many-algorithms?u=76281980&t=53)** Some algorithms have a completely different approach at the leaf node.
 >
-> **[0:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/why-are-there-so-many-algorithms?u=76281980&t=58)** Rather than simply choosing the mode for classification purposes, they can have a binary logistic formula or linear logistic regression formula that's designed to specifically fit the segment identified at that leaf node.
+> **[0:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/why-are-there-so-many-algorithms?u=76281980&t=58)** Rather than simply choosing the mode for classification purposes, they can have a binary logistic formula or linear [[Logistic Regression]] formula that's designed to specifically fit the segment identified at that leaf node.
 >
 > **[1:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/why-are-there-so-many-algorithms?u=76281980&t=78)** And then Ensembles use a completely different approach where there's actually multiple trees that are aggregated together.
 >
@@ -283,20 +277,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (5), node (2), [[Search]] (1), data (1), [[Logistic Regression]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (5), [[Logistic Regression]] (1)
 > **CLI Commands:** node (2), find (1)
 > **Env Vars:** shade (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Five low node or no code options in KNIME
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/five-low-node-or-no-code-options-in-knime?u=76281980)
+#### [Five low node or no code options in KNIME](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/five-low-node-or-no-code-options-in-knime?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/five-low-node-or-no-code-options-in-knime?u=76281980&t=0)** - [Instructor] Some folks assume that if you've chosen a no code option like Nime, that you've essentially ruled out a full coding option like Python, for instance.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/five-low-node-or-no-code-options-in-knime?u=76281980&t=0)** - [Instructor] Some folks assume that if you've chosen a no code option like Nime, that you've essentially ruled out a full coding option like [[Python (Programming Language)|Python]], for instance.
 >
-> **[0:14](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/five-low-node-or-no-code-options-in-knime?u=76281980&t=14)** If this were true, it would pose a potential limitation because as we've seen there are numerous decision tree algorithms each with different strengths and weaknesses and the decision tree learner node, which we used in the last course, mimics just two of those algorithms.
+> **[0:14](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/five-low-node-or-no-code-options-in-knime?u=76281980&t=14)** If this were true, it would pose a potential limitation because as we've seen there are numerous decision tree [[Algorithms]] each with different strengths and weaknesses and the decision tree learner node, which we used in the last course, mimics just two of those algorithms.
 >
 > **[0:36](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/five-low-node-or-no-code-options-in-knime?u=76281980&t=36)** Thankfully, it's simply not true that we have to choose between no code and full code.
 >
@@ -336,7 +329,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/five-low-node-or-no-code-options-in-knime?u=76281980&t=171)** We'll say a little bit more about this later, but we won't be doing a full demonstration of this most elaborate option.
 >
-> **[3:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/five-low-node-or-no-code-options-in-knime?u=76281980&t=180)** So how should this fit into your team's strategy regarding decision trees and collaboration?
+> **[3:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/five-low-node-or-no-code-options-in-knime?u=76281980&t=180)** So how should this fit into your team's strategy regarding [[Decision Trees]] and collaboration?
 >
 > **[3:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/five-low-node-or-no-code-options-in-knime?u=76281980&t=189)** The overall advice is this.
 >
@@ -354,7 +347,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), node (3), next (3), [[Algorithms]] (2), feature (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Algorithms]] (2), [[Decision Trees]] (1)
 > **CLI Commands:** python (6), node (3), find (2)
 > **Definitions:** is called (1), is a  (1)
 > **Prerequisites:** install (2)
@@ -368,12 +361,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing extensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/installing-extensions?u=76281980)
+#### [Installing extensions](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/installing-extensions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/installing-extensions?u=76281980&t=0)** - Okay, here we are in Knime.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/installing-extensions?u=76281980&t=0)** - Okay, here we are in [[Knime]].
 >
 > **[0:02](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/installing-extensions?u=76281980&t=2)** And this is what Knime looks like when you first launch it.
 >
@@ -419,7 +411,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (7), node (4), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Knime]] (7)
 > **CLI Commands:** node (4), find (1)
 > **UI Navigation:** click on (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -428,8 +420,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - okay (1)
 
-#### WEKA LMT demonstration
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/weka-lmt-demonstration?u=76281980)
+#### [WEKA LMT demonstration](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/weka-lmt-demonstration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -439,7 +430,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/weka-lmt-demonstration?u=76281980&t=7)** You're going to have two options for where to get the workflow.
 >
-> **[0:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/weka-lmt-demonstration?u=76281980&t=10)** You can either use the Knime hub or you can go to the examples folder, download all the workflows, and import them into Knime.
+> **[0:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/weka-lmt-demonstration?u=76281980&t=10)** You can either use the [[Knime]] hub or you can go to the examples folder, download all the workflows, and import them into Knime.
 >
 > **[0:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/weka-lmt-demonstration?u=76281980&t=22)** I'm going to go ahead and show you using the Knime Hub but you're welcome to do it either way.
 >
@@ -451,13 +442,13 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/weka-lmt-demonstration?u=76281980&t=47)** So I'm going to double click on that.
 >
-> **[0:51](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/weka-lmt-demonstration?u=76281980&t=51)** And since we're going to focus on that, I'm going to go ahead and minimize all of these other windows.
+> **[0:51](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/weka-lmt-demonstration?u=76281980&t=51)** And since we're going to focus on that, I'm going to go ahead and minimize all of these other [[Windows]].
 >
 > **[1:02](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/weka-lmt-demonstration?u=76281980&t=62)** I'll keep the description for the time being but I'll get rid of the outline and I'll get rid of the log here.
 >
 > **[1:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/weka-lmt-demonstration?u=76281980&t=69)** So you can see in the description for LMT that I'm going to read this section here, but you should be able to see this on your screen as well.
 >
-> **[1:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/weka-lmt-demonstration?u=76281980&t=82)** You can see here that it's a classifier for building logistic model trees which are classification trees with logistic regression functions at the leaves.
+> **[1:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/weka-lmt-demonstration?u=76281980&t=82)** You can see here that it's a classifier for building logistic model trees which are classification trees with [[Logistic Regression]] functions at the leaves.
 >
 > **[1:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/weka-lmt-demonstration?u=76281980&t=93)** What I'm going to do is first, I'm going to show you how the workflow works.
 >
@@ -503,7 +494,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/weka-lmt-demonstration?u=76281980&t=258)** And here we go.
 >
-> **[4:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/weka-lmt-demonstration?u=76281980&t=259)** As I warned you, the output at first seems to be pretty complicated, but it's pretty straightforward, and we're going to zoom in and talk about this in more detail on the very next video.
+> **[4:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/weka-lmt-demonstration?u=76281980&t=259)** As I warned you, the output at first seems to be pretty complicated, but it's pretty straightforward, and we're going to [[Zoom]] in and talk about this in more detail on the very next video.
 >
 > **[4:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/weka-lmt-demonstration?u=76281980&t=269)** So the first rule is just this much of the tree which is at the top of this output.
 >
@@ -523,7 +514,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (6), data (5), next (4), node (4), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Knime]] (6), [[Windows]] (1), [[Logistic Regression]] (1), [[Zoom]] (1)
 > **CLI Commands:** node (4), find (3), make (2)
 > **UI Navigation:** click on (4), go to (2)
 > **Env Vars:** lmt (3)
@@ -532,16 +523,15 @@ created: 2026-05-02
 > **Analogies:** just like (1), similar to (1)
 > **Versions:** 0.42 (1)
 
-#### Interpreting the LMT results
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/interpreting-the-lmt-results?u=76281980)
+#### [Interpreting the LMT results](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/interpreting-the-lmt-results?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/interpreting-the-lmt-results?u=76281980&t=0)** - [Instructor] So now, let's talk about the logistic regression formula.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/interpreting-the-lmt-results?u=76281980&t=0)** - [Instructor] So now, let's talk about the [[Logistic Regression]] formula.
 >
 > **[0:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/interpreting-the-lmt-results?u=76281980&t=5)** We won't go deeply into this topic, but I want you to have some comfort with the output we just generated using the very interesting LMT algorithm.
 >
-> **[0:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/interpreting-the-lmt-results?u=76281980&t=18)** So I'm going to make the assumption that you probably have had some exposure to linear regression but possibly are less familiar with logistic regression.
+> **[0:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/interpreting-the-lmt-results?u=76281980&t=18)** So I'm going to make the assumption that you probably have had some exposure to [[Linear Regression]] but possibly are less familiar with logistic regression.
 >
 > **[0:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/interpreting-the-lmt-results?u=76281980&t=30)** However, I actually have an entire course dedicated to regression in the library.
 >
@@ -575,7 +565,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/interpreting-the-lmt-results?u=76281980&t=161)** So what's going on?
 >
-> **[2:43](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/interpreting-the-lmt-results?u=76281980&t=163)** Well, the reason we're taking the log is to flatten the curve at 0 and 1, 'cause you see with logistic, we're trying to make a prediction and we don't want a prediction that's bigger than 1 or smaller than 0, 0 being a low probability and 1.0 being a high probability.
+> **[2:43](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/interpreting-the-lmt-results?u=76281980&t=163)** Well, the reason we're taking the log is to flatten the curve at 0 and 1, 'cause you see with logistic, we're trying to make a prediction and we don't want a prediction that's bigger than 1 or smaller than 0, 0 being a low [[Probability]] and 1.0 being a high probability.
 >
 > **[3:04](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/interpreting-the-lmt-results?u=76281980&t=184)** So think about this in the context of our risk example.
 >
@@ -589,7 +579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (4), [[Linear Regression]] (3), [[Logistic Regression]] (2), node (2), data (1)
+> **Frameworks & Libraries:** [[Probability]] (4), [[Linear Regression]] (3), [[Logistic Regression]] (2)
 > **CLI Commands:** make (3), find (2), node (2)
 > **Env Vars:** lmt (2)
 > **Versions:** 1.0 (1)
@@ -603,12 +593,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Comparing trees and rule induction
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/comparing-trees-and-rule-induction?u=76281980)
+#### [Comparing trees and rule induction](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/comparing-trees-and-rule-induction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/comparing-trees-and-rule-induction?u=76281980&t=0)** - [Instructor] We've been very much focused on decision trees.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/comparing-trees-and-rule-induction?u=76281980&t=0)** - [Instructor] We've been very much focused on [[Decision Trees]].
 >
 > **[0:04](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/comparing-trees-and-rule-induction?u=76281980&t=4)** And we've seen how easily decision trees can be converted into rules.
 >
@@ -674,15 +663,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision Trees]] (3), node (3), data (2), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (3)
 > **CLI Commands:** node (3), make (2), find (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rule induction demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/rule-induction-demo?u=76281980)
+#### [Rule induction demo](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/rule-induction-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -726,15 +714,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (5), data (4), next (1)
 > **CLI Commands:** node (5)
 > **Env Vars:** adv (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - okay (1)
 
-#### Interpreting the rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/interpreting-the-rules?u=76281980)
+#### [Interpreting the rules](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/interpreting-the-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -802,11 +788,11 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/interpreting-the-rules?u=76281980&t=215)** So there you have it.
 >
-> **[3:36](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/interpreting-the-rules?u=76281980&t=216)** Separate and conquer truly is a completely different strategy than the divide and conquer strategy that we see in decision trees.
+> **[3:36](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/interpreting-the-rules?u=76281980&t=216)** Separate and conquer truly is a completely different strategy than the divide and conquer strategy that we see in [[Decision Trees]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Decision Trees]] (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (1)
 > **Versions:** 21.25 (2), 29.67 (1), 70.5 (1), 23.75 (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (2)
@@ -818,12 +804,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Low code options in KNIME
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/low-code-options-in-knime?u=76281980)
+#### [Low code options in KNIME](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/low-code-options-in-knime?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/low-code-options-in-knime?u=76281980&t=0)** - [Instructor] Now it's time to talk about KNIME's powerful low code and even full code options.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/low-code-options-in-knime?u=76281980&t=0)** - [Instructor] Now it's time to talk about [[Knime]]'s powerful low code and even full code options.
 >
 > **[0:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/low-code-options-in-knime?u=76281980&t=9)** There are three of them, and we're going to see some examples.
 >
@@ -831,7 +816,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/low-code-options-in-knime?u=76281980&t=17)** But in the current video, we're just going to talk about the options in a little bit more detail, and we're going to talk about setup and installation when necessary.
 >
-> **[0:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/low-code-options-in-knime?u=76281980&t=28)** So the Python Script Lab node, is going to allow you to use Python code without an elaborate installation, and we're going to see an example of this.
+> **[0:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/low-code-options-in-knime?u=76281980&t=28)** So the [[Python (Programming Language)|Python]] Script Lab node, is going to allow you to use Python code without an elaborate installation, and we're going to see an example of this.
 >
 > **[0:43](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/low-code-options-in-knime?u=76281980&t=43)** The Conda Environment Propagation node allows you to use a wider variety of Python resources, but does require an installation and setup step.
 >
@@ -893,7 +878,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/low-code-options-in-knime?u=76281980&t=270)** You might wonder what's new about this.
 >
-> **[4:34](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/low-code-options-in-knime?u=76281980&t=274)** Well, what's new and actually a bit exciting is that as of 4.6, you can do pure full Python code without having to write Java.
+> **[4:34](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/low-code-options-in-knime?u=76281980&t=274)** Well, what's new and actually a bit exciting is that as of 4.6, you can do pure full Python code without having to write [[Java]].
 >
 > **[4:48](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/low-code-options-in-knime?u=76281980&t=288)** Why would Java have ever been a requirement?
 >
@@ -907,7 +892,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/low-code-options-in-knime?u=76281980&t=316)** If you are not a Python programmer, this is not going to be an option for you.
 >
-> **[5:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/low-code-options-in-knime?u=76281980&t=321)** However, if you are a KNIME data science team, and you've got some folks that are coders and some folks that only use KNIME, this is a powerful option.
+> **[5:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/low-code-options-in-knime?u=76281980&t=321)** However, if you are a KNIME [[Data Science]] team, and you've got some folks that are coders and some folks that only use KNIME, this is a powerful option.
 >
 > **[5:32](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/low-code-options-in-knime?u=76281980&t=332)** Because you can add just about any functionality you want by bringing in the necessary Python code.
 >
@@ -919,7 +904,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (19), [[Knime]] (15), node (12), [[Java]] (4), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (19), [[Knime]] (15), [[Java]] (4), [[Data Science]] (1)
 > **CLI Commands:** python (19), node (12), make (1)
 > **Env Vars:** knime (15)
 > **Versions:** version 4 (3), 4.6 (2)
@@ -928,12 +913,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2), means that (1)
 > **Warnings:** note that (1), keep in mind (1)
 
-#### Python script node demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/python-script-node-demo?u=76281980)
+#### [Python script node demo](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/python-script-node-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/python-script-node-demo?u=76281980&t=0)** - [Instructor] Okay, here we are in the Python script node workflow.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/python-script-node-demo?u=76281980&t=0)** - [Instructor] Okay, here we are in the [[Python (Programming Language)|Python]] script node workflow.
 >
 > **[0:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/python-script-node-demo?u=76281980&t=5)** The name of the workflow is Advance Tree Chapter Four Python Script Node.
 >
@@ -945,7 +929,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/python-script-node-demo?u=76281980&t=18)** We don't have to worry about an installation directory.
 >
-> **[0:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/python-script-node-demo?u=76281980&t=21)** We just have to download Knime.
+> **[0:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/python-script-node-demo?u=76281980&t=21)** We just have to download [[Knime]].
 >
 > **[0:23](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/python-script-node-demo?u=76281980&t=23)** However, it is a Python script node, so we do need some Python.
 >
@@ -963,7 +947,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/python-script-node-demo?u=76281980&t=69)** I'll orient you to this.
 >
-> **[1:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/python-script-node-demo?u=76281980&t=71)** What we've done is leveraged some of the most common and popular Python libraries for machine learning, and popular Python libraries for machine learning, Pandas and NumPy.
+> **[1:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/python-script-node-demo?u=76281980&t=71)** What we've done is leveraged some of the most common and popular Python libraries for machine learning, and popular Python libraries for machine learning, [[Pandas (Software)|Pandas]] and NumPy.
 >
 > **[1:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/python-script-node-demo?u=76281980&t=81)** Because of that, because we're using standard libraries, we don't have to do any elaborate install.
 >
@@ -997,7 +981,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/python-script-node-demo?u=76281980&t=190)** Click on Cancel.
 >
-> **[3:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/python-script-node-demo?u=76281980&t=195)** If we take a look into this other node, we can see that we're now pushing out the results of the model into new columns, probability and prediction.
+> **[3:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/python-script-node-demo?u=76281980&t=195)** If we take a look into this other node, we can see that we're now pushing out the results of the model into new columns, [[Probability]] and prediction.
 >
 > **[3:23](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/python-script-node-demo?u=76281980&t=203)** of the model into new columns, probability and prediction.
 >
@@ -1011,11 +995,11 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/python-script-node-demo?u=76281980&t=247)** It actually allows you to bring in an alternative decision tree implementation in this case, to see if the performance of the sklearn version is perhaps different than the Knime version and so on.
 >
-> **[4:24](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/python-script-node-demo?u=76281980&t=264)** This is a powerful, new feature, easier than it's been in the past, and maybe helpful if you want to access a greater diversity of algorithms.
+> **[4:24](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/python-script-node-demo?u=76281980&t=264)** This is a powerful, new feature, easier than it's been in the past, and maybe helpful if you want to access a greater diversity of [[Algorithms]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (16), node (11), [[Knime]] (6), data (2), [[Probability]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (16), [[Knime]] (6), [[Probability]] (2), [[Pandas (Software)|Pandas]] (1), [[Algorithms]] (1)
 > **CLI Commands:** python (16), node (11), make (1), find (1)
 > **UI Navigation:** right-click (2), go to (1), click on (1)
 > **Prerequisites:** configure (1), install (1), set up (1)
@@ -1024,8 +1008,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 
-#### CHAID demo in KNIME
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/chaid-demo-in-knime?u=76281980)
+#### [CHAID demo in KNIME](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/chaid-demo-in-knime?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1037,9 +1020,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/chaid-demo-in-knime?u=76281980&t=15)** So it's not in SK Learn.
 >
-> **[0:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/chaid-demo-in-knime?u=76281980&t=18)** So we're not able to use a Python script node but this library is one of the libraries that's supported by a Conda node.
+> **[0:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/chaid-demo-in-knime?u=76281980&t=18)** So we're not able to use a [[Python (Programming Language)|Python]] script node but this library is one of the libraries that's supported by a Conda node.
 >
-> **[0:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/chaid-demo-in-knime?u=76281980&t=27)** So at the heart of this example we'll be talking about how to access that greater variety of algorithms using what nine calls the Conda node.
+> **[0:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/chaid-demo-in-knime?u=76281980&t=27)** So at the heart of this example we'll be talking about how to access that greater variety of [[Algorithms]] using what nine calls the Conda node.
 >
 > **[0:40](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/chaid-demo-in-knime?u=76281980&t=40)** But CHAID is an interesting topic in and of itself.
 >
@@ -1047,7 +1030,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/chaid-demo-in-knime?u=76281980&t=49)** So CHAID stands for Chi-Square Automatic Interaction Detection.
 >
-> **[0:55](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/chaid-demo-in-knime?u=76281980&t=55)** And you may have encountered that phrase Chi-Square in statistics, you know people talk about an F test or a T test.
+> **[0:55](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/chaid-demo-in-knime?u=76281980&t=55)** And you may have encountered that phrase Chi-Square in [[Statistics]], you know people talk about an F test or a T test.
 >
 > **[1:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/chaid-demo-in-knime?u=76281980&t=63)** Well, there's such a thing as a chi-square test as well.
 >
@@ -1137,7 +1120,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/chaid-demo-in-knime?u=76281980&t=332)** So I'm going to right click on that.
 >
-> **[5:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/chaid-demo-in-knime?u=76281980&t=339)** It's referring to a Conda environment instance PY3 knime CHAID.
+> **[5:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/chaid-demo-in-knime?u=76281980&t=339)** It's referring to a Conda environment instance PY3 [[Knime]] CHAID.
 >
 > **[5:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/chaid-demo-in-knime?u=76281980&t=347)** That step was done by the person who created this conda node.
 >
@@ -1187,7 +1170,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (17), [[Python (Programming Language)|Python]] (4), [[Algorithms]] (3), [[Knime]] (3), data (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Algorithms]] (3), [[Knime]] (3), [[Statistics]] (1)
 > **Env Vars:** chaid (22), cart (13), pypi (1), aid (1), py3 (1)
 > **CLI Commands:** node (17), python (4), find (2), make (2)
 > **UI Navigation:** click on (4), go to (1), open the (1)
@@ -1196,22 +1179,21 @@ created: 2026-05-02
 > **Versions:** 0.05 (1)
 > **Warnings:** be careful (1)
 
-#### Advanced code options in KNIME (optimal sparse trees)
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-code-options-in-knime-optimal-sparse-trees?u=76281980)
+#### [Advanced code options in KNIME (optimal sparse trees)](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-code-options-in-knime-optimal-sparse-trees?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-code-options-in-knime-optimal-sparse-trees?u=76281980&t=0)** - [Instructor] A full demonstration of creating a Python extension really belongs in a programming course and not a course on decision trees.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-code-options-in-knime-optimal-sparse-trees?u=76281980&t=0)** - [Instructor] A full demonstration of creating a [[Python (Programming Language)|Python]] extension really belongs in a programming course and not a course on [[Decision Trees]].
 >
 > **[0:13](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-code-options-in-knime-optimal-sparse-trees?u=76281980&t=13)** But I'd like to briefly engage in a thought experiment with you.
 >
 > **[0:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-code-options-in-knime-optimal-sparse-trees?u=76281980&t=18)** Imagine for a moment that you're attending a conference and you hear the authors discuss an algorithm called Optimal Sparse Decision Trees.
 >
-> **[0:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-code-options-in-knime-optimal-sparse-trees?u=76281980&t=28)** And you get intrigued and you look at the abstract and you find out that actually it's trying to deal with the fact that decision tree algorithms are often greedy or myopic and sometimes produce suboptimal models.
+> **[0:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-code-options-in-knime-optimal-sparse-trees?u=76281980&t=28)** And you get intrigued and you look at the abstract and you find out that actually it's trying to deal with the fact that decision tree [[Algorithms]] are often greedy or myopic and sometimes produce suboptimal models.
 >
 > **[0:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-code-options-in-knime-optimal-sparse-trees?u=76281980&t=47)** And you continue to read and you're more and more intrigued and you wonder how to implement this.
 >
-> **[0:53](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-code-options-in-knime-optimal-sparse-trees?u=76281980&t=53)** So, you discover that not only is there a full paper there's also a GitHub and the code is there.
+> **[0:53](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-code-options-in-knime-optimal-sparse-trees?u=76281980&t=53)** So, you discover that not only is there a full paper there's also a [[GitHub]] and the code is there.
 >
 > **[1:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-code-options-in-knime-optimal-sparse-trees?u=76281980&t=63)** So how do you leverage something like this?
 >
@@ -1221,7 +1203,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-code-options-in-knime-optimal-sparse-trees?u=76281980&t=85)** You're not going to find it in a Miniconda download.
 >
-> **[1:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-code-options-in-knime-optimal-sparse-trees?u=76281980&t=89)** But now that you can use Python and not just the combination of Python and Java, if you have a Python programmer on your team you potentially could create a whole new extension in order to do this.
+> **[1:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-code-options-in-knime-optimal-sparse-trees?u=76281980&t=89)** But now that you can use Python and not just the combination of Python and [[Java]], if you have a Python programmer on your team you potentially could create a whole new extension in order to do this.
 >
 > **[1:46](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/advanced-code-options-in-knime-optimal-sparse-trees?u=76281980&t=106)** Now, the amount of work would be non-trivial but the way that extension node would behave is just like the LMT node that we saw in an earlier video that was implemented through a WECA extension node.
 >
@@ -1233,7 +1215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Decision Trees]] (4), node (3), [[Algorithms]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Decision Trees]] (4), [[Algorithms]] (2), [[GitHub]] (1), [[Java]] (1)
 > **CLI Commands:** python (4), find (3), node (3)
 > **Env Vars:** lmt (1), weca (1)
 > **Analogies:** imagine (1), just like (1)
@@ -1246,8 +1228,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing random forest
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/introducing-random-forest?u=76281980)
+#### [Introducing random forest](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/introducing-random-forest?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1269,7 +1250,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/introducing-random-forest?u=76281980&t=35)** In fact, there's an entire course dedicated to ensembles.
 >
-> **[0:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/introducing-random-forest?u=76281980&t=39)** So in this course, we'll just get oriented with a single one of these famous algorithms, Random Forest, which is available in nine with a standard nine node.
+> **[0:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/introducing-random-forest?u=76281980&t=39)** So in this course, we'll just get oriented with a single one of these famous [[Algorithms]], Random Forest, which is available in nine with a standard nine node.
 >
 > **[0:52](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/introducing-random-forest?u=76281980&t=52)** The basic idea of Random Forest is to make multiple versions of our tree and then average them.
 >
@@ -1303,12 +1284,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (2), node (2), data (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2)
 > **CLI Commands:** node (2), make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Random forests demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/random-forests-demo?u=76281980)
+#### [Random forests demo](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/random-forests-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1444,7 +1424,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (5), data (3), power (1)
 > **CLI Commands:** node (5), make (1)
 > **UI Navigation:** click on (2), scroll down (1), toggle (1), go to (1)
 > **Env Vars:** cart (3)
@@ -1453,8 +1432,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing two models
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/comparing-two-models?u=76281980)
+#### [Comparing two models](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/comparing-two-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1480,7 +1458,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/comparing-two-models?u=76281980&t=75)** So we have what we would normally think of as a more accurate algorithm in the form of random forest and then we have our transparent single decision tree and then we get to compare them.
 >
-> **[1:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/comparing-two-models?u=76281980&t=88)** So what the column renames are doing is that both models are generating a probability.
+> **[1:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/comparing-two-models?u=76281980&t=88)** So what the column renames are doing is that both models are generating a [[Probability]].
 >
 > **[1:34](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/comparing-two-models?u=76281980&t=94)** So we're going to add the suffix RF for random forest and we're going to add the suffix DT for decision tree so that the probabilities don't have the same name.
 >
@@ -1564,11 +1542,11 @@ created: 2026-05-02
 >
 > **[6:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/comparing-two-models?u=76281980&t=382)** Or we might decide that the random forest is a bit better but we still go with the single tree for the advantage of transparency.
 >
-> **[6:31](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/comparing-two-models?u=76281980&t=391)** However, the key point is this, it is wonderful to be able to compare two models this thoroughly and this easily in KNIME.
+> **[6:31](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/comparing-two-models?u=76281980&t=391)** However, the key point is this, it is wonderful to be able to compare two models this thoroughly and this easily in [[Knime]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (7), node (2), data (2), power (1), [[Knime]] (1)
+> **Frameworks & Libraries:** [[Probability]] (7), [[Knime]] (1)
 > **Versions:** 0.5 (2), 0.9 (2), 0.899 (2)
 > **CLI Commands:** make (3), node (2)
 > **UI Navigation:** click on (3)
@@ -1582,8 +1560,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data reduction with random forests
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/data-reduction-with-random-forests?u=76281980)
+#### [Data reduction with random forests](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/data-reduction-with-random-forests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1597,7 +1574,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/data-reduction-with-random-forests?u=76281980&t=26)** So why do we need a trick to do this?
 >
-> **[0:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/data-reduction-with-random-forests?u=76281980&t=30)** Well, let's make the workflow more visible by closing out all the other windows except for the workflow itself and let me show you the random forest workflow.
+> **[0:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/data-reduction-with-random-forests?u=76281980&t=30)** Well, let's make the workflow more visible by closing out all the other [[Windows]] except for the workflow itself and let me show you the random forest workflow.
 >
 > **[0:44](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/data-reduction-with-random-forests?u=76281980&t=44)** Again, it's right here and we've got a source node, a partition, then we build with the learner, then we have a predictor and a score.
 >
@@ -1607,7 +1584,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/data-reduction-with-random-forests?u=76281980&t=71)** So what's the motivation for this powerful trick?
 >
-> **[1:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/data-reduction-with-random-forests?u=76281980&t=76)** Well, data reduction is the notion that you have to reduce the number of inputs when you have a lot of them because machine warning algorithms in general are prone to being overfit.
+> **[1:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/data-reduction-with-random-forests?u=76281980&t=76)** Well, data reduction is the notion that you have to reduce the number of inputs when you have a lot of them because machine warning [[Algorithms]] in general are prone to being overfit.
 >
 > **[1:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/data-reduction-with-random-forests?u=76281980&t=89)** So for instance, sometimes neural net is presented as an algorithm that has a tendency to overfit.
 >
@@ -1623,7 +1600,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/data-reduction-with-random-forests?u=76281980&t=129)** So let's take a look at how this works.
 >
-> **[2:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/data-reduction-with-random-forests?u=76281980&t=132)** We already know what the random forest learner does, but let's right click on it and go down to Attribute Statistics.
+> **[2:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/data-reduction-with-random-forests?u=76281980&t=132)** We already know what the random forest learner does, but let's right click on it and go down to Attribute [[Statistics]].
 >
 > **[2:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/data-reduction-with-random-forests?u=76281980&t=142)** And I'm going to maximize this.
 >
@@ -1643,7 +1620,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/data-reduction-with-random-forests?u=76281980&t=198)** They're looking at one variable at a time.
 >
-> **[3:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/data-reduction-with-random-forests?u=76281980&t=202)** In that sense, they're greedy, using that word the same way we used it when we described that the top branch is greedy.
+> **[3:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/data-reduction-with-random-forests?u=76281980&t=202)** In that sense, they're greedy, using that [[Microsoft Word|word]] the same way we used it when we described that the top branch is greedy.
 >
 > **[3:31](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/data-reduction-with-random-forests?u=76281980&t=211)** So how can we overcome that?
 >
@@ -1693,7 +1670,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), node (3), [[Algorithms]] (3), [[Windows]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Windows]] (1), [[Statistics]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** node (3), make (2)
 > **UI Navigation:** click on (3), go to (1)
 > **Definitions:** is a  (2), means that (1)
@@ -1702,12 +1679,11 @@ created: 2026-05-02
 > **Tools:** notion (1)
 > **Warnings:** warning (1)
 
-#### The XAI view node
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/the-xai-view-node?u=76281980)
+#### [The XAI view node](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/the-xai-view-node?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/the-xai-view-node?u=76281980&t=0)** - [Instructor] Now let's discuss a different trick available in KNIME.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/the-xai-view-node?u=76281980&t=0)** - [Instructor] Now let's discuss a different trick available in [[Knime]].
 >
 > **[0:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/the-xai-view-node?u=76281980&t=5)** Also related in a way to Random Forest, but in a different sense.
 >
@@ -1833,7 +1809,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (9), [[Knime]] (2), feature (2), data (1)
+> **Frameworks & Libraries:** [[Knime]] (2)
 > **CLI Commands:** node (9), find (1), make (1)
 > **UI Navigation:** right-click (2), open the (1), go to (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -1842,14 +1818,13 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/deployment?u=76281980)
+#### [Deployment](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/deployment?u=76281980&t=0)** - [Instructor] Let's talk about deployment and something called PMML, Predictive Modeling Markup Language.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/deployment?u=76281980&t=0)** - [Instructor] Let's talk about deployment and something called PMML, [[Predictive Modeling]] Markup Language.
 >
-> **[0:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/deployment?u=76281980&t=9)** Now deployment is a very big topic but whenever you build a model, at a minimum, you're going to want to be comfortable applying that model to new data, and you may also be curious about how to get your model out of KNIME and into something else or possibly at some point wanted to go in the reverse direction where you have a model that's been built somewhere else and you want to bring it into KNIME, so we're going to very briefly talk about those issues now.
+> **[0:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/deployment?u=76281980&t=9)** Now deployment is a very big topic but whenever you build a model, at a minimum, you're going to want to be comfortable applying that model to new data, and you may also be curious about how to get your model out of [[Knime]] and into something else or possibly at some point wanted to go in the reverse direction where you have a model that's been built somewhere else and you want to bring it into KNIME, so we're going to very briefly talk about those issues now.
 >
 > **[0:41](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/deployment?u=76281980&t=41)** So what I've done in the area at the bottom of this workflow which is called adv trees, chapter 6, PMML, what I've done is I've got a data file and a row splitter.
 >
@@ -1867,7 +1842,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/deployment?u=76281980&t=171)** Well it's converting the model into this other language, PMML, which many software packages, platforms, and languages share, so you can use it to pass back and forth between different platforms.
 >
-> **[3:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/deployment?u=76281980&t=188)** Also, notice that there is a PML to SQL node, so let's take a look at how this all comes together, let's just take a quick look at these two languages.
+> **[3:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/deployment?u=76281980&t=188)** Also, notice that there is a PML to [[SQL]] node, so let's take a look at how this all comes together, let's just take a quick look at these two languages.
 >
 > **[3:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/deployment?u=76281980&t=201)** This again, would be a way to get the information about your model out of KNIME and into another form.
 >
@@ -1877,7 +1852,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/deployment?u=76281980&t=232)** This little bit of code represents a tiny portion of the PMML that is being exported in that workflow.
 >
-> **[4:01](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/deployment?u=76281980&t=241)** PMML is related to HTML, it has a similar look and feel and it's really quite verbose, so this is just a few lines out of what is probably a couple of hundred lines that represents everything about our model.
+> **[4:01](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/deployment?u=76281980&t=241)** PMML is related to [[HTML]], it has a similar look and feel and it's really quite verbose, so this is just a few lines out of what is probably a couple of hundred lines that represents everything about our model.
 >
 > **[4:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/deployment?u=76281980&t=257)** Alternatively, we can also export our model to SQL, in this case indirectly through PMML, and we've got some select in case when statements and you can see how this could be used to score cases on a database, for instance, even though you might not be using KNIME in that environment.
 >
@@ -1891,7 +1866,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (10), data (7), [[SQL]] (3), [[Predictive Modeling]] (2), node (2)
+> **Frameworks & Libraries:** [[Knime]] (10), [[SQL]] (3), [[Predictive Modeling]] (2), [[HTML]] (1)
 > **Env Vars:** pmml (11), knime (10), sql (3), pml (2), html (1)
 > **CLI Commands:** node (2), make (1)
 > **Definitions:** is a  (2), is called (1)
@@ -1903,8 +1878,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Final thoughts and recommendations
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/final-thoughts-and-recommendations?u=76281980)
+#### [Final thoughts and recommendations](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/final-thoughts-and-recommendations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1912,11 +1886,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/final-thoughts-and-recommendations?u=76281980&t=4)** I always like to recommend applying something you've learned right away.
 >
-> **[0:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/final-thoughts-and-recommendations?u=76281980&t=10)** An excellent option in this case is to seek out some innovative algorithms, of course, including decision tree algorithms.
+> **[0:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/final-thoughts-and-recommendations?u=76281980&t=10)** An excellent option in this case is to seek out some innovative [[Algorithms]], of course, including decision tree algorithms.
 >
 > **[0:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/final-thoughts-and-recommendations?u=76281980&t=19)** One of the lessons of this course is that these innovations are not a thing of the past, but rather, algorithm development is an ongoing process.
 >
-> **[0:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/final-thoughts-and-recommendations?u=76281980&t=28)** One of the conferences that I attend is the Knowledge Discovery and Databases Conference, often just called KDD, and the concurrent sessions are just filled with recent PhD grads presenting improved algorithms.
+> **[0:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/final-thoughts-and-recommendations?u=76281980&t=28)** One of the conferences that I attend is the Knowledge Discovery and [[Databases]] Conference, often just called KDD, and the concurrent sessions are just filled with recent PhD grads presenting improved algorithms.
 >
 > **[0:44](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/final-thoughts-and-recommendations?u=76281980&t=44)** Both the papers and the code are available publicly if you look, usually not on the KDD website itself, but by using KDD as a keyword in your search.
 >
@@ -1924,7 +1898,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/final-thoughts-and-recommendations?u=76281980&t=65)** Those courses are the Producing XAI and Interpretable Machine Learning Solutions, and Mastering Ensembles and Metamodeling.
 >
-> **[1:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/final-thoughts-and-recommendations?u=76281980&t=75)** Also, please stay in touch by following me on LinkedIn.
+> **[1:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/final-thoughts-and-recommendations?u=76281980&t=75)** Also, please stay in touch by following me on [[LinkedIn]].
 >
 > **[1:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-advanced-decision-trees-with-knime/final-thoughts-and-recommendations?u=76281980&t=79)** Perhaps I'll even see you at a conference sometime soon.
 >
@@ -1934,7 +1908,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (3), [[Databases]] (1), concurrent (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Databases]] (1), [[LinkedIn]] (1)
 > **Env Vars:** kdd (3), xai (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [keith] (1)

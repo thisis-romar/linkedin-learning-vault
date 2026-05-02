@@ -88,8 +88,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Protecting data communications in AI systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/protecting-data-communications-in-ai-systems-25589366?u=76281980)
+#### [Protecting data communications in AI systems](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/protecting-data-communications-in-ai-systems-25589366?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -99,17 +98,17 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/protecting-data-communications-in-ai-systems-25589366?u=76281980&t=11)** In this course, I'll teach you the fundamentals of database security, the threat landscape, and opportunities to better secure database communications.
 >
-> **[0:23](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/protecting-data-communications-in-ai-systems-25589366?u=76281980&t=23)** We'll examine how AI Tools can be helpful in specific tasks, and manage the operating logistics of data and database administration.
+> **[0:23](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/protecting-data-communications-in-ai-systems-25589366?u=76281980&t=23)** We'll examine how AI Tools can be helpful in specific tasks, and manage the operating logistics of data and [[Database Administration]].
 >
 > **[0:34](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/protecting-data-communications-in-ai-systems-25589366?u=76281980&t=34)** I'll share with you best practices, while making them relatable and accessible.
 >
-> **[0:42](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/protecting-data-communications-in-ai-systems-25589366?u=76281980&t=42)** So, let me be your personal coach as we set out to secure your databases together.
+> **[0:42](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/protecting-data-communications-in-ai-systems-25589366?u=76281980&t=42)** So, let me be your personal coach as we set out to secure your [[Databases]] together.
 >
 > **[0:49](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/protecting-data-communications-in-ai-systems-25589366?u=76281980&t=49)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[Security]] (1), ai (1), data (1), [[Database Administration]] (1)
+> **Frameworks & Libraries:** [[Database Administration]] (1), [[Databases]] (1)
 > **Speakers:** - how (1)
 
 
@@ -117,18 +116,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Database security overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-security-overview?u=76281980)
+#### [Database security overview](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-security-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-security-overview?u=76281980&t=0)** - [Instructor] So how does your organization instruct you on handling your data products?
+> **[0:00](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-security-overview?u=76281980&t=0)** - [Instructor] So how does your organization instruct you on handling your data [[Microsoft Products|products]]?
 >
 > **[0:06](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-security-overview?u=76281980&t=6)** Whether it's shared through guiding principles or formal processes, you're part of a chain of command to ensure data systems remain secure throughout the organization.
 >
-> **[0:18](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-security-overview?u=76281980&t=18)** You're helping to protect databases from unauthorized access, misuse, and threats.
+> **[0:18](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-security-overview?u=76281980&t=18)** You're helping to protect [[Databases]] from unauthorized access, misuse, and threats.
 >
-> **[0:26](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-security-overview?u=76281980&t=26)** The statistics are stark.
+> **[0:26](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-security-overview?u=76281980&t=26)** The [[Statistics]] are [[Stark (Accessibility Software)|stark]].
 >
 > **[0:28](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-security-overview?u=76281980&t=28)** On average, it takes 277 days.
 >
@@ -166,7 +164,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-security-overview?u=76281980&t=173)** Lastly, the other proactive security control is the database activity monitoring.
 >
-> **[3:01](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-security-overview?u=76281980&t=181)** It monitors user actions, their queries, and their transaction in real-time.
+> **[3:01](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-security-overview?u=76281980&t=181)** It monitors user actions, their queries, and their transaction in [[Real-Time]].
 >
 > **[3:08](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-security-overview?u=76281980&t=188)** Database activity monitoring can identify potential threats and unauthorized access before they become significantly harmful.
 >
@@ -180,12 +178,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), database (12), [[Security]] (5), next (3), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Databases]] (1), [[Statistics]] (1), [[Stark (Accessibility Software)|Stark]] (1), [[Real-Time]] (1)
 > **Cross-References:** in the next (3)
 > **Speakers:** - [instructor] (1)
 
-#### What's security architecture?
-> [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/what-s-security-architecture?u=76281980)
+#### [What's security architecture?](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/what-s-security-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -201,7 +198,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/what-s-security-architecture?u=76281980&t=46)** Let's discuss each security control type one by one.
 >
-> **[0:52](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/what-s-security-architecture?u=76281980&t=52)** Your organization should be securing your onsite databases physically.
+> **[0:52](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/what-s-security-architecture?u=76281980&t=52)** Your organization should be securing your onsite [[Databases]] physically.
 >
 > **[0:58](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/what-s-security-architecture?u=76281980&t=58)** Physical structures like gates and fences, as well as monitoring systems, like surveillance cameras, keep bad actors from in-person access.
 >
@@ -219,7 +216,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/what-s-security-architecture?u=76281980&t=109)** Firewalls and intrusion prevention systems serve as a great digital deterrent network.
 >
-> **[1:56](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/what-s-security-architecture?u=76281980&t=116)** Intrusion detection systems and other forms of monitoring are used to lure bad actors away from their intended targets.
+> **[1:56](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/what-s-security-architecture?u=76281980&t=116)** [[Intrusion Detection]] systems and other [[Forms]] of monitoring are used to lure bad actors away from their intended targets.
 >
 > **[2:05](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/what-s-security-architecture?u=76281980&t=125)** And of course, when these technical controls fail, your organization needs to contain the impact of an attack.
 >
@@ -243,13 +240,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), data (9), database (4), [[Databases]] (1), business (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Intrusion Detection]] (1), [[Forms]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying database threats and vulnerabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/identifying-database-threats-and-vulnerabilities?u=76281980)
+#### [Identifying database threats and vulnerabilities](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/identifying-database-threats-and-vulnerabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -257,7 +253,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/identifying-database-threats-and-vulnerabilities?u=76281980&t=10)** Depending on your job and database access permissions, you may be privy to one or more of these tactics.
 >
-> **[0:18](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/identifying-database-threats-and-vulnerabilities?u=76281980&t=18)** Poorly managed sensitive data, denial of service, SQL injection, weak audit trails or misconfigured databases.
+> **[0:18](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/identifying-database-threats-and-vulnerabilities?u=76281980&t=18)** Poorly managed sensitive data, denial of service, [[SQL]] injection, weak audit trails or misconfigured [[Databases]].
 >
 > **[0:30](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/identifying-database-threats-and-vulnerabilities?u=76281980&t=30)** Let's start with when you may encounter poorly managed sensitive data.
 >
@@ -271,7 +267,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/identifying-database-threats-and-vulnerabilities?u=76281980&t=61)** It'll be helpful to share with them as much detail of your activities on the system, so that they can isolate the potential intended target faster.
 >
-> **[1:13](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/identifying-database-threats-and-vulnerabilities?u=76281980&t=73)** The remaining three common tactics, SQL injection, weak audit trails and misconfigured databases are often visible to those who are performing database administration duties.
+> **[1:13](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/identifying-database-threats-and-vulnerabilities?u=76281980&t=73)** The remaining three common tactics, SQL injection, weak audit trails and misconfigured databases are often visible to those who are performing [[Database Administration]] duties.
 >
 > **[1:29](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/identifying-database-threats-and-vulnerabilities?u=76281980&t=89)** SQL injection is discovered when bad actors' code is found.
 >
@@ -301,20 +297,19 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/identifying-database-threats-and-vulnerabilities?u=76281980&t=194)** It's possible to spot ransomware or identify a data breach this way.
 >
-> **[3:20](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/identifying-database-threats-and-vulnerabilities?u=76281980&t=200)** With threats and vulnerabilities covered, let's wrap up this chapter by discussing malware detection techniques.
+> **[3:20](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/identifying-database-threats-and-vulnerabilities?u=76281980&t=200)** With threats and vulnerabilities covered, let's wrap up this chapter by discussing [[Malware Detection]] techniques.
 >
 > **[3:28](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/identifying-database-threats-and-vulnerabilities?u=76281980&t=208)** See you in the next lesson.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), data (5), [[SQL]] (3), [[Databases]] (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Databases]] (3), [[Database Administration]] (1), [[Malware Detection]] (1)
 > **Env Vars:** sql (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Protecting against malware
-> [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/protecting-against-malware?u=76281980)
+#### [Protecting against malware](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/protecting-against-malware?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -330,15 +325,15 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/protecting-against-malware?u=76281980&t=48)** The next technique is whitelisting.
 >
-> **[0:51](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/protecting-against-malware?u=76281980&t=51)** You create whitelist to restrict execution to only trusted applications and scripts on certain systems running AI models and databases.
+> **[0:51](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/protecting-against-malware?u=76281980&t=51)** You create whitelist to restrict execution to only trusted applications and scripts on certain systems running AI models and [[Databases]].
 >
 > **[1:02](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/protecting-against-malware?u=76281980&t=62)** By having only trusted applications, any other application could be easily identified and flagged as suspicious.
 >
-> **[1:12](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/protecting-against-malware?u=76281980&t=72)** As a corollary to whitelisting, anomaly detection algorithms help to isolate unusual patterns in data or system behavior.
+> **[1:12](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/protecting-against-malware?u=76281980&t=72)** As a corollary to whitelisting, anomaly detection [[Algorithms]] help to isolate unusual patterns in data or system behavior.
 >
 > **[1:23](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/protecting-against-malware?u=76281980&t=83)** Augmenting these algorithms with AI can suss out malicious activity sooner.
 >
-> **[1:30](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/protecting-against-malware?u=76281980&t=90)** The last internally focused malware detection technique we'll cover is sandboxing.
+> **[1:30](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/protecting-against-malware?u=76281980&t=90)** The last internally focused [[Malware Detection]] technique we'll cover is sandboxing.
 >
 > **[1:36](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/protecting-against-malware?u=76281980&t=96)** Sandboxing isolates AI models within a closed environment to prevent malware from spreading to other system components.
 >
@@ -368,7 +363,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), data (6), next (2), [[Algorithms]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Databases]] (1), [[Malware Detection]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next chapter (1)
 > **Definitions:** is a  (1)
@@ -380,8 +375,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Database control language overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-control-language-overview-25588516?u=76281980)
+#### [Database control language overview](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-control-language-overview-25588516?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -391,7 +385,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-control-language-overview-25588516?u=76281980&t=14)** But it's good for you to know what they do in why their work is so important.
 >
-> **[0:20](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-control-language-overview-25588516?u=76281980&t=20)** Database administrators cover the SQL data control language or DCL activities.
+> **[0:20](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-control-language-overview-25588516?u=76281980&t=20)** Database administrators cover the [[SQL]] data control language or DCL activities.
 >
 > **[0:28](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-control-language-overview-25588516?u=76281980&t=28)** They serve as the main stewards of access control.
 >
@@ -419,26 +413,25 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-control-language-overview-25588516?u=76281980&t=146)** But there are quite a few gaps that SQL DCL commands don't fulfill.
 >
-> **[2:33](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-control-language-overview-25588516?u=76281980&t=153)** The limitations include its dependency on the completion of the SQL data definition language, and data manipulation language commands.
+> **[2:33](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-control-language-overview-25588516?u=76281980&t=153)** The limitations include its dependency on the completion of the SQL data definition language, and [[Data Manipulation]] language commands.
 >
 > **[2:44](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-control-language-overview-25588516?u=76281980&t=164)** The permissions management becomes complex as the number of tables and number of users increase.
 >
 > **[2:52](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-control-language-overview-25588516?u=76281980&t=172)** Security risks also increase when an improper grant is assigned and or a revoke isn't executed.
 >
-> **[3:02](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-control-language-overview-25588516?u=76281980&t=182)** Remember, it's the database administrator who establishes protocols on who gains access to which part of their databases.
+> **[3:02](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-control-language-overview-25588516?u=76281980&t=182)** Remember, it's the database administrator who establishes protocols on who gains access to which part of their [[Databases]].
 >
 > **[3:12](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/database-control-language-overview-25588516?u=76281980&t=192)** In the next lesson, we describe how a user would gain access with what's called authentication schemes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), [[SQL]] (5), data (4), [[Security]] (3), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Data Manipulation]] (1), [[Databases]] (1)
 > **Env Vars:** sql (5), dcl (4), grant (3), revoke (2)
 > **Code Identifiers:** privileges_names (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Authentication schemes
-> [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/authentication-schemes-25583599?u=76281980)
+#### [Authentication schemes](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/authentication-schemes-25583599?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -488,7 +481,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), data (2), next (2), [[Security]] (1)
 > **Analogies:** such as (4), for example (1)
 > **Env Vars:** pin (2), mfa (1)
 > **Prerequisites:** required to (1), set up (1)
@@ -496,8 +488,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Authorization methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/authorization-methods-25588515?u=76281980)
+#### [Authorization methods](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/authorization-methods-25588515?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -559,14 +550,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (3), database (1), hr (1), business (1)
 > **Env Vars:** abac (1), aac (1), mac (1), dac (1)
 > **Analogies:** for example (2), for instance (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Encryption practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/encryption-practices-25589367?u=76281980)
+#### [Encryption practices](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/encryption-practices-25589367?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -576,7 +565,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/encryption-practices-25589367?u=76281980&t=12)** Data encryption works like this: The data to be encrypted is called plain text.
 >
-> **[0:19](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/encryption-practices-25589367?u=76281980&t=19)** Now, this plain text is passed to one or more encryption algorithms to be scrambled.
+> **[0:19](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/encryption-practices-25589367?u=76281980&t=19)** Now, this plain text is passed to one or more encryption [[Algorithms]] to be scrambled.
 >
 > **[0:26](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/encryption-practices-25589367?u=76281980&t=26)** The scrambled plain text is called a cipher text.
 >
@@ -622,15 +611,15 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/encryption-practices-25589367?u=76281980&t=192)** It's robust and reliable by frustrating would-be bad actors with overwhelming amounts of gibberish.
 >
-> **[3:21](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/encryption-practices-25589367?u=76281980&t=201)** Data encryption supports authentication efforts, helps ensure security, and preserves information privacy.
+> **[3:21](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/encryption-practices-25589367?u=76281980&t=201)** Data encryption supports authentication efforts, helps ensure security, and preserves information [[Privacy]].
 >
-> **[3:30](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/encryption-practices-25589367?u=76281980&t=210)** It lays the foundation for how databases communicate with each other, which we'll discuss in the next chapter.
+> **[3:30](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/encryption-practices-25589367?u=76281980&t=210)** It lays the foundation for how [[Databases]] communicate with each other, which we'll discuss in the next chapter.
 >
 > **[3:38](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/encryption-practices-25589367?u=76281980&t=218)** See you there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Security]] (3), [[Algorithms]] (2), [[Privacy]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Privacy]] (1), [[Databases]] (1)
 > **Env Vars:** aes (2), des (2), tdes (1), atm (1), rsa (1)
 > **Definitions:** is called (2), is a  (2)
 > **CLI Commands:** make (1)
@@ -642,8 +631,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Monitoring and protecting data sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/monitoring-and-protecting-data-sources-25583597?u=76281980)
+#### [Monitoring and protecting data sources](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/monitoring-and-protecting-data-sources-25583597?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -655,15 +643,15 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/monitoring-and-protecting-data-sources-25583597?u=76281980&t=36)** Data loss and data corruption issues need to be detected and blocked.
 >
-> **[0:43](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/monitoring-and-protecting-data-sources-25583597?u=76281980&t=43)** Data protection protocols rely on monitoring data access patterns, unusual activity and potential security threats in real-time to detect anomalies and respond quickly.
+> **[0:43](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/monitoring-and-protecting-data-sources-25583597?u=76281980&t=43)** Data protection protocols rely on monitoring data access patterns, unusual activity and potential security threats in [[Real-Time]] to detect anomalies and respond quickly.
 >
 > **[0:59](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/monitoring-and-protecting-data-sources-25583597?u=76281980&t=59)** There's three additional methods used to better protect data.
 >
-> **[1:04](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/monitoring-and-protecting-data-sources-25583597?u=76281980&t=64)** They're to improve network security, establish backup and recovery processes and improve physical security.
+> **[1:04](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/monitoring-and-protecting-data-sources-25583597?u=76281980&t=64)** They're to improve [[Network Security]], establish backup and recovery processes and improve physical security.
 >
 > **[1:14](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/monitoring-and-protecting-data-sources-25583597?u=76281980&t=74)** Improving network security involves a series of measures to help prevent unauthorized access.
 >
-> **[1:22](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/monitoring-and-protecting-data-sources-25583597?u=76281980&t=82)** Setting up robust firewalls, implementing intrusion detection systems and monitoring network logs are the most critical steps.
+> **[1:22](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/monitoring-and-protecting-data-sources-25583597?u=76281980&t=82)** Setting up robust firewalls, implementing [[Intrusion Detection]] systems and monitoring network logs are the most critical steps.
 >
 > **[1:33](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/monitoring-and-protecting-data-sources-25583597?u=76281980&t=93)** Your database backup and recovery protocols remain a cornerstone of minimizing any impact of data loss or corruption.
 >
@@ -675,13 +663,13 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/monitoring-and-protecting-data-sources-25583597?u=76281980&t=127)** And practice three is to maintain one copy of the data offsite, preferably only accessible offline and air gapped.
 >
-> **[2:18](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/monitoring-and-protecting-data-sources-25583597?u=76281980&t=138)** And this leads us to the last data protection method, improving the physical security of your databases.
+> **[2:18](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/monitoring-and-protecting-data-sources-25583597?u=76281980&t=138)** And this leads us to the last data protection method, improving the physical security of your [[Databases]].
 >
 > **[2:27](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/monitoring-and-protecting-data-sources-25583597?u=76281980&t=147)** This includes secure storage cabinets, vaults and rooms using security cameras and alarms in sensitive areas.
 >
 > **[2:36](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/monitoring-and-protecting-data-sources-25583597?u=76281980&t=156)** Key card requirements and other authentication methods help track user access.
 >
-> **[2:43](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/monitoring-and-protecting-data-sources-25583597?u=76281980&t=163)** Underneath all of these methods lie a system of algorithms that perform data streaming, real-time analysis and alert generation.
+> **[2:43](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/monitoring-and-protecting-data-sources-25583597?u=76281980&t=163)** Underneath all of these methods lie a system of [[Algorithms]] that perform [[Data Streaming]], real-time analysis and alert generation.
 >
 > **[2:54](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/monitoring-and-protecting-data-sources-25583597?u=76281980&t=174)** They monitor for abnormal behavior as part of user access and database activity patterns.
 >
@@ -695,20 +683,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Security]] (6), database (5), [[Real-Time]] (2), [[Network Security]] (2)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Network Security]] (2), [[Algorithms]] (2), [[Intrusion Detection]] (1), [[Databases]] (1)
 > **Cross-References:** we covered (2), in the last (1), in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Replication: to-dos and to-don'ts
-> [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/replication-to-dos-and-to-don-ts-25588518?u=76281980)
+#### [Replication: to-dos and to-don'ts](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/replication-to-dos-and-to-don-ts-25588518?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/replication-to-dos-and-to-don-ts-25588518?u=76281980&t=0)** - [Instructor] In a nutshell, data replication is data copy management.
 >
-> **[0:05](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/replication-to-dos-and-to-don-ts-25588518?u=76281980&t=5)** This encompasses the process of creating, keeping, and maintaining identical copies of data across multiple storage locations, systems, or databases.
+> **[0:05](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/replication-to-dos-and-to-don-ts-25588518?u=76281980&t=5)** This encompasses the process of creating, keeping, and maintaining identical copies of data across multiple storage locations, systems, or [[Databases]].
 >
-> **[0:18](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/replication-to-dos-and-to-don-ts-25588518?u=76281980&t=18)** And this data copy management happens at least periodically, but most likely in real-time.
+> **[0:18](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/replication-to-dos-and-to-don-ts-25588518?u=76281980&t=18)** And this data copy management happens at least periodically, but most likely in [[Real-Time]].
 >
 > **[0:26](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/replication-to-dos-and-to-don-ts-25588518?u=76281980&t=26)** Data replication keeps data availability and fault tolerance high, while ensuring adequate redundancy and reducing latency issues.
 >
@@ -752,13 +739,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Databases]] (4), database (4), management (2), [[Real-Time]] (2)
+> **Frameworks & Libraries:** [[Databases]] (4), [[Real-Time]] (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transfer Issues from applications to the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/transfer-issues-from-applications-to-the-cloud-25583600?u=76281980)
+#### [Transfer Issues from applications to the cloud](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/transfer-issues-from-applications-to-the-cloud-25583600?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -780,7 +766,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/transfer-issues-from-applications-to-the-cloud-25583600?u=76281980&t=66)** SFTP remains one of the safest ways to transfer data online due to its strong encryption and authentication mechanisms.
 >
-> **[1:16](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/transfer-issues-from-applications-to-the-cloud-25583600?u=76281980&t=76)** HTTPS encrypts any inbound web traffic and works to ensure data integrity and privacy.
+> **[1:16](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/transfer-issues-from-applications-to-the-cloud-25583600?u=76281980&t=76)** HTTPS encrypts any inbound web traffic and works to ensure [[Data Integrity]] and [[Privacy]].
 >
 > **[1:25](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/transfer-issues-from-applications-to-the-cloud-25583600?u=76281980&t=85)** And FTPS establishes a secure, encrypted connection using an application layer wrapper known as SSL to enable private communications across a network.
 >
@@ -792,7 +778,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/transfer-issues-from-applications-to-the-cloud-25583600?u=76281980&t=130)** You want to ensure that your chosen cloud provider maintains a stable security posture, updated compliance certifications, and adheres to data residency requirements.
 >
-> **[2:25](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/transfer-issues-from-applications-to-the-cloud-25583600?u=76281980&t=145)** Once the cloud provider is selected, data migration activities can happen to reduce costs, improve performance, and increase scalability for your organization.
+> **[2:25](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/transfer-issues-from-applications-to-the-cloud-25583600?u=76281980&t=145)** Once the cloud provider is selected, data migration activities can happen to reduce costs, improve performance, and increase [[Scalability]] for your organization.
 >
 > **[2:38](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/transfer-issues-from-applications-to-the-cloud-25583600?u=76281980&t=158)** Commonly referred to as The 7 R's of Cloud Migration, these strategies help determine the best data transfer approach.
 >
@@ -806,19 +792,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), cloud (7), web (1), traffic (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Data Integrity]] (1), [[Privacy]] (1), [[Scalability]] (1)
 > **Env Vars:** sftp (2), https (2), ftps (2), ssl (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Security auditing
-> [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/security-auditing-25584598?u=76281980)
+#### [Security auditing](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/security-auditing-25584598?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/security-auditing-25584598?u=76281980&t=0)** - [Instructor] When was the last time your company performed a security audit of all their databases?
+> **[0:00](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/security-auditing-25584598?u=76281980&t=0)** - [Instructor] When was the last time your company performed a security audit of all their [[Databases]]?
 >
 > **[0:07](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/security-auditing-25584598?u=76281980&t=7)** Is it twice a year?
 >
@@ -834,7 +819,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/security-auditing-25584598?u=76281980&t=40)** The four types are configuration audit, vulnerability audit, compliance audit and performance audit.
 >
-> **[0:49](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/security-auditing-25584598?u=76281980&t=49)** A configuration audit, verifies hardware and software settings, as well as parameters of your organization's system.
+> **[0:49](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/security-auditing-25584598?u=76281980&t=49)** A configuration audit, verifies [[Hardware]] and software settings, as well as parameters of your organization's system.
 >
 > **[0:58](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/security-auditing-25584598?u=76281980&t=58)** You're checking resources like firewalls and servers.
 >
@@ -850,7 +835,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/security-auditing-25584598?u=76281980&t=114)** In general, there's a review planning step, an examination or analysis step, and a reporting step.
 >
-> **[2:02](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/security-auditing-25584598?u=76281980&t=122)** While you have many security audit tool options, the high priority features include compliance specific scans, remediation support, penetration testing, and vulnerability scanning.
+> **[2:02](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/security-auditing-25584598?u=76281980&t=122)** While you have many security audit tool options, the high priority features include compliance specific scans, remediation support, [[Penetration Testing]], and vulnerability scanning.
 >
 > **[2:19](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/security-auditing-25584598?u=76281980&t=139)** Now back to the vulnerability audit.
 >
@@ -876,7 +861,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), [[Penetration Testing]] (3), [[Databases]] (1), [[Hardware]] (1), next (1)
+> **Frameworks & Libraries:** [[Penetration Testing]] (3), [[Databases]] (1), [[Hardware]] (1)
 > **Cross-References:** next chapter (1)
 > **Speakers:** - [instructor] (1)
 
@@ -885,8 +870,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Vulnerability assessment and patch management
-> [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/vulnerability-assessment-and-patch-management-25587518?u=76281980)
+#### [Vulnerability assessment and patch management](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/vulnerability-assessment-and-patch-management-25587518?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -896,7 +880,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/vulnerability-assessment-and-patch-management-25587518?u=76281980&t=15)** Multi-level security prevents unauthorized users from accessing information at a higher classification than their authorization, and prevents users from declassifying information.
 >
-> **[0:31](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/vulnerability-assessment-and-patch-management-25587518?u=76281980&t=31)** AI power techniques, such as vulnerability assessment and patch management, have made multi-level security execution easier.
+> **[0:31](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/vulnerability-assessment-and-patch-management-25587518?u=76281980&t=31)** AI power techniques, such as [[Vulnerability Assessment]] and patch management, have made multi-level security execution easier.
 >
 > **[0:42](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/vulnerability-assessment-and-patch-management-25587518?u=76281980&t=42)** AI approaches increase the likelihood of proactively identifying issues, and hopefully patching them before they affect other parts of the system.
 >
@@ -904,11 +888,11 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/vulnerability-assessment-and-patch-management-25587518?u=76281980&t=61)** It targets defining, identifying, classifying, and prioritizing vulnerabilities across computing systems, applications, and network infrastructures.
 >
-> **[1:16](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/vulnerability-assessment-and-patch-management-25587518?u=76281980&t=76)** These vulnerabilities infiltrate our environment via people, hardware, and software.
+> **[1:16](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/vulnerability-assessment-and-patch-management-25587518?u=76281980&t=76)** These vulnerabilities infiltrate our environment via people, [[Hardware]], and software.
 >
 > **[1:24](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/vulnerability-assessment-and-patch-management-25587518?u=76281980&t=84)** Vulnerability assessments focus on how well sensitive data is protected and leverages AI tools to scan the entire database environment.
 >
-> **[1:36](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/vulnerability-assessment-and-patch-management-25587518?u=76281980&t=96)** Common vulnerabilities include misconfigured database settings, like unnecessary services running; improper access controls, like weak passwords; unpatched or not up to date software; and SQL injection flaws, usually seen as irregular SQL query statements.
+> **[1:36](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/vulnerability-assessment-and-patch-management-25587518?u=76281980&t=96)** Common vulnerabilities include misconfigured database settings, like unnecessary services running; improper access controls, like weak passwords; unpatched or not up to date software; and [[SQL]] injection flaws, usually seen as irregular SQL query statements.
 >
 > **[2:04](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/vulnerability-assessment-and-patch-management-25587518?u=76281980&t=124)** Vulnerability assessment and management works in conjunction with patch management.
 >
@@ -938,7 +922,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/vulnerability-assessment-and-patch-management-25587518?u=76281980&t=209)** There are distinct differences, but they overlap in three key ways: categorization of issues and remediations, monitoring of systems, and verification of actions taken.
 >
-> **[3:44](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/vulnerability-assessment-and-patch-management-25587518?u=76281980&t=224)** Next, you'll pivot to application security since databases are routinely connected to other applications.
+> **[3:44](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/vulnerability-assessment-and-patch-management-25587518?u=76281980&t=224)** Next, you'll pivot to [[Application Security]] since [[Databases]] are routinely connected to other applications.
 >
 > **[3:53](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/vulnerability-assessment-and-patch-management-25587518?u=76281980&t=233)** It's yet another possible security gap hub.
 >
@@ -946,19 +930,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), management (6), data (5), ai (3), [[Vulnerability Assessment]] (3)
+> **Frameworks & Libraries:** [[Vulnerability Assessment]] (3), [[SQL]] (2), [[Hardware]] (1), [[Application Security]] (1), [[Databases]] (1)
 > **Env Vars:** sql (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [presenter] (1)
 
-#### Reinforcing and enforcing application security
-> [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-application-security-25583598?u=76281980)
+#### [Reinforcing and enforcing application security](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-application-security-25583598?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-application-security-25583598?u=76281980&t=0)** - [Instructor] Protecting databases cascades to also securing applications.
+> **[0:00](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-application-security-25583598?u=76281980&t=0)** - [Instructor] Protecting [[Databases]] cascades to also securing applications.
 >
 > **[0:06](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-application-security-25583598?u=76281980&t=6)** Bad actors see these applications as riddled with vulnerabilities.
 >
@@ -968,9 +951,9 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-application-security-25583598?u=76281980&t=30)** Since you know the goal is to manipulate data and/or code, you're working to counteract these attacks.
 >
-> **[0:37](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-application-security-25583598?u=76281980&t=37)** It requires establishing and strengthening the foundation of application security through process, people, and technology.
+> **[0:37](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-application-security-25583598?u=76281980&t=37)** It requires establishing and strengthening the foundation of [[Application Security]] through process, people, and technology.
 >
-> **[0:48](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-application-security-25583598?u=76281980&t=48)** The process pillar covers the policies, procedures, and workflows used to manage applications through security requirements and threat modeling.
+> **[0:48](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-application-security-25583598?u=76281980&t=48)** The process pillar covers the policies, procedures, and workflows used to manage applications through security requirements and [[Threat Modeling]].
 >
 > **[0:59](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-application-security-25583598?u=76281980&t=59)** Now, the people pillar focuses on managing human risk.
 >
@@ -986,7 +969,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-application-security-25583598?u=76281980&t=115)** [[Static Application Security Testing]] analyzes the application security code and spot potential issues in the early development stages.
 >
-> **[2:07](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-application-security-25583598?u=76281980&t=127)** The seven stages are code input, code parsing, vulnerability detection, reporting, remediation, retesting, and continuous integration within the development process.
+> **[2:07](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-application-security-25583598?u=76281980&t=127)** The seven stages are code input, code parsing, vulnerability detection, reporting, remediation, retesting, and [[Continuous Integration (CI)|continuous integration]] within the development process.
 >
 > **[2:22](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-application-security-25583598?u=76281980&t=142)** It's rules-based and may produce false positive.
 >
@@ -1002,29 +985,28 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-application-security-25583598?u=76281980&t=184)** It analyzes the application's source code while it's running and identifies more vulnerabilities with a lower rate of false positives.
 >
-> **[3:15](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-application-security-25583598?u=76281980&t=195)** Vulnerabilities are identified in real time, usually during quality assurance.
+> **[3:15](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-application-security-25583598?u=76281980&t=195)** Vulnerabilities are identified in real time, usually during [[Quality Assurance]].
 >
 > **[3:21](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-application-security-25583598?u=76281980&t=201)** Each one of these code scanning tools have their benefits and limitations.
 >
 > **[3:27](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-application-security-25583598?u=76281980&t=207)** However, when security measures are performed within applications, there's a lower likelihood of security risks transferring to the database environment, and that's what we want to accomplish.
 >
-> **[3:42](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-application-security-25583598?u=76281980&t=222)** We'll wrap up this chapter by getting acquainted with a security management framework.
+> **[3:42](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-application-security-25583598?u=76281980&t=222)** We'll wrap up this chapter by getting acquainted with a [[Security Management]] framework.
 >
 > **[3:47](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-application-security-25583598?u=76281980&t=227)** It'll bring the security pieces together.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (16), application (9), [[Databases]] (1), data (1), [[Threat Modeling]] (1)
+> **Frameworks & Libraries:** [[Application Security]] (8), [[Databases]] (1), [[Threat Modeling]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Quality Assurance]] (1)
 > **Exercise Files:** source code (3)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reinforcing and enforcing security management
-> [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-security-management-25587517?u=76281980)
+#### [Reinforcing and enforcing security management](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-security-management-25587517?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-security-management-25587517?u=76281980&t=0)** - [Narrator] Crafting a database security management plan is undoubtedly a daunting task.
+> **[0:00](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-security-management-25587517?u=76281980&t=0)** - [Narrator] Crafting a database [[Security Management]] plan is undoubtedly a daunting task.
 >
 > **[0:06](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-security-management-25587517?u=76281980&t=6)** There's both external and internal considerations you'll need to balance.
 >
@@ -1034,7 +1016,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-security-management-25587517?u=76281980&t=31)** Adding physical security measures like surveillance cameras and key card access are recommended, but these measures are the primary responsibility of the IT team.
 >
-> **[0:43](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-security-management-25587517?u=76281980&t=43)** Application security is a collaborative partnership between IT and data, or AI teams.
+> **[0:43](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-security-management-25587517?u=76281980&t=43)** [[Application Security]] is a collaborative partnership between IT and data, or AI teams.
 >
 > **[0:52](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/reinforcing-and-enforcing-security-management-25587517?u=76281980&t=52)** Process, people and technology work together to shore up firewalls and fill security gaps, especially with AI-powered code scanning tools.
 >
@@ -1066,7 +1048,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), database (9), data (5), ai (2), management (1)
+> **Frameworks & Libraries:** [[Security Management]] (1), [[Application Security]] (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
@@ -1078,14 +1060,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Case study setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-setup-25586542?u=76281980)
+#### [Case study setup](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-setup-25586542?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-setup-25586542?u=76281980&t=0)** - [Instructor] Ideally, the best way to affirm what you've learned in this course is to explicitly apply it.
 >
-> **[0:07](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-setup-25586542?u=76281980&t=7)** Open source database management systems like MySQL Workbench and PostgresSQL aren't the preferred choice since they need significant security configuration and maintenance.
+> **[0:07](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-setup-25586542?u=76281980&t=7)** Open source [[Database Management]] systems like [[MySQL]] Workbench and PostgresSQL aren't the preferred choice since they need significant security configuration and maintenance.
 >
 > **[0:22](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-setup-25586542?u=76281980&t=22)** Many secure database activities also assume a robust application layer is in place to interact directly and exclusively with the database environment.
 >
@@ -1095,7 +1076,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-setup-25586542?u=76281980&t=49)** And given our focus on a purchase order or procurement use case, your practical option is investing in proprietary domain-specific database management services.
 >
-> **[1:03](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-setup-25586542?u=76281980&t=63)** AI has reshaped procurement management by automating inventory data extraction, purchase order creation and approval, data validation with invoices and receipts, and payment processes.
+> **[1:03](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-setup-25586542?u=76281980&t=63)** AI has reshaped procurement management by automating inventory data extraction, purchase order creation and approval, [[Data Validation]] with invoices and receipts, and payment processes.
 >
 > **[1:19](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-setup-25586542?u=76281980&t=79)** All of these moving parts within procurement make assessing confidentiality, integrity, and availability of your purchase order data more difficult.
 >
@@ -1113,7 +1094,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-setup-25586542?u=76281980&t=142)** These two measures are relatively straightforward.
 >
-> **[2:26](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-setup-25586542?u=76281980&t=146)** You learn the difference amongst multi-factor authentication, biometrics, and password list authentication.
+> **[2:26](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-setup-25586542?u=76281980&t=146)** You learn the difference amongst [[Multi-factor Authentication]], biometrics, and password list authentication.
 >
 > **[2:35](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-setup-25586542?u=76281980&t=155)** Which one does COPA use?
 >
@@ -1133,17 +1114,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), data (7), management (6), [[Security]] (6), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[Database Management]] (4), [[MySQL]] (1), [[Data Validation]] (1), [[Multi-factor Authentication]] (1)
 > **Env Vars:** copa (8), sap (1), aes (1), rsa (1), des (1)
 > **CLI Commands:** mysql (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case study walkthrough
-> [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-walkthrough-25586543?u=76281980)
+#### [Case study walkthrough](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-walkthrough-25586543?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-walkthrough-25586543?u=76281980&t=0)** - [Instructor] Full disclosure, your responses to each of the database management and security measures may differ from mine and that's okay.
+> **[0:00](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-walkthrough-25586543?u=76281980&t=0)** - [Instructor] Full disclosure, your responses to each of the [[Database Management]] and security measures may differ from mine and that's okay.
 >
 > **[0:10](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-walkthrough-25586543?u=76281980&t=10)** The case study intends to help you critically think about which functionalities and features are most important.
 >
@@ -1153,7 +1133,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-walkthrough-25586543?u=76281980&t=26)** Which type of access control do they use?
 >
-> **[0:29](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-walkthrough-25586543?u=76281980&t=29)** The options are multi-factor authentication, biometric authentication or passwordless authentication.
+> **[0:29](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-walkthrough-25586543?u=76281980&t=29)** The options are [[Multi-factor Authentication]], biometric authentication or passwordless authentication.
 >
 > **[0:39](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/case-study-walkthrough-25586543?u=76281980&t=39)** Coupa uses two-factor authentication using an authenticator app or SMS integration.
 >
@@ -1189,7 +1169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), database (2), data (2), management (1), [[Multi-factor Authentication]] (1)
+> **Frameworks & Libraries:** [[Database Management]] (1), [[Multi-factor Authentication]] (1)
 > **Env Vars:** aes (2), sms (1), rsa (1), des (1), soc (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1198,8 +1178,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/next-steps-25585563?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/next-steps-25585563?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1207,21 +1186,21 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/next-steps-25585563?u=76281980&t=4)** You've done it.
 >
-> **[0:06](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/next-steps-25585563?u=76281980&t=6)** If you're interested in gaining more data engineering practice, check out Mark Friedman's [[Data Engineering With Dbt]] course.
+> **[0:06](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/next-steps-25585563?u=76281980&t=6)** If you're interested in gaining more [[Data Engineering]] practice, check out Mark Friedman's [[Data Engineering With Dbt]] course.
 >
-> **[0:15](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/next-steps-25585563?u=76281980&t=15)** Or to get a brief refresher on SQL, my other course, Practical Database Design, is a great option.
+> **[0:15](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/next-steps-25585563?u=76281980&t=15)** Or to get a brief refresher on [[SQL]], my other course, Practical [[Database Design]], is a great option.
 >
 > **[0:24](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/next-steps-25585563?u=76281980&t=24)** We've reached the end of our time together for now.
 >
 > **[0:29](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/next-steps-25585563?u=76281980&t=29)** Thanks for taking this course.
 >
-> **[0:31](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/next-steps-25585563?u=76281980&t=31)** For more conversations about data ethics and building more responsible data practices, follow me on LinkedIn, or visit my company website at [Dataedx.com](https://Dataedx.com).
+> **[0:31](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/next-steps-25585563?u=76281980&t=31)** For more conversations about [[Data Ethics]] and building more responsible data practices, follow me on [[LinkedIn]], or visit my company website at [Dataedx.com](https://Dataedx.com).
 >
 > **[0:44](https://www.linkedin.com/learning/secure-data-management-for-ai-implementation/next-steps-25585563?u=76281980&t=44)** Thank you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Engineering]] (2), data (2), dbt (1), [[SQL]] (1), database (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (2), [[SQL]] (1), [[Database Design]] (1), [[Data Ethics]] (1), [[LinkedIn]] (1)
 > **URLs:** [dataedx.com](https://dataedx.com) (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)

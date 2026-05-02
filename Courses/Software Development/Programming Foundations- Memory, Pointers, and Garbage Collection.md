@@ -71,8 +71,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with memory management
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/getting-started-with-memory-management?u=76281980)
+#### [Getting started with memory management](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/getting-started-with-memory-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -102,7 +101,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/getting-started-with-memory-management?u=76281980&t=34)** The computer has two types of memory as well and we'll focus on the computer's short term memory in this course.
 >
-> **[0:41](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/getting-started-with-memory-management?u=76281980&t=41)** First, we'll go over the basic concepts of memory management.
+> **[0:41](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/getting-started-with-memory-management?u=76281980&t=41)** First, we'll go over the basic concepts of [[Memory Management]].
 >
 > **[0:45](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/getting-started-with-memory-management?u=76281980&t=45)** The exact implementation depends on your programming environment.
 >
@@ -132,16 +131,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Memory Management]] (3), [[Programming]] (1), next (1), application (1)
+> **Frameworks & Libraries:** [[Memory Management]] (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [maaike] (1)
 
-#### Are you ready to learn memory management?
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/are-you-ready-to-learn-memory-management?u=76281980)
+#### [Are you ready to learn memory management?](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/are-you-ready-to-learn-memory-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/are-you-ready-to-learn-memory-management?u=76281980&t=0)** - [Narrator] Before we get started with memory management, let's first make sure that this course is for you.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/are-you-ready-to-learn-memory-management?u=76281980&t=0)** - [Narrator] Before we get started with [[Memory Management]], let's first make sure that this course is for you.
 >
 > **[0:06](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/are-you-ready-to-learn-memory-management?u=76281980&t=6)** In order to be able to follow along, you'll have to know the basics of any programming language.
 >
@@ -149,13 +147,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/are-you-ready-to-learn-memory-management?u=76281980&t=15)** It's also necessary to be able to create loops and if conditions.
 >
-> **[0:20](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/are-you-ready-to-learn-memory-management?u=76281980&t=20)** If you are not familiar with a programming language at this level yet, there are some excellent courses on LinkedIn, such as Learning Python, Learning Java, Learning C#, and so many more.
+> **[0:20](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/are-you-ready-to-learn-memory-management?u=76281980&t=20)** If you are not familiar with a programming language at this level yet, there are some excellent courses on [[LinkedIn]], such as Learning [[Python (Programming Language)|Python]], Learning [[Java]], Learning C#, and so many more.
 >
 > **[0:32](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/are-you-ready-to-learn-memory-management?u=76281980&t=32)** If you already know at least one programming language at this level, then let's get moving.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[Memory Management]] (1), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Memory Management]] (1), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1), [[Java]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
@@ -166,8 +164,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is memory?
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/what-is-memory?u=76281980)
+#### [What is memory?](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/what-is-memory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -203,7 +200,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/what-is-memory?u=76281980&t=81)** Clearly it's more complicated than this.
 >
-> **[1:24](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/what-is-memory?u=76281980&t=84)** Definitely if you're going to zoom in.
+> **[1:24](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/what-is-memory?u=76281980&t=84)** Definitely if you're going to [[Zoom]] in.
 >
 > **[1:26](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/what-is-memory?u=76281980&t=86)** And we are going to zoom in, but only on the main memory and not on the secondary storage.
 >
@@ -257,15 +254,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Zoom]] (2), next (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **Env Vars:** ram (15), rom (4), cpu (2)
 > **Analogies:** for example (4), such as (3), just like (1)
 > **Definitions:** is an  (1), stands for (1)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why do we need to manage the memory?
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/why-do-we-need-to-manage-the-memory?u=76281980)
+#### [Why do we need to manage the memory?](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/why-do-we-need-to-manage-the-memory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -275,9 +271,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/why-do-we-need-to-manage-the-memory?u=76281980&t=18)** The RAM is the physical memory that's being used.
 >
-> **[0:21](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/why-do-we-need-to-manage-the-memory?u=76281980&t=21)** This memory gets managed at roughly three levels, hardware, OS and applications.
+> **[0:21](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/why-do-we-need-to-manage-the-memory?u=76281980&t=21)** This memory gets managed at roughly three levels, [[Hardware]], OS and applications.
 >
-> **[0:28](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/why-do-we-need-to-manage-the-memory?u=76281980&t=28)** We'll focus on memory management by the application.
+> **[0:28](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/why-do-we-need-to-manage-the-memory?u=76281980&t=28)** We'll focus on [[Memory Management]] by the application.
 >
 > **[0:31](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/why-do-we-need-to-manage-the-memory?u=76281980&t=31)** This comes down to two type of actions.
 >
@@ -333,7 +329,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/why-do-we-need-to-manage-the-memory?u=76281980&t=177)** The developer can just focus on the features they're building instead of on the memory management code.
 >
-> **[3:02](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/why-do-we-need-to-manage-the-memory?u=76281980&t=182)** Programming languages such as Python, JavaScript, Java, Perl, and many others take care of memory management for you.
+> **[3:02](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/why-do-we-need-to-manage-the-memory?u=76281980&t=182)** Programming languages such as [[Python (Programming Language)|Python]], [[JavaScript]], [[Java]], Perl, and many others take care of memory management for you.
 >
 > **[3:09](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/why-do-we-need-to-manage-the-memory?u=76281980&t=189)** In order to do so, many of these languages work with heap memory and stack memory.
 >
@@ -341,7 +337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Memory Management]] (8), application (2), [[Hardware]] (1), management (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Memory Management]] (8), [[Hardware]] (1), [[Python (Programming Language)|Python]] (1), [[JavaScript]] (1), [[Java]] (1)
 > **Analogies:** such as (3), for example (1)
 > **Env Vars:** cpu (1), ram (1)
 > **Exercise Files:** boilerplate (2)
@@ -350,12 +346,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [speaker] (1)
 
-#### Stack memory
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/stack-memory?u=76281980)
+#### [Stack memory](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/stack-memory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/stack-memory?u=76281980&t=0)** - [Instructor] Many languages, like C, C++, Java, and C#, manage the memory by having a heap and a stack.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/stack-memory?u=76281980&t=0)** - [Instructor] Many languages, like C, C++, [[Java]], and C#, manage the memory by having a heap and a stack.
 >
 > **[0:08](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/stack-memory?u=76281980&t=8)** How this is implemented differs amongst different languages.
 >
@@ -431,7 +426,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/stack-memory?u=76281980&t=177)** And what you're looking at right now is the homepage.
 >
-> **[3:00](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/stack-memory?u=76281980&t=180)** Chances are you haven't ever seen it yet, because you've just entered some sort of thread using Google.
+> **[3:00](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/stack-memory?u=76281980&t=180)** Chances are you haven't ever seen it yet, because you've just entered some sort of thread using [[Google]].
 >
 > **[3:06](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/stack-memory?u=76281980&t=186)** Also have another memory area, the heap.
 >
@@ -441,15 +436,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (1), data (1), [[Troubleshooting]] (1), [[Google]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Google]] (1)
 > **Env Vars:** lifo (1), ram (1)
 > **Documentation:** stack overflow (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Heap memory
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/heap-memory?u=76281980)
+#### [Heap memory](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/heap-memory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -523,14 +517,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), next (1)
 > **Env Vars:** ram (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Heap vs. stack memory
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/heap-vs-stack-memory?u=76281980)
+#### [Heap vs. stack memory](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/heap-vs-stack-memory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -612,7 +604,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/heap-vs-stack-memory?u=76281980&t=179)** A thread is a part of execution within an application and every thread has its own stack.
 >
-> **[3:05](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/heap-vs-stack-memory?u=76281980&t=185)** So one thread can be calling an API to fetch a certain calculation while the other thread is awaiting a call to the database.
+> **[3:05](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/heap-vs-stack-memory?u=76281980&t=185)** So one thread can be calling an API to [[Fetch]] a certain calculation while the other thread is awaiting a call to the database.
 >
 > **[3:13](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/heap-vs-stack-memory?u=76281980&t=193)** So let's say some function is initiated by a certain thread that has a certain stack.
 >
@@ -646,7 +638,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/heap-vs-stack-memory?u=76281980&t=288)** But sometimes there are multiple threads executing simultaneously.
 >
-> **[4:52](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/heap-vs-stack-memory?u=76281980&t=292)** Concurrency can be applied to increase the performance of your application, but it comes with consequences for memory management.
+> **[4:52](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/heap-vs-stack-memory?u=76281980&t=292)** Concurrency can be applied to increase the performance of your application, but it comes with consequences for [[Memory Management]].
 >
 > **[4:59](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/heap-vs-stack-memory?u=76281980&t=299)** So to go back to the household example again, if I'm doing the household for two people, it's probably going to be more efficient and done faster but things need to be managed a bit better than when I'm doing it myself since we need to split tasks and communicate well.
 >
@@ -676,11 +668,11 @@ created: 2026-05-02
 >
 > **[6:34](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/heap-vs-stack-memory?u=76281980&t=394)** And this is something to be very mindful of when working with heap memory.
 >
-> **[6:39](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/heap-vs-stack-memory?u=76281980&t=399)** Now that we've sorted out a difference between the stack and the heap, let's zoom in on the concepts of allocation and deallocation.
+> **[6:39](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/heap-vs-stack-memory?u=76281980&t=399)** Now that we've sorted out a difference between the stack and the heap, let's [[Zoom]] in on the concepts of allocation and deallocation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), business (2), next (1), [[Search]] (1), api (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[Memory Management]] (1), [[Zoom]] (1)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** ram (1), api (1)
@@ -688,8 +680,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - let (1)
 
-#### Allocating memory
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/allocating-memory?u=76281980)
+#### [Allocating memory](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/allocating-memory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -709,7 +700,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/allocating-memory?u=76281980&t=47)** The exact terminology for these principles differs per programming language.
 >
-> **[0:53](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/allocating-memory?u=76281980&t=53)** Also, allocating the memory is part of the memory management, and how this is done differs for different systems and languages.
+> **[0:53](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/allocating-memory?u=76281980&t=53)** Also, allocating the memory is part of the [[Memory Management]], and how this is done differs for different systems and languages.
 >
 > **[1:01](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/allocating-memory?u=76281980&t=61)** It can be done manually by coding the allocation of the memory, and it can be done automatically by having it built into a language or interpreter.
 >
@@ -729,14 +720,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), [[Memory Management]] (1), next (1)
+> **Frameworks & Libraries:** [[Memory Management]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1), means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deallocating memory
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/deallocating-memory?u=76281980)
+#### [Deallocating memory](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/deallocating-memory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -786,15 +776,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), next (1)
 > **Definitions:** is called (1), means that (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Garbage collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/garbage-collection?u=76281980)
+#### [Garbage collection](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/garbage-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -804,7 +792,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/garbage-collection?u=76281980&t=12)** Typically, it's not called garbage collection then.
 >
-> **[0:15](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/garbage-collection?u=76281980&t=15)** Languages that have an automatic garbage collection building are for example, CCR, Java, Python and actually many other high level languages.
+> **[0:15](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/garbage-collection?u=76281980&t=15)** Languages that have an automatic garbage collection building are for example, CCR, [[Java]], [[Python (Programming Language)|Python]] and actually many other high level languages.
 >
 > **[0:23](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/garbage-collection?u=76281980&t=23)** There are some common errors that are not happening when we use a garbage collector.
 >
@@ -952,7 +940,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Java]] (1), [[Python (Programming Language)|Python]] (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1), find (1)
 > **Analogies:** for example (1), imagine (1), such as (1)
 > **Env Vars:** ccr (1)
@@ -960,8 +948,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Actual removing or sweeping
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/actual-removing-or-sweeping?u=76281980)
+#### [Actual removing or sweeping](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/actual-removing-or-sweeping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1029,7 +1016,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1)
 > **Best Practices:** the key is (1)
@@ -1040,14 +1026,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The C way: Allocating memory
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-c-way-allocating-memory?u=76281980)
+#### [The C way: Allocating memory](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-c-way-allocating-memory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-c-way-allocating-memory?u=76281980&t=0)** - [Instructor] In order to explain memory management in real life, I'd like to start with C.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-c-way-allocating-memory?u=76281980&t=0)** - [Instructor] In order to explain [[Memory Management]] in real life, I'd like to start with C.
 >
-> **[0:05](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-c-way-allocating-memory?u=76281980&t=5)** Before you think something along the lines of, but Micah, why should we go back to something that was hot in the early 70s When we have fancy languages like Python, Java, and C# now?
+> **[0:05](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-c-way-allocating-memory?u=76281980&t=5)** Before you think something along the lines of, but Micah, why should we go back to something that was hot in the early 70s When we have fancy languages like [[Python (Programming Language)|Python]], [[Java]], and C# now?
 >
 > **[0:16](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-c-way-allocating-memory?u=76281980&t=16)** Well, first of all, Python's most popular implementation is CPython and it actually means that it's written in C.
 >
@@ -1191,7 +1176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Memory Management]] (5), [[Python (Programming Language)|Python]] (2), data (2), next (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Memory Management]] (5), [[Python (Programming Language)|Python]] (2), [[Java]] (1)
 > **Definitions:** is a  (3), means that (2), is called (2), stands for (1)
 > **CLI Commands:** python (2), make (2), find (1)
 > **Analogies:** for example (1), just like (1), imagine (1)
@@ -1200,8 +1185,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### The C way: Deallocating and reallocating memory
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-c-way-deallocating-and-reallocating-memory?u=76281980)
+#### [The C way: Deallocating and reallocating memory](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-c-way-deallocating-and-reallocating-memory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1337,7 +1321,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-c-way-deallocating-and-reallocating-memory?u=76281980&t=299)** If there's values on there, they will remain on there until they're overwritten.
 >
-> **[5:04](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-c-way-deallocating-and-reallocating-memory?u=76281980&t=304)** So this is how memory management works if you have to do it manually.
+> **[5:04](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-c-way-deallocating-and-reallocating-memory?u=76281980&t=304)** So this is how [[Memory Management]] works if you have to do it manually.
 >
 > **[5:07](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-c-way-deallocating-and-reallocating-memory?u=76281980&t=307)** Nowadays, we have the luxury of not having to worry about it in many languages.
 >
@@ -1345,7 +1329,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Memory Management]] (1), next (1)
+> **Frameworks & Libraries:** [[Memory Management]] (1)
 > **Env Vars:** null (3)
 > **Definitions:** means that (3)
 > **CLI Commands:** make (1)
@@ -1354,14 +1338,13 @@ created: 2026-05-02
 > **Best Practices:** always make sure (1)
 > **Speakers:** - [instructor] (1)
 
-#### The automagic way in modern languages
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-automagic-way-in-modern-languages?u=76281980)
+#### [The automagic way in modern languages](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-automagic-way-in-modern-languages?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-automagic-way-in-modern-languages?u=76281980&t=0)** - [Instructor] All right, there is a lot of good news here.
 >
-> **[0:03](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-automagic-way-in-modern-languages?u=76281980&t=3)** Many popular languages nowadays will help you so much with memory management that you don't need to worry about allocation and deallocation at all.
+> **[0:03](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-automagic-way-in-modern-languages?u=76281980&t=3)** Many popular languages nowadays will help you so much with [[Memory Management]] that you don't need to worry about allocation and deallocation at all.
 >
 > **[0:12](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-automagic-way-in-modern-languages?u=76281980&t=12)** Well, sort of.
 >
@@ -1387,7 +1370,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-automagic-way-in-modern-languages?u=76281980&t=63)** It may not surprise you at this point, but this is going to be different depending on the language, the implementation of the language, the settings, and the system that you're using.
 >
-> **[1:14](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-automagic-way-in-modern-languages?u=76281980&t=74)** Some languages that implement automatic memory management are Java, C#, Python, Ruby, JavaScript, and actually many, many more.
+> **[1:14](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-automagic-way-in-modern-languages?u=76281980&t=74)** Some languages that implement automatic memory management are [[Java]], C#, [[Python (Programming Language)|Python]], Ruby, [[JavaScript]], and actually many, many more.
 >
 > **[1:23](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/the-automagic-way-in-modern-languages?u=76281980&t=83)** They all have their own system in place for allocating memory.
 >
@@ -1399,21 +1382,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Memory Management]] (8), [[Python (Programming Language)|Python]] (2), application (1), management (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Memory Management]] (8), [[Python (Programming Language)|Python]] (2), [[Java]] (1), [[JavaScript]] (1)
 > **CLI Commands:** python (2), ruby (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Memory management in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/memory-management-in-python?u=76281980)
+#### [Memory management in Python](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/memory-management-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/memory-management-in-python?u=76281980&t=0)** - [Narrator] Python is a very popular language amongst beginning programmers, well, not only amongst beginners.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/memory-management-in-python?u=76281980&t=0)** - [Narrator] [[Python (Programming Language)|Python]] is a very popular language amongst beginning programmers, well, not only amongst beginners.
 >
-> **[0:06](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/memory-management-in-python?u=76281980&t=6)** It has a beautiful, clean syntax, but one of the reasons for this popularity is that it helps with both memory management and that it's dynamically typed.
+> **[0:06](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/memory-management-in-python?u=76281980&t=6)** It has a beautiful, clean syntax, but one of the reasons for this popularity is that it helps with both [[Memory Management]] and that it's dynamically typed.
 >
 > **[0:16](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/memory-management-in-python?u=76281980&t=16)** Well, what do I mean with dynamically typed?
 >
@@ -1547,24 +1529,23 @@ created: 2026-05-02
 >
 > **[6:14](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/memory-management-in-python?u=76281980&t=374)** All right. So this was all very theoretical.
 >
-> **[6:17](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/memory-management-in-python?u=76281980&t=377)** Let's have a look at the simplified simulation of what happens to the stack and the heap when we're coding Python.
+> **[6:17](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/memory-management-in-python?u=76281980&t=377)** Let's have a look at the simplified [[Simulation]] of what happens to the stack and the heap when we're coding Python.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (20), [[Memory Management]] (3), data (1), business (1), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (20), [[Memory Management]] (3), [[Simulation]] (1)
 > **CLI Commands:** python (20), find (2)
 > **Definitions:** is a  (6), means that (3), is an  (1)
 > **Env Vars:** ram (2)
 > **Speakers:** - [narrator] (1)
 
-#### Memory in Python visualized
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/memory-in-python-visualized?u=76281980)
+#### [Memory in Python visualized](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/memory-in-python-visualized?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/memory-in-python-visualized?u=76281980&t=0)** - [Instructor] Let's make it more visual.
 >
-> **[0:02](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/memory-in-python-visualized?u=76281980&t=2)** We're going to have a look at Python code and a visualization of what is happening with the stack and the heap for every line of code.
+> **[0:02](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/memory-in-python-visualized?u=76281980&t=2)** We're going to have a look at [[Python (Programming Language)|Python]] code and a visualization of what is happening with the stack and the heap for every line of code.
 >
 > **[0:10](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/memory-in-python-visualized?u=76281980&t=10)** We're not going to show the allocator as explained in a previous video, but just assume that there is some space on the heap available.
 >
@@ -1584,7 +1565,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/memory-in-python-visualized?u=76281980&t=68)** So if the x would be modified, say x would turn into 2, it would lead to the creation of a new object, and y would still be pointing to the 5.
 >
-> **[1:19](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/memory-in-python-visualized?u=76281980&t=79)** So this would not lead to data integrity problems and y all of a sudden pointing at 2 as well.
+> **[1:19](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/memory-in-python-visualized?u=76281980&t=79)** So this would not lead to [[Data Integrity]] problems and y all of a sudden pointing at 2 as well.
 >
 > **[1:24](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/memory-in-python-visualized?u=76281980&t=84)** All right, so let's go back to our situation and add a method to add these numbers.
 >
@@ -1608,7 +1589,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/memory-in-python-visualized?u=76281980&t=161)** All right, so that's how CPython memory is working.
 >
-> **[2:44](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/memory-in-python-visualized?u=76281980&t=164)** There's plenty of room to dive deeper, but this is enough knowledge to understand the foundation of memory management in Python.
+> **[2:44](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/memory-in-python-visualized?u=76281980&t=164)** There's plenty of room to dive deeper, but this is enough knowledge to understand the foundation of [[Memory Management]] in Python.
 >
 > **[2:51](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/memory-in-python-visualized?u=76281980&t=171)** And it will help you understand how other languages do it as well, even though they might do it a bit differently.
 >
@@ -1622,7 +1603,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Memory Management]] (2), data (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Memory Management]] (2), [[Data Integrity]] (1)
 > **CLI Commands:** python (5), make (1)
 > **Warnings:** note that (2), be aware (1)
 > **Cross-References:** previous video (1), go back to (1)
@@ -1633,12 +1614,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are memory leaks?
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/what-are-memory-leaks?u=76281980)
+#### [What are memory leaks?](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/what-are-memory-leaks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/what-are-memory-leaks?u=76281980&t=0)** - [Instructor] Let's talk about one of the biggest problems that can come from poor memory management, memory leaks.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/what-are-memory-leaks?u=76281980&t=0)** - [Instructor] Let's talk about one of the biggest problems that can come from poor [[Memory Management]], memory leaks.
 >
 > **[0:07](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/what-are-memory-leaks?u=76281980&t=7)** When I ask students what they think a memory leak is at least one of them always answers that this is random memory loss.
 >
@@ -1698,15 +1678,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Memory Management]] (4), cloud (3), database (1), next (1)
+> **Frameworks & Libraries:** [[Memory Management]] (4)
 > **Definitions:** is a  (3)
 > **Env Vars:** ram (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Out of Memory error
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/out-of-memory-error?u=76281980)
+#### [Out of Memory error](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/out-of-memory-error?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1788,21 +1767,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), cloud (2), next (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** null (2)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Avoiding memory leaks
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/avoiding-memory-leaks?u=76281980)
+#### [Avoiding memory leaks](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/avoiding-memory-leaks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/avoiding-memory-leaks?u=76281980&t=0)** - [Instructor] How to avoid memory leaks?
 >
-> **[0:02](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/avoiding-memory-leaks?u=76281980&t=2)** Of course, this depends a bit on the exact system and language, but let's have a look at Python.
+> **[0:02](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/avoiding-memory-leaks?u=76281980&t=2)** Of course, this depends a bit on the exact system and language, but let's have a look at [[Python (Programming Language)|Python]].
 >
 > **[0:09](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/avoiding-memory-leaks?u=76281980&t=9)** How to avoid memory leaks in Python?
 >
@@ -1818,7 +1795,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/avoiding-memory-leaks?u=76281980&t=40)** The generator functions return an iterator to loop over the data without having all the data in the RAM.
 >
-> **[0:47](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/avoiding-memory-leaks?u=76281980&t=47)** There are actually solutions to avoid working with huge data sets in the memory that can be used out of the box, such as TensorFlow or Keras.
+> **[0:47](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/avoiding-memory-leaks?u=76281980&t=47)** There are actually solutions to avoid working with huge data sets in the memory that can be used out of the box, such as [[TensorFlow]] or Keras.
 >
 > **[0:55](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/avoiding-memory-leaks?u=76281980&t=55)** This way, you can operate on large data sets and get the data only when you need it.
 >
@@ -1878,7 +1855,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/avoiding-memory-leaks?u=76281980&t=195)** It managed to get up to 525, and then it got our memory error.
 >
-> **[3:21](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/avoiding-memory-leaks?u=76281980&t=201)** So, memory errors like these are perhaps a bit less likely to happen in Python than it would be in C#, Java, or a similar language.
+> **[3:21](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/avoiding-memory-leaks?u=76281980&t=201)** So, memory errors like these are perhaps a bit less likely to happen in Python than it would be in C#, [[Java]], or a similar language.
 >
 > **[3:29](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/avoiding-memory-leaks?u=76281980&t=209)** Why, you may wonder.
 >
@@ -1898,11 +1875,11 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/avoiding-memory-leaks?u=76281980&t=237)** This way, the reference count will reach zero, and the garbage collector will pick them up.
 >
-> **[4:03](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/avoiding-memory-leaks?u=76281980&t=243)** Let's have a look at some best practices for memory management and Python.
+> **[4:03](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/avoiding-memory-leaks?u=76281980&t=243)** Let's have a look at some best practices for [[Memory Management]] and Python.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), data (8), [[TensorFlow]] (1), [[Java]] (1), [[Memory Management]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[TensorFlow]] (1), [[Java]] (1), [[Memory Management]] (1)
 > **CLI Commands:** python (12), make (2)
 > **Env Vars:** ram (2)
 > **Code Identifiers:** some_list (1)
@@ -1911,8 +1888,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices with memory
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/best-practices-with-memory?u=76281980)
+#### [Best practices with memory](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/best-practices-with-memory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1956,7 +1932,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/best-practices-with-memory?u=76281980&t=86)** I'm printing them on line 12.
 >
-> **[1:28](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/best-practices-with-memory?u=76281980&t=88)** Then on line 13, I'm creating a new Course called Memory management with a list of learners.
+> **[1:28](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/best-practices-with-memory?u=76281980&t=88)** Then on line 13, I'm creating a new Course called [[Memory Management]] with a list of learners.
 >
 > **[1:34](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/best-practices-with-memory?u=76281980&t=94)** Then I'm going to be calling the delete_first using my list of learners as an argument.
 >
@@ -1994,7 +1970,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/best-practices-with-memory?u=76281980&t=210)** Then there are some other practices to be aware of.
 >
-> **[3:33](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/best-practices-with-memory?u=76281980&t=213)** In Python specifically, you cannot really control the memory management, at least not directly.
+> **[3:33](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/best-practices-with-memory?u=76281980&t=213)** In [[Python (Programming Language)|Python]] specifically, you cannot really control the memory management, at least not directly.
 >
 > **[3:38](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/best-practices-with-memory?u=76281980&t=218)** We have already discussed some best practices to avoid memory leaks, but there're also some best practices to not use more memory than necessary.
 >
@@ -2228,7 +2204,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Memory Management]] (3), [[Python (Programming Language)|Python]] (3), [[Security]] (2), next (2), application (1)
+> **Frameworks & Libraries:** [[Memory Management]] (3), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** pip (4), python (3), make (1), python3 (1), find (1)
 > **Prerequisites:** install (6), you'll need (1)
 > **Definitions:** is a  (3), means that (1), we call this (1)
@@ -2247,12 +2223,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps in memory management
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/next-steps-in-memory-management?u=76281980)
+#### [Next steps in memory management](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/next-steps-in-memory-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/next-steps-in-memory-management?u=76281980&t=0)** - [Instructor] Congratulations, you've made it truly memory management fundamentals.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/next-steps-in-memory-management?u=76281980&t=0)** - [Instructor] Congratulations, you've made it truly [[Memory Management]] fundamentals.
 >
 > **[0:04](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/next-steps-in-memory-management?u=76281980&t=4)** You're ready for some next topics now.
 >
@@ -2260,15 +2235,15 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/next-steps-in-memory-management?u=76281980&t=17)** Or perhaps, it's the right time for you to learn a new programming language.
 >
-> **[0:21](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/next-steps-in-memory-management?u=76281980&t=21)** And depending on your current level, it might actually be nice to pick up some more advanced topics, such as design patterns and concurrency.
+> **[0:21](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/next-steps-in-memory-management?u=76281980&t=21)** And depending on your current level, it might actually be nice to pick up some more advanced topics, such as [[Design Patterns]] and concurrency.
 >
-> **[0:29](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/next-steps-in-memory-management?u=76281980&t=29)** Some of the courses that would be a great follow up based on this are programming foundations, discreet mathematics, but also monitoring and logging, or for example, as a new programming language, [[JavaScript Essential Training]] if you don't know JavaScript yet.
+> **[0:29](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/next-steps-in-memory-management?u=76281980&t=29)** Some of the courses that would be a great follow up based on this are [[Programming Foundations]], discreet mathematics, but also monitoring and logging, or for example, as a new programming language, [[[[JavaScript]] Essential Training]] if you don't know JavaScript yet.
 >
 > **[0:44](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/next-steps-in-memory-management?u=76281980&t=44)** Also interesting would be advanced design patterns, design principles, if you're a bit further already.
 >
 > **[0:50](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/next-steps-in-memory-management?u=76281980&t=50)** All right, thank you so much for taking my course, and let's connect.
 >
-> **[0:53](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/next-steps-in-memory-management?u=76281980&t=53)** You can find me on LinkedIn, my name is Maaike van Putten.
+> **[0:53](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/next-steps-in-memory-management?u=76281980&t=53)** You can find me on [[LinkedIn]], my name is Maaike van Putten.
 >
 > **[0:57](https://www.linkedin.com/learning/programming-foundations-memory-pointers-and-garbage-collection/next-steps-in-memory-management?u=76281980&t=57)** If you share you finish this course and you tag me, I'll make sure to like your post.
 >
@@ -2286,7 +2261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[Design Patterns]] (2), [[JavaScript]] (2), [[LinkedIn]] (2), [[Memory Management]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (2), [[JavaScript]] (2), [[LinkedIn]] (2), [[Memory Management]] (1), [[Programming Foundations]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** find (1), make (1)
 > **Best Practices:** make sure to (1)

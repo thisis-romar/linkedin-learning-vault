@@ -17,7 +17,7 @@ tags:
   - topic/network-and-system-administration
   - topic/artificial-intelligence
   - topic/devops
-course_count: 22
+course_count: 23
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Quantum Computing
 
-> **Type:** Concept | **Courses:** 22 | **Topics:** [[Cybersecurity]], [[Cloud Computing]], [[Network and System Administration]], [[Artificial Intelligence (AI)]], [[DevOps]]
+> **Type:** Concept | **Courses:** 23 | **Topics:** [[Cybersecurity]], [[Cloud Computing]], [[Network and System Administration]], [[Artificial Intelligence (AI)]], [[DevOps]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Generative AI and Predictive AI in the Cloud- Foundational Concepts and Scenarios]] — 3 mentions
 10. [[Starting Your Career As A Financial Analyst]] — 3 mentions
 
-> [!note]- See all 22 courses
+> [!note]- See all 23 courses
 > 11. [[A Beginner's Guide to Public Cloud Options]] — 2 mentions
 > 12. [[Node Js Security]] — 2 mentions
 > 13. [[Demystifying Advanced and Complex Security Topics]] — 1 mentions
@@ -50,9 +50,10 @@ created: 2026-05-02
 > 17. [[Cloud Computing Careers and Certifications]] — 1 mentions
 > 18. [[From Tool to Teammates- Working Smarter with AI]] — 1 mentions
 > 19. [[Static Application Security Testing]] — 1 mentions
-> 20. [[Digital Strategy]] — 1 mentions
-> 21. [[DevOps Foundations- Infrastructure as Code]] — 1 mentions
-> 22. [[OpenAI API- Image Generation with DALL-E]] — 1 mentions
+> 20. [[Practical Cybersecurity for IT Professionals]] — 1 mentions
+> 21. [[Digital Strategy]] — 1 mentions
+> 22. [[DevOps Foundations- Infrastructure as Code]] — 1 mentions
+> 23. [[OpenAI API- Image Generation with DALL-E]] — 1 mentions
 
 ## Learning Paths
 
@@ -62,7 +63,7 @@ created: 2026-05-02
 4. [[Generative AI for Supply Chain Professional Certificate by CSCMP]] — 4 total mentions
 5. [[Advance Your Skills as a Supply Chain Manager]] — 4 total mentions
 6. [[Navigating the Cybersecurity Threat Landscape]] — 4 total mentions
-7. [[The IT Professional's Path to Cybersecurity]] — 3 total mentions
+7. [[The IT Professional's Path to Cybersecurity]] — 4 total mentions
 8. [[Applying Generative AI as a Creative Professional]] — 3 total mentions
 9. [[Understanding AI for Creative Professionals]] — 3 total mentions
 10. [[MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security]] — 3 total mentions

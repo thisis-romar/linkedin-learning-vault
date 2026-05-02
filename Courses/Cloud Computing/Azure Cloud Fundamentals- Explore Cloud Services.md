@@ -100,36 +100,34 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/introduction?u=76281980&t=0)** - [Stuti] With the majority of organizations moving into the world of digital transformation, the demand for cloud engineers is increasing.
+> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/introduction?u=76281980&t=0)** - [Stuti] With the majority of organizations moving into the world of [[Digital Transformation]], the demand for cloud engineers is increasing.
 >
-> **[0:09](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/introduction?u=76281980&t=9)** Internet is a sea of knowledge, but a significant amount of research is necessary to begin learning about Azure fundamentals.
+> **[0:09](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/introduction?u=76281980&t=9)** Internet is a sea of knowledge, but a significant amount of research is necessary to begin learning about [[Microsoft Azure|Azure]] fundamentals.
 >
 > **[0:19](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/introduction?u=76281980&t=19)** Well, your search ends right here.
 >
-> **[0:21](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/introduction?u=76281980&t=21)** This course provides foundational level knowledge on cloud concepts and core Azure services, including Azure Monitor, Microsoft Defender for Cloud, and cost management to name some.
+> **[0:21](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/introduction?u=76281980&t=21)** This course provides foundational level knowledge on cloud concepts and core Azure services, including Azure Monitor, [[Microsoft Defender]] for Cloud, and [[Cost Management]] to name some.
 >
-> **[0:35](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/introduction?u=76281980&t=35)** Join me, Stuti Kaushal Malviya, on my LinkedIn Learning course, Azure Cloud Fundamentals: Explore Cloud Services, where we will explore the foundational concepts of all the Azure services in one place.
+> **[0:35](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/introduction?u=76281980&t=35)** Join me, Stuti Kaushal Malviya, on my [[LinkedIn]] Learning course, Azure Cloud Fundamentals: Explore [[Cloud Services]], where we will explore the foundational concepts of all the Azure services in one place.
 >
 > **[0:50](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/introduction?u=76281980&t=50)** Let's take your Azure knowledge and make it fit for the industry demand.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), cloud (5), [[Digital Transformation]] (1), [[Search]] (1), [[Microsoft Defender]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Digital Transformation]] (1), [[Microsoft Defender]] (1), [[Cost Management]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [stuti] (1)
 
-#### What is cloud computing?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-cloud-computing?u=76281980)
+#### [What is cloud computing?](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-cloud-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-cloud-computing?u=76281980&t=0)** - [Instructor] "Introduction to Cloud Computing".
+> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-cloud-computing?u=76281980&t=0)** - [Instructor] "Introduction to [[Cloud Computing]]".
 >
 > **[0:03](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-cloud-computing?u=76281980&t=3)** Cloud computing is one of the buzzwords being used extensively these days, but many people still find it difficult to answer the question, "What cloud computing exactly is?"
 >
@@ -137,15 +135,15 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-cloud-computing?u=76281980&t=40)** In simpler terms, you can rent out someone else's infrastructure to host your resources rather than provisioning your own data center.
 >
-> **[0:50](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-cloud-computing?u=76281980&t=50)** This course is aimed to jumpstart your career with one such cloud provider that is Microsoft Azure.
+> **[0:50](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-cloud-computing?u=76281980&t=50)** This course is aimed to jumpstart your career with one such cloud provider that is [[Microsoft Azure]].
 >
-> **[0:57](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-cloud-computing?u=76281980&t=57)** This course provides foundational level knowledge on cloud concepts, core Azure services, security, privacy, compliance, and trust, and Azure pricing and support.
+> **[0:57](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-cloud-computing?u=76281980&t=57)** This course provides foundational level knowledge on cloud concepts, core [[Microsoft Azure|Azure]] services, security, [[Privacy]], compliance, and trust, and Azure pricing and support.
 >
 > **[1:11](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-cloud-computing?u=76281980&t=71)** This course is best suited for audience keen to learn more about cloud computing.
 >
 > **[1:18](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-cloud-computing?u=76281980&t=78)** The content of this course aligns to AZ-900 exam objectives.
 >
-> **[1:24](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-cloud-computing?u=76281980&t=84)** Along the course, we will look into many examples where organizations from different industries are making use of Azure globally for provisioning their infrastructure, such as virtual machines, virtual machine skillset sets, building their applications, hosting databases, configuring networking services, and ensuring that every resource is safe and secure in the cloud.
+> **[1:24](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-cloud-computing?u=76281980&t=84)** Along the course, we will look into many examples where organizations from different industries are making use of Azure globally for provisioning their infrastructure, such as [[Virtual Machines]], virtual machine skillset sets, building their applications, hosting [[Databases]], configuring networking services, and ensuring that every resource is safe and secure in the cloud.
 >
 > **[1:51](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-cloud-computing?u=76281980&t=111)** There are no prerequisites for the course, but students with an IT background will find the concepts easier to understand.
 >
@@ -165,36 +163,35 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (14), [[Microsoft Azure|Azure]] (4), data (2), [[Security]] (2), database (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (8), [[Microsoft Azure|Azure]] (4), [[Microsoft Azure]] (1), [[Privacy]] (1), [[Virtual Machines]] (1)
 > **Definitions:** known as (2), is an  (1), is a  (1)
 > **CLI Commands:** find (2), az (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### What is Azure?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-azure?u=76281980)
+#### [What is Azure?](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-azure?u=76281980&t=0)** - [Instructor] Choosing the right cloud vendor is a very important decision for anyone planning to take their business into the cloud.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-azure?u=76281980&t=8)** Numerous enterprises have witnessed accelerated business growth by choosing Azure as their cloud platform.
+> **[0:08](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-azure?u=76281980&t=8)** Numerous enterprises have witnessed accelerated business growth by choosing [[Microsoft Azure|Azure]] as their cloud platform.
 >
 > **[0:17](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-azure?u=76281980&t=17)** Let us look a brief into what Azure exactly is.
 >
-> **[0:21](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-azure?u=76281980&t=21)** The Azure Cloud platform has more than 200 products and cloud services that are designed to help you bring new solutions to life, solve today's challenges, and create the future.
+> **[0:21](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-azure?u=76281980&t=21)** The Azure Cloud platform has more than 200 [[Microsoft Products|products]] and [[Cloud Services]] that are designed to help you bring new solutions to life, solve today's challenges, and create the future.
 >
 > **[0:36](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-azure?u=76281980&t=36)** Azure gives you flexibility to build, run, and manage applications across multiple clouds, on premises, and at the edge.
 >
 > **[0:47](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-azure?u=76281980&t=47)** In short, you can simply integrate and manage your environments with Azure services that are designed for running in a hybrid environment.
 >
-> **[0:59](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-azure?u=76281980&t=59)** Microsoft offers industry-leading comprehensive compliance coverage, which helps in proactively safeguarding your data and streamlining compliance with the most comprehensive compliance coverage of any cloud service provider.
+> **[0:59](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-azure?u=76281980&t=59)** [[Microsoft]] offers industry-leading comprehensive compliance coverage, which helps in proactively safeguarding your data and streamlining compliance with the most comprehensive compliance coverage of any cloud service provider.
 >
 > **[1:17](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-azure?u=76281980&t=77)** 95% of Fortune 500 companies trust their business on Azure because of Microsoft's strong standing legacy.
 >
 > **[1:26](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-azure?u=76281980&t=86)** Furthermore, Azure brings together everything you need to build your solution from scratch.
 >
-> **[1:34](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-azure?u=76281980&t=94)** From DevOps to business analytics and the Internet of Things, there are many other services running with cost-effective solutions that work well with multiple industries, be it healthcare, financial services, government, retail, or manufacturing, to name some.
+> **[1:34](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-azure?u=76281980&t=94)** From [[DevOps]] to [[Business Analytics]] and the [[IoT|Internet of Things]], there are many other services running with cost-effective solutions that work well with multiple industries, be it healthcare, financial services, government, retail, or manufacturing, to name some.
 >
 > **[1:55](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/what-is-azure?u=76281980&t=115)** There are many companies that are doing great with Azure.
 >
@@ -206,7 +203,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), cloud (6), business (4), [[Microsoft]] (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Microsoft]] (2), [[Microsoft Products|Products]] (1), [[Cloud Services]] (1), [[DevOps]] (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -216,20 +213,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud benefits and considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980)
+#### [Cloud benefits and considerations](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=0)** - [Narrator] Different types of cloud deployment models.
 >
-> **[0:03](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=3)** Now that we are familiar with Azure and its history, let's learn about types of cloud deployment models.
+> **[0:03](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=3)** Now that we are familiar with [[Microsoft Azure|Azure]] and its history, let's learn about types of cloud deployment models.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=12)** It is important to note that not all clouds are same.
 >
-> **[0:16](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=16)** Further, there are several cloud computing models that have evolved over time to meet the rapidly changing needs of the industry.
+> **[0:16](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=16)** Further, there are several [[Cloud Computing]] models that have evolved over time to meet the rapidly changing needs of the industry.
 >
-> **[0:26](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=26)** Let us learn about three different types of cloud deployment models that are commonly used in the industry: public cloud, private cloud, and hybrid cloud.
+> **[0:26](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=26)** Let us learn about three different types of cloud deployment models that are commonly used in the industry: public cloud, private cloud, and [[Hybrid Cloud]].
 >
 > **[0:37](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=37)** Now that we are aware about the different types of deployment models, let us learn about each one of them.
 >
@@ -237,19 +233,19 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=49)** Public cloud is one of the most common types of cloud deployment model that is owned and operated by a third party cloud service provider.
 >
-> **[0:59](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=59)** Microsoft Azure is the second largest public cloud provider in the industry.
+> **[0:59](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=59)** [[Microsoft Azure]] is the second largest public cloud provider in the industry.
 >
-> **[1:05](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=65)** You can access the cloud services and manage your account using a web browser.
+> **[1:05](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=65)** You can access the [[Cloud Services]] and manage your account using a web browser.
 >
 > **[1:11](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=71)** Azure provides your web portal where you can just log in and use all the public services.
 >
-> **[1:17](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=77)** Some of the major advantages of using public cloud include: lower operational cost, lesser maintenance overhead, high reliability, and nearly unlimited scalability.
+> **[1:17](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=77)** Some of the major advantages of using public cloud include: lower operational cost, lesser maintenance overhead, high reliability, and nearly unlimited [[Scalability]].
 >
 > **[1:31](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=91)** Next in line comes the private cloud.
 >
 > **[1:34](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=94)** Private cloud, popularly known as internal or corporate cloud, is used to host resources that are used exclusively by a single business or an organization.
 >
-> **[1:47](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=107)** With private cloud, users get additional control, security, and privacy as people outside your organization would not be able to access resources hosted in private cloud.
+> **[1:47](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=107)** With private cloud, users get additional control, security, and [[Privacy]] as people outside your organization would not be able to access resources hosted in private cloud.
 >
 > **[2:02](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=122)** One of the major drawbacks of private cloud is that private cloud requires almost similar staffing, management and maintenance expenses as incurred with traditional data centers because the company's IT department is responsible for managing the cloud.
 >
@@ -261,33 +257,32 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=164)** When computing and processing demands fluctuate, hybrid cloud computing model gives businesses the flexibility to use new cloud first technologies for their new workloads while still keeping their business critical applications and data on premise.
 >
-> **[3:02](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=182)** Hybrid cloud model is best suited for industries such as banking, finance, healthcare, et cetera, that deal with highly sensitive data and need the data to be kept on premises while still wanting to leverage the advantages of cloud.
+> **[3:02](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=182)** Hybrid cloud model is best suited for industries such as [[Banking]], finance, healthcare, et cetera, that deal with highly sensitive data and need the data to be kept on premises while still wanting to leverage the advantages of cloud.
 >
 > **[3:21](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=201)** Let's analyze all of the cloud deployment models in a class.
 >
-> **[3:25](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=205)** There are several factors that come into picture while choosing a cloud deployment model: Initial setup, scalability, cost optimization, reliability, data security, and privacy are some of the major factors that you have to consider while choosing a cloud deployment model for your organization.
+> **[3:25](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=205)** There are several factors that come into picture while choosing a cloud deployment model: Initial setup, scalability, cost optimization, reliability, [[Data Security]], and privacy are some of the major factors that you have to consider while choosing a cloud deployment model for your organization.
 >
 > **[3:47](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-benefits-and-considerations?u=76281980&t=227)** It is important to understand that there is no one type of cloud which fits everyone's requirements. Choice of cloud computing model depends on your business needs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (32), data (7), [[Hybrid Cloud]] (5), business (3), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Hybrid Cloud]] (5), [[Microsoft Azure|Azure]] (2), [[Cloud Computing]] (2), [[Scalability]] (2), [[Privacy]] (2)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** picture (1)
 > **Warnings:** note that (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [narrator] (1)
 
-#### Discuss different types of cloud models
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/discuss-different-types-of-cloud-models?u=76281980)
+#### [Discuss different types of cloud models](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/discuss-different-types-of-cloud-models?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/discuss-different-types-of-cloud-models?u=76281980&t=0)** - [Instructor] Cloud benefits and considerations.
 >
-> **[0:03](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/discuss-different-types-of-cloud-models?u=76281980&t=3)** Cloud computing is a big shift from the traditional way of businesses being run.
+> **[0:03](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/discuss-different-types-of-cloud-models?u=76281980&t=3)** [[Cloud Computing]] is a big shift from the traditional way of businesses being run.
 >
-> **[0:09](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/discuss-different-types-of-cloud-models?u=76281980&t=9)** Organizations have changed their outlook towards the business after introduction of cloud.
+> **[0:09](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/discuss-different-types-of-cloud-models?u=76281980&t=9)** Organizations have changed their [[Microsoft Outlook|outlook]] towards the business after introduction of cloud.
 >
 > **[0:16](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/discuss-different-types-of-cloud-models?u=76281980&t=16)** Traditionally, organizations had to pay upfront cost for all the infrastructure that they used to purchase.
 >
@@ -307,7 +302,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/discuss-different-types-of-cloud-models?u=76281980&t=69)** Most cloud computing services are provided as self-service.
 >
-> **[1:14](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/discuss-different-types-of-cloud-models?u=76281980&t=74)** Even vast amount of computing resources can be provisioned in minutes, typically, with just a few mouse clicks, giving businesses a lot of flexibility and taking the pressure of capacity planning.
+> **[1:14](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/discuss-different-types-of-cloud-models?u=76281980&t=74)** Even vast amount of computing resources can be provisioned in minutes, typically, with just a few mouse clicks, giving businesses a lot of flexibility and taking the pressure of [[Capacity Planning]].
 >
 > **[1:30](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/discuss-different-types-of-cloud-models?u=76281980&t=90)** Agility.
 >
@@ -315,11 +310,11 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/discuss-different-types-of-cloud-models?u=76281980&t=104)** Cost.
 >
-> **[1:45](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/discuss-different-types-of-cloud-models?u=76281980&t=105)** Cloud computing eliminates the capital expense of buying hardware and software, as well as setting up and running onsite data center resources, including server racks, ensuring round the clock electricity for power and cooling, and the IT experts for managing the infrastructure.
+> **[1:45](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/discuss-different-types-of-cloud-models?u=76281980&t=105)** Cloud computing eliminates the capital expense of buying [[Hardware]] and software, as well as setting up and running onsite data center resources, including server racks, ensuring round the clock electricity for power and cooling, and the IT experts for managing the infrastructure.
 >
 > **[2:07](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/discuss-different-types-of-cloud-models?u=76281980&t=127)** High availability.
 >
-> **[2:09](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/discuss-different-types-of-cloud-models?u=76281980&t=129)** Depending on the service level agreement that you choose, your cloud-based applications can provide a continuous user experience with no apparent downtime, even when things go wrong.
+> **[2:09](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/discuss-different-types-of-cloud-models?u=76281980&t=129)** Depending on the service level agreement that you choose, your cloud-based applications can provide a continuous [[User Experience (UX)|user experience]] with no apparent downtime, even when things go wrong.
 >
 > **[2:23](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/discuss-different-types-of-cloud-models?u=76281980&t=143)** Global scale.
 >
@@ -331,7 +326,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/discuss-different-types-of-cloud-models?u=76281980&t=170)** You can configure cloud-based apps to take advantage of auto-scaling, so your apps always have the resources they need.
 >
-> **[2:59](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/discuss-different-types-of-cloud-models?u=76281980&t=179)** Azure Services run on a worldwide network of secure data centers, which are regularly upgraded to latest generation of fast and efficient computing hardware.
+> **[2:59](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/discuss-different-types-of-cloud-models?u=76281980&t=179)** [[Microsoft Azure|Azure]] Services run on a worldwide network of secure data centers, which are regularly upgraded to latest generation of fast and efficient computing hardware.
 >
 > **[3:11](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/discuss-different-types-of-cloud-models?u=76281980&t=191)** This offers several benefits, including reduced network latency for applications and greater economies of scale.
 >
@@ -345,31 +340,30 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), data (5), [[Hardware]] (2), power (2), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Cloud Computing]] (4), [[Hardware]] (2), [[Microsoft Azure|Azure]] (2), [[Microsoft Outlook|Outlook]] (1), [[Capacity Planning]] (1)
 > **Definitions:** known as (2), is a  (1)
 > **Prerequisites:** configure (2)
 > **Speakers:** - [instructor] (1)
 
-#### Types of cloud services
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980)
+#### [Types of cloud services](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=0)** - [Instructor] Types of cloud service models.
 >
-> **[0:03](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=3)** Most cloud computing services fall under four broad categories, namely infrastructure as a service, platform as a service, software as a service, and serverless computing.
+> **[0:03](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=3)** Most [[Cloud Computing]] services fall under four broad categories, namely [[IaaS|infrastructure as a service]], [[PaaS|platform as a service]], [[SaaS|software as a service]], and [[Serverless Computing]].
 >
 > **[0:18](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=18)** Let's learn in depth about each of these services one by one, starting with infrastructure as a service.
 >
 > **[0:25](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=25)** This is the most basic category of cloud computing service, which is closest to managing the physical servers.
 >
-> **[0:32](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=32)** Cloud service provider will take care of the hardware updates, but OS maintenance and network configuration needs to be taken care of by the business running in the cloud.
+> **[0:32](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=32)** Cloud service provider will take care of the [[Hardware]] updates, but OS maintenance and network configuration needs to be taken care of by the business running in the cloud.
 >
 > **[0:46](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=46)** Infrastructure as a service offers essential compute, storage and network services on demand.
 >
-> **[0:54](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=54)** Let's learn more about Azure IaaS offerings.
+> **[0:54](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=54)** Let's learn more about [[Microsoft Azure|Azure]] [[IaaS]] offerings.
 >
-> **[0:59](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=59)** This page displays a list of comprehensive services offered under Azure IaaS category, including virtual machines, virtual machine scale sets, dedicated hosts, load balancer, networking, Network Watcher, Azure storage, and managed disks to name some.
+> **[0:59](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=59)** This page displays a list of comprehensive services offered under Azure IaaS category, including [[Virtual Machines]], virtual machine scale sets, dedicated hosts, load balancer, networking, Network Watcher, Azure storage, and managed disks to name some.
 >
 > **[1:21](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=81)** You can see a list of all the compute services that are offered under IaaS on this page.
 >
@@ -377,13 +371,13 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=92)** Platform as a service supplies an on demand environment for developing, testing, delivering, and managing software applications.
 >
-> **[1:42](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=102)** PaaS is designed to enable developers to quickly create web or mobile applications without worrying about setting up or managing the underlying infrastructure of servers, storage, network, and databases.
+> **[1:42](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=102)** [[PaaS]] is designed to enable developers to quickly create web or mobile applications without worrying about setting up or managing the underlying infrastructure of servers, storage, network, and [[Databases]].
 >
-> **[1:59](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=119)** Azure PaaS services include app services, load testing, app configuration, deployment environments, Azure AD cognitive services, machine learning, et cetera.
+> **[1:59](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=119)** Azure PaaS services include app services, [[Load Testing]], app configuration, deployment environments, [[Microsoft Entra ID|Azure AD]] cognitive services, machine learning, et cetera.
 >
 > **[2:13](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=133)** Let us look at all the broad offerings of Azure PaaS.
 >
-> **[2:17](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=137)** This page shows a list of all the PaaS services being offered by Azure, ranging from AIML, analytics, compute, database, development, identity and security, IOT, management governance, migration, network, and storage.
+> **[2:17](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=137)** This page shows a list of all the PaaS services being offered by Azure, ranging from AIML, analytics, compute, database, development, identity and security, [[IoT]], management governance, migration, network, and storage.
 >
 > **[2:39](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=159)** So you can see a list of all the services that are highlighted in different colors over here.
 >
@@ -391,19 +385,19 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=168)** Software as a service is a method for delivering software applications over the internet on demand, and typically on a subscription basis.
 >
-> **[2:58](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=178)** With SaaS, cloud providers host and manage the software applications and its underlying infrastructure.
+> **[2:58](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=178)** With [[SaaS]], cloud providers host and manage the software applications and its underlying infrastructure.
 >
 > **[3:07](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=187)** They can also handle any maintenance, like software upgrades and security patching.
 >
 > **[3:14](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=194)** Users connect to application over internet, usually with the web browser on phone, tablet, or PC.
 >
-> **[3:22](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=202)** For example, Microsoft Office 365 provides a fully working version of Microsoft Office that runs in the cloud.
+> **[3:22](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=202)** For example, [[Microsoft Office]] 365 provides a fully working version of Microsoft Office that runs in the cloud.
 >
 > **[3:33](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=213)** Azure portal in itself can be seen as a great example of Azure SaaS offering.
 >
 > **[3:39](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=219)** Let us learn more about all the SaaS offerings being provided by Azure at this point.
 >
-> **[3:46](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=226)** This page displays the comprehensive list of all the Azure services that are present currently, including data catalog, Power BI, Azure DevOps, Visual Studio, Defender for Cloud, Microsoft Sentinel, Azure Migrate and site recovery to name some of the major SaaS offerings by Azure.
+> **[3:46](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=226)** This page displays the comprehensive list of all the Azure services that are present currently, including data catalog, [[Microsoft Power BI|Power BI]], Azure [[DevOps]], Visual Studio, [[Microsoft Defender|Defender]] for Cloud, [[Microsoft]] Sentinel, Azure Migrate and site recovery to name some of the major SaaS offerings by Azure.
 >
 > **[4:11](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=251)** Overlapping with PaaS, serverless computing focuses on building app functionality without spending time continually managing the server and infrastructure.
 >
@@ -413,19 +407,19 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=278)** This approach enables developers to increase their focus on business logic and deliver more value to the core of the business.
 >
-> **[4:48](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=288)** Serverless computing help teams increase their productivity and bring products to market faster.
+> **[4:48](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=288)** Serverless computing help teams increase their productivity and bring [[Microsoft Products|products]] to market faster.
 >
-> **[4:56](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=296)** Azure Functions, serverless, containerized microservices like Azure Container App, serverless Kubernetes are some of the examples of serverless compute services that are being offered by Azure.
+> **[4:56](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=296)** Azure Functions, serverless, containerized [[Microservices]] like Azure Container App, serverless [[Kubernetes]] are some of the examples of serverless compute services that are being offered by Azure.
 >
 > **[5:12](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=312)** Once you have decided to move towards cloud, your next step is to select a cloud provider.
 >
 > **[5:19](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=319)** It is vital to assess the reliability and capability of a service provider.
 >
-> **[5:25](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=325)** Undoubtedly, Microsoft Azure is one of the leading global providers of cloud computing services that is preferred by most of the Fortune 500 companies to run their businesses.
+> **[5:25](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/types-of-cloud-services?u=76281980&t=325)** Undoubtedly, [[Microsoft Azure]] is one of the leading global providers of cloud computing services that is preferred by most of the Fortune 500 companies to run their businesses.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), cloud (12), [[PaaS]] (5), [[SaaS]] (4), [[IaaS|Infrastructure as a service]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), [[PaaS]] (5), [[SaaS]] (4), [[Cloud Computing]] (3), [[IaaS|Infrastructure as a service]] (3)
 > **Env Vars:** aiml (1), iot (1)
 > **Tools:** azure portal (1), visual studio (1)
 > **Definitions:** is a  (1)
@@ -433,34 +427,33 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Shared responsibility model
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/shared-responsibility-model?u=76281980)
+#### [Shared responsibility model](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/shared-responsibility-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/shared-responsibility-model?u=76281980&t=0)** - [Instructor] Shared Responsibility Model.
 >
-> **[0:03](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/shared-responsibility-model?u=76281980&t=3)** As you consider and evaluate public cloud services, it's critical to understand the shared responsibility model.
+> **[0:03](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/shared-responsibility-model?u=76281980&t=3)** As you consider and evaluate public [[Cloud Services]], it's critical to understand the shared responsibility model.
 >
 > **[0:11](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/shared-responsibility-model?u=76281980&t=11)** You must also know the list of security tasks that are handled by the cloud provider and the tasks that are handled by you.
 >
-> **[0:20](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/shared-responsibility-model?u=76281980&t=20)** The workload responsibilities vary depending on whether the workload is hosted on infrastructure as a service, platform as a service model, software as a service model, or in an on-premises data center.
+> **[0:20](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/shared-responsibility-model?u=76281980&t=20)** The workload responsibilities vary depending on whether the workload is hosted on [[IaaS|infrastructure as a service]], [[PaaS|platform as a service]] model, [[SaaS|software as a service]] model, or in an on-premises data center.
 >
 > **[0:36](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/shared-responsibility-model?u=76281980&t=36)** Following diagram illustrates the areas of responsibilities between you and your cloud service provider.
 >
-> **[0:43](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/shared-responsibility-model?u=76281980&t=43)** Here it is Microsoft.
+> **[0:43](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/shared-responsibility-model?u=76281980&t=43)** Here it is [[Microsoft]].
 >
-> **[0:46](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/shared-responsibility-model?u=76281980&t=46)** In an on-premises environment, the customer is responsible for managing end-to-end security, including physical security, host infrastructure, network controls, application level controls, identity and access management, and data classification accountability.
+> **[0:46](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/shared-responsibility-model?u=76281980&t=46)** In an on-premises environment, the customer is responsible for managing end-to-end security, including physical security, host infrastructure, network controls, application level controls, identity and access management, and [[Data Classification]] [[Accountability]].
 >
 > **[1:07](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/shared-responsibility-model?u=76281980&t=67)** As we move from infrastructure as a service to software as a service, the responsibilities get distributed amongst the cloud service provider and the customer.
 >
-> **[1:19](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/shared-responsibility-model?u=76281980&t=79)** Physical security is one of the responsibilities that is totally owned by the cloud service provider when you're using the cloud computing.
+> **[1:19](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/shared-responsibility-model?u=76281980&t=79)** Physical security is one of the responsibilities that is totally owned by the cloud service provider when you're using the [[Cloud Computing]].
 >
 > **[1:29](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/shared-responsibility-model?u=76281980&t=89)** The remaining responsibilities are shared between the customers and cloud service providers.
 >
 > **[1:36](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/shared-responsibility-model?u=76281980&t=96)** These responsibilities contribute to achieving a compliant and secure computing environment.
 >
-> **[1:44](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/shared-responsibility-model?u=76281980&t=104)** As we move from on-premises to SaaS, cloud providers' accountability towards different services keeps on increasing.
+> **[1:44](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/shared-responsibility-model?u=76281980&t=104)** As we move from on-premises to [[SaaS]], cloud providers' accountability towards different services keeps on increasing.
 >
 > **[1:53](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/shared-responsibility-model?u=76281980&t=113)** Nonetheless, ensuring that the data and its classification is done correctly and that the solution will be compliant with regulatory obligations is the responsibility of customer.
 >
@@ -474,7 +467,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), [[Security]] (5), data (4), [[IaaS|Infrastructure as a service]] (2), [[SaaS|Software as a service]] (2)
+> **Frameworks & Libraries:** [[IaaS|Infrastructure as a service]] (2), [[SaaS|Software as a service]] (2), [[Accountability]] (2), [[Cloud Services]] (1), [[PaaS|Platform as a service]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -482,14 +475,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Azure architectural components
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-architectural-components?u=76281980)
+#### [Azure architectural components](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-architectural-components?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-architectural-components?u=76281980&t=0)** - [Instructor] Microsoft Azure relies on a few key architectural components to provide redundancy and high availability.
+> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-architectural-components?u=76281980&t=0)** - [Instructor] [[Microsoft Azure]] relies on a few key architectural components to provide redundancy and high availability.
 >
-> **[0:09](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-architectural-components?u=76281980&t=9)** These core Azure architectural components include Azure management groups and subscriptions, Azure Resource Groups, resources, and Azure Resource Manager, Azure regions, geographies, region pairs, and availability zones.
+> **[0:09](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-architectural-components?u=76281980&t=9)** These core [[Microsoft Azure|Azure]] architectural components include Azure management groups and subscriptions, Azure Resource Groups, resources, and Azure Resource Manager, Azure regions, geographies, region pairs, and availability zones.
 >
 > **[0:28](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-architectural-components?u=76281980&t=28)** Azure organizes the structural hierarchy of its resources in four levels, namely management groups, subscriptions, resource groups, and resources.
 >
@@ -497,7 +489,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-architectural-components?u=76281980&t=46)** You need a subscription to use an Azure account.
 >
-> **[0:50](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-architectural-components?u=76281980&t=50)** A subscription provides you with authenticated and authorized access to Azure products and services.
+> **[0:50](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-architectural-components?u=76281980&t=50)** A subscription provides you with authenticated and authorized access to Azure [[Microsoft Products|products]] and services.
 >
 > **[0:57](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-architectural-components?u=76281980&t=57)** It also allows you to provision resources.
 >
@@ -525,7 +517,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-architectural-components?u=76281980&t=142)** Next, let us discuss about resource groups.
 >
-> **[2:26](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-architectural-components?u=76281980&t=146)** Resource groups act as a logical container for deploying different Azure services like web apps, databases, storage accounts, et cetera.
+> **[2:26](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-architectural-components?u=76281980&t=146)** Resource groups act as a logical container for deploying different Azure services like web apps, [[Databases]], storage accounts, et cetera.
 >
 > **[2:37](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-architectural-components?u=76281980&t=157)** Resources can exist in only one resource group at a time, and the resources are combined into resource groups.
 >
@@ -533,7 +525,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-architectural-components?u=76281980&t=175)** Next, let us discuss about resources.
 >
-> **[2:58](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-architectural-components?u=76281980&t=178)** Azure resources are components like storage, virtual machines, network, and storage account, et cetera, that are available to build cloud solutions.
+> **[2:58](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-architectural-components?u=76281980&t=178)** Azure resources are components like storage, [[Virtual Machines]], network, and storage account, et cetera, that are available to build cloud solutions.
 >
 > **[3:10](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-architectural-components?u=76281980&t=190)** Resources can exist in only one resource group at a time.
 >
@@ -607,7 +599,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (32), data (14), management (9), cloud (4), next (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (32), [[Microsoft Azure]] (1), [[Microsoft Products|Products]] (1), [[Databases]] (1), [[Virtual Machines]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Tools:** azure portal (1)
@@ -615,22 +607,21 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Walk-through of Azure portal and core Azure workloads
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/walkthrough-of-azure-portal-and-core-azure-workloads?u=76281980)
+#### [Walk-through of Azure portal and core Azure workloads](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/walkthrough-of-azure-portal-and-core-azure-workloads?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/walkthrough-of-azure-portal-and-core-azure-workloads?u=76281980&t=0)** - [Instructor] Cloud computing is one of the top sought after skills that most companies are looking for these days.
+> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/walkthrough-of-azure-portal-and-core-azure-workloads?u=76281980&t=0)** - [Instructor] [[Cloud Computing]] is one of the top sought after skills that most companies are looking for these days.
 >
-> **[0:07](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/walkthrough-of-azure-portal-and-core-azure-workloads?u=76281980&t=7)** Whether you are a security enthusiast, a data analyst, a developer, a small business, or a large IT enterprise, Azure is for everyone.
+> **[0:07](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/walkthrough-of-azure-portal-and-core-azure-workloads?u=76281980&t=7)** Whether you are a security enthusiast, a data analyst, a developer, a small business, or a large IT enterprise, [[Microsoft Azure|Azure]] is for everyone.
 >
-> **[0:18](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/walkthrough-of-azure-portal-and-core-azure-workloads?u=76281980&t=18)** Microsoft Azure lets you create future-ready innovations across all your environments by offering some of the latest cutting edge technologies.
+> **[0:18](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/walkthrough-of-azure-portal-and-core-azure-workloads?u=76281980&t=18)** [[Microsoft Azure]] lets you create future-ready innovations across all your environments by offering some of the latest cutting edge technologies.
 >
 > **[0:29](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/walkthrough-of-azure-portal-and-core-azure-workloads?u=76281980&t=29)** You can use this link to access Azure Portal to create and manage Azure resources.
 >
 > **[0:36](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/walkthrough-of-azure-portal-and-core-azure-workloads?u=76281980&t=36)** Let's jump into the Azure portal now.
 >
-> **[0:40](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/walkthrough-of-azure-portal-and-core-azure-workloads?u=76281980&t=40)** You can either use a guided approach to create your resources, or use Command Line and PowerShell in Azure if you are a scripting enthusiast like me.
+> **[0:40](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/walkthrough-of-azure-portal-and-core-azure-workloads?u=76281980&t=40)** You can either use a guided approach to create your resources, or use Command Line and [[Powershell]] in Azure if you are a scripting enthusiast like me.
 >
 > **[0:53](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/walkthrough-of-azure-portal-and-core-azure-workloads?u=76281980&t=53)** The top right hand corner displays the name of your subscription which you are using.
 >
@@ -640,7 +631,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/walkthrough-of-azure-portal-and-core-azure-workloads?u=76281980&t=74)** Here, you can see virtual machine resource group that has been created recently.
 >
-> **[1:21](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/walkthrough-of-azure-portal-and-core-azure-workloads?u=76281980&t=81)** Click on the Home button to navigate back to the homepage where you can see most important and widely used tools, including Microsoft Learn, Azure Monitor, Microsoft Defender for Cloud, and Cost Management.
+> **[1:21](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/walkthrough-of-azure-portal-and-core-azure-workloads?u=76281980&t=81)** Click on the Home button to navigate back to the homepage where you can see most important and widely used tools, including [[Microsoft]] Learn, Azure Monitor, [[Microsoft Defender]] for Cloud, and [[Cost Management]].
 >
 > **[1:37](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/walkthrough-of-azure-portal-and-core-azure-workloads?u=76281980&t=97)** Under the Useful links section, you see this Quickstart Center hyperlink.
 >
@@ -660,7 +651,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/walkthrough-of-azure-portal-and-core-azure-workloads?u=76281980&t=152)** Here, you can visualize your spending, set budgets, and allocate costs as per your business needs.
 >
-> **[2:42](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/walkthrough-of-azure-portal-and-core-azure-workloads?u=76281980&t=162)** You can also leverage features offered by Azure Advisor, which analyzes your telemetry and suggests best practices based on your cost, security, reliability, operational excellence, and performance.
+> **[2:42](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/walkthrough-of-azure-portal-and-core-azure-workloads?u=76281980&t=162)** You can also leverage features offered by Azure Advisor, which analyzes your telemetry and suggests best practices based on your cost, security, reliability, [[Operational Excellence]], and performance.
 >
 > **[3:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/walkthrough-of-azure-portal-and-core-azure-workloads?u=76281980&t=180)** To begin with using Azure, click on the Start Free and create your free trial account with $200 credit.
 >
@@ -674,19 +665,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), cloud (3), business (3), [[Security]] (2), [[Cost Management]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), [[Cost Management]] (2), [[Cloud Computing]] (1), [[Microsoft Azure]] (1), [[Powershell]] (1)
 > **Tools:** azure portal (2), command line (1), powershell (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** find (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure compute services
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980)
+#### [Azure compute services](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=0)** - [Instructor] Azure Compute is an on-demand computing service for running cloud-based applications.
+> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] Compute is an on-demand computing service for running cloud-based applications.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=7)** It provides computing resources such as disks, processors, memory, networking, and operating systems.
 >
@@ -698,19 +688,19 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=38)** You will find compute resources under all services section.
 >
-> **[0:42](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=42)** Azure supports a wide range of computing services ranging from IaaS solutions, PaaS solutions, serverless and microservices, high performance compute, and hybrid cloud compute services.
+> **[0:42](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=42)** Azure supports a wide range of computing services ranging from [[IaaS]] solutions, [[PaaS]] solutions, serverless and [[Microservices]], high performance compute, and [[Hybrid Cloud]] compute services.
 >
 > **[0:58](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=58)** Let's look into some of the most predominantly used compute services.
 >
-> **[1:03](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=63)** To begin with, Azure virtual machines.
+> **[1:03](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=63)** To begin with, Azure [[Virtual Machines]].
 >
 > **[1:06](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=66)** The virtual machine, which is also popularly known as VM, is an on-demand scalable compute resource, which is used by customers who require more control on the computing environment.
 >
-> **[1:20](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=80)** VMs provide infrastructure as a service in form of virtualized servers and can be used in many ways.
+> **[1:20](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=80)** VMs provide [[IaaS|infrastructure as a service]] in form of virtualized servers and can be used in many ways.
 >
-> **[1:27](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=87)** An Azure VM gives you flexibility of virtualizing without having to buy and maintain the physical hardware that runs your virtual machine.
+> **[1:27](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=87)** An Azure VM gives you flexibility of virtualizing without having to buy and maintain the physical [[Hardware]] that runs your virtual machine.
 >
-> **[1:38](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=98)** VMs in Azure are available in two operating system versions, namely Windows and Linux.
+> **[1:38](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=98)** VMs in Azure are available in two operating system versions, namely [[Windows]] and [[Linux]].
 >
 > **[1:47](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=107)** You get 750 hours of B1S SKU for both Windows as well as Linux OS to get your hands dirty.
 >
@@ -734,7 +724,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=187)** Go to the management.
 >
-> **[3:08](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=188)** Here, you can enable identity, log in with Azure AD, configure auto shutdown for your virtual machine, enable backup, enable disaster recovery, and manage how the patching would be done for your virtual machine.
+> **[3:08](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=188)** Here, you can enable identity, log in with [[Microsoft Entra ID|Azure AD]], configure auto shutdown for your virtual machine, enable backup, enable disaster recovery, and manage how the patching would be done for your virtual machine.
 >
 > **[3:23](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=203)** I will be selecting manual updates.
 >
@@ -766,7 +756,7 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=303)** Functions let you execute your code in a serverless environment without having to first create a VM or publish a web application.
 >
-> **[5:13](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=313)** Azure Kubernetes service is a complete orchestration service for containers with distributed architectures and large volume of containers.
+> **[5:13](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=313)** Azure [[Kubernetes]] service is a complete orchestration service for containers with distributed architectures and large volume of containers.
 >
 > **[5:24](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=324)** AKS offers the quickest way to start developing and deploying cloud native apps in Azure.
 >
@@ -774,7 +764,7 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=343)** For AKS, Azure handles most of the critical tasks like health monitoring and maintenance.
 >
-> **[5:51](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=351)** To learn more about Azure, you can visit this free training link from Microsoft.
+> **[5:51](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=351)** To learn more about Azure, you can visit this free training link from [[Microsoft]].
 >
 > **[5:57](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-compute-services?u=76281980&t=357)** I hope you get a good overview of compute services using this video.
 >
@@ -782,7 +772,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (20), cloud (3), [[Virtual Machines]] (3), next (3), management (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (20), [[Virtual Machines]] (3), [[Microservices]] (2), [[Hardware]] (2), [[Windows]] (2)
 > **Env Vars:** aks (3), b1s (1), sku (1), rdp (1)
 > **Definitions:** is an  (2), known as (1), is a  (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -791,20 +781,19 @@ created: 2026-05-02
 > **Tools:** azure portal (1)
 > **Analogies:** such as (1)
 
-#### Azure network services
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-network-services?u=76281980)
+#### [Azure network services](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-network-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-network-services?u=76281980&t=0)** - [Instructor] Networking is a critical component of any cloud infrastructure and is responsible for either making or breaking off a cloud deployment.
+> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-network-services?u=76281980&t=0)** - [Instructor] Networking is a critical component of any [[Cloud Infrastructure]] and is responsible for either making or breaking off a cloud deployment.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-network-services?u=76281980&t=10)** IT teams need to connect resources and optimize applications, which require a robust network architectural design.
 >
-> **[0:20](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-network-services?u=76281980&t=20)** Azure uses its huge backbone network to support connectivity of resources that are hosted in cloud.
+> **[0:20](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-network-services?u=76281980&t=20)** [[Microsoft Azure|Azure]] uses its huge backbone network to support connectivity of resources that are hosted in cloud.
 >
 > **[0:28](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-network-services?u=76281980&t=28)** Let us look into all the network services that are available in Azure presently.
 >
-> **[0:35](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-network-services?u=76281980&t=35)** As you can see in the portal, services range between different categories, namely network foundation, hybrid connectivity, network security, and load balancing.
+> **[0:35](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-network-services?u=76281980&t=35)** As you can see in the portal, services range between different categories, namely network foundation, hybrid connectivity, [[Network Security]], and load balancing.
 >
 > **[0:48](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-network-services?u=76281980&t=48)** We'll learn about some of the most commonly used network services that are offered by Azure.
 >
@@ -824,15 +813,15 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-network-services?u=76281980&t=123)** Now, what exactly is Vnet peering?
 >
-> **[2:06](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-network-services?u=76281980&t=126)** Vnet peering enables you to seamlessly establish connection between two virtual networks and send traffic over the Microsoft network.
+> **[2:06](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-network-services?u=76281980&t=126)** Vnet peering enables you to seamlessly establish connection between two virtual networks and send traffic over the [[Microsoft]] network.
 >
 > **[2:17](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-network-services?u=76281980&t=137)** It is important to note that virtual networks with overlapping address spaces cannot be peered.
 >
-> **[2:25](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-network-services?u=76281980&t=145)** Some of the important features of Vnet include enhance security and isolation, which enables you to run virtual machines and applications in an isolated and highly secure manner using the private IP address.
+> **[2:25](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-network-services?u=76281980&t=145)** Some of the important features of Vnet include enhance security and isolation, which enables you to run [[Virtual Machines]] and applications in an isolated and highly secure manner using the private IP address.
 >
 > **[2:40](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-network-services?u=76281980&t=160)** We can build sophisticated networked topologies by creating advanced overlay architectures on the top of Azure resources and services.
 >
-> **[2:50](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-network-services?u=76281980&t=170)** You can use Vnets to combine platform as a service and infrastructure as a service resources and reduce network complexity.
+> **[2:50](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-network-services?u=76281980&t=170)** You can use Vnets to combine [[PaaS|platform as a service]] and [[IaaS|infrastructure as a service]] resources and reduce network complexity.
 >
 > **[3:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-network-services?u=76281980&t=180)** You can also gain flexibility to build your applications.
 >
@@ -848,7 +837,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-network-services?u=76281980&t=222)** VPN Gateways support three broad categories of connectivity requirements, namely site-to-site connectivity for connecting on-premise data centers to Vnet, point-to-site connectivity for connecting individual devices to your corporate network.
 >
-> **[4:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-network-services?u=76281980&t=240)** One of the example would be while you're working from home, you use this VPN to connect to your office network.
+> **[4:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-network-services?u=76281980&t=240)** One of the example would be while you're working from home, you use this VPN to connect to your [[Microsoft Office|office]] network.
 >
 > **[4:07](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-network-services?u=76281980&t=247)** Then connect Vnet to another Vnet through network-to-network connection, that is, peering off to Vnets.
 >
@@ -900,19 +889,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (19), traffic (12), cloud (7), vpn (6), [[Security]] (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (19), [[Cloud Infrastructure]] (1), [[Network Security]] (1), [[Microsoft]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** vpn (6), osi (2), cdn (2), udp (1), tcp (1)
 > **Definitions:** is a  (6), known as (1), is an  (1)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure storage services
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-storage-services?u=76281980)
+#### [Azure storage services](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-storage-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-storage-services?u=76281980&t=0)** - [Instructor] Azure Storage platform is one of the best in class cloud storage solutions that is made available by Microsoft for meeting the modern data storage requirements.
+> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-storage-services?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] Storage platform is one of the best in class [[Cloud Storage]] solutions that is made available by [[Microsoft]] for meeting the modern [[Data Storage]] requirements.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-storage-services?u=76281980&t=12)** It offers easily accessible, highly available, massively scalable, secure, and durable storage solutions.
 >
@@ -934,13 +922,13 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-storage-services?u=76281980&t=133)** Let us learn about each of these one by one, starting with the blob storage.
 >
-> **[2:19](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-storage-services?u=76281980&t=139)** Azure Blob Storage is Microsoft's object storage solution for cloud, which is optimized for storing massive amounts of unstructured data.
+> **[2:19](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-storage-services?u=76281980&t=139)** Azure Blob Storage is Microsoft's object storage solution for cloud, which is optimized for storing massive amounts of [[Unstructured Data]].
 >
 > **[2:30](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-storage-services?u=76281980&t=150)** Blobs mainly store large files like documents, log files, video and audio files, et cetera.
 >
 > **[2:39](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-storage-services?u=76281980&t=159)** This type of storage is an ideal option for storing data for backup and restore, and is also used in creating site recovery solutions.
 >
-> **[2:49](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-storage-services?u=76281980&t=169)** Blob storage also supports Azure Data Lake Gen2, which is Microsoft Enterprise's big data analytics solution in cloud.
+> **[2:49](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-storage-services?u=76281980&t=169)** Blob storage also supports Azure Data Lake Gen2, which is Microsoft Enterprise's [[Big Data Analytics]] solution in cloud.
 >
 > **[3:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-storage-services?u=76281980&t=180)** Now let's learn about Azure Files.
 >
@@ -948,7 +936,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-storage-services?u=76281980&t=194)** Data in Azure File shares is highly available with global redundancy.
 >
-> **[3:20](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-storage-services?u=76281980&t=200)** Azure Files can be mounted directly on Windows, Linux, and Mac OS via SMB.
+> **[3:20](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-storage-services?u=76281980&t=200)** Azure Files can be mounted directly on [[Windows]], [[Linux]], and Mac OS via SMB.
 >
 > **[3:29](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-storage-services?u=76281980&t=209)** Some of the common uses of Azure Files include lifting and shifting an application to the cloud that uses native file system APIs.
 >
@@ -970,9 +958,9 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-storage-services?u=76281980&t=277)** Next, let us look into Azure Tables.
 >
-> **[4:40](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-storage-services?u=76281980&t=280)** Azure Table service stores structured NoSQL data, providing a key or attribute store with the schema-less design.
+> **[4:40](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-storage-services?u=76281980&t=280)** Azure Table service stores structured [[NoSQL]] data, providing a key or attribute store with the schema-less design.
 >
-> **[4:51](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-storage-services?u=76281980&t=291)** Tables are used to store flexible data sets, like user data for web application, address books, device information, and other types of metadata that are required by your services.
+> **[4:51](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-storage-services?u=76281980&t=291)** Tables are used to store flexible data sets, like user data for web application, address books, device information, and other types of [[Metadata]] that are required by your services.
 >
 > **[5:06](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-storage-services?u=76281980&t=306)** Next in line comes Azure Disks.
 >
@@ -1024,7 +1012,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (31), data (24), cloud (7), [[Microsoft]] (4), next (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (31), [[Microsoft]] (4), [[Cloud Storage]] (2), [[Data Storage]] (1), [[Unstructured Data]] (1)
 > **Env Vars:** ssd (3), smb (2), hpc (1), lrs (1), grs (1)
 > **Definitions:** is an  (4), is a  (2)
 > **Analogies:** for example (2)
@@ -1033,8 +1021,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure database services
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980)
+#### [Azure database services](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1042,43 +1029,43 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=8)** Any website or webpage that you see on the internet needs a database to store the data in the backend.
 >
-> **[0:16](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=16)** For example, while placing an order on an e-commerce website, in the front end, you will see the items which you pick up.
+> **[0:16](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=16)** For example, while placing an order on an [[E-Commerce]] website, in the front end, you will see the items which you pick up.
 >
 > **[0:25](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=25)** But in the backend, there is a database that stores all this information.
 >
-> **[0:31](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=31)** With Azure, you get highly available, secure, and scalable database services, which can be automated to save you time and money.
+> **[0:31](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=31)** With [[Microsoft Azure|Azure]], you get highly available, secure, and scalable database services, which can be automated to save you time and money.
 >
-> **[0:41](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=41)** Here you can find a list of database services, including Azure SQL Database, Cosmos DB, open-source database engines, hybrid data services, and some additional data services that are made available to you by Azure.
+> **[0:41](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=41)** Here you can find a list of database services, including Azure [[SQL]] Database, Cosmos DB, open-source database engines, hybrid data services, and some additional data services that are made available to you by Azure.
 >
 > **[1:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=60)** Let's learn about some of the most prominently used database services.
 >
 > **[1:05](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=65)** SQL Database.
 >
-> **[1:07](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=67)** Azure SQL Database is an up-to-date, fully managed, serverless, always on relational database service that is mainly used to build apps that can scale with managed and intelligent SQL databases in the cloud.
+> **[1:07](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=67)** Azure SQL Database is an up-to-date, fully managed, serverless, always on relational database service that is mainly used to build apps that can scale with managed and intelligent SQL [[Databases]] in the cloud.
 >
 > **[1:25](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=85)** SQL Managed Instance.
 >
-> **[1:28](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=88)** This is the type of Azure Platform as a Service.
+> **[1:28](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=88)** This is the type of Azure [[PaaS|Platform as a Service]].
 >
-> **[1:31](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=91)** It is an intelligent cloud database service that provides the broadest SQL server database engine compatibility.
+> **[1:31](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=91)** It is an intelligent cloud database service that provides the broadest [[Microsoft SQL Server|SQL server]] database engine compatibility.
 >
 > **[1:39](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=99)** Azure SQL Managed Instance is an ideal choice of architects to plan migration from on-prem to cloud.
 >
-> **[1:48](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=108)** SQL virtual machines.
+> **[1:48](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=108)** SQL [[Virtual Machines]].
 >
-> **[1:51](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=111)** SQL server on virtual machine falls under the category of Infrastructure as a Service.
+> **[1:51](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=111)** SQL server on virtual machine falls under the category of [[IaaS|Infrastructure as a Service]].
 >
 > **[1:58](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=118)** This is the best choice for people who need full control of their database and looking to move into the cloud as fast as possible without making any big application changes.
 >
 > **[2:11](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=131)** Cosmos DB.
 >
-> **[2:13](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=133)** Azure Cosmos DB is a fully managed, No-SQL database PaaS service.
+> **[2:13](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=133)** Azure Cosmos DB is a fully managed, No-SQL database [[PaaS]] service.
 >
 > **[2:20](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=140)** This is an ideal choice for those looking for maintaining globally distributed, low latency database service that is highly available.
 >
 > **[2:30](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=150)** Azure provides 99.99% SLA, continuous backup, and enterprise grade security for its Cosmos DB Service.
 >
-> **[2:42](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=162)** Azure Database for Postgres SQL.
+> **[2:42](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=162)** Azure Database for [[PostgreSQL|Postgres]] SQL.
 >
 > **[2:45](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=165)** This is a relational database service in the cloud, which is offered in two variants, namely single server and hyperscale.
 >
@@ -1088,11 +1075,11 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=195)** Azure databases offer agility to customers as they are able to embrace innovation by not just automating today, but also continuously improving tomorrow.
 >
-> **[3:27](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=207)** So, I'd suggest leveraging the database services offered by Microsoft Azure.
+> **[3:27](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-database-services?u=76281980&t=207)** So, I'd suggest leveraging the database services offered by [[Microsoft Azure]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (19), [[Microsoft Azure|Azure]] (11), [[SQL]] (10), cloud (5), data (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[SQL]] (10), [[Databases]] (3), [[Microsoft SQL Server|Sql server]] (2), [[PostgreSQL|Postgres]] (2)
 > **Env Vars:** sql (12), sla (1)
 > **Definitions:** is a  (4), is an  (4)
 > **CLI Commands:** find (1)
@@ -1105,8 +1092,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Azure identity services
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-identity-services?u=76281980)
+#### [Azure identity services](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-identity-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1116,9 +1102,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-identity-services?u=76281980&t=11)** Accurately proving that someone is a valid user with an appropriate level of access is critical.
 >
-> **[0:19](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-identity-services?u=76281980&t=19)** Identity and access management is one of the most important topics for anyone working with Azure.
+> **[0:19](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-identity-services?u=76281980&t=19)** Identity and access management is one of the most important topics for anyone working with [[Microsoft Azure|Azure]].
 >
-> **[0:27](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-identity-services?u=76281980&t=27)** Microsoft Entra ID is the identity and access management service that has been offered by Microsoft.
+> **[0:27](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-identity-services?u=76281980&t=27)** [[Microsoft Entra ID]] is the identity and access management service that has been offered by [[Microsoft]].
 >
 > **[0:34](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-identity-services?u=76281980&t=34)** You can log into the Microsoft Entra ID Admin Center using this hyperlink.
 >
@@ -1174,7 +1160,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-identity-services?u=76281980&t=234)** This can be a mobile app that receives a notification.
 >
-> **[3:58](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-identity-services?u=76281980&t=238)** It can also be a hardware token.
+> **[3:58](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-identity-services?u=76281980&t=238)** It can also be a [[Hardware]] token.
 >
 > **[4:01](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-identity-services?u=76281980&t=241)** Something you are.
 >
@@ -1190,30 +1176,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Microsoft Entra ID]] (4), data (4), management (3), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (4), [[Microsoft Azure|Azure]] (2), [[Microsoft]] (1), [[Hardware]] (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** otp (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Entra ID
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-active-directory?u=76281980)
+#### [Microsoft Entra ID](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-active-directory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-active-directory?u=76281980&t=0)** - [Instructor] Microsoft Entra ID, formerly known as Azure AD, is Microsoft's cloud-based identity and access management service.
+> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-active-directory?u=76281980&t=0)** - [Instructor] [[Microsoft Entra ID]], formerly known as [[Microsoft Entra ID|Azure AD]], is [[Microsoft]]'s cloud-based identity and access management service.
 >
-> **[0:11](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-active-directory?u=76281980&t=11)** You get all the features under Microsoft Entra ID, which was previously available under Azure Active Directory.
+> **[0:11](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-active-directory?u=76281980&t=11)** You get all the features under Microsoft Entra ID, which was previously available under [[Microsoft Entra ID|Azure Active Directory]].
 >
 > **[0:20](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-active-directory?u=76281980&t=20)** Let's learn about some of the important features that are being offered by Microsoft Entra ID Admin Center by logging into this URL.
 >
 > **[0:29](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-active-directory?u=76281980&t=29)** Here, you get a Favorites section where you can easily bookmark the most utilized services.
 >
-> **[0:38](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-active-directory?u=76281980&t=38)** Entra ID provides single sign-on experience, simplifying access to applications from anywhere.
+> **[0:38](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-active-directory?u=76281980&t=38)** [[Microsoft Entra ID|Entra ID]] provides single sign-on experience, simplifying access to applications from anywhere.
 >
-> **[0:45](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-active-directory?u=76281980&t=45)** It also offers seamless user experience by providing quick and easy sign-in to keep your users productive and reduce their time for managing passwords.
+> **[0:45](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-active-directory?u=76281980&t=45)** It also offers seamless [[User Experience (UX)|user experience]] by providing quick and easy sign-in to keep your users productive and reduce their time for managing passwords.
 >
-> **[0:59](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-active-directory?u=76281980&t=59)** Conditional access and multi-factor authentication features help secure data.
+> **[0:59](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-active-directory?u=76281980&t=59)** Conditional access and [[Multi-factor Authentication]] features help secure data.
 >
 > **[1:05](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-active-directory?u=76281980&t=65)** The Privileged Identity Management feature ensures that right people have accurate access to correct resources within an additional just-in-time, which can be activated by simply clicking on this Activate button.
 >
@@ -1221,9 +1206,9 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-active-directory?u=76281980&t=97)** Let's learn about each of these editions one by one.
 >
-> **[1:41](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-active-directory?u=76281980&t=101)** The free edition is included with a subscription of commercial online service, example Microsoft Azure, Dynamics 365, Intune and Power Platform.
+> **[1:41](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-active-directory?u=76281980&t=101)** The free edition is included with a subscription of commercial online service, example [[Microsoft Azure]], Dynamics 365, Intune and Power Platform.
 >
-> **[1:55](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-active-directory?u=76281980&t=115)** Microsoft Entra ID P1 for Students is available as a standalone or included with Microsoft 365 E3 license for enterprise customers and Microsoft 365 Business Premium for small to medium businesses.
+> **[1:55](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-active-directory?u=76281980&t=115)** Microsoft Entra ID P1 for Students is available as a standalone or included with [[Microsoft 365]] E3 license for enterprise customers and Microsoft 365 Business Premium for small to medium businesses.
 >
 > **[2:12](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-active-directory?u=76281980&t=132)** Microsoft Entra ID P2 license is available as a standalone or included with Microsoft 365 E5 license for enterprise customers.
 >
@@ -1233,13 +1218,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID]] (13), [[Microsoft 365]] (3), management (2), [[Microsoft Entra ID|Azure active directory]] (2), [[Microsoft Entra ID|Azure ad]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (13), [[Microsoft 365]] (3), [[Microsoft Entra ID|Azure active directory]] (2), [[Microsoft Entra ID|Azure ad]] (1), [[Microsoft]] (1)
 > **Definitions:** known as (1), is an  (1)
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
 
-#### Conditional Access policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/conditional-access-policy?u=76281980)
+#### [Conditional Access policy](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/conditional-access-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1249,7 +1233,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/conditional-access-policy?u=76281980&t=8)** In layman terms, conditional access means giving access to certain people on specific resources for a limited time duration.
 >
-> **[0:19](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/conditional-access-policy?u=76281980&t=19)** Conditional access is a tool that Entra ID uses to allow or deny access to resources based on certain identity signals.
+> **[0:19](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/conditional-access-policy?u=76281980&t=19)** Conditional access is a tool that [[Microsoft Entra ID|Entra ID]] uses to allow or deny access to resources based on certain identity signals.
 >
 > **[0:30](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/conditional-access-policy?u=76281980&t=30)** These signals include who the user is, where the user is, and what device the user is requesting the access from.
 >
@@ -1257,7 +1241,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/conditional-access-policy?u=76281980&t=44)** It helps administrators empower users to be productive, it also helps protect organizational assets, and finally, it provides a more granular, multifactor authentication experience for users.
 >
-> **[1:01](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/conditional-access-policy?u=76281980&t=61)** Say for instance, you have a conditional access policy enabled on your users' sign-in, and you're signing in from the same office every day.
+> **[1:01](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/conditional-access-policy?u=76281980&t=61)** Say for instance, you have a conditional access policy enabled on your users' sign-in, and you're signing in from the same [[Microsoft Office|office]] every day.
 >
 > **[1:11](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/conditional-access-policy?u=76281980&t=71)** Now, because this comes under your named location feature in Entra ID, you would not be challenged for second factor authentication as you're logging in from the same known location.
 >
@@ -1277,19 +1261,18 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/conditional-access-policy?u=76281980&t=145)** Conditional access can also be applied when you want to allow users to access applications only from a set of verified mobile devices.
 >
-> **[2:36](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/conditional-access-policy?u=76281980&t=156)** Finally, you must note that to use conditional access feature, you either need Microsoft Entra ID P1 license, Entra ID P2 license, or a Microsoft Entra ID Governance license.
+> **[2:36](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/conditional-access-policy?u=76281980&t=156)** Finally, you must note that to use conditional access feature, you either need [[Microsoft Entra ID]] P1 license, Entra ID P2 license, or a Microsoft Entra ID Governance license.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (3), [[Microsoft Office|Office]] (2), feature (2), [[Microsoft Entra ID]] (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (3), [[Microsoft Office|Office]] (2), [[Microsoft Entra ID]] (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** o365 (1)
 > **Analogies:** for instance (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure governance methodologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-governance-methodologies?u=76281980)
+#### [Azure governance methodologies](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-governance-methodologies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1299,7 +1282,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-governance-methodologies?u=76281980&t=20)** Implementing proper governance also ensures that you're compliant with industry standard regulations like PCIDSS and GDPR, et cetera, in addition to corporate standards of keeping the network data encrypted.
 >
-> **[0:37](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-governance-methodologies?u=76281980&t=37)** Azure governance is bifurcated into different components and services, namely management groups, Azure Policies, and Azure Blueprints.
+> **[0:37](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-governance-methodologies?u=76281980&t=37)** [[Microsoft Azure|Azure]] governance is bifurcated into different components and services, namely management groups, Azure Policies, and Azure Blueprints.
 >
 > **[0:49](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-governance-methodologies?u=76281980&t=49)** Let's learn about each of these one by one, starting with the management groups.
 >
@@ -1307,7 +1290,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-governance-methodologies?u=76281980&t=60)** If your organization has many subscriptions, you may need a way to efficiently manage access policies and compliance for all those subscriptions.
 >
-> **[1:11](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-governance-methodologies?u=76281980&t=71)** All subscriptions within a single management group must trust the same Azure active directory tenant.
+> **[1:11](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-governance-methodologies?u=76281980&t=71)** All subscriptions within a single management group must trust the same [[Microsoft Entra ID|Azure active directory]] tenant.
 >
 > **[1:18](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-governance-methodologies?u=76281980&t=78)** For example, you can apply policies to a management group that limits regions available for creation of a particular resource.
 >
@@ -1335,25 +1318,24 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-governance-methodologies?u=76281980&t=192)** Azure governance also comes in handy when you need to build and scale your applications in cloud quickly while still maintaining the control.
 >
-> **[3:24](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-governance-methodologies?u=76281980&t=204)** To sum it all up, Azure governance methodologies empower your developers to focus on building innovative products and services without getting worried about the compliance related tasks.
+> **[3:24](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-governance-methodologies?u=76281980&t=204)** To sum it all up, Azure governance methodologies empower your developers to focus on building innovative [[Microsoft Products|products]] and services without getting worried about the compliance related tasks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), management (7), cloud (3), teams (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (16), [[Microsoft Entra ID|Azure active directory]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** pcidss (1), gdpr (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### RBAC
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/rbac?u=76281980)
+#### [RBAC](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/rbac?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/rbac?u=76281980&t=0)** - [Instructor] Access management for cloud resources is a critical function for any organization that is using the cloud.
 >
-> **[0:07](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/rbac?u=76281980&t=7)** Azure RBAC is an authorization system built on Azure Resource Manager that provides fine grain access management to Azure resources.
+> **[0:07](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/rbac?u=76281980&t=7)** [[Microsoft Azure|Azure]] RBAC is an authorization system built on Azure Resource Manager that provides fine grain access management to Azure resources.
 >
 > **[0:18](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/rbac?u=76281980&t=18)** RBAC allows you to create multiple roles.
 >
@@ -1361,7 +1343,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/rbac?u=76281980&t=29)** RBAC also allows you to segregate duties within teams to grant only the amount of access that is needed by the person to perform their jobs.
 >
-> **[0:39](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/rbac?u=76281980&t=39)** For example, a virtual machine contributor role will allow people to manage the virtual machines, but they cannot manage the linked resources to virtual machines like virtual networks or storage accounts.
+> **[0:39](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/rbac?u=76281980&t=39)** For example, a virtual machine contributor role will allow people to manage the [[Virtual Machines]], but they cannot manage the linked resources to virtual machines like virtual networks or storage accounts.
 >
 > **[0:54](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/rbac?u=76281980&t=54)** Azure RBAC also helps you to manage access to Azure resources.
 >
@@ -1387,7 +1369,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/rbac?u=76281980&t=117)** If you click against the View option under the Details tab, you would be redirected to the description of your selected role.
 >
-> **[2:07](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/rbac?u=76281980&t=127)** Now, let's take an example where you want your administrator of your subscription to create resources Using Terraform.
+> **[2:07](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/rbac?u=76281980&t=127)** Now, let's take an example where you want your administrator of your subscription to create resources Using [[Terraform]].
 >
 > **[2:16](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/rbac?u=76281980&t=136)** In this scenario, you can add them as a reader to your subscription.
 >
@@ -1399,7 +1381,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), management (2), cloud (2), [[Virtual Machines]] (2), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Virtual Machines]] (2), [[Terraform]] (1)
 > **Env Vars:** rbac (5), iam (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1), terraform (1)
@@ -1408,12 +1390,11 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure Blueprints
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-blueprints?u=76281980)
+#### [Azure Blueprints](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-blueprints?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-blueprints?u=76281980&t=0)** - [Instructor] Azure Blueprints enable quick creation of governed subscriptions.
+> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-blueprints?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] Blueprints enable quick creation of governed subscriptions.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-blueprints?u=76281980&t=5)** This feature allows cloud architects to design environments that comply with organizational standards and best practices.
 >
@@ -1481,7 +1462,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Search]] (2), management (2), next (2), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8)
 > **UI Navigation:** click on (6), go to (3)
 > **Env Vars:** arm (1), vnet (1), nsg (1)
 > **Versions:** 1.0 (1)
@@ -1490,14 +1471,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure Policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-policy?u=76281980)
+#### [Azure Policy](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-policy?u=76281980&t=0)** - [Instructor] Azure Policy enables you to create, assign, and manage policies to control or audit your resources.
+> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-policy?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] Policy enables you to create, assign, and manage policies to control or audit your resources.
 >
-> **[0:09](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-policy?u=76281980&t=9)** Policy provides governance and resource consistency with respect to regulatory compliance, security, cost, and management.
+> **[0:09](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-policy?u=76281980&t=9)** Policy provides governance and resource consistency with respect to [[Regulatory Compliance]], security, cost, and management.
 >
 > **[0:19](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-policy?u=76281980&t=19)** These policies help to enforce organizational standards and assess compliance at scale.
 >
@@ -1523,7 +1503,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-policy?u=76281980&t=93)** Select a policy definition.
 >
-> **[1:36](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-policy?u=76281980&t=96)** Here I will choose virtual machines that do not use managed discs.
+> **[1:36](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-policy?u=76281980&t=96)** Here I will choose [[Virtual Machines]] that do not use managed discs.
 >
 > **[1:41](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-policy?u=76281980&t=101)** Click on Add.
 >
@@ -1549,17 +1529,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), management (2), next (2), [[Regulatory Compliance]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Regulatory Compliance]] (1), [[Virtual Machines]] (1)
 > **UI Navigation:** click on (4), go to (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure resource locks
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-resource-locks?u=76281980)
+#### [Azure resource locks](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-resource-locks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-resource-locks?u=76281980&t=0)** - [Instructor] Azure Resource lock feature lets you lock an Azure subscription, resource group, or resource to protect it from accidental deletion and modification.
+> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-resource-locks?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] Resource lock feature lets you lock an Azure subscription, resource group, or resource to protect it from accidental deletion and modification.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-resource-locks?u=76281980&t=12)** This lock overrides any user permissions.
 >
@@ -1629,19 +1608,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6)
 > **UI Navigation:** click on (4), go to (3)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud Adoption Framework for Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-adoption-framework-for-azure?u=76281980)
+#### [Cloud Adoption Framework for Azure](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-adoption-framework-for-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-adoption-framework-for-azure?u=76281980&t=0)** - [Instructor] The Cloud Adoption Framework for Azure is a collection of documentation, technical guidance, best practices, and tools that aid in aligning business, organizational readiness, and technology strategies.
+> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-adoption-framework-for-azure?u=76281980&t=0)** - [Instructor] The Cloud Adoption Framework for [[Microsoft Azure|Azure]] is a collection of documentation, technical guidance, best practices, and tools that aid in aligning business, organizational readiness, and technology strategies.
 >
 > **[0:17](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-adoption-framework-for-azure?u=76281980&t=17)** This alignment enables a clear and actionable journey to the cloud that rapidly delivers on desired business outcomes.
 >
@@ -1683,7 +1661,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-adoption-framework-for-azure?u=76281980&t=170)** Here, you begin to migrate your applications into the cloud.
 >
-> **[2:54](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-adoption-framework-for-azure?u=76281980&t=174)** While designing the migration strategies, there are chances that you might look into ways of modernizing your applications while building innovative solutions that use cloud services.
+> **[2:54](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-adoption-framework-for-azure?u=76281980&t=174)** While designing the migration strategies, there are chances that you might look into ways of modernizing your applications while building innovative solutions that use [[Cloud Services]].
 >
 > **[3:07](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/cloud-adoption-framework-for-azure?u=76281980&t=187)** Cloud Adoption Framework breaks this stage into two main parts, namely: migrate and innovate.
 >
@@ -1709,7 +1687,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (24), business (9), [[Microsoft Azure|Azure]] (5), management (3), next (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Cloud Services]] (1)
 > **Env Vars:** caf (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
@@ -1720,20 +1698,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Microsoft Defender for Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-defender-for-cloud?u=76281980)
+#### [Microsoft Defender for Cloud](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-defender-for-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-defender-for-cloud?u=76281980&t=0)** - [Instructor] Microsoft Defender for Cloud.
+> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-defender-for-cloud?u=76281980&t=0)** - [Instructor] [[Microsoft Defender]] for Cloud.
 >
-> **[0:03](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-defender-for-cloud?u=76281980&t=3)** Defender for Cloud is a monitoring service that provides advanced threat protection across workloads hosted in Azure, other Clouds, or on the on-premise environment.
+> **[0:03](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-defender-for-cloud?u=76281980&t=3)** [[Microsoft Defender|Defender]] for Cloud is a monitoring service that provides advanced threat protection across workloads hosted in [[Microsoft Azure|Azure]], other Clouds, or on the on-premise environment.
 >
 > **[0:16](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-defender-for-cloud?u=76281980&t=16)** It can also be seen as cloud-native application protection platform with a set of security measures and practices that are designed to protect cloud-based applications from various cyber threats and vulnerabilities.
 >
-> **[0:30](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-defender-for-cloud?u=76281980&t=30)** Defender for Cloud combines the capabilities of DevSecOps solution that unify security management at code level across multi-cloud and multiple pipeline environments.
+> **[0:30](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-defender-for-cloud?u=76281980&t=30)** Defender for Cloud combines the capabilities of [[DevSecOps]] solution that unify [[Security Management]] at code level across multi-cloud and multiple pipeline environments.
 >
-> **[0:43](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-defender-for-cloud?u=76281980&t=43)** Cloud Security Posture Management solution that surfaces actions that you can take to prevent breaches and Cloud Workload Protection Platform with specific protection for servers, containers, storage, databases, and other workloads.
+> **[0:43](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-defender-for-cloud?u=76281980&t=43)** [[Cloud Security]] Posture Management solution that surfaces actions that you can take to prevent breaches and Cloud Workload Protection Platform with specific protection for servers, containers, storage, [[Databases]], and other workloads.
 >
 > **[1:01](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-defender-for-cloud?u=76281980&t=61)** Some of the major Defender for Cloud capabilities include policy compliance.
 >
@@ -1765,30 +1742,29 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-defender-for-cloud?u=76281980&t=161)** Then list of prioritized security alerts is shown in Microsoft Defender for Cloud, along with the information that you need to quickly investigate and remediate an attack.
 >
-> **[2:54](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-defender-for-cloud?u=76281980&t=174)** Modern applications require security awareness at the code, infrastructure, and runtime levels to make sure that deployed applications are hardened against different types of attacks.
+> **[2:54](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-defender-for-cloud?u=76281980&t=174)** Modern applications require [[Security Awareness]] at the code, infrastructure, and runtime levels to make sure that deployed applications are hardened against different types of attacks.
 >
-> **[3:08](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-defender-for-cloud?u=76281980&t=188)** To incorporate best security practices early during the software development or DevSecOps lifecycle, Microsoft Defender for Cloud can be a good solution.
+> **[3:08](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-defender-for-cloud?u=76281980&t=188)** To incorporate best security practices early during the [[Software Development]] or DevSecOps lifecycle, Microsoft Defender for Cloud can be a good solution.
 >
-> **[3:20](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-defender-for-cloud?u=76281980&t=200)** Microsoft recommends using Defender for Cloud to protect your code management environments, code pipelines, and get insights into your development environment security posture.
+> **[3:20](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-defender-for-cloud?u=76281980&t=200)** [[Microsoft]] recommends using Defender for Cloud to protect your code management environments, code pipelines, and get insights into your development environment security posture.
 >
-> **[3:32](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-defender-for-cloud?u=76281980&t=212)** Well, if you're willing to deep dive into Defender for Cloud, refer to my course on LinkedIn named "[[Securing Cloud Resources with Microsoft Defender for Cloud]]."
+> **[3:32](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-defender-for-cloud?u=76281980&t=212)** Well, if you're willing to deep dive into Defender for Cloud, refer to my course on [[LinkedIn]] named "[[Securing Cloud Resources with Microsoft Defender for Cloud]]."
 >
 > **[3:44](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-defender-for-cloud?u=76281980&t=224)** Go to the LinkedIn Learning and search for [[Securing Cloud Resources with Microsoft Defender for Cloud]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (22), [[Microsoft Defender|Defender]] (11), [[Security]] (11), [[Microsoft Defender]] (5), [[Microsoft Azure|Azure]] (5)
+> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (11), [[Microsoft Defender]] (5), [[Microsoft Azure|Azure]] (5), [[DevSecOps]] (2), [[LinkedIn]] (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Sentinel
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-sentinel?u=76281980)
+#### [Microsoft Sentinel](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-sentinel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-sentinel?u=76281980&t=0)** - [Narrator] Microsoft Sentinel is a security information and event management solution that provides security analytics along with the capabilities of threat detection and intelligence response across an enterprise.
+> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-sentinel?u=76281980&t=0)** - [Narrator] [[Microsoft]] Sentinel is a security information and event management solution that provides security analytics along with the capabilities of threat detection and intelligence response across an enterprise.
 >
 > **[0:15](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-sentinel?u=76281980&t=15)** It is Microsoft's widely used SIEM tool.
 >
@@ -1796,7 +1772,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-sentinel?u=76281980&t=23)** Collect cloud data at scale.
 >
-> **[0:26](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-sentinel?u=76281980&t=26)** Azure Sentinel enables you to collect data across all users, devices, applications, and infrastructure, both on-prem and for your cloud environments.
+> **[0:26](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-sentinel?u=76281980&t=26)** [[Microsoft Azure|Azure]] Sentinel enables you to collect data across all users, devices, applications, and infrastructure, both on-prem and for your cloud environments.
 >
 > **[0:39](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-sentinel?u=76281980&t=39)** Detect previously undetected threats.
 >
@@ -1816,7 +1792,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-sentinel?u=76281980&t=89)** Connect Sentinel to Microsoft Solutions.
 >
-> **[1:32](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-sentinel?u=76281980&t=92)** There are various connectors available that provide real-time integration for services like Microsoft Threat Protection Solution, M365, including O365, Azure AD, and Windows Defender Firewall.
+> **[1:32](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-sentinel?u=76281980&t=92)** There are various connectors available that provide [[Real-Time]] integration for services like Microsoft Threat Protection Solution, [[Microsoft 365|M365]], including O365, [[Microsoft Entra ID|Azure AD]], and [[Windows]] [[Microsoft Defender|Defender]] Firewall.
 >
 > **[1:47](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-sentinel?u=76281980&t=107)** Connect Sentinel to other services and solutions.
 >
@@ -1824,13 +1800,13 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-sentinel?u=76281980&t=130)** Connect Sentinel to industry standard data sources.
 >
-> **[2:14](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-sentinel?u=76281980&t=134)** Azure Sentinel supports data from other sources that use common event format messaging standard, Syslog, or REST API.
+> **[2:14](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-sentinel?u=76281980&t=134)** Azure Sentinel supports data from other sources that use common event format messaging standard, Syslog, or [[Representational State Transfer (REST)|REST]] API.
 >
 > **[2:25](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-sentinel?u=76281980&t=145)** Microsoft Sentinel uses built-in analytics as well as custom analytics to notify you about suspicious activities that are happening in your environment.
 >
 > **[2:36](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-sentinel?u=76281980&t=156)** Built-in analytics use templates designed by Microsoft's team of security experts and analysts based on known threats, common attack vendors, and escalation chains for suspicious activities.
 >
-> **[2:51](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-sentinel?u=76281980&t=171)** Some templates use machine learning behavior analytics that are based on Microsoft proprietary algorithms.
+> **[2:51](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-sentinel?u=76281980&t=171)** Some templates use machine learning behavior analytics that are based on Microsoft proprietary [[Algorithms]].
 >
 > **[2:59](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/microsoft-sentinel?u=76281980&t=179)** Custom analytics.
 >
@@ -1846,18 +1822,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (10), [[Analytics]] (9), data (5), [[Security]] (4), [[Microsoft Azure|Azure]] (4)
+> **Frameworks & Libraries:** [[Microsoft]] (10), [[Microsoft Azure|Azure]] (4), [[Real-Time]] (1), [[Microsoft 365|M365]] (1), [[Microsoft Entra ID|Azure ad]] (1)
 > **Env Vars:** siem (1), m365 (1), o365 (1), aws (1), rest (1)
 > **CLI Commands:** find (1), aws (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Azure Key Vault
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-key-vault?u=76281980)
+#### [Azure Key Vault](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-key-vault?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-key-vault?u=76281980&t=0)** - [Instructor] Key Vault fall under Azure Security Services category.
+> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-key-vault?u=76281980&t=0)** - [Instructor] Key Vault fall under [[Microsoft Azure|Azure]] Security Services category.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-key-vault?u=76281980&t=5)** It is a centralized cloud service for safeguarding cryptographic keys and other secrets used by various cloud apps and services.
 >
@@ -1869,7 +1844,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-key-vault?u=76281980&t=39)** Managing secrets.
 >
-> **[0:41](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-key-vault?u=76281980&t=41)** Azure Key Vault can be used to securely store and tightly control access to tokens, certificates, passwords, API keys, and other secrets.
+> **[0:41](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-key-vault?u=76281980&t=41)** Azure Key Vault can be used to securely store and tightly control access to [[Tokens]], certificates, passwords, API keys, and other secrets.
 >
 > **[0:54](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-key-vault?u=76281980&t=54)** Manage encryption keys.
 >
@@ -1881,7 +1856,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-key-vault?u=76281980&t=74)** Key Vault enables you to provision, manage, and deploy your public and private SSL TLS certificates for both your Azure as well as internal resources.
 >
-> **[1:27](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-key-vault?u=76281980&t=87)** Store secret backed by hardware security modules or HSMs.
+> **[1:27](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-key-vault?u=76281980&t=87)** Store secret backed by [[Hardware]] security modules or HSMs.
 >
 > **[1:33](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-key-vault?u=76281980&t=93)** Azure Key Vault makes use of secrets and keys that can be protected either by software or FIPS level two validated HSMs.
 >
@@ -1893,7 +1868,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-key-vault?u=76281980&t=129)** Securely stored secrets and keys.
 >
-> **[2:13](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-key-vault?u=76281980&t=133)** Azure users industry standard algorithms, key lengths, and HSMs.
+> **[2:13](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-key-vault?u=76281980&t=133)** Azure users industry standard [[Algorithms]], key lengths, and HSMs.
 >
 > **[2:20](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-key-vault?u=76281980&t=140)** Access to Key Vault requires proper authentication and authorization.
 >
@@ -1917,21 +1892,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[Security]] (4), application (4), cloud (2), management (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[Tokens]] (1), [[Hardware]] (1), [[Algorithms]] (1)
 > **Env Vars:** ssl (2), tls (2), api (1), fips (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure Dedicated Host
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-dedicated-hosts?u=76281980)
+#### [Azure Dedicated Host](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-dedicated-hosts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-dedicated-hosts?u=76281980&t=0)** - [Instructor] Azure dedicated hosts allow you to host your Azure virtual machines on dedicated physical servers.
+> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-dedicated-hosts?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] dedicated hosts allow you to host your Azure [[Virtual Machines]] on dedicated physical servers.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-dedicated-hosts?u=76281980&t=8)** Usually, VMs on Azure run on shared hardware that is being managed by Microsoft.
+> **[0:08](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-dedicated-hosts?u=76281980&t=8)** Usually, VMs on Azure run on shared [[Hardware]] that is being managed by [[Microsoft]].
 >
-> **[0:15](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-dedicated-hosts?u=76281980&t=15)** However, some organizations must follow certain regulatory compliance, requiring them to be the only customer using the physical machines that host their virtual machines.
+> **[0:15](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-dedicated-hosts?u=76281980&t=15)** However, some organizations must follow certain [[Regulatory Compliance]], requiring them to be the only customer using the physical machines that host their virtual machines.
 >
 > **[0:28](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-dedicated-hosts?u=76281980&t=28)** You can provision dedicated hosts within a region, availability zone and fault domain.
 >
@@ -1967,7 +1941,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-dedicated-hosts?u=76281980&t=151)** And Azure dedicated host allows your organization to establish a private cloud in Azure.
 >
-> **[2:38](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-dedicated-hosts?u=76281980&t=158)** Example, in the healthcare industry, applications must meet HIPAA requirements when dealing with patient information.
+> **[2:38](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-dedicated-hosts?u=76281980&t=158)** Example, in the [[Healthcare Industry]], applications must meet HIPAA requirements when dealing with patient information.
 >
 > **[2:47](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-dedicated-hosts?u=76281980&t=167)** So, each hospital may need to have its own dedicated host comprising of different virtual machines for maintaining patient data to meet their compliance requirements.
 >
@@ -1980,14 +1954,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure VNet and NSG
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-vnet-and-nsg?u=76281980)
+#### [Azure VNet and NSG](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-vnet-and-nsg?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-vnet-and-nsg?u=76281980&t=0)** - [Instructor] Defense in depth is a layered approach to securing the overall cloud resources by providing multiple layers of protection.
 >
-> **[0:09](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-vnet-and-nsg?u=76281980&t=9)** Network security group, popularly known as NSG, come in handy to filter the incoming and outgoing network traffic.
+> **[0:09](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-vnet-and-nsg?u=76281980&t=9)** [[Network Security]] group, popularly known as NSG, come in handy to filter the incoming and outgoing network traffic.
 >
 > **[0:18](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-vnet-and-nsg?u=76281980&t=18)** You can think of NSGs like an internal firewall.
 >
@@ -1999,7 +1972,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-vnet-and-nsg?u=76281980&t=50)** It is also important to note that same network security group can be associated to as many subnets and network interfaces as you choose.
 >
-> **[1:01](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-vnet-and-nsg?u=76281980&t=61)** A network security group can contain as many rules as you need within Azure subscription limits.
+> **[1:01](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-vnet-and-nsg?u=76281980&t=61)** A network security group can contain as many rules as you need within [[Microsoft Azure|Azure]] subscription limits.
 >
 > **[1:09](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-vnet-and-nsg?u=76281980&t=69)** Let us learn about different properties of NSGs.
 >
@@ -2011,7 +1984,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-vnet-and-nsg?u=76281980&t=97)** That means hundred will take the higher precedence.
 >
-> **[1:42](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-vnet-and-nsg?u=76281980&t=102)** Source and destination: Source and destination fields can contain a single IP address, IP address range, service tag, or an application security group.
+> **[1:42](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-vnet-and-nsg?u=76281980&t=102)** Source and destination: Source and destination fields can contain a single IP address, IP address range, service tag, or an [[Application Security]] group.
 >
 > **[1:54](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-vnet-and-nsg?u=76281980&t=114)** Protocols: TCP, UDP, ICMP, or any of the available list of protocols while creating NSG.
 >
@@ -2029,29 +2002,28 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-vnet-and-nsg?u=76281980&t=176)** For example, I have created an RDP allow rule with priority 300 in this case.
 >
-> **[3:04](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-vnet-and-nsg?u=76281980&t=184)** Finally, Microsoft recommends associating NSG to a subnet or network interface card, but not both, to avoid conflicting rule creation leading to unexpected communication issues.
+> **[3:04](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-vnet-and-nsg?u=76281980&t=184)** Finally, [[Microsoft]] recommends associating NSG to a subnet or network interface card, but not both, to avoid conflicting rule creation leading to unexpected communication issues.
 >
 > **[3:18](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-vnet-and-nsg?u=76281980&t=198)** With this, we come to an end of the NSG support section.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Network Security]] (4), [[Security]] (4), traffic (3), [[Microsoft Azure|Azure]] (3), cloud (1)
+> **Frameworks & Libraries:** [[Network Security]] (4), [[Microsoft Azure|Azure]] (3), [[Application Security]] (1), [[Microsoft]] (1)
 > **Env Vars:** nsg (8), nic (1), tcp (1), udp (1), icmp (1)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure Firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980)
+#### [Azure Firewall](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=0)** - [Instructor] Firewall is a network security device that monitors incoming and outgoing network traffic and decides whether to allow or block specific traffic based on a defined set of security rules.
+> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=0)** - [Instructor] Firewall is a [[Network Security]] device that monitors incoming and outgoing network traffic and decides whether to allow or block specific traffic based on a defined set of security rules.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=14)** Azure Firewall is a managed cloud-based network security service that protects your Azure virtual network resources.
+> **[0:14](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=14)** [[Microsoft Azure|Azure]] Firewall is a managed cloud-based network security service that protects your Azure virtual network resources.
 >
-> **[0:22](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=22)** The stateful firewall service has built in high availability and unrestricted cloud scalability to help you create, enforce and log application and network connectivity policies across subscriptions and virtual networks.
+> **[0:22](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=22)** The stateful firewall service has built in high availability and unrestricted cloud [[Scalability]] to help you create, enforce and log application and network connectivity policies across subscriptions and virtual networks.
 >
 > **[0:40](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=40)** Being a stateful firewall, it analyzes the complete context of a network connection and not just an individual packet of network traffic.
 >
@@ -2067,9 +2039,9 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=105)** It works in conjunction with URL filtering and web categories by letting administrators allow or deny user access to website categories such as gambling or social media.
 >
-> **[1:59](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=119)** The intrusion detection and prevention system capability makes use of signatures to continuously monitor activities, generate alerts, log information, and optionally attempt to block traffic.
+> **[1:59](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=119)** The [[Intrusion Detection]] and prevention system capability makes use of signatures to continuously monitor activities, generate alerts, log information, and optionally attempt to block traffic.
 >
-> **[2:14](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=134)** This is a real-time traffic inspection.
+> **[2:14](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=134)** This is a [[Real-Time]] traffic inspection.
 >
 > **[2:17](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=137)** It can detect attacks in all ports and protocols for unencrypted traffic.
 >
@@ -2079,15 +2051,15 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=157)** Azure Firewall is mainly used to protect your digital assets that are hosted in the cloud.
 >
-> **[2:44](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=164)** It is a fundamental building block for your private network that enables virtual machines and other compute resources to securely communicate with each other, the internet, and the on-premise networks.
+> **[2:44](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=164)** It is a fundamental building block for your private network that enables [[Virtual Machines]] and other compute resources to securely communicate with each other, the internet, and the on-premise networks.
 >
-> **[2:58](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=178)** Azure Firewall is an ideal choice when you want to protect your network against infiltration to avoid user errors while handling the payments of an e-commerce website.
+> **[2:58](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=178)** Azure Firewall is an ideal choice when you want to protect your network against infiltration to avoid user errors while handling the payments of an [[E-Commerce]] website.
 >
 > **[3:11](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=191)** Azure Firewall can also be used to establish spoke-to-spoke connectivity.
 >
 > **[3:17](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=197)** The spoke networks can exchange data with the hub, but the spokes cannot communicate directly with each other.
 >
-> **[3:24](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=204)** For example, one spoke network might host an application programming interface that requires information from a SQL database deployed in a different spoke.
+> **[3:24](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=204)** For example, one spoke network might host an application programming interface that requires information from a [[SQL]] database deployed in a different spoke.
 >
 > **[3:36](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=216)** In this scenario, Azure Firewall would be a secure solution to fulfill the connection requirement between your application and the database.
 >
@@ -2095,20 +2067,19 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=241)** There are more than 58,000 signatures in more than 50 categories, which are updated in real time to protect against new and emerging exploits.
 >
-> **[4:13](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=253)** These exploit categories include malware, phishing, coin mining, and Trojan attacks.
+> **[4:13](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=253)** These exploit categories include malware, [[Phishing]], coin mining, and Trojan attacks.
 >
 > **[4:22](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-firewall?u=76281980&t=262)** So now you understand the importance of Azure Firewall.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), traffic (11), cloud (4), [[Network Security]] (3), application (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Network Security]] (3), [[Scalability]] (1), [[Intrusion Detection]] (1), [[Real-Time]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Env Vars:** vpn (1), url (1), tls (1), sql (1)
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure DDoS Protection
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-ddos-protection?u=76281980)
+#### [Azure DDoS Protection](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-ddos-protection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2122,7 +2093,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-ddos-protection?u=76281980&t=36)** So how can we protect our cloud resources from encountering DDoS attacks?
 >
-> **[0:41](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-ddos-protection?u=76281980&t=41)** Well, Microsoft offers Azure DDoS Protection service that protects your applications by scrubbing traffic at the network edge before it can impact your service availability.
+> **[0:41](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-ddos-protection?u=76281980&t=41)** Well, [[Microsoft]] offers [[Microsoft Azure|Azure]] DDoS Protection service that protects your applications by scrubbing traffic at the network edge before it can impact your service availability.
 >
 > **[0:55](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-ddos-protection?u=76281980&t=55)** Azure DDoS Protection, combined with application design best practices, provides enhanced DDoS mitigation features to defend against DDoS attacks.
 >
@@ -2150,7 +2121,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-ddos-protection?u=76281980&t=161)** DDoS network protection is relatively easy to enable and requires no changes to your applications.
 >
-> **[2:49](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-ddos-protection?u=76281980&t=169)** It offers an always-on traffic monitoring and real-time mitigation of common network level attacks.
+> **[2:49](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-ddos-protection?u=76281980&t=169)** It offers an always-on traffic monitoring and [[Real-Time]] mitigation of common network level attacks.
 >
 > **[2:58](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-ddos-protection?u=76281980&t=178)** DDoS IP protection is a pay-per-protected IP model.
 >
@@ -2182,7 +2153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), application (6), traffic (6), [[Microsoft]] (3), cloud (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Microsoft]] (3), [[Real-Time]] (1)
 > **Env Vars:** waf (3)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
@@ -2194,12 +2165,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Azure IoT
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-iot?u=76281980)
+#### [Azure IoT](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-iot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-iot?u=76281980&t=0)** - [Instructor] Internet of things or IoT refers to a collection of platform services across edge and cloud that connect, monitor, and control billions of IoT assets.
+> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-iot?u=76281980&t=0)** - [Instructor] [[IoT|Internet of things]] or [[IoT]] refers to a collection of platform services across edge and cloud that connect, monitor, and control billions of IoT assets.
 >
 > **[0:14](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-iot?u=76281980&t=14)** These devices are generally used for data analysis.
 >
@@ -2215,7 +2185,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-iot?u=76281980&t=71)** Actions refer to the way people respond to those insights and connect them to their businesses as well as the systems and tool they use.
 >
-> **[1:21](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-iot?u=76281980&t=81)** Let us learn about some of the widely used products and services being offered by Azure in the field of IoT that are falling under different categories, namely, build your IoT solution, connect and manage devices, analyze and transform data, and integrate business and AI solutions.
+> **[1:21](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-iot?u=76281980&t=81)** Let us learn about some of the widely used [[Microsoft Products|products]] and services being offered by [[Microsoft Azure|Azure]] in the field of IoT that are falling under different categories, namely, build your IoT solution, connect and manage devices, analyze and transform data, and integrate business and [[AI Solutions]].
 >
 > **[1:42](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-iot?u=76281980&t=102)** We shall now learn about some of the most predominantly used Azure IT services in the upcoming section.
 >
@@ -2235,7 +2205,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-iot?u=76281980&t=175)** Next, let us look at Azure IoT Central.
 >
-> **[2:59](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-iot?u=76281980&t=179)** IoT Central is a fully managed global IoT SaaS solution that makes it easy to connect, monitor, and manage IoT assets at scale.
+> **[2:59](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-iot?u=76281980&t=179)** IoT Central is a fully managed global IoT [[SaaS]] solution that makes it easy to connect, monitor, and manage IoT assets at scale.
 >
 > **[3:11](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-iot?u=76281980&t=191)** IoT Central can be used to quickly evaluate your IoT scenarios and assess the opportunities it can create for your business.
 >
@@ -2249,35 +2219,34 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-iot?u=76281980&t=239)** Azure Sphere is a secured, high-level application platform with built-in communication and security features for internet-connected devices.
 >
-> **[4:10](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-iot?u=76281980&t=250)** It comprises of a secured, connected, crossover microcontroller unit, a custom high-level, Linux-based operating system, and a cloud-based security service that provides continuous renewable security.
+> **[4:10](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-iot?u=76281980&t=250)** It comprises of a secured, connected, crossover microcontroller unit, a custom high-level, [[Linux]]-based operating system, and a cloud-based security service that provides continuous renewable security.
 >
-> **[4:27](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-iot?u=76281980&t=267)** An Azure Sphere MCU integrates real-time processing capability with the ability to run a high-level operating system.
+> **[4:27](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-iot?u=76281980&t=267)** An Azure Sphere MCU integrates [[Real-Time]] processing capability with the ability to run a high-level operating system.
 >
 > **[4:36](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-iot?u=76281980&t=276)** Sphere, MCU, along with its operating system and application platform enables the creation of secured, internet-connected devices that can be updated, controlled, monitored, and maintained remotely.
 >
 > **[4:53](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-iot?u=76281980&t=293)** Azure Sphere can also be embedded into coffee machine or even a dishwasher to automate the functionality of these machines.
 >
-> **[5:02](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-iot?u=76281980&t=302)** Finally, it would not be wrong to say that Microsoft is one of the leading cloud providers offering so many PaaS services in the field of IoT that are helpful for connecting and managing devices at scale, delivering reliable data for business insights.
+> **[5:02](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-iot?u=76281980&t=302)** Finally, it would not be wrong to say that [[Microsoft]] is one of the leading cloud providers offering so many [[PaaS]] services in the field of IoT that are helpful for connecting and managing devices at scale, delivering reliable data for business insights.
 >
 > **[5:21](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-iot?u=76281980&t=321)** Hence, it is also one of the most accepted platforms by the Fortune 500 companies.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (26), [[Microsoft Azure|Azure]] (10), cloud (7), data (5), [[Security]] (4)
+> **Frameworks & Libraries:** [[IoT]] (26), [[Microsoft Azure|Azure]] (10), [[IoT|Internet of things]] (2), [[Microsoft Products|Products]] (1), [[AI Solutions]] (1)
 > **Definitions:** is a  (3), refers to (1)
 > **Env Vars:** mcu (2)
 > **Speakers:** - [instructor] (1)
 
-#### Big data and analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980)
+#### [Big data and analytics](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=0)** - [Instructor] Big data analytics refers to the methods, tools, and applications that are used to collect, process and derive insights from varied, high-volume and high-velocity datasets.
+> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=0)** - [Instructor] [[Big Data Analytics]] refers to the methods, tools, and applications that are used to collect, process and derive insights from varied, high-volume and high-velocity datasets.
 >
 > **[0:15](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=15)** These datasets may come from variety of sources, such as web, mobile, email, social media, and networked smart devices.
 >
-> **[0:26](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=26)** The data source can range from structured to semi-structured and unstructured data.
+> **[0:26](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=26)** The data source can range from structured to semi-structured and [[Unstructured Data]].
 >
 > **[0:34](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=34)** There can be various reasons for analyzing these large amounts of data.
 >
@@ -2287,25 +2256,25 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=60)** Open-source cluster technologies have been developed over time to deal with these large datasets.
 >
-> **[1:08](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=68)** Microsoft Azure supports a broad range of technologies and services to provide big data and analytical solutions, including services that fall under different categories, ranging from big data processing, data exploration, and real-time analytics.
+> **[1:08](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=68)** [[Microsoft Azure]] supports a broad range of technologies and services to provide [[Big Data]] and analytical solutions, including services that fall under different categories, ranging from big data processing, data exploration, and [[Real-Time]] analytics.
 >
-> **[1:29](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=89)** Let us look into some of the majorly used data analytics services being offered by Azure, starting with Azure Synapse Analytics.
+> **[1:29](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=89)** Let us look into some of the majorly used data analytics services being offered by [[Microsoft Azure|Azure]], starting with Azure Synapse Analytics.
 >
 > **[1:39](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=99)** Azure Synapse Analytics is a fully managed service that builds modern data warehouses for enterprises.
 >
 > **[1:47](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=107)** You can query data on your terms by using either serverless or provisioned resources at scale.
 >
-> **[1:55](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=115)** You have a unified experience to ingest, prepare, manage, and serve data for immediate business intelligence and machine learning needs.
+> **[1:55](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=115)** You have a unified experience to ingest, prepare, manage, and serve data for immediate [[Business Intelligence (BI)|business intelligence]] and machine learning needs.
 >
-> **[2:07](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=127)** Synapse Analytics brings together SQL, Apache Spark, Orchestration and Ingestion into a single workspace by dramatically reducing the time to build an analytics solution.
+> **[2:07](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=127)** Synapse Analytics brings together [[SQL]], [[Apache Spark]], Orchestration and Ingestion into a single workspace by dramatically reducing the time to build an analytics solution.
 >
-> **[2:22](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=142)** Next, let us look at Azure Databricks.
+> **[2:22](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=142)** Next, let us look at [[Azure Databricks]].
 >
 > **[2:26](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=146)** Azure Databricks is a unified set of tools for building, deploying, sharing, and maintaining enterprise-grade data solutions at scale.
 >
 > **[2:38](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=158)** It is mainly used to process, store, clean, share, analyze, model, and monetize their datasets with solutions from BI to machine learning.
 >
-> **[2:52](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=172)** Azure Databricks platform can also be used to build and deploy data engineering workflows, machine learning models, analytical dashboards, and many more things.
+> **[2:52](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=172)** Azure Databricks platform can also be used to build and deploy [[Data Engineering]] workflows, machine learning models, analytical [[Dashboards]], and many more things.
 >
 > **[3:05](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=185)** Azure Data Lake Analytics.
 >
@@ -2323,7 +2292,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=239)** It can also work with Azure Storage Blobs, Azure SQL Database, and Azure Synapse Analytics.
 >
-> **[4:07](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=247)** Large e-commerce websites, like Myntra, are leveraging Microsoft Azure's big data and analytics platform to make sure that the site is readily accessible and consists of products based on every individual's taste.
+> **[4:07](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=247)** Large [[E-Commerce]] websites, like Myntra, are leveraging Microsoft Azure's big data and analytics platform to make sure that the site is readily accessible and consists of [[Microsoft Products|products]] based on every individual's taste.
 >
 > **[4:24](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/big-data-and-analytics?u=76281980&t=264)** The site also provides purchase suggestions based on the past shopping trends of their customer.
 >
@@ -2335,23 +2304,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Analytics]] (13), [[Microsoft Azure|Azure]] (9), [[Big Data]] (4), [[Microsoft Azure]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Big Data]] (4), [[Microsoft Azure]] (3), [[Azure Databricks]] (3), [[SQL]] (2)
 > **Definitions:** is a  (2), is an  (1), known as (1)
 > **Env Vars:** sql (2), etl (1)
 > **CLI Commands:** apache (1), make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Artificial intelligence and machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/artificial-intelligence-and-machine-learning?u=76281980)
+#### [Artificial intelligence and machine learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/artificial-intelligence-and-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/artificial-intelligence-and-machine-learning?u=76281980&t=0)** - [Instructor] Artificial intelligence is the capability of computer system to mimic human cognitive functions such as learning and problem solving.
+> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/artificial-intelligence-and-machine-learning?u=76281980&t=0)** - [Instructor] [[Artificial Intelligence (AI)|Artificial intelligence]] is the capability of computer system to mimic human cognitive functions such as learning and problem solving.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/artificial-intelligence-and-machine-learning?u=76281980&t=10)** AI-based systems use math and logic to simulate the reasoning used by people for learning new information and decision making.
 >
-> **[0:21](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/artificial-intelligence-and-machine-learning?u=76281980&t=21)** Microsoft Azure provides several AI solutions to choose from each one, depending on the problem that you're trying to solve, including Azure AI services and Machine Learning services.
+> **[0:21](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/artificial-intelligence-and-machine-learning?u=76281980&t=21)** [[Microsoft Azure]] provides several [[AI Solutions]] to choose from each one, depending on the problem that you're trying to solve, including [[Microsoft Azure|Azure]] AI services and Machine Learning services.
 >
 > **[0:36](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/artificial-intelligence-and-machine-learning?u=76281980&t=36)** Machine learning is an application of AI.
 >
@@ -2373,17 +2341,17 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/artificial-intelligence-and-machine-learning?u=76281980&t=100)** Let's look into some of the major capabilities of AI and ML.
 >
-> **[1:45](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/artificial-intelligence-and-machine-learning?u=76281980&t=105)** Predictive analytics: This capability helps companies predict trends and behavioral patterns by discovering cause-and-effect relationship in the data.
+> **[1:45](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/artificial-intelligence-and-machine-learning?u=76281980&t=105)** [[Predictive Analytics]]: This capability helps companies predict trends and behavioral patterns by discovering cause-and-effect relationship in the data.
 >
 > **[1:57](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/artificial-intelligence-and-machine-learning?u=76281980&t=117)** Say for instance, a company wants to predict the sales of a particular stock keeping unit in the coming quarter.
 >
 > **[2:05](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/artificial-intelligence-and-machine-learning?u=76281980&t=125)** Here, predictive analytics would help them to do so with procession.
 >
-> **[2:11](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/artificial-intelligence-and-machine-learning?u=76281980&t=131)** Recommendation engines: With recommendation engines, companies use data analysis to recommend products that someone might be interested in.
+> **[2:11](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/artificial-intelligence-and-machine-learning?u=76281980&t=131)** Recommendation engines: With recommendation engines, companies use data analysis to recommend [[Microsoft Products|products]] that someone might be interested in.
 >
-> **[2:23](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/artificial-intelligence-and-machine-learning?u=76281980&t=143)** Many e-commerce websites make use of recommendation engines to recommend suitable products for their customers.
+> **[2:23](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/artificial-intelligence-and-machine-learning?u=76281980&t=143)** Many [[E-Commerce]] websites make use of recommendation engines to recommend suitable products for their customers.
 >
-> **[2:31](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/artificial-intelligence-and-machine-learning?u=76281980&t=151)** Speech recognition and natural language understanding: Speech recognition enables a computer system to identify words and recognize meanings in written or spoken language.
+> **[2:31](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/artificial-intelligence-and-machine-learning?u=76281980&t=151)** [[Speech Recognition]] and natural language understanding: Speech recognition enables a computer system to identify words and recognize meanings in written or spoken language.
 >
 > **[2:44](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/artificial-intelligence-and-machine-learning?u=76281980&t=164)** This capability can be used for translating words in different languages.
 >
@@ -2407,19 +2375,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), [[Microsoft Azure|Azure]] (4), data (4), [[Predictive Analytics]] (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Predictive Analytics]] (2), [[Microsoft Products|Products]] (2), [[Speech Recognition]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** such as (2), for example (1), for instance (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** nba (1)
 > **Speakers:** - [instructor] (1)
 
-#### Serverless computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/serverless-computing?u=76281980)
+#### [Serverless computing](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/serverless-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/serverless-computing?u=76281980&t=0)** - [Instructor] Serverless computing is the evolution of cloud platforms in the direction of pure cloud native code.
+> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/serverless-computing?u=76281980&t=0)** - [Instructor] [[Serverless Computing]] is the evolution of cloud platforms in the direction of pure cloud native code.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/serverless-computing?u=76281980&t=8)** Serverless brings developers closer to the business logic, while insulating them from infrastructure concerns.
 >
@@ -2431,11 +2398,11 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/serverless-computing?u=76281980&t=45)** Firstly, there is no infrastructure management.
 >
-> **[0:49](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/serverless-computing?u=76281980&t=49)** Serverless computing helps team increase their productivity as the developers get to focus solely on developing the business logic and bring products to the market faster.
+> **[0:49](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/serverless-computing?u=76281980&t=49)** Serverless computing helps team increase their productivity as the developers get to focus solely on developing the business logic and bring [[Microsoft Products|products]] to the market faster.
 >
 > **[1:01](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/serverless-computing?u=76281980&t=61)** It allows organizations to better optimize resources and stay focused on innovation.
 >
-> **[1:08](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/serverless-computing?u=76281980&t=68)** Dynamic scalability: With serverless computing, the infrastructure dynamically scales up and down within seconds to match the workload demands.
+> **[1:08](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/serverless-computing?u=76281980&t=68)** Dynamic [[Scalability]]: With serverless computing, the infrastructure dynamically scales up and down within seconds to match the workload demands.
 >
 > **[1:19](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/serverless-computing?u=76281980&t=79)** Faster time to market: Serverless applications reduce the operations dependency on each development cycle, thereby, increasing development teams' agility to deliver more functionality in less time.
 >
@@ -2449,16 +2416,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Serverless Computing]] (6), cloud (3), business (2), management (2), teams (2)
+> **Frameworks & Libraries:** [[Serverless Computing]] (6), [[Microsoft Products|Products]] (1), [[Scalability]] (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure Advisor
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-advisor?u=76281980)
+#### [Azure Advisor](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-advisor?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-advisor?u=76281980&t=0)** - [Instructor] In this video, we'll learn about one of the most important offerings of Azure, which is popularly known as Azure Advisor.
+> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-advisor?u=76281980&t=0)** - [Instructor] In this video, we'll learn about one of the most important offerings of [[Microsoft Azure|Azure]], which is popularly known as Azure Advisor.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-advisor?u=76281980&t=9)** Advisor is a personalized cloud consultant that helps you follow best practices to optimize your Azure deployments.
 >
@@ -2478,7 +2444,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-advisor?u=76281980&t=82)** Here I only have one subscription, but you can apply filters for your subscriptions.
 >
-> **[1:28](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-advisor?u=76281980&t=88)** The recommendations are divided into five sections, namely, cost, security, reliability, operational excellence, and performance.
+> **[1:28](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-advisor?u=76281980&t=88)** The recommendations are divided into five sections, namely, cost, security, reliability, [[Operational Excellence]], and performance.
 >
 > **[1:41](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-advisor?u=76281980&t=101)** Right now we don't have any cost recommendations, security recommendations, but we have a reliability recommendation.
 >
@@ -2498,15 +2464,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Security]] (4), [[Operational Excellence]] (2), cloud (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Operational Excellence]] (2)
 > **Definitions:** known as (2), is a  (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** nat (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure Monitor
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-monitor?u=76281980)
+#### [Azure Monitor](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-monitor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2514,9 +2479,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-monitor?u=76281980&t=5)** Gaining visibility into health and performance of your application can be really challenging.
 >
-> **[0:11](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-monitor?u=76281980&t=11)** Fortunately, Microsoft offers a number of solutions that can help you react quickly to outages, research about intermittent issues, optimize your usage, and also help you in proactively handling future planned downtime.
+> **[0:11](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-monitor?u=76281980&t=11)** Fortunately, [[Microsoft]] offers a number of solutions that can help you [[React.js|react]] quickly to outages, research about intermittent issues, optimize your usage, and also help you in proactively handling future planned downtime.
 >
-> **[0:28](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-monitor?u=76281980&t=28)** Azure Monitor is one such comprehensive monitoring solution for collecting, analyzing, and responding to telemetry from your cloud and hybrid environments.
+> **[0:28](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-monitor?u=76281980&t=28)** [[Microsoft Azure|Azure]] Monitor is one such comprehensive monitoring solution for collecting, analyzing, and responding to telemetry from your cloud and hybrid environments.
 >
 > **[0:39](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-monitor?u=76281980&t=39)** You can use Azure Monitor to maximize the availability and performance of your applications and services.
 >
@@ -2534,7 +2499,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-monitor?u=76281980&t=88)** Under metrics, I'll select percentage CPU and average as aggregation.
 >
-> **[1:34](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-monitor?u=76281980&t=94)** So here you see there are two virtual machines hosted in East US location in my subscription, and I'm getting the CPU utilization for both these virtual machines for last 24 hours.
+> **[1:34](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-monitor?u=76281980&t=94)** So here you see there are two [[Virtual Machines]] hosted in East US location in my subscription, and I'm getting the CPU utilization for both these virtual machines for last 24 hours.
 >
 > **[1:46](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-monitor?u=76281980&t=106)** You can also change time here according to your requirement.
 >
@@ -2554,7 +2519,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), cloud (3), application (3), [[Microsoft]] (2), [[Virtual Machines]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Microsoft]] (2), [[Virtual Machines]] (2), [[React.js|React]] (1)
 > **Env Vars:** cpu (2)
 > **UI Navigation:** click on (1), go to (1)
 > **Speakers:** - [instructor] (1)
@@ -2564,12 +2529,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Azure pricing calculator
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980)
+#### [Azure pricing calculator](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980&t=0)** - [Instructor] The Azure pricing calculator, can help you understand the cost of moving workloads through Azure.
+> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980&t=0)** - [Instructor] The [[Microsoft Azure|Azure]] pricing calculator, can help you understand the cost of moving workloads through Azure.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980&t=7)** Pricing calculator also displays the price of different configurations of Azure services.
 >
@@ -2587,9 +2551,9 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980&t=66)** Select a region of your preference and leave it as default.
 >
-> **[1:10](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980&t=70)** You can choose between Windows or Linux operating system.
+> **[1:10](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980&t=70)** You can choose between [[Windows]] or [[Linux]] operating system.
 >
-> **[1:15](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980&t=75)** Do you want the cost of operating system only, BizTalk or a SQL Server?
+> **[1:15](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980&t=75)** Do you want the cost of operating system only, BizTalk or a [[Microsoft SQL Server|SQL Server]]?
 >
 > **[1:19](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980&t=79)** I'll leave it as default.
 >
@@ -2607,7 +2571,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980&t=109)** So I'll pick D12 v2.
 >
-> **[1:53](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980&t=113)** Number of virtual machines that you want to run for your solutions, I'll make it as two.
+> **[1:53](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980&t=113)** Number of [[Virtual Machines]] that you want to run for your solutions, I'll make it as two.
 >
 > **[1:59](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980&t=119)** And you can choose either per day cost, monthly cost, or hourly cost.
 >
@@ -2651,19 +2615,19 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980&t=231)** For your convenience, Azure pricing calculator provides some example scenarios.
 >
-> **[3:57](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980&t=237)** Say for instance, we will be taking advanced analytics on big data and click on add to estimate.
+> **[3:57](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980&t=237)** Say for instance, we will be taking advanced analytics on [[Big Data]] and click on add to estimate.
 >
-> **[4:07](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980&t=247)** So here, you see, the cost of running an entire solution in Azure on a monthly basis, which comes out to be $24,051 and 57 cents, including Azure services like Azure Synapse Analytics, Azure Analytics Services, Power BI, storage accounts and Azure Cosmos DB.
+> **[4:07](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980&t=247)** So here, you see, the cost of running an entire solution in Azure on a monthly basis, which comes out to be $24,051 and 57 cents, including Azure services like Azure Synapse Analytics, Azure Analytics Services, [[Microsoft Power BI|Power BI]], storage accounts and Azure Cosmos DB.
 >
 > **[4:30](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980&t=270)** I hope this gives a fair idea about using one of the most important costing tools, offered by Azure, which is the pricing calculator.
 >
 > **[4:41](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980&t=281)** One thing that you need to remember, is prices are estimates only and are not intended as actual price quotes.
 >
-> **[4:49](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980&t=289)** Actual price may vary depending on the type of agreement that your organization has with Microsoft, the date of purchase and the currency exchange rates.
+> **[4:49](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-pricing-calculator?u=76281980&t=289)** Actual price may vary depending on the type of agreement that your organization has with [[Microsoft]], the date of purchase and the currency exchange rates.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), cloud (3), [[Analytics]] (3), product (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Windows]] (1), [[Linux]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** sql (1), gpu (1), d12 (1), ssd (1), lrs (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (3)
@@ -2671,28 +2635,27 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Total Cost of Ownership Calculator
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/total-cost-of-ownership-calculator?u=76281980)
+#### [Total Cost of Ownership Calculator](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/total-cost-of-ownership-calculator?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/total-cost-of-ownership-calculator?u=76281980&t=0)** - [Instructor] Azure's Total Cost Of Running Calculator, popularly known as TCO Calculator, helps you estimate the cost saving of operating your solution on Azure over time when compared to operating the same solution in an on-premise data center.
+> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/total-cost-of-ownership-calculator?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]]'s Total Cost Of Running Calculator, popularly known as TCO Calculator, helps you estimate the cost saving of operating your solution on Azure over time when compared to operating the same solution in an on-premise data center.
 >
 > **[0:18](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/total-cost-of-ownership-calculator?u=76281980&t=18)** These costs include electricity, network maintenance, storage, database, IT labor, and other miscellaneous costs.
 >
 > **[0:29](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/total-cost-of-ownership-calculator?u=76281980&t=29)** Let us open the TCO page and look for the potential costs that can be saved by moving your on-prem workloads to Azure.
 >
-> **[0:39](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/total-cost-of-ownership-calculator?u=76281980&t=39)** The very first thing that you do after signing into a TCO calculator is to sign in using your Microsoft Azure account.
+> **[0:39](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/total-cost-of-ownership-calculator?u=76281980&t=39)** The very first thing that you do after signing into a TCO calculator is to sign in using your [[Microsoft Azure]] account.
 >
 > **[0:51](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/total-cost-of-ownership-calculator?u=76281980&t=51)** Enter the details of your on-premise server infrastructure.
 >
 > **[0:55](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/total-cost-of-ownership-calculator?u=76281980&t=55)** I'll add test workload.
 >
-> **[0:57](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/total-cost-of-ownership-calculator?u=76281980&t=57)** Is it a Windows or Linux server or a web application?
+> **[0:57](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/total-cost-of-ownership-calculator?u=76281980&t=57)** Is it a [[Windows]] or [[Linux]] server or a web application?
 >
 > **[1:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/total-cost-of-ownership-calculator?u=76281980&t=60)** I'll make it as Windows Linux server.
 >
-> **[1:02](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/total-cost-of-ownership-calculator?u=76281980&t=62)** I have physical servers, not virtual machines running in my data center.
+> **[1:02](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/total-cost-of-ownership-calculator?u=76281980&t=62)** I have physical servers, not [[Virtual Machines]] running in my data center.
 >
 > **[1:07](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/total-cost-of-ownership-calculator?u=76281980&t=67)** Operating system is Windows.
 >
@@ -2720,7 +2683,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/total-cost-of-ownership-calculator?u=76281980&t=113)** So I'll leave it as United States by default.
 >
-> **[1:57](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/total-cost-of-ownership-calculator?u=76281980&t=117)** The adjust assumptions page takes into the account the storage cost, IT labor cost, and other assumptions if you have, maybe hardware cost, software cost, electricity cost, virtualization cost, data center cost, network cost, database cost, data warehouse cost.
+> **[1:57](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/total-cost-of-ownership-calculator?u=76281980&t=117)** The adjust assumptions page takes into the account the storage cost, IT labor cost, and other assumptions if you have, maybe [[Hardware]] cost, software cost, electricity cost, virtualization cost, data center cost, network cost, database cost, data warehouse cost.
 >
 > **[2:18](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/total-cost-of-ownership-calculator?u=76281980&t=138)** I'll click on next.
 >
@@ -2732,7 +2695,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/total-cost-of-ownership-calculator?u=76281980&t=170)** Download the TCO calculator bulk upload template.
 >
-> **[2:54](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/total-cost-of-ownership-calculator?u=76281980&t=174)** Enter your on-premise information in the four tabs that would be provided in the Excel that that you have downloaded, and upload your Excel into the TCO calculator.
+> **[2:54](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/total-cost-of-ownership-calculator?u=76281980&t=174)** Enter your on-premise information in the four tabs that would be provided in the [[Microsoft Excel|Excel]] that that you have downloaded, and upload your Excel into the TCO calculator.
 >
 > **[3:04](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/total-cost-of-ownership-calculator?u=76281980&t=184)** You can drop your files here.
 >
@@ -2742,7 +2705,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), data (6), database (3), [[Windows]] (3), next (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Windows]] (3), [[Linux]] (2), [[Microsoft Excel|Excel]] (2), [[Microsoft Azure]] (1)
 > **Env Vars:** tco (7), cpu (2), ram (1)
 > **UI Navigation:** click on (2), open the (1)
 > **Exercise Files:** download the (1), template (1)
@@ -2750,8 +2713,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Factors affecting cost
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/factors-affecting-cost?u=76281980)
+#### [Factors affecting cost](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/factors-affecting-cost?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2759,7 +2721,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/factors-affecting-cost?u=76281980&t=9)** You need to have visibility into your costs, both historical as well as the projected costs.
 >
-> **[0:17](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/factors-affecting-cost?u=76281980&t=17)** Here we will look into eight ways to optimize your Azure costs so that you can do more with less, increase efficiency, reduce costs, and drive innovation with Azure.
+> **[0:17](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/factors-affecting-cost?u=76281980&t=17)** Here we will look into eight ways to optimize your [[Microsoft Azure|Azure]] costs so that you can do more with less, increase efficiency, reduce costs, and drive innovation with Azure.
 >
 > **[0:32](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/factors-affecting-cost?u=76281980&t=32)** Good way to begin is to follow Azure Advisor best practice recommendations for cost saving.
 >
@@ -2767,7 +2729,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/factors-affecting-cost?u=76281980&t=43)** Shut down unused resources.
 >
-> **[0:45](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/factors-affecting-cost?u=76281980&t=45)** Identify idle virtual machines, express route circuits, and other resources which are lying idle.
+> **[0:45](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/factors-affecting-cost?u=76281980&t=45)** Identify idle [[Virtual Machines]], express route circuits, and other resources which are lying idle.
 >
 > **[0:54](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/factors-affecting-cost?u=76281980&t=54)** Get recommendations from Azure advisors and shut down these unused resources after consulting your business.
 >
@@ -2787,9 +2749,9 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/factors-affecting-cost?u=76281980&t=122)** Take advantage of Azure Hybrid Benefits.
 >
-> **[2:05](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/factors-affecting-cost?u=76281980&t=125)** AWS is five times as expensive when compared to Azure for Windows and SQL servers.
+> **[2:05](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/factors-affecting-cost?u=76281980&t=125)** AWS is five times as expensive when compared to Azure for [[Windows]] and [[SQL]] servers.
 >
-> **[2:13](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/factors-affecting-cost?u=76281980&t=133)** To be specific, if you have already purchased license for Windows and SQL Server on-prem, you can bring those licenses in Azure Cloud, take advantage of hybrid benefits, and save big when you migrate your on-premise workloads to Azure.
+> **[2:13](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/factors-affecting-cost?u=76281980&t=133)** To be specific, if you have already purchased license for Windows and [[Microsoft SQL Server|SQL Server]] on-prem, you can bring those licenses in Azure Cloud, take advantage of hybrid benefits, and save big when you migrate your on-premise workloads to Azure.
 >
 > **[2:31](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/factors-affecting-cost?u=76281980&t=151)** Also, when you are creating a new resource or a new virtual machine, you get an option to check the box, Hybrid Benefits, which will help you save the license cost.
 >
@@ -2811,13 +2773,13 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/factors-affecting-cost?u=76281980&t=204)** You can also set budget alerts on consuming a specific amount of your allocated budget so that you can keep a check on your spending.
 >
-> **[3:34](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/factors-affecting-cost?u=76281980&t=214)** Finally, you'll find a lot of success stories where customers gained significant benefits like enterprise-wide awareness and best cost management processes by using the guidelines.
+> **[3:34](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/factors-affecting-cost?u=76281980&t=214)** Finally, you'll find a lot of success stories where customers gained significant benefits like enterprise-wide awareness and best [[Cost Management]] processes by using the guidelines.
 >
 > **[3:48](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/factors-affecting-cost?u=76281980&t=228)** So this page precisely shows you the customer success stories who have used the cost optimization pillar of Cloud Adoption Framework from Azure.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), cloud (4), [[Windows]] (2), [[Virtual Machines]] (1), express (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), [[Windows]] (2), [[Virtual Machines]] (1), [[SQL]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Prerequisites:** configure (2), you need to have (1), set up (1)
 > **Env Vars:** sql (2), aws (1)
 > **CLI Commands:** aws (1), find (1)
@@ -2825,12 +2787,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure SLAs
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-slas?u=76281980)
+#### [Azure SLAs](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-slas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-slas?u=76281980&t=0)** - [Instructor] In today's digital world, many organizations are looking at cloud technologies to improve business operations and support growth into new markets.
+> **[0:00](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-slas?u=76281980&t=0)** - [Instructor] In today's digital world, many organizations are looking at cloud technologies to improve [[Business Operations]] and support growth into new markets.
 >
 > **[0:11](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-slas?u=76281980&t=11)** Moving to the cloud removes the burden of supporting IT infrastructure.
 >
@@ -2846,7 +2807,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-slas?u=76281980&t=53)** Understanding this SLA is important as it helps understand what kind of a service continuity can the customer expect.
 >
-> **[1:03](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-slas?u=76281980&t=63)** Each Azure service defines its own SLA.
+> **[1:03](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-slas?u=76281980&t=63)** Each [[Microsoft Azure|Azure]] service defines its own SLA.
 >
 > **[1:08](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-slas?u=76281980&t=68)** Azure's SLAs are represented as a percentage related to the service or application availability.
 >
@@ -2884,11 +2845,11 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-slas?u=76281980&t=201)** Furthermore, you do not need any Azure subscription to review your service SLAs.
 >
-> **[3:28](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-slas?u=76281980&t=208)** To learn more details about SLAs, refer to the Microsoft Learn module, which gives you an overview of choosing the right Azure service by examining SLAs and service lifecycle.
+> **[3:28](https://www.linkedin.com/learning/azure-cloud-fundamentals-explore-cloud-services/azure-slas?u=76281980&t=208)** To learn more details about SLAs, refer to the [[Microsoft]] Learn module, which gives you an overview of choosing the right Azure service by examining SLAs and service lifecycle.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), cloud (4), business (1), application (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Business Operations]] (1), [[Microsoft]] (1)
 > **Env Vars:** sla (12)
 > **Versions:** 99.999 (2), 99.9 (1), 99.95 (1), 99.99 (1), 1.68 (1)
 > **Definitions:** known as (2), is a  (1)

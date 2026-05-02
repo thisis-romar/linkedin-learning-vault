@@ -86,12 +86,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Curtain call for WordPress: Why staging your site matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/curtain-call-for-wordpress-why-staging-your-site-matters-25337663?u=76281980)
+#### [Curtain call for WordPress: Why staging your site matters](https://www.linkedin.com/learning/wordpress-staging-a-site/curtain-call-for-wordpress-why-staging-your-site-matters-25337663?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-staging-a-site/curtain-call-for-wordpress-why-staging-your-site-matters-25337663?u=76281980&t=0)** - WordPress is one of the fastest growing CMS platforms on the web.
+> **[0:00](https://www.linkedin.com/learning/wordpress-staging-a-site/curtain-call-for-wordpress-why-staging-your-site-matters-25337663?u=76281980&t=0)** - [[WordPress]] is one of the fastest growing CMS platforms on the web.
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-staging-a-site/curtain-call-for-wordpress-why-staging-your-site-matters-25337663?u=76281980&t=4)** It's amazing how many websites are created with WordPress every single day, but what you may not know is that in order for a WordPress site to be truly successful, having a staging site is crucial.
 >
@@ -107,7 +106,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (5), cms (1), web (1)
+> **Frameworks & Libraries:** [[WordPress]] (5)
 > **CLI Commands:** make (1)
 > **Env Vars:** cms (1)
 > **Speakers:** - wordpress (1)
@@ -117,8 +116,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining a staging site
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/defining-a-staging-site?u=76281980)
+#### [Defining a staging site](https://www.linkedin.com/learning/wordpress-staging-a-site/defining-a-staging-site?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -146,18 +144,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), database (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pros of using a staging site
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/pros-of-using-a-staging-site?u=76281980)
+#### [Pros of using a staging site](https://www.linkedin.com/learning/wordpress-staging-a-site/pros-of-using-a-staging-site?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-staging-a-site/pros-of-using-a-staging-site?u=76281980&t=0)** - [Instructor] There are so many benefits to using a staging site with WordPress.
+> **[0:00](https://www.linkedin.com/learning/wordpress-staging-a-site/pros-of-using-a-staging-site?u=76281980&t=0)** - [Instructor] There are so many benefits to using a staging site with [[WordPress]].
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-staging-a-site/pros-of-using-a-staging-site?u=76281980&t=4)** In my opinion, the pros far outweigh the cons.
 >
@@ -199,19 +195,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (2), [[Troubleshooting]] (1), business (1)
+> **Frameworks & Libraries:** [[WordPress]] (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Env Vars:** url (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cons of using a staging site
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/cons-of-using-a-staging-site?u=76281980)
+#### [Cons of using a staging site](https://www.linkedin.com/learning/wordpress-staging-a-site/cons-of-using-a-staging-site?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-staging-a-site/cons-of-using-a-staging-site?u=76281980&t=0)** - [Instructor] There are a few challenges you might face when setting up or using your WordPress staging site.
+> **[0:00](https://www.linkedin.com/learning/wordpress-staging-a-site/cons-of-using-a-staging-site?u=76281980&t=0)** - [Instructor] There are a few challenges you might face when setting up or using your [[WordPress]] staging site.
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-staging-a-site/cons-of-using-a-staging-site?u=76281980&t=6)** Don't let these challenges deter you from using one, but instead, use this information to prepare.
 >
@@ -242,12 +237,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### WP Staging
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/wp-staging?u=76281980)
+#### [WP Staging](https://www.linkedin.com/learning/wordpress-staging-a-site/wp-staging?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-staging-a-site/wp-staging?u=76281980&t=0)** - The WP STAGING WordPress plugin is an automated backup solution that has a built-in staging feature.
+> **[0:00](https://www.linkedin.com/learning/wordpress-staging-a-site/wp-staging?u=76281980&t=0)** - The WP STAGING [[WordPress]] plugin is an automated backup solution that has a built-in staging feature.
 >
 > **[0:07](https://www.linkedin.com/learning/wordpress-staging-a-site/wp-staging?u=76281980&t=7)** If you need a robust plugin to help you set up your staging environment, WP STAGING is a great option.
 >
@@ -295,7 +289,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (1), feature (1), [[Search]] (1), database (1)
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **Env Vars:** staging (6)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (2), is an  (1)
@@ -304,18 +298,17 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Best Practices:** it's best to (1)
 
-#### WPVivid Backup
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/wpvivid-backup?u=76281980)
+#### [WPVivid Backup](https://www.linkedin.com/learning/wordpress-staging-a-site/wpvivid-backup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-staging-a-site/wpvivid-backup?u=76281980&t=0)** - [Instructor] The WPvivid WordPress plugin is a free backup plugin that also has a staging feature.
+> **[0:00](https://www.linkedin.com/learning/wordpress-staging-a-site/wpvivid-backup?u=76281980&t=0)** - [Instructor] The WPvivid [[WordPress]] plugin is a free backup plugin that also has a staging feature.
 >
 > **[0:07](https://www.linkedin.com/learning/wordpress-staging-a-site/wpvivid-backup?u=76281980&t=7)** So if you're looking for a beginner-friendly and easy to use plugin for creating staging sites, look to WPvivid.
 >
 > **[0:14](https://www.linkedin.com/learning/wordpress-staging-a-site/wpvivid-backup?u=76281980&t=14)** Let's talk about how to create a staging site environment with WPvivid.
 >
-> **[0:19](https://www.linkedin.com/learning/wordpress-staging-a-site/wpvivid-backup?u=76281980&t=19)** Remember that it's free to create a staging site with this plugin, but you'll need to upgrade to their Pro plan in order to push changes from staging to live.
+> **[0:19](https://www.linkedin.com/learning/wordpress-staging-a-site/wpvivid-backup?u=76281980&t=19)** Remember that it's free to create a staging site with this plugin, but you'll need to upgrade to their Pro plan in order to push changes from [[Staging to Live]].
 >
 > **[0:30](https://www.linkedin.com/learning/wordpress-staging-a-site/wpvivid-backup?u=76281980&t=30)** On the Plugins page, search for WPvivid.
 >
@@ -351,7 +344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (2), feature (1), [[Staging to Live]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[Staging to Live]] (1)
 > **Prerequisites:** you'll need (2), install (2)
 > **CLI Commands:** find (3)
 > **Env Vars:** url (1)
@@ -360,12 +353,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### All-in-One WP Migration plug-in
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/all-in-one-wp-migration-25339676?u=76281980)
+#### [All-in-One WP Migration plug-in](https://www.linkedin.com/learning/wordpress-staging-a-site/all-in-one-wp-migration-25339676?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-staging-a-site/all-in-one-wp-migration-25339676?u=76281980&t=0)** - [Instructor] The All-In-One Migration WordPress Plugin is a migration plugin that enables you to create a staging site as well.
+> **[0:00](https://www.linkedin.com/learning/wordpress-staging-a-site/all-in-one-wp-migration-25339676?u=76281980&t=0)** - [Instructor] The All-In-One Migration [[WordPress]] Plugin is a migration plugin that enables you to create a staging site as well.
 >
 > **[0:07](https://www.linkedin.com/learning/wordpress-staging-a-site/all-in-one-wp-migration-25339676?u=76281980&t=7)** It's a slightly more complex option that requires a little more technical knowledge.
 >
@@ -403,7 +395,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), database (1)
+> **Frameworks & Libraries:** [[WordPress]] (3)
 > **UI Navigation:** go to (3), drag and drop (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
@@ -412,12 +404,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Duplicator
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/duplicator?u=76281980)
+#### [Duplicator](https://www.linkedin.com/learning/wordpress-staging-a-site/duplicator?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-staging-a-site/duplicator?u=76281980&t=0)** - The Duplicator Pro WordPress plugin is a great paid option for making a quick copy or duplicate of your WordPress website which can then be saved as a backup, or used to create a staging website.
+> **[0:00](https://www.linkedin.com/learning/wordpress-staging-a-site/duplicator?u=76281980&t=0)** - The Duplicator Pro [[WordPress]] plugin is a great paid option for making a quick copy or duplicate of your WordPress website which can then be saved as a backup, or used to create a staging website.
 >
 > **[0:12](https://www.linkedin.com/learning/wordpress-staging-a-site/duplicator?u=76281980&t=12)** To get started, search for the Duplicator Plugin on your plugin screen.
 >
@@ -465,7 +456,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/wordpress-staging-a-site/duplicator?u=76281980&t=124)** It should look something like.
 >
-> **[2:07](https://www.linkedin.com/learning/wordpress-staging-a-site/duplicator?u=76281980&t=127)** Go to your website's URL, then add slash /installer.php.
+> **[2:07](https://www.linkedin.com/learning/wordpress-staging-a-site/duplicator?u=76281980&t=127)** Go to your website's URL, then add slash /installer.[[PHP]].
 >
 > **[2:15](https://www.linkedin.com/learning/wordpress-staging-a-site/duplicator?u=76281980&t=135)** There will be a handy wizard here to help you add the old site files to your new install.
 >
@@ -481,7 +472,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[WordPress]] (2), database (2), [[Search]] (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[PHP]] (1)
 > **UI Navigation:** go to (3)
 > **Prerequisites:** install (3)
 > **CLI Commands:** make (1), php (1)
@@ -495,8 +486,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Local by Flywheel
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/local-by-flywheel?u=76281980)
+#### [Local by Flywheel](https://www.linkedin.com/learning/wordpress-staging-a-site/local-by-flywheel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -524,7 +514,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/wordpress-staging-a-site/local-by-flywheel?u=76281980&t=65)** If this is the first time that you're creating a site, use the preferred environment settings.
 >
-> **[1:10](https://www.linkedin.com/learning/wordpress-staging-a-site/local-by-flywheel?u=76281980&t=70)** If you need to use a specific PHP version, web server, or database option, you can add those in the custom area.
+> **[1:10](https://www.linkedin.com/learning/wordpress-staging-a-site/local-by-flywheel?u=76281980&t=70)** If you need to use a specific [[PHP]] version, web server, or database option, you can add those in the custom area.
 >
 > **[1:19](https://www.linkedin.com/learning/wordpress-staging-a-site/local-by-flywheel?u=76281980&t=79)** Set the username, password, and email address that you'd like to use for the administrator account.
 >
@@ -542,19 +532,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[PHP]] (1), web (1), database (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **Env Vars:** create (1), site (1), php (1), admin (1)
 > **CLI Commands:** php (1), make (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### DevKinsta
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/devkinsta?u=76281980)
+#### [DevKinsta](https://www.linkedin.com/learning/wordpress-staging-a-site/devkinsta?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-staging-a-site/devkinsta?u=76281980&t=0)** - [Instructor] DevKinsta is a new, free local WordPress development suite that works for free on your local machine.
+> **[0:00](https://www.linkedin.com/learning/wordpress-staging-a-site/devkinsta?u=76281980&t=0)** - [Instructor] DevKinsta is a new, free local [[Wordpress Development]] suite that works for free on your local machine.
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-staging-a-site/devkinsta?u=76281980&t=8)** This is a great option if you already host your website with Kinsta.
 >
@@ -562,7 +551,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/wordpress-staging-a-site/devkinsta?u=76281980&t=18)** After downloading the tool from Kinsta's website, open up the application, it should look something like this.
 >
-> **[0:25](https://www.linkedin.com/learning/wordpress-staging-a-site/devkinsta?u=76281980&t=25)** If you're just starting to build, choose to create a brand new WordPress site.
+> **[0:25](https://www.linkedin.com/learning/wordpress-staging-a-site/devkinsta?u=76281980&t=25)** If you're just starting to build, choose to create a brand new [[WordPress]] site.
 >
 > **[0:31](https://www.linkedin.com/learning/wordpress-staging-a-site/devkinsta?u=76281980&t=31)** You can also import from Kinsta, which is a good option if you've already built a site that is hosted with Kinsta and you want to add a staging version.
 >
@@ -604,7 +593,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (4), [[Wordpress Development]] (1), application (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), [[Wordpress Development]] (1)
 > **UI Navigation:** open the (1), go to (1), select the (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** go back to (1)
@@ -616,8 +605,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SiteGround
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/siteground-25333732?u=76281980)
+#### [SiteGround](https://www.linkedin.com/learning/wordpress-staging-a-site/siteground-25333732?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -627,7 +615,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/wordpress-staging-a-site/siteground-25333732?u=76281980&t=11)** Once logged in, navigate to the site tools area of your account and it should look something like this.
 >
-> **[0:17](https://www.linkedin.com/learning/wordpress-staging-a-site/siteground-25333732?u=76281980&t=17)** Go to WordPress and then Staging.
+> **[0:17](https://www.linkedin.com/learning/wordpress-staging-a-site/siteground-25333732?u=76281980&t=17)** Go to [[WordPress]] and then Staging.
 >
 > **[0:21](https://www.linkedin.com/learning/wordpress-staging-a-site/siteground-25333732?u=76281980&t=21)** Add a staging name, it should be something very clear, but concise like staging or testing.
 >
@@ -663,8 +651,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bluehost
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/bluehost?u=76281980)
+#### [Bluehost](https://www.linkedin.com/learning/wordpress-staging-a-site/bluehost?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -676,7 +663,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/wordpress-staging-a-site/bluehost?u=76281980&t=15)** Just ask your support team.
 >
-> **[0:17](https://www.linkedin.com/learning/wordpress-staging-a-site/bluehost?u=76281980&t=17)** Begin by opening up your WordPress site that's hosted with Bluehost.
+> **[0:17](https://www.linkedin.com/learning/wordpress-staging-a-site/bluehost?u=76281980&t=17)** Begin by opening up your [[WordPress]] site that's hosted with Bluehost.
 >
 > **[0:21](https://www.linkedin.com/learning/wordpress-staging-a-site/bluehost?u=76281980&t=21)** Select the Bluehost menu, then Staging.
 >
@@ -701,8 +688,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### WP Engine
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/wp-engine?u=76281980)
+#### [WP Engine](https://www.linkedin.com/learning/wordpress-staging-a-site/wp-engine?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -755,8 +741,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Warnings and precautions
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/warnings-and-precautions?u=76281980)
+#### [Warnings and precautions](https://www.linkedin.com/learning/wordpress-staging-a-site/warnings-and-precautions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -789,8 +774,7 @@ created: 2026-05-02
 > **CLI Commands:** make (3), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Walk-through
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/walk-through-25341522?u=76281980)
+#### [Walk-through](https://www.linkedin.com/learning/wordpress-staging-a-site/walk-through-25341522?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -828,7 +812,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/wordpress-staging-a-site/walk-through-25341522?u=76281980&t=99)** Make sure to save this information in a secure place before you move on.
 >
-> **[1:44](https://www.linkedin.com/learning/wordpress-staging-a-site/walk-through-25341522?u=76281980&t=104)** Now, we just have to upload the WordPress files to the staging site.
+> **[1:44](https://www.linkedin.com/learning/wordpress-staging-a-site/walk-through-25341522?u=76281980&t=104)** Now, we just have to upload the [[WordPress]] files to the staging site.
 >
 > **[1:50](https://www.linkedin.com/learning/wordpress-staging-a-site/walk-through-25341522?u=76281980&t=110)** You can do this by going to [wordpress.org](https://wordpress.org) and downloading the latest available version of WordPress.
 >
@@ -880,7 +864,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/wordpress-staging-a-site/walk-through-25341522?u=76281980&t=234)** When this matches up, choose Export.
 >
-> **[3:57](https://www.linkedin.com/learning/wordpress-staging-a-site/walk-through-25341522?u=76281980&t=237)** This will download a file to your computer, and once that's done, you want to go back to your host, choose MySQL and Create a Database.
+> **[3:57](https://www.linkedin.com/learning/wordpress-staging-a-site/walk-through-25341522?u=76281980&t=237)** This will download a file to your computer, and once that's done, you want to go back to your host, choose [[MySQL]] and Create a Database.
 >
 > **[4:10](https://www.linkedin.com/learning/wordpress-staging-a-site/walk-through-25341522?u=76281980&t=250)** Now, create a user.
 >
@@ -922,11 +906,11 @@ created: 2026-05-02
 >
 > **[5:58](https://www.linkedin.com/learning/wordpress-staging-a-site/walk-through-25341522?u=76281980&t=358)** Make sure that the Discourage search engines from indexing this site option is checked.
 >
-> **[6:04](https://www.linkedin.com/learning/wordpress-staging-a-site/walk-through-25341522?u=76281980&t=364)** That way, if someone searches for your site or your business on Google, Google won't list this staging site as a result.
+> **[6:04](https://www.linkedin.com/learning/wordpress-staging-a-site/walk-through-25341522?u=76281980&t=364)** That way, if someone searches for your site or your business on [[Google]], Google won't list this staging site as a result.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), [[WordPress]] (5), next (5), [[Search]] (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[WordPress]] (5), [[Google]] (2), [[MySQL]] (1)
 > **CLI Commands:** find (7), make (5), mysql (1)
 > **UI Navigation:** go to (7), navigate to (2)
 > **Env Vars:** ftp (5), url (1)
@@ -940,8 +924,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Staging site best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/staging-site-best-practices?u=76281980)
+#### [Staging site best practices](https://www.linkedin.com/learning/wordpress-staging-a-site/staging-site-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -955,7 +938,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/wordpress-staging-a-site/staging-site-best-practices?u=76281980&t=18)** Always take full backups before making changes and before deploying staging changes.
 >
-> **[0:24](https://www.linkedin.com/learning/wordpress-staging-a-site/staging-site-best-practices?u=76281980&t=24)** That means you back up WordPress core files, theme and plugin files, media files, and database files to a safe location.
+> **[0:24](https://www.linkedin.com/learning/wordpress-staging-a-site/staging-site-best-practices?u=76281980&t=24)** That means you back up [[WordPress]] core files, theme and plugin files, media files, and database files to a safe location.
 >
 > **[0:33](https://www.linkedin.com/learning/wordpress-staging-a-site/staging-site-best-practices?u=76281980&t=33)** There are tons of low-cost tools out there to help you with this.
 >
@@ -967,7 +950,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/wordpress-staging-a-site/staging-site-best-practices?u=76281980&t=51)** This could overwrite or wipe your production data, and this means losing tons of potentially vital information for your website.
 >
-> **[0:58](https://www.linkedin.com/learning/wordpress-staging-a-site/staging-site-best-practices?u=76281980&t=58)** For example, if you have an E-commerce store, accounts and purchase data are going to be stored in the database, and this is not information you want to compromise.
+> **[0:58](https://www.linkedin.com/learning/wordpress-staging-a-site/staging-site-best-practices?u=76281980&t=58)** For example, if you have an [[E-Commerce]] store, accounts and purchase data are going to be stored in the database, and this is not information you want to compromise.
 >
 > **[1:08](https://www.linkedin.com/learning/wordpress-staging-a-site/staging-site-best-practices?u=76281980&t=68)** Three, disable emails.
 >
@@ -1027,7 +1010,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[WordPress]] (2), data (2), [[E-Commerce]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[E-Commerce]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Best Practices:** always make sure (1), remember to (1)
@@ -1035,8 +1018,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preflight checklist
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/preflight-checklist?u=76281980)
+#### [Preflight checklist](https://www.linkedin.com/learning/wordpress-staging-a-site/preflight-checklist?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1066,13 +1048,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), [[Troubleshooting]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Syncing content
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/syncing-content?u=76281980)
+#### [Syncing content](https://www.linkedin.com/learning/wordpress-staging-a-site/syncing-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1080,7 +1060,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-staging-a-site/syncing-content?u=76281980&t=8)** It's important that the two sites remain in sync as much as possible.
 >
-> **[0:12](https://www.linkedin.com/learning/wordpress-staging-a-site/syncing-content?u=76281980&t=12)** If not, you could push changes from staging to live and accidentally overwrite important changes that were made to the live site.
+> **[0:12](https://www.linkedin.com/learning/wordpress-staging-a-site/syncing-content?u=76281980&t=12)** If not, you could push changes from [[Staging to Live]] and accidentally overwrite important changes that were made to the live site.
 >
 > **[0:20](https://www.linkedin.com/learning/wordpress-staging-a-site/syncing-content?u=76281980&t=20)** So for example, say your live site is an eCommerce shop.
 >
@@ -1100,23 +1080,22 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/wordpress-staging-a-site/syncing-content?u=76281980&t=66)** If you're already using a plugin for your staging site, chances are that plugin can already help you with synchronization.
 >
-> **[1:14](https://www.linkedin.com/learning/wordpress-staging-a-site/syncing-content?u=76281980&t=74)** You can also utilize MySQL synchronization tools.
+> **[1:14](https://www.linkedin.com/learning/wordpress-staging-a-site/syncing-content?u=76281980&t=74)** You can also utilize [[MySQL]] synchronization tools.
 >
-> **[1:18](https://www.linkedin.com/learning/wordpress-staging-a-site/syncing-content?u=76281980&t=78)** Find a good MySQL database management tool that offers database import, export, and or synchronization facilities.
+> **[1:18](https://www.linkedin.com/learning/wordpress-staging-a-site/syncing-content?u=76281980&t=78)** Find a good MySQL [[Database Management]] tool that offers database import, export, and or synchronization facilities.
 >
 > **[1:26](https://www.linkedin.com/learning/wordpress-staging-a-site/syncing-content?u=76281980&t=86)** Examples include MySQL workbench, Symmetric's DS or MySQL Replication.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (4), database (2), [[Staging to Live]] (1), data (1), management (1)
+> **Frameworks & Libraries:** [[MySQL]] (4), [[Staging to Live]] (1), [[Database Management]] (1)
 > **CLI Commands:** mysql (4), find (1)
 > **Code Identifiers:** ecommerce (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Switching from staging to production
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/switching-from-staging-to-production?u=76281980)
+#### [Switching from staging to production](https://www.linkedin.com/learning/wordpress-staging-a-site/switching-from-staging-to-production?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1134,7 +1113,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/wordpress-staging-a-site/switching-from-staging-to-production?u=76281980&t=42)** This could get a little tricky, so make sure you take backups of both your live and staging site before you begin.
 >
-> **[0:50](https://www.linkedin.com/learning/wordpress-staging-a-site/switching-from-staging-to-production?u=76281980&t=50)** Remember, a WordPress site is made up of two sets of files, your WordPress files and your database files.
+> **[0:50](https://www.linkedin.com/learning/wordpress-staging-a-site/switching-from-staging-to-production?u=76281980&t=50)** Remember, a [[WordPress]] site is made up of two sets of files, your WordPress files and your database files.
 >
 > **[0:57](https://www.linkedin.com/learning/wordpress-staging-a-site/switching-from-staging-to-production?u=76281980&t=57)** We need to download the staging versions of both so that we can upload them onto the live environment.
 >
@@ -1146,7 +1125,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/wordpress-staging-a-site/switching-from-staging-to-production?u=76281980&t=80)** Log into your hosting account and find phpMyAdmin.
 >
-> **[1:25](https://www.linkedin.com/learning/wordpress-staging-a-site/switching-from-staging-to-production?u=76281980&t=85)** There will be a menu on the left-hand side that lists the databases of sites on your host.
+> **[1:25](https://www.linkedin.com/learning/wordpress-staging-a-site/switching-from-staging-to-production?u=76281980&t=85)** There will be a menu on the left-hand side that lists the [[Databases]] of sites on your host.
 >
 > **[1:30](https://www.linkedin.com/learning/wordpress-staging-a-site/switching-from-staging-to-production?u=76281980&t=90)** You should see both your staging and live site databases here.
 >
@@ -1158,7 +1137,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/wordpress-staging-a-site/switching-from-staging-to-production?u=76281980&t=107)** Step three is to point your wp-config file to the live database.
 >
-> **[1:53](https://www.linkedin.com/learning/wordpress-staging-a-site/switching-from-staging-to-production?u=76281980&t=113)** Open the public HTML folder you downloaded as a part of the staging WordPress files, and locate the wp-config file.
+> **[1:53](https://www.linkedin.com/learning/wordpress-staging-a-site/switching-from-staging-to-production?u=76281980&t=113)** Open the public [[HTML]] folder you downloaded as a part of the staging WordPress files, and locate the wp-config file.
 >
 > **[2:01](https://www.linkedin.com/learning/wordpress-staging-a-site/switching-from-staging-to-production?u=76281980&t=121)** Open it up in a file editor.
 >
@@ -1206,7 +1185,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (11), database (9), [[Search]] (4), [[Databases]] (2), [[HTML]] (2)
+> **Frameworks & Libraries:** [[WordPress]] (11), [[Databases]] (2), [[HTML]] (2)
 > **CLI Commands:** make (3), find (3)
 > **Env Vars:** ftp (2), html (2), url (2)
 > **UI Navigation:** click on (1), open the (1), select the (1), navigate to (1), go to (1)
@@ -1215,8 +1194,7 @@ created: 2026-05-02
 > **Prerequisites:** before you begin (1), install (1)
 > **Cross-References:** we discussed (1)
 
-#### Post-switch checklist
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/post-switch-checklist?u=76281980)
+#### [Post-switch checklist](https://www.linkedin.com/learning/wordpress-staging-a-site/post-switch-checklist?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1254,7 +1232,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (6), find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1264,8 +1241,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Caching issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/caching-issues-25339675?u=76281980)
+#### [Caching issues](https://www.linkedin.com/learning/wordpress-staging-a-site/caching-issues-25339675?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1291,7 +1267,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/wordpress-staging-a-site/caching-issues-25339675?u=76281980&t=74)** When you've isolated which browser is caching the wrong information, find the setting that allows you to clear the cache.
 >
-> **[1:21](https://www.linkedin.com/learning/wordpress-staging-a-site/caching-issues-25339675?u=76281980&t=81)** So for example, in Google Chrome, I can do this by going to history, then clear browsing data.
+> **[1:21](https://www.linkedin.com/learning/wordpress-staging-a-site/caching-issues-25339675?u=76281980&t=81)** So for example, in [[Google]] Chrome, I can do this by going to history, then clear browsing data.
 >
 > **[1:29](https://www.linkedin.com/learning/wordpress-staging-a-site/caching-issues-25339675?u=76281980&t=89)** I select the cache options and let it run.
 >
@@ -1315,7 +1291,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), css (1), [[Google]] (1), data (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** select the (1), go to (1)
 > **Analogies:** for example (2)
@@ -1324,8 +1300,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Error page when viewing staging site
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/error-page-when-viewing-staging-site-25336645?u=76281980)
+#### [Error page when viewing staging site](https://www.linkedin.com/learning/wordpress-staging-a-site/error-page-when-viewing-staging-site-25336645?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1335,7 +1310,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/wordpress-staging-a-site/error-page-when-viewing-staging-site-25336645?u=76281980&t=15)** Not to worry, there are a few things that we can do to fix this error page pretty quickly.
 >
-> **[0:21](https://www.linkedin.com/learning/wordpress-staging-a-site/error-page-when-viewing-staging-site-25336645?u=76281980&t=21)** If you're using a staging plugin or hosting tools, check their FAQ or customer support.
+> **[0:21](https://www.linkedin.com/learning/wordpress-staging-a-site/error-page-when-viewing-staging-site-25336645?u=76281980&t=21)** If you're using a staging plugin or hosting tools, check their FAQ or [[Customer Support]].
 >
 > **[0:27](https://www.linkedin.com/learning/wordpress-staging-a-site/error-page-when-viewing-staging-site-25336645?u=76281980&t=27)** This is not an uncommon problem, and chances are you can find a solution there pretty quickly.
 >
@@ -1345,7 +1320,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/wordpress-staging-a-site/error-page-when-viewing-staging-site-25336645?u=76281980&t=46)** Make sure that the permalinks here match across both sites.
 >
-> **[0:51](https://www.linkedin.com/learning/wordpress-staging-a-site/error-page-when-viewing-staging-site-25336645?u=76281980&t=51)** Click two times on the save changes button; this will force WordPress to recreate all the links on your site just in case they got stuck on the wrong option.
+> **[0:51](https://www.linkedin.com/learning/wordpress-staging-a-site/error-page-when-viewing-staging-site-25336645?u=76281980&t=51)** Click two times on the save changes button; this will force [[WordPress]] to recreate all the links on your site just in case they got stuck on the wrong option.
 >
 > **[1:01](https://www.linkedin.com/learning/wordpress-staging-a-site/error-page-when-viewing-staging-site-25336645?u=76281980&t=61)** If this does not work, it's possible you have a CDN enabled that's causing the issue.
 >
@@ -1370,8 +1345,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Staging redirects to live site
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/staging-redirects-to-live-site?u=76281980)
+#### [Staging redirects to live site](https://www.linkedin.com/learning/wordpress-staging-a-site/staging-redirects-to-live-site?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1385,7 +1359,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/wordpress-staging-a-site/staging-redirects-to-live-site?u=76281980&t=29)** Look over your plugins page and disable any redirection plugin that you see to see if it resolves the issue.
 >
-> **[0:36](https://www.linkedin.com/learning/wordpress-staging-a-site/staging-redirects-to-live-site?u=76281980&t=36)** Next let's make sure that the URLs in WordPress are correct.
+> **[0:36](https://www.linkedin.com/learning/wordpress-staging-a-site/staging-redirects-to-live-site?u=76281980&t=36)** Next let's make sure that the URLs in [[WordPress]] are correct.
 >
 > **[0:41](https://www.linkedin.com/learning/wordpress-staging-a-site/staging-redirects-to-live-site?u=76281980&t=41)** Go to settings, general, and ensure that the WordPress address and site address are both correct.
 >
@@ -1407,7 +1381,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (2), next (1)
+> **Frameworks & Libraries:** [[WordPress]] (2)
 > **CLI Commands:** make (2), find (2)
 > **UI Navigation:** go to (2)
 > **Env Vars:** ftp (1)
@@ -1418,8 +1392,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-staging-a-site/next-steps-25334693?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/wordpress-staging-a-site/next-steps-25334693?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1429,7 +1402,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-staging-a-site/next-steps-25334693?u=76281980&t=6)** Now, you should be able to create your own staging site and begin using it to support your website goals.
 >
-> **[0:13](https://www.linkedin.com/learning/wordpress-staging-a-site/next-steps-25334693?u=76281980&t=13)** If you're interested in learning more about WordPress, check out my "[[WordPress Essential Training]]" course.
+> **[0:13](https://www.linkedin.com/learning/wordpress-staging-a-site/next-steps-25334693?u=76281980&t=13)** If you're interested in learning more about [[WordPress]], check out my "[[WordPress Essential Training]]" course.
 >
 > **[0:18](https://www.linkedin.com/learning/wordpress-staging-a-site/next-steps-25334693?u=76281980&t=18)** There is so much to learn and accomplish when it comes to WordPress, and your journey has only just begun.
 

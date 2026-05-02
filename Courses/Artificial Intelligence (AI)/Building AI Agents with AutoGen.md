@@ -81,12 +81,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Let's build some AI agents with AutoGen
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/let-s-build-some-ai-agents-with-autogen?u=76281980)
+#### [Let's build some AI agents with AutoGen](https://www.linkedin.com/learning/building-ai-agents-with-autogen/let-s-build-some-ai-agents-with-autogen?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-ai-agents-with-autogen/let-s-build-some-ai-agents-with-autogen?u=76281980&t=0)** Imagine having a team of AI agents at your fingertips, collaborating to solve complex problems, conduct research, and even write code.
+> **[0:00](https://www.linkedin.com/learning/building-ai-agents-with-autogen/let-s-build-some-ai-agents-with-autogen?u=76281980&t=0)** Imagine having a team of [[AI Agents]] at your fingertips, collaborating to solve complex problems, conduct research, and even write code.
 >
 > **[0:10](https://www.linkedin.com/learning/building-ai-agents-with-autogen/let-s-build-some-ai-agents-with-autogen?u=76281980&t=10)** That's the power of AutoGen, and I'm here to help you master it.
 >
@@ -100,7 +99,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), power (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1)
 > **Analogies:** imagine (1)
 
 
@@ -108,24 +107,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding AI agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/understanding-ai-agents?u=76281980)
+#### [Understanding AI agents](https://www.linkedin.com/learning/building-ai-agents-with-autogen/understanding-ai-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-ai-agents-with-autogen/understanding-ai-agents?u=76281980&t=0)** AI agents are sophisticated software programs designed to perform tasks autonomously.
+> **[0:00](https://www.linkedin.com/learning/building-ai-agents-with-autogen/understanding-ai-agents?u=76281980&t=0)** [[AI Agents]] are sophisticated software programs designed to perform tasks autonomously.
 >
-> **[0:06](https://www.linkedin.com/learning/building-ai-agents-with-autogen/understanding-ai-agents?u=76281980&t=6)** At the core of an AI agent is its ability to process and understand language through large language models or LLMs.
+> **[0:06](https://www.linkedin.com/learning/building-ai-agents-with-autogen/understanding-ai-agents?u=76281980&t=6)** At the core of an AI agent is its ability to process and understand language through [[Large Language Models (LLM)|large language models]] or LLMs.
 >
-> **[0:16](https://www.linkedin.com/learning/building-ai-agents-with-autogen/understanding-ai-agents?u=76281980&t=16)** These agents can access and analyze various documents, extracting relevant information to support decision-making process.
+> **[0:16](https://www.linkedin.com/learning/building-ai-agents-with-autogen/understanding-ai-agents?u=76281980&t=16)** These agents can access and analyze various documents, extracting relevant information to support [[Decision-Making]] process.
 >
 > **[0:27](https://www.linkedin.com/learning/building-ai-agents-with-autogen/understanding-ai-agents?u=76281980&t=27)** They are equipped with a toolkit of specialized functions, allowing them to perform a wide range of tasks efficiently.
 >
 > **[0:37](https://www.linkedin.com/learning/building-ai-agents-with-autogen/understanding-ai-agents?u=76281980&t=37)** AI agents can engage in natural language conversations, understanding context.
 >
-> **[0:43](https://www.linkedin.com/learning/building-ai-agents-with-autogen/understanding-ai-agents?u=76281980&t=43)** Additionally, they can interact with databases, storing and retrieving information as needed to complete their assigned tasks.
+> **[0:43](https://www.linkedin.com/learning/building-ai-agents-with-autogen/understanding-ai-agents?u=76281980&t=43)** Additionally, they can interact with [[Databases]], storing and retrieving information as needed to complete their assigned tasks.
 >
-> **[0:53](https://www.linkedin.com/learning/building-ai-agents-with-autogen/understanding-ai-agents?u=76281980&t=53)** With all of these capabilities combined, AI agents become powerful assistants capable of handling complex workflows from data analysis to customer support, revolutionizing how we approach problem-solving and task automation.
+> **[0:53](https://www.linkedin.com/learning/building-ai-agents-with-autogen/understanding-ai-agents?u=76281980&t=53)** With all of these capabilities combined, AI agents become powerful assistants capable of handling complex workflows from data analysis to [[Customer Support]], revolutionizing how we approach problem-solving and task automation.
 >
 > **[1:12](https://www.linkedin.com/learning/building-ai-agents-with-autogen/understanding-ai-agents?u=76281980&t=72)** Think of an AI agent as a super smart digital version of a human assistant, but instead of coffee breaks, they take data breaks to learn and improve.
 >
@@ -133,7 +131,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/building-ai-agents-with-autogen/understanding-ai-agents?u=76281980&t=90)** Meet Alex, an AI agent designed to manage a marketing agency.
 >
-> **[1:36](https://www.linkedin.com/learning/building-ai-agents-with-autogen/understanding-ai-agents?u=76281980&t=96)** Alex can analyze marketing trends using real-time data, generate creative content ideas, coordinate with team members, schedule social media posts, and even predict campaign performance.
+> **[1:36](https://www.linkedin.com/learning/building-ai-agents-with-autogen/understanding-ai-agents?u=76281980&t=96)** Alex can analyze marketing trends using [[Real-Time]] data, generate creative content ideas, coordinate with team members, schedule social media posts, and even predict campaign performance.
 >
 > **[1:52](https://www.linkedin.com/learning/building-ai-agents-with-autogen/understanding-ai-agents?u=76281980&t=112)** The best part?
 >
@@ -155,21 +153,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), data (3), [[Large Language Models (LLM)|Large language models]] (1), [[Decision-Making]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (5), [[Large Language Models (LLM)|Large language models]] (1), [[Decision-Making]] (1), [[Databases]] (1), [[Customer Support]] (1)
 > **Cross-References:** in the next (1)
 
-#### Overview of the AutoGen framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/overview-of-the-autogen-framework?u=76281980)
+#### [Overview of the AutoGen framework](https://www.linkedin.com/learning/building-ai-agents-with-autogen/overview-of-the-autogen-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-ai-agents-with-autogen/overview-of-the-autogen-framework?u=76281980&t=0)** AutoGen is a multi-agent conversational framework for building AI agents with different roles to solve tasks using different tools and patterns.
+> **[0:00](https://www.linkedin.com/learning/building-ai-agents-with-autogen/overview-of-the-autogen-framework?u=76281980&t=0)** AutoGen is a multi-agent conversational framework for building [[AI Agents]] with different roles to solve tasks using different tools and patterns.
 >
-> **[0:10](https://www.linkedin.com/learning/building-ai-agents-with-autogen/overview-of-the-autogen-framework?u=76281980&t=10)** It is made available to us as a Python library, and to install, you can simply use the command pip install pyautogen in your virtual environment.
+> **[0:10](https://www.linkedin.com/learning/building-ai-agents-with-autogen/overview-of-the-autogen-framework?u=76281980&t=10)** It is made available to us as a [[Python (Programming Language)|Python]] library, and to install, you can simply use the command pip install pyautogen in your virtual environment.
 >
-> **[0:22](https://www.linkedin.com/learning/building-ai-agents-with-autogen/overview-of-the-autogen-framework?u=76281980&t=22)** In AutoGen, an agent is an entity that can send messages, receive messages, and generate a reply using large language models, tools, human inputs, or a combination of them.
+> **[0:22](https://www.linkedin.com/learning/building-ai-agents-with-autogen/overview-of-the-autogen-framework?u=76281980&t=22)** In AutoGen, an agent is an entity that can send messages, receive messages, and generate a reply using [[Large Language Models (LLM)|large language models]], tools, human inputs, or a combination of them.
 >
-> **[0:37](https://www.linkedin.com/learning/building-ai-agents-with-autogen/overview-of-the-autogen-framework?u=76281980&t=37)** An agent can be powered by models such as large language model like GPT-4, code executor, such as an IPython kernel or a human, or a combination of these, and there could be other pluggable and customizable components that you can configure.
+> **[0:37](https://www.linkedin.com/learning/building-ai-agents-with-autogen/overview-of-the-autogen-framework?u=76281980&t=37)** An agent can be powered by models such as large language model like [[GPT-4]], code executor, such as an IPython kernel or a human, or a combination of these, and there could be other pluggable and customizable components that you can configure.
 >
 > **[0:59](https://www.linkedin.com/learning/building-ai-agents-with-autogen/overview-of-the-autogen-framework?u=76281980&t=59)** AutoGen has a built-in agent called ConversableAgent.
 >
@@ -185,15 +182,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), [[Python (Programming Language)|Python]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[GPT-4]] (1), application (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1), [[Python (Programming Language)|Python]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[GPT-4]] (1)
 > **Prerequisites:** install (2), configure (2), setup (1)
 > **CLI Commands:** python (1), pip (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (2)
 > **Env Vars:** gpt (1)
 
-#### Configuring LLMs and setting up AutoGen
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/configuring-llms-and-setting-up-autogen?u=76281980)
+#### [Configuring LLMs and setting up AutoGen](https://www.linkedin.com/learning/building-ai-agents-with-autogen/configuring-llms-and-setting-up-autogen?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -201,7 +197,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/building-ai-agents-with-autogen/configuring-llms-and-setting-up-autogen?u=76281980&t=4)** LLMs basically enable agents to converse in natural languages and transform between structured and unstructured text.
 >
-> **[0:12](https://www.linkedin.com/learning/building-ai-agents-with-autogen/configuring-llms-and-setting-up-autogen?u=76281980&t=12)** So in this video, first, we need to configure the large language models that are going to be powering our AI agents.
+> **[0:12](https://www.linkedin.com/learning/building-ai-agents-with-autogen/configuring-llms-and-setting-up-autogen?u=76281980&t=12)** So in this video, first, we need to configure the [[Large Language Models (LLM)|large language models]] that are going to be powering our [[AI Agents]].
 >
 > **[0:20](https://www.linkedin.com/learning/building-ai-agents-with-autogen/configuring-llms-and-setting-up-autogen?u=76281980&t=20)** First of all, we need to import all the required libraries.
 >
@@ -223,7 +219,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/building-ai-agents-with-autogen/configuring-llms-and-setting-up-autogen?u=76281980&t=76)** We are using OpenAI's GPT-4o for this entire course.
 >
-> **[1:23](https://www.linkedin.com/learning/building-ai-agents-with-autogen/configuring-llms-and-setting-up-autogen?u=76281980&t=83)** So llm_config is my Python dictionary, which essentially has two keys.
+> **[1:23](https://www.linkedin.com/learning/building-ai-agents-with-autogen/configuring-llms-and-setting-up-autogen?u=76281980&t=83)** So llm_config is my [[Python (Programming Language)|Python]] dictionary, which essentially has two keys.
 >
 > **[1:30](https://www.linkedin.com/learning/building-ai-agents-with-autogen/configuring-llms-and-setting-up-autogen?u=76281980&t=90)** One is the model where I need to specify which model we are using, and then API key.
 >
@@ -251,7 +247,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/building-ai-agents-with-autogen/configuring-llms-and-setting-up-autogen?u=76281980&t=156)** So GPT-4o is going to be the first model that I'm using here along with the API key which is going to come from my dotenv file.
 >
-> **[2:45](https://www.linkedin.com/learning/building-ai-agents-with-autogen/configuring-llms-and-setting-up-autogen?u=76281980&t=165)** Then the second model is Llama-7B.
+> **[2:45](https://www.linkedin.com/learning/building-ai-agents-with-autogen/configuring-llms-and-setting-up-autogen?u=76281980&t=165)** Then the second model is [[LLaMA]]-7B.
 >
 > **[2:49](https://www.linkedin.com/learning/building-ai-agents-with-autogen/configuring-llms-and-setting-up-autogen?u=76281980&t=169)** Here, I have configured it because I'm running it on my local system at this particular local server.
 >
@@ -271,7 +267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), ai (4), next (2), [[LLaMA]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (3), [[LLaMA]] (2), [[Python (Programming Language)|Python]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** api (5), gpt (2), openai_api_key (1), url (1), llm (1)
 > **Code Identifiers:** config_list (3), llm_config (2), load_dotenv (1)
 > **Prerequisites:** configure (3)
@@ -279,14 +275,13 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### Building a basic
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/buiding-a-basic?u=76281980)
+#### [Building a basic](https://www.linkedin.com/learning/building-ai-agents-with-autogen/buiding-a-basic?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-ai-agents-with-autogen/buiding-a-basic?u=76281980&t=0)** Now that our setup is ready, let's quickly build a basic agent that we can chat with.
 >
-> **[0:06](https://www.linkedin.com/learning/building-ai-agents-with-autogen/buiding-a-basic?u=76281980&t=6)** This agent will understand what we are asking and will generate a response for us using large language models.
+> **[0:06](https://www.linkedin.com/learning/building-ai-agents-with-autogen/buiding-a-basic?u=76281980&t=6)** This agent will understand what we are asking and will generate a response for us using [[Large Language Models (LLM)|large language models]].
 >
 > **[0:13](https://www.linkedin.com/learning/building-ai-agents-with-autogen/buiding-a-basic?u=76281980&t=13)** For this, let's quickly import all the required libraries first of all and load our environment variables from the dotenv file.
 >
@@ -372,11 +367,11 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/building-ai-agents-with-autogen/buiding-a-basic?u=76281980&t=213)** So now we have built a basic agent, a basic chatbot using AutoGen.
 >
-> **[3:41](https://www.linkedin.com/learning/building-ai-agents-with-autogen/buiding-a-basic?u=76281980&t=221)** In the upcoming chapters, we are going to see how to make more sophisticated AI agents.
+> **[3:41](https://www.linkedin.com/learning/building-ai-agents-with-autogen/buiding-a-basic?u=76281980&t=221)** In the upcoming chapters, we are going to see how to make more sophisticated [[AI Agents]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), chatbot (3), ai (2), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[AI Agents]] (1)
 > **Code Identifiers:** llm_config (4), generate_reply (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** setup (1), configure (1), set up (1)
@@ -387,18 +382,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Multi-agent conversation
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/multi-agent-conversations?u=76281980)
+#### [Multi-agent conversation](https://www.linkedin.com/learning/building-ai-agents-with-autogen/multi-agent-conversations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-ai-agents-with-autogen/multi-agent-conversations?u=76281980&t=0)** Now that we have learned how to set up our environment, how to configure large language models, and build basic AI agents, it's time to dive into multi-agent conversations.
+> **[0:00](https://www.linkedin.com/learning/building-ai-agents-with-autogen/multi-agent-conversations?u=76281980&t=0)** Now that we have learned how to set up our environment, how to configure [[Large Language Models (LLM)|large language models]], and build basic [[AI Agents]], it's time to dive into multi-agent conversations.
 >
 > **[0:12](https://www.linkedin.com/learning/building-ai-agents-with-autogen/multi-agent-conversations?u=76281980&t=12)** Here we're going to simulate a conversation between a student and a math tutor.
 >
 > **[0:19](https://www.linkedin.com/learning/building-ai-agents-with-autogen/multi-agent-conversations?u=76281980&t=19)** I've imported the required libraries: OS for interacting with the operating system, ConversableAgent from AutoGen.
 >
-> **[0:26](https://www.linkedin.com/learning/building-ai-agents-with-autogen/multi-agent-conversations?u=76281980&t=26)** This is going to be our main tool for creating conversational AI agents.
+> **[0:26](https://www.linkedin.com/learning/building-ai-agents-with-autogen/multi-agent-conversations?u=76281980&t=26)** This is going to be our main tool for creating [[Conversational AI]] agents.
 >
 > **[0:31](https://www.linkedin.com/learning/building-ai-agents-with-autogen/multi-agent-conversations?u=76281980&t=31)** Loaded all the environment variables from the dotenv file.
 >
@@ -484,7 +478,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/building-ai-agents-with-autogen/multi-agent-conversations?u=76281980&t=215)** This function, this is a lambda function here.
 >
-> **[3:38](https://www.linkedin.com/learning/building-ai-agents-with-autogen/multi-agent-conversations?u=76281980&t=218)** This function checks if the word exit is in the message content, allowing the conversation to end naturally.
+> **[3:38](https://www.linkedin.com/learning/building-ai-agents-with-autogen/multi-agent-conversations?u=76281980&t=218)** This function checks if the [[Microsoft Word|word]] exit is in the message content, allowing the conversation to end naturally.
 >
 > **[3:48](https://www.linkedin.com/learning/building-ai-agents-with-autogen/multi-agent-conversations?u=76281980&t=228)** So run this.
 >
@@ -504,14 +498,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), ai (1), [[Conversational AI]] (1), llm (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1), [[Conversational AI]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** llm_config (3), config_list (2), initiate_chat (1), chat_history (1), is_termination_msg (1)
 > **Definitions:** is a  (2), means that (1)
 > **Prerequisites:** set up (2), configure (1)
 > **Env Vars:** llm (1)
 
-#### Research assistant design
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/research-assistant-design?u=76281980)
+#### [Research assistant design](https://www.linkedin.com/learning/building-ai-agents-with-autogen/research-assistant-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -519,7 +512,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/building-ai-agents-with-autogen/research-assistant-design?u=76281980&t=6)** We're going to create a research assistant for marketing videos.
 >
-> **[0:10](https://www.linkedin.com/learning/building-ai-agents-with-autogen/research-assistant-design?u=76281980&t=10)** Now the system will demonstrate how we can leverage multiple AI agents, each with specialized roles to streamline the creative process and video marketing.
+> **[0:10](https://www.linkedin.com/learning/building-ai-agents-with-autogen/research-assistant-design?u=76281980&t=10)** Now the system will demonstrate how we can leverage multiple [[AI Agents]], each with specialized roles to streamline the creative process and video marketing.
 >
 > **[0:21](https://www.linkedin.com/learning/building-ai-agents-with-autogen/research-assistant-design?u=76281980&t=21)** This is our research assistant.
 >
@@ -575,12 +568,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), next (2), application (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** configure (1)
 
-#### Creating agents for the assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/creating-agents-for-the-assistant?u=76281980)
+#### [Creating agents for the assistant](https://www.linkedin.com/learning/building-ai-agents-with-autogen/creating-agents-for-the-assistant?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -656,14 +648,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (2), next (2), ai (1), prompt (1)
 > **Env Vars:** llm (2)
 > **Cross-References:** coming up (1), in the next (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Prerequisites:** set up (1), configure (1)
 
-#### Creating tasks for the agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/creating-tasks-for-the-agent?u=76281980)
+#### [Creating tasks for the agent](https://www.linkedin.com/learning/building-ai-agents-with-autogen/creating-tasks-for-the-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -699,7 +689,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/building-ai-agents-with-autogen/creating-tasks-for-the-agent?u=76281980&t=79)** Hello, I need creative ideas for our new marketing campaign.
 >
-> **[1:23](https://www.linkedin.com/learning/building-ai-agents-with-autogen/creating-tasks-for-the-agent?u=76281980&t=83)** Our product is eco-friendly, home cleaning products.
+> **[1:23](https://www.linkedin.com/learning/building-ai-agents-with-autogen/creating-tasks-for-the-agent?u=76281980&t=83)** Our product is eco-friendly, home cleaning [[Microsoft Products|products]].
 >
 > **[1:26](https://www.linkedin.com/learning/building-ai-agents-with-autogen/creating-tasks-for-the-agent?u=76281980&t=86)** Could you generate three to five innovative campaign ideas?
 >
@@ -761,7 +751,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (4), is an  (1)
 > **Prerequisites:** set up (2)
@@ -771,8 +761,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Nested chats to add multi-level reviewing
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/nested-chats-to-add-multi-level-reviewing?u=76281980)
+#### [Nested chats to add multi-level reviewing](https://www.linkedin.com/learning/building-ai-agents-with-autogen/nested-chats-to-add-multi-level-reviewing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -816,12 +805,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), next (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### Creating reviewer agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/creating-reviewer-agents?u=76281980)
+#### [Creating reviewer agents](https://www.linkedin.com/learning/building-ai-agents-with-autogen/creating-reviewer-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -889,14 +876,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), ai (1), prompt (1)
 > **Code Identifiers:** llm_config (2), generate_reply (1), is_termination_msg (1)
 > **Prerequisites:** set up (1), configure (1)
 > **Env Vars:** gpt (1)
 > **Analogies:** just like (1)
 
-#### Creating nested chat
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/creating-nested-chat?u=76281980)
+#### [Creating nested chat](https://www.linkedin.com/learning/building-ai-agents-with-autogen/creating-nested-chat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -930,7 +915,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/building-ai-agents-with-autogen/creating-nested-chat?u=76281980&t=75)** Define this.
 >
-> **[1:16](https://www.linkedin.com/learning/building-ai-agents-with-autogen/creating-nested-chat?u=76281980&t=76)** Then we have our ethics reviewer.
+> **[1:16](https://www.linkedin.com/learning/building-ai-agents-with-autogen/creating-nested-chat?u=76281980&t=76)** Then we have our [[Ethics]] reviewer.
 >
 > **[1:18](https://www.linkedin.com/learning/building-ai-agents-with-autogen/creating-nested-chat?u=76281980&t=78)** This reviewer is keeping us honest.
 >
@@ -1052,7 +1037,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** seo (7), [[Ethics]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (2)
 > **Env Vars:** seo (7)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** llm_config (1), reflection_message (1)
@@ -1063,14 +1048,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are tools?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/what-are-tools?u=76281980)
+#### [What are tools?](https://www.linkedin.com/learning/building-ai-agents-with-autogen/what-are-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-ai-agents-with-autogen/what-are-tools?u=76281980&t=0)** In this lesson, we'll dive into an exciting topic. Tools.
 >
-> **[0:04](https://www.linkedin.com/learning/building-ai-agents-with-autogen/what-are-tools?u=76281980&t=4)** This is a crucial concept that enhances the capabilities of our AI agents, allowing them to perform a wide range of tasks more effectively.
+> **[0:04](https://www.linkedin.com/learning/building-ai-agents-with-autogen/what-are-tools?u=76281980&t=4)** This is a crucial concept that enhances the capabilities of our [[AI Agents]], allowing them to perform a wide range of tasks more effectively.
 >
 > **[0:15](https://www.linkedin.com/learning/building-ai-agents-with-autogen/what-are-tools?u=76281980&t=15)** So tools are basically predefined functions that our agents can call to perform specific actions, and these actions can include searching the web, reading files, performing calculations, or calling APIs.
 >
@@ -1114,7 +1098,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/building-ai-agents-with-autogen/what-are-tools?u=76281980&t=134)** And lastly, in order to handle the response from the tool, you will have to interpret the results returned by the tool.
 >
-> **[2:23](https://www.linkedin.com/learning/building-ai-agents-with-autogen/what-are-tools?u=76281980&t=143)** You'll have to incorporate the new information into its decision-making process.
+> **[2:23](https://www.linkedin.com/learning/building-ai-agents-with-autogen/what-are-tools?u=76281980&t=143)** You'll have to incorporate the new information into its [[Decision-Making]] process.
 >
 > **[2:27](https://www.linkedin.com/learning/building-ai-agents-with-autogen/what-are-tools?u=76281980&t=147)** Determine if further tool use is necessary, formulate a response or the next action based on the tool's output.
 >
@@ -1124,7 +1108,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), web (2), next (2), [[Search]] (1), api (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[Decision-Making]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** llm_config (1)
@@ -1133,8 +1117,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Prerequisites:** initialization (1)
 
-#### Add calculation tool to math tutor agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-calculation-tool-to-math-tutor-agent?u=76281980)
+#### [Add calculation tool to math tutor agent](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-calculation-tool-to-math-tutor-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1144,7 +1127,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-calculation-tool-to-math-tutor-agent?u=76281980&t=9)** I have imported all the required libraries and configured my large language model.
 >
-> **[0:16](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-calculation-tool-to-math-tutor-agent?u=76281980&t=16)** It's time to define the calculator tool, which is basically a Python function that takes in two integers.
+> **[0:16](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-calculation-tool-to-math-tutor-agent?u=76281980&t=16)** It's time to define the calculator tool, which is basically a [[Python (Programming Language)|Python]] function that takes in two integers.
 >
 > **[0:24](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-calculation-tool-to-math-tutor-agent?u=76281980&t=24)** And we can define multiple operators that this tool will support.
 >
@@ -1180,7 +1163,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-calculation-tool-to-math-tutor-agent?u=76281980&t=123)** It's configured to not use an LLM, so llm_config has been set to false.
 >
-> **[2:09](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-calculation-tool-to-math-tutor-agent?u=76281980&t=129)** And I've also passed the is_termination_msg which means that if the message contains the word terminate, we'll end the conversation right there.
+> **[2:09](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-calculation-tool-to-math-tutor-agent?u=76281980&t=129)** And I've also passed the is_termination_msg which means that if the message contains the [[Microsoft Word|word]] terminate, we'll end the conversation right there.
 >
 > **[2:18](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-calculation-tool-to-math-tutor-agent?u=76281980&t=138)** We have set human input mode to never meaning it won't prompt for human input during the execution.
 >
@@ -1192,7 +1175,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), llm (1), [[Microsoft Word|Word]] (1), prompt (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** llm_config (3), is_termination_msg (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** llm (1)
@@ -1200,8 +1183,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Prerequisites:** set up (1)
 
-#### Register tools and run the agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/register-tools-and-running-the-agent?u=76281980)
+#### [Register tools and run the agent](https://www.linkedin.com/learning/building-ai-agents-with-autogen/register-tools-and-running-the-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1279,22 +1261,21 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/building-ai-agents-with-autogen/register-tools-and-running-the-agent?u=76281980&t=200)** This completes our implementation of tool using AI agent.
 >
-> **[3:25](https://www.linkedin.com/learning/building-ai-agents-with-autogen/register-tools-and-running-the-agent?u=76281980&t=205)** In the next lesson, we will see what are the other types of tools that we can configure in our AI agents.
+> **[3:25](https://www.linkedin.com/learning/building-ai-agents-with-autogen/register-tools-and-running-the-agent?u=76281980&t=205)** In the next lesson, we will see what are the other types of tools that we can configure in our [[AI Agents]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), next (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1)
 > **Code Identifiers:** register_for_llm (3), register_for_execution (2), register_function (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** configure (1)
 
-#### Add web search ability to the research assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-web-search-ability-to-the-research-assistant?u=76281980)
+#### [Add web search ability to the research assistant](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-web-search-ability-to-the-research-assistant?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-web-search-ability-to-the-research-assistant?u=76281980&t=0)** Large language models usually do not have access to the internet, but we'll get up-to-date information if our AI agents had access to the web.
+> **[0:00](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-web-search-ability-to-the-research-assistant?u=76281980&t=0)** [[Large Language Models (LLM)|Large language models]] usually do not have access to the internet, but we'll get up-to-date information if our [[AI Agents]] had access to the web.
 >
 > **[0:11](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-web-search-ability-to-the-research-assistant?u=76281980&t=11)** So in this lesson, we'll take our agent capabilities to the next level by adding web search functionality.
 >
@@ -1306,7 +1287,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-web-search-ability-to-the-research-assistant?u=76281980&t=32)** So make sure that you have installed these two packages.
 >
-> **[0:36](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-web-search-ability-to-the-research-assistant?u=76281980&t=36)** AutoGen is already installed, and Tavily Python is an SDK that Tavily offers.
+> **[0:36](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-web-search-ability-to-the-research-assistant?u=76281980&t=36)** AutoGen is already installed, and Tavily [[Python (Programming Language)|Python]] is an SDK that Tavily offers.
 >
 > **[0:43](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-web-search-ability-to-the-research-assistant?u=76281980&t=43)** So we'll install this.
 >
@@ -1334,7 +1315,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-web-search-ability-to-the-research-assistant?u=76281980&t=105)** So we have defined our custom tool, our custom function using Tavily client.
 >
-> **[1:51](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-web-search-ability-to-the-research-assistant?u=76281980&t=111)** Next, we have added a ReAct prompt.
+> **[1:51](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-web-search-ability-to-the-research-assistant?u=76281980&t=111)** Next, we have added a [[React.js|ReAct]] prompt.
 >
 > **[1:53](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-web-search-ability-to-the-research-assistant?u=76281980&t=113)** ReAct is reasoning and acting prompt.
 >
@@ -1402,7 +1383,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-web-search-ability-to-the-research-assistant?u=76281980&t=268)** So this was the response from the Tavily client.
 >
-> **[4:32](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-web-search-ability-to-the-research-assistant?u=76281980&t=272)** As you can see, a JSON response after the search API was called.
+> **[4:32](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-web-search-ability-to-the-research-assistant?u=76281980&t=272)** As you can see, a [[JSON]] response after the search API was called.
 >
 > **[4:36](https://www.linkedin.com/learning/building-ai-agents-with-autogen/add-web-search-ability-to-the-research-assistant?u=76281980&t=276)** And finally, thought, the search result indicates that India won the T20 Cricket World Cup in 2024, and that is true.
 >
@@ -1412,7 +1393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (16), api (7), web (5), next (5), prompt (5)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[Large Language Models (LLM)|Large language models]] (1), [[AI Agents]] (1), [[Python (Programming Language)|Python]] (1), [[JSON]] (1)
 > **Env Vars:** api (7), t20 (2), sdk (1), llm (1), json (1)
 > **Prerequisites:** set up (2), install (1), configure (1), you'll need (1)
 > **Code Identifiers:** config_list (1), register_function (1), research_assistant (1), user_proxy (1)
@@ -1426,8 +1407,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Code executors in AutoGen
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/code-executors-in-autogen?u=76281980)
+#### [Code executors in AutoGen](https://www.linkedin.com/learning/building-ai-agents-with-autogen/code-executors-in-autogen?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1439,7 +1419,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/building-ai-agents-with-autogen/code-executors-in-autogen?u=76281980&t=14)** It's basically a component in AutoGen that takes input messages containing code blocks, executes that code, and outputs messages with the results.
 >
-> **[0:26](https://www.linkedin.com/learning/building-ai-agents-with-autogen/code-executors-in-autogen?u=76281980&t=26)** So it basically acts as a bridge between our AI agents and the actual execution of code.
+> **[0:26](https://www.linkedin.com/learning/building-ai-agents-with-autogen/code-executors-in-autogen?u=76281980&t=26)** So it basically acts as a bridge between our [[AI Agents]] and the actual execution of code.
 >
 > **[0:34](https://www.linkedin.com/learning/building-ai-agents-with-autogen/code-executors-in-autogen?u=76281980&t=34)** If you talk about the flow of code execution, we have a code writer agent, which is basically a large language model.
 >
@@ -1489,7 +1469,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Security]] (2), llm (1), next (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2)
 > **CLI Commands:** docker (6)
 > **Tools:** command line (6)
 > **Env Vars:** llm (1)
@@ -1497,8 +1477,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 
-#### Create agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/create-agents?u=76281980)
+#### [Create agents](https://www.linkedin.com/learning/building-ai-agents-with-autogen/create-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1576,13 +1555,13 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/building-ai-agents-with-autogen/create-agents?u=76281980&t=188)** Note that the system message is a crucial part of agent's configuration, as it defines the agent's role and capabilities.
 >
-> **[3:15](https://www.linkedin.com/learning/building-ai-agents-with-autogen/create-agents?u=76281980&t=195)** So in this lesson, we have set up the two main agents for our coding copilot, a code executor agent that can run the code and provide feedback, and a code writer agent that can generate the code based on requirements.
+> **[3:15](https://www.linkedin.com/learning/building-ai-agents-with-autogen/create-agents?u=76281980&t=195)** So in this lesson, we have set up the two main agents for our coding [[Microsoft Copilot|copilot]], a code executor agent that can run the code and provide feedback, and a code writer agent that can generate the code based on requirements.
 >
 > **[3:29](https://www.linkedin.com/learning/building-ai-agents-with-autogen/create-agents?u=76281980&t=209)** In the next lesson, we'll define a specific task for our coding copilot.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), llm (2), [[Microsoft Copilot|Copilot]] (2), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2)
 > **Code Identifiers:** llm_config (2), code_execution_config (2), code_executor_agent (1), code_writer_agent (1), code_writer_agent_system_message (1)
 > **Env Vars:** llm (2)
 > **Tools:** command line (2)
@@ -1591,12 +1570,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Warnings:** note that (1)
 
-#### Define task to analyze data
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/define-task-to-analyse-data?u=76281980)
+#### [Define task to analyze data](https://www.linkedin.com/learning/building-ai-agents-with-autogen/define-task-to-analyse-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-ai-agents-with-autogen/define-task-to-analyse-data?u=76281980&t=0)** In this lesson, we are going to put our coding copilot to work.
+> **[0:00](https://www.linkedin.com/learning/building-ai-agents-with-autogen/define-task-to-analyse-data?u=76281980&t=0)** In this lesson, we are going to put our coding [[Microsoft Copilot|copilot]] to work.
 >
 > **[0:03](https://www.linkedin.com/learning/building-ai-agents-with-autogen/define-task-to-analyse-data?u=76281980&t=3)** We'll define a specific task for stock analysis and have our agents collaborate to complete that analysis.
 >
@@ -1630,7 +1608,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/building-ai-agents-with-autogen/define-task-to-analyse-data?u=76281980&t=102)** And this will be stored in the coding directory, which we have already specified in our executor instance.
 >
-> **[1:49](https://www.linkedin.com/learning/building-ai-agents-with-autogen/define-task-to-analyse-data?u=76281980&t=109)** So this task will require our code writer to generate Python code that can fetch stock data, process it, and create a graph, and save it as an image.
+> **[1:49](https://www.linkedin.com/learning/building-ai-agents-with-autogen/define-task-to-analyse-data?u=76281980&t=109)** So this task will require our code writer to generate [[Python (Programming Language)|Python]] code that can [[Fetch]] stock data, process it, and create a graph, and save it as an image.
 >
 > **[2:03](https://www.linkedin.com/learning/building-ai-agents-with-autogen/define-task-to-analyse-data?u=76281980&t=123)** So let's define the instruction here.
 >
@@ -1712,19 +1690,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Python (Programming Language)|Python]] (2), data (2), [[Fetch]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Python (Programming Language)|Python]] (2), [[Fetch]] (1)
 > **CLI Commands:** python (2)
 > **Code Identifiers:** ytd_stock_gains (2)
 > **Env Vars:** llm (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 
-#### Execute user-defined code in AutoGen
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/executing-user-defined-code-in-autogen?u=76281980)
+#### [Execute user-defined code in AutoGen](https://www.linkedin.com/learning/building-ai-agents-with-autogen/executing-user-defined-code-in-autogen?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-ai-agents-with-autogen/executing-user-defined-code-in-autogen?u=76281980&t=0)** In this lesson, we are going to enhance our coding copilot by adding custom functions for stock analysis and exploring how to execute user-defined code.
+> **[0:00](https://www.linkedin.com/learning/building-ai-agents-with-autogen/executing-user-defined-code-in-autogen?u=76281980&t=0)** In this lesson, we are going to enhance our coding [[Microsoft Copilot|copilot]] by adding custom functions for stock analysis and exploring how to execute user-defined code.
 >
 > **[0:11](https://www.linkedin.com/learning/building-ai-agents-with-autogen/executing-user-defined-code-in-autogen?u=76281980&t=11)** So I've imported the libraries, configured the LLM.
 >
@@ -1820,7 +1797,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), next (2), prompt (2), llm (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2)
 > **Env Vars:** llm (1)
 > **Tools:** command line (1)
 
@@ -1829,8 +1806,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to teachable agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/introduction-to-teachable-agents?u=76281980)
+#### [Introduction to teachable agents](https://www.linkedin.com/learning/building-ai-agents-with-autogen/introduction-to-teachable-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1880,12 +1856,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (2), ai (2), database (1), next (1)
 > **Env Vars:** llm (2)
 > **Cross-References:** in the next (1)
 
-#### Setting up teachable agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/setting-up-teachable-agents?u=76281980)
+#### [Setting up teachable agents](https://www.linkedin.com/learning/building-ai-agents-with-autogen/setting-up-teachable-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1895,7 +1869,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/building-ai-agents-with-autogen/setting-up-teachable-agents?u=76281980&t=12)** Now what this does is it will add the vector database which Teachability is going to use in order to store all the user-related information and chat messages to provide a personalized response.
 >
-> **[0:26](https://www.linkedin.com/learning/building-ai-agents-with-autogen/setting-up-teachable-agents?u=76281980&t=26)** So this uses Chroma DB, which is a vector database inherently.
+> **[0:26](https://www.linkedin.com/learning/building-ai-agents-with-autogen/setting-up-teachable-agents?u=76281980&t=26)** So this uses [[ChromaDB|Chroma]] DB, which is a vector database inherently.
 >
 > **[0:32](https://www.linkedin.com/learning/building-ai-agents-with-autogen/setting-up-teachable-agents?u=76281980&t=32)** Now, in order to move forward, first, we'll import the required libraries, configure our large language model, and then we'll create our teachable agent.
 >
@@ -1995,15 +1969,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), next (3), [[ChromaDB|Chroma]] (1), prompt (1)
+> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (1)
 > **Code Identifiers:** reset_db (2), teachable_agent (1), add_to_agent (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Prerequisites:** install (1), configure (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
-#### Teaching and retrieving information
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/teaching-and-retrieving-information?u=76281980)
+#### [Teaching and retrieving information](https://www.linkedin.com/learning/building-ai-agents-with-autogen/teaching-and-retrieving-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2163,7 +2136,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (2), hit (1), open-source (1), next (1)
 > **Env Vars:** llm (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Code Identifiers:** reset_db (1)
@@ -2173,14 +2145,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Organizational structure of agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/organisational-structure-of-agents?u=76281980)
+#### [Organizational structure of agents](https://www.linkedin.com/learning/building-ai-agents-with-autogen/organisational-structure-of-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-ai-agents-with-autogen/organisational-structure-of-agents?u=76281980&t=0)** Welcome to the last chapter of our course.
 >
-> **[0:02](https://www.linkedin.com/learning/building-ai-agents-with-autogen/organisational-structure-of-agents?u=76281980&t=2)** In this chapter, we are going to build a virtual data analysis company using a group chat of specialized AI agents.
+> **[0:02](https://www.linkedin.com/learning/building-ai-agents-with-autogen/organisational-structure-of-agents?u=76281980&t=2)** In this chapter, we are going to build a virtual data analysis company using a group chat of specialized [[AI Agents]].
 >
 > **[0:10](https://www.linkedin.com/learning/building-ai-agents-with-autogen/organisational-structure-of-agents?u=76281980&t=10)** The first lesson is going to focus on setting up the organizational structure.
 >
@@ -2216,7 +2187,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/building-ai-agents-with-autogen/organisational-structure-of-agents?u=76281980&t=91)** We've used an assistant agent to create our engineer.
 >
-> **[1:34](https://www.linkedin.com/learning/building-ai-agents-with-autogen/organisational-structure-of-agents?u=76281980&t=94)** This is going to write the code to fetch and analyze the stock data.
+> **[1:34](https://www.linkedin.com/learning/building-ai-agents-with-autogen/organisational-structure-of-agents?u=76281980&t=94)** This is going to write the code to [[Fetch]] and analyze the stock data.
 >
 > **[1:40](https://www.linkedin.com/learning/building-ai-agents-with-autogen/organisational-structure-of-agents?u=76281980&t=100)** Engineer agent is also ready.
 >
@@ -2246,15 +2217,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (3), ai (1), llm (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1), [[Fetch]] (1)
 > **Code Identifiers:** code_execution_config (2), human_input_mode (1)
 > **Prerequisites:** required to (1), set up (1)
 > **Env Vars:** llm (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### Build the group chat
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/build-the-group-chat?u=76281980)
+#### [Build the group chat](https://www.linkedin.com/learning/building-ai-agents-with-autogen/build-the-group-chat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2334,7 +2304,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/building-ai-agents-with-autogen/build-the-group-chat?u=76281980&t=169)** So it has done some stock-based analysis.
 >
-> **[2:53](https://www.linkedin.com/learning/building-ai-agents-with-autogen/build-the-group-chat?u=76281980&t=173)** And so financial analysis has been carried out.
+> **[2:53](https://www.linkedin.com/learning/building-ai-agents-with-autogen/build-the-group-chat?u=76281980&t=173)** And so [[Financial Analysis]] has been carried out.
 >
 > **[2:56](https://www.linkedin.com/learning/building-ai-agents-with-autogen/build-the-group-chat?u=76281980&t=176)** And then it comes to the writer who is going to write the report based on the analysis.
 >
@@ -2360,15 +2330,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (3), llm (1), hit (1), [[Financial Analysis]] (1)
+> **Frameworks & Libraries:** [[Financial Analysis]] (1)
 > **Code Identifiers:** chat_manager (3), llm_config (1)
 > **Definitions:** is a  (1), means that (1)
 > **Prerequisites:** set up (1), configure (1)
 > **Env Vars:** llm (1)
 > **Cross-References:** in the next (1)
 
-#### Speaker selection config
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/speaker-selection-config?u=76281980)
+#### [Speaker selection config](https://www.linkedin.com/learning/building-ai-agents-with-autogen/speaker-selection-config?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2426,7 +2395,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/building-ai-agents-with-autogen/speaker-selection-config?u=76281980&t=130)** So now you will see that it will follow the speaker selection policy that we have defined above.
 >
-> **[2:16](https://www.linkedin.com/learning/building-ai-agents-with-autogen/speaker-selection-config?u=76281980&t=136)** So this way, we can define clear communication pathways between our AI agents.
+> **[2:16](https://www.linkedin.com/learning/building-ai-agents-with-autogen/speaker-selection-config?u=76281980&t=136)** So this way, we can define clear communication pathways between our [[AI Agents]].
 >
 > **[2:23](https://www.linkedin.com/learning/building-ai-agents-with-autogen/speaker-selection-config?u=76281980&t=143)** And this ensures that information flows logically through our virtual company, prevents any sort of unnecessary or illogical interactions between the agents.
 >
@@ -2446,7 +2415,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), feature (1), power (1), data (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** speaker_transitions_type (1)
 > **Analogies:** for example (1)
@@ -2456,20 +2425,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps with AutoGen
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-ai-agents-with-autogen/next-steps-with-autogen?u=76281980)
+#### [Next steps with AutoGen](https://www.linkedin.com/learning/building-ai-agents-with-autogen/next-steps-with-autogen?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-ai-agents-with-autogen/next-steps-with-autogen?u=76281980&t=0)** Congratulations!
 >
-> **[0:01](https://www.linkedin.com/learning/building-ai-agents-with-autogen/next-steps-with-autogen?u=76281980&t=1)** You have completed the course on AI agents with AutoGen.
+> **[0:01](https://www.linkedin.com/learning/building-ai-agents-with-autogen/next-steps-with-autogen?u=76281980&t=1)** You have completed the course on [[AI Agents]] with AutoGen.
 >
 > **[0:05](https://www.linkedin.com/learning/building-ai-agents-with-autogen/next-steps-with-autogen?u=76281980&t=5)** In the course, you have learned how to build and configure AI agents using the origin framework, from understanding the basics to creating complex systems like research assistants, teachable agents that learn from user interactions, integrating tools within those systems to finally building end-to-end coding copilots.
 >
 > **[0:31](https://www.linkedin.com/learning/building-ai-agents-with-autogen/next-steps-with-autogen?u=76281980&t=31)** You have gained valuable skills in the world of AI development.
 >
-> **[0:36](https://www.linkedin.com/learning/building-ai-agents-with-autogen/next-steps-with-autogen?u=76281980&t=36)** To continue your journey with AI agents, I recommend that you share your completion certificate with your network on LinkedIn so that you know who else in your network is building AI agents.
+> **[0:36](https://www.linkedin.com/learning/building-ai-agents-with-autogen/next-steps-with-autogen?u=76281980&t=36)** To continue your journey with AI agents, I recommend that you share your completion certificate with your network on [[LinkedIn]] so that you know who else in your network is building AI agents.
 >
 > **[0:50](https://www.linkedin.com/learning/building-ai-agents-with-autogen/next-steps-with-autogen?u=76281980&t=50)** Now that you have fundamental skills, you should apply those to experiment with your own projects.
 >
@@ -2493,7 +2461,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[AI Agents]] (4), [[LinkedIn]] (2)
 > **Env Vars:** pdf (1)
 > **Definitions:** is called (1)
 > **Prerequisites:** configure (1)

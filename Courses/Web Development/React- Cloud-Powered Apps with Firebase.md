@@ -103,16 +103,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Structuring your apps for the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud?u=76281980)
+#### [Structuring your apps for the cloud](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud?u=76281980&t=0)** - So you want to build your next react web application, but you will need more than just your client side code.
+> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud?u=76281980&t=0)** - So you want to build your next [[React.js|react]] web application, but you will need more than just your client side code.
 >
 > **[0:06](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud?u=76281980&t=6)** You need hosting APIs, authentication and deployment.
 >
-> **[0:09](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud?u=76281980&t=9)** Firebase by Google and power's front end developers to quickly tackle these problems and focus on what they love.
+> **[0:09](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud?u=76281980&t=9)** [[Firebase]] by [[Google]] and power's front end developers to quickly tackle these problems and focus on what they love.
 >
 > **[0:15](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud?u=76281980&t=15)** - Hi, I'm Victor Majia, I'm a senior UI engineer and instructor, and welcome to this course on react Cloud-Powered Apps with Firebase.
 >
@@ -132,7 +131,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud?u=76281980&t=60)** As we build out features, we will need to store data using Cloud Firestorm along the way.
 >
-> **[1:05](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud?u=76281980&t=65)** To store files like images, we'll be using Cloud storage.
+> **[1:05](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud?u=76281980&t=65)** To store files like images, we'll be using [[Cloud Storage]].
 >
 > **[1:09](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud?u=76281980&t=69)** We will then jump into the serverless world and learn how to create our own serverless functions using Firebase cloud functions.
 >
@@ -140,7 +139,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud?u=76281980&t=80)** Along the way we'll use some of reacts latest features like hooks in order to build a robust application.
 >
-> **[1:27](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud?u=76281980&t=87)** We will also have the use react router and a package called react cook form, which will make it easier for us to work with forms and react.
+> **[1:27](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud?u=76281980&t=87)** We will also have the use react router and a package called react cook form, which will make it easier for us to work with [[Forms]] and react.
 >
 > **[1:34](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/structuring-your-apps-for-the-cloud?u=76281980&t=94)** I'm really excited to cover this content with you.
 >
@@ -148,19 +147,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (10), [[React.js|React]] (5), cloud (4), [[Google]] (3), web application (2)
+> **Frameworks & Libraries:** [[Firebase]] (10), [[React.js|React]] (5), [[Google]] (3), [[Cloud Storage]] (1), [[Forms]] (1)
 > **Speakers:** - so (1), - hi (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/what-you-should-know?u=76281980&t=0)** - [Narrator] This course will assume a basic understanding of React.
+> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/what-you-should-know?u=76281980&t=0)** - [Narrator] This course will assume a basic understanding of [[React.js|React]].
 >
-> **[0:04](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/what-you-should-know?u=76281980&t=4)** You will also need Node, npm, and Git installed on your system.
+> **[0:04](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/what-you-should-know?u=76281980&t=4)** You will also need Node, [[npm]], and [[Git]] installed on your system.
 >
 > **[0:09](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/what-you-should-know?u=76281980&t=9)** If you're not familiar with React, I recommend you watch our Essential Training course for React.
 >
@@ -174,7 +172,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/what-you-should-know?u=76281980&t=41)** You can download it from code.[visualstudio.com](https://visualstudio.com).
 >
-> **[0:45](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/what-you-should-know?u=76281980&t=45)** I have also installed Prettier for Visual Studio Code in order to auto-format my JavaScript code as I save.
+> **[0:45](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/what-you-should-know?u=76281980&t=45)** I have also installed Prettier for Visual Studio Code in order to auto-format my [[JavaScript]] code as I save.
 >
 > **[0:52](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/what-you-should-know?u=76281980&t=52)** This is a really useful tool.
 >
@@ -186,11 +184,11 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/what-you-should-know?u=76281980&t=70)** And using a shell like ZSH in the Oh My ZSH framework, as it provides you with tooling that will make you much more productive at your terminal.
 >
-> **[1:19](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/what-you-should-know?u=76281980&t=79)** If you're on a Windows machine, I highly recommend you check out Cmder as an alternative to the Command Prompt.
+> **[1:19](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/what-you-should-know?u=76281980&t=79)** If you're on a [[Windows]] machine, I highly recommend you check out Cmder as an alternative to the Command Prompt.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (4), [[React.js|React]] (3), node (3), [[Git]] (3), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[npm]] (4), [[React.js|React]] (3), [[Git]] (3), [[JavaScript]] (1), [[Windows]] (1)
 > **CLI Commands:** npm (4), node (3), git (3), make (1)
 > **Tools:** visual studio (2), terminal (2), zsh (2), command prompt (1)
 > **URLs:** [git-scm.com](https://git-scm.com) (1), [visualstudio.com](https://visualstudio.com) (1)
@@ -199,16 +197,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/using-the-exercise-files?u=76281980&t=0)** - [Speaker} We will be building a fictitious App called The Grid, which will contain a list of secret agents.
 >
-> **[0:13](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/using-the-exercise-files?u=76281980&t=13)** The exercise files contains a Git repository, you can download the exercise files from the course homepage, or clone the GitHub repository found at this URL.
+> **[0:13](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/using-the-exercise-files?u=76281980&t=13)** The exercise files contains a [[Git]] repository, you can download the exercise files from the course homepage, or clone the [[GitHub]] repository found at this URL.
 >
-> **[0:26](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/using-the-exercise-files?u=76281980&t=26)** Once downloaded, you can run npm install in the master branch, you will only need to npm install once at the root of this project, in order to install all of the dependencies.
+> **[0:26](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/using-the-exercise-files?u=76281980&t=26)** Once downloaded, you can run [[npm]] install in the master branch, you will only need to npm install once at the root of this project, in order to install all of the dependencies.
 >
 > **[0:39](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/using-the-exercise-files?u=76281980&t=39)** The master branch contains the completed application, and the starting point for this course with a branch 0104-begin.
 >
@@ -230,7 +227,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (2), application (2), data (2), [[Git]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[npm]] (2), [[Git]] (1), [[GitHub]] (1)
 > **CLI Commands:** npm (2), git (1)
 > **Exercise Files:** exercise files (2), download the (1)
 > **Prerequisites:** install (3)
@@ -244,18 +241,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing tools and CLIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/installing-tools-and-clis?u=76281980)
+#### [Installing tools and CLIs](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/installing-tools-and-clis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/installing-tools-and-clis?u=76281980&t=0)** - [Instructor] We'll be using both the Node.js runtime along with npm.
+> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/installing-tools-and-clis?u=76281980&t=0)** - [Instructor] We'll be using both the [[Node.js]] runtime along with [[npm]].
 >
 > **[0:04](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/installing-tools-and-clis?u=76281980&t=4)** We'll be working with the current LTS, which is 12.18.2 at the time of this recording, and you will need at least version six of npm, which comes bundled with Node.
 >
-> **[0:14](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/installing-tools-and-clis?u=76281980&t=14)** If you are using Windows, go ahead and click on the button to download the executable.
+> **[0:14](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/installing-tools-and-clis?u=76281980&t=14)** If you are using [[Windows]], go ahead and click on the button to download the executable.
 >
-> **[0:19](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/installing-tools-and-clis?u=76281980&t=19)** If you're on a Mac or a Linux machine, you can use nvm, the node version manager, which allows you to manage multiple versions of Node.
+> **[0:19](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/installing-tools-and-clis?u=76281980&t=19)** If you're on a Mac or a [[Linux]] machine, you can use nvm, the node version manager, which allows you to manage multiple versions of Node.
 >
 > **[0:27](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/installing-tools-and-clis?u=76281980&t=27)** I recommend you use nvm as it makes things very simple.
 >
@@ -271,7 +267,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/installing-tools-and-clis?u=76281980&t=62)** We can now verify both versions in the command line using node --version, and we see version 12.8.2 and npm --version, which shows 6.14.5.
 >
-> **[1:17](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/installing-tools-and-clis?u=76281980&t=77)** I would also recommend that you install the React Developer Tools.
+> **[1:17](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/installing-tools-and-clis?u=76281980&t=77)** I would also recommend that you install the [[React.js|React]] Developer Tools.
 >
 > **[1:21](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/installing-tools-and-clis?u=76281980&t=81)** This will be very helpful for development and debugging.
 >
@@ -281,7 +277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (4), [[npm]] (3), [[Node.js]] (2), next (2), [[React.js|React]] (2)
+> **Frameworks & Libraries:** [[npm]] (3), [[Node.js]] (2), [[React.js|React]] (2), [[Windows]] (1), [[Linux]] (1)
 > **CLI Commands:** node (6), npm (3), curl (1)
 > **Versions:** version 12 (2), 12.18.2 (1), 8.2 (1), 6.14.5 (1)
 > **Prerequisites:** install (5)
@@ -290,16 +286,15 @@ created: 2026-05-02
 > **Code Identifiers:** curl (1)
 > **Env Vars:** lts (1)
 
-#### Generating a new React application
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/generating-a-new-react-application?u=76281980)
+#### [Generating a new React application](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/generating-a-new-react-application?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/generating-a-new-react-application?u=76281980&t=0)** - [Instructor] The starting point for this course will be a React Application that has already been generated for you.
+> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/generating-a-new-react-application?u=76281980&t=0)** - [Instructor] The starting point for this course will be a [[React.js|React]] Application that has already been generated for you.
 >
 > **[0:06](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/generating-a-new-react-application?u=76281980&t=6)** But here, I want to show you how you can do that yourself.
 >
-> **[0:10](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/generating-a-new-react-application?u=76281980&t=10)** We can generate a brand new React Application using the Create React App Tool chain, which sets up they develop an environment so that we can use the latest JavaScript features.
+> **[0:10](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/generating-a-new-react-application?u=76281980&t=10)** We can generate a brand new React Application using the Create React App Tool chain, which sets up they develop an environment so that we can use the latest [[JavaScript]] features.
 >
 > **[0:20](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/generating-a-new-react-application?u=76281980&t=20)** In addition to providing a great development experience, it will make it much easier for us to take care of common tasks, such as live-editing CSS and JS in development and optimizing the output for production.
 >
@@ -313,15 +308,15 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/generating-a-new-react-application?u=76281980&t=66)** Let's go ahead and run it now.
 >
-> **[1:10](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/generating-a-new-react-application?u=76281980&t=70)** This will fetch a tool, create a directory and files, initialize a repository and install the required tools and packages.
+> **[1:10](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/generating-a-new-react-application?u=76281980&t=70)** This will [[Fetch]] a tool, create a directory and files, initialize a repository and install the required tools and packages.
 >
 > **[1:22](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/generating-a-new-react-application?u=76281980&t=82)** Great, that is now complete.
 >
 > **[1:24](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/generating-a-new-react-application?u=76281980&t=84)** I will now change directories into my new application and open that up using visual studio code.
 >
-> **[1:36](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/generating-a-new-react-application?u=76281980&t=96)** Heading over to the package.json file, we see that we are given four simple commands.
+> **[1:36](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/generating-a-new-react-application?u=76281980&t=96)** Heading over to the package.[[JSON]] file, we see that we are given four simple commands.
 >
-> **[1:42](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/generating-a-new-react-application?u=76281980&t=102)** NPM start, to start the development server, NPM run build, to build and bundle the app for production.
+> **[1:42](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/generating-a-new-react-application?u=76281980&t=102)** [[npm]] start, to start the development server, NPM run build, to build and bundle the app for production.
 >
 > **[1:49](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/generating-a-new-react-application?u=76281980&t=109)** NPM tests, to run your tests and NPM run eject to get access to the configuration files.
 >
@@ -329,7 +324,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/generating-a-new-react-application?u=76281980&t=122)** Also, this course we'll assume you are using React version 16, so please ensure that you are using this as well.
 >
-> **[2:09](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/generating-a-new-react-application?u=76281980&t=129)** We'll be working with React Hooks, so we will need at least version 16.8.
+> **[2:09](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/generating-a-new-react-application?u=76281980&t=129)** We'll be working with [[React Hooks]], so we will need at least version 16.8.
 >
 > **[2:15](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/generating-a-new-react-application?u=76281980&t=135)** Let's go ahead now and run NPM start.
 >
@@ -339,7 +334,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (7), application (6), [[npm]] (6), [[JavaScript]] (1), css (1)
+> **Frameworks & Libraries:** [[React.js|React]] (7), [[npm]] (6), [[JavaScript]] (1), [[Fetch]] (1), [[JSON]] (1)
 > **Env Vars:** npm (6), npx (2), css (1), mpm (1)
 > **CLI Commands:** npm (6), npx (2), make (1)
 > **Versions:** version 16 (2), version 5 (1)
@@ -348,12 +343,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Prerequisites:** install (1)
 
-#### Overview of the Firebase console
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/overview-of-the-firebase-console?u=76281980)
+#### [Overview of the Firebase console](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/overview-of-the-firebase-console?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/overview-of-the-firebase-console?u=76281980&t=0)** - [Instructor] In this course, we will be working with Firebase by Google.
+> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/overview-of-the-firebase-console?u=76281980&t=0)** - [Instructor] In this course, we will be working with [[Firebase]] by [[Google]].
 >
 > **[0:03](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/overview-of-the-firebase-console?u=76281980&t=3)** So what we'll need to first configure a Firebase project.
 >
@@ -369,7 +363,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/overview-of-the-firebase-console?u=76281980&t=25)** We'll be working with a fictitious app called the Grid which will be a contact manager for special agents.
 >
-> **[0:31](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/overview-of-the-firebase-console?u=76281980&t=31)** So I will name it, react, dash grid, dash dashboard.
+> **[0:31](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/overview-of-the-firebase-console?u=76281980&t=31)** So I will name it, [[React.js|react]], dash grid, dash dashboard.
 >
 > **[0:37](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/overview-of-the-firebase-console?u=76281980&t=37)** Go ahead and click continue.
 >
@@ -393,11 +387,11 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/overview-of-the-firebase-console?u=76281980&t=94)** And finally, we'll be using Firebase Functions and dive into the servers this world.
 >
-> **[1:40](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/overview-of-the-firebase-console?u=76281980&t=100)** At this point, it will be good to install the Firebase CLI since we'll be working with Firebase.
+> **[1:40](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/overview-of-the-firebase-console?u=76281980&t=100)** At this point, it will be good to install the Firebase [[CLI]] since we'll be working with Firebase.
 >
 > **[1:46](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/overview-of-the-firebase-console?u=76281980&t=106)** Let's set over to our terminal now.
 >
-> **[1:48](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/overview-of-the-firebase-console?u=76281980&t=108)** And you can install the Firebase tools with npm.
+> **[1:48](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/overview-of-the-firebase-console?u=76281980&t=108)** And you can install the Firebase tools with [[npm]].
 >
 > **[1:51](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/overview-of-the-firebase-console?u=76281980&t=111)** Npm install, dash D, Firebase dash tools.
 >
@@ -415,7 +409,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (24), [[Google]] (4), cloud (2), [[CLI]] (2), [[npm]] (2)
+> **Frameworks & Libraries:** [[Firebase]] (24), [[Google]] (4), [[CLI]] (2), [[npm]] (2), [[React.js|React]] (1)
 > **Prerequisites:** install (3), configure (1), set up (1)
 > **CLI Commands:** npm (2)
 > **Env Vars:** cli (2)
@@ -423,14 +417,13 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring your web application
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/configuring-your-web-application?u=76281980)
+#### [Configuring your web application](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/configuring-your-web-application?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/configuring-your-web-application?u=76281980&t=0)** - [Instructor] Now that we have created a Firebase project and installed the Firebase CLI tools, we need to configure our web application with Firebase through the Firebase console, and also install the Firebase library.
+> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/configuring-your-web-application?u=76281980&t=0)** - [Instructor] Now that we have created a [[Firebase]] project and installed the Firebase [[CLI]] tools, we need to configure our web application with Firebase through the Firebase console, and also install the Firebase library.
 >
-> **[0:12](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/configuring-your-web-application?u=76281980&t=12)** We will be using the official Firebase library by Google and install it through npm.
+> **[0:12](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/configuring-your-web-application?u=76281980&t=12)** We will be using the official Firebase library by [[Google]] and install it through [[npm]].
 >
 > **[0:18](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/configuring-your-web-application?u=76281980&t=18)** This will be the starting point for the course.
 >
@@ -450,7 +443,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/configuring-your-web-application?u=76281980&t=66)** Go ahead and click on the web icon.
 >
-> **[1:09](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/configuring-your-web-application?u=76281980&t=69)** I will write here REACT DASHBOARD as the app nickname, and we don't have to set up hosting just yet.
+> **[1:09](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/configuring-your-web-application?u=76281980&t=69)** I will write here [[React.js|REACT]] DASHBOARD as the app nickname, and we don't have to set up hosting just yet.
 >
 > **[1:16](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/configuring-your-web-application?u=76281980&t=76)** Go ahead and click on Register app.
 >
@@ -512,7 +505,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (19), [[npm]] (4), application (4), [[React.js|React]] (3), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Firebase]] (19), [[npm]] (4), [[React.js|React]] (3), [[CLI]] (1), [[Google]] (1)
 > **Env Vars:** react_app_ (3), messaging_sender_id (3), api_key (2), auth_domain (2), database_url (2)
 > **Prerequisites:** install (5), configure (1), set up (1)
 > **CLI Commands:** npm (4), make (1)
@@ -526,24 +519,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Firebase Authentication setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-authentication-setup?u=76281980)
+#### [Firebase Authentication setup](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-authentication-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-authentication-setup?u=76281980&t=0)** - [Instructor] Now that we have set up our web application with Firebase by adding configuration values, we first need to add authentication through the Firebase console.
+> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-authentication-setup?u=76281980&t=0)** - [Instructor] Now that we have set up our web application with [[Firebase]] by adding configuration values, we first need to add authentication through the Firebase console.
 >
 > **[0:10](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-authentication-setup?u=76281980&t=10)** Click on Authentication, then Set up sign-in method.
 >
 > **[0:17](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-authentication-setup?u=76281980&t=17)** We will enable email and password sign-in for now.
 >
-> **[0:27](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-authentication-setup?u=76281980&t=27)** We will be using routing in our application and achieving this with React Router.
+> **[0:27](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-authentication-setup?u=76281980&t=27)** We will be using [[Routing]] in our application and achieving this with [[React.js|React]] Router.
 >
 > **[0:32](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-authentication-setup?u=76281980&t=32)** Let's first install this.
 >
 > **[0:34](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-authentication-setup?u=76281980&t=34)** At the time of this recording, the version used is 5.2.0.
 >
-> **[0:39](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-authentication-setup?u=76281980&t=39)** So let's install that version, npm install react-router-dom@5.2.0.
+> **[0:39](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-authentication-setup?u=76281980&t=39)** So let's install that version, [[npm]] install react-router-dom@5.2.0.
 >
 > **[0:53](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-authentication-setup?u=76281980&t=53)** Let's create a sign-up component that will provide a form for the user to sign up.
 >
@@ -553,7 +545,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-authentication-setup?u=76281980&t=66)** In the exercise files, head to the resources folder, then folder 02-01, and you can grab the Signup.js file and drag it to the new pages folder.
 >
-> **[1:20](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-authentication-setup?u=76281980&t=80)** The classes used for the HTML elements here are from a Semantic UI framework.
+> **[1:20](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-authentication-setup?u=76281980&t=80)** The classes used for the [[HTML]] elements here are from a Semantic UI framework.
 >
 > **[1:26](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-authentication-setup?u=76281980&t=86)** You can visit the Semantic UI documentation site if you wish to have a different look.
 >
@@ -591,7 +583,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (3), application (3), [[React.js|React]] (3), [[Firebase]] (2), [[npm]] (2)
+> **Frameworks & Libraries:** [[Routing]] (3), [[React.js|React]] (3), [[Firebase]] (2), [[npm]] (2), [[HTML]] (1)
 > **Prerequisites:** set up (3), install (3)
 > **Env Vars:** html (1), css (1), html5 (1), api (1), url (1)
 > **File Paths:** signup.js (1), app.css (1), app.js (1)
@@ -600,24 +592,23 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Exercise Files:** exercise files (1)
 
-#### Creating users
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/creating-users?u=76281980)
+#### [Creating users](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/creating-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/creating-users?u=76281980&t=0)** - [Instructor] Now that we have a form for inputting information, let's add functionality to the simple form and create a user with Firebase.
+> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/creating-users?u=76281980&t=0)** - [Instructor] Now that we have a form for inputting information, let's add functionality to the simple form and create a user with [[Firebase]].
 >
-> **[0:08](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/creating-users?u=76281980&t=8)** To make things easier when working with forms, we will be using React Hook Form.
+> **[0:08](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/creating-users?u=76281980&t=8)** To make things easier when working with [[Forms]], we will be using [[React.js|React]] Hook Form.
 >
 > **[0:13](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/creating-users?u=76281980&t=13)** A great little library that will provide a great experience.
 >
 > **[0:17](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/creating-users?u=76281980&t=17)** Both for the user, and for the developer.
 >
-> **[0:20](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/creating-users?u=76281980&t=20)** And it uses React hooks.
+> **[0:20](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/creating-users?u=76281980&t=20)** And it uses [[React Hooks]].
 >
 > **[0:23](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/creating-users?u=76281980&t=23)** Let's install React Hook Form now.
 >
-> **[0:25](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/creating-users?u=76281980&t=25)** Npm install react-hook-form.
+> **[0:25](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/creating-users?u=76281980&t=25)** [[npm]] install react-hook-form.
 >
 > **[0:30](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/creating-users?u=76281980&t=30)** And at the time of this recording, we are using version 5.7.2.
 >
@@ -765,7 +756,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (9), [[React.js|React]] (5), data (5), application (3), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Firebase]] (9), [[React.js|React]] (5), [[Forms]] (1), [[React Hooks]] (1), [[npm]] (1)
 > **Code Identifiers:** useform (2), handlesubmit (2), onsubmit (2), createuserwithemailandpassword (1), usestate (1)
 > **CLI Commands:** make (1), npm (1)
 > **Versions:** version 5 (1), 7.2 (1)
@@ -774,24 +765,23 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Definitions:** is an  (1)
 
-#### Displaying current user
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/displaying-current-user?u=76281980)
+#### [Displaying current user](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/displaying-current-user?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/displaying-current-user?u=76281980&t=0)** - [Instructor] Now that we have implemented user signup, wanting to be able to display the currently authenticated user.
 >
-> **[0:07](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/displaying-current-user?u=76281980&t=7)** It will also provide a better user experience if the user gets routed to a profile page where they can see their information.
+> **[0:07](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/displaying-current-user?u=76281980&t=7)** It will also provide a better [[User Experience (UX)|user experience]] if the user gets routed to a profile page where they can see their information.
 >
 > **[0:13](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/displaying-current-user?u=76281980&t=13)** Let's do that now.
 >
 > **[0:15](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/displaying-current-user?u=76281980&t=15)** But first, we need to be able to get the current authenticated session and be able to access that in any component.
 >
-> **[0:22](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/displaying-current-user?u=76281980&t=22)** We will do so by leveraging react context.
+> **[0:22](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/displaying-current-user?u=76281980&t=22)** We will do so by leveraging [[React.js|react]] context.
 >
 > **[0:25](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/displaying-current-user?u=76281980&t=25)** And then child components will leverage hooks to access the user session.
 >
-> **[0:30](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/displaying-current-user?u=76281980&t=30)** Let's start by creating a new file under the firebase folder here and call it UserProvider.js.
+> **[0:30](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/displaying-current-user?u=76281980&t=30)** Let's start by creating a new file under the [[Firebase]] folder here and call it UserProvider.js.
 >
 > **[0:40](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/displaying-current-user?u=76281980&t=40)** We will use this file to house the user context, a provider component, and also a hook to access a current user session.
 >
@@ -925,7 +915,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (9), [[Firebase]] (9), [[User Experience (UX)|User experience]] (1), functional (1), application (1)
+> **Frameworks & Libraries:** [[React.js|React]] (9), [[Firebase]] (9), [[User Experience (UX)|User experience]] (1)
 > **Code Identifiers:** useeffect (4), userprovider (3), usestate (2), usecontext (2), usesession (2)
 > **File Paths:** app.js (2), userprovider.js (1), profile.js (1)
 > **Definitions:** is a  (2), is called (1)
@@ -933,8 +923,7 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
 
-#### Redirect user upon signup
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/redirect-user-upon-signup?u=76281980)
+#### [Redirect user upon signup](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/redirect-user-upon-signup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -960,7 +949,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/redirect-user-upon-signup?u=76281980&t=96)** Let's head over to our browser now.
 >
-> **[1:38](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/redirect-user-upon-signup?u=76281980&t=98)** I will go ahead and delete the object store that Firebase creates, and go to the signup route, then go to my Firebase dashboard, and delete the user I just created.
+> **[1:38](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/redirect-user-upon-signup?u=76281980&t=98)** I will go ahead and delete the object store that [[Firebase]] creates, and go to the signup route, then go to my Firebase dashboard, and delete the user I just created.
 >
 > **[1:57](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/redirect-user-upon-signup?u=76281980&t=117)** Let's create the user again.
 >
@@ -982,8 +971,7 @@ created: 2026-05-02
 > **File Paths:** app.js (1)
 > **Speakers:** - [narrator] (1)
 
-#### User logout
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/user-logout?u=76281980)
+#### [User logout](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/user-logout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -991,7 +979,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/user-logout?u=76281980&t=5)** Let's head back to auth dot JS, where we are placing the methods dealing with authentication and sign up.
 >
-> **[0:12](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/user-logout?u=76281980&t=12)** We'll add a new function named logout that will simply call the sign on method on Firebase.
+> **[0:12](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/user-logout?u=76281980&t=12)** We'll add a new function named logout that will simply call the sign on method on [[Firebase]].
 >
 > **[0:23](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/user-logout?u=76281980&t=23)** Firebase dot auth dot sign out.
 >
@@ -1017,11 +1005,11 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/user-logout?u=76281980&t=102)** Import, logout from Firebase, forward slash auth.
 >
-> **[1:53](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/user-logout?u=76281980&t=113)** We will also import the use history hook from react router dom, which gives us access to the history instance that we can use to navigate.
+> **[1:53](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/user-logout?u=76281980&t=113)** We will also import the use history hook from [[React.js|react]] router dom, which gives us access to the history instance that we can use to navigate.
 >
 > **[2:06](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/user-logout?u=76281980&t=126)** And now we can use a hook.
 >
-> **[2:12](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/user-logout?u=76281980&t=132)** This is a very great feature of react router, in that you can give routing functionality to any component in your application.
+> **[2:12](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/user-logout?u=76281980&t=132)** This is a very great feature of react router, in that you can give [[Routing]] functionality to any component in your application.
 >
 > **[2:18](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/user-logout?u=76281980&t=138)** We can then implement our logout user function.
 >
@@ -1057,14 +1045,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (3), css (2), [[React.js|React]] (2), application (2), dom (1)
+> **Frameworks & Libraries:** [[Firebase]] (3), [[React.js|React]] (2), [[Routing]] (1)
 > **Env Vars:** css (2)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - we (1)
 
-#### User login
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/user-login?u=76281980)
+#### [User login](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/user-login?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1076,7 +1063,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/user-login?u=76281980&t=19)** We'll destructure the input to get the email and the password.
 >
-> **[0:28](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/user-login?u=76281980&t=28)** And we can call it firebase.auth.signInWithEmailAndPassword using the email and password provided.
+> **[0:28](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/user-login?u=76281980&t=28)** And we can call it [[Firebase]].auth.signInWithEmailAndPassword using the email and password provided.
 >
 > **[0:41](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/user-login?u=76281980&t=41)** Finally, we can return the user from the response.
 >
@@ -1096,7 +1083,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/user-login?u=76281980&t=112)** We can then move the button here inside, and the user can login or be redirected to the sign up page.
 >
-> **[2:07](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/user-login?u=76281980&t=127)** We can use this link component from react-router-dom.
+> **[2:07](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/user-login?u=76281980&t=127)** We can use this link component from [[React.js|react]]-router-dom.
 >
 > **[2:15](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/user-login?u=76281980&t=135)** In the sign up component, let's do something similar here.
 >
@@ -1148,7 +1135,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), dom (3), css (3), [[Firebase]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[Firebase]] (1)
 > **Env Vars:** css (3)
 > **File Paths:** auth.js (1), app.js (1)
 > **CLI Commands:** make (1)
@@ -1156,8 +1143,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - we (1)
 
-#### Authenticated user redirect
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/authenticated-user-redirect?u=76281980)
+#### [Authenticated user redirect](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/authenticated-user-redirect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1173,9 +1159,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/authenticated-user-redirect?u=76281980&t=25)** In this scenario which redirects the user back to the profile page, and not allow them to visit these pages.
 >
-> **[0:32](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/authenticated-user-redirect?u=76281980&t=32)** Let's tackle the SQL.
+> **[0:32](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/authenticated-user-redirect?u=76281980&t=32)** Let's tackle the [[SQL]].
 >
-> **[0:34](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/authenticated-user-redirect?u=76281980&t=34)** Let's go ahead and create a new folder called router, which will contain all the files we related to routing.
+> **[0:34](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/authenticated-user-redirect?u=76281980&t=34)** Let's go ahead and create a new folder called router, which will contain all the files we related to [[Routing]].
 >
 > **[0:42](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/authenticated-user-redirect?u=76281980&t=42)** We will create a new file call ProfileRedirect.js.
 >
@@ -1185,11 +1171,11 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/authenticated-user-redirect?u=76281980&t=58)** Otherwise, it will redirect the user back to the profile page.
 >
-> **[1:03](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/authenticated-user-redirect?u=76281980&t=63)** Let's go ahead and import react from react.
+> **[1:03](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/authenticated-user-redirect?u=76281980&t=63)** Let's go ahead and import [[React.js|react]] from react.
 >
 > **[1:08](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/authenticated-user-redirect?u=76281980&t=68)** We will also import route, and redirect from react-router-dom.
 >
-> **[1:16](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/authenticated-user-redirect?u=76281980&t=76)** And also, import use session from firebase/Userprovider.
+> **[1:16](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/authenticated-user-redirect?u=76281980&t=76)** And also, import use session from [[Firebase]]/Userprovider.
 >
 > **[1:23](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/authenticated-user-redirect?u=76281980&t=83)** Let's create the component called profile redirect.
 >
@@ -1197,7 +1183,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/authenticated-user-redirect?u=76281980&t=97)** This is just a convention.
 >
-> **[1:39](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/authenticated-user-redirect?u=76281980&t=99)** And then, destructure the rest of the props.
+> **[1:39](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/authenticated-user-redirect?u=76281980&t=99)** And then, destructure the [[Representational State Transfer (REST)|rest]] of the props.
 >
 > **[1:42](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/authenticated-user-redirect?u=76281980&t=102)** (keyboard typing) Inside of this component, we can grab ahold of the user, using use session.
 >
@@ -1251,7 +1237,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[SQL]] (1), [[Routing]] (1), dom (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[SQL]] (1), [[Routing]] (1), [[Firebase]] (1)
 > **Non-Speech:** (keyboard clicking) (4), (keyboard typing) (1), (clicking) (1)
 > **File Paths:** profileredirect.js (1), app.js (1)
 > **CLI Commands:** make (2)
@@ -1260,8 +1246,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - before (1)
 
-#### Challenge: Authentication redirect
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/challenge-authentication-redirect?u=76281980)
+#### [Challenge: Authentication redirect](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/challenge-authentication-redirect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1330,8 +1315,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (electronic music) (1)
 
-#### Solution: Authentication redirect
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/solution-authentication-redirect?u=76281980)
+#### [Solution: Authentication redirect](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/solution-authentication-redirect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1379,7 +1363,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **File Paths:** privateroute.js (1), app.js (1)
 > **Env Vars:** url (2)
 > **Speakers:** - [instructor] (1)
@@ -1390,24 +1373,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud Firestore intro
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-intro?u=76281980)
+#### [Cloud Firestore intro](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-intro?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-intro?u=76281980&t=0)** - [Narrator] I sure hope you have already been impressed with the powerful features that Firebase provides.
+> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-intro?u=76281980&t=0)** - [Narrator] I sure hope you have already been impressed with the powerful features that [[Firebase]] provides.
 >
 > **[0:05](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-intro?u=76281980&t=5)** We have easily added authentication to our app that otherwise would have taken a really long time to implement ourselves.
 >
 > **[0:12](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-intro?u=76281980&t=12)** But now it's time to start working with data.
 >
-> **[0:15](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-intro?u=76281980&t=15)** Cloud Firestore is a flexible, scalable NoSQL cloud database to store and sync data for client and server-side development.
+> **[0:15](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-intro?u=76281980&t=15)** Cloud Firestore is a flexible, scalable [[NoSQL]] cloud database to store and sync data for client and server-side development.
 >
 > **[0:23](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-intro?u=76281980&t=23)** This data can be accessed directly via native SDKs that shifts with a comprehensive set of security rules so you can access your database without needing to set up your own server.
 >
 > **[0:34](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-intro?u=76281980&t=34)** And also, it will allow us to sync across devices.
 >
-> **[0:39](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-intro?u=76281980&t=39)** The Cloud Firestore model is document oriented so there aren't any tables or rows like in a SQL database.
+> **[0:39](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-intro?u=76281980&t=39)** The Cloud Firestore model is document oriented so there aren't any tables or rows like in a [[SQL]] database.
 >
 > **[0:46](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-intro?u=76281980&t=46)** We instead store data in documents which are then organized into collections.
 >
@@ -1421,7 +1403,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-intro?u=76281980&t=79)** You can also organize more complex data as shown here.
 >
-> **[1:21](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-intro?u=76281980&t=81)** You can see that it resembles a plain JavaScript object.
+> **[1:21](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-intro?u=76281980&t=81)** You can see that it resembles a plain [[JavaScript]] object.
 >
 > **[1:26](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-intro?u=76281980&t=86)** Now let's talk about collections.
 >
@@ -1437,21 +1419,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), cloud (5), database (3), [[Firebase]] (1), [[NoSQL]] (1)
+> **Frameworks & Libraries:** [[Firebase]] (1), [[NoSQL]] (1), [[SQL]] (1), [[JavaScript]] (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Cloud Firestore setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-setup?u=76281980)
+#### [Cloud Firestore setup](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-setup?u=76281980&t=0)** In this particular module, we'll be setting up a users collection and also allow the user to update their profile data.
 >
-> **[0:08](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-setup?u=76281980&t=8)** When using email and password authentication in the Firebase, that data is actually securely store separately.
+> **[0:08](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-setup?u=76281980&t=8)** When using email and password authentication in the [[Firebase]], that data is actually securely store separately.
 >
 > **[0:14](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-setup?u=76281980&t=14)** A major reason is of course, to prevent any accidental user leaks and also, allow complete flexibility with how we store our user data in the Firebase.
 >
@@ -1469,7 +1450,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-setup?u=76281980&t=71)** Next, choose a location.
 >
-> **[1:13](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-setup?u=76281980&t=73)** This location is your project's default Google Cloud platform resource location.
+> **[1:13](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-setup?u=76281980&t=73)** This location is your project's default [[Google Cloud Platform (GCP)|Google Cloud platform]] resource location.
 >
 > **[1:21](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-firestore-setup?u=76281980&t=81)** The provided default should be okay.
 >
@@ -1481,20 +1462,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Firebase]] (3), database (3), cloud (2), next (1)
+> **Frameworks & Libraries:** [[Firebase]] (3), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** means that (1)
 
-#### Deploying security rules for Cloud Firestore
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-security-rules-for-cloud-firestore?u=76281980)
+#### [Deploying security rules for Cloud Firestore](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-security-rules-for-cloud-firestore?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-security-rules-for-cloud-firestore?u=76281980&t=0)** - [Instructor] In the Firebase console for Cloud Firestore, you can go ahead and click on the rules tab to view the currently associated security rules.
+> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-security-rules-for-cloud-firestore?u=76281980&t=0)** - [Instructor] In the [[Firebase]] console for Cloud Firestore, you can go ahead and click on the rules tab to view the currently associated security rules.
 >
 > **[0:10](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-security-rules-for-cloud-firestore?u=76281980&t=10)** This tells us that the following rules in this block will be for the Cloud Firestore service.
 >
-> **[0:17](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-security-rules-for-cloud-firestore?u=76281980&t=17)** And match/databases/database/documents is actually the root of your database.
+> **[0:17](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-security-rules-for-cloud-firestore?u=76281980&t=17)** And match/[[Databases]]/database/documents is actually the root of your database.
 >
 > **[0:25](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-security-rules-for-cloud-firestore?u=76281980&t=25)** The second match here tells it to match any document.
 >
@@ -1502,13 +1482,13 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-security-rules-for-cloud-firestore?u=76281980&t=37)** You can always change the security rules in the Firebase console.
 >
-> **[0:41](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-security-rules-for-cloud-firestore?u=76281980&t=41)** But we will actually be using the Firebase CLI to deploy security rules.
+> **[0:41](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-security-rules-for-cloud-firestore?u=76281980&t=41)** But we will actually be using the Firebase [[CLI]] to deploy security rules.
 >
-> **[0:45](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-security-rules-for-cloud-firestore?u=76281980&t=45)** It has the advantage, since any changes in rules can be tracked via Git.
+> **[0:45](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-security-rules-for-cloud-firestore?u=76281980&t=45)** It has the advantage, since any changes in rules can be tracked via [[Git]].
 >
 > **[0:50](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-security-rules-for-cloud-firestore?u=76281980&t=50)** We have already installed the Firebase CLI, if you haven't, go ahead and install it now.
 >
-> **[0:56](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-security-rules-for-cloud-firestore?u=76281980&t=56)** And you can do that with npm install dash g Firebase tools.
+> **[0:56](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-security-rules-for-cloud-firestore?u=76281980&t=56)** And you can do that with [[npm]] install dash g Firebase tools.
 >
 > **[1:04](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-security-rules-for-cloud-firestore?u=76281980&t=64)** Make sure to sign in and test your Firebase CLI using Firebase login.
 >
@@ -1526,7 +1506,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-security-rules-for-cloud-firestore?u=76281980&t=113)** I can use an existing project and select the project you'll be working with.
 >
-> **[1:59](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-security-rules-for-cloud-firestore?u=76281980&t=119)** In my case, it will be react-grid-dashboard.
+> **[1:59](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-security-rules-for-cloud-firestore?u=76281980&t=119)** In my case, it will be [[React.js|react]]-grid-dashboard.
 >
 > **[2:08](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-security-rules-for-cloud-firestore?u=76281980&t=128)** It will then ask you a series of questions specifically where you would like to name the different files associated with Cloud Firestore.
 >
@@ -1536,7 +1516,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-security-rules-for-cloud-firestore?u=76281980&t=151)** That firebaserc is a file that stores your project.
 >
-> **[2:36](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-security-rules-for-cloud-firestore?u=76281980&t=156)** Firebase.json is a configuration file that lists your project configuration.
+> **[2:36](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-security-rules-for-cloud-firestore?u=76281980&t=156)** Firebase.[[JSON]] is a configuration file that lists your project configuration.
 >
 > **[2:42](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-security-rules-for-cloud-firestore?u=76281980&t=162)** For now, it is indicating the files used for our Firestore rules and for our Firestore indexes.
 >
@@ -1584,7 +1564,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (16), [[Security]] (5), cloud (4), database (4), [[CLI]] (3)
+> **Frameworks & Libraries:** [[Firebase]] (16), [[CLI]] (3), [[JSON]] (2), [[Databases]] (1), [[Git]] (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** git (1), npm (1), make (1)
 > **Env Vars:** cli (3)
@@ -1593,8 +1573,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1), select the (1)
 > **Prerequisites:** install (2)
 
-#### Creating documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/creating-documents?u=76281980)
+#### [Creating documents](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/creating-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1602,7 +1581,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/creating-documents?u=76281980&t=7)** We will be creating our own users collection in cloud firestore where users will update their profile data.
 >
-> **[0:14](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/creating-documents?u=76281980&t=14)** Let's head over now to config.js and let's go ahead and import firebase forward slash firestore.
+> **[0:14](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/creating-documents?u=76281980&t=14)** Let's head over now to config.js and let's go ahead and import [[Firebase]] forward slash firestore.
 >
 > **[0:25](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/creating-documents?u=76281980&t=25)** And we will export a new token here which will be the firestore service.
 >
@@ -1656,22 +1635,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (6), data (5), cloud (3), next (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Firebase]] (6)
 > **File Paths:** config.js (1), user.js (1), author.js (1)
 > **Code Identifiers:** createuserdocument (2), docref (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [man] (1)
 
-#### Displaying user document
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/displaying-user-document?u=76281980)
+#### [Displaying user document](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/displaying-user-document?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/displaying-user-document?u=76281980&t=0)** - In our profile component, let's display the newly created information.
 >
-> **[0:05](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/displaying-user-document?u=76281980&t=5)** Well, we'll need to get a reference to the document in our firestore, heading out to the profile component, let's import the firestore service that we previously exported from firebase/config.
+> **[0:05](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/displaying-user-document?u=76281980&t=5)** Well, we'll need to get a reference to the document in our firestore, heading out to the profile component, let's import the firestore service that we previously exported from [[Firebase]]/config.
 >
-> **[0:27](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/displaying-user-document?u=76281980&t=27)** We will also go ahead and import use effect and you state from react.
+> **[0:27](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/displaying-user-document?u=76281980&t=27)** We will also go ahead and import use effect and you state from [[React.js|react]].
 >
 > **[0:37](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/displaying-user-document?u=76281980&t=37)** We will need a new piece of state that will hold our user document.
 >
@@ -1701,7 +1679,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/displaying-user-document?u=76281980&t=139)** If there's no user we will return null, let's change this to use your document.
 >
-> **[2:28](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/displaying-user-document?u=76281980&t=148)** Otherwise let's just dump the JSON on the page for now.
+> **[2:28](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/displaying-user-document?u=76281980&t=148)** Otherwise let's just dump the [[JSON]] on the page for now.
 >
 > **[2:44](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/displaying-user-document?u=76281980&t=164)** Let's head over to our browser now.
 >
@@ -1735,14 +1713,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Firebase]] (2), [[JSON]] (2), [[React.js|React]] (1), next (1)
+> **Frameworks & Libraries:** [[Firebase]] (2), [[JSON]] (2), [[React.js|React]] (1)
 > **Env Vars:** json (2), jsx (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Updating user documents, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/updating-user-documents-part-1?u=76281980)
+#### [Updating user documents, part 1](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/updating-user-documents-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1756,7 +1733,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/updating-user-documents-part-1?u=76281980&t=48)** Instead of grabbing the user ID from the current authenticated user, we will use the ID from the route, this will become useful later when we have an admin user that is requesting data for a particular user.
 >
-> **[1:01](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/updating-user-documents-part-1?u=76281980&t=61)** We can go ahead and import useParams from react-router-dom.
+> **[1:01](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/updating-user-documents-part-1?u=76281980&t=61)** We can go ahead and import useParams from [[React.js|react]]-router-dom.
 >
 > **[1:08](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/updating-user-documents-part-1?u=76281980&t=68)** We can then grab and hold the Params here.
 >
@@ -1794,7 +1771,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[React.js|React]] (4), next (2), dom (1), api (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4)
 > **Code Identifiers:** setvalue (3), useform (2), useparams (1), formdata (1), useeffect (1)
 > **Env Vars:** jsx (1), api (1)
 > **CLI Commands:** make (1)
@@ -1803,8 +1780,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [tutor] (1)
 
-#### Updating user documents, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/updating-user-documents-part-2?u=76281980)
+#### [Updating user documents, part 2](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/updating-user-documents-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1834,7 +1810,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/updating-user-documents-part-2?u=76281980&t=138)** Then we'll get the formData, and let's set up a try catch block here.
 >
-> **[2:24](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/updating-user-documents-part-2?u=76281980&t=144)** Then set the loading state to true, then call our new updateUserDocument function, and we need to add the user id which we will grab from the params, and then add the rest of the object properties here.
+> **[2:24](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/updating-user-documents-part-2?u=76281980&t=144)** Then set the loading state to true, then call our new updateUserDocument function, and we need to add the user id which we will grab from the params, and then add the [[Representational State Transfer (REST)|rest]] of the object properties here.
 >
 > **[2:51](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/updating-user-documents-part-2?u=76281980&t=171)** Let's catch for any errors, and for now, let's just log out the error, and then, whether we have an error or not, we want to set the loading state back to false.
 >
@@ -1850,7 +1826,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/updating-user-documents-part-2?u=76281980&t=229)** Let me hit the back button here, and let's head back to our code.
 >
-> **[3:58](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/updating-user-documents-part-2?u=76281980&t=238)** We actually want to use the handleSubmit helper from react.form, as it will give us access to the form data.
+> **[3:58](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/updating-user-documents-part-2?u=76281980&t=238)** We actually want to use the handleSubmit helper from [[React.js|react]].form, as it will give us access to the form data.
 >
 > **[4:08](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/updating-user-documents-part-2?u=76281980&t=248)** Let me rename this function to onSubmit, and then we can call handleSubmit with our onSubmit callback here.
 >
@@ -1868,11 +1844,11 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/updating-user-documents-part-2?u=76281980&t=315)** You've done great work.
 >
-> **[5:16](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/updating-user-documents-part-2?u=76281980&t=316)** You are well on your way to completing a serverless app built with Firebase.
+> **[5:16](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/updating-user-documents-part-2?u=76281980&t=316)** You are well on your way to completing a serverless app built with [[Firebase]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), hit (2), [[Representational State Transfer (REST)|Rest]] (1), [[React.js|React]] (1), [[Firebase]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[React.js|React]] (1), [[Firebase]] (1)
 > **Code Identifiers:** handlesubmit (2), onsubmit (2), formclassname (1), formdata (1), updateuserdocument (1)
 > **File Paths:** user.js (1), profile.js (1)
 > **CLI Commands:** make (1)
@@ -1885,12 +1861,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud Storage setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-setup?u=76281980)
+#### [Cloud Storage setup](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-setup?u=76281980&t=0)** - [Instructor] We have used Firebase cloud store for storing data and now we'll move on to another great service from Firebase; cloud storage.
+> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-setup?u=76281980&t=0)** - [Instructor] We have used [[Firebase]] cloud store for storing data and now we'll move on to another great service from Firebase; [[Cloud Storage]].
 >
 > **[0:10](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-setup?u=76281980&t=10)** Cloud storage is a perfect solution to store and retrieve user-generated files like images, audio and video, without service at code.
 >
@@ -1902,7 +1877,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-setup?u=76281980&t=27)** By default, only authenticated users will be able to read and write.
 >
-> **[0:33](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-setup?u=76281980&t=33)** We'll be modifying this by deploying updated security rules using the Firebase CLI.
+> **[0:33](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-setup?u=76281980&t=33)** We'll be modifying this by deploying updated security rules using the Firebase [[CLI]].
 >
 > **[0:41](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-setup?u=76281980&t=41)** Go ahead and click on Next and then Done to set up cloud storage.
 >
@@ -1918,11 +1893,11 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-setup?u=76281980&t=85)** Hit enter again for the default file name.
 >
-> **[1:31](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-setup?u=76281980&t=91)** And we can see that our firebase.json file has been updated and there's a new file, storage.rules that has been created.
+> **[1:31](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-setup?u=76281980&t=91)** And we can see that our firebase.[[JSON]] file has been updated and there's a new file, storage.rules that has been created.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (5), cloud (5), [[Security]] (3), [[CLI]] (2), next (2)
+> **Frameworks & Libraries:** [[Firebase]] (5), [[Cloud Storage]] (4), [[CLI]] (2), [[JSON]] (1)
 > **Prerequisites:** set up (3)
 > **Env Vars:** cli (2)
 > **UI Navigation:** click on (2)
@@ -1931,8 +1906,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud Storage security rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-security-rules?u=76281980)
+#### [Cloud Storage security rules](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-security-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1970,7 +1944,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-security-rules?u=76281980&t=134)** Finally, let's make sure to update the rule set to version two, which is the latest version.
 >
-> **[2:25](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-security-rules?u=76281980&t=145)** Let's go ahead and deploy these updated rules with the Firebase CLI.
+> **[2:25](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-security-rules?u=76281980&t=145)** Let's go ahead and deploy these updated rules with the [[Firebase]] [[CLI]].
 >
 > **[2:30](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-security-rules?u=76281980&t=150)** We can do that using Firebase deploy dash dash only storage rules.
 >
@@ -1986,22 +1960,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (2), application (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Firebase]] (2), [[CLI]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cli (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - as (1)
 
-#### Profile image upload form
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/profile-image-upload-form?u=76281980)
+#### [Profile image upload form](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/profile-image-upload-form?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/profile-image-upload-form?u=76281980&t=0)** - Now that we have set up cloud storage, along with the security rules, let's implement a new feature to allow the user to upload their profile photo.
+> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/profile-image-upload-form?u=76281980&t=0)** - Now that we have set up [[Cloud Storage]], along with the security rules, let's implement a new feature to allow the user to upload their profile photo.
 >
 > **[0:09](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/profile-image-upload-form?u=76281980&t=9)** Let's create a new component and call it profileimage.js.
 >
-> **[0:15](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/profile-image-upload-form?u=76281980&t=15)** Import react from react.
+> **[0:15](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/profile-image-upload-form?u=76281980&t=15)** Import [[React.js|react]] from react.
 >
 > **[0:23](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/profile-image-upload-form?u=76281980&t=23)** This new component will take in the user ID as a prop.
 >
@@ -2063,15 +2036,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[React.js|React]] (2), cloud (1), [[Security]] (1), feature (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Cloud Storage]] (1)
 > **File Paths:** profileimage.js (1), app.css (1), profile.js (1)
 > **UI Navigation:** open the (1), click on (1), go to (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - now (1)
 
-#### File upload trigger
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/file-upload-trigger?u=76281980)
+#### [File upload trigger](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/file-upload-trigger?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2085,7 +2057,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/file-upload-trigger?u=76281980&t=16)** Let's head now to the profile image component.
 >
-> **[0:20](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/file-upload-trigger?u=76281980&t=20)** Let's go ahead and import useRef from React.
+> **[0:20](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/file-upload-trigger?u=76281980&t=20)** Let's go ahead and import useRef from [[React.js|React]].
 >
 > **[0:28](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/file-upload-trigger?u=76281980&t=28)** We can create a ref here.
 >
@@ -2137,19 +2109,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2), dom (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2)
 > **Code Identifiers:** fileinput (3), filechange (2), classname (2), useref (1), onchange (1)
 > **UI Navigation:** click on (3)
 > **Env Vars:** dom (1)
 > **Warnings:** warning (1)
 > **Speakers:** - we (1)
 
-#### Cloud Storage file upload
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-file-upload?u=76281980)
+#### [Cloud Storage file upload](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-file-upload?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-file-upload?u=76281980&t=0)** - With that in place, we need to implement now a function to upload the user image to cloud storage.
+> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-file-upload?u=76281980&t=0)** - With that in place, we need to implement now a function to upload the user image to [[Cloud Storage]].
 >
 > **[0:06](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-file-upload?u=76281980&t=6)** Let's first export the fire based storage service for our app in config.js.
 >
@@ -2219,7 +2190,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-file-upload?u=76281980&t=275)** And the photo has been uploaded and it's displayed now.
 >
-> **[4:38](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-file-upload?u=76281980&t=278)** We can head over to the Firebase console, refresh here.
+> **[4:38](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-file-upload?u=76281980&t=278)** We can head over to the [[Firebase]] console, refresh here.
 >
 > **[4:45](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-storage-file-upload?u=76281980&t=285)** We can see that our profile image is there as well.
 >
@@ -2265,7 +2236,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (1), [[Firebase]] (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (1), [[Firebase]] (1)
 > **Env Vars:** url (12)
 > **File Paths:** user.js (3), config.js (1), image.js (1), profile.js (1)
 > **CLI Commands:** make (3)
@@ -2273,8 +2244,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - with (1)
 
-#### Challenge: Monitor upload progress
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/challenge-monitor-upload-progress?u=76281980)
+#### [Challenge: Monitor upload progress](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/challenge-monitor-upload-progress?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2286,7 +2256,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/challenge-monitor-upload-progress?u=76281980&t=15)** It would be great to have a progress indicator that can show us our current progress.
 >
-> **[0:20](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/challenge-monitor-upload-progress?u=76281980&t=20)** Fortunately, with Firebase, we can monitor the upload progress.
+> **[0:20](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/challenge-monitor-upload-progress?u=76281980&t=20)** Fortunately, with [[Firebase]], we can monitor the upload progress.
 >
 > **[0:24](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/challenge-monitor-upload-progress?u=76281980&t=24)** Look at the example at this page in order to display a progress indicator to the user.
 
@@ -2296,8 +2266,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pleasant electronic music) (1)
 
-#### Solution: Upload progress
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/solution-upload-progress?u=76281980)
+#### [Solution: Upload progress](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/solution-upload-progress?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2343,7 +2312,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **File Paths:** profileimage.js (1), user.js (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2353,16 +2321,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Firebase ID tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-id-tokens?u=76281980)
+#### [Firebase ID tokens](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-id-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-id-tokens?u=76281980&t=0)** - [Presenter] So far we've implemented authentication and have allowed authenticated users to edit data and upload files.
 >
-> **[0:07](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-id-tokens?u=76281980&t=7)** But how does Firebase check for authenticated users?
+> **[0:07](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-id-tokens?u=76281980&t=7)** But how does [[Firebase]] check for authenticated users?
 >
-> **[0:10](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-id-tokens?u=76281980&t=10)** It does is through Firebase ID tokens, which are essentially JSON web tokens with added data.
+> **[0:10](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-id-tokens?u=76281980&t=10)** It does is through Firebase ID [[Tokens]], which are essentially [[JSON]] web tokens with added data.
 >
 > **[0:17](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-id-tokens?u=76281980&t=17)** Every time a user signs in their user credentials are sent to the Firebase authentication backend and exchange for a Firebase ID token, a JWT, and they refresh token, which can be used to retrieve new tokens.
 >
@@ -2392,7 +2359,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-id-tokens?u=76281980&t=106)** Exp stands for expiration time, which is a time that this JWT expires also in seconds.
 >
-> **[1:54](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-id-tokens?u=76281980&t=114)** Here we also added metadata about a user.
+> **[1:54](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-id-tokens?u=76281980&t=114)** Here we also added [[Metadata]] about a user.
 >
 > **[1:58](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-id-tokens?u=76281980&t=118)** In this case, the email and other properties that are specific to Firebase, you can see how this will be very useful in building a role based authentication system.
 >
@@ -2454,21 +2421,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (10), data (8), [[Tokens]] (5), web (4), [[JSON]] (3)
+> **Frameworks & Libraries:** [[Firebase]] (10), [[Tokens]] (5), [[JSON]] (3), [[Metadata]] (1)
 > **Env Vars:** jwt (6), json (3), hvac (1), rsa (1), iat (1)
 > **Definitions:** stands for (2), is an  (1), is a  (1), is called (1)
 > **URLs:** [jwt.io](https://jwt.io) (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [presenter] (1)
 
-#### Setting Firebase custom claims
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/setting-firebase-custom-claims?u=76281980)
+#### [Setting Firebase custom claims](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/setting-firebase-custom-claims?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/setting-firebase-custom-claims?u=76281980&t=0)** - [Instructor] Our application will have one admin user.
 >
-> **[0:03](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/setting-firebase-custom-claims?u=76281980&t=3)** So let's create that manually through the Firebase console.
+> **[0:03](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/setting-firebase-custom-claims?u=76281980&t=3)** So let's create that manually through the [[Firebase]] console.
 >
 > **[0:06](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/setting-firebase-custom-claims?u=76281980&t=6)** I recommend that you create an email account for your particular admin user.
 >
@@ -2494,7 +2460,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/setting-firebase-custom-claims?u=76281980&t=76)** Let's first install the Firebase Admin SDK.
 >
-> **[1:22](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/setting-firebase-custom-claims?u=76281980&t=82)** Npm install firebase dash admin.
+> **[1:22](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/setting-firebase-custom-claims?u=76281980&t=82)** [[npm]] install firebase dash admin.
 >
 > **[1:27](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/setting-firebase-custom-claims?u=76281980&t=87)** And at the time of this recording, we are using eight dot 12 dot one.
 >
@@ -2502,7 +2468,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/setting-firebase-custom-claims?u=76281980&t=101)** Click on Project settings, and then Service accounts.
 >
-> **[1:48](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/setting-firebase-custom-claims?u=76281980&t=108)** We will need to obtain credentials via the Firebase service account to authorize access to Firebase services, and we will need to generate a private key file in JSON format.
+> **[1:48](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/setting-firebase-custom-claims?u=76281980&t=108)** We will need to obtain credentials via the Firebase service account to authorize access to Firebase services, and we will need to generate a private key file in [[JSON]] format.
 >
 > **[1:59](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/setting-firebase-custom-claims?u=76281980&t=119)** Firebase makes this really easy for us.
 >
@@ -2582,7 +2548,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (17), application (3), node (3), [[npm]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Firebase]] (17), [[npm]] (2), [[JSON]] (1)
 > **CLI Commands:** node (3), npm (2), make (1)
 > **Tools:** command line (3), terminal (2)
 > **Env Vars:** sdk (2), json (1), jwt (1)
@@ -2591,12 +2557,11 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **Code Identifiers:** setcustomuserclaims (1)
 
-#### Admin interface: Users page
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-users-page?u=76281980)
+#### [Admin interface: Users page](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-users-page?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-users-page?u=76281980&t=0)** - [Instructor] Now that we have used the Firebase Admin SDK to set custom claims for an admin user, it is time to start developing our admin interface which will allow the admin user to see all of the registered users and view and edit the profile data.
+> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-users-page?u=76281980&t=0)** - [Instructor] Now that we have used the [[Firebase]] Admin SDK to set custom claims for an admin user, it is time to start developing our admin interface which will allow the admin user to see all of the registered users and view and edit the profile data.
 >
 > **[0:17](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-users-page?u=76281980&t=17)** Let's start by creating a new users page, and call it Users.js.
 >
@@ -2636,9 +2601,9 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-users-page?u=76281980&t=166)** Let's take care of our imports first here.
 >
-> **[2:50](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-users-page?u=76281980&t=170)** Import react, then we can import route and redirect from react router dom, and also import our useSession from forward slash firebase user provider.
+> **[2:50](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-users-page?u=76281980&t=170)** Import [[React.js|react]], then we can import route and redirect from react router dom, and also import our useSession from forward slash firebase user provider.
 >
-> **[3:13](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-users-page?u=76281980&t=193)** We can declare our component here, and we will destructure the props, we'll rename the component and then retain the rest of the props.
+> **[3:13](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-users-page?u=76281980&t=193)** We can declare our component here, and we will destructure the props, we'll rename the component and then retain the [[Representational State Transfer (REST)|rest]] of the props.
 >
 > **[3:28](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-users-page?u=76281980&t=208)** We can use our use session hook and grab the user, and also the isAdmin flag.
 >
@@ -2718,7 +2683,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (2), [[React.js|React]] (2), [[Representational State Transfer (REST)|Rest]] (2), data (1), application (1)
+> **Frameworks & Libraries:** [[Firebase]] (2), [[React.js|React]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Code Identifiers:** isadmin (6), routeonlogin (2), getidtoken (1), usesession (1), getidtokenresult (1)
 > **File Paths:** userprovider.js (2), users.js (1), adminroute.js (1), app.js (1), login.js (1)
 > **CLI Commands:** make (3)
@@ -2727,8 +2692,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Admin interface: Read user collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-read-user-collection?u=76281980)
+#### [Admin interface: Read user collection](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-read-user-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2740,7 +2704,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-read-user-collection?u=76281980&t=17)** Heading back to our users component, we need to add a new piece of state and it will be an array of users.
 >
-> **[0:28](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-read-user-collection?u=76281980&t=28)** We can use the used state hook from react and the initial value will be an empty array.
+> **[0:28](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-read-user-collection?u=76281980&t=28)** We can use the used state hook from [[React.js|react]] and the initial value will be an empty array.
 >
 > **[0:36](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-read-user-collection?u=76281980&t=36)** We can then use the use effect hook in order to retrieve our users collection.
 >
@@ -2750,11 +2714,11 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-read-user-collection?u=76281980&t=56)** On this users reference, we can listen for real time changes using the on snapshot method.
 >
-> **[1:06](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-read-user-collection?u=76281980&t=66)** And we get back what's called a query snapshot, from Firebase.
+> **[1:06](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-read-user-collection?u=76281980&t=66)** And we get back what's called a query snapshot, from [[Firebase]].
 >
 > **[1:11](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-read-user-collection?u=76281980&t=71)** From this query snapshot, we can get the array of all the documents.
 >
-> **[1:17](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-read-user-collection?u=76281980&t=77)** We can actually map over these and call the data method on that document in order to get the JavaScript object.
+> **[1:17](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-read-user-collection?u=76281980&t=77)** We can actually map over these and call the data method on that document in order to get the [[JavaScript]] object.
 >
 > **[1:27](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-read-user-collection?u=76281980&t=87)** And for now, let's just log out the users.
 >
@@ -2808,9 +2772,9 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-read-user-collection?u=76281980&t=266)** I'm going to stop our app here and redeploy our security rules.
 >
-> **[4:32](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-read-user-collection?u=76281980&t=272)** I'm actually going to create an NPM script to facilitate this.
+> **[4:32](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-read-user-collection?u=76281980&t=272)** I'm actually going to create an [[npm]] script to facilitate this.
 >
-> **[4:36](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-read-user-collection?u=76281980&t=276)** Head over to package.json and that will add a new NPM script; deploy firestore.
+> **[4:36](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-read-user-collection?u=76281980&t=276)** Head over to package.[[JSON]] and that will add a new NPM script; deploy firestore.
 >
 > **[4:45](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-read-user-collection?u=76281980&t=285)** And this will simply run firebase deploy//only firestore rules.
 >
@@ -2832,7 +2796,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (6), [[npm]] (6), data (4), application (3), [[Security]] (3)
+> **Frameworks & Libraries:** [[Firebase]] (6), [[npm]] (6), [[React.js|React]] (2), [[JavaScript]] (1), [[JSON]] (1)
 > **CLI Commands:** npm (6), make (2)
 > **Env Vars:** npm (6)
 > **Definitions:** is an  (2), is a  (1)
@@ -2841,8 +2805,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Prerequisites:** set up (1)
 
-#### Admin interface: Render user collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-render-user-collection?u=76281980)
+#### [Admin interface: Render user collection](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/admin-interface-render-user-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2878,11 +2841,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: View user profile with admin
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/challenge-view-user-profile-with-admin?u=76281980)
+#### [Challenge: View user profile with admin](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/challenge-view-user-profile-with-admin?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2892,16 +2853,15 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/challenge-view-user-profile-with-admin?u=76281980&t=20)** To begin, you will need to add a link for a user.
 >
-> **[0:24](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/challenge-view-user-profile-with-admin?u=76281980&t=24)** You can turn the username into a link by using link from react-router-dom.
+> **[0:24](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/challenge-view-user-profile-with-admin?u=76281980&t=24)** You can turn the username into a link by using link from [[React.js|react]]-router-dom.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[React.js|React]] (1), dom (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: View user profile with admin
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/solution-view-user-profile-with-admin?u=76281980)
+#### [Solution: View user profile with admin](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/solution-view-user-profile-with-admin?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2909,7 +2869,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/solution-view-user-profile-with-admin?u=76281980&t=6)** - [Tutor] Let me show you one way of implementing this feature.
 >
-> **[0:10](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/solution-view-user-profile-with-admin?u=76281980&t=10)** Head over now to users.js, our page component, and we can turn the user's name into a navigation link by using link from react router dom, and using the username as the text for this link.
+> **[0:10](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/solution-view-user-profile-with-admin?u=76281980&t=10)** Head over now to users.js, our page component, and we can turn the user's name into a navigation link by using link from [[React.js|react]] router dom, and using the username as the text for this link.
 >
 > **[0:32](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/solution-view-user-profile-with-admin?u=76281980&t=32)** We can go ahead and add the to prop, and the path will be /profile/userID.
 >
@@ -2933,7 +2893,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), [[React.js|React]] (1), dom (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Code Identifiers:** isadmin (2), userid (1)
 > **File Paths:** users.js (1), privateroute.js (1)
 > **Definitions:** is an  (1)
@@ -2945,12 +2905,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud Functions setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-setup?u=76281980)
+#### [Cloud Functions setup](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-setup?u=76281980&t=0)** - [Instructor] Now we turn to probably one of the most exciting parts of this course, Firebase Cloud Functions.
+> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-setup?u=76281980&t=0)** - [Instructor] Now we turn to probably one of the most exciting parts of this course, [[Firebase]] Cloud Functions.
 >
 > **[0:06](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-setup?u=76281980&t=6)** Cloud Functions for Firebase allows you to run back in code that automatically responds to event such as when data is created or deleted images are uploaded, or when there's a new user.
 >
@@ -2960,11 +2919,11 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-setup?u=76281980&t=31)** In addition there's no need to manage and scale your own servers.
 >
-> **[0:35](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-setup?u=76281980&t=35)** Even better these functions can be written in JavaScript or TypeScript, so you'll feel right at home.
+> **[0:35](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-setup?u=76281980&t=35)** Even better these functions can be written in [[JavaScript]] or TypeScript, so you'll feel right at home.
 >
 > **[0:40](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-setup?u=76281980&t=40)** Let's get started, switching to the command prompt in your project directory.
 >
-> **[0:45](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-setup?u=76281980&t=45)** You'll want to ensure that you have the Firebase CLI installed globally via NPM, NPM installed -G Firebase-tools.
+> **[0:45](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-setup?u=76281980&t=45)** You'll want to ensure that you have the Firebase [[CLI]] installed globally via [[npm]], NPM installed -G Firebase-tools.
 >
 > **[0:56](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-setup?u=76281980&t=56)** Often bug fixes and new features are available only with the latest version of the Firebase tools.
 >
@@ -2980,7 +2939,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-setup?u=76281980&t=107)** We see that there's a new functions folder, which is a directory containing the code for all of your Cloud Functions.
 >
-> **[1:56](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-setup?u=76281980&t=116)** The package.json file is the MPM package file describing your Cloud Functions.
+> **[1:56](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-setup?u=76281980&t=116)** The package.[[JSON]] file is the MPM package file describing your Cloud Functions.
 >
 > **[2:03](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-setup?u=76281980&t=123)** Index.JS is a main source file for your Cloud Functions.
 >
@@ -2988,7 +2947,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), [[Firebase]] (7), [[JavaScript]] (2), [[CLI]] (2), [[npm]] (2)
+> **Frameworks & Libraries:** [[Firebase]] (7), [[JavaScript]] (2), [[CLI]] (2), [[npm]] (2), [[JSON]] (1)
 > **Env Vars:** cli (2), npm (2), https (1), api (1), mpm (1)
 > **CLI Commands:** npm (2), make (1), node (1)
 > **Definitions:** is a  (3)
@@ -2997,12 +2956,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Best Practices:** good practice (1)
 
-#### Cloud Functions: Email setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-email-setup?u=76281980)
+#### [Cloud Functions: Email setup](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-email-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-email-setup?u=76281980&t=0)** - [Instructor] For our first Firebase cloud function, we'll be leveraging the authentication trigger to send the welcome email.
+> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-email-setup?u=76281980&t=0)** - [Instructor] For our first [[Firebase]] cloud function, we'll be leveraging the authentication trigger to send the welcome email.
 >
 > **[0:07](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-email-setup?u=76281980&t=7)** Specifically, we will trigger the cloud function when a new user signs up.
 >
@@ -3018,7 +2976,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-email-setup?u=76281980&t=38)** For larger amount of emails, consider switching to something like SendGrid or Mailgun.
 >
-> **[0:46](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-email-setup?u=76281980&t=46)** Another thing to keep in mind is that the Spark plan, which is a free Firebase plan we are currently using only allows you to send requests to Google Services.
+> **[0:46](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-email-setup?u=76281980&t=46)** Another thing to keep in mind is that the Spark plan, which is a free Firebase plan we are currently using only allows you to send requests to [[Google]] Services.
 >
 > **[0:55](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-email-setup?u=76281980&t=55)** For non Google related services, you will need to enable billing and your Firebase project.
 >
@@ -3036,7 +2994,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (3), [[Google]] (3), cloud (2), node (1)
+> **Frameworks & Libraries:** [[Firebase]] (3), [[Google]] (3)
 > **Warnings:** keep in mind (2), note that (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** node (1)
@@ -3044,14 +3002,13 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud Functions: Authentication trigger
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-authentication-trigger?u=76281980)
+#### [Cloud Functions: Authentication trigger](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-authentication-trigger?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-authentication-trigger?u=76281980&t=0)** - [Instructor] Let's try our function now.
 >
-> **[0:02](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-authentication-trigger?u=76281980&t=2)** Firebase Cloud Functions allows you to set environment variables which is important because you don't want to write credentials in your code.
+> **[0:02](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-authentication-trigger?u=76281980&t=2)** [[Firebase]] Cloud Functions allows you to set environment variables which is important because you don't want to write credentials in your code.
 >
 > **[0:10](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-authentication-trigger?u=76281980&t=10)** In your terminal, you can set environment variables using firebase functions:config:set.
 >
@@ -3059,7 +3016,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-authentication-trigger?u=76281980&t=34)** Go ahead and click Enter.
 >
-> **[0:38](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-authentication-trigger?u=76281980&t=38)** Let's change directories into the functions folder and npm install nodemailer.
+> **[0:38](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-authentication-trigger?u=76281980&t=38)** Let's change directories into the functions folder and [[npm]] install nodemailer.
 >
 > **[0:52](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-authentication-trigger?u=76281980&t=52)** And now we can write our function.
 >
@@ -3109,7 +3066,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-authentication-trigger?u=76281980&t=265)** Let's grab the email from that new user and then call our function to send this welcome email.
 >
-> **[4:39](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-authentication-trigger?u=76281980&t=279)** To deploy our Cloud Function, let's use the firebase deploy command in the package.json so we can run npm run deploy.
+> **[4:39](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-authentication-trigger?u=76281980&t=279)** To deploy our Cloud Function, let's use the firebase deploy command in the package.[[JSON]] so we can run npm run deploy.
 >
 > **[4:49](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/cloud-functions-authentication-trigger?u=76281980&t=289)** So back to our terminal.
 >
@@ -3133,7 +3090,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (5), cloud (4), [[npm]] (3), node (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Firebase]] (5), [[npm]] (3), [[JSON]] (1)
 > **Code Identifiers:** sendwelcomeemail (2), mailoptions (2), gmailpassword (1), createtransport (1), mailtransport (1)
 > **CLI Commands:** npm (3), node (1)
 > **File Paths:** functions.config (1), package.json (1)
@@ -3147,16 +3104,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Firebase Hosting setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-hosting-setup?u=76281980)
+#### [Firebase Hosting setup](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-hosting-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-hosting-setup?u=76281980&t=0)** - [Narrator] Now that we have used Authentication to manage users, Cloud Firestore to store data, Cloud Storage to store user files and Cloud Functions for serverless backends, it's time to deploy our application, and we can do so with the Firebase Hosting.
+> **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-hosting-setup?u=76281980&t=0)** - [Narrator] Now that we have used Authentication to manage users, Cloud Firestore to store data, [[Cloud Storage]] to store user files and Cloud Functions for serverless backends, it's time to deploy our application, and we can do so with the [[Firebase]] Hosting.
 >
-> **[0:16](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-hosting-setup?u=76281980&t=16)** We first need to ensure that we can build our React application for production.
+> **[0:16](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-hosting-setup?u=76281980&t=16)** We first need to ensure that we can build our [[React.js|React]] application for production.
 >
-> **[0:22](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-hosting-setup?u=76281980&t=22)** Create React App has already created a build script for us, so we can simply run NPM , run build and create React App, we'll go ahead and create an optimized production build for us.
+> **[0:22](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-hosting-setup?u=76281980&t=22)** Create React App has already created a build script for us, so we can simply run [[npm]] , run build and create React App, we'll go ahead and create an optimized production build for us.
 >
 > **[0:38](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-hosting-setup?u=76281980&t=38)** Looking at our project files, we see that there's a new build folder here with the optimized production build.
 >
@@ -3168,13 +3124,13 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-hosting-setup?u=76281980&t=68)** Our public directory will be build.
 >
-> **[1:14](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-hosting-setup?u=76281980&t=74)** We want to configure as a single page app and we don't want to override the index HTML file.
+> **[1:14](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-hosting-setup?u=76281980&t=74)** We want to configure as a single page app and we don't want to override the index [[HTML]] file.
 >
-> **[1:25](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-hosting-setup?u=76281980&t=85)** You will then see that the firebase.json file has been updated with the hosting configuration.
+> **[1:25](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/firebase-hosting-setup?u=76281980&t=85)** You will then see that the firebase.[[JSON]] file has been updated with the hosting configuration.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (4), cloud (3), [[React.js|React]] (3), application (2), data (1)
+> **Frameworks & Libraries:** [[Firebase]] (4), [[React.js|React]] (3), [[Cloud Storage]] (1), [[npm]] (1), [[HTML]] (1)
 > **Env Vars:** npm (1), html (1)
 > **Prerequisites:** set up (1), configure (1)
 > **File Paths:** firebase.json (1)
@@ -3182,16 +3138,15 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [narrator] (1)
 
-#### Deploying your React app
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-your-react-app?u=76281980)
+#### [Deploying your React app](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-your-react-app?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-your-react-app?u=76281980&t=0)** - [Instructor] And now let's deploy the application that you have been working so hard on.
 >
-> **[0:05](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-your-react-app?u=76281980&t=5)** Let's write a new npm script.
+> **[0:05](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-your-react-app?u=76281980&t=5)** Let's write a new [[npm]] script.
 >
-> **[0:08](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-your-react-app?u=76281980&t=8)** We will call this "deploy:hosting", and this will run "firebase deploy --only hosting".
+> **[0:08](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-your-react-app?u=76281980&t=8)** We will call this "deploy:hosting", and this will run "[[Firebase]] deploy --only hosting".
 >
 > **[0:21](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/deploying-your-react-app?u=76281980&t=21)** We'll also write another npm script, simply "deploy" and we can use "firebase deploy," without any arguments.
 >
@@ -3223,7 +3178,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (5), application (4), [[npm]] (3), data (3), cloud (2)
+> **Frameworks & Libraries:** [[Firebase]] (5), [[npm]] (3)
 > **CLI Commands:** npm (3)
 > **Env Vars:** url (2)
 > **Analogies:** such as (1)
@@ -3235,20 +3190,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/next-steps?u=76281980&t=0)** - Thanks for joining me on this course.
 >
-> **[0:02](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/next-steps?u=76281980&t=2)** We have leveraged most of the excellent services provided by Google to help us build a server-less app.
+> **[0:02](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/next-steps?u=76281980&t=2)** We have leveraged most of the excellent services provided by [[Google]] to help us build a server-less app.
 >
-> **[0:09](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/next-steps?u=76281980&t=9)** You have built an app that uses many features like authentication, routing, React hooks, and Cloud functions.
+> **[0:09](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/next-steps?u=76281980&t=9)** You have built an app that uses many features like authentication, [[Routing]], [[React Hooks]], and Cloud functions.
 >
 > **[0:16](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/next-steps?u=76281980&t=16)** These are real skills that you can use in your project.
 >
-> **[0:19](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/next-steps?u=76281980&t=19)** I hope you enjoyed learning about the different Firebase features that will make you a much more productive developer when developing React applications.
+> **[0:19](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/next-steps?u=76281980&t=19)** I hope you enjoyed learning about the different [[Firebase]] features that will make you a much more productive developer when developing [[React.js|React]] applications.
 >
 > **[0:28](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/next-steps?u=76281980&t=28)** I strongly recommend subscribing to the Firebase YouTube channel.
 >
@@ -3256,7 +3210,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/next-steps?u=76281980&t=37)** And of course, continue to browse our library for anything React related.
 >
-> **[0:42](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/next-steps?u=76281980&t=42)** If you wish to know what I'm currently working on, follow me on GitHub at [github.com/victormejia](https://github.com/victormejia).
+> **[0:42](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/next-steps?u=76281980&t=42)** If you wish to know what I'm currently working on, follow me on [[GitHub]] at [github.com/victormejia](https://github.com/victormejia).
 >
 > **[0:50](https://www.linkedin.com/learning/react-cloud-powered-apps-with-firebase/next-steps?u=76281980&t=50)** You can also follow me at Twitter, at [twitter.com/_victormejia](https://twitter.com/_victormejia) Thanks for watching.
 

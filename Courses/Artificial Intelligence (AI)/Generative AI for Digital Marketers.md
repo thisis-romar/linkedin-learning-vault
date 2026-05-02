@@ -68,14 +68,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Digital marketing meets generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/digital-marketing-meets-generative-ai?u=76281980)
+#### [Digital marketing meets generative AI](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/digital-marketing-meets-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/digital-marketing-meets-generative-ai?u=76281980&t=0)** - It's taken more than 60 years for artificial intelligence to turn into an overnight sensation.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/digital-marketing-meets-generative-ai?u=76281980&t=0)** - It's taken more than 60 years for [[Artificial Intelligence (AI)|artificial intelligence]] to turn into an overnight sensation.
 >
-> **[0:07](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/digital-marketing-meets-generative-ai?u=76281980&t=7)** Now, you can't blink without reading about generative AI and all the changes it's unleashing on digital marketing.
+> **[0:07](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/digital-marketing-meets-generative-ai?u=76281980&t=7)** Now, you can't blink without reading about [[Generative AI]] and all the changes it's unleashing on digital marketing.
 >
 > **[0:15](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/digital-marketing-meets-generative-ai?u=76281980&t=15)** But how do you sort through the hype, develop new workflows, and select tools that make sense for your company's goals?
 >
@@ -91,7 +90,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (3), ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - it (1)
 
@@ -100,12 +99,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Narrow versus general AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/narrow-versus-general-ai?u=76281980)
+#### [Narrow versus general AI](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/narrow-versus-general-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/narrow-versus-general-ai?u=76281980&t=1)** - For some people, the thought of artificial intelligence conjures up images of killer robots trying to take over the world, like they do in the famous James Cameron movie, "Terminator 2."
+> **[0:01](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/narrow-versus-general-ai?u=76281980&t=1)** - For some people, the thought of [[Artificial Intelligence (AI)|artificial intelligence]] conjures up images of killer robots trying to take over the world, like they do in the famous James Cameron movie, "Terminator 2."
 >
 > **[0:11](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/narrow-versus-general-ai?u=76281980&t=11)** But the AI we have today is far from that.
 >
@@ -115,7 +113,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/narrow-versus-general-ai?u=76281980&t=30)** Narrow AI is when a machine is designed to do one task better than a human ever could and it's what we have now.
 >
-> **[0:38](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/narrow-versus-general-ai?u=76281980&t=38)** This includes digital assistance, algorithmic feeds on social media, and generative AI.
+> **[0:38](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/narrow-versus-general-ai?u=76281980&t=38)** This includes digital assistance, algorithmic feeds on social media, and [[Generative AI]].
 >
 > **[0:45](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/narrow-versus-general-ai?u=76281980&t=45)** Narrow AI needs to be trained on a lot of data in order to spot patterns and make statistical predictions, but it can't transfer its knowledge to another task.
 >
@@ -123,7 +121,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/narrow-versus-general-ai?u=76281980&t=68)** General AI is what we're most familiar with from science fiction books, movies, and TV, like the operating system voiced by Scarlett Johansson in the movie "Her," or R2-D2 or C-3PO from "Star Wars."
 >
-> **[1:23](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/narrow-versus-general-ai?u=76281980&t=83)** These days, a lot of companies, like Microsoft, Google, Meta, and OpenAI, are putting billions of dollars into research that will lead to general AI.
+> **[1:23](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/narrow-versus-general-ai?u=76281980&t=83)** These days, a lot of companies, like [[Microsoft]], [[Google]], Meta, and OpenAI, are putting billions of dollars into research that will lead to general AI.
 >
 > **[1:34](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/narrow-versus-general-ai?u=76281980&t=94)** But we're not there yet and there's no consensus about when we will be.
 >
@@ -137,25 +135,24 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/narrow-versus-general-ai?u=76281980&t=138)** Perhaps you're using it to supplement your creative department with an AI writing or design app.
 >
-> **[2:23](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/narrow-versus-general-ai?u=76281980&t=143)** Maybe it's helping you customize your digital ads in real-time or you could be looking for trends from your analytics data to get insights on customer behavior.
+> **[2:23](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/narrow-versus-general-ai?u=76281980&t=143)** Maybe it's helping you customize your digital ads in [[Real-Time]] or you could be looking for trends from your analytics data to get insights on customer behavior.
 >
 > **[2:34](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/narrow-versus-general-ai?u=76281980&t=154)** Just remember, narrow AI is all about statistical predictions and data, so be sure you have a plan in place to safely collect, manage and protect your data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), data (4), [[Generative AI]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Generative AI]] (1), [[Microsoft]] (1), [[Google]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - for (1)
 
-#### Four AI concepts marketers need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/four-ai-concepts-marketers-need-to-know?u=76281980)
+#### [Four AI concepts marketers need to know](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/four-ai-concepts-marketers-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/four-ai-concepts-marketers-need-to-know?u=76281980&t=0)** - Before we dive into the AI tools and how you might use them for your brand, it's a good idea to understand some key AI concepts.
 >
-> **[0:08](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/four-ai-concepts-marketers-need-to-know?u=76281980&t=8)** Let's look at 4, natural language processing, or NLP, computer vision, multimodal learning, and generative AI.
+> **[0:08](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/four-ai-concepts-marketers-need-to-know?u=76281980&t=8)** Let's look at 4, [[Natural Language Processing (NLP)|natural language processing]], or NLP, [[Computer Vision]], multimodal learning, and [[Generative AI]].
 >
 > **[0:19](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/four-ai-concepts-marketers-need-to-know?u=76281980&t=19)** I'm going to start with generative AI, since it's a term you've been hearing about a lot.
 >
@@ -169,7 +166,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/four-ai-concepts-marketers-need-to-know?u=76281980&t=44)** Well, generative AI uses natural language processing, or NLP to- in quotations- "understand" the connection between words, so it can predict what might come next.
 >
-> **[0:56](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/four-ai-concepts-marketers-need-to-know?u=76281980&t=56)** You see, in order to provide a human-sounding output, NLP needs to be trained on vast amounts of data, and that's where large language models, or LLMs, come in.
+> **[0:56](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/four-ai-concepts-marketers-need-to-know?u=76281980&t=56)** You see, in order to provide a human-sounding output, NLP needs to be trained on vast amounts of data, and that's where [[Large Language Models (LLM)|large language models]], or LLMs, come in.
 >
 > **[1:10](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/four-ai-concepts-marketers-need-to-know?u=76281980&t=70)** LLMs read or process data from websites, digital books, social media posts, blogs, media outlets, Wikipedia, and many other public sources of online text.
 >
@@ -185,33 +182,32 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/four-ai-concepts-marketers-need-to-know?u=76281980&t=146)** Now, that paved the way for text-to-image design, and will soon alter how you create videos, music, synthetic voices, 3D scenes, and a lot more.
 >
-> **[2:37](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/four-ai-concepts-marketers-need-to-know?u=76281980&t=157)** Ultimately, it all comes down to the quality of your prompt and expressing what you want in language a machine can grasp, which is why prompt engineering is a good skill for marketers to have.
+> **[2:37](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/four-ai-concepts-marketers-need-to-know?u=76281980&t=157)** Ultimately, it all comes down to the quality of your prompt and expressing what you want in language a machine can grasp, which is why [[Prompt Engineering]] is a good skill for marketers to have.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (6), ai (5), [[Generative AI]] (4), [[Computer Vision]] (3), data (3)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Computer Vision]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Prompt Engineering]] (1)
 > **Env Vars:** nlp (6)
 > **Definitions:** is a  (1)
 > **Speakers:** - before (1)
 
-#### Crafting a marketing prompt
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/crafting-a-marketing-prompt?u=76281980)
+#### [Crafting a marketing prompt](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/crafting-a-marketing-prompt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/crafting-a-marketing-prompt?u=76281980&t=0)** - [Instructor] As I've mentioned before artificial intelligence is all about predictions and in many cases they're getting really good.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/crafting-a-marketing-prompt?u=76281980&t=0)** - [Instructor] As I've mentioned before [[Artificial Intelligence (AI)|artificial intelligence]] is all about predictions and in many cases they're getting really good.
 >
 > **[0:08](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/crafting-a-marketing-prompt?u=76281980&t=8)** But AI doesn't have intuition and can't read your mind.
 >
 > **[0:12](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/crafting-a-marketing-prompt?u=76281980&t=12)** So to get what you want, you have to prepare detailed instructions a machine understands.
 >
-> **[0:19](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/crafting-a-marketing-prompt?u=76281980&t=19)** That's called prompt engineering and it's becoming a new marketing skill.
+> **[0:19](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/crafting-a-marketing-prompt?u=76281980&t=19)** That's called [[Prompt Engineering]] and it's becoming a new marketing skill.
 >
 > **[0:25](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/crafting-a-marketing-prompt?u=76281980&t=25)** Prompt engineering is the strategic use of language as the input that lets the AI know the parameters for the creative output you want to see.
 >
 > **[0:35](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/crafting-a-marketing-prompt?u=76281980&t=35)** In many ways, it's a lot like coding, except the symbols you're using are words.
 >
-> **[0:40](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/crafting-a-marketing-prompt?u=76281980&t=40)** While your colleagues at work might be able to fill in the blanks when you ask them to do something, generative AI can only respond to what's included in your prompt.
+> **[0:40](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/crafting-a-marketing-prompt?u=76281980&t=40)** While your colleagues at work might be able to fill in the blanks when you ask them to do something, [[Generative AI]] can only respond to what's included in your prompt.
 >
 > **[0:50](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/crafting-a-marketing-prompt?u=76281980&t=50)** That's why you want to make sure you're descriptive and specific by specifying details like length and format, tone, the audience you're trying to reach and whose perspective it's from.
 >
@@ -223,7 +219,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/crafting-a-marketing-prompt?u=76281980&t=74)** As you can imagine, there's a lot of trial and error involved in prompt engineering and you'll need to figure out how to become almost an AI whisperer to the machine.
 >
-> **[1:24](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/crafting-a-marketing-prompt?u=76281980&t=84)** I encourage you to check out Dave Birss' great course on LinkedIn that teaches you how to craft an effective writing or research prompt and gives you lots of examples.
+> **[1:24](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/crafting-a-marketing-prompt?u=76281980&t=84)** I encourage you to check out Dave Birss' great course on [[LinkedIn]] that teaches you how to craft an effective writing or research prompt and gives you lots of examples.
 >
 > **[1:35](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/crafting-a-marketing-prompt?u=76281980&t=95)** Ultimately, you and your team will need to test any new generative AI tool you're using to see how it responds to your prompts and it's a good idea to approach this in a scientific manner.
 >
@@ -235,7 +231,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Prompt Engineering]] (3), [[Generative AI]] (2), prompt (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (3), [[Generative AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[LinkedIn]] (1)
 > **Analogies:** picture (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
@@ -246,14 +242,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI and writing in marketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-writing-in-marketing?u=76281980)
+#### [AI and writing in marketing](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-writing-in-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-writing-in-marketing?u=76281980&t=0)** - [Martin] You know those times when you're racing against a deadline and you've got to come up with some copy, fast, but the blank screen is staring you down and you wonder how you're ever going to get it done?
 >
-> **[0:14](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-writing-in-marketing?u=76281980&t=14)** Well, this could be a job for generative AI.
+> **[0:14](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-writing-in-marketing?u=76281980&t=14)** Well, this could be a job for [[Generative AI]].
 >
 > **[0:20](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-writing-in-marketing?u=76281980&t=20)** Just enter your prompt and presto, your superhero copy is ready in a flash.
 >
@@ -297,7 +292,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-writing-in-marketing?u=76281980&t=127)** - [Audrey] Okay.
 >
-> **[2:08](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-writing-in-marketing?u=76281980&t=128)** Describe the rivalry between a lemon vanilla cupcake and iced sugar cookies in a lighthearted and funny way for posts that could be used on Instagram and that targets women between 18 and 34.
+> **[2:08](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-writing-in-marketing?u=76281980&t=128)** Describe the rivalry between a lemon [[Vanilla]] cupcake and iced sugar cookies in a lighthearted and funny way for posts that could be used on Instagram and that targets women between 18 and 34.
 >
 > **[2:21](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-writing-in-marketing?u=76281980&t=141)** - [Martin] Great.
 >
@@ -323,19 +318,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), ai (3), [[Generative AI]] (2), generic (1), [[Vanilla]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Vanilla]] (1)
 > **Speakers:** - [martin] (4), - [audrey] (3)
 > **CLI Commands:** make (2), find (2)
 > **Prerequisites:** you'll need (2)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### AI and design in marketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-design-in-marketing?u=76281980)
+#### [AI and design in marketing](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-design-in-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-design-in-marketing?u=76281980&t=0)** - [Martin] I've always considered myself a writer first and that's sometimes been a challenge in the digital world where visual storytelling and writing go hand in hand, which could explain why there's so much excitement about text-to-image apps because they let you use words to describe the visuals you imagine and in seconds, you see a finished result.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-design-in-marketing?u=76281980&t=0)** - [Martin] I've always considered myself a writer first and that's sometimes been a challenge in the digital world where visual [[Storytelling]] and writing go hand in hand, which could explain why there's so much excitement about text-to-image apps because they let you use words to describe the visuals you imagine and in seconds, you see a finished result.
 >
 > **[0:23](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-design-in-marketing?u=76281980&t=23)** Sometimes the images are really good.
 >
@@ -353,11 +347,11 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-design-in-marketing?u=76281980&t=66)** Pay attention to the ones that give you the best results and the elements that they have in common.
 >
-> **[1:14](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-design-in-marketing?u=76281980&t=74)** There are many tools to choose from and they range from free to paid and include DALL-E 2, Stable Diffusion, and Midjourney.
+> **[1:14](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-design-in-marketing?u=76281980&t=74)** There are many tools to choose from and they range from free to paid and include [[DALL-E]] 2, [[Stable Diffusion]], and [[Midjourney]].
 >
-> **[1:24](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-design-in-marketing?u=76281980&t=84)** Even the design app, Canva and Adobe have a generative AI feature.
+> **[1:24](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-design-in-marketing?u=76281980&t=84)** Even the design app, [[Canva]] and Adobe have a [[Generative AI]] feature.
 >
-> **[1:29](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-design-in-marketing?u=76281980&t=89)** And Tome, a startup, integrates natural language processing and computer vision to speed up the creation of presentations and slides.
+> **[1:29](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-design-in-marketing?u=76281980&t=89)** And Tome, a startup, integrates [[Natural Language Processing (NLP)|natural language processing]] and [[Computer Vision]] to speed up the creation of presentations and slides.
 >
 > **[1:40](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-design-in-marketing?u=76281980&t=100)** Let's see an example of how a brand can put AI imagery into action.
 >
@@ -381,7 +375,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-design-in-marketing?u=76281980&t=171)** - [Martin] Well, let's see how that might look.
 >
-> **[2:56](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-design-in-marketing?u=76281980&t=176)** A young couple and paste the rest in.
+> **[2:56](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-design-in-marketing?u=76281980&t=176)** A young couple and paste the [[Representational State Transfer (REST)|rest]] in.
 >
 > **[3:03](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-design-in-marketing?u=76281980&t=183)** And then what we can do is watch while the magic happens.
 >
@@ -391,7 +385,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-design-in-marketing?u=76281980&t=192)** Some of the images were just awful, way off the mark, but a few of them, like this one, gave us an idea we eventually shared with our designers.
 >
-> **[3:21](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-design-in-marketing?u=76281980&t=201)** - [Martin] Landon Hotels use text-to-image AI as inspiration, but you can create visuals for ads, blog posts, email newsletters, or even stories on social media.
+> **[3:21](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-design-in-marketing?u=76281980&t=201)** - [Martin] Landon Hotels use text-to-image AI as inspiration, but you can create visuals for ads, blog posts, email [[Newsletters]], or even stories on social media.
 >
 > **[3:35](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-design-in-marketing?u=76281980&t=215)** When it comes to text-to-image design, the sky's the limit.
 >
@@ -399,22 +393,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), ai (4), [[Storytelling]] (1), [[DALL-E]] (1), [[Stable Diffusion]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1), [[DALL-E]] (1), [[Stable Diffusion]] (1), [[Midjourney]] (1), [[Canva]] (1)
 > **Speakers:** - [martin] (4), - [leslie] (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** imagine (1), similar to (1)
 > **Env Vars:** dall (1)
 
-#### AI and video in marketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-video-in-marketing?u=76281980)
+#### [AI and video in marketing](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-video-in-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-video-in-marketing?u=76281980&t=0)** - [Instructor] Lights, camera, AI?
 >
-> **[0:04](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-video-in-marketing?u=76281980&t=4)** Video production has always been a complex and labor intensive task because you needed a script, actors, directors, cinematographers, audio engineers, editors, musicians, and of course, a great story.
+> **[0:04](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-video-in-marketing?u=76281980&t=4)** [[Video Production]] has always been a complex and labor intensive task because you needed a script, actors, directors, cinematographers, audio engineers, editors, musicians, and of course, a great story.
 >
-> **[0:20](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-video-in-marketing?u=76281980&t=20)** Social media and mobile tech simplified the process, and now, like so many other areas of marketing, it's being transformed by generative AI.
+> **[0:20](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-video-in-marketing?u=76281980&t=20)** Social media and mobile tech simplified the process, and now, like so many other areas of marketing, it's being transformed by [[Generative AI]].
 >
 > **[0:30](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-video-in-marketing?u=76281980&t=30)** Let's begin at the idea stage.
 >
@@ -428,7 +421,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-video-in-marketing?u=76281980&t=86)** Prop-based video editing will speed up process and let you quickly add effects.
 >
-> **[1:32](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-video-in-marketing?u=76281980&t=92)** Generative AI will also compose the musical soundtrack for your video.
+> **[1:32](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-video-in-marketing?u=76281980&t=92)** Generative AI will also [[Jetpack Compose|compose]] the musical soundtrack for your video.
 >
 > **[1:37](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-video-in-marketing?u=76281980&t=97)** Just tell it the genre, tempo, arrangement, and length, and you'll be humming the tune in no time.
 >
@@ -438,11 +431,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Generative AI]] (2), [[Video Production]] (1), prompt (1), [[Jetpack Compose|Compose]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Video Production]] (1), [[Jetpack Compose|Compose]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generative AI beyond writing and design
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/generative-ai-beyond-writing-and-design?u=76281980)
+#### [Generative AI beyond writing and design](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/generative-ai-beyond-writing-and-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -458,7 +450,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/generative-ai-beyond-writing-and-design?u=76281980&t=40)** Just remember to build in a process to seamlessly hand over an interaction to a human if the AI can't handle a request.
 >
-> **[0:50](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/generative-ai-beyond-writing-and-design?u=76281980&t=50)** Speaking of customer service, generative AI is being integrated into your customer relationship management platform and will help you personalize, organize, and manage your email campaigns and it will be able to summarize your emails and craft responses and marketing messages and reduce the time you spend managing your inbox.
+> **[0:50](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/generative-ai-beyond-writing-and-design?u=76281980&t=50)** Speaking of customer service, [[Generative AI]] is being integrated into your customer relationship management platform and will help you personalize, organize, and manage your email campaigns and it will be able to summarize your emails and craft responses and marketing messages and reduce the time you spend managing your inbox.
 >
 > **[1:13](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/generative-ai-beyond-writing-and-design?u=76281980&t=73)** Generative AI will let you set up and manage projects with a prompt and provide reminders and tracking to ensure your team meets your deadlines.
 >
@@ -466,7 +458,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/generative-ai-beyond-writing-and-design?u=76281980&t=85)** Just tell an AI budget app your goals and parameters and it will prepare your spreadsheet effortlessly and provide reports on where you are with your spend.
 >
-> **[1:35](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/generative-ai-beyond-writing-and-design?u=76281980&t=95)** Major platforms like Google and Meta already offer you AI ad optimization, but imagine how easy it will be if you just have to input your idea, audience, budget, and channels and the AI will create and place your ad for maximum ROI.
+> **[1:35](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/generative-ai-beyond-writing-and-design?u=76281980&t=95)** Major platforms like [[Google]] and Meta already offer you AI ad optimization, but imagine how easy it will be if you just have to input your idea, audience, budget, and channels and the AI will create and place your ad for maximum ROI.
 >
 > **[1:54](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/generative-ai-beyond-writing-and-design?u=76281980&t=114)** And of course, you'll have your own personal AI assistant to keep track of your day, schedule appointments, and assist you with research, relationship management, and creativity.
 >
@@ -474,29 +466,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Generative AI]] (2), management (2), chatbot (1), prompt (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Google]] (1)
 > **Analogies:** imagine (2)
 > **Env Vars:** roi (1)
 > **Best Practices:** remember to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI, the metaverse, and immersive marketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-the-metaverse-and-immersive-marketing?u=76281980)
+#### [AI, the metaverse, and immersive marketing](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-the-metaverse-and-immersive-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-the-metaverse-and-immersive-marketing?u=76281980&t=0)** - [Narrator] Let's fast forward a few years to a time when immersive technologies like augmented and mixed reality and the metaverse are in full swing.
 >
-> **[0:09](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-the-metaverse-and-immersive-marketing?u=76281980&t=9)** What part will generative AI play?
+> **[0:09](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-the-metaverse-and-immersive-marketing?u=76281980&t=9)** What part will [[Generative AI]] play?
 >
-> **[0:12](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-the-metaverse-and-immersive-marketing?u=76281980&t=12)** Well, you can bet artificial intelligence will feature prominently in many immersive apps to ensure the digital assets appear where and when they're supposed to.
+> **[0:12](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-the-metaverse-and-immersive-marketing?u=76281980&t=12)** Well, you can bet [[Artificial Intelligence (AI)|artificial intelligence]] will feature prominently in many immersive apps to ensure the digital assets appear where and when they're supposed to.
 >
 > **[0:23](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-the-metaverse-and-immersive-marketing?u=76281980&t=23)** And generative AI could become the superhero tool that lets you dream, create, iterate, and bring visual scenes to life right before your eyes.
 >
 > **[0:36](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-the-metaverse-and-immersive-marketing?u=76281980&t=36)** For instance, what if you wanted to take your customers to a pristine beach or a breathtaking view of the desert?
 >
-> **[0:45](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-the-metaverse-and-immersive-marketing?u=76281980&t=45)** Well, generative AI tools will let you describe your vision and create it instantly, and you'll be able to fix or refine it by changing your prompt and insert your brand into the surroundings in a subtle and surprising way.
+> **[0:45](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-the-metaverse-and-immersive-marketing?u=76281980&t=45)** Well, [[Generative AI Tools]] will let you describe your vision and create it instantly, and you'll be able to fix or refine it by changing your prompt and insert your brand into the surroundings in a subtle and surprising way.
 >
 > **[1:00](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-the-metaverse-and-immersive-marketing?u=76281980&t=60)** Take a look at this image and see if you can spot h+ Sport.
 >
@@ -518,7 +509,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (3), prompt (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), feature (1), [[Generative AI Tools]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI Tools]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** evoo (1)
 > **Analogies:** for instance (1)
@@ -529,12 +520,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI issues, risks, and policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-issues-risks-and-policies?u=76281980)
+#### [AI issues, risks, and policies](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-issues-risks-and-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-issues-risks-and-policies?u=76281980&t=0)** - Generative AI, like any technology, comes with benefits and risks, and you need to assess and manage the good and the bad before adding AI to your marketing mix.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-issues-risks-and-policies?u=76281980&t=0)** - [[Generative AI]], like any technology, comes with benefits and risks, and you need to assess and manage the good and the bad before adding AI to your marketing mix.
 >
 > **[0:13](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-issues-risks-and-policies?u=76281980&t=13)** Let's start with the data used to train the algorithm.
 >
@@ -544,13 +534,13 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-issues-risks-and-policies?u=76281980&t=25)** What guarantees do you have that it won't be used to train the machine and that it won't end up in your competitor's hands?
 >
-> **[0:33](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-issues-risks-and-policies?u=76281980&t=33)** Bias is another concern, and it comes in many forms.
+> **[0:33](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-issues-risks-and-policies?u=76281980&t=33)** Bias is another concern, and it comes in many [[Forms]].
 >
 > **[0:38](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-issues-risks-and-policies?u=76281980&t=38)** It could be the bias in data that hasn't been trained on a diverse set of examples and adversely affects a person's life, or it could be the bias built into the algorithm itself.
 >
 > **[0:50](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-issues-risks-and-policies?u=76281980&t=50)** You'll want to figure out how to reduce and mitigate biases or you could risk making the wrong decision and harming your customers or your brand.
 >
-> **[0:59](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-issues-risks-and-policies?u=76281980&t=59)** Some other issues to consider are privacy, including protecting your data as well as the data your customers and staff share with you.
+> **[0:59](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-issues-risks-and-policies?u=76281980&t=59)** Some other issues to consider are [[Privacy]], including protecting your data as well as the data your customers and staff share with you.
 >
 > **[1:08](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-issues-risks-and-policies?u=76281980&t=68)** Then there's transparency and the way you'll disclose how you're using AI.
 >
@@ -560,9 +550,9 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-issues-risks-and-policies?u=76281980&t=105)** That's why it's essential to develop enterprise-wide policies to frame the ways you'll be using AI.
 >
-> **[1:52](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-issues-risks-and-policies?u=76281980&t=112)** Bring your company's legal, data science, IT, finance, operations, marketing, and communications teams together to establish those guidelines, and prepare a crisis response strategy that puts people ahead of machines.
+> **[1:52](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-issues-risks-and-policies?u=76281980&t=112)** Bring your company's legal, [[Data Science]], IT, finance, operations, marketing, and communications teams together to establish those guidelines, and prepare a crisis response strategy that puts people ahead of machines.
 >
-> **[2:08](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-issues-risks-and-policies?u=76281980&t=128)** The National Institute of Standards and Technology, or NIST, has a four step reputation management framework you can use to get started.
+> **[2:08](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-issues-risks-and-policies?u=76281980&t=128)** The National Institute of Standards and Technology, or [[NIST]], has a four step reputation management framework you can use to get started.
 >
 > **[2:17](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-issues-risks-and-policies?u=76281980&t=137)** That is map, measure, manage, and govern.
 >
@@ -572,14 +562,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), ai (4), [[Generative AI]] (2), [[Forms]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Forms]] (1), [[Privacy]] (1), [[Data Science]] (1), [[NIST]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (1), you'll need (1)
 > **Env Vars:** nist (1)
 > **Speakers:** - generative (1)
 
-#### AI workflow and marketing tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-workflow-and-marketing-tools?u=76281980)
+#### [AI workflow and marketing tools](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-workflow-and-marketing-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -589,7 +578,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-workflow-and-marketing-tools?u=76281980&t=9)** Meanwhile, brands weren't sure what to do.
 >
-> **[0:12](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-workflow-and-marketing-tools?u=76281980&t=12)** I think we're in a similar place with generative AI.
+> **[0:12](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-workflow-and-marketing-tools?u=76281980&t=12)** I think we're in a similar place with [[Generative AI]].
 >
 > **[0:17](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-workflow-and-marketing-tools?u=76281980&t=17)** Which is why now's a good time to figure out how AI fits into your marketing workflow.
 >
@@ -607,7 +596,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-workflow-and-marketing-tools?u=76281980&t=64)** What skills would a fact checker need and is someone from your team up to the task?
 >
-> **[1:10](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-workflow-and-marketing-tools?u=76281980&t=70)** What about prompt engineering?
+> **[1:10](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-workflow-and-marketing-tools?u=76281980&t=70)** What about [[Prompt Engineering]]?
 >
 > **[1:12](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-workflow-and-marketing-tools?u=76281980&t=72)** Again, is that a new hire or a job for an existing member of your staff?
 >
@@ -643,11 +632,11 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-workflow-and-marketing-tools?u=76281980&t=159)** When it comes to generative AI workflow and tools there's no one size fits all so be open and listen to your team.
 >
-> **[2:47](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-workflow-and-marketing-tools?u=76281980&t=167)** There are so many new products being launched, that the choices you make today will likely change in the future, and you may need to go back to the drawing board and adapt.
+> **[2:47](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-workflow-and-marketing-tools?u=76281980&t=167)** There are so many new [[Microsoft Products|products]] being launched, that the choices you make today will likely change in the future, and you may need to go back to the drawing board and adapt.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Generative AI]] (2), next (1), [[Prompt Engineering]] (1), data (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Prompt Engineering]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Best Practices:** don't forget (1)
@@ -658,12 +647,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI and your marketing and creative team
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-your-marketing-and-creative-team?u=76281980)
+#### [AI and your marketing and creative team](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-your-marketing-and-creative-team?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-your-marketing-and-creative-team?u=76281980&t=0)** - Well, the algorithm course is almost over and now you've got a better sense of generative AI and how it's reshaping digital marketing.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-your-marketing-and-creative-team?u=76281980&t=0)** - Well, the algorithm course is almost over and now you've got a better sense of [[Generative AI]] and how it's reshaping digital marketing.
 >
 > **[0:11](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-your-marketing-and-creative-team?u=76281980&t=11)** I outlined three types of AI and what each does and identified several key concepts to help you get a handle on what's under the AI hood.
 >
@@ -675,7 +663,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-your-marketing-and-creative-team?u=76281980&t=47)** I know AI can feel overwhelming, so stay curious, critical and open to change.
 >
-> **[0:52](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-your-marketing-and-creative-team?u=76281980&t=52)** If you have any questions about generative AI and marketing please follow me on LinkedIn or subscribe to my Digital Marketing Trends newsletter.
+> **[0:52](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-your-marketing-and-creative-team?u=76281980&t=52)** If you have any questions about generative AI and marketing please follow me on [[LinkedIn]] or subscribe to my Digital Marketing Trends newsletter.
 >
 > **[1:02](https://www.linkedin.com/learning/generative-ai-for-digital-marketers/ai-and-your-marketing-and-creative-team?u=76281980&t=62)** Thank you for watching the course.
 >
@@ -683,7 +671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Generative AI]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[LinkedIn]] (1)
 > **Speakers:** - well (1)
 
 

@@ -81,8 +81,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The threat of repudiation
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/the-threat-of-repudiation?u=76281980)
+#### [The threat of repudiation](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/the-threat-of-repudiation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -102,7 +101,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/the-threat-of-repudiation?u=76281980&t=18)** Repudiation is nearly as old as speech, and as new as the latest hot app.
 >
-> **[0:24](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/the-threat-of-repudiation?u=76281980&t=24)** This course is part of a series on threat modeling.
+> **[0:24](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/the-threat-of-repudiation?u=76281980&t=24)** This course is part of a series on [[Threat Modeling]].
 >
 > **[0:27](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/the-threat-of-repudiation?u=76281980&t=27)** And the stride pneumonic for threats.
 >
@@ -118,16 +117,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (3)
 > **Env Vars:** cve (1)
 > **Speakers:** - it (1)
 
-#### Four-question framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/four-question-framework?u=76281980)
+#### [Four-question framework](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/four-question-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/four-question-framework?u=76281980&t=1)** - At the heart of threat modeling are four incredibly simple questions.
+> **[0:01](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/four-question-framework?u=76281980&t=1)** - At the heart of [[Threat Modeling]] are four incredibly simple questions.
 >
 > **[0:05](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/four-question-framework?u=76281980&t=5)** What are we working on?
 >
@@ -153,16 +151,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - at (1)
 
-#### Repudiation as part of STRIDE
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/repudiation-as-part-of-stride?u=76281980)
+#### [Repudiation as part of STRIDE](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/repudiation-as-part-of-stride?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/repudiation-as-part-of-stride?u=76281980&t=0)** - [Narrator] This course is part of a series on threat modeling and the STRIDE threats.
+> **[0:00](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/repudiation-as-part-of-stride?u=76281980&t=0)** - [Narrator] This course is part of a series on [[Threat Modeling]] and the STRIDE threats.
 >
 > **[0:05](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/repudiation-as-part-of-stride?u=76281980&t=5)** STRIDE is a mnemonic that stands for spoofing, tampering, repudiation, information disclosure, denial of service, and elevation of privilege.
 >
@@ -196,8 +193,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Message repudiation
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/message-repudiation?u=76281980)
+#### [Message repudiation](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/message-repudiation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -232,8 +228,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Operational repudiation
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/operational-repudiation?u=76281980)
+#### [Operational repudiation](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/operational-repudiation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -259,7 +254,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **Speakers:** - [narrator] (1)
 
 
@@ -267,8 +261,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Buyers and sellers
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/buyers-and-sellers?u=76281980)
+#### [Buyers and sellers](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/buyers-and-sellers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -304,13 +297,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), data (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - fraud (1)
 
-#### Intermediaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/intermediaries?u=76281980)
+#### [Intermediaries](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/intermediaries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -342,8 +333,7 @@ created: 2026-05-02
 > **Code Identifiers:** ebay (1)
 > **Speakers:** - [instructor] (1)
 
-#### Account takeover
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/account-takeover?u=76281980)
+#### [Account takeover](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/account-takeover?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -381,7 +371,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -391,8 +380,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identity theft and repudiation
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/identity-theft-and-repudiation?u=76281980)
+#### [Identity theft and repudiation](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/identity-theft-and-repudiation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -422,13 +410,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Catfishing, deepfakes, and voice cloning
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/catfishing-deepfakes-and-voice-cloning?u=76281980)
+#### [Catfishing, deepfakes, and voice cloning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/catfishing-deepfakes-and-voice-cloning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -464,8 +450,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Attacks on logs
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/attacks-on-logs?u=76281980)
+#### [Attacks on logs](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/attacks-on-logs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -479,17 +464,16 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/attacks-on-logs?u=76281980&t=32)** Typical log rotation rules were last updated in the 90's when disc cost dollars per megabytes.
 >
-> **[0:39](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/attacks-on-logs?u=76281980&t=39)** Now, it's pennies per gigabyte, but we haven't updated the rules, and by default, Linux still rotates out your logs after seven days.
+> **[0:39](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/attacks-on-logs?u=76281980&t=39)** Now, it's pennies per gigabyte, but we haven't updated the rules, and by default, [[Linux]] still rotates out your logs after seven days.
 >
 > **[0:50](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/attacks-on-logs?u=76281980&t=50)** Pushing logs to a dedicated logging system allows you to manage and protect storage, to perform correlation and analysis, and gives you something to look at when local copies of your logs have been trashed, and gives you something to look at when local copies of your logs have been burned.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Attacks via logs and response systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/attacks-via-logs-and-response-systems?u=76281980)
+#### [Attacks via logs and response systems](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/attacks-via-logs-and-response-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -497,7 +481,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/attacks-via-logs-and-response-systems?u=76281980&t=3)** And sometimes that data flows through logs to attack analysis systems.
 >
-> **[0:09](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/attacks-via-logs-and-response-systems?u=76281980&t=9)** Sometimes, attackers will send data that's designed to munge your log processing or display, login attempts that are designed to interfere with REgExp, HTML display, SQL statements or anything else.
+> **[0:09](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/attacks-via-logs-and-response-systems?u=76281980&t=9)** Sometimes, attackers will send data that's designed to munge your log processing or display, login attempts that are designed to interfere with REgExp, [[HTML]] display, [[SQL]] statements or anything else.
 >
 > **[0:23](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/attacks-via-logs-and-response-systems?u=76281980&t=23)** Login attempts for accepted, login attempts with 10,000 characters in them, login attempts that include attacks on the server.
 >
@@ -523,7 +507,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[HTML]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[SQL]] (1)
 > **Env Vars:** html (1), sql (1)
 > **Speakers:** - [instructor] (1)
 
@@ -532,8 +516,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cloud?u=76281980)
+#### [Cloud](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -541,7 +524,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cloud?u=76281980&t=13)** In contrast, when you're rearchitecting for the cloud, using more and more of the new technologies offered by the big infrastructure providers, your logs change.
 >
-> **[0:25](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cloud?u=76281980&t=25)** And your logs change even more when you move to software as a service.
+> **[0:25](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cloud?u=76281980&t=25)** And your logs change even more when you move to [[SaaS|software as a service]].
 >
 > **[0:30](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cloud?u=76281980&t=30)** There, the logs you get may not be what you need and logging may not be your provider's top goal.
 >
@@ -555,15 +538,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), data (1), [[SaaS|Software as a service]] (1)
+> **Frameworks & Libraries:** [[SaaS|Software as a service]] (1)
 > **Speakers:** - [narrator] (1)
 
-#### AI and machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/ai-and-machine-learning?u=76281980)
+#### [AI and machine learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/ai-and-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/ai-and-machine-learning?u=76281980&t=0)** - [Instructor] There're a lot of deep learning systems whose results are hard to understand.
+> **[0:00](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/ai-and-machine-learning?u=76281980&t=0)** - [Instructor] There're a lot of [[Deep Learning]] systems whose results are hard to understand.
 >
 > **[0:05](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/ai-and-machine-learning?u=76281980&t=5)** And it's okay if sometimes your pictures of cats also include a picture of a sweater or a teacup.
 >
@@ -583,23 +565,22 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/ai-and-machine-learning?u=76281980&t=70)** Nor did Apple or Goldman Sachs could explain why.
 >
-> **[1:14](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/ai-and-machine-learning?u=76281980&t=74)** There's over 37,000 stories about this listed on Google News.
+> **[1:14](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/ai-and-machine-learning?u=76281980&t=74)** There's over 37,000 stories about this listed on [[Google]] News.
 >
 > **[1:19](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/ai-and-machine-learning?u=76281980&t=79)** You don't want to have to repudiate your own product.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Deep Learning]] (1), data (1), [[Google]] (1), product (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1), [[Google]] (1)
 > **Analogies:** picture (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Crypto and blockchain
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/crypto-and-blockchain?u=76281980)
+#### [Crypto and blockchain](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/crypto-and-blockchain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/crypto-and-blockchain?u=76281980&t=0)** - [Instructor] One of the advantages of a blockchain is that it creates a consensus ledger where assertions are recorded.
+> **[0:00](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/crypto-and-blockchain?u=76281980&t=0)** - [Instructor] One of the advantages of a [[Blockchain]] is that it creates a consensus ledger where assertions are recorded.
 >
 > **[0:07](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/crypto-and-blockchain?u=76281980&t=7)** Usually, those are assertions like this public key controls this Bitcoin, but those are just numbers, anything that can be represented as a number, any digital information can be recorded in a blockchain.
 >
@@ -627,7 +608,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (5), feature (1)
+> **Frameworks & Libraries:** [[Blockchain]] (5)
 > **Speakers:** - [instructor] (1)
 
 
@@ -635,8 +616,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cryptographic defenses
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cryptographic-defenses?u=76281980)
+#### [Cryptographic defenses](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cryptographic-defenses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -646,11 +626,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cryptographic-defenses?u=76281980&t=7)** An electronic signature is what a website does to make a cheesy little graphic version of your signature.
 >
-> **[0:13](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cryptographic-defenses?u=76281980&t=13)** A digital signature uses public key cryptography and in that sense, the use of a digital signature with public key cryptography is a mathematically unambiguous statement.
+> **[0:13](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cryptographic-defenses?u=76281980&t=13)** A digital signature uses public key [[Cryptography]] and in that sense, the use of a digital signature with public key cryptography is a mathematically unambiguous statement.
 >
 > **[0:26](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cryptographic-defenses?u=76281980&t=26)** This private key was used in a mathematical operation on this document.
 >
-> **[0:31](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cryptographic-defenses?u=76281980&t=31)** We use RSA and other asymmetric algorithms for this and call it a signature and in many ways, it's very strong non-repudiation.
+> **[0:31](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cryptographic-defenses?u=76281980&t=31)** We use RSA and other asymmetric [[Algorithms]] for this and call it a signature and in many ways, it's very strong non-repudiation.
 >
 > **[0:42](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cryptographic-defenses?u=76281980&t=42)** It's often done with a hash of the document or message.
 >
@@ -680,7 +660,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cryptographic-defenses?u=76281980&t=107)** Hash trees are useful for events or chains of events like logs.
 >
-> **[1:52](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cryptographic-defenses?u=76281980&t=112)** Blockchain can serve the same purpose with different costs and verifiability mechanisms but let's threat model this.
+> **[1:52](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cryptographic-defenses?u=76281980&t=112)** [[Blockchain]] can serve the same purpose with different costs and verifiability mechanisms but let's threat model this.
 >
 > **[2:00](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/cryptographic-defenses?u=76281980&t=120)** The possession of the private key, the information given to the signer and the intent of the signer may all be contested.
 >
@@ -700,8 +680,7 @@ created: 2026-05-02
 > **Env Vars:** rsa (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logs
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/logs?u=76281980)
+#### [Logs](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/logs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -765,14 +744,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (1), dns (1), data (1)
 > **CLI Commands:** make (2)
 > **Ports:** :57 (1), :34 (1)
 > **Env Vars:** dns (1)
 > **Speakers:** - [narrator] (1)
 
-#### Log analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/log-analysis?u=76281980)
+#### [Log analysis](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/log-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -802,13 +779,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), product (1), management (1), data (1)
 > **Env Vars:** utc (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Anti-fraud
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/anti-fraud?u=76281980)
+#### [Anti-fraud](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/anti-fraud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -838,7 +813,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -847,16 +821,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Secure by design
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/next-steps?u=76281980)
+#### [Secure by design](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/next-steps?u=76281980&t=0)** - This course is a great introduction to understanding repudiation threats.
 >
-> **[0:05](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/next-steps?u=76281980&t=5)** So you can apply them to threat modeling and other security work.
+> **[0:05](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/next-steps?u=76281980&t=5)** So you can apply them to [[Threat Modeling]] and other security work.
 >
-> **[0:09](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/next-steps?u=76281980&t=9)** I want to encourage you to watch my other courses here on LinkedIn Learning.
+> **[0:09](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/next-steps?u=76281980&t=9)** I want to encourage you to watch my other courses here on [[LinkedIn]] Learning.
 >
 > **[0:13](https://www.linkedin.com/learning/threat-modeling-repudiation-in-depth/next-steps?u=76281980&t=13)** You can also read my book, "Threat Modeling: Designing for Security."
 >
@@ -866,7 +839,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Security]] (2), [[LinkedIn]] (1), teams (1), next (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - this (1)

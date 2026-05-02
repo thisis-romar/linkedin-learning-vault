@@ -133,8 +133,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reduce query response time with query tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/reduce-query-response-time-with-query-tuning?u=76281980)
+#### [Reduce query response time with query tuning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/reduce-query-response-time-with-query-tuning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -142,7 +141,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/reduce-query-response-time-with-query-tuning?u=76281980&t=2)** The good news is that in many cases, you can speed up those queries.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/reduce-query-response-time-with-query-tuning?u=76281980&t=6)** Understanding how databases translate SQL queries into execution plans will help you optimize queries.
+> **[0:06](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/reduce-query-response-time-with-query-tuning?u=76281980&t=6)** Understanding how [[Databases]] translate [[SQL]] queries into execution plans will help you optimize queries.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/reduce-query-response-time-with-query-tuning?u=76281980&t=12)** In this course, you'll learn how SQL queries are executed, how to use different kinds of indexes to improve performance, why the query plan builder chooses a particular join method, and how to use partitioning and materialized views to reduce query response time.
 >
@@ -156,22 +155,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), [[Databases]] (1), database (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Databases]] (1)
 > **Env Vars:** sql (5)
 > **Speakers:** - [dan] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/what-you-should-know?u=76281980&t=0)** - [Instructor] Now before we dive into query optimization, I do want to mention a few things that I assume you are familiar with.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/what-you-should-know?u=76281980&t=8)** The first is with basic relational database design concepts.
+> **[0:08](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/what-you-should-know?u=76281980&t=8)** The first is with basic relational [[Database Design]] concepts.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/what-you-should-know?u=76281980&t=12)** So in particular, I assume that you're familiar with ideas like tables and views and indexes, and why we use them in the way we do with relational databases.
+> **[0:12](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/what-you-should-know?u=76281980&t=12)** So in particular, I assume that you're familiar with ideas like tables and views and indexes, and why we use them in the way we do with [[Relational Databases]].
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/what-you-should-know?u=76281980&t=23)** I also assume that you have used SQL for querying.
+> **[0:23](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/what-you-should-know?u=76281980&t=23)** I also assume that you have used [[SQL]] for querying.
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/what-you-should-know?u=76281980&t=27)** So you would be comfortable say writing a select statement that has a from clause a where clause, as well as maybe some order by statements or even a having by clause.
 >
@@ -181,7 +179,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), [[Relational Databases]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Database Design]] (1), [[Relational Databases]] (1), [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
@@ -190,14 +188,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### From declarative SQL to a procedural execution plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/from-declarative-sql-to-a-procedural-execution-plan?u=76281980)
+#### [From declarative SQL to a procedural execution plan](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/from-declarative-sql-to-a-procedural-execution-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/from-declarative-sql-to-a-procedural-execution-plan?u=76281980&t=0)** - [Instructor] SQL is a language of tabular data.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/from-declarative-sql-to-a-procedural-execution-plan?u=76281980&t=0)** - [Instructor] [[SQL]] is a language of tabular data.
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/from-declarative-sql-to-a-procedural-execution-plan?u=76281980&t=3)** It started as a query language for relational databases but it's now used in data analytics tools like Apache Spark as well as other systems like the Kafka distributed stream processing platform.
+> **[0:03](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/from-declarative-sql-to-a-procedural-execution-plan?u=76281980&t=3)** It started as a query language for [[Relational Databases]] but it's now used in data analytics tools like [[Apache Spark]] as well as other systems like the Kafka distributed stream processing platform.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/from-declarative-sql-to-a-procedural-execution-plan?u=76281980&t=14)** So why is SQL so popular?
 >
@@ -225,11 +222,11 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/from-declarative-sql-to-a-procedural-execution-plan?u=76281980&t=74)** If you're a developer you're probably used to using procedural languages.
 >
-> **[1:18](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/from-declarative-sql-to-a-procedural-execution-plan?u=76281980&t=78)** And languages like Java, Python, and C++, you specify how to do something.
+> **[1:18](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/from-declarative-sql-to-a-procedural-execution-plan?u=76281980&t=78)** And languages like [[Java]], [[Python (Programming Language)|Python]], and C++, you specify how to do something.
 >
 > **[1:24](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/from-declarative-sql-to-a-procedural-execution-plan?u=76281980&t=84)** For example, you might specify how to loop through an array.
 >
-> **[1:28](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/from-declarative-sql-to-a-procedural-execution-plan?u=76281980&t=88)** In procedural languages, you directly manipulate data structures and perform operations in an order that you specify.
+> **[1:28](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/from-declarative-sql-to-a-procedural-execution-plan?u=76281980&t=88)** In procedural languages, you directly manipulate [[Data Structures]] and perform operations in an order that you specify.
 >
 > **[1:36](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/from-declarative-sql-to-a-procedural-execution-plan?u=76281980&t=96)** SQL statements have to be mapped from their declarative form into a procedural form in order to return the data that's specified in the query.
 >
@@ -255,15 +252,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[SQL]] (8), [[Relational Databases]] (1), [[Analytics]] (1), [[Apache Spark]] (1)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Relational Databases]] (1), [[Apache Spark]] (1), [[Java]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sql (8)
 > **CLI Commands:** make (2), apache (1), python (1)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scanning tables and indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/scanning-tables-and-indexes?u=76281980)
+#### [Scanning tables and indexes](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/scanning-tables-and-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -283,7 +279,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/scanning-tables-and-indexes?u=76281980&t=40)** Now, I should point out, that data in rows is not always stored together.
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/scanning-tables-and-indexes?u=76281980&t=45)** Columnar based storage is used in data warehouses and analytical databases.
+> **[0:45](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/scanning-tables-and-indexes?u=76281980&t=45)** Columnar based storage is used in data warehouses and analytical [[Databases]].
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/scanning-tables-and-indexes?u=76281980&t=51)** This can make filtering based on the value of a single, or a small number of columns, quite efficient when working with large tables.
 >
@@ -305,7 +301,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/scanning-tables-and-indexes?u=76281980&t=113)** Indexes are ordered subsets of data in a table, and they're ordered in such a way, that it makes it efficient to look up a row by a particular value.
 >
-> **[2:01](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/scanning-tables-and-indexes?u=76281980&t=121)** As a general rule, relational databases do not store table data in sorted order.
+> **[2:01](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/scanning-tables-and-indexes?u=76281980&t=121)** As a general rule, [[Relational Databases]] do not store table data in sorted order.
 >
 > **[2:06](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/scanning-tables-and-indexes?u=76281980&t=126)** Now, there are some exceptions to this, but typically an entry in an index contains the data value, that is the basis for the index, and a pointer to the location of that corresponding row.
 >
@@ -321,11 +317,11 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/scanning-tables-and-indexes?u=76281980&t=171)** Hash indexes, which are used for equality operations.
 >
-> **[2:54](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/scanning-tables-and-indexes?u=76281980&t=174)** Bitmap indexes are efficient ways of performing set operations, and some databases like PostgreS, provide specialized indexes for particular data types like geospatial data.
+> **[2:54](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/scanning-tables-and-indexes?u=76281980&t=174)** Bitmap indexes are efficient ways of performing set operations, and some databases like [[PostgreSQL|PostgreS]], provide specialized indexes for particular data types like geospatial data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Databases]] (3), next (2), database (1), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (3), [[Relational Databases]] (1), [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is called (1)
 > **SQL:** where (2)
@@ -333,12 +329,11 @@ created: 2026-05-02
 > **Best Practices:** general rule (1)
 > **Speakers:** - one (1)
 
-#### Joining tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/joining-tables?u=76281980)
+#### [Joining tables](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/joining-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/joining-tables?u=76281980&t=0)** - [Instructor] Relational databases store data across multiple tables.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/joining-tables?u=76281980&t=0)** - [Instructor] [[Relational Databases]] store data across multiple tables.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/joining-tables?u=76281980&t=5)** For example, we may have one table with information about customers.
 >
@@ -354,7 +349,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/joining-tables?u=76281980&t=38)** This allows us to reference the corresponding data that is stored in the other table.
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/joining-tables?u=76281980&t=45)** Keeping in mind that SQL statements describe what we want, we can ask how does the execution plan match row between join tables?
+> **[0:45](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/joining-tables?u=76281980&t=45)** Keeping in mind that [[SQL]] statements describe what we want, we can ask how does the execution plan match row between join tables?
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/joining-tables?u=76281980&t=54)** Typically, we have a foreign key in one table that corresponds to the primary key in another table.
 >
@@ -384,7 +379,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Relational Databases]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (1), [[SQL]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** later in (1)
@@ -392,8 +387,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Partitioning data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partitioning-data?u=76281980)
+#### [Partitioning data](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partitioning-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -453,19 +447,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Choosing how to partition a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-choosing-how-to-partition-a-table?u=76281980)
+#### [Challenge: Choosing how to partition a table](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-choosing-how-to-partition-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-choosing-how-to-partition-a-table?u=76281980&t=0)** (bright digital music)
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-choosing-how-to-partition-a-table?u=76281980&t=5)** - [Instructor] Let's imagine you have a table that you use to analyze sales performance of multiple products over time.
+> **[0:05](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-choosing-how-to-partition-a-table?u=76281980&t=5)** - [Instructor] Let's imagine you have a table that you use to analyze sales performance of multiple [[Microsoft Products|products]] over time.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-choosing-how-to-partition-a-table?u=76281980&t=12)** Now you commonly need to compare sales in a month to the sales in that same month, but from the previous year.
 >
@@ -475,13 +467,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright digital music) (1)
 
-#### Solution: Choosing how to partition a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/solution-choosing-how-to-partition-a-table?u=76281980)
+#### [Solution: Choosing how to partition a table](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/solution-choosing-how-to-partition-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -491,7 +482,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/solution-choosing-how-to-partition-a-table?u=76281980&t=13)** Now, this makes some attribute around time or date a good candidate.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/solution-choosing-how-to-partition-a-table?u=76281980&t=20)** Now, multiple products are mentioned and multiple products may be included in a query.
+> **[0:20](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/solution-choosing-how-to-partition-a-table?u=76281980&t=20)** Now, multiple [[Microsoft Products|products]] are mentioned and multiple products may be included in a query.
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/solution-choosing-how-to-partition-a-table?u=76281980&t=24)** So partitioning on individual products is not likely to help in performance because we'd just have to scan multiple partitions based on multiple products.
 >
@@ -509,24 +500,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using PostgreSQL in Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-postgresql-in-codespaces?u=76281980)
+#### [Using PostgreSQL in Codespaces](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-postgresql-in-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-postgresql-in-codespaces?u=76281980&t=0)** - [Instructor] In this course we're going to work with Postgres or PostgreSQL databases.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-postgresql-in-codespaces?u=76281980&t=0)** - [Instructor] In this course we're going to work with [[PostgreSQL|Postgres]] or [[PostgreSQL]] [[Databases]].
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-postgresql-in-codespaces?u=76281980&t=5)** Now we have a couple of options.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-postgresql-in-codespaces?u=76281980&t=6)** You can install Postgres locally if you choose to.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-postgresql-in-codespaces?u=76281980&t=10)** In this course, when I'm demonstrating, I'm going to be actually using Postgres running in GitHub.
+> **[0:10](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-postgresql-in-codespaces?u=76281980&t=10)** In this course, when I'm demonstrating, I'm going to be actually using Postgres running in [[GitHub]].
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-postgresql-in-codespaces?u=76281980&t=15)** And GitHub provides a service called Code Spaces which actually makes it much easier to get started.
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-postgresql-in-codespaces?u=76281980&t=21)** So I've navigated to a GitHub repository for this course.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-postgresql-in-codespaces?u=76281980&t=25)** It is Advanced SQL Query tuning performance optimization, all hyphenated.
+> **[0:25](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-postgresql-in-codespaces?u=76281980&t=25)** It is Advanced [[SQL]] Query tuning performance optimization, all hyphenated.
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-postgresql-in-codespaces?u=76281980&t=30)** And then there's a suffix within number dash 4413111.
 >
@@ -564,7 +554,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (9), [[SQL]] (6), database (4), [[GitHub]] (3), [[PostgreSQL]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (9), [[SQL]] (6), [[GitHub]] (3), [[PostgreSQL]] (1), [[Databases]] (1)
 > **Env Vars:** sql (6), url (1), ide (1)
 > **Tools:** github (3), visual studio (2), vs code (1)
 > **UI Navigation:** click on (3)
@@ -572,8 +562,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explain and analyze
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/explain-and-analyze?u=76281980)
+#### [Explain and analyze](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/explain-and-analyze?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -589,9 +578,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/explain-and-analyze?u=76281980&t=24)** From there, we can do a variety of things to our data model and to the query to try and make it more efficient.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/explain-and-analyze?u=76281980&t=29)** The way we learn about the execution plan in Postgres is to use the explain command and we can precede a query with the command, explain.
+> **[0:29](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/explain-and-analyze?u=76281980&t=29)** The way we learn about the execution plan in [[PostgreSQL|Postgres]] is to use the explain command and we can precede a query with the command, explain.
 >
-> **[0:42](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/explain-and-analyze?u=76281980&t=42)** Now, explain is used in other databases as well, including MySQL and Oracle.
+> **[0:42](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/explain-and-analyze?u=76281980&t=42)** Now, explain is used in other [[Databases]] as well, including [[MySQL]] and Oracle.
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/explain-and-analyze?u=76281980&t=47)** If you use another database, check the documentation just in case there may be another command that's used to display the execution plan, but for now we can just run this command and this will produce an execution plan or also called a query plan.
 >
@@ -599,9 +588,9 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/explain-and-analyze?u=76281980&t=74)** Now this is reasonable.
 >
-> **[1:15](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/explain-and-analyze?u=76281980&t=75)** We're asking SQL to return all the rows and all the columns in the staff table.
+> **[1:15](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/explain-and-analyze?u=76281980&t=75)** We're asking [[SQL]] to return all the rows and all the columns in the staff table.
 >
-> **[1:20](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/explain-and-analyze?u=76281980&t=80)** Now I also want you to notice that there are a set of statistics in the parentheses next to the scan operation.
+> **[1:20](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/explain-and-analyze?u=76281980&t=80)** Now I also want you to notice that there are a set of [[Statistics]] in the parentheses next to the scan operation.
 >
 > **[1:28](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/explain-and-analyze?u=76281980&t=88)** Cost is a measure of computation required to complete the step.
 >
@@ -641,7 +630,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[PostgreSQL|Postgres]] (2), [[Databases]] (1), [[MySQL]] (1), database (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[Databases]] (1), [[MySQL]] (1), [[SQL]] (1), [[Statistics]] (1)
 > **Prerequisites:** required to (3)
 > **CLI Commands:** make (1), mysql (1)
 > **Definitions:** is a  (2)
@@ -650,8 +639,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 
-#### Example plan: Selecting with a WHERE clause
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/example-plan-selecting-with-a-where-clause?u=76281980)
+#### [Example plan: Selecting with a WHERE clause](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/example-plan-selecting-with-a-where-clause?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -697,12 +685,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Versions:** 26.5 (1), 0.165 (1), 0.129 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/indexes?u=76281980)
+#### [Indexes](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -758,21 +744,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Generating a query execution plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-generating-a-query-execution-plan?u=76281980)
+#### [Challenge: Generating a query execution plan](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-generating-a-query-execution-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-generating-a-query-execution-plan?u=76281980&t=0)** - [Instructor] In this challenge, we want to view a query plan.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-generating-a-query-execution-plan?u=76281980&t=8)** So imagine that you want to understand how a SQL Select statement is being mapped from a declarative statement to a procedural plan.
+> **[0:08](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-generating-a-query-execution-plan?u=76281980&t=8)** So imagine that you want to understand how a [[SQL]] Select statement is being mapped from a declarative statement to a procedural plan.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-generating-a-query-execution-plan?u=76281980&t=16)** How would you view the plan to execute the statement, select, ID, description, category code from products where category code in P17, R81 and U76.
+> **[0:16](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-generating-a-query-execution-plan?u=76281980&t=16)** How would you view the plan to execute the statement, select, ID, description, category code from [[Microsoft Products|products]] where category code in P17, R81 and U76.
 
 > [!info]- Semantic Content
 >
@@ -782,8 +766,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Generating a query execution plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/solution-generating-a-query-execution-plan?u=76281980)
+#### [Solution: Generating a query execution plan](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/solution-generating-a-query-execution-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -801,8 +784,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Indexing
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/indexing?u=76281980)
+#### [Indexing](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/indexing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -840,7 +822,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/indexing?u=76281980&t=86)** That's great news for querying, because reading data from memory is much faster than reading from hard disks, or even solid state drives, or SSDs.
 >
-> **[1:35](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/indexing?u=76281980&t=95)** Indexes are data structures that are separate from tables.
+> **[1:35](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/indexing?u=76281980&t=95)** Indexes are [[Data Structures]] that are separate from tables.
 >
 > **[1:40](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/indexing?u=76281980&t=100)** Indexes hold the values of the index column or columns and point to the location of the corresponding row.
 >
@@ -858,7 +840,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/indexing?u=76281980&t=137)** For example, if most queries on a table require a full table scan, then the index may not be used.
 >
-> **[2:24](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/indexing?u=76281980&t=144)** In Postgres, and in most relational databases, you'll have a number of different types of indexes.
+> **[2:24](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/indexing?u=76281980&t=144)** In [[PostgreSQL|Postgres]], and in most [[Relational Databases]], you'll have a number of different types of indexes.
 >
 > **[2:30](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/indexing?u=76281980&t=150)** B-trees, or balance trees, are commonly used.
 >
@@ -876,13 +858,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[PostgreSQL|Postgres]] (2), functional (1), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[Data Structures]] (1), [[Relational Databases]] (1)
 > **Definitions:** means that (1), known as (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### B-tree indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/b-tree-indexes?u=76281980)
+#### [B-tree indexes](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/b-tree-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -924,14 +905,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (8), data (2), [[Search]] (1)
 > **CLI Commands:** node (8), find (3), make (2)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### B-tree index example plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/b-tree-index-example-plan?u=76281980)
+#### [B-tree index example plan](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/b-tree-index-example-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -939,7 +918,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/b-tree-index-example-plan?u=76281980&t=4)** Now, I'm going to navigate to the public schema where we've created our example tables.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/b-tree-index-example-plan?u=76281980&t=9)** So I'm just going to go up to connections, double click on the Postgres database and drill down through schemas to public to tables.
+> **[0:09](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/b-tree-index-example-plan?u=76281980&t=9)** So I'm just going to go up to connections, double click on the [[PostgreSQL|Postgres]] database and drill down through schemas to public to tables.
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/b-tree-index-example-plan?u=76281980&t=19)** And I'll just show the tables we have.
 >
@@ -1035,7 +1014,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[PostgreSQL|Postgres]] (1), data (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (1)
 > **Code Identifiers:** start_date (2), company_division (1), company_region (1), last_name (1), idx_staff (1)
 > **SQL:** select (4), where (3)
 > **Env Vars:** select (4), where (3)
@@ -1044,8 +1023,7 @@ created: 2026-05-02
 > **URLs:** [time.com](https://time.com) (1)
 > **UI Navigation:** click on (1)
 
-#### Bitmap indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/bitmap-indexes?u=76281980)
+#### [Bitmap indexes](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/bitmap-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1071,24 +1049,23 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/bitmap-indexes?u=76281980&t=72)** While bitwise operations are fast, updating bitmap indexes can be more time consuming than other indexes, so they tend to be used in read intensive use cases like data warehouses.
 >
-> **[1:26](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/bitmap-indexes?u=76281980&t=86)** Some databases like Oracle lets you create explicit bitmap indexes, but Postgres does not.
+> **[1:26](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/bitmap-indexes?u=76281980&t=86)** Some [[Databases]] like Oracle lets you create explicit bitmap indexes, but [[PostgreSQL|Postgres]] does not.
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/bitmap-indexes?u=76281980&t=93)** Instead, Postgres will calculate bitmap indexes on the fly when they can be used to improve query performance.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), data (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[Databases]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bitmap index example plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/bitmap-index-example-plan?u=76281980)
+#### [Bitmap index example plan](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/bitmap-index-example-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/bitmap-index-example-plan?u=76281980&t=0)** - [Instructor] Let's see an example where Postgres creates bitmap indexes on the fly.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/bitmap-index-example-plan?u=76281980&t=0)** - [Instructor] Let's see an example where [[PostgreSQL|Postgres]] creates bitmap indexes on the fly.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/bitmap-index-example-plan?u=76281980&t=5)** We'll work with the staff table again.
 >
@@ -1158,7 +1135,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (3), data (2)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (3)
 > **Code Identifiers:** job_title (6), idx_staff_job_title (1)
 > **Env Vars:** distinct (2)
 > **Definitions:** is called (1), is a  (1)
@@ -1166,8 +1143,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hash indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hash-indexes?u=76281980)
+#### [Hash indexes](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hash-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1195,19 +1171,18 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hash-indexes?u=76281980&t=54)** Hash values won't help if you want to filter on a range of values.
 >
-> **[0:58](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hash-indexes?u=76281980&t=58)** Some of the more recent versions of Postgres have made improvements on hash indexes, and now, these hash indexes can be smaller in some cases than B-tree indexes but just as fast.
+> **[0:58](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hash-indexes?u=76281980&t=58)** Some of the more recent versions of [[PostgreSQL|Postgres]] have made improvements on hash indexes, and now, these hash indexes can be smaller in some cases than B-tree indexes but just as fast.
 >
 > **[1:11](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hash-indexes?u=76281980&t=71)** This can be an advantage because smaller indexes are more easily fit within memory, and that can be a help with performance.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hash index example plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hash-index-example-plan?u=76281980)
+#### [Hash index example plan](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hash-index-example-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1219,7 +1194,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hash-index-example-plan?u=76281980&t=23)** So to specify a hash index, we start with create index, and of course, we give it a name, so let's call this idx_staff_email, and we're going to create this on the staff table.
 >
-> **[0:38](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hash-index-example-plan?u=76281980&t=38)** Now, instead of immediately specifying the column, at this point, we introduce a new clause called using hash, and that just tells the Postgres that we want to use a hash index on the column email.
+> **[0:38](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hash-index-example-plan?u=76281980&t=38)** Now, instead of immediately specifying the column, at this point, we introduce a new clause called using hash, and that just tells the [[PostgreSQL|Postgres]] that we want to use a hash index on the column email.
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hash-index-example-plan?u=76281980&t=55)** And so let's run that, and so now we have created an index.
 >
@@ -1247,15 +1222,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (1)
 > **Code Identifiers:** idx_staff_email (4)
 > **Versions:** 8.02 (2), 8.29 (1)
 > **URLs:** [time.com](https://time.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bloom filter indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/bloom-filter-indexes?u=76281980)
+#### [Bloom filter indexes](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/bloom-filter-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1361,7 +1335,7 @@ created: 2026-05-02
 >
 > **[5:58](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/bloom-filter-indexes?u=76281980&t=358)** Now bloom filter types of index work with integers and text data types.
 >
-> **[6:03](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/bloom-filter-indexes?u=76281980&t=363)** Now, because the bloom filter index is an extension, that is, it's not part of the Postgres core, if we want to use bloom filter indexes, the first thing we need to do in our database is to create the extension, if it doesn't already exist, by using the create extension if not exists bloom command.
+> **[6:03](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/bloom-filter-indexes?u=76281980&t=363)** Now, because the bloom filter index is an extension, that is, it's not part of the [[PostgreSQL|Postgres]] core, if we want to use bloom filter indexes, the first thing we need to do in our database is to create the extension, if it doesn't already exist, by using the create extension if not exists bloom command.
 >
 > **[6:20](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/bloom-filter-indexes?u=76281980&t=380)** And we just need to do that once, you know, once a database is created, and then it will be available for us.
 >
@@ -1369,18 +1343,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), database (2), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for example (3), kind of like (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### PostgreSQL-specific indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/postgresql-specific-indexes?u=76281980)
+#### [PostgreSQL-specific indexes](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/postgresql-specific-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/postgresql-specific-indexes?u=76281980&t=0)** - [Instructor] In addition to the indexes we've already discussed, PostgreSQL, or Postgres, has some specialized indexes that you won't necessarily find in other relational databases.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/postgresql-specific-indexes?u=76281980&t=0)** - [Instructor] In addition to the indexes we've already discussed, [[PostgreSQL]], or [[PostgreSQL|Postgres]], has some specialized indexes that you won't necessarily find in other [[Relational Databases]].
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/postgresql-specific-indexes?u=76281980&t=10)** These include the GiST, the SP-GiST, GIN, and BRIN indexes.
 >
@@ -1390,7 +1363,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/postgresql-specific-indexes?u=76281980&t=25)** It's more like a framework for implementing custom indexes.
 >
-> **[0:30](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/postgresql-specific-indexes?u=76281980&t=30)** SP-GiST is an example of one of those indexes that can be implemented with GiST, and SP-GiST stands for space-partitioned GIST, and it supports partitioned search trees, and those are useful when we have nonbalanced or skewed distributions of data, and so SP-GiST is used for nonbalanced data structures.
+> **[0:30](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/postgresql-specific-indexes?u=76281980&t=30)** SP-GiST is an example of one of those indexes that can be implemented with GiST, and SP-GiST stands for space-partitioned GIST, and it supports partitioned search trees, and those are useful when we have nonbalanced or skewed distributions of data, and so SP-GiST is used for nonbalanced [[Data Structures]].
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/postgresql-specific-indexes?u=76281980&t=51)** And this is useful because sometimes, we have to support partitions that we don't want to have the same size.
 >
@@ -1398,7 +1371,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/postgresql-specific-indexes?u=76281980&t=61)** Now, lookups with GIN are faster than with GiST, but the builds can be slower than they are with GiST, and the indexes can be two to three times larger.
 >
-> **[1:10](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/postgresql-specific-indexes?u=76281980&t=70)** So GIN versus GiST is an example of what we often face when we work with different kinds of algorithms, which is sometimes, we optimize for space, and sometimes, we optimize for time.
+> **[1:10](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/postgresql-specific-indexes?u=76281980&t=70)** So GIN versus GiST is an example of what we often face when we work with different kinds of [[Algorithms]], which is sometimes, we optimize for space, and sometimes, we optimize for time.
 >
 > **[1:21](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/postgresql-specific-indexes?u=76281980&t=81)** And often, there's a tradeoff between the two.
 >
@@ -1408,14 +1381,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Search]] (3), [[PostgreSQL]] (1), [[PostgreSQL|Postgres]] (1), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL]] (1), [[PostgreSQL|Postgres]] (1), [[Relational Databases]] (1), [[Data Structures]] (1), [[Algorithms]] (1)
 > **Env Vars:** gin (4), brin (2), gist (1)
 > **Definitions:** stands for (2), is an  (2), is a  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Choosing an index
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-choosing-an-index?u=76281980)
+#### [Challenge: Choosing an index](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-choosing-an-index?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1429,13 +1401,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Choosing an index
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/solution-choosing-an-index?u=76281980)
+#### [Solution: Choosing an index](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/solution-choosing-an-index?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1460,8 +1430,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/types-of-joins?u=76281980)
+#### [Types of joins](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/types-of-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1519,8 +1488,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Nested loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/nested-loops?u=76281980)
+#### [Nested loops](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/nested-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1584,7 +1552,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/nested-loops?u=76281980&t=145)** There's also low overhead.
 >
-> **[2:27](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/nested-loops?u=76281980&t=147)** We don't need to create other data structures or sort tables before looking for matches between foreign keys and primary keys.
+> **[2:27](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/nested-loops?u=76281980&t=147)** We don't need to create other [[Data Structures]] or sort tables before looking for matches between foreign keys and primary keys.
 >
 > **[2:35](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/nested-loops?u=76281980&t=155)** Nested loops work well with small tables, especially if the large table has an index on the join column.
 >
@@ -1604,14 +1572,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (2), hit (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** find (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Nested loop example plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/nested-loop-example-plan?u=76281980)
+#### [Nested loop example plan](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/nested-loop-example-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1663,9 +1630,9 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/nested-loop-example-plan?u=76281980&t=171)** Now, this is a way to specify directives to the Query Plan Builder.
 >
-> **[2:56](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/nested-loop-example-plan?u=76281980&t=176)** Other databases uses hints which are incorporated into the SELECT statement.
+> **[2:56](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/nested-loop-example-plan?u=76281980&t=176)** Other [[Databases]] uses hints which are incorporated into the SELECT statement.
 >
-> **[3:01](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/nested-loop-example-plan?u=76281980&t=181)** If you're using a database other than Postgres, I suggest you check your documentation for the syntax to use.
+> **[3:01](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/nested-loop-example-plan?u=76281980&t=181)** If you're using a database other than [[PostgreSQL|Postgres]], I suggest you check your documentation for the syntax to use.
 >
 > **[3:07](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/nested-loop-example-plan?u=76281980&t=187)** Now, when we execute the explain plan, we'll see that a nested loop is used.
 >
@@ -1689,15 +1656,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[Databases]] (1), database (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[Databases]] (1)
 > **Code Identifiers:** company_regions (3), last_name (2), job_title (2), region_id (2), enable_nestloop (2)
 > **Env Vars:** select (3), inner (1), join (1), explain (1)
 > **SQL:** select (3), inner join (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hash joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hash-joins?u=76281980)
+#### [Hash joins](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hash-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1731,14 +1697,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hash join example plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hash-join-example-plan?u=76281980)
+#### [Hash join example plan](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hash-join-example-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1781,8 +1745,7 @@ created: 2026-05-02
 > **Env Vars:** ide (1)
 > **Speakers:** - [instructor] (1)
 
-#### Merge joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/merge-joins?u=76281980)
+#### [Merge joins](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/merge-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1828,7 +1791,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3)
 > **Code Identifiers:** region_id (2)
 > **CLI Commands:** find (1)
 > **Definitions:** known as (1)
@@ -1837,8 +1799,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Merge join example
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/merge-join-example?u=76281980)
+#### [Merge join example](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/merge-join-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1860,19 +1821,18 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/merge-join-example?u=76281980&t=131)** They're very useful when learning things like the structure of a query plan and what a mergejoin operation actually looks like.
 >
-> **[2:19](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/merge-join-example?u=76281980&t=139)** However, when you're running code in production, the query plan builder makes use of statistics about the data in your database and the distribution of that data to figure out what's the best way to join a table, so use things like directives and hints with caution because, especially because even if they work well now, and you found an optimal solution right now that the query plan builder didn't find, over time, your data distribution's going to change, and that may no longer be the case, so definitely use directives and hints for a learning perspective, but use them in production with caution.
+> **[2:19](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/merge-join-example?u=76281980&t=139)** However, when you're running code in production, the query plan builder makes use of [[Statistics]] about the data in your database and the distribution of that data to figure out what's the best way to join a table, so use things like directives and hints with caution because, especially because even if they work well now, and you found an optimal solution right now that the query plan builder didn't find, over time, your data distribution's going to change, and that may no longer be the case, so definitely use directives and hints for a learning perspective, but use them in production with caution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Statistics]] (1), database (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Code Identifiers:** company_regions (3), region_id (3), enable_hashjoin (1), last_name (1), job_title (1)
 > **Warnings:** caution (3)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Subqueries vs. joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/subqueries-vs-joins?u=76281980)
+#### [Subqueries vs. joins](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/subqueries-vs-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1904,8 +1864,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - before (1)
 
-#### Challenge: Designing a join
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-designing-a-join?u=76281980)
+#### [Challenge: Designing a join](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-designing-a-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1919,12 +1878,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Designing a join
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/solution-designing-a-join?u=76281980)
+#### [Solution: Designing a join](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/solution-designing-a-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1946,8 +1903,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Horizontal vs. vertical partitioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/horizontal-vs-vertical-partitioning?u=76281980)
+#### [Horizontal vs. vertical partitioning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/horizontal-vs-vertical-partitioning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1973,7 +1929,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/horizontal-vs-vertical-partitioning?u=76281980&t=57)** If we need to drop a subset of rows, that can also be faster because a smaller index is updated faster rather than a much larger index.
 >
-> **[1:07](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/horizontal-vs-vertical-partitioning?u=76281980&t=67)** Partitions are used widely in several kinds of database applications, including data warehouses.
+> **[1:07](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/horizontal-vs-vertical-partitioning?u=76281980&t=67)** Partitions are used widely in several kinds of [[Database Applications]], including data warehouses.
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/horizontal-vs-vertical-partitioning?u=76281980&t=74)** They are often partitioned based on time because time is commonly used as a filter.
 >
@@ -1997,7 +1953,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/horizontal-vs-vertical-partitioning?u=76281980&t=133)** Because columns are separated, we can read less data to satisfy a query and this can reduce IO.
 >
-> **[2:20](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/horizontal-vs-vertical-partitioning?u=76281980&t=140)** Columnar data storage strategies can provide similar benefits as well.
+> **[2:20](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/horizontal-vs-vertical-partitioning?u=76281980&t=140)** Columnar [[Data Storage]] strategies can provide similar benefits as well.
 >
 > **[2:25](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/horizontal-vs-vertical-partitioning?u=76281980&t=145)** You may see vertical partitioning used in data warehouses, in wide-column tables such as product tables with a large number of product attributes, and in data analytics.
 >
@@ -2005,14 +1961,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), product (3), [[Database Applications]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Database Applications]] (1), [[Data Storage]] (1)
 > **Definitions:** is called (1), means that (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Partition by range
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-range?u=76281980)
+#### [Partition by range](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-range?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2030,7 +1985,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-range?u=76281980&t=30)** Since the partitions are essentially separate tables, each partition can have its own indexes and constraints.
 >
-> **[0:37](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-range?u=76281980&t=37)** Let's take a look at an Internet of Things or IoT example.
+> **[0:37](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-range?u=76281980&t=37)** Let's take a look at an [[IoT|Internet of Things]] or [[IoT]] example.
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-range?u=76281980&t=41)** In this example, we're collecting measurements.
 >
@@ -2052,20 +2007,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Internet of Things (IoT)|Internet of things]] (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[IoT|Internet of things]] (1), [[IoT]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [voiceover] (1)
 
-#### Partition by range example
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-range-example?u=76281980)
+#### [Partition by range example](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-range-example?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-range-example?u=76281980&t=0)** - [Instructor] Let's see how we create a table that uses range partitioning.
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-range-example?u=76281980&t=4)** We'll use an IOT table as an example, so let's issue a create table command.
+> **[0:04](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-range-example?u=76281980&t=4)** We'll use an [[IoT]] table as an example, so let's issue a create table command.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-range-example?u=76281980&t=9)** Create table, and the table we'll create is called iot_measurement.
 >
@@ -2083,7 +2037,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-range-example?u=76281980&t=58)** Now we're going to add a clause which defines how we want to do partitioning.
 >
-> **[1:04](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-range-example?u=76281980&t=64)** And we do that by adding the word partition by range, so we're specifying that we want to do partitioning and we want to use range partitioning.
+> **[1:04](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-range-example?u=76281980&t=64)** And we do that by adding the [[Microsoft Word|word]] partition by range, so we're specifying that we want to do partitioning and we want to use range partitioning.
 >
 > **[1:15](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-range-example?u=76281980&t=75)** And we want that range to be defined over the measurement_datetime.
 >
@@ -2153,7 +2107,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (2), next (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[IoT]] (2), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** iot_measurement (7), measurement_datetime (2), location_id (1), rel_humidity (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** iot (2)
@@ -2161,8 +2115,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Partition by list
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-list?u=76281980)
+#### [Partition by list](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-list?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2176,11 +2129,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-list?u=76281980&t=20)** The partition bounds, are the list of values allowed in the partition.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-list?u=76281980&t=25)** And, like other forms of horizontal partitioning, each partition can have its own indexes, constraints, and defaults.
+> **[0:25](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-list?u=76281980&t=25)** And, like other [[Forms]] of horizontal partitioning, each partition can have its own indexes, constraints, and defaults.
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-list?u=76281980&t=34)** Here's a product catalog example.
 >
-> **[0:36](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-list?u=76281980&t=36)** In this products table, we have an ID, name, short and long description, and a product category.
+> **[0:36](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-list?u=76281980&t=36)** In this [[Microsoft Products|products]] table, we have an ID, name, short and long description, and a product category.
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-list?u=76281980&t=43)** And the partition key is the product category.
 >
@@ -2188,7 +2141,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-list?u=76281980&t=57)** We use list partitioning, when data logically groups into subgroups, based on the partition key values.
 >
-> **[1:04](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-list?u=76281980&t=64)** For example, we could have a partition for clothing, and another for electronics.
+> **[1:04](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-list?u=76281980&t=64)** For example, we could have a partition for clothing, and another for [[Electronics]].
 >
 > **[1:09](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-list?u=76281980&t=69)** This works well when most queries are within a partition.
 >
@@ -2198,14 +2151,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), product (3), [[Electronics]] (2), [[Forms]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Electronics]] (2), [[Forms]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Partition by list example
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-list-example?u=76281980)
+#### [Partition by list example](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-list-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2215,7 +2167,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-list-example?u=76281980&t=7)** And so for that we're going to say CREATE TABLE.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-list-example?u=76281980&t=12)** And we're going to call this table products.
+> **[0:12](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-list-example?u=76281980&t=12)** And we're going to call this table [[Microsoft Products|products]].
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-list-example?u=76281980&t=16)** And in this table we will have a product id which will be an integer and not null.
 >
@@ -2269,7 +2221,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-list-example?u=76281980&t=169)** And let's just create a couple others, too.
 >
-> **[2:50](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-list-example?u=76281980&t=170)** Let's CREATE a TABLE, and let's make this partition for electronics, product_electronics.
+> **[2:50](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-list-example?u=76281980&t=170)** Let's CREATE a TABLE, and let's make this partition for [[Electronics]], product_electronics.
 >
 > **[2:59](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-list-example?u=76281980&t=179)** And this is also a PARTITION OF the products table.
 >
@@ -2319,7 +2271,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (10), product (7), business (2), [[Electronics]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (10), [[Electronics]] (2)
 > **Env Vars:** create (6), table (6), partition (6), values (5), list (1)
 > **Code Identifiers:** product_clothing (4), product_electronics (3), product_kitchen (2)
 > **SQL:** create table (3)
@@ -2327,8 +2279,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Partition by hash
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-hash?u=76281980)
+#### [Partition by hash](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-hash?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2340,13 +2291,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-hash?u=76281980&t=17)** As with other partition methods, the partition key is used to determine where data should be stored but the partition key is not used directly.
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-hash?u=76281980&t=27)** Instead, in Postgres, modular division is applied to the partition key to compute a value that's based on the number of partitions.
+> **[0:27](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-hash?u=76281980&t=27)** Instead, in [[PostgreSQL|Postgres]], modular division is applied to the partition key to compute a value that's based on the number of partitions.
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-hash?u=76281980&t=36)** For example, if we use five partitions we would apply module 05 to the partition key to generate a value in the range of zero to four.
 >
-> **[0:46](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-hash?u=76281980&t=46)** This kind of partitioning is available in Postgres, Oracle, and MySQL.
+> **[0:46](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-hash?u=76281980&t=46)** This kind of partitioning is available in Postgres, Oracle, and [[MySQL]].
 >
-> **[0:50](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-hash?u=76281980&t=50)** You may find it in other databases as well.
+> **[0:50](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-hash?u=76281980&t=50)** You may find it in other [[Databases]] as well.
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-hash?u=76281980&t=54)** Consider a database tracking the way customers use a web application.
 >
@@ -2366,15 +2317,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[PostgreSQL|Postgres]] (2), ci (2), [[MySQL]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[MySQL]] (1), [[Databases]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** mysql (1), find (1)
 > **Env Vars:** url (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Partition by hash example
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-hash-example?u=76281980)
+#### [Partition by hash example](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/partition-by-hash-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2460,15 +2410,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (1), next (1)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** url (2)
 > **Analogies:** for example (1), think of it as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Partitioning a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-partitioning-a-table?u=76281980)
+#### [Challenge: Partitioning a table](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-partitioning-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2488,8 +2436,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Partitioning a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/solution-partitioning-a-table?u=76281980)
+#### [Solution: Partitioning a table](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/solution-partitioning-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2501,7 +2448,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -2510,8 +2456,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Materialized views
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/materialized-views?u=76281980)
+#### [Materialized views](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/materialized-views?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2543,14 +2488,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Analogies:** for example (1), similar to (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating materialized views
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/creating-materialized-views?u=76281980)
+#### [Creating materialized views](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/creating-materialized-views?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2601,8 +2544,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Refreshing materialized views
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/refreshing-materialized-views?u=76281980)
+#### [Refreshing materialized views](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/refreshing-materialized-views?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2640,13 +2582,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **CLI Commands:** mv (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Creating a materialized view
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-creating-a-materialized-view?u=76281980)
+#### [Challenge: Creating a materialized view](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-creating-a-materialized-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2669,8 +2609,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Creating a materialized view
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/solution-creating-a-materialized-view?u=76281980)
+#### [Solution: Creating a materialized view](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/solution-creating-a-materialized-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2684,7 +2623,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** mv_sensor_metric (1), sensor_metric (1), sensor_id (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2694,12 +2632,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Collect statistics about data in tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/collect-statistics-about-data-in-tables?u=76281980)
+#### [Collect statistics about data in tables](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/collect-statistics-about-data-in-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/collect-statistics-about-data-in-tables?u=76281980&t=0)** - [Instructor] Schemas hold the data structures we commonly think of when we think of databases, and these are things like tables, indexes, constraints, views and materialized views, but they also include statistics about the data in those tables.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/collect-statistics-about-data-in-tables?u=76281980&t=0)** - [Instructor] Schemas hold the [[Data Structures]] we commonly think of when we think of [[Databases]], and these are things like tables, indexes, constraints, views and materialized views, but they also include [[Statistics]] about the data in those tables.
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/collect-statistics-about-data-in-tables?u=76281980&t=20)** For example, we need statistics on the number of rows in a table and how much storage is used.
 >
@@ -2729,7 +2666,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/collect-statistics-about-data-in-tables?u=76281980&t=105)** Now, I will say the results of the ANALYZE command are not all that human friendly.
 >
-> **[1:50](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/collect-statistics-about-data-in-tables?u=76281980&t=110)** They're not really readable or all that useful to us directly, but we can collect this data automatically, which is used by Postgres and we can do that by running the AUTOVACUUM daemon or running the VACUUM command manually.
+> **[1:50](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/collect-statistics-about-data-in-tables?u=76281980&t=110)** They're not really readable or all that useful to us directly, but we can collect this data automatically, which is used by [[PostgreSQL|Postgres]] and we can do that by running the AUTOVACUUM daemon or running the VACUUM command manually.
 >
 > **[2:05](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/collect-statistics-about-data-in-tables?u=76281980&t=125)** The VACUUM command reclaims space of updated data.
 >
@@ -2751,7 +2688,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Statistics]] (5), [[Databases]] (1), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (5), [[Data Structures]] (1), [[Databases]] (1), [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** vacuum (6), analyze (3), full (2), autovacuum (1)
 > **Analogies:** for example (3)
 > **Definitions:** we call this (1), is called (1)
@@ -2759,12 +2696,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing execution statistics with pg_stat_statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/analyzing-execution-statistics-with-pg-stat-statements?u=76281980)
+#### [Analyzing execution statistics with pg_stat_statements](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/analyzing-execution-statistics-with-pg-stat-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/analyzing-execution-statistics-with-pg-stat-statements?u=76281980&t=0)** - [Instructor] Postgres has a feature known as pg_stat_statements, and it's a feature for tracking, planning, and execution statistics of all the SQL statements that a server executes.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/analyzing-execution-statistics-with-pg-stat-statements?u=76281980&t=0)** - [Instructor] [[PostgreSQL|Postgres]] has a feature known as pg_stat_statements, and it's a feature for tracking, planning, and execution [[Statistics]] of all the [[SQL]] statements that a server executes.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/analyzing-execution-statistics-with-pg-stat-statements?u=76281980&t=12)** Now, pg_stat_statements, basically, it needs to be turned on.
 >
@@ -2774,7 +2710,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/analyzing-execution-statistics-with-pg-stat-statements?u=76281980&t=34)** It's not something that an average user should do, which is understandable.
 >
-> **[0:38](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/analyzing-execution-statistics-with-pg-stat-statements?u=76281980&t=38)** This is something that affects the entire server, so this may be something you need to work with your DBA on, and not something you could necessarily do yourself unless you do have database administration privileges.
+> **[0:38](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/analyzing-execution-statistics-with-pg-stat-statements?u=76281980&t=38)** This is something that affects the entire server, so this may be something you need to work with your DBA on, and not something you could necessarily do yourself unless you do have [[Database Administration]] privileges.
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/analyzing-execution-statistics-with-pg-stat-statements?u=76281980&t=49)** Now, pg_stat_statements, the view includes a variety of information.
 >
@@ -2786,14 +2722,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (3), [[PostgreSQL|Postgres]] (2), feature (2), database (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[PostgreSQL|Postgres]] (2), [[SQL]] (1), [[Database Administration]] (1)
 > **Code Identifiers:** pg_stat_statements (5), shared_preload_libraries (1)
 > **Env Vars:** sql (1), dba (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reviewing execution plans with the auto_explain module
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/reviewing-execution-plans-with-the-auto-explain-module?u=76281980)
+#### [Reviewing execution plans with the auto_explain module](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/reviewing-execution-plans-with-the-auto-explain-module?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2803,7 +2738,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/reviewing-execution-plans-with-the-auto-explain-module?u=76281980&t=21)** So for example, oftentimes in production environments, one of the things we monitor are the top 10 slowest queries.
 >
-> **[0:28](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/reviewing-execution-plans-with-the-auto-explain-module?u=76281980&t=28)** Well, there's a module called Auto Explain within Postgres that logs the execution plans of slow statements automatically without having us have to manually run the explain command.
+> **[0:28](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/reviewing-execution-plans-with-the-auto-explain-module?u=76281980&t=28)** Well, there's a module called Auto Explain within [[PostgreSQL|Postgres]] that logs the execution plans of slow statements automatically without having us have to manually run the explain command.
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/reviewing-execution-plans-with-the-auto-explain-module?u=76281980&t=39)** Now, to enable this, we need to load the auto explain module.
 >
@@ -2821,11 +2756,11 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/reviewing-execution-plans-with-the-auto-explain-module?u=76281980&t=93)** Now we can also set a parameter called log nested statements, and depending on that setting, we will get information about functions or nested statements included with the logging.
 >
-> **[1:46](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/reviewing-execution-plans-with-the-auto-explain-module?u=76281980&t=106)** So if we're interested in just, say the SQL that we're writing and we're not interested in tracking, say a user defined function that we're pretty sure is pretty well optimized, then we don't need to use log nested statements.
+> **[1:46](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/reviewing-execution-plans-with-the-auto-explain-module?u=76281980&t=106)** So if we're interested in just, say the [[SQL]] that we're writing and we're not interested in tracking, say a user defined function that we're pretty sure is pretty well optimized, then we don't need to use log nested statements.
 >
 > **[1:58](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/reviewing-execution-plans-with-the-auto-explain-module?u=76281980&t=118)** But if this is almost kind of like tracing where you want to see as much information as possible, then log nested statement is a good one to enable.
 >
-> **[2:07](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/reviewing-execution-plans-with-the-auto-explain-module?u=76281980&t=127)** Now like in say a Linux environment or a different programming level languages where you can set different log levels, we can do that with auto explain.
+> **[2:07](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/reviewing-execution-plans-with-the-auto-explain-module?u=76281980&t=127)** Now like in say a [[Linux]] environment or a different programming level languages where you can set different log levels, we can do that with auto explain.
 >
 > **[2:16](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/reviewing-execution-plans-with-the-auto-explain-module?u=76281980&t=136)** So it uses some of the standard conventions for log levels, like info warning, error, debug.
 >
@@ -2835,7 +2770,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[PostgreSQL|Postgres]] (2), data (1), [[SQL]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[SQL]] (1), [[Linux]] (1)
 > **Analogies:** for example (2), kind of like (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
@@ -2843,14 +2778,13 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Additional analysis with other pg_stats data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/additional-analysis-with-other-pg-stats-data?u=76281980)
+#### [Additional analysis with other pg_stats data](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/additional-analysis-with-other-pg-stats-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/additional-analysis-with-other-pg-stats-data?u=76281980&t=0)** - [Instructor] Now PG_Stats is a module and a set of views that provide access to information that's stored in the PG_STATISTICS catalog.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/additional-analysis-with-other-pg-stats-data?u=76281980&t=10)** And these statistics describe the distribution of data in a table.
+> **[0:10](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/additional-analysis-with-other-pg-stats-data?u=76281980&t=10)** And these [[Statistics]] describe the distribution of data in a table.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/additional-analysis-with-other-pg-stats-data?u=76281980&t=15)** Now, one thing to be aware of is that PG_Stats constrains what we can view so that we can only have access to the data that I have permission or that we as users have permission to read.
 >
@@ -2866,25 +2800,24 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/additional-analysis-with-other-pg-stats-data?u=76281980&t=65)** And then also there's a histogram of counts of distinct non-null elements with the different values of the column.
 >
-> **[1:12](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/additional-analysis-with-other-pg-stats-data?u=76281980&t=72)** So this is the kind of detail that's often very useful, especially if you're doing either, like a data quality assessment, or you're trying to understand the distribution of data in a table or in specific columns within a table.
+> **[1:12](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/additional-analysis-with-other-pg-stats-data?u=76281980&t=72)** So this is the kind of detail that's often very useful, especially if you're doing either, like a [[Data Quality]] assessment, or you're trying to understand the distribution of data in a table or in specific columns within a table.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Statistics]] (2)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Data Quality]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Env Vars:** pg_statistics (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Analyze schema statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-analyze-schema-statistics?u=76281980)
+#### [Challenge: Analyze schema statistics](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-analyze-schema-statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-analyze-schema-statistics?u=76281980&t=0)** - [Narrator] In this challenge, we're considering a scenario where we've created a table called sensor_metrics and we've inserted a large number of rows.
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-analyze-schema-statistics?u=76281980&t=13)** Now, we want to make sure our table statistics are up to date.
+> **[0:13](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-analyze-schema-statistics?u=76281980&t=13)** Now, we want to make sure our table [[Statistics]] are up to date.
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-analyze-schema-statistics?u=76281980&t=17)** So what command would you run to update statistics on the sensor_metrics table?
 
@@ -2896,12 +2829,11 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Analyze schema statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/solution-analyze-schema-statistics?u=76281980)
+#### [Solution: Analyze schema statistics](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/solution-analyze-schema-statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/solution-analyze-schema-statistics?u=76281980&t=0)** - [Narrator] We would use the ANALYZE command and specify the name of the table that we want to analyze and update the statistics on.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/solution-analyze-schema-statistics?u=76281980&t=0)** - [Narrator] We would use the ANALYZE command and specify the name of the table that we want to analyze and update the [[Statistics]] on.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/solution-analyze-schema-statistics?u=76281980&t=12)** In this case, it would be ANALYZE sensor_metrics;.
 
@@ -2918,8 +2850,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using common table expressions to avoid repetitive computation
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-common-table-expressions-to-avoid-repetitive-computation?u=76281980)
+#### [Using common table expressions to avoid repetitive computation](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-common-table-expressions-to-avoid-repetitive-computation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2941,33 +2872,32 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-common-table-expressions-to-avoid-repetitive-computation?u=76281980&t=98)** So you would say something like WITH, name of a common table expression, AS MATERIALIZED, and then give the expression and the SELECT statement.
 >
-> **[1:47](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-common-table-expressions-to-avoid-repetitive-computation?u=76281980&t=107)** Now, in Postgres, non-materialized or inline is the default in Postgres or at least it has been since Postgres 12.
+> **[1:47](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-common-table-expressions-to-avoid-repetitive-computation?u=76281980&t=107)** Now, in [[PostgreSQL|Postgres]], non-materialized or inline is the default in Postgres or at least it has been since Postgres 12.
 >
 > **[1:54](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/using-common-table-expressions-to-avoid-repetitive-computation?u=76281980&t=114)** So if you want to materialize the results of a common table expression and basically only have to do the the query work once for the common table expression, you want to make sure you include the clause AS MATERIALIZED in your common table expression definition.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (3), data (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (3)
 > **Env Vars:** select (3), materialized (3)
 > **CLI Commands:** make (3), find (1)
 > **SQL:** select (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hints to the Query Optimizer
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hints-to-the-query-optimizer?u=76281980)
+#### [Hints to the Query Optimizer](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hints-to-the-query-optimizer?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hints-to-the-query-optimizer?u=76281980&t=0)** - [Instructor] Hints are suggestions to a query plan builder.
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hints-to-the-query-optimizer?u=76281980&t=3)** Some databases allow you to specify hints in line with the SQL code.
+> **[0:03](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hints-to-the-query-optimizer?u=76281980&t=3)** Some [[Databases]] allow you to specify hints in line with the [[SQL]] code.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hints-to-the-query-optimizer?u=76281980&t=9)** Now, these inline suggestions are outside of normal SQL statements, they're are extra-SQL statements, and this practice really pushes the boundary between declarative and procedural code.
 >
-> **[0:21](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hints-to-the-query-optimizer?u=76281980&t=21)** Now, some data spaces support hints, like Oracle, MySQL and SQL Server.
+> **[0:21](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hints-to-the-query-optimizer?u=76281980&t=21)** Now, some data spaces support hints, like Oracle, [[MySQL]] and [[Microsoft SQL Server|SQL Server]].
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hints-to-the-query-optimizer?u=76281980&t=27)** However, Postgres takes a different approach.
+> **[0:27](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hints-to-the-query-optimizer?u=76281980&t=27)** However, [[PostgreSQL|Postgres]] takes a different approach.
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hints-to-the-query-optimizer?u=76281980&t=30)** Postgres uses commands to change the behavior of the query plan builder.
 >
@@ -2977,7 +2907,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hints-to-the-query-optimizer?u=76281980&t=55)** Now, some caveats, you want to be careful anytime you're using hints in other databases or changing the configuration of the query plan builder.
 >
-> **[1:04](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hints-to-the-query-optimizer?u=76281980&t=64)** Oftentimes, it's better to update statistics with ANALYZE and VACCUM before trying hints and try other optimization techniques like partitioning and materialized views before trying hints.
+> **[1:04](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hints-to-the-query-optimizer?u=76281980&t=64)** Oftentimes, it's better to update [[Statistics]] with ANALYZE and VACCUM before trying hints and try other optimization techniques like partitioning and materialized views before trying hints.
 >
 > **[1:17](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/hints-to-the-query-optimizer?u=76281980&t=77)** Be sure a query plan is suboptimal before resorting to changing the query planner configuration.
 >
@@ -2985,15 +2915,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), [[Databases]] (2), data (2), [[PostgreSQL|Postgres]] (2), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Databases]] (2), [[PostgreSQL|Postgres]] (2), [[MySQL]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (4), set (1), analyze (1), vaccum (1)
 > **CLI Commands:** make (2), mysql (1)
 > **Warnings:** be careful (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Parallel query execution
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/parallel-query-execution?u=76281980)
+#### [Parallel query execution](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/parallel-query-execution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3009,7 +2938,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/parallel-query-execution?u=76281980&t=31)** How many parallel processes the execution plan will use is based on a couple of parameters; the max parallel workers and max worker process parameters.
 >
-> **[0:43](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/parallel-query-execution?u=76281980&t=43)** These are Postgres specific parameters, but if your database supports parallel queries, it's likely they have similar parameters.
+> **[0:43](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/parallel-query-execution?u=76281980&t=43)** These are [[PostgreSQL|Postgres]] specific parameters, but if your database supports parallel queries, it's likely they have similar parameters.
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/parallel-query-execution?u=76281980&t=51)** Now, in order to execute some steps in parallel we need to have the max parallel workers per gatherer parameter set to a value greater than zero.
 >
@@ -3033,25 +2962,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (17), database (2), [[PostgreSQL|Postgres]] (1), data (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Improving cache utilization
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/improving-cache-utilization?u=76281980)
+#### [Improving cache utilization](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/improving-cache-utilization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/improving-cache-utilization?u=76281980&t=0)** - [Instructor] Now caching is really important in databases.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/improving-cache-utilization?u=76281980&t=0)** - [Instructor] Now caching is really important in [[Databases]].
 >
 > **[0:03](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/improving-cache-utilization?u=76281980&t=3)** Caching is a process of storing results of a query so that we can reuse them without having to re-execute a query plan to go and actually get the data for the result sets.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/improving-cache-utilization?u=76281980&t=14)** Now, the amount of data that we can store or cache is dependent on the size of a data structure called the shared buffers.
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/improving-cache-utilization?u=76281980&t=23)** And in Postgres, Postgres will fill up the shared buffers as much as it can and then it will start to evict data or start deleting data from the cache that it feels is no longer needed.
+> **[0:23](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/improving-cache-utilization?u=76281980&t=23)** And in [[PostgreSQL|Postgres]], Postgres will fill up the shared buffers as much as it can and then it will start to evict data or start deleting data from the cache that it feels is no longer needed.
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/improving-cache-utilization?u=76281980&t=34)** So for example, if it hasn't been used in quite a while if it's the longest of all the query results the one with the longest time since this would last used as a good candidate for evicting or for deleting from the cache.
 >
@@ -3079,15 +3007,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[PostgreSQL|Postgres]] (5), hit (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (5), [[Databases]] (1)
 > **Env Vars:** ram (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Miscellaneous tips
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/miscellaneous-tips?u=76281980)
+#### [Miscellaneous tips](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/miscellaneous-tips?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3129,7 +3056,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), functional (1)
 > **Env Vars:** where (2), null (1), abc (1), gin (1), order (1)
 > **SQL:** where (2), order by (1)
 > **Analogies:** for example (1), such as (1)
@@ -3138,8 +3064,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Design a common table expression
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-design-a-common-table-expression?u=76281980)
+#### [Challenge: Design a common table expression](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/challenge-design-a-common-table-expression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3155,8 +3080,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Design a common table expression
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/solution-design-a-common-table-expression?u=76281980)
+#### [Solution: Design a common table expression](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/solution-design-a-common-table-expression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3173,12 +3097,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/next-steps?u=76281980&t=0)** - [Dan] This concludes our review of SQL query tuning.
+> **[0:00](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/next-steps?u=76281980&t=0)** - [Dan] This concludes our review of [[SQL]] query tuning.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/next-steps?u=76281980&t=4)** Now, we've covered a lot of different aspects of query tuning, but there's still more we can learn.
 >
@@ -3188,7 +3111,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/next-steps?u=76281980&t=19)** We also have a course on Advanced SQL for Time Series Data, which focuses on really the specifics of how we can optimize our work and really build performant queries around time series data.
 >
-> **[0:32](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/next-steps?u=76281980&t=32)** Then there's also [[Advanced SQL for Application Development]], where we turn our attention to optimizing SQL for transaction processing systems, and then the course on Designing Highly Available and Highly Scalable SQL Databases gets more into data architecture with a focus on high availability and scalability.
+> **[0:32](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/next-steps?u=76281980&t=32)** Then there's also [[Advanced SQL for [[Application Development]]]], where we turn our attention to optimizing SQL for transaction processing systems, and then the course on Designing Highly Available and Highly Scalable SQL [[Databases]] gets more into [[Data Architecture]] with a focus on high availability and [[Scalability]].
 >
 > **[0:50](https://www.linkedin.com/learning/advanced-sql-for-query-tuning-and-performance-optimization-22894038/next-steps?u=76281980&t=50)** Then finally, I would just recommend, review the specific database documentation for the database that you work with.
 >
@@ -3196,7 +3119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), data (3), database (2), [[Analytics]] (1), [[Application Development]] (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Application Development]] (1), [[Databases]] (1), [[Data Architecture]] (1), [[Scalability]] (1)
 > **Env Vars:** sql (7)
 > **CLI Commands:** find (1)
 > **Speakers:** - [dan] (1)

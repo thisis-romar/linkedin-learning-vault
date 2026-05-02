@@ -77,12 +77,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Unlocking Kubernetes: Your essential tools guide
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/unlocking-kubernetes-your-essential-tools-guide?u=76281980)
+#### [Unlocking Kubernetes: Your essential tools guide](https://www.linkedin.com/learning/kubernetes-essential-tools/unlocking-kubernetes-your-essential-tools-guide?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/unlocking-kubernetes-your-essential-tools-guide?u=76281980&t=0)** - [Edidiong] Have you been trying to find the right Kubernetes tool that would enable you to improve your development workflow?
+> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/unlocking-kubernetes-your-essential-tools-guide?u=76281980&t=0)** - [Edidiong] Have you been trying to find the right [[Kubernetes]] tool that would enable you to improve your development workflow?
 >
 > **[0:05](https://www.linkedin.com/learning/kubernetes-essential-tools/unlocking-kubernetes-your-essential-tools-guide?u=76281980&t=5)** Then you're in luck.
 >
@@ -96,35 +95,33 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (5), application (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (5)
 > **CLI Commands:** find (1)
 > **Env Vars:** cncf (1)
 > **Speakers:** - [edidiong] (1)
 
-#### Prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/prerequisites?u=76281980)
+#### [Prerequisites](https://www.linkedin.com/learning/kubernetes-essential-tools/prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/prerequisites?u=76281980&t=0)** - [Instructor] So understand what's being discussed in this course, you need to have a basic knowledge of microservices, containerization, and Kubernetes.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/prerequisites?u=76281980&t=0)** - [Instructor] So understand what's being discussed in this course, you need to have a basic knowledge of [[Microservices]], containerization, and [[Kubernetes]].
 >
-> **[0:08](https://www.linkedin.com/learning/kubernetes-essential-tools/prerequisites?u=76281980&t=8)** Thankfully, there is an amazing Kubernetes course on LinkedIn Learning by Kim that will get you up to speed if you're not familiar with these technologies.
+> **[0:08](https://www.linkedin.com/learning/kubernetes-essential-tools/prerequisites?u=76281980&t=8)** Thankfully, there is an amazing Kubernetes course on [[LinkedIn]] Learning by Kim that will get you up to speed if you're not familiar with these technologies.
 >
 > **[0:15](https://www.linkedin.com/learning/kubernetes-essential-tools/prerequisites?u=76281980&t=15)** Do check it out.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (2), [[Microservices]] (1), [[Containerization]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2), [[Microservices]] (1), [[LinkedIn]] (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### An overview of essential Kubernetes tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/an-overview-of-essential-kubernetes-tools?u=76281980)
+#### [An overview of essential Kubernetes tools](https://www.linkedin.com/learning/kubernetes-essential-tools/an-overview-of-essential-kubernetes-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/an-overview-of-essential-kubernetes-tools?u=76281980&t=0)** - [Narrator] This course is divided into five chapters, each focused on a specific area of Kubernetes tools.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/an-overview-of-essential-kubernetes-tools?u=76281980&t=0)** - [Narrator] This course is divided into five chapters, each focused on a specific area of [[Kubernetes]] tools.
 >
 > **[0:06](https://www.linkedin.com/learning/kubernetes-essential-tools/an-overview-of-essential-kubernetes-tools?u=76281980&t=6)** The first, Kubernetes command line tools, tools surrounding Kubernetes, Kubernetes development tools, Kubernetes deployment tools, and finally, Kubernetes monitoring tools.
 >
@@ -148,7 +145,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (14), application (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (14)
 > **Tools:** command line (1), terminal (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -158,14 +155,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### kubectl
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/kubectl?u=76281980)
+#### [kubectl](https://www.linkedin.com/learning/kubernetes-essential-tools/kubectl?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/kubectl?u=76281980&t=0)** - In today's world, almost everyone knows about social media and uses it.
 >
-> **[0:05](https://www.linkedin.com/learning/kubernetes-essential-tools/kubectl?u=76281980&t=5)** Kube CTL is similar to social media in the world of Kubernetes.
+> **[0:05](https://www.linkedin.com/learning/kubernetes-essential-tools/kubectl?u=76281980&t=5)** Kube CTL is similar to social media in the world of [[Kubernetes]].
 >
 > **[0:09](https://www.linkedin.com/learning/kubernetes-essential-tools/kubectl?u=76281980&t=9)** It is one of those command line tools almost every Kubernetes developer and administrator knows about and actually uses.
 >
@@ -173,7 +169,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/kubernetes-essential-tools/kubectl?u=76281980&t=26)** This allows you to run commands against Kubernetes clusters, inspect and manage cluster resources, deploy applications and even view logs as well.
 >
-> **[0:35](https://www.linkedin.com/learning/kubernetes-essential-tools/kubectl?u=76281980&t=35)** Kube CTL's installable on macOS, Windows, and various Linux platforms.
+> **[0:35](https://www.linkedin.com/learning/kubernetes-essential-tools/kubectl?u=76281980&t=35)** Kube CTL's installable on macOS, [[Windows]], and various [[Linux]] platforms.
 >
 > **[0:40](https://www.linkedin.com/learning/kubernetes-essential-tools/kubectl?u=76281980&t=40)** The fact that it can be installed seamlessly on all three operating systems is one of the many reasons for its widespread usage.
 >
@@ -243,7 +239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (16), api (2), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (16), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** ctl (15), api (2), xrl (1)
 > **CLI Commands:** kubectl (3), mongo (2), make (1)
 > **Code Identifiers:** helloworld (3), macos (1)
@@ -252,12 +248,11 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - in (1)
 
-#### kubie
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/kubie?u=76281980)
+#### [kubie](https://www.linkedin.com/learning/kubernetes-essential-tools/kubie?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/kubie?u=76281980&t=0)** - [Instructor] We'll often have to work with multiple clusters when using Kubernetes, and switching from one cluster to another can be challenging and even lead to mistakes like running a command on the wrong cluster or repeatedly running the long kubectl config command every time we want to make a switch.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/kubie?u=76281980&t=0)** - [Instructor] We'll often have to work with multiple clusters when using [[Kubernetes]], and switching from one cluster to another can be challenging and even lead to mistakes like running a command on the wrong cluster or repeatedly running the long kubectl config command every time we want to make a switch.
 >
 > **[0:16](https://www.linkedin.com/learning/kubernetes-essential-tools/kubie?u=76281980&t=16)** And since the goal of every development team is to build and ship features faster, we must adopt tools that make software developments fast and improves our developer experience.
 >
@@ -267,7 +262,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/kubernetes-essential-tools/kubie?u=76281980&t=37)** Just like kubectl, Kubie can be installed on all operating systems.
 >
-> **[0:42](https://www.linkedin.com/learning/kubernetes-essential-tools/kubie?u=76281980&t=42)** If you head over to the official GitHub page, you'll find the installation process for each operating system.
+> **[0:42](https://www.linkedin.com/learning/kubernetes-essential-tools/kubie?u=76281980&t=42)** If you head over to the official [[GitHub]] page, you'll find the installation process for each operating system.
 >
 > **[0:50](https://www.linkedin.com/learning/kubernetes-essential-tools/kubie?u=76281980&t=50)** Go ahead and install it on your computer.
 >
@@ -291,7 +286,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (3), [[GitHub]] (2), prompt (1), feature (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (3), [[GitHub]] (2)
 > **CLI Commands:** kubectl (6), make (2), find (1), docker (1)
 > **Analogies:** for instance (2), just like (1)
 > **Env Vars:** ctx (2)
@@ -300,12 +295,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### K9s
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/k9s?u=76281980)
+#### [K9s](https://www.linkedin.com/learning/kubernetes-essential-tools/k9s?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/k9s?u=76281980&t=0)** - [Instructor] Remembering the correct kubectl commands for performing several operations in your Kubernetes cluster can be quite challenging, especially for people that are new to Kubernetes.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/k9s?u=76281980&t=0)** - [Instructor] Remembering the correct kubectl commands for performing several operations in your [[Kubernetes]] cluster can be quite challenging, especially for people that are new to Kubernetes.
 >
 > **[0:10](https://www.linkedin.com/learning/kubernetes-essential-tools/k9s?u=76281980&t=10)** K9s, sometimes called K9s, is a Kubernetes command line tool that addresses this challenge.
 >
@@ -315,13 +309,13 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/kubernetes-essential-tools/k9s?u=76281980&t=20)** K9s is a terminal UI for Kubernetes that enables you to easily navigate, observe and manage your applications in the Kubernetes cluster in a visually pleasing manner without writing tons of kubectl commands.
 >
-> **[0:33](https://www.linkedin.com/learning/kubernetes-essential-tools/k9s?u=76281980&t=33)** K9s can be installed on Linux, macOS and a Windows machine.
+> **[0:33](https://www.linkedin.com/learning/kubernetes-essential-tools/k9s?u=76281980&t=33)** K9s can be installed on [[Linux]], macOS and a [[Windows]] machine.
 >
 > **[0:37](https://www.linkedin.com/learning/kubernetes-essential-tools/k9s?u=76281980&t=37)** Their are official documentation includes several ways to install it on your preferred operating system.
 >
 > **[0:42](https://www.linkedin.com/learning/kubernetes-essential-tools/k9s?u=76281980&t=42)** I'm using a macOS for this video, so I'm going to install it using Homebrew by running the brew install k9s command in my terminal.
 >
-> **[0:55](https://www.linkedin.com/learning/kubernetes-essential-tools/k9s?u=76281980&t=55)** After installing K9s into your computer, you have to run the k9s command on your CLI to initialize the tool.
+> **[0:55](https://www.linkedin.com/learning/kubernetes-essential-tools/k9s?u=76281980&t=55)** After installing K9s into your computer, you have to run the k9s command on your [[CLI]] to initialize the tool.
 >
 > **[1:02](https://www.linkedin.com/learning/kubernetes-essential-tools/k9s?u=76281980&t=62)** On doing this, a terminal UI showing you the context you're currently running on and the Kubernetes resources inside that context will be displayed on your screen.
 >
@@ -345,7 +339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (8), [[Linux]] (1), [[Windows]] (1), [[CLI]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (8), [[Linux]] (1), [[Windows]] (1), [[CLI]] (1)
 > **Tools:** terminal (4), vim (2), command line (1)
 > **CLI Commands:** kubectl (3), find (2), brew (1)
 > **Prerequisites:** install (3)
@@ -359,18 +353,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### minikube
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/minikube?u=76281980)
+#### [minikube](https://www.linkedin.com/learning/kubernetes-essential-tools/minikube?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/minikube?u=76281980&t=0)** - [Instructor] When you begin your Kubernetes learning journey, you typically start by reading some articles or watching videos to get a sense of what it entails before getting hands-on with Kubernetes.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/minikube?u=76281980&t=0)** - [Instructor] When you begin your [[Kubernetes]] learning journey, you typically start by reading some articles or watching videos to get a sense of what it entails before getting hands-on with Kubernetes.
 >
 > **[0:11](https://www.linkedin.com/learning/kubernetes-essential-tools/minikube?u=76281980&t=11)** Minikube is a tool to use when you start this hands-on phase, and this is because it eases up the process of running Kubernetes locally and makes it easier for beginners to learn and develop on Kubernetes.
 >
 > **[0:23](https://www.linkedin.com/learning/kubernetes-essential-tools/minikube?u=76281980&t=23)** Before installing minikube, you need to have a continual virtual machine manager like Podman, Docker, or Hyper-V or even any other tool that you currently use.
 >
-> **[0:34](https://www.linkedin.com/learning/kubernetes-essential-tools/minikube?u=76281980&t=34)** Minikube is installable on Linux, macOS, and Windows.
+> **[0:34](https://www.linkedin.com/learning/kubernetes-essential-tools/minikube?u=76281980&t=34)** Minikube is installable on [[Linux]], macOS, and [[Windows]].
 >
 > **[0:38](https://www.linkedin.com/learning/kubernetes-essential-tools/minikube?u=76281980&t=38)** The installation processing guide is available under official documentation.
 >
@@ -390,7 +383,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/kubernetes-essential-tools/minikube?u=76281980&t=111)** The first one is the minikube add-ons feature which helps to add extra components and features to minikube.
 >
-> **[1:57](https://www.linkedin.com/learning/kubernetes-essential-tools/minikube?u=76281980&t=117)** To see the list of add-ons available at minikube, run the minikube add-ons list command on your CLI.
+> **[1:57](https://www.linkedin.com/learning/kubernetes-essential-tools/minikube?u=76281980&t=117)** To see the list of add-ons available at minikube, run the minikube add-ons list command on your [[CLI]].
 >
 > **[2:03](https://www.linkedin.com/learning/kubernetes-essential-tools/minikube?u=76281980&t=123)** And if you want to enable an add-on run the minikube add-ons enable command on your CLI.
 >
@@ -404,7 +397,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (13), feature (4), [[CLI]] (2), [[Linux]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (13), [[CLI]] (2), [[Linux]] (1), [[Windows]] (1)
 > **CLI Commands:** kubectl (3), docker (1), mongo (1)
 > **Env Vars:** cli (2)
 > **Analogies:** for instance (2)
@@ -413,22 +406,21 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### kubeadm
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/kubeadm?u=76281980)
+#### [kubeadm](https://www.linkedin.com/learning/kubernetes-essential-tools/kubeadm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/kubeadm?u=76281980&t=0)** - [Instructor] Kubeadm, also known as kube admin, is an excellent tool for creating Kubernetes clusters quickly.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/kubeadm?u=76281980&t=0)** - [Instructor] Kubeadm, also known as kube admin, is an excellent tool for creating [[Kubernetes]] clusters quickly.
 >
 > **[0:06](https://www.linkedin.com/learning/kubernetes-essential-tools/kubeadm?u=76281980&t=6)** By running a series of free checks kubeadm ensures that your server has all the components and configurations needed to run Kubernetes.
 >
-> **[0:15](https://www.linkedin.com/learning/kubernetes-essential-tools/kubeadm?u=76281980&t=15)** Kubeadm's flexibility makes it an ideal choice for many use cases, like the automation of creating clusters, using script or tools like Ansible, its ability to be used as a testing and production environment, since it can be used on both local and remote clusters.
+> **[0:15](https://www.linkedin.com/learning/kubernetes-essential-tools/kubeadm?u=76281980&t=15)** Kubeadm's flexibility makes it an ideal choice for many use cases, like the automation of creating clusters, using script or tools like [[Ansible]], its ability to be used as a testing and production environment, since it can be used on both local and remote clusters.
 >
 > **[0:32](https://www.linkedin.com/learning/kubernetes-essential-tools/kubeadm?u=76281980&t=32)** And finally, being able to customize and configure cluster components.
 >
 > **[0:37](https://www.linkedin.com/learning/kubernetes-essential-tools/kubeadm?u=76281980&t=37)** There are a couple of things you need to have to be able to install and use kubeadm effectively.
 >
-> **[0:42](https://www.linkedin.com/learning/kubernetes-essential-tools/kubeadm?u=76281980&t=42)** They include a compatible Linux host, two gigabytes or more RAM per machine, two or more CPUs, a full network connectivity between all machines in the cluster, a unique hostname, MAC address, and product_uuid for every node, specific ports open on your machine, and finally, disabling swap to enable kubectl and kubelet to work as expected.
+> **[0:42](https://www.linkedin.com/learning/kubernetes-essential-tools/kubeadm?u=76281980&t=42)** They include a compatible [[Linux]] host, two gigabytes or more RAM per machine, two or more CPUs, a full network connectivity between all machines in the cluster, a unique hostname, MAC address, and product_uuid for every node, specific ports open on your machine, and finally, disabling swap to enable kubectl and kubelet to work as expected.
 >
 > **[1:07](https://www.linkedin.com/learning/kubernetes-essential-tools/kubeadm?u=76281980&t=67)** Setting up a Kubernetes cluster with kubeadm is a multi-step process.
 >
@@ -454,7 +446,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (6), node (4), [[Linux]] (2), [[Automation]] (1), [[Ansible]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (6), [[Linux]] (2), [[Ansible]] (1)
 > **Prerequisites:** configure (3), install (3), you need to have (1), set up (1), initialization (1)
 > **CLI Commands:** node (4), kubectl (2), ansible (1)
 > **Definitions:** known as (1), is an  (1), is a  (1)
@@ -462,12 +454,11 @@ created: 2026-05-02
 > **Code Identifiers:** product_uuid (1)
 > **Speakers:** - [instructor] (1)
 
-#### kOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/kops?u=76281980)
+#### [kOps](https://www.linkedin.com/learning/kubernetes-essential-tools/kops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/kops?u=76281980&t=0)** - [Instructor] kOps is a Kubernetes tool that enables us to create, destroy, upgrade, and maintain production grade Kubernetes clusters.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/kops?u=76281980&t=0)** - [Instructor] kOps is a [[Kubernetes]] tool that enables us to create, destroy, upgrade, and maintain production grade Kubernetes clusters.
 >
 > **[0:08](https://www.linkedin.com/learning/kubernetes-essential-tools/kops?u=76281980&t=8)** Many people in the Kubernetes community think of it as the easiest way to get a production-grade Kubernetes cluster up and running.
 >
@@ -475,9 +466,9 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/kubernetes-essential-tools/kops?u=76281980&t=31)** To install kOps, you need to have kubectl installed on your computer.
 >
-> **[0:36](https://www.linkedin.com/learning/kubernetes-essential-tools/kops?u=76281980&t=36)** Other than that, kOps can be installed on all operating systems, including macOS, Linux, and Windows.
+> **[0:36](https://www.linkedin.com/learning/kubernetes-essential-tools/kops?u=76281980&t=36)** Other than that, kOps can be installed on all operating systems, including macOS, [[Linux]], and [[Windows]].
 >
-> **[0:43](https://www.linkedin.com/learning/kubernetes-essential-tools/kops?u=76281980&t=43)** kOps can be deployed to AWS, GCE, Azure, DigitalOcean, and so much more.
+> **[0:43](https://www.linkedin.com/learning/kubernetes-essential-tools/kops?u=76281980&t=43)** kOps can be deployed to AWS, GCE, [[Microsoft Azure|Azure]], DigitalOcean, and so much more.
 >
 > **[0:49](https://www.linkedin.com/learning/kubernetes-essential-tools/kops?u=76281980&t=49)** The official documentation explains the entire process.
 >
@@ -501,7 +492,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (5), cloud (2), [[Linux]] (1), [[Windows]] (1), aws (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (5), [[Linux]] (1), [[Windows]] (1), [[Microsoft Azure|Azure]] (1)
 > **Code Identifiers:** kops (13), macos (1)
 > **CLI Commands:** kubectl (1), aws (1)
 > **Env Vars:** aws (1), gce (1)
@@ -510,12 +501,11 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Exercise Files:** template (1)
 
-#### Managed Kubernetes platforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/managed-kubernetes-platforms?u=76281980)
+#### [Managed Kubernetes platforms](https://www.linkedin.com/learning/kubernetes-essential-tools/managed-kubernetes-platforms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/managed-kubernetes-platforms?u=76281980&t=0)** - [Instructor] Even though Kubernetes includes many built-in features and is designed to simplify container orchestration, it can oftentimes be challenging to configure, deploy, and manage.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/managed-kubernetes-platforms?u=76281980&t=0)** - [Instructor] Even though [[Kubernetes]] includes many built-in features and is designed to simplify container orchestration, it can oftentimes be challenging to configure, deploy, and manage.
 >
 > **[0:11](https://www.linkedin.com/learning/kubernetes-essential-tools/managed-kubernetes-platforms?u=76281980&t=11)** Oftentimes, organizations who do not have in-house expertise, time, or resources needed to do this will adopt Managed Kubernetes platforms to counter the complexity and stress of running, deploying, and managing Kubernetes.
 >
@@ -541,7 +531,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (11), [[Security]] (2), [[Orchestration]] (1), management (1), application (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (11)
 > **Prerequisites:** configure (1), set up (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -551,12 +541,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Telepresence
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/telepresence?u=76281980)
+#### [Telepresence](https://www.linkedin.com/learning/kubernetes-essential-tools/telepresence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/telepresence?u=76281980&t=0)** - [Instructor] Adopting Kubernetes was supposed to enable you to code, test, and deploy features faster.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/telepresence?u=76281980&t=0)** - [Instructor] Adopting [[Kubernetes]] was supposed to enable you to code, test, and deploy features faster.
 >
 > **[0:05](https://www.linkedin.com/learning/kubernetes-essential-tools/telepresence?u=76281980&t=5)** So why is it slowing you down?
 >
@@ -576,7 +565,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/kubernetes-essential-tools/telepresence?u=76281980&t=54)** Let me show you how Telepresence works using a cloud-native application called Emoji Vote.
 >
-> **[0:59](https://www.linkedin.com/learning/kubernetes-essential-tools/telepresence?u=76281980&t=59)** Emoji Vote comprises of three microservices, the web, emoji, and voting service.
+> **[0:59](https://www.linkedin.com/learning/kubernetes-essential-tools/telepresence?u=76281980&t=59)** Emoji Vote comprises of three [[Microservices]], the web, emoji, and voting service.
 >
 > **[1:05](https://www.linkedin.com/learning/kubernetes-essential-tools/telepresence?u=76281980&t=65)** The web service is a frontend service that serves this UI, while the emoji and voting service are backend services that handle the display and voting of these emojis.
 >
@@ -586,13 +575,13 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/kubernetes-essential-tools/telepresence?u=76281980&t=98)** To do this, go to app.[getambassador.io](https://getambassador.io), create an account, and log in using your preferred authentication methods.
 >
-> **[1:45](https://www.linkedin.com/learning/kubernetes-essential-tools/telepresence?u=76281980&t=105)** I already have an account, so I'm just going to log in using GitHub and select an organization and team.
+> **[1:45](https://www.linkedin.com/learning/kubernetes-essential-tools/telepresence?u=76281980&t=105)** I already have an account, so I'm just going to log in using [[GitHub]] and select an organization and team.
 >
 > **[1:52](https://www.linkedin.com/learning/kubernetes-essential-tools/telepresence?u=76281980&t=112)** Click on the Get Started tab for a visual onboarding flow for application developers and platform engineers.
 >
 > **[1:57](https://www.linkedin.com/learning/kubernetes-essential-tools/telepresence?u=76281980&t=117)** In the Application Developer section, click on Connect and follow the instructions displayed to install Telepresence into your local machine.
 >
-> **[2:05](https://www.linkedin.com/learning/kubernetes-essential-tools/telepresence?u=76281980&t=125)** I already had Telepresence installed, so I'll just proceed to run the Telepresence login and connect command on my CLI, which will log me into Ambassador Cloud and connect my local machine to the remote Kubernetes cluster, which contains the services and dependencies of the Emoji Vote application I want to test.
+> **[2:05](https://www.linkedin.com/learning/kubernetes-essential-tools/telepresence?u=76281980&t=125)** I already had Telepresence installed, so I'll just proceed to run the Telepresence login and connect command on my [[CLI]], which will log me into Ambassador Cloud and connect my local machine to the remote Kubernetes cluster, which contains the services and dependencies of the Emoji Vote application I want to test.
 >
 > **[2:23](https://www.linkedin.com/learning/kubernetes-essential-tools/telepresence?u=76281980&t=143)** As you can see, my local machine is now connected to the cluster.
 >
@@ -626,7 +615,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), application (6), [[Kubernetes]] (5), cloud (2), traffic (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (5), [[Microservices]] (1), [[GitHub]] (1), [[CLI]] (1)
 > **UI Navigation:** click on (5), go to (1), select the (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** url (2), cli (1)
@@ -635,8 +624,7 @@ created: 2026-05-02
 > **URLs:** [getambassador.io](https://getambassador.io) (1)
 > **Tools:** github (1)
 
-#### Tilt
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/tilt?u=76281980)
+#### [Tilt](https://www.linkedin.com/learning/kubernetes-essential-tools/tilt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -658,9 +646,9 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/kubernetes-essential-tools/tilt?u=76281980&t=51)** Finally, it has a command-line and web user interface for monitoring the deployment of an application and showing logs, including other useful information about the current deployment.
 >
-> **[1:02](https://www.linkedin.com/learning/kubernetes-essential-tools/tilt?u=76281980&t=62)** This means you no longer need to have multiple terminals open in order to understand what your microservices are actually doing.
+> **[1:02](https://www.linkedin.com/learning/kubernetes-essential-tools/tilt?u=76281980&t=62)** This means you no longer need to have multiple terminals open in order to understand what your [[Microservices]] are actually doing.
 >
-> **[1:09](https://www.linkedin.com/learning/kubernetes-essential-tools/tilt?u=76281980&t=69)** Tilt can be installed on macOS, Linux, and various Windows machines.
+> **[1:09](https://www.linkedin.com/learning/kubernetes-essential-tools/tilt?u=76281980&t=69)** Tilt can be installed on macOS, [[Linux]], and various [[Windows]] machines.
 >
 > **[1:13](https://www.linkedin.com/learning/kubernetes-essential-tools/tilt?u=76281980&t=73)** Their official documentation has instructions on how to install it in any operating system of your choice.
 >
@@ -668,7 +656,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/kubernetes-essential-tools/tilt?u=76281980&t=86)** The application configuration phase is where you'd set up all the necessary requirements to make the application get successfully deployed to Tilt.
 >
-> **[1:34](https://www.linkedin.com/learning/kubernetes-essential-tools/tilt?u=76281980&t=94)** This oftentimes requires the creation of a Dockerfile, Kubernetes manifest file, and a Tiltfile.
+> **[1:34](https://www.linkedin.com/learning/kubernetes-essential-tools/tilt?u=76281980&t=94)** This oftentimes requires the creation of a Dockerfile, [[Kubernetes]] manifest file, and a Tiltfile.
 >
 > **[1:40](https://www.linkedin.com/learning/kubernetes-essential-tools/tilt?u=76281980&t=100)** Once all of these files have been set up in the directory of the application, then we can proceed to build and deploy the application in the application deployment phase.
 >
@@ -684,25 +672,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (11), web (2), [[Microservices]] (1), [[Linux]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (1), [[Linux]] (1), [[Windows]] (1), [[Kubernetes]] (1)
 > **Prerequisites:** set up (2), install (1)
 > **Tools:** terminal (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** macos (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lens IDE
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/lens-ide?u=76281980)
+#### [Lens IDE](https://www.linkedin.com/learning/kubernetes-essential-tools/lens-ide?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/lens-ide?u=76281980&t=0)** - [Instructor] Even though Kubernetes is one of the most popular container orchestrators available today, one thing it is not known for is its simplicity.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/lens-ide?u=76281980&t=0)** - [Instructor] Even though [[Kubernetes]] is one of the most popular container orchestrators available today, one thing it is not known for is its simplicity.
 >
-> **[0:07](https://www.linkedin.com/learning/kubernetes-essential-tools/lens-ide?u=76281980&t=7)** For users, navigating through the Kubernetes text-based interface without the aid of a visual environment leads to limited visibility and even high probability of errors.
+> **[0:07](https://www.linkedin.com/learning/kubernetes-essential-tools/lens-ide?u=76281980&t=7)** For users, navigating through the Kubernetes text-based interface without the aid of a visual environment leads to limited visibility and even high [[Probability]] of errors.
 >
 > **[0:18](https://www.linkedin.com/learning/kubernetes-essential-tools/lens-ide?u=76281980&t=18)** Lens, oftentimes called the Kubernetes IDE, simplifies working with Kubernetes by providing a graphical interface that allows users to deploy and manage Kubernetes clusters directly from the console.
 >
-> **[0:31](https://www.linkedin.com/learning/kubernetes-essential-tools/lens-ide?u=76281980&t=31)** It also provides built-in dashboards with key metrics and insights into resources running on the cluster, including access control, networking, storage, and even configurations.
+> **[0:31](https://www.linkedin.com/learning/kubernetes-essential-tools/lens-ide?u=76281980&t=31)** It also provides built-in [[Dashboards]] with key metrics and insights into resources running on the cluster, including access control, networking, storage, and even configurations.
 >
 > **[0:43](https://www.linkedin.com/learning/kubernetes-essential-tools/lens-ide?u=76281980&t=43)** In addition to its graphical interface, Lens has so many other great features.
 >
@@ -720,9 +707,9 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/kubernetes-essential-tools/lens-ide?u=76281980&t=82)** This terminal automatically downloads and assigns the correct QCTL version in the background and maintains the correct version and context while switching between clusters.
 >
-> **[1:32](https://www.linkedin.com/learning/kubernetes-essential-tools/lens-ide?u=76281980&t=92)** Finally, Lens also comes with a built-in Helm integration, which enables users to quickly browse, modify configuration settings, deploy, and manage thousands of publicly available Helm charts with single-click upgrades.
+> **[1:32](https://www.linkedin.com/learning/kubernetes-essential-tools/lens-ide?u=76281980&t=92)** Finally, Lens also comes with a built-in [[Helm]] integration, which enables users to quickly browse, modify configuration settings, deploy, and manage thousands of publicly available Helm charts with single-click upgrades.
 >
-> **[1:46](https://www.linkedin.com/learning/kubernetes-essential-tools/lens-ide?u=76281980&t=106)** Lens is a standalone application and can be installed and utilized on macOS, Windows, and some Linux flavors.
+> **[1:46](https://www.linkedin.com/learning/kubernetes-essential-tools/lens-ide?u=76281980&t=106)** Lens is a standalone application and can be installed and utilized on macOS, [[Windows]], and some [[Linux]] flavors.
 >
 > **[1:53](https://www.linkedin.com/learning/kubernetes-essential-tools/lens-ide?u=76281980&t=113)** Visit Lens' official website to download and install it into your computer.
 >
@@ -742,11 +729,11 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/kubernetes-essential-tools/lens-ide?u=76281980&t=159)** You can also add Helm repositories and enable Lens metrics as well.
 >
-> **[2:43](https://www.linkedin.com/learning/kubernetes-essential-tools/lens-ide?u=76281980&t=163)** Visit the official website to learn more about what makes Lens the software of choice for both developers and operators working with Kubernetes and cloud-native applications.
+> **[2:43](https://www.linkedin.com/learning/kubernetes-essential-tools/lens-ide?u=76281980&t=163)** Visit the official website to learn more about what makes Lens the software of choice for both developers and operators working with Kubernetes and [[Cloud-Native Applications]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (8), [[Helm]] (3), cloud (2), [[Probability]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (8), [[Helm]] (3), [[Probability]] (1), [[Dashboards]] (1), [[Windows]] (1)
 > **Env Vars:** qctl (2), ide (1), gke (1), ekas (1), api (1)
 > **Tools:** terminal (2), docker desktop (1), command line (1)
 > **CLI Commands:** docker (1)
@@ -760,8 +747,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Helm
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/helm?u=76281980)
+#### [Helm](https://www.linkedin.com/learning/kubernetes-essential-tools/helm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -769,9 +755,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/kubernetes-essential-tools/helm?u=76281980&t=3)** You typically have to define every single YAML configuration and then eventually remove and redeploy all created resources when the application needs to be updated.
 >
-> **[0:12](https://www.linkedin.com/learning/kubernetes-essential-tools/helm?u=76281980&t=12)** Helm makes this process easier and more straightforward.
+> **[0:12](https://www.linkedin.com/learning/kubernetes-essential-tools/helm?u=76281980&t=12)** [[Helm]] makes this process easier and more straightforward.
 >
-> **[0:16](https://www.linkedin.com/learning/kubernetes-essential-tools/helm?u=76281980&t=16)** Oftentimes called the Kubernetes app store, Helm is a package manager for Kubernetes.
+> **[0:16](https://www.linkedin.com/learning/kubernetes-essential-tools/helm?u=76281980&t=16)** Oftentimes called the [[Kubernetes]] app store, Helm is a package manager for Kubernetes.
 >
 > **[0:21](https://www.linkedin.com/learning/kubernetes-essential-tools/helm?u=76281980&t=21)** You can think of it as apt, Yum, or Homebrew for Kubernetes.
 >
@@ -789,7 +775,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/kubernetes-essential-tools/helm?u=76281980&t=62)** To utilize Helm, the first thing you need to do is install it.
 >
-> **[1:06](https://www.linkedin.com/learning/kubernetes-essential-tools/helm?u=76281980&t=66)** Helm is available at Mac OS, Linux, and Windows in various installation formats.
+> **[1:06](https://www.linkedin.com/learning/kubernetes-essential-tools/helm?u=76281980&t=66)** Helm is available at Mac OS, [[Linux]], and [[Windows]] in various installation formats.
 >
 > **[1:11](https://www.linkedin.com/learning/kubernetes-essential-tools/helm?u=76281980&t=71)** The official documentation shares the details on how to install Helm.
 >
@@ -829,11 +815,11 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/kubernetes-essential-tools/helm?u=76281980&t=179)** To learn more and continue practicing, visit Helm's official website.
 >
-> **[3:03](https://www.linkedin.com/learning/kubernetes-essential-tools/helm?u=76281980&t=183)** There's also an amazing Helm tutorial on LinkedIn Learning that you should check out as well.
+> **[3:03](https://www.linkedin.com/learning/kubernetes-essential-tools/helm?u=76281980&t=183)** There's also an amazing Helm tutorial on [[LinkedIn]] Learning that you should check out as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Helm]] (19), [[Kubernetes]] (11), application (4), [[Search]] (2), api (1)
+> **Frameworks & Libraries:** [[Helm]] (19), [[Kubernetes]] (11), [[Linux]] (1), [[Windows]] (1), [[LinkedIn]] (1)
 > **Prerequisites:** install (7)
 > **Env Vars:** yaml (3), api (1)
 > **CLI Commands:** apt (1), yum (1), find (1)
@@ -842,12 +828,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Warnings:** be aware (1)
 
-#### Kubespray
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/kubespray?u=76281980)
+#### [Kubespray](https://www.linkedin.com/learning/kubernetes-essential-tools/kubespray?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/kubespray?u=76281980&t=0)** - [Narrator] Manually deploying Kubernetes clusters can be challenging for administrators.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/kubespray?u=76281980&t=0)** - [Narrator] Manually deploying [[Kubernetes]] clusters can be challenging for administrators.
 >
 > **[0:04](https://www.linkedin.com/learning/kubernetes-essential-tools/kubespray?u=76281980&t=4)** Luckily, there are automation tools that exist to make this easier, and Kubespray is one of them.
 >
@@ -857,9 +842,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/kubernetes-essential-tools/kubespray?u=76281980&t=26)** Kubespray should be used when you want to set up a production Kubernetes cluster in on-prem or bare metal environments that lack sophisticated managed solutions, such as GKE/EKS or AKS, or it can also be used when you want to set up a production grade Kubernetes cluster in cloud environments without losing control over the control plane components to the managed cloud provider.
 >
-> **[0:50](https://www.linkedin.com/learning/kubernetes-essential-tools/kubespray?u=76281980&t=50)** Kubespray offers several compelling features, such as Ansible-powered deployment, which enables you to leverage the power of Ansible for managing automating Kubernetes cluster deployment.
+> **[0:50](https://www.linkedin.com/learning/kubernetes-essential-tools/kubespray?u=76281980&t=50)** Kubespray offers several compelling features, such as [[Ansible]]-powered deployment, which enables you to leverage the power of Ansible for managing automating Kubernetes cluster deployment.
 >
-> **[1:01](https://www.linkedin.com/learning/kubernetes-essential-tools/kubespray?u=76281980&t=61)** Kubespray enables you to deploy Kubernetes clusters on various platforms, like AWS, GCP or Azure.
+> **[1:01](https://www.linkedin.com/learning/kubernetes-essential-tools/kubespray?u=76281980&t=61)** Kubespray enables you to deploy Kubernetes clusters on various platforms, like AWS, GCP or [[Microsoft Azure|Azure]].
 >
 > **[1:09](https://www.linkedin.com/learning/kubernetes-essential-tools/kubespray?u=76281980&t=69)** You can also easily scale up your cluster up and down to meet your changing needs using Kubespray.
 >
@@ -867,7 +852,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/kubernetes-essential-tools/kubespray?u=76281980&t=78)** It enables you to tailor your cluster's deployments by modifying Ansible variables and inventory files.
 >
-> **[1:24](https://www.linkedin.com/learning/kubernetes-essential-tools/kubespray?u=76281980&t=84)** To deploy Kubernetes cluster using Kubespray, you need to clone Kubespray's GitHub repository to your local machine and then install the required dependencies, such as Ansible, Python, or Jija2 You'll then need to create an inventory file to define your desired cluster configuration.
+> **[1:24](https://www.linkedin.com/learning/kubernetes-essential-tools/kubespray?u=76281980&t=84)** To deploy Kubernetes cluster using Kubespray, you need to clone Kubespray's [[GitHub]] repository to your local machine and then install the required dependencies, such as Ansible, [[Python (Programming Language)|Python]], or Jija2 You'll then need to create an inventory file to define your desired cluster configuration.
 >
 > **[1:42](https://www.linkedin.com/learning/kubernetes-essential-tools/kubespray?u=76281980&t=102)** And finally, run the Kubespray Ansible Playbook command to deploy the Kubernetes cluster.
 >
@@ -877,7 +862,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (9), [[Ansible]] (5), cloud (3), power (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (9), [[Ansible]] (5), [[Microsoft Azure|Azure]] (1), [[GitHub]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** ansible (5), make (1), aws (1), python (1)
 > **Env Vars:** gke (1), eks (1), aks (1), aws (1), gcp (1)
 > **Analogies:** such as (3)
@@ -891,12 +876,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Kubernetes Dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/kubernetes-dashboard?u=76281980)
+#### [Kubernetes Dashboard](https://www.linkedin.com/learning/kubernetes-essential-tools/kubernetes-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/kubernetes-dashboard?u=76281980&t=0)** - [Tutor] Having one place to monitor everything that's happening in your Kubernetes cluster can be very beneficial.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/kubernetes-dashboard?u=76281980&t=0)** - [Tutor] Having one place to monitor everything that's happening in your [[Kubernetes]] cluster can be very beneficial.
 >
 > **[0:05](https://www.linkedin.com/learning/kubernetes-essential-tools/kubernetes-dashboard?u=76281980&t=5)** The Kubernetes dashboard is a web-based user interface for Kubernetes clusters.
 >
@@ -966,11 +950,11 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/kubernetes-essential-tools/kubernetes-dashboard?u=76281980&t=197)** Even though you won't be able to do everything you typically do in your command line via the Kubernetes dashboard UI, it can be very beneficial for beginners or for teams who want to see a holistic view of the applications and the Kubernetes cluster.
 >
-> **[3:32](https://www.linkedin.com/learning/kubernetes-essential-tools/kubernetes-dashboard?u=76281980&t=212)** To learn more about this tool, visit the official GitHub repository.
+> **[3:32](https://www.linkedin.com/learning/kubernetes-essential-tools/kubernetes-dashboard?u=76281980&t=212)** To learn more about this tool, visit the official [[GitHub]] repository.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (25), node (4), application (2), data (2), web (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (25), [[GitHub]] (1)
 > **Tools:** kubernetes dashboard (8), terminal (1), command line (1), github (1)
 > **CLI Commands:** node (4)
 > **Env Vars:** qctl (1), url (1), cpu (1)
@@ -979,12 +963,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Speakers:** - [tutor] (1)
 
-#### Prometheus
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/prometheus?u=76281980)
+#### [Prometheus](https://www.linkedin.com/learning/kubernetes-essential-tools/prometheus?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/prometheus?u=76281980&t=0)** - [Instructor] Prometheus is one of the most popular monitoring and alerting tools in the Kubernetes ecosystem.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/prometheus?u=76281980&t=0)** - [Instructor] Prometheus is one of the most popular monitoring and alerting tools in the [[Kubernetes]] ecosystem.
 >
 > **[0:05](https://www.linkedin.com/learning/kubernetes-essential-tools/prometheus?u=76281980&t=5)** It provides out-of-the-box monitoring capabilities for Kubernetes.
 >
@@ -1014,7 +997,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/kubernetes-essential-tools/prometheus?u=76281980&t=68)** You can either install it as a single binary running on your host, which is fine for learning, testing and developing purposes, but it is not very appropriate for containerized deployment.
 >
-> **[1:19](https://www.linkedin.com/learning/kubernetes-essential-tools/prometheus?u=76281980&t=79)** The second option is to install it as a Docker container which has several orchestration options like raw docker containers, Kubernetes deployment or even Helm.
+> **[1:19](https://www.linkedin.com/learning/kubernetes-essential-tools/prometheus?u=76281980&t=79)** The second option is to install it as a Docker container which has several orchestration options like raw docker containers, Kubernetes deployment or even [[Helm]].
 >
 > **[1:29](https://www.linkedin.com/learning/kubernetes-essential-tools/prometheus?u=76281980&t=89)** Here are some best practices to keep in mind when using Prometheus.
 >
@@ -1040,7 +1023,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (5), data (4), [[Orchestration]] (1), [[Helm]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (5), [[Helm]] (1)
 > **Prerequisites:** install (3)
 > **CLI Commands:** docker (2)
 > **Best Practices:** recommended (2)
@@ -1048,12 +1031,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Jaeger
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/jaeger?u=76281980)
+#### [Jaeger](https://www.linkedin.com/learning/kubernetes-essential-tools/jaeger?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/jaeger?u=76281980&t=0)** - [Instructor] Jaeger is an open-source end-to-end tool that is used for monitoring and troubleshooting transactions in complex distributor systems like Kubernetes.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/jaeger?u=76281980&t=0)** - [Instructor] Jaeger is an open-source end-to-end tool that is used for monitoring and troubleshooting transactions in complex distributor systems like [[Kubernetes]].
 >
 > **[0:08](https://www.linkedin.com/learning/kubernetes-essential-tools/jaeger?u=76281980&t=8)** It is easy to set up as it comes with an all-in-one image that includes the Jaeger UI where you can see all of these different traces.
 >
@@ -1085,7 +1067,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/kubernetes-essential-tools/jaeger?u=76281980&t=101)** You can scroll through if it has like a lot more traces defined, or just select a different API path.
 >
-> **[1:52](https://www.linkedin.com/learning/kubernetes-essential-tools/jaeger?u=76281980&t=112)** You can also compare several UIs or see a system architecture of your application.
+> **[1:52](https://www.linkedin.com/learning/kubernetes-essential-tools/jaeger?u=76281980&t=112)** You can also compare several UIs or see a [[System Architecture]] of your application.
 >
 > **[1:57](https://www.linkedin.com/learning/kubernetes-essential-tools/jaeger?u=76281980&t=117)** This is a simple example of how to use Jaeger using a simple service, but you can use this for a lot more complex stuff and use it to define and see several things happening in your Kubernetes application.
 >
@@ -1095,7 +1077,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Kubernetes]] (2), data (2), api (2), open-source (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2), [[System Architecture]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Prerequisites:** install (2), set up (1)
 > **CLI Commands:** docker (1), find (1)
@@ -1109,12 +1091,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-essential-tools/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/kubernetes-essential-tools/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/next-steps?u=76281980&t=0)** - [Speaker] According to the Stack Overflow developer survey, Kubernetes is the second most loved and most wanted platform.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-essential-tools/next-steps?u=76281980&t=0)** - [Speaker] According to the Stack Overflow developer survey, [[Kubernetes]] is the second most loved and most wanted platform.
 >
 > **[0:06](https://www.linkedin.com/learning/kubernetes-essential-tools/next-steps?u=76281980&t=6)** Due to its popularity and usage, there's a plethora of Kubernetes tools out there.
 >
@@ -1122,13 +1103,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/kubernetes-essential-tools/next-steps?u=76281980&t=16)** To ensure you don't feel overwhelmed while trying to find the right Kubernetes tool, you need to understand the problem you're trying to solve and go for tools that do not make your development workflow more complicated than it is already.
 >
-> **[0:27](https://www.linkedin.com/learning/kubernetes-essential-tools/next-steps?u=76281980&t=27)** To discover and learn more about other Kubernetes tools not covered in this course, visit the CNCF landscape, find a tool of choice and search for a tutorial for that tool on LinkedIn Learning.
+> **[0:27](https://www.linkedin.com/learning/kubernetes-essential-tools/next-steps?u=76281980&t=27)** To discover and learn more about other Kubernetes tools not covered in this course, visit the CNCF landscape, find a tool of choice and search for a tutorial for that tool on [[LinkedIn]] Learning.
 >
 > **[0:38](https://www.linkedin.com/learning/kubernetes-essential-tools/next-steps?u=76281980&t=38)** Thank you for sticking with me till the end of this course and see you on the next one.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (5), [[Search]] (1), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (5), [[LinkedIn]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** cncf (1)
 > **Documentation:** stack overflow (1)

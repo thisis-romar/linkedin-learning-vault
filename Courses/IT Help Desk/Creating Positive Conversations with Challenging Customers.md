@@ -73,8 +73,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why telling a customer what you can do is important
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/why-telling-a-customer-what-you-can-do-is-important?u=76281980)
+#### [Why telling a customer what you can do is important](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/why-telling-a-customer-what-you-can-do-is-important?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -102,7 +101,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/why-telling-a-customer-what-you-can-do-is-important?u=76281980&t=79)** My name is Myra Golden and for more than 20 years, through my workshops, I've helped customer service professionals just like you.
 >
-> **[1:28](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/why-telling-a-customer-what-you-can-do-is-important?u=76281980&t=88)** Join me in this LinkedIn Learning course and learn exactly how to foster positive conversations in challenging situations.
+> **[1:28](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/why-telling-a-customer-what-you-can-do-is-important?u=76281980&t=88)** Join me in this [[LinkedIn]] Learning course and learn exactly how to foster positive conversations in challenging situations.
 
 > [!info]- Semantic Content
 >
@@ -117,8 +116,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Be positive with customers, not provoking
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/be-positive-with-customers-not-provoking?u=76281980)
+#### [Be positive with customers, not provoking](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/be-positive-with-customers-not-provoking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -177,8 +175,7 @@ created: 2026-05-02
 > **Versions:** 2.19 (1), 72.88 (1)
 > **Speakers:** - when (1)
 
-#### Pacing your customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/pacing-your-customers?u=76281980)
+#### [Pacing your customers](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/pacing-your-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -196,7 +193,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/pacing-your-customers?u=76281980&t=41)** When I told her I had less than an hour, she said, "We'll make this fast."
 >
-> **[0:46](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/pacing-your-customers?u=76281980&t=46)** She was swift with everything, taking my order, bringing it out and getting me the check.
+> **[0:46](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/pacing-your-customers?u=76281980&t=46)** She was [[Swift (Programming Language)|swift]] with everything, taking my order, bringing it out and getting me the check.
 >
 > **[0:53](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/pacing-your-customers?u=76281980&t=53)** She paced my schedule.
 >
@@ -244,13 +241,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), next (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2)
 > **Speakers:** - good (1)
 
-#### Ask your customers "what else?"
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/ask-your-customers-what-else?u=76281980)
+#### [Ask your customers "what else?"](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/ask-your-customers-what-else?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -322,7 +318,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), business (1)
 > **CLI Commands:** make (2)
 > **Ports:** :00 (1)
 > **Best Practices:** it's best to (1)
@@ -333,8 +328,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use partnership language with customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/use-partnership-language-with-customers?u=76281980)
+#### [Use partnership language with customers](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/use-partnership-language-with-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -400,8 +394,7 @@ created: 2026-05-02
 >
 > **Speakers:** - i (1)
 
-#### When you can't give the customer what they want
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/when-you-can-t-give-the-customer-what-they-want?u=76281980)
+#### [When you can't give the customer what they want](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/when-you-can-t-give-the-customer-what-they-want?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -413,7 +406,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/when-you-can-t-give-the-customer-what-they-want?u=76281980&t=21)** Here's an example.
 >
-> **[0:23](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/when-you-can-t-give-the-customer-what-they-want?u=76281980&t=23)** I was working with a client that sells food products.
+> **[0:23](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/when-you-can-t-give-the-customer-what-they-want?u=76281980&t=23)** I was working with a client that sells food [[Microsoft Products|products]].
 >
 > **[0:27](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/when-you-can-t-give-the-customer-what-they-want?u=76281980&t=27)** A frequent question they get from customers is, "What ingredients are in this yogurt?"
 >
@@ -449,20 +442,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), product (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - sometimes (1)
 
-#### Positively prime customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/positively-prime-customers?u=76281980)
+#### [Positively prime customers](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/positively-prime-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/positively-prime-customers?u=76281980&t=0)** - Before we get into this lesson, I want you to fill in the blanks.
 >
-> **[0:05](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/positively-prime-customers?u=76281980&t=5)** I'll give you the first and last letter of a word.
+> **[0:05](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/positively-prime-customers?u=76281980&t=5)** I'll give you the first and last letter of a [[Microsoft Word|word]].
 >
 > **[0:10](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/positively-prime-customers?u=76281980&t=10)** Complete this word while I fluff up my fro.
 >
@@ -518,12 +510,11 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - before (1)
 
-#### Words and phrases to avoid and choosing better options
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/words-and-phrases-to-avoid-and-choosing-better-options?u=76281980)
+#### [Words and phrases to avoid and choosing better options](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/words-and-phrases-to-avoid-and-choosing-better-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/words-and-phrases-to-avoid-and-choosing-better-options?u=76281980&t=0)** - Sweetie is a trigger word for me.
+> **[0:00](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/words-and-phrases-to-avoid-and-choosing-better-options?u=76281980&t=0)** - Sweetie is a trigger [[Microsoft Word|word]] for me.
 >
 > **[0:03](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/words-and-phrases-to-avoid-and-choosing-better-options?u=76281980&t=3)** As in, what can I get you, sweetie?
 >
@@ -602,8 +593,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Positioning controversial policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/positioning-controversial-policies?u=76281980)
+#### [Positioning controversial policies](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/positioning-controversial-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -659,12 +649,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - sometimes (1)
 
-#### Issues with billing or customer rewards
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/issues-with-billing-or-customer-rewards?u=76281980)
+#### [Issues with billing or customer rewards](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/issues-with-billing-or-customer-rewards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -740,14 +728,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), product (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - billing (1)
 
-#### Politely distancing from hot topics
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/politely-distancing-from-hot-topics?u=76281980)
+#### [Politely distancing from hot topics](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/politely-distancing-from-hot-topics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -787,7 +773,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/politely-distancing-from-hot-topics?u=76281980&t=112)** This isn't something I'm willing to talk about with customers.
 >
-> **[1:56](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/politely-distancing-from-hot-topics?u=76281980&t=116)** For my own reasons, I choose not to discuss this topic, but if you need anything from a customer support position, I'm happy to help."
+> **[1:56](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/politely-distancing-from-hot-topics?u=76281980&t=116)** For my own reasons, I choose not to discuss this topic, but if you need anything from a [[Customer Support]] position, I'm happy to help."
 >
 > **[2:07](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/politely-distancing-from-hot-topics?u=76281980&t=127)** Listening than you talk and keeping things neutral will help you avoid polarizing interactions with friends, family, and coworkers too.
 
@@ -803,8 +789,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Start, stop, continue exercise
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/start-stop-continue-exercise?u=76281980)
+#### [Start, stop, continue exercise](https://www.linkedin.com/learning/creating-positive-conversations-with-challenging-customers-2022/start-stop-continue-exercise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -836,7 +821,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), next (1)
 > **CLI Commands:** find (1)
 > **URLs:** [myragolden.com](https://myragolden.com) (1)
 > **Definitions:** is a  (1)

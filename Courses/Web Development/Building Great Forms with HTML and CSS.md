@@ -135,8 +135,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making your forms great
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/making-your-forms-great?u=76281980)
+#### [Making your forms great](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/making-your-forms-great?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -144,9 +143,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/making-your-forms-great?u=76281980&t=8)** Ever find yourself filling out redundant fields?
 >
-> **[0:11](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/making-your-forms-great?u=76281980&t=11)** There are plenty of ways in which we as web developers can improve the user experience in regards to form interactions.
+> **[0:11](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/making-your-forms-great?u=76281980&t=11)** There are plenty of ways in which we as web developers can improve the [[User Experience (UX)|user experience]] in regards to form interactions.
 >
-> **[0:19](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/making-your-forms-great?u=76281980&t=19)** Web forms are everywhere.
+> **[0:19](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/making-your-forms-great?u=76281980&t=19)** Web [[Forms]] are everywhere.
 >
 > **[0:21](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/making-your-forms-great?u=76281980&t=21)** They are an essential method of being able to interact with your users.
 >
@@ -158,7 +157,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/making-your-forms-great?u=76281980&t=42)** Our job is to make the experience as easy as possible.
 >
-> **[0:46](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/making-your-forms-great?u=76281980&t=46)** With the help of good semantic HTML, CSS, and JavaScript, we can transform the way a form looks, behaves, interacts, and functions with our webpage.
+> **[0:46](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/making-your-forms-great?u=76281980&t=46)** With the help of good semantic [[HTML]], CSS, and [[JavaScript]], we can transform the way a form looks, behaves, interacts, and functions with our webpage.
 >
 > **[0:57](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/making-your-forms-great?u=76281980&t=57)** We can improve usability for everyone by harnessing the power of our computer and some code to make form filling easier.
 >
@@ -184,27 +183,26 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/making-your-forms-great?u=76281980&t=109)** Building good-looking and well thought through forms is a particular obsession of mine, so I'm super excited about this course.
 >
-> **[1:56](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/making-your-forms-great?u=76281980&t=116)** I invite you to join my LinkedIn Learning course on building great forms the right way.
+> **[1:56](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/making-your-forms-great?u=76281980&t=116)** I invite you to join my [[LinkedIn]] Learning course on building great forms the right way.
 >
 > **[2:01](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/making-your-forms-great?u=76281980&t=121)** Let's get started in learning how to design and build great forms.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (6), web (4), [[User Experience (UX)|User experience]] (1), [[HTML]] (1), css (1)
+> **Frameworks & Libraries:** [[Forms]] (6), [[User Experience (UX)|User experience]] (1), [[HTML]] (1), [[JavaScript]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** html (1), css (1), zip (1)
 > **Code Identifiers:** ecommerce (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [emily] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-you-should-know?u=76281980&t=0)** - [Instructor] This hands-on course is designed to help you learn better techniques and skills in regards to coding and designing web forms.
+> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-you-should-know?u=76281980&t=0)** - [Instructor] This hands-on course is designed to help you learn better techniques and skills in regards to coding and designing web [[Forms]].
 >
-> **[0:07](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-you-should-know?u=76281980&t=7)** We will be hand-coding HTML, CSS and some JavaScript.
+> **[0:07](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-you-should-know?u=76281980&t=7)** We will be hand-coding [[HTML]], CSS and some [[JavaScript]].
 >
 > **[0:11](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-you-should-know?u=76281980&t=11)** So you will need to be familiar with these languages to get the most out of this course.
 >
@@ -212,7 +210,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-you-should-know?u=76281980&t=27)** If you are not familiar with any of the coding languages I mentioned, I suggest you check the library for more information on these topics.
 >
-> **[0:35](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-you-should-know?u=76281980&t=35)** You should feel comfortable hand-coding, have familiarity with web development and know how to use an IDE.
+> **[0:35](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-you-should-know?u=76281980&t=35)** You should feel comfortable hand-coding, have familiarity with [[Web Development]] and know how to use an IDE.
 >
 > **[0:43](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-you-should-know?u=76281980&t=43)** I will be using Adobe Brackets but you can use any IDE for this course.
 >
@@ -232,14 +230,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (5), ux (2), web (1), [[HTML]] (1), css (1)
+> **Frameworks & Libraries:** [[Forms]] (5), [[HTML]] (1), [[JavaScript]] (1), [[Web Development]] (1)
 > **Env Vars:** ide (2), html (1), css (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -275,15 +272,15 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-the-exercise-files?u=76281980&t=98)** So the CSS is kept separate for each video, just to make it a little bit easier for you to understand what's going on.
 >
-> **[1:46](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-the-exercise-files?u=76281980&t=106)** Throughout the course, many of my examples are using Font Awesome, Google Fonts, and JQuery.
+> **[1:46](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-the-exercise-files?u=76281980&t=106)** Throughout the course, many of my examples are using Font Awesome, [[Google]] Fonts, and JQuery.
 >
 > **[1:52](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-the-exercise-files?u=76281980&t=112)** When necessary, I'm adding these into my project by linking out to the CDNs.
 >
-> **[1:58](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-the-exercise-files?u=76281980&t=118)** Now that you understand the ins and outs of how I set up the Exercise Files, let's jump in and start building some awesome forms.
+> **[1:58](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-the-exercise-files?u=76281980&t=118)** Now that you understand the ins and outs of how I set up the Exercise Files, let's jump in and start building some awesome [[Forms]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[Google]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Forms]] (1)
 > **Exercise Files:** exercise files (4), download the (1), zip file (1)
 > **Env Vars:** css (4), zip (1)
 > **CLI Commands:** make (2)
@@ -297,16 +294,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How HTML forms work
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/how-html-forms-work?u=76281980)
+#### [How HTML forms work](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/how-html-forms-work?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/how-html-forms-work?u=76281980&t=0)** - [Instructor] While other elements of HTML gives style and meaning to your website, an HTML form adds interactivity.
+> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/how-html-forms-work?u=76281980&t=0)** - [Instructor] While other elements of [[HTML]] gives style and meaning to your website, an HTML form adds interactivity.
 >
 > **[0:07](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/how-html-forms-work?u=76281980&t=7)** It allows you to communicate with your end users and provides a method to make the web dynamic.
 >
-> **[0:13](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/how-html-forms-work?u=76281980&t=13)** HTML forms handle important functions like taking orders, surveys, user registration and more.
+> **[0:13](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/how-html-forms-work?u=76281980&t=13)** HTML [[Forms]] handle important functions like taking orders, surveys, user registration and more.
 >
 > **[0:20](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/how-html-forms-work?u=76281980&t=20)** You will hardly find a single website without some sort of form of it.
 >
@@ -352,24 +348,23 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/how-html-forms-work?u=76281980&t=137)** Client-side code cannot do processing like sending email or saving to a database, so in order for a form to work, both of these parts need to be present in order for it to function properly.
 >
-> **[2:29](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/how-html-forms-work?u=76281980&t=149)** Again, in this course, we will focus on the front end scripting, HTML, CSS, and some JavaScript.
+> **[2:29](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/how-html-forms-work?u=76281980&t=149)** Again, in this course, we will focus on the front end scripting, HTML, CSS, and some [[JavaScript]].
 >
 > **[2:36](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/how-html-forms-work?u=76281980&t=156)** I will show you how to layout and design usable and great looking forms.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (12), web (8), data (5), [[Forms]] (4), database (2)
+> **Frameworks & Libraries:** [[HTML]] (12), [[Forms]] (4), [[JavaScript]] (1)
 > **Env Vars:** html (12), css (1)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic setup for a form
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/basic-setup-for-a-form?u=76281980)
+#### [Basic setup for a form](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/basic-setup-for-a-form?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/basic-setup-for-a-form?u=76281980&t=0)** - [Instructor] In order to build out a form, we start by using good old semantic HTML.
+> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/basic-setup-for-a-form?u=76281980&t=0)** - [Instructor] In order to build out a form, we start by using good old semantic [[HTML]].
 >
 > **[0:05](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/basic-setup-for-a-form?u=76281980&t=5)** The form itself resides inside of a form tag.
 >
@@ -395,13 +390,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[HTML]] (1), web (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** url (2), html (1), http (1), post (1)
 > **API Endpoints:** get  (1), post  (1)
 > **Speakers:** - [instructor] (1)
 
-#### GET and POST methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/get-and-post-methods?u=76281980)
+#### [GET and POST methods](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/get-and-post-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -409,7 +403,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/get-and-post-methods?u=76281980&t=7)** Each time you want to reach a resource on the web, the browser sends a request to a URL.
 >
-> **[0:12](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/get-and-post-methods?u=76281980&t=12)** An HTTP request consists of two parts, a header, that contains a set of global metadata about the browser's capabilities, and a body that can contain information necessary for the server to process this specific request.
+> **[0:12](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/get-and-post-methods?u=76281980&t=12)** An HTTP request consists of two parts, a header, that contains a set of global [[Metadata]] about the browser's capabilities, and a body that can contain information necessary for the server to process this specific request.
 >
 > **[0:27](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/get-and-post-methods?u=76281980&t=27)** The GET method is the method used by the browser to ask the server to send back a given resource.
 >
@@ -423,7 +417,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/get-and-post-methods?u=76281980&t=57)** However, GET is limited in the amount of content in the submission, and it is not secure since the info is simply appended to the browser's URL.
 >
-> **[1:06](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/get-and-post-methods?u=76281980&t=66)** As such, GET is generally used for simple web forms where security is not a concern.
+> **[1:06](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/get-and-post-methods?u=76281980&t=66)** As such, GET is generally used for simple web [[Forms]] where security is not a concern.
 >
 > **[1:13](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/get-and-post-methods?u=76281980&t=73)** Let's take a look at how GET works.
 >
@@ -453,7 +447,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/get-and-post-methods?u=76281980&t=135)** You'll see that on the web browser, it says form is not submitted.
 >
-> **[2:19](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/get-and-post-methods?u=76281980&t=139)** And that's because we're still pointing to the process.php page, which is actually counting on the fact that we would be using the POST method.
+> **[2:19](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/get-and-post-methods?u=76281980&t=139)** And that's because we're still pointing to the process.[[PHP]] page, which is actually counting on the fact that we would be using the POST method.
 >
 > **[2:28](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/get-and-post-methods?u=76281980&t=148)** Let's go ahead and talk about POST next.
 >
@@ -515,11 +509,11 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/get-and-post-methods?u=76281980&t=292)** You might display it, you may want to store it into a database, send it by email, or process it in some other way.
 >
-> **[4:59](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/get-and-post-methods?u=76281980&t=299)** Now that you have idea of the overall picture of how form data is processed, we can begin to build out some of our forms using our front end languages like HTML, CSS, and JavaScript.
+> **[4:59](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/get-and-post-methods?u=76281980&t=299)** Now that you have idea of the overall picture of how form data is processed, we can begin to build out some of our forms using our front end languages like [[HTML]], CSS, and [[JavaScript]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), web (6), [[PHP]] (4), [[Forms]] (3), database (2)
+> **Frameworks & Libraries:** [[PHP]] (4), [[Forms]] (3), [[Metadata]] (1), [[HTML]] (1), [[JavaScript]] (1)
 > **Env Vars:** post (13), url (7), http (4), php (3), html (1)
 > **API Endpoints:** post  (10), get  (7)
 > **CLI Commands:** php (4)
@@ -533,12 +527,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fieldsets and legends
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/fieldsets-and-legends?u=76281980)
+#### [Fieldsets and legends](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/fieldsets-and-legends?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/fieldsets-and-legends?u=76281980&t=0)** - [Instructor] While not necessary in every form, fieldsets and legends are useful in larger forms and can help to organize the fields and guide users and aid in accessibility.
+> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/fieldsets-and-legends?u=76281980&t=0)** - [Instructor] While not necessary in every form, fieldsets and legends are useful in larger [[Forms]] and can help to organize the fields and guide users and aid in accessibility.
 >
 > **[0:11](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/fieldsets-and-legends?u=76281980&t=11)** The fieldset and the legend elements work together to tell screen readers that a group of form fields relate to each other and to provide a label for that particular group.
 >
@@ -634,7 +627,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/fieldsets-and-legends?u=76281980&t=270)** So I'm just going to select the third snippet block of code and copy.
 >
-> **[4:35](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/fieldsets-and-legends?u=76281980&t=275)** We'll go back to our HTML file and we'll paste this in.
+> **[4:35](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/fieldsets-and-legends?u=76281980&t=275)** We'll go back to our [[HTML]] file and we'll paste this in.
 >
 > **[4:38](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/fieldsets-and-legends?u=76281980&t=278)** And once again, let's just select this code and indent it a little bit so that we are a little bit more organized.
 >
@@ -644,7 +637,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), hit (2), [[Forms]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[HTML]] (1)
 > **Env Vars:** css (3), html (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** select the (2)
@@ -652,8 +645,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with labels
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/working-with-labels?u=76281980)
+#### [Working with labels](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/working-with-labels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -687,7 +679,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/working-with-labels?u=76281980&t=81)** So in this example, even though they look very similar, the label is not programmatically associated with the field itself.
 >
-> **[1:30](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/working-with-labels?u=76281980&t=90)** There are four broad parameters that improve the user experience for everyone.
+> **[1:30](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/working-with-labels?u=76281980&t=90)** There are four broad parameters that improve the [[User Experience (UX)|user experience]] for everyone.
 >
 > **[1:35](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/working-with-labels?u=76281980&t=95)** Visual, make it easy to see.
 >
@@ -705,7 +697,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/working-with-labels?u=76281980&t=124)** Having labels makes our form easy for everyone to understand and utilize the form.
 >
-> **[2:09](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/working-with-labels?u=76281980&t=129)** There are two ways to incorporate labels into your forms.
+> **[2:09](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/working-with-labels?u=76281980&t=129)** There are two ways to incorporate labels into your [[Forms]].
 >
 > **[2:12](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/working-with-labels?u=76281980&t=132)** Explicitly and implicitly.
 >
@@ -719,7 +711,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/working-with-labels?u=76281980&t=155)** The label then needs a for attribute whose value is the same as the inputs ID.
 >
-> **[2:42](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/working-with-labels?u=76281980&t=162)** In the HTML, the label is linked to the input field using the ID attribute of the input field and the for attribute of the label field.
+> **[2:42](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/working-with-labels?u=76281980&t=162)** In the [[HTML]], the label is linked to the input field using the ID attribute of the input field and the for attribute of the label field.
 >
 > **[2:51](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/working-with-labels?u=76281980&t=171)** If we take a peek in the browser to see what this looks like, here are my explicitly associated labels.
 >
@@ -777,7 +769,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (3), hit (2), css (2), data (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Forms]] (3), [[User Experience (UX)|User experience]] (1), [[HTML]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** css (2), html (1)
 > **Analogies:** for example (1), compare this to (1)
@@ -785,8 +777,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### New HTML5 form tags
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-html5-form-tags?u=76281980)
+#### [New HTML5 form tags](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-html5-form-tags?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -794,7 +785,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-html5-form-tags?u=76281980&t=9)** More on this soon.
 >
-> **[0:10](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-html5-form-tags?u=76281980&t=10)** Here, we'll look at the two new HTML elements, they are Datalist and Output.
+> **[0:10](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-html5-form-tags?u=76281980&t=10)** Here, we'll look at the two new [[HTML]] elements, they are Datalist and Output.
 >
 > **[0:16](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-html5-form-tags?u=76281980&t=16)** The Datalist element not only allows the user to view a suggested list of values that appear in an associated input field, but the user can also type in their own values.
 >
@@ -852,7 +843,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-html5-form-tags?u=76281980&t=273)** The results of the user selecting some numeric number from a range slider and then adding it to the value of 10 in the input field that follows are going to be calculated and displayed within the output field.
 >
-> **[4:48](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-html5-form-tags?u=76281980&t=288)** We're using a little bit of JavaScript to be able to complete this.
+> **[4:48](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-html5-form-tags?u=76281980&t=288)** We're using a little bit of [[JavaScript]] to be able to complete this.
 >
 > **[4:53](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-html5-form-tags?u=76281980&t=293)** So you can see that here, I'm using one of the HTML5 form events.
 >
@@ -874,7 +865,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), [[JavaScript]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[JavaScript]] (1)
 > **Env Vars:** html5 (3), html (2)
 > **UI Navigation:** dropdown (2), select the (1)
 > **Code Identifiers:** meal_choice (1)
@@ -882,14 +873,13 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### New input types
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-input-types?u=76281980)
+#### [New input types](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-input-types?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-input-types?u=76281980&t=0)** - [Instructor] Traditionally, the type attribute defines which type of input control to display and, depending on which type is included, provides for some validation in supporting browsers.
 >
-> **[0:11](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-input-types?u=76281980&t=11)** As of HTML5, we have a lot more input types that we can utilize in our forms, and they can greatly enhance the user experience.
+> **[0:11](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-input-types?u=76281980&t=11)** As of HTML5, we have a lot more input types that we can utilize in our [[Forms]], and they can greatly enhance the [[User Experience (UX)|user experience]].
 >
 > **[0:18](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-input-types?u=76281980&t=18)** Let's look at some of these.
 >
@@ -923,7 +913,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-input-types?u=76281980&t=97)** This is going to allow us to display a button with no default behavior.
 >
-> **[1:42](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-input-types?u=76281980&t=102)** Generally, when you use a button in this manner, you'll have the behavior be controlled via JavaScript.
+> **[1:42](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-input-types?u=76281980&t=102)** Generally, when you use a button in this manner, you'll have the behavior be controlled via [[JavaScript]].
 >
 > **[1:50](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-input-types?u=76281980&t=110)** We can make an input and set the type to submit.
 >
@@ -1005,7 +995,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[User Experience (UX)|User experience]] (2), [[Search]] (2), [[Forms]] (1), database (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Forms]] (1), [[JavaScript]] (1)
 > **Env Vars:** html5 (2), url (2), svg (1), pdf (1)
 > **UI Navigation:** checkbox (1), select the (1), switch to (1)
 > **CLI Commands:** make (1)
@@ -1013,16 +1003,15 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### New input attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-input-attributes?u=76281980)
+#### [New input attributes](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-input-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-input-attributes?u=76281980&t=0)** - [Instructor] In addition to setting the type attribute on an input field, we have a plethora of additional attributes that can make our forms more user friendly.
+> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-input-attributes?u=76281980&t=0)** - [Instructor] In addition to setting the type attribute on an input field, we have a plethora of additional attributes that can make our [[Forms]] more user friendly.
 >
 > **[0:09](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-input-attributes?u=76281980&t=9)** Now we've already discussed the necessity of setting a name attribute.
 >
-> **[0:14](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-input-attributes?u=76281980&t=14)** This is used to reference elements in a JavaScript file, or to reference form data after the form has been submitted.
+> **[0:14](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-input-attributes?u=76281980&t=14)** This is used to reference elements in a [[JavaScript]] file, or to reference form data after the form has been submitted.
 >
 > **[0:21](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/new-input-attributes?u=76281980&t=21)** As well as the ID attribute, this associates the input with its labels for attribute and can be used with CSS and JavaScript.
 >
@@ -1092,7 +1081,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), css (2), [[Forms]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Forms]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** css (2), url (1)
 > **Definitions:** is a  (2)
@@ -1100,8 +1089,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### More input attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/more-input-attributes?u=76281980)
+#### [More input attributes](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/more-input-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1127,7 +1115,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/more-input-attributes?u=76281980&t=56)** By adding it to a form field, the browser is going to require that the user enter data into that field before submitting the field.
 >
-> **[1:05](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/more-input-attributes?u=76281980&t=65)** This replaces the basic form validation, currently implemented with JavaScript, making things a little more usable and saving us a little more development time.
+> **[1:05](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/more-input-attributes?u=76281980&t=65)** This replaces the basic form validation, currently implemented with [[JavaScript]], making things a little more usable and saving us a little more development time.
 >
 > **[1:15](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/more-input-attributes?u=76281980&t=75)** You can also style the input using the required pseudo class.
 >
@@ -1213,13 +1201,13 @@ created: 2026-05-02
 >
 > **[6:35](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/more-input-attributes?u=76281980&t=395)** We need to incorporate a little bit of JavaScript for this to work as well.
 >
-> **[6:39](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/more-input-attributes?u=76281980&t=399)** So now we've looked at many of the new form attributes that help improve user experience and save you development time.
+> **[6:39](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/more-input-attributes?u=76281980&t=399)** So now we've looked at many of the new form attributes that help improve [[User Experience (UX)|user experience]] and save you development time.
 >
-> **[6:47](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/more-input-attributes?u=76281980&t=407)** I think that you'll find the opportunity to incorporate many of these into the forms that you're going to be building.
+> **[6:47](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/more-input-attributes?u=76281980&t=407)** I think that you'll find the opportunity to incorporate many of these into the [[Forms]] that you're going to be building.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), feature (2), next (2), [[Search]] (2), data (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[User Experience (UX)|User experience]] (1), [[Forms]] (1)
 > **Definitions:** is a  (3), means that (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (1), find (1)
@@ -1228,12 +1216,11 @@ created: 2026-05-02
 > **Documentation:** spec (1)
 > **Speakers:** - [instructor] (1)
 
-#### Form validate options
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-validate-options?u=76281980)
+#### [Form validate options](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-validate-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-validate-options?u=76281980&t=0)** - [Instructor] The novalidate and formnovalidate attributes indicate that the forms shouldn't be validated when submitted.
+> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-validate-options?u=76281980&t=0)** - [Instructor] The novalidate and formnovalidate attributes indicate that the [[Forms]] shouldn't be validated when submitted.
 >
 > **[0:07](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-validate-options?u=76281980&t=7)** These are both boolean attributes that you can add to the form element itself or other input elements.
 >
@@ -1315,8 +1302,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Input restrictions: Pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/input-restrictions-pattern?u=76281980)
+#### [Input restrictions: Pattern](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/input-restrictions-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1458,7 +1444,7 @@ created: 2026-05-02
 >
 > **[6:57](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/input-restrictions-pattern?u=76281980&t=417)** So adding the title tag can definitely be helpful to your end users.
 >
-> **[7:03](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/input-restrictions-pattern?u=76281980&t=423)** Now it is worth noting that you can further customize the message by adding a little bit of JavaScript.
+> **[7:03](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/input-restrictions-pattern?u=76281980&t=423)** Now it is worth noting that you can further customize the message by adding a little bit of [[JavaScript]].
 >
 > **[7:10](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/input-restrictions-pattern?u=76281980&t=430)** So in my second example that I have right here, that talks about giving additional validation feedback, I'm still using the pattern attribute, so again, I'm asking for lowercase letters one through 10.
 >
@@ -1518,29 +1504,28 @@ created: 2026-05-02
 >
 > **[10:37](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/input-restrictions-pattern?u=76281980&t=637)** Here we're saying that the user can enter any amount of characters inside of our field.
 >
-> **[10:45](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/input-restrictions-pattern?u=76281980&t=645)** You may need to tweak your CSS because obviously my submit buttons are also showing up with the green border because technically, I am using input elements and the input elements are valid at present, so we might need to use them some specific CSS so that these fields are not included with the CSS if we're going to be incorporating this into our forms.
+> **[10:45](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/input-restrictions-pattern?u=76281980&t=645)** You may need to tweak your CSS because obviously my submit buttons are also showing up with the green border because technically, I am using input elements and the input elements are valid at present, so we might need to use them some specific CSS so that these fields are not included with the CSS if we're going to be incorporating this into our [[Forms]].
 >
 > **[11:09](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/input-restrictions-pattern?u=76281980&t=669)** Using the standard input types along with the pattern attribute is going to give your forms an extra layer of validation.
 >
-> **[11:16](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/input-restrictions-pattern?u=76281980&t=676)** It is possible to improve the user experience by adding some additional attributes and or some JavaScript and CSS as well.
+> **[11:16](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/input-restrictions-pattern?u=76281980&t=676)** It is possible to improve the [[User Experience (UX)|user experience]] by adding some additional attributes and or some JavaScript and CSS as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (8), next (5), [[JavaScript]] (4), [[Forms]] (2), data (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Forms]] (2), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** css (8), html5 (1), url (1)
 > **Definitions:** is a  (5)
 > **Documentation:** specification (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Buttons
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/buttons?u=76281980)
+#### [Buttons](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/buttons?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/buttons?u=76281980&t=0)** - [Instructor] A buttons is an interactive element that results in an action that is described on it.
 >
-> **[0:06](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/buttons?u=76281980&t=6)** The HTML button element represents a clickable button, which can be used in forms or anywhere in a document that needs simple standard button functionality.
+> **[0:06](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/buttons?u=76281980&t=6)** The [[HTML]] button element represents a clickable button, which can be used in [[Forms]] or anywhere in a document that needs simple standard button functionality.
 >
 > **[0:16](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/buttons?u=76281980&t=16)** By default, HTML buttons are typically presented in a similar style to that of the host platform that the user agent is running on.
 >
@@ -1594,7 +1579,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/buttons?u=76281980&t=159)** Or we could just have the type be set to a button.
 >
-> **[2:42](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/buttons?u=76281980&t=162)** If it's set to a button, its effects must be controlled by something else such as JavaScript.
+> **[2:42](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/buttons?u=76281980&t=162)** If it's set to a button, its effects must be controlled by something else such as [[JavaScript]].
 >
 > **[2:48](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/buttons?u=76281980&t=168)** Buttons have no default behavior and they do nothing when pressed.
 >
@@ -1670,7 +1655,7 @@ created: 2026-05-02
 >
 > **[6:30](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/buttons?u=76281980&t=390)** Important buttons also work well with icons.
 >
-> **[6:33](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/buttons?u=76281980&t=393)** A checkout is quickly identified by a basket or a cart icon, but only as long as the word checkout also appears.
+> **[6:33](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/buttons?u=76281980&t=393)** A checkout is quickly identified by a basket or a cart icon, but only as long as the [[Microsoft Word|word]] checkout also appears.
 >
 > **[6:41](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/buttons?u=76281980&t=401)** A right arrow or a chevron placed after the button label makes the resulting message stronger.
 >
@@ -1686,7 +1671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (8), data (5), [[HTML]] (4), [[Forms]] (1), generic (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Forms]] (1), [[JavaScript]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** css (8), html (4)
 > **CLI Commands:** make (5), node (1)
 > **Definitions:** is an  (2), is a  (2)
@@ -1695,12 +1680,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Autocomplete
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/autocomplete?u=76281980)
+#### [Autocomplete](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/autocomplete?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/autocomplete?u=76281980&t=0)** - [Instructor] The HTML Autocomplete attribute is available on the form tag as well as input elements that take a text or numeric value as input, text area elements and select elements.
+> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/autocomplete?u=76281980&t=0)** - [Instructor] The [[HTML]] Autocomplete attribute is available on the form tag as well as input elements that take a text or numeric value as input, text area elements and select elements.
 >
 > **[0:12](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/autocomplete?u=76281980&t=12)** Autocomplete lets web developers specify what if any permissions the user agent has to provide automated assistance in filling out form field values as well as guidance to the browser as to what type of information is expected in that particular field.
 >
@@ -1734,13 +1718,13 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/autocomplete?u=76281980&t=159)** The last example I have for you in this section is an example where we have Autocomplete turned on and off on individual fields, so on this form, you can see that I have Autocomplete set for the email, but I have it turned off for the telephone number, and if we come into the browser, when I click in the email field, it's remembering a previously entered email address and entering it if I desire, and in the phone field, it doesn't remember anything since we have Autocomplete set to off.
 >
-> **[3:14](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/autocomplete?u=76281980&t=194)** The Autocomplete attribute helps users complete forms based on earlier inputs.
+> **[3:14](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/autocomplete?u=76281980&t=194)** The Autocomplete attribute helps users complete [[Forms]] based on earlier inputs.
 >
 > **[3:19](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/autocomplete?u=76281980&t=199)** In certain cases, you may want to restrict this behavior by using Autocomplete off so that the browser is not able to implement this information.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), web (1), next (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Forms]] (1)
 > **Definitions:** means that (1), is an  (1)
 > **Env Vars:** html (1)
 > **Analogies:** for instance (1)
@@ -1751,8 +1735,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Form layout tips
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-layout-tips?u=76281980)
+#### [Form layout tips](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-layout-tips?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1760,7 +1743,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-layout-tips?u=76281980&t=9)** Since the form is the key method in which you'll be interacting with your users, you want to consider and plan for the physical structure of the form prior to building it.
 >
-> **[0:19](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-layout-tips?u=76281980&t=19)** Some things for you to consider are, don't duplicate paper forms.
+> **[0:19](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-layout-tips?u=76281980&t=19)** Some things for you to consider are, don't duplicate paper [[Forms]].
 >
 > **[0:24](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-layout-tips?u=76281980&t=24)** Web Forms don't have to follow the same conventions as paper forms.
 >
@@ -1780,7 +1763,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-layout-tips?u=76281980&t=66)** Remember, that you're not constrained by paper, so you no longer have to save space by cramming as many fields as possible into that one little area.
 >
-> **[1:15](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-layout-tips?u=76281980&t=75)** Place your form inside its own container and separate it from the rest of the content.
+> **[1:15](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-layout-tips?u=76281980&t=75)** Place your form inside its own container and separate it from the [[Representational State Transfer (REST)|rest]] of the content.
 >
 > **[1:20](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-layout-tips?u=76281980&t=80)** Keep it nearby, but use borders, colors and positioning so users know what's part of the form and what isn't.
 >
@@ -1816,7 +1799,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-layout-tips?u=76281980&t=154)** Typing has a high cost to your users because it's time consuming and error prone, especially on mobile devices.
 >
-> **[2:41](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-layout-tips?u=76281980&t=161)** You may be able to simplify the user experience with radio buttons or drop downs, even if they add a little complexity to your form layout.
+> **[2:41](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-layout-tips?u=76281980&t=161)** You may be able to simplify the [[User Experience (UX)|user experience]] with radio buttons or drop downs, even if they add a little complexity to your form layout.
 >
 > **[2:50](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-layout-tips?u=76281980&t=170)** Match fields to the input.
 >
@@ -1936,7 +1919,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (16), data (5), web (3), [[Representational State Transfer (REST)|Rest]] (2), [[User Experience (UX)|User experience]] (2)
+> **Frameworks & Libraries:** [[Forms]] (16), [[Representational State Transfer (REST)|Rest]] (2), [[User Experience (UX)|User experience]] (2)
 > **Definitions:** is a  (2), means that (2)
 > **Analogies:** for instance (2), such as (1), just like (1)
 > **CLI Commands:** make (3)
@@ -1944,8 +1927,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Styling labels and inputs
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-labels-and-inputs?u=76281980)
+#### [Styling labels and inputs](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-labels-and-inputs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1957,7 +1939,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-labels-and-inputs?u=76281980&t=20)** Labels are not help texts.
 >
-> **[0:23](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-labels-and-inputs?u=76281980&t=23)** Use succinct, short, descriptive labels, just a word or two so that users can quickly scan your form.
+> **[0:23](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-labels-and-inputs?u=76281980&t=23)** Use succinct, short, descriptive labels, just a [[Microsoft Word|word]] or two so that users can quickly scan your form.
 >
 > **[0:30](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-labels-and-inputs?u=76281980&t=30)** Here's what we're going to be building right now.
 >
@@ -1969,7 +1951,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-labels-and-inputs?u=76281980&t=50)** We'll go ahead and create some custom CSS so we can transform this plain form into something that's going to be visually much more appealing and more user-friendly.
 >
-> **[1:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-labels-and-inputs?u=76281980&t=60)** Let me familiarize you with the HTML code.
+> **[1:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-labels-and-inputs?u=76281980&t=60)** Let me familiarize you with the [[HTML]] code.
 >
 > **[1:03](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-labels-and-inputs?u=76281980&t=63)** I have an HTML page and you can see that I have a form tag.
 >
@@ -1999,7 +1981,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-labels-and-inputs?u=76281980&t=133)** The second div also has a class of checks, and this is where I'm creating my radio buttons.
 >
-> **[2:18](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-labels-and-inputs?u=76281980&t=138)** Finally, I have a submit input type that will allow the user to submit the form, and then I just close the rest of the HTML tags.
+> **[2:18](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-labels-and-inputs?u=76281980&t=138)** Finally, I have a submit input type that will allow the user to submit the form, and then I just close the [[Representational State Transfer (REST)|rest]] of the HTML tags.
 >
 > **[2:25](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-labels-and-inputs?u=76281980&t=145)** Let's go ahead and let's create some CSS.
 >
@@ -2141,7 +2123,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (10), [[HTML]] (3), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (10), html (3)
 > **Cross-References:** go back to (6)
 > **UI Navigation:** scroll down (1), checkbox (1)
@@ -2150,8 +2132,7 @@ created: 2026-05-02
 > **Best Practices:** general rule (1)
 > **Speakers:** - [instructor] (1)
 
-#### Focus styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/focus-styles?u=76281980)
+#### [Focus styles](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/focus-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2221,7 +2202,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/focus-styles?u=76281980&t=203)** And you can always come in and play around with any of these values, so you can adjust this so that it works specifically for your needs.
 >
-> **[3:32](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/focus-styles?u=76281980&t=212)** It is possible on focus to add border, but you do need to be careful because if you add border, it sometimes makes your forms move around a little bit.
+> **[3:32](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/focus-styles?u=76281980&t=212)** It is possible on focus to add border, but you do need to be careful because if you add border, it sometimes makes your [[Forms]] move around a little bit.
 >
 > **[3:41](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/focus-styles?u=76281980&t=221)** So let me show you what this looks like.
 >
@@ -2235,13 +2216,13 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/focus-styles?u=76281980&t=245)** As you can see our inputs and text area boxes look really great with the focus styling, but our check boxes and our radio buttons don't work quite as well with the focus state.
 >
-> **[4:16](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/focus-styles?u=76281980&t=256)** So in order to make these look good, we're going to have to modify our CSS and HTML.
+> **[4:16](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/focus-styles?u=76281980&t=256)** So in order to make these look good, we're going to have to modify our CSS and [[HTML]].
 >
 > **[4:21](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/focus-styles?u=76281980&t=261)** We'll fix this shortly.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[Forms]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[HTML]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Env Vars:** css (4), html (1)
 > **Definitions:** refers to (1), is a  (1)
@@ -2250,8 +2231,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Warnings:** be careful (1)
 
-#### Using pseudo-classes to be more specific
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-pseudo-classes-to-be-more-specific?u=76281980)
+#### [Using pseudo-classes to be more specific](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-pseudo-classes-to-be-more-specific?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2273,7 +2253,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-pseudo-classes-to-be-more-specific?u=76281980&t=54)** Let me switch back to my file.
 >
-> **[0:57](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-pseudo-classes-to-be-more-specific?u=76281980&t=57)** I have an HTML page that has a variety of field sets and form elements that are going to encompass these various pseudo-class states.
+> **[0:57](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-pseudo-classes-to-be-more-specific?u=76281980&t=57)** I have an [[HTML]] page that has a variety of field sets and form elements that are going to encompass these various pseudo-class states.
 >
 > **[1:06](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-pseudo-classes-to-be-more-specific?u=76281980&t=66)** They're all set up very similarly, in that I have a field set, I have a legend that labels the area, I'll have a label that is attached to the input field, and so on and so forth.
 >
@@ -2405,7 +2385,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (8), [[HTML]] (4), next (3), dom (1)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **Env Vars:** css (8), html (4), dom (1), html5 (1)
 > **UI Navigation:** checkbox (7), scroll down (1)
 > **CLI Commands:** make (3)
@@ -2414,8 +2394,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Custom checkboxes
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/custom-checkboxes?u=76281980)
+#### [Custom checkboxes](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/custom-checkboxes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2445,7 +2424,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/custom-checkboxes?u=76281980&t=77)** If we click on this icon, it'll take us to the landing page for this particular icon and it's going to show you how you can use the icon and most importantly, it's going to provide some code that you can incorporate in your project.
 >
-> **[1:31](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/custom-checkboxes?u=76281980&t=91)** So this right here is the HTML code.
+> **[1:31](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/custom-checkboxes?u=76281980&t=91)** So this right here is the [[HTML]] code.
 >
 > **[1:34](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/custom-checkboxes?u=76281980&t=94)** We're not going to be using that.
 >
@@ -2529,7 +2508,7 @@ created: 2026-05-02
 >
 > **[6:13](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/custom-checkboxes?u=76281980&t=373)** So if the checkbox is checked, we'll take advantage of the span:before and we're simply changing the content to the checked box.
 >
-> **[6:21](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/custom-checkboxes?u=76281980&t=381)** So if we save our page, and come back to the browser and refresh, now I have this beautiful custom checkbox and I either check the label or the checkbox itself and you can see that it works great and it looks much better in regards to the rest of the elements on my page.
+> **[6:21](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/custom-checkboxes?u=76281980&t=381)** So if we save our page, and come back to the browser and refresh, now I have this beautiful custom checkbox and I either check the label or the checkbox itself and you can see that it works great and it looks much better in regards to the [[Representational State Transfer (REST)|rest]] of the elements on my page.
 >
 > **[6:40](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/custom-checkboxes?u=76281980&t=400)** This is definitely a nice touch to a form where you can customize the styling of these elements.
 >
@@ -2537,7 +2516,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (8), next (5), [[HTML]] (3), power (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** checkbox (17), go to (2), click on (1), scroll down (1), toggle (1)
 > **Env Vars:** css (7), html (3)
 > **CLI Commands:** make (5), find (1)
@@ -2546,8 +2525,7 @@ created: 2026-05-02
 > **File Paths:** code_snippets.txt (1)
 > **Definitions:** is a  (1)
 
-#### Radio buttons
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/radio-buttons?u=76281980)
+#### [Radio buttons](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/radio-buttons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2571,7 +2549,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/radio-buttons?u=76281980&t=52)** But I'll provide that for you in my code snippet.
 >
-> **[0:55](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/radio-buttons?u=76281980&t=55)** All right, the first thing that we're going to need to do is we need to do a little bit of modification to our HTML in order to get this to work.
+> **[0:55](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/radio-buttons?u=76281980&t=55)** All right, the first thing that we're going to need to do is we need to do a little bit of modification to our [[HTML]] in order to get this to work.
 >
 > **[1:02](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/radio-buttons?u=76281980&t=62)** So I'm going to go down to the radio button section and for this to actually work correctly we need to wrap the label around the input and a span tag.
 >
@@ -2581,7 +2559,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/radio-buttons?u=76281980&t=94)** The other thing that I'm going to add into my file is after the input tag and before the label text, I'm simply going to add a span tag.
 >
-> **[1:42](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/radio-buttons?u=76281980&t=102)** So I will quickly go ahead and do this for the rest of the radio buttons.
+> **[1:42](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/radio-buttons?u=76281980&t=102)** So I will quickly go ahead and do this for the [[Representational State Transfer (REST)|rest]] of the radio buttons.
 >
 > **[1:48](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/radio-buttons?u=76281980&t=108)** All right, so now our HTML is all set.
 >
@@ -2661,11 +2639,11 @@ created: 2026-05-02
 >
 > **[5:56](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/radio-buttons?u=76281980&t=356)** I think that the inputs are easier to select and click and they also look great and with CSS you can basically style them to be any color that you want.
 >
-> **[6:08](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/radio-buttons?u=76281980&t=368)** You can add drop shadows or whatever, so you have a lot of granular control over how you want these things to work within your forms.
+> **[6:08](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/radio-buttons?u=76281980&t=368)** You can add drop shadows or whatever, so you have a lot of granular control over how you want these things to work within your [[Forms]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (7), next (3), [[HTML]] (3), [[Search]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Forms]] (1)
 > **Env Vars:** css (7), html (3)
 > **UI Navigation:** checkbox (4), scroll down (1)
 > **Analogies:** just like (3), similar to (1)
@@ -2674,8 +2652,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [woman] (1)
 
-#### Toggle switch
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/toggle-switch?u=76281980)
+#### [Toggle switch](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/toggle-switch?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2691,7 +2668,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/toggle-switch?u=76281980&t=26)** This is where we left off in the last exercise.
 >
-> **[0:29](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/toggle-switch?u=76281980&t=29)** In the HTML file, I'm just going to go ahead and add a little bit more code to the bottom of my page.
+> **[0:29](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/toggle-switch?u=76281980&t=29)** In the [[HTML]] file, I'm just going to go ahead and add a little bit more code to the bottom of my page.
 >
 > **[0:34](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/toggle-switch?u=76281980&t=34)** So I'll scroll down to the bottom of the page.
 >
@@ -2833,11 +2810,11 @@ created: 2026-05-02
 >
 > **[8:01](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/toggle-switch?u=76281980&t=481)** These are going to function in a very similar way across the board in a variety of the browsers that we are using.
 >
-> **[8:10](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/toggle-switch?u=76281980&t=490)** So I hope you enjoy these exercises, and will be able to implement them into your own forms and customize your forms, making them beautiful and functional.
+> **[8:10](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/toggle-switch?u=76281980&t=490)** So I hope you enjoy these exercises, and will be able to implement them into your own [[Forms]] and customize your forms, making them beautiful and functional.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (9), next (3), [[HTML]] (2), [[Forms]] (2), functional (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Forms]] (2)
 > **UI Navigation:** checkbox (14), toggle (8), click on (3), scroll down (2)
 > **Env Vars:** css (9), html (2)
 > **CLI Commands:** make (3), find (1), sudo (1)
@@ -2846,8 +2823,7 @@ created: 2026-05-02
 > **Code Identifiers:** toggleswitch (1)
 > **Analogies:** such as (1)
 
-#### Styling select, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-1?u=76281980)
+#### [Styling select, part 1](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2867,7 +2843,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-1?u=76281980&t=37)** So the styles that we see, are just being generated by the browser.
 >
-> **[0:42](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-1?u=76281980&t=42)** Let's look at our HTML code.
+> **[0:42](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-1?u=76281980&t=42)** Let's look at our [[HTML]] code.
 >
 > **[0:44](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-1?u=76281980&t=44)** As you can see here, I have the Select element.
 >
@@ -2895,7 +2871,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-1?u=76281980&t=135)** So this is a little bit better than what we had before.
 >
-> **[2:18](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-1?u=76281980&t=138)** This is really the minimum requirements that you would want to include, and this is true, not only with select boxes, but really with any input element that you're going to be adding with forms, you need to make sure that you turn on border, so that the mobile devices will render that border.
+> **[2:18](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-1?u=76281980&t=138)** This is really the minimum requirements that you would want to include, and this is true, not only with select boxes, but really with any input element that you're going to be adding with [[Forms]], you need to make sure that you turn on border, so that the mobile devices will render that border.
 >
 > **[2:36](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-1?u=76281980&t=156)** All right, I'm going to get out of my inspector.
 >
@@ -2957,15 +2933,15 @@ created: 2026-05-02
 >
 > **[6:49](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-1?u=76281980&t=409)** I'm going to go back into my code snippets, and I do have a few more options here, let's just copy these, We'll go back to the CSS and we'll paste these in.
 >
-> **[7:03](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-1?u=76281980&t=423)** And these elements, this one is going to be specific for Microsoft, it is just going to help to ensure that this works correctly in a Microsoft browser.
+> **[7:03](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-1?u=76281980&t=423)** And these elements, this one is going to be specific for [[Microsoft]], it is just going to help to ensure that this works correctly in a Microsoft browser.
 >
 > **[7:15](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-1?u=76281980&t=435)** And then we're also setting our focus options.
 >
-> **[7:18](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-1?u=76281980&t=438)** So we're going to set a box shadow and a color, so that when we actually click on the menu, the focus state is more in line with the rest of the colors that I've established here.
+> **[7:18](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-1?u=76281980&t=438)** So we're going to set a box shadow and a color, so that when we actually click on the menu, the focus state is more in line with the [[Representational State Transfer (REST)|rest]] of the colors that I've established here.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (10), [[HTML]] (2), [[Microsoft]] (2), [[Forms]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Microsoft]] (2), [[Forms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (10), html (2)
 > **Cross-References:** go back to (5)
 > **UI Navigation:** click on (2), toggle (1), scroll down (1), select the (1)
@@ -2974,14 +2950,13 @@ created: 2026-05-02
 > **Analogies:** compare this to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Styling select, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-2?u=76281980)
+#### [Styling select, part 2](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-2?u=76281980&t=0)** - [Instructor] We're going to be looking at a way that we can fully customize our select box.
 >
-> **[0:04](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-2?u=76281980&t=4)** This is going to require that we use both CSS and JavaScript.
+> **[0:04](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-2?u=76281980&t=4)** This is going to require that we use both CSS and [[JavaScript]].
 >
 > **[0:09](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-2?u=76281980&t=9)** So let's go ahead and dive into the code.
 >
@@ -3033,7 +3008,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-2?u=76281980&t=219)** If we drill into the document, here is our form field.
 >
-> **[3:44](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-2?u=76281980&t=224)** Here's the field set and you can see that we have some new items that were not present in the original HTML.
+> **[3:44](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-2?u=76281980&t=224)** Here's the field set and you can see that we have some new items that were not present in the original [[HTML]].
 >
 > **[3:54](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-2?u=76281980&t=234)** So we did not have a div with a class of select.
 >
@@ -3087,7 +3062,7 @@ created: 2026-05-02
 >
 > **[6:49](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-2?u=76281980&t=409)** I'll go back to my code snippets.
 >
-> **[6:52](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-2?u=76281980&t=412)** The next set of styles is going to style the unordered list that is being dynamically created by our JavaScript, so I'm just going to go ahead and select the rest of the code.
+> **[6:52](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-2?u=76281980&t=412)** The next set of styles is going to style the unordered list that is being dynamically created by our JavaScript, so I'm just going to go ahead and select the [[Representational State Transfer (REST)|rest]] of the code.
 >
 > **[7:06](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-2?u=76281980&t=426)** We'll go back into our CSS file and we'll paste this in to our document.
 >
@@ -3117,11 +3092,11 @@ created: 2026-05-02
 >
 > **[8:49](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-2?u=76281980&t=529)** Because this is using an unordered list, which is much more flexible in regards to the type of CSS we can apply to it, we really have full control.
 >
-> **[8:58](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-2?u=76281980&t=538)** I think that you could find this of to be a very useful technique, if you want to really customize what a drop down or select box looks like on your forms.
+> **[8:58](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/styling-select-part-2?u=76281980&t=538)** I think that you could find this of to be a very useful technique, if you want to really customize what a drop down or select box looks like on your [[Forms]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (12), [[JavaScript]] (10), next (7), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (10), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Forms]] (1)
 > **Env Vars:** css (12), html (1)
 > **UI Navigation:** scroll down (2), select the (2), go to (1), toggle (1)
 > **CLI Commands:** find (3), make (1)
@@ -3130,8 +3105,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** similar to (1)
 
-#### Float labels
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/float-labels?u=76281980)
+#### [Float labels](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/float-labels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3147,7 +3121,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/float-labels?u=76281980&t=33)** Here is my starting file and my labels are showing as we would normally expect them, above the input fields.
 >
-> **[0:41](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/float-labels?u=76281980&t=41)** So let's take a quick look at the HTML.
+> **[0:41](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/float-labels?u=76281980&t=41)** So let's take a quick look at the [[HTML]].
 >
 > **[0:44](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/float-labels?u=76281980&t=44)** Inside of my form tag, I have a fieldset and a legend.
 >
@@ -3181,7 +3155,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/float-labels?u=76281980&t=204)** We're also using the touch-action property and in CSS, this gives you control over the effect of touch screen interactions with an element.
 >
-> **[3:34](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/float-labels?u=76281980&t=214)** So it's similar to the more widely used pointer-events property that is used to control mouse interactions but the touch action manipulation is going to enable pinch and zoom interactions.
+> **[3:34](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/float-labels?u=76281980&t=214)** So it's similar to the more widely used pointer-events property that is used to control mouse interactions but the touch action manipulation is going to enable pinch and [[Zoom]] interactions.
 >
 > **[3:47](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/float-labels?u=76281980&t=227)** So this could remove things like an annoying sort of delay that could occur in that situation.
 >
@@ -3231,7 +3205,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), [[HTML]] (2), next (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Zoom]] (1)
 > **Env Vars:** css (5), html (2)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** select the (1)
@@ -3243,12 +3217,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The registration process
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/the-registration-process?u=76281980)
+#### [The registration process](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/the-registration-process?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/the-registration-process?u=76281980&t=0)** - [Instructor] Ever since businesses went online and started taking the web seriously, registration forms have been vital.
+> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/the-registration-process?u=76281980&t=0)** - [Instructor] Ever since businesses went online and started taking the web seriously, registration [[Forms]] have been vital.
 >
 > **[0:07](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/the-registration-process?u=76281980&t=7)** While they could be considered the first barrier to an online sale, they're essential for any business that wants to maintain a relationship with a customer.
 >
@@ -3264,7 +3237,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/the-registration-process?u=76281980&t=28)** Register first.
 >
-> **[0:30](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/the-registration-process?u=76281980&t=30)** Almost any business that sells products or services requires that you register.
+> **[0:30](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/the-registration-process?u=76281980&t=30)** Almost any business that sells [[Microsoft Products|products]] or services requires that you register.
 >
 > **[0:35](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/the-registration-process?u=76281980&t=35)** While on the surface, login forms seem really simple.
 >
@@ -3362,7 +3335,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/the-registration-process?u=76281980&t=261)** There are alternatives out there which don't have any negative impact on your form.
 >
-> **[4:26](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/the-registration-process?u=76281980&t=266)** Use an alternative, like the Google solution of reCaptcha or use the honeypot technique, which consists of having an input field that the users leave blank.
+> **[4:26](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/the-registration-process?u=76281980&t=266)** Use an alternative, like the [[Google]] solution of reCaptcha or use the honeypot technique, which consists of having an input field that the users leave blank.
 >
 > **[4:36](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/the-registration-process?u=76281980&t=276)** A robot will fill it in.
 >
@@ -3374,19 +3347,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (3), data (3), business (2), web (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Forms]] (3), [[Microsoft Products|Products]] (1), [[Google]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), imagine (1)
 > **Code Identifiers:** recaptcha (1)
 > **Env Vars:** html5 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Login form flow chart and landing page
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/login-form-flow-chart-and-landing-page?u=76281980)
+#### [Login form flow chart and landing page](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/login-form-flow-chart-and-landing-page?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/login-form-flow-chart-and-landing-page?u=76281980&t=0)** - [Instructor] On the surface, Log ins forms seem simple.
+> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/login-form-flow-chart-and-landing-page?u=76281980&t=0)** - [Instructor] On the surface, Log ins [[Forms]] seem simple.
 >
 > **[0:04](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/login-form-flow-chart-and-landing-page?u=76281980&t=4)** They're just two to four fields.
 >
@@ -3440,21 +3412,20 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/login-form-flow-chart-and-landing-page?u=76281980&t=147)** They just provide a clean and easy way for our user to either log in or register.
 >
-> **[2:32](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/login-form-flow-chart-and-landing-page?u=76281980&t=152)** We will use many of these styles and similar html formatting on our form-based pages.
+> **[2:32](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/login-form-flow-chart-and-landing-page?u=76281980&t=152)** We will use many of these styles and similar [[HTML]] formatting on our form-based pages.
 >
 > **[2:38](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/login-form-flow-chart-and-landing-page?u=76281980&t=158)** We'll be building these out in the next upcoming videos.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[HTML]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building the login page
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/building-the-login-page?u=76281980)
+#### [Building the login page](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/building-the-login-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3468,7 +3439,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/building-the-login-page?u=76281980&t=20)** By using their email address as a username, or simplifying the process and removing barriers, like having to remember yet another username.
 >
-> **[0:29](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/building-the-login-page?u=76281980&t=29)** You want to strive to make your forms as simple and pain free as possible.
+> **[0:29](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/building-the-login-page?u=76281980&t=29)** You want to strive to make your [[Forms]] as simple and pain free as possible.
 >
 > **[0:34](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/building-the-login-page?u=76281980&t=34)** So let's check out how this page is set up.
 >
@@ -3482,7 +3453,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/building-the-login-page?u=76281980&t=58)** If we go into base.css, it has all the base styles.
 >
-> **[1:02](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/building-the-login-page?u=76281980&t=62)** So everything kind of generic, like universal selector, html, body, body, header, generic tags.
+> **[1:02](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/building-the-login-page?u=76281980&t=62)** So everything kind of generic, like universal selector, [[HTML]], body, body, header, generic tags.
 >
 > **[1:10](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/building-the-login-page?u=76281980&t=70)** I have some more specific styles for the logo and whatnot.
 >
@@ -3554,7 +3525,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (7), generic (2), [[Forms]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[HTML]] (1)
 > **File Paths:** base.css (3), form.css (1), 0form.css (1)
 > **Prerequisites:** set up (2), setup (1)
 > **CLI Commands:** make (2)
@@ -3562,8 +3533,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Password visibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/password-visibility?u=76281980)
+#### [Password visibility](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/password-visibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3585,11 +3555,11 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/password-visibility?u=76281980&t=43)** It's really best practice when filling in the password of a form to give users the options to show or hide the password that they have entered.
 >
-> **[0:51](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/password-visibility?u=76281980&t=51)** This eliminates the need for a redundant enter password again field, and it allows the user to be able to control whether they want the password obscured or not, this is good for user experience.
+> **[0:51](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/password-visibility?u=76281980&t=51)** This eliminates the need for a redundant enter password again field, and it allows the user to be able to control whether they want the password obscured or not, this is good for [[User Experience (UX)|user experience]].
 >
 > **[1:04](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/password-visibility?u=76281980&t=64)** So if the user is unsure, they can check and make sure that they haven't made any mistake.
 >
-> **[1:09](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/password-visibility?u=76281980&t=69)** In order to do this, we'll be using our Font Awesome icons, and we'll modify our HTML slightly.
+> **[1:09](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/password-visibility?u=76281980&t=69)** In order to do this, we'll be using our Font Awesome icons, and we'll modify our [[HTML]] slightly.
 >
 > **[1:15](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/password-visibility?u=76281980&t=75)** It is worth pointing out that in addition to the base CSS files, I'm going to be working on my 04_form file that we used in the last exercise, and we'll be adding to this so that we can style the password in the way that we want.
 >
@@ -3609,7 +3579,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/password-visibility?u=76281980&t=136)** The eyeIcon class is also going to become a toggle so that our users can choose to show or hide their password.
 >
-> **[2:24](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/password-visibility?u=76281980&t=144)** So we'll be using some JavaScript to incorporate this sort of functionality.
+> **[2:24](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/password-visibility?u=76281980&t=144)** So we'll be using some [[JavaScript]] to incorporate this sort of functionality.
 >
 > **[2:29](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/password-visibility?u=76281980&t=149)** I'm going to save the page.
 >
@@ -3779,7 +3749,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (7), next (4), [[HTML]] (3), [[JavaScript]] (3), [[User Experience (UX)|User experience]] (2)
+> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (3), [[User Experience (UX)|User experience]] (2)
 > **Code Identifiers:** eyeicon (6), vistoggle (3), setattribute (1), classlist (1)
 > **Env Vars:** css (7), html (3)
 > **UI Navigation:** toggle (3), click on (2), go to (1), scroll down (1)
@@ -3788,8 +3758,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build and style a sign-up form
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/build-and-style-a-sign-up-form?u=76281980)
+#### [Build and style a sign-up form](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/build-and-style-a-sign-up-form?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3803,7 +3772,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/build-and-style-a-sign-up-form?u=76281980&t=24)** And everything else is going to be very similar to what we've already done.
 >
-> **[0:29](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/build-and-style-a-sign-up-form?u=76281980&t=29)** Let's take a look at our HTML and our CSS.
+> **[0:29](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/build-and-style-a-sign-up-form?u=76281980&t=29)** Let's take a look at our [[HTML]] and our CSS.
 >
 > **[0:32](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/build-and-style-a-sign-up-form?u=76281980&t=32)** As you can see, without the CSS, the page is not formatting in the way that we want it to, it's just one column, and obviously we don't have the colors that we want.
 >
@@ -3853,15 +3822,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), next (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (3), html (1)
 > **Code Identifiers:** signupform (2)
 > **File Paths:** form.css (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using tooltips for more information
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-tooltips-for-more-information?u=76281980)
+#### [Using tooltips for more information](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-tooltips-for-more-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3887,7 +3855,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-tooltips-for-more-information?u=76281980&t=79)** Here's the file that we've been working on.
 >
-> **[1:22](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-tooltips-for-more-information?u=76281980&t=82)** We'll be adding some HTML, some CSS and some JavaScript to make this work.
+> **[1:22](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-tooltips-for-more-information?u=76281980&t=82)** We'll be adding some [[HTML]], some CSS and some [[JavaScript]] to make this work.
 >
 > **[1:26](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-tooltips-for-more-information?u=76281980&t=86)** I'm going to scroll down in the HTML page and we'll be adding this code into our password wrap and into our city wrap sections.
 >
@@ -3905,7 +3873,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-tooltips-for-more-information?u=76281980&t=124)** So inside our password wrapper, I now have an font awesome i tag, which is generating our question mark.
 >
-> **[2:13](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-tooltips-for-more-information?u=76281980&t=133)** This i tag is wrapping around the rest of the content.
+> **[2:13](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-tooltips-for-more-information?u=76281980&t=133)** This i tag is wrapping around the [[Representational State Transfer (REST)|rest]] of the content.
 >
 > **[2:17](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-tooltips-for-more-information?u=76281980&t=137)** So as you can see, here's the closing i tag, here's the opening i tag.
 >
@@ -3965,7 +3933,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-tooltips-for-more-information?u=76281980&t=277)** That's the best practice when we're coding CSS.
 >
-> **[4:39](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-tooltips-for-more-information?u=76281980&t=279)** But in the case of this course, I think that it'll be easier to keep the styles separate, so that you can see exactly what we're doing for this particular step in our web development.
+> **[4:39](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-tooltips-for-more-information?u=76281980&t=279)** But in the case of this course, I think that it'll be easier to keep the styles separate, so that you can see exactly what we're doing for this particular step in our [[Web Development]].
 >
 > **[4:52](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-tooltips-for-more-information?u=76281980&t=292)** I'll go back to my code snippets and the next set of code is going to be to style the font awesome icon.
 >
@@ -4147,7 +4115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (11), [[JavaScript]] (8), [[HTML]] (7), next (3), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (8), [[HTML]] (7), [[Representational State Transfer (REST)|Rest]] (2), [[Web Development]] (1)
 > **Env Vars:** css (11), html (7)
 > **UI Navigation:** scroll down (3), go to (3), click on (3), toggle (2), select the (1)
 > **Cross-References:** go back to (7)
@@ -4156,8 +4124,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Prerequisites:** set up (1)
 
-#### Password strength
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/password-strength?u=76281980)
+#### [Password strength](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/password-strength?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4175,7 +4142,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/password-strength?u=76281980&t=43)** So we'll add this password strength indicator, so that we can do that.
 >
-> **[0:49](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/password-strength?u=76281980&t=49)** Let's jump into our code, the first thing that we're going to do, is we going to go ahead and add some HTML.
+> **[0:49](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/password-strength?u=76281980&t=49)** Let's jump into our code, the first thing that we're going to do, is we going to go ahead and add some [[HTML]].
 >
 > **[0:55](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/password-strength?u=76281980&t=55)** I'll go into my code snippet file, and I'm going to copy the little bit of HTML code that I have.
 >
@@ -4227,7 +4194,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/password-strength?u=76281980&t=247)** Then I have a bunch of progress classes and I'm using the attribute of value here.
 >
-> **[4:15](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/password-strength?u=76281980&t=255)** And we're going to be using some JavaScript in a couple of minutes that will dynamically be adding the appropriate class based on a specified value.
+> **[4:15](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/password-strength?u=76281980&t=255)** And we're going to be using some [[JavaScript]] in a couple of minutes that will dynamically be adding the appropriate class based on a specified value.
 >
 > **[4:24](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/password-strength?u=76281980&t=264)** And this is just going to change our progress bar from red, to orange, to yellow, to teal, to green, so that's what these classes are for.
 >
@@ -4309,7 +4276,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), css (4), [[JavaScript]] (4), next (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[JavaScript]] (4)
 > **Env Vars:** html (5), css (4)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** checkpassword (2)
@@ -4318,8 +4285,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Login and registration form summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/login-and-registration-form-summary?u=76281980)
+#### [Login and registration form summary](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/login-and-registration-form-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4349,7 +4315,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/login-and-registration-form-summary?u=76281980&t=85)** So as you can see, there is a lot more to a login form than simply a few fields.
 >
-> **[1:31](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/login-and-registration-form-summary?u=76281980&t=91)** From building out this form, I hope you've picked up a bunch of new ideas and techniques that you can implement in your forms.
+> **[1:31](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/login-and-registration-form-summary?u=76281980&t=91)** From building out this form, I hope you've picked up a bunch of new ideas and techniques that you can implement in your [[Forms]].
 
 > [!info]- Semantic Content
 >
@@ -4362,8 +4328,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a booking form?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-is-a-booking-form?u=76281980)
+#### [What is a booking form?](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-is-a-booking-form?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4381,7 +4346,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-is-a-booking-form?u=76281980&t=41)** Once we have that information, we can give the users a choice of available flights followed by choosing where to sit and finally users will need to enter their details and make a payment.
 >
-> **[0:51](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-is-a-booking-form?u=76281980&t=51)** We'll be covering payment forms later on in the course.
+> **[0:51](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-is-a-booking-form?u=76281980&t=51)** We'll be covering payment [[Forms]] later on in the course.
 >
 > **[0:54](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-is-a-booking-form?u=76281980&t=54)** So for this particular section, we're just going to focus on this booking form.
 >
@@ -4401,7 +4366,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-is-a-booking-form?u=76281980&t=88)** Let's take a quick look at our code so that I can get you familiar with how this page was set up.
 >
-> **[1:34](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-is-a-booking-form?u=76281980&t=94)** In the HTML we are linking out to a Google font.
+> **[1:34](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-is-a-booking-form?u=76281980&t=94)** In the [[HTML]] we are linking out to a [[Google]] font.
 >
 > **[1:38](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-is-a-booking-form?u=76281980&t=98)** We're linking out to font Awesome and then we're linking to our own custom style sheet.
 >
@@ -4443,7 +4408,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-is-a-booking-form?u=76281980&t=218)** This is a little bit more visible if I make the screen wider, you can see how it's more opaque at the top and more transparent at the bottom.
 >
-> **[3:49](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-is-a-booking-form?u=76281980&t=229)** And then I have additional style rules that are just setting the rest of the styles on the things that you see on the screen to the right.
+> **[3:49](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-is-a-booking-form?u=76281980&t=229)** And then I have additional style rules that are just setting the [[Representational State Transfer (REST)|rest]] of the styles on the things that you see on the screen to the right.
 >
 > **[3:57](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/what-is-a-booking-form?u=76281980&t=237)** All of these things are similar to CSS that we've been adding in some of our previous exercises.
 >
@@ -4475,7 +4440,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (4), [[HTML]] (2), next (2), css (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Forms]] (4), [[HTML]] (2), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** html (2), css (2)
 > **Analogies:** such as (2), similar to (1)
@@ -4484,14 +4449,13 @@ created: 2026-05-02
 > **UI Navigation:** dropdown (1)
 > **Definitions:** is a  (1)
 
-#### Creating custom radio buttons
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/creating-custom-radio-buttons?u=76281980)
+#### [Creating custom radio buttons](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/creating-custom-radio-buttons?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/creating-custom-radio-buttons?u=76281980&t=0)** - [Instructor] A radio button is a form element that allows the user to select one option from a range of options.
 >
-> **[0:06](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/creating-custom-radio-buttons?u=76281980&t=6)** Radio buttons are created with HTML input tag, and then we set the type to radio.
+> **[0:06](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/creating-custom-radio-buttons?u=76281980&t=6)** Radio buttons are created with [[HTML]] input tag, and then we set the type to radio.
 >
 > **[0:12](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/creating-custom-radio-buttons?u=76281980&t=12)** It's important to understand the difference between radio buttons and check boxes.
 >
@@ -4643,7 +4607,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), css (4), next (4), hit (1)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **Env Vars:** html (4), css (4)
 > **UI Navigation:** toggle (1), click on (1), right-click (1)
 > **Definitions:** is a  (3)
@@ -4651,8 +4615,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making selections
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/making-selections?u=76281980)
+#### [Making selections](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/making-selections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4660,7 +4623,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/making-selections?u=76281980&t=11)** A select list is a form element that allows the user to select one or more options from a range of options.
 >
-> **[0:19](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/making-selections?u=76281980&t=19)** Select lists are created using a combination of the html select and option tags.
+> **[0:19](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/making-selections?u=76281980&t=19)** Select lists are created using a combination of the [[HTML]] select and option tags.
 >
 > **[0:24](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/making-selections?u=76281980&t=24)** Select lists can be nested inside a form element or they can stand alone.
 >
@@ -4746,7 +4709,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (6), css (6)
+> **Frameworks & Libraries:** [[HTML]] (6)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** select the (2), scroll down (1), click on (1)
 > **Speakers:** - [narrator] (1), - our (1), - ultimately (1)
@@ -4754,8 +4717,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **File Paths:** 05_03.css (1)
 
-#### Dates and date pickers
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/dates-and-date-pickers?u=76281980)
+#### [Dates and date pickers](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/dates-and-date-pickers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4767,7 +4729,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/dates-and-date-pickers?u=76281980&t=22)** A date picker control is used where a data's required as input from a user, for example, a date of birth, a joining date, a range of date for searching required items, et cetera.
 >
-> **[0:35](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/dates-and-date-pickers?u=76281980&t=35)** The date picker in HTML5 basically works very similarly to how the JavaScript libraries did.
+> **[0:35](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/dates-and-date-pickers?u=76281980&t=35)** The date picker in HTML5 basically works very similarly to how the [[JavaScript]] libraries did.
 >
 > **[0:41](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/dates-and-date-pickers?u=76281980&t=41)** When we focus on the field, a calendar will pop out and then we can navigate through the months and years to select a date.
 >
@@ -4815,7 +4777,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/dates-and-date-pickers?u=76281980&t=172)** We're going to go ahead and have a new style sheet that has our styles for this particular component.
 >
-> **[2:58](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/dates-and-date-pickers?u=76281980&t=178)** And if we scroll down, we're going to have to add a little bit of HTML.
+> **[2:58](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/dates-and-date-pickers?u=76281980&t=178)** And if we scroll down, we're going to have to add a little bit of [[HTML]].
 >
 > **[3:02](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/dates-and-date-pickers?u=76281980&t=182)** So I've made comments where you need to add the HTML.
 >
@@ -4863,7 +4825,7 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/dates-and-date-pickers?u=76281980&t=317)** We're going to go ahead and make sure that the hover background is invisible and we'll change the pointer on desktops to show as a pointer.
 >
-> **[5:26](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/dates-and-date-pickers?u=76281980&t=326)** And then finally, we're going to go ahead and just ensure that the hardware does not appear in Safari.
+> **[5:26](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/dates-and-date-pickers?u=76281980&t=326)** And then finally, we're going to go ahead and just ensure that the [[Hardware]] does not appear in Safari.
 >
 > **[5:33](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/dates-and-date-pickers?u=76281980&t=333)** So we're using a vendor prefix and setting the appearance to none.
 >
@@ -4877,7 +4839,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[HTML]] (3), [[Hardware]] (2), feature (1), data (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Hardware]] (2), [[JavaScript]] (1)
 > **Env Vars:** css (4), html (3), html5 (2)
 > **CLI Commands:** make (4), find (2)
 > **Tools:** safari (5), firefox (1)
@@ -4886,8 +4848,7 @@ created: 2026-05-02
 > **Code Identifiers:** ios (1)
 > **UI Navigation:** scroll down (1)
 
-#### Using the stepper component
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-the-stepper-component?u=76281980)
+#### [Using the stepper component](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-the-stepper-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4901,7 +4862,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-the-stepper-component?u=76281980&t=36)** There's nothing wrong with what we had styled originally, but I think it's important to explore different options because these may work better in certain situations.
 >
-> **[0:47](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-the-stepper-component?u=76281980&t=47)** Let's jump into our HTML and CSS files and see how we can code this up.
+> **[0:47](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-the-stepper-component?u=76281980&t=47)** Let's jump into our [[HTML]] and CSS files and see how we can code this up.
 >
 > **[0:52](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-the-stepper-component?u=76281980&t=52)** We're going to start off by making some modifications to our HTML.
 >
@@ -5077,7 +5038,7 @@ created: 2026-05-02
 >
 > **[10:13](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-the-stepper-component?u=76281980&t=613)** The last thing we need to do is add the functionality.
 >
-> **[10:15](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-the-stepper-component?u=76281980&t=615)** So, that's going to be controlled by JavaScript.
+> **[10:15](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-the-stepper-component?u=76281980&t=615)** So, that's going to be controlled by [[JavaScript]].
 >
 > **[10:18](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-the-stepper-component?u=76281980&t=618)** If you go into our code snippet page, we have some JavaScript and we are using jQuery, so you need both jQuery CDN and our custom script.
 >
@@ -5123,7 +5084,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (12), [[HTML]] (5), next (4), [[JavaScript]] (2), data (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[JavaScript]] (2)
 > **Env Vars:** css (11), html (5), cdn (2)
 > **UI Navigation:** dropdown (2), click on (2), scroll down (1), go to (1), select the (1)
 > **Code Identifiers:** jquery (3), selectnum (2)
@@ -5132,8 +5093,7 @@ created: 2026-05-02
 > **File Paths:** 05_05.css (1)
 > **CLI Commands:** make (1)
 
-#### Booking form fix for mobile
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/booking-form-fix-for-mobile?u=76281980)
+#### [Booking form fix for mobile](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/booking-form-fix-for-mobile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5171,7 +5131,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/booking-form-fix-for-mobile?u=76281980&t=125)** We'll make some edits to our CSS so that we can ensure that this page is going to look great on the mobile device as well as on the desktop.
 >
-> **[2:13](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/booking-form-fix-for-mobile?u=76281980&t=133)** I'm going to go ahead and open my page in my editor and we're not going to be making any changes to our HTML, we'll only be editing the CSS.
+> **[2:13](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/booking-form-fix-for-mobile?u=76281980&t=133)** I'm going to go ahead and open my page in my editor and we're not going to be making any changes to our [[HTML]], we'll only be editing the CSS.
 >
 > **[2:23](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/booking-form-fix-for-mobile?u=76281980&t=143)** Now, I certainly could make a new CSS file but most of the rules that I'm going to be editing are rules that already exist within our 05_05.css file.
 >
@@ -5289,7 +5249,7 @@ created: 2026-05-02
 >
 > **[10:57](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/booking-form-fix-for-mobile?u=76281980&t=657)** It's going to go inside my media query for the 600 pixel minimum width and then we do have a couple of other rules.
 >
-> **[11:07](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/booking-form-fix-for-mobile?u=76281980&t=667)** I'll go back into my snippets and I'm just going to copy the rest of these rules and we'll go into the CSS file and I'm just going to place these right here underneath the body section.
+> **[11:07](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/booking-form-fix-for-mobile?u=76281980&t=667)** I'll go back into my snippets and I'm just going to copy the [[Representational State Transfer (REST)|rest]] of these rules and we'll go into the CSS file and I'm just going to place these right here underneath the body section.
 >
 > **[11:20](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/booking-form-fix-for-mobile?u=76281980&t=680)** A few of these rules are things that I have already defined so I already had a travel class with a width of 95 but based on the new styles that I made, this is no longer relevant.
 >
@@ -5323,7 +5283,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (13), next (4), [[Representational State Transfer (REST)|Rest]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[HTML]] (1)
 > **Env Vars:** css (11), html (1)
 > **CLI Commands:** make (9), find (1)
 > **UI Navigation:** scroll down (2), click on (2), toggle (1), select the (1)
@@ -5332,8 +5292,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1), kind of like (1)
 
-#### Booking form summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/booking-form-summary?u=76281980)
+#### [Booking form summary](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/booking-form-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5361,13 +5320,13 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/booking-form-summary?u=76281980&t=98)** We included some mobile specific CSS to correct some problems that we had.
 >
-> **[1:45](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/booking-form-summary?u=76281980&t=105)** Remember that emulators may not always get it right so it's important to check your forms and web pages on actual devices.
+> **[1:45](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/booking-form-summary?u=76281980&t=105)** Remember that emulators may not always get it right so it's important to check your [[Forms]] and web pages on actual devices.
 >
 > **[1:54](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/booking-form-summary?u=76281980&t=114)** These techniques are something that you will be able to use in many sort of form projects and I hope that you'll get lots of mileage from using these types of approaches in your next project.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), next (2), [[Forms]] (1), web (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Env Vars:** css (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -5377,8 +5336,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Organizing a payment form
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/organizing-a-payment-form-2?u=76281980)
+#### [Organizing a payment form](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/organizing-a-payment-form-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5392,7 +5350,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/organizing-a-payment-form-2?u=76281980&t=15)** The options are almost endless.
 >
-> **[0:17](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/organizing-a-payment-form-2?u=76281980&t=17)** First and foremost, you can sell products or services.
+> **[0:17](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/organizing-a-payment-form-2?u=76281980&t=17)** First and foremost, you can sell [[Microsoft Products|products]] or services.
 >
 > **[0:20](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/organizing-a-payment-form-2?u=76281980&t=20)** You can also apply complex calculations to these sales, such as adding taxes and shipping costs or subtracting coupons.
 >
@@ -5402,7 +5360,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/organizing-a-payment-form-2?u=76281980&t=39)** So it's vital that they are slick, quick, and efficient.
 >
-> **[0:43](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/organizing-a-payment-form-2?u=76281980&t=43)** No confusing long forms to wade through, no obstacles, no errors.
+> **[0:43](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/organizing-a-payment-form-2?u=76281980&t=43)** No confusing long [[Forms]] to wade through, no obstacles, no errors.
 >
 > **[0:49](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/organizing-a-payment-form-2?u=76281980&t=49)** Payment forms authorize online payments.
 >
@@ -5482,19 +5440,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (9), [[Microsoft Products|Products]] (2), [[Security]] (1), data (1), web (1)
+> **Frameworks & Libraries:** [[Forms]] (9), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** ssl (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Flow and order
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/flow-and-order?u=76281980)
+#### [Flow and order](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/flow-and-order?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/flow-and-order?u=76281980&t=0)** - [Instructor] One other concept that we need to discuss before we get started building our forms is flow and order.
+> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/flow-and-order?u=76281980&t=0)** - [Instructor] One other concept that we need to discuss before we get started building our [[Forms]] is flow and order.
 >
 > **[0:05](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/flow-and-order?u=76281980&t=5)** This has to do with how the user goes through the form.
 >
@@ -5542,7 +5499,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/flow-and-order?u=76281980&t=92)** A mobile number is used to text notifications about the delivery, so that might be important.
 >
-> **[1:38](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/flow-and-order?u=76281980&t=98)** While real-time notifications add value, we shouldn't assume everyone wants to receive them, nor that everyone has a mobile phone.
+> **[1:38](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/flow-and-order?u=76281980&t=98)** While [[Real-Time]] notifications add value, we shouldn't assume everyone wants to receive them, nor that everyone has a mobile phone.
 >
 > **[1:46](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/flow-and-order?u=76281980&t=106)** So we let users choose to skip this field by marking the field as optional.
 >
@@ -5558,14 +5515,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (2), data (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Real-Time]] (1)
 > **Analogies:** for example (1), for instance (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Order summary overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/order-summary-overview?u=76281980)
+#### [Order summary overview](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/order-summary-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5603,7 +5559,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/order-summary-overview?u=76281980&t=117)** So, we're going to concentrate on this landing page where they are ready to start the checkout process.
 >
-> **[2:06](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/order-summary-overview?u=76281980&t=126)** Any sort of e-commerce interaction is always going to begin with the starting point where the user has added the item to the cart.
+> **[2:06](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/order-summary-overview?u=76281980&t=126)** Any sort of [[E-Commerce]] interaction is always going to begin with the starting point where the user has added the item to the cart.
 >
 > **[2:14](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/order-summary-overview?u=76281980&t=134)** It's important to take time to diagram out the flow that's going to be really helpful.
 >
@@ -5635,17 +5591,17 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/order-summary-overview?u=76281980&t=206)** Normally I would probably have everything in one file but to make this a little bit easier for you to follow I've broken it into different sections.
 >
-> **[3:33](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/order-summary-overview?u=76281980&t=213)** Here's the HTML that I have so I'm using HTML5 elements and I'm just encapsulating the different areas within the appropriate tags.
+> **[3:33](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/order-summary-overview?u=76281980&t=213)** Here's the [[HTML]] that I have so I'm using HTML5 elements and I'm just encapsulating the different areas within the appropriate tags.
 >
 > **[3:45](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/order-summary-overview?u=76281980&t=225)** Also at the bottom of the page I'm linking out to jQuery because we are taking advantage of jQuery.
 >
-> **[3:51](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/order-summary-overview?u=76281980&t=231)** And then I have some JavaScript this JavaScript is adding the ability for the user to be able to increase or decrease the number of products that they've added to their cart.
+> **[3:51](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/order-summary-overview?u=76281980&t=231)** And then I have some [[JavaScript]] this JavaScript is adding the ability for the user to be able to increase or decrease the number of [[Microsoft Products|products]] that they've added to their cart.
 >
 > **[4:03](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/order-summary-overview?u=76281980&t=243)** So this is just a simple little script that is allowing these buttons to add or subtract values.
 >
 > **[4:10](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/order-summary-overview?u=76281980&t=250)** I'm also preventing the user from putting any sort of negative value in their cart.
 >
-> **[4:17](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/order-summary-overview?u=76281980&t=257)** In regards to our CSS here's the CSS file so I'm linking out to some Google Fonts that I'm using in this project.
+> **[4:17](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/order-summary-overview?u=76281980&t=257)** In regards to our CSS here's the CSS file so I'm linking out to some [[Google]] Fonts that I'm using in this project.
 >
 > **[4:23](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/order-summary-overview?u=76281980&t=263)** I have a bunch of general rules that are just styling the main elements on the page.
 >
@@ -5661,11 +5617,11 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/order-summary-overview?u=76281980&t=306)** So, now you understand how I've set up the Order Summary page.
 >
-> **[5:10](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/order-summary-overview?u=76281980&t=310)** Let's get into building the rest of the sequence out.
+> **[5:10](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/order-summary-overview?u=76281980&t=310)** Let's get into building the [[Representational State Transfer (REST)|rest]] of the sequence out.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), [[JavaScript]] (2), feature (1), [[E-Commerce]] (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[E-Commerce]] (1), [[HTML]] (1), [[Microsoft Products|Products]] (1), [[Google]] (1)
 > **Env Vars:** css (4), grid (2), html (1), html5 (1)
 > **CLI Commands:** make (4), find (1)
 > **Code Identifiers:** jquery (2)
@@ -5674,8 +5630,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Personal details summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/personal-details-summary?u=76281980)
+#### [Personal details summary](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/personal-details-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5787,11 +5742,11 @@ created: 2026-05-02
 >
 > **[7:05](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/personal-details-summary?u=76281980&t=425)** And then finally, we have a footer, which contains the bottom, branding and general footer information on the page.
 >
-> **[7:15](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/personal-details-summary?u=76281980&t=435)** Finally, within our HTML document, I'm linking out to jQuery, because I'm going to use some jQuery and then I have the custom script that I'm using.
+> **[7:15](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/personal-details-summary?u=76281980&t=435)** Finally, within our [[HTML]] document, I'm linking out to jQuery, because I'm going to use some jQuery and then I have the custom script that I'm using.
 >
 > **[7:25](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/personal-details-summary?u=76281980&t=445)** This script is going to enable the hide show order summary section to work correctly.
 >
-> **[7:35](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/personal-details-summary?u=76281980&t=455)** So what this JavaScript does is when the user clicks on this area, it's going to toggle this area to be visible and hidden.
+> **[7:35](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/personal-details-summary?u=76281980&t=455)** So what this [[JavaScript]] does is when the user clicks on this area, it's going to toggle this area to be visible and hidden.
 >
 > **[7:45](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/personal-details-summary?u=76281980&t=465)** And we also have some additional code that is going to change the text that's displayed and change our little icon.
 >
@@ -5821,7 +5776,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), css (6), [[JavaScript]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[HTML]] (1)
 > **UI Navigation:** toggle (5), checkbox (2), scroll up (1), select the (1)
 > **Env Vars:** css (6), html (1)
 > **Code Identifiers:** jquery (3)
@@ -5830,8 +5785,7 @@ created: 2026-05-02
 > **File Paths:** details.css (1)
 > **CLI Commands:** make (1)
 
-#### Payment stepper
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/payment-stepper?u=76281980)
+#### [Payment stepper](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/payment-stepper?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5879,15 +5833,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (6), next (1), feature (1)
 > **Env Vars:** css (6)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Input mask
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/input-mask?u=76281980)
+#### [Input mask](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/input-mask?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5895,11 +5847,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/input-mask?u=76281980&t=6)** If we scroll down to the phone number area and I enter some numbers into the phone number area you can see that there is no formatting that is being applied to the numbers and I can enter as many numbers as I want.
 >
-> **[0:20](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/input-mask?u=76281980&t=20)** So if we're expecting the user to enter the numbers in this manner, with the parenthesis, a space, the three digits, a dash and then the remaining four digits and restrict their input so they only are allowed to put this many characters we need a little bit of help with some JavaScript.
+> **[0:20](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/input-mask?u=76281980&t=20)** So if we're expecting the user to enter the numbers in this manner, with the parenthesis, a space, the three digits, a dash and then the remaining four digits and restrict their input so they only are allowed to put this many characters we need a little bit of help with some [[JavaScript]].
 >
 > **[0:39](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/input-mask?u=76281980&t=39)** So that's what we're going to be doing now.
 >
-> **[0:41](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/input-mask?u=76281980&t=41)** I'll just jump into my code and we're not actually going to be changing anything in the HTML but I do want to scroll down and take you to the phone number area so I can point out a few things.
+> **[0:41](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/input-mask?u=76281980&t=41)** I'll just jump into my code and we're not actually going to be changing anything in the [[HTML]] but I do want to scroll down and take you to the phone number area so I can point out a few things.
 >
 > **[0:52](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/input-mask?u=76281980&t=52)** Here's my input for the phone number.
 >
@@ -6031,11 +5983,11 @@ created: 2026-05-02
 >
 > **[8:09](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/input-mask?u=76281980&t=489)** This is really helpful to our users and it makes our form that much user friendly.
 >
-> **[8:14](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/input-mask?u=76281980&t=494)** I really love this technique as it makes the user experience so much better, especially for mobile users.
+> **[8:14](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/input-mask?u=76281980&t=494)** I really love this technique as it makes the [[User Experience (UX)|user experience]] so much better, especially for mobile users.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (12), data (4), [[Search]] (3), next (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (12), [[HTML]] (1), [[User Experience (UX)|User experience]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Code Identifiers:** personaldetails (1), jquery (1), getelementbyid (1), eventlistener (1)
 > **UI Navigation:** scroll down (3), switch to (1)
@@ -6044,14 +5996,13 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Auto-populating city and state
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/auto-populating-city-and-state?u=76281980)
+#### [Auto-populating city and state](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/auto-populating-city-and-state?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/auto-populating-city-and-state?u=76281980&t=0)** - [Instructor] We're going to improve the functionality of our form even more by making the zip code field a little bit smarter.
 >
-> **[0:08](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/auto-populating-city-and-state?u=76281980&t=8)** Most forms that ask for addresses on web forms are going to ask you for your city, state, and zip code, or city and post code outside of the US.
+> **[0:08](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/auto-populating-city-and-state?u=76281980&t=8)** Most [[Forms]] that ask for addresses on web forms are going to ask you for your city, state, and zip code, or city and post code outside of the US.
 >
 > **[0:17](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/auto-populating-city-and-state?u=76281980&t=17)** But the city and state are really redundant fields when we have the zip code information, or at least they can be, because you can infer the city and state from a correctly entered zip code.
 >
@@ -6079,11 +6030,11 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/auto-populating-city-and-state?u=76281980&t=91)** We'll scroll down to the bottom section where we have the zip code.
 >
-> **[1:35](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/auto-populating-city-and-state?u=76281980&t=95)** And again, we're not making any changes to the HTML, but I just want to point out that I do have an ID called zip.
+> **[1:35](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/auto-populating-city-and-state?u=76281980&t=95)** And again, we're not making any changes to the [[HTML]], but I just want to point out that I do have an ID called zip.
 >
 > **[1:43](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/auto-populating-city-and-state?u=76281980&t=103)** So we're going to use that as a hook for this particular bit of code.
 >
-> **[1:48](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/auto-populating-city-and-state?u=76281980&t=108)** The Ziptastic code uses jQuery, so we're going to have to make sure that our JavaScript code goes in the correct place.
+> **[1:48](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/auto-populating-city-and-state?u=76281980&t=108)** The Ziptastic code uses jQuery, so we're going to have to make sure that our [[JavaScript]] code goes in the correct place.
 >
 > **[1:56](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/auto-populating-city-and-state?u=76281980&t=116)** If you scroll down to the bottom section of the page, you can see that I've added a comment that says "add zip script here."
 >
@@ -6125,11 +6076,11 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/auto-populating-city-and-state?u=76281980&t=212)** The next little section of the code is a condition, and we're just seeing if they did type five integers.
 >
-> **[3:41](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/auto-populating-city-and-state?u=76281980&t=221)** And after those things that we just entered have passed, if that validation has passed, then we're going to go ahead and we're going to make an ajax call.
+> **[3:41](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/auto-populating-city-and-state?u=76281980&t=221)** And after those things that we just entered have passed, if that validation has passed, then we're going to go ahead and we're going to make an [[AJAX]] call.
 >
 > **[3:50](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/auto-populating-city-and-state?u=76281980&t=230)** All we give it for the data is the zip code that we've collected.
 >
-> **[3:54](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/auto-populating-city-and-state?u=76281980&t=234)** Then we get some JSON back, which is an easy way to access the city and state, and then we'll apply them as values to the appropriate inputs.
+> **[3:54](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/auto-populating-city-and-state?u=76281980&t=234)** Then we get some [[JSON]] back, which is an easy way to access the city and state, and then we'll apply them as values to the appropriate inputs.
 >
 > **[4:04](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/auto-populating-city-and-state?u=76281980&t=244)** So this section right here is where we're calling Ziptastic for the information that we need.
 >
@@ -6195,7 +6146,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), css (3), [[Forms]] (2), [[JavaScript]] (2), web (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Forms]] (2), [[JavaScript]] (2), [[AJAX]] (1), [[JSON]] (1)
 > **Env Vars:** html (3), css (3), html5 (1), json (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** scroll down (4)
@@ -6204,8 +6155,7 @@ created: 2026-05-02
 > **Code Identifiers:** jquery (1), is_init (1)
 > **URLs:** [getziptastic.com](https://getziptastic.com) (1)
 
-#### Shipping
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/shipping?u=76281980)
+#### [Shipping](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/shipping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6247,7 +6197,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/shipping?u=76281980&t=89)** I'm going to select the code snippet that I provided for you.
 >
-> **[1:33](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/shipping?u=76281980&t=93)** And we'll go into the shipping.html file.
+> **[1:33](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/shipping?u=76281980&t=93)** And we'll go into the shipping.[[HTML]] file.
 >
 > **[1:36](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/shipping?u=76281980&t=96)** I'm going to scroll down to the bottom of the page.
 >
@@ -6335,11 +6285,11 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/shipping?u=76281980&t=343)** So as you can see, we don't have a lot of new stuff that we're adding on to this page.
 >
-> **[5:47](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/shipping?u=76281980&t=347)** But we are making it a little bit more dynamic with the addition of some JavaScript and jQuery.
+> **[5:47](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/shipping?u=76281980&t=347)** But we are making it a little bit more dynamic with the addition of some [[JavaScript]] and jQuery.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[HTML]] (3), hit (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (1)
 > **Env Vars:** css (3), html (2), o6o8 (1)
 > **Code Identifiers:** parsefloat (3), jquery (2)
 > **UI Navigation:** scroll down (2), select the (1)
@@ -6348,8 +6298,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **File Paths:** shipping.html (1)
 
-#### Handling payment, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-1?u=76281980)
+#### [Handling payment, part 1](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6399,7 +6348,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-1?u=76281980&t=142)** So you need to make sure that that comes after the label in this particular situation.
 >
-> **[2:27](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-1?u=76281980&t=147)** And then I have the rest of the fields placed into the form.
+> **[2:27](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-1?u=76281980&t=147)** And then I have the [[Representational State Transfer (REST)|rest]] of the fields placed into the form.
 >
 > **[2:31](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-1?u=76281980&t=151)** And you can look through these a little bit later on, but we'll just be concentrating on this credit card area right now.
 >
@@ -6423,15 +6372,15 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-1?u=76281980&t=200)** So our credit card icons, the labels, I have some specific rules that are going to style the font awesome icons that we're using here.
 >
-> **[3:30](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-1?u=76281980&t=210)** I do have two new classes that aren't being used, but we will be implementing these with some JavaScript.
+> **[3:30](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-1?u=76281980&t=210)** I do have two new classes that aren't being used, but we will be implementing these with some [[JavaScript]].
 >
 > **[3:35](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-1?u=76281980&t=215)** I have a dot visa, which is going to set the color to blue, and I have a dot MasterCard, which is going to set the MasterCard color to a orangy red.
 >
-> **[3:45](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-1?u=76281980&t=225)** There are some additional CSS styles that have to do with the kind of refund and privacy policy links that are down at the bottom.
+> **[3:45](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-1?u=76281980&t=225)** There are some additional CSS styles that have to do with the kind of refund and [[Privacy]] policy links that are down at the bottom.
 >
 > **[3:53](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-1?u=76281980&t=233)** And then I simply have some media queries that are ensuring that my page looks good at the large screen.
 >
-> **[3:59](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-1?u=76281980&t=239)** So let's go ahead and switch back to our HTML file.
+> **[3:59](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-1?u=76281980&t=239)** So let's go ahead and switch back to our [[HTML]] file.
 >
 > **[4:04](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-1?u=76281980&t=244)** In order to add the functionality in the credit card field that we want to, we're going to be using some JavaScript.
 >
@@ -6507,7 +6456,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[JavaScript]] (3), next (2), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (7)
 > **Env Vars:** css (3), html (2)
 > **UI Navigation:** scroll down (1), click on (1)
@@ -6516,8 +6465,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 
-#### Handling payment, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-2?u=76281980)
+#### [Handling payment, part 2](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6529,7 +6477,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-2?u=76281980&t=25)** So the first thing that we're going to do is we're going to go into the code snippet area.
 >
-> **[0:30](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-2?u=76281980&t=30)** And we'll start off by adding some HTML code.
+> **[0:30](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-2?u=76281980&t=30)** And we'll start off by adding some [[HTML]] code.
 >
 > **[0:33](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-2?u=76281980&t=33)** So I'm going to copy this code snippet and if you go back to the HTML file and scroll down a little ways, you will find a comment right here at line 102 that says enter CVV code snippet.
 >
@@ -6595,7 +6543,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-2?u=76281980&t=239)** What we're doing here is we're using the query selector to get the helper text and we're going to add the hide class to the helper text item.
 >
-> **[4:10](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-2?u=76281980&t=250)** So we're dynamically adding this with JavaScript.
+> **[4:10](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-2?u=76281980&t=250)** So we're dynamically adding this with [[JavaScript]].
 >
 > **[4:13](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-2?u=76281980&t=253)** Then we have a constant called tooltip and we are just setting that to the tooltip element.
 >
@@ -6655,7 +6603,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (6), css (5), next (3), [[Security]] (3), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[HTML]] (6), [[JavaScript]] (2)
 > **Env Vars:** html (6), css (5), cvv (3)
 > **Cross-References:** go back to (4), in the next (1)
 > **CLI Commands:** find (3), make (1)
@@ -6663,8 +6611,7 @@ created: 2026-05-02
 > **File Paths:** payment.css (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling payment, part 3
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-3-2?u=76281980)
+#### [Handling payment, part 3](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-3-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6676,7 +6623,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-3-2?u=76281980&t=19)** And if credit card is selected, we want to hide the PayPal information.
 >
-> **[0:25](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-3-2?u=76281980&t=25)** So we'll accomplish this by using some JavaScript.
+> **[0:25](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-3-2?u=76281980&t=25)** So we'll accomplish this by using some [[JavaScript]].
 >
 > **[0:29](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-3-2?u=76281980&t=29)** I'm going to go into my code snippet file, for this particular video, and I'll scroll down a little bit.
 >
@@ -6694,7 +6641,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-3-2?u=76281980&t=69)** We have a couple of variables, the first one is storing the attribute value, and our second variable is going to go ahead and concatenate input value and put a period in front of it so that it will turn it into a class.
 >
-> **[1:26](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-3-2?u=76281980&t=86)** Let me show you our HTML code for this section of the page.
+> **[1:26](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-3-2?u=76281980&t=86)** Let me show you our [[HTML]] code for this section of the page.
 >
 > **[1:34](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-3-2?u=76281980&t=94)** So here I have a div, with a class of paymentBox and paypal, and then it contains some sub-div elements, so the first one has a class of paypal that wraps around a class of browser which has our little font icon element, and then we have a paragraph that offers an explanation.
 >
@@ -6764,7 +6711,7 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-3-2?u=76281980&t=347)** And I have a div, called a different address.
 >
-> **[5:51](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-3-2?u=76281980&t=351)** And the rest of the code is really pulled right from the personal details page, so this is exactly the same, we're asking for name, address, we're asking for their zip code and phone number and whatnot.
+> **[5:51](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-3-2?u=76281980&t=351)** And the [[Representational State Transfer (REST)|rest]] of the code is really pulled right from the personal details page, so this is exactly the same, we're asking for name, address, we're asking for their zip code and phone number and whatnot.
 >
 > **[6:03](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/handling-payment-part-3-2?u=76281980&t=363)** So if we go ahead and save this and refresh, you can see that this is what this looks like.
 >
@@ -6798,7 +6745,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (12), [[JavaScript]] (6), [[HTML]] (4), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (6), [[HTML]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (12), html (3), add (2)
 > **Code Identifiers:** paymentbox (2), targetbox (1), diffaddress (1)
 > **UI Navigation:** scroll down (2), toggle (1)
@@ -6807,8 +6754,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (1)
 
-#### Review and confirmation pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/review-and-confirmation-pages-2?u=76281980)
+#### [Review and confirmation pages](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/review-and-confirmation-pages-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6816,7 +6762,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/review-and-confirmation-pages-2?u=76281980&t=5)** You need to let them know that the form worked.
 >
-> **[0:08](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/review-and-confirmation-pages-2?u=76281980&t=8)** The worst web forms do nothing when they're filled out.
+> **[0:08](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/review-and-confirmation-pages-2?u=76281980&t=8)** The worst web [[Forms]] do nothing when they're filled out.
 >
 > **[0:11](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/review-and-confirmation-pages-2?u=76281980&t=11)** This always makes me wonder did anything happen?
 >
@@ -6920,7 +6866,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (3), web (2), product (2), css (2), business (1)
+> **Frameworks & Libraries:** [[Forms]] (3)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** css (2), zip (1)
 > **Definitions:** is a  (2)
@@ -6934,8 +6880,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Search forms: What are they?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/search-forms-what-are-they?u=76281980)
+#### [Search forms: What are they?](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/search-forms-what-are-they?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6953,7 +6898,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/search-forms-what-are-they?u=76281980&t=28)** In regards to adding search to your website, you have some options.
 >
-> **[0:32](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/search-forms-what-are-they?u=76281980&t=32)** The most common search boxes are scripted in coding languages such as PHP or Perl.
+> **[0:32](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/search-forms-what-are-they?u=76281980&t=32)** The most common search boxes are scripted in coding languages such as [[PHP]] or Perl.
 >
 > **[0:38](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/search-forms-what-are-they?u=76281980&t=38)** The code is housed on the server, and when information is typed in a box and sent, the server-side engine runs the script and produces the results.
 >
@@ -6965,11 +6910,11 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/search-forms-what-are-they?u=76281980&t=69)** Another option for website owners is to the utilize a search feature from a third party.
 >
-> **[1:15](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/search-forms-what-are-they?u=76281980&t=75)** Many internet companies out there will have products where the code can simply be copied and pasted in an appropriate area, and then the search box becomes functional.
+> **[1:15](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/search-forms-what-are-they?u=76281980&t=75)** Many internet companies out there will have [[Microsoft Products|products]] where the code can simply be copied and pasted in an appropriate area, and then the search box becomes functional.
 >
 > **[1:24](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/search-forms-what-are-they?u=76281980&t=84)** Advantages are quick and easy setup, no knowledge of code required, but you may have to sacrifice control over how the search works and in what method the results are displayed.
 >
-> **[1:35](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/search-forms-what-are-they?u=76281980&t=95)** Finally, you can use a service such as Google's Custom Search to build a basic search feature.
+> **[1:35](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/search-forms-what-are-they?u=76281980&t=95)** Finally, you can use a service such as [[Google]]'s Custom Search to build a basic search feature.
 >
 > **[1:42](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/search-forms-what-are-they?u=76281980&t=102)** Google offers a free feature that offers limited customization and includes advertisements and also a customizable version that gives you a little bit more control.
 >
@@ -6979,7 +6924,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (15), feature (4), [[Google]] (3), data (2), [[PHP]] (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[PHP]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1), php (1)
 > **Analogies:** such as (2)
 > **Env Vars:** php (1)
@@ -6987,8 +6932,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [narrator] (1)
 
-#### Tips for adding search
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/tips-for-adding-search?u=76281980)
+#### [Tips for adding search](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/tips-for-adding-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7052,15 +6996,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (20)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2), find (1)
 > **Best Practices:** rule of thumb (1)
 > **Warnings:** common mistake (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add and style a search component
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/add-and-style-a-search-component?u=76281980)
+#### [Add and style a search component](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/add-and-style-a-search-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7094,7 +7036,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/add-and-style-a-search-component?u=76281980&t=70)** So we're going to have to make sure that our search element is going to work with the various sizes as well.
 >
-> **[1:17](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/add-and-style-a-search-component?u=76281980&t=77)** I have an HTML page, and I'm linking out to two css files.
+> **[1:17](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/add-and-style-a-search-component?u=76281980&t=77)** I have an [[HTML]] page, and I'm linking out to two css files.
 >
 > **[1:22](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/add-and-style-a-search-component?u=76281980&t=82)** The main.css, primarily contains all of the styling, that doesn't have to do with the form.
 >
@@ -7112,7 +7054,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/add-and-style-a-search-component?u=76281980&t=125)** We will however, be creating and augmenting the code for our search box.
 >
-> **[2:11](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/add-and-style-a-search-component?u=76281980&t=131)** In this file, I am linking out to some Google Fonts, I'm also linking out to the Font Awesome CDN because I am using some of those icons.
+> **[2:11](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/add-and-style-a-search-component?u=76281980&t=131)** In this file, I am linking out to some [[Google]] Fonts, I'm also linking out to the Font Awesome CDN because I am using some of those icons.
 >
 > **[2:20](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/add-and-style-a-search-component?u=76281980&t=140)** And you can see that I have an area right here where we're going to put the search bar HTML.
 >
@@ -7174,7 +7116,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/add-and-style-a-search-component?u=76281980&t=321)** And then here we have the button, which is displaying our magnifying glass tool.
 >
-> **[5:26](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/add-and-style-a-search-component?u=76281980&t=326)** Let's go ahead and let's add some styling, so we can make this better work with the rest of the site.
+> **[5:26](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/add-and-style-a-search-component?u=76281980&t=326)** Let's go ahead and let's add some styling, so we can make this better work with the [[Representational State Transfer (REST)|rest]] of the site.
 >
 > **[5:32](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/add-and-style-a-search-component?u=76281980&t=332)** I'm going to go back to my code snippets area, and we'll go ahead and grab some of these rules that we have.
 >
@@ -7268,7 +7210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (34), css (8), [[HTML]] (5), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** html (5), css (2), cdn (1)
 > **File Paths:** form.css (3), main.css (2)
 > **UI Navigation:** scroll down (2), go to (1), navigate to (1)
@@ -7277,8 +7219,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Analogies:** similar to (1)
 
-#### Build a growing search bar
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/build-a-growing-search-bar?u=76281980)
+#### [Build a growing search bar](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/build-a-growing-search-bar?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7300,7 +7241,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/build-a-growing-search-bar?u=76281980&t=56)** So this is just another option that you might want to explore for your projects.
 >
-> **[1:01](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/build-a-growing-search-bar?u=76281980&t=61)** Let's look at how we can create this in our html.
+> **[1:01](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/build-a-growing-search-bar?u=76281980&t=61)** Let's look at how we can create this in our [[HTML]].
 >
 > **[1:04](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/build-a-growing-search-bar?u=76281980&t=64)** The html file is linking out to two CSS files, main and form.
 >
@@ -7498,7 +7439,7 @@ created: 2026-05-02
 >
 > **[10:42](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/build-a-growing-search-bar?u=76281980&t=642)** So let's see if we can eliminate that movement right there.
 >
-> **[10:45](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/build-a-growing-search-bar?u=76281980&t=645)** We're going to have to do a little bit of creative coding to be able to get rid of that, and that's going to require that we use a little bit of JavaScript and a little more CSS.
+> **[10:45](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/build-a-growing-search-bar?u=76281980&t=645)** We're going to have to do a little bit of creative coding to be able to get rid of that, and that's going to require that we use a little bit of [[JavaScript]] and a little more CSS.
 >
 > **[10:54](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/build-a-growing-search-bar?u=76281980&t=654)** So in the code snippet file, I have some rules here, fixes for unwanted movements.
 >
@@ -7552,7 +7493,7 @@ created: 2026-05-02
 >
 > **[13:56](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/build-a-growing-search-bar?u=76281980&t=836)** We've assured that it works across the board.
 >
-> **[13:59](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/build-a-growing-search-bar?u=76281980&t=839)** Here's what this same file looks like in Microsoft Edge, and it works in a very similar fashion.
+> **[13:59](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/build-a-growing-search-bar?u=76281980&t=839)** Here's what this same file looks like in [[Microsoft]] Edge, and it works in a very similar fashion.
 >
 > **[14:07](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/build-a-growing-search-bar?u=76281980&t=847)** If we minimize our browser a little bit here, we'll go to our small screen size, and it works in the same way.
 >
@@ -7564,7 +7505,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (21), css (13), [[HTML]] (8), [[JavaScript]] (5), next (3)
+> **Frameworks & Libraries:** [[HTML]] (8), [[JavaScript]] (5), [[Microsoft]] (1)
 > **Env Vars:** css (10)
 > **Code Identifiers:** searchform (2), jquery (2), cleartimeout (1), resizetimer (1)
 > **UI Navigation:** click on (3), scroll down (1), select the (1), go to (1)
@@ -7573,8 +7514,7 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **Cross-References:** we discussed (1), go back to (1)
 
-#### Touchscreen fix
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/touchscreen-fix?u=76281980)
+#### [Touchscreen fix](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/touchscreen-fix?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7596,7 +7536,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/touchscreen-fix?u=76281980&t=55)** However, devices with touch screens, especially portable devices are mainstream, and web applications can either directly process touch-based input by using touch events, or the application can use interpreted mouse events for the application input.
 >
-> **[1:13](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/touchscreen-fix?u=76281980&t=73)** Luckily, we have access to touch events via JavaScript.
+> **[1:13](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/touchscreen-fix?u=76281980&t=73)** Luckily, we have access to touch events via [[JavaScript]].
 >
 > **[1:17](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/touchscreen-fix?u=76281980&t=77)** The touch events interface represents a UI even which is sent when the state of contact with a touch sensitive surface changes.
 >
@@ -7636,14 +7576,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (9), [[JavaScript]] (4), web (3), application (2)
+> **Frameworks & Libraries:** [[JavaScript]] (4)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
 > **Tools:** safari (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mobile fix
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/mobile-fix?u=76281980)
+#### [Mobile fix](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/mobile-fix?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7657,7 +7596,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/mobile-fix?u=76281980&t=17)** It is not being formatted in the way that I'd like it to.
 >
-> **[0:21](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/mobile-fix?u=76281980&t=21)** The look and feel does not match the rest of our page and if we look up in the top section of what you can see on the page, the phone number because it's an actual clickable telephone number, which is great on mobile device because it allows you to easily access and make a call when you see a phone number, but stylistically I don't like the colors that are being used there.
+> **[0:21](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/mobile-fix?u=76281980&t=21)** The look and feel does not match the [[Representational State Transfer (REST)|rest]] of our page and if we look up in the top section of what you can see on the page, the phone number because it's an actual clickable telephone number, which is great on mobile device because it allows you to easily access and make a call when you see a phone number, but stylistically I don't like the colors that are being used there.
 >
 > **[0:46](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/mobile-fix?u=76281980&t=46)** So we'll have to make those sorts of changes to our site just to dial it in, and most importantly, we have an issue with the phone number field.
 >
@@ -7693,11 +7632,11 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/mobile-fix?u=76281980&t=176)** So, this is going to help them to understand what we want from them.
 >
-> **[3:01](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/mobile-fix?u=76281980&t=181)** The next thing that we're going to do is we're going to go ahead and we're going to add a little bit of JavaScript.
+> **[3:01](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/mobile-fix?u=76281980&t=181)** The next thing that we're going to do is we're going to go ahead and we're going to add a little bit of [[JavaScript]].
 >
 > **[3:07](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/mobile-fix?u=76281980&t=187)** So if I go back to the snippet file and if we scroll down to the bottom of the page, I have some JavaScript code.
 >
-> **[3:14](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/mobile-fix?u=76281980&t=194)** So I'll copy this, I'm going to come to the HTML and we'll go into the area where we have JavaScript and down underneath the mobile fix that we did for the search bar, I'm going to paste in this code and I will just indent this so it's formatted correctly and what this is going to do is it's going to target that input with a type of telephone we are listening for a keyup event and we're going to go ahead and run this callback function.
+> **[3:14](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/mobile-fix?u=76281980&t=194)** So I'll copy this, I'm going to come to the [[HTML]] and we'll go into the area where we have JavaScript and down underneath the mobile fix that we did for the search bar, I'm going to paste in this code and I will just indent this so it's formatted correctly and what this is going to do is it's going to target that input with a type of telephone we are listening for a keyup event and we're going to go ahead and run this callback function.
 >
 > **[3:43](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/mobile-fix?u=76281980&t=223)** So all this is doing is we are conditionally testing to see if the length of the telephone value is three, then we're going to go ahead and add a dash.
 >
@@ -7769,7 +7708,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), css (4), [[Search]] (3), [[JavaScript]] (3), web (2)
+> **Frameworks & Libraries:** [[HTML]] (4), [[JavaScript]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** html (4), css (4)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** scroll down (3), go to (1)
@@ -7778,8 +7717,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Warnings:** note that (1)
 
-#### Displaying search results
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/displaying-search-results?u=76281980)
+#### [Displaying search results](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/displaying-search-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7817,7 +7755,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/displaying-search-results?u=76281980&t=77)** Show more is more appropriate for sites with a lot of user-generated content, where the location of the result is not so important.
 >
-> **[1:25](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/displaying-search-results?u=76281980&t=85)** Pagination is more appropriate for an e-commerce site where users are looking for a specific item, not just browsing for entertainment.
+> **[1:25](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/displaying-search-results?u=76281980&t=85)** Pagination is more appropriate for an [[E-Commerce]] site where users are looking for a specific item, not just browsing for entertainment.
 >
 > **[1:33](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/displaying-search-results?u=76281980&t=93)** Select a proper layout for your data.
 >
@@ -7827,7 +7765,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/displaying-search-results?u=76281980&t=107)** A rule of thumb is details in lists, pictures in grids.
 >
-> **[1:52](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/displaying-search-results?u=76281980&t=112)** Key factor in selecting list view versus grid view is how much information a user needs in order to choose between products.
+> **[1:52](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/displaying-search-results?u=76281980&t=112)** Key factor in selecting list view versus grid view is how much information a user needs in order to choose between [[Microsoft Products|products]].
 >
 > **[2:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/displaying-search-results?u=76281980&t=120)** For products like appliances, where details like model numbers, ratings, and dimensions are major factors in the user's selection process, list view makes more sense.
 >
@@ -7849,7 +7787,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/displaying-search-results?u=76281980&t=171)** Making some space around the grid can help users receive information easily.
 >
-> **[2:56](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/displaying-search-results?u=76281980&t=176)** List view and grid view can both be seen as a group of decision-making elements, such as image, title, reviews, location, et cetera.
+> **[2:56](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/displaying-search-results?u=76281980&t=176)** List view and grid view can both be seen as a group of [[Decision-Making]] elements, such as image, title, reviews, location, et cetera.
 >
 > **[3:05](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/displaying-search-results?u=76281980&t=185)** The different lies in the layout and the combination of those elements.
 >
@@ -7885,7 +7823,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (16), data (3), [[Microsoft Products|Products]] (3), next (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[E-Commerce]] (1), [[Decision-Making]] (1)
 > **Analogies:** for example (2), picture (2), such as (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), is an  (1)
@@ -7898,12 +7836,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Form accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-accessibility?u=76281980)
+#### [Form accessibility](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-accessibility?u=76281980&t=0)** - [Instructor] Forms are an essential component of the web as they connect users to your business and help them accomplish what they came to your site or app for.
+> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-accessibility?u=76281980&t=0)** - [Instructor] [[Forms]] are an essential component of the web as they connect users to your business and help them accomplish what they came to your site or app for.
 >
 > **[0:09](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-accessibility?u=76281980&t=9)** That being said, you want to make sure that all of your users are able to use your forms without having a horrible experience.
 >
@@ -7923,7 +7860,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-accessibility?u=76281980&t=48)** What's accessibility?
 >
-> **[0:50](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-accessibility?u=76281980&t=50)** Accessibility in web design is the ability to design digital products for people with disabilities.
+> **[0:50](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-accessibility?u=76281980&t=50)** Accessibility in [[Web Design]] is the ability to design digital [[Microsoft Products|products]] for people with disabilities.
 >
 > **[0:56](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-accessibility?u=76281980&t=56)** Accessibility is not the same as usability.
 >
@@ -7987,7 +7924,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-accessibility?u=76281980&t=200)** Help or reminder text should be placed beside the text field label and should be easily accessible.
 >
-> **[3:27](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-accessibility?u=76281980&t=207)** The [w3.org](https://w3.org) has a great comprehensive reference to web accessibility guidelines.
+> **[3:27](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-accessibility?u=76281980&t=207)** The [w3.org](https://w3.org) has a great comprehensive reference to [[Web Accessibility]] guidelines.
 >
 > **[3:34](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/form-accessibility?u=76281980&t=214)** If you are more interested in learning about these very important components to web design, I would recommend that you check out this website.
 >
@@ -8005,18 +7942,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (17), web (9), business (1), data (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Forms]] (17), [[Web Design]] (2), [[Microsoft Products|Products]] (1), [[Web Accessibility]] (1)
 > **CLI Commands:** make (7), find (1)
 > **URLs:** [w3.org](https://w3.org) (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Labeling and describing with ARIA
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/labeling-and-describing-with-aria?u=76281980)
+#### [Labeling and describing with ARIA](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/labeling-and-describing-with-aria?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/labeling-and-describing-with-aria?u=76281980&t=0)** - [Narrator] As you are developing web-based forms, you should utilize as much accessible technology and tools that you can to ensure the widest accessible experience for all of your users.
+> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/labeling-and-describing-with-aria?u=76281980&t=0)** - [Narrator] As you are developing web-based [[Forms]], you should utilize as much accessible technology and tools that you can to ensure the widest accessible experience for all of your users.
 >
 > **[0:11](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/labeling-and-describing-with-aria?u=76281980&t=11)** ARIA is one way to accomplish this task.
 >
@@ -8026,7 +7962,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/labeling-and-describing-with-aria?u=76281980&t=22)** ARIA is shorthand for Accessible Rich Internet Applications.
 >
-> **[0:26](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/labeling-and-describing-with-aria?u=76281980&t=26)** ARIA is a set of attributes you can add to HTML elements that define ways to make web content and applications accessible to users with disabilities who use assistive technologies.
+> **[0:26](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/labeling-and-describing-with-aria?u=76281980&t=26)** ARIA is a set of attributes you can add to [[HTML]] elements that define ways to make web content and applications accessible to users with disabilities who use assistive technologies.
 >
 > **[0:37](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/labeling-and-describing-with-aria?u=76281980&t=37)** When accessibility issues cannot be managed with native HTML, ARIA can help bridge those gaps.
 >
@@ -8084,15 +8020,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (9), web (2), [[Forms]] (2)
+> **Frameworks & Libraries:** [[HTML]] (9), [[Forms]] (2)
 > **Env Vars:** aria (17), html (9)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using ARIA
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-aria?u=76281980)
+#### [Using ARIA](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-aria?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8100,9 +8035,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-aria?u=76281980&t=4)** Here's the page that we're going to be working with.
 >
-> **[0:07](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-aria?u=76281980&t=7)** If we look at it in the browser you can see it looks like it has three distinctive forms.
+> **[0:07](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-aria?u=76281980&t=7)** If we look at it in the browser you can see it looks like it has three distinctive [[Forms]].
 >
-> **[0:13](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-aria?u=76281980&t=13)** If you look in the HTML however, the first form field and the second form field are actually using a div, not a form tag.
+> **[0:13](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-aria?u=76281980&t=13)** If you look in the [[HTML]] however, the first form field and the second form field are actually using a div, not a form tag.
 >
 > **[0:21](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-aria?u=76281980&t=21)** As you can see, I'm using the role=form attribute.
 >
@@ -8184,7 +8119,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-aria?u=76281980&t=256)** I also have aria-checked="false" so it's going to not be checked by default.
 >
-> **[4:22](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-aria?u=76281980&t=262)** And I have some inline JavaScript which we'll need to add some additional JavaScript to make that work.
+> **[4:22](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-aria?u=76281980&t=262)** And I have some inline [[JavaScript]] which we'll need to add some additional JavaScript to make that work.
 >
 > **[4:29](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/using-aria?u=76281980&t=269)** I have the aria-labelledby chkLabel and chkLabel is the name of the ID on my label tag, so that's how I'm associated these two things.
 >
@@ -8248,7 +8183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (7), [[HTML]] (5), css (2), [[Forms]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (7), [[HTML]] (5), [[Forms]] (1)
 > **Env Vars:** aria (8), html (5), css (2)
 > **UI Navigation:** checkbox (12), click on (1), scroll down (1), toggle (1)
 > **Code Identifiers:** addcontact (2), chklabel (2), chkpref (2)
@@ -8262,8 +8197,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Client-side form validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/client-side-form-validation?u=76281980)
+#### [Client-side form validation](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/client-side-form-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8271,7 +8205,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/client-side-form-validation?u=76281980&t=7)** This is called client-side form validation and it helps ensure data submitted matches the requirements set forth in the various form controls.
 >
-> **[0:16](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/client-side-form-validation?u=76281980&t=16)** Client-side validation is an initial check and an important feature of good user experience.
+> **[0:16](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/client-side-form-validation?u=76281980&t=16)** Client-side validation is an initial check and an important feature of good [[User Experience (UX)|user experience]].
 >
 > **[0:22](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/client-side-form-validation?u=76281980&t=22)** By catching invalid data on the client's side, the user can fix it straight away.
 >
@@ -8279,7 +8213,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/client-side-form-validation?u=76281980&t=37)** They may or may not be there at that point, so this doesn't make for great user experience.
 >
-> **[0:43](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/client-side-form-validation?u=76281980&t=43)** Many websites with registration forms provide feedback when you don't enter your data in the format that they are expecting.
+> **[0:43](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/client-side-form-validation?u=76281980&t=43)** Many websites with registration [[Forms]] provide feedback when you don't enter your data in the format that they are expecting.
 >
 > **[0:50](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/client-side-form-validation?u=76281980&t=50)** You'll get a message such as, the field is required, you can't leave this field blank, please enter your phone number in the format of, please enter a valid email address, your password needs to be between eight and 17 characters and contain one upper case and one symbol.
 >
@@ -8297,7 +8231,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/client-side-form-validation?u=76281980&t=105)** There are two different types of client-side validation that you'll encounter on the web, built-in form validation that uses HTML5 form validation features, which we've discussed in many places throughout this course.
 >
-> **[1:58](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/client-side-form-validation?u=76281980&t=118)** This validation generally doesn't require much JavaScript.
+> **[1:58](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/client-side-form-validation?u=76281980&t=118)** This validation generally doesn't require much [[JavaScript]].
 >
 > **[2:02](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/client-side-form-validation?u=76281980&t=122)** Built-in form validation has better performance, in many cases, than JavaScript, but it is not as customizable as a JavaScript validation.
 >
@@ -8329,19 +8263,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[JavaScript]] (6), [[User Experience (UX)|User experience]] (2), [[Forms]] (2), web (2)
+> **Frameworks & Libraries:** [[JavaScript]] (6), [[User Experience (UX)|User experience]] (2), [[Forms]] (2)
 > **Definitions:** is called (4), is an  (1)
 > **Env Vars:** html5 (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### CSS validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/css-validation?u=76281980)
+#### [CSS validation](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/css-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/css-validation?u=76281980&t=0)** - [Instructor] We all know that online forms can be a hassle to have to fill out, especially when there's nothing but a list of inputs presented without much guidance or feedback.
+> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/css-validation?u=76281980&t=0)** - [Instructor] We all know that online [[Forms]] can be a hassle to have to fill out, especially when there's nothing but a list of inputs presented without much guidance or feedback.
 >
 > **[0:09](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/css-validation?u=76281980&t=9)** But as form creators, there are many things we can do to improve the experience for the users filling out our online forms.
 >
@@ -8379,7 +8312,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/css-validation?u=76281980&t=118)** Let's see how we can implement some of these things in our form right here.
 >
-> **[2:02](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/css-validation?u=76281980&t=122)** Here's the HTML that we're going to be working with.
+> **[2:02](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/css-validation?u=76281980&t=122)** Here's the [[HTML]] that we're going to be working with.
 >
 > **[2:04](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/css-validation?u=76281980&t=124)** I'm linking out to an external style sheet and we'll look at that in just a minute.
 >
@@ -8403,7 +8336,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/css-validation?u=76281980&t=191)** So, in order to have it pass validation, you would need to move the unordered list outside of the label.
 >
-> **[3:17](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/css-validation?u=76281980&t=197)** And if we do that right now, the CSS and the JavaScript that I've already created is not going to work correctly.
+> **[3:17](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/css-validation?u=76281980&t=197)** And if we do that right now, the CSS and the [[JavaScript]] that I've already created is not going to work correctly.
 >
 > **[3:24](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/css-validation?u=76281980&t=204)** So, we're just going to leave this as is because it does work across the board and all of the browsers but I just did want to mention that you will not be able to pass validation as is.
 >
@@ -8505,7 +8438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (9), [[HTML]] (4), [[Forms]] (2), [[JavaScript]] (2), power (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Forms]] (2), [[JavaScript]] (2)
 > **Env Vars:** css (9), html (4)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (2)
@@ -8514,14 +8447,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### JavaScript validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/javascript-validation?u=76281980)
+#### [JavaScript validation](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/javascript-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/javascript-validation?u=76281980&t=0)** - [Instructor] For a better user experience, you might consider using a more robust client side validation.
+> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/javascript-validation?u=76281980&t=0)** - [Instructor] For a better [[User Experience (UX)|user experience]], you might consider using a more robust client side validation.
 >
-> **[0:06](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/javascript-validation?u=76281980&t=6)** This type of validation is done on the client side using JavaScript.
+> **[0:06](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/javascript-validation?u=76281980&t=6)** This type of validation is done on the client side using [[JavaScript]].
 >
 > **[0:10](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/javascript-validation?u=76281980&t=10)** By using JavaScript, users input can be validated as they type, and we can control feedback as the user interacts with our form field.
 >
@@ -8545,7 +8477,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/javascript-validation?u=76281980&t=73)** Let's look at how we can implement this into our form.
 >
-> **[1:17](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/javascript-validation?u=76281980&t=77)** This HTML file is set up very similarly to what we were working on prior to this.
+> **[1:17](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/javascript-validation?u=76281980&t=77)** This [[HTML]] file is set up very similarly to what we were working on prior to this.
 >
 > **[1:23](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/javascript-validation?u=76281980&t=83)** The only thing is that the input element is simply just max length and min length, I don't have the pattern attribute applied to it.
 >
@@ -8649,15 +8581,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (10), css (8), [[User Experience (UX)|User experience]] (2), [[HTML]] (2), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (10), [[User Experience (UX)|User experience]] (2), [[HTML]] (2)
 > **Env Vars:** css (8), html (2)
 > **Prerequisites:** set up (2), setup (1)
 > **Analogies:** similar to (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Good error messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/good-error-messages?u=76281980)
+#### [Good error messages](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/good-error-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8665,7 +8596,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/good-error-messages?u=76281980&t=3)** It could be a user's errors or a system failure.
 >
-> **[0:06](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/good-error-messages?u=76281980&t=6)** In either case, it's very important to handle errors in the right way, as they are very crucial for a good user experience.
+> **[0:06](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/good-error-messages?u=76281980&t=6)** In either case, it's very important to handle errors in the right way, as they are very crucial for a good [[User Experience (UX)|user experience]].
 >
 > **[0:13](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/good-error-messages?u=76281980&t=13)** There are three vital parts to every good error message: clear text message, right placement, good visual design.
 >
@@ -8741,15 +8672,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (4), next (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (4)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [narrator] (1)
 
-#### Success page
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/success-page?u=76281980)
+#### [Success page](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/success-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8767,7 +8697,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/success-page?u=76281980&t=36)** And your form fields are nothing but little signals you give your customer that you are there ready to talk.
 >
-> **[0:42](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/success-page?u=76281980&t=42)** Your success message may be a new page or it could be more of an AJAX or modal window type of interaction that just refreshes in the current page.
+> **[0:42](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/success-page?u=76281980&t=42)** Your success message may be a new page or it could be more of an [[AJAX]] or modal window type of interaction that just refreshes in the current page.
 >
 > **[0:51](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/success-page?u=76281980&t=51)** When it comes to form success message, there's only one basic rule to follow, when the user clicks submit, you need to show you appreciate their input, their questions, their engagement.
 >
@@ -8775,7 +8705,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), next (1), web (1), data (1), [[AJAX]] (1)
+> **Frameworks & Libraries:** [[AJAX]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ajax (1)
 > **Speakers:** - [narrator] (1)
@@ -8785,12 +8715,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/next-steps?u=76281980&t=0)** - [Emily] Web forms are the center of all interactions with your customers.
+> **[0:00](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/next-steps?u=76281980&t=0)** - [Emily] Web [[Forms]] are the center of all interactions with your customers.
 >
 > **[0:04](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/next-steps?u=76281980&t=4)** They provide you with an opportunity to converse with your end users, help them fulfill their tasks, and therefore enable you to connect and to personalize an interaction with your viewers.
 >
@@ -8848,7 +8777,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/next-steps?u=76281980&t=124)** Have your form generate city and state automatically from the zip input.
 >
-> **[2:08](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/next-steps?u=76281980&t=128)** These types of features speed up the web form completion process and create a seamless user experience.
+> **[2:08](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/next-steps?u=76281980&t=128)** These types of features speed up the web form completion process and create a seamless [[User Experience (UX)|user experience]].
 >
 > **[2:14](https://www.linkedin.com/learning/building-great-forms-with-html-and-css/next-steps?u=76281980&t=134)** Be transparent.
 >
@@ -8866,7 +8795,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Forms]] (4), [[User Experience (UX)|User experience]] (2), ux (2), data (1)
+> **Frameworks & Libraries:** [[Forms]] (4), [[User Experience (UX)|User experience]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** refers to (2)
 > **Warnings:** keep in mind (1)

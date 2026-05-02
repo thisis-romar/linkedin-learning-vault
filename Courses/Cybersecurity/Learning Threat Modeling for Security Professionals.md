@@ -67,8 +67,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Develop secure products
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/develop-secure-products?u=76281980)
+#### [Develop secure products](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/develop-secure-products?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -78,7 +77,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/develop-secure-products?u=76281980&t=17)** By asking simple questions and looking for the most common sorts of issues, you can improve the security posture of a project.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/develop-secure-products?u=76281980&t=26)** Through a simple case study, I'll show how to apply the most effective threat modeling practices to any technology you're working on.
+> **[0:26](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/develop-secure-products?u=76281980&t=26)** Through a simple case study, I'll show how to apply the most effective [[Threat Modeling]] practices to any technology you're working on.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/develop-secure-products?u=76281980&t=36)** I'm Adam Shostack.
 >
@@ -88,12 +87,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Security]] (1), game (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - delivering (1)
 
-#### Why would you threat model?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/why-would-you-threat-model?u=76281980)
+#### [Why would you threat model?](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/why-would-you-threat-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -101,7 +99,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/why-would-you-threat-model?u=76281980&t=16)** But how do you do that?
 >
-> **[0:18](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/why-would-you-threat-model?u=76281980&t=18)** You can't run standard tools like Nmap or ZAP to see what's wrong.
+> **[0:18](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/why-would-you-threat-model?u=76281980&t=18)** You can't run standard tools like [[Nmap]] or ZAP to see what's wrong.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/why-would-you-threat-model?u=76281980&t=23)** The fact is projects often start at a whiteboard, but too often, security isn't at that whiteboard, engaging in trade-offs with developers or operations, because we lack tools to be part of these conversations.
 >
@@ -109,7 +107,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/why-would-you-threat-model?u=76281980&t=44)** Ask two security experts, get three versions of no.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/why-would-you-threat-model?u=76281980&t=49)** Threat modeling is a structured way to discover problems lurking in a project.
+> **[0:49](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/why-would-you-threat-model?u=76281980&t=49)** [[Threat Modeling]] is a structured way to discover problems lurking in a project.
 >
 > **[0:56](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/why-would-you-threat-model?u=76281980&t=56)** You can threat model at any time, but the biggest payoff comes from threat modeling early.
 >
@@ -125,22 +123,21 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/why-would-you-threat-model?u=76281980&t=88)** You'll learn these course skills, tools, and techniques first, and over time, you'll end up with a whole set.
 >
-> **[1:35](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/why-would-you-threat-model?u=76281980&t=95)** Threat modeling is the best way to bring structure to your security work, and it's a skill set that you'll use for the rest of your career.
+> **[1:35](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/why-would-you-threat-model?u=76281980&t=95)** Threat modeling is the best way to bring structure to your security work, and it's a skill set that you'll use for the [[Representational State Transfer (REST)|rest]] of your career.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Threat Modeling]] (6), [[Representational State Transfer (REST)|Rest]] (1), career (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (6), [[Nmap]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** zap (1)
 > **Speakers:** - the (1)
 
-#### A simple approach to threat modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/a-simple-approach-to-threat-modeling?u=76281980)
+#### [A simple approach to threat modeling](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/a-simple-approach-to-threat-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/a-simple-approach-to-threat-modeling?u=76281980&t=1)** - At the heart of threat modeling are four incredibly simple questions: what are we working on, what can go wrong, what are we going to do about it, and did we do a good job?
+> **[0:01](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/a-simple-approach-to-threat-modeling?u=76281980&t=1)** - At the heart of [[Threat Modeling]] are four incredibly simple questions: what are we working on, what can go wrong, what are we going to do about it, and did we do a good job?
 >
 > **[0:12](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/a-simple-approach-to-threat-modeling?u=76281980&t=12)** We use these questions because they're easy to remember.
 >
@@ -148,9 +145,9 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/a-simple-approach-to-threat-modeling?u=76281980&t=21)** The four questions together give structure to our threat modeling work.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/a-simple-approach-to-threat-modeling?u=76281980&t=26)** They work in an Agile world or a Waterfall one.
+> **[0:26](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/a-simple-approach-to-threat-modeling?u=76281980&t=26)** They work in an [[Agile Development|Agile]] world or a Waterfall one.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/a-simple-approach-to-threat-modeling?u=76281980&t=29)** They work for all sorts of projects: apps, web services, microservices, infrastructure, networks, and even the things that make up the Internet of Things.
+> **[0:29](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/a-simple-approach-to-threat-modeling?u=76281980&t=29)** They work for all sorts of projects: apps, web services, [[Microservices]], infrastructure, networks, and even the things that make up the [[IoT|Internet of Things]].
 >
 > **[0:39](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/a-simple-approach-to-threat-modeling?u=76281980&t=39)** If you want to be old-fashioned, they even work for boxed software and enterprise apps.
 >
@@ -176,7 +173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Agile Development|Agile]] (1), web (1), [[Microservices]] (1), [[Internet of Things (IoT)|Internet of things]] (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Agile Development|Agile]] (1), [[Microservices]] (1), [[IoT|Internet of things]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - at (1)
 
@@ -185,12 +182,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are we working on?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-are-we-working-on?u=76281980)
+#### [What are we working on?](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-are-we-working-on?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-are-we-working-on?u=76281980&t=1)** - The first question in threat modeling is what are we working on?
+> **[0:01](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-are-we-working-on?u=76281980&t=1)** - The first question in [[Threat Modeling]] is what are we working on?
 >
 > **[0:05](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-are-we-working-on?u=76281980&t=5)** The reason we ask this is like the old parable of the blind folks and the elephant.
 >
@@ -242,12 +238,11 @@ created: 2026-05-02
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 
-#### What can go wrong?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-can-go-wrong-24336176?u=76281980)
+#### [What can go wrong?](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-can-go-wrong-24336176?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-can-go-wrong-24336176?u=76281980&t=1)** - The second question in threat modeling is what can go wrong?
+> **[0:01](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-can-go-wrong-24336176?u=76281980&t=1)** - The second question in [[Threat Modeling]] is what can go wrong?
 >
 > **[0:05](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-can-go-wrong-24336176?u=76281980&t=5)** Oh my, what can go wrong?
 >
@@ -337,15 +332,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), [[Threat Modeling]] (2), next (2), traffic (1), data (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (2)
 > **Definitions:** is a  (3), stands for (1), is an  (1)
 > **Env Vars:** stride (3)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### What are we going to do about it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-are-we-going-to-do-about-it?u=76281980)
+#### [What are we going to do about it?](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-are-we-going-to-do-about-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -355,7 +349,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-are-we-going-to-do-about-it?u=76281980&t=10)** The media servers might be so overwhelmed, that they can't send packets to the billing servers.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-are-we-going-to-do-about-it?u=76281980&t=16)** That brings me to the third key question that frames threat modeling.
+> **[0:16](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-are-we-going-to-do-about-it?u=76281980&t=16)** That brings me to the third key question that frames [[Threat Modeling]].
 >
 > **[0:21](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-are-we-going-to-do-about-it?u=76281980&t=21)** What are we going to do about each of these awful problems?
 >
@@ -421,7 +415,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-are-we-going-to-do-about-it?u=76281980&t=186)** Choosing or prioritizing a fix can happen later, outside of threat modeling.
 >
-> **[3:12](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-are-we-going-to-do-about-it?u=76281980&t=192)** Fixing issues is part of software development.
+> **[3:12](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-are-we-going-to-do-about-it?u=76281980&t=192)** Fixing issues is part of [[Software Development]].
 >
 > **[3:15](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-are-we-going-to-do-about-it?u=76281980&t=195)** It's part of operations, it's part of product management.
 >
@@ -429,22 +423,21 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-are-we-going-to-do-about-it?u=76281980&t=203)** You have to decide which ones get addressed, and to decide that in a consistent way.
 >
-> **[3:28](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-are-we-going-to-do-about-it?u=76281980&t=208)** Bugs are a key deliverable from threat modeling, to how you deliver products and services.
+> **[3:28](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/what-are-we-going-to-do-about-it?u=76281980&t=208)** Bugs are a key deliverable from threat modeling, to how you deliver [[Microsoft Products|products]] and services.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Security]] (1), [[Software Development]] (1), product (1), management (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Software Development]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)
 
-#### Did we do a good job?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/did-we-do-a-good-job?u=76281980)
+#### [Did we do a good job?](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/did-we-do-a-good-job?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/did-we-do-a-good-job?u=76281980&t=1)** - So, I've discovered a few threats, filed some bugs, and we're done threat modeling, right?
+> **[0:01](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/did-we-do-a-good-job?u=76281980&t=1)** - So, I've discovered a few threats, filed some bugs, and we're done [[Threat Modeling]], right?
 >
 > **[0:06](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/did-we-do-a-good-job?u=76281980&t=6)** Not quite.
 >
@@ -454,7 +447,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/did-we-do-a-good-job?u=76281980&t=22)** How can you know if you're half finished?
 >
-> **[0:25](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/did-we-do-a-good-job?u=76281980&t=25)** How can you tell your boss, your scrum master, or anyone else that you've done the work?
+> **[0:25](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/did-we-do-a-good-job?u=76281980&t=25)** How can you tell your boss, your [[Scrum]] master, or anyone else that you've done the work?
 >
 > **[0:30](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/did-we-do-a-good-job?u=76281980&t=30)** As a result, the very first part of this is, is the work done?
 >
@@ -514,7 +507,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Security]] (2), [[Scrum]] (1), next (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Scrum]] (1)
 > **Env Vars:** stride (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - so (1)
@@ -524,8 +517,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Spoofing a specific server
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/spoofing-a-specific-server?u=76281980)
+#### [Spoofing a specific server](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/spoofing-a-specific-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -549,7 +541,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/spoofing-a-specific-server?u=76281980&t=57)** To log in as someone else, the attacker can pick a likely username, say, Topsy Turvy, and try common passwords like password or 123456.
 >
-> **[1:09](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/spoofing-a-specific-server?u=76281980&t=69)** A brute force attack can happen by hand, or there's software like THC Hydra to speed it up.
+> **[1:09](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/spoofing-a-specific-server?u=76281980&t=69)** A brute force attack can happen by hand, or there's software like THC [[Hydra]] to speed it up.
 >
 > **[1:15](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/spoofing-a-specific-server?u=76281980&t=75)** Hydra spawns lots of heads, each one testing many common passwords across one or more possible usernames at the RED30 site.
 >
@@ -579,9 +571,9 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/spoofing-a-specific-server?u=76281980&t=150)** I could continue this chess game of threat and defense, but in the interest of time I want to jump to the next level of defense, multifactor authentication.
 >
-> **[2:40](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/spoofing-a-specific-server?u=76281980&t=160)** Google has a nice free app called Google Authenticator.
+> **[2:40](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/spoofing-a-specific-server?u=76281980&t=160)** [[Google]] has a nice free app called Google Authenticator.
 >
-> **[2:44](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/spoofing-a-specific-server?u=76281980&t=164)** It runs on a phone and uses cryptography to generate a six digit code that changes once per minute.
+> **[2:44](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/spoofing-a-specific-server?u=76281980&t=164)** It runs on a phone and uses [[Cryptography]] to generate a six digit code that changes once per minute.
 >
 > **[2:51](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/spoofing-a-specific-server?u=76281980&t=171)** After someone logs in, software on the website asks them for their six digit code.
 >
@@ -603,7 +595,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/spoofing-a-specific-server?u=76281980&t=225)** Another good exercise is to look at the spoofing defenses that you've seen, and ask, "Why was this feature built like this?"
 >
-> **[3:54](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/spoofing-a-specific-server?u=76281980&t=234)** But be aware, many of the defenses out there don't stand up very well to threat modeling.
+> **[3:54](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/spoofing-a-specific-server?u=76281980&t=234)** But be aware, many of the defenses out there don't stand up very well to [[Threat Modeling]].
 >
 > **[4:01](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/spoofing-a-specific-server?u=76281980&t=241)** To this point, I've been discussing the spoofing of a client, or really, a person.
 >
@@ -617,7 +609,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[Google]] (2), [[Analytics]] (1), web (1), game (1)
+> **Frameworks & Libraries:** [[Hydra]] (3), [[Google]] (2), [[Cryptography]] (1), [[Threat Modeling]] (1)
 > **Env Vars:** red30 (3), sms (2), url (1), thc (1), ssh (1)
 > **Analogies:** for example (1), just like (1), such as (1)
 > **CLI Commands:** find (1), ssh (1)
@@ -625,8 +617,7 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Speakers:** - spoofing (1)
 
-#### Tampering with a file
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/tampering-with-a-file?u=76281980)
+#### [Tampering with a file](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/tampering-with-a-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -650,7 +641,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/tampering-with-a-file?u=76281980&t=50)** Anyone could tamper with them.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/tampering-with-a-file?u=76281980&t=52)** To fix that and some other issues, they were moved to a cloud storage bucket.
+> **[0:52](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/tampering-with-a-file?u=76281980&t=52)** To fix that and some other issues, they were moved to a [[Cloud Storage]] bucket.
 >
 > **[0:57](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/tampering-with-a-file?u=76281980&t=57)** The trouble there was permissions were opened up a few months ago when there was a problem with the billing system, and, oops, no one remembered to lock them down.
 >
@@ -704,7 +695,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), data (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (1)
 > **Env Vars:** stride (2), tls (1)
 > **CLI Commands:** make (1)
 > **URLs:** [red30.com](https://red30.com) (1)
@@ -713,8 +704,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - the (1)
 
-#### Interlude: Scope and timing
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/interlude-scope-and-timing?u=76281980)
+#### [Interlude: Scope and timing](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/interlude-scope-and-timing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -722,7 +712,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/interlude-scope-and-timing?u=76281980&t=8)** It's time to touch on when to threat model and the advantages and disadvantages in different choices.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/interlude-scope-and-timing?u=76281980&t=16)** Threat modeling is amazingly powerful at the very start of a project while designs are literally on the whiteboard.
+> **[0:16](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/interlude-scope-and-timing?u=76281980&t=16)** [[Threat Modeling]] is amazingly powerful at the very start of a project while designs are literally on the whiteboard.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/interlude-scope-and-timing?u=76281980&t=24)** It gives a structured way to engage with the security tradeoffs of a project.
 >
@@ -754,13 +744,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (7), [[Security]] (1), product (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (7)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - while (1)
 
-#### Repudiating an order
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/repudiating-an-order?u=76281980)
+#### [Repudiating an order](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/repudiating-an-order?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -768,7 +757,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/repudiating-an-order?u=76281980&t=4)** Repudiation is a little bit different than the other STRIDE threats.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/repudiating-an-order?u=76281980&t=7)** It's an uncommon word and it means disclaiming, denying or any way of saying you're not responsible for something.
+> **[0:07](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/repudiating-an-order?u=76281980&t=7)** It's an uncommon [[Microsoft Word|word]] and it means disclaiming, denying or any way of saying you're not responsible for something.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/repudiating-an-order?u=76281980&t=15)** Saying, "I didn't get your email," is an act of repudiation.
 >
@@ -844,7 +833,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), next (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** stands for (1), is a  (1), is an  (1)
 > **Env Vars:** stride (2)
 > **CLI Commands:** make (1)
@@ -852,8 +841,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - the (1)
 
-#### Information disclosure
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/information-disclosure?u=76281980)
+#### [Information disclosure](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/information-disclosure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -875,7 +863,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/information-disclosure?u=76281980&t=47)** Each customer can only see their own specific metrics and they can't have access to other customers' success rates.
 >
-> **[0:56](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/information-disclosure?u=76281980&t=56)** On the network, the best confidentiality comes via cryptography.
+> **[0:56](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/information-disclosure?u=76281980&t=56)** On the network, the best confidentiality comes via [[Cryptography]].
 >
 > **[1:00](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/information-disclosure?u=76281980&t=60)** In fact cryptography is the best way to protect every secret, but then you have to manage keys, and that's complicated.
 >
@@ -891,7 +879,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/information-disclosure?u=76281980&t=88)** But sometimes you have to build your own.
 >
-> **[1:31](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/information-disclosure?u=76281980&t=91)** Most web servers put user management and file management into the web server.
+> **[1:31](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/information-disclosure?u=76281980&t=91)** Most [[Web Servers]] put [[User Management]] and file management into the web server.
 >
 > **[1:36](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/information-disclosure?u=76281980&t=96)** Because the user is logging in to the web server, they can't SSH into the server.
 >
@@ -899,23 +887,23 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/information-disclosure?u=76281980&t=106)** Many times that's built in.
 >
-> **[1:48](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/information-disclosure?u=76281980&t=108)** For example, WordPress has layers of user types and controls over what normal authors or commenters can configure.
+> **[1:48](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/information-disclosure?u=76281980&t=108)** For example, [[WordPress]] has layers of user types and controls over what normal authors or commenters can configure.
 >
 > **[1:57](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/information-disclosure?u=76281980&t=117)** It's easy to think about disclosure as being about the content of communication, but the mere occurrence of communication can be interesting to some people.
 >
 > **[2:07](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/information-disclosure?u=76281980&t=127)** For example, the fact that a political candidate is communicating with a foreign diplomat sure seems interesting, even if the contents of that communication are unknown.
 >
-> **[2:19](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/information-disclosure?u=76281980&t=139)** Confidentiality can be required for the content or the metadata of communication.
+> **[2:19](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/information-disclosure?u=76281980&t=139)** Confidentiality can be required for the content or the [[Metadata]] of communication.
 >
 > **[2:24](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/information-disclosure?u=76281980&t=144)** Sometimes both need to remain confidential.
 >
-> **[2:28](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/information-disclosure?u=76281980&t=148)** CEOs of some of the world's largest public companies regularly talk about privacy being a differentiator for their products.
+> **[2:28](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/information-disclosure?u=76281980&t=148)** CEOs of some of the world's largest public companies regularly talk about [[Privacy]] being a differentiator for their [[Microsoft Products|products]].
 >
 > **[2:37](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/information-disclosure?u=76281980&t=157)** They're competing on how they protect your information from inappropriate use or disclosure.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Cryptography]] (2), management (2), [[User Management]] (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[Cryptography]] (2), [[Web Servers]] (1), [[User Management]] (1), [[WordPress]] (1), [[Metadata]] (1)
 > **Analogies:** for example (3), just like (1)
 > **Env Vars:** stride (1), tls (1), ssh (1)
 > **CLI Commands:** ssh (1)
@@ -923,8 +911,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - the (1)
 
-#### Denial of service
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/denial-of-service?u=76281980)
+#### [Denial of service](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/denial-of-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -932,7 +919,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/denial-of-service?u=76281980&t=4)** There are denial-of-service or DoS attacks against processors, networks, and storage.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/denial-of-service?u=76281980&t=11)** In the world of IoT, there's denial-of-service against batteries and in the ElastiCLOUD world against your wallet.
+> **[0:11](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/denial-of-service?u=76281980&t=11)** In the world of [[IoT]], there's denial-of-service against batteries and in the ElastiCLOUD world against your wallet.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/denial-of-service?u=76281980&t=19)** The easiest denial-of-service attacks are simply brute-force With a lot of requests to see a given ad, the network fills up.
 >
@@ -948,7 +935,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/denial-of-service?u=76281980&t=55)** Simple brute-force can be very effective in denial-of-service but not all attacks are brainless not even all denial-of-service attacks.
 >
-> **[1:04](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/denial-of-service?u=76281980&t=64)** There are denial-of-service attacks that are symmetric, where attacker and defender spend roughly the same amount of resources.
+> **[1:04](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/denial-of-service?u=76281980&t=64)** There are denial-of-service attacks that are symmetric, where attacker and [[Microsoft Defender|defender]] spend roughly the same amount of resources.
 >
 > **[1:11](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/denial-of-service?u=76281980&t=71)** For these, an army of bots makes the attacks work.
 >
@@ -980,7 +967,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/denial-of-service?u=76281980&t=154)** As long as no one finds a way to run them down in a day.
 >
-> **[2:38](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/denial-of-service?u=76281980&t=158)** In denial-of-service attacks against your wallet, an attacker might break into a cloud service, install cryptocurrency mining software, and exhaust your budget while building their own.
+> **[2:38](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/denial-of-service?u=76281980&t=158)** In denial-of-service attacks against your wallet, an attacker might break into a cloud service, install [[Cryptocurrency]] mining software, and exhaust your budget while building their own.
 >
 > **[2:50](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/denial-of-service?u=76281980&t=170)** The simplest way to defend against denial-of-service attacks is with an abundance of resources that are hard for attackers to exhaust.
 >
@@ -990,11 +977,11 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/denial-of-service?u=76281980&t=193)** Defending against clever attacks requires that you profile your applications and know how they're going to behave.
 >
-> **[3:22](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/denial-of-service?u=76281980&t=202)** Much like information disclosure spans security and privacy, keeping systems available is both a security property and a reliability property but more, it's good engineering.
+> **[3:22](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/denial-of-service?u=76281980&t=202)** Much like information disclosure spans security and [[Privacy]], keeping systems available is both a security property and a reliability property but more, it's good engineering.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (3), [[Security]] (3), cloud (2), [[IoT]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Defender|Defender]] (3), [[IoT]] (1), [[Cryptocurrency]] (1), [[Privacy]] (1)
 > **Env Vars:** abc (2), stride (1), maxint (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** zip file (1)
@@ -1002,8 +989,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - the (1)
 
-#### Elevation of privilege
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/elevation-of-privilege?u=76281980)
+#### [Elevation of privilege](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/elevation-of-privilege?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1013,11 +999,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/elevation-of-privilege?u=76281980&t=17)** If someone can change something and their response is they shouldn't be able to do that, you may have an elevation of privilege attack.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/elevation-of-privilege?u=76281980&t=24)** Some elevation of privilege issues relate to things protected only by obscurity like the admin control panel that used to be hidden on our web servers before we realized that was not a good idea and fixed it.
+> **[0:24](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/elevation-of-privilege?u=76281980&t=24)** Some elevation of privilege issues relate to things protected only by obscurity like the admin control panel that used to be hidden on our [[Web Servers]] before we realized that was not a good idea and fixed it.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/elevation-of-privilege?u=76281980&t=41)** Many other elevation of privilege attacks relate to how unprivileged input is parsed or confusion about the difference between code and data.
 >
-> **[0:51](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/elevation-of-privilege?u=76281980&t=51)** For example, a SQL injection attack elevates privilege by running code that a web server passes to a database where the web server has taken its input data and allowed some of it to be treated as code.
+> **[0:51](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/elevation-of-privilege?u=76281980&t=51)** For example, a [[SQL]] injection attack elevates privilege by running code that a web server passes to a database where the web server has taken its input data and allowed some of it to be treated as code.
 >
 > **[1:05](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/elevation-of-privilege?u=76281980&t=65)** Similarly, a cross-site scripting attack gives an attacker the run code privilege and probably others.
 >
@@ -1045,14 +1031,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), data (2), [[SQL]] (1), database (1), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[Web Servers]] (2), [[SQL]] (1)
 > **Env Vars:** stride (1), sql (1), uid (1)
 > **Definitions:** stands for (1), is an  (1)
 > **Analogies:** for example (1), it's like (1)
 > **Speakers:** - the (1)
 
-#### Expansion of authority
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/expansion-of-authority?u=76281980)
+#### [Expansion of authority](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/expansion-of-authority?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1082,7 +1067,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/expansion-of-authority?u=76281980&t=60)** It gets us away from imprecise definitions, and it makes it natural to start thinking about, "What should this program be able to do?"
 >
-> **[1:10](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/expansion-of-authority?u=76281980&t=70)** That's a great frame as you create new systems, especially if the program is running on a modern platform like a cloud, iOS, or Android.
+> **[1:10](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/expansion-of-authority?u=76281980&t=70)** That's a great frame as you create new systems, especially if the program is running on a modern platform like a cloud, iOS, or [[Android]].
 >
 > **[1:21](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/expansion-of-authority?u=76281980&t=81)** In the privilege lesson, I say, "It's weird.
 >
@@ -1122,7 +1107,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), web (2), cloud (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Android]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Code Identifiers:** ios (1)
 > **Env Vars:** stride (1)
@@ -1134,14 +1119,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/next-steps-24336177?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/next-steps-24336177?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/next-steps-24336177?u=76281980&t=1)** - Threat modeling is the best way to bring structure to your security work.
+> **[0:01](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/next-steps-24336177?u=76281980&t=1)** - [[Threat Modeling]] is the best way to bring structure to your security work.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/next-steps-24336177?u=76281980&t=5)** And it's a skillset that you'll use for the rest of your career.
+> **[0:05](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/next-steps-24336177?u=76281980&t=5)** And it's a skillset that you'll use for the [[Representational State Transfer (REST)|rest]] of your career.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/next-steps-24336177?u=76281980&t=10)** If you're interested in learning more, the best way to learn threat modeling is to dive in and do it.
 >
@@ -1163,7 +1147,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/next-steps-24336177?u=76281980&t=73)** And I'll add a thank you.
 >
-> **[1:15](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/next-steps-24336177?u=76281980&t=75)** The book really exists in part because people take in these LinkedIn learning courses brought me interesting questions and helped me see that it was needed.
+> **[1:15](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/next-steps-24336177?u=76281980&t=75)** The book really exists in part because people take in these [[LinkedIn]] learning courses brought me interesting questions and helped me see that it was needed.
 >
 > **[1:26](https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals/next-steps-24336177?u=76281980&t=86)** A systematic, structured and comprehensive approach to threat modeling will lead you to deliver more robust outcomes in more predictable timeframes.
 >
@@ -1171,7 +1155,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (8), [[Security]] (2), next (2), game (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (8), [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1)
 > **Env Vars:** stride (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - threat (1)

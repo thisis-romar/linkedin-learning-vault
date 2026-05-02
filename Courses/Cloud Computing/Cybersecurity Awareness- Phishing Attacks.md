@@ -84,12 +84,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Can you spot a phish?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/can-you-spot-a-phish?u=76281980)
+#### [Can you spot a phish?](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/can-you-spot-a-phish?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/can-you-spot-a-phish?u=76281980&t=0)** - Can use spot a phishing attack.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/can-you-spot-a-phish?u=76281980&t=0)** - Can use spot a [[Phishing]] attack.
 >
 > **[0:02](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/can-you-spot-a-phish?u=76281980&t=2)** It's not as easy as it used to be.
 >
@@ -99,11 +98,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/can-you-spot-a-phish?u=76281980&t=20)** So how do you stay ahead, protect yourself, and feel empowered in these times?
 >
-> **[0:26](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/can-you-spot-a-phish?u=76281980&t=26)** I'm Stephanie Ihezukwu, your friendly neighborhood cybersecurity professional.
+> **[0:26](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/can-you-spot-a-phish?u=76281980&t=26)** I'm Stephanie Ihezukwu, your friendly neighborhood [[Cybersecurity]] professional.
 >
 > **[0:31](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/can-you-spot-a-phish?u=76281980&t=31)** I create courses on social engineering and malware.
 >
-> **[0:34](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/can-you-spot-a-phish?u=76281980&t=34)** Together, we'll break down phishing in all its forms, whether it's a voice phishing scam or an AI-powered attack, and I'll give you the tools to stay safe.
+> **[0:34](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/can-you-spot-a-phish?u=76281980&t=34)** Together, we'll break down phishing in all its [[Forms]], whether it's a voice phishing scam or an AI-powered attack, and I'll give you the tools to stay safe.
 >
 > **[0:44](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/can-you-spot-a-phish?u=76281980&t=44)** I'll make sure you and your organization are ready to catch the next big phish.
 >
@@ -111,7 +110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (4), [[Cybersecurity]] (1), [[Engineering]] (1), [[Forms]] (1), ai (1)
+> **Frameworks & Libraries:** [[Phishing]] (4), [[Cybersecurity]] (1), [[Forms]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - can (1)
 
@@ -120,8 +119,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Phishing: Understanding cyber deception
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/phishing-understanding-cyber-deception?u=76281980)
+#### [Phishing: Understanding cyber deception](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/phishing-understanding-cyber-deception?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -135,7 +133,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/phishing-understanding-cyber-deception?u=76281980&t=23)** These examples don't typically have malicious intent.
 >
-> **[0:26](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/phishing-understanding-cyber-deception?u=76281980&t=26)** However, phishing does.
+> **[0:26](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/phishing-understanding-cyber-deception?u=76281980&t=26)** However, [[Phishing]] does.
 >
 > **[0:29](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/phishing-understanding-cyber-deception?u=76281980&t=29)** Phishing uses deception to gain something from an unsuspecting person, whether that be money, information, or access.
 >
@@ -163,7 +161,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/phishing-understanding-cyber-deception?u=76281980&t=97)** Attackers seek to benefit from the reputation and built-in trust associated with popular brands.
 >
-> **[1:43](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/phishing-understanding-cyber-deception?u=76281980&t=103)** According to Proofpoint's "2024 State of the Phish," 68 million malicious messages were associated with Microsoft's brands or products.
+> **[1:43](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/phishing-understanding-cyber-deception?u=76281980&t=103)** According to Proofpoint's "2024 State of the Phish," 68 million malicious messages were associated with [[Microsoft]]'s brands or [[Microsoft Products|products]].
 >
 > **[1:52](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/phishing-understanding-cyber-deception?u=76281980&t=112)** To take this a step further, AI is also assisting attackers in creating more realistic-looking emails.
 >
@@ -197,14 +195,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (9), [[Microsoft]] (1), [[Microsoft Products|Products]] (1), ai (1), vpn (1)
+> **Frameworks & Libraries:** [[Phishing]] (9), [[Microsoft]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** aol (1), vpn (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - deception (1)
 
-#### How does phishing affect us?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-does-phishing-affect-us?u=76281980)
+#### [How does phishing affect us?](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-does-phishing-affect-us?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -218,7 +215,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-does-phishing-affect-us?u=76281980&t=22)** The grasshopper had spent way too much time focused on his music and not enough time preparing for winter.
 >
-> **[0:29](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-does-phishing-affect-us?u=76281980&t=29)** It can be extremely easy to assume that phishing attacks are nothing to worry about.
+> **[0:29](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-does-phishing-affect-us?u=76281980&t=29)** It can be extremely easy to assume that [[Phishing]] attacks are nothing to worry about.
 >
 > **[0:33](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-does-phishing-affect-us?u=76281980&t=33)** We've all got responsibilities, families, work obligations and much more to manage.
 >
@@ -228,7 +225,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-does-phishing-affect-us?u=76281980&t=53)** The ants didn't know what the winter would be like that year, they only knew that they'd need food because crops aren't readily available in winter.
 >
-> **[1:01](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-does-phishing-affect-us?u=76281980&t=61)** As your friendly neighborhood cybersecurity professional, it's my job to arm you with the same knowledge the ants had.
+> **[1:01](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-does-phishing-affect-us?u=76281980&t=61)** As your friendly neighborhood [[Cybersecurity]] professional, it's my job to arm you with the same knowledge the ants had.
 >
 > **[1:07](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-does-phishing-affect-us?u=76281980&t=67)** In this case, winter would be a successful phishing attack, and this course would be equivalent to you preparing for winter like the ants.
 >
@@ -236,7 +233,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-does-phishing-affect-us?u=76281980&t=82)** Financial gain is a common motive for social-engineering attacks, so it stands to reason that the main result of those attacks is financial loss.
 >
-> **[1:30](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-does-phishing-affect-us?u=76281980&t=90)** For example, cybercriminals can get your banking credentials, or trick you into sending them money.
+> **[1:30](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-does-phishing-affect-us?u=76281980&t=90)** For example, cybercriminals can get your [[Banking]] credentials, or trick you into sending them money.
 >
 > **[1:36](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-does-phishing-affect-us?u=76281980&t=96)** According to the FBI's "2023 Internet Crime Report," reported losses rose to 12.5 billion US dollars, and you guessed it, phishing was the top crime vector used to obtain that money.
 >
@@ -276,7 +273,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (10), data (2), [[Cybersecurity]] (1), [[Engineering]] (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (10), [[Cybersecurity]] (1), [[Banking]] (1)
 > **Analogies:** for example (1), just like (1)
 > **Env Vars:** fbi (1)
 > **Versions:** 12.5 (1)
@@ -284,8 +281,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
 
-#### The human biases behind phishing attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-human-biases-behind-phishing-attacks?u=76281980)
+#### [The human biases behind phishing attacks](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-human-biases-behind-phishing-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -307,13 +303,13 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-human-biases-behind-phishing-attacks?u=76281980&t=48)** While this tendency provides us with ample mental processing power for various tasks, it also leads us to rely on mental shortcuts and cognitive biases.
 >
-> **[0:58](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-human-biases-behind-phishing-attacks?u=76281980&t=58)** According to Merriam-Webster, bias is an inclination of temperament or outlook.
+> **[0:58](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-human-biases-behind-phishing-attacks?u=76281980&t=58)** According to Merriam-Webster, bias is an inclination of temperament or [[Microsoft Outlook|outlook]].
 >
 > **[1:03](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-human-biases-behind-phishing-attacks?u=76281980&t=63)** It's not based on fact, but our perception of something shaped by our experiences and environment.
 >
 > **[1:10](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-human-biases-behind-phishing-attacks?u=76281980&t=70)** Unconscious bias occurs when our brain misinterprets available information without our conscious awareness.
 >
-> **[1:17](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-human-biases-behind-phishing-attacks?u=76281980&t=77)** So let's explore four unconscious biases that play key roles in phishing attacks.
+> **[1:17](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-human-biases-behind-phishing-attacks?u=76281980&t=77)** So let's explore four unconscious biases that play key roles in [[Phishing]] attacks.
 >
 > **[1:23](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-human-biases-behind-phishing-attacks?u=76281980&t=83)** First step is the Dunning-Kruger effect.
 >
@@ -355,7 +351,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-human-biases-behind-phishing-attacks?u=76281980&t=207)** Lastly, the Halo Effect occurs when our impression of a person, brand, or entity influences our thoughts associated with them.
 >
-> **[3:35](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-human-biases-behind-phishing-attacks?u=76281980&t=215)** Marketers exploit this by using celebrities or influencers to endorse their products.
+> **[3:35](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-human-biases-behind-phishing-attacks?u=76281980&t=215)** Marketers exploit this by using celebrities or influencers to endorse their [[Microsoft Products|products]].
 >
 > **[3:40](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-human-biases-behind-phishing-attacks?u=76281980&t=220)** You may not know the celebrity personally but if you have a positive impression of them, you're more likely to trust their endorsements.
 >
@@ -377,7 +373,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (8), power (1), [[Microsoft Outlook|Outlook]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Phishing]] (8), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is an  (3)
 > **Analogies:** for instance (1)
 > **Speakers:** - the (1)
@@ -387,8 +383,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Triggered: The surprising psychology behind a click
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-social-engineering-makes-phishing-attacks-successful?u=76281980)
+#### [Triggered: The surprising psychology behind a click](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-social-engineering-makes-phishing-attacks-successful?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -414,7 +409,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-social-engineering-makes-phishing-attacks-successful?u=76281980&t=28)** And to that, I say well done.
 >
-> **[0:30](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-social-engineering-makes-phishing-attacks-successful?u=76281980&t=30)** I also say that you never know what emotional state you'll be in when you succumb to a phishing attack.
+> **[0:30](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-social-engineering-makes-phishing-attacks-successful?u=76281980&t=30)** I also say that you never know what emotional state you'll be in when you succumb to a [[Phishing]] attack.
 >
 > **[0:36](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-social-engineering-makes-phishing-attacks-successful?u=76281980&t=36)** All it takes is one off moment.
 >
@@ -430,7 +425,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-social-engineering-makes-phishing-attacks-successful?u=76281980&t=76)** Social engineering techniques are prevalent in phishing attacks.
 >
-> **[1:20](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-social-engineering-makes-phishing-attacks-successful?u=76281980&t=80)** These exploit concepts like authority, scarcity, and reciprocity to take advantage of human trust and influence decision-making.
+> **[1:20](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-social-engineering-makes-phishing-attacks-successful?u=76281980&t=80)** These exploit concepts like authority, scarcity, and reciprocity to take advantage of human trust and influence [[Decision-Making]].
 >
 > **[1:28](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-social-engineering-makes-phishing-attacks-successful?u=76281980&t=88)** Attackers pose as trusted figures or organizations to simulate a sense of authority, prompting victims to comply without question.
 >
@@ -462,7 +457,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (10), [[Engineering]] (3), [[Decision-Making]] (2)
+> **Frameworks & Libraries:** [[Phishing]] (10), [[Decision-Making]] (2)
 > **Cross-References:** we covered (1), in the last (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -470,12 +465,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - allow (1)
 
-#### Catch a phish red-handed: Common indicators of a phish
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/catch-a-phish-red-handed-common-indicators-of-a-phish?u=76281980)
+#### [Catch a phish red-handed: Common indicators of a phish](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/catch-a-phish-red-handed-common-indicators-of-a-phish?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/catch-a-phish-red-handed-common-indicators-of-a-phish?u=76281980&t=0)** - We now know our minds can be used against us when it comes to phishing attacks.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/catch-a-phish-red-handed-common-indicators-of-a-phish?u=76281980&t=0)** - We now know our minds can be used against us when it comes to [[Phishing]] attacks.
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/catch-a-phish-red-handed-common-indicators-of-a-phish?u=76281980&t=4)** However, it's just one piece of the puzzle.
 >
@@ -575,7 +569,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (6), hit (1), next (1)
+> **Frameworks & Libraries:** [[Phishing]] (6)
 > **Env Vars:** url (2)
 > **Definitions:** is an  (2)
 > **Analogies:** for instance (2)
@@ -584,16 +578,15 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - we (1)
 
-#### Is this a phish? Real-world examples of phishing attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-this-a-phish-real-world-examples-of-phishing-attacks?u=76281980)
+#### [Is this a phish? Real-world examples of phishing attacks](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-this-a-phish-real-world-examples-of-phishing-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-this-a-phish-real-world-examples-of-phishing-attacks?u=76281980&t=0)** - Phishing attacks happen every day.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-this-a-phish-real-world-examples-of-phishing-attacks?u=76281980&t=0)** - [[Phishing]] attacks happen every day.
 >
 > **[0:03](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-this-a-phish-real-world-examples-of-phishing-attacks?u=76281980&t=3)** In Proofpoint's 2024 State of the Phish Report, the most common form of attack was phishing.
 >
-> **[0:09](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-this-a-phish-real-world-examples-of-phishing-attacks?u=76281980&t=9)** More specific forms of phishing, like spear phishing and business email compromise, were also very common among survey participants.
+> **[0:09](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-this-a-phish-real-world-examples-of-phishing-attacks?u=76281980&t=9)** More specific [[Forms]] of phishing, like spear phishing and business email compromise, were also very common among survey participants.
 >
 > **[0:17](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-this-a-phish-real-world-examples-of-phishing-attacks?u=76281980&t=17)** While knowing the most common phishing indicators is important, additional context here is helpful.
 >
@@ -603,19 +596,19 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-this-a-phish-real-world-examples-of-phishing-attacks?u=76281980&t=30)** The Australian Financial Review disclosed how Levitas Capitol, a hedge fund, almost lost $8.7 million because of a successful whaling attack.
 >
-> **[0:39](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-this-a-phish-real-world-examples-of-phishing-attacks?u=76281980&t=39)** The co-founder received a fake Zoom invite and clicked on the invite link, which installed malware on his machine.
+> **[0:39](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-this-a-phish-real-world-examples-of-phishing-attacks?u=76281980&t=39)** The co-founder received a fake [[Zoom]] invite and clicked on the invite link, which installed malware on his machine.
 >
 > **[0:45](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-this-a-phish-real-world-examples-of-phishing-attacks?u=76281980&t=45)** This allowed the attacker's access to the co-founder's corporate email account.
 >
 > **[0:50](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-this-a-phish-real-world-examples-of-phishing-attacks?u=76281980&t=50)** Fake invoices were then sent to the fund's administrators and trustees.
 >
-> **[0:55](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-this-a-phish-real-world-examples-of-phishing-attacks?u=76281980&t=55)** However, the attack was only discovered after an examination of the fund's banking records.
+> **[0:55](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-this-a-phish-real-world-examples-of-phishing-attacks?u=76281980&t=55)** However, the attack was only discovered after an examination of the fund's [[Banking]] records.
 >
 > **[1:00](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-this-a-phish-real-world-examples-of-phishing-attacks?u=76281980&t=60)** In this case, the fund was fortunate enough to claim all but $800,000 before payments cleared, but the firm didn't survive the reputational impact of the attack.
 >
 > **[1:10](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-this-a-phish-real-world-examples-of-phishing-attacks?u=76281980&t=70)** A more targeted real world example is a widespread phishing attack that impacted different industries and one major US energy company.
 >
-> **[1:18](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-this-a-phish-real-world-examples-of-phishing-attacks?u=76281980&t=78)** The email spoofed Microsoft-related notifications, typically referring to updating account information or other account security details.
+> **[1:18](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-this-a-phish-real-world-examples-of-phishing-attacks?u=76281980&t=78)** The email spoofed [[Microsoft]]-related notifications, typically referring to updating account information or other account security details.
 >
 > **[1:26](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-this-a-phish-real-world-examples-of-phishing-attacks?u=76281980&t=86)** QR codes embedded in images and the use of Bing URL redirects allow this attack to bypass security controls and get to people's inboxes.
 >
@@ -641,7 +634,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (6), [[Security]] (4), [[Forms]] (1), business (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (6), [[Forms]] (1), [[Zoom]] (1), [[Banking]] (1), [[Microsoft]] (1)
 > **Env Vars:** url (1), fbi (1)
 > **Versions:** 8.7 (1)
 > **Cross-References:** coming up (1)
@@ -653,8 +646,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Is it a harmless unknown caller or vishing?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-it-a-harmless-unknown-caller-or-vishing?u=76281980)
+#### [Is it a harmless unknown caller or vishing?](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-it-a-harmless-unknown-caller-or-vishing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -668,7 +660,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-it-a-harmless-unknown-caller-or-vishing?u=76281980&t=18)** Well, you've just been a victim of a vishing attack.
 >
-> **[0:21](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-it-a-harmless-unknown-caller-or-vishing?u=76281980&t=21)** Vishing, which is short for voice phishing, is a phishing attack that occurs over the phone.
+> **[0:21](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-it-a-harmless-unknown-caller-or-vishing?u=76281980&t=21)** Vishing, which is short for voice [[Phishing]], is a phishing attack that occurs over the phone.
 >
 > **[0:27](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/is-it-a-harmless-unknown-caller-or-vishing?u=76281980&t=27)** Typically, a scammer contacts you pretending to be someone familiar or in a position of authority.
 >
@@ -750,14 +742,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (6), ai (2), next (1)
+> **Frameworks & Libraries:** [[Phishing]] (6)
 > **Definitions:** is a  (2), is an  (2), short for (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - you (1)
 
-#### Unfollowed: How to spot a social media phish
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/unfollowed-how-to-spot-a-social-media-phish?u=76281980)
+#### [Unfollowed: How to spot a social media phish](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/unfollowed-how-to-spot-a-social-media-phish?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -771,7 +762,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/unfollowed-how-to-spot-a-social-media-phish?u=76281980&t=22)** Instead, it's from someone impersonating them with a username that's almost identical.
 >
-> **[0:26](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/unfollowed-how-to-spot-a-social-media-phish?u=76281980&t=26)** If I'm not careful, I could easily become the victim of a social media phishing attack.
+> **[0:26](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/unfollowed-how-to-spot-a-social-media-phish?u=76281980&t=26)** If I'm not careful, I could easily become the victim of a social media [[Phishing]] attack.
 >
 > **[0:32](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/unfollowed-how-to-spot-a-social-media-phish?u=76281980&t=32)** Social media phishing uses social media platforms to trick people into giving away sensitive information or money.
 >
@@ -797,7 +788,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/unfollowed-how-to-spot-a-social-media-phish?u=76281980&t=96)** Another common attack is pig butchering.
 >
-> **[1:39](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/unfollowed-how-to-spot-a-social-media-phish?u=76281980&t=99)** I know this sounds a bit graphic, but the term refers to scammers gradually fattening up their victims by building trust over time via social media, allowing scammers to reap larger rewards later.
+> **[1:39](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/unfollowed-how-to-spot-a-social-media-phish?u=76281980&t=99)** I know this sounds a bit graphic, but the term refers to scammers gradually fattening up their victims by [[Building Trust]] over time via social media, allowing scammers to reap larger rewards later.
 >
 > **[1:51](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/unfollowed-how-to-spot-a-social-media-phish?u=76281980&t=111)** Once trust is developed, the scammer convinces their victim to invest money with them through a trading platform.
 >
@@ -829,14 +820,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (4), [[Building Trust]] (1), next (1)
+> **Frameworks & Libraries:** [[Phishing]] (4), [[Building Trust]] (1)
 > **Definitions:** is a  (1), refers to (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - social (1)
 
-#### Getting specific with targeted phishing attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/getting-specific-with-targeted-phishing-attacks?u=76281980)
+#### [Getting specific with targeted phishing attacks](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/getting-specific-with-targeted-phishing-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -852,7 +842,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/getting-specific-with-targeted-phishing-attacks?u=76281980&t=32)** A wailing attack is a type of spearfishing or targeted attack where the victim is always a high level executive of an organization.
 >
-> **[0:40](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/getting-specific-with-targeted-phishing-attacks?u=76281980&t=40)** There are also spear phishing attacks which focus on specific people or businesses.
+> **[0:40](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/getting-specific-with-targeted-phishing-attacks?u=76281980&t=40)** There are also spear [[Phishing]] attacks which focus on specific people or businesses.
 >
 > **[0:45](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/getting-specific-with-targeted-phishing-attacks?u=76281980&t=45)** In these types of situations, the attacker takes their time to gather information on the targets to build a detailed and convincing profile.
 >
@@ -896,15 +886,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (4), [[Security]] (1), business (1)
+> **Frameworks & Libraries:** [[Phishing]] (4)
 > **Env Vars:** ceo (2), osint (1), bec (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - years (1)
 
-#### SMS phishing: A text-based attack
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/sms-phishing-a-text-based-attack?u=76281980)
+#### [SMS phishing: A text-based attack](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/sms-phishing-a-text-based-attack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -918,7 +907,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/sms-phishing-a-text-based-attack?u=76281980&t=18)** At first glance, they may seem like a harmless mistake or maybe an urgent message to act upon, but under further inspection, something feels kind of off.
 >
-> **[0:28](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/sms-phishing-a-text-based-attack?u=76281980&t=28)** SMS phishing attacks, also known as smishing attacks, are phishing attempts that occur via text message.
+> **[0:28](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/sms-phishing-a-text-based-attack?u=76281980&t=28)** SMS [[Phishing]] attacks, also known as smishing attacks, are phishing attempts that occur via text message.
 >
 > **[0:34](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/sms-phishing-a-text-based-attack?u=76281980&t=34)** Like other attacks we've covered, a scammer sends a text hoping to lure in a victim.
 >
@@ -988,7 +977,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (4), data (3), next (2), ai (2), generic (1)
+> **Frameworks & Libraries:** [[Phishing]] (4)
 > **Env Vars:** ups (4), sms (2)
 > **Cross-References:** we talked about (1), next video (1)
 > **UI Navigation:** click on (2)
@@ -997,12 +986,11 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - we (1)
 
-#### The AI of it all: How is AI affecting phishing?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-ai-of-it-all-how-is-ai-affecting-phishing?u=76281980)
+#### [The AI of it all: How is AI affecting phishing?](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-ai-of-it-all-how-is-ai-affecting-phishing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-ai-of-it-all-how-is-ai-affecting-phishing?u=76281980&t=0)** - Artificial intelligence, or AI, is an incredible invention and continues to experience major positive advancements.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-ai-of-it-all-how-is-ai-affecting-phishing?u=76281980&t=0)** - [[Artificial Intelligence (AI)|Artificial intelligence]], or AI, is an incredible invention and continues to experience major positive advancements.
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-ai-of-it-all-how-is-ai-affecting-phishing?u=76281980&t=8)** Unfortunately, if technology is being used for helpful and supportive tasks, it can also be used for nefarious acts.
 >
@@ -1010,7 +998,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-ai-of-it-all-how-is-ai-affecting-phishing?u=76281980&t=20)** Before AI, many phishers used the spray and pray method.
 >
-> **[0:24](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-ai-of-it-all-how-is-ai-affecting-phishing?u=76281980&t=24)** They'd send millions of generic phishing emails and hope that some unsuspecting person would fall for them.
+> **[0:24](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-ai-of-it-all-how-is-ai-affecting-phishing?u=76281980&t=24)** They'd send millions of generic [[Phishing]] emails and hope that some unsuspecting person would fall for them.
 >
 > **[0:30](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-ai-of-it-all-how-is-ai-affecting-phishing?u=76281980&t=30)** The quality of these emails was low, often including many misspellings and poor grammar.
 >
@@ -1032,13 +1020,13 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-ai-of-it-all-how-is-ai-affecting-phishing?u=76281980&t=78)** While deepfake results are currently not a huge issue, they're becoming increasingly realistic as developments continue and could be a bigger issue in the future.
 >
-> **[1:27](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-ai-of-it-all-how-is-ai-affecting-phishing?u=76281980&t=87)** Chatbots like ChatGPT are also being used to create persuasive attacks.
+> **[1:27](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-ai-of-it-all-how-is-ai-affecting-phishing?u=76281980&t=87)** Chatbots like [[ChatGPT]] are also being used to create persuasive attacks.
 >
-> **[1:32](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-ai-of-it-all-how-is-ai-affecting-phishing?u=76281980&t=92)** Phishers are using chatbots to bright phishing emails, add a convincing chatbot to a fake business website, building trust with people, and using large language models, or LLMs, to generate tailored phishing messages based on the gathered personal information of a victim.
+> **[1:32](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-ai-of-it-all-how-is-ai-affecting-phishing?u=76281980&t=92)** Phishers are using chatbots to bright phishing emails, add a convincing chatbot to a fake business website, [[Building Trust]] with people, and using [[Large Language Models (LLM)|large language models]], or LLMs, to generate tailored phishing messages based on the gathered personal information of a victim.
 >
 > **[1:48](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-ai-of-it-all-how-is-ai-affecting-phishing?u=76281980&t=108)** Even though AI is being used for evil, it's also still being used for good.
 >
-> **[1:53](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-ai-of-it-all-how-is-ai-affecting-phishing?u=76281980&t=113)** Just as cyber criminals are finding new ways to make successful attacks, friendly neighborhood cybersecurity professionals, like me, are working hard to find ways to combat them and help people like you.
+> **[1:53](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-ai-of-it-all-how-is-ai-affecting-phishing?u=76281980&t=113)** Just as cyber criminals are finding new ways to make successful attacks, friendly neighborhood [[Cybersecurity]] professionals, like me, are working hard to find ways to combat them and help people like you.
 >
 > **[2:05](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-ai-of-it-all-how-is-ai-affecting-phishing?u=76281980&t=125)** For example, AI can be used to establish a baseline for employee behavior and kick off an alert when something anomalous occurs.
 >
@@ -1058,18 +1046,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Phishing]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), generic (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[ChatGPT]] (1), [[Building Trust]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - artificial (1)
 
-#### Other notable methods of phishing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/other-notable-methods-of-phishing?u=76281980)
+#### [Other notable methods of phishing](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/other-notable-methods-of-phishing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/other-notable-methods-of-phishing?u=76281980&t=0)** - Given the amount of phishing variants out there, this course is focused on equipping you with the most common and fundamental concepts.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/other-notable-methods-of-phishing?u=76281980&t=0)** - Given the amount of [[Phishing]] variants out there, this course is focused on equipping you with the most common and fundamental concepts.
 >
 > **[0:07](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/other-notable-methods-of-phishing?u=76281980&t=7)** While some don't require in-depth explanations, they're still important to be aware of.
 >
@@ -1107,7 +1094,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/other-notable-methods-of-phishing?u=76281980&t=97)** Typosquatting involves purchasing domain names similar to popular websites, and using them maliciously.
 >
-> **[1:43](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/other-notable-methods-of-phishing?u=76281980&t=103)** Think [goggle.com](https://goggle.com) instead of [google.com](https://google.com).
+> **[1:43](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/other-notable-methods-of-phishing?u=76281980&t=103)** Think [goggle.com](https://goggle.com) instead of [[[Google]].com](https://google.com).
 >
 > **[1:47](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/other-notable-methods-of-phishing?u=76281980&t=107)** And a watering hole attack occurs when a popular website has been compromised with a attacks like typosquatting.
 >
@@ -1151,7 +1138,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (6), dns (3), data (2), [[Troubleshooting]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (6), [[Google]] (1)
 > **Env Vars:** dns (3), url (2)
 > **URLs:** [goggle.com](https://goggle.com) (1), [google.com](https://google.com) (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -1165,8 +1152,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How technology helps with the fight against phishing attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-technology-helps-with-the-fight-against-phishing-attacks?u=76281980)
+#### [How technology helps with the fight against phishing attacks](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-technology-helps-with-the-fight-against-phishing-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1178,7 +1164,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-technology-helps-with-the-fight-against-phishing-attacks?u=76281980&t=9)** Talk to smart assistants that not only chat back, but also find us recipes and pause our music just by tapping tiny earbuds.
 >
-> **[0:17](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-technology-helps-with-the-fight-against-phishing-attacks?u=76281980&t=17)** It's an incredible time to be alive, but with all this convenience, it makes sense that technology would also help us solve problems created by technology like phishing.
+> **[0:17](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-technology-helps-with-the-fight-against-phishing-attacks?u=76281980&t=17)** It's an incredible time to be alive, but with all this convenience, it makes sense that technology would also help us solve problems created by technology like [[Phishing]].
 >
 > **[0:27](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-technology-helps-with-the-fight-against-phishing-attacks?u=76281980&t=27)** The good news is that there are plenty of tools to protect us from these attacks.
 >
@@ -1230,7 +1216,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-technology-helps-with-the-fight-against-phishing-attacks?u=76281980&t=139)** This feature has been available since iOS 13.
 >
-> **[2:22](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-technology-helps-with-the-fight-against-phishing-attacks?u=76281980&t=142)** Android phones offer a similar option.
+> **[2:22](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-technology-helps-with-the-fight-against-phishing-attacks?u=76281980&t=142)** [[Android]] phones offer a similar option.
 >
 > **[2:25](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/how-technology-helps-with-the-fight-against-phishing-attacks?u=76281980&t=145)** Many mobile carriers also provide apps that block known scam callers.
 >
@@ -1260,7 +1246,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (6), [[Security]] (3), feature (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (6), [[Android]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** mfa (2), url (1)
 > **Code Identifiers:** iphone (1), ios (1)
@@ -1269,8 +1255,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Warnings:** be careful (1)
 
-#### Practice makes perfect: An overview of phishing simulations
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/practice-makes-perfect-an-overview-of-phishing-simulations?u=76281980)
+#### [Practice makes perfect: An overview of phishing simulations](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/practice-makes-perfect-an-overview-of-phishing-simulations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1288,7 +1273,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/practice-makes-perfect-an-overview-of-phishing-simulations?u=76281980&t=21)** Practice makes things easier over time, and you learn from the mistakes you make so that you can make better decisions moving forward.
 >
-> **[0:29](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/practice-makes-perfect-an-overview-of-phishing-simulations?u=76281980&t=29)** In that same way, you should see identifying phishing attacks as something you practice over time.
+> **[0:29](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/practice-makes-perfect-an-overview-of-phishing-simulations?u=76281980&t=29)** In that same way, you should see identifying [[Phishing]] attacks as something you practice over time.
 >
 > **[0:35](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/practice-makes-perfect-an-overview-of-phishing-simulations?u=76281980&t=35)** Repetition and exposure are the biggest teachers.
 >
@@ -1306,7 +1291,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/practice-makes-perfect-an-overview-of-phishing-simulations?u=76281980&t=72)** It's to teach you.
 >
-> **[1:14](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/practice-makes-perfect-an-overview-of-phishing-simulations?u=76281980&t=74)** If you don't catch a phish from a simulation and you click on a link in the email or respond to the email, there are a couple of things that can happen depending on the campaign.
+> **[1:14](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/practice-makes-perfect-an-overview-of-phishing-simulations?u=76281980&t=74)** If you don't catch a phish from a [[Simulation]] and you click on a link in the email or respond to the email, there are a couple of things that can happen depending on the campaign.
 >
 > **[1:23](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/practice-makes-perfect-an-overview-of-phishing-simulations?u=76281980&t=83)** Most of the time, you'll receive a message from the simulation administrator.
 >
@@ -1330,7 +1315,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/practice-makes-perfect-an-overview-of-phishing-simulations?u=76281980&t=135)** If your employer doesn't regularly perform simulations, there are websites to test your ability to catch a phish.
 >
-> **[2:21](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/practice-makes-perfect-an-overview-of-phishing-simulations?u=76281980&t=141)** One resource is Google's phishing quiz where you can test what you've learned in this course.
+> **[2:21](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/practice-makes-perfect-an-overview-of-phishing-simulations?u=76281980&t=141)** One resource is [[Google]]'s phishing quiz where you can test what you've learned in this course.
 >
 > **[2:27](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/practice-makes-perfect-an-overview-of-phishing-simulations?u=76281980&t=147)** The quiz shows email examples, and you have to choose whether or not the email is a phish.
 >
@@ -1344,7 +1329,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (12), [[Security]] (3), [[Simulation]] (2), next (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (12), [[Simulation]] (2), [[Google]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1), similar to (1)
@@ -1356,8 +1341,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Responding to a phishing attack at work
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/responding-to-a-phishing-attack-at-work?u=76281980)
+#### [Responding to a phishing attack at work](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/responding-to-a-phishing-attack-at-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1365,7 +1349,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/responding-to-a-phishing-attack-at-work?u=76281980&t=4)** Quickly answering emails, clicking links, and trying to stay on top of it all.
 >
-> **[0:09](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/responding-to-a-phishing-attack-at-work?u=76281980&t=9)** But that's exactly why phishing attacks thrive.
+> **[0:09](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/responding-to-a-phishing-attack-at-work?u=76281980&t=9)** But that's exactly why [[Phishing]] attacks thrive.
 >
 > **[0:12](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/responding-to-a-phishing-attack-at-work?u=76281980&t=12)** Cybercriminals are counting on us to be distracted and busy.
 >
@@ -1385,7 +1369,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/responding-to-a-phishing-attack-at-work?u=76281980&t=57)** It's important to know the specific steps your organization has in place for handling phishing emails.
 >
-> **[1:03](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/responding-to-a-phishing-attack-at-work?u=76281980&t=63)** When you're at the office, you also have the advantage of easily verifying if an internal email is legitimate.
+> **[1:03](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/responding-to-a-phishing-attack-at-work?u=76281980&t=63)** When you're at the [[Microsoft Office|office]], you also have the advantage of easily verifying if an internal email is legitimate.
 >
 > **[1:09](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/responding-to-a-phishing-attack-at-work?u=76281980&t=69)** If the email claims to be from your CEO you can use an alternative communication method, like a direct phone call or messaging app, to confirm whether they actually sent it.
 >
@@ -1433,14 +1417,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (11), [[Security]] (9), [[Microsoft Office|Office]] (1), data (1)
+> **Frameworks & Libraries:** [[Phishing]] (11), [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** ceo (1)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
-#### Falling for a phishing attack at home
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/falling-for-a-phishing-attack-at-home?u=76281980)
+#### [Falling for a phishing attack at home](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/falling-for-a-phishing-attack-at-home?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1448,7 +1431,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/falling-for-a-phishing-attack-at-home?u=76281980&t=5)** It may be a strange thing to prepare for, but I'd recommend coming up with a game plan.
 >
-> **[0:10](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/falling-for-a-phishing-attack-at-home?u=76281980&t=10)** When it comes to going phishing at home, things can get a little more complicated.
+> **[0:10](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/falling-for-a-phishing-attack-at-home?u=76281980&t=10)** When it comes to going [[Phishing]] at home, things can get a little more complicated.
 >
 > **[0:15](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/falling-for-a-phishing-attack-at-home?u=76281980&t=15)** You have less support and carry more of the liability when it comes to the consequences of an attack.
 >
@@ -1506,7 +1489,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/falling-for-a-phishing-attack-at-home?u=76281980&t=171)** They also work with many different organizations like internet service providers and government agencies to curb cyber crime.
 >
-> **[2:59](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/falling-for-a-phishing-attack-at-home?u=76281980&t=179)** Finally, another cool tip is to have an email address specifically for websites or forms you are not sure about.
+> **[2:59](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/falling-for-a-phishing-attack-at-home?u=76281980&t=179)** Finally, another cool tip is to have an email address specifically for websites or [[Forms]] you are not sure about.
 >
 > **[3:06](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/falling-for-a-phishing-attack-at-home?u=76281980&t=186)** There are a lot of websites that ask for your email address, and before you know it, your inbox is full of emails you never asked for.
 >
@@ -1522,7 +1505,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (8), game (1), data (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (8), [[Forms]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Best Practices:** it's best to (1), make sure to (1)
 > **URLs:** [identitytheft.gov](https://identitytheft.gov) (1)
@@ -1536,12 +1519,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The future of phishing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-future-of-phishing?u=76281980)
+#### [The future of phishing](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-future-of-phishing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-future-of-phishing?u=76281980&t=0)** - From AOL messages to AI chatbots, phishing has made great strides, and it's obviously not going to stop there.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-future-of-phishing?u=76281980&t=0)** - From AOL messages to AI chatbots, [[Phishing]] has made great strides, and it's obviously not going to stop there.
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-future-of-phishing?u=76281980&t=8)** Currently, we're experiencing phishing attacks where deepfake technology is used to sound like a loved one is in a dire situation.
 >
@@ -1559,7 +1541,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-future-of-phishing?u=76281980&t=61)** Talk about an attacker's playground.
 >
-> **[1:03](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-future-of-phishing?u=76281980&t=63)** With generative AI, two people could be interacting, but having two different experiences.
+> **[1:03](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-future-of-phishing?u=76281980&t=63)** With [[Generative AI]], two people could be interacting, but having two different experiences.
 >
 > **[1:10](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-future-of-phishing?u=76281980&t=70)** While this type of attack may not be happening just yet, it's an indication of what's to come.
 >
@@ -1587,7 +1569,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-future-of-phishing?u=76281980&t=135)** The defenses we've talked about aren't going anywhere, and they'll protect you as long as you stay aware.
 >
-> **[2:21](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-future-of-phishing?u=76281980&t=141)** Sure, attackers will keep trying new tricks, but your friendly neighborhood cybersecurity professionals, like me, are always working on ways to stop them too.
+> **[2:21](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-future-of-phishing?u=76281980&t=141)** Sure, attackers will keep trying new tricks, but your friendly neighborhood [[Cybersecurity]] professionals, like me, are always working on ways to stop them too.
 >
 > **[2:30](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/the-future-of-phishing?u=76281980&t=150)** Instead of letting fear take over, focus on the fact that you're now more prepared than ever.
 >
@@ -1595,16 +1577,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (7), ai (4), [[Generative AI]] (1), business (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (7), [[Generative AI]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** aol (1)
 > **Speakers:** - from (1)
 
-#### Your personal phishing response kit
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/your-personal-phishing-response-kit?u=76281980)
+#### [Your personal phishing response kit](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/your-personal-phishing-response-kit?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/your-personal-phishing-response-kit?u=76281980&t=0)** - Dearest learner, we have now concluded our journey together through the ever-changing world of phishing.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/your-personal-phishing-response-kit?u=76281980&t=0)** - Dearest learner, we have now concluded our journey together through the ever-changing world of [[Phishing]].
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/your-personal-phishing-response-kit?u=76281980&t=5)** Before you go, I'd like to give you some homework.
 >
@@ -1622,7 +1603,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/your-personal-phishing-response-kit?u=76281980&t=36)** If you're stuck and don't know where to start, Cyber Collective has a personal security plan that can walk you through it.
 >
-> **[0:43](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/your-personal-phishing-response-kit?u=76281980&t=43)** And if you want more of me, follow me on LinkedIn, visit my website, and take my other cybersecurity awareness courses on malware and social engineering.
+> **[0:43](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/your-personal-phishing-response-kit?u=76281980&t=43)** And if you want more of me, follow me on [[LinkedIn]], visit my website, and take my other [[Cybersecurity]] awareness courses on malware and social engineering.
 >
 > **[0:53](https://www.linkedin.com/learning/cybersecurity-awareness-phishing-attacks-25085677/your-personal-phishing-response-kit?u=76281980&t=53)** I'm Stephanie Hadzuku, your friendly neighborhood cybersecurity professional, and it's been an honor to teach you.
 >
@@ -1636,7 +1617,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (2), [[Security]] (2), [[Cybersecurity]] (2), [[LinkedIn]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Cybersecurity]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - dearest (1)
 

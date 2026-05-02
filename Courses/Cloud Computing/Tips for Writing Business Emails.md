@@ -69,8 +69,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Email: An extension of your brand
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/email-an-extension-of-your-brand?u=76281980)
+#### [Email: An extension of your brand](https://www.linkedin.com/learning/tips-for-writing-business-emails/email-an-extension-of-your-brand?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -78,17 +77,17 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/tips-for-writing-business-emails/email-an-extension-of-your-brand?u=76281980&t=6)** Within an hour, I had hundreds of comments and stories about workplace problems that involved emails.
 >
-> **[0:13](https://www.linkedin.com/learning/tips-for-writing-business-emails/email-an-extension-of-your-brand?u=76281980&t=13)** People respond passionately when they receive emails that don't follow certain principles of business communication and email etiquette because the truth is your emails are tied to your professional brand.
+> **[0:13](https://www.linkedin.com/learning/tips-for-writing-business-emails/email-an-extension-of-your-brand?u=76281980&t=13)** People respond passionately when they receive emails that don't follow certain principles of business communication and [[Email Etiquette]] because the truth is your emails are tied to your professional brand.
 >
 > **[0:26](https://www.linkedin.com/learning/tips-for-writing-business-emails/email-an-extension-of-your-brand?u=76281980&t=26)** I'm Dr. Daisy Lovelace.
 >
 > **[0:28](https://www.linkedin.com/learning/tips-for-writing-business-emails/email-an-extension-of-your-brand?u=76281980&t=28)** I'm a business school professor and corporate consultant.
 >
-> **[0:31](https://www.linkedin.com/learning/tips-for-writing-business-emails/email-an-extension-of-your-brand?u=76281980&t=31)** If you want to make sure your emails present you in the best possible light, join me for some quick tips on LinkedIn Learning.
+> **[0:31](https://www.linkedin.com/learning/tips-for-writing-business-emails/email-an-extension-of-your-brand?u=76281980&t=31)** If you want to make sure your emails present you in the best possible light, join me for some quick tips on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Email Etiquette]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Email Etiquette]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - i (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -98,8 +97,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Select the audience for your email thoughtfully
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/select-the-audience-for-your-email-thoughtfully?u=76281980)
+#### [Select the audience for your email thoughtfully](https://www.linkedin.com/learning/tips-for-writing-business-emails/select-the-audience-for-your-email-thoughtfully?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -151,13 +149,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **UI Navigation:** select the (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - before (1)
 
-#### Time your email message intentionally
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/time-your-email-message-intentionally?u=76281980)
+#### [Time your email message intentionally](https://www.linkedin.com/learning/tips-for-writing-business-emails/time-your-email-message-intentionally?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -175,7 +171,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/tips-for-writing-business-emails/time-your-email-message-intentionally?u=76281980&t=37)** When it comes to timing your messages try to be considerate of the recipient.
 >
-> **[0:41](https://www.linkedin.com/learning/tips-for-writing-business-emails/time-your-email-message-intentionally?u=76281980&t=41)** Late night emails or messages sent while people are away from the office, can give your colleagues anxiety.
+> **[0:41](https://www.linkedin.com/learning/tips-for-writing-business-emails/time-your-email-message-intentionally?u=76281980&t=41)** Late night emails or messages sent while people are away from the [[Microsoft Office|office]], can give your colleagues anxiety.
 >
 > **[0:47](https://www.linkedin.com/learning/tips-for-writing-business-emails/time-your-email-message-intentionally?u=76281980&t=47)** Now of course, there are times when this is unavoidable, but if you're generally a person who's considerate about the timing of your emails your colleagues will be more understanding of the occasional late night or holiday email.
 >
@@ -213,12 +209,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), business (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - just (1)
 
-#### Avoid BCC mistakes
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/avoid-bcc-mistakes?u=76281980)
+#### [Avoid BCC mistakes](https://www.linkedin.com/learning/tips-for-writing-business-emails/avoid-bcc-mistakes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -288,15 +283,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), hit (1)
 > **Env Vars:** bcc (5), fyi (1)
 > **Analogies:** picture (1), for example (1)
 > **CLI Commands:** find (1)
 > **Best Practices:** general rule (1)
 > **Speakers:** - picture (1)
 
-#### Use Reply All with caution
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/use-reply-all-with-caution?u=76281980)
+#### [Use Reply All with caution](https://www.linkedin.com/learning/tips-for-writing-business-emails/use-reply-all-with-caution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -354,13 +347,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3)
 > **Definitions:** known as (1)
 > **Analogies:** picture (1)
 > **Speakers:** - picture (1)
 
-#### Three tips for a great subject line
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/three-tips-for-a-great-subject-line?u=76281980)
+#### [Three tips for a great subject line](https://www.linkedin.com/learning/tips-for-writing-business-emails/three-tips-for-a-great-subject-line?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -414,14 +405,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), business (1)
 > **UI Navigation:** go to (1), open the (1)
 > **CLI Commands:** make (1)
 > **Ports:** :00 (1)
 > **Speakers:** - you (1)
 
-#### Help email readers communicate
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/help-email-readers-communicate-22822192?u=76281980)
+#### [Help email readers communicate](https://www.linkedin.com/learning/tips-for-writing-business-emails/help-email-readers-communicate-22822192?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -451,7 +440,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/tips-for-writing-business-emails/help-email-readers-communicate-22822192?u=76281980&t=79)** I don't regularly practice this except when I'm emailing in specific global context.
 >
-> **[1:25](https://www.linkedin.com/learning/tips-for-writing-business-emails/help-email-readers-communicate-22822192?u=76281980&t=85)** For example, the closest word to my name, Daisy, in the Korean language, is the word for pig.
+> **[1:25](https://www.linkedin.com/learning/tips-for-writing-business-emails/help-email-readers-communicate-22822192?u=76281980&t=85)** For example, the closest [[Microsoft Word|word]] to my name, Daisy, in the Korean language, is the word for pig.
 >
 > **[1:32](https://www.linkedin.com/learning/tips-for-writing-business-emails/help-email-readers-communicate-22822192?u=76281980&t=92)** Since I happen to speak Korean, I make sure to spell my name out phonetically in my email signature and on my teaching slides when I'm working in that cultural context.
 >
@@ -482,8 +471,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - miscommunication (1)
 
-#### Edit your email
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/edit-your-email?u=76281980)
+#### [Edit your email](https://www.linkedin.com/learning/tips-for-writing-business-emails/edit-your-email?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -511,7 +499,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/tips-for-writing-business-emails/edit-your-email?u=76281980&t=66)** Another tip is to reread your message and do it aloud if you can.
 >
-> **[1:11](https://www.linkedin.com/learning/tips-for-writing-business-emails/edit-your-email?u=76281980&t=71)** There are times when your spelling may be accurate but it's not quite the word you want to use.
+> **[1:11](https://www.linkedin.com/learning/tips-for-writing-business-emails/edit-your-email?u=76281980&t=71)** There are times when your spelling may be accurate but it's not quite the [[Microsoft Word|word]] you want to use.
 >
 > **[1:17](https://www.linkedin.com/learning/tips-for-writing-business-emails/edit-your-email?u=76281980&t=77)** A colleague who teaches public speaking at a university in Europe told me her Dean sent her a very awkwardly worded email to let her know that her email signature listed her as a professor of public speaking but the L was missing in the word public.
 >
@@ -537,13 +525,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - at (1)
 
-#### Four grammar tips for emails
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/four-grammar-tips-for-emails?u=76281980)
+#### [Four grammar tips for emails](https://www.linkedin.com/learning/tips-for-writing-business-emails/four-grammar-tips-for-emails?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -557,7 +544,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/tips-for-writing-business-emails/four-grammar-tips-for-emails?u=76281980&t=21)** For example, this screen has a pink, purple, and gray circle on it.
 >
-> **[0:26](https://www.linkedin.com/learning/tips-for-writing-business-emails/four-grammar-tips-for-emails?u=76281980&t=26)** The second comma before the word and is the Oxford comma.
+> **[0:26](https://www.linkedin.com/learning/tips-for-writing-business-emails/four-grammar-tips-for-emails?u=76281980&t=26)** The second comma before the [[Microsoft Word|word]] and is the Oxford comma.
 >
 > **[0:30](https://www.linkedin.com/learning/tips-for-writing-business-emails/four-grammar-tips-for-emails?u=76281980&t=30)** Using it makes it easy for the reader to quickly understand your meaning.
 >
@@ -603,12 +590,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Microsoft Word|Word]] (1), parallel (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (3), picture (1)
 > **Speakers:** - knowing (1)
 
-#### Using clear and simple language in email
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/using-clear-and-simple-language-in-email?u=76281980)
+#### [Using clear and simple language in email](https://www.linkedin.com/learning/tips-for-writing-business-emails/using-clear-and-simple-language-in-email?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -636,7 +622,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/tips-for-writing-business-emails/using-clear-and-simple-language-in-email?u=76281980&t=53)** There's no need to show off how advanced your vocabulary is.
 >
-> **[0:57](https://www.linkedin.com/learning/tips-for-writing-business-emails/using-clear-and-simple-language-in-email?u=76281980&t=57)** If you can use a $1 word, there's no reason to use a $10 one.
+> **[0:57](https://www.linkedin.com/learning/tips-for-writing-business-emails/using-clear-and-simple-language-in-email?u=76281980&t=57)** If you can use a $1 [[Microsoft Word|word]], there's no reason to use a $10 one.
 >
 > **[1:02](https://www.linkedin.com/learning/tips-for-writing-business-emails/using-clear-and-simple-language-in-email?u=76281980&t=62)** Now, as someone who goes back and forth between academic and business settings, I can attest that clear and simple language is far more effective, especially in business settings.
 >
@@ -668,12 +654,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - want (1)
 
-#### Format your email for clarity
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/format-your-email-for-clarity?u=76281980)
+#### [Format your email for clarity](https://www.linkedin.com/learning/tips-for-writing-business-emails/format-your-email-for-clarity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -732,8 +717,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - we (1)
 
-#### Strike the right tone in emails
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/strike-the-right-tone-in-emails-22816279?u=76281980)
+#### [Strike the right tone in emails](https://www.linkedin.com/learning/tips-for-writing-business-emails/strike-the-right-tone-in-emails-22816279?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -791,13 +775,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), business (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - most (1)
 
-#### Phrases to avoid in email
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/phrases-to-avoid-in-email-22819215?u=76281980)
+#### [Phrases to avoid in email](https://www.linkedin.com/learning/tips-for-writing-business-emails/phrases-to-avoid-in-email-22819215?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -851,7 +833,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/tips-for-writing-business-emails/phrases-to-avoid-in-email-22819215?u=76281980&t=125)** If your original email clearly stated when you needed a response, both in the subject line and in the body, another email probably won't do the trick.
 >
-> **[2:15](https://www.linkedin.com/learning/tips-for-writing-business-emails/phrases-to-avoid-in-email-22819215?u=76281980&t=135)** Try picking up the phone or stopping by their office.
+> **[2:15](https://www.linkedin.com/learning/tips-for-writing-business-emails/phrases-to-avoid-in-email-22819215?u=76281980&t=135)** Try picking up the phone or stopping by their [[Microsoft Office|office]].
 >
 > **[2:18](https://www.linkedin.com/learning/tips-for-writing-business-emails/phrases-to-avoid-in-email-22819215?u=76281980&t=138)** If the person has forgotten to respond or is behind, this will go over better than another email.
 >
@@ -872,8 +854,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - there (1)
 
-#### Avoid these email mistakes
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/avoid-these-email-mistakes?u=76281980)
+#### [Avoid these email mistakes](https://www.linkedin.com/learning/tips-for-writing-business-emails/avoid-these-email-mistakes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -889,7 +870,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/tips-for-writing-business-emails/avoid-these-email-mistakes?u=76281980&t=26)** Save the flag for high importance if your email is actually urgent.
 >
-> **[0:31](https://www.linkedin.com/learning/tips-for-writing-business-emails/avoid-these-email-mistakes?u=76281980&t=31)** Failing to update your out-of-office message.
+> **[0:31](https://www.linkedin.com/learning/tips-for-writing-business-emails/avoid-these-email-mistakes?u=76281980&t=31)** Failing to update your out-of-[[Microsoft Office|office]] message.
 >
 > **[0:33](https://www.linkedin.com/learning/tips-for-writing-business-emails/avoid-these-email-mistakes?u=76281980&t=33)** Letting people know that you won't be in the office is helpful, but sending unnecessary messages once you return isn't.
 >
@@ -943,7 +924,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), cloud (1), next (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3)
 > **CLI Commands:** make (3), find (2)
 > **Best Practices:** general rule (1)
 > **Speakers:** - most (1)
@@ -953,8 +934,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Happy emailing
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-for-writing-business-emails/happy-emailing-22822193?u=76281980)
+#### [Happy emailing](https://www.linkedin.com/learning/tips-for-writing-business-emails/happy-emailing-22822193?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -972,7 +952,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/tips-for-writing-business-emails/happy-emailing-22822193?u=76281980&t=48)** I have several other courses in the library that will help you become a more effective communicator.
 >
-> **[0:53](https://www.linkedin.com/learning/tips-for-writing-business-emails/happy-emailing-22822193?u=76281980&t=53)** Feel free to post questions about this or any other course in the Q and A feed and connect with me on LinkedIn.
+> **[0:53](https://www.linkedin.com/learning/tips-for-writing-business-emails/happy-emailing-22822193?u=76281980&t=53)** Feel free to post questions about this or any other course in the Q and A feed and connect with me on [[LinkedIn]].
 >
 > **[1:00](https://www.linkedin.com/learning/tips-for-writing-business-emails/happy-emailing-22822193?u=76281980&t=60)** Until then, I wish you well and happy emailing.
 

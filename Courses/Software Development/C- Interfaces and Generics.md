@@ -82,8 +82,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning C#: Interfaces and generics
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/learning-c-sharp-interfaces-and-generics-23314002?u=76281980)
+#### [Learning C#: Interfaces and generics](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/learning-c-sharp-interfaces-and-generics-23314002?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -93,7 +92,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/learning-c-sharp-interfaces-and-generics-23314002?u=76281980&t=7)** Interfaces provide a way to specify a set of related behaviors that can be used by different classes.
 >
-> **[0:13](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/learning-c-sharp-interfaces-and-generics-23314002?u=76281980&t=13)** Generics give you a way of defining type safe data structures in your application without committing to a specific data type ahead of time.
+> **[0:13](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/learning-c-sharp-interfaces-and-generics-23314002?u=76281980&t=13)** Generics give you a way of defining type safe [[Data Structures]] in your application without committing to a specific data type ahead of time.
 >
 > **[0:21](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/learning-c-sharp-interfaces-and-generics-23314002?u=76281980&t=21)** These two features help prevent bugs and improve your app's performance when working with various kinds of data.
 >
@@ -103,11 +102,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), application (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1)
 > **Speakers:** - hi (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -117,11 +115,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-you-should-know?u=76281980&t=11)** If you need to brush up on basic C# knowledge, check out the Learning C# course first.
 >
-> **[0:17](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-you-should-know?u=76281980&t=17)** I'm also going to assume that you already know about common object oriented programming concepts, such as classes, methods, inheritance, and so on.
+> **[0:17](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-you-should-know?u=76281980&t=17)** I'm also going to assume that you already know about common object oriented [[Programming Concepts]], such as classes, methods, inheritance, and so on.
 >
-> **[0:25](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-you-should-know?u=76281980&t=25)** You can learn more about these concepts in the Programming Foundations: Object-Oriented Concepts course if you need to brush up.
+> **[0:25](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-you-should-know?u=76281980&t=25)** You can learn more about these concepts in the [[Programming Foundations]]: Object-Oriented Concepts course if you need to brush up.
 >
-> **[0:31](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-you-should-know?u=76281980&t=31)** You should also be familiar with certain kinds of data structures, like arrays, lists, and similar ways of working with structured information.
+> **[0:31](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-you-should-know?u=76281980&t=31)** You should also be familiar with certain kinds of [[Data Structures]], like arrays, lists, and similar ways of working with structured information.
 >
 > **[0:39](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-you-should-know?u=76281980&t=39)** Some of the examples will also use C# constructs, such as delegates.
 >
@@ -129,7 +127,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-you-should-know?u=76281980&t=49)** And finally, of course, you should know how to use an integrated development environment, or IDE, to write code and run and debug applications.
 >
-> **[0:58](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-you-should-know?u=76281980&t=58)** I'm going to use Visual Studio Code in this course, which is free and works both on Mac and Windows, but you can use another version of Visual Studio, such as the Community Edition as well, and it should just work fine.
+> **[0:58](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-you-should-know?u=76281980&t=58)** I'm going to use Visual Studio Code in this course, which is free and works both on Mac and [[Windows]], but you can use another version of Visual Studio, such as the Community Edition as well, and it should just work fine.
 >
 > **[1:10](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-you-should-know?u=76281980&t=70)** If you're not familiar with Visual Studio, consider watching Visual Studio 2019 Essential Training.
 >
@@ -137,14 +135,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming Concepts]] (1), [[Programming Foundations]] (1), data (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Programming Concepts]] (1), [[Programming Foundations]] (1), [[Data Structures]] (1), [[Windows]] (1)
 > **Tools:** visual studio (4)
 > **Analogies:** such as (4)
 > **Env Vars:** ide (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up the environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/setting-up-the-environment?u=76281980)
+#### [Setting up the environment](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/setting-up-the-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -156,13 +153,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/setting-up-the-environment?u=76281980&t=13)** You can use any code editor you want in order to complete this course, but I recommend that you either use VSCode, or you can use Visual Studio Community Edition.
 >
-> **[0:21](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/setting-up-the-environment?u=76281980&t=21)** Both IDEs are available as free downloads from Microsoft, and you can find them at this link.
+> **[0:21](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/setting-up-the-environment?u=76281980&t=21)** Both IDEs are available as free downloads from [[Microsoft]], and you can find them at this link.
 >
 > **[0:26](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/setting-up-the-environment?u=76281980&t=26)** Probably the easiest method is to use Visual Studio Community, because that will install the required .NET platform along with the editor for you.
 >
 > **[0:34](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/setting-up-the-environment?u=76281980&t=34)** Alternatively, you can install VSCode, or use any other editor, and then you can install the .NET SDK separately.
 >
-> **[0:42](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/setting-up-the-environment?u=76281980&t=42)** Now, in this course, I'm going to use VSCode because I prefer it and it's free and it works on Windows, Mac, and Linux.
+> **[0:42](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/setting-up-the-environment?u=76281980&t=42)** Now, in this course, I'm going to use VSCode because I prefer it and it's free and it works on [[Windows]], Mac, and [[Linux]].
 >
 > **[0:48](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/setting-up-the-environment?u=76281980&t=48)** If you want to use the Community Edition of Visual Studio, then come to this link.
 >
@@ -212,13 +209,13 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/setting-up-the-environment?u=76281980&t=150)** You should also place the exercise files for this course somewhere on your computer where they'll be easy to access.
 >
-> **[2:35](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/setting-up-the-environment?u=76281980&t=155)** You can download the exercise files from the GitHub repository for this course.
+> **[2:35](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/setting-up-the-environment?u=76281980&t=155)** You can download the exercise files from the [[GitHub]] repository for this course.
 >
 > **[2:39](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/setting-up-the-environment?u=76281980&t=159)** Now I've placed them on my desktop for easy access, but that's not required.
 >
 > **[2:43](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/setting-up-the-environment?u=76281980&t=163)** You can put them wherever you want on your machine.
 >
-> **[2:45](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/setting-up-the-environment?u=76281980&t=165)** Once you've installed and updated the editor that you're going to use, and you've made sure that your version of .NET is at least version five, and you have the exercise files where you want them, then you're ready to proceed with the rest of the course.
+> **[2:45](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/setting-up-the-environment?u=76281980&t=165)** Once you've installed and updated the editor that you're going to use, and you've made sure that your version of .NET is at least version five, and you have the exercise files where you want them, then you're ready to proceed with the [[Representational State Transfer (REST)|rest]] of the course.
 
 > [!info]- Semantic Content
 >
@@ -236,8 +233,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are interfaces?
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-are-interfaces?u=76281980)
+#### [What are interfaces?](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-are-interfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -253,7 +249,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-are-interfaces?u=76281980&t=27)** They describe behavior instead of discrete objects.
 >
-> **[0:30](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-are-interfaces?u=76281980&t=30)** So when a class implements an interface, it is basically saying to the rest of the program this class knows how to perform this kind of behavior.
+> **[0:30](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-are-interfaces?u=76281980&t=30)** So when a class implements an interface, it is basically saying to the [[Representational State Transfer (REST)|rest]] of the program this class knows how to perform this kind of behavior.
 >
 > **[0:38](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-are-interfaces?u=76281980&t=38)** So if I wanted different types of objects in my app to have a particular capability, like, for example, being able to encrypt their data or being able to broadcast an event when the object's data changes, I could create an interface for that behavior.
 >
@@ -293,15 +289,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Cross-References:** later in (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are generics?
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-are-generics?u=76281980)
+#### [What are generics?](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-are-generics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -331,7 +326,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-are-generics?u=76281980&t=86)** Well, that's what generics do for you.
 >
-> **[1:28](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-are-generics?u=76281980&t=88)** Generics provide the ability to instruct the compiler to restrict the contents of a wide variety of data structures, such arrays and lists, stacks, queues, and dictionaries to only permit a specific kind of data, whether it's a C# data type or a custom class of your own.
+> **[1:28](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-are-generics?u=76281980&t=88)** Generics provide the ability to instruct the compiler to restrict the contents of a wide variety of [[Data Structures]], such arrays and lists, stacks, queues, and dictionaries to only permit a specific kind of data, whether it's a C# data type or a custom class of your own.
 >
 > **[1:46](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/what-are-generics?u=76281980&t=106)** And the result is an application that is more efficient, with fewer bugs and with less code that you have to write yourself.
 >
@@ -339,7 +334,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), application (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1)
 > **Cross-References:** later in (2)
 > **Versions:** 2.0 (1)
 > **Definitions:** is an  (1)
@@ -351,8 +346,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding C# interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/understanding-c-sharp-interfaces?u=76281980)
+#### [Understanding C# interfaces](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/understanding-c-sharp-interfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -402,11 +396,11 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/understanding-c-sharp-interfaces?u=76281980&t=149)** Just think of interfaces as another tool in your C# toolbox that you can use to solve some of the programming scenarios that you might run into.
 >
-> **[2:36](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/understanding-c-sharp-interfaces?u=76281980&t=156)** In the rest of this chapter, we'll take a look at how to define and implement interfaces, and then use our newly learned skills to complete a programming challenge involving interfaces.
+> **[2:36](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/understanding-c-sharp-interfaces?u=76281980&t=156)** In the [[Representational State Transfer (REST)|rest]] of this chapter, we'll take a look at how to define and implement interfaces, and then use our newly learned skills to complete a programming challenge involving interfaces.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), application (3), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** earlier in (1)
@@ -415,8 +409,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining and implementing an interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/defining-and-implementing-an-interface?u=76281980)
+#### [Defining and implementing an interface](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/defining-and-implementing-an-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -436,7 +429,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/defining-and-implementing-an-interface?u=76281980&t=72)** So before we do anything, let's just go ahead and run what we have so far.
 >
-> **[1:17](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/defining-and-implementing-an-interface?u=76281980&t=77)** So what I'm going to do in vs code is right click on my folder and choose open in integrated terminal and if you're not using vs code, that's fine, just open the folder that your code is in, in the terminal program, on your computer, either it's windows or Mac and what I'm going to do is type dot net run.
+> **[1:17](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/defining-and-implementing-an-interface?u=76281980&t=77)** So what I'm going to do in vs code is right click on my folder and choose open in integrated terminal and if you're not using vs code, that's fine, just open the folder that your code is in, in the terminal program, on your computer, either it's [[Windows]] or Mac and what I'm going to do is type dot net run.
 >
 > **[1:37](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/defining-and-implementing-an-interface?u=76281980&t=97)** So it's going to get compiled and you can see that we've got the output here, it says, created a document with name test document, and so far so good, all right.
 >
@@ -502,14 +495,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), application (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Tools:** terminal (5), vs code (2), visual studio (1)
 > **UI Navigation:** open the (2), scroll down (1), click on (1)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interfaces and casting
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/interfaces-and-casting?u=76281980)
+#### [Interfaces and casting](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/interfaces-and-casting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -587,7 +579,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/interfaces-and-casting?u=76281980&t=231)** And you can see here that in both cases, the save and load functions are in fact being called.
 >
-> **[3:57](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/interfaces-and-casting?u=76281980&t=237)** So this kind of casting ability is really useful when you combine it with data structures like collections.
+> **[3:57](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/interfaces-and-casting?u=76281980&t=237)** So this kind of casting ability is really useful when you combine it with [[Data Structures]] like collections.
 >
 > **[4:03](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/interfaces-and-casting?u=76281980&t=243)** So for example, you might have a list of objects of various types, and you want to be able to call certain methods on them, but only if they implement a specific interface.
 >
@@ -595,15 +587,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1)
 > **Definitions:** is an  (3), is a  (3), in other words (1)
 > **Tools:** visual studio (2), terminal (2)
 > **Analogies:** for example (3)
 > **Env Vars:** net (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing multiple interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/implementing-multiple-interfaces?u=76281980)
+#### [Implementing multiple interfaces](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/implementing-multiple-interfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -653,14 +644,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (2), feature (1)
 > **CLI Commands:** make (5), dotnet (1)
 > **Tools:** terminal (2), vs code (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using explicit interface implementation
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/using-explicit-interface-implementation?u=76281980)
+#### [Using explicit interface implementation](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/using-explicit-interface-implementation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -750,15 +739,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), application (1)
 > **UI Navigation:** open the (2), scroll down (1)
 > **CLI Commands:** dotnet (1)
 > **Cross-References:** earlier in (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using .NET-defined interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/using-dot-net-defined-interfaces?u=76281980)
+#### [Using .NET-defined interfaces](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/using-dot-net-defined-interfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -770,7 +757,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/using-dot-net-defined-interfaces?u=76281980&t=19)** The IComparable and IComparer interfaces are used to compare objects to each other.
 >
-> **[0:25](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/using-dot-net-defined-interfaces?u=76281980&t=25)** By implementing these two interfaces, .NET data collection types can perform sorting operations on your objects.
+> **[0:25](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/using-dot-net-defined-interfaces?u=76281980&t=25)** By implementing these two interfaces, .NET [[Data Collection]] types can perform sorting operations on your objects.
 >
 > **[0:31](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/using-dot-net-defined-interfaces?u=76281980&t=31)** The IDisposable interface is used to implement a dispose method on your class.
 >
@@ -898,7 +885,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), application (1)
+> **Frameworks & Libraries:** [[Data Collection]] (1)
 > **Env Vars:** net (9), msdn (2)
 > **UI Navigation:** scroll down (2), click on (1)
 > **CLI Commands:** find (1)
@@ -907,8 +894,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
 
-#### Challenge: Programming C# interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/challenge-programming-c-sharp-interfaces?u=76281980)
+#### [Challenge: Programming C# interfaces](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/challenge-programming-c-sharp-interfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -938,7 +924,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/challenge-programming-c-sharp-interfaces?u=76281980&t=76)** I just, you know, it catches that condition and says, oh, that wasn't a number and asks me for input again.
 >
-> **[1:23](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/challenge-programming-c-sharp-interfaces?u=76281980&t=83)** And then finally, if I type the word exit the program exits, all right, so let's review the rules for this challenge.
+> **[1:23](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/challenge-programming-c-sharp-interfaces?u=76281980&t=83)** And then finally, if I type the [[Microsoft Word|word]] exit the program exits, all right, so let's review the rules for this challenge.
 >
 > **[1:30](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/challenge-programming-c-sharp-interfaces?u=76281980&t=90)** So for this challenge, here's what your program is going to do.
 >
@@ -962,7 +948,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Programming]] (1), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Versions:** 9.27 (1), 2.18 (1)
 > **CLI Commands:** dotnet (1)
 > **Code Identifiers:** irandomizable (1)
@@ -971,8 +957,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Programming C# interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/solution-programming-c-sharp-interfaces?u=76281980)
+#### [Solution: Programming C# interfaces](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/solution-programming-c-sharp-interfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1002,7 +987,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/solution-programming-c-sharp-interfaces?u=76281980&t=135)** Now if the conversion succeeds then I call my classes GetRandomNum function, and then I write that result out to the console window.
 >
-> **[2:27](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/solution-programming-c-sharp-interfaces?u=76281980&t=147)** And if the user types the word exit then the while condition will terminate right here, and then the code will fall through to the exit case.
+> **[2:27](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/solution-programming-c-sharp-interfaces?u=76281980&t=147)** And if the user types the [[Microsoft Word|word]] exit then the while condition will terminate right here, and then the code will fall through to the exit case.
 >
 > **[2:38](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/solution-programming-c-sharp-interfaces?u=76281980&t=158)** All right, so how did you do?
 >
@@ -1012,7 +997,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1021,12 +1006,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The benefits of generics
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/the-benefits-of-generics?u=76281980)
+#### [The benefits of generics](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/the-benefits-of-generics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/the-benefits-of-generics?u=76281980&t=0)** - As I mentioned earlier in the course, generics were introduced way back in .NET version 2.0 and they provide a way of using data structures like lists and stacks and so on, in a type-safe and more efficient way than using non-generic counterparts.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/the-benefits-of-generics?u=76281980&t=0)** - As I mentioned earlier in the course, generics were introduced way back in .NET version 2.0 and they provide a way of using [[Data Structures]] like lists and stacks and so on, in a type-safe and more efficient way than using non-generic counterparts.
 >
 > **[0:15](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/the-benefits-of-generics?u=76281980&t=15)** Now, if you're already using data structures like ArrayList in your applications which you probably aren't, it's kind of old.
 >
@@ -1150,13 +1134,13 @@ created: 2026-05-02
 >
 > **[5:35](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/the-benefits-of-generics?u=76281980&t=335)** All right, So that's a quick introduction to using Generics.
 >
-> **[5:38](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/the-benefits-of-generics?u=76281980&t=338)** In the rest of the chapter, I'll review some of the different generic data collection types that .NET provides.
+> **[5:38](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/the-benefits-of-generics?u=76281980&t=338)** In the [[Representational State Transfer (REST)|rest]] of the chapter, I'll review some of the different generic [[Data Collection]] types that .NET provides.
 >
 > **[5:43](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/the-benefits-of-generics?u=76281980&t=343)** And we'll see examples of how each one works.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), generic (8), application (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Data Collection]] (1)
 > **Tools:** terminal (4), vs code (3)
 > **Env Vars:** net (5)
 > **CLI Commands:** dotnet (3)
@@ -1165,8 +1149,7 @@ created: 2026-05-02
 > **Versions:** version 2 (1)
 > **Cross-References:** earlier in (1)
 
-#### Generic list collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/generic-list-collections?u=76281980)
+#### [Generic list collections](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/generic-list-collections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1210,7 +1193,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/generic-list-collections?u=76281980&t=114)** In the empList, I'll call the Add function to add data to the list.
 >
-> **[1:59](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/generic-list-collections?u=76281980&t=119)** And I'm going to add a new Employee and I'll add some fake data like "John Doe" and "John Doe" makes 50,000, and then I'll just copy and paste a few of these.
+> **[1:59](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/generic-list-collections?u=76281980&t=119)** And I'm going to add a new Employee and I'll add some fake data like "[[John the Ripper|John]] Doe" and "John Doe" makes 50,000, and then I'll just copy and paste a few of these.
 >
 > **[2:17](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/generic-list-collections?u=76281980&t=137)** Let's add four employees.
 >
@@ -1342,7 +1325,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (7), data (3)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (3)
 > **CLI Commands:** find (8), dotnet (4), make (1)
 > **Code Identifiers:** emplist (7), mname (4), msalary (1)
 > **Tools:** terminal (4), vs code (1)
@@ -1351,12 +1334,11 @@ created: 2026-05-02
 > **Env Vars:** msdn (1)
 > **Documentation:** the documentation (1)
 
-#### Queue and stack
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/queue-and-stack?u=76281980)
+#### [Queue and stack](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/queue-and-stack?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/queue-and-stack?u=76281980&t=0)** - [Narrator] Two other popular data structures are the stack in the queue.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/queue-and-stack?u=76281980&t=0)** - [Narrator] Two other popular [[Data Structures]] are the stack in the queue.
 >
 > **[0:03](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/queue-and-stack?u=76281980&t=3)** The stack is a last in, first out data structure, and that is the items that get pushed onto the stack last are the first ones to be popped off.
 >
@@ -1486,7 +1468,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Programming]] (2), generic (2)
+> **Frameworks & Libraries:** [[Data Structures]] (4)
 > **Definitions:** is a  (2), is called (1)
 > **Tools:** visual studio (1), terminal (1)
 > **CLI Commands:** dotnet (1)
@@ -1494,8 +1476,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Dictionary
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/dictionary?u=76281980)
+#### [Dictionary](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/dictionary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1511,7 +1492,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/dictionary?u=76281980&t=31)** Now, you can see that each of the keys is unique, but values don't have to be.
 >
-> **[0:37](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/dictionary?u=76281980&t=37)** So in this case, for example, I've got .htm and .html as keys, but they both map to the same string, which is HTML File.
+> **[0:37](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/dictionary?u=76281980&t=37)** So in this case, for example, I've got .htm and .[[HTML]] as keys, but they both map to the same string, which is HTML File.
 >
 > **[0:46](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/dictionary?u=76281980&t=46)** So, like the other generic collection classes, the dictionary has certain important properties and methods.
 >
@@ -1627,7 +1608,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[HTML]] (2), generic (2), data (2), [[Programming]] (2)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Code Identifiers:** filetypes (6)
 > **Env Vars:** css (2), html (1)
 > **File Paths:** remove.css (1)
@@ -1635,8 +1616,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Programming C# generics
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/challenge-programming-c-sharp-generics?u=76281980)
+#### [Challenge: Programming C# generics](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/challenge-programming-c-sharp-generics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1696,7 +1676,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), generic (2), next (2), [[Programming]] (1), application (1)
 > **CLI Commands:** make (2), find (1), dotnet (1)
 > **Tools:** terminal (2), vs code (1)
 > **Definitions:** is a  (2), in other words (1)
@@ -1704,9 +1683,9 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
+> **Non-Speech:** (exciting electronic music) (1)
 
-#### Solution: Programming C# generics
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/solution-programming-c-sharp-generics?u=76281980)
+#### [Solution: Programming C# generics](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/solution-programming-c-sharp-generics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1800,7 +1779,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), generic (1)
 > **CLI Commands:** find (3), make (3)
 > **Code Identifiers:** findfords (1), totalvalue (1)
 > **Definitions:** is a  (2)
@@ -1813,8 +1791,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1826,7 +1803,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/next-steps?u=76281980&t=18)** At a few points in this course, we used events and delegates, and if you want to learn more about how delegates and events work, check out the course [[C- Delegates, Events, and Lambdas]].
 >
-> **[0:28](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/next-steps?u=76281980&t=28)** We also used some collection classes, like list and dictionary, and there's a whole course that covers the collection types in C#s called, appropriately enough, C#: Collections.
+> **[0:28](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/next-steps?u=76281980&t=28)** We also used some collection classes, like list and dictionary, and there's a whole course that covers the collection types in [[C#]]s called, appropriately enough, C#: Collections.
 >
 > **[0:37](https://www.linkedin.com/learning/c-sharp-interfaces-and-generics-14335425/next-steps?u=76281980&t=37)** And if you want to see how some of these features are used in real-world applications, then take a look at the Code Clinic: C# course.
 >
@@ -1834,7 +1811,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Programming]] (1), [[C#]] (1)
+> **Frameworks & Libraries:** [[C#]] (1)
 > **Speakers:** - [joe] (1)
 
 

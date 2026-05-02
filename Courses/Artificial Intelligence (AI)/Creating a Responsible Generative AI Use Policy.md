@@ -71,12 +71,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating an effective policy for responsible AI adoption
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/creating-an-effective-policy-for-responsible-ai-adoption-24919276?u=76281980)
+#### [Creating an effective policy for responsible AI adoption](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/creating-an-effective-policy-for-responsible-ai-adoption-24919276?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/creating-an-effective-policy-for-responsible-ai-adoption-24919276?u=76281980&t=0)** - Generative AI.
+> **[0:00](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/creating-an-effective-policy-for-responsible-ai-adoption-24919276?u=76281980&t=0)** - [[Generative AI]].
 >
 > **[0:01](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/creating-an-effective-policy-for-responsible-ai-adoption-24919276?u=76281980&t=1)** It's so new and so powerful, but you need a solid AI policy for your company.
 >
@@ -90,15 +89,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (3), ai (2), management (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3)
 > **Speakers:** - generative (1)
 
-#### What to know before starting this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/what-to-know-before-starting-this-course-24915264?u=76281980)
+#### [What to know before starting this course](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/what-to-know-before-starting-this-course-24915264?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/what-to-know-before-starting-this-course-24915264?u=76281980&t=0)** - The content of this course is valuable and applicable, whether you understand generative AI's underlying technology or not.
+> **[0:00](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/what-to-know-before-starting-this-course-24915264?u=76281980&t=0)** - The content of this course is valuable and applicable, whether you understand [[Generative AI]]'s underlying technology or not.
 >
 > **[0:07](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/what-to-know-before-starting-this-course-24915264?u=76281980&t=7)** This course covers creating policy for your company regardless of whether you're using generative AI for text, image, or video generation or workflow automation.
 >
@@ -108,7 +106,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/what-to-know-before-starting-this-course-24915264?u=76281980&t=30)** These are my assumptions, my biases, and I want you to understand where I'm coming from philosophically.
 >
-> **[0:37](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/what-to-know-before-starting-this-course-24915264?u=76281980&t=37)** First of all, I do not believe artificial intelligence is going to take over the world and destroy mankind.
+> **[0:37](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/what-to-know-before-starting-this-course-24915264?u=76281980&t=37)** First of all, I do not believe [[Artificial Intelligence (AI)|artificial intelligence]] is going to take over the world and destroy mankind.
 >
 > **[0:43](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/what-to-know-before-starting-this-course-24915264?u=76281980&t=43)** It's good that we're having conversations about that, but this is not the place for those conversations.
 >
@@ -118,7 +116,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/what-to-know-before-starting-this-course-24915264?u=76281980&t=60)** I also don't think artificial intelligence is going to take your job.
 >
-> **[1:04](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/what-to-know-before-starting-this-course-24915264?u=76281980&t=64)** It will automate more and more of the tasks that you do, and that will cause some discomfort, change some workflows, and require some upskilling and retraining, but that means you'll be free to work on higher level problems than filling out forms and monitoring dashboards.
+> **[1:04](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/what-to-know-before-starting-this-course-24915264?u=76281980&t=64)** It will automate more and more of the tasks that you do, and that will cause some discomfort, change some workflows, and require some upskilling and retraining, but that means you'll be free to work on higher level problems than filling out [[Forms]] and monitoring [[Dashboards]].
 >
 > **[1:20](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/what-to-know-before-starting-this-course-24915264?u=76281980&t=80)** With that said, it's important that each company decide for itself how to regulate the application of AI and govern its use.
 >
@@ -126,7 +124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (3), ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Automation]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Forms]] (1), [[Dashboards]] (1)
 > **Speakers:** - the (1)
 
 
@@ -134,16 +132,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The rise of generative AI in the workplace
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980)
+#### [The rise of generative AI in the workplace](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=1)** - From content creation to design, coding to customer service, human resources to procurement.
+> **[0:01](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=1)** - From [[Content Creation]] to design, coding to customer service, [[Human Resources (HR)|human resources]] to procurement.
 >
-> **[0:07](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=7)** Generative AI tools are being rapidly adopted, are changing workflows, boosting productivity, and unlocking new levels of creativity, and new ways to stay competitive.
+> **[0:07](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=7)** [[Generative AI Tools]] are being rapidly adopted, are changing workflows, boosting productivity, and unlocking new levels of creativity, and new ways to stay competitive.
 >
-> **[0:19](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=19)** In order to get buy-in that an AI policy is needed, you're going to need to explain why generative AI is making such a splash, so more people in your organization will be willing to participate in the creation of a policy.
+> **[0:19](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=19)** In order to get buy-in that an AI policy is needed, you're going to need to explain why [[Generative AI]] is making such a splash, so more people in your organization will be willing to participate in the creation of a policy.
 >
 > **[0:34](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=34)** This video is a primer on how to explain generative AI to your executives, so they appreciate the need, and to your colleagues, so they will participate in the creation of your policy and abide by it willingly.
 >
@@ -157,7 +154,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=65)** That's deterministic computing.
 >
-> **[1:08](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=68)** Then we started automating statistical analysis, predictive analytics.
+> **[1:08](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=68)** Then we started automating [[Statistical Analysis]], [[Predictive Analytics]].
 >
 > **[1:13](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=73)** We started with deterministic computing and added probabilistic computing.
 >
@@ -169,17 +166,17 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=88)** What would be the best price for this item for this person at this time?
 >
-> **[1:33](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=93)** All based on statistics.
+> **[1:33](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=93)** All based on [[Statistics]].
 >
-> **[1:35](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=95)** Then, data scientists combined programming and statistical analysis to generate new things, text, images, videos, and, seemingly, overnight, it actually took decades, we have brand new tools that offer automated content, blog posts, newsletters, user manuals, personalized email campaigns.
+> **[1:35](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=95)** Then, data scientists combined programming and statistical analysis to generate new things, text, images, videos, and, seemingly, overnight, it actually took decades, we have brand new tools that offer automated content, blog posts, [[Newsletters]], user manuals, personalized email campaigns.
 >
-> **[1:58](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=118)** Customer support; chatbots for 24/7 customer service, and dynamic frequently asked questions documents.
+> **[1:58](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=118)** [[Customer Support]]; chatbots for 24/7 customer service, and dynamic frequently asked questions documents.
 >
-> **[2:06](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=126)** Design and creative; graphic design, video editing, prototype creation.
+> **[2:06](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=126)** Design and creative; [[Graphic Design]], video editing, prototype creation.
 >
-> **[2:10](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=130)** Software development; code, debugging assistant, documentation.
+> **[2:10](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=130)** [[Software Development]]; code, debugging assistant, documentation.
 >
-> **[2:16](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=136)** R&D; hypotheses, simulations, literature reviews, data analysis, and so much more, like language translation, meeting and documentation summarization, personalized professional development plans, process and workflow optimization.
+> **[2:16](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=136)** R&D; hypotheses, simulations, literature reviews, data analysis, and so much more, like language translation, meeting and documentation summarization, personalized professional development plans, process and [[Workflow Optimization]].
 >
 > **[2:31](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=151)** The list goes on.
 >
@@ -191,7 +188,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=177)** Instant convert.
 >
-> **[2:59](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=179)** By leveraging generative AI across these areas, a company can enhance efficiency, reduce costs, innovate faster, and provide better products and services to customers, ultimately, driving growth and competitive advantage.
+> **[2:59](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=179)** By leveraging generative AI across these areas, a company can enhance efficiency, reduce costs, innovate faster, and provide better [[Microsoft Products|products]] and services to customers, ultimately, driving growth and competitive advantage.
 >
 > **[3:15](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-rise-of-generative-ai-in-the-workplace-24914443?u=76281980&t=195)** So you need to be a bit of an AI cheerleader, an advocate, an evangelist.
 >
@@ -207,24 +204,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (5), ai (4), [[Statistical Analysis]] (2), data (2), [[Content Creation]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Statistical Analysis]] (2), [[Content Creation]] (1), [[Human Resources (HR)|Human resources]] (1), [[Generative AI Tools]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - from (1)
 
-#### Risks and challenges of unregulated AI use
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/risks-and-challenges-of-unregulated-ai-use-24917281?u=76281980)
+#### [Risks and challenges of unregulated AI use](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/risks-and-challenges-of-unregulated-ai-use-24917281?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/risks-and-challenges-of-unregulated-ai-use-24917281?u=76281980&t=0)** - [Instructor] It's no surprise that large companies are eager to jump on the generative AI bandwagon, but adopting these tools without proper guidance and governance is like giving the keys to a Ferrari to a teenager who just got their learner's permit.
+> **[0:00](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/risks-and-challenges-of-unregulated-ai-use-24917281?u=76281980&t=0)** - [Instructor] It's no surprise that large companies are eager to jump on the [[Generative AI]] bandwagon, but adopting these tools without proper guidance and governance is like giving the keys to a Ferrari to a teenager who just got their learner's permit.
 >
 > **[0:13](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/risks-and-challenges-of-unregulated-ai-use-24917281?u=76281980&t=13)** It's exciting, but it's not a great idea.
 >
 > **[0:16](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/risks-and-challenges-of-unregulated-ai-use-24917281?u=76281980&t=16)** That's why having a solid generative AI policy is crucial.
 >
-> **[0:21](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/risks-and-challenges-of-unregulated-ai-use-24917281?u=76281980&t=21)** After watching this video, you'll be able to identify key risks associated with unregulated use, and will be able to communicate the importance of a comprehensive AI use policy to the rest of your organization.
+> **[0:21](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/risks-and-challenges-of-unregulated-ai-use-24917281?u=76281980&t=21)** After watching this video, you'll be able to identify key risks associated with unregulated use, and will be able to communicate the importance of a comprehensive AI use policy to the [[Representational State Transfer (REST)|rest]] of your organization.
 >
 > **[0:34](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/risks-and-challenges-of-unregulated-ai-use-24917281?u=76281980&t=34)** Left unchecked, generative AI can open a Pandora's box of ethical, legal, operational, and reputational issues.
 >
@@ -232,7 +228,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/risks-and-challenges-of-unregulated-ai-use-24917281?u=76281980&t=51)** So, where do the dangers lurk?
 >
-> **[0:53](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/risks-and-challenges-of-unregulated-ai-use-24917281?u=76281980&t=53)** Data privacy and security violations, intellectual property problems, bias and discrimination blowback, misinformation distribution, even HR blunders.
+> **[0:53](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/risks-and-challenges-of-unregulated-ai-use-24917281?u=76281980&t=53)** [[Data Privacy]] and security violations, intellectual property problems, bias and discrimination blowback, misinformation distribution, even HR blunders.
 >
 > **[1:04](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/risks-and-challenges-of-unregulated-ai-use-24917281?u=76281980&t=64)** Let's start with data privacy and security.
 >
@@ -248,7 +244,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/risks-and-challenges-of-unregulated-ai-use-24917281?u=76281980&t=100)** Can employees claim authorship for work produced by AI?
 >
-> **[1:44](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/risks-and-challenges-of-unregulated-ai-use-24917281?u=76281980&t=104)** The US Copyright Office has determined that AI-generated output is not eligible for copyright protection, as they lack human authorship.
+> **[1:44](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/risks-and-challenges-of-unregulated-ai-use-24917281?u=76281980&t=104)** The US Copyright [[Microsoft Office|Office]] has determined that AI-generated output is not eligible for copyright protection, as they lack human authorship.
 >
 > **[1:54](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/risks-and-challenges-of-unregulated-ai-use-24917281?u=76281980&t=114)** There is ongoing debate and legislation about whether using copyrighted material to train AI models constitutes fair use.
 >
@@ -280,25 +276,24 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/risks-and-challenges-of-unregulated-ai-use-24917281?u=76281980&t=220)** Many of these risks can be mitigated through a well-crafted generative AI policy.
 >
-> **[3:46](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/risks-and-challenges-of-unregulated-ai-use-24917281?u=76281980&t=226)** By setting clear guidelines, establishing accountability, and promoting responsible AI use, companies can reap the benefits of these powerful tools while minimizing potential harms.
+> **[3:46](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/risks-and-challenges-of-unregulated-ai-use-24917281?u=76281980&t=226)** By setting clear guidelines, establishing [[Accountability]], and promoting [[Responsible AI]] use, companies can reap the benefits of these powerful tools while minimizing potential harms.
 >
 > **[3:58](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/risks-and-challenges-of-unregulated-ai-use-24917281?u=76281980&t=238)** You're now set up to successfully make the case and sway your colleagues that an AI policy is a good idea for the whole company.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Generative AI]] (8), data (6), [[Privacy]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (8), [[Data Privacy]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Office|Office]] (1), [[Accountability]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### The role of a generative AI policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-role-of-a-generative-ai-policy-24921181?u=76281980)
+#### [The role of a generative AI policy](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-role-of-a-generative-ai-policy-24921181?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-role-of-a-generative-ai-policy-24921181?u=76281980&t=0)** - Picture a ship sailing on a vast ocean of generative AI.
+> **[0:00](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-role-of-a-generative-ai-policy-24921181?u=76281980&t=0)** - Picture a ship sailing on a vast ocean of [[Generative AI]].
 >
 > **[0:04](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-role-of-a-generative-ai-policy-24921181?u=76281980&t=4)** The crew is excited about the adventure, eager to explore new territories and discover new treasures.
 >
@@ -314,11 +309,11 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-role-of-a-generative-ai-policy-24921181?u=76281980&t=51)** What does it actually do?"
 >
-> **[0:54](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-role-of-a-generative-ai-policy-24921181?u=76281980&t=54)** At its core, a generative AI policy serves three critical functions, risk mitigation, compliance and accountability, and innovation stimulation.
+> **[0:54](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-role-of-a-generative-ai-policy-24921181?u=76281980&t=54)** At its core, a generative AI policy serves three critical functions, risk mitigation, compliance and [[Accountability]], and innovation stimulation.
 >
 > **[1:05](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-role-of-a-generative-ai-policy-24921181?u=76281980&t=65)** It's all about what is forbidden, what is allowed, what is required, what is encouraged, and what is celebrated.
 >
-> **[1:12](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-role-of-a-generative-ai-policy-24921181?u=76281980&t=72)** By setting clear guidelines and boundaries for AI use, a policy helps mitigate potential generative AI risks, like data privacy breaches, intellectual property issues, and reputational damage.
+> **[1:12](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-role-of-a-generative-ai-policy-24921181?u=76281980&t=72)** By setting clear guidelines and boundaries for AI use, a policy helps mitigate potential generative AI risks, like [[Data Privacy]] breaches, intellectual property issues, and reputational damage.
 >
 > **[1:25](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-role-of-a-generative-ai-policy-24921181?u=76281980&t=85)** It's like a shield that protects your company from potential harms, but it doesn't do any good unless people comply.
 >
@@ -336,11 +331,11 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-role-of-a-generative-ai-policy-24921181?u=76281980&t=138)** But the benefits of a generative AI policy go beyond just managing risks and enabling innovation.
 >
-> **[2:24](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-role-of-a-generative-ai-policy-24921181?u=76281980&t=144)** It's also about building trust, trust with your employees, with your customers, and with the wider public.
+> **[2:24](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-role-of-a-generative-ai-policy-24921181?u=76281980&t=144)** It's also about [[Building Trust]], trust with your employees, with your customers, and with the wider public.
 >
-> **[2:30](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-role-of-a-generative-ai-policy-24921181?u=76281980&t=150)** By demonstrating a commitment to responsible AI use, you show your company values, transparency, accountability, and ethical behavior.
+> **[2:30](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-role-of-a-generative-ai-policy-24921181?u=76281980&t=150)** By demonstrating a commitment to [[Responsible AI]] use, you show your company values, transparency, accountability, and ethical behavior.
 >
-> **[2:39](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-role-of-a-generative-ai-policy-24921181?u=76281980&t=159)** It's like Apple who's gone out of their way to signal their dedication to users' privacy.
+> **[2:39](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-role-of-a-generative-ai-policy-24921181?u=76281980&t=159)** It's like Apple who's gone out of their way to signal their dedication to users' [[Privacy]].
 >
 > **[2:44](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-role-of-a-generative-ai-policy-24921181?u=76281980&t=164)** A solid AI policy can enhance your reputation, attract top talent, and strengthen customer loyalty.
 >
@@ -356,7 +351,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-role-of-a-generative-ai-policy-24921181?u=76281980&t=204)** So, take a moment to reflect on your organization's current AI landscape.
 >
-> **[3:29](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-role-of-a-generative-ai-policy-24921181?u=76281980&t=209)** What benefits do you hope to gain from generative AI that the rest of the company will align behind?
+> **[3:29](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-role-of-a-generative-ai-policy-24921181?u=76281980&t=209)** What benefits do you hope to gain from generative AI that the [[Representational State Transfer (REST)|rest]] of the company will align behind?
 >
 > **[3:35](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-role-of-a-generative-ai-policy-24921181?u=76281980&t=215)** What risks or challenges keep everybody up at night?
 >
@@ -364,7 +359,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (9), ai (8), [[Accountability]] (3), data (2), [[Privacy]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (9), [[Accountability]] (3), [[Data Privacy]] (2), [[Building Trust]] (1), [[Responsible AI]] (1)
 > **Analogies:** it's like (2), picture (1)
 > **Speakers:** - picture (1)
 
@@ -373,8 +368,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Assessing your company's AI readiness
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/assessing-your-company-s-ai-readiness-24914442?u=76281980)
+#### [Assessing your company's AI readiness](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/assessing-your-company-s-ai-readiness-24914442?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -394,7 +388,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/assessing-your-company-s-ai-readiness-24914442?u=76281980&t=55)** How are they being used and by whom?
 >
-> **[0:57](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/assessing-your-company-s-ai-readiness-24914442?u=76281980&t=57)** Is it mostly in the marketing department, or are they also being leveraged by Human Resources or customer service or Research and Development?
+> **[0:57](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/assessing-your-company-s-ai-readiness-24914442?u=76281980&t=57)** Is it mostly in the marketing department, or are they also being leveraged by [[Human Resources (HR)|Human Resources]] or customer service or Research and Development?
 >
 > **[1:05](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/assessing-your-company-s-ai-readiness-24914442?u=76281980&t=65)** Has AI already increased productivity, or improved customer satisfaction?
 >
@@ -428,7 +422,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/assessing-your-company-s-ai-readiness-24914442?u=76281980&t=165)** Furthermore, you'll need a handle on ethical and legal considerations, data readiness and IT infrastructure, skills gap analysis, vendor and tool evaluation, and long-term vision and strategy alignment.
 >
-> **[3:01](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/assessing-your-company-s-ai-readiness-24914442?u=76281980&t=181)** Any legal, ethical or compliance-related challenges your organization may face might come from specific regulations like from healthcare, finance, or legal sectors, or their privacy or compliance concerns related to the data being used.
+> **[3:01](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/assessing-your-company-s-ai-readiness-24914442?u=76281980&t=181)** Any legal, ethical or compliance-related challenges your organization may face might come from specific regulations like from healthcare, finance, or legal sectors, or their [[Privacy]] or compliance concerns related to the data being used.
 >
 > **[3:16](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/assessing-your-company-s-ai-readiness-24914442?u=76281980&t=196)** AI needs all the data it can get, so the availability, quality, and accessibility of your organization's data is an important part of creating a policy about the use of AI.
 >
@@ -438,7 +432,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/assessing-your-company-s-ai-readiness-24914442?u=76281980&t=217)** Is your IT infrastructure sufficiently resourced to support AI projects?
 >
-> **[3:43](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/assessing-your-company-s-ai-readiness-24914442?u=76281980&t=223)** What sort of rules do you need around cloud services, data storage solutions and security to handle AI processing?
+> **[3:43](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/assessing-your-company-s-ai-readiness-24914442?u=76281980&t=223)** What sort of rules do you need around [[Cloud Services]], [[Data Storage]] solutions and security to handle AI processing?
 >
 > **[3:50](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/assessing-your-company-s-ai-readiness-24914442?u=76281980&t=230)** Policy will also be needed around education and training.
 >
@@ -446,7 +440,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/assessing-your-company-s-ai-readiness-24914442?u=76281980&t=237)** How much control will your company want to enforce over who can use what sort of AI with what data for what purpose?
 >
-> **[4:05](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/assessing-your-company-s-ai-readiness-24914442?u=76281980&t=245)** Your procurement department will want to have a say about the maturity of generative AI vendors or tools that are being considered.
+> **[4:05](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/assessing-your-company-s-ai-readiness-24914442?u=76281980&t=245)** Your procurement department will want to have a say about the maturity of [[Generative AI]] vendors or tools that are being considered.
 >
 > **[4:13](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/assessing-your-company-s-ai-readiness-24914442?u=76281980&t=253)** How will you go about assessing the tools to ensure they align with your company's goals and constraints?
 >
@@ -460,7 +454,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), data (8), [[Security]] (2), [[Human Resources (HR)|Human resources]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1), [[Privacy]] (1), [[Cloud Services]] (1), [[Data Storage]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** swot (1)
@@ -468,8 +462,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying key stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/identifying-key-stakeholders-24917280?u=76281980)
+#### [Identifying key stakeholders](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/identifying-key-stakeholders-24917280?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -489,7 +482,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/identifying-key-stakeholders-24917280?u=76281980&t=59)** How receptive are they?
 >
-> **[1:01](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/identifying-key-stakeholders-24917280?u=76281980&t=61)** Some people are terrified of generative AI, while others can't wait to use it for everything.
+> **[1:01](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/identifying-key-stakeholders-24917280?u=76281980&t=61)** Some people are terrified of [[Generative AI]], while others can't wait to use it for everything.
 >
 > **[1:06](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/identifying-key-stakeholders-24917280?u=76281980&t=66)** Review the degrees of openness to change questionnaire and modify it to fit your establishment.
 >
@@ -501,7 +494,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/identifying-key-stakeholders-24917280?u=76281980&t=97)** Next, you'll want to involve representatives from key functional areas that are likely to be impacted by generative AI.
 >
-> **[1:44](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/identifying-key-stakeholders-24917280?u=76281980&t=104)** IT and data governance teams are responsible for managing your company's technical foundation.
+> **[1:44](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/identifying-key-stakeholders-24917280?u=76281980&t=104)** IT and [[Data Governance]] teams are responsible for managing your company's technical foundation.
 >
 > **[1:50](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/identifying-key-stakeholders-24917280?u=76281980&t=110)** Everything from software systems, to data sets and security protocols.
 >
@@ -509,7 +502,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/identifying-key-stakeholders-24917280?u=76281980&t=117)** The same is true of your legal and compliance teams.
 >
-> **[2:01](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/identifying-key-stakeholders-24917280?u=76281980&t=121)** In fact, there might be people in your company who can force the rest of you to abide by a policy that just says, don't.
+> **[2:01](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/identifying-key-stakeholders-24917280?u=76281980&t=121)** In fact, there might be people in your company who can force the [[Representational State Transfer (REST)|rest]] of you to abide by a policy that just says, don't.
 >
 > **[2:08](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/identifying-key-stakeholders-24917280?u=76281980&t=128)** You need to know who they are and how to mollify them.
 >
@@ -547,7 +540,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/identifying-key-stakeholders-24917280?u=76281980&t=246)** Some respond well to formal meetings, others prefer more discussions or online forums, and some might be all-in only if you address them one-on-one.
 >
-> **[4:15](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/identifying-key-stakeholders-24917280?u=76281980&t=255)** Consider workshops or webinars, newsletters, even posters in the hallway, or even direct mail.
+> **[4:15](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/identifying-key-stakeholders-24917280?u=76281980&t=255)** Consider workshops or webinars, [[Newsletters]], even posters in the hallway, or even direct mail.
 >
 > **[4:23](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/identifying-key-stakeholders-24917280?u=76281980&t=263)** However you transmit this information, do it regularly, and keep people informed about the whole policy development process, timelines, milestones, and the opportunities for input.
 >
@@ -563,7 +556,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/identifying-key-stakeholders-24917280?u=76281980&t=290)** The perspectives that need to be included.
 >
-> **[4:54](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/identifying-key-stakeholders-24917280?u=76281980&t=294)** Building trust, transparency, and practicing active listening throughout the stakeholder engagement process is the foundation of a successful creation of an AI policy.
+> **[4:54](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/identifying-key-stakeholders-24917280?u=76281980&t=294)** [[Building Trust]], transparency, and practicing active listening throughout the [[Stakeholder Engagement]] process is the foundation of a successful creation of an AI policy.
 >
 > **[5:06](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/identifying-key-stakeholders-24917280?u=76281980&t=306)** Now you're set.
 >
@@ -571,14 +564,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Generative AI]] (4), data (3), functional (2), hr (2)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Data Governance]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Newsletters]] (1), [[Building Trust]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - involving (1)
 
-#### Aligning AI policy with company values and goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/aligning-ai-policy-with-company-values-and-goals-24917283?u=76281980)
+#### [Aligning AI policy with company values and goals](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/aligning-ai-policy-with-company-values-and-goals-24917283?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -600,7 +592,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/aligning-ai-policy-with-company-values-and-goals-24917283?u=76281980&t=53)** Fashion your internal policy PR campaign around those topics.
 >
-> **[0:58](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/aligning-ai-policy-with-company-values-and-goals-24917283?u=76281980&t=58)** This is not selling generative AI.
+> **[0:58](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/aligning-ai-policy-with-company-values-and-goals-24917283?u=76281980&t=58)** This is not selling [[Generative AI]].
 >
 > **[1:00](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/aligning-ai-policy-with-company-values-and-goals-24917283?u=76281980&t=60)** This is selling the need to provide a clear policy.
 >
@@ -608,7 +600,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/aligning-ai-policy-with-company-values-and-goals-24917283?u=76281980&t=71)** For example, let's say that one of your company's core values is customer centricity.
 >
-> **[1:17](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/aligning-ai-policy-with-company-values-and-goals-24917283?u=76281980&t=77)** If so, everything you do from product development to marketing, to customer service is driven by a relentless focus on customer needs.
+> **[1:17](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/aligning-ai-policy-with-company-values-and-goals-24917283?u=76281980&t=77)** If so, everything you do from [[Product Development]] to marketing, to customer service is driven by a relentless focus on customer needs.
 >
 > **[1:26](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/aligning-ai-policy-with-company-values-and-goals-24917283?u=76281980&t=86)** In this case, your AI policy PR campaign should prioritize the use of generative AI to enhance the customer experience, while also ensuring that customer data is protected and used ethically.
 >
@@ -626,7 +618,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Generative AI]] (3), data (2), management (1), business (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Product Development]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -638,14 +630,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Define acceptable use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/define-acceptable-use-cases-24915265?u=76281980)
+#### [Define acceptable use cases](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/define-acceptable-use-cases-24915265?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/define-acceptable-use-cases-24915265?u=76281980&t=0)** - [Instructor] Acceptable use cases are the bread and butter of your policy.
 >
-> **[0:04](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/define-acceptable-use-cases-24915265?u=76281980&t=4)** They specify exactly when, how, and for what purposes generative AI can be used within your organization.
+> **[0:04](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/define-acceptable-use-cases-24915265?u=76281980&t=4)** They specify exactly when, how, and for what purposes [[Generative AI]] can be used within your organization.
 >
 > **[0:10](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/define-acceptable-use-cases-24915265?u=76281980&t=10)** They're reference examples.
 >
@@ -661,7 +652,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/define-acceptable-use-cases-24915265?u=76281980&t=44)** What are the pain points or opportunities that AI can address?
 >
-> **[0:49](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/define-acceptable-use-cases-24915265?u=76281980&t=49)** If you work for an e-commerce company, think about use cases like content creation, product descriptions, blog posts, social media posts, frequently asked questions pages, troubleshooting guides.
+> **[0:49](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/define-acceptable-use-cases-24915265?u=76281980&t=49)** If you work for an [[E-Commerce]] company, think about use cases like [[Content Creation]], product descriptions, blog posts, social media posts, frequently asked questions pages, troubleshooting guides.
 >
 > **[1:00](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/define-acceptable-use-cases-24915265?u=76281980&t=60)** Look at customer service chatbots to handle routine issues so human customer service reps can focus on complex issues.
 >
@@ -673,7 +664,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/define-acceptable-use-cases-24915265?u=76281980&t=90)** You work for a manufacturing company?
 >
-> **[1:32](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/define-acceptable-use-cases-24915265?u=76281980&t=92)** How about using generative AI to analyze sensor data to predict when maintenance is needed, or maybe forecasting demand, optimizing inventory levels, and streamlining the supply chain?
+> **[1:32](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/define-acceptable-use-cases-24915265?u=76281980&t=92)** How about using generative AI to analyze sensor data to predict when maintenance is needed, or maybe [[Forecasting]] demand, optimizing inventory levels, and streamlining the supply chain?
 >
 > **[1:43](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/define-acceptable-use-cases-24915265?u=76281980&t=103)** Here's a great place to start.
 >
@@ -687,7 +678,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/define-acceptable-use-cases-24915265?u=76281980&t=129)** Best use cases for network optimization technician at a telco?
 >
-> **[2:13](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/define-acceptable-use-cases-24915265?u=76281980&t=133)** Performance monitoring, network troubleshooting, team coordination.
+> **[2:13](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/define-acceptable-use-cases-24915265?u=76281980&t=133)** Performance monitoring, [[Network Troubleshooting]], team coordination.
 >
 > **[2:18](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/define-acceptable-use-cases-24915265?u=76281980&t=138)** The key is to start with a deep understanding of your company's context, goals, and pain points, then identify where AI can drive the most value at the lowest risk.
 >
@@ -717,28 +708,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Generative AI]] (5), data (3), management (2), teams (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[E-Commerce]] (1), [[Content Creation]] (1), [[Forecasting]] (1), [[Network Troubleshooting]] (1)
 > **CLI Commands:** rails (1), find (1)
 > **Env Vars:** gpt (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data privacy and security measures
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980)
+#### [Data privacy and security measures](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=0)** - [Narrator] When it comes to generative AI, data is the lifeblood of these systems and safeguarding that data is essential in terms of privacy, security, and ethics.
+> **[0:00](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=0)** - [Narrator] When it comes to [[Generative AI]], data is the lifeblood of these systems and safeguarding that data is essential in terms of [[Privacy]], security, and [[Ethics]].
 >
-> **[0:10](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=10)** Data privacy refers to the collection and use of personal or sensitive information.
+> **[0:10](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=10)** [[Data Privacy]] refers to the collection and use of personal or sensitive information.
 >
-> **[0:15](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=15)** Data security is about protecting that data from unauthorized access.
+> **[0:15](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=15)** [[Data Security]] is about protecting that data from unauthorized access.
 >
-> **[0:20](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=20)** And data ethics refers to the moral principles around data collection, analysis, and use.
+> **[0:20](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=20)** And [[Data Ethics]] refers to the moral principles around [[Data Collection]], analysis, and use.
 >
 > **[0:26](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=26)** Ethics is about the broader societal implications and potential harms of data practices.
 >
-> **[0:33](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=33)** Generative AI systems rely on vast amounts of data from publicly available data websites, social media, news articles, proprietary data, personally identifiable information, transaction sensitive business data, and user contributed data like forms, feedback, preferences.
+> **[0:33](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=33)** Generative AI systems rely on vast amounts of data from publicly available data websites, social media, news articles, proprietary data, personally identifiable information, transaction sensitive business data, and user contributed data like [[Forms]], feedback, preferences.
 >
 > **[0:54](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=54)** Each type has its own set of privacy and security considerations.
 >
@@ -748,9 +738,9 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=80)** User-generated data might also face regulations like GDPR or CCPA, which mandate explicit consent and a tough one, the right to be forgotten.
 >
-> **[1:31](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=91)** That means your AI policy has to have clear guidelines for data governance.
+> **[1:31](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=91)** That means your AI policy has to have clear guidelines for [[Data Governance]].
 >
-> **[1:36](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=96)** You'll need to work with your IT department, your legal team, and your data governance people to do things like define roles and responsibilities for data management, establish data classification and labeling processes, implement technical and organizational safeguards, develop process for data retention and disposal, and create response plans and procedures if things go south.
+> **[1:36](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=96)** You'll need to work with your IT department, your legal team, and your data governance people to do things like define roles and responsibilities for [[Data Management]], establish [[Data Classification]] and labeling processes, implement technical and organizational safeguards, develop process for data retention and disposal, and create response plans and procedures if things go south.
 >
 > **[2:01](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=121)** Data governance is also about creating a culture of data responsibility.
 >
@@ -764,11 +754,11 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=164)** Check out the Data Governance Institute, Data Governance Professionals Organization, or the "Data Management Book of Knowledge" from the Data Management Association International.
 >
-> **[2:56](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=176)** Remember, data privacy and security are ongoing processes that require continuous monitoring, improvement, and adaptation.
+> **[2:56](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=176)** Remember, data privacy and security are ongoing processes that require [[Continuous Monitoring]], improvement, and adaptation.
 >
 > **[3:04](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=184)** It's not a one and done deal beyond protecting assets.
 >
-> **[3:08](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=188)** Responsible AI is about safeguarding values and promoting fairness.
+> **[3:08](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=188)** [[Responsible AI]] is about safeguarding values and promoting fairness.
 >
 > **[3:14](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=194)** This is where ethical guidelines and bias mitigation come in.
 >
@@ -784,9 +774,9 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=225)** One increasingly important area is referred to as explainability of your AI systems.
 >
-> **[3:51](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=231)** If you're trusting AI to decide things like credit score and loan approvals, or medical diagnosis and drug interaction notices, or monitoring regulatory compliance, you must be able to show how the machine came to the conclusion it did and show that it's safe and trustworthy.
+> **[3:51](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=231)** If you're trusting AI to decide things like credit score and loan approvals, or medical diagnosis and drug interaction notices, or monitoring [[Regulatory Compliance]], you must be able to show how the machine came to the conclusion it did and show that it's safe and trustworthy.
 >
-> **[4:09](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=249)** Your ethical guidelines should encompass key principles such as fairness and non-discrimination, transparency, accountability and responsibility, and social benefit.
+> **[4:09](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=249)** Your ethical guidelines should encompass key principles such as fairness and non-discrimination, transparency, [[Accountability]] and responsibility, and social benefit.
 >
 > **[4:20](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=260)** Operationalize these through concrete practices like having an AI ethics board and conducting audits and having processes for handling AI complaints or incidents of data breaches.
 >
@@ -822,7 +812,7 @@ created: 2026-05-02
 >
 > **[6:14](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=374)** When it comes to generative AI, ethics and responsibility aren't just nice to have.
 >
-> **[6:19](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=379)** They're essential for long-term success and sustainability.
+> **[6:19](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=379)** They're essential for long-term success and [[Sustainability]].
 >
 > **[6:23](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/data-privacy-and-security-measures-24915260?u=76281980&t=383)** By putting ethics at the heart of your AI policy, you ensure that your organization is not just doing well, but also doing good.
 >
@@ -844,7 +834,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (37), ai (21), [[Ethics]] (9), [[Privacy]] (6), [[Security]] (5)
+> **Frameworks & Libraries:** [[Ethics]] (8), [[Data Governance]] (8), [[Generative AI]] (4), [[Privacy]] (3), [[Data Privacy]] (3)
 > **Env Vars:** hipaa (1), gdpr (1), ccpa (1)
 > **Prerequisites:** you'll need (2), set up (1)
 > **Definitions:** refers to (2)
@@ -853,12 +843,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Intellectual property considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/intellectual-property-considerations-24921180?u=76281980)
+#### [Intellectual property considerations](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/intellectual-property-considerations-24921180?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/intellectual-property-considerations-24921180?u=76281980&t=0)** - [Instructor] One of the things that put a sudden stop on companies using generative AI in general, and ChatGPT in particular was the concern about copyright and intellectual property.
+> **[0:00](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/intellectual-property-considerations-24921180?u=76281980&t=0)** - [Instructor] One of the things that put a sudden stop on companies using [[Generative AI]] in general, and [[ChatGPT]] in particular was the concern about copyright and intellectual property.
 >
 > **[0:11](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/intellectual-property-considerations-24921180?u=76281980&t=11)** Watching this video will prepare you to explain and discuss these ideas with your colleagues so you can establish policies about both of them in an informed way.
 >
@@ -868,7 +857,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/intellectual-property-considerations-24921180?u=76281980&t=32)** OpenAI says it's fair use because they used it just like humans do, reading the material and using it to inform their output.
 >
-> **[0:40](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/intellectual-property-considerations-24921180?u=76281980&t=40)** Second, the US Copyright Office currently only recognize copyright for works, quote, created by a human being, unquote.
+> **[0:40](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/intellectual-property-considerations-24921180?u=76281980&t=40)** Second, the US Copyright [[Microsoft Office|Office]] currently only recognize copyright for works, quote, created by a human being, unquote.
 >
 > **[0:49](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/intellectual-property-considerations-24921180?u=76281980&t=49)** The intellectual property problem comes into play here.
 >
@@ -904,7 +893,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/intellectual-property-considerations-24921180?u=76281980&t=181)** To ensure ethical and responsible use of training data, your AI policy should include guidelines for getting necessary licenses and permissions for using third party data in AI training and development.
 >
-> **[3:15](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/intellectual-property-considerations-24921180?u=76281980&t=195)** Direct your corporate counsel to the world intellectual property organizations postings on artificial intelligence and intellectual property policy.
+> **[3:15](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/intellectual-property-considerations-24921180?u=76281980&t=195)** Direct your corporate counsel to the world intellectual property organizations postings on [[Artificial Intelligence (AI)|artificial intelligence]] and intellectual property policy.
 >
 > **[3:25](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/intellectual-property-considerations-24921180?u=76281980&t=205)** They have published guidelines for managing IP in the context of AI, including a checklist for IP policy development, and a database of AI-related IP cases and decisions.
 >
@@ -922,19 +911,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Generative AI]] (5), data (3), [[ChatGPT]] (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[ChatGPT]] (2), [[Microsoft Office|Office]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** just like (1)
 > **Warnings:** caution (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Vendor and tool assessment criteria
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/vendor-tool-assessment-criteria-24918251?u=76281980)
+#### [Vendor and tool assessment criteria](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/vendor-tool-assessment-criteria-24918251?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/vendor-tool-assessment-criteria-24918251?u=76281980&t=0)** - [Instructor] Bringing generative AI capabilities into your company depends on selecting the right vendors and tools, and it's a little bit more than just features and pricing.
+> **[0:00](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/vendor-tool-assessment-criteria-24918251?u=76281980&t=0)** - [Instructor] Bringing [[Generative AI]] capabilities into your company depends on selecting the right vendors and tools, and it's a little bit more than just features and pricing.
 >
 > **[0:09](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/vendor-tool-assessment-criteria-24918251?u=76281980&t=9)** It's about finding partners who align with your values and risk tolerance.
 >
@@ -944,7 +932,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/vendor-tool-assessment-criteria-24918251?u=76281980&t=26)** It's too much to ask the purchasing department to understand where AI is at any given moment, or to research which tools fit any given use case, or select from thousands of AI tools.
 >
-> **[0:39](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/vendor-tool-assessment-criteria-24918251?u=76281980&t=39)** The people with their hands on the work at the coalface should be responsible for figuring out how AI can help them, and that will direct them toward which products should be considered.
+> **[0:39](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/vendor-tool-assessment-criteria-24918251?u=76281980&t=39)** The people with their hands on the work at the coalface should be responsible for figuring out how AI can help them, and that will direct them toward which [[Microsoft Products|products]] should be considered.
 >
 > **[0:51](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/vendor-tool-assessment-criteria-24918251?u=76281980&t=51)** Then you need clear guidelines and criteria for tool selection.
 >
@@ -958,7 +946,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/vendor-tool-assessment-criteria-24918251?u=76281980&t=79)** This is a task that requires hard evidence from independent sources as well as conversations with current users and not just the referrals you get from vendors, they're always going to be happy.
 >
-> **[1:31](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/vendor-tool-assessment-criteria-24918251?u=76281980&t=91)** Your policy should instruct your staff to reach out on social media like LinkedIn and ask for firsthand input.
+> **[1:31](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/vendor-tool-assessment-criteria-24918251?u=76281980&t=91)** Your policy should instruct your staff to reach out on social media like [[LinkedIn]] and ask for firsthand input.
 >
 > **[1:39](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/vendor-tool-assessment-criteria-24918251?u=76281980&t=99)** Include criteria for each vendor's track record.
 >
@@ -966,7 +954,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/vendor-tool-assessment-criteria-24918251?u=76281980&t=106)** Are they a one trick pony with a handful of customers, or is this an additional AI feature added onto a major system you're already using and have been for years?
 >
-> **[1:56](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/vendor-tool-assessment-criteria-24918251?u=76281980&t=116)** Your policy should also include instructions for evaluating vendors commitment to privacy and security.
+> **[1:56](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/vendor-tool-assessment-criteria-24918251?u=76281980&t=116)** Your policy should also include instructions for evaluating vendors commitment to [[Privacy]] and security.
 >
 > **[2:02](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/vendor-tool-assessment-criteria-24918251?u=76281980&t=122)** They need to be as serious about it as you are.
 >
@@ -1000,7 +988,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Generative AI]] (2), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1), feature (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1), [[Privacy]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1009,8 +997,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Drafting the policy document
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/drafting-the-policy-document-24917282?u=76281980)
+#### [Drafting the policy document](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/drafting-the-policy-document-24917282?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1050,7 +1037,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/drafting-the-policy-document-24917282?u=76281980&t=99)** Then it's time to get down to creating a logical sequence of sections and use a consistent structure and format throughout your document.
 >
-> **[1:47](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/drafting-the-policy-document-24917282?u=76281980&t=107)** Your policy doc should include definitions and terminology, acceptable and prohibited use cases, data privacy, and security measures, intellectual property considerations, ethical guidelines, and bias mitigation, rules and responsibility, compliance and enforcement mechanisms, and review and update processes.
+> **[1:47](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/drafting-the-policy-document-24917282?u=76281980&t=107)** Your policy doc should include definitions and terminology, acceptable and prohibited use cases, [[Data Privacy]], and security measures, intellectual property considerations, ethical guidelines, and bias mitigation, rules and responsibility, compliance and enforcement mechanisms, and review and update processes.
 >
 > **[2:13](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/drafting-the-policy-document-24917282?u=76281980&t=133)** This is a reference manual, so in each section include headings, subheadings, and bullet points.
 >
@@ -1078,13 +1065,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), data (1), [[Privacy]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The review and approval process
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-review-and-approval-process-24915263?u=76281980)
+#### [The review and approval process](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-review-and-approval-process-24915263?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1156,7 +1142,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-review-and-approval-process-24915263?u=76281980&t=181)** They'll ensure everything is legally sound and aligns with regulations and your organization's tolerance for risk.
 >
-> **[3:07](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-review-and-approval-process-24915263?u=76281980&t=187)** The last hurdle is getting the thumbs up from senior leadership, your CEO, your chief operations officer, chief information officer, human resources, and whomever else is most important at your company.
+> **[3:07](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-review-and-approval-process-24915263?u=76281980&t=187)** The last hurdle is getting the thumbs up from senior leadership, your CEO, your chief operations officer, chief information officer, [[Human Resources (HR)|human resources]], and whomever else is most important at your company.
 >
 > **[3:20](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-review-and-approval-process-24915263?u=76281980&t=200)** Depending on your corporation's culture, this could be a formal presentation or a simple sign off.
 >
@@ -1170,7 +1156,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-review-and-approval-process-24915263?u=76281980&t=228)** This builds trust.
 >
-> **[3:50](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-review-and-approval-process-24915263?u=76281980&t=230)** It also surfaces potential issues early and creates a sense of shared ownership and accountability.
+> **[3:50](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-review-and-approval-process-24915263?u=76281980&t=230)** It also surfaces potential issues early and creates a sense of shared ownership and [[Accountability]].
 >
 > **[3:57](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-review-and-approval-process-24915263?u=76281980&t=237)** Be prepared to educate and advocate.
 >
@@ -1188,7 +1174,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-review-and-approval-process-24915263?u=76281980&t=271)** Use data and case studies to illustrate the importance of your AI policy.
 >
-> **[4:34](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-review-and-approval-process-24915263?u=76281980&t=274)** You might cite industry benchmarks or best practices around AI governance and ethics, or provide examples of AI failures or controversies in the news that highlight the risks of not having a policy, or having a policy that is not adhered to.
+> **[4:34](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-review-and-approval-process-24915263?u=76281980&t=274)** You might cite industry benchmarks or best practices around [[AI Governance]] and [[Ethics]], or provide examples of AI failures or controversies in the news that highlight the risks of not having a policy, or having a policy that is not adhered to.
 >
 > **[4:50](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/the-review-and-approval-process-24915263?u=76281980&t=290)** You might collect case studies of others who've successfully implemented AI policies and seen positive results.
 >
@@ -1226,15 +1212,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), next (2), data (2), hit (1), hr (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1), [[Accountability]] (1), [[AI Governance]] (1), [[Ethics]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
-#### Communication and training strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/communication-and-training-strategies-24914440?u=76281980)
+#### [Communication and training strategies](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/communication-and-training-strategies-24914440?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1254,7 +1239,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/communication-and-training-strategies-24914440?u=76281980&t=47)** It shows everybody that this is a priority, not just a tick box.
 >
-> **[0:51](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/communication-and-training-strategies-24914440?u=76281980&t=51)** Encourage your executive sponsors and senior leaders to lead by example to point out whenever they refer back to the policy in their decision-making.
+> **[0:51](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/communication-and-training-strategies-24914440?u=76281980&t=51)** Encourage your executive sponsors and senior leaders to lead by example to point out whenever they refer back to the policy in their [[Decision-Making]].
 >
 > **[1:00](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/communication-and-training-strategies-24914440?u=76281980&t=60)** While the higher ups are promoting the AI use policy, your communication style for delivering the content and instructions for use should be simple, straightforward, and super easy to understand.
 >
@@ -1262,7 +1247,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/communication-and-training-strategies-24914440?u=76281980&t=77)** A variety of channels and formats to reach different audiences and learning styles might include some of the following.
 >
-> **[1:25](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/communication-and-training-strategies-24914440?u=76281980&t=85)** Email announcements and newsletters, intranet posts and resources, town hall meetings and presentations, videos and multimedia content, posters, flyers, and other visual aids, social media and collaboration platforms.
+> **[1:25](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/communication-and-training-strategies-24914440?u=76281980&t=85)** Email announcements and [[Newsletters]], intranet posts and resources, town hall meetings and presentations, videos and multimedia content, posters, flyers, and other visual aids, social media and collaboration platforms.
 >
 > **[1:40](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/communication-and-training-strategies-24914440?u=76281980&t=100)** If all that sounds like a full-blown marketing and PR campaign, you are right on the money.
 >
@@ -1272,7 +1257,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/communication-and-training-strategies-24914440?u=76281980&t=111)** It should be ongoing and iterative and involve regular updates and reminders, as well as opportunities for employees to ask questions and provide feedback.
 >
-> **[2:02](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/communication-and-training-strategies-24914440?u=76281980&t=122)** That's how you get the word out and keep the policy top of mind.
+> **[2:02](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/communication-and-training-strategies-24914440?u=76281980&t=122)** That's how you get the [[Microsoft Word|word]] out and keep the policy top of mind.
 >
 > **[2:06](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/communication-and-training-strategies-24914440?u=76281980&t=126)** You also need training and support for your employees, so they learn how to apply the policy in practice and have the skills and knowledge they need to actually use AI responsibly and ethically.
 >
@@ -1306,7 +1291,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), leadership (2), game (1), [[Decision-Making]] (1), [[Newsletters]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1), [[Newsletters]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1316,8 +1301,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Establishing monitoring mechanisms
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980)
+#### [Establishing monitoring mechanisms](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1325,7 +1309,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980&t=7)** On the one hand, your official policy protects your organization as an institution.
 >
-> **[0:12](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980&t=12)** If somebody does something egregious with generative AI, with their superpowers, the company can hold up its hands and say, "That was just a rogue employee.
+> **[0:12](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980&t=12)** If somebody does something egregious with [[Generative AI]], with their superpowers, the company can hold up its hands and say, "That was just a rogue employee.
 >
 > **[0:22](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980&t=22)** It wasn't us, they did that against our policy."
 >
@@ -1333,7 +1317,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980&t=41)** In this video, you'll learn how to establish clear metrics, leverage existing systems, and communicate transparently about AI activities.
 >
-> **[0:50](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980&t=50)** By implementing these monitoring practices, you'll be able to build trust and use your AI use policy to create a culture of responsible AI use.
+> **[0:50](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980&t=50)** By implementing these monitoring practices, you'll be able to build trust and use your AI use policy to create a culture of [[Responsible AI]] use.
 >
 > **[1:00](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980&t=60)** It all starts with monitoring.
 >
@@ -1345,7 +1329,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980&t=81)** You do it too aggressively, and you can create a surveillance culture of distrust and micromanagement, a sense of Big Brother is watching.
 >
-> **[1:29](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980&t=89)** But if done well and with the right intentions, it can actually help build trust through transparency and accountability.
+> **[1:29](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980&t=89)** But if done well and with the right intentions, it can actually help build trust through transparency and [[Accountability]].
 >
 > **[1:37](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980&t=97)** The key is to establish monitoring mechanisms that are clear, consistent, and focused on learning and improvement, rather than control and punishment.
 >
@@ -1359,7 +1343,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980&t=126)** How often, for what?
 >
-> **[2:08](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980&t=128)** The very reasonable explanation is that even at $20 a month, or $35 if you're using Microsoft Copilot, if you buy a license for everybody in the company and only half the people are using it more than a couple of times a month, that gets expensive.
+> **[2:08](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980&t=128)** The very reasonable explanation is that even at $20 a month, or $35 if you're using [[Microsoft Copilot]], if you buy a license for everybody in the company and only half the people are using it more than a couple of times a month, that gets expensive.
 >
 > **[2:25](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980&t=145)** You also want to watch how well your AI systems are performing.
 >
@@ -1393,7 +1377,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980&t=197)** From the tools themselves to start with.
 >
-> **[3:20](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980&t=200)** For example, through the Microsoft 365 admin center, you can see Microsoft Copilot usage analytics, like how many people completed at least one Copilot action and counts of unique active users per specific Copilot feature.
+> **[3:20](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980&t=200)** For example, through the [[Microsoft 365]] admin center, you can see Microsoft Copilot usage analytics, like how many people completed at least one [[Microsoft Copilot|Copilot]] action and counts of unique active users per specific Copilot feature.
 >
 > **[3:36](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980&t=216)** It's got trend lines of weekly actions and month-over-month changes.
 >
@@ -1407,7 +1391,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980&t=247)** This is an internal public relations effort.
 >
-> **[4:11](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980&t=251)** You want to show regular reports and dashboards to senior executives and keep them up to speed and engaged.
+> **[4:11](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980&t=251)** You want to show regular reports and [[Dashboards]] to senior executives and keep them up to speed and engaged.
 >
 > **[4:18](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/establishing-monitoring-mechanisms-24919275?u=76281980&t=258)** Another level of more detailed reports help individual employees understand how AI use is being monitored.
 >
@@ -1431,7 +1415,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Responsible AI]] (2), [[Accountability]] (2), [[Microsoft Copilot]] (2), [[Microsoft Copilot|Copilot]] (2)
+> **Frameworks & Libraries:** [[Responsible AI]] (2), [[Accountability]] (2), [[Microsoft Copilot]] (2), [[Microsoft Copilot|Copilot]] (2), [[Generative AI]] (1)
 > **Prerequisites:** you need to have (2)
 > **UI Navigation:** checkbox (1)
 > **Definitions:** is an  (1)
@@ -1439,14 +1423,13 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - an (1)
 
-#### Your AI ethics committee
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/your-ai-ethics-committee-24920240?u=76281980)
+#### [Your AI ethics committee](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/your-ai-ethics-committee-24920240?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/your-ai-ethics-committee-24920240?u=76281980&t=0)** - [Narrator] To truly embed responsible AI practices into your organization's DNA, you need a dedicated group of individuals who are empowered to oversee, guide, and govern your AI activities.
+> **[0:00](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/your-ai-ethics-committee-24920240?u=76281980&t=0)** - [Narrator] To truly embed [[Responsible AI]] practices into your organization's DNA, you need a dedicated group of individuals who are empowered to oversee, guide, and govern your AI activities.
 >
-> **[0:12](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/your-ai-ethics-committee-24920240?u=76281980&t=12)** In other words, you need an AI ethics committee.
+> **[0:12](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/your-ai-ethics-committee-24920240?u=76281980&t=12)** In other words, you need an AI [[Ethics]] committee.
 >
 > **[0:15](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/your-ai-ethics-committee-24920240?u=76281980&t=15)** By the end of this video, you'll be able to design a diverse and empowered committee, establish clear roles and responsibilities, and implement transparent communication practices.
 >
@@ -1460,7 +1443,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/your-ai-ethics-committee-24920240?u=76281980&t=61)** This committee needs clear roles and responsibilities.
 >
-> **[1:04](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/your-ai-ethics-committee-24920240?u=76281980&t=64)** You start with a committee chair who leads the effort and sets the agenda, a secretary to document meetings and decisions with the help of AI, of course, task force leaders and then liaisons who engage with the rest of the organization.
+> **[1:04](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/your-ai-ethics-committee-24920240?u=76281980&t=64)** You start with a committee chair who leads the effort and sets the agenda, a secretary to document meetings and decisions with the help of AI, of course, task force leaders and then liaisons who engage with the [[Representational State Transfer (REST)|rest]] of the organization.
 >
 > **[1:20](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/your-ai-ethics-committee-24920240?u=76281980&t=80)** They will benefit from a regular cadence of meetings.
 >
@@ -1470,13 +1453,13 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/your-ai-ethics-committee-24920240?u=76281980&t=99)** To be effective, your AI ethics committee needs to have genuine decision making authority.
 >
-> **[1:46](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/your-ai-ethics-committee-24920240?u=76281980&t=106)** That means they're empowered to make binding decisions about specific AI use cases or projects, setting guidelines for data collection and use, and handing out penalties for policy violations or unethical behavior.
+> **[1:46](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/your-ai-ethics-committee-24920240?u=76281980&t=106)** That means they're empowered to make binding decisions about specific AI use cases or projects, setting guidelines for [[Data Collection]] and use, and handing out penalties for policy violations or unethical behavior.
 >
 > **[2:02](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/your-ai-ethics-committee-24920240?u=76281980&t=122)** All this work should be transparent to the rest of the organization.
 >
 > **[2:05](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/your-ai-ethics-committee-24920240?u=76281980&t=125)** You don't want people to feel that they are the secret police, but a vocal, visible part of the process of getting the best out of AI.
 >
-> **[2:12](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/your-ai-ethics-committee-24920240?u=76281980&t=132)** Remember, your AI use policy is about building trust and accountability.
+> **[2:12](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/your-ai-ethics-committee-24920240?u=76281980&t=132)** Remember, your AI use policy is about [[Building Trust]] and [[Accountability]].
 >
 > **[2:18](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/your-ai-ethics-committee-24920240?u=76281980&t=138)** In a nutshell, you should strive for diversity and inclusivity, establish clear roles and responsibilities, have them meet regularly and communicate often.
 >
@@ -1484,20 +1467,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Ethics]] (6), [[Representational State Transfer (REST)|Rest]] (2), [[Responsible AI]] (1), data (1)
+> **Frameworks & Libraries:** [[Ethics]] (6), [[Representational State Transfer (REST)|Rest]] (2), [[Responsible AI]] (1), [[Data Collection]] (1), [[Building Trust]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** dna (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [narrator] (1)
 
-#### Enforcement and consequences
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/enforcement-and-consequences-24920239?u=76281980)
+#### [Enforcement and consequences](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/enforcement-and-consequences-24920239?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/enforcement-and-consequences-24920239?u=76281980&t=0)** - [Narrator] To ensure that your AI policy is being followed, you need to have clear processes in place for investigating and addressing violations and breaches.
 >
-> **[0:09](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/enforcement-and-consequences-24920239?u=76281980&t=9)** Now, the word enforcement sounds like heavy-duty policing, but enforcement is not about punishment.
+> **[0:09](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/enforcement-and-consequences-24920239?u=76281980&t=9)** Now, the [[Microsoft Word|word]] enforcement sounds like heavy-duty policing, but enforcement is not about punishment.
 >
 > **[0:17](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/enforcement-and-consequences-24920239?u=76281980&t=17)** It's about getting your AI policy to be taken seriously and that there are real consequences for ignoring it.
 >
@@ -1511,9 +1493,9 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/enforcement-and-consequences-24920239?u=76281980&t=70)** That's on the reporting side.
 >
-> **[1:12](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/enforcement-and-consequences-24920239?u=76281980&t=72)** On the deterrent side, Ethan Mollick, Professor of Entrepreneurship at the Wharton School, warns that your rules need to stay current.
+> **[1:12](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/enforcement-and-consequences-24920239?u=76281980&t=72)** On the deterrent side, Ethan Mollick, Professor of [[Entrepreneurship]] at the Wharton School, warns that your rules need to stay current.
 >
-> **[1:21](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/enforcement-and-consequences-24920239?u=76281980&t=81)** For example, large language models weren't released with privacy controls, but privacy controls have been added, so those concerns aren't a big deal anymore.
+> **[1:21](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/enforcement-and-consequences-24920239?u=76281980&t=81)** For example, [[Large Language Models (LLM)|large language models]] weren't released with [[Privacy]] controls, but privacy controls have been added, so those concerns aren't a big deal anymore.
 >
 > **[1:30](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/enforcement-and-consequences-24920239?u=76281980&t=90)** But employees, and I quote, "Are afraid of punishment "for ill-defined mistakes."
 >
@@ -1533,7 +1515,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/enforcement-and-consequences-24920239?u=76281980&t=161)** And the ultimate consequence is termination of employment, and everyone is held to the same standards.
 >
-> **[2:47](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/enforcement-and-consequences-24920239?u=76281980&t=167)** It's about accountability and integrity.
+> **[2:47](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/enforcement-and-consequences-24920239?u=76281980&t=167)** It's about [[Accountability]] and integrity.
 >
 > **[2:51](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/enforcement-and-consequences-24920239?u=76281980&t=171)** When not on the front lines of correcting offenders, the enforcement task force is responsible for identifying patterns or trends in AI misuse.
 >
@@ -1549,7 +1531,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Privacy]] (2), [[Microsoft Word|Word]] (1), web (1), [[Entrepreneurship]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Microsoft Word|Word]] (1), [[Entrepreneurship]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Accountability]] (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** you need to have (1), set up (1), you'll need (1)
 > **Analogies:** for example (1)
@@ -1561,12 +1543,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Staying current with tech
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/staying-current-with-tech-24916279?u=76281980)
+#### [Staying current with tech](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/staying-current-with-tech-24916279?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/staying-current-with-tech-24916279?u=76281980&t=0)** - [Instructor] One of the things we know for sure about generative AI is how quickly the technology changes.
+> **[0:00](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/staying-current-with-tech-24916279?u=76281980&t=0)** - [Instructor] One of the things we know for sure about [[Generative AI]] is how quickly the technology changes.
 >
 > **[0:05](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/staying-current-with-tech-24916279?u=76281980&t=5)** New tools, new techniques, new capabilities lead to new ethical considerations.
 >
@@ -1580,7 +1561,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/staying-current-with-tech-24916279?u=76281980&t=34)** Monthly would be best.
 >
-> **[0:37](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/staying-current-with-tech-24916279?u=76281980&t=37)** Your AI Ethics Committee, even if it's just one person is on the hook.
+> **[0:37](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/staying-current-with-tech-24916279?u=76281980&t=37)** Your AI [[Ethics]] Committee, even if it's just one person is on the hook.
 >
 > **[0:41](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/staying-current-with-tech-24916279?u=76281980&t=41)** They have the responsibility for updates, and are considered the designated policy owner.
 >
@@ -1590,7 +1571,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/staying-current-with-tech-24916279?u=76281980&t=64)** So, you need your finger on the pulse of the AI industry, proactively monitoring research, tools and applications.
 >
-> **[1:12](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/staying-current-with-tech-24916279?u=76281980&t=72)** The policy owner should be working closely with your AI Council, which should be subscribing to industry blogs and newsletters and podcasts, and going to conferences and webinars and workshops.
+> **[1:12](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/staying-current-with-tech-24916279?u=76281980&t=72)** The policy owner should be working closely with your AI Council, which should be subscribing to industry blogs and [[Newsletters]] and podcasts, and going to conferences and webinars and workshops.
 >
 > **[1:23](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/staying-current-with-tech-24916279?u=76281980&t=83)** The policy owner should also be keeping up with what's happening inside the company.
 >
@@ -1618,13 +1599,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Generative AI]] (1), [[Ethics]] (1), [[Newsletters]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Ethics]] (1), [[Newsletters]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adapting to regulatory changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/adapting-to-regulatory-changes-24914441?u=76281980)
+#### [Adapting to regulatory changes](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/adapting-to-regulatory-changes-24914441?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1640,7 +1620,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/adapting-to-regulatory-changes-24914441?u=76281980&t=29)** What matters to your colleagues is what your company rules are.
 >
-> **[0:33](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/adapting-to-regulatory-changes-24914441?u=76281980&t=33)** After this video, you'll be able to assert that your AI policies are not just internally coherent and stakeholder-driven, but also externally aligned to the wider world of AI governance.
+> **[0:33](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/adapting-to-regulatory-changes-24914441?u=76281980&t=33)** After this video, you'll be able to assert that your AI policies are not just internally coherent and stakeholder-driven, but also externally aligned to the wider world of [[AI Governance]].
 >
 > **[0:46](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/adapting-to-regulatory-changes-24914441?u=76281980&t=46)** To do that, you'll need to set up a consistent method for monitoring and tracking regulatory developments.
 >
@@ -1678,7 +1658,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), power (1)
+> **Frameworks & Libraries:** [[AI Governance]] (1)
 > **Prerequisites:** you'll need (1), set up (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** make sure to (1)
@@ -1689,8 +1669,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps on the path to success with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/next-steps-on-the-path-to-success-with-ai-24915262?u=76281980)
+#### [Next steps on the path to success with AI](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/next-steps-on-the-path-to-success-with-ai-24915262?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1720,7 +1699,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/next-steps-on-the-path-to-success-with-ai-24915262?u=76281980&t=59)** Convince people that their input is valuable and valued.
 >
-> **[1:04](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/next-steps-on-the-path-to-success-with-ai-24915262?u=76281980&t=64)** It doesn't hurt to tell them that, "The designation contributor to corporate AI use policy "looks really good on their LinkedIn profile."
+> **[1:04](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/next-steps-on-the-path-to-success-with-ai-24915262?u=76281980&t=64)** It doesn't hurt to tell them that, "The designation contributor to corporate AI use policy "looks really good on their [[LinkedIn]] profile."
 >
 > **[1:11](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/next-steps-on-the-path-to-success-with-ai-24915262?u=76281980&t=71)** Once your policy is in place, get serious about enforcing it.
 >
@@ -1730,15 +1709,15 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/next-steps-on-the-path-to-success-with-ai-24915262?u=76281980&t=84)** Don't let it gather dust on a shelf.
 >
-> **[1:26](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/next-steps-on-the-path-to-success-with-ai-24915262?u=76281980&t=86)** Keep it top of mind through robust training and meaningful accountability.
+> **[1:26](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/next-steps-on-the-path-to-success-with-ai-24915262?u=76281980&t=86)** Keep it top of mind through robust training and meaningful [[Accountability]].
 >
-> **[1:32](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/next-steps-on-the-path-to-success-with-ai-24915262?u=76281980&t=92)** Stay agile.
+> **[1:32](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/next-steps-on-the-path-to-success-with-ai-24915262?u=76281980&t=92)** Stay [[Agile Development|agile]].
 >
 > **[1:34](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/next-steps-on-the-path-to-success-with-ai-24915262?u=76281980&t=94)** Always review, revise, and update it as new technologies and new regulations pop up.
 >
 > **[1:39](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/next-steps-on-the-path-to-success-with-ai-24915262?u=76281980&t=99)** Find others who are going down the same path that you are and get help from and offer help to others.
 >
-> **[1:46](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/next-steps-on-the-path-to-success-with-ai-24915262?u=76281980&t=106)** Contribute to a broader community around responsible AI use and governance.
+> **[1:46](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/next-steps-on-the-path-to-success-with-ai-24915262?u=76281980&t=106)** Contribute to a broader community around [[Responsible AI]] use and governance.
 >
 > **[1:51](https://www.linkedin.com/learning/creating-a-responsible-generative-ai-use-policy/next-steps-on-the-path-to-success-with-ai-24915262?u=76281980&t=111)** Write posts about your efforts and give presentations at conferences.
 >
@@ -1752,7 +1731,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), business (1), [[LinkedIn]] (1), [[Accountability]] (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Accountability]] (1), [[Agile Development|Agile]] (1), [[Responsible AI]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)

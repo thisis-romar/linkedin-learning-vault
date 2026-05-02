@@ -84,14 +84,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leveraging Excel for financial planning & analysis (FP&A)
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/leveraging-excel-for-financial-planning-analysis-fp-a?u=76281980)
+#### [Leveraging Excel for financial planning & analysis (FP&A)](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/leveraging-excel-for-financial-planning-analysis-fp-a?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/leveraging-excel-for-financial-planning-analysis-fp-a?u=76281980&t=0)** - Financial Planning and Analysis, or FP&A, is one of the fastest growing in in-demand roles in corporate finance.
+> **[0:00](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/leveraging-excel-for-financial-planning-analysis-fp-a?u=76281980&t=0)** - [[Financial Planning]] and Analysis, or FP&A, is one of the fastest growing in in-demand roles in [[Corporate Finance]].
 >
-> **[0:06](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/leveraging-excel-for-financial-planning-analysis-fp-a?u=76281980&t=6)** And Excel is one of the most widely used finance tools on the planet, but the problem is many people in FP&A don't truly know what Excel is capable of.
+> **[0:06](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/leveraging-excel-for-financial-planning-analysis-fp-a?u=76281980&t=6)** And [[Microsoft Excel|Excel]] is one of the most widely used finance tools on the planet, but the problem is many people in FP&A don't truly know what Excel is capable of.
 >
 > **[0:16](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/leveraging-excel-for-financial-planning-analysis-fp-a?u=76281980&t=16)** They default to the handful of functions that they know how to use.
 >
@@ -107,7 +106,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Financial Planning]] (1), [[Corporate Finance]] (1), business (1), career (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Financial Planning]] (1), [[Corporate Finance]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - financial (1)
 
@@ -116,18 +115,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is financial planning & analysis (FP&A)?
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/what-is-financial-planning-analysis-fp-a?u=76281980)
+#### [What is financial planning & analysis (FP&A)?](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/what-is-financial-planning-analysis-fp-a?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/what-is-financial-planning-analysis-fp-a?u=76281980&t=0)** - [Narrator] FP&A is one of the fastest growing, valuable, yet, underperforming domains in finance.
 >
-> **[0:06](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/what-is-financial-planning-analysis-fp-a?u=76281980&t=6)** While Excel is the most universally used, loved, and misunderstood finance tools on the planet.
+> **[0:06](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/what-is-financial-planning-analysis-fp-a?u=76281980&t=6)** While [[Microsoft Excel|Excel]] is the most universally used, loved, and misunderstood finance tools on the planet.
 >
 > **[0:13](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/what-is-financial-planning-analysis-fp-a?u=76281980&t=13)** The love and frustration of the tool within FP&A makes this training course, "Excel for FP&A," with a core focus on dynamics so important and relevant today.
 >
-> **[0:24](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/what-is-financial-planning-analysis-fp-a?u=76281980&t=24)** So let's begin by defining what financial planning and analysis, or FP&A is, why it's so important, and how it's notably different from traditional finance and accounting roles.
+> **[0:24](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/what-is-financial-planning-analysis-fp-a?u=76281980&t=24)** So let's begin by defining what [[Financial Planning]] and analysis, or FP&A is, why it's so important, and how it's notably different from traditional finance and accounting roles.
 >
 > **[0:36](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/what-is-financial-planning-analysis-fp-a?u=76281980&t=36)** If you were to take the roles and responsibilities of a high functioning chief financial officer, or CFO, and sprinkle them among a team of finance professionals, you would have financial planning and analysis, or FP&A.
 >
@@ -139,7 +137,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/what-is-financial-planning-analysis-fp-a?u=76281980&t=78)** So, how does modern FP&A compare to accounting and finance of the past?
 >
-> **[1:23](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/what-is-financial-planning-analysis-fp-a?u=76281980&t=83)** Well, in the past accounting and finance were focused on historical data and reporting, compliance, controllership, budgeting, forecasting, analysis, managing the systems, transactions and more.
+> **[1:23](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/what-is-financial-planning-analysis-fp-a?u=76281980&t=83)** Well, in the past accounting and finance were focused on historical data and reporting, compliance, controllership, budgeting, [[Forecasting]], analysis, managing the systems, transactions and more.
 >
 > **[1:35](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/what-is-financial-planning-analysis-fp-a?u=76281980&t=95)** You might be thinking, well, isn't that what FP&A's do today?
 >
@@ -147,7 +145,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/what-is-financial-planning-analysis-fp-a?u=76281980&t=101)** Because today, FP&A's work both with the overall picture of the company as well as individual functions within it.
 >
-> **[1:49](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/what-is-financial-planning-analysis-fp-a?u=76281980&t=109)** Verticals, like sales, marketing, human resources, and supply chain now have financial planning and analysis entrenched within them.
+> **[1:49](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/what-is-financial-planning-analysis-fp-a?u=76281980&t=109)** Verticals, like sales, marketing, [[Human Resources (HR)|human resources]], and supply chain now have financial planning and analysis entrenched within them.
 >
 > **[1:58](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/what-is-financial-planning-analysis-fp-a?u=76281980&t=118)** The business environment has become increasingly more complicated and sophisticated, so the need for speed in decision making has increased dramatically.
 >
@@ -155,7 +153,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/what-is-financial-planning-analysis-fp-a?u=76281980&t=133)** Information flows to FP&A from other functional groups, while financial intelligence and decision support flows from FP&A to those other functional groups.
 >
-> **[2:26](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/what-is-financial-planning-analysis-fp-a?u=76281980&t=146)** Being in this unique position, FPA has the responsibility for understanding the financial implications of business operations.
+> **[2:26](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/what-is-financial-planning-analysis-fp-a?u=76281980&t=146)** Being in this unique position, FPA has the responsibility for understanding the financial implications of [[Business Operations]].
 >
 > **[2:37](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/what-is-financial-planning-analysis-fp-a?u=76281980&t=157)** FP&A serves as a liaison, and in some ways, sits in a position almost like they're at the top of an air traffic control tower, relating to others across the entire organization in a way most other non-financial functions do not.
 >
@@ -163,14 +161,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Planning]] (3), data (3), business (3), [[Microsoft Excel|Excel]] (2), functional (2)
+> **Frameworks & Libraries:** [[Financial Planning]] (3), [[Microsoft Excel|Excel]] (2), [[Forecasting]] (1), [[Human Resources (HR)|Human resources]] (1), [[Business Operations]] (1)
 > **Env Vars:** cfo (1), fpa (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [narrator] (1)
 
-#### Excel in FP&A, management consulting and investment banking
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/excel-in-fp-a-management-consulting-and-investment-banking?u=76281980)
+#### [Excel in FP&A, management consulting and investment banking](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/excel-in-fp-a-management-consulting-and-investment-banking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -198,7 +195,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/excel-in-fp-a-management-consulting-and-investment-banking?u=76281980&t=101)** So instead of being the clothing company or the manufacturer, imagine being the company that sells the purchasing software that the manufacturer or clothing company use.
 >
-> **[1:52](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/excel-in-fp-a-management-consulting-and-investment-banking?u=76281980&t=112)** FP&A at a software as a service company, commonly referred to as SaaS, is going to track monthly recurring revenue, average revenue per customer, the cost of new customer acquisition, and existing customer churn or fall-off.
+> **[1:52](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/excel-in-fp-a-management-consulting-and-investment-banking?u=76281980&t=112)** FP&A at a [[SaaS|software as a service]] company, commonly referred to as [[SaaS]], is going to track monthly recurring revenue, average revenue per customer, the cost of new customer acquisition, and existing customer churn or fall-off.
 >
 > **[2:08](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/excel-in-fp-a-management-consulting-and-investment-banking?u=76281980&t=128)** Even management consulting firms have FP&A models where FP&A is analyzing billable hours, staff utilization and engagement profitability.
 >
@@ -208,30 +205,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), management (2), [[SaaS|Software as a service]] (1), [[SaaS]] (1)
+> **Frameworks & Libraries:** [[SaaS|Software as a service]] (1), [[SaaS]] (1)
 > **Analogies:** imagine (3)
 > **Speakers:** - [instructor] (1)
 
-#### Where does Excel fit into the FP&A tech stack?
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980)
+#### [Where does Excel fit into the FP&A tech stack?](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=0)** - [Instructor] Excel is considered by some and even many in Microsoft's own leadership to be the company's greatest commercial success.
+> **[0:00](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] is considered by some and even many in [[Microsoft]]'s own leadership to be the company's greatest commercial success.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=8)** It continues to be one of the most widely used software applications on the planet used by nearly one billion people in the financial sector.
 >
-> **[0:18](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=18)** Excel continues to be one of the most popular financial modeling tools for investment bankers and management consultants.
+> **[0:18](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=18)** Excel continues to be one of the most popular [[Financial Modeling]] tools for investment bankers and management consultants.
 >
 > **[0:24](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=24)** Excel is not going anywhere.
 >
-> **[0:27](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=27)** However, in FP&A and in corporate finance, we work with significantly larger and more complex data sets than our counterparts in management, consulting and investment banking.
+> **[0:27](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=27)** However, in FP&A and in [[Corporate Finance]], we work with significantly larger and more complex data sets than our counterparts in management, consulting and investment [[Banking]].
 >
 > **[0:39](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=39)** So we require our business models and forecasts to be able to scale as time passes and as new data is retrieved.
 >
 > **[0:47](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=47)** It's the manual and flexible nature of Excel that makes it such a popular tool for FP&A.
 >
-> **[0:54](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=54)** But at the same time, it's that same manual and flexible nature of Excel that makes it so challenging to scale Excel for the big data and integration needs of financial planning and analysis.
+> **[0:54](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=54)** But at the same time, it's that same manual and flexible nature of Excel that makes it so challenging to scale Excel for the [[Big Data]] and integration needs of [[Financial Planning]] and analysis.
 >
 > **[1:07](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=67)** This past decade has seen major software companies enter into the FP&A realm, promising to address these sorts of deficiencies.
 >
@@ -239,9 +235,9 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=88)** They have ERPs or Enterprise Resource Planning platforms on the backend.
 >
-> **[1:33](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=93)** These all-in-one systems bring together the data from sales, to procurement, to inventory management, to human resources, and to finance across the entire organization.
+> **[1:33](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=93)** These all-in-one systems bring together the data from sales, to procurement, to inventory management, to [[Human Resources (HR)|human resources]], and to finance across the entire organization.
 >
-> **[1:46](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=106)** They also have EPMs or Enterprise Performance Management platforms that use technology for budgeting, forecasting, and planning, for consolidations and reporting, analyzing performance, and modeling different scenarios.
+> **[1:46](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=106)** They also have EPMs or Enterprise Performance Management platforms that use technology for budgeting, [[Forecasting]], and planning, for consolidations and reporting, analyzing performance, and modeling different scenarios.
 >
 > **[2:01](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=121)** This visual here is by no means an exhaustive list.
 >
@@ -261,7 +257,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=183)** But I also want to point something out.
 >
-> **[3:06](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=186)** Across data sources, planning tools and reporting tools, there's one software that you see, and that's Microsoft Excel.
+> **[3:06](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=186)** Across data sources, planning tools and reporting tools, there's one software that you see, and that's [[Microsoft Excel]].
 >
 > **[3:14](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=194)** While Excel may not be the ideal software for every FP&A application, it still remains one of the most universally recognized, understood, and used.
 >
@@ -271,7 +267,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=221)** Well, for most companies, a full stack of technology doesn't allow for the one-off forecast and analysis that Excel enables.
 >
-> **[3:50](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=230)** The full stacks of technology are great for data warehousing and consolidation, but they often can't present specialized analysis the way that Excel can.
+> **[3:50](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=230)** The full stacks of technology are great for [[Data Warehousing]] and consolidation, but they often can't present specialized analysis the way that Excel can.
 >
 > **[4:00](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/where-does-excel-fit-into-the-fp-a-tech-stack?u=76281980&t=240)** And the wide array of different technologies aren't even close to being as universally understood the way that Excel is.
 >
@@ -289,14 +285,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (17), data (9), management (4), business (2), [[Financial Planning]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (17), [[Financial Planning]] (2), [[Microsoft]] (1), [[Financial Modeling]] (1), [[Corporate Finance]] (1)
 > **Env Vars:** erp (2), sap (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why do dynamic functions matter for FP&A?
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/why-do-dynamic-functions-matter-for-fp-a?u=76281980)
+#### [Why do dynamic functions matter for FP&A?](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/why-do-dynamic-functions-matter-for-fp-a?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -304,9 +299,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/why-do-dynamic-functions-matter-for-fp-a?u=76281980&t=5)** This question is best answered by comparing and contrasting traditional financial models with FP&A business and operating models.
 >
-> **[0:14](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/why-do-dynamic-functions-matter-for-fp-a?u=76281980&t=14)** Now, on the right hand side, I show that for financial services, like investment banking or management consulting, you often see financial models that address specific objectives and usage.
+> **[0:14](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/why-do-dynamic-functions-matter-for-fp-a?u=76281980&t=14)** Now, on the right hand side, I show that for financial services, like investment [[Banking]] or management consulting, you often see financial models that address specific objectives and usage.
 >
-> **[0:25](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/why-do-dynamic-functions-matter-for-fp-a?u=76281980&t=25)** They focus on the financial statements or financial analysis.
+> **[0:25](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/why-do-dynamic-functions-matter-for-fp-a?u=76281980&t=25)** They focus on the [[Financial Statements]] or [[Financial Analysis]].
 >
 > **[0:29](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/why-do-dynamic-functions-matter-for-fp-a?u=76281980&t=29)** There's a transaction, a capital raise, a restructuring.
 >
@@ -318,15 +313,15 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/why-do-dynamic-functions-matter-for-fp-a?u=76281980&t=53)** However, take a look over here at the left hand side.
 >
-> **[0:57](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/why-do-dynamic-functions-matter-for-fp-a?u=76281980&t=57)** In financial planning and analysis, or FP&A, we often build operating and business models for a broad scope and wide array of uses.
+> **[0:57](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/why-do-dynamic-functions-matter-for-fp-a?u=76281980&t=57)** In [[Financial Planning]] and analysis, or FP&A, we often build operating and business models for a broad scope and wide array of uses.
 >
 > **[1:07](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/why-do-dynamic-functions-matter-for-fp-a?u=76281980&t=67)** Because these models need to live and grow and evolve, it means that it will need to be ongoing maintenance, growing data sets, and evolving time periods as days, weeks, and months go by.
 >
 > **[1:22](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/why-do-dynamic-functions-matter-for-fp-a?u=76281980&t=82)** Therefore, you can expect more frequent updates, a need for more flexibility, and greater dynamics.
 >
-> **[1:31](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/why-do-dynamic-functions-matter-for-fp-a?u=76281980&t=91)** When I get inquiries from finance leaders at companies, they often say to me, "We need our models to be more flexible and more dynamic," and that is what this course is all about, how you can build greater dynamics and flexibility using the power of Excel for the always evolving needs of FP&A.
+> **[1:31](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/why-do-dynamic-functions-matter-for-fp-a?u=76281980&t=91)** When I get inquiries from finance leaders at companies, they often say to me, "We need our models to be more flexible and more dynamic," and that is what this course is all about, how you can build greater dynamics and flexibility using the power of [[Microsoft Excel|Excel]] for the always evolving needs of FP&A.
 >
-> **[1:51](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/why-do-dynamic-functions-matter-for-fp-a?u=76281980&t=111)** Microsoft Excel has nearly 500 functions.
+> **[1:51](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/why-do-dynamic-functions-matter-for-fp-a?u=76281980&t=111)** [[Microsoft Excel]] has nearly 500 functions.
 >
 > **[1:55](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/why-do-dynamic-functions-matter-for-fp-a?u=76281980&t=115)** However, few of them are necessary for advanced use of the tool for dynamic FP&A.
 >
@@ -342,7 +337,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/why-do-dynamic-functions-matter-for-fp-a?u=76281980&t=148)** I'm going to share with you the functions that are going to make the biggest amount of difference in the shortest amount of time.
 >
-> **[2:34](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/why-do-dynamic-functions-matter-for-fp-a?u=76281980&t=154)** In 2020, Microsoft introduced fewer than a dozen dynamic array functions that allow Excel users the flexibility to spill arrays or ranges of data into the field of an Excel model.
+> **[2:34](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/why-do-dynamic-functions-matter-for-fp-a?u=76281980&t=154)** In 2020, [[Microsoft]] introduced fewer than a dozen dynamic array functions that allow Excel users the flexibility to spill arrays or ranges of data into the field of an Excel model.
 >
 > **[2:47](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/why-do-dynamic-functions-matter-for-fp-a?u=76281980&t=167)** The greatest complaints about Excel and FP&A are the static, manual nature of data and model updating.
 >
@@ -360,7 +355,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Excel|Excel]] (6), business (2), [[Banking]] (2), management (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Banking]] (2), [[Financial Statements]] (1), [[Financial Analysis]] (1), [[Financial Planning]] (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -370,8 +365,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### An introduction to dynamic data tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/an-introduction-to-dynamic-data-tables?u=76281980)
+#### [An introduction to dynamic data tables](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/an-introduction-to-dynamic-data-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -379,7 +373,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/an-introduction-to-dynamic-data-tables?u=76281980&t=12)** The main reason this happens is the data just isn't in the form or the shape that it needs to be.
 >
-> **[0:18](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/an-introduction-to-dynamic-data-tables?u=76281980&t=18)** Data that is messy, unstructured, and inflexible is a major inhibitor of FP&A efficiency and modeling effectiveness, which means that one of the goals that we should have in Excel and FP&A is to structure it in a way that it can be best utilized.
+> **[0:18](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/an-introduction-to-dynamic-data-tables?u=76281980&t=18)** Data that is messy, unstructured, and inflexible is a major inhibitor of FP&A efficiency and modeling effectiveness, which means that one of the goals that we should have in [[Microsoft Excel|Excel]] and FP&A is to structure it in a way that it can be best utilized.
 >
 > **[0:34](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/an-introduction-to-dynamic-data-tables?u=76281980&t=34)** There is a tool and functionality with an Excel that has been there for years.
 >
@@ -425,7 +419,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/an-introduction-to-dynamic-data-tables?u=76281980&t=141)** And then the last part of the element is, in quotes, Retail.
 >
-> **[2:26](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/an-introduction-to-dynamic-data-tables?u=76281980&t=146)** This takes the word Retail and makes it a text string.
+> **[2:26](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/an-introduction-to-dynamic-data-tables?u=76281980&t=146)** This takes the [[Microsoft Word|word]] Retail and makes it a text string.
 >
 > **[2:30](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/an-introduction-to-dynamic-data-tables?u=76281980&t=150)** The SUMIFS command tells Excel to sum all of the values from M2 to M4977, where the adjacent values in C2 to C4977 meets the word Retail and returns the value 782,420.78.
 >
@@ -461,7 +455,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/an-introduction-to-dynamic-data-tables?u=76281980&t=269)** And you would be correct.
 >
-> **[4:30](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/an-introduction-to-dynamic-data-tables?u=76281980&t=270)** Let's take a look at the rest.
+> **[4:30](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/an-introduction-to-dynamic-data-tables?u=76281980&t=270)** Let's take a look at the [[Representational State Transfer (REST)|rest]].
 >
 > **[4:32](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/an-introduction-to-dynamic-data-tables?u=76281980&t=272)** This says Table 1 in brackets Order Type.
 >
@@ -491,7 +485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (3), product (3), next (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Microsoft Word|Word]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sumifs (10), m4980 (3), m4977 (2), c4977 (2)
 > **Definitions:** is a  (5), means that (1), in other words (1)
 > **Versions:** 420.78 (1)
@@ -499,8 +493,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dynamic data tables for FP&A modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/dynamic-data-tables-for-fp-a-modeling?u=76281980)
+#### [Dynamic data tables for FP&A modeling](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/dynamic-data-tables-for-fp-a-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -520,7 +513,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/dynamic-data-tables-for-fp-a-modeling?u=76281980&t=46)** On the backend, whether from an ERP or another source, we have recurring data that is going to be imported into the business model.
 >
-> **[0:55](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/dynamic-data-tables-for-fp-a-modeling?u=76281980&t=55)** We can do this manually or we can use a tool that Microsoft calls Power Query.
+> **[0:55](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/dynamic-data-tables-for-fp-a-modeling?u=76281980&t=55)** We can do this manually or we can use a tool that [[Microsoft]] calls [[Microsoft Power Query|Power Query]].
 >
 > **[1:00](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/dynamic-data-tables-for-fp-a-modeling?u=76281980&t=60)** In this first example, I'm going to show you how this can be done manually.
 >
@@ -610,7 +603,7 @@ created: 2026-05-02
 >
 > **[6:03](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/dynamic-data-tables-for-fp-a-modeling?u=76281980&t=363)** and you'll notice that when I do, this name of the table that we created appears.
 >
-> **[6:09](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/dynamic-data-tables-for-fp-a-modeling?u=76281980&t=369)** I can even go backwards and just type in the word company, identify that Company_Sales pops up, hit my Tab, and it will know exactly the Dynamic Table range that I'm wanting to capture.
+> **[6:09](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/dynamic-data-tables-for-fp-a-modeling?u=76281980&t=369)** I can even go backwards and just type in the [[Microsoft Word|word]] company, identify that Company_Sales pops up, hit my Tab, and it will know exactly the Dynamic Table range that I'm wanting to capture.
 >
 > **[6:21](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/dynamic-data-tables-for-fp-a-modeling?u=76281980&t=381)** Now, the next piece is I want to add in my brackets.
 >
@@ -640,7 +633,7 @@ created: 2026-05-02
 >
 > **[8:23](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/dynamic-data-tables-for-fp-a-modeling?u=76281980&t=503)** Let's take this one step further.
 >
-> **[8:26](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/dynamic-data-tables-for-fp-a-modeling?u=76281980&t=506)** I'm going to put my cursor over here at B4979, and I'm going to write in OrderType and to the right, I'm going to insert what we call a data validation.
+> **[8:26](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/dynamic-data-tables-for-fp-a-modeling?u=76281980&t=506)** I'm going to put my cursor over here at B4979, and I'm going to write in OrderType and to the right, I'm going to insert what we call a [[Data Validation]].
 >
 > **[8:38](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/dynamic-data-tables-for-fp-a-modeling?u=76281980&t=518)** I'm going to go to my data ribbon.
 >
@@ -664,7 +657,7 @@ created: 2026-05-02
 >
 > **[9:45](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/dynamic-data-tables-for-fp-a-modeling?u=76281980&t=585)** I'm going to go over here, select this dropdown, C4979, hit Enter, and you'll now note this is in fact still 782420.
 >
-> **[9:56](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/dynamic-data-tables-for-fp-a-modeling?u=76281980&t=596)** If I just zoom out a little bit, you can see what my data validation is going to look like, I'm going to change this to wholesale.
+> **[9:56](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/dynamic-data-tables-for-fp-a-modeling?u=76281980&t=596)** If I just [[Zoom]] out a little bit, you can see what my data validation is going to look like, I'm going to change this to wholesale.
 >
 > **[10:04](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/dynamic-data-tables-for-fp-a-modeling?u=76281980&t=604)** And when I change this to wholesale, this now shows that I have a total of $6.116 million.
 >
@@ -690,7 +683,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), hit (8), business (6), next (5), [[Microsoft Power Query|Power query]] (3)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (3), [[Data Validation]] (3), [[Microsoft]] (2), [[Microsoft Word|Word]] (2), [[Zoom]] (1)
 > **Env Vars:** m4977 (4), sumifs (3), erp (2), c4977 (2), m4980 (1)
 > **UI Navigation:** go to (3), select the (2), dropdown (2), click on (1), checkbox (1)
 > **Warnings:** note that (7)
@@ -699,14 +692,13 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 
-#### Updating data tables with Power Query
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/updating-data-tables-with-power-query?u=76281980)
+#### [Updating data tables with Power Query](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/updating-data-tables-with-power-query?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/updating-data-tables-with-power-query?u=76281980&t=0)** - [Instructor] We're going to go a step further now.
 >
-> **[0:02](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/updating-data-tables-with-power-query?u=76281980&t=2)** I'm going to show you how Dynamic Tables and Microsoft Power Query work together.
+> **[0:02](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/updating-data-tables-with-power-query?u=76281980&t=2)** I'm going to show you how Dynamic Tables and [[Microsoft Power Query]] work together.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/updating-data-tables-with-power-query?u=76281980&t=9)** The latest updates in Microsoft Power Query have made connections between backend raw data and FP&A business and operating models increasingly seamless.
 >
@@ -714,17 +706,17 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/updating-data-tables-with-power-query?u=76281980&t=22)** All the way to the left, you see these areas that say Get & Transform Data, as well as Queries & Connections.
 >
-> **[0:30](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/updating-data-tables-with-power-query?u=76281980&t=30)** Now, even though Microsoft doesn't explicitly call this out as being Power Query, this is where those backend data connections and queries take place.
+> **[0:30](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/updating-data-tables-with-power-query?u=76281980&t=30)** Now, even though [[Microsoft]] doesn't explicitly call this out as being [[Microsoft Power Query|Power Query]], this is where those backend data connections and queries take place.
 >
 > **[0:39](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/updating-data-tables-with-power-query?u=76281980&t=39)** All the way here on the left-hand side, you see that this says Get Data, Easily discover, connect, and combine data from multiple sources, then shape and refine it to meet your needs.
 >
 > **[0:50](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/updating-data-tables-with-power-query?u=76281980&t=50)** If I select this dropdown, it gives us all of these various options in terms of where we can grab the data from.
 >
-> **[0:57](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/updating-data-tables-with-power-query?u=76281980&t=57)** From File, I can either grab this from an Excel Workbook, a CSV, XML, JSON, PDF folder from SharePoint.
+> **[0:57](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/updating-data-tables-with-power-query?u=76281980&t=57)** From File, I can either grab this from an [[Microsoft Excel|Excel]] Workbook, a CSV, XML, [[JSON]], PDF folder from [[SharePoint]].
 >
 > **[1:04](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/updating-data-tables-with-power-query?u=76281980&t=64)** From Database, I have all of these various backend data options that I can connect to.
 >
-> **[1:09](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/updating-data-tables-with-power-query?u=76281980&t=69)** From Azure, from Power Platform, including from Power BI, from online services, as well as from other sources.
+> **[1:09](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/updating-data-tables-with-power-query?u=76281980&t=69)** From [[Microsoft Azure|Azure]], from Power Platform, including from [[Microsoft Power BI|Power BI]], from online services, as well as from other sources.
 >
 > **[1:17](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/updating-data-tables-with-power-query?u=76281980&t=77)** Now, for the sake of simplicity, what I'm going to do is I'm going to go from a file and I'm specifically going to call out from text or a CSV file.
 >
@@ -926,11 +918,11 @@ created: 2026-05-02
 >
 > **[10:56](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/updating-data-tables-with-power-query?u=76281980&t=656)** With these dynamic formulas tied into a dynamic table, you never have to worry about these formulas breaking.
 >
-> **[11:03](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/updating-data-tables-with-power-query?u=76281980&t=663)** If you are interested in learning more about Power Query, I encourage you to explore my courses or other LinkedIn learning courses more specific to that functionality.
+> **[11:03](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/updating-data-tables-with-power-query?u=76281980&t=663)** If you are interested in learning more about Power Query, I encourage you to explore my courses or other [[LinkedIn]] learning courses more specific to that functionality.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (42), [[Microsoft Power Query|Power query]] (5), power (5), business (3), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (5), [[Microsoft Excel|Excel]] (3), [[Microsoft Power BI|Power bi]] (3), [[Microsoft Power Query]] (2), [[Microsoft]] (1)
 > **Env Vars:** csv (6), erp (2), sumifs (2), xml (1), json (1)
 > **CLI Commands:** make (8)
 > **UI Navigation:** go to (3), click on (2), dropdown (1), right-click (1), select the (1)
@@ -938,8 +930,7 @@ created: 2026-05-02
 > **Code Identifiers:** sum_range (3)
 > **Speakers:** - [instructor] (1)
 
-#### FP&A applications with data tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/fp-a-applications-with-data-tables?u=76281980)
+#### [FP&A applications with data tables](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/fp-a-applications-with-data-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -947,11 +938,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/fp-a-applications-with-data-tables?u=76281980&t=9)** Historically, business modelers had used all different kinds of tricks and hacks to get the data to fit.
 >
-> **[0:14](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/fp-a-applications-with-data-tables?u=76281980&t=14)** They'd use Excel functions like clean and trim and left and right and mid, and a whole assortment of other text functions to get it in the right form.
+> **[0:14](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/fp-a-applications-with-data-tables?u=76281980&t=14)** They'd use [[Microsoft Excel|Excel]] functions like clean and trim and left and right and mid, and a whole assortment of other text functions to get it in the right form.
 >
 > **[0:24](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/fp-a-applications-with-data-tables?u=76281980&t=24)** Well, not anymore, what we can do is we can set up an output, a model, or a forecast or a graph, if you will, and use the dynamic data table as the intermediary, as I talked about previously.
 >
-> **[0:36](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/fp-a-applications-with-data-tables?u=76281980&t=36)** We can either bring the data in manually or we can import it with Power Query, as I talked about in a prior video.
+> **[0:36](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/fp-a-applications-with-data-tables?u=76281980&t=36)** We can either bring the data in manually or we can import it with [[Microsoft Power Query|Power Query]], as I talked about in a prior video.
 >
 > **[0:43](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/fp-a-applications-with-data-tables?u=76281980&t=43)** Then as we bring in new data, we can simply instruct the business model to look for the new data as we would like.
 >
@@ -959,13 +950,13 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/fp-a-applications-with-data-tables?u=76281980&t=62)** First, I'm going to share with you a technique that I've been using for years.
 >
-> **[1:06](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/fp-a-applications-with-data-tables?u=76281980&t=66)** It allows you to perform what I call data mapping.
+> **[1:06](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/fp-a-applications-with-data-tables?u=76281980&t=66)** It allows you to perform what I call [[Data Mapping]].
 >
 > **[1:10](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/fp-a-applications-with-data-tables?u=76281980&t=70)** Data mapping allows you to work with formulas without placing those formulas inside of the business model line items themselves.
 >
 > **[1:18](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/fp-a-applications-with-data-tables?u=76281980&t=78)** Why do I keep data mapping formulas out to keep the model formulas clean so that they're auditable and easy to update in the future?
 >
-> **[1:26](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/fp-a-applications-with-data-tables?u=76281980&t=86)** Let's take a look all the way down here at the bottom of the financial statements worksheet.
+> **[1:26](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/fp-a-applications-with-data-tables?u=76281980&t=86)** Let's take a look all the way down here at the bottom of the [[Financial Statements]] worksheet.
 >
 > **[1:32](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/fp-a-applications-with-data-tables?u=76281980&t=92)** What I often do with dynamic data mapping is to create headers and formulas that can be easily copied and pasted without requiring any formula updates.
 >
@@ -1051,7 +1042,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), business (4), [[Financial Statements]] (4), [[Microsoft Excel|Excel]] (3), next (2)
+> **Frameworks & Libraries:** [[Data Mapping]] (5), [[Financial Statements]] (4), [[Microsoft Excel|Excel]] (3), [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** e73 (2), e74 (2), e72 (2), r4977 (1), e79 (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is called (1)
@@ -1060,18 +1051,17 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced dynamic mapping using Power Query
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/advanced-dynamic-mapping-using-power-query?u=76281980)
+#### [Advanced dynamic mapping using Power Query](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/advanced-dynamic-mapping-using-power-query?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/advanced-dynamic-mapping-using-power-query?u=76281980&t=0)** - [Instructor] Sometimes, data is not ideal, and it's not in the friendliest format for analysis and reporting.
 >
-> **[0:06](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/advanced-dynamic-mapping-using-power-query?u=76281980&t=6)** Here, we're going to talk about a more comprehensive approach to data mapping.
+> **[0:06](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/advanced-dynamic-mapping-using-power-query?u=76281980&t=6)** Here, we're going to talk about a more comprehensive approach to [[Data Mapping]].
 >
-> **[0:10](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/advanced-dynamic-mapping-using-power-query?u=76281980&t=10)** We're going to revisit Power Query, and in the subsequent video, we're going to talk about index X match and indirect mapping.
+> **[0:10](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/advanced-dynamic-mapping-using-power-query?u=76281980&t=10)** We're going to revisit [[Microsoft Power Query|Power Query]], and in the subsequent video, we're going to talk about index X match and indirect mapping.
 >
-> **[0:17](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/advanced-dynamic-mapping-using-power-query?u=76281980&t=17)** Now, we have two very important line items that flow from our system into our financial statements.
+> **[0:17](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/advanced-dynamic-mapping-using-power-query?u=76281980&t=17)** Now, we have two very important line items that flow from our system into our [[Financial Statements]].
 >
 > **[0:23](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/advanced-dynamic-mapping-using-power-query?u=76281980&t=23)** We have sales and marketing, and we have salaries and wages, or labor.
 >
@@ -1151,18 +1141,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Microsoft Power Query|Power query]] (5), next (4), [[Financial Statements]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (5), [[Data Mapping]] (2), [[Financial Statements]] (1)
 > **Env Vars:** sumifs (3), e95 (2), a92 (2), e75 (2), e76 (2)
 > **Definitions:** means that (1), is a  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced dynamic mapping using INDEX, XMATCH, and INDIRECT
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/advanced-dynamic-mapping-using-index-xmatch-and-indirect?u=76281980)
+#### [Advanced dynamic mapping using INDEX, XMATCH, and INDIRECT](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/advanced-dynamic-mapping-using-index-xmatch-and-indirect?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/advanced-dynamic-mapping-using-index-xmatch-and-indirect?u=76281980&t=0)** - [Instructor] Let's do another approach to data mapping that exclusively relies upon Excel's functions, this time, with INDEX, XMATCH, and INDIRECT.
+> **[0:00](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/advanced-dynamic-mapping-using-index-xmatch-and-indirect?u=76281980&t=0)** - [Instructor] Let's do another approach to [[Data Mapping]] that exclusively relies upon [[Microsoft Excel|Excel]]'s functions, this time, with INDEX, XMATCH, and INDIRECT.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/advanced-dynamic-mapping-using-index-xmatch-and-indirect?u=76281980&t=10)** If we take a look down at the bottom in data mapping, let's again look to marketing expenses.
 >
@@ -1212,7 +1201,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/advanced-dynamic-mapping-using-index-xmatch-and-indirect?u=76281980&t=148)** If I were to go back over to my marketing expenses 2017, in fact, you are going to see total marketing activities located at line 40.
 >
-> **[2:37](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/advanced-dynamic-mapping-using-index-xmatch-and-indirect?u=76281980&t=157)** Finally, if I go back over to my mapping, and I take a look right here, you'll notice that I have an INDEX formula that goes marketing expenses 2017, column N to N, financial statements E92, comma one.
+> **[2:37](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/advanced-dynamic-mapping-using-index-xmatch-and-indirect?u=76281980&t=157)** Finally, if I go back over to my mapping, and I take a look right here, you'll notice that I have an INDEX formula that goes marketing expenses 2017, column N to N, [[Financial Statements]] E92, comma one.
 >
 > **[2:53](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/advanced-dynamic-mapping-using-index-xmatch-and-indirect?u=76281980&t=173)** So the syntax of an INDEX essentially says, let's take a look at an array or a range of information, in this case, it's going to be my marketing expenses 2017 worksheet, column N, let's take a look at what that is.
 >
@@ -1342,7 +1331,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (5), [[Microsoft Excel|Excel]] (4), [[Search]] (2), [[Financial Statements]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Data Mapping]] (3), [[Financial Statements]] (2)
 > **Env Vars:** indirect (13), xmatch (7), index (3), e92 (3), a92 (2)
 > **Warnings:** note that (6)
 > **UI Navigation:** go to (3), toggle (1)
@@ -1351,8 +1340,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Mapping dynamic data tables to an FP&A model
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/challenge-mapping-dynamic-data-tables-to-an-fp-a-model?u=76281980)
+#### [Challenge: Mapping dynamic data tables to an FP&A model](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/challenge-mapping-dynamic-data-tables-to-an-fp-a-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1374,7 +1362,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/challenge-mapping-dynamic-data-tables-to-an-fp-a-model?u=76281980&t=61)** You're welcome to use that approach.
 >
-> **[1:03](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/challenge-mapping-dynamic-data-tables-to-an-fp-a-model?u=76281980&t=63)** In this example, we talked about applying some ifs against a dynamic table, which might be imported through something like a power query.
+> **[1:03](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/challenge-mapping-dynamic-data-tables-to-an-fp-a-model?u=76281980&t=63)** In this example, we talked about applying some ifs against a dynamic table, which might be imported through something like a [[Microsoft Power Query|power query]].
 >
 > **[1:11](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/challenge-mapping-dynamic-data-tables-to-an-fp-a-model?u=76281980&t=71)** And then in the last example, we talked about using XMATCH and Indirect in order to bring in the data values coincided with Index.
 >
@@ -1384,14 +1372,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Power Query|Power query]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (1)
 > **Cross-References:** we talked about (3), we covered (1), in the last (1)
 > **Env Vars:** xmatch (2), e81 (1)
 > **Speakers:** - [demonstrator] (1)
 > **Non-Speech:** (upbeat techno music) (1)
 
-#### Solution: Mapping dynamic data tables to an FP&A model
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-mapping-dynamic-data-tables-to-an-fp-a-model?u=76281980)
+#### [Solution: Mapping dynamic data tables to an FP&A model](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-mapping-dynamic-data-tables-to-an-fp-a-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1463,7 +1450,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-mapping-dynamic-data-tables-to-an-fp-a-model?u=76281980&t=173)** Comma, what do I want to do in terms of my row number?
 >
-> **[2:58](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-mapping-dynamic-data-tables-to-an-fp-a-model?u=76281980&t=178)** Well, if I were to go back to my financial statements and say, well, we already took a look at what row it was, it was row number 30, and I'm going to lock that row.
+> **[2:58](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-mapping-dynamic-data-tables-to-an-fp-a-model?u=76281980&t=178)** Well, if I were to go back to my [[Financial Statements]] and say, well, we already took a look at what row it was, it was row number 30, and I'm going to lock that row.
 >
 > **[3:10](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-mapping-dynamic-data-tables-to-an-fp-a-model?u=76281980&t=190)** Comma, end column number.
 >
@@ -1477,9 +1464,9 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-mapping-dynamic-data-tables-to-an-fp-a-model?u=76281980&t=221)** 20,777, 20,777.
 >
-> **[3:46](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-mapping-dynamic-data-tables-to-an-fp-a-model?u=76281980&t=226)** All right, now let's go over to another data mapping approach.
+> **[3:46](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-mapping-dynamic-data-tables-to-an-fp-a-model?u=76281980&t=226)** All right, now let's go over to another [[Data Mapping]] approach.
 >
-> **[3:50](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-mapping-dynamic-data-tables-to-an-fp-a-model?u=76281980&t=230)** And in this approach we're going to talk about specifically the power query and how it relates to a dynamic table.
+> **[3:50](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-mapping-dynamic-data-tables-to-an-fp-a-model?u=76281980&t=230)** And in this approach we're going to talk about specifically the [[Microsoft Power Query|power query]] and how it relates to a dynamic table.
 >
 > **[3:57](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-mapping-dynamic-data-tables-to-an-fp-a-model?u=76281980&t=237)** Before we go into our 2008 solution, I'm actually going to walk through with you what the formula was for 2017.
 >
@@ -1499,7 +1486,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-mapping-dynamic-data-tables-to-an-fp-a-model?u=76281980&t=276)** But it doesn't stop there.
 >
-> **[4:38](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-mapping-dynamic-data-tables-to-an-fp-a-model?u=76281980&t=278)** For the rest of the dynamic table, it's saying take a look at the date column and where it is greater than or equal to E75, which is in this case the serial number for January 1st, 2017, and also where it is less than or equal to E76, the serial number for December 31st.
+> **[4:38](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-mapping-dynamic-data-tables-to-an-fp-a-model?u=76281980&t=278)** For the [[Representational State Transfer (REST)|rest]] of the dynamic table, it's saying take a look at the date column and where it is greater than or equal to E75, which is in this case the serial number for January 1st, 2017, and also where it is less than or equal to E76, the serial number for December 31st.
 >
 > **[4:58](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-mapping-dynamic-data-tables-to-an-fp-a-model?u=76281980&t=298)** Add all of those together.
 >
@@ -1629,7 +1616,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), next (5), [[Search]] (2), [[Financial Statements]] (2), data (2)
+> **Frameworks & Libraries:** [[Financial Statements]] (2), [[Data Mapping]] (2), [[Microsoft Power Query|Power query]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** a85 (4), f81 (3), f82 (1), a82 (1), f83 (1)
 > **CLI Commands:** find (4), make (2)
 > **Warnings:** note that (3)
@@ -1643,8 +1630,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using INDEX XMATCH for dynamic ranges
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-index-xmatch-for-dynamic-ranges?u=76281980)
+#### [Using INDEX XMATCH for dynamic ranges](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-index-xmatch-for-dynamic-ranges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1654,7 +1640,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-index-xmatch-for-dynamic-ranges?u=76281980&t=15)** Well, it allows for the dynamic referencing of expanding and contracting data sets, prompted by user inputs and toggles.
 >
-> **[0:24](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-index-xmatch-for-dynamic-ranges?u=76281980&t=24)** As you can see over here in cells N2 and N3, I have a couple of data validation dropdowns.
+> **[0:24](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-index-xmatch-for-dynamic-ranges?u=76281980&t=24)** As you can see over here in cells N2 and N3, I have a couple of [[Data Validation]] dropdowns.
 >
 > **[0:33](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-index-xmatch-for-dynamic-ranges?u=76281980&t=33)** Well, how did I do this?
 >
@@ -1762,7 +1748,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Search]] (1)
+> **Frameworks & Libraries:** [[Data Validation]] (2)
 > **Env Vars:** match (9), xmatch (9), index (8), formulatext (2), b34 (2)
 > **SQL:** index (8)
 > **Warnings:** note that (4)
@@ -1771,8 +1757,7 @@ created: 2026-05-02
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using XLOOKUP for dynamic ranges
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-xlookup-for-dynamic-ranges?u=76281980)
+#### [Using XLOOKUP for dynamic ranges](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-xlookup-for-dynamic-ranges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1904,7 +1889,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), [[Search]] (4), application (1)
 > **Env Vars:** xlookup (10), choose (6), hlookup (5), vlookup (4), xmatch (4)
 > **Warnings:** note that (4)
 > **UI Navigation:** go to (2), select the (1)
@@ -1913,8 +1897,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to OFFSET
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/introduction-to-offset?u=76281980)
+#### [Introduction to OFFSET](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/introduction-to-offset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1926,7 +1909,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/introduction-to-offset?u=76281980&t=31)** Now, before we dive in, I will highlight that OFFSET is considered to be a volatile function, which means it's constantly recalculating, and this can bring about a notable burden on your machine if you overuse it.
 >
-> **[0:44](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/introduction-to-offset?u=76281980&t=44)** And for this reason, and often this reason alone, many Excel users try to stay away.
+> **[0:44](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/introduction-to-offset?u=76281980&t=44)** And for this reason, and often this reason alone, many [[Microsoft Excel|Excel]] users try to stay away.
 >
 > **[0:50](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/introduction-to-offset?u=76281980&t=50)** But if you use it appropriately, OFFSET can be an extraordinarily powerful function, especially for FP&A applications where data is getting bigger and forecasts and budgets are moving forward with time.
 >
@@ -2022,15 +2005,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), next (3), data (2), game (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **Env Vars:** offset (15), index (1), match (1), xlookup (1), sum (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (2)
 > **SQL:** index (1)
 > **Cross-References:** in the next (1)
 
-#### Using OFFSET for dynamic ranges
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-offset-for-dynamic-ranges?u=76281980)
+#### [Using OFFSET for dynamic ranges](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-offset-for-dynamic-ranges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2108,13 +2090,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3)
 > **Env Vars:** a34 (6), a49 (3), b34 (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Flexing data and dynamic ranges for an FP&A model
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/challenge-flexing-data-and-dynamic-ranges-for-an-fp-a-model?u=76281980)
+#### [Challenge: Flexing data and dynamic ranges for an FP&A model](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/challenge-flexing-data-and-dynamic-ranges-for-an-fp-a-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2140,13 +2120,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Env Vars:** a34 (3), b34 (1), m34 (1), a49 (1), n34 (1)
 > **Speakers:** - in (1)
 > **Non-Speech:** (lively music) (1)
 
-#### Solution: Flexing data and dynamic ranges for an FP&A model
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-flexing-data-and-dynamic-ranges-for-an-fp-a-model?u=76281980)
+#### [Solution: Flexing data and dynamic ranges for an FP&A model](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-flexing-data-and-dynamic-ranges-for-an-fp-a-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2222,7 +2200,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1)
 > **Env Vars:** n34 (2), a34 (1), b53 (1), a32 (1), a53 (1)
 > **Definitions:** is a  (1), means that (1)
 > **UI Navigation:** go to (1)
@@ -2235,20 +2212,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to dynamic arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/introduction-to-dynamic-arrays?u=76281980)
+#### [Introduction to dynamic arrays](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/introduction-to-dynamic-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/introduction-to-dynamic-arrays?u=76281980&t=0)** - [Instructor] In 2020, Microsoft introduced a series of new functions that really changed the game.
+> **[0:00](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/introduction-to-dynamic-arrays?u=76281980&t=0)** - [Instructor] In 2020, [[Microsoft]] introduced a series of new functions that really changed the game.
 >
-> **[0:06](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/introduction-to-dynamic-arrays?u=76281980&t=6)** They addressed many of the issues we have with Excel for FP&A, most notably that we historically had to get very involved in manual updates of files, formulas, and data ranges.
+> **[0:06](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/introduction-to-dynamic-arrays?u=76281980&t=6)** They addressed many of the issues we have with [[Microsoft Excel|Excel]] for FP&A, most notably that we historically had to get very involved in manual updates of files, formulas, and data ranges.
 >
 > **[0:18](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/introduction-to-dynamic-arrays?u=76281980&t=18)** This new functionality was appropriately named Dynamic Arrays.
 >
 > **[0:23](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/introduction-to-dynamic-arrays?u=76281980&t=23)** These arrays or ranges of data expand and contract in the Excel field with minimal human intervention.
 >
-> **[0:30](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/introduction-to-dynamic-arrays?u=76281980&t=30)** This means that we can get ranges of data to update almost automatically and accommodate the needs we have in financial planning and analysis.
+> **[0:30](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/introduction-to-dynamic-arrays?u=76281980&t=30)** This means that we can get ranges of data to update almost automatically and accommodate the needs we have in [[Financial Planning]] and analysis.
 >
 > **[0:38](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/introduction-to-dynamic-arrays?u=76281980&t=38)** Now, to begin with, let's highlight what the Dynamic Array functions are, what they do, and what they replace from traditional Excel.
 >
@@ -2290,14 +2266,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (6), game (2), [[Microsoft]] (1), [[Financial Planning]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Microsoft]] (1), [[Financial Planning]] (1)
 > **Env Vars:** sequence (2), randarray (2), unique (2), filter (2), a10 (2)
 > **Definitions:** means that (1), is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using SEQUENCE for dynamic ranges
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-sequence-for-dynamic-ranges?u=76281980)
+#### [Using SEQUENCE for dynamic ranges](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-sequence-for-dynamic-ranges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2457,7 +2432,7 @@ created: 2026-05-02
 >
 > **[7:43](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-sequence-for-dynamic-ranges?u=76281980&t=463)** Well, how did I do this?
 >
-> **[7:44](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-sequence-for-dynamic-ranges?u=76281980&t=464)** This is something called a dynamic camera view, and I'm going to show you where you can find it because by default, Excel does not have it activated.
+> **[7:44](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-sequence-for-dynamic-ranges?u=76281980&t=464)** This is something called a dynamic camera view, and I'm going to show you where you can find it because by default, [[Microsoft Excel|Excel]] does not have it activated.
 >
 > **[7:53](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-sequence-for-dynamic-ranges?u=76281980&t=473)** If I go up here to my File ribbon, down here to Options, and over here to Quick Access Toolbar, you'll notice that I have these various features for your popular commands.
 >
@@ -2489,7 +2464,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), feature (2), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** sequence (7), year (5), date (4), month (3), day (2)
 > **Analogies:** picture (4), such as (1)
 > **CLI Commands:** make (1), find (1)
@@ -2498,12 +2473,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using FILTER for dynamic data management
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-filter-for-dynamic-data-management?u=76281980)
+#### [Using FILTER for dynamic data management](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-filter-for-dynamic-data-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-filter-for-dynamic-data-management?u=76281980&t=0)** - [Instructor] In years past, If you wanted to filter data in Excel, you would have to manually add a filter and manually filter it by clicking a bunch of buttons.
+> **[0:00](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-filter-for-dynamic-data-management?u=76281980&t=0)** - [Instructor] In years past, If you wanted to filter data in [[Microsoft Excel|Excel]], you would have to manually add a filter and manually filter it by clicking a bunch of buttons.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-filter-for-dynamic-data-management?u=76281980&t=10)** When you wanted to refilter, you'd have to manually go into the filter and click different buttons.
 >
@@ -2535,7 +2509,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-filter-for-dynamic-data-management?u=76281980&t=113)** But that's not all, I need to tell the filter function, what to filter Column C by, in this case, I'm driving it by the value that is at P4.
 >
-> **[2:05](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-filter-for-dynamic-data-management?u=76281980&t=125)** If you take a look over here, I'm saying P4 Is the word Wholesale.
+> **[2:05](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-filter-for-dynamic-data-management?u=76281980&t=125)** If you take a look over here, I'm saying P4 Is the [[Microsoft Word|word]] Wholesale.
 >
 > **[2:09](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-filter-for-dynamic-data-management?u=76281980&t=129)** So when I hit enter, take a look at what is going to happen at column C.
 >
@@ -2545,7 +2519,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-filter-for-dynamic-data-management?u=76281980&t=147)** Let's go a step further.
 >
-> **[2:29](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-filter-for-dynamic-data-management?u=76281980&t=149)** Let's say that in our financial analysis, we don't want to analyze Wholesale, but instead, now we want to filter by Retail.
+> **[2:29](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-filter-for-dynamic-data-management?u=76281980&t=149)** Let's say that in our [[Financial Analysis]], we don't want to analyze Wholesale, but instead, now we want to filter by Retail.
 >
 > **[2:38](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-filter-for-dynamic-data-management?u=76281980&t=158)** So instead of having this change by P4, what I can do is I can have this change by P5.
 >
@@ -2567,7 +2541,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (1), [[Microsoft Word|Word]] (1), hit (1), [[Financial Analysis]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft Word|Word]] (1), [[Financial Analysis]] (1)
 > **Env Vars:** filter (2), m4977 (2), c4977 (1)
 > **UI Navigation:** click on (4), go to (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -2575,14 +2549,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using UNIQUE for dynamic data management
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-unique-for-dynamic-data-management?u=76281980)
+#### [Using UNIQUE for dynamic data management](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-unique-for-dynamic-data-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-unique-for-dynamic-data-management?u=76281980&t=0)** - [Instructor] Identifying unique values in Excel used to be messy.
+> **[0:00](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-unique-for-dynamic-data-management?u=76281980&t=0)** - [Instructor] Identifying unique values in [[Microsoft Excel|Excel]] used to be messy.
 >
-> **[0:04](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-unique-for-dynamic-data-management?u=76281980&t=4)** What I had been doing, arguably, for about 20 years, is I would take a big data dump, put it into a PivotTable, and then basically just filter all of the values in a given column.
+> **[0:04](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-unique-for-dynamic-data-management?u=76281980&t=4)** What I had been doing, arguably, for about 20 years, is I would take a [[Big Data]] dump, put it into a PivotTable, and then basically just filter all of the values in a given column.
 >
 > **[0:15](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-unique-for-dynamic-data-management?u=76281980&t=15)** I could count the unique values and ask, how many instances does it appear?
 >
@@ -2656,12 +2629,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), data (4), next (2), [[Microsoft Excel|Excel]] (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Big Data]] (1)
 > **Env Vars:** unique (6), sort (2), false (2)
 > **Speakers:** - [instructor] (1)
 
-#### Using SORT and SORTBY for dynamic data management
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-sort-and-sortby-for-dynamic-data-management?u=76281980)
+#### [Using SORT and SORTBY for dynamic data management](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/using-sort-and-sortby-for-dynamic-data-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2807,7 +2779,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), product (5), hit (1), business (1)
 > **Env Vars:** sort (9), unique (5), filter (4), sortby (3), m4977 (2)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** dropdown (1), go to (1)
@@ -2815,8 +2786,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Challenge: Segmenting data for use in an FP&A model
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/challenge-segmenting-data-for-use-in-an-fp-a-model?u=76281980)
+#### [Challenge: Segmenting data for use in an FP&A model](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/challenge-segmenting-data-for-use-in-an-fp-a-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2844,13 +2814,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **Env Vars:** sort (3), filter (2), unique (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (bouncy upbeat music) (1)
 
-#### Solution: Segmenting data for use in an FP&A model
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-segmenting-data-for-use-in-an-fp-a-model?u=76281980)
+#### [Solution: Segmenting data for use in an FP&A model](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-segmenting-data-for-use-in-an-fp-a-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2876,7 +2844,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-segmenting-data-for-use-in-an-fp-a-model?u=76281980&t=64)** So rather than have this static range that is fixed to column C, what I'm doing over here is I'm saying indirect Company_Sales[ and then I'm giving the user the flexibility to decide at P2 what column they want to choose.
 >
-> **[1:23](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-segmenting-data-for-use-in-an-fp-a-model?u=76281980&t=83)** So if we take a look over here at P2, I have a data validation dropdown that instead of just limiting it to order type, they would be able to go to any single one of these columns that is present within the dynamic table.
+> **[1:23](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-segmenting-data-for-use-in-an-fp-a-model?u=76281980&t=83)** So if we take a look over here at P2, I have a [[Data Validation]] dropdown that instead of just limiting it to order type, they would be able to go to any single one of these columns that is present within the dynamic table.
 >
 > **[1:36](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-segmenting-data-for-use-in-an-fp-a-model?u=76281980&t=96)** Let's continue to take a look.
 >
@@ -3004,7 +2972,7 @@ created: 2026-05-02
 >
 > **[7:56](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-segmenting-data-for-use-in-an-fp-a-model?u=76281980&t=476)** And then finally, as you saw in my last example, I'm using the lookup function here saying, let's take a look at P3.
 >
-> **[8:03](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-segmenting-data-for-use-in-an-fp-a-model?u=76281980&t=483)** In this case, it is the word ascending or descending, and then it's going to take a look at it within this dynamic array of ascending equals one, descending equals negative one.
+> **[8:03](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-segmenting-data-for-use-in-an-fp-a-model?u=76281980&t=483)** In this case, it is the [[Microsoft Word|word]] ascending or descending, and then it's going to take a look at it within this dynamic array of ascending equals one, descending equals negative one.
 >
 > **[8:16](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-segmenting-data-for-use-in-an-fp-a-model?u=76281980&t=496)** Let's take a look at how this works.
 >
@@ -3054,13 +3022,13 @@ created: 2026-05-02
 >
 > **[10:44](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-segmenting-data-for-use-in-an-fp-a-model?u=76281980&t=644)** So what is the lesson through this challenge and through this entire course?
 >
-> **[10:50](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-segmenting-data-for-use-in-an-fp-a-model?u=76281980&t=650)** In Excel, when we apply it to FP&A, we have by default choices of either going static or dynamic.
+> **[10:50](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-segmenting-data-for-use-in-an-fp-a-model?u=76281980&t=650)** In [[Microsoft Excel|Excel]], when we apply it to FP&A, we have by default choices of either going static or dynamic.
 >
 > **[10:58](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/solution-segmenting-data-for-use-in-an-fp-a-model?u=76281980&t=658)** But I trust that by going through all of these various exercises, and finally this last challenge, I've impressed upon you just the power and flexibility as well as the ease of use of applying dynamic ranges to your business models.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), next (4), business (2), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Data Validation]] (5), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (5), dropdown (3), click on (2)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** m4977 (3)
@@ -3074,8 +3042,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implementing what you've learned
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/implementing-what-you-ve-learned?u=76281980)
+#### [Implementing what you've learned](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/implementing-what-you-ve-learned?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3083,7 +3050,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/implementing-what-you-ve-learned?u=76281980&t=2)** We've covered a lot together.
 >
-> **[0:03](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/implementing-what-you-ve-learned?u=76281980&t=3)** You've discovered a lot more about the world of FP&A and how Excel plays a vital role.
+> **[0:03](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/implementing-what-you-ve-learned?u=76281980&t=3)** You've discovered a lot more about the world of FP&A and how [[Microsoft Excel|Excel]] plays a vital role.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/implementing-what-you-ve-learned?u=76281980&t=9)** You've heard about how the technology market is changing, where Excel fits in, and where it doesn't.
 >
@@ -3093,25 +3060,25 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/implementing-what-you-ve-learned?u=76281980&t=27)** I shared with you how you can create them in just a few seconds and populate your data manually.
 >
-> **[0:33](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/implementing-what-you-ve-learned?u=76281980&t=33)** I also showed you how you can leverage Microsoft's Power Query to populate dynamic tables with your backend data.
+> **[0:33](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/implementing-what-you-ve-learned?u=76281980&t=33)** I also showed you how you can leverage [[Microsoft]]'s [[Microsoft Power Query|Power Query]] to populate dynamic tables with your backend data.
 >
 > **[0:41](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/implementing-what-you-ve-learned?u=76281980&t=41)** We then went into discussions around dynamic ranges with SUMS, AVERAGES, MINIMUMS, and MAXIMUMS that you are in complete control of.
 >
 > **[0:49](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/implementing-what-you-ve-learned?u=76281980&t=49)** Then we got into a wide array of dynamic functions, SUMIFS, MATCH and XMATCH, INDEX, INDIRECT, XLOOKUP, DATA, VALIDATION, CHOOSE OFFSET, and more.
 >
-> **[1:01](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/implementing-what-you-ve-learned?u=76281980&t=61)** We went through an illustration of camera view, a wonderful way of managing dynamic pictures for dashboards and other uses.
+> **[1:01](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/implementing-what-you-ve-learned?u=76281980&t=61)** We went through an illustration of camera view, a wonderful way of managing dynamic pictures for [[Dashboards]] and other uses.
 >
-> **[1:09](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/implementing-what-you-ve-learned?u=76281980&t=69)** Being able to see what's going on elsewhere in your file when you make changes in real-time.
+> **[1:09](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/implementing-what-you-ve-learned?u=76281980&t=69)** Being able to see what's going on elsewhere in your file when you make changes in [[Real-Time]].
 >
 > **[1:15](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/implementing-what-you-ve-learned?u=76281980&t=75)** We finally covered several of the newer dynamic array functions like SEQUENCE, FILTER, and UNIQUE, then layering SORT on top of them all.
 >
 > **[1:23](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/implementing-what-you-ve-learned?u=76281980&t=83)** I challenged you through various exercises, and my hope is that you came up with your own innovative ways of applying modeling dynamics to your data and financial forecasts.
 >
-> **[1:35](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/implementing-what-you-ve-learned?u=76281980&t=95)** The key in Excel for financial planning and analysis is you become aware of what's out there.
+> **[1:35](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/implementing-what-you-ve-learned?u=76281980&t=95)** The key in Excel for [[Financial Planning]] and analysis is you become aware of what's out there.
 >
 > **[1:41](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/implementing-what-you-ve-learned?u=76281980&t=101)** You become familiar with how other experts in FP&A use these techniques for their work, and then you come up with new ideas about how you can apply them to your own duties and business.
 >
-> **[1:54](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/implementing-what-you-ve-learned?u=76281980&t=114)** If you'd like more, to follow what I do, to consume more content that I share, or just simply a desire to keep in touch, consider following me here on LinkedIn where I share tips, techniques, and advice about Excel and FP&A.
+> **[1:54](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/implementing-what-you-ve-learned?u=76281980&t=114)** If you'd like more, to follow what I do, to consume more content that I share, or just simply a desire to keep in touch, consider following me here on [[LinkedIn]] where I share tips, techniques, and advice about Excel and FP&A.
 >
 > **[2:06](https://www.linkedin.com/learning/excel-for-financial-planning-and-analysis-fp-a/implementing-what-you-ve-learned?u=76281980&t=126)** I also encourage you to visit my website, [seidmanfinancial.com](https://seidmanfinancial.com), for more resources, events, and continued learning.
 >
@@ -3129,7 +3096,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (4), [[Microsoft]] (1), [[Microsoft Power Query|Power query]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft]] (1), [[Microsoft Power Query|Power query]] (1), [[Dashboards]] (1), [[Real-Time]] (1)
 > **Env Vars:** sums (1), averages (1), minimums (1), maximums (1), sumifs (1)
 > **CLI Commands:** make (1)
 > **URLs:** [seidmanfinancial.com](https://seidmanfinancial.com) (1)

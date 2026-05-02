@@ -85,8 +85,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn the fundamentals of Cisco networking
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/learn-the-fundamentals-of-cisco-networking?u=76281980)
+#### [Learn the fundamentals of Cisco networking](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/learn-the-fundamentals-of-cisco-networking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -96,7 +95,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/learn-the-fundamentals-of-cisco-networking?u=76281980&t=9)** Of course, there are a plethora of companies that make networking gear but Cisco Systems has a dominant market share when it comes to enterprise network devices.
 >
-> **[0:17](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/learn-the-fundamentals-of-cisco-networking?u=76281980&t=17)** Now in this course, you're going to begin learning the foundations of Cisco networking and that networking in general.
+> **[0:17](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/learn-the-fundamentals-of-cisco-networking?u=76281980&t=17)** Now in this course, you're going to begin learning the foundations of [[Cisco Networking]] and that networking in general.
 >
 > **[0:23](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/learn-the-fundamentals-of-cisco-networking?u=76281980&t=23)** Specifically, this course, you'll learn some of the basic network components that you're likely to run into and I'll introduce you to a collection of popular networking protocols and wiring standards that empower our networks to do a bunch of really cool stuff.
 >
@@ -106,7 +105,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/learn-the-fundamentals-of-cisco-networking?u=76281980&t=43)** And I've been teaching IT courses for over two decades.
 >
-> **[0:46](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/learn-the-fundamentals-of-cisco-networking?u=76281980&t=46)** So join me in my LinkedIn course covering Cisco networking foundations.
+> **[0:46](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/learn-the-fundamentals-of-cisco-networking?u=76281980&t=46)** So join me in my [[LinkedIn]] course covering Cisco networking foundations.
 
 > [!info]- Semantic Content
 >
@@ -115,16 +114,15 @@ created: 2026-05-02
 > **Env Vars:** ccie (1)
 > **Speakers:** - [kevin (1)
 
-#### What this course is about
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/what-this-course-is-about?u=76281980)
+#### [What this course is about](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/what-this-course-is-about?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/what-this-course-is-about?u=76281980&t=0)** - [Instructor] In this course, we have four major topics to tackle.
 >
-> **[0:03](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/what-this-course-is-about?u=76281980&t=3)** First is network basics, where you'll learn why networking is such a big deal, along with a couple of models that we'll be using to categorize just about any piece of network hardware or software that you can imagine.
+> **[0:03](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/what-this-course-is-about?u=76281980&t=3)** First is network basics, where you'll learn why networking is such a big deal, along with a couple of models that we'll be using to categorize just about any piece of network [[Hardware]] or software that you can imagine.
 >
-> **[0:15](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/what-this-course-is-about?u=76281980&t=15)** Then, in our next chapter, you'll learn to describe lots of different networking devices, such as firewalls, switches, intrusion detection system sensors, and many more.
+> **[0:15](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/what-this-course-is-about?u=76281980&t=15)** Then, in our next chapter, you'll learn to describe lots of different networking devices, such as firewalls, switches, [[Intrusion Detection]] system sensors, and many more.
 >
 > **[0:25](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/what-this-course-is-about?u=76281980&t=25)** And even though our network devices can connect wirelessly, our next chapter will lay out the options for physically connecting our devices together with cables, both copper cables and fiber optic cables, which use light to send data.
 >
@@ -138,14 +136,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Hardware]] (1), [[Intrusion Detection]] (1), data (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Intrusion Detection]] (1)
 > **Cross-References:** next chapter (2), next video (1)
 > **Analogies:** imagine (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to get hands-on practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/how-to-get-hands-on-practice?u=76281980)
+#### [How to get hands-on practice](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/how-to-get-hands-on-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -157,7 +154,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/how-to-get-hands-on-practice?u=76281980&t=23)** First, you could use real gear, you could buy used or refurbished from a variety of online sites or with your employer's permission, you might be able to use some extra gear from your workplace to set up a practice lab.
 >
-> **[0:36](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/how-to-get-hands-on-practice?u=76281980&t=36)** Another option is to use a free application from Cisco called Cisco Packet Tracer and after you download it, you'll be asked to log in and you could use an existing Google account or create a free Cisco Networking Academy account and this free application is a network simulator, that's as opposed to an emulator, specifically a simulator makes it feel like you're using actual Cisco gear, while an emulator is running the same operating system called Cisco Internet Work Operating System or iOS that you would find on physical equipment.
+> **[0:36](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/how-to-get-hands-on-practice?u=76281980&t=36)** Another option is to use a free application from Cisco called Cisco Packet Tracer and after you download it, you'll be asked to log in and you could use an existing [[Google]] account or create a free [[Cisco Networking]] Academy account and this free application is a network simulator, that's as opposed to an emulator, specifically a simulator makes it feel like you're using actual Cisco gear, while an emulator is running the same operating system called Cisco Internet Work Operating System or iOS that you would find on physical equipment.
 >
 > **[1:09](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/how-to-get-hands-on-practice?u=76281980&t=69)** So, with Cisco Packet Tracer you might not have all of the features that you would with physical gear or an emulator, but it is a fantastic piece of software and it's more than sufficient for your CCNA studies.
 >
@@ -173,7 +170,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Google]] (2), [[Cisco Networking]] (2), [[Search]] (1), vpn (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Cisco Networking]] (2)
 > **Env Vars:** cml (4), ccna (1), vpn (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Code Identifiers:** ios (2)
@@ -187,8 +184,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of a network
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/overview-of-a-network?u=76281980)
+#### [Overview of a network](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/overview-of-a-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -198,7 +194,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/overview-of-a-network?u=76281980&t=7)** When we use the term network we're talking about a collection of interconnected devices, and some of those connections might be over copper cabling, some might be using optical fiber cable, still other connections might not even be visible because they're communicating wirelessly.
 >
-> **[0:22](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/overview-of-a-network?u=76281980&t=22)** Imagine you regularly go into your office to work, you sit down at your desk, you fire up your computer and you're checking your email.
+> **[0:22](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/overview-of-a-network?u=76281980&t=22)** Imagine you regularly go into your [[Microsoft Office|office]] to work, you sit down at your desk, you fire up your computer and you're checking your email.
 >
 > **[0:29](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/overview-of-a-network?u=76281980&t=29)** When you do that, in the background, your computer is communicating with your company's email server over a network.
 >
@@ -208,7 +204,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/overview-of-a-network?u=76281980&t=41)** My internet service provider provides a fiber internet connection, and I have ethernet running in my wall that delivers up to 10 gigabits per second of bandwidth.
 >
-> **[0:51](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/overview-of-a-network?u=76281980&t=51)** I have wireless access points, security cameras, IOT or Internet of Things devices, including a doorbell, an oven, refrigerator, TVs, other devices.
+> **[0:51](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/overview-of-a-network?u=76281980&t=51)** I have wireless access points, security cameras, [[IoT]] or [[IoT|Internet of Things]] devices, including a doorbell, an oven, refrigerator, TVs, other devices.
 >
 > **[1:02](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/overview-of-a-network?u=76281980&t=62)** And we have two primary ways to connect into a network, with wired connections and wireless connections.
 >
@@ -218,7 +214,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/overview-of-a-network?u=76281980&t=81)** A second type of connection is a wireless connection.
 >
-> **[1:24](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/overview-of-a-network?u=76281980&t=84)** That might be a wireless local area network, or a wireless LAN, or Wi-Fi for short, those typically cover a relatively limited geographical region.
+> **[1:24](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/overview-of-a-network?u=76281980&t=84)** That might be a wireless [[Local Area Network (LAN)|local area network]], or a wireless LAN, or Wi-Fi for short, those typically cover a relatively limited geographical region.
 >
 > **[1:35](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/overview-of-a-network?u=76281980&t=95)** Or we might have cellular services that support data transmission, and cell services often have very widespread coverage.
 >
@@ -244,7 +240,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/overview-of-a-network?u=76281980&t=184)** And each of those buildings have one or more LANs inside the buildings, but the buildings themselves interconnect with a CAN.
 >
-> **[3:11](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/overview-of-a-network?u=76281980&t=191)** And while we often do see a CAN used to interconnect the buildings on a college campus, please don't be thrown by the word campus in campus area network.
+> **[3:11](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/overview-of-a-network?u=76281980&t=191)** And while we often do see a CAN used to interconnect the buildings on a college campus, please don't be thrown by the [[Microsoft Word|word]] campus in campus area network.
 >
 > **[3:21](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/overview-of-a-network?u=76281980&t=201)** This concept of a campus could just as easily apply to a business campus.
 >
@@ -264,15 +260,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** lan (5), [[Local Area Network (LAN)|Local area network]] (2), data (2), business (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (2), [[Microsoft Office|Office]] (1), [[IoT]] (1), [[IoT|Internet of things]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** lan (5), wan (4), pan (2), man (2), iot (1)
 > **Analogies:** imagine (2), for example (2), such as (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
-#### Benefits of a network
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/benefits-of-a-network?u=76281980)
+#### [Benefits of a network](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/benefits-of-a-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -282,7 +277,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/benefits-of-a-network?u=76281980&t=7)** First, a network gives us the ability to share resources.
 >
-> **[0:11](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/benefits-of-a-network?u=76281980&t=11)** For example, several employees in an office might need to share a common set of files or nearby printers.
+> **[0:11](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/benefits-of-a-network?u=76281980&t=11)** For example, several employees in an [[Microsoft Office|office]] might need to share a common set of files or nearby printers.
 >
 > **[0:17](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/benefits-of-a-network?u=76281980&t=17)** Another benefit of networking is communications.
 >
@@ -324,14 +319,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Office|Office]] (1), [[Search]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** vyp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Day-to-day network examples
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/day-to-day-network-examples?u=76281980)
+#### [Day-to-day network examples](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/day-to-day-network-examples?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -355,7 +349,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/day-to-day-network-examples?u=76281980&t=43)** I can do that using virtual meeting tools.
 >
-> **[0:46](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/day-to-day-network-examples?u=76281980&t=46)** Additionally, one of the big network buzzwords you're going to be hearing is internet of things, or IoT.
+> **[0:46](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/day-to-day-network-examples?u=76281980&t=46)** Additionally, one of the big network buzzwords you're going to be hearing is [[IoT|internet of things]], or [[IoT]].
 >
 > **[0:52](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/day-to-day-network-examples?u=76281980&t=52)** IoT is all about connecting lots of devices to a network beyond the standard types of network connections, like connecting a computer or printer.
 >
@@ -369,13 +363,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (2), cloud (1), [[Internet of Things (IoT)|Internet of things]] (1), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[IoT]] (2), [[IoT|Internet of things]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** dvr (1)
 > **Speakers:** - [instructor] (1)
 
-#### OSI model
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/osi-model?u=76281980)
+#### [OSI model](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/osi-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -385,7 +378,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/osi-model?u=76281980&t=13)** This set of categories is called the OSI model, where OSI stands for Open Systems Interconnection.
 >
-> **[0:19](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/osi-model?u=76281980&t=19)** And once we learn what sorts of things happen at each layer of this model we can better categorize our hardware and software components, and better understand how they work together.
+> **[0:19](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/osi-model?u=76281980&t=19)** And once we learn what sorts of things happen at each layer of this model we can better categorize our [[Hardware]] and software components, and better understand how they work together.
 >
 > **[0:30](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/osi-model?u=76281980&t=30)** And since this OSI model is something that you'll reference often as a network engineer I've included a handout with several additional details that aren't quite relevant right now but will help you as you continue learning.
 >
@@ -401,7 +394,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/osi-model?u=76281980&t=76)** Moving up to layer three we have the network layer.
 >
-> **[1:19](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/osi-model?u=76281980&t=79)** This layer is concerned with logical addressing such as IP addressing.
+> **[1:19](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/osi-model?u=76281980&t=79)** This layer is concerned with logical addressing such as [[IP Addressing]].
 >
 > **[1:23](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/osi-model?u=76281980&t=83)** And a common network device that makes forwarding decisions based on IP address information is a router.
 >
@@ -427,7 +420,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/osi-model?u=76281980&t=144)** You might hear the term APIs, as an example.
 >
-> **[2:27](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/osi-model?u=76281980&t=147)** APIs, that stands for application programming interfaces.
+> **[2:27](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/osi-model?u=76281980&t=147)** APIs, that stands for [[Application Programming Interfaces (API)|application programming interfaces]].
 >
 > **[2:31](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/osi-model?u=76281980&t=151)** APIs let software on one device communicate with software on another device, and API sessions are one example of something we might see at layer five.
 >
@@ -449,13 +442,13 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/osi-model?u=76281980&t=203)** If we know the name of a website that we're trying to reach with HTTP or HTTPS but we don't know its IP address we can ask a DNS server, and that DNS server will take the name that we provide and give us back the corresponding IP address.
 >
-> **[3:38](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/osi-model?u=76281980&t=218)** The protocol that makes that possible is Domain Name System, or DNS.
+> **[3:38](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/osi-model?u=76281980&t=218)** The protocol that makes that possible is [[Domain Name System (DNS)|Domain Name System]], or DNS.
 >
 > **[3:44](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/osi-model?u=76281980&t=224)** DNS is yet another example of something that lives at layer seven.
 >
 > **[3:48](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/osi-model?u=76281980&t=228)** Now, let's check out some memory aids to help us keep these layers straight.
 >
-> **[3:53](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/osi-model?u=76281980&t=233)** We can remember these layers from the top-down with the acrostic all people seem to need data processing where the A in all reminds us of the A in application, the P in people reminds us of the P in presentation, and so on.
+> **[3:53](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/osi-model?u=76281980&t=233)** We can remember these layers from the top-down with the acrostic all people seem to need [[Data Processing]] where the A in all reminds us of the A in application, the P in people reminds us of the P in presentation, and so on.
 >
 > **[4:08](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/osi-model?u=76281980&t=248)** Alternately, we can use the acrostic please do not throw sausage pizza away to go from the bottom-up instead of top-down.
 >
@@ -477,14 +470,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), dns (4), [[Hardware]] (2), application (2), [[IP Addressing]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[IP Addressing]] (1), [[Application Programming Interfaces (API)|Application programming interfaces]] (1), [[Domain Name System (DNS)|Domain name system]] (1), [[Data Processing]] (1)
 > **Env Vars:** osi (5), dns (4), mac (3), udp (3), http (3)
 > **Definitions:** stands for (4), is called (1), is a  (1), is an  (1), short for (1)
 > **Analogies:** such as (2), picture (2), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### TCP/IP model
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/tcp-ip-model?u=76281980)
+#### [TCP/IP model](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/tcp-ip-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -516,13 +508,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), application (1)
 > **Env Vars:** tcp (9), osi (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common network layer protocols
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/common-network-layer-protocols?u=76281980)
+#### [Common network layer protocols](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/common-network-layer-protocols?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -590,7 +580,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), traffic (3), next (2), prompt (1)
 > **Env Vars:** icmp (11), osi (2), tcp (1), udp (1)
 > **Versions:** 10.1.1 (2), version 4 (1), version 6 (1)
 > **Definitions:** stands for (2), is a  (2)
@@ -598,9 +587,9 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Tools:** command prompt (1)
+> **Speakers:** - [instructor] (1)
 
-#### Common transport layer protocols
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/common-transport-layer-protocols?u=76281980)
+#### [Common transport layer protocols](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/common-transport-layer-protocols?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -632,14 +621,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), web (1), application (1)
 > **Env Vars:** tcp (5), udp (5)
 > **Definitions:** known as (3), stands for (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### TCP three-way handshake
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/tcp-three-way-handshake?u=76281980)
+#### [TCP three-way handshake](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/tcp-three-way-handshake?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -707,14 +694,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Env Vars:** ack (6), tcp (4), syn (4), udp (2)
 > **Cross-References:** next video (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Application layer protocols and port numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/application-layer-protocols-and-port-numbers?u=76281980)
+#### [Application layer protocols and port numbers](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/application-layer-protocols-and-port-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -752,7 +737,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/application-layer-protocols-and-port-numbers?u=76281980&t=102)** For example, we might enter a name like this but to send packets to this site, our browser needs to know the IP address of the web server.
 >
-> **[1:51](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/application-layer-protocols-and-port-numbers?u=76281980&t=111)** And to get that information, we can ask a DNS server where DNS stands for Domain Name System.
+> **[1:51](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/application-layer-protocols-and-port-numbers?u=76281980&t=111)** And to get that information, we can ask a DNS server where DNS stands for [[Domain Name System (DNS)|Domain Name System]].
 >
 > **[1:58](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/application-layer-protocols-and-port-numbers?u=76281980&t=118)** And we communicate with that server using the DNS protocol, which can use either TCP or UDP Port 53.
 >
@@ -778,7 +763,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), dns (3), application (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Domain Name System (DNS)|Domain name system]] (1)
 > **Env Vars:** tcp (7), udp (6), ntp (6), dns (3), http (2)
 > **Ports:** port 80 (2), port 443 (1), port 53 (1), port 123 (1), port 67 (1)
 > **Definitions:** stands for (2), is a  (1)
@@ -791,8 +776,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### CSMA/CD vs. CSMA/CA
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/csma-cd-vs-csma-ca?u=76281980)
+#### [CSMA/CD vs. CSMA/CA](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/csma-cd-vs-csma-ca?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -908,7 +892,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (8), data (6), cd (4), next (1), node (1)
 > **Definitions:** means that (3), is called (2), stands for (2), in other words (2)
 > **CLI Commands:** cd (4), make (1), node (1)
 > **Env Vars:** csma (6)
@@ -916,8 +899,7 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hubs and switches
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/hubs-and-switches?u=76281980)
+#### [Hubs and switches](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/hubs-and-switches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -989,15 +971,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1)
 > **Env Vars:** mac (23), pc1 (6), pc2 (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is called (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Routers
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/routers?u=76281980)
+#### [Routers](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/routers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1007,7 +987,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/routers?u=76281980&t=14)** The device used to interconnect networks is called a router.
 >
-> **[0:18](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/routers?u=76281980&t=18)** And when we first configure a router and tell it what networks it's connected to, the router adds those directly-connected network entries into its IP routing table, and in networks with more than one router, those routers can exchange route information using a routing protocol such as OSPF.
+> **[0:18](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/routers?u=76281980&t=18)** And when we first configure a router and tell it what networks it's connected to, the router adds those directly-connected network entries into its IP [[Routing]] table, and in networks with more than one router, those routers can exchange route information using a routing protocol such as OSPF.
 >
 > **[0:36](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/routers?u=76281980&t=36)** But to make things easier to visualize, let's consider this topology that has just a single router.
 >
@@ -1017,7 +997,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/routers?u=76281980&t=57)** And if you've not worked with subnet masks before, no worries.
 >
-> **[1:00](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/routers?u=76281980&t=60)** We'll get into an IP addressing discussion in a later course in the series.
+> **[1:00](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/routers?u=76281980&t=60)** We'll get into an [[IP Addressing]] discussion in a later course in the series.
 >
 > **[1:04](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/routers?u=76281980&t=64)** For now, just think of these networks as being like different streets and just like a street can have several houses, each with their own house number, sharing the same street, a network address can have several devices sharing the same network address.
 >
@@ -1029,7 +1009,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/routers?u=76281980&t=100)** Well, this route is called a default route and it's commonly used when a router connects out to the internet.
 >
-> **[1:46](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/routers?u=76281980&t=106)** The logic is if a router only has one interface that connects it with the rest of the world, if the router doesn't know about a specific network, the only other place that network could possibly be is out of that default interface.
+> **[1:46](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/routers?u=76281980&t=106)** The logic is if a router only has one interface that connects it with the [[Representational State Transfer (REST)|rest]] of the world, if the router doesn't know about a specific network, the only other place that network could possibly be is out of that default interface.
 >
 > **[2:00](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/routers?u=76281980&t=120)** Also, it takes a lot of router resources to store the complete internet routing table, which at the time of this recording contains over 900,000 routes.
 >
@@ -1089,7 +1069,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (5), traffic (3), web (3), next (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Routing]] (5), [[Representational State Transfer (REST)|Rest]] (2), [[IP Addressing]] (1)
 > **Versions:** 192.168.1 (5), 203.0.113 (2), 10.1.1 (1), 0.0.0 (1)
 > **Env Vars:** pc1 (5), mac (2), ospf (1)
 > **Definitions:** is called (2), is a  (1)
@@ -1098,8 +1078,7 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Prerequisites:** configure (1)
 
-#### Collision and broadcast domains
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/collision-and-broadcast-domains?u=76281980)
+#### [Collision and broadcast domains](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/collision-and-broadcast-domains?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1145,7 +1124,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/collision-and-broadcast-domains?u=76281980&t=150)** The street was analogous to the network portion of an IP address, and the house number was analogous to the host portion of that IP address?
 >
-> **[2:38](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/collision-and-broadcast-domains?u=76281980&t=158)** By the way, during this series, I'll sometimes refer to a network as a subnet or a VLAN, which stands for a virtual local area network.
+> **[2:38](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/collision-and-broadcast-domains?u=76281980&t=158)** By the way, during this series, I'll sometimes refer to a network as a subnet or a VLAN, which stands for a virtual [[Local Area Network (LAN)|local area network]].
 >
 > **[2:48](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/collision-and-broadcast-domains?u=76281980&t=168)** So whether I say network address space, subnet, or VLAN, I'm talking about the same thing.
 >
@@ -1231,7 +1210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4), next (1), [[Local Area Network (LAN)|Local area network]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** vlan (8), mac (3), pc2 (1)
 > **Definitions:** means that (3), is a  (2), in other words (2), is an  (1), stands for (1)
 > **Cross-References:** we discussed (2), later in (1)
@@ -1239,12 +1218,11 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wireless access points (APs)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/wireless-access-points-aps?u=76281980)
+#### [Wireless access points (APs)](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/wireless-access-points-aps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/wireless-access-points-aps?u=76281980&t=0)** - [Instructor] Our homes, workplaces, airports, coffee shops, and just about any other place you can imagine is likely to have some sort of wireless networking capability.
+> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/wireless-access-points-aps?u=76281980&t=0)** - [Instructor] Our homes, workplaces, airports, coffee shops, and just about any other place you can imagine is likely to have some sort of [[Wireless Networking]] capability.
 >
 > **[0:09](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/wireless-access-points-aps?u=76281980&t=9)** And sometimes we hear wireless networking referred to as wifi.
 >
@@ -1252,7 +1230,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/wireless-access-points-aps?u=76281980&t=26)** And typically when a wireless device wishes to communicate on a network, it sends radio signals to a wireless access point, and you'll often see access point abbreviated as AP.
 >
-> **[0:38](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/wireless-access-points-aps?u=76281980&t=38)** The AP then uses a wired connection to send the data received wirelessly to a switch, which connects out to the rest of the wired network and perhaps to the internet.
+> **[0:38](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/wireless-access-points-aps?u=76281980&t=38)** The AP then uses a wired connection to send the data received wirelessly to a switch, which connects out to the [[Representational State Transfer (REST)|rest]] of the wired network and perhaps to the internet.
 >
 > **[0:48](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/wireless-access-points-aps?u=76281980&t=48)** And that access point contains one or more antennas that it uses to communicate with wireless devices.
 >
@@ -1260,7 +1238,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/wireless-access-points-aps?u=76281980&t=60)** And also as seen in this typology, an AP usually connects via a wired connection back to an ethernet switch.
 >
-> **[1:06](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/wireless-access-points-aps?u=76281980&t=66)** However, some APs operate in what is called mesh mode where instead of being hard wired back to an ethernet switch the AP receives signals and then retransmits those signals, and that approach allows us to have wireless coverage in locations that are not in close proximity to a switch.
+> **[1:06](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/wireless-access-points-aps?u=76281980&t=66)** However, some APs operate in what is called [[Mesh]] mode where instead of being hard wired back to an ethernet switch the AP receives signals and then retransmits those signals, and that approach allows us to have wireless coverage in locations that are not in close proximity to a switch.
 >
 > **[1:27](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/wireless-access-points-aps?u=76281980&t=87)** And our wireless access points can be managed in a couple of different ways.
 >
@@ -1284,14 +1262,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireless Networking]] (3), lan (3), management (2), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Wireless Networking]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Mesh]] (1)
 > **Env Vars:** lan (3), lwapp (1), capwap (1)
 > **Definitions:** stands for (2), is called (1)
 > **Analogies:** imagine (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Firewalls
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/firewalls?u=76281980)
+#### [Firewalls](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/firewalls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1371,7 +1348,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (14), web (6), next (6), data (2), database (2)
 > **Analogies:** such as (4), for example (4)
 > **Env Vars:** pc1 (4), https (1), ngfw (1)
 > **CLI Commands:** make (2)
@@ -1379,8 +1355,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Intrusion detection and prevention systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/intrusion-detection-and-prevention-systems?u=76281980)
+#### [Intrusion detection and prevention systems](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/intrusion-detection-and-prevention-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1392,7 +1367,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/intrusion-detection-and-prevention-systems?u=76281980&t=21)** Well, in this video we'll consider a couple of network appliances that can do exactly that.
 >
-> **[0:25](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/intrusion-detection-and-prevention-systems?u=76281980&t=25)** And those two appliances are an IDS sensor, where IDS stands for intrusion detection system, and an IPS sensor, where IPS stands for intrusion prevention system.
+> **[0:25](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/intrusion-detection-and-prevention-systems?u=76281980&t=25)** And those two appliances are an IDS sensor, where IDS stands for [[Intrusion Detection]] system, and an IPS sensor, where IPS stands for intrusion prevention system.
 >
 > **[0:38](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/intrusion-detection-and-prevention-systems?u=76281980&t=38)** First let's consider an IDS sensor.
 >
@@ -1434,19 +1409,18 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/intrusion-detection-and-prevention-systems?u=76281980&t=182)** Now let's wrap up this video with a clear distinction between these two types of sensors.
 >
-> **[3:06](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/intrusion-detection-and-prevention-systems?u=76281980&t=186)** An IDS sensor can inspect and react to a copy of received traffic, while an IPS sensor can inspect and react to traffic in line before it ever gets an opportunity to reach its intended victim.
+> **[3:06](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/intrusion-detection-and-prevention-systems?u=76281980&t=186)** An IDS sensor can inspect and [[React.js|react]] to a copy of received traffic, while an IPS sensor can inspect and react to traffic in line before it ever gets an opportunity to reach its intended victim.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (8), database (5), [[React.js|React]] (2), [[Intrusion Detection]] (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Intrusion Detection]] (1)
 > **Env Vars:** ids (11), ips (7)
 > **Definitions:** stands for (1), is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
-#### Examples of network topologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/examples-of-network-topologies?u=76281980)
+#### [Examples of network topologies](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/examples-of-network-topologies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1466,7 +1440,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/examples-of-network-topologies?u=76281980&t=42)** For example, we might have a wiring closet on the floor of a building.
 >
-> **[0:46](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/examples-of-network-topologies?u=76281980&t=46)** And from that single location we can have network cables radiate out to each office.
+> **[0:46](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/examples-of-network-topologies?u=76281980&t=46)** And from that single location we can have network cables radiate out to each [[Microsoft Office|office]].
 >
 > **[0:51](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/examples-of-network-topologies?u=76281980&t=51)** That's a lot simpler than the bus topology that we caught a glimpse of earlier where one cable had to weave its way through all of the different locations wanting to connect to the network.
 >
@@ -1480,7 +1454,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/examples-of-network-topologies?u=76281980&t=83)** However, the star topology is by far the most prevalent topology that you'll see in today's networks.
 >
-> **[1:29](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/examples-of-network-topologies?u=76281980&t=89)** And in this discussion, we've been thinking about this topology as being part of a LAN, the local area network, but think about the service provider that provides internet connectivity to your home.
+> **[1:29](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/examples-of-network-topologies?u=76281980&t=89)** And in this discussion, we've been thinking about this topology as being part of a LAN, the [[Local Area Network (LAN)|local area network]], but think about the service provider that provides internet connectivity to your home.
 >
 > **[1:41](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/examples-of-network-topologies?u=76281980&t=101)** They probably have lots of customers, each starring out from that service provider's equipment.
 >
@@ -1508,18 +1482,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4), [[Microsoft Office|Office]] (1), data (1), lan (1), [[Local Area Network (LAN)|Local area network]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** man (2), lan (1)
 > **Analogies:** just like (2), for example (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mesh topologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/mesh-topologies?u=76281980)
+#### [Mesh topologies](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/mesh-topologies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/mesh-topologies?u=76281980&t=0)** - [Instructor] Next, let's consider the concept of a mesh topology.
+> **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/mesh-topologies?u=76281980&t=0)** - [Instructor] Next, let's consider the concept of a [[Mesh]] topology.
 >
 > **[0:04](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/mesh-topologies?u=76281980&t=4)** We might see this in a large company's network where that company has multiple sites.
 >
@@ -1529,11 +1502,11 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/mesh-topologies?u=76281980&t=19)** With a full mesh, each site connects directly to every other site, and that's great because we have an optimal path to get from any one site to any other site.
 >
-> **[0:28](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/mesh-topologies?u=76281980&t=28)** For example, if office B wants to communicate with office C, it doesn't have to send its traffic through office A.
+> **[0:28](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/mesh-topologies?u=76281980&t=28)** For example, if [[Microsoft Office|office]] B wants to communicate with office C, it doesn't have to send its traffic through office A.
 >
 > **[0:34](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/mesh-topologies?u=76281980&t=34)** Instead, it can communicate over that link going directly to office C.
 >
-> **[0:39](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/mesh-topologies?u=76281980&t=39)** A big challenge with a full mesh topology, however, is scalability.
+> **[0:39](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/mesh-topologies?u=76281980&t=39)** A big challenge with a full mesh topology, however, is [[Scalability]].
 >
 > **[0:43](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/mesh-topologies?u=76281980&t=43)** The more locations we have, the more difficult it is to pay for and maintain all of those required links.
 >
@@ -1579,7 +1552,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Mesh]] (15), [[Microsoft Office|Office]] (4), traffic (3), next (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Mesh]] (15), [[Microsoft Office|Office]] (4), [[Scalability]] (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1589,8 +1562,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Copper cables
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/copper-cables?u=76281980)
+#### [Copper cables](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/copper-cables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1668,14 +1640,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **Env Vars:** emi (2), utp (1), stp (1), hvac (1), t568a (1)
 > **CLI Commands:** make (1), cat (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fiber cables
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/fiber-cables?u=76281980)
+#### [Fiber cables](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/fiber-cables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1743,14 +1713,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1)
 > **Env Vars:** smf (2), mmf (2), rj45 (1)
 > **Definitions:** stands for (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transceivers
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/transceivers?u=76281980)
+#### [Transceivers](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/transceivers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1814,7 +1782,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6)
 > **Env Vars:** sfp (7), qsfp (1)
 > **Definitions:** is a  (2), stands for (1)
 > **CLI Commands:** find (1)
@@ -1822,8 +1789,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Straight-through vs. crossover cables
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/straight-through-vs-crossover-cables?u=76281980)
+#### [Straight-through vs. crossover cables](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/straight-through-vs-crossover-cables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1867,7 +1833,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/straight-through-vs-crossover-cables?u=76281980&t=164)** And back in the 1990s, this shortcoming had a silver lining called a pair splitting in hopes of saving some time and money.
 >
-> **[2:52](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/straight-through-vs-crossover-cables?u=76281980&t=172)** What I would do is run one cable into an office that had two computers and I'd take four wires from the cable and connect them to an ethernet Jack on pins one, two, three, and six, the remaining four wires.
+> **[2:52](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/straight-through-vs-crossover-cables?u=76281980&t=172)** What I would do is run one cable into an [[Microsoft Office|office]] that had two computers and I'd take four wires from the cable and connect them to an ethernet Jack on pins one, two, three, and six, the remaining four wires.
 >
 > **[3:05](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/straight-through-vs-crossover-cables?u=76281980&t=185)** You guessed it.
 >
@@ -1897,7 +1863,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Env Vars:** mdi (4)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1908,8 +1874,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cisco routers and catalyst switch ports
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/cisco-routers-and-catalyst-switch-ports?u=76281980)
+#### [Cisco routers and catalyst switch ports](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/cisco-routers-and-catalyst-switch-ports?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1941,7 +1906,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/cisco-routers-and-catalyst-switch-ports?u=76281980&t=85)** And here's a look at the console cable that you might find packaged with your Cisco router, and if your PC or laptop lacks a DB9 serial port, you might use a cable like this where you connect the USB into the cable to your PC or laptop and the DB9 into the cable to the console cable.
 >
-> **[1:43](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/cisco-routers-and-catalyst-switch-ports?u=76281980&t=103)** Then, from your terminal emulator, you'll be able to start interacting with your routers command-line interface or CLI.
+> **[1:43](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/cisco-routers-and-catalyst-switch-ports?u=76281980&t=103)** Then, from your terminal emulator, you'll be able to start interacting with your routers command-line interface or [[CLI]].
 >
 > **[1:50](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/cisco-routers-and-catalyst-switch-ports?u=76281980&t=110)** Newer Cisco routers might have a mini USB port that can be used for a console connection instead of having to use an adapter.
 >
@@ -1973,7 +1938,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** lan (7), [[CLI]] (1), data (1)
+> **Frameworks & Libraries:** [[CLI]] (1)
 > **Env Vars:** lan (7), con (5), aux (4), db9 (3), usb (3)
 > **CLI Commands:** find (4), make (1)
 > **Tools:** terminal (4)
@@ -1982,8 +1947,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cisco Internetwork Operating System (IOS)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/cisco-internetwork-operating-system-ios?u=76281980)
+#### [Cisco Internetwork Operating System (IOS)](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/cisco-internetwork-operating-system-ios?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2003,7 +1967,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/cisco-internetwork-operating-system-ios?u=76281980&t=41)** That meant that a runaway process, it could crash the whole system.
 >
-> **[0:44](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/cisco-internetwork-operating-system-ios?u=76281980&t=44)** Now with Cisco IOS XE, the underlying operating system is Linux based with Cisco IOS running on top of Linux rather than being an entire operating system unto itself.
+> **[0:44](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/cisco-internetwork-operating-system-ios?u=76281980&t=44)** Now with Cisco IOS XE, the underlying operating system is [[Linux]] based with Cisco IOS running on top of Linux rather than being an entire operating system unto itself.
 >
 > **[0:56](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/cisco-internetwork-operating-system-ios?u=76281980&t=56)** The good news though is the interface and commands all look the same.
 >
@@ -2019,15 +1983,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), data (1)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **Env Vars:** ios (15)
 > **Definitions:** is called (2), stands for (1), is a  (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic Cisco IOS commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/basic-cisco-ios-commands?u=76281980)
+#### [Basic Cisco IOS commands](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/basic-cisco-ios-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2125,7 +2088,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), [[Security]] (3), data (3), next (1), traffic (1)
 > **Code Identifiers:** ios (5)
 > **Definitions:** is a  (1), in other words (1), stands for (1)
 > **Prerequisites:** configure (3)
@@ -2133,15 +2095,15 @@ created: 2026-05-02
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** ver (1)
 > **Tools:** terminal (1)
+> **UI Navigation:** scroll down (1)
 
-#### Secure Cisco devices with passwords
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/secure-cisco-devices-with-passwords?u=76281980)
+#### [Secure Cisco devices with passwords](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/secure-cisco-devices-with-passwords?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/secure-cisco-devices-with-passwords?u=76281980&t=0)** - As you get started with some basic Cisco IOS configuration commands, you're going to be doing a good bit of configuration on both Cisco routers and switches, but before you get your devices online it's important to consider how you're going to secure that router or switch to prevent somebody from coming along and maliciously or even accidentally messing up your router or switch configuration.
 >
-> **[0:22](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/secure-cisco-devices-with-passwords?u=76281980&t=22)** Then we can safely get a router or switch interface connecting out to the rest of the world.
+> **[0:22](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/secure-cisco-devices-with-passwords?u=76281980&t=22)** Then we can safely get a router or switch interface connecting out to the [[Representational State Transfer (REST)|rest]] of the world.
 >
 > **[0:26](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/secure-cisco-devices-with-passwords?u=76281980&t=26)** And I'm back on the router that we used in our previous video, where we changed the host name of router to R one.
 >
@@ -2219,7 +2181,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** configure (2), set up (1)
 > **Env Vars:** ios (1)
 > **Cross-References:** previous video (1)
@@ -2227,14 +2189,13 @@ created: 2026-05-02
 > **Definitions:** short for (1)
 > **Speakers:** - as (1)
 
-#### Configure a router interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/configure-a-router-interface?u=76281980)
+#### [Configure a router interface](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/configure-a-router-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/configure-a-router-interface?u=76281980&t=0)** - [Instructor] In our previous video, we password protected our router.
 >
-> **[0:04](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/configure-a-router-interface?u=76281980&t=4)** Now we're back into privilege mode, and we want to configure an interface to connect out to the rest of the network.
+> **[0:04](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/configure-a-router-interface?u=76281980&t=4)** Now we're back into privilege mode, and we want to configure an interface to connect out to the [[Representational State Transfer (REST)|rest]] of the network.
 >
 > **[0:10](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/configure-a-router-interface?u=76281980&t=10)** Specifically, I have interface gigabit zero slash one connected to a switch, which connects to my ISP, my internet service provider.
 >
@@ -2348,7 +2309,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), next (1), hit (1), power (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** dhcp (5), isp (1), dhccp (1), nvram (1), ram (1)
 > **Definitions:** short for (2), in other words (2), stands for (2)
 > **Versions:** 172.16.106 (2), 172.16.1 (2)
@@ -2357,8 +2318,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Tools:** terminal (1)
 
-#### Work with configuration files
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/work-with-configuration-files?u=76281980)
+#### [Work with configuration files](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/work-with-configuration-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2384,7 +2344,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/work-with-configuration-files?u=76281980&t=102)** Notice the syntax of the copy command.
 >
-> **[1:44](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/work-with-configuration-files?u=76281980&t=104)** We give the word copy followed by the source followed by the destination.
+> **[1:44](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/work-with-configuration-files?u=76281980&t=104)** We give the [[Microsoft Word|word]] copy followed by the source followed by the destination.
 >
 > **[1:48](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/work-with-configuration-files?u=76281980&t=108)** In this case, the source is the running configuration and the destination is the startup configuration.
 >
@@ -2476,7 +2436,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), [[Microsoft Word|Word]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** tftp (14), nvram (4), scp (2), ftp (1), ram (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2), such as (2)
@@ -2490,8 +2450,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2505,7 +2464,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/next-steps?u=76281980&t=26)** And also, if you need to review parts of this course before moving on to part two, that's completely okay.
 >
-> **[0:31](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/next-steps?u=76281980&t=31)** In fact, that's one of the big advantages of LinkedIn Learning.
+> **[0:31](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/next-steps?u=76281980&t=31)** In fact, that's one of the big advantages of [[LinkedIn]] Learning.
 >
 > **[0:35](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/next-steps?u=76281980&t=35)** You can go back and re-watch whatever you'd like to review.
 >
@@ -2513,13 +2472,13 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/next-steps?u=76281980&t=40)** Be patient with yourself.
 >
-> **[0:42](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/next-steps?u=76281980&t=42)** You can do this and when you're ready, I'll be here waiting to walk you through IP addressing.
+> **[0:42](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/next-steps?u=76281980&t=42)** You can do this and when you're ready, I'll be here waiting to walk you through [[IP Addressing]].
 >
 > **[0:46](https://www.linkedin.com/learning/cisco-networking-foundations-fundamentals-of-cisco-networking/next-steps?u=76281980&t=46)** Take good care!
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), next (1), [[LinkedIn]] (1), [[IP Addressing]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[IP Addressing]] (1)
 > **Speakers:** - [narrator] (1)
 
 

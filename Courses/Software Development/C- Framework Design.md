@@ -74,12 +74,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Framework design with C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/framework-design-with-c-sharp?u=76281980)
+#### [Framework design with C#](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/framework-design-with-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/framework-design-with-c-sharp?u=76281980&t=1)** - [Jesse] Hello, my name is Jesse Freeman, and in C# Framework Design, you'll learn some strategies for creating your own frameworks.
+> **[0:01](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/framework-design-with-c-sharp?u=76281980&t=1)** - [Jesse] Hello, my name is Jesse Freeman, and in C# [[Framework Design]], you'll learn some strategies for creating your own frameworks.
 >
 > **[0:08](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/framework-design-with-c-sharp?u=76281980&t=8)** I'll start by teaching you what a framework is, how to organize your code so it's self-contained and solutions for documenting, sharing and hosting online for others to use.
 >
@@ -94,20 +93,19 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Framework Design]] (1)
 > **Speakers:** - [jesse] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-you-should-know?u=76281980&t=0)** - [Narrator] Before you get started, this course assumes you're familiar with C# and coding in general, and that you're using Visual Studio or some other IDE that has C# support.
 >
-> **[0:11](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-you-should-know?u=76281980&t=11)** While we won't be coding, we will be walking through some concepts of object-oriented programming, API design, and general code maintenance.
+> **[0:11](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-you-should-know?u=76281980&t=11)** While we won't be coding, we will be walking through some concepts of [[Object-Oriented Programming (OOP)|object-oriented programming]], API design, and general code maintenance.
 >
-> **[0:20](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-you-should-know?u=76281980&t=20)** Finally, you should have some experience with version control, to help keep your project safe and to make it easier to share with others.
+> **[0:20](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-you-should-know?u=76281980&t=20)** Finally, you should have some experience with [[Version Control]], to help keep your project safe and to make it easier to share with others.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), api (1), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Version Control]] (1)
 > **Env Vars:** ide (1), api (1)
 > **CLI Commands:** make (1)
 > **Tools:** visual studio (1)
@@ -118,8 +116,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Design frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/design-frameworks?u=76281980)
+#### [Design frameworks](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/design-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -185,15 +182,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (2), application (2), [[Programming]] (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** net (2)
 > **Warnings:** keep in mind (2)
 > **Speakers:** - [instructor] (1)
 
-#### Code encapsulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/code-encapsulation?u=76281980)
+#### [Code encapsulation](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/code-encapsulation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -201,7 +196,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/code-encapsulation?u=76281980&t=8)** Encapsulation is used to hide the values or state of a structured data object inside a class, preventing unauthorized parties direct access to 'em.
 >
-> **[0:20](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/code-encapsulation?u=76281980&t=20)** Encapsulation is a key concept in object-oriented programming, or OOP.
+> **[0:20](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/code-encapsulation?u=76281980&t=20)** Encapsulation is a key concept in [[Object-Oriented Programming (OOP)|object-oriented programming]], or OOP.
 >
 > **[0:25](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/code-encapsulation?u=76281980&t=25)** And it helps not only protect the data inside of your framework, but simplifies the external interaction with the underlying code.
 >
@@ -225,7 +220,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/code-encapsulation?u=76281980&t=85)** Anything that can be used outside of the framework, can be made public.
 >
-> **[1:31](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/code-encapsulation?u=76281980&t=91)** Next, take a look at your class's own API's, and see which one should be exposed to the user by making them public, and hide the rest through protected scope.
+> **[1:31](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/code-encapsulation?u=76281980&t=91)** Next, take a look at your class's own API's, and see which one should be exposed to the user by making them public, and hide the [[Representational State Transfer (REST)|rest]] through protected scope.
 >
 > **[1:42](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/code-encapsulation?u=76281980&t=102)** The next thing to keep in mind is to avoid private scope.
 >
@@ -247,7 +242,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), oop (1), api (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** oop (1), api (1)
 > **Warnings:** keep in mind (2)
@@ -255,8 +250,7 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Speakers:** - when (1)
 
-#### Design interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/design-interfaces?u=76281980)
+#### [Design interfaces](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/design-interfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -320,17 +314,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), application (1), next (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** similar to (1), for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Modular clases
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/modular-clases?u=76281980)
+#### [Modular clases](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/modular-clases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/modular-clases?u=76281980&t=1)** - [Instructor] By definition, a class is a module in any object-oriented programming language.
+> **[0:01](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/modular-clases?u=76281980&t=1)** - [Instructor] By definition, a class is a module in any [[Object-Oriented Programming (OOP)|object-oriented programming]] language.
 >
 > **[0:06](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/modular-clases?u=76281980&t=6)** When we talk about building modular classes for a framework, I refer to how they are used, interacted with, and scale as the framework itself grows.
 >
@@ -404,7 +396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), data (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -415,8 +407,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create independent modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/create-independent-modules?u=76281980)
+#### [Create independent modules](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/create-independent-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -464,7 +455,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/create-independent-modules?u=76281980&t=161)** There are lots of different ways of separating out framework modules so that it can be used in larger projects.
 >
-> **[2:48](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/create-independent-modules?u=76281980&t=168)** If you're hosting your framework on Git, try considering using sub-modules that allow you to have dependencies on other Git projects so that you can still use version control while you're maintaining your framework's code base and using it in a larger project.
+> **[2:48](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/create-independent-modules?u=76281980&t=168)** If you're hosting your framework on [[Git]], try considering using sub-modules that allow you to have dependencies on other Git projects so that you can still use [[Version Control]] while you're maintaining your framework's code base and using it in a larger project.
 >
 > **[3:05](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/create-independent-modules?u=76281980&t=185)** While cleaning up your framework, these are the questions you should try to answer.
 >
@@ -482,8 +473,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enforce an architecture pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/enforce-an-architecture-pattern?u=76281980)
+#### [Enforce an architecture pattern](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/enforce-an-architecture-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -497,9 +487,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/enforce-an-architecture-pattern?u=76281980&t=19)** While it's impossible to anticipate how someone will want to use your code in their project, you should make sure that the framework is consistent.
 >
-> **[0:26](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/enforce-an-architecture-pattern?u=76281980&t=26)** Then, once the developer learns the design patterns, they can feel more comfortable working with the code.
+> **[0:26](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/enforce-an-architecture-pattern?u=76281980&t=26)** Then, once the developer learns the [[Design Patterns]], they can feel more comfortable working with the code.
 >
-> **[0:32](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/enforce-an-architecture-pattern?u=76281980&t=32)** As an example in the object-oriented programming adventure text game each Action uses the same register and execution logic so it's easy to add new Actions without having to change the underlying code.
+> **[0:32](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/enforce-an-architecture-pattern?u=76281980&t=32)** As an example in the [[Object-Oriented Programming (OOP)|object-oriented programming]] adventure text game each Action uses the same register and execution logic so it's easy to add new Actions without having to change the underlying code.
 >
 > **[0:44](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/enforce-an-architecture-pattern?u=76281980&t=44)** All Actions have a public Name property that is overridden by a child class and it uses it to identify the Action when the player enters it into the console.
 >
@@ -511,7 +501,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/enforce-an-architecture-pattern?u=76281980&t=72)** Let's take a look at how the object-oriented programming adventure game works.
 >
-> **[1:17](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/enforce-an-architecture-pattern?u=76281980&t=77)** You can download it from its GitHub repo in order to follow along.
+> **[1:17](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/enforce-an-architecture-pattern?u=76281980&t=77)** You can download it from its [[GitHub]] repo in order to follow along.
 >
 > **[1:21](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/enforce-an-architecture-pattern?u=76281980&t=81)** If we compile the game it'll start by asking us what our name is.
 >
@@ -553,7 +543,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (7), api (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Design Patterns]] (1), business (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Design Patterns]] (1), [[GitHub]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** api (2)
 > **Tools:** github (1)
@@ -562,12 +552,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Extend a framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/extend-a-framework?u=76281980)
+#### [Extend a framework](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/extend-a-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/extend-a-framework?u=76281980&t=0)** - [Instructor] Let's go over an example of how we can clean up the object-oriented programming adventure game's action system to be extended so that others can easily build their own.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/extend-a-framework?u=76281980&t=0)** - [Instructor] Let's go over an example of how we can clean up the [[Object-Oriented Programming (OOP)|object-oriented programming]] adventure game's action system to be extended so that others can easily build their own.
 >
 > **[0:11](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/extend-a-framework?u=76281980&t=11)** The base Action is an abstract class.
 >
@@ -585,7 +574,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/extend-a-framework?u=76281980&t=53)** Now let's go back into our object-oriented programming adventure game.
 >
-> **[0:57](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/extend-a-framework?u=76281980&t=57)** You could also follow along if you download the source code from its GitHub repository.
+> **[0:57](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/extend-a-framework?u=76281980&t=57)** You could also follow along if you download the source code from its [[GitHub]] repository.
 >
 > **[1:02](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/extend-a-framework?u=76281980&t=62)** Let's go ahead and open up the Actions class.
 >
@@ -667,7 +656,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (9), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), business (2), [[GitHub]] (1), hit (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[GitHub]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (2), just like (1)
 > **Non-Speech:** (keyboard clicking) (3)
@@ -681,8 +670,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Share framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/share-framework?u=76281980)
+#### [Share framework](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/share-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -764,11 +752,11 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/share-framework?u=76281980&t=274)** You can host your code online in a number of sites that make it easy for others to discover your framework and see its source, file bugs, supply fixes, and make their own versions of your code base.
 >
-> **[4:46](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/share-framework?u=76281980&t=286)** Sites like GitHub or creating your own website can help facilitate this.
+> **[4:46](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/share-framework?u=76281980&t=286)** Sites like [[GitHub]] or creating your own website can help facilitate this.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), api (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Env Vars:** net (4), api (1)
 > **Tools:** visual studio (3), github (1)
@@ -777,20 +765,19 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
 
-#### Hosting frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/hosting-frameworks?u=76281980)
+#### [Hosting frameworks](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/hosting-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/hosting-frameworks?u=76281980&t=1)** - [Instructor] If you've decided to open source your project, or at least share its source code, you'll want to host it online.
 >
-> **[0:08](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/hosting-frameworks?u=76281980&t=8)** One of the best ways to do this is to use version control.
+> **[0:08](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/hosting-frameworks?u=76281980&t=8)** One of the best ways to do this is to use [[Version Control]].
 >
 > **[0:12](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/hosting-frameworks?u=76281980&t=12)** It's best to use a version control system when building your framework in general.
 >
 > **[0:16](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/hosting-frameworks?u=76281980&t=16)** And the best online code repository sites are also tied to a specific version control system, making it easy for you to keep your online code base up to date with your local build.
 >
-> **[0:29](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/hosting-frameworks?u=76281980&t=29)** Earlier we spoke about GitHub, and here is an example of a game engine I've been working on in C# called PixelVision8.
+> **[0:29](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/hosting-frameworks?u=76281980&t=29)** Earlier we spoke about [[GitHub]], and here is an example of a game engine I've been working on in C# called PixelVision8.
 >
 > **[0:36](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/hosting-frameworks?u=76281980&t=36)** Here you can see my GitHub repo and each of the projects I've uploaded to my account.
 >
@@ -814,15 +801,15 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/hosting-frameworks?u=76281980&t=123)** And you can gauge a project's health by seeing how active its developer community is.
 >
-> **[2:10](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/hosting-frameworks?u=76281980&t=130)** If you're using Git as your primary version control system there are also some great alternatives to hosting your code online instead of using GitHub.
+> **[2:10](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/hosting-frameworks?u=76281980&t=130)** If you're using [[Git]] as your primary version control system there are also some great alternatives to hosting your code online instead of using GitHub.
 >
-> **[2:20](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/hosting-frameworks?u=76281980&t=140)** One of these alternatives is Bitbucket.
+> **[2:20](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/hosting-frameworks?u=76281980&t=140)** One of these alternatives is [[Bitbucket]].
 >
 > **[2:23](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/hosting-frameworks?u=76281980&t=143)** Bitbucket offers a lot of the same features as GitHub, but you can actually have private repos as part of their free tier.
 >
-> **[2:32](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/hosting-frameworks?u=76281980&t=152)** They also have more extensive issue tracking through Jira.
+> **[2:32](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/hosting-frameworks?u=76281980&t=152)** They also have more extensive issue tracking through [[Jira]].
 >
-> **[2:36](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/hosting-frameworks?u=76281980&t=156)** And finally, a new alternative to GitHub and Bitbucket is GitLab, this combines the best features of both other sites and has more team building and team collaboration tools built in.
+> **[2:36](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/hosting-frameworks?u=76281980&t=156)** And finally, a new alternative to GitHub and Bitbucket is GitLab, this combines the best features of both other sites and has more team building and [[Team Collaboration]] tools built in.
 >
 > **[2:52](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/hosting-frameworks?u=76281980&t=172)** It's important to note that each of these sites have free and paid tiers.
 >
@@ -872,7 +859,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (10), [[Version Control]] (5), game (3), [[Bitbucket]] (3), [[Git]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (10), [[Version Control]] (5), [[Bitbucket]] (3), [[Git]] (1), [[Jira]] (1)
 > **Tools:** github (10), bitbucket (3), jira (1), gitlab (1)
 > **CLI Commands:** find (4), make (3), git (1)
 > **Exercise Files:** source code (2), github repo (2)
@@ -881,8 +868,7 @@ created: 2026-05-02
 > **Warnings:** note that (1), keep in mind (1)
 > **URLs:** [opensource.org](https://opensource.org) (1)
 
-#### Document a framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/document-a-framework?u=76281980)
+#### [Document a framework](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/document-a-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -930,7 +916,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/document-a-framework?u=76281980&t=167)** The TODO comment is probably the most common task you'll see in code.
 >
-> **[2:52](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/document-a-framework?u=76281980&t=172)** Simply type two forward slashes and you can use a space or no space and write the word TODO.
+> **[2:52](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/document-a-framework?u=76281980&t=172)** Simply type two forward slashes and you can use a space or no space and write the [[Microsoft Word|word]] TODO.
 >
 > **[3:00](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/document-a-framework?u=76281980&t=180)** Here, you can use a TODO in order to remind yourself about something you need to do later.
 >
@@ -962,7 +948,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), api (1), [[Microsoft Word|Word]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Tools:** visual studio (7)
 > **Env Vars:** todo (3), xml (2), api (1)
 > **CLI Commands:** node (3), make (1)
@@ -971,12 +957,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up Github
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/setting-up-github?u=76281980)
+#### [Setting up Github](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/setting-up-github?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/setting-up-github?u=76281980&t=0)** - [Instructor] Now let's take a look at how we can put our framework on GitHub.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/setting-up-github?u=76281980&t=0)** - [Instructor] Now let's take a look at how we can put our framework on [[GitHub]].
 >
 > **[0:05](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/setting-up-github?u=76281980&t=5)** For the next few videos, I'm going to be using Visual Studio Code because I find it easier to work with the web files we'll need to create in order to add this to GitHub and to build any automation scripts we may need.
 >
@@ -996,7 +981,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/setting-up-github?u=76281980&t=58)** Back in Visual Studio Code, we can paste this line and hit return.
 >
-> **[1:05](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/setting-up-github?u=76281980&t=65)** Now our local Git project is connected to the remote project on GitHub.
+> **[1:05](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/setting-up-github?u=76281980&t=65)** Now our local [[Git]] project is connected to the remote project on GitHub.
 >
 > **[1:14](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/setting-up-github?u=76281980&t=74)** All we need to do is push it and now you can see all of our files have been uploaded and when we go back to GitHub, if we refresh the browser, you'll see that our project is now there.
 >
@@ -1086,7 +1071,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (18), next (2), hit (2), web (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (18), [[Git]] (1)
 > **Tools:** github (18), visual studio (3), terminal (1)
 > **Env Vars:** readme (6), issue_template (1), code_of_conduct (1)
 > **CLI Commands:** make (2), find (1), git (1)
@@ -1100,12 +1085,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is CI
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-is-ci?u=76281980)
+#### [What is CI](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-is-ci?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-is-ci?u=76281980&t=0)** - [Instructor] A continuous integration system, or CI for short, is a way to automate the building, testing, and deployment of your code.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-is-ci?u=76281980&t=0)** - [Instructor] A [[Continuous Integration (CI)|continuous integration]] system, or CI for short, is a way to automate the building, testing, and deployment of your code.
 >
 > **[0:08](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-is-ci?u=76281980&t=8)** There are several tools to allow you to do this, or you can create your own system from scratch.
 >
@@ -1115,11 +1099,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-is-ci?u=76281980&t=34)** CI systems help with creating a consistent and reproducible way to publish your code.
 >
-> **[0:40](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-is-ci?u=76281980&t=40)** This can be done when you push to a Git repo, or it can be triggered by other developers on your team.
+> **[0:40](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-is-ci?u=76281980&t=40)** This can be done when you push to a [[Git]] repo, or it can be triggered by other developers on your team.
 >
 > **[0:47](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-is-ci?u=76281980&t=47)** Integrating continuous integration when you commit your code allows you to trigger tests and validate that the framework functions as expected.
 >
-> **[0:55](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-is-ci?u=76281980&t=55)** A lot of projects on GitHub that use continuous integration systems will usually have a badge showing you whether their code has passed or failed the automated testing.
+> **[0:55](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-is-ci?u=76281980&t=55)** A lot of projects on [[GitHub]] that use continuous integration systems will usually have a badge showing you whether their code has passed or failed the automated testing.
 >
 > **[1:06](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-is-ci?u=76281980&t=66)** This ensures anyone that's using the framework that the code that they download is stable and ready to be used.
 >
@@ -1127,15 +1111,15 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-is-ci?u=76281980&t=82)** You can string several steps together to make more complex build systems as easy as running a single script or stagger each step of the build process to account for compiling other dependent code before the final executable or DLL is created.
 >
-> **[1:37](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-is-ci?u=76281980&t=97)** There are several commercial continuous integration systems available, such as Travis CI, Azure Pipelines, and you can even use GitHub Actions.
+> **[1:37](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-is-ci?u=76281980&t=97)** There are several commercial continuous integration systems available, such as Travis CI, [[Microsoft Azure|Azure]] Pipelines, and you can even use GitHub Actions.
 >
-> **[1:47](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-is-ci?u=76281980&t=107)** If you're looking to build your own custom continuous integration workflows, Node.js plus gulp is a great solution.
+> **[1:47](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-is-ci?u=76281980&t=107)** If you're looking to build your own custom continuous integration workflows, [[Node.js]] plus gulp is a great solution.
 >
 > **[1:54](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/what-is-ci?u=76281980&t=114)** You can also use any Node.js libraries that enable the automation of command line arguments that are required to compile your .NET framework.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (6), ci (3), [[GitHub]] (2), [[Node.js]] (2), [[Git]] (1)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (6), [[GitHub]] (2), [[Node.js]] (2), [[Git]] (1), [[Microsoft Azure|Azure]] (1)
 > **Tools:** command line (2), github (2), terminal (1)
 > **CLI Commands:** node (2), git (1), make (1)
 > **Env Vars:** net (2), dll (1)
@@ -1144,8 +1128,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Prerequisites:** required to (1)
 
-#### Custom build scripts
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/custom-build-scripts?u=76281980)
+#### [Custom build scripts](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/custom-build-scripts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1155,7 +1138,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/custom-build-scripts?u=76281980&t=12)** Let's take a look at a simple command to publish this object-oriented adventure game.
 >
-> **[0:16](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/custom-build-scripts?u=76281980&t=16)** As you can see, I'm using the .NET CLI.
+> **[0:16](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/custom-build-scripts?u=76281980&t=16)** As you can see, I'm using the .NET [[CLI]].
 >
 > **[0:19](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/custom-build-scripts?u=76281980&t=19)** I'm telling it to publish.
 >
@@ -1221,7 +1204,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/custom-build-scripts?u=76281980&t=256)** I have Node installed already and I'm going to show you how to create a very simple Gulp script to automate building your .NET framework.
 >
-> **[4:25](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/custom-build-scripts?u=76281980&t=265)** We'll start by initializing an NPM package.
+> **[4:25](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/custom-build-scripts?u=76281980&t=265)** We'll start by initializing an [[npm]] package.
 >
 > **[4:29](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/custom-build-scripts?u=76281980&t=269)** I'm going to pass in the Y argument, to accept all the default questions so we can speed up this process.
 >
@@ -1231,7 +1214,7 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/custom-build-scripts?u=76281980&t=302)** Now, we can go ahead and create a new Gulp file.
 >
-> **[5:10](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/custom-build-scripts?u=76281980&t=310)** The Gulp files can contain all the JavaScript we need to automate the build process.
+> **[5:10](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/custom-build-scripts?u=76281980&t=310)** The Gulp files can contain all the [[JavaScript]] we need to automate the build process.
 >
 > **[5:15](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/custom-build-scripts?u=76281980&t=315)** Let's go ahead and create a very simple task.
 >
@@ -1253,7 +1236,7 @@ created: 2026-05-02
 >
 > **[6:41](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/custom-build-scripts?u=76281980&t=401)** As you can see, we now have a Nuget package inside of our releases folder.
 >
-> **[6:51](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/custom-build-scripts?u=76281980&t=411)** This is just a simple example of what you could do with the .NET CLI, Node.js and Gulp.
+> **[6:51](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/custom-build-scripts?u=76281980&t=411)** This is just a simple example of what you could do with the .NET CLI, [[Node.js]] and Gulp.
 >
 > **[6:57](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/custom-build-scripts?u=76281980&t=417)** Any command line argument that you can use in order to build out a .NET project can be automated and can be used in conjunction with any other Node code or Node packages.
 >
@@ -1261,7 +1244,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (9), node (4), [[CLI]] (3), hit (1), oop (1)
+> **Frameworks & Libraries:** [[CLI]] (3), [[npm]] (1), [[JavaScript]] (1), [[Node.js]] (1)
 > **Env Vars:** net (8), cli (3), oop (1), dll (1), npm (1)
 > **CLI Commands:** node (5), dotnet (1), npm (1), make (1)
 > **Tools:** command line (5), visual studio (2), terminal (1)
@@ -1270,18 +1253,17 @@ created: 2026-05-02
 > **UI Navigation:** right-click (1), double-click (1)
 > **File Paths:** node.js (1)
 
-#### Using Github actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/using-github-actions?u=76281980)
+#### [Using Github actions](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/using-github-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/using-github-actions?u=76281980&t=0)** - [Instructor] So before we can start using GitHub Actions, we're going to need to commit our code and push our new build script up to our GitHub repo.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/using-github-actions?u=76281980&t=0)** - [Instructor] So before we can start using [[GitHub]] Actions, we're going to need to commit our code and push our new build script up to our GitHub repo.
 >
 > **[0:08](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/using-github-actions?u=76281980&t=8)** But before we do that, we need to clean up a few things.
 >
-> **[0:12](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/using-github-actions?u=76281980&t=12)** Let's go ahead and delete the package-lock.json.
+> **[0:12](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/using-github-actions?u=76281980&t=12)** Let's go ahead and delete the package-lock.[[JSON]].
 >
-> **[0:18](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/using-github-actions?u=76281980&t=18)** And if we look inside of the package.json, you'll see that since we skipped all of the questions, npm decided to install every single package it thought we would need.
+> **[0:18](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/using-github-actions?u=76281980&t=18)** And if we look inside of the package.json, you'll see that since we skipped all of the questions, [[npm]] decided to install every single package it thought we would need.
 >
 > **[0:30](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/using-github-actions?u=76281980&t=30)** Some of these are going to create problems so let's go ahead and just delete all the ones that we don't need.
 >
@@ -1317,7 +1299,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/using-github-actions?u=76281980&t=143)** GitHub Action files are very picky about the indention and how you format the files.
 >
-> **[2:29](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/using-github-actions?u=76281980&t=149)** So I'm going to go ahead and write a very simple one that'll create an Ubuntu instance, check out our code, set up .NET, set up Node, install all of our project's dependencies, run Gulp and upload the NuGet package as an artifact to the final output of our action.
+> **[2:29](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/using-github-actions?u=76281980&t=149)** So I'm going to go ahead and write a very simple one that'll create an [[Ubuntu]] instance, check out our code, set up .NET, set up Node, install all of our project's dependencies, run Gulp and upload the NuGet package as an artifact to the final output of our action.
 >
 > **[2:49](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/using-github-actions?u=76281980&t=169)** Let's get started by giving it a name.
 >
@@ -1379,7 +1361,7 @@ created: 2026-05-02
 >
 > **[7:28](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/using-github-actions?u=76281980&t=448)** We now have our NuGet package.
 >
-> **[7:33](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/using-github-actions?u=76281980&t=453)** This is just a small example of what you can do with GitHub Actions in order to build your own continuous integration system.
+> **[7:33](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/using-github-actions?u=76281980&t=453)** This is just a small example of what you can do with GitHub Actions in order to build your own [[Continuous Integration (CI)|continuous integration]] system.
 >
 > **[7:41](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/using-github-actions?u=76281980&t=461)** The advantages of coupling this with Node is that you can do everything local, have it run the way you want, do all your development and then when you're done, simply commit it back to the GitHub repo, and the actions will execute the exact ones that you did locally.
 >
@@ -1387,7 +1369,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (8), node (4), [[JSON]] (3), [[npm]] (3), next (3)
+> **Frameworks & Libraries:** [[GitHub]] (8), [[JSON]] (3), [[npm]] (3), [[Ubuntu]] (2), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Non-Speech:** (text typing) (10)
 > **CLI Commands:** node (4), npm (3), make (2)
 > **Tools:** github (8), command line (1)
@@ -1401,12 +1383,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Share framework with the community
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/share-framework-with-the-community?u=76281980)
+#### [Share framework with the community](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/share-framework-with-the-community?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/share-framework-with-the-community?u=76281980&t=0)** - [Instructor] Now that we've taken a look at how to build better C# frameworks it's time for you to review your own code libraries, or look at the object-oriented programming adventure game and apply what you've learned.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/share-framework-with-the-community?u=76281980&t=0)** - [Instructor] Now that we've taken a look at how to build better C# frameworks it's time for you to review your own code libraries, or look at the [[Object-Oriented Programming (OOP)|object-oriented programming]] adventure game and apply what you've learned.
 >
 > **[0:11](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/share-framework-with-the-community?u=76281980&t=11)** A lot of times I end up reusing the same code from project to project until I realize it would be better to turn it into a code library that's easier to maintain.
 >
@@ -1414,11 +1395,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/share-framework-with-the-community?u=76281980&t=26)** That's why it's important for you to share your code.
 >
-> **[0:28](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/share-framework-with-the-community?u=76281980&t=28)** So once you're happy with your C# framework, create a build script, upload it to GitHub and share it with the rest of the .net community.
+> **[0:28](https://www.linkedin.com/learning/c-sharp-framework-design-17295804/share-framework-with-the-community?u=76281980&t=28)** So once you're happy with your C# framework, create a build script, upload it to [[GitHub]] and share it with the [[Representational State Transfer (REST)|rest]] of the .net community.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), game (1), [[GitHub]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[GitHub]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 

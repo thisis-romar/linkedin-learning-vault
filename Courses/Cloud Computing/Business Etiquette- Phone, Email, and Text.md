@@ -75,8 +75,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Business etiquette for today's workplace
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/business-etiquette-for-today-s-workplace?u=76281980)
+#### [Business etiquette for today's workplace](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/business-etiquette-for-today-s-workplace?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -94,7 +93,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 
@@ -103,8 +101,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Email etiquette: Subjects, salutations, and signatures
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-subjects-salutations-and-signatures?u=76281980)
+#### [Email etiquette: Subjects, salutations, and signatures](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-subjects-salutations-and-signatures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -142,7 +139,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-subjects-salutations-and-signatures?u=76281980&t=136)** This is the opening line of an email that addresses the recipient like, "Good morning, Mr. Singh."
 >
-> **[2:22](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-subjects-salutations-and-signatures?u=76281980&t=142)** Capitalize the first word and add any titles and names.
+> **[2:22](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-subjects-salutations-and-signatures?u=76281980&t=142)** Capitalize the first [[Microsoft Word|word]] and add any titles and names.
 >
 > **[2:27](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-subjects-salutations-and-signatures?u=76281980&t=147)** Use a colon for formal emails and a comma for a less formal emails.
 >
@@ -170,7 +167,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-subjects-salutations-and-signatures?u=76281980&t=232)** A simple signature is one where you type your name.
 >
-> **[3:55](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-subjects-salutations-and-signatures?u=76281980&t=235)** I recommend adding an automatic signature where you can include your email address, phone numbers, website, and even your LinkedIn profile.
+> **[3:55](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-subjects-salutations-and-signatures?u=76281980&t=235)** I recommend adding an automatic signature where you can include your email address, phone numbers, website, and even your [[LinkedIn]] profile.
 >
 > **[4:03](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-subjects-salutations-and-signatures?u=76281980&t=243)** Think of it as an extra place to reinforce your brand and do conveniently offer your contact information, so no one will have to hunt for it.
 >
@@ -188,12 +185,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Microsoft Word|Word]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[LinkedIn]] (1)
 > **Analogies:** similar to (1), think of it as (1)
 > **Best Practices:** pro tip (2)
 
-#### Respectfully addressing recipients: Names, gender, and pronouns
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/respectfully-addressing-recipients-names-gender-and-pronouns?u=76281980)
+#### [Respectfully addressing recipients: Names, gender, and pronouns](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/respectfully-addressing-recipients-names-gender-and-pronouns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -205,7 +201,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/respectfully-addressing-recipients-names-gender-and-pronouns?u=76281980&t=18)** The first option is if a formal title is required in the salutation, do a little detective work.
 >
-> **[0:25](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/respectfully-addressing-recipients-names-gender-and-pronouns?u=76281980&t=25)** Check their signature, bio, LinkedIn profile, or any document authored by them that might contain their titles and pronouns.
+> **[0:25](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/respectfully-addressing-recipients-names-gender-and-pronouns?u=76281980&t=25)** Check their signature, bio, [[LinkedIn]] profile, or any document authored by them that might contain their titles and pronouns.
 >
 > **[0:35](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/respectfully-addressing-recipients-names-gender-and-pronouns?u=76281980&t=35)** Second option is to not use a title.
 >
@@ -255,8 +251,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 
-#### Email etiquette: BCC, CC, automatic messages, and read receipts
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-bcc-cc-automatic-messages-and-read-receipts?u=76281980)
+#### [Email etiquette: BCC, CC, automatic messages, and read receipts](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-bcc-cc-automatic-messages-and-read-receipts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -266,7 +261,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-bcc-cc-automatic-messages-and-read-receipts?u=76281980&t=11)** Or have you ever been included unnecessarily in an endless email thread between other people, that not only does it clog your inbox, but you forgot the original topic and you wonder why you were included in the first place?
 >
-> **[0:25](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-bcc-cc-automatic-messages-and-read-receipts?u=76281980&t=25)** Selecting the appropriate categories for recipients helps protect the information you're sending and the recipient's privacy.
+> **[0:25](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-bcc-cc-automatic-messages-and-read-receipts?u=76281980&t=25)** Selecting the appropriate categories for recipients helps protect the information you're sending and the recipient's [[Privacy]].
 >
 > **[0:35](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-bcc-cc-automatic-messages-and-read-receipts?u=76281980&t=35)** So let's go through the choices you have when it comes to address fields and automatic messages.
 >
@@ -300,7 +295,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-bcc-cc-automatic-messages-and-read-receipts?u=76281980&t=168)** General etiquette is to respond to business emails within 24 hours.
 >
-> **[2:53](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-bcc-cc-automatic-messages-and-read-receipts?u=76281980&t=173)** Holidays, time off, travel, and inability to respond for more than one day are excellent moments to set your out-of-office or vacation responder message.
+> **[2:53](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-bcc-cc-automatic-messages-and-read-receipts?u=76281980&t=173)** Holidays, time off, travel, and inability to respond for more than one day are excellent moments to set your out-of-[[Microsoft Office|office]] or vacation responder message.
 >
 > **[3:05](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-bcc-cc-automatic-messages-and-read-receipts?u=76281980&t=185)** Carefully check all settings as you set it up and remember to disable it when you return.
 >
@@ -324,13 +319,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), [[Privacy]] (2), business (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Microsoft Office|Office]] (1)
 > **Best Practices:** pro tip (1), remember to (1), it's best to (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 
-#### Email etiquette: Anticipating the needs of the recipient
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-anticipating-the-needs-of-the-recipient?u=76281980)
+#### [Email etiquette: Anticipating the needs of the recipient](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-anticipating-the-needs-of-the-recipient?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -386,7 +380,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-anticipating-the-needs-of-the-recipient?u=76281980&t=132)** Can you get the same point across with fewer words?
 >
-> **[2:16](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-anticipating-the-needs-of-the-recipient?u=76281980&t=136)** Look at this example, this sentence, "As you can see, I think it will be better to maybe use Google Sheets instead of Excel so we can all work in the document together at the same time," could be shortened to, "It will be better to use Google Sheets instead of Excel so we can work in the document at the same time."
+> **[2:16](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-anticipating-the-needs-of-the-recipient?u=76281980&t=136)** Look at this example, this sentence, "As you can see, I think it will be better to maybe use [[Google]] Sheets instead of [[Microsoft Excel|Excel]] so we can all work in the document together at the same time," could be shortened to, "It will be better to use Google Sheets instead of Excel so we can work in the document at the same time."
 >
 > **[2:37](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-anticipating-the-needs-of-the-recipient?u=76281980&t=157)** Number 5, "Is there anything else my recipient may need?"
 >
@@ -418,12 +412,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft Excel|Excel]] (2), next (1), hit (1), business (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1)
 
-#### Email etiquette: Tone and timing
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-tone-and-timing?u=76281980)
+#### [Email etiquette: Tone and timing](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-tone-and-timing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -437,7 +430,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-tone-and-timing?u=76281980&t=24)** Emails are more than just sentences.
 >
-> **[0:27](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-tone-and-timing?u=76281980&t=27)** Each word carries a tone which conveys the sender's intentions and emotions.
+> **[0:27](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-tone-and-timing?u=76281980&t=27)** Each [[Microsoft Word|word]] carries a tone which conveys the sender's intentions and emotions.
 >
 > **[0:32](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-tone-and-timing?u=76281980&t=32)** And, like the example you just read, tone can get lost in translation in virtual environments.
 >
@@ -463,11 +456,11 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-tone-and-timing?u=76281980&t=105)** Let's tackle the timing of your emails.
 >
-> **[1:48](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-tone-and-timing?u=76281980&t=108)** Since email is asynchronous communication, meaning the exchange doesn't happen in real-time, you can send an email whenever you like because the person will open it whenever they choose.
+> **[1:48](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-tone-and-timing?u=76281980&t=108)** Since email is asynchronous communication, meaning the exchange doesn't happen in [[Real-Time]], you can send an email whenever you like because the person will open it whenever they choose.
 >
 > **[1:59](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-tone-and-timing?u=76281980&t=119)** However, sending business emails during business hours works in your favor, preferably during hours when the recipient is at work.
 >
-> **[2:09](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-tone-and-timing?u=76281980&t=129)** This increases the likelihood they'll see it, open it, and respond. For the same reason, you might choose to avoid sending emails after business hours, on days off, holidays, or other times people might traditionally be out of office.
+> **[2:09](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-tone-and-timing?u=76281980&t=129)** This increases the likelihood they'll see it, open it, and respond. For the same reason, you might choose to avoid sending emails after business hours, on days off, holidays, or other times people might traditionally be out of [[Microsoft Office|office]].
 >
 > **[2:25](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/email-etiquette-tone-and-timing?u=76281980&t=145)** Here's a pro tip: Use your email system's "Schedule Send" when drafting emails outside of business hours to schedule them to be sent during business hours.
 >
@@ -487,7 +480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), next (2), [[Microsoft Word|Word]] (1), [[Real-Time]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Real-Time]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
@@ -498,8 +491,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Messaging etiquette: Texting
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/messaging-etiquette-texting?u=76281980)
+#### [Messaging etiquette: Texting](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/messaging-etiquette-texting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -523,7 +515,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/messaging-etiquette-texting?u=76281980&t=41)** The lines between personal and professional have been blurred, especially since more people are working remotely and as mobile technology advances.
 >
-> **[0:51](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/messaging-etiquette-texting?u=76281980&t=51)** If you're issued a work cell phone or you use your personal phone for work, you may find yourself texting other professionals when building relationships, collaborating on projects, networking, and even interviewing.
+> **[0:51](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/messaging-etiquette-texting?u=76281980&t=51)** If you're issued a work cell phone or you use your personal phone for work, you may find yourself texting other professionals when building relationships, collaborating on projects, networking, and even [[Interviewing]].
 >
 > **[1:04](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/messaging-etiquette-texting?u=76281980&t=64)** So let's break down 10 strategies for texting etiquette that show teamwork and create positive interactions when building relationships in professional settings.
 >
@@ -585,13 +577,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Interviewing]] (1), feature (1), career (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1)
 > **CLI Commands:** find (1), snap (1)
 > **Analogies:** think of it as (1)
 > **Warnings:** caution (1)
 
-#### Messaging etiquette: Instant messaging (IMs) and chat
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/messaging-etiquette-instant-messaging-ims-and-chat?u=76281980)
+#### [Messaging etiquette: Instant messaging (IMs) and chat](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/messaging-etiquette-instant-messaging-ims-and-chat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -603,7 +594,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/messaging-etiquette-instant-messaging-ims-and-chat?u=76281980&t=28)** You more than likely use it.
 >
-> **[0:30](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/messaging-etiquette-instant-messaging-ims-and-chat?u=76281980&t=30)** Think Zoom Chat, Microsoft Teams, Slack, Google Workspace, WebEx.
+> **[0:30](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/messaging-etiquette-instant-messaging-ims-and-chat?u=76281980&t=30)** Think [[Zoom]] Chat, [[Microsoft Teams]], [[Slack]], [[Google]] Workspace, WebEx.
 >
 > **[0:36](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/messaging-etiquette-instant-messaging-ims-and-chat?u=76281980&t=36)** For some companies, IM is the main way that employees communicate.
 >
@@ -671,7 +662,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), feature (2), [[Zoom]] (1), [[Microsoft Teams]] (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[Microsoft Teams]] (1), [[Slack]] (1), [[Google]] (1)
 > **Definitions:** is called (1), is a  (1)
 > **Tools:** slack (1)
 
@@ -680,8 +671,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding etiquette for phone calls
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/understanding-etiquette-for-phone-calls?u=76281980)
+#### [Understanding etiquette for phone calls](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/understanding-etiquette-for-phone-calls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -689,7 +679,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/understanding-etiquette-for-phone-calls?u=76281980&t=7)** If you picked email or text, you might feel that making a phone call is a thing of the past.
 >
-> **[0:13](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/understanding-etiquette-for-phone-calls?u=76281980&t=13)** The shifts in communication from human interaction to digital interaction may lead you to believe that phone etiquette is obsolete.
+> **[0:13](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/understanding-etiquette-for-phone-calls?u=76281980&t=13)** The shifts in communication from human interaction to digital interaction may lead you to believe that [[Phone Etiquette]] is obsolete.
 >
 > **[0:22](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/understanding-etiquette-for-phone-calls?u=76281980&t=22)** But consider this instead.
 >
@@ -703,7 +693,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/understanding-etiquette-for-phone-calls?u=76281980&t=47)** Others not so much.
 >
-> **[0:49](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/understanding-etiquette-for-phone-calls?u=76281980&t=49)** Whether or not phone calls are part of your role, you might find yourself using the phone when interviewing, networking, setting up appointments, reaching out to colleagues or clients, or contacting businesses for information.
+> **[0:49](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/understanding-etiquette-for-phone-calls?u=76281980&t=49)** Whether or not phone calls are part of your role, you might find yourself using the phone when [[Interviewing]], networking, setting up appointments, reaching out to colleagues or clients, or contacting businesses for information.
 >
 > **[1:03](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/understanding-etiquette-for-phone-calls?u=76281980&t=63)** All of these reasons and more are why phone etiquette is very relevant and important.
 >
@@ -752,8 +742,7 @@ created: 2026-05-02
 > **Env Vars:** xyz (1)
 > **Definitions:** is a  (1)
 
-#### Phone etiquette: Leaving a formal voicemail
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/phone-etiquette-leaving-a-formal-voicemail?u=76281980)
+#### [Phone etiquette: Leaving a formal voicemail](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/phone-etiquette-leaving-a-formal-voicemail?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -863,14 +852,13 @@ created: 2026-05-02
 > **URLs:** [me.com](https://me.com) (1)
 > **Warnings:** keep in mind (1)
 
-#### Phone etiquette: Creating a professional voicemail greeting
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/phone-etiquette-creating-a-professional-voicemail-greeting?u=76281980)
+#### [Phone etiquette: Creating a professional voicemail greeting](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/phone-etiquette-creating-a-professional-voicemail-greeting?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/phone-etiquette-creating-a-professional-voicemail-greeting?u=76281980&t=0)** Congratulations!
 >
-> **[0:02](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/phone-etiquette-creating-a-professional-voicemail-greeting?u=76281980&t=2)** After rounds of interviewing, you have landed the job of your dreams.
+> **[0:02](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/phone-etiquette-creating-a-professional-voicemail-greeting?u=76281980&t=2)** After rounds of [[Interviewing]], you have landed the job of your dreams.
 >
 > **[0:08](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/phone-etiquette-creating-a-professional-voicemail-greeting?u=76281980&t=8)** You've prepared for this role, and now all you have to do is just show up for your first day.
 >
@@ -931,8 +919,7 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Interviewing]] (1)
 > **Env Vars:** xyz (2)
 
-#### Knowing when to call vs. text vs. email
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/knowing-when-to-call-vs-text-vs-email?u=76281980)
+#### [Knowing when to call vs. text vs. email](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/knowing-when-to-call-vs-text-vs-email?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -964,7 +951,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/knowing-when-to-call-vs-text-vs-email?u=76281980&t=69)** They may not see a text or an email in time.
 >
-> **[1:12](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/knowing-when-to-call-vs-text-vs-email?u=76281980&t=72)** Number two, if what you have to share is confidential, use a secure line, find privacy and make a call.
+> **[1:12](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/knowing-when-to-call-vs-text-vs-email?u=76281980&t=72)** Number two, if what you have to share is confidential, use a secure line, find [[Privacy]] and make a call.
 >
 > **[1:21](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/knowing-when-to-call-vs-text-vs-email?u=76281980&t=81)** An email or a text poses a risk of exposing the content of the message.
 >
@@ -992,7 +979,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/knowing-when-to-call-vs-text-vs-email?u=76281980&t=192)** Number three, in hyperconnected industries, email may be the fastest method.
 >
-> **[3:18](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/knowing-when-to-call-vs-text-vs-email?u=76281980&t=198)** For instance, real estate and banking are connected to fast-moving markets, quick transactions, and lots of paperwork, so agents and associates have to remain connected to their email.
+> **[3:18](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/knowing-when-to-call-vs-text-vs-email?u=76281980&t=198)** For instance, real estate and [[Banking]] are connected to fast-moving markets, quick transactions, and lots of paperwork, so agents and associates have to remain connected to their email.
 >
 > **[3:30](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/knowing-when-to-call-vs-text-vs-email?u=76281980&t=210)** Number four, send an email when communicating outside of business hours.
 >
@@ -1016,7 +1003,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Privacy]] (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[Banking]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2), for instance (1)
 > **Best Practices:** pro tip (1)
@@ -1026,8 +1013,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Written communication etiquette: Business letter
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/written-communication-etiquette-business-letter?u=76281980)
+#### [Written communication etiquette: Business letter](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/written-communication-etiquette-business-letter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1093,14 +1079,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), generic (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** pdf (1)
 > **Exercise Files:** template (1)
 > **Best Practices:** pro tip (1)
 
-#### Written communication etiquette: Contact information
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/written-communication-etiquette-contact-information?u=76281980)
+#### [Written communication etiquette: Contact information](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/written-communication-etiquette-contact-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1138,7 +1122,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/written-communication-etiquette-contact-information?u=76281980&t=109)** Here's a pro tip: Consider investing in a business card holder for an elegant touch and to protect your cards.
 >
-> **[1:59](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/written-communication-etiquette-contact-information?u=76281980&t=119)** If you're exchanging information digitally via a digital business card, a QR code, phone app, LinkedIn, or social media, renew or update any sites, subscriptions, or software for a seamless exchange.
+> **[1:59](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/written-communication-etiquette-contact-information?u=76281980&t=119)** If you're exchanging information digitally via a digital business card, a QR code, phone app, [[LinkedIn]], or social media, renew or update any sites, subscriptions, or software for a seamless exchange.
 >
 > **[2:16](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/written-communication-etiquette-contact-information?u=76281980&t=136)** Whether paper or digital, test any links, sites, and information on the card.
 >
@@ -1190,13 +1174,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), [[LinkedIn]] (2), career (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **CLI Commands:** make (2)
 > **Best Practices:** pro tip (2)
 > **Analogies:** for example (1)
 
-#### Written communication etiquette: Thanks, celebration, and sympathy
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/written-communication-etiquette-thanks-celebration-and-sympathy?u=76281980)
+#### [Written communication etiquette: Thanks, celebration, and sympathy](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/written-communication-etiquette-thanks-celebration-and-sympathy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1216,7 +1199,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/written-communication-etiquette-thanks-celebration-and-sympathy?u=76281980&t=55)** Keep in mind that people open 100 percent of physical cards they receive.
 >
-> **[1:03](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/written-communication-etiquette-thanks-celebration-and-sympathy?u=76281980&t=63)** Many keep their cards and some even post theirs around their home and their office, so sending a physical card increases the chance they'll see it in the future and think good things about you each time they do.
+> **[1:03](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/written-communication-etiquette-thanks-celebration-and-sympathy?u=76281980&t=63)** Many keep their cards and some even post theirs around their home and their [[Microsoft Office|office]], so sending a physical card increases the chance they'll see it in the future and think good things about you each time they do.
 >
 > **[1:16](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/written-communication-etiquette-thanks-celebration-and-sympathy?u=76281980&t=76)** Which occasions should I send greeting cards or notes?
 >
@@ -1248,7 +1231,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/written-communication-etiquette-thanks-celebration-and-sympathy?u=76281980&t=190)** Now, how about group cards, are those okay to send?
 >
-> **[3:14](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/written-communication-etiquette-thanks-celebration-and-sympathy?u=76281980&t=194)** Collecting signatures for a group card works well for a birthday or a work anniversary, but maybe not for sympathy or personal announcements, for privacy reasons.
+> **[3:14](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/written-communication-etiquette-thanks-celebration-and-sympathy?u=76281980&t=194)** Collecting signatures for a group card works well for a birthday or a work anniversary, but maybe not for sympathy or personal announcements, for [[Privacy]] reasons.
 >
 > **[3:26](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/written-communication-etiquette-thanks-celebration-and-sympathy?u=76281980&t=206)** Think if I wouldn't make a public announcement or send a mass email about it, I shouldn't pass a card around about it either.
 >
@@ -1286,7 +1269,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Microsoft Office|Office]] (1), career (1), next (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Privacy]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** open the (1)
@@ -1298,8 +1281,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Etiquette is all about relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/etiquette-is-all-about-relationships?u=76281980)
+#### [Etiquette is all about relationships](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/etiquette-is-all-about-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1329,7 +1311,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/etiquette-is-all-about-relationships?u=76281980&t=45)** And I'd love to hear from you and stay in touch.
 >
-> **[0:47](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/etiquette-is-all-about-relationships?u=76281980&t=47)** Connect with me on LinkedIn, visit my website, and follow me at [disruptiveetiquette.com](https://disruptiveetiquette.com) for fun etiquette tips.
+> **[0:47](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/etiquette-is-all-about-relationships?u=76281980&t=47)** Connect with me on [[LinkedIn]], visit my website, and follow me at [disruptiveetiquette.com](https://disruptiveetiquette.com) for fun etiquette tips.
 >
 > **[0:54](https://www.linkedin.com/learning/business-etiquette-phone-email-and-text-20203109/etiquette-is-all-about-relationships?u=76281980&t=54)** I'll leave you with one final thought.
 >
@@ -1345,7 +1327,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **URLs:** [disruptiveetiquette.com](https://disruptiveetiquette.com) (1)
 > **Definitions:** is an  (1)
 

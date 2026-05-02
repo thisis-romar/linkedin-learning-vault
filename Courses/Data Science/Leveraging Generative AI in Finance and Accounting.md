@@ -62,16 +62,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to generative AI in finance
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/introduction-to-generative-ai-in-finance?u=76281980)
+#### [Introduction to generative AI in finance](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/introduction-to-generative-ai-in-finance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/introduction-to-generative-ai-in-finance?u=76281980&t=0)** - What if you could unlock the secrets of your financial data, not by poring over spreadsheets, but by conversing with artificial intelligence as if it were a seasoned financial advisor.
+> **[0:00](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/introduction-to-generative-ai-in-finance?u=76281980&t=0)** - What if you could unlock the secrets of your [[Financial Data]], not by poring over spreadsheets, but by conversing with [[Artificial Intelligence (AI)|artificial intelligence]] as if it were a seasoned financial advisor.
 >
 > **[0:10](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/introduction-to-generative-ai-in-finance?u=76281980&t=10)** Sounds revolutionary, doesn't it? Well, it's happening now.
 >
-> **[0:14](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/introduction-to-generative-ai-in-finance?u=76281980&t=14)** Generative AI is not just a tool, but a paradigm shift in corporate finance and accounting.
+> **[0:14](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/introduction-to-generative-ai-in-finance?u=76281980&t=14)** [[Generative AI]] is not just a tool, but a paradigm shift in [[Corporate Finance]] and accounting.
 >
 > **[0:20](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/introduction-to-generative-ai-in-finance?u=76281980&t=20)** It's not just about doing the same things faster, it's about freeing you and your team to do entirely new work that adds value.
 >
@@ -87,7 +86,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Financial Data]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1), [[Corporate Finance]] (1)
+> **Frameworks & Libraries:** [[Financial Data]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1), [[Corporate Finance]] (1)
 > **Speakers:** - what (1)
 
 
@@ -95,18 +94,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The rise of generative AI in finance
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-rise-of-generative-ai-in-finance?u=76281980)
+#### [The rise of generative AI in finance](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-rise-of-generative-ai-in-finance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-rise-of-generative-ai-in-finance?u=76281980&t=1)** - When discussing generative AI, the key word is generative.
+> **[0:01](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-rise-of-generative-ai-in-finance?u=76281980&t=1)** - When discussing [[Generative AI]], the key [[Microsoft Word|word]] is generative.
 >
-> **[0:05](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-rise-of-generative-ai-in-finance?u=76281980&t=5)** This form of artificial intelligence goes beyond just data analysis to actually generate new data that wasn't part of its original training set.
+> **[0:05](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-rise-of-generative-ai-in-finance?u=76281980&t=5)** This form of [[Artificial Intelligence (AI)|artificial intelligence]] goes beyond just data analysis to actually generate new data that wasn't part of its original training set.
 >
-> **[0:13](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-rise-of-generative-ai-in-finance?u=76281980&t=13)** In layman's terms, generative AI uses complex algorithms and vast amounts of data to make its simulations and predictions.
+> **[0:13](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-rise-of-generative-ai-in-finance?u=76281980&t=13)** In layman's terms, generative AI uses complex [[Algorithms]] and vast amounts of data to make its simulations and predictions.
 >
-> **[0:21](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-rise-of-generative-ai-in-finance?u=76281980&t=21)** These algorithms based on artificial neural networks are designed to identify patterns and relationships within the data.
+> **[0:21](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-rise-of-generative-ai-in-finance?u=76281980&t=21)** These algorithms based on [[Artificial Neural Networks]] are designed to identify patterns and relationships within the data.
 >
 > **[0:30](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-rise-of-generative-ai-in-finance?u=76281980&t=30)** Once trained, these models can generate new data points that are statistically similar to, but not exactly the same as, the data they were trained on.
 >
@@ -132,29 +130,28 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-rise-of-generative-ai-in-finance?u=76281980&t=114)** It's enabling us to quickly perform a level of analysis that was previously unthinkable.
 >
-> **[2:01](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-rise-of-generative-ai-in-finance?u=76281980&t=121)** Now that you're aware of the capabilities of generative AI, consider how it could revolutionize your approach to corporate finance and accounting.
+> **[2:01](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-rise-of-generative-ai-in-finance?u=76281980&t=121)** Now that you're aware of the capabilities of generative AI, consider how it could revolutionize your approach to [[Corporate Finance]] and accounting.
 >
 > **[2:08](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-rise-of-generative-ai-in-finance?u=76281980&t=128)** The future is here, and you're a part of it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (6), data (6), [[Algorithms]] (2), [[Microsoft Word|Word]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Algorithms]] (2), [[Microsoft Word|Word]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Artificial Neural Networks]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** similar to (1), for example (1), imagine (1)
 > **Speakers:** - when (1)
 
-#### Generative AI and accounting automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-accounting-automation?u=76281980)
+#### [Generative AI and accounting automation](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-accounting-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-accounting-automation?u=76281980&t=0)** - Imagine if your accounting team was free from the drudgery of manual reconciliations and journal entries, and could instead focus on things like risk mitigation strategies, capital allocation, and long-term financial planning.
+> **[0:00](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-accounting-automation?u=76281980&t=0)** - Imagine if your accounting team was free from the drudgery of manual reconciliations and journal entries, and could instead focus on things like risk mitigation strategies, capital allocation, and long-term [[Financial Planning]].
 >
 > **[0:13](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-accounting-automation?u=76281980&t=13)** Sounds like an accountant's utopia, doesn't it?
 >
 > **[0:15](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-accounting-automation?u=76281980&t=15)** Well, it's closer than you think.
 >
-> **[0:17](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-accounting-automation?u=76281980&t=17)** Generative AI is not just a buzzword, it's a seismic shift in the accounting landscape.
+> **[0:17](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-accounting-automation?u=76281980&t=17)** [[Generative AI]] is not just a buzzword, it's a seismic shift in the accounting landscape.
 >
 > **[0:23](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-accounting-automation?u=76281980&t=23)** It's not about replacing accountants, it's about empowering them to do what they do best, only better.
 >
@@ -168,7 +165,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-accounting-automation?u=76281980&t=46)** You might say, wait a minute, haven't I heard this before?
 >
-> **[0:49](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-accounting-automation?u=76281980&t=49)** Wasn't robotic process automation supposed to do all of this?
+> **[0:49](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-accounting-automation?u=76281980&t=49)** Wasn't [[Robotic Process Automation (RPA)|robotic process automation]] supposed to do all of this?
 >
 > **[0:52](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-accounting-automation?u=76281980&t=52)** For those who aren't familiar, robotic process automation or RPA is a technology that employs software robots or bots to automate repetitive rule-based tasks within business processes.
 >
@@ -184,7 +181,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-accounting-automation?u=76281980&t=99)** Generative AI, on the other hand, goes beyond basic automation to offer intelligent decision making.
 >
-> **[1:45](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-accounting-automation?u=76281980&t=105)** It employs complex algorithms trained on huge data sets to not only execute tasks, but also to understand context, identify patterns, and even suggest optimal strategies.
+> **[1:45](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-accounting-automation?u=76281980&t=105)** It employs complex [[Algorithms]] trained on huge data sets to not only execute tasks, but also to understand context, identify patterns, and even suggest optimal strategies.
 >
 > **[1:56](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-accounting-automation?u=76281980&t=116)** This allows for a more dynamic and adaptive approach to accounting automation.
 >
@@ -192,7 +189,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-accounting-automation?u=76281980&t=133)** It has the ability to offer a depth of analysis and foresight that RPA simply can't match.
 >
-> **[2:20](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-accounting-automation?u=76281980&t=140)** So while generative AI could automate your reconciliation process, ensuring that your financial statements are accurate and up to date, it could also generate risk assessments that not only flag potential issues, but also suggest preemptive actions.
+> **[2:20](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-accounting-automation?u=76281980&t=140)** So while generative AI could automate your reconciliation process, ensuring that your [[Financial Statements]] are accurate and up to date, it could also generate risk assessments that not only flag potential issues, but also suggest preemptive actions.
 >
 > **[2:35](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-accounting-automation?u=76281980&t=155)** Imagine an AI powered system alerting you to a potential violation of tax codes and then offering solutions before it becomes a costly problem.
 >
@@ -210,21 +207,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (7), rpa (5), [[Robotic Process Automation (RPA)|Robotic process automation]] (2), business (2), data (2)
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[Robotic Process Automation (RPA)|Robotic process automation]] (2), [[Financial Planning]] (1), [[Algorithms]] (1), [[Financial Statements]] (1)
 > **Env Vars:** rpa (5)
 > **Analogies:** imagine (2), kind of like (1), for instance (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** configure (1)
 > **Speakers:** - imagine (1)
 
-#### Generative AI and its application in FP&A
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980)
+#### [Generative AI and its application in FP&A](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=1)** - What if you could ask your financial model complex questions in plain English and receive immediate, insightful answers?
 >
-> **[0:09](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=9)** Would that alter your approach to financial planning and analysis?
+> **[0:09](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=9)** Would that alter your approach to [[Financial Planning]] and analysis?
 >
 > **[0:12](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=12)** This transformative shift is already underway, and it's changing the way we interact with technology.
 >
@@ -232,7 +228,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=24)** Now, your natural spoken or written language is your interface.
 >
-> **[0:28](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=28)** This shift is made possible by large language models, or LLMs, which serve as a bridge between human intuition and computational power.
+> **[0:28](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=28)** This shift is made possible by [[Large Language Models (LLM)|large language models]], or LLMs, which serve as a bridge between human intuition and computational power.
 >
 > **[0:38](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=38)** LLMs are trained on vast datasets that encompass not just text, but also the nuances and contexts of human speech.
 >
@@ -240,7 +236,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=57)** But what makes these models truly powerful is their ability to be fine-tuned for specific domains.
 >
-> **[1:03](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=63)** In FP&A, this involves training these foundation models on financial data, industry trends and company specific metrics.
+> **[1:03](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=63)** In FP&A, this involves training these foundation models on [[Financial Data]], industry trends and company specific metrics.
 >
 > **[1:11](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=71)** The result is a subject matter expert in the form of an AI model that's capable of understanding the intricacies of your financial landscape and offering insights that are both data driven and contextually relevant.
 >
@@ -248,11 +244,11 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=87)** Imagine being able to ask your financial model questions like, "What would the impact on net income be if sales increased by 10%, but costs also went up by 5%?"
 >
-> **[1:38](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=98)** Generative AI can process this question and provide a detailed analysis, including potential effects on various accounts and key performance indicators.
+> **[1:38](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=98)** [[Generative AI]] can process this question and provide a detailed analysis, including potential effects on various accounts and key performance indicators.
 >
 > **[1:47](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=107)** This is not just about making tasks easier.
 >
-> **[1:50](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=110)** It's about making advanced financial analysis accessible to everyone in your organization.
+> **[1:50](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=110)** It's about making advanced [[Financial Analysis]] accessible to everyone in your organization.
 >
 > **[1:56](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=116)** If you asked a fine-tuned AI-powered finance model, a question like, "How would a 15% reduction in operating expenses affect our EBITDA for the next quarter?"
 >
@@ -262,15 +258,15 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=144)** We have to be aware of the potential of this level of detailed analysis accessible through natural language queries.
 >
-> **[2:31](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=151)** This would allow for real-time strategic adjustments, enabling your team to be more agile and responsive to market conditions.
+> **[2:31](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=151)** This would allow for [[Real-Time]] strategic adjustments, enabling your team to be more [[Agile Development|agile]] and responsive to market conditions.
 >
-> **[2:39](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=159)** Imagine the competitive advantage this could give your organization, especially in volatile markets where quick, informed decision-making is crucial.
+> **[2:39](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=159)** Imagine the competitive advantage this could give your organization, especially in volatile markets where quick, informed [[Decision-Making]] is crucial.
 >
 > **[2:48](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=168)** Now, regardless of their coding skills, everyone can engage in high-level financial planning and decision making.
 >
 > **[2:55](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=175)** This democratization of financial analysis is a transformative force in the FP&A landscape.
 >
-> **[3:02](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=182)** It enables professionals to engage in complex financial modeling and analysis using natural language, making the field more accessible and dynamic than ever before.
+> **[3:02](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=182)** It enables professionals to engage in complex [[Financial Modeling]] and analysis using natural language, making the field more accessible and dynamic than ever before.
 >
 > **[3:12](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/generative-ai-and-its-application-in-fp-a?u=76281980&t=192)** As you think about the future of FP&A, consider how generative AI could revolutionize your approach to financial planning and decision making.
 >
@@ -280,7 +276,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Planning]] (3), ai (3), [[Generative AI]] (2), [[Financial Analysis]] (2), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Financial Planning]] (3), [[Generative AI]] (2), [[Financial Analysis]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Financial Data]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (2)
 > **Env Vars:** ebitda (1)
@@ -293,12 +289,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding generative models
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/understanding-generative-models?u=76281980)
+#### [Understanding generative models](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/understanding-generative-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/understanding-generative-models?u=76281980&t=0)** - Welcome to a journey into the future of financial planning and analysis, a future where the complexities of financial models are unraveled through intuitive conversations with intelligent systems.
+> **[0:00](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/understanding-generative-models?u=76281980&t=0)** - Welcome to a journey into the future of [[Financial Planning]] and analysis, a future where the complexities of financial models are unraveled through intuitive conversations with intelligent systems.
 >
 > **[0:11](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/understanding-generative-models?u=76281980&t=11)** Think of generative models as your new financial oracle, but one that speaks your language.
 >
@@ -306,7 +301,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/understanding-generative-models?u=76281980&t=18)** Let's peel back the layers and delve into the underlying principles that make these models so revolutionary for financial planning and analysis.
 >
-> **[0:25](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/understanding-generative-models?u=76281980&t=25)** At the core of generative models are algorithms, specifically, neural networks that are designed to understand data in a way that mimics human cognition.
+> **[0:25](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/understanding-generative-models?u=76281980&t=25)** At the core of generative models are [[Algorithms]], specifically, [[Neural Networks]] that are designed to understand data in a way that mimics human cognition.
 >
 > **[0:34](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/understanding-generative-models?u=76281980&t=34)** These neural networks are trained on vast datasets, but unlike traditional machine learning models that make predictions based on input data, generative models can create new data that wasn't in their training set.
 >
@@ -336,7 +331,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/understanding-generative-models?u=76281980&t=145)** The real magic happens when these generative models are fine-tuned for specific financial tasks.
 >
-> **[2:31](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/understanding-generative-models?u=76281980&t=151)** Imagine a neural network trained not just on generic financial data, but on your company's specific financial history, market trends, and even news feeds.
+> **[2:31](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/understanding-generative-models?u=76281980&t=151)** Imagine a neural network trained not just on generic [[Financial Data]], but on your company's specific financial history, market trends, and even news feeds.
 >
 > **[2:41](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/understanding-generative-models?u=76281980&t=161)** This fine-tuned model becomes a subject matter expert that understands the unique nuances of your financial landscape.
 >
@@ -360,27 +355,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Financial Planning]] (2), [[Neural Networks]] (2), [[Automation]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Financial Planning]] (2), [[Neural Networks]] (2), [[Algorithms]] (1), [[Financial Data]] (1)
 > **CLI Commands:** make (3), node (1)
 > **Analogies:** similar to (1), imagine (1), for instance (1)
 > **Env Vars:** gan (1)
 > **Definitions:** means that (1)
 > **Speakers:** - welcome (1)
 
-#### Applications of generative AI in financial forecasting
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/applications-of-generative-ai-in-financial-forecasting?u=76281980)
+#### [Applications of generative AI in financial forecasting](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/applications-of-generative-ai-in-financial-forecasting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/applications-of-generative-ai-in-financial-forecasting?u=76281980&t=0)** - Today, financial forecasting typically involves sifting through spreadsheets, crunching numbers, and making educated guesses about future market conditions.
+> **[0:00](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/applications-of-generative-ai-in-financial-forecasting?u=76281980&t=0)** - Today, [[Financial Forecasting]] typically involves sifting through spreadsheets, crunching numbers, and making educated guesses about future market conditions.
 >
 > **[0:09](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/applications-of-generative-ai-in-financial-forecasting?u=76281980&t=9)** It's a labor intensive process that leaves room for error and uncertainty.
 >
-> **[0:13](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/applications-of-generative-ai-in-financial-forecasting?u=76281980&t=13)** But what if I told you that generative AI could turn this traditional approach on its head, offering real time and adaptive financial forecasting?
+> **[0:13](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/applications-of-generative-ai-in-financial-forecasting?u=76281980&t=13)** But what if I told you that [[Generative AI]] could turn this traditional approach on its head, offering real time and adaptive financial forecasting?
 >
 > **[0:22](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/applications-of-generative-ai-in-financial-forecasting?u=76281980&t=22)** Generative AI not only makes this possible, but efficient and user-friendly.
 >
-> **[0:27](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/applications-of-generative-ai-in-financial-forecasting?u=76281980&t=27)** Today we're diving deep into how generative AI can take predictive financial analysis to a whole new level, a new reality where analysts interact with complex machine learning models through natural language rather than spreadsheets and formulas.
+> **[0:27](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/applications-of-generative-ai-in-financial-forecasting?u=76281980&t=27)** Today we're diving deep into how generative AI can take predictive [[Financial Analysis]] to a whole new level, a new reality where analysts interact with complex machine learning models through natural language rather than spreadsheets and formulas.
 >
 > **[0:42](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/applications-of-generative-ai-in-financial-forecasting?u=76281980&t=42)** This isn't just about making educated guesses.
 >
@@ -404,7 +398,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/applications-of-generative-ai-in-financial-forecasting?u=76281980&t=95)** Generative AI achieves this level of automation and precision through a combination of advanced machine learning techniques.
 >
-> **[1:42](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/applications-of-generative-ai-in-financial-forecasting?u=76281980&t=102)** Utilizing generative adversarial networks or variational auto-encoders, these models can simulate as many financial scenarios as we require by generating synthetic data that closely resembles real world financial metrics.
+> **[1:42](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/applications-of-generative-ai-in-financial-forecasting?u=76281980&t=102)** Utilizing [[Generative Adversarial Networks (GANs)|generative adversarial networks]] or variational auto-encoders, these models can simulate as many financial scenarios as we require by generating synthetic data that closely resembles real world financial metrics.
 >
 > **[1:58](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/applications-of-generative-ai-in-financial-forecasting?u=76281980&t=118)** This generated data could then be run through Monte Carlo simulations to simulate a tremendous variety of possible outcomes.
 >
@@ -424,7 +418,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/applications-of-generative-ai-in-financial-forecasting?u=76281980&t=183)** By allowing users to access these powerful machines through natural language, generative AI doesn't just make life easier for your finance team, it makes advanced financial analysis accessible to decision makers throughout your organization.
 >
-> **[3:18](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/applications-of-generative-ai-in-financial-forecasting?u=76281980&t=198)** With natural language queries, anyone can interact with complex financial models without needing a degree in data science.
+> **[3:18](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/applications-of-generative-ai-in-financial-forecasting?u=76281980&t=198)** With natural language queries, anyone can interact with complex financial models without needing a degree in [[Data Science]].
 >
 > **[3:26](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/applications-of-generative-ai-in-financial-forecasting?u=76281980&t=206)** Generative AI is not just a tool.
 >
@@ -432,28 +426,27 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/applications-of-generative-ai-in-financial-forecasting?u=76281980&t=211)** It's enabling a level of analysis and adaptability that was previously unthinkable.
 >
-> **[3:36](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/applications-of-generative-ai-in-financial-forecasting?u=76281980&t=216)** So as you consider the future of your financial planning, know that generative AI offers a robust, dynamic approach that can give you a competitive edge.
+> **[3:36](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/applications-of-generative-ai-in-financial-forecasting?u=76281980&t=216)** So as you consider the future of your [[Financial Planning]], know that generative AI offers a robust, dynamic approach that can give you a competitive edge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (11), data (6), [[Financial Forecasting]] (5), [[Financial Analysis]] (3), power (1)
+> **Frameworks & Libraries:** [[Generative AI]] (11), [[Financial Forecasting]] (5), [[Financial Analysis]] (3), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (1), [[Data Science]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - today (1)
 
-#### The democratization of data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-democratization-of-data-science?u=76281980)
+#### [The democratization of data science](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-democratization-of-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-democratization-of-data-science?u=76281980&t=0)** - Have you ever felt like the world of data science was a members only club accessible only to those who speak the arcane languages of Python or R?
+> **[0:00](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-democratization-of-data-science?u=76281980&t=0)** - Have you ever felt like the world of [[Data Science]] was a members only club accessible only to those who speak the arcane languages of [[Python (Programming Language)|Python]] or R?
 >
 > **[0:09](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-democratization-of-data-science?u=76281980&t=9)** Well, the barriers are coming down, and the democratization of data science is upon us.
 >
 > **[0:15](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-democratization-of-data-science?u=76281980&t=15)** Let's start with an explanation of what data science is.
 >
-> **[0:19](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-democratization-of-data-science?u=76281980&t=19)** You may hear this term used interchangeably with business analytics, but they aren't synonymous.
+> **[0:19](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-democratization-of-data-science?u=76281980&t=19)** You may hear this term used interchangeably with [[Business Analytics]], but they aren't synonymous.
 >
-> **[0:24](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-democratization-of-data-science?u=76281980&t=24)** Data science is a multidisciplinary field that employs complex algorithms, machine learning, and artificial neural networks to analyze and interpret large and intricate data sets.
+> **[0:24](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-democratization-of-data-science?u=76281980&t=24)** Data science is a multidisciplinary field that employs complex [[Algorithms]], machine learning, and [[Artificial Neural Networks]] to analyze and interpret large and intricate data sets.
 >
 > **[0:36](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-democratization-of-data-science?u=76281980&t=36)** It aims to predict future outcomes and even simulate alternative scenarios.
 >
@@ -469,9 +462,9 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-democratization-of-data-science?u=76281980&t=83)** In essence, data science is the engine that powers this new era of financial intelligence, enabling professionals to make more informed and strategic decisions.
 >
-> **[1:33](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-democratization-of-data-science?u=76281980&t=93)** We're already seeing how generative AI is bringing data science to the masses through the releases of tools like OpenAI's Advanced Data Analysis tool.
+> **[1:33](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-democratization-of-data-science?u=76281980&t=93)** We're already seeing how [[Generative AI]] is bringing data science to the masses through the releases of tools like OpenAI's Advanced Data Analysis tool.
 >
-> **[1:42](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-democratization-of-data-science?u=76281980&t=102)** Think of ChatGPT's Advanced Data Analysis plugin as your personal Rosetta Stone for data science.
+> **[1:42](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-democratization-of-data-science?u=76281980&t=102)** Think of [[ChatGPT]]'s Advanced Data Analysis plugin as your personal Rosetta Stone for data science.
 >
 > **[1:49](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/the-democratization-of-data-science?u=76281980&t=109)** This tool translates your natural language queries into code, effectively opening the door to complex data analysis without requiring you to write a single line of code.
 >
@@ -509,7 +502,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), business (5), [[Analytics]] (3), [[ChatGPT]] (3), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (16), [[Business Analytics]] (3), [[ChatGPT]] (3), [[Python (Programming Language)|Python]] (1), [[Algorithms]] (1)
 > **Analogies:** it's like (1), think of it as (1), similar to (1), imagine (1), for instance (1)
 > **CLI Commands:** make (2), python (1)
 > **Definitions:** is a  (2)
@@ -520,12 +513,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ethics in AI-driven finance
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980)
+#### [Ethics in AI-driven finance](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=0)** - Would you trust artificial intelligence with your life savings?
+> **[0:00](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=0)** - Would you trust [[Artificial Intelligence (AI)|artificial intelligence]] with your life savings?
 >
 > **[0:04](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=4)** The question isn't as farfetched as it sounds.
 >
@@ -533,19 +525,19 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=12)** Let's talk about why this is more than a rhetorical question and why, as AI becomes more powerful and more widely used, we can't unlink its work from the ethical implications of its use.
 >
-> **[0:24](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=24)** Let's start with the foundation of ethics and AI.
+> **[0:24](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=24)** Let's start with the foundation of [[Ethics]] and AI.
 >
 > **[0:27](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=27)** These are the non-negotiables that cannot be ignored or taken lightly.
 >
-> **[0:31](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=31)** The three pillars of fairness, transparency, and accountability are the cornerstones of ethical AI.
+> **[0:31](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=31)** The three pillars of fairness, transparency, and [[Accountability]] are the cornerstones of ethical AI.
 >
 > **[0:39](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=39)** Fairness ensures that AI doesn't discriminate based on age, gender, race, ethnicity, sexual orientation, disability, or other factors.
 >
-> **[0:50](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=50)** But fairness also extends to equitable access to financial products and services.
+> **[0:50](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=50)** But fairness also extends to equitable access to financial [[Microsoft Products|products]] and services.
 >
-> **[0:56](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=56)** For instance, AI algorithms should be designed to avoid practices like redlining, which is a discriminatory practice that restricts loans in certain geographic areas, typically those occupied by minorities.
+> **[0:56](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=56)** For instance, AI [[Algorithms]] should be designed to avoid practices like redlining, which is a discriminatory practice that restricts loans in certain geographic areas, typically those occupied by minorities.
 >
-> **[1:10](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=70)** Transparency means that the decision-making process is understandable and open for review.
+> **[1:10](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=70)** Transparency means that the [[Decision-Making]] process is understandable and open for review.
 >
 > **[1:16](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=76)** It also involves disclosing how data is used and how decisions are made.
 >
@@ -557,15 +549,15 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=105)** To do this, AI applications must have a clear governance structure and a set of procedures for identifying and correcting errors.
 >
-> **[1:54](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=114)** This isn't just about having a human in the loop, it's about having the right human resources, such as ethicists and legal experts to evaluate the AI's decisions.
+> **[1:54](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=114)** This isn't just about having a human in the loop, it's about having the right [[Human Resources (HR)|human resources]], such as ethicists and legal experts to evaluate the AI's decisions.
 >
 > **[2:06](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=126)** Beyond these three pillars, we need to also consider best practices in AI.
 >
-> **[2:11](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=131)** These include things like data privacy, unbiased algorithms, and transparent decision-making processes.
+> **[2:11](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=131)** These include things like [[Data Privacy]], unbiased algorithms, and transparent decision-making processes.
 >
-> **[2:20](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=140)** Data privacy isn't just about compliance with regulations like GDPR or CCPA, it's about building trust.
+> **[2:20](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=140)** Data privacy isn't just about compliance with regulations like GDPR or CCPA, it's about [[Building Trust]].
 >
-> **[2:28](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=148)** This involves, not just secure data storage, but also ethical data sourcing and usage.
+> **[2:28](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=148)** This involves, not just secure [[Data Storage]], but also ethical data sourcing and usage.
 >
 > **[2:35](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=155)** Unbiased algorithms require regular audits to ensure they don't favor or discriminate against certain groups.
 >
@@ -581,7 +573,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=201)** The goal is to make the AI's decision-making process transparent, which allows humans to understand, trust, and effectively manage these advanced systems.
 >
-> **[3:32](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=212)** So let's look at how this might play out in the real world of corporate finance.
+> **[3:32](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=212)** So let's look at how this might play out in the real world of [[Corporate Finance]].
 >
 > **[3:36](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/ethics-in-ai-driven-finance?u=76281980&t=216)** Relying solely on AI for decision-making, particularly when it comes to recommendations like drastic cost cutting measures without considering the long-term human impact or ethical implications poses significant ethical and moral concerns.
 >
@@ -591,21 +583,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), data (7), [[Decision-Making]] (6), [[Algorithms]] (4), [[Accountability]] (2)
+> **Frameworks & Libraries:** [[Decision-Making]] (6), [[Algorithms]] (4), [[Accountability]] (2), [[Data Privacy]] (2), [[Ethics]] (1)
 > **Env Vars:** gdpr (1), ccpa (1), xai (1)
 > **Definitions:** means that (2), is a  (1)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - would (1)
 
-#### Compliance and regulatory landscape
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/compliance-and-regulatory-landscape?u=76281980)
+#### [Compliance and regulatory landscape](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/compliance-and-regulatory-landscape?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/compliance-and-regulatory-landscape?u=76281980&t=1)** - As artificial intelligence continues to make inroads into the financial sector, the complexity of this technology presents unique challenges for both auditors and businesses.
+> **[0:01](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/compliance-and-regulatory-landscape?u=76281980&t=1)** - As [[Artificial Intelligence (AI)|artificial intelligence]] continues to make inroads into the financial sector, the complexity of this technology presents unique challenges for both auditors and businesses.
 >
-> **[0:11](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/compliance-and-regulatory-landscape?u=76281980&t=11)** Auditors are now grappling with the intricate task of dissecting algorithms that are far more complex than traditional financial models.
+> **[0:11](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/compliance-and-regulatory-landscape?u=76281980&t=11)** Auditors are now grappling with the intricate task of dissecting [[Algorithms]] that are far more complex than traditional financial models.
 >
 > **[0:19](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/compliance-and-regulatory-landscape?u=76281980&t=19)** Businesses on the other side bear the dual responsibility of not only implementing these algorithms, but also making them transparent by clarifying their inputs, processes, and outputs to both regulators and stakeholders.
 >
@@ -615,7 +606,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/compliance-and-regulatory-landscape?u=76281980&t=50)** These are comprehensive external audits that rigorously test the design and operation of a company's IT, finance, and business controls.
 >
-> **[1:00](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/compliance-and-regulatory-landscape?u=76281980&t=60)** A clean SOC report is a foundational element that allows companies to rely on system outputs for critical functions, such as generating financial statements that can withstand regulatory scrutiny, which begs the question, can financial statements generated by AI withstand the rigors of audit scrutiny?
+> **[1:00](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/compliance-and-regulatory-landscape?u=76281980&t=60)** A clean SOC report is a foundational element that allows companies to rely on system outputs for critical functions, such as generating [[Financial Statements]] that can withstand regulatory scrutiny, which begs the question, can financial statements generated by AI withstand the rigors of audit scrutiny?
 >
 > **[1:19](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/compliance-and-regulatory-landscape?u=76281980&t=79)** While artificial intelligence capabilities in generating financial statements are advancing, the technology is not yet universally accepted as capable of withstanding those audits.
 >
@@ -629,53 +620,52 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/compliance-and-regulatory-landscape?u=76281980&t=125)** As AI systems advance, so does the risk landscape necessitating continuous vigilance and updates to security protocols.
 >
-> **[2:13](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/compliance-and-regulatory-landscape?u=76281980&t=133)** The big players at the forefront of ai, like Microsoft, Google, and OpenAI, are actively developing products designed to help their customers deploy AI at scale while remaining compliant.
+> **[2:13](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/compliance-and-regulatory-landscape?u=76281980&t=133)** The big players at the forefront of ai, like [[Microsoft]], [[Google]], and OpenAI, are actively developing [[Microsoft Products|products]] designed to help their customers deploy AI at scale while remaining compliant.
 >
-> **[2:24](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/compliance-and-regulatory-landscape?u=76281980&t=144)** These products are engineered to align with responsible AI practices and to meet specific regulatory requirements such as those set forth by regulatory agencies.
+> **[2:24](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/compliance-and-regulatory-landscape?u=76281980&t=144)** These products are engineered to align with [[Responsible AI]] practices and to meet specific regulatory requirements such as those set forth by regulatory agencies.
 >
 > **[2:35](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/compliance-and-regulatory-landscape?u=76281980&t=155)** By doing so, these tech giants are providing tools that can adapt to both existing and emerging regulations, including the Global Data Protection Regulation, or GDPR, and equal Employment Opportunity Laws.
 >
-> **[2:48](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/compliance-and-regulatory-landscape?u=76281980&t=168)** The focus is not just on innovation, but also on accountability as companies position themselves to be compliant with future regulations by deploying AI responsibly today.
+> **[2:48](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/compliance-and-regulatory-landscape?u=76281980&t=168)** The focus is not just on innovation, but also on [[Accountability]] as companies position themselves to be compliant with future regulations by deploying AI responsibly today.
 >
 > **[3:00](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/compliance-and-regulatory-landscape?u=76281980&t=180)** For us, as stewards of financial integrity, the stakes are high to keep pace with rapid technological advancements.
 >
 > **[3:07](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/compliance-and-regulatory-landscape?u=76281980&t=187)** This isn't just about staying competitive, it's about fulfilling our fundamental duties to clients and stakeholders.
 >
-> **[3:15](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/compliance-and-regulatory-landscape?u=76281980&t=195)** As the custodians of financial accuracy, we must navigate these evolving complexities ensuring we don't compromise our ethics in pursuit of technological advancement.
+> **[3:15](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/compliance-and-regulatory-landscape?u=76281980&t=195)** As the custodians of financial accuracy, we must navigate these evolving complexities ensuring we don't compromise our [[Ethics]] in pursuit of technological advancement.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Financial Statements]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Algorithms]] (2), business (2)
+> **Frameworks & Libraries:** [[Financial Statements]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Algorithms]] (2), [[Microsoft Products|Products]] (2), [[Microsoft]] (1)
 > **Env Vars:** soc (2), gdpr (1)
 > **Definitions:** known as (1), is a  (1), is an  (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - as (1)
 
-#### SOC 2 compliance and generative AI models
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980)
+#### [SOC 2 compliance and generative AI models](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=0)** - As generative AI models become more sophisticated, the need for ethical data management intensifies.
+> **[0:00](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=0)** - As [[Generative AI]] models become more sophisticated, the need for ethical [[Data Management]] intensifies.
 >
 > **[0:07](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=7)** In response to this growing demand, SOC 2 compliance, a specialized subset of System and Organization Controls or SOC plays a pivotal role in ensuring the secure and ethical management of generative AI data.
 >
 > **[0:21](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=21)** SOC 2 assessments conducted by independent auditors generate public reports that validate an organization's data protection capabilities.
 >
-> **[0:30](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=30)** These reports focus on five trust service principles, security, availability, processing integrity, confidentiality, and privacy.
+> **[0:30](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=30)** These reports focus on five trust service principles, security, availability, processing integrity, confidentiality, and [[Privacy]].
 >
 > **[0:42](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=42)** The principle of security ensures that the extensive data sets used for AI models are safeguarded against unauthorized access.
 >
-> **[0:49](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=49)** For example, this could involve implementing multi-factor authentication and firewall protections to restrict who can access the data.
+> **[0:49](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=49)** For example, this could involve implementing [[Multi-factor Authentication]] and firewall protections to restrict who can access the data.
 >
-> **[0:58](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=58)** Availability ensures that these AI systems are consistently operational and accessible for decision-making processes.
+> **[0:58](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=58)** Availability ensures that these AI systems are consistently operational and accessible for [[Decision-Making]] processes.
 >
-> **[1:06](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=66)** This means that backup systems and failsafes are often in place to ensure that the AI models are available even in the case of hardware failures or other disruptions.
+> **[1:06](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=66)** This means that backup systems and failsafes are often in place to ensure that the AI models are available even in the case of [[Hardware]] failures or other disruptions.
 >
 > **[1:17](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=77)** The processing integrity principle guarantees that the AI models process data both accurately and reliably.
 >
-> **[1:24](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=84)** This could involve regular audits and quality checks to ensure that the algorithms are performing as expected and not producing erroneous or misleading results.
+> **[1:24](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=84)** This could involve regular audits and quality checks to ensure that the [[Algorithms]] are performing as expected and not producing erroneous or misleading results.
 >
 > **[1:34](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=94)** Confidentiality is particularly important when AI models interact with sensitive financial or personal data, ensuring that such information is restricted and well protected.
 >
@@ -685,15 +675,15 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=124)** This may involve anonymizing data sets to protect individual identities or obtaining explicit consent from individuals whose data is being used.
 >
-> **[2:14](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=134)** Each of these principles serves as a crucial component in the responsible and ethical deployment of generative AI, particularly in sectors where data sensitivity and regulatory compliance are paramount, such as finance, healthcare, and legal services.
+> **[2:14](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=134)** Each of these principles serves as a crucial component in the responsible and ethical deployment of generative AI, particularly in sectors where data sensitivity and [[Regulatory Compliance]] are paramount, such as finance, healthcare, and legal services.
 >
-> **[2:30](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=150)** In these sectors, SOC 2 acts as a safeguard, ensuring that technological advancements like generative AI don't compromise data security or ethics.
+> **[2:30](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=150)** In these sectors, SOC 2 acts as a safeguard, ensuring that technological advancements like generative AI don't compromise [[Data Security]] or [[Ethics]].
 >
-> **[2:42](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=162)** In corporate finance, data is obviously a critical asset.
+> **[2:42](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=162)** In [[Corporate Finance]], data is obviously a critical asset.
 >
 > **[2:45](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=165)** SOC 2 compliance helps organizations minimize risks, build stakeholder trust, and adhere to industry regulations by ensuring the secure and ethical management of generative AI data.
 >
-> **[2:58](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=178)** For example, a financial institution using AI for fraud detection would need to implement a SOC 2 program that includes multi-layered data security measures, such as stringent access controls, robust encryption, and continuous monitoring.
+> **[2:58](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=178)** For example, a financial institution using AI for fraud detection would need to implement a SOC 2 program that includes multi-layered data security measures, such as stringent access controls, robust encryption, and [[Continuous Monitoring]].
 >
 > **[3:14](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/soc-2-compliance-and-generative-ai-models?u=76281980&t=194)** These measures secure the data and enhance the institution's credibility and reputation.
 >
@@ -705,7 +695,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), ai (8), [[Generative AI]] (6), management (4), [[Security]] (4)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Data Management]] (2), [[Privacy]] (2), [[Data Security]] (2), [[Corporate Finance]] (2)
 > **Env Vars:** soc (7)
 > **Analogies:** for example (2), such as (2), think of it as (1)
 > **Definitions:** means that (1), is a  (1)
@@ -716,18 +706,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analyze an annual report with generative AI: 10-K
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980)
+#### [Analyze an annual report with generative AI: 10-K](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980&t=0)** - [Instructor] Now let's take a look at generative AI in action using Apple's 10-K report.
+> **[0:00](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980&t=0)** - [Instructor] Now let's take a look at [[Generative AI]] in action using Apple's 10-K report.
 >
 > **[0:05](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980&t=5)** If you're not familiar, a 10-K report is an annual filing that publicly traded companies submit to the SEC.
 >
-> **[0:11](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980&t=11)** You might be eager to jump into the financial statements, but the textual elements like management discussion and analysis, and risks and opportunities can provide deep insights into a company's strategy and market conditions.
+> **[0:11](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980&t=11)** You might be eager to jump into the [[Financial Statements]], but the textual elements like management discussion and analysis, and risks and opportunities can provide deep insights into a company's strategy and market conditions.
 >
-> **[0:27](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980&t=27)** Let's upload the report into ChatGPT.
+> **[0:27](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980&t=27)** Let's upload the report into [[ChatGPT]].
 >
 > **[0:42](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980&t=42)** My first prompt is always to ensure that the LLM can read and understand the document.
 >
@@ -741,11 +730,11 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980&t=86)** As ChatGPT instantly responds to this question, think about how long it would take flipping through the document or scrolling through the document to find this information.
 >
-> **[1:34](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980&t=94)** This is one of the great features of large language models, is they can quickly summarize text and make sense of huge amounts of data.
+> **[1:34](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980&t=94)** This is one of the great features of [[Large Language Models (LLM)|large language models]], is they can quickly summarize text and make sense of huge amounts of data.
 >
 > **[1:44](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980&t=104)** So we see here the key contributors to revenue growth.
 >
-> **[1:47](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980&t=107)** The growth drivers are higher net sales from advertising, growth in App Store activity, and expansion of cloud services.
+> **[1:47](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980&t=107)** The growth drivers are higher net sales from advertising, growth in App Store activity, and expansion of [[Cloud Services]].
 >
 > **[1:53](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980&t=113)** And we see also that this is cited where the information came from.
 >
@@ -767,7 +756,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980&t=183)** Legal, regulatory, and compliance risks.
 >
-> **[3:06](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980&t=186)** Cybersecurity and IP.
+> **[3:06](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980&t=186)** [[Cybersecurity]] and IP.
 >
 > **[3:08](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980&t=188)** Market and competitive.
 >
@@ -779,7 +768,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980&t=214)** This one requires the model to do a little bit more interpretation.
 >
-> **[3:38](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980&t=218)** We're going to ask, how is Apple adapting its product strategy with the introduction of Apple Intelligence and other AI capabilities?
+> **[3:38](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980&t=218)** We're going to ask, how is Apple adapting its [[Product Strategy]] with the introduction of Apple Intelligence and other AI capabilities?
 >
 > **[3:55](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-10-k-26014269?u=76281980&t=235)** We see here the introduction of Apple Intelligence, what came from the 10-K report, and the strategic implications, which are interpretations of the data that was in the report.
 >
@@ -807,7 +796,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Generative AI]] (3), data (3), management (2), llm (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Generative AI]] (3), [[Financial Statements]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Cloud Services]] (1)
 > **Env Vars:** llm (2), sec (1), ceo (1)
 > **Code Identifiers:** ipad (2), iphone (1)
 > **CLI Commands:** find (1), make (1)
@@ -816,12 +805,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyze an annual report with generative AI: Financial statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-financial-statements-26014270?u=76281980)
+#### [Analyze an annual report with generative AI: Financial statements](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-financial-statements-26014270?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-financial-statements-26014270?u=76281980&t=0)** - [Instructor] In this interactive case study, we're diving deep into Apple's financial statements.
+> **[0:00](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-financial-statements-26014270?u=76281980&t=0)** - [Instructor] In this interactive case study, we're diving deep into Apple's [[Financial Statements]].
 >
 > **[0:05](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-financial-statements-26014270?u=76281980&t=5)** We'll be focusing on three main financial statements: the income statement; balance sheet; and statement of cash flows.
 >
@@ -837,7 +825,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-financial-statements-26014270?u=76281980&t=45)** The second column shows the account revenue, revenue growth, et cetera, and the subsequent columns show quarterly data, going from 2020 through 2024.
 >
-> **[1:00](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-financial-statements-26014270?u=76281980&t=60)** When I upload data for analysis, I like to tell ChatGPT what the data is and how we're going to use it.
+> **[1:00](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-financial-statements-26014270?u=76281980&t=60)** When I upload data for analysis, I like to tell [[ChatGPT]] what the data is and how we're going to use it.
 >
 > **[1:07](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-financial-statements-26014270?u=76281980&t=67)** So we're uploading our CSV, and here's a sample prompt I normally use.
 >
@@ -847,7 +835,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-financial-statements-26014270?u=76281980&t=92)** Okay, so the data has been uploaded and ChatGPT has identified it.
 >
-> **[1:37](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-financial-statements-26014270?u=76281980&t=97)** It's ready for time series analysis and visualization.
+> **[1:37](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-financial-statements-26014270?u=76281980&t=97)** It's ready for [[Time Series Analysis]] and visualization.
 >
 > **[1:41](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-financial-statements-26014270?u=76281980&t=101)** Let's start with a broad question.
 >
@@ -889,7 +877,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-financial-statements-26014270?u=76281980&t=295)** We see the ROE over time and all the DuPont components over time, and here are the insights that ChatGPT provides on each.
 >
-> **[5:07](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-financial-statements-26014270?u=76281980&t=307)** What I hope you notice there and what really sets generative AI apart from traditional software is that you can speak to it as you would an intern or a coworker, maybe a junior financial analyst, and that it understands contextually what you're looking for.
+> **[5:07](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-financial-statements-26014270?u=76281980&t=307)** What I hope you notice there and what really sets [[Generative AI]] apart from traditional software is that you can speak to it as you would an intern or a coworker, maybe a junior financial analyst, and that it understands contextually what you're looking for.
 >
 > **[5:20](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/analyze-an-annual-report-with-generative-ai-financial-statements-26014270?u=76281980&t=320)** In a matter of minutes, we just went through and analyzed the three financial statements.
 >
@@ -899,24 +887,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (10), data (7), [[Financial Statements]] (6), prompt (3), [[Time Series Analysis]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (10), [[Financial Statements]] (6), [[Time Series Analysis]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** csv (2), roe (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create financial forecasts with generative AI: Trend analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/create-financial-forecasts-with-generative-ai-trend-analysis-26016301?u=76281980)
+#### [Create financial forecasts with generative AI: Trend analysis](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/create-financial-forecasts-with-generative-ai-trend-analysis-26016301?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/create-financial-forecasts-with-generative-ai-trend-analysis-26016301?u=76281980&t=0)** - [Instructor] In our third and final case study, let's look at two approaches for forecasting Apple's revenue, trend analysis and predictive analytics.
+> **[0:00](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/create-financial-forecasts-with-generative-ai-trend-analysis-26016301?u=76281980&t=0)** - [Instructor] In our third and final case study, let's look at two approaches for [[Forecasting]] Apple's revenue, trend analysis and [[Predictive Analytics]].
 >
-> **[0:08](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/create-financial-forecasts-with-generative-ai-trend-analysis-26016301?u=76281980&t=8)** For both approaches, we'll be using historical quarterly data from Apple's financial statements as our time series basis to forecast revenue for the next 12 quarters.
+> **[0:08](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/create-financial-forecasts-with-generative-ai-trend-analysis-26016301?u=76281980&t=8)** For both approaches, we'll be using historical quarterly data from Apple's [[Financial Statements]] as our time series basis to forecast revenue for the next 12 quarters.
 >
-> **[0:18](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/create-financial-forecasts-with-generative-ai-trend-analysis-26016301?u=76281980&t=18)** This kind of analysis used to be time-consuming using traditional tools, but today, you'll see how much time we can save using generative AI.
+> **[0:18](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/create-financial-forecasts-with-generative-ai-trend-analysis-26016301?u=76281980&t=18)** This kind of analysis used to be time-consuming using traditional tools, but today, you'll see how much time we can save using [[Generative AI]].
 >
-> **[0:26](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/create-financial-forecasts-with-generative-ai-trend-analysis-26016301?u=76281980&t=26)** One approach to forecasting is simple linear regression.
+> **[0:26](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/create-financial-forecasts-with-generative-ai-trend-analysis-26016301?u=76281980&t=26)** One approach to forecasting is simple [[Linear Regression]].
 >
 > **[0:29](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/create-financial-forecasts-with-generative-ai-trend-analysis-26016301?u=76281980&t=29)** Here, we fit a line to the historical revenue and extend that line into the future.
 >
@@ -928,7 +915,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/create-financial-forecasts-with-generative-ai-trend-analysis-26016301?u=76281980&t=61)** A more complex approach is using SARIMA or Seasonal Autoregressive Integrated Moving Average, which captures different aspects of the time series, such as seasonality and trends.
 >
-> **[1:11](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/create-financial-forecasts-with-generative-ai-trend-analysis-26016301?u=76281980&t=71)** For those unfamiliar with SARIMA, it's a time series analysis method that models future data based on past values, differences between consecutive data points, and a moving average component to capture patterns and trends in the data.
+> **[1:11](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/create-financial-forecasts-with-generative-ai-trend-analysis-26016301?u=76281980&t=71)** For those unfamiliar with SARIMA, it's a [[Time Series Analysis]] method that models future data based on past values, differences between consecutive data points, and a moving average component to capture patterns and trends in the data.
 >
 > **[1:26](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/create-financial-forecasts-with-generative-ai-trend-analysis-26016301?u=76281980&t=86)** Let's check it out.
 >
@@ -942,7 +929,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/create-financial-forecasts-with-generative-ai-trend-analysis-26016301?u=76281980&t=136)** So now we see the Seasonal Autoregressive Integrated Moving Average and linear regression in the same chart.
 >
-> **[2:24](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/create-financial-forecasts-with-generative-ai-trend-analysis-26016301?u=76281980&t=144)** Let's ask ChatGPT which approach would be better for our forecast?
+> **[2:24](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/create-financial-forecasts-with-generative-ai-trend-analysis-26016301?u=76281980&t=144)** Let's ask [[ChatGPT]] which approach would be better for our forecast?
 >
 > **[2:42](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/create-financial-forecasts-with-generative-ai-trend-analysis-26016301?u=76281980&t=162)** This is great.
 >
@@ -956,7 +943,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/create-financial-forecasts-with-generative-ai-trend-analysis-26016301?u=76281980&t=184)** But no model is complete without domain knowledge.
 >
-> **[3:07](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/create-financial-forecasts-with-generative-ai-trend-analysis-26016301?u=76281980&t=187)** While data science techniques provide a quantitative foundation, it's crucial to overlay these models with qualitative insights.
+> **[3:07](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/create-financial-forecasts-with-generative-ai-trend-analysis-26016301?u=76281980&t=187)** While [[Data Science]] techniques provide a quantitative foundation, it's crucial to overlay these models with qualitative insights.
 >
 > **[3:14](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/create-financial-forecasts-with-generative-ai-trend-analysis-26016301?u=76281980&t=194)** Understanding industry trends, product cycles, and macroeconomic conditions can help refine the forecast even further.
 >
@@ -968,7 +955,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Linear Regression]] (4), [[Forecasting]] (3), [[Generative AI]] (2), [[ChatGPT]] (2)
+> **Frameworks & Libraries:** [[Linear Regression]] (4), [[Forecasting]] (3), [[Generative AI]] (2), [[ChatGPT]] (2), [[Data Science]] (2)
 > **Env Vars:** sarima (4)
 > **Analogies:** such as (1), just like (1)
 > **Definitions:** is a  (1)
@@ -979,8 +966,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apply generative AI techniques with confidence and compliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/apply-generative-ai-techniques-with-confidence-and-compliance?u=76281980)
+#### [Apply generative AI techniques with confidence and compliance](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/apply-generative-ai-techniques-with-confidence-and-compliance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -988,7 +974,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/apply-generative-ai-techniques-with-confidence-and-compliance?u=76281980&t=7)** We've seen how this transformative technology can revolutionize the way we analyze data, make forecasts, and even understand complex financial documents.
 >
-> **[0:16](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/apply-generative-ai-techniques-with-confidence-and-compliance?u=76281980&t=16)** The power of generative AI isn't just in automating tasks, it's an augmenting your capabilities to make more informed strategic decisions.
+> **[0:16](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/apply-generative-ai-techniques-with-confidence-and-compliance?u=76281980&t=16)** The power of [[Generative AI]] isn't just in automating tasks, it's an augmenting your capabilities to make more informed strategic decisions.
 >
 > **[0:25](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/apply-generative-ai-techniques-with-confidence-and-compliance?u=76281980&t=25)** So what's next?
 >
@@ -996,9 +982,9 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/apply-generative-ai-techniques-with-confidence-and-compliance?u=76281980&t=29)** See how these amazing tools work for yourself.
 >
-> **[0:32](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/apply-generative-ai-techniques-with-confidence-and-compliance?u=76281980&t=32)** Experiment with tools like ChatGPT, Google's Bard, or Anthropic's Claude.
+> **[0:32](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/apply-generative-ai-techniques-with-confidence-and-compliance?u=76281980&t=32)** Experiment with tools like [[ChatGPT]], [[Google]]'s Bard, or Anthropic's Claude.
 >
-> **[0:37](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/apply-generative-ai-techniques-with-confidence-and-compliance?u=76281980&t=37)** You could use public company financial data like we did in our case studies to see how they can help with your own financial analysis.
+> **[0:37](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/apply-generative-ai-techniques-with-confidence-and-compliance?u=76281980&t=37)** You could use public company [[Financial Data]] like we did in our case studies to see how they can help with your own [[Financial Analysis]].
 >
 > **[0:44](https://www.linkedin.com/learning/leveraging-generative-ai-in-finance-and-accounting/apply-generative-ai-techniques-with-confidence-and-compliance?u=76281980&t=44)** But also, you can just use these tools for everyday questions and projects like creating trip itineraries, meal planning, or brainstorming a new business idea.
 >
@@ -1014,7 +1000,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), ai (2), power (1), [[Generative AI]] (1), next (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[ChatGPT]] (1), [[Google]] (1), [[Financial Data]] (1), [[Financial Analysis]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - we (1)
 

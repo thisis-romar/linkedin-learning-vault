@@ -86,12 +86,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### CRM application with React Native
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/crm-application-with-react-native?u=76281980)
+#### [CRM application with React Native](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/crm-application-with-react-native?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/crm-application-with-react-native?u=76281980&t=0)** - [Mani] If you've built any applications with React, you've probably heard about React Native, the framework that allows you to build native iOS and Android apps.
+> **[0:00](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/crm-application-with-react-native?u=76281980&t=0)** - [Mani] If you've built any applications with [[React.js|React]], you've probably heard about [[React Native]], the framework that allows you to build native iOS and [[Android]] apps.
 >
 > **[0:09](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/crm-application-with-react-native?u=76281980&t=9)** In this course, we'll build a CRM application using React Native.
 >
@@ -107,32 +106,31 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React Native]] (4), application (3), [[React.js|React]] (2), [[Android]] (1), next (1)
+> **Frameworks & Libraries:** [[React Native]] (4), [[React.js|React]] (2), [[Android]] (1)
 > **Env Vars:** crm (2), crud (1)
 > **Code Identifiers:** ios (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [mani] (1)
 
-#### Course prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/course-prerequisites?u=76281980)
+#### [Course prerequisites](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/course-prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/course-prerequisites?u=76281980&t=0)** - [Instructor] As this course is the creation of a React Native application, some knowledge of React is a must.
+> **[0:00](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/course-prerequisites?u=76281980&t=0)** - [Instructor] As this course is the creation of a [[React Native]] application, some knowledge of [[React.js|React]] is a must.
 >
 > **[0:07](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/course-prerequisites?u=76281980&t=7)** If creating React components, using props, or the state, and importing modules are concepts that aren't familiar to you, I'd suggest you take a basic React course.
 >
-> **[0:17](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/course-prerequisites?u=76281980&t=17)** Also, experience with JavaScript is a must for this course, as this is the basis of a React programmer.
+> **[0:17](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/course-prerequisites?u=76281980&t=17)** Also, experience with [[JavaScript]] is a must for this course, as this is the basis of a React programmer.
 >
-> **[0:24](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/course-prerequisites?u=76281980&t=24)** You can take this course on a Mac or Windows.
+> **[0:24](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/course-prerequisites?u=76281980&t=24)** You can take this course on a Mac or [[Windows]].
 >
 > **[0:26](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/course-prerequisites?u=76281980&t=26)** I've delivered this course on both operating systems, so feel free to use whichever you prefer.
 >
-> **[0:31](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/course-prerequisites?u=76281980&t=31)** Last but not least, being familiar with terminal commands and npm isn't a must, but definitely will help you when we use these tools.
+> **[0:31](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/course-prerequisites?u=76281980&t=31)** Last but not least, being familiar with terminal commands and [[npm]] isn't a must, but definitely will help you when we use these tools.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), [[React Native]] (1), application (1), [[JavaScript]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[React Native]] (1), [[JavaScript]] (1), [[Windows]] (1), [[npm]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** npm (1)
 > **Tools:** terminal (1)
@@ -143,24 +141,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Initialize React Native project
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/initialize-react-native-project?u=76281980)
+#### [Initialize React Native project](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/initialize-react-native-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/initialize-react-native-project?u=76281980&t=0)** - [Instructor] Okay, so we're going to go and get started by creating a new React Native project.
+> **[0:00](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/initialize-react-native-project?u=76281980&t=0)** - [Instructor] Okay, so we're going to go and get started by creating a new [[React Native]] project.
 >
 > **[0:06](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/initialize-react-native-project?u=76281980&t=6)** And the way to go about doing this, if you want to follow along on the instructions from [reactnative.dev](https://reactnative.dev), you can go ahead and click on Get Started right away.
 >
 > **[0:16](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/initialize-react-native-project?u=76281980&t=16)** And what it's going to show you are all the steps that you need to go through to create a new project.
 >
-> **[0:23](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/initialize-react-native-project?u=76281980&t=23)** In the past, we used a React Native CLI Quickstart.
+> **[0:23](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/initialize-react-native-project?u=76281980&t=23)** In the past, we used a React Native [[CLI]] Quickstart.
 >
 > **[0:26](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/initialize-react-native-project?u=76281980&t=26)** It's a bit more complex and there's a lot of things that you need to install, but this is the way to go if you want to have specific development operating systems and specific target OS that you want to do.
 >
-> **[0:39](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/initialize-react-native-project?u=76281980&t=39)** Especially if you're using Linux, you want to go and click on Linux and find out how you can actually use Android and Linux.
+> **[0:39](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/initialize-react-native-project?u=76281980&t=39)** Especially if you're using [[Linux]], you want to go and click on Linux and find out how you can actually use [[Android]] and Linux.
 >
-> **[0:46](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/initialize-react-native-project?u=76281980&t=46)** The same thing with Android and Windows.
+> **[0:46](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/initialize-react-native-project?u=76281980&t=46)** The same thing with Android and [[Windows]].
 >
 > **[0:49](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/initialize-react-native-project?u=76281980&t=49)** iOS is not supported either on Linux or Windows.
 >
@@ -184,7 +181,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/initialize-react-native-project?u=76281980&t=100)** The same with iOS.
 >
-> **[1:43](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/initialize-react-native-project?u=76281980&t=103)** If you are planning on going on iOS as the final target OS, go and make sure that you have Xcode installed, simulator installed, and all the requirements for these systems.
+> **[1:43](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/initialize-react-native-project?u=76281980&t=103)** If you are planning on going on iOS as the final target OS, go and make sure that you have [[Xcode]] installed, simulator installed, and all the requirements for these systems.
 >
 > **[1:56](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/initialize-react-native-project?u=76281980&t=116)** And you can use the quick start here by jumping to the specific target OS and development OS and follow these instructions to actually install everything you need for your system.
 >
@@ -212,7 +209,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/initialize-react-native-project?u=76281980&t=187)** So what I'm going to do is go ahead and on my desktop, create a new application, CRM application, with the instructions here.
 >
-> **[3:16](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/initialize-react-native-project?u=76281980&t=196)** And we're going to need to use the NPX command, which is basically the same as NPM.
+> **[3:16](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/initialize-react-native-project?u=76281980&t=196)** And we're going to need to use the NPX command, which is basically the same as [[npm]].
 >
 > **[3:23](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/initialize-react-native-project?u=76281980&t=203)** The other difference between NPX and NPM is that it doesn't need to install the libraries or the packages prior to do the NPM command.
 >
@@ -286,7 +283,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (14), [[Android]] (6), [[Linux]] (4), [[React Native]] (3), [[npm]] (3)
+> **Frameworks & Libraries:** [[Android]] (6), [[Linux]] (4), [[React Native]] (3), [[npm]] (3), [[Windows]] (2)
 > **CLI Commands:** make (8), npx (4), npm (3), cd (2), find (1)
 > **Env Vars:** npx (4), crm (3), npm (3), cli (1)
 > **Code Identifiers:** ios (6), iphone (3), macos (1)
@@ -295,14 +292,13 @@ created: 2026-05-02
 > **UI Navigation:** click on (2), open the (1)
 > **File Paths:** app.js (2)
 
-#### Project folder structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/project-folder-structure?u=76281980)
+#### [Project folder structure](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/project-folder-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/project-folder-structure?u=76281980&t=0)** - [Instructor] Let's take a look at the project structure and what are the files included with an Expo build.
 >
-> **[0:06](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/project-folder-structure?u=76281980&t=6)** Note to self, if you've ever done React Native, the CLI approach, you have more files here, and you have like the iOS and Android files.
+> **[0:06](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/project-folder-structure?u=76281980&t=6)** Note to self, if you've ever done [[React Native]], the [[CLI]] approach, you have more files here, and you have like the iOS and [[Android]] files.
 >
 > **[0:16](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/project-folder-structure?u=76281980&t=16)** And if you want to write specific codes to these specific files for targeting these target OS, it's in the folder structure here.
 >
@@ -322,7 +318,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/project-folder-structure?u=76281980&t=79)** So right now, we just did an iOS simulator, and this is why there's nothing here.
 >
-> **[1:24](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/project-folder-structure?u=76281980&t=84)** And if you read the README.md, it's going to tell you that you don't have to pay much attention to this unless you want to have more information, and you do not commit this file or folder to GitHub, and it's in the .gitignore here.
+> **[1:24](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/project-folder-structure?u=76281980&t=84)** And if you read the README.md, it's going to tell you that you don't have to pay much attention to this unless you want to have more information, and you do not commit this file or folder to [[GitHub]], and it's in the .gitignore here.
 >
 > **[1:40](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/project-folder-structure?u=76281980&t=100)** So, this is the Expo.
 >
@@ -332,7 +328,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/project-folder-structure?u=76281980&t=112)** The node_modules are all the libraries and packages that are installed with this application, and you can see a replication of what they are.
 >
-> **[1:59](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/project-folder-structure?u=76281980&t=119)** So we have react-native, we have react, expo-status-bar and expo, and you have @babel/core for the devDependencies, and these are the scripts that we can use with this one.
+> **[1:59](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/project-folder-structure?u=76281980&t=119)** So we have [[React.js|react]]-native, we have react, expo-status-bar and expo, and you have @babel/core for the devDependencies, and these are the scripts that we can use with this one.
 >
 > **[2:13](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/project-folder-structure?u=76281980&t=133)** And basically what we're doing is npx expo start, and you can be specific when you start it to go to iOS or to go to the web here.
 >
@@ -378,7 +374,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/project-folder-structure?u=76281980&t=265)** So, we have a nice stylesheet inside of the component and keep it modulated for that specific file.
 >
-> **[4:32](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/project-folder-structure?u=76281980&t=272)** We have the app.json file here where you can actually put more information about your application.
+> **[4:32](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/project-folder-structure?u=76281980&t=272)** We have the app.[[JSON]] file here where you can actually put more information about your application.
 >
 > **[4:39](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/project-folder-structure?u=76281980&t=279)** So the version, what is the orientation, where are the icon, and so much more that we'll explore later on.
 >
@@ -398,7 +394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), [[Android]] (4), web (4), [[React Native]] (3), [[JSON]] (3)
+> **Frameworks & Libraries:** [[Android]] (4), [[React Native]] (3), [[JSON]] (3), [[CLI]] (2), [[React.js|React]] (2)
 > **Code Identifiers:** ios (7), node_modules (1), devdependencies (1)
 > **File Paths:** app.js (2), app.json (2), readme.md (1), package.json (1)
 > **Tools:** terminal (4), github (1), vs code (1)
@@ -407,8 +403,7 @@ created: 2026-05-02
 > **Documentation:** the readme (1), the documentation (1)
 > **UI Navigation:** go to (2)
 
-#### Explore material kit and vector icons
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/explore-material-kit-and-vector-icons?u=76281980)
+#### [Explore material kit and vector icons](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/explore-material-kit-and-vector-icons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -420,7 +415,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/explore-material-kit-and-vector-icons?u=76281980&t=19)** With those two libraries, we should have everything we need to build great views very quickly.
 >
-> **[0:24](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/explore-material-kit-and-vector-icons?u=76281980&t=24)** So let's jump to your console core command prompt for Windows to add those.
+> **[0:24](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/explore-material-kit-and-vector-icons?u=76281980&t=24)** So let's jump to your console core command prompt for [[Windows]] to add those.
 >
 > **[0:29](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/explore-material-kit-and-vector-icons?u=76281980&t=29)** So the first thing we need to do, if you want to follow along with the instructions, you can go to the webpage where we have the information about the vector icons.
 >
@@ -442,11 +437,11 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/explore-material-kit-and-vector-icons?u=76281980&t=92)** So we can do that later on, but I just wanted to mention to you that it is pre-install with Expo and therefore, we don't need to install anything else.
 >
-> **[1:41](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/explore-material-kit-and-vector-icons?u=76281980&t=101)** For the material design, we need to install this library, react-native-material.
+> **[1:41](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/explore-material-kit-and-vector-icons?u=76281980&t=101)** For the material design, we need to install this library, [[React.js|react]]-native-material.
 >
 > **[1:46](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/explore-material-kit-and-vector-icons?u=76281980&t=106)** So the way to go about it, this one is fairly simple.
 >
-> **[1:49](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/explore-material-kit-and-vector-icons?u=76281980&t=109)** You go all the way down here and all you have to do, is do npm install@react-native-material/core.
+> **[1:49](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/explore-material-kit-and-vector-icons?u=76281980&t=109)** You go all the way down here and all you have to do, is do [[npm]] install@react-native-material/core.
 >
 > **[1:56](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/explore-material-kit-and-vector-icons?u=76281980&t=116)** So I'm literally going to copy this command here and go into VS code, open up the terminal, shut down our server here, and just to get some space here, I'm going to remove the Explorer.
 >
@@ -488,7 +483,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[React.js|React]] (4), prompt (1), [[Windows]] (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[Windows]] (1), [[npm]] (1)
 > **Prerequisites:** install (6), set up (1)
 > **Tools:** command prompt (1), vs code (1), terminal (1)
 > **CLI Commands:** make (1), npm (1)
@@ -497,22 +492,21 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **URLs:** [expo.dev](https://expo.dev) (1)
 
-#### Node and express backend setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/node-and-express-backend-setup?u=76281980)
+#### [Node and express backend setup](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/node-and-express-backend-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/node-and-express-backend-setup?u=76281980&t=0)** - [Instructor] Now let's take a look at the backend we'll use for our React Native application.
+> **[0:00](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/node-and-express-backend-setup?u=76281980&t=0)** - [Instructor] Now let's take a look at the backend we'll use for our [[React Native]] application.
 >
 > **[0:04](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/node-and-express-backend-setup?u=76281980&t=4)** For mobile applications, you have multiple choices you can use for backend.
 >
 > **[0:09](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/node-and-express-backend-setup?u=76281980&t=9)** If you prefer using your own, you can quickly get started with one such as the Node Express API we'll leverage from another one of my courses.
 >
-> **[0:17](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/node-and-express-backend-setup?u=76281980&t=17)** Or you can leverage cloud options such as Google's Firebase.
+> **[0:17](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/node-and-express-backend-setup?u=76281980&t=17)** Or you can leverage cloud options such as [[Google]]'s [[Firebase]].
 >
 > **[0:20](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/node-and-express-backend-setup?u=76281980&t=20)** In this case, I have one prebuilt for you and let's set it up.
 >
-> **[0:24](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/node-and-express-backend-setup?u=76281980&t=24)** So the first thing you need to do is have MongoDB install, the Community Edition.
+> **[0:24](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/node-and-express-backend-setup?u=76281980&t=24)** So the first thing you need to do is have [[MongoDB]] install, the Community Edition.
 >
 > **[0:29](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/node-and-express-backend-setup?u=76281980&t=29)** So the way to get to that, you go to [mongodb.com/try/download/community](https://mongodb.com/try/download/community).
 >
@@ -550,7 +544,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/node-and-express-backend-setup?u=76281980&t=136)** So I'm going to bring the terminal, so control grab E or you can grab it from here like so.
 >
-> **[2:24](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/node-and-express-backend-setup?u=76281980&t=144)** And the first thing you need to do is do a npm install or i.
+> **[2:24](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/node-and-express-backend-setup?u=76281980&t=144)** And the first thing you need to do is do a [[npm]] install or i.
 >
 > **[2:29](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/node-and-express-backend-setup?u=76281980&t=149)** Once you have everything installed, what you could do is do npm start like so.
 >
@@ -588,7 +582,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (7), [[npm]] (3), database (3), [[React Native]] (2), application (2)
+> **Frameworks & Libraries:** [[MongoDB]] (7), [[npm]] (3), [[React Native]] (2), [[Google]] (1), [[Firebase]] (1)
 > **Prerequisites:** install (8), setup (1), set up (1)
 > **CLI Commands:** npm (3), node (2), make (2), brew (1)
 > **UI Navigation:** go to (4), drag and drop (1)
@@ -602,8 +596,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get started with Redux
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/get-started-with-redux?u=76281980)
+#### [Get started with Redux](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/get-started-with-redux?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -621,7 +614,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/get-started-with-redux?u=76281980&t=37)** Okay, so the first thing we're going to do is turn off the application here and install the dependencies that we need to continue.
 >
-> **[0:45](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/get-started-with-redux?u=76281980&t=45)** So the first thing I'm going to do is install Redux, then I'm going to install React Redux, Redux thunk.
+> **[0:45](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/get-started-with-redux?u=76281980&t=45)** So the first thing I'm going to do is install Redux, then I'm going to install [[React.js|React]] Redux, Redux thunk.
 >
 > **[0:57](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/get-started-with-redux?u=76281980&t=57)** And while we're in here, I'm going to also install lodash for later.
 >
@@ -725,7 +718,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), next (3), [[React.js|React]] (2), [[Search]] (1), data (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2)
 > **Prerequisites:** install (5), set up (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** open the (1), click on (1)
@@ -734,8 +727,7 @@ created: 2026-05-02
 > **File Paths:** app.js (1)
 > **Cross-References:** in the next (1)
 
-#### React Native actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/react-native-actions?u=76281980)
+#### [React Native actions](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/react-native-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -805,7 +797,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/react-native-actions?u=76281980&t=224)** So what I'm going to do is create a switch statement, like so, an action type will passed to our switch, and then based on the action type, we're going to select something that is happening with our reducers, and therefore at that point, update the state with that specific data.
 >
-> **[4:08](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/react-native-actions?u=76281980&t=248)** So, in this case here, we have what we're going to call our INITIAL_FETCH, so when we fetch our database.
+> **[4:08](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/react-native-actions?u=76281980&t=248)** So, in this case here, we have what we're going to call our INITIAL_FETCH, so when we [[Fetch]] our database.
 >
 > **[4:18](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/react-native-actions?u=76281980&t=258)** And what we're going to do with that is return whatever the state is and then add, in people, the action.payload.
 >
@@ -861,7 +853,7 @@ created: 2026-05-02
 >
 > **[7:39](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/react-native-actions?u=76281980&t=459)** All right, so let's continue.
 >
-> **[7:41](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/react-native-actions?u=76281980&t=461)** So once we fetch this, what we're going to do is do a .then, and we're going to use the response from that fetch to return the response.json.
+> **[7:41](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/react-native-actions?u=76281980&t=461)** So once we fetch this, what we're going to do is do a .then, and we're going to use the response from that fetch to return the response.[[JSON]].
 >
 > **[7:58](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/react-native-actions?u=76281980&t=478)** So basically what happens here is whatever is the response from the server, we're returning it to that function, and therefore we're going to be able to update our state with the data from the server.
 >
@@ -891,7 +883,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), application (8), database (8), [[Fetch]] (6), next (5)
+> **Frameworks & Libraries:** [[Fetch]] (6), [[JSON]] (1)
 > **Code Identifiers:** detailview (2), initialstate (1), personselected (1), firstname (1), lastname (1)
 > **Env Vars:** initial_fetch (4), crm (2), url (1)
 > **CLI Commands:** make (3)
@@ -900,8 +892,7 @@ created: 2026-05-02
 > **File Paths:** index.js (1), response.json (1)
 > **Prerequisites:** setup (1), set up (1)
 
-#### Create tab menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-tab-menu?u=76281980)
+#### [Create tab menu](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-tab-menu?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -915,15 +906,15 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-tab-menu?u=76281980&t=32)** So let's go ahead and get started.
 >
-> **[0:34](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-tab-menu?u=76281980&t=34)** So the first thing I'm going to do is go inside of the terminal here, and I'm going to clear that up here and then do an NPM install.
+> **[0:34](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-tab-menu?u=76281980&t=34)** So the first thing I'm going to do is go inside of the terminal here, and I'm going to clear that up here and then do an [[npm]] install.
 >
 > **[0:43](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-tab-menu?u=76281980&t=43)** We need a few things to continue working with the views and have icons and things like that.
 >
 > **[0:48](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-tab-menu?u=76281980&t=48)** So we're going to use a few of those libraries.
 >
-> **[0:51](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-tab-menu?u=76281980&t=51)** So the first thing I want to do is install react native material forward slash core.
+> **[0:51](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-tab-menu?u=76281980&t=51)** So the first thing I want to do is install [[React Native]] material forward slash core.
 >
-> **[1:01](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-tab-menu?u=76281980&t=61)** Then I want to again do react navigation, and this is the navigational stuff that we're going to use momentarily.
+> **[1:01](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-tab-menu?u=76281980&t=61)** Then I want to again do [[React.js|react]] navigation, and this is the navigational stuff that we're going to use momentarily.
 >
 > **[1:12](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-tab-menu?u=76281980&t=72)** I'm going to use the material bottom tabs to maintain the look of the application.
 >
@@ -1027,7 +1018,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[React Native]] (6), [[React.js|React]] (3), next (3), data (2)
+> **Frameworks & Libraries:** [[React Native]] (6), [[React.js|React]] (3), [[npm]] (1)
 > **File Paths:** app.js (1), navigation.js (1)
 > **CLI Commands:** npm (1), make (1)
 > **Cross-References:** in the next (2)
@@ -1036,8 +1027,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Analogies:** for example (1)
 
-#### Tab navigation
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/tab-navigation?u=76281980)
+#### [Tab navigation](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/tab-navigation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1121,7 +1111,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/tab-navigation?u=76281980&t=221)** And for the actual icon itself, it's going to be the archive icon.
 >
-> **[3:45](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/tab-navigation?u=76281980&t=225)** And again, if you want to have more details, just go and research React Native vector icons, and then you can take a look at all the lists of the icons that are possible with this particular library.
+> **[3:45](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/tab-navigation?u=76281980&t=225)** And again, if you want to have more details, just go and research [[React Native]] vector icons, and then you can take a look at all the lists of the icons that are possible with this particular library.
 >
 > **[3:58](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/tab-navigation?u=76281980&t=238)** And then there are sublibraries that you can load like what we just done here, so EvilIcons, and then use whatever icon that are part of that library.
 >
@@ -1133,7 +1123,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/tab-navigation?u=76281980&t=265)** Right here, we're just going to create a temporary component here for each one of them so we can load our components whenever we click a tab, especially the first one, which is PeopleList.
 >
-> **[4:37](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/tab-navigation?u=76281980&t=277)** So this one we're going to import React component from react, and then we're going to import also View, StyleSheet, and Flatlist from react-native.
+> **[4:37](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/tab-navigation?u=76281980&t=277)** So this one we're going to import [[React.js|React]] component from react, and then we're going to import also View, StyleSheet, and Flatlist from react-native.
 >
 > **[5:02](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/tab-navigation?u=76281980&t=302)** Okay, so then what we're going to do is create a class component, which we'll call PeopleList extends Component, then create a render return, and then just create a simple view, Hello.
 >
@@ -1157,7 +1147,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[React.js|React]] (3), next (2), [[React Native]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[React Native]] (1)
 > **File Paths:** addperson.js (1), companylist.js (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** tar (1)
@@ -1165,8 +1155,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create the people list view
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-the-people-list-view?u=76281980)
+#### [Create the people list view](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-the-people-list-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1178,7 +1167,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-the-people-list-view?u=76281980&t=20)** So let's go ahead and start the application first, see if there's any issues at the forefront.
 >
-> **[0:26](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-the-people-list-view?u=76281980&t=26)** And I'm going to do npm start.
+> **[0:26](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-the-people-list-view?u=76281980&t=26)** And I'm going to do [[npm]] start.
 >
 > **[0:31](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-the-people-list-view?u=76281980&t=31)** Select iOS.
 >
@@ -1226,7 +1215,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-the-people-list-view?u=76281980&t=108)** It's just for the others not to get any problems after that.
 >
-> **[1:52](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-the-people-list-view?u=76281980&t=112)** Okay, so we're going to import, connect from React Redux.
+> **[1:52](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-the-people-list-view?u=76281980&t=112)** Okay, so we're going to import, connect from [[React.js|React]] Redux.
 >
 > **[1:59](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-the-people-list-view?u=76281980&t=119)** We're going to also import PeopleItem, which we'll work on shortly.
 >
@@ -1314,7 +1303,7 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-the-people-list-view?u=76281980&t=351)** And inside of a flat list, we're going to have a few things.
 >
-> **[5:53](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-the-people-list-view?u=76281980&t=353)** So a flat list component from React Native, basically takes a few things.
+> **[5:53](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-the-people-list-view?u=76281980&t=353)** So a flat list component from [[React Native]], basically takes a few things.
 >
 > **[5:59](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-the-people-list-view?u=76281980&t=359)** The first thing it takes as a prop is what is the data that we're actually loading?
 >
@@ -1386,7 +1375,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), next (2), [[npm]] (1), [[React.js|React]] (1), [[React Native]] (1)
+> **Frameworks & Libraries:** [[npm]] (1), [[React.js|React]] (1), [[React Native]] (1)
 > **Code Identifiers:** detailview (5), loadinitialcontacts (2), ios (1), paddingtop (1)
 > **CLI Commands:** make (6), npm (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1395,8 +1384,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code the people item view
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/code-the-people-item-view?u=76281980)
+#### [Code the people item view](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/code-the-people-item-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1410,7 +1398,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/code-the-people-item-view?u=76281980&t=15)** So what I'm going to do is import a few things first.
 >
-> **[0:19](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/code-the-people-item-view?u=76281980&t=19)** So in the React Native view, I'm going to import Text, keep View, keep StyleSheet, also we'll remove Flatlist, replace it with Image, and TouchableWithoutFeedback.
+> **[0:19](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/code-the-people-item-view?u=76281980&t=19)** So in the [[React Native]] view, I'm going to import Text, keep View, keep StyleSheet, also we'll remove Flatlist, replace it with Image, and TouchableWithoutFeedback.
 >
 > **[0:34](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/code-the-people-item-view?u=76281980&t=34)** So let's go ahead and find that one. Perfect.
 >
@@ -1418,7 +1406,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/code-the-people-item-view?u=76281980&t=43)** And now we're ready to import other things.
 >
-> **[0:46](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/code-the-people-item-view?u=76281980&t=46)** We're also going to Connect redux in here and we're going to import again icons that we'll select from react-native-vector-icons/EvilIcons.
+> **[0:46](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/code-the-people-item-view?u=76281980&t=46)** We're also going to Connect redux in here and we're going to import again icons that we'll select from [[React.js|react]]-native-vector-icons/EvilIcons.
 >
 > **[1:04](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/code-the-people-item-view?u=76281980&t=64)** And then we're going to import all of our actions as actions from actions.
 >
@@ -1534,15 +1522,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[React Native]] (1), [[React.js|React]] (1), functional (1)
+> **Frameworks & Libraries:** [[React Native]] (1), [[React.js|React]] (1)
 > **Code Identifiers:** onpress (1), selectperson (1), firstname (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** rgba (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add new components
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/add-new-components?u=76281980)
+#### [Add new components](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/add-new-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1692,7 +1679,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), next (1)
 > **CLI Commands:** make (7)
 > **Code Identifiers:** renderinitialview (2), detailview (1)
 > **Exercise Files:** exercise files (3)
@@ -1700,14 +1686,14 @@ created: 2026-05-02
 > **Env Vars:** pdf (1), crm (1)
 > **Cross-References:** in the next (1)
 > **Tools:** vs code (1)
+> **UI Navigation:** click on (1)
 
 
 ### 3. Complex Component
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up Redux for a detail view
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/setting-up-redux-for-a-detail-view?u=76281980)
+#### [Setting up Redux for a detail view](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/setting-up-redux-for-a-detail-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1755,7 +1741,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/setting-up-redux-for-a-detail-view?u=76281980&t=129)** So, when the action of a selected person is clicked, we're going to pass it inside of our reducer here.
 >
-> **[2:18](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/setting-up-redux-for-a-detail-view?u=76281980&t=138)** And what I'm going to do, actually, I'm going to do it after the initial fetch.
+> **[2:18](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/setting-up-redux-for-a-detail-view?u=76281980&t=138)** And what I'm going to do, actually, I'm going to do it after the initial [[Fetch]].
 >
 > **[2:24](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/setting-up-redux-for-a-detail-view?u=76281980&t=144)** We're going to have a case.
 >
@@ -1813,15 +1799,15 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/setting-up-redux-for-a-detail-view?u=76281980&t=303)** And I'm going to open the detail view.
 >
-> **[5:05](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/setting-up-redux-for-a-detail-view?u=76281980&t=305)** So, for the detail view, first and foremost, we have to load a few things here in react native, we have style sheet, which is good, we have, instead of flat list, we're going to have the scroll view.
+> **[5:05](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/setting-up-redux-for-a-detail-view?u=76281980&t=305)** So, for the detail view, first and foremost, we have to load a few things here in [[React Native]], we have style sheet, which is good, we have, instead of flat list, we're going to have the scroll view.
 >
 > **[5:20](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/setting-up-redux-for-a-detail-view?u=76281980&t=320)** We're going to need text, we're going to need image, and we're going to need touchable opacity.
 >
 > **[5:30](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/setting-up-redux-for-a-detail-view?u=76281980&t=330)** Like so.
 >
-> **[5:32](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/setting-up-redux-for-a-detail-view?u=76281980&t=332)** We're also going to need a few things, so let's go ahead and import everything that we need, and then we'll move on to the next video with the rest of the code, 'cause we have a lot of code in this particular view.
+> **[5:32](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/setting-up-redux-for-a-detail-view?u=76281980&t=332)** We're also going to need a few things, so let's go ahead and import everything that we need, and then we'll move on to the next video with the [[Representational State Transfer (REST)|rest]] of the code, 'cause we have a lot of code in this particular view.
 >
-> **[5:43](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/setting-up-redux-for-a-detail-view?u=76281980&t=343)** It's a complex one, this is where we have all the details of the person, or the contact, so, there's a lot of things that we need to add here, so, react redux.
+> **[5:43](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/setting-up-redux-for-a-detail-view?u=76281980&t=343)** It's a complex one, this is where we have all the details of the person, or the contact, so, there's a lot of things that we need to add here, so, [[React.js|react]] redux.
 >
 > **[5:56](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/setting-up-redux-for-a-detail-view?u=76281980&t=356)** We need also to import evil icon.
 >
@@ -1859,7 +1845,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[React Native]] (2), [[Fetch]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React Native]] (2), [[Fetch]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[React.js|React]] (1)
 > **Cross-References:** next video (2), go back to (1), previous video (1), in the next (1)
 > **Definitions:** is called (2), is a  (1), basically means (1)
 > **UI Navigation:** select the (1), open the (1)
@@ -1868,8 +1854,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### CSS details
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/css-details?u=76281980)
+#### [CSS details](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/css-details?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1995,7 +1980,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), css (3), application (2)
 > **Env Vars:** css (3), rgba (2)
 > **Cross-References:** in the next (1), next video (1)
 > **CLI Commands:** make (1)
@@ -2004,8 +1988,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Coding the scroll on the detail view
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/coding-the-scroll-on-the-detail-view?u=76281980)
+#### [Coding the scroll on the detail view](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/coding-the-scroll-on-the-detail-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2173,7 +2156,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5)
 > **Code Identifiers:** onpress (2), noneselected (2), firstname (1)
 > **Cross-References:** in the next (2), in the last (1)
 > **UI Navigation:** click on (1), go to (1)
@@ -2181,9 +2163,9 @@ created: 2026-05-02
 > **Env Vars:** crud (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** make sure you have (1)
+> **Speakers:** - [instructor] (1)
 
-#### Finalize detail view
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/finalize-detail-view?u=76281980)
+#### [Finalize detail view](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/finalize-detail-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2349,7 +2331,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Env Vars:** sms (3), fyi (2), crd (1)
 > **Definitions:** is a  (1), is called (1), means that (1)
 > **UI Navigation:** click on (2)
@@ -2361,8 +2342,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a new add person form
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-a-new-add-person-form?u=76281980)
+#### [Create a new add person form](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-a-new-add-person-form?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2376,7 +2356,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-a-new-add-person-form?u=76281980&t=81)** We're going to return whatever is inside of that action or function, so there's a few things that are going to happen.
 >
-> **[1:31](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-a-new-add-person-form?u=76281980&t=91)** First thing we need to fetch, and the back end is, again, the 127.
+> **[1:31](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-a-new-add-person-form?u=76281980&t=91)** First thing we need to [[Fetch]], and the back end is, again, the 127.
 >
 > **[1:39](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-a-new-add-person-form?u=76281980&t=99)** You can also do a localhost if you want, 0.1.
 >
@@ -2384,7 +2364,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-a-new-add-person-form?u=76281980&t=105)** Port 3000, and this is our API end, and what we're doing here is a POST method, so we need to add that, 'POST', and in the body of that POST, we're going to have whatever is returned here, so basically, this function will create a new contact, so we're fetching the back end with the method of POST, and then, in the body, we're going to pass whatever we got from the form inside of the add person, which we're going to work on in the next video, so let's go ahead and add all the things that we need.
 >
-> **[2:26](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-a-new-add-person-form?u=76281980&t=146)** Basically, you need to use this function here, so JSON.stringify, so it creates our JSON that we're going to need, and pass the firstName, and then, what I'm going to do, just to make this faster, I'm going to copy and paste lastName.
+> **[2:26](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-a-new-add-person-form?u=76281980&t=146)** Basically, you need to use this function here, so [[JSON]].stringify, so it creates our JSON that we're going to need, and pass the firstName, and then, what I'm going to do, just to make this faster, I'm going to copy and paste lastName.
 >
 > **[2:54](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-a-new-add-person-form?u=76281980&t=174)** We're going to paste again, and what I'm going to do this time is just do option-click on both.
 >
@@ -2434,7 +2414,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), api (3), [[JSON]] (3), application (2), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[Fetch]] (1)
 > **Code Identifiers:** loadinitialcontacts (3), firstname (3), lastname (3), noneselected (2), createnewcontact (2)
 > **Env Vars:** post (4), api (3), new_contact (3), json (2), crud (1)
 > **CLI Commands:** make (7)
@@ -2443,8 +2423,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (2)
 > **Ports:** port 3000 (1)
 
-#### Functions for add person action
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/functions-for-add-person-action?u=76281980)
+#### [Functions for add person action](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/functions-for-add-person-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2458,7 +2437,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/functions-for-add-person-action?u=76281980&t=22)** Then what I'm going to need is a few things.
 >
-> **[0:24](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/functions-for-add-person-action?u=76281980&t=24)** So I'm going to need to import connect from, not http2, but from react-redux like so.
+> **[0:24](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/functions-for-add-person-action?u=76281980&t=24)** So I'm going to need to import connect from, not http2, but from [[React.js|react]]-redux like so.
 >
 > **[0:36](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/functions-for-add-person-action?u=76281980&t=36)** I'm also going to need to import Button and a TextInput from @react-native-material/core like so.
 >
@@ -2550,7 +2529,7 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/functions-for-add-person-action?u=76281980&t=351)** So we're going to have a text at the top of our form that says Add a new contact.
 >
-> **[5:56](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/functions-for-add-person-action?u=76281980&t=356)** And then we're going to have all the Text inputs or the forms.
+> **[5:56](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/functions-for-add-person-action?u=76281980&t=356)** And then we're going to have all the Text inputs or the [[Forms]].
 >
 > **[6:00](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/functions-for-add-person-action?u=76281980&t=360)** So we're going to create one, then copy it and just paste it again for all the other elements that we need to add inside of our form.
 >
@@ -2596,7 +2575,7 @@ created: 2026-05-02
 >
 > **[8:28](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/functions-for-add-person-action?u=76281980&t=508)** And continue down the list.
 >
-> **[8:30](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/functions-for-add-person-action?u=76281980&t=510)** If you want to challenge yourself, just pause the video and basically do the rest of the form on your own.
+> **[8:30](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/functions-for-add-person-action?u=76281980&t=510)** If you want to challenge yourself, just pause the video and basically do the [[Representational State Transfer (REST)|rest]] of the form on your own.
 >
 > **[8:36](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/functions-for-add-person-action?u=76281980&t=516)** See if you can get it yourself.
 >
@@ -2662,7 +2641,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2), next (2), application (2), database (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Forms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** onaddpress (5), firstname (4), addbutton (3), createnewcontact (3), fieldstyles (2)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** fyi (1)
@@ -2671,8 +2650,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Update person Redux reducer
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/update-person-redux-reducer?u=76281980)
+#### [Update person Redux reducer](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/update-person-redux-reducer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2794,15 +2772,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Update person view
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/update-person-view?u=76281980)
+#### [Update person view](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/update-person-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2814,7 +2790,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/update-person-view?u=76281980&t=27)** Basically select all.
 >
-> **[0:29](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/update-person-view?u=76281980&t=29)** So I did Command A on Mac and Ctrl A on Windows, and then I'm going to paste it like so.
+> **[0:29](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/update-person-view?u=76281980&t=29)** So I did Command A on Mac and Ctrl A on [[Windows]], and then I'm going to paste it like so.
 >
 > **[0:38](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/update-person-view?u=76281980&t=38)** And then I'm going to make all the changes that I need to make.
 >
@@ -2842,7 +2818,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/update-person-view?u=76281980&t=129)** And then instead of CreateNewContact, it's SaveContact.
 >
-> **[2:19](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/update-person-view?u=76281980&t=139)** So save this and most of the rest is pretty much the same.
+> **[2:19](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/update-person-view?u=76281980&t=139)** So save this and most of the [[Representational State Transfer (REST)|rest]] is pretty much the same.
 >
 > **[2:23](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/update-person-view?u=76281980&t=143)** So if we look at it, we have our styles that we've created.
 >
@@ -2868,14 +2844,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1), application (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** firstname (1), onpress (1), mapstatetoprops (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [narrator] (1)
 
-#### Connect your list view to backend
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/connect-your-list-view-to-backend?u=76281980)
+#### [Connect your list view to backend](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/connect-your-list-view-to-backend?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2933,7 +2908,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/connect-your-list-view-to-backend?u=76281980&t=125)** Then I need to import a few things.
 >
-> **[2:07](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/connect-your-list-view-to-backend?u=76281980&t=127)** So I'm going to import { connect } from 'react-redux'.
+> **[2:07](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/connect-your-list-view-to-backend?u=76281980&t=127)** So I'm going to import { connect } from '[[React.js|react]]-redux'.
 >
 > **[2:16](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/connect-your-list-view-to-backend?u=76281980&t=136)** We're going to import DetailView From './DetailView'.
 >
@@ -2991,7 +2966,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), next (2), database (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Code Identifiers:** toupdate (4), mapstatetoprops (3), renderdetails (2)
 > **CLI Commands:** make (3)
 > **Tools:** postman (3)
@@ -3000,8 +2975,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 
-#### Testing and debugging Redux for editing
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/testing-and-debugging-redux-for-editing?u=76281980)
+#### [Testing and debugging Redux for editing](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/testing-and-debugging-redux-for-editing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3033,7 +3007,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/testing-and-debugging-redux-for-editing?u=76281980&t=84)** And then the payload is going to be the prop and the value.
 >
-> **[1:29](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/testing-and-debugging-redux-for-editing?u=76281980&t=89)** And we're using that in two of our forms, the update and the addNewContact.
+> **[1:29](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/testing-and-debugging-redux-for-editing?u=76281980&t=89)** And we're using that in two of our [[Forms]], the update and the addNewContact.
 >
 > **[1:35](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/testing-and-debugging-redux-for-editing?u=76281980&t=95)** So you would've probably ran into more issues inside the update as well if you went into the edit mode.
 >
@@ -3055,7 +3029,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/testing-and-debugging-redux-for-editing?u=76281980&t=150)** Okay, so basically what I don't need here, okay, so let's fix our errors.
 >
-> **[2:36](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/testing-and-debugging-redux-for-editing?u=76281980&t=156)** Dispatch, this is all good, fetch, all good, the id, all good, and the method is delete.
+> **[2:36](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/testing-and-debugging-redux-for-editing?u=76281980&t=156)** Dispatch, this is all good, [[Fetch]], all good, the id, all good, and the method is delete.
 >
 > **[2:42](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/testing-and-debugging-redux-for-editing?u=76281980&t=162)** So what I'm going to do is shorten that one. So let's do this.
 >
@@ -3127,7 +3101,7 @@ created: 2026-05-02
 >
 > **[5:36](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/testing-and-debugging-redux-for-editing?u=76281980&t=336)** Manny, yep, it's working.
 >
-> **[5:38](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/testing-and-debugging-redux-for-editing?u=76281980&t=338)** Manny Henri, 555555555, me@[p.com](https://p.com), then company, LinkedIn, project, Bla, Bla, then Add.
+> **[5:38](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/testing-and-debugging-redux-for-editing?u=76281980&t=338)** Manny Henri, 555555555, me@[p.com](https://p.com), then company, [[LinkedIn]], project, Bla, Bla, then Add.
 >
 > **[5:54](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/testing-and-debugging-redux-for-editing?u=76281980&t=354)** And we have the new person.
 >
@@ -3249,7 +3223,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (4), [[Forms]] (1), css (1), [[LinkedIn]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (4), [[Forms]] (1), [[LinkedIn]] (1)
 > **Code Identifiers:** savecontact (3), detailview (2), formupdate (1), addnewcontact (1), loadinitial (1)
 > **UI Navigation:** click on (10)
 > **CLI Commands:** make (8)
@@ -3263,14 +3237,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Code the company list query
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/code-the-company-list-query?u=76281980)
+#### [Code the company list query](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/code-the-company-list-query?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/code-the-company-list-query?u=76281980&t=0)** - [Instructor] Okay, so in this chapter we're going to create a view that will be a company view that will give us a list of the companies with the people that work there.
 >
-> **[0:09](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/code-the-company-list-query?u=76281980&t=9)** So if we have two people that work at LinkedIn, we're going to have one LinkedIn list with two people inside of it.
+> **[0:09](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/code-the-company-list-query?u=76281980&t=9)** So if we have two people that work at [[LinkedIn]], we're going to have one LinkedIn list with two people inside of it.
 >
 > **[0:15](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/code-the-company-list-query?u=76281980&t=15)** So what we're going to do is create a second name, just Gabe Bla, phone number six, six, six, six, six, six.
 >
@@ -3298,7 +3271,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/code-the-company-list-query?u=76281980&t=74)** And the first thing I'm going to do is change a few things here.
 >
-> **[1:19](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/code-the-company-list-query?u=76281980&t=79)** Actually, I'm going to import connect from react redux.
+> **[1:19](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/code-the-company-list-query?u=76281980&t=79)** Actually, I'm going to import connect from [[React.js|react]] redux.
 >
 > **[1:29](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/code-the-company-list-query?u=76281980&t=89)** Then I'm going to import this from lodash.
 >
@@ -3404,15 +3377,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4), next (3), [[React.js|React]] (2), data (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[React.js|React]] (2)
 > **CLI Commands:** make (8), find (1)
 > **Cross-References:** in the next (3)
 > **Code Identifiers:** iphone (1)
 > **URLs:** [whatever.com](https://whatever.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create company item and list view
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-company-item-and-list-view?u=76281980)
+#### [Create company item and list view](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-company-item-and-list-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3424,7 +3396,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-company-item-and-list-view?u=76281980&t=16)** And then, what I'm going to do is add Image to that list here.
 >
-> **[0:23](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-company-item-and-list-view?u=76281980&t=23)** And finally, import Icon from 'react-native- vector-icons/Material Oops. Let's make sure that forward slash material icon, that's why it wasn't showing.
+> **[0:23](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-company-item-and-list-view?u=76281980&t=23)** And finally, import Icon from '[[React.js|react]]-native- vector-icons/Material Oops. Let's make sure that forward slash material icon, that's why it wasn't showing.
 >
 > **[0:50](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-company-item-and-list-view?u=76281980&t=50)** It's because I had a little issue here.
 >
@@ -3536,7 +3508,7 @@ created: 2026-05-02
 >
 > **[7:04](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-company-item-and-list-view?u=76281980&t=424)** There you go.
 >
-> **[7:05](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-company-item-and-list-view?u=76281980&t=425)** So now we have two names inside of the company, LinkedIn.
+> **[7:05](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-company-item-and-list-view?u=76281980&t=425)** So now we have two names inside of the company, [[LinkedIn]].
 >
 > **[7:09](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/create-company-item-and-list-view?u=76281980&t=429)** So, if I add another person, let's add another person in another company.
 >
@@ -3564,7 +3536,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), application (3), functional (2), next (1), business (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** lastname (1), flatlist (1)
 > **Env Vars:** rgba (1)
@@ -3575,8 +3547,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building your own CRM application with React Native
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/building-your-own-crm-application-with-react-native?u=76281980)
+#### [Building your own CRM application with React Native](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/building-your-own-crm-application-with-react-native?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3592,7 +3563,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/building-your-own-crm-application-with-react-native?u=76281980&t=41)** Adding more tests to your app would also help in improving your development workflow.
 >
-> **[0:46](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/building-your-own-crm-application-with-react-native?u=76281980&t=46)** Finally, pushing your mobile development skills further by taking any of the iOS or Android courses available on LinkedIn Learning is a great next step.
+> **[0:46](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/building-your-own-crm-application-with-react-native?u=76281980&t=46)** Finally, pushing your [[Mobile Development]] skills further by taking any of the iOS or [[Android]] courses available on [[LinkedIn]] Learning is a great next step.
 >
 > **[0:56](https://www.linkedin.com/learning/create-a-crm-mobile-application-with-react-native-23458867/building-your-own-crm-application-with-react-native?u=76281980&t=56)** As all our mobile projects end in these environments, being familiar with the development languages and tools is a must to be able to release your application.
 >
@@ -3600,7 +3571,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), next (2), data (1), [[Mobile Development]] (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Mobile Development]] (1), [[Android]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** ios (1)
 > **Env Vars:** crm (1)

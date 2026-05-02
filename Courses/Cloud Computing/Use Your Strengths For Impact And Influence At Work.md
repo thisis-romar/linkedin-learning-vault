@@ -66,8 +66,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of your professional strengths
-> [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/the-power-of-your-professional-strengths?u=76281980)
+#### [The power of your professional strengths](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/the-power-of-your-professional-strengths?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -101,7 +100,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (2), career (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 
@@ -110,8 +108,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage self-talk
-> [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/manage-self-talk?u=76281980)
+#### [Manage self-talk](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/manage-self-talk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -173,7 +170,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/manage-self-talk?u=76281980&t=156)** Not speaking up may not seem like a big deal in isolation, but imagine six months of holding yourself back.
 >
-> **[2:44](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/manage-self-talk?u=76281980&t=164)** Six months of not putting your voice into the room, not making a impact, not influencing others.
+> **[2:44](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/manage-self-talk?u=76281980&t=164)** Six months of not putting your voice into the room, not making a impact, not [[Influencing Others]].
 >
 > **[2:50](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/manage-self-talk?u=76281980&t=170)** Over time, it becomes a self-fulfilling prophecy.
 >
@@ -203,13 +200,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1), [[Influencing Others]] (1)
+> **Frameworks & Libraries:** [[Influencing Others]] (1)
 > **Analogies:** for instance (1), imagine (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - what (1)
 
-#### Your mindset matters
-> [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/your-mindset-matters?u=76281980)
+#### [Your mindset matters](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/your-mindset-matters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -229,7 +225,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/your-mindset-matters?u=76281980&t=45)** They also believe talent alone is the reason for success.
 >
-> **[0:49](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/your-mindset-matters?u=76281980&t=49)** Comparatively, in a growth mindset, people have a more adaptable outlook.
+> **[0:49](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/your-mindset-matters?u=76281980&t=49)** Comparatively, in a growth mindset, people have a more adaptable [[Microsoft Outlook|outlook]].
 >
 > **[0:55](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/your-mindset-matters?u=76281980&t=55)** They believe that their most basic abilities can be developed through dedication and hard work.
 >
@@ -287,19 +283,18 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/your-mindset-matters?u=76281980&t=215)** I encourage you to download the positive career affirmations handout to dig into this deeper.
 >
-> **[3:42](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/your-mindset-matters?u=76281980&t=222)** While it may seem challenging at first, rest assured that working on your mindset is a rewarding investment, both to your career and overall progression.
+> **[3:42](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/your-mindset-matters?u=76281980&t=222)** While it may seem challenging at first, [[Representational State Transfer (REST)|rest]] assured that working on your mindset is a rewarding investment, both to your career and overall progression.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (7), business (2), [[Microsoft Outlook|Outlook]] (1), [[Search]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (1), for example (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
 
-#### Don't think it, ink it
-> [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/don-t-think-it-ink-it?u=76281980)
+#### [Don't think it, ink it](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/don-t-think-it-ink-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -385,7 +380,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), career (1), express (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - don (1)
 
@@ -394,8 +388,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Gain clarity on your strengths
-> [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/gain-clarity-on-your-strengths?u=76281980)
+#### [Gain clarity on your strengths](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/gain-clarity-on-your-strengths?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -473,14 +466,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (8), career (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - no (1)
 
-#### Know your value
-> [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/know-your-value?u=76281980)
+#### [Know your value](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/know-your-value?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -526,7 +517,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/know-your-value?u=76281980&t=128)** We do this by replacing the title with a powerful outcome-led statement.
 >
-> **[2:14](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/know-your-value?u=76281980&t=134)** "I help senior leaders in the wellness industry boost awareness to increase sales by at least 10% year-on-year."
+> **[2:14](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/know-your-value?u=76281980&t=134)** "I help senior leaders in the [[Wellness]] industry boost awareness to increase sales by at least 10% year-on-year."
 >
 > **[2:24](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/know-your-value?u=76281980&t=144)** So here's an action for you.
 >
@@ -546,8 +537,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - can (1)
 
-#### Evolve your skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/evolve-your-skills?u=76281980)
+#### [Evolve your skills](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/evolve-your-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -637,7 +627,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1), next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - have (1)
 
@@ -646,8 +635,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Strengthen your confidence muscle
-> [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/strengthen-your-confidence-muscle?u=76281980)
+#### [Strengthen your confidence muscle](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/strengthen-your-confidence-muscle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -727,14 +715,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (2), career (1)
 > **CLI Commands:** cat (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 
-#### Get noticed by key decision makers
-> [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/get-noticed-by-key-decision-makers?u=76281980)
+#### [Get noticed by key decision makers](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/get-noticed-by-key-decision-makers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -758,7 +744,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/get-noticed-by-key-decision-makers?u=76281980&t=61)** Number one is to build relationships throughout the company.
 >
-> **[1:05](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/get-noticed-by-key-decision-makers?u=76281980&t=65)** Don't just sit in your corner of the office.
+> **[1:05](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/get-noticed-by-key-decision-makers?u=76281980&t=65)** Don't just sit in your corner of the [[Microsoft Office|office]].
 >
 > **[1:08](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/get-noticed-by-key-decision-makers?u=76281980&t=68)** Make a list of five to six key decision makers throughout the company that you want to get to know better.
 >
@@ -788,16 +774,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (3), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - have (1)
 
-#### Demonstrate your strengths online
-> [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/demonstrate-your-strengths-online?u=76281980)
+#### [Demonstrate your strengths online](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/demonstrate-your-strengths-online?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/demonstrate-your-strengths-online?u=76281980&t=0)** - When was the last time you updated your LinkedIn profile?
+> **[0:00](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/demonstrate-your-strengths-online?u=76281980&t=0)** - When was the last time you updated your [[LinkedIn]] profile?
 >
 > **[0:05](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/demonstrate-your-strengths-online?u=76281980&t=5)** Be honest.
 >
@@ -853,7 +838,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/demonstrate-your-strengths-online?u=76281980&t=145)** I thought about the three to five SEO keywords that someone may enter into LinkedIn to find someone like me.
 >
-> **[2:34](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/demonstrate-your-strengths-online?u=76281980&t=154)** I work in the personal branding leadership development space, so my thought about the popular SEO words people were likely using when searching for someone like me.
+> **[2:34](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/demonstrate-your-strengths-online?u=76281980&t=154)** I work in the [[Personal Branding]] [[Leadership Development]] space, so my thought about the popular SEO words people were likely using when searching for someone like me.
 >
 > **[2:46](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/demonstrate-your-strengths-online?u=76281980&t=166)** These include words such as personal branding, employee engagement, visibility and leadership presence.
 >
@@ -869,7 +854,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (10), seo (3), [[Personal Branding]] (2), next (1), [[Leadership Development]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (10), [[Personal Branding]] (2), [[Leadership Development]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** seo (3)
 > **Analogies:** for example (1), such as (1)
@@ -880,8 +865,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Put your strengths into practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/put-your-strengths-into-practice?u=76281980)
+#### [Put your strengths into practice](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/put-your-strengths-into-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -907,7 +891,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/put-your-strengths-into-practice?u=76281980&t=38)** Block out time in your calendar to work on becoming unstoppable and be sure to check out the course Q and A tab to share the first step you plan to implement.
 >
-> **[0:49](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/put-your-strengths-into-practice?u=76281980&t=49)** Feel free to follow me on LinkedIn or visit my website, [mariellelegair.com](https://mariellelegair.com).
+> **[0:49](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/put-your-strengths-into-practice?u=76281980&t=49)** Feel free to follow me on [[LinkedIn]] or visit my website, [mariellelegair.com](https://mariellelegair.com).
 >
 > **[0:54](https://www.linkedin.com/learning/use-your-strengths-for-impact-and-influence-at-work/put-your-strengths-into-practice?u=76281980&t=54)** I'd love to know how you're getting on.
 >
@@ -915,7 +899,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [mariellelegair.com](https://mariellelegair.com) (1)
 > **Speakers:** - congratulations (1)

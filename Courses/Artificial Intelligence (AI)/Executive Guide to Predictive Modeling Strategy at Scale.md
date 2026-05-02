@@ -86,8 +86,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scaling machine learning initiatives
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/scaling-machine-learning-initiatives-23239794?u=76281980)
+#### [Scaling machine learning initiatives](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/scaling-machine-learning-initiatives-23239794?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,18 +110,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Analytics]] (1), management (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - how (1)
 
-#### Defining terms
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/defining-terms?u=76281980)
+#### [Defining terms](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/defining-terms?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/defining-terms?u=76281980&t=0)** - [Instructor] I want to begin by reviewing some terms that will allow us to identify where we'll be focused in this course.
 >
-> **[0:07](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/defining-terms?u=76281980&t=7)** My favorite definition of artificial intelligence is one that I'm going to borrow from a thought leader in this space named Colin Shearer.
+> **[0:07](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/defining-terms?u=76281980&t=7)** My favorite definition of [[Artificial Intelligence (AI)|artificial intelligence]] is one that I'm going to borrow from a thought leader in this space named Colin Shearer.
 >
 > **[0:15](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/defining-terms?u=76281980&t=15)** "A computer doing something that, "if done by a human being, "would be judged to be intelligent."
 >
@@ -130,7 +127,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/defining-terms?u=76281980&t=35)** We're going to be focused on traditional machine learning, which encompasses two of the most important topics of all, supervised and unsupervised machine learning.
 >
-> **[0:47](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/defining-terms?u=76281980&t=47)** I'm going to define traditional machine learning in the following way, a broad term that generally refers to presenting carefully curated data to computer algorithms that find patterns and systematically generate models.
+> **[0:47](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/defining-terms?u=76281980&t=47)** I'm going to define traditional machine learning in the following way, a broad term that generally refers to presenting carefully curated data to computer [[Algorithms]] that find patterns and systematically generate models.
 >
 > **[1:00](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/defining-terms?u=76281980&t=60)** These models are going to be in the form of formulas or rule sets.
 >
@@ -148,7 +145,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Algorithms]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -158,8 +155,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data and supervised machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-supervised-machine-learning?u=76281980)
+#### [Data and supervised machine learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-supervised-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -195,7 +191,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-supervised-machine-learning?u=76281980&t=57)** And there's going to be many of them that they might draw upon.
 >
-> **[1:00](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-supervised-machine-learning?u=76281980&t=60)** They have names like Decision Tree, Support Vector Machine, Logistic Regression, or Neural Network.
+> **[1:00](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-supervised-machine-learning?u=76281980&t=60)** They have names like Decision Tree, Support Vector Machine, [[Logistic Regression]], or Neural Network.
 >
 > **[1:07](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-supervised-machine-learning?u=76281980&t=67)** There are dozens more.
 >
@@ -215,7 +211,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-supervised-machine-learning?u=76281980&t=100)** It's not just going to tell us default or not.
 >
-> **[1:44](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-supervised-machine-learning?u=76281980&t=104)** It's going to give us a probability, like this.
+> **[1:44](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-supervised-machine-learning?u=76281980&t=104)** It's going to give us a [[Probability]], like this.
 >
 > **[1:47](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-supervised-machine-learning?u=76281980&t=107)** So we have just four loan IDs and we have these scores.
 >
@@ -225,12 +221,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Logistic Regression]] (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (1), [[Probability]] (1)
 > **Definitions:** essentially is (1)
 > **Speakers:** - [instructor] (1)
 
-#### The nine big data bottlenecks
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/the-nine-big-data-bottlenecks?u=76281980)
+#### [The nine big data bottlenecks](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/the-nine-big-data-bottlenecks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -240,7 +235,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/the-nine-big-data-bottlenecks?u=76281980&t=13)** First, you have to store the data and steward it so that the organization can access it as needed.
 >
-> **[0:20](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/the-nine-big-data-bottlenecks?u=76281980&t=20)** Typically, when organizations come up with a big data strategy, they are focused almost entirely on the data storage aspect, and assume that all other phases are done on the entirety of the data.
+> **[0:20](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/the-nine-big-data-bottlenecks?u=76281980&t=20)** Typically, when organizations come up with a [[Big Data]] strategy, they are focused almost entirely on the [[Data Storage]] aspect, and assume that all other phases are done on the entirety of the data.
 >
 > **[0:32](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/the-nine-big-data-bottlenecks?u=76281980&t=32)** It's simply not true.
 >
@@ -278,23 +273,23 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/the-nine-big-data-bottlenecks?u=76281980&t=108)** Once you've gotten the data much closer to the form that you'll need, you've got to explore it extensively.
 >
-> **[1:55](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/the-nine-big-data-bottlenecks?u=76281980&t=115)** At this point, the modeler is looking into data quality issues and identifying strong and weak predictors.
+> **[1:55](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/the-nine-big-data-bottlenecks?u=76281980&t=115)** At this point, the modeler is looking into [[Data Quality]] issues and identifying strong and weak predictors.
 >
 > **[2:02](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/the-nine-big-data-bottlenecks?u=76281980&t=122)** This process must be done by the modeler, and can't be delegated to others, so typically, some kind of data sandbox has been created.
 >
 > **[2:10](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/the-nine-big-data-bottlenecks?u=76281980&t=130)** Prepare.
 >
-> **[2:11](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/the-nine-big-data-bottlenecks?u=76281980&t=131)** Data preparation tends to be very labor-intensive.
+> **[2:11](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/the-nine-big-data-bottlenecks?u=76281980&t=131)** [[Data Preparation]] tends to be very labor-intensive.
 >
 > **[2:14](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/the-nine-big-data-bottlenecks?u=76281980&t=134)** It's not just cleaning and formatting.
 >
-> **[2:17](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/the-nine-big-data-bottlenecks?u=76281980&t=137)** The most important task is what's called feature engineering, when the modeler is experimenting with many different formulas to help make the predictions.
+> **[2:17](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/the-nine-big-data-bottlenecks?u=76281980&t=137)** The most important task is what's called [[Feature Engineering]], when the modeler is experimenting with many different formulas to help make the predictions.
 >
 > **[2:24](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/the-nine-big-data-bottlenecks?u=76281980&t=144)** The modeler has to be intimately involved, and it's highly iterative.
 >
 > **[2:29](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/the-nine-big-data-bottlenecks?u=76281980&t=149)** Model.
 >
-> **[2:30](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/the-nine-big-data-bottlenecks?u=76281980&t=150)** At this step, we use those fancy algorithms that are so closely associated with machine learning, One of the themes of this course is that folks worry too much about data volume during modeling.
+> **[2:30](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/the-nine-big-data-bottlenecks?u=76281980&t=150)** At this step, we use those fancy [[Algorithms]] that are so closely associated with machine learning, One of the themes of this course is that folks worry too much about data volume during modeling.
 >
 > **[2:42](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/the-nine-big-data-bottlenecks?u=76281980&t=162)** At this point, much of the hard work has been done, and the data sets have become smaller.
 >
@@ -320,14 +315,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Big Data]] (1), business (1), [[Feature Engineering]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (1), [[Data Storage]] (1), [[Data Quality]] (1), [[Data Preparation]] (1), [[Feature Engineering]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### The stages of predictive analytics data
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/the-stages-of-predictive-analytics-data?u=76281980)
+#### [The stages of predictive analytics data](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/the-stages-of-predictive-analytics-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -391,14 +385,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Why you might have too little data
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/why-you-might-have-too-little-data-23238920?u=76281980)
+#### [Why you might have too little data](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/why-you-might-have-too-little-data-23238920?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -406,13 +398,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/why-you-might-have-too-little-data-23238920?u=76281980&t=4)** Sometimes you'll actually discover that you have too little data.
 >
-> **[0:08](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/why-you-might-have-too-little-data-23238920?u=76281980&t=8)** Years ago in the IBM SPSS Modeler and CRISP-DM communities, we'd hear about the tale of the vanishing terabyte.
+> **[0:08](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/why-you-might-have-too-little-data-23238920?u=76281980&t=8)** Years ago in the [[IBM SPSS]] Modeler and [[CRISP-DM]] communities, we'd hear about the tale of the vanishing terabyte.
 >
-> **[0:16](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/why-you-might-have-too-little-data-23238920?u=76281980&t=16)** It was a popular story of a client engagement from many years ago, way back in the 90s in fact, in some ways it's a big data story long before that phrase became popular.
+> **[0:16](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/why-you-might-have-too-little-data-23238920?u=76281980&t=16)** It was a popular story of a client engagement from many years ago, way back in the 90s in fact, in some ways it's a [[Big Data]] story long before that phrase became popular.
 >
 > **[0:28](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/why-you-might-have-too-little-data-23238920?u=76281980&t=28)** The name, the vanishing terabyte alone communicates the basic idea.
 >
-> **[0:33](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/why-you-might-have-too-little-data-23238920?u=76281980&t=33)** The data mining consultant in the story was told that their client was very concerned that their systems couldn't handle the volume.
+> **[0:33](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/why-you-might-have-too-little-data-23238920?u=76281980&t=33)** The [[Data Mining]] consultant in the story was told that their client was very concerned that their systems couldn't handle the volume.
 >
 > **[0:41](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/why-you-might-have-too-little-data-23238920?u=76281980&t=41)** As they performed the data understanding phase and began the actual act of choosing the relevant data, they discovered that they only had a few hundred instances of fraud.
 >
@@ -452,7 +444,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[IBM SPSS]] (1), [[CRISP-DM]] (1), [[Big Data]] (1), business (1)
+> **Frameworks & Libraries:** [[IBM SPSS]] (1), [[CRISP-DM]] (1), [[Big Data]] (1), [[Data Mining]] (1)
 > **Env Vars:** ibm (1), spss (1), crisp (1)
 > **Speakers:** - i (1)
 
@@ -461,8 +453,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How much data do I need?
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/how-much-data-do-i-need?u=76281980)
+#### [How much data do I need?](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/how-much-data-do-i-need?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -508,14 +499,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (1)
 > **Best Practices:** rule of thumb (1), don't forget (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Balancing
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/balancing?u=76281980)
+#### [Balancing](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/balancing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -555,27 +544,26 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/balancing?u=76281980&t=100)** Balancing probably affects about a third of projects.
 >
-> **[1:44](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/balancing?u=76281980&t=104)** So what has a major impact on sample size that is sent to those modeling algorithms that are very computationally intensive.
+> **[1:44](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/balancing?u=76281980&t=104)** So what has a major impact on sample size that is sent to those modeling [[Algorithms]] that are very computationally intensive.
 >
 > **[1:53](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/balancing?u=76281980&t=113)** This has a huge impact on the whole process.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (2)
 > **Speakers:** - [instructor] (1)
 
-#### Who truly has big data?
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/who-truly-has-big-data-23240813?u=76281980)
+#### [Who truly has big data?](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/who-truly-has-big-data-23240813?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/who-truly-has-big-data-23240813?u=76281980&t=0)** - [Lecturer] We've seen that technical requirements like partitioning and balancing and other factors have a dramatic impact in the amount of data that actually gets to those modeling algorithms.
+> **[0:00](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/who-truly-has-big-data-23240813?u=76281980&t=0)** - [Lecturer] We've seen that technical requirements like partitioning and balancing and other factors have a dramatic impact in the amount of data that actually gets to those modeling [[Algorithms]].
 >
-> **[0:13](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/who-truly-has-big-data-23240813?u=76281980&t=13)** So, who truly has big data, data sets so large that they pose a true scaling problem?
+> **[0:13](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/who-truly-has-big-data-23240813?u=76281980&t=13)** So, who truly has [[Big Data]], data sets so large that they pose a true scaling problem?
 >
-> **[0:21](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/who-truly-has-big-data-23240813?u=76281980&t=21)** Well, remarkably, LinkedIn has over a billion subscribers worldwide.
+> **[0:21](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/who-truly-has-big-data-23240813?u=76281980&t=21)** Well, remarkably, [[LinkedIn]] has over a billion subscribers worldwide.
 >
 > **[0:28](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/who-truly-has-big-data-23240813?u=76281980&t=28)** About half login monthly, but nearly one in five log in daily, and there's an average of 20 INmails sent every second for job opportunities.
 >
@@ -593,7 +581,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/who-truly-has-big-data-23240813?u=76281980&t=94)** If that happens within 30 days, then it has implications for whether or not that return visit can be billed.
 >
-> **[1:43](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/who-truly-has-big-data-23240813?u=76281980&t=103)** So it's a very big deal in healthcare analytics.
+> **[1:43](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/who-truly-has-big-data-23240813?u=76281980&t=103)** So it's a very big deal in [[Healthcare Analytics]].
 >
 > **[1:47](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/who-truly-has-big-data-23240813?u=76281980&t=107)** So naturally, we have tons of transactions in healthcare analytics.
 >
@@ -615,7 +603,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/who-truly-has-big-data-23240813?u=76281980&t=172)** We were talking about churn.
 >
-> **[2:54](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/who-truly-has-big-data-23240813?u=76281980&t=174)** Churn is when a customer leaves one company for another, so it's type of loyalty analysis, which has been an important use case in predictive analytics for decades.
+> **[2:54](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/who-truly-has-big-data-23240813?u=76281980&t=174)** Churn is when a customer leaves one company for another, so it's type of loyalty analysis, which has been an important use case in [[Predictive Analytics]] for decades.
 >
 > **[3:05](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/who-truly-has-big-data-23240813?u=76281980&t=185)** So they have 60 million customers in the data warehouse.
 >
@@ -665,13 +653,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Big Data]] (3), [[Algorithms]] (2), [[LinkedIn]] (2), [[Healthcare Analytics]] (2)
+> **Frameworks & Libraries:** [[Big Data]] (3), [[Algorithms]] (2), [[LinkedIn]] (2), [[Healthcare Analytics]] (2), [[Predictive Analytics]] (1)
 > **Analogies:** imagine (2), for instance (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Assessing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/assessing-data?u=76281980)
+#### [Assessing data](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/assessing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -723,19 +710,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), business (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Selecting: Data that should be left out
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/selecting-data-that-should-be-left-out?u=76281980)
+#### [Selecting: Data that should be left out](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/selecting-data-that-should-be-left-out?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/selecting-data-that-should-be-left-out?u=76281980&t=0)** - [Instructor] Now, we're going to talk about what data we're going to use and what data we're going to set aside.
 >
-> **[0:07](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/selecting-data-that-should-be-left-out?u=76281980&t=7)** I also discuss this in my Essential Elements of Predictive Analytics course, and there, I go into a tad bit more depth and use a different example.
+> **[0:07](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/selecting-data-that-should-be-left-out?u=76281980&t=7)** I also discuss this in my Essential Elements of [[Predictive Analytics]] course, and there, I go into a tad bit more depth and use a different example.
 >
 > **[0:16](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/selecting-data-that-should-be-left-out?u=76281980&t=16)** So you'll recall that the whole purpose of building these predictive models is to generate a score that allows us to predict an end result.
 >
@@ -767,13 +752,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (1)
 > **Tools:** notion (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Seasonality and time alignment
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/seasonality-and-time-alignment?u=76281980)
+#### [Seasonality and time alignment](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/seasonality-and-time-alignment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -849,7 +833,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7)
 > **Analogies:** for instance (1), just like (1), imagine (1)
 > **Tools:** notion (1)
 > **Definitions:** is a  (1)
@@ -860,14 +843,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data and the data scientist
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-the-data-scientist-23234924?u=76281980)
+#### [Data and the data scientist](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-the-data-scientist-23234924?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-the-data-scientist-23234924?u=76281980&t=0)** - For both understandable and appropriate reasons, most enterprise data management and data governance is designed around the typical user of enterprise data.
+> **[0:00](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-the-data-scientist-23234924?u=76281980&t=0)** - For both understandable and appropriate reasons, most enterprise [[Data Management]] and [[Data Governance]] is designed around the typical user of enterprise data.
 >
-> **[0:12](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-the-data-scientist-23234924?u=76281980&t=12)** When I attend and speak at TDWI conferences, I sit in on the talks of expert enterprise data professionals, and in a variation of the 80/20 rule, they often describe that about 80% of users of data are content with existing tables, data sources, reports, and dashboards.
+> **[0:12](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-the-data-scientist-23234924?u=76281980&t=12)** When I attend and speak at TDWI conferences, I sit in on the talks of expert enterprise data professionals, and in a variation of the 80/20 rule, they often describe that about 80% of users of data are content with existing tables, data sources, reports, and [[Dashboards]].
 >
 > **[0:33](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-the-data-scientist-23234924?u=76281980&t=33)** The other 20% need some kind of extra attention.
 >
@@ -879,7 +861,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-the-data-scientist-23234924?u=76281980&t=67)** No standard, prebuilt monthly or quarterly report is going to do all of that.
 >
-> **[1:13](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-the-data-scientist-23234924?u=76281980&t=73)** Frankly, if data scientists aren't at least considering some unstructured data, they probably aren't working hard enough to get comprehensive data.
+> **[1:13](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-the-data-scientist-23234924?u=76281980&t=73)** Frankly, if data scientists aren't at least considering some [[Unstructured Data]], they probably aren't working hard enough to get comprehensive data.
 >
 > **[1:24](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/data-and-the-data-scientist-23234924?u=76281980&t=84)** Granular requests will be common as well.
 >
@@ -911,13 +893,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), management (1), [[Dashboards]] (1), [[Unstructured Data]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Data Management]] (1), [[Data Governance]] (1), [[Dashboards]] (1), [[Unstructured Data]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** tdwi (1)
 > **Speakers:** - for (1)
 
-#### Aggregate and restructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/aggregate-and-restructure?u=76281980)
+#### [Aggregate and restructure](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/aggregate-and-restructure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -927,7 +908,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/aggregate-and-restructure?u=76281980&t=27)** What might be less obvious at first is it won't be clear to the data scientist which of these variables is going to work best until they're in there assessing and exploring the data.
 >
-> **[0:38](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/aggregate-and-restructure?u=76281980&t=38)** So for instance, somewhat famously in statistics means are sensitive to outliers.
+> **[0:38](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/aggregate-and-restructure?u=76281980&t=38)** So for instance, somewhat famously in [[Statistics]] means are sensitive to outliers.
 >
 > **[0:44](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/aggregate-and-restructure?u=76281980&t=44)** The presence of just a few outliers can change the mean, but it doesn't change the median as much.
 >
@@ -951,17 +932,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
-#### Dummy coding
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/dummy-coding?u=76281980)
+#### [Dummy coding](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/dummy-coding?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/dummy-coding?u=76281980&t=0)** - [Instructor] Now, we're going to take a moment to talk about an aspect of data preparation, which might at first seem like a minor technical detail.
+> **[0:00](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/dummy-coding?u=76281980&t=0)** - [Instructor] Now, we're going to take a moment to talk about an aspect of [[Data Preparation]], which might at first seem like a minor technical detail.
 >
 > **[0:09](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/dummy-coding?u=76281980&t=9)** But pretty much everyone who's involved in the project, both the modelers as well as the folks that are helping provide and prep the data need to know about this, it's called dummy coding.
 >
@@ -995,24 +975,23 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/dummy-coding?u=76281980&t=104)** This is critical if you're going to take the model out of one software platform, and carry it over to something else.
 >
-> **[1:51](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/dummy-coding?u=76281980&t=111)** What if you build in a commercial package, but you're going to deploy it in SQL?
+> **[1:51](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/dummy-coding?u=76281980&t=111)** What if you build in a commercial package, but you're going to deploy it in [[SQL]]?
 >
 > **[1:55](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/dummy-coding?u=76281980&t=115)** You have to know that these were generated behind the scenes so that you can score and deploy the model correctly.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (1), [[SQL]] (1)
 > **Env Vars:** ftw (1), sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Feature engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/feature-engineering?u=76281980)
+#### [Feature engineering](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/feature-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/feature-engineering?u=76281980&t=0)** - [Instructor] Pretty much everything we've been talking about in regards to data preparation is a kind of feature engineering.
+> **[0:00](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/feature-engineering?u=76281980&t=0)** - [Instructor] Pretty much everything we've been talking about in regards to [[Data Preparation]] is a kind of [[Feature Engineering]].
 >
-> **[0:08](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/feature-engineering?u=76281980&t=8)** Now, the cross-industry standard process for data mining likes to call this data construction but the more common term these days is feature engineering.
+> **[0:08](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/feature-engineering?u=76281980&t=8)** Now, the cross-industry standard process for [[Data Mining]] likes to call this data construction but the more common term these days is feature engineering.
 >
 > **[0:17](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/feature-engineering?u=76281980&t=17)** What it basically is is extracting the meaning out of variables by using a whole bunch of different formulas, so we've already seen that we might calculate a ratio or a delta comparing recent behavior to baseline behavior.
 >
@@ -1028,7 +1007,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/feature-engineering?u=76281980&t=68)** You might also be extracting information from a whole host of codes and IDs, for instance, the second character in a VIN number is how you figure out the manufacturer of the vehicle.
 >
-> **[1:20](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/feature-engineering?u=76281980&t=80)** Finally, a lot of folks think of text mining as a kind of modeling and it's reasonable to say that but you can also think of it as a kind of data prep because an instance like this, the customer said my bag was lost and I still had to pay a bag fee, we're extracting that Fee_Concept and we're creating a Boolean variable that says that for this consumer, Fee_Concept was true.
+> **[1:20](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/feature-engineering?u=76281980&t=80)** Finally, a lot of folks think of [[Text Mining]] as a kind of modeling and it's reasonable to say that but you can also think of it as a kind of data prep because an instance like this, the customer said my bag was lost and I still had to pay a bag fee, we're extracting that Fee_Concept and we're creating a Boolean variable that says that for this consumer, Fee_Concept was true.
 >
 > **[1:46](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/feature-engineering?u=76281980&t=106)** So, it's also a kind of feature engineering and we might generate hundreds of variables just like this that are generated through text mining.
 >
@@ -1046,7 +1025,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Feature Engineering]] (4), [[Text Mining]] (2), business (1)
+> **Frameworks & Libraries:** [[Feature Engineering]] (4), [[Text Mining]] (2), [[Data Preparation]] (1), [[Data Mining]] (1)
 > **Analogies:** for instance (2), think of it as (1), just like (1)
 > **Env Vars:** vin (1)
 > **Definitions:** is a  (1)
@@ -1057,8 +1036,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the modeling process
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/understanding-the-modeling-process?u=76281980)
+#### [Understanding the modeling process](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/understanding-the-modeling-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1066,7 +1044,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/understanding-the-modeling-process?u=76281980&t=9)** I want to walk through the modeling phase from the point of view of the modeler to put that comment into proper context.
 >
-> **[0:18](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/understanding-the-modeling-process?u=76281980&t=18)** At the beginning of the modeling phase, an organized modeler should have a list of all of the different algorithms and settings that they're going to try.
+> **[0:18](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/understanding-the-modeling-process?u=76281980&t=18)** At the beginning of the modeling phase, an organized modeler should have a list of all of the different [[Algorithms]] and settings that they're going to try.
 >
 > **[0:26](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/understanding-the-modeling-process?u=76281980&t=26)** Now, I wanted a manageable list for our purposes here, but keep in mind that the list would be several dozen, and very possibly over 100 combinations of algorithms and settings.
 >
@@ -1076,7 +1054,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/understanding-the-modeling-process?u=76281980&t=44)** Most modelers are going to have access to many of these.
 >
-> **[0:47](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/understanding-the-modeling-process?u=76281980&t=47)** Here, I've listed C&RT, Support Vector Machine, Neural Net, and Logistic Regression, but there are many others.
+> **[0:47](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/understanding-the-modeling-process?u=76281980&t=47)** Here, I've listed C&RT, Support Vector Machine, Neural Net, and [[Logistic Regression]], but there are many others.
 >
 > **[0:54](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/understanding-the-modeling-process?u=76281980&t=54)** Then, the modeler's going to be changing settings, as well, so for instance, in Support Vector Machines, there's something very technical called the regularization parameter.
 >
@@ -1100,29 +1078,28 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/understanding-the-modeling-process?u=76281980&t=110)** So what is critical for us in this course, does it matter if this is running overnight?
 >
-> **[1:57](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/understanding-the-modeling-process?u=76281980&t=117)** Does it matter if you write a little bit of a loop in your code and you're trying 10 different values of C in your Support Vector Machine between when you leave for the evening and come back to the office in the morning?
+> **[1:57](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/understanding-the-modeling-process?u=76281980&t=117)** Does it matter if you write a little bit of a loop in your code and you're trying 10 different values of C in your Support Vector Machine between when you leave for the evening and come back to the [[Microsoft Office|office]] in the morning?
 >
 > **[2:08](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/understanding-the-modeling-process?u=76281980&t=128)** The answer, in short, is that it doesn't.
 >
-> **[2:10](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/understanding-the-modeling-process?u=76281980&t=130)** So the reason that you really don't have to worry about scalability in the modeling phase, unless you get to huge, huge numbers, is it doesn't matter that much if the model takes a half hour or an hour or even a few hours to run because you're only going through this process once.
+> **[2:10](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/understanding-the-modeling-process?u=76281980&t=130)** So the reason that you really don't have to worry about [[Scalability]] in the modeling phase, unless you get to huge, huge numbers, is it doesn't matter that much if the model takes a half hour or an hour or even a few hours to run because you're only going through this process once.
 >
 > **[2:27](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/understanding-the-modeling-process?u=76281980&t=147)** Where you have to worry about these algorithms is during scoring, and then you have to worry about them again during model rebuilding, both of which we will talk about.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (6), data (2), [[Logistic Regression]] (1), [[Microsoft Office|Office]] (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (6), [[Logistic Regression]] (1), [[Microsoft Office|Office]] (1), [[Scalability]] (1)
 > **Analogies:** for instance (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Slow algorithms: Brute force
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-brute-force?u=76281980)
+#### [Slow algorithms: Brute force](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-brute-force?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-brute-force?u=76281980&t=0)** - [Narrator] Now we're going to talk about three reasons why some algorithmic approaches are much slower than others.
 >
-> **[0:08](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-brute-force?u=76281980&t=8)** The first is that some modeling algorithms they tend to be of the machine learning style, perform brute-force calculations.
+> **[0:08](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-brute-force?u=76281980&t=8)** The first is that some modeling [[Algorithms]] they tend to be of the machine learning style, perform brute-force calculations.
 >
 > **[0:17](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-brute-force?u=76281980&t=17)** Let me show you what I mean.
 >
@@ -1146,15 +1123,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Speakers:** - [narrator] (1)
 
-#### Slow algorithms: More calculations
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-more-calculations?u=76281980)
+#### [Slow algorithms: More calculations](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-more-calculations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-more-calculations?u=76281980&t=0)** - [Instructor] The second reason that some algorithms are much slower than others is some algorithms just perform more calculations.
+> **[0:00](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-more-calculations?u=76281980&t=0)** - [Instructor] The second reason that some [[Algorithms]] are much slower than others is some algorithms just perform more calculations.
 >
 > **[0:07](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-more-calculations?u=76281980&t=7)** Let's take a look.
 >
@@ -1162,7 +1138,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-more-calculations?u=76281980&t=13)** All we're trying to do is predict whether or not an expectant mom will have a low birth weight baby.
 >
-> **[0:18](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-more-calculations?u=76281980&t=18)** Now, artificial neural networks get quite technical, but take a look.
+> **[0:18](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-more-calculations?u=76281980&t=18)** Now, [[Artificial Neural Networks]] get quite technical, but take a look.
 >
 > **[0:22](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-more-calculations?u=76281980&t=22)** I just want you to attend to the very large number of lines.
 >
@@ -1186,20 +1162,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Algorithms]] (2), [[Artificial Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Artificial Neural Networks]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Slow algorithms: More models
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-more-models?u=76281980)
+#### [Slow algorithms: More models](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-more-models?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-more-models?u=76281980&t=0)** - [Narrator] The third reason why some algorithmic approaches are going to be slower is we literally build more models in some cases.
 >
-> **[0:08](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-more-models?u=76281980&t=8)** So for instance, going all the way back to the 80's it was proposed that we could build more accurate decision trees if we simply built a bunch of them and then averaged.
+> **[0:08](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-more-models?u=76281980&t=8)** So for instance, going all the way back to the 80's it was proposed that we could build more accurate [[Decision Trees]] if we simply built a bunch of them and then averaged.
 >
-> **[0:21](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-more-models?u=76281980&t=21)** That's called bagging, but over the years a number of new algorithms have been developed that capitalize in this same idea.
+> **[0:21](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-more-models?u=76281980&t=21)** That's called bagging, but over the years a number of new [[Algorithms]] have been developed that capitalize in this same idea.
 >
 > **[0:29](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-more-models?u=76281980&t=29)** Somewhat famously there's one called random forests.
 >
@@ -1227,7 +1202,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-more-models?u=76281980&t=90)** You've got tens of thousands of SKUs and you've got hundreds of store locations.
 >
-> **[1:37](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-more-models?u=76281980&t=97)** Let's say that you chose an algorithmic approach that was 10 times or 50 times or 100 times slower than a statistical approach like logistic regression.
+> **[1:37](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-more-models?u=76281980&t=97)** Let's say that you chose an algorithmic approach that was 10 times or 50 times or 100 times slower than a statistical approach like [[Logistic Regression]].
 >
 > **[1:49](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/slow-algorithms-more-models?u=76281980&t=109)** If you only had to build one model, go for it.
 >
@@ -1241,14 +1216,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Logistic Regression]] (2), [[Decision Trees]] (1), [[Algorithms]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (2), [[Decision Trees]] (1), [[Algorithms]] (1)
 > **Analogies:** for instance (1), picture (1)
 > **Env Vars:** sku (1)
 > **Tools:** notion (1)
 > **Speakers:** - [narrator] (1)
 
-#### How to sample properly
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/how-to-sample-properly?u=76281980)
+#### [How to sample properly](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/how-to-sample-properly?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1274,7 +1248,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/how-to-sample-properly?u=76281980&t=75)** Also, and this is such an easy trick, sample temporarily.
 >
-> **[1:20](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/how-to-sample-properly?u=76281980&t=80)** Let's say you're going to run 120 different algorithmic variations, algorithms, settings, balanced or not and so on.
+> **[1:20](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/how-to-sample-properly?u=76281980&t=80)** Let's say you're going to run 120 different algorithmic variations, [[Algorithms]], settings, balanced or not and so on.
 >
 > **[1:30](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/how-to-sample-properly?u=76281980&t=90)** This is so easy, folks.
 >
@@ -1298,13 +1272,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modeling with missing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/modeling-with-missing-data?u=76281980)
+#### [Modeling with missing data](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/modeling-with-missing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1386,15 +1359,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for instance (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Looking ahead to deployment and scoring in production
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/looking-ahead-to-deployment-and-scoring-in-production?u=76281980)
+#### [Looking ahead to deployment and scoring in production](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/looking-ahead-to-deployment-and-scoring-in-production?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1416,7 +1387,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/looking-ahead-to-deployment-and-scoring-in-production?u=76281980&t=59)** Second, we have options when we choose a model to put into production.
 >
-> **[1:06](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/looking-ahead-to-deployment-and-scoring-in-production?u=76281980&t=66)** If an XG boost model is too slow scoring a production, we might find a faster logistic regression model is accurate enough.
+> **[1:06](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/looking-ahead-to-deployment-and-scoring-in-production?u=76281980&t=66)** If an XG boost model is too slow scoring a production, we might find a faster [[Logistic Regression]] model is accurate enough.
 >
 > **[1:16](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/looking-ahead-to-deployment-and-scoring-in-production?u=76281980&t=76)** So scale is as much an evaluation phase issue as it is a deployment issue.
 >
@@ -1438,7 +1409,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Logistic Regression]] (1), business (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
@@ -1449,8 +1420,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing your predictive modeling journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/continuing-your-predictive-modeling-journey?u=76281980)
+#### [Continuing your predictive modeling journey](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/continuing-your-predictive-modeling-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1464,15 +1434,15 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/continuing-your-predictive-modeling-journey?u=76281980&t=31)** When you're ready for more training, the natural next step would be the course that picks up where this course has just ended, where this course focuses on modeling, executive guide to deploying, monitoring, and maintaining machine learning models focuses on the machine learning lifecycle after modeling.
 >
-> **[0:52](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/continuing-your-predictive-modeling-journey?u=76281980&t=52)** If you want a high-level strategic overview of the entire machine learning lifecycle, you might want to consider [[Predictive Analytics Essential Training For Executives]], or a similar course for data science practitioners, [[Predictive Analytics Essential Training- Data Mining]], whichever you choose.
+> **[0:52](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/continuing-your-predictive-modeling-journey?u=76281980&t=52)** If you want a high-level strategic overview of the entire machine learning lifecycle, you might want to consider [[[[Predictive Analytics]] Essential Training For Executives]], or a similar course for [[Data Science]] practitioners, [[Predictive Analytics Essential Training- [[Data Mining]]]], whichever you choose.
 >
-> **[1:13](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/continuing-your-predictive-modeling-journey?u=76281980&t=73)** I hope that you'll stay in touch by following me on LinkedIn and looking out for one of my office hour events.
+> **[1:13](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/continuing-your-predictive-modeling-journey?u=76281980&t=73)** I hope that you'll stay in touch by following me on [[LinkedIn]] and looking out for one of my [[Microsoft Office|office]] hour events.
 >
 > **[1:19](https://www.linkedin.com/learning/executive-guide-to-predictive-modeling-strategy-at-scale/continuing-your-predictive-modeling-journey?u=76281980&t=79)** And if you see me at a conference, I hope that you'll say hi.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (2), [[Predictive Analytics]] (2), [[LinkedIn]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (2), [[Data Science]] (1), [[Data Mining]] (1), [[LinkedIn]] (1), [[Microsoft Office|Office]] (1)
 > **Speakers:** - so (1)
 
 

@@ -126,8 +126,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Beginning your data analysis journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/beginning-your-data-analysis-journey-23310612?u=76281980)
+#### [Beginning your data analysis journey](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/beginning-your-data-analysis-journey-23310612?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -135,9 +134,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/beginning-your-data-analysis-journey-23310612?u=76281980&t=7)** That's where data analysis comes in.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/beginning-your-data-analysis-journey-23310612?u=76281980&t=10)** According to the Bureau of Labor Statistics, employment of operations research analysts, which includes data analysts, will grow by 23% from 2020 to 2030.
+> **[0:10](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/beginning-your-data-analysis-journey-23310612?u=76281980&t=10)** According to the Bureau of Labor [[Statistics]], employment of operations research analysts, which includes data analysts, will grow by 23% from 2020 to 2030.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/beginning-your-data-analysis-journey-23310612?u=76281980&t=22)** So in this LinkedIn Learning course, we'll talk about the skills needed for data analysts, like identifying data types, joining data and cleaning data.
+> **[0:22](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/beginning-your-data-analysis-journey-23310612?u=76281980&t=22)** So in this [[LinkedIn]] Learning course, we'll talk about the skills needed for data analysts, like identifying data types, joining data and cleaning data.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/beginning-your-data-analysis-journey-23310612?u=76281980&t=32)** We'll also talk about some best practices and productivity enhancing shortcuts.
 >
@@ -147,31 +146,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Statistics]] (1), [[LinkedIn]] (1), career (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[LinkedIn]] (1)
 > **Speakers:** - if (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/what-you-should-know?u=76281980&t=0)** - There are no prerequisites to this course other than an interest in data analysis.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/what-you-should-know?u=76281980&t=4)** However, to get the most out of it you should have a pretty good working knowledge of Excel.
+> **[0:04](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/what-you-should-know?u=76281980&t=4)** However, to get the most out of it you should have a pretty good working knowledge of [[Microsoft Excel|Excel]].
 >
 > **[0:09](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/what-you-should-know?u=76281980&t=9)** I'm not saying you have to be an expert, but you should know basic Excel commands like sorting, deleting and adding columns, and writing basic formulas.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/what-you-should-know?u=76281980&t=19)** I'm also going to be using a PC for this course which means some of my commands might be different if you're on a Mac or Linux system.
+> **[0:19](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/what-you-should-know?u=76281980&t=19)** I'm also going to be using a PC for this course which means some of my commands might be different if you're on a Mac or [[Linux]] system.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/what-you-should-know?u=76281980&t=26)** Even if you cannot directly perform the commands there's a lot of value in understanding the concepts and applying them to tools that are created to work with data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Linux]] (1)
 > **Speakers:** - there (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -194,8 +191,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining data analysis and data analyst
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/defining-data-analysis-and-data-analyst?u=76281980)
+#### [Defining data analysis and data analyst](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/defining-data-analysis-and-data-analyst?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -203,7 +199,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/defining-data-analysis-and-data-analyst?u=76281980&t=10)** I know after the last two decades of being asked this, they want a single sentence answer that's easy to digest.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/defining-data-analysis-and-data-analyst?u=76281980&t=18)** Unfortunately, even though the word data was first used in 1646, there's really not a single sentence answer.
+> **[0:18](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/defining-data-analysis-and-data-analyst?u=76281980&t=18)** Unfortunately, even though the [[Microsoft Word|word]] data was first used in 1646, there's really not a single sentence answer.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/defining-data-analysis-and-data-analyst?u=76281980&t=26)** So I typically lean towards a deeper, more practical conversation to what data means to them, so I can determine what is the best way to answer their questions.
 >
@@ -219,7 +215,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/defining-data-analysis-and-data-analyst?u=76281980&t=69)** And for the data analyst of the world, we need to look at two of the definitions.
 >
-> **[1:14](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/defining-data-analysis-and-data-analyst?u=76281980&t=74)** Factual information, such as measurements or statistics, used as a basis for reasoning, discussion, or calculation, and information in digital form that can be transmitted or processed.
+> **[1:14](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/defining-data-analysis-and-data-analyst?u=76281980&t=74)** Factual information, such as measurements or [[Statistics]], used as a basis for reasoning, discussion, or calculation, and information in digital form that can be transmitted or processed.
 >
 > **[1:28](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/defining-data-analysis-and-data-analyst?u=76281980&t=88)** Now let's break down analysis.
 >
@@ -241,14 +237,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Microsoft Word|Word]] (3), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Statistics]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discovering if you are an analyst
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-if-you-are-an-analyst?u=76281980)
+#### [Discovering if you are an analyst](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-if-you-are-an-analyst?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -264,7 +259,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-if-you-are-an-analyst?u=76281980&t=20)** Do you set a target on your calories and do you monitor your calories and make adjustments to stay within your goals for the day?
 >
-> **[0:28](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-if-you-are-an-analyst?u=76281980&t=28)** Then you're already using data for decision-making, which means you're already analyzing data.
+> **[0:28](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-if-you-are-an-analyst?u=76281980&t=28)** Then you're already using data for [[Decision-Making]], which means you're already analyzing data.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-if-you-are-an-analyst?u=76281980&t=33)** This is just a practical example of how we all capture and analyze data, but data analysts take these skills and go even further.
 >
@@ -278,7 +273,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-if-you-are-an-analyst?u=76281980&t=83)** Overwhelmingly the response from people who considered themselves data workers in organizations of all sizes and all industries did not have the literal words data analyst in their job titles.
 >
-> **[1:38](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-if-you-are-an-analyst?u=76281980&t=98)** Because we are data analysts, we searched deeper into the titles for the words data or analyst, and even though we found the word analyst was more prevalent, even then, 73% who considered themselves data workers had no occurrence of data analyst, or data or analyst in their titles, and their titles were all sorts of different things.
+> **[1:38](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-if-you-are-an-analyst?u=76281980&t=98)** Because we are data analysts, we searched deeper into the titles for the words data or analyst, and even though we found the [[Microsoft Word|word]] analyst was more prevalent, even then, 73% who considered themselves data workers had no occurrence of data analyst, or data or analyst in their titles, and their titles were all sorts of different things.
 >
 > **[2:04](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-if-you-are-an-analyst?u=76281980&t=124)** Even more interesting to me was that even if they did not describe themselves as a data worker, they were still performing data-related tasks and processes and using data-related software.
 >
@@ -288,7 +283,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-if-you-are-an-analyst?u=76281980&t=156)** They're inspecting, cleaning, transforming and modeling data for reports that are consumed weekly, monthly, or even annual.
 >
-> **[2:45](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-if-you-are-an-analyst?u=76281980&t=165)** Ask yourself, are you exporting data out to Excel or CSV to work with it?
+> **[2:45](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-if-you-are-an-analyst?u=76281980&t=165)** Ask yourself, are you exporting data out to [[Microsoft Excel|Excel]] or CSV to work with it?
 >
 > **[2:51](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-if-you-are-an-analyst?u=76281980&t=171)** I would call these flat files.
 >
@@ -296,7 +291,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-if-you-are-an-analyst?u=76281980&t=179)** When you get that data out of the system or systems, do you ever delete columns or add calculations that your system doesn't provide?
 >
-> **[3:07](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-if-you-are-an-analyst?u=76281980&t=187)** This is a form of data cleaning and transformation.
+> **[3:07](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-if-you-are-an-analyst?u=76281980&t=187)** This is a form of [[Data Cleaning]] and transformation.
 >
 > **[3:10](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-if-you-are-an-analyst?u=76281980&t=190)** It's an everyday part of life for a data analyst.
 >
@@ -322,15 +317,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (38), [[Decision-Making]] (2), next (1), [[Microsoft Word|Word]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1), [[Data Cleaning]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** csv (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Organizational roles in data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/organizational-roles-in-data?u=76281980)
+#### [Organizational roles in data](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/organizational-roles-in-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -352,9 +346,9 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/organizational-roles-in-data?u=76281980&t=64)** They're focused on methods, and they also spend time with statistical outcomes.
 >
-> **[1:10](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/organizational-roles-in-data?u=76281980&t=70)** Data governance is as much a process as it is a role, but let's focus on the organizational role of data governance.
+> **[1:10](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/organizational-roles-in-data?u=76281980&t=70)** [[Data Governance]] is as much a process as it is a role, but let's focus on the organizational role of data governance.
 >
-> **[1:18](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/organizational-roles-in-data?u=76281980&t=78)** This role ensures that ownership and accountability of data is clearly defined.
+> **[1:18](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/organizational-roles-in-data?u=76281980&t=78)** This role ensures that ownership and [[Accountability]] of data is clearly defined.
 >
 > **[1:24](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/organizational-roles-in-data?u=76281980&t=84)** It also ensures that people in the organization who need access are allowed access to the data.
 >
@@ -364,7 +358,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/organizational-roles-in-data?u=76281980&t=105)** Technology most certainly plays a role in all things in an organization.
 >
-> **[1:50](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/organizational-roles-in-data?u=76281980&t=110)** Organizations have technology, not only in what they do or produce, but also in their back office operations.
+> **[1:50](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/organizational-roles-in-data?u=76281980&t=110)** Organizations have technology, not only in what they do or produce, but also in their back [[Microsoft Office|office]] operations.
 >
 > **[1:58](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/organizational-roles-in-data?u=76281980&t=118)** Technology roles in data are vast.
 >
@@ -376,7 +370,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/organizational-roles-in-data?u=76281980&t=136)** Data in an organization from an organizational role can be found at every level, from end-user to dedicated data and analysis department.
 >
-> **[2:27](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/organizational-roles-in-data?u=76281980&t=147)** Some organizations that are truly dealing with big data, which grows every day, have fully dedicated data departments, where they have data scientists, data engineers, data analysts dedicated to the data of the organization.
+> **[2:27](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/organizational-roles-in-data?u=76281980&t=147)** Some organizations that are truly dealing with [[Big Data]], which grows every day, have fully dedicated data departments, where they have data scientists, data engineers, data analysts dedicated to the data of the organization.
 >
 > **[2:42](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/organizational-roles-in-data?u=76281980&t=162)** When an organization doesn't have a dedicated data department, you will likely find these roles are being served within the technology department.
 >
@@ -384,15 +378,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), business (1), [[Accountability]] (1), [[Microsoft Office|Office]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (5), [[Accountability]] (1), [[Microsoft Office|Office]] (1), [[Big Data]] (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### Understanding types of data job roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-types-of-data-job-roles?u=76281980)
+#### [Understanding types of data job roles](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-types-of-data-job-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -402,7 +395,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-types-of-data-job-roles?u=76281980&t=9)** I'm here to tell you, people who are server and database administrators have been forced to query and provide data to business users because they were the only people to have access to data and software to work with it.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-types-of-data-job-roles?u=76281980&t=21)** However, someone who enjoys learning, setting up and securing servers is probably less than interested in building dashboards or visualizations.
+> **[0:21](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-types-of-data-job-roles?u=76281980&t=21)** However, someone who enjoys learning, setting up and securing servers is probably less than interested in building [[Dashboards]] or visualizations.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-types-of-data-job-roles?u=76281980&t=32)** Technology has so many specialized skills that there is no such thing as a catch-all tech, no matter how often we try to force it in our organizations.
 >
@@ -414,7 +407,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-types-of-data-job-roles?u=76281980&t=60)** That's my role.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-types-of-data-job-roles?u=76281980&t=62)** The team is composed of economists, public health experts and education experts.
+> **[1:02](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-types-of-data-job-roles?u=76281980&t=62)** The team is composed of economists, [[Public Health]] experts and education experts.
 >
 > **[1:07](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-types-of-data-job-roles?u=76281980&t=67)** They're a guiding voice in all of our datasets and methods.
 >
@@ -440,11 +433,11 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-types-of-data-job-roles?u=76281980&t=139)** It requires data, coding and stats analysis.
 >
-> **[2:23](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-types-of-data-job-roles?u=76281980&t=143)** I think that organizations are investing in data scientists, which is great, and if they don't have the other roles like data architects and data engineers, then those data scientists have to fulfill those roles before they can ever get to the data science.
+> **[2:23](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-types-of-data-job-roles?u=76281980&t=143)** I think that organizations are investing in data scientists, which is great, and if they don't have the other roles like data architects and data engineers, then those data scientists have to fulfill those roles before they can ever get to the [[Data Science]].
 >
 > **[2:39](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-types-of-data-job-roles?u=76281980&t=159)** A data engineer serves an immensely valuable role for an organization.
 >
-> **[2:43](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-types-of-data-job-roles?u=76281980&t=163)** Data engineers can sometimes be found building databases or working within data warehouses.
+> **[2:43](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-types-of-data-job-roles?u=76281980&t=163)** Data engineers can sometimes be found building [[Databases]] or working within data warehouses.
 >
 > **[2:49](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-types-of-data-job-roles?u=76281980&t=169)** They eat, sleep and breathe the transformation of data.
 >
@@ -454,13 +447,13 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-types-of-data-job-roles?u=76281980&t=183)** Data engineers are typically less concerned about the stats and more concerned about creating systems and datasets that can be turned over to further research, stats analysis and or data science use.
 >
-> **[3:16](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-types-of-data-job-roles?u=76281980&t=196)** I think you may commonly find that database administrators, database architects, data engineers and data security are traditionally under the umbrella of the technology department.
+> **[3:16](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-types-of-data-job-roles?u=76281980&t=196)** I think you may commonly find that database administrators, database architects, data engineers and [[Data Security]] are traditionally under the umbrella of the technology department.
 >
 > **[3:27](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-types-of-data-job-roles?u=76281980&t=207)** I have said for years that one day, all end users will be technical.
 >
 > **[3:31](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-types-of-data-job-roles?u=76281980&t=211)** And today, you will find business users, or as IT refers to them, end users, using tools that years ago would have only been used by IT employees.
 >
-> **[3:42](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-types-of-data-job-roles?u=76281980&t=222)** As data has grown and the need to dig deeper into business intelligence has increased, you will find many data roles inside the business departments and the back-office operations.
+> **[3:42](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-types-of-data-job-roles?u=76281980&t=222)** As data has grown and the need to dig deeper into [[Business Intelligence (BI)|business intelligence]] has increased, you will find many data roles inside the business departments and the back-[[Microsoft Office|office]] operations.
 >
 > **[3:53](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-types-of-data-job-roles?u=76281980&t=233)** You may find titles like system analyst or business analyst.
 >
@@ -482,7 +475,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (37), business (9), database (3), [[Business Intelligence (BI)|Business intelligence]] (2), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Business Intelligence (BI)|Business intelligence]] (2), [[Dashboards]] (1), [[Public Health]] (1), [[Databases]] (1)
 > **CLI Commands:** find (6)
 > **URLs:** [cio.com](https://cio.com) (1)
 > **Env Vars:** cio (1)
@@ -490,8 +483,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - people (1)
 
-#### Discovering skills of the data analyst
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-skills-of-the-data-analyst?u=76281980)
+#### [Discovering skills of the data analyst](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-skills-of-the-data-analyst?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -521,7 +513,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-skills-of-the-data-analyst?u=76281980&t=63)** The skills required are not just software skills.
 >
-> **[1:07](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-skills-of-the-data-analyst?u=76281980&t=67)** They're also soft skills.
+> **[1:07](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-skills-of-the-data-analyst?u=76281980&t=67)** They're also [[Soft Skills]].
 >
 > **[1:09](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-skills-of-the-data-analyst?u=76281980&t=69)** The fundamentals for data are tools agnostic.
 >
@@ -559,7 +551,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-skills-of-the-data-analyst?u=76281980&t=144)** Does shipping complete their shipping through a system or are they telling someone who tracks it on a spreadsheet?
 >
-> **[2:30](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-skills-of-the-data-analyst?u=76281980&t=150)** It's important to identify the quality of the data and learn things about what impacts data quality.
+> **[2:30](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-skills-of-the-data-analyst?u=76281980&t=150)** It's important to identify the quality of the data and learn things about what impacts [[Data Quality]].
 >
 > **[2:37](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-skills-of-the-data-analyst?u=76281980&t=157)** Another key skill is to determine what data is important to answering the specific question.
 >
@@ -601,7 +593,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-skills-of-the-data-analyst?u=76281980&t=271)** So the skills you need will continue to grow and change over time.
 >
-> **[4:36](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-skills-of-the-data-analyst?u=76281980&t=276)** Just remember that not that long ago tools like Power BI and Tableau didn't exist yet, but building a core foundation on working with data will allow you to work successfully with any tool that is built for data.
+> **[4:36](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-skills-of-the-data-analyst?u=76281980&t=276)** Just remember that not that long ago tools like [[Microsoft Power BI|Power BI]] and [[Tableau]] didn't exist yet, but building a core foundation on working with data will allow you to work successfully with any tool that is built for data.
 >
 > **[4:51](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-skills-of-the-data-analyst?u=76281980&t=291)** As we grow more innovative, data will continue to grow.
 >
@@ -609,7 +601,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), [[Soft Skills]] (1), power (1), bi (1), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (1), [[Data Quality]] (1), [[Microsoft Power BI|Power bi]] (1), [[Tableau]] (1)
 > **Cross-References:** we talked about (1), we discussed (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -621,8 +613,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning to identify data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-to-identify-data?u=76281980)
+#### [Learning to identify data](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-to-identify-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -678,7 +669,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-to-identify-data?u=76281980&t=140)** If your job is to think about data in relationship to traffic patterns, then the time of day matters, how many lanes matter?
 >
-> **[2:29](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-to-identify-data?u=76281980&t=149)** If we zoom out a bit from the cars themselves there's even more to look at, look at the signs on the freeway.
+> **[2:29](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-to-identify-data?u=76281980&t=149)** If we [[Zoom]] out a bit from the cars themselves there's even more to look at, look at the signs on the freeway.
 >
 > **[2:36](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-to-identify-data?u=76281980&t=156)** But don't only look at the sign, think about the fact that the sign itself has to be created.
 >
@@ -724,14 +715,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), traffic (2), [[Zoom]] (1), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** means that (3)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Learning about data fields and types
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-fields-and-types?u=76281980)
+#### [Learning about data fields and types](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-fields-and-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -759,7 +749,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-fields-and-types?u=76281980&t=64)** Just be aware of, that's not always the case.
 >
-> **[1:07](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-fields-and-types?u=76281980&t=67)** People call field names, column headers and they're usually represented by the top row and typically in Excel at a minimum they're bold.
+> **[1:07](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-fields-and-types?u=76281980&t=67)** People call field names, column headers and they're usually represented by the top row and typically in [[Microsoft Excel|Excel]] at a minimum they're bold.
 >
 > **[1:16](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-fields-and-types?u=76281980&t=76)** Data types drive what we can and should do with the data when we work with it.
 >
@@ -799,7 +789,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-fields-and-types?u=76281980&t=181)** You don't always have access to the backend design but you can look at information and make a determination of what you believe the data type would be.
 >
-> **[3:09](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-fields-and-types?u=76281980&t=189)** For example, if you saw color as the field name and the value is the word red, and I ask you which one of the high level data types it is, you would probably say words or text.
+> **[3:09](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-fields-and-types?u=76281980&t=189)** For example, if you saw color as the field name and the value is the [[Microsoft Word|word]] red, and I ask you which one of the high level data types it is, you would probably say words or text.
 >
 > **[3:22](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-fields-and-types?u=76281980&t=202)** You may even hear people refer to it as strings.
 >
@@ -811,7 +801,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-fields-and-types?u=76281980&t=230)** Data analysts have grown to understand that this is where it starts to get tricky what our eyes see and what the program says is not always the same thing.
 >
-> **[4:01](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-fields-and-types?u=76281980&t=241)** When we work with data in Excel or in databases, and that data is defined by the systems, what you see isn't exactly how it is defined or stored.
+> **[4:01](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-fields-and-types?u=76281980&t=241)** When we work with data in Excel or in [[Databases]], and that data is defined by the systems, what you see isn't exactly how it is defined or stored.
 >
 > **[4:12](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-fields-and-types?u=76281980&t=252)** What if I told you that 11/20/2025 and 45,981 to Excel are exactly the same thing.
 >
@@ -859,7 +849,7 @@ created: 2026-05-02
 >
 > **[6:25](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-fields-and-types?u=76281980&t=385)** Common data types that data analysts should know or texts or string, date, time, numbers, and Boolean which might look like a true or false, yes or no.
 >
-> **[6:35](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-fields-and-types?u=76281980&t=395)** If you're working in programs like Microsoft Access, it's actually a negative one or zero but then tools like SQL it's one or zero.
+> **[6:35](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-fields-and-types?u=76281980&t=395)** If you're working in programs like [[Microsoft]] Access, it's actually a negative one or zero but then tools like [[SQL]] it's one or zero.
 >
 > **[6:44](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-fields-and-types?u=76281980&t=404)** Different technologies have different types of data types.
 >
@@ -873,7 +863,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), [[Microsoft Excel|Excel]] (11), database (4), [[Databases]] (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (11), [[Databases]] (2), [[SQL]] (2), [[Microsoft Word|Word]] (1), [[Microsoft]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (3)
 > **Env Vars:** sql (2)
@@ -882,8 +872,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Prerequisites:** getting started (1)
 
-#### Dealing with the data you don't have
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/dealing-with-the-data-you-don-t-have?u=76281980)
+#### [Dealing with the data you don't have](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/dealing-with-the-data-you-don-t-have?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -899,7 +888,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/dealing-with-the-data-you-don-t-have?u=76281980&t=43)** Or sometimes that information is only valuable for decision making and not important for the system itself.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/dealing-with-the-data-you-don-t-have?u=76281980&t=49)** The impact to you as an analyst is that not all data we need for measurement or decision-making is available.
+> **[0:49](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/dealing-with-the-data-you-don-t-have?u=76281980&t=49)** The impact to you as an analyst is that not all data we need for measurement or [[Decision-Making]] is available.
 >
 > **[0:56](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/dealing-with-the-data-you-don-t-have?u=76281980&t=56)** This is where understanding functions and how to use them for dealing with data we don't have can set you apart from others and help you build more meaningful datasets.
 >
@@ -943,7 +932,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/dealing-with-the-data-you-don-t-have?u=76281980&t=176)** So knowing if the value is stored in wrong format for the math you want to do, well then you may need to know how to do some conversion functions to convert it to the proper data type.
 >
-> **[3:06](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/dealing-with-the-data-you-don-t-have?u=76281980&t=186)** I want to show you an easy way to start learning about different functions, and I'm going to use Excel for this example.
+> **[3:06](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/dealing-with-the-data-you-don-t-have?u=76281980&t=186)** I want to show you an easy way to start learning about different functions, and I'm going to use [[Microsoft Excel|Excel]] for this example.
 >
 > **[3:13](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/dealing-with-the-data-you-don-t-have?u=76281980&t=193)** Okay, I'm in Excel.
 >
@@ -1001,7 +990,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Microsoft Excel|Excel]] (3), career (1), hr (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Decision-Making]] (1)
 > **UI Navigation:** navigate to (1), go to (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1009,8 +998,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Learning syntax
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-syntax?u=76281980)
+#### [Learning syntax](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-syntax?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1064,7 +1052,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-syntax?u=76281980&t=130)** Simple searches like tie names together will likely to take you to a concatenator CONCAT function.
 >
-> **[2:16](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-syntax?u=76281980&t=136)** Or convert text date to a real date in Excel will likely take you to some conversion functions.
+> **[2:16](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-syntax?u=76281980&t=136)** Or convert text date to a real date in [[Microsoft Excel|Excel]] will likely take you to some conversion functions.
 >
 > **[2:23](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-syntax?u=76281980&t=143)** Keep in mind that syntax requires following the rules of the syntax for that program.
 >
@@ -1072,13 +1060,13 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-syntax?u=76281980&t=153)** However, if you have learned syntax for one program, it's easier to find it in other programs.
 >
-> **[2:39](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-syntax?u=76281980&t=159)** For example, you could use words like, how do I concatenate in SQL or how do I write an IF function in Power BI?
+> **[2:39](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-syntax?u=76281980&t=159)** For example, you could use words like, how do I concatenate in [[SQL]] or how do I write an IF function in [[Microsoft Power BI|Power BI]]?
 >
 > **[2:48](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-syntax?u=76281980&t=168)** Many modern tools give us the ability to use a GUI or graphical user interface to build things.
 >
 > **[2:53](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-syntax?u=76281980&t=173)** But we can always take a peek behind the scenes to look at the syntax.
 >
-> **[2:57](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-syntax?u=76281980&t=177)** For example, in Power Query, we would look at M code.
+> **[2:57](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-syntax?u=76281980&t=177)** For example, in [[Microsoft Power Query|Power Query]], we would look at M code.
 >
 > **[3:00](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-syntax?u=76281980&t=180)** In Macros, we would look at the VBA.
 >
@@ -1090,11 +1078,11 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-syntax?u=76281980&t=196)** And if you want to expand the capabilities of your data and your skills, the more you learn about syntax of any particular program, the more you can leverage it.
 >
-> **[3:25](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-syntax?u=76281980&t=205)** If you find you're in love with syntax, if you like to type out all that code versus using the GUI, you might grow up to pursue data science, where programming is one of the key differences between a data scientist and a data analyst.
+> **[3:25](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-syntax?u=76281980&t=205)** If you find you're in love with syntax, if you like to type out all that code versus using the GUI, you might grow up to pursue [[Data Science]], where programming is one of the key differences between a data scientist and a data analyst.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[SQL]] (2), hit (1), career (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Power BI|Power bi]] (1), [[Microsoft Power Query|Power query]] (1), [[Data Science]] (1)
 > **Env Vars:** sql (2), gui (2), dos (1), concat (1), vba (1)
 > **Analogies:** just like (2), for example (2), imagine (1), it's like (1)
 > **CLI Commands:** find (4)
@@ -1102,12 +1090,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Learning basic SQL statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-basic-sql-statements?u=76281980)
+#### [Learning basic SQL statements](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-basic-sql-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-basic-sql-statements?u=76281980&t=0)** - [Presenter] When learning data and certainly working with data, you will encounter SQL, pronounced sequel.
+> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-basic-sql-statements?u=76281980&t=0)** - [Presenter] When learning data and certainly working with data, you will encounter [[SQL]], pronounced sequel.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-basic-sql-statements?u=76281980&t=7)** This stands for Structured Query Language.
 >
@@ -1121,7 +1108,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-basic-sql-statements?u=76281980&t=44)** I want to introduce you to four basic SQL statements for a select query.
 >
-> **[0:48](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-basic-sql-statements?u=76281980&t=48)** But before I do, let me give you an example of querying that we do in Excel all the time.
+> **[0:48](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-basic-sql-statements?u=76281980&t=48)** But before I do, let me give you an example of querying that we do in [[Microsoft Excel|Excel]] all the time.
 >
 > **[0:53](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-basic-sql-statements?u=76281980&t=53)** You receive a spreadsheet and it has way more columns of data than what you actually need.
 >
@@ -1223,11 +1210,11 @@ created: 2026-05-02
 >
 > **[6:14](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-basic-sql-statements?u=76281980&t=374)** However, you should be able to read them because they provide vital information on where the data is stored and which fields you might need.
 >
-> **[6:22](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-basic-sql-statements?u=76281980&t=382)** If you want to learn more about SQL querying, check out some of the other courses on SQL in the LinkedIn Learning Library.
+> **[6:22](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-basic-sql-statements?u=76281980&t=382)** If you want to learn more about SQL querying, check out some of the other courses on SQL in the [[LinkedIn]] Learning Library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (16), data (8), next (3), [[Microsoft Excel|Excel]] (2), database (1)
+> **Frameworks & Libraries:** [[SQL]] (16), [[Microsoft Excel|Excel]] (2), [[LinkedIn]] (1)
 > **Env Vars:** sql (16), select (9), where (7), order (6), gui (1)
 > **SQL:** select (9), where (7), order by (6)
 > **Definitions:** is a  (3), stands for (1)
@@ -1236,8 +1223,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [presenter] (1)
 
-#### Challenge: Reading SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/challenge-reading-sql?u=76281980)
+#### [Challenge: Reading SQL](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/challenge-reading-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1245,7 +1231,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/challenge-reading-sql?u=76281980&t=7)** You want to test your skills?
 >
-> **[0:09](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/challenge-reading-sql?u=76281980&t=9)** I've provided you some SQL code in an exercise handout and on the screen.
+> **[0:09](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/challenge-reading-sql?u=76281980&t=9)** I've provided you some [[SQL]] code in an exercise handout and on the screen.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/challenge-reading-sql?u=76281980&t=14)** I want you to read the SQL statement below and then document or text what you believe the SQL statement will do, and if you spot any errors, what you would correct.
 >
@@ -1265,21 +1251,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), next (1)
+> **Frameworks & Libraries:** [[SQL]] (4)
 > **Env Vars:** sql (4)
 > **Cross-References:** next video (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Reading SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-reading-sql?u=76281980)
+#### [Solution: Reading SQL](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-reading-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-reading-sql?u=76281980&t=6)** - [Instructor] So, how'd it go?
 >
-> **[0:07](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-reading-sql?u=76281980&t=7)** Hopefully this helped you test your data skills a little bit with reading SQL statements.
+> **[0:07](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-reading-sql?u=76281980&t=7)** Hopefully this helped you test your data skills a little bit with reading [[SQL]] statements.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-reading-sql?u=76281980&t=12)** Let me show you what I came up with.
 >
@@ -1317,7 +1302,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), data (2), next (1)
+> **Frameworks & Libraries:** [[SQL]] (4)
 > **Env Vars:** sql (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1327,8 +1312,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning to interpret existing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-to-interpret-existing-data?u=76281980)
+#### [Learning to interpret existing data](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-to-interpret-existing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1396,7 +1380,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-to-interpret-existing-data?u=76281980&t=172)** Once you have everything documented, you're ready to start shopping for your data.
 >
-> **[2:56](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-to-interpret-existing-data?u=76281980&t=176)** And just like the chef, you may have to shop for your data, except the aisles are tables and databases are spreadsheets.
+> **[2:56](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-to-interpret-existing-data?u=76281980&t=176)** And just like the chef, you may have to shop for your data, except the aisles are tables and [[Databases]] are spreadsheets.
 >
 > **[3:04](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-to-interpret-existing-data?u=76281980&t=184)** And the different stores are different databases to get everything you need.
 >
@@ -1408,15 +1392,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), business (2), [[Databases]] (2), next (1)
+> **Frameworks & Libraries:** [[Databases]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding existing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/finding-existing-data?u=76281980)
+#### [Finding existing data](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/finding-existing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1454,7 +1437,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/finding-existing-data?u=76281980&t=88)** Now this is something that hurts me in my soul, but data access is often something that depends on a lot of variables.
 >
-> **[1:35](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/finding-existing-data?u=76281980&t=95)** This is one reason why I created the course on Excel and access.
+> **[1:35](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/finding-existing-data?u=76281980&t=95)** This is one reason why I created the course on [[Microsoft Excel|Excel]] and access.
 >
 > **[1:39](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/finding-existing-data?u=76281980&t=99)** This allows users to overcome challenges of having just access to spreadsheets or flat files.
 >
@@ -1502,19 +1485,18 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/finding-existing-data?u=76281980&t=183)** You always want to follow the rules of the organization, and the people in technology tend to follow the rules.
 >
-> **[3:09](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/finding-existing-data?u=76281980&t=189)** If they determine that I can have access, they'll give me access and then the process of data mining kicks in.
+> **[3:09](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/finding-existing-data?u=76281980&t=189)** If they determine that I can have access, they'll give me access and then the process of [[Data Mining]] kicks in.
 >
-> **[3:16](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/finding-existing-data?u=76281980&t=196)** A little later in this course, I'll share with you my tips and tricks on learning new databases and new datasets.
+> **[3:16](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/finding-existing-data?u=76281980&t=196)** A little later in this course, I'll share with you my tips and tricks on learning new [[Databases]] and new datasets.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), database (3), [[Microsoft Excel|Excel]] (1), next (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Data Mining]] (1), [[Databases]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (1)
 > **Speakers:** - [robin] (1)
 
-#### Cleaning data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data?u=76281980)
+#### [Cleaning data](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1524,13 +1506,13 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data?u=76281980&t=14)** I'm grateful because it helps me appreciate how to deal with any data that I see.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data?u=76281980&t=19)** What is data cleaning?
+> **[0:19](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data?u=76281980&t=19)** What is [[Data Cleaning]]?
 >
 > **[0:20](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data?u=76281980&t=20)** And since we're at the beginning of the journey, I'm going to keep it really simple.
 >
 > **[0:25](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data?u=76281980&t=25)** It's the process of standardizing the data and making it meaningful.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data?u=76281980&t=30)** If you use Excel routinely as a part of your reporting process, or if Excel is all of your reporting process, you are likely cleaning a lot.
+> **[0:30](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data?u=76281980&t=30)** If you use [[Microsoft Excel|Excel]] routinely as a part of your reporting process, or if Excel is all of your reporting process, you are likely cleaning a lot.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data?u=76281980&t=40)** It might include the removal of columns that are unneeded for the data model and the report.
 >
@@ -1558,7 +1540,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (2), business (1)
+> **Frameworks & Libraries:** [[Data Cleaning]] (3), [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** trim (1), clean (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
@@ -1567,8 +1549,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding data and workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-data-and-workflow?u=76281980)
+#### [Understanding data and workflow](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-data-and-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1692,14 +1673,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), product (3), management (1)
 > **Env Vars:** crm (2), pdf (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [presenter] (1)
 
-#### Understanding joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-joins?u=76281980)
+#### [Understanding joins](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1713,9 +1692,9 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-joins?u=76281980&t=22)** Another thing to keep in mind is that programs that work with multiple data sets typically provide you a way to join them.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-joins?u=76281980&t=29)** In Excel, it's VLOOKUPs.
+> **[0:29](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-joins?u=76281980&t=29)** In [[Microsoft Excel|Excel]], it's VLOOKUPs.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-joins?u=76281980&t=31)** And in databases, it's queries.
+> **[0:31](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-joins?u=76281980&t=31)** And in [[Databases]], it's queries.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-joins?u=76281980&t=34)** Each data set needs a way to relate the data, something shared on both sets of the data.
 >
@@ -1747,7 +1726,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-joins?u=76281980&t=109)** That means that if a record in each table matches, it will show in your results.
 >
-> **[1:54](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-joins?u=76281980&t=114)** An example would be if you want to see a list of sales and the products that were ordered, then an inner join would be appropriate.
+> **[1:54](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-joins?u=76281980&t=114)** An example would be if you want to see a list of sales and the [[Microsoft Products|products]] that were ordered, then an inner join would be appropriate.
 >
 > **[2:01](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-joins?u=76281980&t=121)** Then you have left and right outer.
 >
@@ -1765,14 +1744,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (2), [[Microsoft Products|Products]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Products|Products]] (2), [[Databases]] (1)
 > **Definitions:** is a  (1), is an  (1), means that (1)
 > **Env Vars:** vlookups (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with joins and validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-joins-and-validation?u=76281980)
+#### [Working with joins and validation](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-joins-and-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1842,7 +1820,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-joins-and-validation?u=76281980&t=170)** Just be aware that when you do adjust to join it will change the way the join line looks.
 >
-> **[2:55](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-joins-and-validation?u=76281980&t=175)** Now when I run this query I will say products that have ordered and have sales records.
+> **[2:55](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-joins-and-validation?u=76281980&t=175)** Now when I run this query I will say [[Microsoft Products|products]] that have ordered and have sales records.
 >
 > **[3:01](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-joins-and-validation?u=76281980&t=181)** I'll go ahead and run that.
 >
@@ -1926,7 +1904,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (22), data (11), [[Microsoft Products|Products]] (11), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (11)
 > **UI Navigation:** go to (4), scroll down (1)
 > **Definitions:** is a  (1), is called (1), is an  (1)
 > **Warnings:** common mistake (2), be aware (1)
@@ -1934,8 +1912,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Products are not categorized
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/challenge-products-are-not-categorized?u=76281980)
+#### [Challenge: Products are not categorized](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/challenge-products-are-not-categorized?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1945,7 +1922,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/challenge-products-are-not-categorized?u=76281980&t=8)** Again, one of the best ways to understand joins is to actually have samples that you work through.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/challenge-products-are-not-categorized?u=76281980&t=14)** So in our database we have products and these products don't all have subcategories.
+> **[0:14](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/challenge-products-are-not-categorized?u=76281980&t=14)** So in our database we have [[Microsoft Products|products]] and these products don't all have subcategories.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/challenge-products-are-not-categorized?u=76281980&t=20)** So our goal with this challenge is to create a list of products that do not have the subcategory.
 >
@@ -1957,13 +1934,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), database (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **Cross-References:** next video (1)
 > **Speakers:** - [presenter] (1)
 > **Non-Speech:** (mellow music) (1)
 
-#### Solution: Products are not categorized
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-products-are-not-categorized?u=76281980)
+#### [Solution: Products are not categorized](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-products-are-not-categorized?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1995,7 +1971,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-products-are-not-categorized?u=76281980&t=58)** I'm going to left click and hold and drag it to product subcategory.
 >
-> **[1:03](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-products-are-not-categorized?u=76281980&t=63)** All right, so my goal is to get a list of products so I'll get that product ID and name, I'll get that subcategory and the name.
+> **[1:03](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-products-are-not-categorized?u=76281980&t=63)** All right, so my goal is to get a list of [[Microsoft Products|products]] so I'll get that product ID and name, I'll get that subcategory and the name.
 >
 > **[1:12](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-products-are-not-categorized?u=76281980&t=72)** All right, let's run it and see what we get.
 >
@@ -2033,7 +2009,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), [[Microsoft Products|Products]] (5), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -2045,8 +2021,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with data projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/getting-started-with-data-projects?u=76281980)
+#### [Getting started with data projects](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/getting-started-with-data-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2064,7 +2039,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/getting-started-with-data-projects?u=76281980&t=27)** There is no dialing it back.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/getting-started-with-data-projects?u=76281980&t=29)** People will react to the information that you give them, and they believe you're providing them the answer, not a guess.
+> **[0:29](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/getting-started-with-data-projects?u=76281980&t=29)** People will [[React.js|react]] to the information that you give them, and they believe you're providing them the answer, not a guess.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/getting-started-with-data-projects?u=76281980&t=37)** Don't publish a talking point with data until you have vetted it and verified it.
 >
@@ -2090,7 +2065,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/getting-started-with-data-projects?u=76281980&t=109)** It's also helpful when you provide that detailed information, when they review it after the meeting, they can have that information as a primer before they dive in.
 >
-> **[1:58](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/getting-started-with-data-projects?u=76281980&t=118)** I like to use Word documents and simply list where the data came from, key definitions of things that they may see and other information that might be relevant for them so they can get the most out of the data.
+> **[1:58](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/getting-started-with-data-projects?u=76281980&t=118)** I like to use [[Microsoft Word|Word]] documents and simply list where the data came from, key definitions of things that they may see and other information that might be relevant for them so they can get the most out of the data.
 >
 > **[2:10](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/getting-started-with-data-projects?u=76281980&t=130)** I have been in so many meetings where data analysts just throw data up on the screen and dive in, and it will make the presentation way harder than it needs to be.
 >
@@ -2112,7 +2087,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[React.js|React]] (1), [[Microsoft Word|Word]] (1), career (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** later in (1)
 > **Best Practices:** best practice (1)
@@ -2120,8 +2095,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discovering common beginner mistakes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-common-beginner-mistakes?u=76281980)
+#### [Discovering common beginner mistakes](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/discovering-common-beginner-mistakes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2221,15 +2195,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), product (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Learning Excel datasets
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-excel-datasets?u=76281980)
+#### [Learning Excel datasets](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-excel-datasets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2307,11 +2279,11 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-excel-datasets?u=76281980&t=160)** Let's take a look.
 >
-> **[2:42](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-excel-datasets?u=76281980&t=162)** I'm in A1, If I do Control A, I can select all of the data that Excel recognizes as this dataset.
+> **[2:42](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-excel-datasets?u=76281980&t=162)** I'm in A1, If I do Control A, I can select all of the data that [[Microsoft Excel|Excel]] recognizes as this dataset.
 >
 > **[2:50](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-excel-datasets?u=76281980&t=170)** Now what's important about that is, if I have any solid blank columns or any solid blank rows, that's where it stops recognizing the data.
 >
-> **[3:00](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-excel-datasets?u=76281980&t=180)** So I'm going to zoom and I'm going to just check to make sure I don't have any broken data.
+> **[3:00](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-excel-datasets?u=76281980&t=180)** So I'm going to [[Zoom]] and I'm going to just check to make sure I don't have any broken data.
 >
 > **[3:09](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-excel-datasets?u=76281980&t=189)** Perfect.
 >
@@ -2387,19 +2359,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), product (2), [[Zoom]] (2), [[Microsoft Excel|Excel]] (1), feature (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (3), right-click (1), click on (1)
 > **Definitions:** is called (1), is a  (1), means that (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Learning database datasets
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-database-datasets?u=76281980)
+#### [Learning database datasets](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-database-datasets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-database-datasets?u=76281980&t=0)** - [Instructor] Sometimes it's not spreadsheets that we're tasked to learn, sometimes it's databases.
+> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-database-datasets?u=76281980&t=0)** - [Instructor] Sometimes it's not spreadsheets that we're tasked to learn, sometimes it's [[Databases]].
 >
 > **[0:05](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-database-datasets?u=76281980&t=5)** So let's take a look at how I learn a new database.
 >
@@ -2569,7 +2540,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), data (3), [[Databases]] (1), business (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **UI Navigation:** go to (4)
 > **Definitions:** means that (1), is an  (1), is a  (1)
 > **CLI Commands:** make (2)
@@ -2577,8 +2548,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Maintaining original data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/maintaining-original-data?u=76281980)
+#### [Maintaining original data](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/maintaining-original-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2624,7 +2594,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/maintaining-original-data?u=76281980&t=140)** I'm going to use my favorite shortcut F12, F12 quickly opens up save as, so I'm going to move it up to 04_04 and call it a HireData_WorkingFile.
 >
-> **[2:36](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/maintaining-original-data?u=76281980&t=156)** Okay, notice that it's comma separated values which means I can't have multiple tabs, pivots or charts so I'll go ahead and make this an Excel Workbook.
+> **[2:36](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/maintaining-original-data?u=76281980&t=156)** Okay, notice that it's comma separated values which means I can't have multiple tabs, pivots or charts so I'll go ahead and make this an [[Microsoft Excel|Excel]] Workbook.
 >
 > **[2:47](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/maintaining-original-data?u=76281980&t=167)** Okay. I'll choose save.
 >
@@ -2702,7 +2672,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Microsoft Excel|Excel]] (2), next (1), hit (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** csv (3), f12 (3)
 > **UI Navigation:** drag and drop (2), click on (2), double-click (1)
 > **CLI Commands:** make (2), find (1)
@@ -2710,8 +2680,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Understanding truths
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-truths?u=76281980)
+#### [Understanding truths](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-truths?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2721,13 +2690,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-truths?u=76281980&t=13)** The stats truth at a minimum is the significance of your results.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-truths?u=76281980&t=17)** Not all my projects have a full data science team, but there is some work that absolutely requires that layer.
+> **[0:17](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-truths?u=76281980&t=17)** Not all my projects have a full [[Data Science]] team, but there is some work that absolutely requires that layer.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-truths?u=76281980&t=24)** Data is given to statisticians and researchers for that stats truth.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-truths?u=76281980&t=29)** Their truth is to present the statistical outcomes and the significance of the report and frankly tell you if your data is actually just a coincidence.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-truths?u=76281980&t=38)** To learn more about stats and their application to data, check out Statistics Foundations by Eddie Davila.
+> **[0:38](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-truths?u=76281980&t=38)** To learn more about stats and their application to data, check out [[Statistics]] Foundations by Eddie Davila.
 >
 > **[0:44](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-truths?u=76281980&t=44)** The data truth can lead us to other truths.
 >
@@ -2765,7 +2734,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-truths?u=76281980&t=111)** Then there are some basic truths.
 >
-> **[1:52](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-truths?u=76281980&t=112)** For example, we have a list of unique products.
+> **[1:52](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-truths?u=76281980&t=112)** For example, we have a list of unique [[Microsoft Products|products]].
 >
 > **[1:55](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-truths?u=76281980&t=115)** Let's say that there are 300 individual products and that's the truth, but that really just tells us the count not if they count because maybe not all of them have been ordered, which leads us to the business truth.
 >
@@ -2785,7 +2754,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), business (9), [[Microsoft Products|Products]] (2), product (2), career (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Data Science]] (1), [[Statistics]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
@@ -2797,8 +2766,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning about data governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-governance?u=76281980)
+#### [Learning about data governance](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2810,7 +2778,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-governance?u=76281980&t=18)** No matter the country or the name of it, it's all around compliance, and data is certainly part of the compliance process.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-governance?u=76281980&t=25)** I'm certainly not an expert on all things data governance, but I am a data analyst, and I'm impacted by the rules that are set by the governance plans.
+> **[0:25](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-governance?u=76281980&t=25)** I'm certainly not an expert on all things [[Data Governance]], but I am a data analyst, and I'm impacted by the rules that are set by the governance plans.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-governance?u=76281980&t=33)** Whether or not an organization is required by law to follow certain data governance, they are likely to have a living, breathing data plan that has controls in place.
 >
@@ -2838,7 +2806,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-governance?u=76281980&t=100)** The group that owns the data is likely to be involved in your access to that data, even if IT is the gatekeeper that establishes your permission to that data.
 >
-> **[1:51](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-governance?u=76281980&t=111)** The IT group or technology department will also have plans in place to secure the data, and they are required to maintain certain forms of compliance themselves.
+> **[1:51](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-governance?u=76281980&t=111)** The IT group or technology department will also have plans in place to secure the data, and they are required to maintain certain [[Forms]] of compliance themselves.
 >
 > **[2:00](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-governance?u=76281980&t=120)** It's important to understand that the way you gain access to the data and what permissions you will be allowed is usually controlled by the data governance plan.
 >
@@ -2858,7 +2826,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-governance?u=76281980&t=173)** By leveraging what we know about data, we're able to automate datasets so that people who need access to the data but not access to the system still have protected data.
 >
-> **[3:03](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-governance?u=76281980&t=183)** I found early in my career the more critical my reporting was to the decision-making, the more access I gained to data.
+> **[3:03](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-governance?u=76281980&t=183)** I found early in my career the more critical my reporting was to the [[Decision-Making]], the more access I gained to data.
 >
 > **[3:11](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/learning-about-data-governance?u=76281980&t=191)** Keep in mind, when you try to pick up the latest, greatest tools to deal with data, you really need a broad range of skills and tools because you don't always know exactly how you'll be working with any given dataset.
 >
@@ -2884,7 +2852,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (41), management (1), [[Forms]] (1), career (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (10), [[Forms]] (1), [[Decision-Making]] (1)
 > **Env Vars:** sox (3), crm (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
@@ -2892,8 +2860,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding source data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-source-data?u=76281980)
+#### [Understanding source data](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-source-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2901,11 +2868,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-source-data?u=76281980&t=9)** Where did it come from and how did you receive it?
 >
-> **[0:12](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-source-data?u=76281980&t=12)** Systems that people use at work are often powered by databases or capture data and place it into databases.
+> **[0:12](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-source-data?u=76281980&t=12)** Systems that people use at work are often powered by [[Databases]] or capture data and place it into databases.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-source-data?u=76281980&t=20)** In a perfect world, we would always be working with the source of the data.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-source-data?u=76281980&t=25)** Sometimes working with the source is a challenge due to data governance, or even how it's structured in a system.
+> **[0:25](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-source-data?u=76281980&t=25)** Sometimes working with the source is a challenge due to [[Data Governance]], or even how it's structured in a system.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-source-data?u=76281980&t=33)** Source data is where data is first initiated, and the hope is that is the most accurate compared with maybe say second-hand data.
 >
@@ -2923,7 +2890,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-source-data?u=76281980&t=100)** Let me give you an example.
 >
-> **[1:42](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-source-data?u=76281980&t=102)** We have a company that we write reports for and they have a human resources system and a separate payroll system.
+> **[1:42](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-source-data?u=76281980&t=102)** We have a company that we write reports for and they have a [[Human Resources (HR)|human resources]] system and a separate payroll system.
 >
 > **[1:50](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-source-data?u=76281980&t=110)** More specifically, when an employee hires onto the organization, the very first place you find them is captured in the HR system.
 >
@@ -2945,7 +2912,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-source-data?u=76281980&t=176)** If you work in neither of those departments and you've been tasked with reporting on hiring information and performance bonuses, then you need information from both source systems.
 >
-> **[3:09](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-source-data?u=76281980&t=189)** HR data and payroll data are highly protected data structures, and for what you need, they may not give you direct access to both systems.
+> **[3:09](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-source-data?u=76281980&t=189)** HR data and payroll data are highly protected [[Data Structures]], and for what you need, they may not give you direct access to both systems.
 >
 > **[3:18](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-source-data?u=76281980&t=198)** They will likely provide you just the data you need in the form of CSV.
 >
@@ -2965,18 +2932,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), hr (7), [[Databases]] (2), [[Human Resources (HR)|Human resources]] (2)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Human Resources (HR)|Human resources]] (2), [[Data Governance]] (1), [[Data Structures]] (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** csv (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with flat files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-flat-files?u=76281980)
+#### [Working with flat files](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-flat-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-flat-files?u=76281980&t=0)** - [Instructor] People are not always able to directly connect to the backend of a database system and sometimes they're limited to exports of the data or they receive files that are in Excel format or CSV.
+> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-flat-files?u=76281980&t=0)** - [Instructor] People are not always able to directly connect to the backend of a database system and sometimes they're limited to exports of the data or they receive files that are in [[Microsoft Excel|Excel]] format or CSV.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-flat-files?u=76281980&t=12)** I would refer to these as flat files and they're disconnected from the data.
 >
@@ -3000,7 +2966,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-flat-files?u=76281980&t=60)** And by default CSV files open in Excel.
 >
-> **[1:04](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-flat-files?u=76281980&t=64)** All too often, I see these individuals stuck just using Excel as their data solution because that's what they receive and it's already in Excel so it makes total sense to stay in the tool but they may not be leveraging the tools in Excel like Power Query to support their efforts.
+> **[1:04](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-flat-files?u=76281980&t=64)** All too often, I see these individuals stuck just using Excel as their data solution because that's what they receive and it's already in Excel so it makes total sense to stay in the tool but they may not be leveraging the tools in Excel like [[Microsoft Power Query|Power Query]] to support their efforts.
 >
 > **[1:21](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-flat-files?u=76281980&t=81)** You may receive a comprehensive list of information.
 >
@@ -3156,7 +3122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (36), [[Microsoft Excel|Excel]] (9), [[Microsoft Power Query|Power query]] (6), next (2), database (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), [[Microsoft Power Query|Power query]] (6)
 > **Env Vars:** csv (10)
 > **UI Navigation:** go to (5), navigate to (1), dropdown (1)
 > **Ports:** :23 (1), :27 (1), :30 (1), :01 (1)
@@ -3165,8 +3131,7 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with connections
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-connections?u=76281980)
+#### [Working with connections](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-connections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3178,7 +3143,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-connections?u=76281980&t=24)** I can remember early in my career that some of the only ways I could connect to certain data at some companies was actually through ODBC connections that were set up on my machine by the IT group.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-connections?u=76281980&t=37)** Today, just good old fashioned Excel will tap into a lot of live data sources.
+> **[0:37](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-connections?u=76281980&t=37)** Today, just good old fashioned [[Microsoft Excel|Excel]] will tap into a lot of live data sources.
 >
 > **[0:42](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-connections?u=76281980&t=42)** Let's take a look.
 >
@@ -3186,15 +3151,15 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-connections?u=76281980&t=49)** Now, if I'm choosing things like From File, of course, I'm pulling in probably a flat file.
 >
-> **[0:55](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-connections?u=76281980&t=55)** But look, I can connect to all sorts of databases.
+> **[0:55](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-connections?u=76281980&t=55)** But look, I can connect to all sorts of [[Databases]].
 >
 > **[0:58](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-connections?u=76281980&t=58)** Assuming that I have a username and permissions to that file, I'm able to tap into it from Excel.
 >
-> **[1:04](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-connections?u=76281980&t=64)** You also see other services like From Azure or From Online Services, and then of course From Other Services.
+> **[1:04](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-connections?u=76281980&t=64)** You also see other services like From [[Microsoft Azure|Azure]] or From Online Services, and then of course From Other Services.
 >
 > **[1:11](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-connections?u=76281980&t=71)** Almost every connection is covered.
 >
-> **[1:14](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-connections?u=76281980&t=74)** Okay, let's take a look at some of the connection availability in Power BI, and I'll use Power BI Desktop.
+> **[1:14](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-connections?u=76281980&t=74)** Okay, let's take a look at some of the connection availability in [[Microsoft Power BI|Power BI]], and I'll use Power BI Desktop.
 >
 > **[1:22](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-connections?u=76281980&t=82)** Okay, I'll choose get data from another source.
 >
@@ -3204,7 +3169,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-connections?u=76281980&t=95)** Again, as long as you have a username, password, and permissions to that data, you're able to connect to it.
 >
-> **[1:42](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-connections?u=76281980&t=102)** Again, Power BI uses Power Query for data transformation and cleaning and then also Power BI has visualizations.
+> **[1:42](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-connections?u=76281980&t=102)** Again, Power BI uses [[Microsoft Power Query|Power Query]] for [[Data Transformation]] and cleaning and then also Power BI has visualizations.
 >
 > **[1:51](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-connections?u=76281980&t=111)** When you connect directly to the data, then you're using your software to interface with that data.
 >
@@ -3214,14 +3179,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), power (4), bi (4), [[Microsoft Excel|Excel]] (2), career (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[Microsoft Excel|Excel]] (2), [[Databases]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** odbc (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating datasets for others
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/creating-datasets-for-others?u=76281980)
+#### [Creating datasets for others](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/creating-datasets-for-others?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3371,7 +3335,7 @@ created: 2026-05-02
 >
 > **[6:09](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/creating-datasets-for-others?u=76281980&t=369)** So I'll go to my View tab.
 >
-> **[6:12](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/creating-datasets-for-others?u=76281980&t=372)** I'll go to Switch Windows.
+> **[6:12](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/creating-datasets-for-others?u=76281980&t=372)** I'll go to Switch [[Windows]].
 >
 > **[6:14](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/creating-datasets-for-others?u=76281980&t=374)** I'll go back to my research file.
 >
@@ -3419,7 +3383,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), business (1), teams (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **UI Navigation:** go to (6), scroll down (1)
 > **CLI Commands:** find (2), make (2)
 > **Cross-References:** go back to (3)
@@ -3430,12 +3394,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding ETL in data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-etl-in-data?u=76281980)
+#### [Understanding ETL in data](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-etl-in-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-etl-in-data?u=76281980&t=0)** - [Instructor] I can remember the first time I heard about data warehousing.
+> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-etl-in-data?u=76281980&t=0)** - [Instructor] I can remember the first time I heard about [[Data Warehousing]].
 >
 > **[0:03](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/understanding-etl-in-data?u=76281980&t=3)** I wanted to go learn about it.
 >
@@ -3477,22 +3440,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), etl (9), career (1), business (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Data Warehousing]] (2)
 > **Env Vars:** etl (9)
 > **Definitions:** stands for (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cleaning data using Excel macros
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data-using-excel-macros?u=76281980)
+#### [Cleaning data using Excel macros](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data-using-excel-macros?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data-using-excel-macros?u=76281980&t=0)** - You may find in an organization, they're using older methods of cleaning data.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data-using-excel-macros?u=76281980&t=5)** They may be using Excel Macros.
+> **[0:05](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data-using-excel-macros?u=76281980&t=5)** They may be using [[Microsoft Excel|Excel]] Macros.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data-using-excel-macros?u=76281980&t=7)** It could be that that vowel just hasn't been touched in a while, or they haven't adopted tools like Power Query.
+> **[0:07](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data-using-excel-macros?u=76281980&t=7)** It could be that that vowel just hasn't been touched in a while, or they haven't adopted tools like [[Microsoft Power Query|Power Query]].
 >
 > **[0:13](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data-using-excel-macros?u=76281980&t=13)** It's important to know when you inherit a file, you inherit the knowledge, and the style of the person who is responsible for that file.
 >
@@ -3658,7 +3620,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (2), [[Microsoft Power Query|Power query]] (2), next (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Power Query|Power query]] (2)
 > **UI Navigation:** go to (7)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), is called (1)
@@ -3667,12 +3629,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - you (1)
 
-#### Cleaning data with Power Query
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data-with-power-query?u=76281980)
+#### [Cleaning data with Power Query](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data-with-power-query?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data-with-power-query?u=76281980&t=0)** - [Instructor] When you start to learn Power Query, it is impossible to not use it for even the basic things you do all the time to clean data.
+> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data-with-power-query?u=76281980&t=0)** - [Instructor] When you start to learn [[Microsoft Power Query|Power Query]], it is impossible to not use it for even the basic things you do all the time to clean data.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data-with-power-query?u=76281980&t=7)** It's so much easier than recording macros, and just as powerful.
 >
@@ -3688,7 +3649,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data-with-power-query?u=76281980&t=37)** I'll choose Get Data From File.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data-with-power-query?u=76281980&t=39)** And because the source of my file is Excel, I'll choose From Workbook.
+> **[0:39](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data-with-power-query?u=76281980&t=39)** And because the source of my file is [[Microsoft Excel|Excel]], I'll choose From Workbook.
 >
 > **[0:49](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data-with-power-query?u=76281980&t=49)** And I'll choose the Spending Trends Survey.
 >
@@ -3808,20 +3769,19 @@ created: 2026-05-02
 >
 > **[6:14](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data-with-power-query?u=76281980&t=374)** But there's no time like the present.
 >
-> **[6:17](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data-with-power-query?u=76281980&t=377)** Also important to know that if you learn Power Query in Excel, then you already know it in Power BI.
+> **[6:17](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data-with-power-query?u=76281980&t=377)** Also important to know that if you learn Power Query in Excel, then you already know it in [[Microsoft Power BI|Power BI]].
 >
 > **[6:23](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/cleaning-data-with-power-query?u=76281980&t=383)** You can learn more about Power Query, check out Oz du Soleil's course on Get and Transform in the library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Microsoft Power Query|Power query]] (4), [[Microsoft Excel|Excel]] (4), hit (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (4), [[Microsoft Excel|Excel]] (4), [[Microsoft Power BI|Power bi]] (1)
 > **UI Navigation:** navigate to (1), go to (1), double-click (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with reusable data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-reusable-data?u=76281980)
+#### [Working with reusable data](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-reusable-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3831,7 +3791,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-reusable-data?u=76281980&t=11)** It allows you to bring your dates in with common date calculations that you might find you're rebuilding every time you work with dates.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-reusable-data?u=76281980&t=20)** Let's create our own custom dates table using Excel.
+> **[0:20](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-reusable-data?u=76281980&t=20)** Let's create our own custom dates table using [[Microsoft Excel|Excel]].
 >
 > **[0:23](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-reusable-data?u=76281980&t=23)** That way you can use it anytime you have data-related calculations on dates.
 >
@@ -3925,7 +3885,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-reusable-data?u=76281980&t=236)** Okay, so now I've got my dates table ready.
 >
-> **[3:58](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-reusable-data?u=76281980&t=238)** All I need to do is save it and then I can import it into any data set that I need to work with these particular date codes, or I can link directly to it for any of my Power BI or Power Query needs.
+> **[3:58](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-reusable-data?u=76281980&t=238)** All I need to do is save it and then I can import it into any data set that I need to work with these particular date codes, or I can link directly to it for any of my [[Microsoft Power BI|Power BI]] or [[Microsoft Power Query|Power Query]] needs.
 >
 > **[4:11](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/working-with-reusable-data?u=76281980&t=251)** I'll go ahead and save that.
 >
@@ -3943,14 +3903,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (2), business (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Power BI|Power bi]] (1), [[Microsoft Power Query|Power query]] (1)
 > **CLI Commands:** find (3), make (1)
 > **URLs:** [geonames.org](https://geonames.org) (1)
 > **Env Vars:** eomonth (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modeling data with queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/modeling-data-with-queries?u=76281980)
+#### [Modeling data with queries](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/modeling-data-with-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3978,7 +3937,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/modeling-data-with-queries?u=76281980&t=50)** Let's bring in our date data.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/modeling-data-with-queries?u=76281980&t=52)** I'll go to external, new data source, from file and Excel.
+> **[0:52](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/modeling-data-with-queries?u=76281980&t=52)** I'll go to external, new data source, from file and [[Microsoft Excel|Excel]].
 >
 > **[0:59](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/modeling-data-with-queries?u=76281980&t=59)** I'm going to use my reusable dates dataset.
 >
@@ -4144,14 +4103,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), next (5), database (3), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modeling data in Power Query
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/modeling-data-in-power-query?u=76281980)
+#### [Modeling data in Power Query](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/modeling-data-in-power-query?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4159,9 +4117,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/modeling-data-in-power-query?u=76281980&t=6)** So what do you do when you don't?
 >
-> **[0:09](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/modeling-data-in-power-query?u=76281980&t=9)** You can use Power Query.
+> **[0:09](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/modeling-data-in-power-query?u=76281980&t=9)** You can use [[Microsoft Power Query|Power Query]].
 >
-> **[0:11](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/modeling-data-in-power-query?u=76281980&t=11)** It's built right inside of Excel and we can bring our data in, and through the use of merge queries, model it the way we need it.
+> **[0:11](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/modeling-data-in-power-query?u=76281980&t=11)** It's built right inside of [[Microsoft Excel|Excel]] and we can bring our data in, and through the use of merge queries, model it the way we need it.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/modeling-data-in-power-query?u=76281980&t=19)** I want to take a look at our wage data and some reusable data from postal code information that we got from [geonames.org](https://geonames.org).
 >
@@ -4379,7 +4337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), [[Microsoft Power Query|Power query]] (6), hit (3), [[Microsoft Excel|Excel]] (2), database (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (6), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** go to (5), dropdown (2), select the (2), navigate to (1), drag and drop (1)
 > **Cross-References:** go back to (3)
 > **URLs:** [geonames.org](https://geonames.org) (1)
@@ -4388,14 +4346,13 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Rename headers in Power Query
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/challenge-rename-headers-in-power-query?u=76281980)
+#### [Challenge: Rename headers in Power Query](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/challenge-rename-headers-in-power-query?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/challenge-rename-headers-in-power-query?u=76281980&t=0)** (upbeat electronic music)
 >
-> **[0:06](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/challenge-rename-headers-in-power-query?u=76281980&t=6)** - [Instructor] Now that we know that there are cleaning routines that we can leverage in VBA code, we can turn around and clean them in Power Query using the skills you just gained.
+> **[0:06](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/challenge-rename-headers-in-power-query?u=76281980&t=6)** - [Instructor] Now that we know that there are cleaning routines that we can leverage in VBA code, we can turn around and clean them in [[Microsoft Power Query|Power Query]] using the skills you just gained.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/challenge-rename-headers-in-power-query?u=76281980&t=15)** So here's the challenge.
 >
@@ -4413,14 +4370,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (2), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (2)
 > **Env Vars:** vba (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Rename headers in Power Query
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-rename-headers-in-power-query?u=76281980)
+#### [Solution: Rename headers in Power Query](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-rename-headers-in-power-query?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4428,7 +4384,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-rename-headers-in-power-query?u=76281980&t=14)** So I have my study data open, let me navigate to that.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-rename-headers-in-power-query?u=76281980&t=17)** And I've also got a new workbook open so I'm going to just switch between my windows there.
+> **[0:17](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-rename-headers-in-power-query?u=76281980&t=17)** And I've also got a new workbook open so I'm going to just switch between my [[Windows]] there.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-rename-headers-in-power-query?u=76281980&t=24)** I'll go to my visual basic and I've got my different pieces of code.
 >
@@ -4446,7 +4402,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-rename-headers-in-power-query?u=76281980&t=65)** And I'll go ahead and choose transform.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-rename-headers-in-power-query?u=76281980&t=71)** I'll restore my power query window because I do want to be able to see my code.
+> **[1:11](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-rename-headers-in-power-query?u=76281980&t=71)** I'll restore my [[Microsoft Power Query|power query]] window because I do want to be able to see my code.
 >
 > **[1:16](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-rename-headers-in-power-query?u=76281980&t=76)** So my very first steps are to delete columns D through G.
 >
@@ -4516,7 +4472,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Power Query|Power query]] (3), [[Windows]] (1), next (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (3), [[Windows]] (1)
 > **UI Navigation:** navigate to (2), go to (2), scroll down (1)
 > **Env Vars:** vba (1)
 > **Cross-References:** go back to (1)
@@ -4528,16 +4484,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Convert data in Power Query
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/convert-data-in-power-query?u=76281980)
+#### [Convert data in Power Query](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/convert-data-in-power-query?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/convert-data-in-power-query?u=76281980&t=0)** - [Instructor] Excel's been around for a while, and most people who are ever exposed to data find themselves in an Excel file.
+> **[0:00](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/convert-data-in-power-query?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]]'s been around for a while, and most people who are ever exposed to data find themselves in an Excel file.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/convert-data-in-power-query?u=76281980&t=7)** That means that they've learned to clean data, trim data and convert data with functions, and maybe even automate it with macros.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/convert-data-in-power-query?u=76281980&t=15)** This makes a lot of sense until the advent of Power Query.
+> **[0:15](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/convert-data-in-power-query?u=76281980&t=15)** This makes a lot of sense until the advent of [[Microsoft Power Query|Power Query]].
 >
 > **[0:19](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/convert-data-in-power-query?u=76281980&t=19)** Power Query makes cleaning and converting data so much simpler.
 >
@@ -4607,7 +4562,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Microsoft Power Query|Power query]] (4), [[Microsoft Excel|Excel]] (2), hit (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (4), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** means that (1), is a  (1)
@@ -4615,8 +4570,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding and removing duplicates
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/finding-and-removing-duplicates?u=76281980)
+#### [Finding and removing duplicates](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/finding-and-removing-duplicates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4794,25 +4748,24 @@ created: 2026-05-02
 >
 > **[7:33](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/finding-and-removing-duplicates?u=76281980&t=453)** There are many ways that people remove duplicates in data.
 >
-> **[7:37](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/finding-and-removing-duplicates?u=76281980&t=457)** This is just one way to leverage the tools of power query.
+> **[7:37](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/finding-and-removing-duplicates?u=76281980&t=457)** This is just one way to leverage the tools of [[Microsoft Power Query|power query]].
 >
 > **[7:41](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/finding-and-removing-duplicates?u=76281980&t=461)** Because it maintains the step, if you update the data, then those steps are automated.
 >
-> **[7:47](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/finding-and-removing-duplicates?u=76281980&t=467)** If you manually remove the duplicates before you start working with the data, just understand it may degrade the data quality.
+> **[7:47](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/finding-and-removing-duplicates?u=76281980&t=467)** If you manually remove the duplicates before you start working with the data, just understand it may degrade the [[Data Quality]].
 >
 > **[7:54](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/finding-and-removing-duplicates?u=76281980&t=474)** So anytime you can automate the removal of duplicates, you're going to have a higher quality dataset.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), hit (4), product (3), [[Microsoft Power Query|Power query]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (1), [[Data Quality]] (1)
 > **UI Navigation:** go to (7), scroll down (2)
 > **Versions:** 7.95 (2), 8.58 (2), 0.64 (1), 8.59 (1), 78.76 (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Changing case and replace values
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/changing-case-and-replace-values?u=76281980)
+#### [Changing case and replace values](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/changing-case-and-replace-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4822,7 +4775,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/changing-case-and-replace-values?u=76281980&t=15)** We're usually doing this for consistency across our data.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/changing-case-and-replace-values?u=76281980&t=19)** It's also important to note that Power Query is case sensitive.
+> **[0:19](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/changing-case-and-replace-values?u=76281980&t=19)** It's also important to note that [[Microsoft Power Query|Power Query]] is case sensitive.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/changing-case-and-replace-values?u=76281980&t=22)** So if we're going to use tools like replace values sometimes to make it simple it's easier to convert to a different case.
 >
@@ -4838,7 +4791,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/changing-case-and-replace-values?u=76281980&t=52)** I can get a transform.
 >
-> **[0:53](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/changing-case-and-replace-values?u=76281980&t=53)** I see options for lower, upper and capitalize each word which the function equivalent of that is equal proper.
+> **[0:53](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/changing-case-and-replace-values?u=76281980&t=53)** I see options for lower, upper and capitalize each [[Microsoft Word|word]] which the function equivalent of that is equal proper.
 >
 > **[1:02](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/changing-case-and-replace-values?u=76281980&t=62)** So I'll go ahead and do upper case.
 >
@@ -4902,14 +4855,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Power Query|Power query]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** go to (3)
 > **Analogies:** for example (1), imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combining data with merge columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/combining-data-with-merge-columns?u=76281980)
+#### [Combining data with merge columns](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/combining-data-with-merge-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4921,7 +4873,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/combining-data-with-merge-columns?u=76281980&t=20)** That allows us to combine the first and last name together.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/combining-data-with-merge-columns?u=76281980&t=23)** In Power Query, we do this by using merge column on the fields.
+> **[0:23](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/combining-data-with-merge-columns?u=76281980&t=23)** In [[Microsoft Power Query|Power Query]], we do this by using merge column on the fields.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/combining-data-with-merge-columns?u=76281980&t=28)** One of the benefits of merging the fields is that we can remove the river of white space that flows through the lines.
 >
@@ -5015,7 +4967,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Power Query|Power query]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (1)
 > **UI Navigation:** right-click (5), go to (4), click on (3)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2)
@@ -5023,8 +4975,7 @@ created: 2026-05-02
 > **Env Vars:** concat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating logical functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/creating-logical-functions?u=76281980)
+#### [Creating logical functions](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/creating-logical-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5034,9 +4985,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/creating-logical-functions?u=76281980&t=11)** Trust me, you will need it.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/creating-logical-functions?u=76281980&t=14)** In Excel, we call these If functions or logical functions.
+> **[0:14](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/creating-logical-functions?u=76281980&t=14)** In [[Microsoft Excel|Excel]], we call these If functions or logical functions.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/creating-logical-functions?u=76281980&t=18)** In Power Query, they're called conditional columns.
+> **[0:18](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/creating-logical-functions?u=76281980&t=18)** In [[Microsoft Power Query|Power Query]], they're called conditional columns.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/creating-logical-functions?u=76281980&t=21)** The organization decided they want to send a thank you note to anyone who made a sales order over $3000.
 >
@@ -5062,7 +5013,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/creating-logical-functions?u=76281980&t=70)** Let me show you how the reference works.
 >
-> **[1:12](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/creating-logical-functions?u=76281980&t=72)** If I go to SalesOrderHeader and I go ahead and make my display name proper case or capitalize each word, then I'll immediately see that change in my marketing.
+> **[1:12](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/creating-logical-functions?u=76281980&t=72)** If I go to SalesOrderHeader and I go ahead and make my display name proper case or capitalize each [[Microsoft Word|word]], then I'll immediately see that change in my marketing.
 >
 > **[1:26](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/creating-logical-functions?u=76281980&t=86)** That's one of the benefits of the reference.
 >
@@ -5102,14 +5053,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), career (1), [[Microsoft Excel|Excel]] (1), [[Microsoft Power Query|Power query]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft Power Query|Power query]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (4), right-click (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Building aggregate datasets
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/building-aggregate-datasets?u=76281980)
+#### [Building aggregate datasets](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/building-aggregate-datasets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5117,9 +5067,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/building-aggregate-datasets?u=76281980&t=6)** And then we send that aggregated data to other people.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/building-aggregate-datasets?u=76281980&t=9)** This type of aggregation can be frustrating when you're dealing with large data ranges in Excel and you're limited to doing sum, average and count functions.
+> **[0:09](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/building-aggregate-datasets?u=76281980&t=9)** This type of aggregation can be frustrating when you're dealing with large data ranges in [[Microsoft Excel|Excel]] and you're limited to doing sum, average and count functions.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/building-aggregate-datasets?u=76281980&t=19)** Let's quickly look at how we can produce these aggregate data sets in Power Query.
+> **[0:19](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/building-aggregate-datasets?u=76281980&t=19)** Let's quickly look at how we can produce these aggregate data sets in [[Microsoft Power Query|Power Query]].
 >
 > **[0:24](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/building-aggregate-datasets?u=76281980&t=24)** Okay.
 >
@@ -5211,14 +5161,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Power Query|Power query]] (2), [[Microsoft Excel|Excel]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (5), right-click (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Count and amounts of products
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/challenge-count-and-amounts-of-products?u=76281980)
+#### [Challenge: Count and amounts of products](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/challenge-count-and-amounts-of-products?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5230,18 +5179,17 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/challenge-count-and-amounts-of-products?u=76281980&t=12)** So here's the challenge; you need to combine first and last name with the customer key to create one field.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/challenge-count-and-amounts-of-products?u=76281980&t=19)** You want to convert your product ID to text and then you want to provide a separate dataset that gives you a total number of products ordered and also a total amount of sales for each product.
+> **[0:19](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/challenge-count-and-amounts-of-products?u=76281980&t=19)** You want to convert your product ID to text and then you want to provide a separate dataset that gives you a total number of [[Microsoft Products|products]] ordered and also a total amount of sales for each product.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/challenge-count-and-amounts-of-products?u=76281980&t=30)** Be sure to use the challenge data in your folder.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Microsoft Products|Products]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Count and amounts of products
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-count-and-amounts-of-products?u=76281980)
+#### [Solution: Count and amounts of products](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-count-and-amounts-of-products?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5259,7 +5207,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-count-and-amounts-of-products?u=76281980&t=23)** I'll do table a range. I'll click okay.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-count-and-amounts-of-products?u=76281980&t=28)** This will type into power query.
+> **[0:28](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-count-and-amounts-of-products?u=76281980&t=28)** This will type into [[Microsoft Power Query|power query]].
 >
 > **[0:30](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-count-and-amounts-of-products?u=76281980&t=30)** One of the first objectives is to actually combine the first and last that've been customer key. And again, there were not a lot of instructions on how to make that look. So if you did something a little bit different it's okay.
 >
@@ -5287,7 +5235,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-count-and-amounts-of-products?u=76281980&t=105)** It asked for a separate dataset.
 >
-> **[1:48](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-count-and-amounts-of-products?u=76281980&t=108)** So I'll go ahead and name this one, original, and then I'll go ahead and duplicate this dataset and call this, totals and products.
+> **[1:48](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-count-and-amounts-of-products?u=76281980&t=108)** So I'll go ahead and name this one, original, and then I'll go ahead and duplicate this dataset and call this, totals and [[Microsoft Products|products]].
 >
 > **[2:06](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/solution-count-and-amounts-of-products?u=76281980&t=126)** Okay. I'll go over to my transform tab and I'll do group by.
 >
@@ -5311,7 +5259,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), data (2), [[Microsoft Products|Products]] (2), [[Microsoft Power Query|Power query]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Microsoft Power Query|Power query]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - i (1)
@@ -5322,8 +5270,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### More resources for your learning data analytics journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/more-resources-for-your-learning-data-analytics-journey?u=76281980)
+#### [More resources for your learning data analytics journey](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/more-resources-for-your-learning-data-analytics-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5333,13 +5280,13 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/more-resources-for-your-learning-data-analytics-journey?u=76281980&t=12)** Here's a couple of things to advance your data analysis skills beyond this course.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/more-resources-for-your-learning-data-analytics-journey?u=76281980&t=16)** You'll want to expand your understanding of relational databases, learn additional query techniques.
+> **[0:16](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/more-resources-for-your-learning-data-analytics-journey?u=76281980&t=16)** You'll want to expand your understanding of [[Relational Databases]], learn additional query techniques.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/more-resources-for-your-learning-data-analytics-journey?u=76281980&t=22)** Certainly consider learning more about tools like Power Query that are dedicated to cleaning and transforming data.
+> **[0:22](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/more-resources-for-your-learning-data-analytics-journey?u=76281980&t=22)** Certainly consider learning more about tools like [[Microsoft Power Query|Power Query]] that are dedicated to cleaning and transforming data.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/more-resources-for-your-learning-data-analytics-journey?u=76281980&t=28)** I would also encourage current and future data analysts to explore courses on critical thinking and active listening.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/more-resources-for-your-learning-data-analytics-journey?u=76281980&t=35)** These soft skills are essential to being an effective data analyst.
+> **[0:35](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/more-resources-for-your-learning-data-analytics-journey?u=76281980&t=35)** These [[Soft Skills]] are essential to being an effective data analyst.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-data-analytics-1-foundations/more-resources-for-your-learning-data-analytics-journey?u=76281980&t=39)** But beyond all that, I hope you've gained an appreciation for data and can use your new skills to increase your productivity in your day-to-day work.
 >
@@ -5347,7 +5294,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (1), [[Relational Databases]] (1), [[Microsoft Power Query|Power query]] (1), [[Soft Skills]] (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (1), [[Microsoft Power Query|Power query]] (1), [[Soft Skills]] (1)
 > **Speakers:** - [robin] (1)
 
 

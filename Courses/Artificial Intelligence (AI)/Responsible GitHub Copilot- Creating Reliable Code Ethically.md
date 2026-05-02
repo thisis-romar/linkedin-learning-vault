@@ -72,16 +72,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GenAI and creating code responsibly
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/genai-and-creating-code-responsibly?u=76281980)
+#### [GenAI and creating code responsibly](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/genai-and-creating-code-responsibly?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/genai-and-creating-code-responsibly?u=76281980&t=0)** - Welcome to this course on responsible AI with GitHub Copilot.
+> **[0:00](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/genai-and-creating-code-responsibly?u=76281980&t=0)** - Welcome to this course on [[Responsible AI]] with [[GitHub Copilot]].
 >
-> **[0:04](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/genai-and-creating-code-responsibly?u=76281980&t=4)** In this course, I want to make you aware what it means to responsibly use generative AI in general but especially when you're writing code, and that, of course, applies when you do GitHub Copilot.
+> **[0:04](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/genai-and-creating-code-responsibly?u=76281980&t=4)** In this course, I want to make you aware what it means to responsibly use [[Generative AI]] in general but especially when you're writing code, and that, of course, applies when you do GitHub Copilot.
 >
-> **[0:14](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/genai-and-creating-code-responsibly?u=76281980&t=14)** We'll talk about your role as a copilot.
+> **[0:14](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/genai-and-creating-code-responsibly?u=76281980&t=14)** We'll talk about your role as a [[Microsoft Copilot|copilot]].
 >
 > **[0:17](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/genai-and-creating-code-responsibly?u=76281980&t=17)** You're the pilot, and Copilot has a different reason there.
 >
@@ -93,7 +92,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub Copilot]] (4), [[Responsible AI]] (2), [[Generative AI]] (2), [[Microsoft Copilot|Copilot]] (2), data (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (4), [[Responsible AI]] (2), [[Generative AI]] (2), [[Microsoft Copilot|Copilot]] (2)
 > **Tools:** github (4)
 > **CLI Commands:** make (2)
 > **Speakers:** - welcome (1)
@@ -103,12 +102,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Controlling the Skies: Your role as a Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/controlling-the-skies-your-role-as-a-copilot?u=76281980)
+#### [Controlling the Skies: Your role as a Copilot](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/controlling-the-skies-your-role-as-a-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/controlling-the-skies-your-role-as-a-copilot?u=76281980&t=0)** - The name for Copilot was chosen by GitHub, and it fits excellently.
+> **[0:00](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/controlling-the-skies-your-role-as-a-copilot?u=76281980&t=0)** - The name for [[Microsoft Copilot|Copilot]] was chosen by [[GitHub]], and it fits excellently.
 >
 > **[0:05](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/controlling-the-skies-your-role-as-a-copilot?u=76281980&t=5)** It specifies that the AI will act as a copilot, giving you information on the things you ask it for.
 >
@@ -116,7 +114,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/controlling-the-skies-your-role-as-a-copilot?u=76281980&t=16)** You are the one making all the decisions.
 >
-> **[0:19](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/controlling-the-skies-your-role-as-a-copilot?u=76281980&t=19)** GitHub Copilot behaves like a copilot with a distinction that it waits for you to ask it something, whereas sometimes a human copilot starts to give you information or remarks you did not ask it for.
+> **[0:19](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/controlling-the-skies-your-role-as-a-copilot?u=76281980&t=19)** [[GitHub Copilot]] behaves like a copilot with a distinction that it waits for you to ask it something, whereas sometimes a human copilot starts to give you information or remarks you did not ask it for.
 >
 > **[0:33](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/controlling-the-skies-your-role-as-a-copilot?u=76281980&t=33)** I see GitHub Copilot more as a buddy or a co-worker, and you can ask it anything you like.
 >
@@ -144,7 +142,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/controlling-the-skies-your-role-as-a-copilot?u=76281980&t=127)** Copilot uses the context of the files you have open as information to base the answers on.
 >
-> **[2:13](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/controlling-the-skies-your-role-as-a-copilot?u=76281980&t=133)** Based on the question or prompt, it'll determine what files are interesting to send to the model, and it helps if you understand how the service works and how large language models use the information available to them.
+> **[2:13](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/controlling-the-skies-your-role-as-a-copilot?u=76281980&t=133)** Based on the question or prompt, it'll determine what files are interesting to send to the model, and it helps if you understand how the service works and how [[Large Language Models (LLM)|large language models]] use the information available to them.
 >
 > **[2:28](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/controlling-the-skies-your-role-as-a-copilot?u=76281980&t=148)** The response can be improved by adding specific references to the files or parts of those files.
 >
@@ -166,7 +164,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/controlling-the-skies-your-role-as-a-copilot?u=76281980&t=211)** Yes, this is not because it's randomly generated the number, but because this is the number that it has seen reference in their training data the most.
 >
-> **[3:39](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/controlling-the-skies-your-role-as-a-copilot?u=76281980&t=219)** The other example is asking Copilot to count the amount of times the letter R is in the word strawberry.
+> **[3:39](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/controlling-the-skies-your-role-as-a-copilot?u=76281980&t=219)** The other example is asking Copilot to count the amount of times the letter R is in the [[Microsoft Word|word]] strawberry.
 >
 > **[3:46](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/controlling-the-skies-your-role-as-a-copilot?u=76281980&t=226)** Most of the time it will tell you the answer is two, whereas the actual answer is three.
 >
@@ -174,19 +172,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[GitHub Copilot]] (8), data (3), [[Large Language Models (LLM)|Large language models]] (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[GitHub Copilot]] (8), [[Large Language Models (LLM)|Large language models]] (2), [[GitHub]] (1), [[Microsoft Word|Word]] (1)
 > **Tools:** github (9)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - the (1)
 
-#### Keeping things current: Data freshness
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/keeping-things-current-data-freshness?u=76281980)
+#### [Keeping things current: Data freshness](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/keeping-things-current-data-freshness?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/keeping-things-current-data-freshness?u=76281980&t=0)** - One thing all large language models have in common is that they are static in essence.
+> **[0:00](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/keeping-things-current-data-freshness?u=76281980&t=0)** - One thing all [[Large Language Models (LLM)|large language models]] have in common is that they are static in essence.
 >
 > **[0:06](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/keeping-things-current-data-freshness?u=76281980&t=6)** They're trained at a certain point in time and the training freezes the available information into the model.
 >
@@ -200,7 +197,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/keeping-things-current-data-freshness?u=76281980&t=40)** You can see this in practice by looking at the release dates of major versions.
 >
-> **[0:45](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/keeping-things-current-data-freshness?u=76281980&t=45)** Looking at one of the most well-known models, chatGPT, we can see that they released version 3.5 in November, 2022.
+> **[0:45](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/keeping-things-current-data-freshness?u=76281980&t=45)** Looking at one of the most well-known models, [[ChatGPT]], we can see that they released version 3.5 in November, 2022.
 >
 > **[0:54](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/keeping-things-current-data-freshness?u=76281980&t=54)** The next major iteration was released in March, 2023, which was four months later.
 >
@@ -212,15 +209,15 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/keeping-things-current-data-freshness?u=76281980&t=85)** If training the model takes months and new releases are only available twice a year, then the information that was available to the model is almost always at least six months old or older.
 >
-> **[1:38](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/keeping-things-current-data-freshness?u=76281980&t=98)** This becomes visible for engineers using GitHub Copilot when they search for newer versions of their technology stack.
+> **[1:38](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/keeping-things-current-data-freshness?u=76281980&t=98)** This becomes visible for engineers using [[GitHub Copilot]] when they search for newer versions of their technology stack.
 >
-> **[1:45](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/keeping-things-current-data-freshness?u=76281980&t=105)** Asking Copilot questions about the large, about the latest version of node.gs, for example, may give you an answer with a different version than you are expecting.
+> **[1:45](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/keeping-things-current-data-freshness?u=76281980&t=105)** Asking [[Microsoft Copilot|Copilot]] questions about the large, about the latest version of node.gs, for example, may give you an answer with a different version than you are expecting.
 >
 > **[1:56](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/keeping-things-current-data-freshness?u=76281980&t=116)** If that version was released either during or after the training model, it will be different already.
 >
 > **[2:02](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/keeping-things-current-data-freshness?u=76281980&t=122)** In the enterprise version of GitHub copilot, there is specific functionality available to prevent this from happening.
 >
-> **[2:09](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/keeping-things-current-data-freshness?u=76281980&t=129)** Using the at GitHub chat participant, you can instruct copilot to use the Bing search engine to look for the information online.
+> **[2:09](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/keeping-things-current-data-freshness?u=76281980&t=129)** Using the at [[GitHub]] chat participant, you can instruct copilot to use the Bing search engine to look for the information online.
 >
 > **[2:18](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/keeping-things-current-data-freshness?u=76281980&t=138)** The downside is that you have to anticipate this issue with your current prompt and then add this instruction to get the current and correct results back.
 >
@@ -236,7 +233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub Copilot]] (3), data (2), [[ChatGPT]] (2), next (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (3), [[ChatGPT]] (2), [[Microsoft Copilot|Copilot]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[GitHub]] (1)
 > **Tools:** github (4)
 > **Code Identifiers:** chatgpt (2)
 > **Definitions:** means that (1), known as (1)
@@ -245,12 +242,11 @@ created: 2026-05-02
 > **Versions:** version 3 (1)
 > **Speakers:** - one (1)
 
-#### Unravelling the bias: Model prejudices
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/unravelling-the-bias-model-prejudices?u=76281980)
+#### [Unravelling the bias: Model prejudices](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/unravelling-the-bias-model-prejudices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/unravelling-the-bias-model-prejudices?u=76281980&t=0)** - All large language models have a built-in bias.
+> **[0:00](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/unravelling-the-bias-model-prejudices?u=76281980&t=0)** - All [[Large Language Models (LLM)|large language models]] have a built-in bias.
 >
 > **[0:04](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/unravelling-the-bias-model-prejudices?u=76281980&t=4)** Having a bias means that they will show a preference for certain information or certain ways of thinking.
 >
@@ -264,9 +260,9 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/unravelling-the-bias-model-prejudices?u=76281980&t=42)** Even asking for the code to draw a house can have this bias implemented in the generated code.
 >
-> **[0:48](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/unravelling-the-bias-model-prejudices?u=76281980&t=48)** This also means Copilot could potentially respond with results that are harmful, hateful, racist, sexist, or otherwise inappropriate.
+> **[0:48](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/unravelling-the-bias-model-prejudices?u=76281980&t=48)** This also means [[Microsoft Copilot|Copilot]] could potentially respond with results that are harmful, hateful, racist, sexist, or otherwise inappropriate.
 >
-> **[0:59](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/unravelling-the-bias-model-prejudices?u=76281980&t=59)** GitHub of course operates the service with content filtering that helps prevent this from showing up in the results.
+> **[0:59](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/unravelling-the-bias-model-prejudices?u=76281980&t=59)** [[GitHub]] of course operates the service with content filtering that helps prevent this from showing up in the results.
 >
 > **[1:06](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/unravelling-the-bias-model-prejudices?u=76281980&t=66)** Sometimes it will just respond with, "Hey, I can't assist you with that," if it determines your prompt asked for harmful content.
 >
@@ -274,7 +270,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/unravelling-the-bias-model-prejudices?u=76281980&t=77)** The bias in the data could still leak into the information it shows you.
 >
-> **[1:22](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/unravelling-the-bias-model-prejudices?u=76281980&t=82)** Let's talk about places where this might show up when using GitHub Copilot.
+> **[1:22](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/unravelling-the-bias-model-prejudices?u=76281980&t=82)** Let's talk about places where this might show up when using [[GitHub Copilot]].
 >
 > **[1:26](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/unravelling-the-bias-model-prejudices?u=76281980&t=86)** It could for example show up when you ask it to generate test data for your unit tests.
 >
@@ -294,23 +290,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Copilot|Copilot]] (3), [[Large Language Models (LLM)|Large language models]] (2), prompt (2), [[GitHub Copilot]] (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Large Language Models (LLM)|Large language models]] (2), [[GitHub Copilot]] (2), [[GitHub]] (1)
 > **Analogies:** for example (4)
 > **Tools:** github (3)
 > **Definitions:** means that (1), is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - all (1)
 
-#### Crafting excellence: Development best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/crafting-excellence-development-best-practices?u=76281980)
+#### [Crafting excellence: Development best practices](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/crafting-excellence-development-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/crafting-excellence-development-best-practices?u=76281980&t=0)** - By now, I have said this a couple of times, but I cannot stress it enough.
 >
-> **[0:04](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/crafting-excellence-development-best-practices?u=76281980&t=4)** While using generative AI like GitHub Copilot, you are in a driver's seat.
+> **[0:04](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/crafting-excellence-development-best-practices?u=76281980&t=4)** While using [[Generative AI]] like [[GitHub Copilot]], you are in a driver's seat.
 >
-> **[0:10](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/crafting-excellence-development-best-practices?u=76281980&t=10)** You provide direction to Copilot on what you want to achieve, and you give it hints on how you want to achieve that.
+> **[0:10](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/crafting-excellence-development-best-practices?u=76281980&t=10)** You provide direction to [[Microsoft Copilot|Copilot]] on what you want to achieve, and you give it hints on how you want to achieve that.
 >
 > **[0:18](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/crafting-excellence-development-best-practices?u=76281980&t=18)** Then you decide what you do with the suggestions that Copilot gives you.
 >
@@ -342,21 +337,21 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/crafting-excellence-development-best-practices?u=76281980&t=120)** Someone else in your team still needs to review the pull request and validate that things that have been created within your team's way of working.
 >
-> **[2:10](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/crafting-excellence-development-best-practices?u=76281980&t=130)** For me, this is a standard practice for development these days, and it incorporates a lot of what we have seen in the DevOps movement.
+> **[2:10](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/crafting-excellence-development-best-practices?u=76281980&t=130)** For me, this is a standard practice for development these days, and it incorporates a lot of what we have seen in the [[DevOps]] movement.
 >
 > **[2:18](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/crafting-excellence-development-best-practices?u=76281980&t=138)** You are the engineer creating this new code with some help of Copilot, of course.
 >
 > **[2:23](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/crafting-excellence-development-best-practices?u=76281980&t=143)** And you need to show your craft and expertise with the code that you deliver.
 >
-> **[2:28](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/crafting-excellence-development-best-practices?u=76281980&t=148)** Take some pride in delivering a quality product, and this of course goes for everything you create, whether it is code, infrastructure as code, or CI/CD pipelines that push your code into production.
+> **[2:28](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/crafting-excellence-development-best-practices?u=76281980&t=148)** Take some pride in delivering a quality product, and this of course goes for everything you create, whether it is code, [[Infrastructure as code (IaC)|infrastructure as code]], or CI/CD pipelines that push your code into production.
 >
-> **[2:41](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/crafting-excellence-development-best-practices?u=76281980&t=161)** You still need to think about edge cases, input validation, and take security measures to prevent things like SQL injection attacks.
+> **[2:41](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/crafting-excellence-development-best-practices?u=76281980&t=161)** You still need to think about edge cases, input validation, and take security measures to prevent things like [[SQL]] injection attacks.
 >
 > **[2:49](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/crafting-excellence-development-best-practices?u=76281980&t=169)** Copilot can of course help with that, but you need to start asking for that and see how you can improve your code in your way of working using GitHub Copilot.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[GitHub Copilot]] (3), next (2), [[Generative AI]] (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[GitHub Copilot]] (3), [[Generative AI]] (1), [[DevOps]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
 > **Tools:** github (3)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** cd (1)
@@ -365,22 +360,21 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - by (1)
 
-#### Trust but verify: Validate everything
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/trust-but-verify-validate-everything?u=76281980)
+#### [Trust but verify: Validate everything](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/trust-but-verify-validate-everything?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/trust-but-verify-validate-everything?u=76281980&t=0)** - We have seen, in previous videos, that large language models are, in essence, just a text predictor.
+> **[0:00](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/trust-but-verify-validate-everything?u=76281980&t=0)** - We have seen, in previous videos, that [[Large Language Models (LLM)|large language models]] are, in essence, just a text predictor.
 >
-> **[0:06](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/trust-but-verify-validate-everything?u=76281980&t=6)** Based on the data the model was trained on, it will choose the most likely word to continue the given sentence with.
+> **[0:06](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/trust-but-verify-validate-everything?u=76281980&t=6)** Based on the data the model was trained on, it will choose the most likely [[Microsoft Word|word]] to continue the given sentence with.
 >
 > **[0:14](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/trust-but-verify-validate-everything?u=76281980&t=14)** Based on the instructions given with your prompt, it might return something that does not fit your needs at all, or it might go off in a different direction of the things you actually need.
 >
-> **[0:26](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/trust-but-verify-validate-everything?u=76281980&t=26)** GitHub Copilot has a very good system prompt with instructions on what you want to accomplish as a user.
+> **[0:26](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/trust-but-verify-validate-everything?u=76281980&t=26)** [[GitHub Copilot]] has a very good system prompt with instructions on what you want to accomplish as a user.
 >
 > **[0:33](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/trust-but-verify-validate-everything?u=76281980&t=33)** And we know that large language models work exceptionally well with code, as code is very structured text.
 >
-> **[0:41](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/trust-but-verify-validate-everything?u=76281980&t=41)** Often the results are so good it is very easy to fall into a trap where you start to blindly accept whatever Copilot suggests.
+> **[0:41](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/trust-but-verify-validate-everything?u=76281980&t=41)** Often the results are so good it is very easy to fall into a trap where you start to blindly accept whatever [[Microsoft Copilot|Copilot]] suggests.
 >
 > **[0:51](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/trust-but-verify-validate-everything?u=76281980&t=51)** As we have seen the issue with data freshness and biases in the previous videos, it is important to remember that large language models are nondeterministic.
 >
@@ -398,18 +392,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (4), data (2), prompt (2), [[Microsoft Word|Word]] (1), [[GitHub Copilot]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (4), [[Microsoft Word|Word]] (1), [[GitHub Copilot]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Tools:** github (1)
 > **Speakers:** - we (1)
 
-#### Bulletproof your code: Unit and regression testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/bulletproof-your-code-unit-and-regression-testing?u=76281980)
+#### [Bulletproof your code: Unit and regression testing](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/bulletproof-your-code-unit-and-regression-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/bulletproof-your-code-unit-and-regression-testing?u=76281980&t=0)** - Writing good tests is almost an art form.
 >
-> **[0:04](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/bulletproof-your-code-unit-and-regression-testing?u=76281980&t=4)** In my opinion, a test should be able to run in isolation from the rest of your environment.
+> **[0:04](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/bulletproof-your-code-unit-and-regression-testing?u=76281980&t=4)** In my opinion, a test should be able to run in isolation from the [[Representational State Transfer (REST)|rest]] of your environment.
 >
 > **[0:10](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/bulletproof-your-code-unit-and-regression-testing?u=76281980&t=10)** And test a single thing and nothing more.
 >
@@ -429,7 +422,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/bulletproof-your-code-unit-and-regression-testing?u=76281980&t=76)** Look for example, at this simple calculator code that has a method that adds two integers together, you can add this test to test its normal mode of operation by adding two numbers together.
 >
-> **[1:29](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/bulletproof-your-code-unit-and-regression-testing?u=76281980&t=89)** Copilot can now help you find some edge cases that you want to make sure that your implementation can handle correctly as well.
+> **[1:29](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/bulletproof-your-code-unit-and-regression-testing?u=76281980&t=89)** [[Microsoft Copilot|Copilot]] can now help you find some edge cases that you want to make sure that your implementation can handle correctly as well.
 >
 > **[1:36](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/bulletproof-your-code-unit-and-regression-testing?u=76281980&t=96)** Or for example, gracefully handle any exceptions that might come up.
 >
@@ -461,31 +454,30 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (10), business (2), api (2), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (10), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (3), just like (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** api (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - writing (1)
 
-#### Guarding your gates: Security testing essentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/guarding-your-gates-security-testing-essentials?u=76281980)
+#### [Guarding your gates: Security testing essentials](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/guarding-your-gates-security-testing-essentials?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/guarding-your-gates-security-testing-essentials?u=76281980&t=0)** - Now that we can create a lot more code with GitHub copilot, testing on all sides becomes more important than ever, with unit testing, integration testing, now you can capture the expectations you have for your code and validate that there are no regression issues, things that used to work, and now no longer work anymore.
+> **[0:00](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/guarding-your-gates-security-testing-essentials?u=76281980&t=0)** - Now that we can create a lot more code with [[GitHub Copilot]], testing on all sides becomes more important than ever, with [[Unit Testing]], [[Integration Testing]], now you can capture the expectations you have for your code and validate that there are no regression issues, things that used to work, and now no longer work anymore.
 >
-> **[0:20](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/guarding-your-gates-security-testing-essentials?u=76281980&t=20)** One of the next steps is adding common development practices through your development process, and for example, adding continuous integration and continuous deployment practices from the DevOps world into your project.
+> **[0:20](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/guarding-your-gates-security-testing-essentials?u=76281980&t=20)** One of the next steps is adding common development practices through your development process, and for example, adding [[Continuous Integration (CI)|continuous integration]] and continuous deployment practices from the [[DevOps]] world into your project.
 >
 > **[0:33](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/guarding-your-gates-security-testing-essentials?u=76281980&t=33)** Adding those things will give you even more confidence in your application.
 >
-> **[0:37](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/guarding-your-gates-security-testing-essentials?u=76281980&t=37)** When you have the project in good order, you can also start adding security testing into the mix.
+> **[0:37](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/guarding-your-gates-security-testing-essentials?u=76281980&t=37)** When you have the project in good order, you can also start adding [[Security Testing]] into the mix.
 >
-> **[0:42](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/guarding-your-gates-security-testing-essentials?u=76281980&t=42)** GitHub has filters enabled on everything that goes into GitHub copilot and checks the results that it generates as well.
+> **[0:42](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/guarding-your-gates-security-testing-essentials?u=76281980&t=42)** [[GitHub]] has filters enabled on everything that goes into GitHub copilot and checks the results that it generates as well.
 >
 > **[0:50](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/guarding-your-gates-security-testing-essentials?u=76281980&t=50)** You might already have spotted the warning inside of GitHub copilot chat that tells you about the security issues in the code that was produced.
 >
-> **[0:59](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/guarding-your-gates-security-testing-essentials?u=76281980&t=59)** Copilot watches out for things like injection attacks and hard-coded secrets in the results it will show you as well.
+> **[0:59](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/guarding-your-gates-security-testing-essentials?u=76281980&t=59)** [[Microsoft Copilot|Copilot]] watches out for things like injection attacks and hard-coded secrets in the results it will show you as well.
 >
 > **[1:06](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/guarding-your-gates-security-testing-essentials?u=76281980&t=66)** With that, you should also validate all the code that is created by you and thus also that is created with using GI copilot.
 >
@@ -495,7 +487,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/guarding-your-gates-security-testing-essentials?u=76281980&t=82)** In the chat, you ask for ways to run security checks on your project, and if you run inside of a container, ask how people can inject extra data or binaries into your runtime environment.
 >
-> **[1:34](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/guarding-your-gates-security-testing-essentials?u=76281980&t=94)** Ask copilot to explain the dependency management and how you can prevent supply chain attacks from happening.
+> **[1:34](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/guarding-your-gates-security-testing-essentials?u=76281980&t=94)** Ask copilot to explain the [[Dependency Management]] and how you can prevent supply chain attacks from happening.
 >
 > **[1:40](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/guarding-your-gates-security-testing-essentials?u=76281980&t=100)** Copilot will not magically fix all these issues for you, but it can help you a lot with learning in different ways to prevent this, and it can help you create the scripts that you can embed into your process as well.
 >
@@ -505,7 +497,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/guarding-your-gates-security-testing-essentials?u=76281980&t=127)** You have the professional skills to know about the security context for your project.
 >
-> **[2:12](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/guarding-your-gates-security-testing-essentials?u=76281980&t=132)** If it is a rest API ask about the OBO top 10 for web APIs.
+> **[2:12](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/guarding-your-gates-security-testing-essentials?u=76281980&t=132)** If it is a [[Representational State Transfer (REST)|rest]] API ask about the OBO top 10 for web APIs.
 >
 > **[2:17](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/guarding-your-gates-security-testing-essentials?u=76281980&t=137)** If you're running an application from disc, ask about file tampering and how to prevent that from happening.
 >
@@ -513,7 +505,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), [[Microsoft Copilot|Copilot]] (7), [[GitHub Copilot]] (3), application (2), [[Unit Testing]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[GitHub Copilot]] (3), [[Unit Testing]] (1), [[Integration Testing]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Tools:** github (4)
 > **Env Vars:** api (1), obo (1)
 > **Warnings:** warning (1), keep in mind (1)
@@ -527,12 +519,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/next-steps?u=76281980&t=0)** - In this course, Responsible AI with GitHub Copilot.
+> **[0:00](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/next-steps?u=76281980&t=0)** - In this course, [[Responsible AI]] with [[GitHub Copilot]].
 >
 > **[0:03](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/next-steps?u=76281980&t=3)** We talked about being aware of what responsible usage of GitHub Copilot means.
 >
@@ -550,11 +541,11 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/next-steps?u=76281980&t=47)** Be aware of the GitHub Copilot.
 >
-> **[0:50](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/next-steps?u=76281980&t=50)** The models are helping you along in your coding, but you must validate everything that it produces, just like you would do with a normal coworker, add some unit testing there to make sure your code still does what it you think it would do, add regression testing and security on testing on top of that as well, we're now constantly generating more code using generative AI, so it becomes our responsibility to get more out of that as well, and making sure that we're not blindly trusting whatever it gives us for a suggestion, you need to validate that this stuff actually works, works correctly, fits into your requirements, and all the boundaries that you have there, and take some pride and ownership of the code that you're producing.
+> **[0:50](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/next-steps?u=76281980&t=50)** The models are helping you along in your coding, but you must validate everything that it produces, just like you would do with a normal coworker, add some [[Unit Testing]] there to make sure your code still does what it you think it would do, add regression testing and security on testing on top of that as well, we're now constantly generating more code using [[Generative AI]], so it becomes our responsibility to get more out of that as well, and making sure that we're not blindly trusting whatever it gives us for a suggestion, you need to validate that this stuff actually works, works correctly, fits into your requirements, and all the boundaries that you have there, and take some pride and ownership of the code that you're producing.
 >
-> **[1:31](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/next-steps?u=76281980&t=91)** Copilot is only there to help you produce that code faster, and we're only touching the tip of the iceberg of what generative AI can do.
+> **[1:31](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/next-steps?u=76281980&t=91)** [[Microsoft Copilot|Copilot]] is only there to help you produce that code faster, and we're only touching the tip of the iceberg of what generative AI can do.
 >
-> **[1:39](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/next-steps?u=76281980&t=99)** If you have extra questions or thoughts that you want to share, then please reach out to me through LinkedIn.
+> **[1:39](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/next-steps?u=76281980&t=99)** If you have extra questions or thoughts that you want to share, then please reach out to me through [[LinkedIn]].
 >
 > **[1:44](https://www.linkedin.com/learning/responsible-github-copilot-creating-reliable-code-ethically-24981582/next-steps?u=76281980&t=104)** I'm happy to help you further.
 >
@@ -562,7 +553,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub Copilot]] (4), [[Generative AI]] (2), [[Responsible AI]] (1), data (1), [[Unit Testing]] (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (4), [[Generative AI]] (2), [[Responsible AI]] (1), [[Unit Testing]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Tools:** github (4)
 > **Cross-References:** we talked about (2)
 > **Analogies:** for example (1), just like (1)

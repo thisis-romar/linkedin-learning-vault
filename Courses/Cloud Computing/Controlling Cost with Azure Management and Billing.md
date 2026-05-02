@@ -74,12 +74,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Control costs with Azure management and billing
-> [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/control-costs-with-azure-management-and-billing?u=76281980)
+#### [Control costs with Azure management and billing](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/control-costs-with-azure-management-and-billing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/control-costs-with-azure-management-and-billing?u=76281980&t=0)** - [James] Do you want to reduce the cost of running your services in Microsoft Azure?
+> **[0:00](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/control-costs-with-azure-management-and-billing?u=76281980&t=0)** - [James] Do you want to reduce the cost of running your services in [[Microsoft Azure]]?
 >
 > **[0:04](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/control-costs-with-azure-management-and-billing?u=76281980&t=4)** Do you sometimes worry that your cloud costs are out of control?
 >
@@ -89,15 +88,15 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/control-costs-with-azure-management-and-billing?u=76281980&t=17)** In this course, I'll be showing you some simple techniques that you can adopt to reduce your cloud spend.
 >
-> **[0:23](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/control-costs-with-azure-management-and-billing?u=76281980&t=23)** We'll also be exploring the tools and features of Azure specifically designed to help you budget and plan for effective cost management.
+> **[0:23](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/control-costs-with-azure-management-and-billing?u=76281980&t=23)** We'll also be exploring the tools and features of [[Microsoft Azure|Azure]] specifically designed to help you budget and plan for effective [[Cost Management]].
 >
-> **[0:32](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/control-costs-with-azure-management-and-billing?u=76281980&t=32)** This course will give you the knowledge and tools that you need to effectively manage the cost of your Azure products and services.
+> **[0:32](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/control-costs-with-azure-management-and-billing?u=76281980&t=32)** This course will give you the knowledge and tools that you need to effectively manage the cost of your Azure [[Microsoft Products|products]] and services.
 >
 > **[0:39](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/control-costs-with-azure-management-and-billing?u=76281980&t=39)** Let's jump right in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure]] (2), cloud (2), [[Microsoft Azure|Azure]] (2), [[Cost Management]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure]] (2), [[Microsoft Azure|Azure]] (2), [[Cost Management]] (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - [james] (1)
 
 
@@ -105,12 +104,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing the scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-the-scenario?u=76281980)
+#### [Introducing the scenario](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-the-scenario?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-the-scenario?u=76281980&t=0)** - [Instructor] Okay, so let's start things off by looking at cost management.
+> **[0:00](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-the-scenario?u=76281980&t=0)** - [Instructor] Okay, so let's start things off by looking at [[Cost Management]].
 >
 > **[0:04](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-the-scenario?u=76281980&t=4)** Now I guess you can imagine why cost management is important.
 >
@@ -120,7 +118,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-the-scenario?u=76281980&t=21)** Let's take a look.
 >
-> **[0:22](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-the-scenario?u=76281980&t=22)** Now, if you've seen any of my other Azure courses, then you'll already be familiar with H+ Sport.
+> **[0:22](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-the-scenario?u=76281980&t=22)** Now, if you've seen any of my other [[Microsoft Azure|Azure]] courses, then you'll already be familiar with H+ Sport.
 >
 > **[0:28](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-the-scenario?u=76281980&t=28)** We followed them from the early stages of their Azure migration project.
 >
@@ -144,7 +142,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-the-scenario?u=76281980&t=86)** A common reason for high costs is that you simply have resources deployed that just aren't used anymore.
 >
-> **[1:33](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-the-scenario?u=76281980&t=93)** Virtual machines and storage services like SQL Azure typically incur charges regardless of whether they're used or not.
+> **[1:33](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-the-scenario?u=76281980&t=93)** [[Virtual Machines]] and storage services like [[SQL]] Azure typically incur charges regardless of whether they're used or not.
 >
 > **[1:41](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-the-scenario?u=76281980&t=101)** Overprovisioned services are also a common problem.
 >
@@ -154,26 +152,25 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-the-scenario?u=76281980&t=114)** Now these are just two examples of things that can increase your costs, but there are more.
 >
-> **[1:59](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-the-scenario?u=76281980&t=119)** Thankfully, Microsoft has provided a range of features and services within Azure that can help you mitigate and manage these issues.
+> **[1:59](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-the-scenario?u=76281980&t=119)** Thankfully, [[Microsoft]] has provided a range of features and services within Azure that can help you mitigate and manage these issues.
 >
 > **[2:06](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-the-scenario?u=76281980&t=126)** So let's take a look at those next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Cost Management]] (2), cloud (2), business (2), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Cost Management]] (2), [[Virtual Machines]] (1), [[SQL]] (1), [[Microsoft]] (1)
 > **Env Vars:** cio (1), sql (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding cost management and billing
-> [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-cost-management-and-billing?u=76281980)
+#### [Understanding cost management and billing](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-cost-management-and-billing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-cost-management-and-billing?u=76281980&t=0)** - [Instructor] Okay, so let's dive straight in and explore the tools available to us within Azure that we can use to help us manage the costs of our cloud infrastructure.
+> **[0:00](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-cost-management-and-billing?u=76281980&t=0)** - [Instructor] Okay, so let's dive straight in and explore the tools available to us within [[Microsoft Azure|Azure]] that we can use to help us manage the costs of our [[Cloud Infrastructure]].
 >
-> **[0:09](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-cost-management-and-billing?u=76281980&t=9)** Azure Cost Management and Billing is a service provided within Microsoft Azure that helps users to manage their cloud computing costs by providing visibility and control over their Azure spending.
+> **[0:09](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-cost-management-and-billing?u=76281980&t=9)** Azure [[Cost Management]] and Billing is a service provided within [[Microsoft Azure]] that helps users to manage their [[Cloud Computing]] costs by providing visibility and control over their Azure spending.
 >
 > **[0:22](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-cost-management-and-billing?u=76281980&t=22)** It allows users to monitor, allocate, and optimize their usage and costs by providing insights into their spending, enabling them to identify and eliminate waste and facilitating cost planning and budgeting.
 >
@@ -193,7 +190,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-cost-management-and-billing?u=76281980&t=73)** You can apply a similar thought process to your resources in the cloud, and that's where Cost Management and Billing comes in.
 >
-> **[1:20](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-cost-management-and-billing?u=76281980&t=80)** With Azure products and services, you typically only pay for what you use.
+> **[1:20](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-cost-management-and-billing?u=76281980&t=80)** With Azure [[Microsoft Products|products]] and services, you typically only pay for what you use.
 >
 > **[1:24](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-cost-management-and-billing?u=76281980&t=84)** So as you create and use Azure resources, you're starting to incur costs.
 >
@@ -217,27 +214,26 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-cost-management-and-billing?u=76281980&t=151)** Setting spending limits and budgets helps us to manage our spend, and we can even use Cost Management and Billing to help identify opportunities to reduce costs.
 >
-> **[2:42](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-cost-management-and-billing?u=76281980&t=162)** Now we're going to explore all of these options and features throughout the rest of this course.
+> **[2:42](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-cost-management-and-billing?u=76281980&t=162)** Now we're going to explore all of these options and features throughout the [[Representational State Transfer (REST)|rest]] of this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Cost Management]] (5), data (5), cloud (3), [[Cloud Infrastructure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Cost Management]] (5), [[Cloud Computing]] (2), [[Cloud Infrastructure]] (1), [[Microsoft Azure]] (1)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The cost management methodology
-> [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/the-cost-management-methodology?u=76281980)
+#### [The cost management methodology](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/the-cost-management-methodology?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/the-cost-management-methodology?u=76281980&t=0)** - [Instructor] So now I'd like to share with you a simple methodology which you can use to optimize the costs of your cloud infrastructure.
+> **[0:00](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/the-cost-management-methodology?u=76281980&t=0)** - [Instructor] So now I'd like to share with you a simple methodology which you can use to optimize the costs of your [[Cloud Infrastructure]].
 >
 > **[0:08](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/the-cost-management-methodology?u=76281980&t=8)** In fact, as you'll see, you can use this to help manage costs in all parts of your organization.
 >
-> **[0:13](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/the-cost-management-methodology?u=76281980&t=13)** Now, the first thing to understand is that cost management is an organizational problem and it isn't unique to cloud computing.
+> **[0:13](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/the-cost-management-methodology?u=76281980&t=13)** Now, the first thing to understand is that [[Cost Management]] is an organizational problem and it isn't unique to [[Cloud Computing]].
 >
 > **[0:21](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/the-cost-management-methodology?u=76281980&t=21)** You will have to manage costs across all areas of your business.
 >
@@ -253,9 +249,9 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/the-cost-management-methodology?u=76281980&t=52)** You also need to be prepared with the proper tools for success.
 >
-> **[0:56](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/the-cost-management-methodology?u=76281980&t=56)** In our case, that's the Azure cost management and billing tools that we'll find in the Azure portal.
+> **[0:56](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/the-cost-management-methodology?u=76281980&t=56)** In our case, that's the [[Microsoft Azure|Azure]] cost management and billing tools that we'll find in the Azure portal.
 >
-> **[1:02](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/the-cost-management-methodology?u=76281980&t=62)** Accountability is also important.
+> **[1:02](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/the-cost-management-methodology?u=76281980&t=62)** [[Accountability]] is also important.
 >
 > **[1:04](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/the-cost-management-methodology?u=76281980&t=64)** If you have a plan to manage your costs, then it's important that you or someone else in your organization is accountable for this action and takes responsibility for it.
 >
@@ -291,7 +287,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/the-cost-management-methodology?u=76281980&t=170)** What usage patterns do I expect from my resources?
 >
-> **[2:53](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/the-cost-management-methodology?u=76281980&t=173)** The answer to these questions will help us select the right products and services within Azure.
+> **[2:53](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/the-cost-management-methodology?u=76281980&t=173)** The answer to these questions will help us select the right [[Microsoft Products|products]] and services within Azure.
 >
 > **[2:58](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/the-cost-management-methodology?u=76281980&t=178)** We also need visibility.
 >
@@ -311,7 +307,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Cost Management]] (6), business (6), cloud (5), teams (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Cost Management]] (6), [[Cloud Infrastructure]] (1), [[Cloud Computing]] (1), [[Accountability]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is an  (3)
 > **Tools:** azure portal (1)
@@ -323,8 +319,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing budgets
-> [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-budgets?u=76281980)
+#### [Introducing budgets](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-budgets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -334,7 +329,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-budgets?u=76281980&t=10)** Not only that, but they allow us to perform actions and trigger alerts based on any conditions that we define.
 >
-> **[0:17](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-budgets?u=76281980&t=17)** In Azure Cost Management and Billing, a budget is a way to track and manage your cloud spending by setting cost limits or thresholds for your resources.
+> **[0:17](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-budgets?u=76281980&t=17)** In [[Microsoft Azure|Azure]] [[Cost Management]] and Billing, a budget is a way to track and manage your cloud spending by setting cost limits or thresholds for your resources.
 >
 > **[0:27](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-budgets?u=76281980&t=27)** You can use budgets to set cost limits for specific services, resource groups, or subscriptions and receive email alerts when your spending approaches or exceeds those limits.
 >
@@ -394,23 +389,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), cloud (2), [[Cost Management]] (1), next (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Cost Management]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a budget
-> [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/creating-a-budget?u=76281980)
+#### [Creating a budget](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/creating-a-budget?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/creating-a-budget?u=76281980&t=0)** - [Instructor] So, in this demo, we are going to walk through the steps involved in creating a budget.
 >
-> **[0:05](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/creating-a-budget?u=76281980&t=5)** If you want to follow along, then you're going to need an Azure subscription, and you can do that by heading to [azure.com](https://azure.com) and signing up for an account.
+> **[0:05](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/creating-a-budget?u=76281980&t=5)** If you want to follow along, then you're going to need an [[Microsoft Azure|Azure]] subscription, and you can do that by heading to [azure.com](https://azure.com) and signing up for an account.
 >
 > **[0:14](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/creating-a-budget?u=76281980&t=14)** Okay, so let's switch over to the Azure portal and create our first budget.
 >
-> **[0:20](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/creating-a-budget?u=76281980&t=20)** So, once we're signed into the Azure portal, we need to head to "Cost Management and Billing."
+> **[0:20](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/creating-a-budget?u=76281980&t=20)** So, once we're signed into the Azure portal, we need to head to "[[Cost Management]] and Billing."
 >
 > **[0:25](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/creating-a-budget?u=76281980&t=25)** Now, the best way to do that is to just search for it here in the search bar.
 >
@@ -464,15 +458,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Cost Management]] (4), next (4), [[Search]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Cost Management]] (4)
 > **UI Navigation:** select the (3), in the toolbar (1)
 > **CLI Commands:** make (2)
 > **Tools:** azure portal (2)
 > **URLs:** [azure.com](https://azure.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automating actions with budgets
-> [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/automating-actions-with-budgets?u=76281980)
+#### [Automating actions with budgets](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/automating-actions-with-budgets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -480,7 +473,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/automating-actions-with-budgets?u=76281980&t=3)** Let's look now at how we can trigger automatic actions.
 >
-> **[0:07](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/automating-actions-with-budgets?u=76281980&t=7)** Log into your Azure portal and go to the cost management and billing page.
+> **[0:07](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/automating-actions-with-budgets?u=76281980&t=7)** Log into your [[Microsoft Azure|Azure]] portal and go to the [[Cost Management]] and billing page.
 >
 > **[0:11](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/automating-actions-with-budgets?u=76281980&t=11)** Click the budget option on the left hand menu and then select the budget that we created earlier.
 >
@@ -538,7 +531,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/automating-actions-with-budgets?u=76281980&t=139)** So let's make sure we're clear on what we mean by actions by running through a common scenario.
 >
-> **[2:25](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/automating-actions-with-budgets?u=76281980&t=145)** Let's say we've created a budget to keep track of costs of the virtual machines in one of our subscriptions and let's imagine that we've set this budget at a hundred dollars.
+> **[2:25](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/automating-actions-with-budgets?u=76281980&t=145)** Let's say we've created a budget to keep track of costs of the [[Virtual Machines]] in one of our subscriptions and let's imagine that we've set this budget at a hundred dollars.
 >
 > **[2:35](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/automating-actions-with-budgets?u=76281980&t=155)** Now we can configure this budget to trigger an action group when certain conditions are met.
 >
@@ -560,7 +553,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), next (3), hit (2), [[Virtual Machines]] (2), [[Automation]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Virtual Machines]] (2), [[Cost Management]] (1)
 > **UI Navigation:** select the (5), dropdown (2), go to (1), in the toolbar (1), checkbox (1)
 > **Analogies:** such as (2), imagine (1)
 > **Prerequisites:** configure (2), set up (1)
@@ -569,14 +562,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Tools:** azure portal (1)
 
-#### Cost management best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/cost-management-best-practices?u=76281980)
+#### [Cost management best practices](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/cost-management-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/cost-management-best-practices?u=76281980&t=0)** - [Instructor] We've now seen how we can create budgets and use them to perform actions.
 >
-> **[0:05](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/cost-management-best-practices?u=76281980&t=5)** Now is probably a good time to look at some best practice guidance that you can use to ensure that you get off to a good start on your cost management journey.
+> **[0:05](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/cost-management-best-practices?u=76281980&t=5)** Now is probably a good time to look at some best practice guidance that you can use to ensure that you get off to a good start on your [[Cost Management]] journey.
 >
 > **[0:14](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/cost-management-best-practices?u=76281980&t=14)** Cost management is a big area, so I really want to focus here on a few key things that you really need to focus on.
 >
@@ -584,9 +576,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/cost-management-best-practices?u=76281980&t=24)** You need to make sure that when you're planning your infrastructure and services, that you consider any cost implications.
 >
-> **[0:32](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/cost-management-best-practices?u=76281980&t=32)** Is the Azure subscription offer correct for your solution?
+> **[0:32](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/cost-management-best-practices?u=76281980&t=32)** Is the [[Microsoft Azure|Azure]] subscription offer correct for your solution?
 >
-> **[0:35](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/cost-management-best-practices?u=76281980&t=35)** There are different offers available, ranging from pay-as-you-go through to enterprise agreements, or offers available through Microsoft partners.
+> **[0:35](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/cost-management-best-practices?u=76281980&t=35)** There are different offers available, ranging from pay-as-you-go through to enterprise agreements, or offers available through [[Microsoft]] partners.
 >
 > **[0:43](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/cost-management-best-practices?u=76281980&t=43)** The offer you have can have a big impact on the price you pay for resources.
 >
@@ -610,11 +602,11 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/cost-management-best-practices?u=76281980&t=116)** Now not all resources fit into a neat bucket, and it's common to have shared resources that are used by different teams or cost centers.
 >
-> **[2:04](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/cost-management-best-practices?u=76281980&t=124)** Or maybe get used across multiple subscriptions, perhaps Active Directory or an email service would fall into this category.
+> **[2:04](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/cost-management-best-practices?u=76281980&t=124)** Or maybe get used across multiple subscriptions, perhaps [[Active Directory]] or an email service would fall into this category.
 >
 > **[2:12](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/cost-management-best-practices?u=76281980&t=132)** You can tag these resources and mark them as shared, which helps you identify these on the invoice and apportion the costs appropriately.
 >
-> **[2:20](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/cost-management-best-practices?u=76281980&t=140)** Finally, make sure you size your virtual machines correctly.
+> **[2:20](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/cost-management-best-practices?u=76281980&t=140)** Finally, make sure you size your [[Virtual Machines]] correctly.
 >
 > **[2:24](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/cost-management-best-practices?u=76281980&t=144)** This is where most people go wrong and end up incurring significant additional costs.
 >
@@ -622,7 +614,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Cost Management]] (2), [[Virtual Machines]] (2), [[Microsoft]] (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Cost Management]] (2), [[Virtual Machines]] (2), [[Microsoft]] (1), [[Active Directory]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (2)
 > **Best Practices:** best practice (1)
@@ -633,12 +625,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing billing
-> [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-billing?u=76281980)
+#### [Introducing billing](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-billing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-billing?u=76281980&t=0)** - [Instructor] Let's look now at how you can analyze your costs and report over the cost management data within Azure.
+> **[0:00](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-billing?u=76281980&t=0)** - [Instructor] Let's look now at how you can analyze your costs and report over the [[Cost Management]] data within [[Microsoft Azure|Azure]].
 >
 > **[0:07](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-billing?u=76281980&t=7)** Ultimately, when you receive an invoice at the end of the month, somebody needs to pay that.
 >
@@ -652,9 +643,9 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-billing?u=76281980&t=48)** You use this billing account to manage invoices, make payments, and track your spending.
 >
-> **[0:54](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-billing?u=76281980&t=54)** You might have access to multiple billing accounts, depending on how your company manages their Azure Cloud infrastructure.
+> **[0:54](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-billing?u=76281980&t=54)** You might have access to multiple billing accounts, depending on how your company manages their Azure [[Cloud Infrastructure]].
 >
-> **[1:01](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-billing?u=76281980&t=61)** Perhaps you have a personal subscription, as well as access to Azure through your organization's enterprise agreements, Microsoft Customer Agreement, or Microsoft Partner Agreement.
+> **[1:01](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-billing?u=76281980&t=61)** Perhaps you have a personal subscription, as well as access to Azure through your organization's enterprise agreements, [[Microsoft]] Customer Agreement, or Microsoft Partner Agreement.
 >
 > **[1:12](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-billing?u=76281980&t=72)** For each of these scenarios, you would have a separate billing account.
 >
@@ -708,12 +699,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[Microsoft]] (4), teams (2), [[Cost Management]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[Microsoft]] (4), [[Cost Management]] (1), [[Cloud Infrastructure]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Downloading billing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/downloading-billing-data?u=76281980)
+#### [Downloading billing data](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/downloading-billing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -721,7 +711,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/downloading-billing-data?u=76281980&t=6)** When it comes to billing data, there are two things that you have access to.
 >
-> **[0:11](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/downloading-billing-data?u=76281980&t=11)** Firstly, you have your Azure invoice.
+> **[0:11](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/downloading-billing-data?u=76281980&t=11)** Firstly, you have your [[Microsoft Azure|Azure]] invoice.
 >
 > **[0:13](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/downloading-billing-data?u=76281980&t=13)** That's key for your own financial records.
 >
@@ -733,7 +723,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/downloading-billing-data?u=76281980&t=40)** And in this demo, I'm going to show you where you can get these files.
 >
-> **[0:44](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/downloading-billing-data?u=76281980&t=44)** So here we are in the Azure Portal in the Cost Management + Billing section.
+> **[0:44](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/downloading-billing-data?u=76281980&t=44)** So here we are in the Azure Portal in the [[Cost Management]] + Billing section.
 >
 > **[0:48](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/downloading-billing-data?u=76281980&t=48)** On the left hand side, under Billing, select Invoices.
 >
@@ -745,7 +735,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/downloading-billing-data?u=76281980&t=81)** So looking at these invoices isn't going to be that helpful to us.
 >
-> **[1:25](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/downloading-billing-data?u=76281980&t=85)** Now, fortunately I can show you some sample invoices, helpfully provided by Microsoft, and we'll look at those shortly.
+> **[1:25](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/downloading-billing-data?u=76281980&t=85)** Now, fortunately I can show you some sample invoices, helpfully provided by [[Microsoft]], and we'll look at those shortly.
 >
 > **[1:33](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/downloading-billing-data?u=76281980&t=93)** Okay, so this list shows all of the invoices and we can filter this list by subscription, status, or dates.
 >
@@ -775,7 +765,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), data (3), next (2), [[Cost Management]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Cost Management]] (1), [[Microsoft]] (1)
 > **UI Navigation:** in the toolbar (2), select the (1)
 > **Env Vars:** csv (2)
 > **Exercise Files:** download the (2)
@@ -784,8 +774,7 @@ created: 2026-05-02
 > **Tools:** azure portal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding your billing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-your-billing-data?u=76281980)
+#### [Understanding your billing data](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-your-billing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -795,7 +784,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-your-billing-data?u=76281980&t=12)** Let's start first by looking at the invoice.
 >
-> **[0:15](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-your-billing-data?u=76281980&t=15)** Now, this is a sample invoice provided by Microsoft.
+> **[0:15](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-your-billing-data?u=76281980&t=15)** Now, this is a sample invoice provided by [[Microsoft]].
 >
 > **[0:18](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-your-billing-data?u=76281980&t=18)** At the top of this first page, we have the account information section, and this shows information about your profile and subscription.
 >
@@ -817,9 +806,9 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-your-billing-data?u=76281980&t=78)** This section shows all of this information and offers a good high level view of your spend.
 >
-> **[1:23](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-your-billing-data?u=76281980&t=83)** If you want to dig deeper into these charges, then we need to look at the Azure charges usage file that we downloaded, as this contains all of the data that goes to make up this invoice.
+> **[1:23](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-your-billing-data?u=76281980&t=83)** If you want to dig deeper into these charges, then we need to look at the [[Microsoft Azure|Azure]] charges usage file that we downloaded, as this contains all of the data that goes to make up this invoice.
 >
-> **[1:34](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-your-billing-data?u=76281980&t=94)** So here we are in Excel and I've opened the usage file for one of my invoices.
+> **[1:34](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-your-billing-data?u=76281980&t=94)** So here we are in [[Microsoft Excel|Excel]] and I've opened the usage file for one of my invoices.
 >
 > **[1:39](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-your-billing-data?u=76281980&t=99)** Now, straight away you can see that this file contains a lot of data.
 >
@@ -843,18 +832,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft]] (2), next (1), [[Microsoft Azure|Azure]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Microsoft Azure|Azure]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding scope
-> [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-scope?u=76281980)
+#### [Understanding scope](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-scope?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-scope?u=76281980&t=0)** - [Instructor] Most organizations have multiple Azure subscriptions, so we need a way to be able to limit our reporting so that we're focusing only on the relevant parts of our data, and for that, we use something called scope.
+> **[0:00](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-scope?u=76281980&t=0)** - [Instructor] Most organizations have multiple [[Microsoft Azure|Azure]] subscriptions, so we need a way to be able to limit our reporting so that we're focusing only on the relevant parts of our data, and for that, we use something called scope.
 >
 > **[0:13](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-scope?u=76281980&t=13)** Scope is the level at which we can view and manage costs for our Azure resources.
 >
@@ -862,7 +850,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-scope?u=76281980&t=25)** Azure resources can be organized into different scopes, which can be thought of as levels of hierarchy.
 >
-> **[0:32](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-scope?u=76281980&t=32)** The scopes available in Azure cost management include management group scope.
+> **[0:32](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-scope?u=76281980&t=32)** The scopes available in Azure [[Cost Management]] include management group scope.
 >
 > **[0:38](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-scope?u=76281980&t=38)** This is the highest level of hierarchy in Azure.
 >
@@ -908,21 +896,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), management (5), data (4), [[Cost Management]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[Cost Management]] (2)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyze costs with built-in views
-> [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/analyze-costs-with-built-in-views?u=76281980)
+#### [Analyze costs with built-in views](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/analyze-costs-with-built-in-views?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/analyze-costs-with-built-in-views?u=76281980&t=0)** - [Instructor] Cost management and billing provides us a way to analyze and monitor our costs with something called built-in views.
+> **[0:00](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/analyze-costs-with-built-in-views?u=76281980&t=0)** - [Instructor] [[Cost Management]] and billing provides us a way to analyze and monitor our costs with something called built-in views.
 >
 > **[0:07](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/analyze-costs-with-built-in-views?u=76281980&t=7)** Let's take a look at that next.
 >
-> **[0:10](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/analyze-costs-with-built-in-views?u=76281980&t=10)** So here we are in the Azure portal and I'm already in the Cost Management section.
+> **[0:10](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/analyze-costs-with-built-in-views?u=76281980&t=10)** So here we are in the [[Microsoft Azure|Azure]] portal and I'm already in the Cost Management section.
 >
 > **[0:15](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/analyze-costs-with-built-in-views?u=76281980&t=15)** On the left-hand side, select Cost Analysis.
 >
@@ -974,7 +961,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), data (3), [[Cost Management]] (2), next (2), dns (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Cost Management]] (2)
 > **UI Navigation:** dropdown (2), in the toolbar (2), select the (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** dns (1)
@@ -988,18 +975,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing reservations
-> [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-reservations?u=76281980)
+#### [Introducing reservations](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-reservations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-reservations?u=76281980&t=0)** - [Instructor] So you've now received your invoice, know how to download your charging files, now you want to reduce your costs.
 >
-> **[0:07](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-reservations?u=76281980&t=7)** One of the best ways we have of doing that in Azure is taking advantage of a feature called Reservations.
+> **[0:07](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-reservations?u=76281980&t=7)** One of the best ways we have of doing that in [[Microsoft Azure|Azure]] is taking advantage of a feature called Reservations.
 >
 > **[0:13](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-reservations?u=76281980&t=13)** Reservations offer us a way to save money by pre-purchasing Azure services.
 >
-> **[0:20](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-reservations?u=76281980&t=20)** Now, in order to do this, we need to commit to a one or three year plan for multiple products.
+> **[0:20](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-reservations?u=76281980&t=20)** Now, in order to do this, we need to commit to a one or three year plan for multiple [[Microsoft Products|products]].
 >
 > **[0:28](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-reservations?u=76281980&t=28)** Committing like this allows you to get a discount on the resources that you use and this can lead to a reduction in costs of up to 80% compared to pay-as-you go prices.
 >
@@ -1021,9 +1007,9 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-reservations?u=76281980&t=85)** There are some common resource types here as well as some more specialized services.
 >
-> **[1:30](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-reservations?u=76281980&t=90)** Reservations for virtual machines can save you up to 80% compared to the normal pay-as-you-go rates.
+> **[1:30](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-reservations?u=76281980&t=90)** Reservations for [[Virtual Machines]] can save you up to 80% compared to the normal pay-as-you-go rates.
 >
-> **[1:37](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-reservations?u=76281980&t=97)** There are also many Azure Storage services that can be reserved, such as SQL, Storage Accounts, Cosmos DB and Redis Cache.
+> **[1:37](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-reservations?u=76281980&t=97)** There are also many Azure Storage services that can be reserved, such as [[SQL]], Storage Accounts, Cosmos DB and [[Redis]] Cache.
 >
 > **[1:45](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/introducing-reservations?u=76281980&t=105)** The amount you save changes depending on the resources, but as an example, an Azure SQL Reservation can save a whopping 80% and you can save at least 65% on your Cosmos DB costs.
 >
@@ -1041,14 +1027,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[SQL]] (2), feature (1), [[Microsoft Products|Products]] (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[SQL]] (2), [[Microsoft Products|Products]] (1), [[Virtual Machines]] (1), [[Redis]] (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding reservation recommendations
-> [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-reservation-recommendations?u=76281980)
+#### [Understanding reservation recommendations](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-reservation-recommendations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1060,9 +1045,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-reservation-recommendations?u=76281980&t=15)** Now, while that's possible, it's going to be quite labor intensive, and very difficult to get right.
 >
-> **[0:22](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-reservation-recommendations?u=76281980&t=22)** Alternatively, we could let Microsoft do the work with a feature called reservation recommendations.
+> **[0:22](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-reservation-recommendations?u=76281980&t=22)** Alternatively, we could let [[Microsoft]] do the work with a feature called reservation recommendations.
 >
-> **[0:28](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-reservation-recommendations?u=76281980&t=28)** These recommendations are automatically created by Azure based on your resource usage.
+> **[0:28](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-reservation-recommendations?u=76281980&t=28)** These recommendations are automatically created by [[Microsoft Azure|Azure]] based on your resource usage.
 >
 > **[0:34](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-reservation-recommendations?u=76281980&t=34)** Microsoft is actively monitoring our usage, and looking for ways to save us money.
 >
@@ -1072,7 +1057,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-reservation-recommendations?u=76281980&t=48)** We can also see and purchase reservation recommendations in the reservation purchase experience in the Azure portal.
 >
-> **[0:57](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-reservation-recommendations?u=76281980&t=57)** We can view recommendations in the cost management Power BI app, although that's not something we'll cover in this course, and we can also see these in Azure API.
+> **[0:57](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-reservation-recommendations?u=76281980&t=57)** We can view recommendations in the [[Cost Management]] [[Microsoft Power BI|Power BI]] app, although that's not something we'll cover in this course, and we can also see these in Azure API.
 >
 > **[1:07](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-reservation-recommendations?u=76281980&t=67)** So let's look at how Azure creates these recommendations.
 >
@@ -1086,7 +1071,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-reservation-recommendations?u=76281980&t=111)** Now, this is all done using advanced machine learning, and this model eventually generates some recommendations, which are what we see in the portal.
 >
-> **[2:01](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-reservation-recommendations?u=76281980&t=121)** Now, this process is ongoing, but it's important to realize that if your resources are shut down regularly, then these simulation won't have enough usage data to work with and as a result, it won't generate any recommendations for that resource type.
+> **[2:01](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-reservation-recommendations?u=76281980&t=121)** Now, this process is ongoing, but it's important to realize that if your resources are shut down regularly, then these [[Simulation]] won't have enough usage data to work with and as a result, it won't generate any recommendations for that resource type.
 >
 > **[2:17](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/understanding-reservation-recommendations?u=76281980&t=137)** It can also take some time before Azure generates recommendations for you.
 >
@@ -1124,7 +1109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), data (3), [[Microsoft]] (2), feature (1), [[Cost Management]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (11), [[Microsoft]] (2), [[Cost Management]] (1), [[Microsoft Power BI|Power bi]] (1), [[Simulation]] (1)
 > **CLI Commands:** find (2)
 > **Tools:** azure portal (2)
 > **Env Vars:** api (1)
@@ -1132,16 +1117,15 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating reservations
-> [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/creating-reservations?u=76281980)
+#### [Creating reservations](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/creating-reservations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/creating-reservations?u=76281980&t=0)** - [Instructor] Let's look now at how we can create reservations.
 >
-> **[0:04](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/creating-reservations?u=76281980&t=4)** Now, in this demo, we're going to be looking at how you create reservations in the Azure portal.
+> **[0:04](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/creating-reservations?u=76281980&t=4)** Now, in this demo, we're going to be looking at how you create reservations in the [[Microsoft Azure|Azure]] portal.
 >
-> **[0:09](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/creating-reservations?u=76281980&t=9)** But while we're not covering it specifically, it's important to understand that you can also create them using Azure PowerShell, the Azure CLI, or the Azure API.
+> **[0:09](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/creating-reservations?u=76281980&t=9)** But while we're not covering it specifically, it's important to understand that you can also create them using Azure [[Powershell]], the Azure [[CLI]], or the Azure API.
 >
 > **[0:19](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/creating-reservations?u=76281980&t=19)** Now, these tools provide much more flexibility and automation for managing reservations at scale.
 >
@@ -1157,7 +1141,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/creating-reservations?u=76281980&t=53)** Now we just need to select the type of reservation that we want to create.
 >
-> **[0:57](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/creating-reservations?u=76281980&t=57)** Now, Azure offers reservations for virtual machines, SQL databases, Cosmos DB, and much, much more.
+> **[0:57](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/creating-reservations?u=76281980&t=57)** Now, Azure offers reservations for [[Virtual Machines]], [[SQL]] [[Databases]], Cosmos DB, and much, much more.
 >
 > **[1:05](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/creating-reservations?u=76281980&t=65)** So, choose the type of reservation that best fits your need.
 >
@@ -1205,7 +1189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Search]] (2), next (2), [[Powershell]] (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Powershell]] (1), [[CLI]] (1), [[Virtual Machines]] (1), [[SQL]] (1)
 > **UI Navigation:** select the (3), navigate to (1), in the toolbar (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** cli (1), api (1), sql (1)
@@ -1219,14 +1203,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's next with Azure management?
-> [LinkedIn Learning](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/what-s-next-with-azure-management?u=76281980)
+#### [What's next with Azure management?](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/what-s-next-with-azure-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/what-s-next-with-azure-management?u=76281980&t=0)** - [Instructor] Managing costs is an everyday part of running a successful business, with cloud computing, this can sometimes feel daunting as costs can be difficult to identify and monitor.
+> **[0:00](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/what-s-next-with-azure-management?u=76281980&t=0)** - [Instructor] Managing costs is an everyday part of running a successful business, with [[Cloud Computing]], this can sometimes feel daunting as costs can be difficult to identify and monitor.
 >
-> **[0:11](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/what-s-next-with-azure-management?u=76281980&t=11)** As your cost management and billing helps us solve this challenge but it's not an easy tool to master.
+> **[0:11](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/what-s-next-with-azure-management?u=76281980&t=11)** As your [[Cost Management]] and billing helps us solve this challenge but it's not an easy tool to master.
 >
 > **[0:17](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/what-s-next-with-azure-management?u=76281980&t=17)** Before we talk about your next steps let's quickly review what we've covered in this course.
 >
@@ -1246,9 +1229,9 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/what-s-next-with-azure-management?u=76281980&t=61)** And finally, we looked at reservations.
 >
-> **[1:04](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/what-s-next-with-azure-management?u=76281980&t=64)** Reservations allow us to pre-purchase Azure services at a discounted rate.
+> **[1:04](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/what-s-next-with-azure-management?u=76281980&t=64)** Reservations allow us to pre-purchase [[Microsoft Azure|Azure]] services at a discounted rate.
 >
-> **[1:09](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/what-s-next-with-azure-management?u=76281980&t=69)** Microsoft automatically makes reservation recommendations for us based on our usage but to take advantage of them, you need to be proactive.
+> **[1:09](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/what-s-next-with-azure-management?u=76281980&t=69)** [[Microsoft]] automatically makes reservation recommendations for us based on our usage but to take advantage of them, you need to be proactive.
 >
 > **[1:18](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/what-s-next-with-azure-management?u=76281980&t=78)** So what about next steps?
 >
@@ -1276,11 +1259,11 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/what-s-next-with-azure-management?u=76281980&t=142)** We've only just skimmed the surface of what's available within cost management.
 >
-> **[2:26](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/what-s-next-with-azure-management?u=76281980&t=146)** But I hope you've seen enough to make your first steps and I wish you luck on the rest of your journey.
+> **[2:26](https://www.linkedin.com/learning/controlling-cost-with-azure-management-and-billing/what-s-next-with-azure-management?u=76281980&t=146)** But I hope you've seen enough to make your first steps and I wish you luck on the [[Representational State Transfer (REST)|rest]] of your journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cost Management]] (6), business (2), next (2), [[Microsoft Azure|Azure]] (2), data (2)
+> **Frameworks & Libraries:** [[Cost Management]] (6), [[Microsoft Azure|Azure]] (2), [[Cloud Computing]] (1), [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is an  (2)
 > **Prerequisites:** set up (1)

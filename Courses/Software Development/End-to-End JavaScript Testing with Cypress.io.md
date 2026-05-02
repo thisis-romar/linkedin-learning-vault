@@ -97,8 +97,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### It's time to use Cypress.io to do some end-to-end JavaScript testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/let-s-use-cypress-io-to-do-some-end-to-end-javascript-testing?u=76281980)
+#### [It's time to use Cypress.io to do some end-to-end JavaScript testing](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/let-s-use-cypress-io-to-do-some-end-to-end-javascript-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -108,7 +107,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/let-s-use-cypress-io-to-do-some-end-to-end-javascript-testing?u=76281980&t=16)** And what if they all worked for you 24 hours a day for free?
 >
-> **[0:20](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/let-s-use-cypress-io-to-do-some-end-to-end-javascript-testing?u=76281980&t=20)** Well, this is the ultimate goal of end-to-end testing with Cypress.
+> **[0:20](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/let-s-use-cypress-io-to-do-some-end-to-end-javascript-testing?u=76281980&t=20)** Well, this is the ultimate goal of [[End-to-end Testing]] with Cypress.
 >
 > **[0:25](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/let-s-use-cypress-io-to-do-some-end-to-end-javascript-testing?u=76281980&t=25)** I'm Shaun Wassell, and in this course, I'll be showing you this powerful, easy-to use-tool that solves many of the major pain points of end-to-end testing.
 >
@@ -119,30 +118,29 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[End-to-end Testing]] (2)
 > **Speakers:** - what (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-you-should-know?u=76281980&t=0)** - [Instructor] All right, so before you get started, there are a few things that you should know.
 >
-> **[0:04](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-you-should-know?u=76281980&t=4)** And the first one of those is JavaScript basics.
+> **[0:04](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-you-should-know?u=76281980&t=4)** And the first one of those is [[JavaScript]] basics.
 >
 > **[0:07](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-you-should-know?u=76281980&t=7)** So Cypress uses JavaScript and you can obviously use TypeScript with it as well.
 >
 > **[0:12](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-you-should-know?u=76281980&t=12)** So ideally, you should already be familiar with JavaScript in order to use Cypress, for the most part, Cypress commands, as you'll see, are pretty straightforward, but it's still a helpful thing to know.
 >
-> **[0:24](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-you-should-know?u=76281980&t=24)** In addition, because we're going to be testing front-end websites here, and Cypress requires you to have at least a little bit of knowledge about HTML and CSS, that's going to be another important prerequisite for you to have.
+> **[0:24](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-you-should-know?u=76281980&t=24)** In addition, because we're going to be testing front-end websites here, and Cypress requires you to have at least a little bit of knowledge about [[HTML]] and CSS, that's going to be another important prerequisite for you to have.
 >
 > **[0:39](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-you-should-know?u=76281980&t=39)** And finally, it would be really helpful for you to just have a basic knowledge of testing concepts.
 >
-> **[0:44](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-you-should-know?u=76281980&t=44)** So things like unit testing, integration testing, end-to-end testing, what each of those are, and how end-to-end testing, which is what Cypress is designed for, is different.
+> **[0:44](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-you-should-know?u=76281980&t=44)** So things like [[Unit Testing]], [[Integration Testing]], [[End-to-end Testing]], what each of those are, and how end-to-end testing, which is what Cypress is designed for, is different.
 >
 > **[0:54](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-you-should-know?u=76281980&t=54)** So these are really the three main prerequisites you can always choose to continue along anyway, but just keep in mind that there might be a few things you don't understand.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), [[End-to-end Testing]] (2), front-end (1), [[HTML]] (1), css (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[End-to-end Testing]] (2), [[HTML]] (1), [[Unit Testing]] (1), [[Integration Testing]] (1)
 > **Env Vars:** html (1), css (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** prerequisite (1)
@@ -153,18 +151,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Cypress?
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-is-cypress?u=76281980)
+#### [What is Cypress?](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-is-cypress?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-is-cypress?u=76281980&t=0)** - [Instructor] All right, well, first things first, you're probably wondering what Cypress is and why it's such a helpful tool.
 >
-> **[0:08](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-is-cypress?u=76281980&t=8)** So Cypress, the first thing that you should know about it is that it's a powerful tool for conducting end-to-end testing, right, end-to-end testing, basically meaning that you're writing tests that will automatically use your site as a user would, and make sure that everything is working correctly.
+> **[0:08](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-is-cypress?u=76281980&t=8)** So Cypress, the first thing that you should know about it is that it's a powerful tool for conducting [[End-to-end Testing]], right, end-to-end testing, basically meaning that you're writing tests that will automatically use your site as a user would, and make sure that everything is working correctly.
 >
 > **[0:29](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-is-cypress?u=76281980&t=29)** So that's the main purpose of this tool, is to make that easier.
 >
-> **[0:34](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-is-cypress?u=76281980&t=34)** Now, the second thing to know about Cypress is that it's a JavaScript testing framework, so A, this means, of course, as I already said, that Cypress uses JavaScript, but also it's a little bit opinionated, right?
+> **[0:34](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-is-cypress?u=76281980&t=34)** Now, the second thing to know about Cypress is that it's a [[JavaScript]] testing framework, so A, this means, of course, as I already said, that Cypress uses JavaScript, but also it's a little bit opinionated, right?
 >
 > **[0:48](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-is-cypress?u=76281980&t=48)** In other words, as you'll see shortly, there are specific ways to define each of your Cypress tests and specific ways to put your Cypress tests together.
 >
@@ -172,33 +169,32 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-is-cypress?u=76281980&t=67)** There are, of course, things like paid hosting that you can pay for if you decide that it's worth your while, but you don't have to pay for anything in order to use this software.
 >
-> **[1:17](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-is-cypress?u=76281980&t=77)** And finally, it's a powerful alternative to other tools like Selenium, Puppeteer, and other end-to-end testing tools.
+> **[1:17](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-is-cypress?u=76281980&t=77)** And finally, it's a powerful alternative to other tools like [[Selenium]], Puppeteer, and other end-to-end testing tools.
 >
 > **[1:28](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/what-is-cypress?u=76281980&t=88)** In just a minute, we'll actually talk about why Cypress is superior to these tools in many ways.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[End-to-end Testing]] (3), [[JavaScript]] (2), open-source (1), [[Selenium]] (1)
+> **Frameworks & Libraries:** [[End-to-end Testing]] (3), [[JavaScript]] (2), [[Selenium]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advantages of Cypress
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/advantages-of-cypress?u=76281980)
+#### [Advantages of Cypress](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/advantages-of-cypress?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/advantages-of-cypress?u=76281980&t=0)** - [Instructor] All right.
 >
-> **[0:01](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/advantages-of-cypress?u=76281980&t=1)** So now that we know a little bit more about what Cypress is in the first place, let's talk about some of the advantages that Cypress provides us with over other end-to-end testing tools.
+> **[0:01](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/advantages-of-cypress?u=76281980&t=1)** So now that we know a little bit more about what Cypress is in the first place, let's talk about some of the advantages that Cypress provides us with over other [[End-to-end Testing]] tools.
 >
 > **[0:12](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/advantages-of-cypress?u=76281980&t=12)** So the first big advantage of Cypress, as you'll see shortly, is that the tests run inside a real browser, right?
 >
-> **[0:21](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/advantages-of-cypress?u=76281980&t=21)** Now this is important because your users are going to be visiting your site from a real browser, such as Chrome, or Firefox, or Microsoft Edge, things like that.
+> **[0:21](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/advantages-of-cypress?u=76281980&t=21)** Now this is important because your users are going to be visiting your site from a real browser, such as Chrome, or Firefox, or [[Microsoft]] Edge, things like that.
 >
 > **[0:31](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/advantages-of-cypress?u=76281980&t=31)** So it's important that when you run your end-to-end tests, the environment is as close as possible to the environment your users are going to be using.
 >
-> **[0:40](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/advantages-of-cypress?u=76281980&t=40)** Now, with other tools such as Selenium and Puppeteer, they use what are called headless browsers, which do a good job of imitating a real browser, but are actually quite different.
+> **[0:40](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/advantages-of-cypress?u=76281980&t=40)** Now, with other tools such as [[Selenium]] and Puppeteer, they use what are called headless browsers, which do a good job of imitating a real browser, but are actually quite different.
 >
 > **[0:53](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/advantages-of-cypress?u=76281980&t=53)** And in end-to-end testing, that's probably the number one source of bugs is browser mismatches, right?
 >
@@ -222,7 +218,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[End-to-end Testing]] (5), [[Microsoft]] (1), [[Selenium]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[End-to-end Testing]] (5), [[Microsoft]] (1), [[Selenium]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** such as (2)
 > **Tools:** firefox (1)
@@ -234,14 +230,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing and running Cypress
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/installing-running-cypress?u=76281980)
+#### [Installing and running Cypress](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/installing-running-cypress?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/installing-running-cypress?u=76281980&t=0)** - [Instructor] And if we hit Enter there, what that's going to do is it's going to run Cypress and open up this Cypress window, and what you'll see here is it asks us what type of testing we want to use Cypress for, right?
 >
-> **[0:15](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/installing-running-cypress?u=76281980&t=15)** Do we want to use it for End-to-End Testing, Component Testing?
+> **[0:15](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/installing-running-cypress?u=76281980&t=15)** Do we want to use it for [[End-to-end Testing]], Component Testing?
 >
 > **[0:18](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/installing-running-cypress?u=76281980&t=18)** We're actually going to select End-to-End Testing, and what this is going to do is if we click on that link, it doesn't really make it very clear that it's going to do this when you click on it, but what it does is it'll actually add a number of different files to your project that will help you perform basic end-to-end testing here.
 >
@@ -267,14 +262,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[End-to-end Testing]] (5), hit (1), [[Debugging]] (1), cloud (1), next (1)
+> **Frameworks & Libraries:** [[End-to-end Testing]] (5)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing and running Cypress tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/writing-running-cypress-tests?u=76281980)
+#### [Writing and running Cypress tests](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/writing-running-cypress-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -286,11 +280,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/writing-running-cypress-tests?u=76281980&t=36)** And once you've done that, you should be able to change directories into this new target app directory that you should see here.
 >
-> **[0:46](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/writing-running-cypress-tests?u=76281980&t=46)** And you can run this thing by, first of all, installing all of its dependencies with NPM Install.
+> **[0:46](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/writing-running-cypress-tests?u=76281980&t=46)** And you can run this thing by, first of all, installing all of its dependencies with [[npm]] Install.
 >
 > **[0:53](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/writing-running-cypress-tests?u=76281980&t=53)** And once you've done that, you can simply run NPM Run Dev and that will actually run the application.
 >
-> **[0:59](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/writing-running-cypress-tests?u=76281980&t=59)** This is just a simple react application and you can open that up in your browser to see what it looks like by going to local host 5173.
+> **[0:59](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/writing-running-cypress-tests?u=76281980&t=59)** This is just a simple [[React.js|react]] application and you can open that up in your browser to see what it looks like by going to local host 5173.
 >
 > **[1:08](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/writing-running-cypress-tests?u=76281980&t=68)** You can just control, click on that.
 >
@@ -360,7 +354,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/writing-running-cypress-tests?u=76281980&t=236)** So what we're going to do here is we're just going to say describe, and for this one we'll just say something like heading text.
 >
-> **[4:05](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/writing-running-cypress-tests?u=76281980&t=245)** And then for this git function, this defines individual tests.
+> **[4:05](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/writing-running-cypress-tests?u=76281980&t=245)** And then for this [[Git]] function, this defines individual tests.
 >
 > **[4:11](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/writing-running-cypress-tests?u=76281980&t=251)** We're just going to say something like, it contains the title of our site.
 >
@@ -444,7 +438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), web application (5), next (2), [[npm]] (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[npm]] (2), [[React.js|React]] (1), [[Git]] (1)
 > **Env Vars:** npm (2), ide (2), url (2)
 > **CLI Commands:** npm (2), make (2), git (1)
 > **UI Navigation:** click on (3), go to (1)
@@ -453,12 +447,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Documentation:** spec (2)
 
-#### Testing text inputs
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/testing-text-inputs?u=76281980)
+#### [Testing text inputs](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/testing-text-inputs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/testing-text-inputs?u=76281980&t=0)** - [Instructor] All right, so at this point, we've written our first test with [Cypress.io](https://Cypress.io), which checked the text inside a header element.
+> **[0:00](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/testing-text-inputs?u=76281980&t=0)** - [Instructor] All right, so at this point, we've written our first test with [[[Cypress.io]]](https://Cypress.io), which checked the text inside a header element.
 >
 > **[0:08](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/testing-text-inputs?u=76281980&t=8)** Now, this was a great way to get a better feel for the syntax and flow of Cypress tests, and honestly, this might be something that you want to do a lot of the time, right?
 >
@@ -538,7 +531,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), feature (2), [[Cypress.io]] (1), data (1), hit (1)
+> **Frameworks & Libraries:** [[Cypress.io]] (1)
 > **CLI Commands:** make (6), find (4)
 > **Analogies:** for example (2), just like (1), imagine (1)
 > **Cross-References:** go back to (3)
@@ -547,8 +540,7 @@ created: 2026-05-02
 > **URLs:** [cypress.io](https://cypress.io) (1)
 > **Env Vars:** ide (1)
 
-#### Selecting elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/selecting-elements?u=76281980)
+#### [Selecting elements](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/selecting-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -556,7 +548,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/selecting-elements?u=76281980&t=7)** And to be specific, we need to take a good hard look at what the best way is to select different elements in our tests, right?
 >
-> **[0:16](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/selecting-elements?u=76281980&t=16)** So far, for simplicity, we've just been using the HTML tag of whatever element we want to select, and I want to make it very clear that in the vast majority of cases, this is just the wrong way to do it, right?
+> **[0:16](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/selecting-elements?u=76281980&t=16)** So far, for simplicity, we've just been using the [[HTML]] tag of whatever element we want to select, and I want to make it very clear that in the vast majority of cases, this is just the wrong way to do it, right?
 >
 > **[0:32](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/selecting-elements?u=76281980&t=32)** You see the problem here is that using the HTML tag like this is extremely dependent on the current state of our app.
 >
@@ -600,7 +592,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/selecting-elements?u=76281980&t=182)** And if we go back here and rerun our tests, sure enough, we see that that first one passes.
 >
-> **[3:08](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/selecting-elements?u=76281980&t=188)** We could make the rest pass in the same way, or make this input thing pass as well.
+> **[3:08](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/selecting-elements?u=76281980&t=188)** We could make the [[Representational State Transfer (REST)|rest]] pass in the same way, or make this input thing pass as well.
 >
 > **[3:13](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/selecting-elements?u=76281980&t=193)** We see here that we've gotten an error because we're trying to call .type on multiple input elements.
 >
@@ -680,7 +672,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[HTML]] (4), css (3), application (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (8), find (2)
 > **Env Vars:** html (4), css (3), ied (1)
 > **UI Navigation:** select the (2), navigate to (1), click on (1)
@@ -689,12 +681,11 @@ created: 2026-05-02
 > **Definitions:** in other words (1), is a  (1)
 > **Cross-References:** go back to (1)
 
-#### Element aliasing
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/element-aliasing?u=76281980)
+#### [Element aliasing](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/element-aliasing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/element-aliasing?u=76281980&t=0)** - [Instructor] All right, so at this point we've refactored our Cypress tests to use selectors that are much more robust than simply using an HTML tag or a CSS class.
+> **[0:00](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/element-aliasing?u=76281980&t=0)** - [Instructor] All right, so at this point we've refactored our Cypress tests to use selectors that are much more robust than simply using an [[HTML]] tag or a CSS class.
 >
 > **[0:12](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/element-aliasing?u=76281980&t=12)** But especially when you look at things like this, you might find yourself longing for the somewhat more concise appearance of our old tag selectors.
 >
@@ -734,7 +725,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/element-aliasing?u=76281980&t=140)** So now all we have to do when we want to find that thing again, is say at FN characters left.
 >
-> **[2:29](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/element-aliasing?u=76281980&t=149)** And then we'll do that for the rest of these here.
+> **[2:29](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/element-aliasing?u=76281980&t=149)** And then we'll do that for the [[Representational State Transfer (REST)|rest]] of these here.
 >
 > **[2:31](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/element-aliasing?u=76281980&t=151)** Here, I'm just going to copy and replace that, replace all of these with that, that is, so it's now much easier to access this thing.
 >
@@ -818,7 +809,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), css (1), application (1), next (1), data (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (4), make (2)
 > **Env Vars:** html (1), css (1), eq0 (1)
 > **Definitions:** is called (2)
@@ -826,8 +817,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with command results
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/working-with-command-results?u=76281980)
+#### [Working with command results](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/working-with-command-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -915,7 +905,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1)
 > **CLI Commands:** make (6), find (1)
 > **Code Identifiers:** charsleftspan (2), fninput (1), charsleft (1), jquery (1)
 > **Analogies:** for example (3), just like (1)
@@ -924,8 +913,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using beforeEach
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/using-beforeeach?u=76281980)
+#### [Using beforeEach](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/using-beforeeach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1021,7 +1009,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** go back to (2)
 > **File Paths:** selecting.cy.js (1)
@@ -1029,8 +1016,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting a base URL
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-a-base-url?u=76281980)
+#### [Setting a base URL](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-a-base-url?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1078,7 +1064,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-a-base-url?u=76281980&t=151)** All right, so Cypress is opening back up there.
 >
-> **[2:34](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-a-base-url?u=76281980&t=154)** We're going to click on end-to-end testing.
+> **[2:34](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-a-base-url?u=76281980&t=154)** We're going to click on [[End-to-end Testing]].
 >
 > **[2:37](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-a-base-url?u=76281980&t=157)** We're going to click Chrome and start e2e testing in Chrome.
 >
@@ -1090,7 +1076,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-a-base-url?u=76281980&t=178)** So let's just open up a new terminal.
 >
-> **[3:01](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-a-base-url?u=76281980&t=181)** We'll run npm run dev. Inside, oops.
+> **[3:01](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-a-base-url?u=76281980&t=181)** We'll run [[npm]] run dev. Inside, oops.
 >
 > **[3:05](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-a-base-url?u=76281980&t=185)** Here we need to actually change directories into our target app by saying cd target app.
 >
@@ -1102,7 +1088,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (2), [[End-to-end Testing]] (1), cd (1), hit (1)
+> **Frameworks & Libraries:** [[npm]] (2), [[End-to-end Testing]] (1)
 > **Env Vars:** url (8)
 > **CLI Commands:** make (3), npm (2), npx (1), cd (1)
 > **UI Navigation:** click on (2)
@@ -1111,8 +1097,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** terminal (1)
 
-#### Challenge 1: Writing your own tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/challenge-writing-your-own-tests-24924807?u=76281980)
+#### [Challenge 1: Writing your own tests](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/challenge-writing-your-own-tests-24924807?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1140,7 +1125,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (2), make (2)
 > **URLs:** [localhost:5173](https://localhost:5173) (1)
 > **Ports:** :5173 (1)
@@ -1149,8 +1133,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution 1: Writing your own tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/solution-writing-your-own-tests-24924810?u=76281980)
+#### [Solution 1: Writing your own tests](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/solution-writing-your-own-tests-24924810?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1188,11 +1171,11 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/solution-writing-your-own-tests-24924810?u=76281980&t=146)** So let's just go back to here and take a look.
 >
-> **[2:29](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/solution-writing-your-own-tests-24924810?u=76281980&t=149)** And if you knew how to read React code, you could have also just gone into the target app inside the IDE, but let's just open up the inspector window since, in many cases, that's all you'll have access to.
+> **[2:29](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/solution-writing-your-own-tests-24924810?u=76281980&t=149)** And if you knew how to read [[React.js|React]] code, you could have also just gone into the target app inside the IDE, but let's just open up the inspector window since, in many cases, that's all you'll have access to.
 >
 > **[2:40](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/solution-writing-your-own-tests-24924810?u=76281980&t=160)** We're going to go to Elements, and we're going to select this input.
 >
-> **[2:45](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/solution-writing-your-own-tests-24924810?u=76281980&t=165)** And what we'll see here, let's just zoom in on that just a little bit there.
+> **[2:45](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/solution-writing-your-own-tests-24924810?u=76281980&t=165)** And what we'll see here, let's just [[Zoom]] in on that just a little bit there.
 >
 > **[2:49](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/solution-writing-your-own-tests-24924810?u=76281980&t=169)** There we go.
 >
@@ -1290,7 +1273,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), [[React.js|React]] (1), [[Zoom]] (1), hit (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (8), find (2)
 > **Env Vars:** url (2), ide (2)
 > **Cross-References:** go back to (3)
@@ -1304,8 +1287,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Interacting with elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/interacting-with-elements?u=76281980)
+#### [Interacting with elements](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/interacting-with-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1415,7 +1397,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), application (2), [[Debugging]] (1), css (1)
 > **CLI Commands:** find (5)
 > **UI Navigation:** click on (2), go to (1), double-click (1)
 > **Analogies:** such as (2), just like (1), for example (1)
@@ -1423,9 +1404,9 @@ created: 2026-05-02
 > **Env Vars:** url (1), css (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Prerequisites:** set up (2)
+> **Cross-References:** go back to (1)
 
-#### Triggering other actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/triggering-other-actions?u=76281980)
+#### [Triggering other actions](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/triggering-other-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1611,7 +1592,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), hit (2), next (1), generic (1)
 > **UI Navigation:** dropdown (6), checkbox (6), select the (2), click on (1)
 > **CLI Commands:** find (7), make (7)
 > **Analogies:** such as (3), just like (1), imagine (1)
@@ -1619,8 +1599,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common assertions
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/common-assertions?u=76281980)
+#### [Common assertions](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/common-assertions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1730,7 +1709,7 @@ created: 2026-05-02
 >
 > **[5:38](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/common-assertions?u=76281980&t=338)** If you hover over this, this will show you the state of the app at that point in time and you'll see that it's actually empty.
 >
-> **[5:44](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/common-assertions?u=76281980&t=344)** Well, that's because we're running a React application, and the way that React applications usually work is the first thing that the browser will receive is an empty page and then the React application will be rendered inside of that.
+> **[5:44](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/common-assertions?u=76281980&t=344)** Well, that's because we're running a [[React.js|React]] application, and the way that React applications usually work is the first thing that the browser will receive is an empty page and then the React application will be rendered inside of that.
 >
 > **[6:02](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/common-assertions?u=76281980&t=362)** So essentially, the reason that things have been working so far, right, if we say should exist here, for example, the reason why that works is because Cypress is automatically set up to wait for a given element when we say cy.get with a selector or alias.
 >
@@ -1780,7 +1759,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[React.js|React]] (4), css (4), application (3), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4)
 > **CLI Commands:** make (9), find (5)
 > **Analogies:** for example (4), such as (2)
 > **Definitions:** is a  (3), we call this (1), is an  (1)
@@ -1789,14 +1768,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Code Identifiers:** beforeeach (1)
 
-#### Automatic retries
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/automatic-retries?u=76281980)
+#### [Automatic retries](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/automatic-retries?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/automatic-retries?u=76281980&t=0)** - [Instructor] All right, at this point, we've covered quite a few concepts in Cypress, but there's still one very important aspect that we haven't covered yet and that is the concept of automatic retrying.
 >
-> **[0:12](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/automatic-retries?u=76281980&t=12)** You see, one of the biggest difficulties with end-to-end testing is what are called flaky tests.
+> **[0:12](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/automatic-retries?u=76281980&t=12)** You see, one of the biggest difficulties with [[End-to-end Testing]] is what are called flaky tests.
 >
 > **[0:19](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/automatic-retries?u=76281980&t=19)** Now, flaky tests are just tests that pass most of the time, but occasionally, or in certain environments, they will fail unexpectedly.
 >
@@ -1836,15 +1814,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[End-to-end Testing]] (1), application (1)
+> **Frameworks & Libraries:** [[End-to-end Testing]] (1)
 > **CLI Commands:** find (4)
 > **Analogies:** for example (2), imagine (1)
 > **Definitions:** in other words (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Debugging Cypress tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/debugging-cypress-tests?u=76281980)
+#### [Debugging Cypress tests](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/debugging-cypress-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1862,7 +1839,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/debugging-cypress-tests?u=76281980&t=62)** Now, what debugger looks like is this, if we have a Cypress testing file open here, let's find one that's a little bit more complicated here, like interactions, for example.
 >
-> **[1:13](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/debugging-cypress-tests?u=76281980&t=73)** What we can do is we can simply put the keyword debugger in the code, and when Cypress reaches this word, it'll pause all the tests and we can inspect our application all we want.
+> **[1:13](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/debugging-cypress-tests?u=76281980&t=73)** What we can do is we can simply put the keyword debugger in the code, and when Cypress reaches this [[Microsoft Word|word]], it'll pause all the tests and we can inspect our application all we want.
 >
 > **[1:28](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/debugging-cypress-tests?u=76281980&t=88)** Now, at first you might be tempted just to put this debugger keyword on the same level as other Cypress commands like I just did here.
 >
@@ -1932,21 +1909,20 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/debugging-cypress-tests?u=76281980&t=321)** So that's the basics of debugging in Cypress.
 >
-> **[5:24](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/debugging-cypress-tests?u=76281980&t=324)** And the last thing here is that once you close your console, Cypress will continue to execute and it will run the rest of the tests.
+> **[5:24](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/debugging-cypress-tests?u=76281980&t=324)** And the last thing here is that once you close your console, Cypress will continue to execute and it will run the [[Representational State Transfer (REST)|rest]] of the tests.
 >
 > **[5:33](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/debugging-cypress-tests?u=76281980&t=333)** Of course, if you set more break points in them, if you were to say debug a few times in there, it would stop at the next break point.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), hit (3), [[Debugging]] (2), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** in other words (3), is a  (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting environment variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-environment-variables?u=76281980)
+#### [Setting environment variables](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-environment-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1962,7 +1938,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-environment-variables?u=76281980&t=48)** This is what's known as an environment variable.
 >
-> **[0:51](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-environment-variables?u=76281980&t=51)** And among other things, it also gives us a place to specify things like secret keys or usernames and passwords If we have a site that we need to log into so that we don't have to specify things like passwords in our code and actually push them up to a GitHub repo, which is definitely not something that you want to do.
+> **[0:51](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-environment-variables?u=76281980&t=51)** And among other things, it also gives us a place to specify things like secret keys or usernames and passwords If we have a site that we need to log into so that we don't have to specify things like passwords in our code and actually push them up to a [[GitHub]] repo, which is definitely not something that you want to do.
 >
 > **[1:11](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-environment-variables?u=76281980&t=71)** So Cypress provides us with several different ways that we can define and use environment variables for our end-to-end tests.
 >
@@ -1970,11 +1946,11 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-environment-variables?u=76281980&t=83)** So what you're going to want to do is open up a new terminal here.
 >
-> **[1:28](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-environment-variables?u=76281980&t=88)** And inside this terminal, if you're on a Linux-based machine such as Mac, if you're on Windows, you're going to have to do a different command.
+> **[1:28](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-environment-variables?u=76281980&t=88)** And inside this terminal, if you're on a [[Linux]]-based machine such as Mac, if you're on [[Windows]], you're going to have to do a different command.
 >
 > **[1:36](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-environment-variables?u=76281980&t=96)** But anyway, on a Linux-based machine you can type export and then you're going to type the name of the environment variable that you want to define.
 >
-> **[1:45](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-environment-variables?u=76281980&t=105)** Now in order for this to work with Cypress, the variable name has to be prefixed with the word CYPRESS, all in caps, and then an underscore, followed by the actual name of the environment variable.
+> **[1:45](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-environment-variables?u=76281980&t=105)** Now in order for this to work with Cypress, the variable name has to be prefixed with the [[Microsoft Word|word]] CYPRESS, all in caps, and then an underscore, followed by the actual name of the environment variable.
 >
 > **[1:57](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-environment-variables?u=76281980&t=117)** So if we want to define maybe EXAMPLE_2_PATH, we would say export CYPRESS_EXAMPLE_2_PATH separated by underscores.
 >
@@ -2054,13 +2030,13 @@ created: 2026-05-02
 >
 > **[5:41](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-environment-variables?u=76281980&t=341)** So you could do the same thing there.
 >
-> **[5:43](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-environment-variables?u=76281980&t=343)** Or you can add them to this cypress.config.js file, or you can even create another file here called cypress.env.json and put your environment variables in there.
+> **[5:43](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-environment-variables?u=76281980&t=343)** Or you can add them to this cypress.config.js file, or you can even create another file here called cypress.env.[[JSON]] and put your environment variables in there.
 >
 > **[5:58](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/setting-environment-variables?u=76281980&t=358)** So there's really many different ways of doing this, and the exact method that you choose is going to be up to you and depend on your exact testing setup.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Linux]] (2), [[Microsoft Word|Word]] (2), next (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Microsoft Word|Word]] (2), [[GitHub]] (1), [[Windows]] (1), [[JSON]] (1)
 > **Env Vars:** example_2_path (3), cypress_example_2_path (3), e2e (3), cypress (2), example_4_path (1)
 > **Code Identifiers:** e2path (2), e4path (2)
 > **Tools:** terminal (3), github (1)
@@ -2069,16 +2045,15 @@ created: 2026-05-02
 > **CLI Commands:** make (1), npx (1)
 > **UI Navigation:** go to (2)
 
-#### Working with test doubles
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/working-with-test-doubles?u=76281980)
+#### [Working with test doubles](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/working-with-test-doubles?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/working-with-test-doubles?u=76281980&t=0)** - [Instructor] All right, so the next thing that we're going to talk about here is working with something called test doubles in Cypress.
 >
-> **[0:07](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/working-with-test-doubles?u=76281980&t=7)** As a general rule, when we're end-to-end testing, as we almost always are with Cypress, we want the app that we're testing to mimic the production environment as closely as possible.
+> **[0:07](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/working-with-test-doubles?u=76281980&t=7)** As a general rule, when we're [[End-to-end Testing]], as we almost always are with Cypress, we want the app that we're testing to mimic the production environment as closely as possible.
 >
-> **[0:21](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/working-with-test-doubles?u=76281980&t=21)** This means that we want to be very careful about using techniques that are popular in unit and integration testing, such as mocking, or stubbing, or other test doubles.
+> **[0:21](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/working-with-test-doubles?u=76281980&t=21)** This means that we want to be very careful about using techniques that are popular in unit and [[Integration Testing]], such as mocking, or stubbing, or other test doubles.
 >
 > **[0:31](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/working-with-test-doubles?u=76281980&t=31)** These are meant in unit and integration testing to make it easier to test individual pieces of our app in isolation.
 >
@@ -2124,7 +2099,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), [[End-to-end Testing]] (4), application (4), next (2), [[Integration Testing]] (2)
+> **Frameworks & Libraries:** [[End-to-end Testing]] (4), [[Integration Testing]] (2)
 > **CLI Commands:** make (7)
 > **Code Identifiers:** getuser (6)
 > **Analogies:** for example (3), such as (1)
@@ -2133,8 +2108,7 @@ created: 2026-05-02
 > **Best Practices:** general rule (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge 2: Writing your own tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/challenge-writing-your-own-tests?u=76281980)
+#### [Challenge 2: Writing your own tests](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/challenge-writing-your-own-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2162,15 +2136,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1), next (1)
 > **Env Vars:** ddd (1), css (1)
 > **Cross-References:** earlier in (1), next video (1)
 > **File Paths:** interactions.cy.js (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution 2: Writing your own tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/solution-writing-your-own-tests?u=76281980)
+#### [Solution 2: Writing your own tests](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/solution-writing-your-own-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2216,13 +2188,13 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/solution-writing-your-own-tests?u=76281980&t=172)** So as a further challenge, and by the way, let's just check and make sure that this still works, yep, it looks like everything is still working like before.
 >
-> **[3:00](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/solution-writing-your-own-tests?u=76281980&t=180)** So as a further challenge that you can do on your own here, what you might want to do is go through the rest of these tests and see how you can condense them like this by chaining the interactions and assertions into one single chain of method calls.
+> **[3:00](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/solution-writing-your-own-tests?u=76281980&t=180)** So as a further challenge that you can do on your own here, what you might want to do is go through the [[Representational State Transfer (REST)|rest]] of these tests and see how you can condense them like this by chaining the interactions and assertions into one single chain of method calls.
 >
 > **[3:18](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/solution-writing-your-own-tests?u=76281980&t=198)** So I'm going to leave that up to you as a challenge to do on your own, but feel free to go through and do that because it's going to make your tests a lot more concise and a lot more readable as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6)
 > **Code Identifiers:** thirditem (6)
 > **File Paths:** have.css (2)
@@ -2236,8 +2208,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The wrap command
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/the-wrap-command?u=76281980)
+#### [The wrap command](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/the-wrap-command?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2283,8 +2254,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### The and command
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/the-and-command?u=76281980)
+#### [The and command](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/the-and-command?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2318,15 +2288,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **File Paths:** results.cy.js (1)
 > **CLI Commands:** make (1)
 > **Documentation:** specification (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The filter and not commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/the-filter-and-not-commands?u=76281980)
+#### [The filter and not commands](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/the-filter-and-not-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2352,7 +2320,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/the-filter-and-not-commands?u=76281980&t=83)** We're going to open up the example four page here, and then what we're going to do is we're simply going to add our own list item underneath the other two with a special identifier that will enable us to filter it or remove it.
 >
-> **[1:40](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/the-filter-and-not-commands?u=76281980&t=100)** So we're going to say list item, we'll just say something like, we'll give it a class name here in React, the attribute is called class name because just the plain old attribute name class interferes with the JavaScript class keyword.
+> **[1:40](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/the-filter-and-not-commands?u=76281980&t=100)** So we're going to say list item, we'll just say something like, we'll give it a class name here in [[React.js|React]], the attribute is called class name because just the plain old attribute name class interferes with the [[JavaScript]] class keyword.
 >
 > **[1:55](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/the-filter-and-not-commands?u=76281980&t=115)** Just sort of a fun fact there.
 >
@@ -2420,7 +2388,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[React.js|React]] (1), [[JavaScript]] (1), css (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[JavaScript]] (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** css (1)
@@ -2428,8 +2396,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Typing special characters
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/typing-special-characters?u=76281980)
+#### [Typing special characters](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/typing-special-characters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2469,15 +2436,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Activating code completion
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/activating-code-completion?u=76281980)
+#### [Activating code completion](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/activating-code-completion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2497,7 +2462,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/activating-code-completion?u=76281980&t=65)** You're going to say reference types="Cypress".
 >
-> **[1:10](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/activating-code-completion?u=76281980&t=70)** That's going to be sort of this HTML tag thing.
+> **[1:10](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/activating-code-completion?u=76281980&t=70)** That's going to be sort of this [[HTML]] tag thing.
 >
 > **[1:13](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/activating-code-completion?u=76281980&t=73)** And once you save it, what you should see is that now whenever you type cy., you can actually see a lot of the options available to you, right?
 >
@@ -2507,14 +2472,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** ide (1), html (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge 3: Writing your own tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/challenge-writing-your-own-tests-24930205?u=76281980)
+#### [Challenge 3: Writing your own tests](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/challenge-writing-your-own-tests-24930205?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2538,14 +2502,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **File Paths:** selecting.cy.js (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution 3: Writing your own tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/solution-writing-your-own-tests-24928747?u=76281980)
+#### [Solution 3: Writing your own tests](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/solution-writing-your-own-tests-24928747?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2605,7 +2567,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -2616,8 +2577,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps with Cypress.io and JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/next-steps-with-cypress-io-and-javascript?u=76281980)
+#### [Next steps with Cypress.io and JavaScript](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/next-steps-with-cypress-io-and-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2627,7 +2587,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/next-steps-with-cypress-io-and-javascript?u=76281980&t=9)** By now, you should be familiar with the basics of Cyprus, as well as some of the more advanced features of this powerful tool.
 >
-> **[0:16](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/next-steps-with-cypress-io-and-javascript?u=76281980&t=16)** Now, if you have questions or want to share your progress, feel free to connect with me on LinkedIn or follow me on X, formerly Twitter, where I regularly post software development related tips and tutorials.
+> **[0:16](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/next-steps-with-cypress-io-and-javascript?u=76281980&t=16)** Now, if you have questions or want to share your progress, feel free to connect with me on [[LinkedIn]] or follow me on X, formerly Twitter, where I regularly post [[Software Development]] related tips and tutorials.
 >
 > **[0:27](https://www.linkedin.com/learning/end-to-end-javascript-testing-with-cypress-io-23936013/next-steps-with-cypress-io-and-javascript?u=76281980&t=27)** And finally, if you're looking for other courses, I would highly recommend checking out some of my other courses in the LinkedIn Learning Library.
 >

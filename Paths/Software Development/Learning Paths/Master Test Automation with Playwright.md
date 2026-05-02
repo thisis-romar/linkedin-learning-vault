@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/master-test-automation-with-playwri
 course_count: 4
 linkedin_topics:
   - Software Development
-louvain_cluster: 7
+louvain_cluster: 12
 tags:
   - learning-path
   - topic/software-development

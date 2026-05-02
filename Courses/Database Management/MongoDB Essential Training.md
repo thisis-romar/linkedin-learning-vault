@@ -113,12 +113,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### An introduction to MongoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/an-introduction-to-mongodb-23754278?u=76281980)
+#### [An introduction to MongoDB](https://www.linkedin.com/learning/mongodb-essential-training/an-introduction-to-mongodb-23754278?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/an-introduction-to-mongodb-23754278?u=76281980&t=0)** - [Naomi] MongoDB is a powerful document database that is popular because of its ease of use for both small and large projects.
+> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/an-introduction-to-mongodb-23754278?u=76281980&t=0)** - [Naomi] [[MongoDB]] is a powerful document database that is popular because of its ease of use for both small and large projects.
 >
 > **[0:08](https://www.linkedin.com/learning/mongodb-essential-training/an-introduction-to-mongodb-23754278?u=76281980&t=8)** This course equips you with the essential skills you need to know to use MongoDB as a developer.
 >
@@ -136,19 +135,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (7), database (2), data (1), [[Programming]] (1), career (1)
+> **Frameworks & Libraries:** [[MongoDB]] (7)
 > **Env Vars:** mql (1), crud (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [naomi] (1)
 
-#### Features of MongoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/features-of-mongodb?u=76281980)
+#### [Features of MongoDB](https://www.linkedin.com/learning/mongodb-essential-training/features-of-mongodb?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/features-of-mongodb?u=76281980&t=0)** - [Instructor] When MongoDB first came out in 2009, it was exceedingly popular with many web developers because of its ease of use.
+> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/features-of-mongodb?u=76281980&t=0)** - [Instructor] When [[MongoDB]] first came out in 2009, it was exceedingly popular with many web developers because of its ease of use.
 >
 > **[0:08](https://www.linkedin.com/learning/mongodb-essential-training/features-of-mongodb?u=76281980&t=8)** It allowed web developers to work with data in the same format they were using in their applications, documents.
 >
@@ -156,7 +154,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/mongodb-essential-training/features-of-mongodb?u=76281980&t=29)** There were, and still are, two other main selling points.
 >
-> **[0:34](https://www.linkedin.com/learning/mongodb-essential-training/features-of-mongodb?u=76281980&t=34)** The first one is that MongoDB was built with distributed systems in mind from the start, allowing users to scale their databases vertically and horizontally.
+> **[0:34](https://www.linkedin.com/learning/mongodb-essential-training/features-of-mongodb?u=76281980&t=34)** The first one is that MongoDB was built with distributed systems in mind from the start, allowing users to scale their [[Databases]] vertically and horizontally.
 >
 > **[0:47](https://www.linkedin.com/learning/mongodb-essential-training/features-of-mongodb?u=76281980&t=47)** And lastly, MongoDB's code is openly available to anyone who wants to see it.
 >
@@ -182,7 +180,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/mongodb-essential-training/features-of-mongodb?u=76281980&t=111)** If you have sensitive data, like a credit card number, you naturally want to encrypt it.
 >
-> **[1:57](https://www.linkedin.com/learning/mongodb-essential-training/features-of-mongodb?u=76281980&t=117)** In most cases when we speak about data being encrypted in a database, that actually only means data is encrypted while it's at rest, not in memory and not in the logs.
+> **[1:57](https://www.linkedin.com/learning/mongodb-essential-training/features-of-mongodb?u=76281980&t=117)** In most cases when we speak about data being encrypted in a database, that actually only means data is encrypted while it's at [[Representational State Transfer (REST)|rest]], not in memory and not in the logs.
 >
 > **[2:07](https://www.linkedin.com/learning/mongodb-essential-training/features-of-mongodb?u=76281980&t=127)** This feature, however, allows you to encrypt sensitive data before it even leaves the client, meaning it's never unencrypted when it's in the database.
 >
@@ -190,7 +188,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (8), data (8), web (2), [[Databases]] (2), database (2)
+> **Frameworks & Libraries:** [[MongoDB]] (8), [[Databases]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** acid (1)
 > **Versions:** version 1 (1)
@@ -202,12 +200,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Self-hosted vs. managed MongoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/self-hosted-vs-managed-mongodb-17229618?u=76281980)
+#### [Self-hosted vs. managed MongoDB](https://www.linkedin.com/learning/mongodb-essential-training/self-hosted-vs-managed-mongodb-17229618?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/self-hosted-vs-managed-mongodb-17229618?u=76281980&t=0)** - [Instructor] Welcome to the MongoDB Essentials Course.
+> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/self-hosted-vs-managed-mongodb-17229618?u=76281980&t=0)** - [Instructor] Welcome to the [[MongoDB]] Essentials Course.
 >
 > **[0:03](https://www.linkedin.com/learning/mongodb-essential-training/self-hosted-vs-managed-mongodb-17229618?u=76281980&t=3)** In this section, we'll install MongoDB, but first, you have to decide where you're going to install MongoDB.
 >
@@ -217,7 +214,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/mongodb-essential-training/self-hosted-vs-managed-mongodb-17229618?u=76281980&t=20)** If you choose to deploy MongoDB on your own resources, there are some responsibilities that come with that.
 >
-> **[0:26](https://www.linkedin.com/learning/mongodb-essential-training/self-hosted-vs-managed-mongodb-17229618?u=76281980&t=26)** The first one is that you need to select and maintain appropriately performant hardware, either locally or in the cloud, and then you need to ensure high availability of that hardware.
+> **[0:26](https://www.linkedin.com/learning/mongodb-essential-training/self-hosted-vs-managed-mongodb-17229618?u=76281980&t=26)** The first one is that you need to select and maintain appropriately performant [[Hardware]], either locally or in the cloud, and then you need to ensure high availability of that hardware.
 >
 > **[0:37](https://www.linkedin.com/learning/mongodb-essential-training/self-hosted-vs-managed-mongodb-17229618?u=76281980&t=37)** Think about running nodes on their own hardware in different data centers or with different cloud providers to maximize this.
 >
@@ -247,43 +244,41 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (15), cloud (4), [[Hardware]] (3), database (2), data (1)
+> **Frameworks & Libraries:** [[MongoDB]] (15), [[Hardware]] (3)
 > **Prerequisites:** install (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enterprise vs. Community
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/enterprise-vs-community?u=76281980)
+#### [Enterprise vs. Community](https://www.linkedin.com/learning/mongodb-essential-training/enterprise-vs-community?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/enterprise-vs-community?u=76281980&t=0)** - There are two different versions of MongoDB that you can install on your machine, MongoDB Community and MongoDB Enterprise.
+> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/enterprise-vs-community?u=76281980&t=0)** - There are two different versions of [[MongoDB]] that you can install on your machine, MongoDB Community and MongoDB Enterprise.
 >
-> **[0:08](https://www.linkedin.com/learning/mongodb-essential-training/enterprise-vs-community?u=76281980&t=8)** The core features for developers are the same, but MongoDB Enterprise offers advanced security options, additional storage engines, management tools, the MongoDB Enterprise operator for Kubernetes, and the MongoDB Connector for BI, which is going to be interesting for you if you are used to interfacing with a database using SQL or any tools that use SQL.
+> **[0:08](https://www.linkedin.com/learning/mongodb-essential-training/enterprise-vs-community?u=76281980&t=8)** The core features for developers are the same, but MongoDB Enterprise offers advanced security options, additional storage engines, management tools, the MongoDB Enterprise operator for [[Kubernetes]], and the MongoDB Connector for BI, which is going to be interesting for you if you are used to interfacing with a database using [[SQL]] or any tools that use SQL.
 >
 > **[0:32](https://www.linkedin.com/learning/mongodb-essential-training/enterprise-vs-community?u=76281980&t=32)** For this course, we are going be using MongoDB Community.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (7), [[SQL]] (2), [[Security]] (1), management (1), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (7), [[SQL]] (2), [[Kubernetes]] (1)
 > **Env Vars:** sql (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - there (1)
 
-#### Install MongoDB on Mac
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/install-mongodb-on-mac?u=76281980)
+#### [Install MongoDB on Mac](https://www.linkedin.com/learning/mongodb-essential-training/install-mongodb-on-mac?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/install-mongodb-on-mac?u=76281980&t=0)** - [Instructor] In this video, we are going to install MongoDB, the MongoDB shell, and the MongoDB tools on a Mac.
+> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/install-mongodb-on-mac?u=76281980&t=0)** - [Instructor] In this video, we are going to install [[MongoDB]], the MongoDB shell, and the MongoDB tools on a Mac.
 >
 > **[0:08](https://www.linkedin.com/learning/mongodb-essential-training/install-mongodb-on-mac?u=76281980&t=8)** If you are not on a Mac, please watch one of the other two videos.
 >
 > **[0:13](https://www.linkedin.com/learning/mongodb-essential-training/install-mongodb-on-mac?u=76281980&t=13)** My favorite way of installing MongoDB is using a tool called m, which is a MongoDB version manager that allows you to have multiple versions of MongoDB installed at the same time.
 >
-> **[0:26](https://www.linkedin.com/learning/mongodb-essential-training/install-mongodb-on-mac?u=76281980&t=26)** To install m, we're going need something called npm, which is the Node Package Manager.
+> **[0:26](https://www.linkedin.com/learning/mongodb-essential-training/install-mongodb-on-mac?u=76281980&t=26)** To install m, we're going need something called [[npm]], which is the Node Package Manager.
 >
 > **[0:35](https://www.linkedin.com/learning/mongodb-essential-training/install-mongodb-on-mac?u=76281980&t=35)** If you don't have Node installed already, I recommend you look for something called nvm, which is the Node Version Manager, and use it to install the latest version of Node.
 >
@@ -345,7 +340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (13), node (6), [[npm]] (2), next (2), database (2)
+> **Frameworks & Libraries:** [[MongoDB]] (13), [[npm]] (2)
 > **CLI Commands:** node (6), npm (2), brew (2), make (1)
 > **Prerequisites:** install (9)
 > **Versions:** 5.3.0 (1), version 5 (1), version 1 (1), 2.3 (1)
@@ -354,12 +349,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 
-#### Install MongoDB on Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/install-mongodb-on-windows-23758173?u=76281980)
+#### [Install MongoDB on Windows](https://www.linkedin.com/learning/mongodb-essential-training/install-mongodb-on-windows-23758173?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/install-mongodb-on-windows-23758173?u=76281980&t=0)** - [Instructor] In this video, we're going to install MongoDB, the MongoDB shell, and the MongoDB tools on Windows without using WSL, the Windows subsystem for Linux.
+> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/install-mongodb-on-windows-23758173?u=76281980&t=0)** - [Instructor] In this video, we're going to install [[MongoDB]], the MongoDB shell, and the MongoDB tools on [[Windows]] without using WSL, the Windows subsystem for [[Linux]].
 >
 > **[0:11](https://www.linkedin.com/learning/mongodb-essential-training/install-mongodb-on-windows-23758173?u=76281980&t=11)** If you're not on Windows, please watch one of the other videos.
 >
@@ -423,7 +417,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/mongodb-essential-training/install-mongodb-on-windows-23758173?u=76281980&t=227)** And it's returning the version, which means it is installed correctly.
 >
-> **[3:52](https://www.linkedin.com/learning/mongodb-essential-training/install-mongodb-on-windows-23758173?u=76281980&t=232)** Now while we are here, I want to point out that for the rest of this course, we will be using the Linux syntax, well I will be using the Linux syntax when I am starting MongoDB.
+> **[3:52](https://www.linkedin.com/learning/mongodb-essential-training/install-mongodb-on-windows-23758173?u=76281980&t=232)** Now while we are here, I want to point out that for the [[Representational State Transfer (REST)|rest]] of this course, we will be using the Linux syntax, well I will be using the Linux syntax when I am starting MongoDB.
 >
 > **[4:04](https://www.linkedin.com/learning/mongodb-essential-training/install-mongodb-on-windows-23758173?u=76281980&t=244)** So whenever you see the command Mongo D, you will have to add dot exe at the end of it for it to work on your machine.
 >
@@ -505,7 +499,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (35), next (12), [[Windows]] (10), [[Linux]] (3), prompt (3)
+> **Frameworks & Libraries:** [[MongoDB]] (35), [[Windows]] (10), [[Linux]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (20), go to (6), scroll down (4), select the (2)
 > **Prerequisites:** install (16)
 > **CLI Commands:** mongo (7), find (5), make (1)
@@ -514,12 +508,11 @@ created: 2026-05-02
 > **Versions:** version 2 (1), 2.2 (1), 2.2.2 (1)
 > **Cross-References:** go back to (1), in the next (1)
 
-#### Install MongoDB on Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/install-mongodb-on-linux?u=76281980)
+#### [Install MongoDB on Linux](https://www.linkedin.com/learning/mongodb-essential-training/install-mongodb-on-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/install-mongodb-on-linux?u=76281980&t=0)** - In this video, we're going to install MongoDB, the MongoDB Shell and the MongoDB tools on Linux.
+> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/install-mongodb-on-linux?u=76281980&t=0)** - In this video, we're going to install [[MongoDB]], the MongoDB Shell and the MongoDB tools on [[Linux]].
 >
 > **[0:08](https://www.linkedin.com/learning/mongodb-essential-training/install-mongodb-on-linux?u=76281980&t=8)** If you are not using Linux, please watch one of the other two videos.
 >
@@ -607,7 +600,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (15), node (8), database (3), [[Linux]] (2), next (2)
+> **Frameworks & Libraries:** [[MongoDB]] (15), [[Linux]] (2)
 > **CLI Commands:** node (8), sudo (2), apt (2), make (1)
 > **Prerequisites:** install (9)
 > **Tools:** terminal (2), command line (1)
@@ -621,12 +614,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mongod
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/mongod?u=76281980)
+#### [Mongod](https://www.linkedin.com/learning/mongodb-essential-training/mongod?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/mongod?u=76281980&t=0)** - [Instructor] A mongod is a daemon process for MongoDB.
+> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/mongod?u=76281980&t=0)** - [Instructor] A mongod is a daemon process for [[MongoDB]].
 >
 > **[0:04](https://www.linkedin.com/learning/mongodb-essential-training/mongod?u=76281980&t=4)** You could say it is the core unit of MongoDB.
 >
@@ -668,7 +660,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/mongodb-essential-training/mongod?u=76281980&t=153)** Okay, so from the MongoDB shell, you can now run all of the normal MongoDB commands.
 >
-> **[2:39](https://www.linkedin.com/learning/mongodb-essential-training/mongod?u=76281980&t=159)** So, one command that you can run for example is show databases, and that will then show you the default databases that are present in your deployment.
+> **[2:39](https://www.linkedin.com/learning/mongodb-essential-training/mongod?u=76281980&t=159)** So, one command that you can run for example is show [[Databases]], and that will then show you the default databases that are present in your deployment.
 >
 > **[2:50](https://www.linkedin.com/learning/mongodb-essential-training/mongod?u=76281980&t=170)** You can also already store inquiry data so you could say db.test.insertone and then say, hello world and that would get inserted.
 >
@@ -688,7 +680,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (16), data (7), database (2), next (2), [[Databases]] (2)
+> **Frameworks & Libraries:** [[MongoDB]] (16), [[Databases]] (2)
 > **Tools:** terminal (2), command line (1)
 > **CLI Commands:** cd (1), make (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -697,14 +689,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Replica set
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/replica-set?u=76281980)
+#### [Replica set](https://www.linkedin.com/learning/mongodb-essential-training/replica-set?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/replica-set?u=76281980&t=0)** - [Instructor] When multiple Mongo D instances work together and maintain the same data set they are called a replica set.
 >
-> **[0:08](https://www.linkedin.com/learning/mongodb-essential-training/replica-set?u=76281980&t=8)** Let's say you configured your MongoDB deployment to be a three member replica set with three normal replica set members.
+> **[0:08](https://www.linkedin.com/learning/mongodb-essential-training/replica-set?u=76281980&t=8)** Let's say you configured your [[MongoDB]] deployment to be a three member replica set with three normal replica set members.
 >
 > **[0:17](https://www.linkedin.com/learning/mongodb-essential-training/replica-set?u=76281980&t=17)** In a replica set, the Mongo D processes take on different roles.
 >
@@ -712,7 +703,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/mongodb-essential-training/replica-set?u=76281980&t=30)** The primary receives all right operations.
 >
-> **[0:34](https://www.linkedin.com/learning/mongodb-essential-training/replica-set?u=76281980&t=34)** The rest of the replica set members are secondaries.
+> **[0:34](https://www.linkedin.com/learning/mongodb-essential-training/replica-set?u=76281980&t=34)** The [[Representational State Transfer (REST)|rest]] of the replica set members are secondaries.
 >
 > **[0:39](https://www.linkedin.com/learning/mongodb-essential-training/replica-set?u=76281980&t=39)** Secondaries replicate right operations from the primary asynchronously to maintain exactly the same data set.
 >
@@ -750,15 +741,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[MongoDB]] (3), database (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[MongoDB]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** mongo (4)
 > **Prerequisites:** configure (2), set up (1)
 > **Best Practices:** recommended (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up a replica set from the command line
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/set-up-a-replica-set-from-the-command-line?u=76281980)
+#### [Set up a replica set from the command line](https://www.linkedin.com/learning/mongodb-essential-training/set-up-a-replica-set-from-the-command-line?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -794,7 +784,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/mongodb-essential-training/set-up-a-replica-set-from-the-command-line?u=76281980&t=76)** I'm going to do that by typing in openssl rand, and it already auto-completes dash base64 755 then into a file called keyfile.
 >
-> **[1:30](https://www.linkedin.com/learning/mongodb-essential-training/set-up-a-replica-set-from-the-command-line?u=76281980&t=90)** And now you can run MongoDB without enabling authentication, but it is fairly easy to enable key file authentication which then provides a minimum of security between members of the replica set.
+> **[1:30](https://www.linkedin.com/learning/mongodb-essential-training/set-up-a-replica-set-from-the-command-line?u=76281980&t=90)** And now you can run [[MongoDB]] without enabling authentication, but it is fairly easy to enable key file authentication which then provides a minimum of security between members of the replica set.
 >
 > **[1:43](https://www.linkedin.com/learning/mongodb-essential-training/set-up-a-replica-set-from-the-command-line?u=76281980&t=103)** For production environments, it is recommended you use X.509 certificate instead.
 >
@@ -928,7 +918,7 @@ created: 2026-05-02
 >
 > **[7:38](https://www.linkedin.com/learning/mongodb-essential-training/set-up-a-replica-set-from-the-command-line?u=76281980&t=458)** Right.
 >
-> **[7:38](https://www.linkedin.com/learning/mongodb-essential-training/set-up-a-replica-set-from-the-command-line?u=76281980&t=458)** And inside the parenthesis, we're going pass an argument that is a JSON document.
+> **[7:38](https://www.linkedin.com/learning/mongodb-essential-training/set-up-a-replica-set-from-the-command-line?u=76281980&t=458)** And inside the parenthesis, we're going pass an argument that is a [[JSON]] document.
 >
 > **[7:45](https://www.linkedin.com/learning/mongodb-essential-training/set-up-a-replica-set-from-the-command-line?u=76281980&t=465)** And we are going specify as the username, a name.
 >
@@ -1044,7 +1034,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), database (7), [[MongoDB]] (2), [[Security]] (1), data (1)
+> **Frameworks & Libraries:** [[MongoDB]] (2), [[JSON]] (1)
 > **Code Identifiers:** passwordprompt (2), replset (1), myreplset (1), dbpath (1), createuser (1)
 > **CLI Commands:** make (2), chmod (1), mkdir (1), ls (1), cd (1)
 > **Tools:** terminal (3), command line (2)
@@ -1053,14 +1043,13 @@ created: 2026-05-02
 > **Best Practices:** recommended (2)
 > **Env Vars:** json (1)
 
-#### Set up a replica set with config files
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/set-up-a-replica-set-with-config-files?u=76281980)
+#### [Set up a replica set with config files](https://www.linkedin.com/learning/mongodb-essential-training/set-up-a-replica-set-with-config-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/set-up-a-replica-set-with-config-files?u=76281980&t=0)** - [Instructor] In this video, we are going to create a three-member replica set using configuration files.
 >
-> **[0:08](https://www.linkedin.com/learning/mongodb-essential-training/set-up-a-replica-set-with-config-files?u=76281980&t=8)** Config files should be used for any production deployment, because they are easier to use and manage, and you can check them into version control.
+> **[0:08](https://www.linkedin.com/learning/mongodb-essential-training/set-up-a-replica-set-with-config-files?u=76281980&t=8)** Config files should be used for any production deployment, because they are easier to use and manage, and you can check them into [[Version Control]].
 >
 > **[0:16](https://www.linkedin.com/learning/mongodb-essential-training/set-up-a-replica-set-with-config-files?u=76281980&t=16)** Let's go to the terminal.
 >
@@ -1068,7 +1057,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/mongodb-essential-training/set-up-a-replica-set-with-config-files?u=76281980&t=30)** The next thing I'm going to do is I'm going to create a key file for our deployment.
 >
-> **[0:38](https://www.linkedin.com/learning/mongodb-essential-training/set-up-a-replica-set-with-config-files?u=76281980&t=38)** You can run MongoDB without enabling authentication.
+> **[0:38](https://www.linkedin.com/learning/mongodb-essential-training/set-up-a-replica-set-with-config-files?u=76281980&t=38)** You can run [[MongoDB]] without enabling authentication.
 >
 > **[0:42](https://www.linkedin.com/learning/mongodb-essential-training/set-up-a-replica-set-with-config-files?u=76281980&t=42)** But it is fairly easy to enable key file authentication which then provides a minimum of security between members of the replica set.
 >
@@ -1368,7 +1357,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), database (7), [[MongoDB]] (6), [[Security]] (2), hit (2)
+> **Frameworks & Libraries:** [[MongoDB]] (6), [[Version Control]] (1)
 > **Code Identifiers:** bindip (1), processmanagement (1), replsetname (1), dbpath (1), createuser (1)
 > **Tools:** terminal (6), visual studio (1)
 > **CLI Commands:** make (3), cd (1), mkdir (1)
@@ -1377,18 +1366,17 @@ created: 2026-05-02
 > **Analogies:** for example (1), just like (1)
 > **UI Navigation:** go to (1)
 
-#### Import the sample data
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/import-the-sample-data?u=76281980)
+#### [Import the sample data](https://www.linkedin.com/learning/mongodb-essential-training/import-the-sample-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/import-the-sample-data?u=76281980&t=0)** - [Instructor] When you installed MongoDB earlier, you also installed the MongoDB database tools.
+> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/import-the-sample-data?u=76281980&t=0)** - [Instructor] When you installed [[MongoDB]] earlier, you also installed the MongoDB database tools.
 >
-> **[0:06](https://www.linkedin.com/learning/mongodb-essential-training/import-the-sample-data?u=76281980&t=6)** They include mongostat to get statistics on a running mongod, mongodump which allows you to export dump files from MongoDB collections in BSON, mongorestore which allows you to import dump files from MongoDB collections that were stored in BSON, mongoexport which allows you to export collection data to JSON or BSON.
+> **[0:06](https://www.linkedin.com/learning/mongodb-essential-training/import-the-sample-data?u=76281980&t=6)** They include mongostat to get [[Statistics]] on a running mongod, mongodump which allows you to export dump files from MongoDB collections in BSON, mongorestore which allows you to import dump files from MongoDB collections that were stored in BSON, mongoexport which allows you to export collection data to [[JSON]] or BSON.
 >
 > **[0:31](https://www.linkedin.com/learning/mongodb-essential-training/import-the-sample-data?u=76281980&t=31)** And the one we are looking for, mongoimport, which allows you to import collection data from JSON or CSV files.
 >
-> **[0:41](https://www.linkedin.com/learning/mongodb-essential-training/import-the-sample-data?u=76281980&t=41)** The datasets that we are going to use for this course are in this GitHub Repo.
+> **[0:41](https://www.linkedin.com/learning/mongodb-essential-training/import-the-sample-data?u=76281980&t=41)** The datasets that we are going to use for this course are in this [[GitHub]] Repo.
 >
 > **[0:48](https://www.linkedin.com/learning/mongodb-essential-training/import-the-sample-data?u=76281980&t=48)** Please pause this video and download them to the MongoDB essentials folder that you have created for this course.
 >
@@ -1446,7 +1434,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[MongoDB]] (5), [[JSON]] (5), data (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (5), [[JSON]] (5), [[Statistics]] (1), [[GitHub]] (1)
 > **Env Vars:** bson (3), json (2), csv (1)
 > **File Paths:** inventory.json (1), movies.json (1), orders.json (1)
 > **Code Identifiers:** sample_data (1)
@@ -1455,12 +1443,11 @@ created: 2026-05-02
 > **Exercise Files:** github repo (1)
 > **Speakers:** - [instructor] (1)
 
-#### Debug
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/debug?u=76281980)
+#### [Debug](https://www.linkedin.com/learning/mongodb-essential-training/debug?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/debug?u=76281980&t=0)** - [Instructor] If you encounter any issues while setting up your MongoDB deployment or later on while using it, there are few common things you can do to debug your issue.
+> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/debug?u=76281980&t=0)** - [Instructor] If you encounter any issues while setting up your [[MongoDB]] deployment or later on while using it, there are few common things you can do to debug your issue.
 >
 > **[0:10](https://www.linkedin.com/learning/mongodb-essential-training/debug?u=76281980&t=10)** If your database is failing to start, first, check the log files at the location that we specified, in our case m1/mongod.log, et cetera.
 >
@@ -1530,7 +1517,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), database (3), [[Search]] (2), [[MongoDB]] (1), data (1)
+> **Frameworks & Libraries:** [[MongoDB]] (1)
 > **Code Identifiers:** loglevel (3), admincommand (2), getllogcomponents (1), setparameter (1)
 > **Definitions:** means that (1), is a  (1)
 > **File Paths:** db.oplog.rs (1)
@@ -1544,12 +1531,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The document model
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/the-document-model-17231550?u=76281980)
+#### [The document model](https://www.linkedin.com/learning/mongodb-essential-training/the-document-model-17231550?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/the-document-model-17231550?u=76281980&t=0)** - [Instructor] One of the main features that differentiates MongoDB from many of the databases is that it is built to natively work with JSON documents.
+> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/the-document-model-17231550?u=76281980&t=0)** - [Instructor] One of the main features that differentiates [[MongoDB]] from many of the [[Databases]] is that it is built to natively work with [[JSON]] documents.
 >
 > **[0:10](https://www.linkedin.com/learning/mongodb-essential-training/the-document-model-17231550?u=76281980&t=10)** If your application uses JSON to work with data, using MongoDB can save you a lot of time because you can store data as is.
 >
@@ -1573,23 +1559,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (7), data (5), [[MongoDB]] (4), [[Databases]] (1), application (1)
+> **Frameworks & Libraries:** [[JSON]] (7), [[MongoDB]] (4), [[Databases]] (1)
 > **Env Vars:** json (7), bson (4)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Warnings:** caveat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Namespaces, collections, documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/namespaces-collections-documents?u=76281980)
+#### [Namespaces, collections, documents](https://www.linkedin.com/learning/mongodb-essential-training/namespaces-collections-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/namespaces-collections-documents?u=76281980&t=0)** - [Instructor] From a technical point of view, this represents a MongoDB deployment with one replica set with three MongoDBs.
+> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/namespaces-collections-documents?u=76281980&t=0)** - [Instructor] From a technical point of view, this represents a [[MongoDB]] deployment with one replica set with three MongoDBs.
 >
 > **[0:09](https://www.linkedin.com/learning/mongodb-essential-training/namespaces-collections-documents?u=76281980&t=9)** But when you are using the database, most of the underlying architecture is stripped away.
 >
-> **[0:15](https://www.linkedin.com/learning/mongodb-essential-training/namespaces-collections-documents?u=76281980&t=15)** Inside your MongoDB deployment, your data is organized into databases.
+> **[0:15](https://www.linkedin.com/learning/mongodb-essential-training/namespaces-collections-documents?u=76281980&t=15)** Inside your MongoDB deployment, your data is organized into [[Databases]].
 >
 > **[0:20](https://www.linkedin.com/learning/mongodb-essential-training/namespaces-collections-documents?u=76281980&t=20)** It may be confusing to hear that there can be multiple databases inside your database.
 >
@@ -1661,7 +1646,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[MongoDB]] (8), data (3), [[Databases]] (3), application (1)
+> **Frameworks & Libraries:** [[MongoDB]] (8), [[Databases]] (3)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Tools:** terminal (1)
@@ -1669,12 +1654,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### MongoDB Query Language
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/mongodb-query-language?u=76281980)
+#### [MongoDB Query Language](https://www.linkedin.com/learning/mongodb-essential-training/mongodb-query-language?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/mongodb-query-language?u=76281980&t=0)** - [Instructor] Now you know what data inside MongoDB looks like.
+> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/mongodb-query-language?u=76281980&t=0)** - [Instructor] Now you know what data inside [[MongoDB]] looks like.
 >
 > **[0:03](https://www.linkedin.com/learning/mongodb-essential-training/mongodb-query-language?u=76281980&t=3)** The next thing you need to know is how to access that data.
 >
@@ -1684,7 +1668,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/mongodb-essential-training/mongodb-query-language?u=76281980&t=21)** MQL allows you to perform, create, read, update, and delete operations, also called CRUD.
 >
-> **[0:30](https://www.linkedin.com/learning/mongodb-essential-training/mongodb-query-language?u=76281980&t=30)** If you're familiar with JavaScript, using the shell will probably feel very natural for you.
+> **[0:30](https://www.linkedin.com/learning/mongodb-essential-training/mongodb-query-language?u=76281980&t=30)** If you're familiar with [[JavaScript]], using the shell will probably feel very natural for you.
 >
 > **[0:36](https://www.linkedin.com/learning/mongodb-essential-training/mongodb-query-language?u=76281980&t=36)** If you're not, don't worry.
 >
@@ -1842,7 +1826,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (9), next (4), data (2), database (2), api (1)
+> **Frameworks & Libraries:** [[MongoDB]] (9), [[JavaScript]] (1)
 > **CLI Commands:** find (11)
 > **Code Identifiers:** insertmany (2), insertone (1), findone (1), updateone (1), deleteone (1)
 > **Env Vars:** mql (2), crud (2), api (1)
@@ -1851,8 +1835,7 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Warnings:** be aware (1)
 
-#### Indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/indexes-20700686?u=76281980)
+#### [Indexes](https://www.linkedin.com/learning/mongodb-essential-training/indexes-20700686?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1870,7 +1853,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/mongodb-essential-training/indexes-20700686?u=76281980&t=30)** Now getting the phone numbers is a lot easier.
 >
-> **[0:33](https://www.linkedin.com/learning/mongodb-essential-training/indexes-20700686?u=76281980&t=33)** Indexes work in a similar way in databases.
+> **[0:33](https://www.linkedin.com/learning/mongodb-essential-training/indexes-20700686?u=76281980&t=33)** Indexes work in a similar way in [[Databases]].
 >
 > **[0:36](https://www.linkedin.com/learning/mongodb-essential-training/indexes-20700686?u=76281980&t=36)** When you perform a query on your database, the operation needs to find the data you are looking for.
 >
@@ -1882,7 +1865,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/mongodb-essential-training/indexes-20700686?u=76281980&t=69)** If the data you are querying is present in the subset of data in an index, the database only needs to check the index.
 >
-> **[1:17](https://www.linkedin.com/learning/mongodb-essential-training/indexes-20700686?u=76281980&t=77)** Queries that can be answered completely with just the index are called covered queries in MongoDB.
+> **[1:17](https://www.linkedin.com/learning/mongodb-essential-training/indexes-20700686?u=76281980&t=77)** Queries that can be answered completely with just the index are called covered queries in [[MongoDB]].
 >
 > **[1:24](https://www.linkedin.com/learning/mongodb-essential-training/indexes-20700686?u=76281980&t=84)** And these queries are very performant.
 >
@@ -1934,7 +1917,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/mongodb-essential-training/indexes-20700686?u=76281980&t=258)** All right, let me show you how to create an index.
 >
-> **[4:21](https://www.linkedin.com/learning/mongodb-essential-training/indexes-20700686?u=76281980&t=261)** So for our office collection, let's remind ourselves what that looked like.
+> **[4:21](https://www.linkedin.com/learning/mongodb-essential-training/indexes-20700686?u=76281980&t=261)** So for our [[Microsoft Office|office]] collection, let's remind ourselves what that looked like.
 >
 > **[4:25](https://www.linkedin.com/learning/mongodb-essential-training/indexes-20700686?u=76281980&t=265)** So db.authors.find.
 >
@@ -1954,7 +1937,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), database (7), [[Search]] (2), [[MongoDB]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (2), [[Databases]] (1), [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (3), is called (2)
 > **CLI Commands:** find (3), make (1)
 > **Code Identifiers:** geohaystack (1), createindex (1)
@@ -1962,8 +1945,7 @@ created: 2026-05-02
 > **Env Vars:** ram (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/challenge-indexes?u=76281980)
+#### [Challenge: Indexes](https://www.linkedin.com/learning/mongodb-essential-training/challenge-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1981,12 +1963,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), business (1)
 > **Speakers:** - [educator] (1)
 > **Non-Speech:** (electronic music) (1)
 
-#### Solution: Indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/solution-indexes?u=76281980)
+#### [Solution: Indexes](https://www.linkedin.com/learning/mongodb-essential-training/solution-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2038,13 +2018,13 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/mongodb-essential-training/solution-indexes?u=76281980&t=151)** You could have created the document differently and your indexes may look a bit different, that is fine.
 >
-> **[2:37](https://www.linkedin.com/learning/mongodb-essential-training/solution-indexes?u=76281980&t=157)** But these are the things that you should think about when you create the collections and databases and the records and indexes.
+> **[2:37](https://www.linkedin.com/learning/mongodb-essential-training/solution-indexes?u=76281980&t=157)** But these are the things that you should think about when you create the collections and [[Databases]] and the records and indexes.
 >
 > **[2:46](https://www.linkedin.com/learning/mongodb-essential-training/solution-indexes?u=76281980&t=166)** All right, I will see in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), database (2), data (1), application (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Code Identifiers:** insertone (1), findone (1), createindex (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -2057,8 +2037,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### insertOne and insertMany
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/insertone-and-insertmany-17234000?u=76281980)
+#### [insertOne and insertMany](https://www.linkedin.com/learning/mongodb-essential-training/insertone-and-insertmany-17234000?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2070,7 +2049,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/mongodb-essential-training/insertone-and-insertmany-17234000?u=76281980&t=25)** Durability is a property that guarantees that acknowledged writes are permanently stored in the database, even if the database or parts thereof become temporarily unavailable.
 >
-> **[0:38](https://www.linkedin.com/learning/mongodb-essential-training/insertone-and-insertmany-17234000?u=76281980&t=38)** In MongoDB, you can configure the level of durability.
+> **[0:38](https://www.linkedin.com/learning/mongodb-essential-training/insertone-and-insertmany-17234000?u=76281980&t=38)** In [[MongoDB]], you can configure the level of durability.
 >
 > **[0:43](https://www.linkedin.com/learning/mongodb-essential-training/insertone-and-insertmany-17234000?u=76281980&t=43)** You can choose to have high durability, but then writes will be slower, or you can choose to have low durability, but faster writes.
 >
@@ -2142,7 +2121,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[MongoDB]] (5), data (4), application (2), power (1)
+> **Frameworks & Libraries:** [[MongoDB]] (5)
 > **Code Identifiers:** writeconcern (11), insertone (1), insertmany (1)
 > **Versions:** 5.0 (1)
 > **Definitions:** is a  (1)
@@ -2151,8 +2130,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### findOne and find
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/findone-and-find?u=76281980)
+#### [findOne and find](https://www.linkedin.com/learning/mongodb-essential-training/findone-and-find?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2162,11 +2140,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/mongodb-essential-training/findone-and-find?u=76281980&t=20)** And you can find many documents at once with a .find command.
 >
-> **[0:25](https://www.linkedin.com/learning/mongodb-essential-training/findone-and-find?u=76281980&t=25)** Let's look at the data that we imported into our MongoDB database in the beginning.
+> **[0:25](https://www.linkedin.com/learning/mongodb-essential-training/findone-and-find?u=76281980&t=25)** Let's look at the data that we imported into our [[MongoDB]] database in the beginning.
 >
 > **[0:33](https://www.linkedin.com/learning/mongodb-essential-training/findone-and-find?u=76281980&t=33)** Okay, to do this, we're going to have to switch database to our sample data database.
 >
-> **[0:39](https://www.linkedin.com/learning/mongodb-essential-training/findone-and-find?u=76281980&t=39)** Just to remind you, if you want to see what all of the databases in your MongoDB deployment look like, you can get that by typing in show dbs and that will return all of the databases that are in your deployment.
+> **[0:39](https://www.linkedin.com/learning/mongodb-essential-training/findone-and-find?u=76281980&t=39)** Just to remind you, if you want to see what all of the [[Databases]] in your MongoDB deployment look like, you can get that by typing in show dbs and that will return all of the databases that are in your deployment.
 >
 > **[0:53](https://www.linkedin.com/learning/mongodb-essential-training/findone-and-find?u=76281980&t=53)** All right, so we want to use the sample data database.
 >
@@ -2288,7 +2266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), database (5), [[MongoDB]] (4), [[Databases]] (2), concurrent (1)
+> **Frameworks & Libraries:** [[MongoDB]] (4), [[Databases]] (2)
 > **CLI Commands:** find (12), make (1), node (1)
 > **Env Vars:** mndb (4)
 > **Code Identifiers:** findone (2), readconcern (1)
@@ -2297,14 +2275,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 
-#### Comparison operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/comparison-operators?u=76281980)
+#### [Comparison operators](https://www.linkedin.com/learning/mongodb-essential-training/comparison-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/comparison-operators?u=76281980&t=0)** - [Instructor] Let's talk about using comparison operators.
 >
-> **[0:03](https://www.linkedin.com/learning/mongodb-essential-training/comparison-operators?u=76281980&t=3)** There are eight comparison operators that you can use in MongoDB.
+> **[0:03](https://www.linkedin.com/learning/mongodb-essential-training/comparison-operators?u=76281980&t=3)** There are eight comparison operators that you can use in [[MongoDB]].
 >
 > **[0:08](https://www.linkedin.com/learning/mongodb-essential-training/comparison-operators?u=76281980&t=8)** The first six are the common ones you'd expect, $eq for equal, $gt for greater than, $gte for greater than or equal, $lt for less than, $lte for less than or equal and $ne for not equal.
 >
@@ -2432,7 +2409,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[MongoDB]] (1), data (1), database (1)
+> **Frameworks & Libraries:** [[MongoDB]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** findone (2)
@@ -2441,12 +2418,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 
-#### Logical operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/logical-operators?u=76281980)
+#### [Logical operators](https://www.linkedin.com/learning/mongodb-essential-training/logical-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/logical-operators?u=76281980&t=0)** - [Instructor] There are four logical operators that you can use in MongoDB, $and, $or, $nor and $not.
+> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/logical-operators?u=76281980&t=0)** - [Instructor] There are four logical operators that you can use in [[MongoDB]], $and, $or, $nor and $not.
 >
 > **[0:11](https://www.linkedin.com/learning/mongodb-essential-training/logical-operators?u=76281980&t=11)** Let's look at each one separately.
 >
@@ -2578,15 +2554,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), data (2), [[MongoDB]] (1), database (1)
+> **Frameworks & Libraries:** [[MongoDB]] (1)
 > **Analogies:** for example (3)
 > **Code Identifiers:** findone (2)
 > **Cross-References:** in the last (1), in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sort, skip, limit
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/sort-skip-limit?u=76281980)
+#### [Sort, skip, limit](https://www.linkedin.com/learning/mongodb-essential-training/sort-skip-limit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2646,7 +2621,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/mongodb-essential-training/sort-skip-limit?u=76281980&t=206)** That will make this query a lot faster and not waste any resources sorting data over and over again.
 >
-> **[3:34](https://www.linkedin.com/learning/mongodb-essential-training/sort-skip-limit?u=76281980&t=214)** However, if this is not a common query pattern or you can't add an index, using a sort with a limit, will make the query return faster because MongoDB can use a faster sorting algorithm to only return the top end results.
+> **[3:34](https://www.linkedin.com/learning/mongodb-essential-training/sort-skip-limit?u=76281980&t=214)** However, if this is not a common query pattern or you can't add an index, using a sort with a limit, will make the query return faster because [[MongoDB]] can use a faster sorting algorithm to only return the top end results.
 >
 > **[3:52](https://www.linkedin.com/learning/mongodb-essential-training/sort-skip-limit?u=76281980&t=232)** The second thing you should know is that if you use sort, skip and limit in combination, you can specify them in any order you like.
 >
@@ -2654,14 +2629,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), [[MongoDB]] (2), application (1), database (1)
+> **Frameworks & Libraries:** [[MongoDB]] (2)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is a  (3)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### updateOne and updateMany
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/updateone-and-updatemany?u=76281980)
+#### [updateOne and updateMany](https://www.linkedin.com/learning/mongodb-essential-training/updateone-and-updatemany?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2721,7 +2695,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/mongodb-essential-training/updateone-and-updatemany?u=76281980&t=139)** If you want to update documents, if you want to update multiple documents you can do that with the updateMany() method.
 >
-> **[2:27](https://www.linkedin.com/learning/mongodb-essential-training/updateone-and-updatemany?u=76281980&t=147)** So, let's do that, db.office.updateMany().
+> **[2:27](https://www.linkedin.com/learning/mongodb-essential-training/updateone-and-updatemany?u=76281980&t=147)** So, let's do that, db.[[Microsoft Office|office]].updateMany().
 >
 > **[2:34](https://www.linkedin.com/learning/mongodb-essential-training/updateone-and-updatemany?u=76281980&t=154)** And what we could do here is match all of them.
 >
@@ -2773,15 +2747,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[Search]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Code Identifiers:** updateone (5), updatemany (2)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - we (1)
 
-#### Arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/arrays?u=76281980)
+#### [Arrays](https://www.linkedin.com/learning/mongodb-essential-training/arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2801,7 +2774,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/mongodb-essential-training/arrays?u=76281980&t=55)** It doesn't matter that there is an array here.
 >
-> **[0:59](https://www.linkedin.com/learning/mongodb-essential-training/arrays?u=76281980&t=59)** What mongodb is going to do is it's going to check whether comedy is any value inside the array.
+> **[0:59](https://www.linkedin.com/learning/mongodb-essential-training/arrays?u=76281980&t=59)** What [[MongoDB]] is going to do is it's going to check whether comedy is any value inside the array.
 >
 > **[1:07](https://www.linkedin.com/learning/mongodb-essential-training/arrays?u=76281980&t=67)** So here, for example, we get back multiple documents.
 >
@@ -2955,7 +2928,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (2), data (1), database (1), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (2)
 > **Code Identifiers:** elemmatch (4), findone (2), updateone (2), negativeone (1)
 > **CLI Commands:** find (3), make (2)
 > **Analogies:** for example (4)
@@ -2963,12 +2936,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - in (1)
 
-#### Transactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/transactions-17233181?u=76281980)
+#### [Transactions](https://www.linkedin.com/learning/mongodb-essential-training/transactions-17233181?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/transactions-17233181?u=76281980&t=0)** - [Instructor] In MongoDB, an operation on a single document is atomic.
+> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/transactions-17233181?u=76281980&t=0)** - [Instructor] In [[MongoDB]], an operation on a single document is atomic.
 >
 > **[0:06](https://www.linkedin.com/learning/mongodb-essential-training/transactions-17233181?u=76281980&t=6)** If person A issues a command to change some values in a document and person B issues a command to read the same document, there are two things that can happen.
 >
@@ -2988,7 +2960,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/mongodb-essential-training/transactions-17233181?u=76281980&t=74)** The database cannot end up in a state where only some of the rights in a transaction have happened.
 >
-> **[1:21](https://www.linkedin.com/learning/mongodb-essential-training/transactions-17233181?u=76281980&t=81)** Transactions can be used across multiple operations, documents, collections, and databases.
+> **[1:21](https://www.linkedin.com/learning/mongodb-essential-training/transactions-17233181?u=76281980&t=81)** Transactions can be used across multiple operations, documents, collections, and [[Databases]].
 >
 > **[1:28](https://www.linkedin.com/learning/mongodb-essential-training/transactions-17233181?u=76281980&t=88)** Let's try out a transaction in the terminal.
 >
@@ -3042,7 +3014,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/mongodb-essential-training/transactions-17233181?u=76281980&t=262)** So that is how you use a transaction.
 >
-> **[4:26](https://www.linkedin.com/learning/mongodb-essential-training/transactions-17233181?u=76281980&t=266)** I should say that transactions come with a word of warning.
+> **[4:26](https://www.linkedin.com/learning/mongodb-essential-training/transactions-17233181?u=76281980&t=266)** I should say that transactions come with a [[Microsoft Word|word]] of warning.
 >
 > **[4:31](https://www.linkedin.com/learning/mongodb-essential-training/transactions-17233181?u=76281980&t=271)** You should only use transactions when you really need them.
 >
@@ -3054,7 +3026,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), next (2), [[MongoDB]] (1), application (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (1), [[Databases]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** readpreference (2), getmongo (1), startsession (1), starttransaction (1), updatemany (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** find (1)
@@ -3062,8 +3034,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### $expr
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/3066666?u=76281980)
+#### [$expr](https://www.linkedin.com/learning/mongodb-essential-training/3066666?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3153,7 +3124,7 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/mongodb-essential-training/3066666?u=76281980&t=293)** Most of these, in fact.
 >
-> **[4:56](https://www.linkedin.com/learning/mongodb-essential-training/3066666?u=76281980&t=296)** You don't need to pause this video and try and read all of these, what I want you to take away from this slide is that any common operations that you'd expect to be able to do while programming, can be done with MongoDB as well.
+> **[4:56](https://www.linkedin.com/learning/mongodb-essential-training/3066666?u=76281980&t=296)** You don't need to pause this video and try and read all of these, what I want you to take away from this slide is that any common operations that you'd expect to be able to do while programming, can be done with [[MongoDB]] as well.
 >
 > **[5:13](https://www.linkedin.com/learning/mongodb-essential-training/3066666?u=76281980&t=313)** If you want to know all of the operators that you can use, you can go to the MongoDB documentation, and check out aggregation pipeline operators.
 >
@@ -3161,7 +3132,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[MongoDB]] (2), next (1), data (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (2)
 > **Env Vars:** mndb (7), crud (1)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** soft_avocados (1)
@@ -3170,8 +3141,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create app
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/challenge-create-app?u=76281980)
+#### [Challenge: Create app](https://www.linkedin.com/learning/mongodb-essential-training/challenge-create-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3197,14 +3167,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), power (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 > **Non-Speech:** (gentle upbeat music) (1)
 
-#### Solution: Create app
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/solution-create-app?u=76281980)
+#### [Solution: Create app](https://www.linkedin.com/learning/mongodb-essential-training/solution-create-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3212,7 +3180,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/mongodb-essential-training/solution-create-app?u=76281980&t=10)** I'm going to just copy these two.
 >
-> **[0:13](https://www.linkedin.com/learning/mongodb-essential-training/solution-create-app?u=76281980&t=13)** Inside MongoDB, the first thing I'm going to do is I'm going to create a new database called order_app.
+> **[0:13](https://www.linkedin.com/learning/mongodb-essential-training/solution-create-app?u=76281980&t=13)** Inside [[MongoDB]], the first thing I'm going to do is I'm going to create a new database called order_app.
 >
 > **[0:22](https://www.linkedin.com/learning/mongodb-essential-training/solution-create-app?u=76281980&t=22)** Inside this database, I'm going to create a collection called orders and I'm going to insert my two documents in here.
 >
@@ -3314,7 +3282,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), next (2), [[MongoDB]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (1)
 > **CLI Commands:** find (7)
 > **Versions:** 10.47 (2), 0.9 (1), 9.42 (1), 7.63 (1)
 > **Code Identifiers:** order_app (1), findone (1), updatemany (1)
@@ -3326,12 +3294,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### An overview of stages
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/an-overview-of-stages-17233183?u=76281980)
+#### [An overview of stages](https://www.linkedin.com/learning/mongodb-essential-training/an-overview-of-stages-17233183?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/an-overview-of-stages-17233183?u=76281980&t=0)** - MongoDB's aggregation framework allows you to manipulate and transform data in ways that are not possible with the normal queries that we've discussed so far.
+> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/an-overview-of-stages-17233183?u=76281980&t=0)** - [[MongoDB]]'s aggregation framework allows you to manipulate and transform data in ways that are not possible with the normal queries that we've discussed so far.
 >
 > **[0:11](https://www.linkedin.com/learning/mongodb-essential-training/an-overview-of-stages-17233183?u=76281980&t=11)** If you are familiar with Unix pipes, you can think of aggregation pipelines in a similar way.
 >
@@ -3363,15 +3330,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[MongoDB]] (2), data (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (2)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - mongodb (1)
 
-#### $group
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/4380161?u=76281980)
+#### [$group](https://www.linkedin.com/learning/mongodb-essential-training/4380161?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3379,7 +3345,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/mongodb-essential-training/4380161?u=76281980&t=7)** Let's look at this in the terminal.
 >
-> **[0:11](https://www.linkedin.com/learning/mongodb-essential-training/4380161?u=76281980&t=11)** In MongoDB, you can group data by using the $group stage in an aggregation pipeline.
+> **[0:11](https://www.linkedin.com/learning/mongodb-essential-training/4380161?u=76281980&t=11)** In [[MongoDB]], you can group data by using the $group stage in an aggregation pipeline.
 >
 > **[0:18](https://www.linkedin.com/learning/mongodb-essential-training/4380161?u=76281980&t=18)** For this example, we are going to be using our sample data.
 >
@@ -3467,15 +3433,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[MongoDB]] (1), next (1)
+> **Frameworks & Libraries:** [[MongoDB]] (1)
 > **Documentation:** specification (1)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### $bucket
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/4381160?u=76281980)
+#### [$bucket](https://www.linkedin.com/learning/mongodb-essential-training/4381160?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3565,15 +3530,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** scroll up (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### $unwind
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/4381161?u=76281980)
+#### [$unwind](https://www.linkedin.com/learning/mongodb-essential-training/4381161?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3631,7 +3594,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/mongodb-essential-training/4381161?u=76281980&t=155)** That is not performant if you're going to do this a lot.
 >
-> **[2:38](https://www.linkedin.com/learning/mongodb-essential-training/4381161?u=76281980&t=158)** So, in this case what you should do is you should actually add an additional match stage before the unwind stage, because MongoDB can directly filter out any of the documents that don't even have a purple variation in the variations array before unwinding it.
+> **[2:38](https://www.linkedin.com/learning/mongodb-essential-training/4381161?u=76281980&t=158)** So, in this case what you should do is you should actually add an additional match stage before the unwind stage, because [[MongoDB]] can directly filter out any of the documents that don't even have a purple variation in the variations array before unwinding it.
 >
 > **[2:58](https://www.linkedin.com/learning/mongodb-essential-training/4381161?u=76281980&t=178)** So let's do that.
 >
@@ -3643,13 +3606,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[MongoDB]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (1)
 > **Tools:** terminal (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### $merge and $out
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/4375174?u=76281980)
+#### [$merge and $out](https://www.linkedin.com/learning/mongodb-essential-training/4375174?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3733,11 +3695,11 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/mongodb-essential-training/4375174?u=76281980&t=217)** But this is what you would do if you had data that changes.
 >
-> **[3:42](https://www.linkedin.com/learning/mongodb-essential-training/4375174?u=76281980&t=222)** For the full syntax of the $merge stage and all of the options for the whenMatched and whenNotMatched arguments, go to the MongoDB documentation for the $merge stage and scroll to Syntax.
+> **[3:42](https://www.linkedin.com/learning/mongodb-essential-training/4375174?u=76281980&t=222)** For the full syntax of the $merge stage and all of the options for the whenMatched and whenNotMatched arguments, go to the [[MongoDB]] documentation for the $merge stage and scroll to Syntax.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), application (1), data (1), [[MongoDB]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (1)
 > **Code Identifiers:** whenmatched (2), whennotmatched (2), sample_data (1), keepexisting (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
@@ -3746,14 +3708,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### $function
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/4379305?u=76281980)
+#### [$function](https://www.linkedin.com/learning/mongodb-essential-training/4379305?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/4379305?u=76281980&t=0)** - [Instructor] There is one pipeline operator, which you can program to be whatever you need it to be.
 >
-> **[0:06](https://www.linkedin.com/learning/mongodb-essential-training/4379305?u=76281980&t=6)** The $function pipeline operator allows you to write JavaScript functions that operate on the field values in your documents.
+> **[0:06](https://www.linkedin.com/learning/mongodb-essential-training/4379305?u=76281980&t=6)** The $function pipeline operator allows you to write [[JavaScript]] functions that operate on the field values in your documents.
 >
 > **[0:15](https://www.linkedin.com/learning/mongodb-essential-training/4379305?u=76281980&t=15)** Let's try that out.
 >
@@ -3812,8 +3773,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### $lookup
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/4380162?u=76281980)
+#### [$lookup](https://www.linkedin.com/learning/mongodb-essential-training/4380162?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3887,7 +3847,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/mongodb-essential-training/4380162?u=76281980&t=246)** The second thing that you should know with $lookup is that your common query patterns should very rarely require joins.
 >
-> **[4:14](https://www.linkedin.com/learning/mongodb-essential-training/4380162?u=76281980&t=254)** So if you find yourself using a lot of lookups, this is a telltale sign that you are very likely not structuring your data well for MongoDB.
+> **[4:14](https://www.linkedin.com/learning/mongodb-essential-training/4380162?u=76281980&t=254)** So if you find yourself using a lot of lookups, this is a telltale sign that you are very likely not structuring your data well for [[MongoDB]].
 >
 > **[4:23](https://www.linkedin.com/learning/mongodb-essential-training/4380162?u=76281980&t=263)** MongoDB is not optimized to perform a lot of joins.
 >
@@ -3899,14 +3859,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[MongoDB]] (3), next (2)
+> **Frameworks & Libraries:** [[MongoDB]] (3)
 > **Code Identifiers:** car_id (4), localfield (2), foreignfield (2)
 > **Definitions:** is an  (2), is a  (2)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
-#### Performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/performance?u=76281980)
+#### [Performance](https://www.linkedin.com/learning/mongodb-essential-training/performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3914,7 +3873,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/mongodb-essential-training/performance?u=76281980&t=8)** So you'll want to keep an eye on performance issues with them, especially if the amount of data you are processing is large, the operation will be run frequently or the operation is intended to provide real time data fast.
 >
-> **[0:22](https://www.linkedin.com/learning/mongodb-essential-training/performance?u=76281980&t=22)** Luckily, MongoDB allows you to see information about how aggregation pipelines and other queries perform fairly easily.
+> **[0:22](https://www.linkedin.com/learning/mongodb-essential-training/performance?u=76281980&t=22)** Luckily, [[MongoDB]] allows you to see information about how aggregation pipelines and other queries perform fairly easily.
 >
 > **[0:30](https://www.linkedin.com/learning/mongodb-essential-training/performance?u=76281980&t=30)** Let's look at it on the terminal.
 >
@@ -3922,7 +3881,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/mongodb-essential-training/performance?u=76281980&t=43)** In the first line here, you can see we are using the movies connection, and then we are calling the explain method and we are passing it a string that says executionStats.
 >
-> **[0:53](https://www.linkedin.com/learning/mongodb-essential-training/performance?u=76281980&t=53)** That will tell MongoDB that we are not actually interested in the results of the aggregation pipeline that we want to execute here, but instead we want to see the statistics of how it executes.
+> **[0:53](https://www.linkedin.com/learning/mongodb-essential-training/performance?u=76281980&t=53)** That will tell MongoDB that we are not actually interested in the results of the aggregation pipeline that we want to execute here, but instead we want to see the [[Statistics]] of how it executes.
 >
 > **[1:09](https://www.linkedin.com/learning/mongodb-essential-training/performance?u=76281980&t=69)** Let's briefly talk about the query itself so that you know what's going on.
 >
@@ -4042,7 +4001,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (11), database (4), data (3), [[Statistics]] (2), next (2)
+> **Frameworks & Libraries:** [[MongoDB]] (11), [[Statistics]] (2)
 > **Code Identifiers:** executionstats (2), winningplan (2), inputstage (1), totalkeysexamined (1), collectionscans (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** ram (1), cpu (1), crud (1)
@@ -4051,8 +4010,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1), caution (1)
 > **Documentation:** the docs (1)
 
-#### Challenge: Write aggregation pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/challenge-write-aggregation-pipelines?u=76281980)
+#### [Challenge: Write aggregation pipelines](https://www.linkedin.com/learning/mongodb-essential-training/challenge-write-aggregation-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4067,8 +4025,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Write aggregation pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/solution-write-aggregation-pipelines?u=76281980)
+#### [Solution: Write aggregation pipelines](https://www.linkedin.com/learning/mongodb-essential-training/solution-write-aggregation-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4154,7 +4111,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), database (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** sample_data (1)
 > **Documentation:** the documentation (1)
@@ -4167,20 +4123,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Relational vs. document
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/relational-vs-document-17231632?u=76281980)
+#### [Relational vs. document](https://www.linkedin.com/learning/mongodb-essential-training/relational-vs-document-17231632?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/relational-vs-document-17231632?u=76281980&t=0)** - [Instructor] When you hear MongoDB, you also often hear relational and document model or NoSQL, which isn't a great way to define the document model.
+> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/relational-vs-document-17231632?u=76281980&t=0)** - [Instructor] When you hear [[MongoDB]], you also often hear relational and document model or [[NoSQL]], which isn't a great way to define the document model.
 >
 > **[0:11](https://www.linkedin.com/learning/mongodb-essential-training/relational-vs-document-17231632?u=76281980&t=11)** We covered already what the document model is.
 >
 > **[0:13](https://www.linkedin.com/learning/mongodb-essential-training/relational-vs-document-17231632?u=76281980&t=13)** Let me briefly explain what relational is.
 >
-> **[0:17](https://www.linkedin.com/learning/mongodb-essential-training/relational-vs-document-17231632?u=76281980&t=17)** In relational databases, data is structured in tables.
+> **[0:17](https://www.linkedin.com/learning/mongodb-essential-training/relational-vs-document-17231632?u=76281980&t=17)** In [[Relational Databases]], data is structured in tables.
 >
-> **[0:21](https://www.linkedin.com/learning/mongodb-essential-training/relational-vs-document-17231632?u=76281980&t=21)** Think of Excel files.
+> **[0:21](https://www.linkedin.com/learning/mongodb-essential-training/relational-vs-document-17231632?u=76281980&t=21)** Think of [[Microsoft Excel|Excel]] files.
 >
 > **[0:22](https://www.linkedin.com/learning/mongodb-essential-training/relational-vs-document-17231632?u=76281980&t=22)** So you may have an author's table, which contains the information about each author.
 >
@@ -4190,9 +4145,9 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/mongodb-essential-training/relational-vs-document-17231632?u=76281980&t=41)** That's roughly how it works.
 >
-> **[0:44](https://www.linkedin.com/learning/mongodb-essential-training/relational-vs-document-17231632?u=76281980&t=44)** When comparing relational and document databases, there are at least three different ways to think about it.
+> **[0:44](https://www.linkedin.com/learning/mongodb-essential-training/relational-vs-document-17231632?u=76281980&t=44)** When comparing relational and document [[Databases]], there are at least three different ways to think about it.
 >
-> **[0:53](https://www.linkedin.com/learning/mongodb-essential-training/relational-vs-document-17231632?u=76281980&t=53)** The first one is when you store JSON documents as they are in both database types.
+> **[0:53](https://www.linkedin.com/learning/mongodb-essential-training/relational-vs-document-17231632?u=76281980&t=53)** The first one is when you store [[JSON]] documents as they are in both database types.
 >
 > **[1:00](https://www.linkedin.com/learning/mongodb-essential-training/relational-vs-document-17231632?u=76281980&t=60)** Both relational and document databases nowadays, generally support JSON objects, but the way you work with JSON documents differs in both cases.
 >
@@ -4278,7 +4233,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/mongodb-essential-training/relational-vs-document-17231632?u=76281980&t=315)** Different people have different opinions on which way of querying the data is simpler.
 >
-> **[5:20](https://www.linkedin.com/learning/mongodb-essential-training/relational-vs-document-17231632?u=76281980&t=320)** Many folks, used to querying data with SQL, don't mind.
+> **[5:20](https://www.linkedin.com/learning/mongodb-essential-training/relational-vs-document-17231632?u=76281980&t=320)** Many folks, used to querying data with [[SQL]], don't mind.
 >
 > **[5:25](https://www.linkedin.com/learning/mongodb-essential-training/relational-vs-document-17231632?u=76281980&t=325)** I am firmly in the camp that querying data with MongoDB is easier.
 >
@@ -4336,7 +4291,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[MongoDB]] (19), [[JSON]] (12), [[Relational Databases]] (9), database (8)
+> **Frameworks & Libraries:** [[MongoDB]] (19), [[JSON]] (12), [[Relational Databases]] (9), [[Databases]] (5), [[SQL]] (2)
 > **Env Vars:** json (12), sql (2), bson (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2), find (1)
@@ -4345,18 +4300,17 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/data-modeling?u=76281980)
+#### [Data modeling](https://www.linkedin.com/learning/mongodb-essential-training/data-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/data-modeling?u=76281980&t=0)** - [Instructor] Data modeling is a topic that deserves its own course, but I will give you a brief introduction here.
+> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/data-modeling?u=76281980&t=0)** - [Instructor] [[Data Modeling]] is a topic that deserves its own course, but I will give you a brief introduction here.
 >
 > **[0:07](https://www.linkedin.com/learning/mongodb-essential-training/data-modeling?u=76281980&t=7)** The main principle to keep in mind when modeling data is that data commonly queried together should live as closely together as possible.
 >
 > **[0:17](https://www.linkedin.com/learning/mongodb-essential-training/data-modeling?u=76281980&t=17)** That means, in the same document or collection.
 >
-> **[0:20](https://www.linkedin.com/learning/mongodb-essential-training/data-modeling?u=76281980&t=20)** While pulling in data from another collection is possible, it is not the most performant way to use MongoDB.
+> **[0:20](https://www.linkedin.com/learning/mongodb-essential-training/data-modeling?u=76281980&t=20)** While pulling in data from another collection is possible, it is not the most performant way to use [[MongoDB]].
 >
 > **[0:28](https://www.linkedin.com/learning/mongodb-essential-training/data-modeling?u=76281980&t=28)** However, you also have to contend with processing and storage limits, such as the 16 megabyte document limit and aggregation pipeline processing limits.
 >
@@ -4396,18 +4350,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[MongoDB]] (1)
+> **Frameworks & Libraries:** [[Data Modeling]] (2), [[MongoDB]] (1)
 > **Definitions:** is a  (4)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Flexible schema
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/flexible-schema?u=76281980)
+#### [Flexible schema](https://www.linkedin.com/learning/mongodb-essential-training/flexible-schema?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/flexible-schema?u=76281980&t=0)** - [Instructor] The other keyword that you will often hear when people talk about MongoDB is schemaless, so what does that mean?
+> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/flexible-schema?u=76281980&t=0)** - [Instructor] The other keyword that you will often hear when people talk about [[MongoDB]] is schemaless, so what does that mean?
 >
 > **[0:08](https://www.linkedin.com/learning/mongodb-essential-training/flexible-schema?u=76281980&t=8)** A schema defines the structure, and contents of the data in a collection, by ensuring that documents in the collection contain the fields that are specified as required in the validator.
 >
@@ -4415,7 +4368,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/mongodb-essential-training/flexible-schema?u=76281980&t=33)** Here is an example validator.
 >
-> **[0:36](https://www.linkedin.com/learning/mongodb-essential-training/flexible-schema?u=76281980&t=36)** The validator consists of JSON schema, which specifies the BSON type of the document, which is object.
+> **[0:36](https://www.linkedin.com/learning/mongodb-essential-training/flexible-schema?u=76281980&t=36)** The validator consists of [[JSON]] schema, which specifies the BSON type of the document, which is object.
 >
 > **[0:45](https://www.linkedin.com/learning/mongodb-essential-training/flexible-schema?u=76281980&t=45)** And then the required fields, which in this case, are name and message.
 >
@@ -4479,7 +4432,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (5), data (4), [[MongoDB]] (2), application (2)
+> **Frameworks & Libraries:** [[JSON]] (5), [[MongoDB]] (2)
 > **Env Vars:** json (5), bson (5)
 > **Definitions:** is an  (1), is called (1), means that (1)
 > **Analogies:** for example (2)
@@ -4487,8 +4440,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a data model
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/challenge-create-a-data-model?u=76281980)
+#### [Challenge: Create a data model](https://www.linkedin.com/learning/mongodb-essential-training/challenge-create-a-data-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4520,15 +4472,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (3)
 > **Documentation:** specification (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - for (1)
 > **Non-Speech:** (gentle upbeat music) (1)
 
-#### Solution: Create a data model
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/solution-create-a-data-model?u=76281980)
+#### [Solution: Create a data model](https://www.linkedin.com/learning/mongodb-essential-training/solution-create-a-data-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4610,7 +4560,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (3), feature (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
 > **Documentation:** specification (1)
@@ -4623,16 +4572,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Drivers
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/drivers?u=76281980)
+#### [Drivers](https://www.linkedin.com/learning/mongodb-essential-training/drivers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/drivers?u=76281980&t=0)** - [Instructor] So far in this course, I've taught you how to interact with MongoDB using the MongoDB shell.
+> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/drivers?u=76281980&t=0)** - [Instructor] So far in this course, I've taught you how to interact with [[MongoDB]] using the MongoDB shell.
 >
 > **[0:06](https://www.linkedin.com/learning/mongodb-essential-training/drivers?u=76281980&t=6)** However, when you are using MongoDB in an application, you will be using a MongoDB driver.
 >
-> **[0:13](https://www.linkedin.com/learning/mongodb-essential-training/drivers?u=76281980&t=13)** MongoDB supports libraries for a variety of commonly used languages, such as C, C++, Java, Python, Node.js, etc., but there are also community developed libraries that you can use.
+> **[0:13](https://www.linkedin.com/learning/mongodb-essential-training/drivers?u=76281980&t=13)** MongoDB supports libraries for a variety of commonly used languages, such as C, C++, [[Java]], [[Python (Programming Language)|Python]], [[Node.js]], etc., but there are also community developed libraries that you can use.
 >
 > **[0:28](https://www.linkedin.com/learning/mongodb-essential-training/drivers?u=76281980&t=28)** For some languages, the MongoDB supported libraries are very popular.
 >
@@ -4640,11 +4588,11 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/mongodb-essential-training/drivers?u=76281980&t=37)** I recommend reading up on what people think about the drivers you're considering before making a final choice.
 >
-> **[0:43](https://www.linkedin.com/learning/mongodb-essential-training/drivers?u=76281980&t=43)** In the next videos, I'll show you how to connect to MongoDB with Python, Node.js and PHP.
+> **[0:43](https://www.linkedin.com/learning/mongodb-essential-training/drivers?u=76281980&t=43)** In the next videos, I'll show you how to connect to MongoDB with Python, Node.js and [[PHP]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (7), [[Python (Programming Language)|Python]] (2), [[Node.js]] (2), application (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (7), [[Python (Programming Language)|Python]] (2), [[Node.js]] (2), [[Java]] (1), [[PHP]] (1)
 > **CLI Commands:** python (2), node (2), php (1)
 > **File Paths:** node.js (2)
 > **Env Vars:** php (1)
@@ -4652,12 +4600,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-python?u=76281980)
+#### [Connecting with Python](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-python?u=76281980&t=0)** - [Instructor] If you are using Python, there are two MongoDB supported drivers that you can use.
+> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-python?u=76281980&t=0)** - [Instructor] If you are using [[Python (Programming Language)|Python]], there are two [[MongoDB]] supported drivers that you can use.
 >
 > **[0:06](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-python?u=76281980&t=6)** PyMongo for synchronous Python applications and Motor for asynchronous Python applications.
 >
@@ -4739,7 +4686,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[MongoDB]] (3), next (2), application (2), database (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[MongoDB]] (3)
 > **CLI Commands:** python (9), pip (3), mongo (2), find (2), make (1)
 > **Prerequisites:** install (7), set up (1)
 > **Env Vars:** db_user (1), db_password (1)
@@ -4748,12 +4695,11 @@ created: 2026-05-02
 > **Documentation:** the docs (1)
 > **Tools:** command line (1)
 
-#### Connecting with JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-javascript?u=76281980)
+#### [Connecting with JavaScript](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-javascript?u=76281980&t=0)** - If you are using node.js, there are two main drivers that you can use, the MongoDB supported driver, which you'll find behaves similarly to the MongoDB shell, and Mongoose, which is an object modeling tool for MongoDB.
+> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-javascript?u=76281980&t=0)** - If you are using [[Node.js]], there are two main drivers that you can use, the [[MongoDB]] supported driver, which you'll find behaves similarly to the MongoDB shell, and Mongoose, which is an object modeling tool for MongoDB.
 >
 > **[0:16](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-javascript?u=76281980&t=16)** A lot of people choose to use Mongoose over MongoDB's driver because it removes some extra code you need to write, like opening and closing connections.
 >
@@ -4761,13 +4707,13 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-javascript?u=76281980&t=36)** For this video, we will be using Mongoose.
 >
-> **[0:39](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-javascript?u=76281980&t=39)** Alright, inside this folder, I've already got two files, an index.js file and a package.json file.
+> **[0:39](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-javascript?u=76281980&t=39)** Alright, inside this folder, I've already got two files, an index.js file and a package.[[JSON]] file.
 >
 > **[0:49](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-javascript?u=76281980&t=49)** Let me show you what's inside the package.json file for right now.
 >
 > **[0:52](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-javascript?u=76281980&t=52)** Okay.
 >
-> **[0:54](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-javascript?u=76281980&t=54)** Now, to install Mongoose, I'm going to run NPM install mongoose--save.
+> **[0:54](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-javascript?u=76281980&t=54)** Now, to install Mongoose, I'm going to run [[npm]] install mongoose--save.
 >
 > **[1:04](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-javascript?u=76281980&t=64)** I am also going to install the dotenv package.
 >
@@ -4817,7 +4763,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (9), database (3), data (3), [[JSON]] (2), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (9), [[JSON]] (2), [[Node.js]] (1), [[npm]] (1)
 > **CLI Commands:** find (4), node (1), mongo (1), npm (1)
 > **File Paths:** package.json (2), node.js (1), index.js (1)
 > **Env Vars:** uri (2), npm (1)
@@ -4826,12 +4772,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - if (1)
 
-#### Connecting with PHP
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-php?u=76281980)
+#### [Connecting with PHP](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-php?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-php?u=76281980&t=0)** - [Instructor] For PHP, we'll be using MongoDB's native driver.
+> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-php?u=76281980&t=0)** - [Instructor] For [[PHP]], we'll be using [[MongoDB]]'s native driver.
 >
 > **[0:04](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-php?u=76281980&t=4)** To use the PHP driver, you'll need both the extension and the library installed.
 >
@@ -4885,7 +4830,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-php?u=76281980&t=174)** That is important, because you need to authenticate against the admin database when connecting.
 >
-> **[3:01](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-php?u=76281980&t=181)** All right, for the rest of the code, the first thing that happens is we select a collection.
+> **[3:01](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-php?u=76281980&t=181)** All right, for the [[Representational State Transfer (REST)|rest]] of the code, the first thing that happens is we select a collection.
 >
 > **[3:08](https://www.linkedin.com/learning/mongodb-essential-training/connecting-with-php?u=76281980&t=188)** As with most of this course, we are going to be using the sample_data database.
 >
@@ -4911,7 +4856,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (13), [[PHP]] (8), database (5), next (3), api (1)
+> **Frameworks & Libraries:** [[MongoDB]] (13), [[PHP]] (8), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** php (8), composer (6), find (2), make (1)
 > **Env Vars:** php (7), api (1), uri (1)
 > **Prerequisites:** install (7), you'll need (1)
@@ -4925,14 +4870,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advancing with MongoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/mongodb-essential-training/advancing-with-mongodb?u=76281980)
+#### [Advancing with MongoDB](https://www.linkedin.com/learning/mongodb-essential-training/advancing-with-mongodb?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/advancing-with-mongodb?u=76281980&t=0)** - [Naomi] Congratulations, you've made it to the end of the MongoDB Essentials Course.
+> **[0:00](https://www.linkedin.com/learning/mongodb-essential-training/advancing-with-mongodb?u=76281980&t=0)** - [Naomi] Congratulations, you've made it to the end of the [[MongoDB]] Essentials Course.
 >
-> **[0:05](https://www.linkedin.com/learning/mongodb-essential-training/advancing-with-mongodb?u=76281980&t=5)** Don't forget to add your certificate for this course to your LinkedIn profile.
+> **[0:05](https://www.linkedin.com/learning/mongodb-essential-training/advancing-with-mongodb?u=76281980&t=5)** Don't forget to add your certificate for this course to your [[LinkedIn]] profile.
 >
 > **[0:09](https://www.linkedin.com/learning/mongodb-essential-training/advancing-with-mongodb?u=76281980&t=9)** And if you liked this course, leave a review.
 >
@@ -4954,7 +4898,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (7), [[LinkedIn]] (2), data (2), next (2)
+> **Frameworks & Libraries:** [[MongoDB]] (7), [[LinkedIn]] (2)
 > **Env Vars:** crud (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)

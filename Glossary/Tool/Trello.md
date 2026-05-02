@@ -17,7 +17,7 @@ tags:
   - topic/data-science
   - topic/security
   - topic/devops
-course_count: 25
+course_count: 27
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Trello
 
-> **Type:** Tool | **Courses:** 25 | **Topics:** [[Software Development]], [[Cloud Computing]], [[Data Science]], [[Cybersecurity]], [[DevOps]]
+> **Type:** Tool | **Courses:** 27 | **Topics:** [[Software Development]], [[Cloud Computing]], [[Data Science]], [[Cybersecurity]], [[DevOps]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[AI Challenges and Opportunities for Leadership]] — 2 mentions
 10. [[Delivering and Analyzing a Software Pilot- GitHub Copilot]] — 2 mentions
 
-> [!note]- See all 25 courses
+> [!note]- See all 27 courses
 > 11. [[Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines]] — 1 mentions
 > 12. [[Copilot Agents- Build Your Own AI Assistant in Copilot and Teams (No Code Required) (February 2025)]] — 1 mentions
 > 13. [[Tech Career Skills- Communication for Developers]] — 1 mentions
@@ -50,12 +50,14 @@ created: 2026-05-02
 > 17. [[Agile Software Development- Scrum for Developers]] — 1 mentions
 > 18. [[AWS- Storage and Data Management]] — 1 mentions
 > 19. [[Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope]] — 1 mentions
-> 20. [[DevOps Tips]] — 1 mentions
-> 21. [[Leading Remote Projects and Virtual Teams]] — 1 mentions
-> 22. [[Node.js- Debugging and Performance Tuning]] — 1 mentions
-> 23. [[IT Service Management Foundations- Problem Management]] — 1 mentions
-> 24. [[Cert Prep- Unity Certified Associate Game Developer Design, Production, and Industry Awareness]] — 1 mentions
-> 25. [[Jira- Basic Administration]] — 1 mentions
+> 20. [[Azure DevOps for Beginners]] — 1 mentions
+> 21. [[DevOps Tips]] — 1 mentions
+> 22. [[Leading Remote Projects and Virtual Teams]] — 1 mentions
+> 23. [[Node.js- Debugging and Performance Tuning]] — 1 mentions
+> 24. [[IT Service Management Foundations- Problem Management]] — 1 mentions
+> 25. [[AI Foundations- Ideating and Prototyping]] — 1 mentions
+> 26. [[Cert Prep- Unity Certified Associate Game Developer Design, Production, and Industry Awareness]] — 1 mentions
+> 27. [[Jira- Basic Administration]] — 1 mentions
 
 ## Learning Paths
 

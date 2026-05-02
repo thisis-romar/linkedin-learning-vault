@@ -79,14 +79,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making sense of the CSS Box Model
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/making-sense-of-the-css-box-model?u=76281980)
+#### [Making sense of the CSS Box Model](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/making-sense-of-the-css-box-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/making-sense-of-the-css-box-model?u=76281980&t=0)** - I'm Morten Rand-Hendriksen and in this course, I'll take you on a journey through the CSS Box Model.
 >
-> **[0:06](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/making-sense-of-the-css-box-model?u=76281980&t=6)** We'll start by looking at how boxes make up the web pages we visit every day and how these boxes originate in traditional typography.
+> **[0:06](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/making-sense-of-the-css-box-model?u=76281980&t=6)** We'll start by looking at how boxes make up the web pages we visit every day and how these boxes originate in traditional [[Typography]].
 >
 > **[0:14](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/making-sense-of-the-css-box-model?u=76281980&t=14)** We'll look at the CSS Box Model in detail exploring things like text styles, display properties, positioning, and beyond.
 >
@@ -98,7 +97,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), web (2), [[Typography]] (1)
+> **Frameworks & Libraries:** [[Typography]] (1)
 > **Env Vars:** css (5)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -109,12 +108,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Displaying information through the web
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/displaying-information-through-the-web?u=76281980)
+#### [Displaying information through the web](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/displaying-information-through-the-web?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/displaying-information-through-the-web?u=76281980&t=1)** - When you look at a well-designed and communicative website, you have to make a conscious effort to remember what you see is not actually the content itself but rather the browser's visualized interpretation of code: HTML and CSS Markup, JavaScript, images, videos, and other media.
+> **[0:01](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/displaying-information-through-the-web?u=76281980&t=1)** - When you look at a well-designed and communicative website, you have to make a conscious effort to remember what you see is not actually the content itself but rather the browser's visualized interpretation of code: [[HTML]] and CSS Markup, [[JavaScript]], images, videos, and other media.
 >
 > **[0:18](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/displaying-information-through-the-web?u=76281980&t=18)** In its presentational nature, the web is a profoundly skeuomorphic environment.
 >
@@ -136,7 +134,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/displaying-information-through-the-web?u=76281980&t=119)** After all, the browser has no comprehension of the information.
 >
-> **[2:03](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/displaying-information-through-the-web?u=76281980&t=123)** It just seems Markup and parses it to be displayed on a screen based on pre-configured algorithms.
+> **[2:03](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/displaying-information-through-the-web?u=76281980&t=123)** It just seems Markup and parses it to be displayed on a screen based on pre-configured [[Algorithms]].
 >
 > **[2:08](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/displaying-information-through-the-web?u=76281980&t=128)** Start printing out text from the top left-hand corner in the default font.
 >
@@ -150,14 +148,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), [[HTML]] (2), css (2), [[JavaScript]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[JavaScript]] (1), [[Algorithms]] (1)
 > **Env Vars:** html (2), css (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - when (1)
 
-#### The web is made of boxes
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/the-web-is-made-of-boxes?u=76281980)
+#### [The web is made of boxes](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/the-web-is-made-of-boxes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -171,7 +168,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/the-web-is-made-of-boxes?u=76281980&t=32)** The browser sees the reference, goes to the source location, and pulls the actual content in to be displayed alongside the other content.
 >
-> **[0:40](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/the-web-is-made-of-boxes?u=76281980&t=40)** The element tags that wrap the various content in a document is what constitutes the markup in hypertext markup language, or HTML.
+> **[0:40](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/the-web-is-made-of-boxes?u=76281980&t=40)** The element tags that wrap the various content in a document is what constitutes the markup in hypertext markup language, or [[HTML]].
 >
 > **[0:50](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/the-web-is-made-of-boxes?u=76281980&t=50)** They split apart the content, identify different components, their roles and attributes, and allows the browser to make sense of the structure of the content without understanding its meaning.
 >
@@ -211,7 +208,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), web (3), [[HTML]] (2)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Env Vars:** css (3), html (2)
 > **Definitions:** is a  (3), known as (1)
 > **CLI Commands:** make (1)
@@ -219,12 +216,11 @@ created: 2026-05-02
 > **Tools:** firefox (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designing with boxes
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/designing-with-boxes?u=76281980)
+#### [Designing with boxes](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/designing-with-boxes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/designing-with-boxes?u=76281980&t=0)** - Before we dive any deeper into the CSS box model, let's take a step back and look at what the realization that the web is made of boxes means for the web design and development process.
+> **[0:00](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/designing-with-boxes?u=76281980&t=0)** - Before we dive any deeper into the CSS box model, let's take a step back and look at what the realization that the web is made of boxes means for the [[Web Design]] and development process.
 >
 > **[0:11](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/designing-with-boxes?u=76281980&t=11)** If you ask me, I think a comprehensive understanding of the CSS box model is the most important skill for anyone working as a web designer and developer.
 >
@@ -236,9 +232,9 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/designing-with-boxes?u=76281980&t=41)** Starting with the core content, a video, an article, some sort of content model, I sketch out in rough terms what I envision it will look like.
 >
-> **[0:51](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/designing-with-boxes?u=76281980&t=51)** This is wire framing and rapid prototyping at its very simplest and most effective.
+> **[0:51](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/designing-with-boxes?u=76281980&t=51)** This is wire framing and rapid [[Prototyping]] at its very simplest and most effective.
 >
-> **[0:56](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/designing-with-boxes?u=76281980&t=56)** Once I have a general sketch of what the core content will look like, I move on to the rest of the elements on the page, header, menus, sidebars, footers, meta content.
+> **[0:56](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/designing-with-boxes?u=76281980&t=56)** Once I have a general sketch of what the core content will look like, I move on to the [[Representational State Transfer (REST)|rest]] of the elements on the page, header, menus, sidebars, footers, meta content.
 >
 > **[1:07](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/designing-with-boxes?u=76281980&t=67)** Whatever needs to be, or might want to be, on the page.
 >
@@ -246,7 +242,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/designing-with-boxes?u=76281980&t=84)** This is where the CSS box model comes in.
 >
-> **[1:26](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/designing-with-boxes?u=76281980&t=86)** Even at this early stage, before a single line of code or content is written, even before I have a firm idea of what this entire thing will end up looking like I can start sketching out the main boxes and create a map for myself of how everything will be put together.
+> **[1:26](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/designing-with-boxes?u=76281980&t=86)** Even at this early stage, before a single line of code or content is written, even before I have a firm idea of what this entire thing will end up looking like I can start [[Sketching]] out the main boxes and create a map for myself of how everything will be put together.
 >
 > **[1:42](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/designing-with-boxes?u=76281980&t=102)** During this process it's easy to identify grouped content, like a meta section, an article header, and so on.
 >
@@ -256,7 +252,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/designing-with-boxes?u=76281980&t=129)** Once the boxes are established, work can start on both design and development.
 >
-> **[2:14](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/designing-with-boxes?u=76281980&t=134)** Fonts, colors, spacing and positioning can be refined and perfected on the design end, while the boxes will work as a map that shows the semantic structure of the HTML markup for the page.
+> **[2:14](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/designing-with-boxes?u=76281980&t=134)** Fonts, colors, spacing and positioning can be refined and perfected on the design end, while the boxes will work as a map that shows the semantic structure of the [[HTML]] markup for the page.
 >
 > **[2:26](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/designing-with-boxes?u=76281980&t=146)** Remember, every HTML tag is a box.
 >
@@ -266,7 +262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), css (3), [[HTML]] (2), [[Prototyping]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Web Design]] (2), [[HTML]] (2), [[Prototyping]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Sketching]] (1)
 > **Env Vars:** css (3), html (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
@@ -277,8 +273,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the basics of type
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/understanding-the-basics-of-type?u=76281980)
+#### [Understanding the basics of type](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/understanding-the-basics-of-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -288,7 +283,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/understanding-the-basics-of-type?u=76281980&t=10)** The majority of content published on the web is text and the majority of features in CSS are there to help us configure and format the display of that text.
 >
-> **[0:20](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/understanding-the-basics-of-type?u=76281980&t=20)** These features are in turn inherited from classic typesetting and typography, so let's start there with basic typesetting principles, see how they work and how they translate into CSS.
+> **[0:20](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/understanding-the-basics-of-type?u=76281980&t=20)** These features are in turn inherited from classic typesetting and [[Typography]], so let's start there with basic typesetting principles, see how they work and how they translate into CSS.
 >
 > **[0:32](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/understanding-the-basics-of-type?u=76281980&t=32)** In the beginning, we have a frame in which we'll build the page.
 >
@@ -340,7 +335,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/understanding-the-basics-of-type?u=76281980&t=189)** Working with in-line elements is also easy to understand in this context.
 >
-> **[3:14](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/understanding-the-basics-of-type?u=76281980&t=194)** When I add a letter or word of a different size or font into the block, it changes the structure of the line that that letter is on.
+> **[3:14](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/understanding-the-basics-of-type?u=76281980&t=194)** When I add a letter or [[Microsoft Word|word]] of a different size or font into the block, it changes the structure of the line that that letter is on.
 >
 > **[3:23](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/understanding-the-basics-of-type?u=76281980&t=203)** If the letter is taller, the line height is increased for that line only.
 >
@@ -352,15 +347,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), web (3), [[Typography]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Typography]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** css (5)
 > **Definitions:** known as (2), is a  (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - when (1)
 
-#### Change the type, change the box
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/change-the-type-change-the-box?u=76281980)
+#### [Change the type, change the box](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/change-the-type-change-the-box?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -410,12 +404,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), web (1)
 > **Env Vars:** css (3)
 > **Speakers:** - all (1)
 
-#### Text flow in the box
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/text-flow-in-the-box?u=76281980)
+#### [Text flow in the box](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/text-flow-in-the-box?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -437,7 +429,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/text-flow-in-the-box?u=76281980&t=37)** A browser window can be one-by-one pixels or 1000-by-1000.
 >
-> **[0:42](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/text-flow-in-the-box?u=76281980&t=42)** This poses a challenge for typography, that until the introduction of the world wide web was more or less non-existent.
+> **[0:42](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/text-flow-in-the-box?u=76281980&t=42)** This poses a challenge for [[Typography]], that until the introduction of the world wide web was more or less non-existent.
 >
 > **[0:49](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/text-flow-in-the-box?u=76281980&t=49)** In print typography, the limits of the container or the page, provided robust framework inside which a layout can be created.
 >
@@ -451,7 +443,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/text-flow-in-the-box?u=76281980&t=80)** While the maximum width of the outermost container on a screen is limited, there's no absolute limits to how wide or tall the content can be because the browser allows the user to scroll left and right, up and down.
 >
-> **[1:33](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/text-flow-in-the-box?u=76281980&t=93)** To simplify the user experience, the convention is to limit default scrolling to only the vertical Y-axis and limit the width of the content to the width of the viewport, but this can be overridden as we see in some interfaces like Microsoft Windows.
+> **[1:33](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/text-flow-in-the-box?u=76281980&t=93)** To simplify the [[User Experience (UX)|user experience]], the convention is to limit default scrolling to only the vertical Y-axis and limit the width of the content to the width of the viewport, but this can be overridden as we see in some interfaces like [[Microsoft]] [[Windows]].
 >
 > **[1:49](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/text-flow-in-the-box?u=76281980&t=109)** This situation has a significant impact on our boxes.
 >
@@ -473,7 +465,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/text-flow-in-the-box?u=76281980&t=193)** These are old features exclusive to the fluid screen environment and they have no analog in traditional print.
 >
-> **[3:19](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/text-flow-in-the-box?u=76281980&t=199)** It is for this reason that even though the idea of responsive web design was introduced half a decade ago, our approach to web design and text layout, with boxes in particular, is still very much anchored in the skeuomorphic art of trying to make content on the web look as if it was printed on paper.
+> **[3:19](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/text-flow-in-the-box?u=76281980&t=199)** It is for this reason that even though the idea of [[Responsive Web Design]] was introduced half a decade ago, our approach to [[Web Design]] and text layout, with boxes in particular, is still very much anchored in the skeuomorphic art of trying to make content on the web look as if it was printed on paper.
 >
 > **[3:37](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/text-flow-in-the-box?u=76281980&t=217)** Look no further than your favorite social media or news site and you'll see rigid grids, and design languages that are deeply rooted in print publishing.
 >
@@ -481,7 +473,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Typography]] (3), web (3), [[User Experience (UX)|User experience]] (1), [[Microsoft]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Typography]] (3), [[User Experience (UX)|User experience]] (1), [[Microsoft]] (1), [[Windows]] (1), [[Responsive Web Design]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** css (1)
 > **Definitions:** is a  (1)
@@ -492,8 +484,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the CSS Box Model?
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/what-is-the-css-box-model?u=76281980)
+#### [What is the CSS Box Model?](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/what-is-the-css-box-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -511,7 +502,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/what-is-the-css-box-model?u=76281980&t=52)** To see how this works, we'll look at one paragraph of type in isolation.
 >
-> **[0:57](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/what-is-the-css-box-model?u=76281980&t=57)** In CSS, each of the rectangular boxes that wrap the contents of an HTML element is described using a box model that describes the content of the space taken up by that element.
+> **[0:57](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/what-is-the-css-box-model?u=76281980&t=57)** In CSS, each of the rectangular boxes that wrap the contents of an [[HTML]] element is described using a box model that describes the content of the space taken up by that element.
 >
 > **[1:08](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/what-is-the-css-box-model?u=76281980&t=68)** The CSS box has four separate edges that can be moved relative to one another.
 >
@@ -571,15 +562,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (9), [[HTML]] (1), next (1), power (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (9), html (1)
 > **Cross-References:** previous chapter (1)
 > **Definitions:** known as (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Changing the contents within the box
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/changing-the-contents-within-the-box?u=76281980)
+#### [Changing the contents within the box](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/changing-the-contents-within-the-box?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -597,7 +587,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/changing-the-contents-within-the-box?u=76281980&t=40)** We've already talked about letter spacing and line height.
 >
-> **[0:43](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/changing-the-contents-within-the-box?u=76281980&t=43)** There's also a word spacing property that adds space between each word.
+> **[0:43](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/changing-the-contents-within-the-box?u=76281980&t=43)** There's also a [[Microsoft Word|word]] spacing property that adds space between each word.
 >
 > **[0:48](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/changing-the-contents-within-the-box?u=76281980&t=48)** And we can align text left, center, right or justified, and add indentation to the first line with text indent.
 >
@@ -607,7 +597,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/changing-the-contents-within-the-box?u=76281980&t=68)** And text decoration can add an underline, either straight or wavy to the text within the box.
 >
-> **[1:14](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/changing-the-contents-within-the-box?u=76281980&t=74)** The default blue line you see under HTML anchors, or links is just such a text decoration underline.
+> **[1:14](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/changing-the-contents-within-the-box?u=76281980&t=74)** The default blue line you see under [[HTML]] anchors, or links is just such a text decoration underline.
 >
 > **[1:22](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/changing-the-contents-within-the-box?u=76281980&t=82)** The color of the text itself is controlled with the color property.
 >
@@ -633,17 +623,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[Microsoft Word|Word]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[HTML]] (1)
 > **Env Vars:** css (2), html (1), css3 (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the display porperty
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/understanding-the-display-porperty?u=76281980)
+#### [Understanding the display porperty](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/understanding-the-display-porperty?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/understanding-the-display-porperty?u=76281980&t=0)** - [Instructor] Every HTML element has a default display property setting.
+> **[0:00](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/understanding-the-display-porperty?u=76281980&t=0)** - [Instructor] Every [[HTML]] element has a default display property setting.
 >
 > **[0:04](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/understanding-the-display-porperty?u=76281980&t=4)** Most commonly either block, as in the case of headings, paragraphs, block quotes, lists, divs, and HTML semantic dividers, like section, nav, article, aside, header, and footer, or inline as emphasized and strongly emphasized, links, spans, code, and images.
 >
@@ -665,7 +654,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/understanding-the-display-porperty?u=76281980&t=85)** If you need an item to remain inline but still behave like a block level element, you can change its display property to inline block.
 >
-> **[1:33](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/understanding-the-display-porperty?u=76281980&t=93)** When you do this, it's important to remember that the size of the inline block box will override any line height and force the lines further apart just like what would happen if you added a word with larger font in a block of type the old fashioned way.
+> **[1:33](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/understanding-the-display-porperty?u=76281980&t=93)** When you do this, it's important to remember that the size of the inline block box will override any line height and force the lines further apart just like what would happen if you added a [[Microsoft Word|word]] with larger font in a block of type the old fashioned way.
 >
 > **[1:48](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/understanding-the-display-porperty?u=76281980&t=108)** While block, inline, and inline block are the most common display values, there are a couple of others worth mentioning because they can do some pretty interesting things.
 >
@@ -683,20 +672,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), [[Microsoft Word|Word]] (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** html (2), css (1)
 > **Definitions:** known as (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sidebar: Images are inline elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/sidebar-images-are-inline-elements?u=76281980)
+#### [Sidebar: Images are inline elements](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/sidebar-images-are-inline-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/sidebar-images-are-inline-elements?u=76281980&t=1)** - At this point, it's necessary to take a quick sidebar and address images.
 >
-> **[0:05](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/sidebar-images-are-inline-elements?u=76281980&t=5)** As I've mentioned several times earlier, in HTML images are considered inline elements due to their original definition as small figures or graphics to extenuate text.
+> **[0:05](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/sidebar-images-are-inline-elements?u=76281980&t=5)** As I've mentioned several times earlier, in [[HTML]] images are considered inline elements due to their original definition as small figures or graphics to extenuate text.
 >
 > **[0:17](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/sidebar-images-are-inline-elements?u=76281980&t=17)** To see what I mean think about how emoji are added to a sentence.
 >
@@ -708,7 +696,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/sidebar-images-are-inline-elements?u=76281980&t=37)** This has some specific consequences that need to be considered when applying the box model to images.
 >
-> **[0:43](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/sidebar-images-are-inline-elements?u=76281980&t=43)** If you add an image to a HTML document within another element, it will appear inline with the rest of the content.
+> **[0:43](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/sidebar-images-are-inline-elements?u=76281980&t=43)** If you add an image to a HTML document within another element, it will appear inline with the [[Representational State Transfer (REST)|rest]] of the content.
 >
 > **[0:50](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/sidebar-images-are-inline-elements?u=76281980&t=50)** This however is not how we normally want to display images.
 >
@@ -720,7 +708,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/sidebar-images-are-inline-elements?u=76281980&t=76)** This space is often misunderstood as stray padding or margin but is in fact there because the image sits on the baseline of the text line.
 >
-> **[1:25](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/sidebar-images-are-inline-elements?u=76281980&t=85)** To solve this, I think all images should be displayed as block level elements and in modern web design, we typically want our images to be block level elements so text and other elements can wrap around and above and below them.
+> **[1:25](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/sidebar-images-are-inline-elements?u=76281980&t=85)** To solve this, I think all images should be displayed as block level elements and in modern [[Web Design]], we typically want our images to be block level elements so text and other elements can wrap around and above and below them.
 >
 > **[1:39](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/sidebar-images-are-inline-elements?u=76281980&t=99)** We also want to treat our images as block level elements because this means we can add padding, orders, margins, drop shadow and other useful stylistic elements to them.
 >
@@ -732,17 +720,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1), css (1), web (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Web Design]] (1)
 > **Env Vars:** html (2), css (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - at (1)
 
-#### Position is everything
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/position-is-everything?u=76281980)
+#### [Position is everything](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/position-is-everything?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/position-is-everything?u=76281980&t=1)** - When we first set up a document, whether it be with type or HTML, all the content is placed based on its natural position.
+> **[0:01](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/position-is-everything?u=76281980&t=1)** - When we first set up a document, whether it be with type or [[HTML]], all the content is placed based on its natural position.
 >
 > **[0:08](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/position-is-everything?u=76281980&t=8)** That means the boxes are displayed one after the other in the natural flow of the content.
 >
@@ -754,7 +741,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/position-is-everything?u=76281980&t=31)** If we change position to relative, we can use the top, right, bottom, left, and zed-index properties to position the box relative to its original location without changing the overall layout.
 >
-> **[0:45](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/position-is-everything?u=76281980&t=45)** This is akin to cutting out a word or an image from a document and moving it somewhere else.
+> **[0:45](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/position-is-everything?u=76281980&t=45)** This is akin to cutting out a [[Microsoft Word|word]] or an image from a document and moving it somewhere else.
 >
 > **[0:51](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/position-is-everything?u=76281980&t=51)** A hole is left where it used to be and the box may end up overlapping other content.
 >
@@ -782,19 +769,18 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/position-is-everything?u=76281980&t=163)** The idea of sticky is that the element will behave like an absolutely positioned element until it hits the edges of the viewport, at which point its behavior changes to that of a fixed position element.
 >
-> **[2:55](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/position-is-everything?u=76281980&t=175)** However, until better browser support is provided for this property value, we have to turn to JavaScript to produce this particular effect.
+> **[2:55](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/position-is-everything?u=76281980&t=175)** However, until better browser support is provided for this property value, we have to turn to [[JavaScript]] to produce this particular effect.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), css (1), [[Microsoft Word|Word]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Microsoft Word|Word]] (1), [[JavaScript]] (1)
 > **Env Vars:** html (2), css (1), aka (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll up (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - when (1)
 
-#### Floating and clearing content
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/floating-and-clearing-content?u=76281980)
+#### [Floating and clearing content](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/floating-and-clearing-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -804,7 +790,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/floating-and-clearing-content?u=76281980&t=19)** Using the float property, we can visually float a box to the left or right allowing for the adjacent content to fill in the newly available space.
 >
-> **[0:28](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/floating-and-clearing-content?u=76281980&t=28)** In traditional printing this is equivalent to text wrapping, but in web design we often use the float property to position multiple boxes in a layout grid.
+> **[0:28](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/floating-and-clearing-content?u=76281980&t=28)** In traditional printing this is equivalent to text wrapping, but in [[Web Design]] we often use the float property to position multiple boxes in a layout grid.
 >
 > **[0:37](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/floating-and-clearing-content?u=76281980&t=37)** Using the float property is both straightforward and confounding due to its effect on other content.
 >
@@ -848,15 +834,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), css (1), web (1)
+> **Frameworks & Libraries:** [[Web Design]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** css (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - positioning (1)
 
-#### Using the clearfix
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/using-the-clearfix?u=76281980)
+#### [Using the clearfix](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/using-the-clearfix?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -886,7 +871,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/using-the-clearfix?u=76281980&t=76)** If I simply add a letter after the boxes, you can see the containing box regains its height, but this looks pretty weird.
 >
-> **[1:22](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/using-the-clearfix?u=76281980&t=82)** Another solution would be to add an empty div below the content, but this is poor semantics and brings presentational elements into our HTML.
+> **[1:22](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/using-the-clearfix?u=76281980&t=82)** Another solution would be to add an empty div below the content, but this is poor semantics and brings presentational elements into our [[HTML]].
 >
 > **[1:31](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/using-the-clearfix?u=76281980&t=91)** The current best solution is to employ what's known as a CSS clearfix.
 >
@@ -906,14 +891,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), web (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Env Vars:** html (2), css (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pseudo elements: Making the browser hallucinate
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/pseudo-elements-making-the-browser-hallucinate?u=76281980)
+#### [Pseudo elements: Making the browser hallucinate](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/pseudo-elements-making-the-browser-hallucinate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -939,7 +923,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/pseudo-elements-making-the-browser-hallucinate?u=76281980&t=71)** As an example, you can use before and after to add fancy quotation marks before and after a block quote.
 >
-> **[1:17](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/pseudo-elements-making-the-browser-hallucinate?u=76281980&t=77)** The quotation marks do not exist in the HTML markup and are therefore not available to be selected in the browser, but they are displayed.
+> **[1:17](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/pseudo-elements-making-the-browser-hallucinate?u=76281980&t=77)** The quotation marks do not exist in the [[HTML]] markup and are therefore not available to be selected in the browser, but they are displayed.
 >
 > **[1:26](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/pseudo-elements-making-the-browser-hallucinate?u=76281980&t=86)** Because these quotation marks are surrounded by their own boxes, we can use all standard CSS properties to change them to fit our needs.
 >
@@ -965,7 +949,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (7), power (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (7), html (1)
 > **Tools:** firefox (1)
 > **Warnings:** note that (1)
@@ -976,8 +960,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Modern layout modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/modern-layout-modules?u=76281980)
+#### [Modern layout modules](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/modern-layout-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -985,7 +968,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/modern-layout-modules?u=76281980&t=5)** So let's catch up with the latest in modern layout modules and how they relate to the box model.
 >
-> **[0:11](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/modern-layout-modules?u=76281980&t=11)** Short version, as you've learned through this course so far, web layouts were always based on a vertical, single-column layout where each box stacked on top of the next box, and anytime you wanted to put one thing next to another thing, we had to either float the box or do some sort of hack involving JavaScript.
+> **[0:11](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/modern-layout-modules?u=76281980&t=11)** Short version, as you've learned through this course so far, web layouts were always based on a vertical, single-column layout where each box stacked on top of the next box, and anytime you wanted to put one thing next to another thing, we had to either float the box or do some sort of hack involving [[JavaScript]].
 >
 > **[0:30](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/modern-layout-modules?u=76281980&t=30)** This is no longer the case thanks to two powerful new layout modules, flex and grid, and now you're able to use float, flex, and grid in combination to create flexible, responsive, advanced layouts.
 >
@@ -1045,14 +1028,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), next (2), [[JavaScript]] (2), css (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Env Vars:** css (1)
 > **Exercise Files:** template (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Flex: Content-based layouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/flex-content-based-layouts?u=76281980)
+#### [Flex: Content-based layouts](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/flex-content-based-layouts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1080,7 +1062,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/flex-content-based-layouts?u=76281980&t=116)** If I now set the body element to display flex, and then set justify content to center, it will automatically center align the content along the main axis, so that's normally the horizontal axis, and as you can see, the card now centers itself horizontally, then if I set align items to center as well, I'll align the items across the vertical axis, so now the card sits vertically in the center as well.
 >
-> **[2:24](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/flex-content-based-layouts?u=76281980&t=144)** If you ever try to do vertical centering before using CSS, you'll know it's impossible, you'll have to use java script to calculate the viewport height and all that, no longer necessary.
+> **[2:24](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/flex-content-based-layouts?u=76281980&t=144)** If you ever try to do vertical centering before using CSS, you'll know it's impossible, you'll have to use [[Java]] script to calculate the viewport height and all that, no longer necessary.
 >
 > **[2:33](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/flex-content-based-layouts?u=76281980&t=153)** Flex box, or flex, allows you to vertically align content.
 >
@@ -1092,14 +1074,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Env Vars:** css (4)
 > **Definitions:** is a  (3), known as (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Flex in depth
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/flex-in-depth?u=76281980)
+#### [Flex in depth](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/flex-in-depth?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1109,7 +1090,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/flex-in-depth?u=76281980&t=15)** As of this recording, Firefox has the best developer tools to visualize and work with both Flex and Grid, so, that's the browser I'll be using.
 >
-> **[0:23](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/flex-in-depth?u=76281980&t=23)** When you encounter a flex container, like the navigation menu up here or the three cards below, you'll notice it's highlighted as a flex container in the HTML Inspector and in the CSS Inspector and under the layout panel, you'll find flex container is populated, any time you select a flex container, from here you can activate a visual indicator, either by clicking the toggle under the layout or just by clicking on the flex identifier in the HTML Inspector and what you get is a visualization of the box model applied to the flex container and it's children right in the browser.
+> **[0:23](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/flex-in-depth?u=76281980&t=23)** When you encounter a flex container, like the navigation menu up here or the three cards below, you'll notice it's highlighted as a flex container in the [[HTML]] Inspector and in the CSS Inspector and under the layout panel, you'll find flex container is populated, any time you select a flex container, from here you can activate a visual indicator, either by clicking the toggle under the layout or just by clicking on the flex identifier in the HTML Inspector and what you get is a visualization of the box model applied to the flex container and it's children right in the browser.
 >
 > **[1:00](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/flex-in-depth?u=76281980&t=60)** So, here we can see that we have a flex container and there's an available space that's highlighted with this raster pattern on the right-hand side, from here, we can now start playing around with the various flex layout properties, these properties alone, allow you to do a lot of things that you could not do before, for example, if you have a navigation menu like this in the form of an unordered list, you can now change it's alignment and display by changing the justify-content property alone.
 >
@@ -1143,7 +1124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), css (2), hit (1), next (1), feature (1)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **Env Vars:** html (3), css (2)
 > **UI Navigation:** toggle (1), go to (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1152,8 +1133,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Grid: Layout-based layouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/grid-layout-based-layouts?u=76281980)
+#### [Grid: Layout-based layouts](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/grid-layout-based-layouts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1193,7 +1173,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/grid-layout-based-layouts?u=76281980&t=111)** It's done the same way we did with Flexbox.
 >
-> **[1:53](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/grid-layout-based-layouts?u=76281980&t=113)** You can either click on the grid icon up here in the HTML inspector or you can go down here to layouts, and under grid, click the overlay grid option.
+> **[1:53](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/grid-layout-based-layouts?u=76281980&t=113)** You can either click on the grid icon up here in the [[HTML]] inspector or you can go down here to layouts, and under grid, click the overlay grid option.
 >
 > **[2:05](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/grid-layout-based-layouts?u=76281980&t=125)** This shows you the grid in its entirety, so you can see this purple line they show us here.
 >
@@ -1219,7 +1199,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), next (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** click on (1), toggle (1)
 > **Env Vars:** html (1)
@@ -1228,8 +1208,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Grid in depth
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/grid-in-depth?u=76281980)
+#### [Grid in depth](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/grid-in-depth?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1317,7 +1296,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/grid-in-depth?u=76281980&t=256)** And all of these are defined here in grid template areas.
 >
-> **[4:20](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/grid-in-depth?u=76281980&t=260)** Now I can place contents within any one of these areas without changing the HTML in the process.
+> **[4:20](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/grid-in-depth?u=76281980&t=260)** Now I can place contents within any one of these areas without changing the [[HTML]] in the process.
 >
 > **[4:26](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/grid-in-depth?u=76281980&t=266)** So for example, if I want to move the sidebar from the sidebar area.
 >
@@ -1353,7 +1332,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), power (1), web (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Exercise Files:** template (6)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** html (2), css (1)
@@ -1367,8 +1346,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Shapes
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/shapes?u=76281980)
+#### [Shapes](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/shapes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1430,7 +1408,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3)
 > **CLI Commands:** make (3)
 > **Env Vars:** css (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -1439,14 +1416,13 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Going further with CSS and web standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/going-further-with-css-and-web-standards?u=76281980)
+#### [Going further with CSS and web standards](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/going-further-with-css-and-web-standards?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/going-further-with-css-and-web-standards?u=76281980&t=0)** - [Morten] As we come to the end of this course, I hope you have a new found appreciation and understanding of the CSS box model and all it can do for you.
 >
-> **[0:08](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/going-further-with-css-and-web-standards?u=76281980&t=8)** Now that you see the web for what it is, a patchwork of boxes, and you know how to manipulate those boxes and their contents to your liking, I'm sure you're itching to dive deeper into the world of CSS and web design.
+> **[0:08](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/going-further-with-css-and-web-standards?u=76281980&t=8)** Now that you see the web for what it is, a patchwork of boxes, and you know how to manipulate those boxes and their contents to your liking, I'm sure you're itching to dive deeper into the world of CSS and [[Web Design]].
 >
 > **[0:20](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/going-further-with-css-and-web-standards?u=76281980&t=20)** To this end, we have a long list of great courses right here in the [Lynda.com](https://Lynda.com) library.
 >
@@ -1456,7 +1432,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/going-further-with-css-and-web-standards?u=76281980&t=47)** Finally, I love hearing from you about how you used what you've learned in my courses.
 >
-> **[0:51](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/going-further-with-css-and-web-standards?u=76281980&t=51)** If you have a question, rant or rave, or just want to talk about web design, find me on Twitter at Morten, 'cause that's my name, where I talk about web design, WordPress, music, philosophy, and post terrible photos of random things.
+> **[0:51](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/going-further-with-css-and-web-standards?u=76281980&t=51)** If you have a question, rant or rave, or just want to talk about web design, find me on Twitter at Morten, 'cause that's my name, where I talk about web design, [[WordPress]], music, philosophy, and post terrible photos of random things.
 >
 > **[1:06](https://www.linkedin.com/learning/making-sense-of-the-css-box-model-2/going-further-with-css-and-web-standards?u=76281980&t=66)** Now all there's left for me to say is (speaking foreign language).
 >
@@ -1464,7 +1440,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (8), web (4), [[WordPress]] (1), next (1)
+> **Frameworks & Libraries:** [[Web Design]] (3), [[WordPress]] (1)
 > **Env Vars:** css (8)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [lynda.com](https://lynda.com) (1)

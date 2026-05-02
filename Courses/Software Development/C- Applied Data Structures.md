@@ -84,14 +84,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Wrangling data in C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/wrangling-data-in-c-sharp?u=76281980)
+#### [Wrangling data in C#](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/wrangling-data-in-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/wrangling-data-in-c-sharp?u=76281980&t=0)** - Working with data and information is one of the most important jobs of any real-world application.
 >
-> **[0:06](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/wrangling-data-in-c-sharp?u=76281980&t=6)** In modern software development, we use a variety of data structures to organize information so that it can be accessed and manipulated depending upon the task at hand.
+> **[0:06](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/wrangling-data-in-c-sharp?u=76281980&t=6)** In modern [[Software Development]], we use a variety of [[Data Structures]] to organize information so that it can be accessed and manipulated depending upon the task at hand.
 >
 > **[0:15](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/wrangling-data-in-c-sharp?u=76281980&t=15)** The data structures that you choose to perform these activities have a direct impact on the performance and effectiveness of your app.
 >
@@ -103,12 +102,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), application (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (4), [[Software Development]] (1)
 > **Env Vars:** net (1)
 > **Speakers:** - working (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -126,7 +124,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/what-you-should-know?u=76281980&t=38)** There are a couple of different ways you can work with the example code in this course.
 >
-> **[0:42](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/what-you-should-know?u=76281980&t=42)** I've set up a GitHub repository with the examples, and you can find it at this link.
+> **[0:42](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/what-you-should-know?u=76281980&t=42)** I've set up a [[GitHub]] repository with the examples, and you can find it at this link.
 >
 > **[0:46](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/what-you-should-know?u=76281980&t=46)** The course content is organized into two separate folders.
 >
@@ -182,7 +180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), data (1), feature (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (3)
 > **Tools:** github (3), terminal (3), visual studio (1)
 > **CLI Commands:** make (3), find (2), dotnet (1)
 > **Prerequisites:** set up (2), before you begin (1), setup (1), install (1), you'll need (1)
@@ -196,12 +194,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basic C# data structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/basic-c-sharp-data-structures?u=76281980)
+#### [Basic C# data structures](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/basic-c-sharp-data-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/basic-c-sharp-data-structures?u=76281980&t=0)** - [Instructor] Let's start by taking a look at some of the basic built-in data structures in C-SHARP before we examine some of the more complex data structure classes.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/basic-c-sharp-data-structures?u=76281980&t=0)** - [Instructor] Let's start by taking a look at some of the basic built-in [[Data Structures]] in C-SHARP before we examine some of the more complex data structure classes.
 >
 > **[0:08](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/basic-c-sharp-data-structures?u=76281980&t=8)** For some of you, this might be a bit of a simple review.
 >
@@ -391,7 +388,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), next (1), hit (1)
+> **Frameworks & Libraries:** [[Data Structures]] (3)
 > **CLI Commands:** make (4), dotnet (4)
 > **Tools:** terminal (4), visual studio (1)
 > **Definitions:** is a  (3), in other words (1), is an  (1)
@@ -400,8 +397,7 @@ created: 2026-05-02
 > **Ports:** :25 (1)
 > **Env Vars:** sharp (1)
 
-#### Introduction to C# data collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/introduction-to-c-sharp-data-collections?u=76281980)
+#### [Introduction to C# data collections](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/introduction-to-c-sharp-data-collections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -409,9 +405,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/introduction-to-c-sharp-data-collections?u=76281980&t=9)** The .NET library provides a set of classes that help you manage these groups of objects to make the storing and processing of data much easier.
 >
-> **[0:17](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/introduction-to-c-sharp-data-collections?u=76281980&t=17)** Each of these classes are tailored to particular types of data processing.
+> **[0:17](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/introduction-to-c-sharp-data-collections?u=76281980&t=17)** Each of these classes are tailored to particular types of [[Data Processing]].
 >
-> **[0:22](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/introduction-to-c-sharp-data-collections?u=76281980&t=22)** Later in this chapter, we'll take a closer look at how to select one of these data collection classes based upon what you needed to do.
+> **[0:22](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/introduction-to-c-sharp-data-collections?u=76281980&t=22)** Later in this chapter, we'll take a closer look at how to select one of these [[Data Collection]] classes based upon what you needed to do.
 >
 > **[0:29](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/introduction-to-c-sharp-data-collections?u=76281980&t=29)** But for now, I'm just going to introduce the various classes, along with a quick overview of what they do.
 >
@@ -453,7 +449,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), generic (2), application (1), next (1)
+> **Frameworks & Libraries:** [[Data Processing]] (1), [[Data Collection]] (1)
 > **Env Vars:** net (5)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
@@ -461,8 +457,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generic vs. non-generic collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/generic-vs-non-generic-collections?u=76281980)
+#### [Generic vs. non-generic collections](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/generic-vs-non-generic-collections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -470,7 +465,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/generic-vs-non-generic-collections?u=76281980&t=5)** The .NET framework supports both, generic and non-generic collection types.
 >
-> **[0:10](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/generic-vs-non-generic-collections?u=76281980&t=10)** But for the most part, Microsoft recommends that you should use the generic versions in any new code that you write.
+> **[0:10](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/generic-vs-non-generic-collections?u=76281980&t=10)** But for the most part, [[Microsoft]] recommends that you should use the generic versions in any new code that you write.
 >
 > **[0:18](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/generic-vs-non-generic-collections?u=76281980&t=18)** Generic collections were introduced way back in .NET 2.0 and have several benefits associated with them that the non-generic versions don't have.
 >
@@ -484,20 +479,19 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/generic-vs-non-generic-collections?u=76281980&t=60)** This leads to better performance for the generic classes since the non-generic classes have to store their data as objects, and then you have to cast between the object type and the data type you want to use.
 >
-> **[1:11](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/generic-vs-non-generic-collections?u=76281980&t=71)** For these reasons, I'm only going to be demonstrating the generic data structure classes for the rest of this course, except for the part where we examine some of the older types that you might run into when working in older .NET code bases.
+> **[1:11](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/generic-vs-non-generic-collections?u=76281980&t=71)** For these reasons, I'm only going to be demonstrating the generic data structure classes for the [[Representational State Transfer (REST)|rest]] of this course, except for the part where we examine some of the older types that you might run into when working in older .NET code bases.
 >
 > **[1:24](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/generic-vs-non-generic-collections?u=76281980&t=84)** If you want to familiarize yourself with the older non-generic versions, then I suggest you refer to the Microsoft documentation for these classes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (13), data (6), [[Microsoft]] (2), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** net (3)
 > **Versions:** 2.0 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Selecting a data structure class
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/selecting-a-data-structure-class?u=76281980)
+#### [Selecting a data structure class](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/selecting-a-data-structure-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -531,19 +525,19 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/selecting-a-data-structure-class?u=76281980&t=105)** Stacks and queues are usually used for collections of data that are going to be processed, and then each element discarded after it's used.
 >
-> **[1:54](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/selecting-a-data-structure-class?u=76281980&t=114)** Most of these data structures, other than the linked list, require contiguous space in memory, so keep that in mind as you're planning how many data elements will be kept in memory at one time.
+> **[1:54](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/selecting-a-data-structure-class?u=76281980&t=114)** Most of these [[Data Structures]], other than the linked list, require contiguous space in memory, so keep that in mind as you're planning how many data elements will be kept in memory at one time.
 >
 > **[2:04](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/selecting-a-data-structure-class?u=76281980&t=124)** These data structures also give you a way to specify their initial size when created, so that's another good way of keeping your application performing well instead of having to constantly resize the structure as more and more items are added.
 >
 > **[2:17](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/selecting-a-data-structure-class?u=76281980&t=137)** And finally, if you need to process data elements in a particular order, such as last in first out, or LIFO as it's sometimes called, or first in first out, which is known as FIFO, then the stack and queue collections are what you should consider.
 >
-> **[2:32](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/selecting-a-data-structure-class?u=76281980&t=152)** Alright, so that's a quick survey of the various characteristics of the different C# collection types that we're going to work with in more detail in the rest of the course.
+> **[2:32](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/selecting-a-data-structure-class?u=76281980&t=152)** Alright, so that's a quick survey of the various characteristics of the different C# collection types that we're going to work with in more detail in the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[2:41](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/selecting-a-data-structure-class?u=76281980&t=161)** Now, of course, your particular needs are going to be unique to your application, but this mapping should help you figure out where to focus when you're choosing a data structure type.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), application (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** you'll need (3)
 > **Env Vars:** lifo (1), fifo (1)
 > **Analogies:** such as (2)
@@ -555,8 +549,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basic List operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/basic-list-operations?u=76281980)
+#### [Basic List operations](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/basic-list-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -676,7 +669,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (3), data (2), [[Search]] (1)
 > **Code Identifiers:** strlist (9)
 > **Tools:** terminal (3)
 > **Analogies:** similar to (1), for example (1), just like (1)
@@ -684,8 +676,7 @@ created: 2026-05-02
 > **CLI Commands:** dotnet (1)
 > **Speakers:** - [instructor] (1)
 
-#### Searching List content
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/searching-list-content?u=76281980)
+#### [Searching List content](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/searching-list-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -771,7 +762,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Search]] (2)
 > **CLI Commands:** find (11), make (1), dotnet (1)
 > **Code Identifiers:** strlist (4)
 > **Analogies:** for example (2), imagine (1)
@@ -779,9 +769,9 @@ created: 2026-05-02
 > **Tools:** terminal (2)
 > **Definitions:** is a  (2)
 > **UI Navigation:** scroll down (1)
+> **Speakers:** - [instructor] (1)
 
-#### LinkedList
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/linkedlist?u=76281980)
+#### [LinkedList](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/linkedlist?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -829,7 +819,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/linkedlist?u=76281980&t=156)** All right, there we go.
 >
-> **[2:37](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/linkedlist?u=76281980&t=157)** So just like other C# data structures, I can iterate over the contents of the list without disturbing the list contents.
+> **[2:37](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/linkedlist?u=76281980&t=157)** So just like other C# [[Data Structures]], I can iterate over the contents of the list without disturbing the list contents.
 >
 > **[2:44](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/linkedlist?u=76281980&t=164)** What I'm going to do is use a for each statement like this, and I'll get each string in my list and I'll write out each string.
 >
@@ -951,7 +941,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (11), next (6), data (3), generic (2)
+> **Frameworks & Libraries:** [[Data Structures]] (1)
 > **CLI Commands:** node (11), find (5), dotnet (1), make (1)
 > **Tools:** terminal (5)
 > **Analogies:** for example (2), imagine (1), such as (1), just like (1)
@@ -959,8 +949,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### List vs. LinkedList comparison
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/list-vs-linkedlist-comparison?u=76281980)
+#### [List vs. LinkedList comparison](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/list-vs-linkedlist-comparison?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1010,13 +999,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Shopping list
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/challenge-shopping-list?u=76281980)
+#### [Challenge: Shopping list](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/challenge-shopping-list?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1062,13 +1049,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Shopping list
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/solution-shopping-list?u=76281980)
+#### [Solution: Shopping list](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/solution-shopping-list?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1108,7 +1093,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1119,12 +1103,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Stacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/stacks?u=76281980)
+#### [Stacks](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/stacks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/stacks?u=76281980&t=1)** - [Instructor] In this chapter, we'll move on to the more advanced data structures, and we'll start with the stack.
+> **[0:01](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/stacks?u=76281980&t=1)** - [Instructor] In this chapter, we'll move on to the more advanced [[Data Structures]], and we'll start with the stack.
 >
 > **[0:06](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/stacks?u=76281980&t=6)** A stack is a data structure that stores elements similar to an array, except that items are added or pushed onto the top of the stack and then removed or popped off of the top of the stack.
 >
@@ -1222,7 +1205,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), generic (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Tools:** terminal (2)
 > **Definitions:** is a  (2)
@@ -1230,8 +1213,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Queues
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/queues?u=76281980)
+#### [Queues](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/queues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1297,7 +1279,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/queues?u=76281980&t=265)** All right, so far so good. Let's keep on going.
 >
-> **[4:29](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/queues?u=76281980&t=269)** So, like other data structures, there's a contains function to search for data, so let's go ahead and try searching for something.
+> **[4:29](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/queues?u=76281980&t=269)** So, like other [[Data Structures]], there's a contains function to search for data, so let's go ahead and try searching for something.
 >
 > **[4:41](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/queues?u=76281980&t=281)** And we'll write, let's see, Queue contains 'one': and that's going to be the result of myQ.Contains, and we're going to be looking for the string one, and we know that's going to be false, because we've dequeued it.
 >
@@ -1325,7 +1307,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), generic (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1)
 > **Code Identifiers:** myq (5)
 > **Analogies:** similar to (3), just like (1)
 > **Tools:** terminal (3)
@@ -1333,8 +1315,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dictionaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/dictionaries?u=76281980)
+#### [Dictionaries](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/dictionaries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1342,7 +1323,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/dictionaries?u=76281980&t=8)** And as you might expect, there are many real world applications for this.
 >
-> **[0:13](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/dictionaries?u=76281980&t=13)** For example, you can imagine an application that keeps track of a set of products, each of which has a product ID.
+> **[0:13](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/dictionaries?u=76281980&t=13)** For example, you can imagine an application that keeps track of a set of [[Microsoft Products|products]], each of which has a product ID.
 >
 > **[0:20](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/dictionaries?u=76281980&t=20)** Each one of those IDs can be mapped to an object that describes each product, the name, the price, the quantity in stock, and so on.
 >
@@ -1372,7 +1353,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/dictionaries?u=76281980&t=114)** Actually, we'll call it Plain text.
 >
-> **[1:58](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/dictionaries?u=76281980&t=118)** And we will map .html to HTML Document.
+> **[1:58](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/dictionaries?u=76281980&t=118)** And we will map .[[HTML]] to HTML Document.
 >
 > **[2:10](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/dictionaries?u=76281980&t=130)** And then finally, let's map .jpg to JPEG Image.
 >
@@ -1386,7 +1367,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/dictionaries?u=76281980&t=172)** And actually this only happens in C# and .NET.
 >
-> **[2:55](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/dictionaries?u=76281980&t=175)** Other languages like Python don't do this, but C# does.
+> **[2:55](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/dictionaries?u=76281980&t=175)** Other languages like [[Python (Programming Language)|Python]] don't do this, but C# does.
 >
 > **[2:58](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/dictionaries?u=76281980&t=178)** So, let's go ahead and try that.
 >
@@ -1480,7 +1461,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (7), product (2), data (1), application (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[Microsoft Products|Products]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** filetypes (7), filettypes (1)
 > **Env Vars:** html (4), jpeg (1), net (1)
 > **Analogies:** for example (4), imagine (1)
@@ -1489,12 +1470,11 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Best Practices:** the key is (1)
 
-#### Challenge: Balance the statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/challenge-balance-the-statement?u=76281980)
+#### [Challenge: Balance the statement](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/challenge-balance-the-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/challenge-balance-the-statement?u=76281980&t=0)** - [Instructor] Let's try another programming challenge using the data structures that we learned about in this chapter.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/challenge-balance-the-statement?u=76281980&t=0)** - [Instructor] Let's try another programming challenge using the [[Data Structures]] that we learned about in this chapter.
 >
 > **[0:11](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/challenge-balance-the-statement?u=76281980&t=11)** So as a developer, I'm sure you've probably used a coding tool such as VS code that I'm using here that indicates when a program statement is unbalanced.
 >
@@ -1550,15 +1530,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1)
 > **Tools:** vs code (1), terminal (1)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Balance the statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/solution-balance-the-statement?u=76281980)
+#### [Solution: Balance the statement](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/solution-balance-the-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1600,7 +1579,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), next (1)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
@@ -1611,8 +1589,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### ListDictionary and HybridDictionary
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/listdictionary-and-hybriddictionary?u=76281980)
+#### [ListDictionary and HybridDictionary](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/listdictionary-and-hybriddictionary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1620,7 +1597,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/listdictionary-and-hybriddictionary?u=76281980&t=13)** In this chapter, we will review some of these classes so you can familiarize yourself with them in case you have to work with them in an older code base.
 >
-> **[0:20](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/listdictionary-and-hybriddictionary?u=76281980&t=20)** But we'll also take a look at some of the specialized data structures that are still very commonly used today.
+> **[0:20](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/listdictionary-and-hybriddictionary?u=76281980&t=20)** But we'll also take a look at some of the specialized [[Data Structures]] that are still very commonly used today.
 >
 > **[0:27](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/listdictionary-and-hybriddictionary?u=76281980&t=27)** So the first of these are the list dictionary and its close relative, the hybrid dictionary.
 >
@@ -1710,7 +1687,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Search]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (2)
 > **Code Identifiers:** myhbd (5), caseinsensitive (1)
 > **CLI Commands:** make (1), find (1), dotnet (1)
 > **Tools:** terminal (1)
@@ -1718,8 +1695,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### OrderedDictionary
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/ordereddictionary?u=76281980)
+#### [OrderedDictionary](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/ordereddictionary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1807,14 +1783,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (4)
 > **Tools:** terminal (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### StringCollection
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/stringcollection?u=76281980)
+#### [StringCollection](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/stringcollection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1842,7 +1816,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/stringcollection?u=76281980&t=77)** All right, so that will initialize my string collection with all the strings that you see here.
 >
-> **[1:22](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/stringcollection?u=76281980&t=82)** And of course, just like other data structures, I can add individual items with the add and insert functions.
+> **[1:22](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/stringcollection?u=76281980&t=82)** And of course, just like other [[Data Structures]], I can add individual items with the add and insert functions.
 >
 > **[1:28](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/stringcollection?u=76281980&t=88)** So let's try that.
 >
@@ -1920,7 +1894,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), generic (1), application (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** just like (1), for example (1)
 > **Cross-References:** go back to (1)
@@ -1928,8 +1902,7 @@ created: 2026-05-02
 > **Exercise Files:** sample code (1)
 > **Speakers:** - [instructor] (1)
 
-#### StringBuilder
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/stringbuilder?u=76281980)
+#### [StringBuilder](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/stringbuilder?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2013,7 +1986,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/stringbuilder?u=76281980&t=213)** I'll use insert to insert a string at the beginning of the string position zero.
 >
-> **[3:39](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/stringbuilder?u=76281980&t=219)** And I'll put the word alphabet in front.
+> **[3:39](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/stringbuilder?u=76281980&t=219)** And I'll put the [[Microsoft Word|word]] alphabet in front.
 >
 > **[3:43](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/stringbuilder?u=76281980&t=223)** And then I'll use the replace function.
 >
@@ -2041,7 +2014,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Tools:** terminal (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** ghi (1)
@@ -2049,14 +2022,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/challenge-strings?u=76281980)
+#### [Challenge: Strings](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/challenge-strings?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/challenge-strings?u=76281980&t=0)** - [Instructor] All right, it's time for another programming challenge.
 >
-> **[0:08](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/challenge-strings?u=76281980&t=8)** For this challenge, we are going to do some work with strings using the string data structures that we learned about earlier in the chapter.
+> **[0:08](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/challenge-strings?u=76281980&t=8)** For this challenge, we are going to do some work with strings using the string [[Data Structures]] that we learned about earlier in the chapter.
 >
 > **[0:15](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/challenge-strings?u=76281980&t=15)** Let's open up our code in the Start folder here.
 >
@@ -2078,7 +2050,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/challenge-strings?u=76281980&t=75)** I want you to use a string collection for this part, and it will write that information out to the console.
 >
-> **[1:20](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/challenge-strings?u=76281980&t=80)** Your code will also calculate the longest word in the text and also print that word.
+> **[1:20](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/challenge-strings?u=76281980&t=80)** Your code will also calculate the longest [[Microsoft Word|word]] in the text and also print that word.
 >
 > **[1:27](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/challenge-strings?u=76281980&t=87)** Then your code will calculate the number of times each unique word appears in the text and will print that information out to the console.
 >
@@ -2108,7 +2080,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), data (4), [[Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Data Structures]] (2)
 > **Cross-References:** earlier in (2), we covered (1), go back to (1)
 > **CLI Commands:** find (1)
 > **Tools:** terminal (1)
@@ -2117,8 +2089,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/solution-strings?u=76281980)
+#### [Solution: Strings](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/solution-strings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2128,7 +2099,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/solution-strings?u=76281980&t=10)** For this challenge, we had to work with a set of strings and calculate some pieces of data about them.
 >
-> **[0:15](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/solution-strings?u=76281980&t=15)** So we needed to figure out the number of words in the total text along with the longest word.
+> **[0:15](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/solution-strings?u=76281980&t=15)** So we needed to figure out the number of words in the total text along with the longest [[Microsoft Word|word]].
 >
 > **[0:20](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/solution-strings?u=76281980&t=20)** And we needed to count the number of occurrences of each word in the entire string.
 >
@@ -2196,7 +2167,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), data (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12)
 > **CLI Commands:** find (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
@@ -2208,8 +2179,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2229,7 +2199,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Programming]] (1)
 > **Env Vars:** net (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [joe] (1)

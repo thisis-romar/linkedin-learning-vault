@@ -70,10 +70,10 @@ created: 2026-05-02
 > 37. [[Data Science Team Lifecycle Management]] — 13 mentions
 > 38. [[Statistical Analysis with Wolfram Language]] — 13 mentions
 > 39. [[AWS for Developers- CLI Tips]] — 13 mentions
-> 40. [[Machine Learning and AI Foundations- Classification Modeling]] — 13 mentions
-> 41. [[Statistics Foundations 1- The Basics]] — 12 mentions
-> 42. [[Rust for Data Engineering]] — 12 mentions
-> 43. [[Data-Centric AI- Best Practices, Responsible AI, and More]] — 12 mentions
+> 40. [[Data-Centric AI- Best Practices, Responsible AI, and More]] — 13 mentions
+> 41. [[Machine Learning and AI Foundations- Classification Modeling]] — 13 mentions
+> 42. [[Statistics Foundations 1- The Basics]] — 12 mentions
+> 43. [[Rust for Data Engineering]] — 12 mentions
 > 44. [[Learning Jira Cloud Edition]] — 12 mentions
 > 45. [[Hands-On Advanced Python- Data Engineering Basics]] — 12 mentions
 > 46. [[Machine Learning with Logistic Regression in Excel, R, and Power BI]] — 12 mentions
@@ -212,88 +212,88 @@ created: 2026-05-02
 > 179. [[Machine Learning Fundamentals for Healthcare]] — 2 mentions
 > 180. [[Penetration Testing Essential Training (2021)]] — 2 mentions
 > 181. [[Generative AI and Predictive AI in the Cloud- Foundational Concepts and Scenarios]] — 2 mentions
-> 182. [[ChatGPT and SQL]] — 2 mentions
-> 183. [[AWS- Networking]] — 2 mentions
-> 184. [[The Data Science Of Healthcare Medicine And Public Health]] — 2 mentions
-> 185. [[SQL for Healthcare Professionals]] — 2 mentions
-> 186. [[Introduction To Business Analytics]] — 2 mentions
-> 187. [[Cisco Network Security- Content and Endpoint Security]] — 2 mentions
-> 188. [[Linkedin Ai Academy Ai 100 1 Demystifying Ai]] — 2 mentions
-> 189. [[Financial Forecasting with Analytics Essential Training]] — 2 mentions
-> 190. [[Digital Transformation in Supply Chains]] — 2 mentions
-> 191. [[Predictive Customer Analytics]] — 2 mentions
-> 192. [[Learning Vertex AI- MLOps with Google Cloud]] — 2 mentions
-> 193. [[Vue.js- Testing and Debugging]] — 2 mentions
-> 194. [[Artificial Intelligence Foundations- Neural Networks]] — 2 mentions
-> 195. [[Increasing Efficiency with Jira and Confluence Integrations]] — 2 mentions
-> 196. [[Security Risks in AI and Machine Learning- Categorizing Attacks and Failure Modes (2022)]] — 2 mentions
-> 197. [[Machine Learning Foundations- Probability]] — 2 mentions
-> 198. [[Machine Learning with Python- Association Rules]] — 2 mentions
-> 199. [[Supply Chain And Operations Careers Certification Tips And Tricks]] — 2 mentions
-> 200. [[Designing Data Governance]] — 2 mentions
-> 201. [[Docker Essential Training]] — 2 mentions
-> 202. [[Applied Machine Learning Ensemble Learning]] — 2 mentions
-> 203. [[Azure Spark Databricks Essential Training]] — 2 mentions
-> 204. [[Machine Learning and AI Foundations- Producing Explainable AI (XAI) and Interpretable Machine Learning Solutions]] — 2 mentions
-> 205. [[15 Tips for Landing a Data Science Job]] — 2 mentions
-> 206. [[Get a Remote Data Science Job]] — 2 mentions
-> 207. [[Introduction To Machine Learning With Knime]] — 2 mentions
-> 208. [[Machine Learning and AI Foundations- Advanced Decision Trees with KNIME]] — 2 mentions
-> 209. [[Machine Learning and AI- Advanced Decision Trees with SPSS]] — 2 mentions
-> 210. [[Jira Administration- Automation]] — 2 mentions
-> 211. [[OWASP Top 10- -3 Injection and -4 Insecure Design]] — 2 mentions
-> 212. [[Lpic 1 Exam 101 Version 5 0 Cert Prep]] — 2 mentions
-> 213. [[Complete Your First Project in R]] — 2 mentions
-> 214. [[Build Advanced Charts in R]] — 2 mentions
-> 215. [[Advanced SQL for Application Development]] — 2 mentions
-> 216. [[AWS- Monitoring, Logging, and Remediation (2021)]] — 2 mentions
-> 217. [[Advanced Spring- Spring Boot Actuator]] — 2 mentions
-> 218. [[Low Code-No-Code Data Literacy with KNIME- From Basic to Advanced]] — 2 mentions
-> 219. [[JMeter- Performance and Load Testing]] — 2 mentions
-> 220. [[Practical Database Design- Implementing Responsible Data Solutions with SQL Querying]] — 2 mentions
-> 221. [[Problem-Solving Strategies for Data Engineers]] — 2 mentions
-> 222. [[Leading With A Digital Mindset In The Age Of Ai]] — 2 mentions
-> 223. [[Cybersecurity Awareness- Cloud Security (2022)]] — 1 mentions
-> 224. [[How To Become A Thought Leader And Advance Your Career]] — 1 mentions
-> 225. [[Learning Design Thinking- Lead Change in Your Organization]] — 1 mentions
-> 226. [[Generative AI in HR]] — 1 mentions
-> 227. [[Generative AI- Introduction to Large Language Models]] — 1 mentions
-> 228. [[Generative AI Approaches to Business Challenges]] — 1 mentions
-> 229. [[Navigating the EU AI Act]] — 1 mentions
-> 230. [[Organizational Leadership in the Era of AI]] — 1 mentions
-> 231. [[Implementing a Data Strategy for Responsible AI]] — 1 mentions
-> 232. [[Build a Document Search Assistant with Node and OpenAI's Assistants API]] — 1 mentions
-> 233. [[Security Testing Essential Training (2022)]] — 1 mentions
-> 234. [[Ethical Hacking- Enumeration]] — 1 mentions
-> 235. [[Ethical Hacking- Session Hijacking]] — 1 mentions
-> 236. [[Executive Guide to Predictive Modeling Strategy at Scale]] — 1 mentions
-> 237. [[Creating Accessible PDFs]] — 1 mentions
-> 238. [[Learning PowerPoint Online (Microsoft 365)]] — 1 mentions
-> 239. [[Creating a Responsible Generative AI Use Policy]] — 1 mentions
-> 240. [[Cloud Architecture- Design Decisions]] — 1 mentions
-> 241. [[Data Decision-Making and Communication for Leaders with Nancy Duarte]] — 1 mentions
-> 242. [[Windows 10- Networking]] — 1 mentions
-> 243. [[The 80-20 Rule of Data Science]] — 1 mentions
-> 244. [[Synthetic Data as the Future of AI Privacy, Explainability, and Fairness- An Introduction for Data Scientists and Data Executives]] — 1 mentions
-> 245. [[Learning Voip And Unified Communications]] — 1 mentions
-> 246. [[Digital Accessibility for the Modern Workplace]] — 1 mentions
-> 247. [[IT Security Foundations- Operating System Security]] — 1 mentions
-> 248. [[Accessibility for Web Design]] — 1 mentions
-> 249. [[Communicating with Confidence]] — 1 mentions
-> 250. [[Interaction Design- Dashboards and Visualization]] — 1 mentions
-> 251. [[Power BI Data Visualization and Dashboard Tips, Tricks, and Techniques]] — 1 mentions
-> 252. [[Planning and Releasing Software with Jira]] — 1 mentions
-> 253. [[End-to-End Data Engineering Project]] — 1 mentions
-> 254. [[Data Management Essential Training]] — 1 mentions
-> 255. [[Secure Data Management for AI Implementation]] — 1 mentions
-> 256. [[Securing ASP.NET Core Apps- Advanced Techniques for Web Application Security]] — 1 mentions
-> 257. [[PowerPoint Essential Training (Microsoft 365)]] — 1 mentions
-> 258. [[MLOps Essentials- Monitoring Model Drift and Bias]] — 1 mentions
-> 259. [[Complete Guide to Data Lakes and Lakehouses]] — 1 mentions
-> 260. [[Learning Data Visualization]] — 1 mentions
-> 261. [[Fine-Tuning LLMs for Cybersecurity- Mistral, Llama, AutoTrain, AutoGen, and LLM Agents]] — 1 mentions
-> 262. [[Team Collaboration in Microsoft 365]] — 1 mentions
-> 263. [[Data Planning Strategy And Compliance For Ai Initiatives]] — 1 mentions
+> 182. [[Data Planning Strategy And Compliance For Ai Initiatives]] — 2 mentions
+> 183. [[ChatGPT and SQL]] — 2 mentions
+> 184. [[AWS- Networking]] — 2 mentions
+> 185. [[The Data Science Of Healthcare Medicine And Public Health]] — 2 mentions
+> 186. [[SQL for Healthcare Professionals]] — 2 mentions
+> 187. [[Introduction To Business Analytics]] — 2 mentions
+> 188. [[Cisco Network Security- Content and Endpoint Security]] — 2 mentions
+> 189. [[Linkedin Ai Academy Ai 100 1 Demystifying Ai]] — 2 mentions
+> 190. [[Financial Forecasting with Analytics Essential Training]] — 2 mentions
+> 191. [[Digital Transformation in Supply Chains]] — 2 mentions
+> 192. [[Predictive Customer Analytics]] — 2 mentions
+> 193. [[Learning Vertex AI- MLOps with Google Cloud]] — 2 mentions
+> 194. [[Vue.js- Testing and Debugging]] — 2 mentions
+> 195. [[Artificial Intelligence Foundations- Neural Networks]] — 2 mentions
+> 196. [[Increasing Efficiency with Jira and Confluence Integrations]] — 2 mentions
+> 197. [[Security Risks in AI and Machine Learning- Categorizing Attacks and Failure Modes (2022)]] — 2 mentions
+> 198. [[Machine Learning Foundations- Probability]] — 2 mentions
+> 199. [[Machine Learning with Python- Association Rules]] — 2 mentions
+> 200. [[Supply Chain And Operations Careers Certification Tips And Tricks]] — 2 mentions
+> 201. [[Designing Data Governance]] — 2 mentions
+> 202. [[Docker Essential Training]] — 2 mentions
+> 203. [[Applied Machine Learning Ensemble Learning]] — 2 mentions
+> 204. [[Azure Spark Databricks Essential Training]] — 2 mentions
+> 205. [[Machine Learning and AI Foundations- Producing Explainable AI (XAI) and Interpretable Machine Learning Solutions]] — 2 mentions
+> 206. [[15 Tips for Landing a Data Science Job]] — 2 mentions
+> 207. [[Get a Remote Data Science Job]] — 2 mentions
+> 208. [[Introduction To Machine Learning With Knime]] — 2 mentions
+> 209. [[Machine Learning and AI Foundations- Advanced Decision Trees with KNIME]] — 2 mentions
+> 210. [[Machine Learning and AI- Advanced Decision Trees with SPSS]] — 2 mentions
+> 211. [[Jira Administration- Automation]] — 2 mentions
+> 212. [[OWASP Top 10- -3 Injection and -4 Insecure Design]] — 2 mentions
+> 213. [[Lpic 1 Exam 101 Version 5 0 Cert Prep]] — 2 mentions
+> 214. [[Complete Your First Project in R]] — 2 mentions
+> 215. [[Build Advanced Charts in R]] — 2 mentions
+> 216. [[Advanced SQL for Application Development]] — 2 mentions
+> 217. [[AWS- Monitoring, Logging, and Remediation (2021)]] — 2 mentions
+> 218. [[Advanced Spring- Spring Boot Actuator]] — 2 mentions
+> 219. [[Low Code-No-Code Data Literacy with KNIME- From Basic to Advanced]] — 2 mentions
+> 220. [[JMeter- Performance and Load Testing]] — 2 mentions
+> 221. [[Practical Database Design- Implementing Responsible Data Solutions with SQL Querying]] — 2 mentions
+> 222. [[Problem-Solving Strategies for Data Engineers]] — 2 mentions
+> 223. [[Leading With A Digital Mindset In The Age Of Ai]] — 2 mentions
+> 224. [[Cybersecurity Awareness- Cloud Security (2022)]] — 1 mentions
+> 225. [[How To Become A Thought Leader And Advance Your Career]] — 1 mentions
+> 226. [[Learning Design Thinking- Lead Change in Your Organization]] — 1 mentions
+> 227. [[Generative AI in HR]] — 1 mentions
+> 228. [[Generative AI- Introduction to Large Language Models]] — 1 mentions
+> 229. [[Generative AI Approaches to Business Challenges]] — 1 mentions
+> 230. [[Navigating the EU AI Act]] — 1 mentions
+> 231. [[Organizational Leadership in the Era of AI]] — 1 mentions
+> 232. [[Implementing a Data Strategy for Responsible AI]] — 1 mentions
+> 233. [[Build a Document Search Assistant with Node and OpenAI's Assistants API]] — 1 mentions
+> 234. [[Security Testing Essential Training (2022)]] — 1 mentions
+> 235. [[Ethical Hacking- Enumeration]] — 1 mentions
+> 236. [[Ethical Hacking- Session Hijacking]] — 1 mentions
+> 237. [[Executive Guide to Predictive Modeling Strategy at Scale]] — 1 mentions
+> 238. [[Creating Accessible PDFs]] — 1 mentions
+> 239. [[Learning PowerPoint Online (Microsoft 365)]] — 1 mentions
+> 240. [[Creating a Responsible Generative AI Use Policy]] — 1 mentions
+> 241. [[Cloud Architecture- Design Decisions]] — 1 mentions
+> 242. [[Data Decision-Making and Communication for Leaders with Nancy Duarte]] — 1 mentions
+> 243. [[Windows 10- Networking]] — 1 mentions
+> 244. [[The 80-20 Rule of Data Science]] — 1 mentions
+> 245. [[Synthetic Data as the Future of AI Privacy, Explainability, and Fairness- An Introduction for Data Scientists and Data Executives]] — 1 mentions
+> 246. [[Learning Voip And Unified Communications]] — 1 mentions
+> 247. [[Digital Accessibility for the Modern Workplace]] — 1 mentions
+> 248. [[IT Security Foundations- Operating System Security]] — 1 mentions
+> 249. [[Accessibility for Web Design]] — 1 mentions
+> 250. [[Communicating with Confidence]] — 1 mentions
+> 251. [[Interaction Design- Dashboards and Visualization]] — 1 mentions
+> 252. [[Power BI Data Visualization and Dashboard Tips, Tricks, and Techniques]] — 1 mentions
+> 253. [[Planning and Releasing Software with Jira]] — 1 mentions
+> 254. [[End-to-End Data Engineering Project]] — 1 mentions
+> 255. [[Data Management Essential Training]] — 1 mentions
+> 256. [[Secure Data Management for AI Implementation]] — 1 mentions
+> 257. [[Securing ASP.NET Core Apps- Advanced Techniques for Web Application Security]] — 1 mentions
+> 258. [[PowerPoint Essential Training (Microsoft 365)]] — 1 mentions
+> 259. [[MLOps Essentials- Monitoring Model Drift and Bias]] — 1 mentions
+> 260. [[Complete Guide to Data Lakes and Lakehouses]] — 1 mentions
+> 261. [[Learning Data Visualization]] — 1 mentions
+> 262. [[Fine-Tuning LLMs for Cybersecurity- Mistral, Llama, AutoTrain, AutoGen, and LLM Agents]] — 1 mentions
+> 263. [[Team Collaboration in Microsoft 365]] — 1 mentions
 > 264. [[Strategic Data Collection, Modeling, and Quality Management for AI Systems]] — 1 mentions
 > 265. [[Advanced Data Processing- Batch, Real-Time, and Cloud Architectures for AI]] — 1 mentions
 > 266. [[Power BI Mistakes to Avoid]] — 1 mentions

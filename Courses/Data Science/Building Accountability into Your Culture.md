@@ -72,12 +72,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your role as a leader in driving accountability
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/your-role-as-a-leader?u=76281980)
+#### [Your role as a leader in driving accountability](https://www.linkedin.com/learning/building-accountability-into-your-culture/your-role-as-a-leader?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-accountability-into-your-culture/your-role-as-a-leader?u=76281980&t=0)** - One thing that differentiates a good leader from a great one is the ability to drive accountability in their organization.
+> **[0:00](https://www.linkedin.com/learning/building-accountability-into-your-culture/your-role-as-a-leader?u=76281980&t=0)** - One thing that differentiates a good leader from a great one is the ability to drive [[Accountability]] in their organization.
 >
 > **[0:08](https://www.linkedin.com/learning/building-accountability-into-your-culture/your-role-as-a-leader?u=76281980&t=8)** Whether your team is solving remote work challenges, dealing with political and market upheaval, or introducing new technologies to your company, they'll need to be held accountable for delivering results.
 >
@@ -99,12 +98,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting the tone for accountable behavior
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/setting-the-tone-for-accountable-behavior?u=76281980)
+#### [Setting the tone for accountable behavior](https://www.linkedin.com/learning/building-accountability-into-your-culture/setting-the-tone-for-accountable-behavior?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-accountability-into-your-culture/setting-the-tone-for-accountable-behavior?u=76281980&t=1)** - It's important to understand what accountability is and how it drives behavior.
+> **[0:01](https://www.linkedin.com/learning/building-accountability-into-your-culture/setting-the-tone-for-accountable-behavior?u=76281980&t=1)** - It's important to understand what [[Accountability]] is and how it drives behavior.
 >
 > **[0:06](https://www.linkedin.com/learning/building-accountability-into-your-culture/setting-the-tone-for-accountable-behavior?u=76281980&t=6)** Accountability is an external force that lets somebody know there are rewards or consequences for meeting or failing to meet their obligations.
 >
@@ -136,7 +134,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/building-accountability-into-your-culture/setting-the-tone-for-accountable-behavior?u=76281980&t=77)** I had an IT project manager who was responsible for the project, and he was supposed to hold the vendor accountable for making sure the installs went in on time, on budget, and on quality.
 >
-> **[1:30](https://www.linkedin.com/learning/building-accountability-into-your-culture/setting-the-tone-for-accountable-behavior?u=76281980&t=90)** I started getting word that the first install, which was the biggest one, wasn't going well.
+> **[1:30](https://www.linkedin.com/learning/building-accountability-into-your-culture/setting-the-tone-for-accountable-behavior?u=76281980&t=90)** I started getting [[Microsoft Word|word]] that the first install, which was the biggest one, wasn't going well.
 >
 > **[1:36](https://www.linkedin.com/learning/building-accountability-into-your-culture/setting-the-tone-for-accountable-behavior?u=76281980&t=96)** When I asked the IT project manager, he said, "No, things are great.
 >
@@ -162,7 +160,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/building-accountability-into-your-culture/setting-the-tone-for-accountable-behavior?u=76281980&t=147)** The good news is behavior did change.
 >
-> **[2:29](https://www.linkedin.com/learning/building-accountability-into-your-culture/setting-the-tone-for-accountable-behavior?u=76281980&t=149)** And for the rest of the installations, everything went great because the expectation was clear and people knew there were consequences.
+> **[2:29](https://www.linkedin.com/learning/building-accountability-into-your-culture/setting-the-tone-for-accountable-behavior?u=76281980&t=149)** And for the [[Representational State Transfer (REST)|rest]] of the installations, everything went great because the expectation was clear and people knew there were consequences.
 >
 > **[2:37](https://www.linkedin.com/learning/building-accountability-into-your-culture/setting-the-tone-for-accountable-behavior?u=76281980&t=157)** There were also rewards.
 >
@@ -181,8 +179,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - it (1)
 
-#### What and who are you accountable to?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/what-and-who-are-you-accountable-to?u=76281980)
+#### [What and who are you accountable to?](https://www.linkedin.com/learning/building-accountability-into-your-culture/what-and-who-are-you-accountable-to?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -218,7 +215,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/building-accountability-into-your-culture/what-and-who-are-you-accountable-to?u=76281980&t=65)** You provide services to other members of your organization.
 >
-> **[1:08](https://www.linkedin.com/learning/building-accountability-into-your-culture/what-and-who-are-you-accountable-to?u=76281980&t=68)** Ultimately your results drive company performance in terms of the products and services that you deliver to your ultimate customers who pay you.
+> **[1:08](https://www.linkedin.com/learning/building-accountability-into-your-culture/what-and-who-are-you-accountable-to?u=76281980&t=68)** Ultimately your results drive company performance in terms of the [[Microsoft Products|products]] and services that you deliver to your ultimate customers who pay you.
 >
 > **[1:18](https://www.linkedin.com/learning/building-accountability-into-your-culture/what-and-who-are-you-accountable-to?u=76281980&t=78)** You're accountable to your shareholders or the company's owners.
 >
@@ -262,18 +259,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - it (1)
 
-#### From accountable to responsible
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/from-accountable-to-responsible-2?u=76281980)
+#### [From accountable to responsible](https://www.linkedin.com/learning/building-accountability-into-your-culture/from-accountable-to-responsible-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-accountability-into-your-culture/from-accountable-to-responsible-2?u=76281980&t=0)** - It's important to understand the difference between accountability and responsibility.
+> **[0:00](https://www.linkedin.com/learning/building-accountability-into-your-culture/from-accountable-to-responsible-2?u=76281980&t=0)** - It's important to understand the difference between [[Accountability]] and responsibility.
 >
 > **[0:05](https://www.linkedin.com/learning/building-accountability-into-your-culture/from-accountable-to-responsible-2?u=76281980&t=5)** Accountability is an external force.
 >
@@ -306,8 +302,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - it (1)
 
-#### Modeling the right behaviors
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/modeling-the-right-behaviors?u=76281980)
+#### [Modeling the right behaviors](https://www.linkedin.com/learning/building-accountability-into-your-culture/modeling-the-right-behaviors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -315,7 +310,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/building-accountability-into-your-culture/modeling-the-right-behaviors?u=76281980&t=6)** People watch a leader's every move.
 >
-> **[0:09](https://www.linkedin.com/learning/building-accountability-into-your-culture/modeling-the-right-behaviors?u=76281980&t=9)** Setting that example is a critical element of modeling accountability and creating the right culture on your team.
+> **[0:09](https://www.linkedin.com/learning/building-accountability-into-your-culture/modeling-the-right-behaviors?u=76281980&t=9)** Setting that example is a critical element of modeling [[Accountability]] and creating the right culture on your team.
 >
 > **[0:16](https://www.linkedin.com/learning/building-accountability-into-your-culture/modeling-the-right-behaviors?u=76281980&t=16)** The words you use.
 >
@@ -365,7 +360,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accountability]] (4), next (1)
+> **Frameworks & Libraries:** [[Accountability]] (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
@@ -375,8 +370,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining accountability on your team
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/defining-accountability-on-your-team?u=76281980)
+#### [Defining accountability on your team](https://www.linkedin.com/learning/building-accountability-into-your-culture/defining-accountability-on-your-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -406,7 +400,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/building-accountability-into-your-culture/defining-accountability-on-your-team?u=76281980&t=73)** And if they've fallen short, there will be consequences.
 >
-> **[1:17](https://www.linkedin.com/learning/building-accountability-into-your-culture/defining-accountability-on-your-team?u=76281980&t=77)** So as you think about defining accountability for the members of your team, here are the following things you should think about.
+> **[1:17](https://www.linkedin.com/learning/building-accountability-into-your-culture/defining-accountability-on-your-team?u=76281980&t=77)** So as you think about defining [[Accountability]] for the members of your team, here are the following things you should think about.
 >
 > **[1:24](https://www.linkedin.com/learning/building-accountability-into-your-culture/defining-accountability-on-your-team?u=76281980&t=84)** First, ask your people to document what they think they're accountable for.
 >
@@ -428,13 +422,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accountability]] (2), business (1)
+> **Frameworks & Libraries:** [[Accountability]] (2)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - once (1)
 
-#### Using incentives to drive accountability
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/using-incentives-to-drive-accountability?u=76281980)
+#### [Using incentives to drive accountability](https://www.linkedin.com/learning/building-accountability-into-your-culture/using-incentives-to-drive-accountability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -494,7 +487,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/building-accountability-into-your-culture/using-incentives-to-drive-accountability?u=76281980&t=109)** Sometimes just a simple thank you note can go a long way in creating the right incentives.
 >
-> **[1:56](https://www.linkedin.com/learning/building-accountability-into-your-culture/using-incentives-to-drive-accountability?u=76281980&t=116)** So as you look at your team and look at driving accountability and driving the right set of behaviors, review what your people are accountable for.
+> **[1:56](https://www.linkedin.com/learning/building-accountability-into-your-culture/using-incentives-to-drive-accountability?u=76281980&t=116)** So as you look at your team and look at driving [[Accountability]] and driving the right set of behaviors, review what your people are accountable for.
 >
 > **[2:06](https://www.linkedin.com/learning/building-accountability-into-your-culture/using-incentives-to-drive-accountability?u=76281980&t=126)** Lay out those metrics in a very clear and concise way.
 >
@@ -506,11 +499,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), management (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (1)
 > **Speakers:** - once (1)
 
-#### Resources for your team
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/resources-for-your-team?u=76281980)
+#### [Resources for your team](https://www.linkedin.com/learning/building-accountability-into-your-culture/resources-for-your-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -560,7 +552,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), hit (2), management (1), next (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - leaders (1)
 
@@ -569,12 +560,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a culture of accountability
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/creating-a-culture-of-accountability-2?u=76281980)
+#### [Creating a culture of accountability](https://www.linkedin.com/learning/building-accountability-into-your-culture/creating-a-culture-of-accountability-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-accountability-into-your-culture/creating-a-culture-of-accountability-2?u=76281980&t=1)** - Once you understand your accountabilities as a leader and you've clearly defined them for the members of your team, you need to start thinking about the broader organization, and how you can create a culture of accountability.
+> **[0:01](https://www.linkedin.com/learning/building-accountability-into-your-culture/creating-a-culture-of-accountability-2?u=76281980&t=1)** - Once you understand your accountabilities as a leader and you've clearly defined them for the members of your team, you need to start thinking about the broader organization, and how you can create a culture of [[Accountability]].
 >
 > **[0:15](https://www.linkedin.com/learning/building-accountability-into-your-culture/creating-a-culture-of-accountability-2?u=76281980&t=15)** Culture is nothing more than the sum of our daily actions.
 >
@@ -665,12 +655,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - once (1)
 
-#### Strengthening a brand
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/strengthening-a-brand-2?u=76281980)
+#### [Strengthening a brand](https://www.linkedin.com/learning/building-accountability-into-your-culture/strengthening-a-brand-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-accountability-into-your-culture/strengthening-a-brand-2?u=76281980&t=1)** - Your brand is one of your most valuable assets, and a culture of accountability is going to help you protect it.
+> **[0:01](https://www.linkedin.com/learning/building-accountability-into-your-culture/strengthening-a-brand-2?u=76281980&t=1)** - Your brand is one of your most valuable assets, and a culture of [[Accountability]] is going to help you protect it.
 >
 > **[0:08](https://www.linkedin.com/learning/building-accountability-into-your-culture/strengthening-a-brand-2?u=76281980&t=8)** A brand is a promise, and you need to remember who you're ultimately accountable to.
 >
@@ -718,18 +707,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accountability]] (3), product (1)
+> **Frameworks & Libraries:** [[Accountability]] (3)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - your (1)
 
-#### Reinforcing a culture of accountability
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/reinforcing-a-culture-of-accountability-2?u=76281980)
+#### [Reinforcing a culture of accountability](https://www.linkedin.com/learning/building-accountability-into-your-culture/reinforcing-a-culture-of-accountability-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-accountability-into-your-culture/reinforcing-a-culture-of-accountability-2?u=76281980&t=1)** - It's not enough to just build a culture of accountability.
+> **[0:01](https://www.linkedin.com/learning/building-accountability-into-your-culture/reinforcing-a-culture-of-accountability-2?u=76281980&t=1)** - It's not enough to just build a culture of [[Accountability]].
 >
 > **[0:04](https://www.linkedin.com/learning/building-accountability-into-your-culture/reinforcing-a-culture-of-accountability-2?u=76281980&t=4)** You have to strengthen it and reinforce it every single day.
 >
@@ -777,7 +765,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accountability]] (2), management (1)
+> **Frameworks & Libraries:** [[Accountability]] (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - it (1)
 
@@ -786,12 +774,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generating momentum and overcoming obstacles
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-accountability-into-your-culture/generating-momentum-and-overcoming-obstacles-2?u=76281980)
+#### [Generating momentum and overcoming obstacles](https://www.linkedin.com/learning/building-accountability-into-your-culture/generating-momentum-and-overcoming-obstacles-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-accountability-into-your-culture/generating-momentum-and-overcoming-obstacles-2?u=76281980&t=0)** - Moving toward a culture of accountability requires someone to take the first step.
+> **[0:00](https://www.linkedin.com/learning/building-accountability-into-your-culture/generating-momentum-and-overcoming-obstacles-2?u=76281980&t=0)** - Moving toward a culture of [[Accountability]] requires someone to take the first step.
 >
 > **[0:06](https://www.linkedin.com/learning/building-accountability-into-your-culture/generating-momentum-and-overcoming-obstacles-2?u=76281980&t=6)** That's the leader's role.
 >

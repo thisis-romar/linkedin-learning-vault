@@ -71,8 +71,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Improve your marketing analytics acumen
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/improve-your-marketing-analytics-acumen?u=76281980)
+#### [Improve your marketing analytics acumen](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/improve-your-marketing-analytics-acumen?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -88,7 +87,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/improve-your-marketing-analytics-acumen?u=76281980&t=21)** Instead, it is assumed knowledge from watching others or guessing.
 >
-> **[0:25](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/improve-your-marketing-analytics-acumen?u=76281980&t=25)** Fortunately, you have access to information here on LinkedIn to help you grow in these areas.
+> **[0:25](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/improve-your-marketing-analytics-acumen?u=76281980&t=25)** Fortunately, you have access to information here on [[LinkedIn]] to help you grow in these areas.
 >
 > **[0:33](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/improve-your-marketing-analytics-acumen?u=76281980&t=33)** Digital marketing is one of the fastest growing business skills.
 >
@@ -112,7 +111,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (7), data (2), [[LinkedIn]] (2), business (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (2)
 > **Speakers:** - [matt] (1)
@@ -122,8 +121,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Obstacles to effective marketing analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/obstacles-to-effective-marketing-analytics?u=76281980)
+#### [Obstacles to effective marketing analytics](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/obstacles-to-effective-marketing-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -143,7 +141,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/obstacles-to-effective-marketing-analytics?u=76281980&t=28)** Now these are very serious questions.
 >
-> **[0:31](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/obstacles-to-effective-marketing-analytics?u=76281980&t=31)** They indicate a fundamental issue that has plagued marketers for years and that is that very few of us have ever had formal training in digital marketing analytics.
+> **[0:31](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/obstacles-to-effective-marketing-analytics?u=76281980&t=31)** They indicate a fundamental issue that has plagued marketers for years and that is that very few of us have ever had formal training in digital [[Marketing Analytics]].
 >
 > **[0:42](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/obstacles-to-effective-marketing-analytics?u=76281980&t=42)** And without that formal training, we do what people before us did.
 >
@@ -193,14 +191,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), business (3), [[Marketing Analytics]] (2), [[Analytics]] (2), teams (1)
+> **Frameworks & Libraries:** [[Marketing Analytics]] (2)
 > **Env Vars:** cpm (2), cpc (2), ana (1), roi (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identify your business objectives for marketing analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/identify-your-business-objectives-for-marketing-analytics?u=76281980)
+#### [Identify your business objectives for marketing analytics](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/identify-your-business-objectives-for-marketing-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -218,7 +215,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/identify-your-business-objectives-for-marketing-analytics?u=76281980&t=26)** The objective can be as simple as sell stuff to a more nuanced objective like increase profitability.
 >
-> **[0:34](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/identify-your-business-objectives-for-marketing-analytics?u=76281980&t=34)** As an example, a B2B lead generation business such as Red30 Tech.
+> **[0:34](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/identify-your-business-objectives-for-marketing-analytics?u=76281980&t=34)** As an example, a B2B [[Lead Generation]] business such as Red30 Tech.
 >
 > **[0:39](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/identify-your-business-objectives-for-marketing-analytics?u=76281980&t=39)** As a new company, their primary objective would be increased customers.
 >
@@ -270,7 +267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (4), business (4), [[Lead Generation]] (2)
+> **Frameworks & Libraries:** [[Lead Generation]] (2)
 > **Env Vars:** b2b (2), ceo (1), cpm (1), cpc (1)
 > **Exercise Files:** exercise files (1), download the (1)
 > **Definitions:** is a  (2)
@@ -278,8 +275,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define objectives, goals, metrics, and KPIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/define-objectives-goals-metrics-and-kpis?u=76281980)
+#### [Define objectives, goals, metrics, and KPIs](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/define-objectives-goals-metrics-and-kpis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -369,19 +365,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (3), business (3), next (2), seo (2), data (2)
 > **Env Vars:** kpi (3), seo (2), ceo (1), pdf (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [narrator] (1)
 
-#### Implement business objectives for strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/implement-business-objectives-for-strategy?u=76281980)
+#### [Implement business objectives for strategy](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/implement-business-objectives-for-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/implement-business-objectives-for-strategy?u=76281980&t=0)** - [Instructor] Most marketers first experience with analytics is opening up Google, Adobe, or other analytics interfaces and freezing, overwhelmed by seeing charts, graphs, unfamiliar terminology and percentages, two questions come to their mind; what is important and how do I find it?
+> **[0:00](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/implement-business-objectives-for-strategy?u=76281980&t=0)** - [Instructor] Most marketers first experience with analytics is opening up [[Google]], Adobe, or other analytics interfaces and freezing, overwhelmed by seeing charts, graphs, unfamiliar terminology and percentages, two questions come to their mind; what is important and how do I find it?
 >
 > **[0:21](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/implement-business-objectives-for-strategy?u=76281980&t=21)** And that's the issue that prevents us from fully grasping the problem.
 >
@@ -393,11 +387,11 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/implement-business-objectives-for-strategy?u=76281980&t=37)** Once the objective is clearly stated, the next step is working out how to reach that objective.
 >
-> **[0:43](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/implement-business-objectives-for-strategy?u=76281980&t=43)** That informs the development of my marketing strategy, which in turn provides the guidance of data that I will need to measure the strategy.
+> **[0:43](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/implement-business-objectives-for-strategy?u=76281980&t=43)** That informs the development of my [[Marketing Strategy]], which in turn provides the guidance of data that I will need to measure the strategy.
 >
 > **[0:53](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/implement-business-objectives-for-strategy?u=76281980&t=53)** As an example, let's look at one of our example businesses.
 >
-> **[0:56](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/implement-business-objectives-for-strategy?u=76281980&t=56)** A B2B company Read30Tech is well as our olive oil e-commerce company that can explain the strategy.
+> **[0:56](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/implement-business-objectives-for-strategy?u=76281980&t=56)** A B2B company Read30Tech is well as our olive oil [[E-Commerce]] company that can explain the strategy.
 >
 > **[1:05](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/implement-business-objectives-for-strategy?u=76281980&t=65)** The business objective is to increase revenue.
 >
@@ -437,7 +431,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/implement-business-objectives-for-strategy?u=76281980&t=152)** Well, there's a number of ways, we've chosen three, number one, we gain new leads and we measure that by how many leads did we get?
 >
-> **[2:40](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/implement-business-objectives-for-strategy?u=76281980&t=160)** Well, the next is we can optimize our lead generation process through increasing conversion rate, looking at our lead rate, looking at the content that influences the leads.
+> **[2:40](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/implement-business-objectives-for-strategy?u=76281980&t=160)** Well, the next is we can optimize our [[Lead Generation]] process through increasing conversion rate, looking at our lead rate, looking at the content that influences the leads.
 >
 > **[2:53](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/implement-business-objectives-for-strategy?u=76281980&t=173)** And third, we can create a lead referral program among our customers.
 >
@@ -495,7 +489,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), data (6), [[Analytics]] (5), business (3), [[Marketing Strategy]] (2)
+> **Frameworks & Libraries:** [[Marketing Strategy]] (2), [[Lead Generation]] (2), [[Google]] (1), [[E-Commerce]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** b2b (1)
 > **Cross-References:** go back to (1)
@@ -508,8 +502,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create measurements that connect to objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/create-measurements-that-connect-to-objectives?u=76281980)
+#### [Create measurements that connect to objectives](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/create-measurements-that-connect-to-objectives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -537,13 +530,13 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/create-measurements-that-connect-to-objectives?u=76281980&t=67)** Once there is a strategic plan such as acquiring new customers through content marketing, to drive inbound leads and customers, then we develop the methods and tactics to execute that.
 >
-> **[1:20](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/create-measurements-that-connect-to-objectives?u=76281980&t=80)** And typically content marketing strategy builds from a central focus or destination.
+> **[1:20](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/create-measurements-that-connect-to-objectives?u=76281980&t=80)** And typically content [[Marketing Strategy]] builds from a central focus or destination.
 >
-> **[1:25](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/create-measurements-that-connect-to-objectives?u=76281980&t=85)** If I'm selling products, I'm pushing people to my e-commerce catalog.
+> **[1:25](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/create-measurements-that-connect-to-objectives?u=76281980&t=85)** If I'm selling [[Microsoft Products|products]], I'm pushing people to my [[E-Commerce]] catalog.
 >
 > **[1:30](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/create-measurements-that-connect-to-objectives?u=76281980&t=90)** B-to-B drives people to landing pages.
 >
-> **[1:33](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/create-measurements-that-connect-to-objectives?u=76281980&t=93)** Content marketing takes this to another level by producing content that is meant to answer people's questions and educate them earlier in the decision-making process.
+> **[1:33](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/create-measurements-that-connect-to-objectives?u=76281980&t=93)** Content marketing takes this to another level by producing content that is meant to answer people's questions and educate them earlier in the [[Decision-Making]] process.
 >
 > **[1:44](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/create-measurements-that-connect-to-objectives?u=76281980&t=104)** This enables the company to be more visible earlier in the customer buying cycle, which improves their chances of landing that customer or lead.
 >
@@ -589,7 +582,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/create-measurements-that-connect-to-objectives?u=76281980&t=255)** Now, as a comparison, I would also need a target cost to beat so that each channel can be compared to that target and present their own average cost per lead.
 >
-> **[4:27](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/create-measurements-that-connect-to-objectives?u=76281980&t=267)** This enables you to find which channels provide cost effective lead generation and avoid other channels that result in higher costs and lower production.
+> **[4:27](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/create-measurements-that-connect-to-objectives?u=76281980&t=267)** This enables you to find which channels provide cost effective [[Lead Generation]] and avoid other channels that result in higher costs and lower production.
 >
 > **[4:38](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/create-measurements-that-connect-to-objectives?u=76281980&t=278)** As you can see how your objective is stated, indicates the development of strategy and the accompanying key performance indicators that will provide a clear line back to the objective.
 >
@@ -597,7 +590,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), [[Analytics]] (3), data (1), [[Marketing Strategy]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Marketing Strategy]] (1), [[Microsoft Products|Products]] (1), [[E-Commerce]] (1), [[Decision-Making]] (1), [[Lead Generation]] (1)
 > **Env Vars:** roi (1), kpi (1), seo (1)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1), such as (1)
@@ -606,8 +599,7 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [narrator] (1)
 
-#### Focus on marketing tactics, not channels
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/focus-on-marketing-tactics-not-channels?u=76281980)
+#### [Focus on marketing tactics, not channels](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/focus-on-marketing-tactics-not-channels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -619,7 +611,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/focus-on-marketing-tactics-not-channels?u=76281980&t=7)** A marketer is given a goal like create new leads, and they immediately start thinking, TikToK!
 >
-> **[0:14](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/focus-on-marketing-tactics-not-channels?u=76281980&t=14)** Unfortunately, this isn't strategic thinking, nor is it tactical thinking.
+> **[0:14](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/focus-on-marketing-tactics-not-channels?u=76281980&t=14)** Unfortunately, this isn't [[Strategic Thinking]], nor is it tactical thinking.
 >
 > **[0:19](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/focus-on-marketing-tactics-not-channels?u=76281980&t=19)** It is evidence that someone's been infected with shiny object syndrome.
 >
@@ -647,7 +639,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/focus-on-marketing-tactics-not-channels?u=76281980&t=99)** But the temptation is to grab these platform numbers and report them, typically by copying and pasting the data tables or reports generated by the platform.
 >
-> **[1:49](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/focus-on-marketing-tactics-not-channels?u=76281980&t=109)** And unfortunately, this only shows the activity generated by the platform, but does not connect to the marketing strategy or the business objective.
+> **[1:49](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/focus-on-marketing-tactics-not-channels?u=76281980&t=109)** And unfortunately, this only shows the activity generated by the platform, but does not connect to the [[Marketing Strategy]] or the business objective.
 >
 > **[2:00](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/focus-on-marketing-tactics-not-channels?u=76281980&t=120)** If these reports do show the business objective of generating leads, it's within the format of the platform report and obscured by the clutter of the surrounding data that isn't important.
 >
@@ -681,13 +673,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), business (3), [[Strategic Thinking]] (2), teams (2), [[Marketing Strategy]] (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (2), [[Marketing Strategy]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - marketers (1)
 
-#### Establish target outcomes and value for your analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/establish-target-outcomes-and-value-for-your-analytics?u=76281980)
+#### [Establish target outcomes and value for your analytics](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/establish-target-outcomes-and-value-for-your-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -701,7 +692,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/establish-target-outcomes-and-value-for-your-analytics?u=76281980&t=30)** For example, your reports may focus on views, visits or leads, but do you also show how those contribute to revenue or business value?
 >
-> **[0:41](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/establish-target-outcomes-and-value-for-your-analytics?u=76281980&t=41)** In the planning model, after listing the media and tactics of the campaign, I then list the desired outcome of the campaign or the marketing strategy.
+> **[0:41](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/establish-target-outcomes-and-value-for-your-analytics?u=76281980&t=41)** In the planning model, after listing the media and tactics of the campaign, I then list the desired outcome of the campaign or the [[Marketing Strategy]].
 >
 > **[0:51](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/establish-target-outcomes-and-value-for-your-analytics?u=76281980&t=51)** Here's where I choose the outcome that best fits the strategy.
 >
@@ -755,7 +746,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/establish-target-outcomes-and-value-for-your-analytics?u=76281980&t=212)** The page value shows me the value generated by that channel.
 >
-> **[3:37](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/establish-target-outcomes-and-value-for-your-analytics?u=76281980&t=217)** And now this is not actualized revenue, like an e-commerce website would see, it's an estimated value based on the contribution of your goals.
+> **[3:37](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/establish-target-outcomes-and-value-for-your-analytics?u=76281980&t=217)** And now this is not actualized revenue, like an [[E-Commerce]] website would see, it's an estimated value based on the contribution of your goals.
 >
 > **[3:49](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/establish-target-outcomes-and-value-for-your-analytics?u=76281980&t=229)** This is important because it is common to see many goal conversions such as video views or subscribers, but they may be lower value conversions as opposed to leads.
 >
@@ -765,14 +756,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), data (2), [[Analytics]] (2), [[Marketing Strategy]] (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Marketing Strategy]] (1), [[E-Commerce]] (1)
 > **Analogies:** such as (3), for example (1)
 > **Env Vars:** b2b (2), b2c (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Establish comparison and benchmark data
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/establish-comparison-and-benchmark-data?u=76281980)
+#### [Establish comparison and benchmark data](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/establish-comparison-and-benchmark-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -812,7 +802,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/establish-comparison-and-benchmark-data?u=76281980&t=99)** Now line two has a much higher bounce rate at 93%.
 >
-> **[1:43](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/establish-comparison-and-benchmark-data?u=76281980&t=103)** So if more people are leaving the site than average, how would that affect the rest of the metrics?
+> **[1:43](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/establish-comparison-and-benchmark-data?u=76281980&t=103)** So if more people are leaving the site than average, how would that affect the [[Representational State Transfer (REST)|rest]] of the metrics?
 >
 > **[1:49](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/establish-comparison-and-benchmark-data?u=76281980&t=109)** What would you expect?
 >
@@ -856,7 +846,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Analytics]] (1), [[Representational State Transfer (REST)|Rest]] (1), business (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
 > **Versions:** 1.25 (1)
@@ -869,8 +859,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leverage the best analytics skill: Asking questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/leverage-the-best-analytics-skill-asking-questions?u=76281980)
+#### [Leverage the best analytics skill: Asking questions](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/leverage-the-best-analytics-skill-asking-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -944,7 +933,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/leverage-the-best-analytics-skill-asking-questions?u=76281980&t=140)** You see, now we're not just looking at the numbers.
 >
-> **[2:22](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/leverage-the-best-analytics-skill-asking-questions?u=76281980&t=142)** We're considering other factors, asking questions like this enables us to ask deeper questions about the marketing strategy, and we can analyze the influence of content in addition to the marketing of the content.
+> **[2:22](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/leverage-the-best-analytics-skill-asking-questions?u=76281980&t=142)** We're considering other factors, asking questions like this enables us to ask deeper questions about the [[Marketing Strategy]], and we can analyze the influence of content in addition to the marketing of the content.
 >
 > **[2:36](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/leverage-the-best-analytics-skill-asking-questions?u=76281980&t=156)** And let's keep going.
 >
@@ -968,13 +957,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (3), [[Marketing Strategy]] (1)
+> **Frameworks & Libraries:** [[Marketing Strategy]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - people (1)
 
-#### Apply question-asking frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/apply-question-asking-frameworks?u=76281980)
+#### [Apply question-asking frameworks](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/apply-question-asking-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1036,7 +1024,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/apply-question-asking-frameworks?u=76281980&t=170)** And then what were the conversions worth in terms of the realized value to our company?
 >
-> **[2:56](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/apply-question-asking-frameworks?u=76281980&t=176)** And by the way, Google Analytics uses this framework in their analytics navigation and reporting tables.
+> **[2:56](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/apply-question-asking-frameworks?u=76281980&t=176)** And by the way, [[Google]] Analytics uses this framework in their analytics navigation and reporting tables.
 >
 > **[3:03](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/apply-question-asking-frameworks?u=76281980&t=183)** Acquisition, behavior and conversion.
 >
@@ -1056,13 +1044,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Analytics]] (8), next (3), [[Search]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Connect measurement factors in marketing campaigns
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/connect-measurement-factors-in-marketing-campaigns?u=76281980)
+#### [Connect measurement factors in marketing campaigns](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/connect-measurement-factors-in-marketing-campaigns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1152,7 +1139,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), business (2), [[Analytics]] (1)
 > **Env Vars:** cpm (3), ctr (1)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** such as (1), for example (1)
@@ -1164,8 +1150,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apply KPIs to connect data to action
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/apply-kpis-to-connect-data-to-action?u=76281980)
+#### [Apply KPIs to connect data to action](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/apply-kpis-to-connect-data-to-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1243,15 +1228,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (2), [[Analytics]] (1), hit (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** cpm (4)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Improve the user experience using marketing analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/improve-the-user-experience-using-marketing-analytics?u=76281980)
+#### [Improve the user experience using marketing analytics](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/improve-the-user-experience-using-marketing-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1313,20 +1296,19 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/improve-the-user-experience-using-marketing-analytics?u=76281980&t=193)** Increasing the color and the size of the content and making a large bold button immediately increased their sales 10 times their average rate.
 >
-> **[3:24](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/improve-the-user-experience-using-marketing-analytics?u=76281980&t=204)** Look for processes, forms, checkouts, any multi-stage conversion points, where you can measure for improvements.
+> **[3:24](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/improve-the-user-experience-using-marketing-analytics?u=76281980&t=204)** Look for processes, [[Forms]], checkouts, any multi-stage conversion points, where you can measure for improvements.
 >
 > **[3:32](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/improve-the-user-experience-using-marketing-analytics?u=76281980&t=212)** Improving these stages immediately increases your conversion rates and revenue, but ultimately it makes for happier visitors who've had great experiences and will come back again.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Establish a reporting framework for your analytics data
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/establish-a-reporting-framework-for-your-analytics-data?u=76281980)
+#### [Establish a reporting framework for your analytics data](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/establish-a-reporting-framework-for-your-analytics-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1338,7 +1320,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/establish-a-reporting-framework-for-your-analytics-data?u=76281980&t=22)** They fail when they don't focus on what's important.
 >
-> **[0:25](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/establish-a-reporting-framework-for-your-analytics-data?u=76281980&t=25)** And so everything ends up in the report creating a 30 to 50 slide PowerPoint deck full of tables, charts, and graphs with no insight and no value.
+> **[0:25](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/establish-a-reporting-framework-for-your-analytics-data?u=76281980&t=25)** And so everything ends up in the report creating a 30 to 50 slide [[Microsoft PowerPoint|PowerPoint]] deck full of tables, charts, and graphs with no insight and no value.
 >
 > **[0:36](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/establish-a-reporting-framework-for-your-analytics-data?u=76281980&t=36)** And in reality your managers just wanted the return on investment.
 >
@@ -1420,7 +1402,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft PowerPoint|Powerpoint]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Versions:** 0.07 (2), 0.01 (1), 0.75 (1), 1.8 (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** recommended (1)
@@ -1431,8 +1413,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implementing your marketing analytics strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/implementing-your-marketing-analytics-strategy?u=76281980)
+#### [Implementing your marketing analytics strategy](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/implementing-your-marketing-analytics-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1466,7 +1447,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/implementing-your-marketing-analytics-strategy?u=76281980&t=116)** Review these sessions often, as I'm sure that some lessons may take a few repeats in order to make better sense, use the worksheets to clarify your approach to analytics, and you'll find the paths are easier to find.
 >
-> **[2:10](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/implementing-your-marketing-analytics-strategy?u=76281980&t=130)** Finally, please connect with me here on LinkedIn, I always answer questions posed in the Q and A, and I'm always publishing new information that you might find helpful.
+> **[2:10](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/implementing-your-marketing-analytics-strategy?u=76281980&t=130)** Finally, please connect with me here on [[LinkedIn]], I always answer questions posed in the Q and A, and I'm always publishing new information that you might find helpful.
 >
 > **[2:21](https://www.linkedin.com/learning/marketing-foundations-analytics-2021/implementing-your-marketing-analytics-strategy?u=76281980&t=141)** Here's my contact information, my LinkedIn profile, and I highly recommend my podcast.
 >
@@ -1476,7 +1457,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Analytics]] (3), business (2), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **CLI Commands:** find (8), make (2)
 > **Tools:** postman (1)
 > **Speakers:** - [instructor] (1)

@@ -94,12 +94,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with GDPR compliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/getting-started-with-gdpr-compliance-23861527?u=76281980)
+#### [Getting started with GDPR compliance](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/getting-started-with-gdpr-compliance-23861527?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/getting-started-with-gdpr-compliance-23861527?u=76281980&t=0)** - GDPR is the most comprehensive privacy regulation enacted to date.
+> **[0:00](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/getting-started-with-gdpr-compliance-23861527?u=76281980&t=0)** - GDPR is the most comprehensive [[Privacy]] regulation enacted to date.
 >
 > **[0:05](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/getting-started-with-gdpr-compliance-23861527?u=76281980&t=5)** Any business that has European connections is likely impacted.
 >
@@ -117,12 +116,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Privacy]] (1), business (1)
+> **Frameworks & Libraries:** [[Privacy]] (1)
 > **Env Vars:** gdpr (3)
 > **Speakers:** - gdpr (1)
 
-#### Not legal advice disclaimer
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/not-legal-advice-disclaimer-14305874?u=76281980)
+#### [Not legal advice disclaimer](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/not-legal-advice-disclaimer-14305874?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -130,7 +128,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/not-legal-advice-disclaimer-14305874?u=76281980&t=11)** The examples and scenarios I pose are purely hypothetical and should not be taken as legal advice.
 >
-> **[0:18](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/not-legal-advice-disclaimer-14305874?u=76281980&t=18)** If you have questions, you should reach out to an attorney, one who specializes in privacy and the GDPR regulation.
+> **[0:18](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/not-legal-advice-disclaimer-14305874?u=76281980&t=18)** If you have questions, you should reach out to an attorney, one who specializes in [[Privacy]] and the GDPR regulation.
 >
 > **[0:27](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/not-legal-advice-disclaimer-14305874?u=76281980&t=27)** You should not rely on the contents of these videos in place of a lawyer's advice.
 >
@@ -142,16 +140,15 @@ created: 2026-05-02
 > **Env Vars:** gdpr (2)
 > **Speakers:** - [instructor] (1)
 
-#### Definitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/definitions?u=76281980)
+#### [Definitions](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/definitions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/definitions?u=76281980&t=0)** - [Instructor] Because GDPR is so complex, a few definitions are in order.
 >
-> **[0:06](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/definitions?u=76281980&t=6)** The first is data privacy.
+> **[0:06](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/definitions?u=76281980&t=6)** The first is [[Data Privacy]].
 >
-> **[0:09](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/definitions?u=76281980&t=9)** We expect privacy.
+> **[0:09](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/definitions?u=76281980&t=9)** We expect [[Privacy]].
 >
 > **[0:12](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/definitions?u=76281980&t=12)** We don't want our personal details everywhere on the ethernet for people to see and view.
 >
@@ -185,7 +182,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/definitions?u=76281980&t=99)** Next is processing.
 >
-> **[1:41](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/definitions?u=76281980&t=101)** Notice that this is an action word.
+> **[1:41](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/definitions?u=76281980&t=101)** Notice that this is an action [[Microsoft Word|word]].
 >
 > **[1:45](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/definitions?u=76281980&t=105)** It has lots of implications.
 >
@@ -213,7 +210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (3), [[Privacy]] (2), [[Security]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (1), [[Privacy]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** gdpr (3)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -226,8 +223,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of GDPR basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/overview-of-gdpr-basics?u=76281980)
+#### [Overview of GDPR basics](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/overview-of-gdpr-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -245,11 +241,11 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/overview-of-gdpr-basics?u=76281980&t=35)** GDPR is a regulation created in 2016.
 >
-> **[0:39](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/overview-of-gdpr-basics?u=76281980&t=39)** It contains 99 articles covering basic data privacy for individuals, also known as data subjects, who are located in the European Union and the European economic area.
+> **[0:39](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/overview-of-gdpr-basics?u=76281980&t=39)** It contains 99 articles covering basic [[Data Privacy]] for individuals, also known as data subjects, who are located in the European Union and the European economic area.
 >
 > **[0:52](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/overview-of-gdpr-basics?u=76281980&t=52)** This regulation requires businesses to protect personal data of individuals, regardless of their location and the citizenship or residence of the individuals.
 >
-> **[1:04](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/overview-of-gdpr-basics?u=76281980&t=64)** When looking at the European union's privacy history, a few key events occurred leading up to GDPR, Safe Harbor was a set of privacy principles in action between the European Union and the United States in 2000.
+> **[1:04](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/overview-of-gdpr-basics?u=76281980&t=64)** When looking at the European union's [[Privacy]] history, a few key events occurred leading up to GDPR, Safe Harbor was a set of privacy principles in action between the European Union and the United States in 2000.
 >
 > **[1:19](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/overview-of-gdpr-basics?u=76281980&t=79)** However, they were invalidated in 2015 because the protections were determined to not be sufficient.
 >
@@ -263,7 +259,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/overview-of-gdpr-basics?u=76281980&t=121)** It is obvious in our world that the threat of attacks is very real.
 >
-> **[2:06](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/overview-of-gdpr-basics?u=76281980&t=126)** This can be seen in some statistics around breaches and records.
+> **[2:06](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/overview-of-gdpr-basics?u=76281980&t=126)** This can be seen in some [[Statistics]] around breaches and records.
 >
 > **[2:11](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/overview-of-gdpr-basics?u=76281980&t=131)** In 2016, there were over 1000 reported breaches.
 >
@@ -297,14 +293,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Privacy]] (4), [[Statistics]] (1), application (1)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Data Privacy]] (1), [[Statistics]] (1)
 > **Env Vars:** gdpr (5), aol (1)
 > **Definitions:** is a  (2), known as (1)
 > **Versions:** 4.9 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scope
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/scope?u=76281980)
+#### [Scope](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/scope?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -330,7 +325,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/scope?u=76281980&t=75)** In terms of data, any personal data that is being collected, analyzed, stored, et cetera, is included in this regulation.
 >
-> **[1:26](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/scope?u=76281980&t=86)** As for the systems included, any system, whether it's automated or manual, will require data mapping and is included under this tenant.
+> **[1:26](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/scope?u=76281980&t=86)** As for the systems included, any system, whether it's automated or manual, will require [[Data Mapping]] and is included under this tenant.
 >
 > **[1:37](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/scope?u=76281980&t=97)** In terms of exclusions, personal data that is needed by law enforcement or for national security would not be covered under this regulation.
 >
@@ -362,14 +357,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Security]] (1), web (1), business (1)
+> **Frameworks & Libraries:** [[Data Mapping]] (1)
 > **Env Vars:** gdpr (3), pii (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Important dates
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/important-dates?u=76281980)
+#### [Important dates](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/important-dates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -385,7 +379,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/important-dates?u=76281980&t=35)** Compliance is really about having mechanisms in place to protect data.
 >
-> **[0:41](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/important-dates?u=76281980&t=41)** Note that there is no definitive definition for the word reasonable in this regulation, so organizations must be diligent about what is required.
+> **[0:41](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/important-dates?u=76281980&t=41)** Note that there is no definitive definition for the [[Microsoft Word|word]] reasonable in this regulation, so organizations must be diligent about what is required.
 >
 > **[0:52](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/important-dates?u=76281980&t=52)** GDPR is designed to protect consumers and businesses.
 >
@@ -411,7 +405,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/important-dates?u=76281980&t=137)** Let's discuss an example.
 >
-> **[2:19](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/important-dates?u=76281980&t=139)** In 2017, TalkTalk was fined by the Information Commissioner's Office for failing to protect customer data.
+> **[2:19](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/important-dates?u=76281980&t=139)** In 2017, TalkTalk was fined by the Information Commissioner's [[Microsoft Office|Office]] for failing to protect customer data.
 >
 > **[2:28](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/important-dates?u=76281980&t=148)** Specifically called out were their security failings.
 >
@@ -423,7 +417,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Office|Office]] (2), [[Security]] (2), business (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** gdpr (6)
 > **Warnings:** note that (2)
 > **Speakers:** - [instructor] (1)
@@ -433,8 +427,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data controllers and processors
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/data-controllers-and-processors?u=76281980)
+#### [Data controllers and processors](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/data-controllers-and-processors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -444,7 +437,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/data-controllers-and-processors?u=76281980&t=15)** They are in effect the data owners.
 >
-> **[0:18](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/data-controllers-and-processors?u=76281980&t=18)** They have ultimate accountability for the safety of that data.
+> **[0:18](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/data-controllers-and-processors?u=76281980&t=18)** They have ultimate [[Accountability]] for the safety of that data.
 >
 > **[0:22](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/data-controllers-and-processors?u=76281980&t=22)** Some of the tasks that a data controller is responsible for is to ensure they have compliance.
 >
@@ -494,14 +487,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), hr (3), [[Security]] (2), [[Accountability]] (1), product (1)
+> **Frameworks & Libraries:** [[Accountability]] (1)
 > **Env Vars:** gdpr (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Joint controllers and third-party partners
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/joint-controllers-and-third-party-partners?u=76281980)
+#### [Joint controllers and third-party partners](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/joint-controllers-and-third-party-partners?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -535,13 +527,13 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/joint-controllers-and-third-party-partners?u=76281980&t=106)** Let's break it down with an example.
 >
-> **[1:48](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/joint-controllers-and-third-party-partners?u=76281980&t=108)** If you sign a processing agreement with Google Analytics and the data gathered via cookies on your domain, then Google would be a processor for you.
+> **[1:48](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/joint-controllers-and-third-party-partners?u=76281980&t=108)** If you sign a processing agreement with [[Google]] Analytics and the data gathered via cookies on your domain, then Google would be a processor for you.
 >
 > **[1:58](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/joint-controllers-and-third-party-partners?u=76281980&t=118)** You are responsible for that data.
 >
 > **[2:01](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/joint-controllers-and-third-party-partners?u=76281980&t=121)** However, if Google is receiving data from your website visitors for their own purposes, then they would be considered a third-party service.
 >
-> **[2:11](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/joint-controllers-and-third-party-partners?u=76281980&t=131)** Seeing how many data breaches happen through third-party relationships, it is important for organizations to ensure that their third parties are handling data privacy and security in a compliant way as well.
+> **[2:11](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/joint-controllers-and-third-party-partners?u=76281980&t=131)** Seeing how many data breaches happen through third-party relationships, it is important for organizations to ensure that their third parties are handling [[Data Privacy]] and security in a compliant way as well.
 >
 > **[2:25](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/joint-controllers-and-third-party-partners?u=76281980&t=145)** Some methods to do that include providing minimum security requirements or frameworks, vendor risk assessments during contracting and then on a regular basis for any changes, self-certifications and acknowledgements by the third party, and independent audits.
 >
@@ -549,13 +541,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Google]] (3), [[Security]] (2), [[Analytics]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Data Privacy]] (1)
 > **Env Vars:** gdpr (5)
 > **Definitions:** is a  (2), known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data protection officer (DPO)
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/data-protection-officer-dpo?u=76281980)
+#### [Data protection officer (DPO)](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/data-protection-officer-dpo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -617,7 +608,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), management (1), business (1), application (1), next (1)
 > **Env Vars:** dpo (10), gdpr (4)
 > **Definitions:** is an  (1)
 > **Warnings:** important note (1)
@@ -629,8 +619,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Article 24: Responsibilities of the controller
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/article-24-responsibilities-of-the-controller?u=76281980)
+#### [Article 24: Responsibilities of the controller](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/article-24-responsibilities-of-the-controller?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -646,11 +635,11 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/article-24-responsibilities-of-the-controller?u=76281980&t=39)** Next is to understand the data being processed.
 >
-> **[0:43](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/article-24-responsibilities-of-the-controller?u=76281980&t=43)** A data mapping exercise will facilitate this.
+> **[0:43](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/article-24-responsibilities-of-the-controller?u=76281980&t=43)** A [[Data Mapping]] exercise will facilitate this.
 >
 > **[0:46](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/article-24-responsibilities-of-the-controller?u=76281980&t=46)** Understand what the organization has and why they have it.
 >
-> **[0:50](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/article-24-responsibilities-of-the-controller?u=76281980&t=50)** Additionally, understand the probability and impact of losing that data.
+> **[0:50](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/article-24-responsibilities-of-the-controller?u=76281980&t=50)** Additionally, understand the [[Probability]] and impact of losing that data.
 >
 > **[0:56](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/article-24-responsibilities-of-the-controller?u=76281980&t=56)** This is to enable us to determine the appropriate measures based on the criticality of the data.
 >
@@ -676,13 +665,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Data Mapping]] (1), [[Probability]] (1)
 > **Env Vars:** gdpr (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Article 28: Data processor tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/article-28-data-processor-tasks?u=76281980)
+#### [Article 28: Data processor tasks](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/article-28-data-processor-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -696,7 +684,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/article-28-data-processor-tasks?u=76281980&t=25)** Next is the use of subprocessors.
 >
-> **[0:28](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/article-28-data-processor-tasks?u=76281980&t=28)** This happens when a processor outsources some part or all of the data processing to a third party.
+> **[0:28](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/article-28-data-processor-tasks?u=76281980&t=28)** This happens when a processor outsources some part or all of the [[Data Processing]] to a third party.
 >
 > **[0:35](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/article-28-data-processor-tasks?u=76281980&t=35)** A subprocessor is bound by the same data protection obligations set out in the processor's contract with the controller.
 >
@@ -734,19 +722,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Processing]] (1)
 > **Env Vars:** raci (2)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Run books and processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/run-books-and-processes?u=76281980)
+#### [Run books and processes](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/run-books-and-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/run-books-and-processes?u=76281980&t=0)** - [Instructor] Having appropriate processes and runbooks to outline execution procedures are key to an organization's ability to react to a data breach.
+> **[0:00](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/run-books-and-processes?u=76281980&t=0)** - [Instructor] Having appropriate processes and runbooks to outline execution procedures are key to an organization's ability to [[React.js|react]] to a data breach.
 >
 > **[0:11](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/run-books-and-processes?u=76281980&t=11)** A process is simply a series of actions or steps taken in a specific order.
 >
@@ -776,7 +763,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/run-books-and-processes?u=76281980&t=97)** If a team needs to restore a system because it is lost, are those settings and procedures documented in a way that they can execute?
 >
-> **[1:46](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/run-books-and-processes?u=76281980&t=106)** Not only is system configuration important, but including security actions help too.
+> **[1:46](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/run-books-and-processes?u=76281980&t=106)** Not only is [[System Configuration]] important, but including security actions help too.
 >
 > **[1:53](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/run-books-and-processes?u=76281980&t=113)** Who is the system owner? Who has access to the system?
 >
@@ -796,25 +783,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[React.js|React]] (1), application (1), [[System Configuration]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[System Configuration]] (1)
 > **Analogies:** such as (1), imagine (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### PIAs and DPIAs
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/pias-and-dpias?u=76281980)
+#### [PIAs and DPIAs](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/pias-and-dpias?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/pias-and-dpias?u=76281980&t=0)** - [Instructor] Articles 35 and 36 of the GDPR require a controller to do an impact assessment of data processing and its risks to a data subject, specifically instruments called PIAs and DPIAs are introduced.
+> **[0:00](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/pias-and-dpias?u=76281980&t=0)** - [Instructor] Articles 35 and 36 of the GDPR require a controller to do an impact assessment of [[Data Processing]] and its risks to a data subject, specifically instruments called PIAs and DPIAs are introduced.
 >
-> **[0:17](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/pias-and-dpias?u=76281980&t=17)** A Privacy Impact Assessment, or PIA, is about analyzing how an organization handles personally identifiable information, remember we call that PII, including collection, use, sharing, and maintaining that data.
+> **[0:17](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/pias-and-dpias?u=76281980&t=17)** A [[Privacy]] Impact Assessment, or PIA, is about analyzing how an organization handles personally identifiable information, remember we call that PII, including collection, use, sharing, and maintaining that data.
 >
 > **[0:34](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/pias-and-dpias?u=76281980&t=34)** A PIA is usually completed whenever an organization implements a new process or launches a new product.
 >
-> **[0:41](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/pias-and-dpias?u=76281980&t=41)** That includes using third-party products too if it means data is involved.
+> **[0:41](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/pias-and-dpias?u=76281980&t=41)** That includes using third-party [[Microsoft Products|products]] too if it means data is involved.
 >
 > **[0:46](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/pias-and-dpias?u=76281980&t=46)** An example might be if you are implementing a new piece of software, like a customer relationship management system.
 >
@@ -844,20 +830,19 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/pias-and-dpias?u=76281980&t=163)** A DPIA assesses potential threat areas and vulnerabilities that exist during that processing.
 >
-> **[2:52](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/pias-and-dpias?u=76281980&t=172)** PIAs and DPIAs are critical instruments to ensure data collection, its impact, and risk mitigations are understood by an organization.
+> **[2:52](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/pias-and-dpias?u=76281980&t=172)** PIAs and DPIAs are critical instruments to ensure [[Data Collection]], its impact, and risk mitigations are understood by an organization.
 >
 > **[3:03](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/pias-and-dpias?u=76281980&t=183)** Organizations need to ensure completing these assessments is part of their planning for new processes and products that have data collection.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Privacy]] (2), [[Microsoft Products|Products]] (2), product (1), management (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Microsoft Products|Products]] (2), [[Data Collection]] (2), [[Data Processing]] (1)
 > **Env Vars:** pia (5), dpia (5), gdpr (2), pii (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Trust: A competitive advantage
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/trust-a-competitive-advantage?u=76281980)
+#### [Trust: A competitive advantage](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/trust-a-competitive-advantage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -865,7 +850,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/trust-a-competitive-advantage?u=76281980&t=9)** But I don't like that way of thinking.
 >
-> **[0:11](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/trust-a-competitive-advantage?u=76281980&t=11)** GDPR is here to protect the people you work with, and everyone has seen how a data breach or other privacy incident can really cause a company to lose trust and business.
+> **[0:11](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/trust-a-competitive-advantage?u=76281980&t=11)** GDPR is here to protect the people you work with, and everyone has seen how a data breach or other [[Privacy]] incident can really cause a company to lose trust and business.
 >
 > **[0:22](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/trust-a-competitive-advantage?u=76281980&t=22)** So rather than taking a defensive approach to privacy, what if organizations turned their privacy policies into a competitive differentiator?
 >
@@ -909,7 +894,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/trust-a-competitive-advantage?u=76281980&t=138)** Another thought to consider is a benefit to the consumer.
 >
-> **[2:22](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/trust-a-competitive-advantage?u=76281980&t=142)** What if you were able to offer greater personalization of the user experience based on your data collection?
+> **[2:22](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/trust-a-competitive-advantage?u=76281980&t=142)** What if you were able to offer greater personalization of the [[User Experience (UX)|user experience]] based on your [[Data Collection]]?
 >
 > **[2:30](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/trust-a-competitive-advantage?u=76281980&t=150)** Some consumers would be willing to give you more information if it makes their content more relevant to them.
 >
@@ -923,7 +908,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Privacy]] (4), business (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[User Experience (UX)|User experience]] (1), [[Data Collection]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** gdpr (2)
 > **Definitions:** is a  (1)
@@ -936,8 +921,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Legal basis
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/legal-basis?u=76281980)
+#### [Legal basis](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/legal-basis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -989,7 +973,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/legal-basis?u=76281980&t=113)** Finally, there is public interest.
 >
-> **[1:56](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/legal-basis?u=76281980&t=116)** When thinking of a compelling ground that overrides the freedoms of a data subject, I think of things like the Center for Disease Control, or CDC, which is a government agency for public health in the United States.
+> **[1:56](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/legal-basis?u=76281980&t=116)** When thinking of a compelling ground that overrides the freedoms of a data subject, I think of things like the Center for Disease Control, or CDC, which is a government agency for [[Public Health]] in the United States.
 >
 > **[2:10](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/legal-basis?u=76281980&t=130)** If there's a pandemic and the CDC is gathering data about that pandemic and where it may go, those types of data gathering activities certainly outweigh the freedom of individual data subjects for the greater good.
 >
@@ -999,21 +983,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), next (3), [[Public Health]] (1)
+> **Frameworks & Libraries:** [[Public Health]] (1)
 > **Env Vars:** gdpr (2), cdc (2)
 > **Definitions:** is a  (2)
 > **Analogies:** think of it as (1), just like (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Document activities
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/document-activities?u=76281980)
+#### [Document activities](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/document-activities?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/document-activities?u=76281980&t=0)** - [Instructor] Article 35 of GDPR requires organizations to execute an impact analysis of the data they process.
 >
-> **[0:09](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/document-activities?u=76281980&t=9)** Understanding the impact of privacy requires understanding the nature of the data, as well as how it is being processed.
+> **[0:09](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/document-activities?u=76281980&t=9)** Understanding the impact of [[Privacy]] requires understanding the nature of the data, as well as how it is being processed.
 >
 > **[0:17](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/document-activities?u=76281980&t=17)** Classifying certain data as sensitive or confidential can help an organization to identify data that needs additional protections.
 >
@@ -1023,7 +1006,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/document-activities?u=76281980&t=43)** Remember back in chapter three when we discussed PIAs?
 >
-> **[0:48](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/document-activities?u=76281980&t=48)** Having a data mapping is part of that assessment.
+> **[0:48](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/document-activities?u=76281980&t=48)** Having a [[Data Mapping]] is part of that assessment.
 >
 > **[0:51](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/document-activities?u=76281980&t=51)** A data mapping exercise includes three key components.
 >
@@ -1075,18 +1058,17 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/document-activities?u=76281980&t=201)** We will only use it internally, but to ensure it is protected, we will limit access to the system where the data lives and ensure that the data is encrypted, so if it is lost, it will be unreadable.
 >
-> **[3:34](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/document-activities?u=76281980&t=214)** Knowing what data an organization is processing and the lifecycle of that data is a core tenet to complying with the Data Privacy Impact Assessment required by GDPR.
+> **[3:34](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/document-activities?u=76281980&t=214)** Knowing what data an organization is processing and the lifecycle of that data is a core tenet to complying with the [[Data Privacy]] Impact Assessment required by GDPR.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), [[Privacy]] (2), next (1), database (1), business (1)
+> **Frameworks & Libraries:** [[Data Mapping]] (3), [[Privacy]] (1), [[Data Privacy]] (1)
 > **Env Vars:** gdpr (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
-#### Technical measures
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/technical-measures?u=76281980)
+#### [Technical measures](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/technical-measures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1108,7 +1090,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/technical-measures?u=76281980&t=40)** You might call them hackers.
 >
-> **[0:43](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/technical-measures?u=76281980&t=43)** An organization should consider data in transit and data at rest.
+> **[0:43](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/technical-measures?u=76281980&t=43)** An organization should consider data in transit and data at [[Representational State Transfer (REST)|rest]].
 >
 > **[0:48](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/technical-measures?u=76281980&t=48)** For data in transit, TLS encryption is the best technical choice today.
 >
@@ -1124,11 +1106,11 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/technical-measures?u=76281980&t=87)** They align to ISO 27,002, which is an international standard.
 >
-> **[1:33](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/technical-measures?u=76281980&t=93)** They align to the NIST regulations in the United States, and to the Australian Security Director at top floor security controls.
+> **[1:33](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/technical-measures?u=76281980&t=93)** They align to the [[NIST]] regulations in the United States, and to the Australian Security Director at top floor security controls.
 >
 > **[1:41](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/technical-measures?u=76281980&t=101)** The CIS controls can help, not only under the regulation of GDPR, but in overall security measures for an organization as well.
 >
-> **[1:52](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/technical-measures?u=76281980&t=112)** Some examples include having an inventory of your hardware and software, doing vulnerability assessments on those assets, ensuring access controls, securing your service providers, and very importantly, training your people to understand the security controls.
+> **[1:52](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/technical-measures?u=76281980&t=112)** Some examples include having an inventory of your [[Hardware]] and software, doing vulnerability assessments on those assets, ensuring access controls, securing your service providers, and very importantly, training your people to understand the security controls.
 >
 > **[2:12](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/technical-measures?u=76281980&t=132)** The third technical measure is the restoration of data.
 >
@@ -1142,7 +1124,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/technical-measures?u=76281980&t=154)** Finally, technical measures should be tested and checked for effectiveness.
 >
-> **[2:40](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/technical-measures?u=76281980&t=160)** Some examples of how an organization can test are penetration testing, auditing access to systems, or doing a restore test of their backups.
+> **[2:40](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/technical-measures?u=76281980&t=160)** Some examples of how an organization can test are [[Penetration Testing]], auditing access to systems, or doing a restore test of their backups.
 >
 > **[2:51](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/technical-measures?u=76281980&t=171)** An organization should consider both internal and external tests for their technical measures.
 >
@@ -1152,19 +1134,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Security]] (8), [[Representational State Transfer (REST)|Rest]] (2), next (1), [[NIST]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[NIST]] (1), [[Hardware]] (1), [[Penetration Testing]] (1)
 > **Env Vars:** gdpr (2), tls (1), aes256 (1), cia (1), iso (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Notification
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/notification?u=76281980)
+#### [Notification](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/notification?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/notification?u=76281980&t=0)** - [Narrator] Article 33 of GDPR outlines the circumstances when, and the timing for, notifications in case of a breach.
 >
-> **[0:11](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/notification?u=76281980&t=11)** The regulation outlines that if a data subject's rights of data privacy are at risk, an organization is required to notify them about the situation.
+> **[0:11](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/notification?u=76281980&t=11)** The regulation outlines that if a data subject's rights of [[Data Privacy]] are at risk, an organization is required to notify them about the situation.
 >
 > **[0:21](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/notification?u=76281980&t=21)** It is always better to err on the side of caution.
 >
@@ -1174,7 +1155,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/notification?u=76281980&t=32)** The security tenets of confidentiality, integrity, and availability apply here.
 >
-> **[0:39](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/notification?u=76281980&t=39)** If data is impacted anywhere during the process, and it impacts a data subject's privacy, it should be considered a breach.
+> **[0:39](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/notification?u=76281980&t=39)** If data is impacted anywhere during the process, and it impacts a data subject's [[Privacy]], it should be considered a breach.
 >
 > **[0:48](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/notification?u=76281980&t=48)** This is not only about data theft.
 >
@@ -1222,7 +1203,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Privacy]] (5), business (2), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Data Privacy]] (1)
 > **Env Vars:** gdpr (3)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
@@ -1236,8 +1217,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Access
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/access?u=76281980)
+#### [Access](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1263,24 +1243,23 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/access?u=76281980&t=57)** The categories of information under GDPR include all personal data being processed.
 >
-> **[1:03](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/access?u=76281980&t=63)** There is a right to other supplementary information as well, which largely corresponds to information that should be provided in a privacy notice.
+> **[1:03](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/access?u=76281980&t=63)** There is a right to other supplementary information as well, which largely corresponds to information that should be provided in a [[Privacy]] notice.
 >
 > **[1:13](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/access?u=76281980&t=73)** As an example, if I worked for Explore California, I would have the right to request access to all data the company collected on me during my employment.
 >
-> **[1:23](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/access?u=76281980&t=83)** Explore California would need to provide me a list of any employee data they have collected, such as my profile information, salary, banking information, emergency contacts, and even my performance reviews.
+> **[1:23](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/access?u=76281980&t=83)** Explore California would need to provide me a list of any employee data they have collected, such as my profile information, salary, [[Banking]] information, emergency contacts, and even my performance reviews.
 >
 > **[1:41](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/access?u=76281980&t=101)** Article 15 allows for data subjects to see the data that is being processed about them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Privacy]] (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[Banking]] (1)
 > **Env Vars:** gdpr (2)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Correction
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/correction?u=76281980)
+#### [Correction](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/correction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1312,12 +1291,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11)
 > **Env Vars:** gdpr (1)
 > **Speakers:** - [instructor] (1)
 
-#### Right to be forgotten
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/right-to-be-forgotten?u=76281980)
+#### [Right to be forgotten](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/right-to-be-forgotten?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1339,7 +1316,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/right-to-be-forgotten?u=76281980&t=50)** The first is purpose, if say, you work for Explore California and they have personal information based on your employment then, at some point, if you were to leave Explore California and the required HR retention period is over, then that data no longer serves its original purpose and can be deleted.
 >
-> **[1:13](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/right-to-be-forgotten?u=76281980&t=73)** Next, is consent, if the original data collection was based on a voluntary agreement, then the data subject has the right to revoke that agreement at any time and request deletion.
+> **[1:13](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/right-to-be-forgotten?u=76281980&t=73)** Next, is consent, if the original [[Data Collection]] was based on a voluntary agreement, then the data subject has the right to revoke that agreement at any time and request deletion.
 >
 > **[1:26](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/right-to-be-forgotten?u=76281980&t=86)** Third is objection, if an organization is collecting data and the data subject contests it, if the collecting organization cannot provide a prevailing reason to continue processing that data, then the subject can require the controller to erase it.
 >
@@ -1351,17 +1328,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), next (2), hr (1)
+> **Frameworks & Libraries:** [[Data Collection]] (1)
 > **Env Vars:** gdpr (2)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Objection
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/objection?u=76281980)
+#### [Objection](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/objection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/objection?u=76281980&t=0)** - [Instructor] Article 21 covers the situations when a data subject can object to data processing of their personal data.
+> **[0:00](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/objection?u=76281980&t=0)** - [Instructor] Article 21 covers the situations when a data subject can object to [[Data Processing]] of their personal data.
 >
 > **[0:08](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/objection?u=76281980&t=8)** Objection only applies based on legitimate, or public interest.
 >
@@ -1397,12 +1373,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14)
+> **Frameworks & Libraries:** [[Data Processing]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Children's data age 13-16
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/children-s-data-age-13-16?u=76281980)
+#### [Children's data age 13-16](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/children-s-data-age-13-16?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1428,12 +1403,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Env Vars:** gdpr (1)
 > **Speakers:** - [instructor] (1)
 
-#### Portability
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/portability?u=76281980)
+#### [Portability](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/portability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1471,13 +1444,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), next (1)
 > **Env Vars:** gdpr (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prompt response
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/prompt-response?u=76281980)
+#### [Prompt response](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/prompt-response?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1509,7 +1480,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), prompt (1), application (1)
 > **Env Vars:** gdpr (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1518,14 +1488,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Timing
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/timing?u=76281980)
+#### [Timing](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/timing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/timing?u=76281980&t=0)** - [Narrator] Article 33 of GDPR outlines the circumstances when and the timing for notification in case of a data breach.
 >
-> **[0:10](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/timing?u=76281980&t=10)** The regulation outlines that if a data subjects rights of data privacy are at risk an organization is required to notify those citizens about the situation.
+> **[0:10](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/timing?u=76281980&t=10)** The regulation outlines that if a data subjects rights of [[Data Privacy]] are at risk an organization is required to notify those citizens about the situation.
 >
 > **[0:21](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/timing?u=76281980&t=21)** It is better to err on the side of caution.
 >
@@ -1547,9 +1516,9 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/timing?u=76281980&t=72)** If an organization, whether it be the controller or the processor, suspects a breach they should first notify and engage their own internal teams.
 >
-> **[1:22](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/timing?u=76281980&t=82)** Some of the actions that should occur would be to alert your information security team as they will run incident response for you.
+> **[1:22](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/timing?u=76281980&t=82)** Some of the actions that should occur would be to alert your information security team as they will run [[Incident Response]] for you.
 >
-> **[1:30](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/timing?u=76281980&t=90)** If your organization has a privacy team they should be involved from the beginning to help you navigate the regulatory landscape.
+> **[1:30](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/timing?u=76281980&t=90)** If your organization has a [[Privacy]] team they should be involved from the beginning to help you navigate the regulatory landscape.
 >
 > **[1:39](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/timing?u=76281980&t=99)** IT can pull logs and help to identify root cause.
 >
@@ -1577,14 +1546,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Privacy]] (3), teams (2), business (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (2), [[Incident Response]] (1), [[Privacy]] (1)
 > **Env Vars:** gdpr (3)
 > **Warnings:** caution (1), note that (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Public relations
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/public-relations?u=76281980)
+#### [Public relations](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/public-relations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1628,21 +1596,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), data (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** gdpr (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Incident response and forensics
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/incident-response-and-forensics?u=76281980)
+#### [Incident response and forensics](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/incident-response-and-forensics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/incident-response-and-forensics?u=76281980&t=0)** - [Instructor] One component of GDPR's notification requirements is the ability to identify root cause and to propose mitigation.
 >
-> **[0:09](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/incident-response-and-forensics?u=76281980&t=9)** Incident response can accomplish this task for an organization.
+> **[0:09](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/incident-response-and-forensics?u=76281980&t=9)** [[Incident Response]] can accomplish this task for an organization.
 >
 > **[0:14](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/incident-response-and-forensics?u=76281980&t=14)** Incident response is a standardized protocol for identifying and mitigating a data breach.
 >
@@ -1694,7 +1660,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Incident Response]] (6), data (4), [[Security]] (2), next (1), business (1)
+> **Frameworks & Libraries:** [[Incident Response]] (6)
 > **Env Vars:** gdpr (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -1706,8 +1672,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Published guidance summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/published-guidance-summary?u=76281980)
+#### [Published guidance summary](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/published-guidance-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1729,20 +1694,19 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/published-guidance-summary?u=76281980&t=87)** For those of you looking for practical advice and applicability of articles, I highly recommend the EDPB as a solid resource.
 >
-> **[1:38](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/published-guidance-summary?u=76281980&t=98)** While the EDPB is certainly considered the best resource as it is outlined in the regulation, there are other great resources available, including privacy forums, articles, and legal counsel, all of which may cover areas not yet addressed by the EDPB.
+> **[1:38](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/published-guidance-summary?u=76281980&t=98)** While the EDPB is certainly considered the best resource as it is outlined in the regulation, there are other great resources available, including [[Privacy]] forums, articles, and legal counsel, all of which may cover areas not yet addressed by the EDPB.
 >
 > **[1:56](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/published-guidance-summary?u=76281980&t=116)** Having resources to help apply the GDPR concepts and articles in a consistent industry standard way will help you effectively demonstrate your prudence in being compliant with GDPR.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), application (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1)
 > **Env Vars:** gdpr (6), edpb (4)
 > **Analogies:** such as (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enforcement action examples
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/enforcement-action-examples?u=76281980)
+#### [Enforcement action examples](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/enforcement-action-examples?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1776,7 +1740,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/enforcement-action-examples?u=76281980&t=121)** The greatest number of fines have been imposed based on the top three violations.
 >
-> **[2:08](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/enforcement-action-examples?u=76281980&t=128)** The most common violation is insufficient legal basis for data processing.
+> **[2:08](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/enforcement-action-examples?u=76281980&t=128)** The most common violation is insufficient legal basis for [[Data Processing]].
 >
 > **[2:13](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/enforcement-action-examples?u=76281980&t=133)** Second is insufficient technical and organizational measures to ensure information security.
 >
@@ -1790,9 +1754,9 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/enforcement-action-examples?u=76281980&t=170)** WhatsApp was fined 225 million euros for failure to meet the information transparency requirements.
 >
-> **[2:58](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/enforcement-action-examples?u=76281980&t=178)** In addition to the fine, the Data Protection Board also required WhatsApp to bring its processing activities into compliance and to update its privacy notices.
+> **[2:58](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/enforcement-action-examples?u=76281980&t=178)** In addition to the fine, the Data Protection Board also required WhatsApp to bring its processing activities into compliance and to update its [[Privacy]] notices.
 >
-> **[3:09](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/enforcement-action-examples?u=76281980&t=189)** Marriott International was find 18 million pounds for not having sufficient security measures, including monitoring of privileged accounts, monitoring of databases, lack of server hardening and lack of encryption.
+> **[3:09](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/enforcement-action-examples?u=76281980&t=189)** Marriott International was find 18 million pounds for not having sufficient security measures, including monitoring of privileged accounts, monitoring of [[Databases]], lack of server hardening and lack of encryption.
 >
 > **[3:24](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/enforcement-action-examples?u=76281980&t=204)** Of note, the initial fine recommendation was 99 million pounds, but was reduced based on Marriott's prompt notification action and seeking to mitigate the risk of damage to data subjects.
 >
@@ -1802,7 +1766,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Security]] (3), business (1), power (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Data Processing]] (2), [[Privacy]] (1), [[Databases]] (1)
 > **Env Vars:** gdpr (4), dpa (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
@@ -1810,8 +1774,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### UK's Data Protection Act of 2018 and Brexit impacts
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/uk-s-data-protection-act-of-2018-and-brexit-impacts?u=76281980)
+#### [UK's Data Protection Act of 2018 and Brexit impacts](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/uk-s-data-protection-act-of-2018-and-brexit-impacts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1831,7 +1794,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/uk-s-data-protection-act-of-2018-and-brexit-impacts?u=76281980&t=56)** Separately, it also has safeguards for criminal data.
 >
-> **[1:00](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/uk-s-data-protection-act-of-2018-and-brexit-impacts?u=76281980&t=60)** The Information Commissioner's Office, or ICO, is the UK's independent authority to uphold the UK GDPR.
+> **[1:00](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/uk-s-data-protection-act-of-2018-and-brexit-impacts?u=76281980&t=60)** The Information Commissioner's [[Microsoft Office|Office]], or ICO, is the UK's independent authority to uphold the UK GDPR.
 >
 > **[1:09](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/uk-s-data-protection-act-of-2018-and-brexit-impacts?u=76281980&t=69)** They have a guide to data protection that reviews the principal's individual rights and obligations under the act.
 >
@@ -1853,7 +1816,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Env Vars:** gdpr (12), dpa (2), ico (1)
 > **CLI Commands:** find (1)
 > **Definitions:** stands for (1)
@@ -1864,8 +1827,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Additional references to ensure GDPR compliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/additional-references-to-ensure-gdpr-compliance?u=76281980)
+#### [Additional references to ensure GDPR compliance](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/additional-references-to-ensure-gdpr-compliance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1877,21 +1839,20 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/additional-references-to-ensure-gdpr-compliance?u=76281980&t=28)** that summarizes the main tenants of GDPR and presents them in an easily navigable format.
 >
-> **[0:35](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/additional-references-to-ensure-gdpr-compliance?u=76281980&t=35)** If you'd like to expand your knowledge about data privacy and security, be sure to check out the other courses in the library.
+> **[0:35](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/additional-references-to-ensure-gdpr-compliance?u=76281980&t=35)** If you'd like to expand your knowledge about [[Data Privacy]] and security, be sure to check out the other courses in the library.
 >
-> **[0:43](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/additional-references-to-ensure-gdpr-compliance?u=76281980&t=43)** If you'd like to contact me, you can reach me on LinkedIn.
+> **[0:43](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/additional-references-to-ensure-gdpr-compliance?u=76281980&t=43)** If you'd like to contact me, you can reach me on [[LinkedIn]].
 >
 > **[0:48](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/additional-references-to-ensure-gdpr-compliance?u=76281980&t=48)** Good luck on your GDPR journey, thanks again.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Privacy]] (1), [[Security]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (1), [[LinkedIn]] (1)
 > **Env Vars:** gdpr (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - [mandy] (1)
 
-#### Not legal advice disclaimer
-> [LinkedIn Learning](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/not-legal-advice-disclaimer?u=76281980)
+#### [Not legal advice disclaimer](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/not-legal-advice-disclaimer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1905,7 +1866,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/not-legal-advice-disclaimer?u=76281980&t=25)** If you have questions, you should reach out to an attorney.
 >
-> **[0:28](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/not-legal-advice-disclaimer?u=76281980&t=28)** One who specializes in privacy and the GDPR regulation.
+> **[0:28](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/not-legal-advice-disclaimer?u=76281980&t=28)** One who specializes in [[Privacy]] and the GDPR regulation.
 >
 > **[0:33](https://www.linkedin.com/learning/gdpr-compliance-essential-training-14328961/not-legal-advice-disclaimer?u=76281980&t=33)** You should not rely on the contents of these videos in place of a lawyer's advice.
 >

@@ -80,8 +80,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring the basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/exploring-the-basics?u=76281980)
+#### [Exploring the basics](https://www.linkedin.com/learning/business-benefits-realization-foundations/exploring-the-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,7 +110,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), teams (1)
 > **Warnings:** warning (1)
 > **Speakers:** - if (1)
 
@@ -120,8 +118,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is business benefits realization?
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/what-is-business-benefits-realization?u=76281980)
+#### [What is business benefits realization?](https://www.linkedin.com/learning/business-benefits-realization-foundations/what-is-business-benefits-realization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -171,13 +168,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), management (3), teams (2), product (1), game (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** picture (1)
 > **Speakers:** - we (1)
 
-#### Why is business benefits realization important?
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/why-is-business-benefits-realization-important?u=76281980)
+#### [Why is business benefits realization important?](https://www.linkedin.com/learning/business-benefits-realization-foundations/why-is-business-benefits-realization-important?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -219,7 +214,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/business-benefits-realization-foundations/why-is-business-benefits-realization-important?u=76281980&t=130)** This places benefits front and center.
 >
-> **[2:13](https://www.linkedin.com/learning/business-benefits-realization-foundations/why-is-business-benefits-realization-important?u=76281980&t=133)** No one hides, there are no surprises to the business, and the resulting behavior is that the delivery team takes accountability for what they are building.
+> **[2:13](https://www.linkedin.com/learning/business-benefits-realization-foundations/why-is-business-benefits-realization-important?u=76281980&t=133)** No one hides, there are no surprises to the business, and the resulting behavior is that the delivery team takes [[Accountability]] for what they are building.
 >
 > **[2:24](https://www.linkedin.com/learning/business-benefits-realization-foundations/why-is-business-benefits-realization-important?u=76281980&t=144)** It increases the likelihood that leaders will more often achieve the benefits they expect from their project and program investments.
 >
@@ -233,12 +228,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), management (2), teams (2), product (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - we (1)
 
-#### Key terms and principles of business benefits realization
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/key-terms-and-principles-of-business-benefits-realization?u=76281980)
+#### [Key terms and principles of business benefits realization](https://www.linkedin.com/learning/business-benefits-realization-foundations/key-terms-and-principles-of-business-benefits-realization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -322,7 +316,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), game (1), application (1), [[Automation]] (1), data (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), means that (1)
 > **Warnings:** be aware (1), don't make the mistake (1)
@@ -334,12 +327,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Vision, mission, goals, objectives, and strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/vision-mission-goals-objectives-and-strategy?u=76281980)
+#### [Vision, mission, goals, objectives, and strategy](https://www.linkedin.com/learning/business-benefits-realization-foundations/vision-mission-goals-objectives-and-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/business-benefits-realization-foundations/vision-mission-goals-objectives-and-strategy?u=76281980&t=1)** - Do you ever wonder how your day-to-day work makes a difference to your organization or to the customers who use the products and services you're building?
+> **[0:01](https://www.linkedin.com/learning/business-benefits-realization-foundations/vision-mission-goals-objectives-and-strategy?u=76281980&t=1)** - Do you ever wonder how your day-to-day work makes a difference to your organization or to the customers who use the [[Microsoft Products|products]] and services you're building?
 >
 > **[0:11](https://www.linkedin.com/learning/business-benefits-realization-foundations/vision-mission-goals-objectives-and-strategy?u=76281980&t=11)** In the perfect world, information about the organization's vision, mission, goals, objectives, and strategy would flow freely from senior leaders to delivery teams.
 >
@@ -403,13 +395,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (10), [[Microsoft Products|Products]] (2), next (2), teams (1), functional (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** picture (1)
 > **Speakers:** - do (1)
 
-#### How leaders guide work to achieve strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/how-leaders-guide-work-to-achieve-strategy?u=76281980)
+#### [How leaders guide work to achieve strategy](https://www.linkedin.com/learning/business-benefits-realization-foundations/how-leaders-guide-work-to-achieve-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -455,13 +446,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), teams (2), product (1), next (1), management (1)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (2)
 > **Speakers:** - if (1)
 
-#### Shifting culture to enable successful adoption
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/shifting-culture-to-enable-successful-adoption?u=76281980)
+#### [Shifting culture to enable successful adoption](https://www.linkedin.com/learning/business-benefits-realization-foundations/shifting-culture-to-enable-successful-adoption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -521,7 +510,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), teams (2), management (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Prerequisites:** getting started (1)
@@ -532,8 +520,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Step one: Identifying benefits
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/step-one-identifying-benefits?u=76281980)
+#### [Step one: Identifying benefits](https://www.linkedin.com/learning/business-benefits-realization-foundations/step-one-identifying-benefits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -601,7 +588,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (12), application (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1)
@@ -610,8 +596,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - would (1)
 
-#### Step two: Analyzing benefits and plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/step-two-analyzing-benefits-and-plan?u=76281980)
+#### [Step two: Analyzing benefits and plan](https://www.linkedin.com/learning/business-benefits-realization-foundations/step-two-analyzing-benefits-and-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -675,7 +660,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/business-benefits-realization-foundations/step-two-analyzing-benefits-and-plan?u=76281980&t=172)** A benefit owner is the individual or group who will go on record as to its value and take charge to ensure its realization.
 >
-> **[3:01](https://www.linkedin.com/learning/business-benefits-realization-foundations/step-two-analyzing-benefits-and-plan?u=76281980&t=181)** It's important to make sure there is an owner for each benefit because ownership assigns accountability.
+> **[3:01](https://www.linkedin.com/learning/business-benefits-realization-foundations/step-two-analyzing-benefits-and-plan?u=76281980&t=181)** It's important to make sure there is an owner for each benefit because ownership assigns [[Accountability]].
 >
 > **[3:08](https://www.linkedin.com/learning/business-benefits-realization-foundations/step-two-analyzing-benefits-and-plan?u=76281980&t=188)** And if there's accountability, it's more likely to get done.
 >
@@ -687,15 +672,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), management (2), [[Accountability]] (2)
+> **Frameworks & Libraries:** [[Accountability]] (2)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - one (1)
 
-#### Step three: Delivering benefits
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/step-three-delivering-benefits?u=76281980)
+#### [Step three: Delivering benefits](https://www.linkedin.com/learning/business-benefits-realization-foundations/step-three-delivering-benefits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -709,7 +693,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/business-benefits-realization-foundations/step-three-delivering-benefits?u=76281980&t=33)** The time horizon for when a benefit is delivered, differs depending on whether we are providing the benefit as part of a project or program, and based on whether the business change involves a new or augmented product or service.
 >
-> **[0:48](https://www.linkedin.com/learning/business-benefits-realization-foundations/step-three-delivering-benefits?u=76281980&t=48)** Even within the context of a project, the timing of benefits delivery differs depending on whether the team is delivering the business change, using a Waterfall or Agile approach.
+> **[0:48](https://www.linkedin.com/learning/business-benefits-realization-foundations/step-three-delivering-benefits?u=76281980&t=48)** Even within the context of a project, the timing of benefits delivery differs depending on whether the team is delivering the business change, using a Waterfall or [[Agile Development|Agile]] approach.
 >
 > **[1:01](https://www.linkedin.com/learning/business-benefits-realization-foundations/step-three-delivering-benefits?u=76281980&t=61)** Waterfall approaches are sequential.
 >
@@ -751,11 +735,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Agile Development|Agile]] (2), teams (2), product (1), management (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2)
 > **Speakers:** - in (1)
 
-#### Step four: Sustaining benefits
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/step-four-sustaining-benefits?u=76281980)
+#### [Step four: Sustaining benefits](https://www.linkedin.com/learning/business-benefits-realization-foundations/step-four-sustaining-benefits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -787,7 +770,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/business-benefits-realization-foundations/step-four-sustaining-benefits?u=76281980&t=84)** Styles change, new building codes are passed and it loses value.
 >
-> **[1:30](https://www.linkedin.com/learning/business-benefits-realization-foundations/step-four-sustaining-benefits?u=76281980&t=90)** The same is true with implemented solutions, market conditions change, new competitors come along, offering better products and services or your organization strategic goals and objectives shift.
+> **[1:30](https://www.linkedin.com/learning/business-benefits-realization-foundations/step-four-sustaining-benefits?u=76281980&t=90)** The same is true with implemented solutions, market conditions change, new competitors come along, offering better [[Microsoft Products|products]] and services or your organization strategic goals and objectives shift.
 >
 > **[1:44](https://www.linkedin.com/learning/business-benefits-realization-foundations/step-four-sustaining-benefits?u=76281980&t=104)** Any one of these will deplete the value of the original investment.
 >
@@ -821,14 +804,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft Products|Products]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - you (1)
 
-#### Step five: Making adjustments
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/step-five-making-adjustments?u=76281980)
+#### [Step five: Making adjustments](https://www.linkedin.com/learning/business-benefits-realization-foundations/step-five-making-adjustments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -884,7 +866,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), product (2), management (1)
 > **CLI Commands:** make (5)
 > **Analogies:** picture (1)
 > **Warnings:** keep in mind (1)
@@ -895,8 +876,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sponsor role in business benefits realization
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/sponsor-role-in-business-benefits-realization?u=76281980)
+#### [Sponsor role in business benefits realization](https://www.linkedin.com/learning/business-benefits-realization-foundations/sponsor-role-in-business-benefits-realization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -940,13 +920,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), management (2), teams (2), product (1)
 > **Definitions:** is a  (3)
 > **Analogies:** picture (1)
 > **Speakers:** - when (1)
 
-#### Organizational manager role in business benefits realization
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/organizational-manager-role-in-business-benefits-realization?u=76281980)
+#### [Organizational manager role in business benefits realization](https://www.linkedin.com/learning/business-benefits-realization-foundations/organizational-manager-role-in-business-benefits-realization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -998,13 +976,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), management (5), teams (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - business (1)
 
-#### Portfolio, program, and project manager role in business benefits realization
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/portfolio-program-and-project-manager-role-in-business-benefits-realization?u=76281980)
+#### [Portfolio, program, and project manager role in business benefits realization](https://www.linkedin.com/learning/business-benefits-realization-foundations/portfolio-program-and-project-manager-role-in-business-benefits-realization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1040,7 +1016,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/business-benefits-realization-foundations/portfolio-program-and-project-manager-role-in-business-benefits-realization?u=76281980&t=126)** Program managers serve as integrators.
 >
-> **[2:09](https://www.linkedin.com/learning/business-benefits-realization-foundations/portfolio-program-and-project-manager-role-in-business-benefits-realization?u=76281980&t=129)** They collaborate with portfolio managers to stay informed on strategy and share this information to project teams, bridging strategic thinking and execution.
+> **[2:09](https://www.linkedin.com/learning/business-benefits-realization-foundations/portfolio-program-and-project-manager-role-in-business-benefits-realization?u=76281980&t=129)** They collaborate with portfolio managers to stay informed on strategy and share this information to project teams, bridging [[Strategic Thinking]] and execution.
 >
 > **[2:21](https://www.linkedin.com/learning/business-benefits-realization-foundations/portfolio-program-and-project-manager-role-in-business-benefits-realization?u=76281980&t=141)** They ensure approved programs and projects align to strategy and are capable of achieving strategic objectives.
 >
@@ -1058,11 +1034,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), management (5), application (2), teams (1), [[Strategic Thinking]] (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (1)
 > **Speakers:** - have (1)
 
-#### Business analyst role in business benefits realization
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/business-analyst-role-in-business-benefits-realization?u=76281980)
+#### [Business analyst role in business benefits realization](https://www.linkedin.com/learning/business-benefits-realization-foundations/business-analyst-role-in-business-benefits-realization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1118,7 +1093,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (15), product (1), teams (1)
 > **Speakers:** - on (1)
 
 
@@ -1126,8 +1100,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a business benefits roadmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/creating-a-business-benefits-roadmap?u=76281980)
+#### [Creating a business benefits roadmap](https://www.linkedin.com/learning/business-benefits-realization-foundations/creating-a-business-benefits-roadmap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1197,14 +1170,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), next (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** gps (1)
 > **Speakers:** - you (1)
 
-#### Creating a business benefits register
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/creating-a-business-benefits-register?u=76281980)
+#### [Creating a business benefits register](https://www.linkedin.com/learning/business-benefits-realization-foundations/creating-a-business-benefits-register?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1266,15 +1237,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), data (2), management (1)
 > **Definitions:** is a  (2), we call this (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** template (2)
 > **Documentation:** specification (1)
 > **Speakers:** - if (1)
 
-#### Creating a business benefits realization plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/creating-a-business-benefits-realization-plan?u=76281980)
+#### [Creating a business benefits realization plan](https://www.linkedin.com/learning/business-benefits-realization-foundations/creating-a-business-benefits-realization-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1316,7 +1285,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/business-benefits-realization-foundations/creating-a-business-benefits-realization-plan?u=76281980&t=117)** Thinking this through during planning ensures the team is not scrambling later on to locate data needed to report on benefits progress.
 >
-> **[2:06](https://www.linkedin.com/learning/business-benefits-realization-foundations/creating-a-business-benefits-realization-plan?u=76281980&t=126)** The data collection owner ensures non-biased collection and analysis of measurement information and the frequency states how often the measurements will be taken.
+> **[2:06](https://www.linkedin.com/learning/business-benefits-realization-foundations/creating-a-business-benefits-realization-plan?u=76281980&t=126)** The [[Data Collection]] owner ensures non-biased collection and analysis of measurement information and the frequency states how often the measurements will be taken.
 >
 > **[2:16](https://www.linkedin.com/learning/business-benefits-realization-foundations/creating-a-business-benefits-realization-plan?u=76281980&t=136)** Use the stakeholder section to identify the people or groups involved in delivering each benefit.
 >
@@ -1336,7 +1305,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), data (3), teams (2)
+> **Frameworks & Libraries:** [[Data Collection]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
@@ -1344,8 +1313,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - project (1)
 
-#### Creating a business benefits traceability matrix
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/creating-a-business-benefits-traceability-matrix?u=76281980)
+#### [Creating a business benefits traceability matrix](https://www.linkedin.com/learning/business-benefits-realization-foundations/creating-a-business-benefits-traceability-matrix?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1371,7 +1339,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/business-benefits-realization-foundations/creating-a-business-benefits-traceability-matrix?u=76281980&t=83)** Then add the deliverables across the top of the matrix.
 >
-> **[1:26](https://www.linkedin.com/learning/business-benefits-realization-foundations/creating-a-business-benefits-traceability-matrix?u=76281980&t=86)** These are the products and services your organization is investing in to deliver on their strategy.
+> **[1:26](https://www.linkedin.com/learning/business-benefits-realization-foundations/creating-a-business-benefits-traceability-matrix?u=76281980&t=86)** These are the [[Microsoft Products|products]] and services your organization is investing in to deliver on their strategy.
 >
 > **[1:32](https://www.linkedin.com/learning/business-benefits-realization-foundations/creating-a-business-benefits-traceability-matrix?u=76281980&t=92)** Within the matrix, you want to identify which deliverables contribute to which benefits.
 >
@@ -1391,13 +1359,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), product (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - if (1)
 
-#### Creating a business case
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/creating-a-business-case?u=76281980)
+#### [Creating a business case](https://www.linkedin.com/learning/business-benefits-realization-foundations/creating-a-business-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1463,7 +1430,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (11)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1474,8 +1440,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Business benefits realization key takeaways
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-benefits-realization-foundations/business-benefits-realization-key-takeaways?u=76281980)
+#### [Business benefits realization key takeaways](https://www.linkedin.com/learning/business-benefits-realization-foundations/business-benefits-realization-key-takeaways?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1491,7 +1456,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/business-benefits-realization-foundations/business-benefits-realization-key-takeaways?u=76281980&t=47)** Also a number of the business benefits realization activities require you to have strong business analysis competencies.
 >
-> **[0:55](https://www.linkedin.com/learning/business-benefits-realization-foundations/business-benefits-realization-key-takeaways?u=76281980&t=55)** If you are new to business analysis or struggled to understand what it is in relationship to what we just covered, you might consider checking out my LinkedIn learning short course on [[What Is Business Analysis]].
+> **[0:55](https://www.linkedin.com/learning/business-benefits-realization-foundations/business-benefits-realization-key-takeaways?u=76281980&t=55)** If you are new to business analysis or struggled to understand what it is in relationship to what we just covered, you might consider checking out my [[LinkedIn]] learning short course on [[What Is Business Analysis]].
 >
 > **[1:08](https://www.linkedin.com/learning/business-benefits-realization-foundations/business-benefits-realization-key-takeaways?u=76281980&t=68)** It's my hope that you'll apply the steps we've walked through in the business benefits framework to help your organization understand not all projects are good projects and once receiving funding for a project.
 >
@@ -1505,7 +1470,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), management (2), [[LinkedIn]] (2), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **URLs:** [pmi.org](https://pmi.org) (1)
 > **Cross-References:** we covered (1)
 > **Analogies:** picture (1)

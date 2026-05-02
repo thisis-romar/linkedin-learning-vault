@@ -103,20 +103,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Redis
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/understanding-redis?u=76281980)
+#### [Understanding Redis](https://www.linkedin.com/learning/redis-essential-training-15012713/understanding-redis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/understanding-redis?u=76281980&t=0)** - [Instructor] Redis is my favorite database, and I'm hoping after this course, it'll be yours too.
+> **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/understanding-redis?u=76281980&t=0)** - [Instructor] [[Redis]] is my favorite database, and I'm hoping after this course, it'll be yours too.
 >
 > **[0:05](https://www.linkedin.com/learning/redis-essential-training-15012713/understanding-redis?u=76281980&t=5)** Mainly because of its flexibility, from storing data to creating message queues, you can set up an entire architecture around Redis.
 >
 > **[0:13](https://www.linkedin.com/learning/redis-essential-training-15012713/understanding-redis?u=76281980&t=13)** There is really no other database like it.
 >
-> **[0:15](https://www.linkedin.com/learning/redis-essential-training-15012713/understanding-redis?u=76281980&t=15)** If you think about NoSQL databases, there is none out there that matches the uniqueness of Redis.
+> **[0:15](https://www.linkedin.com/learning/redis-essential-training-15012713/understanding-redis?u=76281980&t=15)** If you think about [[NoSQL]] [[Databases]], there is none out there that matches the uniqueness of Redis.
 >
-> **[0:21](https://www.linkedin.com/learning/redis-essential-training-15012713/understanding-redis?u=76281980&t=21)** Also, it's a huge jump from the SQL world where most developers live.
+> **[0:21](https://www.linkedin.com/learning/redis-essential-training-15012713/understanding-redis?u=76281980&t=21)** Also, it's a huge jump from the [[SQL]] world where most developers live.
 >
 > **[0:25](https://www.linkedin.com/learning/redis-essential-training-15012713/understanding-redis?u=76281980&t=25)** You'll start thinking in NoSQL terms and solving problems without the constraints of a SQL database.
 >
@@ -134,23 +133,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (6), database (4), [[NoSQL]] (2), [[SQL]] (2), data (1)
+> **Frameworks & Libraries:** [[Redis]] (6), [[NoSQL]] (2), [[SQL]] (2), [[Databases]] (1)
 > **Env Vars:** sql (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing Redis
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/installing-redis?u=76281980)
+#### [Installing Redis](https://www.linkedin.com/learning/redis-essential-training-15012713/installing-redis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/installing-redis?u=76281980&t=0)** - [Instructor] The first thing that you need to do is install Redis in your computer.
+> **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/installing-redis?u=76281980&t=0)** - [Instructor] The first thing that you need to do is install [[Redis]] in your computer.
 >
 > **[0:03](https://www.linkedin.com/learning/redis-essential-training-15012713/installing-redis?u=76281980&t=3)** So let's look at that.
 >
 > **[0:05](https://www.linkedin.com/learning/redis-essential-training-15012713/installing-redis?u=76281980&t=5)** So to install it on your system, go to [Redis.IO](https://Redis.IO) and follow the steps found on the feature documentation.
 >
-> **[0:11](https://www.linkedin.com/learning/redis-essential-training-15012713/installing-redis?u=76281980&t=11)** The easiest way is to click on the get started button and find the details related to your OS and with a few steps depending on whether you're using Linux, macOS or Windows Redis will be completely installed and functional in your system.
+> **[0:11](https://www.linkedin.com/learning/redis-essential-training-15012713/installing-redis?u=76281980&t=11)** The easiest way is to click on the get started button and find the details related to your OS and with a few steps depending on whether you're using [[Linux]], macOS or [[Windows]] Redis will be completely installed and functional in your system.
 >
 > **[0:27](https://www.linkedin.com/learning/redis-essential-training-15012713/installing-redis?u=76281980&t=27)** Now remember that you'll be installing two main applications.
 >
@@ -172,13 +170,13 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/redis-essential-training-15012713/installing-redis?u=76281980&t=78)** This command will only run once from a dedicated terminal window.
 >
-> **[1:23](https://www.linkedin.com/learning/redis-essential-training-15012713/installing-redis?u=76281980&t=83)** And to start a client you'll use the command Redis-cli and that command can be run from multiple different terminals and you can have as many clients running at the same time as you want.
+> **[1:23](https://www.linkedin.com/learning/redis-essential-training-15012713/installing-redis?u=76281980&t=83)** And to start a client you'll use the command Redis-[[CLI]] and that command can be run from multiple different terminals and you can have as many clients running at the same time as you want.
 >
 > **[1:34](https://www.linkedin.com/learning/redis-essential-training-15012713/installing-redis?u=76281980&t=94)** In fact, we'll see examples of that in future videos.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (9), application (2), feature (1), [[Linux]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Redis]] (9), [[Linux]] (1), [[Windows]] (1), [[CLI]] (1)
 > **Prerequisites:** install (4)
 > **CLI Commands:** find (1), redis-cli (1)
 > **Tools:** command line (1), terminal (1)
@@ -187,14 +185,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 
-#### Overview of the terminal CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/overview-of-the-terminal-cli?u=76281980)
+#### [Overview of the terminal CLI](https://www.linkedin.com/learning/redis-essential-training-15012713/overview-of-the-terminal-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/overview-of-the-terminal-cli?u=76281980&t=0)** - [Instructor] Let's look at the CLI tool in a bit more detail now.
+> **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/overview-of-the-terminal-cli?u=76281980&t=0)** - [Instructor] Let's look at the [[CLI]] tool in a bit more detail now.
 >
-> **[0:04](https://www.linkedin.com/learning/redis-essential-training-15012713/overview-of-the-terminal-cli?u=76281980&t=4)** This tool or command line interface is going to be our "gate" into Redis.
+> **[0:04](https://www.linkedin.com/learning/redis-essential-training-15012713/overview-of-the-terminal-cli?u=76281980&t=4)** This tool or command line interface is going to be our "gate" into [[Redis]].
 >
 > **[0:09](https://www.linkedin.com/learning/redis-essential-training-15012713/overview-of-the-terminal-cli?u=76281980&t=9)** We'll test all features and commands on this course through it.
 >
@@ -202,7 +199,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/redis-essential-training-15012713/overview-of-the-terminal-cli?u=76281980&t=18)** To use the CLI tool, simply run redis-cli on a terminal window.
 >
-> **[0:24](https://www.linkedin.com/learning/redis-essential-training-15012713/overview-of-the-terminal-cli?u=76281980&t=24)** And you can have as many instances of this program running at the same time as you want as long as they're in different terminal windows.
+> **[0:24](https://www.linkedin.com/learning/redis-essential-training-15012713/overview-of-the-terminal-cli?u=76281980&t=24)** And you can have as many instances of this program running at the same time as you want as long as they're in different terminal [[Windows]].
 >
 > **[0:33](https://www.linkedin.com/learning/redis-essential-training-15012713/overview-of-the-terminal-cli?u=76281980&t=33)** You can only enter a single command per line when using the CLI tool.
 >
@@ -218,12 +215,11 @@ created: 2026-05-02
 > **CLI Commands:** redis-cli (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding Redis docs
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/understanding-redis-docs?u=76281980)
+#### [Understanding Redis docs](https://www.linkedin.com/learning/redis-essential-training-15012713/understanding-redis-docs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/understanding-redis-docs?u=76281980&t=0)** - [Lecturer] The final tool you'll use in this course, and afterwards when you're building your application with Redis is going to be the official documentation.
+> **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/understanding-redis-docs?u=76281980&t=0)** - [Lecturer] The final tool you'll use in this course, and afterwards when you're building your application with [[Redis]] is going to be the official documentation.
 >
 > **[0:08](https://www.linkedin.com/learning/redis-essential-training-15012713/understanding-redis-docs?u=76281980&t=8)** While you can find information about Redis in many places the official looks are filled with details about the commands and the way each one works.
 >
@@ -259,7 +255,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (6), data (3), application (1), next (1), feature (1)
+> **Frameworks & Libraries:** [[Redis]] (6)
 > **CLI Commands:** find (1), make (1)
 > **Code Identifiers:** ios (1)
 > **URLs:** [redis.io](https://redis.io) (1)
@@ -273,12 +269,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Redis?
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/what-is-redis?u=76281980)
+#### [What is Redis?](https://www.linkedin.com/learning/redis-essential-training-15012713/what-is-redis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/what-is-redis?u=76281980&t=0)** - [Instructor] Redis is known as a key-value, in-memory, NoSQL database.
+> **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/what-is-redis?u=76281980&t=0)** - [Instructor] [[Redis]] is known as a key-value, in-memory, [[NoSQL]] database.
 >
 > **[0:05](https://www.linkedin.com/learning/redis-essential-training-15012713/what-is-redis?u=76281980&t=5)** And while that might not tell you a lot, it's quite an accurate description.
 >
@@ -290,7 +285,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/redis-essential-training-15012713/what-is-redis?u=76281980&t=28)** There are no hard drives involved usually, and there are no, or close to no, delays in data access.
 >
-> **[0:36](https://www.linkedin.com/learning/redis-essential-training-15012713/what-is-redis?u=76281980&t=36)** It also means that writing and reading from this databases is really fast, because it all happens in memory.
+> **[0:36](https://www.linkedin.com/learning/redis-essential-training-15012713/what-is-redis?u=76281980&t=36)** It also means that writing and reading from this [[Databases]] is really fast, because it all happens in memory.
 >
 > **[0:43](https://www.linkedin.com/learning/redis-essential-training-15012713/what-is-redis?u=76281980&t=43)** There is a big delay accessing data from hard drives or any other storage medium.
 >
@@ -298,7 +293,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/redis-essential-training-15012713/what-is-redis?u=76281980&t=51)** Speed is one of the main reasons why you, and really everyone else, will want to use Redis, the amazing performance that it brings.
 >
-> **[1:01](https://www.linkedin.com/learning/redis-essential-training-15012713/what-is-redis?u=76281980&t=61)** If you're coming from the SQL world, like MySQL, PostgreDB, or similar solutions, they have nothing against Redis when it comes to talking about I/O performance.
+> **[1:01](https://www.linkedin.com/learning/redis-essential-training-15012713/what-is-redis?u=76281980&t=61)** If you're coming from the [[SQL]] world, like [[MySQL]], PostgreDB, or similar solutions, they have nothing against Redis when it comes to talking about I/O performance.
 >
 > **[1:11](https://www.linkedin.com/learning/redis-essential-training-15012713/what-is-redis?u=76281980&t=71)** Of course, because Redis is a NoSQL database, one of the main things missing is the schema that characterizes SQL solutions.
 >
@@ -320,21 +315,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (8), data (7), database (4), [[NoSQL]] (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Redis]] (8), [[NoSQL]] (2), [[SQL]] (2), [[Databases]] (1), [[MySQL]] (1)
 > **Definitions:** is a  (4), means that (2), known as (1)
 > **CLI Commands:** mysql (1), make (1)
 > **Env Vars:** sql (2)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/data-types?u=76281980)
+#### [Data types](https://www.linkedin.com/learning/redis-essential-training-15012713/data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/data-types?u=76281980&t=0)** - [Instructor] While I did mention that most of the values map to a key are strings, in practice that's not entirely true.
 >
-> **[0:07](https://www.linkedin.com/learning/redis-essential-training-15012713/data-types?u=76281980&t=7)** We do have some other data structures that we can use to get the most out of our in memory database.
+> **[0:07](https://www.linkedin.com/learning/redis-essential-training-15012713/data-types?u=76281980&t=7)** We do have some other [[Data Structures]] that we can use to get the most out of our in memory database.
 >
 > **[0:13](https://www.linkedin.com/learning/redis-essential-training-15012713/data-types?u=76281980&t=13)** So let's take a quick look at them.
 >
@@ -350,7 +344,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/redis-essential-training-15012713/data-types?u=76281980&t=41)** So that's quite a lot of information.
 >
-> **[0:43](https://www.linkedin.com/learning/redis-essential-training-15012713/data-types?u=76281980&t=43)** And it's important to know also that you don't have numeric values in Redis.
+> **[0:43](https://www.linkedin.com/learning/redis-essential-training-15012713/data-types?u=76281980&t=43)** And it's important to know also that you don't have numeric values in [[Redis]].
 >
 > **[0:48](https://www.linkedin.com/learning/redis-essential-training-15012713/data-types?u=76281980&t=48)** So if you're looking to store a counter, for example, Redis has some interesting in functions to support it but they're always going to be strings.
 >
@@ -426,12 +420,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (4), [[Redis]] (3), next (1), business (1)
+> **Frameworks & Libraries:** [[Redis]] (3), [[Data Structures]] (1)
 > **Analogies:** for example (1), just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Your first command: SET
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/your-first-command-set?u=76281980)
+#### [Your first command: SET](https://www.linkedin.com/learning/redis-essential-training-15012713/your-first-command-set?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -439,7 +432,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/redis-essential-training-15012713/your-first-command-set?u=76281980&t=3)** The SET Command is probably the one that you use the most couple with tech which we'll look at next.
 >
-> **[0:08](https://www.linkedin.com/learning/redis-essential-training-15012713/your-first-command-set?u=76281980&t=8)** The SET Command allows you to say a value in Redis.
+> **[0:08](https://www.linkedin.com/learning/redis-essential-training-15012713/your-first-command-set?u=76281980&t=8)** The SET Command allows you to say a value in [[Redis]].
 >
 > **[0:12](https://www.linkedin.com/learning/redis-essential-training-15012713/your-first-command-set?u=76281980&t=12)** Here's the syntax.
 >
@@ -481,7 +474,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/redis-essential-training-15012713/your-first-command-set?u=76281980&t=91)** Notice how I used the quotes on the second command only.
 >
-> **[1:34](https://www.linkedin.com/learning/redis-essential-training-15012713/your-first-command-set?u=76281980&t=94)** That is because if you're saving a single word, without spaces like my name, then you don't need 12 quotes.
+> **[1:34](https://www.linkedin.com/learning/redis-essential-training-15012713/your-first-command-set?u=76281980&t=94)** That is because if you're saving a single [[Microsoft Word|word]], without spaces like my name, then you don't need 12 quotes.
 >
 > **[1:41](https://www.linkedin.com/learning/redis-essential-training-15012713/your-first-command-set?u=76281980&t=101)** But if you have blank spaces in between, then you will.
 >
@@ -495,15 +488,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Redis]] (5), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Redis]] (5), [[Microsoft Word|Word]] (1)
 > **Env Vars:** set (7)
 > **Definitions:** means that (1)
 > **Analogies:** think of it as (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing GET
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/testing-get?u=76281980)
+#### [Testing GET](https://www.linkedin.com/learning/redis-essential-training-15012713/testing-get?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -539,21 +531,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [narrator] (1)
 
-#### Playing around with strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/playing-around-with-strings?u=76281980)
+#### [Playing around with strings](https://www.linkedin.com/learning/redis-essential-training-15012713/playing-around-with-strings?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/playing-around-with-strings?u=76281980&t=0)** - [Speaker] While SET and GET are very fine tools, they're also very basic commands that do not provide you with much control over the strings they deal with.
 >
-> **[0:10](https://www.linkedin.com/learning/redis-essential-training-15012713/playing-around-with-strings?u=76281980&t=10)** Luckily, Redis provides other commands to handle strings; which is the most basic data types supported by this database, and the one that you're going to be using the most.
+> **[0:10](https://www.linkedin.com/learning/redis-essential-training-15012713/playing-around-with-strings?u=76281980&t=10)** Luckily, [[Redis]] provides other commands to handle strings; which is the most basic data types supported by this database, and the one that you're going to be using the most.
 >
 > **[0:20](https://www.linkedin.com/learning/redis-essential-training-15012713/playing-around-with-strings?u=76281980&t=20)** So remember, Redis doesn't deal with numbers.
 >
@@ -671,7 +661,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (5), data (1), database (1), strengths (1)
+> **Frameworks & Libraries:** [[Redis]] (5)
 > **Env Vars:** append (6), strlen (5), incr (4), decr (3), decrby (3)
 > **Analogies:** for instance (2), such as (1), imagine (1), similar to (1)
 > **Documentation:** the documentation (2)
@@ -685,12 +675,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are hashes?
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/what-are-hashes?u=76281980)
+#### [What are hashes?](https://www.linkedin.com/learning/redis-essential-training-15012713/what-are-hashes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/what-are-hashes?u=76281980&t=0)** - [Narrator] A HashMap is a very common data structure in software development and in Redis the same concept applies.
+> **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/what-are-hashes?u=76281980&t=0)** - [Narrator] A HashMap is a very common data structure in [[Software Development]] and in [[Redis]] the same concept applies.
 >
 > **[0:06](https://www.linkedin.com/learning/redis-essential-training-15012713/what-are-hashes?u=76281980&t=6)** We're talking about a map where each key maps to a single value.
 >
@@ -708,13 +697,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Redis]] (3), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Redis]] (3), [[Software Development]] (1)
 > **Definitions:** is a  (2), in other words (1), known as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Writing and reading from hashes
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/writing-and-reading-from-hashes?u=76281980)
+#### [Writing and reading from hashes](https://www.linkedin.com/learning/redis-essential-training-15012713/writing-and-reading-from-hashes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -786,21 +774,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9)
 > **Env Vars:** url (4), hget (3), hmget (3), hset (2), set (1)
 > **API Endpoints:** get  (1)
 > **SQL:** select (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - interacting (1)
 
-#### Exploring hashes
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-hashes?u=76281980)
+#### [Exploring hashes](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-hashes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-hashes?u=76281980&t=0)** - [Instructor] Let's now play with another practical use case.
 >
-> **[0:03](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-hashes?u=76281980&t=3)** Let's say we're storing the current shopping cart of our users inside Redis.
+> **[0:03](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-hashes?u=76281980&t=3)** Let's say we're storing the current shopping cart of our users inside [[Redis]].
 >
 > **[0:07](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-hashes?u=76281980&t=7)** This is a great use case because we're dealing with data that is ephemeral.
 >
@@ -812,7 +798,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-hashes?u=76281980&t=23)** So what data do we need to keep in memory?
 >
-> **[0:27](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-hashes?u=76281980&t=27)** We're going to need the user ID, obviously, so we can quickly read the right cart data, at least the products.
+> **[0:27](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-hashes?u=76281980&t=27)** We're going to need the user ID, obviously, so we can quickly read the right cart data, at least the [[Microsoft Products|products]].
 >
 > **[0:35](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-hashes?u=76281980&t=35)** And for each product, we might want to know the ID of the product, the name, so we don't have to go query from the database every time, each price for the same reason and the amount we want of each.
 >
@@ -848,7 +834,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-hashes?u=76281980&t=124)** Now again, I'm putting here one orange and four apples into our cart.
 >
-> **[2:10](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-hashes?u=76281980&t=130)** And I've represented complex data structures, meaning our product, through the key plus ID trick.
+> **[2:10](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-hashes?u=76281980&t=130)** And I've represented complex [[Data Structures]], meaning our product, through the key plus ID trick.
 >
 > **[2:17](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-hashes?u=76281980&t=137)** In fact, I here, I went a little bit farther and I also added the use of key plus ID plus property.
 >
@@ -910,7 +896,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), product (6), [[Microsoft Products|Products]] (5), [[Redis]] (3), database (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Redis]] (3), [[Data Structures]] (1)
 > **Env Vars:** hset (2), hincrby (1), hgetall (1), hlen (1), hget (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -920,8 +906,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/introduction-to-lists?u=76281980)
+#### [Introduction to lists](https://www.linkedin.com/learning/redis-essential-training-15012713/introduction-to-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -951,13 +936,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), node (2), next (1)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** node (2)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the pop and push mechanics
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/understanding-the-pop-and-push-mechanics?u=76281980)
+#### [Understanding the pop and push mechanics](https://www.linkedin.com/learning/redis-essential-training-15012713/understanding-the-pop-and-push-mechanics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -975,7 +958,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/redis-essential-training-15012713/understanding-the-pop-and-push-mechanics?u=76281980&t=30)** Remember, here the key is to understand that we're dealing with the ends, either the head or the tail of the list.
 >
-> **[0:37](https://www.linkedin.com/learning/redis-essential-training-15012713/understanding-the-pop-and-push-mechanics?u=76281980&t=37)** Because as I already mentioned, these are the best places to read or write data, at least, you know, within Redis.
+> **[0:37](https://www.linkedin.com/learning/redis-essential-training-15012713/understanding-the-pop-and-push-mechanics?u=76281980&t=37)** Because as I already mentioned, these are the best places to read or write data, at least, you know, within [[Redis]].
 >
 > **[0:45](https://www.linkedin.com/learning/redis-essential-training-15012713/understanding-the-pop-and-push-mechanics?u=76281980&t=45)** So let's take a quick look at how we can perform these operations.
 >
@@ -1049,7 +1032,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Redis]] (2)
+> **Frameworks & Libraries:** [[Redis]] (2)
 > **Env Vars:** lpop (4), rpush (2), mylist (2), lpush (1), rpop (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** as you saw (1)
@@ -1058,8 +1041,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practical example: Building a queuing system with lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/practical-example-building-a-queuing-system-with-lists?u=76281980)
+#### [Practical example: Building a queuing system with lists](https://www.linkedin.com/learning/redis-essential-training-15012713/practical-example-building-a-queuing-system-with-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1091,13 +1073,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1)
 > **Env Vars:** fifo (2), lifo (2), lpop (2), pop (1), push (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [narrator] (1)
 
-#### Adding people to the queue
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/adding-people-to-the-queue?u=76281980)
+#### [Adding people to the queue](https://www.linkedin.com/learning/redis-essential-training-15012713/adding-people-to-the-queue?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1130,8 +1110,7 @@ created: 2026-05-02
 > **Env Vars:** rpush (1)
 > **Speakers:** - [narrator] (1)
 
-#### Getting people out of the queue
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/getting-people-out-of-the-queue?u=76281980)
+#### [Getting people out of the queue](https://www.linkedin.com/learning/redis-essential-training-15012713/getting-people-out-of-the-queue?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1159,8 +1138,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Checking who's there
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/checking-who-s-there?u=76281980)
+#### [Checking who's there](https://www.linkedin.com/learning/redis-essential-training-15012713/checking-who-s-there?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1203,8 +1181,7 @@ created: 2026-05-02
 > **Env Vars:** lrange (3)
 > **Speakers:** - [instructor] (1)
 
-#### Putting someone in the middle
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/putting-someone-in-the-middle?u=76281980)
+#### [Putting someone in the middle](https://www.linkedin.com/learning/redis-essential-training-15012713/putting-someone-in-the-middle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1260,14 +1237,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** linsert (4), lrange (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [narrator] (1)
 
-#### Checking who's the last one in the queue
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/checking-who-s-the-last-one-in-the-queue?u=76281980)
+#### [Checking who's the last one in the queue](https://www.linkedin.com/learning/redis-essential-training-15012713/checking-who-s-the-last-one-in-the-queue?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1324,8 +1299,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing the solution: Problems with repeated members
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/analyzing-the-solution-problems-with-repeated-members?u=76281980)
+#### [Analyzing the solution: Problems with repeated members](https://www.linkedin.com/learning/redis-essential-training-15012713/analyzing-the-solution-problems-with-repeated-members?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1353,19 +1327,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** lrange (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sets compared to lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/sets-compared-to-lists?u=76281980)
+#### [Sets compared to lists](https://www.linkedin.com/learning/redis-essential-training-15012713/sets-compared-to-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/sets-compared-to-lists?u=76281980&t=0)** - [Instructor] Preventing duplicates in list can be difficult, or at least it will require extra work.
 >
-> **[0:05](https://www.linkedin.com/learning/redis-essential-training-15012713/sets-compared-to-lists?u=76281980&t=5)** This is why we have sets in Redis.
+> **[0:05](https://www.linkedin.com/learning/redis-essential-training-15012713/sets-compared-to-lists?u=76281980&t=5)** This is why we have sets in [[Redis]].
 >
 > **[0:08](https://www.linkedin.com/learning/redis-essential-training-15012713/sets-compared-to-lists?u=76281980&t=8)** Examples like the one we just ran are not meant to be built with lists, simply because of the possibility of accidentally adding duplicated content in them, and messing up your whole logic.
 >
@@ -1397,8 +1369,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running a queuing example using sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/running-a-queuing-example-using-sets?u=76281980)
+#### [Running a queuing example using sets](https://www.linkedin.com/learning/redis-essential-training-15012713/running-a-queuing-example-using-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1450,7 +1421,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2)
 > **Env Vars:** smembers (2), sadd (1), lrange (1), fifa (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - let (1)
@@ -1460,8 +1430,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explaining what a sorted set is
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/explaining-what-a-sorted-set-is?u=76281980)
+#### [Explaining what a sorted set is](https://www.linkedin.com/learning/redis-essential-training-15012713/explaining-what-a-sorted-set-is?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1487,12 +1456,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), next (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [narrator] (1)
 
-#### Leader board example using a sorted set
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/leader-board-example-using-a-sorted-set?u=76281980)
+#### [Leader board example using a sorted set](https://www.linkedin.com/learning/redis-essential-training-15012713/leader-board-example-using-a-sorted-set?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1580,11 +1547,11 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/redis-essential-training-15012713/leader-board-example-using-a-sorted-set?u=76281980&t=282)** As you can see, sorted sets simplify your work because we don't have to worry about whether we're trying to insert a repeated value.
 >
-> **[4:48](https://www.linkedin.com/learning/redis-essential-training-15012713/leader-board-example-using-a-sorted-set?u=76281980&t=288)** They're sets, after all, and how to sort the members of the set Redis does that for us.
+> **[4:48](https://www.linkedin.com/learning/redis-essential-training-15012713/leader-board-example-using-a-sorted-set?u=76281980&t=288)** They're sets, after all, and how to sort the members of the set [[Redis]] does that for us.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Redis]] (1)
+> **Frameworks & Libraries:** [[Redis]] (1)
 > **Env Vars:** zrange (4), zadd (2), zrevrange (2), lrange (1), zincrby (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -1595,18 +1562,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Comparing Redis to relational databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/comparing-redis-to-relational-databases?u=76281980)
+#### [Comparing Redis to relational databases](https://www.linkedin.com/learning/redis-essential-training-15012713/comparing-redis-to-relational-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/comparing-redis-to-relational-databases?u=76281980&t=0)** - [Instructor] As I mentioned earlier, Redis is not a relational database nor does it share any of the core concepts of our relational database.
+> **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/comparing-redis-to-relational-databases?u=76281980&t=0)** - [Instructor] As I mentioned earlier, [[Redis]] is not a relational database nor does it share any of the core concepts of our relational database.
 >
 > **[0:08](https://www.linkedin.com/learning/redis-essential-training-15012713/comparing-redis-to-relational-databases?u=76281980&t=8)** We don't deal with tables or properties, or even primary or foreign keys.
 >
 > **[0:12](https://www.linkedin.com/learning/redis-essential-training-15012713/comparing-redis-to-relational-databases?u=76281980&t=12)** There is no way or no mechanism within Redis for us to natively relate records in any way.
 >
-> **[0:20](https://www.linkedin.com/learning/redis-essential-training-15012713/comparing-redis-to-relational-databases?u=76281980&t=20)** Where with a SQL database, you'd have something like this.
+> **[0:20](https://www.linkedin.com/learning/redis-essential-training-15012713/comparing-redis-to-relational-databases?u=76281980&t=20)** Where with a [[SQL]] database, you'd have something like this.
 >
 > **[0:24](https://www.linkedin.com/learning/redis-essential-training-15012713/comparing-redis-to-relational-databases?u=76281980&t=24)** With Redis, instead, you have something like this.
 >
@@ -1620,20 +1586,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (4), database (3), [[SQL]] (1), data (1)
+> **Frameworks & Libraries:** [[Redis]] (4), [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Relating keys to each other
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/relating-keys-to-each-other?u=76281980)
+#### [Relating keys to each other](https://www.linkedin.com/learning/redis-essential-training-15012713/relating-keys-to-each-other?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/relating-keys-to-each-other?u=76281980&t=0)** - So can we really relate records inside Redis?
+> **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/relating-keys-to-each-other?u=76281980&t=0)** - So can we really relate records inside [[Redis]]?
 >
 > **[0:03](https://www.linkedin.com/learning/redis-essential-training-15012713/relating-keys-to-each-other?u=76281980&t=3)** The answer is yes and well, no.
 >
-> **[0:06](https://www.linkedin.com/learning/redis-essential-training-15012713/relating-keys-to-each-other?u=76281980&t=6)** It's a no because there is no built in way for us to relay records to each other like we do with a SQL database.
+> **[0:06](https://www.linkedin.com/learning/redis-essential-training-15012713/relating-keys-to-each-other?u=76281980&t=6)** It's a no because there is no built in way for us to relay records to each other like we do with a [[SQL]] database.
 >
 > **[0:13](https://www.linkedin.com/learning/redis-essential-training-15012713/relating-keys-to-each-other?u=76281980&t=13)** We covered that part already.
 >
@@ -1647,7 +1612,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/redis-essential-training-15012713/relating-keys-to-each-other?u=76281980&t=35)** That way you can quickly access the value of an element if you know it's ID, which let's be honest you usually do.
 >
-> **[0:43](https://www.linkedin.com/learning/redis-essential-training-15012713/relating-keys-to-each-other?u=76281980&t=43)** When dealing with SQL databases, all you care about is the ID of entities.
+> **[0:43](https://www.linkedin.com/learning/redis-essential-training-15012713/relating-keys-to-each-other?u=76281980&t=43)** When dealing with SQL [[Databases]], all you care about is the ID of entities.
 >
 > **[0:47](https://www.linkedin.com/learning/redis-essential-training-15012713/relating-keys-to-each-other?u=76281980&t=47)** Once you have that, you can get any information you want.
 >
@@ -1661,14 +1626,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), [[Redis]] (1), database (1), [[Databases]] (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Redis]] (1), [[Databases]] (1)
 > **Env Vars:** sql (4)
 > **API Endpoints:** get  (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - so (1)
 
-#### Representing multi-key models
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/representing-multi-key-models?u=76281980)
+#### [Representing multi-key models](https://www.linkedin.com/learning/redis-essential-training-15012713/representing-multi-key-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1680,7 +1644,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/redis-essential-training-15012713/representing-multi-key-models?u=76281980&t=30)** You have the collection name _ the element ID underscore the property name = the value of the property.
 >
-> **[0:38](https://www.linkedin.com/learning/redis-essential-training-15012713/representing-multi-key-models?u=76281980&t=38)** So if you had, for example, the name and the address of your users store within Redis you could do something like this users _ the actual user id and then _ the name or the address.
+> **[0:38](https://www.linkedin.com/learning/redis-essential-training-15012713/representing-multi-key-models?u=76281980&t=38)** So if you had, for example, the name and the address of your users store within [[Redis]] you could do something like this users _ the actual user id and then _ the name or the address.
 >
 > **[0:53](https://www.linkedin.com/learning/redis-essential-training-15012713/representing-multi-key-models?u=76281980&t=53)** But let's no stop there.
 >
@@ -1708,7 +1672,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Redis]] (1)
+> **Frameworks & Libraries:** [[Redis]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1717,14 +1681,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What else can you do with Redis?
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/what-else-can-you-do-with-redis?u=76281980)
+#### [What else can you do with Redis?](https://www.linkedin.com/learning/redis-essential-training-15012713/what-else-can-you-do-with-redis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/what-else-can-you-do-with-redis?u=76281980&t=0)** - [Narrator] Redis is a lot more than just a database.
+> **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/what-else-can-you-do-with-redis?u=76281980&t=0)** - [Narrator] [[Redis]] is a lot more than just a database.
 >
-> **[0:03](https://www.linkedin.com/learning/redis-essential-training-15012713/what-else-can-you-do-with-redis?u=76281980&t=3)** In fact, some of the most interesting use cases for Redis are not related to data storage at all.
+> **[0:03](https://www.linkedin.com/learning/redis-essential-training-15012713/what-else-can-you-do-with-redis?u=76281980&t=3)** In fact, some of the most interesting use cases for Redis are not related to [[Data Storage]] at all.
 >
 > **[0:09](https://www.linkedin.com/learning/redis-essential-training-15012713/what-else-can-you-do-with-redis?u=76281980&t=9)** I'm talking about Redis' ability to function as a message bus.
 >
@@ -1748,19 +1711,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Redis]] (3), database (1), feature (1), next (1)
+> **Frameworks & Libraries:** [[Redis]] (3), [[Data Storage]] (1)
 > **Definitions:** is a  (2), is an  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
-#### Exploring Pub/Sub
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-pub-sub?u=76281980)
+#### [Exploring Pub/Sub](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-pub-sub?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-pub-sub?u=76281980&t=0)** - [Instructor] Let's first talk about Pub/Sub.
 >
-> **[0:02](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-pub-sub?u=76281980&t=2)** Pub/Sub is a feature of Redis.
+> **[0:02](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-pub-sub?u=76281980&t=2)** Pub/Sub is a feature of [[Redis]].
 >
 > **[0:03](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-pub-sub?u=76281980&t=3)** And it was the first message bus that this database feature many, many years ago.
 >
@@ -1780,7 +1742,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-pub-sub?u=76281980&t=42)** Any information produced before that would not exist for them.
 >
-> **[0:47](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-pub-sub?u=76281980&t=47)** In other words, it's a great real-time solution because it's lightweight and easy to use.
+> **[0:47](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-pub-sub?u=76281980&t=47)** In other words, it's a great [[Real-Time]] solution because it's lightweight and easy to use.
 >
 > **[0:54](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-pub-sub?u=76281980&t=54)** However, if you're not able to ensure the stability of your consumers, you might lose some data.
 >
@@ -1798,7 +1760,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-pub-sub?u=76281980&t=98)** Let me show you how that works.
 >
-> **[1:42](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-pub-sub?u=76281980&t=102)** Here, I have two terminal windows because I'm going to be using one as a consumer and one as a producer.
+> **[1:42](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-pub-sub?u=76281980&t=102)** Here, I have two terminal [[Windows]] because I'm going to be using one as a consumer and one as a producer.
 >
 > **[1:48](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-pub-sub?u=76281980&t=108)** First, the consumer is going to subscribe to a channel, which I'm going to call it notifications and it's going to start there.
 >
@@ -1814,14 +1776,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), feature (2), [[Redis]] (2), database (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Redis]] (2), [[Real-Time]] (1), [[Windows]] (1)
 > **Env Vars:** publish (2), subscribe (1)
 > **Tools:** terminal (2)
 > **Definitions:** is a  (1), in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring streams: Adding data
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-streams-adding-data?u=76281980)
+#### [Exploring streams: Adding data](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-streams-adding-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1841,7 +1802,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-streams-adding-data?u=76281980&t=29)** You have a timestamp per line to easily find logs within a range of time.
 >
-> **[0:34](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-streams-adding-data?u=76281980&t=34)** You use the Linux tail command to wait for new logs to appear when you're inspecting the log files.
+> **[0:34](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-streams-adding-data?u=76281980&t=34)** You use the [[Linux]] tail command to wait for new logs to appear when you're inspecting the log files.
 >
 > **[0:40](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-streams-adding-data?u=76281980&t=40)** And you don't usually remove log lines from the file.
 >
@@ -1863,7 +1824,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-streams-adding-data?u=76281980&t=86)** The key is the name of the key where you're going to store the stream.
 >
-> **[1:30](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-streams-adding-data?u=76281980&t=90)** This is like any other key that we've used so far in Redis.
+> **[1:30](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-streams-adding-data?u=76281980&t=90)** This is like any other key that we've used so far in [[Redis]].
 >
 > **[1:33](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-streams-adding-data?u=76281980&t=93)** The ID is the ID of the data you're entering into a stream.
 >
@@ -1915,7 +1876,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-streams-adding-data?u=76281980&t=227)** Now notice how this event doesn't have a coordinate x and y.
 >
-> **[3:51](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-streams-adding-data?u=76281980&t=231)** That's because we don't really deal with schemas here like we would use in a SQL database.
+> **[3:51](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-streams-adding-data?u=76281980&t=231)** That's because we don't really deal with schemas here like we would use in a [[SQL]] database.
 >
 > **[3:57](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-streams-adding-data?u=76281980&t=237)** This is just a schema-less environment.
 >
@@ -1929,7 +1890,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Redis]] (4), feature (2), power (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Redis]] (4), [[Linux]] (1), [[SQL]] (1)
 > **Env Vars:** xadd (3), csv (1), sql (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we talked about (1)
@@ -1938,8 +1899,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - let (1)
 
-#### Exploring streams: Reading data
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-streams-reading-data?u=76281980)
+#### [Exploring streams: Reading data](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-streams-reading-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1969,7 +1929,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-streams-reading-data?u=76281980&t=99)** You can use this to query whenever you need.
 >
-> **[1:44](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-streams-reading-data?u=76281980&t=104)** And because we never know exactly how many elements are between two consecutive timestamps due to the extra number added by redis 12 collisions we can optionally add the count attribute to our command to limit the number of elements that we get.
+> **[1:44](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-streams-reading-data?u=76281980&t=104)** And because we never know exactly how many elements are between two consecutive timestamps due to the extra number added by [[Redis]] 12 collisions we can optionally add the count attribute to our command to limit the number of elements that we get.
 >
 > **[2:00](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-streams-reading-data?u=76281980&t=120)** Like you see on screen.
 >
@@ -2007,7 +1967,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-streams-reading-data?u=76281980&t=252)** Let me tell you how that works.
 >
-> **[4:15](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-streams-reading-data?u=76281980&t=255)** Okay, so I have two terminal windows again because I'm going to show you what happens from the perspective of a consumer and of a producer.
+> **[4:15](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-streams-reading-data?u=76281980&t=255)** Okay, so I have two terminal [[Windows]] again because I'm going to show you what happens from the perspective of a consumer and of a producer.
 >
 > **[4:24](https://www.linkedin.com/learning/redis-essential-training-15012713/exploring-streams-reading-data?u=76281980&t=264)** So if you want to subscribe to a stream and wait for the first element to be added you can use the following command, XREAD, BLOCK, zero STREAMS, my events and the dollar sign, and that's it.
 >
@@ -2021,23 +1981,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Redis]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Redis]] (1), [[Windows]] (1)
 > **Env Vars:** xrange (5), xread (2), block (2), lrange (1), crange (1)
 > **Code Identifiers:** event_type (1)
 > **Tools:** terminal (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example: Real-time message bus using Pub/Sub
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/example-real-time-message-bus-using-pub-sub?u=76281980)
+#### [Example: Real-time message bus using Pub/Sub](https://www.linkedin.com/learning/redis-essential-training-15012713/example-real-time-message-bus-using-pub-sub?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/example-real-time-message-bus-using-pub-sub?u=76281980&t=0)** - [Presenter] Let's now use Pub/Sub to create a real-time message for us to see how that would work.
+> **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/example-real-time-message-bus-using-pub-sub?u=76281980&t=0)** - [Presenter] Let's now use Pub/Sub to create a [[Real-Time]] message for us to see how that would work.
 >
 > **[0:07](https://www.linkedin.com/learning/redis-essential-training-15012713/example-real-time-message-bus-using-pub-sub?u=76281980&t=7)** I'm going to set up two clients that will act as the consumers, and one that will act as a producer.
 >
-> **[0:15](https://www.linkedin.com/learning/redis-essential-training-15012713/example-real-time-message-bus-using-pub-sub?u=76281980&t=15)** Right, here I have three windows instead of two, because the bottom two will be my consumers, and the top one will be the producer.
+> **[0:15](https://www.linkedin.com/learning/redis-essential-training-15012713/example-real-time-message-bus-using-pub-sub?u=76281980&t=15)** Right, here I have three [[Windows]] instead of two, because the bottom two will be my consumers, and the top one will be the producer.
 >
 > **[0:25](https://www.linkedin.com/learning/redis-essential-training-15012713/example-real-time-message-bus-using-pub-sub?u=76281980&t=25)** So, I'm going to simply subscribe to mybus in both of them.
 >
@@ -2045,7 +2004,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/redis-essential-training-15012713/example-real-time-message-bus-using-pub-sub?u=76281980&t=45)** And immediately, the bottom two consumers get notified, and they see the message.
 >
-> **[0:53](https://www.linkedin.com/learning/redis-essential-training-15012713/example-real-time-message-bus-using-pub-sub?u=76281980&t=53)** It's that straightforward, because Redis is already prepared for that.
+> **[0:53](https://www.linkedin.com/learning/redis-essential-training-15012713/example-real-time-message-bus-using-pub-sub?u=76281980&t=53)** It's that straightforward, because [[Redis]] is already prepared for that.
 >
 > **[0:59](https://www.linkedin.com/learning/redis-essential-training-15012713/example-real-time-message-bus-using-pub-sub?u=76281980&t=59)** As you can see, the process is very straightforward, which is the great part of Pub/Sub.
 >
@@ -2064,12 +2023,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to key-space notifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/introduction-to-key-space-notifications?u=76281980)
+#### [Introduction to key-space notifications](https://www.linkedin.com/learning/redis-essential-training-15012713/introduction-to-key-space-notifications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/introduction-to-key-space-notifications?u=76281980&t=0)** - [Instructor] Keyspace Notifications are probably my favorite feature of Redis, mostly because of all the potential that it has.
+> **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/introduction-to-key-space-notifications?u=76281980&t=0)** - [Instructor] Keyspace Notifications are probably my favorite feature of [[Redis]], mostly because of all the potential that it has.
 >
 > **[0:08](https://www.linkedin.com/learning/redis-essential-training-15012713/introduction-to-key-space-notifications?u=76281980&t=8)** They are the third way in which you can create a message bus-like structure, only in this case, the producer is going to be Redis itself.
 >
@@ -2083,17 +2041,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (3), feature (1), data (1)
+> **Frameworks & Libraries:** [[Redis]] (3)
 > **Speakers:** - [instructor] (1)
 
-#### Practical example: Building a session timeout feature
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/practical-example-building-a-session-timeout-feature?u=76281980)
+#### [Practical example: Building a session timeout feature](https://www.linkedin.com/learning/redis-essential-training-15012713/practical-example-building-a-session-timeout-feature?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/practical-example-building-a-session-timeout-feature?u=76281980&t=0)** - [Instructor] To show you that behavior, let's think of a practical use case.
 >
-> **[0:03](https://www.linkedin.com/learning/redis-essential-training-15012713/practical-example-building-a-session-timeout-feature?u=76281980&t=3)** Let's figure out how to build a session timeout feature for a web application just using Redis.
+> **[0:03](https://www.linkedin.com/learning/redis-essential-training-15012713/practical-example-building-a-session-timeout-feature?u=76281980&t=3)** Let's figure out how to build a session timeout feature for a web application just using [[Redis]].
 >
 > **[0:12](https://www.linkedin.com/learning/redis-essential-training-15012713/practical-example-building-a-session-timeout-feature?u=76281980&t=12)** Let's assume we have a web application and we want to make sure that the user's session ends after a certain time.
 >
@@ -2105,12 +2062,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web application (2), [[Redis]] (2), feature (1)
+> **Frameworks & Libraries:** [[Redis]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Resolution
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/resolution?u=76281980)
+#### [Resolution](https://www.linkedin.com/learning/redis-essential-training-15012713/resolution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2130,7 +2086,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/redis-essential-training-15012713/resolution?u=76281980&t=52)** Let me explain.
 >
-> **[0:54](https://www.linkedin.com/learning/redis-essential-training-15012713/resolution?u=76281980&t=54)** So, this flag that we added, the XX flag, will make sure that we only update the key if it already exists, if it's already being created by Redis.
+> **[0:54](https://www.linkedin.com/learning/redis-essential-training-15012713/resolution?u=76281980&t=54)** So, this flag that we added, the XX flag, will make sure that we only update the key if it already exists, if it's already being created by [[Redis]].
 >
 > **[1:06](https://www.linkedin.com/learning/redis-essential-training-15012713/resolution?u=76281980&t=66)** Otherwise, it will return minus one.
 >
@@ -2146,7 +2102,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/redis-essential-training-15012713/resolution?u=76281980&t=101)** And let me show you how that would work.
 >
-> **[1:45](https://www.linkedin.com/learning/redis-essential-training-15012713/resolution?u=76281980&t=105)** All right, so we have two terminals windows again here.
+> **[1:45](https://www.linkedin.com/learning/redis-essential-training-15012713/resolution?u=76281980&t=105)** All right, so we have two terminals [[Windows]] again here.
 >
 > **[1:48](https://www.linkedin.com/learning/redis-essential-training-15012713/resolution?u=76281980&t=108)** The top one has the Redis client all ready and the one on the bottom is just a hash because I need to start my Redis client with a specific set of parameters for it to know that it needs to subscribe to the expiration events, which are the ones that we're going to be looking at.
 >
@@ -2174,8 +2130,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explanation overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/explanation-overview?u=76281980)
+#### [Explanation overview](https://www.linkedin.com/learning/redis-essential-training-15012713/explanation-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2201,7 +2156,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/redis-essential-training-15012713/explanation-overview?u=76281980&t=58)** This prevents us from having to check if the key exists before saving the timestamp of the user's activity.
 >
-> **[1:08](https://www.linkedin.com/learning/redis-essential-training-15012713/explanation-overview?u=76281980&t=68)** It essentially saves us REDIS query, which would still be very fast given Red's performance metrics.
+> **[1:08](https://www.linkedin.com/learning/redis-essential-training-15012713/explanation-overview?u=76281980&t=68)** It essentially saves us [[Redis]] query, which would still be very fast given Red's [[Performance Metrics]].
 >
 > **[1:14](https://www.linkedin.com/learning/redis-essential-training-15012713/explanation-overview?u=76281980&t=74)** However, it simplifies our code and the logic quite a lot.
 >
@@ -2217,7 +2172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Redis]] (2), database (1), [[Performance Metrics]] (1)
+> **Frameworks & Libraries:** [[Redis]] (2), [[Performance Metrics]] (1)
 > **Env Vars:** set (3), raids (1), redis (1)
 > **Cross-References:** we covered (1), previous video (1)
 > **Speakers:** - let (1)
@@ -2227,12 +2182,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's missing for a production-ready architecture?
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/what-s-missing-for-a-production-ready-architecture?u=76281980)
+#### [What's missing for a production-ready architecture?](https://www.linkedin.com/learning/redis-essential-training-15012713/what-s-missing-for-a-production-ready-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/what-s-missing-for-a-production-ready-architecture?u=76281980&t=0)** - [Instructor] Alright, so before we close the course, you go about with the next step in your Redis journey, let's try to think about what's missing from everything we've seen so far for you to take your Redis instance in production essentially.
+> **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/what-s-missing-for-a-production-ready-architecture?u=76281980&t=0)** - [Instructor] Alright, so before we close the course, you go about with the next step in your [[Redis]] journey, let's try to think about what's missing from everything we've seen so far for you to take your Redis instance in production essentially.
 >
 > **[0:18](https://www.linkedin.com/learning/redis-essential-training-15012713/what-s-missing-for-a-production-ready-architecture?u=76281980&t=18)** So what do we have so far?
 >
@@ -2304,7 +2258,7 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/redis-essential-training-15012713/what-s-missing-for-a-production-ready-architecture?u=76281980&t=319)** Now what Redis ensures is that eventually, once the connection between both parts of the cluster is reinstantiated then the cluster will become consistent again.
 >
-> **[5:32](https://www.linkedin.com/learning/redis-essential-training-15012713/what-s-missing-for-a-production-ready-architecture?u=76281980&t=332)** So this is very common in NoSQL databases, some will sacrifice high availability or even partition tolerance to remain consistent.
+> **[5:32](https://www.linkedin.com/learning/redis-essential-training-15012713/what-s-missing-for-a-production-ready-architecture?u=76281980&t=332)** So this is very common in [[NoSQL]] [[Databases]], some will sacrifice high availability or even partition tolerance to remain consistent.
 >
 > **[5:42](https://www.linkedin.com/learning/redis-essential-training-15012713/what-s-missing-for-a-production-ready-architecture?u=76281980&t=342)** In the case of Redis, we cannot ensure 100% strong consistency so there might be... There might be scenarios where if a server goes down or network issue, momentary network issue, then the database as a whole will stay in a state of eventual consistency, which will eventually fit itself.
 >
@@ -2328,19 +2282,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (23), data (7), traffic (2), database (2), next (1)
+> **Frameworks & Libraries:** [[Redis]] (23), [[NoSQL]] (1), [[Databases]] (1)
 > **Definitions:** is a  (2), is an  (2), in other words (1)
 > **CLI Commands:** make (1), find (1)
 > **Warnings:** be aware (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### An introduction to Redis Cluster
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/an-introduction-to-redis-cluster?u=76281980)
+#### [An introduction to Redis Cluster](https://www.linkedin.com/learning/redis-essential-training-15012713/an-introduction-to-redis-cluster?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/an-introduction-to-redis-cluster?u=76281980&t=0)** - [Instructor] Now let's take a look at what Redis Cluster is in a little bit more detail.
+> **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/an-introduction-to-redis-cluster?u=76281980&t=0)** - [Instructor] Now let's take a look at what [[Redis]] Cluster is in a little bit more detail.
 >
 > **[0:04](https://www.linkedin.com/learning/redis-essential-training-15012713/an-introduction-to-redis-cluster?u=76281980&t=4)** But remember that this video is not meant for you to use it as a full guide, just go on and set up your Cluster in production after watching this video.
 >
@@ -2372,7 +2325,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/redis-essential-training-15012713/an-introduction-to-redis-cluster?u=76281980&t=125)** That means that the cluster will automatically arrange itself so that that replicated information is still available to clients.
 >
-> **[2:16](https://www.linkedin.com/learning/redis-essential-training-15012713/an-introduction-to-redis-cluster?u=76281980&t=136)** Data sharding means that the information that you store in the cluster is not stored within a single server and then that server is replicated, but rather, the information is distributed between different nodes based on the key, based on different algorithms.
+> **[2:16](https://www.linkedin.com/learning/redis-essential-training-15012713/an-introduction-to-redis-cluster?u=76281980&t=136)** Data sharding means that the information that you store in the cluster is not stored within a single server and then that server is replicated, but rather, the information is distributed between different nodes based on the key, based on different [[Algorithms]].
 >
 > **[2:31](https://www.linkedin.com/learning/redis-essential-training-15012713/an-introduction-to-redis-cluster?u=76281980&t=151)** But the point is, you're not always hitting the same server.
 >
@@ -2446,7 +2399,7 @@ created: 2026-05-02
 >
 > **[7:23](https://www.linkedin.com/learning/redis-essential-training-15012713/an-introduction-to-redis-cluster?u=76281980&t=443)** What I'm going to do now is I'm going to paste here the common line that will set everything for us.
 >
-> **[7:33](https://www.linkedin.com/learning/redis-essential-training-15012713/an-introduction-to-redis-cluster?u=76281980&t=453)** So essentially, we're saying that the Redis CLI should take care of this.
+> **[7:33](https://www.linkedin.com/learning/redis-essential-training-15012713/an-introduction-to-redis-cluster?u=76281980&t=453)** So essentially, we're saying that the Redis [[CLI]] should take care of this.
 >
 > **[7:38](https://www.linkedin.com/learning/redis-essential-training-15012713/an-introduction-to-redis-cluster?u=76281980&t=458)** It's going to receive the cluster flag and just the command, the create command.
 >
@@ -2480,7 +2433,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (12), node (10), data (6), hit (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Redis]] (12), [[Algorithms]] (1), [[CLI]] (1)
 > **Prerequisites:** set up (9), setup (3)
 > **CLI Commands:** node (10), find (1)
 > **Definitions:** is a  (2), means that (1)
@@ -2489,14 +2442,13 @@ created: 2026-05-02
 > **Env Vars:** cli (1)
 > **Analogies:** for instance (1)
 
-#### An introduction to Redis Sentinel
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/an-introduction-to-redis-sentinel?u=76281980)
+#### [An introduction to Redis Sentinel](https://www.linkedin.com/learning/redis-essential-training-15012713/an-introduction-to-redis-sentinel?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/redis-essential-training-15012713/an-introduction-to-redis-sentinel?u=76281980&t=0)** - [Instructor] All right.
 >
-> **[0:01](https://www.linkedin.com/learning/redis-essential-training-15012713/an-introduction-to-redis-sentinel?u=76281980&t=1)** Let's now look at what Redis Sentinel is.
+> **[0:01](https://www.linkedin.com/learning/redis-essential-training-15012713/an-introduction-to-redis-sentinel?u=76281980&t=1)** Let's now look at what [[Redis]] Sentinel is.
 >
 > **[0:04](https://www.linkedin.com/learning/redis-essential-training-15012713/an-introduction-to-redis-sentinel?u=76281980&t=4)** Remember, this is just an introductory video.
 >
@@ -2504,7 +2456,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/redis-essential-training-15012713/an-introduction-to-redis-sentinel?u=76281980&t=13)** So what is Redis Sentinel?
 >
-> **[0:15](https://www.linkedin.com/learning/redis-essential-training-15012713/an-introduction-to-redis-sentinel?u=76281980&t=15)** Redis Sentinel is a way for you to monitor a single master node and figure out if there is a problem with it and if there's a problem with it, react.
+> **[0:15](https://www.linkedin.com/learning/redis-essential-training-15012713/an-introduction-to-redis-sentinel?u=76281980&t=15)** Redis Sentinel is a way for you to monitor a single master node and figure out if there is a problem with it and if there's a problem with it, [[React.js|react]].
 >
 > **[0:25](https://www.linkedin.com/learning/redis-essential-training-15012713/an-introduction-to-redis-sentinel?u=76281980&t=25)** Now, the best way for you to ensure that your Redis set up remains highly available even in the face of issues with your servers.
 >
@@ -2670,7 +2622,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (19), node (11), feature (2), [[React.js|React]] (1), database (1)
+> **Frameworks & Libraries:** [[Redis]] (19), [[React.js|React]] (1)
 > **Prerequisites:** set up (14), setup (2)
 > **CLI Commands:** node (11), make (4)
 > **Definitions:** is a  (11), means that (1)
@@ -2684,8 +2636,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to learn more about Redis
-> [LinkedIn Learning](https://www.linkedin.com/learning/redis-essential-training-15012713/how-to-learn-more-about-redis?u=76281980)
+#### [How to learn more about Redis](https://www.linkedin.com/learning/redis-essential-training-15012713/how-to-learn-more-about-redis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2695,21 +2646,21 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/redis-essential-training-15012713/how-to-learn-more-about-redis?u=76281980&t=4)** Thank you so much for sharing your time with me.
 >
-> **[0:07](https://www.linkedin.com/learning/redis-essential-training-15012713/how-to-learn-more-about-redis?u=76281980&t=7)** Now that you understand what Redis is, and hopefully how it can help you, you might want to look into Redis Cluster and Sentinel, which will give you an idea of how to create and scalable and reliable architecture.
+> **[0:07](https://www.linkedin.com/learning/redis-essential-training-15012713/how-to-learn-more-about-redis?u=76281980&t=7)** Now that you understand what [[Redis]] is, and hopefully how it can help you, you might want to look into Redis Cluster and Sentinel, which will give you an idea of how to create and scalable and reliable architecture.
 >
-> **[0:21](https://www.linkedin.com/learning/redis-essential-training-15012713/how-to-learn-more-about-redis?u=76281980&t=21)** Some other NoSQL databases like MongoDB, maybe, which goes great, hand in hand with Node.js.
+> **[0:21](https://www.linkedin.com/learning/redis-essential-training-15012713/how-to-learn-more-about-redis?u=76281980&t=21)** Some other [[NoSQL]] [[Databases]] like [[MongoDB]], maybe, which goes great, hand in hand with [[Node.js]].
 >
-> **[0:28](https://www.linkedin.com/learning/redis-essential-training-15012713/how-to-learn-more-about-redis?u=76281980&t=28)** And finally, maybe something around NoSQL data modeling, especially around Redis.
+> **[0:28](https://www.linkedin.com/learning/redis-essential-training-15012713/how-to-learn-more-about-redis?u=76281980&t=28)** And finally, maybe something around NoSQL [[Data Modeling]], especially around Redis.
 >
 > **[0:32](https://www.linkedin.com/learning/redis-essential-training-15012713/how-to-learn-more-about-redis?u=76281980&t=32)** If you enjoyed this course, it will take your skills to the next level.
 >
-> **[0:37](https://www.linkedin.com/learning/redis-essential-training-15012713/how-to-learn-more-about-redis?u=76281980&t=37)** And on the same line, if you're ready for your next LinkedIn learning course, I've got some suggestions for you.
+> **[0:37](https://www.linkedin.com/learning/redis-essential-training-15012713/how-to-learn-more-about-redis?u=76281980&t=37)** And on the same line, if you're ready for your next [[LinkedIn]] learning course, I've got some suggestions for you.
 >
 > **[0:46](https://www.linkedin.com/learning/redis-essential-training-15012713/how-to-learn-more-about-redis?u=76281980&t=46)** For your NoSQL questions, maybe try NoSQL Essential Trainings.
 >
 > **[0:50](https://www.linkedin.com/learning/redis-essential-training-15012713/how-to-learn-more-about-redis?u=76281980&t=50)** It will take you through the basics, including some interesting theory like the Cap Theorem, which is very used and applicable to all situations.
 >
-> **[1:00](https://www.linkedin.com/learning/redis-essential-training-15012713/how-to-learn-more-about-redis?u=76281980&t=60)** If you're into software architecture, you might want to review the course Software Architecture Foundations.
+> **[1:00](https://www.linkedin.com/learning/redis-essential-training-15012713/how-to-learn-more-about-redis?u=76281980&t=60)** If you're into [[Software Architecture]], you might want to review the course Software Architecture Foundations.
 >
 > **[1:05](https://www.linkedin.com/learning/redis-essential-training-15012713/how-to-learn-more-about-redis?u=76281980&t=65)** It covers some interesting patterns, that will come in handy when working as an architect.
 >
@@ -2733,7 +2684,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (4), [[NoSQL]] (4), [[Node.js]] (4), [[MongoDB]] (2), next (2)
+> **Frameworks & Libraries:** [[Redis]] (4), [[NoSQL]] (4), [[Node.js]] (4), [[MongoDB]] (2), [[LinkedIn]] (2)
 > **CLI Commands:** node (4), make (1)
 > **File Paths:** node.js (4)
 > **Speakers:** - [instructor] (1)

@@ -103,12 +103,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with WordPress
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/getting-started-with-wordpress?u=76281980)
+#### [Getting started with WordPress](https://www.linkedin.com/learning/wordpress-essential-training-24651128/getting-started-with-wordpress?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/getting-started-with-wordpress?u=76281980&t=0)** - My favorite thing about WordPress is that it's possible to launch a site in just one day.
+> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/getting-started-with-wordpress?u=76281980&t=0)** - My favorite thing about [[WordPress]] is that it's possible to launch a site in just one day.
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-essential-training-24651128/getting-started-with-wordpress?u=76281980&t=5)** With WordPress, you can get your voice out on the web and achieve your personal and professional goals.
 >
@@ -128,7 +127,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (9), web (1)
+> **Frameworks & Libraries:** [[WordPress]] (9)
 > **Speakers:** - my (1)
 
 
@@ -136,16 +135,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The open-source philosophy
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-open-source-philosophy?u=76281980)
+#### [The open-source philosophy](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-open-source-philosophy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-open-source-philosophy?u=76281980&t=0)** - So before we fully dive into how to build a site with WordPress, we need to know what WordPress is.
+> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-open-source-philosophy?u=76281980&t=0)** - So before we fully dive into how to build a site with [[WordPress]], we need to know what WordPress is.
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-open-source-philosophy?u=76281980&t=6)** How is it different from other site builders, and how do those differences make it a stronger tool?
 >
-> **[0:12](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-open-source-philosophy?u=76281980&t=12)** So in the past, before content management systems existed, developers had to write every line of code that makes up a site from scratch.
+> **[0:12](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-open-source-philosophy?u=76281980&t=12)** So in the past, before [[Content Management Systems (CMS)|content management systems]] existed, developers had to write every line of code that makes up a site from scratch.
 >
 > **[0:21](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-open-source-philosophy?u=76281980&t=21)** And if they wanted to change something about a site, they had to write new code or edit existing code.
 >
@@ -153,7 +151,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-open-source-philosophy?u=76281980&t=31)** People who didn't know how to write code couldn't easily build or launch a website.
 >
-> **[0:36](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-open-source-philosophy?u=76281980&t=36)** Using a content management system like WordPress allows you to fast forward through the development process without code.
+> **[0:36](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-open-source-philosophy?u=76281980&t=36)** Using a [[Content Management]] system like WordPress allows you to fast forward through the development process without code.
 >
 > **[0:44](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-open-source-philosophy?u=76281980&t=44)** You begin with an empty website and user-friendly, code-free tools to populate your site with all sorts of content.
 >
@@ -189,7 +187,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-open-source-philosophy?u=76281980&t=142)** This means that any of the source code can be inspected, modified, and changed by anyone anywhere for pretty much any reason.
 >
-> **[2:30](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-open-source-philosophy?u=76281980&t=150)** Open-source software like WordPress is free, flexible, and community-focused.
+> **[2:30](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-open-source-philosophy?u=76281980&t=150)** [[Open-Source Software]] like WordPress is free, flexible, and community-focused.
 >
 > **[2:35](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-open-source-philosophy?u=76281980&t=155)** WordPress is more adaptable and individual site builders have more control over the way the software develops over time.
 >
@@ -197,7 +195,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-open-source-philosophy?u=76281980&t=168)** The WordPress community includes developers, designers, marketers, content writers, business owners, translators, event organizers, diversity specialists, and so much more.
 >
-> **[3:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-open-source-philosophy?u=76281980&t=180)** The people who work on WordPress write software, create products, put on events, and overall strive to make WordPress more usable and more accessible to more people.
+> **[3:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-open-source-philosophy?u=76281980&t=180)** The people who work on WordPress write software, create [[Microsoft Products|products]], put on events, and overall strive to make WordPress more usable and more accessible to more people.
 >
 > **[3:12](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-open-source-philosophy?u=76281980&t=192)** Virtually, every change, feature, or improvement that you see added to WordPress over time was created by real-life WordPress users, and they all work to make WordPress better over time.
 >
@@ -205,7 +203,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (22), [[Content Management]] (3), open-source (2), [[Content Management Systems (CMS)|Content management systems]] (1), seo (1)
+> **Frameworks & Libraries:** [[WordPress]] (22), [[Content Management]] (3), [[Content Management Systems (CMS)|Content management systems]] (1), [[Open-Source Software]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
 > **Env Vars:** seo (1)
@@ -214,12 +212,11 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Definitions:** means that (1)
 
-#### What's new in 6.6?
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/what-s-new-in-6-4-and-6-5?u=76281980)
+#### [What's new in 6.6?](https://www.linkedin.com/learning/wordpress-essential-training-24651128/what-s-new-in-6-4-and-6-5?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/what-s-new-in-6-4-and-6-5?u=76281980&t=0)** - [Lecturer] A few times a year, a new version of WordPress is released.
+> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/what-s-new-in-6-4-and-6-5?u=76281980&t=0)** - [Lecturer] A few times a year, a new version of [[WordPress]] is released.
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-essential-training-24651128/what-s-new-in-6-4-and-6-5?u=76281980&t=4)** New versions may correct bugs, add new features, change the user interface, provide security improvements, and lots of other things.
 >
@@ -265,7 +262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (6), feature (2), [[Security]] (1), cms (1), teams (1)
+> **Frameworks & Libraries:** [[WordPress]] (6)
 > **Versions:** 6.6 (4), 5.9 (1), version 6 (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
 > **Env Vars:** cms (1)
@@ -273,12 +270,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [lecturer] (1)
 
-#### The difference between .com and .org
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-difference-between-com-and-org?u=76281980)
+#### [The difference between .com and .org](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-difference-between-com-and-org?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-difference-between-com-and-org?u=76281980&t=0)** - [Narrator] When researching WordPress, you may come across two different types.
+> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-difference-between-com-and-org?u=76281980&t=0)** - [Narrator] When researching [[WordPress]], you may come across two different types.
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-difference-between-com-and-org?u=76281980&t=4)** WordPress, the software found on [WordPress.org](https://WordPress.org), and WordPress as a service-based website solution found via [WordPress.com](https://WordPress.com).
 >
@@ -302,7 +298,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-difference-between-com-and-org?u=76281980&t=87)** All of this comes in one handy package.
 >
-> **[1:30](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-difference-between-com-and-org?u=76281980&t=90)** [WordPress.com](https://WordPress.com) does offer a very limited free option, or you can purchase a personal, premium, business, or e-commerce package.
+> **[1:30](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-difference-between-com-and-org?u=76281980&t=90)** [WordPress.com](https://WordPress.com) does offer a very limited free option, or you can purchase a personal, premium, business, or [[E-Commerce]] package.
 >
 > **[1:39](https://www.linkedin.com/learning/wordpress-essential-training-24651128/the-difference-between-com-and-org?u=76281980&t=99)** The package you purchase will affect what your site can and cannot do.
 >
@@ -320,15 +316,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (21), [[Security]] (1), business (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (21), [[E-Commerce]] (1)
 > **URLs:** [wordpress.com](https://wordpress.com) (8), [wordpress.org](https://wordpress.org) (6)
 > **CLI Commands:** find (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Navigating this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/navigating-this-course?u=76281980)
+#### [Navigating this course](https://www.linkedin.com/learning/wordpress-essential-training-24651128/navigating-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -336,9 +331,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-essential-training-24651128/navigating-this-course?u=76281980&t=4)** You can use this information to build a simple website for yourself or for your business.
 >
-> **[0:09](https://www.linkedin.com/learning/wordpress-essential-training-24651128/navigating-this-course?u=76281980&t=9)** You can also use this course to build foundational knowledge necessary to launch a career with WordPress, perhaps providing services for others.
+> **[0:09](https://www.linkedin.com/learning/wordpress-essential-training-24651128/navigating-this-course?u=76281980&t=9)** You can also use this course to build foundational knowledge necessary to launch a career with [[WordPress]], perhaps providing services for others.
 >
-> **[0:17](https://www.linkedin.com/learning/wordpress-essential-training-24651128/navigating-this-course?u=76281980&t=17)** Chapter 1 gives you a basic understanding of what WordPress is as a program and how it differs from other content management systems, so you can determine if WordPress is actually the right software for you.
+> **[0:17](https://www.linkedin.com/learning/wordpress-essential-training-24651128/navigating-this-course?u=76281980&t=17)** Chapter 1 gives you a basic understanding of what WordPress is as a program and how it differs from other [[Content Management Systems (CMS)|content management systems]], so you can determine if WordPress is actually the right software for you.
 >
 > **[0:28](https://www.linkedin.com/learning/wordpress-essential-training-24651128/navigating-this-course?u=76281980&t=28)** Chapter 2 shows you how to set up your WordPress website on your host, launch the site, create user accounts, navigate the dashboard, and prepare the environment for building.
 >
@@ -360,7 +355,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (6), [[Security]] (2), business (1), career (1), [[Content Management Systems (CMS)|Content management systems]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (6), [[Content Management Systems (CMS)|Content management systems]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -370,12 +365,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choosing hosting and a domain
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/choosing-hosting-and-a-domain?u=76281980)
+#### [Choosing hosting and a domain](https://www.linkedin.com/learning/wordpress-essential-training-24651128/choosing-hosting-and-a-domain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/choosing-hosting-and-a-domain?u=76281980&t=0)** - [Instructor] The first step to launching a WordPress website is to secure website hosting and a domain name.
+> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/choosing-hosting-and-a-domain?u=76281980&t=0)** - [Instructor] The first step to launching a [[WordPress]] website is to secure website hosting and a domain name.
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-essential-training-24651128/choosing-hosting-and-a-domain?u=76281980&t=6)** If you're building a site with the free WordPress software downloaded from [wordpress.org](https://wordpress.org), these things are essential to the process.
 >
@@ -393,7 +387,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/wordpress-essential-training-24651128/choosing-hosting-and-a-domain?u=76281980&t=39)** You cannot have a live website and not have any one of these things.
 >
-> **[0:43](https://www.linkedin.com/learning/wordpress-essential-training-24651128/choosing-hosting-and-a-domain?u=76281980&t=43)** Your website files made up of HTML, CSS, PHP, JavaScript images, database files, et cetera, are like all the possessions that you have inside your house, but they're stored inside a server.
+> **[0:43](https://www.linkedin.com/learning/wordpress-essential-training-24651128/choosing-hosting-and-a-domain?u=76281980&t=43)** Your website files made up of [[HTML]], CSS, [[PHP]], [[JavaScript]] images, database files, et cetera, are like all the possessions that you have inside your house, but they're stored inside a server.
 >
 > **[0:57](https://www.linkedin.com/learning/wordpress-essential-training-24651128/choosing-hosting-and-a-domain?u=76281980&t=57)** In our [wordpress.com](https://wordpress.com) versus [wordpress.org](https://wordpress.org) video, we talked about the website files.
 >
@@ -431,7 +425,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/wordpress-essential-training-24651128/choosing-hosting-and-a-domain?u=76281980&t=166)** Or if you purchased your domain elsewhere, they will help you connect that domain to the server.
 >
-> **[2:52](https://www.linkedin.com/learning/wordpress-essential-training-24651128/choosing-hosting-and-a-domain?u=76281980&t=172)** Now, keep in mind, hosting companies don't just store files, they usually provide plans that come with features and services like threat detection, email, backup services, updates, caching, building tools, as well as customer support.
+> **[2:52](https://www.linkedin.com/learning/wordpress-essential-training-24651128/choosing-hosting-and-a-domain?u=76281980&t=172)** Now, keep in mind, hosting companies don't just store files, they usually provide plans that come with features and services like threat detection, email, backup services, updates, caching, building tools, as well as [[Customer Support]].
 >
 > **[3:07](https://www.linkedin.com/learning/wordpress-essential-training-24651128/choosing-hosting-and-a-domain?u=76281980&t=187)** Hosting plans will vary in price depending on server resources, features, and services.
 >
@@ -463,7 +457,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (12), [[HTML]] (1), css (1), [[PHP]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (12), [[HTML]] (1), [[PHP]] (1), [[JavaScript]] (1), [[Customer Support]] (1)
 > **Env Vars:** url (2), html (1), css (1), php (1)
 > **CLI Commands:** find (3), php (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (2), [wordpress.com](https://wordpress.com) (1), [thisgreatwebsite.com](https://thisgreatwebsite.com) (1)
@@ -472,12 +466,11 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Warnings:** keep in mind (1)
 
-#### Launching a WordPress site
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/launching-a-wordpress-site?u=76281980)
+#### [Launching a WordPress site](https://www.linkedin.com/learning/wordpress-essential-training-24651128/launching-a-wordpress-site?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/launching-a-wordpress-site?u=76281980&t=0)** - [Instructor] Let's get into the step-by-step of launching a WordPress website.
+> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/launching-a-wordpress-site?u=76281980&t=0)** - [Instructor] Let's get into the step-by-step of launching a [[WordPress]] website.
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-essential-training-24651128/launching-a-wordpress-site?u=76281980&t=4)** For this course, I'll be focusing on the free [wordpress.org](https://wordpress.org) method rather than the [wordpress.com](https://wordpress.com) service.
 >
@@ -511,7 +504,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/wordpress-essential-training-24651128/launching-a-wordpress-site?u=76281980&t=78)** For the moment, I won't change any of these, but I could make it a staging site if I wanted.
 >
-> **[1:23](https://www.linkedin.com/learning/wordpress-essential-training-24651128/launching-a-wordpress-site?u=76281980&t=83)** I could make it a e-commerce site if I wanted with WooCommerce, but for now, I'll leave everything the same and I'll choose create.
+> **[1:23](https://www.linkedin.com/learning/wordpress-essential-training-24651128/launching-a-wordpress-site?u=76281980&t=83)** I could make it a [[E-Commerce]] site if I wanted with [[WooCommerce]], but for now, I'll leave everything the same and I'll choose create.
 >
 > **[1:32](https://www.linkedin.com/learning/wordpress-essential-training-24651128/launching-a-wordpress-site?u=76281980&t=92)** Because this is managed WordPress, it builds the site for me.
 >
@@ -533,9 +526,9 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/wordpress-essential-training-24651128/launching-a-wordpress-site?u=76281980&t=159)** You can also manually install WordPress by uploading the WordPress site files to your hosting server.
 >
-> **[2:46](https://www.linkedin.com/learning/wordpress-essential-training-24651128/launching-a-wordpress-site?u=76281980&t=166)** This is a slightly more advanced method that you should try only if you're familiar with code and databases.
+> **[2:46](https://www.linkedin.com/learning/wordpress-essential-training-24651128/launching-a-wordpress-site?u=76281980&t=166)** This is a slightly more advanced method that you should try only if you're familiar with code and [[Databases]].
 >
-> **[2:52](https://www.linkedin.com/learning/wordpress-essential-training-24651128/launching-a-wordpress-site?u=76281980&t=172)** Here's a great course on LinkedIn Learning by Jeff Starr that provides you with the steps needed for this more advanced option.
+> **[2:52](https://www.linkedin.com/learning/wordpress-essential-training-24651128/launching-a-wordpress-site?u=76281980&t=172)** Here's a great course on [[LinkedIn]] Learning by Jeff Starr that provides you with the steps needed for this more advanced option.
 >
 > **[3:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/launching-a-wordpress-site?u=76281980&t=180)** Regardless of how you set up your site, there's one surefire way to log into your website once it's been created.
 >
@@ -543,7 +536,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (9), business (1), [[E-Commerce]] (1), [[WooCommerce]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (9), [[E-Commerce]] (1), [[WooCommerce]] (1), [[Databases]] (1), [[LinkedIn]] (1)
 > **Prerequisites:** install (3), you'll need (1), set up (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** make (2), find (1)
@@ -552,12 +545,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Creating user accounts and logging in
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-user-accounts-and-logging-in?u=76281980)
+#### [Creating user accounts and logging in](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-user-accounts-and-logging-in?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-user-accounts-and-logging-in?u=76281980&t=0)** - [Instructor] To access your WordPress website's admin screen, also called the backend or the dashboard, which is where you add and manipulate content, you need to first log in.
+> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-user-accounts-and-logging-in?u=76281980&t=0)** - [Instructor] To access your [[WordPress]] website's admin screen, also called the backend or the dashboard, which is where you add and manipulate content, you need to first log in.
 >
 > **[0:10](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-user-accounts-and-logging-in?u=76281980&t=10)** You can create as many user accounts for various people to enable them to log in individually.
 >
@@ -633,7 +625,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (5), next (1)
+> **Frameworks & Libraries:** [[WordPress]] (5)
 > **Analogies:** picture (3), for example (1)
 > **CLI Commands:** find (2), make (1)
 > **Prerequisites:** install (1), you'll need (1)
@@ -642,12 +634,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Navigating the dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/navigating-the-dashboard?u=76281980)
+#### [Navigating the dashboard](https://www.linkedin.com/learning/wordpress-essential-training-24651128/navigating-the-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/navigating-the-dashboard?u=76281980&t=0)** - [Instructor] When you first log into your WordPress website, you'll be met with the admin screen, also called the dashboard or the backend, and there are three main areas, the main menu, the dashboard, and the top menu.
+> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/navigating-the-dashboard?u=76281980&t=0)** - [Instructor] When you first log into your [[WordPress]] website, you'll be met with the admin screen, also called the dashboard or the backend, and there are three main areas, the main menu, the dashboard, and the top menu.
 >
 > **[0:13](https://www.linkedin.com/learning/wordpress-essential-training-24651128/navigating-the-dashboard?u=76281980&t=13)** Let's go over how you'd use these areas when selecting settings and customizing your website.
 >
@@ -745,7 +736,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (6), [[Search]] (1), seo (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (6)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** go to (2), toggle (2)
 > **Warnings:** keep in mind (2), be aware (1)
@@ -754,12 +745,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preparing your WordPress environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/preparing-your-wordpress-environment?u=76281980)
+#### [Preparing your WordPress environment](https://www.linkedin.com/learning/wordpress-essential-training-24651128/preparing-your-wordpress-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/preparing-your-wordpress-environment?u=76281980&t=0)** - [Instructor] When you open up a brand new blank WordPress install, you may want to begin adding content right away.
+> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/preparing-your-wordpress-environment?u=76281980&t=0)** - [Instructor] When you open up a brand new blank [[WordPress]] install, you may want to begin adding content right away.
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-essential-training-24651128/preparing-your-wordpress-environment?u=76281980&t=6)** You absolutely can.
 >
@@ -829,7 +819,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/wordpress-essential-training-24651128/preparing-your-wordpress-environment?u=76281980&t=214)** Here, you can change the homepage to either be a list of your latest blog posts or a static page, which you can choose from a list of pages that you've created below.
 >
-> **[3:45](https://www.linkedin.com/learning/wordpress-essential-training-24651128/preparing-your-wordpress-environment?u=76281980&t=225)** You also want to make sure that search engines like Google are either discouraged from indexing your site or encouraged to do so.
+> **[3:45](https://www.linkedin.com/learning/wordpress-essential-training-24651128/preparing-your-wordpress-environment?u=76281980&t=225)** You also want to make sure that search engines like [[Google]] are either discouraged from indexing your site or encouraged to do so.
 >
 > **[3:53](https://www.linkedin.com/learning/wordpress-essential-training-24651128/preparing-your-wordpress-environment?u=76281980&t=233)** If you don't want Google to show your site to people, choose Discourage, and then save changes.
 >
@@ -837,7 +827,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/wordpress-essential-training-24651128/preparing-your-wordpress-environment?u=76281980&t=248)** On the permalinks page, you may want to change the style of permalinks you use, but only if you have a good reason.
 >
-> **[4:15](https://www.linkedin.com/learning/wordpress-essential-training-24651128/preparing-your-wordpress-environment?u=76281980&t=255)** And on the Privacy page, follow the included directions to generate or edit your own privacy policy page for this site.
+> **[4:15](https://www.linkedin.com/learning/wordpress-essential-training-24651128/preparing-your-wordpress-environment?u=76281980&t=255)** And on the [[Privacy]] page, follow the included directions to generate or edit your own privacy policy page for this site.
 >
 > **[4:23](https://www.linkedin.com/learning/wordpress-essential-training-24651128/preparing-your-wordpress-environment?u=76281980&t=263)** The final few prep tasks I'll conduct include some personal preferences.
 >
@@ -867,7 +857,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[WordPress]] (5), web (2), [[Search]] (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[WordPress]] (5), [[Google]] (2), [[Privacy]] (2)
 > **Env Vars:** ssl (8), url (2), https (1), http (1)
 > **CLI Commands:** make (6), find (2)
 > **UI Navigation:** go to (5)
@@ -881,12 +871,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How secure is WordPress?
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/how-secure-is-wordpress?u=76281980)
+#### [How secure is WordPress?](https://www.linkedin.com/learning/wordpress-essential-training-24651128/how-secure-is-wordpress?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/how-secure-is-wordpress?u=76281980&t=0)** - A common concern and reason for choosing or not choosing WordPress is centered around the degree to which WordPress is safe and secure.
+> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/how-secure-is-wordpress?u=76281980&t=0)** - A common concern and reason for choosing or not choosing [[WordPress]] is centered around the degree to which WordPress is safe and secure.
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-essential-training-24651128/how-secure-is-wordpress?u=76281980&t=8)** The argument is almost always pointless.
 >
@@ -902,7 +891,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/wordpress-essential-training-24651128/how-secure-is-wordpress?u=76281980&t=46)** An authentication bypass basically just means someone is hacking in or logging into the site without your permission.
 >
-> **[0:53](https://www.linkedin.com/learning/wordpress-essential-training-24651128/how-secure-is-wordpress?u=76281980&t=53)** An SQL injection forces the site to do things or display data that it's not meant to.
+> **[0:53](https://www.linkedin.com/learning/wordpress-essential-training-24651128/how-secure-is-wordpress?u=76281980&t=53)** An [[SQL]] injection forces the site to do things or display data that it's not meant to.
 >
 > **[0:59](https://www.linkedin.com/learning/wordpress-essential-training-24651128/how-secure-is-wordpress?u=76281980&t=59)** And cross-site scripting injects malicious code that turns the site into a transporter for malware.
 >
@@ -918,7 +907,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/wordpress-essential-training-24651128/how-secure-is-wordpress?u=76281980&t=104)** For most sites, best practices are enough to prevent your site from becoming vulnerable.
 >
-> **[1:48](https://www.linkedin.com/learning/wordpress-essential-training-24651128/how-secure-is-wordpress?u=76281980&t=108)** If you want to go very deep word press security, I highly recommend you check out my other course all about building a secure WordPress website.
+> **[1:48](https://www.linkedin.com/learning/wordpress-essential-training-24651128/how-secure-is-wordpress?u=76281980&t=108)** If you want to go very deep [[Microsoft Word|word]] press security, I highly recommend you check out my other course all about building a secure WordPress website.
 >
 > **[1:58](https://www.linkedin.com/learning/wordpress-essential-training-24651128/how-secure-is-wordpress?u=76281980&t=118)** However, if any of these things apply to your website, it would be worth it for you to go the extra mile using steps from the next two videos.
 >
@@ -932,19 +921,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (6), [[Security]] (5), next (2), traffic (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (6), [[SQL]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (1), ssl (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - a (1)
 
-#### Using plugins for extra security
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/using-plugins-for-extra-security?u=76281980)
+#### [Using plugins for extra security](https://www.linkedin.com/learning/wordpress-essential-training-24651128/using-plugins-for-extra-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/using-plugins-for-extra-security?u=76281980&t=0)** - [Instructor] When providing extra security for your WordPress website, there are a ton of plugins that you can utilize.
+> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/using-plugins-for-extra-security?u=76281980&t=0)** - [Instructor] When providing extra security for your [[WordPress]] website, there are a ton of plugins that you can utilize.
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-essential-training-24651128/using-plugins-for-extra-security?u=76281980&t=6)** These are all my professional recommendations.
 >
@@ -1002,7 +990,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[WordPress]] (2), next (1)
+> **Frameworks & Libraries:** [[WordPress]] (2)
 > **CLI Commands:** make (5), find (1)
 > **Warnings:** keep in mind (3)
 > **Env Vars:** url (2)
@@ -1010,8 +998,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using code for extra security
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/using-code-for-extra-security?u=76281980)
+#### [Using code for extra security](https://www.linkedin.com/learning/wordpress-essential-training-24651128/using-code-for-extra-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1021,7 +1008,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/wordpress-essential-training-24651128/using-code-for-extra-security?u=76281980&t=13)** If you're comfy with code already, that's great, but these are not advanced and won't require you to write any of the code yourself.
 >
-> **[0:19](https://www.linkedin.com/learning/wordpress-essential-training-24651128/using-code-for-extra-security?u=76281980&t=19)** Keep in mind that if you use managed WordPress hosting, you probably will not be able to complete these steps.
+> **[0:19](https://www.linkedin.com/learning/wordpress-essential-training-24651128/using-code-for-extra-security?u=76281980&t=19)** Keep in mind that if you use managed [[WordPress]] hosting, you probably will not be able to complete these steps.
 >
 > **[0:26](https://www.linkedin.com/learning/wordpress-essential-training-24651128/using-code-for-extra-security?u=76281980&t=26)** If someone gains access to your WordPress dashboard, they could potentially remove your security plugins.
 >
@@ -1033,7 +1020,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/wordpress-essential-training-24651128/using-code-for-extra-security?u=76281980&t=52)** You'll need to have access to your website's core files first, and I highly recommend you take a full site backup, including a database backup, before editing any code.
 >
-> **[1:03](https://www.linkedin.com/learning/wordpress-essential-training-24651128/using-code-for-extra-security?u=76281980&t=63)** First, disable PHP error reporting.
+> **[1:03](https://www.linkedin.com/learning/wordpress-essential-training-24651128/using-code-for-extra-security?u=76281980&t=63)** First, disable [[PHP]] error reporting.
 >
 > **[1:06](https://www.linkedin.com/learning/wordpress-essential-training-24651128/using-code-for-extra-security?u=76281980&t=66)** PHP error reporting displays information about your website's files, but it can also show any vulnerabilities connected to plugins and themes.
 >
@@ -1069,7 +1056,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (6), [[Security]] (5), [[PHP]] (3), database (2), next (2)
+> **Frameworks & Libraries:** [[WordPress]] (6), [[PHP]] (3)
 > **CLI Commands:** php (3), make (2)
 > **Env Vars:** php (3)
 > **Prerequisites:** you'll need (2)
@@ -1082,8 +1069,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a new page
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-a-new-page?u=76281980)
+#### [Creating a new page](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-a-new-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1137,7 +1123,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-a-new-page?u=76281980&t=138)** This applies specifically to the last part of the URL or the slug, which usually matches the title of the page.
 >
-> **[2:28](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-a-new-page?u=76281980&t=148)** So, WordPress will automatically take your title and make it your slug.
+> **[2:28](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-a-new-page?u=76281980&t=148)** So, [[WordPress]] will automatically take your title and make it your slug.
 >
 > **[2:32](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-a-new-page?u=76281980&t=152)** But if you want to, you can come in here and change it yourself.
 >
@@ -1187,21 +1173,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[WordPress]] (2)
+> **Frameworks & Libraries:** [[WordPress]] (2)
 > **CLI Commands:** make (5)
 > **Cross-References:** in the next (2), go back to (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Env Vars:** url (1), live (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designing and customizing a page
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/designing-and-customizing-a-page?u=76281980)
+#### [Designing and customizing a page](https://www.linkedin.com/learning/wordpress-essential-training-24651128/designing-and-customizing-a-page?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/designing-and-customizing-a-page?u=76281980&t=0)** - [Instructor] Now that we know how to add a new page, we need to know how to make it look the way that we want.
 >
-> **[0:06](https://www.linkedin.com/learning/wordpress-essential-training-24651128/designing-and-customizing-a-page?u=76281980&t=6)** The amazing thing about WordPress is that you don't need to be a trained graphic designer, web designer, or web developer in order to make a beautiful page design.
+> **[0:06](https://www.linkedin.com/learning/wordpress-essential-training-24651128/designing-and-customizing-a-page?u=76281980&t=6)** The amazing thing about [[WordPress]] is that you don't need to be a trained graphic designer, web designer, or web developer in order to make a beautiful page design.
 >
 > **[0:15](https://www.linkedin.com/learning/wordpress-essential-training-24651128/designing-and-customizing-a-page?u=76281980&t=15)** You just need a little vision, a little creativity, and a basic understanding of the block editor which is what we're going to discuss now.
 >
@@ -1335,7 +1320,7 @@ created: 2026-05-02
 >
 > **[8:14](https://www.linkedin.com/learning/wordpress-essential-training-24651128/designing-and-customizing-a-page?u=76281980&t=494)** As far as color, you should have an established color palette for your brand or company to utilize in your site design.
 >
-> **[8:22](https://www.linkedin.com/learning/wordpress-essential-training-24651128/designing-and-customizing-a-page?u=76281980&t=502)** Some good rules of thumb with color and web design.
+> **[8:22](https://www.linkedin.com/learning/wordpress-essential-training-24651128/designing-and-customizing-a-page?u=76281980&t=502)** Some good rules of thumb with color and [[Web Design]].
 >
 > **[8:26](https://www.linkedin.com/learning/wordpress-essential-training-24651128/designing-and-customizing-a-page?u=76281980&t=506)** Black and dark gray is almost always the best choice for text.
 >
@@ -1371,7 +1356,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), web (3), seo (3), [[Search]] (2), next (2)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[Web Design]] (1)
 > **CLI Commands:** make (10), find (4)
 > **UI Navigation:** select the (2), open the (1), toggle (1)
 > **Analogies:** for example (4)
@@ -1380,8 +1365,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 
-#### Managing pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/managing-pages?u=76281980)
+#### [Managing pages](https://www.linkedin.com/learning/wordpress-essential-training-24651128/managing-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1445,7 +1429,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** go to (1), select the (1), dropdown (1)
 > **Cross-References:** in the last (1), as you saw (1)
@@ -1458,8 +1441,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating posts
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-posts?u=76281980)
+#### [Creating posts](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-posts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1469,7 +1451,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-posts?u=76281980&t=9)** Once you learn how to edit and publish one, the other will be a breeze.
 >
-> **[0:13](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-posts?u=76281980&t=13)** But just remember that posts and pages are used for different purposes and are treated differently by WordPress.
+> **[0:13](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-posts?u=76281980&t=13)** But just remember that posts and pages are used for different purposes and are treated differently by [[WordPress]].
 >
 > **[0:19](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-posts?u=76281980&t=19)** Both are important for building content, SEO goals, and communicating with your visitors.
 >
@@ -1523,7 +1505,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-posts?u=76281980&t=174)** Keep in mind that we will go over adding and editing content for posts in a future video, but for now, I just want to show you how to create a post and publish it.
 >
-> **[3:04](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-posts?u=76281980&t=184)** So we'll go up to the preview icon and choose preview in a new tab, and I can see my featured image up at the top, my title, my metadata, which includes the author, date, category, and however many comments I might have, followed by all of the content that I've added to this post.
+> **[3:04](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-posts?u=76281980&t=184)** So we'll go up to the preview icon and choose preview in a new tab, and I can see my featured image up at the top, my title, my [[Metadata]], which includes the author, date, category, and however many comments I might have, followed by all of the content that I've added to this post.
 >
 > **[3:26](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-posts?u=76281980&t=206)** Keep in mind that unless you've published this already, nobody else is going to see it.
 >
@@ -1545,7 +1527,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (4), next (2), seo (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), [[Metadata]] (1)
 > **UI Navigation:** go to (3)
 > **Warnings:** keep in mind (3)
 > **CLI Commands:** make (2)
@@ -1554,8 +1536,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Designing and customizing a post
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/designing-and-customizing-a-post?u=76281980)
+#### [Designing and customizing a post](https://www.linkedin.com/learning/wordpress-essential-training-24651128/designing-and-customizing-a-post?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1591,13 +1572,13 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/wordpress-essential-training-24651128/designing-and-customizing-a-post?u=76281980&t=57)** Consider even making your title a question.
 >
-> **[1:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/designing-and-customizing-a-post?u=76281980&t=60)** Search engines like to see that a blog post title matches the question someone might type into Google.
+> **[1:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/designing-and-customizing-a-post?u=76281980&t=60)** Search engines like to see that a blog post title matches the question someone might type into [[Google]].
 >
 > **[1:07](https://www.linkedin.com/learning/wordpress-essential-training-24651128/designing-and-customizing-a-post?u=76281980&t=67)** Since blog posts should be dedicated to answering your reader's questions, it should be easy for them to find the information that they want.
 >
 > **[1:15](https://www.linkedin.com/learning/wordpress-essential-training-24651128/designing-and-customizing-a-post?u=76281980&t=75)** Make your posts skimmable and easy to quickly navigate using subheaders, short paragraphs, lists, and things like bold and italic text when appropriate.
 >
-> **[1:25](https://www.linkedin.com/learning/wordpress-essential-training-24651128/designing-and-customizing-a-post?u=76281980&t=85)** We would love for visitors to read every single word of every single post, but they will remember the value of your post if it actually solves their problem and solves it quickly.
+> **[1:25](https://www.linkedin.com/learning/wordpress-essential-training-24651128/designing-and-customizing-a-post?u=76281980&t=85)** We would love for visitors to read every single [[Microsoft Word|word]] of every single post, but they will remember the value of your post if it actually solves their problem and solves it quickly.
 >
 > **[1:36](https://www.linkedin.com/learning/wordpress-essential-training-24651128/designing-and-customizing-a-post?u=76281980&t=96)** Use blocks like subheading blocks, text blocks, list blocks, and image blocks.
 >
@@ -1635,7 +1616,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/wordpress-essential-training-24651128/designing-and-customizing-a-post?u=76281980&t=198)** You can drag a photo into the media library to use from your computer, or you can choose one that you've already uploaded.
 >
-> **[3:24](https://www.linkedin.com/learning/wordpress-essential-training-24651128/designing-and-customizing-a-post?u=76281980&t=204)** Landscape orientation images are usually the best, otherwise, WordPress will have to crop the image for you.
+> **[3:24](https://www.linkedin.com/learning/wordpress-essential-training-24651128/designing-and-customizing-a-post?u=76281980&t=204)** Landscape orientation images are usually the best, otherwise, [[WordPress]] will have to crop the image for you.
 >
 > **[3:32](https://www.linkedin.com/learning/wordpress-essential-training-24651128/designing-and-customizing-a-post?u=76281980&t=212)** Choose set featured image to select the one that you chose.
 >
@@ -1653,7 +1634,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (2), [[Search]] (1), [[Google]] (1), [[Microsoft Word|Word]] (1), seo (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[Google]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** drag and drop (1), go to (1), select the (1)
 > **Best Practices:** make sure to (1), don't forget (1)
@@ -1662,8 +1643,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing posts
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/managing-posts?u=76281980)
+#### [Managing posts](https://www.linkedin.com/learning/wordpress-essential-training-24651128/managing-posts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1725,7 +1705,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), next (1)
 > **CLI Commands:** make (5), find (3)
 > **UI Navigation:** select the (1), dropdown (1), go to (1)
 > **Cross-References:** in the last (1)
@@ -1733,12 +1712,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using categories and tags
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/using-categories-and-tags?u=76281980)
+#### [Using categories and tags](https://www.linkedin.com/learning/wordpress-essential-training-24651128/using-categories-and-tags?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/using-categories-and-tags?u=76281980&t=0)** - [Instructor] One of the things that make posts in WordPress so powerful is how easy it is to organize your content and then manipulate that content based on its metadata.
+> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/using-categories-and-tags?u=76281980&t=0)** - [Instructor] One of the things that make posts in [[WordPress]] so powerful is how easy it is to organize your content and then manipulate that content based on its [[Metadata]].
 >
 > **[0:10](https://www.linkedin.com/learning/wordpress-essential-training-24651128/using-categories-and-tags?u=76281980&t=10)** Two examples of this are categories and tags.
 >
@@ -1787,8 +1765,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Finding and installing plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-plugins?u=76281980)
+#### [Finding and installing plugins](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1802,9 +1779,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-plugins?u=76281980&t=27)** There are, more or less, about 26 different types, or classifications, of plugins.
 >
-> **[0:33](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-plugins?u=76281980&t=33)** They include e-commerce, contact forms, language tools, maps, performance, marketing, and more.
+> **[0:33](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-plugins?u=76281980&t=33)** They include [[E-Commerce]], contact [[Forms]], language tools, maps, performance, marketing, and more.
 >
-> **[0:41](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-plugins?u=76281980&t=41)** In the WordPress directory alone, there are almost 60,000 plugins to choose from, and thousands are added every year.
+> **[0:41](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-plugins?u=76281980&t=41)** In the [[WordPress]] directory alone, there are almost 60,000 plugins to choose from, and thousands are added every year.
 >
 > **[0:49](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-plugins?u=76281980&t=49)** They were created by all types, from single individual developers to companies with hundreds of employees.
 >
@@ -1820,7 +1797,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-plugins?u=76281980&t=87)** Social proof is helpful when shopping for anything, including plugins.
 >
-> **[1:32](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-plugins?u=76281980&t=92)** You may also want to google the name of the plugin with "vulnerabilities" after, to get a feel for its security reputation.
+> **[1:32](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-plugins?u=76281980&t=92)** You may also want to [[Google]] the name of the plugin with "vulnerabilities" after, to get a feel for its security reputation.
 >
 > **[1:39](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-plugins?u=76281980&t=99)** Many sites post reviews of plugins, or plugin recommendation lists, and these are a great place to start when trying to find the right plugin for your needs.
 >
@@ -1884,7 +1861,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (6), [[Search]] (2), [[E-Commerce]] (1), [[Forms]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (6), [[E-Commerce]] (1), [[Forms]] (1), [[Google]] (1)
 > **Prerequisites:** install (7)
 > **CLI Commands:** find (5)
 > **Exercise Files:** zip file (2), download the (1)
@@ -1893,8 +1870,7 @@ created: 2026-05-02
 > **Env Vars:** crm (1)
 > **Speakers:** - chances (1)
 
-#### Finding and installing themes
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-themes?u=76281980)
+#### [Finding and installing themes](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-themes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1902,11 +1878,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-themes?u=76281980&t=9)** A theme is a piece of software that you can either download for free or purchase.
 >
-> **[0:14](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-themes?u=76281980&t=14)** The theme will provide you with design tools and content management tools so that you don't have to build everything from scratch.
+> **[0:14](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-themes?u=76281980&t=14)** The theme will provide you with design tools and [[Content Management]] tools so that you don't have to build everything from scratch.
 >
 > **[0:20](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-themes?u=76281980&t=20)** In short, a theme helps you get a professional-looking design much more quickly.
 >
-> **[0:25](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-themes?u=76281980&t=25)** Free themes are available through the WordPress theme directory.
+> **[0:25](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-themes?u=76281980&t=25)** Free themes are available through the [[WordPress]] theme directory.
 >
 > **[0:30](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-themes?u=76281980&t=30)** Your WordPress install will come with at least one default theme.
 >
@@ -1954,7 +1930,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-themes?u=76281980&t=181)** While there are exceptions, premium themes tend to offer more features and better support.
 >
-> **[3:07](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-themes?u=76281980&t=187)** It's recommended to only ever download from the directory or from well-known and highly vetted companies like Elegant Themes, WooCommerce Themes, or TemplateMonster.
+> **[3:07](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-themes?u=76281980&t=187)** It's recommended to only ever download from the directory or from well-known and highly vetted companies like Elegant Themes, [[WooCommerce]] Themes, or TemplateMonster.
 >
 > **[3:18](https://www.linkedin.com/learning/wordpress-essential-training-24651128/finding-and-installing-themes?u=76281980&t=198)** Only ever download themes that have been recently updated.
 >
@@ -1978,7 +1954,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (6), [[Content Management]] (1), [[Search]] (1), feature (1), [[WooCommerce]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (6), [[Content Management]] (1), [[WooCommerce]] (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** go to (3), drag and drop (1)
 > **Warnings:** keep in mind (1), be careful (1)
@@ -1987,12 +1963,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Customizing themes
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/customizing-themes?u=76281980)
+#### [Customizing themes](https://www.linkedin.com/learning/wordpress-essential-training-24651128/customizing-themes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/customizing-themes?u=76281980&t=0)** - [Narrator] Now that you know how to find and download themes to your WordPress site, let's talk about what to do next, customizing that theme to meet your needs.
+> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/customizing-themes?u=76281980&t=0)** - [Narrator] Now that you know how to find and download themes to your [[WordPress]] site, let's talk about what to do next, customizing that theme to meet your needs.
 >
 > **[0:09](https://www.linkedin.com/learning/wordpress-essential-training-24651128/customizing-themes?u=76281980&t=9)** It's very rare to download a theme and have it look exactly how you want right away.
 >
@@ -2032,7 +2007,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), next (1), css (1)
+> **Frameworks & Libraries:** [[WordPress]] (3)
 > **CLI Commands:** find (4), make (2)
 > **Warnings:** keep in mind (2)
 > **Env Vars:** css (1)
@@ -2046,8 +2021,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-a-menu?u=76281980)
+#### [Creating a menu](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-a-menu?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2055,7 +2029,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-a-menu?u=76281980&t=5)** They're typically global, meaning your navigation menu will appear on every page of your site and appear the same way unless you decide otherwise.
 >
-> **[0:14](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-a-menu?u=76281980&t=14)** WordPress makes it easy for you to create a global header menu quickly and customize it whenever you want.
+> **[0:14](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-a-menu?u=76281980&t=14)** [[WordPress]] makes it easy for you to create a global header menu quickly and customize it whenever you want.
 >
 > **[0:21](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-a-menu?u=76281980&t=21)** There are a few different ways of creating a menu.
 >
@@ -2191,7 +2165,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (4), [[Search]] (2), hit (1), next (1)
+> **Frameworks & Libraries:** [[WordPress]] (4)
 > **CLI Commands:** make (5), find (4)
 > **UI Navigation:** go to (3), drag and drop (1), toggle (1), dropdown (1)
 > **Cross-References:** go back to (2)
@@ -2200,8 +2174,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Warnings:** keep in mind (1)
 
-#### Creating a footer
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-a-footer?u=76281980)
+#### [Creating a footer](https://www.linkedin.com/learning/wordpress-essential-training-24651128/creating-a-footer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2281,12 +2254,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### More block editor features
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/more-block-editor-features?u=76281980)
+#### [More block editor features](https://www.linkedin.com/learning/wordpress-essential-training-24651128/more-block-editor-features?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/more-block-editor-features?u=76281980&t=0)** - [Instructor] The block editor is a powerful part of the WordPress building experience.
+> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/more-block-editor-features?u=76281980&t=0)** - [Instructor] The block editor is a powerful part of the [[WordPress]] building experience.
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-essential-training-24651128/more-block-editor-features?u=76281980&t=4)** It replaced the classic editor and provides you with ways to get granular about how to control your content.
 >
@@ -2372,7 +2344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (1), feature (1), next (1)
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **CLI Commands:** find (6), make (4)
 > **UI Navigation:** select the (1), toggle (1)
 > **Definitions:** is a  (1), is called (1)
@@ -2384,12 +2356,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding new media files
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/adding-new-media-files?u=76281980)
+#### [Adding new media files](https://www.linkedin.com/learning/wordpress-essential-training-24651128/adding-new-media-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/adding-new-media-files?u=76281980&t=0)** - [Instructor] WordPress is all about displaying content, and an enormous part of that is displaying media, which can be complimentary to text.
+> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/adding-new-media-files?u=76281980&t=0)** - [Instructor] [[WordPress]] is all about displaying content, and an enormous part of that is displaying media, which can be complimentary to text.
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-essential-training-24651128/adding-new-media-files?u=76281980&t=8)** The Media Library is where all of your files that aren't pure text are stored and managed.
 >
@@ -2429,11 +2400,11 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/wordpress-essential-training-24651128/adding-new-media-files?u=76281980&t=111)** This page will tell you about the file, the upload date, the file name, the file size, the file dimensions, captions, descriptions, and more.
 >
-> **[2:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/adding-new-media-files?u=76281980&t=120)** In the next video, we'll talk about how and why to add metadata to this page.
+> **[2:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/adding-new-media-files?u=76281980&t=120)** In the next video, we'll talk about how and why to add [[Metadata]] to this page.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (2), next (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[Metadata]] (1)
 > **UI Navigation:** go to (1), drag and drop (1), select the (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (2)
@@ -2441,8 +2412,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing media files
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/managing-media-files?u=76281980)
+#### [Managing media files](https://www.linkedin.com/learning/wordpress-essential-training-24651128/managing-media-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2460,9 +2430,9 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/wordpress-essential-training-24651128/managing-media-files?u=76281980&t=47)** Select an image and you can change its alternate text, its title, its caption, its description, and you can grab its file URL, which will bring someone directly to this image through this link.
 >
-> **[1:03](https://www.linkedin.com/learning/wordpress-essential-training-24651128/managing-media-files?u=76281980&t=63)** This kind of metadata is useful for search engines and helps you provide more detailed information to site users.
+> **[1:03](https://www.linkedin.com/learning/wordpress-essential-training-24651128/managing-media-files?u=76281980&t=63)** This kind of [[Metadata]] is useful for search engines and helps you provide more detailed information to site users.
 >
-> **[1:09](https://www.linkedin.com/learning/wordpress-essential-training-24651128/managing-media-files?u=76281980&t=69)** If you need to make some simple changes to an image and don't have a media editor like Photoshop, WordPress provides you with a set of simple editing tools.
+> **[1:09](https://www.linkedin.com/learning/wordpress-essential-training-24651128/managing-media-files?u=76281980&t=69)** If you need to make some simple changes to an image and don't have a media editor like Photoshop, [[WordPress]] provides you with a set of simple editing tools.
 >
 > **[1:18](https://www.linkedin.com/learning/wordpress-essential-training-24651128/managing-media-files?u=76281980&t=78)** From this screen, choose edit image below the preview of the image.
 >
@@ -2544,7 +2514,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), [[WordPress]] (2), seo (2), data (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[Metadata]] (1)
 > **CLI Commands:** make (7), find (2)
 > **Env Vars:** seo (2), url (1), svg (1)
 > **UI Navigation:** dropdown (1)
@@ -2558,12 +2528,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Updating WordPress, plugins, and themes
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/updating-wordpress-plugins-and-themes?u=76281980)
+#### [Updating WordPress, plugins, and themes](https://www.linkedin.com/learning/wordpress-essential-training-24651128/updating-wordpress-plugins-and-themes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/updating-wordpress-plugins-and-themes?u=76281980&t=0)** - [Presenter] The great thing about WordPress is that all-year-long, teams of people work to add improvements, bug fixes, new features, developer APIs, and more to the WordPress core software, as well as its plugins, and themes.
+> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/updating-wordpress-plugins-and-themes?u=76281980&t=0)** - [Presenter] The great thing about [[WordPress]] is that all-year-long, teams of people work to add improvements, bug fixes, new features, developer APIs, and more to the WordPress core software, as well as its plugins, and themes.
 >
 > **[0:14](https://www.linkedin.com/learning/wordpress-essential-training-24651128/updating-wordpress-plugins-and-themes?u=76281980&t=14)** Let's talk about updating all this software to ensure that your site runs well and is fully-secure.
 >
@@ -2589,7 +2558,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/wordpress-essential-training-24651128/updating-wordpress-plugins-and-themes?u=76281980&t=77)** In order to get that update, choose update to version, whatever that new version is.
 >
-> **[1:23](https://www.linkedin.com/learning/wordpress-essential-training-24651128/updating-wordpress-plugins-and-themes?u=76281980&t=83)** WordPress will fetch and install the newest version for you.
+> **[1:23](https://www.linkedin.com/learning/wordpress-essential-training-24651128/updating-wordpress-plugins-and-themes?u=76281980&t=83)** WordPress will [[Fetch]] and install the newest version for you.
 >
 > **[1:26](https://www.linkedin.com/learning/wordpress-essential-training-24651128/updating-wordpress-plugins-and-themes?u=76281980&t=86)** It might take a minute or two, so make sure not to click away from this page.
 >
@@ -2607,7 +2576,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/wordpress-essential-training-24651128/updating-wordpress-plugins-and-themes?u=76281980&t=121)** You can always learn what's included in an update by going to this page at [wordpress.org/news/category/releases](https://wordpress.org/news/category/releases).
 >
-> **[2:11](https://www.linkedin.com/learning/wordpress-essential-training-24651128/updating-wordpress-plugins-and-themes?u=76281980&t=131)** WordPress core updates are different from theme or plugin updates, individual theme, or plugin developers can distribute new versions of their products at any time.
+> **[2:11](https://www.linkedin.com/learning/wordpress-essential-training-24651128/updating-wordpress-plugins-and-themes?u=76281980&t=131)** WordPress core updates are different from theme or plugin updates, individual theme, or plugin developers can distribute new versions of their [[Microsoft Products|products]] at any time.
 >
 > **[2:21](https://www.linkedin.com/learning/wordpress-essential-training-24651128/updating-wordpress-plugins-and-themes?u=76281980&t=141)** Keep in mind that usually if a new version of WordPress is released, developers will distribute updates to plugins and themes in order to make sure that their software is compatible with the newest version of core. Plugins and themes offer a huge potential for vulnerabilities if they're not updated.
 >
@@ -2657,7 +2626,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (20), teams (1), [[Fetch]] (1), [[Security]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (20), [[Fetch]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Versions:** 5.6 (1), 5.7 (1), 5.9 (1), 6.0 (1)
 > **UI Navigation:** in the menu (1), go to (1), select the (1)
@@ -2666,12 +2635,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (2)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
 
-#### Site health and troubleshooting
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/site-health-and-troubleshooting?u=76281980)
+#### [Site health and troubleshooting](https://www.linkedin.com/learning/wordpress-essential-training-24651128/site-health-and-troubleshooting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/site-health-and-troubleshooting?u=76281980&t=0)** - [Instructor] WordPress comes with two amazing tools that can help you troubleshoot problems with your website.
+> **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/site-health-and-troubleshooting?u=76281980&t=0)** - [Instructor] [[WordPress]] comes with two amazing tools that can help you troubleshoot problems with your website.
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-essential-training-24651128/site-health-and-troubleshooting?u=76281980&t=6)** These tools can help you learn more about your site as a whole.
 >
@@ -2693,7 +2661,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/wordpress-essential-training-24651128/site-health-and-troubleshooting?u=76281980&t=57)** This information can also be key for troubleshooting.
 >
-> **[1:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/site-health-and-troubleshooting?u=76281980&t=60)** Say you need to know what PHP version you're using or your database name in order to solve a problem.
+> **[1:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/site-health-and-troubleshooting?u=76281980&t=60)** Say you need to know what [[PHP]] version you're using or your database name in order to solve a problem.
 >
 > **[1:08](https://www.linkedin.com/learning/wordpress-essential-training-24651128/site-health-and-troubleshooting?u=76281980&t=68)** All that information can be found here.
 >
@@ -2729,7 +2697,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (8), [[WordPress]] (2), database (2), [[Security]] (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[PHP]] (1)
 > **CLI Commands:** find (6), make (3), php (1)
 > **UI Navigation:** toggle (2), go to (1)
 > **Env Vars:** php (1)
@@ -2738,14 +2706,13 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Warnings:** troubleshoot (1)
 
-#### Security maintenance
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/security-maintenance?u=76281980)
+#### [Security maintenance](https://www.linkedin.com/learning/wordpress-essential-training-24651128/security-maintenance?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/security-maintenance?u=76281980&t=0)** - [Instructor] We discussed security steps previously, but to go in more depth, one-time security measures need to be paired with regular security maintenance in order to keep your site secure.
 >
-> **[0:11](https://www.linkedin.com/learning/wordpress-essential-training-24651128/security-maintenance?u=76281980&t=11)** Luckily, with WordPress, you can perform and even automate simple tasks to keep your data safe.
+> **[0:11](https://www.linkedin.com/learning/wordpress-essential-training-24651128/security-maintenance?u=76281980&t=11)** Luckily, with [[WordPress]], you can perform and even automate simple tasks to keep your data safe.
 >
 > **[0:16](https://www.linkedin.com/learning/wordpress-essential-training-24651128/security-maintenance?u=76281980&t=16)** On a regular basis, make sure you're updating plugins and themes the way we talked about in the previous chapter.
 >
@@ -2783,13 +2750,13 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/wordpress-essential-training-24651128/security-maintenance?u=76281980&t=117)** You can automate these backups or take them manually, depending on the tool.
 >
-> **[2:01](https://www.linkedin.com/learning/wordpress-essential-training-24651128/security-maintenance?u=76281980&t=121)** If you want to learn more about WordPress security, check out my course here on LinkedIn Learning all about that exact topic.
+> **[2:01](https://www.linkedin.com/learning/wordpress-essential-training-24651128/security-maintenance?u=76281980&t=121)** If you want to learn more about WordPress security, check out my course here on [[LinkedIn]] Learning all about that exact topic.
 >
 > **[2:08](https://www.linkedin.com/learning/wordpress-essential-training-24651128/security-maintenance?u=76281980&t=128)** Next, we'll talk about maintenance tasks that you can do to keep your site performing optimally.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[WordPress]] (2), traffic (2), data (1), database (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** we discussed (1), we talked about (1), previous chapter (1)
 > **Definitions:** is a  (1)
@@ -2797,18 +2764,17 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Performance maintenance
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/performance-maintenance?u=76281980)
+#### [Performance maintenance](https://www.linkedin.com/learning/wordpress-essential-training-24651128/performance-maintenance?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/performance-maintenance?u=76281980&t=0)** - [Instructor] We discussed some performance optimization steps to take earlier in the course, but it's a good idea to regularly perform maintenance tasks to ensure your site is running smoothly and quickly.
 >
-> **[0:11](https://www.linkedin.com/learning/wordpress-essential-training-24651128/performance-maintenance?u=76281980&t=11)** With WordPress, you can perform and even automate simple tasks to make this happen.
+> **[0:11](https://www.linkedin.com/learning/wordpress-essential-training-24651128/performance-maintenance?u=76281980&t=11)** With [[WordPress]], you can perform and even automate simple tasks to make this happen.
 >
 > **[0:17](https://www.linkedin.com/learning/wordpress-essential-training-24651128/performance-maintenance?u=76281980&t=17)** First, I recommend optimizing your database.
 >
-> **[0:20](https://www.linkedin.com/learning/wordpress-essential-training-24651128/performance-maintenance?u=76281980&t=20)** When you optimize the WordPress database, you can speed up load times, enhance the user experience, improve search rankings, reduce errors, and minimize conflicts with plugins and themes.
+> **[0:20](https://www.linkedin.com/learning/wordpress-essential-training-24651128/performance-maintenance?u=76281980&t=20)** When you optimize the WordPress database, you can speed up load times, enhance the [[User Experience (UX)|user experience]], improve search rankings, reduce errors, and minimize conflicts with plugins and themes.
 >
 > **[0:31](https://www.linkedin.com/learning/wordpress-essential-training-24651128/performance-maintenance?u=76281980&t=31)** The database is where all your most important information is stored, like posts, pages, user data, and settings.
 >
@@ -2818,7 +2784,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/wordpress-essential-training-24651128/performance-maintenance?u=76281980&t=46)** Breeze by Cloudways is a fantastic option.
 >
-> **[0:50](https://www.linkedin.com/learning/wordpress-essential-training-24651128/performance-maintenance?u=76281980&t=50)** Next, you'll want to test forms and other key features on your site.
+> **[0:50](https://www.linkedin.com/learning/wordpress-essential-training-24651128/performance-maintenance?u=76281980&t=50)** Next, you'll want to test [[Forms]] and other key features on your site.
 >
 > **[0:54](https://www.linkedin.com/learning/wordpress-essential-training-24651128/performance-maintenance?u=76281980&t=54)** Testing forms is simple enough.
 >
@@ -2858,7 +2824,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[Forms]] (3), [[WordPress]] (2), [[User Experience (UX)|User experience]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Forms]] (3), [[WordPress]] (2), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** url (1), seo (1)
 > **Cross-References:** we discussed (1), earlier in (1)
@@ -2872,14 +2838,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue the WordPress journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-essential-training-24651128/continue-the-wordpress-journey?u=76281980)
+#### [Continue the WordPress journey](https://www.linkedin.com/learning/wordpress-essential-training-24651128/continue-the-wordpress-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-essential-training-24651128/continue-the-wordpress-journey?u=76281980&t=0)** - Congratulations on reaching the end of the course!
 >
-> **[0:03](https://www.linkedin.com/learning/wordpress-essential-training-24651128/continue-the-wordpress-journey?u=76281980&t=3)** Creating with WordPress is a career-long endeavor.
+> **[0:03](https://www.linkedin.com/learning/wordpress-essential-training-24651128/continue-the-wordpress-journey?u=76281980&t=3)** Creating with [[WordPress]] is a career-long endeavor.
 >
 > **[0:07](https://www.linkedin.com/learning/wordpress-essential-training-24651128/continue-the-wordpress-journey?u=76281980&t=7)** And now that you've learned the basics, you can build on that foundational knowledge to develop businesses, communities, projects, income streams, and so much more.
 >
@@ -2889,7 +2854,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), career (1), next (1)
+> **Frameworks & Libraries:** [[WordPress]] (3)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)

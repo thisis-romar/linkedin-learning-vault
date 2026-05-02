@@ -125,8 +125,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Secure authentication practices in React
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/secure-authentication-practices-in-react?u=76281980)
+#### [Secure authentication practices in React](https://www.linkedin.com/learning/react-authentication-25660373/secure-authentication-practices-in-react?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -140,7 +139,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/react-authentication-25660373/secure-authentication-practices-in-react?u=76281980&t=21)** I'm a senior software developer and tech educator.
 >
-> **[0:23](https://www.linkedin.com/learning/react-authentication-25660373/secure-authentication-practices-in-react?u=76281980&t=23)** In this course, you're going to go from a user authentication novice to an expert, and learn virtually all of the most important aspects of user authentication in React.
+> **[0:23](https://www.linkedin.com/learning/react-authentication-25660373/secure-authentication-practices-in-react?u=76281980&t=23)** In this course, you're going to go from a user authentication novice to an expert, and learn virtually all of the most important aspects of user authentication in [[React.js|React]].
 >
 > **[0:32](https://www.linkedin.com/learning/react-authentication-25660373/secure-authentication-practices-in-react?u=76281980&t=32)** Let's get started.
 
@@ -149,8 +148,7 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Speakers:** - if (1)
 
-#### The structure of this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/the-structure-of-this-course?u=76281980)
+#### [The structure of this course](https://www.linkedin.com/learning/react-authentication-25660373/the-structure-of-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -160,7 +158,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/react-authentication-25660373/the-structure-of-this-course?u=76281980&t=23)** So really, first of all, there's two main goals of this course.
 >
-> **[0:26](https://www.linkedin.com/learning/react-authentication-25660373/the-structure-of-this-course?u=76281980&t=26)** The first is for you to understand and apply authentication with full-stack React, right?
+> **[0:26](https://www.linkedin.com/learning/react-authentication-25660373/the-structure-of-this-course?u=76281980&t=26)** The first is for you to understand and apply authentication with full-stack [[React.js|React]], right?
 >
 > **[0:33](https://www.linkedin.com/learning/react-authentication-25660373/the-structure-of-this-course?u=76281980&t=33)** So basically at the end of this course, you should be able to confidently add basic authentication to a full-stack React app, which is something that will amaze interviewers, trust me.
 >
@@ -188,7 +186,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/react-authentication-25660373/the-structure-of-this-course?u=76281980&t=116)** In fact, it's going to be like a MERN app without the M, so an ERN app.
 >
-> **[2:00](https://www.linkedin.com/learning/react-authentication-25660373/the-structure-of-this-course?u=76281980&t=120)** Basically what I've done is instead of using MongoDB, which really has just in the past, complicated things a little bit, I'm just going to use a very simple file-based JSON database in order to store all of our data.
+> **[2:00](https://www.linkedin.com/learning/react-authentication-25660373/the-structure-of-this-course?u=76281980&t=120)** Basically what I've done is instead of using [[MongoDB]], which really has just in the past, complicated things a little bit, I'm just going to use a very simple file-based [[JSON]] database in order to store all of our data.
 >
 > **[2:13](https://www.linkedin.com/learning/react-authentication-25660373/the-structure-of-this-course?u=76281980&t=133)** This will make things a lot easier as we go through the course, as you'll see.
 >
@@ -198,7 +196,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/react-authentication-25660373/the-structure-of-this-course?u=76281980&t=149)** We'll take a look at how to create private routes in a React application as well as on the backend.
 >
-> **[2:36](https://www.linkedin.com/learning/react-authentication-25660373/the-structure-of-this-course?u=76281980&t=156)** And finally, we'll take a look at the basics of using JSON web tokens, which really form the beating heart, so to speak, of a lot of modern authentication.
+> **[2:36](https://www.linkedin.com/learning/react-authentication-25660373/the-structure-of-this-course?u=76281980&t=156)** And finally, we'll take a look at the basics of using JSON web [[Tokens]], which really form the beating heart, so to speak, of a lot of modern authentication.
 >
 > **[2:47](https://www.linkedin.com/learning/react-authentication-25660373/the-structure-of-this-course?u=76281980&t=167)** All right, and after that, after we've learned all of the basics, we're going to go through a few more very important and I think very beneficial parts of the course.
 >
@@ -226,7 +224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** full-stack (4), [[React.js|React]] (4), [[JSON]] (2), [[MongoDB]] (1), database (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[JSON]] (2), [[MongoDB]] (1), [[Tokens]] (1)
 > **Env Vars:** mern (3), json (2), ern (1)
 > **CLI Commands:** make (3), find (1)
 > **Prerequisites:** setup (2), set up (1)
@@ -239,8 +237,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is user authentication?
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/what-is-user-authentication?u=76281980)
+#### [What is user authentication?](https://www.linkedin.com/learning/react-authentication-25660373/what-is-user-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -300,7 +297,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/react-authentication-25660373/what-is-user-authentication?u=76281980&t=172)** And this key piece of information is more often than not a password or a PIN.
 >
-> **[2:57](https://www.linkedin.com/learning/react-authentication-25660373/what-is-user-authentication?u=76281980&t=177)** In other words, when the user wants to claim that they're say, John Doe, our site will say, okay, well if you're the real John Doe, you'll know John doe's password, what is it?
+> **[2:57](https://www.linkedin.com/learning/react-authentication-25660373/what-is-user-authentication?u=76281980&t=177)** In other words, when the user wants to claim that they're say, [[John the Ripper|John]] Doe, our site will say, okay, well if you're the real John Doe, you'll know John doe's password, what is it?
 >
 > **[3:07](https://www.linkedin.com/learning/react-authentication-25660373/what-is-user-authentication?u=76281980&t=187)** And if they know it, we'll believe that they are the real John Doe.
 >
@@ -316,7 +313,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/react-authentication-25660373/what-is-user-authentication?u=76281980&t=216)** And while we can try and enforce this by forcing the user to use capital letters, numbers, symbols, et cetera, many users still insist on putting things like abc123 or their name or something completely guessable as their password.
 >
-> **[3:51](https://www.linkedin.com/learning/react-authentication-25660373/what-is-user-authentication?u=76281980&t=231)** And in the case of security questions such as someone's mother's maiden name, the street you grew up on or things like that, these answers are generally pretty easy to find within 15 seconds or less on Google if you have a specific target in mind.
+> **[3:51](https://www.linkedin.com/learning/react-authentication-25660373/what-is-user-authentication?u=76281980&t=231)** And in the case of security questions such as someone's mother's maiden name, the street you grew up on or things like that, these answers are generally pretty easy to find within 15 seconds or less on [[Google]] if you have a specific target in mind.
 >
 > **[4:06](https://www.linkedin.com/learning/react-authentication-25660373/what-is-user-authentication?u=76281980&t=246)** So the next broad grouping of authentication strategies is what we call ownership based authentication strategies.
 >
@@ -350,7 +347,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Security]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (8), [[Google]] (1)
 > **Analogies:** such as (4), for example (2), imagine (1), it's like (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** otp (3), pin (1)
@@ -358,14 +355,13 @@ created: 2026-05-02
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic project setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/basic-project-setup?u=76281980)
+#### [Basic project setup](https://www.linkedin.com/learning/react-authentication-25660373/basic-project-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/basic-project-setup?u=76281980&t=0)** - [Instructor] All right.
 >
-> **[0:01](https://www.linkedin.com/learning/react-authentication-25660373/basic-project-setup?u=76281980&t=1)** Well, now that we've seen the basics of user authentication, let's get started actually seeing what this looks like in a full stack React application.
+> **[0:01](https://www.linkedin.com/learning/react-authentication-25660373/basic-project-setup?u=76281980&t=1)** Well, now that we've seen the basics of user authentication, let's get started actually seeing what this looks like in a full stack [[React.js|React]] application.
 >
 > **[0:09](https://www.linkedin.com/learning/react-authentication-25660373/basic-project-setup?u=76281980&t=9)** Now, in this video, we're going to take a look at how to set up the project that I've created for you and make sure that everything works for you.
 >
@@ -379,19 +375,19 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/react-authentication-25660373/basic-project-setup?u=76281980&t=49)** So that's what you see in the frontend.
 >
-> **[0:50](https://www.linkedin.com/learning/react-authentication-25660373/basic-project-setup?u=76281980&t=50)** In the backend, we have a simple Node.js and express server, right?
+> **[0:50](https://www.linkedin.com/learning/react-authentication-25660373/basic-project-setup?u=76281980&t=50)** In the backend, we have a simple [[Node.js]] and express server, right?
 >
 > **[0:57](https://www.linkedin.com/learning/react-authentication-25660373/basic-project-setup?u=76281980&t=57)** There's not really a whole lot going on there yet.
 >
 > **[0:58](https://www.linkedin.com/learning/react-authentication-25660373/basic-project-setup?u=76281980&t=58)** We will come in here and add some endpoints a little bit later on as we go through our authentication stuff.
 >
-> **[1:05](https://www.linkedin.com/learning/react-authentication-25660373/basic-project-setup?u=76281980&t=65)** And if you take a look at this db.js thing, this is how we're going to work with databases right now.
+> **[1:05](https://www.linkedin.com/learning/react-authentication-25660373/basic-project-setup?u=76281980&t=65)** And if you take a look at this db.js thing, this is how we're going to work with [[Databases]] right now.
 >
-> **[1:12](https://www.linkedin.com/learning/react-authentication-25660373/basic-project-setup?u=76281980&t=72)** I was thinking of adding MongoDB to this course, but ultimately that was just too much setup and too much extra information besides the core information, which is what we're going to be going through here, right?
+> **[1:12](https://www.linkedin.com/learning/react-authentication-25660373/basic-project-setup?u=76281980&t=72)** I was thinking of adding [[MongoDB]] to this course, but ultimately that was just too much setup and too much extra information besides the core information, which is what we're going to be going through here, right?
 >
 > **[1:23](https://www.linkedin.com/learning/react-authentication-25660373/basic-project-setup?u=76281980&t=83)** The core information about how authentication works, things like that.
 >
-> **[1:28](https://www.linkedin.com/learning/react-authentication-25660373/basic-project-setup?u=76281980&t=88)** So essentially the way that this database works is it just stores all of our data in a JSON object, a JavaScript object that is, and then when we call this save db function, it's going to write that object to a JSON file.
+> **[1:28](https://www.linkedin.com/learning/react-authentication-25660373/basic-project-setup?u=76281980&t=88)** So essentially the way that this database works is it just stores all of our data in a [[JSON]] object, a [[JavaScript]] object that is, and then when we call this save db function, it's going to write that object to a JSON file.
 >
 > **[1:44](https://www.linkedin.com/learning/react-authentication-25660373/basic-project-setup?u=76281980&t=104)** So this will allow us to have some degree of persistence in our application, but it will also greatly simplify the interactions we have with our database and allow us to focus on the core topic of this course.
 >
@@ -405,7 +401,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/react-authentication-25660373/basic-project-setup?u=76281980&t=137)** The first one you're going to want to have open in the frontend folder, right?
 >
-> **[2:22](https://www.linkedin.com/learning/react-authentication-25660373/basic-project-setup?u=76281980&t=142)** And the first thing you're going to want to do here is run npm install, that will install all of the dependencies for you.
+> **[2:22](https://www.linkedin.com/learning/react-authentication-25660373/basic-project-setup?u=76281980&t=142)** And the first thing you're going to want to do here is run [[npm]] install, that will install all of the dependencies for you.
 >
 > **[2:29](https://www.linkedin.com/learning/react-authentication-25660373/basic-project-setup?u=76281980&t=149)** I don't need to do that because I already have them installed.
 >
@@ -427,7 +423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (5), [[npm]] (3), application (2), database (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[npm]] (3), [[JSON]] (2), [[Node.js]] (1), [[Databases]] (1)
 > **Prerequisites:** install (4), set up (2), setup (2)
 > **CLI Commands:** npm (3), node (2), make (1)
 > **File Paths:** node.js (1), db.js (1), server.js (1)
@@ -436,14 +432,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (2)
 > **Definitions:** is a  (1), we call this (1)
 
-#### Creating private React routes
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/creating-private-react-routes?u=76281980)
+#### [Creating private React routes](https://www.linkedin.com/learning/react-authentication-25660373/creating-private-react-routes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/creating-private-react-routes?u=76281980&t=0)** - [Instructor] Alright, so now that we've got our example project set up, let's take a look at the first thing that we're going to need to do here.
 >
-> **[0:07](https://www.linkedin.com/learning/react-authentication-25660373/creating-private-react-routes?u=76281980&t=7)** And that is we're going to need to create sort of like our own type of react route that will automatically prevent the user from visiting certain pages when they're not authenticated.
+> **[0:07](https://www.linkedin.com/learning/react-authentication-25660373/creating-private-react-routes?u=76281980&t=7)** And that is we're going to need to create sort of like our own type of [[React.js|react]] route that will automatically prevent the user from visiting certain pages when they're not authenticated.
 >
 > **[0:21](https://www.linkedin.com/learning/react-authentication-25660373/creating-private-react-routes?u=76281980&t=21)** So you may have noticed that there are these pages that I've created in the starter project, this login page, and this signup page.
 >
@@ -457,7 +452,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/react-authentication-25660373/creating-private-react-routes?u=76281980&t=51)** So in order to do this, what we're going to do is we're actually going to create sort of like this private route component.
 >
-> **[0:58](https://www.linkedin.com/learning/react-authentication-25660373/creating-private-react-routes?u=76281980&t=58)** And if you go into app.jsx, you'll see where the routing is set up, right?
+> **[0:58](https://www.linkedin.com/learning/react-authentication-25660373/creating-private-react-routes?u=76281980&t=58)** And if you go into app.jsx, you'll see where the [[Routing]] is set up, right?
 >
 > **[1:01](https://www.linkedin.com/learning/react-authentication-25660373/creating-private-react-routes?u=76281980&t=61)** We have three routes, one for each of those pages.
 >
@@ -619,7 +614,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (5), dom (3), [[Routing]] (1), next (1), application (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[Routing]] (1)
 > **Code Identifiers:** isallowed (10), redirectpath (3)
 > **CLI Commands:** make (7)
 > **Prerequisites:** set up (3), install (1)
@@ -628,8 +623,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** terminal (1)
 
-#### JSON Web Token basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/json-web-token-basics?u=76281980)
+#### [JSON Web Token basics](https://www.linkedin.com/learning/react-authentication-25660373/json-web-token-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -647,7 +641,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/react-authentication-25660373/json-web-token-basics?u=76281980&t=33)** That is the techniques that we're going to be using here will be focused on verifying users using only passwords, although there are, of course, plenty of ways to go beyond this.
 >
-> **[0:43](https://www.linkedin.com/learning/react-authentication-25660373/json-web-token-basics?u=76281980&t=43)** Now, in order to understand exactly how this password-based authentication thing is going to work in our application, it's very important that we talk about something called JSON web tokens.
+> **[0:43](https://www.linkedin.com/learning/react-authentication-25660373/json-web-token-basics?u=76281980&t=43)** Now, in order to understand exactly how this password-based authentication thing is going to work in our application, it's very important that we talk about something called [[JSON]] web [[Tokens]].
 >
 > **[0:54](https://www.linkedin.com/learning/react-authentication-25660373/json-web-token-basics?u=76281980&t=54)** JSON web tokens, which are commonly abbreviated as JWTs, and sometimes that's pronounced jots, although in this course, I'll just be calling them JWTs, these JWTs form the beating heart of most modern website authentications.
 >
@@ -717,7 +711,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/react-authentication-25660373/json-web-token-basics?u=76281980&t=280)** So now that we know the basics of what exactly a JWT is, let's briefly walk through the steps of how JWTs are used in full-stack applications.
 >
-> **[4:51](https://www.linkedin.com/learning/react-authentication-25660373/json-web-token-basics?u=76281980&t=291)** And this flow is what we'll be implementing throughout the rest of this section.
+> **[4:51](https://www.linkedin.com/learning/react-authentication-25660373/json-web-token-basics?u=76281980&t=291)** And this flow is what we'll be implementing throughout the [[Representational State Transfer (REST)|rest]] of this section.
 >
 > **[4:54](https://www.linkedin.com/learning/react-authentication-25660373/json-web-token-basics?u=76281980&t=294)** So, you know, just keep that in mind.
 >
@@ -817,11 +811,11 @@ created: 2026-05-02
 >
 > **[11:15](https://www.linkedin.com/learning/react-authentication-25660373/json-web-token-basics?u=76281980&t=675)** So anyway, those are the two main drawbacks of JWTs, and that's pretty much all I wanted to talk about with these things before we get started.
 >
-> **[11:23](https://www.linkedin.com/learning/react-authentication-25660373/json-web-token-basics?u=76281980&t=683)** So now that we've talked about these, we can start incorporating them into our React app.
+> **[11:23](https://www.linkedin.com/learning/react-authentication-25660373/json-web-token-basics?u=76281980&t=683)** So now that we've talked about these, we can start incorporating them into our [[React.js|React]] app.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (13), [[JSON]] (12), web (7), next (6), database (5)
+> **Frameworks & Libraries:** [[Tokens]] (13), [[JSON]] (12), [[Representational State Transfer (REST)|Rest]] (1), [[React.js|React]] (1)
 > **Env Vars:** json (12), jwt (9), xml (2), hs256 (1), https (1)
 > **Definitions:** means that (3), is an  (2), in other words (2)
 > **Analogies:** for example (5), such as (1), similar to (1)
@@ -830,8 +824,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Warnings:** keep in mind (1)
 
-#### Solution: Working with JSON Web Tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/solution-working-with-json-web-tokens?u=76281980)
+#### [Solution: Working with JSON Web Tokens](https://www.linkedin.com/learning/react-authentication-25660373/solution-working-with-json-web-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -859,7 +852,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/react-authentication-25660373/solution-working-with-json-web-tokens?u=76281980&t=100)** Okay, so we'll say replace underscore with slash and that should be all we need to do there.
 >
-> **[1:45](https://www.linkedin.com/learning/react-authentication-25660373/solution-working-with-json-web-tokens?u=76281980&t=105)** So now that we have this, we're just going to take the JSON payload and we're going to decode it using A to B.
+> **[1:45](https://www.linkedin.com/learning/react-authentication-25660373/solution-working-with-json-web-tokens?u=76281980&t=105)** So now that we have this, we're just going to take the [[JSON]] payload and we're going to decode it using A to B.
 >
 > **[1:52](https://www.linkedin.com/learning/react-authentication-25660373/solution-working-with-json-web-tokens?u=76281980&t=112)** So here's what this is going to look like.
 >
@@ -875,7 +868,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/react-authentication-25660373/solution-working-with-json-web-tokens?u=76281980&t=143)** So let's just copy that like so.
 >
-> **[2:26](https://www.linkedin.com/learning/react-authentication-25660373/solution-working-with-json-web-tokens?u=76281980&t=146)** And we're going to paste that in there and click decode and sure enough we see that that gives us username, John Doe, IAT, right?
+> **[2:26](https://www.linkedin.com/learning/react-authentication-25660373/solution-working-with-json-web-tokens?u=76281980&t=146)** And we're going to paste that in there and click decode and sure enough we see that that gives us username, [[John the Ripper|John]] Doe, IAT, right?
 >
 > **[2:33](https://www.linkedin.com/learning/react-authentication-25660373/solution-working-with-json-web-tokens?u=76281980&t=153)** That's the expiration that was put into there in case we want to use that.
 >
@@ -885,18 +878,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (2)
+> **Frameworks & Libraries:** [[JSON]] (2), [[John the Ripper|John]] (1)
 > **Env Vars:** jwt (5), json (2), url (1), uri (1), iat (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Adding a sign-up route to the server
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-sign-up-route-to-the-server?u=76281980)
+#### [Adding a sign-up route to the server](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-sign-up-route-to-the-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-sign-up-route-to-the-server?u=76281980&t=0)** - [Instructor] All right, so now that we know a little bit more about JWTs and how they work, let's get started integrating them into our full Stack React applications.
+> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-sign-up-route-to-the-server?u=76281980&t=0)** - [Instructor] All right, so now that we know a little bit more about JWTs and how they work, let's get started integrating them into our full Stack [[React.js|React]] applications.
 >
 > **[0:09](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-sign-up-route-to-the-server?u=76281980&t=9)** So we can close our front end files for now because we're going to be jumping into our backend.
 >
@@ -936,7 +928,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-sign-up-route-to-the-server?u=76281980&t=112)** We're going to say equals request body.
 >
-> **[1:55](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-sign-up-route-to-the-server?u=76281980&t=115)** Make sure you do have this express JSON thing up above.
+> **[1:55](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-sign-up-route-to-the-server?u=76281980&t=115)** Make sure you do have this express [[JSON]] thing up above.
 >
 > **[1:58](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-sign-up-route-to-the-server?u=76281980&t=118)** That's what we'll actually parse the body and make it available here just in case you are trying to type that out yourself.
 >
@@ -956,9 +948,9 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-sign-up-route-to-the-server?u=76281980&t=160)** So really all we have to do is search through our user's array to see if there's already a user with that email address, right?
 >
-> **[2:48](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-sign-up-route-to-the-server?u=76281980&t=168)** So this is just going to be plain old JavaScript.
+> **[2:48](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-sign-up-route-to-the-server?u=76281980&t=168)** So this is just going to be plain old [[JavaScript]].
 >
-> **[2:50](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-sign-up-route-to-the-server?u=76281980&t=170)** We don't have to make MongoDB queries or anything.
+> **[2:50](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-sign-up-route-to-the-server?u=76281980&t=170)** We don't have to make [[MongoDB]] queries or anything.
 >
 > **[2:52](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-sign-up-route-to-the-server?u=76281980&t=172)** That's why I wanted to keep it simpler like this.
 >
@@ -1030,7 +1022,7 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-sign-up-route-to-the-server?u=76281980&t=351)** All right, so you're going to open up a new terminal here and you're going to run, well first of all, we'll change directories into our backend.
 >
-> **[5:57](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-sign-up-route-to-the-server?u=76281980&t=357)** We're going to run NPM install B crypt now and that should install that package for us.
+> **[5:57](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-sign-up-route-to-the-server?u=76281980&t=357)** We're going to run [[npm]] install B crypt now and that should install that package for us.
 >
 > **[6:04](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-sign-up-route-to-the-server?u=76281980&t=364)** I'll just close that while that runs.
 >
@@ -1172,11 +1164,11 @@ created: 2026-05-02
 >
 > **[12:05](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-sign-up-route-to-the-server?u=76281980&t=725)** So anyway, that is how to create a simple server endpoint that allows user to sign up.
 >
-> **[12:10](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-sign-up-route-to-the-server?u=76281980&t=730)** So the next thing we're going to need to do is actually add JSON web tokens to this so that we can send that back to the user once they've signed up.
+> **[12:10](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-sign-up-route-to-the-server?u=76281980&t=730)** So the next thing we're going to need to do is actually add JSON web [[Tokens]] to this so that we can send that back to the user once they've signed up.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (16), [[JSON]] (5), api (2), next (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[JSON]] (5), [[npm]] (2), [[React.js|React]] (1), [[JavaScript]] (1), [[MongoDB]] (1)
 > **CLI Commands:** make (13), find (2), npm (2), node (1)
 > **Env Vars:** json (5), uuid (3), api (2), npm (2), url (2)
 > **Tools:** terminal (3), postman (2)
@@ -1185,8 +1177,7 @@ created: 2026-05-02
 > **Ports:** port 3000 (2)
 > **Cross-References:** later in (1), go back to (1)
 
-#### Generating JSON Web Tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/generating-json-web-tokens?u=76281980)
+#### [Generating JSON Web Tokens](https://www.linkedin.com/learning/react-authentication-25660373/generating-json-web-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1198,7 +1189,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/react-authentication-25660373/generating-json-web-tokens?u=76281980&t=21)** So you can actually just open up, well here, we'll open up the same one that we had.
 >
-> **[0:25](https://www.linkedin.com/learning/react-authentication-25660373/generating-json-web-tokens?u=76281980&t=25)** We're going to say npm install jsonwebtoken, all one word, no dashes, nothing.
+> **[0:25](https://www.linkedin.com/learning/react-authentication-25660373/generating-json-web-tokens?u=76281980&t=25)** We're going to say [[npm]] install jsonwebtoken, all one [[Microsoft Word|word]], no dashes, nothing.
 >
 > **[0:32](https://www.linkedin.com/learning/react-authentication-25660373/generating-json-web-tokens?u=76281980&t=32)** And that will install that for us.
 >
@@ -1222,7 +1213,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/react-authentication-25660373/generating-json-web-tokens?u=76281980&t=98)** All right, so in this case, what we're going to do is we're going to include everything except the password hash.
 >
-> **[1:45](https://www.linkedin.com/learning/react-authentication-25660373/generating-json-web-tokens?u=76281980&t=105)** We don't want the password hash in there, because that's really just meant for the databases (indistinct) right?
+> **[1:45](https://www.linkedin.com/learning/react-authentication-25660373/generating-json-web-tokens?u=76281980&t=105)** We don't want the password hash in there, because that's really just meant for the [[Databases]] (indistinct) right?
 >
 > **[1:50](https://www.linkedin.com/learning/react-authentication-25660373/generating-json-web-tokens?u=76281980&t=110)** So, here's what we're going to do.
 >
@@ -1272,7 +1263,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/react-authentication-25660373/generating-json-web-tokens?u=76281980&t=239)** Because we're adding that in there.
 >
-> **[4:01](https://www.linkedin.com/learning/react-authentication-25660373/generating-json-web-tokens?u=76281980&t=241)** So we're just going to say response.json, and we're going to send back the token, like so.
+> **[4:01](https://www.linkedin.com/learning/react-authentication-25660373/generating-json-web-tokens?u=76281980&t=241)** So we're just going to say response.[[JSON]], and we're going to send back the token, like so.
 >
 > **[4:07](https://www.linkedin.com/learning/react-authentication-25660373/generating-json-web-tokens?u=76281980&t=247)** All right, so that should be all we need to do.
 >
@@ -1326,7 +1317,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (4), [[npm]] (1), [[Microsoft Word|Word]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[npm]] (1), [[Microsoft Word|Word]] (1), [[Databases]] (1), [[JSON]] (1)
 > **Env Vars:** secret (3), jwt (2), jwt_secret (1)
 > **CLI Commands:** make (2), npm (1), node (1)
 > **Code Identifiers:** expiresin (2), savedb (1), isverified (1)
@@ -1335,8 +1326,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1), go back to (1)
 > **Tools:** postman (2)
 
-#### Adding a log-in route to the server
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-log-in-route-to-the-server?u=76281980)
+#### [Adding a log-in route to the server](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-log-in-route-to-the-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1382,7 +1372,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-log-in-route-to-the-server?u=76281980&t=124)** So now, right now that we know whether the user is logged in or not, we can check and say if password is correct.
 >
-> **[2:12](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-log-in-route-to-the-server?u=76281980&t=132)** Well, in that case what we want to do is we want to load the user and send back a JSON web token with the user's information in it.
+> **[2:12](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-log-in-route-to-the-server?u=76281980&t=132)** Well, in that case what we want to do is we want to load the user and send back a [[JSON]] web token with the user's information in it.
 >
 > **[2:19](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-log-in-route-to-the-server?u=76281980&t=139)** Otherwise we'll do this one first because this is shorter.
 >
@@ -1426,7 +1416,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-log-in-route-to-the-server?u=76281980&t=218)** And then what we'll do is we'll go over to Postman and we're going to change this to log in.
 >
-> **[3:44](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-log-in-route-to-the-server?u=76281980&t=224)** Let's see, it's always a little bit difficult to remember whether we said login as one word or log dash in.
+> **[3:44](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-log-in-route-to-the-server?u=76281980&t=224)** Let's see, it's always a little bit difficult to remember whether we said login as one [[Microsoft Word|word]] or log dash in.
 >
 > **[3:51](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-log-in-route-to-the-server?u=76281980&t=231)** I'm actually going to add a dash there and restart the server, you know, just to keep it consistent since we did the same thing for signup.
 >
@@ -1442,7 +1432,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), api (1), next (1), [[JSON]] (1), web (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3), find (2)
 > **URLs:** [gmail.com](https://gmail.com) (1)
 > **API Endpoints:** /api/login (1)
@@ -1451,12 +1441,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding JWTs to the front-end
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-front-end?u=76281980)
+#### [Adding JWTs to the front-end](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-front-end?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-front-end?u=76281980&t=0)** - [Instructor] All right, so now that we've added JSON web tokens and a few routes to the server, the next thing that we're going to do here is we're going to start implementing JWTs on the front end, right?
+> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-front-end?u=76281980&t=0)** - [Instructor] All right, so now that we've added [[JSON]] web [[Tokens]] and a few routes to the server, the next thing that we're going to do here is we're going to start implementing JWTs on the front end, right?
 >
 > **[0:12](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-front-end?u=76281980&t=12)** Or integrating them with the front end that we have.
 >
@@ -1478,7 +1467,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-front-end?u=76281980&t=68)** So here's what this is going to look like.
 >
-> **[1:10](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-front-end?u=76281980&t=70)** We're going to start off with useToken, of course, as I said, and we're going to start off by importing the useState hook from React.
+> **[1:10](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-front-end?u=76281980&t=70)** We're going to start off with useToken, of course, as I said, and we're going to start off by importing the useState hook from [[React.js|React]].
 >
 > **[1:17](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-front-end?u=76281980&t=77)** All right? And once we've got that, we're going to export this new useToken custom hook.
 >
@@ -1546,7 +1535,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (4), next (4), web (3), [[Tokens]] (1), front-end (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Tokens]] (1), [[React.js|React]] (1)
 > **Code Identifiers:** usetoken (7), useuser (3), settoken (3), newtoken (3), usestate (2)
 > **Env Vars:** json (4)
 > **CLI Commands:** make (3)
@@ -1554,8 +1543,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Parsing JWT data
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/parsing-jwt-data?u=76281980)
+#### [Parsing JWT data](https://www.linkedin.com/learning/react-authentication-25660373/parsing-jwt-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1563,7 +1551,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/react-authentication-25660373/parsing-jwt-data?u=76281980&t=10)** So we'll start off here by importing the useState and useEffect hooks.
 >
-> **[0:15](https://www.linkedin.com/learning/react-authentication-25660373/parsing-jwt-data?u=76281980&t=15)** We're going to need both of these from React.
+> **[0:15](https://www.linkedin.com/learning/react-authentication-25660373/parsing-jwt-data?u=76281980&t=15)** We're going to need both of these from [[React.js|React]].
 >
 > **[0:18](https://www.linkedin.com/learning/react-authentication-25660373/parsing-jwt-data?u=76281980&t=18)** And then we'll also import the useToken custom hook that we just created there.
 >
@@ -1587,7 +1575,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/react-authentication-25660373/parsing-jwt-data?u=76281980&t=66)** We're going to say const getPayloadFromToken equals, and this is going to be token, and then we will say const encodedPayload.
 >
-> **[1:18](https://www.linkedin.com/learning/react-authentication-25660373/parsing-jwt-data?u=76281980&t=78)** So I mentioned earlier that by default tokens are Base64 encoded, and what this means is we need to basically decode those, right?
+> **[1:18](https://www.linkedin.com/learning/react-authentication-25660373/parsing-jwt-data?u=76281980&t=78)** So I mentioned earlier that by default [[Tokens]] are Base64 encoded, and what this means is we need to basically decode those, right?
 >
 > **[1:28](https://www.linkedin.com/learning/react-authentication-25660373/parsing-jwt-data?u=76281980&t=88)** We need to decode that data in order to get it into the form that we want it.
 >
@@ -1601,7 +1589,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/react-authentication-25660373/parsing-jwt-data?u=76281980&t=124)** And finally, we just need to decode that by saying return atob, this is just a built-in function that will decode a string, and we're going to say encodedPayload.
 >
-> **[2:16](https://www.linkedin.com/learning/react-authentication-25660373/parsing-jwt-data?u=76281980&t=136)** And then we're going to parse this into an actual Java Script object by saying json.parse, all right?
+> **[2:16](https://www.linkedin.com/learning/react-authentication-25660373/parsing-jwt-data?u=76281980&t=136)** And then we're going to parse this into an actual [[Java]] Script object by saying [[JSON]].parse, all right?
 >
 > **[2:23](https://www.linkedin.com/learning/react-authentication-25660373/parsing-jwt-data?u=76281980&t=143)** That makes sure that that is converted into an actual JSON object that we can work with, all right?
 >
@@ -1643,15 +1631,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (3), next (2), data (2), [[React.js|React]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[React.js|React]] (1), [[Tokens]] (1), [[Java]] (1)
 > **Code Identifiers:** getpayloadfromtoken (5), usetoken (4), setuser (4), useuser (3), useeffect (3)
 > **Env Vars:** json (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding JWTs to sign-up and log-in pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-sign-up-and-log-in-pages?u=76281980)
+#### [Adding JWTs to sign-up and log-in pages](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-sign-up-and-log-in-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1671,15 +1658,15 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-sign-up-and-log-in-pages?u=76281980&t=49)** And the other thing that we're going to need here is we're going to need to import a library called axios from axios.
 >
-> **[0:58](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-sign-up-and-log-in-pages?u=76281980&t=58)** So this library is very commonly used in React to make network requests, and this is what we're going to use to actually load data from the server, right?
+> **[0:58](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-sign-up-and-log-in-pages?u=76281980&t=58)** So this library is very commonly used in [[React.js|React]] to make network requests, and this is what we're going to use to actually load data from the server, right?
 >
 > **[1:09](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-sign-up-and-log-in-pages?u=76281980&t=69)** And actually make requests from the front end to our login and sign up endpoints.
 >
-> **[1:13](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-sign-up-and-log-in-pages?u=76281980&t=73)** So now that we have that, and actually we need to install Axios, and by the way, one thing you may have noticed is that Codespaces can tend to shut down if you leave it for a little while, and that will basically get rid of your terminals that you have open.
+> **[1:13](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-sign-up-and-log-in-pages?u=76281980&t=73)** So now that we have that, and actually we need to install Axios, and by the way, one thing you may have noticed is that [[Codespaces]] can tend to shut down if you leave it for a little while, and that will basically get rid of your terminals that you have open.
 >
 > **[1:26](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-sign-up-and-log-in-pages?u=76281980&t=86)** So if that happens to you, you're just going to need to open up a new terminal and make sure you're in the front end directory, alright?
 >
-> **[1:34](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-sign-up-and-log-in-pages?u=76281980&t=94)** And then you're going to run npm install axios like that, okay?
+> **[1:34](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-sign-up-and-log-in-pages?u=76281980&t=94)** And then you're going to run [[npm]] install axios like that, okay?
 >
 > **[1:38](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-sign-up-and-log-in-pages?u=76281980&t=98)** So that will install the Axios library for you.
 >
@@ -1747,13 +1734,13 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-sign-up-and-log-in-pages?u=76281980&t=315)** So anyway, that should be all we really need to do in order for our signup page and login pages to work.
 >
-> **[5:21](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-sign-up-and-log-in-pages?u=76281980&t=321)** There's not really going to be a whole lot to see yet because we need to integrate this with the rest of our application, but that should be all the setup we need.
+> **[5:21](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-sign-up-and-log-in-pages?u=76281980&t=321)** There's not really going to be a whole lot to see yet because we need to integrate this with the [[Representational State Transfer (REST)|rest]] of our application, but that should be all the setup we need.
 >
 > **[5:28](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-sign-up-and-log-in-pages?u=76281980&t=328)** So we might come back here and make a few final adjustments before it'll work once we've put the rest of the stuff in place, but that's all we need for now.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), api (2), [[Representational State Transfer (REST)|Rest]] (2), [[React.js|React]] (1), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[React.js|React]] (1), [[Codespaces]] (1), [[npm]] (1)
 > **Code Identifiers:** usetoken (8), settoken (3), useuser (2), onloginclicked (2), passwordvalue (2)
 > **CLI Commands:** make (10), npm (1)
 > **Prerequisites:** install (3), setup (1)
@@ -1762,8 +1749,7 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (1)
 > **Warnings:** be careful (1)
 
-#### Adding JWTs to the user info page
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-user-info-page?u=76281980)
+#### [Adding JWTs to the user info page](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-user-info-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1815,7 +1801,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-user-info-page?u=76281980&t=111)** Let's actually open that up here.
 >
-> **[1:53](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-user-info-page?u=76281980&t=113)** Db.js, right, db.json.
+> **[1:53](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-user-info-page?u=76281980&t=113)** Db.js, right, db.[[JSON]].
 >
 > **[1:57](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-user-info-page?u=76281980&t=117)** Remember that info contains those values, right?
 >
@@ -1861,7 +1847,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-user-info-page?u=76281980&t=210)** That'll reset it to whatever it was before, regardless of what changes they make to the values in these text inputs here, right?
 >
-> **[3:38](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-user-info-page?u=76281980&t=218)** And then we'll just do the same thing for the rest of them.
+> **[3:38](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-user-info-page?u=76281980&t=218)** And then we'll just do the same thing for the [[Representational State Transfer (REST)|rest]] of them.
 >
 > **[3:40](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-user-info-page?u=76281980&t=220)** So we'll say set hair color to info.hairColor.
 >
@@ -1889,7 +1875,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-user-info-page?u=76281980&t=275)** Alright, there we go.
 >
-> **[4:36](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-user-info-page?u=76281980&t=276)** And now for the front end, we're going to go into the front end and say npm run dev, just to run that react app again.
+> **[4:36](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-user-info-page?u=76281980&t=276)** And now for the front end, we're going to go into the front end and say [[npm]] run dev, just to run that [[React.js|react]] app again.
 >
 > **[4:45](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-user-info-page?u=76281980&t=285)** We'll also need to go into ports here.
 >
@@ -1901,7 +1887,7 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-user-info-page?u=76281980&t=297)** So we'll make that public and that should make it a lot easier.
 >
-> **[5:01](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-user-info-page?u=76281980&t=301)** Now, there might again be a few more bits of fine tuning that we're going to need to do to get this to work, but let's just try it out.
+> **[5:01](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-user-info-page?u=76281980&t=301)** Now, there might again be a few more bits of [[Fine Tuning]] that we're going to need to do to get this to work, but let's just try it out.
 >
 > **[5:07](https://www.linkedin.com/learning/react-authentication-25660373/adding-jwts-to-the-user-info-page?u=76281980&t=307)** So let's open up our front end in another browser here.
 >
@@ -1995,7 +1981,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[JSON]] (4), node (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[npm]] (1), [[React.js|React]] (1), [[Fine Tuning]] (1)
 > **Code Identifiers:** useuser (9), favoritefood (2), haircolor (2)
 > **CLI Commands:** make (7), node (2), cd (1), npm (1), find (1)
 > **File Paths:** db.json (3), server.js (2), db.js (1), database.json (1)
@@ -2004,8 +1990,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Tools:** terminal (2)
 
-#### Adding an "update user" route
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-update-user-route?u=76281980)
+#### [Adding an "update user" route](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-update-user-route?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2051,7 +2036,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-update-user-route?u=76281980&t=157)** So in other words, if there was no authorization header included, then something's wrong, and we should send back a 401 status code saying that there was no authorization header that was sent.
 >
-> **[2:48](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-update-user-route?u=76281980&t=168)** So we'll say return res.status(401) and we'll say .json and just include a message here, right?
+> **[2:48](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-update-user-route?u=76281980&t=168)** So we'll say return res.status(401) and we'll say .[[JSON]] and just include a message here, right?
 >
 > **[2:56](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-update-user-route?u=76281980&t=176)** This provides a little bit more context for why it's a 401 error.
 >
@@ -2059,13 +2044,13 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-update-user-route?u=76281980&t=186)** And otherwise, right, we can go down here, and we're going to get the token from this authorization header.
 >
-> **[3:13](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-update-user-route?u=76281980&t=193)** Now I mentioned when we first talked about JSON Web Tokens that they would look a little bit like this, right?
+> **[3:13](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-update-user-route?u=76281980&t=193)** Now I mentioned when we first talked about JSON Web [[Tokens]] that they would look a little bit like this, right?
 >
-> **[3:20](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-update-user-route?u=76281980&t=200)** They would actually have this word Bearer, and then they would have the JSON token after that, right, looking something like that.
+> **[3:20](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-update-user-route?u=76281980&t=200)** They would actually have this [[Microsoft Word|word]] Bearer, and then they would have the JSON token after that, right, looking something like that.
 >
 > **[3:27](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-update-user-route?u=76281980&t=207)** So what we need to do essentially is just get this part of that token, this part of that header that is, and here's how we do that.
 >
-> **[3:34](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-update-user-route?u=76281980&t=214)** Pretty easy. It's just regular JavaScript.
+> **[3:34](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-update-user-route?u=76281980&t=214)** Pretty easy. It's just regular [[JavaScript]].
 >
 > **[3:36](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-update-user-route?u=76281980&t=216)** We're going to say const token = authorization.split.
 >
@@ -2195,7 +2180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (11), web (7), next (2), data (2), database (2)
+> **Frameworks & Libraries:** [[JSON]] (11), [[Tokens]] (1), [[Microsoft Word|Word]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** favoritefood (7), haircolor (6), userid (3), sendstatus (1), savedb (1)
 > **CLI Commands:** make (12), find (5)
 > **Env Vars:** json (9), jwt (3), jwt_secret (2), url (1)
@@ -2204,8 +2189,7 @@ created: 2026-05-02
 > **Analogies:** just like (2)
 > **API Endpoints:** /api/users (1)
 
-#### Adding update functionality to the front-end
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/adding-update-functionality-to-the-front-end?u=76281980)
+#### [Adding update functionality to the front-end](https://www.linkedin.com/learning/react-authentication-25660373/adding-update-functionality-to-the-front-end?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2315,7 +2299,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), api (2), hit (2), application (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** api (2)
 > **Cross-References:** go back to (2)
@@ -2324,12 +2307,11 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### State management for tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/state-management-for-tokens?u=76281980)
+#### [State management for tokens](https://www.linkedin.com/learning/react-authentication-25660373/state-management-for-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/state-management-for-tokens?u=76281980&t=0)** - [Instructor] All right, so at this point, we've added a lot of functionality to our application and really hooked up the front and back-end and integrated them as far as, you know, this whole JSON web token thing goes.
+> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/state-management-for-tokens?u=76281980&t=0)** - [Instructor] All right, so at this point, we've added a lot of functionality to our application and really hooked up the front and back-end and integrated them as far as, you know, this whole [[JSON]] web token thing goes.
 >
 > **[0:13](https://www.linkedin.com/learning/react-authentication-25660373/state-management-for-tokens?u=76281980&t=13)** But there's one thing that you may have discovered doesn't really work very well and it's time to fix that and that is that right now, the way that we have this useToken custom hook implemented and subsequently the useUser hook, which uses the useToken hook, it just doesn't really work because right now we just have a single local useState variable.
 >
@@ -2361,7 +2343,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/react-authentication-25660373/state-management-for-tokens?u=76281980&t=125)** All right, There we go.
 >
-> **[2:06](https://www.linkedin.com/learning/react-authentication-25660373/state-management-for-tokens?u=76281980&t=126)** And we're going to import that from 'react', and we're going to start off here by exporting a new bit of context called TokenContext, all right?
+> **[2:06](https://www.linkedin.com/learning/react-authentication-25660373/state-management-for-tokens?u=76281980&t=126)** And we're going to import that from '[[React.js|react]]', and we're going to start off here by exporting a new bit of context called TokenContext, all right?
 >
 > **[2:17](https://www.linkedin.com/learning/react-authentication-25660373/state-management-for-tokens?u=76281980&t=137)** And we're going to say = createContext.
 >
@@ -2465,7 +2447,7 @@ created: 2026-05-02
 >
 > **[6:04](https://www.linkedin.com/learning/react-authentication-25660373/state-management-for-tokens?u=76281980&t=364)** And if we click Save Changes, we should see uh-oh, looks like something's going wrong there.
 >
-> **[6:09](https://www.linkedin.com/learning/react-authentication-25660373/state-management-for-tokens?u=76281980&t=369)** And this actually has to do with a quirk with Codespaces.
+> **[6:09](https://www.linkedin.com/learning/react-authentication-25660373/state-management-for-tokens?u=76281980&t=369)** And this actually has to do with a quirk with [[Codespaces]].
 >
 > **[6:12](https://www.linkedin.com/learning/react-authentication-25660373/state-management-for-tokens?u=76281980&t=372)** In order to make that work, right, if you were to inspect that, you would see that you're getting a 401 error, which is a little bit confusing because that error actually isn't coming from our server, all right?
 >
@@ -2497,7 +2479,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), front-end (3), [[Codespaces]] (3), management (2), [[React.js|React]] (2)
+> **Frameworks & Libraries:** [[Codespaces]] (3), [[React.js|React]] (2), [[JSON]] (1)
 > **Code Identifiers:** usetoken (8), usestate (3), usecontext (3), useuser (2), createcontex (1)
 > **CLI Commands:** make (6)
 > **File Paths:** tokencontext.jsx (2), main.jsx (2)
@@ -2506,8 +2488,7 @@ created: 2026-05-02
 > **Env Vars:** json (1)
 > **Definitions:** is a  (1)
 
-#### Adding log-out functionality
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/adding-log-out-functionality?u=76281980)
+#### [Adding log-out functionality](https://www.linkedin.com/learning/react-authentication-25660373/adding-log-out-functionality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2557,7 +2538,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/react-authentication-25660373/adding-log-out-functionality?u=76281980&t=123)** First of all, in case you tested this out with a lot of different numbers, you're going to want to make sure that you're only using an email that you haven't used yet.
 >
-> **[2:12](https://www.linkedin.com/learning/react-authentication-25660373/adding-log-out-functionality?u=76281980&t=132)** So let's go into our backend db.json, and we see Shaun1, Shaun2, Shaun3.
+> **[2:12](https://www.linkedin.com/learning/react-authentication-25660373/adding-log-out-functionality?u=76281980&t=132)** So let's go into our backend db.[[JSON]], and we see Shaun1, Shaun2, Shaun3.
 >
 > **[2:17](https://www.linkedin.com/learning/react-authentication-25660373/adding-log-out-functionality?u=76281980&t=137)** Let me actually remove these other ones because we don't need those anymore.
 >
@@ -2599,7 +2580,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), hit (2), [[JSON]] (2), functional (1)
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **Code Identifiers:** localstorage (2), logout (1), settoken (1), newtoken (1), removeitem (1)
 > **File Paths:** db.json (2)
 > **CLI Commands:** make (2)
@@ -2613,8 +2594,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The basic email verification process
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/the-basic-email-verification-process?u=76281980)
+#### [The basic email verification process](https://www.linkedin.com/learning/react-authentication-25660373/the-basic-email-verification-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2658,18 +2638,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), next (2), database (2), data (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up an email provider
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-an-email-provider?u=76281980)
+#### [Setting up an email provider](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-an-email-provider?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-an-email-provider?u=76281980&t=0)** - [Instructor] Well, now that we talked about what the basic email flow is going to look like, let's get started with seeing how we can send emails from a node.js server, right?
+> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-an-email-provider?u=76281980&t=0)** - [Instructor] Well, now that we talked about what the basic email flow is going to look like, let's get started with seeing how we can send emails from a [[Node.js]] server, right?
 >
 > **[0:11](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-an-email-provider?u=76281980&t=11)** That's going to be a key part of this whole flow.
 >
@@ -2699,7 +2677,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-an-email-provider?u=76281980&t=72)** You do have to have an account for this because there will be a little bit of setup with that.
 >
-> **[1:17](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-an-email-provider?u=76281980&t=77)** So I'm going to do shaun.linkedin.learning@[gmail.com](https://gmail.com).
+> **[1:17](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-an-email-provider?u=76281980&t=77)** So I'm going to do shaun.[[LinkedIn]].learning@[gmail.com](https://gmail.com).
 >
 > **[1:23](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-an-email-provider?u=76281980&t=83)** Okay? Again, you are going to have to set up an email address for this, unless you want to use your own personal email address just for testing, which you can also do.
 >
@@ -2751,7 +2729,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (1), business (1), [[LinkedIn]] (1), hit (1)
+> **Frameworks & Libraries:** [[Node.js]] (1), [[LinkedIn]] (1)
 > **Prerequisites:** set up (2), setup (2)
 > **URLs:** [xyzcompany.com](https://xyzcompany.com) (1), [gmail.com](https://gmail.com) (1)
 > **File Paths:** node.js (1)
@@ -2760,8 +2738,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Creating an email provider API key
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/creating-an-email-provider-api-key?u=76281980)
+#### [Creating an email provider API key](https://www.linkedin.com/learning/react-authentication-25660373/creating-an-email-provider-api-key?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2771,7 +2748,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/react-authentication-25660373/creating-an-email-provider-api-key?u=76281980&t=18)** So what you're going to want to do here is click on this Email API link, and then go to Integration Guide.
 >
-> **[0:25](https://www.linkedin.com/learning/react-authentication-25660373/creating-an-email-provider-api-key?u=76281980&t=25)** And you're going to click on the Choose button here for Web API, and then you're going to click Choose for Node.js, right?
+> **[0:25](https://www.linkedin.com/learning/react-authentication-25660373/creating-an-email-provider-api-key?u=76281980&t=25)** And you're going to click on the Choose button here for Web API, and then you're going to click Choose for [[Node.js]], right?
 >
 > **[0:32](https://www.linkedin.com/learning/react-authentication-25660373/creating-an-email-provider-api-key?u=76281980&t=32)** This will contain some really nicely structured instructions for getting your app set up.
 >
@@ -2779,7 +2756,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/react-authentication-25660373/creating-an-email-provider-api-key?u=76281980&t=42)** And the first thing we need to do here is we're going to create an API key.
 >
-> **[0:49](https://www.linkedin.com/learning/react-authentication-25660373/creating-an-email-provider-api-key?u=76281980&t=49)** And let's just call this something like, you know, we'll say React Authentication Key, all right?
+> **[0:49](https://www.linkedin.com/learning/react-authentication-25660373/creating-an-email-provider-api-key?u=76281980&t=49)** And let's just call this something like, you know, we'll say [[React.js|React]] Authentication Key, all right?
 >
 > **[0:56](https://www.linkedin.com/learning/react-authentication-25660373/creating-an-email-provider-api-key?u=76281980&t=56)** You can call it whatever you want.
 >
@@ -2791,7 +2768,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/react-authentication-25660373/creating-an-email-provider-api-key?u=76281980&t=83)** Now, I wouldn't recommend using the way that they recommend here.
 >
-> **[1:27](https://www.linkedin.com/learning/react-authentication-25660373/creating-an-email-provider-api-key?u=76281980&t=87)** What I would recommend doing instead if you're working with Codespaces, is going to your GitHub account settings, right?
+> **[1:27](https://www.linkedin.com/learning/react-authentication-25660373/creating-an-email-provider-api-key?u=76281980&t=87)** What I would recommend doing instead if you're working with [[Codespaces]], is going to your [[GitHub]] account settings, right?
 >
 > **[1:34](https://www.linkedin.com/learning/react-authentication-25660373/creating-an-email-provider-api-key?u=76281980&t=94)** So you can do that by going to your account and then clicking on Settings, and then go to Codespaces under that.
 >
@@ -2835,7 +2812,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/react-authentication-25660373/creating-an-email-provider-api-key?u=76281980&t=206)** All right, so the last thing here is we're going to change directories into our backend and we're going to install the SendGrid mail library into here.
 >
-> **[3:37](https://www.linkedin.com/learning/react-authentication-25660373/creating-an-email-provider-api-key?u=76281980&t=217)** So we're going to say npm install, this is going to be @sendgrid/mail, that's just the NPM package name, and that is the library that we're going to use in order to send emails.
+> **[3:37](https://www.linkedin.com/learning/react-authentication-25660373/creating-an-email-provider-api-key?u=76281980&t=217)** So we're going to say [[npm]] install, this is going to be @sendgrid/mail, that's just the NPM package name, and that is the library that we're going to use in order to send emails.
 >
 > **[3:50](https://www.linkedin.com/learning/react-authentication-25660373/creating-an-email-provider-api-key?u=76281980&t=230)** So that should be all we need to do.
 >
@@ -2843,7 +2820,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), [[Codespaces]] (3), application (2), [[Node.js]] (2), [[React.js|React]] (2)
+> **Frameworks & Libraries:** [[Codespaces]] (3), [[Node.js]] (2), [[React.js|React]] (2), [[GitHub]] (2), [[npm]] (2)
 > **Env Vars:** api (5), sendgrid_api_key (2), jwt_secret (1), jwt (1), npm (1)
 > **CLI Commands:** node (2), npm (2), make (1)
 > **UI Navigation:** click on (2), go to (2), select the (1)
@@ -2852,12 +2829,11 @@ created: 2026-05-02
 > **File Paths:** node.js (2)
 > **Cross-References:** go back to (2)
 
-#### Sending emails from Node
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/sending-emails-from-node?u=76281980)
+#### [Sending emails from Node](https://www.linkedin.com/learning/react-authentication-25660373/sending-emails-from-node?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/sending-emails-from-node?u=76281980&t=0)** - [Instructor] All right, well now that we've got our API key and we also have installed the SendGrid library into our NPM project, the next thing that we're going to do is we're going to send our first email.
+> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/sending-emails-from-node?u=76281980&t=0)** - [Instructor] All right, well now that we've got our API key and we also have installed the SendGrid library into our [[npm]] project, the next thing that we're going to do is we're going to send our first email.
 >
 > **[0:12](https://www.linkedin.com/learning/react-authentication-25660373/sending-emails-from-node?u=76281980&t=12)** Now you can see that there's some sample code here, and you can feel free to copy that and kind of edit it to your liking.
 >
@@ -2893,13 +2869,13 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/react-authentication-25660373/sending-emails-from-node?u=76281980&t=90)** Whatever you called it, right?
 >
-> **[1:31](https://www.linkedin.com/learning/react-authentication-25660373/sending-emails-from-node?u=76281980&t=91)** I called mine that when I set that in GitHub.
+> **[1:31](https://www.linkedin.com/learning/react-authentication-25660373/sending-emails-from-node?u=76281980&t=91)** I called mine that when I set that in [[GitHub]].
 >
 > **[1:34](https://www.linkedin.com/learning/react-authentication-25660373/sending-emails-from-node?u=76281980&t=94)** So the next thing here, it's going to be pretty straightforward, we're just going to say export const sendEmail.
 >
 > **[1:41](https://www.linkedin.com/learning/react-authentication-25660373/sending-emails-from-node?u=76281980&t=101)** And this one's just going to kind of mirror the sendgrid.send function, but it'll make it a little bit more robust if something about these SendGrid API changes.
 >
-> **[1:51](https://www.linkedin.com/learning/react-authentication-25660373/sending-emails-from-node?u=76281980&t=111)** So what we're going to do here is we're just going to say to, from, subject, text, and html, right?
+> **[1:51](https://www.linkedin.com/learning/react-authentication-25660373/sending-emails-from-node?u=76281980&t=111)** So what we're going to do here is we're just going to say to, from, subject, text, and [[HTML]], right?
 >
 > **[1:59](https://www.linkedin.com/learning/react-authentication-25660373/sending-emails-from-node?u=76281980&t=119)** The different parts of the emails that we're going to send, and then we'll say constant message.
 >
@@ -2927,7 +2903,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/react-authentication-25660373/sending-emails-from-node?u=76281980&t=186)** So we're going to start off by saying to.
 >
-> **[3:08](https://www.linkedin.com/learning/react-authentication-25660373/sending-emails-from-node?u=76281980&t=188)** And here's a little trick that I'm going to give you when you're testing out email flows like this, instead of having to create two or more email addresses that you, you know, can send emails back and forth to, what you can actually do is you can say, shaun.linkedin.learning+test1@[gmail.com](https://gmail.com), all right?
+> **[3:08](https://www.linkedin.com/learning/react-authentication-25660373/sending-emails-from-node?u=76281980&t=188)** And here's a little trick that I'm going to give you when you're testing out email flows like this, instead of having to create two or more email addresses that you, you know, can send emails back and forth to, what you can actually do is you can say, shaun.[[LinkedIn]].learning+test1@[gmail.com](https://gmail.com), all right?
 >
 > **[3:29](https://www.linkedin.com/learning/react-authentication-25660373/sending-emails-from-node?u=76281980&t=209)** Now notice that I added this little +test1 thing.
 >
@@ -2993,7 +2969,7 @@ created: 2026-05-02
 >
 > **[6:00](https://www.linkedin.com/learning/react-authentication-25660373/sending-emails-from-node?u=76281980&t=360)** And oops, I forgot that we're not using an ES6 module here, so we just have to change this now to const sendEmail equals require sendEmail, right?
 >
-> **[6:11](https://www.linkedin.com/learning/react-authentication-25660373/sending-emails-from-node?u=76281980&t=371)** This is on the Node.js server, and we haven't set that up with import export syntax.
+> **[6:11](https://www.linkedin.com/learning/react-authentication-25660373/sending-emails-from-node?u=76281980&t=371)** This is on the [[Node.js]] server, and we haven't set that up with import export syntax.
 >
 > **[6:15](https://www.linkedin.com/learning/react-authentication-25660373/sending-emails-from-node?u=76281980&t=375)** So we're just going to use that.
 >
@@ -3027,7 +3003,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (6), api (4), next (4), [[LinkedIn]] (2), [[Node.js]] (2)
+> **Frameworks & Libraries:** [[HTML]] (6), [[LinkedIn]] (2), [[Node.js]] (2), [[npm]] (1), [[GitHub]] (1)
 > **Code Identifiers:** sendemail (12), testsendemail (2), setapikey (1)
 > **Env Vars:** api (4), html (4), npm (1), sendgrid_api_key (1), es6 (1)
 > **CLI Commands:** make (3), node (3), npm (1), cd (1)
@@ -3036,8 +3012,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2), we discussed (1)
 > **URLs:** [gmail.com](https://gmail.com) (2)
 
-#### Integrating verification tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/integrating-verification-tokens?u=76281980)
+#### [Integrating verification tokens](https://www.linkedin.com/learning/react-authentication-25660373/integrating-verification-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3083,7 +3058,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/react-authentication-25660373/integrating-verification-tokens?u=76281980&t=143)** All right, so that should be all we need to do there, at least as far as creating the user in the database.
 >
-> **[2:29](https://www.linkedin.com/learning/react-authentication-25660373/integrating-verification-tokens?u=76281980&t=149)** The next thing is before we create that JSON web token and sign it and send it back to the user, we're going to send an email that incorporates this verification string into a link that the user will be able to click to verify their email.
+> **[2:29](https://www.linkedin.com/learning/react-authentication-25660373/integrating-verification-tokens?u=76281980&t=149)** The next thing is before we create that [[JSON]] web token and sign it and send it back to the user, we're going to send an email that incorporates this verification string into a link that the user will be able to click to verify their email.
 >
 > **[2:46](https://www.linkedin.com/learning/react-authentication-25660373/integrating-verification-tokens?u=76281980&t=166)** So here's what that's going to look like.
 >
@@ -3129,7 +3104,7 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/react-authentication-25660373/integrating-verification-tokens?u=76281980&t=272)** Because my codespace shut down again, so let's just create two new terminals like so.
 >
-> **[4:39](https://www.linkedin.com/learning/react-authentication-25660373/integrating-verification-tokens?u=76281980&t=279)** And up here, we'll say cd front-end and we'll run this thing by saying npm run dev.
+> **[4:39](https://www.linkedin.com/learning/react-authentication-25660373/integrating-verification-tokens?u=76281980&t=279)** And up here, we'll say cd front-end and we'll run this thing by saying [[npm]] run dev.
 >
 > **[4:45](https://www.linkedin.com/learning/react-authentication-25660373/integrating-verification-tokens?u=76281980&t=285)** And then when that opens up in the ports here, you should be able to get that.
 >
@@ -3211,7 +3186,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), database (2), application (1), [[JSON]] (1), web (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[npm]] (1)
 > **Code Identifiers:** verificationstring (3), isverified (1), sendstatus (1), sendemail (1), testsendemail (1)
 > **CLI Commands:** make (3), find (1), cd (1), npm (1), node (1)
 > **Env Vars:** url (6), json (1)
@@ -3220,8 +3195,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (3)
 > **UI Navigation:** go to (2)
 
-#### Adding a "please verify email" page
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-please-verify-email-page?u=76281980)
+#### [Adding a "please verify email" page](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-please-verify-email-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3263,7 +3237,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-please-verify-email-page?u=76281980&t=96)** We'll do the other one here that we set up.
 >
-> **[1:37](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-please-verify-email-page?u=76281980&t=97)** So sw.linkedin.learning, and we'll do test2@[gmail.com](https://gmail.com), right, because we already did test1.
+> **[1:37](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-please-verify-email-page?u=76281980&t=97)** So sw.[[LinkedIn]].learning, and we'll do test2@[gmail.com](https://gmail.com), right, because we already did test1.
 >
 > **[1:45](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-please-verify-email-page?u=76281980&t=105)** And then for the password, you can choose whatever you like there.
 >
@@ -3271,7 +3245,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1), navigate to (1)
 > **URLs:** [gmail.com](https://gmail.com) (1)
@@ -3280,8 +3254,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding a verify email route
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-verify-email-route?u=76281980)
+#### [Adding a verify email route](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-verify-email-route?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3333,7 +3306,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-verify-email-route?u=76281980&t=132)** And now what we're going to do is we're going to check and if there is no user, right, so if there's no user with that verificationString, then what we're going to do is we're going to send back a 401 status code.
 >
-> **[2:23](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-verify-email-route?u=76281980&t=143)** So we'll say response and here we'll say return, that is, res.status(401).json and then we'll just send a message back so they know what's going on saying the email verification code is incorrect and that should be all we need to do there.
+> **[2:23](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-verify-email-route?u=76281980&t=143)** So we'll say response and here we'll say return, that is, res.status(401).[[JSON]] and then we'll just send a message back so they know what's going on saying the email verification code is incorrect and that should be all we need to do there.
 >
 > **[2:42](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-verify-email-route?u=76281980&t=162)** So the next thing here of course, is if that does match a user, then we want to set that user's is verified property to true.
 >
@@ -3387,7 +3360,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[JSON]] (2), application (1), api (1), web (1)
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **Code Identifiers:** verificationstring (8), isverified (3), expiresin (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** url (1), jwt (1), json (1), jwt_secret (1)
@@ -3396,8 +3369,7 @@ created: 2026-05-02
 > **API Endpoints:** /api/verify-email (1)
 > **Cross-References:** in the next (1)
 
-#### Creating a verification landing page
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/creating-a-verification-landing-page?u=76281980)
+#### [Creating a verification landing page](https://www.linkedin.com/learning/react-authentication-25660373/creating-a-verification-landing-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3441,7 +3413,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/react-authentication-25660373/creating-a-verification-landing-page?u=76281980&t=102)** So we'll say sign up.
 >
-> **[1:44](https://www.linkedin.com/learning/react-authentication-25660373/creating-a-verification-landing-page?u=76281980&t=104)** And then we're going to do that same SW LinkedIn learning, and I'm going to say +test3 here @[gmail.com](https://gmail.com).
+> **[1:44](https://www.linkedin.com/learning/react-authentication-25660373/creating-a-verification-landing-page?u=76281980&t=104)** And then we're going to do that same SW [[LinkedIn]] learning, and I'm going to say +test3 here @[gmail.com](https://gmail.com).
 >
 > **[1:54](https://www.linkedin.com/learning/react-authentication-25660373/creating-a-verification-landing-page?u=76281980&t=114)** And now we're going to say ABC123 and ABC123.
 >
@@ -3503,13 +3475,13 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/react-authentication-25660373/creating-a-verification-landing-page?u=76281980&t=220)** Now, that's not something you have to do if you don't want to log your user in when they verify their email and you want them to actually have to log in again, as many sites do.
 >
-> **[3:49](https://www.linkedin.com/learning/react-authentication-25660373/creating-a-verification-landing-page?u=76281980&t=229)** Then just don't send back the JSON web token when you do that.
+> **[3:49](https://www.linkedin.com/learning/react-authentication-25660373/creating-a-verification-landing-page?u=76281980&t=229)** Then just don't send back the [[JSON]] web token when you do that.
 >
 > **[3:53](https://www.linkedin.com/learning/react-authentication-25660373/creating-a-verification-landing-page?u=76281980&t=233)** So anyway, at this point we have a pretty complete email verification flow, so congratulations for walking through this with me.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[LinkedIn]] (1), [[JSON]] (1), web (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[JSON]] (1)
 > **Env Vars:** abc123 (2), jsx (1), url (1), json (1)
 > **Cross-References:** go back to (4)
 > **CLI Commands:** make (3)
@@ -3523,8 +3495,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The basic password reset process
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/the-basic-password-reset-process?u=76281980)
+#### [The basic password reset process](https://www.linkedin.com/learning/react-authentication-25660373/the-basic-password-reset-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3558,13 +3529,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), application (1), feature (1), database (1)
 > **CLI Commands:** make (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding a "forgot password" page
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-forgot-password-page?u=76281980)
+#### [Adding a "forgot password" page](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-forgot-password-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3598,14 +3567,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [speaker] (1)
 
-#### Sending a "reset password" email
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/sending-a-reset-password-email?u=76281980)
+#### [Sending a "reset password" email](https://www.linkedin.com/learning/react-authentication-25660373/sending-a-reset-password-email?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3711,7 +3678,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/react-authentication-25660373/sending-a-reset-password-email?u=76281980&t=282)** And now that we've done this, what we're going to do is we're going to say, can enter in whatever you want here.
 >
-> **[4:48](https://www.linkedin.com/learning/react-authentication-25660373/sending-a-reset-password-email?u=76281980&t=288)** Let's just say that sw.linkedin.learning+test3 has forgotten his password.
+> **[4:48](https://www.linkedin.com/learning/react-authentication-25660373/sending-a-reset-password-email?u=76281980&t=288)** Let's just say that sw.[[LinkedIn]].learning+test3 has forgotten his password.
 >
 > **[4:55](https://www.linkedin.com/learning/react-authentication-25660373/sending-a-reset-password-email?u=76281980&t=295)** That's me, and then we'll say @[gmail.com](https://gmail.com).
 >
@@ -3729,7 +3696,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), api (1), node (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Code Identifiers:** passwordresetcode (4), sendstatus (2), sendemail (1)
 > **CLI Commands:** find (3), make (2), node (1)
 > **Env Vars:** url (2), uuid (1)
@@ -3738,8 +3705,7 @@ created: 2026-05-02
 > **API Endpoints:** /api/forgot-password (1)
 > **Cross-References:** as we saw (1)
 
-#### Creating a "reset password" landing page
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/creating-a-reset-password-landing-page?u=76281980)
+#### [Creating a "reset password" landing page](https://www.linkedin.com/learning/react-authentication-25660373/creating-a-reset-password-landing-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3797,7 +3763,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), application (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** url (2)
 > **Exercise Files:** exercise files (1)
@@ -3805,8 +3770,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding a "reset password" server endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-reset-password-server-endpoint?u=76281980)
+#### [Adding a "reset password" server endpoint](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-reset-password-server-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3872,13 +3836,13 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-reset-password-server-endpoint?u=76281980&t=208)** We're going to have to start this flow all over again, because of some changes that we've made.
 >
-> **[3:31](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-reset-password-server-endpoint?u=76281980&t=211)** All right, so let's click on Forgot your password?, and I'm going to enter in here, we'll enter in sw.linkedin.learning, and we'll use test3 again.
+> **[3:31](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-reset-password-server-endpoint?u=76281980&t=211)** All right, so let's click on Forgot your password?, and I'm going to enter in here, we'll enter in sw.[[LinkedIn]].learning, and we'll use test3 again.
 >
 > **[3:42](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-reset-password-server-endpoint?u=76281980&t=222)** We already sent that, but when we sent that, we actually didn't have the logic fully in place for adding that to the database.
 >
 > **[3:50](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-reset-password-server-endpoint?u=76281980&t=230)** So we'll just add that again and say @[gmail.com](https://gmail.com), we're going to click Send Reset Link.
 >
-> **[3:55](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-reset-password-server-endpoint?u=76281980&t=235)** And what we hope to see now, and you can double-check this inside your code now, if we open up db.json, we should see with test3 that this now has a password reset string.
+> **[3:55](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-reset-password-server-endpoint?u=76281980&t=235)** And what we hope to see now, and you can double-check this inside your code now, if we open up db.[[JSON]], we should see with test3 that this now has a password reset string.
 >
 > **[4:08](https://www.linkedin.com/learning/react-authentication-25660373/adding-a-reset-password-server-endpoint?u=76281980&t=248)** And, actually, it looks like it doesn't.
 >
@@ -3930,7 +3894,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** front-end (5), application (2), database (2), [[LinkedIn]] (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[JSON]] (2)
 > **Code Identifiers:** passwordresetcode (11), newpasswordhash (3), newpassword (2), sendstatus (2), passwordhash (2)
 > **CLI Commands:** find (3), make (3)
 > **Cross-References:** go back to (5), as we saw (1)
@@ -3944,12 +3908,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### OAuth basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/oauth-basics?u=76281980)
+#### [OAuth basics](https://www.linkedin.com/learning/react-authentication-25660373/oauth-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/oauth-basics?u=76281980&t=0)** - [Instructor] So far, we've seen how to add authentication to our app using JSON web tokens.
+> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/oauth-basics?u=76281980&t=0)** - [Instructor] So far, we've seen how to add authentication to our app using [[JSON]] web [[Tokens]].
 >
 > **[0:05](https://www.linkedin.com/learning/react-authentication-25660373/oauth-basics?u=76281980&t=5)** And we've also seen how to implement email verification and password reset functionality.
 >
@@ -3959,7 +3922,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/react-authentication-25660373/oauth-basics?u=76281980&t=25)** Put another way, they can use another site's credentials instead of credentials, like a email and password that they've created specifically for our site.
 >
-> **[0:36](https://www.linkedin.com/learning/react-authentication-25660373/oauth-basics?u=76281980&t=36)** Now, probably the most well-known case of this is the login with Google, or login with Facebook, or login with GitHub buttons that you see on many sites.
+> **[0:36](https://www.linkedin.com/learning/react-authentication-25660373/oauth-basics?u=76281980&t=36)** Now, probably the most well-known case of this is the login with [[Google]], or login with Facebook, or login with [[GitHub]] buttons that you see on many sites.
 >
 > **[0:45](https://www.linkedin.com/learning/react-authentication-25660373/oauth-basics?u=76281980&t=45)** In this course, we're going to just be seeing how to add a login with Google Button to our site, but the concepts that we'll be covering here will be very similar for all OAuth providers.
 >
@@ -3985,7 +3948,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/react-authentication-25660373/oauth-basics?u=76281980&t=98)** And the third party, this is where OAuth is significantly different than what we've seen so far.
 >
-> **[1:45](https://www.linkedin.com/learning/react-authentication-25660373/oauth-basics?u=76281980&t=105)** The third party is something called the service provider, and this is the third party app such as Google or LinkedIn or Facebook that your app wants to allow the user to log in with.
+> **[1:45](https://www.linkedin.com/learning/react-authentication-25660373/oauth-basics?u=76281980&t=105)** The third party is something called the service provider, and this is the third party app such as Google or [[LinkedIn]] or Facebook that your app wants to allow the user to log in with.
 >
 > **[1:58](https://www.linkedin.com/learning/react-authentication-25660373/oauth-basics?u=76281980&t=118)** So the basic process for logging in with OAuth is going to look like this.
 >
@@ -4019,11 +3982,11 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/react-authentication-25660373/oauth-basics?u=76281980&t=216)** And that's really all there is to it.
 >
-> **[3:38](https://www.linkedin.com/learning/react-authentication-25660373/oauth-basics?u=76281980&t=218)** So without further ado, let's see how to actually add all of this into our full Stack React application that we've built.
+> **[3:38](https://www.linkedin.com/learning/react-authentication-25660373/oauth-basics?u=76281980&t=218)** So without further ado, let's see how to actually add all of this into our full Stack [[React.js|React]] application that we've built.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (5), [[LinkedIn]] (2), database (2), [[JSON]] (1), web (1)
+> **Frameworks & Libraries:** [[Google]] (5), [[LinkedIn]] (2), [[JSON]] (1), [[Tokens]] (1), [[GitHub]] (1)
 > **Env Vars:** url (5), json (1)
 > **Analogies:** for example (3), such as (1)
 > **Versions:** 2.0 (1), 1.0 (1)
@@ -4032,14 +3995,13 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up OAuth on Google
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980)
+#### [Setting up OAuth on Google](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=0)** - [Instructor] All right, so now that we've learned the basics of how OAuth works, we're going to take a look at an example of how to incorporate OAuth into our application.
 >
-> **[0:08](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=8)** Now, as I said, there are many different OAuth providers that we could choose from, but we're going to be using Google since it's by far the most popular.
+> **[0:08](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=8)** Now, as I said, there are many different OAuth providers that we could choose from, but we're going to be using [[Google]] since it's by far the most popular.
 >
 > **[0:16](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=16)** So we're going to be adding a login with Google button to the login page for our app.
 >
@@ -4057,11 +4019,11 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=55)** It's a pretty straightforward process.
 >
-> **[0:58](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=58)** And once you're logged into the GCP console, that is Google Cloud Platform Console, you're going to click on this little dropdown up here.
+> **[0:58](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=58)** And once you're logged into the GCP console, that is [[Google Cloud Platform (GCP)|Google Cloud Platform]] Console, you're going to click on this little dropdown up here.
 >
 > **[1:07](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=67)** Mine just says my first project.
 >
-> **[1:09](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=69)** I have lots of other projects in here, of course, but you're going to click on this and this will list all of your projects if you've worked with Google Cloud before.
+> **[1:09](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=69)** I have lots of other projects in here, of course, but you're going to click on this and this will list all of your projects if you've worked with [[Google Cloud Platform (GCP)|Google Cloud]] before.
 >
 > **[1:16](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=76)** If you don't see anything there, that's fine as well.
 >
@@ -4069,7 +4031,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=83)** So we're going to click on that, and we're going to come up with a name for our project here.
 >
-> **[1:29](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=89)** So let's call it something, like react authentication.
+> **[1:29](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=89)** So let's call it something, like [[React.js|react]] authentication.
 >
 > **[1:35](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=95)** And now that we have that, what we're going to do, we're just going to leave no organization selected there.
 >
@@ -4117,7 +4079,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=191)** So in other words, do we only want to allow internal people in our organization to log in, right?
 >
-> **[3:17](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=197)** So if you have like a custom domain name in your email address, like at [linkedin.com](https://linkedin.com) for example, that's what that would give us here.
+> **[3:17](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=197)** So if you have like a custom domain name in your email address, like at [[[LinkedIn]].com](https://linkedin.com) for example, that's what that would give us here.
 >
 > **[3:25](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=205)** But since we want anybody to be able to log into our app, we're going to select external there, and then we'll go to next.
 >
@@ -4163,7 +4125,7 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=306)** That's perfectly fine.
 >
-> **[5:08](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=308)** And for authorized JavaScript Origins, what we're going to do here is we're going to add the URL from our front end.
+> **[5:08](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=308)** And for authorized [[JavaScript]] Origins, what we're going to do here is we're going to add the URL from our front end.
 >
 > **[5:18](https://www.linkedin.com/learning/react-authentication-25660373/setting-up-oauth-on-google?u=76281980&t=318)** Okay, so here's what we'll have to do. Let's go into ports.
 >
@@ -4227,7 +4189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (18), next (6), application (4), data (4), [[Google Cloud Platform (GCP)|Google cloud]] (2)
+> **Frameworks & Libraries:** [[Google]] (18), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[React.js|React]] (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[LinkedIn]] (1)
 > **UI Navigation:** click on (4), dropdown (1), go to (1), select the (1)
 > **Prerequisites:** set up (4), configure (1)
 > **Env Vars:** url (2), gcp (1), uri (1)
@@ -4236,12 +4198,11 @@ created: 2026-05-02
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 
-#### Adding an OAuth URL route
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-oauth-url-route?u=76281980)
+#### [Adding an OAuth URL route](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-oauth-url-route?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-oauth-url-route?u=76281980&t=0)** - [Instructor] All right, so now that we've set up Oauth in Google Cloud, the next thing that we're going to do is create a route whose purpose will be to give us the URL that the user should be redirected to when they click the Login with Google button.
+> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-oauth-url-route?u=76281980&t=0)** - [Instructor] All right, so now that we've set up Oauth in [[Google Cloud Platform (GCP)|Google Cloud]], the next thing that we're going to do is create a route whose purpose will be to give us the URL that the user should be redirected to when they click the Login with [[Google]] button.
 >
 > **[0:15](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-oauth-url-route?u=76281980&t=15)** This might not make sense quite yet, but just bear with me here.
 >
@@ -4251,9 +4212,9 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-oauth-url-route?u=76281980&t=32)** So we're going to call this something like googleOauthutil.js, and inside here what we're going to do is we're going to start off by importing, by saying const { google } = require('googleapis') and we will have to install this into our project, so let's actually do that.
 >
-> **[0:54](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-oauth-url-route?u=76281980&t=54)** And once again, if you're using Codespaces and the code space has shut down recently and you don't have the front and backend running, what we're going to do, we're going to need to change directories into our backend here.
+> **[0:54](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-oauth-url-route?u=76281980&t=54)** And once again, if you're using [[Codespaces]] and the code space has shut down recently and you don't have the front and backend running, what we're going to do, we're going to need to change directories into our backend here.
 >
-> **[1:05](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-oauth-url-route?u=76281980&t=65)** And then we're going to say NPM install Google APIs and we'll install that into our project like so.
+> **[1:05](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-oauth-url-route?u=76281980&t=65)** And then we're going to say [[npm]] install Google APIs and we'll install that into our project like so.
 >
 > **[1:12](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-oauth-url-route?u=76281980&t=72)** Okay, so once that finishes, the next thing that we're going to do is we're going to export something here.
 >
@@ -4377,7 +4338,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (11), next (4), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Codespaces]] (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[Google]] (11), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Codespaces]] (1), [[npm]] (1)
 > **Env Vars:** url (11), npm (1), google_client_id (1), api (1)
 > **Code Identifiers:** getgoogleoauthurl (3), oauthclient (2), googleoauthutil (1), generateauthurl (1)
 > **CLI Commands:** make (3), npm (1), node (1)
@@ -4386,12 +4347,11 @@ created: 2026-05-02
 > **Prerequisites:** install (3), set up (1)
 > **URLs:** [https://www.googleapis.com](https://www.googleapis.com) (1)
 
-#### Creating a "sign-in with Google" button
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/creating-a-sign-in-with-google-button?u=76281980)
+#### [Creating a "sign-in with Google" button](https://www.linkedin.com/learning/react-authentication-25660373/creating-a-sign-in-with-google-button?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/creating-a-sign-in-with-google-button?u=76281980&t=0)** - [Instructor] Alright, so the next step in our OAuth process here is to add that login with Google button to our login page.
+> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/creating-a-sign-in-with-google-button?u=76281980&t=0)** - [Instructor] Alright, so the next step in our OAuth process here is to add that login with [[Google]] button to our login page.
 >
 > **[0:07](https://www.linkedin.com/learning/react-authentication-25660373/creating-a-sign-in-with-google-button?u=76281980&t=7)** And there's going to be a few steps to this.
 >
@@ -4495,7 +4455,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/react-authentication-25660373/creating-a-sign-in-with-google-button?u=76281980&t=286)** Let's just restart that just in case. All right.
 >
-> **[4:49](https://www.linkedin.com/learning/react-authentication-25660373/creating-a-sign-in-with-google-button?u=76281980&t=289)** And then our front end, we're going to say cd front-end and run npm run dev.
+> **[4:49](https://www.linkedin.com/learning/react-authentication-25660373/creating-a-sign-in-with-google-button?u=76281980&t=289)** And then our front end, we're going to say cd front-end and run [[npm]] run dev.
 >
 > **[4:55](https://www.linkedin.com/learning/react-authentication-25660373/creating-a-sign-in-with-google-button?u=76281980&t=295)** And now we're going to need to go back to ports.
 >
@@ -4527,7 +4487,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (7), next (3), api (1), data (1), application (1)
+> **Frameworks & Libraries:** [[Google]] (7), [[npm]] (1)
 > **Code Identifiers:** googleoauthurl (3), setgoogleoauthurl (2), loadoauthurl (2), usestate (1), useeffect (1)
 > **Env Vars:** url (7), client_secret (1), client_id (1)
 > **UI Navigation:** scroll down (2), go to (1), open the (1), select the (1)
@@ -4536,12 +4496,11 @@ created: 2026-05-02
 > **API Endpoints:** /api/auth/google/url (1)
 > **Definitions:** means that (1)
 
-#### Adding an OAuth callback route
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-oauth-callback-route?u=76281980)
+#### [Adding an OAuth callback route](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-oauth-callback-route?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-oauth-callback-route?u=76281980&t=0)** - [Instructor] All right, so now that we've got this consent screen that's being displayed to the user, and by the way, if you're getting some sort of like authentication error or something like that instead of this screen here, make sure that you restart your Codespace once you've added those client secrets from GitHub because I ran into that problem as well, right?
+> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-oauth-callback-route?u=76281980&t=0)** - [Instructor] All right, so now that we've got this consent screen that's being displayed to the user, and by the way, if you're getting some sort of like authentication error or something like that instead of this screen here, make sure that you restart your Codespace once you've added those client secrets from [[GitHub]] because I ran into that problem as well, right?
 >
 > **[0:19](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-oauth-callback-route?u=76281980&t=19)** Basically it just didn't have the client ID and client secret that are needed for this URL.
 >
@@ -4549,11 +4508,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-oauth-callback-route?u=76281980&t=28)** All right, so what we're going to need to do here is open our server back up and actually I have that right there.
 >
-> **[0:34](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-oauth-callback-route?u=76281980&t=34)** And what we're going to do here is we're going to add another route that will be that callback route that we added in the Google Cloud console.
+> **[0:34](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-oauth-callback-route?u=76281980&t=34)** And what we're going to do here is we're going to add another route that will be that callback route that we added in the [[Google Cloud Platform (GCP)|Google Cloud]] console.
 >
 > **[0:42](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-oauth-callback-route?u=76281980&t=42)** So here's what this is going to look like.
 >
-> **[0:43](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-oauth-callback-route?u=76281980&t=43)** We're going to say app.get, and this one here is going to be /auth/google/callback.
+> **[0:43](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-oauth-callback-route?u=76281980&t=43)** We're going to say app.get, and this one here is going to be /auth/[[Google]]/callback.
 >
 > **[0:52](https://www.linkedin.com/learning/react-authentication-25660373/adding-an-oauth-callback-route?u=76281980&t=52)** Now we don't need that API thing here because the call for this isn't going to be coming from our front end, right?
 >
@@ -4635,7 +4594,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (7), database (2), [[GitHub]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), api (1)
+> **Frameworks & Libraries:** [[Google]] (7), [[GitHub]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** url (3), jwt (2), api (1)
 > **Analogies:** such as (1), kind of like (1), just like (1)
 > **Code Identifiers:** createduser (1), sendstatus (1)
@@ -4644,8 +4603,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Prerequisites:** setup (1)
 
-#### Loading user info from Google
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/loading-user-info-from-google?u=76281980)
+#### [Loading user info from Google](https://www.linkedin.com/learning/react-authentication-25660373/loading-user-info-from-google?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4655,7 +4613,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/react-authentication-25660373/loading-user-info-from-google?u=76281980&t=16)** We're going to create a new file here that will contain some utility functions.
 >
-> **[0:21](https://www.linkedin.com/learning/react-authentication-25660373/loading-user-info-from-google?u=76281980&t=21)** This is just going to be called something like Google, well, in fact, we can put it inside this googleOauthUtil file if that's easier, just to keep all of this stuff together.
+> **[0:21](https://www.linkedin.com/learning/react-authentication-25660373/loading-user-info-from-google?u=76281980&t=21)** This is just going to be called something like [[Google]], well, in fact, we can put it inside this googleOauthUtil file if that's easier, just to keep all of this stuff together.
 >
 > **[0:29](https://www.linkedin.com/learning/react-authentication-25660373/loading-user-info-from-google?u=76281980&t=29)** And the first function that we're going to create here will be called something like getGoogleUser.
 >
@@ -4665,7 +4623,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/react-authentication-25660373/loading-user-info-from-google?u=76281980&t=57)** All right, so here's what this is going to look like.
 >
-> **[0:59](https://www.linkedin.com/learning/react-authentication-25660373/loading-user-info-from-google?u=76281980&t=59)** We're going to say const { tokens } and we're going to say = await oauthClient, so we're using that thing that we created up here as well, .getToken, and we're going to pass that code, right?
+> **[0:59](https://www.linkedin.com/learning/react-authentication-25660373/loading-user-info-from-google?u=76281980&t=59)** We're going to say const { [[Tokens]] } and we're going to say = await oauthClient, so we're using that thing that we created up here as well, .getToken, and we're going to pass that code, right?
 >
 > **[1:14](https://www.linkedin.com/learning/react-authentication-25660373/loading-user-info-from-google?u=76281980&t=74)** So basically we're trading this code that Google gave us for a token that will prove that we have access to those parts of the user's information.
 >
@@ -4711,7 +4669,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (6), [[Tokens]] (4), database (2), data (2), next (1)
+> **Frameworks & Libraries:** [[Google]] (6), [[Tokens]] (4)
 > **Code Identifiers:** getgoogleuser (3), oauthuserinfo (1), googleoauthutil (1), oauthclient (1), gettoken (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** url (1), https (1)
@@ -4720,12 +4678,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Prerequisites:** install (1)
 
-#### Creating new users from OAuth data
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/creating-new-users-from-oauth-data?u=76281980)
+#### [Creating new users from OAuth data](https://www.linkedin.com/learning/react-authentication-25660373/creating-new-users-from-oauth-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/creating-new-users-from-oauth-data?u=76281980&t=0)** - [Speaker] Alright, so now that we're loading the user's info from Google, the last function that we're going to create here that should complete our callback URL here is going to be a function for basically taking that user.
+> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/creating-new-users-from-oauth-data?u=76281980&t=0)** - [Speaker] Alright, so now that we're loading the user's info from [[Google]], the last function that we're going to create here that should complete our callback URL here is going to be a function for basically taking that user.
 >
 > **[0:14](https://www.linkedin.com/learning/react-authentication-25660373/creating-new-users-from-oauth-data?u=76281980&t=14)** And there's really two possibilities here, right?
 >
@@ -4859,7 +4816,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (12), database (3), application (1), front-end (1)
+> **Frameworks & Libraries:** [[Google]] (12)
 > **Code Identifiers:** isverified (4), newuser (3), savedb (2), existinguser (1)
 > **CLI Commands:** make (3), find (2)
 > **File Paths:** server.js (2)
@@ -4868,8 +4825,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 
-#### Handling successful OAuth authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/handling-successful-oauth-authentication?u=76281980)
+#### [Handling successful OAuth authentication](https://www.linkedin.com/learning/react-authentication-25660373/handling-successful-oauth-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4919,7 +4875,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/react-authentication-25660373/handling-successful-oauth-authentication?u=76281980&t=119)** Then we'll have setToken here as well as navigate 'cause we're going to be using all three of those things.
 >
-> **[2:05](https://www.linkedin.com/learning/react-authentication-25660373/handling-successful-oauth-authentication?u=76281980&t=125)** And now inside here we're just going to say, if there's an oauthToken, then what that means is the user was redirected here after logging in from Google.
+> **[2:05](https://www.linkedin.com/learning/react-authentication-25660373/handling-successful-oauth-authentication?u=76281980&t=125)** And now inside here we're just going to say, if there's an oauthToken, then what that means is the user was redirected here after logging in from [[Google]].
 >
 > **[2:16](https://www.linkedin.com/learning/react-authentication-25660373/handling-successful-oauth-authentication?u=76281980&t=136)** And we're going to want to just set that token.
 >
@@ -4955,7 +4911,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/react-authentication-25660373/handling-successful-oauth-authentication?u=76281980&t=206)** And now, we're going to just try this again.
 >
-> **[3:28](https://www.linkedin.com/learning/react-authentication-25660373/handling-successful-oauth-authentication?u=76281980&t=208)** So if we go back to our React app, we should be able to log in with Google.
+> **[3:28](https://www.linkedin.com/learning/react-authentication-25660373/handling-successful-oauth-authentication?u=76281980&t=208)** So if we go back to our [[React.js|React]] app, we should be able to log in with Google.
 >
 > **[3:33](https://www.linkedin.com/learning/react-authentication-25660373/handling-successful-oauth-authentication?u=76281980&t=213)** And I'm going to click on this one here.
 >
@@ -4963,11 +4919,11 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/react-authentication-25660373/handling-successful-oauth-authentication?u=76281980&t=220)** There we go, that it takes us to the user info page.
 >
-> **[3:42](https://www.linkedin.com/learning/react-authentication-25660373/handling-successful-oauth-authentication?u=76281980&t=222)** And we have this sw.linkedin.learning@[gmail.com](https://gmail.com) email in there.
+> **[3:42](https://www.linkedin.com/learning/react-authentication-25660373/handling-successful-oauth-authentication?u=76281980&t=222)** And we have this sw.[[LinkedIn]].learning@[gmail.com](https://gmail.com) email in there.
 >
 > **[3:47](https://www.linkedin.com/learning/react-authentication-25660373/handling-successful-oauth-authentication?u=76281980&t=227)** And if you check your database, right?
 >
-> **[3:49](https://www.linkedin.com/learning/react-authentication-25660373/handling-successful-oauth-authentication?u=76281980&t=229)** If we open up db.json here.
+> **[3:49](https://www.linkedin.com/learning/react-authentication-25660373/handling-successful-oauth-authentication?u=76281980&t=229)** If we open up db.[[JSON]] here.
 >
 > **[3:52](https://www.linkedin.com/learning/react-authentication-25660373/handling-successful-oauth-authentication?u=76281980&t=232)** What you should see is, sure enough, there is now a new user in there for that email.
 >
@@ -4977,7 +4933,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), [[Search]] (1), data (1), node (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[React.js|React]] (1), [[LinkedIn]] (1), [[JSON]] (1)
 > **Code Identifiers:** oauthtoken (6), queryparams (2), useeffect (2), settoken (2), uselocation (1)
 > **CLI Commands:** make (2), node (1)
 > **File Paths:** server.js (1), db.json (1)
@@ -4991,8 +4947,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why prebuilt auth options?
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/why-prebuilt-auth-options?u=76281980)
+#### [Why prebuilt auth options?](https://www.linkedin.com/learning/react-authentication-25660373/why-prebuilt-auth-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5048,7 +5003,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/react-authentication-25660373/why-prebuilt-auth-options?u=76281980&t=160)** So, in many cases, since you are no longer the one with prebuilt auth who's having to manage the database, having to manage the emails, things like that, it can really make it much simpler to add user authentication to your application, as well as just kind of keep it running smoothly.
 >
-> **[2:59](https://www.linkedin.com/learning/react-authentication-25660373/why-prebuilt-auth-options?u=76281980&t=179)** And finally, the last thing here is scalability.
+> **[2:59](https://www.linkedin.com/learning/react-authentication-25660373/why-prebuilt-auth-options?u=76281980&t=179)** And finally, the last thing here is [[Scalability]].
 >
 > **[3:02](https://www.linkedin.com/learning/react-authentication-25660373/why-prebuilt-auth-options?u=76281980&t=182)** So, with prebuilt authentication, you know, you might be just starting out and only have a handful of users on your site, but then a month from now, you might have thousands and thousands of users on your site.
 >
@@ -5084,7 +5039,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/react-authentication-25660373/why-prebuilt-auth-options?u=76281980&t=295)** This is a big risk with really any kind of technology.
 >
-> **[4:59](https://www.linkedin.com/learning/react-authentication-25660373/why-prebuilt-auth-options?u=76281980&t=299)** And this can be true of databases, different libraries, email providers, as we've seen, things like that.
+> **[4:59](https://www.linkedin.com/learning/react-authentication-25660373/why-prebuilt-auth-options?u=76281980&t=299)** And this can be true of [[Databases]], different libraries, email providers, as we've seen, things like that.
 >
 > **[5:07](https://www.linkedin.com/learning/react-authentication-25660373/why-prebuilt-auth-options?u=76281980&t=307)** And last but not least, ultimately, with prebuilt authentication providers, you're just going to have less customization and control over how your application works in this respect than if you had implemented everything yourself.
 >
@@ -5102,14 +5057,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), next (3), [[Security]] (3), database (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (1), [[Databases]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Authentication with Auth0
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-auth0?u=76281980)
+#### [Authentication with Auth0](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-auth0?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5129,11 +5083,11 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-auth0?u=76281980&t=46)** So the first thing here is that, for the most part, when working with Auth0, integrating this into your application is really very easy, right?
 >
-> **[0:55](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-auth0?u=76281980&t=55)** The libraries and stuff that they provide for React and Node.JS really just make it easy to get started, and, especially now that you're aware of how all of this stuff works behind the scenes, it can really be a very straightforward option for you.
+> **[0:55](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-auth0?u=76281980&t=55)** The libraries and stuff that they provide for [[React.js|React]] and [[Node.js]] really just make it easy to get started, and, especially now that you're aware of how all of this stuff works behind the scenes, it can really be a very straightforward option for you.
 >
 > **[1:11](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-auth0?u=76281980&t=71)** Now, the second thing here is that Auth0 provides support for a wide variety of different providers.
 >
-> **[1:20](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-auth0?u=76281980&t=80)** So, you know, if you want to allow users to log into your site through social media logins like Facebook, Google, and so on, if you want to do password lists authentication, where basically temporary password is sent to the user's email address, or if you want to do things like enterprise login, you can do those with Auth0.
+> **[1:20](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-auth0?u=76281980&t=80)** So, you know, if you want to allow users to log into your site through social media logins like Facebook, [[Google]], and so on, if you want to do password lists authentication, where basically temporary password is sent to the user's email address, or if you want to do things like enterprise login, you can do those with Auth0.
 >
 > **[1:41](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-auth0?u=76281980&t=101)** It makes it very easy to do.
 >
@@ -5157,20 +5111,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[React.js|React]] (2), [[Node.js]] (1), [[Google]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Node.js]] (1), [[Google]] (1)
 > **CLI Commands:** node (1), make (1)
 > **File Paths:** node.js (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Authentication with Firebase
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-firebase?u=76281980)
+#### [Authentication with Firebase](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-firebase?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-firebase?u=76281980&t=0)** - [Instructor] Alright, so the next auth provider that we're going to take a look at here is Firebase.
+> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-firebase?u=76281980&t=0)** - [Instructor] Alright, so the next auth provider that we're going to take a look at here is [[Firebase]].
 >
-> **[0:05](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-firebase?u=76281980&t=5)** This one is provided by Google and is integrated in many ways with Google Cloud.
+> **[0:05](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-firebase?u=76281980&t=5)** This one is provided by [[Google]] and is integrated in many ways with [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[0:11](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-firebase?u=76281980&t=11)** So if you're already using Google Cloud or maybe even Firebase, which is a somewhat more user friendly version of Google Cloud, this can be a great option because it's really just pretty straightforward to get started with.
 >
@@ -5186,13 +5139,13 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-firebase?u=76281980&t=52)** Firebase authentication also has extensive support for a lot of different providers.
 >
-> **[0:58](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-firebase?u=76281980&t=58)** So obviously this includes the most common ones, like Google, Facebook, Twitter, GitHub.
+> **[0:58](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-firebase?u=76281980&t=58)** So obviously this includes the most common ones, like Google, Facebook, Twitter, [[GitHub]].
 >
 > **[1:03](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-firebase?u=76281980&t=63)** But it also includes things like phone authentication.
 >
-> **[1:06](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-firebase?u=76281980&t=66)** You can do email, password, sign in with this one, so you could actually replace part of what we implemented earlier with this, and there's lots of other providers there as well, that literally all you have to do is just enable them and provide a button that the user can click and Firebase Auth will take care of the rest.
+> **[1:06](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-firebase?u=76281980&t=66)** You can do email, password, sign in with this one, so you could actually replace part of what we implemented earlier with this, and there's lots of other providers there as well, that literally all you have to do is just enable them and provide a button that the user can click and Firebase Auth will take care of the [[Representational State Transfer (REST)|rest]].
 >
-> **[1:25](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-firebase?u=76281980&t=85)** Alright, and besides that, one thing that's really nice about Firebase Auth that makes it easy to integrate into React applications is that Firebase provides real time listeners for whenever a user's off state changes.
+> **[1:25](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-firebase?u=76281980&t=85)** Alright, and besides that, one thing that's really nice about Firebase Auth that makes it easy to integrate into [[React.js|React]] applications is that Firebase provides real time listeners for whenever a user's off state changes.
 >
 > **[1:40](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-firebase?u=76281980&t=100)** And this makes it really easy to just create something like a custom hook where you can immediately know when the user logs out and adjust everything accordingly.
 >
@@ -5212,7 +5165,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Firebase]] (10), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Google]] (2), next (1), application (1)
+> **Frameworks & Libraries:** [[Firebase]] (10), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Google]] (2), [[GitHub]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
@@ -5220,14 +5173,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Authentication with NextAuth.js
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-nextauth-js?u=76281980)
+#### [Authentication with NextAuth.js](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-nextauth-js?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-nextauth-js?u=76281980&t=0)** - [Instructor] All right, the next prebuilt auth provider we're going to take a look at is one called NextAuth.js.
 >
-> **[0:07](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-nextauth-js?u=76281980&t=7)** And the first thing to know about this one is, while we've seen in this course how to add authentication to a regular React Node.js app, in many cases, and I'm assuming that this is true for many learners out there, what you'll want to do is add authentication to a Next.js app, and that's what NextAuth.js really provides us with an easy way to do.
+> **[0:07](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-nextauth-js?u=76281980&t=7)** And the first thing to know about this one is, while we've seen in this course how to add authentication to a regular [[React.js|React]] [[Node.js]] app, in many cases, and I'm assuming that this is true for many learners out there, what you'll want to do is add authentication to a [[Next.js]] app, and that's what NextAuth.js really provides us with an easy way to do.
 >
 > **[0:30](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-nextauth-js?u=76281980&t=30)** So, hopefully that sets the stage a little bit for this one.
 >
@@ -5243,9 +5195,9 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-nextauth-js?u=76281980&t=78)** So, managing how a user's credentials are maintained once they've logged in.
 >
-> **[1:23](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-nextauth-js?u=76281980&t=83)** And also, integrating with databases.
+> **[1:23](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-nextauth-js?u=76281980&t=83)** And also, integrating with [[Databases]].
 >
-> **[1:25](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-nextauth-js?u=76281980&t=85)** So if you wanted to integrate with SQL or MongoDB or really any other option, NextAuth.js makes that pretty easy as well.
+> **[1:25](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-nextauth-js?u=76281980&t=85)** So if you wanted to integrate with [[SQL]] or [[MongoDB]] or really any other option, NextAuth.js makes that pretty easy as well.
 >
 > **[1:34](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-nextauth-js?u=76281980&t=94)** And just like the other ones that we've seen, it also has support for a lot of different providers.
 >
@@ -5255,7 +5207,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-nextauth-js?u=76281980&t=104)** You can also do email or passwordless authentication too, so there's a lot of options available for you there.
 >
-> **[1:50](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-nextauth-js?u=76281980&t=110)** And finally, it has built-in support for JWTs, right, JSON web tokens, which we learned all about earlier.
+> **[1:50](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-nextauth-js?u=76281980&t=110)** And finally, it has built-in support for JWTs, right, [[JSON]] web [[Tokens]], which we learned all about earlier.
 >
 > **[1:59](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-nextauth-js?u=76281980&t=119)** And what this means is that you can really manage your sessions very easily with NextAuth.js by integrating them with the concepts that we learned earlier.
 >
@@ -5269,7 +5221,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Next.js]] (4), next (1), [[React.js|React]] (1), [[Node.js]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Next.js]] (4), [[React.js|React]] (1), [[Node.js]] (1), [[Databases]] (1), [[SQL]] (1)
 > **File Paths:** nextauth.js (7), next.js (4), node.js (1)
 > **Env Vars:** sql (1), json (1)
 > **CLI Commands:** node (1)
@@ -5278,16 +5230,15 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Authentication with Clerk
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-clerk?u=76281980)
+#### [Authentication with Clerk](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-clerk?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-clerk?u=76281980&t=0)** - [Instructor] Alright, well now that we've talked about NextAuth.js, let's talk about another option that is also specific to well, not necessarily Next.js, but definitely specific to the idea of front-end frameworks and creating web applications.
+> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-clerk?u=76281980&t=0)** - [Instructor] Alright, well now that we've talked about NextAuth.js, let's talk about another option that is also specific to well, not necessarily [[Next.js]], but definitely specific to the idea of front-end frameworks and creating web applications.
 >
-> **[0:18](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-clerk?u=76281980&t=18)** But definitely specific to the world of things like front-end and JavaScript and frameworks and Full-Stack applications.
+> **[0:18](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-clerk?u=76281980&t=18)** But definitely specific to the world of things like front-end and [[JavaScript]] and frameworks and Full-Stack applications.
 >
-> **[0:26](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-clerk?u=76281980&t=26)** And this is something called Clerk, now the interesting thing about Clerk is and if you take a look at their website here, you can see this is it actually provides you with a number of pre-built components that you can add to your site, just like you can add any other kind of React component.
+> **[0:26](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-clerk?u=76281980&t=26)** And this is something called Clerk, now the interesting thing about Clerk is and if you take a look at their website here, you can see this is it actually provides you with a number of pre-built components that you can add to your site, just like you can add any other kind of [[React.js|React]] component.
 >
 > **[0:44](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-clerk?u=76281980&t=44)** And you can actually work on the design of these things.
 >
@@ -5299,9 +5250,9 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-clerk?u=76281980&t=71)** So let's talk about a few of the key characteristics of it.
 >
-> **[1:14](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-clerk?u=76281980&t=74)** As I already said, one of the key features of this library for React developers is that it includes these out of the box React components that are ultimately designed for creating a very smooth and easy to use user interface and user experience.
+> **[1:14](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-clerk?u=76281980&t=74)** As I already said, one of the key features of this library for React developers is that it includes these out of the box React components that are ultimately designed for creating a very smooth and easy to use user interface and [[User Experience (UX)|user experience]].
 >
-> **[1:32](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-clerk?u=76281980&t=92)** Besides that it also includes other features like multi-factor authentication.
+> **[1:32](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-clerk?u=76281980&t=92)** Besides that it also includes other features like [[Multi-factor Authentication]].
 >
 > **[1:36](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-clerk?u=76281980&t=96)** So you can enable this without having to do a whole lot of set up which is great.
 >
@@ -5313,7 +5264,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-clerk?u=76281980&t=115)** As I said, it's designed specifically for React.
 >
-> **[1:59](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-clerk?u=76281980&t=119)** There are bindings that you can use in order to use it with other libraries like Vue and you can also use it with Next.js, too.
+> **[1:59](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-clerk?u=76281980&t=119)** There are bindings that you can use in order to use it with other libraries like [[Vue.js|Vue]] and you can also use it with Next.js, too.
 >
 > **[2:06](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-clerk?u=76281980&t=126)** So if you have a Next.js app it's really the same kind of process for adding Clerk to the app as if it's just regular React app like what we already have.
 >
@@ -5321,19 +5272,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (6), [[Next.js]] (3), front-end (2), management (2), web (1)
+> **Frameworks & Libraries:** [[React.js|React]] (6), [[Next.js]] (3), [[JavaScript]] (1), [[User Experience (UX)|User experience]] (1), [[Multi-factor Authentication]] (1)
 > **File Paths:** next.js (3), nextauth.js (2)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Authentication with AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-aws?u=76281980)
+#### [Authentication with AWS](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-aws?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-aws?u=76281980&t=0)** - [Instructor] Alright, well the last prebuilt authentication option that we're going to talk about here is AWS, Amazon Web Services.
+> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-aws?u=76281980&t=0)** - [Instructor] Alright, well the last prebuilt authentication option that we're going to talk about here is AWS, [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
 > **[0:07](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-aws?u=76281980&t=7)** And currently it has a specific name.
 >
@@ -5353,13 +5303,13 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-aws?u=76281980&t=45)** First of all, it's fully managed, right?
 >
-> **[0:47](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-aws?u=76281980&t=47)** So by using these things called user pools, and there's a lot of other tools there as well, all of that stuff, the rest of the details are automatically managed for you, which is pretty cool.
+> **[0:47](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-aws?u=76281980&t=47)** So by using these things called user pools, and there's a lot of other tools there as well, all of that stuff, the [[Representational State Transfer (REST)|rest]] of the details are automatically managed for you, which is pretty cool.
 >
 > **[0:58](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-aws?u=76281980&t=58)** Another thing here is that if you're already using the Amazon Web Services ecosystem, right?
 >
 > **[1:04](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-aws?u=76281980&t=64)** If you're already hosting your application on AWS or using some of its other capabilities, it can easily be tied in with other services, right?
 >
-> **[1:13](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-aws?u=76281980&t=73)** And this includes also things like Lambda, DynamoDB for databases, API gateway, things like that.
+> **[1:13](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-aws?u=76281980&t=73)** And this includes also things like Lambda, DynamoDB for [[Databases]], API gateway, things like that.
 >
 > **[1:21](https://www.linkedin.com/learning/react-authentication-25660373/authentication-with-aws?u=76281980&t=81)** Now, it's no secret that AWS is very commonly used by larger corporations, and that is due to the fact that it's very scalable and also very secure.
 >
@@ -5375,7 +5325,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), [[Amazon Web Services (AWS)|Amazon web services]] (3), [[Representational State Transfer (REST)|Rest]] (1), application (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Databases]] (1)
 > **CLI Commands:** aws (7), make (1)
 > **Env Vars:** aws (7), api (1)
 > **Analogies:** such as (1), just like (1)
@@ -5387,12 +5337,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using HTTPS and SSL
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/using-https-and-ssl?u=76281980)
+#### [Using HTTPS and SSL](https://www.linkedin.com/learning/react-authentication-25660373/using-https-and-ssl?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/using-https-and-ssl?u=76281980&t=0)** - [Instructor] Okay, at this point in the course, we've seen quite a few different aspects of user authentication in the context of full-stack React, and now, it's time to talk about a few so-called best practices when incorporating authentication into a React application.
+> **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/using-https-and-ssl?u=76281980&t=0)** - [Instructor] Okay, at this point in the course, we've seen quite a few different aspects of user authentication in the context of full-stack [[React.js|React]], and now, it's time to talk about a few so-called best practices when incorporating authentication into a React application.
 >
 > **[0:16](https://www.linkedin.com/learning/react-authentication-25660373/using-https-and-ssl?u=76281980&t=16)** These are things that we haven't covered directly in the course, but nevertheless, they're very important to keep in mind, since a lot of times, they can make the difference between your user's data being secure and your user's data being easily accessible by hackers.
 >
@@ -5400,13 +5349,13 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/react-authentication-25660373/using-https-and-ssl?u=76281980&t=42)** Colloquially, these are all names for the same basic idea, so let's talk about that here.
 >
-> **[0:48](https://www.linkedin.com/learning/react-authentication-25660373/using-https-and-ssl?u=76281980&t=48)** If you go to sites like Google or Facebook or LinkedIn, and obviously, many others as well, you'll see that, up in the left hand corner of the page, the browser displays this little lock icon, and if you look at the full URL, you'll see that it begins with HTTPS instead of just HTTP, and that's because these sites use SSL, which stands for Secure Sockets Layer, and TLS, which stands for Transport Layer Security, to ensure that their users' communications remain secure, and you don't have to remember what these stand for exactly.
+> **[0:48](https://www.linkedin.com/learning/react-authentication-25660373/using-https-and-ssl?u=76281980&t=48)** If you go to sites like [[Google]] or Facebook or [[LinkedIn]], and obviously, many others as well, you'll see that, up in the left hand corner of the page, the browser displays this little lock icon, and if you look at the full URL, you'll see that it begins with HTTPS instead of just HTTP, and that's because these sites use SSL, which stands for Secure Sockets Layer, and TLS, which stands for Transport Layer Security, to ensure that their users' communications remain secure, and you don't have to remember what these stand for exactly.
 >
 > **[1:23](https://www.linkedin.com/learning/react-authentication-25660373/using-https-and-ssl?u=76281980&t=83)** It's only important that you understand the basic concepts that we're covering here.
 >
 > **[1:28](https://www.linkedin.com/learning/react-authentication-25660373/using-https-and-ssl?u=76281980&t=88)** Now, to understand why this is important, let's think back to much earlier in the course when we talked about how, when interacting with some other party via the internet, it's very hard to be certain who exactly it is that we're interacting with.
 >
-> **[1:43](https://www.linkedin.com/learning/react-authentication-25660373/using-https-and-ssl?u=76281980&t=103)** A user on our site might say, "Yeah, I'm John Doe, let me access my bank account," but in order to know for sure that this is actually the case, that this is the real John Doe, we have to use some authentication techniques, as we've seen.
+> **[1:43](https://www.linkedin.com/learning/react-authentication-25660373/using-https-and-ssl?u=76281980&t=103)** A user on our site might say, "Yeah, I'm [[John the Ripper|John]] Doe, let me access my bank account," but in order to know for sure that this is actually the case, that this is the real John Doe, we have to use some authentication techniques, as we've seen.
 >
 > **[1:58](https://www.linkedin.com/learning/react-authentication-25660373/using-https-and-ssl?u=76281980&t=118)** So while ensuring that our users are who they say they are is important, it's also important that your users can make sure that you are who you say you are and that no one else besides your site can see the requests that they're making, and that's where HTTPS or SSL or TLS or whatever name you want to use for it comes in.
 >
@@ -5442,7 +5391,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), data (3), [[React.js|React]] (2), [[Google]] (2), full-stack (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Google]] (2), [[John the Ripper|John]] (2), [[LinkedIn]] (1)
 > **Env Vars:** https (12), ssl (6), tls (5), url (2), httpss (1)
 > **Definitions:** in other words (3), stands for (2), means that (1), is a  (1)
 > **CLI Commands:** make (5), ls (1)
@@ -5451,8 +5400,7 @@ created: 2026-05-02
 > **URLs:** [google.com](https://google.com) (1)
 > **UI Navigation:** go to (1)
 
-#### Salting and peppering passwords
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/salting-and-peppering-passwords?u=76281980)
+#### [Salting and peppering passwords](https://www.linkedin.com/learning/react-authentication-25660373/salting-and-peppering-passwords?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5484,7 +5432,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/react-authentication-25660373/salting-and-peppering-passwords?u=76281980&t=105)** With hashing alone, you see, there are techniques that hackers can use to actually figure out users' passwords, even after they've been hashed, right?
 >
-> **[1:55](https://www.linkedin.com/learning/react-authentication-25660373/salting-and-peppering-passwords?u=76281980&t=115)** And these techniques are usually based on the fact that at least some of our users probably have the same very guessable strings, such as, you know, abc123 or 123456 or some word like password as their password.
+> **[1:55](https://www.linkedin.com/learning/react-authentication-25660373/salting-and-peppering-passwords?u=76281980&t=115)** And these techniques are usually based on the fact that at least some of our users probably have the same very guessable strings, such as, you know, abc123 or 123456 or some [[Microsoft Word|word]] like password as their password.
 >
 > **[2:12](https://www.linkedin.com/learning/react-authentication-25660373/salting-and-peppering-passwords?u=76281980&t=132)** And what hackers can do then is they can usually identify them directly from their hashes, because they'll see that more than one user has the same hash for their password.
 >
@@ -5500,15 +5448,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** imagine (1), such as (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Adding salt and pepper
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/solution-adding-salt-and-pepper?u=76281980)
+#### [Solution: Adding salt and pepper](https://www.linkedin.com/learning/react-authentication-25660373/solution-adding-salt-and-pepper?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5577,8 +5524,7 @@ created: 2026-05-02
 > **Speakers:** - all (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Never trust the front-end
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/never-trust-the-front-end?u=76281980)
+#### [Never trust the front-end](https://www.linkedin.com/learning/react-authentication-25660373/never-trust-the-front-end?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5596,7 +5542,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/react-authentication-25660373/never-trust-the-front-end?u=76281980&t=61)** All right, so let's just find where we did this here.
 >
-> **[1:04](https://www.linkedin.com/learning/react-authentication-25660373/never-trust-the-front-end?u=76281980&t=64)** If we take a look at the update user endpoint, remember that what we did is we checked to make sure that the ID that we were trying to update was equal to the ID that was in the JSON web token, right?
+> **[1:04](https://www.linkedin.com/learning/react-authentication-25660373/never-trust-the-front-end?u=76281980&t=64)** If we take a look at the update user endpoint, remember that what we did is we checked to make sure that the ID that we were trying to update was equal to the ID that was in the [[JSON]] web token, right?
 >
 > **[1:16](https://www.linkedin.com/learning/react-authentication-25660373/never-trust-the-front-end?u=76281980&t=76)** If we had only done this on the client-side, the user could easily get around that.
 >
@@ -5662,15 +5608,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), application (2), [[Security]] (2), database (2), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **CLI Commands:** make (9), find (2)
 > **Tools:** postman (4)
 > **Best Practices:** best practice (2), always make sure (1)
 > **Env Vars:** json (1), css (1)
 > **Speakers:** - [instructor] (1)
 
-#### Authentication error handling
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/authentication-error-handling?u=76281980)
+#### [Authentication error handling](https://www.linkedin.com/learning/react-authentication-25660373/authentication-error-handling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5698,7 +5643,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/react-authentication-25660373/authentication-error-handling?u=76281980&t=83)** That is in our signup route, we actually do return a different status code if the user already exists with that email address.
 >
-> **[1:31](https://www.linkedin.com/learning/react-authentication-25660373/authentication-error-handling?u=76281980&t=91)** And this is where a little dilemma comes in, and that is, do we maximize user experience at the expense of a little bit of safety?
+> **[1:31](https://www.linkedin.com/learning/react-authentication-25660373/authentication-error-handling?u=76281980&t=91)** And this is where a little dilemma comes in, and that is, do we maximize [[User Experience (UX)|user experience]] at the expense of a little bit of safety?
 >
 > **[1:38](https://www.linkedin.com/learning/react-authentication-25660373/authentication-error-handling?u=76281980&t=98)** Or do we maximize safety with the possibility of frustrating our users, right?
 >
@@ -5712,15 +5657,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), database (2), [[User Experience (UX)|User experience]] (2)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2)
 > **Analogies:** for example (4), such as (1)
 > **CLI Commands:** make (2), find (1)
 > **Best Practices:** best practice (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Catching & handling errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/catching-handling-errors?u=76281980)
+#### [Catching & handling errors](https://www.linkedin.com/learning/react-authentication-25660373/catching-handling-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5782,15 +5726,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), data (1), hit (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** jsx (1)
 > **UI Navigation:** scroll down (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Securing your database
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/securing-your-database?u=76281980)
+#### [Securing your database](https://www.linkedin.com/learning/react-authentication-25660373/securing-your-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5800,9 +5742,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/react-authentication-25660373/securing-your-database?u=76281980&t=10)** And this is one that most people don't even think about until it's too late, and that is securing your database.
 >
-> **[0:19](https://www.linkedin.com/learning/react-authentication-25660373/securing-your-database?u=76281980&t=19)** Now, in this course, we've used just a basic JSON based database that is by no means meant for production.
+> **[0:19](https://www.linkedin.com/learning/react-authentication-25660373/securing-your-database?u=76281980&t=19)** Now, in this course, we've used just a basic [[JSON]] based database that is by no means meant for production.
 >
-> **[0:26](https://www.linkedin.com/learning/react-authentication-25660373/securing-your-database?u=76281980&t=26)** Chances are in production, you'll probably use something like MongoDB or SQL, some sort of SQL database in order to store your data.
+> **[0:26](https://www.linkedin.com/learning/react-authentication-25660373/securing-your-database?u=76281980&t=26)** Chances are in production, you'll probably use something like [[MongoDB]] or [[SQL]], some sort of SQL database in order to store your data.
 >
 > **[0:35](https://www.linkedin.com/learning/react-authentication-25660373/securing-your-database?u=76281980&t=35)** And if you're going to publish your application and host it somewhere, what you'd probably end up doing is creating an instance of MongoDB somewhere most likely on the cloud.
 >
@@ -5816,7 +5758,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/react-authentication-25660373/securing-your-database?u=76281980&t=75)** MongoDB Atlas, just as an example, does this by default.
 >
-> **[1:19](https://www.linkedin.com/learning/react-authentication-25660373/securing-your-database?u=76281980&t=79)** However, if you're just setting up your own server from scratch and adding MongoDB to it, keep in mind that the default setup for MongoDB under many circumstances is actually to have most forms of security turned off.
+> **[1:19](https://www.linkedin.com/learning/react-authentication-25660373/securing-your-database?u=76281980&t=79)** However, if you're just setting up your own server from scratch and adding MongoDB to it, keep in mind that the default setup for MongoDB under many circumstances is actually to have most [[Forms]] of security turned off.
 >
 > **[1:32](https://www.linkedin.com/learning/react-authentication-25660373/securing-your-database?u=76281980&t=92)** And the same may be true for whatever other database type you might be using.
 >
@@ -5830,7 +5772,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), [[MongoDB]] (8), [[Security]] (4), [[SQL]] (2), data (2)
+> **Frameworks & Libraries:** [[MongoDB]] (8), [[SQL]] (2), [[JSON]] (1), [[Forms]] (1)
 > **CLI Commands:** make (2), mongo (1)
 > **Env Vars:** sql (2), json (1)
 > **Prerequisites:** setup (3)
@@ -5844,18 +5786,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps in your React journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/next-steps-in-your-react-journey?u=76281980)
+#### [Next steps in your React journey](https://www.linkedin.com/learning/react-authentication-25660373/next-steps-in-your-react-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-authentication-25660373/next-steps-in-your-react-journey?u=76281980&t=0)** - [Shaun] All right, well, congratulations on making it to the end of this course.
 >
-> **[0:04](https://www.linkedin.com/learning/react-authentication-25660373/next-steps-in-your-react-journey?u=76281980&t=4)** We have covered quite a few concepts related to user authentication in the context of React, and hopefully this really helps you going forward to make your applications more secure.
+> **[0:04](https://www.linkedin.com/learning/react-authentication-25660373/next-steps-in-your-react-journey?u=76281980&t=4)** We have covered quite a few concepts related to user authentication in the context of [[React.js|React]], and hopefully this really helps you going forward to make your applications more secure.
 >
 > **[0:17](https://www.linkedin.com/learning/react-authentication-25660373/next-steps-in-your-react-journey?u=76281980&t=17)** So before I go on to some next steps, I just want to take a moment to personally thank you for watching through this course.
 >
-> **[0:24](https://www.linkedin.com/learning/react-authentication-25660373/next-steps-in-your-react-journey?u=76281980&t=24)** Please feel free to send me a connection request on LinkedIn and I will be sure to accept it.
+> **[0:24](https://www.linkedin.com/learning/react-authentication-25660373/next-steps-in-your-react-journey?u=76281980&t=24)** Please feel free to send me a connection request on [[LinkedIn]] and I will be sure to accept it.
 >
 > **[0:29](https://www.linkedin.com/learning/react-authentication-25660373/next-steps-in-your-react-journey?u=76281980&t=29)** It's always a great way to keep in touch and hear about my upcoming courses.
 >
@@ -5871,7 +5812,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/react-authentication-25660373/next-steps-in-your-react-journey?u=76281980&t=66)** You can find that by searching for React Modern Projects and looking for the course with my name next to it.
 >
-> **[1:13](https://www.linkedin.com/learning/react-authentication-25660373/next-steps-in-your-react-journey?u=76281980&t=73)** And finally, there is a very popular course about React design patterns that would really take your development skills to another level when combined with what we learned in this course.
+> **[1:13](https://www.linkedin.com/learning/react-authentication-25660373/next-steps-in-your-react-journey?u=76281980&t=73)** And finally, there is a very popular course about React [[Design Patterns]] that would really take your development skills to another level when combined with what we learned in this course.
 >
 > **[1:24](https://www.linkedin.com/learning/react-authentication-25660373/next-steps-in-your-react-journey?u=76281980&t=84)** So feel free to search the LinkedIn Learning library for these.
 >
@@ -5881,7 +5822,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (7), next (3), [[LinkedIn]] (3), full-stack (2), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (7), [[LinkedIn]] (3), [[Design Patterns]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [shaun] (1)
@@ -5891,8 +5832,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A tour of Coderpad
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-authentication-25660373/a-tour-of-coderpad?u=76281980)
+#### [A tour of Coderpad](https://www.linkedin.com/learning/react-authentication-25660373/a-tour-of-coderpad?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5900,7 +5840,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/react-authentication-25660373/a-tour-of-coderpad?u=76281980&t=8)** So, basically, CoderPad challenges are just interactive challenges where you'll be asked to complete or modify the code in this window here, and there's a number of other tools that are provided to help you out with this, right?
 >
-> **[0:22](https://www.linkedin.com/learning/react-authentication-25660373/a-tour-of-coderpad?u=76281980&t=22)** Now, since these are going to be React-related challenges, you'll see over here on the left hand side, the results of the code that you've written in this answer block, and over here on the right hand side, underneath the answer block, this is some automated test code that will check to see whether your answer that you've created is correct or not.
+> **[0:22](https://www.linkedin.com/learning/react-authentication-25660373/a-tour-of-coderpad?u=76281980&t=22)** Now, since these are going to be [[React.js|React]]-related challenges, you'll see over here on the left hand side, the results of the code that you've written in this answer block, and over here on the right hand side, underneath the answer block, this is some automated test code that will check to see whether your answer that you've created is correct or not.
 >
 > **[0:45](https://www.linkedin.com/learning/react-authentication-25660373/a-tour-of-coderpad?u=76281980&t=45)** Now, you can run this test code just by clicking Test my code down here, and if something isn't complete or if something isn't correct, you'll see that the test will fail there, right?
 >

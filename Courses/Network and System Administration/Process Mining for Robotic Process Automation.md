@@ -83,8 +83,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course overview and benefits
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/course-overview-and-benefits?u=76281980)
+#### [Course overview and benefits](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/course-overview-and-benefits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -106,7 +105,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/course-overview-and-benefits?u=76281980&t=38)** While that's clearly an analogy, you can see how the map of potential paths gets complex quickly.
 >
-> **[0:45](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/course-overview-and-benefits?u=76281980&t=45)** The answers to these questions can be found with a technology called process mining.
+> **[0:45](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/course-overview-and-benefits?u=76281980&t=45)** The answers to these questions can be found with a technology called [[Process Mining]].
 >
 > **[0:51](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/course-overview-and-benefits?u=76281980&t=51)** My name is Ian Barkin.
 >
@@ -120,7 +119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Process Mining]] (3), career (1)
+> **Frameworks & Libraries:** [[Process Mining]] (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -131,12 +130,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining process mining
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/defining-process-mining?u=76281980)
+#### [Defining process mining](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/defining-process-mining?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/defining-process-mining?u=76281980&t=1)** - Before we get technical, let's first clarify what we mean by process mining.
+> **[0:01](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/defining-process-mining?u=76281980&t=1)** - Before we get technical, let's first clarify what we mean by [[Process Mining]].
 >
 > **[0:06](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/defining-process-mining?u=76281980&t=6)** In a broad sense, process mining describes the set of technologies that uses data to help businesses better understand their processes.
 >
@@ -178,14 +176,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Process Mining]] (13), data (6)
+> **Frameworks & Libraries:** [[Process Mining]] (13)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** such as (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - before (1)
 
-#### The value of process mining
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/the-value-of-process-mining-30318104?u=76281980)
+#### [The value of process mining](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/the-value-of-process-mining-30318104?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -195,15 +192,15 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/the-value-of-process-mining-30318104?u=76281980&t=12)** Fast forward a century, and we now live in a world of digital work, where every click, approval, and transaction leaves behind a data trail.
 >
-> **[0:22](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/the-value-of-process-mining-30318104?u=76281980&t=22)** Process mining turns that trail into a powerful visual model of how work actually happens, letting organizations move beyond anecdotal understanding into data-backed truth.
+> **[0:22](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/the-value-of-process-mining-30318104?u=76281980&t=22)** [[Process Mining]] turns that trail into a powerful visual model of how work actually happens, letting organizations move beyond anecdotal understanding into data-backed truth.
 >
 > **[0:34](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/the-value-of-process-mining-30318104?u=76281980&t=34)** But the value of process mining has grown beyond visibility.
 >
 > **[0:39](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/the-value-of-process-mining-30318104?u=76281980&t=39)** Today, it powers the intelligence behind automation and AI-driven transformation.
 >
-> **[0:45](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/the-value-of-process-mining-30318104?u=76281980&t=45)** AI agents and large language models rely on this process data to understand how work flows, identify bottlenecks, and even take autonomous corrective action.
+> **[0:45](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/the-value-of-process-mining-30318104?u=76281980&t=45)** [[AI Agents]] and [[Large Language Models (LLM)|large language models]] rely on this process data to understand how work flows, identify bottlenecks, and even take autonomous corrective action.
 >
-> **[0:57](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/the-value-of-process-mining-30318104?u=76281980&t=57)** Modern tools can now pair process maps with real-time insights, predictive analytics, and conversational interfaces.
+> **[0:57](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/the-value-of-process-mining-30318104?u=76281980&t=57)** Modern tools can now pair process maps with [[Real-Time]] insights, [[Predictive Analytics]], and conversational interfaces.
 >
 > **[1:05](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/the-value-of-process-mining-30318104?u=76281980&t=65)** You can literally ask the system questions.
 >
@@ -215,14 +212,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Process Mining]] (3), ai (3), [[Automation]] (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Process Mining]] (3), [[AI Agents]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Real-Time]] (1), [[Predictive Analytics]] (1)
 
-#### Achieving process maturity
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/achieving-process-maturity?u=76281980)
+#### [Achieving process maturity](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/achieving-process-maturity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/achieving-process-maturity?u=76281980&t=1)** - Discovering process improvement opportunities with process mining can lead to quick wins and while these can create value, they're often small wins.
+> **[0:01](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/achieving-process-maturity?u=76281980&t=1)** - Discovering process improvement opportunities with [[Process Mining]] can lead to quick wins and while these can create value, they're often small wins.
 >
 > **[0:10](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/achieving-process-maturity?u=76281980&t=10)** That should not be the end goal.
 >
@@ -244,7 +240,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Process Mining]] (4), data (1)
+> **Frameworks & Libraries:** [[Process Mining]] (4)
 > **Definitions:** means that (1)
 > **Speakers:** - discovering (1)
 
@@ -253,12 +249,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is process capture?
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/what-is-process-capture?u=76281980)
+#### [What is process capture?](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/what-is-process-capture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/what-is-process-capture?u=76281980&t=1)** - As mentioned before, process mining provides enhanced visibility compared to traditional process documentation.
+> **[0:01](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/what-is-process-capture?u=76281980&t=1)** - As mentioned before, [[Process Mining]] provides enhanced visibility compared to traditional process documentation.
 >
 > **[0:08](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/what-is-process-capture?u=76281980&t=8)** But that isn't the full story.
 >
@@ -278,14 +273,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Process Mining]] (2), data (2), next (1)
+> **Frameworks & Libraries:** [[Process Mining]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
 > **Analogies:** picture (1)
 > **Speakers:** - as (1)
 
-#### Event log capture
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/event-log-capture?u=76281980)
+#### [Event log capture](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/event-log-capture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -295,9 +289,9 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/event-log-capture?u=76281980&t=14)** Each of these events leaves behind a unique entry in an application's event log, which is automatically generated by most enterprise applications.
 >
-> **[0:23](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/event-log-capture?u=76281980&t=23)** Today, this event data is detailed and standardized enough to be mined for insights by process mining algorithms.
+> **[0:23](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/event-log-capture?u=76281980&t=23)** Today, this event data is detailed and standardized enough to be mined for insights by [[Process Mining]] [[Algorithms]].
 >
-> **[0:31](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/event-log-capture?u=76281980&t=31)** Event logs from popular enterprise software, like SAP or Salesforce are standard integrations for the top process mining tools in the market.
+> **[0:31](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/event-log-capture?u=76281980&t=31)** Event logs from popular [[Enterprise Software]], like SAP or Salesforce are standard integrations for the top process mining tools in the market.
 >
 > **[0:40](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/event-log-capture?u=76281980&t=40)** But how do the algorithms work?
 >
@@ -309,7 +303,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/event-log-capture?u=76281980&t=66)** In fact, it's nicknamed a spaghetti model in the industry for that very reason.
 >
-> **[1:12](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/event-log-capture?u=76281980&t=72)** Event log capture is good, because it's easy and convenient to connect and sync your process mining tool directly to event databases in the enterprise software tools you most frequently use.
+> **[1:12](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/event-log-capture?u=76281980&t=72)** Event log capture is good, because it's easy and convenient to connect and sync your process mining tool directly to event [[Databases]] in the enterprise software tools you most frequently use.
 >
 > **[1:24](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/event-log-capture?u=76281980&t=84)** In so doing, configuration of a process model is simplified and it can be automatically updated as the software is running.
 >
@@ -323,13 +317,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Process Mining]] (3), application (2), data (2), [[Algorithms]] (2), [[Enterprise Software]] (2)
+> **Frameworks & Libraries:** [[Process Mining]] (3), [[Algorithms]] (2), [[Enterprise Software]] (2), [[Databases]] (1)
 > **Analogies:** picture (1), such as (1)
 > **Env Vars:** sap (1)
 > **Speakers:** - event (1)
 
-#### Task capture
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/task-capture-30327023?u=76281980)
+#### [Task capture](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/task-capture-30327023?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -337,7 +330,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/task-capture-30327023?u=76281980&t=7)** Traditionally, this meant recording mouse clicks and keystrokes, but today's Task Capture tools have evolved dramatically.
 >
-> **[0:15](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/task-capture-30327023?u=76281980&t=15)** They now use computer vision, natural language processing, and multimodal AI to understand not just what a user does, but why.
+> **[0:15](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/task-capture-30327023?u=76281980&t=15)** They now use [[Computer Vision]], [[Natural Language Processing (NLP)|natural language processing]], and multimodal AI to understand not just what a user does, but why.
 >
 > **[0:25](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/task-capture-30327023?u=76281980&t=25)** These systems can recognize screen content, interpret context, and even summarize an entire workflow in plain language.
 >
@@ -347,7 +340,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/task-capture-30327023?u=76281980&t=49)** This richer, more intelligent form of task capture enables what's often called hybrid process understanding, A view that blends system data with observed human behavior.
 >
-> **[1:01](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/task-capture-30327023?u=76281980&t=61)** It's especially powerful when used to train AI agents and automation tools, since it helps them learn from human expertise safely and efficiently.
+> **[1:01](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/task-capture-30327023?u=76281980&t=61)** It's especially powerful when used to train [[AI Agents]] and automation tools, since it helps them learn from human expertise safely and efficiently.
 >
 > **[1:11](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/task-capture-30327023?u=76281980&t=71)** The result is a living, adaptive understanding of how work happens.
 >
@@ -355,7 +348,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Automation]] (2), [[Computer Vision]] (1), data (1), [[Orchestration]] (1)
+> **Frameworks & Libraries:** [[Computer Vision]] (1), [[AI Agents]] (1)
 > **Definitions:** is a  (1)
 
 
@@ -363,8 +356,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building a business case
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/building-a-business-case?u=76281980)
+#### [Building a business case](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/building-a-business-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -384,21 +376,20 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/building-a-business-case?u=76281980&t=52)** Or what if the most costly process variants are only costly because of an easily solvable bottleneck that was never brought to your attention?
 >
-> **[1:00](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/building-a-business-case?u=76281980&t=60)** Depending on the business critical metrics being targeted, there are several types of features within process mining that can each in their own way, shed light on the inner workings of a process.
+> **[1:00](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/building-a-business-case?u=76281980&t=60)** Depending on the business critical metrics being targeted, there are several types of features within [[Process Mining]] that can each in their own way, shed light on the inner workings of a process.
 >
 > **[1:12](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/building-a-business-case?u=76281980&t=72)** To give you a taste of what to expect, I'll next introduce the most common process exploration features you'll come across.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), data (2), [[Process Mining]] (1), next (1)
+> **Frameworks & Libraries:** [[Process Mining]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** imagine (1), for instance (1)
 > **Cross-References:** we discussed (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - going (1)
 
-#### Task mining
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/task-mining?u=76281980)
+#### [Task mining](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/task-mining?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -416,16 +407,15 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/task-mining?u=76281980&t=55)** Each of these task mining examples show how a process analyst is able to observe the detailed reality of how processes are executed at the most granular level.
 >
-> **[1:06](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/task-mining?u=76281980&t=66)** This level of detail is good if the goal is to discover automation opportunities or optimize productivity, which is why task mining compliments technologies like robotic process automation.
+> **[1:06](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/task-mining?u=76281980&t=66)** This level of detail is good if the goal is to discover automation opportunities or optimize productivity, which is why task mining compliments technologies like [[Robotic Process Automation (RPA)|robotic process automation]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), feature (1), data (1), [[Automation]] (1), [[Robotic Process Automation (RPA)|Robotic process automation]] (1)
+> **Frameworks & Libraries:** [[Robotic Process Automation (RPA)|Robotic process automation]] (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - the (1)
 
-#### Identifying deviations and variations
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/identifying-deviations-and-variations?u=76281980)
+#### [Identifying deviations and variations](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/identifying-deviations-and-variations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -451,13 +441,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), next (1), data (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (1), in other words (1)
 > **Speakers:** - the (1)
 
-#### Conformance checking
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/conformance-checking?u=76281980)
+#### [Conformance checking](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/conformance-checking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -481,23 +469,22 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/conformance-checking?u=76281980&t=80)** And some may say I'm being generous.
 >
-> **[1:23](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/conformance-checking?u=76281980&t=83)** The point is that conformance checking features are built into process mining to help identify nonconformance and to make the most sense of it as possible.
+> **[1:23](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/conformance-checking?u=76281980&t=83)** The point is that conformance checking features are built into [[Process Mining]] to help identify nonconformance and to make the most sense of it as possible.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), next (1), hit (1), [[Process Mining]] (1)
+> **Frameworks & Libraries:** [[Process Mining]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### Filters and layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/filters-and-layers?u=76281980)
+#### [Filters and layers](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/filters-and-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/filters-and-layers?u=76281980&t=1)** - If you've used Microsoft Excel, you may have created a table with multiple columns and then filtered the rows in the table based on one or many columns at once.
+> **[0:01](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/filters-and-layers?u=76281980&t=1)** - If you've used [[Microsoft Excel]], you may have created a table with multiple columns and then filtered the rows in the table based on one or many columns at once.
 >
-> **[0:11](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/filters-and-layers?u=76281980&t=11)** The same principle's also seen in process mining in the form of filters and layers.
+> **[0:11](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/filters-and-layers?u=76281980&t=11)** The same principle's also seen in [[Process Mining]] in the form of filters and layers.
 >
 > **[0:17](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/filters-and-layers?u=76281980&t=17)** These help analysts narrow down the view of a process model, based on various attributes that were collected in process capture.
 >
@@ -505,9 +492,9 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/filters-and-layers?u=76281980&t=38)** A brief example will help illustrate the value of this feature.
 >
-> **[0:43](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/filters-and-layers?u=76281980&t=43)** Let's say you are in charge of technical support for multiple consumer electronics products like cameras, laptops and computer monitors.
+> **[0:43](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/filters-and-layers?u=76281980&t=43)** Let's say you are in charge of [[Technical Support]] for multiple consumer [[Electronics]] [[Microsoft Products|products]] like cameras, laptops and computer monitors.
 >
-> **[0:52](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/filters-and-layers?u=76281980&t=52)** You find out that this past month one product in particular is getting online complaints for poor customer support.
+> **[0:52](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/filters-and-layers?u=76281980&t=52)** You find out that this past month one product in particular is getting online complaints for poor [[Customer Support]].
 >
 > **[0:59](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/filters-and-layers?u=76281980&t=59)** You wonder, what's the cause?
 >
@@ -527,21 +514,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Process Mining]] (3), [[Technical Support]] (3), [[Microsoft Excel]] (1), data (1)
+> **Frameworks & Libraries:** [[Process Mining]] (3), [[Technical Support]] (3), [[Microsoft Excel]] (1), [[Electronics]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - if (1)
 
-#### Machine learning and other intelligent features
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/machine-learning-and-other-intelligent-features-30306113?u=76281980)
+#### [Machine learning and other intelligent features](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/machine-learning-and-other-intelligent-features-30306113?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/machine-learning-and-other-intelligent-features-30306113?u=76281980&t=0)** Machine learning has always been part of process mining, but its role has expanded.
+> **[0:00](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/machine-learning-and-other-intelligent-features-30306113?u=76281980&t=0)** Machine learning has always been part of [[Process Mining]], but its role has expanded.
 >
-> **[0:06](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/machine-learning-and-other-intelligent-features-30306113?u=76281980&t=6)** Originally, algorithms were used to find patterns, detect anomalies, and predict outcomes.
+> **[0:06](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/machine-learning-and-other-intelligent-features-30306113?u=76281980&t=6)** Originally, [[Algorithms]] were used to find patterns, detect anomalies, and predict outcomes.
 >
-> **[0:12](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/machine-learning-and-other-intelligent-features-30306113?u=76281980&t=12)** Now, with the rise of generative AI and agentic AI, these systems are capable of much more.
+> **[0:12](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/machine-learning-and-other-intelligent-features-30306113?u=76281980&t=12)** Now, with the rise of [[Generative AI]] and agentic AI, these systems are capable of much more.
 >
 > **[0:19](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/machine-learning-and-other-intelligent-features-30306113?u=76281980&t=19)** Today's intelligent features can simulate, generate, and even orchestrate process changes automatically.
 >
@@ -549,17 +535,17 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/machine-learning-and-other-intelligent-features-30306113?u=76281980&t=32)** Or ask an AI assistant to explain the root cause of a delay in natural language.
 >
-> **[0:38](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/machine-learning-and-other-intelligent-features-30306113?u=76281980&t=38)** Some emerging capabilities include generative simulation, using large language models to model what-if scenarios and propose improved process designs.
+> **[0:38](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/machine-learning-and-other-intelligent-features-30306113?u=76281980&t=38)** Some emerging capabilities include generative [[Simulation]], using [[Large Language Models (LLM)|large language models]] to model what-if scenarios and propose improved process designs.
 >
 > **[0:51](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/machine-learning-and-other-intelligent-features-30306113?u=76281980&t=51)** Autonomous root cause analysis.
 >
-> **[0:54](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/machine-learning-and-other-intelligent-features-30306113?u=76281980&t=54)** AI agents that continuously monitor for anomalies and suggest fixes, conversational analytics, the ability to ask questions and receive process insights in real time.
+> **[0:54](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/machine-learning-and-other-intelligent-features-30306113?u=76281980&t=54)** [[AI Agents]] that continuously monitor for anomalies and suggest fixes, conversational analytics, the ability to ask questions and receive process insights in real time.
 >
 > **[1:07](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/machine-learning-and-other-intelligent-features-30306113?u=76281980&t=67)** These tools transform process mining from a static analytical platform into a dynamic decision partner, a system that learns, predicts, and collaborates with human teams to drive ongoing improvement.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Algorithms]] (1), [[Generative AI]] (1), [[Automation]] (1), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Generative AI]] (1), [[Simulation]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[AI Agents]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 
@@ -568,8 +554,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Optimizing and redesigning processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/optimizing-and-redesigning-processes-30321097?u=76281980)
+#### [Optimizing and redesigning processes](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/optimizing-and-redesigning-processes-30321097?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -581,7 +566,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/optimizing-and-redesigning-processes-30321097?u=76281980&t=24)** Today, both approaches are being accelerated by AI.
 >
-> **[0:28](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/optimizing-and-redesigning-processes-30321097?u=76281980&t=28)** Process mining data can now feed directly into AI co-designers or agentic modeling tools that simulate future state processes in minutes.
+> **[0:28](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/optimizing-and-redesigning-processes-30321097?u=76281980&t=28)** [[Process Mining]] data can now feed directly into AI co-designers or agentic modeling tools that simulate future state processes in minutes.
 >
 > **[0:39](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/optimizing-and-redesigning-processes-30321097?u=76281980&t=39)** These systems use generative reasoning to propose new workflows, test alternatives, and estimate ROI automatically.
 >
@@ -593,17 +578,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Process Mining]] (2), data (2), [[Engineering]] (1), next (1)
+> **Frameworks & Libraries:** [[Process Mining]] (2)
 > **Env Vars:** roi (1)
 
-#### Using robotic process automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/using-robotic-process-automation-30326028?u=76281980)
+#### [Using robotic process automation](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/using-robotic-process-automation-30326028?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/using-robotic-process-automation-30326028?u=76281980&t=0)** Whether you choose to optimize or redesign, automation inevitably plays a role.
 >
-> **[0:06](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/using-robotic-process-automation-30326028?u=76281980&t=6)** Historically, this meant robotic process automation.
+> **[0:06](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/using-robotic-process-automation-30326028?u=76281980&t=6)** Historically, this meant [[Robotic Process Automation (RPA)|robotic process automation]].
 >
 > **[0:09](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/using-robotic-process-automation-30326028?u=76281980&t=9)** Bots that mimic human actions like typing, clicking, or moving data between systems.
 >
@@ -611,9 +595,9 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/using-robotic-process-automation-30326028?u=76281980&t=22)** In this model, RPA bots handle deterministic tasks.
 >
-> **[0:26](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/using-robotic-process-automation-30326028?u=76281980&t=26)** AI models handle pattern recognition and prediction, and AI agents coordinate activity across systems.
+> **[0:26](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/using-robotic-process-automation-30326028?u=76281980&t=26)** AI models handle pattern recognition and prediction, and [[AI Agents]] coordinate activity across systems.
 >
-> **[0:34](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/using-robotic-process-automation-30326028?u=76281980&t=34)** Process Mining provides the foundation that connects these layers.
+> **[0:34](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/using-robotic-process-automation-30326028?u=76281980&t=34)** [[Process Mining]] provides the foundation that connects these layers.
 >
 > **[0:38](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/using-robotic-process-automation-30326028?u=76281980&t=38)** It identifies which steps are best suited for bots, which require judgment, and where human oversight is essential.
 >
@@ -627,7 +611,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (5), data (4), ai (3), rpa (2), [[Process Mining]] (2)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[Process Mining]] (2), [[Robotic Process Automation (RPA)|Robotic process automation]] (1)
 > **Env Vars:** rpa (2)
 > **Definitions:** known as (1), is a  (1)
 
@@ -636,12 +620,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Outcome measurement and auditing
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/outcome-measurement-and-auditing?u=76281980)
+#### [Outcome measurement and auditing](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/outcome-measurement-and-auditing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/outcome-measurement-and-auditing?u=76281980&t=1)** - The final category of uses for process mining is process oversight.
+> **[0:01](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/outcome-measurement-and-auditing?u=76281980&t=1)** - The final category of uses for [[Process Mining]] is process oversight.
 >
 > **[0:06](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/outcome-measurement-and-auditing?u=76281980&t=6)** Rather than seeing it as the last step in the sequence, you should think of process oversight as an extension of process exploration that continues into the foreseeable future.
 >
@@ -667,51 +650,49 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Process Mining]] (2), data (1), feature (1), next (1)
+> **Frameworks & Libraries:** [[Process Mining]] (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - the (1)
 
-#### Runtime monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/runtime-monitoring-30326029?u=76281980)
+#### [Runtime monitoring](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/runtime-monitoring-30326029?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/runtime-monitoring-30326029?u=76281980&t=0)** If traditional process documentation was like taking a snapshot, runtime monitoring is like streaming a live feed.
 >
-> **[0:08](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/runtime-monitoring-30326029?u=76281980&t=8)** Process mining tools now continuously capture event data from systems as work happens.
+> **[0:08](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/runtime-monitoring-30326029?u=76281980&t=8)** [[Process Mining]] tools now continuously capture event data from systems as work happens.
 >
 > **[0:14](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/runtime-monitoring-30326029?u=76281980&t=14)** But today's monitoring goes even further.
 >
-> **[0:17](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/runtime-monitoring-30326029?u=76281980&t=17)** AI agents can watch these data streams in real time, detect anomalies, and automatically trigger corrective actions, rerouting cases, escalating exceptions, or recommending process changes.
+> **[0:17](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/runtime-monitoring-30326029?u=76281980&t=17)** [[AI Agents]] can watch these data streams in real time, detect anomalies, and automatically trigger corrective actions, rerouting cases, escalating exceptions, or recommending process changes.
 >
 > **[0:31](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/runtime-monitoring-30326029?u=76281980&t=31)** Organizations are also adopting digital twins of the organization, virtual replicas of business processes that allow AI to test adjustments safely before deploying them live.
 >
-> **[0:44](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/runtime-monitoring-30326029?u=76281980&t=44)** This combination of continuous monitoring and agentic intervention creates a self-optimizing feedback loop.
+> **[0:44](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/runtime-monitoring-30326029?u=76281980&t=44)** This combination of [[Continuous Monitoring]] and agentic intervention creates a self-optimizing feedback loop.
 >
 > **[0:52](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/runtime-monitoring-30326029?u=76281980&t=52)** processes no longer just get measured.
 >
 > **[0:55](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/runtime-monitoring-30326029?u=76281980&t=55)** They adapt dynamically to conditions as they occur.
 >
-> **[0:59](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/runtime-monitoring-30326029?u=76281980&t=59)** In effect, real-time process oversight is becoming real-time process co-piloting, where AI and humans work side-by-side to keep operations efficient, compliant, and resilient.
+> **[0:59](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/runtime-monitoring-30326029?u=76281980&t=59)** In effect, [[Real-Time]] process oversight is becoming real-time process co-piloting, where AI and humans work side-by-side to keep operations efficient, compliant, and resilient.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), data (2), [[Real-Time]] (2), [[Process Mining]] (1), business (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Process Mining]] (1), [[AI Agents]] (1), [[Continuous Monitoring]] (1)
 
 
 ### Conclusion
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course takeaways
-> [LinkedIn Learning](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/course-takeaways?u=76281980)
+#### [Course takeaways](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/course-takeaways?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/course-takeaways?u=76281980&t=1)** - Congratulations on completing this course.
 >
-> **[0:04](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/course-takeaways?u=76281980&t=4)** You now understand what process mining is and how organizations are making use of it to gain enhanced visibility of their processes so they can more quickly and efficiently achieve process maturity.
+> **[0:04](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/course-takeaways?u=76281980&t=4)** You now understand what [[Process Mining]] is and how organizations are making use of it to gain enhanced visibility of their processes so they can more quickly and efficiently achieve process maturity.
 >
 > **[0:15](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/course-takeaways?u=76281980&t=15)** You've also learned the four stages in achieving process maturity with process mining.
 >
@@ -719,11 +700,11 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/course-takeaways?u=76281980&t=27)** Within these stages, you're now familiar with the most relevant features found in process mining tools and how they work.
 >
-> **[0:34](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/course-takeaways?u=76281980&t=34)** Most importantly, you now have the proper foundations to be an informed contributor on digital transformation programs in your organization and wherever your career may take you.
+> **[0:34](https://www.linkedin.com/learning/process-mining-for-robotic-process-automation/course-takeaways?u=76281980&t=34)** Most importantly, you now have the proper foundations to be an informed contributor on [[Digital Transformation]] programs in your organization and wherever your career may take you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Process Mining]] (3), [[Digital Transformation]] (1), career (1)
+> **Frameworks & Libraries:** [[Process Mining]] (3), [[Digital Transformation]] (1)
 > **Speakers:** - congratulations (1)
 
 

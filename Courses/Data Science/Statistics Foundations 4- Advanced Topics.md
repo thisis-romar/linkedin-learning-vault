@@ -77,12 +77,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of advanced statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/the-power-of-advanced-statistics?u=76281980)
+#### [The power of advanced statistics](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/the-power-of-advanced-statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/the-power-of-advanced-statistics?u=76281980&t=0)** - Statistics are everywhere and the world is taking notice.
+> **[0:00](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/the-power-of-advanced-statistics?u=76281980&t=0)** - [[Statistics]] are everywhere and the world is taking notice.
 >
 > **[0:04](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/the-power-of-advanced-statistics?u=76281980&t=4)** It doesn't matter what industry you're in.
 >
@@ -126,7 +125,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (10), data (1), business (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (10)
 > **CLI Commands:** find (1)
 > **Env Vars:** anova (1)
 > **Speakers:** - statistics (1)
@@ -136,12 +135,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explanation of two population comparisons
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/explanation-of-two-population-comparisons?u=76281980)
+#### [Explanation of two population comparisons](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/explanation-of-two-population-comparisons?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/explanation-of-two-population-comparisons?u=76281980&t=0)** - In a previous course, statistics foundations using data sets, we discovered two very helpful concepts, confidence intervals and hypothesis-testing.
+> **[0:00](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/explanation-of-two-population-comparisons?u=76281980&t=0)** - In a previous course, [[Statistics]] foundations using data sets, we discovered two very helpful concepts, confidence intervals and hypothesis-testing.
 >
 > **[0:10](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/explanation-of-two-population-comparisons?u=76281980&t=10)** Both have the power to give us helpful information with only a single sample.
 >
@@ -187,12 +185,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Statistics]] (1), power (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
-#### Two population: Confidence interval example
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/two-population-confidence-interval-example?u=76281980)
+#### [Two population: Confidence interval example](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/two-population-confidence-interval-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -326,7 +323,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Versions:** 0.0109 (3), 0.0226 (2), 0.0117 (2), 1.96 (2), 2.26 (1)
 > **CLI Commands:** find (6)
 > **Definitions:** is a  (2), means that (1), in other words (1)
@@ -335,8 +331,7 @@ created: 2026-05-02
 > **Warnings:** important note (1)
 > **Speakers:** - so (1)
 
-#### Two population: Hypothesis test example
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/two-population-hypothesis-test-example?u=76281980)
+#### [Two population: Hypothesis test example](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/two-population-hypothesis-test-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -366,7 +361,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/two-population-hypothesis-test-example?u=76281980&t=60)** 72 of those people suffered a heart attack.
 >
-> **[1:04](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/two-population-hypothesis-test-example?u=76281980&t=64)** What's the probability that even without the new drug or placebo, these same people would've suffered heart attacks.
+> **[1:04](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/two-population-hypothesis-test-example?u=76281980&t=64)** What's the [[Probability]] that even without the new drug or placebo, these same people would've suffered heart attacks.
 >
 > **[1:12](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/two-population-hypothesis-test-example?u=76281980&t=72)** Perhaps these 4,254 people were randomly put into two groups and one group just happened to get a lot more of the people that would end up having a heart attack.
 >
@@ -410,7 +405,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/two-population-hypothesis-test-example?u=76281980&t=216)** If our outcome of 0.0109 is less than 5% likely in this distribution, well, we'd reject the null hypothesis and we could feel fairly confident that our sample data did not happen by chance.
 >
-> **[3:53](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/two-population-hypothesis-test-example?u=76281980&t=233)** As in previous hypothesis tests, what we've seen in the statistics foundation series, the test statistic will be a Z statistic.
+> **[3:53](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/two-population-hypothesis-test-example?u=76281980&t=233)** As in previous hypothesis tests, what we've seen in the [[Statistics]] foundation series, the test statistic will be a Z statistic.
 >
 > **[4:03](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/two-population-hypothesis-test-example?u=76281980&t=243)** In this case, we're using the Z statistic for a hypothesis test for the difference between two proportions.
 >
@@ -480,7 +475,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Probability]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1), [[Statistics]] (1)
 > **Versions:** 0.0109 (5), 0.0226 (3), 0.0117 (3), 2.73 (3), 0.004 (2)
 > **Definitions:** in other words (2), is a  (1)
 > **CLI Commands:** find (2)
@@ -492,8 +487,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explanation of two population mean comparisons
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/explanation-of-two-population-mean-comparisons?u=76281980)
+#### [Explanation of two population mean comparisons](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/explanation-of-two-population-mean-comparisons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -551,13 +545,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), data (1)
 > **Prerequisites:** required to (2)
 > **Definitions:** in other words (1)
 > **Speakers:** - consider (1)
 
-#### Visualization: Re-randomizing
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/visualization-re-randomizing?u=76281980)
+#### [Visualization: Re-randomizing](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/visualization-re-randomizing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -659,12 +651,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **Definitions:** is a  (1), in other words (1)
 > **Speakers:** - a (1)
 
-#### Two population means: Confidence interval example
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/two-population-means-confidence-interval-example?u=76281980)
+#### [Two population means: Confidence interval example](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/two-population-means-confidence-interval-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -722,7 +712,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/two-population-means-confidence-interval-example?u=76281980&t=163)** The true difference of population means is equal to the observed difference between the sample means plus or minus our critical value times the standard error.
 >
-> **[2:56](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/two-population-means-confidence-interval-example?u=76281980&t=176)** Here's what it looks like using our statistics notation.
+> **[2:56](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/two-population-means-confidence-interval-example?u=76281980&t=176)** Here's what it looks like using our [[Statistics]] notation.
 >
 > **[2:59](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/two-population-means-confidence-interval-example?u=76281980&t=179)** So, let's start plugging in our sample data.
 >
@@ -768,7 +758,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Versions:** 2.5 (3), 2.1 (3), 1.19 (3), 16.2 (2), 14.1 (2)
 > **CLI Commands:** find (3)
 > **Cross-References:** previous video (1), we discussed (1)
@@ -776,8 +766,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - in (1)
 
-#### Two population means: Hypothesis test example
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/two-population-means-hypothesis-test-example?u=76281980)
+#### [Two population means: Hypothesis test example](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/two-population-means-hypothesis-test-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -885,7 +874,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Versions:** 2.1 (5), 2.33 (4), 2.5 (2), 3.6 (2), 0.99 (2)
 > **Definitions:** means that (2), in other words (1), is an  (1)
 > **CLI Commands:** find (2), make (1)
@@ -896,8 +884,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### T-distribution vs. z-distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/t-distribution-vs-z-distribution?u=76281980)
+#### [T-distribution vs. z-distribution](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/t-distribution-vs-z-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -963,14 +950,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1)
 > **Versions:** 1.96 (2), 1.0 (1), 4.303 (1), 2.262 (1), 2.093 (1)
 > **Cross-References:** next video (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - sometimes (1)
 
-#### T-score tables and degrees of freedom
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/t-score-tables-and-degrees-of-freedom?u=76281980)
+#### [T-score tables and degrees of freedom](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/t-score-tables-and-degrees-of-freedom?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1004,7 +989,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/t-score-tables-and-degrees-of-freedom?u=76281980&t=86)** As you can see along the top, you see the confidence levels.
 >
-> **[1:31](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/t-score-tables-and-degrees-of-freedom?u=76281980&t=91)** They are listed as ts with a probability, and also as one or two tail tests.
+> **[1:31](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/t-score-tables-and-degrees-of-freedom?u=76281980&t=91)** They are listed as ts with a [[Probability]], and also as one or two tail tests.
 >
 > **[1:38](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/t-score-tables-and-degrees-of-freedom?u=76281980&t=98)** Along the left side, you have a column labeled as DF.
 >
@@ -1058,7 +1043,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (1), data (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Versions:** 0.05 (2), 2.5 (1), 0.975 (1), 3.182 (1), 2.262 (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** previous video (1), go back to (1)
@@ -1066,8 +1051,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - z (1)
 
-#### Use T-scores to develop confidence intervals
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/use-t-scores-to-develop-confidence-intervals?u=76281980)
+#### [Use T-scores to develop confidence intervals](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/use-t-scores-to-develop-confidence-intervals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1149,7 +1133,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Versions:** 2.821 (3), 9.34 (3), 29.51 (2), 2.262 (2), 0.02 (1)
 > **CLI Commands:** find (5)
 > **Cross-References:** go back to (1)
@@ -1161,8 +1144,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### ANOVA: What is analysis of variance?
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/anova-what-is-analysis-of-variance?u=76281980)
+#### [ANOVA: What is analysis of variance?](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/anova-what-is-analysis-of-variance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1248,15 +1230,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6)
 > **Env Vars:** anova (13)
 > **Analogies:** for example (2)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - earlier (1)
 
-#### One-way ANOVA and the sum of squares total (SST)
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/one-way-anova-and-the-sum-of-squares-total-sst?u=76281980)
+#### [One-way ANOVA and the sum of squares total (SST)](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/one-way-anova-and-the-sum-of-squares-total-sst?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1328,7 +1308,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), next (2)
 > **Env Vars:** sst (4), anova (2)
 > **Definitions:** stands for (1), means that (1)
 > **CLI Commands:** find (1)
@@ -1336,8 +1315,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - as (1)
 
-#### Sum of squares within (SSW) and sum of squares between (SSB)
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/sum-of-squares-within-ssw-and-sum-of-squares-between-ssb?u=76281980)
+#### [Sum of squares within (SSW) and sum of squares between (SSB)](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/sum-of-squares-within-ssw-and-sum-of-squares-between-ssb?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1417,7 +1395,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20)
 > **Env Vars:** ssw (3), sst (2), ssb (2), anova (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** previous video (1)
@@ -1425,8 +1402,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - so (1)
 
-#### F-statistic and ANOVA hypothesis test example
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/f-statistic-and-anova-hypothesis-test-example?u=76281980)
+#### [F-statistic and ANOVA hypothesis test example](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/f-statistic-and-anova-hypothesis-test-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1576,7 +1552,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (2)
 > **Env Vars:** ssw (4), ssb (4), sst (2), anova (1)
 > **Definitions:** is a  (5), means that (2), in other words (1), we call this (1)
 > **Versions:** 3.49 (3), 2.91 (2)
@@ -1589,8 +1564,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is regression?
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/what-is-regression?u=76281980)
+#### [What is regression?](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/what-is-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1684,7 +1658,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), hit (2), next (1)
 > **CLI Commands:** find (4)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -1692,8 +1665,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - welcome (1)
 
-#### Regression best fit line
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/regression-best-fit-line?u=76281980)
+#### [Regression best fit line](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/regression-best-fit-line?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1779,7 +1751,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), express (1), product (1)
 > **CLI Commands:** find (5), make (1)
 > **Versions:** 8.83 (3), 218.7 (1)
 > **Definitions:** is a  (1), means that (1)
@@ -1787,8 +1758,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - the (1)
 
-#### Coefficient of determination (R-squared)
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/coefficient-of-determination-r-squared?u=76281980)
+#### [Coefficient of determination (R-squared)](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/coefficient-of-determination-r-squared?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1902,7 +1872,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (1)
 > **Env Vars:** ssr (9), sst (9)
 > **Versions:** 272.8 (2), 0.945 (2), 156.8 (1), 784.2 (1), 1.0 (1)
 > **Definitions:** is a  (4), stands for (2), in other words (1), is an  (1), means that (1)
@@ -1911,8 +1880,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - in (1)
 
-#### The correlation coefficient
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/the-correlation-coefficient?u=76281980)
+#### [The correlation coefficient](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/the-correlation-coefficient?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1974,7 +1942,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6)
 > **Versions:** 0.945 (2), 0.42 (2), 8.83 (1), 0.972 (1), 0.85 (1)
 > **Definitions:** is a  (1), is called (1), is an  (1)
 > **Cross-References:** previous video (1)
@@ -1986,14 +1953,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/next-steps-and-additional-resources?u=76281980)
+#### [Next steps and additional resources](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/next-steps-and-additional-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/next-steps-and-additional-resources?u=76281980&t=0)** - Congratulations, you made it.
 >
-> **[0:02](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/next-steps-and-additional-resources?u=76281980&t=2)** Your adventure through my four-part "Statistics Foundations" series is complete.
+> **[0:02](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/next-steps-and-additional-resources?u=76281980&t=2)** Your adventure through my four-part "[[Statistics]] Foundations" series is complete.
 >
 > **[0:07](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/next-steps-and-additional-resources?u=76281980&t=7)** Means, medians, standard deviations, probabilities, sampling, confidence intervals and hypothesis tests.
 >
@@ -2017,7 +1983,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/next-steps-and-additional-resources?u=76281980&t=70)** Perhaps you can start your journey into analytics or maybe you can begin to build business solutions that are based on data.
 >
-> **[1:20](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/next-steps-and-additional-resources?u=76281980&t=80)** If any of that sounds interesting, you can follow me here on LinkedIn for more statistics and business courses.
+> **[1:20](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/next-steps-and-additional-resources?u=76281980&t=80)** If any of that sounds interesting, you can follow me here on [[LinkedIn]] for more statistics and business courses.
 >
 > **[1:27](https://www.linkedin.com/learning/statistics-foundations-4-advanced-topics/next-steps-and-additional-resources?u=76281980&t=87)** Whatever you do, your statistics skills will be an excellent tool in meeting nearly any challenge.
 >
@@ -2025,7 +1991,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (6), business (3), next (1), [[Analytics]] (1), data (1)
+> **Frameworks & Libraries:** [[Statistics]] (6), [[LinkedIn]] (1)
 > **Env Vars:** anova (1)
 > **Speakers:** - congratulations (1)
 

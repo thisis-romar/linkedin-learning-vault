@@ -98,12 +98,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Features for data engineering pipeline management
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/features-for-data-engineering-pipeline-management?u=76281980)
+#### [Features for data engineering pipeline management](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/features-for-data-engineering-pipeline-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/features-for-data-engineering-pipeline-management?u=76281980&t=1)** - Hi, and welcome to this course on Data Engineering Pipeline Management with Apache Airflow.
+> **[0:01](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/features-for-data-engineering-pipeline-management?u=76281980&t=1)** - Hi, and welcome to this course on [[Data Engineering]] Pipeline Management with [[Apache Airflow]].
 >
 > **[0:06](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/features-for-data-engineering-pipeline-management?u=76281980&t=6)** Now, in this course, I assume that you are familiar with the basic concepts of Apache Airflow, and you know how to use Airflow to execute your workflows.
 >
@@ -211,7 +210,7 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/features-for-data-engineering-pipeline-management?u=76281980&t=330)** Now, we know that Airflow executors are responsible for running tasks in our workflow, and so far, you've likely used the SequentialExecutor that runs tasks sequentially on your local machine and the LocalExecutor that runs tasks in parallel on your local machine.
 >
-> **[5:46](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/features-for-data-engineering-pipeline-management?u=76281980&t=346)** But tasks can also be run in a distributed manner on Celery or on Kubernetes using remote executors.
+> **[5:46](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/features-for-data-engineering-pipeline-management?u=76281980&t=346)** But tasks can also be run in a distributed manner on Celery or on [[Kubernetes]] using remote executors.
 >
 > **[5:55](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/features-for-data-engineering-pipeline-management?u=76281980&t=355)** Both the Celery and the Kubernetes executor allow tasks to run in parallel on a distributed framework.
 >
@@ -219,7 +218,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (6), next (6), [[Apache Airflow]] (5), data (5), parallel (2)
+> **Frameworks & Libraries:** [[Apache Airflow]] (5), [[Kubernetes]] (2), [[Data Engineering]] (1)
 > **Env Vars:** dag (7), sla (4)
 > **CLI Commands:** apache (5)
 > **Definitions:** is a  (4)
@@ -233,18 +232,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/prerequisites?u=76281980)
+#### [Prerequisites](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/prerequisites?u=76281980&t=1)** - [Instructor] Before we get to the content, let's discuss some of the pre-reqs that you need to have to make the most of your learning.
 >
-> **[0:07](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/prerequisites?u=76281980&t=7)** Now, this is not a beginner level course on Apache Airflow.
+> **[0:07](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/prerequisites?u=76281980&t=7)** Now, this is not a beginner level course on [[Apache Airflow]].
 >
 > **[0:11](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/prerequisites?u=76281980&t=11)** I assume that you're familiar and comfortable with Apache Airflow concepts and you've used Apache Airflow before to model your workflows.
 >
-> **[0:20](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/prerequisites?u=76281980&t=20)** If you feel that you lack the pre-reqs for this course, here are some other courses on LinkedIn Learning that you might want to study first.
+> **[0:20](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/prerequisites?u=76281980&t=20)** If you feel that you lack the pre-reqs for this course, here are some other courses on [[LinkedIn]] Learning that you might want to study first.
 >
 > **[0:27](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/prerequisites?u=76281980&t=27)** [[Learning Apache Airflow]] is a beginner level course that does not assume any previous airflow knowledge, and Apache Airflow Essential Training builds on the concepts that you'll study in [[Learning Apache Airflow]].
 
@@ -256,22 +254,21 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Quick install overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/quick-install-overview?u=76281980)
+#### [Quick install overview](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/quick-install-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/quick-install-overview?u=76281980&t=1)** - [Instructor] Since I assume that you're familiar with Airflow at this point in time and you watched the courses that are prerequisites to this course, you should have an Airflow installation up and running on your local machine, whether it's a Linux machine or a Mac machine.
+> **[0:01](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/quick-install-overview?u=76281980&t=1)** - [Instructor] Since I assume that you're familiar with Airflow at this point in time and you watched the courses that are prerequisites to this course, you should have an Airflow installation up and running on your local machine, whether it's a [[Linux]] machine or a Mac machine.
 >
 > **[0:14](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/quick-install-overview?u=76281980&t=14)** I'll quickly show you what my local installation of Airflow looks like.
 >
 > **[0:18](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/quick-install-overview?u=76281980&t=18)** I'm running Airflow in a production setup.
 >
-> **[0:20](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/quick-install-overview?u=76281980&t=20)** That is I'm using PostgreSQL as my metadata database.
+> **[0:20](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/quick-install-overview?u=76281980&t=20)** That is I'm using [[PostgreSQL]] as my [[Metadata]] database.
 >
 > **[0:25](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/quick-install-overview?u=76281980&t=25)** I'm running Airflow within a virtual environment.
 >
-> **[0:28](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/quick-install-overview?u=76281980&t=28)** Notice I have Python 3.7 as a virtual environment here.
+> **[0:28](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/quick-install-overview?u=76281980&t=28)** Notice I have [[Python (Programming Language)|Python]] 3.7 as a virtual environment here.
 >
 > **[0:31](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/quick-install-overview?u=76281980&t=31)** This is the environment that I'm going to activate.
 >
@@ -287,7 +284,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/quick-install-overview?u=76281980&t=50)** Now I already have PostgreSQL installed and running on my machine.
 >
-> **[0:55](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/quick-install-overview?u=76281980&t=55)** You can see that if I open PostgreS I have PostgreSQL 15 running, and there are already some default databases set up there.
+> **[0:55](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/quick-install-overview?u=76281980&t=55)** You can see that if I open [[PostgreSQL|PostgreS]] I have PostgreSQL 15 running, and there are already some default [[Databases]] set up there.
 >
 > **[1:04](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/quick-install-overview?u=76281980&t=64)** If you look to the top left you can see that PostgreS is running on port 5432.
 >
@@ -311,7 +308,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/quick-install-overview?u=76281980&t=130)** This is what allows multiple connections.
 >
-> **[2:12](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/quick-install-overview?u=76281980&t=132)** SQL Light does not allow for parallel execution of tasks.
+> **[2:12](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/quick-install-overview?u=76281980&t=132)** [[SQL]] Light does not allow for parallel execution of tasks.
 >
 > **[2:17](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/quick-install-overview?u=76281980&t=137)** Let's go back to the terminal window, and since I have Airflow installed, I'll run Airflow version, and you can see that I'm running version 2.5.3.
 >
@@ -343,7 +340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (7), database (6), [[PostgreSQL]] (5), [[Python (Programming Language)|Python]] (4), [[PostgreSQL|Postgres]] (2)
+> **Frameworks & Libraries:** [[Metadata]] (7), [[PostgreSQL]] (5), [[Python (Programming Language)|Python]] (4), [[PostgreSQL|Postgres]] (2), [[Linux]] (1)
 > **Prerequisites:** set up (2), setup (1), install (1), initialization (1), configure (1)
 > **CLI Commands:** python (4), make (1)
 > **Versions:** python 3 (2), 7.16 (1), version 2 (1), 5.3 (1)
@@ -352,8 +349,7 @@ created: 2026-05-02
 > **Env Vars:** sql (1)
 > **Cross-References:** go back to (1)
 
-#### Creating an admin user and exploring roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/creating-an-admin-user-and-exploring-roles?u=76281980)
+#### [Creating an admin user and exploring roles](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/creating-an-admin-user-and-exploring-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -451,7 +447,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/creating-an-admin-user-and-exploring-roles?u=76281980&t=268)** This is the page that you'd go to for a role in order to be able to tweak the permissions associated with a role.
 >
-> **[4:35](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/creating-an-admin-user-and-exploring-roles?u=76281980&t=275)** The Admin role also allows you to view user level statistics, so you can click on users statistics and you'll be able to view the statistics across users.
+> **[4:35](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/creating-an-admin-user-and-exploring-roles?u=76281980&t=275)** The Admin role also allows you to view user level [[Statistics]], so you can click on users statistics and you'll be able to view the statistics across users.
 >
 > **[4:46](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/creating-an-admin-user-and-exploring-roles?u=76281980&t=286)** Notice that cloud user is the only user we have at this point in time, and cloud user has logged in twice.
 >
@@ -465,7 +461,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[Security]] (3), [[Statistics]] (3), [[Search]] (2), web (1)
+> **Frameworks & Libraries:** [[Statistics]] (3)
 > **UI Navigation:** click on (3), go to (2)
 > **Definitions:** known as (1), is a  (1)
 > **Prerequisites:** set up (2)
@@ -474,8 +470,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Documentation:** man page (1)
 
-#### Creating users with different roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/creating-users-with-different-roles?u=76281980)
+#### [Creating users with different roles](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/creating-users-with-different-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -577,7 +572,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (1), [[Security]] (1), hit (1), [[Search]] (1)
 > **UI Navigation:** click on (3), checkbox (1), dropdown (1)
 > **CLI Commands:** make (1), find (1)
 > **Code Identifiers:** users_create (1)
@@ -585,8 +579,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Executing a simple branching DAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/executing-a-simple-branching-dag?u=76281980)
+#### [Executing a simple branching DAG](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/executing-a-simple-branching-dag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -602,7 +595,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/executing-a-simple-branching-dag?u=76281980&t=30)** It just prints stuff out to screen.
 >
-> **[0:32](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/executing-a-simple-branching-dag?u=76281980&t=32)** Notice, I have a choose_branch Python function which accesses the variable choice and it chooses the branch based on the value of choice.
+> **[0:32](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/executing-a-simple-branching-dag?u=76281980&t=32)** Notice, I have a choose_branch [[Python (Programming Language)|Python]] function which accesses the variable choice and it chooses the branch based on the value of choice.
 >
 > **[0:42](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/executing-a-simple-branching-dag?u=76281980&t=42)** I have a branch Python function that takes in a task instance.
 >
@@ -675,14 +668,13 @@ created: 2026-05-02
 > **File Paths:** simple_branching_with_variable.py (1)
 > **Prerequisites:** configure (1)
 
-#### Executing a simple SQL DAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/executing-a-simple-sql-dag?u=76281980)
+#### [Executing a simple SQL DAG](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/executing-a-simple-sql-dag?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/executing-a-simple-sql-dag?u=76281980&t=1)** - [Instructor] Before we move on, let's look at the second DAG that I have set up.
 >
-> **[0:04](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/executing-a-simple-sql-dag?u=76281980&t=4)** This is a simple SQL pipeline that creates a table in the SQLite database and inserts some data into that table and performs a few operations.
+> **[0:04](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/executing-a-simple-sql-dag?u=76281980&t=4)** This is a simple [[SQL]] pipeline that creates a table in the SQLite database and inserts some data into that table and performs a few operations.
 >
 > **[0:13](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/executing-a-simple-sql-dag?u=76281980&t=13)** Here is a definition of my DAG, the simple_sql_pipeline.
 >
@@ -776,7 +768,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), data (4), hit (2), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** dag (10), select (2), sql (1), drop (1), table (1)
 > **Code Identifiers:** simple_sql_pipeline (2), my_sqlite_conn (2), display_result (2), create_table (1), sqlite_conn_id (1)
 > **UI Navigation:** click on (2), scroll down (1), select the (1), dropdown (1), go to (1)
@@ -785,8 +777,7 @@ created: 2026-05-02
 > **SQL:** select (2), drop table (1)
 > **Definitions:** is a  (3)
 
-#### The public and viewer roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/the-public-and-viewer-roles?u=76281980)
+#### [The public and viewer roles](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/the-public-and-viewer-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -876,15 +867,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[Security]] (1)
 > **Env Vars:** dag (7)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### The user role
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/the-user-role?u=76281980)
+#### [The user role](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/the-user-role?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -950,7 +939,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), next (1)
 > **Env Vars:** dag (9)
 > **CLI Commands:** find (3)
 > **UI Navigation:** click on (2), dropdown (1)
@@ -958,8 +946,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1), you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### The op role
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/the-op-role?u=76281980)
+#### [The op role](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/the-op-role?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1009,8 +996,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Actions, resources, and permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/actions-resources-and-permissions?u=76281980)
+#### [Actions, resources, and permissions](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/actions-resources-and-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1058,11 +1044,11 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/actions-resources-and-permissions?u=76281980&t=129)** Now, you can click through on different pages and you'll find all of the possible permissions that you can group into roles and then assign to users who have access to your Airflow system.
 >
-> **[2:22](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/actions-resources-and-permissions?u=76281980&t=142)** If you go to the very last page, you'll see permissions on the resources that we have created as well are DAGs, can_read on the simple branching with variable, can_delete on simple SQL pipeline, and so on.
+> **[2:22](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/actions-resources-and-permissions?u=76281980&t=142)** If you go to the very last page, you'll see permissions on the resources that we have created as well are DAGs, can_read on the simple branching with variable, can_delete on simple [[SQL]] pipeline, and so on.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), cloud (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Code Identifiers:** can_read (2), can_delete (2), can_clear (1), can_create (1), menu_access (1)
 > **Env Vars:** dag (5), sql (1)
 > **UI Navigation:** go to (3), scroll down (1)
@@ -1071,8 +1057,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding permissions to the public role
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/adding-permissions-to-the-public-role?u=76281980)
+#### [Adding permissions to the public role](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/adding-permissions-to-the-public-role?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1140,7 +1125,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1)
 > **UI Navigation:** click on (3), dropdown (1), scroll down (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** dag (2)
@@ -1148,9 +1132,9 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Warnings:** be careful (1)
 > **Prerequisites:** configure (1)
+> **Speakers:** - [instructor] (1)
 
-#### Creating and configuring a custom role
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/creating-and-configuring-a-custom-role?u=76281980)
+#### [Creating and configuring a custom role](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/creating-and-configuring-a-custom-role?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1176,7 +1160,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/creating-and-configuring-a-custom-role?u=76281980&t=49)** I'm also going to give this particular role some special permissions on one of the dags.
 >
-> **[0:55](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/creating-and-configuring-a-custom-role?u=76281980&t=55)** This particular role can delete on simple SQL Pipeline and can perform a number of other operations.
+> **[0:55](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/creating-and-configuring-a-custom-role?u=76281980&t=55)** This particular role can delete on simple [[SQL]] Pipeline and can perform a number of other operations.
 >
 > **[1:02](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/creating-and-configuring-a-custom-role?u=76281980&t=62)** Can read on simple SQL Pipeline, can edit on simple SQL Pipeline.
 >
@@ -1234,7 +1218,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), cloud (1), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (7)
 > **Env Vars:** sql (7), dag (1)
 > **UI Navigation:** click on (2), go to (1), dropdown (1)
 > **Exercise Files:** exercise files (1)
@@ -1246,8 +1230,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configuring emails for SLA management
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-emails-for-sla-management?u=76281980)
+#### [Configuring emails for SLA management](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-emails-for-sla-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1267,7 +1250,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-emails-for-sla-management?u=76281980&t=46)** I'm logged into my Gmail account here.
 >
-> **[0:49](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-emails-for-sla-management?u=76281980&t=49)** I'm going to open up a new tab and go to myaccount.[google.com/usecurity](https://google.com/usecurity).
+> **[0:49](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-emails-for-sla-management?u=76281980&t=49)** I'm going to open up a new tab and go to myaccount.[[[Google]].com/usecurity](https://google.com/usecurity).
 >
 > **[0:56](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-emails-for-sla-management?u=76281980&t=56)** I'm logged in as Loonytestuser.001 and I want to be able to send emails from this Gmail address when an SLA Miss occurs.
 >
@@ -1337,7 +1320,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), [[Search]] (2), next (1), web (1)
+> **Frameworks & Libraries:** [[Google]] (3)
 > **Env Vars:** sla (5), smtp (4), dag (3)
 > **Prerequisites:** configure (4), set up (2), you'll need (2)
 > **CLI Commands:** make (3), find (1)
@@ -1346,8 +1329,7 @@ created: 2026-05-02
 > **Code Identifiers:** airflow_scheduler (1), airflow_webserver (1)
 > **File Paths:** airflow.cfg (1)
 
-#### Configuring task-level SLAs
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-task-level-slas?u=76281980)
+#### [Configuring task-level SLAs](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-task-level-slas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1385,7 +1367,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-task-level-slas?u=76281980&t=85)** You can also configure an action to be performed in the event of an SLA Miss.
 >
-> **[1:30](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-task-level-slas?u=76281980&t=90)** That is this Python callable, sla_missed_action.
+> **[1:30](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-task-level-slas?u=76281980&t=90)** That is this [[Python (Programming Language)|Python]] callable, sla_missed_action.
 >
 > **[1:34](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-task-level-slas?u=76281980&t=94)** All I do is log some stuff out to the Airflow logs.
 >
@@ -1425,7 +1407,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sla (15), dag (10)
 > **Prerequisites:** configure (2), setup (1)
 > **Code Identifiers:** loony_test (1), sla_missed_action (1)
@@ -1434,8 +1416,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 
-#### Triggering and viewing SLA misses
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/triggering-and-viewing-sla-misses?u=76281980)
+#### [Triggering and viewing SLA misses](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/triggering-and-viewing-sla-misses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1497,11 +1478,11 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/triggering-and-viewing-sla-misses?u=76281980&t=141)** So click through to the current date, and here I open up the log for simple branching with task sla.py.log.
 >
-> **[2:29](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/triggering-and-viewing-sla-misses?u=76281980&t=149)** And here I'm going to search for the word warning.
+> **[2:29](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/triggering-and-viewing-sla-misses?u=76281980&t=149)** And here I'm going to search for the [[Microsoft Word|word]] warning.
 >
 > **[2:34](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/triggering-and-viewing-sla-misses?u=76281980&t=154)** And you can see that there are a bunch of places where this warning message has been written out to the logs.
 >
-> **[2:40](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/triggering-and-viewing-sla-misses?u=76281980&t=160)** This is because of our Python code, which wrote this out to the logs in case of an SLA Miss.
+> **[2:40](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/triggering-and-viewing-sla-misses?u=76281980&t=160)** This is because of our [[Python (Programming Language)|Python]] code, which wrote this out to the logs in case of an SLA Miss.
 >
 > **[2:47](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/triggering-and-viewing-sla-misses?u=76281980&t=167)** Well, at this point, you know how to configure task level SLAs.
 >
@@ -1513,7 +1494,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (1), [[Search]] (1), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** dag (12), sla (12)
 > **CLI Commands:** find (2), make (1), python (1)
 > **UI Navigation:** click on (2), scroll down (1)
@@ -1522,8 +1503,7 @@ created: 2026-05-02
 > **Warnings:** warning (2)
 > **File Paths:** sla.py (1)
 
-#### Configuring DAG-level SLAs
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-dag-level-slas?u=76281980)
+#### [Configuring DAG-level SLAs](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-dag-level-slas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1547,13 +1527,13 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-dag-level-slas?u=76281980&t=61)** I want this entire DAG to be executed within five seconds.
 >
-> **[1:04](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-dag-level-slas?u=76281980&t=64)** The rest of the arguments are the same.
+> **[1:04](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-dag-level-slas?u=76281980&t=64)** The [[Representational State Transfer (REST)|rest]] of the arguments are the same.
 >
 > **[1:06](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-dag-level-slas?u=76281980&t=66)** Email will be sent to cloud.user@[loonycorn.com](https://loonycorn.com) and then, we don't email on failure or retry.
 >
 > **[1:12](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-dag-level-slas?u=76281980&t=72)** Most of the constructs here are ones that we've seen before.
 >
-> **[1:15](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-dag-level-slas?u=76281980&t=75)** I have the sla_missed_action action Python function, so in case of SLA misses, we'll get these messages in the logs.
+> **[1:15](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-dag-level-slas?u=76281980&t=75)** I have the sla_missed_action action [[Python (Programming Language)|Python]] function, so in case of SLA misses, we'll get these messages in the logs.
 >
 > **[1:22](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-dag-level-slas?u=76281980&t=82)** I still have my branching pipeline but I've randomized things a bit.
 >
@@ -1601,7 +1581,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1), cloud (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dag (18), sla (15)
 > **Code Identifiers:** simple_branching_with_dag_sla (3), default_args (2), sla_missed_action (2), taskd (2), sla_miss_callback (1)
 > **CLI Commands:** python (2), find (1)
@@ -1610,8 +1590,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring DAG failed action
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-dag-failed-action?u=76281980)
+#### [Configuring DAG failed action](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-dag-failed-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1643,7 +1622,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-dag-failed-action?u=76281980&t=79)** This information is available via other context passed into this SLA missed action function.
 >
-> **[1:25](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-dag-failed-action?u=76281980&t=85)** Next, I have a specific Python function dealing with task failures.
+> **[1:25](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-dag-failed-action?u=76281980&t=85)** Next, I have a specific [[Python (Programming Language)|Python]] function dealing with task failures.
 >
 > **[1:30](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-dag-failed-action?u=76281980&t=90)** That is the task failed action that also takes in a context as an input argument.
 >
@@ -1667,7 +1646,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-dag-failed-action?u=76281980&t=133)** We'll send an email to cloud.user@[loonycorn.com](https://loonycorn.com) with the subject equal to subject.
 >
-> **[2:19](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-dag-failed-action?u=76281980&t=139)** The HTML content of the email will be set to the body string.
+> **[2:19](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-dag-failed-action?u=76281980&t=139)** The [[HTML]] content of the email will be set to the body string.
 >
 > **[2:22](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-dag-failed-action?u=76281980&t=142)** And the mime type is just HTML.
 >
@@ -1701,7 +1680,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-dag-failed-action?u=76281980&t=216)** So, we'll have DAG failures, as well as SLA misses.
 >
-> **[3:39](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-dag-failed-action?u=76281980&t=219)** Nothing really new to see in the rest of the DAG here.
+> **[3:39](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-dag-failed-action?u=76281980&t=219)** Nothing really new to see in the [[Representational State Transfer (REST)|rest]] of the DAG here.
 >
 > **[3:42](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-dag-failed-action?u=76281980&t=222)** Exactly the same as before.
 >
@@ -1751,7 +1730,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), cloud (3), [[Python (Programming Language)|Python]] (2), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dag (20), sla (14), html (2)
 > **Code Identifiers:** sla_missed_action (2), taskd (2), email_on_failure (1), email_operator (1), sla_miss_callback (1)
 > **Prerequisites:** set up (4), configure (2)
@@ -1765,8 +1744,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dataset producer pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dataset-producer-pipeline?u=76281980)
+#### [Dataset producer pipeline](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dataset-producer-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1794,7 +1772,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dataset-producer-pipeline?u=76281980&t=74)** Notice the name of the file, producer pipeline customers.py.
 >
-> **[1:17](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dataset-producer-pipeline?u=76281980&t=77)** On line one, I import the pandas library in order to read and work with data.
+> **[1:17](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dataset-producer-pipeline?u=76281980&t=77)** On line one, I import the [[Pandas (Software)|pandas]] library in order to read and work with data.
 >
 > **[1:23](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dataset-producer-pipeline?u=76281980&t=83)** Make sure you have pandas installed in the virtual environment where you have Airflow running.
 >
@@ -1806,7 +1784,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dataset-producer-pipeline?u=76281980&t=124)** Next, let's take a quick look at our processing pipeline.
 >
-> **[2:07](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dataset-producer-pipeline?u=76281980&t=127)** I have a function called Reading the Data which calls pd.read csv and reads the original customer's data and returns it in the JSON format.
+> **[2:07](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dataset-producer-pipeline?u=76281980&t=127)** I have a function called Reading the Data which calls pd.read csv and reads the original customer's data and returns it in the [[JSON]] format.
 >
 > **[2:17](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dataset-producer-pipeline?u=76281980&t=137)** The remove null values function pulls the JSON data from the reading the data task, and drops all of the null values in that data, and it returns the clean data set in JSON form.
 >
@@ -1850,7 +1828,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (41), [[JSON]] (3), [[Pandas (Software)|Pandas]] (2), next (2)
+> **Frameworks & Libraries:** [[JSON]] (3), [[Pandas (Software)|Pandas]] (2)
 > **Env Vars:** dag (8), json (3)
 > **File Paths:** customers.csv (5), customers.py (1), clean_customers.csv (1)
 > **Code Identifiers:** clean_customers (1), to_csv (1)
@@ -1858,8 +1836,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Dataset consumer pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dataset-consumer-pipeline?u=76281980)
+#### [Dataset consumer pipeline](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dataset-consumer-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1905,7 +1882,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), next (1)
 > **Code Identifiers:** groupby_country (3), clean_customers (2), consumer_pipeline_customers (1), reading_clean_data (1)
 > **Env Vars:** dag (5)
 > **File Paths:** clean_customers.csv (2), consumer_pipeline_customers.py (1), groupby_country.csv (1)
@@ -1913,9 +1889,9 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** picture (1)
+> **Speakers:** - [instructor] (1)
 
-#### Data-aware scheduling
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/data-aware-scheduling?u=76281980)
+#### [Data-aware scheduling](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/data-aware-scheduling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1985,7 +1961,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12)
 > **Code Identifiers:** consumer_pipeline (7), producer_pipeline (6), clean_customers (6), groupby_country (2), pipeline_customers (1)
 > **File Paths:** clean_customers.csv (5), groupby_country.csv (2), customers.csv (1)
 > **Env Vars:** dag (7)
@@ -1993,9 +1968,9 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
+> **Tools:** vs code (1)
 
-#### Purchases producer pipeline and join pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/purchases-producer-pipeline-and-join-pipeline?u=76281980)
+#### [Purchases producer pipeline and join pipeline](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/purchases-producer-pipeline-and-join-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2005,7 +1980,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/purchases-producer-pipeline-and-join-pipeline?u=76281980&t=12)** Now, here in my data sets folder, I have two CSV files, the customer's CSV file we've already seen and worked with earlier, the additional file here is for customer purchases.
 >
-> **[0:24](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/purchases-producer-pipeline-and-join-pipeline?u=76281980&t=24)** If you open up this file, you'll see that it contains various different products, price and quantity of those products, purchased by different customers.
+> **[0:24](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/purchases-producer-pipeline-and-join-pipeline?u=76281980&t=24)** If you open up this file, you'll see that it contains various different [[Microsoft Products|products]], price and quantity of those products, purchased by different customers.
 >
 > **[0:33](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/purchases-producer-pipeline-and-join-pipeline?u=76281980&t=33)** You can see the second column here is for customer ID.
 >
@@ -2013,7 +1988,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/purchases-producer-pipeline-and-join-pipeline?u=76281980&t=38)** Let's get a big picture understanding of what we are about to do, first.
 >
-> **[0:41](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/purchases-producer-pipeline-and-join-pipeline?u=76281980&t=41)** Observe here under the DAGS folder, I have four different Python files.
+> **[0:41](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/purchases-producer-pipeline-and-join-pipeline?u=76281980&t=41)** Observe here under the DAGS folder, I have four different [[Python (Programming Language)|Python]] files.
 >
 > **[0:45](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/purchases-producer-pipeline-and-join-pipeline?u=76281980&t=45)** Now, you're already familiar with the producer pipeline for customers and the consumer pipeline for customers.
 >
@@ -2119,15 +2094,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (42), [[Python (Programming Language)|Python]] (4), [[Microsoft Products|Products]] (2), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Products|Products]] (2)
 > **Env Vars:** dag (11), csv (5), dags (2)
 > **CLI Commands:** python (4), make (1)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data-aware scheduling with multiple datasets
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/data-aware-scheduling-with-multiple-datasets?u=76281980)
+#### [Data-aware scheduling with multiple datasets](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/data-aware-scheduling-with-multiple-datasets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2257,7 +2231,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9)
 > **Env Vars:** csv (7)
 > **UI Navigation:** click on (3), go to (3)
 > **CLI Commands:** find (3)
@@ -2270,14 +2243,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/introducing-plugins?u=76281980)
+#### [Introducing plugins](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/introducing-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/introducing-plugins?u=76281980&t=1)** - [Instructor] In this demo, you'll get a quick taste of how it is to work with Airflow plugins.
 >
-> **[0:05](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/introducing-plugins?u=76281980&t=5)** Plugins in Apache Airflow are custom extensions that allow you to add or modify the functionality of Airflow's core components.
+> **[0:05](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/introducing-plugins?u=76281980&t=5)** Plugins in [[Apache Airflow]] are custom extensions that allow you to add or modify the functionality of Airflow's core components.
 >
 > **[0:14](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/introducing-plugins?u=76281980&t=14)** Plugins provide a way to extend Airflow's capabilities and customize its behavior to suit your specific needs.
 >
@@ -2295,7 +2267,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/introducing-plugins?u=76281980&t=68)** Go ahead and close out this configuration file.
 >
-> **[1:10](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/introducing-plugins?u=76281980&t=70)** Here, within the Airflow install directory, I'm going to create a new folder called plugins and we'll be adding in Python code for our plugins in just a bit here.
+> **[1:10](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/introducing-plugins?u=76281980&t=70)** Here, within the Airflow install directory, I'm going to create a new folder called plugins and we'll be adding in [[Python (Programming Language)|Python]] code for our plugins in just a bit here.
 >
 > **[1:21](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/introducing-plugins?u=76281980&t=81)** To start off with, the plugins folder is completely empty.
 >
@@ -2351,7 +2323,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), web (3), [[Apache Airflow]] (1), generic (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Apache Airflow]] (1)
 > **Code Identifiers:** plugins_folder (2), empty_plugin (1), on_load (1), appbuilder_menu_items (1), flask_blueprints (1)
 > **CLI Commands:** python (3), apache (1)
 > **Prerequisites:** install (1), you'll need (1), configure (1), set up (1)
@@ -2360,14 +2332,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 
-#### Adding menu items using plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/adding-menu-items-using-plugins?u=76281980)
+#### [Adding menu items using plugins](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/adding-menu-items-using-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/adding-menu-items-using-plugins?u=76281980&t=1)** - [Instructor] In this demo, we'll see how we can use an Airflow plugin to add new menu items that can be accessed from the Airflow UI.
 >
-> **[0:09](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/adding-menu-items-using-plugins?u=76281980&t=9)** My plugin is in a Python file defined under the plugins folder, company_info_plugin.py.
+> **[0:09](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/adding-menu-items-using-plugins?u=76281980&t=9)** My plugin is in a [[Python (Programming Language)|Python]] file defined under the plugins folder, company_info_plugin.py.
 >
 > **[0:16](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/adding-menu-items-using-plugins?u=76281980&t=16)** Now, I import the Airflow plugin on line one and on lines three through 18, I have created three app builder subitems.
 >
@@ -2377,7 +2348,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/adding-menu-items-using-plugins?u=76281980&t=35)** So company information will be the top level tab and this subitemA and B will be menu items under that tab.
 >
-> **[0:44](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/adding-menu-items-using-plugins?u=76281980&t=44)** SubitemA contains information about LinkedIn and subitemB contains information about Loonycorn.
+> **[0:44](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/adding-menu-items-using-plugins?u=76281980&t=44)** SubitemA contains information about [[LinkedIn]] and subitemB contains information about Loonycorn.
 >
 > **[0:50](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/adding-menu-items-using-plugins?u=76281980&t=50)** Notice that I have URLs for both companies here.
 >
@@ -2423,7 +2394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Python (Programming Language)|Python]] (1), [[LinkedIn]] (1), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[LinkedIn]] (1)
 > **Code Identifiers:** company_info_plugin (1), subitema (1), subitemb (1), app_builder_menu_items (1), on_load (1)
 > **UI Navigation:** click on (3)
 > **Env Vars:** url (2)
@@ -2432,8 +2403,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Documentation:** the documentation (1)
 
-#### Exploring the CSV reader plugin
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/exploring-the-csv-reader-plugin?u=76281980)
+#### [Exploring the CSV reader plugin](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/exploring-the-csv-reader-plugin?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2473,13 +2443,13 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/exploring-the-csv-reader-plugin?u=76281980&t=99)** Those cells are in yellow.
 >
-> **[1:41](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/exploring-the-csv-reader-plugin?u=76281980&t=101)** This is the plugin that we'll be building in Python.
+> **[1:41](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/exploring-the-csv-reader-plugin?u=76281980&t=101)** This is the plugin that we'll be building in [[Python (Programming Language)|Python]].
 >
 > **[1:44](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/exploring-the-csv-reader-plugin?u=76281980&t=104)** Let's take a look at the files that I've used to build this plugin.
 >
 > **[1:47](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/exploring-the-csv-reader-plugin?u=76281980&t=107)** In the plugins folder, notice I have a csv_reader_plugin.py file.
 >
-> **[1:53](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/exploring-the-csv-reader-plugin?u=76281980&t=113)** I also have templates sub folder which contains two HTML files.
+> **[1:53](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/exploring-the-csv-reader-plugin?u=76281980&t=113)** I also have templates sub folder which contains two [[HTML]] files.
 >
 > **[1:58](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/exploring-the-csv-reader-plugin?u=76281980&t=118)** getCSVPathURL.HTML is for the first screen where we actually enter the CSV file that we want to view.
 >
@@ -2487,7 +2457,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[HTML]] (3), web (1), hit (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** csv (15), html (2)
 > **File Paths:** purchases.csv (2), datasets/purchases.csv (1), csv_reader_plugin.py (1), getcsvpathurl.html (1), csvdisplay.html (1)
 > **UI Navigation:** click on (3), select the (1)
@@ -2496,8 +2466,7 @@ created: 2026-05-02
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing the CSV reader plugin
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/implementing-the-csv-reader-plugin?u=76281980)
+#### [Implementing the CSV reader plugin](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/implementing-the-csv-reader-plugin?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2541,7 +2510,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/implementing-the-csv-reader-plugin?u=76281980&t=115)** The at expose decorator specifies the URL path at which this particular view is available.
 >
-> **[2:02](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/implementing-the-csv-reader-plugin?u=76281980&t=122)** Within this view, we instantiate a CSV form object on line 68 and render the template, get CSV path URL dot html and pass in the form information to this template.
+> **[2:02](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/implementing-the-csv-reader-plugin?u=76281980&t=122)** Within this view, we instantiate a CSV form object on line 68 and render the template, get CSV path URL dot [[HTML]] and pass in the form information to this template.
 >
 > **[2:16](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/implementing-the-csv-reader-plugin?u=76281980&t=136)** The display CSV file function maps to the second view where we see the details of our CSV file.
 >
@@ -2623,7 +2592,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[HTML]] (9), web (2), application (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (9)
 > **Env Vars:** csv (38), html (8), url (5), css (1)
 > **Exercise Files:** template (12)
 > **Definitions:** is a  (9)
@@ -2636,18 +2605,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scaling Apache Airflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980)
+#### [Scaling Apache Airflow](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980&t=1)** - [Instructor] If you're prototyping or just testing your DAGs, it's completely fine to run your DAG locally.
+> **[0:01](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980&t=1)** - [Instructor] If you're [[Prototyping]] or just testing your DAGs, it's completely fine to run your DAG locally.
 >
 > **[0:07](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980&t=7)** Let us run it on the same machine where you have Airflow installed.
 >
 > **[0:10](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980&t=10)** But in a production environment, you might want to run your tasks in a distributed framework, and configuring the Airflow executor will help you achieve the scaling.
 >
-> **[0:20](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980&t=20)** Now, let's understand how the different executors that Apache Airflow supports work.
+> **[0:20](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980&t=20)** Now, let's understand how the different executors that [[Apache Airflow]] supports work.
 >
 > **[0:26](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980&t=26)** Now, here is the basic Airflow architecture, and you can see that the Airflow scheduler and executor is at the very heart of this architecture.
 >
@@ -2673,7 +2641,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980&t=126)** Running just one task instance means that there is no parallelism.
 >
-> **[2:10](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980&t=130)** This is the only executor that can work with the SQLite database for metadata management since SQLite does not support multiple connections.
+> **[2:10](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980&t=130)** This is the only executor that can work with the SQLite database for [[Metadata]] management since SQLite does not support multiple connections.
 >
 > **[2:20](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980&t=140)** Now, this executor is not good for production environments, because it's prone to single point failure, and it's great for debugging purposes, that's where we typically tend to use this.
 >
@@ -2687,7 +2655,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980&t=174)** Notice within the executor, there are multiple tasks running in parallel.
 >
-> **[2:59](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980&t=179)** Now, in order to work with the LocalExecutor you'll need to configure a production metadata database such as PostgreSQL or MySQL.
+> **[2:59](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980&t=179)** Now, in order to work with the LocalExecutor you'll need to configure a production metadata database such as [[PostgreSQL]] or [[MySQL]].
 >
 > **[3:07](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980&t=187)** If you want to run a distributed processing for your tasks, you can use the CeleryExecutor.
 >
@@ -2695,17 +2663,17 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980&t=201)** Now, the CeleryExecutor is so-called, because it leverages Celery, a distributed task queue system to execute tasks in a distributed environment.
 >
-> **[3:32](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980&t=212)** With Celery, you can run multiple Celery workers and distribute tasks to these workers using a message broker such as a RabbitMQ or Redis.
+> **[3:32](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980&t=212)** With Celery, you can run multiple Celery workers and distribute tasks to these workers using a message broker such as a RabbitMQ or [[Redis]].
 >
 > **[3:42](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980&t=222)** Now, the tasks in your DAGs will be executed on a remote machine running Celery, so this is a remote executor used for horizontal scaling where workers run on multiple machines.
 >
 > **[3:54](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980&t=234)** Now, in our demo, we're going to be running Celery on the same machine where we have Airflow installed, but in a production environment, you'll have Celery running on a remote distributed system.
 >
-> **[4:04](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980&t=244)** Because it's a distributed system, the CeleryExecutor allows your task to be fault tolerant and allows for real-time processing and task scheduling.
+> **[4:04](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980&t=244)** Because it's a distributed system, the CeleryExecutor allows your task to be fault tolerant and allows for [[Real-Time]] processing and task scheduling.
 >
 > **[4:14](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980&t=254)** And finally, the KubernetesExecutor is another distributed processing executor.
 >
-> **[4:20](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980&t=260)** It uses the Kubernetes API for resource optimization and runs as a fixed single pod in the scheduler that only requires access to the Kubernetes API.
+> **[4:20](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980&t=260)** It uses the [[Kubernetes]] API for resource optimization and runs as a fixed single pod in the scheduler that only requires access to the Kubernetes API.
 >
 > **[4:30](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/scaling-apache-airflow?u=76281980&t=270)** With the KubernetesExecutor, you'll use Kubernetes worker pods to run your tasks on a Kubernetes cluster.
 >
@@ -2713,7 +2681,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (4), parallel (3), database (2), [[Metadata]] (2), api (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (4), [[Metadata]] (2), [[Prototyping]] (1), [[Apache Airflow]] (1), [[PostgreSQL]] (1)
 > **Env Vars:** api (2), dag (1)
 > **Prerequisites:** install (1), you'll need (1), configure (1)
 > **CLI Commands:** apache (1), mysql (1)
@@ -2721,8 +2689,7 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Basic setup for the transformation pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/basic-setup-for-the-transformation-pipeline?u=76281980)
+#### [Basic setup for the transformation pipeline](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/basic-setup-for-the-transformation-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2730,13 +2697,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/basic-setup-for-the-transformation-pipeline?u=76281980&t=8)** That's only for executing tasks on your local machine.
 >
-> **[0:12](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/basic-setup-for-the-transformation-pipeline?u=76281980&t=12)** You'll want to run your task in a distributed environment, and for that, you'll use something like the Kubernetes Executor or the Celery Executor.
+> **[0:12](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/basic-setup-for-the-transformation-pipeline?u=76281980&t=12)** You'll want to run your task in a distributed environment, and for that, you'll use something like the [[Kubernetes]] Executor or the Celery Executor.
 >
 > **[0:19](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/basic-setup-for-the-transformation-pipeline?u=76281980&t=19)** Here in this demo, we'll see how you can use the Celery Executor to run your tasks in a distributed framework.
 >
 > **[0:26](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/basic-setup-for-the-transformation-pipeline?u=76281980&t=26)** Here I am in my virtual environment, and I'm going to run Airflow info and grep providers that have been installed along with my current version of Airflow.
 >
-> **[0:37](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/basic-setup-for-the-transformation-pipeline?u=76281980&t=37)** Notice that the Apache Airflow Providers Celery version 3.1.0 has already been installed.
+> **[0:37](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/basic-setup-for-the-transformation-pipeline?u=76281980&t=37)** Notice that the [[Apache Airflow]] Providers Celery version 3.1.0 has already been installed.
 >
 > **[0:44](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/basic-setup-for-the-transformation-pipeline?u=76281980&t=44)** That's because when we installed Airflow, we also installed Celery.
 >
@@ -2746,9 +2713,9 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/basic-setup-for-the-transformation-pipeline?u=76281980&t=73)** Now the fact that we included Celery in our installation, this is why we have the Celery provider available here.
 >
-> **[1:20](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/basic-setup-for-the-transformation-pipeline?u=76281980&t=80)** In order to test our Celery executor, I'm going to run a DAG that performs some operations on PostgreSQL.
+> **[1:20](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/basic-setup-for-the-transformation-pipeline?u=76281980&t=80)** In order to test our Celery executor, I'm going to run a DAG that performs some operations on [[PostgreSQL]].
 >
-> **[1:27](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/basic-setup-for-the-transformation-pipeline?u=76281980&t=87)** I type in psql, and here I am in the interactive shell for Postgres.
+> **[1:27](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/basic-setup-for-the-transformation-pipeline?u=76281980&t=87)** I type in psql, and here I am in the interactive shell for [[PostgreSQL|Postgres]].
 >
 > **[1:32](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/basic-setup-for-the-transformation-pipeline?u=76281980&t=92)** I'm going to create a new database here called cars_db.
 >
@@ -2770,7 +2737,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/basic-setup-for-the-transformation-pipeline?u=76281980&t=134)** You should have the Postgres option here, provided that the Postgres provider has been installed.
 >
-> **[2:20](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/basic-setup-for-the-transformation-pipeline?u=76281980&t=140)** Since we've been working with Postgres as our metadata database, the Postgres provider should have been installed in your Airflow installation.
+> **[2:20](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/basic-setup-for-the-transformation-pipeline?u=76281980&t=140)** Since we've been working with Postgres as our [[Metadata]] database, the Postgres provider should have been installed in your Airflow installation.
 >
 > **[2:28](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/basic-setup-for-the-transformation-pipeline?u=76281980&t=148)** Next, specify description for your connection.
 >
@@ -2806,7 +2773,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (8), database (7), [[PostgreSQL]] (3), [[Apache Airflow]] (2), data (2)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (8), [[PostgreSQL]] (3), [[Apache Airflow]] (2), [[Kubernetes]] (1), [[Metadata]] (1)
 > **CLI Commands:** apache (2), find (2), grep (1), pip (1), psql (1)
 > **Env Vars:** dag (4), csv (2)
 > **Code Identifiers:** cars_db (3), cars_postgres_connection (1)
@@ -2815,14 +2782,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 
-#### DAG for the transformation pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dag-for-the-transformation-pipeline?u=76281980)
+#### [DAG for the transformation pipeline](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dag-for-the-transformation-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dag-for-the-transformation-pipeline?u=76281980&t=1)** - [Instructor] The data transformation pipeline that we'll set up contains a mix of SQL operators and Python operators.
+> **[0:01](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dag-for-the-transformation-pipeline?u=76281980&t=1)** - [Instructor] The [[Data Transformation]] pipeline that we'll set up contains a mix of [[SQL]] operators and [[Python (Programming Language)|Python]] operators.
 >
-> **[0:07](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dag-for-the-transformation-pipeline?u=76281980&t=7)** The PostgreSQL operator will execute the SQL statements present in this sub folder called SQL statements under the Airflow installed directory.
+> **[0:07](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dag-for-the-transformation-pipeline?u=76281980&t=7)** The [[PostgreSQL]] operator will execute the SQL statements present in this sub folder called SQL statements under the Airflow installed directory.
 >
 > **[0:17](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dag-for-the-transformation-pipeline?u=76281980&t=17)** Create_table_car_SQL contains a create table command where the table name is passed in as an input parameter and all of the columns here contains car details, different attributes of cars.
 >
@@ -2840,7 +2806,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dag-for-the-transformation-pipeline?u=76281980&t=69)** I'll give you a quick overview.
 >
-> **[1:11](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dag-for-the-transformation-pipeline?u=76281980&t=71)** Data processing pipeline dot py is the name of the file.
+> **[1:11](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dag-for-the-transformation-pipeline?u=76281980&t=71)** [[Data Processing]] pipeline dot py is the name of the file.
 >
 > **[1:14](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dag-for-the-transformation-pipeline?u=76281980&t=74)** The original data path contains the original car data that we'll read in at the beginning of the DAG.
 >
@@ -2884,7 +2850,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dag-for-the-transformation-pipeline?u=76281980&t=215)** If you choose to save output as table, if that was the branch that was chosen, then these tasks will be executed: create table new car, create table used car, and create table certified car.
 >
-> **[3:47](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dag-for-the-transformation-pipeline?u=76281980&t=227)** The Postgres connection ID for all three of them is cars Postgres connection.
+> **[3:47](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dag-for-the-transformation-pipeline?u=76281980&t=227)** The [[PostgreSQL|Postgres]] connection ID for all three of them is cars Postgres connection.
 >
 > **[3:52](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/dag-for-the-transformation-pipeline?u=76281980&t=232)** Notice that they all reference the create table car dot SQL file.
 >
@@ -2936,15 +2902,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[SQL]] (9), [[Python (Programming Language)|Python]] (4), next (3), [[PostgreSQL|Postgres]] (3)
+> **Frameworks & Libraries:** [[SQL]] (9), [[Python (Programming Language)|Python]] (4), [[PostgreSQL|Postgres]] (3), [[Data Transformation]] (1), [[PostgreSQL]] (1)
 > **Env Vars:** sql (9), dag (5)
 > **Prerequisites:** set up (4), setup (1)
 > **CLI Commands:** python (4)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Install RabbitMQ on macOS and Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/install-rabbitmq-on-macos-and-linux?u=76281980)
+#### [Install RabbitMQ on macOS and Linux](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/install-rabbitmq-on-macos-and-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2954,13 +2919,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/install-rabbitmq-on-macos-and-linux?u=76281980&t=5)** Now Celery is a task queue, which helps in distributing tasks across multiple CeleryExecutors.
 >
-> **[0:11](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/install-rabbitmq-on-macos-and-linux?u=76281980&t=11)** The CeleryExecutor distributes the workload from the main application onto multiple workers with the help of a message broker such as RabbitMQ or Redis.
+> **[0:11](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/install-rabbitmq-on-macos-and-linux?u=76281980&t=11)** The CeleryExecutor distributes the workload from the main application onto multiple workers with the help of a message broker such as RabbitMQ or [[Redis]].
 >
 > **[0:21](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/install-rabbitmq-on-macos-and-linux?u=76281980&t=21)** Now in this movie, we'll set up RabbitMQ on your local machine.
 >
 > **[0:25](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/install-rabbitmq-on-macos-and-linux?u=76281980&t=25)** In the first part of this movie, I'll use Homebrew to install RabbitMQ on my macOS.
 >
-> **[0:31](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/install-rabbitmq-on-macos-and-linux?u=76281980&t=31)** In the second part of this movie, I'll install RabbitMQ on WSL Windows System for Linux two.
+> **[0:31](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/install-rabbitmq-on-macos-and-linux?u=76281980&t=31)** In the second part of this movie, I'll install RabbitMQ on WSL [[Windows]] System for [[Linux]] two.
 >
 > **[0:39](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/install-rabbitmq-on-macos-and-linux?u=76281980&t=39)** Here I am on the terminal window of my macOS machine and I'm going to use the Home Brew Package manager I call, brew install rabbitmq.
 >
@@ -2994,15 +2959,15 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/install-rabbitmq-on-macos-and-linux?u=76281980&t=128)** And you should see the login page here for rabbitmq.
 >
-> **[2:12](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/install-rabbitmq-on-macos-and-linux?u=76281980&t=132)** If you're running airflow using WSL for Windows, you might want to install RabbitMQ on your Ubuntu installation on Windows.
+> **[2:12](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/install-rabbitmq-on-macos-and-linux?u=76281980&t=132)** If you're running airflow using WSL for Windows, you might want to install RabbitMQ on your [[Ubuntu]] installation on Windows.
 >
 > **[2:21](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/install-rabbitmq-on-macos-and-linux?u=76281980&t=141)** Select WSL, that is the Ubuntu installation that you're already using.
 >
 > **[2:26](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/install-rabbitmq-on-macos-and-linux?u=76281980&t=146)** Let's run a grep on airflow info to check whether we have the Celery provider.
 >
-> **[2:31](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/install-rabbitmq-on-macos-and-linux?u=76281980&t=151)** And you can see that Apache Airflow Provider Celery is available here.
+> **[2:31](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/install-rabbitmq-on-macos-and-linux?u=76281980&t=151)** And you can see that [[Apache Airflow]] Provider Celery is available here.
 >
-> **[2:36](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/install-rabbitmq-on-macos-and-linux?u=76281980&t=156)** Let's make sure that we have the latest update for the apt GIT Package manager on Linux, sudo apt update and sudo apt upgrade are the two commands that I'll run.
+> **[2:36](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/install-rabbitmq-on-macos-and-linux?u=76281980&t=156)** Let's make sure that we have the latest update for the apt [[Git]] Package manager on Linux, sudo apt update and sudo apt upgrade are the two commands that I'll run.
 >
 > **[2:47](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/install-rabbitmq-on-macos-and-linux?u=76281980&t=167)** Once these commands run through, we are ready to install RabbitMQ.
 >
@@ -3026,7 +2991,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (4), management (4), [[Windows]] (3), [[Ubuntu]] (2), next (2)
+> **Frameworks & Libraries:** [[Linux]] (4), [[Windows]] (3), [[Ubuntu]] (2), [[Redis]] (1), [[Apache Airflow]] (1)
 > **CLI Commands:** brew (6), sudo (6), apt (3), grep (1), apache (1)
 > **Prerequisites:** install (11), set up (2), you'll need (2)
 > **Env Vars:** wsl (4), http (1), git (1)
@@ -3035,8 +3000,7 @@ created: 2026-05-02
 > **Code Identifiers:** macos (2)
 > **Versions:** version 3 (1), 11.17 (1)
 
-#### Set up an admin user for RabbitMQ
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/set-up-an-admin-user-for-rabbitmq?u=76281980)
+#### [Set up an admin user for RabbitMQ](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/set-up-an-admin-user-for-rabbitmq?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3090,15 +3054,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** click on (7), scroll down (1)
 > **Prerequisites:** set up (3), configure (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring the CeleryExecutor for Airflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-the-celeryexecutor-for-airflow?u=76281980)
+#### [Configuring the CeleryExecutor for Airflow](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-the-celeryexecutor-for-airflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3134,7 +3096,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-the-celeryexecutor-for-airflow?u=76281980&t=63)** This is what Celery uses to send updates on Airflow tasks.
 >
-> **[1:08](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-the-celeryexecutor-for-airflow?u=76281980&t=68)** Make sure that you point to your PostgreSQL metadata database.
+> **[1:08](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-the-celeryexecutor-for-airflow?u=76281980&t=68)** Make sure that you point to your [[PostgreSQL]] [[Metadata]] database.
 >
 > **[1:12](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/configuring-the-celeryexecutor-for-airflow?u=76281980&t=72)** PostgreSQL is running on local host 5432 for me and the super user is Loonycorn with the password password.
 >
@@ -3146,7 +3108,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL]] (2), next (1), [[Metadata]] (1), database (1), web (1)
+> **Frameworks & Libraries:** [[PostgreSQL]] (2), [[Metadata]] (1)
 > **Env Vars:** url (4), cfg (1)
 > **Prerequisites:** configure (1), you'll need (1), set up (1), setup (1)
 > **CLI Commands:** make (3)
@@ -3154,8 +3116,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Executing tasks on a single Celery worker
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/executing-tasks-on-a-single-celery-worker?u=76281980)
+#### [Executing tasks on a single Celery worker](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/executing-tasks-on-a-single-celery-worker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3187,7 +3148,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/executing-tasks-on-a-single-celery-worker?u=76281980&t=83)** You can see the status of this one worker here in the Flower UI.
 >
-> **[1:27](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/executing-tasks-on-a-single-celery-worker?u=76281980&t=87)** If you click through to the name of the worker, you should be able to see a bunch of statistics for this worker.
+> **[1:27](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/executing-tasks-on-a-single-celery-worker?u=76281980&t=87)** If you click through to the name of the worker, you should be able to see a bunch of [[Statistics]] for this worker.
 >
 > **[1:34](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/executing-tasks-on-a-single-celery-worker?u=76281980&t=94)** If you look at queues, you'll see that this worker uses the default queue.
 >
@@ -3231,7 +3192,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), web (1), [[Statistics]] (1), data (1), hit (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Env Vars:** dag (8), url (2)
 > **Prerequisites:** set up (4)
 > **UI Navigation:** click on (2), go to (1)
@@ -3240,8 +3201,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Code Identifiers:** as_csv (1)
 
-#### Executing tasks on multiple Celery workers
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/executing-tasks-on-multiple-celery-workers?u=76281980)
+#### [Executing tasks on multiple Celery workers](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/executing-tasks-on-multiple-celery-workers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3273,12 +3233,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (2), data (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assigning tasks to queues
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/assigning-tasks-to-queues?u=76281980)
+#### [Assigning tasks to queues](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/assigning-tasks-to-queues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3352,7 +3310,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (2)
 > **Env Vars:** dag (3)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** configure (2)
@@ -3365,12 +3322,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/summary-and-next-steps?u=76281980)
+#### [Summary and next steps](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/summary-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/summary-and-next-steps?u=76281980&t=1)** - [Instructor] And with this demo, we come to the very end of this course on Data Engineering Pipeline Management with Apache Airflow.
+> **[0:01](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/summary-and-next-steps?u=76281980&t=1)** - [Instructor] And with this demo, we come to the very end of this course on [[Data Engineering]] Pipeline Management with [[Apache Airflow]].
 >
 > **[0:08](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/summary-and-next-steps?u=76281980&t=8)** Let's take a quick look at what we covered in this course.
 >
@@ -3394,9 +3350,9 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/summary-and-next-steps?u=76281980&t=72)** Here we are at the very end of the course, but maybe you are interested in studying further.
 >
-> **[1:16](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/summary-and-next-steps?u=76281980&t=76)** Here are some other interesting courses on LinkedIn Learning.
+> **[1:16](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/summary-and-next-steps?u=76281980&t=76)** Here are some other interesting courses on [[LinkedIn]] Learning.
 >
-> **[1:20](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/summary-and-next-steps?u=76281980&t=80)** [[Apache Kafka Essential Training- Getting Started]] will introduce you to the Apache Kafka message broking service, or if you'd rather do some big data processing, Introduction to Spark is a great course for you to watch.
+> **[1:20](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/summary-and-next-steps?u=76281980&t=80)** [[[[Apache Kafka]] Essential Training- Getting Started]] will introduce you to the Apache Kafka message broking service, or if you'd rather do some [[Big Data]] processing, Introduction to Spark is a great course for you to watch.
 >
 > **[1:34](https://www.linkedin.com/learning/data-engineering-pipeline-management-with-apache-airflow/summary-and-next-steps?u=76281980&t=94)** Well, that's it from me here today.
 >
@@ -3406,7 +3362,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Apache Airflow]] (3), management (2), [[Apache Kafka]] (2), [[Data Engineering]] (1), data (1)
+> **Frameworks & Libraries:** [[Apache Airflow]] (3), [[Apache Kafka]] (2), [[Data Engineering]] (1), [[LinkedIn]] (1), [[Big Data]] (1)
 > **CLI Commands:** apache (5)
 > **Env Vars:** sla (3), csv (1)
 > **Prerequisites:** configure (2), getting started (1)

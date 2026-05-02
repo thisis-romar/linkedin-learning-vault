@@ -77,18 +77,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to RAG for Cyber Security
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/welcome-to-rag-for-cyber-security?u=76281980)
+#### [Welcome to RAG for Cyber Security](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/welcome-to-rag-for-cyber-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/welcome-to-rag-for-cyber-security?u=76281980&t=0)** - Cybersecurity threats evolve fast, but are your security tools keeping up?
+> **[0:00](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/welcome-to-rag-for-cyber-security?u=76281980&t=0)** - [[Cybersecurity]] threats evolve fast, but are your security tools keeping up?
 >
 > **[0:06](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/welcome-to-rag-for-cyber-security?u=76281980&t=6)** Traditional detection methods, compliance audits and security assessments are often reactive, time consuming and incomplete.
 >
 > **[0:15](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/welcome-to-rag-for-cyber-security?u=76281980&t=15)** What if AI could change that?
 >
-> **[0:17](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/welcome-to-rag-for-cyber-security?u=76281980&t=17)** Retrieval augmented generation, or RAG, is one of the most powerful AI tools in cybersecurity today, delivering real-time, explainable and compliant security insights.
+> **[0:17](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/welcome-to-rag-for-cyber-security?u=76281980&t=17)** Retrieval augmented generation, or RAG, is one of the most powerful AI tools in cybersecurity today, delivering [[Real-Time]], explainable and compliant security insights.
 >
 > **[0:30](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/welcome-to-rag-for-cyber-security?u=76281980&t=30)** I'm Brennan Lodge, founder and CEO of BLogic, NYU professor and award-winning AI researcher.
 >
@@ -100,26 +99,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), ai (3), [[Cybersecurity]] (2), rag (2), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Real-Time]] (1)
 > **Env Vars:** rag (2), ceo (1), nyu (1)
 > **Speakers:** - cybersecurity (1)
 
-#### What to know before getting started
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-to-know-before-getting-started?u=76281980)
+#### [What to know before getting started](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-to-know-before-getting-started?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-to-know-before-getting-started?u=76281980&t=0)** - Here's what to know before getting started.
 >
-> **[0:03](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-to-know-before-getting-started?u=76281980&t=3)** This course is designed for cybersecurity professionals, AI practitioners, and compliance experts looking to harness the power of retrieval-augmented generation for security and governance.
+> **[0:03](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-to-know-before-getting-started?u=76281980&t=3)** This course is designed for [[Cybersecurity]] professionals, AI practitioners, and compliance experts looking to harness the power of [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]] for security and governance.
 >
-> **[0:16](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-to-know-before-getting-started?u=76281980&t=16)** To get the most out of this course, you should have a foundational understanding of AI models and their applications; an interest in exploring how RAG enhances cybersecurity, audits, and compliance workflows; and finally, a basic proficiency in Python and Jupyter Notebooks for hands-on exercises.
+> **[0:16](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-to-know-before-getting-started?u=76281980&t=16)** To get the most out of this course, you should have a foundational understanding of AI models and their applications; an interest in exploring how RAG enhances cybersecurity, audits, and compliance workflows; and finally, a basic proficiency in [[Python (Programming Language)|Python]] and Jupyter Notebooks for hands-on exercises.
 >
 > **[0:37](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-to-know-before-getting-started?u=76281980&t=37)** By the end of this course, you'll be able to build and integrate RAG systems, automate security assessments, streamline audits, and apply AI to real-world cybersecurity challenges.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (3), ai (3), [[Security]] (2), rag (2), power (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** rag (2)
 > **CLI Commands:** python (1)
 > **Tools:** jupyter (1)
@@ -131,16 +129,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Retrieval-Augmented Generation?
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-is-retrieval-augmented-generation?u=76281980)
+#### [What is Retrieval-Augmented Generation?](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-is-retrieval-augmented-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-is-retrieval-augmented-generation?u=76281980&t=0)** - [Instructor] Imagine a world where artificial intelligence not only understands your question, but also retrieves the most relevant, up-to-date information to give you a precise and factually grounded answer.
+> **[0:00](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-is-retrieval-augmented-generation?u=76281980&t=0)** - [Instructor] Imagine a world where [[Artificial Intelligence (AI)|artificial intelligence]] not only understands your question, but also retrieves the most relevant, up-to-date information to give you a precise and factually grounded answer.
 >
-> **[0:13](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-is-retrieval-augmented-generation?u=76281980&t=13)** This is the essence of retrieval-augmented generation, or RAG, an exciting new paradigm in artificial intelligence.
+> **[0:13](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-is-retrieval-augmented-generation?u=76281980&t=13)** This is the essence of [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]], or RAG, an exciting new paradigm in artificial intelligence.
 >
-> **[0:22](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-is-retrieval-augmented-generation?u=76281980&t=22)** RAG represents a fusion of two powerful components in AI, the generative capabilities of large language models and the retrieval power of external knowledge sources.
+> **[0:22](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-is-retrieval-augmented-generation?u=76281980&t=22)** RAG represents a fusion of two powerful components in AI, the generative capabilities of [[Large Language Models (LLM)|large language models]] and the retrieval power of external knowledge sources.
 >
 > **[0:35](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-is-retrieval-augmented-generation?u=76281980&t=35)** Together, they address a critical challenge in AI, trying to ensure outputs are not only coherent, but also grounded in reality.
 >
@@ -170,7 +167,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-is-retrieval-augmented-generation?u=76281980&t=128)** In a true sense, now that we understand the three components when a question or query is posed by the user, the system doesn't solely rely on what's pre-programmed in its parameters.
 >
-> **[2:19](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-is-retrieval-augmented-generation?u=76281980&t=139)** Instead, it actively retrieves relevant information from external sources, such as those vector databases, or live data repositories.
+> **[2:19](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-is-retrieval-augmented-generation?u=76281980&t=139)** Instead, it actively retrieves relevant information from external sources, such as those [[Vector Databases]], or live data repositories.
 >
 > **[2:30](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-is-retrieval-augmented-generation?u=76281980&t=150)** This retrieved content combined with the language model's generative power, ensures the output is rich, relevant, and precise.
 >
@@ -178,11 +175,11 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-is-retrieval-augmented-generation?u=76281980&t=165)** Traditional language models have limitations.
 >
-> **[2:48](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-is-retrieval-augmented-generation?u=76281980&t=168)** They store knowledge in the parameters, which means they struggle with rapidly changing information, real-time information, and context-specific queries, or providing evidence for their outputs.
+> **[2:48](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-is-retrieval-augmented-generation?u=76281980&t=168)** They store knowledge in the parameters, which means they struggle with rapidly changing information, [[Real-Time]] information, and context-specific queries, or providing evidence for their outputs.
 >
 > **[3:01](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-is-retrieval-augmented-generation?u=76281980&t=181)** RAG is here to solve that by integrating real-time retrieval, which overcomes these hurdles.
 >
-> **[3:09](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-is-retrieval-augmented-generation?u=76281980&t=189)** Now onto cybersecurity.
+> **[3:09](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-is-retrieval-augmented-generation?u=76281980&t=189)** Now onto [[Cybersecurity]].
 >
 > **[3:12](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/what-is-retrieval-augmented-generation?u=76281980&t=192)** So for instance, in compliance, RAG systems are used to align organizational policies with evolving regulations.
 >
@@ -202,13 +199,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (7), ai (4), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (3), [[Real-Time]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
+> **Frameworks & Libraries:** [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (3), [[Real-Time]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Cybersecurity]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** rag (7), gdpr (1)
 > **Analogies:** imagine (2), such as (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Core components of RAG systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980)
+#### [Core components of RAG systems](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -238,7 +234,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980&t=100)** The system quickly matches your query vector to the most similar vectors in the database.
 >
-> **[1:46](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980&t=106)** Even if you have millions of documents like we do in cybersecurity with policies and regulations and logs, this process still remains fast.
+> **[1:46](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980&t=106)** Even if you have millions of documents like we do in [[Cybersecurity]] with policies and regulations and logs, this process still remains fast.
 >
 > **[1:57](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980&t=117)** Here we see how models like a sentence transformer, or BERT, encode text.
 >
@@ -274,11 +270,11 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980&t=215)** Imagine you're looking at a huge three dimensional map of cybersecurity terms that you see here.
 >
-> **[3:40](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980&t=220)** Each sphere on this map represents a vector, a numerical representation of a word or a concept like we see malware in the top left or ransomware in the center, or encryption.
+> **[3:40](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980&t=220)** Each sphere on this map represents a vector, a numerical representation of a [[Microsoft Word|word]] or a concept like we see malware in the top left or ransomware in the center, or encryption.
 >
 > **[3:54](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980&t=234)** The closer these spheres appear, the more closely related those concepts are in meaning.
 >
-> **[4:00](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980&t=240)** So like ransomware are clustered near malware and intrusion detection, because they often appear together in discussions about threat prevention.
+> **[4:00](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980&t=240)** So like ransomware are clustered near malware and [[Intrusion Detection]], because they often appear together in discussions about threat prevention.
 >
 > **[4:10](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980&t=250)** Meanwhile, terms like encryption and keys grouped together in a different area, reflecting their focus on secure communications, each of these clusters you can think of like a neighborhood of mini concepts.
 >
@@ -286,7 +282,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980&t=271)** This organization, powered by embeddings and vector storage, can help cybersecurity teams quickly spot related threats and solutions without sifting through countless pages of data or terabytes of logs.
 >
-> **[4:45](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980&t=285)** Vector databases.
+> **[4:45](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980&t=285)** [[Vector Databases]].
 >
 > **[4:47](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980&t=287)** Once those vectors are created, they need a specialized place to live, storage, a database.
 >
@@ -300,7 +296,7 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980&t=330)** This setup and the components of a vector database are huge for cybersecurity, and staying on top of evolving compliance documents.
 >
-> **[5:40](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980&t=340)** And examples of vector database out there include Chroma and Pinecone.
+> **[5:40](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980&t=340)** And examples of vector database out there include [[ChromaDB|Chroma]] and [[Pinecone]].
 >
 > **[5:46](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980&t=346)** Moving on to the last and final piece, the LLM, the knowledgeable librarian.
 >
@@ -348,7 +344,7 @@ created: 2026-05-02
 >
 > **[8:43](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980&t=523)** The system embeds that question.
 >
-> **[8:45](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980&t=525)** It looks for the most relevant pieces of data related to the California Consumer Privacy Act.
+> **[8:45](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980&t=525)** It looks for the most relevant pieces of data related to the California Consumer [[Privacy]] Act.
 >
 > **[8:50](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980&t=530)** The vector database locates documents that mention consumer privacy and California specific policies.
 >
@@ -358,11 +354,11 @@ created: 2026-05-02
 >
 > **[9:06](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980&t=546)** The RAG system quickly surfaces key details like CCPA requirements for data handling or user rights, and presents them in plain language.
 >
-> **[9:17](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980&t=557)** This is the power of combining semantic search via vectors with generative capabilities of an LLM, making complex compliance inquiries far more efficient to handle.
+> **[9:17](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/core-components-of-rag-systems?u=76281980&t=557)** This is the power of combining [[Semantic Search]] via vectors with generative capabilities of an LLM, making complex compliance inquiries far more efficient to handle.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), llm (11), data (8), [[Cybersecurity]] (6), rag (4)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Vector Databases]] (2), [[Privacy]] (2), [[Microsoft Word|Word]] (1), [[Intrusion Detection]] (1)
 > **Env Vars:** llm (11), rag (4), ccpa (2), bert (1)
 > **Analogies:** think of it like (2), imagine (2), for example (1)
 > **CLI Commands:** find (2)
@@ -375,12 +371,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduce RAGs capabilities for risk and cyber security
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/introduce-rags-capabilities-for-risk-and-cyber-security?u=76281980)
+#### [Introduce RAGs capabilities for risk and cyber security](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/introduce-rags-capabilities-for-risk-and-cyber-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/introduce-rags-capabilities-for-risk-and-cyber-security?u=76281980&t=0)** - [Narrator] In the ever-evolving battlefield of cybersecurity, the threats we face grow more complex every day.
+> **[0:00](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/introduce-rags-capabilities-for-risk-and-cyber-security?u=76281980&t=0)** - [Narrator] In the ever-evolving battlefield of [[Cybersecurity]], the threats we face grow more complex every day.
 >
 > **[0:07](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/introduce-rags-capabilities-for-risk-and-cyber-security?u=76281980&t=7)** Cybersecurity analysts are inundated with massive data sets from live threat intel to compliance requirements, making it harder to separate meaningful insights from the noise.
 >
@@ -408,7 +403,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/introduce-rags-capabilities-for-risk-and-cyber-security?u=76281980&t=92)** In our responses, we may want the RAG to get our birthday correct or know our IP address range from our own network.
 >
-> **[1:41](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/introduce-rags-capabilities-for-risk-and-cyber-security?u=76281980&t=101)** And with this, we ensure we get relevant, custom, and real-time insights without drifting into just the averages.
+> **[1:41](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/introduce-rags-capabilities-for-risk-and-cyber-security?u=76281980&t=101)** And with this, we ensure we get relevant, custom, and [[Real-Time]] insights without drifting into just the averages.
 >
 > **[1:51](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/introduce-rags-capabilities-for-risk-and-cyber-security?u=76281980&t=111)** The agenda for this section is we'll start on a positive note: The good news of AI.
 >
@@ -446,7 +441,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/introduce-rags-capabilities-for-risk-and-cyber-security?u=76281980&t=225)** We need to empower our analysts with the best tools and perform at the highest integrity.
 >
-> **[3:51](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/introduce-rags-capabilities-for-risk-and-cyber-security?u=76281980&t=231)** But with those tools, we don't have unlimited resources, and we need to address privacy and operational concerns within our infrastructure.
+> **[3:51](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/introduce-rags-capabilities-for-risk-and-cyber-security?u=76281980&t=231)** But with those tools, we don't have unlimited resources, and we need to address [[Privacy]] and operational concerns within our infrastructure.
 >
 > **[4:02](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/introduce-rags-capabilities-for-risk-and-cyber-security?u=76281980&t=242)** Where does RAG come into play and what does it have to offer?
 >
@@ -500,11 +495,11 @@ created: 2026-05-02
 >
 > **[6:48](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/introduce-rags-capabilities-for-risk-and-cyber-security?u=76281980&t=408)** I mean, red teams are using AI, so why not fight fire with fire and integrate into your blue teams?
 >
-> **[6:57](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/introduce-rags-capabilities-for-risk-and-cyber-security?u=76281980&t=417)** RAG taps into multiple authoritative sources, pulling in high-quality verified data like moderate attack, NIST, your policies, and even more.
+> **[6:57](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/introduce-rags-capabilities-for-risk-and-cyber-security?u=76281980&t=417)** RAG taps into multiple authoritative sources, pulling in high-quality verified data like moderate attack, [[NIST]], your policies, and even more.
 >
 > **[7:09](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/introduce-rags-capabilities-for-risk-and-cyber-security?u=76281980&t=429)** When RAG's integrated into platforms, they can even be chat-oriented.
 >
-> **[7:17](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/introduce-rags-capabilities-for-risk-and-cyber-security?u=76281980&t=437)** So leveraging a chat platform like Slack where you can get real time threat alerts, compliance insights, and collaborate with peers about anything.
+> **[7:17](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/introduce-rags-capabilities-for-risk-and-cyber-security?u=76281980&t=437)** So leveraging a chat platform like [[Slack]] where you can get real time threat alerts, compliance insights, and collaborate with peers about anything.
 >
 > **[7:29](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/introduce-rags-capabilities-for-risk-and-cyber-security?u=76281980&t=449)** In this upcoming code session we'll show how these pieces fit together.
 >
@@ -516,7 +511,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (19), data (11), ai (11), [[Cybersecurity]] (6), [[Security]] (4)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Real-Time]] (1), [[Privacy]] (1), [[NIST]] (1), [[Slack]] (1)
 > **Env Vars:** rag (18), nist (1), llm (1)
 > **Tools:** slack (1)
 > **Definitions:** is a  (1)
@@ -524,24 +519,23 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Speakers:** - [narrator] (1)
 
-#### Uploading  MITRE ATT&CK techniques to a vector database
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/uploading-mitre-att-ck-techniques-to-a-vectordatabase?u=76281980)
+#### [Uploading  MITRE ATT&CK techniques to a vector database](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/uploading-mitre-att-ck-techniques-to-a-vectordatabase?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/uploading-mitre-att-ck-techniques-to-a-vectordatabase?u=76281980&t=0)** - [Instructor] Hello.
 >
-> **[0:02](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/uploading-mitre-att-ck-techniques-to-a-vectordatabase?u=76281980&t=2)** In this coding session, we're walking through the process of uploading MITRE ATT&CK, Sigma detections and CISA advisory data into Chroma Database, a high performance vector database.
+> **[0:02](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/uploading-mitre-att-ck-techniques-to-a-vectordatabase?u=76281980&t=2)** In this coding session, we're walking through the process of uploading MITRE ATT&CK, Sigma detections and CISA advisory data into [[ChromaDB|Chroma]] Database, a high performance vector database.
 >
 > **[0:13](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/uploading-mitre-att-ck-techniques-to-a-vectordatabase?u=76281980&t=13)** By the end of this session, you'll know how to set up a vector database environment, process data and query it efficiently.
 >
-> **[0:21](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/uploading-mitre-att-ck-techniques-to-a-vectordatabase?u=76281980&t=21)** You can follow along with the GitHub repo at 02_02 branch and the markdown file, UseCase1.md in the Chapters 2 folder.
+> **[0:21](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/uploading-mitre-att-ck-techniques-to-a-vectordatabase?u=76281980&t=21)** You can follow along with the [[GitHub]] repo at 02_02 branch and the markdown file, UseCase1.md in the Chapters 2 folder.
 >
 > **[0:31](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/uploading-mitre-att-ck-techniques-to-a-vectordatabase?u=76281980&t=31)** Let's get started.
 >
 > **[0:33](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/uploading-mitre-att-ck-techniques-to-a-vectordatabase?u=76281980&t=33)** Before we start with the coding, we've got to ensure we've got our packages installed.
 >
-> **[0:38](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/uploading-mitre-att-ck-techniques-to-a-vectordatabase?u=76281980&t=38)** We've got to install Chroma DB, pandas and transformers.
+> **[0:38](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/uploading-mitre-att-ck-techniques-to-a-vectordatabase?u=76281980&t=38)** We've got to install Chroma DB, [[Pandas (Software)|pandas]] and transformers.
 >
 > **[0:42](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/uploading-mitre-att-ck-techniques-to-a-vectordatabase?u=76281980&t=42)** To do so, call pip and run that install.
 >
@@ -581,7 +575,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/uploading-mitre-att-ck-techniques-to-a-vectordatabase?u=76281980&t=175)** And the response we get the row that closest-ly aligns to a remote desktop attack.
 >
-> **[3:02](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/uploading-mitre-att-ck-techniques-to-a-vectordatabase?u=76281980&t=182)** The metadata of that row and the file path, which includes the technique, and in this case, the technique is remote desktop services, so pretty well aligned.
+> **[3:02](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/uploading-mitre-att-ck-techniques-to-a-vectordatabase?u=76281980&t=182)** The [[Metadata]] of that row and the file path, which includes the technique, and in this case, the technique is remote desktop services, so pretty well aligned.
 >
 > **[3:17](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/uploading-mitre-att-ck-techniques-to-a-vectordatabase?u=76281980&t=197)** There are going to be some other bros in the vector database that it calls that are closely related to remote desktop attack and you can go through and check as to what those are.
 >
@@ -599,7 +593,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (8), data (7), database (7), [[GitHub]] (2), [[Pandas (Software)|Pandas]] (2)
+> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (8), [[GitHub]] (2), [[Pandas (Software)|Pandas]] (2), [[Metadata]] (1)
 > **Env Vars:** mitre (2), csv (2), att (1), cisa (1), l12 (1)
 > **Prerequisites:** set up (3), install (2), before we start (1)
 > **Exercise Files:** github repo (2), download the (1)
@@ -608,24 +602,23 @@ created: 2026-05-02
 > **File Paths:** usecase1.md (1)
 > **CLI Commands:** pip (1)
 
-#### Adding the LLM
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/adding-the-llm?u=76281980)
+#### [Adding the LLM](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/adding-the-llm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/adding-the-llm?u=76281980&t=0)** - [Instructor] Welcome to our next coding session on integrating an LLM with Chroma DB and a sentence embedding model.
+> **[0:00](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/adding-the-llm?u=76281980&t=0)** - [Instructor] Welcome to our next coding session on integrating an LLM with [[ChromaDB|Chroma]] DB and a sentence embedding model.
 >
 > **[0:08](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/adding-the-llm?u=76281980&t=8)** We'll explore how to build this full pipeline of RAG using the LLM off the shelf, in this case an open source model called WizardLM 13B.
 >
-> **[0:19](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/adding-the-llm?u=76281980&t=19)** That is from Hugging Face, or if you prefer an API version through OpenAI, we've got you set up and at the end of the session you'll know how to configure and query your cybersecurity data locally and also learn about the option to tap in to OpenAI for additional capabilities.
+> **[0:19](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/adding-the-llm?u=76281980&t=19)** That is from [[Hugging Face]], or if you prefer an API version through OpenAI, we've got you set up and at the end of the session you'll know how to configure and query your [[Cybersecurity]] data locally and also learn about the option to tap in to OpenAI for additional capabilities.
 >
-> **[0:41](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/adding-the-llm?u=76281980&t=41)** You can download the Wizard LLM model from the link specified within the GitHub repo.
+> **[0:41](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/adding-the-llm?u=76281980&t=41)** You can download the Wizard LLM model from the link specified within the [[GitHub]] repo.
 >
 > **[0:46](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/adding-the-llm?u=76281980&t=46)** Let's get started.
 >
 > **[0:48](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/adding-the-llm?u=76281980&t=48)** Let's make sure our environment is set up correctly.
 >
-> **[0:51](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/adding-the-llm?u=76281980&t=51)** You'll need Python installed along with the following libraries mentioned here.
+> **[0:51](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/adding-the-llm?u=76281980&t=51)** You'll need [[Python (Programming Language)|Python]] installed along with the following libraries mentioned here.
 >
 > **[0:56](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/adding-the-llm?u=76281980&t=56)** We'll also download that LLM locally, put it in the root directory, and we've got the other option for OpenAI to hit as API and we'll do that later in this session.
 >
@@ -641,7 +634,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/adding-the-llm?u=76281980&t=103)** Remember, we've got an alternative of OpenAI to swap in instead of this local LLM CPP configuration, and we'll do that in just a bit.
 >
-> **[1:56](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/adding-the-llm?u=76281980&t=116)** Now that this says loaded, we can move on to integrating LangChain with our LLM and Chroma DB.
+> **[1:56](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/adding-the-llm?u=76281980&t=116)** Now that this says loaded, we can move on to integrating [[LangChain]] with our LLM and Chroma DB.
 >
 > **[2:05](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/adding-the-llm?u=76281980&t=125)** LangChain is a good middleware.
 >
@@ -651,7 +644,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/adding-the-llm?u=76281980&t=148)** We're also setting up a template here.
 >
-> **[2:31](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/adding-the-llm?u=76281980&t=151)** This is just a plain vanilla template for prompting.
+> **[2:31](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/adding-the-llm?u=76281980&t=151)** This is just a plain [[Vanilla]] template for prompting.
 >
 > **[2:34](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/adding-the-llm?u=76281980&t=154)** We'll get into prompting a little bit later, and we're setting up our retrieval QA function here, calling in the local LLM and getting it ready to launch.
 >
@@ -663,7 +656,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/adding-the-llm?u=76281980&t=184)** In this case, we're getting the response pretty quick and it's mapping to FTP, so a good match here on the security detection and a good response.
 >
-> **[3:19](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/adding-the-llm?u=76281980&t=199)** Here's the metadata on the RAG response.
+> **[3:19](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/adding-the-llm?u=76281980&t=199)** Here's the [[Metadata]] on the RAG response.
 >
 > **[3:22](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/adding-the-llm?u=76281980&t=202)** So we got the LLM response and we can reference a MITRE attack technique and it does a pretty good job of mapping the question with a relevant answer.
 >
@@ -703,7 +696,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (16), api (7), rag (6), [[ChromaDB|Chroma]] (5), next (3)
+> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (5), [[Cybersecurity]] (2), [[LangChain]] (2), [[Hugging Face]] (1), [[GitHub]] (1)
 > **Env Vars:** llm (16), api (7), rag (6), mitre (5), gpu (2)
 > **Prerequisites:** set up (5), configure (2), you'll need (1)
 > **Exercise Files:** template (2), download the (1), github repo (1)
@@ -712,8 +705,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Cross-References:** later in (1)
 
-#### Case Study: MITRE ATT&CK and RAG in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/case-study-mitre-att-ck-and-rag-in-action?u=76281980)
+#### [Case Study: MITRE ATT&CK and RAG in action](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/case-study-mitre-att-ck-and-rag-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -741,7 +733,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/case-study-mitre-att-ck-and-rag-in-action?u=76281980&t=64)** Called MITREembed.
 >
-> **[1:06](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/case-study-mitre-att-ck-and-rag-in-action?u=76281980&t=66)** It's an open source project on GitHub.
+> **[1:06](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/case-study-mitre-att-ck-and-rag-in-action?u=76281980&t=66)** It's an open source project on [[GitHub]].
 >
 > **[1:08](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/case-study-mitre-att-ck-and-rag-in-action?u=76281980&t=68)** Available and public, the website there.
 >
@@ -773,15 +765,15 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/case-study-mitre-att-ck-and-rag-in-action?u=76281980&t=140)** So taking a look at the project flow.
 >
-> **[2:23](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/case-study-mitre-att-ck-and-rag-in-action?u=76281980&t=143)** We've got data collection.
+> **[2:23](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/case-study-mitre-att-ck-and-rag-in-action?u=76281980&t=143)** We've got [[Data Collection]].
 >
 > **[2:25](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/case-study-mitre-att-ck-and-rag-in-action?u=76281980&t=145)** And you can mix and match the data that you want to UPSERT.
 >
-> **[2:31](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/case-study-mitre-att-ck-and-rag-in-action?u=76281980&t=151)** A lot of detections come in YAML or JSON format.
+> **[2:31](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/case-study-mitre-att-ck-and-rag-in-action?u=76281980&t=151)** A lot of detections come in YAML or [[JSON]] format.
 >
 > **[2:35](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/case-study-mitre-att-ck-and-rag-in-action?u=76281980&t=155)** We're going to parse them.
 >
-> **[2:37](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/case-study-mitre-att-ck-and-rag-in-action?u=76281980&t=157)** And create a schema that aligns the unstructured data into a structure.
+> **[2:37](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/case-study-mitre-att-ck-and-rag-in-action?u=76281980&t=157)** And create a schema that aligns the [[Unstructured Data]] into a structure.
 >
 > **[2:46](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/case-study-mitre-att-ck-and-rag-in-action?u=76281980&t=166)** So that it can get results and a better understanding to your LLM from that vector database.
 >
@@ -847,13 +839,13 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/case-study-mitre-att-ck-and-rag-in-action?u=76281980&t=318)** And this is how we keep pace with cyber threats.
 >
-> **[5:21](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/case-study-mitre-att-ck-and-rag-in-action?u=76281980&t=321)** That never seem to rest.
+> **[5:21](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/case-study-mitre-att-ck-and-rag-in-action?u=76281980&t=321)** That never seem to [[Representational State Transfer (REST)|rest]].
 >
-> **[5:23](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/case-study-mitre-att-ck-and-rag-in-action?u=76281980&t=323)** So, let's move forward and see how we can implement some more concepts of cybersecurity and RAG into your environment.
+> **[5:23](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/case-study-mitre-att-ck-and-rag-in-action?u=76281980&t=323)** So, let's move forward and see how we can implement some more concepts of [[Cybersecurity]] and RAG into your environment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), rag (6), database (6), llm (5), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Data Collection]] (2), [[JSON]] (1), [[Unstructured Data]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** mitre (7), rag (6), llm (5), att (2), etl (2)
 > **Tools:** github (2)
 > **CLI Commands:** make (1)
@@ -865,14 +857,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using RAG for GRC automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/using-rag-for-grc-automation?u=76281980)
+#### [Using RAG for GRC automation](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/using-rag-for-grc-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/using-rag-for-grc-automation?u=76281980&t=0)** - [Instructor] Introducing RAG for GRC or governance, risk, and compliance.
 >
-> **[0:06](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/using-rag-for-grc-automation?u=76281980&t=6)** Data privacy laws are constantly evolving.
+> **[0:06](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/using-rag-for-grc-automation?u=76281980&t=6)** [[Data Privacy]] laws are constantly evolving.
 >
 > **[0:08](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/using-rag-for-grc-automation?u=76281980&t=8)** Compliance teams are drowning in regs and each with its own nuances and requirements and always ever changing.
 >
@@ -894,7 +885,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/using-rag-for-grc-automation?u=76281980&t=103)** So with RAG, we can transform GRC.
 >
-> **[1:46](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/using-rag-for-grc-automation?u=76281980&t=106)** Unlike traditional AI models that generate responses purely from trained data, RAG is going to retrieve relevant regulatory text, case law or organizational policies before generating an answer.
+> **[1:46](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/using-rag-for-grc-automation?u=76281980&t=106)** Unlike [[Traditional AI]] models that generate responses purely from trained data, RAG is going to retrieve relevant regulatory text, case law or organizational policies before generating an answer.
 >
 > **[2:00](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/using-rag-for-grc-automation?u=76281980&t=120)** This means we can get compliance teams to get context aware, level up their knowledge game with evidence backed insights, reducing the risk of misinterpretation.
 >
@@ -904,19 +895,18 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/using-rag-for-grc-automation?u=76281980&t=158)** So further gap analysis, demonstrating how RAG can compare existing policies internally to external regulations and highlight some gaps.
 >
-> **[2:50](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/using-rag-for-grc-automation?u=76281980&t=170)** By the end of this chapter, you'll see how RAG just isn't a tool, it's a game changer for regulatory compliance worldwide.
+> **[2:50](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/using-rag-for-grc-automation?u=76281980&t=170)** By the end of this chapter, you'll see how RAG just isn't a tool, it's a game changer for [[Regulatory Compliance]] worldwide.
 >
 > **[2:58](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/using-rag-for-grc-automation?u=76281980&t=178)** So let's dive in and explore how RAG can bridge that gap for regulations and turn that gap into reality.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (10), data (3), teams (3), game (2), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (1), [[Traditional AI]] (1), [[Regulatory Compliance]] (1)
 > **Env Vars:** rag (10), grc (4), gdpr (2), aml (1), hipaa (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enhancing regulatory compliance with RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/enhancing-regulatory-compliance-with-rag?u=76281980)
+#### [Enhancing regulatory compliance with RAG](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/enhancing-regulatory-compliance-with-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -926,7 +916,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/enhancing-regulatory-compliance-with-rag?u=76281980&t=15)** We'll talk about how to RAG with GRC and monitoring that gap analysis for rich insight and taking action and hopefully avoiding fines.
 >
-> **[0:25](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/enhancing-regulatory-compliance-with-rag?u=76281980&t=25)** Lastly, we'll talk a variety of use cases, everything from privacy, international law, data protection, and how you can use RAG to help with those use cases.
+> **[0:25](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/enhancing-regulatory-compliance-with-rag?u=76281980&t=25)** Lastly, we'll talk a variety of use cases, everything from [[Privacy]], international law, data protection, and how you can use RAG to help with those use cases.
 >
 > **[0:40](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/enhancing-regulatory-compliance-with-rag?u=76281980&t=40)** Let's get into it, the compliance challenge.
 >
@@ -990,7 +980,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/enhancing-regulatory-compliance-with-rag?u=76281980&t=254)** That's a lot of time, and avoided a potential fine for delayed compliance, another big win.
 >
-> **[4:20](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/enhancing-regulatory-compliance-with-rag?u=76281980&t=260)** Another use case here on a global perspective, the UNCTAD dataset, a big one that encompasses a global perspective on privacy cybersecurity law.
+> **[4:20](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/enhancing-regulatory-compliance-with-rag?u=76281980&t=260)** Another use case here on a global perspective, the UNCTAD dataset, a big one that encompasses a global perspective on privacy [[Cybersecurity]] law.
 >
 > **[4:32](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/enhancing-regulatory-compliance-with-rag?u=76281980&t=272)** It tracks data protection laws across 137-plus countries.
 >
@@ -1026,7 +1016,7 @@ created: 2026-05-02
 >
 > **[6:33](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/enhancing-regulatory-compliance-with-rag?u=76281980&t=393)** So instead of the generic answer, you can get context-relevant suggestions, often with citations directly from that legislation, law, or your internal policy.
 >
-> **[6:46](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/enhancing-regulatory-compliance-with-rag?u=76281980&t=406)** Here's an example of prompt engineering for GRC, and we start with prompting it as a governance risk and compliance agent with an objective to always prioritize governance, risk, and compliance, accuracy, and thoroughness, and to be specific.
+> **[6:46](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/enhancing-regulatory-compliance-with-rag?u=76281980&t=406)** Here's an example of [[Prompt Engineering]] for GRC, and we start with prompting it as a governance risk and compliance agent with an objective to always prioritize governance, risk, and compliance, accuracy, and thoroughness, and to be specific.
 >
 > **[7:03](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/enhancing-regulatory-compliance-with-rag?u=76281980&t=423)** This prompt ensures that we're going to remain anchored in best practices for GRC, relevant laws that we state, and our own internal policies that we call out in the prompt, like specific policies that may include disc encryption or vulnerability management.
 >
@@ -1050,14 +1040,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (15), data (8), [[Security]] (6), prompt (5), [[Privacy]] (4)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Cybersecurity]] (2), [[Prompt Engineering]] (1)
 > **Env Vars:** rag (15), grc (6), soc (4), gdpr (2), unctad (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Gap analysis using RAG: A deep dive
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980)
+#### [Gap analysis using RAG: A deep dive](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1065,7 +1054,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=9)** A mouthful I know, but this system allows us to efficiently query global data protection laws and retrieve relevant legal frameworks from a lot of countries.
 >
-> **[0:20](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=20)** By the end of the session, you'll understand how regulatory compliance can be streamlined using RAG.
+> **[0:20](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=20)** By the end of the session, you'll understand how [[Regulatory Compliance]] can be streamlined using RAG.
 >
 > **[0:25](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=25)** So let's get started.
 >
@@ -1073,7 +1062,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=34)** And this data set contains various policies.
 >
-> **[0:39](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=39)** So let's take a look with this value counts function to understand how the subjects or the countries have the data privacy laws and the rows of those laws per country.
+> **[0:39](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=39)** So let's take a look with this value counts function to understand how the subjects or the countries have the [[Data Privacy]] laws and the rows of those laws per country.
 >
 > **[0:54](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=54)** So in this case, Trinidad and Tobago had a pretty lengthy data protection law of 115 rows.
 >
@@ -1083,7 +1072,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=84)** So back to the code, we are going to load our embedding model using the same embedding model we've been using in the last coding sessions.
 >
-> **[1:34](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=94)** We're going to process and understand this data and prioritize building the data by loading it into Chroma in that data protection CSV file.
+> **[1:34](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=94)** We're going to process and understand this data and prioritize building the data by loading it into [[ChromaDB|Chroma]] in that data protection CSV file.
 >
 > **[1:48](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=108)** Continue to have a persistent Chroma database in case we want to upload some more data.
 >
@@ -1097,11 +1086,11 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=150)** Now let's integrate the LLM to make the full RAG pipeline and system.
 >
-> **[2:38](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=158)** We're going to use that local LLM, the Wizard LM 13 billion tokens, configure our GPU.
+> **[2:38](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=158)** We're going to use that local LLM, the Wizard LM 13 billion [[Tokens]], configure our GPU.
 >
 > **[2:46](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=166)** And now with this setup, we can ask it questions.
 >
-> **[2:51](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=171)** You'll notice here we've got this same vanilla type or prompt, feel free to update that with some of the prompt engineering skills that we talked about earlier in the chapter.
+> **[2:51](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=171)** You'll notice here we've got this same [[Vanilla]] type or prompt, feel free to update that with some of the [[Prompt Engineering]] skills that we talked about earlier in the chapter.
 >
 > **[3:03](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=183)** Let's set up the LLM, integrate it, and we're good to go with asking example queries.
 >
@@ -1109,11 +1098,11 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=198)** We're going to get an output here, hopefully explaining the policy and the legal framework for processing personal data.
 >
-> **[3:28](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=208)** It'll take some time to load and we get an output protecting individual's privacy rights, and we can take a look at that law from the reference after we get an explanation from the LLM.
+> **[3:28](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=208)** It'll take some time to load and we get an output protecting individual's [[Privacy]] rights, and we can take a look at that law from the reference after we get an explanation from the LLM.
 >
 > **[3:44](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=224)** That full reference is there and it's good to go.
 >
-> **[3:48](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=228)** Feel free to try some of these questions out on your own, with these questions ranging from asking about NIST, GDPR, and some subjective questions at the bottom here.
+> **[3:48](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=228)** Feel free to try some of these questions out on your own, with these questions ranging from asking about [[NIST]], GDPR, and some subjective questions at the bottom here.
 >
 > **[4:01](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=241)** Like which country has the toughest data protection law?
 >
@@ -1131,13 +1120,13 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=293)** By implementing this RAG for compliance, we can streamline some of those audits, ensure compliance is with the evolving laws, and reduce a lot of that manual research time that goes into the day-to-day of a governance risk and compliance officer.
 >
-> **[5:12](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=312)** Hopefully, this system can be expanded with more regulations, some more real-time legal updates of a real-time feed, and possibly adding in dashboards for visualization and tracking gaps.
+> **[5:12](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=312)** Hopefully, this system can be expanded with more regulations, some more [[Real-Time]] legal updates of a real-time feed, and possibly adding in [[Dashboards]] for visualization and tracking gaps.
 >
 > **[5:27](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/gap-analysis-using-rag-a-deep-dive?u=76281980&t=327)** Congratulations, you've built a RAG system for governance risk and compliance.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Privacy]] (5), database (5), rag (4), llm (4)
+> **Frameworks & Libraries:** [[Data Privacy]] (4), [[ChromaDB|Chroma]] (2), [[Real-Time]] (2), [[Regulatory Compliance]] (1), [[Tokens]] (1)
 > **Env Vars:** rag (4), llm (4), grc (1), csv (1), gpu (1)
 > **Cross-References:** in the last (1), we talked about (1), earlier in (1)
 > **Prerequisites:** configure (1), setup (1), set up (1)
@@ -1149,8 +1138,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Maintaining and scaling RAG systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980)
+#### [Maintaining and scaling RAG systems](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1162,9 +1150,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=9)** We'll share some lessons learned from real world deployments and explain why these practices truly matter when your goal is to defend an organization's network and data.
 >
-> **[0:20](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=20)** I'm coming at this from my experience as a data scientist working in cybersecurity, where the demands of incident response, compliance, stakeholder buy-in meet the reality of building and maintaining AI driven solutions in production.
+> **[0:20](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=20)** I'm coming at this from my experience as a data scientist working in [[Cybersecurity]], where the demands of [[Incident Response]], compliance, stakeholder buy-in meet the reality of building and maintaining AI driven solutions in production.
 >
-> **[0:36](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=36)** In my deployment, I've seen a huge difference between basic RAG setups where you dump some data into a vector store and do minimal prompt engineering to advance approaches, the lists you see now that fully consider aspects like system development lifecycle, MLOps, scaling, and focusing on a single domain.
+> **[0:36](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=36)** In my deployment, I've seen a huge difference between basic RAG setups where you dump some data into a vector store and do minimal [[Prompt Engineering]] to advance approaches, the lists you see now that fully consider aspects like system development lifecycle, [[MLOps]], scaling, and focusing on a single domain.
 >
 > **[0:58](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=58)** You need to continuously ingest new data, refresh your index, and maintain high performance even as the dataset balloons with fresh intelligence.
 >
@@ -1174,9 +1162,9 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=78)** So incorporate and maintain a secure architecture.
 >
-> **[1:21](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=81)** When integrating with large language models, that's a matter of doing it in a secure way.
+> **[1:21](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=81)** When integrating with [[Large Language Models (LLM)|large language models]], that's a matter of doing it in a secure way.
 >
-> **[1:27](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=87)** A lot of us jump to using these big models hosted externally, which may be okay if you anonymize certain fields or tokenize sensitive IP addresses, but if you handle data that absolutely cannot leave your environment, think highly confidential threat intelligence or proprietary code or personal financial data, then an on-prem solution is a much safer approach.
+> **[1:27](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=87)** A lot of us jump to using these big models hosted externally, which may be okay if you anonymize certain fields or tokenize sensitive IP addresses, but if you handle data that absolutely cannot leave your environment, think highly confidential threat intelligence or proprietary code or personal [[Financial Data]], then an on-prem solution is a much safer approach.
 >
 > **[1:52](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=112)** Either way, the primary goal is to make sure that you don't send sensitive raw data off to third party, and your regulators forbid that, and you shouldn't do it, on top of that.
 >
@@ -1222,9 +1210,9 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=284)** Switching gears here onto MLOps.
 >
-> **[4:47](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=287)** This is your DevOps for ML or machine learning, now AI.
+> **[4:47](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=287)** This is your [[DevOps]] for ML or machine learning, now AI.
 >
-> **[4:52](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=292)** This will ensure your stable deployment of your RAG applications, and it extends the concept to manage data pipelines, model updates, version control, and embeddings.
+> **[4:52](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=292)** This will ensure your stable deployment of your RAG applications, and it extends the concept to manage [[Data Pipelines]], model updates, [[Version Control]], and embeddings.
 >
 > **[5:04](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=304)** So these are the things that you're going to have to track.
 >
@@ -1252,7 +1240,7 @@ created: 2026-05-02
 >
 > **[6:19](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=379)** Here's an example of some transparency or logging that you can provide right to the the end user when a query responds back.
 >
-> **[6:28](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=388)** Some performance, query response time, how many tokens were used, and cost.
+> **[6:28](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=388)** Some performance, query response time, how many [[Tokens]] were used, and cost.
 >
 > **[6:34](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=394)** This is really good practice for end customers or clients or users that are embracing and using the RAG.
 >
@@ -1268,7 +1256,7 @@ created: 2026-05-02
 >
 > **[7:22](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=442)** Then scale, also keep the architecture minimal.
 >
-> **[7:27](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=447)** Something like a local embedding store with Chroma and some basic prompt engineering is fine for your MVP or your proof of concept.
+> **[7:27](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=447)** Something like a local embedding store with [[ChromaDB|Chroma]] and some basic prompt engineering is fine for your MVP or your proof of concept.
 >
 > **[7:37](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=457)** You can always add extra layers like load balancing or advanced caching or more GPUs.
 >
@@ -1282,7 +1270,7 @@ created: 2026-05-02
 >
 > **[8:23](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=503)** On the security side, this is obviously paramount to consider.
 >
-> **[8:27](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=507)** You're going to store some embeddings in that vector database, and similarly, how you would defend a database is how you defend a vector database, encryption at rest, in transit, or any specialized module that your vendor is going to use with the vector database.
+> **[8:27](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=507)** You're going to store some embeddings in that vector database, and similarly, how you would defend a database is how you defend a vector database, encryption at [[Representational State Transfer (REST)|rest]], in transit, or any specialized module that your vendor is going to use with the vector database.
 >
 > **[8:46](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=526)** On the transit of your data TLS, you can also add some RBAC, so that's role-based access control, and separate your vector collections by classification levels.
 >
@@ -1292,9 +1280,9 @@ created: 2026-05-02
 >
 > **[9:14](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=554)** This ensures that, for instance, a marketing team user can't stumble onto some cybersecurity data that only the security team or a compliance officer should see.
 >
-> **[9:25](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=565)** So putting it all together, if you've got some key themes here, and when you deploy advanced RAG in a cybersecurity context, it's the synergy of engineering, data science, ops, DevOps, MLOps, and just some fundamental InfoSec practices.
+> **[9:25](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=565)** So putting it all together, if you've got some key themes here, and when you deploy advanced RAG in a cybersecurity context, it's the synergy of engineering, [[Data Science]], ops, DevOps, MLOps, and just some fundamental InfoSec practices.
 >
-> **[9:43](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=583)** You want continuous data ingestion, like hooking into your daily threat feed or scanning results.
+> **[9:43](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=583)** You want continuous [[Data Ingestion]], like hooking into your daily threat feed or scanning results.
 >
 > **[9:50](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/maintaining-and-scaling-rag-systems?u=76281980&t=590)** You also want a robust model that is updated and the embeddings stay current.
 >
@@ -1306,7 +1294,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), rag (12), database (6), [[MLOps]] (5), [[Cybersecurity]] (3)
+> **Frameworks & Libraries:** [[MLOps]] (5), [[Cybersecurity]] (3), [[Prompt Engineering]] (3), [[DevOps]] (2), [[Incident Response]] (1)
 > **Env Vars:** rag (12), grc (2), rbac (2), csa (1), cve (1)
 > **Analogies:** for instance (2), such as (1)
 > **CLI Commands:** make (1), cd (1)
@@ -1315,20 +1303,19 @@ created: 2026-05-02
 > **Cross-References:** coming up (1)
 > **UI Navigation:** open the (1)
 
-#### Course summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-summary?u=76281980)
+#### [Course summary](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-summary?u=76281980&t=0)** - [Instructor] Wow. We've covered a lot.
 >
-> **[0:02](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-summary?u=76281980&t=2)** From the fundamentals of retrieval augmented generation to its real world applications in cybersecurity and compliance.
+> **[0:02](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-summary?u=76281980&t=2)** From the fundamentals of retrieval augmented generation to its real world applications in [[Cybersecurity]] and compliance.
 >
-> **[0:10](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-summary?u=76281980&t=10)** Let's take a moment to recap what you've learned and more importantly, how you can continue building your skills in ai, data science and cybersecurity.
+> **[0:10](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-summary?u=76281980&t=10)** Let's take a moment to recap what you've learned and more importantly, how you can continue building your skills in ai, [[Data Science]] and cybersecurity.
 >
 > **[0:19](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-summary?u=76281980&t=19)** Here are some of the key takeaways.
 >
-> **[0:21](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-summary?u=76281980&t=21)** In chapter one, for core components of RAG, you learned how sentence embedding models, vector databases, and large language models work together to power rag systems, making AI retrieval more accurate and context aware.
+> **[0:21](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-summary?u=76281980&t=21)** In chapter one, for core components of RAG, you learned how sentence embedding models, [[Vector Databases]], and [[Large Language Models (LLM)|large language models]] work together to power rag systems, making AI retrieval more accurate and context aware.
 >
 > **[0:36](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-summary?u=76281980&t=36)** And RAG in action for cybersecurity, we explored how RAG enhances cybersecurity workflows.
 >
@@ -1336,7 +1323,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-summary?u=76281980&t=50)** In chapter three, RAG for governance, risk, and compliance, you saw how RAG helps navigate complex regulatory landscapes, automating policy analysis and compliance gap assessments for frameworks like GDPR, NYCRR 500, and more.
 >
-> **[1:08](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-summary?u=76281980&t=68)** Lastly, in Advanced RAG and scaling for cybersecurity, we discussed fine tuning MLOps and security best practices to scale RAG systems while maintaining data privacy, role-based access control, and regulatory alignment.
+> **[1:08](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-summary?u=76281980&t=68)** Lastly, in Advanced RAG and scaling for cybersecurity, we discussed [[Fine Tuning]] [[MLOps]] and security best practices to scale RAG systems while maintaining [[Data Privacy]], role-based access control, and regulatory alignment.
 >
 > **[1:24](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-summary?u=76281980&t=84)** So what's next?
 >
@@ -1348,19 +1335,19 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-summary?u=76281980&t=98)** Practice, practice, practice.
 >
-> **[1:40](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-summary?u=76281980&t=100)** Try implementing a small scale RAG pipeline, using Python and Jupyter Notebook.
+> **[1:40](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-summary?u=76281980&t=100)** Try implementing a small scale RAG pipeline, using [[Python (Programming Language)|Python]] and Jupyter Notebook.
 >
 > **[1:45](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-summary?u=76281980&t=105)** Deepen your knowledge and explore LLMs, vector search and MLOps to scale your models.
 >
 > **[1:52](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-summary?u=76281980&t=112)** We need to stay updated, in this ever evolving cybersecurity landscape, especially in AI.
 >
-> **[1:57](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-summary?u=76281980&t=117)** So we have to follow the AI security trends, regulatory updates, and advancements in secure RAG architectures.
+> **[1:57](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-summary?u=76281980&t=117)** So we have to follow the [[AI Security]] trends, regulatory updates, and advancements in secure RAG architectures.
 >
-> **[2:05](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-summary?u=76281980&t=125)** Last but not least, connect with the experts, join LinkedIn communities, attend security conferences and data science conferences, and collaborate with professionals in AI security and compliance.
+> **[2:05](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-summary?u=76281980&t=125)** Last but not least, connect with the experts, join [[LinkedIn]] communities, attend security conferences and data science conferences, and collaborate with professionals in AI security and compliance.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (10), [[Cybersecurity]] (7), ai (7), [[Security]] (4), data (3)
+> **Frameworks & Libraries:** [[Cybersecurity]] (7), [[Data Science]] (2), [[MLOps]] (2), [[AI Security]] (2), [[Vector Databases]] (1)
 > **Env Vars:** rag (9), gdpr (1), nycrr (1)
 > **CLI Commands:** python (1)
 > **Cross-References:** we discussed (1)
@@ -1373,24 +1360,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course conclusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-conclusion?u=76281980)
+#### [Course conclusion](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-conclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-conclusion?u=76281980&t=1)** - Congratulations on completing this course.
 >
-> **[0:04](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-conclusion?u=76281980&t=4)** You've made a great choice in learning how to build your own AI system in this crowded AI vendor space for cybersecurity services.
+> **[0:04](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-conclusion?u=76281980&t=4)** You've made a great choice in learning how to build your own AI system in this crowded AI vendor space for [[Cybersecurity]] services.
 >
-> **[0:13](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-conclusion?u=76281980&t=13)** You now have the power to manage your own destiny with your data and how you use AI for cybersecurity defense and compliance.
+> **[0:13](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-conclusion?u=76281980&t=13)** You now have the power to manage your own destiny with your data and how you use [[AI for Cybersecurity]] defense and compliance.
 >
-> **[0:23](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-conclusion?u=76281980&t=23)** I've shown you how the RAG approach works by combining the strengths of traditional large language models with the ability to dynamically incorporate your own data with cybersecurity AI use cases.
+> **[0:23](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-conclusion?u=76281980&t=23)** I've shown you how the RAG approach works by combining the strengths of traditional [[Large Language Models (LLM)|large language models]] with the ability to dynamically incorporate your own data with cybersecurity AI use cases.
 >
 > **[0:36](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-conclusion?u=76281980&t=36)** Like any cutting edge technology, RAG and AI are evolving rapidly in a very competitive landscape.
 >
 > **[0:44](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-conclusion?u=76281980&t=44)** So stay ahead of the curve by understanding how these technologies work and leveraging AI innovations to strengthen cybersecurity.
 >
-> **[0:54](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-conclusion?u=76281980&t=54)** Connect with me on LinkedIn to keep the conversation going.
+> **[0:54](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-conclusion?u=76281980&t=54)** Connect with me on [[LinkedIn]] to keep the conversation going.
 >
 > **[0:57](https://www.linkedin.com/learning/rag-for-cybersecurity-use-cases-and-implementation/course-conclusion?u=76281980&t=57)** Let's share insights, challenges, and breakthroughs together.
 >
@@ -1398,7 +1384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Cybersecurity]] (4), data (2), rag (2), power (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Large Language Models (LLM)|Large language models]] (1), [[LinkedIn]] (1)
 > **Env Vars:** rag (2)
 > **Speakers:** - congratulations (1)
 

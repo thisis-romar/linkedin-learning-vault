@@ -81,12 +81,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting expectations for your document
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-expectations-for-your-document-23202364?u=76281980)
+#### [Setting expectations for your document](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-expectations-for-your-document-23202364?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-expectations-for-your-document-23202364?u=76281980&t=0)** - When teaching HTML, we're so eager for students to get something on the screen that we tend to skip over the HTML head of the document.
+> **[0:00](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-expectations-for-your-document-23202364?u=76281980&t=0)** - When teaching [[HTML]], we're so eager for students to get something on the screen that we tend to skip over the HTML head of the document.
 >
 > **[0:09](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-expectations-for-your-document-23202364?u=76281980&t=9)** This course aims to end all of that.
 >
@@ -96,24 +95,23 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-expectations-for-your-document-23202364?u=76281980&t=27)** I'm Jen Kramer, an educator and web developer with years of experience in working with HTML and CSS.
 >
-> **[0:34](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-expectations-for-your-document-23202364?u=76281980&t=34)** So if you're ready, let's get started with "HTML: Metadata in the Head".
+> **[0:34](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-expectations-for-your-document-23202364?u=76281980&t=34)** So if you're ready, let's get started with "HTML: [[Metadata]] in the Head".
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), [[Search]] (2), web (1), css (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Metadata]] (1)
 > **Env Vars:** html (4), css (1)
 > **Speakers:** - when (1)
 
-#### Working with Visual Studio Code
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/working-with-visual-studio-code-22996814?u=76281980)
+#### [Working with Visual Studio Code](https://www.linkedin.com/learning/html-metadata-in-the-head/working-with-visual-studio-code-22996814?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-metadata-in-the-head/working-with-visual-studio-code-22996814?u=76281980&t=0)** - [Instructor] In order to follow along with the exercises in this course, you will need some type of editor that will allow you to edit the head of an HTML file.
+> **[0:00](https://www.linkedin.com/learning/html-metadata-in-the-head/working-with-visual-studio-code-22996814?u=76281980&t=0)** - [Instructor] In order to follow along with the exercises in this course, you will need some type of editor that will allow you to edit the head of an [[HTML]] file.
 >
 > **[0:11](https://www.linkedin.com/learning/html-metadata-in-the-head/working-with-visual-studio-code-22996814?u=76281980&t=11)** I'll be using a piece of software called VS Code, or Visual Studio Code.
 >
-> **[0:17](https://www.linkedin.com/learning/html-metadata-in-the-head/working-with-visual-studio-code-22996814?u=76281980&t=17)** It's available for Microsoft and it's free.
+> **[0:17](https://www.linkedin.com/learning/html-metadata-in-the-head/working-with-visual-studio-code-22996814?u=76281980&t=17)** It's available for [[Microsoft]] and it's free.
 >
 > **[0:20](https://www.linkedin.com/learning/html-metadata-in-the-head/working-with-visual-studio-code-22996814?u=76281980&t=20)** You can download it at code.[visualstudio.com](https://visualstudio.com).
 >
@@ -123,7 +121,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/html-metadata-in-the-head/working-with-visual-studio-code-22996814?u=76281980&t=32)** You might be running a different operating system.
 >
-> **[0:35](https://www.linkedin.com/learning/html-metadata-in-the-head/working-with-visual-studio-code-22996814?u=76281980&t=35)** Those other operating systems are indeed available, Mac, Windows and Linux.
+> **[0:35](https://www.linkedin.com/learning/html-metadata-in-the-head/working-with-visual-studio-code-22996814?u=76281980&t=35)** Those other operating systems are indeed available, Mac, [[Windows]] and [[Linux]].
 >
 > **[0:41](https://www.linkedin.com/learning/html-metadata-in-the-head/working-with-visual-studio-code-22996814?u=76281980&t=41)** And of course, if you're looking at this webpage on a Windows machine, it probably says Download for Windows.
 >
@@ -197,12 +195,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Establishing language in your document
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-language-in-your-document-23204067?u=76281980)
+#### [Establishing language in your document](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-language-in-your-document-23204067?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-language-in-your-document-23204067?u=76281980&t=0)** - [Narrator] At the very start, of your HTML document sits the HTML tag itself.
+> **[0:00](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-language-in-your-document-23204067?u=76281980&t=0)** - [Narrator] At the very start, of your [[HTML]] document sits the HTML tag itself.
 >
 > **[0:07](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-language-in-your-document-23204067?u=76281980&t=7)** If you're watching this video from the United States, chances are that the head of your document, looks similar to this.
 >
@@ -220,9 +217,9 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-language-in-your-document-23204067?u=76281980&t=80)** So as you'll see here, as we read on down through our document into our body, here this says, "voila", she said, "I'm all done."
 >
-> **[1:28](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-language-in-your-document-23204067?u=76281980&t=88)** Voila, is a French word, and we can designate this particular part of the document as French, all we'd have to simply do is say Lang equals quote fr and I'm putting that in the q tag, because that happens to encompass that entire word.
+> **[1:28](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-language-in-your-document-23204067?u=76281980&t=88)** Voila, is a French [[Microsoft Word|word]], and we can designate this particular part of the document as French, all we'd have to simply do is say Lang equals quote fr and I'm putting that in the q tag, because that happens to encompass that entire word.
 >
-> **[1:46](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-language-in-your-document-23204067?u=76281980&t=106)** The rest of this happens to be English.
+> **[1:46](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-language-in-your-document-23204067?u=76281980&t=106)** The [[Representational State Transfer (REST)|rest]] of this happens to be English.
 >
 > **[1:49](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-language-in-your-document-23204067?u=76281980&t=109)** If this was an entire paragraph, you could put lang equals fr into the paragraph, You could even put a div around this or a span if that is appropriate if you have several paragraphs of information, whatever tag happens to work to encompass the portions of this document that are in some language other than English.
 >
@@ -236,7 +233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[HTML]] (2), web (2), [[Representational State Transfer (REST)|Rest]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (2), similar to (1)
 > **Env Vars:** html (2)
 > **Definitions:** is a  (2)
@@ -244,8 +241,7 @@ created: 2026-05-02
 > **Tools:** vs code (1)
 > **Speakers:** - [narrator] (1)
 
-#### Establishing a document type
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-document-type-22994985?u=76281980)
+#### [Establishing a document type](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-document-type-22994985?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -255,7 +251,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-document-type-22994985?u=76281980&t=19)** It's the very first line of the page, the DOCTYPE declaration.
 >
-> **[0:24](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-document-type-22994985?u=76281980&t=24)** HTML4 Transitional is a common form of HTML and this is the declaration for that type of HTML.
+> **[0:24](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-document-type-22994985?u=76281980&t=24)** HTML4 Transitional is a common form of [[HTML]] and this is the declaration for that type of HTML.
 >
 > **[0:35](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-document-type-22994985?u=76281980&t=35)** As you can see, it's quite long and it has a lot of elements to it relative to what we see these days with HTML5.
 >
@@ -281,7 +277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), css (1)
+> **Frameworks & Libraries:** [[HTML]] (5)
 > **Env Vars:** html5 (6), xhtml (5), html4 (5), html (5), doctype (3)
 > **Versions:** 1.0 (2)
 > **Definitions:** is a  (2)
@@ -293,8 +289,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How do meta tags work?
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/how-do-meta-tags-work-23204070?u=76281980)
+#### [How do meta tags work?](https://www.linkedin.com/learning/html-metadata-in-the-head/how-do-meta-tags-work-23204070?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -304,7 +299,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/html-metadata-in-the-head/how-do-meta-tags-work-23204070?u=76281980&t=15)** There are dozens of meta tags that are available for use.
 >
-> **[0:19](https://www.linkedin.com/learning/html-metadata-in-the-head/how-do-meta-tags-work-23204070?u=76281980&t=19)** Some are specific to Google, Facebook, Twitter, or other technologies and contain information about sharing the webpage.
+> **[0:19](https://www.linkedin.com/learning/html-metadata-in-the-head/how-do-meta-tags-work-23204070?u=76281980&t=19)** Some are specific to [[Google]], Facebook, Twitter, or other technologies and contain information about sharing the webpage.
 >
 > **[0:28](https://www.linkedin.com/learning/html-metadata-in-the-head/how-do-meta-tags-work-23204070?u=76281980&t=28)** Others are recognized by the web browser, and they provide information for rendering the webpage, like information about languages or screen size.
 >
@@ -354,14 +349,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Google]] (2), web (1)
+> **Frameworks & Libraries:** [[Google]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** utf (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting character sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-character-sets-23202363?u=76281980)
+#### [Setting character sets](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-character-sets-23202363?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -399,7 +393,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-character-sets-23202363?u=76281980&t=122)** Finally, as that article mentioned earlier, make sure that this is the very first meta tag that you include in the head of your document.
 >
-> **[2:12](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-character-sets-23202363?u=76281980&t=132)** So the fact that I've put it here, and I'll change it back to UTF8, and in fact Microsoft puts it here by default, is a really great thing because what happens is let's say we had this later in the document obviously it's going to be in the head but if we had moved this later in the document, say here, what would happen is that your web browser would start to parse the information that's here and when it hit this character set declaration it would actually go back to the beginning and reparse all of this information again using UTF8.
+> **[2:12](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-character-sets-23202363?u=76281980&t=132)** So the fact that I've put it here, and I'll change it back to UTF8, and in fact [[Microsoft]] puts it here by default, is a really great thing because what happens is let's say we had this later in the document obviously it's going to be in the head but if we had moved this later in the document, say here, what would happen is that your web browser would start to parse the information that's here and when it hit this character set declaration it would actually go back to the beginning and reparse all of this information again using UTF8.
 >
 > **[2:47](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-character-sets-23202363?u=76281980&t=167)** While that's pretty trivial for a head section of a document that's as short as this one, if you look around online you'll find heads of documents that are dozens or even hundreds of lines long.
 >
@@ -407,15 +401,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (1), web (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Env Vars:** utf8 (6), iso8859 (1)
 > **CLI Commands:** make (4), find (2)
 > **Cross-References:** later in (2), go back to (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Redirecting pages with meta refresh
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/redirecting-pages-with-meta-refresh-22995802?u=76281980)
+#### [Redirecting pages with meta refresh](https://www.linkedin.com/learning/html-metadata-in-the-head/redirecting-pages-with-meta-refresh-22995802?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -429,7 +422,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/html-metadata-in-the-head/redirecting-pages-with-meta-refresh-22995802?u=76281980&t=28)** I'm just going to put mine right here after the viewport tag and it starts with meta shockingly, after that, we're going to say HTTP-equiv equals refresh.
 >
-> **[0:43](https://www.linkedin.com/learning/html-metadata-in-the-head/redirecting-pages-with-meta-refresh-22995802?u=76281980&t=43)** And then we're going to say something like, the content here equals a number, I'm going to say five followed by a semi colon inside of that quote there, URL equals here I'm going to put an http@www.[google.com](https://google.com).
+> **[0:43](https://www.linkedin.com/learning/html-metadata-in-the-head/redirecting-pages-with-meta-refresh-22995802?u=76281980&t=43)** And then we're going to say something like, the content here equals a number, I'm going to say five followed by a semi colon inside of that quote there, URL equals here I'm going to put an http@www.[[[Google]].com](https://google.com).
 >
 > **[1:05](https://www.linkedin.com/learning/html-metadata-in-the-head/redirecting-pages-with-meta-refresh-22995802?u=76281980&t=65)** Then we're going to close our double quotes and close our tag.
 >
@@ -459,19 +452,19 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/html-metadata-in-the-head/redirecting-pages-with-meta-refresh-22995802?u=76281980&t=171)** Obviously we can simply drop in an, a href equals www.google com.
 >
-> **[3:01](https://www.linkedin.com/learning/html-metadata-in-the-head/redirecting-pages-with-meta-refresh-22995802?u=76281980&t=181)** You can make it open in a new window if you want and then just from a user experience perspective, it's always nice to give people choices so we could say something like, return to the main linked in website and of course, then we're going to put in, a tag here.
+> **[3:01](https://www.linkedin.com/learning/html-metadata-in-the-head/redirecting-pages-with-meta-refresh-22995802?u=76281980&t=181)** You can make it open in a new window if you want and then just from a [[User Experience (UX)|user experience]] perspective, it's always nice to give people choices so we could say something like, return to the main linked in website and of course, then we're going to put in, a tag here.
 >
 > **[3:26](https://www.linkedin.com/learning/html-metadata-in-the-head/redirecting-pages-with-meta-refresh-22995802?u=76281980&t=206)** And again, you can make that open in a new window if you wanted.
 >
 > **[3:30](https://www.linkedin.com/learning/html-metadata-in-the-head/redirecting-pages-with-meta-refresh-22995802?u=76281980&t=210)** Excellent, so, now once that's in place, then let's just go on ahead and save this and see what it looks like.
 >
-> **[3:37](https://www.linkedin.com/learning/html-metadata-in-the-head/redirecting-pages-with-meta-refresh-22995802?u=76281980&t=217)** So we'll go ahead and save this document and now we're going to go to our web page and refresh as you'll see there, it says, redirecting me to Google in five seconds, or I can return to the main LinkedIn website and sure enough, I have now been redirected to Google after five seconds.
+> **[3:37](https://www.linkedin.com/learning/html-metadata-in-the-head/redirecting-pages-with-meta-refresh-22995802?u=76281980&t=217)** So we'll go ahead and save this document and now we're going to go to our web page and refresh as you'll see there, it says, redirecting me to Google in five seconds, or I can return to the main [[LinkedIn]] website and sure enough, I have now been redirected to Google after five seconds.
 >
 > **[3:56](https://www.linkedin.com/learning/html-metadata-in-the-head/redirecting-pages-with-meta-refresh-22995802?u=76281980&t=236)** So, that is redirecting you to another website that's one way we can use this tag.
 >
 > **[4:02](https://www.linkedin.com/learning/html-metadata-in-the-head/redirecting-pages-with-meta-refresh-22995802?u=76281980&t=242)** Another way we can use this tag, is to refresh the contents of the current web page.
 >
-> **[4:08](https://www.linkedin.com/learning/html-metadata-in-the-head/redirecting-pages-with-meta-refresh-22995802?u=76281980&t=248)** These days with plenty of asynchronous interactions that are made possible through JavaScript, there's less need for this now, but if you want your web page to refresh every 60 seconds and be incredibly annoying in the process, you can absolutely write that.
+> **[4:08](https://www.linkedin.com/learning/html-metadata-in-the-head/redirecting-pages-with-meta-refresh-22995802?u=76281980&t=248)** These days with plenty of asynchronous interactions that are made possible through [[JavaScript]], there's less need for this now, but if you want your web page to refresh every 60 seconds and be incredibly annoying in the process, you can absolutely write that.
 >
 > **[4:24](https://www.linkedin.com/learning/html-metadata-in-the-head/redirecting-pages-with-meta-refresh-22995802?u=76281980&t=264)** So, let me just comment out this line here for you and after that, I'm going to put in another meta refresh tag again.
 >
@@ -487,7 +480,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (8), web (6), [[JavaScript]] (3), [[User Experience (UX)|User experience]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Google]] (8), [[JavaScript]] (3), [[User Experience (UX)|User experience]] (1), [[LinkedIn]] (1)
 > **Env Vars:** http (3), url (3), utf (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), in other words (1)
@@ -496,8 +489,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying authors and conversations
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/identifying-authors-and-conversations-23000520?u=76281980)
+#### [Identifying authors and conversations](https://www.linkedin.com/learning/html-metadata-in-the-head/identifying-authors-and-conversations-23000520?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -531,7 +523,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/html-metadata-in-the-head/identifying-authors-and-conversations-23000520?u=76281980&t=79)** In the very early days of the web, the meta keywords were used to determine what words someone might type into a search engine to find the page.
 >
-> **[1:27](https://www.linkedin.com/learning/html-metadata-in-the-head/identifying-authors-and-conversations-23000520?u=76281980&t=87)** However, that isn't used much anymore for Google and other major search engines.
+> **[1:27](https://www.linkedin.com/learning/html-metadata-in-the-head/identifying-authors-and-conversations-23000520?u=76281980&t=87)** However, that isn't used much anymore for [[Google]] and other major search engines.
 >
 > **[1:33](https://www.linkedin.com/learning/html-metadata-in-the-head/identifying-authors-and-conversations-23000520?u=76281980&t=93)** These days, Google gets its keywords from the content of your page, your page title, and in other ways.
 >
@@ -573,7 +565,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/html-metadata-in-the-head/identifying-authors-and-conversations-23000520?u=76281980&t=218)** So, here I've got an author tag where I'm an author, or here's another author tag where my friend Heather O'Neill and I are authors.
 >
-> **[3:48](https://www.linkedin.com/learning/html-metadata-in-the-head/identifying-authors-and-conversations-23000520?u=76281980&t=228)** And perhaps LinkedIn Learning deserves a credit as well.
+> **[3:48](https://www.linkedin.com/learning/html-metadata-in-the-head/identifying-authors-and-conversations-23000520?u=76281980&t=228)** And perhaps [[LinkedIn]] Learning deserves a credit as well.
 >
 > **[3:51](https://www.linkedin.com/learning/html-metadata-in-the-head/identifying-authors-and-conversations-23000520?u=76281980&t=231)** So, those are two possible variants there on the author tag.
 >
@@ -583,15 +575,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (10), [[Google]] (4), web (3), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[LinkedIn]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (2)
 > **Env Vars:** url (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting the viewport
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-the-viewport-23000522?u=76281980)
+#### [Setting the viewport](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-the-viewport-23000522?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -641,7 +632,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-the-viewport-23000522?u=76281980&t=149)** And the appropriate CSS media queries are going to load in with the appropriate styling.
 >
-> **[2:35](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-the-viewport-23000522?u=76281980&t=155)** And we should scale that to 1.0, meaning that we don't want to zoom in or zoom out, we're going to display it that way by default.
+> **[2:35](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-the-viewport-23000522?u=76281980&t=155)** And we should scale that to 1.0, meaning that we don't want to [[Zoom]] in or zoom out, we're going to display it that way by default.
 >
 > **[2:45](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-the-viewport-23000522?u=76281980&t=165)** But does it actually have to have those values?
 >
@@ -663,7 +654,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-the-viewport-23000522?u=76281980&t=229)** And your window is going to look something like this.
 >
-> **[3:52](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-the-viewport-23000522?u=76281980&t=232)** Then over in your HTML code, which is here under Elements, click on the head and open that up, and find the meta viewport tag.
+> **[3:52](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-the-viewport-23000522?u=76281980&t=232)** Then over in your [[HTML]] code, which is here under Elements, click on the head and open that up, and find the meta viewport tag.
 >
 > **[4:01](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-the-viewport-23000522?u=76281980&t=241)** And now we're going to change some values here.
 >
@@ -697,7 +688,7 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-the-viewport-23000522?u=76281980&t=325)** Now let's try changing the values of the device width.
 >
-> **[5:28](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-the-viewport-23000522?u=76281980&t=328)** So here width is equal to the device width, which at the moment, since we're prototyping this in the iPhone 5SE, we've got this set to 320 pixels wide.
+> **[5:28](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-the-viewport-23000522?u=76281980&t=328)** So here width is equal to the device width, which at the moment, since we're [[Prototyping]] this in the iPhone 5SE, we've got this set to 320 pixels wide.
 >
 > **[5:40](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-the-viewport-23000522?u=76281980&t=340)** So what if we just change this?
 >
@@ -755,7 +746,7 @@ created: 2026-05-02
 >
 > **[8:34](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-the-viewport-23000522?u=76281980&t=514)** If somebody needs to zoom in on your page, they don't expect it to be as beautiful as you would expect the default version of the page to be, let people zoom in so that they can actually consume your content.
 >
-> **[8:46](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-the-viewport-23000522?u=76281980&t=526)** So just because these properties exist doesn't mean necessarily that they're a smart choice for your web design.
+> **[8:46](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-the-viewport-23000522?u=76281980&t=526)** So just because these properties exist doesn't mean necessarily that they're a smart choice for your [[Web Design]].
 >
 > **[8:54](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-the-viewport-23000522?u=76281980&t=534)** But if you'd like, feel free to go ahead and experiment with these.
 >
@@ -763,7 +754,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (14), web (7), css (7), next (2), hit (1)
+> **Frameworks & Libraries:** [[Zoom]] (14), [[HTML]] (1), [[Prototyping]] (1), [[Web Design]] (1)
 > **Env Vars:** css (7), html (1)
 > **Versions:** 1.0 (6), 0.1 (1), 2.0 (1)
 > **UI Navigation:** click on (3), go to (1), toggle (1), scroll down (1)
@@ -772,8 +763,7 @@ created: 2026-05-02
 > **Analogies:** for example (2), imagine (1)
 > **Code Identifiers:** iphone (2)
 
-#### Setting color themes
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-color-themes-23202365?u=76281980)
+#### [Setting color themes](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-color-themes-23202365?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -799,7 +789,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-color-themes-23202365?u=76281980&t=86)** In fact, if we take a look at can I use, you'll see that the support here is spotty at best, but it is supported on a mobile device, so I took a screen shot of this particular webpage with the meta theme color set.
 >
-> **[1:44](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-color-themes-23202365?u=76281980&t=104)** This is a Chrome browser on my Android phone and you'll see Chrome up here on the the top of the page is the same green that I have here in the navigation, and so that displays very, very nicely.
+> **[1:44](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-color-themes-23202365?u=76281980&t=104)** This is a Chrome browser on my [[Android]] phone and you'll see Chrome up here on the the top of the page is the same green that I have here in the navigation, and so that displays very, very nicely.
 >
 > **[1:58](https://www.linkedin.com/learning/html-metadata-in-the-head/setting-color-themes-23202365?u=76281980&t=118)** If I didn't have the theme color set, then those would be the standard Android colors, which are not that green.
 >
@@ -821,17 +811,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (2), next (1), web (1)
+> **Frameworks & Libraries:** [[Android]] (2)
 > **Env Vars:** rgb (1), rgba (1), hsl (1), hsla (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [narrator] (1)
 
-#### Presenting your page to Facebook
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/presenting-your-page-to-facebook-22995804?u=76281980)
+#### [Presenting your page to Facebook](https://www.linkedin.com/learning/html-metadata-in-the-head/presenting-your-page-to-facebook-22995804?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-metadata-in-the-head/presenting-your-page-to-facebook-22995804?u=76281980&t=0)** - [Jen] Facebook created a new way of including social information in the head of an HTML document and its protocol has been set to be open-source, it's called the Open Graph data.
+> **[0:00](https://www.linkedin.com/learning/html-metadata-in-the-head/presenting-your-page-to-facebook-22995804?u=76281980&t=0)** - [Jen] Facebook created a new way of including social information in the head of an [[HTML]] document and its protocol has been set to be open-source, it's called the Open Graph data.
 >
 > **[0:13](https://www.linkedin.com/learning/html-metadata-in-the-head/presenting-your-page-to-facebook-22995804?u=76281980&t=13)** And you can find lots of documentation about it online, notably in two places.
 >
@@ -843,7 +832,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/html-metadata-in-the-head/presenting-your-page-to-facebook-22995804?u=76281980&t=59)** There's some basic ones here.
 >
-> **[1:01](https://www.linkedin.com/learning/html-metadata-in-the-head/presenting-your-page-to-facebook-22995804?u=76281980&t=61)** So here we're looking at the movie "The Rock" on The Internet Movie Database, IMDB, and here what we have is a listing of a handful of meta properties pertaining to that and then as we scroll down a little bit further it'll talk about some optional metadata and then we go onto Structured Properties and Arrays and all kinds of things that are possible here.
+> **[1:01](https://www.linkedin.com/learning/html-metadata-in-the-head/presenting-your-page-to-facebook-22995804?u=76281980&t=61)** So here we're looking at the movie "The Rock" on The Internet Movie Database, IMDB, and here what we have is a listing of a handful of meta properties pertaining to that and then as we scroll down a little bit further it'll talk about some optional [[Metadata]] and then we go onto Structured Properties and Arrays and all kinds of things that are possible here.
 >
 > **[1:24](https://www.linkedin.com/learning/html-metadata-in-the-head/presenting-your-page-to-facebook-22995804?u=76281980&t=84)** So you'll get much more information about these kinds of tags if you look at the Open Graph protocol website.
 >
@@ -941,7 +930,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), next (3), data (2), open-source (1), database (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Metadata]] (1)
 > **Env Vars:** url (6), html (2), imdb (1), utf (1)
 > **CLI Commands:** find (4), make (4)
 > **URLs:** [jenkramer.org](https://jenkramer.org) (2), [facebook.com](https://facebook.com) (1)
@@ -950,18 +939,17 @@ created: 2026-05-02
 > **File Paths:** www.jenkramer.org/hp/index.html (1)
 > **Cross-References:** go back to (1)
 
-#### Checking your work for Facebook
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/checking-your-work-for-facebook-22994984?u=76281980)
+#### [Checking your work for Facebook](https://www.linkedin.com/learning/html-metadata-in-the-head/checking-your-work-for-facebook-22994984?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-metadata-in-the-head/checking-your-work-for-facebook-22994984?u=76281980&t=0)** - [Instructor] Once you've created the Open Graph tags in the head of your document, you should put the page online somewhere where it can be reached by the Facebook Sharing Debugger.
 >
-> **[0:11](https://www.linkedin.com/learning/html-metadata-in-the-head/checking-your-work-for-facebook-22994984?u=76281980&t=11)** This means you could have added those Open Graph tags to the head of a WordPress site, the top of your JavaScript-based application or in the head of your Static HTML webpage, which is what I did here.
+> **[0:11](https://www.linkedin.com/learning/html-metadata-in-the-head/checking-your-work-for-facebook-22994984?u=76281980&t=11)** This means you could have added those Open Graph tags to the head of a [[WordPress]] site, the top of your [[JavaScript]]-based application or in the head of your Static [[HTML]] webpage, which is what I did here.
 >
 > **[0:24](https://www.linkedin.com/learning/html-metadata-in-the-head/checking-your-work-for-facebook-22994984?u=76281980&t=24)** That page needs to be on the internet, not solely on your local computer, so that the Debugger might index it.
 >
-> **[0:31](https://www.linkedin.com/learning/html-metadata-in-the-head/checking-your-work-for-facebook-22994984?u=76281980&t=31)** So go on ahead and use FTP or GitHub or whatever you want to use to get that page on some web hosting right now.
+> **[0:31](https://www.linkedin.com/learning/html-metadata-in-the-head/checking-your-work-for-facebook-22994984?u=76281980&t=31)** So go on ahead and use FTP or [[GitHub]] or whatever you want to use to get that page on some web hosting right now.
 >
 > **[0:40](https://www.linkedin.com/learning/html-metadata-in-the-head/checking-your-work-for-facebook-22994984?u=76281980&t=40)** And when you've done that, copy whatever your address happens to be to get to that webpage and then we're going to go ahead and paste that into the Facebook Sharing Debugger, which is at developers.[facebook.com/tools/debug](https://facebook.com/tools/debug).
 >
@@ -969,7 +957,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/html-metadata-in-the-head/checking-your-work-for-facebook-22994984?u=76281980&t=66)** Shocking, you just put it up online so, of course, it hasn't been shared.
 >
-> **[1:10](https://www.linkedin.com/learning/html-metadata-in-the-head/checking-your-work-for-facebook-22994984?u=76281980&t=70)** Go on ahead and click fetch new information and Facebook will go out and index that particular page that you shared.
+> **[1:10](https://www.linkedin.com/learning/html-metadata-in-the-head/checking-your-work-for-facebook-22994984?u=76281980&t=70)** Go on ahead and click [[Fetch]] new information and Facebook will go out and index that particular page that you shared.
 >
 > **[1:18](https://www.linkedin.com/learning/html-metadata-in-the-head/checking-your-work-for-facebook-22994984?u=76281980&t=78)** And so a couple of things it's going to tell you is this, so the very first thing is that the provided og image's properties are not yet available because new images are processed asynchronously.
 >
@@ -1031,7 +1019,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), next (2), [[WordPress]] (1), [[JavaScript]] (1), application (1)
+> **Frameworks & Libraries:** [[WordPress]] (1), [[JavaScript]] (1), [[HTML]] (1), [[GitHub]] (1), [[Fetch]] (1)
 > **Env Vars:** url (3), html (1), ftp (1)
 > **Analogies:** for example (1), picture (1)
 > **CLI Commands:** make (1)
@@ -1040,8 +1028,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **UI Navigation:** go to (1)
 
-#### Challenge: Configuring meta information
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/challenge-configuring-meta-information-22994986?u=76281980)
+#### [Challenge: Configuring meta information](https://www.linkedin.com/learning/html-metadata-in-the-head/challenge-configuring-meta-information-22994986?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1049,7 +1036,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/html-metadata-in-the-head/challenge-configuring-meta-information-22994986?u=76281980&t=14)** This is the website for the Topsy Turvy Cake Design company, and I built this webpage as part of my course, "Learning Foundations Six" which is here and available in the library if you want to have a look at this course to figure out how exactly I went about building this particular website.
 >
-> **[0:33](https://www.linkedin.com/learning/html-metadata-in-the-head/challenge-configuring-meta-information-22994986?u=76281980&t=33)** If you go ahead and open up the exercise files for this challenge, you'll find folders for CSS images and JavaScript, but the file that you really want to work on, of course, is index.html.
+> **[0:33](https://www.linkedin.com/learning/html-metadata-in-the-head/challenge-configuring-meta-information-22994986?u=76281980&t=33)** If you go ahead and open up the exercise files for this challenge, you'll find folders for CSS images and [[JavaScript]], but the file that you really want to work on, of course, is index.[[HTML]].
 >
 > **[0:47](https://www.linkedin.com/learning/html-metadata-in-the-head/challenge-configuring-meta-information-22994986?u=76281980&t=47)** That's where the head of the document is where you will be adding the tags for this particular challenge.
 >
@@ -1081,7 +1068,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), css (1), [[JavaScript]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[JavaScript]] (1)
 > **File Paths:** index.html (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** css (1)
@@ -1090,8 +1077,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Configuring meta information
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/solution-configuring-meta-information-23202362?u=76281980)
+#### [Solution: Configuring meta information](https://www.linkedin.com/learning/html-metadata-in-the-head/solution-configuring-meta-information-23202362?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1113,11 +1099,11 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/html-metadata-in-the-head/solution-configuring-meta-information-23202362?u=76281980&t=41)** Topsy Turvy Cake Design creates custom cakes for every occasion in Carpinteria, California.
 >
-> **[0:47](https://www.linkedin.com/learning/html-metadata-in-the-head/solution-configuring-meta-information-23202362?u=76281980&t=47)** And of course that is the description tax that's going to show up in Google search results.
+> **[0:47](https://www.linkedin.com/learning/html-metadata-in-the-head/solution-configuring-meta-information-23202362?u=76281980&t=47)** And of course that is the description tax that's going to show up in [[Google]] search results.
 >
 > **[0:53](https://www.linkedin.com/learning/html-metadata-in-the-head/solution-configuring-meta-information-23202362?u=76281980&t=53)** So the meta description tag is a relatively important thing.
 >
-> **[0:57](https://www.linkedin.com/learning/html-metadata-in-the-head/solution-configuring-meta-information-23202362?u=76281980&t=57)** Meta keyword tag is not necessarily as important as I've talked about in previous videos but I did go ahead and create one and I looked for words like the name of the company, Topsy Turvy Cake Design, its location, Carpinteria, California, and the kind of products that they have.
+> **[0:57](https://www.linkedin.com/learning/html-metadata-in-the-head/solution-configuring-meta-information-23202362?u=76281980&t=57)** Meta keyword tag is not necessarily as important as I've talked about in previous videos but I did go ahead and create one and I looked for words like the name of the company, Topsy Turvy Cake Design, its location, Carpinteria, California, and the kind of [[Microsoft Products|products]] that they have.
 >
 > **[1:13](https://www.linkedin.com/learning/html-metadata-in-the-head/solution-configuring-meta-information-23202362?u=76281980&t=73)** So birthday cakes, wedding cakes, custom cakes.
 >
@@ -1171,7 +1157,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), web (2), [[Google]] (1), [[Microsoft Products|Products]] (1), css (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** url (5), css (1)
 > **Definitions:** is a  (1), is an  (1)
 > **URLs:** [topsyturvycakedesign.com](https://topsyturvycakedesign.com) (1)
@@ -1184,8 +1170,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding a title to your page
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/adding-a-title-to-your-page-23204068?u=76281980)
+#### [Adding a title to your page](https://www.linkedin.com/learning/html-metadata-in-the-head/adding-a-title-to-your-page-23204068?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1199,7 +1184,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/html-metadata-in-the-head/adding-a-title-to-your-page-23204068?u=76281980&t=25)** It's also the link in search results for that page.
 >
-> **[0:29](https://www.linkedin.com/learning/html-metadata-in-the-head/adding-a-title-to-your-page-23204068?u=76281980&t=29)** The HTML title may also show up in a browser bookmark.
+> **[0:29](https://www.linkedin.com/learning/html-metadata-in-the-head/adding-a-title-to-your-page-23204068?u=76281980&t=29)** The [[HTML]] title may also show up in a browser bookmark.
 >
 > **[0:33](https://www.linkedin.com/learning/html-metadata-in-the-head/adding-a-title-to-your-page-23204068?u=76281980&t=33)** Since your title will show up in so many different locations, it's important to choose a good title that will be helpful in all of these roles.
 >
@@ -1223,14 +1208,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** html (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating identity for your pages with icons
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/creating-identity-for-your-pages-with-icons-23204069?u=76281980)
+#### [Creating identity for your pages with icons](https://www.linkedin.com/learning/html-metadata-in-the-head/creating-identity-for-your-pages-with-icons-23204069?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1240,7 +1224,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/html-metadata-in-the-head/creating-identity-for-your-pages-with-icons-23204069?u=76281980&t=13)** A favicon is the little picture you see in the corner of some webpages.
 >
-> **[0:17](https://www.linkedin.com/learning/html-metadata-in-the-head/creating-identity-for-your-pages-with-icons-23204069?u=76281980&t=17)** For example, note the video player icon in the corner of the LinkedIn Learning window.
+> **[0:17](https://www.linkedin.com/learning/html-metadata-in-the-head/creating-identity-for-your-pages-with-icons-23204069?u=76281980&t=17)** For example, note the video player icon in the corner of the [[LinkedIn]] Learning window.
 >
 > **[0:23](https://www.linkedin.com/learning/html-metadata-in-the-head/creating-identity-for-your-pages-with-icons-23204069?u=76281980&t=23)** The apple-touch-icons show up on the desktop of an iPad or iPhone if someone wanted to bookmark a website to that device's desktop.
 >
@@ -1262,7 +1246,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/html-metadata-in-the-head/creating-identity-for-your-pages-with-icons-23204069?u=76281980&t=79)** And what this is going to generate for us is a bunch of icons, there they are, for the various different sizes.
 >
-> **[1:25](https://www.linkedin.com/learning/html-metadata-in-the-head/creating-identity-for-your-pages-with-icons-23204069?u=76281980&t=85)** And you'll notice that they've helpfully given us the HTML code that we're going to need in order to make these work.
+> **[1:25](https://www.linkedin.com/learning/html-metadata-in-the-head/creating-identity-for-your-pages-with-icons-23204069?u=76281980&t=85)** And you'll notice that they've helpfully given us the [[HTML]] code that we're going to need in order to make these work.
 >
 > **[1:33](https://www.linkedin.com/learning/html-metadata-in-the-head/creating-identity-for-your-pages-with-icons-23204069?u=76281980&t=93)** So, what I would recommend doing is going ahead and clicking the Download button.
 >
@@ -1372,7 +1356,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), web (3), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[LinkedIn]] (1)
 > **Exercise Files:** exercise files (4), zip file (1), download the (1)
 > **CLI Commands:** make (3), unzip (1), find (1)
 > **Analogies:** picture (4), for example (1)
@@ -1381,8 +1365,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (2)
 
-#### Linking styles to your page
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/linking-styles-to-your-page-22996815?u=76281980)
+#### [Linking styles to your page](https://www.linkedin.com/learning/html-metadata-in-the-head/linking-styles-to-your-page-22996815?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1408,7 +1391,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/html-metadata-in-the-head/linking-styles-to-your-page-22996815?u=76281980&t=51)** There's one here on line 18.
 >
-> **[0:53](https://www.linkedin.com/learning/html-metadata-in-the-head/linking-styles-to-your-page-22996815?u=76281980&t=53)** This is going to a Google style sheet, where it's pulling in some fonts for me.
+> **[0:53](https://www.linkedin.com/learning/html-metadata-in-the-head/linking-styles-to-your-page-22996815?u=76281980&t=53)** This is going to a [[Google]] style sheet, where it's pulling in some fonts for me.
 >
 > **[0:58](https://www.linkedin.com/learning/html-metadata-in-the-head/linking-styles-to-your-page-22996815?u=76281980&t=58)** And on line 19, I have a link to my local style sheet, the style sheet that's actually controlling the styling for this webpage for everything else.
 >
@@ -1448,7 +1431,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Env Vars:** css (2), html5 (2), html4 (1)
 > **Code Identifiers:** ipads (1), iphones (1)
 > **CLI Commands:** make (1)
@@ -1456,12 +1439,11 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Specifying style directly
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/specifying-style-directly-23204071?u=76281980)
+#### [Specifying style directly](https://www.linkedin.com/learning/html-metadata-in-the-head/specifying-style-directly-23204071?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-metadata-in-the-head/specifying-style-directly-23204071?u=76281980&t=0)** - [Instructor] Another way to include styles in your HTML document is to embed them directly in the head of the document.
+> **[0:00](https://www.linkedin.com/learning/html-metadata-in-the-head/specifying-style-directly-23204071?u=76281980&t=0)** - [Instructor] Another way to include styles in your [[HTML]] document is to embed them directly in the head of the document.
 >
 > **[0:06](https://www.linkedin.com/learning/html-metadata-in-the-head/specifying-style-directly-23204071?u=76281980&t=6)** This method may make styling easier to read or understand.
 >
@@ -1489,7 +1471,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/html-metadata-in-the-head/specifying-style-directly-23204071?u=76281980&t=70)** That way these embedded styles will take priority over the styles that come before it.
 >
-> **[1:16](https://www.linkedin.com/learning/html-metadata-in-the-head/specifying-style-directly-23204071?u=76281980&t=76)** If we were to put these styles say, here, between our favicon and our style sheets here for our Google font and our internal style sheet, these styles would take less priority over the externally linked style sheets that come later in the document.
+> **[1:16](https://www.linkedin.com/learning/html-metadata-in-the-head/specifying-style-directly-23204071?u=76281980&t=76)** If we were to put these styles say, here, between our favicon and our style sheets here for our [[Google]] font and our internal style sheet, these styles would take less priority over the externally linked style sheets that come later in the document.
 >
 > **[1:35](https://www.linkedin.com/learning/html-metadata-in-the-head/specifying-style-directly-23204071?u=76281980&t=95)** So I'm going to go ahead and include this here.
 >
@@ -1523,7 +1505,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), [[Google]] (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Google]] (1)
 > **Env Vars:** html (2), css (1)
 > **Analogies:** for example (2), kind of like (1)
 > **CLI Commands:** make (1)
@@ -1531,12 +1513,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting scripts
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/connecting-scripts-22995803?u=76281980)
+#### [Connecting scripts](https://www.linkedin.com/learning/html-metadata-in-the-head/connecting-scripts-22995803?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-metadata-in-the-head/connecting-scripts-22995803?u=76281980&t=0)** - [Instructor] Just as CSS has two ways to include its styles in your HTML document, JavaScript works the same way.
+> **[0:00](https://www.linkedin.com/learning/html-metadata-in-the-head/connecting-scripts-22995803?u=76281980&t=0)** - [Instructor] Just as CSS has two ways to include its styles in your [[HTML]] document, [[JavaScript]] works the same way.
 >
 > **[0:07](https://www.linkedin.com/learning/html-metadata-in-the-head/connecting-scripts-22995803?u=76281980&t=7)** You may include embedded or linked JavaScript in your document.
 >
@@ -1572,7 +1553,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/html-metadata-in-the-head/connecting-scripts-22995803?u=76281980&t=96)** The reason why we put it there is because that jQuery isn't going to need to execute while the page is loading.
 >
-> **[1:43](https://www.linkedin.com/learning/html-metadata-in-the-head/connecting-scripts-22995803?u=76281980&t=103)** So I'll have a page that I can look at because the rest of the page is going to be loading.
+> **[1:43](https://www.linkedin.com/learning/html-metadata-in-the-head/connecting-scripts-22995803?u=76281980&t=103)** So I'll have a page that I can look at because the [[Representational State Transfer (REST)|rest]] of the page is going to be loading.
 >
 > **[1:48](https://www.linkedin.com/learning/html-metadata-in-the-head/connecting-scripts-22995803?u=76281980&t=108)** The very last thing that it's going to do is download its copy of jQuery while I'm looking at the rest of the web page, so it'll feel like the page goes a little bit faster.
 >
@@ -1630,7 +1611,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/html-metadata-in-the-head/connecting-scripts-22995803?u=76281980&t=279)** That's all this little bit of code says.
 >
-> **[4:41](https://www.linkedin.com/learning/html-metadata-in-the-head/connecting-scripts-22995803?u=76281980&t=281)** We could definitely argue about whether this is good user experience, hint, it's not.
+> **[4:41](https://www.linkedin.com/learning/html-metadata-in-the-head/connecting-scripts-22995803?u=76281980&t=281)** We could definitely argue about whether this is good [[User Experience (UX)|user experience]], hint, it's not.
 >
 > **[4:46](https://www.linkedin.com/learning/html-metadata-in-the-head/connecting-scripts-22995803?u=76281980&t=286)** But just for illustration purposes, let's say that we want to include this in our document.
 >
@@ -1646,7 +1627,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (13), web (5), css (3), [[HTML]] (3), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (13), [[HTML]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[User Experience (UX)|User experience]] (1)
 > **Code Identifiers:** jquery (11)
 > **Env Vars:** css (3), html (3), sri (2), utf (1)
 > **UI Navigation:** go to (1), click on (1), scroll down (1)
@@ -1655,12 +1636,11 @@ created: 2026-05-02
 > **Definitions:** means that (2)
 > **Best Practices:** recommended (1), best practice (1)
 
-#### Establishing a base URL
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980)
+#### [Establishing a base URL](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980&t=0)** - [Instructor] The HTML base tag used to be much more popular in the days when we built websites using frames.
+> **[0:00](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980&t=0)** - [Instructor] The [[HTML]] base tag used to be much more popular in the days when we built websites using frames.
 >
 > **[0:06](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980&t=6)** However, it may still be useful to you depending on what kind of site you're building.
 >
@@ -1674,7 +1654,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980&t=34)** Basically, it's a base tag, and then it could be followed by an href.
 >
-> **[0:40](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980&t=40)** And I could say something like https www.[linkedin.com](https://linkedin.com).
+> **[0:40](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980&t=40)** And I could say something like https www.[[[LinkedIn]].com](https://linkedin.com).
 >
 > **[0:48](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980&t=48)** And what this would say this particular version of the tag, would indicate that all of the links in this document, should start with www.[linkedin.com](https://linkedin.com).
 >
@@ -1708,15 +1688,15 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980&t=162)** And then you would just go ahead and repeat this four of the links that are in your navigation or anywhere else in this document where you'd like things to open in the same window.
 >
-> **[2:54](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980&t=174)** So this base tag is going to be most useful in the kind of environment maybe you've got some kind of resource where you have lots, lots, lots of different websites, let's say hundreds or even thousands of links to other websites that you'd like to open a new windows, but a handful of links that you'd like to open in the same window.
+> **[2:54](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980&t=174)** So this base tag is going to be most useful in the kind of environment maybe you've got some kind of resource where you have lots, lots, lots of different websites, let's say hundreds or even thousands of links to other websites that you'd like to open a new [[Windows]], but a handful of links that you'd like to open in the same window.
 >
 > **[3:12](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980&t=192)** Using the base target equals underscore blank is probably going to be more useful to you.
 >
-> **[3:18](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980&t=198)** And as far as the base href goes, unless you're doing something crazy with JavaScript, chances are you don't really need this tag as much for web development now, but it's available to you in case you do.
+> **[3:18](https://www.linkedin.com/learning/html-metadata-in-the-head/establishing-a-base-url-23201415?u=76281980&t=198)** And as far as the base href goes, unless you're doing something crazy with [[JavaScript]], chances are you don't really need this tag as much for [[Web Development]] now, but it's available to you in case you do.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), [[HTML]] (1), web application (1), web (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[HTML]] (1), [[Windows]] (1), [[JavaScript]] (1), [[Web Development]] (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (2), [genkramer.org](https://genkramer.org) (1)
 > **Env Vars:** html (1), url (1)
 > **Analogies:** just like (1), for example (1)
@@ -1725,14 +1705,13 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Establishing scripts, styles, and icons
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/challenge-establishing-scripts-styles-and-icons-23201416?u=76281980)
+#### [Challenge: Establishing scripts, styles, and icons](https://www.linkedin.com/learning/html-metadata-in-the-head/challenge-establishing-scripts-styles-and-icons-23201416?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-metadata-in-the-head/challenge-establishing-scripts-styles-and-icons-23201416?u=76281980&t=0)** - [Narrator] It's time for another challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/html-metadata-in-the-head/challenge-establishing-scripts-styles-and-icons-23201416?u=76281980&t=7)** Now that we've gone through all of the things that we linked to in the head of the document, including style sheets, JavaScript, favicons, Apple touch icons and more, let's go on ahead and go through adding more of those things to this document.
+> **[0:07](https://www.linkedin.com/learning/html-metadata-in-the-head/challenge-establishing-scripts-styles-and-icons-23201416?u=76281980&t=7)** Now that we've gone through all of the things that we linked to in the head of the document, including style sheets, [[JavaScript]], favicons, Apple touch icons and more, let's go on ahead and go through adding more of those things to this document.
 >
 > **[0:21](https://www.linkedin.com/learning/html-metadata-in-the-head/challenge-establishing-scripts-styles-and-icons-23201416?u=76281980&t=21)** So here in your Exercise Files folder for this particular challenge, once again, you'll find the topsy turvy cake design website that was built with foundation.
 >
@@ -1770,7 +1749,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (8), css (4), web (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (8)
 > **Env Vars:** css (4)
 > **Exercise Files:** exercise files (3)
 > **CLI Commands:** find (2)
@@ -1779,8 +1758,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Establishing scripts, styles, and icons
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/solution-establishing-scripts-styles-and-icons-23000521?u=76281980)
+#### [Solution: Establishing scripts, styles, and icons](https://www.linkedin.com/learning/html-metadata-in-the-head/solution-establishing-scripts-styles-and-icons-23000521?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1814,7 +1792,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/html-metadata-in-the-head/solution-establishing-scripts-styles-and-icons-23000521?u=76281980&t=135)** And the reason we put them down here once again is for performance reasons, although we say we can put them in the body of the document, and you could probably put them just about anywhere, the point of putting them down here at the bottom, just before the slash body tag is to have these load, while people are looking at a fully formed webpage.
 >
-> **[2:33](https://www.linkedin.com/learning/html-metadata-in-the-head/solution-establishing-scripts-styles-and-icons-23000521?u=76281980&t=153)** If you list them anywhere earlier in the document, the browser may pause while it downloads the JavaScript file before going on and reading the rest of the document.
+> **[2:33](https://www.linkedin.com/learning/html-metadata-in-the-head/solution-establishing-scripts-styles-and-icons-23000521?u=76281980&t=153)** If you list them anywhere earlier in the document, the browser may pause while it downloads the [[JavaScript]] file before going on and reading the [[Representational State Transfer (REST)|rest]] of the document.
 >
 > **[2:42](https://www.linkedin.com/learning/html-metadata-in-the-head/solution-establishing-scripts-styles-and-icons-23000521?u=76281980&t=162)** So, putting 'em down here is fairly important and this order winds up being important as well.
 >
@@ -1828,7 +1806,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[JavaScript]] (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **File Paths:** foundation.css (1), app.css (1), app.js (1), js/app.js (1)
 > **Env Vars:** css (2), utf (1)
 > **Cross-References:** earlier in (2)
@@ -1842,14 +1820,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-metadata-in-the-head/next-steps-23203329?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/html-metadata-in-the-head/next-steps-23203329?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-metadata-in-the-head/next-steps-23203329?u=76281980&t=0)** - [Jen] Hey, everybody, it's Jen Kramer.
 >
-> **[0:02](https://www.linkedin.com/learning/html-metadata-in-the-head/next-steps-23203329?u=76281980&t=2)** Thank you so much for watching my course about all of the exciting HTML tags we have available to us to use in the head of our documents.
+> **[0:02](https://www.linkedin.com/learning/html-metadata-in-the-head/next-steps-23203329?u=76281980&t=2)** Thank you so much for watching my course about all of the exciting [[HTML]] tags we have available to us to use in the head of our documents.
 >
 > **[0:12](https://www.linkedin.com/learning/html-metadata-in-the-head/next-steps-23203329?u=76281980&t=12)** If you're interested in learning more with me, I thought I'd point you to a couple of courses that I mentioned in this course, as well as some other courses that will add to your HTML skills.
 >
@@ -1883,7 +1860,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), css (2), web (1), data (1)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **Env Vars:** html (4), css (2)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)

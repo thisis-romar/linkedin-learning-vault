@@ -62,12 +62,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Remote is here to stay
-> [LinkedIn Learning](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-is-here-to-stay?u=76281980)
+#### [Remote is here to stay](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-is-here-to-stay?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-is-here-to-stay?u=76281980&t=1)** - [Amanda] In the UX research world, there's long been a debate about the merits of remote research.
+> **[0:01](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-is-here-to-stay?u=76281980&t=1)** - [Amanda] In the [[UX Research]] world, there's long been a debate about the merits of remote research.
 >
 > **[0:07](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-is-here-to-stay?u=76281980&t=7)** I've been a proponent for years.
 >
@@ -79,7 +78,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-is-here-to-stay?u=76281980&t=27)** It's often less expensive and time consuming than in person research, and it allows you to get in touch with a more diverse group of participants.
 >
-> **[0:35](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-is-here-to-stay?u=76281980&t=35)** That said, remote research can be tricky to do well, especially an exploratory qualitative technique like interviewing.
+> **[0:35](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-is-here-to-stay?u=76281980&t=35)** That said, remote research can be tricky to do well, especially an exploratory qualitative technique like [[Interviewing]].
 >
 > **[0:44](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-is-here-to-stay?u=76281980&t=44)** If you're not familiar with conducting interviews in a UX setting, you can check out my UX fundamentals course on conducting interviews.
 >
@@ -93,7 +92,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (4), [[Interviewing]] (1)
+> **Frameworks & Libraries:** [[UX Research]] (1), [[Interviewing]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [amanda] (1)
 
@@ -102,8 +101,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Research planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/research-planning?u=76281980)
+#### [Research planning](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/research-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,7 +109,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/research-planning?u=76281980&t=12)** UX interviews are designed to help you explore people and their beliefs.
 >
-> **[0:16](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/research-planning?u=76281980&t=16)** We commonly use them in the early exploratory stages of a new product to help us define target personas, and throughout product development to see how people and their needs evolve.
+> **[0:16](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/research-planning?u=76281980&t=16)** We commonly use them in the early exploratory stages of a new product to help us define target personas, and throughout [[Product Development]] to see how people and their needs evolve.
 >
 > **[0:26](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/research-planning?u=76281980&t=26)** We really dig into people's motivations, fears, needs, intentions, goals, impressions, and attitudes.
 >
@@ -119,7 +117,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/research-planning?u=76281980&t=39)** If you need something else, like to evaluate a design or explore a behavior, you probably want to choose something else.
 >
-> **[0:46](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/research-planning?u=76281980&t=46)** There's more on that in my UX Research Fundamentals course.
+> **[0:46](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/research-planning?u=76281980&t=46)** There's more on that in my [[UX Research]] Fundamentals course.
 >
 > **[0:49](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/research-planning?u=76281980&t=49)** Your research goals will also help you start to create your moderation or discussion guide, which is the plan that outlines the high-level topics you want to cover, identify specific questions you want to ask and areas you want to probe.
 >
@@ -187,15 +185,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (4), product (1), [[Product Development]] (1), feature (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Product Development]] (1), [[UX Research]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Prerequisites:** setup (1), you'll need (1), set up (1)
 > **Analogies:** just like (1), for instance (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Remote scheduling and recruiting
-> [LinkedIn Learning](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-scheduling-and-recruiting?u=76281980)
+#### [Remote scheduling and recruiting](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-scheduling-and-recruiting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -239,13 +236,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (1)
 > **CLI Commands:** make (2), find (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Remote logistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-logistics?u=76281980)
+#### [Remote logistics](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-logistics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -285,14 +280,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [tutor] (1)
 
-#### Remote moderation tips
-> [LinkedIn Learning](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-moderation-tips?u=76281980)
+#### [Remote moderation tips](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-moderation-tips?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -346,7 +339,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-moderation-tips?u=76281980&t=174)** That said, it's okay to acknowledge that distraction may be a part of their reality and actually incorporate whatever observations you have about that into your research.
 >
-> **[3:05](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-moderation-tips?u=76281980&t=185)** I've recently been working with an educational app for little kids and we've been interviewing parents.
+> **[3:05](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-moderation-tips?u=76281980&t=185)** I've recently been working with an educational app for little kids and we've been [[Interviewing]] parents.
 >
 > **[3:11](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-moderation-tips?u=76281980&t=191)** So many of them would apologize for interruptions from their children or be trying to shoo them off, but it was actually really insightful for us to see how they would distract their kids or try to keep them occupied when they're trying to focus.
 >
@@ -394,8 +387,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Remote analysis and synthesis
-> [LinkedIn Learning](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-analysis-and-synthesis?u=76281980)
+#### [Remote analysis and synthesis](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-analysis-and-synthesis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -407,11 +399,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-analysis-and-synthesis?u=76281980&t=21)** But I have some great tips as well.
 >
-> **[0:24](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-analysis-and-synthesis?u=76281980&t=24)** Like with much of the rest of conducting remote interviews, the basics of analyzing and synthesizing data are the same.
+> **[0:24](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-analysis-and-synthesis?u=76281980&t=24)** Like with much of the [[Representational State Transfer (REST)|rest]] of conducting remote interviews, the basics of analyzing and synthesizing data are the same.
 >
 > **[0:31](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-analysis-and-synthesis?u=76281980&t=31)** If you need to brush up on data analysis in general, check out my previous course that dives a bit deeper.
 >
-> **[0:37](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-analysis-and-synthesis?u=76281980&t=37)** I go over details of data mining and walk through a collaborative synthesis process.
+> **[0:37](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-analysis-and-synthesis?u=76281980&t=37)** I go over details of [[Data Mining]] and walk through a collaborative synthesis process.
 >
 > **[0:42](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-analysis-and-synthesis?u=76281980&t=42)** Well it's always the case that you should let your research objectives drive your methods and therefore the kind of data you collect and how.
 >
@@ -423,7 +415,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-analysis-and-synthesis?u=76281980&t=75)** I also recommend pre agreeing on a place to store and watch the videos, the format for transcripts, what tools you might use to aid analysis, and how you'll start to record insights because you might have many options.
 >
-> **[1:28](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-analysis-and-synthesis?u=76281980&t=88)** For instance, I typically use Zoom to connect and record calls, Google to create shared documents and spreadsheets, Tetra Insights to store assets, organize tags, read transcripts, and create video clips.
+> **[1:28](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-analysis-and-synthesis?u=76281980&t=88)** For instance, I typically use [[Zoom]] to connect and record calls, [[Google]] to create shared documents and spreadsheets, Tetra Insights to store assets, organize tags, read transcripts, and create video clips.
 >
 > **[1:42](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/remote-analysis-and-synthesis?u=76281980&t=102)** However, Zoom will create transcripts and sometimes I have clients who want assets in a shared drive.
 >
@@ -479,7 +471,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Google]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[Zoom]] (2), next (2)
+> **Frameworks & Libraries:** [[Google]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[Data Mining]] (2), [[Zoom]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** for instance (1)
@@ -487,14 +479,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [amanda] (1)
 
-#### Avoiding burnout
-> [LinkedIn Learning](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/avoiding-burnout?u=76281980)
+#### [Avoiding burnout](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/avoiding-burnout?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/avoiding-burnout?u=76281980&t=1)** - [Narrator] With all of these remote tools enabling us to continue conducting research and maybe even increasing the amount of research we're ultimately able to do, it's important to also know that just because we might be able to cram more sessions into a day it doesn't mean that we should.
 >
-> **[0:18](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/avoiding-burnout?u=76281980&t=18)** We've already talked about schedule a little bit, but Zoom fatigue is very real and conducting interviews is exhausting.
+> **[0:18](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/avoiding-burnout?u=76281980&t=18)** We've already talked about schedule a little bit, but [[Zoom]] fatigue is very real and conducting interviews is exhausting.
 >
 > **[0:26](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/avoiding-burnout?u=76281980&t=26)** Even under the best of circumstances.
 >
@@ -506,7 +497,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/avoiding-burnout?u=76281980&t=43)** With that in mind, I strongly recommend limiting the schedule to no more than five sessions a day and making sure to include breaks in between.
 >
-> **[0:52](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/avoiding-burnout?u=76281980&t=52)** I know that's not always possible, but even a few minutes to process, get a drink, stretch and rest your eyes can really help you stay sharp.
+> **[0:52](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/avoiding-burnout?u=76281980&t=52)** I know that's not always possible, but even a few minutes to process, get a drink, stretch and [[Representational State Transfer (REST)|rest]] your eyes can really help you stay sharp.
 >
 > **[1:01](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/avoiding-burnout?u=76281980&t=61)** Another tricky thing about conducting remote interviews is that one of the key causes for video conferencing fatigue is the high amount of very close face to eye contact.
 >
@@ -558,7 +549,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1), ux (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** think of it as (1)
 > **Best Practices:** make sure to (1)
@@ -569,8 +560,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get started on your own
-> [LinkedIn Learning](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/get-started-on-your-own?u=76281980)
+#### [Get started on your own](https://www.linkedin.com/learning/conducting-remote-ux-research-interviews/get-started-on-your-own?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -588,7 +578,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (1)
 > **Speakers:** - [narrator] (1)
 
 

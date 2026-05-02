@@ -105,12 +105,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making accessible websites using WordPress
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/making-accessible-websites-using-wordpress?u=76281980)
+#### [Making accessible websites using WordPress](https://www.linkedin.com/learning/wordpress-accessibility-22376834/making-accessible-websites-using-wordpress?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/making-accessible-websites-using-wordpress?u=76281980&t=0)** - [Instructor] Creating an optimal user experience requires attention to accessibility.
+> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/making-accessible-websites-using-wordpress?u=76281980&t=0)** - [Instructor] Creating an optimal [[User Experience (UX)|user experience]] requires attention to accessibility.
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-accessibility-22376834/making-accessible-websites-using-wordpress?u=76281980&t=5)** You don't know what devices or abilities visitors bring to your site.
 >
@@ -120,7 +119,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/wordpress-accessibility-22376834/making-accessible-websites-using-wordpress?u=76281980&t=25)** So that's what I've done for you in this course.
 >
-> **[0:26](https://www.linkedin.com/learning/wordpress-accessibility-22376834/making-accessible-websites-using-wordpress?u=76281980&t=26)** You'll learn everything from accessibility concepts to WordPress tools and techniques to accessibility testing methods.
+> **[0:26](https://www.linkedin.com/learning/wordpress-accessibility-22376834/making-accessible-websites-using-wordpress?u=76281980&t=26)** You'll learn everything from accessibility concepts to [[WordPress]] tools and techniques to accessibility testing methods.
 >
 > **[0:34](https://www.linkedin.com/learning/wordpress-accessibility-22376834/making-accessible-websites-using-wordpress?u=76281980&t=34)** Many of these concepts apply to any website.
 >
@@ -135,20 +134,19 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### WordPress base knowledge
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-base-knowledge?u=76281980)
+#### [WordPress base knowledge](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-base-knowledge?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-base-knowledge?u=76281980&t=0)** - [Instructor] In this course, you'll learn how to create a website that's accessible to people with disabilities, using the WordPress content management system.
+> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-base-knowledge?u=76281980&t=0)** - [Instructor] In this course, you'll learn how to create a website that's accessible to people with disabilities, using the [[WordPress]] [[Content Management]] system.
 >
 > **[0:09](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-base-knowledge?u=76281980&t=9)** This course is about WordPress, so you should be comfortable installing WordPress, adding themes and plugins, and be comfortable navigating settings in the WordPress admin.
 >
-> **[0:18](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-base-knowledge?u=76281980&t=18)** You'll also need a basic understanding of HTML and CSS.
+> **[0:18](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-base-knowledge?u=76281980&t=18)** You'll also need a basic understanding of [[HTML]] and CSS.
 >
 > **[0:23](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-base-knowledge?u=76281980&t=23)** If you need a refresher, I do recommend watching [[WordPress Essential Training]] and the [[HTML Essential Training]] before starting this course.
 >
-> **[0:30](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-base-knowledge?u=76281980&t=30)** While you don't necessarily need to know JavaScript, a familiarity with what it is and how it's used will be useful.
+> **[0:30](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-base-knowledge?u=76281980&t=30)** While you don't necessarily need to know [[JavaScript]], a familiarity with what it is and how it's used will be useful.
 >
 > **[0:39](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-base-knowledge?u=76281980&t=39)** On the accessibility side, there are a few terms I'll use frequently you'll want familiarity with.
 >
@@ -168,13 +166,13 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-base-knowledge?u=76281980&t=91)** Assistive technology, or AT, is a general term for technology to help people with disabilities.
 >
-> **[1:38](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-base-knowledge?u=76281980&t=98)** It covers an enormous range of implementations in both hardware and software.
+> **[1:38](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-base-knowledge?u=76281980&t=98)** It covers an enormous range of implementations in both [[Hardware]] and software.
 >
-> **[1:43](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-base-knowledge?u=76281980&t=103)** Assistive technology includes screen readers, braille readers, voice control, text zoom, pointing tools and many other devices.
+> **[1:43](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-base-knowledge?u=76281980&t=103)** Assistive technology includes screen readers, braille readers, voice control, text [[Zoom]], pointing tools and many other devices.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (5), [[HTML]] (3), css (2), web (2), [[Content Management]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (5), [[HTML]] (3), [[Content Management]] (1), [[JavaScript]] (1), [[Hardware]] (1)
 > **Env Vars:** html (3), css (2), w3c (2), aaa (2), wcag (1)
 > **Documentation:** w3c (2)
 > **Definitions:** refers to (1), is a  (1)
@@ -185,12 +183,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Web accessibility concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/web-accessibility-concepts?u=76281980)
+#### [Web accessibility concepts](https://www.linkedin.com/learning/wordpress-accessibility-22376834/web-accessibility-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/web-accessibility-concepts?u=76281980&t=0)** - [Instructor] Let's start by breaking down the concept of web accessibility in four principles.
+> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/web-accessibility-concepts?u=76281980&t=0)** - [Instructor] Let's start by breaking down the concept of [[Web Accessibility]] in four principles.
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-accessibility-22376834/web-accessibility-concepts?u=76281980&t=6)** Perceivability, operability, understandability, and robustness.
 >
@@ -214,7 +211,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/wordpress-accessibility-22376834/web-accessibility-concepts?u=76281980&t=74)** A website is operable if every item on the page can be used no matter what device is in use.
 >
-> **[1:23](https://www.linkedin.com/learning/wordpress-accessibility-22376834/web-accessibility-concepts?u=76281980&t=83)** Any HTML link, button, or input field can be used with a mouse, with a keyboard, using a touchscreen such as a mobile phone or tablet, or with the more limited inputs in a switch system.
+> **[1:23](https://www.linkedin.com/learning/wordpress-accessibility-22376834/web-accessibility-concepts?u=76281980&t=83)** Any [[HTML]] link, button, or input field can be used with a mouse, with a keyboard, using a touchscreen such as a mobile phone or tablet, or with the more limited inputs in a switch system.
 >
 > **[1:37](https://www.linkedin.com/learning/wordpress-accessibility-22376834/web-accessibility-concepts?u=76281980&t=97)** Understandability is about comprehension.
 >
@@ -238,28 +235,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Web Accessibility]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Web Accessibility]] (1), [[HTML]] (1)
 > **Env Vars:** w3c (1), wcag (1), html (1)
 > **Documentation:** w3c (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessibility and your business
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-and-your-business?u=76281980)
+#### [Accessibility and your business](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-and-your-business?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-and-your-business?u=76281980&t=0)** - [Instructor] When your website isn't accessible, your denying access to your information, products and services to a large group of users.
+> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-and-your-business?u=76281980&t=0)** - [Instructor] When your website isn't accessible, your denying access to your information, [[Microsoft Products|products]] and services to a large group of users.
 >
 > **[0:09](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-and-your-business?u=76281980&t=9)** Building a business website that arbitrarily denies access to members of the world's largest minority group, around one in six people worldwide, has no shortage of downsides.
 >
-> **[0:22](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-and-your-business?u=76281980&t=22)** Ethics alone would suggest that denying people access to your platform is the wrong thing to do, but an accessible website isn't just an ethics question.
+> **[0:22](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-and-your-business?u=76281980&t=22)** [[Ethics]] alone would suggest that denying people access to your platform is the wrong thing to do, but an accessible website isn't just an ethics question.
 >
 > **[0:31](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-and-your-business?u=76281980&t=31)** Although creating an accessible website is unquestionably the right thing to do, it's also a legal obligation in many jurisdictions, including most of Europe, parts of Canada and the United States.
 >
 > **[0:43](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-and-your-business?u=76281980&t=43)** Failure to provide an accessible experience can expose you to significant legal risk.
 >
-> **[0:49](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-and-your-business?u=76281980&t=49)** Under the EU's Directive 2019/882, private sectors, including E-commerce, banking and E-books, are all required to meet accessibility standards.
+> **[0:49](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-and-your-business?u=76281980&t=49)** Under the EU's Directive 2019/882, private sectors, including [[E-Commerce]], [[Banking]] and E-books, are all required to meet accessibility standards.
 >
 > **[1:01](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-and-your-business?u=76281980&t=61)** Member states of the EU were required to establish their own national laws by June 28th, 2022.
 >
@@ -291,14 +287,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Ethics]] (2), [[Microsoft Products|Products]] (1), [[E-Commerce]] (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (2), [[Microsoft Products|Products]] (1), [[E-Commerce]] (1), [[Banking]] (1)
 > **Env Vars:** wcag (1)
 > **Versions:** version 2 (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assistive technology overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/assistive-technology-overview?u=76281980)
+#### [Assistive technology overview](https://www.linkedin.com/learning/wordpress-accessibility-22376834/assistive-technology-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -312,7 +307,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/wordpress-accessibility-22376834/assistive-technology-overview?u=76281980&t=10)** Write down your thoughts and ideas and revisit them at the end of this course to add more ways you can help.
 >
-> **[0:17](https://www.linkedin.com/learning/wordpress-accessibility-22376834/assistive-technology-overview?u=76281980&t=17)** While not every person who depends on accessible websites makes use of additional software or hardware every accessible web experience is intermediated by some kind of assistive technology.
+> **[0:17](https://www.linkedin.com/learning/wordpress-accessibility-22376834/assistive-technology-overview?u=76281980&t=17)** While not every person who depends on accessible websites makes use of additional software or [[Hardware]] every accessible web experience is intermediated by some kind of assistive technology.
 >
 > **[0:30](https://www.linkedin.com/learning/wordpress-accessibility-22376834/assistive-technology-overview?u=76281980&t=30)** Broadly speaking, assistive technology is any innovation that aids a person in using a computer.
 >
@@ -338,7 +333,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/wordpress-accessibility-22376834/assistive-technology-overview?u=76281980&t=105)** Most of the assistive technology we'll address in this course has to do with methods of handling website output.
 >
-> **[1:53](https://www.linkedin.com/learning/wordpress-accessibility-22376834/assistive-technology-overview?u=76281980&t=113)** People with visual impairments make use of software tools including screen readers which provide oral interpretations of the content of a website or Zoom interfaces which enlarge the content on the screen for low vision.
+> **[1:53](https://www.linkedin.com/learning/wordpress-accessibility-22376834/assistive-technology-overview?u=76281980&t=113)** People with visual impairments make use of software tools including screen readers which provide oral interpretations of the content of a website or [[Zoom]] interfaces which enlarge the content on the screen for low vision.
 >
 > **[2:08](https://www.linkedin.com/learning/wordpress-accessibility-22376834/assistive-technology-overview?u=76281980&t=128)** They may also use features built into their operating system to switch into high contrast mode.
 >
@@ -378,7 +373,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[Hardware]] (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Zoom]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** adhd (1)
@@ -390,12 +385,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding accessibility in WordPress
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/understanding-accessibility-in-wordpress?u=76281980)
+#### [Understanding accessibility in WordPress](https://www.linkedin.com/learning/wordpress-accessibility-22376834/understanding-accessibility-in-wordpress?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/understanding-accessibility-in-wordpress?u=76281980&t=0)** - [Instructor] Although WordPress offers a lot in the way of accessibility, you cannot simply install WordPress, set up a site with any theme, and expect it to be accessible.
+> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/understanding-accessibility-in-wordpress?u=76281980&t=0)** - [Instructor] Although [[WordPress]] offers a lot in the way of accessibility, you cannot simply install WordPress, set up a site with any theme, and expect it to be accessible.
 >
 > **[0:12](https://www.linkedin.com/learning/wordpress-accessibility-22376834/understanding-accessibility-in-wordpress?u=76281980&t=12)** This is because WordPress isn't a monolithic system.
 >
@@ -409,7 +403,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/wordpress-accessibility-22376834/understanding-accessibility-in-wordpress?u=76281980&t=41)** You've got the bones of a home, but with WordPress alone, you don't have a house, at least not one that is at all usable.
 >
-> **[0:49](https://www.linkedin.com/learning/wordpress-accessibility-22376834/understanding-accessibility-in-wordpress?u=76281980&t=49)** When you add a classic theme, it will set up siding and roofing materials, it'll create doors, points where you can access your house, it'll add windows and that all the ornamental elements that make your house look great from the street.
+> **[0:49](https://www.linkedin.com/learning/wordpress-accessibility-22376834/understanding-accessibility-in-wordpress?u=76281980&t=49)** When you add a classic theme, it will set up siding and roofing materials, it'll create doors, points where you can access your house, it'll add [[Windows]] and that all the ornamental elements that make your house look great from the street.
 >
 > **[1:02](https://www.linkedin.com/learning/wordpress-accessibility-22376834/understanding-accessibility-in-wordpress?u=76281980&t=62)** Your content is like what you put in each room, making sure that each room in your house serves a well-defined purpose and has all the pieces of furniture you need to communicate.
 >
@@ -425,9 +419,9 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/wordpress-accessibility-22376834/understanding-accessibility-in-wordpress?u=76281980&t=113)** The theme explicitly provides a set of colors and fonts, these fonts may be difficult to read, the colors chosen might create contrast problems to people who are colorblind have difficulty seeing.
 >
-> **[2:05](https://www.linkedin.com/learning/wordpress-accessibility-22376834/understanding-accessibility-in-wordpress?u=76281980&t=125)** While WordPress includes accessible search and comments forms, these can be replaced by the theme, so they may not be correctly labeled and they maybe can't be identified using a screen reader.
+> **[2:05](https://www.linkedin.com/learning/wordpress-accessibility-22376834/understanding-accessibility-in-wordpress?u=76281980&t=125)** While WordPress includes accessible search and comments [[Forms]], these can be replaced by the theme, so they may not be correctly labeled and they maybe can't be identified using a screen reader.
 >
-> **[2:17](https://www.linkedin.com/learning/wordpress-accessibility-22376834/understanding-accessibility-in-wordpress?u=76281980&t=137)** The HTML of the navigation menu comes from WordPress, but once it's styled by the theme using CSS and JavaScript, it may no longer be navigable using the keyboard.
+> **[2:17](https://www.linkedin.com/learning/wordpress-accessibility-22376834/understanding-accessibility-in-wordpress?u=76281980&t=137)** The [[HTML]] of the navigation menu comes from WordPress, but once it's styled by the theme using CSS and [[JavaScript]], it may no longer be navigable using the keyboard.
 >
 > **[2:29](https://www.linkedin.com/learning/wordpress-accessibility-22376834/understanding-accessibility-in-wordpress?u=76281980&t=149)** Plugins can add a whole new interaction experience to your website and WordPress has no control over what that experience might be like.
 >
@@ -453,7 +447,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (19), [[Windows]] (1), business (1), [[Search]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (19), [[Windows]] (1), [[Forms]] (1), [[HTML]] (1), [[JavaScript]] (1)
 > **Prerequisites:** set up (3), install (2), you'll need (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** html (1), css (1)
@@ -461,12 +455,11 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### WordPress core features
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-core-features?u=76281980)
+#### [WordPress core features](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-core-features?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-core-features?u=76281980&t=0)** - [Instructor] What do you imagine is the direct impact WordPress has on the accessibility of your website?
+> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-core-features?u=76281980&t=0)** - [Instructor] What do you imagine is the direct impact [[WordPress]] has on the accessibility of your website?
 >
 > **[0:07](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-core-features?u=76281980&t=7)** The core WordPress software without a theme or plugins only generates a fraction of your site.
 >
@@ -478,7 +471,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-core-features?u=76281980&t=46)** The differences between using a block theme and a classic theme are significant, so they really must be treated separately.
 >
-> **[0:54](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-core-features?u=76281980&t=54)** Features generated in a classic WordPress theme include your navigation menu HTML, your search forms, comment forms, all of the core widgets, archive lists, category dropdowns, recent posts, recent comments, and a calendar of blog posts.
+> **[0:54](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-core-features?u=76281980&t=54)** Features generated in a classic WordPress theme include your navigation menu [[HTML]], your search [[Forms]], comment forms, all of the core widgets, archive lists, category dropdowns, recent posts, recent comments, and a calendar of blog posts.
 >
 > **[1:10](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-core-features?u=76281980&t=70)** They include your images in content, your image galleries, and of course, blocks from the block post editor.
 >
@@ -490,7 +483,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-core-features?u=76281980&t=100)** But WordPress doesn't add any styles or behavior.
 >
-> **[1:44](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-core-features?u=76281980&t=104)** When authors add CSS for style and add JavaScript to change behaviors, they can introduce all sorts of accessibility problems.
+> **[1:44](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-core-features?u=76281980&t=104)** When authors add CSS for style and add [[JavaScript]] to change behaviors, they can introduce all sorts of accessibility problems.
 >
 > **[1:53](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-core-features?u=76281980&t=113)** It's not that raw HTML is always accessible, just that CSS and JavaScript can create accessibility problems, even if the HTML is great.
 >
@@ -522,7 +515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (14), [[HTML]] (5), [[Forms]] (4), [[Search]] (2), css (2)
+> **Frameworks & Libraries:** [[WordPress]] (14), [[HTML]] (5), [[Forms]] (4), [[JavaScript]] (2)
 > **Env Vars:** html (5), css (2)
 > **UI Navigation:** dropdown (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -531,12 +524,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### WordPress Classic themes
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-classic-themes?u=76281980)
+#### [WordPress Classic themes](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-classic-themes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-classic-themes?u=76281980&t=0)** - [Instructor] With classic themes, your theme choice can make or break the accessibility of your WordPress website.
+> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-classic-themes?u=76281980&t=0)** - [Instructor] With classic themes, your theme choice can make or break the accessibility of your [[WordPress]] website.
 >
 > **[0:07](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-classic-themes?u=76281980&t=7)** Almost every piece of accessibility that WordPress core provides can be broken by your theme.
 >
@@ -554,7 +546,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-classic-themes?u=76281980&t=42)** No WordPress theme can guarantee an accessible website.
 >
-> **[0:47](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-classic-themes?u=76281980&t=47)** Even in a well-designed theme, you can make choices in theme settings in content creation or in plug-in selection that interfere with the accessibility of the theme.
+> **[0:47](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-classic-themes?u=76281980&t=47)** Even in a well-designed theme, you can make choices in theme settings in [[Content Creation]] or in plug-in selection that interfere with the accessibility of the theme.
 >
 > **[0:56](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-classic-themes?u=76281980&t=56)** This is why themes are called accessibility-ready.
 >
@@ -572,11 +564,11 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-classic-themes?u=76281980&t=119)** The first item is keyboard navigation; whether every item in the theme can be reached from the keyboard with a visible focused indicator.
 >
-> **[2:08](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-classic-themes?u=76281980&t=128)** Then there's controls, whether all theme features that behave like buttons or links are constructed using appropriate HTML elements and provide clear indications of what the task is that they perform.
+> **[2:08](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-classic-themes?u=76281980&t=128)** Then there's controls, whether all theme features that behave like buttons or links are constructed using appropriate [[HTML]] elements and provide clear indications of what the task is that they perform.
 >
 > **[2:22](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-classic-themes?u=76281980&t=142)** Skip links are a requirement, that means there needs to be a means to skip over the navigation of the site to reach the content more quickly.
 >
-> **[2:31](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-classic-themes?u=76281980&t=151)** Core WordPress forms are checked, we will verify whether or not the native WordPress forms are available, and if they've been replaced, that the replacements are also accessible.
+> **[2:31](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-classic-themes?u=76281980&t=151)** Core WordPress [[Forms]] are checked, we will verify whether or not the native WordPress forms are available, and if they've been replaced, that the replacements are also accessible.
 >
 > **[2:43](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-classic-themes?u=76281980&t=163)** The structure of your headings is going to be checked.
 >
@@ -612,7 +604,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (12), [[Forms]] (2), [[Content Creation]] (1), product (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (12), [[Forms]] (2), [[Content Creation]] (1), [[HTML]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** aria (2), html (1), wcag (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
@@ -620,12 +612,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### WordPress full site editing
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-full-site-editing?u=76281980)
+#### [WordPress full site editing](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-full-site-editing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-full-site-editing?u=76281980&t=0)** - [Narrator] Full site editing introduces a new paradigm for building WordPress websites.
+> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-full-site-editing?u=76281980&t=0)** - [Narrator] Full site editing introduces a new paradigm for building [[WordPress]] websites.
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-full-site-editing?u=76281980&t=6)** It's not a completely new concept, it's essentially a tool to manage your site design, a page builder using blocks like Elementor, Beaver Builder or Avada, but without requiring a plugin.
 >
@@ -647,7 +638,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-full-site-editing?u=76281980&t=100)** In block themes these three topics are the primary considerations.
 >
-> **[1:44](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-full-site-editing?u=76281980&t=104)** Thankfully, the accessibility of almost all default HTML output is already high.
+> **[1:44](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-full-site-editing?u=76281980&t=104)** Thankfully, the accessibility of almost all default [[HTML]] output is already high.
 >
 > **[1:51](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-full-site-editing?u=76281980&t=111)** Full site editing or block themes provide another strong foundation along with accessibility ready themes.
 >
@@ -669,18 +660,17 @@ created: 2026-05-02
 > **Env Vars:** html (1)
 > **Speakers:** - [narrator] (1)
 
-#### WordPress plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-plugins?u=76281980)
+#### [WordPress plugins](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-plugins?u=76281980&t=0)** - [Instructor] Key components on your site can only be added through WordPress plugins.
+> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-plugins?u=76281980&t=0)** - [Instructor] Key components on your site can only be added through [[WordPress]] plugins.
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-plugins?u=76281980&t=5)** What impact do plugins have on the accessibility of your site?
 >
 > **[0:09](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-plugins?u=76281980&t=9)** If you had to guess, what do you think are the most common features WordPress doesn't provide out of the box?
 >
-> **[0:15](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-plugins?u=76281980&t=15)** Contact forms, event calendars, E-commerce features?
+> **[0:15](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-plugins?u=76281980&t=15)** Contact [[Forms]], event calendars, [[E-Commerce]] features?
 >
 > **[0:19](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-plugins?u=76281980&t=19)** These are probably among the most high demand services.
 >
@@ -724,11 +714,11 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-plugins?u=76281980&t=139)** The difference is due to what is inherited within a website and what is not.
 >
-> **[2:25](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-plugins?u=76281980&t=145)** HTML has no inheritance.
+> **[2:25](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-plugins?u=76281980&t=145)** [[HTML]] has no inheritance.
 >
 > **[2:27](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-plugins?u=76281980&t=147)** What the plugin creates has no fundamental relationship to your theme.
 >
-> **[2:31](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-plugins?u=76281980&t=151)** CSS, however, cascading style sheets, pass their characteristics to everything on the site.
+> **[2:31](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-plugins?u=76281980&t=151)** CSS, however, [[Cascading Style Sheets (CSS)|cascading style sheets]], pass their characteristics to everything on the site.
 >
 > **[2:38](https://www.linkedin.com/learning/wordpress-accessibility-22376834/wordpress-plugins?u=76281980&t=158)** Any CSS included by a plugin can affect everything on the site.
 >
@@ -744,7 +734,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (5), css (4), [[Forms]] (1), [[E-Commerce]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (5), [[Forms]] (1), [[E-Commerce]] (1), [[HTML]] (1), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1)
 > **Env Vars:** css (4), html (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -752,8 +742,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating accessible content
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/creating-accessible-content?u=76281980)
+#### [Creating accessible content](https://www.linkedin.com/learning/wordpress-accessibility-22376834/creating-accessible-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -779,7 +768,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/wordpress-accessibility-22376834/creating-accessible-content?u=76281980&t=62)** If your content isn't accessible, there's no reason for anybody to bother.
 >
-> **[1:07](https://www.linkedin.com/learning/wordpress-accessibility-22376834/creating-accessible-content?u=76281980&t=67)** The core editing environment for WordPress is the Block editor, although you can also use the Classic editor plugin to restore the editing experience prior to WordPress 5.0.
+> **[1:07](https://www.linkedin.com/learning/wordpress-accessibility-22376834/creating-accessible-content?u=76281980&t=67)** The core editing environment for [[WordPress]] is the Block editor, although you can also use the Classic editor plugin to restore the editing experience prior to WordPress 5.0.
 >
 > **[1:19](https://www.linkedin.com/learning/wordpress-accessibility-22376834/creating-accessible-content?u=76281980&t=79)** Both editors have advantages and disadvantages.
 >
@@ -821,7 +810,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (5), web (2)
+> **Frameworks & Libraries:** [[WordPress]] (5)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** wcag (1)
 > **Versions:** 5.0 (1)
@@ -835,8 +824,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Examining accessible design
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/examining-accessible-design?u=76281980)
+#### [Examining accessible design](https://www.linkedin.com/learning/wordpress-accessibility-22376834/examining-accessible-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -846,7 +834,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/wordpress-accessibility-22376834/examining-accessible-design?u=76281980&t=11)** What you create needs to communicate information.
 >
-> **[0:15](https://www.linkedin.com/learning/wordpress-accessibility-22376834/examining-accessible-design?u=76281980&t=15)** Design is the process of creating a user experience, and there are many aspects to design that aren't just visual.
+> **[0:15](https://www.linkedin.com/learning/wordpress-accessibility-22376834/examining-accessible-design?u=76281980&t=15)** Design is the process of creating a [[User Experience (UX)|user experience]], and there are many aspects to design that aren't just visual.
 >
 > **[0:23](https://www.linkedin.com/learning/wordpress-accessibility-22376834/examining-accessible-design?u=76281980&t=23)** Whether your visual design process starts with a mood board, a color palette, an image, or a call to action, you should be thinking about the user experience for all users.
 >
@@ -902,7 +890,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/wordpress-accessibility-22376834/examining-accessible-design?u=76281980&t=167)** Whether you're designing a theme or choosing one, these are all questions you can ask yourself while visually examining the theme.
 >
-> **[2:56](https://www.linkedin.com/learning/wordpress-accessibility-22376834/examining-accessible-design?u=76281980&t=176)** Go to the WordPress theme repository and pick a popular theme, any theme.
+> **[2:56](https://www.linkedin.com/learning/wordpress-accessibility-22376834/examining-accessible-design?u=76281980&t=176)** Go to the [[WordPress]] theme repository and pick a popular theme, any theme.
 >
 > **[3:01](https://www.linkedin.com/learning/wordpress-accessibility-22376834/examining-accessible-design?u=76281980&t=181)** Ask yourself these questions while you review it.
 >
@@ -924,8 +912,7 @@ created: 2026-05-02
 > **UI Navigation:** toggle (1), go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessible color
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessible-color?u=76281980)
+#### [Accessible color](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessible-color?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1011,7 +998,7 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessible-color?u=76281980&t=287)** We'll talk more about how to test for color contrast later on.
 >
-> **[4:52](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessible-color?u=76281980&t=292)** Many WordPress themes have options available to shift your site's color palette.
+> **[4:52](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessible-color?u=76281980&t=292)** Many [[WordPress]] themes have options available to shift your site's color palette.
 >
 > **[4:57](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessible-color?u=76281980&t=297)** In the block editor, you can easily change the text and background colors for any text, anywhere.
 >
@@ -1035,7 +1022,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), web (1), next (1), feature (1)
+> **Frameworks & Libraries:** [[WordPress]] (3)
 > **Definitions:** is a  (4), is an  (1)
 > **Versions:** 5.27 (1), 2.1 (1), 3.0 (1), 4.5 (1)
 > **CLI Commands:** find (2), make (1)
@@ -1043,8 +1030,7 @@ created: 2026-05-02
 > **Env Vars:** wcag (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessible navigation
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessible-navigation?u=76281980)
+#### [Accessible navigation](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessible-navigation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1064,7 +1050,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessible-navigation?u=76281980&t=32)** After determining what kind of pattern to use, you need to build it with accessibility in mind.
 >
-> **[0:38](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessible-navigation?u=76281980&t=38)** The core of WordPress Navigation menus is a series of nested lists.
+> **[0:38](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessible-navigation?u=76281980&t=38)** The core of [[WordPress]] Navigation menus is a series of nested lists.
 >
 > **[0:43](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessible-navigation?u=76281980&t=43)** This is a great way to organize many menus.
 >
@@ -1162,7 +1148,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (4), [[Scripting]] (2), css (1)
+> **Frameworks & Libraries:** [[WordPress]] (4)
 > **Definitions:** is a  (5), is an  (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** wcag (3), css (1)
@@ -1170,8 +1156,7 @@ created: 2026-05-02
 > **UI Navigation:** in the menu (1), open the (1)
 > **Speakers:** - [narrator] (1)
 
-#### Perceivable images and icons
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/perceivable-images-and-icons?u=76281980)
+#### [Perceivable images and icons](https://www.linkedin.com/learning/wordpress-accessibility-22376834/perceivable-images-and-icons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1313,7 +1298,7 @@ created: 2026-05-02
 >
 > **[6:30](https://www.linkedin.com/learning/wordpress-accessibility-22376834/perceivable-images-and-icons?u=76281980&t=390)** For any control, adding an Aria label overrides all other naming information.
 >
-> **[6:37](https://www.linkedin.com/learning/wordpress-accessibility-22376834/perceivable-images-and-icons?u=76281980&t=397)** If you are a WordPress theme or plugin developer, you are probably using icon fonts or SVG images pretty frequently.
+> **[6:37](https://www.linkedin.com/learning/wordpress-accessibility-22376834/perceivable-images-and-icons?u=76281980&t=397)** If you are a [[WordPress]] theme or plugin developer, you are probably using icon fonts or SVG images pretty frequently.
 >
 > **[6:45](https://www.linkedin.com/learning/wordpress-accessibility-22376834/perceivable-images-and-icons?u=76281980&t=405)** When you're creating content, you'll mostly add images to posts and pages within your site.
 >
@@ -1321,15 +1306,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (3), [[Search]] (2), css (2), [[WordPress]] (2)
+> **Frameworks & Libraries:** [[WordPress]] (2)
 > **Env Vars:** svg (13), css (2), alt (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Page architecture and HTML semantics
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-architecture-and-html-semantics?u=76281980)
+#### [Page architecture and HTML semantics](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-architecture-and-html-semantics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1341,7 +1325,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-architecture-and-html-semantics?u=76281980&t=23)** People who are using assistive technology also need to understand the organization of the page.
 >
-> **[0:29](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-architecture-and-html-semantics?u=76281980&t=29)** The power of cascading style sheets allows web developers to separate the content and structure of their websites from the instructions that shape it visually.
+> **[0:29](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-architecture-and-html-semantics?u=76281980&t=29)** The power of [[Cascading Style Sheets (CSS)|cascading style sheets]] allows web developers to separate the content and structure of their websites from the instructions that shape it visually.
 >
 > **[0:39](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-architecture-and-html-semantics?u=76281980&t=39)** Just disabling the CSS on any website gives you an idea of how that website is structured under the glossy appearance.
 >
@@ -1353,7 +1337,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-architecture-and-html-semantics?u=76281980&t=65)** In reality, CSS allows developers to create a visual design that gives the effect they're looking for, regardless of the structure of the code behind it.
 >
-> **[1:14](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-architecture-and-html-semantics?u=76281980&t=74)** And while that can sometimes lead to a wonderful experience, it can also result in a div soup where every part of the site is built using an HTML div or span element.
+> **[1:14](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-architecture-and-html-semantics?u=76281980&t=74)** And while that can sometimes lead to a wonderful experience, it can also result in a div soup where every part of the site is built using an [[HTML]] div or span element.
 >
 > **[1:25](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-architecture-and-html-semantics?u=76281980&t=85)** Is there something inherently wrong with the div or span elements?
 >
@@ -1381,7 +1365,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-architecture-and-html-semantics?u=76281980&t=144)** These are commonly referred to as landmark regions because they can be used in a screen reader as landmarks to navigate through.
 >
-> **[2:31](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-architecture-and-html-semantics?u=76281980&t=151)** WordPress Steam developers should be using these larger structural elements to define the large scale structures of the page.
+> **[2:31](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-architecture-and-html-semantics?u=76281980&t=151)** [[WordPress]] Steam developers should be using these larger structural elements to define the large scale structures of the page.
 >
 > **[2:40](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-architecture-and-html-semantics?u=76281980&t=160)** The next level of critical semantics is in the six heading levels, H1 through H6.
 >
@@ -1429,7 +1413,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-architecture-and-html-semantics?u=76281980&t=276)** They can be named using the aria label attribute such as nav aria-label equals main or nav aria-label equals footer.
 >
-> **[4:45](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-architecture-and-html-semantics?u=76281980&t=285)** Don't include the word navigation or menu.
+> **[4:45](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-architecture-and-html-semantics?u=76281980&t=285)** Don't include the [[Microsoft Word|word]] navigation or menu.
 >
 > **[4:47](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-architecture-and-html-semantics?u=76281980&t=287)** Because you are using semantic HTML, the user already knows that.
 >
@@ -1439,7 +1423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (7), css (2), power (1), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), web (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), [[WordPress]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** html (7), css (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (1)
@@ -1447,8 +1431,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Page builders
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-builders?u=76281980)
+#### [Page builders](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-builders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1456,7 +1439,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-builders?u=76281980&t=6)** By adding a page builder plugin you can assemble complex layouts without code and make choices that are significantly independent of your theme.
 >
-> **[0:17](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-builders?u=76281980&t=17)** The introduction of full site editing into WordPress brings the concept of a page builder into WordPress Core alongside the many competing plugins that provide this kind of functionality.
+> **[0:17](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-builders?u=76281980&t=17)** The introduction of full site editing into [[WordPress]] brings the concept of a page builder into WordPress Core alongside the many competing plugins that provide this kind of functionality.
 >
 > **[0:28](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-builders?u=76281980&t=28)** But do all page builders perform equally?
 >
@@ -1506,7 +1489,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-builders?u=76281980&t=164)** In Elementor, the first item we're going to look at is the accordion.
 >
-> **[2:48](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-builders?u=76281980&t=168)** In Elementor's accordion, you can set an HTML title tag, so the default is a div but you're able to adjust it to a different type of element.
+> **[2:48](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-builders?u=76281980&t=168)** In Elementor's accordion, you can set an [[HTML]] title tag, so the default is a div but you're able to adjust it to a different type of element.
 >
 > **[2:59](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-builders?u=76281980&t=179)** Let's see what that is.
 >
@@ -1566,7 +1549,7 @@ created: 2026-05-02
 >
 > **[5:50](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-builders?u=76281980&t=350)** Now, in this particular case, since I used the URL [red30tech.com](https://red30tech.com), that is a very readable URL so somebody would be able to figure out what that referred to.
 >
-> **[6:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-builders?u=76281980&t=360)** However, if this had been a link to something much more obscure, maybe to a Google document with a long unending string of letters and numbers it would be a lot less clear.
+> **[6:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-builders?u=76281980&t=360)** However, if this had been a link to something much more obscure, maybe to a [[Google]] document with a long unending string of letters and numbers it would be a lot less clear.
 >
 > **[6:11](https://www.linkedin.com/learning/wordpress-accessibility-22376834/page-builders?u=76281980&t=371)** Let's take a look at that button.
 >
@@ -1712,7 +1695,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[HTML]] (3), [[WordPress]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[WordPress]] (2), [[Google]] (1)
 > **Speakers:** - [instructor] (11), - [screen (10)
 > **Definitions:** is a  (7), is an  (3), means that (1)
 > **Env Vars:** html (3), url (3), svg (1), aria (1)
@@ -1721,8 +1704,7 @@ created: 2026-05-02
 > **URLs:** [red30tech.com](https://red30tech.com) (2)
 > **Analogies:** similar to (2)
 
-#### Block themes vs. classic themes vs. page builders
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/block-themes-vs-classic-themes-vs-page-builders?u=76281980)
+#### [Block themes vs. classic themes vs. page builders](https://www.linkedin.com/learning/wordpress-accessibility-22376834/block-themes-vs-classic-themes-vs-page-builders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1744,7 +1726,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/wordpress-accessibility-22376834/block-themes-vs-classic-themes-vs-page-builders?u=76281980&t=38)** Elementor worked one way, Beaver Builder another, and Avada or Divvy have yet other totally different experiences.
 >
-> **[0:46](https://www.linkedin.com/learning/wordpress-accessibility-22376834/block-themes-vs-classic-themes-vs-page-builders?u=76281980&t=46)** However, when you work with a tool like Kadence Blocks the experience is very similar to using native WordPress site editing because that platform is extending the WordPress editing environment directly.
+> **[0:46](https://www.linkedin.com/learning/wordpress-accessibility-22376834/block-themes-vs-classic-themes-vs-page-builders?u=76281980&t=46)** However, when you work with a tool like Kadence Blocks the experience is very similar to using native [[WordPress]] site editing because that platform is extending the WordPress editing environment directly.
 >
 > **[0:59](https://www.linkedin.com/learning/wordpress-accessibility-22376834/block-themes-vs-classic-themes-vs-page-builders?u=76281980&t=59)** As you've seen before, the accessibility of most page builders is a mixed bag.
 >
@@ -1790,7 +1772,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (4), product (1), teams (1)
+> **Frameworks & Libraries:** [[WordPress]] (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1)
@@ -1801,12 +1783,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to assess plugin accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980)
+#### [How to assess plugin accessibility](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980&t=0)** - [Instructor] WordPress plugins bring us into the funhouse mirror world WordPress.
+> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980&t=0)** - [Instructor] [[WordPress]] plugins bring us into the funhouse mirror world WordPress.
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980&t=5)** Anything you think you know aout what WordPress does may no longer be true.
 >
@@ -1816,9 +1797,9 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980&t=22)** Think about some plugins you've used in the past.
 >
-> **[0:25](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980&t=25)** Some of the plugins are features, like contact forms.
+> **[0:25](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980&t=25)** Some of the plugins are features, like contact [[Forms]].
 >
-> **[0:28](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980&t=28)** Others might implement changes to existing features, like implementing an Ajax-driven live search or adding custom accordion blocks.
+> **[0:28](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980&t=28)** Others might implement changes to existing features, like implementing an [[AJAX]]-driven live search or adding custom accordion blocks.
 >
 > **[0:37](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980&t=37)** All of these plugins are taking advantage of the rich network of actions and filters throughout WordPress.
 >
@@ -1856,13 +1837,13 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980&t=163)** Form fields need to be labeled.
 >
-> **[2:45](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980&t=165)** Buttons need to be real buttons, not divs or spans with JavaScript handlers.
+> **[2:45](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980&t=165)** Buttons need to be real buttons, not divs or spans with [[JavaScript]] handlers.
 >
 > **[2:50](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980&t=170)** Buttons need to have accessible names.
 >
 > **[2:52](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980&t=172)** Buttons need to communicate their state.
 >
-> **[2:55](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980&t=175)** Content may have complex layouts requiring strong semantic HTML architecture, like headings.
+> **[2:55](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980&t=175)** Content may have complex layouts requiring strong semantic [[HTML]] architecture, like headings.
 >
 > **[3:01](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980&t=181)** And form responses need to be passed through to assistive technology.
 >
@@ -1872,7 +1853,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980&t=201)** Errors must be explicitly connected to the field that triggered the error so users know what to fix.
 >
-> **[3:28](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980&t=208)** Let's imagine that you've built a great accessible site with a plain search form that's clearly labeled and provides clear semantic markup for the search results.
+> **[3:28](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980&t=208)** Let's imagine that you've built a great accessible site with a plain search form that's clearly labeled and provides clear [[Semantic Markup]] for the search results.
 >
 > **[3:39](https://www.linkedin.com/learning/wordpress-accessibility-22376834/how-to-assess-plugin-accessibility?u=76281980&t=219)** Now you install a plugin that sets up Ajax-driven searching.
 >
@@ -1914,7 +1895,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (10), [[Search]] (9), [[Forms]] (2), [[AJAX]] (2), data (2)
+> **Frameworks & Libraries:** [[WordPress]] (10), [[Forms]] (2), [[AJAX]] (2), [[HTML]] (2), [[JavaScript]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** html (2)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
@@ -1923,20 +1904,19 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### ARIA, AJAX, and other four-letter words
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/aria-ajax-and-other-four-letter-words?u=76281980)
+#### [ARIA, AJAX, and other four-letter words](https://www.linkedin.com/learning/wordpress-accessibility-22376834/aria-ajax-and-other-four-letter-words?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/aria-ajax-and-other-four-letter-words?u=76281980&t=0)** - [Instructor] AJAX and ARIA are two technologies that are crucial in modern web development.
+> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/aria-ajax-and-other-four-letter-words?u=76281980&t=0)** - [Instructor] [[AJAX]] and ARIA are two technologies that are crucial in modern [[Web Development]].
 >
-> **[0:06](https://www.linkedin.com/learning/wordpress-accessibility-22376834/aria-ajax-and-other-four-letter-words?u=76281980&t=6)** AJAX, or asynchronous JavaScript and XML is used to send and receive information without refreshing the page.
+> **[0:06](https://www.linkedin.com/learning/wordpress-accessibility-22376834/aria-ajax-and-other-four-letter-words?u=76281980&t=6)** AJAX, or asynchronous [[JavaScript]] and XML is used to send and receive information without refreshing the page.
 >
 > **[0:14](https://www.linkedin.com/learning/wordpress-accessibility-22376834/aria-ajax-and-other-four-letter-words?u=76281980&t=14)** And ARIA, accessible rich internet applications is used to make sure that screen readers can understand how parts of the page are related and communicate events that happen without refreshing the page.
 >
 > **[0:27](https://www.linkedin.com/learning/wordpress-accessibility-22376834/aria-ajax-and-other-four-letter-words?u=76281980&t=27)** ARIA is a framework for giving screen readers better context in complex interfaces.
 >
-> **[0:33](https://www.linkedin.com/learning/wordpress-accessibility-22376834/aria-ajax-and-other-four-letter-words?u=76281980&t=33)** The entire set of attributes is there to bridge the gap between how native operating system applications work and what HTML can do.
+> **[0:33](https://www.linkedin.com/learning/wordpress-accessibility-22376834/aria-ajax-and-other-four-letter-words?u=76281980&t=33)** The entire set of attributes is there to bridge the gap between how native operating system applications work and what [[HTML]] can do.
 >
 > **[0:42](https://www.linkedin.com/learning/wordpress-accessibility-22376834/aria-ajax-and-other-four-letter-words?u=76281980&t=42)** ARIA extends the semantics of native HTML elements.
 >
@@ -2000,7 +1980,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/wordpress-accessibility-22376834/aria-ajax-and-other-four-letter-words?u=76281980&t=250)** Like ARIA label, it completely replaces other naming information, but it is useful because it can reference multiple elements which can give users better information.
 >
-> **[4:22](https://www.linkedin.com/learning/wordpress-accessibility-22376834/aria-ajax-and-other-four-letter-words?u=76281980&t=262)** Additionally, because the referenced element is visible content, it will be translated if you're using a tool like Google's Translate feature to try and read the page.
+> **[4:22](https://www.linkedin.com/learning/wordpress-accessibility-22376834/aria-ajax-and-other-four-letter-words?u=76281980&t=262)** Additionally, because the referenced element is visible content, it will be translated if you're using a tool like [[Google]]'s Translate feature to try and read the page.
 >
 > **[4:32](https://www.linkedin.com/learning/wordpress-accessibility-22376834/aria-ajax-and-other-four-letter-words?u=76281980&t=272)** This isn't the case with ARIA label.
 >
@@ -2018,7 +1998,7 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/wordpress-accessibility-22376834/aria-ajax-and-other-four-letter-words?u=76281980&t=319)** This lets the screen reader know that this region needs to be monitored so that when a change occurs the new information will be promptly read to the screen reader user without requiring them to move focus or browse the page.
 >
-> **[5:33](https://www.linkedin.com/learning/wordpress-accessibility-22376834/aria-ajax-and-other-four-letter-words?u=76281980&t=333)** A screen reader works using the version of the document object model, or DOM that was built when the site first loaded.
+> **[5:33](https://www.linkedin.com/learning/wordpress-accessibility-22376834/aria-ajax-and-other-four-letter-words?u=76281980&t=333)** A screen reader works using the version of the [[Document Object Model (DOM)|document object model]], or DOM that was built when the site first loaded.
 >
 > **[5:41](https://www.linkedin.com/learning/wordpress-accessibility-22376834/aria-ajax-and-other-four-letter-words?u=76281980&t=341)** When AJAX is used to generate a visual notification such as after submitting a contact form, the DOM is changed.
 >
@@ -2034,7 +2014,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (8), [[AJAX]] (5), dom (3), [[JavaScript]] (2), [[Web Development]] (1)
+> **Frameworks & Libraries:** [[HTML]] (8), [[AJAX]] (5), [[JavaScript]] (2), [[Web Development]] (1), [[Google]] (1)
 > **Env Vars:** aria (35), html (8), ajax (5), dom (3), xml (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), refers to (1)
@@ -2042,14 +2022,13 @@ created: 2026-05-02
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interacting with forms and their responses
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/interacting-with-forms-and-their-responses?u=76281980)
+#### [Interacting with forms and their responses](https://www.linkedin.com/learning/wordpress-accessibility-22376834/interacting-with-forms-and-their-responses?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/interacting-with-forms-and-their-responses?u=76281980&t=0)** - [Instructor] To demonstrate the use of Aria and Ajax, I'm going to run three similar demos.
+> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/interacting-with-forms-and-their-responses?u=76281980&t=0)** - [Instructor] To demonstrate the use of Aria and [[AJAX]], I'm going to run three similar demos.
 >
-> **[0:07](https://www.linkedin.com/learning/wordpress-accessibility-22376834/interacting-with-forms-and-their-responses?u=76281980&t=7)** First, a test using the default non-Ajax version of the WordPress comment form.
+> **[0:07](https://www.linkedin.com/learning/wordpress-accessibility-22376834/interacting-with-forms-and-their-responses?u=76281980&t=7)** First, a test using the default non-Ajax version of the [[WordPress]] comment form.
 >
 > **[0:13](https://www.linkedin.com/learning/wordpress-accessibility-22376834/interacting-with-forms-and-their-responses?u=76281980&t=13)** Second, a test using Ajax but without any considerations for accessibility.
 >
@@ -2157,7 +2136,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[AJAX]] (7), [[WordPress]] (3), next (1)
+> **Frameworks & Libraries:** [[AJAX]] (7), [[WordPress]] (3)
 > **Speakers:** - [instructor] (6), - [automated (5)
 > **Env Vars:** ajax (4), nvda (1)
 > **CLI Commands:** find (2)
@@ -2165,8 +2144,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Prerequisites:** required to (1)
 
-#### Authoring tools and accessibility guidelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/authoring-tools-and-accessibility-guidelines?u=76281980)
+#### [Authoring tools and accessibility guidelines](https://www.linkedin.com/learning/wordpress-accessibility-22376834/authoring-tools-and-accessibility-guidelines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2186,7 +2164,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/wordpress-accessibility-22376834/authoring-tools-and-accessibility-guidelines?u=76281980&t=43)** They are guidelines for checking whether a tool for creating content is usable by people with disabilities, and also whether it supports creating content that is consumable by people with disabilities.
 >
-> **[0:56](https://www.linkedin.com/learning/wordpress-accessibility-22376834/authoring-tools-and-accessibility-guidelines?u=76281980&t=56)** Most day-to-day web editing tasks require many different parts, WordPress core features and multiple required plug-ins for content and data management.
+> **[0:56](https://www.linkedin.com/learning/wordpress-accessibility-22376834/authoring-tools-and-accessibility-guidelines?u=76281980&t=56)** Most day-to-day web editing tasks require many different parts, [[WordPress]] core features and multiple required plug-ins for content and [[Data Management]].
 >
 > **[1:08](https://www.linkedin.com/learning/wordpress-accessibility-22376834/authoring-tools-and-accessibility-guidelines?u=76281980&t=68)** What do you do if a mission-critical part of the admin isn't accessible to your employees?
 >
@@ -2382,7 +2360,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (7), next (3), web (1), data (1), management (1)
+> **Frameworks & Libraries:** [[WordPress]] (7), [[Data Management]] (1)
 > **Speakers:** - [instructor] (16), - [computer] (15)
 > **CLI Commands:** make (2), find (2)
 > **UI Navigation:** toggle (3), in the tab (1)
@@ -2395,12 +2373,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing tools for WordPress
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-tools-for-wordpress?u=76281980)
+#### [Testing tools for WordPress](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-tools-for-wordpress?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-tools-for-wordpress?u=76281980&t=0)** - [Instructor] There are a lot of commercial accessibility testing tools available, and you can do your testing using any of them successfully, but there can be advantages to using tools specifically designed for use with WordPress.
+> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-tools-for-wordpress?u=76281980&t=0)** - [Instructor] There are a lot of commercial accessibility testing tools available, and you can do your testing using any of them successfully, but there can be advantages to using tools specifically designed for use with [[WordPress]].
 >
 > **[0:13](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-tools-for-wordpress?u=76281980&t=13)** There are only a few plugins that integrate with WordPress to provide accessibility feedback.
 >
@@ -2464,11 +2441,11 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-tools-for-wordpress?u=76281980&t=246)** When you activate it, it'll highlight a set of errors that it's found on your page, and give you some tools for navigating through it.
 >
-> **[4:13](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-tools-for-wordpress?u=76281980&t=253)** Now, it has a smaller set of tests than either of the other two plugins, 'cause it is entirely based on JavaScript, where the other two plugins are also doing PHP-based analysis of the code and content of your page.
+> **[4:13](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-tools-for-wordpress?u=76281980&t=253)** Now, it has a smaller set of tests than either of the other two plugins, 'cause it is entirely based on [[JavaScript]], where the other two plugins are also doing [[PHP]]-based analysis of the code and content of your page.
 >
 > **[4:27](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-tools-for-wordpress?u=76281980&t=267)** However, it is going to be rendering exactly what it sees.
 >
-> **[4:31](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-tools-for-wordpress?u=76281980&t=271)** So in terms of testing the total document object model, it's a good tool to examine all of that information.
+> **[4:31](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-tools-for-wordpress?u=76281980&t=271)** So in terms of testing the total [[Document Object Model (DOM)|document object model]], it's a good tool to examine all of that information.
 >
 > **[4:39](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-tools-for-wordpress?u=76281980&t=279)** By clicking the Error button.
 >
@@ -2476,7 +2453,7 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-tools-for-wordpress?u=76281980&t=287)** it'll indicate problems and it will also flag things that it knows are well done, even though the very presence of alt text in an image does not mean that it's actually accessible it only means that the alt text is present.
 >
-> **[5:02](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-tools-for-wordpress?u=76281980&t=302)** The big advantage to testing tools integrated into WordPress is that your testing is simultaneous with content creation.
+> **[5:02](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-tools-for-wordpress?u=76281980&t=302)** The big advantage to testing tools integrated into WordPress is that your testing is simultaneous with [[Content Creation]].
 >
 > **[5:10](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-tools-for-wordpress?u=76281980&t=310)** The earlier you know about an accessibility issue, the better.
 >
@@ -2488,15 +2465,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (4), product (1), web (1), feature (1), data (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), [[JavaScript]] (1), [[PHP]] (1), [[Document Object Model (DOM)|Document object model]] (1), [[Content Creation]] (1)
 > **Env Vars:** ada (2), llc (1), php (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (1), php (1), find (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessibility overlays
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-overlays?u=76281980)
+#### [Accessibility overlays](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-overlays?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2524,7 +2500,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-overlays?u=76281980&t=74)** Unfortunately, that's really not what's happening.
 >
-> **[1:19](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-overlays?u=76281980&t=79)** A high percentage of accessibility plugins in the WordPress plugin repository are overlays.
+> **[1:19](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-overlays?u=76281980&t=79)** A high percentage of accessibility plugins in the [[WordPress]] plugin repository are overlays.
 >
 > **[1:25](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-overlays?u=76281980&t=85)** Most of those don't include any significant code, only the code necessary to include their script that comes from the service that owns the plugin.
 >
@@ -2532,7 +2508,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-overlays?u=76281980&t=98)** Even assuming that an accessibility overlay fixes your accessibility problems, having that script sourced remotely creates its own problems.
 >
-> **[1:47](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-overlays?u=76281980&t=107)** It creates privacy issues.
+> **[1:47](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-overlays?u=76281980&t=107)** It creates [[Privacy Issues]].
 >
 > **[1:50](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-overlays?u=76281980&t=110)** The script may fail to function if there's a network interruption or a service outage.
 >
@@ -2596,7 +2572,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (6), web (1), [[WordPress]] (1), [[Privacy Issues]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (1), [[Privacy Issues]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** band (1), aid (1), ada (1), wcag (1)
 > **Warnings:** be aware (1), warning (1)
@@ -2604,8 +2580,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessibility add-ons
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-add-ons?u=76281980)
+#### [Accessibility add-ons](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-add-ons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2621,7 +2596,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-add-ons?u=76281980&t=30)** This plug-in gives you an option to specify text that will only be available to screen readers.
 >
-> **[0:37](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-add-ons?u=76281980&t=37)** It's available as an option in your block editor and when you select the item that includes it, it'll make it visible to you, but the rest of the time, it's seen the way people who visit your website will see it.
+> **[0:37](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-add-ons?u=76281980&t=37)** It's available as an option in your block editor and when you select the item that includes it, it'll make it visible to you, but the [[Representational State Transfer (REST)|rest]] of the time, it's seen the way people who visit your website will see it.
 >
 > **[0:50](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-add-ons?u=76281980&t=50)** Links need to have sufficient context for a screen reader user to know where it goes.
 >
@@ -2633,7 +2608,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-add-ons?u=76281980&t=85)** When text is in a language that isn't the main language of your website, it can have pronunciation problems for a screen reader.
 >
-> **[1:32](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-add-ons?u=76281980&t=92)** Screen readers take their pronunciation cues from the language defined for the whole site and that's set in your WordPress settings.
+> **[1:32](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-add-ons?u=76281980&t=92)** Screen readers take their pronunciation cues from the language defined for the whole site and that's set in your [[WordPress]] settings.
 >
 > **[1:39](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-add-ons?u=76281980&t=99)** But when you quote a French author in their original language, a screen reader expecting English may end up tricky to understand.
 >
@@ -2683,8 +2658,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Writing accessible content
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/writing-accessible-content?u=76281980)
+#### [Writing accessible content](https://www.linkedin.com/learning/wordpress-accessibility-22376834/writing-accessible-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2702,7 +2676,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/wordpress-accessibility-22376834/writing-accessible-content?u=76281980&t=26)** This is true for everyone, but has a greater impact on people with cognitive impairments and learning disabilities.
 >
-> **[0:33](https://www.linkedin.com/learning/wordpress-accessibility-22376834/writing-accessible-content?u=76281980&t=33)** When you can, choose a simple word over a complex one, your goal is communication, not art.
+> **[0:33](https://www.linkedin.com/learning/wordpress-accessibility-22376834/writing-accessible-content?u=76281980&t=33)** When you can, choose a simple [[Microsoft Word|word]] over a complex one, your goal is communication, not art.
 >
 > **[0:39](https://www.linkedin.com/learning/wordpress-accessibility-22376834/writing-accessible-content?u=76281980&t=39)** Non-native speakers, people in a hurry, and people with cognitive impairments will all appreciate your efforts.
 >
@@ -2790,7 +2764,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (2), seo (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** seo (1)
@@ -2798,8 +2772,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using audio and video
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/using-audio-and-video?u=76281980)
+#### [Using audio and video](https://www.linkedin.com/learning/wordpress-accessibility-22376834/using-audio-and-video?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2819,7 +2792,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/wordpress-accessibility-22376834/using-audio-and-video?u=76281980&t=51)** If you couldn't hear what I'm saying, how would you get the information?
 >
-> **[0:55](https://www.linkedin.com/learning/wordpress-accessibility-22376834/using-audio-and-video?u=76281980&t=55)** LinkedIn Learning provides captions, you can enable them in the player right now.
+> **[0:55](https://www.linkedin.com/learning/wordpress-accessibility-22376834/using-audio-and-video?u=76281980&t=55)** [[LinkedIn]] Learning provides captions, you can enable them in the player right now.
 >
 > **[1:01](https://www.linkedin.com/learning/wordpress-accessibility-22376834/using-audio-and-video?u=76281980&t=61)** Captions are one of the most critical parts in making a video accessible.
 >
@@ -2855,7 +2828,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/wordpress-accessibility-22376834/using-audio-and-video?u=76281980&t=170)** While audio description is required under WCAG 2.0 at level AA, it is one of the more difficult requirements to meet.
 >
-> **[2:58](https://www.linkedin.com/learning/wordpress-accessibility-22376834/using-audio-and-video?u=76281980&t=178)** It poses a significant barrier in video production in identifying where it's needed and in implementation on websites.
+> **[2:58](https://www.linkedin.com/learning/wordpress-accessibility-22376834/using-audio-and-video?u=76281980&t=178)** It poses a significant barrier in [[Video Production]] in identifying where it's needed and in implementation on websites.
 >
 > **[3:08](https://www.linkedin.com/learning/wordpress-accessibility-22376834/using-audio-and-video?u=76281980&t=188)** Most online video players have no support for secondary synchronized audio tracks.
 >
@@ -2897,11 +2870,11 @@ created: 2026-05-02
 >
 > **[5:24](https://www.linkedin.com/learning/wordpress-accessibility-22376834/using-audio-and-video?u=76281980&t=324)** The controls need to have accessible labels, they need to be operable from the keyboard or with a screen reader, and they need to clearly report their current state.
 >
-> **[5:33](https://www.linkedin.com/learning/wordpress-accessibility-22376834/using-audio-and-video?u=76281980&t=333)** There are many different ways to add audio and video and WordPress, and we'll walk through those later in the course.
+> **[5:33](https://www.linkedin.com/learning/wordpress-accessibility-22376834/using-audio-and-video?u=76281980&t=333)** There are many different ways to add audio and video and [[WordPress]], and we'll walk through those later in the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), web (1), [[Search]] (1), feature (1), [[Video Production]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Video Production]] (1), [[WordPress]] (1)
 > **Env Vars:** wcag (1), css (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -2909,8 +2882,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Organizing content on the page
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/organizing-content-on-the-page?u=76281980)
+#### [Organizing content on the page](https://www.linkedin.com/learning/wordpress-accessibility-22376834/organizing-content-on-the-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2924,7 +2896,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/wordpress-accessibility-22376834/organizing-content-on-the-page?u=76281980&t=39)** People using non-visual navigation use similar techniques but they don't have these visual cues.
 >
-> **[0:45](https://www.linkedin.com/learning/wordpress-accessibility-22376834/organizing-content-on-the-page?u=76281980&t=45)** Instead, they depend on the HTML markup and navigation mechanisms in their assistive technology.
+> **[0:45](https://www.linkedin.com/learning/wordpress-accessibility-22376834/organizing-content-on-the-page?u=76281980&t=45)** Instead, they depend on the [[HTML]] markup and navigation mechanisms in their assistive technology.
 >
 > **[0:52](https://www.linkedin.com/learning/wordpress-accessibility-22376834/organizing-content-on-the-page?u=76281980&t=52)** As a result, best practices expect both of these to be true.
 >
@@ -2956,7 +2928,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/wordpress-accessibility-22376834/organizing-content-on-the-page?u=76281980&t=151)** Inside the post content, you might use the six levels of heading elements, which are like an outline format.
 >
-> **[2:38](https://www.linkedin.com/learning/wordpress-accessibility-22376834/organizing-content-on-the-page?u=76281980&t=158)** In the content of a WordPress post, every heading you use should descend from the post title.
+> **[2:38](https://www.linkedin.com/learning/wordpress-accessibility-22376834/organizing-content-on-the-page?u=76281980&t=158)** In the content of a [[WordPress]] post, every heading you use should descend from the post title.
 >
 > **[2:44](https://www.linkedin.com/learning/wordpress-accessibility-22376834/organizing-content-on-the-page?u=76281980&t=164)** Ideally, that's an H1, but there are many cases where it could be an H2.
 >
@@ -2974,7 +2946,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/wordpress-accessibility-22376834/organizing-content-on-the-page?u=76281980&t=201)** The article card structure is a common format and it can break this expectation.
 >
-> **[3:27](https://www.linkedin.com/learning/wordpress-accessibility-22376834/organizing-content-on-the-page?u=76281980&t=207)** A card most commonly has an image, metadata, then a title and maybe some content.
+> **[3:27](https://www.linkedin.com/learning/wordpress-accessibility-22376834/organizing-content-on-the-page?u=76281980&t=207)** A card most commonly has an image, [[Metadata]], then a title and maybe some content.
 >
 > **[3:32](https://www.linkedin.com/learning/wordpress-accessibility-22376834/organizing-content-on-the-page?u=76281980&t=212)** This makes the relationship between the heading and the other information confusing.
 >
@@ -3010,19 +2982,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[HTML]] (7), web (1), [[WordPress]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[WordPress]] (1), [[Metadata]] (1)
 > **Definitions:** is a  (8)
 > **Env Vars:** html (7)
 > **CLI Commands:** find (3), make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessibility support in the Block Editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-support-in-the-block-editor?u=76281980)
+#### [Accessibility support in the Block Editor](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-support-in-the-block-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-support-in-the-block-editor?u=76281980&t=0)** - [Instructor] The WordPress block post editor offers a number of helpful features you can use for better accessibility while rapidly generating complex content.
+> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-support-in-the-block-editor?u=76281980&t=0)** - [Instructor] The [[WordPress]] block post editor offers a number of helpful features you can use for better accessibility while rapidly generating complex content.
 >
 > **[0:11](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-support-in-the-block-editor?u=76281980&t=11)** One useful feature is the ability to quickly find out problems with color contrast in your choices.
 >
@@ -3062,7 +3033,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-support-in-the-block-editor?u=76281980&t=166)** It's not perfect.
 >
-> **[2:48](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-support-in-the-block-editor?u=76281980&t=168)** It doesn't have support for row headers, so you can only create simple data structures using it and it's not responsive, so you're not going to have as good of an experience as you might want with this on a mobile device, but it's still a useful tool.
+> **[2:48](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-support-in-the-block-editor?u=76281980&t=168)** It doesn't have support for row headers, so you can only create simple [[Data Structures]] using it and it's not responsive, so you're not going to have as good of an experience as you might want with this on a mobile device, but it's still a useful tool.
 >
 > **[3:04](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-support-in-the-block-editor?u=76281980&t=184)** In the block editor, you can also examine the overall structure of your page.
 >
@@ -3080,17 +3051,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (9), feature (1), data (1)
+> **Frameworks & Libraries:** [[WordPress]] (9), [[Data Structures]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessibility support in the Classic Editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-support-in-the-classic-editor?u=76281980)
+#### [Accessibility support in the Classic Editor](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-support-in-the-classic-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-support-in-the-classic-editor?u=76281980&t=0)** - [Host] The WordPress Classic Editor still exists and it's not likely to go away anytime soon.
+> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-support-in-the-classic-editor?u=76281980&t=0)** - [Host] The [[WordPress]] Classic Editor still exists and it's not likely to go away anytime soon.
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-support-in-the-classic-editor?u=76281980&t=6)** When the Block Editor first released, there were many reasons to continue to use the Classic Editor.
 >
@@ -3110,7 +3080,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-support-in-the-classic-editor?u=76281980&t=48)** When using the Block Editor, the video player used as the native browser video element which can be inconsistent between browsers and has mixed accessibility heavily dependent on platform.
 >
-> **[1:01](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-support-in-the-classic-editor?u=76281980&t=61)** In the Block Editor, there are a few blocks that are pretty limited like the table block but this is not an advantage for the Classic Editor which requires you to add tables via custom HTML.
+> **[1:01](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-support-in-the-classic-editor?u=76281980&t=61)** In the Block Editor, there are a few blocks that are pretty limited like the table block but this is not an advantage for the Classic Editor which requires you to add tables via custom [[HTML]].
 >
 > **[1:12](https://www.linkedin.com/learning/wordpress-accessibility-22376834/accessibility-support-in-the-classic-editor?u=76281980&t=72)** You can also add custom HTML in the Block Editor.
 >
@@ -3140,8 +3110,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Automated and manual testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/automated-and-manual-testing?u=76281980)
+#### [Automated and manual testing](https://www.linkedin.com/learning/wordpress-accessibility-22376834/automated-and-manual-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3159,7 +3128,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/wordpress-accessibility-22376834/automated-and-manual-testing?u=76281980&t=35)** A design review is important, but it is limited.
 >
-> **[0:39](https://www.linkedin.com/learning/wordpress-accessibility-22376834/automated-and-manual-testing?u=76281980&t=39)** You can identify problem colors, and you can flag problem areas, and forms and buttons or with icons.
+> **[0:39](https://www.linkedin.com/learning/wordpress-accessibility-22376834/automated-and-manual-testing?u=76281980&t=39)** You can identify problem colors, and you can flag problem areas, and [[Forms]] and buttons or with icons.
 >
 > **[0:45](https://www.linkedin.com/learning/wordpress-accessibility-22376834/automated-and-manual-testing?u=76281980&t=45)** This is something that should happen, before a design is built.
 >
@@ -3179,13 +3148,13 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/wordpress-accessibility-22376834/automated-and-manual-testing?u=76281980&t=96)** But it can also be a waste of resources, if the testing is done at the wrong point in the process.
 >
-> **[1:42](https://www.linkedin.com/learning/wordpress-accessibility-22376834/automated-and-manual-testing?u=76281980&t=102)** But there's a middle ground, with a host of useful testing options, like what you get from a free WordPress plugin, like Equalized Digital's accessibility checker, or using Wave by Web Aim in your toolbar, and the most essential tool of manual testing, the keyboard.
+> **[1:42](https://www.linkedin.com/learning/wordpress-accessibility-22376834/automated-and-manual-testing?u=76281980&t=102)** But there's a middle ground, with a host of useful testing options, like what you get from a free [[WordPress]] plugin, like Equalized Digital's accessibility checker, or using Wave by Web Aim in your toolbar, and the most essential tool of [[Manual Testing]], the keyboard.
 >
 > **[2:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/automated-and-manual-testing?u=76281980&t=120)** There are significant limitations to any machine testing, any accessibility testing that doesn't involve a human being is fundamentally incomplete.
 >
 > **[2:09](https://www.linkedin.com/learning/wordpress-accessibility-22376834/automated-and-manual-testing?u=76281980&t=129)** That machine can't test for all accessibility issues, so why not?
 >
-> **[2:16](https://www.linkedin.com/learning/wordpress-accessibility-22376834/automated-and-manual-testing?u=76281980&t=136)** A large percentage of web accessibility guidelines are based on the appropriateness of content, and how it relates to other content.
+> **[2:16](https://www.linkedin.com/learning/wordpress-accessibility-22376834/automated-and-manual-testing?u=76281980&t=136)** A large percentage of [[Web Accessibility]] guidelines are based on the appropriateness of content, and how it relates to other content.
 >
 > **[2:25](https://www.linkedin.com/learning/wordpress-accessibility-22376834/automated-and-manual-testing?u=76281980&t=145)** You can ask yourself these questions on any page.
 >
@@ -3201,7 +3170,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/wordpress-accessibility-22376834/automated-and-manual-testing?u=76281980&t=172)** A machine still falls short without some human intervention.
 >
-> **[2:56](https://www.linkedin.com/learning/wordpress-accessibility-22376834/automated-and-manual-testing?u=76281980&t=176)** Artificial intelligence works constantly, on that problem, and there are many tools available, that provide alternative text for images, and they are getting better and better, at accurately identifying what is in an image.
+> **[2:56](https://www.linkedin.com/learning/wordpress-accessibility-22376834/automated-and-manual-testing?u=76281980&t=176)** [[Artificial Intelligence (AI)|Artificial intelligence]] works constantly, on that problem, and there are many tools available, that provide alternative text for images, and they are getting better and better, at accurately identifying what is in an image.
 >
 > **[3:10](https://www.linkedin.com/learning/wordpress-accessibility-22376834/automated-and-manual-testing?u=76281980&t=190)** But alternative text only sometimes describes what's in the image.
 >
@@ -3237,15 +3206,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1), data (1), [[WordPress]] (1), web (1), [[Manual Testing]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[WordPress]] (1), [[Manual Testing]] (1), [[Web Accessibility]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** dropdown (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing accessibility with the keyboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-accessibility-with-the-keyboard?u=76281980)
+#### [Testing accessibility with the keyboard](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-accessibility-with-the-keyboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3293,7 +3261,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-accessibility-with-the-keyboard?u=76281980&t=137)** Focus changes are unlike other changes in that they are undirected.
 >
-> **[2:21](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-accessibility-with-the-keyboard?u=76281980&t=141)** The user moves away from a focused item to whatever is next in the document object model as opposed to actively choosing to point at a specific item.
+> **[2:21](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-accessibility-with-the-keyboard?u=76281980&t=141)** The user moves away from a focused item to whatever is next in the [[Document Object Model (DOM)|document object model]] as opposed to actively choosing to point at a specific item.
 >
 > **[2:31](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-accessibility-with-the-keyboard?u=76281980&t=151)** As a result, the focus state should be strong enough to easily identify.
 >
@@ -3303,7 +3271,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-accessibility-with-the-keyboard?u=76281980&t=165)** That's probably because it's not really a button.
 >
-> **[2:48](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-accessibility-with-the-keyboard?u=76281980&t=168)** JavaScript can attach event handlers to any element so you can have a click event on a div, but if it's still just a normal div element then the keyboard can't reach it.
+> **[2:48](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-accessibility-with-the-keyboard?u=76281980&t=168)** [[JavaScript]] can attach event handlers to any element so you can have a click event on a div, but if it's still just a normal div element then the keyboard can't reach it.
 >
 > **[3:02](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-accessibility-with-the-keyboard?u=76281980&t=182)** In addition, you need to be able to tell whether you can operate the control and operate it in the way you would expect to operate it.
 >
@@ -3337,7 +3305,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Document Object Model (DOM)|Document object model]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Document Object Model (DOM)|Document object model]] (1), [[JavaScript]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** wave (2)
 > **Code Identifiers:** webaim (1)
@@ -3345,8 +3313,7 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [narrator] (1)
 
-#### Testing accessibility with WAVE by WebAIM
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-accessibility-with-wave-by-webaim?u=76281980)
+#### [Testing accessibility with WAVE by WebAIM](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-accessibility-with-wave-by-webaim?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3434,7 +3401,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), web (2)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** aria (1), wcag (1)
 > **Definitions:** is a  (2)
@@ -3442,12 +3408,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing accessibility with AXE by Deque
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-accessibility-with-axe-by-deque?u=76281980)
+#### [Testing accessibility with AXE by Deque](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-accessibility-with-axe-by-deque?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-accessibility-with-axe-by-deque?u=76281980&t=0)** - [Instructor] Axe is an open source JavaScript library for accessibility testing created by the testing company Deque.
+> **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-accessibility-with-axe-by-deque?u=76281980&t=0)** - [Instructor] Axe is an open source [[JavaScript]] library for accessibility testing created by the testing company Deque.
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-accessibility-22376834/testing-accessibility-with-axe-by-deque?u=76281980&t=8)** It's available as a browser extension for Chrome and is activated through the browser's inspector.
 >
@@ -3499,13 +3464,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1), web (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using bookmarklets for quick assessments
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/using-bookmarklets-for-quick-assessments?u=76281980)
+#### [Using bookmarklets for quick assessments](https://www.linkedin.com/learning/wordpress-accessibility-22376834/using-bookmarklets-for-quick-assessments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3513,7 +3477,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/wordpress-accessibility-22376834/using-bookmarklets-for-quick-assessments?u=76281980&t=3)** Bookmarklets are super easy to use.
 >
-> **[0:05](https://www.linkedin.com/learning/wordpress-accessibility-22376834/using-bookmarklets-for-quick-assessments?u=76281980&t=5)** They're small pieces of JavaScript that can be run from your browser's bookmarks.
+> **[0:05](https://www.linkedin.com/learning/wordpress-accessibility-22376834/using-bookmarklets-for-quick-assessments?u=76281980&t=5)** They're small pieces of [[JavaScript]] that can be run from your browser's bookmarks.
 >
 > **[0:09](https://www.linkedin.com/learning/wordpress-accessibility-22376834/using-bookmarklets-for-quick-assessments?u=76281980&t=9)** They can be used to do quick checks for a lot of accessibility characteristics.
 >
@@ -3549,7 +3513,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/wordpress-accessibility-22376834/using-bookmarklets-for-quick-assessments?u=76281980&t=99)** But you can hover over the tag on each of these outlines and identify what the accessible name is for each of these tools.
 >
-> **[1:47](https://www.linkedin.com/learning/wordpress-accessibility-22376834/using-bookmarklets-for-quick-assessments?u=76281980&t=107)** Finally, we have the Forms tool.
+> **[1:47](https://www.linkedin.com/learning/wordpress-accessibility-22376834/using-bookmarklets-for-quick-assessments?u=76281980&t=107)** Finally, we have the [[Forms]] tool.
 >
 > **[1:51](https://www.linkedin.com/learning/wordpress-accessibility-22376834/using-bookmarklets-for-quick-assessments?u=76281980&t=111)** The Forms tool highlights form-related information on the page.
 >
@@ -3561,7 +3525,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Forms]] (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[JavaScript]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [accessibilitybookmarklets.org](https://accessibilitybookmarklets.org) (1)
 > **Speakers:** - [instructor] (1)
@@ -3571,8 +3535,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Finding the issue
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/finding-the-issue?u=76281980)
+#### [Finding the issue](https://www.linkedin.com/learning/wordpress-accessibility-22376834/finding-the-issue?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3634,14 +3597,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), next (1)
 > **UI Navigation:** dropdown (1), in the menu (1), toggle (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying the source of an issue
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/identifying-the-source-of-an-issue?u=76281980)
+#### [Identifying the source of an issue](https://www.linkedin.com/learning/wordpress-accessibility-22376834/identifying-the-source-of-an-issue?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3651,7 +3612,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-accessibility-22376834/identifying-the-source-of-an-issue?u=76281980&t=8)** If you have a problem with your contact form, there's a very good chance the problem is in your contact form plugin.
 >
-> **[0:16](https://www.linkedin.com/learning/wordpress-accessibility-22376834/identifying-the-source-of-an-issue?u=76281980&t=16)** Navigation menus are usually structured by the core code of WordPress and displayed by the theme.
+> **[0:16](https://www.linkedin.com/learning/wordpress-accessibility-22376834/identifying-the-source-of-an-issue?u=76281980&t=16)** Navigation menus are usually structured by the core code of [[WordPress]] and displayed by the theme.
 >
 > **[0:22](https://www.linkedin.com/learning/wordpress-accessibility-22376834/identifying-the-source-of-an-issue?u=76281980&t=22)** So a good first step is to switch your theme and see what problems still exist in this case.
 >
@@ -3707,14 +3668,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (1), next (1)
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** switch to (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What needs to change?
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/what-needs-to-change?u=76281980)
+#### [What needs to change?](https://www.linkedin.com/learning/wordpress-accessibility-22376834/what-needs-to-change?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3732,11 +3692,11 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/wordpress-accessibility-22376834/what-needs-to-change?u=76281980&t=31)** This is a CSS problem in which the focus state of the theme is overridden by the plugin.
 >
-> **[0:37](https://www.linkedin.com/learning/wordpress-accessibility-22376834/what-needs-to-change?u=76281980&t=37)** If it's not fixed by the plugin author, it can be fixed using custom CSS which can be added in the WordPress Additional CSS feature.
+> **[0:37](https://www.linkedin.com/learning/wordpress-accessibility-22376834/what-needs-to-change?u=76281980&t=37)** If it's not fixed by the plugin author, it can be fixed using custom CSS which can be added in the [[WordPress]] Additional CSS feature.
 >
 > **[0:47](https://www.linkedin.com/learning/wordpress-accessibility-22376834/what-needs-to-change?u=76281980&t=47)** For screen reader users, the dropdown menus are not available at all because the sub-menu toggle isn't focusable.
 >
-> **[0:54](https://www.linkedin.com/learning/wordpress-accessibility-22376834/what-needs-to-change?u=76281980&t=54)** This is caused by a plugin that's injecting toggles using JavaScript but isn't creating a keyboard focusable element.
+> **[0:54](https://www.linkedin.com/learning/wordpress-accessibility-22376834/what-needs-to-change?u=76281980&t=54)** This is caused by a plugin that's injecting toggles using [[JavaScript]] but isn't creating a keyboard focusable element.
 >
 > **[1:02](https://www.linkedin.com/learning/wordpress-accessibility-22376834/what-needs-to-change?u=76281980&t=62)** This should be fixed by changing the JavaScript in the plugin.
 >
@@ -3746,11 +3706,11 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/wordpress-accessibility-22376834/what-needs-to-change?u=76281980&t=79)** But your summary is for clarifying the issue.
 >
-> **[1:22](https://www.linkedin.com/learning/wordpress-accessibility-22376834/what-needs-to-change?u=76281980&t=82)** Focus on the description of user experience and next steps.
+> **[1:22](https://www.linkedin.com/learning/wordpress-accessibility-22376834/what-needs-to-change?u=76281980&t=82)** Focus on the description of [[User Experience (UX)|user experience]] and next steps.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), next (2), [[JavaScript]] (2), [[WordPress]] (1), feature (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[WordPress]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** css (3), wcag (1)
 > **UI Navigation:** dropdown (1), toggle (1)
 > **CLI Commands:** make (1)
@@ -3758,8 +3718,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making the change
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/making-the-change?u=76281980)
+#### [Making the change](https://www.linkedin.com/learning/wordpress-accessibility-22376834/making-the-change?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3775,13 +3734,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/wordpress-accessibility-22376834/making-the-change?u=76281980&t=15)** Fixing the focus state is the easiest.
 >
-> **[0:17](https://www.linkedin.com/learning/wordpress-accessibility-22376834/making-the-change?u=76281980&t=17)** You can do that immediately by adding custom CSS in the WordPress customizer Additional CSS option.
+> **[0:17](https://www.linkedin.com/learning/wordpress-accessibility-22376834/making-the-change?u=76281980&t=17)** You can do that immediately by adding custom CSS in the [[WordPress]] customizer Additional CSS option.
 >
 > **[0:24](https://www.linkedin.com/learning/wordpress-accessibility-22376834/making-the-change?u=76281980&t=24)** Or if you're not comfortable with custom CSS, you can probably install WP Accessibility and enable the option to add outlines to elements on keyboard focus.
 >
 > **[0:35](https://www.linkedin.com/learning/wordpress-accessibility-22376834/making-the-change?u=76281980&t=35)** With the dropdown menus, you need to recognize that they are completely inaccessible right now.
 >
-> **[0:42](https://www.linkedin.com/learning/wordpress-accessibility-22376834/making-the-change?u=76281980&t=42)** You can fork the plugin and fix the JavaScript, but this might not be something you can implement right away.
+> **[0:42](https://www.linkedin.com/learning/wordpress-accessibility-22376834/making-the-change?u=76281980&t=42)** You can fork the plugin and fix the [[JavaScript]], but this might not be something you can implement right away.
 >
 > **[0:49](https://www.linkedin.com/learning/wordpress-accessibility-22376834/making-the-change?u=76281980&t=49)** But your testing discovered that navigation is accessible with the plugin disabled, so your next step is to disable the problem plugin.
 >
@@ -3821,7 +3780,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[WordPress]] (2), [[JavaScript]] (2), next (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[JavaScript]] (2)
 > **Env Vars:** css (3)
 > **CLI Commands:** make (2)
 > **Prerequisites:** install (2)
@@ -3833,14 +3792,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-accessibility-22376834/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/wordpress-accessibility-22376834/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-accessibility-22376834/next-steps?u=76281980&t=0)** - [Joe] Congratulations.
 >
-> **[0:01](https://www.linkedin.com/learning/wordpress-accessibility-22376834/next-steps?u=76281980&t=1)** You've absorbed a ton of new information, accessibility concepts, WordPress tools and techniques, and methods of testing your website for problems.
+> **[0:01](https://www.linkedin.com/learning/wordpress-accessibility-22376834/next-steps?u=76281980&t=1)** You've absorbed a ton of new information, accessibility concepts, [[WordPress]] tools and techniques, and methods of testing your website for problems.
 >
 > **[0:11](https://www.linkedin.com/learning/wordpress-accessibility-22376834/next-steps?u=76281980&t=11)** While everything is still fresh, consider writing down your three biggest takeaways.
 >
@@ -3860,7 +3818,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/wordpress-accessibility-22376834/next-steps?u=76281980&t=41)** It includes many of the resources I recommended in the class and some more information you can look at to learn more.
 >
-> **[0:47](https://www.linkedin.com/learning/wordpress-accessibility-22376834/next-steps?u=76281980&t=47)** I'm also the founder of an annual conference on WordPress accessibility, and you can follow me on LinkedIn for updates.
+> **[0:47](https://www.linkedin.com/learning/wordpress-accessibility-22376834/next-steps?u=76281980&t=47)** I'm also the founder of an annual conference on WordPress accessibility, and you can follow me on [[LinkedIn]] for updates.
 >
 > **[0:54](https://www.linkedin.com/learning/wordpress-accessibility-22376834/next-steps?u=76281980&t=54)** Thanks for spending your time with WordPress: Accessibility.
 >
@@ -3868,7 +3826,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [joe] (1)

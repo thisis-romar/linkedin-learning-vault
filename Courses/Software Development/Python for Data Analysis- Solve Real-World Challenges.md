@@ -108,20 +108,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/introduction-23881950?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/introduction-23881950?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/introduction-23881950?u=76281980&t=0)** - As the big data landscape continues to evolve and grow, more companies are putting an emphasis on driving strategies that are informed or led by data.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/introduction-23881950?u=76281980&t=0)** - As the [[Big Data]] landscape continues to evolve and grow, more companies are putting an emphasis on driving strategies that are informed or led by data.
 >
 > **[0:10](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/introduction-23881950?u=76281980&t=10)** What does this mean for the demand for data skills?
 >
-> **[0:12](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/introduction-23881950?u=76281980&t=12)** The US Bureau of Labor Statistics predicts that mathematician and statistician roles, including data scientist jobs, will experience 36% growth between 2021 and 2031.
+> **[0:12](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/introduction-23881950?u=76281980&t=12)** The US Bureau of Labor [[Statistics]] predicts that mathematician and statistician roles, including data scientist jobs, will experience 36% growth between 2021 and 2031.
 >
 > **[0:26](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/introduction-23881950?u=76281980&t=26)** Hi, I'm Sarah Nooravi, data analyst, educator, and current revenue strategy lead for snap.
 >
-> **[0:32](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/introduction-23881950?u=76281980&t=32)** In my course, you'll learn to master the technical skills needed to help you compete with others in the market, along with critical business and soft skills to help you stand out, thinking critically and creatively, asking the right questions and knowing how to research and Google effectively.
+> **[0:32](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/introduction-23881950?u=76281980&t=32)** In my course, you'll learn to master the technical skills needed to help you compete with others in the market, along with critical business and [[Soft Skills]] to help you stand out, thinking critically and creatively, asking the right questions and knowing how to research and [[Google]] effectively.
 >
 > **[0:50](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/introduction-23881950?u=76281980&t=50)** These are the skills that'll guide you to solutions that provide great value and will be more impactful than much of what you learned in college.
 >
@@ -129,41 +128,39 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Big Data]] (1), [[Statistics]] (1), business (1), [[Soft Skills]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (1), [[Statistics]] (1), [[Soft Skills]] (1), [[Google]] (1)
 > **CLI Commands:** snap (1)
 > **Speakers:** - as (1)
 
-#### Prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/prerequisites-23881951?u=76281980)
+#### [Prerequisites](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/prerequisites-23881951?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/prerequisites-23881951?u=76281980&t=0)** - The data learning landscape is filled with content that aims to teach you different tools or languages, but lacks many hands-on and project-based courses.
 >
-> **[0:11](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/prerequisites-23881951?u=76281980&t=11)** This training is designed to give you the tools to think through business problems critically, ask the right questions of the data and your stakeholders, leverage Python to explore and visualize data, and lastly, formulate your findings into a data-informed strategy that can help the business take action using storytelling techniques.
+> **[0:11](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/prerequisites-23881951?u=76281980&t=11)** This training is designed to give you the tools to think through business problems critically, ask the right questions of the data and your stakeholders, leverage [[Python (Programming Language)|Python]] to explore and visualize data, and lastly, formulate your findings into a data-informed strategy that can help the business take action using [[Storytelling]] techniques.
 >
 > **[0:33](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/prerequisites-23881951?u=76281980&t=33)** As I mentioned in the course introduction movie, will focus on two major analytical skills, Python for data analysis and effective storytelling with data.
 >
-> **[0:45](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/prerequisites-23881951?u=76281980&t=45)** When learning Python, we'll touch on foundational concepts, working with packages, manipulating data with NumPy and pandas, and data visualization with Matplotlib, seaborn, and Plotly.
+> **[0:45](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/prerequisites-23881951?u=76281980&t=45)** When learning Python, we'll touch on foundational concepts, working with packages, manipulating data with NumPy and [[Pandas (Software)|pandas]], and data visualization with Matplotlib, seaborn, and Plotly.
 >
-> **[0:59](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/prerequisites-23881951?u=76281980&t=59)** When covering data storytelling, I'll go over exploratory versus explanatory analysis, storyboarding and structuring your narrative, and communicating and delivering effectively.
+> **[0:59](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/prerequisites-23881951?u=76281980&t=59)** When covering [[Data Storytelling]], I'll go over exploratory versus explanatory analysis, storyboarding and structuring your narrative, and communicating and delivering effectively.
 >
 > **[1:11](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/prerequisites-23881951?u=76281980&t=71)** The first half of the course will build up to the technical work we will do later.
 >
 > **[1:16](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/prerequisites-23881951?u=76281980&t=76)** Each part is incredibly important and serves a different role.
 >
-> **[1:20](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/prerequisites-23881951?u=76281980&t=80)** If you haven't already heard through various mediums, the importance of soft skills is harder to learn than the technical work we will cover.
+> **[1:20](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/prerequisites-23881951?u=76281980&t=80)** If you haven't already heard through various mediums, the importance of [[Soft Skills]] is harder to learn than the technical work we will cover.
 >
 > **[1:30](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/prerequisites-23881951?u=76281980&t=90)** I urge you to take the time to really listen to the first two chapters, as I will give you practical ways to put these lessons into practice.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Python (Programming Language)|Python]] (3), business (2), [[Storytelling]] (2), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Storytelling]] (2), [[Pandas (Software)|Pandas]] (1), [[Data Storytelling]] (1), [[Soft Skills]] (1)
 > **CLI Commands:** python (3)
 > **Speakers:** - the (1)
 
-#### CoderPad tour
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/coderpad-tour?u=76281980)
+#### [CoderPad tour](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/coderpad-tour?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -173,7 +170,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/coderpad-tour?u=76281980&t=14)** These Challenges are hosted by CoderPad and they appear in the same area of the Course Page, where you watch the course's videos.
 >
-> **[0:20](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/coderpad-tour?u=76281980&t=20)** We recommend using a desktop browser for the best experience with Code Challenges, but you can use the LinkedIn Learning Mobile App, if you prefer.
+> **[0:20](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/coderpad-tour?u=76281980&t=20)** We recommend using a desktop browser for the best experience with Code Challenges, but you can use the [[LinkedIn]] Learning Mobile App, if you prefer.
 >
 > **[0:29](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/coderpad-tour?u=76281980&t=29)** The Code Challenge has four areas, Instructions in the top left, a Code Editor for your answer in the top right, another Code Editor where you can see how your code is used in the bottom right, and a Console Output in the bottom left.
 >
@@ -205,7 +202,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -216,8 +213,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Who, What, Where & Why
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/the-who-what-where-why?u=76281980)
+#### [The Who, What, Where & Why](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/the-who-what-where-why?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -229,12 +225,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Prerequisites:** getting started (1), you'll need (1)
 > **Speakers:** - before (1)
 
-#### Who
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/who-23891108?u=76281980)
+#### [Who](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/who-23891108?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -300,14 +294,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), next (2), data (2), functional (1)
 > **Env Vars:** xfn (2)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### What
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/what-23888203?u=76281980)
+#### [What](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/what-23888203?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -317,7 +309,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/what-23888203?u=76281980&t=13)** Now that you've established a relationship with your audience, it's important to understand what goals they aim to achieve and what KPIs or key performance indicators they care about to get there.
 >
-> **[0:24](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/what-23888203?u=76281980&t=24)** They will likely have dashboards or reports already, so getting a full audit of what they've been accustomed to looking at will help you understand how to improve, iterate, or rebuild.
+> **[0:24](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/what-23888203?u=76281980&t=24)** They will likely have [[Dashboards]] or reports already, so getting a full audit of what they've been accustomed to looking at will help you understand how to improve, iterate, or rebuild.
 >
 > **[0:36](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/what-23888203?u=76281980&t=36)** Make sure you have a clear understanding of their goals and ask as many clarifying questions as possible.
 >
@@ -355,14 +347,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (2), [[Dashboards]] (1), product (1), teams (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1)
 > **CLI Commands:** make (1), find (1), snap (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Where
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/where-23881949?u=76281980)
+#### [Where](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/where-23881949?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -370,7 +361,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/where-23881949?u=76281980&t=3)** You'll want to know things like where does the data live and what tech stack does your company use?
 >
-> **[0:10](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/where-23881949?u=76281980&t=10)** BigQuery, Treasure Data, Snowflake, et cetera.
+> **[0:10](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/where-23881949?u=76281980&t=10)** BigQuery, Treasure Data, [[Snowflake]], et cetera.
 >
 > **[0:15](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/where-23881949?u=76281980&t=15)** Are you familiar with these tools?
 >
@@ -386,18 +377,17 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/where-23881949?u=76281980&t=46)** Where you sit in physical space in relation to other teams will mean you will have more or less access to those folks.
 >
-> **[0:54](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/where-23881949?u=76281980&t=54)** Sitting next to the sales team means I get a lot of opportunities to interact with them, pass by them in the office, and constantly get updates on context I may be missing when I'm just looking at the data itself.
+> **[0:54](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/where-23881949?u=76281980&t=54)** Sitting next to the sales team means I get a lot of opportunities to interact with them, pass by them in the [[Microsoft Office|office]], and constantly get updates on context I may be missing when I'm just looking at the data itself.
 >
 > **[1:06](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/where-23881949?u=76281980&t=66)** Understandably, this will vary depending on whether the company is embracing a work from home culture, a hybrid model, or have completely transitioned back to working from work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (2), [[Snowflake]] (1), teams (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** xfn (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/why-23888200?u=76281980)
+#### [Why](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/why-23888200?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -425,12 +415,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case Study Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/case-study-introduction-23888199?u=76281980)
+#### [Case Study Introduction](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/case-study-introduction-23888199?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/case-study-introduction-23888199?u=76281980&t=0)** - [Instructor] For the rest of the course, we will cover fundamental concepts, ranging from data collection and transformation to analysis and storytelling, and apply them to the context of a case study problem for a financial services company.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/case-study-introduction-23888199?u=76281980&t=0)** - [Instructor] For the [[Representational State Transfer (REST)|rest]] of the course, we will cover fundamental concepts, ranging from [[Data Collection]] and transformation to analysis and [[Storytelling]], and apply them to the context of a case study problem for a financial services company.
 >
 > **[0:13](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/case-study-introduction-23888199?u=76281980&t=13)** Let's say you've been hired as a financial analyst at Globe Bank International.
 >
@@ -478,7 +467,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Storytelling]] (3), next (2), [[Representational State Transfer (REST)|Rest]] (1), business (1)
+> **Frameworks & Libraries:** [[Storytelling]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Data Collection]] (1)
 > **Env Vars:** roi (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
@@ -489,8 +478,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Define the problem (the three Ds)
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/define-the-problem-the-three-ds-23881953?u=76281980)
+#### [Define the problem (the three Ds)](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/define-the-problem-the-three-ds-23881953?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -508,11 +496,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Speakers:** - depending (1)
 
-#### Get Familiar: Domain
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-domain-23881948?u=76281980)
+#### [Get Familiar: Domain](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-domain-23881948?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -550,7 +536,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-domain-23881948?u=76281980&t=97)** By understanding the domain and your gaps, you start on the right foot, asking the right questions when meeting with your team, stakeholders, and XFN partners.
 >
-> **[1:48](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-domain-23881948?u=76281980&t=108)** Additionally, you'll understand important KPIs and ranges, and have more confidence with quality assurance, and be able to better identify areas where the data may be inaccurate, incomplete, or lacking.
+> **[1:48](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-domain-23881948?u=76281980&t=108)** Additionally, you'll understand important KPIs and ranges, and have more confidence with [[Quality Assurance]], and be able to better identify areas where the data may be inaccurate, incomplete, or lacking.
 >
 > **[2:03](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-domain-23881948?u=76281980&t=123)** Of course, it's always a balance, and you can't learn everything about the domain upfront, but at the very least, you can start to get familiar.
 >
@@ -568,7 +554,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-domain-23881948?u=76281980&t=161)** The next part is internal research.
 >
-> **[2:44](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-domain-23881948?u=76281980&t=164)** Ask around for any internal documentation, research, analysis, or dashboards that may exist.
+> **[2:44](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-domain-23881948?u=76281980&t=164)** Ask around for any internal documentation, research, analysis, or [[Dashboards]] that may exist.
 >
 > **[2:51](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-domain-23881948?u=76281980&t=171)** And lastly, you'll want to do a lot of informal interviews.
 >
@@ -612,15 +598,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), functional (2), teams (2), open-source (1), product (1)
+> **Frameworks & Libraries:** [[Quality Assurance]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Prerequisites:** set up (2)
 > **Env Vars:** xfn (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Domain: Applied
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/domain-applied-23890190?u=76281980)
+#### [Domain: Applied](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/domain-applied-23890190?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -630,7 +615,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/domain-applied-23890190?u=76281980&t=9)** To do that, we'd start with what we could find externally through researching top relevant platforms and reading, visiting, and subscribing to things like "The Wall Street Journal," "The New York Times," "The Financial Times," "The Market Watch," and any others.
 >
-> **[0:26](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/domain-applied-23890190?u=76281980&t=26)** Also, a simple Google search will yield many great resources that you can quickly read up on, everything from broad articles around what matters to an industry, to others that'll define key metrics and everything in between.
+> **[0:26](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/domain-applied-23890190?u=76281980&t=26)** Also, a simple [[Google]] search will yield many great resources that you can quickly read up on, everything from broad articles around what matters to an industry, to others that'll define key metrics and everything in between.
 >
 > **[0:41](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/domain-applied-23890190?u=76281980&t=41)** As you read through these articles, you'll likely run into many new terms, also known as an industry's jargon, that you'll want to go through and define and understand.
 >
@@ -662,15 +647,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), [[Search]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Definitions:** known as (1), is a  (1), in other words (1)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Get Familiar: Data
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-data-23891107?u=76281980)
+#### [Get Familiar: Data](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-data-23891107?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -692,11 +676,11 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-data-23891107?u=76281980&t=44)** So the next natural questions become, who owns the data?
 >
-> **[0:48](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-data-23891107?u=76281980&t=48)** How familiar am I with the underlying tables and schema in each of the databases?
+> **[0:48](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-data-23891107?u=76281980&t=48)** How familiar am I with the underlying tables and schema in each of the [[Databases]]?
 >
 > **[0:54](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-data-23891107?u=76281980&t=54)** Do I need to work with anyone else to understand the data structure?
 >
-> **[0:58](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-data-23891107?u=76281980&t=58)** Next, we need to know things about the data quality and best practices.
+> **[0:58](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-data-23891107?u=76281980&t=58)** Next, we need to know things about the [[Data Quality]] and best practices.
 >
 > **[1:03](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-data-23891107?u=76281980&t=63)** You want to ask questions like, what's the quality and reliability of the data?
 >
@@ -736,13 +720,13 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-data-23891107?u=76281980&t=147)** And if that's the case, we'll need to understand the level of effort required to get that data integrated.
 >
-> **[2:33](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-data-23891107?u=76281980&t=153)** A word of caution here: Sometimes we develop a hypothesis around the importance of a metric and invest a lot of time and energy into pulling that data in just to find that it's not super impactful or significant.
+> **[2:33](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-data-23891107?u=76281980&t=153)** A [[Microsoft Word|word]] of caution here: Sometimes we develop a hypothesis around the importance of a metric and invest a lot of time and energy into pulling that data in just to find that it's not super impactful or significant.
 >
 > **[2:47](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-data-23891107?u=76281980&t=167)** You'll need to make a judgment call and whether you can proceed without it at first and look to integrate over time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), next (3), [[Databases]] (1), bi (1), api (1)
+> **Frameworks & Libraries:** [[Data Quality]] (3), [[Databases]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Prerequisites:** you'll need (2), getting started (1)
 > **Env Vars:** api (1)
@@ -750,8 +734,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [presenter] (1)
 
-#### Get Familiar: Deliverable
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-deliverable-23889215?u=76281980)
+#### [Get Familiar: Deliverable](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-deliverable-23889215?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -813,7 +796,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-deliverable-23889215?u=76281980&t=157)** So it's good to ask and know that before starting.
 >
-> **[2:41](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-deliverable-23889215?u=76281980&t=161)** We're going to go into this in much more detail in the final chapter of this course when we touch on storytelling with data.
+> **[2:41](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-deliverable-23889215?u=76281980&t=161)** We're going to go into this in much more detail in the final chapter of this course when we touch on [[Storytelling]] with data.
 >
 > **[2:49](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/get-familiar-deliverable-23889215?u=76281980&t=169)** Applying this to our case study, we have the following problem statement.
 >
@@ -825,14 +808,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (2), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** roi (1), kpi (1), pdf (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Set the Right Expectations
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/set-the-right-expectations-23883625?u=76281980)
+#### [Set the Right Expectations](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/set-the-right-expectations-23883625?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -888,7 +870,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1), hit (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -898,16 +879,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting Setup in Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/getting-setup-in-codespaces?u=76281980)
+#### [Getting Setup in Codespaces](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/getting-setup-in-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/getting-setup-in-codespaces?u=76281980&t=0)** - [Instructor] I'm going to show you how to work with LinkedIn Learning courses using GitHub Code Spaces.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/getting-setup-in-codespaces?u=76281980&t=0)** - [Instructor] I'm going to show you how to work with [[LinkedIn]] Learning courses using [[GitHub]] Code Spaces.
 >
 > **[0:05](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/getting-setup-in-codespaces?u=76281980&t=5)** Code Spaces is a code editor in the cloud with the full power of Visual Studio Code.
 >
-> **[0:11](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/getting-setup-in-codespaces?u=76281980&t=11)** It allows for real world hands-on practice that mirrors software development in the workplace.
+> **[0:11](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/getting-setup-in-codespaces?u=76281980&t=11)** It allows for real world hands-on practice that mirrors [[Software Development]] in the workplace.
 >
 > **[0:18](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/getting-setup-in-codespaces?u=76281980&t=18)** This course has been adapted for the use with GitHub Code Spaces.
 >
@@ -947,15 +927,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), [[LinkedIn]] (1), cloud (1), power (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[LinkedIn]] (1), [[Software Development]] (1)
 > **Tools:** github (4), visual studio (2)
 > **UI Navigation:** switch to (2), click on (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Read from CSV
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/read-from-csv?u=76281980)
+#### [Read from CSV](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/read-from-csv?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -969,25 +948,25 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/read-from-csv?u=76281980&t=21)** You'll see that it takes us to a Kaggle website for credit card customer prediction.
 >
-> **[0:26](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/read-from-csv?u=76281980&t=26)** We can see that this dataset consists of about 10,000 customers, and then some metadata about those customers.
+> **[0:26](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/read-from-csv?u=76281980&t=26)** We can see that this dataset consists of about 10,000 customers, and then some [[Metadata]] about those customers.
 >
 > **[0:33](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/read-from-csv?u=76281980&t=33)** Things like age, salary, marital status, credit card limit.
 >
 > **[0:38](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/read-from-csv?u=76281980&t=38)** It says there's about 18 features.
 >
-> **[0:40](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/read-from-csv?u=76281980&t=40)** We can see the rest of those features down below, and then some nice descriptions over what those features are.
+> **[0:40](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/read-from-csv?u=76281980&t=40)** We can see the [[Representational State Transfer (REST)|rest]] of those features down below, and then some nice descriptions over what those features are.
 >
 > **[0:52](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/read-from-csv?u=76281980&t=52)** Scrolling back to the top, we can see that they've also told us about how many customers have churned here, about 16%.
 >
 > **[1:03](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/read-from-csv?u=76281980&t=63)** Let's go back to code spaces.
 >
-> **[1:05](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/read-from-csv?u=76281980&t=65)** We'll be importing this data set into our Python notebook, but first we'll need some import statements.
+> **[1:05](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/read-from-csv?u=76281980&t=65)** We'll be importing this data set into our [[Python (Programming Language)|Python]] notebook, but first we'll need some import statements.
 >
 > **[1:13](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/read-from-csv?u=76281980&t=73)** We'll be leveraging Python packages.
 >
 > **[1:18](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/read-from-csv?u=76281980&t=78)** Any package we want to use in Python will need an import statement.
 >
-> **[1:23](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/read-from-csv?u=76281980&t=83)** In addition to Pandas, which we'll import using import Pandas as PD, we will also import map plot lib and seaborne, which are libraries used for visualization, and Numpy, which is a library for array manipulation.
+> **[1:23](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/read-from-csv?u=76281980&t=83)** In addition to [[Pandas (Software)|Pandas]], which we'll import using import Pandas as PD, we will also import map plot lib and seaborne, which are libraries used for visualization, and Numpy, which is a library for array manipulation.
 >
 > **[1:38](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/read-from-csv?u=76281980&t=98)** I've also imported plotly, which is a really fun interactive visualization that we'll use in future videos.
 >
@@ -995,7 +974,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/read-from-csv?u=76281980&t=111)** The method we'll be using is pd.read csv, but if you type in pd.read, you'll notice that code spaces will automatically generate a dropdown menu that shows you other options that you could also use.
 >
-> **[2:05](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/read-from-csv?u=76281980&t=125)** Things like Read Excel, read HTML, read JSON, and others.
+> **[2:05](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/read-from-csv?u=76281980&t=125)** Things like Read [[Microsoft Excel|Excel]], read [[HTML]], read [[JSON]], and others.
 >
 > **[2:11](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/read-from-csv?u=76281980&t=131)** It'll also pop up the documentation so you could start to read all the arguments that you'll need for that particular method.
 >
@@ -1029,7 +1008,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (4), next (3), [[Pandas (Software)|Pandas]] (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Pandas (Software)|Pandas]] (2), [[Metadata]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** python (4), find (2)
 > **Env Vars:** csv (4), html (1), json (1)
 > **Documentation:** the documentation (4)
@@ -1038,8 +1017,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Prerequisites:** you'll need (1)
 
-#### General Cleaning Techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/general-cleaning-techniques-23890189?u=76281980)
+#### [General Cleaning Techniques](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/general-cleaning-techniques-23890189?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1051,7 +1029,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/general-cleaning-techniques-23890189?u=76281980&t=24)** If you want your analysis to produce anything of value, you want to make sure to spend time analyzing the quality of the dataset before proceeding.
 >
-> **[0:32](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/general-cleaning-techniques-23890189?u=76281980&t=32)** It's easier to feel confident in what comes out of your analysis and start building trust with your stakeholders if you've spent proper time working through all of the cleaning steps.
+> **[0:32](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/general-cleaning-techniques-23890189?u=76281980&t=32)** It's easier to feel confident in what comes out of your analysis and start [[Building Trust]] with your stakeholders if you've spent proper time working through all of the cleaning steps.
 >
 > **[0:43](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/general-cleaning-techniques-23890189?u=76281980&t=43)** It's the least sexy part of the analysis process, but one that you should be ready to spend a significant amount of time working through.
 >
@@ -1063,13 +1041,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Building Trust]] (1)
+> **Frameworks & Libraries:** [[Building Trust]] (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### General Cleaning Techniques: High Level Checks
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/general-cleaning-techniques-high-level-checks-23886431?u=76281980)
+#### [General Cleaning Techniques: High Level Checks](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/general-cleaning-techniques-high-level-checks-23886431?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1141,11 +1118,11 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/general-cleaning-techniques-high-level-checks-23886431?u=76281980&t=224)** Here we can see we have three different data types: integers, objects, and floats.
 >
-> **[3:49](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/general-cleaning-techniques-high-level-checks-23886431?u=76281980&t=229)** The object data type is roughly analogous to the string in native Python, and you can see more about this in the user guide for Pandas data types.
+> **[3:49](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/general-cleaning-techniques-high-level-checks-23886431?u=76281980&t=229)** The object data type is roughly analogous to the string in native [[Python (Programming Language)|Python]], and you can see more about this in the user guide for [[Pandas (Software)|Pandas]] data types.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), next (4), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** clinetnum (2), clientnum (2)
 > **Exercise Files:** exercise file (2)
 > **CLI Commands:** python (1)
@@ -1153,8 +1130,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### General Cleaning Techniques: Missing Values
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/general-cleaning-techniques-missing-values-23883624?u=76281980)
+#### [General Cleaning Techniques: Missing Values](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/general-cleaning-techniques-missing-values-23883624?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1196,13 +1172,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** education_level (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data Transformations: Binning
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-transformations-binning-24333855?u=76281980)
+#### [Data Transformations: Binning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-transformations-binning-24333855?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1212,9 +1186,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-transformations-binning-24333855?u=76281980&t=17)** I'm going to go ahead and run these.
 >
-> **[0:22](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-transformations-binning-24333855?u=76281980&t=22)** Let's move on to data transformation.
+> **[0:22](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-transformations-binning-24333855?u=76281980&t=22)** Let's move on to [[Data Transformation]].
 >
-> **[0:26](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-transformations-binning-24333855?u=76281980&t=26)** Another part of the data cleaning process can include creating any new variables that we may need later.
+> **[0:26](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-transformations-binning-24333855?u=76281980&t=26)** Another part of the [[Data Cleaning]] process can include creating any new variables that we may need later.
 >
 > **[0:32](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-transformations-binning-24333855?u=76281980&t=32)** Here, having each customer's age is helpful, but we could also look at them as groups, people in their twenties, thirties, et cetera.
 >
@@ -1236,7 +1210,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-transformations-binning-24333855?u=76281980&t=86)** Parameters we'll need to pass in are the bin intervals and labels for those bins.
 >
-> **[1:31](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-transformations-binning-24333855?u=76281980&t=91)** We can see more in the documentation for the pandas.cut method and find examples at the bottom.
+> **[1:31](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-transformations-binning-24333855?u=76281980&t=91)** We can see more in the documentation for the [[Pandas (Software)|pandas]].cut method and find examples at the bottom.
 >
 > **[1:43](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-transformations-binning-24333855?u=76281980&t=103)** For us, let's start defining our bins and our labels.
 >
@@ -1270,14 +1244,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Data Transformation]] (1), [[Pandas (Software)|Pandas]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Transformation]] (1), [[Data Cleaning]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the last (1), we covered (1)
 > **Documentation:** the documentation (2)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Prepare data for analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/solution-prepare-data-for-analysis?u=76281980)
+#### [Solution: Prepare data for analysis](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/solution-prepare-data-for-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1299,7 +1272,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1308,8 +1280,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro to EDA
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/intro-to-eda?u=76281980)
+#### [Intro to EDA](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/intro-to-eda?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1341,7 +1312,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/intro-to-eda?u=76281980&t=109)** We can see that it pulls out that 1600 and we're going to divide it by the total number of customers, which in our prior videos, we double checked that there were no duplicates, which means that the number of rows in the dataset represents the total number of customers.
 >
-> **[2:08](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/intro-to-eda?u=76281980&t=128)** So to get that, we will take the first value that represents the number of rows, which in Python is Intex, says zero to return back.
+> **[2:08](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/intro-to-eda?u=76281980&t=128)** So to get that, we will take the first value that represents the number of rows, which in [[Python (Programming Language)|Python]] is Intex, says zero to return back.
 >
 > **[2:20](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/intro-to-eda?u=76281980&t=140)** That 16%, awesome.
 >
@@ -1359,18 +1330,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Env Vars:** eda (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Summary Statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/summary-statistics-23889217?u=76281980)
+#### [Summary Statistics](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/summary-statistics-23889217?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/summary-statistics-23889217?u=76281980&t=0)** - [Instructor] To start to understand our dataset a bit more, we will want to produce summary or descriptive statistics that can tell us more about the variables and features within the dataset.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/summary-statistics-23889217?u=76281980&t=0)** - [Instructor] To start to understand our dataset a bit more, we will want to produce summary or descriptive [[Statistics]] that can tell us more about the variables and features within the dataset.
 >
 > **[0:10](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/summary-statistics-23889217?u=76281980&t=10)** Typically, we're looking to understand how many instances are in the dataset using frequencies or counts, a measure of central tendency using the mean, median and mode and measures of the spread of the dataset using variance and standard deviation.
 >
@@ -1404,7 +1374,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/summary-statistics-23889217?u=76281980&t=135)** In the case where there are outliers, the median is a much better representation of central tendency than the mean.
 >
-> **[2:23](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/summary-statistics-23889217?u=76281980&t=143)** In Python, we can use the .describe method to see these metrics for all of the numerical values in the dataset, including the quantiles, the min, the max, and the standard deviation.
+> **[2:23](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/summary-statistics-23889217?u=76281980&t=143)** In [[Python (Programming Language)|Python]], we can use the .describe method to see these metrics for all of the numerical values in the dataset, including the quantiles, the min, the max, and the standard deviation.
 >
 > **[2:35](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/summary-statistics-23889217?u=76281980&t=155)** The standard deviation will help us understand how spread out the values of that variable are.
 >
@@ -1434,14 +1404,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Statistics]] (1), feature (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for example (1), just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Distributions: Histograms
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/distributions-histograms-23889216?u=76281980)
+#### [Distributions: Histograms](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/distributions-histograms-23889216?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1575,7 +1544,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
@@ -1583,8 +1551,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard typing) (1)
 
-#### Data Transformations: Normalization and Log
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-transformations-normalization-and-log-23886433?u=76281980)
+#### [Data Transformations: Normalization and Log](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-transformations-normalization-and-log-23886433?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1604,7 +1571,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-transformations-normalization-and-log-23886433?u=76281980&t=35)** These transformations achieve very different results as we'll clearly see as we go through this.
 >
-> **[0:41](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-transformations-normalization-and-log-23886433?u=76281980&t=41)** You can learn more about transformations in the link that I've added here, or any Google search will do.
+> **[0:41](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-transformations-normalization-and-log-23886433?u=76281980&t=41)** You can learn more about transformations in the link that I've added here, or any [[Google]] search will do.
 >
 > **[0:48](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-transformations-normalization-and-log-23886433?u=76281980&t=48)** We'll use the out of the box log transformation using the NumPy library.
 >
@@ -1648,12 +1615,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Google]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Other Distribution Types
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/other-distribution-types-23883627?u=76281980)
+#### [Other Distribution Types](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/other-distribution-types-23883627?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1717,7 +1683,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/other-distribution-types-23883627?u=76281980&t=175)** So men's bins will be here, and women's bins will be here.
 >
-> **[3:03](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/other-distribution-types-23883627?u=76281980&t=183)** I've filled in the rest, and let's test it out.
+> **[3:03](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/other-distribution-types-23883627?u=76281980&t=183)** I've filled in the [[Representational State Transfer (REST)|rest]], and let's test it out.
 >
 > **[3:12](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/other-distribution-types-23883627?u=76281980&t=192)** Awesome.
 >
@@ -1733,14 +1699,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** sns (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data Visualizations: Comparing Categories
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-visualizations-comparing-categories-23888198?u=76281980)
+#### [Data Visualizations: Comparing Categories](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-visualizations-comparing-categories-23888198?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1814,7 +1779,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-visualizations-comparing-categories-23888198?u=76281980&t=229)** Notice how we get an error.
 >
-> **[3:51](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-visualizations-comparing-categories-23888198?u=76281980&t=231)** A key part of getting good at Python is being able to debug and read through these error messages.
+> **[3:51](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-visualizations-comparing-categories-23888198?u=76281980&t=231)** A key part of getting good at [[Python (Programming Language)|Python]] is being able to debug and read through these error messages.
 >
 > **[3:57](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-visualizations-comparing-categories-23888198?u=76281980&t=237)** So here it's telling me that horizontal orientation requires a new metric X variable.
 >
@@ -1864,23 +1829,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1), find (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data Visualization: Data Tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-visualization-data-tables-23888201?u=76281980)
+#### [Data Visualization: Data Tables](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-visualization-data-tables-23888201?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-visualization-data-tables-23888201?u=76281980&t=0)** - [Instructor] If you are familiar with pivot tables in Excel, then the way that group by works with Panda's data frames should be pretty intuitive.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-visualization-data-tables-23888201?u=76281980&t=0)** - [Instructor] If you are familiar with [[Pivot Tables]] in [[Microsoft Excel|Excel]], then the way that group by works with Panda's data frames should be pretty intuitive.
 >
 > **[0:09](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-visualization-data-tables-23888201?u=76281980&t=9)** What both of these functions will try to accomplish is aggregations and ways of summarizing the data.
 >
 > **[0:15](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-visualization-data-tables-23888201?u=76281980&t=15)** They're both flexible enough to allow you to pull in different aggregation types like means, sums, counts.
 >
-> **[0:23](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-visualization-data-tables-23888201?u=76281980&t=23)** You can read more about the difference between pivot tables in Python and group by, by looking at some handy guides.
+> **[0:23](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-visualization-data-tables-23888201?u=76281980&t=23)** You can read more about the difference between pivot tables in [[Python (Programming Language)|Python]] and group by, by looking at some handy guides.
 >
 > **[0:31](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-visualization-data-tables-23888201?u=76281980&t=31)** Coming back to our business problem, we want to understand something about customers who are leaving.
 >
@@ -1888,7 +1852,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-visualization-data-tables-23888201?u=76281980&t=43)** So to start these group by functions, we'll start with data. and then we'll type group by.
 >
-> **[0:51](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-visualization-data-tables-23888201?u=76281980&t=51)** So group by is a nice method that comes out of the box for any Pandas data frame.
+> **[0:51](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-visualization-data-tables-23888201?u=76281980&t=51)** So group by is a nice method that comes out of the box for any [[Pandas (Software)|Pandas]] data frame.
 >
 > **[0:57](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-visualization-data-tables-23888201?u=76281980&t=57)** In our case, we'll want to know something about our attrited customers.
 >
@@ -1956,13 +1920,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Pivot Tables]] (2), [[Microsoft Excel|Excel]] (1), [[Python (Programming Language)|Python]] (1), business (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (2), [[Microsoft Excel|Excel]] (1), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data Visualization: Relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-visualization-relationships-23887314?u=76281980)
+#### [Data Visualization: Relationships](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-visualization-relationships-23887314?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1978,7 +1941,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-visualization-relationships-23887314?u=76281980&t=52)** Scatter plots, along with a correlation coefficient, can help us understand this relationship more.
 >
-> **[0:59](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-visualization-relationships-23887314?u=76281980&t=59)** The best visualizations in Python for this are called pairplots and pairgrids.
+> **[0:59](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-visualization-relationships-23887314?u=76281980&t=59)** The best visualizations in [[Python (Programming Language)|Python]] for this are called pairplots and pairgrids.
 >
 > **[1:06](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/data-visualization-relationships-23887314?u=76281980&t=66)** Let's look at a visualization of pairplot really quick before we dive in.
 >
@@ -2048,14 +2011,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), find (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a ridgeplot
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/create-a-ridgeplot?u=76281980)
+#### [Create a ridgeplot](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/create-a-ridgeplot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2145,7 +2107,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Env Vars:** kde (3), sns (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** in the next (1)
@@ -2153,8 +2114,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Building summary table using pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/solution-building-summary-table-using-pandas?u=76281980)
+#### [Solution: Building summary table using pandas](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/solution-building-summary-table-using-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2182,7 +2142,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2191,8 +2150,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Visual Best Practices: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/visual-best-practices-part-1-23886428?u=76281980)
+#### [Visual Best Practices: Part 1](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/visual-best-practices-part-1-23886428?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2222,7 +2180,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/visual-best-practices-part-1-23886428?u=76281980&t=99)** Another best practice to keep in mind is starting the access at zero.
 >
-> **[1:44](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/visual-best-practices-part-1-23886428?u=76281980&t=104)** There are two schools of thought here with Darrell Huff, author of "How to Lie with Statistics," who thinks that starting the access anywhere but zero, leads to misinterpretation and is likely to be used to deceive the audience.
+> **[1:44](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/visual-best-practices-part-1-23886428?u=76281980&t=104)** There are two schools of thought here with Darrell Huff, author of "How to Lie with [[Statistics]]," who thinks that starting the access anywhere but zero, leads to misinterpretation and is likely to be used to deceive the audience.
 >
 > **[1:58](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/visual-best-practices-part-1-23886428?u=76281980&t=118)** On the other hand, Edward Tufte, a pioneer in the field of data visualization, says that, "Starting the axis at zero is a waste of vertical space."
 >
@@ -2262,7 +2220,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Statistics]] (1), next (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Warnings:** keep in mind (2), be aware (1)
 > **Prerequisites:** set up (1), you'll need (1)
 > **CLI Commands:** find (1)
@@ -2270,8 +2228,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [tutor] (1)
 
-#### Visual Best Practices: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/visual-best-practices-part-2-23890191?u=76281980)
+#### [Visual Best Practices: Part 2](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/visual-best-practices-part-2-23890191?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2337,23 +2294,22 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/visual-best-practices-part-2-23890191?u=76281980&t=211)** The left chart is informing the audience of the groups and their performance while the right is communicating the story about Ocean Park Branch.
 >
-> **[3:41](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/visual-best-practices-part-2-23890191?u=76281980&t=221)** After this video, I encourage you to explore some fun redesigns from Cole Knaflic's "Storytelling with Data" page.
+> **[3:41](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/visual-best-practices-part-2-23890191?u=76281980&t=221)** After this video, I encourage you to explore some fun redesigns from Cole Knaflic's "[[Storytelling]] with Data" page.
 >
 > **[3:47](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/visual-best-practices-part-2-23890191?u=76281980&t=227)** And in chapter 13, of the Jonathan Schwabish book, "Better Data Visualizations," and add them into the comments page of this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (2), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leverage Exploratory and Explanatory Visualizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/leverage-exploratory-and-explanatory-visualizations-23890192?u=76281980)
+#### [Leverage Exploratory and Explanatory Visualizations](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/leverage-exploratory-and-explanatory-visualizations-23890192?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/leverage-exploratory-and-explanatory-visualizations-23890192?u=76281980&t=0)** - [Instructor] As we move to put everything we've learned together into a final deliverable, it's important to differentiate between exploratory analysis and explanatory analysis.
 >
-> **[0:09](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/leverage-exploratory-and-explanatory-visualizations-23890192?u=76281980&t=9)** This concept is covered by Cole Knaflic in her book "Storytelling with Data," where she explains how exploratory analysis is like hunting for pearls and oysters, which feels a lot like what we've done so far.
+> **[0:09](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/leverage-exploratory-and-explanatory-visualizations-23890192?u=76281980&t=9)** This concept is covered by Cole Knaflic in her book "[[Storytelling]] with Data," where she explains how exploratory analysis is like hunting for pearls and oysters, which feels a lot like what we've done so far.
 >
 > **[0:22](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/leverage-exploratory-and-explanatory-visualizations-23890192?u=76281980&t=22)** However, done right, there are parts of your exploratory analysis that become the basis for your explanatory analysis, and in turn, your final deliverable.
 >
@@ -2397,13 +2353,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Storytelling]] (1), product (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choose a medium
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/choose-a-medium-23887315?u=76281980)
+#### [Choose a medium](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/choose-a-medium-23887315?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2411,7 +2366,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/choose-a-medium-23887315?u=76281980&t=6)** On either extreme, you have live presentations and written docs or emails.
 >
-> **[0:13](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/choose-a-medium-23887315?u=76281980&t=13)** In between, you have things like dashboards or infographics, and depending on the medium you're using to communicate your findings, you'll have varied levels of control over the interpretation of the final product.
+> **[0:13](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/choose-a-medium-23887315?u=76281980&t=13)** In between, you have things like [[Dashboards]] or [[Infographics]], and depending on the medium you're using to communicate your findings, you'll have varied levels of control over the interpretation of the final product.
 >
 > **[0:26](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/choose-a-medium-23887315?u=76281980&t=26)** In a live presentation, you'll have full control over the message and can anchor your slides to guide that message.
 >
@@ -2421,7 +2376,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/choose-a-medium-23887315?u=76281980&t=50)** This is very different from written documents or emails that'll need a high level of detail because you aren't there to see and respond to your audience's cues.
 >
-> **[1:00](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/choose-a-medium-23887315?u=76281980&t=60)** Dashboards are good for monitoring near real-time changes and are typically set up for one specific stakeholder or audience, so it's tailored to that person's mode of data ingestion.
+> **[1:00](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/choose-a-medium-23887315?u=76281980&t=60)** Dashboards are good for monitoring near [[Real-Time]] changes and are typically set up for one specific stakeholder or audience, so it's tailored to that person's mode of [[Data Ingestion]].
 >
 > **[1:11](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/choose-a-medium-23887315?u=76281980&t=71)** It has high interactivity with data and tool tips with the ability to hover over interesting data points and low engagement with you, the analyst, as they independently explore the data.
 >
@@ -2433,12 +2388,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Dashboards]] (3), [[Infographics]] (2), next (1), product (1)
+> **Frameworks & Libraries:** [[Dashboards]] (3), [[Infographics]] (2), [[Real-Time]] (1), [[Data Ingestion]] (1)
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (1)
 
-#### Storyboarding
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/storyboarding-23883626?u=76281980)
+#### [Storyboarding](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/storyboarding-23883626?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2496,19 +2450,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), power (1)
 > **Best Practices:** it's best to (1), don't forget (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
 
-#### Whats in a story?
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/whats-in-a-story?u=76281980)
+#### [Whats in a story?](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/whats-in-a-story?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/whats-in-a-story?u=76281980&t=0)** - [Narrator] A study by Stanford's Professor, Chip Health, found that 63% of people could remember stories, while only 5% could remember statistics.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/whats-in-a-story?u=76281980&t=0)** - [Narrator] A study by Stanford's Professor, Chip Health, found that 63% of people could remember stories, while only 5% could remember [[Statistics]].
 >
-> **[0:11](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/whats-in-a-story?u=76281980&t=11)** This means that effective data storytelling could be the difference between motivating change in an organization and statistics falling by the wayside to never drive any value.
+> **[0:11](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/whats-in-a-story?u=76281980&t=11)** This means that effective [[Data Storytelling]] could be the difference between motivating change in an organization and statistics falling by the wayside to never drive any value.
 >
 > **[0:22](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/whats-in-a-story?u=76281980&t=22)** A couple prominent examples are the Stories feature on Instagram and Snapchat that let users post photos or videos for 24 hours.
 >
@@ -2526,7 +2478,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/whats-in-a-story?u=76281980&t=90)** The first is the data foundation.
 >
-> **[1:32](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/whats-in-a-story?u=76281980&t=92)** One of the most obvious ones here since we are specifically talking about storytelling with data, but this helps build credibility.
+> **[1:32](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/whats-in-a-story?u=76281980&t=92)** One of the most obvious ones here since we are specifically talking about [[Storytelling]] with data, but this helps build credibility.
 >
 > **[1:41](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/whats-in-a-story?u=76281980&t=101)** The second is the main point.
 >
@@ -2564,7 +2516,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Statistics]] (2), [[Data Storytelling]] (2), feature (1), business (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Data Storytelling]] (2), [[Storytelling]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we covered (1)
 > **Definitions:** means that (1)
@@ -2572,8 +2524,7 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Putting it all together
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/putting-it-all-together-23890188?u=76281980)
+#### [Putting it all together](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/putting-it-all-together-23890188?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2673,25 +2624,24 @@ created: 2026-05-02
 >
 > **[5:49](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/putting-it-all-together-23890188?u=76281980&t=349)** What a great analysis, and you got your audience engaged.
 >
-> **[5:53](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/putting-it-all-together-23890188?u=76281980&t=353)** Marrying the science of data with the art of storytelling isn't easy, but the more you practice, the better you'll get.
+> **[5:53](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/putting-it-all-together-23890188?u=76281980&t=353)** Marrying the science of data with the art of [[Storytelling]] isn't easy, but the more you practice, the better you'll get.
 >
 > **[5:59](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/putting-it-all-together-23890188?u=76281980&t=359)** So, keep practicing and improving.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), hit (1), next (1), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** similar to (1), imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Visualizing with Matplotlib
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/solution-visualizing-with-matplotlib?u=76281980)
+#### [Solution: Visualizing with Matplotlib](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/solution-visualizing-with-matplotlib?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/solution-visualizing-with-matplotlib?u=76281980&t=0)** - [Instructor] The first thing we'll want to do is change the data type of our purchase date variable into a date.
 >
-> **[0:07](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/solution-visualizing-with-matplotlib?u=76281980&t=7)** (keyboard tapping) The next thing we'll do is create a series of aggregations, and pivot tables that'll lay the foundation for our stacked bar chart.
+> **[0:07](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/solution-visualizing-with-matplotlib?u=76281980&t=7)** (keyboard tapping) The next thing we'll do is create a series of aggregations, and [[Pivot Tables]] that'll lay the foundation for our stacked bar chart.
 >
 > **[0:24](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/solution-visualizing-with-matplotlib?u=76281980&t=24)** The next thing we'll do is create a series of aggregations, and pivot tables that'll lay the foundation for our stacked bar chart.
 >
@@ -2717,7 +2667,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Pivot Tables]] (2), data (1), feature (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (2)
 > **Speakers:** - [instructor] (1)
 
 
@@ -2725,8 +2675,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Wrap-up and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/wrap-up-and-next-steps-23891106?u=76281980)
+#### [Wrap-up and next steps](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/wrap-up-and-next-steps-23891106?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2738,11 +2687,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/wrap-up-and-next-steps-23891106?u=76281980&t=28)** Challenge yourself at work or on side projects to ask hard questions of your audience and your data.
 >
-> **[0:36](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/wrap-up-and-next-steps-23891106?u=76281980&t=36)** Work to become the best at your art of data storytelling.
+> **[0:36](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/wrap-up-and-next-steps-23891106?u=76281980&t=36)** Work to become the best at your art of [[Data Storytelling]].
 >
 > **[0:41](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/wrap-up-and-next-steps-23891106?u=76281980&t=41)** Folks who've written extensively on the topic and are great people to follow are Kate Strachnyi, Brent Dykes, and Cole Knaflic.
 >
-> **[0:50](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/wrap-up-and-next-steps-23891106?u=76281980&t=50)** Find and follow them on LinkedIn.
+> **[0:50](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/wrap-up-and-next-steps-23891106?u=76281980&t=50)** Find and follow them on [[LinkedIn]].
 >
 > **[0:53](https://www.linkedin.com/learning/python-for-data-analysis-solve-real-world-challenges/wrap-up-and-next-steps-23891106?u=76281980&t=53)** You can also join data visualization competitions like the Data DNA Challenge that runs monthly with prizes.
 >
@@ -2750,7 +2699,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Data Storytelling]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Storytelling]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** dna (1)
 > **Speakers:** - congratulations (1)

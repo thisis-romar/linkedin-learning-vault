@@ -85,20 +85,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Diving into Spring Data
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/diving-into-spring-data?u=76281980)
+#### [Diving into Spring Data](https://www.linkedin.com/learning/spring-data-2/diving-into-spring-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-data-2/diving-into-spring-data?u=76281980&t=0)** - Coding to databases can be tedious.
+> **[0:00](https://www.linkedin.com/learning/spring-data-2/diving-into-spring-data?u=76281980&t=0)** - Coding to [[Databases]] can be tedious.
 >
 > **[0:03](https://www.linkedin.com/learning/spring-data-2/diving-into-spring-data?u=76281980&t=3)** It's often requiring repetitive boilerplate code which is difficult to maintain, refactor and debug.
 >
 > **[0:10](https://www.linkedin.com/learning/spring-data-2/diving-into-spring-data?u=76281980&t=10)** Upgrading applications to a different kind of data store typically results in massive code rewrites and developer reeducation.
 >
-> **[0:19](https://www.linkedin.com/learning/spring-data-2/diving-into-spring-data?u=76281980&t=19)** Spring Data addresses these issues by eliminating boilerplate code and abstracting data store interactions into a common repository API.
+> **[0:19](https://www.linkedin.com/learning/spring-data-2/diving-into-spring-data?u=76281980&t=19)** [[Spring Data]] addresses these issues by eliminating boilerplate code and abstracting data store interactions into a common repository API.
 >
-> **[0:27](https://www.linkedin.com/learning/spring-data-2/diving-into-spring-data?u=76281980&t=27)** We'll begin with an overview of the Spring Data umbrella project, and I'll walk you through some examples that use Spring Data JPA and Spring Data MongoDB.
+> **[0:27](https://www.linkedin.com/learning/spring-data-2/diving-into-spring-data?u=76281980&t=27)** We'll begin with an overview of the Spring Data umbrella project, and I'll walk you through some examples that use Spring Data JPA and Spring Data [[MongoDB]].
 >
 > **[0:37](https://www.linkedin.com/learning/spring-data-2/diving-into-spring-data?u=76281980&t=37)** And then look at other supported data store modules.
 >
@@ -108,25 +107,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Data]] (5), data (3), [[Databases]] (1), api (1), [[MongoDB]] (1)
+> **Frameworks & Libraries:** [[Spring Data]] (5), [[Databases]] (1), [[MongoDB]] (1)
 > **Env Vars:** api (1), jpa (1)
 > **Exercise Files:** boilerplate (2)
 > **Speakers:** - coding (1)
 
-#### What you need
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/what-you-need?u=76281980)
+#### [What you need](https://www.linkedin.com/learning/spring-data-2/what-you-need?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-data-2/what-you-need?u=76281980&t=0)** - [Instructor] To interact with the exercises in this course I expect you to have Java 17 installed, although, the examples are not very complex so Java 11 should be fine.
+> **[0:00](https://www.linkedin.com/learning/spring-data-2/what-you-need?u=76281980&t=0)** - [Instructor] To interact with the exercises in this course I expect you to have [[Java]] 17 installed, although, the examples are not very complex so Java 11 should be fine.
 >
 > **[0:11](https://www.linkedin.com/learning/spring-data-2/what-you-need?u=76281980&t=11)** Apache Maven for automated builds and an IDE for debugging.
 >
 > **[0:15](https://www.linkedin.com/learning/spring-data-2/what-you-need?u=76281980&t=15)** I use IntelliJ but, you do you.
 >
-> **[0:18](https://www.linkedin.com/learning/spring-data-2/what-you-need?u=76281980&t=18)** I expect you to have a basic understanding of Java and how to build with Maven as well as how to run and debug JUnit test within your IDE.
+> **[0:18](https://www.linkedin.com/learning/spring-data-2/what-you-need?u=76281980&t=18)** I expect you to have a basic understanding of Java and how to build with Maven as well as how to run and debug [[JUnit]] test within your IDE.
 >
-> **[0:29](https://www.linkedin.com/learning/spring-data-2/what-you-need?u=76281980&t=29)** I also you to be familiar with the Spring famework for dependency injection and the Java Persistence API.
+> **[0:29](https://www.linkedin.com/learning/spring-data-2/what-you-need?u=76281980&t=29)** I also you to be familiar with the Spring famework for [[Dependency Injection]] and the Java Persistence API.
 >
 > **[0:37](https://www.linkedin.com/learning/spring-data-2/what-you-need?u=76281980&t=37)** If Spring or JPA are new to you, I suggest these Spring and JPA courses in the library.
 >
@@ -134,7 +132,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), [[Debugging]] (1), [[JUnit]] (1), [[Dependency Injection]] (1), api (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[JUnit]] (1), [[Dependency Injection]] (1)
 > **Env Vars:** ide (2), jpa (2), api (1)
 > **Versions:** java 17 (1), java 11 (1)
 > **CLI Commands:** apache (1)
@@ -146,28 +144,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mission and modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/mission-and-modules?u=76281980)
+#### [Mission and modules](https://www.linkedin.com/learning/spring-data-2/mission-and-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/spring-data-2/mission-and-modules?u=76281980&t=0)** - [Instructor] I've been a professional software developer for let's just say a while, and there have been a handful of solutions that have been game changers for me personally.
 >
-> **[0:09](https://www.linkedin.com/learning/spring-data-2/mission-and-modules?u=76281980&t=9)** Going from C and C++ to Java.
+> **[0:09](https://www.linkedin.com/learning/spring-data-2/mission-and-modules?u=76281980&t=9)** Going from C and C++ to [[Java]].
 >
 > **[0:12](https://www.linkedin.com/learning/spring-data-2/mission-and-modules?u=76281980&t=12)** Now, portable applications can be written once, and run anywhere without rebuild.
 >
 > **[0:18](https://www.linkedin.com/learning/spring-data-2/mission-and-modules?u=76281980&t=18)** J2EE or Java EE to build Enterprise solutions without needing to code the supporting infrastructure.
 >
-> **[0:26](https://www.linkedin.com/learning/spring-data-2/mission-and-modules?u=76281980&t=26)** Hibernate eliminated manually mapping logical objects to physical databases, asynchronous JavaScript and XML.
+> **[0:26](https://www.linkedin.com/learning/spring-data-2/mission-and-modules?u=76281980&t=26)** Hibernate eliminated manually mapping logical objects to physical [[Databases]], asynchronous [[JavaScript]] and XML.
 >
-> **[0:35](https://www.linkedin.com/learning/spring-data-2/mission-and-modules?u=76281980&t=35)** Also known as Ajax.
+> **[0:35](https://www.linkedin.com/learning/spring-data-2/mission-and-modules?u=76281980&t=35)** Also known as [[AJAX]].
 >
 > **[0:36](https://www.linkedin.com/learning/spring-data-2/mission-and-modules?u=76281980&t=36)** Websites became truly interactive, like desktop user interfaces, restful web services significantly reduced multi machine communication complexity.
 >
 > **[0:48](https://www.linkedin.com/learning/spring-data-2/mission-and-modules?u=76281980&t=48)** What makes them my game changers?
 >
-> **[0:50](https://www.linkedin.com/learning/spring-data-2/mission-and-modules?u=76281980&t=50)** Better features, less coding, which is why I also consider Spring Data, and specifically Spring Data JPA as a game-changer.
+> **[0:50](https://www.linkedin.com/learning/spring-data-2/mission-and-modules?u=76281980&t=50)** Better features, less coding, which is why I also consider [[Spring Data]], and specifically Spring Data JPA as a game-changer.
 >
 > **[1:01](https://www.linkedin.com/learning/spring-data-2/mission-and-modules?u=76281980&t=61)** Spring enjoys a great legacy of providing superior data access frameworks, making it a solution source for developers worldwide.
 >
@@ -203,7 +200,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/spring-data-2/mission-and-modules?u=76281980&t=176)** So for example, Spring Data JPA, has a JPA repository.
 >
-> **[3:01](https://www.linkedin.com/learning/spring-data-2/mission-and-modules?u=76281980&t=181)** Spring Data MongoDB has a Mongo repository.
+> **[3:01](https://www.linkedin.com/learning/spring-data-2/mission-and-modules?u=76281980&t=181)** Spring Data [[MongoDB]] has a Mongo repository.
 >
 > **[3:04](https://www.linkedin.com/learning/spring-data-2/mission-and-modules?u=76281980&t=184)** Spring Data GemFire has a GemFire repository, and so on.
 >
@@ -215,31 +212,30 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Data]] (14), data (13), game (3), [[Java]] (3), [[MongoDB]] (2)
+> **Frameworks & Libraries:** [[Spring Data]] (14), [[Java]] (3), [[MongoDB]] (2), [[Databases]] (1), [[JavaScript]] (1)
 > **Env Vars:** jpa (4), j2ee (1), xml (1)
 > **Definitions:** known as (1), is an  (1)
 > **CLI Commands:** mongo (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Java Persistence API
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/java-persistence-api?u=76281980)
+#### [Java Persistence API](https://www.linkedin.com/learning/spring-data-2/java-persistence-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-data-2/java-persistence-api?u=76281980&t=0)** - [Instructor] Before we dive into Spring data, let's look at the concept of object to relational mapping and how it relates to Java Persistence API.
+> **[0:00](https://www.linkedin.com/learning/spring-data-2/java-persistence-api?u=76281980&t=0)** - [Instructor] Before we dive into [[Spring Data]], let's look at the concept of object to relational mapping and how it relates to [[Java]] Persistence API.
 >
 > **[0:10](https://www.linkedin.com/learning/spring-data-2/java-persistence-api?u=76281980&t=10)** A classic problem in programming is mapping the physical model to the logical model.
 >
 > **[0:16](https://www.linkedin.com/learning/spring-data-2/java-persistence-api?u=76281980&t=16)** The typical physical model is a relational database schema, and a logical model comprises the Java domain objects.
 >
-> **[0:24](https://www.linkedin.com/learning/spring-data-2/java-persistence-api?u=76281980&t=24)** It's possible to do object-relational mapping in plain vanilla Java, but it's nasty.
+> **[0:24](https://www.linkedin.com/learning/spring-data-2/java-persistence-api?u=76281980&t=24)** It's possible to do object-relational mapping in plain [[Vanilla]] Java, but it's nasty.
 >
 > **[0:30](https://www.linkedin.com/learning/spring-data-2/java-persistence-api?u=76281980&t=30)** The most popular ORM framework is JPA.
 >
 > **[0:34](https://www.linkedin.com/learning/spring-data-2/java-persistence-api?u=76281980&t=34)** If you are unfamiliar with JPA, don't worry.
 >
-> **[0:37](https://www.linkedin.com/learning/spring-data-2/java-persistence-api?u=76281980&t=37)** Kesha Williams has two in-depth JPA courses in the LinkedIn Learning library.
+> **[0:37](https://www.linkedin.com/learning/spring-data-2/java-persistence-api?u=76281980&t=37)** Kesha Williams has two in-depth JPA courses in the [[LinkedIn]] Learning library.
 >
 > **[0:43](https://www.linkedin.com/learning/spring-data-2/java-persistence-api?u=76281980&t=43)** These are non-trivial concepts that require understanding before proceeding with Spring Data JPA.
 >
@@ -265,7 +261,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/spring-data-2/java-persistence-api?u=76281980&t=106)** Business services encapsulate DAOs for higher tier composite actions.
 >
-> **[1:52](https://www.linkedin.com/learning/spring-data-2/java-persistence-api?u=76281980&t=112)** University employs application-managed persistence from JUnit tests.
+> **[1:52](https://www.linkedin.com/learning/spring-data-2/java-persistence-api?u=76281980&t=112)** University employs application-managed persistence from [[JUnit]] tests.
 >
 > **[1:58](https://www.linkedin.com/learning/spring-data-2/java-persistence-api?u=76281980&t=118)** And the testing library are various examples on invoking the services and DAOs.
 >
@@ -281,7 +277,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/spring-data-2/java-persistence-api?u=76281980&t=150)** And UniversityFactory is a helper class to set up seed data of predefined courses, staff, students, and departments before running a test.
 >
-> **[2:40](https://www.linkedin.com/learning/spring-data-2/java-persistence-api?u=76281980&t=160)** In the next two chapters, we will be refactoring this project into a Spring Data JPA Spring Boot Maven application.
+> **[2:40](https://www.linkedin.com/learning/spring-data-2/java-persistence-api?u=76281980&t=160)** In the next two chapters, we will be refactoring this project into a Spring Data JPA [[Spring Boot]] Maven application.
 >
 > **[2:51](https://www.linkedin.com/learning/spring-data-2/java-persistence-api?u=76281980&t=171)** So now is a good time to pause and download the exercise files.
 >
@@ -301,7 +297,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (8), [[Spring Data]] (3), data (3), business (2), application (2)
+> **Frameworks & Libraries:** [[Java]] (8), [[Spring Data]] (3), [[Vanilla]] (1), [[LinkedIn]] (1), [[JUnit]] (1)
 > **Env Vars:** jpa (7), dao (2), api (1), orm (1)
 > **Definitions:** is a  (5)
 > **File Paths:** simpledbcrudtest.java (1), findbyoneattribute.java (1), findbyclausesandexpressions.java (1), pagingtest.java (1)
@@ -315,18 +311,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Spring Boot Starter Data JPA
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/spring-boot-starter-data-jpa?u=76281980)
+#### [Spring Boot Starter Data JPA](https://www.linkedin.com/learning/spring-data-2/spring-boot-starter-data-jpa?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-data-2/spring-boot-starter-data-jpa?u=76281980&t=0)** - [Instructor] Now that we have the exercise files, let's start refactoring it to use Spring Data JPA.
+> **[0:00](https://www.linkedin.com/learning/spring-data-2/spring-boot-starter-data-jpa?u=76281980&t=0)** - [Instructor] Now that we have the exercise files, let's start refactoring it to use [[Spring Data]] JPA.
 >
-> **[0:07](https://www.linkedin.com/learning/spring-data-2/spring-boot-starter-data-jpa?u=76281980&t=7)** A big boost comes from simply upgrading to Spring Boot.
+> **[0:07](https://www.linkedin.com/learning/spring-data-2/spring-boot-starter-data-jpa?u=76281980&t=7)** A big boost comes from simply upgrading to [[Spring Boot]].
 >
 > **[0:12](https://www.linkedin.com/learning/spring-data-2/spring-boot-starter-data-jpa?u=76281980&t=12)** So what do we get?
 >
-> **[0:14](https://www.linkedin.com/learning/spring-data-2/spring-boot-starter-data-jpa?u=76281980&t=14)** The first is a less complex dependency management model provided by the Spring Boot starter and Spring Boot parent settings in a new pom.xml.
+> **[0:14](https://www.linkedin.com/learning/spring-data-2/spring-boot-starter-data-jpa?u=76281980&t=14)** The first is a less complex [[Dependency Management]] model provided by the Spring Boot starter and Spring Boot parent settings in a new pom.xml.
 >
 > **[0:24](https://www.linkedin.com/learning/spring-data-2/spring-boot-starter-data-jpa?u=76281980&t=24)** The second is a significant reduction of the persistent context configuration.
 >
@@ -338,7 +333,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/spring-data-2/spring-boot-starter-data-jpa?u=76281980&t=47)** Finally, we'll upgrade the J unit test to employ Spring Boot test features.
 >
-> **[0:54](https://www.linkedin.com/learning/spring-data-2/spring-boot-starter-data-jpa?u=76281980&t=54)** So here is our existing application with just Vanilla Spring and JPA, and we're going to start by refactoring the pom.xml of where it is now.
+> **[0:54](https://www.linkedin.com/learning/spring-data-2/spring-boot-starter-data-jpa?u=76281980&t=54)** So here is our existing application with just [[Vanilla]] Spring and JPA, and we're going to start by refactoring the pom.xml of where it is now.
 >
 > **[1:07](https://www.linkedin.com/learning/spring-data-2/spring-boot-starter-data-jpa?u=76281980&t=67)** And we're going to replace it in the exercise files as a Spring Boot pom.xml.
 >
@@ -400,19 +395,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (16), application (8), [[Spring Data]] (3), [[Dependency Management]] (1), next (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (16), [[Spring Data]] (3), [[Dependency Management]] (1), [[Vanilla]] (1)
 > **Env Vars:** jpa (6), orm (1)
 > **File Paths:** pom.xml (5)
 > **Exercise Files:** exercise files (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Spring Data CrudRepository and JPA repository
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/spring-data-crudrepository-and-jpa-repository?u=76281980)
+#### [Spring Data CrudRepository and JPA repository](https://www.linkedin.com/learning/spring-data-2/spring-data-crudrepository-and-jpa-repository?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-data-2/spring-data-crudrepository-and-jpa-repository?u=76281980&t=0)** - [Instructor] Now let's see how Spring Data JPA gives us better functionality while writing less code.
+> **[0:00](https://www.linkedin.com/learning/spring-data-2/spring-data-crudrepository-and-jpa-repository?u=76281980&t=0)** - [Instructor] Now let's see how [[Spring Data]] JPA gives us better functionality while writing less code.
 >
 > **[0:06](https://www.linkedin.com/learning/spring-data-2/spring-data-crudrepository-and-jpa-repository?u=76281980&t=6)** In chapter one, we learned that spring data abstracts away from any particular data source by following a repository pattern.
 >
@@ -512,13 +506,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Data]] (4), data (1)
+> **Frameworks & Libraries:** [[Spring Data]] (4)
 > **Env Vars:** jpa (7), dao (2), ide (1), crud (1)
 > **CLI Commands:** find (6)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Fix SimpleDBCrudTest syntax errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/challenge-fix-simpledbcrudtest-syntax-errors?u=76281980)
+#### [Challenge: Fix SimpleDBCrudTest syntax errors](https://www.linkedin.com/learning/spring-data-2/challenge-fix-simpledbcrudtest-syntax-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -543,8 +536,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Fix SimpleDBCrudTest syntax errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/solution-fix-simpledbcrudtest-syntax-errors?u=76281980)
+#### [Solution: Fix SimpleDBCrudTest syntax errors](https://www.linkedin.com/learning/spring-data-2/solution-fix-simpledbcrudtest-syntax-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -566,12 +558,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Spring Data JPA magic
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/spring-data-jpa-magic?u=76281980)
+#### [Spring Data JPA magic](https://www.linkedin.com/learning/spring-data-2/spring-data-jpa-magic?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-data-2/spring-data-jpa-magic?u=76281980&t=0)** - [Mariann] After all of the PaLM updates, the configuration change, switching to Spring Data, repositories, and fixing syntax errors, let's actually run a test.
+> **[0:00](https://www.linkedin.com/learning/spring-data-2/spring-data-jpa-magic?u=76281980&t=0)** - [Mariann] After all of the PaLM updates, the configuration change, switching to [[Spring Data]], repositories, and fixing syntax errors, let's actually run a test.
 >
 > **[0:13](https://www.linkedin.com/learning/spring-data-2/spring-data-jpa-magic?u=76281980&t=13)** But wait, you're probably thinking, "Mariann, you haven't implemented course repo, "or staff repo, or all the other repos.
 >
@@ -597,7 +588,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/spring-data-2/spring-data-jpa-magic?u=76281980&t=55)** I'll show the console here as it's running.
 >
-> **[1:00](https://www.linkedin.com/learning/spring-data-2/spring-data-jpa-magic?u=76281980&t=60)** As we've seen before, it starts up the application within our JUnit test and we hit this breakpoint.
+> **[1:00](https://www.linkedin.com/learning/spring-data-2/spring-data-jpa-magic?u=76281980&t=60)** As we've seen before, it starts up the application within our [[JUnit]] test and we hit this breakpoint.
 >
 > **[1:09](https://www.linkedin.com/learning/spring-data-2/spring-data-jpa-magic?u=76281980&t=69)** And let's actually take a look within the debugger.
 >
@@ -639,7 +630,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Data]] (3), application (1), [[JUnit]] (1), hit (1), database (1)
+> **Frameworks & Libraries:** [[Spring Data]] (3), [[JUnit]] (1)
 > **Code Identifiers:** simplejparepository (2), teststaffcrud (1), createstudent (1), studentrepo (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** crud (1), dao (1)
@@ -650,8 +641,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Property expression query methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/property-expression-query-methods?u=76281980)
+#### [Property expression query methods](https://www.linkedin.com/learning/spring-data-2/property-expression-query-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -659,7 +649,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/spring-data-2/property-expression-query-methods?u=76281980&t=8)** But what if you want to look up all full-time students or students with a certain last name or students with an age range?
 >
-> **[0:17](https://www.linkedin.com/learning/spring-data-2/property-expression-query-methods?u=76281980&t=17)** This chapter demonstrates how to use Spring Data Commons to query a data source.
+> **[0:17](https://www.linkedin.com/learning/spring-data-2/property-expression-query-methods?u=76281980&t=17)** This chapter demonstrates how to use [[Spring Data]] Commons to query a data source.
 >
 > **[0:22](https://www.linkedin.com/learning/spring-data-2/property-expression-query-methods?u=76281980&t=22)** Spring Data property expressions to the rescue!
 >
@@ -701,7 +691,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/spring-data-2/property-expression-query-methods?u=76281980&t=139)** So right now I have student DAO up and I'm going to copy and actually going to cut these three queries, take them out of student DAO and let's paste them into student repo.
 >
-> **[2:38](https://www.linkedin.com/learning/spring-data-2/property-expression-query-methods?u=76281980&t=158)** And now I'm going to turn them into property expressions or interfaces we don't need the word public.
+> **[2:38](https://www.linkedin.com/learning/spring-data-2/property-expression-query-methods?u=76281980&t=158)** And now I'm going to turn them into property expressions or interfaces we don't need the [[Microsoft Word|word]] public.
 >
 > **[2:49](https://www.linkedin.com/learning/spring-data-2/property-expression-query-methods?u=76281980&t=169)** FindByFullTime.
 >
@@ -793,7 +783,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Data]] (8), database (1), data (1), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Spring Data]] (8), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** findbyname (2), findbylastname (2), findbychairlastname (2), findbynothing (2), findby (1)
 > **Env Vars:** dao (5), jpql (5), find (2), jpa (2), join (1)
 > **CLI Commands:** find (2)
@@ -802,12 +792,11 @@ created: 2026-05-02
 > **SQL:** join (1)
 > **UI Navigation:** go to (1)
 
-#### Query method clauses with property expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/query-method-clauses-with-property-expressions?u=76281980)
+#### [Query method clauses with property expressions](https://www.linkedin.com/learning/spring-data-2/query-method-clauses-with-property-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-data-2/query-method-clauses-with-property-expressions?u=76281980&t=0)** - [Instructor] Now that we've run some simple spring data property-based query methods, let's kick it up a notch and look at some sample query methods containing clauses and more complex property expressions.
+> **[0:00](https://www.linkedin.com/learning/spring-data-2/query-method-clauses-with-property-expressions?u=76281980&t=0)** - [Instructor] Now that we've run some simple [[Spring Data]] property-based query methods, let's kick it up a notch and look at some sample query methods containing clauses and more complex property expressions.
 >
 > **[0:13](https://www.linkedin.com/learning/spring-data-2/query-method-clauses-with-property-expressions?u=76281980&t=13)** Here are some examples of queries with logical expressions, findByFullTimeOrAge and the parameters are passed in whether they're full or part-time or not.
 >
@@ -890,8 +879,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### @Query annotation
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/query-annotation?u=76281980)
+#### [@Query annotation](https://www.linkedin.com/learning/spring-data-2/query-annotation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -899,7 +887,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/spring-data-2/query-annotation?u=76281980&t=6)** Another way is to declare a query method by applying an @Query annotation.
 >
-> **[0:12](https://www.linkedin.com/learning/spring-data-2/query-annotation?u=76281980&t=12)** The contents of an @Query annotation can be a source-specific query language, like JPQL, or a query language native to the actual data source management system, like H2 SQL in our examples.
+> **[0:12](https://www.linkedin.com/learning/spring-data-2/query-annotation?u=76281980&t=12)** The contents of an @Query annotation can be a source-specific query language, like JPQL, or a query language native to the actual data source management system, like H2 [[SQL]] in our examples.
 >
 > **[0:27](https://www.linkedin.com/learning/spring-data-2/query-annotation?u=76281980&t=27)** When declaring a query method with @Query, the method signature can be anything you like.
 >
@@ -1007,7 +995,7 @@ created: 2026-05-02
 >
 > **[7:05](https://www.linkedin.com/learning/spring-data-2/query-annotation?u=76281980&t=425)** Is everything happy?
 >
-> **[7:07](https://www.linkedin.com/learning/spring-data-2/query-annotation?u=76281980&t=427)** Okay, so let's run our JUnit test, that's now... Since I refactored, the methods' names have changed.
+> **[7:07](https://www.linkedin.com/learning/spring-data-2/query-annotation?u=76281980&t=427)** Okay, so let's run our [[JUnit]] test, that's now... Since I refactored, the methods' names have changed.
 >
 > **[7:16](https://www.linkedin.com/learning/spring-data-2/query-annotation?u=76281980&t=436)** So let's run this.
 >
@@ -1019,7 +1007,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), management (2), [[SQL]] (2), database (2), next (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[JUnit]] (1)
 > **Env Vars:** jpql (7), sql (2), jpa (2), dao (2), ide (1)
 > **Code Identifiers:** findsimilarlastname (3), findbyagelessthan (2), findfirstinalphabet (2), find3oldest (2), findoldest (2)
 > **CLI Commands:** make (3), find (3)
@@ -1028,8 +1016,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** prerequisite (1)
 
-#### Challenge: Refactor to three query methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/challenge-refactor-to-three-query-methods?u=76281980)
+#### [Challenge: Refactor to three query methods](https://www.linkedin.com/learning/spring-data-2/challenge-refactor-to-three-query-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1043,7 +1030,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/spring-data-2/challenge-refactor-to-three-query-methods?u=76281980&t=30)** You must keep the method signatures the same, just declare the interfaces.
 >
-> **[0:36](https://www.linkedin.com/learning/spring-data-2/challenge-refactor-to-three-query-methods?u=76281980&t=36)** Then you need to refactor a JUnit test, create query test, to invoke the new methods.
+> **[0:36](https://www.linkedin.com/learning/spring-data-2/challenge-refactor-to-three-query-methods?u=76281980&t=36)** Then you need to refactor a [[JUnit]] test, create query test, to invoke the new methods.
 >
 > **[0:44](https://www.linkedin.com/learning/spring-data-2/challenge-refactor-to-three-query-methods?u=76281980&t=44)** So just to help you along a little bit here, there's staff DAO, and here's a method find by last name.
 >
@@ -1061,8 +1048,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Refactor to three query methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/solution-refactor-to-three-query-methods?u=76281980)
+#### [Solution: Refactor to three query methods](https://www.linkedin.com/learning/spring-data-2/solution-refactor-to-three-query-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1096,8 +1082,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Paging and sorting
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/paging-and-sorting?u=76281980)
+#### [Paging and sorting](https://www.linkedin.com/learning/spring-data-2/paging-and-sorting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1109,7 +1094,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/spring-data-2/paging-and-sorting?u=76281980&t=15)** The method calculates the actual record numbers with the setFirstResult and setMaxResult on the query object and hardcodes the sort in the JPQL on the last name of the staff member.
 >
-> **[0:30](https://www.linkedin.com/learning/spring-data-2/paging-and-sorting?u=76281980&t=30)** I am happy to say that Spring Data provides a better out-of-the-box approach to paging and sorting, rendering this method unnecessary.
+> **[0:30](https://www.linkedin.com/learning/spring-data-2/paging-and-sorting?u=76281980&t=30)** I am happy to say that [[Spring Data]] provides a better out-of-the-box approach to paging and sorting, rendering this method unnecessary.
 >
 > **[0:39](https://www.linkedin.com/learning/spring-data-2/paging-and-sorting?u=76281980&t=39)** In this video, we're going to learn just that, query methods for paging and sorting.
 >
@@ -1149,7 +1134,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/spring-data-2/paging-and-sorting?u=76281980&t=165)** Finally, invoking the findAll method with the Pageable object returns a container of type Page.
 >
-> **[2:52](https://www.linkedin.com/learning/spring-data-2/paging-and-sorting?u=76281980&t=172)** The Page contains the found entities and metadata about the results.
+> **[2:52](https://www.linkedin.com/learning/spring-data-2/paging-and-sorting?u=76281980&t=172)** The Page contains the found entities and [[Metadata]] about the results.
 >
 > **[2:57](https://www.linkedin.com/learning/spring-data-2/paging-and-sorting?u=76281980&t=177)** To get the results, we can can invoke getContents for the list, or get for a stream, getTotalElements returns the total number of elements matching the query, getTotalPages returns the number of pages of elements.
 >
@@ -1191,7 +1176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Data]] (9), next (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Spring Data]] (9), [[Metadata]] (1)
 > **Code Identifiers:** findall (5), lastname (2), setfirstresult (1), setmaxresult (1), lastnames (1)
 > **Env Vars:** jpql (2)
 > **Definitions:** is a  (2)
@@ -1204,12 +1189,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Specifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/specifications?u=76281980)
+#### [Specifications](https://www.linkedin.com/learning/spring-data-2/specifications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-data-2/specifications?u=76281980&t=0)** - [Instructor] Thus far, we have only learned about Spring Data queries whose parameters are known at implementation.
+> **[0:00](https://www.linkedin.com/learning/spring-data-2/specifications?u=76281980&t=0)** - [Instructor] Thus far, we have only learned about [[Spring Data]] queries whose parameters are known at implementation.
 >
 > **[0:06](https://www.linkedin.com/learning/spring-data-2/specifications?u=76281980&t=6)** In some applications, we may not know this until runtime.
 >
@@ -1223,7 +1207,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/spring-data-2/specifications?u=76281980&t=31)** In this course repository example, filtering just by instructor, credits, and department, requires several different query methods plus logic to decide which method to invoke.
 >
-> **[0:44](https://www.linkedin.com/learning/spring-data-2/specifications?u=76281980&t=44)** The original CourseDAO provides dynamic filters to the course table via the Java Persistence Criteria API.
+> **[0:44](https://www.linkedin.com/learning/spring-data-2/specifications?u=76281980&t=44)** The original CourseDAO provides dynamic filters to the course table via the [[Java]] Persistence Criteria API.
 >
 > **[0:53](https://www.linkedin.com/learning/spring-data-2/specifications?u=76281980&t=53)** This a API requires first instantiating a criteria builder from the entity manager to create a criteria query.
 >
@@ -1323,7 +1307,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Data]] (6), api (3), [[Java]] (2), data (1), business (1)
+> **Frameworks & Libraries:** [[Spring Data]] (6), [[Java]] (2)
 > **Code Identifiers:** filterbyspecification (3), findall (2), findcoursesbycriteria (2), findbycriteria (1), coursesdao (1)
 > **Env Vars:** api (3), jpa (3)
 > **Documentation:** specification (6)
@@ -1332,8 +1316,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), setup (1)
 > **Versions:** java 8 (1)
 
-#### Querydsl
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/querydsl?u=76281980)
+#### [Querydsl](https://www.linkedin.com/learning/spring-data-2/querydsl?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1341,9 +1324,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/spring-data-2/querydsl?u=76281980&t=6)** Querydsl provides an intuitive, type safe querying language that can run on multiple types of data stores.
 >
-> **[0:13](https://www.linkedin.com/learning/spring-data-2/querydsl?u=76281980&t=13)** So its no wonder that Spring Data has a Querydsl executor.
+> **[0:13](https://www.linkedin.com/learning/spring-data-2/querydsl?u=76281980&t=13)** So its no wonder that [[Spring Data]] has a Querydsl executor.
 >
-> **[0:18](https://www.linkedin.com/learning/spring-data-2/querydsl?u=76281980&t=18)** We use the apt-mavin plugin to generate special querying Java classes called Q classes.
+> **[0:18](https://www.linkedin.com/learning/spring-data-2/querydsl?u=76281980&t=18)** We use the apt-mavin plugin to generate special querying [[Java]] classes called Q classes.
 >
 > **[0:28](https://www.linkedin.com/learning/spring-data-2/querydsl?u=76281980&t=28)** The backbone of a Querydsl for JPA are these Q classes and they are generated at build time via that Maven plugin.
 >
@@ -1441,7 +1424,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Data]] (2), [[Java]] (2), [[Search]] (2), data (1)
+> **Frameworks & Libraries:** [[Spring Data]] (2), [[Java]] (2)
 > **Code Identifiers:** findall (3), haslastname (1), isfulltime (1), isolderthan (1), getquerydslpredicate (1)
 > **CLI Commands:** find (5), apt (1)
 > **Env Vars:** jpa (3)
@@ -1450,14 +1433,13 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Tools:** command line (1)
 
-#### Query by Example
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/query-by-example?u=76281980)
+#### [Query by Example](https://www.linkedin.com/learning/spring-data-2/query-by-example?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/spring-data-2/query-by-example?u=76281980&t=0)** - Now let's look at QueryByExample as a dynamic querying option.
 >
-> **[0:05](https://www.linkedin.com/learning/spring-data-2/query-by-example?u=76281980&t=5)** It is a simple alternative and is built into spring data.
+> **[0:05](https://www.linkedin.com/learning/spring-data-2/query-by-example?u=76281980&t=5)** It is a simple alternative and is built into [[Spring Data]].
 >
 > **[0:10](https://www.linkedin.com/learning/spring-data-2/query-by-example?u=76281980&t=10)** Why use QueryByExample?
 >
@@ -1491,7 +1473,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/spring-data-2/query-by-example?u=76281980&t=78)** So to find the department with the name, "humanities," we construct the department object with only the department name set.
 >
-> **[1:25](https://www.linkedin.com/learning/spring-data-2/query-by-example?u=76281980&t=85)** The rest of the attributes are null.
+> **[1:25](https://www.linkedin.com/learning/spring-data-2/query-by-example?u=76281980&t=85)** The [[Representational State Transfer (REST)|rest]] of the attributes are null.
 >
 > **[1:27](https://www.linkedin.com/learning/spring-data-2/query-by-example?u=76281980&t=87)** So to find all departments whose chair has the first name of, "Rachel," we construct the department object where the name is null, set the first name attribute of the chairperson to, "Rachel," and the last name attribute of the chairperson to null.
 >
@@ -1529,7 +1511,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), [[Spring Data]] (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Spring Data]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** orelse (3), findall (1), getexampleprobe (1), filterbyexample (1)
 > **CLI Commands:** find (4)
 > **UI Navigation:** go to (2)
@@ -1538,8 +1520,7 @@ created: 2026-05-02
 > **Speakers:** - now (1)
 > **Non-Speech:** (typing) (1)
 
-#### Challenge: Query by Example
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/challenge-query-by-example?u=76281980)
+#### [Challenge: Query by Example](https://www.linkedin.com/learning/spring-data-2/challenge-query-by-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1557,12 +1538,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
-#### Solution: Query by Example
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/solution-query-by-example?u=76281980)
+#### [Solution: Query by Example](https://www.linkedin.com/learning/spring-data-2/solution-query-by-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1603,12 +1582,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Spring Data REST
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/spring-data-rest?u=76281980)
+#### [Spring Data REST](https://www.linkedin.com/learning/spring-data-2/spring-data-rest?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-data-2/spring-data-rest?u=76281980&t=0)** - [Instructor] Spring Data REST is a module for exposing spring data repositories as hypermedia driven RESTful web services.
+> **[0:00](https://www.linkedin.com/learning/spring-data-2/spring-data-rest?u=76281980&t=0)** - [Instructor] [[Spring Data]] [[Representational State Transfer (REST)|REST]] is a module for exposing spring data repositories as hypermedia driven RESTful web services.
 >
 > **[0:09](https://www.linkedin.com/learning/spring-data-2/spring-data-rest?u=76281980&t=9)** And it's actually pretty amazing.
 >
@@ -1638,7 +1616,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/spring-data-2/spring-data-rest?u=76281980&t=112)** HTTP post creates entities.
 >
-> **[1:56](https://www.linkedin.com/learning/spring-data-2/spring-data-rest?u=76281980&t=116)** The request body is in JSON format, and maps to the save method.
+> **[1:56](https://www.linkedin.com/learning/spring-data-2/spring-data-rest?u=76281980&t=116)** The request body is in [[JSON]] format, and maps to the save method.
 >
 > **[2:02](https://www.linkedin.com/learning/spring-data-2/spring-data-rest?u=76281980&t=122)** HTTP put and patch modifies an existing entity.
 >
@@ -1650,7 +1628,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/spring-data-2/spring-data-rest?u=76281980&t=148)** The response body returns Hypermedia enabled JSON content.
 >
-> **[2:33](https://www.linkedin.com/learning/spring-data-2/spring-data-rest?u=76281980&t=153)** The relationships, even if the JPA entity is fetch type eager contains the endpoint of that relationship.
+> **[2:33](https://www.linkedin.com/learning/spring-data-2/spring-data-rest?u=76281980&t=153)** The relationships, even if the JPA entity is [[Fetch]] type eager contains the endpoint of that relationship.
 >
 > **[2:41](https://www.linkedin.com/learning/spring-data-2/spring-data-rest?u=76281980&t=161)** So the chair attribute instead of being the first and last name is actually a link that you would use to fetch later on a different call that chair.
 >
@@ -1658,7 +1636,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/spring-data-2/spring-data-rest?u=76281980&t=177)** Here is a projection called showChair that exposes the department name, and the chair formatted with spring expression language.
 >
-> **[3:05](https://www.linkedin.com/learning/spring-data-2/spring-data-rest?u=76281980&t=185)** Now invoking /departments endpoint with the projection equals showChair will actually see the name of the chair, John Smith.
+> **[3:05](https://www.linkedin.com/learning/spring-data-2/spring-data-rest?u=76281980&t=185)** Now invoking /departments endpoint with the projection equals showChair will actually see the name of the chair, [[John the Ripper|John]] Smith.
 >
 > **[3:15](https://www.linkedin.com/learning/spring-data-2/spring-data-rest?u=76281980&t=195)** Finally, the default mapping for the staff entity is to a staffs endpoint.
 >
@@ -1694,7 +1672,7 @@ created: 2026-05-02
 >
 > **[5:24](https://www.linkedin.com/learning/spring-data-2/spring-data-rest?u=76281980&t=324)** Okay, it started up, okay, let's go to our browser.
 >
-> **[5:28](https://www.linkedin.com/learning/spring-data-2/spring-data-rest?u=76281980&t=328)** So we're going to go to localhost:8080 which is we're looking at something on our run machine /swagger.ui/index.html.
+> **[5:28](https://www.linkedin.com/learning/spring-data-2/spring-data-rest?u=76281980&t=328)** So we're going to go to localhost:8080 which is we're looking at something on our run machine /swagger.ui/index.[[HTML]].
 >
 > **[5:40](https://www.linkedin.com/learning/spring-data-2/spring-data-rest?u=76281980&t=340)** And this will show us a visual presentation of all of our restful resources that we now have exposed over HTTP.
 >
@@ -1758,7 +1736,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Data]] (11), [[Representational State Transfer (REST)|Rest]] (11), data (4), application (4), web (2)
+> **Frameworks & Libraries:** [[Spring Data]] (11), [[Representational State Transfer (REST)|Rest]] (11), [[JSON]] (2), [[Fetch]] (2), [[John the Ripper|John]] (1)
 > **Env Vars:** http (9), rest (8), url (3), json (2), ide (2)
 > **Code Identifiers:** showchair (6), findall (2), findbyid (1), departmentrepo (1), findbyname (1)
 > **UI Navigation:** go to (4), scroll down (1)
@@ -1767,18 +1745,17 @@ created: 2026-05-02
 > **Ports:** :8080 (3)
 > **Tools:** command line (2)
 
-#### Spring Data MongoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/spring-data-mongodb?u=76281980)
+#### [Spring Data MongoDB](https://www.linkedin.com/learning/spring-data-2/spring-data-mongodb?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-data-2/spring-data-mongodb?u=76281980&t=0)** - [Instructor] Spring Data supports many types of data sources via the commons Crud repository.
+> **[0:00](https://www.linkedin.com/learning/spring-data-2/spring-data-mongodb?u=76281980&t=0)** - [Instructor] [[Spring Data]] supports many types of data sources via the commons Crud repository.
 >
 > **[0:05](https://www.linkedin.com/learning/spring-data-2/spring-data-mongodb?u=76281980&t=5)** We've already seen it in action with Spring Data JPA.
 >
-> **[0:09](https://www.linkedin.com/learning/spring-data-2/spring-data-mongodb?u=76281980&t=9)** Let's see what happens when we apply it to MongoDB.
+> **[0:09](https://www.linkedin.com/learning/spring-data-2/spring-data-mongodb?u=76281980&t=9)** Let's see what happens when we apply it to [[MongoDB]].
 >
-> **[0:12](https://www.linkedin.com/learning/spring-data-2/spring-data-mongodb?u=76281980&t=12)** We have a new simplified Spring Boot University project in the 5_02 branch.
+> **[0:12](https://www.linkedin.com/learning/spring-data-2/spring-data-mongodb?u=76281980&t=12)** We have a new simplified [[Spring Boot]] University project in the 5_02 branch.
 >
 > **[0:19](https://www.linkedin.com/learning/spring-data-2/spring-data-mongodb?u=76281980&t=19)** In the pom.xml configuration file from Maven, there are two dependencies that we should look at.
 >
@@ -1796,7 +1773,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/spring-data-2/spring-data-mongodb?u=76281980&t=74)** It has a generated id, which must be of type string.
 >
-> **[1:18](https://www.linkedin.com/learning/spring-data-2/spring-data-mongodb?u=76281980&t=78)** Staff encapsulates person as a member attribute, person is just a plain old Java object, containing first and last name.
+> **[1:18](https://www.linkedin.com/learning/spring-data-2/spring-data-mongodb?u=76281980&t=78)** Staff encapsulates person as a member attribute, person is just a plain old [[Java]] object, containing first and last name.
 >
 > **[1:25](https://www.linkedin.com/learning/spring-data-2/spring-data-mongodb?u=76281980&t=85)** And then we have the @Document annotation which comes from spring data MongoDB core mapping.
 >
@@ -1812,7 +1789,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/spring-data-2/spring-data-mongodb?u=76281980&t=127)** findByFirstName has the at query annotation.
 >
-> **[2:11](https://www.linkedin.com/learning/spring-data-2/spring-data-mongodb?u=76281980&t=131)** Here, instead of JPQL, there is a Mongo JSON Query.
+> **[2:11](https://www.linkedin.com/learning/spring-data-2/spring-data-mongodb?u=76281980&t=131)** Here, instead of JPQL, there is a Mongo [[JSON]] Query.
 >
 > **[2:18](https://www.linkedin.com/learning/spring-data-2/spring-data-mongodb?u=76281980&t=138)** Department Repo is a Mongo repository which extends paging and sorting repository, query by example, executor and Crud repository.
 >
@@ -1862,7 +1839,7 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/spring-data-2/spring-data-mongodb?u=76281980&t=297)** And now a property expression to findByMemberLastName on staffRepo.
 >
-> **[5:06](https://www.linkedin.com/learning/spring-data-2/spring-data-mongodb?u=76281980&t=306)** And now find all staff members with first name as John, findByFirstName, John.
+> **[5:06](https://www.linkedin.com/learning/spring-data-2/spring-data-mongodb?u=76281980&t=306)** And now find all staff members with first name as [[John the Ripper|John]], findByFirstName, John.
 >
 > **[5:17](https://www.linkedin.com/learning/spring-data-2/spring-data-mongodb?u=76281980&t=317)** And there we found John Jones.
 >
@@ -1888,13 +1865,13 @@ created: 2026-05-02
 >
 > **[6:22](https://www.linkedin.com/learning/spring-data-2/spring-data-mongodb?u=76281980&t=382)** And so here we found John Jones as the chair of humanities and social sciences, and then just hit go.
 >
-> **[6:28](https://www.linkedin.com/learning/spring-data-2/spring-data-mongodb?u=76281980&t=388)** So it's kind of amazing that the, it's very similar to what we do with JPA, but now we've pivoted to a new type of data source, SQL data source, but it's like we already know what we're doing to begin with.
+> **[6:28](https://www.linkedin.com/learning/spring-data-2/spring-data-mongodb?u=76281980&t=388)** So it's kind of amazing that the, it's very similar to what we do with JPA, but now we've pivoted to a new type of data source, [[SQL]] data source, but it's like we already know what we're doing to begin with.
 >
 > **[6:39](https://www.linkedin.com/learning/spring-data-2/spring-data-mongodb?u=76281980&t=399)** So it's nice that these things with Spring data commons can transfer to other data sources without a big learning curve.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (10), [[Spring Data]] (5), data (5), application (5), [[Spring Boot]] (3)
+> **Frameworks & Libraries:** [[MongoDB]] (10), [[Spring Data]] (5), [[John the Ripper|John]] (4), [[Spring Boot]] (3), [[JSON]] (2)
 > **CLI Commands:** find (6), mongo (4), mvn (1)
 > **Code Identifiers:** findbymemberlastname (2), findbyfirstname (2), findbyname (2), staffrepo (2), findbychair (1)
 > **Env Vars:** jpa (6), json (2), jpql (1), sql (1)
@@ -1903,24 +1880,23 @@ created: 2026-05-02
 > **File Paths:** pom.xml (1), application.yaml (1)
 > **UI Navigation:** go to (2)
 
-#### Non-blocking Spring Data reactive repositories
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/non-blocking-spring-data-reactive-repositories?u=76281980)
+#### [Non-blocking Spring Data reactive repositories](https://www.linkedin.com/learning/spring-data-2/non-blocking-spring-data-reactive-repositories?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-data-2/non-blocking-spring-data-reactive-repositories?u=76281980&t=0)** - [Instructor] Spring Boot provides two web-to-data technology stacks.
+> **[0:00](https://www.linkedin.com/learning/spring-data-2/non-blocking-spring-data-reactive-repositories?u=76281980&t=0)** - [Instructor] [[Spring Boot]] provides two web-to-data technology stacks.
 >
 > **[0:05](https://www.linkedin.com/learning/spring-data-2/non-blocking-spring-data-reactive-repositories?u=76281980&t=5)** The original Servlet stack provides synchronous blocking I/O with one thread per API request.
 >
 > **[0:13](https://www.linkedin.com/learning/spring-data-2/non-blocking-spring-data-reactive-repositories?u=76281980&t=13)** The other is the Reactive stack, which provides non-blocking I/O that leverages multi-core processors to handle several concurrent connections for multi-threading.
 >
-> **[0:24](https://www.linkedin.com/learning/spring-data-2/non-blocking-spring-data-reactive-repositories?u=76281980&t=24)** The repositories we've used thus far are blocking and are part of the Servlet stack as well as Spring Data Rest and Spring MVC.
+> **[0:24](https://www.linkedin.com/learning/spring-data-2/non-blocking-spring-data-reactive-repositories?u=76281980&t=24)** The repositories we've used thus far are blocking and are part of the Servlet stack as well as [[Spring Data]] [[Representational State Transfer (REST)|Rest]] and Spring MVC.
 >
 > **[0:34](https://www.linkedin.com/learning/spring-data-2/non-blocking-spring-data-reactive-repositories?u=76281980&t=34)** If you'd like to learn more about the Servlet stack, I encourage you to watch my course: Creating Your First Spring Boot Microservice.
 >
-> **[0:42](https://www.linkedin.com/learning/spring-data-2/non-blocking-spring-data-reactive-repositories?u=76281980&t=42)** Reactive repositories only work with underlying data stores that support non-blocking I/Os such as Mongo, Cassandra, Redis, Couchbase, and R2DBC.
+> **[0:42](https://www.linkedin.com/learning/spring-data-2/non-blocking-spring-data-reactive-repositories?u=76281980&t=42)** Reactive repositories only work with underlying data stores that support non-blocking I/Os such as Mongo, Cassandra, [[Redis]], [[Couchbase]], and R2DBC.
 >
-> **[0:54](https://www.linkedin.com/learning/spring-data-2/non-blocking-spring-data-reactive-repositories?u=76281980&t=54)** In this video we'll see how our MongoDB Spring Boot application has been converted into a Spring Book microservice that implements a Reactive stack with restful API endpoints.
+> **[0:54](https://www.linkedin.com/learning/spring-data-2/non-blocking-spring-data-reactive-repositories?u=76281980&t=54)** In this video we'll see how our [[MongoDB]] Spring Boot application has been converted into a Spring Book microservice that implements a Reactive stack with restful API endpoints.
 >
 > **[1:08](https://www.linkedin.com/learning/spring-data-2/non-blocking-spring-data-reactive-repositories?u=76281980&t=68)** So this is our MongoDB Spring Boot application but now it is a microservice with a restful API because in our pom.xml we have a new dependency spring-boot-starter-webflux at line 22.
 >
@@ -1930,7 +1906,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/spring-data-2/non-blocking-spring-data-reactive-repositories?u=76281980&t=102)** Let's look at the provided methods.
 >
-> **[1:50](https://www.linkedin.com/learning/spring-data-2/non-blocking-spring-data-reactive-repositories?u=76281980&t=110)** And we see the typical CRUD repository methods except instead of returning optionals or lists, we see mono or flux.
+> **[1:50](https://www.linkedin.com/learning/spring-data-2/non-blocking-spring-data-reactive-repositories?u=76281980&t=110)** And we see the typical CRUD repository methods except instead of returning optionals or lists, we see mono or [[Flux]].
 >
 > **[2:01](https://www.linkedin.com/learning/spring-data-2/non-blocking-spring-data-reactive-repositories?u=76281980&t=121)** A mono is an asynchronous publisher of zero or one result.
 >
@@ -1986,7 +1962,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/spring-data-2/non-blocking-spring-data-reactive-repositories?u=76281980&t=315)** And let's look up a staff by ID.
 >
-> **[5:28](https://www.linkedin.com/learning/spring-data-2/non-blocking-spring-data-reactive-repositories?u=76281980&t=328)** So that's the John Martin staff ID.
+> **[5:28](https://www.linkedin.com/learning/spring-data-2/non-blocking-spring-data-reactive-repositories?u=76281980&t=328)** So that's the [[John the Ripper|John]] Martin staff ID.
 >
 > **[5:31](https://www.linkedin.com/learning/spring-data-2/non-blocking-spring-data-reactive-repositories?u=76281980&t=331)** Now let's look up department, all departments.
 >
@@ -2012,7 +1988,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), application (6), [[Flux]] (6), [[Spring Boot]] (4), [[MongoDB]] (4)
+> **Frameworks & Libraries:** [[Flux]] (6), [[Spring Boot]] (4), [[MongoDB]] (4), [[Spring Data]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (3), curl (2), mongo (1), make (1)
 > **Env Vars:** api (3), mvc (2), r2dbc (1), crud (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -2021,28 +1997,27 @@ created: 2026-05-02
 > **Code Identifiers:** curl (1)
 > **URLs:** [localhost:8080](https://localhost:8080) (1)
 
-#### More data source support and features
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/more-data-source-support-and-features?u=76281980)
+#### [More data source support and features](https://www.linkedin.com/learning/spring-data-2/more-data-source-support-and-features?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-data-2/more-data-source-support-and-features?u=76281980&t=0)** - [Instructor] Let's wrap things up by looking at the Spring Data website and seeing the Spring Data modules under this project.
+> **[0:00](https://www.linkedin.com/learning/spring-data-2/more-data-source-support-and-features?u=76281980&t=0)** - [Instructor] Let's wrap things up by looking at the [[Spring Data]] website and seeing the Spring Data modules under this project.
 >
 > **[0:08](https://www.linkedin.com/learning/spring-data-2/more-data-source-support-and-features?u=76281980&t=8)** We already did a deep dive into Spring Data JPA to learn about repository abstraction and property expression queries found in Spring Data Commons, as well as methods specific to the data source.
 >
-> **[0:22](https://www.linkedin.com/learning/spring-data-2/more-data-source-support-and-features?u=76281980&t=22)** We leveraged that knowledge and applied it to the NoSQL Mong DB data source.
+> **[0:22](https://www.linkedin.com/learning/spring-data-2/more-data-source-support-and-features?u=76281980&t=22)** We leveraged that knowledge and applied it to the [[NoSQL]] Mong DB data source.
 >
 > **[0:28](https://www.linkedin.com/learning/spring-data-2/more-data-source-support-and-features?u=76281980&t=28)** We saw how the repository abstraction was applied generically, as well as how Mongo specific features are addressed.
 >
-> **[0:37](https://www.linkedin.com/learning/spring-data-2/more-data-source-support-and-features?u=76281980&t=37)** Spring Data REST is a module for exposing Spring Data repositories as restful HTTP endpoints simply by adding a dependency but allowed application specific configuration.
+> **[0:37](https://www.linkedin.com/learning/spring-data-2/more-data-source-support-and-features?u=76281980&t=37)** Spring Data [[Representational State Transfer (REST)|REST]] is a module for exposing Spring Data repositories as restful HTTP endpoints simply by adding a dependency but allowed application specific configuration.
 >
-> **[0:50](https://www.linkedin.com/learning/spring-data-2/more-data-source-support-and-features?u=76281980&t=50)** If you have a relational database where the domains are loosely coupled you may want to look at Spring Data JDBC.
+> **[0:50](https://www.linkedin.com/learning/spring-data-2/more-data-source-support-and-features?u=76281980&t=50)** If you have a relational database where the domains are loosely coupled you may want to look at Spring Data [[Java Database Connectivity (JDBC)|JDBC]].
 >
 > **[0:58](https://www.linkedin.com/learning/spring-data-2/more-data-source-support-and-features?u=76281980&t=58)** It provides a repository interface without JPA relationships so it's more lightweight than Spring Data JPA and more strictly follows the concepts of domain driven design.
 >
 > **[1:10](https://www.linkedin.com/learning/spring-data-2/more-data-source-support-and-features?u=76281980&t=70)** Almost any data source around has a Spring Data repository extraction.
 >
-> **[1:16](https://www.linkedin.com/learning/spring-data-2/more-data-source-support-and-features?u=76281980&t=76)** Redis, Couchbase, Cassandra, LDAP, Elasticsearch, Neo4j, Geode, GemFire.
+> **[1:16](https://www.linkedin.com/learning/spring-data-2/more-data-source-support-and-features?u=76281980&t=76)** [[Redis]], [[Couchbase]], Cassandra, LDAP, [[Elasticsearch]], [[Neo4j]], Geode, GemFire.
 >
 > **[1:25](https://www.linkedin.com/learning/spring-data-2/more-data-source-support-and-features?u=76281980&t=85)** Now that you understand that Spring Data commons with JPA and Mongo, learning about these other modules is an easier lift.
 >
@@ -2054,7 +2029,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/spring-data-2/more-data-source-support-and-features?u=76281980&t=109)** R2DBC stands for Reactive Relational Database Connectivity and it plays just as well with reactive stack as NoSQL data sources.
 >
-> **[1:59](https://www.linkedin.com/learning/spring-data-2/more-data-source-support-and-features?u=76281980&t=119)** Be aware that not all relational databases support this approach and it does not provide typical features like lazy loading or caching like JPA.
+> **[1:59](https://www.linkedin.com/learning/spring-data-2/more-data-source-support-and-features?u=76281980&t=119)** Be aware that not all [[Relational Databases]] support this approach and it does not provide typical features like lazy loading or caching like JPA.
 >
 > **[2:09](https://www.linkedin.com/learning/spring-data-2/more-data-source-support-and-features?u=76281980&t=129)** This page also informs you of projects that are on their way out.
 >
@@ -2066,11 +2041,11 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/spring-data-2/more-data-source-support-and-features?u=76281980&t=148)** Spring Data, JDBC Ext is being moved into the attic.
 >
-> **[2:33](https://www.linkedin.com/learning/spring-data-2/more-data-source-support-and-features?u=76281980&t=153)** And as Hadoop is used less and less, Spring Data updates for that will no longer be available.
+> **[2:33](https://www.linkedin.com/learning/spring-data-2/more-data-source-support-and-features?u=76281980&t=153)** And as [[Hadoop]] is used less and less, Spring Data updates for that will no longer be available.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Data]] (18), data (6), [[NoSQL]] (3), database (2), [[Java Database Connectivity (JDBC)|Jdbc]] (2)
+> **Frameworks & Libraries:** [[Spring Data]] (18), [[NoSQL]] (3), [[Java Database Connectivity (JDBC)|Jdbc]] (2), [[Elasticsearch]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** jpa (5), jdbc (2), r2dbc (2), rest (1), http (1)
 > **CLI Commands:** mongo (2), apache (1)
 > **Definitions:** is a  (1), is an  (1), stands for (1)
@@ -2082,20 +2057,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps with Spring Data
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-data-2/next-steps-with-spring-data?u=76281980)
+#### [Next steps with Spring Data](https://www.linkedin.com/learning/spring-data-2/next-steps-with-spring-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/spring-data-2/next-steps-with-spring-data?u=76281980&t=0)** - [Mary] So what's next?
 >
-> **[0:02](https://www.linkedin.com/learning/spring-data-2/next-steps-with-spring-data?u=76281980&t=2)** After finishing this course I would encourage you to apply spring data repositories into a fully running application.
+> **[0:02](https://www.linkedin.com/learning/spring-data-2/next-steps-with-spring-data?u=76281980&t=2)** After finishing this course I would encourage you to apply [[Spring Data]] repositories into a fully running application.
 >
-> **[0:09](https://www.linkedin.com/learning/spring-data-2/next-steps-with-spring-data?u=76281980&t=9)** We do just that in my course, "Creating Your First Spring Boot Microservice".
+> **[0:09](https://www.linkedin.com/learning/spring-data-2/next-steps-with-spring-data?u=76281980&t=9)** We do just that in my course, "Creating Your First [[Spring Boot]] Microservice".
 >
-> **[0:13](https://www.linkedin.com/learning/spring-data-2/next-steps-with-spring-data?u=76281980&t=13)** Step by step we construct a Java application that leverages several spring technologies including Boot, Spring Data JPA, Spring Data Rest, and Spring Web NBC.
+> **[0:13](https://www.linkedin.com/learning/spring-data-2/next-steps-with-spring-data?u=76281980&t=13)** Step by step we construct a [[Java]] application that leverages several spring technologies including Boot, Spring Data JPA, Spring Data [[Representational State Transfer (REST)|Rest]], and Spring Web NBC.
 >
-> **[0:24](https://www.linkedin.com/learning/spring-data-2/next-steps-with-spring-data?u=76281980&t=24)** Understanding microservice containerization is critical to modern software development.
+> **[0:24](https://www.linkedin.com/learning/spring-data-2/next-steps-with-spring-data?u=76281980&t=24)** Understanding microservice containerization is critical to modern [[Software Development]].
 >
 > **[0:30](https://www.linkedin.com/learning/spring-data-2/next-steps-with-spring-data?u=76281980&t=30)** If this has evaded you, don't worry.
 >
@@ -2103,9 +2077,9 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/spring-data-2/next-steps-with-spring-data?u=76281980&t=35)** "[[Introduction to Docker for Java Developers]]" hits that sweet spot of what you need to know as a developer without overwhelming you with the extraneous details.
 >
-> **[0:46](https://www.linkedin.com/learning/spring-data-2/next-steps-with-spring-data?u=76281980&t=46)** If you enjoyed this course, you can find all my LinkedIn learning courses on my website, maryellenteaches.me.
+> **[0:46](https://www.linkedin.com/learning/spring-data-2/next-steps-with-spring-data?u=76281980&t=46)** If you enjoyed this course, you can find all my [[LinkedIn]] learning courses on my website, maryellenteaches.me.
 >
-> **[0:53](https://www.linkedin.com/learning/spring-data-2/next-steps-with-spring-data?u=76281980&t=53)** And my Github organization is Mary Ellen teaches.
+> **[0:53](https://www.linkedin.com/learning/spring-data-2/next-steps-with-spring-data?u=76281980&t=53)** And my [[GitHub]] organization is Mary Ellen teaches.
 >
 > **[0:57](https://www.linkedin.com/learning/spring-data-2/next-steps-with-spring-data?u=76281980&t=57)** I love learner feedback.
 >
@@ -2119,7 +2093,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Data]] (3), [[LinkedIn]] (3), application (2), [[Java]] (2), next (1)
+> **Frameworks & Libraries:** [[Spring Data]] (3), [[LinkedIn]] (3), [[Java]] (2), [[Spring Boot]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** docker (1), find (1)
 > **Env Vars:** jpa (1), nbc (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (1)

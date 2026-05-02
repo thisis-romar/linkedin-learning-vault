@@ -65,16 +65,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Try your Python programming skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-object-oriented-programming/try-your-python-programming-skills?u=76281980)
+#### [Try your Python programming skills](https://www.linkedin.com/learning/python-practice-object-oriented-programming/try-your-python-programming-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-practice-object-oriented-programming/try-your-python-programming-skills?u=76281980&t=0)** - [Scott] Python is one of the most popular programming languages in the world.
+> **[0:00](https://www.linkedin.com/learning/python-practice-object-oriented-programming/try-your-python-programming-skills?u=76281980&t=0)** - [Scott] [[Python (Programming Language)|Python]] is one of the most popular programming languages in the world.
 >
 > **[0:03](https://www.linkedin.com/learning/python-practice-object-oriented-programming/try-your-python-programming-skills?u=76281980&t=3)** Knowledge of Python opens the door to working with data, building applications, and solving problems with code that can run on many types of devices.
 >
-> **[0:12](https://www.linkedin.com/learning/python-practice-object-oriented-programming/try-your-python-programming-skills?u=76281980&t=12)** In this Code Challenge course, you can test your knowledge of object-oriented programming and Python to build your confidence working with the objects in classes that allow us to model real world systems in code.
+> **[0:12](https://www.linkedin.com/learning/python-practice-object-oriented-programming/try-your-python-programming-skills?u=76281980&t=12)** In this Code Challenge course, you can test your knowledge of [[Object-Oriented Programming (OOP)|object-oriented programming]] and Python to build your confidence working with the objects in classes that allow us to model real world systems in code.
 >
 > **[0:22](https://www.linkedin.com/learning/python-practice-object-oriented-programming/try-your-python-programming-skills?u=76281980&t=22)** And I've put together five code challenges that cover the concepts around object-oriented programming that you'll use when working in Python.
 >
@@ -84,28 +83,27 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/python-practice-object-oriented-programming/try-your-python-programming-skills?u=76281980&t=35)** And when you finish your solution to each challenge, take a look at my solution videos to see how I solved them.
 >
-> **[0:41](https://www.linkedin.com/learning/python-practice-object-oriented-programming/try-your-python-programming-skills?u=76281980&t=41)** I'm Scott Simpson, senior staff instructor at LinkedIn Learning.
+> **[0:41](https://www.linkedin.com/learning/python-practice-object-oriented-programming/try-your-python-programming-skills?u=76281980&t=41)** I'm Scott Simpson, senior staff instructor at [[LinkedIn]] Learning.
 >
 > **[0:44](https://www.linkedin.com/learning/python-practice-object-oriented-programming/try-your-python-programming-skills?u=76281980&t=44)** If you're ready to try out your [[Python Object-Oriented Programming]] skills, let's go.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[Programming]] (1), data (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[LinkedIn]] (1)
 > **CLI Commands:** python (5)
 > **Speakers:** - [scott] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-object-oriented-programming/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/python-practice-object-oriented-programming/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-practice-object-oriented-programming/what-you-should-know?u=76281980&t=0)** - [Instructor] In this Code Challenge course, I expect you to be familiar with using objects in Python.
+> **[0:00](https://www.linkedin.com/learning/python-practice-object-oriented-programming/what-you-should-know?u=76281980&t=0)** - [Instructor] In this Code Challenge course, I expect you to be familiar with using objects in [[Python (Programming Language)|Python]].
 >
-> **[0:05](https://www.linkedin.com/learning/python-practice-object-oriented-programming/what-you-should-know?u=76281980&t=5)** We'll work with various aspects of object-oriented programming like classes, instances, inheritance, and so on.
+> **[0:05](https://www.linkedin.com/learning/python-practice-object-oriented-programming/what-you-should-know?u=76281980&t=5)** We'll work with various aspects of [[Object-Oriented Programming (OOP)|object-oriented programming]] like classes, instances, inheritance, and so on.
 >
 > **[0:12](https://www.linkedin.com/learning/python-practice-object-oriented-programming/what-you-should-know?u=76281980&t=12)** The challenges start out with the fundamentals and become more involved as the course moves on.
 >
-> **[0:17](https://www.linkedin.com/learning/python-practice-object-oriented-programming/what-you-should-know?u=76281980&t=17)** If you need to refresh your Python knowledge, take a look at these courses in the LinkedIn Learning Library.
+> **[0:17](https://www.linkedin.com/learning/python-practice-object-oriented-programming/what-you-should-know?u=76281980&t=17)** If you need to refresh your Python knowledge, take a look at these courses in the [[LinkedIn]] Learning Library.
 >
 > **[0:21](https://www.linkedin.com/learning/python-practice-object-oriented-programming/what-you-should-know?u=76281980&t=21)** To work on these challenges, you don't need to install any separate software.
 >
@@ -115,14 +113,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** python (2)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring the Lab environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-object-oriented-programming/exploring-the-lab-environment?u=76281980)
+#### [Exploring the Lab environment](https://www.linkedin.com/learning/python-practice-object-oriented-programming/exploring-the-lab-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -132,7 +129,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/python-practice-object-oriented-programming/exploring-the-lab-environment?u=76281980&t=15)** These challenges are hosted by CoderPad and they appear in the same area of the course page where you watch the courses videos.
 >
-> **[0:22](https://www.linkedin.com/learning/python-practice-object-oriented-programming/exploring-the-lab-environment?u=76281980&t=22)** We recommend using a desktop browser for the best experience with code challenges but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:22](https://www.linkedin.com/learning/python-practice-object-oriented-programming/exploring-the-lab-environment?u=76281980&t=22)** We recommend using a desktop browser for the best experience with code challenges but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:30](https://www.linkedin.com/learning/python-practice-object-oriented-programming/exploring-the-lab-environment?u=76281980&t=30)** The code challenge has four areas.
 >
@@ -176,7 +173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
@@ -185,8 +182,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solution: Define a class and create objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-object-oriented-programming/solution-1-define-a-class-and-create-objects?u=76281980)
+#### [Solution: Define a class and create objects](https://www.linkedin.com/learning/python-practice-object-oriented-programming/solution-1-define-a-class-and-create-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -216,8 +212,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Add a method to a class
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-object-oriented-programming/solution-2-add-a-method-to-a-class?u=76281980)
+#### [Solution: Add a method to a class](https://www.linkedin.com/learning/python-practice-object-oriented-programming/solution-2-add-a-method-to-a-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -261,13 +256,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is called (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Refactor a class
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-object-oriented-programming/solution-3-refactor-a-class?u=76281980)
+#### [Solution: Refactor a class](https://www.linkedin.com/learning/python-practice-object-oriented-programming/solution-3-refactor-a-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -303,13 +296,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Protect an attribute
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-object-oriented-programming/solution-4-protect-an-attribute?u=76281980)
+#### [Solution: Protect an attribute](https://www.linkedin.com/learning/python-practice-object-oriented-programming/solution-4-protect-an-attribute?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -317,7 +308,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/python-practice-object-oriented-programming/solution-4-protect-an-attribute?u=76281980&t=5)** First, we'll change the price attribute to start with an underscore.
 >
-> **[0:09](https://www.linkedin.com/learning/python-practice-object-oriented-programming/solution-4-protect-an-attribute?u=76281980&t=9)** In Python, a leading underscore is a convention to say, even though you can access this, please don't, pretend it's not there, pretend it's private.
+> **[0:09](https://www.linkedin.com/learning/python-practice-object-oriented-programming/solution-4-protect-an-attribute?u=76281980&t=9)** In [[Python (Programming Language)|Python]], a leading underscore is a convention to say, even though you can access this, please don't, pretend it's not there, pretend it's private.
 >
 > **[0:17](https://www.linkedin.com/learning/python-practice-object-oriented-programming/solution-4-protect-an-attribute?u=76281980&t=17)** Other languages make this more robust, but Python doesn't.
 >
@@ -359,8 +350,7 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Compare instances
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-object-oriented-programming/solution-5-compare-instances?u=76281980)
+#### [Solution: Compare instances](https://www.linkedin.com/learning/python-practice-object-oriented-programming/solution-5-compare-instances?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -409,20 +399,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-object-oriented-programming/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/python-practice-object-oriented-programming/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-practice-object-oriented-programming/next-steps?u=76281980&t=0)** - [Narrator] If you were able to solve these challenges, congratulations, and if not, take some time to refresh your knowledge of Python and come back and try again.
+> **[0:00](https://www.linkedin.com/learning/python-practice-object-oriented-programming/next-steps?u=76281980&t=0)** - [Narrator] If you were able to solve these challenges, congratulations, and if not, take some time to refresh your knowledge of [[Python (Programming Language)|Python]] and come back and try again.
 >
-> **[0:08](https://www.linkedin.com/learning/python-practice-object-oriented-programming/next-steps?u=76281980&t=8)** If you're ready to move on and solve more challenges, take a look at our other interactive Python Code challenge courses here on LinkedIn Learning.
+> **[0:08](https://www.linkedin.com/learning/python-practice-object-oriented-programming/next-steps?u=76281980&t=8)** If you're ready to move on and solve more challenges, take a look at our other interactive Python Code challenge courses here on [[LinkedIn]] Learning.
 >
 > **[0:14](https://www.linkedin.com/learning/python-practice-object-oriented-programming/next-steps?u=76281980&t=14)** See you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - [narrator] (1)
 

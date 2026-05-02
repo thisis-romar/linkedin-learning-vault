@@ -91,12 +91,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using SQL for data analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-sql-for-data-analysis?u=76281980)
+#### [Using SQL for data analysis](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-sql-for-data-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-sql-for-data-analysis?u=76281980&t=0)** - SQL is the most widely used language for managing data from a relational database.
+> **[0:00](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-sql-for-data-analysis?u=76281980&t=0)** - [[SQL]] is the most widely used language for managing data from a relational database.
 >
 > **[0:05](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-sql-for-data-analysis?u=76281980&t=5)** It's also essential in organizing and accessing data to get insights into your business.
 >
@@ -104,34 +103,33 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-sql-for-data-analysis?u=76281980&t=12)** I'm a full stack engineer and consultant.
 >
-> **[0:15](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-sql-for-data-analysis?u=76281980&t=15)** And this LinkedIn Learning course, we'll focus on building fundamentals to get you started with data analysis.
+> **[0:15](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-sql-for-data-analysis?u=76281980&t=15)** And this [[LinkedIn]] Learning course, we'll focus on building fundamentals to get you started with data analysis.
 >
 > **[0:21](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-sql-for-data-analysis?u=76281980&t=21)** We'll cover SQL skills like using various data types like dates and strings, utilizing keywords and clauses and a few easy SQL functions like count and averages, so you can get started on analysis right away.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[SQL]] (3), database (1), business (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[LinkedIn]] (1)
 > **Env Vars:** sql (3)
 > **Speakers:** - sql (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/what-you-should-know?u=76281980&t=0)** - [Instructor] Before we begin, let's discuss some skills you may need to know first.
 >
-> **[0:05](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/what-you-should-know?u=76281980&t=5)** This is an introductory course for relational databases.
+> **[0:05](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/what-you-should-know?u=76281980&t=5)** This is an introductory course for [[Relational Databases]].
 >
 > **[0:07](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/what-you-should-know?u=76281980&t=7)** However, you may be more comfortable with this course if you have some previous experience working with data.
 >
-> **[0:13](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/what-you-should-know?u=76281980&t=13)** For example, if you have experience working with Excel, that can be helpful for understanding the concepts in this course.
+> **[0:13](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/what-you-should-know?u=76281980&t=13)** For example, if you have experience working with [[Microsoft Excel|Excel]], that can be helpful for understanding the concepts in this course.
 >
-> **[0:21](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/what-you-should-know?u=76281980&t=21)** During this course, we'll use Visual Studio Code and GitHub Codespaces to practice writing queries that will demonstrate the concepts in each section.
+> **[0:21](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/what-you-should-know?u=76281980&t=21)** During this course, we'll use Visual Studio Code and [[GitHub]] [[Codespaces]] to practice writing queries that will demonstrate the concepts in each section.
 >
 > **[0:30](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/what-you-should-know?u=76281980&t=30)** The tools and database needed for the course will populate for you in the Codespace environment.
 >
-> **[0:35](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/what-you-should-know?u=76281980&t=35)** We'll also use the MariaDB version of MySQL as the database management system for this course.
+> **[0:35](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/what-you-should-know?u=76281980&t=35)** We'll also use the MariaDB version of [[MySQL]] as the [[Database Management]] system for this course.
 >
 > **[0:41](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/what-you-should-know?u=76281980&t=41)** You won't need to be specifically familiar with MariaDB.
 >
@@ -143,23 +141,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), management (3), [[Codespaces]] (2), [[Relational Databases]] (1), data (1)
+> **Frameworks & Libraries:** [[Database Management]] (3), [[Codespaces]] (2), [[Relational Databases]] (1), [[Microsoft Excel|Excel]] (1), [[GitHub]] (1)
 > **Tools:** visual studio (1), github (1)
 > **CLI Commands:** mysql (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/setting-up-codespaces?u=76281980)
+#### [Setting up Codespaces](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/setting-up-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/setting-up-codespaces?u=76281980&t=0)** - [Ravi] This is Ravi De Lobos, senior staff instructor at LinkedIn Learning, and I'm going to show you how to work with LinkedIn Learning courses using GitHub Codespaces.
+> **[0:00](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/setting-up-codespaces?u=76281980&t=0)** - [Ravi] This is Ravi De Lobos, senior staff instructor at [[LinkedIn]] Learning, and I'm going to show you how to work with LinkedIn Learning courses using [[GitHub]] [[Codespaces]].
 >
 > **[0:09](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/setting-up-codespaces?u=76281980&t=9)** Codespaces is a code editor in the cloud with the full power of Visual Studio Code.
 >
-> **[0:15](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/setting-up-codespaces?u=76281980&t=15)** It allows for real-world hands-on practice that mirrors software development in the workplace.
+> **[0:15](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/setting-up-codespaces?u=76281980&t=15)** It allows for real-world hands-on practice that mirrors [[Software Development]] in the workplace.
 >
 > **[0:21](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/setting-up-codespaces?u=76281980&t=21)** This course was created using GitHub Codespaces.
 >
@@ -247,7 +244,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/setting-up-codespaces?u=76281980&t=270)** I'll hit OK.
 >
-> **[4:32](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/setting-up-codespaces?u=76281980&t=272)** You can also let it go ahead and run git fetch.
+> **[4:32](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/setting-up-codespaces?u=76281980&t=272)** You can also let it go ahead and run [[Git]] [[Fetch]].
 >
 > **[4:35](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/setting-up-codespaces?u=76281980&t=275)** That way, it'll automatically sync with your forked repo.
 >
@@ -261,7 +258,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (6), [[GitHub]] (4), hit (4), [[LinkedIn]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Codespaces]] (6), [[GitHub]] (4), [[LinkedIn]] (2), [[Software Development]] (1), [[Git]] (1)
 > **Tools:** github (4), visual studio (2)
 > **Definitions:** is a  (4), known as (1), is an  (1)
 > **CLI Commands:** make (2), find (1), git (1)
@@ -270,20 +267,19 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 
-#### Getting started with a database in Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-a-database-in-codespaces?u=76281980)
+#### [Getting started with a database in Codespaces](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-a-database-in-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-a-database-in-codespaces?u=76281980&t=0)** - [Instructor] Now that we know how to use Codespaces, let's get you familiar with how to access the database we'll use in this course.
+> **[0:00](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-a-database-in-codespaces?u=76281980&t=0)** - [Instructor] Now that we know how to use [[Codespaces]], let's get you familiar with how to access the database we'll use in this course.
 >
-> **[0:08](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-a-database-in-codespaces?u=76281980&t=8)** Start by opening your Codespace from GitHub.
+> **[0:08](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-a-database-in-codespaces?u=76281980&t=8)** Start by opening your Codespace from [[GitHub]].
 >
 > **[0:13](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-a-database-in-codespaces?u=76281980&t=13)** Go to Code, we'll go to Codespaces, and click on Create a new codespace on main.
 >
 > **[0:21](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-a-database-in-codespaces?u=76281980&t=21)** After loading the repository in the Codespace, you'll notice lots of options here on the left hand side of your browser.
 >
-> **[0:27](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-a-database-in-codespaces?u=76281980&t=27)** Let's click on SQL Tools.
+> **[0:27](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-a-database-in-codespaces?u=76281980&t=27)** Let's click on [[SQL]] Tools.
 >
 > **[0:30](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-a-database-in-codespaces?u=76281980&t=30)** Under Connections, you should see H+ Sport and this is the database we'll use within this course.
 >
@@ -295,7 +291,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[Codespaces]] (2), [[SQL]] (2), [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[Codespaces]] (2), [[SQL]] (2), [[GitHub]] (1)
 > **UI Navigation:** click on (3), go to (2)
 > **Env Vars:** sql (2)
 > **Tools:** github (1)
@@ -306,8 +302,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A quick review of Structured Query Language (SQL)
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/a-quick-review-of-structured-query-language-sql?u=76281980)
+#### [A quick review of Structured Query Language (SQL)](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/a-quick-review-of-structured-query-language-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -337,9 +332,9 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/a-quick-review-of-structured-query-language-sql?u=76281980&t=64)** In the case of a product, it could be the product's size, color, product name, or category.
 >
-> **[1:12](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/a-quick-review-of-structured-query-language-sql?u=76281980&t=72)** The most widely used language for managing data from a relational database is known as SQL.
+> **[1:12](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/a-quick-review-of-structured-query-language-sql?u=76281980&t=72)** The most widely used language for managing data from a relational database is known as [[SQL]].
 >
-> **[1:18](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/a-quick-review-of-structured-query-language-sql?u=76281980&t=78)** Structured Query Language, or SQL, or S-Q-L, is the primary language we use to manage and access structured data in a Relational Database Management System.
+> **[1:18](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/a-quick-review-of-structured-query-language-sql?u=76281980&t=78)** Structured Query Language, or SQL, or S-Q-L, is the primary language we use to manage and access structured data in a Relational [[Database Management]] System.
 >
 > **[1:30](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/a-quick-review-of-structured-query-language-sql?u=76281980&t=90)** It's how we communicate with the database.
 >
@@ -365,27 +360,27 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/a-quick-review-of-structured-query-language-sql?u=76281980&t=172)** Many companies still use it.
 >
-> **[2:56](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/a-quick-review-of-structured-query-language-sql?u=76281980&t=176)** According to the 2020 Insights from Stack Overflow, SQL is the third most commonly used programming language behind JavaScript and HTML and CSS.
+> **[2:56](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/a-quick-review-of-structured-query-language-sql?u=76281980&t=176)** According to the 2020 Insights from Stack Overflow, SQL is the third most commonly used programming language behind [[JavaScript]] and [[HTML]] and CSS.
 >
 > **[3:08](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/a-quick-review-of-structured-query-language-sql?u=76281980&t=188)** Having a good database understanding is essential in today's job market.
 >
 > **[3:14](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/a-quick-review-of-structured-query-language-sql?u=76281980&t=194)** And it's not standing still.
 >
-> **[3:17](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/a-quick-review-of-structured-query-language-sql?u=76281980&t=197)** New concepts in database technology include processing big data.
+> **[3:17](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/a-quick-review-of-structured-query-language-sql?u=76281980&t=197)** New concepts in database technology include processing [[Big Data]].
 >
 > **[3:21](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/a-quick-review-of-structured-query-language-sql?u=76281980&t=201)** Big data is a concept of collecting, organizing, and analyzing massive amounts of data from a variety of sources.
 >
-> **[3:31](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/a-quick-review-of-structured-query-language-sql?u=76281980&t=211)** You may have heard of technologies, such as Hadoop MapReduce, NoSQL, and NewSQL.
+> **[3:31](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/a-quick-review-of-structured-query-language-sql?u=76281980&t=211)** You may have heard of technologies, such as [[Hadoop]] MapReduce, [[NoSQL]], and NewSQL.
 >
 > **[3:38](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/a-quick-review-of-structured-query-language-sql?u=76281980&t=218)** Big data concepts involve analyzing and extracting information from enormous data sets that will require multiple servers and lots of compute power to process.
 >
-> **[3:49](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/a-quick-review-of-structured-query-language-sql?u=76281980&t=229)** As application developers, we develop code that calls the Database Management System to perform operations or retrieve data from the database, and this course will help H+ Sport display their sales dashboards and give you essential SQL skills to put in your toolbox.
+> **[3:49](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/a-quick-review-of-structured-query-language-sql?u=76281980&t=229)** As application developers, we develop code that calls the Database Management System to perform operations or retrieve data from the database, and this course will help H+ Sport display their sales [[Dashboards]] and give you essential SQL skills to put in your toolbox.
 >
 > **[4:06](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/a-quick-review-of-structured-query-language-sql?u=76281980&t=246)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (15), data (12), [[SQL]] (7), product (5), management (4)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Database Management]] (4), [[Big Data]] (3), [[JavaScript]] (1), [[HTML]] (1)
 > **Env Vars:** sql (7), dbms (2), ibm (1), db2 (1), html (1)
 > **Definitions:** is a  (4), known as (3), is an  (1)
 > **Cross-References:** later in (1)
@@ -393,8 +388,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
-#### What is a relational database?
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/what-is-a-relational-database?u=76281980)
+#### [What is a relational database?](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/what-is-a-relational-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -480,7 +474,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/what-is-a-relational-database?u=76281980&t=176)** It provides the guide to our data, and a quick view of what data is available to us.
 >
-> **[3:01](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/what-is-a-relational-database?u=76281980&t=181)** To see an example, check out the GitHub repo for the ERD in the H+ Sport database.
+> **[3:01](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/what-is-a-relational-database?u=76281980&t=181)** To see an example, check out the [[GitHub]] repo for the ERD in the H+ Sport database.
 >
 > **[3:08](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/what-is-a-relational-database?u=76281980&t=188)** Just so you know, some people call this entity-relationship model.
 >
@@ -498,7 +492,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/what-is-a-relational-database?u=76281980&t=228)** Let's say a developer is wanting to use first name and last name as the composite key.
 >
-> **[3:53](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/what-is-a-relational-database?u=76281980&t=233)** This might seem simple, but it wouldn't work if you have two John Smiths.
+> **[3:53](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/what-is-a-relational-database?u=76281980&t=233)** This might seem simple, but it wouldn't work if you have two [[John the Ripper|John]] Smiths.
 >
 > **[3:58](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/what-is-a-relational-database?u=76281980&t=238)** However, a composite key with the last name and address may work, if there is only one customer per household.
 >
@@ -548,7 +542,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), data (6), product (6), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[John the Ripper|John]] (1)
 > **Definitions:** is a  (3), known as (2)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** erd (3)
@@ -557,12 +551,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** the key is (1)
 
-#### Common SQL structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-structures?u=76281980)
+#### [Common SQL structures](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-structures?u=76281980&t=0)** - Now let's take a look at how to ask the right questions to get the results you want using some common SQL syntax.
+> **[0:00](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-structures?u=76281980&t=0)** - Now let's take a look at how to ask the right questions to get the results you want using some common [[SQL]] syntax.
 >
 > **[0:07](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-structures?u=76281980&t=7)** Let's start by opening up your code space environment and going to visual studio code.
 >
@@ -634,7 +627,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-structures?u=76281980&t=224)** Instead of manually entering each location in the code for our website, we can add a call to the database to display the total amount of customers in each state.
 >
-> **[3:54](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-structures?u=76281980&t=234)** There are also great geographic information systems that use SQL to perform visualizations like this.
+> **[3:54](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-structures?u=76281980&t=234)** There are also great [[Geographic Information Systems (GIS)|geographic information systems]] that use SQL to perform visualizations like this.
 >
 > **[4:01](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-structures?u=76281980&t=241)** Most likely, we'll need to join tables together to gain more insights.
 >
@@ -672,7 +665,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (10), data (8), database (3), product (1), hit (1)
+> **Frameworks & Libraries:** [[SQL]] (10), [[Geographic Information Systems (GIS)|Geographic information systems]] (1)
 > **Env Vars:** sql (10)
 > **UI Navigation:** click on (2), go to (1), select the (1)
 > **CLI Commands:** make (2), find (1)
@@ -685,8 +678,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using data types and identifying the wrong data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-data-types-and-identifying-the-wrong-data-types?u=76281980)
+#### [Using data types and identifying the wrong data types](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-data-types-and-identifying-the-wrong-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -720,7 +712,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-data-types-and-identifying-the-wrong-data-types?u=76281980&t=68)** There are many different data types to choose from, and depending on the system, data types and their corresponding functions can perform differently.
 >
-> **[1:16](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-data-types-and-identifying-the-wrong-data-types?u=76281980&t=76)** Some common data types in SQL are INT or integer, a VARCHAR, or you see NVARCHAR as a derivative of that, DATE, DATETIME, FLOAT, Decimal and DOUBLE.
+> **[1:16](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-data-types-and-identifying-the-wrong-data-types?u=76281980&t=76)** Some common data types in [[SQL]] are INT or integer, a VARCHAR, or you see NVARCHAR as a derivative of that, DATE, DATETIME, FLOAT, Decimal and DOUBLE.
 >
 > **[1:29](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-data-types-and-identifying-the-wrong-data-types?u=76281980&t=89)** Also note that different systems offer different data types.
 >
@@ -796,7 +788,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-data-types-and-identifying-the-wrong-data-types?u=76281980&t=271)** The data type for email will not error but will also not give us the correct results.
 >
-> **[4:37](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-data-types-and-identifying-the-wrong-data-types?u=76281980&t=277)** In up database management systems such as SQL Server, this would result in an error.
+> **[4:37](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-data-types-and-identifying-the-wrong-data-types?u=76281980&t=277)** In up [[Database Management]] systems such as [[Microsoft SQL Server|SQL Server]], this would result in an error.
 >
 > **[4:43](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-data-types-and-identifying-the-wrong-data-types?u=76281980&t=283)** The data type character does not allow for the use of the SUM function.
 >
@@ -820,11 +812,11 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-data-types-and-identifying-the-wrong-data-types?u=76281980&t=330)** Whatever you decide, the data type needs to be consistent across tables to prevent any future errors that might occur.
 >
-> **[5:37](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-data-types-and-identifying-the-wrong-data-types?u=76281980&t=337)** Take a look at a few of the links for data types for MySQL and SQL Server for more information on data types that best fit the data that you are working with.
+> **[5:37](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/using-data-types-and-identifying-the-wrong-data-types?u=76281980&t=337)** Take a look at a few of the links for data types for [[MySQL]] and SQL Server for more information on data types that best fit the data that you are working with.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), database (3), [[SQL]] (3), [[Microsoft SQL Server|Sql server]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Microsoft SQL Server|Sql server]] (2), [[Database Management]] (1), [[MySQL]] (1)
 > **Env Vars:** sql (5), sum (4), int (3), varchar (2), null (2)
 > **SQL:** varchar (2), create table (1), group by (1)
 > **Analogies:** such as (2), for example (2)
@@ -833,8 +825,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1), known as (1)
 > **Warnings:** note that (1)
 
-#### Finding missing values
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-missing-values?u=76281980)
+#### [Finding missing values](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-missing-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -880,7 +871,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-missing-values?u=76281980&t=115)** Searches within the text are not case sensitive, so searching for capital MW can return MW or lowercase MW or even a mixed case in the string.
 >
-> **[2:09](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-missing-values?u=76281980&t=129)** And the wildcard with space SQL file, let's open that.
+> **[2:09](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-missing-values?u=76281980&t=129)** And the wildcard with space [[SQL]] file, let's open that.
 >
 > **[2:13](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-missing-values?u=76281980&t=133)** In this example, let's look at the following query.
 >
@@ -890,7 +881,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-missing-values?u=76281980&t=156)** So we don't have any records that contain a space in the first name.
 >
-> **[2:41](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-missing-values?u=76281980&t=161)** Let's look at the products table.
+> **[2:41](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-missing-values?u=76281980&t=161)** Let's look at the [[Microsoft Products|products]] table.
 >
 > **[2:43](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-missing-values?u=76281980&t=163)** The company has a new orange mineral water.
 >
@@ -948,7 +939,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[SQL]] (7), product (7), next (3), database (3)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Microsoft Products|Products]] (2)
 > **UI Navigation:** go to (5), click on (5)
 > **File Paths:** selectnewproduct.sql (2), addnewproduct.sql (1), selectblankproduct.sql (1), stateisnull.sql (1), stateisnotnull.sql (1)
 > **Env Vars:** where (4), sql (1)
@@ -957,16 +948,15 @@ created: 2026-05-02
 > **Definitions:** is a  (2), means that (1)
 > **Cross-References:** we discussed (1), go back to (1)
 
-#### Finding possible inaccurate data values
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-possible-inaccurate-data-values?u=76281980)
+#### [Finding possible inaccurate data values](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-possible-inaccurate-data-values?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-possible-inaccurate-data-values?u=76281980&t=1)** - [Presenter] Next, we'll take a look at using SQL functions to find some possible bad data values.
+> **[0:01](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-possible-inaccurate-data-values?u=76281980&t=1)** - [Presenter] Next, we'll take a look at using [[SQL]] functions to find some possible bad data values.
 >
-> **[0:07](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-possible-inaccurate-data-values?u=76281980&t=7)** Sometimes, we'll run across data that doesn't look right at all, like a misspelled word or a product that was giving the wrong product code.
+> **[0:07](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-possible-inaccurate-data-values?u=76281980&t=7)** Sometimes, we'll run across data that doesn't look right at all, like a misspelled [[Microsoft Word|word]] or a product that was giving the wrong product code.
 >
-> **[0:15](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-possible-inaccurate-data-values?u=76281980&t=15)** A great tip in application development is to search for possible anomalies in our data and be prepared for dealing with it in our app.
+> **[0:15](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-possible-inaccurate-data-values?u=76281980&t=15)** A great tip in [[Application Development]] is to search for possible anomalies in our data and be prepared for dealing with it in our app.
 >
 > **[0:24](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-possible-inaccurate-data-values?u=76281980&t=24)** There are several different operators you can use to gain more insights about your data.
 >
@@ -1022,7 +1012,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-possible-inaccurate-data-values?u=76281980&t=209)** A couple of things to note here: This is where good data documentation comes into play.
 >
-> **[3:35](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-possible-inaccurate-data-values?u=76281980&t=215)** Most databases will also come with a definition of what is in each column.
+> **[3:35](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-possible-inaccurate-data-values?u=76281980&t=215)** Most [[Databases]] will also come with a definition of what is in each column.
 >
 > **[3:39](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-possible-inaccurate-data-values?u=76281980&t=219)** It's also good to document where the data originally comes from and how it's derived if it's a calculated field.
 >
@@ -1034,18 +1024,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), product (7), [[SQL]] (5), next (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Microsoft Word|Word]] (1), [[Application Development]] (1), [[Databases]] (1)
 > **Env Vars:** sql (5)
 > **CLI Commands:** find (2)
 > **Analogies:** such as (2)
 > **Speakers:** - [presenter] (1)
 
-#### Finding duplicate rows
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-duplicate-rows?u=76281980)
+#### [Finding duplicate rows](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-duplicate-rows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-duplicate-rows?u=76281980&t=0)** - [Instructor] Let's look at some ways to use SQL to identify duplicate values in our data, as well as how to prepare a summary that will give us even more insight.
+> **[0:00](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-duplicate-rows?u=76281980&t=0)** - [Instructor] Let's look at some ways to use [[SQL]] to identify duplicate values in our data, as well as how to prepare a summary that will give us even more insight.
 >
 > **[0:09](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/finding-duplicate-rows?u=76281980&t=9)** Now let's add two new clauses.
 >
@@ -1139,7 +1128,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), data (5), next (2), application (2), database (1)
+> **Frameworks & Libraries:** [[SQL]] (5)
 > **Env Vars:** sql (5), count (5), group (4), having (4), sum (2)
 > **SQL:** group by (4), having (4), where (1)
 > **Definitions:** is a  (1), means that (1)
@@ -1152,14 +1141,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with dates
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/working-with-dates?u=76281980)
+#### [Working with dates](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/working-with-dates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/working-with-dates?u=76281980&t=0)** - Most database management systems will allow for many different data types for dates, so let's look at some different methods.
+> **[0:00](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/working-with-dates?u=76281980&t=0)** - Most [[Database Management]] systems will allow for many different data types for dates, so let's look at some different methods.
 >
-> **[0:08](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/working-with-dates?u=76281980&t=8)** In MySQL, you have DATE, DATETIME, TIMESTAMP, and YEAR.
+> **[0:08](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/working-with-dates?u=76281980&t=8)** In [[MySQL]], you have DATE, DATETIME, TIMESTAMP, and YEAR.
 >
 > **[0:13](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/working-with-dates?u=76281980&t=13)** There are lots of different options.
 >
@@ -1169,7 +1157,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/working-with-dates?u=76281980&t=26)** While the TIMESTAMP stores both the date and time that includes the hour, minute, and second of the time.
 >
-> **[0:34](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/working-with-dates?u=76281980&t=34)** With most business applications, the timestamp in SQL will be more than enough precision.
+> **[0:34](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/working-with-dates?u=76281980&t=34)** With most business applications, the timestamp in [[SQL]] will be more than enough precision.
 >
 > **[0:40](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/working-with-dates?u=76281980&t=40)** Datatypes allow the database to have different levels of precision based on the needs of the application.
 >
@@ -1223,7 +1211,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), [[SQL]] (5), data (4), management (3), [[MySQL]] (3)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Database Management]] (3), [[MySQL]] (3)
 > **Env Vars:** date (2), timestamp (2), datetime (1), year (1), yyyy (1)
 > **CLI Commands:** make (4), mysql (3)
 > **UI Navigation:** open the (4), click on (1)
@@ -1231,8 +1219,7 @@ created: 2026-05-02
 > **SQL:** timestamp (2)
 > **Speakers:** - most (1)
 
-#### Filtering data by dates
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/filtering-data-by-dates?u=76281980)
+#### [Filtering data by dates](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/filtering-data-by-dates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1246,7 +1233,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/filtering-data-by-dates?u=76281980&t=22)** Let's incorporate both logical and comparison operators and the date functions from our previous section.
 >
-> **[0:29](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/filtering-data-by-dates?u=76281980&t=29)** Let's open the ComparisonOperators.sql file.
+> **[0:29](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/filtering-data-by-dates?u=76281980&t=29)** Let's open the ComparisonOperators.[[SQL]] file.
 >
 > **[0:33](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/filtering-data-by-dates?u=76281980&t=33)** We have the following query, SELECT OrderID and CreationDate FROM Orders, where the month is equal to 5 and the year is equal to 2016.
 >
@@ -1330,7 +1317,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), data (4), database (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (6)
 > **Env Vars:** order (4), between (3), select (1), where (1), descending (1)
 > **UI Navigation:** open the (5), click on (2)
 > **SQL:** order by (4), select (1), where (1)
@@ -1343,12 +1330,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Common SQL string functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-string-functions?u=76281980)
+#### [Common SQL string functions](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-string-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-string-functions?u=76281980&t=0)** - [Instructor] Different relational database management systems offer built-in SQL functions that allow us to retrieve data for our applications.
+> **[0:00](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-string-functions?u=76281980&t=0)** - [Instructor] Different relational [[Database Management]] systems offer built-in [[SQL]] functions that allow us to retrieve data for our applications.
 >
 > **[0:07](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-string-functions?u=76281980&t=7)** This is especially helpful when working with text.
 >
@@ -1358,7 +1344,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-string-functions?u=76281980&t=32)** Some functions are specific to a data type and some functions can cross different data types.
 >
-> **[0:38](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-string-functions?u=76281980&t=38)** For example, we can use the MIN function to find the minimum total of products ordered and we can also use the minimum order date which would be the oldest date in the results.
+> **[0:38](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-string-functions?u=76281980&t=38)** For example, we can use the MIN function to find the minimum total of [[Microsoft Products|products]] ordered and we can also use the minimum order date which would be the oldest date in the results.
 >
 > **[0:50](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-string-functions?u=76281980&t=50)** However, the sum function is for adding numerical values.
 >
@@ -1424,7 +1410,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-string-functions?u=76281980&t=249)** Some derivatives of the trim function include LTRIM which is a function that can remove leading spaces from the character on the left side and the RTRIM function which will remove the trailing spaces.
 >
-> **[4:21](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-string-functions?u=76281980&t=261)** The REPLACE function will replace a set of specified characters with another set of characters similar to find and replace in excel.
+> **[4:21](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-string-functions?u=76281980&t=261)** The REPLACE function will replace a set of specified characters with another set of characters similar to find and replace in [[Microsoft Excel|excel]].
 >
 > **[4:29](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-string-functions?u=76281980&t=269)** Let's open the replace.SQL file.
 >
@@ -1436,11 +1422,11 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-string-functions?u=76281980&t=303)** Of course these are not all the string functions available to us.
 >
-> **[5:08](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-string-functions?u=76281980&t=308)** Find more useful string functions on document websites like MySQL for more string manipulation options.
+> **[5:08](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-string-functions?u=76281980&t=308)** Find more useful string functions on document websites like [[MySQL]] for more string manipulation options.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), product (6), data (5), database (3), management (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Database Management]] (1), [[Microsoft Products|Products]] (1), [[Microsoft Excel|Excel]] (1), [[MySQL]] (1)
 > **Env Vars:** sql (6), concat (4), replace (2), substring (2), min (1)
 > **Definitions:** is a  (5), is an  (1)
 > **CLI Commands:** find (3), mysql (1)
@@ -1449,12 +1435,11 @@ created: 2026-05-02
 > **UI Navigation:** open the (2)
 > **Speakers:** - [instructor] (1)
 
-#### Common SQL aggregate functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-aggregate-functions?u=76281980)
+#### [Common SQL aggregate functions](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-aggregate-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-aggregate-functions?u=76281980&t=0)** - [Instructor] Now let's look at the many mathematical functions we have available in SQL to translate our data into some meaningful information.
+> **[0:00](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-aggregate-functions?u=76281980&t=0)** - [Instructor] Now let's look at the many mathematical functions we have available in [[SQL]] to translate our data into some meaningful information.
 >
 > **[0:09](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/common-sql-aggregate-functions?u=76281980&t=9)** Some common aggregate functions include count, average, min, max, and sum.
 >
@@ -1530,7 +1515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), data (2), database (2), web (1)
+> **Frameworks & Libraries:** [[SQL]] (8)
 > **CLI Commands:** find (5), make (1)
 > **UI Navigation:** open the (3), go to (1), click on (1), scroll down (1)
 > **File Paths:** customers.sql (1), orders.sql (1), distinct.sql (1), functions.sql (1), views.sql (1)
@@ -1539,8 +1524,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to data manipulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/introduction-to-data-manipulation?u=76281980)
+#### [Introduction to data manipulation](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/introduction-to-data-manipulation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1550,7 +1534,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/introduction-to-data-manipulation?u=76281980&t=10)** As a developer, you'll also have to create processes for creating, updating, and removing data.
 >
-> **[0:16](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/introduction-to-data-manipulation?u=76281980&t=16)** This is part of the SQL language called data manipulation.
+> **[0:16](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/introduction-to-data-manipulation?u=76281980&t=16)** This is part of the [[SQL]] language called [[Data Manipulation]].
 >
 > **[0:21](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/introduction-to-data-manipulation?u=76281980&t=21)** Data manipulation language or DML allows you as a developer to change the actual values of the data that is stored within the database tables.
 >
@@ -1650,11 +1634,11 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/introduction-to-data-manipulation?u=76281980&t=309)** This is known as transact SQL and is an important part of the development process, especially when dealing with large transactions that involve cascading changes across the database.
 >
-> **[5:19](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/introduction-to-data-manipulation?u=76281980&t=319)** Transact SQL is helpful in ensuring the integrity of the database by preventing processes from continuing if an error has occurred in our data processing.
+> **[5:19](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/introduction-to-data-manipulation?u=76281980&t=319)** Transact SQL is helpful in ensuring the integrity of the database by preventing processes from continuing if an error has occurred in our [[Data Processing]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[SQL]] (9), database (8), [[Data Manipulation]] (3), business (1)
+> **Frameworks & Libraries:** [[SQL]] (9), [[Data Manipulation]] (3), [[Data Processing]] (1)
 > **Env Vars:** sql (5), dml (1), crud (1)
 > **UI Navigation:** click on (5), open the (2)
 > **File Paths:** insert.sql (1), confirm.sql (1), update.sql (1), delete.sql (1)
@@ -1668,8 +1652,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with data visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-data-visualization?u=76281980)
+#### [Getting started with data visualization](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-data-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1683,13 +1666,13 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-data-visualization?u=76281980&t=29)** Now, let's put some of our code into practice.
 >
-> **[0:32](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-data-visualization?u=76281980&t=32)** I'm going to incorporate a dashboard using Plotly, an open source graphing library for Python.
+> **[0:32](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-data-visualization?u=76281980&t=32)** I'm going to incorporate a dashboard using Plotly, an open source graphing library for [[Python (Programming Language)|Python]].
 >
 > **[0:39](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-data-visualization?u=76281980&t=39)** We'll build the dashboard using Jupyter Notebook and Python and display it on a webpage that shows how each salesperson is performing.
 >
 > **[0:47](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-data-visualization?u=76281980&t=47)** If you aren't familiar with Python, no worries.
 >
-> **[0:50](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-data-visualization?u=76281980&t=50)** Python is a programming language that can be used for lots of applications from software development to data analysis.
+> **[0:50](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-data-visualization?u=76281980&t=50)** Python is a programming language that can be used for lots of applications from [[Software Development]] to data analysis.
 >
 > **[0:58](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-data-visualization?u=76281980&t=58)** Let's start by looking at the view V orders.
 >
@@ -1737,9 +1720,9 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-data-visualization?u=76281980&t=175)** Here you can use your dropdown box to change the salesperson and you can see an order summary by salesperson here and interact with the data.
 >
-> **[3:06](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-data-visualization?u=76281980&t=186)** Many business intelligence tools will have embed capabilities or APIs that we can call to add visualizations to a website.
+> **[3:06](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-data-visualization?u=76281980&t=186)** Many [[Business Intelligence (BI)|business intelligence]] tools will have embed capabilities or APIs that we can call to add visualizations to a website.
 >
-> **[3:15](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-data-visualization?u=76281980&t=195)** Some can have cost associated with it like a Tableau or Power BI.
+> **[3:15](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-data-visualization?u=76281980&t=195)** Some can have cost associated with it like a [[Tableau]] or [[Microsoft Power BI|Power BI]].
 >
 > **[3:20](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/getting-started-with-data-visualization?u=76281980&t=200)** Plotly is open source and you can use it just like you did today in Python and Jupiter Notebook.
 >
@@ -1747,7 +1730,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), data (6), application (3), database (2), web (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Software Development]] (1), [[Business Intelligence (BI)|Business intelligence]] (1), [[Tableau]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** python (11)
 > **URLs:** [http://127.0.0.1](http://127.0.0.1) (1), [python.org](https://python.org) (1), [plotly.com](https://plotly.com) (1)
 > **Ports:** port 8050 (2)
@@ -1756,8 +1739,7 @@ created: 2026-05-02
 > **Versions:** 127.0.0 (1)
 > **Tools:** jupyter (1)
 
-#### Creating data visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/creating-data-visualization?u=76281980)
+#### [Creating data visualization](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/creating-data-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1767,7 +1749,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/creating-data-visualization?u=76281980&t=10)** This Jupiter Notebook contains the code to create a new dashboard from the V customer order summary view that contains the total sales, minimum due, maximum due and average due by state.
 >
-> **[0:22](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/creating-data-visualization?u=76281980&t=22)** Run through each step in the Jupiter notebook and note how we can incorporate SQL from this course into Python, Pandas and plot with Plotly to create a new web-based dashboard.
+> **[0:22](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/creating-data-visualization?u=76281980&t=22)** Run through each step in the Jupiter notebook and note how we can incorporate [[SQL]] from this course into [[Python (Programming Language)|Python]], [[Pandas (Software)|Pandas]] and plot with Plotly to create a new web-based dashboard.
 >
 > **[0:33](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/creating-data-visualization?u=76281980&t=33)** I've updated the header to H plus Sport Sales Dashboard, and you can also look at the Plotly documentation if you're more interested in more ways that we can format the dashboard and make it even more interactive.
 >
@@ -1777,11 +1759,11 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/creating-data-visualization?u=76281980&t=62)** We can also use the filters that we created in Plotly right here on the webpage.
 >
-> **[1:07](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/creating-data-visualization?u=76281980&t=67)** Note that I'm using Plotly and Jupiter notebooks, but you can embed a dashboard into a webpage using Power BI, Tableau, Looker and many other data visualization software systems.
+> **[1:07](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/creating-data-visualization?u=76281980&t=67)** Note that I'm using Plotly and Jupiter notebooks, but you can embed a dashboard into a webpage using [[Microsoft Power BI|Power BI]], [[Tableau]], Looker and many other data visualization software systems.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), web (2), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), power (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), [[Microsoft Power BI|Power bi]] (1), [[Tableau]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Env Vars:** sql (2)
 > **UI Navigation:** click on (1)
@@ -1793,18 +1775,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leveling up SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980)
+#### [Leveling up SQL](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980&t=0)** - We've reached the end of the course.
 >
-> **[0:02](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980&t=2)** By now, we've talked about what SQL is and how to use it.
+> **[0:02](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980&t=2)** By now, we've talked about what [[SQL]] is and how to use it.
 >
 > **[0:07](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980&t=7)** We've gone over some basic syntax to get information from a table and common functions to use that data.
 >
-> **[0:14](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980&t=14)** Then we brought it all together in a web visualization project using Python.
+> **[0:14](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980&t=14)** Then we brought it all together in a web visualization project using [[Python (Programming Language)|Python]].
 >
 > **[0:19](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980&t=19)** We've done a lot, but this is only the beginning of incorporating SQL into your data driven web applications.
 >
@@ -1812,7 +1793,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980&t=30)** If you're newer to data development, you should know that most calls to your data database occur on the backend.
 >
-> **[0:37](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980&t=37)** So if you're interested in using SQL for web development, learning more about backend or even full stack web development may be a good idea.
+> **[0:37](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980&t=37)** So if you're interested in using SQL for [[Web Development]], learning more about backend or even full stack web development may be a good idea.
 >
 > **[0:47](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980&t=47)** Also, this course was a high-level overview.
 >
@@ -1820,15 +1801,15 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980&t=62)** To do that, you should learn more about how to incorporate other more advanced CRUD operations and these can get really complex.
 >
-> **[1:11](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980&t=71)** Finally, there are a bunch of common relational databases used in web development.
+> **[1:11](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980&t=71)** Finally, there are a bunch of common [[Relational Databases]] used in web development.
 >
-> **[1:16](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980&t=76)** There's PostgreSQL, SQLite, SQL Server, and that's not even scratching the surface.
+> **[1:16](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980&t=76)** There's [[PostgreSQL]], SQLite, [[Microsoft SQL Server|SQL Server]], and that's not even scratching the surface.
 >
-> **[1:23](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980&t=83)** Good news, most of the SQL syntax is the same in various database management systems but how you apply it changes depending on the database that you're using.
+> **[1:23](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980&t=83)** Good news, most of the SQL syntax is the same in various [[Database Management]] systems but how you apply it changes depending on the database that you're using.
 >
-> **[1:33](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980&t=93)** You can check out some of our other courses on LinkedIn Learning for a deeper dive into the differences and more advanced SQL operations.
+> **[1:33](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980&t=93)** You can check out some of our other courses on [[LinkedIn]] Learning for a deeper dive into the differences and more advanced SQL operations.
 >
-> **[1:42](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980&t=102)** SQL is still incredibly relevant and useful in both software and web development, analytics and data science.
+> **[1:42](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980&t=102)** SQL is still incredibly relevant and useful in both software and web development, analytics and [[Data Science]].
 >
 > **[1:50](https://www.linkedin.com/learning/sql-for-data-analysis-22645200/leveling-up-sql?u=76281980&t=110)** Good SQL fundamentals is a must have for any developer and a great skill to add to your resume.
 >
@@ -1838,7 +1819,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), data (5), [[Web Development]] (4), web (3), database (3)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Web Development]] (4), [[Python (Programming Language)|Python]] (1), [[Relational Databases]] (1), [[PostgreSQL]] (1)
 > **Env Vars:** sql (9), crud (1)
 > **CLI Commands:** python (1)
 > **Tools:** jupyter (1)

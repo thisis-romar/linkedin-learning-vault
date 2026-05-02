@@ -90,44 +90,42 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Spring to Kubernetes
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-to-kubernetes?u=76281980)
+#### [Spring to Kubernetes](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-to-kubernetes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-to-kubernetes?u=76281980&t=0)** - [Frank] As a Java developer, Spring Boot just makes sense, but then we have to worry about running our application.
+> **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-to-kubernetes?u=76281980&t=0)** - [Frank] As a [[Java]] developer, [[Spring Boot]] just makes sense, but then we have to worry about running our application.
 >
-> **[0:08](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-to-kubernetes?u=76281980&t=8)** This course will build on your knowledge of Spring Boot, and take it to the next level using Kubernetes and associated tooling to run your app.
+> **[0:08](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-to-kubernetes?u=76281980&t=8)** This course will build on your knowledge of Spring Boot, and take it to the next level using [[Kubernetes]] and associated tooling to run your app.
 >
 > **[0:18](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-to-kubernetes?u=76281980&t=18)** Hi, I'm Frank Moley.
 >
-> **[0:20](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-to-kubernetes?u=76281980&t=20)** Join me in this course, Spring on Kubernetes, Deploying and Managing Cloud-Native Applications.
+> **[0:20](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-to-kubernetes?u=76281980&t=20)** Join me in this course, Spring on Kubernetes, Deploying and Managing [[Cloud-Native Applications]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (2), [[Kubernetes]] (2), [[Java]] (1), application (1), next (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (2), [[Kubernetes]] (2), [[Java]] (1), [[Cloud-Native Applications]] (1)
 > **Speakers:** - [frank] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/what-you-need-to-know?u=76281980&t=0)** - [Instructor] In order to be successful in this course, there is some prerequisite knowledge you need to have.
 >
-> **[0:06](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/what-you-need-to-know?u=76281980&t=6)** This course relies on Spring Boot as a development framework.
+> **[0:06](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/what-you-need-to-know?u=76281980&t=6)** This course relies on [[Spring Boot]] as a development framework.
 >
-> **[0:11](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/what-you-need-to-know?u=76281980&t=11)** It is expected that you understand and have working knowledge of the Spring Framework as a whole.
+> **[0:11](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/what-you-need-to-know?u=76281980&t=11)** It is expected that you understand and have working knowledge of the [[Spring Framework]] as a whole.
 >
 > **[0:17](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/what-you-need-to-know?u=76281980&t=17)** Our focus is more around the ecosystem of running apps built with Spring, so our time spent in the Spring Framework is minimal.
 >
 > **[0:26](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/what-you-need-to-know?u=76281980&t=26)** We will also be leveraging Spring Boot for our application, so understanding it is critical, as well.
 >
-> **[0:32](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/what-you-need-to-know?u=76281980&t=32)** If you need a refresher on either Spring Framework or Spring Boot, check out my course [[Learning Spring 6 With Spring Boot]] 3 here in the LinkedIn Learning library.
+> **[0:32](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/what-you-need-to-know?u=76281980&t=32)** If you need a refresher on either Spring Framework or Spring Boot, check out my course [[Learning Spring 6 With Spring Boot]] 3 here in the [[LinkedIn]] Learning library.
 >
-> **[0:45](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/what-you-need-to-know?u=76281980&t=45)** We'll be using Java to build our Spring-based application, so understanding it is critical, as well.
+> **[0:45](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/what-you-need-to-know?u=76281980&t=45)** We'll be using [[Java]] to build our Spring-based application, so understanding it is critical, as well.
 >
-> **[0:52](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/what-you-need-to-know?u=76281980&t=52)** We will be building on Kubernetes, a container orchestration engine, so containers are at the heart of this course.
+> **[0:52](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/what-you-need-to-know?u=76281980&t=52)** We will be building on [[Kubernetes]], a container orchestration engine, so containers are at the heart of this course.
 >
 > **[1:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/what-you-need-to-know?u=76281980&t=60)** You should really understand what containers are and why we use them.
 >
@@ -139,7 +137,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/what-you-need-to-know?u=76281980&t=86)** The process and operations work make up a big part of the work of being a professional software developer.
 >
-> **[1:34](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/what-you-need-to-know?u=76281980&t=94)** Continuous integration and continuous delivery is an important aspect of modern development.
+> **[1:34](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/what-you-need-to-know?u=76281980&t=94)** [[Continuous Integration (CI)|Continuous integration]] and [[Continuous Delivery (CD)|continuous delivery]] is an important aspect of modern development.
 >
 > **[1:40](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/what-you-need-to-know?u=76281980&t=100)** You should at least be exposed to the concept and benefits of CI/CD.
 >
@@ -153,22 +151,21 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/what-you-need-to-know?u=76281980&t=138)** But to really grasp the value of it is eye-opening.
 >
-> **[2:23](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/what-you-need-to-know?u=76281980&t=143)** To capture part of that value, you should be exposed at least at a high level to operations and the benefits, as well as processes around them for software development shops.
+> **[2:23](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/what-you-need-to-know?u=76281980&t=143)** To capture part of that value, you should be exposed at least at a high level to operations and the benefits, as well as processes around them for [[Software Development]] shops.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (4), [[Spring Framework]] (3), application (2), [[Kubernetes]] (2), [[Automation]] (2)
+> **Frameworks & Libraries:** [[Spring Boot]] (4), [[Spring Framework]] (3), [[Kubernetes]] (2), [[LinkedIn]] (1), [[Java]] (1)
 > **CLI Commands:** make (1), cd (1)
 > **Prerequisites:** prerequisite (1), you need to have (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up the Codespaces environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/setting-up-the-codespaces-environment?u=76281980)
+#### [Setting up the Codespaces environment](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/setting-up-the-codespaces-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/setting-up-the-codespaces-environment?u=76281980&t=0)** - [Instructor] Now we will prepare our GitHub Code Spaces development environment.
+> **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/setting-up-the-codespaces-environment?u=76281980&t=0)** - [Instructor] Now we will prepare our [[GitHub]] Code Spaces development environment.
 >
 > **[0:05](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/setting-up-the-codespaces-environment?u=76281980&t=5)** If you haven't already done so, go ahead and start up the Code Spaces development environment, and you should be presented with an IDE that looks like this.
 >
@@ -182,7 +179,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/setting-up-the-codespaces-environment?u=76281980&t=52)** Now we start with kind.
 >
-> **[0:55](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/setting-up-the-codespaces-environment?u=76281980&t=55)** Kind is a test environment for Kubernetes that is a really great development tool because it allows us to do development with a single node cluster in a Docker container on our machine, and that's what kind is, is Kubernetes in Docker.
+> **[0:55](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/setting-up-the-codespaces-environment?u=76281980&t=55)** Kind is a test environment for [[Kubernetes]] that is a really great development tool because it allows us to do development with a single node cluster in a Docker container on our machine, and that's what kind is, is Kubernetes in Docker.
 >
 > **[1:10](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/setting-up-the-codespaces-environment?u=76281980&t=70)** I have provided some basic configuration in the config.yaml and a deploy script that does nothing but call kind create cluster.
 >
@@ -202,7 +199,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/setting-up-the-codespaces-environment?u=76281980&t=144)** But these are being installed in the environment.
 >
-> **[2:27](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/setting-up-the-codespaces-environment?u=76281980&t=147)** Now, the last thing that we're actually setting up is a Postgres database.
+> **[2:27](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/setting-up-the-codespaces-environment?u=76281980&t=147)** Now, the last thing that we're actually setting up is a [[PostgreSQL|Postgres]] database.
 >
 > **[2:32](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/setting-up-the-codespaces-environment?u=76281980&t=152)** We're going to set this Postgres database up in the cluster and then create a database from the operator.
 >
@@ -252,7 +249,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (11), database (5), data (4), [[GitHub]] (2), next (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (11), [[GitHub]] (2), [[PostgreSQL|Postgres]] (2)
 > **CLI Commands:** docker (6), nginx (3), node (1)
 > **Definitions:** is a  (5), is called (1), is an  (1)
 > **Tools:** terminal (3), github (2), command line (1)
@@ -261,8 +258,7 @@ created: 2026-05-02
 > **Env Vars:** ide (2)
 > **Analogies:** similar to (1)
 
-#### Developer workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/developer-workflows?u=76281980)
+#### [Developer workflows](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/developer-workflows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -294,7 +290,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/developer-workflows?u=76281980&t=85)** The ability to run your system locally lets you step through various services and tools when you debug.
 >
-> **[1:33](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/developer-workflows?u=76281980&t=93)** It allows you to have local access to databases that otherwise may require jump boxes and cloud environments or even VPNs.
+> **[1:33](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/developer-workflows?u=76281980&t=93)** It allows you to have local access to [[Databases]] that otherwise may require jump boxes and cloud environments or even VPNs.
 >
 > **[1:41](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/developer-workflows?u=76281980&t=101)** This pattern just makes your life easier.
 >
@@ -308,13 +304,13 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/developer-workflows?u=76281980&t=143)** You even can test your observability and ensure that you are instrumenting your code correctly before you submit that PR, so that this type of work can be part of that PR itself.
 >
-> **[2:37](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/developer-workflows?u=76281980&t=157)** So while I've set this up for this course, it's an example of what you can do as a modern cloud native developer, even if you're not using Spring Java.
+> **[2:37](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/developer-workflows?u=76281980&t=157)** So while I've set this up for this course, it's an example of what you can do as a modern cloud native developer, even if you're not using Spring [[Java]].
 >
-> **[2:48](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/developer-workflows?u=76281980&t=168)** Just using Kubernetes, you get this power to build lots of systems that you can just run.
+> **[2:48](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/developer-workflows?u=76281980&t=168)** Just using [[Kubernetes]], you get this power to build lots of systems that you can just run.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), ci (2), power (2), [[Databases]] (1), cd (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Java]] (1), [[Kubernetes]] (1)
 > **CLI Commands:** find (1), cd (1)
 > **Prerequisites:** setup (2)
 > **Env Vars:** ram (1)
@@ -327,22 +323,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud native applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980)
+#### [Cloud native applications](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980&t=0)** - [Instructor] Cloud native application development patterns, also called 12- or 15-factor applications are a set of patterns that have arisen with cloud computing.
+> **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980&t=0)** - [Instructor] Cloud native [[Application Development]] patterns, also called 12- or 15-factor applications are a set of patterns that have arisen with [[Cloud Computing]].
 >
-> **[0:11](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980&t=11)** Before we get into the considerations that exist for applications targeting Kubernetes, let's give some of the general thoughts around 12-factor and 15-factor applications.
+> **[0:11](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980&t=11)** Before we get into the considerations that exist for applications targeting [[Kubernetes]], let's give some of the general thoughts around 12-factor and 15-factor applications.
 >
 > **[0:21](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980&t=21)** Now, I believe all of the factors are important from a system perspective.
 >
 > **[0:25](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980&t=25)** I want to focus on the details within the scope of this course.
 >
-> **[0:29](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980&t=29)** If you want a more in-depth conversation on cloud native applications, check out my course here in the LinkedIn Learning Library on 12- and 15-factor applications.
+> **[0:29](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980&t=29)** If you want a more in-depth conversation on cloud native applications, check out my course here in the [[LinkedIn]] Learning Library on 12- and 15-factor applications.
 >
-> **[0:39](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980&t=39)** The concept of a single application running in a single process is critical to cloud native applications, especially in languages like Java.
+> **[0:39](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980&t=39)** The concept of a single application running in a single process is critical to cloud native applications, especially in languages like [[Java]].
 >
 > **[0:48](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980&t=48)** The application server was the process, and our apps were hidden behind that, often running many apps in that single app server process.
 >
@@ -366,7 +361,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980&t=127)** So maintaining state and sessions in the application itself would be counterproductive to say the least.
 >
-> **[2:14](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980&t=134)** Because of the ephemeral nature of cloud infrastructure, the reality is nodes die all the time.
+> **[2:14](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980&t=134)** Because of the ephemeral nature of [[Cloud Infrastructure]], the reality is nodes die all the time.
 >
 > **[2:21](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980&t=141)** Having applications that start up rapidly and handle termination gracefully, added to the concurrency mentioned above, will provide us a highly available system.
 >
@@ -400,7 +395,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980&t=255)** Or you can do what I will show you, which is to leverage standard environment variables and their naming conventions and then port them to Spring properties in your application.properties file.
 >
-> **[4:27](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980&t=267)** Logging is another area you have to consider because most log shippers we leverage with Kubernetes-based run times work best with JSON formatted logs.
+> **[4:27](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980&t=267)** Logging is another area you have to consider because most log shippers we leverage with Kubernetes-based run times work best with [[JSON]] formatted logs.
 >
 > **[4:38](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980&t=278)** This is an easy aspect to solve with Spring, but it's something you have to consider early on in your development processes.
 >
@@ -424,11 +419,11 @@ created: 2026-05-02
 >
 > **[5:54](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980&t=354)** When building applications for Kubernetes, I subscribe to the 15-factor thought that authentication should be validated at ingress and authorization validated throughout.
 >
-> **[6:05](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980&t=365)** We aren't going to get into this area much in this course, but I have a course here in the LinkedIn Learning Library on Spring security that you can leverage.
+> **[6:05](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/cloud-native-applications?u=76281980&t=365)** We aren't going to get into this area much in this course, but I have a course here in the LinkedIn Learning Library on [[Spring Security]] that you can leverage.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), cloud (8), [[Kubernetes]] (7), [[LinkedIn]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (7), [[LinkedIn]] (2), [[Cloud Computing]] (1), [[Java]] (1), [[Cloud Infrastructure]] (1)
 > **Env Vars:** cicd (1), jvm (1), json (1)
 > **CLI Commands:** docker (1), make (1)
 > **Definitions:** is an  (1)
@@ -437,14 +432,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Creating the application
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/creating-the-application?u=76281980)
+#### [Creating the application](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/creating-the-application?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/creating-the-application?u=76281980&t=0)** - [Instructor] As with any Spring Boot application, we start with the Spring Boot Initializer.
+> **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/creating-the-application?u=76281980&t=0)** - [Instructor] As with any [[Spring Boot]] application, we start with the Spring Boot Initializer.
 >
-> **[0:06](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/creating-the-application?u=76281980&t=6)** We have a VS Code plugin in Codespaces, so let's walk through the application creation process.
+> **[0:06](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/creating-the-application?u=76281980&t=6)** We have a VS Code plugin in [[Codespaces]], so let's walk through the application creation process.
 >
 > **[0:12](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/creating-the-application?u=76281980&t=12)** The first thing I want you to do is to go to the Command Palette.
 >
@@ -452,7 +446,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/creating-the-application?u=76281980&t=26)** Now we're going to select the latest released version of Spring Boot.
 >
-> **[0:30](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/creating-the-application?u=76281980&t=30)** We're going to pick Java as our language.
+> **[0:30](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/creating-the-application?u=76281980&t=30)** We're going to pick [[Java]] as our language.
 >
 > **[0:33](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/creating-the-application?u=76281980&t=33)** Now here I'm going to put in a group name, and I'm going to use my domain com.frankmoley, and I'm going to put in lil.
 >
@@ -466,9 +460,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/creating-the-application?u=76281980&t=59)** So the first one we're going to choose is Spring Web.
 >
-> **[1:03](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/creating-the-application?u=76281980&t=63)** Then we're going to pick JPA, which is Spring Data JPA.
+> **[1:03](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/creating-the-application?u=76281980&t=63)** Then we're going to pick JPA, which is [[Spring Data]] JPA.
 >
-> **[1:07](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/creating-the-application?u=76281980&t=67)** We're going to use Postgres.
+> **[1:07](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/creating-the-application?u=76281980&t=67)** We're going to use [[PostgreSQL|Postgres]].
 >
 > **[1:08](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/creating-the-application?u=76281980&t=68)** So let's bring in the PostgresSQL driver.
 >
@@ -518,7 +512,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Spring Boot]] (3), [[Java]] (3), next (2), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (3), [[Java]] (3), [[Codespaces]] (1), [[Spring Data]] (1), [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** jpa (2), lts (1)
 > **Prerequisites:** set up (2), setup (1)
 > **UI Navigation:** go to (1), select the (1)
@@ -527,8 +521,7 @@ created: 2026-05-02
 > **Versions:** java 21 (1)
 > **Cross-References:** in the next (1)
 
-#### Preparing data access
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/preparing-data-access?u=76281980)
+#### [Preparing data access](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/preparing-data-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -572,9 +565,9 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/preparing-data-access?u=76281980&t=110)** and we're going to set that equal to wisdom to match our schema for our database.
 >
-> **[1:56](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/preparing-data-access?u=76281980&t=116)** We'll do a spring.data.jdbc.dialect.
+> **[1:56](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/preparing-data-access?u=76281980&t=116)** We'll do a spring.data.[[Java Database Connectivity (JDBC)|jdbc]].dialect.
 >
-> **[2:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/preparing-data-access?u=76281980&t=120)** We'll set that equal to postgres.
+> **[2:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/preparing-data-access?u=76281980&t=120)** We'll set that equal to [[PostgreSQL|postgres]].
 >
 > **[2:04](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/preparing-data-access?u=76281980&t=124)** Now we're going to set up a couple more things on our data source.
 >
@@ -602,7 +595,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/preparing-data-access?u=76281980&t=196)** Now I like to keep things sort of structured in here.
 >
-> **[3:18](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/preparing-data-access?u=76281980&t=198)** So now we're going to do our spring data source URL, and we're going to set this equal to jdbc.postgresql//.
+> **[3:18](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/preparing-data-access?u=76281980&t=198)** So now we're going to do our [[Spring Data]] source URL, and we're going to set this equal to jdbc.[[PostgreSQL]]//.
 >
 > **[3:31](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/preparing-data-access?u=76281980&t=211)** Now, normally you would type in your host value, your port, and your database name, but we're going to inject that from the environment, so we're going to do a dollar sign, curly brace, DB under host colon, dollar sign, curly brace, DB_PORT,
 >
@@ -626,7 +619,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/preparing-data-access?u=76281980&t=292)** So let's do that.
 >
-> **[4:54](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/preparing-data-access?u=76281980&t=294)** Let's go to the run and create a launch file for Java, and you will see we have one for the Wisdom API application already, because the plugin built that.
+> **[4:54](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/preparing-data-access?u=76281980&t=294)** Let's go to the run and create a launch file for [[Java]], and you will see we have one for the Wisdom API application already, because the plugin built that.
 >
 > **[5:05](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/preparing-data-access?u=76281980&t=305)** So all we need to do now is do our environment and we will do our environment in a very straightforward way.
 >
@@ -652,7 +645,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), application (6), database (5), api (3), [[Java Database Connectivity (JDBC)|Jdbc]] (2)
+> **Frameworks & Libraries:** [[Java Database Connectivity (JDBC)|Jdbc]] (2), [[PostgreSQL|Postgres]] (1), [[Spring Data]] (1), [[PostgreSQL]] (1), [[Java]] (1)
 > **Env Vars:** api (3), db_name (3), db_port (2), db_username (2), db_password (2)
 > **UI Navigation:** go to (2), select the (1), navigate to (1)
 > **Prerequisites:** set up (4)
@@ -661,8 +654,7 @@ created: 2026-05-02
 > **Ports:** port 8080 (1)
 > **Cross-References:** go back to (1)
 
-#### Building data access
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-data-access?u=76281980)
+#### [Building data access](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-data-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -670,11 +662,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-data-access?u=76281980&t=4)** So, open up Wisdom API.
 >
-> **[0:06](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-data-access?u=76281980&t=6)** Go to Source, Main, Java, and under the Wisdom package we want to create a new Java package, and it's going to be data.entity.
+> **[0:06](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-data-access?u=76281980&t=6)** Go to Source, Main, [[Java]], and under the Wisdom package we want to create a new Java package, and it's going to be data.entity.
 >
 > **[0:19](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-data-access?u=76281980&t=19)** Under the Entity package, we will create a new Java file and this is going to be a class, and we will call this Customer.
 >
-> **[0:29](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-data-access?u=76281980&t=29)** Now, you can look at what we are going to populate by going to the data.sql, going to the customers table, and you will see that there are several values here.
+> **[0:29](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-data-access?u=76281980&t=29)** Now, you can look at what we are going to populate by going to the data.[[SQL]], going to the customers table, and you will see that there are several values here.
 >
 > **[0:38](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-data-access?u=76281980&t=38)** There's actually six.
 >
@@ -712,7 +704,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Java]] (4), api (1), [[SQL]] (1), application (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[SQL]] (1)
 > **Env Vars:** uuid (4), api (1), jpa (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** customerid (1), firstname (1), lastname (1), findbyemail (1)
@@ -721,14 +713,13 @@ created: 2026-05-02
 > **File Paths:** data.sql (1)
 > **Cross-References:** next video (1)
 
-#### Exposing as a webservice
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/exposing-as-a-webservice?u=76281980)
+#### [Exposing as a webservice](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/exposing-as-a-webservice?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/exposing-as-a-webservice?u=76281980&t=0)** - [Instructor] Now we're going to build out a web service to consume our data access so we can expose them and test this through our IDE.
 >
-> **[0:08](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/exposing-as-a-webservice?u=76281980&t=8)** So I want you to jump into your IDE and the first thing that we're going to do is open up our Wisdom API application, go to src/main/java, as we've done before, and we're going to create a new package.
+> **[0:08](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/exposing-as-a-webservice?u=76281980&t=8)** So I want you to jump into your IDE and the first thing that we're going to do is open up our Wisdom API application, go to src/main/[[Java]], as we've done before, and we're going to create a new package.
 >
 > **[0:21](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/exposing-as-a-webservice?u=76281980&t=21)** And after wisdom, it will simply be web.
 >
@@ -790,7 +781,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), application (2), [[Java]] (2), data (1), api (1)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Code Identifiers:** getallcustomers (1), haslength (1), ispresent (1), customerrepository (1), findall (1)
 > **Env Vars:** ide (2), api (1)
 > **Ports:** :8080 (2)
@@ -799,8 +790,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Cloud Native Spring
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/challenge-cloud-native-spring?u=76281980)
+#### [Challenge: Cloud Native Spring](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/challenge-cloud-native-spring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -808,7 +798,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/challenge-cloud-native-spring?u=76281980&t=11)** Here's the instructions that I'd like you to follow.
 >
-> **[0:13](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/challenge-cloud-native-spring?u=76281980&t=13)** The first thing that I want you to do is to build out entities for vendors, services, and products.
+> **[0:13](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/challenge-cloud-native-spring?u=76281980&t=13)** The first thing that I want you to do is to build out entities for vendors, services, and [[Microsoft Products|products]].
 >
 > **[0:19](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/challenge-cloud-native-spring?u=76281980&t=19)** Remember, in the DAT folder, you have the schema that we applied to the database.
 >
@@ -834,7 +824,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** getall (2), getone (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** dat (1)
@@ -842,8 +832,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Cloud Native Spring
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/solution-cloud-native-spring?u=76281980)
+#### [Solution: Cloud Native Spring](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/solution-cloud-native-spring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -853,7 +842,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/solution-cloud-native-spring?u=76281980&t=10)** I'm going to start by showing you how I handled the exceptions.
 >
-> **[0:15](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/solution-cloud-native-spring?u=76281980&t=15)** So, in Source, Main, Java in the util, I created two exceptions.
+> **[0:15](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/solution-cloud-native-spring?u=76281980&t=15)** So, in Source, Main, [[Java]] in the util, I created two exceptions.
 >
 > **[0:20](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/solution-cloud-native-spring?u=76281980&t=20)** One is for the bad request.
 >
@@ -883,7 +872,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/solution-cloud-native-spring?u=76281980&t=121)** And real quick, we can run these, and I will expand this out to make it easier to read.
 >
-> **[2:12](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/solution-cloud-native-spring?u=76281980&t=132)** And you can see I can do an http on products, do the same on services,
+> **[2:12](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/solution-cloud-native-spring?u=76281980&t=132)** And you can see I can do an http on [[Microsoft Products|products]], do the same on services,
 >
 > **[2:25](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/solution-cloud-native-spring?u=76281980&t=145)** and then do the same on vendors, and then we can play with them from there.
 >
@@ -915,7 +904,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Java]] (1), data (1), [[Microsoft Products|Products]] (1), web (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** findbyname (2), findbyemail (1), getbyid (1), deletebyid (1)
 > **Env Vars:** reset_content (1), post (1), put (1), delete (1)
 > **API Endpoints:** post
@@ -926,8 +915,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logging with Spring
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/logging-with-spring?u=76281980)
+#### [Logging with Spring](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/logging-with-spring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -935,7 +923,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/logging-with-spring?u=76281980&t=4)** It's just how we do things.
 >
-> **[0:06](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/logging-with-spring?u=76281980&t=6)** There are some special considerations you need to take however with Spring Boot to ensure that your logs are structured properly when you're targeting a Kubernetes-type deployment.
+> **[0:06](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/logging-with-spring?u=76281980&t=6)** There are some special considerations you need to take however with [[Spring Boot]] to ensure that your logs are structured properly when you're targeting a [[Kubernetes]]-type deployment.
 >
 > **[0:18](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/logging-with-spring?u=76281980&t=18)** The first thing that I want you to do is open up wisdom-api, and let's go to our pom file.
 >
@@ -993,7 +981,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/logging-with-spring?u=76281980&t=255)** We'll stop our application, and we will run it again.
 >
-> **[4:21](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/logging-with-spring?u=76281980&t=261)** You'll see now that we're getting our log output in JSON format.
+> **[4:21](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/logging-with-spring?u=76281980&t=261)** You'll see now that we're getting our log output in [[JSON]] format.
 >
 > **[4:24](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/logging-with-spring?u=76281980&t=264)** Now, the reason this is important is when we are doing log streaming in a Kubernetes environment everything gets dumped to standard out from every application.
 >
@@ -1009,7 +997,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[JSON]] (3), [[Spring Boot]] (2), [[Kubernetes]] (2), api (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[Spring Boot]] (2), [[Kubernetes]] (2)
 > **Env Vars:** json (3), xml (2), info (1), spring_profiles_active (1), ide (1)
 > **Code Identifiers:** springprofile (2), jsonconsoleappender (2), artifactid (1)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -1018,8 +1006,7 @@ created: 2026-05-02
 > **Versions:** 7.3 (1)
 > **Tools:** terminal (1)
 
-#### Metrics with Spring
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/metrics-with-spring?u=76281980)
+#### [Metrics with Spring](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/metrics-with-spring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1027,7 +1014,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/metrics-with-spring?u=76281980&t=5)** While traditionally, an aspecting approach would've been my first option, with the advent of native images, we are limited to no longer favoring aspecting.
 >
-> **[0:15](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/metrics-with-spring?u=76281980&t=15)** So let me show you a way to implement Metrics in a Spring Boot application.
+> **[0:15](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/metrics-with-spring?u=76281980&t=15)** So let me show you a way to implement Metrics in a [[Spring Boot]] application.
 >
 > **[0:19](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/metrics-with-spring?u=76281980&t=19)** The first thing I want you to do is to open up the app and go to src, main, resources, and go to the application.properties file.
 >
@@ -1035,7 +1022,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/metrics-with-spring?u=76281980&t=36)** Now, we won't be using Prometheus right now, we're going to use that later on.
 >
-> **[0:41](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/metrics-with-spring?u=76281980&t=41)** Go ahead and open up src, main, java, and the root application class.
+> **[0:41](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/metrics-with-spring?u=76281980&t=41)** Go ahead and open up src, main, [[Java]], and the root application class.
 >
 > **[0:46](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/metrics-with-spring?u=76281980&t=46)** And we're going to add a new bean.
 >
@@ -1045,7 +1032,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/metrics-with-spring?u=76281980&t=66)** Now we're going to pass into that an @Value.
 >
-> **[1:09](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/metrics-with-spring?u=76281980&t=69)** Make sure you choose the Spring Framework version, and we're going to grab that from the application, a properties file.
+> **[1:09](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/metrics-with-spring?u=76281980&t=69)** Make sure you choose the [[Spring Framework]] version, and we're going to grab that from the application, a properties file.
 >
 > **[1:18](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/metrics-with-spring?u=76281980&t=78)** So we are going to do a dollar sign, curly brace, and the name of this property is spring.application.name.
 >
@@ -1069,7 +1056,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/metrics-with-spring?u=76281980&t=159)** We're going to do a private static final String, GET_ALL_CUSTOMERS, and as you might imagine, that's going to be equal to getAllCustomers.
 >
-> **[2:52](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/metrics-with-spring?u=76281980&t=172)** And we're going to do the same here for the rest of the methods in our class.
+> **[2:52](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/metrics-with-spring?u=76281980&t=172)** And we're going to do the same here for the [[Representational State Transfer (REST)|rest]] of the methods in our class.
 >
 > **[2:58](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/metrics-with-spring?u=76281980&t=178)** So now you see we have an error here on our constructor, but before we can do anything, we need to inject into it our registry.
 >
@@ -1133,7 +1120,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[Spring Boot]] (1), [[Java]] (1), [[Spring Framework]] (1), web (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (1), [[Java]] (1), [[Spring Framework]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** timermap (5), getallcustomers (3), metricscommontags (1), appname (1), commontags (1)
 > **Env Vars:** get_all_customers (4)
 > **UI Navigation:** go to (4)
@@ -1147,12 +1134,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Containerized workloads
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/containerized-workloads?u=76281980)
+#### [Containerized workloads](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/containerized-workloads?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/containerized-workloads?u=76281980&t=0)** - [Instructor] Kubernetes is an orchestration engine, and as such, we need to discuss a little bit about containerized workloads as that's what Kubernetes orchestrates.
+> **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/containerized-workloads?u=76281980&t=0)** - [Instructor] [[Kubernetes]] is an orchestration engine, and as such, we need to discuss a little bit about containerized workloads as that's what Kubernetes orchestrates.
 >
 > **[0:12](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/containerized-workloads?u=76281980&t=12)** Let's start with a brief history of containerization because this may be shocking to some of you.
 >
@@ -1162,7 +1148,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/containerized-workloads?u=76281980&t=36)** In 1979, chroot was introduced in Unix 7, making the first major jump into the world of container and process isolation, even though containerization as a concept in sandboxing had been around since the '60s.
 >
-> **[0:55](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/containerized-workloads?u=76281980&t=55)** Several advancements continued through the years, especially in namespaces, and then in 2008, we had the introduction of Linux Containers or LXC.
+> **[0:55](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/containerized-workloads?u=76281980&t=55)** Several advancements continued through the years, especially in namespaces, and then in 2008, we had the introduction of [[Linux]] Containers or LXC.
 >
 > **[1:05](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/containerized-workloads?u=76281980&t=65)** This was really the first complete thought in Linux containers, leveraging both cgroups and namespaces running on a single kernel without patches.
 >
@@ -1204,18 +1190,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (3), [[Containerization]] (3), [[Linux]] (2), application (2), cloud (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (3), [[Linux]] (2)
 > **CLI Commands:** docker (4)
 > **Env Vars:** lxc (3), cncf (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Spring Docker plugin
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-docker-plugin?u=76281980)
+#### [Spring Docker plugin](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-docker-plugin?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-docker-plugin?u=76281980&t=0)** - [Instructor] Spring Boot provides an easy way to build a Docker image.
+> **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-docker-plugin?u=76281980&t=0)** - [Instructor] [[Spring Boot]] provides an easy way to build a Docker image.
 >
 > **[0:03](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-docker-plugin?u=76281980&t=3)** While it is not my preferred way of building images, it is a mechanism that you can use if you want, so I'm going to go ahead and show it to you.
 >
@@ -1223,7 +1208,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-docker-plugin?u=76281980&t=17)** Since we haven't really addressed the testing scenarios you need to deal with, and we know running this app requires environment variables, let's just delete the test since it's really outside the scope of this course.
 >
-> **[0:30](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-docker-plugin?u=76281980&t=30)** So, go to Source, Test, Java, and you'll see that test that comes for free with Spring Boot, and let's just delete that file.
+> **[0:30](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-docker-plugin?u=76281980&t=30)** So, go to Source, Test, [[Java]], and you'll see that test that comes for free with Spring Boot, and let's just delete that file.
 >
 > **[0:41](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-docker-plugin?u=76281980&t=41)** Now, as I've just deleted that, it obviously would've been better for us to spend time and write tests that actually worked.
 >
@@ -1247,7 +1232,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (3), [[Java]] (1), api (1), application (1), next (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (3), [[Java]] (1)
 > **CLI Commands:** docker (4)
 > **Env Vars:** build (1), success (1), api (1), palm (1)
 > **URLs:** [docker.io](https://docker.io) (1)
@@ -1256,8 +1241,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Tools:** terminal (1)
 
-#### Building a custom Docker image
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-custom-docker-image?u=76281980)
+#### [Building a custom Docker image](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-custom-docker-image?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1267,7 +1251,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-custom-docker-image?u=76281980&t=8)** I advocate for companies to maintain their own base images, and only inherit from those base images so they can control the entire lifecycle.
 >
-> **[0:18](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-custom-docker-image?u=76281980&t=18)** Let me show you how I would build a Docker image for a Spring Boot application.
+> **[0:18](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-custom-docker-image?u=76281980&t=18)** Let me show you how I would build a Docker image for a [[Spring Boot]] application.
 >
 > **[0:23](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-custom-docker-image?u=76281980&t=23)** Okay, I want you to open up the wisdom-api, and we are going to create a new file and we will simply call this Dockerfile.
 >
@@ -1297,7 +1281,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-custom-docker-image?u=76281980&t=137)** Now I do it this way so that as the version of my app increases, I don't need to worry about that in my actual Docker file.
 >
-> **[2:25](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-custom-docker-image?u=76281980&t=145)** Now at this point we can simply do a command, and we put that in brackets, and it's going to be java, and then -jar, and then /deploy/app.jar.
+> **[2:25](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-custom-docker-image?u=76281980&t=145)** Now at this point we can simply do a command, and we put that in brackets, and it's going to be [[Java]], and then -jar, and then /deploy/app.jar.
 >
 > **[2:43](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-custom-docker-image?u=76281980&t=163)** And that's all there is.
 >
@@ -1345,13 +1329,13 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-custom-docker-image?u=76281980&t=295)** We'll create a new file called env.list.
 >
-> **[4:59](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-custom-docker-image?u=76281980&t=299)** Now this file will never go into version control and there's a reason for that.
+> **[4:59](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-custom-docker-image?u=76281980&t=299)** Now this file will never go into [[Version Control]] and there's a reason for that.
 >
 > **[5:03](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-custom-docker-image?u=76281980&t=303)** We don't normally put secrets in version control.
 >
 > **[5:06](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-custom-docker-image?u=76281980&t=306)** That being said, we have other instances in this of our database secrets, but that's okay.
 >
-> **[5:11](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-custom-docker-image?u=76281980&t=311)** So let's go to our launch.json, and we're actually going to grab all of these fields, and we're going to put 'em into our env.list and then restructure them.
+> **[5:11](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-custom-docker-image?u=76281980&t=311)** So let's go to our launch.[[JSON]], and we're actually going to grab all of these fields, and we're going to put 'em into our env.list and then restructure them.
 >
 > **[5:25](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-custom-docker-image?u=76281980&t=325)** And to do that, we simply replace all of this with an equal sign, and then we will get rid of all of these values,
 >
@@ -1381,7 +1365,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), application (3), api (3), [[Spring Boot]] (2), [[Version Control]] (2)
+> **Frameworks & Libraries:** [[Spring Boot]] (2), [[Version Control]] (2), [[Java]] (1), [[JSON]] (1)
 > **CLI Commands:** docker (10), mkdir (2), make (2), mvn (1), node (1)
 > **Env Vars:** jdk (4), jre (3), run (2), workdir (1), copy (1)
 > **Versions:** 0.0.1 (2), 3.9.8 (1), 21.0.4 (1)
@@ -1390,8 +1374,7 @@ created: 2026-05-02
 > **Tools:** terminal (2)
 > **UI Navigation:** go to (1)
 
-#### Uploading to a container registry
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/uploading-to-container-registry?u=76281980)
+#### [Uploading to a container registry](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/uploading-to-container-registry?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1419,23 +1402,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1), node (1)
 > **CLI Commands:** docker (2), node (1)
 > **Versions:** 0.0.1 (1)
 > **Tools:** terminal (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Spring Native images
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-native-images?u=76281980)
+#### [Spring Native images](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-native-images?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-native-images?u=76281980&t=0)** - [Presenter] With the introduction of GraalVM, we are starting to see a shift to the creation of native images with Java.
+> **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-native-images?u=76281980&t=0)** - [Presenter] With the introduction of GraalVM, we are starting to see a shift to the creation of native images with [[Java]].
 >
 > **[0:07](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-native-images?u=76281980&t=7)** And while building such an image here doesn't have a lot of value, discussing it does.
 >
-> **[0:13](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-native-images?u=76281980&t=13)** If you want to know more about GraalVM, I have a course on it here on the LinkedIn Learning library.
+> **[0:13](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-native-images?u=76281980&t=13)** If you want to know more about GraalVM, I have a course on it here on the [[LinkedIn]] Learning library.
 >
 > **[0:19](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-native-images?u=76281980&t=19)** The first question is always why?
 >
@@ -1461,7 +1442,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-native-images?u=76281980&t=66)** Then comes one of the biggest benefits: efficiencies.
 >
-> **[1:10](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-native-images?u=76281980&t=70)** Native Java images are more efficient in their use of both CPU and memory, yielding a higher pod density for a Kubernetes node.
+> **[1:10](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-native-images?u=76281980&t=70)** Native Java images are more efficient in their use of both CPU and memory, yielding a higher pod density for a [[Kubernetes]] node.
 >
 > **[1:23](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-native-images?u=76281980&t=83)** If I can run an application with a smaller footprint, I can do more with the machine by packing more processes onto it, saving me money.
 >
@@ -1493,15 +1474,15 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-native-images?u=76281980&t=182)** But it isn't what we get with the JVM, even if you do pay.
 >
-> **[3:08](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-native-images?u=76281980&t=188)** So Spring Boot itself does offer support for native images.
+> **[3:08](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-native-images?u=76281980&t=188)** So [[Spring Boot]] itself does offer support for native images.
 >
 > **[3:13](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-native-images?u=76281980&t=193)** Native image support is built in via a starter, and it is driven by the Spring Boot plugin.
 >
-> **[3:20](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-native-images?u=76281980&t=200)** Ultimately, the output of Maven and Gradle processes is an image, an OCI image, or a Docker image, essentially, that you can use to run your application much like we did with the containers that we built here.
+> **[3:20](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/spring-native-images?u=76281980&t=200)** Ultimately, the output of Maven and [[Gradle]] processes is an image, an OCI image, or a Docker image, essentially, that you can use to run your application much like we did with the containers that we built here.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), application (2), [[Spring Boot]] (2), [[LinkedIn]] (1), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Spring Boot]] (2), [[LinkedIn]] (1), [[Kubernetes]] (1), [[Gradle]] (1)
 > **Env Vars:** jvm (2), cpu (1), jmx (1), oss (1), oci (1)
 > **CLI Commands:** node (1), find (1), docker (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -1513,12 +1494,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deploying to Kubernetes
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/deploying-to-kubernetes?u=76281980)
+#### [Deploying to Kubernetes](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/deploying-to-kubernetes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/deploying-to-kubernetes?u=76281980&t=0)** - [Instructor] Before we jump into the steps of deploying our application to Kubernetes, I want to spend a bit of time and show you what we will be building out from a conceptual level.
+> **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/deploying-to-kubernetes?u=76281980&t=0)** - [Instructor] Before we jump into the steps of deploying our application to [[Kubernetes]], I want to spend a bit of time and show you what we will be building out from a conceptual level.
 >
 > **[0:11](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/deploying-to-kubernetes?u=76281980&t=11)** We will start with the Kubernetes cluster, and in this case, it's kind, and of course we have our system running outside of that that we can have access to.
 >
@@ -1540,15 +1520,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (2), traffic (2), application (1), database (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2)
 > **Speakers:** - [instructor] (1)
 
-#### Building the initial scaffolding
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-the-initial-scaffolding?u=76281980)
+#### [Building the initial scaffolding](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-the-initial-scaffolding?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-the-initial-scaffolding?u=76281980&t=0)** - [Instructor] Okay, let's get ready to start deploying our application to Kubernetes by building out the scaffolding for this deployment.
+> **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-the-initial-scaffolding?u=76281980&t=0)** - [Instructor] Okay, let's get ready to start deploying our application to [[Kubernetes]] by building out the scaffolding for this deployment.
 >
 > **[0:08](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-the-initial-scaffolding?u=76281980&t=8)** The first thing that I want to do is open up wisdom-api and I'm going to create a new folder in here, and we will call this deployment.
 >
@@ -1558,7 +1537,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-the-initial-scaffolding?u=76281980&t=27)** This is the way that I'm going to walk through just so you can see what actually happens.
 >
-> **[0:31](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-the-initial-scaffolding?u=76281980&t=31)** So we're going to set our apiVersion: v1, the kind: Namespace, and then we will add our metadata to it.
+> **[0:31](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-the-initial-scaffolding?u=76281980&t=31)** So we're going to set our apiVersion: v1, the kind: Namespace, and then we will add our [[Metadata]] to it.
 >
 > **[0:41](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-the-initial-scaffolding?u=76281980&t=41)** And the first piece of metadata that we will add will be a name: wisdom.
 >
@@ -1578,7 +1557,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-the-initial-scaffolding?u=76281980&t=101)** Now we're going to cheat a little bit here on the data because I want to actually go get it from a place that it already exists in source control.
 >
-> **[1:50](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-the-initial-scaffolding?u=76281980&t=110)** So we're going to go up here to the postgres config, and you'll see I have a username and a password in here.
+> **[1:50](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-the-initial-scaffolding?u=76281980&t=110)** So we're going to go up here to the [[PostgreSQL|postgres]] config, and you'll see I have a username and a password in here.
 >
 > **[1:59](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-the-initial-scaffolding?u=76281980&t=119)** So we will copy those, we'll bring them back into our config, and by convention, I'm going to name them with all caps.
 >
@@ -1626,21 +1605,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (4), [[Kubernetes]] (2), data (2), application (1), api (1)
+> **Frameworks & Libraries:** [[Metadata]] (4), [[Kubernetes]] (2), [[PostgreSQL|Postgres]] (1)
 > **File Paths:** namespace.yaml (2), secret.yaml (1), deployment/secret.yaml (1)
 > **CLI Commands:** kubectl (2)
 > **Code Identifiers:** apiversion (2)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-deployment?u=76281980)
+#### [Building a deployment](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-deployment?u=76281980&t=0)** - [Instructor] The deployment is the big workhorse here for our application.
 >
-> **[0:04](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-deployment?u=76281980&t=4)** It is what will make our image available within Kubernetes and consume the resources of the backing service.
+> **[0:04](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-deployment?u=76281980&t=4)** It is what will make our image available within [[Kubernetes]] and consume the resources of the backing service.
 >
 > **[0:11](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-deployment?u=76281980&t=11)** So let's jump into building one.
 >
@@ -1652,7 +1630,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-deployment?u=76281980&t=33)** A kind is a deployment.
 >
-> **[0:37](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-deployment?u=76281980&t=37)** The metadata associated with it has a name of wisdom API deployment and namespace of wisdom and labels of app wisdom API.
+> **[0:37](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-deployment?u=76281980&t=37)** The [[Metadata]] associated with it has a name of wisdom API deployment and namespace of wisdom and labels of app wisdom API.
 >
 > **[0:58](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-deployment?u=76281980&t=58)** Now remember, spacing matters in your YAML files.
 >
@@ -1692,7 +1670,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-deployment?u=76281980&t=176)** Now here's the first change, instead of local host, because we can't operate at local host, we actually need to reference this from the Kubernetes perspective.
 >
-> **[3:06](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-deployment?u=76281980&t=186)** So we're going to do it local DB RW, and that is the name of the service that we are going to hit in Postgres namespace.
+> **[3:06](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-deployment?u=76281980&t=186)** So we're going to do it local DB RW, and that is the name of the service that we are going to hit in [[PostgreSQL|Postgres]] namespace.
 >
 > **[3:16](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-deployment?u=76281980&t=196)** And again, it's a service, but it is at cluster local.
 >
@@ -1712,7 +1690,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-deployment?u=76281980&t=246)** And these probes are what Kubernetes uses to know if the system is up or not.
 >
-> **[4:12](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-deployment?u=76281980&t=252)** So the first one is a liveness probe, and this is an HTTP Git operation.
+> **[4:12](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-deployment?u=76281980&t=252)** So the first one is a liveness probe, and this is an HTTP [[Git]] operation.
 >
 > **[4:21](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-deployment?u=76281980&t=261)** And the port is 8080, and the path that we're going to leverage is from actuator and it's the health endpoint that we exposed.
 >
@@ -1724,7 +1702,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-deployment?u=76281980&t=288)** And I'm going to go ahead and copy this path, but instead of hitting the liveness, we will hit the readiness.
 >
-> **[4:59](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-deployment?u=76281980&t=299)** Now Spring Boot has some great documentation here on how to customize what exists in a readiness probe.
+> **[4:59](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-deployment?u=76281980&t=299)** Now [[Spring Boot]] has some great documentation here on how to customize what exists in a readiness probe.
 >
 > **[5:06](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-deployment?u=76281980&t=306)** Things like has the cache loaded are really, really important when you're dealing with this.
 >
@@ -1756,7 +1734,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), [[Kubernetes]] (4), hit (3), [[Metadata]] (2), node (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (4), [[Metadata]] (2), [[PostgreSQL|Postgres]] (1), [[Git]] (1), [[Spring Boot]] (1)
 > **Env Vars:** api (5), http (3), yaml (1)
 > **CLI Commands:** make (3), node (2), docker (1), git (1)
 > **Definitions:** is a  (5), is an  (1)
@@ -1765,8 +1743,7 @@ created: 2026-05-02
 > **File Paths:** deployment.yaml (1)
 > **Ports:** port 8080 (1)
 
-#### Building a service
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-service?u=76281980)
+#### [Building a service](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1774,7 +1751,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-service?u=76281980&t=3)** Even though we only have one right now in our deployment, you still need to front it with a service, so let's go ahead and do that.
 >
-> **[0:12](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-service?u=76281980&t=12)** Back in our deployment directory, let's create a new file called service.yaml, and we'll start with an API version of v1, and a kind of Service and metadata around it.
+> **[0:12](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-service?u=76281980&t=12)** Back in our deployment directory, let's create a new file called service.yaml, and we'll start with an API version of v1, and a kind of Service and [[Metadata]] around it.
 >
 > **[0:30](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-service?u=76281980&t=30)** The name will be wisdom-api-service, and the namespace will be wisdom, and the spec, we'll start with our selector, and this is how it knows which pods to attach to, and it does it based on the label.
 >
@@ -1782,7 +1759,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-service?u=76281980&t=61)** So, the protocol is TCP, the name will be wisdom-api-http.
 >
-> **[1:11](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-service?u=76281980&t=71)** The Port, and this is the port that the service itself is going to listen at, and we're going to listen at port 80, however, we will translate that to Port 8080, and that's where Spring Boot operates within those containers.
+> **[1:11](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-service?u=76281980&t=71)** The Port, and this is the port that the service itself is going to listen at, and we're going to listen at port 80, however, we will translate that to Port 8080, and that's where [[Spring Boot]] operates within those containers.
 >
 > **[1:26](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-service?u=76281980&t=86)** So, now let's jump to the terminal, and let's check where we're at.
 >
@@ -1794,7 +1771,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-service?u=76281980&t=115)** I'm going to split my terminal.
 >
-> **[1:57](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-service?u=76281980&t=117)** Kubernetes port-forward
+> **[1:57](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-service?u=76281980&t=117)** [[Kubernetes]] port-forward
 >
 > **[2:02](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/building-a-service?u=76281980&t=122)** - n wisdom svc
 >
@@ -1814,7 +1791,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), traffic (2), [[Metadata]] (1), [[Spring Boot]] (1), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (1), [[Spring Boot]] (1), [[Kubernetes]] (1)
 > **Ports:** port 80 (1), port 8080 (1)
 > **Env Vars:** api (1), tcp (1)
 > **Tools:** terminal (2)
@@ -1823,8 +1800,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Documentation:** spec (1)
 
-#### Adding ingress
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-ingress?u=76281980)
+#### [Adding ingress](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-ingress?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1842,7 +1818,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-ingress?u=76281980&t=36)** And the kind will be an ingress.
 >
-> **[0:41](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-ingress?u=76281980&t=41)** Now, some metadata associated with this.
+> **[0:41](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-ingress?u=76281980&t=41)** Now, some [[Metadata]] associated with this.
 >
 > **[0:44](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-ingress?u=76281980&t=44)** The name will be wisdom-api-ingress.
 >
@@ -1850,7 +1826,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-ingress?u=76281980&t=55)** And now for some annotations.
 >
-> **[1:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-ingress?u=76281980&t=60)** All right, nginx.ingress.[kubernetes.io/use](https://kubernetes.io/use).
+> **[1:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-ingress?u=76281980&t=60)** All right, nginx.ingress.[[[Kubernetes]].io/use](https://kubernetes.io/use).
 >
 > **[1:08](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-ingress?u=76281980&t=68)** RegX will be set equal to true.
 >
@@ -1858,7 +1834,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-ingress?u=76281980&t=87)** Now, what this is saying is it will take the path, it will translate it to our service and then rewrite it so that the full path doesn't go to the service, only the things after what we were going to specify below.
 >
-> **[1:42](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-ingress?u=76281980&t=102)** And that's really important because our service doesn't know anything about how we are going to do the routing.
+> **[1:42](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-ingress?u=76281980&t=102)** And that's really important because our service doesn't know anything about how we are going to do the [[Routing]].
 >
 > **[1:50](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-ingress?u=76281980&t=110)** Now we can do our spec and we will start with an ingress class name and we will call this nginx.
 >
@@ -1926,7 +1902,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), [[Kubernetes]] (3), [[Routing]] (2), data (2), database (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (3), [[Routing]] (2), [[Metadata]] (1)
 > **CLI Commands:** nginx (4)
 > **Env Vars:** api (2), http (2)
 > **UI Navigation:** go to (4)
@@ -1935,12 +1911,11 @@ created: 2026-05-02
 > **Documentation:** spec (1)
 > **Tools:** terminal (1)
 
-#### Adding monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-monitoring?u=76281980)
+#### [Adding monitoring](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-monitoring?u=76281980&t=0)** - [Instructor] Now it's time to tie into the metrics that we created earlier in this course and visualize them in our Kubernetes cluster.
+> **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-monitoring?u=76281980&t=0)** - [Instructor] Now it's time to tie into the metrics that we created earlier in this course and visualize them in our [[Kubernetes]] cluster.
 >
 > **[0:09](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-monitoring?u=76281980&t=9)** What you may not know unless you did a lot of digging, is that Prometheus has been running on the system the entire time, along with Grafana.
 >
@@ -1966,7 +1941,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-monitoring?u=76281980&t=93)** We're going to do a pod monitor.
 >
-> **[1:35](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-monitoring?u=76281980&t=95)** Now the metadata around this has a name of wisdom-api-monitor and a namespace of wisdom.
+> **[1:35](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-monitoring?u=76281980&t=95)** Now the [[Metadata]] around this has a name of wisdom-api-monitor and a namespace of wisdom.
 >
 > **[1:50](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-monitoring?u=76281980&t=110)** And now for the spec.
 >
@@ -2040,7 +2015,7 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-monitoring?u=76281980&t=303)** Again, it is admin and prom operator as the username and password.
 >
-> **[5:10](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-monitoring?u=76281980&t=310)** I encourage you to play with them and take a look at metrics, maybe take a little time and instrument the rest of your metrics.
+> **[5:10](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-monitoring?u=76281980&t=310)** I encourage you to play with them and take a look at metrics, maybe take a little time and instrument the [[Representational State Transfer (REST)|rest]] of your metrics.
 >
 > **[5:16](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/adding-monitoring?u=76281980&t=316)** Take a look at some of the other metrics you can do outside of timers, do counts or something else, and see what you can have fun with around this.
 >
@@ -2048,7 +2023,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), traffic (3), hit (3), [[Kubernetes]] (2), data (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (2), [[Metadata]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (2), open the (1)
 > **Tools:** terminal (2)
 > **Definitions:** is a  (2)
@@ -2057,16 +2032,15 @@ created: 2026-05-02
 > **Code Identifiers:** apiversion (1)
 > **URLs:** [coreos.com](https://coreos.com) (1)
 
-#### Introduction to Helm
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/introduction-to-helm?u=76281980)
+#### [Introduction to Helm](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/introduction-to-helm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/introduction-to-helm?u=76281980&t=0)** - [Instructor] We built out basic Kubernetes YAML files to deploy our application.
+> **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/introduction-to-helm?u=76281980&t=0)** - [Instructor] We built out basic [[Kubernetes]] YAML files to deploy our application.
 >
 > **[0:04](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/introduction-to-helm?u=76281980&t=4)** But seldom have I ever done this.
 >
-> **[0:08](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/introduction-to-helm?u=76281980&t=8)** I usually use Helm to do this work.
+> **[0:08](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/introduction-to-helm?u=76281980&t=8)** I usually use [[Helm]] to do this work.
 >
 > **[0:11](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/introduction-to-helm?u=76281980&t=11)** While it isn't a course on Helm, it's worth discussing it and some possible strategies for using it.
 >
@@ -2126,7 +2100,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/introduction-to-helm?u=76281980&t=175)** In fact, most of the time, that's the preferred way to use it when possible.
 >
-> **[3:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/introduction-to-helm?u=76281980&t=180)** Of course, applications that you write that are going to target Kubernetes, Helm will help you manage the state of those, whether you use them directly or use them through other tools like Argo CD or Harness or any of the various ways to deploy applications.
+> **[3:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/introduction-to-helm?u=76281980&t=180)** Of course, applications that you write that are going to target Kubernetes, Helm will help you manage the state of those, whether you use them directly or use them through other tools like [[Argo CD]] or Harness or any of the various ways to deploy applications.
 >
 > **[3:17](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/introduction-to-helm?u=76281980&t=197)** And one of the big ones is operators that you build.
 >
@@ -2136,7 +2110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Helm]] (17), [[Kubernetes]] (4), application (2), [[Automation]] (2), ci (1)
+> **Frameworks & Libraries:** [[Helm]] (17), [[Kubernetes]] (4), [[Argo CD]] (1)
 > **CLI Commands:** cd (2), find (1)
 > **Env Vars:** yaml (1)
 > **Definitions:** is a  (1)
@@ -2147,24 +2121,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980)
+#### [Testing strategies](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=0)** - [Instructor] I want to spend a little bit of time talking about some testing strategies around Kubernetes and cloud native development as a whole.
+> **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=0)** - [Instructor] I want to spend a little bit of time talking about some testing strategies around [[Kubernetes]] and cloud native development as a whole.
 >
-> **[0:08](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=8)** I want to start with unit testing.
+> **[0:08](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=8)** I want to start with [[Unit Testing]].
 >
-> **[0:09](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=9)** Now, obviously, in this course, we deleted the only unit test that came from Spring Boot and didn't spend any more time talking about it, so now is a great time to do that.
+> **[0:09](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=9)** Now, obviously, in this course, we deleted the only unit test that came from [[Spring Boot]] and didn't spend any more time talking about it, so now is a great time to do that.
 >
-> **[0:19](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=19)** I encourage you while you're building out your systems, especially with these remote database considerations, to leverage embedded databases if you can during your testing time.
+> **[0:19](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=19)** I encourage you while you're building out your systems, especially with these remote database considerations, to leverage embedded [[Databases]] if you can during your testing time.
 >
 > **[0:32](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=32)** If you cannot, then sometimes it's even better to leverage something like dev containers to do that testing.
 >
 > **[0:40](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=40)** With dev containers, you can run a Docker image that will store your database to actually execute your unit test.
 >
-> **[0:47](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=47)** That way, you're not relying on actual database systems.
+> **[0:47](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=47)** That way, you're not relying on actual [[Database Systems]].
 >
 > **[0:51](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=51)** Of course, you can always mock dependencies, including things like databases, and these are things that you should be doing anyway as you're building out your testing.
 >
@@ -2174,9 +2147,9 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=74)** It's not one or the other.
 >
-> **[1:16](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=76)** It's usually a mixture of at least three of these when you're building out proper unit tests with the Spring framework.
+> **[1:16](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=76)** It's usually a mixture of at least three of these when you're building out proper unit tests with the [[Spring Framework]].
 >
-> **[1:23](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=83)** Now comes the area of integration testing, and this is something that I'm very passionate about because it ties directly into my desire to have full CI/CD.
+> **[1:23](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=83)** Now comes the area of [[Integration Testing]], and this is something that I'm very passionate about because it ties directly into my desire to have full CI/CD.
 >
 > **[1:33](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=93)** With integration testing, one of the problems you have to deal with is as you deploy to remote environments, your APIs generally are private.
 >
@@ -2186,7 +2159,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=117)** Testing these can become problematic because they are private.
 >
-> **[2:02](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=122)** You can leverage tools like Kubernetes jobs and test frameworks, like pytest or go test or even JUnit, to build packages that do tests in a Kubernetes job.
+> **[2:02](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=122)** You can leverage tools like Kubernetes jobs and test frameworks, like pytest or go test or even [[JUnit]], to build packages that do tests in a Kubernetes job.
 >
 > **[2:16](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=136)** And a Kubernetes job is a one-time operation.
 >
@@ -2224,17 +2197,17 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=247)** Of course, there are benefits of bringing those to all of your internal APIs, but from your remote consumer, you cannot break your public APIs and they must be passive from release to release.
 >
-> **[4:20](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=260)** In a similar vein, you should be actively load testing your system in all of your environments to ensure that you can handle the load that you need to apply, usually at some greater value than you have seen over the last period of time.
+> **[4:20](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=260)** In a similar vein, you should be actively [[Load Testing]] your system in all of your environments to ensure that you can handle the load that you need to apply, usually at some greater value than you have seen over the last period of time.
 >
 > **[4:35](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=275)** And performance testing goes sort of in line with load testing, but it's a little bit different in its nature.
 >
 > **[4:41](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=281)** Here, you're making sure that your systems are performant, both under load and without load on the system.
 >
-> **[4:49](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=289)** And as we've talked about a couple times now, cloud infrastructure dies, nodes die, Pods die.
+> **[4:49](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=289)** And as we've talked about a couple times now, [[Cloud Infrastructure]] dies, nodes die, Pods die.
 >
 > **[4:56](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=296)** So having good chaos testing to be able to withstand those failures of cloud infrastructure is very, very important.
 >
-> **[5:06](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=306)** Last but not least is security testing.
+> **[5:06](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=306)** Last but not least is [[Security Testing]].
 >
 > **[5:09](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/testing-strategies?u=76281980&t=309)** It is very important that you do not forget the importance or have the focus on it such that you don't ignore the security testing needs of your system.
 >
@@ -2248,21 +2221,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (4), database (4), [[Integration Testing]] (4), [[Security]] (4), cloud (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (4), [[Integration Testing]] (4), [[Spring Boot]] (2), [[Databases]] (2), [[Load Testing]] (2)
 > **CLI Commands:** cd (2), docker (1)
 > **Prerequisites:** setup (2), you need to have (1)
 > **Env Vars:** sast (1), dast (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Automation in CI/CD
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/automation-in-ci-cd?u=76281980)
+#### [Automation in CI/CD](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/automation-in-ci-cd?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/automation-in-ci-cd?u=76281980&t=0)** - [Instructor] I want to spend a little bit of time and talk about the importance of automation in CI/CD and how it can affect you using something like a kind cluster on your local machine as well as Kubernetes as a whole.
+> **[0:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/automation-in-ci-cd?u=76281980&t=0)** - [Instructor] I want to spend a little bit of time and talk about the importance of automation in CI/CD and how it can affect you using something like a kind cluster on your local machine as well as [[Kubernetes]] as a whole.
 >
-> **[0:13](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/automation-in-ci-cd?u=76281980&t=13)** Let's start with the build process or continuous integration.
+> **[0:13](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/automation-in-ci-cd?u=76281980&t=13)** Let's start with the build process or [[Continuous Integration (CI)|continuous integration]].
 >
 > **[0:17](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/automation-in-ci-cd?u=76281980&t=17)** What I like to do, and what I encourage everyone to do, is build on all branches.
 >
@@ -2276,7 +2248,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/automation-in-ci-cd?u=76281980&t=48)** In fact, if your build system is SCM, you're in a better spot yet.
 >
-> **[0:54](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/automation-in-ci-cd?u=76281980&t=54)** When you're using something like GitHub with GitHub Actions, you actually can register a remote runner on your local Kubernetes cluster that ties to your account to do all of the build work on your machine so it doesn't cost you minutes out on GitHub.
+> **[0:54](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/automation-in-ci-cd?u=76281980&t=54)** When you're using something like [[GitHub]] with GitHub Actions, you actually can register a remote runner on your local Kubernetes cluster that ties to your account to do all of the build work on your machine so it doesn't cost you minutes out on GitHub.
 >
 > **[1:11](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/automation-in-ci-cd?u=76281980&t=71)** Create scripts for local dev builds when that's not possible.
 >
@@ -2298,7 +2270,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/automation-in-ci-cd?u=76281980&t=138)** While you're doing that, you can test those branches locally.
 >
-> **[2:23](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/automation-in-ci-cd?u=76281980&t=143)** If your integration tests, for instance, are environment agnostic, as they should be, those integration tests can run in your branch, which means you may be failing if you're doing test-driven development, but that's okay because every time you push code, you should see more and more tests passing as you're moving forward.
+> **[2:23](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/automation-in-ci-cd?u=76281980&t=143)** If your integration tests, for instance, are environment agnostic, as they should be, those integration tests can run in your branch, which means you may be failing if you're doing [[Test-Driven Development]], but that's okay because every time you push code, you should see more and more tests passing as you're moving forward.
 >
 > **[2:44](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/automation-in-ci-cd?u=76281980&t=164)** Or if you break a test, you will know immediately that you did that.
 >
@@ -2318,7 +2290,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (4), ci (3), cd (3), [[GitHub]] (3), [[Automation]] (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (4), [[GitHub]] (3), [[Continuous Integration (CI)|Continuous integration]] (1), [[Test-Driven Development]] (1)
 > **CLI Commands:** cd (3), find (2)
 > **Env Vars:** scm (4)
 > **Tools:** github (3)
@@ -2326,8 +2298,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/security-considerations?u=76281980)
+#### [Security considerations](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/security-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2355,7 +2326,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/security-considerations?u=76281980&t=82)** Don't let rogue images in because you don't know the damage that it will cause, and it only takes one bad container, one bad image to bring your system down.
 >
-> **[1:35](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/security-considerations?u=76281980&t=95)** Now, let's talk a little bit about the security of your Kubernetes cluster or clusters themselves.
+> **[1:35](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/security-considerations?u=76281980&t=95)** Now, let's talk a little bit about the security of your [[Kubernetes]] cluster or clusters themselves.
 >
 > **[1:42](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/security-considerations?u=76281980&t=102)** We have to start with the access control.
 >
@@ -2405,7 +2376,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), cloud (3), [[Kubernetes]] (1), traffic (1), data (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [presenter] (1)
@@ -2415,8 +2386,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2426,7 +2396,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/next-steps?u=76281980&t=14)** We started with the scripted kind environment, and this is something that I encourage you to take a look at outside of this course.
 >
-> **[0:22](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/next-steps?u=76281980&t=22)** We then built a very simple web service using Spring Boot with the intention of targeting that for a Kubernetes deployment.
+> **[0:22](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/next-steps?u=76281980&t=22)** We then built a very simple web service using [[Spring Boot]] with the intention of targeting that for a [[Kubernetes]] deployment.
 >
 > **[0:31](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/next-steps?u=76281980&t=31)** We then built out that deployment by hand.
 >
@@ -2438,7 +2408,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/next-steps?u=76281980&t=63)** With that said, I'd like to share with you some ideas for additional learning outside of this course.
 >
-> **[1:09](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/next-steps?u=76281980&t=69)** We didn't talk about Helm a lot, and that is because this is not a course on Helm, but Helm is a great tool and will really enhance your knowledge, not only of Kubernetes, but how to deal with packaging applications.
+> **[1:09](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/next-steps?u=76281980&t=69)** We didn't talk about [[Helm]] a lot, and that is because this is not a course on Helm, but Helm is a great tool and will really enhance your knowledge, not only of Kubernetes, but how to deal with packaging applications.
 >
 > **[1:25](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/next-steps?u=76281980&t=85)** And of course, learn more about Kubernetes.
 >
@@ -2448,7 +2418,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/next-steps?u=76281980&t=108)** Build multiple services into this kind cluster that talk to each other.
 >
-> **[1:53](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/next-steps?u=76281980&t=113)** That level of sophistication will help you understand how routing inside the cluster works.
+> **[1:53](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/next-steps?u=76281980&t=113)** That level of sophistication will help you understand how [[Routing]] inside the cluster works.
 >
 > **[2:00](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/next-steps?u=76281980&t=120)** So go ahead and give it a try.
 >
@@ -2478,13 +2448,13 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/next-steps?u=76281980&t=183)** My commitment to you does not end when this course is over.
 >
-> **[3:07](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/next-steps?u=76281980&t=187)** I encourage you to reach out on the various platforms like GitHub, X, Stack Overflow, where my handle is all the same, fpmoles, and ask questions, learn about what I'm doing, tell me about what you're doing, and ultimately leverage the Q&A section here on LinkedIn Learning.
+> **[3:07](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/next-steps?u=76281980&t=187)** I encourage you to reach out on the various platforms like [[GitHub]], X, Stack Overflow, where my handle is all the same, fpmoles, and ask questions, learn about what I'm doing, tell me about what you're doing, and ultimately leverage the Q&A section here on [[LinkedIn]] Learning.
 >
 > **[3:25](https://www.linkedin.com/learning/spring-on-kubernetes-deploying-and-managing-cloud-native-applications/next-steps?u=76281980&t=205)** With that said, I hope that this course has enhanced your knowledge on Kubernetes and Spring Boot, and I hope that you have a hunger for learning more.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (9), [[Spring Boot]] (3), [[Helm]] (3), web (2), next (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (9), [[Spring Boot]] (3), [[Helm]] (3), [[Routing]] (1), [[GitHub]] (1)
 > **Env Vars:** ram (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)

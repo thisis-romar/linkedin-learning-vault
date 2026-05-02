@@ -95,14 +95,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use databases to level up your Python applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/use-databases-to-level-up-your-python-applications?u=76281980)
+#### [Use databases to level up your Python applications](https://www.linkedin.com/learning/advanced-python-practical-database-examples/use-databases-to-level-up-your-python-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/use-databases-to-level-up-your-python-applications?u=76281980&t=0)** - [Kathryn] When creating Python programs, you'll likely want to store data in some way.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/use-databases-to-level-up-your-python-applications?u=76281980&t=0)** - [Kathryn] When creating [[Python (Programming Language)|Python]] programs, you'll likely want to store data in some way.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-python-practical-database-examples/use-databases-to-level-up-your-python-applications?u=76281980&t=5)** Whether that's populating data in an application automatically, or saving data between user sessions, databases help you do this.
+> **[0:05](https://www.linkedin.com/learning/advanced-python-practical-database-examples/use-databases-to-level-up-your-python-applications?u=76281980&t=5)** Whether that's populating data in an application automatically, or saving data between user sessions, [[Databases]] help you do this.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-python-practical-database-examples/use-databases-to-level-up-your-python-applications?u=76281980&t=15)** They provide an organized structure so you can easily access, store and manage large amounts of data.
 >
@@ -110,7 +109,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-python-practical-database-examples/use-databases-to-level-up-your-python-applications?u=76281980&t=29)** The first one is a book API that serves data from a database using the FastAPI web framework.
 >
-> **[0:36](https://www.linkedin.com/learning/advanced-python-practical-database-examples/use-databases-to-level-up-your-python-applications?u=76281980&t=36)** The second project covers how to work with databases in a data analysis setting with Jupyter notebook, pandas and Matplotlib.
+> **[0:36](https://www.linkedin.com/learning/advanced-python-practical-database-examples/use-databases-to-level-up-your-python-applications?u=76281980&t=36)** The second project covers how to work with databases in a data analysis setting with Jupyter notebook, [[Pandas (Software)|pandas]] and Matplotlib.
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-python-practical-database-examples/use-databases-to-level-up-your-python-applications?u=76281980&t=46)** The last project is a full stack application built on Flask.
 >
@@ -118,13 +117,13 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/advanced-python-practical-database-examples/use-databases-to-level-up-your-python-applications?u=76281980&t=57)** Hi, my name is Kathryn Hodge and I'm a software engineer.
 >
-> **[1:02](https://www.linkedin.com/learning/advanced-python-practical-database-examples/use-databases-to-level-up-your-python-applications?u=76281980&t=62)** Join me in my LinkedIn Learning course all about working with databases and Python so you can level up your Python applications.
+> **[1:02](https://www.linkedin.com/learning/advanced-python-practical-database-examples/use-databases-to-level-up-your-python-applications?u=76281980&t=62)** Join me in my [[LinkedIn]] Learning course all about working with databases and Python so you can level up your Python applications.
 >
 > **[1:11](https://www.linkedin.com/learning/advanced-python-practical-database-examples/use-databases-to-level-up-your-python-applications?u=76281980&t=71)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Databases]] (4), [[Python (Programming Language)|Python]] (3), application (2), api (1)
+> **Frameworks & Libraries:** [[Databases]] (4), [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (3)
 > **Definitions:** is a  (2)
 > **Env Vars:** api (1)
@@ -136,8 +135,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is an API?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/what-is-an-api?u=76281980)
+#### [What is an API?](https://www.linkedin.com/learning/advanced-python-practical-database-examples/what-is-an-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -165,7 +163,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/advanced-python-practical-database-examples/what-is-an-api?u=76281980&t=72)** They'll likely use an API to communicate with a backend service that has access to live weather information in a database.
 >
-> **[1:21](https://www.linkedin.com/learning/advanced-python-practical-database-examples/what-is-an-api?u=76281980&t=81)** There are different types of APIs that use different protocols, but the most popular of these are REST APIs.
+> **[1:21](https://www.linkedin.com/learning/advanced-python-practical-database-examples/what-is-an-api?u=76281980&t=81)** There are different types of APIs that use different protocols, but the most popular of these are [[Representational State Transfer (REST)|REST]] APIs.
 >
 > **[1:29](https://www.linkedin.com/learning/advanced-python-practical-database-examples/what-is-an-api?u=76281980&t=89)** With a REST API, the client, in our case, the mobile app, sends requests to the server.
 >
@@ -185,22 +183,21 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/advanced-python-practical-database-examples/what-is-an-api?u=76281980&t=147)** This is why we often separate components to increase their reusability and decrease the complexity of a single system.
 >
-> **[2:36](https://www.linkedin.com/learning/advanced-python-practical-database-examples/what-is-an-api?u=76281980&t=156)** In fact, we do this a lot with backend services to create microservices that can be reused for many different applications.
+> **[2:36](https://www.linkedin.com/learning/advanced-python-practical-database-examples/what-is-an-api?u=76281980&t=156)** In fact, we do this a lot with backend services to create [[Microservices]] that can be reused for many different applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), api (6), database (4), application (3), [[Programming]] (3)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Microservices]] (1)
 > **Env Vars:** api (6), rest (2)
 > **CLI Commands:** make (2)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### API frameworks in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/api-frameworks-in-python?u=76281980)
+#### [API frameworks in Python](https://www.linkedin.com/learning/advanced-python-practical-database-examples/api-frameworks-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/api-frameworks-in-python?u=76281980&t=0)** - [Narrator] When building an API, there are a few different libraries and frameworks you can use within Python.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/api-frameworks-in-python?u=76281980&t=0)** - [Narrator] When building an API, there are a few different libraries and frameworks you can use within [[Python (Programming Language)|Python]].
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-python-practical-database-examples/api-frameworks-in-python?u=76281980&t=7)** Flask is one option.
 >
@@ -208,11 +205,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-python-practical-database-examples/api-frameworks-in-python?u=76281980&t=14)** We'll be exploring Flask later in this course when we build a full stack application.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-python-practical-database-examples/api-frameworks-in-python?u=76281980&t=20)** Another option is Django.
+> **[0:20](https://www.linkedin.com/learning/advanced-python-practical-database-examples/api-frameworks-in-python?u=76281980&t=20)** Another option is [[Django]].
 >
-> **[0:22](https://www.linkedin.com/learning/advanced-python-practical-database-examples/api-frameworks-in-python?u=76281980&t=22)** Django is a Python-based REST framework that supports templating, routing, authentication, and management tools by default.
+> **[0:22](https://www.linkedin.com/learning/advanced-python-practical-database-examples/api-frameworks-in-python?u=76281980&t=22)** Django is a Python-based [[Representational State Transfer (REST)|REST]] framework that supports templating, [[Routing]], authentication, and management tools by default.
 >
-> **[0:32](https://www.linkedin.com/learning/advanced-python-practical-database-examples/api-frameworks-in-python?u=76281980&t=32)** It also integrates with SQL Lite, Mongo DB, and Dynamo DB.
+> **[0:32](https://www.linkedin.com/learning/advanced-python-practical-database-examples/api-frameworks-in-python?u=76281980&t=32)** It also integrates with [[SQL]] Lite, Mongo DB, and Dynamo DB.
 >
 > **[0:37](https://www.linkedin.com/learning/advanced-python-practical-database-examples/api-frameworks-in-python?u=76281980&t=37)** There's also Falcon.
 >
@@ -226,7 +223,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/advanced-python-practical-database-examples/api-frameworks-in-python?u=76281980&t=67)** It's easy to use, very fast, and minimizes code duplication.
 >
-> **[1:12](https://www.linkedin.com/learning/advanced-python-practical-database-examples/api-frameworks-in-python?u=76281980&t=72)** It's also fully compatible with open API and JSON's schema.
+> **[1:12](https://www.linkedin.com/learning/advanced-python-practical-database-examples/api-frameworks-in-python?u=76281980&t=72)** It's also fully compatible with open API and [[JSON]]'s schema.
 >
 > **[1:17](https://www.linkedin.com/learning/advanced-python-practical-database-examples/api-frameworks-in-python?u=76281980&t=77)** There are other API frameworks in Python that I haven't mentioned here, but FastAPI and Flask are the most popular.
 >
@@ -234,7 +231,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), api (4), web (2), application (2), [[Django]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Django]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[SQL]] (2), [[Routing]] (1)
 > **Env Vars:** api (4), rest (2), sql (2), json (1)
 > **CLI Commands:** python (5), make (1), mongo (1)
 > **Definitions:** is a  (3)
@@ -242,12 +239,11 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Speakers:** - [narrator] (1)
 
-#### Set up FastAPI in a Python application
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-fastapi-in-a-python-application?u=76281980)
+#### [Set up FastAPI in a Python application](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-fastapi-in-a-python-application?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-fastapi-in-a-python-application?u=76281980&t=0)** - [Kathryn] Let's create a basic web application in Python using FastAPI.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-fastapi-in-a-python-application?u=76281980&t=0)** - [Kathryn] Let's create a basic web application in [[Python (Programming Language)|Python]] using FastAPI.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-fastapi-in-a-python-application?u=76281980&t=6)** To start off, we'll create a virtual environment, and we'll call it books.
 >
@@ -281,7 +277,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-fastapi-in-a-python-application?u=76281980&t=76)** This initializes our application.
 >
-> **[1:19](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-fastapi-in-a-python-application?u=76281980&t=79)** Going back to rest endpoints, every rest API is based on a contract.
+> **[1:19](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-fastapi-in-a-python-application?u=76281980&t=79)** Going back to [[Representational State Transfer (REST)|rest]] endpoints, every rest API is based on a contract.
 >
 > **[1:26](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-fastapi-in-a-python-application?u=76281980&t=86)** The client knows what URL or what endpoint to send a request in order to get the information they want back.
 >
@@ -331,7 +327,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (13), application (8), [[Python (Programming Language)|Python]] (3), data (3), cd (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** api (7), url (2)
 > **CLI Commands:** python (3), cd (2)
 > **Documentation:** the docs (2), the documentation (1)
@@ -340,8 +336,7 @@ created: 2026-05-02
 > **Versions:** 127.0.0 (2)
 > **Definitions:** is a  (1), defined as (1)
 
-#### Define a database schema
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980)
+#### [Define a database schema](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -353,7 +348,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980&t=18)** We'll be using SQLAlchemy to create our schema and access the data in our database.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980&t=24)** Let's install it in its dependency MySQL Connector.
+> **[0:24](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980&t=24)** Let's install it in its dependency [[MySQL]] Connector.
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980&t=30)** We'll be doing this in a virtual environment so let's activate it.
 >
@@ -367,9 +362,9 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980&t=55)** If you're using the exercise files these are located within the books API folder in a file called database.py.
 >
-> **[1:04](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980&t=64)** SQLAlchemy is a module in Python that helps you communicate with your database.
+> **[1:04](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980&t=64)** SQLAlchemy is a module in [[Python (Programming Language)|Python]] that helps you communicate with your database.
 >
-> **[1:10](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980&t=70)** Instead of writing raw SQL statements you can declare the interactions of your application in the database in a more Pythonic way.
+> **[1:10](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980&t=70)** Instead of writing raw [[SQL]] statements you can declare the interactions of your application in the database in a more Pythonic way.
 >
 > **[1:19](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980&t=79)** Let's dive into the code.
 >
@@ -395,7 +390,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980&t=123)** This helps us associate the book data with the author data.
 >
-> **[2:07](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980&t=127)** To learn more about the SQLAlchemy ORM I encourage you to check out my other database course, [[Advanced Python- Working with Databases]].
+> **[2:07](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980&t=127)** To learn more about the SQLAlchemy ORM I encourage you to check out my other database course, [[Advanced Python- Working with [[Databases]]]].
 >
 > **[2:17](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980&t=137)** This other course goes deeper into the inner workings of SQL Alchemy.
 >
@@ -409,7 +404,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980&t=160)** We'll also need to install MySQL.
 >
-> **[2:42](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980&t=162)** A relational database management system or RDVMS that allows us to create our database.
+> **[2:42](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980&t=162)** A relational [[Database Management]] system or RDVMS that allows us to create our database.
 >
 > **[2:50](https://www.linkedin.com/learning/advanced-python-practical-database-examples/define-a-database-schema?u=76281980&t=170)** But this is a good start.
 >
@@ -417,7 +412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), data (6), [[MySQL]] (4), [[Python (Programming Language)|Python]] (3), application (3)
+> **Frameworks & Libraries:** [[MySQL]] (4), [[Python (Programming Language)|Python]] (3), [[SQL]] (2), [[Databases]] (2), [[Database Management]] (1)
 > **CLI Commands:** mysql (4), python (3)
 > **Env Vars:** api (2), sql (2), orm (2), rdvms (1)
 > **Prerequisites:** install (4)
@@ -426,12 +421,11 @@ created: 2026-05-02
 > **File Paths:** database.py (1)
 > **Exercise Files:** exercise files (1)
 
-#### Create a MySQL database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-mysql-database?u=76281980)
+#### [Create a MySQL database](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-mysql-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-mysql-database?u=76281980&t=0)** - [Instructor] Let's install and configure the tools to create a MySQL database.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-mysql-database?u=76281980&t=0)** - [Instructor] Let's install and configure the tools to create a [[MySQL]] database.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-mysql-database?u=76281980&t=5)** If you don't already have MySQL installed you can download it from this website.
 >
@@ -439,7 +433,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-mysql-database?u=76281980&t=19)** Once it's installed, the path needs to be updated so we can use the MySQL Shell in the command line.
 >
-> **[0:26](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-mysql-database?u=76281980&t=26)** This will be different if you're on a Windows computer but on a Mac you can use what type of shell you're running to determine where to update the path.
+> **[0:26](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-mysql-database?u=76281980&t=26)** This will be different if you're on a [[Windows]] computer but on a Mac you can use what type of shell you're running to determine where to update the path.
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-mysql-database?u=76281980&t=35)** We'll use echo SHELL to find out which shell we're running.
 >
@@ -489,7 +483,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-mysql-database?u=76281980&t=169)** Let's navigate to that file.
 >
-> **[2:54](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-mysql-database?u=76281980&t=174)** We'll activate our environment and then run the with Python database.py.
+> **[2:54](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-mysql-database?u=76281980&t=174)** We'll activate our environment and then run the with [[Python (Programming Language)|Python]] database.py.
 >
 > **[3:03](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-mysql-database?u=76281980&t=183)** Now let's check if our tables have been added with our MySQL shell.
 >
@@ -507,7 +501,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (14), database (7), [[Python (Programming Language)|Python]] (3), [[Windows]] (2), cd (1)
+> **Frameworks & Libraries:** [[MySQL]] (14), [[Python (Programming Language)|Python]] (3), [[Windows]] (2)
 > **CLI Commands:** mysql (14), python (3), sudo (2), find (1), cd (1)
 > **Tools:** terminal (4), command line (2), zsh (1)
 > **Env Vars:** shell (1), gui (1), show (1), tables (1), describe (1)
@@ -516,8 +510,7 @@ created: 2026-05-02
 > **File Paths:** database.py (2)
 > **Analogies:** such as (1)
 
-#### Create an API contract
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-an-api-contract?u=76281980)
+#### [Create an API contract](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-an-api-contract?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -527,7 +520,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-an-api-contract?u=76281980&t=16)** We need to add a new endpoint that allows the client to add a book to our database.
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-an-api-contract?u=76281980&t=23)** GET is a type of HTTP method used with REST APIs.
+> **[0:23](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-an-api-contract?u=76281980&t=23)** GET is a type of HTTP method used with [[Representational State Transfer (REST)|REST]] APIs.
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-an-api-contract?u=76281980&t=28)** It's used to request information.
 >
@@ -549,7 +542,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-an-api-contract?u=76281980&t=74)** This payload will contain data on what book to add to the database.
 >
-> **[1:19](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-an-api-contract?u=76281980&t=79)** The payload will be in JSON format or JavaScript Object Notation.
+> **[1:19](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-an-api-contract?u=76281980&t=79)** The payload will be in [[JSON]] format or [[JavaScript]] Object Notation.
 >
 > **[1:24](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-an-api-contract?u=76281980&t=84)** This is a common format for transporting data.
 >
@@ -563,7 +556,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-an-api-contract?u=76281980&t=114)** The keys, which are book, title, number of pages, et cetera, will remain the same but the values will change.
 >
-> **[2:04](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-an-api-contract?u=76281980&t=124)** In our Python code, we'll use these keys to retrieve the values the user sends.
+> **[2:04](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-an-api-contract?u=76281980&t=124)** In our [[Python (Programming Language)|Python]] code, we'll use these keys to retrieve the values the user sends.
 >
 > **[2:10](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-an-api-contract?u=76281980&t=130)** That's why it's so important to agree with the client on a contract.
 >
@@ -571,7 +564,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), database (4), api (3), [[Representational State Transfer (REST)|Rest]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[JSON]] (1), [[JavaScript]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** post (6), api (3), http (2), rest (1), put (1)
 > **API Endpoints:** post  (4), get  (1)
 > **Definitions:** is a  (2)
@@ -579,8 +572,7 @@ created: 2026-05-02
 > **CLI Commands:** python (1)
 > **Speakers:** - when (1)
 
-#### Build a POST endpoint with FastAPI
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/build-a-post-endpoint-with-fastapi?u=76281980)
+#### [Build a POST endpoint with FastAPI](https://www.linkedin.com/learning/advanced-python-practical-database-examples/build-a-post-endpoint-with-fastapi?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -642,7 +634,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), database (3), application (2)
 > **API Endpoints:** post  (3)
 > **Env Vars:** post (3)
 > **File Paths:** schemas.py (1), main.py (1)
@@ -650,8 +641,7 @@ created: 2026-05-02
 > **Code Identifiers:** first_name (1), last_name (1)
 > **Speakers:** - [instructor] (1)
 
-#### Call a new API using Postman
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/call-a-new-api-using-postman?u=76281980)
+#### [Call a new API using Postman](https://www.linkedin.com/learning/advanced-python-practical-database-examples/call-a-new-api-using-postman?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -691,9 +681,9 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/advanced-python-practical-database-examples/call-a-new-api-using-postman?u=76281980&t=89)** Now for the last piece, the data we want to send and add to the database.
 >
-> **[1:35](https://www.linkedin.com/learning/advanced-python-practical-database-examples/call-a-new-api-using-postman?u=76281980&t=95)** We'll click on the body tab, select raw, and we'll be using JSON format.
+> **[1:35](https://www.linkedin.com/learning/advanced-python-practical-database-examples/call-a-new-api-using-postman?u=76281980&t=95)** We'll click on the body tab, select raw, and we'll be using [[JSON]] format.
 >
-> **[1:44](https://www.linkedin.com/learning/advanced-python-practical-database-examples/call-a-new-api-using-postman?u=76281980&t=104)** This is where we'll write the data to send to our Python application.
+> **[1:44](https://www.linkedin.com/learning/advanced-python-practical-database-examples/call-a-new-api-using-postman?u=76281980&t=104)** This is where we'll write the data to send to our [[Python (Programming Language)|Python]] application.
 >
 > **[1:48](https://www.linkedin.com/learning/advanced-python-practical-database-examples/call-a-new-api-using-postman?u=76281980&t=108)** We'll send "The Huntress".
 >
@@ -753,7 +743,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), data (3), [[Python (Programming Language)|Python]] (2), database (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[JSON]] (1)
 > **Env Vars:** api (4), post (1), url (1), json (1)
 > **CLI Commands:** make (3), python (2), cd (1)
 > **Tools:** postman (4), terminal (2)
@@ -762,8 +752,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Ports:** port 8 (1)
 
-#### Add data to a database in Python using SQLAlchemy
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/add-data-to-a-database-in-python-using-sqlalchemy?u=76281980)
+#### [Add data to a database in Python using SQLAlchemy](https://www.linkedin.com/learning/advanced-python-practical-database-examples/add-data-to-a-database-in-python-using-sqlalchemy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -787,7 +776,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/advanced-python-practical-database-examples/add-data-to-a-database-in-python-using-sqlalchemy?u=76281980&t=58)** We'll start with our book data.
 >
-> **[1:01](https://www.linkedin.com/learning/advanced-python-practical-database-examples/add-data-to-a-database-in-python-using-sqlalchemy?u=76281980&t=61)** With SQL Alchemy, we can use the select function and filter where the book data is the same as the data passed in.
+> **[1:01](https://www.linkedin.com/learning/advanced-python-practical-database-examples/add-data-to-a-database-in-python-using-sqlalchemy?u=76281980&t=61)** With [[SQL]] Alchemy, we can use the select function and filter where the book data is the same as the data passed in.
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-python-practical-database-examples/add-data-to-a-database-in-python-using-sqlalchemy?u=76281980&t=73)** Here, we select a book where the title is the same as the title passed in, and the number of pages is the same as the number of pages also passed in.
 >
@@ -855,7 +844,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), database (9), [[SQL]] (3), application (1)
+> **Frameworks & Libraries:** [[SQL]] (3)
 > **Env Vars:** sql (3), orm (1)
 > **File Paths:** database.py (1), main.py (1)
 > **Definitions:** is a  (2)
@@ -863,14 +852,13 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Integrate a database with a FastAPI application
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/integrate-a-database-with-a-fastapi-application?u=76281980)
+#### [Integrate a database with a FastAPI application](https://www.linkedin.com/learning/advanced-python-practical-database-examples/integrate-a-database-with-a-fastapi-application?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/integrate-a-database-with-a-fastapi-application?u=76281980&t=0)** - [Instructor] We have two components set up in our tech stack.
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-python-practical-database-examples/integrate-a-database-with-a-fastapi-application?u=76281980&t=4)** We have the FastAPI Python application and the code that interacts with our database.
+> **[0:04](https://www.linkedin.com/learning/advanced-python-practical-database-examples/integrate-a-database-with-a-fastapi-application?u=76281980&t=4)** We have the FastAPI [[Python (Programming Language)|Python]] application and the code that interacts with our database.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-python-practical-database-examples/integrate-a-database-with-a-fastapi-application?u=76281980&t=10)** Let's connect these components.
 >
@@ -924,7 +912,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/advanced-python-practical-database-examples/integrate-a-database-with-a-fastapi-application?u=76281980&t=163)** Checking the logs, the new book has been added.
 >
-> **[2:47](https://www.linkedin.com/learning/advanced-python-practical-database-examples/integrate-a-database-with-a-fastapi-application?u=76281980&t=167)** We can also check with the MySQL shell.
+> **[2:47](https://www.linkedin.com/learning/advanced-python-practical-database-examples/integrate-a-database-with-a-fastapi-application?u=76281980&t=167)** We can also check with the [[MySQL]] shell.
 >
 > **[2:50](https://www.linkedin.com/learning/advanced-python-practical-database-examples/integrate-a-database-with-a-fastapi-application?u=76281980&t=170)** Let's open up another tab in the terminal window.
 >
@@ -948,7 +936,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (14), data (7), application (3), [[MySQL]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** mysql (2), python (1)
 > **Code Identifiers:** add_book (2)
 > **Tools:** postman (1), terminal (1)
@@ -957,8 +945,7 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (1)
 > **Definitions:** means that (1)
 
-#### Challenge: Develop a GET endpoint with FastAPI and a DB
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/challenge-develop-a-get-endpoint-with-fastapi-and-a-db?u=76281980)
+#### [Challenge: Develop a GET endpoint with FastAPI and a DB](https://www.linkedin.com/learning/advanced-python-practical-database-examples/challenge-develop-a-get-endpoint-with-fastapi-and-a-db?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -986,13 +973,13 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/advanced-python-practical-database-examples/challenge-develop-a-get-endpoint-with-fastapi-and-a-db?u=76281980&t=71)** We didn't cover path parameters in this chapter but this is a good opportunity to use your research skills.
 >
-> **[1:19](https://www.linkedin.com/learning/advanced-python-practical-database-examples/challenge-develop-a-get-endpoint-with-fastapi-and-a-db?u=76281980&t=79)** Given that you are now familiar with FastAPI, Python and integrating dynamic data from a database, can you figure out how to dynamically accept an input within a route?
+> **[1:19](https://www.linkedin.com/learning/advanced-python-practical-database-examples/challenge-develop-a-get-endpoint-with-fastapi-and-a-db?u=76281980&t=79)** Given that you are now familiar with FastAPI, [[Python (Programming Language)|Python]] and integrating dynamic data from a database, can you figure out how to dynamically accept an input within a route?
 >
 > **[1:32](https://www.linkedin.com/learning/advanced-python-practical-database-examples/challenge-develop-a-get-endpoint-with-fastapi-and-a-db?u=76281980&t=92)** Good luck and happy coding.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), api (2), application (2), data (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **API Endpoints:** get  (2)
 > **Env Vars:** api (2)
 > **Definitions:** is a  (2)
@@ -1000,8 +987,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Develop a GET endpoint with FastAPI and a Database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/solution-develop-a-get-endpoint-with-fastapi-and-a-database?u=76281980)
+#### [Solution: Develop a GET endpoint with FastAPI and a Database](https://www.linkedin.com/learning/advanced-python-practical-database-examples/solution-develop-a-get-endpoint-with-fastapi-and-a-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1013,9 +999,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-python-practical-database-examples/solution-develop-a-get-endpoint-with-fastapi-and-a-database?u=76281980&t=19)** To add a path parameter, we'll need to do some research.
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-python-practical-database-examples/solution-develop-a-get-endpoint-with-fastapi-and-a-database?u=76281980&t=23)** Let's Google path parameters in FastAPI.
+> **[0:23](https://www.linkedin.com/learning/advanced-python-practical-database-examples/solution-develop-a-get-endpoint-with-fastapi-and-a-database?u=76281980&t=23)** Let's [[Google]] path parameters in FastAPI.
 >
-> **[0:30](https://www.linkedin.com/learning/advanced-python-practical-database-examples/solution-develop-a-get-endpoint-with-fastapi-and-a-database?u=76281980&t=30)** Here, it says we can declare the path variable using the same format as we do Python strings.
+> **[0:30](https://www.linkedin.com/learning/advanced-python-practical-database-examples/solution-develop-a-get-endpoint-with-fastapi-and-a-database?u=76281980&t=30)** Here, it says we can declare the path variable using the same format as we do [[Python (Programming Language)|Python]] strings.
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-python-practical-database-examples/solution-develop-a-get-endpoint-with-fastapi-and-a-database?u=76281980&t=38)** We'll use two curly braces and then also use it as input to the function.
 >
@@ -1141,7 +1127,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), data (6), application (4), api (3), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Google]] (1)
 > **CLI Commands:** find (4), python (2), make (2)
 > **Code Identifiers:** get_book (3), book_id (2), retrieve_book (1), author_id (1)
 > **Env Vars:** api (3)
@@ -1155,28 +1141,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/introduction-to-pandas?u=76281980)
+#### [Introduction to pandas](https://www.linkedin.com/learning/advanced-python-practical-database-examples/introduction-to-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/introduction-to-pandas?u=76281980&t=0)** - [Instructor] As a Python developer, sometimes you might not be developing a consumer product.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/introduction-to-pandas?u=76281980&t=0)** - [Instructor] As a [[Python (Programming Language)|Python]] developer, sometimes you might not be developing a consumer product.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-python-practical-database-examples/introduction-to-pandas?u=76281980&t=7)** Instead, you'll use Python to analyze and manipulate data in order to discover new information about that product.
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-python-practical-database-examples/introduction-to-pandas?u=76281980&t=16)** Rather than serving up information from a database to a customer, you might want to work with data in memory to find new trends that inform how you build a given application or modify your workflow.
 >
-> **[0:30](https://www.linkedin.com/learning/advanced-python-practical-database-examples/introduction-to-pandas?u=76281980&t=30)** You'll often see this type of work in finance, advertising, web analytics, and economic domains.
+> **[0:30](https://www.linkedin.com/learning/advanced-python-practical-database-examples/introduction-to-pandas?u=76281980&t=30)** You'll often see this type of work in finance, advertising, [[Web Analytics]], and economic domains.
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-python-practical-database-examples/introduction-to-pandas?u=76281980&t=39)** So far, we've created a database and a Python web API that interacts with it.
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-python-practical-database-examples/introduction-to-pandas?u=76281980&t=45)** In this chapter, we're going to look at interacting with databases for the purposes of data manipulation and analysis.
+> **[0:45](https://www.linkedin.com/learning/advanced-python-practical-database-examples/introduction-to-pandas?u=76281980&t=45)** In this chapter, we're going to look at interacting with [[Databases]] for the purposes of [[Data Manipulation]] and analysis.
 >
-> **[0:54](https://www.linkedin.com/learning/advanced-python-practical-database-examples/introduction-to-pandas?u=76281980&t=54)** We can do this with a tool called Pandas.
+> **[0:54](https://www.linkedin.com/learning/advanced-python-practical-database-examples/introduction-to-pandas?u=76281980&t=54)** We can do this with a tool called [[Pandas (Software)|Pandas]].
 >
 > **[0:57](https://www.linkedin.com/learning/advanced-python-practical-database-examples/introduction-to-pandas?u=76281980&t=57)** Pandas is a library that gives us lots of tools for doing practical, real world data analysis and Python.
 >
-> **[1:05](https://www.linkedin.com/learning/advanced-python-practical-database-examples/introduction-to-pandas?u=76281980&t=65)** It features robust built-in data structures that can help you organize your data and memory and gain meaningful insight from that data.
+> **[1:05](https://www.linkedin.com/learning/advanced-python-practical-database-examples/introduction-to-pandas?u=76281980&t=65)** It features robust built-in [[Data Structures]] that can help you organize your data and memory and gain meaningful insight from that data.
 >
 > **[1:15](https://www.linkedin.com/learning/advanced-python-practical-database-examples/introduction-to-pandas?u=76281980&t=75)** Along with these analysis tools, Pandas also has a tight integration with SQLAlchemy for working with databases so you can easily access the data you want to work with.
 >
@@ -1194,19 +1179,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Python (Programming Language)|Python]] (7), [[Pandas (Software)|Pandas]] (4), product (2), database (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Pandas (Software)|Pandas]] (4), [[Databases]] (2), [[Web Analytics]] (1), [[Data Manipulation]] (1)
 > **CLI Commands:** python (7), find (1), make (1)
 > **Tools:** jupyter (2), sublime (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up pandas and Jupyter Notebook
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-pandas-and-jupyter-notebook?u=76281980)
+#### [Set up pandas and Jupyter Notebook](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-pandas-and-jupyter-notebook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-pandas-and-jupyter-notebook?u=76281980&t=0)** - [Instructor] Let's create a Jupyter Notebook and analyze some data with Pandas.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-pandas-and-jupyter-notebook?u=76281980&t=0)** - [Instructor] Let's create a Jupyter Notebook and analyze some data with [[Pandas (Software)|Pandas]].
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-pandas-and-jupyter-notebook?u=76281980&t=5)** First, we need to install Pandas in Jupyter.
 >
@@ -1226,7 +1210,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-pandas-and-jupyter-notebook?u=76281980&t=45)** We can do that with Jupyter Notebook.
 >
-> **[0:51](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-pandas-and-jupyter-notebook?u=76281980&t=51)** This starts up a Jupyter Notebook server so we can write interactive Python code.
+> **[0:51](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-pandas-and-jupyter-notebook?u=76281980&t=51)** This starts up a Jupyter Notebook server so we can write interactive [[Python (Programming Language)|Python]] code.
 >
 > **[0:56](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-pandas-and-jupyter-notebook?u=76281980&t=56)** Here we can see some information about the notebook server, including the URL we'll use to access and write code in the notebook.
 >
@@ -1254,7 +1238,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (3), data (2), next (2), cd (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (3)
 > **Tools:** jupyter (7)
 > **CLI Commands:** python (3), cd (1)
 > **Prerequisites:** install (3)
@@ -1263,12 +1247,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyze data with pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-pandas?u=76281980)
+#### [Analyze data with pandas](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-pandas?u=76281980&t=0)** - Let's import the pandas module and do some analysis.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-pandas?u=76281980&t=0)** - Let's import the [[Pandas (Software)|pandas]] module and do some analysis.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-pandas?u=76281980&t=8)** This cell won't have any output but we'll be able to use pandas in this Jupiter notebook now.
 >
@@ -1276,7 +1259,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-pandas?u=76281980&t=21)** This data represents some orders from a tech company called Red 30.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-pandas?u=76281980&t=25)** This is provided in the exercise files and on GitHub.
+> **[0:25](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-pandas?u=76281980&t=25)** This is provided in the exercise files and on [[GitHub]].
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-pandas?u=76281980&t=30)** We'll import it into our application using a function from the pandas library, read_csv.
 >
@@ -1298,7 +1281,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-pandas?u=76281980&t=85)** We can also use df.describe.
 >
-> **[1:31](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-pandas?u=76281980&t=91)** This gives us various statistics about the values in each column overall.
+> **[1:31](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-pandas?u=76281980&t=91)** This gives us various [[Statistics]] about the values in each column overall.
 >
 > **[1:37](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-pandas?u=76281980&t=97)** This includes the mean, number of entries, minimum, maximum, and more.
 >
@@ -1324,7 +1307,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-pandas?u=76281980&t=173)** This is numerical, so the describe function will work best.
 >
-> **[2:59](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-pandas?u=76281980&t=179)** It looks like the most frequent purchase is $12 and 90 orders in our databases are that number.
+> **[2:59](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-pandas?u=76281980&t=179)** It looks like the most frequent purchase is $12 and 90 orders in our [[Databases]] are that number.
 >
 > **[3:07](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-pandas?u=76281980&t=187)** Let's try using value counts.
 >
@@ -1332,11 +1315,11 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-pandas?u=76281980&t=194)** It looks like purchases are all across the board but overall under a hundred dollars for the most part.
 >
-> **[3:21](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-pandas?u=76281980&t=201)** Given all of this in a few lines of code, we were able to get a better understanding of our data using pandas with Python.
+> **[3:21](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-pandas?u=76281980&t=201)** Given all of this in a few lines of code, we were able to get a better understanding of our data using pandas with [[Python (Programming Language)|Python]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Pandas (Software)|Pandas]] (6), [[GitHub]] (1), application (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (6), [[GitHub]] (1), [[Statistics]] (1), [[Databases]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** read_csv (2), ebooks (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** csv (1)
@@ -1345,8 +1328,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Analyze data with Matplotlib
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-matplotlib?u=76281980)
+#### [Analyze data with Matplotlib](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-matplotlib?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1354,9 +1336,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-matplotlib?u=76281980&t=6)** We'll leverage the Matplotlib module.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-matplotlib?u=76281980&t=10)** By using both Pandas and Matplotlib, we can make a histogram of the values in a given column.
+> **[0:10](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-matplotlib?u=76281980&t=10)** By using both [[Pandas (Software)|Pandas]] and Matplotlib, we can make a histogram of the values in a given column.
 >
-> **[0:17](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-matplotlib?u=76281980&t=17)** Let's try plotting a histogram with the values and the quantity column and see how many products are bought in a given order.
+> **[0:17](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-matplotlib?u=76281980&t=17)** Let's try plotting a histogram with the values and the quantity column and see how many [[Microsoft Products|products]] are bought in a given order.
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-matplotlib?u=76281980&t=26)** We'll select the data frame quantity, and then use hist.
 >
@@ -1374,21 +1356,20 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-matplotlib?u=76281980&t=72)** There are also several other libraries you can use to learn more about your data.
 >
-> **[1:17](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-matplotlib?u=76281980&t=77)** If this interests you, I encourage you to check out some of the courses in the LinkedIn Learning library that focus on data manipulation and data analysis in Python.
+> **[1:17](https://www.linkedin.com/learning/advanced-python-practical-database-examples/analyze-data-with-matplotlib?u=76281980&t=77)** If this interests you, I encourage you to check out some of the courses in the [[LinkedIn]] Learning library that focus on [[Data Manipulation]] and data analysis in [[Python (Programming Language)|Python]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Pandas (Software)|Pandas]] (2), [[Microsoft Products|Products]] (1), product (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1), [[Data Manipulation]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Connect to a DB using SQLAlchemy within Juypter Notebook
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/connect-to-a-db-using-sqlalchemy-within-juypter-notebook?u=76281980)
+#### [Connect to a DB using SQLAlchemy within Juypter Notebook](https://www.linkedin.com/learning/advanced-python-practical-database-examples/connect-to-a-db-using-sqlalchemy-within-juypter-notebook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/connect-to-a-db-using-sqlalchemy-within-juypter-notebook?u=76281980&t=0)** - [Instructor] While reading CSV data and manipulating it with Pandas is interesting.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/connect-to-a-db-using-sqlalchemy-within-juypter-notebook?u=76281980&t=0)** - [Instructor] While reading CSV data and manipulating it with [[Pandas (Software)|Pandas]] is interesting.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-python-practical-database-examples/connect-to-a-db-using-sqlalchemy-within-juypter-notebook?u=76281980&t=5)** It would be even more interesting to integrate SQLAlchemy so we can access data from a live database.
 >
@@ -1438,7 +1419,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), application (3), data (2), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** csv (1), salespeople_db_uri (1)
 > **Prerequisites:** install (2)
@@ -1447,16 +1428,15 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visualize data using SQLAlchemy, pandas, and Matplotlib
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/visualize-data-using-sqlalchemy-pandas-and-matplotlib?u=76281980)
+#### [Visualize data using SQLAlchemy, pandas, and Matplotlib](https://www.linkedin.com/learning/advanced-python-practical-database-examples/visualize-data-using-sqlalchemy-pandas-and-matplotlib?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/visualize-data-using-sqlalchemy-pandas-and-matplotlib?u=76281980&t=0)** - [Instructor] In order to use data in our application, we'll need to import it.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-python-practical-database-examples/visualize-data-using-sqlalchemy-pandas-and-matplotlib?u=76281980&t=5)** In fact, we can load the data directly into a Pandas data frame making it really easy to work with.
+> **[0:05](https://www.linkedin.com/learning/advanced-python-practical-database-examples/visualize-data-using-sqlalchemy-pandas-and-matplotlib?u=76281980&t=5)** In fact, we can load the data directly into a [[Pandas (Software)|Pandas]] data frame making it really easy to work with.
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-python-practical-database-examples/visualize-data-using-sqlalchemy-pandas-and-matplotlib?u=76281980&t=13)** We can use the read SQL table method to load a table from the database.
+> **[0:13](https://www.linkedin.com/learning/advanced-python-practical-database-examples/visualize-data-using-sqlalchemy-pandas-and-matplotlib?u=76281980&t=13)** We can use the read [[SQL]] table method to load a table from the database.
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-python-practical-database-examples/visualize-data-using-sqlalchemy-pandas-and-matplotlib?u=76281980&t=20)** The table is called salespeople and we'll pass in our engine's connection.
 >
@@ -1520,11 +1500,11 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/advanced-python-practical-database-examples/visualize-data-using-sqlalchemy-pandas-and-matplotlib?u=76281980&t=199)** A few from Minnesota, Florida, and Virginia too.
 >
-> **[3:23](https://www.linkedin.com/learning/advanced-python-practical-database-examples/visualize-data-using-sqlalchemy-pandas-and-matplotlib?u=76281980&t=203)** It's pretty incredible what you can do with Python when you combine several libraries and tools with databases.
+> **[3:23](https://www.linkedin.com/learning/advanced-python-practical-database-examples/visualize-data-using-sqlalchemy-pandas-and-matplotlib?u=76281980&t=203)** It's pretty incredible what you can do with [[Python (Programming Language)|Python]] when you combine several libraries and tools with [[Databases]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Pandas (Software)|Pandas]] (3), [[SQL]] (3), database (3), application (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[SQL]] (3), [[Python (Programming Language)|Python]] (1), [[Databases]] (1)
 > **Env Vars:** sql (3)
 > **CLI Commands:** make (1), python (1)
 > **Code Identifiers:** salespeople_df (1)
@@ -1533,8 +1513,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Warnings:** note that (1)
 
-#### Challenge: Ingest data and visualize it with Matplotlib
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/challenge-ingest-data-and-visualize-it-with-matplotlib?u=76281980)
+#### [Challenge: Ingest data and visualize it with Matplotlib](https://www.linkedin.com/learning/advanced-python-practical-database-examples/challenge-ingest-data-and-visualize-it-with-matplotlib?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1568,13 +1547,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), product (5), database (2)
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Ingest data and visualize it using Matplotlib
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/solution-ingest-data-and-visualize-it-using-matplotlib?u=76281980)
+#### [Solution: Ingest data and visualize it using Matplotlib](https://www.linkedin.com/learning/advanced-python-practical-database-examples/solution-ingest-data-and-visualize-it-using-matplotlib?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1592,7 +1569,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-python-practical-database-examples/solution-ingest-data-and-visualize-it-using-matplotlib?u=76281980&t=31)** That's sqlite:///landon.sqlite.
 >
-> **[0:36](https://www.linkedin.com/learning/advanced-python-practical-database-examples/solution-ingest-data-and-visualize-it-using-matplotlib?u=76281980&t=36)** We'll ingest the data with pandas.
+> **[0:36](https://www.linkedin.com/learning/advanced-python-practical-database-examples/solution-ingest-data-and-visualize-it-using-matplotlib?u=76281980&t=36)** We'll ingest the data with [[Pandas (Software)|pandas]].
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-python-practical-database-examples/solution-ingest-data-and-visualize-it-using-matplotlib?u=76281980&t=41)** And we need as pd so we can reference it as pd in our file.
 >
@@ -1656,11 +1633,11 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/advanced-python-practical-database-examples/solution-ingest-data-and-visualize-it-using-matplotlib?u=76281980&t=239)** So this pie chart looks accurate.
 >
-> **[4:02](https://www.linkedin.com/learning/advanced-python-practical-database-examples/solution-ingest-data-and-visualize-it-using-matplotlib?u=76281980&t=242)** Congratulations, you just analyzed and visualized data from a database using Python.
+> **[4:02](https://www.linkedin.com/learning/advanced-python-practical-database-examples/solution-ingest-data-and-visualize-it-using-matplotlib?u=76281980&t=242)** Congratulations, you just analyzed and visualized data from a database using [[Python (Programming Language)|Python]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), database (4), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** read_sql_table (1), sort_values (1), value_counts (1)
 > **CLI Commands:** python (1)
 > **Tools:** jupyter (1)
@@ -1672,8 +1649,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Set up Flask in a Python application
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-flask-in-a-python-application?u=76281980)
+#### [Set up Flask in a Python application](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-flask-in-a-python-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1687,15 +1663,15 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-flask-in-a-python-application?u=76281980&t=31)** From the task page, we'll be able to add new tasks for that project as well.
 >
-> **[0:36](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-flask-in-a-python-application?u=76281980&t=36)** To keep track of our projects and associated tasks, we'll be using a Postgres database and SQLAlchemy in our Python application.
+> **[0:36](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-flask-in-a-python-application?u=76281980&t=36)** To keep track of our projects and associated tasks, we'll be using a [[PostgreSQL|Postgres]] database and SQLAlchemy in our [[Python (Programming Language)|Python]] application.
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-flask-in-a-python-application?u=76281980&t=45)** We'll also be using Flask which is a Python micro framework.
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-flask-in-a-python-application?u=76281980&t=49)** With Flask, we'll be able to connect our routes to our webpages and add functionality to trigger data modifications in our database.
 >
-> **[0:58](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-flask-in-a-python-application?u=76281980&t=58)** Our webpages will be built with basic HTML and CSS.
+> **[0:58](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-flask-in-a-python-application?u=76281980&t=58)** Our webpages will be built with basic [[HTML]] and CSS.
 >
-> **[1:03](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-flask-in-a-python-application?u=76281980&t=63)** The goal of this course is to look at how databases can be used within a Python application.
+> **[1:03](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-flask-in-a-python-application?u=76281980&t=63)** The goal of this course is to look at how [[Databases]] can be used within a Python application.
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-python-practical-database-examples/set-up-flask-in-a-python-application?u=76281980&t=70)** So while we'll introduce Flask and some other web technologies, the focus is on what you can build by using databases in Python.
 >
@@ -1723,15 +1699,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), database (5), web application (3), application (3), [[PostgreSQL|Postgres]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[PostgreSQL|Postgres]] (2), [[Databases]] (2), [[HTML]] (1)
 > **CLI Commands:** python (6), cd (1), make (1)
 > **Env Vars:** html (1), css (1), api (1)
 > **Prerequisites:** install (2), set up (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a webpage with Flask
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-webpage-with-flask?u=76281980)
+#### [Create a webpage with Flask](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-webpage-with-flask?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1751,7 +1726,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-webpage-with-flask?u=76281980&t=31)** Then we'll import Flask.
 >
-> **[0:36](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-webpage-with-flask?u=76281980&t=36)** We also import render_template, which will help us render our HTML files.
+> **[0:36](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-webpage-with-flask?u=76281980&t=36)** We also import render_template, which will help us render our [[HTML]] files.
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-webpage-with-flask?u=76281980&t=43)** Next, we'll initialize our application.
 >
@@ -1801,7 +1776,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[HTML]] (6), database (2), next (1), data (1)
+> **Frameworks & Libraries:** [[HTML]] (6)
 > **Env Vars:** html (4), url (2)
 > **File Paths:** app.py (3), index.html (2)
 > **Prerequisites:** set up (4)
@@ -1810,8 +1785,7 @@ created: 2026-05-02
 > **Exercise Files:** template (2)
 > **Code Identifiers:** render_template (1)
 
-#### Build a landing page
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/build-a-landing-page?u=76281980)
+#### [Build a landing page](https://www.linkedin.com/learning/advanced-python-practical-database-examples/build-a-landing-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1857,7 +1831,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/advanced-python-practical-database-examples/build-a-landing-page?u=76281980&t=113)** The user will submit their data by pressing this button.
 >
-> **[1:58](https://www.linkedin.com/learning/advanced-python-practical-database-examples/build-a-landing-page?u=76281980&t=118)** Perfect. Our index.html template is set up.
+> **[1:58](https://www.linkedin.com/learning/advanced-python-practical-database-examples/build-a-landing-page?u=76281980&t=118)** Perfect. Our index.[[HTML]] template is set up.
 >
 > **[2:02](https://www.linkedin.com/learning/advanced-python-practical-database-examples/build-a-landing-page?u=76281980&t=122)** We haven't defined the individual project routes or the Add Project route, so none of the links or buttons will work.
 >
@@ -1889,7 +1863,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[HTML]] (2), database (1), application (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **CLI Commands:** make (3)
 > **File Paths:** index.html (2)
 > **Env Vars:** post (1)
@@ -1898,15 +1872,13 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Prerequisites:** set up (1)
 
-#### Develop additional routes to enhance your application
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/develop-additional-routes-to-enhance-your-application?u=76281980)
+#### [Develop additional routes to enhance your application](https://www.linkedin.com/learning/advanced-python-practical-database-examples/develop-additional-routes-to-enhance-your-application?u=76281980)
 
-#### Build a project tasks page
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/build-a-project-tasks-page?u=76281980)
+#### [Build a project tasks page](https://www.linkedin.com/learning/advanced-python-practical-database-examples/build-a-project-tasks-page?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/build-a-project-tasks-page?u=76281980&t=0)** - [Instructor] Let's set up the project task's HTML template so we can add tasks to a project.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/build-a-project-tasks-page?u=76281980&t=0)** - [Instructor] Let's set up the project task's [[HTML]] template so we can add tasks to a project.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-python-practical-database-examples/build-a-project-tasks-page?u=76281980&t=6)** To keep this simple, we'll start by hard coding some tasks.
 >
@@ -1960,19 +1932,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** html (1), post (1)
 > **Cross-References:** in the last (1), go back to (1)
 > **Exercise Files:** template (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a Postgres database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-postgres-database?u=76281980)
+#### [Create a Postgres database](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-postgres-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-postgres-database?u=76281980&t=0)** - [Instructor] We'll be using a Postgres database to store our applications, project, and task data.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-postgres-database?u=76281980&t=0)** - [Instructor] We'll be using a [[PostgreSQL|Postgres]] database to store our applications, project, and task data.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-postgres-database?u=76281980&t=7)** If you haven't installed it, you can install it from the Postgres website.
 >
@@ -2000,11 +1971,11 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-postgres-database?u=76281980&t=72)** To access our Postgres data, we can use specific commands.
 >
-> **[1:17](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-postgres-database?u=76281980&t=77)** For example, we can use slash l to list our databases.
+> **[1:17](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-postgres-database?u=76281980&t=77)** For example, we can use slash l to list our [[Databases]].
 >
 > **[1:23](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-postgres-database?u=76281980&t=83)** Here we have some default ones along with the one we just created.
 >
-> **[1:29](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-postgres-database?u=76281980&t=89)** Similar to MySQL, if you want to manipulate the data in a given database, we have to connect to it.
+> **[1:29](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-postgres-database?u=76281980&t=89)** Similar to [[MySQL]], if you want to manipulate the data in a given database, we have to connect to it.
 >
 > **[1:37](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-postgres-database?u=76281980&t=97)** Let's connect to our project tracker database.
 >
@@ -2016,27 +1987,26 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-postgres-database?u=76281980&t=114)** And we're connected.
 >
-> **[1:56](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-postgres-database?u=76281980&t=116)** We've just created a Postgres database with Python.
+> **[1:56](https://www.linkedin.com/learning/advanced-python-practical-database-examples/create-a-postgres-database?u=76281980&t=116)** We've just created a Postgres database with [[Python (Programming Language)|Python]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[PostgreSQL|Postgres]] (7), data (3), [[Databases]] (1), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (7), [[Databases]] (1), [[MySQL]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** psql (1), mysql (1), python (1)
 > **Prerequisites:** install (1), set up (1), setup (1)
 > **Analogies:** for example (1), similar to (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Instantiate a Postgres table using Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/instantiate-a-postgres-table-using-python?u=76281980)
+#### [Instantiate a Postgres table using Python](https://www.linkedin.com/learning/advanced-python-practical-database-examples/instantiate-a-postgres-table-using-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/instantiate-a-postgres-table-using-python?u=76281980&t=0)** - [Instructor] With the Postgres database created, we can connect to it and add data to it in our application before we integrate it with our FLAS code.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/instantiate-a-postgres-table-using-python?u=76281980&t=0)** - [Instructor] With the [[PostgreSQL|Postgres]] database created, we can connect to it and add data to it in our application before we integrate it with our FLAS code.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-python-practical-database-examples/instantiate-a-postgres-table-using-python?u=76281980&t=10)** Let's make sure we can interact with it just using Python first since we've already used databases before in this course with SQL Alchemy, I've written up some of the starter code to interact with this database.
+> **[0:10](https://www.linkedin.com/learning/advanced-python-practical-database-examples/instantiate-a-postgres-table-using-python?u=76281980&t=10)** Let's make sure we can interact with it just using [[Python (Programming Language)|Python]] first since we've already used [[Databases]] before in this course with [[SQL]] Alchemy, I've written up some of the starter code to interact with this database.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-python-practical-database-examples/instantiate-a-postgres-table-using-python?u=76281980&t=24)** It should look pretty similar to the code we created for our MySQL database.
+> **[0:24](https://www.linkedin.com/learning/advanced-python-practical-database-examples/instantiate-a-postgres-table-using-python?u=76281980&t=24)** It should look pretty similar to the code we created for our [[MySQL]] database.
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-python-practical-database-examples/instantiate-a-postgres-table-using-python?u=76281980&t=30)** The main difference will be what connection string we feed into Create Engine.
 >
@@ -2124,15 +2094,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (15), [[PostgreSQL|Postgres]] (5), [[SQL]] (4), data (2), application (2)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (5), [[SQL]] (4), [[Python (Programming Language)|Python]] (1), [[Databases]] (1), [[MySQL]] (1)
 > **Env Vars:** sql (4), flas (2)
 > **CLI Commands:** make (1), python (1), mysql (1), find (1)
 > **Exercise Files:** starter code (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connect a database to a Python Flask project
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/connect-a-database-to-a-python-flask-project?u=76281980)
+#### [Connect a database to a Python Flask project](https://www.linkedin.com/learning/advanced-python-practical-database-examples/connect-a-database-to-a-python-flask-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2150,7 +2119,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-python-practical-database-examples/connect-a-database-to-a-python-flask-project?u=76281980&t=33)** First, we'll configure the SQLALCHEMY_DATABASE_URI.
 >
-> **[0:39](https://www.linkedin.com/learning/advanced-python-practical-database-examples/connect-a-database-to-a-python-flask-project?u=76281980&t=39)** This URI is like a connection string that allows us to connect to our Postgres database.
+> **[0:39](https://www.linkedin.com/learning/advanced-python-practical-database-examples/connect-a-database-to-a-python-flask-project?u=76281980&t=39)** This URI is like a connection string that allows us to connect to our [[PostgreSQL|Postgres]] database.
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-python-practical-database-examples/connect-a-database-to-a-python-flask-project?u=76281980&t=45)** It's what we fed in to the create engine function before when we used SQLAlchemy previously.
 >
@@ -2158,7 +2127,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/connect-a-database-to-a-python-flask-project?u=76281980&t=60)** This will allow us to securely use SQLAlchemy sessions in our Flask application.
 >
-> **[1:07](https://www.linkedin.com/learning/advanced-python-practical-database-examples/connect-a-database-to-a-python-flask-project?u=76281980&t=67)** Now the value for this key is something we set and we can generate one quickly using a Python Three shell.
+> **[1:07](https://www.linkedin.com/learning/advanced-python-practical-database-examples/connect-a-database-to-a-python-flask-project?u=76281980&t=67)** Now the value for this key is something we set and we can generate one quickly using a [[Python (Programming Language)|Python]] Three shell.
 >
 > **[1:19](https://www.linkedin.com/learning/advanced-python-practical-database-examples/connect-a-database-to-a-python-flask-project?u=76281980&t=79)** Let's open one up.
 >
@@ -2174,15 +2143,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), application (3), [[PostgreSQL|Postgres]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[Python (Programming Language)|Python]] (1)
 > **Prerequisites:** install (2), configure (2)
 > **Env Vars:** sqlalchemy_database_uri (1), uri (1), secret_key (1)
 > **File Paths:** app.py (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Integrate project data from a Database into Flask
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/integrate-project-data-from-a-database-into-flask?u=76281980)
+#### [Integrate project data from a Database into Flask](https://www.linkedin.com/learning/advanced-python-practical-database-examples/integrate-project-data-from-a-database-into-flask?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2200,7 +2168,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/advanced-python-practical-database-examples/integrate-project-data-from-a-database-into-flask?u=76281980&t=44)** We'll add the functionality so our homepage displays all of our projects.
 >
-> **[0:50](https://www.linkedin.com/learning/advanced-python-practical-database-examples/integrate-project-data-from-a-database-into-flask?u=76281980&t=50)** To do this, we'll need to feed our projects into our index.html.
+> **[0:50](https://www.linkedin.com/learning/advanced-python-practical-database-examples/integrate-project-data-from-a-database-into-flask?u=76281980&t=50)** To do this, we'll need to feed our projects into our index.[[HTML]].
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-python-practical-database-examples/integrate-project-data-from-a-database-into-flask?u=76281980&t=55)** We'll add another argument to our render_template call.
 >
@@ -2244,7 +2212,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[HTML]] (6), database (4), application (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (6)
 > **File Paths:** index.html (3), app.py (2)
 > **Code Identifiers:** render_template (2), project_id (1)
 > **Env Vars:** html (3)
@@ -2252,8 +2220,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Integrate task data from a database into a Flask app
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/integrate-task-data-from-a-database-into-a-flask-app?u=76281980)
+#### [Integrate task data from a database into a Flask app](https://www.linkedin.com/learning/advanced-python-practical-database-examples/integrate-task-data-from-a-database-into-a-flask-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2279,7 +2246,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-python-practical-database-examples/integrate-task-data-from-a-database-into-a-flask-app?u=76281980&t=70)** We'll feed it all of the tasks with the project ID from the request.
 >
-> **[1:15](https://www.linkedin.com/learning/advanced-python-practical-database-examples/integrate-task-data-from-a-database-into-a-flask-app?u=76281980&t=75)** With this render call complete, we just need to modify our project tasks HTML file to read this data.
+> **[1:15](https://www.linkedin.com/learning/advanced-python-practical-database-examples/integrate-task-data-from-a-database-into-a-flask-app?u=76281980&t=75)** With this render call complete, we just need to modify our project tasks [[HTML]] file to read this data.
 >
 > **[1:23](https://www.linkedin.com/learning/advanced-python-practical-database-examples/integrate-task-data-from-a-database-into-a-flask-app?u=76281980&t=83)** Since we passed the specific project data as project and the app.py file, we'll reference it as project and the HTML file.
 >
@@ -2313,11 +2280,11 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/advanced-python-practical-database-examples/integrate-task-data-from-a-database-into-a-flask-app?u=76281980&t=181)** There's the project title with the task data.
 >
-> **[3:05](https://www.linkedin.com/learning/advanced-python-practical-database-examples/integrate-task-data-from-a-database-into-a-flask-app?u=76281980&t=185)** All of this is coming from our Postgres database.
+> **[3:05](https://www.linkedin.com/learning/advanced-python-practical-database-examples/integrate-task-data-from-a-database-into-a-flask-app?u=76281980&t=185)** All of this is coming from our [[PostgreSQL|Postgres]] database.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[HTML]] (3), application (2), [[PostgreSQL|Postgres]] (1), database (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** html (3), url (1)
 > **File Paths:** app.py (2)
 > **Exercise Files:** template (2)
@@ -2325,11 +2292,9 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Develop add functionality to add a project
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/develop-add-functionality-to-add-a-project?u=76281980)
+#### [Develop add functionality to add a project](https://www.linkedin.com/learning/advanced-python-practical-database-examples/develop-add-functionality-to-add-a-project?u=76281980)
 
-#### Develop add functionality to add a task
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/develop-add-functionality-to-add-a-task?u=76281980)
+#### [Develop add functionality to add a task](https://www.linkedin.com/learning/advanced-python-practical-database-examples/develop-add-functionality-to-add-a-task?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2337,7 +2302,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-python-practical-database-examples/develop-add-functionality-to-add-a-task?u=76281980&t=6)** We've already written the routes, so now we just need to read in the data from the request and feed it into the database.
 >
-> **[0:14](https://www.linkedin.com/learning/advanced-python-practical-database-examples/develop-add-functionality-to-add-a-task?u=76281980&t=14)** In our project-tasks.html, we named the user's input task name, so that's how we'll access it in the request form in our app.py.
+> **[0:14](https://www.linkedin.com/learning/advanced-python-practical-database-examples/develop-add-functionality-to-add-a-task?u=76281980&t=14)** In our project-tasks.[[HTML]], we named the user's input task name, so that's how we'll access it in the request form in our app.py.
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-python-practical-database-examples/develop-add-functionality-to-add-a-task?u=76281980&t=26)** We'll want to add some error checking here just like we did with add_project.
 >
@@ -2377,7 +2342,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (3), [[HTML]] (3)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **File Paths:** project-tasks.html (2), app.py (2), index.html (1)
 > **CLI Commands:** make (1), python3 (1)
 > **Code Identifiers:** add_project (1), project_id (1)
@@ -2385,14 +2350,13 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Develop delete functionality
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/challenge-develop-delete-functionality?u=76281980)
+#### [Challenge: Develop delete functionality](https://www.linkedin.com/learning/advanced-python-practical-database-examples/challenge-develop-delete-functionality?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/challenge-develop-delete-functionality?u=76281980&t=0)** (cheerful music)
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-python-practical-database-examples/challenge-develop-delete-functionality?u=76281980&t=5)** - [Instructor] Throughout this chapter, we've been adding more and more functionality to our Python Project Tracker web application.
+> **[0:05](https://www.linkedin.com/learning/advanced-python-practical-database-examples/challenge-develop-delete-functionality?u=76281980&t=5)** - [Instructor] Throughout this chapter, we've been adding more and more functionality to our [[Python (Programming Language)|Python]] Project Tracker web application.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-python-practical-database-examples/challenge-develop-delete-functionality?u=76281980&t=13)** In this challenge, you'll develop delete functionality.
 >
@@ -2406,13 +2370,13 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-python-practical-database-examples/challenge-develop-delete-functionality?u=76281980&t=39)** If a user deletes a project with tasks, the project and each task associated with the project should be deleted from the database.
 >
-> **[0:49](https://www.linkedin.com/learning/advanced-python-practical-database-examples/challenge-develop-delete-functionality?u=76281980&t=49)** It's important to note that adding delete functionality will require changes to your app.py file as well as your HTML templates.
+> **[0:49](https://www.linkedin.com/learning/advanced-python-practical-database-examples/challenge-develop-delete-functionality?u=76281980&t=49)** It's important to note that adding delete functionality will require changes to your app.py file as well as your [[HTML]] templates.
 >
 > **[0:59](https://www.linkedin.com/learning/advanced-python-practical-database-examples/challenge-develop-delete-functionality?u=76281980&t=59)** Good luck.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[Python (Programming Language)|Python]] (1), web application (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[HTML]] (1)
 > **Warnings:** watch out (1), note that (1)
 > **File Paths:** app.py (1)
 > **CLI Commands:** python (1)
@@ -2420,8 +2384,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (cheerful music) (1)
 
-#### Solution: Develop delete functionality
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/solution-develop-delete-functionality?u=76281980)
+#### [Solution: Develop delete functionality](https://www.linkedin.com/learning/advanced-python-practical-database-examples/solution-develop-delete-functionality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2569,7 +2532,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), application (4), database (2)
 > **Code Identifiers:** project_id (4), task_id (2), delete_task (2), back_populates (2), pending_delete (1)
 > **Env Vars:** url (3), post (2)
 > **CLI Commands:** make (2), find (1)
@@ -2577,32 +2539,32 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
+> **Analogies:** for example (1)
 
 
 ### Conclusion
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue building applications with databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-practical-database-examples/continue-building-applications-with-databases?u=76281980)
+#### [Continue building applications with databases](https://www.linkedin.com/learning/advanced-python-practical-database-examples/continue-building-applications-with-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-practical-database-examples/continue-building-applications-with-databases?u=76281980&t=0)** - Congratulations on finishing the course.
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-python-practical-database-examples/continue-building-applications-with-databases?u=76281980&t=3)** By getting practice using databases in real world applications, you've become more familiar with how databases can be used in Python.
+> **[0:03](https://www.linkedin.com/learning/advanced-python-practical-database-examples/continue-building-applications-with-databases?u=76281980&t=3)** By getting practice using [[Databases]] in real world applications, you've become more familiar with how databases can be used in [[Python (Programming Language)|Python]].
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-python-practical-database-examples/continue-building-applications-with-databases?u=76281980&t=12)** From here, I encourage you to check out some of the other Python courses in the library.
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-python-practical-database-examples/continue-building-applications-with-databases?u=76281980&t=18)** For diving deeper into databases, try some of the courses focused solely on your database of choice.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-python-practical-database-examples/continue-building-applications-with-databases?u=76281980&t=25)** SQLite, MySQL, or Postgres.
+> **[0:25](https://www.linkedin.com/learning/advanced-python-practical-database-examples/continue-building-applications-with-databases?u=76281980&t=25)** SQLite, [[MySQL]], or [[PostgreSQL|Postgres]].
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-python-practical-database-examples/continue-building-applications-with-databases?u=76281980&t=29)** Understanding the nuances of the technologies your application interacts with can be the difference between spending a week on a coding problem versus an hour.
 >
 > **[0:40](https://www.linkedin.com/learning/advanced-python-practical-database-examples/continue-building-applications-with-databases?u=76281980&t=40)** You may also want to dig deeper into some of the technologies we touched on.
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-python-practical-database-examples/continue-building-applications-with-databases?u=76281980&t=45)** These include Flask, pandas, and FastAPI.
+> **[0:45](https://www.linkedin.com/learning/advanced-python-practical-database-examples/continue-building-applications-with-databases?u=76281980&t=45)** These include Flask, [[Pandas (Software)|pandas]], and FastAPI.
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-python-practical-database-examples/continue-building-applications-with-databases?u=76281980&t=49)** If you want more practice with databases and Python, I encourage you to take my advanced Python, working with databases course.
 >
@@ -2614,11 +2576,11 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/advanced-python-practical-database-examples/continue-building-applications-with-databases?u=76281980&t=85)** There's always something new to learn.
 >
-> **[1:27](https://www.linkedin.com/learning/advanced-python-practical-database-examples/continue-building-applications-with-databases?u=76281980&t=87)** My name is Kathryn and I hope to see you again in some of my other LinkedIn learning courses.
+> **[1:27](https://www.linkedin.com/learning/advanced-python-practical-database-examples/continue-building-applications-with-databases?u=76281980&t=87)** My name is Kathryn and I hope to see you again in some of my other [[LinkedIn]] learning courses.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (7), [[Python (Programming Language)|Python]] (5), database (1), [[MySQL]] (1), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[Databases]] (7), [[Python (Programming Language)|Python]] (5), [[MySQL]] (1), [[PostgreSQL|Postgres]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (5), mysql (1)
 > **Speakers:** - congratulations (1)
 

@@ -38,22 +38,22 @@ created: 2026-05-02
 7. [[WordPress Essential Training]] — 4 mentions
 8. [[Winter CMS with Laravel]] — 3 mentions
 9. [[Introduction To Web Design And Development]] — 2 mentions
-10. [[WordPress- Custom Post Types and Taxonomies]] — 2 mentions
+10. [[Azure Understanding The Big Picture]] — 2 mentions
 
 > [!note]- See all 34 courses
-> 11. [[Drupal 9 Essential Training- 2 Content and Fields]] — 2 mentions
-> 12. [[Essential Jigsaw for PHP and Laravel Developers]] — 2 mentions
-> 13. [[Dynamic Application Security Testing]] — 1 mentions
-> 14. [[Static Application Security Testing]] — 1 mentions
-> 15. [[Programming Foundations- Beyond the Fundamentals]] — 1 mentions
-> 16. [[Learning Rest Apis]] — 1 mentions
-> 17. [[HTTP Essential Training]] — 1 mentions
-> 18. [[Using AI for Accessible Design Workflows]] — 1 mentions
-> 19. [[Burp Suite Essential Training]] — 1 mentions
-> 20. [[HTML Essential Training]] — 1 mentions
-> 21. [[Learning SharePoint Online]] — 1 mentions
-> 22. [[CSS- Inheritance, Specificity, and the Cascade]] — 1 mentions
-> 23. [[Azure Understanding The Big Picture]] — 1 mentions
+> 11. [[WordPress- Custom Post Types and Taxonomies]] — 2 mentions
+> 12. [[Drupal 9 Essential Training- 2 Content and Fields]] — 2 mentions
+> 13. [[Essential Jigsaw for PHP and Laravel Developers]] — 2 mentions
+> 14. [[Dynamic Application Security Testing]] — 1 mentions
+> 15. [[Static Application Security Testing]] — 1 mentions
+> 16. [[Programming Foundations- Beyond the Fundamentals]] — 1 mentions
+> 17. [[Learning Rest Apis]] — 1 mentions
+> 18. [[HTTP Essential Training]] — 1 mentions
+> 19. [[Using AI for Accessible Design Workflows]] — 1 mentions
+> 20. [[Burp Suite Essential Training]] — 1 mentions
+> 21. [[HTML Essential Training]] — 1 mentions
+> 22. [[Learning SharePoint Online]] — 1 mentions
+> 23. [[CSS- Inheritance, Specificity, and the Cascade]] — 1 mentions
 > 24. [[Microsoft Security Essentials Concepts Solutions And Ai Powered Protection]] — 1 mentions
 > 25. [[HTML and CSS- Linking]] — 1 mentions
 > 26. [[HTML- Structured Semantic Data]] — 1 mentions
@@ -77,7 +77,7 @@ created: 2026-05-02
 7. [[Penetration Testing Professional Certificate by Cybrary]] — 4 total mentions
 8. [[Explore a Career in Front-End Web Development]] — 3 total mentions
 9. [[Advance Your Skills in HTML]] — 3 total mentions
-10. [[Explore a Career in Application Security]] — 2 total mentions
+10. [[Azure Administration for Beginners- Management Tools, Services, and Security]] — 2 total mentions
 
 ---
 

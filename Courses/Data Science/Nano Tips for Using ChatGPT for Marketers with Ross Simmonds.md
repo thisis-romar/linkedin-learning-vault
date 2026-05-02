@@ -66,12 +66,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to ChatGPT and AI for marketers
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/introduction-to-chatgpt-and-ai-for-marketers?u=76281980)
+#### [Introduction to ChatGPT and AI for marketers](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/introduction-to-chatgpt-and-ai-for-marketers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/introduction-to-chatgpt-and-ai-for-marketers?u=76281980&t=0)** - ChatGPT has fundamentally changed the way that marketers have to show up in their job every single day.
+> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/introduction-to-chatgpt-and-ai-for-marketers?u=76281980&t=0)** - [[ChatGPT]] has fundamentally changed the way that marketers have to show up in their job every single day.
 >
 > **[0:06](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/introduction-to-chatgpt-and-ai-for-marketers?u=76281980&t=6)** If you want to be a great marketer today, you should probably know a little bit about AI.
 >
@@ -85,16 +84,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), ai (2), prompt (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (3)
 > **Speakers:** - chatgpt (1)
 > **Non-Speech:** (cheerful music) (1)
 
-#### Why every prompt you write for ChatGPT needs a task
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/why-every-prompt-you-write-for-chatgpt-needs-a-task?u=76281980)
+#### [Why every prompt you write for ChatGPT needs a task](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/why-every-prompt-you-write-for-chatgpt-needs-a-task?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/why-every-prompt-you-write-for-chatgpt-needs-a-task?u=76281980&t=0)** - As a marketer, if you're giving a prompt to ChatGPT, there's one thing that you need to ensure that you are giving it, a task.
+> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/why-every-prompt-you-write-for-chatgpt-needs-a-task?u=76281980&t=0)** - As a marketer, if you're giving a prompt to [[ChatGPT]], there's one thing that you need to ensure that you are giving it, a task.
 >
 > **[0:06](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/why-every-prompt-you-write-for-chatgpt-needs-a-task?u=76281980&t=6)** Just like you would give a task to somebody that you're working with, you need to give a task to ChatGPT.
 >
@@ -116,14 +114,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), prompt (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6)
 > **Env Vars:** aida (1)
 > **Analogies:** just like (1)
 > **Speakers:** - as (1)
 > **Non-Speech:** (light upbeat music) (1)
 
-#### Why you should give ChatGPT an exemplar for better results
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/why-you-should-give-chatgpt-an-exemplar-for-better-results?u=76281980)
+#### [Why you should give ChatGPT an exemplar for better results](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/why-you-should-give-chatgpt-an-exemplar-for-better-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -145,41 +142,38 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1)
 > **Env Vars:** gpt (3)
 > **Analogies:** for example (1)
 > **Speakers:** - as (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Why you should give ChatGPT context in your prompt
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/why-you-should-give-chatgpt-context-in-your-prompt?u=76281980)
+#### [Why you should give ChatGPT context in your prompt](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/why-you-should-give-chatgpt-context-in-your-prompt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/why-you-should-give-chatgpt-context-in-your-prompt?u=76281980&t=0)** - When you're delivering a prompt to ChatGPT, you need to not only ensure that you're giving them a detailed task, but also that you're providing context.
+> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/why-you-should-give-chatgpt-context-in-your-prompt?u=76281980&t=0)** - When you're delivering a prompt to [[ChatGPT]], you need to not only ensure that you're giving them a detailed task, but also that you're providing context.
 >
 > **[0:09](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/why-you-should-give-chatgpt-context-in-your-prompt?u=76281980&t=9)** Why do you want ChatGPT to actually help you out with this task?
 >
 > **[0:13](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/why-you-should-give-chatgpt-context-in-your-prompt?u=76281980&t=13)** If you're asking ChatGPT to write you a series of emails, tell them that you want these emails to nurture a lead so it can actually translate into revenue for your business.
 >
-> **[0:23](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/why-you-should-give-chatgpt-context-in-your-prompt?u=76281980&t=23)** Or if you're asking ChatGPT to write a blog post, advise the AI whether or not this is a blog post that is intending to rank in Google, AKA SEO, or if it's a blog post that is intending to generate back links.
+> **[0:23](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/why-you-should-give-chatgpt-context-in-your-prompt?u=76281980&t=23)** Or if you're asking ChatGPT to write a blog post, advise the AI whether or not this is a blog post that is intending to rank in [[Google]], AKA SEO, or if it's a blog post that is intending to generate back links.
 >
 > **[0:37](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/why-you-should-give-chatgpt-context-in-your-prompt?u=76281980&t=37)** You have to communicate this to your ChatGPT bot, AI, agent, whatever it might be, so you can get a better result.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), ai (2), prompt (1), business (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Google]] (1)
 > **Env Vars:** aka (1), seo (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Why you should always give ChatGPT a role to play
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/why-you-should-always-give-chatgpt-a-role-to-play?u=76281980)
+#### [Why you should always give ChatGPT a role to play](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/why-you-should-always-give-chatgpt-a-role-to-play?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/why-you-should-always-give-chatgpt-a-role-to-play?u=76281980&t=0)** - As a marketer, one of my favorite things to do with ChatGPT is to ensure that ChatGPT is playing role play.
+> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/why-you-should-always-give-chatgpt-a-role-to-play?u=76281980&t=0)** - As a marketer, one of my favorite things to do with [[ChatGPT]] is to ensure that ChatGPT is playing role play.
 >
 > **[0:06](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/why-you-should-always-give-chatgpt-a-role-to-play?u=76281980&t=6)** What do I mean by that?
 >
@@ -203,18 +197,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (9), ai (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (9)
 > **Analogies:** for example (1), kind of like (1), just like (1)
 > **Speakers:** - as (1)
 
-#### How to ensure ChatGPT delivers the right tone
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-ensure-chatgpt-delivers-the-right-tone?u=76281980)
+#### [How to ensure ChatGPT delivers the right tone](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-ensure-chatgpt-delivers-the-right-tone?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-ensure-chatgpt-delivers-the-right-tone?u=76281980&t=0)** - One of the trickiest things for marketers to get right is to ensure that the tone for everything that they create is aligned and centered around a certain voice.
 >
-> **[0:09](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-ensure-chatgpt-delivers-the-right-tone?u=76281980&t=9)** When you are using ChatGPT to help you create content, copy, messaging and stories, you need to ask ChatGPT to ensure that it takes on a certain tone.
+> **[0:09](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-ensure-chatgpt-delivers-the-right-tone?u=76281980&t=9)** When you are using [[ChatGPT]] to help you create content, copy, messaging and stories, you need to ask ChatGPT to ensure that it takes on a certain tone.
 >
 > **[0:19](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-ensure-chatgpt-delivers-the-right-tone?u=76281980&t=19)** Don't just say, "Hey ChatGPT, "write me five posts "that can go out on my social media channels."
 >
@@ -237,12 +230,11 @@ created: 2026-05-02
 > **Speakers:** - one (1)
 > **Non-Speech:** (light upbeat music) (1)
 
-#### How to use temperature in ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-use-temperature-in-chatgpt?u=76281980)
+#### [How to use temperature in ChatGPT](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-use-temperature-in-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-use-temperature-in-chatgpt?u=76281980&t=0)** - An underrated element within ChatGPT that not a lot of people understand is temperature.
+> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-use-temperature-in-chatgpt?u=76281980&t=0)** - An underrated element within [[ChatGPT]] that not a lot of people understand is temperature.
 >
 > **[0:05](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-use-temperature-in-chatgpt?u=76281980&t=5)** What does a temperature have to do with ChatGPT?
 >
@@ -262,19 +254,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), prompt (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6)
 > **Versions:** 0.5 (1)
 > **Speakers:** - an (1)
 > **Non-Speech:** (light upbeat music) (1)
 
-#### How to use AI correctly as a marketer
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-use-ai-correctly-as-a-marketer?u=76281980)
+#### [How to use AI correctly as a marketer](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-use-ai-correctly-as-a-marketer?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-use-ai-correctly-as-a-marketer?u=76281980&t=0)** - If you're leveraging AI in a way that actually ensures that the data stays within your own cloud servers, your own systems, or it doesn't have the ability to kind of leak out and you've taken care of all of that, one of my favorite opportunities that exists is to leverage these tools to actually do analysis of data.
 >
-> **[0:18](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-use-ai-correctly-as-a-marketer?u=76281980&t=18)** For example, as a marketer, I see a lot of data, whether it's email marketing data, whether it's Google Analytics data, whether it's data around what I'm doing on LinkedIn, what is very beneficial for me is to be able to upload my reports, to upload my data directly to a solution like ChatGPT and say analyze this spreadsheet and give me a recommendation.
+> **[0:18](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-use-ai-correctly-as-a-marketer?u=76281980&t=18)** For example, as a marketer, I see a lot of data, whether it's [[Email Marketing]] data, whether it's [[Google]] Analytics data, whether it's data around what I'm doing on [[LinkedIn]], what is very beneficial for me is to be able to upload my reports, to upload my data directly to a solution like [[ChatGPT]] and say analyze this spreadsheet and give me a recommendation.
 >
 > **[0:37](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-use-ai-correctly-as-a-marketer?u=76281980&t=37)** Give me a recommendation on the days in which I should be posting content on LinkedIn.
 >
@@ -284,25 +275,24 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-use-ai-correctly-as-a-marketer?u=76281980&t=50)** And within the matter of seconds, ChatGPT will give you a response that gives you details on that data that you provided it with.
 >
-> **[0:57](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-use-ai-correctly-as-a-marketer?u=76281980&t=57)** Do not hesitate to leverage ChatGPT, not just for content creation, but also for analysis.
+> **[0:57](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-use-ai-correctly-as-a-marketer?u=76281980&t=57)** Do not hesitate to leverage ChatGPT, not just for [[Content Creation]], but also for analysis.
 >
 > **[1:02](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-use-ai-correctly-as-a-marketer?u=76281980&t=62)** Don't get me wrong, hallucinations are real, so you need to be ensuring that you're double checking that work, but don't be afraid to use it for analysis on data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[ChatGPT]] (3), [[LinkedIn]] (2), traffic (2), ai (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[LinkedIn]] (2), [[Email Marketing]] (1), [[Google]] (1), [[Content Creation]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - if (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### How to make amazing visuals using ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-make-amazing-visuals-using-chatgpt?u=76281980)
+#### [How to make amazing visuals using ChatGPT](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-make-amazing-visuals-using-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-make-amazing-visuals-using-chatgpt?u=76281980&t=0)** - One of the final frontiers for marketers leveraging AI to create great content is the ability to develop visuals.
 >
-> **[0:07](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-make-amazing-visuals-using-chatgpt?u=76281980&t=7)** And now thanks to ChatGPT combining and launching DALL-E, you now have the ability, after you have mastered the art of writing a great prompt, to ask ChatGPT to actually create for you visual assets that can go into those very blog posts that you just had, ChatGPT Craft.
+> **[0:07](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-make-amazing-visuals-using-chatgpt?u=76281980&t=7)** And now thanks to [[ChatGPT]] combining and launching [[DALL-E]], you now have the ability, after you have mastered the art of writing a great prompt, to ask ChatGPT to actually create for you visual assets that can go into those very blog posts that you just had, ChatGPT Craft.
 >
 > **[0:23](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/how-to-make-amazing-visuals-using-chatgpt?u=76281980&t=23)** So instead of just writing the blog post and then running off to a stock photo site to try and find stock photos that can fit into it, you can say, "ChatGPT, I want you to create four images that will fit into this blog post after my headers.
 >
@@ -314,18 +304,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), prompt (2), ai (1), [[DALL-E]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[DALL-E]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** dall (1)
 > **Speakers:** - one (1)
 > **Non-Speech:** (relaxing music) (1)
 
-#### The dos and don'ts of ChatGPT as a marketer
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/the-dos-and-don-ts-of-chatgpt-as-a-marketer?u=76281980)
+#### [The dos and don'ts of ChatGPT as a marketer](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/the-dos-and-don-ts-of-chatgpt-as-a-marketer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/the-dos-and-don-ts-of-chatgpt-as-a-marketer?u=76281980&t=0)** - Here are the do's and don'ts for using ChatGPT as a marketer.
+> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/the-dos-and-don-ts-of-chatgpt-as-a-marketer?u=76281980&t=0)** - Here are the do's and don'ts for using [[ChatGPT]] as a marketer.
 >
 > **[0:03](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-marketers-with-ross-simmonds/the-dos-and-don-ts-of-chatgpt-as-a-marketer?u=76281980&t=3)** One, you want to embrace very clear prompts.
 >
@@ -351,7 +340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), ai (1), business (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5)
 > **Definitions:** is called (1)
 > **Speakers:** - here (1)
 > **Non-Speech:** (light upbeat music) (1)

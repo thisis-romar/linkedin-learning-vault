@@ -125,8 +125,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -134,19 +133,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (2)
 > **Env Vars:** brfss (2)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [monika] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-you-should-know-24785620?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-you-should-know-24785620?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-you-should-know-24785620?u=76281980&t=0)** - [Instructor] You should have already had at least one course in basic statistics.
+> **[0:00](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-you-should-know-24785620?u=76281980&t=0)** - [Instructor] You should have already had at least one course in basic [[Statistics]].
 >
-> **[0:05](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-you-should-know-24785620?u=76281980&t=5)** Also, you should have a background in health, healthcare, or public health.
+> **[0:05](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-you-should-know-24785620?u=76281980&t=5)** Also, you should have a background in health, healthcare, or [[Public Health]].
 >
 > **[0:09](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-you-should-know-24785620?u=76281980&t=9)** However, you don't need a heavy background in statistical programming.
 >
@@ -162,13 +159,13 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-you-should-know-24785620?u=76281980&t=50)** I also recommend you use the latest version of R for your operating system as you follow along.
 >
-> **[0:57](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-you-should-know-24785620?u=76281980&t=57)** I'm using Version 3.3.1 and 4.4.1 for Windows.
+> **[0:57](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-you-should-know-24785620?u=76281980&t=57)** I'm using Version 3.3.1 and 4.4.1 for [[Windows]].
 >
 > **[1:02](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-you-should-know-24785620?u=76281980&t=62)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (1), [[Public Health]] (1), [[Programming]] (1), data (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Public Health]] (1), [[Windows]] (1)
 > **Versions:** version 3 (1), 3.1 (1), 4.4.1 (1)
 > **Exercise Files:** exercise files (2)
 > **CLI Commands:** make (1)
@@ -179,8 +176,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### U.S. risk factors
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/us-risk-factors?u=76281980)
+#### [U.S. risk factors](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/us-risk-factors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -226,11 +222,11 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/us-risk-factors?u=76281980&t=123)** Even though it has clinically-measured variables, my opinion is that the complexity and bias offset that advantage.
 >
-> **[2:10](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/us-risk-factors?u=76281980&t=130)** Hence, I'm a much bigger fan of the second main public health surveillance effort in the US, the Behavioral Risk Factor Surveillance System, or BRFSS, which is done on a yearly cycle.
+> **[2:10](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/us-risk-factors?u=76281980&t=130)** Hence, I'm a much bigger fan of the second main [[Public Health]] surveillance effort in the US, the Behavioral Risk Factor Surveillance System, or BRFSS, which is done on a yearly cycle.
 >
 > **[2:21](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/us-risk-factors?u=76281980&t=141)** You'll see the differences between BRFSS and NHANES.
 >
-> **[2:25](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/us-risk-factors?u=76281980&t=145)** First, while the CDC organizes the BRFSS and provides supports to states doing the BRFSS, the data collection is actually run at the state level.
+> **[2:25](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/us-risk-factors?u=76281980&t=145)** First, while the CDC organizes the BRFSS and provides supports to states doing the BRFSS, the [[Data Collection]] is actually run at the state level.
 >
 > **[2:35](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/us-risk-factors?u=76281980&t=155)** Next, instead of running around neighborhoods in a MEC, the BRFSS does anonymous phone surveys by simply randomly generating phone numbers, calling them, and doing the survey.
 >
@@ -282,7 +278,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (4), [[Public Health]] (2), express (1)
+> **Frameworks & Libraries:** [[Public Health]] (2), [[Data Collection]] (1)
 > **Env Vars:** brfss (19), nhanes (14), cdc (2), mec (2)
 > **Analogies:** such as (4), imagine (1), for example (1)
 > **Definitions:** is a  (3)
@@ -290,8 +286,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Introduction to the BRFSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/introduction-to-the-brfss?u=76281980)
+#### [Introduction to the BRFSS](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/introduction-to-the-brfss?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -301,7 +296,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/introduction-to-the-brfss?u=76281980&t=13)** Next, I'll give examples of how the government uses these data.
 >
-> **[0:18](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/introduction-to-the-brfss?u=76281980&t=18)** So what specific role does the BRFSS play in US public health surveillance?
+> **[0:18](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/introduction-to-the-brfss?u=76281980&t=18)** So what specific role does the BRFSS play in US [[Public Health]] surveillance?
 >
 > **[0:24](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/introduction-to-the-brfss?u=76281980&t=24)** Let's talk about how we know that 14.7% of Massachusetts adults smoked in 2014.
 >
@@ -319,7 +314,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/introduction-to-the-brfss?u=76281980&t=72)** The CDC helps the states with their landline and cellphone sampling, and they also make core and module questionnaires and associated resources available so states can use them.
 >
-> **[1:22](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/introduction-to-the-brfss?u=76281980&t=82)** In addition, the CDC provides the states standardized data collection training.
+> **[1:22](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/introduction-to-the-brfss?u=76281980&t=82)** In addition, the CDC provides the states standardized [[Data Collection]] training.
 >
 > **[1:27](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/introduction-to-the-brfss?u=76281980&t=87)** Also as I showed you before with that national smoking rates map, the CDC analyzes data and writes reports to inform themselves of the state of the nation's health.
 >
@@ -347,7 +342,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Public Health]] (5), next (2)
+> **Frameworks & Libraries:** [[Public Health]] (5), [[Data Collection]] (4)
 > **Env Vars:** cdc (10), brfss (6), nhanes (1), mmwr (1)
 > **CLI Commands:** make (2)
 > **Versions:** 14.7 (1)
@@ -355,8 +350,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### More on the BRFSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/more-on-the-brfss?u=76281980)
+#### [More on the BRFSS](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/more-on-the-brfss?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -384,7 +378,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/more-on-the-brfss?u=76281980&t=69)** This chapter will go more deeply later into why an independent researcher would want to download these data and use them in an analysis.
 >
-> **[1:17](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/more-on-the-brfss?u=76281980&t=77)** So as a reminder of the two types of data available, the main two public health surveillance efforts in the U.S.
+> **[1:17](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/more-on-the-brfss?u=76281980&t=77)** So as a reminder of the two types of data available, the main two [[Public Health]] surveillance efforts in the U.S.
 >
 > **[1:23](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/more-on-the-brfss?u=76281980&t=83)** are the NHANES, which includes clinical measurements, and the the BRFSS, which is an anonymous phone survey that represents a federal and state collaboration.
 >
@@ -396,13 +390,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Public Health]] (1), next (1)
+> **Frameworks & Libraries:** [[Public Health]] (1)
 > **Env Vars:** brfss (6), cdc (3), nhanes (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is a descriptive BRFSS analysis?
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-is-a-descriptive-brfss-analysis?u=76281980)
+#### [What is a descriptive BRFSS analysis?](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-is-a-descriptive-brfss-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -424,7 +417,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-is-a-descriptive-brfss-analysis?u=76281980&t=41)** In fact, I'm literally talking about using the data fields present in the data set called the weight fields.
 >
-> **[0:49](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-is-a-descriptive-brfss-analysis?u=76281980&t=49)** Just to quickly remind you how weighting works, I'm going to show you how I weight the various components of the final grade I give in the statistics class I teach at Laboure College in Milton, Massachusetts.
+> **[0:49](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-is-a-descriptive-brfss-analysis?u=76281980&t=49)** Just to quickly remind you how weighting works, I'm going to show you how I weight the various components of the final grade I give in the [[Statistics]] class I teach at Laboure College in Milton, Massachusetts.
 >
 > **[1:00](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-is-a-descriptive-brfss-analysis?u=76281980&t=60)** You will see that the weights add up to 100%.
 >
@@ -458,7 +451,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-is-a-descriptive-brfss-analysis?u=76281980&t=165)** For this reason, even though independent researchers sometimes do a descriptive BRFSS analysis with the weights, usually, those types of reports are done by the CDC or the states.
 >
-> **[2:56](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-is-a-descriptive-brfss-analysis?u=76281980&t=176)** It's just because they are the type of researchers who need these rates to make decisions about public health policy.
+> **[2:56](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-is-a-descriptive-brfss-analysis?u=76281980&t=176)** It's just because they are the type of researchers who need these rates to make decisions about [[Public Health]] policy.
 >
 > **[3:03](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-is-a-descriptive-brfss-analysis?u=76281980&t=183)** Here, for an example, let's look at an MMWR publication on tooth loss.
 >
@@ -480,7 +473,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-is-a-descriptive-brfss-analysis?u=76281980&t=252)** There's no central repository for them.
 >
-> **[4:14](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-is-a-descriptive-brfss-analysis?u=76281980&t=254)** But just go to Google Scholar, and you'll find all kinds of BRFSS peer-reviewed articles and governmental reports.
+> **[4:14](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-is-a-descriptive-brfss-analysis?u=76281980&t=254)** But just go to [[Google]] Scholar, and you'll find all kinds of BRFSS peer-reviewed articles and governmental reports.
 >
 > **[4:21](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-is-a-descriptive-brfss-analysis?u=76281980&t=261)** Okay, so now you know what I mean specifically when I say I am talking about a BRFSS descriptive analysis.
 >
@@ -494,7 +487,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (2), [[Statistics]] (1), product (1), [[Public Health]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Public Health]] (1), [[Google]] (1)
 > **Env Vars:** brfss (15), cdc (2), mmwr (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** such as (2), imagine (1), for example (1), just like (1)
@@ -503,8 +496,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 
-#### Cross-sectional analysis in the BRFSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/cross-sectional-analysis-in-the-brfss?u=76281980)
+#### [Cross-sectional analysis in the BRFSS](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/cross-sectional-analysis-in-the-brfss?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -556,7 +548,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/cross-sectional-analysis-in-the-brfss?u=76281980&t=149)** Remember, the weight variable has to equal 100%.
 >
-> **[2:33](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/cross-sectional-analysis-in-the-brfss?u=76281980&t=153)** If you take out records, it's like taking out the final, or midterm, or homework grade from your statistics grade.
+> **[2:33](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/cross-sectional-analysis-in-the-brfss?u=76281980&t=153)** If you take out records, it's like taking out the final, or midterm, or homework grade from your [[Statistics]] grade.
 >
 > **[2:39](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/cross-sectional-analysis-in-the-brfss?u=76281980&t=159)** I'd definitely get in trouble with my students if I did that and you'll get in trouble too, if you try to use the weights provided in BRFSS after removing some of the records.
 >
@@ -576,7 +568,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Env Vars:** brfss (15), mmwr (1)
 > **Cross-References:** in the last (2)
 > **CLI Commands:** find (1)
@@ -584,8 +576,7 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - welcome (1)
 
-#### Ethical use of BRFSS data
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/ethical-use-of-brfss-data?u=76281980)
+#### [Ethical use of BRFSS data](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/ethical-use-of-brfss-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -599,13 +590,13 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/ethical-use-of-brfss-data?u=76281980&t=19)** Notice that using BRFSS data has no IRB obligations.
 >
-> **[0:24](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/ethical-use-of-brfss-data?u=76281980&t=24)** In other words, you don't have to get the designated human research ethics board to approve this research.
+> **[0:24](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/ethical-use-of-brfss-data?u=76281980&t=24)** In other words, you don't have to get the designated human research [[Ethics]] board to approve this research.
 >
 > **[0:29](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/ethical-use-of-brfss-data?u=76281980&t=29)** This is because BRFSS data, due to its anonymous nature, is not technically human research data according to the common rule which establishes the IRBs.
 >
 > **[0:41](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/ethical-use-of-brfss-data?u=76281980&t=41)** It also does not have HIPAA obligations.
 >
-> **[0:44](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/ethical-use-of-brfss-data?u=76281980&t=44)** HIPAA is the privacy act that governs the confidentiality of clinical data.
+> **[0:44](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/ethical-use-of-brfss-data?u=76281980&t=44)** HIPAA is the [[Privacy]] act that governs the confidentiality of clinical data.
 >
 > **[0:48](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/ethical-use-of-brfss-data?u=76281980&t=48)** And BRFSS does not have clinical data, so it's exempt from HIPAA.
 >
@@ -615,7 +606,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/ethical-use-of-brfss-data?u=76281980&t=69)** This feature can be particularly helpful for students who are on a timeline because the time needed for ethical review does not have to be figured into their timeline.
 >
-> **[1:18](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/ethical-use-of-brfss-data?u=76281980&t=78)** Because the data are already collected, master's theses and doctoral dissertations using BRFSS data can concentrate on analytic design rather than data collection.
+> **[1:18](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/ethical-use-of-brfss-data?u=76281980&t=78)** Because the data are already collected, master's theses and doctoral dissertations using BRFSS data can concentrate on analytic design rather than [[Data Collection]].
 >
 > **[1:29](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/ethical-use-of-brfss-data?u=76281980&t=89)** If you are in graduate school and want to use BRFSS data for your master's thesis or doctoral dissertation, please check with your advisor.
 >
@@ -671,7 +662,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/ethical-use-of-brfss-data?u=76281980&t=235)** You need someone who can cover the cardiology and someone who can cover the oral health.
 >
-> **[4:00](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/ethical-use-of-brfss-data?u=76281980&t=240)** So, if you have the analytics skills, you can collaborate with other tenure-packet builders in your office and produce some nice peer-reviewed analyses that will impress your tenure committees.
+> **[4:00](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/ethical-use-of-brfss-data?u=76281980&t=240)** So, if you have the analytics skills, you can collaborate with other tenure-packet builders in your [[Microsoft Office|office]] and produce some nice peer-reviewed analyses that will impress your tenure committees.
 >
 > **[4:13](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/ethical-use-of-brfss-data?u=76281980&t=253)** In conclusion, not only is it ethical to download the BRFSS data and use it for analyses.
 >
@@ -681,11 +672,11 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/ethical-use-of-brfss-data?u=76281980&t=266)** We can leverage the data that the U.S. government has collected for maximum value.
 >
-> **[4:31](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/ethical-use-of-brfss-data?u=76281980&t=271)** And also, if your company sells health-related products, BRFSS can provide the opportunity for market research.
+> **[4:31](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/ethical-use-of-brfss-data?u=76281980&t=271)** And also, if your company sells health-related [[Microsoft Products|products]], BRFSS can provide the opportunity for [[Market Research]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Search]] (2), [[Analytics]] (2), [[Ethics]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (1), [[Privacy]] (1), [[Data Collection]] (1), [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** brfss (21), hipaa (5), cdc (2), irb (1), nih (1)
 > **Definitions:** in other words (1), is a  (1), is an  (1)
 > **URLs:** [grants.gov](https://grants.gov) (1)
@@ -694,8 +685,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [narrator] (1)
 
-#### BRFSS resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/brfss-resources?u=76281980)
+#### [BRFSS resources](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/brfss-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -713,7 +703,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/brfss-resources?u=76281980&t=36)** Going back to the 2014 data files page, we can see the codebook posted.
 >
-> **[0:43](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/brfss-resources?u=76281980&t=43)** The code book provides univariate summary statistics about each variable.
+> **[0:43](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/brfss-resources?u=76281980&t=43)** The code book provides univariate summary [[Statistics]] about each variable.
 >
 > **[0:48](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/brfss-resources?u=76281980&t=48)** For example, we can see here that there 8,652 records from Alabama respondents in the data set.
 >
@@ -747,7 +737,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Statistics]] (1), database (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Env Vars:** brfss (6), cdc (3), sas (2)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for example (2), such as (1)
@@ -755,8 +745,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing R for a BRFSS analysis: Some considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/choosing-r-for-a-brfss-analysis-some-considerations?u=76281980)
+#### [Choosing R for a BRFSS analysis: Some considerations](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/choosing-r-for-a-brfss-analysis-some-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -822,15 +811,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (2), business (1)
 > **Env Vars:** sas (23), brfss (7), spss (4), cdc (3), bpfss (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing R for a BRFSS analysis: More considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/choosing-r-for-a-brfss-analysis-more-considerations?u=76281980)
+#### [Choosing R for a BRFSS analysis: More considerations](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/choosing-r-for-a-brfss-analysis-more-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -884,7 +871,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/choosing-r-for-a-brfss-analysis-more-considerations?u=76281980&t=166)** The R Consortium is the group that provides support for R and deserves a shout out for their helpful work supporting researchers who are using their software.
 >
-> **[2:56](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/choosing-r-for-a-brfss-analysis-more-considerations?u=76281980&t=176)** In summary, the advantages of choosing R for a BRFSS analysis is that you are making a statement of support for open-source software and also, you are getting the software for free.
+> **[2:56](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/choosing-r-for-a-brfss-analysis-more-considerations?u=76281980&t=176)** In summary, the advantages of choosing R for a BRFSS analysis is that you are making a statement of support for [[Open-Source Software]] and also, you are getting the software for free.
 >
 > **[3:07](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/choosing-r-for-a-brfss-analysis-more-considerations?u=76281980&t=187)** This may be an advantage if you do not have a SAS analyst available anyway and may give you or another analyst the opportunity to learn a new language.
 >
@@ -904,7 +891,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), open-source (3), [[Search]] (1)
+> **Frameworks & Libraries:** [[Open-Source Software]] (1)
 > **Env Vars:** brfss (13), sas (10), spss (3), cran (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
@@ -913,8 +900,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** download the (1)
 
-#### Installing R
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/installing-r?u=76281980)
+#### [Installing R](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/installing-r?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -930,7 +916,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/installing-r?u=76281980&t=25)** Here is the CRAN website and as you can see, at the top are the options to download and install R.
 >
-> **[0:32](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/installing-r?u=76281980&t=32)** These links lead to the most recent version and you will see that you can see R on the Mac although I will be demonstrating it on Windows.
+> **[0:32](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/installing-r?u=76281980&t=32)** These links lead to the most recent version and you will see that you can see R on the Mac although I will be demonstrating it on [[Windows]].
 >
 > **[0:41](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/installing-r?u=76281980&t=41)** When you get to this page, click on Base.
 >
@@ -968,7 +954,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Prerequisites:** setup (4), install (3)
 > **UI Navigation:** click on (2), double-click (2), go to (1)
 > **Env Vars:** cran (3)
@@ -977,8 +963,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Navigating in R
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/navigating-in-r?u=76281980)
+#### [Navigating in R](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/navigating-in-r?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1044,19 +1029,18 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/navigating-in-r?u=76281980&t=146)** You will see the code saves as a dot R file.
 >
-> **[2:29](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/navigating-in-r?u=76281980&t=149)** This can obviously be opened with R, but is can also be opened in notepad or another word processing program.
+> **[2:29](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/navigating-in-r?u=76281980&t=149)** This can obviously be opened with R, but is can also be opened in notepad or another [[Microsoft Word|word]] processing program.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), hit (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (2), select the (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [voiceover] (1)
 
-#### Installing the foreign package
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/installing-the-foreign-package?u=76281980)
+#### [Installing the foreign package](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/installing-the-foreign-package?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1128,7 +1112,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2)
 > **Env Vars:** sas (3), brfss (3), spss (2), cran (1)
 > **Documentation:** the documentation (3)
 > **Analogies:** such as (3)
@@ -1136,9 +1119,9 @@ created: 2026-05-02
 > **CLI Commands:** find (2)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** go to (1)
+> **Speakers:** - [lecturer] (1)
 
-#### Installing necessary packages
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/installing-necessary-packages?u=76281980)
+#### [Installing necessary packages](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/installing-necessary-packages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1208,7 +1191,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (1)
 > **Prerequisites:** install (13), you'll need (1)
 > **UI Navigation:** go to (4), click on (1)
 > **Env Vars:** mass (4)
@@ -1216,14 +1198,14 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Analogies:** picture (1)
 > **Best Practices:** remember to (1)
+> **Warnings:** note that (1)
 
 
 ### 2. Designing Your Metadata
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Uses of a data dictionary
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/uses-of-a-data-dictionary?u=76281980)
+#### [Uses of a data dictionary](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/uses-of-a-data-dictionary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1259,11 +1241,11 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/uses-of-a-data-dictionary?u=76281980&t=76)** Then you can make your own data dictionary, which I admit I've done on occasion.
 >
-> **[1:20](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/uses-of-a-data-dictionary?u=76281980&t=80)** But if they do have a data dictionary, sometimes they give it to you in Microsoft Word or PDF format.
+> **[1:20](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/uses-of-a-data-dictionary?u=76281980&t=80)** But if they do have a data dictionary, sometimes they give it to you in [[Microsoft Word]] or PDF format.
 >
 > **[1:25](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/uses-of-a-data-dictionary?u=76281980&t=85)** And I find those hard to use.
 >
-> **[1:27](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/uses-of-a-data-dictionary?u=76281980&t=87)** I prefer to have mine in Microsoft Excel, so we will make ours, in this course, in Excel.
+> **[1:27](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/uses-of-a-data-dictionary?u=76281980&t=87)** I prefer to have mine in [[Microsoft Excel]], so we will make ours, in this course, in [[Microsoft Excel|Excel]].
 >
 > **[1:32](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/uses-of-a-data-dictionary?u=76281980&t=92)** I'm not the only one who likes a data dictionary in Excel.
 >
@@ -1273,13 +1255,13 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/uses-of-a-data-dictionary?u=76281980&t=107)** Really nice meta data. So like MDR, I prefer my data dictionaries in Excel, and I use the tabs.
 >
-> **[1:54](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/uses-of-a-data-dictionary?u=76281980&t=114)** I document our main analytic data set in the first tab, and then all the levels of the different categorical variables. I use the term picklists from informatics and data-basing, in the tabs across the rest of the workbook.
+> **[1:54](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/uses-of-a-data-dictionary?u=76281980&t=114)** I document our main analytic data set in the first tab, and then all the levels of the different categorical variables. I use the term picklists from informatics and data-basing, in the tabs across the [[Representational State Transfer (REST)|rest]] of the workbook.
 >
 > **[2:06](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/uses-of-a-data-dictionary?u=76281980&t=126)** In the main tab, I just refer to the picklists.
 >
 > **[2:11](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/uses-of-a-data-dictionary?u=76281980&t=131)** So what we are doing is documenting our analytic data set, and this is an activity that falls under the larger category of data curation.
 >
-> **[2:18](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/uses-of-a-data-dictionary?u=76281980&t=138)** I explain the word curation by saying, have you ever been in a museum, and sat down on a broken down old chair, only to be yelled at by the museum staff, that that was a historic chair on display? Right.
+> **[2:18](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/uses-of-a-data-dictionary?u=76281980&t=138)** I explain the [[Microsoft Word|word]] curation by saying, have you ever been in a museum, and sat down on a broken down old chair, only to be yelled at by the museum staff, that that was a historic chair on display? Right.
 >
 > **[2:31](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/uses-of-a-data-dictionary?u=76281980&t=151)** You thought it was a crappy old chair, because you did not see the curation, or the little plaque that explained it was George Washington's chair or something.
 >
@@ -1329,7 +1311,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (46), [[Microsoft Excel|Excel]] (4), next (2), [[Microsoft Word]] (1), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft Word]] (1), [[Microsoft Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (8), find (2)
 > **Env Vars:** mdr (3), brfss (2), pdf (1)
 > **Definitions:** is a  (2), is an  (2), basically means (1)
@@ -1338,8 +1320,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Analogies:** such as (1)
 
-#### How to set up a data dictionary
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/how-to-set-up-a-data-dictionary?u=76281980)
+#### [How to set up a data dictionary](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/how-to-set-up-a-data-dictionary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1437,15 +1418,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), next (5), [[Analytics]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** brfss (4)
 > **Definitions:** is a  (3)
 > **Cross-References:** in the last (1), in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Adding to the data dictionary
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-to-the-data-dictionary?u=76281980)
+#### [Adding to the data dictionary](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-to-the-data-dictionary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1533,7 +1512,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-to-the-data-dictionary?u=76281980&t=180)** Next, I added a column called DRKWEEKLY and put a one in the weekly drinkers row.
 >
-> **[3:06](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-to-the-data-dictionary?u=76281980&t=186)** The rest get a zero.
+> **[3:06](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-to-the-data-dictionary?u=76281980&t=186)** The [[Representational State Transfer (REST)|rest]] get a zero.
 >
 > **[3:08](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-to-the-data-dictionary?u=76281980&t=188)** Now let's go back and make sure that new information about our new variables gets into our main data dictionary.
 >
@@ -1607,7 +1586,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), next (4), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** alcgrp (2), sleptim1 (2), asthma3 (2), asthma4 (2), alcday5 (1)
 > **CLI Commands:** make (4), find (2)
 > **Definitions:** is a  (2), known as (1), means that (1)
@@ -1616,8 +1595,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), kind of like (1)
 > **Warnings:** note that (1)
 
-#### Understanding confounders
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/understanding-confounders?u=76281980)
+#### [Understanding confounders](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/understanding-confounders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1717,14 +1695,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), hit (1)
 > **Analogies:** imagine (1), such as (1)
 > **Env Vars:** brfss (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making a web of causation
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/making-a-web-of-causation?u=76281980)
+#### [Making a web of causation](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/making-a-web-of-causation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1750,7 +1726,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/making-a-web-of-causation?u=76281980&t=52)** And a good way to do that is to go shop in the scientific literature.
 >
-> **[0:56](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/making-a-web-of-causation?u=76281980&t=56)** Here is an article from BRFSS about insufficient rest and sleep among veterans. Let's go to Table 1.
+> **[0:56](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/making-a-web-of-causation?u=76281980&t=56)** Here is an article from BRFSS about insufficient [[Representational State Transfer (REST)|rest]] and sleep among veterans. Let's go to Table 1.
 >
 > **[1:05](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/making-a-web-of-causation?u=76281980&t=65)** Here we are. You will see that they have stratified veterans in Table 1 by recently returning, called newly transitioned, versus long term.
 >
@@ -1778,11 +1754,11 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/making-a-web-of-causation?u=76281980&t=140)** And how can you do that? Well, a good way to do that is to draw a web of causation. I'll show you how.
 >
-> **[2:26](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/making-a-web-of-causation?u=76281980&t=146)** A lot of times, I've seen people draw these webs using the shapes and arrows in Microsoft Word.
+> **[2:26](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/making-a-web-of-causation?u=76281980&t=146)** A lot of times, I've seen people draw these webs using the shapes and arrows in [[Microsoft Word]].
 >
 > **[2:32](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/making-a-web-of-causation?u=76281980&t=152)** But I've also seen it in Visio.
 >
-> **[2:34](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/making-a-web-of-causation?u=76281980&t=154)** I prefer to use Gliffy, an online diagramming program at www.[gliffy.com](https://gliffy.com). This is the software I'm going to use to demonstrate a web of causation.
+> **[2:34](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/making-a-web-of-causation?u=76281980&t=154)** I prefer to use Gliffy, an online [[Diagramming]] program at www.[gliffy.com](https://gliffy.com). This is the software I'm going to use to demonstrate a web of causation.
 >
 > **[2:46](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/making-a-web-of-causation?u=76281980&t=166)** Gliffy is a freemium product, which means you can get a free account and try out three diagrams before having to pay.
 >
@@ -1870,7 +1846,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (9), next (4), [[Representational State Transfer (REST)|Rest]] (2), data (2), [[Microsoft Word]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Word]] (1), [[Diagramming]] (1)
 > **Env Vars:** brfss (7)
 > **Definitions:** is a  (2), is an  (1), in other words (1)
 > **CLI Commands:** make (2)
@@ -1879,8 +1855,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designing confounders: Age and smoking
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/designing-confounders-age-and-smoking?u=76281980)
+#### [Designing confounders: Age and smoking](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/designing-confounders-age-and-smoking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1988,7 +1963,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), data (3), web (2)
 > **Env Vars:** brfss (2), smokday2 (2), smoker (2), smokgrp (1), neversmk (1)
 > **CLI Commands:** make (5), find (1)
 > **Cross-References:** in the last (2), as you saw (1), in the next (1)
@@ -1996,8 +1970,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designing confounders: Other demographics
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/designing-confounders-other-demographics?u=76281980)
+#### [Designing confounders: Other demographics](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/designing-confounders-other-demographics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2029,7 +2002,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/designing-confounders-other-demographics?u=76281980&t=62)** So, as you can see here on the Hispanc tab, the native coding of the Hispanic variable is annoying, because it has an unknown level.
 >
-> **[1:11](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/designing-confounders-other-demographics?u=76281980&t=71)** To solve this, I designed a real two-state flag, putting zeroes in the No and Unknown levels, and including the second I in the word Hispanic.
+> **[1:11](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/designing-confounders-other-demographics?u=76281980&t=71)** To solve this, I designed a real two-state flag, putting zeroes in the No and Unknown levels, and including the second I in the [[Microsoft Word|word]] Hispanic.
 >
 > **[1:21](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/designing-confounders-other-demographics?u=76281980&t=81)** But you'll see on the SEX tab the native variable is coded 1 and 2.
 >
@@ -2095,7 +2068,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** brfss (2), sex (2), othrace (2), black (1), asian (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -2103,8 +2076,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designing confounders: Other variables used in analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/designing-confounders-other-variables-used-in-analysis?u=76281980)
+#### [Designing confounders: Other variables used in analysis](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/designing-confounders-other-variables-used-in-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2124,7 +2096,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/designing-confounders-other-variables-used-in-analysis?u=76281980&t=47)** You will see that the grouping variable I designed, GENHLTH2, is almost like the native variable but groups together the Refused and unknown but you will see that I only make indicator variables for the FAIRHLTH level and the POORHLTH level.
 >
-> **[1:02](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/designing-confounders-other-variables-used-in-analysis?u=76281980&t=62)** The rest of the levels are reference levels.
+> **[1:02](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/designing-confounders-other-variables-used-in-analysis?u=76281980&t=62)** The [[Representational State Transfer (REST)|rest]] of the levels are reference levels.
 >
 > **[1:04](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/designing-confounders-other-variables-used-in-analysis?u=76281980&t=64)** I've just found that these two seem to help adjust the models so I plan to make them.
 >
@@ -2200,7 +2172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), web (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** noplan (3), bmi (2), genhlth (1), genhlth2 (1), fairhlth (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), means that (1), stands for (1)
@@ -2212,8 +2184,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reading in BRFSS XPT data
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reading-in-brfss-xpt-data?u=76281980)
+#### [Reading in BRFSS XPT data](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reading-in-brfss-xpt-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2265,7 +2236,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reading-in-brfss-xpt-data?u=76281980&t=107)** In other words, data dictionaries, other notes you take, etc.
 >
-> **[1:51](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reading-in-brfss-xpt-data?u=76281980&t=111)** Those metadata do not belong in the analysis folder.
+> **[1:51](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reading-in-brfss-xpt-data?u=76281980&t=111)** Those [[Metadata]] do not belong in the analysis folder.
 >
 > **[1:55](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reading-in-brfss-xpt-data?u=76281980&t=115)** The only things that belong in this folder would be the actual data you are using or that you output as part of the R analysis and the actual code you make.
 >
@@ -2391,7 +2362,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (38), [[Analytics]] (3), next (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (1)
 > **Env Vars:** xpt (12), brfss (9), sas (4), bmi5cat (3), sas7bdat (2)
 > **CLI Commands:** make (4), unzip (1), find (1)
 > **Definitions:** is called (2), stands for (1), in other words (1)
@@ -2400,8 +2371,7 @@ created: 2026-05-02
 > **Analogies:** kind of like (1), for example (1)
 > **Prerequisites:** set up (2)
 
-#### Naming conventions
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/naming-conventions?u=76281980)
+#### [Naming conventions](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/naming-conventions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2447,7 +2417,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/naming-conventions?u=76281980&t=129)** And if you were doing analysis on a data set, you want to make sure you are using the final edited version.
 >
-> **[2:15](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/naming-conventions?u=76281980&t=135)** This means all your analytic code has to come after the last data transformation or editing code.
+> **[2:15](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/naming-conventions?u=76281980&t=135)** This means all your analytic code has to come after the last [[Data Transformation]] or editing code.
 >
 > **[2:22](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/naming-conventions?u=76281980&t=142)** Again, others will just add to this already long code file to accomplish keeping things in order.
 >
@@ -2525,7 +2495,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), feature (1)
 > **CLI Commands:** make (12), find (3)
 > **Env Vars:** brfss (1)
 > **Cross-References:** go back to (1)
@@ -2533,8 +2502,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - first (1)
 
-#### Keeping native variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/keeping-native-variables?u=76281980)
+#### [Keeping native variables](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/keeping-native-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2648,7 +2616,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), next (1)
 > **Env Vars:** brfss (4), xpt (2), idate (2)
 > **CLI Commands:** make (5)
 > **Cross-References:** go back to (1), later in (1)
@@ -2656,8 +2623,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Applying the first exclusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/applying-the-first-exclusion?u=76281980)
+#### [Applying the first exclusion](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/applying-the-first-exclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2689,7 +2655,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/applying-the-first-exclusion?u=76281980&t=111)** So in that case, we'd want to rethink our plan, but because BRFSS tends to have very few people in unknown in just about every variable, I just leave records that have unknowns in the confounding variables, but we can't risk that with our sub-population exposure and outcome variables, so we have to kick out the unknowns in those cases.
 >
-> **[2:12](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/applying-the-first-exclusion?u=76281980&t=132)** So here's what we are going to do for the rest of the chapter.
+> **[2:12](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/applying-the-first-exclusion?u=76281980&t=132)** So here's what we are going to do for the [[Representational State Transfer (REST)|rest]] of the chapter.
 >
 > **[2:16](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/applying-the-first-exclusion?u=76281980&t=136)** In this section we are going to apply our first exclusion using R code.
 >
@@ -2749,7 +2715,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/applying-the-first-exclusion?u=76281980&t=280)** We are down now from about 450,000 rows to about 65,000 rows, that's how many veterans we have in the 2014 BRFSS.
 >
-> **[4:50](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/applying-the-first-exclusion?u=76281980&t=290)** But we better keep track of this in Excel, but before we go there, I just want to show you I saved this code as 110_Applyexclusions.
+> **[4:50](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/applying-the-first-exclusion?u=76281980&t=290)** But we better keep track of this in [[Microsoft Excel|Excel]], but before we go there, I just want to show you I saved this code as 110_Applyexclusions.
 >
 > **[4:59](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/applying-the-first-exclusion?u=76281980&t=299)** All right, let's go over to Excel.
 >
@@ -2773,7 +2739,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), next (3), [[Microsoft Excel|Excel]] (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** brfss (3), veteran3 (3), bmi (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (1), in the next (1)
@@ -2782,8 +2748,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Applying the rest of the exclusions
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/applying-the-rest-of-the-exclusions?u=76281980)
+#### [Applying the rest of the exclusions](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/applying-the-rest-of-the-exclusions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2861,7 +2826,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/applying-the-rest-of-the-exclusions?u=76281980&t=162)** Then I skipped Number Removed but you can see that I entered Number Left, what we got from nrow.
 >
-> **[2:49](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/applying-the-rest-of-the-exclusions?u=76281980&t=169)** And as I did last time I used a subtraction function to have excel fill in the Number Removed.
+> **[2:49](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/applying-the-rest-of-the-exclusions?u=76281980&t=169)** And as I did last time I used a subtraction function to have [[Microsoft Excel|excel]] fill in the Number Removed.
 >
 > **[2:55](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/applying-the-rest-of-the-exclusions?u=76281980&t=175)** Okay, so what's our next exclusion, our outcomes?
 >
@@ -2923,7 +2888,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** brfss (3), alcday5 (2), brssf (1)
 > **Definitions:** is a  (3), is an  (1), refers to (1)
 > **Cross-References:** go back to (1), in the last (1), in the next (1)
@@ -2932,8 +2897,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Operations in code
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/operations-in-code?u=76281980)
+#### [Operations in code](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/operations-in-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3041,7 +3005,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (2)
 > **Env Vars:** bmi (2), age (1), brfss (1), sass (1), veteran3 (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Cross-References:** in the next (2)
@@ -3050,12 +3013,11 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making a data reduction diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/making-a-data-reduction-diagram?u=76281980)
+#### [Making a data reduction diagram](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/making-a-data-reduction-diagram?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/making-a-data-reduction-diagram?u=76281980&t=0)** - [Instructor] In this section, you will have to use diagramming software.
+> **[0:00](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/making-a-data-reduction-diagram?u=76281980&t=0)** - [Instructor] In this section, you will have to use [[Diagramming]] software.
 >
 > **[0:04](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/making-a-data-reduction-diagram?u=76281980&t=4)** Like I said before, I use online software called [Gliffy.com](https://Gliffy.com), and I'll show you how that turned out for me, then, referring to our data reduction spreadsheet, we'll walk through the diagram together.
 >
@@ -3151,7 +3113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), next (4), [[Diagramming]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Diagramming]] (1)
 > **CLI Commands:** make (3)
 > **URLs:** [gliffy.com](https://gliffy.com) (1)
 > **Env Vars:** brfss (1)
@@ -3159,8 +3121,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generating exposure
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/generating-exposure?u=76281980)
+#### [Generating exposure](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/generating-exposure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3192,7 +3153,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/generating-exposure?u=76281980&t=77)** And those in the 201 to 299 range get a two for drink monthly. And the 888's get a one for no drinks.
 >
-> **[1:27](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/generating-exposure?u=76281980&t=87)** And the rest are nine, for unknown.
+> **[1:27](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/generating-exposure?u=76281980&t=87)** And the [[Representational State Transfer (REST)|rest]] are nine, for unknown.
 >
 > **[1:29](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/generating-exposure?u=76281980&t=89)** Then also, look at how we planned our drink monthly and drink weekly indicator variables.
 >
@@ -3280,7 +3241,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (4), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** alcgrp (7), alcday5 (2)
 > **CLI Commands:** make (7)
 > **UI Navigation:** go to (2), open the (1)
@@ -3288,8 +3249,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generating outcome variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/generating-outcome-variables?u=76281980)
+#### [Generating outcome variables](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/generating-outcome-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3385,14 +3345,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Delete rows
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/challenge-delete-rows?u=76281980)
+#### [Challenge: Delete rows](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/challenge-delete-rows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3468,7 +3426,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (1)
 > **Env Vars:** nhanes (10), brfss (8), dmdborn (2), p_demo (1), ridageyear (1)
 > **Cross-References:** earlier in (2), in the next (1)
 > **Documentation:** the documentation (2)
@@ -3476,9 +3433,9 @@ created: 2026-05-02
 > **Definitions:** means that (1), is called (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** download the (1)
+> **Analogies:** just like (1)
 
-#### Solution: Delete rows
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/solution-delete-rows?u=76281980)
+#### [Solution: Delete rows](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/solution-delete-rows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3526,7 +3483,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1)
 > **Non-Speech:** (silence) (5), (upbeat music) (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** nhanes (2)
@@ -3538,8 +3494,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generating the age variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/generating-the-age-variables?u=76281980)
+#### [Generating the age variables](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/generating-the-age-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3631,7 +3586,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/generating-the-age-variables?u=76281980&t=189)** That's what we want.
 >
-> **[3:10](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/generating-the-age-variables?u=76281980&t=190)** So we can do this for the rest of our age indicator variables and we are done.
+> **[3:10](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/generating-the-age-variables?u=76281980&t=190)** So we can do this for the [[Representational State Transfer (REST)|rest]] of our age indicator variables and we are done.
 >
 > **[3:15](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/generating-the-age-variables?u=76281980&t=195)** Let's highlight those and Control R.
 >
@@ -3665,7 +3620,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (4), hit (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (14)
 > **Cross-References:** in the next (2), go back to (1)
 > **Env Vars:** brfss (2)
@@ -3674,8 +3629,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (1)
 
-#### Generating the smoking variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/generating-the-smoking-variables?u=76281980)
+#### [Generating the smoking variables](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/generating-the-smoking-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3803,7 +3757,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), data (4)
 > **CLI Commands:** make (16)
 > **Env Vars:** smokday2 (4), neversmk (4), smokgrp (3), smoke100 (2), smoker (1)
 > **Cross-References:** go back to (1), in the last (1), in the next (1)
@@ -3811,8 +3764,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finalizing the analytic data set
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/finalizing-the-analytic-data-set?u=76281980)
+#### [Finalizing the analytic data set](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/finalizing-the-analytic-data-set?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3936,7 +3888,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), next (5)
 > **CLI Commands:** make (6)
 > **Cross-References:** in the next (3), previous chapter (1), go back to (1)
 > **Env Vars:** csv (2), smoker (1)
@@ -3944,9 +3895,9 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is called (1)
 > **Warnings:** troubleshoot (1)
 > **Prerequisites:** set up (1)
+> **Speakers:** - [instructor] (1)
 
-#### What is Table 1?
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-is-table-1?u=76281980)
+#### [What is Table 1?](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-is-table-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3956,7 +3907,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-is-table-1?u=76281980&t=10)** I'm going to also describe univariate, bivariate and multivariate analyses, and how Table 1 and descriptive analysis fits in those definitions.
 >
-> **[0:20](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-is-table-1?u=76281980&t=20)** I'm going to show you how I set up a table shell in Excel to show you what a Table 1 is, and how it's going to look when we are done.
+> **[0:20](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-is-table-1?u=76281980&t=20)** I'm going to show you how I set up a table shell in [[Microsoft Excel|Excel]] to show you what a Table 1 is, and how it's going to look when we are done.
 >
 > **[0:29](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-is-table-1?u=76281980&t=29)** We'll go over how I made the table shell in the next chapter.
 >
@@ -3976,7 +3927,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-is-table-1?u=76281980&t=74)** We are just looking at veterans.
 >
-> **[1:17](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-is-table-1?u=76281980&t=77)** So, we need to show the reader descriptive statistics about the sample, or analytic data set before diving into multivariate regression, if we choose to.
+> **[1:17](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-is-table-1?u=76281980&t=77)** So, we need to show the reader descriptive [[Statistics]] about the sample, or analytic data set before diving into multivariate regression, if we choose to.
 >
 > **[1:26](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/what-is-table-1?u=76281980&t=86)** Hence, we are always stuck with making Table 1.
 >
@@ -4062,15 +4013,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (2), [[Microsoft Excel|Excel]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Statistics]] (1)
 > **Cross-References:** in the next (2), earlier in (1), later in (1)
 > **Env Vars:** brfss (1)
 > **UI Navigation:** scroll down (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reviewing categorical variable distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reviewing-categorical-variable-distribution?u=76281980)
+#### [Reviewing categorical variable distribution](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reviewing-categorical-variable-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4142,7 +4092,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reviewing-categorical-variable-distribution?u=76281980&t=147)** Let's visualize what we just found.
 >
-> **[2:29](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reviewing-categorical-variable-distribution?u=76281980&t=149)** I created an Excel spreadsheet with two tabs to document my variable distribution results.
+> **[2:29](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reviewing-categorical-variable-distribution?u=76281980&t=149)** I created an [[Microsoft Excel|Excel]] spreadsheet with two tabs to document my variable distribution results.
 >
 > **[2:35](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reviewing-categorical-variable-distribution?u=76281980&t=155)** These are private spreadsheets, not things you publish.
 >
@@ -4248,7 +4198,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), next (6), [[Microsoft Excel|Excel]] (4), business (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **CLI Commands:** make (6)
 > **Env Vars:** csv (3), asthma4 (1)
 > **Cross-References:** in the last (2), go back to (1), in the next (1)
@@ -4257,8 +4207,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Reviewing continuous variable distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reviewing-continuous-variable-distribution?u=76281980)
+#### [Reviewing continuous variable distribution](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reviewing-continuous-variable-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4272,7 +4221,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reviewing-continuous-variable-distribution?u=76281980&t=27)** So we'll do that, too.
 >
-> **[0:28](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reviewing-continuous-variable-distribution?u=76281980&t=28)** Let's go back to Statistics 101.
+> **[0:28](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reviewing-continuous-variable-distribution?u=76281980&t=28)** Let's go back to [[Statistics]] 101.
 >
 > **[0:31](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reviewing-continuous-variable-distribution?u=76281980&t=31)** How do we visualize continuous distributions?
 >
@@ -4418,7 +4367,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reviewing-continuous-variable-distribution?u=76281980&t=332)** For the sleep tab, I just copied these graphics on here to show them.
 >
-> **[5:37](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reviewing-continuous-variable-distribution?u=76281980&t=337)** You could do this in Word or another program.
+> **[5:37](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reviewing-continuous-variable-distribution?u=76281980&t=337)** You could do this in [[Microsoft Word|Word]] or another program.
 >
 > **[5:40](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/reviewing-continuous-variable-distribution?u=76281980&t=340)** I know, you were thinking, like, why would you do that?
 >
@@ -4444,7 +4393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (6), next (5), data (4), [[Analytics]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (6), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Env Vars:** las (2)
@@ -4453,8 +4402,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Analogies:** just like (1)
 
-#### Challenge: Make a categorical variable from a continuous one
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/challenge-make-a-categorical-variable-from-a-continuous-one?u=76281980)
+#### [Challenge: Make a categorical variable from a continuous one](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/challenge-make-a-categorical-variable-from-a-continuous-one?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4542,7 +4490,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2)
 > **Env Vars:** brfss (9), nhanes (8), sbp (6), aha (4), mmhg (3)
 > **CLI Commands:** make (7), rm (1)
 > **Cross-References:** earlier in (1)
@@ -4550,8 +4497,7 @@ created: 2026-05-02
 > **Speakers:** - [lecturer] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Make a categorical variable from a continuous one
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/solution-make-a-categorical-variable-from-a-continuous-one?u=76281980)
+#### [Solution: Make a categorical variable from a continuous one](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/solution-make-a-categorical-variable-from-a-continuous-one?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4643,7 +4589,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), data (2)
 > **Env Vars:** bpxosy1 (3), bp_a (2), aha (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** we talked about (1), in the next (1)
@@ -4657,8 +4602,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing categorical Table 1 shell
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/preparing-categorical-table-1-shell?u=76281980)
+#### [Preparing categorical Table 1 shell](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/preparing-categorical-table-1-shell?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4668,7 +4612,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/preparing-categorical-table-1-shell?u=76281980&t=11)** In this section, I'll start by first explaining our order of operation, or the big picture process of how we are going to fill in these Table 1's.
 >
-> **[0:21](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/preparing-categorical-table-1-shell?u=76281980&t=21)** I will explain what I mean by "on stage" and "off stage" as we complete our Excel spreadsheet.
+> **[0:21](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/preparing-categorical-table-1-shell?u=76281980&t=21)** I will explain what I mean by "on stage" and "off stage" as we complete our [[Microsoft Excel|Excel]] spreadsheet.
 >
 > **[0:27](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/preparing-categorical-table-1-shell?u=76281980&t=27)** Next, I will go over the anatomy of Table 1 categorical.
 >
@@ -4690,7 +4634,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/preparing-categorical-table-1-shell?u=76281980&t=74)** You can make the tables to display your descriptive analyses using Excel.
 >
-> **[1:18](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/preparing-categorical-table-1-shell?u=76281980&t=78)** You could technically use other programs, like Word, to make your tables. This is just one approach.
+> **[1:18](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/preparing-categorical-table-1-shell?u=76281980&t=78)** You could technically use other programs, like [[Microsoft Word|Word]], to make your tables. This is just one approach.
 >
 > **[1:24](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/preparing-categorical-table-1-shell?u=76281980&t=84)** Table 1 presents univariate and bivariate analysis.
 >
@@ -4800,7 +4744,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), next (7), data (5), [[Microsoft Word|Word]] (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[Microsoft Word|Word]] (3)
 > **CLI Commands:** make (5)
 > **Analogies:** picture (3), for example (1)
 > **Cross-References:** in the next (1), go back to (1), later in (1)
@@ -4809,8 +4753,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preparing continuous Table 1 shell
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/preparing-continuous-table-1-shell?u=76281980)
+#### [Preparing continuous Table 1 shell](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/preparing-continuous-table-1-shell?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4858,7 +4801,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/preparing-continuous-table-1-shell?u=76281980&t=125)** And because we have those grouping variables split up by level or strata, we have a stratified analysis.
 >
-> **[2:12](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/preparing-continuous-table-1-shell?u=76281980&t=132)** The continuous table one is similar, only it has summary statistics for continuous data, means and standard deviations, but it also has a space for bivariate tests for continuous data and it it also stratified.
+> **[2:12](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/preparing-continuous-table-1-shell?u=76281980&t=132)** The continuous table one is similar, only it has summary [[Statistics]] for continuous data, means and standard deviations, but it also has a space for bivariate tests for continuous data and it it also stratified.
 >
 > **[2:27](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/preparing-continuous-table-1-shell?u=76281980&t=147)** So, in this movie, I again reminded you of our big picture plans for completing our Table 1s.
 >
@@ -4868,15 +4811,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** anova (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Adding overall frequencies to categorical Table 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-overall-frequencies-to-categorical-table-1?u=76281980)
+#### [Adding overall frequencies to categorical Table 1](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-overall-frequencies-to-categorical-table-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4960,7 +4902,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-overall-frequencies-to-categorical-table-1?u=76281980&t=197)** This is how we begin.
 >
-> **[3:19](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-overall-frequencies-to-categorical-table-1?u=76281980&t=199)** The rest of the work is more routine.
+> **[3:19](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-overall-frequencies-to-categorical-table-1?u=76281980&t=199)** The [[Representational State Transfer (REST)|rest]] of the work is more routine.
 >
 > **[3:21](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-overall-frequencies-to-categorical-table-1?u=76281980&t=201)** Let's go back to our code.
 >
@@ -5008,7 +4950,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (4), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** csv (3), alcgrp (2)
 > **Cross-References:** in the next (2), in the last (1), go back to (1), earlier in (1)
 > **CLI Commands:** make (3)
@@ -5017,8 +4959,7 @@ created: 2026-05-02
 > **File Paths:** write.csv (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making a frequency macro
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/making-a-frequency-macro?u=76281980)
+#### [Making a frequency macro](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/making-a-frequency-macro?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5128,7 +5069,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (2)
 > **Env Vars:** csv (5), x_age_g (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (2)
@@ -5137,8 +5077,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Adding overall frequencies to continuous Table 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-overall-frequencies-to-continuous-table-1?u=76281980)
+#### [Adding overall frequencies to continuous Table 1](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-overall-frequencies-to-continuous-table-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5204,15 +5143,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (1)
 > **Env Vars:** csv (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Completing categorical Table 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/completing-categorical-table-1?u=76281980)
+#### [Completing categorical Table 1](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/completing-categorical-table-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5226,7 +5163,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/completing-categorical-table-1?u=76281980&t=18)** It has a nice macro we can copy in it.
 >
-> **[0:22](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/completing-categorical-table-1?u=76281980&t=22)** Next, I'm going to show you how to run separate bivariate frequencies for the portion of the data set where people report having asthma and then for the rest of the data set, the no asthma people.
+> **[0:22](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/completing-categorical-table-1?u=76281980&t=22)** Next, I'm going to show you how to run separate bivariate frequencies for the portion of the data set where people report having asthma and then for the [[Representational State Transfer (REST)|rest]] of the data set, the no asthma people.
 >
 > **[0:34](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/completing-categorical-table-1?u=76281980&t=34)** As we did before, we will output CSVs and then copy paste the results into the categorical table one shell.
 >
@@ -5402,15 +5339,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), next (5), [[Representational State Transfer (REST)|Rest]] (4), hit (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4)
 > **CLI Commands:** make (6)
 > **Env Vars:** asthma4 (2), csv (2)
 > **Cross-References:** go back to (2), in the next (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Completing continuous Table 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/completing-continuous-table-1?u=76281980)
+#### [Completing continuous Table 1](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/completing-continuous-table-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5592,7 +5528,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1)
 > **Env Vars:** csv (4), sleeptim2 (2), alcgrp (1)
 > **CLI Commands:** make (2), find (2)
 > **Versions:** 7.11 (1), 1.4 (1)
@@ -5605,8 +5540,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Three truths about using weights
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/three-truths-about-using-weights?u=76281980)
+#### [Three truths about using weights](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/three-truths-about-using-weights?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5746,7 +5680,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** brfss (7), cdc (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -5754,8 +5687,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Conducting a descriptive weighted analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/conducting-a-descriptive-weighted-analysis?u=76281980)
+#### [Conducting a descriptive weighted analysis](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/conducting-a-descriptive-weighted-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5927,7 +5859,7 @@ created: 2026-05-02
 >
 > **[6:25](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/conducting-a-descriptive-weighted-analysis?u=76281980&t=385)** So, you can see, I transposed the data.
 >
-> **[6:28](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/conducting-a-descriptive-weighted-analysis?u=76281980&t=388)** You can do that in Excel by copying the data, then going to the Home tab, and choosing the Paste, Paste special menu, and then choosing Transpose.
+> **[6:28](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/conducting-a-descriptive-weighted-analysis?u=76281980&t=388)** You can do that in [[Microsoft Excel|Excel]] by copying the data, then going to the Home tab, and choosing the Paste, Paste special menu, and then choosing Transpose.
 >
 > **[6:38](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/conducting-a-descriptive-weighted-analysis?u=76281980&t=398)** We'll cancel out of that.
 >
@@ -5961,7 +5893,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (3), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **Env Vars:** brfss (5), brfssa (2), llcpwt (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** scroll down (2), go to (1)
@@ -5970,14 +5902,13 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Prerequisites:** you'll need (1)
 
-#### Why conduct bivariate tests?
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/why-conduct-bivariate-tests?u=76281980)
+#### [Why conduct bivariate tests?](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/why-conduct-bivariate-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/why-conduct-bivariate-tests?u=76281980&t=0)** - [Narrator] Welcome to chapter six, section three, where I explain why we conduct bivariate tests when doing descriptive analyses.
 >
-> **[0:08](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/why-conduct-bivariate-tests?u=76281980&t=8)** This lecture is, again, Statistics 101 review.
+> **[0:08](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/why-conduct-bivariate-tests?u=76281980&t=8)** This lecture is, again, [[Statistics]] 101 review.
 >
 > **[0:12](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/why-conduct-bivariate-tests?u=76281980&t=12)** Because I'm going to go over the four bivariate testing situations you can get in, and what people normally do about them.
 >
@@ -5991,7 +5922,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/why-conduct-bivariate-tests?u=76281980&t=49)** If we had small cells, we'd have to use a Fisher's exact test.
 >
-> **[0:54](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/why-conduct-bivariate-tests?u=76281980&t=54)** But as you noticed, this is big data.
+> **[0:54](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/why-conduct-bivariate-tests?u=76281980&t=54)** But as you noticed, this is [[Big Data]].
 >
 > **[0:57](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/why-conduct-bivariate-tests?u=76281980&t=57)** So we do not have small cells in big data.
 >
@@ -6081,14 +6012,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Big Data]] (4), next (3), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (4), [[Statistics]] (1)
 > **Env Vars:** anova (3), brfss (2)
 > **Cross-References:** later in (1), in the next (1)
 > **Versions:** 0.05 (1)
 > **Speakers:** - [narrator] (1)
 
-#### Adding categorical bivariate tests to Table 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-categorical-bivariate-tests-to-table-1?u=76281980)
+#### [Adding categorical bivariate tests to Table 1](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-categorical-bivariate-tests-to-table-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6180,9 +6110,9 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-categorical-bivariate-tests-to-table-1?u=76281980&t=187)** Enter. Great.
 >
-> **[3:10](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-categorical-bivariate-tests-to-table-1?u=76281980&t=190)** See, I designate this field in Excel to display out to four decimals.
+> **[3:10](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-categorical-bivariate-tests-to-table-1?u=76281980&t=190)** See, I designate this field in [[Microsoft Excel|Excel]] to display out to four decimals.
 >
-> **[3:15](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-categorical-bivariate-tests-to-table-1?u=76281980&t=195)** But like I said, with the curse of big data, you'll see that most of the test results are going to be just like this one.
+> **[3:15](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-categorical-bivariate-tests-to-table-1?u=76281980&t=195)** But like I said, with the curse of [[Big Data]], you'll see that most of the test results are going to be just like this one.
 >
 > **[3:22](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-categorical-bivariate-tests-to-table-1?u=76281980&t=202)** Less than 0.0001.
 >
@@ -6304,7 +6234,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Big Data]] (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** mass (5), asthma4 (1), alcgrp (1)
 > **CLI Commands:** make (5), find (1)
 > **Versions:** 0.0001 (5), 0.05 (1)
@@ -6313,14 +6243,13 @@ created: 2026-05-02
 > **Analogies:** just like (2)
 > **Definitions:** is a  (1)
 
-#### Introduction to ANOVA and linear regression code
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/introduction-to-anova-and-linear-regression-code?u=76281980)
+#### [Introduction to ANOVA and linear regression code](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/introduction-to-anova-and-linear-regression-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/introduction-to-anova-and-linear-regression-code?u=76281980&t=0)** - Hi there.
 >
-> **[0:01](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/introduction-to-anova-and-linear-regression-code?u=76281980&t=1)** Before we jump into coding, I just wanted to prepare you for what we will see when we run our ANOVA in Linear Regression Code.
+> **[0:01](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/introduction-to-anova-and-linear-regression-code?u=76281980&t=1)** Before we jump into coding, I just wanted to prepare you for what we will see when we run our ANOVA in [[Linear Regression]] Code.
 >
 > **[0:09](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/introduction-to-anova-and-linear-regression-code?u=76281980&t=9)** First, I'm going to talk about linear regression and ANOVA so I can more easily explain the lm code.
 >
@@ -6334,7 +6263,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/introduction-to-anova-and-linear-regression-code?u=76281980&t=47)** A quick review of our data dictionary on this topic shows we need t-tests only for SEX and for ASTHMA.
 >
-> **[0:55](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/introduction-to-anova-and-linear-regression-code?u=76281980&t=55)** The rest are all three levels at least.
+> **[0:55](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/introduction-to-anova-and-linear-regression-code?u=76281980&t=55)** The [[Representational State Transfer (REST)|rest]] are all three levels at least.
 >
 > **[0:58](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/introduction-to-anova-and-linear-regression-code?u=76281980&t=58)** So that's what we'll do, two t-tests and a bunch of ANOVA's.
 >
@@ -6374,7 +6303,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (10), data (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (10), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** anova (18), sex (1), asthma (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -6382,8 +6311,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - hi (1)
 
-#### Adding continuous bivariate tests to Table 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-continuous-bivariate-tests-to-table-1?u=76281980)
+#### [Adding continuous bivariate tests to Table 1](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-continuous-bivariate-tests-to-table-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6401,7 +6329,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-continuous-bivariate-tests-to-table-1?u=76281980&t=34)** Let's go to R.
 >
-> **[0:36](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-continuous-bivariate-tests-to-table-1?u=76281980&t=36)** So, here is the linear regression/ANOVA code.
+> **[0:36](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-continuous-bivariate-tests-to-table-1?u=76281980&t=36)** So, here is the [[Linear Regression]]/ANOVA code.
 >
 > **[0:41](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-continuous-bivariate-tests-to-table-1?u=76281980&t=41)** I named it 235_Table 1 ANOVAS.
 >
@@ -6463,7 +6391,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-continuous-bivariate-tests-to-table-1?u=76281980&t=149)** But then see how I merged these three cells for the alcohol levels and then put the super high p-value in it?
 >
-> **[2:36](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-continuous-bivariate-tests-to-table-1?u=76281980&t=156)** Well, our statistics are going well, but our hypothesis is off to a bad start.
+> **[2:36](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-continuous-bivariate-tests-to-table-1?u=76281980&t=156)** Well, our [[Statistics]] are going well, but our hypothesis is off to a bad start.
 >
 > **[2:41](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-continuous-bivariate-tests-to-table-1?u=76281980&t=161)** Let's hope at least some of the other variables will have p-values less than 0.0001.
 >
@@ -6513,7 +6441,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-continuous-bivariate-tests-to-table-1?u=76281980&t=249)** As we did with Table 1 categorical and our chi-square test, if they are so low that out to four digits after the decimal point they are rounded to zero, then we just put less than 0.0001 in the table.
 >
-> **[4:23](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-continuous-bivariate-tests-to-table-1?u=76281980&t=263)** I actually ran these one at a time when I was filling out the rest of the table.
+> **[4:23](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-continuous-bivariate-tests-to-table-1?u=76281980&t=263)** I actually ran these one at a time when I was filling out the [[Representational State Transfer (REST)|rest]] of the table.
 >
 > **[4:28](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/adding-continuous-bivariate-tests-to-table-1?u=76281980&t=268)** Let's go look at what it looks like when they are all filled in.
 >
@@ -6597,7 +6525,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (3), next (3), [[Representational State Transfer (REST)|Rest]] (3), data (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (3), [[Representational State Transfer (REST)|Rest]] (3), [[Statistics]] (1)
 > **Env Vars:** anova (8), anovas (1), sleptim2 (1), alcgrp (1)
 > **Versions:** 0.0001 (5), 0.8891 (1)
 > **UI Navigation:** go to (1), click on (1), scroll up (1), scroll down (1)
@@ -6606,8 +6534,7 @@ created: 2026-05-02
 > **Definitions:** known as (1), stands for (1)
 > **Analogies:** imagine (1)
 
-#### Challenge: Do a weighted analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/challenge-do-a-weighted-analysis?u=76281980)
+#### [Challenge: Do a weighted analysis](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/challenge-do-a-weighted-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6617,7 +6544,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/challenge-do-a-weighted-analysis?u=76281980&t=18)** NHANES stands for National Health and Nutrition Examination Survey, and it's a lot like the BRFSS in that it includes a lot of the same questionnaires.
 >
-> **[0:29](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/challenge-do-a-weighted-analysis?u=76281980&t=29)** What's different is NHANES also includes examination data where people come in person for data collection.
+> **[0:29](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/challenge-do-a-weighted-analysis?u=76281980&t=29)** What's different is NHANES also includes examination data where people come in person for [[Data Collection]].
 >
 > **[0:36](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/challenge-do-a-weighted-analysis?u=76281980&t=36)** Another difference with NHANES is that it's split up into a lot of different data sets.
 >
@@ -6715,7 +6642,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (4)
+> **Frameworks & Libraries:** [[Data Collection]] (1)
 > **Env Vars:** nhanes (6), brfss (4), usborn (3), psu (2), dmdborn4 (2)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** stands for (1), is a  (1)
@@ -6724,8 +6651,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Do a weighted analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/solution-do-a-weighted-analysis?u=76281980)
+#### [Solution: Do a weighted analysis](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/solution-do-a-weighted-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6827,7 +6753,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (1)
 > **CLI Commands:** make (3), find (1)
 > **Versions:** 0.70 (1)
 > **Cross-References:** go back to (1)
@@ -6839,8 +6764,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Review of the metadata
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-metadata?u=76281980)
+#### [Review of the metadata](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-metadata?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6848,7 +6772,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-metadata?u=76281980&t=4)** Great job conducting your analysis.
 >
-> **[0:06](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-metadata?u=76281980&t=6)** But before we part, let's review the metadata we accrued during this analysis.
+> **[0:06](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-metadata?u=76281980&t=6)** But before we part, let's review the [[Metadata]] we accrued during this analysis.
 >
 > **[0:12](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-metadata?u=76281980&t=12)** So, in this movie, I'm going to review all the metadata we made during this course.
 >
@@ -6890,7 +6814,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-metadata?u=76281980&t=102)** This approach helped us plan how to recode categorical variables and use them in our analysis.
 >
-> **[1:47](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-metadata?u=76281980&t=107)** Just to be clear, using Excel, or some other spreadsheet program most computers can read, and most people are familiar with, is how you should be documenting your data.
+> **[1:47](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-metadata?u=76281980&t=107)** Just to be clear, using [[Microsoft Excel|Excel]], or some other spreadsheet program most computers can read, and most people are familiar with, is how you should be documenting your data.
 >
 > **[1:57](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-metadata?u=76281980&t=117)** If you meet an analyst who uses SAS and says, "Oh, I just use formats and labels."
 >
@@ -6902,7 +6826,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-metadata?u=76281980&t=137)** Also, you have to have the data set itself to consume these formats and labels.
 >
-> **[2:22](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-metadata?u=76281980&t=142)** And sometimes, it's not possible to transfer the data set due to privacy of the data set.
+> **[2:22](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-metadata?u=76281980&t=142)** And sometimes, it's not possible to transfer the data set due to [[Privacy]] of the data set.
 >
 > **[2:27](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-metadata?u=76281980&t=147)** SPSS users also suffer from the same problem, where they use variable and value labels, but they do not make a data dictionary.
 >
@@ -6918,7 +6842,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-metadata?u=76281980&t=180)** Remember how we kept a spreadsheet that documented all our exclusions, how we did them, and why?
 >
-> **[3:06](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-metadata?u=76281980&t=186)** Because we did that, it wasn't that hard to make this data reduction diagram that could actually be used in a journal, article, or PowerPoint presentation.
+> **[3:06](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-metadata?u=76281980&t=186)** Because we did that, it wasn't that hard to make this data reduction diagram that could actually be used in a journal, article, or [[Microsoft PowerPoint|PowerPoint]] presentation.
 >
 > **[3:14](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-metadata?u=76281980&t=194)** This documentation is really important, especially if you are writing about your analysis in a scientific paper.
 >
@@ -6968,7 +6892,7 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-metadata?u=76281980&t=309)** When I worked at the U.S. Army, I was provided what was called, the Disability Data Set, to use for an analysis.
 >
-> **[5:15](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-metadata?u=76281980&t=315)** I Googled around a little and found that the Government Accountability Office had written a report that demonstrated this data set was invalid and could not be used for analysis.
+> **[5:15](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-metadata?u=76281980&t=315)** I Googled around a little and found that the Government [[Accountability]] [[Microsoft Office|Office]] had written a report that demonstrated this data set was invalid and could not be used for analysis.
 >
 > **[5:26](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-metadata?u=76281980&t=326)** I certainly kept that report in my miscellaneous metadata.
 >
@@ -6988,7 +6912,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Metadata]] (8), web (4), next (3), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (8), [[Microsoft Excel|Excel]] (1), [[Privacy]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Accountability]] (1)
 > **Env Vars:** brfss (3), sas (3), spss (1)
 > **CLI Commands:** make (5)
 > **Analogies:** such as (3)
@@ -6997,12 +6921,11 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Warnings:** warning (1)
 
-#### Uses of metadata
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/uses-of-metadata?u=76281980)
+#### [Uses of metadata](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/uses-of-metadata?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/uses-of-metadata?u=76281980&t=0)** - [Narrator] We are onto chapter seven, section two, where I reveal to you how all this metadata we made is not wasted.
+> **[0:00](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/uses-of-metadata?u=76281980&t=0)** - [Narrator] We are onto chapter seven, section two, where I reveal to you how all this [[Metadata]] we made is not wasted.
 >
 > **[0:08](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/uses-of-metadata?u=76281980&t=8)** It's the gift that keeps on giving.
 >
@@ -7100,15 +7023,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (23), data (5), hit (1), next (1)
+> **Frameworks & Libraries:** [[Metadata]] (23)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** jama (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Review of the process
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-process?u=76281980)
+#### [Review of the process](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7142,7 +7064,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-process?u=76281980&t=69)** We evaluated that all in chapter one.
 >
-> **[1:12](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-process?u=76281980&t=72)** Next, we did a lot of work in chapter 2 preparing our analysis by designing our metadata.
+> **[1:12](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-process?u=76281980&t=72)** Next, we did a lot of work in chapter 2 preparing our analysis by designing our [[Metadata]].
 >
 > **[1:18](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-process?u=76281980&t=78)** We looked in the BRFSS documentation and built our data dictionary, effectively designing our data set.
 >
@@ -7166,7 +7088,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-process?u=76281980&t=134)** At the end, we generated our exposure and outcome variables.
 >
-> **[2:19](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-process?u=76281980&t=139)** In chapter four, we generated the rest of our variables and finalized our data set.
+> **[2:19](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-process?u=76281980&t=139)** In chapter four, we generated the [[Representational State Transfer (REST)|rest]] of our variables and finalized our data set.
 >
 > **[2:24](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/review-of-the-process?u=76281980&t=144)** I introduced you to the concept of Table 1, our main deliverable for our descriptive analysis.
 >
@@ -7200,13 +7122,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), next (5), web (2), [[Metadata]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** brfss (5)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps in the BRFSS analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/next-steps-in-the-brfss-analysis?u=76281980)
+#### [Next steps in the BRFSS analysis](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/next-steps-in-the-brfss-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7218,7 +7139,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/next-steps-in-the-brfss-analysis?u=76281980&t=27)** We will also briefly cover preparing a manuscript and also publication and presentation.
 >
-> **[0:33](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/next-steps-in-the-brfss-analysis?u=76281980&t=33)** This sounds like a public health warning, but it's not.
+> **[0:33](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/next-steps-in-the-brfss-analysis?u=76281980&t=33)** This sounds like a [[Public Health]] warning, but it's not.
 >
 > **[0:36](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/next-steps-in-the-brfss-analysis?u=76281980&t=36)** Descriptive Analysis often leads to regression.
 >
@@ -7246,7 +7167,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/next-steps-in-the-brfss-analysis?u=76281980&t=112)** Still, they need to understand your process and decisions, but they really are not in the position to dig through your code.
 >
-> **[1:59](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/next-steps-in-the-brfss-analysis?u=76281980&t=119)** Hence, the metadata and other communication you have with them can be really helpful to you.
+> **[1:59](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/next-steps-in-the-brfss-analysis?u=76281980&t=119)** Hence, the [[Metadata]] and other communication you have with them can be really helpful to you.
 >
 > **[2:03](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/next-steps-in-the-brfss-analysis?u=76281980&t=123)** Non-statistician experts can really improve your analysis.
 >
@@ -7282,7 +7203,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/next-steps-in-the-brfss-analysis?u=76281980&t=228)** The results section is all you.
 >
-> **[3:51](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/next-steps-in-the-brfss-analysis?u=76281980&t=231)** Then the next thing that's all you is the section of the methods where you describe the statistics.
+> **[3:51](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/next-steps-in-the-brfss-analysis?u=76281980&t=231)** Then the next thing that's all you is the section of the methods where you describe the [[Statistics]].
 >
 > **[3:57](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/next-steps-in-the-brfss-analysis?u=76281980&t=237)** In the case of doing a secondary analysis of existing data, like we are with BRFSS, sometimes you end up writing the whole method section.
 >
@@ -7290,7 +7211,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/next-steps-in-the-brfss-analysis?u=76281980&t=252)** So you are usually the best person for the job to talk about it.
 >
-> **[4:15](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/next-steps-in-the-brfss-analysis?u=76281980&t=255)** You can always have others help you with the rest of the writing if that is not your forte, but you are responsible for the results and statistical methods.
+> **[4:15](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/next-steps-in-the-brfss-analysis?u=76281980&t=255)** You can always have others help you with the [[Representational State Transfer (REST)|rest]] of the writing if that is not your forte, but you are responsible for the results and statistical methods.
 >
 > **[4:24](https://www.linkedin.com/learning/descriptive-healthcare-analytics-in-r/next-steps-in-the-brfss-analysis?u=76281980&t=264)** So to conclude this section, remember it takes a village to make a scientific publication and you really want to work as a team.
 >
@@ -7320,7 +7241,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), data (5), [[Representational State Transfer (REST)|Rest]] (2), [[Public Health]] (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Public Health]] (1), [[Metadata]] (1), [[Statistics]] (1)
 > **CLI Commands:** make (8), find (1)
 > **Env Vars:** brfss (4)
 > **Cross-References:** in the next (1)

@@ -76,24 +76,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the DevSecOps course
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-the-devsecops-course?u=76281980)
+#### [Introduction to the DevSecOps course](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-the-devsecops-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-the-devsecops-course?u=76281980&t=0)** - [Tim Chase] Data security is one of the most important considerations within any organization.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-the-devsecops-course?u=76281980&t=0)** - [Tim Chase] [[Data Security]] is one of the most important considerations within any organization.
 >
 > **[0:05](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-the-devsecops-course?u=76281980&t=5)** On a nearly continuous basis, we hear of a major data breach that has lost privileged customer data and cost companies countless numbers of dollars.
 >
 > **[0:13](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-the-devsecops-course?u=76281980&t=13)** So how do you safeguard your company's applications to protect against these losses?
 >
-> **[0:19](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-the-devsecops-course?u=76281980&t=19)** Well, this is where DevSecOps comes in.
+> **[0:19](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-the-devsecops-course?u=76281980&t=19)** Well, this is where [[DevSecOps]] comes in.
 >
-> **[0:22](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-the-devsecops-course?u=76281980&t=22)** Hi, I'm Tim Chase and I've been testing application security and leading security teams for 20 years.
+> **[0:22](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-the-devsecops-course?u=76281980&t=22)** Hi, I'm Tim Chase and I've been testing [[Application Security]] and leading security teams for 20 years.
 >
-> **[0:28](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-the-devsecops-course?u=76281980&t=28)** In this course, I'll show you how to drive security in a DevOps process.
+> **[0:28](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-the-devsecops-course?u=76281980&t=28)** In this course, I'll show you how to drive security in a [[DevOps]] process.
 >
-> **[0:32](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-the-devsecops-course?u=76281980&t=32)** We'll discuss DevOps and why traditional security testing doesn't work well within it.
+> **[0:32](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-the-devsecops-course?u=76281980&t=32)** We'll discuss DevOps and why traditional [[Security Testing]] doesn't work well within it.
 >
 > **[0:37](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-the-devsecops-course?u=76281980&t=37)** Then we'll examine strategies to speed up the security testing process and develop a DevSecOps approach.
 >
@@ -105,21 +104,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), data (3), [[DevSecOps]] (2), [[DevOps]] (2), application (1)
+> **Frameworks & Libraries:** [[Security Testing]] (4), [[DevSecOps]] (2), [[DevOps]] (2), [[Data Security]] (1), [[Application Security]] (1)
 > **Speakers:** - [tim (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/what-you-should-know?u=76281980&t=0)** - [Presenter] To get the most out of this course, you should have a basic working knowledge of the security development process and some basic knowledge of application security.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/what-you-should-know?u=76281980&t=0)** - [Presenter] To get the most out of this course, you should have a basic working knowledge of the security development process and some basic knowledge of [[Application Security]].
 >
-> **[0:09](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/what-you-should-know?u=76281980&t=9)** You may also find it helpful, but not necessary, to know a bit about the different types of security testing and different software development methodologies, like Waterfall and DevOps.
+> **[0:09](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/what-you-should-know?u=76281980&t=9)** You may also find it helpful, but not necessary, to know a bit about the different types of [[Security Testing]] and different [[Software Development]] methodologies, like Waterfall and [[DevOps]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), application (1), [[Software Development]] (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Application Security]] (1), [[Security Testing]] (1), [[Software Development]] (1), [[DevOps]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [presenter] (1)
 
@@ -128,12 +126,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is DevOps?
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/what-is-devops?u=76281980)
+#### [What is DevOps?](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/what-is-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/what-is-devops?u=76281980&t=0)** - [Instructor] Before starting a discussion on DevSecOps, we should start by making sure we have a good understanding of what is DevOps?
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/what-is-devops?u=76281980&t=0)** - [Instructor] Before starting a discussion on [[DevSecOps]], we should start by making sure we have a good understanding of what is [[DevOps]]?
 >
 > **[0:07](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/what-is-devops?u=76281980&t=7)** Why does DevOps exist?
 >
@@ -159,7 +156,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/what-is-devops?u=76281980&t=45)** When servers can be started in seconds via code, it becomes a hard sell that it should take months to release upgrades.
 >
-> **[0:52](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/what-is-devops?u=76281980&t=52)** With waterfall gone, agile comes in and fills in some of the gaps.
+> **[0:52](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/what-is-devops?u=76281980&t=52)** With waterfall gone, [[Agile Development|agile]] comes in and fills in some of the gaps.
 >
 > **[0:58](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/what-is-devops?u=76281980&t=58)** Agile works to speed up the delivery of applications.
 >
@@ -235,7 +232,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/what-is-devops?u=76281980&t=203)** You can't always take a tester and force them to be a developer.
 >
-> **[3:27](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/what-is-devops?u=76281980&t=207)** You can't always take a developer and make them be a Linux expert.
+> **[3:27](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/what-is-devops?u=76281980&t=207)** You can't always take a developer and make them be a [[Linux]] expert.
 >
 > **[3:31](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/what-is-devops?u=76281980&t=211)** You have to invest in finding the right people and making sure they have the right training.
 >
@@ -259,23 +256,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (13), [[Agile Development|Agile]] (8), teams (6), application (6), business (5)
+> **Frameworks & Libraries:** [[DevOps]] (13), [[Agile Development|Agile]] (8), [[DevSecOps]] (2), [[Linux]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Security is different in a DevOps world
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-is-different-in-a-devops-world?u=76281980)
+#### [Security is different in a DevOps world](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-is-different-in-a-devops-world?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-is-different-in-a-devops-world?u=76281980&t=0)** - [Instructor] So security is definitely different in a DevOps world.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-is-different-in-a-devops-world?u=76281980&t=0)** - [Instructor] So security is definitely different in a [[DevOps]] world.
 >
 > **[0:03](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-is-different-in-a-devops-world?u=76281980&t=3)** Let's take a look at how security has changed as our methodologies have changed over time.
 >
 > **[0:10](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-is-different-in-a-devops-world?u=76281980&t=10)** Security is changing with DevOps.
 >
-> **[0:12](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-is-different-in-a-devops-world?u=76281980&t=12)** In a 2021 State of DevSecOps survey by GitHub, respondents were asked how their security role was changing in their DevOps environment.
+> **[0:12](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-is-different-in-a-devops-world?u=76281980&t=12)** In a 2021 State of [[DevSecOps]] survey by [[GitHub]], respondents were asked how their security role was changing in their DevOps environment.
 >
 > **[0:20](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-is-different-in-a-devops-world?u=76281980&t=20)** Only 20% said their role wasn't changing.
 >
@@ -331,7 +327,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-is-different-in-a-devops-world?u=76281980&t=148)** Who should be the one that's actually responsible for it?
 >
-> **[2:34](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-is-different-in-a-devops-world?u=76281980&t=154)** Time matters in an agile or a DevOps world.
+> **[2:34](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-is-different-in-a-devops-world?u=76281980&t=154)** Time matters in an [[Agile Development|agile]] or a DevOps world.
 >
 > **[2:37](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-is-different-in-a-devops-world?u=76281980&t=157)** Anything that we can do to make it quicker will really help the process succeed.
 >
@@ -341,11 +337,11 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-is-different-in-a-devops-world?u=76281980&t=182)** Before we go on to the next video, Gene Kim, who's one of the founders of the DevOps movement, has a great quote that I think is very appropriate to what we're talking about, which is, "The only thing more dangerous than a developer is a developer conspiring with security".
 >
-> **[3:16](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-is-different-in-a-devops-world?u=76281980&t=196)** In the next video, will talk a little bit more about DevSecOps and how we can create that separation, but still create the accountability within the security team.
+> **[3:16](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-is-different-in-a-devops-world?u=76281980&t=196)** In the next video, will talk a little bit more about DevSecOps and how we can create that separation, but still create the [[Accountability]] within the security team.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (19), [[DevOps]] (8), next (4), teams (4), [[DevSecOps]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (8), [[DevSecOps]] (2), [[GitHub]] (1), [[Agile Development|Agile]] (1), [[Accountability]] (1)
 > **Cross-References:** in the next (2), next video (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -354,12 +350,11 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to DevSecOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980)
+#### [Introduction to DevSecOps](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=1)** - [Instructor] Now, let's talk a little bit about DevSecOps and how to integrate security into the DevOps world.
+> **[0:01](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=1)** - [Instructor] Now, let's talk a little bit about [[DevSecOps]] and how to integrate security into the [[DevOps]] world.
 >
 > **[0:07](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=7)** The definition of DevSecOps really is how do you take security and put it into the DevOps process?
 >
@@ -367,13 +362,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=21)** When you're developing a plan of how to do this, the goal really should be, how do we make the dev teams have more ownership of the process?
 >
-> **[0:29](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=29)** It's not all about automation, but it's about ownership and accountability and how we can get the dev teams to take more of it.
+> **[0:29](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=29)** It's not all about automation, but it's about ownership and [[Accountability]] and how we can get the dev teams to take more of it.
 >
 > **[0:36](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=36)** Integrating automation into every step of the process is going to be key.
 >
 > **[0:43](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=43)** As with all of DevOps, automation is key to DevSecOps.
 >
-> **[0:47](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=47)** It's how you're going to be able to be quick and agile and get away from all the manual processes that you had.
+> **[0:47](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=47)** It's how you're going to be able to be quick and [[Agile Development|agile]] and get away from all the manual processes that you had.
 >
 > **[0:52](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=52)** There's a good chance that when you move over to DevSecOps, some of the tools that you've used for years with your existing process, won't work.
 >
@@ -393,9 +388,9 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=97)** Not a PDF, not a document, but actual results to the developers.
 >
-> **[1:41](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=101)** And the results should be pushed into a tool that they use, not a security tool that the security teams use, but something that's meaningful to developers like Jira or Quality Center that they're in and out of all day long, that's meaningful to them and that's real time so they can act on it.
+> **[1:41](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=101)** And the results should be pushed into a tool that they use, not a security tool that the security teams use, but something that's meaningful to developers like [[Jira]] or Quality Center that they're in and out of all day long, that's meaningful to them and that's real time so they can act on it.
 >
-> **[1:58](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=118)** And even taking it one step further, one of the best ways that you can enable the development team is to have the results in real time through ChatOps, or instead of sending them into PDFs, send them notifications via Slack or HipChat or some immediate notification mechanism so they have to be able to act on the results quicker.
+> **[1:58](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=118)** And even taking it one step further, one of the best ways that you can enable the development team is to have the results in real time through ChatOps, or instead of sending them into PDFs, send them notifications via [[Slack]] or HipChat or some immediate notification mechanism so they have to be able to act on the results quicker.
 >
 > **[2:19](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=139)** And one of the more popular quotes that I've seen and that I really like is by Rod Michael.
 >
@@ -407,9 +402,9 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=161)** The developers need to be educated on the security basics.
 >
-> **[2:44](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=164)** In the 20 years I've been doing application security, I've seen the same security defects over and over and over again.
+> **[2:44](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=164)** In the 20 years I've been doing [[Application Security]], I've seen the same security defects over and over and over again.
 >
-> **[2:50](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=170)** SQL injection was a problem 20 years ago.
+> **[2:50](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=170)** [[SQL]] injection was a problem 20 years ago.
 >
 > **[2:52](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=172)** SQL injection is still a problem today.
 >
@@ -427,7 +422,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=220)** Give them the tools, let them hold the tools and put them in their pipeline the way that they can use them.
 >
-> **[3:46](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=226)** Put them in their Jenkins build or put them in their IDE so that when they're building an application, they can see the results in real time.
+> **[3:46](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=226)** Put them in their [[Jenkins]] build or put them in their IDE so that when they're building an application, they can see the results in real time.
 >
 > **[3:54](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/introduction-to-devsecops?u=76281980&t=234)** Ultimately they should be responsible for the security of the application, not the security team.
 >
@@ -437,15 +432,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (19), [[DevOps]] (7), [[DevSecOps]] (6), [[Automation]] (6), teams (4)
+> **Frameworks & Libraries:** [[DevOps]] (7), [[DevSecOps]] (6), [[SQL]] (2), [[Accountability]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** sql (2), pdf (1), ide (1)
 > **Tools:** jira (1), slack (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Shifting security to the left
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/shifting-security-to-the-left?u=76281980)
+#### [Shifting security to the left](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/shifting-security-to-the-left?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -463,7 +457,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/shifting-security-to-the-left?u=76281980&t=39)** And we move those to the development phase.
 >
-> **[0:42](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/shifting-security-to-the-left?u=76281980&t=42)** Just like everything else in DevOps, security has to be moved to the left.
+> **[0:42](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/shifting-security-to-the-left?u=76281980&t=42)** Just like everything else in [[DevOps]], security has to be moved to the left.
 >
 > **[0:46](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/shifting-security-to-the-left?u=76281980&t=46)** It has to be done more quickly.
 >
@@ -475,9 +469,9 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/shifting-security-to-the-left?u=76281980&t=62)** A primary goal of DevOps is to enable development.
 >
-> **[1:05](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/shifting-security-to-the-left?u=76281980&t=65)** In DevSecOps, we want to enable that same trend.
+> **[1:05](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/shifting-security-to-the-left?u=76281980&t=65)** In [[DevSecOps]], we want to enable that same trend.
 >
-> **[1:09](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/shifting-security-to-the-left?u=76281980&t=69)** We want them to own their own security testing and own their own overall security.
+> **[1:09](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/shifting-security-to-the-left?u=76281980&t=69)** We want them to own their own [[Security Testing]] and own their own overall security.
 >
 > **[1:18](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/shifting-security-to-the-left?u=76281980&t=78)** How do we do that?
 >
@@ -503,7 +497,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/shifting-security-to-the-left?u=76281980&t=113)** Some tools work better than others.
 >
-> **[1:55](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/shifting-security-to-the-left?u=76281980&t=115)** Some work better on Java apps, some work better with different types of authentication.
+> **[1:55](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/shifting-security-to-the-left?u=76281980&t=115)** Some work better on [[Java]] apps, some work better with different types of authentication.
 >
 > **[2:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/shifting-security-to-the-left?u=76281980&t=120)** We should provide them with the tools that they need to be able to be successful.
 >
@@ -515,7 +509,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/shifting-security-to-the-left?u=76281980&t=142)** It's their job together to jointly ensure that the application is secure.
 >
-> **[2:27](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/shifting-security-to-the-left?u=76281980&t=147)** The DevOps team is responsible for the application security testing and ensuring that the application is secure, but the security team ultimately is accountable for it.
+> **[2:27](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/shifting-security-to-the-left?u=76281980&t=147)** The DevOps team is responsible for the [[Application Security]] testing and ensuring that the application is secure, but the security team ultimately is accountable for it.
 >
 > **[2:37](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/shifting-security-to-the-left?u=76281980&t=157)** If you remember, the security team turned themselves into auditors.
 >
@@ -545,7 +539,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (15), application (5), [[DevOps]] (4), [[DevSecOps]] (4), teams (1)
+> **Frameworks & Libraries:** [[DevOps]] (4), [[DevSecOps]] (4), [[Security Testing]] (1), [[Java]] (1), [[Application Security]] (1)
 > **Cross-References:** we talked about (2), later in (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -556,14 +550,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud and DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/cloud-and-devops?u=76281980)
+#### [Cloud and DevOps](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/cloud-and-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/cloud-and-devops?u=76281980&t=0)** - [Instructor] Throughout some of the videos, we've talked about cloud.
 >
-> **[0:03](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/cloud-and-devops?u=76281980&t=3)** So the question becomes, how does cloud and DevSecOps relate?
+> **[0:03](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/cloud-and-devops?u=76281980&t=3)** So the question becomes, how does cloud and [[DevSecOps]] relate?
 >
 > **[0:07](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/cloud-and-devops?u=76281980&t=7)** First, let's talk about some of the goals of going to the cloud.
 >
@@ -575,7 +568,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/cloud-and-devops?u=76281980&t=22)** Everything in the cloud has the ability to go a lot faster.
 >
-> **[0:26](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/cloud-and-devops?u=76281980&t=26)** And kind of going hand in hand with that is that you can be more agile in the cloud.
+> **[0:26](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/cloud-and-devops?u=76281980&t=26)** And kind of going hand in hand with that is that you can be more [[Agile Development|agile]] in the cloud.
 >
 > **[0:30](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/cloud-and-devops?u=76281980&t=30)** You can respond to business decisions quicker, or you can adapt.
 >
@@ -599,7 +592,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/cloud-and-devops?u=76281980&t=83)** It can be done very quickly and easily with different APIs.
 >
-> **[1:27](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/cloud-and-devops?u=76281980&t=87)** So DevOps and cloud really are partners, you can do one without the other, but you really have a disadvantage, and to truly capture the value of either, you need both.
+> **[1:27](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/cloud-and-devops?u=76281980&t=87)** So [[DevOps]] and cloud really are partners, you can do one without the other, but you really have a disadvantage, and to truly capture the value of either, you need both.
 >
 > **[1:39](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/cloud-and-devops?u=76281980&t=99)** And when you step back and think about it, the advantages of DevOps and cloud are the same, which is why they partner so well together.
 >
@@ -611,27 +604,26 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/cloud-and-devops?u=76281980&t=123)** You could do DevOps without going to the cloud, but it would be very difficult.
 >
-> **[2:07](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/cloud-and-devops?u=76281980&t=127)** You'd lose a lot of the agility that's needed to do DevOps well, when you deal with physical servers, and on-premises hardware.
+> **[2:07](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/cloud-and-devops?u=76281980&t=127)** You'd lose a lot of the agility that's needed to do DevOps well, when you deal with physical servers, and on-premises [[Hardware]].
 >
 > **[2:13](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/cloud-and-devops?u=76281980&t=133)** The location of the cloud doesn't really matter, the cloud could be internal or external, public or private, as long as it's a cloud that can be easily managed and maintained via an API, you can still get the advantages of DevOps and DevSecOps.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (19), [[DevOps]] (8), [[Agile Development|Agile]] (3), business (3), [[DevSecOps]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (8), [[Agile Development|Agile]] (3), [[DevSecOps]] (2), [[Hardware]] (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### APIs are essential
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/apis-are-essential?u=76281980)
+#### [APIs are essential](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/apis-are-essential?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/apis-are-essential?u=76281980&t=0)** - Let's talk a little bit about APIs and why they're so helpful to DevSecOps.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/apis-are-essential?u=76281980&t=0)** - Let's talk a little bit about APIs and why they're so helpful to [[DevSecOps]].
 >
-> **[0:05](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/apis-are-essential?u=76281980&t=5)** Just like cloud is a good partner for DevOps, APIs are a great partner for DevSecOps.
+> **[0:05](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/apis-are-essential?u=76281980&t=5)** Just like cloud is a good partner for [[DevOps]], APIs are a great partner for DevSecOps.
 >
 > **[0:11](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/apis-are-essential?u=76281980&t=11)** What is an API?
 >
@@ -669,7 +661,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/apis-are-essential?u=76281980&t=104)** All of them have APIs built into them so that you can easily call them without having to launch the tools.
 >
-> **[1:50](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/apis-are-essential?u=76281980&t=110)** APIs also enable you to connect to defect tracking systems or testing systems, so you can update the status or send defects or add tasks remotely without having to log into JIRA.
+> **[1:50](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/apis-are-essential?u=76281980&t=110)** APIs also enable you to connect to defect tracking systems or testing systems, so you can update the status or send defects or add tasks remotely without having to log into [[Jira]].
 >
 > **[2:01](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/apis-are-essential?u=76281980&t=121)** APIs really take a lot of the manual parts out of the DevSecOps pipeline.
 >
@@ -683,19 +675,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevSecOps]] (6), application (5), api (4), [[DevOps]] (3), [[Security]] (3)
+> **Frameworks & Libraries:** [[DevSecOps]] (6), [[DevOps]] (3), [[Jira]] (1)
 > **Env Vars:** api (4), dast (1), jira (1)
 > **Definitions:** is a  (2), is an  (1), stands for (1)
 > **Tools:** command line (2), jira (1)
 > **Analogies:** just like (1)
 > **Speakers:** - let (1)
 
-#### Finding the right toolset
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980)
+#### [Finding the right toolset](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=0)** - [Instructor] As we roll out DevSecOps, one of the most important things that we can do is find the right tool set.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=0)** - [Instructor] As we roll out [[DevSecOps]], one of the most important things that we can do is find the right tool set.
 >
 > **[0:06](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=6)** It's also one of the hardest things to do because sometimes we just don't know where to start.
 >
@@ -707,7 +698,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=28)** And make sure that the tool selection is a team effort.
 >
-> **[0:31](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=31)** Remember, developers and security are partners in the DevOps team.
+> **[0:31](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=31)** Remember, developers and security are partners in the [[DevOps]] team.
 >
 > **[0:35](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=35)** We need to work together to make a tool selection, not make one in isolation.
 >
@@ -717,9 +708,9 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=50)** The first one is what languages do we need to support?
 >
-> **[0:52](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=52)** Some tools work better with Java or .NET.
+> **[0:52](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=52)** Some tools work better with [[Java]] or .NET.
 >
-> **[0:57](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=57)** Some work better with some of the newer technologies, like Node.js.
+> **[0:57](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=57)** Some work better with some of the newer technologies, like [[Node.js]].
 >
 > **[1:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=60)** It's important to understand all of the different languages that your project will use so that you can make sure that your tools support it.
 >
@@ -733,7 +724,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=80)** Some tools are better than others at different types of tests.
 >
-> **[1:23](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=83)** Some excel at looking for things like buffer overflows and some do better at authentication.
+> **[1:23](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=83)** Some [[Microsoft Excel|excel]] at looking for things like buffer overflows and some do better at authentication.
 >
 > **[1:28](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=88)** It's important to understand what types of testing you're looking to do and make sure that your tools cover those.
 >
@@ -745,7 +736,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=106)** Can it be automated?
 >
-> **[1:48](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=108)** Can the development teams put it in their Jenkins pipeline or run it manually on their machines as a part of their unit testing?
+> **[1:48](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=108)** Can the development teams put it in their [[Jenkins]] pipeline or run it manually on their machines as a part of their [[Unit Testing]]?
 >
 > **[1:54](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=114)** And how long will it take?
 >
@@ -755,7 +746,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=127)** Open source is okay.
 >
-> **[2:09](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=129)** In the past, we've been so concerned with commercial tools and ensuring that we have adequate coverage and we convinced ourselves that you had to buy commercial in order to make sure you had proper security testing.
+> **[2:09](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=129)** In the past, we've been so concerned with commercial tools and ensuring that we have adequate coverage and we convinced ourselves that you had to buy commercial in order to make sure you had proper [[Security Testing]].
 >
 > **[2:19](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=139)** But what we're seeing in the open source community today is that there's a vast selection of good open source tools that do a great job of testing.
 >
@@ -787,7 +778,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=194)** Some of these have been around for a while, but some of them are a little bit newer.
 >
-> **[3:17](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=197)** [[Static Application Security Testing]], otherwise known as SAST, really looks at the source code of the application and tries to look for security vulnerabilities before it's compiled.
+> **[3:17](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=197)** [[Static [[Application Security]] Testing]], otherwise known as SAST, really looks at the source code of the application and tries to look for security vulnerabilities before it's compiled.
 >
 > **[3:27](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/finding-the-right-toolset?u=76281980&t=207)** Most of the tools that are on the market today support multiple languages, especially the commercial ones, but the problem with these tools is that they tend to have a high false positive rate.
 >
@@ -861,7 +852,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), application (11), data (4), [[DevSecOps]] (3), [[DevOps]] (3)
+> **Frameworks & Libraries:** [[Security Testing]] (4), [[Application Security]] (4), [[DevSecOps]] (3), [[DevOps]] (3), [[Java]] (2)
 > **CLI Commands:** make (14), find (3), node (1), docker (1)
 > **Env Vars:** iast (4), net (2), sast (1), cicd (1), pmd (1)
 > **Definitions:** is a  (2), known as (2)
@@ -870,12 +861,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Prerequisites:** you need to have (1)
 
-#### Continuous integration and delivery
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/continuous-integration-and-delivery?u=76281980)
+#### [Continuous integration and delivery](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/continuous-integration-and-delivery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/continuous-integration-and-delivery?u=76281980&t=0)** - [Instructor] Another important concept in DevOps, in DevSecOps, is continuous integration and delivery.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/continuous-integration-and-delivery?u=76281980&t=0)** - [Instructor] Another important concept in [[DevOps]], in [[DevSecOps]], is [[Continuous Integration (CI)|continuous integration]] and delivery.
 >
 > **[0:05](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/continuous-integration-and-delivery?u=76281980&t=5)** The process looks basically something like this, where you have continuous integration and deployment that is going on once a day or many times a day.
 >
@@ -897,11 +887,11 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/continuous-integration-and-delivery?u=76281980&t=53)** Normally, this goes together with continuous integration, but it doesn't have to.
 >
-> **[0:59](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/continuous-integration-and-delivery?u=76281980&t=59)** CD can also mean continuous delivery, which is similar to continuous deployment, except the build may not be released every time to production.
+> **[0:59](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/continuous-integration-and-delivery?u=76281980&t=59)** CD can also mean [[Continuous Delivery (CD)|continuous delivery]], which is similar to continuous deployment, except the build may not be released every time to production.
 >
 > **[1:09](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/continuous-integration-and-delivery?u=76281980&t=69)** The advantages of CI/CD are similar to the advantages of DevOps.
 >
-> **[1:13](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/continuous-integration-and-delivery?u=76281980&t=73)** It's very fast and agile.
+> **[1:13](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/continuous-integration-and-delivery?u=76281980&t=73)** It's very fast and [[Agile Development|agile]].
 >
 > **[1:15](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/continuous-integration-and-delivery?u=76281980&t=75)** And when you do one build or multiple builds a day, that really enables you to be fast and agile with changes that you're making to your application.
 >
@@ -927,21 +917,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cd (7), ci (6), [[Continuous Integration (CI)|Continuous integration]] (4), application (3), [[DevOps]] (2)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (4), [[DevOps]] (2), [[Agile Development|Agile]] (2), [[DevSecOps]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **CLI Commands:** cd (7), find (1)
 > **Definitions:** stands for (1), is an  (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Containers and DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980)
+#### [Containers and DevOps](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980&t=0)** - One of the new and popular ways to deploy applications today is with containers.
 >
-> **[0:04](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980&t=4)** Containers are another tool that can be used in the DevSecOps process.
+> **[0:04](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980&t=4)** Containers are another tool that can be used in the [[DevSecOps]] process.
 >
 > **[0:09](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980&t=9)** Let's take a look and see what containers are and how they can be used in security automation.
 >
@@ -953,11 +942,11 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980&t=31)** As opposed to having all of your automation do a build and then deploy that, everything is packaged into one place and you deploy the entire container across environments.
 >
-> **[0:41](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980&t=41)** It tries to make configuration and deployment a lot easier, which really fits in well with the DevOps process.
+> **[0:41](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980&t=41)** It tries to make configuration and deployment a lot easier, which really fits in well with the [[DevOps]] process.
 >
 > **[0:47](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980&t=47)** And also from a testing point of view, it helps to ensure that environments are the same.
 >
-> **[0:52](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980&t=52)** When doing security testing, one of the problems that's very common is that your environments are not the same.
+> **[0:52](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980&t=52)** When doing [[Security Testing]], one of the problems that's very common is that your environments are not the same.
 >
 > **[0:57](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980&t=57)** Your development environment is set up one way, your testing environment is set up another way, and your production environment is set up a different way, which makes security testing cumbersome and difficult because you can't guarantee that results in one environment are true for another.
 >
@@ -971,17 +960,17 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980&t=101)** In a container, everything that the application needs is put into one place.
 >
-> **[1:45](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980&t=105)** You'll have the host OS with the container server like Docker or Kubernetes, or a container application running on top of that and then any shared libraries they need and the applications themselves will be on the container image.
+> **[1:45](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980&t=105)** You'll have the host OS with the container server like Docker or [[Kubernetes]], or a container application running on top of that and then any shared libraries they need and the applications themselves will be on the container image.
 >
 > **[1:57](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980&t=117)** We can really take advantage of this in a DevSecOps process to help make our security testing a lot quicker and easier.
 >
-> **[2:03](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980&t=123)** We can use it to organize all of our security tests and put them into one container that we can easily hand to an application development team.
+> **[2:03](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980&t=123)** We can use it to organize all of our security tests and put them into one container that we can easily hand to an [[Application Development]] team.
 >
 > **[2:11](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980&t=131)** By using this method, we can really ramp up security from one application to hundreds of applications and being able to just take one container and hand it to all the different teams that we want to do our testing.
 >
 > **[2:23](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980&t=143)** We can create different containers for similar applications.
 >
-> **[2:26](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980&t=146)** You can have one container for Java, you can have one container for .net and so on and so forth.
+> **[2:26](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980&t=146)** You can have one container for [[Java]], you can have one container for .net and so on and so forth.
 >
 > **[2:31](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980&t=151)** So you don't have to have one container for all the different types of applications.
 >
@@ -989,7 +978,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980&t=160)** And once we have the containers built, we can integrate it with the automation server that the development teams manage.
 >
-> **[2:45](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980&t=165)** If they're using Jenkins, we can take our containers and they can integrate them with their Jenkins environment so that every time they run a build or every time they perform some automation, they can run the container as well that contains all of our security tests.
+> **[2:45](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980&t=165)** If they're using [[Jenkins]], we can take our containers and they can integrate them with their Jenkins environment so that every time they run a build or every time they perform some automation, they can run the container as well that contains all of our security tests.
 >
 > **[2:58](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/containers-and-devops?u=76281980&t=178)** One advantage of using a container is being able to use an artifactory.
 >
@@ -1009,19 +998,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (10), [[Security]] (8), [[Automation]] (4), [[DevSecOps]] (3), teams (2)
+> **Frameworks & Libraries:** [[DevSecOps]] (3), [[Security Testing]] (3), [[Jenkins]] (2), [[DevOps]] (1), [[Kubernetes]] (1)
 > **CLI Commands:** make (3), apache (1), docker (1)
 > **Prerequisites:** set up (3)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1)
 > **Speakers:** - one (1)
 
-#### Securing infrastructure as code in the pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/securing-infrastructure-as-code-in-the-pipeline?u=76281980)
+#### [Securing infrastructure as code in the pipeline](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/securing-infrastructure-as-code-in-the-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/securing-infrastructure-as-code-in-the-pipeline?u=76281980&t=0)** - [Instructor] One of the newer trends that has become popular in the DevOps world is infrastructure as code.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/securing-infrastructure-as-code-in-the-pipeline?u=76281980&t=0)** - [Instructor] One of the newer trends that has become popular in the [[DevOps]] world is [[Infrastructure as code (IaC)|infrastructure as code]].
 >
 > **[0:05](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/securing-infrastructure-as-code-in-the-pipeline?u=76281980&t=5)** As an industry, we need a way to deploy infrastructure without manual intervention, and that's where IaC came about.
 >
@@ -1031,7 +1019,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/securing-infrastructure-as-code-in-the-pipeline?u=76281980&t=22)** Think of it just like source code for deploying your infrastructure.
 >
-> **[0:26](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/securing-infrastructure-as-code-in-the-pipeline?u=76281980&t=26)** You can use CloudFormation or Terraform as a couple of examples, and build your infrastructure in a code viewer.
+> **[0:26](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/securing-infrastructure-as-code-in-the-pipeline?u=76281980&t=26)** You can use CloudFormation or [[Terraform]] as a couple of examples, and build your infrastructure in a code viewer.
 >
 > **[0:31](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/securing-infrastructure-as-code-in-the-pipeline?u=76281980&t=31)** It's as simple as that.
 >
@@ -1085,7 +1073,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/securing-infrastructure-as-code-in-the-pipeline?u=76281980&t=148)** You don't want it to deploy any critical or high vulnerabilities to higher environments.
 >
-> **[2:32](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/securing-infrastructure-as-code-in-the-pipeline?u=76281980&t=152)** And as part of a good shift left strategy, we talked a lot about that in DevSecOps, securing it early on.
+> **[2:32](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/securing-infrastructure-as-code-in-the-pipeline?u=76281980&t=152)** And as part of a good shift left strategy, we talked a lot about that in [[DevSecOps]], securing it early on.
 >
 > **[2:40](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/securing-infrastructure-as-code-in-the-pipeline?u=76281980&t=160)** You should do the scanning right next to your static scanning and your secret scanning and all of that.
 >
@@ -1095,7 +1083,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/securing-infrastructure-as-code-in-the-pipeline?u=76281980&t=170)** So you have a developer or a DevOps engineer that builds the infrastructure as code, and they'll check it into the source code repo.
 >
-> **[2:57](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/securing-infrastructure-as-code-in-the-pipeline?u=76281980&t=177)** And then from there, when the build is triggered, your job management server, like Jenkins or CircleCI, will send it to the infrastructure as code scanner.
+> **[2:57](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/securing-infrastructure-as-code-in-the-pipeline?u=76281980&t=177)** And then from there, when the build is triggered, your job management server, like [[Jenkins]] or CircleCI, will send it to the infrastructure as code scanner.
 >
 > **[3:05](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/securing-infrastructure-as-code-in-the-pipeline?u=76281980&t=185)** Before it's deployed, any bugs that were found will go to the bug tracking tool and back to the developer.
 >
@@ -1103,7 +1091,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (8), [[DevOps]] (5), [[Terraform]] (1), aws (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (8), [[DevOps]] (5), [[Terraform]] (1), [[DevSecOps]] (1), [[Jenkins]] (1)
 > **CLI Commands:** terraform (1), aws (1), make (1)
 > **Exercise Files:** source code (3)
 > **Definitions:** stands for (1), is an  (1), is a  (1)
@@ -1112,12 +1100,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 
-#### Security as code
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-as-code?u=76281980)
+#### [Security as code](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-as-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-as-code?u=76281980&t=0)** - [Instructor] Going along with the previous chapter on infrastructure's code, when you think about it, anything that you do in DevOps should be code.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-as-code?u=76281980&t=0)** - [Instructor] Going along with the previous chapter on infrastructure's code, when you think about it, anything that you do in [[DevOps]] should be code.
 >
 > **[0:07](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-as-code?u=76281980&t=7)** So let's talk a little bit about security as code.
 >
@@ -1133,7 +1120,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-as-code?u=76281980&t=28)** The more hands on keyboard that you have, the longer that things take.
 >
-> **[0:33](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-as-code?u=76281980&t=33)** So the ultimate goal of the DevSecOps strategy should be to really build security into the pipeline and you do that using automation.
+> **[0:33](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-as-code?u=76281980&t=33)** So the ultimate goal of the [[DevSecOps]] strategy should be to really build security into the pipeline and you do that using automation.
 >
 > **[0:41](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-as-code?u=76281980&t=41)** The definition of security as code is mapping out your code and infrastructure, and finding places to add automated security checks and gates.
 >
@@ -1153,7 +1140,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-as-code?u=76281980&t=81)** And along the same line, any sort of manual steps that you have, you should look to try and put in code.
 >
-> **[1:28](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-as-code?u=76281980&t=88)** I think a good example here is some of the recent work in threat modeling.
+> **[1:28](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-as-code?u=76281980&t=88)** I think a good example here is some of the recent work in [[Threat Modeling]].
 >
 > **[1:31](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/security-as-code?u=76281980&t=91)** There are some automated tools out there now that allow you to have a threat model in code.
 >
@@ -1179,24 +1166,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), [[DevOps]] (2), [[Automation]] (2), api (1), [[DevSecOps]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[DevSecOps]] (1), [[Threat Modeling]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** gui (1), api (1), hipaa (1), sox (1)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Application security in DevSecOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/application-security-in-devsecops?u=76281980)
+#### [Application security in DevSecOps](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/application-security-in-devsecops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/application-security-in-devsecops?u=76281980&t=0)** - [Instructor] We have talked about Security as Code and Infrastructure as Code, but let's talk about application security and how it can work with DevSecOps.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/application-security-in-devsecops?u=76281980&t=0)** - [Instructor] We have talked about Security as Code and [[Infrastructure as code (IaC)|Infrastructure as Code]], but let's talk about [[Application Security]] and how it can work with [[DevSecOps]].
 >
 > **[0:08](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/application-security-in-devsecops?u=76281980&t=8)** There is no one-size-fits-all for testing.
 >
 > **[0:10](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/application-security-in-devsecops?u=76281980&t=10)** So let's talk a little bit about the AppSec process.
 >
-> **[0:13](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/application-security-in-devsecops?u=76281980&t=13)** To start, let's look at how old school application security works and compare it to how it works in the DevOps world.
+> **[0:13](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/application-security-in-devsecops?u=76281980&t=13)** To start, let's look at how old school application security works and compare it to how it works in the [[DevOps]] world.
 >
 > **[0:21](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/application-security-in-devsecops?u=76281980&t=21)** Normally, security is thought of as a separate team just like traditionally infrastructure and testing were separate teams.
 >
@@ -1208,11 +1194,11 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/application-security-in-devsecops?u=76281980&t=41)** However it's done, it's a manual process.
 >
-> **[0:43](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/application-security-in-devsecops?u=76281980&t=43)** To go with the manual process, the old AppSec process typically involves sending documents like PDFs and Excel files for results.
+> **[0:43](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/application-security-in-devsecops?u=76281980&t=43)** To go with the manual process, the old AppSec process typically involves sending documents like PDFs and [[Microsoft Excel|Excel]] files for results.
 >
 > **[0:51](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/application-security-in-devsecops?u=76281980&t=51)** Pages and pages of results for developers to read through.
 >
-> **[0:55](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/application-security-in-devsecops?u=76281980&t=55)** Not only did it not promote an agile method of working, it frustrated many developers with the time needed to sort through all the results.
+> **[0:55](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/application-security-in-devsecops?u=76281980&t=55)** Not only did it not promote an [[Agile Development|agile]] method of working, it frustrated many developers with the time needed to sort through all the results.
 >
 > **[1:04](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/application-security-in-devsecops?u=76281980&t=64)** You can see how the old waterfall type process works here.
 >
@@ -1246,7 +1232,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/application-security-in-devsecops?u=76281980&t=123)** We need to take the DevOps principles and apply them to AppSec.
 >
-> **[2:06](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/application-security-in-devsecops?u=76281980&t=126)** The key is to make them automated, join them along with the application build process and then provide the results to the DevOps teams and their chat ops of choice, like JIRA or Slack.
+> **[2:06](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/application-security-in-devsecops?u=76281980&t=126)** The key is to make them automated, join them along with the application build process and then provide the results to the DevOps teams and their chat ops of choice, like [[Jira]] or [[Slack]].
 >
 > **[2:16](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/application-security-in-devsecops?u=76281980&t=136)** It doesn't really matter.
 >
@@ -1270,7 +1256,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (16), [[DevOps]] (6), application (5), teams (5), [[DevSecOps]] (4)
+> **Frameworks & Libraries:** [[DevOps]] (6), [[Application Security]] (4), [[DevSecOps]] (4), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** pdf (1), jira (1)
 > **Tools:** jira (1), slack (1)
 > **Best Practices:** the key is (2)
@@ -1279,8 +1265,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Prerequisites:** set up (1)
 
-#### Leverage your existing processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/leverage-your-existing-processes?u=76281980)
+#### [Leverage your existing processes](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/leverage-your-existing-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1290,7 +1275,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/leverage-your-existing-processes?u=76281980&t=15)** Don't try and start with the most complicated application.
 >
-> **[0:18](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/leverage-your-existing-processes?u=76281980&t=18)** When I first started rolling out DevSecOps at different teams, we didn't do a great job of choosing the right applications.
+> **[0:18](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/leverage-your-existing-processes?u=76281980&t=18)** When I first started rolling out [[DevSecOps]] at different teams, we didn't do a great job of choosing the right applications.
 >
 > **[0:25](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/leverage-your-existing-processes?u=76281980&t=25)** We chose teams that maybe didn't have a strong CI/CD process in place.
 >
@@ -1304,7 +1289,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/leverage-your-existing-processes?u=76281980&t=51)** And start with a standard language.
 >
-> **[0:54](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/leverage-your-existing-processes?u=76281980&t=54)** Starting with something that's a little bit easier, like Java or .NET, maybe not some of the newer technologies that don't have great security testing tools out there yet.
+> **[0:54](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/leverage-your-existing-processes?u=76281980&t=54)** Starting with something that's a little bit easier, like [[Java]] or .NET, maybe not some of the newer technologies that don't have great [[Security Testing]] tools out there yet.
 >
 > **[1:02](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/leverage-your-existing-processes?u=76281980&t=62)** And remember, the tool set doesn't have to be right the first time.
 >
@@ -1336,7 +1321,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/leverage-your-existing-processes?u=76281980&t=145)** This is an example of a process that a CI/CD team might use.
 >
-> **[2:30](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/leverage-your-existing-processes?u=76281980&t=150)** They may store their code in Bitbucket, or use Jira for task tracking, or Jenkins for automation, or use Ansible for configuration management, and so on and so on.
+> **[2:30](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/leverage-your-existing-processes?u=76281980&t=150)** They may store their code in [[Bitbucket]], or use [[Jira]] for task tracking, or [[Jenkins]] for automation, or use [[Ansible]] for [[Configuration Management]], and so on and so on.
 >
 > **[2:40](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/leverage-your-existing-processes?u=76281980&t=160)** You want to make sure that the process works with theirs, and we don't want to force them to use the process that the security team uses.
 >
@@ -1372,7 +1357,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/leverage-your-existing-processes?u=76281980&t=245)** It's really important that the development teams do the testing on their own.
 >
-> **[4:08](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/leverage-your-existing-processes?u=76281980&t=248)** And as we start to look at some of the newer technologies, like interactive application security testing, they really rely on good unit tests to be able to run their suite of security tests.
+> **[4:08](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/leverage-your-existing-processes?u=76281980&t=248)** And as we start to look at some of the newer technologies, like interactive [[Application Security]] testing, they really rely on good unit tests to be able to run their suite of security tests.
 >
 > **[4:19](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/leverage-your-existing-processes?u=76281980&t=259)** There are some security processes that we should have in place when we engage with the DevSecOps teams as well.
 >
@@ -1380,7 +1365,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/leverage-your-existing-processes?u=76281980&t=270)** Something should already be in place so that we can integrate.
 >
-> **[4:33](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/leverage-your-existing-processes?u=76281980&t=273)** Another thing to keep in mind is that if you're doing mobile application development, we should have some sort of mobile application testing in place as well.
+> **[4:33](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/leverage-your-existing-processes?u=76281980&t=273)** Another thing to keep in mind is that if you're doing [[Mobile Application Development]], we should have some sort of mobile application testing in place as well.
 >
 > **[4:40](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/leverage-your-existing-processes?u=76281980&t=280)** And we should have vulnerability scanning in place, like Qualys or Nessus or something along those lines.
 >
@@ -1414,7 +1399,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevSecOps]] (12), teams (11), [[Security]] (10), application (7), [[Jira]] (3)
+> **Frameworks & Libraries:** [[DevSecOps]] (12), [[Security Testing]] (3), [[Jira]] (3), [[Jenkins]] (3), [[Java]] (2)
 > **CLI Commands:** make (7), find (3), cd (2), ansible (1)
 > **Env Vars:** iast (5), net (2), pdf (1), zap (1), tfs (1)
 > **Tools:** jira (3), bitbucket (1)
@@ -1422,14 +1407,13 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Ops in DevSecOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/the-ops-in-devsecops?u=76281980)
+#### [The Ops in DevSecOps](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/the-ops-in-devsecops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/the-ops-in-devsecops?u=76281980&t=0)** - [Instructor] Let's talk about the Ops side of DevOps and how DevSecOps fits in.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/the-ops-in-devsecops?u=76281980&t=0)** - [Instructor] Let's talk about the Ops side of [[DevOps]] and how [[DevSecOps]] fits in.
 >
-> **[0:06](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/the-ops-in-devsecops?u=76281980&t=6)** It's easy to focus on application security because like traditional development teams, network security and application security were handled separately.
+> **[0:06](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/the-ops-in-devsecops?u=76281980&t=6)** It's easy to focus on [[Application Security]] because like traditional development teams, [[Network Security]] and application security were handled separately.
 >
 > **[0:14](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/the-ops-in-devsecops?u=76281980&t=14)** With DevOps, we have to consider security across the whole platform.
 >
@@ -1455,7 +1439,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/the-ops-in-devsecops?u=76281980&t=69)** You can look and make sure that all the systems are patched and when you find non-compliance, automatically notify the development teams.
 >
-> **[1:16](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/the-ops-in-devsecops?u=76281980&t=76)** And the last thing that you could look for is encryption at rest.
+> **[1:16](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/the-ops-in-devsecops?u=76281980&t=76)** And the last thing that you could look for is encryption at [[Representational State Transfer (REST)|rest]].
 >
 > **[1:19](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/the-ops-in-devsecops?u=76281980&t=79)** In the Cloud, everything should be encrypted.
 >
@@ -1477,20 +1461,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Automation]] (6), [[DevSecOps]] (5), cloud (5), [[DevOps]] (4)
+> **Frameworks & Libraries:** [[DevSecOps]] (5), [[DevOps]] (4), [[Application Security]] (2), [[Network Security]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** nesis (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Continuous improvement and feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/continuous-improvement-and-feedback?u=76281980)
+#### [Continuous improvement and feedback](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/continuous-improvement-and-feedback?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/continuous-improvement-and-feedback?u=76281980&t=0)** - [Instructor] To wrap up this section on DevSecOps, I'd like to spend a few minutes talking about one of the fundamental tenants of DevSecOps, continuous improvement and feedback.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/continuous-improvement-and-feedback?u=76281980&t=0)** - [Instructor] To wrap up this section on [[DevSecOps]], I'd like to spend a few minutes talking about one of the fundamental tenants of DevSecOps, continuous improvement and feedback.
 >
-> **[0:10](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/continuous-improvement-and-feedback?u=76281980&t=10)** We've seen this graphic a few videos ago about the DevOps process.
+> **[0:10](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/continuous-improvement-and-feedback?u=76281980&t=10)** We've seen this graphic a few videos ago about the [[DevOps]] process.
 >
 > **[0:15](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/continuous-improvement-and-feedback?u=76281980&t=15)** When you really think about it, DevOps is not a waterfall methodology where you go from beginning to end and then you start planning again for the next release.
 >
@@ -1522,7 +1505,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/continuous-improvement-and-feedback?u=76281980&t=110)** You can see that after each part of the testing, there is feedback to the DevOps developer.
 >
-> **[1:55](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/continuous-improvement-and-feedback?u=76281980&t=115)** After unit testing, feedback happens.
+> **[1:55](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/continuous-improvement-and-feedback?u=76281980&t=115)** After [[Unit Testing]], feedback happens.
 >
 > **[1:57](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/continuous-improvement-and-feedback?u=76281980&t=117)** After the static testing has been completed, the defects are tracked and sent back.
 >
@@ -1532,7 +1515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (7), [[DevSecOps]] (5), next (1), product (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (7), [[DevSecOps]] (5), [[Unit Testing]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is an  (2), is a  (1)
 > **Cross-References:** go back to (1)
@@ -1544,8 +1527,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Open source DevSecOps tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980)
+#### [Open source DevSecOps tools](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1553,9 +1535,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980&t=4)** One of the most common that I use is Find Sec Bugs or Find Security Bugs.
 >
-> **[0:10](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980&t=10)** It's strictly a Java static tool that is used to scan the source code of Java applications but it's pretty robust.
+> **[0:10](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980&t=10)** It's strictly a [[Java]] static tool that is used to scan the source code of Java applications but it's pretty robust.
 >
-> **[0:16](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980&t=16)** It can integrate into your Jenkins environment.
+> **[0:16](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980&t=16)** It can integrate into your [[Jenkins]] environment.
 >
 > **[0:19](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980&t=19)** It has really good OWAP's top 10 coverage and CVE coverage so that you can actually map any of the defects that it finds back to known vulnerabilities.
 >
@@ -1567,21 +1549,21 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980&t=42)** There's no harm to making it run twice in making sure testing is completed.
 >
-> **[0:47](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980&t=47)** Another tool that I like to use a lot is the OWASP Zed Attack Proxy or ZAP.
+> **[0:47](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980&t=47)** Another tool that I like to use a lot is the [[OWASP]] Zed Attack Proxy or ZAP.
 >
 > **[0:52](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980&t=52)** It's an open source dynamic scanner.
 >
 > **[0:54](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980&t=54)** So it's going to spider your site and basically try and hack it.
 >
-> **[0:58](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980&t=58)** It's going to look for any place where you can input data and try to manipulate the forms and hack its way into the application.
+> **[0:58](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980&t=58)** It's going to look for any place where you can input data and try to manipulate the [[Forms]] and hack its way into the application.
 >
 > **[1:05](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980&t=65)** It's been around a long time and so it's very mature and well maintained and it actually works very well for automation, better than some of the commercial tools that I've used.
 >
 > **[1:14](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980&t=74)** It even comes with the Jenkins plugins that you can implement it in your Docker container that you have for your toolkit.
 >
-> **[1:21](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980&t=81)** A third tool is SQLMAP.
+> **[1:21](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980&t=81)** A third tool is [[SQLmap]].
 >
-> **[1:23](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980&t=83)** I use this one a lot when people want proof that their application is susceptible to SQL injection.
+> **[1:23](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980&t=83)** I use this one a lot when people want proof that their application is susceptible to [[SQL]] injection.
 >
 > **[1:28](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980&t=88)** Nothing makes them believe you more than when you hand them a copy of their own database.
 >
@@ -1593,7 +1575,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980&t=108)** It maybe isn't quite as robust, but it does a very good job and I use it often to run routine scans on an external network.
 >
-> **[1:55](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980&t=115)** And finally, Recon-ng is not actually a security tool that you can use to find bugs, but it's more of a recon framework, meaning it's going to go out there and do a Google search or do GitHub searches and look for things you don't know that are exposed.
+> **[1:55](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980&t=115)** And finally, Recon-ng is not actually a security tool that you can use to find bugs, but it's more of a recon framework, meaning it's going to go out there and do a [[Google]] search or do [[GitHub]] searches and look for things you don't know that are exposed.
 >
 > **[2:09](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/open-source-devsecops-tools?u=76281980&t=129)** I use this app a lot to run on our known IP ranges and look for applications that I maybe don't know exist.
 >
@@ -1603,7 +1585,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Java]] (2), [[Jenkins]] (2), [[Automation]] (2), application (2)
+> **Frameworks & Libraries:** [[Java]] (2), [[Jenkins]] (2), [[SQLmap]] (2), [[SQL]] (2), [[GitHub]] (2)
 > **Env Vars:** sqlmap (2), sql (2), owap (1), cve (1), ide (1)
 > **CLI Commands:** find (4), docker (1)
 > **Tools:** github (2)
@@ -1611,8 +1593,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Helpful DevSecOps resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/helpful-devsecops-resources?u=76281980)
+#### [Helpful DevSecOps resources](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/helpful-devsecops-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1620,9 +1601,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/helpful-devsecops-resources?u=76281980&t=8)** These are three of my favorite resources that I go to often and just see the latest updates, or refresh my mind on the concepts.
 >
-> **[0:16](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/helpful-devsecops-resources?u=76281980&t=16)** I think each one offers a little bit of a different perspective on DevSecOps, and can help in different ways.
+> **[0:16](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/helpful-devsecops-resources?u=76281980&t=16)** I think each one offers a little bit of a different perspective on [[DevSecOps]], and can help in different ways.
 >
-> **[0:22](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/helpful-devsecops-resources?u=76281980&t=22)** The DevSecOps Checklist is a list on GitHub that has lots of helpful resources.
+> **[0:22](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/helpful-devsecops-resources?u=76281980&t=22)** The DevSecOps Checklist is a list on [[GitHub]] that has lots of helpful resources.
 >
 > **[0:26](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/helpful-devsecops-resources?u=76281980&t=26)** It has everything from tools to talks.
 >
@@ -1634,7 +1615,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/helpful-devsecops-resources?u=76281980&t=47)** It's a pretty long guide, describing what the standard practice for DevSecOps should be in the US Department of Defense.
 >
-> **[0:53](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/helpful-devsecops-resources?u=76281980&t=53)** There are several diagrams that describe the DevOps flow in different places where security fits into it.
+> **[0:53](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/helpful-devsecops-resources?u=76281980&t=53)** There are several diagrams that describe the [[DevOps]] flow in different places where security fits into it.
 >
 > **[0:59](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/helpful-devsecops-resources?u=76281980&t=59)** There is also a version two that specifically deals with containers and DevOps and how to create a secure container repository.
 >
@@ -1642,7 +1623,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/helpful-devsecops-resources?u=76281980&t=70)** Kind of like the name says, it's an awesome list of DevSecOps information.
 >
-> **[1:15](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/helpful-devsecops-resources?u=76281980&t=75)** It includes everything from trainings, presentations, tools, and dashboards, and so on.
+> **[1:15](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/helpful-devsecops-resources?u=76281980&t=75)** It includes everything from trainings, presentations, tools, and [[Dashboards]], and so on.
 >
 > **[1:20](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/helpful-devsecops-resources?u=76281980&t=80)** It's a great list, and in the spirit of DevOps, it changes as the community finds things work and don't work.
 >
@@ -1652,7 +1633,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevSecOps]] (7), [[DevOps]] (3), [[GitHub]] (1), [[Security]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[DevSecOps]] (7), [[DevOps]] (3), [[GitHub]] (1), [[Dashboards]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
@@ -1660,8 +1641,7 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Real-life example
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/real-life-example?u=76281980)
+#### [Real-life example](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/real-life-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1689,11 +1669,11 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/real-life-example?u=76281980&t=69)** But, we're going to look at grype, which is a vulnerability scanning tool for containers.
 >
-> **[1:14](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/real-life-example?u=76281980&t=74)** If you click on grype to try grype, it's going to take you to its GitHub page.
+> **[1:14](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/real-life-example?u=76281980&t=74)** If you click on grype to try grype, it's going to take you to its [[GitHub]] page.
 >
 > **[1:22](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/real-life-example?u=76281980&t=82)** And, from here, you can follow the instructions on how to do the installation.
 >
-> **[1:28](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/real-life-example?u=76281980&t=88)** I'm going to do the installation with home brew since I'm running a Mac, but if you're running Linux, you can follow the instructions on the GitHub page.
+> **[1:28](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/real-life-example?u=76281980&t=88)** I'm going to do the installation with home brew since I'm running a Mac, but if you're running [[Linux]], you can follow the instructions on the GitHub page.
 >
 > **[1:36](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/real-life-example?u=76281980&t=96)** So, the first thing I'm going to do is type in brew, tap, anchor, forward slash, grype,
 >
@@ -1731,7 +1711,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/real-life-example?u=76281980&t=223)** Their name, CVE, and severity, but it's a little bit hard to read.
 >
-> **[3:48](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/real-life-example?u=76281980&t=228)** So, one of the things that we can do is output it to JSON so that we can see it a little bit better, and we can take that, we could always create a file from it, or export that to our pipeline tool.
+> **[3:48](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/real-life-example?u=76281980&t=228)** So, one of the things that we can do is output it to [[JSON]] so that we can see it a little bit better, and we can take that, we could always create a file from it, or export that to our pipeline tool.
 >
 > **[3:59](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/real-life-example?u=76281980&t=239)** So, in order to do that, we're going to run the same command.
 >
@@ -1767,13 +1747,13 @@ created: 2026-05-02
 >
 > **[5:39](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/real-life-example?u=76281980&t=339)** So, your pipeline tool would take that and be able to fail the build if you wanted it to, based on the criteria sent back.
 >
-> **[5:48](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/real-life-example?u=76281980&t=348)** So, we really won't go into setting up Jenkins in your pipeline, but you can really see how you could take this tool, and integrate it, and be able to control whether your bill passes or fails based on certain thresholds.
+> **[5:48](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/real-life-example?u=76281980&t=348)** So, we really won't go into setting up [[Jenkins]] in your pipeline, but you can really see how you could take this tool, and integrate it, and be able to control whether your bill passes or fails based on certain thresholds.
 >
-> **[5:59](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/real-life-example?u=76281980&t=359)** You can do more with this tool, but this is an example of how you can start building your tool set to integrate into your DevSecOps process.
+> **[5:59](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/real-life-example?u=76281980&t=359)** You can do more with this tool, but this is an example of how you can start building your tool set to integrate into your [[DevSecOps]] process.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[JSON]] (3), next (2), [[GitHub]] (2), database (2)
+> **Frameworks & Libraries:** [[JSON]] (3), [[GitHub]] (2), [[Linux]] (1), [[Jenkins]] (1), [[DevSecOps]] (1)
 > **CLI Commands:** docker (9), brew (3), make (3)
 > **Prerequisites:** install (4), set up (2), prerequisite (1)
 > **Env Vars:** json (3), osp (1), cve (1)
@@ -1787,16 +1767,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Grow and expand
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980)
+#### [Grow and expand](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980&t=0)** - Now that we have talked about how to make the first step into DevSecOps.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980&t=0)** - Now that we have talked about how to make the first step into [[DevSecOps]].
 >
 > **[0:03](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980&t=3)** And we've seen a demo where we create our initial DevSecOps container.
 >
-> **[0:07](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980&t=7)** Let's talk about where we should go next to grow our security involvement with the DevOps teams.
+> **[0:07](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980&t=7)** Let's talk about where we should go next to grow our security involvement with the [[DevOps]] teams.
 >
 > **[0:12](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980&t=12)** There are lots of places where we can take our DevSecOps process.
 >
@@ -1814,13 +1793,13 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980&t=44)** Grow your security containers.
 >
-> **[0:45](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980&t=45)** We started easy with some standard languages, but now expand to multiple languages or give some of the newer languages like Node.js a try.
+> **[0:45](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980&t=45)** We started easy with some standard languages, but now expand to multiple languages or give some of the newer languages like [[Node.js]] a try.
 >
 > **[0:54](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980&t=54)** Increase the number of automated checks that you have in place.
 >
 > **[0:57](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980&t=57)** Automate the auditing of source code with tools like Crucible.
 >
-> **[1:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980&t=60)** And automate the review of cloud security checks for things like bad NACL policy in the cloud.
+> **[1:00](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980&t=60)** And automate the review of [[Cloud Security]] checks for things like bad NACL policy in the cloud.
 >
 > **[1:05](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980&t=65)** And as the automation checks grow and mature, don't be afraid to automate the failing of builds.
 >
@@ -1828,13 +1807,13 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980&t=78)** We talk a little about integration of ChatOps in an earlier video, but this is a next great step that developers love.
 >
-> **[1:25](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980&t=85)** Work to integrate your DevSecOps tools into Slack or HipChat.
+> **[1:25](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980&t=85)** Work to integrate your DevSecOps tools into [[Slack]] or HipChat.
 >
 > **[1:29](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980&t=89)** Strong CICD teams have channels set up where they push their unit test results.
 >
 > **[1:34](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980&t=94)** Use these same channels to send security vulnerabilities.
 >
-> **[1:38](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980&t=98)** For continuous monitoring, use a tool like Contrast RASP to watch real time for threats against your application.
+> **[1:38](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980&t=98)** For [[Continuous Monitoring]], use a tool like Contrast RASP to watch real time for threats against your application.
 >
 > **[1:44](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980&t=104)** Recon-ng can also be used as a monitoring tool to look for source code on public repositories or websites that have been deployed without security approval.
 >
@@ -1846,7 +1825,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980&t=126)** These are manual test cases that many times get forgotten about when we talk about automation.
 >
-> **[2:11](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980&t=131)** Work with the development teams to create the scripts to be included in the automated security testing.
+> **[2:11](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980&t=131)** Work with the development teams to create the scripts to be included in the automated [[Security Testing]].
 >
 > **[2:17](https://www.linkedin.com/learning/devops-foundations-devsecops-2022/grow-and-expand?u=76281980&t=137)** These are just a few ideas of where to go next with DevSecOps.
 >
@@ -1860,7 +1839,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), [[DevSecOps]] (6), teams (6), next (3), [[DevOps]] (2)
+> **Frameworks & Libraries:** [[DevSecOps]] (6), [[DevOps]] (2), [[Node.js]] (1), [[Cloud Security]] (1), [[Slack]] (1)
 > **CLI Commands:** make (1), node (1), find (1)
 > **Env Vars:** nacl (1), cicd (1), rasp (1)
 > **Exercise Files:** source code (2)

@@ -88,14 +88,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Install and configure Active Directory
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/install-and-configure-active-directory?u=76281980)
+#### [Install and configure Active Directory](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/install-and-configure-active-directory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/install-and-configure-active-directory?u=76281980&t=0)** - [Ed] Active Directory has been a major part of Windows Server operating systems since Windows 2000 Server and continues to be used today.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/install-and-configure-active-directory?u=76281980&t=0)** - [Ed] [[Active Directory]] has been a major part of [[Windows Server]] operating systems since [[Windows]] 2000 Server and continues to be used today.
 >
-> **[0:09](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/install-and-configure-active-directory?u=76281980&t=9)** To be a successful network administrator who manages a Microsoft network environment, it is crucial to have a solid understanding of identity management.
+> **[0:09](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/install-and-configure-active-directory?u=76281980&t=9)** To be a successful network administrator who manages a [[Microsoft]] network environment, it is crucial to have a solid understanding of identity management.
 >
 > **[0:18](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/install-and-configure-active-directory?u=76281980&t=18)** Now, how do you get that?
 >
@@ -117,25 +116,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (6), [[Microsoft]] (2), [[Windows Server]] (1), [[Windows]] (1), management (1)
+> **Frameworks & Libraries:** [[Active Directory]] (6), [[Microsoft]] (2), [[Windows Server]] (1), [[Windows]] (1)
 > **Speakers:** - [ed] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/what-you-should-know?u=76281980&t=0)** - [Instructor] In order to get through this course, I do not have any specific mandatory prerequisites that you must have.
 >
-> **[0:07](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/what-you-should-know?u=76281980&t=7)** I will say that it will be helpful if you already have some level of experience in knowing how to navigate your way through Windows Server 2022.
+> **[0:07](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/what-you-should-know?u=76281980&t=7)** I will say that it will be helpful if you already have some level of experience in knowing how to navigate your way through [[Windows Server]] 2022.
 >
 > **[0:16](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/what-you-should-know?u=76281980&t=16)** In fact, I would say, even if you have experience with Windows Server 2019 or Windows Server 2016, that would be fine as well.
 >
-> **[0:24](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/what-you-should-know?u=76281980&t=24)** And that's just a matter of being able to navigate through it, so I can discuss the Active Directory side of things with you.
+> **[0:24](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/what-you-should-know?u=76281980&t=24)** And that's just a matter of being able to navigate through it, so I can discuss the [[Active Directory]] side of things with you.
 >
 > **[0:33](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/what-you-should-know?u=76281980&t=33)** Now, as I go through and perform the different demonstrations, I want you to know what my setup is here.
 >
-> **[0:40](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/what-you-should-know?u=76281980&t=40)** Now, you can see on the screen that I have actually a whole bunch of virtual machines, and I want you to ignore most of them.
+> **[0:40](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/what-you-should-know?u=76281980&t=40)** Now, you can see on the screen that I have actually a whole bunch of [[Virtual Machines]], and I want you to ignore most of them.
 >
 > **[0:47](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/what-you-should-know?u=76281980&t=47)** I just want you to focus on the three that I have that say that they're running, which are DC1, DC2, and DC3, okay?
 >
@@ -172,18 +170,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing Active Directory Domain Services
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-active-directory-domain-services?u=76281980)
+#### [Installing Active Directory Domain Services](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-active-directory-domain-services?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-active-directory-domain-services?u=76281980&t=0)** - [Instructor] The process of turning a server into a domain controller is really a two step process.
 >
-> **[0:08](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-active-directory-domain-services?u=76281980&t=8)** So here, I want to show you the first of these two steps and that would be to install the actual active directory domain services role.
+> **[0:08](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-active-directory-domain-services?u=76281980&t=8)** So here, I want to show you the first of these two steps and that would be to install the actual [[Active Directory]] domain services role.
 >
 > **[0:19](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-active-directory-domain-services?u=76281980&t=19)** So here I will tell you, I am on virtual machine.
 >
-> **[0:23](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-active-directory-domain-services?u=76281980&t=23)** I have called DC-1, and it is nothing more than a newly installed copy of windows server 2022.
+> **[0:23](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-active-directory-domain-services?u=76281980&t=23)** I have called DC-1, and it is nothing more than a newly installed copy of [[Windows Server]] 2022.
 >
 > **[0:33](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-active-directory-domain-services?u=76281980&t=33)** And other than some basic configuration like assigning the computer name and IP address and things like that, nothing else has been done to it.
 >
@@ -249,7 +246,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-active-directory-domain-services?u=76281980&t=212)** Here's some information about what active directory domain services is.
 >
-> **[3:35](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-active-directory-domain-services?u=76281980&t=215)** You'll notice there's even a little bit of an ad here for Azure active directory which is an online directory services.
+> **[3:35](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-active-directory-domain-services?u=76281980&t=215)** You'll notice there's even a little bit of an ad here for [[Microsoft Entra ID|Azure active directory]] which is an online directory services.
 >
 > **[3:42](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-active-directory-domain-services?u=76281980&t=222)** So there's information that you can get right here.
 >
@@ -303,7 +300,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), [[Active Directory]] (5), [[Windows Server]] (1), [[Security]] (1), feature (1)
+> **Frameworks & Libraries:** [[Active Directory]] (5), [[Windows Server]] (1), [[Microsoft Entra ID|Azure active directory]] (1)
 > **Prerequisites:** install (10), before you begin (1)
 > **UI Navigation:** click on (5)
 > **Definitions:** is a  (3), is an  (1)
@@ -312,12 +309,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Warnings:** warning (1)
 
-#### Installing a forest root domain controller
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980)
+#### [Installing a forest root domain controller](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=0)** - [Instructor] So the second step involved with the full installation of Active Directory Domain Services and bringing a server to becoming a domain controller would be to actually promote the server to being a domain controller.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=0)** - [Instructor] So the second step involved with the full installation of [[Active Directory]] Domain Services and bringing a server to becoming a domain controller would be to actually promote the server to being a domain controller.
 >
 > **[0:15](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=15)** Right? So here on DC-1, I have just completed the installation of the Active Directory Domain Services role, okay?
 >
@@ -389,7 +385,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=158)** So we have our forest functional level on our domain functional level.
 >
-> **[2:41](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=161)** And I will tell you that the idea of the functional level was pretty much discontinued with Windows server 2016 which is why you'll see that that's the option that is there by default.
+> **[2:41](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=161)** And I will tell you that the idea of the functional level was pretty much discontinued with [[Windows Server]] 2016 which is why you'll see that that's the option that is there by default.
 >
 > **[2:54](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=174)** If I click the dropdown, we see that we can do a functional level going all the way back to Windows server 2008, which was really when they first came up with functional levels or I guess technically I think it was with R2 is where they came up with functional levels.
 >
@@ -497,17 +493,17 @@ created: 2026-05-02
 >
 > **[7:18](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=438)** Okay? So you can read through that.
 >
-> **[7:19](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=439)** You can actually do this button here that says view script and that's if you wanted to export this process into a Windows Power Shell script to go ahead and automate it for other installations.
+> **[7:19](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=439)** You can actually do this button here that says view script and that's if you wanted to export this process into a [[Windows]] Power Shell script to go ahead and automate it for other installations.
 >
 > **[7:31](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=451)** But in this case, all we're going to do is click on next.
 >
 > **[7:34](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=454)** And now it's going to go through a prerequisite check.
 >
-> **[7:37](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=457)** It's going to make sure that this machine has everything it needs in order to install the rest of Active Directory Domain Services and become a domain controller.
+> **[7:37](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=457)** It's going to make sure that this machine has everything it needs in order to install the [[Representational State Transfer (REST)|rest]] of Active Directory Domain Services and become a domain controller.
 >
 > **[7:46](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=466)** Now this might look alarming because we suddenly got all these warnings that came up, right?
 >
-> **[7:51](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=471)** We got this warning about it having a default security setting for allow cryptography algorithms compatible with NT4.
+> **[7:51](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=471)** We got this warning about it having a default security setting for allow [[Cryptography]] [[Algorithms]] compatible with NT4.
 >
 > **[7:57](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-a-forest-root-domain-controller?u=76281980&t=477)** There's our warning for delegation for DNS but you'll will notice that under those two warnings, it says prerequisite check complete and all prerequisite checks pass successfully.
 >
@@ -571,7 +567,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (13), dns (10), functional (9), next (6), [[Windows Server]] (5)
+> **Frameworks & Libraries:** [[Active Directory]] (13), [[Windows Server]] (5), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Cryptography]] (1)
 > **Env Vars:** dns (10), cis (1), nt4 (1)
 > **Prerequisites:** install (4), prerequisite (3), set up (2)
 > **CLI Commands:** make (5), find (2)
@@ -580,8 +576,7 @@ created: 2026-05-02
 > **Warnings:** warning (4)
 > **Speakers:** - [instructor] (1)
 
-#### Installing additional domain controllers
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-additional-domain-controllers?u=76281980)
+#### [Installing additional domain controllers](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-additional-domain-controllers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -603,7 +598,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-additional-domain-controllers?u=76281980&t=57)** You can see that here where I'm already in the Add Roles and Features Wizard and you can see the destination server, DC-2, that's what we're on.
 >
-> **[1:05](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-additional-domain-controllers?u=76281980&t=65)** I just completed the process of installing Active Directory Domain Services.
+> **[1:05](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-additional-domain-controllers?u=76281980&t=65)** I just completed the process of installing [[Active Directory]] Domain Services.
 >
 > **[1:12](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-additional-domain-controllers?u=76281980&t=72)** Okay, I just installed that role and we're at the point where we're ready to promote this server to a domain controller.
 >
@@ -717,7 +712,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (9), next (7), [[Active Directory]] (5), database (2), business (1)
+> **Frameworks & Libraries:** [[Active Directory]] (5)
 > **Env Vars:** dns (9), dsrm (1), sysvol (1)
 > **Prerequisites:** install (5), you need to have (1), configure (1)
 > **CLI Commands:** make (5)
@@ -726,18 +721,17 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Analogies:** just like (1)
 
-#### Installing read-only domain controllers
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-read-only-domain-controllers?u=76281980)
+#### [Installing read-only domain controllers](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-read-only-domain-controllers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-read-only-domain-controllers?u=76281980&t=0)** - [Instructor] There are situations that you may find yourself in to where you may have a remote office in your organization that has enough users that makes it worth justifying have a domain controller locally in that office so that they can log in quickly and easily, but you don't have any IT or security staff out in that remote office which would help keep that domain controller secure, which is something of importance, so you don't want that machine to be compromised 'cause a lot of damage can be done to your environment if somebody gains access to a domain controller.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-read-only-domain-controllers?u=76281980&t=0)** - [Instructor] There are situations that you may find yourself in to where you may have a remote [[Microsoft Office|office]] in your organization that has enough users that makes it worth justifying have a domain controller locally in that office so that they can log in quickly and easily, but you don't have any IT or security staff out in that remote office which would help keep that domain controller secure, which is something of importance, so you don't want that machine to be compromised 'cause a lot of damage can be done to your environment if somebody gains access to a domain controller.
 >
-> **[0:35](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-read-only-domain-controllers?u=76281980&t=35)** So, the solution that Microsoft gives us is something called a read-only domain controller, which is a domain controller which can provide full services to the users in that remote office, but no configuration changes can be made, all right?
+> **[0:35](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-read-only-domain-controllers?u=76281980&t=35)** So, the solution that [[Microsoft]] gives us is something called a read-only domain controller, which is a domain controller which can provide full services to the users in that remote office, but no configuration changes can be made, all right?
 >
 > **[0:53](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-read-only-domain-controllers?u=76281980&t=53)** So, what I'm going to do is show you the process of creating a read-only domain controller.
 >
-> **[0:57](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-read-only-domain-controllers?u=76281980&t=57)** Now, I will tell you that the process is pretty straightforward, especially if you were watching the previous two videos on installing the other domain controllers because the process is going to be very similar in the sense that we're going to go ahead and first install the Active Directory Domain Services role, which I've already done here on DC Three, okay, and you'll see here that it's just sitting here waiting for me to go ahead and promote this server to being a domain controller, so let's do that now.
+> **[0:57](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-read-only-domain-controllers?u=76281980&t=57)** Now, I will tell you that the process is pretty straightforward, especially if you were watching the previous two videos on installing the other domain controllers because the process is going to be very similar in the sense that we're going to go ahead and first install the [[Active Directory]] Domain Services role, which I've already done here on DC Three, okay, and you'll see here that it's just sitting here waiting for me to go ahead and promote this server to being a domain controller, so let's do that now.
 >
 > **[1:24](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/installing-read-only-domain-controllers?u=76281980&t=84)** We are going to make this an additional domain controller in an existing domain.
 >
@@ -801,7 +795,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (9), next (8), dns (4), [[Security]] (2), [[Active Directory]] (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (9), [[Active Directory]] (2), [[Microsoft]] (1)
 > **CLI Commands:** make (6), find (5)
 > **Env Vars:** dns (4), rodc (3), dsrm (1)
 > **Prerequisites:** install (4), set up (2), prerequisite (2)
@@ -815,12 +809,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing AD DS with Active Directory Administrative Center
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980)
+#### [Managing AD DS with Active Directory Administrative Center](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=0)** - Managing the active directory domain services environment is one of the most common tasks that many IT professionals will perform.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=0)** - Managing the [[Active Directory]] domain services environment is one of the most common tasks that many IT professionals will perform.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=9)** So understanding what administration tools are available is really important.
 >
@@ -836,9 +829,9 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=50)** So I'll click on that and it opens into our active directory administrative center tool.
 >
-> **[0:58](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=58)** Now the very first thing I want to mention about this tool is that it is a little bit different than pretty much most of the rest of the tools that I will show you.
+> **[0:58](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=58)** Now the very first thing I want to mention about this tool is that it is a little bit different than pretty much most of the [[Representational State Transfer (REST)|rest]] of the tools that I will show you.
 >
-> **[1:07](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=67)** And the reason is because it's a newer tool and it was designed and built off of Windows powershell.
+> **[1:07](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=67)** And the reason is because it's a newer tool and it was designed and built off of [[Windows]] [[Powershell]].
 >
 > **[1:15](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=75)** What it's really doing is, is performing the functionality with Windows powershell so that you have that equal administrative functionality whether you're doing it through a script or whether you're doing it through this tool.
 >
@@ -860,7 +853,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=147)** But another thing that you can do is you can do things like create fine grained password policies or do things like enable the active directory recycle bin.
 >
-> **[2:36](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=156)** Now these are things that in the past if you go all the way back before windows server, 2016 you know, you go all the way back to like server 2008 or before that those are things that you could only do through a command line based tool.
+> **[2:36](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=156)** Now these are things that in the past if you go all the way back before [[Windows Server]], 2016 you know, you go all the way back to like server 2008 or before that those are things that you could only do through a command line based tool.
 >
 > **[2:49](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-administrative-center?u=76281980&t=169)** Okay, and was a lot more difficult than this graphical tool that we have here.
 >
@@ -912,12 +905,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - managing (1)
 
-#### Managing AD DS with Active Directory Users and Computers
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-users-and-computers?u=76281980)
+#### [Managing AD DS with Active Directory Users and Computers](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-users-and-computers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-users-and-computers?u=76281980&t=0)** - [Narrator] All right, so the next tool that I'd like to show you is something called Active Directory Users and Computers.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-users-and-computers?u=76281980&t=0)** - [Narrator] All right, so the next tool that I'd like to show you is something called [[Active Directory]] Users and Computers.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-users-and-computers?u=76281980&t=6)** So here, we're in the server manager on DC1, I'm going to go up to the Tools menu.
 >
@@ -929,9 +921,9 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-users-and-computers?u=76281980&t=23)** First of all, you'll notice it looks very different than the Active Directory Administrative Center that we just looked at in the last video.
 >
-> **[0:31](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-users-and-computers?u=76281980&t=31)** The reason is because I had mentioned that that tool was built on PowerShell.
+> **[0:31](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-users-and-computers?u=76281980&t=31)** The reason is because I had mentioned that that tool was built on [[Powershell]].
 >
-> **[0:36](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-users-and-computers?u=76281980&t=36)** Well, this tool was actually built long before Windows PowerShell, and believe it or not, even though it is probably the most commonly used tool out there, it's also the older and more limited tool than what we have with the Active Directory Administrative Center.
+> **[0:36](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-users-and-computers?u=76281980&t=36)** Well, this tool was actually built long before [[Windows]] PowerShell, and believe it or not, even though it is probably the most commonly used tool out there, it's also the older and more limited tool than what we have with the Active Directory Administrative Center.
 >
 > **[0:56](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-with-active-directory-users-and-computers?u=76281980&t=56)** The two tools can be used for pretty much all the same functions.
 >
@@ -1007,7 +999,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (10), [[Windows]] (6), [[Powershell]] (2), next (1)
+> **Frameworks & Libraries:** [[Active Directory]] (10), [[Windows]] (6), [[Powershell]] (2)
 > **UI Navigation:** click on (4), go to (3), scroll down (1)
 > **CLI Commands:** find (2), make (1)
 > **Tools:** powershell (2)
@@ -1016,12 +1008,11 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 
-#### Active Directory Domains and Trusts overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-domains-and-trusts-overview?u=76281980)
+#### [Active Directory Domains and Trusts overview](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-domains-and-trusts-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-domains-and-trusts-overview?u=76281980&t=0)** - The next tool I'd like to show you is called Active Directory Domains and Trusts.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-domains-and-trusts-overview?u=76281980&t=0)** - The next tool I'd like to show you is called [[Active Directory]] Domains and Trusts.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-domains-and-trusts-overview?u=76281980&t=5)** So here again in the server manager on DC-1 I'm going to go up to the tools menu.
 >
@@ -1075,7 +1066,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-domains-and-trusts-overview?u=76281980&t=166)** Okay? And if we had selected an older functional level, right?
 >
-> **[2:50](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-domains-and-trusts-overview?u=76281980&t=170)** We left it at the default, which was windows server, 2016.
+> **[2:50](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-domains-and-trusts-overview?u=76281980&t=170)** We left it at the default, which was [[Windows Server]], 2016.
 >
 > **[2:53](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-domains-and-trusts-overview?u=76281980&t=173)** That's as high as we could go.
 >
@@ -1087,18 +1078,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (7), [[Active Directory]] (5), next (1), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (5), [[Windows Server]] (1)
 > **UI Navigation:** click on (4), go to (3)
 > **Prerequisites:** configure (4), set up (1)
 > **Definitions:** is called (1)
 > **Speakers:** - the (1)
 
-#### Active Directory Sites and Services overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-sites-and-services-overview?u=76281980)
+#### [Active Directory Sites and Services overview](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-sites-and-services-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-sites-and-services-overview?u=76281980&t=0)** - The next tool I'd like to show you is called active directory sites and services.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-sites-and-services-overview?u=76281980&t=0)** - The next tool I'd like to show you is called [[Active Directory]] sites and services.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-sites-and-services-overview?u=76281980&t=5)** So back here in our server manager on DC-1, I'm going to go ahead and click on the tools menu and you'll see the fourth option here is Active Directory Sites and Services.
 >
@@ -1192,7 +1182,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-sites-and-services-overview?u=76281980&t=232)** We also have another thing here called Inter Site Transports.
 >
-> **[3:56](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-sites-and-services-overview?u=76281980&t=236)** You have two options, IP and SMTP, not going to go into the detail of what they mean other than to tell you that those are two different forms of communication that could be used to allow for replication to be configured between the different sites.
+> **[3:56](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-sites-and-services-overview?u=76281980&t=236)** You have two options, IP and SMTP, not going to go into the detail of what they mean other than to tell you that those are two different [[Forms]] of communication that could be used to allow for replication to be configured between the different sites.
 >
 > **[4:14](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-sites-and-services-overview?u=76281980&t=254)** So I know that was a lot.
 >
@@ -1200,7 +1190,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (3), next (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (3), [[Forms]] (1)
 > **UI Navigation:** click on (5)
 > **Definitions:** is a  (2), is called (1)
 > **Warnings:** keep in mind (1), warning (1)
@@ -1208,14 +1198,13 @@ created: 2026-05-02
 > **Env Vars:** smtp (1)
 > **Speakers:** - the (1)
 
-#### Active Directory schema overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-schema-overview?u=76281980)
+#### [Active Directory schema overview](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-schema-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-schema-overview?u=76281980&t=0)** - The next tool I want to show you is an interesting one.
 >
-> **[0:03](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-schema-overview?u=76281980&t=3)** It's called the Active Directory Schema and the way we access it is not going to be the way we access all of the other tools.
+> **[0:03](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-schema-overview?u=76281980&t=3)** It's called the [[Active Directory]] Schema and the way we access it is not going to be the way we access all of the other tools.
 >
 > **[0:12](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-schema-overview?u=76281980&t=12)** And there's actually a good reason for that.
 >
@@ -1311,7 +1300,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-schema-overview?u=76281980&t=203)** Okay. It's not there.
 >
-> **[3:25](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-schema-overview?u=76281980&t=205)** That's why we still have to go back to our custom MMC our custom Microsoft Management Console to add the Active Directory Schema.
+> **[3:25](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-schema-overview?u=76281980&t=205)** That's why we still have to go back to our custom MMC our custom [[Microsoft]] Management Console to add the Active Directory Schema.
 >
 > **[3:33](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-schema-overview?u=76281980&t=213)** So I'm going to go ahead and add that in, click "OK".
 >
@@ -1339,7 +1328,7 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-schema-overview?u=76281980&t=320)** Right, and I could save this in a specific location.
 >
-> **[5:24](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-schema-overview?u=76281980&t=324)** Right? So here's like Windows Administrative Tools and you'll see the, the hierarchy of where that is.
+> **[5:24](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-schema-overview?u=76281980&t=324)** Right? So here's like [[Windows]] Administrative Tools and you'll see the, the hierarchy of where that is.
 >
 > **[5:30](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/active-directory-schema-overview?u=76281980&t=330)** Okay. It's showing you it's in our Windows Administrative Tools.
 >
@@ -1355,7 +1344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (19), management (3), prompt (2), hit (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Active Directory]] (19), [[Windows]] (2), [[Microsoft]] (1)
 > **Env Vars:** mmc (6), dc1 (1), cmd (1), dll (1)
 > **CLI Commands:** snap (3), find (2)
 > **UI Navigation:** go to (2), click on (1)
@@ -1364,16 +1353,15 @@ created: 2026-05-02
 > **Tools:** command prompt (2)
 > **Versions:** 99.999 (1)
 
-#### Managing AD DS from the command line
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-from-the-command-line?u=76281980)
+#### [Managing AD DS from the command line](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-from-the-command-line?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-from-the-command-line?u=76281980&t=0)** - Besides all the different graphical tools that we have looked at that are available for managing active directory, we also have a couple of command line based tools that we have as an option.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-from-the-command-line?u=76281980&t=0)** - Besides all the different graphical tools that we have looked at that are available for managing [[Active Directory]], we also have a couple of command line based tools that we have as an option.
 >
 > **[0:15](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-from-the-command-line?u=76281980&t=15)** Now, first of all, here on DC1 in the server manager if I go up to the tools menu you'll notice that there is an active directory.
 >
-> **[0:23](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-from-the-command-line?u=76281980&t=23)** It's the third item here, active directory module for Windows PowerShell.
+> **[0:23](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-from-the-command-line?u=76281980&t=23)** It's the third item here, active directory module for [[Windows]] [[Powershell]].
 >
 > **[0:27](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-ad-ds-from-the-command-line?u=76281980&t=27)** All right.
 >
@@ -1457,7 +1445,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (7), prompt (5), [[Active Directory]] (4), [[Windows]] (3), hit (1)
+> **Frameworks & Libraries:** [[Powershell]] (7), [[Active Directory]] (4), [[Windows]] (3)
 > **Tools:** powershell (7), command line (6), command prompt (4)
 > **Env Vars:** dsrm (2), dc1 (1), cmd (1)
 > **UI Navigation:** click on (3)
@@ -1469,12 +1457,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### FSMO overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/fsmo-overview?u=76281980)
+#### [FSMO overview](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/fsmo-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/fsmo-overview?u=76281980&t=0)** - [Instructor] When working with active directory domain controllers in Windows Server 2022, you need to understand that, for the most part, just about all the domain controllers are created equal or they all have full functionality.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/fsmo-overview?u=76281980&t=0)** - [Instructor] When working with [[Active Directory]] domain controllers in [[Windows Server]] 2022, you need to understand that, for the most part, just about all the domain controllers are created equal or they all have full functionality.
 >
 > **[0:13](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/fsmo-overview?u=76281980&t=13)** Now, there is an exception to this.
 >
@@ -1484,11 +1471,11 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/fsmo-overview?u=76281980&t=19)** So that is a domain controller that does not have full functionality.
 >
-> **[0:22](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/fsmo-overview?u=76281980&t=22)** But the rest of them are full functionality domain controllers.
+> **[0:22](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/fsmo-overview?u=76281980&t=22)** But the [[Representational State Transfer (REST)|rest]] of them are full functionality domain controllers.
 >
 > **[0:25](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/fsmo-overview?u=76281980&t=25)** And the reason why is because we work in what's called a multi-master replication topology.
 >
-> **[0:31](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/fsmo-overview?u=76281980&t=31)** Now, back in the old days, and when I say the old days, I'm talking going all the way back, like to Windows NT, back in the 1990s, we used to have what was called a primary domain controller and a backup domain controller or we'd have one primary domain controller and then a series of backup domain controllers.
+> **[0:31](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/fsmo-overview?u=76281980&t=31)** Now, back in the old days, and when I say the old days, I'm talking going all the way back, like to [[Windows]] NT, back in the 1990s, we used to have what was called a primary domain controller and a backup domain controller or we'd have one primary domain controller and then a series of backup domain controllers.
 >
 > **[0:47](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/fsmo-overview?u=76281980&t=47)** That was not multi-master.
 >
@@ -1626,7 +1613,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (10), [[Windows]] (5), [[Windows Server]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Active Directory]] (10), [[Windows]] (5), [[Windows Server]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dc1 (9), rid (8), pdc (5), fsmo (4), mmc (2)
 > **UI Navigation:** go to (7), click on (5)
 > **Definitions:** is a  (3), stands for (2), is an  (1)
@@ -1635,8 +1622,7 @@ created: 2026-05-02
 > **Tools:** command prompt (1)
 > **Prerequisites:** you need to have (1)
 
-#### Transferring a FSMO role
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/transferring-a-fsmo-role?u=76281980)
+#### [Transferring a FSMO role](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/transferring-a-fsmo-role?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1660,7 +1646,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/transferring-a-fsmo-role?u=76281980&t=67)** So I'm going to go up to the tools menu here in the server manager.
 >
-> **[1:10](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/transferring-a-fsmo-role?u=76281980&t=70)** And I'm going to select active directory users and computers.
+> **[1:10](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/transferring-a-fsmo-role?u=76281980&t=70)** And I'm going to select [[Active Directory]] users and computers.
 >
 > **[1:16](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/transferring-a-fsmo-role?u=76281980&t=76)** From here, I'm going to go ahead and I'm going to right click on Landonhotel.local and go to my operations masters.
 >
@@ -1732,15 +1718,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (1), database (1)
+> **Frameworks & Libraries:** [[Active Directory]] (1)
 > **Env Vars:** dc2 (11), dc1 (10), rid (3), fsmo (2), pdc (1)
 > **UI Navigation:** click on (3), go to (2)
 > **Best Practices:** recommended (2)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Seizing a FSMO role
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980)
+#### [Seizing a FSMO role](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1782,7 +1767,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=67)** And now it's going to go ahead and open up Domains and Trusts.
 >
-> **[1:11](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=71)** And I'm going to right click on Active Directory Domains and Trusts, and I'm going to go to the Operations Master.
+> **[1:11](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=71)** And I'm going to right click on [[Active Directory]] Domains and Trusts, and I'm going to go to the Operations Master.
 >
 > **[1:18](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=78)** Now you'll notice that in the past, other videos when I did this exact same thing, you know, window opened up like instantly.
 >
@@ -1854,7 +1839,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=196)** But the one that we specifically want to do is this one that says Roles.
 >
-> **[3:19](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=199)** Manage the NTDS role owner tokens, right?
+> **[3:19](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=199)** Manage the NTDS role owner [[Tokens]], right?
 >
 > **[3:23](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=203)** So I'm going to go ahead and type in roles and hit Enter.
 >
@@ -1956,7 +1941,7 @@ created: 2026-05-02
 >
 > **[7:20](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=440)** In the old days, all right?
 >
-> **[7:22](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=442)** Back with like Windows 2000.
+> **[7:22](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=442)** Back with like [[Windows]] 2000.
 >
 > **[7:23](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/seizing-a-fsmo-role?u=76281980&t=443)** Back when they first created this process.
 >
@@ -1982,7 +1967,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), prompt (4), [[Active Directory]] (2), [[Tokens]] (1), next (1)
+> **Frameworks & Libraries:** [[Active Directory]] (2), [[Tokens]] (1), [[Windows]] (1)
 > **Tools:** command prompt (3), command line (1)
 > **UI Navigation:** click on (2), go to (2)
 > **Env Vars:** pdc (1), ntds (1)
@@ -1996,12 +1981,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Delegating permissions manually
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/delegating-permissions-manually?u=76281980)
+#### [Delegating permissions manually](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/delegating-permissions-manually?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/delegating-permissions-manually?u=76281980&t=0)** - [Instructor] Managing the Active Directory environment is one of the most common tasks that an IT professional may perform.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/delegating-permissions-manually?u=76281980&t=0)** - [Instructor] Managing the [[Active Directory]] environment is one of the most common tasks that an IT professional may perform.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/delegating-permissions-manually?u=76281980&t=8)** In fact, there can be so much that has to be done when it comes to managing Active Directory that you may want to choose to delegate out some of the administrative tasks out to other people.
 >
@@ -2075,7 +2059,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/delegating-permissions-manually?u=76281980&t=256)** So I'm going to go to Advanced for special permissions so I can get very, very specific with what I'm going to go ahead and add.
 >
-> **[4:25](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/delegating-permissions-manually?u=76281980&t=265)** So now, in Advanced here, I'm going to click on Add and the principal that I'm going to add is going to be, I'm just going to type the word junior, Check Names, and there's Junior Admin.
+> **[4:25](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/delegating-permissions-manually?u=76281980&t=265)** So now, in Advanced here, I'm going to click on Add and the principal that I'm going to add is going to be, I'm just going to type the [[Microsoft Word|word]] junior, Check Names, and there's Junior Admin.
 >
 > **[4:35](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/delegating-permissions-manually?u=76281980&t=275)** I'll click OK.
 >
@@ -2111,7 +2095,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Active Directory]] (4), feature (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (4), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (5), right-click (2), click on (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** dc1 (1), com (1)
@@ -2119,14 +2103,13 @@ created: 2026-05-02
 > **Analogies:** similar to (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Delegation of Control Wizard
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/using-the-delegation-of-control-wizard?u=76281980)
+#### [Using the Delegation of Control Wizard](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/using-the-delegation-of-control-wizard?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/using-the-delegation-of-control-wizard?u=76281980&t=0)** - [Instructor] Now, as we saw in the previous video, assigning specific permissions to specific users can be a fairly lengthy and tedious process.
 >
-> **[0:12](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/using-the-delegation-of-control-wizard?u=76281980&t=12)** But I want you to know that Microsoft has actually given us a tool to help simplify that process for some of the common tasks that we might want to delegate out and it's called the Delegation of Control Wizard.
+> **[0:12](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/using-the-delegation-of-control-wizard?u=76281980&t=12)** But I want you to know that [[Microsoft]] has actually given us a tool to help simplify that process for some of the common tasks that we might want to delegate out and it's called the Delegation of Control Wizard.
 >
 > **[0:27](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/using-the-delegation-of-control-wizard?u=76281980&t=27)** All right.
 >
@@ -2180,14 +2163,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Microsoft]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Cross-References:** as we saw (1), previous video (1), go back to (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a custom management tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-a-custom-management-tool?u=76281980)
+#### [Creating a custom management tool](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-a-custom-management-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2195,7 +2177,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-a-custom-management-tool?u=76281980&t=20)** So example is the one that we were just using here where we went ahead, and we said that the CustSvc Manager could go ahead and reset passwords for the other customer service users.
 >
-> **[0:33](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-a-custom-management-tool?u=76281980&t=33)** Well, the problem is is the CustSvc Manager doesn't work in IT and doesn't know where to go, doesn't know what Active Directory Users and Computers is, and doesn't know how to reset the password once they get there.
+> **[0:33](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-a-custom-management-tool?u=76281980&t=33)** Well, the problem is is the CustSvc Manager doesn't work in IT and doesn't know where to go, doesn't know what [[Active Directory]] Users and Computers is, and doesn't know how to reset the password once they get there.
 >
 > **[0:46](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-a-custom-management-tool?u=76281980&t=46)** So how do we solve this?
 >
@@ -2205,7 +2187,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-a-custom-management-tool?u=76281980&t=63)** I'm just going to go to a command prompt, but really, I'm going to the command prompt only so I can type in mmc.
 >
-> **[1:11](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-a-custom-management-tool?u=76281980&t=71)** This opens up a customizable Microsoft Management Console.
+> **[1:11](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-a-custom-management-tool?u=76281980&t=71)** This opens up a customizable [[Microsoft]] Management Console.
 >
 > **[1:15](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-a-custom-management-tool?u=76281980&t=75)** We actually saw this in another video when we went in to see how to get to the Active Directory schema.
 >
@@ -2313,7 +2295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), [[Active Directory]] (5), prompt (2), [[Microsoft]] (1), management (1)
+> **Frameworks & Libraries:** [[Active Directory]] (5), [[Microsoft]] (1)
 > **UI Navigation:** click on (12), go to (3)
 > **CLI Commands:** snap (2), make (1)
 > **Definitions:** is a  (3)
@@ -2326,12 +2308,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating user accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-user-accounts?u=76281980)
+#### [Creating user accounts](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-user-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-user-accounts?u=76281980&t=0)** - [Instructor] There are many different types of objects that we will find in Active Directory, and one of the most common objects that you'll find is something called the User Account.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-user-accounts?u=76281980&t=0)** - [Instructor] There are many different types of objects that we will find in [[Active Directory]], and one of the most common objects that you'll find is something called the User Account.
 >
 > **[0:11](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-user-accounts?u=76281980&t=11)** The User Account object is basically Active Directory's representation of an actual user, so an actual human on your network.
 >
@@ -2345,7 +2326,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-user-accounts?u=76281980&t=53)** I'm going to go up to the Tools menu, and I'm going to go to Active Directory Users and Computers.
 >
-> **[1:01](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-user-accounts?u=76281980&t=61)** I'd mentioned earlier that this is the older tool that we used to use, and we've had this around since Windows 2000.
+> **[1:01](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-user-accounts?u=76281980&t=61)** I'd mentioned earlier that this is the older tool that we used to use, and we've had this around since [[Windows]] 2000.
 >
 > **[1:10](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-user-accounts?u=76281980&t=70)** Let's take a look at what we would do here.
 >
@@ -2457,7 +2438,7 @@ created: 2026-05-02
 >
 > **[7:06](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-user-accounts?u=76281980&t=426)** For Password Options says, "User must change password at next log on," that's the default.
 >
-> **[7:11](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-user-accounts?u=76281980&t=431)** Or we could say, nope, let's go to the other Password options which is where we can use the Microsoft Password or smart card.
+> **[7:11](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-user-accounts?u=76281980&t=431)** Or we could say, nope, let's go to the other Password options which is where we can use the [[Microsoft]] Password or smart card.
 >
 > **[7:18](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-user-accounts?u=76281980&t=438)** It wasn't even an option when creating a user over there.
 >
@@ -2483,7 +2464,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (10), next (4), [[Windows]] (3), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (10), [[Windows]] (3), [[Microsoft]] (1)
 > **UI Navigation:** go to (7), right-click (3), click on (2), scroll down (1)
 > **Env Vars:** upn (4), dc1 (1)
 > **CLI Commands:** find (3), make (1)
@@ -2492,8 +2473,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1), recommended (1)
 > **Cross-References:** earlier in (1)
 
-#### Moving user accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/moving-user-accounts?u=76281980)
+#### [Moving user accounts](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/moving-user-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2501,7 +2481,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/moving-user-accounts?u=76281980&t=6)** Now, before I show you how to do it, let me just talk briefly about why you might want to do it, or what happens if you move a user account.
 >
-> **[0:15](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/moving-user-accounts?u=76281980&t=15)** Basically, when a user exists in a particular container in the Active Directory hierarchy, two main things that happen with that account.
+> **[0:15](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/moving-user-accounts?u=76281980&t=15)** Basically, when a user exists in a particular container in the [[Active Directory]] hierarchy, two main things that happen with that account.
 >
 > **[0:25](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/moving-user-accounts?u=76281980&t=25)** Number one, you could have some form of delegation of control over that user, right?
 >
@@ -2606,8 +2586,7 @@ created: 2026-05-02
 > **Analogies:** just like (2)
 > **Speakers:** - [instructor] (1)
 
-#### Using user account templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/using-user-account-templates?u=76281980)
+#### [Using user account templates](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/using-user-account-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2621,7 +2600,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/using-user-account-templates?u=76281980&t=43)** So the idea here is we're going to use what's called a user account template.
 >
-> **[0:48](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/using-user-account-templates?u=76281980&t=48)** So here in Active Directory Users and Computers, we are looking at the Customer Service container here.
+> **[0:48](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/using-user-account-templates?u=76281980&t=48)** So here in [[Active Directory]] Users and Computers, we are looking at the Customer Service container here.
 >
 > **[0:55](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/using-user-account-templates?u=76281980&t=55)** So here's the scenario I want you to think about, and that is customer service is a department where we're hiring users all the time, and those users pretty much always need the exact same access to the exact same resources and have the same permissions and everything else.
 >
@@ -2711,7 +2690,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Active Directory]] (2)
+> **Frameworks & Libraries:** [[Active Directory]] (2)
 > **Exercise Files:** template (16)
 > **UI Navigation:** right-click (3), click on (3), go to (1)
 > **CLI Commands:** make (2), find (1)
@@ -2720,12 +2699,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Warnings:** note that (1)
 
-#### Creating a group
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-a-group?u=76281980)
+#### [Creating a group](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-a-group?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-a-group?u=76281980&t=0)** - [Narrator] I had mentioned previously, that one of the main purposes for having user account objects in Active Directory is for the purposes of assigning rights and permissions to our users in our environment.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-a-group?u=76281980&t=0)** - [Narrator] I had mentioned previously, that one of the main purposes for having user account objects in [[Active Directory]] is for the purposes of assigning rights and permissions to our users in our environment.
 >
 > **[0:13](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-a-group?u=76281980&t=13)** Well, you have to keep in mind that a large enterprise where you may have, you know, tens of thousands of users that the assigning of rights and permissions individually to each user, that could be a lot of work, right?
 >
@@ -2755,7 +2733,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-a-group?u=76281980&t=96)** I just need to give the group a name.
 >
-> **[1:38](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-a-group?u=76281980&t=98)** So let's call it CustomerServiceUsers and then you'll notice it auto populates the pre windows 2000 name, that's fine.
+> **[1:38](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-a-group?u=76281980&t=98)** So let's call it CustomerServiceUsers and then you'll notice it auto populates the pre [[Windows]] 2000 name, that's fine.
 >
 > **[1:47](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-a-group?u=76281980&t=107)** The only other thing we have to do here is decide the scope and the type.
 >
@@ -2849,7 +2827,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (7), [[Security]] (5), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (7), [[Windows]] (1)
 > **UI Navigation:** right-click (5), click on (2), go to (2), scroll down (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** just like (2)
@@ -2858,14 +2836,13 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [narrator] (1)
 
-#### Managing group membership
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-group-membership?u=76281980)
+#### [Managing group membership](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-group-membership?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-group-membership?u=76281980&t=0)** - [Narrator] Once you have created your group accounts, the next step would be to actually take users and make them members of those group accounts so that they can actually start getting the rights and permissions from those group accounts.
 >
-> **[0:12](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-group-membership?u=76281980&t=12)** So I'm going to show you how to do this in both Active Directory Users and Computers, as well as in the Administrative Center.
+> **[0:12](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-group-membership?u=76281980&t=12)** So I'm going to show you how to do this in both [[Active Directory]] Users and Computers, as well as in the Administrative Center.
 >
 > **[0:17](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-group-membership?u=76281980&t=17)** But we'll start here in Users and Computers, and I'm going to show you that there's a couple different ways that we can do this.
 >
@@ -2887,7 +2864,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-group-membership?u=76281980&t=59)** You'll notice there are no group members right now, so I'll click on add.
 >
-> **[1:03](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-group-membership?u=76281980&t=63)** And I'm going to type in the word Demo and click Check Names and there's Demo User.
+> **[1:03](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-group-membership?u=76281980&t=63)** And I'm going to type in the [[Microsoft Word|word]] Demo and click Check Names and there's Demo User.
 >
 > **[1:08](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/managing-group-membership?u=76281980&t=68)** Click okay. And now Demo User is a member of the customer service users group.
 >
@@ -3009,7 +2986,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (6), next (1), [[Microsoft Word|Word]] (1), hit (1)
+> **Frameworks & Libraries:** [[Active Directory]] (6), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (12), click on (5), scroll down (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (3)
@@ -3018,12 +2995,11 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating computer accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-computer-accounts?u=76281980)
+#### [Creating computer accounts](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-computer-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-computer-accounts?u=76281980&t=0)** - [Narrator] There is another type of Active Directory object that we have.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-computer-accounts?u=76281980&t=0)** - [Narrator] There is another type of [[Active Directory]] object that we have.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-computer-accounts?u=76281980&t=5)** And this object is also a security principle, which means, similar to our user account objects and our group account objects, where we can assign rights and permissions.
 >
@@ -3123,7 +3099,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (6), [[Security]] (2)
+> **Frameworks & Libraries:** [[Active Directory]] (6)
 > **UI Navigation:** click on (2), scroll down (1), go to (1)
 > **Analogies:** imagine (2), similar to (1), just like (1)
 > **CLI Commands:** find (2), make (1)
@@ -3132,12 +3108,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating organizational units (OUs)
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-organizational-units-ous?u=76281980)
+#### [Creating organizational units (OUs)](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-organizational-units-ous?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-organizational-units-ous?u=76281980&t=0)** - [Instructor] As we have been learning about Active Directory objects and the creation of these objects, I have been showing you how Active Directory has this whole hierarchical structure, and it has these containers that we've been looking at, right?
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-organizational-units-ous?u=76281980&t=0)** - [Instructor] As we have been learning about [[Active Directory]] objects and the creation of these objects, I have been showing you how Active Directory has this whole hierarchical structure, and it has these containers that we've been looking at, right?
 >
 > **[0:15](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-organizational-units-ous?u=76281980&t=15)** Like Customer Service, that's a container, or in inside of that, even Customer Service Computers, right?
 >
@@ -3195,7 +3170,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-organizational-units-ous?u=76281980&t=145)** So mainly I just want you to see here, we're creating a hierarchy, and you can go as deep as you want with that hierarchy.
 >
-> **[2:30](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-organizational-units-ous?u=76281980&t=150)** It is recommended by Microsoft that you never go more than about four or five levels deep.
+> **[2:30](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-organizational-units-ous?u=76281980&t=150)** It is recommended by [[Microsoft]] that you never go more than about four or five levels deep.
 >
 > **[2:35](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/creating-organizational-units-ous?u=76281980&t=155)** And to be honest with you, in my own personal opinion, I don't see a whole lot of value in going much more than even three levels deep other than maybe some isolated scenarios.
 >
@@ -3277,15 +3252,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (8), [[Microsoft]] (1), hit (1), feature (1)
+> **Frameworks & Libraries:** [[Active Directory]] (8), [[Microsoft]] (1)
 > **UI Navigation:** go to (6), checkbox (5), click on (1)
 > **CLI Commands:** find (1)
 > **Best Practices:** recommended (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Examples of OU hierarchies
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/examples-of-ou-hierarchies?u=76281980)
+#### [Examples of OU hierarchies](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/examples-of-ou-hierarchies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3325,7 +3299,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/examples-of-ou-hierarchies?u=76281980&t=119)** Okay. So now we have a second level and I'm not going to bore you with like going through and doing every single one, but there's a really good chance that I would create these same departments inside of Chicago and inside London.
 >
-> **[2:13](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/examples-of-ou-hierarchies?u=76281980&t=133)** And it may not be completely identical cause each office may not have all the same departments, right?
+> **[2:13](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/examples-of-ou-hierarchies?u=76281980&t=133)** And it may not be completely identical cause each [[Microsoft Office|office]] may not have all the same departments, right?
 >
 > **[2:18](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/examples-of-ou-hierarchies?u=76281980&t=138)** I'll give you one example in Chicago, well, it may be, that we have Chicago marketing.
 >
@@ -3387,7 +3361,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** earlier in (1)
 > **UI Navigation:** go to (1)
@@ -3401,12 +3375,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/next-steps?u=76281980&t=0)** - [Ed] I hope you've enjoyed learning about installing and configuring active directory domain services in Windows Server 2022 as much as I've enjoyed showing you.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/next-steps?u=76281980&t=0)** - [Ed] I hope you've enjoyed learning about installing and configuring [[Active Directory]] domain services in [[Windows Server]] 2022 as much as I've enjoyed showing you.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-server-2022-install-and-configure-active-directory/next-steps?u=76281980&t=9)** If you want to learn more about working with active directory in Windows Server 2022, please explore our library as we have a number of courses out there to help you.
 >
@@ -3414,7 +3387,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (2), [[Windows Server]] (2), next (1)
+> **Frameworks & Libraries:** [[Active Directory]] (2), [[Windows Server]] (2)
 > **Speakers:** - [ed] (1)
 
 

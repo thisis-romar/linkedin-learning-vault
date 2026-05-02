@@ -78,12 +78,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Practice some Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/practice-some-java?u=76281980)
+#### [Practice some Java](https://www.linkedin.com/learning/practice-it-java/practice-some-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practice-it-java/practice-some-java?u=76281980&t=0)** - [Bethan] Do you want to learn Java in a practical hands-on way?
+> **[0:00](https://www.linkedin.com/learning/practice-it-java/practice-some-java?u=76281980&t=0)** - [Bethan] Do you want to learn [[Java]] in a practical hands-on way?
 >
 > **[0:03](https://www.linkedin.com/learning/practice-it-java/practice-some-java?u=76281980&t=3)** This course will help you do exactly that.
 >
@@ -93,7 +92,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/practice-it-java/practice-some-java?u=76281980&t=18)** For each chapter, I'll give a short overview of the topic.
 >
-> **[0:21](https://www.linkedin.com/learning/practice-it-java/practice-some-java?u=76281980&t=21)** Then I'll be giving you some hands-on exercises to practice which you'll be able to do in GitHub codespaces.
+> **[0:21](https://www.linkedin.com/learning/practice-it-java/practice-some-java?u=76281980&t=21)** Then I'll be giving you some hands-on exercises to practice which you'll be able to do in [[GitHub]] [[Codespaces]].
 >
 > **[0:27](https://www.linkedin.com/learning/practice-it-java/practice-some-java?u=76281980&t=27)** Then for each one, I'll walk through the solution so you can check your answers and your working.
 >
@@ -109,17 +108,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (5), [[GitHub]] (1), [[Codespaces]] (1), java software (1)
+> **Frameworks & Libraries:** [[Java]] (6), [[GitHub]] (1), [[Codespaces]] (1)
 > **Tools:** github (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [bethan] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/practice-it-java/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practice-it-java/what-you-should-know?u=76281980&t=0)** - [Instructor] This course will cover beginner level topics in Java.
+> **[0:00](https://www.linkedin.com/learning/practice-it-java/what-you-should-know?u=76281980&t=0)** - [Instructor] This course will cover beginner level topics in [[Java]].
 >
 > **[0:03](https://www.linkedin.com/learning/practice-it-java/what-you-should-know?u=76281980&t=3)** However, as the focus of this course will be on putting concepts into practice, I won't be going into too much depth explaining each topic.
 >
@@ -139,9 +137,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/practice-it-java/what-you-should-know?u=76281980&t=39)** So to get the most out of this course, you'll need to have some understanding of the basics of Java.
 >
-> **[0:44](https://www.linkedin.com/learning/practice-it-java/what-you-should-know?u=76281980&t=44)** I would recommend maybe having a look at some of the beginner courses in the LinkedIn Learning Library, for example the Learning Java course before starting this one.
+> **[0:44](https://www.linkedin.com/learning/practice-it-java/what-you-should-know?u=76281980&t=44)** I would recommend maybe having a look at some of the beginner courses in the [[LinkedIn]] Learning Library, for example the Learning Java course before starting this one.
 >
-> **[0:52](https://www.linkedin.com/learning/practice-it-java/what-you-should-know?u=76281980&t=52)** So if you're comfortable with the basic concepts of Java, it's time to get set up on GitHub Codespaces.
+> **[0:52](https://www.linkedin.com/learning/practice-it-java/what-you-should-know?u=76281980&t=52)** So if you're comfortable with the basic concepts of Java, it's time to get set up on [[GitHub]] [[Codespaces]].
 
 > [!info]- Semantic Content
 >
@@ -151,16 +149,15 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/using-github-codespaces-with-this-course?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/practice-it-java/using-github-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practice-it-java/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Ray] This is Ray Villalobos, senior staff instructor at LinkedIn Learning, and I'm going to show you how to work with LinkedIn Learning courses using GitHub Codespaces.
+> **[0:00](https://www.linkedin.com/learning/practice-it-java/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Ray] This is Ray Villalobos, senior staff instructor at [[LinkedIn]] Learning, and I'm going to show you how to work with LinkedIn Learning courses using [[GitHub]] [[Codespaces]].
 >
 > **[0:09](https://www.linkedin.com/learning/practice-it-java/using-github-codespaces-with-this-course?u=76281980&t=9)** Codespaces is a code editor in the cloud with the full power of Visual Studio Code.
 >
-> **[0:14](https://www.linkedin.com/learning/practice-it-java/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real world hands on practice that mirrors software development in the workplace.
+> **[0:14](https://www.linkedin.com/learning/practice-it-java/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real world hands on practice that mirrors [[Software Development]] in the workplace.
 >
 > **[0:19](https://www.linkedin.com/learning/practice-it-java/using-github-codespaces-with-this-course?u=76281980&t=19)** This course was created using GitHub Codespaces.
 >
@@ -230,7 +227,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/practice-it-java/using-github-codespaces-with-this-course?u=76281980&t=195)** As you work through a course, you might make some changes on a branch.
 >
-> **[3:19](https://www.linkedin.com/learning/practice-it-java/using-github-codespaces-with-this-course?u=76281980&t=199)** I'm going to make a minor edit on the index.html file right here.
+> **[3:19](https://www.linkedin.com/learning/practice-it-java/using-github-codespaces-with-this-course?u=76281980&t=199)** I'm going to make a minor edit on the index.[[HTML]] file right here.
 >
 > **[3:27](https://www.linkedin.com/learning/practice-it-java/using-github-codespaces-with-this-course?u=76281980&t=207)** I'm going to go ahead and save that, and you can see that I've modified this file because there's an M right here and the branch name now has an asterisk on it.
 >
@@ -272,7 +269,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/practice-it-java/using-github-codespaces-with-this-course?u=76281980&t=332)** I'll hit okay.
 >
-> **[5:34](https://www.linkedin.com/learning/practice-it-java/using-github-codespaces-with-this-course?u=76281980&t=334)** You can also let it go ahead and run git fetch.
+> **[5:34](https://www.linkedin.com/learning/practice-it-java/using-github-codespaces-with-this-course?u=76281980&t=334)** You can also let it go ahead and run [[Git]] [[Fetch]].
 >
 > **[5:37](https://www.linkedin.com/learning/practice-it-java/using-github-codespaces-with-this-course?u=76281980&t=337)** That way, it'll automatically sync with your forked repo.
 >
@@ -288,7 +285,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), [[LinkedIn]] (2), [[Software Development]] (1), [[HTML]] (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (3), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -302,12 +299,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Topic overview: Variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/topic-overview-variables?u=76281980)
+#### [Topic overview: Variables](https://www.linkedin.com/learning/practice-it-java/topic-overview-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practice-it-java/topic-overview-variables?u=76281980&t=0)** - [Instructor] When you are writing code in Java, you'll almost certainly need to store information of some kind.
+> **[0:00](https://www.linkedin.com/learning/practice-it-java/topic-overview-variables?u=76281980&t=0)** - [Instructor] When you are writing code in [[Java]], you'll almost certainly need to store information of some kind.
 >
 > **[0:05](https://www.linkedin.com/learning/practice-it-java/topic-overview-variables?u=76281980&t=5)** Variables are how you store information within a program.
 >
@@ -361,7 +357,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/practice-it-java/topic-overview-variables?u=76281980&t=115)** One last thing to bear in mind with variables, is that they should be named using something called camel case.
 >
-> **[2:00](https://www.linkedin.com/learning/practice-it-java/topic-overview-variables?u=76281980&t=120)** This means that if you're joining multiple words together to make a variable name, the first word should be lowercase.
+> **[2:00](https://www.linkedin.com/learning/practice-it-java/topic-overview-variables?u=76281980&t=120)** This means that if you're joining multiple words together to make a variable name, the first [[Microsoft Word|word]] should be lowercase.
 >
 > **[2:06](https://www.linkedin.com/learning/practice-it-java/topic-overview-variables?u=76281980&t=126)** But the words you join on to the end should start with an uppercase letter.
 >
@@ -369,15 +365,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (8), such as (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** variablesarefun (1)
 > **Speakers:** - [instructor] (1)
 
-#### Try it: Primitive variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/try-it-primitive-variables?u=76281980)
+#### [Try it: Primitive variables](https://www.linkedin.com/learning/practice-it-java/try-it-primitive-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -397,7 +392,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/practice-it-java/try-it-primitive-variables?u=76281980&t=28)** In this case, the comments contain some instructions about the code you should write to complete the exercise.
 >
-> **[0:33](https://www.linkedin.com/learning/practice-it-java/try-it-primitive-variables?u=76281980&t=33)** So I'll do the first couple now, just to show you how they work and then I'll leave the rest to you.
+> **[0:33](https://www.linkedin.com/learning/practice-it-java/try-it-primitive-variables?u=76281980&t=33)** So I'll do the first couple now, just to show you how they work and then I'll leave the [[Representational State Transfer (REST)|rest]] to you.
 >
 > **[0:37](https://www.linkedin.com/learning/practice-it-java/try-it-primitive-variables?u=76281980&t=37)** So the first one says that I should create a variable called age of type int and assign it to the value 29.
 >
@@ -409,7 +404,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/practice-it-java/try-it-primitive-variables?u=76281980&t=59)** The next one says to print the age variable to the console.
 >
-> **[1:02](https://www.linkedin.com/learning/practice-it-java/try-it-primitive-variables?u=76281980&t=62)** So again, I'm going to add a new line underneath and the way to print something to the console in Java is to put system dot out dot print ln.
+> **[1:02](https://www.linkedin.com/learning/practice-it-java/try-it-primitive-variables?u=76281980&t=62)** So again, I'm going to add a new line underneath and the way to print something to the console in [[Java]] is to put system dot out dot print ln.
 >
 > **[1:10](https://www.linkedin.com/learning/practice-it-java/try-it-primitive-variables?u=76281980&t=70)** There's actually a handy keyboard shortcut for this in Visual Studio Code.
 >
@@ -443,7 +438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** visual studio (1), terminal (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
@@ -451,8 +446,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard typing) (1)
 
-#### Check it: Primitive variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/check-it-primitive-variables?u=76281980)
+#### [Check it: Primitive variables](https://www.linkedin.com/learning/practice-it-java/check-it-primitive-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -510,7 +504,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/practice-it-java/check-it-primitive-variables?u=76281980&t=152)** They should be called first bonus, second bonus and third bonus and they should be assigned the values 10, 22 and 35."
 >
-> **[2:39](https://www.linkedin.com/learning/practice-it-java/check-it-primitive-variables?u=76281980&t=159)** So, you can actually create several variables on a single line in Java.
+> **[2:39](https://www.linkedin.com/learning/practice-it-java/check-it-primitive-variables?u=76281980&t=159)** So, you can actually create several variables on a single line in [[Java]].
 >
 > **[2:43](https://www.linkedin.com/learning/practice-it-java/check-it-primitive-variables?u=76281980&t=163)** So, I'm going to put the type, which is double for all of them.
 >
@@ -534,7 +528,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (10), [[Java]] (2)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Versions:** 2.5 (3), 10.00 (1), 22.00 (1), 35.00 (1), 67.0 (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** sout (2)
@@ -543,8 +537,7 @@ created: 2026-05-02
 > **Speakers:** - well (1)
 > **Non-Speech:** (electronic sound) (1)
 
-#### Try it: Reference variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/try-it-reference-variables?u=76281980)
+#### [Try it: Reference variables](https://www.linkedin.com/learning/practice-it-java/try-it-reference-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -570,7 +563,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/practice-it-java/try-it-reference-variables?u=76281980&t=56)** One other thing to note is that in this exercise you'll be adding items to an array list.
 >
-> **[1:00](https://www.linkedin.com/learning/practice-it-java/try-it-reference-variables?u=76281980&t=60)** So if I go back to this menu builder class, at the top you'll see that there's an import statement which says import java.util.ArrayList.
+> **[1:00](https://www.linkedin.com/learning/practice-it-java/try-it-reference-variables?u=76281980&t=60)** So if I go back to this menu builder class, at the top you'll see that there's an import statement which says import [[Java]].util.ArrayList.
 >
 > **[1:09](https://www.linkedin.com/learning/practice-it-java/try-it-reference-variables?u=76281980&t=69)** And in one of the comments you'll see that one of the tasks is to create a variable called menu of type ArrayList.
 >
@@ -592,7 +585,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Cross-References:** in the last (1), go back to (1), in the next (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
@@ -601,8 +594,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (typing) (1)
 
-#### Check it: Reference variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/check-it-reference-variables?u=76281980)
+#### [Check it: Reference variables](https://www.linkedin.com/learning/practice-it-java/check-it-reference-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -628,7 +620,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/practice-it-java/check-it-reference-variables?u=76281980&t=55)** Then I'm going to do equals, and this time I'm going to use the new keyword, so I'm going to do new array list.
 >
-> **[1:02](https://www.linkedin.com/learning/practice-it-java/check-it-reference-variables?u=76281980&t=62)** You'll notice that when Visual Studio Code auto completed that array list for me, it actually added a pair of angle brackets after the word array list, and before the normal brackets.
+> **[1:02](https://www.linkedin.com/learning/practice-it-java/check-it-reference-variables?u=76281980&t=62)** You'll notice that when Visual Studio Code auto completed that array list for me, it actually added a pair of angle brackets after the [[Microsoft Word|word]] array list, and before the normal brackets.
 >
 > **[1:12](https://www.linkedin.com/learning/practice-it-java/check-it-reference-variables?u=76281980&t=72)** If you don't have these angle brackets, don't worry, it will still work fine in this example, but it is best practice to add them, just in case you run into type issues later on.
 >
@@ -686,7 +678,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Best Practices:** best practice (3)
 > **Tools:** visual studio (1)
 > **UI Navigation:** click on (1)
@@ -699,12 +691,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Topic overview: Classes and objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/topic-overview-classes-and-objects?u=76281980)
+#### [Topic overview: Classes and objects](https://www.linkedin.com/learning/practice-it-java/topic-overview-classes-and-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practice-it-java/topic-overview-classes-and-objects?u=76281980&t=0)** - [Instructor] Classes and objects are the building blocks of any Java program that you write.
+> **[0:00](https://www.linkedin.com/learning/practice-it-java/topic-overview-classes-and-objects?u=76281980&t=0)** - [Instructor] Classes and objects are the building blocks of any [[Java]] program that you write.
 >
 > **[0:04](https://www.linkedin.com/learning/practice-it-java/topic-overview-classes-and-objects?u=76281980&t=4)** Java's an example of an object oriented language.
 >
@@ -728,7 +719,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/practice-it-java/topic-overview-classes-and-objects?u=76281980&t=52)** At the very top of the class we start with public class employee.
 >
-> **[0:56](https://www.linkedin.com/learning/practice-it-java/topic-overview-classes-and-objects?u=76281980&t=56)** Most classes begin like this with the word public, then class, then the name of the class, in this case employee.
+> **[0:56](https://www.linkedin.com/learning/practice-it-java/topic-overview-classes-and-objects?u=76281980&t=56)** Most classes begin like this with the [[Microsoft Word|word]] public, then class, then the name of the class, in this case employee.
 >
 > **[1:03](https://www.linkedin.com/learning/practice-it-java/topic-overview-classes-and-objects?u=76281980&t=63)** Then we have the constructor where we have public employee.
 >
@@ -778,15 +769,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Java]] (3), [[Microsoft Word|Word]] (3), next (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Microsoft Word|Word]] (3)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Try it: Creating classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/try-it-creating-classes?u=76281980)
+#### [Try it: Creating classes](https://www.linkedin.com/learning/practice-it-java/try-it-creating-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -796,7 +786,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/practice-it-java/try-it-creating-classes?u=76281980&t=7)** If I open up the 0202 folder, there's just a file called instructions.md.
 >
-> **[0:12](https://www.linkedin.com/learning/practice-it-java/try-it-creating-classes?u=76281980&t=12)** This is because for this one, you're going to be creating your own Java class from the beginning and this folder just contains the instructions as a reminder.
+> **[0:12](https://www.linkedin.com/learning/practice-it-java/try-it-creating-classes?u=76281980&t=12)** This is because for this one, you're going to be creating your own [[Java]] class from the beginning and this folder just contains the instructions as a reminder.
 >
 > **[0:19](https://www.linkedin.com/learning/practice-it-java/try-it-creating-classes?u=76281980&t=19)** So to complete this exercise, you should create a brand new Java class called tickets.
 >
@@ -835,12 +825,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Check it: Creating classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/check-it-creating-classes?u=76281980)
+#### [Check it: Creating classes](https://www.linkedin.com/learning/practice-it-java/check-it-creating-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/practice-it-java/check-it-creating-classes?u=76281980&t=3)** - [Narrator] So let's walk through creating a Java class from scratch, step by step.
+> **[0:03](https://www.linkedin.com/learning/practice-it-java/check-it-creating-classes?u=76281980&t=3)** - [Narrator] So let's walk through creating a [[Java]] class from scratch, step by step.
 >
 > **[0:07](https://www.linkedin.com/learning/practice-it-java/check-it-creating-classes?u=76281980&t=7)** So I'm going to right click on the folder 02_03b and choose new file.
 >
@@ -888,7 +877,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), next (2)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **File Paths:** tickets.java (1)
 > **CLI Commands:** find (1)
 > **Tools:** visual studio (1)
@@ -896,8 +885,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [narrator] (1)
 
-#### Try it: Methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/try-it-methods?u=76281980)
+#### [Try it: Methods](https://www.linkedin.com/learning/practice-it-java/try-it-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -917,7 +905,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/practice-it-java/try-it-methods?u=76281980&t=23)** This means that they're only accessible from within this ticket class.
 >
-> **[0:27](https://www.linkedin.com/learning/practice-it-java/try-it-methods?u=76281980&t=27)** One of the key concepts of object-oriented programming is something called encapsulation.
+> **[0:27](https://www.linkedin.com/learning/practice-it-java/try-it-methods?u=76281980&t=27)** One of the key concepts of [[Object-Oriented Programming (OOP)|object-oriented programming]] is something called encapsulation.
 >
 > **[0:31](https://www.linkedin.com/learning/practice-it-java/try-it-methods?u=76281980&t=31)** This is where you hide the internal state of the class, for example, by making these fields private.
 >
@@ -935,7 +923,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -944,8 +932,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard typing) (1)
 
-#### Check it: Methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/check-it-methods?u=76281980)
+#### [Check it: Methods](https://www.linkedin.com/learning/practice-it-java/check-it-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -957,7 +944,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/practice-it-java/check-it-methods?u=76281980&t=16)** All of these methods are going to be public.
 >
-> **[0:18](https://www.linkedin.com/learning/practice-it-java/check-it-methods?u=76281980&t=18)** So the first word I'm going to put is public.
+> **[0:18](https://www.linkedin.com/learning/practice-it-java/check-it-methods?u=76281980&t=18)** So the first [[Microsoft Word|word]] I'm going to put is public.
 >
 > **[0:20](https://www.linkedin.com/learning/practice-it-java/check-it-methods?u=76281980&t=20)** Then I need the return type.
 >
@@ -969,7 +956,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/practice-it-java/check-it-methods?u=76281980&t=35)** So it's going to be a string because destination is a string and I'm also going to call this destination.
 >
-> **[0:42](https://www.linkedin.com/learning/practice-it-java/check-it-methods?u=76281980&t=42)** You could actually call this whatever you like, but it's a common convention in Java to give it the same name as the fields that you're setting.
+> **[0:42](https://www.linkedin.com/learning/practice-it-java/check-it-methods?u=76281980&t=42)** You could actually call this whatever you like, but it's a common convention in [[Java]] to give it the same name as the fields that you're setting.
 >
 > **[0:48](https://www.linkedin.com/learning/practice-it-java/check-it-methods?u=76281980&t=48)** So inside the body of the methods, I want to set my fields to the value that I've just passed in.
 >
@@ -1043,14 +1030,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), next (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Java]] (6), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** isreturn (4), setdestination (1), setprice (1), setisreturn (1), getdestination (1)
 > **Definitions:** is a  (5), is called (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Try it: Creating objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/try-it-creating-objects?u=76281980)
+#### [Try it: Creating objects](https://www.linkedin.com/learning/practice-it-java/try-it-creating-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1076,12 +1062,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Check it: Creating objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/check-it-creating-objects?u=76281980)
+#### [Check it: Creating objects](https://www.linkedin.com/learning/practice-it-java/check-it-creating-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1153,7 +1137,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (2)
 > **Versions:** 15.30 (2), 15.3 (1)
 > **Cross-References:** previous chapter (1)
 > **Tools:** terminal (1)
@@ -1166,14 +1149,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Topic overview: Control flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/topic-overview-control-flow?u=76281980)
+#### [Topic overview: Control flow](https://www.linkedin.com/learning/practice-it-java/topic-overview-control-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practice-it-java/topic-overview-control-flow?u=76281980&t=0)** - When you're writing code, what you are basically doing is writing a list of instructions that should be followed when a program runs.
 >
-> **[0:07](https://www.linkedin.com/learning/practice-it-java/topic-overview-control-flow?u=76281980&t=7)** There are a few different ways you can control the flow of a program in Java and we are going to look at three common ways to do this in this chapter.
+> **[0:07](https://www.linkedin.com/learning/practice-it-java/topic-overview-control-flow?u=76281980&t=7)** There are a few different ways you can control the flow of a program in [[Java]] and we are going to look at three common ways to do this in this chapter.
 >
 > **[0:14](https://www.linkedin.com/learning/practice-it-java/topic-overview-control-flow?u=76281980&t=14)** Let's say you have some codes that returns the price of a movie ticket.
 >
@@ -1255,30 +1237,29 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/practice-it-java/topic-overview-control-flow?u=76281980&t=175)** This is like saying that for each string called animal in the animal's collection print out the animal to the console.
 >
-> **[3:01](https://www.linkedin.com/learning/practice-it-java/topic-overview-control-flow?u=76281980&t=181)** So those are the three types of control flow we're going to be practicing.
+> **[3:01](https://www.linkedin.com/learning/practice-it-java/topic-overview-control-flow?u=76281980&t=181)** So those are the three types of [[Control Flow]] we're going to be practicing.
 >
 > **[3:05](https://www.linkedin.com/learning/practice-it-java/topic-overview-control-flow?u=76281980&t=185)** Let's get stuck into the practical exercises.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), next (2), [[Control Flow]] (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Control Flow]] (1)
 > **Analogies:** for example (4)
 > **Definitions:** is called (2), is a  (1)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - when (1)
 
-#### Try it: If/else statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/try-it-if-else-statements?u=76281980)
+#### [Try it: If/else statements](https://www.linkedin.com/learning/practice-it-java/try-it-if-else-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/practice-it-java/try-it-if-else-statements?u=76281980&t=1)** - [Narrator] Probably the most common type of control flow in programming is the if else statement.
+> **[0:01](https://www.linkedin.com/learning/practice-it-java/try-it-if-else-statements?u=76281980&t=1)** - [Narrator] Probably the most common type of [[Control Flow]] in programming is the if else statement.
 >
 > **[0:08](https://www.linkedin.com/learning/practice-it-java/try-it-if-else-statements?u=76281980&t=8)** So the first exercise in this chapter is going to look at that.
 >
 > **[0:11](https://www.linkedin.com/learning/practice-it-java/try-it-if-else-statements?u=76281980&t=11)** This exercise is going to be to work on a program that processes exam grades.
 >
-> **[0:15](https://www.linkedin.com/learning/practice-it-java/try-it-if-else-statements?u=76281980&t=15)** So if you look in the 03_02 folder, you'll see that there's already two Java classes in there.
+> **[0:15](https://www.linkedin.com/learning/practice-it-java/try-it-if-else-statements?u=76281980&t=15)** So if you look in the 03_02 folder, you'll see that there's already two [[Java]] classes in there.
 >
 > **[0:21](https://www.linkedin.com/learning/practice-it-java/try-it-if-else-statements?u=76281980&t=21)** And the first one is the grading system class.
 >
@@ -1336,14 +1317,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Control Flow]] (1), [[Programming]] (1), [[Java]] (1), next (1)
+> **Frameworks & Libraries:** [[Control Flow]] (1), [[Java]] (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (typing) (1)
 
-#### Check it: If/else statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/check-it-if-else-statements?u=76281980)
+#### [Check it: If/else statements](https://www.linkedin.com/learning/practice-it-java/check-it-if-else-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1529,14 +1509,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6)
 > **Definitions:** is a  (1), means that (1)
 > **Cross-References:** go back to (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - so (1)
 
-#### Try it: For loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/try-it-for-loops?u=76281980)
+#### [Try it: For loops](https://www.linkedin.com/learning/practice-it-java/try-it-for-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1544,7 +1522,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/practice-it-java/try-it-for-loops?u=76281980&t=3)** - [Instructor] Another really common way to control the flow of a program is with for loops.
 >
-> **[0:08](https://www.linkedin.com/learning/practice-it-java/try-it-for-loops?u=76281980&t=8)** In this exercise, there's just a single class called ForLoops.java and this just has a main method in it.
+> **[0:08](https://www.linkedin.com/learning/practice-it-java/try-it-for-loops?u=76281980&t=8)** In this exercise, there's just a single class called ForLoops.[[Java]] and this just has a main method in it.
 >
 > **[0:14](https://www.linkedin.com/learning/practice-it-java/try-it-for-loops?u=76281980&t=14)** Inside this main method, you'll be writing three for loops.
 >
@@ -1566,15 +1544,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **File Paths:** forloops.java (1)
 > **Cross-References:** next video (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard typing) (1)
 
-#### Check it: For loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/check-it-for-loops?u=76281980)
+#### [Check it: For loops](https://www.linkedin.com/learning/practice-it-java/check-it-for-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1688,7 +1665,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **UI Navigation:** click on (3)
 > **Prerequisites:** initialization (2)
 > **Tools:** terminal (1)
@@ -1697,14 +1673,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (gentle music) (1)
 
-#### Try it: Enhanced for loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/try-it-enhanced-for-loops?u=76281980)
+#### [Try it: Enhanced for loops](https://www.linkedin.com/learning/practice-it-java/try-it-enhanced-for-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practice-it-java/try-it-enhanced-for-loops?u=76281980&t=0)** (keyboard taps)
 >
-> **[0:03](https://www.linkedin.com/learning/practice-it-java/try-it-enhanced-for-loops?u=76281980&t=3)** - [Instructor] Often in Java, you'll have the need to iterate over a collection of items, such as an array or an array list.
+> **[0:03](https://www.linkedin.com/learning/practice-it-java/try-it-enhanced-for-loops?u=76281980&t=3)** - [Instructor] Often in [[Java]], you'll have the need to iterate over a collection of items, such as an array or an array list.
 >
 > **[0:09](https://www.linkedin.com/learning/practice-it-java/try-it-enhanced-for-loops?u=76281980&t=9)** So this exercise is about doing exactly that using enhanced for loops.
 >
@@ -1740,8 +1715,7 @@ created: 2026-05-02
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Check it: Enhanced for loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/check-it-enhanced-for-loops?u=76281980)
+#### [Check it: Enhanced for loops](https://www.linkedin.com/learning/practice-it-java/check-it-enhanced-for-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1755,7 +1729,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/practice-it-java/check-it-enhanced-for-loops?u=76281980&t=20)** So in code that looks like four, and then in a pair of brackets I'm going to do int prime number and then a colon, and then prime numbers and then a pair of curly braces.
 >
-> **[0:37](https://www.linkedin.com/learning/practice-it-java/check-it-enhanced-for-loops?u=76281980&t=37)** You'll notice that it's a pretty common convention in Java for the name of a collection to be a plural.
+> **[0:37](https://www.linkedin.com/learning/practice-it-java/check-it-enhanced-for-loops?u=76281980&t=37)** You'll notice that it's a pretty common convention in [[Java]] for the name of a collection to be a plural.
 >
 > **[0:41](https://www.linkedin.com/learning/practice-it-java/check-it-enhanced-for-loops?u=76281980&t=41)** So for example, prime numbers with an S on the end.
 >
@@ -1811,7 +1785,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Tools:** terminal (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1822,8 +1796,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps to practice more Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/practice-it-java/next-steps-to-practice-more-java?u=76281980)
+#### [Next steps to practice more Java](https://www.linkedin.com/learning/practice-it-java/next-steps-to-practice-more-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1831,13 +1804,13 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/practice-it-java/next-steps-to-practice-more-java?u=76281980&t=3)** Thanks for joining me, and I hope you enjoyed it and found it useful.
 >
-> **[0:07](https://www.linkedin.com/learning/practice-it-java/next-steps-to-practice-more-java?u=76281980&t=7)** We've covered the most important foundations of Java from variables to classes and objects to control flows.
+> **[0:07](https://www.linkedin.com/learning/practice-it-java/next-steps-to-practice-more-java?u=76281980&t=7)** We've covered the most important foundations of [[Java]] from variables to classes and objects to control flows.
 >
 > **[0:13](https://www.linkedin.com/learning/practice-it-java/next-steps-to-practice-more-java?u=76281980&t=13)** Actually writing code yourself is the best way to learn it, so completing this course should have helped solidify what you've already learned.
 >
 > **[0:19](https://www.linkedin.com/learning/practice-it-java/next-steps-to-practice-more-java?u=76281980&t=19)** Hopefully you now feel more confident about putting your Java knowledge into practice.
 >
-> **[0:23](https://www.linkedin.com/learning/practice-it-java/next-steps-to-practice-more-java?u=76281980&t=23)** If you want to keep learning more about Java, check out the many other Java courses in the LinkedIn Learning library.
+> **[0:23](https://www.linkedin.com/learning/practice-it-java/next-steps-to-practice-more-java?u=76281980&t=23)** If you want to keep learning more about Java, check out the many other Java courses in the [[LinkedIn]] Learning library.
 >
 > **[0:29](https://www.linkedin.com/learning/practice-it-java/next-steps-to-practice-more-java?u=76281980&t=29)** There are several other beginner courses or there are many courses on more intermediate topics.
 >

@@ -73,12 +73,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deploying AI for your competitive advantage
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/deploying-ai-for-your-competitive-advantage?u=76281980)
+#### [Deploying AI for your competitive advantage](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/deploying-ai-for-your-competitive-advantage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/deploying-ai-for-your-competitive-advantage?u=76281980&t=0)** - Google CEO, Sundar Pichai, has termed artificial intelligence as more profound than fire or electricity.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/deploying-ai-for-your-competitive-advantage?u=76281980&t=0)** - [[Google]] CEO, Sundar Pichai, has termed [[Artificial Intelligence (AI)|artificial intelligence]] as more profound than fire or electricity.
 >
 > **[0:09](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/deploying-ai-for-your-competitive-advantage?u=76281980&t=9)** - NVIDIA's CEO, Jensen Huang, calls AI the most powerful technology the world has known.
 >
@@ -92,13 +91,13 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/deploying-ai-for-your-competitive-advantage?u=76281980&t=51)** - And I'm Haiyan Wang, Managing Partner of the China India Institute.
 >
-> **[0:55](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/deploying-ai-for-your-competitive-advantage?u=76281980&t=55)** - Join us at LinkedIn Learning where we start by clarifying what AI is and how it is developed, and then spend a good chunk of the time examining how AI can be deployed to create competitive advantages both onstage and backstage.
+> **[0:55](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/deploying-ai-for-your-competitive-advantage?u=76281980&t=55)** - Join us at [[LinkedIn]] Learning where we start by clarifying what AI is and how it is developed, and then spend a good chunk of the time examining how AI can be deployed to create competitive advantages both onstage and backstage.
 >
 > **[1:13](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/deploying-ai-for-your-competitive-advantage?u=76281980&t=73)** Join us on this exciting journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Google]] (1), next (1), power (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Google]] (1), [[LinkedIn]] (1)
 > **Speakers:** - google (1), - nvidia (1), - artificial (1), - and (1), - join (1)
 > **Env Vars:** ceo (2), nvidia (1)
 > **Definitions:** is a  (1)
@@ -108,8 +107,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Artificial Intelligence?
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/what-is-artificial-intelligence?u=76281980)
+#### [What is Artificial Intelligence?](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/what-is-artificial-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -127,7 +125,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/what-is-artificial-intelligence?u=76281980&t=28)** It's in YouTube's recommendation engine.
 >
-> **[0:30](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/what-is-artificial-intelligence?u=76281980&t=30)** It's in Google Search.
+> **[0:30](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/what-is-artificial-intelligence?u=76281980&t=30)** It's in [[Google]] Search.
 >
 > **[0:32](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/what-is-artificial-intelligence?u=76281980&t=32)** It's in many of the driver assist features in Tesla cars.
 >
@@ -135,11 +133,11 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/what-is-artificial-intelligence?u=76281980&t=43)** It's in our policing systems, where facial recognition is used increasingly to identify suspects.
 >
-> **[0:51](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/what-is-artificial-intelligence?u=76281980&t=51)** So, what exactly is artificial intelligence?
+> **[0:51](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/what-is-artificial-intelligence?u=76281980&t=51)** So, what exactly is [[Artificial Intelligence (AI)|artificial intelligence]]?
 >
 > **[0:56](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/what-is-artificial-intelligence?u=76281980&t=56)** The key to answering this question lies in first defining the term natural intelligence, that is, intelligence exhibited by humans and other species.
 >
-> **[1:08](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/what-is-artificial-intelligence?u=76281980&t=68)** According to the American Psychological Association, intelligence refers to the ability to understand complex ideas, to adapt effectively to the environment, to learn from experience, and to engage in various forms of reasoning.
+> **[1:08](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/what-is-artificial-intelligence?u=76281980&t=68)** According to the American Psychological Association, intelligence refers to the ability to understand complex ideas, to adapt effectively to the environment, to learn from experience, and to engage in various [[Forms]] of reasoning.
 >
 > **[1:28](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/what-is-artificial-intelligence?u=76281980&t=88)** Using this definition as a starting point, we can define AI as a computer system that exhibits these traits to at least some degree.
 >
@@ -195,7 +193,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (20), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Google]] (1), [[Search]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Google]] (1), [[Forms]] (1)
 > **Env Vars:** mri (2)
 > **Analogies:** similar to (1), for example (1)
 > **CLI Commands:** cat (1)
@@ -203,8 +201,7 @@ created: 2026-05-02
 > **Definitions:** refers to (1)
 > **Speakers:** - i (1)
 
-#### A brief history of AI and its likely future
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/a-brief-history-of-ai-and-its-likely-future?u=76281980)
+#### [A brief history of AI and its likely future](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/a-brief-history-of-ai-and-its-likely-future?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -228,7 +225,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/a-brief-history-of-ai-and-its-likely-future?u=76281980&t=95)** The real breakthrough in AI and its exploding application in all walks of life came about in the early 2010s.
 >
-> **[1:45](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/a-brief-history-of-ai-and-its-likely-future?u=76281980&t=105)** This is when a new band of researchers were able to utilize the explosion in cheap computing power and the vast availability of internet-fed data to implement their ideas regarding deep neural networks.
+> **[1:45](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/a-brief-history-of-ai-and-its-likely-future?u=76281980&t=105)** This is when a new band of researchers were able to utilize the explosion in cheap computing power and the vast availability of internet-fed data to implement their ideas regarding deep [[Neural Networks]].
 >
 > **[2:03](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/a-brief-history-of-ai-and-its-likely-future?u=76281980&t=123)** This new paradigm deferred radically from Symbolic AI.
 >
@@ -250,7 +247,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/a-brief-history-of-ai-and-its-likely-future?u=76281980&t=189)** While super-intelligent AI is probably many years away, it's worth looking at some of the questions that AI researchers are working on today.
 >
-> **[3:19](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/a-brief-history-of-ai-and-its-likely-future?u=76281980&t=199)** Few-short learning; how to train an AI on small rather than big data?
+> **[3:19](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/a-brief-history-of-ai-and-its-likely-future?u=76281980&t=199)** Few-short learning; how to train an AI on small rather than [[Big Data]]?
 >
 > **[3:27](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/a-brief-history-of-ai-and-its-likely-future?u=76281980&t=207)** Transfer of learning; how to enable an AI trained in one domain to carry over the learning to another domain?
 >
@@ -258,17 +255,17 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/a-brief-history-of-ai-and-its-likely-future?u=76281980&t=235)** Explainable AI; how can we go inside the black box to understand the logic developed by an AI?
 >
-> **[4:05](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/a-brief-history-of-ai-and-its-likely-future?u=76281980&t=245)** Generative AI; how to develop an AI that can generate truly novel output?
+> **[4:05](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/a-brief-history-of-ai-and-its-likely-future?u=76281980&t=245)** [[Generative AI]]; how to develop an AI that can generate truly novel output?
 >
 > **[4:14](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/a-brief-history-of-ai-and-its-likely-future?u=76281980&t=254)** Multimodality; how to enable an AI to take in a diversity of data, such as audio, video, touch, et cetera, simultaneously, and come up with integrated learning?
 >
 > **[4:30](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/a-brief-history-of-ai-and-its-likely-future?u=76281980&t=270)** Human-computer interaction; how to create robots that can navigate a room full of people and understand what is going on and be of assistance?
 >
-> **[4:46](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/a-brief-history-of-ai-and-its-likely-future?u=76281980&t=286)** Merging of the human brain with AI; how to enable the human brain to communicate with the external world without any hardware connection at all?
+> **[4:46](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/a-brief-history-of-ai-and-its-likely-future?u=76281980&t=286)** Merging of the human brain with AI; how to enable the human brain to communicate with the external world without any [[Hardware]] connection at all?
 >
 > **[4:58](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/a-brief-history-of-ai-and-its-likely-future?u=76281980&t=298)** Neuralink, one of Elon Musk's companies is working on exactly this challenge.
 >
-> **[5:06](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/a-brief-history-of-ai-and-its-likely-future?u=76281980&t=306)** Once you solve this problem, a logical next step would be to merge human intelligence with artificial intelligence.
+> **[5:06](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/a-brief-history-of-ai-and-its-likely-future?u=76281980&t=306)** Once you solve this problem, a logical next step would be to merge human intelligence with [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[5:15](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/a-brief-history-of-ai-and-its-likely-future?u=76281980&t=315)** Scary, but also exciting.
 >
@@ -278,21 +275,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (24), data (3), concurrent (1), application (1), power (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (1), [[Big Data]] (1), [[Generative AI]] (1), [[Hardware]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - while (1)
 
-#### How Google deploys AI to create user value
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/how-google-deploys-ai-to-create-user-value?u=76281980)
+#### [How Google deploys AI to create user value](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/how-google-deploys-ai-to-create-user-value?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/how-google-deploys-ai-to-create-user-value?u=76281980&t=0)** - We want you to visualize how AI can create value for your company and your customers.
 >
-> **[0:08](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/how-google-deploys-ai-to-create-user-value?u=76281980&t=8)** Let's look at some of the concrete ways that Google accompany all of us interact with uses AI to create value for its customers.
+> **[0:08](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/how-google-deploys-ai-to-create-user-value?u=76281980&t=8)** Let's look at some of the concrete ways that [[Google]] accompany all of us interact with uses AI to create value for its customers.
 >
-> **[0:19](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/how-google-deploys-ai-to-create-user-value?u=76281980&t=19)** Even among technology giants, Google stands out as the leader, both in developing the AI technology, as well as deploying it to power the diversity of its products and services.
+> **[0:19](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/how-google-deploys-ai-to-create-user-value?u=76281980&t=19)** Even among technology giants, Google stands out as the leader, both in developing the AI technology, as well as deploying it to power the diversity of its [[Microsoft Products|products]] and services.
 >
 > **[0:33](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/how-google-deploys-ai-to-create-user-value?u=76281980&t=33)** Of the thousand different ways that Google deploys AI, from driverless cars, to advertising, to YouTube, let me highlight three of their latest applications.
 >
@@ -300,7 +296,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/how-google-deploys-ai-to-create-user-value?u=76281980&t=50)** Google has long deployed AI to make search more relevant to users.
 >
-> **[0:56](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/how-google-deploys-ai-to-create-user-value?u=76281980&t=56)** Examples include voice search, which enables users to pose queries via speech and RankBrain, which uses neural networks to increase the relevance of search results.
+> **[0:56](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/how-google-deploys-ai-to-create-user-value?u=76281980&t=56)** Examples include voice search, which enables users to pose queries via speech and RankBrain, which uses [[Neural Networks]] to increase the relevance of search results.
 >
 > **[1:11](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/how-google-deploys-ai-to-create-user-value?u=76281980&t=71)** The latest advance is MUM, short for Multitask Unified Model, which was showcased in mid 2021 and represents a step improvement.
 >
@@ -346,7 +342,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Google]] (10), [[Search]] (5), [[Microsoft Products|Products]] (3), cloud (2)
+> **Frameworks & Libraries:** [[Google]] (10), [[Microsoft Products|Products]] (3), [[Neural Networks]] (1)
 > **Env Vars:** mum (3), ceo (2)
 > **CLI Commands:** make (3)
 > **Definitions:** short for (1), in other words (1)
@@ -358,8 +354,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building a robust data pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/building-a-robust-data-pipeline?u=76281980)
+#### [Building a robust data pipeline](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/building-a-robust-data-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -423,7 +418,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/building-a-robust-data-pipeline?u=76281980&t=277)** Another important action is to standardize, automate, and centralize the collection of data from every transaction.
 >
-> **[4:48](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/building-a-robust-data-pipeline?u=76281980&t=288)** Most importantly, organizations need proactive operational protocols, defining the what, why, how, and who of data collection.
+> **[4:48](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/building-a-robust-data-pipeline?u=76281980&t=288)** Most importantly, organizations need proactive operational protocols, defining the what, why, how, and who of [[Data Collection]].
 >
 > **[5:02](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/building-a-robust-data-pipeline?u=76281980&t=302)** Now, consider two opportunities in your organization to train and deploy AI models.
 >
@@ -431,14 +426,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), data (8), database (3), hr (1)
+> **Frameworks & Libraries:** [[Data Collection]] (1)
 > **Analogies:** for example (2)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - data (1)
 
-#### Different types of machine learning algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/different-types-of-machine-learning-algorithms?u=76281980)
+#### [Different types of machine learning algorithms](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/different-types-of-machine-learning-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -448,13 +442,13 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/different-types-of-machine-learning-algorithms?u=76281980&t=27)** Think of the algorithm as a specialized computer program designed to help an ML model learn to do a particular task intelligently.
 >
-> **[0:39](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/different-types-of-machine-learning-algorithms?u=76281980&t=39)** At a macro level, there are three different types of machine learning algorithms, each relevant for certain types of tasks.
+> **[0:39](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/different-types-of-machine-learning-algorithms?u=76281980&t=39)** At a macro level, there are three different types of machine learning [[Algorithms]], each relevant for certain types of tasks.
 >
-> **[0:50](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/different-types-of-machine-learning-algorithms?u=76281980&t=50)** I use the word type to highlight that there are exist many different algorithms within each type.
+> **[0:50](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/different-types-of-machine-learning-algorithms?u=76281980&t=50)** I use the [[Microsoft Word|word]] type to highlight that there are exist many different algorithms within each type.
 >
 > **[0:58](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/different-types-of-machine-learning-algorithms?u=76281980&t=58)** Also, ML engineers keep tweaking their algorithms regularly.
 >
-> **[1:06](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/different-types-of-machine-learning-algorithms?u=76281980&t=66)** Supervised learning refers to those machine learning algorithms where the machine learns from answer keys provided in the training data.
+> **[1:06](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/different-types-of-machine-learning-algorithms?u=76281980&t=66)** [[Supervised Learning]] refers to those machine learning algorithms where the machine learns from answer keys provided in the training data.
 >
 > **[1:18](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/different-types-of-machine-learning-algorithms?u=76281980&t=78)** For example, in developing an ML model to classify incoming emails as spam/not spam, each email in the training dataset must have a pre-specified label denoting whether it is spam or not.
 >
@@ -480,7 +474,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/different-types-of-machine-learning-algorithms?u=76281980&t=200)** The algorithm builds the recommendation engine by making use of everything in the database about your historical viewing choices and mapping them against the choices made by other users whose viewing habits are very similar to yours.
 >
-> **[3:42](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/different-types-of-machine-learning-algorithms?u=76281980&t=222)** Finally, reinforcement learning refers to those machine learning algorithms that must train an ML model to make a sequence of interrelated decisions where the quality of any particular decisions rests fundamentally on future decisions yet to be made.
+> **[3:42](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/different-types-of-machine-learning-algorithms?u=76281980&t=222)** Finally, [[Reinforcement Learning]] refers to those machine learning algorithms that must train an ML model to make a sequence of interrelated decisions where the quality of any particular decisions rests fundamentally on future decisions yet to be made.
 >
 > **[4:05](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/different-types-of-machine-learning-algorithms?u=76281980&t=245)** For example, playing a game of chess or driving a car autonomously from a decision making lens.
 >
@@ -500,15 +494,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (6), data (4), ai (3), [[Supervised Learning]] (3), game (2)
+> **Frameworks & Libraries:** [[Algorithms]] (6), [[Supervised Learning]] (3), [[Microsoft Word|Word]] (1), [[Reinforcement Learning]] (1)
 > **Analogies:** such as (3), for example (2), similar to (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **UI Navigation:** open the (1)
 > **Speakers:** - the (1)
 
-#### Training an AI model
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/training-an-ai-model?u=76281980)
+#### [Training an AI model](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/training-an-ai-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -526,9 +519,9 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/training-an-ai-model?u=76281980&t=67)** You would then get the data cleaned up and the various labels and formats standardized across all transactions.
 >
-> **[1:17](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/training-an-ai-model?u=76281980&t=77)** Since you already have an answer key in your training dataset, that is for each car, values of input features and the resulting sales price, it is clear that this context requires a supervised learning algorithm.
+> **[1:17](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/training-an-ai-model?u=76281980&t=77)** Since you already have an answer key in your training dataset, that is for each car, values of input features and the resulting sales price, it is clear that this context requires a [[Supervised Learning]] algorithm.
 >
-> **[1:35](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/training-an-ai-model?u=76281980&t=95)** It'll generally be wise for you to pick a few different, but pertinent supervised learning algorithms.
+> **[1:35](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/training-an-ai-model?u=76281980&t=95)** It'll generally be wise for you to pick a few different, but pertinent supervised learning [[Algorithms]].
 >
 > **[1:44](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/training-an-ai-model?u=76281980&t=104)** Train an ML model on each algorithm and then pick the algorithm that beats others in yielding the best model.
 >
@@ -554,7 +547,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/training-an-ai-model?u=76281980&t=240)** Hidden layers increase the model's ability to look for complex interrelationships among the various input features that determine the output value.
 >
-> **[4:13](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/training-an-ai-model?u=76281980&t=253)** It's the multiplicity of hidden layers that differentiates deep neural networks from shallow neural networks.
+> **[4:13](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/training-an-ai-model?u=76281980&t=253)** It's the multiplicity of hidden layers that differentiates deep [[Neural Networks]] from shallow neural networks.
 >
 > **[4:24](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/training-an-ai-model?u=76281980&t=264)** Once the hyperparameters are specified, you let each algorithm train its ML model.
 >
@@ -574,7 +567,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Algorithms]] (4), [[Supervised Learning]] (2), [[Neural Networks]] (2), database (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Supervised Learning]] (2), [[Neural Networks]] (2)
 > **Definitions:** refers to (3)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
@@ -585,12 +578,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using AI for deeper market research
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-deeper-market-research?u=76281980)
+#### [Using AI for deeper market research](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-deeper-market-research?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-deeper-market-research?u=76281980&t=0)** - Doing business without market research is akin to flying an airplane blind.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-deeper-market-research?u=76281980&t=0)** - Doing business without [[Market Research]] is akin to flying an airplane blind.
 >
 > **[0:08](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-deeper-market-research?u=76281980&t=8)** While casual market research is as old as human civilization, systematic market research began in the 1920s, and is now a well-developed discipline.
 >
@@ -600,7 +592,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-deeper-market-research?u=76281980&t=53)** What are they willing to pay and why?
 >
-> **[0:57](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-deeper-market-research?u=76281980&t=57)** What do they expect from your products and services?
+> **[0:57](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-deeper-market-research?u=76281980&t=57)** What do they expect from your [[Microsoft Products|products]] and services?
 >
 > **[1:00](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-deeper-market-research?u=76281980&t=60)** How do they perceive what you offer?
 >
@@ -610,13 +602,13 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-deeper-market-research?u=76281980&t=72)** How are these changing?
 >
-> **[1:15](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-deeper-market-research?u=76281980&t=75)** AI's biggest impact lies in using the power of natural language processing and computer vision to tap into unstructured data.
+> **[1:15](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-deeper-market-research?u=76281980&t=75)** AI's biggest impact lies in using the power of [[Natural Language Processing (NLP)|natural language processing]] and [[Computer Vision]] to tap into [[Unstructured Data]].
 >
 > **[1:26](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-deeper-market-research?u=76281980&t=86)** Doing so can broaden the external ecosystem that can be tapped into, and deepen the insights gathered from doing so.
 >
 > **[1:37](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-deeper-market-research?u=76281980&t=97)** Let me highlight four of the most important ways AI can help you tap into unstructured data for market research.
 >
-> **[1:47](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-deeper-market-research?u=76281980&t=107)** First, AI can help marketers capture the information embedded in social media posts on platforms such as LinkedIn, Facebook, Twitter, TikTok, YouTube, and the like.
+> **[1:47](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-deeper-market-research?u=76281980&t=107)** First, AI can help marketers capture the information embedded in social media posts on platforms such as [[LinkedIn]], Facebook, Twitter, TikTok, YouTube, and the like.
 >
 > **[2:00](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-deeper-market-research?u=76281980&t=120)** Worldwide, every single adult younger than 40 already spends more than two hours on social media every single day.
 >
@@ -650,13 +642,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Market Research]] (8), [[Unstructured Data]] (3), [[Microsoft Products|Products]] (2), business (1)
+> **Frameworks & Libraries:** [[Market Research]] (8), [[Unstructured Data]] (3), [[Microsoft Products|Products]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Computer Vision]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
 > **Speakers:** - doing (1)
 
-#### Using AI for hyper market segmentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-hyper-market-segmentation?u=76281980)
+#### [Using AI for hyper market segmentation](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-hyper-market-segmentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -686,7 +677,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-hyper-market-segmentation?u=76281980&t=97)** Combining internal with external data can give marketers far richer insights into the peculiarities of every single buyer.
 >
-> **[1:49](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-hyper-market-segmentation?u=76281980&t=109)** Unsupervised machine learning algorithms such as K-means clustering, can parse us through this large, growing, and constantly changing database more precisely than traditional statistical measures.
+> **[1:49](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-hyper-market-segmentation?u=76281980&t=109)** Unsupervised machine learning [[Algorithms]] such as [[k-means clustering]], can parse us through this large, growing, and constantly changing database more precisely than traditional statistical measures.
 >
 > **[2:06](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-hyper-market-segmentation?u=76281980&t=126)** This is how AI-savvy banks and insurers can develop a finely tailored risk profile of each customer.
 >
@@ -696,7 +687,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-hyper-market-segmentation?u=76281980&t=164)** AI can also help develop more finely tailored marketing campaigns, delivering the right message to the right target audience via the right channels at the right time.
 >
-> **[2:58](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-hyper-market-segmentation?u=76281980&t=178)** Each time you search for something on Google or Amazon, the company learns a bit more about what you want right now in real time.
+> **[2:58](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-hyper-market-segmentation?u=76281980&t=178)** Each time you search for something on [[Google]] or Amazon, the company learns a bit more about what you want right now in real time.
 >
 > **[3:09](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-hyper-market-segmentation?u=76281980&t=189)** This data goes immediately to work, sending you tailored messages that have proved effective with people most similar to you along a broad array of factors.
 >
@@ -706,13 +697,13 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-hyper-market-segmentation?u=76281980&t=215)** Let's say the goal is to decode what combination of a headline, image, copy, colors, and time of delivery of an ad would be most effective for each viewer.
 >
-> **[3:49](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-hyper-market-segmentation?u=76281980&t=229)** Based on past data, the algorithm could begin by serving viewers different combinations with a high probability of success.
+> **[3:49](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-hyper-market-segmentation?u=76281980&t=229)** Based on past data, the algorithm could begin by serving viewers different combinations with a high [[Probability]] of success.
 >
 > **[3:59](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-hyper-market-segmentation?u=76281980&t=239)** It would then learn by looking at who clicks on which combination.
 >
 > **[4:05](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-hyper-market-segmentation?u=76281980&t=245)** Through further iterations, it would have refined the segmentation, as well as become smarter at serving even more customized messages and formats for each viewer.
 >
-> **[4:21](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-hyper-market-segmentation?u=76281980&t=261)** The root cause behind much of the waste in marketing budgets is knowing only partially, or not at all, what products or service a potential customer may be ready to buy.
+> **[4:21](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-hyper-market-segmentation?u=76281980&t=261)** The root cause behind much of the waste in marketing budgets is knowing only partially, or not at all, what [[Microsoft Products|products]] or service a potential customer may be ready to buy.
 >
 > **[4:35](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-hyper-market-segmentation?u=76281980&t=275)** Or if they are already inclined to buy something, how to upsell, and what to cross-sell.
 >
@@ -728,14 +719,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), ai (6), feature (1), [[Algorithms]] (1), [[k-means clustering]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[k-means clustering]] (1), [[Google]] (1), [[Probability]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (1), similar to (1)
 > **Env Vars:** dna (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - diversity (1)
 
-#### Using AI to drive product innovation
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980)
+#### [Using AI to drive product innovation](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -743,7 +733,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=6)** As an embedded feature of the end product or as a tool to design and develop the end product.
 >
-> **[0:16](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=16)** I use the generic term product to refer to both products and services.
+> **[0:16](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=16)** I use the generic term product to refer to both [[Microsoft Products|products]] and services.
 >
 > **[0:23](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=23)** Let's look at AI as an embedded feature of the end product.
 >
@@ -755,11 +745,11 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=54)** And some not at all.
 >
-> **[0:56](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=56)** The next step is to explore how one or more AI tools, computer vision, natural language processing, complex computational capability or robotics can be embedded in the product to meet these needs more completely.
+> **[0:56](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=56)** The next step is to explore how one or more AI tools, [[Computer Vision]], [[Natural Language Processing (NLP)|natural language processing]], complex computational capability or robotics can be embedded in the product to meet these needs more completely.
 >
-> **[1:15](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=75)** As an example, take John Deere's see and spray tractors.
+> **[1:15](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=75)** As an example, take [[John the Ripper|John]] Deere's see and spray tractors.
 >
-> **[1:21](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=81)** In recent years, environmental sustainability has become a growing imperative for farmers.
+> **[1:21](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=81)** In recent years, [[Environmental Sustainability]] has become a growing imperative for farmers.
 >
 > **[1:29](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=89)** Meeting this goal requires that farmers cut down on the use of chemicals.
 >
@@ -771,13 +761,13 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=123)** An untrained human eye would have a tough time distinguishing between a crop and a weed.
 >
-> **[2:10](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=130)** However, a neural network trained through a million images, a case of supervised learning is able to classify a weed from a crop almost flawlessly.
+> **[2:10](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=130)** However, a neural network trained through a million images, a case of [[Supervised Learning]] is able to classify a weed from a crop almost flawlessly.
 >
 > **[2:24](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=144)** The AI then directs automated nozzles to spray herbicides on just the weeds.
 >
 > **[2:32](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=152)** The end result for the farmer, 80% reduction in the use of herbicides, as well as significant cost savings.
 >
-> **[2:42](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=162)** Let's now look at AI as a tool for product development.
+> **[2:42](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=162)** Let's now look at AI as a tool for [[Product Development]].
 >
 > **[2:48](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=168)** By way of example, consider the challenge of developing small organic molecules.
 >
@@ -789,13 +779,13 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=208)** Segler fed the AI system almost all of the known single step organic chemistry reactions, about 12.4 million in total.
 >
-> **[3:40](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=220)** He specified the end goal, a specific desired organic molecule, a reinforcement learning algorithm, then got to work using a neural network to discover a multi-step synthesis route, and the required starting reagents, the benefits, speed, efficiency, and cost savings.
+> **[3:40](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=220)** He specified the end goal, a specific desired organic molecule, a [[Reinforcement Learning]] algorithm, then got to work using a neural network to discover a multi-step synthesis route, and the required starting reagents, the benefits, speed, efficiency, and cost savings.
 >
 > **[4:04](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=244)** Interestingly, now that Segler has demonstrated what AI can do, it has become possible for chemists to invent new drug molecules not previously thought possible.
 >
 > **[4:18](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=258)** The opportunities to use AI as a tool for accelerating product innovation are universal.
 >
-> **[4:27](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=267)** They include making sense of unstructured data for gaining deep insights about customers' needs, as well as exploring a much larger number of possible designs to discover a short list of the best options.
+> **[4:27](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=267)** They include making sense of [[Unstructured Data]] for gaining deep insights about customers' needs, as well as exploring a much larger number of possible designs to discover a short list of the best options.
 >
 > **[4:45](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-to-drive-product-innovation?u=76281980&t=285)** Now think of at least one innovation opportunity of each type within your company.
 >
@@ -805,7 +795,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), product (7), feature (2), [[Microsoft Products|Products]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Computer Vision]] (2), [[John the Ripper|John]] (2), [[Product Development]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **CLI Commands:** find (2)
 > **Versions:** 12.4 (1)
 > **Speakers:** - ai (1)
@@ -815,8 +805,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using AI for managing the supply chain network
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-the-supply-chain-network?u=76281980)
+#### [Using AI for managing the supply chain network](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-the-supply-chain-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -846,9 +835,9 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-the-supply-chain-network?u=76281980&t=128)** To create such a network, leading edge companies are starting to build digital twins of their supply networks, deploying AI to manage the digital twins and using the output to augment their decisions and actions.
 >
-> **[2:26](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-the-supply-chain-network?u=76281980&t=146)** A digital twin refers to a simulation of the physical network in a computer, creating a replica that mirrors real world objects and the links between them.
+> **[2:26](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-the-supply-chain-network?u=76281980&t=146)** A digital twin refers to a [[Simulation]] of the physical network in a computer, creating a replica that mirrors real world objects and the links between them.
 >
-> **[2:40](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-the-supply-chain-network?u=76281980&t=160)** The digital twin integrates the company's internal private data, including IoT sensors with external public data, such as satellite images, weather predictions and political developments.
+> **[2:40](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-the-supply-chain-network?u=76281980&t=160)** The digital twin integrates the company's internal private data, including [[IoT]] sensors with external public data, such as satellite images, weather predictions and political developments.
 >
 > **[2:55](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-the-supply-chain-network?u=76281980&t=175)** Let's say you have a supplier in Wenzhou, China, the digital twin can automatically incorporate the risk of an incoming hurricane, something that will be hard for people to do when dealing with dozens or even hundreds of nodes and links.
 >
@@ -858,7 +847,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-the-supply-chain-network?u=76281980&t=209)** While simulating reality is not a new idea, the value of AI models lies in their ability to decipher non-linear interactions among very large and constantly changing sets of data, both structured and unstructured.
 >
-> **[3:48](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-the-supply-chain-network?u=76281980&t=228)** Similar to interactive games such as chess and Go, reinforcement learning algorithms, train specific AI models by playing millions of what if games on the multidimensional board of a digital twin.
+> **[3:48](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-the-supply-chain-network?u=76281980&t=228)** Similar to interactive games such as chess and Go, [[Reinforcement Learning]] [[Algorithms]], train specific AI models by playing millions of what if games on the multidimensional board of a digital twin.
 >
 > **[4:07](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-the-supply-chain-network?u=76281980&t=247)** Once the model has mastered a particular supply chain network, it springs into action when needed.
 >
@@ -872,7 +861,7 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-the-supply-chain-network?u=76281980&t=289)** Companies such as Amazon have been using the digital twin concept to manage their supply chains for some time.
 >
-> **[4:58](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-the-supply-chain-network?u=76281980&t=298)** Now, tech providers, such as Google and Nvidia, have started offering these capabilities to other companies.
+> **[4:58](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-the-supply-chain-network?u=76281980&t=298)** Now, tech providers, such as [[Google]] and Nvidia, have started offering these capabilities to other companies.
 >
 > **[5:08](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-the-supply-chain-network?u=76281980&t=308)** Building on these ideas, you may want to analyze your company's supply chain as well.
 >
@@ -882,14 +871,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (3), node (1), [[Simulation]] (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (1), [[IoT]] (1), [[Reinforcement Learning]] (1), [[Algorithms]] (1), [[Google]] (1)
 > **Analogies:** such as (5), similar to (1)
 > **Definitions:** is a  (1), refers to (1), is an  (1)
 > **CLI Commands:** node (1)
 > **Speakers:** - supply (1)
 
-#### Using AI for managing internal operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-internal-operations?u=76281980)
+#### [Using AI for managing internal operations](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-internal-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -909,7 +897,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-internal-operations?u=76281980&t=84)** This richness of inputs enables engineers to simulate the actual working of the factory at a level much closer to reality.
 >
-> **[1:36](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-internal-operations?u=76281980&t=96)** And many of today's AI algorithms simply did not exist even 15 years back.
+> **[1:36](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-internal-operations?u=76281980&t=96)** And many of today's AI [[Algorithms]] simply did not exist even 15 years back.
 >
 > **[1:44](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-internal-operations?u=76281980&t=104)** As these algorithms run through millions of cycles to gather training data, they help the engineers understand what's suboptimal and how they might tweak the overall factory design.
 >
@@ -925,7 +913,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-internal-operations?u=76281980&t=151)** How does DoorDash predict the delivery time?
 >
-> **[2:35](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-internal-operations?u=76281980&t=155)** The company uses a supervised learning algorithm to train its ML model.
+> **[2:35](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-internal-operations?u=76281980&t=155)** The company uses a [[Supervised Learning]] algorithm to train its ML model.
 >
 > **[2:42](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-managing-internal-operations?u=76281980&t=162)** Historical training data include the actual delivery time, as well as input details pertaining to each order, the merchant, a timestamp, as well as details pertaining to the neighborhood, such as number of outstanding orders, number of available couriers, day of the week, holiday or not, et cetera.
 >
@@ -965,15 +953,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), data (3), [[Algorithms]] (2), [[Supervised Learning]] (2), traffic (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Supervised Learning]] (2)
 > **Env Vars:** bmw (3), nvidia (2)
 > **URLs:** [landing.ai](https://landing.ai) (3)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (1)
 > **Speakers:** - three (1)
 
-#### Using AI for human resource management
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-human-resource-management?u=76281980)
+#### [Using AI for human resource management](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-human-resource-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -985,13 +972,13 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-human-resource-management?u=76281980&t=27)** People may put up with perceived unfairness in many contexts, but if it's their livelihood and sense of self-worth, perceived unfairness can easily lead to tearing the company in the media, lawsuits, or even violence.
 >
-> **[0:48](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-human-resource-management?u=76281980&t=48)** Companies need to be particularly conscious about using AI for HR in ethical and bias-free ways.
+> **[0:48](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-human-resource-management?u=76281980&t=48)** Companies need to be particularly conscious about using [[AI for HR]] in ethical and bias-free ways.
 >
-> **[0:58](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-human-resource-management?u=76281980&t=58)** Let's start with the use of AI by job search platforms, such as LinkedIn and ZipRecruiter.
+> **[0:58](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-human-resource-management?u=76281980&t=58)** Let's start with the use of AI by job search platforms, such as [[LinkedIn]] and ZipRecruiter.
 >
 > **[1:06](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-human-resource-management?u=76281980&t=66)** These platforms recommend open positions to individuals and candidates to companies.
 >
-> **[1:14](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-human-resource-management?u=76281980&t=74)** Nearly always, the platform needs to use natural language processing to decode an individual's credentials on the one hand, and job requirements on the other.
+> **[1:14](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-human-resource-management?u=76281980&t=74)** Nearly always, the platform needs to use [[Natural Language Processing (NLP)|natural language processing]] to decode an individual's credentials on the one hand, and job requirements on the other.
 >
 > **[1:28](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-human-resource-management?u=76281980&t=88)** Consider now the use of AI to screen candidates.
 >
@@ -999,13 +986,13 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-human-resource-management?u=76281980&t=98)** The input always includes resume information, but may also include asynchronous video interviews.
 >
-> **[1:47](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-human-resource-management?u=76281980&t=107)** Companies can also look at the candidates' social media posts and government databases, such as police records.
+> **[1:47](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-human-resource-management?u=76281980&t=107)** Companies can also look at the candidates' social media posts and government [[Databases]], such as police records.
 >
 > **[1:56](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-human-resource-management?u=76281980&t=116)** AI models play a crucial role in screening this information.
 >
 > **[2:03](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-human-resource-management?u=76281980&t=123)** Natural language processing technology is essential to decode the candidate's application, as well as text-based social media postings.
 >
-> **[2:15](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-human-resource-management?u=76281980&t=135)** In turn, computer vision technology is essential to interpret video interviews as well as images, and video posts on social media.
+> **[2:15](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-human-resource-management?u=76281980&t=135)** In turn, [[Computer Vision]] technology is essential to interpret video interviews as well as images, and video posts on social media.
 >
 > **[2:27](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-human-resource-management?u=76281980&t=147)** There are no ethical issues with using AI to decode the candidate's application and to assess fit with the company's needs.
 >
@@ -1023,7 +1010,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-human-resource-management?u=76281980&t=200)** These posts exist in the public domain, and the content can be analyzed well to assess someone's interests and views, though not their personality.
 >
-> **[3:33](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-human-resource-management?u=76281980&t=213)** The issue is privacy.
+> **[3:33](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-human-resource-management?u=76281980&t=213)** The issue is [[Privacy]].
 >
 > **[3:36](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/using-ai-for-human-resource-management?u=76281980&t=216)** Also, some governments require that if asked by a candidate, the company must be able to explain specifically why he or she was rejected.
 >
@@ -1059,7 +1046,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (20), hr (3), [[Search]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Databases]] (2), [[AI for HR]] (1), [[LinkedIn]] (1), [[Computer Vision]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (2)
 > **Best Practices:** bad practice (1)
@@ -1070,8 +1057,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Decision-Making by machines: Moral dilemmas
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/decision-making-by-machines-moral-dilemmas?u=76281980)
+#### [Decision-Making by machines: Moral dilemmas](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/decision-making-by-machines-moral-dilemmas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1081,13 +1067,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/decision-making-by-machines-moral-dilemmas?u=76281980&t=17)** First, over time, we humans will let AI augment many of our decisions.
 >
-> **[0:23](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/decision-making-by-machines-moral-dilemmas?u=76281980&t=23)** Second, and more interestingly, we will let AI act autonomously in a growing number of contexts without any real-time input from us.
+> **[0:23](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/decision-making-by-machines-moral-dilemmas?u=76281980&t=23)** Second, and more interestingly, we will let AI act autonomously in a growing number of contexts without any [[Real-Time]] input from us.
 >
 > **[0:35](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/decision-making-by-machines-moral-dilemmas?u=76281980&t=35)** Look at the use of AI to screen job applications submitted online.
 >
 > **[0:41](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/decision-making-by-machines-moral-dilemmas?u=76281980&t=41)** Most HR departments let AI do the screening autonomously without any real-time input from recruiters.
 >
-> **[0:51](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/decision-making-by-machines-moral-dilemmas?u=76281980&t=51)** Look at Google's use of AI to cool its data centers.
+> **[0:51](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/decision-making-by-machines-moral-dilemmas?u=76281980&t=51)** Look at [[Google]]'s use of AI to cool its data centers.
 >
 > **[0:55](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/decision-making-by-machines-moral-dilemmas?u=76281980&t=55)** Initially, Google used AI to recommend desired actions.
 >
@@ -1147,15 +1133,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), [[Real-Time]] (3), hit (3), [[Google]] (2), hr (1)
+> **Frameworks & Libraries:** [[Real-Time]] (3), [[Google]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - ai (1)
 
-#### Guarding against the risks of algorithmic bias
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/guarding-against-the-risks-of-algorithmic-bias?u=76281980)
+#### [Guarding against the risks of algorithmic bias](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/guarding-against-the-risks-of-algorithmic-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1209,7 +1194,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/guarding-against-the-risks-of-algorithmic-bias?u=76281980&t=251)** At a broader organizational and societal level, measures to reduce the risks of algorithmic bias include a diverse AI talent pool so that the developers are sensitive to the risks of AI bias.
 >
-> **[4:29](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/guarding-against-the-risks-of-algorithmic-bias?u=76281980&t=269)** Mandatory AI ethics courses in engineering and computer science programs, and even regulatory actions by policy makers.
+> **[4:29](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/guarding-against-the-risks-of-algorithmic-bias?u=76281980&t=269)** Mandatory AI [[Ethics]] courses in engineering and computer science programs, and even regulatory actions by policy makers.
 >
 > **[4:40](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/guarding-against-the-risks-of-algorithmic-bias?u=76281980&t=280)** The European Union is one such government actively contemplating regulatory actions, especially in news contexts where the harm caused by biased AI models is likely to be high.
 >
@@ -1225,13 +1210,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (20), data (4), business (1), [[Ethics]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **Env Vars:** mri (1)
 > **Speakers:** - when (1)
 
-#### Mitigating AI’s possible negative impact on jobs
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/mitigating-ai-s-possible-negative-impact-on-jobs?u=76281980)
+#### [Mitigating AI’s possible negative impact on jobs](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/mitigating-ai-s-possible-negative-impact-on-jobs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1245,7 +1229,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/mitigating-ai-s-possible-negative-impact-on-jobs?u=76281980&t=34)** The farmer will spend much more time operating drones and AI-powered farming machinery than physical work in the field.
 >
-> **[0:45](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/mitigating-ai-s-possible-negative-impact-on-jobs?u=76281980&t=45)** And computer vision and biometric entry will eliminate the need for many security guards.
+> **[0:45](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/mitigating-ai-s-possible-negative-impact-on-jobs?u=76281980&t=45)** And [[Computer Vision]] and biometric entry will eliminate the need for many security guards.
 >
 > **[0:52](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/mitigating-ai-s-possible-negative-impact-on-jobs?u=76281980&t=52)** AI will affect jobs in three ways.
 >
@@ -1297,7 +1281,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/mitigating-ai-s-possible-negative-impact-on-jobs?u=76281980&t=239)** Business leaders should treat job elimination by AI not merely as an opportunity to reduce costs, but also as an opportunity to redeploy the freed-up workforce towards expanding customer value.
 >
-> **[4:16](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/mitigating-ai-s-possible-negative-impact-on-jobs?u=76281980&t=256)** For example, in retail stores, former cashiers could be redeployed to other in-store opportunities, such as helping customers find products and even cross-selling or upselling.
+> **[4:16](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/mitigating-ai-s-possible-negative-impact-on-jobs?u=76281980&t=256)** For example, in retail stores, former cashiers could be redeployed to other in-store opportunities, such as helping customers find [[Microsoft Products|products]] and even cross-selling or upselling.
 >
 > **[4:31](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/mitigating-ai-s-possible-negative-impact-on-jobs?u=76281980&t=271)** Finally, let's look at how the rise of AI is likely to create entirely new jobs.
 >
@@ -1311,7 +1295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), [[Security]] (2), data (2), [[Computer Vision]] (1), business (1)
+> **Frameworks & Libraries:** [[Computer Vision]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (4), imagine (3), for example (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - according (1)
@@ -1321,24 +1305,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### From ideas to actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/from-ideas-to-actions?u=76281980)
+#### [From ideas to actions](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/from-ideas-to-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/from-ideas-to-actions?u=76281980&t=0)** - Artificial intelligence is transforming every function in every industry, be it agriculture, banking, healthcare, or transportation.
+> **[0:00](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/from-ideas-to-actions?u=76281980&t=0)** - [[Artificial Intelligence (AI)|Artificial intelligence]] is transforming every function in every industry, be it agriculture, [[Banking]], healthcare, or transportation.
 >
 > **[0:10](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/from-ideas-to-actions?u=76281980&t=10)** - Here are some of the key takeaways from this course on artificial intelligence and business strategy.
 >
 > **[0:17](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/from-ideas-to-actions?u=76281980&t=17)** - AI can be defined as any computer system that mimics, to at least some degree, natural intelligence exhibited by humans and other species.
 >
-> **[0:29](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/from-ideas-to-actions?u=76281980&t=29)** - [Haiyan] The three major approaches to developing AI are supervised learning, unsupervised learning, and reinforcement learning.
+> **[0:29](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/from-ideas-to-actions?u=76281980&t=29)** - [Haiyan] The three major approaches to developing AI are [[Supervised Learning]], unsupervised learning, and [[Reinforcement Learning]].
 >
 > **[0:39](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/from-ideas-to-actions?u=76281980&t=39)** - Data to AI is like fuel to a fire.
 >
 > **[0:43](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/from-ideas-to-actions?u=76281980&t=43)** The cleaner, richer, and larger the dataset on which it is trained, the more accurate your AI model will be.
 >
-> **[0:53](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/from-ideas-to-actions?u=76281980&t=53)** - For market research, AI's biggest impact lies in using the power of natural language processing and computer vision to tap into unstructured data.
+> **[0:53](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/from-ideas-to-actions?u=76281980&t=53)** - For [[Market Research]], AI's biggest impact lies in using the power of [[Natural Language Processing (NLP)|natural language processing]] and [[Computer Vision]] to tap into [[Unstructured Data]].
 >
 > **[1:05](https://www.linkedin.com/learning/artificial-intelligence-and-business-strategy/from-ideas-to-actions?u=76281980&t=65)** - AI can help hypersegmentation strategies where each buyer and each user could eventually become a segment of one.
 >
@@ -1364,7 +1347,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), product (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), data (2), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Banking]] (1), [[Supervised Learning]] (1), [[Reinforcement Learning]] (1), [[Market Research]] (1)
 > **Speakers:** - ai (4), - since (2), - artificial (1), - here (1), - [haiyan] (1)
 > **Definitions:** defined as (1)
 

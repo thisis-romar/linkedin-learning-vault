@@ -97,16 +97,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with Apache Kafka
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/getting-started-with-apache-kafka?u=76281980)
+#### [Getting started with Apache Kafka](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/getting-started-with-apache-kafka?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/getting-started-with-apache-kafka?u=76281980&t=0)** - [Instructor] Apache Kafka is the leading open-source technology for message queuing and distribution with widespread adoption.
+> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/getting-started-with-apache-kafka?u=76281980&t=0)** - [Instructor] [[Apache Kafka]] is the leading open-source technology for message queuing and distribution with widespread adoption.
 >
 > **[0:09](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/getting-started-with-apache-kafka?u=76281980&t=9)** My name is Kumaran Ponnambalam.
 >
-> **[0:11](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/getting-started-with-apache-kafka?u=76281980&t=11)** In this course, I will introduce Apache Kafka and show you how to build data pipelines with it.
+> **[0:11](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/getting-started-with-apache-kafka?u=76281980&t=11)** In this course, I will introduce Apache Kafka and show you how to build [[Data Pipelines]] with it.
 >
 > **[0:18](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/getting-started-with-apache-kafka?u=76281980&t=18)** We will start off with various concepts, benefits, and use cases of Apache Kafka.
 >
@@ -114,15 +113,15 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/getting-started-with-apache-kafka?u=76281980&t=29)** We will then discuss partitioning with Kafka.
 >
-> **[0:32](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/getting-started-with-apache-kafka?u=76281980&t=32)** Finally, we will build Apache Kafka clients using Java.
+> **[0:32](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/getting-started-with-apache-kafka?u=76281980&t=32)** Finally, we will build Apache Kafka clients using [[Java]].
 >
-> **[0:36](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/getting-started-with-apache-kafka?u=76281980&t=36)** To get the most out of this course, you should be familiar with big data concepts, Java programming, and Docker.
+> **[0:36](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/getting-started-with-apache-kafka?u=76281980&t=36)** To get the most out of this course, you should be familiar with [[Big Data]] concepts, Java programming, and Docker.
 >
 > **[0:45](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/getting-started-with-apache-kafka?u=76281980&t=45)** Let's now start learning about Apache Kafka.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Apache Kafka]] (5), data (2), [[Java]] (2), open-source (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Apache Kafka]] (5), [[Java]] (2), [[Data Pipelines]] (1), [[Big Data]] (1)
 > **CLI Commands:** apache (5), docker (1)
 > **Speakers:** - [instructor] (1)
 
@@ -131,12 +130,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Message queues
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/message-queues?u=76281980)
+#### [Message queues](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/message-queues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/message-queues?u=76281980&t=0)** - [Narrator] Before we dive into Apache Kafka, it is important to understand the publish/subscribe pattern and the benefits it provides.
+> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/message-queues?u=76281980&t=0)** - [Narrator] Before we dive into [[Apache Kafka]], it is important to understand the publish/subscribe pattern and the benefits it provides.
 >
 > **[0:10](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/message-queues?u=76281980&t=10)** Let's review publish/subscribe with message queues in this video.
 >
@@ -198,7 +196,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Apache Kafka]] (2), management (2), next (1)
+> **Frameworks & Libraries:** [[Apache Kafka]] (2)
 > **CLI Commands:** apache (2)
 > **Prerequisites:** configure (1), setup (1)
 > **Cross-References:** in the next (1)
@@ -206,12 +204,11 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [narrator] (1)
 
-#### What is Kafka?
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/what-is-kafka?u=76281980)
+#### [What is Kafka?](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/what-is-kafka?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/what-is-kafka?u=76281980&t=0)** - [Instructor] Having reviewed the benefits of the publish-subscribe pattern in message queues, let's dive into the most popular technology in that domain, namely Apache Kafka.
+> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/what-is-kafka?u=76281980&t=0)** - [Instructor] Having reviewed the benefits of the publish-subscribe pattern in message queues, let's dive into the most popular technology in that domain, namely [[Apache Kafka]].
 >
 > **[0:12](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/what-is-kafka?u=76281980&t=12)** What is Apache Kafka?
 >
@@ -221,7 +218,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/what-is-kafka?u=76281980&t=23)** The terms events and messages are used interchangeably in Kafka's context.
 >
-> **[0:29](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/what-is-kafka?u=76281980&t=29)** It is a critical piece of the big data puzzle and plays an integral part in many big data pipelines.
+> **[0:29](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/what-is-kafka?u=76281980&t=29)** It is a critical piece of the [[Big Data]] puzzle and plays an integral part in many big data pipelines.
 >
 > **[0:36](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/what-is-kafka?u=76281980&t=36)** Kafka is open source and can be downloaded and deployed free of cost.
 >
@@ -257,17 +254,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Apache Kafka]] (2), [[Big Data]] (2), concurrent (1)
+> **Frameworks & Libraries:** [[Apache Kafka]] (2), [[Big Data]] (2)
 > **CLI Commands:** apache (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Benefits of Kafka
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/benefits-of-kafka?u=76281980)
+#### [Benefits of Kafka](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/benefits-of-kafka?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/benefits-of-kafka?u=76281980&t=0)** - [Instructor] What are some of the key benefits of Apache Kafka?
+> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/benefits-of-kafka?u=76281980&t=0)** - [Instructor] What are some of the key benefits of [[Apache Kafka]]?
 >
 > **[0:05](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/benefits-of-kafka?u=76281980&t=5)** Kafka provides high throughput and can handle large quantities of data.
 >
@@ -275,7 +271,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/benefits-of-kafka?u=76281980&t=17)** It can provide such high throughput with low latency of a few milliseconds.
 >
-> **[0:23](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/benefits-of-kafka?u=76281980&t=23)** This enables a number of real-time use cases where the latency is not noticeable end to end.
+> **[0:23](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/benefits-of-kafka?u=76281980&t=23)** This enables a number of [[Real-Time]] use cases where the latency is not noticeable end to end.
 >
 > **[0:30](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/benefits-of-kafka?u=76281980&t=30)** Kafka provides excellent fault tolerance against failures, either within Kafka or with consumers.
 >
@@ -285,17 +281,17 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/benefits-of-kafka?u=76281980&t=51)** This enables ease of configuration and management.
 >
-> **[0:55](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/benefits-of-kafka?u=76281980&t=55)** It also makes software development a lot simpler, as the developer of the producer or consumer program only needs to deal with Kafka and does not have to worry about other producers or consumers of the same data.
+> **[0:55](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/benefits-of-kafka?u=76281980&t=55)** It also makes [[Software Development]] a lot simpler, as the developer of the producer or consumer program only needs to deal with Kafka and does not have to worry about other producers or consumers of the same data.
 >
 > **[1:10](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/benefits-of-kafka?u=76281980&t=70)** One benefit of decoupling and storage capabilities is back-pressure handling.
 >
 > **[1:15](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/benefits-of-kafka?u=76281980&t=75)** Even if the producers produce data in spikes, the consumers can catch up at their own pace, as Kafka provides the buffer in the middle, the whole data, until it is consumed.
 >
-> **[1:27](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/benefits-of-kafka?u=76281980&t=87)** Kafka provides horizontal scalability within its architecture, as well as for producers and consumers.
+> **[1:27](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/benefits-of-kafka?u=76281980&t=87)** Kafka provides horizontal [[Scalability]] within its architecture, as well as for producers and consumers.
 >
 > **[1:35](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/benefits-of-kafka?u=76281980&t=95)** The system can scale with addition of nodes without significant choke points.
 >
-> **[1:40](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/benefits-of-kafka?u=76281980&t=100)** This is essential for big data processing.
+> **[1:40](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/benefits-of-kafka?u=76281980&t=100)** This is essential for [[Big Data]] processing.
 >
 > **[1:43](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/benefits-of-kafka?u=76281980&t=103)** Kafka's low latency enables stream processing, while its store and forward capability enables batch applications.
 >
@@ -305,23 +301,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Apache Kafka]] (1), concurrent (1), [[Real-Time]] (1), management (1)
+> **Frameworks & Libraries:** [[Apache Kafka]] (1), [[Real-Time]] (1), [[Software Development]] (1), [[Scalability]] (1), [[Big Data]] (1)
 > **CLI Commands:** apache (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Kafka use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-use-cases?u=76281980)
+#### [Kafka use cases](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-use-cases?u=76281980&t=0)** - [Narrator] What are some of the popular use cases for Apache Kafka?
+> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-use-cases?u=76281980&t=0)** - [Narrator] What are some of the popular use cases for [[Apache Kafka]]?
 >
-> **[0:05](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-use-cases?u=76281980&t=5)** Kafka enables a wide variety of use cases for both batch processing and real-time streaming.
+> **[0:05](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-use-cases?u=76281980&t=5)** Kafka enables a wide variety of use cases for both [[Batch Processing]] and [[Real-Time]] streaming.
 >
 > **[0:12](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-use-cases?u=76281980&t=12)** To begin with, it can provide asynchronous messaging between services.
 >
-> **[0:17](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-use-cases?u=76281980&t=17)** Rather than use REST or RPC, a client service can send requests through Kafka and receive responses through Kafka.
+> **[0:17](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-use-cases?u=76281980&t=17)** Rather than use [[Representational State Transfer (REST)|REST]] or RPC, a client service can send requests through Kafka and receive responses through Kafka.
 >
 > **[0:26](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-use-cases?u=76281980&t=26)** It provides better reliability and manages back pressure on the server side.
 >
@@ -339,13 +334,13 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-use-cases?u=76281980&t=64)** Kafka enables the event sourcing pattern where the state of an entity can be determined using the events generated about state changes for that entity.
 >
-> **[1:15](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-use-cases?u=76281980&t=75)** This is a popular pattern for big data.
+> **[1:15](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-use-cases?u=76281980&t=75)** This is a popular pattern for [[Big Data]].
 >
 > **[1:18](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-use-cases?u=76281980&t=78)** Finally, Kafka enables real-time analytics.
 >
-> **[1:21](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-use-cases?u=76281980&t=81)** An Apache Spark or Apache Flink consumer can listen to messages in real time and generate windowed aggregations, analyze trends, and generate triggers, metrics, and actions.
+> **[1:21](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-use-cases?u=76281980&t=81)** An [[Apache Spark]] or Apache Flink consumer can listen to messages in real time and generate windowed aggregations, analyze trends, and generate triggers, metrics, and actions.
 >
-> **[1:34](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-use-cases?u=76281980&t=94)** This can be used to update real-time dashboards.
+> **[1:34](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-use-cases?u=76281980&t=94)** This can be used to update real-time [[Dashboards]].
 >
 > **[1:38](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-use-cases?u=76281980&t=98)** Having discussed the benefits and use cases of Kafka, let's now install the required software and get set up for the rest of the course.
 
@@ -358,8 +353,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Setting up the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/setting-up-the-exercise-files?u=76281980)
+#### [Setting up the exercise files](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/setting-up-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -369,7 +363,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/setting-up-the-exercise-files?u=76281980&t=11)** Please download in a similar location in your setup.
 >
-> **[0:14](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/setting-up-the-exercise-files?u=76281980&t=14)** There are two exercise files here: The Java project that is bundled into the kafka-getting-started.zip file and the Docker-compiled YAML file called kafka-single-node.yml.
+> **[0:14](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/setting-up-the-exercise-files?u=76281980&t=14)** There are two exercise files here: The [[Java]] project that is bundled into the kafka-getting-started.zip file and the Docker-compiled YAML file called kafka-single-node.yml.
 >
 > **[0:26](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/setting-up-the-exercise-files?u=76281980&t=26)** Let's first start to set up the Java project kafka-getting-started.zip.
 >
@@ -407,7 +401,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), node (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (4)
 > **CLI Commands:** make (2), docker (1), node (1), unzip (1)
 > **Env Vars:** idea (2), sdk (2), yaml (1)
 > **Prerequisites:** set up (3), setup (1)
@@ -416,8 +410,7 @@ created: 2026-05-02
 > **File Paths:** kafka-single-node.yml (1)
 > **Versions:** version 19 (1)
 
-#### Setting up Kafka
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/setting-up-kafka?u=76281980)
+#### [Setting up Kafka](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/setting-up-kafka?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -427,13 +420,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/setting-up-kafka?u=76281980&t=15)** We are going to set up a Kafka broker in Docker.
 >
-> **[0:18](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/setting-up-kafka?u=76281980&t=18)** If you're using either macOS or Windows, please install Docker Desktop from the Docker website.
+> **[0:18](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/setting-up-kafka?u=76281980&t=18)** If you're using either macOS or [[Windows]], please install Docker Desktop from the Docker website.
 >
 > **[0:25](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/setting-up-kafka?u=76281980&t=25)** We will be using the KRaft version of Kafka.
 >
 > **[0:29](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/setting-up-kafka?u=76281980&t=29)** This requires a single Kafka container.
 >
-> **[0:32](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/setting-up-kafka?u=76281980&t=32)** The Docker Compose configuration for the same is available in the kafka-single-node.yml file.
+> **[0:32](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/setting-up-kafka?u=76281980&t=32)** The Docker [[Jetpack Compose|Compose]] configuration for the same is available in the kafka-single-node.yml file.
 >
 > **[0:40](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/setting-up-kafka?u=76281980&t=40)** Let's explore this .yml file now.
 >
@@ -457,7 +450,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/setting-up-kafka?u=76281980&t=92)** Let's walk through the Kafka configuration now.
 >
-> **[1:35](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/setting-up-kafka?u=76281980&t=95)** We are enabling KRaft, which is the newer configuration management option in Kafka using the parameter: KAFKA_ENABLE_KRAFT=yes.
+> **[1:35](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/setting-up-kafka?u=76281980&t=95)** We are enabling KRaft, which is the newer [[Configuration Management]] option in Kafka using the parameter: KAFKA_ENABLE_KRAFT=yes.
 >
 > **[1:45](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/setting-up-kafka?u=76281980&t=105)** We will not be using ZooKeeper whose support is being phased out in Kafka.
 >
@@ -505,7 +498,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/setting-up-kafka?u=76281980&t=209)** Open the terminal window.
 >
-> **[3:31](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/setting-up-kafka?u=76281980&t=211)** If you are on windows, please use the PowerShell window.
+> **[3:31](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/setting-up-kafka?u=76281980&t=211)** If you are on windows, please use the [[Powershell]] window.
 >
 > **[3:34](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/setting-up-kafka?u=76281980&t=214)** First, navigate to the directory where kafka-single-node.yml file exists.
 >
@@ -531,7 +524,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (7), [[Jetpack Compose|Compose]] (4), [[Windows]] (2), [[Configuration Management]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (4), [[Windows]] (2), [[Configuration Management]] (1), [[Powershell]] (1)
 > **CLI Commands:** docker (14), node (7)
 > **Env Vars:** kafka_enable_kraft (1), node_id (1), controller_listener_name (1), controller (1), inter_broker_listener_name (1)
 > **File Paths:** kafka-single-node.yml (4), resources/chapter-1-settingup-kafka.txt (1)
@@ -545,8 +538,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/messages?u=76281980)
+#### [Messages](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/messages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -624,7 +616,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/messages?u=76281980&t=164)** The first message is a map with attribute names and values.
 >
-> **[2:48](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/messages?u=76281980&t=168)** In this case, it is an employee record in JSON.
+> **[2:48](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/messages?u=76281980&t=168)** In this case, it is an employee record in [[JSON]].
 >
 > **[2:52](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/messages?u=76281980&t=172)** The message key is set to the employee ID.
 >
@@ -650,7 +642,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (1), [[JSON]] (1), web (1), next (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Definitions:** is a  (4), is an  (2)
 > **Env Vars:** json (1), csv (1)
 > **Best Practices:** recommended (1), the key is (1)
@@ -659,8 +651,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Topics
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/topics?u=76281980)
+#### [Topics](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/topics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -714,14 +705,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (1), application (1), next (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Definitions:** is an  (2)
 > **Analogies:** similar to (2)
 > **Speakers:** - [narrator] (1)
 
-#### Kafka brokers
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-brokers?u=76281980)
+#### [Kafka brokers](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-brokers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -769,13 +758,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logs in Kafka
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/logs-in-kafka?u=76281980)
+#### [Logs in Kafka](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/logs-in-kafka?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -807,7 +794,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/logs-in-kafka?u=76281980&t=61)** Log files are an important consideration for managing a Kafka instance, since they influence the amount of physical space that needs to be provisioned.
 >
-> **[1:11](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/logs-in-kafka?u=76281980&t=71)** Lack of space would lead to the broker rejecting data from producers and a breakdown of data processing pipelines.
+> **[1:11](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/logs-in-kafka?u=76281980&t=71)** Lack of space would lead to the broker rejecting data from producers and a breakdown of [[Data Processing]] pipelines.
 >
 > **[1:19](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/logs-in-kafka?u=76281980&t=79)** All configuration for Kafka is in the server.properties file, under the config folder of the Kafka route directory.
 >
@@ -817,18 +804,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1)
+> **Frameworks & Libraries:** [[Data Processing]] (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Producers and consumers
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producers-and-consumers?u=76281980)
+#### [Producers and consumers](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producers-and-consumers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producers-and-consumers?u=76281980&t=0)** - [Instructor] A producer is any client that publishes data to Kafka.
 >
-> **[0:04](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producers-and-consumers?u=76281980&t=4)** Some examples include web servers that push web click events, a log scrubber pushing in log messages, and a sensor pushing in telemetry data.
+> **[0:04](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producers-and-consumers?u=76281980&t=4)** Some examples include [[Web Servers]] that push web click events, a log scrubber pushing in log messages, and a sensor pushing in telemetry data.
 >
 > **[0:15](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producers-and-consumers?u=76281980&t=15)** To build a producer, a developer needs to use a Kafka client library within their code and publish data.
 >
@@ -836,7 +822,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producers-and-consumers?u=76281980&t=28)** Please check the Kafka website for more details.
 >
-> **[0:31](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producers-and-consumers?u=76281980&t=31)** We will discuss Java client libraries in this course.
+> **[0:31](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producers-and-consumers?u=76281980&t=31)** We will discuss [[Java]] client libraries in this course.
 >
 > **[0:35](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producers-and-consumers?u=76281980&t=35)** There can be multiple concurrent producers for each topic.
 >
@@ -852,7 +838,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producers-and-consumers?u=76281980&t=69)** The producers also need to serialize the message data to byte arrays.
 >
-> **[1:14](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producers-and-consumers?u=76281980&t=74)** Anything can be serialized, including strings, JSON, objects, or blobs.
+> **[1:14](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producers-and-consumers?u=76281980&t=74)** Anything can be serialized, including strings, [[JSON]], objects, or blobs.
 >
 > **[1:20](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producers-and-consumers?u=76281980&t=80)** The only requirement is to make sure that the consumer can deserialize it to create the same data.
 >
@@ -872,7 +858,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producers-and-consumers?u=76281980&t=134)** And as each message is published, it is immediately consumed.
 >
-> **[2:18](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producers-and-consumers?u=76281980&t=138)** In batch processing, the producers can publish anytime, even in batches.
+> **[2:18](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producers-and-consumers?u=76281980&t=138)** In [[Batch Processing]], the producers can publish anytime, even in batches.
 >
 > **[2:23](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producers-and-consumers?u=76281980&t=143)** The consumer process can start up at a much later time and consume all the pending records.
 >
@@ -896,7 +882,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), web (2), concurrent (2), [[Programming]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Web Servers]] (1), [[Java]] (1), [[JSON]] (1), [[Batch Processing]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** json (1)
 > **Cross-References:** later in (1)
@@ -908,8 +894,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Kafka client scripts
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-client-scripts?u=76281980)
+#### [Kafka client scripts](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-client-scripts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -953,7 +938,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (1), management (1), next (1)
 > **CLI Commands:** docker (3)
 > **Cross-References:** later in (1), in the next (1)
 > **Tools:** command line (1), bash (1)
@@ -962,8 +946,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a topic
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/creating-a-topic?u=76281980)
+#### [Creating a topic](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/creating-a-topic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -997,7 +980,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/creating-a-topic?u=76281980&t=66)** We will discuss partitions later in the course.
 >
-> **[1:10](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/creating-a-topic?u=76281980&t=70)** Replication is addressed in detail in the next Kafka course, Apache Kafka Essentials: Building Scalable Applications.
+> **[1:10](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/creating-a-topic?u=76281980&t=70)** Replication is addressed in detail in the next Kafka course, [[Apache Kafka]] Essentials: Building Scalable Applications.
 >
 > **[1:19](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/creating-a-topic?u=76281980&t=79)** For now, we keep replication to one since we only have one Kafka broker running.
 >
@@ -1019,7 +1002,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), management (1), [[Apache Kafka]] (1)
+> **Frameworks & Libraries:** [[Apache Kafka]] (1)
 > **Cross-References:** in the next (2), later in (1), we discussed (1)
 > **CLI Commands:** docker (1), apache (1)
 > **Warnings:** note that (1), warning (1)
@@ -1028,8 +1011,7 @@ created: 2026-05-02
 > **Versions:** 29.0.9 (1)
 > **Definitions:** is a  (1)
 
-#### Exploring topics
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/exploring-topics?u=76281980)
+#### [Exploring topics](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/exploring-topics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1075,14 +1057,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1)
 > **Cross-References:** previous video (1), later in (1), in the next (1)
 > **Analogies:** similar to (1)
 > **Warnings:** note that (1)
 > **Speakers:** - having (1)
 
-#### Publishing messages to topics
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/publishing-messages-to-topics?u=76281980)
+#### [Publishing messages to topics](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/publishing-messages-to-topics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1136,7 +1116,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), prompt (1)
 > **File Paths:** kafka-console-producer.sh (2)
 > **CLI Commands:** docker (1)
 > **URLs:** [localhost:29092](https://localhost:29092) (1)
@@ -1144,9 +1123,9 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Cross-References:** in the next (1)
 > **Tools:** command line (1)
+> **Prerequisites:** setup (1)
 
-#### Using console consumer
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/using-console-consumer?u=76281980)
+#### [Using console consumer](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/using-console-consumer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1164,7 +1143,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/using-console-consumer?u=76281980&t=30)** Let's execute this now.
 >
-> **[0:32](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/using-console-consumer?u=76281980&t=32)** For demo purposes, I have four windows open.
+> **[0:32](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/using-console-consumer?u=76281980&t=32)** For demo purposes, I have four [[Windows]] open.
 >
 > **[0:36](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/using-console-consumer?u=76281980&t=36)** There are two producer windows on the left and two consumer windows on the right.
 >
@@ -1202,7 +1181,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), data (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (3)
 > **Cross-References:** we discussed (1), in the next (1)
 > **UI Navigation:** go to (2)
 > **File Paths:** kafka-console-consumer.sh (1)
@@ -1210,8 +1189,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Topics management
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/topics-management?u=76281980)
+#### [Topics management](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/topics-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1237,13 +1215,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **File Paths:** kafka-topics.sh (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review Kafka setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/review-kafka-setup?u=76281980)
+#### [Review Kafka setup](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/review-kafka-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1257,7 +1233,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/review-kafka-setup?u=76281980&t=23)** Let's explore this configuration file.
 >
-> **[0:28](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/review-kafka-setup?u=76281980&t=28)** Most of the parameters that we set up as a part of the Docker Compose file will show up here, like the process roles, node ID, and controller.quorum.voters.
+> **[0:28](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/review-kafka-setup?u=76281980&t=28)** Most of the parameters that we set up as a part of the Docker [[Jetpack Compose|Compose]] file will show up here, like the process roles, node ID, and controller.quorum.voters.
 >
 > **[0:40](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/review-kafka-setup?u=76281980&t=40)** But we are interested in the log.dirs parameter.
 >
@@ -1295,7 +1271,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (2), [[Jetpack Compose|Compose]] (1), node (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** find (1), docker (1), node (1), cat (1)
 > **Cross-References:** in the next (2)
 > **Prerequisites:** setup (1), set up (1)
@@ -1309,8 +1285,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro to partitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/intro-to-partitions?u=76281980)
+#### [Intro to partitions](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/intro-to-partitions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1326,7 +1301,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/intro-to-partitions?u=76281980&t=30)** Partitions allow Kafka to scale by parallelizing ingestion, storage, and consumption of messages.
 >
-> **[0:37](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/intro-to-partitions?u=76281980&t=37)** It provides horizontal scalability.
+> **[0:37](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/intro-to-partitions?u=76281980&t=37)** It provides horizontal [[Scalability]].
 >
 > **[0:40](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/intro-to-partitions?u=76281980&t=40)** However, creating too many partitions may result in increased memory usage and file handles.
 >
@@ -1382,19 +1357,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scalability]] (1), data (1)
+> **Frameworks & Libraries:** [[Scalability]] (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating topics with partitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/creating-topics-with-partitions?u=76281980)
+#### [Creating topics with partitions](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/creating-topics-with-partitions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/creating-topics-with-partitions?u=76281980&t=0)** - [Instructor] Having looked into how partitions help Kafka scale, let's now create a topic with partitions.
 >
-> **[0:08](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/creating-topics-with-partitions?u=76281980&t=8)** The commands for this chapter are available in the file: chapter-4-commands.txt under the Resources directory in the Java project.
+> **[0:08](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/creating-topics-with-partitions?u=76281980&t=8)** The commands for this chapter are available in the file: chapter-4-commands.txt under the Resources directory in the [[Java]] project.
 >
 > **[0:18](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/creating-topics-with-partitions?u=76281980&t=18)** In order to create multiple partitions, we simply need to specify the number of partitions needed in the partitions parameter.
 >
@@ -1426,7 +1400,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **File Paths:** chapter-4-commands.txt (1)
 > **CLI Commands:** docker (1)
 > **Cross-References:** in the next (1)
@@ -1435,8 +1409,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Publishing with keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/publishing-with-keys?u=76281980)
+#### [Publishing with keys](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/publishing-with-keys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1474,14 +1447,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), product (2), next (1)
 > **Env Vars:** csv (2)
 > **Cross-References:** we discussed (1), in the next (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Consumer groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/consumer-groups?u=76281980)
+#### [Consumer groups](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/consumer-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1495,7 +1466,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/consumer-groups?u=76281980&t=18)** It may not be possible for a single consumer process to keep up with processing these messages.
 >
-> **[0:24](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/consumer-groups?u=76281980&t=24)** For scalability, multiple consumer processes can be started and the messages can be distributed among them for load balancing.
+> **[0:24](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/consumer-groups?u=76281980&t=24)** For [[Scalability]], multiple consumer processes can be started and the messages can be distributed among them for load balancing.
 >
 > **[0:33](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/consumer-groups?u=76281980&t=33)** A consumer group is a logical group of consumers that Kafka uses for such load distribution.
 >
@@ -1547,13 +1518,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (2), [[Scalability]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Scalability]] (1)
 > **Definitions:** is a  (4), is an  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Consumer offset management
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/consumer-offset-management?u=76281980)
+#### [Consumer offset management](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/consumer-offset-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1637,19 +1607,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), next (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Consuming partitioned data
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/consuming-partitioned-data?u=76281980)
+#### [Consuming partitioned data](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/consuming-partitioned-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/consuming-partitioned-data?u=76281980&t=0)** - [Instructor] In this video, let's consume the data published into the kafka.learning.orders topic using consumer groups and track offsets.
 >
-> **[0:10](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/consuming-partitioned-data?u=76281980&t=10)** We have opened four Shell windows, each of which is started by using the docker exec command into the Kafka container, and then navigating to the bin directory as shown in the previous chapters.
+> **[0:10](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/consuming-partitioned-data?u=76281980&t=10)** We have opened four Shell [[Windows]], each of which is started by using the docker exec command into the Kafka container, and then navigating to the bin directory as shown in the previous chapters.
 >
 > **[0:23](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/consuming-partitioned-data?u=76281980&t=23)** In the first window on the top left, we start the publisher to publish to the orders topic.
 >
@@ -1737,11 +1705,11 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/consuming-partitioned-data?u=76281980&t=238)** This demonstrates how Kafka manages consumers, consumer groups, and offsets.
 >
-> **[4:03](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/consuming-partitioned-data?u=76281980&t=243)** In the next chapter, let's build producers and consumers in Java.
+> **[4:03](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/consuming-partitioned-data?u=76281980&t=243)** In the next chapter, let's build producers and consumers in [[Java]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (2), [[Windows]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Java]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Prerequisites:** set up (2)
@@ -1755,12 +1723,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Kafka client libraries
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-client-libraries?u=76281980)
+#### [Kafka client libraries](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-client-libraries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-client-libraries?u=76281980&t=0)** - [Narrator] While building real-world data pipelines, command line interfaces are hardly used to publish and consume data with Kafka.
+> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-client-libraries?u=76281980&t=0)** - [Narrator] While building real-world [[Data Pipelines]], command line interfaces are hardly used to publish and consume data with Kafka.
 >
 > **[0:09](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-client-libraries?u=76281980&t=9)** Kafka producers and consumers are returned in various programming languages.
 >
@@ -1770,7 +1737,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-client-libraries?u=76281980&t=24)** From here, you can access documentation for various clients as well as download these libraries.
 >
-> **[0:31](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-client-libraries?u=76281980&t=31)** In this course, we will build sample Kafka clients using Java.
+> **[0:31](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-client-libraries?u=76281980&t=31)** In this course, we will build sample Kafka clients using [[Java]].
 >
 > **[0:37](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-client-libraries?u=76281980&t=37)** For a Maven project, it is easy to add a Kafka client.
 >
@@ -1780,7 +1747,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Programming]] (2), [[Java]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Pipelines]] (1), [[Java]] (1)
 > **File Paths:** pom.xml (1)
 > **Env Vars:** pom (1)
 > **Cross-References:** next video (1)
@@ -1788,12 +1755,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating a producer in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/creating-a-producer-in-java?u=76281980)
+#### [Creating a producer in Java](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/creating-a-producer-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/creating-a-producer-in-java?u=76281980&t=0)** - [Instructor] Let's explore the Java code for a sample Kafka producer in this video.
+> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/creating-a-producer-in-java?u=76281980&t=0)** - [Instructor] Let's explore the [[Java]] code for a sample Kafka producer in this video.
 >
 > **[0:05](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/creating-a-producer-in-java?u=76281980&t=5)** The code is available in the package com.learning.kafkagettingstarted.chapter5 The class file is KafkaSimpleProducer.java.
 >
@@ -1845,15 +1811,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), next (1)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Cross-References:** earlier in (1), in the next (1)
 > **File Paths:** kafkasimpleproducer.java (1)
 > **Env Vars:** bootstrap_servers (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Publishing messages in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/publishing-messages-in-java?u=76281980)
+#### [Publishing messages in Java](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/publishing-messages-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1873,22 +1838,21 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/publishing-messages-in-java?u=76281980&t=36)** For Kafka, everything is a sequence of bytes.
 >
-> **[0:39](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/publishing-messages-in-java?u=76281980&t=39)** In the next video, we will build a consumer in Java to consume this data.
+> **[0:39](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/publishing-messages-in-java?u=76281980&t=39)** In the next video, we will build a consumer in [[Java]] to consume this data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), next (1), [[Java]] (1), data (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a consumer in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/creating-a-consumer-in-java?u=76281980)
+#### [Creating a consumer in Java](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/creating-a-consumer-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/creating-a-consumer-in-java?u=76281980&t=0)** - [Instructor] In this video, we will build a consumer in Java to consume messages from the Kafka.learning.orders topic and print them to the console.
+> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/creating-a-consumer-in-java?u=76281980&t=0)** - [Instructor] In this video, we will build a consumer in [[Java]] to consume messages from the Kafka.learning.orders topic and print them to the console.
 >
 > **[0:10](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/creating-a-consumer-in-java?u=76281980&t=10)** Setting up a consumer is similar to setting up a producer.
 >
@@ -1936,7 +1900,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), data (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **Prerequisites:** set up (1), setup (1)
 > **Cross-References:** in the next (1)
 > **Tools:** command line (1)
@@ -1945,8 +1909,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Warnings:** note that (1)
 
-#### Consuming messages in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/consuming-messages-in-java?u=76281980)
+#### [Consuming messages in Java](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/consuming-messages-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1990,7 +1953,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Tools:** command line (1)
 > **Definitions:** is a  (1)
@@ -2002,8 +1964,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Kafka basics use case: Problem definition
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-basics-use-case-problem-definition?u=76281980)
+#### [Kafka basics use case: Problem definition](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-basics-use-case-problem-definition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2023,7 +1984,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-basics-use-case-problem-definition?u=76281980&t=39)** Use a console consumer to consume messages from this topic.
 >
-> **[0:43](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-basics-use-case-problem-definition?u=76281980&t=43)** Finally, build a producer and a consumer in Java for the same topic.
+> **[0:43](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-basics-use-case-problem-definition?u=76281980&t=43)** Finally, build a producer and a consumer in [[Java]] for the same topic.
 >
 > **[0:49](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/kafka-basics-use-case-problem-definition?u=76281980&t=49)** We will execute the code and then review the results.
 >
@@ -2036,8 +1997,7 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Java]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up topics
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/setting-up-topics?u=76281980)
+#### [Setting up topics](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/setting-up-topics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2060,8 +2020,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Producing and consuming data with scripts
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producing-and-consuming-data-with-scripts?u=76281980)
+#### [Producing and consuming data with scripts](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producing-and-consuming-data-with-scripts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2093,16 +2052,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Producing and consuming data with Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producing-and-consuming-data-with-java?u=76281980)
+#### [Producing and consuming data with Java](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producing-and-consuming-data-with-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producing-and-consuming-data-with-java?u=76281980&t=0)** - [Instructor] In this video, let's look at the final exercise in the course, producing and consuming messages from Kafka with a Java client.
+> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producing-and-consuming-data-with-java?u=76281980&t=0)** - [Instructor] In this video, let's look at the final exercise in the course, producing and consuming messages from Kafka with a [[Java]] client.
 >
 > **[0:10](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producing-and-consuming-data-with-java?u=76281980&t=10)** The code for this exercise is available in the package com.learning.kafkagettingstarted.chapter6.
 >
@@ -2130,11 +2087,11 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producing-and-consuming-data-with-java?u=76281980&t=88)** You may also want to manually acknowledge received after the message has been successfully processed.
 >
-> **[1:34](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producing-and-consuming-data-with-java?u=76281980&t=94)** We will explore these advanced use cases in our next Kafka course, Apache Kafka Essentials: Building Scalable Applications.
+> **[1:34](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/producing-and-consuming-data-with-java?u=76281980&t=94)** We will explore these advanced use cases in our next Kafka course, [[Apache Kafka]] Essentials: Building Scalable Applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Java]] (1), data (1), [[Apache Kafka]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Apache Kafka]] (1)
 > **CLI Commands:** apache (1)
 > **Cross-References:** earlier in (1)
 > **Exercise Files:** template (1)
@@ -2145,18 +2102,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Extending your Kafka knowledge
-> [LinkedIn Learning](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/extending-your-kafka-knowledge?u=76281980)
+#### [Extending your Kafka knowledge](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/extending-your-kafka-knowledge?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/extending-your-kafka-knowledge?u=76281980&t=0)** - [Kumaran] Now that you have learned about the basics of Apache Kafka, you can take your learning even further.
+> **[0:00](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/extending-your-kafka-knowledge?u=76281980&t=0)** - [Kumaran] Now that you have learned about the basics of [[Apache Kafka]], you can take your learning even further.
 >
 > **[0:07](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/extending-your-kafka-knowledge?u=76281980&t=7)** First, you can learn more about building scalable Kafka applications through the next course, Apache Kafka Essentials: Building Scalable Applications.
 >
 > **[0:17](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/extending-your-kafka-knowledge?u=76281980&t=17)** Second, you can learn more about using Kafka for building stream processing applications with Apache Kafka, Apache Flink, or Kafka Streams.
 >
-> **[0:28](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/extending-your-kafka-knowledge?u=76281980&t=28)** Finally, you can implement Kafka in your organization for your big data processing use cases.
+> **[0:28](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/extending-your-kafka-knowledge?u=76281980&t=28)** Finally, you can implement Kafka in your organization for your [[Big Data]] processing use cases.
 >
 > **[0:35](https://www.linkedin.com/learning/apache-kafka-essential-training-getting-started-22398044/extending-your-kafka-knowledge?u=76281980&t=35)** Data always intrigues me.
 >
@@ -2164,7 +2120,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Apache Kafka]] (3), next (1), [[Big Data]] (1), data (1)
+> **Frameworks & Libraries:** [[Apache Kafka]] (3), [[Big Data]] (1)
 > **CLI Commands:** apache (4), find (1)
 > **Speakers:** - [kumaran] (1)
 

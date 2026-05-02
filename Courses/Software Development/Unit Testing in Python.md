@@ -86,24 +86,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Python unit testing with pytest
-> [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/python-unit-testing-with-pytest?u=76281980)
+#### [Python unit testing with pytest](https://www.linkedin.com/learning/unit-testing-in-python/python-unit-testing-with-pytest?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/unit-testing-in-python/python-unit-testing-with-pytest?u=76281980&t=0)** - As a developer, you're constantly prioritizing what you should focus on and figuring out how today's work fits into those long-term goals.
 >
-> **[0:09](https://www.linkedin.com/learning/unit-testing-in-python/python-unit-testing-with-pytest?u=76281980&t=9)** When building and testing Python projects from scratch, you may lose sight of this goal as you try to implement too many features at once.
+> **[0:09](https://www.linkedin.com/learning/unit-testing-in-python/python-unit-testing-with-pytest?u=76281980&t=9)** When building and testing [[Python (Programming Language)|Python]] projects from scratch, you may lose sight of this goal as you try to implement too many features at once.
 >
 > **[0:17](https://www.linkedin.com/learning/unit-testing-in-python/python-unit-testing-with-pytest?u=76281980&t=17)** When maintaining a Legacy project, you may feel overwhelmed as you find it has too few or no tests.
 >
-> **[0:24](https://www.linkedin.com/learning/unit-testing-in-python/python-unit-testing-with-pytest?u=76281980&t=24)** Believe it or not, test-driven development may be just what you need to organize the path ahead of you.
+> **[0:24](https://www.linkedin.com/learning/unit-testing-in-python/python-unit-testing-with-pytest?u=76281980&t=24)** Believe it or not, [[Test-Driven Development]] may be just what you need to organize the path ahead of you.
 >
 > **[0:30](https://www.linkedin.com/learning/unit-testing-in-python/python-unit-testing-with-pytest?u=76281980&t=30)** We'll explore that in this course in concert with pytest, a testing framework.
 >
-> **[0:36](https://www.linkedin.com/learning/unit-testing-in-python/python-unit-testing-with-pytest?u=76281980&t=36)** I'm Jasmine Omeke, and I'm a software developer working on a big data and analytics platform.
+> **[0:36](https://www.linkedin.com/learning/unit-testing-in-python/python-unit-testing-with-pytest?u=76281980&t=36)** I'm Jasmine Omeke, and I'm a software developer working on a [[Big Data]] and analytics platform.
 >
-> **[0:42](https://www.linkedin.com/learning/unit-testing-in-python/python-unit-testing-with-pytest?u=76281980&t=42)** I've also contributed to open source projects such as gRPC, Apache Airflow, and pytest.
+> **[0:42](https://www.linkedin.com/learning/unit-testing-in-python/python-unit-testing-with-pytest?u=76281980&t=42)** I've also contributed to open source projects such as gRPC, [[Apache Airflow]], and pytest.
 >
 > **[0:49](https://www.linkedin.com/learning/unit-testing-in-python/python-unit-testing-with-pytest?u=76281980&t=49)** I have learned a lot about prioritization, and I want to talk about that through the lens of pytest.
 >
@@ -117,14 +116,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test-Driven Development]] (2), [[Python (Programming Language)|Python]] (1), [[Big Data]] (1), [[Analytics]] (1), [[Apache Airflow]] (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (2), [[Python (Programming Language)|Python]] (1), [[Big Data]] (1), [[Apache Airflow]] (1)
 > **CLI Commands:** python (1), find (1), apache (1), make (1)
 > **Code Identifiers:** grpc (1)
 > **Analogies:** such as (1)
 > **Speakers:** - as (1)
 
-#### Why pytest?
-> [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/why-pytest?u=76281980)
+#### [Why pytest?](https://www.linkedin.com/learning/unit-testing-in-python/why-pytest?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -142,7 +140,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/unit-testing-in-python/why-pytest?u=76281980&t=58)** Unittest, on the other hand, has over 10 different assertion methods for tests.
 >
-> **[1:03](https://www.linkedin.com/learning/unit-testing-in-python/why-pytest?u=76281980&t=63)** While they are specific, they have changed in different versions of Python.
+> **[1:03](https://www.linkedin.com/learning/unit-testing-in-python/why-pytest?u=76281980&t=63)** While they are specific, they have changed in different versions of [[Python (Programming Language)|Python]].
 >
 > **[1:08](https://www.linkedin.com/learning/unit-testing-in-python/why-pytest?u=76281980&t=68)** This requires you to keep up with these changes and update your project with the proper method if the old version becomes deprecated.
 >
@@ -154,7 +152,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/unit-testing-in-python/why-pytest?u=76281980&t=105)** Fixtures also help you share data and code between tests that need common setup functions.
 >
-> **[1:51](https://www.linkedin.com/learning/unit-testing-in-python/why-pytest?u=76281980&t=111)** The test automation Python provides doesn't stop there.
+> **[1:51](https://www.linkedin.com/learning/unit-testing-in-python/why-pytest?u=76281980&t=111)** The [[Test Automation]] Python provides doesn't stop there.
 >
 > **[1:55](https://www.linkedin.com/learning/unit-testing-in-python/why-pytest?u=76281980&t=115)** It also comes with a feature called parameterization, which enables you to automate test functions to run over a variety of scenarios in one swoop.
 >
@@ -176,20 +174,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), next (1), data (1), [[Test Automation]] (1), feature (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Test Automation]] (1)
 > **CLI Commands:** python (3)
 > **Prerequisites:** setup (2), set up (1)
 > **Analogies:** such as (1)
 > **Speakers:** - pytest (1)
 
-#### Roadmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/roadmap?u=76281980)
+#### [Roadmap](https://www.linkedin.com/learning/unit-testing-in-python/roadmap?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/unit-testing-in-python/roadmap?u=76281980&t=0)** - In this course we will focus on how to create and maintain a Python project's testing suite with pytest.
+> **[0:00](https://www.linkedin.com/learning/unit-testing-in-python/roadmap?u=76281980&t=0)** - In this course we will focus on how to create and maintain a [[Python (Programming Language)|Python]] project's testing suite with pytest.
 >
-> **[0:07](https://www.linkedin.com/learning/unit-testing-in-python/roadmap?u=76281980&t=7)** As we progress we will cover how to use this testing framework as you develop code in a test-driven development format, also known as TDD.
+> **[0:07](https://www.linkedin.com/learning/unit-testing-in-python/roadmap?u=76281980&t=7)** As we progress we will cover how to use this testing framework as you develop code in a [[Test-Driven Development]] format, also known as TDD.
 >
 > **[0:17](https://www.linkedin.com/learning/unit-testing-in-python/roadmap?u=76281980&t=17)** While there are several types of tests such as unit, integration, linting, smoke, and functional tests, we will focus on unit tests that cover the behavior we would like our source code methods to carry out.
 >
@@ -217,7 +214,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Test-Driven Development]] (1), functional (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Test-Driven Development]] (1)
 > **CLI Commands:** docker (4), python (1)
 > **Env Vars:** tdd (2), ide (1)
 > **Definitions:** known as (1), is a  (1)
@@ -226,12 +223,11 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Exercise Files:** source code (1)
 
-#### Exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/exercise-files?u=76281980)
+#### [Exercise files](https://www.linkedin.com/learning/unit-testing-in-python/exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/unit-testing-in-python/exercise-files?u=76281980&t=0)** - [Instructor] The materials for this course are hosted on [github.com](https://github.com).
+> **[0:00](https://www.linkedin.com/learning/unit-testing-in-python/exercise-files?u=76281980&t=0)** - [Instructor] The materials for this course are hosted on [[[GitHub]].com](https://github.com).
 >
 > **[0:04](https://www.linkedin.com/learning/unit-testing-in-python/exercise-files?u=76281980&t=4)** Once you pull up the GitHub repository, you'll see a green button to the right where you can download the project via SSH or HTTP.
 >
@@ -301,8 +297,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Docker and VS Code (Mac)
-> [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/docker-and-vs-code-mac?u=76281980)
+#### [Docker and VS Code (Mac)](https://www.linkedin.com/learning/unit-testing-in-python/docker-and-vs-code-mac?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -372,7 +367,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), application (2), next (2), web (1)
 > **CLI Commands:** docker (14), make (1)
 > **Tools:** docker desktop (4), visual studio (2), vs code (1)
 > **Prerequisites:** make sure you have (1), install (1), you'll need (1)
@@ -380,9 +374,9 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Versions:** 10.13 (1)
 > **UI Navigation:** go to (1)
+> **Speakers:** - [instructor] (1)
 
-#### Docker and VS Code (PC)
-> [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/docker-and-vs-code-pc?u=76281980)
+#### [Docker and VS Code (PC)](https://www.linkedin.com/learning/unit-testing-in-python/docker-and-vs-code-pc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -390,7 +384,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/unit-testing-in-python/docker-and-vs-code-pc?u=76281980&t=4)** First, we'll make sure we have the latest version of Docker Desktop and that it's working.
 >
-> **[0:09](https://www.linkedin.com/learning/unit-testing-in-python/docker-and-vs-code-pc?u=76281980&t=9)** At the time of this recording, these instructions are for Windows PCs running on the 10 Pro 64-bit version.
+> **[0:09](https://www.linkedin.com/learning/unit-testing-in-python/docker-and-vs-code-pc?u=76281980&t=9)** At the time of this recording, these instructions are for [[Windows]] PCs running on the 10 Pro 64-bit version.
 >
 > **[0:17](https://www.linkedin.com/learning/unit-testing-in-python/docker-and-vs-code-pc?u=76281980&t=17)** Once we do that, we then will run a Docker image that will install pertinent packages for us.
 >
@@ -418,7 +412,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/unit-testing-in-python/docker-and-vs-code-pc?u=76281980&t=81)** We don't need to worry about the second one at this point.
 >
-> **[1:23](https://www.linkedin.com/learning/unit-testing-in-python/docker-and-vs-code-pc?u=76281980&t=83)** When we run Python in later videos we'll be using Linux containers and we don't need to worry about Windows containers.
+> **[1:23](https://www.linkedin.com/learning/unit-testing-in-python/docker-and-vs-code-pc?u=76281980&t=83)** When we run [[Python (Programming Language)|Python]] in later videos we'll be using [[Linux]] containers and we don't need to worry about Windows containers.
 >
 > **[1:33](https://www.linkedin.com/learning/unit-testing-in-python/docker-and-vs-code-pc?u=76281980&t=93)** All right, looks like our installation has succeeded.
 >
@@ -488,7 +482,7 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/unit-testing-in-python/docker-and-vs-code-pc?u=76281980&t=285)** Moving back to VS Code, we can go to our Terminal to run the following commands.
 >
-> **[4:51](https://www.linkedin.com/learning/unit-testing-in-python/docker-and-vs-code-pc?u=76281980&t=291)** The first one is docker-compose build.
+> **[4:51](https://www.linkedin.com/learning/unit-testing-in-python/docker-and-vs-code-pc?u=76281980&t=291)** The first one is docker-[[Jetpack Compose|compose]] build.
 >
 > **[4:55](https://www.linkedin.com/learning/unit-testing-in-python/docker-and-vs-code-pc?u=76281980&t=295)** This command will build the configuration needed for our project.
 >
@@ -496,7 +490,7 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/unit-testing-in-python/docker-and-vs-code-pc?u=76281980&t=306)** You can now substitute the hyphen in docker-compose with a space.
 >
-> **[5:11](https://www.linkedin.com/learning/unit-testing-in-python/docker-and-vs-code-pc?u=76281980&t=311)** Read this GitHub issue for more information.
+> **[5:11](https://www.linkedin.com/learning/unit-testing-in-python/docker-and-vs-code-pc?u=76281980&t=311)** Read this [[GitHub]] issue for more information.
 >
 > **[5:14](https://www.linkedin.com/learning/unit-testing-in-python/docker-and-vs-code-pc?u=76281980&t=314)** Next, we want to actually run the environment that we've built.
 >
@@ -512,7 +506,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Windows]] (4), prompt (3), [[Jetpack Compose|Compose]] (3), application (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Jetpack Compose|Compose]] (3), [[Python (Programming Language)|Python]] (1), [[Linux]] (1), [[GitHub]] (1)
 > **CLI Commands:** docker (18), make (5), python (1), cd (1)
 > **Tools:** vs code (9), docker desktop (5), terminal (4), visual studio (2), github (1)
 > **UI Navigation:** click on (3), open the (2), navigate to (1), go to (1)
@@ -521,8 +515,7 @@ created: 2026-05-02
 > **URLs:** [docker.com](https://docker.com) (1)
 > **Env Vars:** ide (1)
 
-#### Running pytest with Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/running-pytest-with-docker?u=76281980)
+#### [Running pytest with Docker](https://www.linkedin.com/learning/unit-testing-in-python/running-pytest-with-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -548,7 +541,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/unit-testing-in-python/running-pytest-with-docker?u=76281980&t=56)** You can think of this script like a recipe for creating our code environment, called a container.
 >
-> **[1:01](https://www.linkedin.com/learning/unit-testing-in-python/running-pytest-with-docker?u=76281980&t=61)** For this course, we'll be running Python 3.7 and you'll see here on this file it's using a test-requirements.txt.
+> **[1:01](https://www.linkedin.com/learning/unit-testing-in-python/running-pytest-with-docker?u=76281980&t=61)** For this course, we'll be running [[Python (Programming Language)|Python]] 3.7 and you'll see here on this file it's using a test-requirements.txt.
 >
 > **[1:11](https://www.linkedin.com/learning/unit-testing-in-python/running-pytest-with-docker?u=76281980&t=71)** What it's doing here is it's copying this file into our container and then it'll run pip install over all of those test requirements.
 >
@@ -574,7 +567,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/unit-testing-in-python/running-pytest-with-docker?u=76281980&t=123)** We can do so by running the following.
 >
-> **[2:05](https://www.linkedin.com/learning/unit-testing-in-python/running-pytest-with-docker?u=76281980&t=125)** The first one will be docker-compose build and what this is doing is it's basically kind of taking that recipe that we built up in the Docker file and just creating our container environment.
+> **[2:05](https://www.linkedin.com/learning/unit-testing-in-python/running-pytest-with-docker?u=76281980&t=125)** The first one will be docker-[[Jetpack Compose|compose]] build and what this is doing is it's basically kind of taking that recipe that we built up in the Docker file and just creating our container environment.
 >
 > **[2:21](https://www.linkedin.com/learning/unit-testing-in-python/running-pytest-with-docker?u=76281980&t=141)** Now that that's built, we can run our next command, docker-compose run test sh.
 >
@@ -602,7 +595,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (2), hit (1), [[Python (Programming Language)|Python]] (1), cd (1), next (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** docker (10), make (1), python (1), pip (1), cd (1)
 > **Tools:** vs code (3), terminal (3)
 > **UI Navigation:** open the (3), go to (2), navigate to (1)
@@ -616,18 +609,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of TDD
-> [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/overview-of-tdd?u=76281980)
+#### [Overview of TDD](https://www.linkedin.com/learning/unit-testing-in-python/overview-of-tdd?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/unit-testing-in-python/overview-of-tdd?u=76281980&t=0)** - Before moving to our exercises, I want to take a step back to explain how test-driven development relates to unit testing.
+> **[0:00](https://www.linkedin.com/learning/unit-testing-in-python/overview-of-tdd?u=76281980&t=0)** - Before moving to our exercises, I want to take a step back to explain how [[Test-Driven Development]] relates to [[Unit Testing]].
 >
 > **[0:07](https://www.linkedin.com/learning/unit-testing-in-python/overview-of-tdd?u=76281980&t=7)** As we move through this section we will primarily use the lens of test-driven development to implement functionality in the source code and write accompanying tests.
 >
 > **[0:17](https://www.linkedin.com/learning/unit-testing-in-python/overview-of-tdd?u=76281980&t=17)** To guide how we use test-driven development, it's important to first think about what behaviors we want our system to execute, even before we implement it in code.
 >
-> **[0:27](https://www.linkedin.com/learning/unit-testing-in-python/overview-of-tdd?u=76281980&t=27)** Test-driven development is a software development process that can be used while writing unit tests.
+> **[0:27](https://www.linkedin.com/learning/unit-testing-in-python/overview-of-tdd?u=76281980&t=27)** Test-driven development is a [[Software Development]] process that can be used while writing unit tests.
 >
 > **[0:33](https://www.linkedin.com/learning/unit-testing-in-python/overview-of-tdd?u=76281980&t=33)** Using this method of writing software at the start, influences how the developer writes modular tests that will illustrate what features their system will carry out.
 >
@@ -637,7 +629,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/unit-testing-in-python/overview-of-tdd?u=76281980&t=52)** Then the developer must make sure it eventually passes by writing the minimum implementation code needed to get this test passing.
 >
-> **[1:00](https://www.linkedin.com/learning/unit-testing-in-python/overview-of-tdd?u=76281980&t=60)** Once that's been done, this test, along with the rest of the tests should be run to make sure the entire project is in a passing state.
+> **[1:00](https://www.linkedin.com/learning/unit-testing-in-python/overview-of-tdd?u=76281980&t=60)** Once that's been done, this test, along with the [[Representational State Transfer (REST)|rest]] of the tests should be run to make sure the entire project is in a passing state.
 >
 > **[1:07](https://www.linkedin.com/learning/unit-testing-in-python/overview-of-tdd?u=76281980&t=67)** If the new implementation code has caused other tests to fail, then the developer needs to refactor as necessary.
 >
@@ -669,20 +661,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test-Driven Development]] (6), [[Unit Testing]] (1), [[Software Development]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (6), [[Unit Testing]] (1), [[Software Development]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), known as (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - before (1)
 
-#### Basic tests and assertions
-> [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/basic-tests-and-assertions?u=76281980)
+#### [Basic tests and assertions](https://www.linkedin.com/learning/unit-testing-in-python/basic-tests-and-assertions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/unit-testing-in-python/basic-tests-and-assertions?u=76281980&t=0)** - [Instructor] Test-driven development is one of many tools you can use when developing code.
+> **[0:00](https://www.linkedin.com/learning/unit-testing-in-python/basic-tests-and-assertions?u=76281980&t=0)** - [Instructor] [[Test-Driven Development]] is one of many tools you can use when developing code.
 >
-> **[0:05](https://www.linkedin.com/learning/unit-testing-in-python/basic-tests-and-assertions?u=76281980&t=5)** We'll use it in the beginning, but the majority of this course will cover Python testing with pytest more closely.
+> **[0:05](https://www.linkedin.com/learning/unit-testing-in-python/basic-tests-and-assertions?u=76281980&t=5)** We'll use it in the beginning, but the majority of this course will cover [[Python (Programming Language)|Python]] testing with pytest more closely.
 >
 > **[0:11](https://www.linkedin.com/learning/unit-testing-in-python/basic-tests-and-assertions?u=76281980&t=11)** And you may notice that's depart from test-driven development from time to time.
 >
@@ -692,7 +683,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/unit-testing-in-python/basic-tests-and-assertions?u=76281980&t=22)** I'll be using a Mac for the remainder of this course.
 >
-> **[0:25](https://www.linkedin.com/learning/unit-testing-in-python/basic-tests-and-assertions?u=76281980&t=25)** Your experience should be similar on Windows since we're using Docker containers to run our tests.
+> **[0:25](https://www.linkedin.com/learning/unit-testing-in-python/basic-tests-and-assertions?u=76281980&t=25)** Your experience should be similar on [[Windows]] since we're using Docker containers to run our tests.
 >
 > **[0:31](https://www.linkedin.com/learning/unit-testing-in-python/basic-tests-and-assertions?u=76281980&t=31)** Let's start to define behaviors we want our code to execute.
 >
@@ -732,7 +723,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/unit-testing-in-python/basic-tests-and-assertions?u=76281980&t=114)** It will open in the bottom section of your editor.
 >
-> **[1:57](https://www.linkedin.com/learning/unit-testing-in-python/basic-tests-and-assertions?u=76281980&t=117)** If you've already built the project with the docker-compose build command, you can proceed to run docker-compose run test sh to enter the shell that allows us to run pytest in the Docker container.
+> **[1:57](https://www.linkedin.com/learning/unit-testing-in-python/basic-tests-and-assertions?u=76281980&t=117)** If you've already built the project with the docker-[[Jetpack Compose|compose]] build command, you can proceed to run docker-compose run test sh to enter the shell that allows us to run pytest in the Docker container.
 >
 > **[2:08](https://www.linkedin.com/learning/unit-testing-in-python/basic-tests-and-assertions?u=76281980&t=128)** Once you see the hashtag, that means we're in the Docker container and we're ready to run our pytest commands.
 >
@@ -944,7 +935,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), [[Test-Driven Development]] (3), [[Python (Programming Language)|Python]] (3), [[Jetpack Compose|Compose]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (3), [[Python (Programming Language)|Python]] (3), [[Jetpack Compose|Compose]] (2), [[Windows]] (1)
 > **CLI Commands:** make (11), docker (7), python (3), find (1)
 > **Code Identifiers:** test_make_one_point (5), mapmaker_start (3), get_lat_long (3), test_mapmaker_start (1), test_mapmaker (1)
 > **Tools:** terminal (8), vs code (5)
@@ -953,12 +944,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1), we mentioned (1), we talked about (1)
 > **Definitions:** is a  (2), in other words (1)
 
-#### Exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/exceptions?u=76281980)
+#### [Exceptions](https://www.linkedin.com/learning/unit-testing-in-python/exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/unit-testing-in-python/exceptions?u=76281980&t=0)** - [Instructor] Like mentioned earlier, in test driven Python, we want to think about behaviors including unwanted behaviors.
+> **[0:00](https://www.linkedin.com/learning/unit-testing-in-python/exceptions?u=76281980&t=0)** - [Instructor] Like mentioned earlier, in test driven [[Python (Programming Language)|Python]], we want to think about behaviors including unwanted behaviors.
 >
 > **[0:06](https://www.linkedin.com/learning/unit-testing-in-python/exceptions?u=76281980&t=6)** In our case, our program should validate its inputs, output results, and actions to be performed.
 >
@@ -1120,7 +1110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (2), [[Python (Programming Language)|Python]] (1), next (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (10), python (1)
 > **Tools:** terminal (4)
 > **UI Navigation:** go to (1), scroll up (1)
@@ -1129,8 +1119,7 @@ created: 2026-05-02
 > **Code Identifiers:** test_invalid_point_generation (1)
 > **Cross-References:** go back to (1)
 
-#### Challenge: Exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/challenge-exceptions?u=76281980)
+#### [Challenge: Exceptions](https://www.linkedin.com/learning/unit-testing-in-python/challenge-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1160,15 +1149,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** source code (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/solution-exceptions?u=76281980)
+#### [Solution: Exceptions](https://www.linkedin.com/learning/unit-testing-in-python/solution-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1206,7 +1193,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** source code (2)
 > **Definitions:** is a  (2)
@@ -1214,8 +1200,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Happy path testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/happy-path-testing?u=76281980)
+#### [Happy path testing](https://www.linkedin.com/learning/unit-testing-in-python/happy-path-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1291,7 +1276,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/unit-testing-in-python/happy-path-testing?u=76281980&t=214)** We will now see that the first entry is an ordered dictionary of column information.
 >
-> **[3:39](https://www.linkedin.com/learning/unit-testing-in-python/happy-path-testing?u=76281980&t=219)** Since an ordered dictionary in Python is accessible, just like a normal dictionary, we can access information about it as such.
+> **[3:39](https://www.linkedin.com/learning/unit-testing-in-python/happy-path-testing?u=76281980&t=219)** Since an ordered dictionary in [[Python (Programming Language)|Python]] is accessible, just like a normal dictionary, we can access information about it as such.
 >
 > **[3:46](https://www.linkedin.com/learning/unit-testing-in-python/happy-path-testing?u=76281980&t=226)** For this first entry, let's access the country information.
 >
@@ -1373,7 +1358,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), next (3), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** csv (9), ide (1)
 > **Definitions:** is a  (4), is an  (2), in other words (1), short for (1)
 > **CLI Commands:** make (4), python (1)
@@ -1382,8 +1367,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1), go to (1)
 > **Code Identifiers:** clean_map (1)
 
-#### Sad path testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/sad-path-testing?u=76281980)
+#### [Sad path testing](https://www.linkedin.com/learning/unit-testing-in-python/sad-path-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1427,7 +1411,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/unit-testing-in-python/sad-path-testing?u=76281980&t=112)** Below, I can see I'm not yet in my docker container.
 >
-> **[1:55](https://www.linkedin.com/learning/unit-testing-in-python/sad-path-testing?u=76281980&t=115)** I can fix that by running docker compose run test sh.
+> **[1:55](https://www.linkedin.com/learning/unit-testing-in-python/sad-path-testing?u=76281980&t=115)** I can fix that by running docker [[Jetpack Compose|compose]] run test sh.
 >
 > **[2:01](https://www.linkedin.com/learning/unit-testing-in-python/sad-path-testing?u=76281980&t=121)** Now, let's run pytest.
 >
@@ -1451,7 +1435,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/unit-testing-in-python/sad-path-testing?u=76281980&t=180)** Moving back to the terminal, we'll run pytest again.
 >
-> **[3:06](https://www.linkedin.com/learning/unit-testing-in-python/sad-path-testing?u=76281980&t=186)** If we go up and look at our output, we should see that the word unsure was compared to the actual exception message.
+> **[3:06](https://www.linkedin.com/learning/unit-testing-in-python/sad-path-testing?u=76281980&t=186)** If we go up and look at our output, we should see that the [[Microsoft Word|word]] unsure was compared to the actual exception message.
 >
 > **[3:14](https://www.linkedin.com/learning/unit-testing-in-python/sad-path-testing?u=76281980&t=194)** In our case, the CSV reader to the right is returning, "Could not convert string to float: not_an_altitude."
 >
@@ -1497,7 +1481,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Jetpack Compose|Compose]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3), find (2), docker (2)
 > **Env Vars:** csv (6)
 > **Definitions:** known as (1), is a  (1), is called (1), short for (1)
@@ -1511,12 +1495,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fixtures to amortize costly operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/fixtures-to-amortize-costly-operations?u=76281980)
+#### [Fixtures to amortize costly operations](https://www.linkedin.com/learning/unit-testing-in-python/fixtures-to-amortize-costly-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/unit-testing-in-python/fixtures-to-amortize-costly-operations?u=76281980&t=0)** - [Instructor] In the previous chapter, we focused on the basics of testing using test-driven development.
+> **[0:00](https://www.linkedin.com/learning/unit-testing-in-python/fixtures-to-amortize-costly-operations?u=76281980&t=0)** - [Instructor] In the previous chapter, we focused on the basics of testing using [[Test-Driven Development]].
 >
 > **[0:06](https://www.linkedin.com/learning/unit-testing-in-python/fixtures-to-amortize-costly-operations?u=76281980&t=6)** Now we'll walk through existing testing code snippets to highlight how we can effectively use pytest.
 >
@@ -1580,7 +1563,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/unit-testing-in-python/fixtures-to-amortize-costly-operations?u=76281980&t=218)** Since we are testing that the data can't be transformed twice in the Sad Path test, we don't want the proceedings test transformation to impact it.
 >
-> **[3:46](https://www.linkedin.com/learning/unit-testing-in-python/fixtures-to-amortize-costly-operations?u=76281980&t=226)** We want to pay special attention to this when unit testing.
+> **[3:46](https://www.linkedin.com/learning/unit-testing-in-python/fixtures-to-amortize-costly-operations?u=76281980&t=226)** We want to pay special attention to this when [[Unit Testing]].
 >
 > **[3:49](https://www.linkedin.com/learning/unit-testing-in-python/fixtures-to-amortize-costly-operations?u=76281980&t=229)** We want to avoid having closely coupled tests.
 >
@@ -1666,7 +1649,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), database (4), [[Test-Driven Development]] (1), [[Unit Testing]] (1), next (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (1), [[Unit Testing]] (1)
 > **Code Identifiers:** prep_transform_data (4), map_data_location (3), clean_map (2), population_dict (2), clean_map_csv (1)
 > **Prerequisites:** setup (4), set up (3)
 > **File Paths:** clean_map.csv (2), update.py (1), text_fixtures_end.py (1)
@@ -1675,8 +1658,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** imagine (1), for example (1)
 
-#### Factory fixtures
-> [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/factory-fixtures?u=76281980)
+#### [Factory fixtures](https://www.linkedin.com/learning/unit-testing-in-python/factory-fixtures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1694,7 +1676,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/unit-testing-in-python/factory-fixtures?u=76281980&t=36)** That fixture is hard coding the location of the file.
 >
-> **[0:40](https://www.linkedin.com/learning/unit-testing-in-python/factory-fixtures?u=76281980&t=40)** If we wanted to process another CSV file or even JSON data, we would need to duplicate code.
+> **[0:40](https://www.linkedin.com/learning/unit-testing-in-python/factory-fixtures?u=76281980&t=40)** If we wanted to process another CSV file or even [[JSON]] data, we would need to duplicate code.
 >
 > **[0:47](https://www.linkedin.com/learning/unit-testing-in-python/factory-fixtures?u=76281980&t=47)** You can see that on line 17 where we've created a separate fixture that hard codes the path to the malformed CSV, which will be used in our Sad Path test.
 >
@@ -1746,7 +1728,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[JSON]] (8)
+> **Frameworks & Libraries:** [[JSON]] (8)
 > **Env Vars:** json (7), csv (3), xml (1)
 > **Code Identifiers:** process_data (3), data_processor (2), test_factory_start (1), clean_map (1), city_list_location (1)
 > **File Paths:** test_factory_start.py (1), clean_map.csv (1), data_processor.py (1), test_resources_scooter.json (1)
@@ -1755,14 +1737,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for example (1), for instance (1)
 
-#### Parametrization
-> [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/parametrization?u=76281980)
+#### [Parametrization](https://www.linkedin.com/learning/unit-testing-in-python/parametrization?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/unit-testing-in-python/parametrization?u=76281980&t=0)** - [Instructor] When making tests, you may realize that there are a few different cases you want your test to cover.
 >
-> **[0:05](https://www.linkedin.com/learning/unit-testing-in-python/parametrization?u=76281980&t=5)** For instance, let's say you have a function that returns statistics, either a mean or a median for a specified country within our processed CSV data.
+> **[0:05](https://www.linkedin.com/learning/unit-testing-in-python/parametrization?u=76281980&t=5)** For instance, let's say you have a function that returns [[Statistics]], either a mean or a median for a specified country within our processed CSV data.
 >
 > **[0:16](https://www.linkedin.com/learning/unit-testing-in-python/parametrization?u=76281980&t=16)** On line 28 of the test_parametrized_start.py file, you can see the test function verifying that a returned dictionary object contains the appropriate average altitude for Andorra.
 >
@@ -1830,7 +1811,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Statistics]] (1), data (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Code Identifiers:** test_parametrized_start (1), altitude_stat_per_country (1)
 > **Env Vars:** csv (1), ide (1)
 > **File Paths:** test_parametrized_start.py (1)
@@ -1839,8 +1820,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Parametrization
-> [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/challenge-parametrization?u=76281980)
+#### [Challenge: Parametrization](https://www.linkedin.com/learning/unit-testing-in-python/challenge-parametrization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1868,7 +1848,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/unit-testing-in-python/challenge-parametrization?u=76281980&t=63)** In the final assertion, you will need to inject the arguments applied to the function to replace certain parts of the string we compare as the result.
 >
-> **[1:11](https://www.linkedin.com/learning/unit-testing-in-python/challenge-parametrization?u=76281980&t=71)** You can do this in Python 3.7 with F strings.
+> **[1:11](https://www.linkedin.com/learning/unit-testing-in-python/challenge-parametrization?u=76281980&t=71)** You can do this in [[Python (Programming Language)|Python]] 3.7 with F strings.
 >
 > **[1:15](https://www.linkedin.com/learning/unit-testing-in-python/challenge-parametrization?u=76281980&t=75)** To do this, append an F in front of the string and surround the variable you'd like to insert in that string with curly braces.
 >
@@ -1880,7 +1860,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** test_csv_writer (1), test_param_challenge (1)
 > **File Paths:** test_param_challenge.py (1)
 > **CLI Commands:** python (1)
@@ -1889,8 +1869,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Parameterization
-> [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/solution-parameterization?u=76281980)
+#### [Solution: Parameterization](https://www.linkedin.com/learning/unit-testing-in-python/solution-parameterization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1930,7 +1909,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1943,8 +1921,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Conftest.py for common functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/using-conftest-py-for-common-functions?u=76281980)
+#### [Using Conftest.py for common functions](https://www.linkedin.com/learning/unit-testing-in-python/using-conftest-py-for-common-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1990,7 +1967,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **File Paths:** conftest.py (7), testconfteststart.py (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ide (2)
@@ -1999,8 +1975,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modularizing conftest.py
-> [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/modularizing-conftest-py?u=76281980)
+#### [Modularizing conftest.py](https://www.linkedin.com/learning/unit-testing-in-python/modularizing-conftest-py?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2058,7 +2033,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **File Paths:** conftest.py (6), conftest_start.py (1), cities.py (1), conftest_stsart.py (1)
 > **Code Identifiers:** conftest_start (1), city_list_location (1), conftest_stsart (1)
 > **CLI Commands:** make (1)
@@ -2072,12 +2046,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reading tests to surmise understand behavior
-> [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/reading-tests-to-surmise-behavior?u=76281980)
+#### [Reading tests to surmise understand behavior](https://www.linkedin.com/learning/unit-testing-in-python/reading-tests-to-surmise-behavior?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/unit-testing-in-python/reading-tests-to-surmise-behavior?u=76281980&t=0)** - [Instructor] The great thing about test-driven development with pytest is that it fosters shared practices for test setup that allows us to quickly gain information.
+> **[0:00](https://www.linkedin.com/learning/unit-testing-in-python/reading-tests-to-surmise-behavior?u=76281980&t=0)** - [Instructor] The great thing about [[Test-Driven Development]] with pytest is that it fosters shared practices for test setup that allows us to quickly gain information.
 >
 > **[0:09](https://www.linkedin.com/learning/unit-testing-in-python/reading-tests-to-surmise-behavior?u=76281980&t=9)** We can use this to our advantage to understand the source code by viewing that behavior in the test suite first.
 >
@@ -2157,7 +2130,7 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/unit-testing-in-python/reading-tests-to-surmise-behavior?u=76281980&t=266)** Reading the tests first and then moving to the source code can help bridge your understanding to how the code is used.
 >
-> **[4:32](https://www.linkedin.com/learning/unit-testing-in-python/reading-tests-to-surmise-behavior?u=76281980&t=272)** If you want to continue practicing these skills try finding an open source project in Python with pytest unit tests.
+> **[4:32](https://www.linkedin.com/learning/unit-testing-in-python/reading-tests-to-surmise-behavior?u=76281980&t=272)** If you want to continue practicing these skills try finding an open source project in [[Python (Programming Language)|Python]] with pytest unit tests.
 >
 > **[4:40](https://www.linkedin.com/learning/unit-testing-in-python/reading-tests-to-surmise-behavior?u=76281980&t=280)** Try reading those tests before attempting to read the source code.
 >
@@ -2165,11 +2138,11 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/unit-testing-in-python/reading-tests-to-surmise-behavior?u=76281980&t=288)** Try doing this repeatedly over a few projects that use the pytest framework.
 >
-> **[4:52](https://www.linkedin.com/learning/unit-testing-in-python/reading-tests-to-surmise-behavior?u=76281980&t=292)** In the readme file on GitHub you will find a detailed list of a few projects you can get started with.
+> **[4:52](https://www.linkedin.com/learning/unit-testing-in-python/reading-tests-to-surmise-behavior?u=76281980&t=292)** In the readme file on [[GitHub]] you will find a detailed list of a few projects you can get started with.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test-Driven Development]] (1), next (1), [[Python (Programming Language)|Python]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (1), [[Python (Programming Language)|Python]] (1), [[GitHub]] (1)
 > **Code Identifiers:** validate_entry (3), overlapping_entry (3), test_fitness_log (1), log_activity (1), test_add_valid_activities (1)
 > **Exercise Files:** source code (9)
 > **CLI Commands:** find (2), python (1)
@@ -2178,8 +2151,7 @@ created: 2026-05-02
 > **Documentation:** the readme (1)
 > **Tools:** github (1)
 
-#### Challenge: Adding test coverage
-> [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/challenge-adding-test-coverage?u=76281980)
+#### [Challenge: Adding test coverage](https://www.linkedin.com/learning/unit-testing-in-python/challenge-adding-test-coverage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2211,7 +2183,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/unit-testing-in-python/challenge-adding-test-coverage?u=76281980&t=80)** When thinking about paths, you can see them as following the conditional logic of your function.
 >
-> **[1:26](https://www.linkedin.com/learning/unit-testing-in-python/challenge-adding-test-coverage?u=76281980&t=86)** For example, if you have if else statements, when using control flow, you might write a test that covers the if statement but not the else statement.
+> **[1:26](https://www.linkedin.com/learning/unit-testing-in-python/challenge-adding-test-coverage?u=76281980&t=86)** For example, if you have if else statements, when using [[Control Flow]], you might write a test that covers the if statement but not the else statement.
 >
 > **[1:36](https://www.linkedin.com/learning/unit-testing-in-python/challenge-adding-test-coverage?u=76281980&t=96)** Running the pytest coverage plug-in would pick up that missing test.
 >
@@ -2231,8 +2203,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Adding test coverage
-> [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/solution-adding-test-coverage?u=76281980)
+#### [Solution: Adding test coverage](https://www.linkedin.com/learning/unit-testing-in-python/solution-adding-test-coverage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2252,7 +2223,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
@@ -2263,14 +2233,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/unit-testing-in-python/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/unit-testing-in-python/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/unit-testing-in-python/next-steps?u=76281980&t=0)** - Thank you for joining me for this course about Python unit testing and Docker.
+> **[0:00](https://www.linkedin.com/learning/unit-testing-in-python/next-steps?u=76281980&t=0)** - Thank you for joining me for this course about [[Python (Programming Language)|Python]] [[Unit Testing]] and Docker.
 >
-> **[0:05](https://www.linkedin.com/learning/unit-testing-in-python/next-steps?u=76281980&t=5)** During this lesson, we learned quite a bit about test-driven development, and pytest, with the use of assertions, exception handling, fixtures, and parametrization.
+> **[0:05](https://www.linkedin.com/learning/unit-testing-in-python/next-steps?u=76281980&t=5)** During this lesson, we learned quite a bit about [[Test-Driven Development]], and pytest, with the use of assertions, exception handling, fixtures, and parametrization.
 >
 > **[0:15](https://www.linkedin.com/learning/unit-testing-in-python/next-steps?u=76281980&t=15)** We then covered how to organize common test setup functions in comftest.py and how to approach adding more test coverage for an existing project.
 >
@@ -2278,7 +2247,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/unit-testing-in-python/next-steps?u=76281980&t=33)** Throughout this course, I've mentioned other projects that you may be interested in completing on your own to continue learning this content.
 >
-> **[0:40](https://www.linkedin.com/learning/unit-testing-in-python/next-steps?u=76281980&t=40)** Refer to the README file of the GitHub repository to get the full list of these projects.
+> **[0:40](https://www.linkedin.com/learning/unit-testing-in-python/next-steps?u=76281980&t=40)** Refer to the README file of the [[GitHub]] repository to get the full list of these projects.
 >
 > **[0:45](https://www.linkedin.com/learning/unit-testing-in-python/next-steps?u=76281980&t=45)** In that list you'll also see suggestions for contributing to opensource projects that use pytest.
 >

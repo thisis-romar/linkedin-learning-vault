@@ -100,8 +100,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -123,20 +122,19 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/welcome?u=76281980&t=44)** I want to teach you what it takes to become a programmer yourself.
 >
-> **[0:48](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/welcome?u=76281980&t=48)** In this course, we'll build a calculator app from scratch, 100% in code using Swift UI with no prerequisite knowledge required, and we'll do it in just a couple hours.
+> **[0:48](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/welcome?u=76281980&t=48)** In this course, we'll build a calculator app from scratch, 100% in code using [[Swift (Programming Language)|Swift]] UI with no prerequisite knowledge required, and we'll do it in just a couple hours.
 >
 > **[1:00](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/welcome?u=76281980&t=60)** Check out my course on programming for non-programmers and get started on a rewarding path to achieve your career goals.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), career (2), product (1), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** ios (4), macos (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - [narrator] (1)
 
-#### What you should know before watching this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/what-you-should-know-before-watching-this-course?u=76281980)
+#### [What you should know before watching this course](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/what-you-should-know-before-watching-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -152,8 +150,7 @@ created: 2026-05-02
 > **Code Identifiers:** macos (1)
 > **Speakers:** - [instructor] (1)
 
-#### The finished app
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/the-finished-app?u=76281980)
+#### [The finished app](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/the-finished-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -185,7 +182,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[Programming]] (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -194,12 +190,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating an Xcode project
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/creating-an-xcode-project?u=76281980)
+#### [Creating an Xcode project](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/creating-an-xcode-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/creating-an-xcode-project?u=76281980&t=1)** - [Instructor] The official tool for building iOS apps is called Xcode, which could be downloaded for free at the Mac App Store.
+> **[0:01](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/creating-an-xcode-project?u=76281980&t=1)** - [Instructor] The official tool for building iOS apps is called [[Xcode]], which could be downloaded for free at the Mac App Store.
 >
 > **[0:08](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/creating-an-xcode-project?u=76281980&t=8)** Once you've downloaded and installed Xcode, open up the application and after reading through and agreeing to the licensing agreement, you'll be asked to install additional required components.
 >
@@ -211,19 +206,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (3), application (1)
+> **Frameworks & Libraries:** [[Xcode]] (3)
 > **Prerequisites:** install (3)
 > **Code Identifiers:** ios (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the Xcode interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-the-xcode-interface?u=76281980)
+#### [Understanding the Xcode interface](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-the-xcode-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-the-xcode-interface?u=76281980&t=0)** - [Instructor] Once Xcode is installed, along with the required components, opening Xcode will take you to the Welcome screen, which enables you to quickly create a new project or open an existing project, whether locally or from a repository.
+> **[0:00](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-the-xcode-interface?u=76281980&t=0)** - [Instructor] Once [[Xcode]] is installed, along with the required components, opening Xcode will take you to the Welcome screen, which enables you to quickly create a new project or open an existing project, whether locally or from a repository.
 >
 > **[0:14](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-the-xcode-interface?u=76281980&t=14)** To create your first iOS app, create an Xcode project by clicking the Create New Project button here or through the File menu by going to File, New project.
 >
@@ -253,7 +247,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-the-xcode-interface?u=76281980&t=105)** Leave the other options unchecked, and hit Next.
 >
-> **[1:49](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-the-xcode-interface?u=76281980&t=109)** You're then asked where to save the project and whether to create a Git repository.
+> **[1:49](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-the-xcode-interface?u=76281980&t=109)** You're then asked where to save the project and whether to create a [[Git]] repository.
 >
 > **[1:55](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-the-xcode-interface?u=76281980&t=115)** For what we're doing here, we don't need to create a Git repository, so leave that unchecked, and then I'm saving this in my Exercise Files folder in Chapter 01, First_project, Final.
 >
@@ -265,7 +259,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (4), hit (3), product (3), next (2), [[Git]] (2)
+> **Frameworks & Libraries:** [[Xcode]] (4), [[Git]] (2)
 > **CLI Commands:** make (2), git (2)
 > **Code Identifiers:** ios (3), macos (1)
 > **Exercise Files:** exercise files (2), template (1)
@@ -274,12 +268,11 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** make sure you have (1)
 
-#### Adjusting Xcode preferences and settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/adjusting-xcode-preferences-settings?u=76281980)
+#### [Adjusting Xcode preferences and settings](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/adjusting-xcode-preferences-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/adjusting-xcode-preferences-settings?u=76281980&t=1)** - [Instructor] The Xcode interface is somewhat complicated and can be overwhelming.
+> **[0:01](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/adjusting-xcode-preferences-settings?u=76281980&t=1)** - [Instructor] The [[Xcode]] interface is somewhat complicated and can be overwhelming.
 >
 > **[0:05](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/adjusting-xcode-preferences-settings?u=76281980&t=5)** To make it easier to learn Xcode, I'm going to go over the three parts of the interface and talk about how the interface is generally used.
 >
@@ -301,7 +294,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/adjusting-xcode-preferences-settings?u=76281980&t=81)** So the editor is this main working area in Xcode.
 >
-> **[1:25](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/adjusting-xcode-preferences-settings?u=76281980&t=85)** So right now, I am seeing the code in the ContentView.swift file, and you could see that up here in the comment in the editor.
+> **[1:25](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/adjusting-xcode-preferences-settings?u=76281980&t=85)** So right now, I am seeing the code in the ContentView.[[Swift (Programming Language)|swift]] file, and you could see that up here in the comment in the editor.
 >
 > **[1:34](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/adjusting-xcode-preferences-settings?u=76281980&t=94)** If I single click on First_App, then I'll see the code for that file.
 >
@@ -329,7 +322,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (3), [[Swift (Programming Language)|Swift]] (2), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Xcode]] (3), [[Swift (Programming Language)|Swift]] (2)
 > **UI Navigation:** click on (4)
 > **Definitions:** is called (2), is a  (1)
 > **File Paths:** contentview.swift (1)
@@ -343,8 +336,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding how programming works
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-how-programming-works?u=76281980)
+#### [Understanding how programming works](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-how-programming-works?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -358,7 +350,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-how-programming-works?u=76281980&t=30)** If I click on the globe, the code that controls the globe is highlighted.
 >
-> **[0:35](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-how-programming-works?u=76281980&t=35)** So you see the English word image, which creates the image, A systemName, which has the name of the image, which is rendering a globe here, et cetera.
+> **[0:35](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-how-programming-works?u=76281980&t=35)** So you see the English [[Microsoft Word|word]] image, which creates the image, A systemName, which has the name of the image, which is rendering a globe here, et cetera.
 >
 > **[0:46](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-how-programming-works?u=76281980&t=46)** If I click on the text, you'll see below that, so text is created by using the word text, and then inside of the double quotes, you see Hello world, which is what's rendered inside of the view on the right.
 >
@@ -370,7 +362,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-how-programming-works?u=76281980&t=82)** After that, we run the executable as an application, and then we see the code being executed.
 >
-> **[1:29](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-how-programming-works?u=76281980&t=89)** The last three steps may sound kind of complicated, but they're actually done using the press of a button, and that button is this Run button at the top left inside of Xcode.
+> **[1:29](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-how-programming-works?u=76281980&t=89)** The last three steps may sound kind of complicated, but they're actually done using the press of a button, and that button is this Run button at the top left inside of [[Xcode]].
 >
 > **[1:40](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-how-programming-works?u=76281980&t=100)** So if I click this, the application is compiled into a machine readable language, it's turned into an app, it's installed in the simulator, and the simulator app opens up and runs our application.
 >
@@ -378,13 +370,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), application (3), [[Microsoft Word|Word]] (2), [[Xcode]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Xcode]] (1)
 > **UI Navigation:** click on (2)
 > **Code Identifiers:** systemname (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding variables and constants
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-variables-and-constants?u=76281980)
+#### [Understanding variables and constants](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-variables-and-constants?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -410,7 +401,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-variables-and-constants?u=76281980&t=58)** So to create it, we use the var keyword, then the name of the variable, and then we give it a value with the equal sign, and we set the value on the right side of the equal sign.
 >
-> **[1:08](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-variables-and-constants?u=76281980&t=68)** In Swift, declaring the data type of a variable is optional.
+> **[1:08](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-variables-and-constants?u=76281980&t=68)** In [[Swift (Programming Language)|Swift]], declaring the data type of a variable is optional.
 >
 > **[1:13](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-variables-and-constants?u=76281980&t=73)** So score is a whole number, which is 10, and we can optionally declare it as an integer, which is the data type for a whole number, by typing a colon after the variable name and then the data type of that variable, in this case int, again, short for integer, just like this.
 >
@@ -454,7 +445,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-variables-and-constants?u=76281980&t=213)** You want to start with a lowercase letter, don't have any spaces, so you can separate words by using camelCase.
 >
-> **[3:41](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-variables-and-constants?u=76281980&t=221)** That is each new word should start with a capital letter.
+> **[3:41](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-variables-and-constants?u=76281980&t=221)** That is each new [[Microsoft Word|word]] should start with a capital letter.
 >
 > **[3:45](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-variables-and-constants?u=76281980&t=225)** Only use letters and numbers.
 >
@@ -478,7 +469,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Swift (Programming Language)|Swift]] (4), [[Programming]] (1), application (1), game (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (4), [[Microsoft Word|Word]] (1)
 > **Definitions:** is called (2), is a  (1), short for (1)
 > **Analogies:** similar to (2), just like (2)
 > **Best Practices:** good practice (1), make sure to (1)
@@ -486,8 +477,7 @@ created: 2026-05-02
 > **Code Identifiers:** camelcase (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with variables in a playground
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/working-with-variables-in-a-playground?u=76281980)
+#### [Working with variables in a playground](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/working-with-variables-in-a-playground?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -505,7 +495,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/working-with-variables-in-a-playground?u=76281980&t=38)** And if you hit this play button right here to the left of the code, so that's right over the line number, then the app will build for a second and launch, and it will show you the values of variables on the right side of the screen.
 >
-> **[0:51](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/working-with-variables-in-a-playground?u=76281980&t=51)** So that's really helpful when you're learning and when you're trying to develop things like algorithms.
+> **[0:51](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/working-with-variables-in-a-playground?u=76281980&t=51)** So that's really helpful when you're learning and when you're trying to develop things like [[Algorithms]].
 >
 > **[0:56](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/working-with-variables-in-a-playground?u=76281980&t=56)** The first time you hit that button, it may take a minute or two before you see the result on the right.
 >
@@ -573,7 +563,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), next (4), [[Algorithms]] (1), strengths (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **UI Navigation:** go to (3), click on (1)
 > **Analogies:** just like (2), for example (1)
 > **CLI Commands:** make (1)
@@ -582,12 +572,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using variables in SwiftUI
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-variables-in-swiftui?u=76281980)
+#### [Using variables in SwiftUI](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-variables-in-swiftui?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-variables-in-swiftui?u=76281980&t=1)** - [Instructor] You can create variables in Swift UI just like we did inside of our playground.
+> **[0:01](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-variables-in-swiftui?u=76281980&t=1)** - [Instructor] You can create variables in [[Swift (Programming Language)|Swift]] UI just like we did inside of our playground.
 >
 > **[0:06](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-variables-in-swiftui?u=76281980&t=6)** You just need to add them in the right place.
 >
@@ -617,7 +606,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), data (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2)
 > **Analogies:** just like (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -627,12 +616,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SwiftUI layout basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/swiftui-layout-basics?u=76281980)
+#### [SwiftUI layout basics](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/swiftui-layout-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/swiftui-layout-basics?u=76281980&t=1)** - [Instructor] Now, we're at the point where we've discussed enough foundational programming concepts to start building our calculator.
+> **[0:01](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/swiftui-layout-basics?u=76281980&t=1)** - [Instructor] Now, we're at the point where we've discussed enough foundational [[Programming Concepts]] to start building our calculator.
 >
 > **[0:08](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/swiftui-layout-basics?u=76281980&t=8)** We're going to start with creating the calculator layout of the buttons.
 >
@@ -704,14 +692,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Programming Concepts]] (1)
+> **Frameworks & Libraries:** [[Programming Concepts]] (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** short for (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating custom SwiftUI components
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/creating-custom-swiftui-components?u=76281980)
+#### [Creating custom SwiftUI components](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/creating-custom-swiftui-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -747,13 +734,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), next (1)
 > **Code Identifiers:** ios (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating calculator buttons
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/creating-calculator-buttons?u=76281980)
+#### [Creating calculator buttons](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/creating-calculator-buttons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -797,7 +782,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/creating-calculator-buttons?u=76281980&t=109)** For ones that are italicized, that represents optional parameters.
 >
-> **[1:53](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/creating-calculator-buttons?u=76281980&t=113)** If you use the keyboard shortcut at the top, Option + Return, Xcode will automatically add all of those option parameters.
+> **[1:53](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/creating-calculator-buttons?u=76281980&t=113)** If you use the keyboard shortcut at the top, Option + Return, [[Xcode]] will automatically add all of those option parameters.
 >
 > **[2:01](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/creating-calculator-buttons?u=76281980&t=121)** So I'm going to press that right now.
 >
@@ -869,7 +854,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), hit (2), [[Xcode]] (1), application (1)
+> **Frameworks & Libraries:** [[Xcode]] (1)
 > **UI Navigation:** go to (5)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** largetitle (1), foregroundstyle (1), clipshape (1)
@@ -877,8 +862,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting button text
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/setting-button-text?u=76281980)
+#### [Setting button text](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/setting-button-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -947,8 +931,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Speakers:** - [presenter] (1)
 
-#### Setting button width
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/setting-button-width?u=76281980)
+#### [Setting button width](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/setting-button-width?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -968,13 +951,13 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/setting-button-width?u=76281980&t=53)** When you do that, you're going to see an error message.
 >
-> **[0:56](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/setting-button-width?u=76281980&t=56)** What this is saying is, Xcode interprets this 70 value as an integer, but it's expecting a different type of value to be passed in here.
+> **[0:56](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/setting-button-width?u=76281980&t=56)** What this is saying is, [[Xcode]] interprets this 70 value as an integer, but it's expecting a different type of value to be passed in here.
 >
 > **[1:07](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/setting-button-width?u=76281980&t=67)** All we need to do to fix that is type in the data type that Xcode wants for the width.
 >
 > **[1:12](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/setting-button-width?u=76281980&t=72)** So let's go after the width declaration type of colon in a space, and then type CGFloat.
 >
-> **[1:20](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/setting-button-width?u=76281980&t=80)** This is a numeric data type that's used in user interfaces in Swift UI.
+> **[1:20](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/setting-button-width?u=76281980&t=80)** This is a numeric data type that's used in user interfaces in [[Swift (Programming Language)|Swift]] UI.
 >
 > **[1:25](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/setting-button-width?u=76281980&t=85)** So sometimes neglecting to use a specific data type can cause problems, and this is one of those examples.
 >
@@ -998,7 +981,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (2), [[Xcode]] (2), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[Xcode]] (2), [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (2)
@@ -1006,8 +989,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting button colors
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/setting-button-colors?u=76281980)
+#### [Setting button colors](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/setting-button-colors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1061,7 +1043,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), next (1)
 > **Versions:** 1.0 (1), 0.283 (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -1069,8 +1050,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create the value text view
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/challenge-create-the-value-text-view?u=76281980)
+#### [Challenge: Create the value text view](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/challenge-create-the-value-text-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1098,13 +1078,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Cross-References:** we discussed (3)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Create the value text view
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/solution-create-the-value-text-view?u=76281980)
+#### [Solution: Create the value text view](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/solution-create-the-value-text-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1234,7 +1212,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), hit (2)
 > **Code Identifiers:** mytext (4), linelimit (3), bottomtrailing (2), fontweight (2), ios (1)
 > **Definitions:** is a  (3), known as (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -1247,8 +1224,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-methods?u=76281980)
+#### [Understanding methods](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1376,7 +1352,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Programming]] (1), game (1), power (1)
 > **Code Identifiers:** getsum (5), camelcase (1)
 > **Definitions:** in other words (2), short for (2), is a  (1), is an  (1)
 > **Analogies:** just like (2), kind of like (1), similar to (1), for example (1)
@@ -1385,8 +1360,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-methods?u=76281980)
+#### [Using methods](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1418,11 +1392,11 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-methods?u=76281980&t=77)** Now let's make, "get new greeting" receive a parameter.
 >
-> **[1:20](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-methods?u=76281980&t=80)** So I'm going to click inside of the parentheses of my method definition here, and I'm going to type word one, colon, specifying the data type and then a space, and then string with a capital S.
+> **[1:20](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-methods?u=76281980&t=80)** So I'm going to click inside of the parentheses of my method definition here, and I'm going to type [[Microsoft Word|word]] one, colon, specifying the data type and then a space, and then string with a capital S.
 >
 > **[1:32](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-methods?u=76281980&t=92)** So this get new greeting method receives a string.
 >
-> **[1:37](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-methods?u=76281980&t=97)** So what I need to do here is click inside and type word one, or click this message right here, and Xcode will put a suggestion in.
+> **[1:37](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-methods?u=76281980&t=97)** So what I need to do here is click inside and type word one, or click this message right here, and [[Xcode]] will put a suggestion in.
 >
 > **[1:46](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-methods?u=76281980&t=106)** I'll hit fix, and then I can just replace the string with my string.
 >
@@ -1472,12 +1446,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (13), hit (6), [[Xcode]] (3), data (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (13), [[Xcode]] (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running code when a button is pressed
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/running-code-when-a-button-is-pressed?u=76281980)
+#### [Running code when a button is pressed](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/running-code-when-a-button-is-pressed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1517,7 +1490,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/running-code-when-a-button-is-pressed?u=76281980&t=100)** And then for the label inside of the curly braces, we have to have a view.
 >
-> **[1:44](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/running-code-when-a-button-is-pressed?u=76281980&t=104)** So the default value is Text with the word Button.
+> **[1:44](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/running-code-when-a-button-is-pressed?u=76281980&t=104)** So the default value is Text with the [[Microsoft Word|word]] Button.
 >
 > **[1:47](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/running-code-when-a-button-is-pressed?u=76281980&t=107)** So if you look over at button over here, you see our button.
 >
@@ -1561,7 +1534,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), hit (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** buttonwaspressed (4), buttontext (3)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** make (1), find (1)
@@ -1569,12 +1542,11 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using a method as a variable
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-a-method-as-a-variable?u=76281980)
+#### [Using a method as a variable](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-a-method-as-a-variable?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-a-method-as-a-variable?u=76281980&t=1)** - [Instructor] Swift actually allows you to pass in methods as parameters and that's what we're going to look at here.
+> **[0:01](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-a-method-as-a-variable?u=76281980&t=1)** - [Instructor] [[Swift (Programming Language)|Swift]] actually allows you to pass in methods as parameters and that's what we're going to look at here.
 >
 > **[0:08](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-a-method-as-a-variable?u=76281980&t=8)** Now, why might you want to do that?
 >
@@ -1610,7 +1582,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-a-method-as-a-variable?u=76281980&t=82)** So type a colon to specify the data type.
 >
-> **[1:25](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-a-method-as-a-variable?u=76281980&t=85)** And this is not going to be the word method or really any other word.
+> **[1:25](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-a-method-as-a-variable?u=76281980&t=85)** And this is not going to be the [[Microsoft Word|word]] method or really any other word.
 >
 > **[1:29](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-a-method-as-a-variable?u=76281980&t=89)** What it is is parentheses.
 >
@@ -1680,15 +1652,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Word|Word]] (3), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** buttonwaspressed (4), numberwaspressed (2), buttontext (1)
 > **UI Navigation:** select the (1), go to (1)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Passing parameters to method variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/passing-parameters-to-method-variables?u=76281980)
+#### [Passing parameters to method variables](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/passing-parameters-to-method-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1714,7 +1685,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/passing-parameters-to-method-variables?u=76281980&t=63)** So put CalculatorButton right here, just like that in the parentheses, and then the default value needs to be different, because the default value needs to receive some kind of parameter.
 >
-> **[1:17](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/passing-parameters-to-method-variables?u=76281980&t=77)** So we can do that by typing an underscore, that's an unnamed parameter, a space, and then the word in.
+> **[1:17](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/passing-parameters-to-method-variables?u=76281980&t=77)** So we can do that by typing an underscore, that's an unnamed parameter, a space, and then the [[Microsoft Word|word]] in.
 >
 > **[1:25](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/passing-parameters-to-method-variables?u=76281980&t=85)** So that solves the error right here.
 >
@@ -1760,7 +1731,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1), [[Microsoft Word|Word]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), refers to (2)
 > **Code Identifiers:** numberwaspressed (2)
 > **UI Navigation:** click on (2)
@@ -1768,8 +1739,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### SwiftUI binding
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/swiftui-binding?u=76281980)
+#### [SwiftUI binding](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/swiftui-binding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1843,7 +1813,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/swiftui-binding?u=76281980&t=202)** And what this controls is this view on the right, our preview of our application.
 >
-> **[3:27](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/swiftui-binding?u=76281980&t=207)** So if I click this error message, I can have Xcode help me out by clicking the fix button, and then I need to pass in a binding string.
+> **[3:27](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/swiftui-binding?u=76281980&t=207)** So if I click this error message, I can have [[Xcode]] help me out by clicking the fix button, and then I need to pass in a binding string.
 >
 > **[3:35](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/swiftui-binding?u=76281980&t=215)** In some cases in SwiftUI, we can have, instead of a binding variable, we use a constant using the .constant keyword.
 >
@@ -1857,7 +1827,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/swiftui-binding?u=76281980&t=247)** So instead of printing it out, we're going to set the total equal to that.
 >
-> **[4:12](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/swiftui-binding?u=76281980&t=252)** So delete the parentheses and the word print.
+> **[4:12](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/swiftui-binding?u=76281980&t=252)** So delete the parentheses and the [[Microsoft Word|word]] print.
 >
 > **[4:14](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/swiftui-binding?u=76281980&t=254)** So we just have button.buttonText.
 >
@@ -1879,7 +1849,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), application (1), [[Xcode]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Xcode]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is called (1), in other words (1)
@@ -1887,8 +1857,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using different methods to handle different events
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-different-methods-to-handle-different-events?u=76281980)
+#### [Using different methods to handle different events](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-different-methods-to-handle-different-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1952,7 +1921,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), hit (1)
 > **Code Identifiers:** modewaspressed (5), clearwaspressed (3), numberwaspressed (2)
 > **UI Navigation:** click on (2), scroll up (1), select the (1)
 > **Analogies:** just like (2)
@@ -1960,8 +1928,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create methods for the equal button
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/challenge-create-methods-for-the-equal-button?u=76281980)
+#### [Challenge: Create methods for the equal button](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/challenge-create-methods-for-the-equal-button?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1989,14 +1956,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Create methods for the equal button
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/solution-create-methods-for-the-equal-button?u=76281980)
+#### [Solution: Create methods for the equal button](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/solution-create-methods-for-the-equal-button?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2023,8 +1988,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding conditional statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-conditional-statements?u=76281980)
+#### [Understanding conditional statements](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-conditional-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2040,11 +2004,11 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-conditional-statements?u=76281980&t=22)** It can run one code path if the value is true, and optionally, a different code path if the value is false.
 >
-> **[0:30](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-conditional-statements?u=76281980&t=30)** This is also referred to as Control Flow, so you may hear that term as you're learning programming concepts.
+> **[0:30](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-conditional-statements?u=76281980&t=30)** This is also referred to as [[Control Flow]], so you may hear that term as you're learning [[Programming Concepts]].
 >
 > **[0:38](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-conditional-statements?u=76281980&t=38)** So let's take a look at a simple example of a conditional statement.
 >
-> **[0:42](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-conditional-statements?u=76281980&t=42)** You have the if key word and then a condition that is evaluated as either true or false.
+> **[0:42](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-conditional-statements?u=76281980&t=42)** You have the if key [[Microsoft Word|word]] and then a condition that is evaluated as either true or false.
 >
 > **[0:48](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-conditional-statements?u=76281980&t=48)** And then you wrap the code that is executed if the condition is evaluated as true within curly braces.
 >
@@ -2080,7 +2044,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-conditional-statements?u=76281980&t=149)** So you'll notice here that the variable type is false with no quotes.
 >
-> **[2:35](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-conditional-statements?u=76281980&t=155)** A true or false value in Swift is called a Boolean and it does not have quotes around it.
+> **[2:35](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-conditional-statements?u=76281980&t=155)** A true or false value in [[Swift (Programming Language)|Swift]] is called a Boolean and it does not have quotes around it.
 >
 > **[2:41](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/understanding-conditional-statements?u=76281980&t=161)** You can use a variable value that is of the Boolean type in an if statement like we're doing here.
 >
@@ -2122,8 +2086,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using conditional statements and Booleans
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-conditional-statements-and-booleans?u=76281980)
+#### [Using conditional statements and Booleans](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-conditional-statements-and-booleans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2133,7 +2096,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-conditional-statements-and-booleans?u=76281980&t=10)** Once you've done that, hit the run button and then you should see the output over on the right.
 >
-> **[0:14](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-conditional-statements-and-booleans?u=76281980&t=14)** Let's go down a few lines and type the word "if".
+> **[0:14](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-conditional-statements-and-booleans?u=76281980&t=14)** Let's go down a few lines and type the [[Microsoft Word|word]] "if".
 >
 > **[0:17](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/using-conditional-statements-and-booleans?u=76281980&t=17)** Remember, this is what we do to create a conditional statement and then we need something that is evaluated as true or false called a condition.
 >
@@ -2237,15 +2200,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), [[Microsoft Word|Word]] (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (3)
 > **Analogies:** just like (2)
 > **Definitions:** is a  (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling the numeric button presses
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/handling-the-numeric-button-presses?u=76281980)
+#### [Handling the numeric button presses](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/handling-the-numeric-button-presses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2315,13 +2277,13 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/handling-the-numeric-button-presses?u=76281980&t=192)** Go in the content view and start typing numbers out.
 >
-> **[3:16](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/handling-the-numeric-button-presses?u=76281980&t=196)** Then we get this word right here, which is going to be optional.
+> **[3:16](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/handling-the-numeric-button-presses?u=76281980&t=196)** Then we get this [[Microsoft Word|word]] right here, which is going to be optional.
 >
 > **[3:19](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/handling-the-numeric-button-presses?u=76281980&t=199)** It's just cut off a little bit because the word's too long.
 >
 > **[3:22](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/handling-the-numeric-button-presses?u=76281980&t=202)** The problem that we're seeing back in button grid is that line 43 where we convert the string to an integer could possibly fail.
 >
-> **[3:31](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/handling-the-numeric-button-presses?u=76281980&t=211)** So what that does is it puts it inside of this wrapper in Swift called an optional value.
+> **[3:31](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/handling-the-numeric-button-presses?u=76281980&t=211)** So what that does is it puts it inside of this wrapper in [[Swift (Programming Language)|Swift]] called an optional value.
 >
 > **[3:39](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/handling-the-numeric-button-presses?u=76281980&t=219)** Unless we unwrap that value, then we're going to see the word optional when we try to put it back into a string.
 >
@@ -2355,8 +2317,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optionals and If Let statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/optionals-and-if-let-statements?u=76281980)
+#### [Optionals and If Let statements](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/optionals-and-if-let-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2370,7 +2331,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/optionals-and-if-let-statements?u=76281980&t=26)** That said, it's very important to understand how to gracefully and properly handle that case.
 >
-> **[0:33](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/optionals-and-if-let-statements?u=76281980&t=33)** So what we're going to do is, as a good practice in writing Swift code, handle this the proper way.
+> **[0:33](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/optionals-and-if-let-statements?u=76281980&t=33)** So what we're going to do is, as a good practice in writing [[Swift (Programming Language)|Swift]] code, handle this the proper way.
 >
 > **[0:40](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/optionals-and-if-let-statements?u=76281980&t=40)** To do that, we're actually going to use the if keyword just before let, and this is a slightly different usage of if than we've seen before.
 >
@@ -2392,7 +2353,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/optionals-and-if-let-statements?u=76281980&t=122)** So now it's rendering an "a".
 >
-> **[2:03](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/optionals-and-if-let-statements?u=76281980&t=123)** It's not showing the word error because the method that happens when we press a button hasn't happened yet.
+> **[2:03](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/optionals-and-if-let-statements?u=76281980&t=123)** It's not showing the [[Microsoft Word|word]] error because the method that happens when we press a button hasn't happened yet.
 >
 > **[2:09](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/optionals-and-if-let-statements?u=76281980&t=129)** So now press a button and then we get Error right there.
 >
@@ -2417,8 +2378,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enums
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/enums?u=76281980)
+#### [Enums](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/enums?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2452,7 +2412,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/enums?u=76281980&t=90)** So we can have addition, subtraction, multiplication and equals.
 >
-> **[1:35](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/enums?u=76281980&t=95)** So let's scroll up to the top, and then I'm going to create this above the struct line of code and below the import swift UI line of code.
+> **[1:35](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/enums?u=76281980&t=95)** So let's scroll up to the top, and then I'm going to create this above the struct line of code and below the import [[Swift (Programming Language)|swift]] UI line of code.
 >
 > **[1:45](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/enums?u=76281980&t=105)** So here I'm going to create a few new lines and then I'm going to type the keyword enum.
 >
@@ -2468,7 +2428,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/enums?u=76281980&t=134)** One value's going to be addition.
 >
-> **[2:17](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/enums?u=76281980&t=137)** Just make sure you're putting the word case before each one.
+> **[2:17](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/enums?u=76281980&t=137)** Just make sure you're putting the [[Microsoft Word|word]] case before each one.
 >
 > **[2:20](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/enums?u=76281980&t=140)** Another value's going to be subtraction.
 >
@@ -2534,21 +2494,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Swift (Programming Language)|Swift]] (1), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2), find (2)
 > **UI Navigation:** scroll up (1), click on (1), scroll down (1)
 > **Definitions:** short for (1)
 > **Analogies:** for example (1)
 > **Speakers:** - our (1)
 
-#### Challenge: Conditionals
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/challenge-conditionals?u=76281980)
+#### [Challenge: Conditionals](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/challenge-conditionals?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/challenge-conditionals?u=76281980&t=0)** - [Narrator] And now for this chapter's challenge, let's review what we talked about so far.
 >
-> **[0:07](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/challenge-conditionals?u=76281980&t=7)** Conditionals manage control flow by using if/else statements to execute certain blocks of code and a single condition can have multiple expressions.
+> **[0:07](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/challenge-conditionals?u=76281980&t=7)** Conditionals manage [[Control Flow]] by using if/else statements to execute certain blocks of code and a single condition can have multiple expressions.
 >
 > **[0:18](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/challenge-conditionals?u=76281980&t=18)** We got a little bit of practice throughout the chapter writing these kinds of statements.
 >
@@ -2610,15 +2569,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Control Flow]] (1), next (1)
+> **Frameworks & Libraries:** [[Control Flow]] (1)
 > **Definitions:** in other words (2), is a  (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** lastbuttonwasmode (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Conditionals
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/solution-conditionals?u=76281980)
+#### [Solution: Conditionals](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/solution-conditionals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2671,8 +2629,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Storing the saved number
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/storing-the-saved-number?u=76281980)
+#### [Storing the saved number](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/storing-the-saved-number?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2776,15 +2733,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), next (1)
 > **Code Identifiers:** currentint (12), savedint (4), updatetext (4), totalint (3), currentmode (2)
 > **UI Navigation:** go to (1), scroll down (1), scroll up (1)
 > **Definitions:** in other words (2), we call this (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Showing the total when the equals button is tapped
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/showing-the-total-when-the-equals-button-is-tapped?u=76281980)
+#### [Showing the total when the equals button is tapped](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/showing-the-total-when-the-equals-button-is-tapped?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2808,7 +2763,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/showing-the-total-when-the-equals-button-is-tapped?u=76281980&t=76)** If you want, you can write your own statement for that by pausing the movie.
 >
-> **[1:21](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/showing-the-total-when-the-equals-button-is-tapped?u=76281980&t=81)** One way to handle that is after the closed curly brace of the if statement, type a space and type the word else.
+> **[1:21](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/showing-the-total-when-the-equals-button-is-tapped?u=76281980&t=81)** One way to handle that is after the closed curly brace of the if statement, type a space and type the [[Microsoft Word|word]] else.
 >
 > **[1:29](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/showing-the-total-when-the-equals-button-is-tapped?u=76281980&t=89)** Remember this runs if the if statement is evaluated as false.
 >
@@ -2856,14 +2811,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** savedint (6), currentint (5), currentmode (3), equalwaspressed (1), lastbuttonwasmode (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Formatting the total number
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/formatting-the-total-number?u=76281980)
+#### [Formatting the total number](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/formatting-the-total-number?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2871,7 +2825,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/formatting-the-total-number?u=76281980&t=7)** If I type 1000 in the calculator, there's no separator between the one and the first zero.
 >
-> **[0:13](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/formatting-the-total-number?u=76281980&t=13)** We can actually do that using some built-in code in Swift.
+> **[0:13](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/formatting-the-total-number?u=76281980&t=13)** We can actually do that using some built-in code in [[Swift (Programming Language)|Swift]].
 >
 > **[0:17](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/formatting-the-total-number?u=76281980&t=17)** Let's go over to ButtonGrid and implement that.
 >
@@ -2923,7 +2877,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** currentint (2), updatetext (1), numberstyle (1)
 > **Definitions:** is a  (1), in other words (1)
 > **CLI Commands:** find (1)
@@ -2931,8 +2885,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Replacing the mode buttons with symbols
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/replacing-the-mode-buttons-with-symbols?u=76281980)
+#### [Replacing the mode buttons with symbols](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/replacing-the-mode-buttons-with-symbols?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2940,7 +2893,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/replacing-the-mode-buttons-with-symbols?u=76281980&t=10)** What we're basically going to do is copy our CalculatorButton and we'll call it CalculatorImageButton, and in there, we're just going to accept an image instead of text.
 >
-> **[0:22](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/replacing-the-mode-buttons-with-symbols?u=76281980&t=22)** So let's press command+N on the keyboard, I'll create a new Swift UI view by pressing return because it's already selected, and we'll call this CalculatorImageButton just like that.
+> **[0:22](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/replacing-the-mode-buttons-with-symbols?u=76281980&t=22)** So let's press command+N on the keyboard, I'll create a new [[Swift (Programming Language)|Swift]] UI view by pressing return because it's already selected, and we'll call this CalculatorImageButton just like that.
 >
 > **[0:33](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/replacing-the-mode-buttons-with-symbols?u=76281980&t=33)** Hit return or create and there it is.
 >
@@ -2962,7 +2915,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/replacing-the-mode-buttons-with-symbols?u=76281980&t=95)** I'll click away from that and then we'll look at using this CalculatorImageButton.
 >
-> **[1:39](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/replacing-the-mode-buttons-with-symbols?u=76281980&t=99)** So let's go over to ButtonGrid and then I'm going to scroll all the way up to the top and I'm going to change on line 29 the plus button, change "CalculatorButton" to "CalculatorImageButton" with a capital "I", and then change the plus to the word "plus".
+> **[1:39](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/replacing-the-mode-buttons-with-symbols?u=76281980&t=99)** So let's go over to ButtonGrid and then I'm going to scroll all the way up to the top and I'm going to change on line 29 the plus button, change "CalculatorButton" to "CalculatorImageButton" with a capital "I", and then change the plus to the [[Microsoft Word|word]] "plus".
 >
 > **[1:56](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/replacing-the-mode-buttons-with-symbols?u=76281980&t=116)** You're also going to see a problem with modeWasPressed because it accepts a calculator button, and now we've changed that to a CalculatorImageButton.
 >
@@ -2982,15 +2935,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), hit (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** buttontext (3), modewaspressed (2), systemname (1)
 > **UI Navigation:** scroll down (2), in the toolbar (1), scroll up (1)
 > **Analogies:** just like (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [presenter] (1)
 
-#### Adding an app icon
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/adding-an-app-icon?u=76281980)
+#### [Adding an app icon](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/adding-an-app-icon?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3004,7 +2956,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/adding-an-app-icon?u=76281980&t=14)** Then you're asked to supply an image icon.
 >
-> **[0:17](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/adding-an-app-icon?u=76281980&t=17)** Xcode actually tells you the requirements for the image.
+> **[0:17](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/adding-an-app-icon?u=76281980&t=17)** [[Xcode]] actually tells you the requirements for the image.
 >
 > **[0:21](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/adding-an-app-icon?u=76281980&t=21)** It's a 1024-by-1024 pixel square image.
 >
@@ -3030,14 +2982,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), application (1), [[Xcode]] (1)
+> **Frameworks & Libraries:** [[Xcode]] (1)
 > **Code Identifiers:** ios (2), iphone (1)
 > **UI Navigation:** click on (1), double-click (1), go to (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Clear button
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/challenge-clear-button?u=76281980)
+#### [Challenge: Clear button](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/challenge-clear-button?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3059,8 +3010,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Clear button
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/solution-clear-button?u=76281980)
+#### [Solution: Clear button](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/solution-clear-button?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3092,7 +3042,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), application (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -3103,8 +3052,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3112,9 +3060,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/next-steps?u=76281980&t=7)** You may be wondering where you can go from here.
 >
-> **[0:09](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/next-steps?u=76281980&t=9)** Here are a few recommendations from me from the LinkedIn Learning library.
+> **[0:09](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/next-steps?u=76281980&t=9)** Here are a few recommendations from me from the [[LinkedIn]] Learning library.
 >
-> **[0:14](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/next-steps?u=76281980&t=14)** One of them is Programming Foundations: Fundamentals.
+> **[0:14](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/next-steps?u=76281980&t=14)** One of them is [[Programming Foundations]]: Fundamentals.
 >
 > **[0:17](https://www.linkedin.com/learning/programming-for-non-programmers-ios-17-and-swift-5-21049778/next-steps?u=76281980&t=17)** This is a great course for learning the basics of programming, possibly filling in any gaps that we talked about in this course.
 >
@@ -3134,7 +3082,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), next (2), [[LinkedIn]] (1), [[Programming Foundations]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Programming Foundations]] (1)
 > **Code Identifiers:** ios (2)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)

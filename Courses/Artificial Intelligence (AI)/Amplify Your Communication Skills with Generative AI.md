@@ -61,8 +61,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use AI to take your communication to the next level
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/use-ai-to-take-your-communication-to-the-next-level?u=76281980)
+#### [Use AI to take your communication to the next level](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/use-ai-to-take-your-communication-to-the-next-level?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -80,11 +79,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), teams (1)
 > **Speakers:** - think (1)
 
-#### Best practices to make AI your communication copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/best-practices-to-make-ai-your-communication-copilot?u=76281980)
+#### [Best practices to make AI your communication copilot](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/best-practices-to-make-ai-your-communication-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -98,7 +95,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/best-practices-to-make-ai-your-communication-copilot?u=76281980&t=28)** The most important tip to remember, the more information you give your AI tool, the better it will be able to help you.
 >
-> **[0:36](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/best-practices-to-make-ai-your-communication-copilot?u=76281980&t=36)** The arts and science of creating perfect AI directions is called prompt engineering.
+> **[0:36](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/best-practices-to-make-ai-your-communication-copilot?u=76281980&t=36)** The arts and science of creating perfect AI directions is called [[Prompt Engineering]].
 >
 > **[0:43](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/best-practices-to-make-ai-your-communication-copilot?u=76281980&t=43)** Every time you want AI to help you with something, you have to give it a prompt.
 >
@@ -112,7 +109,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/best-practices-to-make-ai-your-communication-copilot?u=76281980&t=68)** Again, the more detail the better.
 >
-> **[1:10](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/best-practices-to-make-ai-your-communication-copilot?u=76281980&t=70)** So you might share your preferred style of writing, the core values of your brand, your desired word count, and its response, and even whether you prefer to use emojis or not.
+> **[1:10](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/best-practices-to-make-ai-your-communication-copilot?u=76281980&t=70)** So you might share your preferred style of writing, the core values of your brand, your desired [[Microsoft Word|word]] count, and its response, and even whether you prefer to use emojis or not.
 >
 > **[1:21](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/best-practices-to-make-ai-your-communication-copilot?u=76281980&t=81)** Be sure to tell the AI your ultimate goal so it can help give you the outcome you are looking for.
 >
@@ -122,7 +119,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/best-practices-to-make-ai-your-communication-copilot?u=76281980&t=102)** AI can partner with you in designing a message that is both warm and effective if you give it the right instructions.
 >
-> **[1:50](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/best-practices-to-make-ai-your-communication-copilot?u=76281980&t=110)** Use a generative AI tool like ChatGPT, Microsoft Copilot, Perplexity AI, Antheopic or Google Bard, and type in a prompt that describes the situation.
+> **[1:50](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/best-practices-to-make-ai-your-communication-copilot?u=76281980&t=110)** Use a [[Generative AI]] tool like [[ChatGPT]], [[Microsoft Copilot]], Perplexity AI, Antheopic or [[Google]] Bard, and type in a prompt that describes the situation.
 >
 > **[2:01](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/best-practices-to-make-ai-your-communication-copilot?u=76281980&t=121)** Remember, the more detail you provide, the better the tool can help you.
 >
@@ -162,7 +159,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/best-practices-to-make-ai-your-communication-copilot?u=76281980&t=201)** Shared details that would help the AI to write a custom response for them.
 >
-> **[3:26](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/best-practices-to-make-ai-your-communication-copilot?u=76281980&t=206)** I recommend copying and pasting the LinkedIn profile of the person you need to give feedback to or a previous email.
+> **[3:26](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/best-practices-to-make-ai-your-communication-copilot?u=76281980&t=206)** I recommend copying and pasting the [[LinkedIn]] profile of the person you need to give feedback to or a previous email.
 >
 > **[3:34](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/best-practices-to-make-ai-your-communication-copilot?u=76281980&t=214)** Their profile will help inform the response as the Gen AI takes into consideration the person's writing style and listed skills.
 >
@@ -254,7 +251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (30), prompt (10), [[LinkedIn]] (3), [[Microsoft Word|Word]] (2), [[Prompt Engineering]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Microsoft Word|Word]] (2), [[Prompt Engineering]] (1), [[Generative AI]] (1), [[ChatGPT]] (1)
 > **Analogies:** for example (2), just like (1), imagine (1), such as (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is called (1), is a  (1)
@@ -263,8 +260,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - the (1)
 
-#### How to use AI tools ethically and authentically
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/how-to-use-ai-tools-ethically-and-authentically?u=76281980)
+#### [How to use AI tools ethically and authentically](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/how-to-use-ai-tools-ethically-and-authentically?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -276,7 +272,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/how-to-use-ai-tools-ethically-and-authentically?u=76281980&t=17)** AI may inadvertently distort the intended meaning of a message or introduce errors, so always double check any AI generated content to ensure it aligns with the message you want to convey.
 >
-> **[0:31](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/how-to-use-ai-tools-ethically-and-authentically?u=76281980&t=31)** Second, privacy concerns.
+> **[0:31](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/how-to-use-ai-tools-ethically-and-authentically?u=76281980&t=31)** Second, [[Privacy]] concerns.
 >
 > **[0:33](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/how-to-use-ai-tools-ethically-and-authentically?u=76281980&t=33)** Consult your company's data use policy for inputting personal or sensitive information into an AI tool that might expose that data to third parties.
 >
@@ -308,12 +304,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), data (2), [[Privacy]] (1), hr (1)
+> **Frameworks & Libraries:** [[Privacy]] (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - before (1)
 
-#### Learn which AI tools can enhance your communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-which-ai-tools-can-enhance-your-communication?u=76281980)
+#### [Learn which AI tools can enhance your communication](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-which-ai-tools-can-enhance-your-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -333,7 +328,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-which-ai-tools-can-enhance-your-communication?u=76281980&t=42)** But remember, unlike a search engine, using AI tools is more like a dynamic conversation where you can adjust your request as you go.
 >
-> **[0:52](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-which-ai-tools-can-enhance-your-communication?u=76281980&t=52)** This course is being filmed at the one-year anniversary of ChatGPT being released.
+> **[0:52](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-which-ai-tools-can-enhance-your-communication?u=76281980&t=52)** This course is being filmed at the one-year anniversary of [[ChatGPT]] being released.
 >
 > **[0:57](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-which-ai-tools-can-enhance-your-communication?u=76281980&t=57)** It's hard to believe how much the space has changed in that short time.
 >
@@ -341,7 +336,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-which-ai-tools-can-enhance-your-communication?u=76281980&t=68)** For now, here are some tools to consider.
 >
-> **[1:10](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-which-ai-tools-can-enhance-your-communication?u=76281980&t=70)** ChatGPT, Microsoft Copilot, Perplexity AI and Anthropic.
+> **[1:10](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-which-ai-tools-can-enhance-your-communication?u=76281980&t=70)** ChatGPT, [[Microsoft Copilot]], Perplexity AI and Anthropic.
 >
 > **[1:16](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-which-ai-tools-can-enhance-your-communication?u=76281980&t=76)** Second, image generation and feedback.
 >
@@ -349,7 +344,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-which-ai-tools-can-enhance-your-communication?u=76281980&t=85)** You can also upload an existing image for feedback and have it change the image as desired.
 >
-> **[1:31](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-which-ai-tools-can-enhance-your-communication?u=76281980&t=91)** These are helpful in supporting your communication with applicable visuals and storytelling aids.
+> **[1:31](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-which-ai-tools-can-enhance-your-communication?u=76281980&t=91)** These are helpful in supporting your communication with applicable visuals and [[Storytelling]] aids.
 >
 > **[1:37](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-which-ai-tools-can-enhance-your-communication?u=76281980&t=97)** AI tools in this space can make presentations, enhance profile photos, or create graphics to support your argument.
 >
@@ -359,11 +354,11 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-which-ai-tools-can-enhance-your-communication?u=76281980&t=123)** Never use those boring old generic stock photos again.
 >
-> **[2:07](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-which-ai-tools-can-enhance-your-communication?u=76281980&t=127)** Tools to consider: Dall-E and Midjourney can create any image from a text prompt.
+> **[2:07](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-which-ai-tools-can-enhance-your-communication?u=76281980&t=127)** Tools to consider: [[DALL-E]] and [[Midjourney]] can create any image from a text prompt.
 >
 > **[2:14](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-which-ai-tools-can-enhance-your-communication?u=76281980&t=134)** Remini can enhance your profile photo or change your outfit or background.
 >
-> **[2:18](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-which-ai-tools-can-enhance-your-communication?u=76281980&t=138)** Canva can create images.
+> **[2:18](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-which-ai-tools-can-enhance-your-communication?u=76281980&t=138)** [[Canva]] can create images.
 >
 > **[2:21](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-which-ai-tools-can-enhance-your-communication?u=76281980&t=141)** Third, data analysis.
 >
@@ -389,7 +384,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-which-ai-tools-can-enhance-your-communication?u=76281980&t=221)** These are incredible for getting feedback on your communication.
 >
-> **[3:45](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-which-ai-tools-can-enhance-your-communication?u=76281980&t=225)** For example, Zoom now has an AI tool that will help you summarize a meeting and create action steps.
+> **[3:45](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-which-ai-tools-can-enhance-your-communication?u=76281980&t=225)** For example, [[Zoom]] now has an AI tool that will help you summarize a meeting and create action steps.
 >
 > **[3:51](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-which-ai-tools-can-enhance-your-communication?u=76281980&t=231)** Tools to consider: Runway, Pika, ImageBind, and MusicLM.
 >
@@ -399,7 +394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[ChatGPT]] (3), data (3), [[Microsoft Copilot]] (2), teams (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Microsoft Copilot]] (2), [[Storytelling]] (1), [[DALL-E]] (1), [[Midjourney]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (3)
 > **Speakers:** - ai (1)
@@ -409,8 +404,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Write clear, persuasive, and warm emails with generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/write-clear-persuasive-and-warm-emails-with-generative-ai?u=76281980)
+#### [Write clear, persuasive, and warm emails with generative AI](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/write-clear-persuasive-and-warm-emails-with-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -466,7 +460,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/write-clear-persuasive-and-warm-emails-with-generative-ai?u=76281980&t=134)** You should also direct the AI to be clear and concise and avoid communication weaknesses like hedging or qualifying.
 >
-> **[2:22](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/write-clear-persuasive-and-warm-emails-with-generative-ai?u=76281980&t=142)** This is where you can also give the AI a desired word count and your preferred emoji usage.
+> **[2:22](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/write-clear-persuasive-and-warm-emails-with-generative-ai?u=76281980&t=142)** This is where you can also give the AI a desired [[Microsoft Word|word]] count and your preferred emoji usage.
 >
 > **[2:28](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/write-clear-persuasive-and-warm-emails-with-generative-ai?u=76281980&t=148)** Customize this prompt for yourself.
 >
@@ -494,7 +488,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/write-clear-persuasive-and-warm-emails-with-generative-ai?u=76281980&t=194)** Lastly, who are you writing to?
 >
-> **[3:17](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/write-clear-persuasive-and-warm-emails-with-generative-ai?u=76281980&t=197)** You can describe your email recipient or even better, copy and paste their LinkedIn profile or an email from this person, so the AI can learn right from them.
+> **[3:17](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/write-clear-persuasive-and-warm-emails-with-generative-ai?u=76281980&t=197)** You can describe your email recipient or even better, copy and paste their [[LinkedIn]] profile or an email from this person, so the AI can learn right from them.
 >
 > **[3:27](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/write-clear-persuasive-and-warm-emails-with-generative-ai?u=76281980&t=207)** Share how you would like the recipient of your message to feel following the receipt of your message.
 >
@@ -510,11 +504,11 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/write-clear-persuasive-and-warm-emails-with-generative-ai?u=76281980&t=225)** Please customize and match their style of writing.
 >
-> **[3:48](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/write-clear-persuasive-and-warm-emails-with-generative-ai?u=76281980&t=228)** You can also use natural language processing, NLP-based AI tools to help you analyze the language used by someone in their written communications.
+> **[3:48](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/write-clear-persuasive-and-warm-emails-with-generative-ai?u=76281980&t=228)** You can also use [[Natural Language Processing (NLP)|natural language processing]], NLP-based AI tools to help you analyze the language used by someone in their written communications.
 >
 > **[3:57](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/write-clear-persuasive-and-warm-emails-with-generative-ai?u=76281980&t=237)** This can help you gauge their sentiment, priorities, and pain points.
 >
-> **[4:01](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/write-clear-persuasive-and-warm-emails-with-generative-ai?u=76281980&t=241)** If you're curious to try this, just Google natural language processing-based tools and give one of the many tools a shot.
+> **[4:01](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/write-clear-persuasive-and-warm-emails-with-generative-ai?u=76281980&t=241)** If you're curious to try this, just [[Google]] natural language processing-based tools and give one of the many tools a shot.
 >
 > **[4:09](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/write-clear-persuasive-and-warm-emails-with-generative-ai?u=76281980&t=249)** As you create your email blueprints, save them.
 >
@@ -552,7 +546,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), prompt (5), [[Microsoft Word|Word]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[LinkedIn]] (1), [[Google]] (1)
 > **Definitions:** is a  (3)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Analogies:** for example (2)
@@ -560,8 +554,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - nothing (1)
 
-#### Learn to write compelling copy with generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-to-write-compelling-copy-with-generative-ai?u=76281980)
+#### [Learn to write compelling copy with generative AI](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-to-write-compelling-copy-with-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -573,7 +566,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-to-write-compelling-copy-with-generative-ai?u=76281980&t=17)** To fight wordiness, be very specific with your AI tools about your desired length, then tell AI exactly where the copy will live and who it will be written for.
 >
-> **[0:28](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-to-write-compelling-copy-with-generative-ai?u=76281980&t=28)** AI can understand context, that a social post on your LinkedIn profile should be shorter than an in-depth blog post for the company website.
+> **[0:28](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-to-write-compelling-copy-with-generative-ai?u=76281980&t=28)** AI can understand context, that a social post on your [[LinkedIn]] profile should be shorter than an in-depth blog post for the company website.
 >
 > **[0:36](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/learn-to-write-compelling-copy-with-generative-ai?u=76281980&t=36)** Use this prompt: "Please write a blog post approximately words in length.
 >
@@ -669,15 +662,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), [[LinkedIn]] (4), prompt (3), data (3), career (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (4)
 > **CLI Commands:** make (2)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - while (1)
 
-#### Develop engaging presentations with generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/develop-engaging-presentations-with-generative-ai?u=76281980)
+#### [Develop engaging presentations with generative AI](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/develop-engaging-presentations-with-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -685,7 +677,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/develop-engaging-presentations-with-generative-ai?u=76281980&t=10)** An AI tool can be a great speaking coach, whether you're sharing on video, on stage, or even in classroom presentations.
 >
-> **[0:19](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/develop-engaging-presentations-with-generative-ai?u=76281980&t=19)** There are AI tools that can help you with almost any aspect of a presentation from content generation, design help, creating interesting openers and closers, designing slides, and even giving you real-time feedback.
+> **[0:19](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/develop-engaging-presentations-with-generative-ai?u=76281980&t=19)** There are AI tools that can help you with almost any aspect of a presentation from content generation, design help, creating interesting openers and closers, designing slides, and even giving you [[Real-Time]] feedback.
 >
 > **[0:34](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/develop-engaging-presentations-with-generative-ai?u=76281980&t=34)** No matter what tool you use, the key is using what I call the big idea formula.
 >
@@ -749,15 +741,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), data (3), prompt (3), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1)
 > **Exercise Files:** template (2), exercise files (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** ted (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Summarize, revise, and refine writing with generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/summarize-revise-and-refine-writing-with-generative-ai?u=76281980)
+#### [Summarize, revise, and refine writing with generative AI](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/summarize-revise-and-refine-writing-with-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -897,7 +888,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), prompt (6), career (1), data (1)
 > **CLI Commands:** make (8), find (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -908,8 +898,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Develop your conversation skills with generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/develop-your-conversation-skills-with-generative-ai?u=76281980)
+#### [Develop your conversation skills with generative AI](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/develop-your-conversation-skills-with-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -961,15 +950,15 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/develop-your-conversation-skills-with-generative-ai?u=76281980&t=119)** My goal is to get to know each other better and create a deeper connection between us."
 >
-> **[2:04](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/develop-your-conversation-skills-with-generative-ai?u=76281980&t=124)** Special tip, you can even give AI someone's latest email or their LinkedIn profile and ask them to generate conversation starters specifically related to their work and interests.
+> **[2:04](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/develop-your-conversation-skills-with-generative-ai?u=76281980&t=124)** Special tip, you can even give AI someone's latest email or their [[LinkedIn]] profile and ask them to generate conversation starters specifically related to their work and interests.
 >
 > **[2:16](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/develop-your-conversation-skills-with-generative-ai?u=76281980&t=136)** Third, role play.
 >
 > **[2:17](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/develop-your-conversation-skills-with-generative-ai?u=76281980&t=137)** Practice makes perfect.
 >
-> **[2:19](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/develop-your-conversation-skills-with-generative-ai?u=76281980&t=139)** Choose an AI-powered chatbot or conversation simulation tool.
+> **[2:19](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/develop-your-conversation-skills-with-generative-ai?u=76281980&t=139)** Choose an AI-powered chatbot or conversation [[Simulation]] tool.
 >
-> **[2:23](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/develop-your-conversation-skills-with-generative-ai?u=76281980&t=143)** Some current popular options include language learning apps like Duolingo, conversation practice platforms like Tandem, or AI chatbots like ChatGPT.
+> **[2:23](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/develop-your-conversation-skills-with-generative-ai?u=76281980&t=143)** Some current popular options include language learning apps like Duolingo, conversation practice platforms like Tandem, or AI chatbots like [[ChatGPT]].
 >
 > **[2:33](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/develop-your-conversation-skills-with-generative-ai?u=76281980&t=153)** Tell the conversation simulator the context for your conversation, who you'll be speaking with and your goals, then begin.
 >
@@ -1005,15 +994,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), prompt (4), next (2), hr (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Simulation]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
 > **UI Navigation:** go to (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - i (1)
 
-#### Be more persuasive in negotiations using generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/be-more-persuasive-in-negotiations-using-generative-ai?u=76281980)
+#### [Be more persuasive in negotiations using generative AI](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/be-more-persuasive-in-negotiations-using-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1027,7 +1015,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/be-more-persuasive-in-negotiations-using-generative-ai?u=76281980&t=10)** AI can help give you an edge when preparing to be more persuasive in any negotiation.
 >
-> **[0:16](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/be-more-persuasive-in-negotiations-using-generative-ai?u=76281980&t=16)** Predictive analytics.
+> **[0:16](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/be-more-persuasive-in-negotiations-using-generative-ai?u=76281980&t=16)** [[Predictive Analytics]].
 >
 > **[0:18](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/be-more-persuasive-in-negotiations-using-generative-ai?u=76281980&t=18)** My favorite aspect of using AI to prepare for a negotiation is its ability to make predictive insights.
 >
@@ -1051,7 +1039,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/be-more-persuasive-in-negotiations-using-generative-ai?u=76281980&t=72)** Here's what I know about them."
 >
-> **[1:14](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/be-more-persuasive-in-negotiations-using-generative-ai?u=76281980&t=74)** Insert background info, copy and paste LinkedIn profile or previous emails.
+> **[1:14](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/be-more-persuasive-in-negotiations-using-generative-ai?u=76281980&t=74)** Insert background info, copy and paste [[LinkedIn]] profile or previous emails.
 >
 > **[1:19](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/be-more-persuasive-in-negotiations-using-generative-ai?u=76281980&t=79)** "What can you deduce about them so I can understand them better?
 >
@@ -1113,14 +1101,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), prompt (5), [[Predictive Analytics]] (1), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - do (1)
 
-#### Prepare for meetings effectively using generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/prepare-for-meetings-effectively-using-generative-ai?u=76281980)
+#### [Prepare for meetings effectively using generative AI](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/prepare-for-meetings-effectively-using-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1132,7 +1119,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/prepare-for-meetings-effectively-using-generative-ai?u=76281980&t=12)** AI can provide you with background information on meeting attendees.
 >
-> **[0:16](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/prepare-for-meetings-effectively-using-generative-ai?u=76281980&t=16)** Tools like LinkedIn or CRM integrations can offer insights into their roles, interests, and past interactions, enabling more personalized conversations.
+> **[0:16](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/prepare-for-meetings-effectively-using-generative-ai?u=76281980&t=16)** Tools like [[LinkedIn]] or CRM integrations can offer insights into their roles, interests, and past interactions, enabling more personalized conversations.
 >
 > **[0:26](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/prepare-for-meetings-effectively-using-generative-ai?u=76281980&t=26)** You might be able to analyze social posts to see topics of interest for attendees.
 >
@@ -1176,21 +1163,20 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/prepare-for-meetings-effectively-using-generative-ai?u=76281980&t=152)** During the meeting, you can also use AI tools to help you take notes, automate post-meeting action steps, and track who is speaking.
 >
-> **[2:41](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/prepare-for-meetings-effectively-using-generative-ai?u=76281980&t=161)** For example, there is now a button on Zoom that will take notes in a meeting for you and create a transcript.
+> **[2:41](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/prepare-for-meetings-effectively-using-generative-ai?u=76281980&t=161)** For example, there is now a button on [[Zoom]] that will take notes in a meeting for you and create a transcript.
 >
 > **[2:47](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/prepare-for-meetings-effectively-using-generative-ai?u=76281980&t=167)** Right now, use the prompts we just covered to ask an AI tool to help you create an agenda and icebreakers for an upcoming meeting.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[LinkedIn]] (1), data (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Zoom]] (1)
 > **Env Vars:** crm (1), ted (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
 
-#### Prepare for difficult conversations using generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/prepare-for-difficult-conversations-using-generative-ai?u=76281980)
+#### [Prepare for difficult conversations using generative AI](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/prepare-for-difficult-conversations-using-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1218,7 +1204,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/prepare-for-difficult-conversations-using-generative-ai?u=76281980&t=54)** Use this previous email from my boss to understand her communication style.
 >
-> **[0:59](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/prepare-for-difficult-conversations-using-generative-ai?u=76281980&t=59)** I've also included her LinkedIn profile."
+> **[0:59](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/prepare-for-difficult-conversations-using-generative-ai?u=76281980&t=59)** I've also included her [[LinkedIn]] profile."
 >
 > **[1:02](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/prepare-for-difficult-conversations-using-generative-ai?u=76281980&t=62)** AI is getting better at deducing personality traits and communication preferences based on emails and profiles.
 >
@@ -1266,9 +1252,9 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/prepare-for-difficult-conversations-using-generative-ai?u=76281980&t=179)** Next, practice and rehearse.
 >
-> **[3:01](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/prepare-for-difficult-conversations-using-generative-ai?u=76281980&t=181)** Use AI powered speech recognition software or voice assistance to practice your speaking points to get live feedback.
+> **[3:01](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/prepare-for-difficult-conversations-using-generative-ai?u=76281980&t=181)** Use AI powered [[Speech Recognition]] software or voice assistance to practice your speaking points to get live feedback.
 >
-> **[3:10](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/prepare-for-difficult-conversations-using-generative-ai?u=76281980&t=190)** ChatGPT Voice can help you refine your points.
+> **[3:10](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/prepare-for-difficult-conversations-using-generative-ai?u=76281980&t=190)** [[ChatGPT]] Voice can help you refine your points.
 >
 > **[3:14](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/prepare-for-difficult-conversations-using-generative-ai?u=76281980&t=194)** You can also use a conversation simulator tool like Replika to practice in case a conflict arises.
 >
@@ -1286,7 +1272,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), next (4), [[LinkedIn]] (3), prompt (1), data (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Speech Recognition]] (1), [[ChatGPT]] (1)
 > **Analogies:** for example (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - ever (1)
@@ -1296,8 +1282,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Put your generative AI communication skills into practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/put-your-generative-ai-communication-skills-into-practice?u=76281980)
+#### [Put your generative AI communication skills into practice](https://www.linkedin.com/learning/amplify-your-communication-skills-with-generative-ai/put-your-generative-ai-communication-skills-into-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1325,7 +1310,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), next (2)
 > **URLs:** [scienceofpeople.com](https://scienceofpeople.com) (1)
 > **Env Vars:** gpt (1)
 > **Speakers:** - i (1)

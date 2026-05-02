@@ -111,8 +111,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started in the R tidyverse
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/getting-started-in-the-r-tidyverse?u=76281980)
+#### [Getting started in the R tidyverse](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/getting-started-in-the-r-tidyverse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -128,18 +127,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **Definitions:** is an  (1)
 > **Speakers:** - [charlie] (1)
 
-#### How to use the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/how-to-use-the-exercise-files?u=76281980)
+#### [How to use the exercise files](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/how-to-use-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/how-to-use-the-exercise-files?u=76281980&t=0)** - [Instructor] All of the exercise files and everything you need to follow along with this course are available in this GitHub repository.
+> **[0:00](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/how-to-use-the-exercise-files?u=76281980&t=0)** - [Instructor] All of the exercise files and everything you need to follow along with this course are available in this [[GitHub]] repository.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/how-to-use-the-exercise-files?u=76281980&t=7)** You do not need a GitHub account or any experience with Git or GitHub to use these materials effectively.
+> **[0:07](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/how-to-use-the-exercise-files?u=76281980&t=7)** You do not need a GitHub account or any experience with [[Git]] or GitHub to use these materials effectively.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/how-to-use-the-exercise-files?u=76281980&t=16)** If you go to the link that we'll provide you to the repository, you'll see this green Code button.
 >
@@ -195,14 +192,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the tidyverse?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-the-tidyverse?u=76281980)
+#### [What is the tidyverse?](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-the-tidyverse?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-the-tidyverse?u=76281980&t=0)** - [Instructor] The tidyverse is a collection of packages.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-the-tidyverse?u=76281980&t=3)** What makes it special is how they're designed as an ecosystem for doing data science.
+> **[0:03](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-the-tidyverse?u=76281980&t=3)** What makes it special is how they're designed as an ecosystem for doing [[Data Science]].
 >
 > **[0:08](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-the-tidyverse?u=76281980&t=8)** The tidyverse packages are built to work consistently and in tandem with one another.
 >
@@ -214,7 +210,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-the-tidyverse?u=76281980&t=32)** For instance, your data might be split across multiple sources.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-the-tidyverse?u=76281980&t=37)** You can use the same powerful data manipulation packages and functions to wrangle these data sets and then combine them together with the eponymous tidyr package.
+> **[0:37](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-the-tidyverse?u=76281980&t=37)** You can use the same powerful [[Data Manipulation]] packages and functions to wrangle these data sets and then combine them together with the eponymous tidyr package.
 >
 > **[0:49](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-the-tidyverse?u=76281980&t=49)** You may be familiar with the incredible ggplot2 package for creating truly beautiful and impactful data visualizations.
 >
@@ -230,25 +226,24 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-the-tidyverse?u=76281980&t=94)** For tidyverse is an opinionated framework.
 >
-> **[1:37](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-the-tidyverse?u=76281980&t=97)** It requires you to approach problems from the tidy data perspective, and that means that slotting it to some data pipelines or methodologies requires a lot bit of extra work.
+> **[1:37](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-the-tidyverse?u=76281980&t=97)** It requires you to approach problems from the tidy data perspective, and that means that slotting it to some [[Data Pipelines]] or methodologies requires a lot bit of extra work.
 >
 > **[1:50](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-the-tidyverse?u=76281980&t=110)** But I cannot unsell how much data science value there is in the structured problem solving approach that tidyverse provides you.
 >
 > **[1:58](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-the-tidyverse?u=76281980&t=118)** The tidyverse ecosystem has been extended by many packages, including tidygraph to support network analysis.
 >
-> **[2:05](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-the-tidyverse?u=76281980&t=125)** You have excellent tools for time series forecasting thanks to Fable and text mining capabilities thanks to tidytext.
+> **[2:05](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-the-tidyverse?u=76281980&t=125)** You have excellent tools for time series [[Forecasting]] thanks to Fable and [[Text Mining]] capabilities thanks to tidytext.
 >
 > **[2:13](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-the-tidyverse?u=76281980&t=133)** And finally, there's a fully featured machine learning framework from tidymodels that integrates with all of the skills you'll learn in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Data Manipulation]] (1), [[Forecasting]] (1), [[Text Mining]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Data Manipulation]] (1), [[Data Pipelines]] (1), [[Forecasting]] (1), [[Text Mining]] (1)
 > **Definitions:** is a  (1), is an  (1), means that (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing, loading, and working with the tidyverse packages
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/installing-loading-and-working-with-the-tidyverse-packages?u=76281980)
+#### [Installing, loading, and working with the tidyverse packages](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/installing-loading-and-working-with-the-tidyverse-packages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -314,7 +309,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/installing-loading-and-working-with-the-tidyverse-packages?u=76281980&t=162)** Don't worry if you are unfamiliar with most of these packages for the time being.
 >
-> **[2:48](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/installing-loading-and-working-with-the-tidyverse-packages?u=76281980&t=168)** So let's go over to RStudio and load our packages.
+> **[2:48](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/installing-loading-and-working-with-the-tidyverse-packages?u=76281980&t=168)** So let's go over to [[RStudio]] and load our packages.
 >
 > **[2:52](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/installing-loading-and-working-with-the-tidyverse-packages?u=76281980&t=172)** In fact, let's change line one from library ggplot2 to library tidyverse.
 >
@@ -328,7 +323,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/installing-loading-and-working-with-the-tidyverse-packages?u=76281980&t=198)** readxl was one of those.
 >
-> **[3:20](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/installing-loading-and-working-with-the-tidyverse-packages?u=76281980&t=200)** readxl is a great package for reading in an Excel file.
+> **[3:20](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/installing-loading-and-working-with-the-tidyverse-packages?u=76281980&t=200)** readxl is a great package for reading in an [[Microsoft Excel|Excel]] file.
 >
 > **[3:24](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/installing-loading-and-working-with-the-tidyverse-packages?u=76281980&t=204)** To load that package, we would need to explicitly load it.
 >
@@ -350,13 +345,13 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/installing-loading-and-working-with-the-tidyverse-packages?u=76281980&t=276)** readr gives us everything we need to read flat files, including .CSV files.
 >
-> **[4:42](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/installing-loading-and-working-with-the-tidyverse-packages?u=76281980&t=282)** purrr provides a toolkit for functional programming, which admittedly, many tidyverse users never need to use.
+> **[4:42](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/installing-loading-and-working-with-the-tidyverse-packages?u=76281980&t=282)** purrr provides a toolkit for [[Functional Programming]], which admittedly, many tidyverse users never need to use.
 >
 > **[4:51](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/installing-loading-and-working-with-the-tidyverse-packages?u=76281980&t=291)** And the final package, ggplot2, is a fully-featured package for data visualization and that is why the core tidyverse is so powerful.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), data (2), prompt (1), [[RStudio]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[RStudio]] (1), [[Microsoft Excel|Excel]] (1), [[Functional Programming]] (1)
 > **Prerequisites:** install (9)
 > **UI Navigation:** go to (2), click on (1), in the menu (1)
 > **Code Identifiers:** read_excel (2)
@@ -365,8 +360,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Warnings:** warning (1)
 
-#### Introducing data.frame and tibbles
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/introducing-data-frame-and-tibbles?u=76281980)
+#### [Introducing data.frame and tibbles](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/introducing-data-frame-and-tibbles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -378,7 +372,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/introducing-data-frame-and-tibbles?u=76281980&t=18)** Let's take iris. Let me run this object or print it.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/introducing-data-frame-and-tibbles?u=76281980&t=23)** So, I'll put my cursor at the end of the object name and I'll hit Command + Enter or Ctrl + Enter in Windows, and that prints the data frame to the console.
+> **[0:23](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/introducing-data-frame-and-tibbles?u=76281980&t=23)** So, I'll put my cursor at the end of the object name and I'll hit Command + Enter or Ctrl + Enter in [[Windows]], and that prints the data frame to the console.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/introducing-data-frame-and-tibbles?u=76281980&t=33)** Now, it's kind of annoying to work with.
 >
@@ -394,7 +388,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/introducing-data-frame-and-tibbles?u=76281980&t=71)** And that's true for all three of these datasets.
 >
-> **[1:15](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/introducing-data-frame-and-tibbles?u=76281980&t=75)** data.frame has been fundamental to the popularity of R in the data science community.
+> **[1:15](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/introducing-data-frame-and-tibbles?u=76281980&t=75)** data.frame has been fundamental to the popularity of R in the [[Data Science]] community.
 >
 > **[1:22](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/introducing-data-frame-and-tibbles?u=76281980&t=82)** It is a huge setting feature of the language.
 >
@@ -420,7 +414,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/introducing-data-frame-and-tibbles?u=76281980&t=140)** From our perspective, these are the three biggest differences or features of tibble compared to data frame, prettier printing, nested data, and grouped data.
 >
-> **[2:31](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/introducing-data-frame-and-tibbles?u=76281980&t=151)** Tibble is an incredibly friendly data structures to work with in a console compared to data frame.
+> **[2:31](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/introducing-data-frame-and-tibbles?u=76281980&t=151)** Tibble is an incredibly friendly [[Data Structures]] to work with in a console compared to data frame.
 >
 > **[2:38](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/introducing-data-frame-and-tibbles?u=76281980&t=158)** I've used as_tibble to convert quakes from a data frame into a tibble, and I get a glanceable overview of the dataset.
 >
@@ -534,7 +528,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (36), feature (4), hit (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Data Science]] (1), [[Data Structures]] (1)
 > **CLI Commands:** make (5), find (2)
 > **Code Identifiers:** as_tibble (2), group_by (2), max_sepal_length (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -543,8 +537,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are %>% and |> for in the tidyverse
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/2016046?u=76281980)
+#### [What are %>% and |> for in the tidyverse](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/2016046?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -618,7 +611,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Search]] (1)
 > **CLI Commands:** make (3)
 > **Versions:** version 4 (2)
 > **Definitions:** is a  (1), means that (1)
@@ -626,8 +618,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - code (1)
 
-#### Using the %>% pipe in your code
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3913046?u=76281980)
+#### [Using the %>% pipe in your code](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3913046?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -667,7 +658,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3913046?u=76281980&t=130)** So there is a keyboard shortcut for that.
 >
-> **[2:12](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3913046?u=76281980&t=132)** So if I type out msleep space, and then you use the keyboard shortcut Command + Shift + M or Control + Shift + M in Windows, that's going to insert the pipe.
+> **[2:12](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3913046?u=76281980&t=132)** So if I type out msleep space, and then you use the keyboard shortcut Command + Shift + M or Control + Shift + M in [[Windows]], that's going to insert the pipe.
 >
 > **[2:24](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3913046?u=76281980&t=144)** And then we can put count and (vore) this time to summarize the data by vore.
 >
@@ -687,7 +678,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3913046?u=76281980&t=193)** And now we can see in our environment, we have vore_summary.
 >
-> **[3:18](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3913046?u=76281980&t=198)** That's everything you need to know about using the magrittr pipe in RStudio.
+> **[3:18](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3913046?u=76281980&t=198)** That's everything you need to know about using the magrittr pipe in [[RStudio]].
 >
 > **[3:24](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3913046?u=76281980&t=204)** But I want to give you some stylistic advice on using the pipe.
 >
@@ -723,7 +714,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), hit (1), [[Windows]] (1), [[RStudio]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[RStudio]] (1)
 > **Code Identifiers:** vore_summary (2), raw_data (1)
 > **Best Practices:** recommended (2), rule of thumb (1)
 > **Definitions:** known as (1), is a  (1)
@@ -732,8 +723,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the |> pipe in your code
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3911163?u=76281980)
+#### [Using the |> pipe in your code](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3911163?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -751,13 +741,13 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3911163?u=76281980&t=43)** So I have my script base-r-pipe.R open, and I have some code.
 >
-> **[0:48](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3911163?u=76281980&t=48)** Hello World is being piped into rep five, and if I run this code by putting my cursor at the end of this pipe chain and hitting Command + Enter or Control + Enter in Windows, that's going to run the code, and it works successfully without loading any packages because it's the base R pipe.
+> **[0:48](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3911163?u=76281980&t=48)** Hello World is being piped into rep five, and if I run this code by putting my cursor at the end of this pipe chain and hitting Command + Enter or Control + Enter in [[Windows]], that's going to run the code, and it works successfully without loading any packages because it's the base R pipe.
 >
 > **[1:06](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3911163?u=76281980&t=66)** It only works because I'm on a version of R that's after 4.1.
 >
 > **[1:11](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3911163?u=76281980&t=71)** How do you know which version of R you're on?
 >
-> **[1:14](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3911163?u=76281980&t=74)** You need to scroll to the top of a console when you open up RStudio, and it will tell you what version number you're on.
+> **[1:14](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3911163?u=76281980&t=74)** You need to scroll to the top of a console when you open up [[RStudio]], and it will tell you what version number you're on.
 >
 > **[1:20](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/3911163?u=76281980&t=80)** So I'm currently on version 4.3.1.
 >
@@ -859,7 +849,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[RStudio]] (4), [[Windows]] (3), hit (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[RStudio]] (4), [[Windows]] (3)
 > **Versions:** version 4 (2), 4.1 (1), 3.1 (1)
 > **UI Navigation:** in the menu (1), checkbox (1), scroll down (1), go to (1)
 > **Code Identifiers:** vore_summary (2), raw_data (1)
@@ -868,8 +858,7 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1), recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Datasets built into the tidyverse packages
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/datasets-built-into-the-tidyverse-packages?u=76281980)
+#### [Datasets built into the tidyverse packages](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/datasets-built-into-the-tidyverse-packages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -937,8 +926,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the select() function to obtain columns from data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-the-select-function-to-obtain-columns-from-data?u=76281980)
+#### [Using the select() function to obtain columns from data](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-the-select-function-to-obtain-columns-from-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -984,7 +972,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-the-select-function-to-obtain-columns-from-data?u=76281980&t=101)** And let's say that I want from the column PID to the column poptotal.
 >
-> **[1:48](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-the-select-function-to-obtain-columns-from-data?u=76281980&t=108)** Notice that the auto-completion in RStudio auto-completes the column names in the dataset as well, which is a great feature of RStudio.
+> **[1:48](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-the-select-function-to-obtain-columns-from-data?u=76281980&t=108)** Notice that the auto-completion in [[RStudio]] auto-completes the column names in the dataset as well, which is a great feature of RStudio.
 >
 > **[1:58](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-the-select-function-to-obtain-columns-from-data?u=76281980&t=118)** Select poptotal and run that code, and that's going to give me all of the columns from PID through to poptotal.
 >
@@ -1028,7 +1016,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[RStudio]] (3), feature (1), data (1)
+> **Frameworks & Libraries:** [[RStudio]] (3)
 > **CLI Commands:** make (7)
 > **Env Vars:** pid (5)
 > **Code Identifiers:** starts_with (2), ends_with (1)
@@ -1037,8 +1025,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the filter() function to filter data by conditions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-the-filter-function-to-filter-data-by-conditions?u=76281980)
+#### [Using the filter() function to filter data by conditions](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-the-filter-function-to-filter-data-by-conditions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1140,7 +1127,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Search]] (2)
 > **Code Identifiers:** gss_cat (4), str_detect (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** sdr (2)
@@ -1148,9 +1134,9 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Analogies:** for instance (1)
 > **Warnings:** be aware (1)
+> **Speakers:** - filter (1)
 
-#### Using the mutate() function to modify and add columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-the-mutate-function-to-modify-and-add-columns?u=76281980)
+#### [Using the mutate() function to modify and add columns](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-the-mutate-function-to-modify-and-add-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1174,7 +1160,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-the-mutate-function-to-modify-and-add-columns?u=76281980&t=59)** We'll pipe our dataset and sleep into the mutate() function and we're going to create a new column, sleep_non_rem, and we'll calculate sleep_total.
 >
-> **[1:13](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-the-mutate-function-to-modify-and-add-columns?u=76281980&t=73)** You can see that the autocompletion from RStudio is populated by the columns from our object, which is quite nice.
+> **[1:13](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-the-mutate-function-to-modify-and-add-columns?u=76281980&t=73)** You can see that the autocompletion from [[RStudio]] is populated by the columns from our object, which is quite nice.
 >
 > **[1:19](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-the-mutate-function-to-modify-and-add-columns?u=76281980&t=79)** So, we have sleep_total and we're going to subtract sleep_rem from that.
 >
@@ -1212,21 +1198,20 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-the-mutate-function-to-modify-and-add-columns?u=76281980&t=201)** So up here, I could call this msleep_processed, maybe, make my assignments, and then on line 13, I could swap msleep for msleep_processed.
 >
-> **[3:39](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-the-mutate-function-to-modify-and-add-columns?u=76281980&t=219)** And if I make that even wider, then we can see all of the columns that contain the word sleep are now divided by 24.
+> **[3:39](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-the-mutate-function-to-modify-and-add-columns?u=76281980&t=219)** And if I make that even wider, then we can see all of the columns that contain the [[Microsoft Word|word]] sleep are now divided by 24.
 >
 > **[3:50](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-the-mutate-function-to-modify-and-add-columns?u=76281980&t=230)** And that is everything that you need to know about using mutate() to modify existing columns in your tibbles and to create new ones as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[RStudio]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[RStudio]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** sleep_total (6), sleep_rem (2), sleep_non_rem (2), msleep_processed (2), sleep_not_rem (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** rem (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Rewrite this code to use the pipe of your choice
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/challenge-re-write-this-code-to-use-the-pipe-of-your-choice?u=76281980)
+#### [Challenge: Rewrite this code to use the pipe of your choice](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/challenge-re-write-this-code-to-use-the-pipe-of-your-choice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1278,15 +1263,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **Code Identifiers:** sleep_total (1), sleep_rem (1), sleep_total_perc (1)
 > **Prerequisites:** you'll need (3)
 > **Env Vars:** rem (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
-#### Solution: Rewrite this code to use the pipe of your choice
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/solution-re-write-this-code-to-use-the-pipe-of-your-choice?u=76281980)
+#### [Solution: Rewrite this code to use the pipe of your choice](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/solution-re-write-this-code-to-use-the-pipe-of-your-choice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1368,7 +1351,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (2)
 > **Code Identifiers:** sleep_total_percentage (1), sleep_total (1), sleep_total_perc (1), sleep_rem (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the next (1)
@@ -1381,8 +1363,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is tidy data?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-tidy-data?u=76281980)
+#### [What is tidy data?](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-tidy-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1396,7 +1377,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-tidy-data?u=76281980&t=22)** Whereas untidy data has no sense to how it's organized.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-tidy-data?u=76281980&t=28)** This is a screenshot of an Excel file I made of data from the United Nations.
+> **[0:28](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-tidy-data?u=76281980&t=28)** This is a screenshot of an [[Microsoft Excel|Excel]] file I made of data from the United Nations.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/what-is-tidy-data?u=76281980&t=33)** Does this data feel tidy to you?
 >
@@ -1446,13 +1427,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** gdp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why does ggplot2 want tidy data?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/why-does-ggplot2-want-tidy-data?u=76281980)
+#### [Why does ggplot2 want tidy data?](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/why-does-ggplot2-want-tidy-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1462,7 +1442,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/why-does-ggplot2-want-tidy-data?u=76281980&t=10)** If you've not used ggplot2 much before, that's okay.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/why-does-ggplot2-want-tidy-data?u=76281980&t=14)** I recommend watching this video to better understand tidy data and watching one LinkedIn Learnings dedicated videos to ggplot2 later.
+> **[0:14](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/why-does-ggplot2-want-tidy-data?u=76281980&t=14)** I recommend watching this video to better understand tidy data and watching one [[LinkedIn]] Learnings dedicated videos to ggplot2 later.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/why-does-ggplot2-want-tidy-data?u=76281980&t=23)** So let's load the tidyverse on line one, and we're going to read two data sets, UN data long and UN data wide.
 >
@@ -1542,14 +1522,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using pivot_longer() to tidy data into a long format
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-pivot-longer-to-tidy-data-into-long-format?u=76281980)
+#### [Using pivot_longer() to tidy data into a long format](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-pivot-longer-to-tidy-data-into-long-format?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1631,7 +1610,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8)
 > **Code Identifiers:** pivot_longer (6), pivot_wider (5), births_australia (2), names_prefix (2), un_long (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** o2_o3b (1)
@@ -1639,8 +1617,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - for (1)
 
-#### Cleaning column names with the janitor package
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/cleaning-column-names-with-the-janitor-package?u=76281980)
+#### [Cleaning column names with the janitor package](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/cleaning-column-names-with-the-janitor-package?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1720,14 +1697,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **CLI Commands:** make (2)
 > **Prerequisites:** install (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tidying columns containing multiple values with separate_*()
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/tidying-columns-containing-multiple-values-with-separate?u=76281980)
+#### [Tidying columns containing multiple values with separate_*()](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/tidying-columns-containing-multiple-values-with-separate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1821,13 +1796,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### List columns and nested tibbles
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/list-columns-and-nested-tibbles?u=76281980)
+#### [List columns and nested tibbles](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/list-columns-and-nested-tibbles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1927,7 +1900,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12)
 > **CLI Commands:** make (4)
 > **Env Vars:** o206b (1), c3po (1)
 > **Code Identifiers:** n_films (1)
@@ -1939,8 +1911,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using projects to simplify file paths
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-projects-to-simplify-file-paths?u=76281980)
+#### [Using projects to simplify file paths](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-projects-to-simplify-file-paths?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1952,13 +1923,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-projects-to-simplify-file-paths?u=76281980&t=16)** In this video, we need to write code that's going to read in this data file from the project directory 03_01b.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-projects-to-simplify-file-paths?u=76281980&t=24)** Let's try and do that by opening up RStudio and not an RStudio project.
+> **[0:24](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-projects-to-simplify-file-paths?u=76281980&t=24)** Let's try and do that by opening up [[RStudio]] and not an RStudio project.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-projects-to-simplify-file-paths?u=76281980&t=30)** What many our users will do is write setwd at the top and then they to find the directory that contains the the files that they want to read in.
 >
 > **[0:43](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-projects-to-simplify-file-paths?u=76281980&t=43)** So I'm going to use the Tab key to get autocompletion of my file directory.
 >
-> **[0:48](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-projects-to-simplify-file-paths?u=76281980&t=48)** I'm going to go inside of documents, inside of GitHub and use my Tab key for autocompletion after each slash and I'm going to go to learning-the-r-tidyverse, then I'm going to go to /03_01b, and then I'll press Tab one more time and press data.
+> **[0:48](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-projects-to-simplify-file-paths?u=76281980&t=48)** I'm going to go inside of documents, inside of [[GitHub]] and use my Tab key for autocompletion after each slash and I'm going to go to learning-the-r-tidyverse, then I'm going to go to /03_01b, and then I'll press Tab one more time and press data.
 >
 > **[1:08](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-projects-to-simplify-file-paths?u=76281980&t=68)** And then if I were to run this code, it would set my working directory to this directory.
 >
@@ -1996,7 +1967,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-projects-to-simplify-file-paths?u=76281980&t=157)** And then what RStudio gives us is a little wizard.
 >
-> **[2:40](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-projects-to-simplify-file-paths?u=76281980&t=160)** It asks us, do we want to create a project from a new directory, in the existing directory, or version control?
+> **[2:40](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-projects-to-simplify-file-paths?u=76281980&t=160)** It asks us, do we want to create a project from a new directory, in the existing directory, or [[Version Control]]?
 >
 > **[2:47](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-projects-to-simplify-file-paths?u=76281980&t=167)** And for this example, we are going to use the folder that you downloaded 03_01b.
 >
@@ -2042,7 +2013,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[RStudio]] (10), data (4), hit (3), [[GitHub]] (2), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[RStudio]] (10), [[GitHub]] (2), [[Version Control]] (1)
 > **UI Navigation:** go to (3), click on (1)
 > **Code Identifiers:** read_csv (1), un_data (1)
 > **Tools:** github (2)
@@ -2051,8 +2022,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using read_csv() to read CSV files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-read-csv-to-read-data-csv-files?u=76281980)
+#### [Using read_csv() to read CSV files](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-read-csv-to-read-data-csv-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2146,7 +2116,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11)
 > **Code Identifiers:** read_csv (10), data_baser (3), data_readr (1)
 > **File Paths:** read.csv (10), sample-data.csv (1)
 > **Versions:** 1.5 (1), 1.504 (1), 0.925 (1), 0.256 (1)
@@ -2154,15 +2123,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** csv (1)
 > **Analogies:** for instance (1)
+> **Speakers:** - [instructor] (1)
 
-#### Using read_excel() to read data from Excel files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-read-excel-to-read-data-from-excel-files?u=76281980)
+#### [Using read_excel() to read data from Excel files](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-read-excel-to-read-data-from-excel-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-read-excel-to-read-data-from-excel-files?u=76281980&t=0)** - [Instructor] I've got more good news.
 >
-> **[0:02](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-read-excel-to-read-data-from-excel-files?u=76281980&t=2)** If your data is stored in Excel files, then the readxl package from the tidyverse is your friend.
+> **[0:02](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-read-excel-to-read-data-from-excel-files?u=76281980&t=2)** If your data is stored in [[Microsoft Excel|Excel]] files, then the readxl package from the tidyverse is your friend.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-read-excel-to-read-data-from-excel-files?u=76281980&t=8)** Let's see how to use it in the 03_03b project.
 >
@@ -2204,21 +2173,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (6)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6)
 > **Code Identifiers:** read_excel (2), excel_sheets (1)
 > **CLI Commands:** find (1)
 > **Documentation:** the documentation (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using haven to import from SPSS and other formats
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-haven-to-import-from-spss-and-other-formats?u=76281980)
+#### [Using haven to import from SPSS and other formats](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-haven-to-import-from-spss-and-other-formats?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-haven-to-import-from-spss-and-other-formats?u=76281980&t=0)** - [Instructor] Let's finish this chapter on reading data into the tidyverse by introducing the excellent Haven package.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-haven-to-import-from-spss-and-other-formats?u=76281980&t=7)** This package is going to be your friend if you are working with data that's in SPSS, SAS or Stata data files.
+> **[0:07](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-haven-to-import-from-spss-and-other-formats?u=76281980&t=7)** This package is going to be your friend if you are working with data that's in SPSS, SAS or [[Stata]] data files.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-haven-to-import-from-spss-and-other-formats?u=76281980&t=15)** The process is almost exactly the same for all file types, so we'll look at SPSS as it's a lot bit more common than the other two.
 >
@@ -2266,7 +2234,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-haven-to-import-from-spss-and-other-formats?u=76281980&t=179)** And now we can see that we get a factor column.
 >
-> **[3:03](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-haven-to-import-from-spss-and-other-formats?u=76281980&t=183)** Those labels have disappeared and we have a column that we can use in our normal data wrangling within the tidyverse.
+> **[3:03](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-haven-to-import-from-spss-and-other-formats?u=76281980&t=183)** Those labels have disappeared and we have a column that we can use in our normal [[Data Wrangling]] within the tidyverse.
 >
 > **[3:10](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-haven-to-import-from-spss-and-other-formats?u=76281980&t=190)** And we could visualize this column easily with ggplot2.
 >
@@ -2292,7 +2260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Stata]] (2)
+> **Frameworks & Libraries:** [[Stata]] (2), [[Data Wrangling]] (1)
 > **Env Vars:** spss (7), sas (2), doi (1), dbl (1), lbl (1)
 > **Code Identifiers:** as_factor (3), col_name (2)
 > **CLI Commands:** make (3)
@@ -2304,8 +2272,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Grouping and summarizing data by column or row
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/grouping-and-summarising-data-by-column-or-row?u=76281980)
+#### [Grouping and summarizing data by column or row](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/grouping-and-summarising-data-by-column-or-row?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2345,11 +2312,11 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/grouping-and-summarising-data-by-column-or-row?u=76281980&t=125)** If you don't explicitly use the ungroup function, then your data might still be grouped, and that could cause issues.
 >
-> **[2:13](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/grouping-and-summarising-data-by-column-or-row?u=76281980&t=133)** It's best practice to use ungroup as soon as you're finished with your groups and move on to the next part of your data wrangling journey.
+> **[2:13](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/grouping-and-summarising-data-by-column-or-row?u=76281980&t=133)** It's best practice to use ungroup as soon as you're finished with your groups and move on to the next part of your [[Data Wrangling]] journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), next (1)
+> **Frameworks & Libraries:** [[Data Wrangling]] (1)
 > **Code Identifiers:** group_by (2)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** make (1)
@@ -2358,8 +2325,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cross tabulations with count()
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/cross-tabuations-with-count?u=76281980)
+#### [Cross tabulations with count()](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/cross-tabuations-with-count?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2417,14 +2383,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** add_count (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** true (1)
 > **Speakers:** - [instructor] (1)
 
-#### Column-wise groups: group_by() and mutate()
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/column-wise-groups-group-by-and-mutate?u=76281980)
+#### [Column-wise groups: group_by() and mutate()](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/column-wise-groups-group-by-and-mutate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2482,7 +2446,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **Code Identifiers:** group_by (7), earliest_birth_year (1), birth_year (1)
 > **CLI Commands:** rm (2)
 > **Env Vars:** true (1)
@@ -2490,8 +2453,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Column-wise groups: group_by() and summarize()
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/column-wise-groups-group-by-and-summarise?u=76281980)
+#### [Column-wise groups: group_by() and summarize()](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/column-wise-groups-group-by-and-summarise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2505,7 +2467,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/column-wise-groups-group-by-and-summarise?u=76281980&t=26)** And let's say that we're interested in the tallest individual from each species.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/column-wise-groups-group-by-and-summarise?u=76281980&t=31)** We need to start answering that question with group_by() because we want to calculate statistics within the grouped species.
+> **[0:31](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/column-wise-groups-group-by-and-summarise?u=76281980&t=31)** We need to start answering that question with group_by() because we want to calculate [[Statistics]] within the grouped species.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/column-wise-groups-group-by-and-summarise?u=76281980&t=39)** So we'll group_by(species), and then we'll pipe this into summarise(), and we're going to create a new column, max_height.
 >
@@ -2543,7 +2505,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (1), data (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Code Identifiers:** group_by (7), max_height (3)
 > **Cross-References:** previous video (2)
 > **CLI Commands:** rm (1)
@@ -2551,8 +2513,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Column-wise groups: group_by() and reframe()
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/column-wise-groups-group-by-and-reframe?u=76281980)
+#### [Column-wise groups: group_by() and reframe()](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/column-wise-groups-group-by-and-reframe?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2602,21 +2563,20 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/column-wise-groups-group-by-and-reframe?u=76281980&t=162)** So if I rerun lines nine through 13, the output table only has the columns that were grouped and the columns within reframe(), but the groups have gone.
 >
-> **[2:54](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/column-wise-groups-group-by-and-reframe?u=76281980&t=174)** It is much more common to use mutate() and summarise() in your data wrangling.
+> **[2:54](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/column-wise-groups-group-by-and-reframe?u=76281980&t=174)** It is much more common to use mutate() and summarise() in your [[Data Wrangling]].
 >
 > **[3:00](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/column-wise-groups-group-by-and-reframe?u=76281980&t=180)** reframe() provides a very generalizable tool that guarantees your data is ungrouped afterwards.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
+> **Frameworks & Libraries:** [[Data Wrangling]] (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** group_by (1)
 > **Versions:** version 1 (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Column-wise groups: Using the .by argument instead of group_by()
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/column-wise-groups-by-argument-instead-of-group-by?u=76281980)
+#### [Column-wise groups: Using the .by argument instead of group_by()](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/column-wise-groups-by-argument-instead-of-group-by?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2666,15 +2626,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** group_by (6)
 > **CLI Commands:** find (1), make (1)
 > **Best Practices:** remember to (2)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Row-wise groups: rowwise() and c_across()
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/row-wise-groups-rowwise-and-c-across?u=76281980)
+#### [Row-wise groups: rowwise() and c_across()](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/row-wise-groups-rowwise-and-c-across?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2742,13 +2700,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** c_across (8), group_by (3), exam_data (2), max_score (2), starts_with (2)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Remember to ungroup()
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/remember-to-ungroup?u=76281980)
+#### [Remember to ungroup()](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/remember-to-ungroup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2794,14 +2750,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** student_year_averages (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Find maximum penguin dimension by island
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/challenge-find-maximum-penguin-dimension-by-island?u=76281980)
+#### [Challenge: Find maximum penguin dimension by island](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/challenge-find-maximum-penguin-dimension-by-island?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2823,7 +2777,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** remember to (1)
@@ -2831,8 +2784,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Find maximum penguin dimension by island
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/solution-find-maximum-penguin-dimension-by-island?u=76281980)
+#### [Solution: Find maximum penguin dimension by island](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/solution-find-maximum-penguin-dimension-by-island?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2910,7 +2862,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Code Identifiers:** max_dimension (3), bill_length (1), bill_depth (1), flipper_length (1), c_across (1)
 > **CLI Commands:** make (3), find (2), rm (2)
 > **Speakers:** - [instructor] (1)
@@ -2921,8 +2872,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### ggplot2 for beautiful data storytelling
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/ggplot2-for-beautiful-data-storytelling?u=76281980)
+#### [ggplot2 for beautiful data storytelling](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/ggplot2-for-beautiful-data-storytelling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2930,7 +2880,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/ggplot2-for-beautiful-data-storytelling?u=76281980&t=6)** It's such a flexible tool for exploratory data analysis and allows us to create beautiful and rich data stories.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/ggplot2-for-beautiful-data-storytelling?u=76281980&t=14)** I'm going to try to do the package justice in this video, but I strongly recommend taking a dedicated course from the LinkedIn Library to understand just how flexible the package is and exactly how it works.
+> **[0:14](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/ggplot2-for-beautiful-data-storytelling?u=76281980&t=14)** I'm going to try to do the package justice in this video, but I strongly recommend taking a dedicated course from the [[LinkedIn]] Library to understand just how flexible the package is and exactly how it works.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/ggplot2-for-beautiful-data-storytelling?u=76281980&t=27)** But let me show you what I can in this video by going to project 05_01b, and we're going to open the ggplot2.R script.
 >
@@ -3050,7 +3000,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[LinkedIn]] (2), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **Code Identifiers:** geom_point (2), clean_test (2), scale_colour_viridis (1), facet_wrap (1), gg_animated (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** gif (2)
@@ -3059,8 +3009,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### stringr for friendly string manipulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/stringr-for-friendly-string-manipulation?u=76281980)
+#### [stringr for friendly string manipulation](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/stringr-for-friendly-string-manipulation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3074,7 +3023,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/stringr-for-friendly-string-manipulation?u=76281980&t=24)** The billboard dataset contains information about the top 100 songs for the year 2000, and I'm going to select out the artist and the track columns.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/stringr-for-friendly-string-manipulation?u=76281980&t=36)** And let's say I'm interested in those tracks that contain the word love.
+> **[0:36](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/stringr-for-friendly-string-manipulation?u=76281980&t=36)** And let's say I'm interested in those tracks that contain the [[Microsoft Word|word]] love.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/stringr-for-friendly-string-manipulation?u=76281980&t=40)** Love is a really common title in pop songs and the year 2000, the top 100 was very much populated by pop songs.
 >
@@ -3106,7 +3055,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/stringr-for-friendly-string-manipulation?u=76281980&t=128)** The track column is in title case, so the first letter of love is always going to be a capital letter.
 >
-> **[2:15](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/stringr-for-friendly-string-manipulation?u=76281980&t=135)** Now what I could do is I could change my string here, so that's a capital L, but a good data science thing to do is to lowercase all of my column.
+> **[2:15](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/stringr-for-friendly-string-manipulation?u=76281980&t=135)** Now what I could do is I could change my string here, so that's a capital L, but a good [[Data Science]] thing to do is to lowercase all of my column.
 >
 > **[2:26](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/stringr-for-friendly-string-manipulation?u=76281980&t=146)** So I'm going to use str_to_lower, again, from the stringr package.
 >
@@ -3158,7 +3107,7 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/stringr-for-friendly-string-manipulation?u=76281980&t=318)** It's also great for formatting your text in ggplot2 charts.
 >
-> **[5:22](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/stringr-for-friendly-string-manipulation?u=76281980&t=322)** One last thing I wanted to show you for data processing, this is a little bit more advanced, but I think it's useful to cover.
+> **[5:22](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/stringr-for-friendly-string-manipulation?u=76281980&t=322)** One last thing I wanted to show you for [[Data Processing]], this is a little bit more advanced, but I think it's useful to cover.
 >
 > **[5:30](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/stringr-for-friendly-string-manipulation?u=76281980&t=330)** str_extract allows us to extract patterns from text.
 >
@@ -3202,11 +3151,11 @@ created: 2026-05-02
 >
 > **[7:46](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/stringr-for-friendly-string-manipulation?u=76281980&t=466)** So this video shows how stringr can be used for filtering data.
 >
-> **[7:51](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/stringr-for-friendly-string-manipulation?u=76281980&t=471)** It can be used for tidying up your ggplot2 charts, and you can combine it together with all of the functions in the tidyverse to do some really nice data wrangling and data cleaning.
+> **[7:51](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/stringr-for-friendly-string-manipulation?u=76281980&t=471)** It can be used for tidying up your ggplot2 charts, and you can combine it together with all of the functions in the tidyverse to do some really nice [[Data Wrangling]] and [[Data Cleaning]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Microsoft Word|Word]] (10)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10), [[Data Science]] (1), [[Data Processing]] (1), [[Data Wrangling]] (1), [[Data Cleaning]] (1)
 > **Code Identifiers:** str_extract (3), str_detect (2), str_to_lower (2), str_replace (2), str_starts (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2), cat (1)
@@ -3214,8 +3163,7 @@ created: 2026-05-02
 > **Env Vars:** gss (1)
 > **Speakers:** - [instructor] (1)
 
-#### lubridate for manipulating dates and times
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/lubridate-for-manipulating-dates-and-times?u=76281980)
+#### [lubridate for manipulating dates and times](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/lubridate-for-manipulating-dates-and-times?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3309,13 +3257,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** policy_end_date (4), quote_date (3), policy_start_date (3), renewal_reminder_date (2), clean_names (1)
 > **CLI Commands:** make (4)
 > **Speakers:** - [instructor] (1)
 
-#### forcats for manipulating factors
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/forcats-for-manipulating-factors?u=76281980)
+#### [forcats for manipulating factors](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/forcats-for-manipulating-factors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3367,7 +3313,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/forcats-for-manipulating-factors?u=76281980&t=159)** So a factor is a type of data which is made available to us thanks to base R.
 >
-> **[2:45](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/forcats-for-manipulating-factors?u=76281980&t=165)** So just like base R provides this data frames and data frames are crucial for doing data science inside of R, factors are also really crucial to what makes R such a popular programming language.
+> **[2:45](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/forcats-for-manipulating-factors?u=76281980&t=165)** So just like base R provides this data frames and data frames are crucial for doing [[Data Science]] inside of R, factors are also really crucial to what makes R such a popular programming language.
 >
 > **[2:59](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/forcats-for-manipulating-factors?u=76281980&t=179)** So inside of this factor we have the observations carni, herbi, insecti, omni, and we have the order insecti, carni, omni, herbi.
 >
@@ -3445,7 +3391,7 @@ created: 2026-05-02
 >
 > **[6:50](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/forcats-for-manipulating-factors?u=76281980&t=410)** That's great.
 >
-> **[6:52](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/forcats-for-manipulating-factors?u=76281980&t=412)** We can add a pipe here to rejoin this with the rest of the pipe chain that's going to count the different levels of our income.
+> **[6:52](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/forcats-for-manipulating-factors?u=76281980&t=412)** We can add a pipe here to rejoin this with the [[Representational State Transfer (REST)|rest]] of the pipe chain that's going to count the different levels of our income.
 >
 > **[7:00](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/forcats-for-manipulating-factors?u=76281980&t=420)** And then pipe it into ggplot2.
 >
@@ -3459,7 +3405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (5), cat (1)
 > **Code Identifiers:** fct_explicit_na (2), fct_na_value_to_level (2), fact_reorder (1), fct_collapse (1)
 > **Definitions:** is a  (5), is an  (1)
@@ -3467,8 +3413,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - the (1)
 
-#### purrr for doing many things like iteration
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/purrr-for-doing-many-things-ie-iteration?u=76281980)
+#### [purrr for doing many things like iteration](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/purrr-for-doing-many-things-ie-iteration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3476,7 +3421,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/purrr-for-doing-many-things-ie-iteration?u=76281980&t=5)** At its simplest, purrr is for doing many things repeatedly.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/purrr-for-doing-many-things-ie-iteration?u=76281980&t=10)** A little bit more specifically, purrr provides tools for iteration and the iteration is controlled from a functional programming paradigm.
+> **[0:10](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/purrr-for-doing-many-things-ie-iteration?u=76281980&t=10)** A little bit more specifically, purrr provides tools for iteration and the iteration is controlled from a [[Functional Programming]] paradigm.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/purrr-for-doing-many-things-ie-iteration?u=76281980&t=20)** Let's take a look at what that means practically by opening up the 05_05b project.
 >
@@ -3612,7 +3557,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Functional Programming]] (2), generic (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (2)
 > **Definitions:** is a  (5)
 > **Code Identifiers:** data_gapminder (2), read_csv (1), map_df (1)
 > **CLI Commands:** make (2)
@@ -3624,8 +3569,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Handling NAs in the tidyverse with drop_na() and replace_na()
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/handling-nas-in-the-tidyverse-with-drop-na-replace-na?u=76281980)
+#### [Handling NAs in the tidyverse with drop_na() and replace_na()](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/handling-nas-in-the-tidyverse-with-drop-na-replace-na?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3653,7 +3597,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/handling-nas-in-the-tidyverse-with-drop-na-replace-na?u=76281980&t=91)** But remember, with tidy selection, we can use any tidy selection helper, including contains.
 >
-> **[1:39](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/handling-nas-in-the-tidyverse-with-drop-na-replace-na?u=76281980&t=99)** We could target those columns that contain the word sleep, to only drop those rows containing NA values in these columns.
+> **[1:39](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/handling-nas-in-the-tidyverse-with-drop-na-replace-na?u=76281980&t=99)** We could target those columns that contain the [[Microsoft Word|word]] sleep, to only drop those rows containing NA values in these columns.
 >
 > **[1:48](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/handling-nas-in-the-tidyverse-with-drop-na-replace-na?u=76281980&t=108)** I love using drop_na on my data.
 >
@@ -3695,15 +3639,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** drop_na (3), replace_na (2), if_any (1), na_if (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use case_when() instead of nested if or ifelse()
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/use-case-when-instead-of-nested-if-or-ifelse?u=76281980)
+#### [Use case_when() instead of nested if or ifelse()](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/use-case-when-instead-of-nested-if-or-ifelse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3821,7 +3764,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1)
 > **Code Identifiers:** case_when (13), sleep_total (6), sleep_rem (3), sleep_category (1)
 > **Env Vars:** true (3)
 > **Warnings:** common error (1), be careful (1)
@@ -3830,8 +3772,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use tidy-select functions to work with many columns at once
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/use-tidy-select-functions-to-work-with-many-columns-at-once?u=76281980)
+#### [Use tidy-select functions to work with many columns at once](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/use-tidy-select-functions-to-work-with-many-columns-at-once?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3915,7 +3856,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (7)
 > **Documentation:** the documentation (2)
 > **Cross-References:** later in (1)
@@ -3923,8 +3863,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using across() in mutate() to modify multiple columns at once
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-across-in-mutate-to-modify-multiple-columns-at-once?u=76281980)
+#### [Using across() in mutate() to modify multiple columns at once](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/using-across-in-mutate-to-modify-multiple-columns-at-once?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4020,7 +3959,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (2), rm (1)
 > **Code Identifiers:** max_score (1), c_across (1)
 > **Definitions:** is a  (2)
@@ -4029,8 +3967,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filtering many columns at once with if_any() and if_all()
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/filtering-many-columns-at-once-with-if-any-and-if-all?u=76281980)
+#### [Filtering many columns at once with if_any() and if_all()](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/filtering-many-columns-at-once-with-if-any-and-if-all?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4082,19 +4019,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** if_any (6), if_all (4)
 > **Documentation:** specification (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding how the tidyverse evolves and deprecates
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/understanding-the-tidyverse-evolves-and-deprecates?u=76281980)
+#### [Understanding how the tidyverse evolves and deprecates](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/understanding-the-tidyverse-evolves-and-deprecates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/understanding-the-tidyverse-evolves-and-deprecates?u=76281980&t=0)** - [Instructor] The Tidyverse is an incredibly powerful toolkit for doing data science with R.
+> **[0:00](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/understanding-the-tidyverse-evolves-and-deprecates?u=76281980&t=0)** - [Instructor] The Tidyverse is an incredibly powerful toolkit for doing [[Data Science]] with R.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/understanding-the-tidyverse-evolves-and-deprecates?u=76281980&t=6)** The reason it's so powerful is that it's still growing and evolving, and it's not a stagnant collection of functions.
 >
@@ -4146,7 +4081,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), feature (1)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **Documentation:** the documentation (3)
 > **Warnings:** caution (3)
 > **Code Identifiers:** pivot_longer (1), pivot_wider (1)
@@ -4155,8 +4090,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Find all love songs remaining below position 80 in the top 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/challenge-find-all-love-songs-remaining-below-position-80-in-the-top-10?u=76281980)
+#### [Challenge: Find all love songs remaining below position 80 in the top 10](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/challenge-find-all-love-songs-remaining-below-position-80-in-the-top-10?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4166,7 +4100,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/challenge-find-all-love-songs-remaining-below-position-80-in-the-top-10?u=76281980&t=12)** What I need you to do is to find the three songs in the dataset that match these two conditions.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/challenge-find-all-love-songs-remaining-below-position-80-in-the-top-10?u=76281980&t=20)** The song title contains the word "love," and every week that the song was in the top 100, it was in position 80 or better.
+> **[0:20](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/challenge-find-all-love-songs-remaining-below-position-80-in-the-top-10?u=76281980&t=20)** The song title contains the [[Microsoft Word|word]] "love," and every week that the song was in the top 100, it was in position 80 or better.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/challenge-find-all-love-songs-remaining-below-position-80-in-the-top-10?u=76281980&t=31)** If you go over to project 06_07b, I've started you off in challenge.R, and all I've done is loaded the tidyverse and given you the dataset Billboard.
 >
@@ -4182,14 +4116,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (engaging synth music) (1)
 
-#### Solution: Find all love songs remaining below position 80 in the top 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/solution-find-all-love-songs-remaining-below-position-80-in-the-top-10?u=76281980)
+#### [Solution: Find all love songs remaining below position 80 in the top 10](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/solution-find-all-love-songs-remaining-below-position-80-in-the-top-10?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4207,7 +4140,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/solution-find-all-love-songs-remaining-below-position-80-in-the-top-10?u=76281980&t=64)** So let's use sdr_to_lower on the track column.
 >
-> **[1:12](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/solution-find-all-love-songs-remaining-below-position-80-in-the-top-10?u=76281980&t=72)** And then we want to search for the word love.
+> **[1:12](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/solution-find-all-love-songs-remaining-below-position-80-in-the-top-10?u=76281980&t=72)** And then we want to search for the [[Microsoft Word|word]] love.
 >
 > **[1:16](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/solution-find-all-love-songs-remaining-below-position-80-in-the-top-10?u=76281980&t=76)** So those are all of the 22 songs that contain the word love with case insensitivity.
 >
@@ -4247,7 +4180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Code Identifiers:** if_all (4), str_detect (1), sdr_to_lower (1)
 > **CLI Commands:** make (1)
 > **Documentation:** specification (1)
@@ -4259,8 +4192,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4272,13 +4204,13 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/next-steps?u=76281980&t=24)** You've seen how to use stringr, lubridate and forcats, designed specifically for the complexities of handling strings, dates, and factors respectively.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/next-steps?u=76281980&t=35)** I also had the pleasure of introducing you to ggplot2, simply the best tool for data storytelling with R.
+> **[0:35](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/next-steps?u=76281980&t=35)** I also had the pleasure of introducing you to ggplot2, simply the best tool for [[Data Storytelling]] with R.
 >
 > **[0:42](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/next-steps?u=76281980&t=42)** If you're interested in learning more, I have two recommendations.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/next-steps?u=76281980&t=46)** The LinkedIn Learning catalog has dedicated ggplot2 courses, and you can also search LinkedIn for the hashtag tidytuesday and ggplot2 every Tuesday for an impressive showcase of what's possible with ggplot2 thanks to the Tidyverse.
+> **[0:46](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/next-steps?u=76281980&t=46)** The [[LinkedIn]] Learning catalog has dedicated ggplot2 courses, and you can also search LinkedIn for the hashtag tidytuesday and ggplot2 every Tuesday for an impressive showcase of what's possible with ggplot2 thanks to the Tidyverse.
 >
-> **[1:05](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/next-steps?u=76281980&t=65)** If you're looking for courses on specific data analysis or data science topics with R, there's a great collection in the course catalog.
+> **[1:05](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/next-steps?u=76281980&t=65)** If you're looking for courses on specific data analysis or [[Data Science]] topics with R, there's a great collection in the course catalog.
 >
 > **[1:14](https://www.linkedin.com/learning/learning-the-r-tidyverse-24332729/next-steps?u=76281980&t=74)** If modeling is your thing, then tinymodels is another ecosystem of our packages designed around the Tidyverse that I'd thoroughly recommend.
 >
@@ -4286,7 +4218,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[LinkedIn]] (3), [[Data Storytelling]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Data Storytelling]] (2), [[Data Science]] (1)
 > **Speakers:** - [charlotte] (1)
 
 

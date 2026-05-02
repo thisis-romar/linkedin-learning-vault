@@ -94,12 +94,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prediction, causation, and statistical inference
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/prediction-causation-and-statistical-inference?u=76281980)
+#### [Prediction, causation, and statistical inference](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/prediction-causation-and-statistical-inference?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/prediction-causation-and-statistical-inference?u=76281980&t=0)** - [Keith] If you are a data scientist who got your start in machine learning, statistics may at times seem like a collection of elaborate rules that may or may not apply to machine learning.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/prediction-causation-and-statistical-inference?u=76281980&t=0)** - [Keith] If you are a data scientist who got your start in machine learning, [[Statistics]] may at times seem like a collection of elaborate rules that may or may not apply to machine learning.
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/prediction-causation-and-statistical-inference?u=76281980&t=11)** However, if you're a data scientist who got your start in statistics, some machine learning may seem like tennis being played without a net.
 >
@@ -117,7 +116,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Statistics]] (3), career (1)
+> **Frameworks & Libraries:** [[Statistics]] (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [keith] (1)
 
@@ -126,8 +125,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Lady tasting tea
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/lady-tasting-tea?u=76281980)
+#### [Lady tasting tea](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/lady-tasting-tea?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -137,11 +135,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/lady-tasting-tea?u=76281980&t=7)** One of the methods for this is the experiment, and the way that we conduct modern experiments has been very much influenced by Ronald Fisher.
 >
-> **[0:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/lady-tasting-tea?u=76281980&t=16)** Fisher gets the credit for a number of the techniques that are used in contemporary statistics.
+> **[0:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/lady-tasting-tea?u=76281980&t=16)** Fisher gets the credit for a number of the techniques that are used in contemporary [[Statistics]].
 >
 > **[0:23](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/lady-tasting-tea?u=76281980&t=23)** So we are going to begin the course with two very revealing stories about Fisher and what kind of analyses he found convincing.
 >
-> **[0:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/lady-tasting-tea?u=76281980&t=33)** Since data science has statistics as a major component, data science would not be the same without him.
+> **[0:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/lady-tasting-tea?u=76281980&t=33)** Since [[Data Science]] has statistics as a major component, data science would not be the same without him.
 >
 > **[0:40](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/lady-tasting-tea?u=76281980&t=40)** He was also a colorful care character, brilliant, sometimes charming, and sometimes a bit of a curmudgeon who loved a good argument.
 >
@@ -205,14 +203,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (3), data (3)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Data Science]] (2)
 > **Prerequisites:** setup (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why causation matters in a business setting
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/why-causation-matters-in-a-business-setting?u=76281980)
+#### [Why causation matters in a business setting](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/why-causation-matters-in-a-business-setting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -226,21 +223,20 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/why-causation-matters-in-a-business-setting?u=76281980&t=59)** Do all of these establish causality, maybe only some of them?
 >
-> **[1:04](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/why-causation-matters-in-a-business-setting?u=76281980&t=64)** Your boss or colleagues might not ask explicitly for causal inference, but it's going to be on their mind.
+> **[1:04](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/why-causation-matters-in-a-business-setting?u=76281980&t=64)** Your boss or colleagues might not ask explicitly for [[Causal Inference]], but it's going to be on their mind.
 >
 > **[1:13](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/why-causation-matters-in-a-business-setting?u=76281980&t=73)** You will want to be certain of when you can safely make a causal claim, so this isn't just an academic topic.
 >
-> **[1:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/why-causation-matters-in-a-business-setting?u=76281980&t=80)** It gets to the heart of what we are to trying to do in applied data science situations.
+> **[1:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/why-causation-matters-in-a-business-setting?u=76281980&t=80)** It gets to the heart of what we are to trying to do in applied [[Data Science]] situations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Causal Inference]] (1), data (1)
+> **Frameworks & Libraries:** [[Causal Inference]] (1), [[Data Science]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is a causal model?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/what-is-a-causal-model?u=76281980)
+#### [What is a causal model?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/what-is-a-causal-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -288,7 +284,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1), data (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -297,12 +292,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Skepticism about data: Truman 1948 Election Poll
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-data-truman-1948-election-poll?u=76281980)
+#### [Skepticism about data: Truman 1948 Election Poll](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-data-truman-1948-election-poll?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-data-truman-1948-election-poll?u=76281980&t=0)** - [Narrator] Data science, especially statistics, gives us tools to measure uncertainty.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-data-truman-1948-election-poll?u=76281980&t=0)** - [Narrator] [[Data Science]], especially [[Statistics]], gives us tools to measure uncertainty.
 >
 > **[0:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-data-truman-1948-election-poll?u=76281980&t=6)** We encounter many of these tools in our day-to-day lives, even if it's just listening to the news or reading the newspaper.
 >
@@ -350,15 +344,14 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-data-truman-1948-election-poll?u=76281980&t=169)** If you can't trust your data, everything else that follows is going to be affected.
 >
-> **[2:57](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-data-truman-1948-election-poll?u=76281980&t=177)** So no accurate assessment of causal inference, or even statistical inference, can take place if your data is biased.
+> **[2:57](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-data-truman-1948-election-poll?u=76281980&t=177)** So no accurate assessment of [[Causal Inference]], or even statistical inference, can take place if your data is biased.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Statistics]] (1), [[Causal Inference]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Statistics]] (1), [[Causal Inference]] (1)
 > **Speakers:** - [narrator] (1)
 
-#### Skepticism about results: Is that really the best predictor?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-results-is-that-really-the-best-predictor?u=76281980)
+#### [Skepticism about results: Is that really the best predictor?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-results-is-that-really-the-best-predictor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -402,7 +395,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-results-is-that-really-the-best-predictor?u=76281980&t=111)** When you have two very similar independent variables, in this case, math and verbal score, all kinds of things can go wrong.
 >
-> **[1:59](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-results-is-that-really-the-best-predictor?u=76281980&t=119)** Multicollinearity in linear regression can cause coefficients to flip from positive relationships to negative relationships or vice versa.
+> **[1:59](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-results-is-that-really-the-best-predictor?u=76281980&t=119)** Multicollinearity in [[Linear Regression]] can cause coefficients to flip from positive relationships to negative relationships or vice versa.
 >
 > **[2:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-results-is-that-really-the-best-predictor?u=76281980&t=130)** On the decision tree, what can happen is that the ordering can be unstable.
 >
@@ -428,26 +421,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Engineering]] (3), [[Linear Regression]] (1), next (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (1)
 > **Analogies:** imagine (1), for instance (1)
 > **Env Vars:** sat (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Skepticism about causes: Is X really causing Y?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-causes-is-x-really-causing-y?u=76281980)
+#### [Skepticism about causes: Is X really causing Y?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-causes-is-x-really-causing-y?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-causes-is-x-really-causing-y?u=76281980&t=0)** - [Instructor] We've all heard the saying, "Correlation does not imply causation."
 >
-> **[0:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-causes-is-x-really-causing-y?u=76281980&t=5)** We might even be reminded of it on occasion by our friends and colleagues with statistics training while we're in the middle of a report.
+> **[0:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-causes-is-x-really-causing-y?u=76281980&t=5)** We might even be reminded of it on occasion by our friends and colleagues with [[Statistics]] training while we're in the middle of a report.
 >
 > **[0:13](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-causes-is-x-really-causing-y?u=76281980&t=13)** In the context of this course, we have to remind ourselves of this because we have an explicit goal to try to establish causation.
 >
 > **[0:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-causes-is-x-really-causing-y?u=76281980&t=21)** So it's worth spending a moment to see visually why one doesn't imply the other.
 >
-> **[0:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-causes-is-x-really-causing-y?u=76281980&t=29)** Tyler Vigen has a website and a book where he and the rest of us get to have a bit of fun with this.
+> **[0:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-causes-is-x-really-causing-y?u=76281980&t=29)** Tyler Vigen has a website and a book where he and the [[Representational State Transfer (REST)|rest]] of us get to have a bit of fun with this.
 >
 > **[0:36](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/skepticism-about-causes-is-x-really-causing-y?u=76281980&t=36)** Remember that the reason it's important for us is that we should always be skeptical about correlations and causes.
 >
@@ -493,7 +485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), data (2), [[Statistics]] (1), [[Representational State Transfer (REST)|Rest]] (1), power (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 0.95 (1), 0.9 (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** you'll need (2)
@@ -507,8 +499,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a strong correlation?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/what-is-a-strong-correlation?u=76281980)
+#### [What is a strong correlation?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/what-is-a-strong-correlation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -522,7 +513,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/what-is-a-strong-correlation?u=76281980&t=21)** So the first correlation I have up here is a Pearson correlation and that's a name that we're going to be hearing again.
 >
-> **[0:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/what-is-a-strong-correlation?u=76281980&t=30)** Karl Pearson is a famous name in statistics.
+> **[0:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/what-is-a-strong-correlation?u=76281980&t=30)** Karl Pearson is a famous name in [[Statistics]].
 >
 > **[0:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/what-is-a-strong-correlation?u=76281980&t=33)** And we're going to be looking at the correlation between displacement and horsepower.
 >
@@ -548,7 +539,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/what-is-a-strong-correlation?u=76281980&t=96)** And we can see again a very strong relationship.
 >
-> **[1:40](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/what-is-a-strong-correlation?u=76281980&t=100)** One of the things that we want to remind ourselves of is that if we're dealing with human behavior, which is commonly what we're doing in data science and machine learning, we're going to see correlations a lot smaller than this and I think you'll be surprised how fuzzy the relationship can be.
+> **[1:40](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/what-is-a-strong-correlation?u=76281980&t=100)** One of the things that we want to remind ourselves of is that if we're dealing with human behavior, which is commonly what we're doing in [[Data Science]] and machine learning, we're going to see correlations a lot smaller than this and I think you'll be surprised how fuzzy the relationship can be.
 >
 > **[2:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/what-is-a-strong-correlation?u=76281980&t=120)** Notice that even with the correlation of .9, we have some exceptions here.
 >
@@ -654,15 +645,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Engineering]] (2), [[Statistics]] (1), power (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Data Science]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Definitions:** is a  (4)
 > **Code Identifiers:** autompg_causality (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pearson on correlation and causation
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/pearson-on-correlation-and-causation?u=76281980)
+#### [Pearson on correlation and causation](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/pearson-on-correlation-and-causation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -712,7 +702,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/pearson-on-correlation-and-causation?u=76281980&t=130)** Where we find correlation we cannot always predict causation."
 >
-> **[2:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/pearson-on-correlation-and-causation?u=76281980&t=135)** Of course he hasn't introduced the word imply in here, but you can see that it's very close to what we say today.
+> **[2:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/pearson-on-correlation-and-causation?u=76281980&t=135)** Of course he hasn't introduced the [[Microsoft Word|word]] imply in here, but you can see that it's very close to what we say today.
 >
 > **[2:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/pearson-on-correlation-and-causation?u=76281980&t=142)** I think in this quote, Pearson comes off as a bit moderate in tone, but Judea Pearl in "The Book of Why" in a section entitled Pearson, the Wrath of the Zealot makes the case that Pearson set the tone early that causation was off limits.
 >
@@ -764,14 +754,13 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [narrator] (1)
 
-#### Correlation and regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/correlation-and-regression?u=76281980)
+#### [Correlation and regression](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/correlation-and-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/correlation-and-regression?u=76281980&t=0)** - [Instructor] Okay, we're in the same spreadsheet that we used when we were talking about correlations.
 >
-> **[0:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/correlation-and-regression?u=76281980&t=6)** Now, what I'd like to do is, with this same data, talk about what those correlations look like when we run them in linear regression.
+> **[0:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/correlation-and-regression?u=76281980&t=6)** Now, what I'd like to do is, with this same data, talk about what those correlations look like when we run them in [[Linear Regression]].
 >
 > **[0:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/correlation-and-regression?u=76281980&t=16)** So first, we can start with the relationship that makes the most sense, weight predicting miles per gallon.
 >
@@ -847,15 +836,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (2), data (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (2)
 > **CLI Commands:** make (1)
 > **Versions:** 46.2 (1)
 > **Cross-References:** later in (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: What is causing what?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/challenge-what-is-causing-what?u=76281980)
+#### [Challenge: What is causing what?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/challenge-what-is-causing-what?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -887,15 +875,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **Env Vars:** psat (2), sat (1)
 > **CLI Commands:** find (2)
 > **Versions:** 0.6 (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: What is causing what?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/solution-what-is-causing-what?u=76281980)
+#### [Solution: What is causing what?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/solution-what-is-causing-what?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -971,7 +957,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/solution-what-is-causing-what?u=76281980&t=264)** Well, one hopes that you had a hypothesis like this before you gathered the data and you even different a literature review or something like that.
 >
-> **[4:32](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/solution-what-is-causing-what?u=76281980&t=272)** That's what we're supposed to do when we're wearing our statistics hat.
+> **[4:32](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/solution-what-is-causing-what?u=76281980&t=272)** That's what we're supposed to do when we're wearing our [[Statistics]] hat.
 >
 > **[4:36](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/solution-what-is-causing-what?u=76281980&t=276)** However, you always have to consider the reverse direction of the causality because even if that's not your hypothesis, somebody that's reading or listening to your research will want you to consider that opposite direction.
 >
@@ -1013,7 +999,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Env Vars:** psat (4), sat (2)
 > **CLI Commands:** make (3)
 > **Best Practices:** don't forget (3)
@@ -1026,8 +1012,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using probability to measure uncertainty
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/using-probability-to-measure-uncertainty?u=76281980)
+#### [Using probability to measure uncertainty](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/using-probability-to-measure-uncertainty?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1035,13 +1020,13 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/using-probability-to-measure-uncertainty?u=76281980&t=3)** Why do you think that Fisher chose to have eight cups?
 >
-> **[0:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/using-probability-to-measure-uncertainty?u=76281980&t=8)** By the way, the proper way of measuring the probability in the historical experiment with Muriel Bristol is more complicated than what we're going to talk about, because she was informed that there would be four milk first and four tea first, but let's just pretend that guessing correctly is analogous to eight coin tosses, your chance of getting the milk first, tea first challenge is 50%, if it's on just one cup, but for eight cups, it would be less than 1%, if we make the math easy and just make it 1/2 to the eighth power.
+> **[0:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/using-probability-to-measure-uncertainty?u=76281980&t=8)** By the way, the proper way of measuring the [[Probability]] in the historical experiment with Muriel Bristol is more complicated than what we're going to talk about, because she was informed that there would be four milk first and four tea first, but let's just pretend that guessing correctly is analogous to eight coin tosses, your chance of getting the milk first, tea first challenge is 50%, if it's on just one cup, but for eight cups, it would be less than 1%, if we make the math easy and just make it 1/2 to the eighth power.
 >
 > **[0:50](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/using-probability-to-measure-uncertainty?u=76281980&t=50)** If we only give our taster one cup or one coin flip, we can't tell guessing from the real thing.
 >
 > **[0:59](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/using-probability-to-measure-uncertainty?u=76281980&t=59)** If we have eight cups, we have much more certainty.
 >
-> **[1:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/using-probability-to-measure-uncertainty?u=76281980&t=63)** Much of statistics is using probability to measure uncertainty.
+> **[1:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/using-probability-to-measure-uncertainty?u=76281980&t=63)** Much of [[Statistics]] is using probability to measure uncertainty.
 >
 > **[1:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/using-probability-to-measure-uncertainty?u=76281980&t=70)** So what does that have to do with the actual day to day practice of statistics?
 >
@@ -1053,19 +1038,19 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/using-probability-to-measure-uncertainty?u=76281980&t=101)** But we never have census data.
 >
-> **[1:44](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/using-probability-to-measure-uncertainty?u=76281980&t=104)** Even if you at times, think you have complete data, because you do machine learning and you have big data, we still have data that represents a snapshot in time and data is always changing.
+> **[1:44](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/using-probability-to-measure-uncertainty?u=76281980&t=104)** Even if you at times, think you have complete data, because you do machine learning and you have [[Big Data]], we still have data that represents a snapshot in time and data is always changing.
 >
 > **[1:59](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/using-probability-to-measure-uncertainty?u=76281980&t=119)** So we never have a census.
 >
 > **[2:01](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/using-probability-to-measure-uncertainty?u=76281980&t=121)** Big data doesn't change the situation very much at all.
 >
-> **[2:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/using-probability-to-measure-uncertainty?u=76281980&t=126)** We observe this when we do a LinkedIn poll or we're monitoring something like a political tracking poll.
+> **[2:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/using-probability-to-measure-uncertainty?u=76281980&t=126)** We observe this when we do a [[LinkedIn]] poll or we're monitoring something like a political tracking poll.
 >
 > **[2:13](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/using-probability-to-measure-uncertainty?u=76281980&t=133)** We use probability to measure the amount of noise in the system so that we can figure out if there's any signal that's louder than the noise.
 >
 > **[2:24](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/using-probability-to-measure-uncertainty?u=76281980&t=144)** Okay, let's do a few basic analyses in a dataset.
 >
-> **[2:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/using-probability-to-measure-uncertainty?u=76281980&t=149)** You don't have to worry about bringing this up in Excel now, but I provided a modified version of a dataset as an Excel spreadsheet and I'm going to make that available to you.
+> **[2:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/using-probability-to-measure-uncertainty?u=76281980&t=149)** You don't have to worry about bringing this up in [[Microsoft Excel|Excel]] now, but I provided a modified version of a dataset as an Excel spreadsheet and I'm going to make that available to you.
 >
 > **[2:40](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/using-probability-to-measure-uncertainty?u=76281980&t=160)** Also, I'm providing a PDF with some more elaborate analysis, since we're only going to spend a couple of minutes in this dataset.
 >
@@ -1191,7 +1176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (5), data (5), [[Statistics]] (2), [[Big Data]] (2), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Probability]] (5), [[Statistics]] (2), [[Big Data]] (2), [[Microsoft Excel|Excel]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (6)
 > **Versions:** 178.71 (1), 176.49 (1), 0.05 (1), 0.628 (1)
 > **Env Vars:** pdf (1)
@@ -1200,8 +1185,7 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Analogies:** analogous to (1)
 
-#### p-value review
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/p-value-review?u=76281980)
+#### [p-value review](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/p-value-review?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1209,7 +1193,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/p-value-review?u=76281980&t=15)** That should prepare us for the official definition of a p-value.
 >
-> **[0:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/p-value-review?u=76281980&t=21)** The American Statistical Association panel defined the p-value as, "The probability under a specified statistical model that a statistical summary of the data, for example, the sample mean difference between two compared groups, would be equal to or more extreme than its observed value."
+> **[0:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/p-value-review?u=76281980&t=21)** The American Statistical Association panel defined the p-value as, "The [[Probability]] under a specified statistical model that a statistical summary of the data, for example, the sample mean difference between two compared groups, would be equal to or more extreme than its observed value."
 >
 > **[0:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/p-value-review?u=76281980&t=45)** Oh boy, that's a bit intense if you're not familiar with it.
 >
@@ -1227,14 +1211,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Versions:** 0.05 (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hypothesis testing checklist
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/hypothesis-testing-checklist?u=76281980)
+#### [Hypothesis testing checklist](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/hypothesis-testing-checklist?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1324,7 +1307,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), data (1), next (1)
 > **Versions:** 0.05 (8), 0.1 (1), 0.01 (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (3), in other words (2)
@@ -1332,8 +1314,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [speaker] (1)
 
-#### Taleb on normality, mediocristan, and extremistan
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/taleb-on-normality-mediocristan-and-extremistan?u=76281980)
+#### [Taleb on normality, mediocristan, and extremistan](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/taleb-on-normality-mediocristan-and-extremistan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1373,15 +1354,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** imagine (2)
 > **Cross-References:** later in (1)
 > **Tools:** notion (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Evaluate significant finding
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/challenge-evaluate-significant-finding?u=76281980)
+#### [Challenge: Evaluate significant finding](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/challenge-evaluate-significant-finding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1417,7 +1396,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Engineering]] (2), next (1)
 > **Env Vars:** psat (2), mbti (1), sat (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -1425,8 +1403,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Evaluate significant finding
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/solution-evaluate-significant-finding?u=76281980)
+#### [Solution: Evaluate significant finding](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/solution-evaluate-significant-finding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1476,7 +1453,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/solution-evaluate-significant-finding?u=76281980&t=118)** Now, you couldn't possibly know about how the data is gathered, but I happen to know how the data was gathered and to talk about it for a moment, we'll give you an idea of the kinds of questions that you'd want to ask, if you had access to someone that knew.
 >
-> **[2:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/solution-evaluate-significant-finding?u=76281980&t=131)** The Myers-Briggs, the sensing intuition indicator, as well as the PSAT, were taken together back to back by all the students that were in attendance at a particular high school during the data collection.
+> **[2:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/solution-evaluate-significant-finding?u=76281980&t=131)** The Myers-Briggs, the sensing intuition indicator, as well as the PSAT, were taken together back to back by all the students that were in attendance at a particular high school during the [[Data Collection]].
 >
 > **[2:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/solution-evaluate-significant-finding?u=76281980&t=148)** So what's noteworthy about this is this is not a convenient sample, it's a pretty comprehensive sample, and it's not only college-bound students who happen to take the PSAT.
 >
@@ -1498,7 +1475,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/solution-evaluate-significant-finding?u=76281980&t=198)** There were a fair number of variables, but more like on the order of a half dozen to a dozen not a huge number of variables.
 >
-> **[3:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/solution-evaluate-significant-finding?u=76281980&t=206)** In statistics terms they sometimes call that parson money.
+> **[3:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/solution-evaluate-significant-finding?u=76281980&t=206)** In [[Statistics]] terms they sometimes call that parson money.
 >
 > **[3:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/solution-evaluate-significant-finding?u=76281980&t=209)** The last one to think about is, did we possibly use the wrong test and accidentally use a test that's too liberal?
 >
@@ -1534,7 +1511,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Data Collection]] (1), [[Statistics]] (1)
 > **Env Vars:** psat (4), sat (3)
 > **CLI Commands:** make (3)
 > **Versions:** 0.05 (2), 2.9 (1)
@@ -1548,8 +1525,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are induction and deduction?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/what-are-induction-and-deduction?u=76281980)
+#### [What are induction and deduction?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/what-are-induction-and-deduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1557,7 +1533,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/what-are-induction-and-deduction?u=76281980&t=14)** Let's clarify what induction and deduction are and how they work.
 >
-> **[0:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/what-are-induction-and-deduction?u=76281980&t=20)** The difference between the two will be important to our discussions of statistics and machine learning.
+> **[0:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/what-are-induction-and-deduction?u=76281980&t=20)** The difference between the two will be important to our discussions of [[Statistics]] and machine learning.
 >
 > **[0:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/what-are-induction-and-deduction?u=76281980&t=27)** We'll discuss Hume soon enough, but let's start with Sherlock Holmes.
 >
@@ -1627,12 +1603,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (2), data (2)
+> **Frameworks & Libraries:** [[Statistics]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hume on induction
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/hume-on-induction?u=76281980)
+#### [Hume on induction](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/hume-on-induction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1674,7 +1649,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/hume-on-induction?u=76281980&t=157)** The famous disclaimer always reads, past performance is no indication of future results.
 >
-> **[2:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/hume-on-induction?u=76281980&t=165)** This should be potentially disturbing to us in the context of this course because if this is true, then supervised machine learning is going to have a very tough time getting us to causal inference.
+> **[2:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/hume-on-induction?u=76281980&t=165)** This should be potentially disturbing to us in the context of this course because if this is true, then supervised machine learning is going to have a very tough time getting us to [[Causal Inference]].
 >
 > **[2:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/hume-on-induction?u=76281980&t=178)** After all, all it's doing is finding patterns in the historical data.
 >
@@ -1692,13 +1667,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Causal Inference]] (1)
+> **Frameworks & Libraries:** [[Causal Inference]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** notion (1)
 > **Speakers:** - [instructor] (1)
 
-#### Popper on induction and falsification
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/popper-on-induction-and-falsification?u=76281980)
+#### [Popper on induction and falsification](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/popper-on-induction-and-falsification?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1746,7 +1720,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/popper-on-induction-and-falsification?u=76281980&t=159)** The term that has become associated with this and has made Popper famous is that scientific theories have to be falsifiable.
 >
-> **[2:50](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/popper-on-induction-and-falsification?u=76281980&t=170)** It still influences science today and it's the kind of thing that statistics is useful for.
+> **[2:50](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/popper-on-induction-and-falsification?u=76281980&t=170)** It still influences science today and it's the kind of thing that [[Statistics]] is useful for.
 >
 > **[2:57](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/popper-on-induction-and-falsification?u=76281980&t=177)** By falsifiable, he meant that even if it's impossible to prove definitively that you're right, you can prove that your theory is wrong.
 >
@@ -1768,17 +1742,16 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/popper-on-induction-and-falsification?u=76281980&t=243)** So it's a reminder to be very careful about how loudly and how broadly we talk about our models' accuracy and its relevance to things like causality until we've had a chance to thoroughly investigate its ability to perform in a real world setting.
 >
-> **[4:24](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/popper-on-induction-and-falsification?u=76281980&t=264)** We'll have much more to say about this when we get to the subject of prediction and proof with data mining.
+> **[4:24](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/popper-on-induction-and-falsification?u=76281980&t=264)** We'll have much more to say about this when we get to the subject of prediction and proof with [[Data Mining]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Data Mining]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Taleb on induction
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/taleb-on-induction?u=76281980)
+#### [Taleb on induction](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/taleb-on-induction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1816,7 +1789,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/taleb-on-induction?u=76281980&t=103)** So, you can disconfirm a hypothesis, but confirming is a different story.
 >
-> **[1:49](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/taleb-on-induction?u=76281980&t=109)** This is incredibly important because sometimes you'll hear talk of big data and having all the data.
+> **[1:49](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/taleb-on-induction?u=76281980&t=109)** This is incredibly important because sometimes you'll hear talk of [[Big Data]] and having all the data.
 >
 > **[1:57](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/taleb-on-induction?u=76281980&t=117)** It may seem at times that you do have the privilege of observing all available swans.
 >
@@ -1844,7 +1817,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/taleb-on-induction?u=76281980&t=181)** What does all this mean?
 >
-> **[3:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/taleb-on-induction?u=76281980&t=183)** Well, Taleb's argument is that we get fooled by our statistics training to think that rare events are even more rare than they really are.
+> **[3:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/taleb-on-induction?u=76281980&t=183)** Well, Taleb's argument is that we get fooled by our [[Statistics]] training to think that rare events are even more rare than they really are.
 >
 > **[3:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/taleb-on-induction?u=76281980&t=191)** The culprit here is the normal curve as we discussed earlier when we encountered Taleb.
 >
@@ -1866,7 +1839,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Big Data]] (1), database (1), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Big Data]] (1), [[Statistics]] (1)
 > **Definitions:** is a  (3), in other words (1)
 > **Analogies:** similar to (1), for instance (1)
 > **CLI Commands:** make (1)
@@ -1874,8 +1847,7 @@ created: 2026-05-02
 > **Warnings:** watch out (1)
 > **Speakers:** - for (1)
 
-#### Counterfactuals: Pearl on induction and causality
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/counterfactuals-pearl-on-induction-and-causality?u=76281980)
+#### [Counterfactuals: Pearl on induction and causality](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/counterfactuals-pearl-on-induction-and-causality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1923,7 +1895,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), data (1)
 > **Analogies:** imagine (2)
 > **Tools:** notion (1)
 > **Definitions:** is a  (1)
@@ -1934,12 +1905,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data mining vs. data dredging
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980)
+#### [Data mining vs. data dredging](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980&t=0)** - [Instructor] Data mining is a term that was very popular in the 90's, and is still used sometimes for traditional Machine Learning.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980&t=0)** - [Instructor] [[Data Mining]] is a term that was very popular in the 90's, and is still used sometimes for traditional Machine Learning.
 >
 > **[0:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980&t=10)** In the early days of data mining, some very traditional statisticians were horrified and said that it was nothing more than data fishing.
 >
@@ -1947,11 +1917,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980&t=28)** What did they mean by that and why were they so concerned?
 >
-> **[0:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980&t=33)** To be clear, they weren't talking about phishing with a PH, like we talk about these days for the purposes of identity theft.
+> **[0:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980&t=33)** To be clear, they weren't talking about [[Phishing]] with a PH, like we talk about these days for the purposes of identity theft.
 >
 > **[0:43](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980&t=43)** What they were referring to by saying data fishing or data dredging, was trying so many variables in the model that you were bound to find something.
 >
-> **[0:54](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980&t=54)** They had a very specific violation of statistics protocol in mind.
+> **[0:54](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980&t=54)** They had a very specific violation of [[Statistics]] protocol in mind.
 >
 > **[0:59](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980&t=59)** In statistics were taught to favor parsimony, simpler models are considered better.
 >
@@ -1977,7 +1947,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980&t=167)** What he's saying here, is that maybe you have six false positives not just three false positives, 'cause that could happen.
 >
-> **[2:56](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980&t=176)** I find Cohen very funny, but he's making a powerful point about overly complex statistical analysis.
+> **[2:56](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980&t=176)** I find Cohen very funny, but he's making a powerful point about overly complex [[Statistical Analysis]].
 >
 > **[3:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980&t=185)** But if you extend his logic to something like a decision tree, you're going to start to get nervous about your decision tree.
 >
@@ -1997,7 +1967,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980&t=246)** If you do the math here, you'll find that you have a 99.4% chance of a false positive and a hundred variables in a decision tree is not unusual.
 >
-> **[4:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980&t=258)** So you can see what Cohen and others were worried about, even though he was talking more about statistical research and wasn't really talking about decision trees.
+> **[4:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980&t=258)** So you can see what Cohen and others were worried about, even though he was talking more about statistical research and wasn't really talking about [[Decision Trees]].
 >
 > **[4:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980&t=268)** But nonetheless, the problem is there.
 >
@@ -2005,7 +1975,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980&t=276)** And by that, I mean that most Machine Learning techniques don't use p-values for variable selection.
 >
-> **[4:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980&t=285)** So if you are using a statistical method, like linear regression or binary logistic regression let's say, or even a decision tree that uses p-value, some do, you want to be careful it's a risky maneuver.
+> **[4:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980&t=285)** So if you are using a statistical method, like [[Linear Regression]] or binary [[Logistic Regression]] let's say, or even a decision tree that uses p-value, some do, you want to be careful it's a risky maneuver.
 >
 > **[5:04](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/data-mining-vs-data-dredging?u=76281980&t=304)** And if your background in statistics is more extensive than your background in Machine Learning what you might be tempted to do, is to say, wow, I prefer that tree with the six variables over the tree with a hundred variables because I don't want to commit type one.
 >
@@ -2019,7 +1989,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Statistics]] (5), next (2), [[Phishing]] (1), [[Statistical Analysis]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (5), [[Data Mining]] (3), [[Phishing]] (1), [[Statistical Analysis]] (1), [[Decision Trees]] (1)
 > **CLI Commands:** find (4)
 > **Versions:** 26.5 (1), 99.4 (1)
 > **Definitions:** is a  (1)
@@ -2028,12 +1998,11 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Train/Test: What can go wrong?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/train-test-what-can-go-wrong?u=76281980)
+#### [Train/Test: What can go wrong?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/train-test-what-can-go-wrong?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/train-test-what-can-go-wrong?u=76281980&t=0)** - When folks are trained in statistics first and then transition into machine learning, they often ask where are all the p-values?
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/train-test-what-can-go-wrong?u=76281980&t=0)** - When folks are trained in [[Statistics]] first and then transition into machine learning, they often ask where are all the p-values?
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/train-test-what-can-go-wrong?u=76281980&t=11)** P-values don't really work when it comes to machine learning.
 >
@@ -2089,7 +2058,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/train-test-what-can-go-wrong?u=76281980&t=225)** What happened was that the most serious cases were too ill to go down to the x-ray room, so they were administered the x-ray with a portable x-ray machine.
 >
-> **[3:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/train-test-what-can-go-wrong?u=76281980&t=238)** Well, and this is both fascinating and a bit disturbing, the word portable appeared on the x-ray image and the neural network picked up on the presence of that word.
+> **[3:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/train-test-what-can-go-wrong?u=76281980&t=238)** Well, and this is both fascinating and a bit disturbing, the [[Microsoft Word|word]] portable appeared on the x-ray image and the neural network picked up on the presence of that word.
 >
 > **[4:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/train-test-what-can-go-wrong?u=76281980&t=252)** That affected both the training data and the test data.
 >
@@ -2105,7 +2074,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Statistics]] (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Microsoft Word|Word]] (2)
 > **Definitions:** is a  (2), is called (1)
 > **Warnings:** be careful (1), watch out (1)
 > **CLI Commands:** make (1)
@@ -2113,14 +2082,13 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - when (1)
 
-#### A/B testing during the evaluation phase
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/a-b-testing-during-the-evaluation-phase?u=76281980)
+#### [A/B testing during the evaluation phase](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/a-b-testing-during-the-evaluation-phase?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/a-b-testing-during-the-evaluation-phase?u=76281980&t=0)** - [Instructor] Okay. So we've seen again and again, that statistics and machine learning are quite different and this is true but they can work together.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/a-b-testing-during-the-evaluation-phase?u=76281980&t=0)** - [Instructor] Okay. So we've seen again and again, that [[Statistics]] and machine learning are quite different and this is true but they can work together.
 >
-> **[0:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/a-b-testing-during-the-evaluation-phase?u=76281980&t=11)** If you look at CRISP-DM, you'll see that the phase after modeling is evaluation.
+> **[0:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/a-b-testing-during-the-evaluation-phase?u=76281980&t=11)** If you look at [[CRISP-DM]], you'll see that the phase after modeling is evaluation.
 >
 > **[0:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/a-b-testing-during-the-evaluation-phase?u=76281980&t=18)** I have to admit to a bit of a pet peeve.
 >
@@ -2138,13 +2106,13 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/a-b-testing-during-the-evaluation-phase?u=76281980&t=44)** It's about this terribly important reminder that when you get to business evaluation, you're doing something very different than R squared or area under the curve.
 >
-> **[0:53](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/a-b-testing-during-the-evaluation-phase?u=76281980&t=53)** It's when you use business metrics to see if the model is performing well in a real world setting as a deployed model.
+> **[0:53](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/a-b-testing-during-the-evaluation-phase?u=76281980&t=53)** It's when you use [[Business Metrics]] to see if the model is performing well in a real world setting as a deployed model.
 >
 > **[1:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/a-b-testing-during-the-evaluation-phase?u=76281980&t=63)** This is a perfect opportunity to use statistics in support of your machine learning project.
 >
 > **[1:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/a-b-testing-during-the-evaluation-phase?u=76281980&t=70)** In my experience, you should always do a partial rollout of the model.
 >
-> **[1:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/a-b-testing-during-the-evaluation-phase?u=76281980&t=75)** In other words, use the model in just one city or one factory or just one sales office before you deploy it everywhere.
+> **[1:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/a-b-testing-during-the-evaluation-phase?u=76281980&t=75)** In other words, use the model in just one city or one factory or just one sales [[Microsoft Office|office]] before you deploy it everywhere.
 >
 > **[1:24](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/a-b-testing-during-the-evaluation-phase?u=76281980&t=84)** This will allow you to do an apples to apples comparison of the test city to the other cities, the test factory to the other factories or the test sales office to the other offices.
 >
@@ -2168,7 +2136,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Statistics]] (4), [[Microsoft Office|Office]] (2), [[CRISP-DM]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (4), [[Business Metrics]] (2), [[Microsoft Office|Office]] (2), [[CRISP-DM]] (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Env Vars:** crisp (1)
 > **Best Practices:** you should always (1)
@@ -2179,8 +2147,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Two Cultures
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/the-two-cultures?u=76281980)
+#### [The Two Cultures](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/the-two-cultures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2190,7 +2157,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/the-two-cultures?u=76281980&t=18)** In 2001, he wrote "The Two Cultures," which I have read and reread many times over the years.
 >
-> **[0:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/the-two-cultures?u=76281980&t=26)** The two cultures of the title are the statistics community and the machine learning community.
+> **[0:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/the-two-cultures?u=76281980&t=26)** The two cultures of the title are the [[Statistics]] community and the machine learning community.
 >
 > **[0:32](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/the-two-cultures?u=76281980&t=32)** He has a powerful, yet somewhat contentious written exchange with some very influential statisticians.
 >
@@ -2200,7 +2167,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/the-two-cultures?u=76281980&t=49)** Reading a 20 year old paper might seem like a bit of nostalgia or just historical context, but it's more than that.
 >
-> **[0:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/the-two-cultures?u=76281980&t=58)** Data science is a combination of two quite disparate fields, which until recently, were separate.
+> **[0:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/the-two-cultures?u=76281980&t=58)** [[Data Science]] is a combination of two quite disparate fields, which until recently, were separate.
 >
 > **[1:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/the-two-cultures?u=76281980&t=65)** And historically, they haven't appreciated or understood each other very well.
 >
@@ -2228,7 +2195,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/the-two-cultures?u=76281980&t=138)** Of course, nothing he said is unusual.
 >
-> **[2:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/the-two-cultures?u=76281980&t=141)** He's describing data mining very similar to how we would see it described in something like CRISP-DM, the Cross-Industry Standard Process for Data Mining.
+> **[2:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/the-two-cultures?u=76281980&t=141)** He's describing [[Data Mining]] very similar to how we would see it described in something like [[CRISP-DM]], the Cross-Industry Standard Process for Data Mining.
 >
 > **[2:31](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/the-two-cultures?u=76281980&t=151)** Now let's take a quick look at the rejoinders and replies, as they will underscore just how differently the 2% and the 98% approached problems.
 >
@@ -2282,7 +2249,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Statistics]] (3), career (1), [[Search]] (1), [[CRISP-DM]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Data Mining]] (2), [[Data Science]] (1), [[CRISP-DM]] (1)
 > **Env Vars:** cart (2), crisp (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -2290,8 +2257,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explain vs. predict
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/explain-vs-predict?u=76281980)
+#### [Explain vs. predict](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/explain-vs-predict?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2311,13 +2277,13 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/explain-vs-predict?u=76281980&t=63)** They are applying statistical ideas, but in areas like the social sciences, business, and industry.
 >
-> **[1:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/explain-vs-predict?u=76281980&t=71)** So they're applying statistics.
+> **[1:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/explain-vs-predict?u=76281980&t=71)** So they're applying [[Statistics]].
 >
 > **[1:13](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/explain-vs-predict?u=76281980&t=73)** Another group is focused on predictive power, and assumes that if you have good prediction, then the model must also have good explanatory power.
 >
 > **[1:25](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/explain-vs-predict?u=76281980&t=85)** Both of these assumptions are dangerous by the way.
 >
-> **[1:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/explain-vs-predict?u=76281980&t=87)** The second group is, of course, more your data mining and machine learning crowd.
+> **[1:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/explain-vs-predict?u=76281980&t=87)** The second group is, of course, more your [[Data Mining]] and machine learning crowd.
 >
 > **[1:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/explain-vs-predict?u=76281980&t=93)** Statisticians end up being the third group.
 >
@@ -2399,19 +2365,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), power (3), next (2), [[Analytics]] (1), business (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Data Mining]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing CRISP-DM and the scientific method
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/comparing-crisp-dm-and-the-scientific-method?u=76281980)
+#### [Comparing CRISP-DM and the scientific method](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/comparing-crisp-dm-and-the-scientific-method?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/comparing-crisp-dm-and-the-scientific-method?u=76281980&t=0)** - [Instructor] I had a powerful experience a few years ago.
 >
-> **[0:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/comparing-crisp-dm-and-the-scientific-method?u=76281980&t=3)** I asked a university group I was teaching online to comment in the discussion forum about the similarities that they might see between CRISP-DM and the scientific method.
+> **[0:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/comparing-crisp-dm-and-the-scientific-method?u=76281980&t=3)** I asked a university group I was teaching online to comment in the discussion forum about the similarities that they might see between [[CRISP-DM]] and the scientific method.
 >
 > **[0:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/comparing-crisp-dm-and-the-scientific-method?u=76281980&t=15)** I was expecting that everyone would see that they're really quite different, but the vast majority of the a group was certain that the two, CRISP-DM and the scientific method, were the same.
 >
@@ -2429,7 +2394,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/comparing-crisp-dm-and-the-scientific-method?u=76281980&t=65)** Here's the first one he mentioned.
 >
-> **[1:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/comparing-crisp-dm-and-the-scientific-method?u=76281980&t=67)** "Data mining, like all analytics, is about looking for evidence on which to base decisions.
+> **[1:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/comparing-crisp-dm-and-the-scientific-method?u=76281980&t=67)** "[[Data Mining]], like all analytics, is about looking for evidence on which to base decisions.
 >
 > **[1:13](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/comparing-crisp-dm-and-the-scientific-method?u=76281980&t=73)** Science is also about looking for evidence."
 >
@@ -2447,7 +2412,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/comparing-crisp-dm-and-the-scientific-method?u=76281980&t=108)** Could business understanding be analogous to posing a hypothesis?"
 >
-> **[1:52](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/comparing-crisp-dm-and-the-scientific-method?u=76281980&t=112)** It would seem to be contrary to many of the things we've discussed so far, like the difference between induction and deduction and how they align with data mining and statistics.
+> **[1:52](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/comparing-crisp-dm-and-the-scientific-method?u=76281980&t=112)** It would seem to be contrary to many of the things we've discussed so far, like the difference between induction and deduction and how they align with data mining and [[Statistics]].
 >
 > **[2:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/comparing-crisp-dm-and-the-scientific-method?u=76281980&t=123)** Here was Collins's response.
 >
@@ -2495,14 +2460,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), business (7), [[CRISP-DM]] (5), [[Statistics]] (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[CRISP-DM]] (5), [[Data Mining]] (4), [[Statistics]] (2)
 > **Env Vars:** crisp (5)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Applying the two methods at work
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/applying-the-two-methods-at-work?u=76281980)
+#### [Applying the two methods at work](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/applying-the-two-methods-at-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2524,7 +2488,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/applying-the-two-methods-at-work?u=76281980&t=41)** All powerful tools, but none of them fit all situations.
 >
-> **[0:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/applying-the-two-methods-at-work?u=76281980&t=47)** The second mistake to avoid is to dabble in dozens of techniques or algorithms, yet treat them as if they're all basically the same.
+> **[0:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/applying-the-two-methods-at-work?u=76281980&t=47)** The second mistake to avoid is to dabble in dozens of techniques or [[Algorithms]], yet treat them as if they're all basically the same.
 >
 > **[0:55](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/applying-the-two-methods-at-work?u=76281980&t=55)** This might seem objective and neutral, but fundamentally it's to say that there's no real difference between any of these approaches, so I'll just try all of them and whatever has the highest predictive accuracy will win.
 >
@@ -2534,9 +2498,9 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/applying-the-two-methods-at-work?u=76281980&t=76)** And in that context, this kind of process makes sense.
 >
-> **[1:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/applying-the-two-methods-at-work?u=76281980&t=79)** So when I'm wearing my data mining hat, I perform this kind of tournament of algorithms all the time.
+> **[1:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/applying-the-two-methods-at-work?u=76281980&t=79)** So when I'm wearing my [[Data Mining]] hat, I perform this kind of tournament of algorithms all the time.
 >
-> **[1:25](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/applying-the-two-methods-at-work?u=76281980&t=85)** But what I'm referring to here is if we mix and match elements of machine learning with elements of statistics.
+> **[1:25](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/applying-the-two-methods-at-work?u=76281980&t=85)** But what I'm referring to here is if we mix and match elements of machine learning with elements of [[Statistics]].
 >
 > **[1:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/applying-the-two-methods-at-work?u=76281980&t=93)** And we've also seen that these approaches apply to different phases of the life cycle.
 >
@@ -2578,7 +2542,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Statistics]] (4), [[Algorithms]] (2), management (1)
+> **Frameworks & Libraries:** [[Data Mining]] (5), [[Statistics]] (4), [[Algorithms]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Warnings:** note that (2), keep in mind (1)
 > **Env Vars:** cart (1)
@@ -2591,8 +2555,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Review
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/review?u=76281980)
+#### [Review](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/review?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2600,21 +2563,21 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/review?u=76281980&t=5)** What would be a good next step?
 >
-> **[0:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/review?u=76281980&t=8)** If you want to explore the topics further and you could use a statistics review, Eddie Davila has several statistics courses in the library, some starting with the very basics.
+> **[0:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/review?u=76281980&t=8)** If you want to explore the topics further and you could use a [[Statistics]] review, Eddie Davila has several statistics courses in the library, some starting with the very basics.
 >
-> **[0:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/review?u=76281980&t=21)** Also, I have a full treatment of multiple linear regression right here in the library.
+> **[0:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/review?u=76281980&t=21)** Also, I have a full treatment of multiple [[Linear Regression]] right here in the library.
 >
-> **[0:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/review?u=76281980&t=28)** If you know your stats, but are new to machine learning, my course Predictive Analytics Essential Training Data Mining might be just what you're looking for.
+> **[0:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/review?u=76281980&t=28)** If you know your stats, but are new to machine learning, my course [[Predictive Analytics]] Essential Training [[Data Mining]] might be just what you're looking for.
 >
 > **[0:38](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/review?u=76281980&t=38)** When you're ready for more advanced material, read Pearl's "The Book of Y" and explore advanced techniques like structural equation modeling and Bayesian networks, which he discusses in the book.
 >
 > **[0:52](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/review?u=76281980&t=52)** Whichever path you choose, you'll have lots of adventures ahead.
 >
-> **[0:57](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/review?u=76281980&t=57)** Please follow me on LinkedIn, utilize the Q and A feature of the course, and share your discoveries.
+> **[0:57](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-prediction-causation-and-statistical-inference/review?u=76281980&t=57)** Please follow me on [[LinkedIn]], utilize the Q and A feature of the course, and share your discoveries.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (2), next (1), [[Linear Regression]] (1), [[Predictive Analytics]] (1), data (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Linear Regression]] (1), [[Predictive Analytics]] (1), [[Data Mining]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [keith] (1)
 
 

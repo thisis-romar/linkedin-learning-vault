@@ -97,16 +97,14 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of selectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/the-power-of-selectors-23420115?u=76281980)
+#### [The power of selectors](https://www.linkedin.com/learning/css-selectors-2/the-power-of-selectors-23420115?u=76281980)
 
 
 ### 1. Review of Basic CSS
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### CSS terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/css-terminology?u=76281980)
+#### [CSS terminology](https://www.linkedin.com/learning/css-selectors-2/css-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -120,7 +118,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/css-selectors-2/css-terminology?u=76281980&t=26)** Here, this is an element.
 >
-> **[0:28](https://www.linkedin.com/learning/css-selectors-2/css-terminology?u=76281980&t=28)** It's an HTML tag that's being called in your CSS.
+> **[0:28](https://www.linkedin.com/learning/css-selectors-2/css-terminology?u=76281980&t=28)** It's an [[HTML]] tag that's being called in your CSS.
 >
 > **[0:32](https://www.linkedin.com/learning/css-selectors-2/css-terminology?u=76281980&t=32)** And in this case, it's the article tag.
 >
@@ -182,15 +180,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (8), [[Programming]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (8), html (1)
 > **Definitions:** is a  (5), is an  (1)
 > **Analogies:** for example (2)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Type selectors, classes, and IDs
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/type-selectors-classes-and-ids?u=76281980)
+#### [Type selectors, classes, and IDs](https://www.linkedin.com/learning/css-selectors-2/type-selectors-classes-and-ids?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -200,7 +197,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/css-selectors-2/type-selectors-classes-and-ids?u=76281980&t=8)** Let's quickly review each type of selector and its use.
 >
-> **[0:13](https://www.linkedin.com/learning/css-selectors-2/type-selectors-classes-and-ids?u=76281980&t=13)** The element selector means that our selector is some type of HTML element.
+> **[0:13](https://www.linkedin.com/learning/css-selectors-2/type-selectors-classes-and-ids?u=76281980&t=13)** The element selector means that our selector is some type of [[HTML]] element.
 >
 > **[0:17](https://www.linkedin.com/learning/css-selectors-2/type-selectors-classes-and-ids?u=76281980&t=17)** Paragraphs, articles, sections, footers, headers, headings, lists, links, and so much more.
 >
@@ -236,13 +233,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), generic (2), css (1)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **Env Vars:** html (4), css (1)
 > **Definitions:** is a  (2), means that (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Selector lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/selector-lists?u=76281980)
+#### [Selector lists](https://www.linkedin.com/learning/css-selectors-2/selector-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -254,7 +250,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/css-selectors-2/selector-lists?u=76281980&t=18)** This is read as for all H1s, H2s, or H3s style in the following way.
 >
-> **[0:26](https://www.linkedin.com/learning/css-selectors-2/selector-lists?u=76281980&t=26)** Any one of these HTML elements will be styled in the same way.
+> **[0:26](https://www.linkedin.com/learning/css-selectors-2/selector-lists?u=76281980&t=26)** Any one of these [[HTML]] elements will be styled in the same way.
 >
 > **[0:30](https://www.linkedin.com/learning/css-selectors-2/selector-lists?u=76281980&t=30)** You can think of this as an or statement in programming.
 >
@@ -284,15 +280,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Warnings:** warning (7), common mistake (1)
 > **Env Vars:** html (2)
 > **Definitions:** means that (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Compound selectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/compound-selectors?u=76281980)
+#### [Compound selectors](https://www.linkedin.com/learning/css-selectors-2/compound-selectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -300,7 +295,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/css-selectors-2/compound-selectors?u=76281980&t=5)** We'll cover many of these ways in the course, but the first way I'd like to discuss is what's called a compound selector.
 >
-> **[0:11](https://www.linkedin.com/learning/css-selectors-2/compound-selectors?u=76281980&t=11)** So if you take a look here at this code pen, you'll notice over here in our HTML we have both a paragraph and a unordered list that have a class of myclass.
+> **[0:11](https://www.linkedin.com/learning/css-selectors-2/compound-selectors?u=76281980&t=11)** So if you take a look here at this code pen, you'll notice over here in our [[HTML]] we have both a paragraph and a unordered list that have a class of myclass.
 >
 > **[0:23](https://www.linkedin.com/learning/css-selectors-2/compound-selectors?u=76281980&t=23)** They both have red text inside of them in the display down here on the bottom.
 >
@@ -340,7 +335,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), css (3)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **Env Vars:** css (3), html (2)
 > **Cross-References:** earlier in (2)
 > **Analogies:** for example (2)
@@ -352,12 +347,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The HTML family tree: Parents, children, ancestor, descendant, and siblings
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/the-html-family-tree-parents-children-ancestor-descendant-and-siblings?u=76281980)
+#### [The HTML family tree: Parents, children, ancestor, descendant, and siblings](https://www.linkedin.com/learning/css-selectors-2/the-html-family-tree-parents-children-ancestor-descendant-and-siblings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-selectors-2/the-html-family-tree-parents-children-ancestor-descendant-and-siblings?u=76281980&t=0)** - [Instructor] Just as with real world families, HTML has a family tree, there are ancestors and descendants, parents and children, and even a few siblings along the way.
+> **[0:00](https://www.linkedin.com/learning/css-selectors-2/the-html-family-tree-parents-children-ancestor-descendant-and-siblings?u=76281980&t=0)** - [Instructor] Just as with real world families, [[HTML]] has a family tree, there are ancestors and descendants, parents and children, and even a few siblings along the way.
 >
 > **[0:10](https://www.linkedin.com/learning/css-selectors-2/the-html-family-tree-parents-children-ancestor-descendant-and-siblings?u=76281980&t=10)** You may not have thought about family relationships in HTML before, so let's look at this a little bit more closely before moving on to selectors that take advantage of family relationships.
 >
@@ -397,7 +391,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/css-selectors-2/the-html-family-tree-parents-children-ancestor-descendant-and-siblings?u=76281980&t=120)** The ul has two more children, the two li tags and the one li has another child, a strong tag.
 >
-> **[2:08](https://www.linkedin.com/learning/css-selectors-2/the-html-family-tree-parents-children-ancestor-descendant-and-siblings?u=76281980&t=128)** Now I've added the aside family tree to the rest of our family tree here.
+> **[2:08](https://www.linkedin.com/learning/css-selectors-2/the-html-family-tree-parents-children-ancestor-descendant-and-siblings?u=76281980&t=128)** Now I've added the aside family tree to the [[Representational State Transfer (REST)|rest]] of our family tree here.
 >
 > **[2:13](https://www.linkedin.com/learning/css-selectors-2/the-html-family-tree-parents-children-ancestor-descendant-and-siblings?u=76281980&t=133)** Once the HTML is drawn this way, we can easily start to describe the relationships between the tags.
 >
@@ -425,19 +419,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (6), next (1), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (6), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** html (6), css (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Descendant selectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/descendant-selectors?u=76281980)
+#### [Descendant selectors](https://www.linkedin.com/learning/css-selectors-2/descendant-selectors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-selectors-2/descendant-selectors?u=76281980&t=0)** - [Instructor] Consider this piece of HTML.
+> **[0:00](https://www.linkedin.com/learning/css-selectors-2/descendant-selectors?u=76281980&t=0)** - [Instructor] Consider this piece of [[HTML]].
 >
 > **[0:02](https://www.linkedin.com/learning/css-selectors-2/descendant-selectors?u=76281980&t=2)** It's very, very similar to what you just saw in the HTML family tree discussion.
 >
@@ -447,7 +440,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/css-selectors-2/descendant-selectors?u=76281980&t=25)** Also, on occasion, you don't have access to the HTML to change it.
 >
-> **[0:29](https://www.linkedin.com/learning/css-selectors-2/descendant-selectors?u=76281980&t=29)** That can be true with parts of content management systems like WordPress or Drupal.
+> **[0:29](https://www.linkedin.com/learning/css-selectors-2/descendant-selectors?u=76281980&t=29)** That can be true with parts of [[Content Management Systems (CMS)|content management systems]] like [[WordPress]] or [[Drupal]].
 >
 > **[0:34](https://www.linkedin.com/learning/css-selectors-2/descendant-selectors?u=76281980&t=34)** If that's the case, how can I style the link in the paragraph without affecting the link in the list?
 >
@@ -483,7 +476,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/css-selectors-2/descendant-selectors?u=76281980&t=130)** What is the best choice?
 >
-> **[2:12](https://www.linkedin.com/learning/css-selectors-2/descendant-selectors?u=76281980&t=132)** Well, that can sort of depend on the rest of your document, and what else you need to style in here.
+> **[2:12](https://www.linkedin.com/learning/css-selectors-2/descendant-selectors?u=76281980&t=132)** Well, that can sort of depend on the [[Representational State Transfer (REST)|rest]] of your document, and what else you need to style in here.
 >
 > **[2:18](https://www.linkedin.com/learning/css-selectors-2/descendant-selectors?u=76281980&t=138)** In this particular example, it's really immaterial, as to which one of those tags I pick, but it could make a difference in a longer and more complex document.
 >
@@ -518,8 +511,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Parent-child selectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/parent-child-selectors?u=76281980)
+#### [Parent-child selectors](https://www.linkedin.com/learning/css-selectors-2/parent-child-selectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -527,7 +519,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/css-selectors-2/parent-child-selectors?u=76281980&t=6)** The Descendant Selector selects all of the descendants that match a given selector, but the Parent-Child Selector selects only this specific variety.
 >
-> **[0:16](https://www.linkedin.com/learning/css-selectors-2/parent-child-selectors?u=76281980&t=16)** So in this example, I've given you some HTML here where we have an article, inside of the article we do have an aside as well as some paragraphs and some headings and so forth.
+> **[0:16](https://www.linkedin.com/learning/css-selectors-2/parent-child-selectors?u=76281980&t=16)** So in this example, I've given you some [[HTML]] here where we have an article, inside of the article we do have an aside as well as some paragraphs and some headings and so forth.
 >
 > **[0:28](https://www.linkedin.com/learning/css-selectors-2/parent-child-selectors?u=76281980&t=28)** And what I would like to do is select only the paragraphs in the article, not the paragraphs in the aside.
 >
@@ -571,8 +563,7 @@ created: 2026-05-02
 > **Env Vars:** html (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adjacent and general sibling selectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/adjacent-and-general-sibling-selectors?u=76281980)
+#### [Adjacent and general sibling selectors](https://www.linkedin.com/learning/css-selectors-2/adjacent-and-general-sibling-selectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -580,7 +571,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/css-selectors-2/adjacent-and-general-sibling-selectors?u=76281980&t=2)** Those annoying creatures you had to share parents with.
 >
-> **[0:05](https://www.linkedin.com/learning/css-selectors-2/adjacent-and-general-sibling-selectors?u=76281980&t=5)** Well, they are all over the place in HTML and fortunately, we have two ways of talking about siblings.
+> **[0:05](https://www.linkedin.com/learning/css-selectors-2/adjacent-and-general-sibling-selectors?u=76281980&t=5)** Well, they are all over the place in [[HTML]] and fortunately, we have two ways of talking about siblings.
 >
 > **[0:12](https://www.linkedin.com/learning/css-selectors-2/adjacent-and-general-sibling-selectors?u=76281980&t=12)** First of all we have adjacent siblings, these are siblings that are directly next to each other, not separated by anything at all.
 >
@@ -630,15 +621,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), next (2), css (2)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Env Vars:** html (2), css (2)
 > **Cross-References:** later in (4)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [female (1)
 
-#### Reading and writing selectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/reading-and-writing-selectors?u=76281980)
+#### [Reading and writing selectors](https://www.linkedin.com/learning/css-selectors-2/reading-and-writing-selectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -666,7 +656,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/css-selectors-2/reading-and-writing-selectors?u=76281980&t=79)** So it's any element whose target has not been visited, descended from the a element.
 >
-> **[1:25](https://www.linkedin.com/learning/css-selectors-2/reading-and-writing-selectors?u=76281980&t=85)** For example, that might be a span tag inside of an a tag would be an example of some HTML that might match that.
+> **[1:25](https://www.linkedin.com/learning/css-selectors-2/reading-and-writing-selectors?u=76281980&t=85)** For example, that might be a span tag inside of an a tag would be an example of some [[HTML]] that might match that.
 >
 > **[1:32](https://www.linkedin.com/learning/css-selectors-2/reading-and-writing-selectors?u=76281980&t=92)** Sometimes describing a selector in this way will help you understand its meaning and whether that selector is relevant to your current problem.
 >
@@ -687,12 +677,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Simple attribute selectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/simple-attribute-selectors?u=76281980)
+#### [Simple attribute selectors](https://www.linkedin.com/learning/css-selectors-2/simple-attribute-selectors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-selectors-2/simple-attribute-selectors?u=76281980&t=0)** - [Instructor] You're very aware, that you can create selections in your CSS with classes, IDs, and HTML elements.
+> **[0:00](https://www.linkedin.com/learning/css-selectors-2/simple-attribute-selectors?u=76281980&t=0)** - [Instructor] You're very aware, that you can create selections in your CSS with classes, IDs, and [[HTML]] elements.
 >
 > **[0:07](https://www.linkedin.com/learning/css-selectors-2/simple-attribute-selectors?u=76281980&t=7)** You can specify family relationships between these as well.
 >
@@ -748,15 +737,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), css (1)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **Env Vars:** html (3), css (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exact and partial attribute value selectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/exact-and-partial-attribute-value-selectors?u=76281980)
+#### [Exact and partial attribute value selectors](https://www.linkedin.com/learning/css-selectors-2/exact-and-partial-attribute-value-selectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -768,7 +756,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/css-selectors-2/exact-and-partial-attribute-value-selectors?u=76281980&t=17)** So here we have an unordered list where you're working with the title attribute, and we have a whole bunch of random words in the title attribute, and we would like to make some selections from that.
 >
-> **[0:29](https://www.linkedin.com/learning/css-selectors-2/exact-and-partial-attribute-value-selectors?u=76281980&t=29)** So let's just start by trying to select the items that contain the word first.
+> **[0:29](https://www.linkedin.com/learning/css-selectors-2/exact-and-partial-attribute-value-selectors?u=76281980&t=29)** So let's just start by trying to select the items that contain the [[Microsoft Word|word]] first.
 >
 > **[0:35](https://www.linkedin.com/learning/css-selectors-2/exact-and-partial-attribute-value-selectors?u=76281980&t=35)** So the first kind of attribute selector I'd like to talk about is the exact attribute selector.
 >
@@ -821,8 +809,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Beginning, ending, and arbitrary substring attribute value selectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/beginning-ending-and-arbitrary-substring-attribute-value-selectors?u=76281980)
+#### [Beginning, ending, and arbitrary substring attribute value selectors](https://www.linkedin.com/learning/css-selectors-2/beginning-ending-and-arbitrary-substring-attribute-value-selectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -876,17 +863,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), application (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cool attribute selector tricks
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/cool-attribute-selector-tricks?u=76281980)
+#### [Cool attribute selector tricks](https://www.linkedin.com/learning/css-selectors-2/cool-attribute-selector-tricks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/css-selectors-2/cool-attribute-selector-tricks?u=76281980&t=1)** - [Instructor] If you've been in web design and development for any period of time, you've wound up working in a system like WordPress, Drupal, Squarespace, or something similar, your client is responsible for putting in links to PDFs or links that go off-site.
+> **[0:01](https://www.linkedin.com/learning/css-selectors-2/cool-attribute-selector-tricks?u=76281980&t=1)** - [Instructor] If you've been in [[Web Design]] and development for any period of time, you've wound up working in a system like [[WordPress]], [[Drupal]], Squarespace, or something similar, your client is responsible for putting in links to PDFs or links that go off-site.
 >
 > **[0:15](https://www.linkedin.com/learning/css-selectors-2/cool-attribute-selector-tricks?u=76281980&t=15)** Maybe you have asked them to designate those links that go to a PDF via an icon or off-site via some type of text after the link.
 >
@@ -900,7 +885,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/css-selectors-2/cool-attribute-selector-tricks?u=76281980&t=56)** I am going to select all of my a tags and those are going to have an href where somewhere in that string, will be something like http, that will be an indicator that these are the links that go off-site, because those links always start with http, or https, both of which would be selected by the selector.
 >
-> **[1:21](https://www.linkedin.com/learning/css-selectors-2/cool-attribute-selector-tricks?u=76281980&t=81)** Then what I'm going to do is I am going to set a background and what I'm going to do is, over here in this comment in the HTML, I have a URL you can use here for an icon that'll indicate that these links go off-site.
+> **[1:21](https://www.linkedin.com/learning/css-selectors-2/cool-attribute-selector-tricks?u=76281980&t=81)** Then what I'm going to do is I am going to set a background and what I'm going to do is, over here in this comment in the [[HTML]], I have a URL you can use here for an icon that'll indicate that these links go off-site.
 >
 > **[1:38](https://www.linkedin.com/learning/css-selectors-2/cool-attribute-selector-tricks?u=76281980&t=98)** This is from Wikipedia, and this is the icon that they used to indicate that links go off-site, rather than within their site.
 >
@@ -938,7 +923,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[WordPress]] (1), [[Drupal]] (1), [[Programming]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Web Design]] (1), [[WordPress]] (1), [[Drupal]] (1), [[HTML]] (1)
 > **Env Vars:** url (4), pdf (3), html (1), css (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** go to (1)
@@ -952,8 +937,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding only selectors, :only-child, :only-of-type
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/understanding-only-selectors-only-child-only-of-type?u=76281980)
+#### [Understanding only selectors, :only-child, :only-of-type](https://www.linkedin.com/learning/css-selectors-2/understanding-only-selectors-only-child-only-of-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1005,14 +989,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding first and last selectors, :first-child, :first-of-type, :last-child, :last-of-type
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/understanding-first-and-last-selectors-first-child-first-of-type-last-child-last-of-type?u=76281980)
+#### [Understanding first and last selectors, :first-child, :first-of-type, :last-child, :last-of-type](https://www.linkedin.com/learning/css-selectors-2/understanding-first-and-last-selectors-first-child-first-of-type-last-child-last-of-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1024,7 +1006,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/css-selectors-2/understanding-first-and-last-selectors-first-child-first-of-type-last-child-last-of-type?u=76281980&t=25)** Remember, in this case, we're looking for the same type of element.
 >
-> **[0:28](https://www.linkedin.com/learning/css-selectors-2/understanding-first-and-last-selectors-first-child-first-of-type-last-child-last-of-type?u=76281980&t=28)** So let's just look at the list portion of the HTML here, where we have a whole series of these list items and I can simply write some styles for that.
+> **[0:28](https://www.linkedin.com/learning/css-selectors-2/understanding-first-and-last-selectors-first-child-first-of-type-last-child-last-of-type?u=76281980&t=28)** So let's just look at the list portion of the [[HTML]] here, where we have a whole series of these list items and I can simply write some styles for that.
 >
 > **[0:38](https://www.linkedin.com/learning/css-selectors-2/understanding-first-and-last-selectors-first-child-first-of-type-last-child-last-of-type?u=76281980&t=38)** I can say li:first-child, color: red, and that will make the first one red.
 >
@@ -1069,8 +1051,7 @@ created: 2026-05-02
 > **Cross-References:** coming up (1)
 > **Analogies:** just like (1)
 
-#### Understanding nth selectors – :nth-child, :nth-of-type, :nth-last-child, :nth-last-of-type
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/understanding-nth-selectors-nth-child-nth-of-type-nth-last-child-nth-last-of-type?u=76281980)
+#### [Understanding nth selectors – :nth-child, :nth-of-type, :nth-last-child, :nth-last-of-type](https://www.linkedin.com/learning/css-selectors-2/understanding-nth-selectors-nth-child-nth-of-type-nth-last-child-nth-last-of-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1098,7 +1079,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/css-selectors-2/understanding-nth-selectors-nth-child-nth-of-type-nth-last-child-nth-last-of-type?u=76281980&t=71)** And fortunately, even is defined in human terms, so it is in fact numbers two, four and six, not in engineering terms, where it would actually, the counting would start with zero.
 >
-> **[1:22](https://www.linkedin.com/learning/css-selectors-2/understanding-nth-selectors-nth-child-nth-of-type-nth-last-child-nth-last-of-type?u=76281980&t=82)** You can also change that key word to odd, and that would, of course, shift to the first item, and every other one from there.
+> **[1:22](https://www.linkedin.com/learning/css-selectors-2/understanding-nth-selectors-nth-child-nth-of-type-nth-last-child-nth-last-of-type?u=76281980&t=82)** You can also change that key [[Microsoft Word|word]] to odd, and that would, of course, shift to the first item, and every other one from there.
 >
 > **[1:31](https://www.linkedin.com/learning/css-selectors-2/understanding-nth-selectors-nth-child-nth-of-type-nth-last-child-nth-last-of-type?u=76281980&t=91)** So, that's super easy, super useful, especially if you combined that, say, with a background-color, you can imagine, perhaps, a table being striped.
 >
@@ -1142,14 +1123,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (1), just like (1), imagine (1)
 > **UI Navigation:** select the (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### :root and :empty
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/root-and-empty?u=76281980)
+#### [:root and :empty](https://www.linkedin.com/learning/css-selectors-2/root-and-empty?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1159,11 +1139,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/css-selectors-2/root-and-empty?u=76281980&t=11)** So root is used for setting up the root of the document, and that's pretty much it.
 >
-> **[0:17](https://www.linkedin.com/learning/css-selectors-2/root-and-empty?u=76281980&t=17)** In the HTML and CSS world, the document root is the HTML tag itself, and quite frankly we usually just use the body tag.
+> **[0:17](https://www.linkedin.com/learning/css-selectors-2/root-and-empty?u=76281980&t=17)** In the [[HTML]] and CSS world, the document root is the HTML tag itself, and quite frankly we usually just use the body tag.
 >
 > **[0:26](https://www.linkedin.com/learning/css-selectors-2/root-and-empty?u=76281980&t=26)** However, pseudo-classes do have a higher level of specificity than the HTML element does in your CSS, and so anything put in root would win over anything put in the body tag or the HTML tag.
 >
-> **[0:39](https://www.linkedin.com/learning/css-selectors-2/root-and-empty?u=76281980&t=39)** And second of all, the root pseudo-class is going to allow you to access the shadow DOM, if that winds up being something you want to do with Javascript.
+> **[0:39](https://www.linkedin.com/learning/css-selectors-2/root-and-empty?u=76281980&t=39)** And second of all, the root pseudo-class is going to allow you to access the shadow DOM, if that winds up being something you want to do with [[JavaScript]].
 >
 > **[0:48](https://www.linkedin.com/learning/css-selectors-2/root-and-empty?u=76281980&t=48)** So, sometimes that can get you to a different place.
 >
@@ -1205,7 +1185,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/css-selectors-2/root-and-empty?u=76281980&t=166)** And this is useful for when you have a tag that exists, but it has no content and no whitespace in it.
 >
-> **[2:54](https://www.linkedin.com/learning/css-selectors-2/root-and-empty?u=76281980&t=174)** So you might run into the situation where you want to style an empty tag when working with Javascript, where you might be writing some kind of value in between the tags, or with some sort of back end programming language like PHP or Python where you're going to do the same kind of thing.
+> **[2:54](https://www.linkedin.com/learning/css-selectors-2/root-and-empty?u=76281980&t=174)** So you might run into the situation where you want to style an empty tag when working with Javascript, where you might be writing some kind of value in between the tags, or with some sort of back end programming language like [[PHP]] or [[Python (Programming Language)|Python]] where you're going to do the same kind of thing.
 >
 > **[3:09](https://www.linkedin.com/learning/css-selectors-2/root-and-empty?u=76281980&t=189)** If you're just working with HTML and CSS it's unlikely you'll work with the empty tag, but it's good to know it exists anyway.
 >
@@ -1223,7 +1203,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (10), [[HTML]] (6), [[JavaScript]] (3), next (1), dom (1)
+> **Frameworks & Libraries:** [[HTML]] (6), [[JavaScript]] (3), [[PHP]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** css (10), html (6), dom (1), php (1)
 > **CLI Commands:** make (1), php (1), python (1)
 > **Definitions:** known as (1)
@@ -1235,8 +1215,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basic link states: :link, :visited, :hover, :active
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/basic-link-states-link-visited-hover-active?u=76281980)
+#### [Basic link states: :link, :visited, :hover, :active](https://www.linkedin.com/learning/css-selectors-2/basic-link-states-link-visited-hover-active?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1280,7 +1259,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/css-selectors-2/basic-link-states-link-visited-hover-active?u=76281980&t=104)** You're not seeing it here in my window, because I am running this in guest mode, so it does not know my browser history and these link colors are not changing.
 >
-> **[1:57](https://www.linkedin.com/learning/css-selectors-2/basic-link-states-link-visited-hover-active?u=76281980&t=117)** But you, if you have visited LinkedIn, Microsoft, or Google lately, you may see one or several purple links that appear.
+> **[1:57](https://www.linkedin.com/learning/css-selectors-2/basic-link-states-link-visited-hover-active?u=76281980&t=117)** But you, if you have visited [[LinkedIn]], [[Microsoft]], or [[Google]] lately, you may see one or several purple links that appear.
 >
 > **[2:04](https://www.linkedin.com/learning/css-selectors-2/basic-link-states-link-visited-hover-active?u=76281980&t=124)** That's because you visited those pages before.
 >
@@ -1318,19 +1297,18 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/css-selectors-2/basic-link-states-link-visited-hover-active?u=76281980&t=237)** It would normally fit here between visited and hover.
 >
-> **[4:01](https://www.linkedin.com/learning/css-selectors-2/basic-link-states-link-visited-hover-active?u=76281980&t=241)** And we'd encourage you to try out your links in your own CodePen, outside of the guest environment.
+> **[4:01](https://www.linkedin.com/learning/css-selectors-2/basic-link-states-link-visited-hover-active?u=76281980&t=241)** And we'd encourage you to try out your links in your own [[CodePen]], outside of the guest environment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), css (2), web (1), [[LinkedIn]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Microsoft]] (1), [[Google]] (1), [[CodePen]] (1)
 > **Definitions:** in other words (2), is a  (1)
 > **Env Vars:** css (2)
 > **Cross-References:** next chapter (1)
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
 
-#### :any-link for combining link states
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/any-link-for-combining-link-states?u=76281980)
+#### [:any-link for combining link states](https://www.linkedin.com/learning/css-selectors-2/any-link-for-combining-link-states?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1367,8 +1345,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [educator] (1)
 
-#### Pseudo-classes for in-page navigation, :target
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/pseudo-classes-for-in-page-navigation-target?u=76281980)
+#### [Pseudo-classes for in-page navigation, :target](https://www.linkedin.com/learning/css-selectors-2/pseudo-classes-for-in-page-navigation-target?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1378,7 +1355,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/css-selectors-2/pseudo-classes-for-in-page-navigation-target?u=76281980&t=11)** But actually the target has to do with navigation bars that are going to navigate you within a given page.
 >
-> **[0:19](https://www.linkedin.com/learning/css-selectors-2/pseudo-classes-for-in-page-navigation-target?u=76281980&t=19)** So here what I have is a little bit of html where I have a table of contents and maybe I have a really long article of some kind and this is going to be able to skip me down to the various parts of the article.
+> **[0:19](https://www.linkedin.com/learning/css-selectors-2/pseudo-classes-for-in-page-navigation-target?u=76281980&t=19)** So here what I have is a little bit of [[HTML]] where I have a table of contents and maybe I have a really long article of some kind and this is going to be able to skip me down to the various parts of the article.
 >
 > **[0:32](https://www.linkedin.com/learning/css-selectors-2/pseudo-classes-for-in-page-navigation-target?u=76281980&t=32)** As we scroll down you'll see that I have some headings that are calling for part one and part two.
 >
@@ -1394,19 +1371,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accessibility pseudo-classes: :focus, :focus-within
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/accessibility-pseudo-classes-focus-focus-within?u=76281980)
+#### [Accessibility pseudo-classes: :focus, :focus-within](https://www.linkedin.com/learning/css-selectors-2/accessibility-pseudo-classes-focus-focus-within?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/css-selectors-2/accessibility-pseudo-classes-focus-focus-within?u=76281980&t=1)** - [Instructor] Next let's examine the pseudo classes that are all about accessibility on your webpages, including focus and focus-within, First let's focus on focus.
 >
-> **[0:13](https://www.linkedin.com/learning/css-selectors-2/accessibility-pseudo-classes-focus-focus-within?u=76281980&t=13)** Click anywhere within this CodePen display window to select it and then start tabbing using your tab key.
+> **[0:13](https://www.linkedin.com/learning/css-selectors-2/accessibility-pseudo-classes-focus-focus-within?u=76281980&t=13)** Click anywhere within this [[CodePen]] display window to select it and then start tabbing using your tab key.
 >
 > **[0:21](https://www.linkedin.com/learning/css-selectors-2/accessibility-pseudo-classes-focus-focus-within?u=76281980&t=21)** This blue outline that you see is the browser default styling, and it's super important for accessibility concerns.
 >
@@ -1492,11 +1468,11 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/css-selectors-2/accessibility-pseudo-classes-focus-focus-within?u=76281980&t=306)** But for now you know that they exist, that these are possible changes that you might make.
 >
-> **[5:11](https://www.linkedin.com/learning/css-selectors-2/accessibility-pseudo-classes-focus-focus-within?u=76281980&t=311)** If you are encountering accessibility concerns within forms and with links, this may be something to help out your keyboard users.
+> **[5:11](https://www.linkedin.com/learning/css-selectors-2/accessibility-pseudo-classes-focus-focus-within?u=76281980&t=311)** If you are encountering accessibility concerns within [[Forms]] and with links, this may be something to help out your keyboard users.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[CodePen]] (2), prompt (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[CodePen]] (2), [[Forms]] (1)
 > **CLI Commands:** make (9)
 > **Env Vars:** lvha (2), lvfha (1)
 > **Definitions:** in other words (1), is a  (1)
@@ -1507,14 +1483,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Form controls: :required and :optional; :enabled and :disabled
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/form-controls-required-and-optional-enabled-and-disabled?u=76281980)
+#### [Form controls: :required and :optional; :enabled and :disabled](https://www.linkedin.com/learning/css-selectors-2/form-controls-required-and-optional-enabled-and-disabled?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/css-selectors-2/form-controls-required-and-optional-enabled-and-disabled?u=76281980&t=1)** - When working with forms, there are some new pseudo-classes that may help you greatly in your work, including enabled and disabled, and required and optional.
+> **[0:01](https://www.linkedin.com/learning/css-selectors-2/form-controls-required-and-optional-enabled-and-disabled?u=76281980&t=1)** - When working with [[Forms]], there are some new pseudo-classes that may help you greatly in your work, including enabled and disabled, and required and optional.
 >
-> **[0:11](https://www.linkedin.com/learning/css-selectors-2/form-controls-required-and-optional-enabled-and-disabled?u=76281980&t=11)** But before we start this, let's look at our HTML, always a good place to start.
+> **[0:11](https://www.linkedin.com/learning/css-selectors-2/form-controls-required-and-optional-enabled-and-disabled?u=76281980&t=11)** But before we start this, let's look at our [[HTML]], always a good place to start.
 >
 > **[0:15](https://www.linkedin.com/learning/css-selectors-2/form-controls-required-and-optional-enabled-and-disabled?u=76281980&t=15)** This is a form, as you can see here on the page.
 >
@@ -1572,7 +1547,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/css-selectors-2/form-controls-required-and-optional-enabled-and-disabled?u=76281980&t=146)** Notice that the form itself doesn't do anything.
 >
-> **[2:29](https://www.linkedin.com/learning/css-selectors-2/form-controls-required-and-optional-enabled-and-disabled?u=76281980&t=149)** There's nothing here inside of the form tag, the form does not submit, there's no backend processing script on it, there's no JavaScript associated with this at all, there's nothing in the JavaScript box.
+> **[2:29](https://www.linkedin.com/learning/css-selectors-2/form-controls-required-and-optional-enabled-and-disabled?u=76281980&t=149)** There's nothing here inside of the form tag, the form does not submit, there's no backend processing script on it, there's no [[JavaScript]] associated with this at all, there's nothing in the JavaScript box.
 >
 > **[2:41](https://www.linkedin.com/learning/css-selectors-2/form-controls-required-and-optional-enabled-and-disabled?u=76281980&t=161)** So this is strictly an HTML and CSS example of a form for styling purposes.
 >
@@ -1628,7 +1603,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), [[JavaScript]] (3), [[Forms]] (2), css (2), [[Programming]] (2)
+> **Frameworks & Libraries:** [[HTML]] (5), [[JavaScript]] (3), [[Forms]] (2)
 > **Env Vars:** html (5), css (2)
 > **UI Navigation:** dropdown (2), checkbox (2)
 > **Definitions:** is a  (4)
@@ -1636,8 +1611,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - when (1)
 
-#### Form controls: :read-only and :read-write
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/form-controls-read-only-and-read-write?u=76281980)
+#### [Form controls: :read-only and :read-write](https://www.linkedin.com/learning/css-selectors-2/form-controls-read-only-and-read-write?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1649,7 +1623,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/css-selectors-2/form-controls-read-only-and-read-write?u=76281980&t=18)** Looking at this page, you may think you know what's read only and what's read write but let's dig into it a little more because it's a little more complex than you might think.
 >
-> **[0:29](https://www.linkedin.com/learning/css-selectors-2/form-controls-read-only-and-read-write?u=76281980&t=29)** First, let's look at our HTML.
+> **[0:29](https://www.linkedin.com/learning/css-selectors-2/form-controls-read-only-and-read-write?u=76281980&t=29)** First, let's look at our [[HTML]].
 >
 > **[0:32](https://www.linkedin.com/learning/css-selectors-2/form-controls-read-only-and-read-write?u=76281980&t=32)** Here on line four in the HTML, this paragraph has the content editable attribute set.
 >
@@ -1677,7 +1651,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/css-selectors-2/form-controls-read-only-and-read-write?u=76281980&t=108)** These content editable and read only attributes aren't terribly useful in an HTML, CSS only environment.
 >
-> **[1:55](https://www.linkedin.com/learning/css-selectors-2/form-controls-read-only-and-read-write?u=76281980&t=115)** You're definitely going to need JavaScript to make these interactive or make these into toggle states, but they are useful for styling purposes.
+> **[1:55](https://www.linkedin.com/learning/css-selectors-2/form-controls-read-only-and-read-write?u=76281980&t=115)** You're definitely going to need [[JavaScript]] to make these interactive or make these into toggle states, but they are useful for styling purposes.
 >
 > **[2:04](https://www.linkedin.com/learning/css-selectors-2/form-controls-read-only-and-read-write?u=76281980&t=124)** So let's see what happens when we work with those.
 >
@@ -1761,15 +1735,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (6), css (2), next (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (6), [[JavaScript]] (1)
 > **Env Vars:** html (6), css (2)
 > **CLI Commands:** make (4), sudo (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** toggle (1)
 > **Speakers:** - [instructor] (1)
 
-#### Form control states: :indeterminate, :default, :checked
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/form-control-states-indeterminate-default-checked?u=76281980)
+#### [Form control states: :indeterminate, :default, :checked](https://www.linkedin.com/learning/css-selectors-2/form-control-states-indeterminate-default-checked?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1781,7 +1754,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/css-selectors-2/form-control-states-indeterminate-default-checked?u=76281980&t=17)** The checked pseudo-class indicates that something is checked as in the chosen radio button or the check box.
 >
-> **[0:26](https://www.linkedin.com/learning/css-selectors-2/form-control-states-indeterminate-default-checked?u=76281980&t=26)** Remember that here in our HTML, we have used the checked attribute to check our radio button and I've added an extra check box down here on the form.
+> **[0:26](https://www.linkedin.com/learning/css-selectors-2/form-control-states-indeterminate-default-checked?u=76281980&t=26)** Remember that here in our [[HTML]], we have used the checked attribute to check our radio button and I've added an extra check box down here on the form.
 >
 > **[0:38](https://www.linkedin.com/learning/css-selectors-2/form-control-states-indeterminate-default-checked?u=76281980&t=38)** So we have one checkbox that is checked by default and a second check box that is not checked.
 >
@@ -1799,7 +1772,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/css-selectors-2/form-control-states-indeterminate-default-checked?u=76281980&t=83)** Well, that checked value, as far as the browser is concerned, is moving around on the page even though the HTML isn't changing.
 >
-> **[1:30](https://www.linkedin.com/learning/css-selectors-2/form-control-states-indeterminate-default-checked?u=76281980&t=90)** And that is something you can capture with something like JavaScript.
+> **[1:30](https://www.linkedin.com/learning/css-selectors-2/form-control-states-indeterminate-default-checked?u=76281980&t=90)** And that is something you can capture with something like [[JavaScript]].
 >
 > **[1:34](https://www.linkedin.com/learning/css-selectors-2/form-control-states-indeterminate-default-checked?u=76281980&t=94)** Likewise, here, with the check boxes on the bottom, depending on which one I have checked off it will apply the appropriate style in that way.
 >
@@ -1901,7 +1874,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (3), next (2), css (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (3)
 > **Env Vars:** html (3), css (1)
 > **UI Navigation:** checkbox (2), select the (1)
 > **Cross-References:** go back to (1)
@@ -1909,14 +1882,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Text fields: :autofill, :placeholder-shown
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/text-fields-autofill-placeholder-shown?u=76281980)
+#### [Text fields: :autofill, :placeholder-shown](https://www.linkedin.com/learning/css-selectors-2/text-fields-autofill-placeholder-shown?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:02](https://www.linkedin.com/learning/css-selectors-2/text-fields-autofill-placeholder-shown?u=76281980&t=2)** - [Instructor] Next up, let's explore autofill and placeholder shown.
 >
-> **[0:06](https://www.linkedin.com/learning/css-selectors-2/text-fields-autofill-placeholder-shown?u=76281980&t=6)** First, we need to get some of this information in our HTML, so let's start there.
+> **[0:06](https://www.linkedin.com/learning/css-selectors-2/text-fields-autofill-placeholder-shown?u=76281980&t=6)** First, we need to get some of this information in our [[HTML]], so let's start there.
 >
 > **[0:12](https://www.linkedin.com/learning/css-selectors-2/text-fields-autofill-placeholder-shown?u=76281980&t=12)** I made a few modifications to the HTML in this form already, first here, on line number 10, you'll notice that I have added auto complete equals name.
 >
@@ -2042,7 +2014,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), next (2), data (1), web (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **Env Vars:** html (4), mdn (2)
 > **Cross-References:** as we saw (1), go back to (1), as you saw (1)
 > **Documentation:** mdn (2), the docs (1)
@@ -2051,18 +2023,17 @@ created: 2026-05-02
 > **UI Navigation:** click on (2)
 > **CLI Commands:** find (1)
 
-#### Error checking: :valid, :invalid, :in-range, :out-of-range
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/error-checking-valid-invalid-in-range-out-of-range?u=76281980)
+#### [Error checking: :valid, :invalid, :in-range, :out-of-range](https://www.linkedin.com/learning/css-selectors-2/error-checking-valid-invalid-in-range-out-of-range?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/css-selectors-2/error-checking-valid-invalid-in-range-out-of-range?u=76281980&t=2)** - [Instructor] To wrap up our section, mostly on forms, let's look at some error checking.
+> **[0:02](https://www.linkedin.com/learning/css-selectors-2/error-checking-valid-invalid-in-range-out-of-range?u=76281980&t=2)** - [Instructor] To wrap up our section, mostly on [[Forms]], let's look at some error checking.
 >
 > **[0:07](https://www.linkedin.com/learning/css-selectors-2/error-checking-valid-invalid-in-range-out-of-range?u=76281980&t=7)** Now, spoiler alert.
 >
-> **[0:08](https://www.linkedin.com/learning/css-selectors-2/error-checking-valid-invalid-in-range-out-of-range?u=76281980&t=8)** There is no true error checking with only HTML and CSS.
+> **[0:08](https://www.linkedin.com/learning/css-selectors-2/error-checking-valid-invalid-in-range-out-of-range?u=76281980&t=8)** There is no true error checking with only [[HTML]] and CSS.
 >
-> **[0:13](https://www.linkedin.com/learning/css-selectors-2/error-checking-valid-invalid-in-range-out-of-range?u=76281980&t=13)** Error checking on forms must come from JavaScript before submission, or you can check errors server side after submission with a variety of approaches.
+> **[0:13](https://www.linkedin.com/learning/css-selectors-2/error-checking-valid-invalid-in-range-out-of-range?u=76281980&t=13)** Error checking on forms must come from [[JavaScript]] before submission, or you can check errors server side after submission with a variety of approaches.
 >
 > **[0:24](https://www.linkedin.com/learning/css-selectors-2/error-checking-valid-invalid-in-range-out-of-range?u=76281980&t=24)** Or you can do both.
 >
@@ -2238,7 +2209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), css (4), [[Forms]] (3), [[JavaScript]] (1), data (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Forms]] (3), [[JavaScript]] (1)
 > **Env Vars:** html (4), css (4)
 > **Definitions:** is a  (2), in other words (1), means that (1), is called (1)
 > **CLI Commands:** make (3)
@@ -2252,8 +2223,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Comparing is() and where()
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/comparing-is-and-where?u=76281980)
+#### [Comparing is() and where()](https://www.linkedin.com/learning/css-selectors-2/comparing-is-and-where?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2263,7 +2233,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/css-selectors-2/comparing-is-and-where?u=76281980&t=12)** These two pseudo-classes are closely related, but they differ in specificity.
 >
-> **[0:17](https://www.linkedin.com/learning/css-selectors-2/comparing-is-and-where?u=76281980&t=17)** So as before we get into the pseudo-classes, let's start with our HTML.
+> **[0:17](https://www.linkedin.com/learning/css-selectors-2/comparing-is-and-where?u=76281980&t=17)** So as before we get into the pseudo-classes, let's start with our [[HTML]].
 >
 > **[0:22](https://www.linkedin.com/learning/css-selectors-2/comparing-is-and-where?u=76281980&t=22)** If you take a look at what we have going on here for our HTML, we have an h1 here outside of everything, just the very top of the document.
 >
@@ -2441,11 +2411,11 @@ created: 2026-05-02
 >
 > **[9:52](https://www.linkedin.com/learning/css-selectors-2/comparing-is-and-where?u=76281980&t=592)** So this is how you can wind up manipulating specificity using is and where, in addition to solving this problem of these group selectors.
 >
-> **[10:01](https://www.linkedin.com/learning/css-selectors-2/comparing-is-and-where?u=76281980&t=601)** One of the exciting possibilities for working with where is any sort of defaults that you want to set at the top of your document, you can set them with very, very low specificity using the wear selector, that may wind up being really helpful for various types of design systems.
+> **[10:01](https://www.linkedin.com/learning/css-selectors-2/comparing-is-and-where?u=76281980&t=601)** One of the exciting possibilities for working with where is any sort of defaults that you want to set at the top of your document, you can set them with very, very low specificity using the wear selector, that may wind up being really helpful for various types of [[Design Systems]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), css (2), next (1), web (1), [[Design Systems]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Design Systems]] (1)
 > **Env Vars:** html (3), css (2)
 > **CLI Commands:** make (4)
 > **Cross-References:** later in (1)
@@ -2453,8 +2423,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding :not
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/understanding-not?u=76281980)
+#### [Understanding :not](https://www.linkedin.com/learning/css-selectors-2/understanding-not?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2464,7 +2433,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/css-selectors-2/understanding-not?u=76281980&t=10)** For example, here on this web page, you'll notice that we have two images.
 >
-> **[0:16](https://www.linkedin.com/learning/css-selectors-2/understanding-not?u=76281980&t=16)** One of these images is coded correctly in the HTML in that it has its alt tag.
+> **[0:16](https://www.linkedin.com/learning/css-selectors-2/understanding-not?u=76281980&t=16)** One of these images is coded correctly in the [[HTML]] in that it has its alt tag.
 >
 > **[0:21](https://www.linkedin.com/learning/css-selectors-2/understanding-not?u=76281980&t=21)** But the second image does not have its alt tag.
 >
@@ -2514,14 +2483,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (3), [[HTML]] (2), web (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Analogies:** for example (2), picture (1)
 > **Env Vars:** html (2)
 > **CLI Commands:** sudo (1)
 > **Speakers:** - [instructor] (1)
 
-#### :has()
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/has?u=76281980)
+#### [:has()](https://www.linkedin.com/learning/css-selectors-2/has?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2617,7 +2585,7 @@ created: 2026-05-02
 >
 > **[6:06](https://www.linkedin.com/learning/css-selectors-2/has?u=76281980&t=366)** Well, as of this recording, the has sudo class is supported in Safari and that is all at the moment.
 >
-> **[6:15](https://www.linkedin.com/learning/css-selectors-2/has?u=76281980&t=375)** I have this working in Chrome because there is a flag you can set in Chrome for web development and it will allow some of these experimental features to run in it.
+> **[6:15](https://www.linkedin.com/learning/css-selectors-2/has?u=76281980&t=375)** I have this working in Chrome because there is a flag you can set in Chrome for [[Web Development]] and it will allow some of these experimental features to run in it.
 >
 > **[6:24](https://www.linkedin.com/learning/css-selectors-2/has?u=76281980&t=384)** So be sure you turn on that Chrome flag in order to see has in action if you are watching this close to July of 2022.
 >
@@ -2629,7 +2597,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1), next (1), [[Web Development]] (1), power (1)
+> **Frameworks & Libraries:** [[Web Development]] (1)
 > **CLI Commands:** make (9), sudo (2)
 > **Definitions:** is a  (4), is an  (1), in other words (1)
 > **Analogies:** imagine (1), for example (1)
@@ -2638,16 +2606,15 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Meet the pseudo-elements ::before, ::after, ::first-line, ::first-letter
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/meet-the-pseudo-elements-before-after-first-line-first-letter?u=76281980)
+#### [Meet the pseudo-elements ::before, ::after, ::first-line, ::first-letter](https://www.linkedin.com/learning/css-selectors-2/meet-the-pseudo-elements-before-after-first-line-first-letter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-selectors-2/meet-the-pseudo-elements-before-after-first-line-first-letter?u=76281980&t=0)** - [Instructor] Pseudo-elements look like pseudo-classes but they're much lower in specificity, more like an HTML element selector.
+> **[0:00](https://www.linkedin.com/learning/css-selectors-2/meet-the-pseudo-elements-before-after-first-line-first-letter?u=76281980&t=0)** - [Instructor] Pseudo-elements look like pseudo-classes but they're much lower in specificity, more like an [[HTML]] element selector.
 >
 > **[0:09](https://www.linkedin.com/learning/css-selectors-2/meet-the-pseudo-elements-before-after-first-line-first-letter?u=76281980&t=9)** They change a part of a selected element but not the whole element as most selectors do.
 >
-> **[0:16](https://www.linkedin.com/learning/css-selectors-2/meet-the-pseudo-elements-before-after-first-line-first-letter?u=76281980&t=16)** Some pseudo-elements are written in two forms of syntax and specifically the four I cover here are affected by this.
+> **[0:16](https://www.linkedin.com/learning/css-selectors-2/meet-the-pseudo-elements-before-after-first-line-first-letter?u=76281980&t=16)** Some pseudo-elements are written in two [[Forms]] of syntax and specifically the four I cover here are affected by this.
 >
 > **[0:23](https://www.linkedin.com/learning/css-selectors-2/meet-the-pseudo-elements-before-after-first-line-first-letter?u=76281980&t=23)** There are pseudo-elements that were introduced in CSS two where they were written with a single colon so they look like pseudo-classes.
 >
@@ -2679,7 +2646,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/css-selectors-2/meet-the-pseudo-elements-before-after-first-line-first-letter?u=76281980&t=115)** We'll give it a little bit of margin.
 >
-> **[2:02](https://www.linkedin.com/learning/css-selectors-2/meet-the-pseudo-elements-before-after-first-line-first-letter?u=76281980&t=122)** And then I'm going to set this font family to a Google font that I picked out and linked to up here on the top called Faster One.
+> **[2:02](https://www.linkedin.com/learning/css-selectors-2/meet-the-pseudo-elements-before-after-first-line-first-letter?u=76281980&t=122)** And then I'm going to set this font family to a [[Google]] font that I picked out and linked to up here on the top called Faster One.
 >
 > **[2:18](https://www.linkedin.com/learning/css-selectors-2/meet-the-pseudo-elements-before-after-first-line-first-letter?u=76281980&t=138)** And I can make my font style italic, give it even more of that racing tilt.
 >
@@ -2723,7 +2690,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/css-selectors-2/meet-the-pseudo-elements-before-after-first-line-first-letter?u=76281980&t=219)** In the Chateau Dame for a given HTML tag you can select that just the way we've been talking about throughout this course.
 >
-> **[3:46](https://www.linkedin.com/learning/css-selectors-2/meet-the-pseudo-elements-before-after-first-line-first-letter?u=76281980&t=226)** But there's actually a little bit of element before and after the actual element that's usually accessed through JavaScript.
+> **[3:46](https://www.linkedin.com/learning/css-selectors-2/meet-the-pseudo-elements-before-after-first-line-first-letter?u=76281980&t=226)** But there's actually a little bit of element before and after the actual element that's usually accessed through [[JavaScript]].
 >
 > **[3:54](https://www.linkedin.com/learning/css-selectors-2/meet-the-pseudo-elements-before-after-first-line-first-letter?u=76281980&t=234)** but you can also access through this particular pseudo-element.
 >
@@ -2749,15 +2716,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), css (2), [[Forms]] (1), [[Google]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Forms]] (1), [[Google]] (1), [[JavaScript]] (1)
 > **Env Vars:** pdf (10), html (2), css (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### *, the universal selector
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/the-universal-selector?u=76281980)
+#### [*, the universal selector](https://www.linkedin.com/learning/css-selectors-2/the-universal-selector?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2801,9 +2767,9 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/css-selectors-2/the-universal-selector?u=76281980&t=112)** So this kind of situation I recommend sticking with the body tag.
 >
-> **[1:56](https://www.linkedin.com/learning/css-selectors-2/the-universal-selector?u=76281980&t=116)** However, the universal selector can be super helpful when we take a look at the rest of my code here.
+> **[1:56](https://www.linkedin.com/learning/css-selectors-2/the-universal-selector?u=76281980&t=116)** However, the universal selector can be super helpful when we take a look at the [[Representational State Transfer (REST)|rest]] of my code here.
 >
-> **[2:02](https://www.linkedin.com/learning/css-selectors-2/the-universal-selector?u=76281980&t=122)** So here I have a container and as you see in my HTML the container goes all the way around the outside of this document where you'd expect it to be.
+> **[2:02](https://www.linkedin.com/learning/css-selectors-2/the-universal-selector?u=76281980&t=122)** So here I have a container and as you see in my [[HTML]] the container goes all the way around the outside of this document where you'd expect it to be.
 >
 > **[2:10](https://www.linkedin.com/learning/css-selectors-2/the-universal-selector?u=76281980&t=130)** I've set this up to display as grid and I've set it up with three columns.
 >
@@ -2833,7 +2799,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** html (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -2844,8 +2810,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### CSS selectors and browser support
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/css-selectors-and-browser-support?u=76281980)
+#### [CSS selectors and browser support](https://www.linkedin.com/learning/css-selectors-2/css-selectors-and-browser-support?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2877,7 +2842,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4)
 > **Env Vars:** css (4), ie6 (2), ie7 (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (3)
@@ -2886,8 +2850,7 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why can't I use CSS classes exclusively? Selectors best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/why-can-t-i-use-css-classes-exclusively-selectors-best-practices?u=76281980)
+#### [Why can't I use CSS classes exclusively? Selectors best practices](https://www.linkedin.com/learning/css-selectors-2/why-can-t-i-use-css-classes-exclusively-selectors-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2903,7 +2866,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/css-selectors-2/why-can-t-i-use-css-classes-exclusively-selectors-best-practices?u=76281980&t=24)** Simple selectors with the least amount of specificity for what you are trying to select is what you want to use.
 >
-> **[0:31](https://www.linkedin.com/learning/css-selectors-2/why-can-t-i-use-css-classes-exclusively-selectors-best-practices?u=76281980&t=31)** Classes everywhere means cluttering up your HTML with potentially unneeded CSS classes reducing code reusability.
+> **[0:31](https://www.linkedin.com/learning/css-selectors-2/why-can-t-i-use-css-classes-exclusively-selectors-best-practices?u=76281980&t=31)** Classes everywhere means cluttering up your [[HTML]] with potentially unneeded CSS classes reducing code reusability.
 >
 > **[0:38](https://www.linkedin.com/learning/css-selectors-2/why-can-t-i-use-css-classes-exclusively-selectors-best-practices?u=76281980&t=38)** And with every selector at the same level of specificity, all of your styles may fight with each other frequently.
 >
@@ -2929,7 +2892,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/css-selectors-2/why-can-t-i-use-css-classes-exclusively-selectors-best-practices?u=76281980&t=116)** Don't forget about these powerful selectors.
 >
-> **[1:59](https://www.linkedin.com/learning/css-selectors-2/why-can-t-i-use-css-classes-exclusively-selectors-best-practices?u=76281980&t=119)** In some cases, styling these selectors may save you from having to do more complicated state change programming in JavaScript.
+> **[1:59](https://www.linkedin.com/learning/css-selectors-2/why-can-t-i-use-css-classes-exclusively-selectors-best-practices?u=76281980&t=119)** In some cases, styling these selectors may save you from having to do more complicated state change programming in [[JavaScript]].
 >
 > **[2:07](https://www.linkedin.com/learning/css-selectors-2/why-can-t-i-use-css-classes-exclusively-selectors-best-practices?u=76281980&t=127)** In general, most developers are avoiding IDs for CSS styling these days.
 >
@@ -2949,7 +2912,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (9), [[HTML]] (4), generic (2), [[JavaScript]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[JavaScript]] (2)
 > **Env Vars:** css (9), html (4)
 > **CLI Commands:** make (4)
 > **Analogies:** such as (1), for example (1)
@@ -2958,8 +2921,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Impact of CSS selectors on performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/impact-of-css-selectors-on-performance?u=76281980)
+#### [Impact of CSS selectors on performance](https://www.linkedin.com/learning/css-selectors-2/impact-of-css-selectors-on-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2977,7 +2939,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3)
 > **Env Vars:** css (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2987,8 +2948,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Additional CSS practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-selectors-2/additional-css-practice?u=76281980)
+#### [Additional CSS practice](https://www.linkedin.com/learning/css-selectors-2/additional-css-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3008,7 +2968,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (6)
 > **Env Vars:** css (6)
 > **Speakers:** - [jen] (1)
 

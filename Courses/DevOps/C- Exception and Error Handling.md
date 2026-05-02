@@ -79,8 +79,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exceptional times call for exception handling
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/exceptional-times-call-for-exception-handling?u=76281980)
+#### [Exceptional times call for exception handling](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/exceptional-times-call-for-exception-handling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -103,12 +102,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - despite (1)
 
-#### Getting set up
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/getting-set-up?u=76281980)
+#### [Getting set up](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/getting-set-up?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/getting-set-up?u=76281980&t=0)** - [Instructor] I've set up a GitHub repository with the examples, and you can find it at this link.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/getting-set-up?u=76281980&t=0)** - [Instructor] I've set up a [[GitHub]] repository with the examples, and you can find it at this link.
 >
 > **[0:05](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/getting-set-up?u=76281980&t=5)** The course content is organized into two separate folders.
 >
@@ -154,7 +152,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), feature (1)
+> **Frameworks & Libraries:** [[GitHub]] (3)
 > **Tools:** github (3), terminal (3), visual studio (1)
 > **Prerequisites:** set up (4), install (2), you'll need (1)
 > **UI Navigation:** click on (3), open the (1), go to (1)
@@ -168,8 +166,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are exceptions?
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/what-are-exceptions?u=76281980)
+#### [What are exceptions?](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/what-are-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -197,11 +194,11 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/what-are-exceptions?u=76281980&t=82)** If the CLR can't find an appropriate catch block to handle the exception, this is when the program will terminate.
 >
-> **[1:29](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/what-are-exceptions?u=76281980&t=89)** In the rest of this course, we'll learn about what the different kinds of exceptions are, how to handle them, and even how to generate our own exceptions.
+> **[1:29](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/what-are-exceptions?u=76281980&t=89)** In the [[Representational State Transfer (REST)|rest]] of this course, we'll learn about what the different kinds of exceptions are, how to handle them, and even how to generate our own exceptions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** net (3), clr (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
@@ -212,8 +209,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basic exception handling code
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/basic-exception-handling-code?u=76281980)
+#### [Basic exception handling code](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/basic-exception-handling-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -289,7 +285,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/basic-exception-handling-code?u=76281980&t=182)** Now, if any piece of code that is called within the try block causes an exception to happen, then the flow of the program will immediately transfer to the nearest catch block, and that's this one right here, where I can deal with the problem.
 >
-> **[3:15](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/basic-exception-handling-code?u=76281980&t=195)** This allows me to separate the code that deals with errors from the rest of the app logic, and centralize it in one place.
+> **[3:15](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/basic-exception-handling-code?u=76281980&t=195)** This allows me to separate the code that deals with errors from the [[Representational State Transfer (REST)|rest]] of the app logic, and centralize it in one place.
 >
 > **[3:22](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/basic-exception-handling-code?u=76281980&t=202)** So let's go ahead and try the code again.
 >
@@ -337,7 +333,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), generic (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** terminal (3)
 > **Definitions:** is called (1), is a  (1), is an  (1)
 > **CLI Commands:** dotnet (1), find (1)
@@ -346,8 +342,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### The System.Exception class
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/the-system-exception-class?u=76281980)
+#### [The System.Exception class](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/the-system-exception-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -437,7 +432,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Debugging]] (1)
 > **Env Vars:** net (2)
 > **Tools:** terminal (2)
 > **Cross-References:** previous video (1)
@@ -445,8 +439,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Built-in exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/built-in-exceptions?u=76281980)
+#### [Built-in exceptions](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/built-in-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -505,8 +498,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling multiple exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/handling-multiple-exceptions?u=76281980)
+#### [Handling multiple exceptions](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/handling-multiple-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -580,7 +572,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (4)
 > **Tools:** terminal (2)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
@@ -588,8 +579,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Throwing exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/throwing-exceptions?u=76281980)
+#### [Throwing exceptions](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/throwing-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -661,8 +651,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/challenge-basics?u=76281980)
+#### [Challenge: Basics](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/challenge-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -726,15 +715,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), application (1)
 > **Prerequisites:** you'll need (2)
 > **Documentation:** the documentation (1)
 > **UI Navigation:** scroll down (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/solution-basics?u=76281980)
+#### [Solution: Basics](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/solution-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -782,7 +769,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/solution-basics?u=76281980&t=85)** But if they enter anything else, you can see I'm throwing a new ArgumentException with a message and the name of the parameter that caused the exception.
 >
-> **[1:36](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/solution-basics?u=76281980&t=96)** Otherwise, my code computes the result, and then the loop continues until they type the word, exit.
+> **[1:36](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/solution-basics?u=76281980&t=96)** Otherwise, my code computes the result, and then the loop continues until they type the [[Microsoft Word|word]], exit.
 
 > [!info]- Semantic Content
 >
@@ -797,8 +784,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using try-catch-finally
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/using-try-catch-finally?u=76281980)
+#### [Using try-catch-finally](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/using-try-catch-finally?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -848,8 +834,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [host] (1)
 
-#### Exception filtering
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/exception-filtering?u=76281980)
+#### [Exception filtering](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/exception-filtering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -917,8 +902,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [host] (1)
 
-#### Creating custom exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/creating-custom-exceptions?u=76281980)
+#### [Creating custom exceptions](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/creating-custom-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1016,7 +1000,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Cross-References:** go back to (3), earlier in (1)
 > **Env Vars:** net (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -1024,9 +1007,9 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Tools:** terminal (1)
 > **Analogies:** similar to (1)
+> **Speakers:** - [instructor] (1)
 
-#### Inner exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/inner-exceptions?u=76281980)
+#### [Inner exceptions](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/inner-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1162,7 +1145,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** dotnet (1), make (1)
 > **UI Navigation:** scroll down (2)
 > **Definitions:** is a  (2)
@@ -1170,9 +1152,9 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** imagine (1)
+> **Warnings:** note that (1)
 
-#### Exception handling best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/exception-handling-best-practices?u=76281980)
+#### [Exception handling best practices](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/exception-handling-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1206,7 +1188,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/exception-handling-best-practices?u=76281980&t=106)** The next few practices are related to defining your own exception classes.
 >
-> **[1:51](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/exception-handling-best-practices?u=76281980&t=111)** When defining an exception class, end the name with the word "Exception."
+> **[1:51](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/exception-handling-best-practices?u=76281980&t=111)** When defining an exception class, end the name with the [[Microsoft Word|word]] "Exception."
 >
 > **[1:56](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/exception-handling-best-practices?u=76281980&t=116)** This ensures that it's clear what the class does, and the name is consistent with other exception code throughout .NET.
 >
@@ -1218,20 +1200,19 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/exception-handling-best-practices?u=76281980&t=145)** There's the base constructor, which uses default values; the constructor that takes a string message, and the constructor that takes a message along with an inner exception.
 >
-> **[2:36](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/exception-handling-best-practices?u=76281980&t=156)** By defining these three constructors, your code will be compatible with the rest of the exception handling code in .NET.
+> **[2:36](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/exception-handling-best-practices?u=76281980&t=156)** By defining these three constructors, your code will be compatible with the [[Representational State Transfer (REST)|rest]] of the exception handling code in .NET.
 >
 > **[2:42](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/exception-handling-best-practices?u=76281980&t=162)** By following these practices, you can help ensure that your code is using exceptions properly and will be able to operate with the rest of the .NET framework.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (2), [[Representational State Transfer (REST)|Rest]] (2), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** net (4), clr (1)
 > **Best Practices:** best practice (1), remember to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Custom exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/challenge-custom-exceptions?u=76281980)
+#### [Challenge: Custom exceptions](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/challenge-custom-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1281,14 +1262,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **CLI Commands:** make (1)
 > **Versions:** 3.37 (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Custom exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/solution-custom-exceptions?u=76281980)
+#### [Solution: Custom exceptions](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/solution-custom-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1375,8 +1354,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/c-sharp-exception-and-error-handling/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1400,7 +1378,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), [[Programming]] (1), next (1)
 > **Env Vars:** net (3)
 > **Speakers:** - [joe] (1)
 

@@ -70,18 +70,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building trust through software code
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/building-trust-through-software-code?u=76281980)
+#### [Building trust through software code](https://www.linkedin.com/learning/blockchain-basics-14414119/building-trust-through-software-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-basics-14414119/building-trust-through-software-code?u=76281980&t=0)** - In January, 2009, the first broadly available and viable cryptocurrency was created.
+> **[0:00](https://www.linkedin.com/learning/blockchain-basics-14414119/building-trust-through-software-code?u=76281980&t=0)** - In January, 2009, the first broadly available and viable [[Cryptocurrency]] was created.
 >
 > **[0:08](https://www.linkedin.com/learning/blockchain-basics-14414119/building-trust-through-software-code?u=76281980&t=8)** Called Bitcoin, this new form of money was born on the internet.
 >
 > **[0:13](https://www.linkedin.com/learning/blockchain-basics-14414119/building-trust-through-software-code?u=76281980&t=13)** Powering the magic of Bitcoin was a novel underlying technology that would itself become a breakout hit.
 >
-> **[0:21](https://www.linkedin.com/learning/blockchain-basics-14414119/building-trust-through-software-code?u=76281980&t=21)** A digital ledger mechanism that would be referred to as blockchain demonstrated enormous potential in how it authorized, validated, and stored transactions on a computer network.
+> **[0:21](https://www.linkedin.com/learning/blockchain-basics-14414119/building-trust-through-software-code?u=76281980&t=21)** A digital ledger mechanism that would be referred to as [[Blockchain]] demonstrated enormous potential in how it authorized, validated, and stored transactions on a computer network.
 >
 > **[0:35](https://www.linkedin.com/learning/blockchain-basics-14414119/building-trust-through-software-code?u=76281980&t=35)** No longer tethered to human oversight, blockchain introduced the notion of transactional trust through computer code.
 >
@@ -105,7 +104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (5), [[Cryptocurrency]] (1), hit (1), game (1), next (1)
+> **Frameworks & Libraries:** [[Blockchain]] (5), [[Cryptocurrency]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** notion (1)
 > **Analogies:** picture (1)
@@ -116,8 +115,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Risk management on the internet today
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/risk-management-on-the-internet-today?u=76281980)
+#### [Risk management on the internet today](https://www.linkedin.com/learning/blockchain-basics-14414119/risk-management-on-the-internet-today?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -151,17 +149,17 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/blockchain-basics-14414119/risk-management-on-the-internet-today?u=76281980&t=125)** I'm sure you can think of many other trust issues like these.
 >
-> **[2:11](https://www.linkedin.com/learning/blockchain-basics-14414119/risk-management-on-the-internet-today?u=76281980&t=131)** Despite these challenges, we've done wonders reducing risk and building trust with existing technology.
+> **[2:11](https://www.linkedin.com/learning/blockchain-basics-14414119/risk-management-on-the-internet-today?u=76281980&t=131)** Despite these challenges, we've done wonders reducing risk and [[Building Trust]] with existing technology.
 >
-> **[2:19](https://www.linkedin.com/learning/blockchain-basics-14414119/risk-management-on-the-internet-today?u=76281980&t=139)** More of us are using stronger passwords, multi-factor authentication, and biometrics such as our fingerprints and faces to gain access to systems.
+> **[2:19](https://www.linkedin.com/learning/blockchain-basics-14414119/risk-management-on-the-internet-today?u=76281980&t=139)** More of us are using stronger passwords, [[Multi-factor Authentication]], and biometrics such as our fingerprints and faces to gain access to systems.
 >
-> **[2:31](https://www.linkedin.com/learning/blockchain-basics-14414119/risk-management-on-the-internet-today?u=76281980&t=151)** We have security technologies such as firewalls, intrusion detection systems, digital certificates, and captures, those quirky requests that require us to prove we're human by identifying text or objects in an image, something bots still can't do, at least not yet.
+> **[2:31](https://www.linkedin.com/learning/blockchain-basics-14414119/risk-management-on-the-internet-today?u=76281980&t=151)** We have security technologies such as firewalls, [[Intrusion Detection]] systems, digital certificates, and captures, those quirky requests that require us to prove we're human by identifying text or objects in an image, something bots still can't do, at least not yet.
 >
 > **[2:52](https://www.linkedin.com/learning/blockchain-basics-14414119/risk-management-on-the-internet-today?u=76281980&t=172)** With these mechanisms and others for security and trust, we've come a long way.
 >
 > **[2:57](https://www.linkedin.com/learning/blockchain-basics-14414119/risk-management-on-the-internet-today?u=76281980&t=177)** And yet, issues persist.
 >
-> **[3:00](https://www.linkedin.com/learning/blockchain-basics-14414119/risk-management-on-the-internet-today?u=76281980&t=180)** For example, business systems and databases continue to be compromised, made unavailable, and money, information, and identities are stolen.
+> **[3:00](https://www.linkedin.com/learning/blockchain-basics-14414119/risk-management-on-the-internet-today?u=76281980&t=180)** For example, business systems and [[Databases]] continue to be compromised, made unavailable, and money, information, and identities are stolen.
 >
 > **[3:12](https://www.linkedin.com/learning/blockchain-basics-14414119/risk-management-on-the-internet-today?u=76281980&t=192)** Without more rigorous online tools to increase trust and reduce risk, innovation will be impacted, and at worst, held back from meaningful progress.
 >
@@ -177,7 +175,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/blockchain-basics-14414119/risk-management-on-the-internet-today?u=76281980&t=256)** That technology?
 >
-> **[4:18](https://www.linkedin.com/learning/blockchain-basics-14414119/risk-management-on-the-internet-today?u=76281980&t=258)** Well, that would be the distributed ledger, or blockchain, as we now refer to it.
+> **[4:18](https://www.linkedin.com/learning/blockchain-basics-14414119/risk-management-on-the-internet-today?u=76281980&t=258)** Well, that would be the distributed ledger, or [[Blockchain]], as we now refer to it.
 >
 > **[4:26](https://www.linkedin.com/learning/blockchain-basics-14414119/risk-management-on-the-internet-today?u=76281980&t=266)** What blockchain technology achieved was the notion of trustless architecture.
 >
@@ -185,24 +183,23 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/blockchain-basics-14414119/risk-management-on-the-internet-today?u=76281980&t=280)** It's a big idea and it works.
 >
-> **[4:43](https://www.linkedin.com/learning/blockchain-basics-14414119/risk-management-on-the-internet-today?u=76281980&t=283)** While blockchain enabled cryptocurrency to function in a trust manner, this core quality has made it valuable in a large number of contexts.
+> **[4:43](https://www.linkedin.com/learning/blockchain-basics-14414119/risk-management-on-the-internet-today?u=76281980&t=283)** While blockchain enabled [[Cryptocurrency]] to function in a trust manner, this core quality has made it valuable in a large number of contexts.
 >
 > **[4:54](https://www.linkedin.com/learning/blockchain-basics-14414119/risk-management-on-the-internet-today?u=76281980&t=294)** In fact, in the next chapter of internet innovation, we may have blockchain to thank for opening some new doors.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Blockchain]] (4), business (3), [[Building Trust]] (1), [[Multi-factor Authentication]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (4), [[Building Trust]] (1), [[Multi-factor Authentication]] (1), [[Intrusion Detection]] (1), [[Databases]] (1)
 > **Analogies:** such as (4), for example (2)
 > **Cross-References:** in the next (1)
 > **Tools:** notion (1)
 > **Speakers:** - while (1)
 
-#### Rethinking traditional client-server computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/rethinking-traditional-client-server-computing?u=76281980)
+#### [Rethinking traditional client-server computing](https://www.linkedin.com/learning/blockchain-basics-14414119/rethinking-traditional-client-server-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-basics-14414119/rethinking-traditional-client-server-computing?u=76281980&t=0)** - In order to grasp the fundamentals of how blockchain technology works, we first need to cover the basics of a database in a client server environment.
+> **[0:00](https://www.linkedin.com/learning/blockchain-basics-14414119/rethinking-traditional-client-server-computing?u=76281980&t=0)** - In order to grasp the fundamentals of how [[Blockchain]] technology works, we first need to cover the basics of a database in a client server environment.
 >
 > **[0:12](https://www.linkedin.com/learning/blockchain-basics-14414119/rethinking-traditional-client-server-computing?u=76281980&t=12)** If you already know what a traditional relational database is and how it works, you might consider skipping this video.
 >
@@ -220,7 +217,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/blockchain-basics-14414119/rethinking-traditional-client-server-computing?u=76281980&t=51)** To find a person and their phone number in the database, some some software code is run to search the database and return the correct result.
 >
-> **[1:00](https://www.linkedin.com/learning/blockchain-basics-14414119/rethinking-traditional-client-server-computing?u=76281980&t=60)** Well-designed databases can search millions, even billions of records and return a result, often in a fraction of a section.
+> **[1:00](https://www.linkedin.com/learning/blockchain-basics-14414119/rethinking-traditional-client-server-computing?u=76281980&t=60)** Well-designed [[Databases]] can search millions, even billions of records and return a result, often in a fraction of a section.
 >
 > **[1:09](https://www.linkedin.com/learning/blockchain-basics-14414119/rethinking-traditional-client-server-computing?u=76281980&t=69)** In a structured database, the data is stored in an organized and logical manner.
 >
@@ -244,11 +241,11 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/blockchain-basics-14414119/rethinking-traditional-client-server-computing?u=76281980&t=146)** In Facebook, for example, posts can include various lengths and types of text, and include photos, videos and music.
 >
-> **[2:35](https://www.linkedin.com/learning/blockchain-basics-14414119/rethinking-traditional-client-server-computing?u=76281980&t=155)** Fortunately, a healthy ecosystem of providers has created tools for managing unstructured data really well.
+> **[2:35](https://www.linkedin.com/learning/blockchain-basics-14414119/rethinking-traditional-client-server-computing?u=76281980&t=155)** Fortunately, a healthy ecosystem of providers has created tools for managing [[Unstructured Data]] really well.
 >
 > **[2:43](https://www.linkedin.com/learning/blockchain-basics-14414119/rethinking-traditional-client-server-computing?u=76281980&t=163)** Both structured and unstructured databases are the foundation of almost all computing systems in place today.
 >
-> **[2:52](https://www.linkedin.com/learning/blockchain-basics-14414119/rethinking-traditional-client-server-computing?u=76281980&t=172)** Whether it's the internal systems of an organizations for say financial accounting or customer contact information, or for popular commercial services provided by your bank, Amazon or Google, it's databases that store and manage all the content for each one of these.
+> **[2:52](https://www.linkedin.com/learning/blockchain-basics-14414119/rethinking-traditional-client-server-computing?u=76281980&t=172)** Whether it's the internal systems of an organizations for say financial accounting or customer contact information, or for popular commercial services provided by your bank, Amazon or [[Google]], it's databases that store and manage all the content for each one of these.
 >
 > **[3:13](https://www.linkedin.com/learning/blockchain-basics-14414119/rethinking-traditional-client-server-computing?u=76281980&t=193)** The databases I've described typically reside on a high-performance central computer with access to sizable storage.
 >
@@ -266,7 +263,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/blockchain-basics-14414119/rethinking-traditional-client-server-computing?u=76281980&t=232)** These clients can be laptop computers, smartphones, tablets and other devices.
 >
-> **[3:58](https://www.linkedin.com/learning/blockchain-basics-14414119/rethinking-traditional-client-server-computing?u=76281980&t=238)** What we're looking at here is a centralized architecture with all database management conducted in one place.
+> **[3:58](https://www.linkedin.com/learning/blockchain-basics-14414119/rethinking-traditional-client-server-computing?u=76281980&t=238)** What we're looking at here is a centralized architecture with all [[Database Management]] conducted in one place.
 >
 > **[4:06](https://www.linkedin.com/learning/blockchain-basics-14414119/rethinking-traditional-client-server-computing?u=76281980&t=246)** Let's look at another design.
 >
@@ -314,7 +311,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (20), data (13), [[Databases]] (4), [[Blockchain]] (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[Databases]] (4), [[Blockchain]] (3), [[Unstructured Data]] (1), [[Google]] (1), [[Database Management]] (1)
 > **Analogies:** for example (3), imagine (2)
 > **Definitions:** is a  (3), we call this (1)
 > **CLI Commands:** find (1)
@@ -325,8 +322,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What problems does blockchain solve?
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/what-problems-does-blockchain-solve?u=76281980)
+#### [What problems does blockchain solve?](https://www.linkedin.com/learning/blockchain-basics-14414119/what-problems-does-blockchain-solve?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -348,7 +344,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/blockchain-basics-14414119/what-problems-does-blockchain-solve?u=76281980&t=57)** Now let's be clear, in computing this is generally being a good thing.
 >
-> **[1:02](https://www.linkedin.com/learning/blockchain-basics-14414119/what-problems-does-blockchain-solve?u=76281980&t=62)** For example, if you run an e-commerce website, you probably want total control over it.
+> **[1:02](https://www.linkedin.com/learning/blockchain-basics-14414119/what-problems-does-blockchain-solve?u=76281980&t=62)** For example, if you run an [[E-Commerce]] website, you probably want total control over it.
 >
 > **[1:08](https://www.linkedin.com/learning/blockchain-basics-14414119/what-problems-does-blockchain-solve?u=76281980&t=68)** You as the central authority, perhaps as CEO or CTO, gets to decide all aspects of that environment, including shutting it down if that's what you decide.
 >
@@ -370,7 +366,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/blockchain-basics-14414119/what-problems-does-blockchain-solve?u=76281980&t=137)** Each of these independent and historically important central authorities has unique power that levies considerable overhead in a mortgage transaction.
 >
-> **[2:28](https://www.linkedin.com/learning/blockchain-basics-14414119/what-problems-does-blockchain-solve?u=76281980&t=148)** The transactions written to the relevant databases all take time to process.
+> **[2:28](https://www.linkedin.com/learning/blockchain-basics-14414119/what-problems-does-blockchain-solve?u=76281980&t=148)** The transactions written to the relevant [[Databases]] all take time to process.
 >
 > **[2:34](https://www.linkedin.com/learning/blockchain-basics-14414119/what-problems-does-blockchain-solve?u=76281980&t=154)** They also impose costs.
 >
@@ -382,7 +378,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/blockchain-basics-14414119/what-problems-does-blockchain-solve?u=76281980&t=173)** It's been this way because of, for example, the high human trust requirements of each transaction and many technological limitations.
 >
-> **[3:04](https://www.linkedin.com/learning/blockchain-basics-14414119/what-problems-does-blockchain-solve?u=76281980&t=184)** However, these overheads and limitations become the ideal solution targets for a blockchain system.
+> **[3:04](https://www.linkedin.com/learning/blockchain-basics-14414119/what-problems-does-blockchain-solve?u=76281980&t=184)** However, these overheads and limitations become the ideal solution targets for a [[Blockchain]] system.
 >
 > **[3:12](https://www.linkedin.com/learning/blockchain-basics-14414119/what-problems-does-blockchain-solve?u=76281980&t=192)** The novelty of this technology means that sulfur code can replace traditional human trust mechanisms.
 >
@@ -394,22 +390,21 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/blockchain-basics-14414119/what-problems-does-blockchain-solve?u=76281980&t=227)** How it does this will be the subject of an upcoming video.
 >
-> **[3:51](https://www.linkedin.com/learning/blockchain-basics-14414119/what-problems-does-blockchain-solve?u=76281980&t=231)** But first, let's take a look at how Bitcoin, the popular cryptocurrency gave birth to blockchain technology.
+> **[3:51](https://www.linkedin.com/learning/blockchain-basics-14414119/what-problems-does-blockchain-solve?u=76281980&t=231)** But first, let's take a look at how Bitcoin, the popular [[Cryptocurrency]] gave birth to blockchain technology.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), power (4), [[Blockchain]] (4), [[E-Commerce]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (4), [[E-Commerce]] (1), [[Databases]] (1), [[Cryptocurrency]] (1)
 > **Analogies:** for example (4), such as (2)
 > **Definitions:** means that (3)
 > **Env Vars:** ceo (1), cto (1)
 > **Speakers:** - a (1)
 
-#### Bitcoin gives birth to blockchain
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/bitcoin-gives-birth-to-blockchain?u=76281980)
+#### [Bitcoin gives birth to blockchain](https://www.linkedin.com/learning/blockchain-basics-14414119/bitcoin-gives-birth-to-blockchain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/blockchain-basics-14414119/bitcoin-gives-birth-to-blockchain?u=76281980&t=1)** - Let's talk about the origin of blockchain.
+> **[0:01](https://www.linkedin.com/learning/blockchain-basics-14414119/bitcoin-gives-birth-to-blockchain?u=76281980&t=1)** - Let's talk about the origin of [[Blockchain]].
 >
 > **[0:04](https://www.linkedin.com/learning/blockchain-basics-14414119/bitcoin-gives-birth-to-blockchain?u=76281980&t=4)** The fact that the blockchain emerges as the essential supporting mechanism for a new digital currency will play an important role in our understanding of this technology.
 >
@@ -441,9 +436,9 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/blockchain-basics-14414119/bitcoin-gives-birth-to-blockchain?u=76281980&t=91)** Bitcoin enabled a digital currency that could be used person-to-person without the need for any intermediaries.
 >
-> **[1:39](https://www.linkedin.com/learning/blockchain-basics-14414119/bitcoin-gives-birth-to-blockchain?u=76281980&t=99)** It was the opposite of all other forms of typical currency we're used to.
+> **[1:39](https://www.linkedin.com/learning/blockchain-basics-14414119/bitcoin-gives-birth-to-blockchain?u=76281980&t=99)** It was the opposite of all other [[Forms]] of typical currency we're used to.
 >
-> **[1:44](https://www.linkedin.com/learning/blockchain-basics-14414119/bitcoin-gives-birth-to-blockchain?u=76281980&t=104)** Specifically, the currency was built to exist outside the banking system, completely independent and free of any government or regulator and unconcerned with borders and other traditional financial system limitations.
+> **[1:44](https://www.linkedin.com/learning/blockchain-basics-14414119/bitcoin-gives-birth-to-blockchain?u=76281980&t=104)** Specifically, the currency was built to exist outside the [[Banking]] system, completely independent and free of any government or regulator and unconcerned with borders and other traditional financial system limitations.
 >
 > **[2:01](https://www.linkedin.com/learning/blockchain-basics-14414119/bitcoin-gives-birth-to-blockchain?u=76281980&t=121)** As a currency, Bitcoin does not exist in a physical form.
 >
@@ -463,7 +458,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/blockchain-basics-14414119/bitcoin-gives-birth-to-blockchain?u=76281980&t=180)** Supply and demand will typically determine value.
 >
-> **[3:03](https://www.linkedin.com/learning/blockchain-basics-14414119/bitcoin-gives-birth-to-blockchain?u=76281980&t=183)** Utility means it can be used to buy and sell products and services.
+> **[3:03](https://www.linkedin.com/learning/blockchain-basics-14414119/bitcoin-gives-birth-to-blockchain?u=76281980&t=183)** Utility means it can be used to buy and sell [[Microsoft Products|products]] and services.
 >
 > **[3:08](https://www.linkedin.com/learning/blockchain-basics-14414119/bitcoin-gives-birth-to-blockchain?u=76281980&t=188)** And trust means having the confidence that it will actually store value and be accepted for transactions.
 >
@@ -503,21 +498,20 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/blockchain-basics-14414119/bitcoin-gives-birth-to-blockchain?u=76281980&t=292)** Without Bitcoin, blockchain as we know it today would either have never emerged as it has or would have come about later in a completely different way.
 >
-> **[5:03](https://www.linkedin.com/learning/blockchain-basics-14414119/bitcoin-gives-birth-to-blockchain?u=76281980&t=303)** In this way, we must recognize and give credit to Bitcoin, a project that introduced a viable cryptocurrency for giving birth to the version of blockchain we know today.
+> **[5:03](https://www.linkedin.com/learning/blockchain-basics-14414119/bitcoin-gives-birth-to-blockchain?u=76281980&t=303)** In this way, we must recognize and give credit to Bitcoin, a project that introduced a viable [[Cryptocurrency]] for giving birth to the version of blockchain we know today.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (7), [[Microsoft Products|Products]] (2), [[Forms]] (1), [[Banking]] (1), database (1)
+> **Frameworks & Libraries:** [[Blockchain]] (7), [[Microsoft Products|Products]] (2), [[Forms]] (1), [[Banking]] (1), [[Cryptocurrency]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
 
-#### The basics of how blockchain works
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/the-basics-of-how-blockchain-works?u=76281980)
+#### [The basics of how blockchain works](https://www.linkedin.com/learning/blockchain-basics-14414119/the-basics-of-how-blockchain-works?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-basics-14414119/the-basics-of-how-blockchain-works?u=76281980&t=0)** - In basic terms, a blockchain is a distributed database that manages and stores data.
+> **[0:00](https://www.linkedin.com/learning/blockchain-basics-14414119/the-basics-of-how-blockchain-works?u=76281980&t=0)** - In basic terms, a [[Blockchain]] is a distributed database that manages and stores data.
 >
 > **[0:07](https://www.linkedin.com/learning/blockchain-basics-14414119/the-basics-of-how-blockchain-works?u=76281980&t=7)** It's power and innovative qualities reside in containing some unique characteristics and novel processes.
 >
@@ -529,7 +523,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/blockchain-basics-14414119/the-basics-of-how-blockchain-works?u=76281980&t=22)** There is no central control.
 >
-> **[0:24](https://www.linkedin.com/learning/blockchain-basics-14414119/the-basics-of-how-blockchain-works?u=76281980&t=24)** Participants in a blockchain-based application, such as a cryptocurrency, interact with an identical copy of the supporting database that is distributed over many computers.
+> **[0:24](https://www.linkedin.com/learning/blockchain-basics-14414119/the-basics-of-how-blockchain-works?u=76281980&t=24)** Participants in a blockchain-based application, such as a [[Cryptocurrency]], interact with an identical copy of the supporting database that is distributed over many computers.
 >
 > **[0:36](https://www.linkedin.com/learning/blockchain-basics-14414119/the-basics-of-how-blockchain-works?u=76281980&t=36)** We refer to these computers as nodes.
 >
@@ -561,7 +555,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/blockchain-basics-14414119/the-basics-of-how-blockchain-works?u=76281980&t=134)** It's this process that ultimately eliminates the double-spend problem discussed earlier and ensures a high degree of security in the system.
 >
-> **[2:23](https://www.linkedin.com/learning/blockchain-basics-14414119/the-basics-of-how-blockchain-works?u=76281980&t=143)** If the miners reach consensus that the transaction is valid, it is approved and added to the identical blockchain databases on the network.
+> **[2:23](https://www.linkedin.com/learning/blockchain-basics-14414119/the-basics-of-how-blockchain-works?u=76281980&t=143)** If the miners reach consensus that the transaction is valid, it is approved and added to the identical blockchain [[Databases]] on the network.
 >
 > **[2:32](https://www.linkedin.com/learning/blockchain-basics-14414119/the-basics-of-how-blockchain-works?u=76281980&t=152)** If a node is offline, once it comes online, any new transactions will be automatically added to bring it up to date.
 >
@@ -581,7 +575,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/blockchain-basics-14414119/the-basics-of-how-blockchain-works?u=76281980&t=198)** What this looks like to others on the network is that there's a transaction signed with a unique private key directed to a public key.
 >
-> **[3:27](https://www.linkedin.com/learning/blockchain-basics-14414119/the-basics-of-how-blockchain-works?u=76281980&t=207)** Since all transactions are typically inspectable by anyone, unless they've made it obvious, both Carlos and Sarina are generally unknown to the rest of the network.
+> **[3:27](https://www.linkedin.com/learning/blockchain-basics-14414119/the-basics-of-how-blockchain-works?u=76281980&t=207)** Since all transactions are typically inspectable by anyone, unless they've made it obvious, both Carlos and Sarina are generally unknown to the [[Representational State Transfer (REST)|rest]] of the network.
 >
 > **[3:38](https://www.linkedin.com/learning/blockchain-basics-14414119/the-basics-of-how-blockchain-works?u=76281980&t=218)** You can think of these keys as the way transactions are assigned and how a person proves they are associated with and can access specific transactions.
 >
@@ -621,26 +615,25 @@ created: 2026-05-02
 >
 > **[5:36](https://www.linkedin.com/learning/blockchain-basics-14414119/the-basics-of-how-blockchain-works?u=76281980&t=336)** This is a strong disincentive for bad behavior.
 >
-> **[5:41](https://www.linkedin.com/learning/blockchain-basics-14414119/the-basics-of-how-blockchain-works?u=76281980&t=341)** In summary, blockchain achieves its trustless, secure architecture through network decentralization, transaction dependency, and proof of work.
+> **[5:41](https://www.linkedin.com/learning/blockchain-basics-14414119/the-basics-of-how-blockchain-works?u=76281980&t=341)** In summary, blockchain achieves its trustless, secure architecture through network [[Decentralization]], transaction dependency, and proof of work.
 >
 > **[5:54](https://www.linkedin.com/learning/blockchain-basics-14414119/the-basics-of-how-blockchain-works?u=76281980&t=354)** These three core dimensions were described in Satoshi's 2008 Bitcoin paper, and proved to be the winning combination to enable a whole new way to manage transactions in a distributed ledger without a central authority.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (11), database (6), data (3), power (3), application (2)
+> **Frameworks & Libraries:** [[Blockchain]] (11), [[Cryptocurrency]] (1), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Decentralization]] (1)
 > **Definitions:** is a  (2), means that (2), is called (1), in other words (1)
 > **Analogies:** such as (2), imagine (1)
 > **CLI Commands:** node (1)
 > **Speakers:** - in (1)
 
-#### The growth of crypto coins and crypto tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/the-growth-of-crypto-coins-and-crypto-tokens?u=76281980)
+#### [The growth of crypto coins and crypto tokens](https://www.linkedin.com/learning/blockchain-basics-14414119/the-growth-of-crypto-coins-and-crypto-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-basics-14414119/the-growth-of-crypto-coins-and-crypto-tokens?u=76281980&t=0)** - Even with the rapid growth of blockchain technology in a variety of applications and industries, cryptocurrency still dominates its use.
+> **[0:00](https://www.linkedin.com/learning/blockchain-basics-14414119/the-growth-of-crypto-coins-and-crypto-tokens?u=76281980&t=0)** - Even with the rapid growth of [[Blockchain]] technology in a variety of applications and industries, [[Cryptocurrency]] still dominates its use.
 >
-> **[0:11](https://www.linkedin.com/learning/blockchain-basics-14414119/the-growth-of-crypto-coins-and-crypto-tokens?u=76281980&t=11)** However, beyond the use of cryptocurrency as a form of digital money, cryptos, short for cryptocurrency, and a derivative called crypto tokens form the basis for some fascinating and important innovation.
+> **[0:11](https://www.linkedin.com/learning/blockchain-basics-14414119/the-growth-of-crypto-coins-and-crypto-tokens?u=76281980&t=11)** However, beyond the use of cryptocurrency as a form of digital money, cryptos, short for cryptocurrency, and a derivative called crypto [[Tokens]] form the basis for some fascinating and important innovation.
 >
 > **[0:26](https://www.linkedin.com/learning/blockchain-basics-14414119/the-growth-of-crypto-coins-and-crypto-tokens?u=76281980&t=26)** I'll begin with a quick overview of the current crypto market.
 >
@@ -662,7 +655,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/blockchain-basics-14414119/the-growth-of-crypto-coins-and-crypto-tokens?u=76281980&t=86)** While Bitcoin is the cryptocurrency leader, both in terms of market capitalization and usage, the second most popular is a cryptocurrency cold Ether.
 >
-> **[1:37](https://www.linkedin.com/learning/blockchain-basics-14414119/the-growth-of-crypto-coins-and-crypto-tokens?u=76281980&t=97)** Ether runs on a blockchain platform called Ethereum, which supports both a crypto and a system for application development.
+> **[1:37](https://www.linkedin.com/learning/blockchain-basics-14414119/the-growth-of-crypto-coins-and-crypto-tokens?u=76281980&t=97)** Ether runs on a blockchain platform called [[Ethereum]], which supports both a crypto and a system for [[Application Development]].
 >
 > **[1:47](https://www.linkedin.com/learning/blockchain-basics-14414119/the-growth-of-crypto-coins-and-crypto-tokens?u=76281980&t=107)** Unlike Bitcoin, we know the actual person who created Ethereum.
 >
@@ -674,9 +667,9 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/blockchain-basics-14414119/the-growth-of-crypto-coins-and-crypto-tokens?u=76281980&t=134)** This EVM is low cost, scales massively, avoids downtime, and has security baked into all its functions.
 >
-> **[2:24](https://www.linkedin.com/learning/blockchain-basics-14414119/the-growth-of-crypto-coins-and-crypto-tokens?u=76281980&t=144)** Solutions can be built using its proprietary programming language called Solidity.
+> **[2:24](https://www.linkedin.com/learning/blockchain-basics-14414119/the-growth-of-crypto-coins-and-crypto-tokens?u=76281980&t=144)** Solutions can be built using its proprietary programming language called [[Solidity]].
 >
-> **[2:30](https://www.linkedin.com/learning/blockchain-basics-14414119/the-growth-of-crypto-coins-and-crypto-tokens?u=76281980&t=150)** Examples of Ethereum applications called Dapps, include sophisticated banking services, marketplaces for digital art, crowdfunding, and games.
+> **[2:30](https://www.linkedin.com/learning/blockchain-basics-14414119/the-growth-of-crypto-coins-and-crypto-tokens?u=76281980&t=150)** Examples of Ethereum applications called Dapps, include sophisticated [[Banking]] services, marketplaces for digital art, crowdfunding, and games.
 >
 > **[2:44](https://www.linkedin.com/learning/blockchain-basics-14414119/the-growth-of-crypto-coins-and-crypto-tokens?u=76281980&t=164)** Ethereum's crypto Ether is used as the funding mechanism for computational resources utilized on the network, and to pay any transaction fees required by Dapps.
 >
@@ -684,7 +677,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/blockchain-basics-14414119/the-growth-of-crypto-coins-and-crypto-tokens?u=76281980&t=184)** Cryptos, sometimes referred to as crypto coins, are the equivalent of cash, but crypto tokens can be used to represent many other types of value.
 >
-> **[3:16](https://www.linkedin.com/learning/blockchain-basics-14414119/the-growth-of-crypto-coins-and-crypto-tokens?u=76281980&t=196)** Tow popular forms of crypto tokens are security tokens and utility tokens.
+> **[3:16](https://www.linkedin.com/learning/blockchain-basics-14414119/the-growth-of-crypto-coins-and-crypto-tokens?u=76281980&t=196)** Tow popular [[Forms]] of crypto tokens are security tokens and utility tokens.
 >
 > **[3:23](https://www.linkedin.com/learning/blockchain-basics-14414119/the-growth-of-crypto-coins-and-crypto-tokens?u=76281980&t=203)** Security tokens can be used to represent whole or fractional ownership of any asset that already has value, such as real estate, a car, or corporate stock.
 >
@@ -712,18 +705,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (9), [[Cryptocurrency]] (8), [[Blockchain]] (6), [[Ethereum]] (6), [[Security]] (3)
+> **Frameworks & Libraries:** [[Tokens]] (9), [[Cryptocurrency]] (8), [[Blockchain]] (6), [[Ethereum]] (6), [[Application Development]] (1)
 > **Analogies:** for example (3), such as (2)
 > **Definitions:** short for (2), is a  (1), is called (1)
 > **Env Vars:** evm (2)
 > **Speakers:** - even (1)
 
-#### Going deeper on the role of key pairs
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/going-deeper-on-the-role-of-key-pairs?u=76281980)
+#### [Going deeper on the role of key pairs](https://www.linkedin.com/learning/blockchain-basics-14414119/going-deeper-on-the-role-of-key-pairs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-basics-14414119/going-deeper-on-the-role-of-key-pairs?u=76281980&t=0)** - [Instructor] To participate in a blockchain network requires the use of keys.
+> **[0:00](https://www.linkedin.com/learning/blockchain-basics-14414119/going-deeper-on-the-role-of-key-pairs?u=76281980&t=0)** - [Instructor] To participate in a [[Blockchain]] network requires the use of keys.
 >
 > **[0:04](https://www.linkedin.com/learning/blockchain-basics-14414119/going-deeper-on-the-role-of-key-pairs?u=76281980&t=4)** These are fixed length sequences of unique numbers and letters like you see here.
 >
@@ -749,7 +741,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/blockchain-basics-14414119/going-deeper-on-the-role-of-key-pairs?u=76281980&t=88)** In fact, in blockchain, your public key is the address that transactions will be sent to.
 >
-> **[1:33](https://www.linkedin.com/learning/blockchain-basics-14414119/going-deeper-on-the-role-of-key-pairs?u=76281980&t=93)** For example, if someone wants to pay you with cryptocurrency, you'll provide them with your public key.
+> **[1:33](https://www.linkedin.com/learning/blockchain-basics-14414119/going-deeper-on-the-role-of-key-pairs?u=76281980&t=93)** For example, if someone wants to pay you with [[Cryptocurrency]], you'll provide them with your public key.
 >
 > **[1:40](https://www.linkedin.com/learning/blockchain-basics-14414119/going-deeper-on-the-role-of-key-pairs?u=76281980&t=100)** Conversely, a private key must be kept private, as anyone in possession of it can gain access to transactions associated with it.
 >
@@ -759,7 +751,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/blockchain-basics-14414119/going-deeper-on-the-role-of-key-pairs?u=76281980&t=122)** Finally, keys are stored in wallets.
 >
-> **[2:06](https://www.linkedin.com/learning/blockchain-basics-14414119/going-deeper-on-the-role-of-key-pairs?u=76281980&t=126)** Wallets can take many forms, including software and hardware, and they can also be hosted by third parties, such as a cryptocurrency exchange.
+> **[2:06](https://www.linkedin.com/learning/blockchain-basics-14414119/going-deeper-on-the-role-of-key-pairs?u=76281980&t=126)** Wallets can take many [[Forms]], including software and [[Hardware]], and they can also be hosted by third parties, such as a cryptocurrency exchange.
 >
 > **[2:16](https://www.linkedin.com/learning/blockchain-basics-14414119/going-deeper-on-the-role-of-key-pairs?u=76281980&t=136)** Your wallet tells you what transactions are associated with your keys.
 >
@@ -799,7 +791,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (8), [[Cryptocurrency]] (2), [[Security]] (2), [[Forms]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (8), [[Cryptocurrency]] (2), [[Forms]] (1), [[Hardware]] (1)
 > **Analogies:** for example (3), such as (1)
 > **Env Vars:** rsa (1)
 > **UI Navigation:** click on (1)
@@ -811,18 +803,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The blockchain ecosystem
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/the-blockchain-ecosystem?u=76281980)
+#### [The blockchain ecosystem](https://www.linkedin.com/learning/blockchain-basics-14414119/the-blockchain-ecosystem?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-basics-14414119/the-blockchain-ecosystem?u=76281980&t=0)** - It's not unreasonable to believe that blockchain is primarily a mechanism to support cryptocurrencies.
+> **[0:00](https://www.linkedin.com/learning/blockchain-basics-14414119/the-blockchain-ecosystem?u=76281980&t=0)** - It's not unreasonable to believe that [[Blockchain]] is primarily a mechanism to support cryptocurrencies.
 >
-> **[0:07](https://www.linkedin.com/learning/blockchain-basics-14414119/the-blockchain-ecosystem?u=76281980&t=7)** For sure, crypto coins and crypto tokens represent a big proportion of its current use.
+> **[0:07](https://www.linkedin.com/learning/blockchain-basics-14414119/the-blockchain-ecosystem?u=76281980&t=7)** For sure, crypto coins and crypto [[Tokens]] represent a big proportion of its current use.
 >
 > **[0:14](https://www.linkedin.com/learning/blockchain-basics-14414119/the-blockchain-ecosystem?u=76281980&t=14)** It's also important to acknowledge that it's often these cryptos that power the new innovation that blockchain is enabling.
 >
-> **[0:22](https://www.linkedin.com/learning/blockchain-basics-14414119/the-blockchain-ecosystem?u=76281980&t=22)** For example, the Ethereum blockchain uses its own cryptocurrency, Ether, as a mechanism for user fees that power everything from games to managing digital assets.
+> **[0:22](https://www.linkedin.com/learning/blockchain-basics-14414119/the-blockchain-ecosystem?u=76281980&t=22)** For example, the [[Ethereum]] blockchain uses its own [[Cryptocurrency]], Ether, as a mechanism for user fees that power everything from games to managing digital assets.
 >
 > **[0:35](https://www.linkedin.com/learning/blockchain-basics-14414119/the-blockchain-ecosystem?u=76281980&t=35)** After Bitcoin was launched in 2009, blockchain technology began to be recognized as a platform for a wide range of uses beyond cryptocurrency.
 >
@@ -868,7 +859,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/blockchain-basics-14414119/the-blockchain-ecosystem?u=76281980&t=208)** With so many cryptos or altcoins, an ecosystem of organizations and services to enable more people to buy and sell cryptos has emerged.
 >
-> **[3:39](https://www.linkedin.com/learning/blockchain-basics-14414119/the-blockchain-ecosystem?u=76281980&t=219)** Called exchanges, these services are the equivalent of a blockchain banking system that supports capabilities such as the storage of cryptos, user keys to be specific, currency conversion from altcoin to altcoin, and also from crypto to fiat currency and vice versa.
+> **[3:39](https://www.linkedin.com/learning/blockchain-basics-14414119/the-blockchain-ecosystem?u=76281980&t=219)** Called exchanges, these services are the equivalent of a blockchain [[Banking]] system that supports capabilities such as the storage of cryptos, user keys to be specific, currency conversion from altcoin to altcoin, and also from crypto to fiat currency and vice versa.
 >
 > **[3:58](https://www.linkedin.com/learning/blockchain-basics-14414119/the-blockchain-ecosystem?u=76281980&t=238)** And also market analytics.
 >
@@ -876,7 +867,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/blockchain-basics-14414119/the-blockchain-ecosystem?u=76281980&t=246)** Recently, a specific type of crypto token, a non-fungible token, or NFT, has been used to support a new ecosystem for people who want to collect and trade in digital assets.
 >
-> **[4:20](https://www.linkedin.com/learning/blockchain-basics-14414119/the-blockchain-ecosystem?u=76281980&t=260)** It has also created a growing platform for digital artists to market and auction their products.
+> **[4:20](https://www.linkedin.com/learning/blockchain-basics-14414119/the-blockchain-ecosystem?u=76281980&t=260)** It has also created a growing platform for digital artists to market and auction their [[Microsoft Products|products]].
 >
 > **[4:27](https://www.linkedin.com/learning/blockchain-basics-14414119/the-blockchain-ecosystem?u=76281980&t=267)** Similar to the popularity of items such as physical baseball cards, collectors can buy and sell digital images, videos, and other unique digital assets.
 >
@@ -884,7 +875,7 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/blockchain-basics-14414119/the-blockchain-ecosystem?u=76281980&t=285)** And by early 2021, was worth well over $300 million.
 >
-> **[4:52](https://www.linkedin.com/learning/blockchain-basics-14414119/the-blockchain-ecosystem?u=76281980&t=292)** Blockchain technology benefits are also demonstrated in other areas, such as support for supply chain management, identity management, and in the authentication of a wide range of credentials, such as degrees, certificates, and licenses.
+> **[4:52](https://www.linkedin.com/learning/blockchain-basics-14414119/the-blockchain-ecosystem?u=76281980&t=292)** Blockchain technology benefits are also demonstrated in other areas, such as support for [[Supply Chain Management]], identity management, and in the authentication of a wide range of credentials, such as degrees, certificates, and licenses.
 >
 > **[5:09](https://www.linkedin.com/learning/blockchain-basics-14414119/the-blockchain-ecosystem?u=76281980&t=309)** Each of these areas is generating new providers, and enabling opportunities for existing vendors to diversify into servicing emerging requirements.
 >
@@ -894,23 +885,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (18), power (2), [[Cryptocurrency]] (2), [[Tokens]] (1), [[Ethereum]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (18), [[Cryptocurrency]] (2), [[Tokens]] (1), [[Ethereum]] (1), [[Banking]] (1)
 > **Analogies:** such as (7), for example (1), similar to (1)
 > **Env Vars:** nft (2)
 > **Definitions:** is a  (1), is called (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - it (1)
 
-#### Examples of blockchain in action today
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/examples-of-blockchain-in-action-today?u=76281980)
+#### [Examples of blockchain in action today](https://www.linkedin.com/learning/blockchain-basics-14414119/examples-of-blockchain-in-action-today?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/blockchain-basics-14414119/examples-of-blockchain-in-action-today?u=76281980&t=1)** - There's no shortage of speculation about how blockchains may be used in the future, so instead, let's look at actual blockchain uses today.
+> **[0:01](https://www.linkedin.com/learning/blockchain-basics-14414119/examples-of-blockchain-in-action-today?u=76281980&t=1)** - There's no shortage of speculation about how blockchains may be used in the future, so instead, let's look at actual [[Blockchain]] uses today.
 >
 > **[0:10](https://www.linkedin.com/learning/blockchain-basics-14414119/examples-of-blockchain-in-action-today?u=76281980&t=10)** Everledger is a platform that illuminates transparency in a number of industries.
 >
-> **[0:16](https://www.linkedin.com/learning/blockchain-basics-14414119/examples-of-blockchain-in-action-today?u=76281980&t=16)** Specifically, the solution manages characteristics of assets that include origin, sustainability footprint, and compliance standards.
+> **[0:16](https://www.linkedin.com/learning/blockchain-basics-14414119/examples-of-blockchain-in-action-today?u=76281980&t=16)** Specifically, the solution manages characteristics of assets that include origin, [[Sustainability]] footprint, and compliance standards.
 >
 > **[0:26](https://www.linkedin.com/learning/blockchain-basics-14414119/examples-of-blockchain-in-action-today?u=76281980&t=26)** It can be used to bring new insights to the life cycle of items such as art, batteries, diamonds, and luxury goods.
 >
@@ -994,7 +984,7 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/blockchain-basics-14414119/examples-of-blockchain-in-action-today?u=76281980&t=317)** Of course, citing one successful case study doesn't suggest blockchain will ultimately be the answer to all online voting needs.
 >
-> **[5:26](https://www.linkedin.com/learning/blockchain-basics-14414119/examples-of-blockchain-in-action-today?u=76281980&t=326)** For sure, voting within an organization is less challenging than what's required in large-scale public office elections.
+> **[5:26](https://www.linkedin.com/learning/blockchain-basics-14414119/examples-of-blockchain-in-action-today?u=76281980&t=326)** For sure, voting within an organization is less challenging than what's required in large-scale public [[Microsoft Office|office]] elections.
 >
 > **[5:34](https://www.linkedin.com/learning/blockchain-basics-14414119/examples-of-blockchain-in-action-today?u=76281980&t=334)** There's an ongoing and rigorous debate about whether blockchain will succeed in that context.
 >
@@ -1006,19 +996,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (15), [[Sustainability]] (1), [[Security]] (1), power (1), application (1)
+> **Frameworks & Libraries:** [[Blockchain]] (15), [[Sustainability]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** dao (3)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (2)
 > **Versions:** 1.8 (1)
 > **Speakers:** - there (1)
 
-#### The future of blockchain innovation
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980)
+#### [The future of blockchain innovation](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=0)** - Blockchain technology is a work in progress.
+> **[0:00](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=0)** - [[Blockchain]] technology is a work in progress.
 >
 > **[0:04](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=4)** Not only does the underlying technology continue to evolve and mature, but its features and applications are expanding rapidly.
 >
@@ -1028,7 +1017,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=25)** What's making blockchain particularly valuable is its use as a development platform.
 >
-> **[0:31](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=31)** The leader in this area is Ethereum, a blockchain I mentioned earlier that as a cryptocurrency called Ether, and a fully fledged decentralized programmable environment.
+> **[0:31](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=31)** The leader in this area is [[Ethereum]], a blockchain I mentioned earlier that as a [[Cryptocurrency]] called Ether, and a fully fledged decentralized programmable environment.
 >
 > **[0:45](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=45)** The term smart contract is used to describe code that runs on a blockchain.
 >
@@ -1036,7 +1025,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=57)** Unlike traditional contracts, execution does not rely on, for example, legal language interpretation, or the promptness and discretion of humans.
 >
-> **[1:07](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=67)** Rather, smart contracts run predictably and accurately.
+> **[1:07](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=67)** Rather, [[Smart Contracts]] run predictably and accurately.
 >
 > **[1:11](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=71)** An example of a smart contract in a supply chain would be the automatic confirmation of payment for goods once delivered, and the subsequent update of a stock inventory.
 >
@@ -1046,7 +1035,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=105)** Today, a growth area for blockchain technology is the ability to manage the authenticity and ownership of digital goods, such as photos and art.
 >
-> **[1:55](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=115)** Using non fungible tokens, or NFTs, these crypto token store details, such as the owner, and a description of the digital asset on a blockchain.
+> **[1:55](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=115)** Using non fungible [[Tokens]], or NFTs, these crypto token store details, such as the owner, and a description of the digital asset on a blockchain.
 >
 > **[2:05](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=125)** If the owner decides to sell the NFT, it will be transferred to a buyer using a smart contract.
 >
@@ -1060,9 +1049,9 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=169)** In any case, we'll all find out soon enough.
 >
-> **[2:53](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=173)** Programmable blockchains, and in particular, Ethereum, and its smart contracts are powering a completely new set of financial products and services.
+> **[2:53](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=173)** Programmable blockchains, and in particular, Ethereum, and its smart contracts are powering a completely new set of financial [[Microsoft Products|products]] and services.
 >
-> **[3:02](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=182)** Unlike the complexities of the traditional banking ecosystem that have many requirements and are not available to everyone, decentralized finance, or DeFi, only requires an internet connection.
+> **[3:02](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=182)** Unlike the complexities of the traditional [[Banking]] ecosystem that have many requirements and are not available to everyone, decentralized finance, or DeFi, only requires an internet connection.
 >
 > **[3:16](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=196)** DeFi services are global and open 24/7.
 >
@@ -1086,13 +1075,13 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=272)** This uses a cloud-based architecture to enable the rapid development of blockchain solutions.
 >
-> **[4:39](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=279)** It's based on the increasingly popular use of Software as a Service, or SaaS, and provides all capabilities on demand over the internet.
+> **[4:39](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=279)** It's based on the increasingly popular use of [[SaaS|Software as a Service]], or [[SaaS]], and provides all capabilities on demand over the internet.
 >
 > **[4:49](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=289)** In addition to quickly creating solutions, BaaS keeps maintenance low and provides easier access to state of the art blockchain functions.
 >
 > **[5:00](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=300)** Organizations can quickly build and deploy blockchain apps.
 >
-> **[5:05](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=305)** Providers such as Microsoft and Kaleido are offering full service BaaS solutions.
+> **[5:05](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=305)** Providers such as [[Microsoft]] and Kaleido are offering full service BaaS solutions.
 >
 > **[5:12](https://www.linkedin.com/learning/blockchain-basics-14414119/the-future-of-blockchain-innovation?u=76281980&t=312)** Assuming BaaS takes off, and the evidence suggests that will, this will likely result in the broader adoption of blockchain.
 >
@@ -1116,12 +1105,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Obstacles to broad blockchain adoption
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/obstacles-to-broad-blockchain-adoption?u=76281980)
+#### [Obstacles to broad blockchain adoption](https://www.linkedin.com/learning/blockchain-basics-14414119/obstacles-to-broad-blockchain-adoption?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-basics-14414119/obstacles-to-broad-blockchain-adoption?u=76281980&t=0)** - The present and future promise of blockchain technology has captivated a sizeable community of global enthusiasts and advocates.
+> **[0:00](https://www.linkedin.com/learning/blockchain-basics-14414119/obstacles-to-broad-blockchain-adoption?u=76281980&t=0)** - The present and future promise of [[Blockchain]] technology has captivated a sizeable community of global enthusiasts and advocates.
 >
 > **[0:10](https://www.linkedin.com/learning/blockchain-basics-14414119/obstacles-to-broad-blockchain-adoption?u=76281980&t=10)** The unique qualities of the software to solve difficult and complex issues, the innovative applications being deployed and its legions of users reflect the value that blockchain has already brought to the table.
 >
@@ -1143,7 +1131,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/blockchain-basics-14414119/obstacles-to-broad-blockchain-adoption?u=76281980&t=101)** The PwC survey identified a number of barriers to adoption.
 >
-> **[1:46](https://www.linkedin.com/learning/blockchain-basics-14414119/obstacles-to-broad-blockchain-adoption?u=76281980&t=106)** Those barriers included regulatory uncertainty, lack of trust among users, interoperability limitations, and scalability issues.
+> **[1:46](https://www.linkedin.com/learning/blockchain-basics-14414119/obstacles-to-broad-blockchain-adoption?u=76281980&t=106)** Those barriers included regulatory uncertainty, lack of trust among users, interoperability limitations, and [[Scalability]] issues.
 >
 > **[1:58](https://www.linkedin.com/learning/blockchain-basics-14414119/obstacles-to-broad-blockchain-adoption?u=76281980&t=118)** A similar survey conducted by global consulting firm Deloitte of 1,500 senior executives identified three top reasons for hesitant adoption of blockchain technology.
 >
@@ -1175,7 +1163,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/blockchain-basics-14414119/obstacles-to-broad-blockchain-adoption?u=76281980&t=228)** Perhaps the area contributing the greatest towards the gap in trust is a lack of understanding at the senior decision level about what blockchain is, and what value it can bring.
 >
-> **[4:02](https://www.linkedin.com/learning/blockchain-basics-14414119/obstacles-to-broad-blockchain-adoption?u=76281980&t=242)** For too many, blockchain means cryptocurrency, and more often than not, specifically, Bitcoin.
+> **[4:02](https://www.linkedin.com/learning/blockchain-basics-14414119/obstacles-to-broad-blockchain-adoption?u=76281980&t=242)** For too many, blockchain means [[Cryptocurrency]], and more often than not, specifically, Bitcoin.
 >
 > **[4:12](https://www.linkedin.com/learning/blockchain-basics-14414119/obstacles-to-broad-blockchain-adoption?u=76281980&t=252)** To be fair, explaining blockchain isn't easy.
 >
@@ -1187,7 +1175,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/blockchain-basics-14414119/obstacles-to-broad-blockchain-adoption?u=76281980&t=282)** As Kevin Kelly notes in his 2016 book, "The Inevitable," when executives were first introduced to the promise of the internet in the 1990s, many discounted it.
 >
-> **[4:54](https://www.linkedin.com/learning/blockchain-basics-14414119/obstacles-to-broad-blockchain-adoption?u=76281980&t=294)** They said that consumers would never trust it for buying products or for meeting their banking needs.
+> **[4:54](https://www.linkedin.com/learning/blockchain-basics-14414119/obstacles-to-broad-blockchain-adoption?u=76281980&t=294)** They said that consumers would never trust it for buying [[Microsoft Products|products]] or for meeting their [[Banking]] needs.
 >
 > **[5:02](https://www.linkedin.com/learning/blockchain-basics-14414119/obstacles-to-broad-blockchain-adoption?u=76281980&t=302)** Many thought that content would rename the domain of powerful media companies.
 >
@@ -1199,18 +1187,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (13), business (3), [[Scalability]] (2), [[Security]] (2), data (1)
+> **Frameworks & Libraries:** [[Blockchain]] (13), [[Scalability]] (2), [[Cryptocurrency]] (1), [[Microsoft Products|Products]] (1), [[Banking]] (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the last (1)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
 
-#### Challenges that blockchain presents to enterprises
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/challenges-that-blockchain-presents-to-enterprises?u=76281980)
+#### [Challenges that blockchain presents to enterprises](https://www.linkedin.com/learning/blockchain-basics-14414119/challenges-that-blockchain-presents-to-enterprises?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/blockchain-basics-14414119/challenges-that-blockchain-presents-to-enterprises?u=76281980&t=0)** - After several years of taking a conservative approach to blockchain technology use in the enterprise, business executives are turning a corner.
+> **[0:00](https://www.linkedin.com/learning/blockchain-basics-14414119/challenges-that-blockchain-presents-to-enterprises?u=76281980&t=0)** - After several years of taking a conservative approach to [[Blockchain]] technology use in the enterprise, business executives are turning a corner.
 >
 > **[0:10](https://www.linkedin.com/learning/blockchain-basics-14414119/challenges-that-blockchain-presents-to-enterprises?u=76281980&t=10)** Despite a number of valid reservations that I discussed in detail previously, leaders to varying degrees are ready to invest in blockchain experiments, prototypes, pilots, and even develop and deploy production solutions.
 >
@@ -1236,13 +1223,13 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/blockchain-basics-14414119/challenges-that-blockchain-presents-to-enterprises?u=76281980&t=107)** There are a growing number of avenues to acquire skills as the training marketplace for blockchain heats up.
 >
-> **[1:55](https://www.linkedin.com/learning/blockchain-basics-14414119/challenges-that-blockchain-presents-to-enterprises?u=76281980&t=115)** My related courses and other instructor offerings on LinkedIn Learning are excellent resources, too.
+> **[1:55](https://www.linkedin.com/learning/blockchain-basics-14414119/challenges-that-blockchain-presents-to-enterprises?u=76281980&t=115)** My related courses and other instructor offerings on [[LinkedIn]] Learning are excellent resources, too.
 >
 > **[2:02](https://www.linkedin.com/learning/blockchain-basics-14414119/challenges-that-blockchain-presents-to-enterprises?u=76281980&t=122)** Organizations will need to recognize that the advantages of blockchain may result in making some of their services and market value obsolete.
 >
 > **[2:13](https://www.linkedin.com/learning/blockchain-basics-14414119/challenges-that-blockchain-presents-to-enterprises?u=76281980&t=133)** While this is a feature of a lot of innovation and should drive a business to anticipate market and technological-driven change and evolve accordingly, it can, in the short term, be a source of significant anxiety.
 >
-> **[2:30](https://www.linkedin.com/learning/blockchain-basics-14414119/challenges-that-blockchain-presents-to-enterprises?u=76281980&t=150)** For example, if an organization demonstrates value through forms of intermediary services, blockchain solutions can make those intermediaries obsolete.
+> **[2:30](https://www.linkedin.com/learning/blockchain-basics-14414119/challenges-that-blockchain-presents-to-enterprises?u=76281980&t=150)** For example, if an organization demonstrates value through [[Forms]] of intermediary services, blockchain solutions can make those intermediaries obsolete.
 >
 > **[2:42](https://www.linkedin.com/learning/blockchain-basics-14414119/challenges-that-blockchain-presents-to-enterprises?u=76281980&t=162)** Peer-to-peer and smart contract-driven processes means skipping human-based facilitation services.
 >
@@ -1260,7 +1247,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/blockchain-basics-14414119/challenges-that-blockchain-presents-to-enterprises?u=76281980&t=234)** Contemporary information technology architecture is almost heterogeneous by definition.
 >
-> **[4:01](https://www.linkedin.com/learning/blockchain-basics-14414119/challenges-that-blockchain-presents-to-enterprises?u=76281980&t=241)** An enterprise taking the positive leap into blockchain territory will do so knowing that there are still insufficient regulations, many trust and privacy challenges, and a lot of risk in both the maturity of the technology and the cybersecurity vulnerabilities.
+> **[4:01](https://www.linkedin.com/learning/blockchain-basics-14414119/challenges-that-blockchain-presents-to-enterprises?u=76281980&t=241)** An enterprise taking the positive leap into blockchain territory will do so knowing that there are still insufficient regulations, many trust and [[Privacy]] challenges, and a lot of risk in both the maturity of the technology and the [[Cybersecurity]] vulnerabilities.
 >
 > **[4:20](https://www.linkedin.com/learning/blockchain-basics-14414119/challenges-that-blockchain-presents-to-enterprises?u=76281980&t=260)** These are not showstoppers, but they will shape how an enterprise might think about the blockchain solutions it pursues.
 >
@@ -1278,11 +1265,11 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/blockchain-basics-14414119/challenges-that-blockchain-presents-to-enterprises?u=76281980&t=325)** Today, in the opening decades of the 21st century, taking risks, embracing uncertainty, and making bets on where the market is going is just the nature of business.
 >
-> **[5:38](https://www.linkedin.com/learning/blockchain-basics-14414119/challenges-that-blockchain-presents-to-enterprises?u=76281980&t=338)** Those that are agile, that make informed choices, and get a bit of luck along the way may well reap the biggest rewards.
+> **[5:38](https://www.linkedin.com/learning/blockchain-basics-14414119/challenges-that-blockchain-presents-to-enterprises?u=76281980&t=338)** Those that are [[Agile Development|agile]], that make informed choices, and get a bit of luck along the way may well reap the biggest rewards.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (13), business (4), [[LinkedIn]] (1), feature (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (13), [[LinkedIn]] (1), [[Forms]] (1), [[Privacy]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is a  (2)
@@ -1293,8 +1280,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Taking the next steps with blockchain
-> [LinkedIn Learning](https://www.linkedin.com/learning/blockchain-basics-14414119/taking-the-next-steps-with-blockchain?u=76281980)
+#### [Taking the next steps with blockchain](https://www.linkedin.com/learning/blockchain-basics-14414119/taking-the-next-steps-with-blockchain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1308,7 +1294,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/blockchain-basics-14414119/taking-the-next-steps-with-blockchain?u=76281980&t=40)** No doubt, there will be many twists and turns along the way, just as there have been so far.
 >
-> **[0:47](https://www.linkedin.com/learning/blockchain-basics-14414119/taking-the-next-steps-with-blockchain?u=76281980&t=47)** What we do know is that the core technology that has powered Bitcoin from day one, the underlying distributed ledger called blockchain, has emerged as its own force, with the potential to be even more impactful and disruptive than the life it gave to cryptocurrency.
+> **[0:47](https://www.linkedin.com/learning/blockchain-basics-14414119/taking-the-next-steps-with-blockchain?u=76281980&t=47)** What we do know is that the core technology that has powered Bitcoin from day one, the underlying distributed ledger called [[Blockchain]], has emerged as its own force, with the potential to be even more impactful and disruptive than the life it gave to [[Cryptocurrency]].
 >
 > **[1:08](https://www.linkedin.com/learning/blockchain-basics-14414119/taking-the-next-steps-with-blockchain?u=76281980&t=68)** Despite its existing challenges and some adoption hesitancy, which continues to shrink, blockchain innovation is growing its capabilities and increasing its value.
 >
@@ -1324,7 +1310,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/blockchain-basics-14414119/taking-the-next-steps-with-blockchain?u=76281980&t=124)** What should you do next?
 >
-> **[2:07](https://www.linkedin.com/learning/blockchain-basics-14414119/taking-the-next-steps-with-blockchain?u=76281980&t=127)** LinkedIn Learning offers many courses on blockchain and cryptocurrencies, including many that I've created for you.
+> **[2:07](https://www.linkedin.com/learning/blockchain-basics-14414119/taking-the-next-steps-with-blockchain?u=76281980&t=127)** [[LinkedIn]] Learning offers many courses on blockchain and cryptocurrencies, including many that I've created for you.
 >
 > **[2:15](https://www.linkedin.com/learning/blockchain-basics-14414119/taking-the-next-steps-with-blockchain?u=76281980&t=135)** I suggest taking [[Blockchain- Beyond the Basics]] next.
 >
@@ -1332,9 +1318,9 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/blockchain-basics-14414119/taking-the-next-steps-with-blockchain?u=76281980&t=147)** After that, I suggest taking my Cryptocurrency Foundations course.
 >
-> **[2:33](https://www.linkedin.com/learning/blockchain-basics-14414119/taking-the-next-steps-with-blockchain?u=76281980&t=153)** Beyond that, you can take a look at Securing Cryptocurrencies and my course on non-fungible tokens, or NFTs.
+> **[2:33](https://www.linkedin.com/learning/blockchain-basics-14414119/taking-the-next-steps-with-blockchain?u=76281980&t=153)** Beyond that, you can take a look at Securing Cryptocurrencies and my course on non-fungible [[Tokens]], or NFTs.
 >
-> **[2:41](https://www.linkedin.com/learning/blockchain-basics-14414119/taking-the-next-steps-with-blockchain?u=76281980&t=161)** You'll also find excellent courses from other instructors on Bitcoin, Ethereum, Solidity, which is a Ethereum programming language, and much more.
+> **[2:41](https://www.linkedin.com/learning/blockchain-basics-14414119/taking-the-next-steps-with-blockchain?u=76281980&t=161)** You'll also find excellent courses from other instructors on Bitcoin, [[Ethereum]], [[Solidity]], which is a Ethereum programming language, and much more.
 >
 > **[2:53](https://www.linkedin.com/learning/blockchain-basics-14414119/taking-the-next-steps-with-blockchain?u=76281980&t=173)** Blockchain and its associated ecosystem of technologies and required skills will provide opportunities for organizations and great career options for individuals like you.
 >
@@ -1346,7 +1332,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (10), [[Cryptocurrency]] (2), next (2), [[Ethereum]] (2), power (1)
+> **Frameworks & Libraries:** [[Blockchain]] (10), [[Cryptocurrency]] (2), [[Ethereum]] (2), [[LinkedIn]] (1), [[Tokens]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** notion (1)
 > **Definitions:** is a  (1)

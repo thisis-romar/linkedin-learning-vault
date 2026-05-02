@@ -19,7 +19,7 @@ tags:
   - topic/network-and-system-administration
   - topic/data-science
   - topic/security
-course_count: 515
+course_count: 518
 created: 2026-05-02
 ---
 
@@ -27,7 +27,7 @@ created: 2026-05-02
 
 # Microsoft Office
 
-> **Type:** Concept | **Courses:** 515 | **Topics:** [[Cloud Computing]], [[Software Development]], [[Network and System Administration]], [[Data Science]], [[Cybersecurity]]
+> **Type:** Concept | **Courses:** 518 | **Topics:** [[Cloud Computing]], [[Software Development]], [[Network and System Administration]], [[Data Science]], [[Cybersecurity]]
 
 ## Courses
 
@@ -42,7 +42,7 @@ created: 2026-05-02
 9. [[Learning SharePoint Online]] — 29 mentions
 10. [[Complete Guide to Tableau for Data Scientists]] — 29 mentions
 
-> [!note]- See all 515 courses
+> [!note]- See all 518 courses
 > 11. [[Introduction To Microsoft 365 For It Pros]] — 28 mentions
 > 12. [[IT Support for a Hybrid Workforce]] — 24 mentions
 > 13. [[Networking Foundations- Local Area Networks (LANs)]] — 23 mentions
@@ -58,7 +58,7 @@ created: 2026-05-02
 > 23. [[OneNote for Windows 10 Essential Training]] — 16 mentions
 > 24. [[Tableau Essential Training]] — 16 mentions
 > 25. [[Cisco Networking Foundations- Wireless Networks, Services, Security, and Virtualization]] — 16 mentions
-> 26. [[Azure Understanding The Big Picture]] — 14 mentions
+> 26. [[Azure Understanding The Big Picture]] — 15 mentions
 > 27. [[IT Service Desk Careers and Certifications]] — 13 mentions
 > 28. [[PowerShell for Microsoft 365 Administration]] — 13 mentions
 > 29. [[Introduction To Cloud Computing For It Pros]] — 13 mentions
@@ -76,22 +76,22 @@ created: 2026-05-02
 > 41. [[Creating Accessible PDFs]] — 10 mentions
 > 42. [[Networking Foundations- IP Addressing]] — 10 mentions
 > 43. [[Database Foundations- Data Structures]] — 10 mentions
-> 44. [[Microsoft Office Specialist- Excel Associate (Microsoft 365 Apps) Cert Prep]] — 10 mentions
-> 45. [[Windows Server 2022- Install and Configure Active Directory]] — 10 mentions
-> 46. [[Protecting Yourself as a Content Creator]] — 9 mentions
-> 47. [[The State of AI and Copyright]] — 9 mentions
-> 48. [[Microsoft Collaboration- SharePoint, Teams, Groups, and Yammer]] — 9 mentions
-> 49. [[Design a Cloud Migration Strategy]] — 9 mentions
-> 50. [[Data Science Team Lifecycle Management]] — 9 mentions
-> 51. [[Cybersecurity At Work]] — 9 mentions
-> 52. [[Intermediate Sql For Data Scientists]] — 9 mentions
-> 53. [[Leading Remote Projects and Virtual Teams]] — 9 mentions
-> 54. [[Microsoft Teams Essential Training]] — 8 mentions
-> 55. [[Google Drive Essential Training (2023)]] — 8 mentions
-> 56. [[De-Escalating Conversations for Customer Service]] — 8 mentions
-> 57. [[Learning Microsoft 365 Copilot for Work]] — 8 mentions
-> 58. [[Tips for Writing Business Emails]] — 8 mentions
-> 59. [[Microsoft Azure- Security Concepts]] — 8 mentions
+> 44. [[Leading Remote Projects and Virtual Teams]] — 10 mentions
+> 45. [[Microsoft Office Specialist- Excel Associate (Microsoft 365 Apps) Cert Prep]] — 10 mentions
+> 46. [[Windows Server 2022- Install and Configure Active Directory]] — 10 mentions
+> 47. [[Protecting Yourself as a Content Creator]] — 9 mentions
+> 48. [[The State of AI and Copyright]] — 9 mentions
+> 49. [[Microsoft Collaboration- SharePoint, Teams, Groups, and Yammer]] — 9 mentions
+> 50. [[Design a Cloud Migration Strategy]] — 9 mentions
+> 51. [[Data Science Team Lifecycle Management]] — 9 mentions
+> 52. [[Cybersecurity At Work]] — 9 mentions
+> 53. [[Microsoft Azure- Security Concepts]] — 9 mentions
+> 54. [[Intermediate Sql For Data Scientists]] — 9 mentions
+> 55. [[Microsoft Teams Essential Training]] — 8 mentions
+> 56. [[Google Drive Essential Training (2023)]] — 8 mentions
+> 57. [[De-Escalating Conversations for Customer Service]] — 8 mentions
+> 58. [[Learning Microsoft 365 Copilot for Work]] — 8 mentions
+> 59. [[Tips for Writing Business Emails]] — 8 mentions
 > 60. [[Cisco Networking Foundations Fundamentals Of Cisco Networking]] — 8 mentions
 > 61. [[Windows 10- Manage and Maintain Windows 10]] — 8 mentions
 > 62. [[Introducing Robotic Process Automation]] — 7 mentions
@@ -106,44 +106,44 @@ created: 2026-05-02
 > 71. [[Getting Started with Autonomous Agents in Copilot Studio (No Code Required)]] — 6 mentions
 > 72. [[Security Testing Essential Training (2022)]] — 6 mentions
 > 73. [[Learning Word Online (Microsoft 365)]] — 6 mentions
-> 74. [[Interpersonal Communication]] — 6 mentions
-> 75. [[Team Collaboration in Microsoft 365]] — 6 mentions
-> 76. [[How to Boost Your Productivity with AI Tools]] — 6 mentions
-> 77. [[Learning PowerShell]] — 6 mentions
-> 78. [[Aws Essential Training For Developers]] — 6 mentions
-> 79. [[Excel and PowerPoint- Creating High-Impact Financial Presentations]] — 6 mentions
-> 80. [[Slack Essential Training]] — 6 mentions
-> 81. [[Learning Data Analytics Part 2- Extending and Applying Core Knowledge]] — 6 mentions
-> 82. [[From Excel to SQL]] — 6 mentions
-> 83. [[Six Sigma Foundations]] — 6 mentions
-> 84. [[Autocad 2022 Essential Training]] — 6 mentions
-> 85. [[Windows Server 2019 Essential Training]] — 6 mentions
-> 86. [[Jira- Advanced Administration]] — 6 mentions
-> 87. [[Windows 10- Administration]] — 5 mentions
-> 88. [[Building Trust]] — 5 mentions
-> 89. [[IT Security Foundations- Operating System Security]] — 5 mentions
-> 90. [[Networking Foundations Networking Basics]] — 5 mentions
+> 74. [[Networking Foundations Networking Basics]] — 6 mentions
+> 75. [[Interpersonal Communication]] — 6 mentions
+> 76. [[Team Collaboration in Microsoft 365]] — 6 mentions
+> 77. [[How to Boost Your Productivity with AI Tools]] — 6 mentions
+> 78. [[Learning PowerShell]] — 6 mentions
+> 79. [[Aws Essential Training For Developers]] — 6 mentions
+> 80. [[Excel and PowerPoint- Creating High-Impact Financial Presentations]] — 6 mentions
+> 81. [[Slack Essential Training]] — 6 mentions
+> 82. [[Learning Data Analytics Part 2- Extending and Applying Core Knowledge]] — 6 mentions
+> 83. [[From Excel to SQL]] — 6 mentions
+> 84. [[Six Sigma Foundations]] — 6 mentions
+> 85. [[Autocad 2022 Essential Training]] — 6 mentions
+> 86. [[Windows Server 2019 Essential Training]] — 6 mentions
+> 87. [[Jira- Advanced Administration]] — 6 mentions
+> 88. [[Windows 10- Administration]] — 5 mentions
+> 89. [[Building Trust]] — 5 mentions
+> 90. [[IT Security Foundations- Operating System Security]] — 5 mentions
 > 91. [[Supporting Accessibility in a Hybrid Workplace]] — 5 mentions
 > 92. [[Azure Cloud Fundamentals- Explore Cloud Services]] — 5 mentions
-> 93. [[Copilot in Outlook- Maximize Your Workday Efficiency (2025)]] — 5 mentions
-> 94. [[Windows Server 2022 Essential Training]] — 5 mentions
-> 95. [[AI in Business Essential Training]] — 5 mentions
-> 96. [[DevOps Tips]] — 5 mentions
-> 97. [[Excel- PivotTables in Depth]] — 5 mentions
-> 98. [[Starting Your Career As A Financial Analyst]] — 5 mentions
-> 99. [[Learning Microsoft 365 Copilot for Work (2024)]] — 5 mentions
-> 100. [[Creating Interactive Tableau Dashboards]] — 5 mentions
-> 101. [[WordPress Ecommerce- WooCommerce]] — 5 mentions
-> 102. [[Hybrid Multicloud Networking- Practical Concepts]] — 4 mentions
-> 103. [[Advanced Accessible PDFs]] — 4 mentions
-> 104. [[Tech Career Skills- Communication for Developers]] — 4 mentions
-> 105. [[IT and Cybersecurity Risk Management Essential Training]] — 4 mentions
-> 106. [[Computer Components and Peripherals for IT Technicians]] — 4 mentions
-> 107. [[IT Security Foundations- Network Security]] — 4 mentions
-> 108. [[Data Science Foundations- Fundamentals]] — 4 mentions
-> 109. [[Effectively Leading Digital Transformation]] — 4 mentions
-> 110. [[Data Steward Foundations]] — 4 mentions
-> 111. [[Azure Networking and Security for Beginners- Tools and Services]] — 4 mentions
+> 93. [[Azure Networking and Security for Beginners- Tools and Services]] — 5 mentions
+> 94. [[Copilot in Outlook- Maximize Your Workday Efficiency (2025)]] — 5 mentions
+> 95. [[Windows Server 2022 Essential Training]] — 5 mentions
+> 96. [[AI in Business Essential Training]] — 5 mentions
+> 97. [[DevOps Tips]] — 5 mentions
+> 98. [[Excel- PivotTables in Depth]] — 5 mentions
+> 99. [[Starting Your Career As A Financial Analyst]] — 5 mentions
+> 100. [[Learning Microsoft 365 Copilot for Work (2024)]] — 5 mentions
+> 101. [[Creating Interactive Tableau Dashboards]] — 5 mentions
+> 102. [[WordPress Ecommerce- WooCommerce]] — 5 mentions
+> 103. [[Hybrid Multicloud Networking- Practical Concepts]] — 4 mentions
+> 104. [[Advanced Accessible PDFs]] — 4 mentions
+> 105. [[Tech Career Skills- Communication for Developers]] — 4 mentions
+> 106. [[IT and Cybersecurity Risk Management Essential Training]] — 4 mentions
+> 107. [[Computer Components and Peripherals for IT Technicians]] — 4 mentions
+> 108. [[IT Security Foundations- Network Security]] — 4 mentions
+> 109. [[Data Science Foundations- Fundamentals]] — 4 mentions
+> 110. [[Effectively Leading Digital Transformation]] — 4 mentions
+> 111. [[Data Steward Foundations]] — 4 mentions
 > 112. [[Cybersecurity for Executives]] — 4 mentions
 > 113. [[Planning for Microsoft Entra ID]] — 4 mentions
 > 114. [[Building a Cybersecurity Awareness Program]] — 4 mentions
@@ -494,68 +494,71 @@ created: 2026-05-02
 > 459. [[Privacy Strategies for Business Leaders]] — 1 mentions
 > 460. [[Azure Essential Training for Developers]] — 1 mentions
 > 461. [[Azure Quick Tips for Developers]] — 1 mentions
-> 462. [[Building an Ethereum Blockchain App- 3 Ethereum Development]] — 1 mentions
-> 463. [[Creating a High Performance Culture]] — 1 mentions
-> 464. [[AI in Cybersecurity- The Future of Red Teaming and Blue Teaming]] — 1 mentions
-> 465. [[Nail Your DevOps Interview]] — 1 mentions
-> 466. [[Machine Learning Foundations- Statistics]] — 1 mentions
-> 467. [[Supply Chain And Operations Careers Certification Tips And Tricks]] — 1 mentions
-> 468. [[Business Acumen for Project Managers]] — 1 mentions
-> 469. [[Project Management- International Projects]] — 1 mentions
-> 470. [[Project Management Foundations- Integration]] — 1 mentions
-> 471. [[Counterintuitive Leadership Strategies for a VUCA (Volatile, Uncertain, Complex, Ambiguous) Environment]] — 1 mentions
-> 472. [[Financial Modeling Foundations (2018)]] — 1 mentions
-> 473. [[Excel Modeling Tips and Tricks]] — 1 mentions
-> 474. [[Understanding Ai S Global Impact Governance Equity And Responsibility]] — 1 mentions
-> 475. [[Responsible AI- Global Risks, Governance, and Human Oversight]] — 1 mentions
-> 476. [[Kubernetes- Microservices]] — 1 mentions
-> 477. [[PHP with MySQL Essential Training- 2 Build a CMS]] — 1 mentions
-> 478. [[Cloud NoSQL for SQL Professionals]] — 1 mentions
-> 479. [[Excel- Introduction to Charts and Graphs]] — 1 mentions
-> 480. [[AI Pricing and ROI- A Technical Breakdown]] — 1 mentions
-> 481. [[AI Agents Made Simple- Your Zero-to-Hero Guide to Prompting for Work Automation]] — 1 mentions
-> 482. [[IT Service Desk- Monitoring and Metrics Fundamentals]] — 1 mentions
-> 483. [[C Plus Plus Essential Training]] — 1 mentions
-> 484. [[Miro for UX- Brainstorming and Collaboration]] — 1 mentions
-> 485. [[Get a Remote Data Science Job]] — 1 mentions
-> 486. [[Future Proofing Your Data Science Career]] — 1 mentions
-> 487. [[Programming Foundations- Web Security]] — 1 mentions
-> 488. [[Machine Learning and AI Foundations- Classification Modeling]] — 1 mentions
-> 489. [[Machine Learning and AI- Advanced Decision Trees with SPSS]] — 1 mentions
-> 490. [[Jira- Managing Custom Workflows]] — 1 mentions
-> 491. [[Marketing Foundations]] — 1 mentions
-> 492. [[Marketing Foundations- Customer Decision Journey]] — 1 mentions
-> 493. [[OWASP Top 10- -1 Broken Access Control and -2 Cryptographic Failures]] — 1 mentions
-> 494. [[OWASP Top 10- -7 Identification and Authentication Failures and -8 Software and Data Integrity Failures]] — 1 mentions
-> 495. [[OWASP Top 10- -9 Security Logging and Monitoring Failures and -10 Server-Side Request Forgery]] — 1 mentions
-> 496. [[LPIC-1 Exam 102 (Version 5.0) Cert Prep]] — 1 mentions
-> 497. [[R Tidyverse Applications]] — 1 mentions
-> 498. [[Blockchain Programming in iOS Using Swift]] — 1 mentions
-> 499. [[AWS- Monitoring, Logging, and Remediation (2021)]] — 1 mentions
-> 500. [[Electronics Foundations- Basic Circuits]] — 1 mentions
-> 501. [[Windows Server 2022- Installation and Configuration]] — 1 mentions
-> 502. [[Performance Tuning in Spring Apps]] — 1 mentions
-> 503. [[Software Testing- Planning Tests for Mobile]] — 1 mentions
-> 504. [[Using SQL with Python]] — 1 mentions
-> 505. [[Intermediate SQL- Data Reporting and Analysis]] — 1 mentions
-> 506. [[Project Management Simplified]] — 1 mentions
-> 507. [[Cloud Computing Understanding Core Concepts]] — 1 mentions
-> 508. [[Business Finance Introduction To Financial Modeling]] — 1 mentions
-> 509. [[The Importance of Biodiversity to Business]] — 1 mentions
-> 510. [[ASP.NET Core- Token-Based Authentication]] — 1 mentions
-> 511. [[Excel Quick Tips (2023)]] — 1 mentions
-> 512. [[Learning Data Visualization]] — 1 mentions
-> 513. [[The OWASP Top 10 for Large Language Model (LLM) Applications- An Overview]] — 1 mentions
-> 514. [[Learning Autopsy for Digital Forensics]] — 1 mentions
-> 515. [[Empathy in UX Design]] — 1 mentions
+> 462. [[Azure DevOps for Beginners]] — 1 mentions
+> 463. [[Building an Ethereum Blockchain App- 3 Ethereum Development]] — 1 mentions
+> 464. [[Creating a High Performance Culture]] — 1 mentions
+> 465. [[AI in Cybersecurity- The Future of Red Teaming and Blue Teaming]] — 1 mentions
+> 466. [[Nail Your DevOps Interview]] — 1 mentions
+> 467. [[Machine Learning Foundations- Statistics]] — 1 mentions
+> 468. [[Supply Chain And Operations Careers Certification Tips And Tricks]] — 1 mentions
+> 469. [[Business Acumen for Project Managers]] — 1 mentions
+> 470. [[Project Management- International Projects]] — 1 mentions
+> 471. [[Project Management Foundations- Integration]] — 1 mentions
+> 472. [[Counterintuitive Leadership Strategies for a VUCA (Volatile, Uncertain, Complex, Ambiguous) Environment]] — 1 mentions
+> 473. [[Financial Modeling Foundations (2018)]] — 1 mentions
+> 474. [[Excel Modeling Tips and Tricks]] — 1 mentions
+> 475. [[Understanding Ai S Global Impact Governance Equity And Responsibility]] — 1 mentions
+> 476. [[Responsible AI- Global Risks, Governance, and Human Oversight]] — 1 mentions
+> 477. [[Kubernetes- Microservices]] — 1 mentions
+> 478. [[PHP with MySQL Essential Training- 2 Build a CMS]] — 1 mentions
+> 479. [[Transition from Data Science to Data Engineering]] — 1 mentions
+> 480. [[Cloud NoSQL for SQL Professionals]] — 1 mentions
+> 481. [[Excel- Introduction to Charts and Graphs]] — 1 mentions
+> 482. [[AI Pricing and ROI- A Technical Breakdown]] — 1 mentions
+> 483. [[AI Agents Made Simple- Your Zero-to-Hero Guide to Prompting for Work Automation]] — 1 mentions
+> 484. [[IT Service Desk- Monitoring and Metrics Fundamentals]] — 1 mentions
+> 485. [[C Plus Plus Essential Training]] — 1 mentions
+> 486. [[Miro for UX- Brainstorming and Collaboration]] — 1 mentions
+> 487. [[Get a Remote Data Science Job]] — 1 mentions
+> 488. [[Future Proofing Your Data Science Career]] — 1 mentions
+> 489. [[Programming Foundations- Web Security]] — 1 mentions
+> 490. [[Machine Learning and AI Foundations- Classification Modeling]] — 1 mentions
+> 491. [[Machine Learning and AI- Advanced Decision Trees with SPSS]] — 1 mentions
+> 492. [[Jira- Basic Administration]] — 1 mentions
+> 493. [[Jira- Managing Custom Workflows]] — 1 mentions
+> 494. [[Marketing Foundations]] — 1 mentions
+> 495. [[Marketing Foundations- Customer Decision Journey]] — 1 mentions
+> 496. [[OWASP Top 10- -1 Broken Access Control and -2 Cryptographic Failures]] — 1 mentions
+> 497. [[OWASP Top 10- -7 Identification and Authentication Failures and -8 Software and Data Integrity Failures]] — 1 mentions
+> 498. [[OWASP Top 10- -9 Security Logging and Monitoring Failures and -10 Server-Side Request Forgery]] — 1 mentions
+> 499. [[LPIC-1 Exam 102 (Version 5.0) Cert Prep]] — 1 mentions
+> 500. [[R Tidyverse Applications]] — 1 mentions
+> 501. [[Blockchain Programming in iOS Using Swift]] — 1 mentions
+> 502. [[AWS- Monitoring, Logging, and Remediation (2021)]] — 1 mentions
+> 503. [[Electronics Foundations- Basic Circuits]] — 1 mentions
+> 504. [[Windows Server 2022- Installation and Configuration]] — 1 mentions
+> 505. [[Performance Tuning in Spring Apps]] — 1 mentions
+> 506. [[Software Testing- Planning Tests for Mobile]] — 1 mentions
+> 507. [[Using SQL with Python]] — 1 mentions
+> 508. [[Intermediate SQL- Data Reporting and Analysis]] — 1 mentions
+> 509. [[Project Management Simplified]] — 1 mentions
+> 510. [[Cloud Computing Understanding Core Concepts]] — 1 mentions
+> 511. [[Business Finance Introduction To Financial Modeling]] — 1 mentions
+> 512. [[The Importance of Biodiversity to Business]] — 1 mentions
+> 513. [[ASP.NET Core- Token-Based Authentication]] — 1 mentions
+> 514. [[Excel Quick Tips (2023)]] — 1 mentions
+> 515. [[Learning Data Visualization]] — 1 mentions
+> 516. [[The OWASP Top 10 for Large Language Model (LLM) Applications- An Overview]] — 1 mentions
+> 517. [[Learning Autopsy for Digital Forensics]] — 1 mentions
+> 518. [[Empathy in UX Design]] — 1 mentions
 
 ## Learning Paths
 
 1. [[Optimizing Enterprise Security and Productivity Using Microsoft 365]] — 196 total mentions
-2. [[The Top Skills IT Professionals Have Right Now]] — 109 total mentions
+2. [[The Top Skills IT Professionals Have Right Now]] — 110 total mentions
 3. [[Digital Transformation in Practice- Virtual Collaboration Tools]] — 98 total mentions
 4. [[Working Smarter with Microsoft 365]] — 76 total mentions
-5. [[Network Administration- Build Core Skills for Network Management and Security]] — 73 total mentions
+5. [[Network Administration- Build Core Skills for Network Management and Security]] — 74 total mentions
 6. [[Succeed as a Remote Software Developer]] — 68 total mentions
 7. [[Career Essentials in Administrative Assistance by Microsoft and LinkedIn]] — 64 total mentions
 8. [[Explore a Career in IT Support]] — 62 total mentions

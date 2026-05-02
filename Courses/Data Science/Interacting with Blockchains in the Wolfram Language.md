@@ -65,18 +65,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Blockchain data
-> [LinkedIn Learning](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-data?u=76281980)
+#### [Blockchain data](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:02](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-data?u=76281980&t=2)** Thank you for joining us today.
 >
-> **[0:03](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-data?u=76281980&t=3)** My name is Christian and I'm going to show you how to interact with different blockchains using the Wolfram Language.
+> **[0:03](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-data?u=76281980&t=3)** My name is Christian and I'm going to show you how to interact with different blockchains using the [[Wolfram Language]].
 >
 > **[0:11](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-data?u=76281980&t=11)** All right.
 >
-> **[0:12](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-data?u=76281980&t=12)** So with the Wolfram Language, you can read and you can write the blockchain.
+> **[0:12](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-data?u=76281980&t=12)** So with the Wolfram Language, you can read and you can write the [[Blockchain]].
 >
 > **[0:19](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-data?u=76281980&t=19)** So let me start with the read-only operations to you explain the different things you can do with it.
 >
@@ -102,7 +101,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-data?u=76281980&t=74)** So with the BlockchainBase option, you can specify which blockchain you want to connect with.
 >
-> **[1:24](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-data?u=76281980&t=84)** So let's say if we choose the Ethereum blockchain.
+> **[1:24](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-data?u=76281980&t=84)** So let's say if we choose the [[Ethereum]] blockchain.
 >
 > **[1:33](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-data?u=76281980&t=93)** You'll see here the properties of this.
 >
@@ -142,8 +141,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Blockchain block data
-> [LinkedIn Learning](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-block-data?u=76281980)
+#### [Blockchain block data](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-block-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -153,7 +151,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-block-data?u=76281980&t=7)** The BlockchainBlockData function receives and a block height or a block hash and displays information about that specific block.
 >
-> **[0:19](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-block-data?u=76281980&t=19)** So in this case, we are using the default blockchain, which is the Bitcoin blockchain.
+> **[0:19](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-block-data?u=76281980&t=19)** So in this case, we are using the default [[Blockchain]], which is the Bitcoin blockchain.
 >
 > **[0:30](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-block-data?u=76281980&t=30)** If you want to see the default blockchain, remember we had this BlockchainBase option.
 >
@@ -161,7 +159,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-block-data?u=76281980&t=45)** So the automatic, the automatic value is a Bitcoin blockchain, as you can see here.
 >
-> **[0:58](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-block-data?u=76281980&t=58)** So if I change this, let's say to Ethereum.
+> **[0:58](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-block-data?u=76281980&t=58)** So if I change this, let's say to [[Ethereum]].
 >
 > **[1:04](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-block-data?u=76281980&t=64)** Now I don't have to use the BlockchainBase option anymore because it will default to Ethereum.
 >
@@ -265,7 +263,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (11), [[Ethereum]] (4), data (1)
+> **Frameworks & Libraries:** [[Blockchain]] (11), [[Ethereum]] (4)
 > **Analogies:** for example (4)
 > **UI Navigation:** go to (3)
 > **Env Vars:** ark (2)
@@ -277,8 +275,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Blockchain transaction data
-> [LinkedIn Learning](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-transaction-data?u=76281980)
+#### [Blockchain transaction data](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-transaction-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -310,9 +307,9 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-transaction-data?u=76281980&t=65)** All right.
 >
-> **[1:07](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-transaction-data?u=76281980&t=67)** So again, I have information about this transaction. Once again, every blockchain is different.
+> **[1:07](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-transaction-data?u=76281980&t=67)** So again, I have information about this transaction. Once again, every [[Blockchain]] is different.
 >
-> **[1:14](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-transaction-data?u=76281980&t=74)** You can go to, for example, let's go to the Ethereum blockchain and then BlockchainTransactionData.
+> **[1:14](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-transaction-data?u=76281980&t=74)** You can go to, for example, let's go to the [[Ethereum]] blockchain and then BlockchainTransactionData.
 >
 > **[1:21](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-transaction-data?u=76281980&t=81)** You see here this is for Ethereum.
 >
@@ -364,7 +361,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (3), [[Ethereum]] (2), data (1)
+> **Frameworks & Libraries:** [[Blockchain]] (3), [[Ethereum]] (2)
 > **Env Vars:** ark (2)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
@@ -375,14 +372,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Blockchain address data
-> [LinkedIn Learning](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blackchain-address-data?u=76281980)
+#### [Blockchain address data](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blackchain-address-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:02](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blackchain-address-data?u=76281980&t=2)** We can extract data about addresses.
 >
-> **[0:06](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blackchain-address-data?u=76281980&t=6)** So the addresses are handled differently in each blockchain.
+> **[0:06](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blackchain-address-data?u=76281980&t=6)** So the addresses are handled differently in each [[Blockchain]].
 >
 > **[0:11](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blackchain-address-data?u=76281980&t=11)** But we try to have a consistent design for this to work with everything.
 >
@@ -392,7 +388,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blackchain-address-data?u=76281980&t=27)** I have a hash here.
 >
-> **[0:30](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blackchain-address-data?u=76281980&t=30)** So this is from the Ethereum blockchain.
+> **[0:30](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blackchain-address-data?u=76281980&t=30)** So this is from the [[Ethereum]] blockchain.
 >
 > **[0:36](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blackchain-address-data?u=76281980&t=36)** So if you see this here, you see a lot of properties, and you see that this transaction has a sender and a receiver.
 >
@@ -444,7 +440,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethereum]] (5), [[Blockchain]] (3), data (1)
+> **Frameworks & Libraries:** [[Ethereum]] (5), [[Blockchain]] (3)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (3)
 > **Documentation:** the documentation (1)
@@ -454,14 +450,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Blockchain token data
-> [LinkedIn Learning](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-token-data?u=76281980)
+#### [Blockchain token data](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-token-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-token-data?u=76281980&t=0)** All right.
 >
-> **[0:00](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-token-data?u=76281980&t=0)** So since we are working with Ethereum blockchain, let's try one function that currently just works with the Ethereum-type blockchains.
+> **[0:00](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-token-data?u=76281980&t=0)** So since we are working with [[Ethereum]] [[Blockchain]], let's try one function that currently just works with the Ethereum-type blockchains.
 >
 > **[0:15](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-token-data?u=76281980&t=15)** In this case, we support only two blockchains based on Ethereum.
 >
@@ -469,7 +464,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-token-data?u=76281980&t=27)** All right.
 >
-> **[0:28](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-token-data?u=76281980&t=28)** So with the BlockchainTokenData, you get information about tokens and like why we don't support Bitcoin here, because Bitcoin doesn't support tokens.
+> **[0:28](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-token-data?u=76281980&t=28)** So with the BlockchainTokenData, you get information about [[Tokens]] and like why we don't support Bitcoin here, because Bitcoin doesn't support tokens.
 >
 > **[0:46](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-token-data?u=76281980&t=46)** So currently we only have, in the blockchains, the only ones that support tokens are the Ethereum-based blockchains.
 >
@@ -555,16 +550,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Blockchain contract value
-> [LinkedIn Learning](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-contract-value?u=76281980)
+#### [Blockchain contract value](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-contract-value?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-contract-value?u=76281980&t=1)** Another function that works just for Ethereum, well, Ethereum-based blockchains.
+> **[0:01](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-contract-value?u=76281980&t=1)** Another function that works just for [[Ethereum]], well, Ethereum-based blockchains.
 >
 > **[0:12](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-contract-value?u=76281980&t=12)** It's the BlockchainContractValue function.
 >
-> **[0:18](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-contract-value?u=76281980&t=18)** So with this function you can call a specific function in a smart contract deployed to the Ethereum blockchain.
+> **[0:18](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-contract-value?u=76281980&t=18)** So with this function you can call a specific function in a smart contract deployed to the Ethereum [[Blockchain]].
 >
 > **[0:31](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-contract-value?u=76281980&t=31)** So in this case, I have this contract here.
 >
@@ -600,7 +594,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-contract-value?u=76281980&t=164)** You can go to, let's say, the ARK blockchain, and you go to BlockchainTransaction.
 >
-> **[2:50](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-contract-value?u=76281980&t=170)** And you see here all the different types of transactions supported by the Wolfram Language.
+> **[2:50](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-contract-value?u=76281980&t=170)** And you see here all the different types of transactions supported by the [[Wolfram Language]].
 >
 > **[2:59](https://www.linkedin.com/learning/interacting-with-blockchains-in-the-wolfram-language/blockchain-contract-value?u=76281980&t=179)** So in this case, I'm going to use the ARK blockchain because it's very fast, and I have a desktop wallet here.
 >
@@ -766,7 +760,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (12), [[Ethereum]] (4), [[Wolfram Language]] (1), web (1)
+> **Frameworks & Libraries:** [[Blockchain]] (12), [[Ethereum]] (4), [[Wolfram Language]] (1)
 > **Env Vars:** ark (8)
 > **Definitions:** is a  (4)
 > **UI Navigation:** go to (3)

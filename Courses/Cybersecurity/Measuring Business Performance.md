@@ -72,8 +72,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Measuring business performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/measuring-business-performance?u=76281980)
+#### [Measuring business performance](https://www.linkedin.com/learning/measuring-business-performance-2021/measuring-business-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -95,7 +94,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/measuring-business-performance-2021/measuring-business-performance?u=76281980&t=41)** Hi, I'm Eddie Davila, University Professor, author and business consultant.
 >
-> **[0:47](https://www.linkedin.com/learning/measuring-business-performance-2021/measuring-business-performance?u=76281980&t=47)** In this course, I'll introduce you to the basic terminology and tools of the world of performance metrics.
+> **[0:47](https://www.linkedin.com/learning/measuring-business-performance-2021/measuring-business-performance?u=76281980&t=47)** In this course, I'll introduce you to the basic terminology and tools of the world of [[Performance Metrics]].
 >
 > **[0:53](https://www.linkedin.com/learning/measuring-business-performance-2021/measuring-business-performance?u=76281980&t=53)** Together we'll explore how you can develop the right performance metrics for your company.
 >
@@ -109,7 +108,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (2), [[Performance Metrics]] (2)
+> **Frameworks & Libraries:** [[Performance Metrics]] (2)
 > **CLI Commands:** make (2)
 > **Speakers:** - the (1)
 
@@ -118,8 +117,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why companies measure
-> [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/why-companies-measure?u=76281980)
+#### [Why companies measure](https://www.linkedin.com/learning/measuring-business-performance-2021/why-companies-measure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -163,13 +161,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), game (1), business (1), career (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - let (1)
 
-#### Performance measurement terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/performance-measurement-terminology?u=76281980)
+#### [Performance measurement terminology](https://www.linkedin.com/learning/measuring-business-performance-2021/performance-measurement-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -207,7 +203,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/measuring-business-performance-2021/performance-measurement-terminology?u=76281980&t=75)** Each metric tells us something different about a player.
 >
-> **[1:19](https://www.linkedin.com/learning/measuring-business-performance-2021/performance-measurement-terminology?u=76281980&t=79)** Similarly, you could also use a system of business metrics to measure employees, projects or teams.
+> **[1:19](https://www.linkedin.com/learning/measuring-business-performance-2021/performance-measurement-terminology?u=76281980&t=79)** Similarly, you could also use a system of [[Business Metrics]] to measure employees, projects or teams.
 >
 > **[1:27](https://www.linkedin.com/learning/measuring-business-performance-2021/performance-measurement-terminology?u=76281980&t=87)** Next, let's look at KPIs, key performance indicators.
 >
@@ -221,7 +217,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/measuring-business-performance-2021/performance-measurement-terminology?u=76281980&t=115)** Key performance indicators are usually three to 10 metrics that the company thinks are the most important.
 >
-> **[2:02](https://www.linkedin.com/learning/measuring-business-performance-2021/performance-measurement-terminology?u=76281980&t=122)** When companies choose their KPIs, they're telling managers, when you come in every morning, these are the numbers we want you to look at first, which brings us to dashboards.
+> **[2:02](https://www.linkedin.com/learning/measuring-business-performance-2021/performance-measurement-terminology?u=76281980&t=122)** When companies choose their KPIs, they're telling managers, when you come in every morning, these are the numbers we want you to look at first, which brings us to [[Dashboards]].
 >
 > **[2:13](https://www.linkedin.com/learning/measuring-business-performance-2021/performance-measurement-terminology?u=76281980&t=133)** When a manager opens up their laptop to check on the organization's performance, they will often view corporate data, historical or real time via a digital dashboard.
 >
@@ -243,13 +239,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Analytics]] (7), management (3), game (3), business (2)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Business Metrics]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - are (1)
 
-#### What should my company measure?
-> [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/what-should-my-company-measure?u=76281980)
+#### [What should my company measure?](https://www.linkedin.com/learning/measuring-business-performance-2021/what-should-my-company-measure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -281,7 +276,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/measuring-business-performance-2021/what-should-my-company-measure?u=76281980&t=51)** They're effectively all ball and stick sports.
 >
-> **[0:55](https://www.linkedin.com/learning/measuring-business-performance-2021/what-should-my-company-measure?u=76281980&t=55)** Now tell me, would you use the same set of statistics to measure all of the players in all three sports?
+> **[0:55](https://www.linkedin.com/learning/measuring-business-performance-2021/what-should-my-company-measure?u=76281980&t=55)** Now tell me, would you use the same set of [[Statistics]] to measure all of the players in all three sports?
 >
 > **[1:01](https://www.linkedin.com/learning/measuring-business-performance-2021/what-should-my-company-measure?u=76281980&t=61)** Of course not.
 >
@@ -301,7 +296,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/measuring-business-performance-2021/what-should-my-company-measure?u=76281980&t=85)** So while every company would love it if there were five magic numbers that provided the undisputed roadmap to success, that just isn't the case.
 >
-> **[1:34](https://www.linkedin.com/learning/measuring-business-performance-2021/what-should-my-company-measure?u=76281980&t=94)** So instead of asking, what are the most important business metrics, you need to ask, what are the most important business metrics for my company?
+> **[1:34](https://www.linkedin.com/learning/measuring-business-performance-2021/what-should-my-company-measure?u=76281980&t=94)** So instead of asking, what are the most important [[Business Metrics]], you need to ask, what are the most important business metrics for my company?
 >
 > **[1:43](https://www.linkedin.com/learning/measuring-business-performance-2021/what-should-my-company-measure?u=76281980&t=103)** No one can answer this question for you.
 >
@@ -327,7 +322,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Statistics]] (2)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Business Metrics]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Speakers:** - managers (1)
 
@@ -336,8 +331,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Characteristic of a good metric
-> [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/characteristic-of-a-good-metric?u=76281980)
+#### [Characteristic of a good metric](https://www.linkedin.com/learning/measuring-business-performance-2021/characteristic-of-a-good-metric?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -449,13 +443,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), data (1), hit (1), strengths (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (2)
 > **Speakers:** - a (1)
 
-#### Additional considerations in developing good metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/additional-considerations-in-developing-good-metrics?u=76281980)
+#### [Additional considerations in developing good metrics](https://www.linkedin.com/learning/measuring-business-performance-2021/additional-considerations-in-developing-good-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -521,14 +513,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), strengths (2)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - developing (1)
 
-#### The four types of data analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/the-four-types-of-data-analytics?u=76281980)
+#### [The four types of data analytics](https://www.linkedin.com/learning/measuring-business-performance-2021/the-four-types-of-data-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -572,7 +562,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/measuring-business-performance-2021/the-four-types-of-data-analytics?u=76281980&t=92)** These metrics might help us understand why on this past Monday, the shop served fewer customers but the wait times were so long.
 >
-> **[1:41](https://www.linkedin.com/learning/measuring-business-performance-2021/the-four-types-of-data-analytics?u=76281980&t=101)** How about predictive analytics?
+> **[1:41](https://www.linkedin.com/learning/measuring-business-performance-2021/the-four-types-of-data-analytics?u=76281980&t=101)** How about [[Predictive Analytics]]?
 >
 > **[1:44](https://www.linkedin.com/learning/measuring-business-performance-2021/the-four-types-of-data-analytics?u=76281980&t=104)** These types of analytics help answer the question, what might happen next?
 >
@@ -598,11 +588,11 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/measuring-business-performance-2021/the-four-types-of-data-analytics?u=76281980&t=177)** What are the things you want to know, understand, predict and decide on?
 >
-> **[3:05](https://www.linkedin.com/learning/measuring-business-performance-2021/the-four-types-of-data-analytics?u=76281980&t=185)** Does your company have the tools for all four types of business analytics?
+> **[3:05](https://www.linkedin.com/learning/measuring-business-performance-2021/the-four-types-of-data-analytics?u=76281980&t=185)** Does your company have the tools for all four types of [[Business Analytics]]?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (16), data (9), next (3), [[Predictive Analytics]] (2), business (2)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (2), [[Business Analytics]] (1)
 > **CLI Commands:** make (2)
 > **Versions:** 3.4 (1), 4.8 (1)
 > **Analogies:** for example (1)
@@ -613,8 +603,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Three categories of performance measurement
-> [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/three-categories-of-performance-measurement?u=76281980)
+#### [Three categories of performance measurement](https://www.linkedin.com/learning/measuring-business-performance-2021/three-categories-of-performance-measurement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -658,7 +647,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/measuring-business-performance-2021/three-categories-of-performance-measurement?u=76281980&t=73)** Well, suppose there was a competition.
 >
-> **[1:16](https://www.linkedin.com/learning/measuring-business-performance-2021/three-categories-of-performance-measurement?u=76281980&t=76)** Adults would get paid money by accumulating excellent basketball statistics.
+> **[1:16](https://www.linkedin.com/learning/measuring-business-performance-2021/three-categories-of-performance-measurement?u=76281980&t=76)** Adults would get paid money by accumulating excellent basketball [[Statistics]].
 >
 > **[1:22](https://www.linkedin.com/learning/measuring-business-performance-2021/three-categories-of-performance-measurement?u=76281980&t=82)** What might they do to cheat the system?
 >
@@ -710,7 +699,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Statistics]] (2)
+> **Frameworks & Libraries:** [[Statistics]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Env Vars:** nba (1)
@@ -718,8 +707,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - let (1)
 
-#### Measuring performance with a map
-> [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/measuring-performance-with-a-map?u=76281980)
+#### [Measuring performance with a map](https://www.linkedin.com/learning/measuring-business-performance-2021/measuring-performance-with-a-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -797,12 +785,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), management (1), next (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - have (1)
 
-#### Evaluating a system of metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/evaluating-a-system-of-metrics?u=76281980)
+#### [Evaluating a system of metrics](https://www.linkedin.com/learning/measuring-business-performance-2021/evaluating-a-system-of-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -856,7 +842,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), strengths (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** we covered (1)
 > **Definitions:** is a  (1)
@@ -868,8 +853,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using scorecards to measure and manage performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/using-scorecards-to-measure-and-manage-performance?u=76281980)
+#### [Using scorecards to measure and manage performance](https://www.linkedin.com/learning/measuring-business-performance-2021/using-scorecards-to-measure-and-manage-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -943,13 +927,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **CLI Commands:** make (3)
 > **Analogies:** similar to (1)
 > **Speakers:** - organizations (1)
 
-#### Dashboard and data considerations when measuring business performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/dashboard-and-data-considerations-when-measuring-business-performance?u=76281980)
+#### [Dashboard and data considerations when measuring business performance](https://www.linkedin.com/learning/measuring-business-performance-2021/dashboard-and-data-considerations-when-measuring-business-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -983,7 +965,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/measuring-business-performance-2021/dashboard-and-data-considerations-when-measuring-business-performance?u=76281980&t=57)** These are often referred to as business dashboard or executive dashboard companies.
 >
-> **[1:03](https://www.linkedin.com/learning/measuring-business-performance-2021/dashboard-and-data-considerations-when-measuring-business-performance?u=76281980&t=63)** They are called dashboard companies because they can help you create colorful and engaging dashboards of data.
+> **[1:03](https://www.linkedin.com/learning/measuring-business-performance-2021/dashboard-and-data-considerations-when-measuring-business-performance?u=76281980&t=63)** They are called dashboard companies because they can help you create colorful and engaging [[Dashboards]] of data.
 >
 > **[1:10](https://www.linkedin.com/learning/measuring-business-performance-2021/dashboard-and-data-considerations-when-measuring-business-performance?u=76281980&t=70)** Imagine opening up your computer and seeing all of your KPIs on one page each illustrated over time on a chart and then having the ability to click on each chart to dig a little deeper into that metric.
 >
@@ -1001,7 +983,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/measuring-business-performance-2021/dashboard-and-data-considerations-when-measuring-business-performance?u=76281980&t=114)** The dashboard can give you access to everything you need and since solving problems and exploiting opportunities in business requires collaboration, dashboards also allow you to send reports or even chat about your analytics in real time.
 >
-> **[2:11](https://www.linkedin.com/learning/measuring-business-performance-2021/dashboard-and-data-considerations-when-measuring-business-performance?u=76281980&t=131)** In the end, they empower everyone in the organization to analyze performance create interesting charts, present important information and to build different business analytics.
+> **[2:11](https://www.linkedin.com/learning/measuring-business-performance-2021/dashboard-and-data-considerations-when-measuring-business-performance?u=76281980&t=131)** In the end, they empower everyone in the organization to analyze performance create interesting charts, present important information and to build different [[Business Analytics]].
 >
 > **[2:24](https://www.linkedin.com/learning/measuring-business-performance-2021/dashboard-and-data-considerations-when-measuring-business-performance?u=76281980&t=144)** In some cases, individuals can even build their own custom dashboards.
 >
@@ -1021,7 +1003,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Dashboards]] (7), business (3), [[Analytics]] (2), power (1)
+> **Frameworks & Libraries:** [[Dashboards]] (7), [[Business Analytics]] (1)
 > **Analogies:** imagine (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -1032,8 +1014,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/measuring-business-performance-2021/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/measuring-business-performance-2021/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1049,7 +1030,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/measuring-business-performance-2021/next-steps?u=76281980&t=18)** Remember, people and numbers need to work together.
 >
-> **[0:21](https://www.linkedin.com/learning/measuring-business-performance-2021/next-steps?u=76281980&t=21)** So, while you may want to dive into courses that cover fundamentals of statistics, the keys to understanding data analytics, and the basics of developing visualization tools for executive dashboards.
+> **[0:21](https://www.linkedin.com/learning/measuring-business-performance-2021/next-steps?u=76281980&t=21)** So, while you may want to dive into courses that cover fundamentals of [[Statistics]], the keys to understanding data analytics, and the basics of developing visualization tools for executive [[Dashboards]].
 >
 > **[0:33](https://www.linkedin.com/learning/measuring-business-performance-2021/next-steps?u=76281980&t=33)** You'll also want to take courses that discuss the development of goals and values for your organization, as well as the keys to motivating and inspiring those around you.
 >
@@ -1061,7 +1042,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Statistics]] (1), data (1), [[Analytics]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Dashboards]] (1)
 > **Speakers:** - congratulations (1)
 
 

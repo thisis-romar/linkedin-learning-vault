@@ -8,7 +8,7 @@ linkedin_topics:
   - Cloud Computing
   - Cybersecurity
   - Software Development
-louvain_cluster: 10
+louvain_cluster: 11
 tags:
   - professional-certificate
   - topic/cloud-computing

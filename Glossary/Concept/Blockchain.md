@@ -46,7 +46,7 @@ created: 2026-05-02
 > 13. [[Interacting with Blockchains in the Wolfram Language]] — 43 mentions
 > 14. [[Blockchain for Developers- Hyperledger Fabric on Azure]] — 38 mentions
 > 15. [[Building an Ethereum Blockchain App- 6 Building Your First Ethereum App]] — 31 mentions
-> 16. [[Digital Transformation Foundations]] — 27 mentions
+> 16. [[Digital Transformation Foundations]] — 28 mentions
 > 17. [[Foundations of the Fourth Industrial Revolution (Industry 4.0)]] — 25 mentions
 > 18. [[Building an Ethereum Blockchain App- 10 Deployment and Maintenance]] — 25 mentions
 > 19. [[The Data Science Of Healthcare Medicine And Public Health]] — 22 mentions
@@ -69,11 +69,11 @@ created: 2026-05-02
 > 36. [[Digital Transformation Tips]] — 4 mentions
 > 37. [[Agentic AI Fundamentals- Architectures, Frameworks, and Applications]] — 4 mentions
 > 38. [[Cloud Concepts- Hybrid Cloud]] — 3 mentions
-> 39. [[Transitioning to a Career in Cybersecurity]] — 2 mentions
-> 40. [[AI Product Development- Secure by Design]] — 2 mentions
-> 41. [[IT Security Foundations- Core Concepts]] — 2 mentions
-> 42. [[TLS for Beginners- Securing Network Communications]] — 2 mentions
-> 43. [[Cybersecurity with Cloud Computing]] — 2 mentions
+> 39. [[Cybersecurity with Cloud Computing]] — 3 mentions
+> 40. [[Transitioning to a Career in Cybersecurity]] — 2 mentions
+> 41. [[AI Product Development- Secure by Design]] — 2 mentions
+> 42. [[IT Security Foundations- Core Concepts]] — 2 mentions
+> 43. [[TLS for Beginners- Securing Network Communications]] — 2 mentions
 > 44. [[SQL for Finance Professionals]] — 2 mentions
 > 45. [[What Is Generative AI-]] — 1 mentions
 > 46. [[Rpa Ai And Cognitive Tech For Leaders]] — 1 mentions
@@ -98,9 +98,9 @@ created: 2026-05-02
 1. [[Become a Blockchain Developer]] — 1007 total mentions
 2. [[Build an Ethereum Blockchain App]] — 664 total mentions
 3. [[Getting Started in Blockchain]] — 529 total mentions
-4. [[Digital Transformation for Tech Leaders]] — 332 total mentions
+4. [[Digital Transformation for Tech Leaders]] — 333 total mentions
 5. [[Build Your Wolfram Language Skills]] — 43 total mentions
-6. [[Advance Your Digital Transformation Strategy as a Leader]] — 27 total mentions
+6. [[Advance Your Digital Transformation Strategy as a Leader]] — 28 total mentions
 7. [[Hands-On Healthcare Analytics]] — 22 total mentions
 8. [[Explore a Career as a Financial Analyst]] — 20 total mentions
 9. [[SQL for Data Professionals in Finance]] — 19 total mentions

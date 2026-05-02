@@ -119,8 +119,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/welcome-to-this-course?u=76281980)
+#### [Welcome to this course](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/welcome-to-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -136,11 +135,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (3), application (1)
 > **Speakers:** - [dan] (1)
 
-#### Things you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/things-you-should-know?u=76281980)
+#### [Things you should know](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/things-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -148,11 +145,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/things-you-should-know?u=76281980&t=6)** There are a few things that I assume that you know.
 >
-> **[0:08](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/things-you-should-know?u=76281980&t=8)** First of all, I assume you have some familiarity with application development processes in various organizations.
+> **[0:08](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/things-you-should-know?u=76281980&t=8)** First of all, I assume you have some familiarity with [[Application Development]] processes in various organizations.
 >
 > **[0:15](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/things-you-should-know?u=76281980&t=15)** So I don't expect you to be a software engineer or a software developer or even all that familiar with coding, but I do expect you to have some awareness of how different organizations go about developing applications.
 >
-> **[0:28](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/things-you-should-know?u=76281980&t=28)** Also, I expect you to have a basic understanding of just data processing technologies, things like laptops, servers, networks, and storage systems.
+> **[0:28](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/things-you-should-know?u=76281980&t=28)** Also, I expect you to have a basic understanding of just [[Data Processing]] technologies, things like laptops, servers, networks, and storage systems.
 >
 > **[0:37](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/things-you-should-know?u=76281980&t=37)** Again, I don't expect you to be a technical expert, but I assume that you understand roughly what these terms mean.
 >
@@ -160,7 +157,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Application Development]] (2), ai (1), business (1)
+> **Frameworks & Libraries:** [[Application Development]] (2), [[Data Processing]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -168,8 +165,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identifying data sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/identifying-data-sources?u=76281980)
+#### [Identifying data sources](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/identifying-data-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -181,7 +177,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/identifying-data-sources?u=76281980&t=20)** We're also going to consider how to navigate legal and ethical landscapes when sourcing data and understand the common pitfalls and red flags when evaluating potential data sources.
 >
-> **[0:32](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/identifying-data-sources?u=76281980&t=32)** Now with regards to internal data sources, we have things like department databases and data warehouses, which are our existing repositories that contain structured information that's already aligned with business processes.
+> **[0:32](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/identifying-data-sources?u=76281980&t=32)** Now with regards to internal data sources, we have things like department [[Databases]] and data warehouses, which are our existing repositories that contain structured information that's already aligned with business processes.
 >
 > **[0:45](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/identifying-data-sources?u=76281980&t=45)** And we also have enterprise-scale systems like CRMs and ERPs, which hold rich customer and operational data.
 >
@@ -191,7 +187,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/identifying-data-sources?u=76281980&t=80)** But we do want to be careful to evaluate licensing costs and terms when working with commercial providers.
 >
-> **[1:26](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/identifying-data-sources?u=76281980&t=86)** Similarly, there are service providers that offer APIs, and the APIs provide real-time access to third party data with standardized formats.
+> **[1:26](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/identifying-data-sources?u=76281980&t=86)** Similarly, there are service providers that offer APIs, and the APIs provide [[Real-Time]] access to third party data with standardized formats.
 >
 > **[1:36](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/identifying-data-sources?u=76281980&t=96)** Web scraping is really useful for gathering publicly available information.
 >
@@ -201,7 +197,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/identifying-data-sources?u=76281980&t=111)** Now, sometimes we have to turn to synthetic datasets.
 >
-> **[1:54](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/identifying-data-sources?u=76281980&t=114)** For example, we use synthetic datasets when we have privacy concerns because synthetic datasets offer solutions when privacy regulations restrict the use of real customer information.
+> **[1:54](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/identifying-data-sources?u=76281980&t=114)** For example, we use synthetic datasets when we have [[Privacy]] concerns because synthetic datasets offer solutions when privacy regulations restrict the use of real customer information.
 >
 > **[2:06](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/identifying-data-sources?u=76281980&t=126)** We also use augmented datasets.
 >
@@ -215,7 +211,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/identifying-data-sources?u=76281980&t=160)** And we want to verify the data includes the variables that our models will need to make accurate predictions.
 >
-> **[2:47](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/identifying-data-sources?u=76281980&t=167)** We also want to consider data quality factors such as completeness, and we do that by evaluating whether the data has all the necessary fields.
+> **[2:47](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/identifying-data-sources?u=76281980&t=167)** We also want to consider [[Data Quality]] factors such as completeness, and we do that by evaluating whether the data has all the necessary fields.
 >
 > **[2:58](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/identifying-data-sources?u=76281980&t=178)** We also want to think about accuracy in terms of verifying the information is correct and reasonably free of errors.
 >
@@ -271,7 +267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (34), ai (8), [[Privacy]] (4), business (2), application (2)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Databases]] (1), [[Real-Time]] (1), [[Data Quality]] (1)
 > **Warnings:** be careful (3), keep in mind (2), watch out (2), be aware (1)
 > **Analogies:** for example (2), such as (2)
 > **Env Vars:** gdpr (1), hipaa (1), fcra (1)
@@ -280,20 +276,19 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Structured, semi-structured, and unstructured data collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980)
+#### [Structured, semi-structured, and unstructured data collection](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=0)** - [Instructor] Let's examine the three categories of data used in AI, structured, semi-structured, and unstructured data.
+> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=0)** - [Instructor] Let's examine the three categories of data used in AI, structured, semi-structured, and [[Unstructured Data]].
 >
 > **[0:08](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=8)** Structured data follows a fixed schema where each element has a defined format, position, and length.
 >
 > **[0:14](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=14)** This well-defined organization makes the data immediately accessible for processing.
 >
-> **[0:19](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=19)** We find structured data in relational databases where information is organized into tables and rows and columns, as well as spreadsheets and CSV files.
+> **[0:19](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=19)** We find structured data in [[Relational Databases]] where information is organized into tables and rows and columns, as well as spreadsheets and CSV files.
 >
-> **[0:28](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=28)** Some examples of structured data include customer databases that contain things like customer ID, name, and purchase history, and sales transaction records that record things like product codes, quantities, and timestamps, as well as inventory systems that track things like stock keeping units or SKUs, as well as quantities and locations.
+> **[0:28](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=28)** Some examples of structured data include customer [[Databases]] that contain things like customer ID, name, and purchase history, and sales transaction records that record things like product codes, quantities, and timestamps, as well as inventory systems that track things like stock keeping units or SKUs, as well as quantities and locations.
 >
 > **[0:46](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=46)** Now, the standardized structures allow for precise queries.
 >
@@ -305,7 +300,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=67)** The way it does this is because data contains tags or keys that identify what each element represents, so this makes the data interpretable without requiring external schema definitions.
 >
-> **[1:20](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=80)** Some examples of unstructured data are JSON documents, which are widely used in applications.
+> **[1:20](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=80)** Some examples of unstructured data are [[JSON]] documents, which are widely used in applications.
 >
 > **[1:25](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=85)** XML files that we often see being used for data exchange, email headers with sender recipient information, and system logs that capture event data are some other examples of semi-structured data.
 >
@@ -313,7 +308,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=106)** Now, these formats combine simple values, like strings and numbers, as well as containers that hold multiple elements, and arrays of related items.
 >
-> **[1:55](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=115)** And this provides a flexibility for representing complex data structures.
+> **[1:55](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=115)** And this provides a flexibility for representing complex [[Data Structures]].
 >
 > **[2:01](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=121)** Unstructured data lacks formal obvious structures and don't fit neatly into rows and columns.
 >
@@ -327,11 +322,11 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=163)** Now, there's a lot of business value to structured data.
 >
-> **[2:45](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=165)** Structured data powers dashboards and business intelligence tools that deliver metrics on company performance, market trends, and operational efficiency.
+> **[2:45](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=165)** Structured data powers [[Dashboards]] and [[Business Intelligence (BI)|business intelligence]] tools that deliver metrics on company performance, market trends, and operational efficiency.
 >
 > **[2:55](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=175)** It also enables standardized reporting across departments, consistent measures of key performance indicators or KPIs, and comparative analysis across time periods.
 >
-> **[3:05](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=185)** Sales forecasting uses historical transaction patterns to project future revenue.
+> **[3:05](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=185)** Sales [[Forecasting]] uses historical transaction patterns to project future revenue.
 >
 > **[3:10](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=190)** Performance analysis compares actual results against benchmarks and customer segmentation operations group clients by spending patterns, demographics, and behavior of targeted strategies.
 >
@@ -345,7 +340,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=228)** Now we see a lot of examples of semi-structured data.
 >
-> **[3:51](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=231)** These include things like product catalogs that use flexible schemas to handle varying attributes across different kinds of merchandise, as well as in things like IoT sensors that can transmit readings with contextual information, and web analytics, which capture both standard metrics and custom events in extensible formats.
+> **[3:51](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=231)** These include things like product catalogs that use flexible schemas to handle varying attributes across different kinds of merchandise, as well as in things like [[IoT]] sensors that can transmit readings with contextual information, and [[Web Analytics]], which capture both standard metrics and custom events in extensible formats.
 >
 > **[4:10](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=250)** Unstructured data is also valuable.
 >
@@ -363,7 +358,7 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=310)** Older systems frequently use proprietary formats or outdated protocols that make it harder to integrate with modern analytics platforms.
 >
-> **[5:18](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=318)** Then we have data quality and consistency issues, like duplicate entries and inconsistent formatting standards across departments, as well as incomplete records.
+> **[5:18](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=318)** Then we have [[Data Quality]] and consistency issues, like duplicate entries and inconsistent formatting standards across departments, as well as incomplete records.
 >
 > **[5:28](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=328)** Database structures require careful initial design, as well as ongoing updates, to accommodate new business requirements, but we have to do that in ways that don't disrupt existing operations.
 >
@@ -373,19 +368,18 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=347)** Analyzing unstructured data requires sophisticated processing models and significant computing power.
 >
-> **[5:54](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=354)** Unstructured data often contains embedded sensitive information, like personal details and documents or identifiable individuals in videos, and this can create compliance challenges, especially under regulations, like GDPR in the EU or the California Consumer Privacy Act, known as CCPA.
+> **[5:54](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/structured-semi-structured-and-unstructured-data-collection?u=76281980&t=354)** Unstructured data often contains embedded sensitive information, like personal details and documents or identifiable individuals in videos, and this can create compliance challenges, especially under regulations, like GDPR in the EU or the California Consumer [[Privacy]] Act, known as CCPA.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Unstructured Data]] (9), product (4), business (4), database (3)
+> **Frameworks & Libraries:** [[Unstructured Data]] (9), [[Databases]] (2), [[Relational Databases]] (1), [[JSON]] (1), [[Data Structures]] (1)
 > **Env Vars:** csv (1), json (1), xml (1), crm (1), erp (1)
 > **Analogies:** for example (6)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data sampling techniques and statistical considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-sampling-techniques-and-statistical-considerations?u=76281980)
+#### [Data sampling techniques and statistical considerations](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-sampling-techniques-and-statistical-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -405,13 +399,13 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-sampling-techniques-and-statistical-considerations?u=76281980&t=34)** It also accelerates exploration and development cycles by lowering processing requirements.
 >
-> **[0:39](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-sampling-techniques-and-statistical-considerations?u=76281980&t=39)** Sampling enables more efficient hypothesis testing across a larger data landscape, and it can be useful for identifying data quality issues before we commit to a full blown implementation.
+> **[0:39](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-sampling-techniques-and-statistical-considerations?u=76281980&t=39)** Sampling enables more efficient hypothesis testing across a larger data landscape, and it can be useful for identifying [[Data Quality]] issues before we commit to a full blown implementation.
 >
 > **[0:52](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-sampling-techniques-and-statistical-considerations?u=76281980&t=52)** Random sampling is really the gold standard for sampling.
 >
 > **[0:55](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-sampling-techniques-and-statistical-considerations?u=76281980&t=55)** Now there are several different types.
 >
-> **[0:57](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-sampling-techniques-and-statistical-considerations?u=76281980&t=57)** Simple random sampling is a sampling process where every data point has an equal selection probability.
+> **[0:57](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-sampling-techniques-and-statistical-considerations?u=76281980&t=57)** Simple random sampling is a sampling process where every data point has an equal selection [[Probability]].
 >
 > **[1:04](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-sampling-techniques-and-statistical-considerations?u=76281980&t=64)** We can also use systematic sampling where we select every nth item for efficiency.
 >
@@ -479,15 +473,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), business (4), ai (3), [[Probability]] (1), power (1)
+> **Frameworks & Libraries:** [[Data Quality]] (1), [[Probability]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is a  (2)
 > **Warnings:** be careful (1), be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Workflows for automated data collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980)
+#### [Workflows for automated data collection](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -495,19 +488,19 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=3)** Enterprise data is scattered across multiple systems, making collection a fundamental challenge in these AI initiatives.
 >
-> **[0:10](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=10)** Now, manual collection processes create bottlenecks and introduce real opportunity for human error into critical data pipelines.
+> **[0:10](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=10)** Now, manual collection processes create bottlenecks and introduce real opportunity for human error into critical [[Data Pipelines]].
 >
 > **[0:18](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=18)** So we really should focus on how we're going to automate and standardize repetitive collections tasks because that will help ensure consistency across all of our data operations.
 >
 > **[0:30](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=30)** And we need to remember well-designed collection systems are vital to enabling scalable and repeatable data operations in our AI initiatives.
 >
-> **[0:39](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=39)** Data collection workflows provide orchestrated sequences that allow us to gather, validate, and prepare data in a systematic manner.
+> **[0:39](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=39)** [[Data Collection]] workflows provide orchestrated sequences that allow us to gather, validate, and prepare data in a systematic manner.
 >
 > **[0:48](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=48)** Collections can be triggered by multiple events, like a time interval, a specific event, or some business condition threshold.
 >
 > **[0:57](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=57)** Now, robust workflows include comprehensive error handling and alert notification.
 >
-> **[1:03](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=63)** It's important for proper implementation that we maintain detailed metadata and execution logs for both governance and for troubleshooting.
+> **[1:03](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=63)** It's important for proper implementation that we maintain detailed [[Metadata]] and execution logs for both governance and for troubleshooting.
 >
 > **[1:14](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=74)** Now, workflows are made up of a few components.
 >
@@ -515,15 +508,15 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=101)** So when we're talking about data sources, we have to talk about data source connectors.
 >
-> **[1:46](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=106)** Now, database change data capture is one type of connector, and those are used when we want to identify and capture changes in operational databases.
+> **[1:46](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=106)** Now, database change data capture is one type of connector, and those are used when we want to identify and capture changes in operational [[Databases]].
 >
 > **[1:56](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=116)** Web scraping frameworks are used to extract structured information from websites and online platforms.
 >
-> **[2:03](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=123)** File system monitors detect new and modified files and designated directories in our file systems, while API integrations allow us to connect to SaaS applications for automated data extractions from these SaaS services.
+> **[2:03](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=123)** File system monitors detect new and modified files and designated directories in our file systems, while API integrations allow us to connect to [[SaaS]] applications for automated data extractions from these SaaS services.
 >
-> **[2:19](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=139)** And then if we're working in an environment with IoT devices, we can use IoT device connections to enable real-time data collection from physical sensors and equipment.
+> **[2:19](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=139)** And then if we're working in an environment with [[IoT]] devices, we can use IoT device connections to enable [[Real-Time]] data collection from physical sensors and equipment.
 >
-> **[2:29](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=149)** Processing components entail data validation rules that ensure data quality by enforcing business rules and technical constraints.
+> **[2:29](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=149)** Processing components entail [[Data Validation]] rules that ensure [[Data Quality]] by enforcing business rules and technical constraints.
 >
 > **[2:38](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=158)** Processing components also entail transformation logic, which we use to convert from source formats to standardized structures that we need for analysis.
 >
@@ -535,15 +528,15 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=190)** And quality scoring can help provide additional quantitative metrics that are useful for when we're dealing with data reliability and trying to assess completeness.
 >
-> **[3:20](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=200)** Now, the destination component, or data destination, includes different types of data architectures, like data lakes, which provide low cost storage for raw unprocessed data at scale.
+> **[3:20](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=200)** Now, the destination component, or data destination, includes different types of data architectures, like [[Data Lakes]], which provide low cost storage for raw unprocessed data at scale.
 >
 > **[3:33](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=213)** Data warehouses are useful for organizing structured data optimized for analytic queries, while feature stores prepare and store machine learning-ready data for model training and serving.
 >
-> **[3:45](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=225)** Across all of these different types of destination components, we have different types of catalogs and metadata repositories that maintain data lineage and discoverability data.
+> **[3:45](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=225)** Across all of these different types of destination components, we have different types of catalogs and metadata repositories that maintain [[Data Lineage]] and discoverability data.
 >
 > **[3:57](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=237)** Now there's some design considerations we want to keep in mind.
 >
-> **[4:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=240)** We want to design systems with the assumptions that components will occasionally fail.
+> **[4:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=240)** We want to [[Design Systems]] with the assumptions that components will occasionally fail.
 >
 > **[4:04](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/workflows-for-automated-data-collection?u=76281980&t=244)** That's just the reality of the environment we operate in.
 >
@@ -571,7 +564,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), ai (3), business (3), [[Metadata]] (2), [[Troubleshooting]] (2)
+> **Frameworks & Libraries:** [[Data Collection]] (2), [[Metadata]] (2), [[SaaS]] (2), [[IoT]] (2), [[Data Quality]] (2)
 > **Warnings:** keep in mind (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (1)
@@ -579,21 +572,19 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Identify relevant data collection metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-identify-relevant-data-collection-metrics?u=76281980)
+#### [Challenge: Identify relevant data collection metrics](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-identify-relevant-data-collection-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-identify-relevant-data-collection-metrics?u=76281980&t=0)** - [Instructor] In this challenge, I would like you to identify the core metric categories we collect to help us understand and improve the data collection process.
+> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-identify-relevant-data-collection-metrics?u=76281980&t=0)** - [Instructor] In this challenge, I would like you to identify the core metric categories we collect to help us understand and improve the [[Data Collection]] process.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
+> **Frameworks & Libraries:** [[Data Collection]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Identify relevant data collection metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-identify-relevant-data-collection-metrics?u=76281980)
+#### [Solution: Identify relevant data collection metrics](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-identify-relevant-data-collection-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -601,13 +592,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-identify-relevant-data-collection-metrics?u=76281980&t=5)** - [Instructor] Now, some of the factors we should consider include the types of data sources such as internal, external, and synthetic data sources.
 >
-> **[0:12](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-identify-relevant-data-collection-metrics?u=76281980&t=12)** The criteria we are using for selecting particular data sources, and these include factors such as relevance, data quality, and a variety of technical considerations.
+> **[0:12](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-identify-relevant-data-collection-metrics?u=76281980&t=12)** The criteria we are using for selecting particular data sources, and these include factors such as relevance, [[Data Quality]], and a variety of technical considerations.
 >
 > **[0:23](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-identify-relevant-data-collection-metrics?u=76281980&t=23)** And then we also want to think about legal and risk management considerations, as we're identifying data sources for our AI initiatives.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), management (1), ai (1)
+> **Frameworks & Libraries:** [[Data Quality]] (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively upbeat music) (1)
@@ -617,18 +608,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data quality metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-quality-metrics?u=76281980)
+#### [Data quality metrics](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-quality-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-quality-metrics?u=76281980&t=0)** - [Instructor] Data quality is a significant driver to the success chances of our AI initiatives.
+> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-quality-metrics?u=76281980&t=0)** - [Instructor] [[Data Quality]] is a significant driver to the success chances of our AI initiatives.
 >
 > **[0:06](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-quality-metrics?u=76281980&t=6)** When we're talking about data quality, we're talking about things like accuracy, which measure whether data values reflect real world values correctly.
 >
 > **[0:14](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-quality-metrics?u=76281980&t=14)** And completeness, which evaluates whether all required data elements are present.
 >
-> **[0:19](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-quality-metrics?u=76281980&t=19)** There's also consistency, which examines data integrity across systems and formats, and timeliness, which assesses how current the data is relative to our business needs.
+> **[0:19](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-quality-metrics?u=76281980&t=19)** There's also consistency, which examines [[Data Integrity]] across systems and formats, and timeliness, which assesses how current the data is relative to our business needs.
 >
 > **[0:30](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-quality-metrics?u=76281980&t=30)** It's also important to validate and confirm data adheres to define business rules and format, and we want to ensure uniqueness of entities are represented without unnecessary duplication.
 >
@@ -646,7 +636,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-quality-metrics?u=76281980&t=88)** Now, we can also develop metrics for things like product catalogs.
 >
-> **[1:32](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-quality-metrics?u=76281980&t=92)** Now, an accuracy measure here might be related to the percent of products with correct attributes.
+> **[1:32](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-quality-metrics?u=76281980&t=92)** Now, an accuracy measure here might be related to the percent of [[Microsoft Products|products]] with correct attributes.
 >
 > **[1:38](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-quality-metrics?u=76281980&t=98)** And after doing an analysis, we might find that 91% of our products have accurate dimensions and weights.
 >
@@ -672,7 +662,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-quality-metrics?u=76281980&t=173)** You want to begin by assessing current quality levels across key data domains.
 >
-> **[3:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-quality-metrics?u=76281980&t=180)** We also want to systematically identify quality gaps affecting business operations and decisions.
+> **[3:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-quality-metrics?u=76281980&t=180)** We also want to systematically identify quality gaps affecting [[Business Operations]] and decisions.
 >
 > **[3:06](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-quality-metrics?u=76281980&t=186)** And we want to define specific measurable improvement targets aligned with business priorities.
 >
@@ -686,19 +676,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), business (5), [[Microsoft Products|Products]] (5), ai (1), product (1)
+> **Frameworks & Libraries:** [[Data Quality]] (5), [[Microsoft Products|Products]] (5), [[Data Integrity]] (1), [[Business Operations]] (1)
 > **Analogies:** for example (6)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data validation and verification procedures
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-validation-and-verification-procedures?u=76281980)
+#### [Data validation and verification procedures](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-validation-and-verification-procedures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-validation-and-verification-procedures?u=76281980&t=0)** - [Narrator] Data validation frameworks can help us improve data quality across a number of dimensions.
+> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-validation-and-verification-procedures?u=76281980&t=0)** - [Narrator] [[Data Validation]] frameworks can help us improve [[Data Quality]] across a number of dimensions.
 >
 > **[0:06](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-validation-and-verification-procedures?u=76281980&t=6)** Completeness checks ensure all required fields contain values for critical business processes.
 >
@@ -714,7 +703,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-validation-and-verification-procedures?u=76281980&t=49)** Now there are different verification methods, including automated and human methods.
 >
-> **[0:54](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-validation-and-verification-procedures?u=76281980&t=54)** Well, automated quality checks serve as a first line of defense for data integrity.
+> **[0:54](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-validation-and-verification-procedures?u=76281980&t=54)** Well, automated quality checks serve as a first line of defense for [[Data Integrity]].
 >
 > **[1:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-validation-and-verification-procedures?u=76281980&t=60)** Now they include things like range validation, which identifies for example, pricing and quantity anomalies that fall outside acceptable boundaries.
 >
@@ -726,7 +715,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-validation-and-verification-procedures?u=76281980&t=94)** For example, store associates can confirm that physical shelf placement corresponds to the official planning for that particular kind of product.
 >
-> **[1:43](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-validation-and-verification-procedures?u=76281980&t=103)** And merchandising teams can validate attribute tagging to ensure products appear and appropriate search results.
+> **[1:43](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-validation-and-verification-procedures?u=76281980&t=103)** And merchandising teams can validate attribute tagging to ensure [[Microsoft Products|products]] appear and appropriate search results.
 >
 > **[1:51](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-validation-and-verification-procedures?u=76281980&t=111)** Now with regards to implementation, there's some things we want to keep in mind with regard to data validation frameworks.
 >
@@ -740,25 +729,24 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-validation-and-verification-procedures?u=76281980&t=136)** We also want to understand that effective validation combines both automated checks and human verification.
 >
-> **[2:24](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-validation-and-verification-procedures?u=76281980&t=144)** So it's important to establish clear ownership and accountability for data quality by particular business domain.
+> **[2:24](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-validation-and-verification-procedures?u=76281980&t=144)** So it's important to establish clear ownership and [[Accountability]] for data quality by particular business domain.
 >
 > **[2:32](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-validation-and-verification-procedures?u=76281980&t=152)** And we want to be able to measure the validation impact through key performance indicators, and those key performance indicators should be tied to specific business outcomes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), business (4), product (4), [[Automation]] (1), teams (1)
+> **Frameworks & Libraries:** [[Data Validation]] (4), [[Data Quality]] (2), [[Data Integrity]] (1), [[Microsoft Products|Products]] (1), [[Accountability]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Error detection and correction methodologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/error-detection-and-correction-methodologies?u=76281980)
+#### [Error detection and correction methodologies](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/error-detection-and-correction-methodologies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/error-detection-and-correction-methodologies?u=76281980&t=0)** - [Narrator] It's important to be able to detect data quality issues.
+> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/error-detection-and-correction-methodologies?u=76281980&t=0)** - [Narrator] It's important to be able to detect [[Data Quality]] issues.
 >
 > **[0:03](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/error-detection-and-correction-methodologies?u=76281980&t=3)** Now, some common data quality issues that we will likely run into are things like missing values that create gaps in analysis, and that leads to incomplete insights and potentially biased model predictions.
 >
@@ -766,7 +754,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/error-detection-and-correction-methodologies?u=76281980&t=22)** Duplication waste storage resources and creates inconsistency in aggregated metrics.
 >
-> **[0:29](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/error-detection-and-correction-methodologies?u=76281980&t=29)** Structural errors like format inconsistencies prevent proper data integration across systems and label errors can result in misleading categorizations that compromise downstream analytics.
+> **[0:29](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/error-detection-and-correction-methodologies?u=76281980&t=29)** Structural errors like format inconsistencies prevent proper [[Data Integration]] across systems and label errors can result in misleading categorizations that compromise downstream analytics.
 >
 > **[0:42](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/error-detection-and-correction-methodologies?u=76281980&t=42)** So how do we detect them?
 >
@@ -782,7 +770,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/error-detection-and-correction-methodologies?u=76281980&t=81)** These include using business logic validation rules to enforce domain-specific constraints according to operational requirements.
 >
-> **[1:30](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/error-detection-and-correction-methodologies?u=76281980&t=90)** We can also use domain-specific constraint checking that apply specialized knowledge to data validation processes, and using regular expression pattern matching to ensure data adheres to predetermined formats and structures.
+> **[1:30](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/error-detection-and-correction-methodologies?u=76281980&t=90)** We can also use domain-specific constraint checking that apply specialized knowledge to [[Data Validation]] processes, and using regular expression pattern matching to ensure data adheres to predetermined formats and structures.
 >
 > **[1:45](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/error-detection-and-correction-methodologies?u=76281980&t=105)** Machine learning also lends itself as a detection method.
 >
@@ -802,9 +790,9 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/error-detection-and-correction-methodologies?u=76281980&t=168)** Automated correction is also an option.
 >
-> **[2:50](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/error-detection-and-correction-methodologies?u=76281980&t=170)** Now, in that case, we can use things like imputation techniques to fill in missing values using methods ranging from simple averages to more sophisticated algorithms.
+> **[2:50](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/error-detection-and-correction-methodologies?u=76281980&t=170)** Now, in that case, we can use things like imputation techniques to fill in missing values using methods ranging from simple averages to more sophisticated [[Algorithms]].
 >
-> **[3:01](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/error-detection-and-correction-methodologies?u=76281980&t=181)** Now, normalization and standardization are transformations that correct scale issues to make features comparable for analysis and automated transformation pipelines can streamline recurring data preparation and incorporate correction into existing data workflows.
+> **[3:01](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/error-detection-and-correction-methodologies?u=76281980&t=181)** Now, normalization and standardization are transformations that correct scale issues to make features comparable for analysis and automated transformation pipelines can streamline recurring [[Data Preparation]] and incorporate correction into existing data workflows.
 >
 > **[3:20](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/error-detection-and-correction-methodologies?u=76281980&t=200)** Now here's some implementation guidance with regards to detection methods.
 >
@@ -814,42 +802,40 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/error-detection-and-correction-methodologies?u=76281980&t=219)** We also want to maintain clear records of all detection and correction decisions for transparency and governance and for improving the process overall.
 >
-> **[3:48](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/error-detection-and-correction-methodologies?u=76281980&t=228)** We also want to create feedback loops to systematically improve the data collection based on our different quality findings.
+> **[3:48](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/error-detection-and-correction-methodologies?u=76281980&t=228)** We also want to create feedback loops to systematically improve the [[Data Collection]] based on our different quality findings.
 >
 > **[3:56](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/error-detection-and-correction-methodologies?u=76281980&t=236)** And then we want to track business KPIs to quantify the impact of improved data quality on operational outcomes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), business (4), [[Analytics]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (3), [[Data Integration]] (1), [[Data Validation]] (1), [[Algorithms]] (1), [[Data Preparation]] (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** iqr (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Data quality assessment
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-data-quality-assessment?u=76281980)
+#### [Challenge: Data quality assessment](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-data-quality-assessment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-data-quality-assessment?u=76281980&t=0)** - [Instructor] For this challenge, I would like you to identify some types of data quality detection methods.
+> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-data-quality-assessment?u=76281980&t=0)** - [Instructor] For this challenge, I would like you to identify some types of [[Data Quality]] detection methods.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
+> **Frameworks & Libraries:** [[Data Quality]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Data quality assessment
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-data-quality-assessment?u=76281980)
+#### [Solution: Data quality assessment](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-data-quality-assessment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-data-quality-assessment?u=76281980&t=0)** - [Narrator] There are several types of data quality detection methods, including statistical methods, rule-based methods, machine learning methods, and manual detection methods.
+> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-data-quality-assessment?u=76281980&t=0)** - [Narrator] There are several types of [[Data Quality]] detection methods, including statistical methods, rule-based methods, machine learning methods, and manual detection methods.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
+> **Frameworks & Libraries:** [[Data Quality]] (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -858,8 +844,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data normalization and standardization
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-normalization-and-standardization?u=76281980)
+#### [Data normalization and standardization](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-normalization-and-standardization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -869,7 +854,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-normalization-and-standardization?u=76281980&t=17)** Standardization is a complimentary technique and it typically is applied to categorical data like text data.
 >
-> **[0:23](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-normalization-and-standardization?u=76281980&t=23)** And it reformats data structures and representations to ensure consistency across systems.
+> **[0:23](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-normalization-and-standardization?u=76281980&t=23)** And it reformats [[Data Structures]] and representations to ensure consistency across systems.
 >
 > **[0:29](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-normalization-and-standardization?u=76281980&t=29)** Now these techniques improve algorithm performance by preventing features with large scales from dominating in the case of numeric values.
 >
@@ -895,13 +880,13 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-normalization-and-standardization?u=76281980&t=108)** Now let's take a look at data standardization.
 >
-> **[1:51](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-normalization-and-standardization?u=76281980&t=111)** First, we'll take a look at products.
+> **[1:51](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-normalization-and-standardization?u=76281980&t=111)** First, we'll take a look at [[Microsoft Products|products]].
 >
 > **[1:53](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-normalization-and-standardization?u=76281980&t=113)** Now, consistent product naming conventions eliminate confusion and improve searchability when we're looking for products.
 >
 > **[2:01](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-normalization-and-standardization?u=76281980&t=121)** Now, uniform size representations ensure accurate filtering and comparison across product categories.
 >
-> **[2:09](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-normalization-and-standardization?u=76281980&t=129)** We may also want to standardize, for example, on color naming to prevent fragmentation of inventory and data reporting.
+> **[2:09](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-normalization-and-standardization?u=76281980&t=129)** We may also want to standardize, for example, on color naming to prevent fragmentation of inventory and [[Data Reporting]].
 >
 > **[2:16](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-normalization-and-standardization?u=76281980&t=136)** And then consistent category hierarchies are important because they enable proper product classification and merchandising analysis.
 >
@@ -947,7 +932,7 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-normalization-and-standardization?u=76281980&t=266)** We also want to establish standardization rules and comprehensive data dictionaries to actually guide the implementation.
 >
-> **[4:33](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-normalization-and-standardization?u=76281980&t=273)** We should also include time and resources for implementing data quality checks to validate the normalization accuracy and prevent any kind of distortion.
+> **[4:33](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-normalization-and-standardization?u=76281980&t=273)** We should also include time and resources for implementing [[Data Quality]] checks to validate the normalization accuracy and prevent any kind of distortion.
 >
 > **[4:44](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-normalization-and-standardization?u=76281980&t=284)** Now another important factor is, like so much in planning for AI, this is not a one-time operation.
 >
@@ -961,13 +946,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), product (3), [[Microsoft Products|Products]] (2), application (2), business (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Data Structures]] (1), [[Data Reporting]] (1), [[Data Quality]] (1)
 > **Analogies:** for example (4), imagine (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Handling missing data and outliers
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/handling-missing-data-and-outliers?u=76281980)
+#### [Handling missing data and outliers](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/handling-missing-data-and-outliers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1079,15 +1063,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), business (4), ai (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (3)
 > **Warnings:** be careful (2)
 > **Speakers:** - [instructor] (1)
 
-#### Data augmentation techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-augmentation-techniques?u=76281980)
+#### [Data augmentation techniques](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-augmentation-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1121,11 +1103,11 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-augmentation-techniques?u=76281980&t=86)** And we can even apply statistical modeling to generate completely new but plausible records.
 >
-> **[1:33](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-augmentation-techniques?u=76281980&t=93)** Text augmentation comes in different forms.
+> **[1:33](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-augmentation-techniques?u=76281980&t=93)** Text augmentation comes in different [[Forms]].
 >
 > **[1:35](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-augmentation-techniques?u=76281980&t=95)** We can start with lexical text augmentation.
 >
-> **[1:38](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-augmentation-techniques?u=76281980&t=98)** Here, we can do things like swap words with synonyms using a thesauri or word embeddings.
+> **[1:38](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-augmentation-techniques?u=76281980&t=98)** Here, we can do things like swap words with synonyms using a thesauri or [[Microsoft Word|word]] embeddings.
 >
 > **[1:46](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-augmentation-techniques?u=76281980&t=106)** We can also randomly insert, delete or swap words to create variations, and we can apply or fix spelling errors to make models more robust.
 >
@@ -1137,7 +1119,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-augmentation-techniques?u=76281980&t=134)** And these changes help the model to focus on meaning and not just on specific phrasing.
 >
-> **[2:22](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-augmentation-techniques?u=76281980&t=142)** We can also use generative AI to augment text data.
+> **[2:22](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-augmentation-techniques?u=76281980&t=142)** We can also use [[Generative AI]] to augment text data.
 >
 > **[2:26](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-augmentation-techniques?u=76281980&t=146)** So in this case, we use language models to create contextually appropriate variations, and we can also do things like replace entities with variations on names, locations, dates, and so on.
 >
@@ -1173,13 +1155,13 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-augmentation-techniques?u=76281980&t=242)** Like so much else we do in building AI models and AI applications, we want to make sure that we are able to automate much of this work.
 >
-> **[4:12](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-augmentation-techniques?u=76281980&t=252)** So we want to automate data augmentation, including automating data quality checks on the augmented data.
+> **[4:12](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-augmentation-techniques?u=76281980&t=252)** So we want to automate data augmentation, including automating [[Data Quality]] checks on the augmented data.
 >
 > **[4:21](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-augmentation-techniques?u=76281980&t=261)** And then finally, we want to find the optimal augmentation volume by monitoring for diminishing returns on the impact on the model quality.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Generative AI]] (2), ai (2), business (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Forms]] (1), [[Microsoft Word|Word]] (1), [[Data Quality]] (1)
 > **Analogies:** for example (5), such as (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** smote (2)
@@ -1187,12 +1169,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Feature engineering and selection
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-engineering-and-selection?u=76281980)
+#### [Feature engineering and selection](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-engineering-and-selection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-engineering-and-selection?u=76281980&t=0)** - [Instructor] Feature engineering and feature selection is another aspect of working with data for AI initiatives.
+> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-engineering-and-selection?u=76281980&t=0)** - [Instructor] [[Feature Engineering]] and feature selection is another aspect of working with data for AI initiatives.
 >
 > **[0:08](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-engineering-and-selection?u=76281980&t=8)** Now, feature engineering is the process of creating new variables from existing data to boost model performance.
 >
@@ -1208,7 +1189,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-engineering-and-selection?u=76281980&t=55)** Now we also have customer data and that includes things like demographics, loyalty program behavior, and also website browsing patterns.
 >
-> **[1:05](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-engineering-and-selection?u=76281980&t=65)** With products, we have features like size and color plus category relationships.
+> **[1:05](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-engineering-and-selection?u=76281980&t=65)** With [[Microsoft Products|products]], we have features like size and color plus category relationships.
 >
 > **[1:11](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-engineering-and-selection?u=76281980&t=71)** Now these raw features, they actually form the foundation of more sophisticated derived features, which we can build using feature engineering techniques.
 >
@@ -1286,15 +1267,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (9), data (9), [[Feature Engineering]] (6), [[Microsoft Products|Products]] (3), business (3)
+> **Frameworks & Libraries:** [[Feature Engineering]] (6), [[Microsoft Products|Products]] (3)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** is a  (1), is called (1), known as (1)
 > **Analogies:** for example (1), such as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Engineer features
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-engineer-features?u=76281980)
+#### [Challenge: Engineer features](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-engineer-features?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1302,11 +1282,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Engineer features
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-engineer-features?u=76281980)
+#### [Solution: Engineer features](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-engineer-features?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1330,7 +1308,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (uplifting music) (1)
@@ -1340,8 +1317,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of storage systems: Object storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-object-storage?u=76281980)
+#### [Types of storage systems: Object storage](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-object-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1351,13 +1327,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-object-storage?u=76281980&t=7)** Now, with object storage, we treat data as self-contained units rather than files in a hierarchical system.
 >
-> **[0:14](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-object-storage?u=76281980&t=14)** Each object bundles the data itself, as well as metadata about it and a unique identifier.
+> **[0:14](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-object-storage?u=76281980&t=14)** Each object bundles the data itself, as well as [[Metadata]] about it and a unique identifier.
 >
 > **[0:21](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-object-storage?u=76281980&t=21)** Object storage uses a flat address space instead of folders and directories, so there's no hierarchical structure.
 >
 > **[0:29](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-object-storage?u=76281980&t=29)** And typically, we access object storage using APIs, like standard HTTP protocols.
 >
-> **[0:36](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-object-storage?u=76281980&t=36)** Now, object storage is available from a number of major cloud providers, including Amazon, which offers S3, and then Google Cloud Storage and Azure Blob Storage are other examples.
+> **[0:36](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-object-storage?u=76281980&t=36)** Now, object storage is available from a number of major cloud providers, including Amazon, which offers S3, and then [[Google Cloud Platform (GCP)|Google Cloud]] Storage and [[Microsoft Azure|Azure]] Blob Storage are other examples.
 >
 > **[0:47](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-object-storage?u=76281980&t=47)** Now, there are several key features of object storage.
 >
@@ -1387,7 +1363,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-object-storage?u=76281980&t=133)** Also, the cloud providers and other object storage systems provide rich metadata capabilities for storing context about our data.
 >
-> **[2:23](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-object-storage?u=76281980&t=143)** And this data actually enables us to build sophisticated lifecycle data management and government policies within the object storage system.
+> **[2:23](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-object-storage?u=76281980&t=143)** And this data actually enables us to build sophisticated lifecycle [[Data Management]] and government policies within the object storage system.
 >
 > **[2:33](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-object-storage?u=76281980&t=153)** Now, there are additional key features that are important.
 >
@@ -1409,7 +1385,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-object-storage?u=76281980&t=212)** And object storage is ideal for massive AI training sets including images, videos and text data sets.
 >
-> **[3:40](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-object-storage?u=76281980&t=220)** It has rich metadata, which allows for tracking dataset versions and maintaining data lineage.
+> **[3:40](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-object-storage?u=76281980&t=220)** It has rich metadata, which allows for tracking dataset versions and maintaining [[Data Lineage]].
 >
 > **[3:47](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-object-storage?u=76281980&t=227)** Also, immutable storage preserves training set integrity, and that's important for reproducible results.
 >
@@ -1417,19 +1393,18 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-object-storage?u=76281980&t=240)** So, we can store large machine learning models that can reach hundreds of gigabytes.
 >
-> **[4:07](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-object-storage?u=76281980&t=247)** We can also take advantage of immutable objects, which enable reliable version control for model iterations.
+> **[4:07](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-object-storage?u=76281980&t=247)** We can also take advantage of immutable objects, which enable reliable [[Version Control]] for model iterations.
 >
 > **[4:13](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-object-storage?u=76281980&t=253)** And metadata tagging supports model governance and compliance requirements.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), ai (4), [[Metadata]] (4), cloud (3), management (3)
+> **Frameworks & Libraries:** [[Metadata]] (4), [[Data Management]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Azure|Azure]] (1), [[Data Lineage]] (1)
 > **Env Vars:** http (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Types of storage systems: Block and file storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980)
+#### [Types of storage systems: Block and file storage](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1441,7 +1416,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=17)** So for example, we might have a directory name with sub directories followed by a slash and another subdirectory name.
 >
-> **[0:24](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=24)** Now, we also have a number of different protocols like NFS and SMB that are widely used as well as some more specialized protocols like Google File Store.
+> **[0:24](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=24)** Now, we also have a number of different protocols like NFS and SMB that are widely used as well as some more specialized protocols like [[Google]] File Store.
 >
 > **[0:36](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=36)** Now, file storage is most intuitive for users who are accustomed to working with traditional computing environments, desktop devices, and so on.
 >
@@ -1453,7 +1428,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=58)** And this is ideal when you want to deliver high performance with minimal latency.
 >
-> **[1:02](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=62)** Now, there are different examples of block storage protocols like SAN or AWS, EBS, or Azure Disk Storage, as well as Google Persistent Disk.
+> **[1:02](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=62)** Now, there are different examples of block storage protocols like SAN or AWS, EBS, or [[Microsoft Azure|Azure]] Disk Storage, as well as Google Persistent Disk.
 >
 > **[1:12](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=72)** And these are ideal for applications that require consistent IO performance.
 >
@@ -1461,17 +1436,17 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=83)** It provides for interactive access for data scientists during development.
 >
-> **[1:29](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=89)** It's also used for code repositories in Jupyter Notebooks, commonly used by data scientists, and it integrates directly with popular machine learning frameworks, and it offers simple data management through familiar directory structures.
+> **[1:29](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=89)** It's also used for code repositories in Jupyter Notebooks, commonly used by data scientists, and it integrates directly with popular machine learning frameworks, and it offers simple [[Data Management]] through familiar directory structures.
 >
 > **[1:44](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=104)** So file storage is important in AI workflows because they deliver fast, consistent access that's needed for real time applications.
 >
 > **[1:53](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=113)** Now, block storage is also important in AI workflows.
 >
-> **[1:57](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=117)** Block storage is ideal for structured AI metadata that requires transactional integrity.
+> **[1:57](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=117)** Block storage is ideal for structured AI [[Metadata]] that requires transactional integrity.
 >
 > **[2:04](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=124)** Now we can use block storage with feature stores that need reliable transaction processing.
 >
-> **[2:10](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=130)** It also provides fast consistent IO for relational databases supporting AI systems.
+> **[2:10](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=130)** It also provides fast consistent IO for [[Relational Databases]] supporting AI systems.
 >
 > **[2:16](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=136)** In addition, block storage enables high speed local caching for models for quick access, and it's critical for low latency access in time sensitive inference scenarios.
 >
@@ -1487,25 +1462,25 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=175)** When it comes to performance, expect the best performance by block storage, followed by file storage, and then object storage.
 >
-> **[3:02](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=182)** With regards to scalability, object storage really stands out among all three as by far the best.
+> **[3:02](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=182)** With regards to [[Scalability]], object storage really stands out among all three as by far the best.
 >
 > **[3:09](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=189)** In terms of shared access, object storage is really easy because it's universally accessible, but file storage is relatively easily shared as well.
 >
 > **[3:17](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=197)** Block storage is definitely not easily shared.
 >
-> **[3:21](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=201)** So when you're choosing a particular storage system that you want to use for a particular component in your AI system, you want to think about these different kinds of workload requirements and characteristics or features of each of the types of data storage.
+> **[3:21](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=201)** So when you're choosing a particular storage system that you want to use for a particular component in your AI system, you want to think about these different kinds of workload requirements and characteristics or features of each of the types of [[Data Storage]].
 >
 > **[3:36](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=216)** Now, some things to keep in mind, each storage type really serves a distinct role within the overall AI workflow and support environment.
 >
 > **[3:46](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=226)** File storage handles development environments and active workloads.
 >
-> **[3:50](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=230)** Block storage is really the foundation for performance critical computing and databases, while object storage manages massive data lakes and model registries.
+> **[3:50](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=230)** Block storage is really the foundation for performance critical computing and [[Databases]], while object storage manages massive [[Data Lakes]] and model registries.
 >
 > **[4:02](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-block-and-file-storage?u=76281980&t=242)** Now, modern AI pipelines typically benefit from a hybrid mixed approach that combines all three data types.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), data (8), [[Google]] (2), aws (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft Azure|Azure]] (1), [[Data Management]] (1), [[Metadata]] (1), [[Relational Databases]] (1)
 > **Env Vars:** nfs (1), smb (1), san (1), aws (1), ebs (1)
 > **CLI Commands:** aws (1)
 > **Tools:** jupyter (1)
@@ -1514,12 +1489,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of storage systems: Databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980)
+#### [Types of storage systems: Databases](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=0)** - [Instructor] Let's turn our attention to databases which provide structured queryable storage, optimized for complex data operations.
+> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=0)** - [Instructor] Let's turn our attention to [[Databases]] which provide structured queryable storage, optimized for complex data operations.
 >
 > **[0:08](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=8)** Databases organize data in formats that make it easily accessible, and also allow us to manipulate that data through specialized query languages.
 >
@@ -1527,9 +1501,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=25)** Now, databases in general support complex queries, transactions, and some fairly complex or sophisticated data relationships.
 >
-> **[0:33](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=33)** Popular examples of databases include MySQL and Postgres, which are relational databases.
+> **[0:33](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=33)** Popular examples of databases include [[MySQL]] and [[PostgreSQL|Postgres]], which are [[Relational Databases]].
 >
-> **[0:39](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=39)** MongoDB, which is a document type database, Redis, which is a key value pair database, and Snowflake, which is a cloud data warehousing platform.
+> **[0:39](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=39)** [[MongoDB]], which is a document type database, [[Redis]], which is a key value pair database, and [[Snowflake]], which is a cloud [[Data Warehousing]] platform.
 >
 > **[0:50](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=50)** There are certain key features around how we structure data.
 >
@@ -1537,7 +1511,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=62)** We often have schema-defined data models, which ensure consistent representation of data elements and their relationships.
 >
-> **[1:10](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=70)** Now, data integrity constraints prevent invalid information from entering the database and help us maintain data quality.
+> **[1:10](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=70)** Now, [[Data Integrity]] constraints prevent invalid information from entering the database and help us maintain [[Data Quality]].
 >
 > **[1:17](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=77)** Meanwhile, we also take advantage of optimized indexing, which can dramatically accelerate data retrieval operations and make queries faster.
 >
@@ -1559,11 +1533,11 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=135)** And all of these together are critical for transaction applications.
 >
-> **[2:21](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=141)** Now, another set of key features are oriented around query optimization, which represents a significant advantage for database systems over other storage systems like raw file storage.
+> **[2:21](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=141)** Now, another set of key features are oriented around query optimization, which represents a significant advantage for [[Database Systems]] over other storage systems like raw file storage.
 >
 > **[2:32](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=152)** These query systems include built-in query planners that automatically determine the most efficient execution path for retrieving data, as well as caching mechanisms that can store frequently accessed data 'cause that can help with faster retrieval.
 >
-> **[2:46](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=166)** They also maintain statistics because that helps inform execution plan development so we can make more intelligent processing decisions.
+> **[2:46](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=166)** They also maintain [[Statistics]] because that helps inform execution plan development so we can make more intelligent processing decisions.
 >
 > **[2:56](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=176)** There's also support for programming interfaces, which allow for integration with application code.
 >
@@ -1573,7 +1547,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=193)** Probably the most popular are relational databases, which organize data in tables with predefined relationships.
 >
-> **[3:20](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=200)** They use SQL as a standardized query language even across different implementations.
+> **[3:20](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=200)** They use [[SQL]] as a standardized query language even across different implementations.
 >
 > **[3:26](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=206)** One of the key characteristics of relational databases is the ability to maintain data consistency and support complex queries.
 >
@@ -1581,15 +1555,15 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=217)** They have really mature ecosystems, and so they're really suitable for a wide range of applications.
 >
-> **[3:43](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=223)** Now, another type of database are NoSQL databases, and NoSQL databases emerge to address some of the limitations of relational databases, at least with regards to certain workloads.
+> **[3:43](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=223)** Now, another type of database are [[NoSQL]] databases, and NoSQL databases emerge to address some of the limitations of relational databases, at least with regards to certain workloads.
 >
-> **[3:54](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=234)** Now, there are different types of NoSQL databases, document databases like MongoDB and Couchbase store semi-structured data in flexible formats.
+> **[3:54](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=234)** Now, there are different types of NoSQL databases, document databases like MongoDB and [[Couchbase]] store semi-structured data in flexible formats.
 >
 > **[4:05](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=245)** Key-value stores like Redis and DynamoDB offer extremely fast access to relatively simply structured data.
 >
-> **[4:12](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=252)** While column-family databases like Cassandra excel at handling really massive distributed data sets.
+> **[4:12](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=252)** While column-family databases like Cassandra [[Microsoft Excel|excel]] at handling really massive distributed data sets.
 >
-> **[4:19](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=259)** And graph databases like Neo4j and Neptune are highly optimized for highly-connected network data.
+> **[4:19](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=259)** And graph databases like [[Neo4j]] and Neptune are highly optimized for highly-connected network data.
 >
 > **[4:27](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=267)** Now, we can use relational databases and no SQL databases for different use cases.
 >
@@ -1597,15 +1571,15 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=280)** Feature stores represent specialized database systems designed specifically for machine learning workflows.
 >
-> **[4:46](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=286)** They provide version control for tracking changes to feature definitions over time.
+> **[4:46](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=286)** They provide [[Version Control]] for tracking changes to feature definitions over time.
 >
 > **[4:52](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=292)** Feature stores enable consistent transformation pipelines, and that ensures that features are processed identically, whether it's in training or in production.
 >
-> **[5:02](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=302)** They're also efficient at serving and optimizing both batch training and real-time inference scenarios.
+> **[5:02](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=302)** They're also efficient at serving and optimizing both batch training and [[Real-Time]] inference scenarios.
 >
 > **[5:10](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=310)** Some examples of feature store our Feast, Tecton, and Amazon SageMaker's feature store.
 >
-> **[5:16](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=316)** Now, another use case for databases is model metadata management.
+> **[5:16](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=316)** Now, another use case for databases is model [[Metadata]] management.
 >
 > **[5:20](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=320)** When we talk about models here, we're talking about machine learning models or AI models.
 >
@@ -1613,19 +1587,19 @@ created: 2026-05-02
 >
 > **[5:31](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=331)** They store model version, parameters, and other artifacts that are important for being able to reproduce that model.
 >
-> **[5:39](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=339)** And so, it includes things like training run history, which captures the progression of the model over time, experiment tracking facilities, which are useful for comparing between different modeling approaches, lineage tracking for deployed models, and that's useful for creating audit trails, especially for regulatory compliance.
+> **[5:39](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=339)** And so, it includes things like training run history, which captures the progression of the model over time, experiment tracking facilities, which are useful for comparing between different modeling approaches, lineage tracking for deployed models, and that's useful for creating audit trails, especially for [[Regulatory Compliance]].
 >
-> **[5:58](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=358)** Now, popular tools around model metadata management include platforms like MLFlow, and Weights & Biases, which integrate with most ML frameworks.
+> **[5:58](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=358)** Now, popular tools around model metadata management include platforms like [[MLflow]], and Weights & Biases, which integrate with most ML frameworks.
 >
-> **[6:09](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=369)** Now, vector databases is another use case for databases in AI.
+> **[6:09](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=369)** Now, [[Vector Databases]] is another use case for databases in AI.
 >
-> **[6:14](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=374)** Vector databases represent a specialized category of database optimized for similarity-based searches over unstructured data.
+> **[6:14](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=374)** Vector databases represent a specialized category of database optimized for similarity-based searches over [[Unstructured Data]].
 >
 > **[6:23](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=383)** They efficiently support operations on high-dimensional vectors, which are fundamental to modern AI, especially when working with unstructured data like text, video, and audio.
 >
-> **[6:33](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=393)** These systems are essential for application embeddings, which is how we represent those unstructured data types for machine learning applications, and they form the core infrastructure for semantic search systems.
+> **[6:33](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=393)** These systems are essential for application embeddings, which is how we represent those unstructured data types for machine learning applications, and they form the core infrastructure for [[Semantic Search]] systems.
 >
-> **[6:48](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=408)** Now, some examples include Pinecone, Milvus, and the pgvector extension in PostgreSQL.
+> **[6:48](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=408)** Now, some examples include [[Pinecone]], Milvus, and the pgvector extension in [[PostgreSQL]].
 >
 > **[6:57](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=417)** So, when do we use databases in AI?
 >
@@ -1645,17 +1619,17 @@ created: 2026-05-02
 >
 > **[7:56](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=476)** We also want to consider current and future scaling requirements when you're designing your database architecture.
 >
-> **[8:02](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=482)** Evaluate managed database services versus self-hosted options based on your team's experience and your tolerance for having to perform database management operations yourself.
+> **[8:02](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=482)** Evaluate managed database services versus self-hosted options based on your team's experience and your tolerance for having to perform [[Database Management]] operations yourself.
 >
 > **[8:14](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=494)** Plan comprehensive backup and recovery strategies, and implement appropriate security controls.
 >
 > **[8:20](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=500)** Now, this should include authentication, authorization, and encryption.
 >
-> **[8:24](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=504)** And then, finally, be sure you establish monitoring for key performance metrics to identify any issues before they start to impact users.
+> **[8:24](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/types-of-storage-systems-databases?u=76281980&t=504)** And then, finally, be sure you establish monitoring for key [[Performance Metrics]] to identify any issues before they start to impact users.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Databases]] (21), database (15), ai (7), [[Relational Databases]] (6)
+> **Frameworks & Libraries:** [[Databases]] (21), [[Relational Databases]] (6), [[NoSQL]] (3), [[Metadata]] (3), [[Unstructured Data]] (3)
 > **Definitions:** is a  (5), stands for (1), is an  (1), known as (1)
 > **CLI Commands:** make (3), mysql (1)
 > **Env Vars:** sql (2), acid (1)
@@ -1663,23 +1637,21 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Storage system selection
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-storage-system-selection?u=76281980)
+#### [Challenge: Storage system selection](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-storage-system-selection?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-storage-system-selection?u=76281980&t=0)** (intriguing music)
 >
-> **[0:05](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-storage-system-selection?u=76281980&t=5)** - [Instructor] In this challenge, I would like you to identify what type of data storage system would you use for storing large volumes of training data, and also what type of storage system would you use for storing and serving features?
+> **[0:05](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-storage-system-selection?u=76281980&t=5)** - [Instructor] In this challenge, I would like you to identify what type of [[Data Storage]] system would you use for storing large volumes of training data, and also what type of storage system would you use for storing and serving features?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
+> **Frameworks & Libraries:** [[Data Storage]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (intriguing music) (1)
 
-#### Solution: Storage system selection
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-storage-system-selection?u=76281980)
+#### [Solution: Storage system selection](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-storage-system-selection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1687,11 +1659,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-storage-system-selection?u=76281980&t=7)** Object storage is really ideal for storing large volumes of training data.
 >
-> **[0:11](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-storage-system-selection?u=76281980&t=11)** While databases are well-suited for serving features, and in fact, feature stores are often implemented on different types of databases.
+> **[0:11](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-storage-system-selection?u=76281980&t=11)** While [[Databases]] are well-suited for serving features, and in fact, feature stores are often implemented on different types of databases.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (2), data (1), feature (1)
+> **Frameworks & Libraries:** [[Databases]] (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1700,12 +1672,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Batch processing systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/batch-processing-systems?u=76281980)
+#### [Batch processing systems](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/batch-processing-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/batch-processing-systems?u=76281980&t=0)** - [Instructor] We process data in AI using different processing patterns, one of which is called batch processing.
+> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/batch-processing-systems?u=76281980&t=0)** - [Instructor] We process data in AI using different processing patterns, one of which is called [[Batch Processing]].
 >
 > **[0:06](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/batch-processing-systems?u=76281980&t=6)** This is where we process large volumes of data in predefined groups rather than continuously.
 >
@@ -1733,17 +1704,17 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/batch-processing-systems?u=76281980&t=101)** We also use batch processing when we do cross validation for comprehensive model evaluation.
 >
-> **[1:48](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/batch-processing-systems?u=76281980&t=108)** Data preparation is another workload or pattern where batch processing makes sense.
+> **[1:48](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/batch-processing-systems?u=76281980&t=108)** [[Data Preparation]] is another workload or pattern where batch processing makes sense.
 >
 > **[1:53](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/batch-processing-systems?u=76281980&t=113)** We use ETL or extraction transformation and load processes for creating training sets.
 >
-> **[1:59](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/batch-processing-systems?u=76281980&t=119)** And we also use batch processing for feature engineering at scale when we're working with say, millions of records.
+> **[1:59](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/batch-processing-systems?u=76281980&t=119)** And we also use batch processing for [[Feature Engineering]] at scale when we're working with say, millions of records.
 >
 > **[2:06](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/batch-processing-systems?u=76281980&t=126)** Also, if we have a comprehensive data cleansing and normalization operation, or if we're running training validation and test generation, we would want to use batch processing.
 >
 > **[2:17](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/batch-processing-systems?u=76281980&t=137)** We can also use batch processing when we're working with complex engineered feature calculations.
 >
-> **[2:24](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/batch-processing-systems?u=76281980&t=144)** Now, when we're talking about the architecture or the technical architecture of batch processing, we may want to use a distributed computing platform like Spark or Hadoop.
+> **[2:24](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/batch-processing-systems?u=76281980&t=144)** Now, when we're talking about the architecture or the technical architecture of batch processing, we may want to use a distributed computing platform like Spark or [[Hadoop]].
 >
 > **[2:34](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/batch-processing-systems?u=76281980&t=154)** We also want to take advantage of accelerators like GPUs and TPUs and use those with clusters, especially when we're working with neural network training.
 >
@@ -1755,7 +1726,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/batch-processing-systems?u=76281980&t=189)** We can also take advantage of off peak processing, which sometimes have lower cost and more availability with regards to our computing resources.
 >
-> **[3:18](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/batch-processing-systems?u=76281980&t=198)** Batch processing allows us to do fairly predictable budgeting and resource allocation, and there's also some more operational stability because with batch processing, we can have clearly defined maintenance windows.
+> **[3:18](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/batch-processing-systems?u=76281980&t=198)** Batch processing allows us to do fairly predictable budgeting and resource allocation, and there's also some more operational stability because with batch processing, we can have clearly defined maintenance [[Windows]].
 >
 > **[3:32](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/batch-processing-systems?u=76281980&t=212)** And also batch processing allows for more simplified monitoring and troubleshooting than we might have if we're working with, say, a stream processing model, which we'll talk about shortly.
 >
@@ -1769,7 +1740,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Batch Processing]] (21), data (9), ai (4), etl (1), [[Feature Engineering]] (1)
+> **Frameworks & Libraries:** [[Batch Processing]] (21), [[Data Preparation]] (1), [[Feature Engineering]] (1), [[Hadoop]] (1), [[Windows]] (1)
 > **Definitions:** is called (1), is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** etl (1)
@@ -1777,12 +1748,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stream processing systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/stream-processing-systems?u=76281980)
+#### [Stream processing systems](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/stream-processing-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/stream-processing-systems?u=76281980&t=0)** - [Instructor] Stream processing is an alternative to batch processing.
+> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/stream-processing-systems?u=76281980&t=0)** - [Instructor] Stream processing is an alternative to [[Batch Processing]].
 >
 > **[0:04](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/stream-processing-systems?u=76281980&t=4)** Now, stream processing analyzes data in real time as it arrives rather than waiting to process it in batches.
 >
@@ -1790,9 +1760,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/stream-processing-systems?u=76281980&t=15)** So then unlike batch processing, it handles each data point or maybe small micro batches individually as those data points or micro batches flow through the system.
 >
-> **[0:25](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/stream-processing-systems?u=76281980&t=25)** Now this allows AI systems to react to events instantly rather than waiting for, like, a scheduled processing time to arrive.
+> **[0:25](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/stream-processing-systems?u=76281980&t=25)** Now this allows AI systems to [[React.js|react]] to events instantly rather than waiting for, like, a scheduled processing time to arrive.
 >
-> **[0:34](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/stream-processing-systems?u=76281980&t=34)** Stream processing has really become essential for applications where small delays could really adversely impact business outcomes or our user experience.
+> **[0:34](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/stream-processing-systems?u=76281980&t=34)** Stream processing has really become essential for applications where small delays could really adversely impact business outcomes or our [[User Experience (UX)|user experience]].
 >
 > **[0:44](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/stream-processing-systems?u=76281980&t=44)** Stream processing works with continuous data flows, which don't have really well-defined start or endpoints.
 >
@@ -1814,7 +1784,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/stream-processing-systems?u=76281980&t=138)** Now, self-driving cars and autonomous vehicles are systems that depend on stream processing because they really have very short periods of time to make decisions.
 >
-> **[2:27](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/stream-processing-systems?u=76281980&t=147)** And then maybe for slightly longer timeframes, we have things like conversational AI applications.
+> **[2:27](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/stream-processing-systems?u=76281980&t=147)** And then maybe for slightly longer timeframes, we have things like [[Conversational AI]] applications.
 >
 > **[2:33](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/stream-processing-systems?u=76281980&t=153)** You know, it's not as time sensitive as, say, an autonomous vehicle, but we still want to use stream processing to analyze and respond to natural language inputs without long delays.
 >
@@ -1840,7 +1810,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/stream-processing-systems?u=76281980&t=228)** Now we also want to think about how data flows through these systems, and so we want to think about functionally, what are the components that we need from a data flow perspective?
 >
-> **[3:58](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/stream-processing-systems?u=76281980&t=238)** Well, we need things that are essentially operated as source connectors that capture events from various source systems like APIs or IoT devices, and then transform those data into standardized streams.
+> **[3:58](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/stream-processing-systems?u=76281980&t=238)** Well, we need things that are essentially operated as source connectors that capture events from various source systems like APIs or [[IoT]] devices, and then transform those data into standardized streams.
 >
 > **[4:12](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/stream-processing-systems?u=76281980&t=252)** We also want to have stream processors that handle the core work.
 >
@@ -1862,7 +1832,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/stream-processing-systems?u=76281980&t=312)** It's also useful because models can continuously learn and adapt from streaming data, and this can help with improving accuracy without long drawn out retraining cycles.
 >
-> **[5:23](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/stream-processing-systems?u=76281980&t=323)** Also, we can improve customer experience by improving real-time personalization that responds to the current context rather than just historical patterns we might have analyzed in a batch mode.
+> **[5:23](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/stream-processing-systems?u=76281980&t=323)** Also, we can improve customer experience by improving [[Real-Time]] personalization that responds to the current context rather than just historical patterns we might have analyzed in a batch mode.
 >
 > **[5:35](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/stream-processing-systems?u=76281980&t=335)** Also, we can detect problems and address them more efficiently, oftentimes before they significantly adversely impact, say, an operation or a customer experience.
 >
@@ -1888,26 +1858,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), ai (3), business (3), [[Batch Processing]] (2), [[Real-Time]] (2)
+> **Frameworks & Libraries:** [[Batch Processing]] (2), [[Real-Time]] (2), [[React.js|React]] (1), [[User Experience (UX)|User experience]] (1), [[Conversational AI]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** known as (2), is an  (1)
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scaling AI processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/scaling-ai-processing?u=76281980)
+#### [Scaling AI processing](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/scaling-ai-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/scaling-ai-processing?u=76281980&t=0)** - [Instructor] Whether we're using batch processing or stream processing, we want to think about how we're going to scale our AI systems.
+> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/scaling-ai-processing?u=76281980&t=0)** - [Instructor] Whether we're using [[Batch Processing]] or stream processing, we want to think about how we're going to scale our AI systems.
 >
-> **[0:08](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/scaling-ai-processing?u=76281980&t=8)** Now successfully transitioning AI's application, say from a prototype or proof of concept to a production system, often requires comprehensive scaling strategies that go beyond simply throwing more hardware at the problem.
+> **[0:08](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/scaling-ai-processing?u=76281980&t=8)** Now successfully transitioning AI's application, say from a prototype or proof of concept to a production system, often requires comprehensive scaling strategies that go beyond simply throwing more [[Hardware]] at the problem.
 >
 > **[0:21](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/scaling-ai-processing?u=76281980&t=21)** As models grow in complexity and the data volumes expand, the processing demands just don't increase linearly, they could grow much more rapidly than that.
 >
 > **[0:31](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/scaling-ai-processing?u=76281980&t=31)** So effective scaling requires us to think about both the computational aspects and the architectural design of our systems 'cause our goal here, we need to find the right balance between performance capabilities, the cost of the infrastructure that we're running and the operational complexity of that infrastructure.
 >
-> **[0:49](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/scaling-ai-processing?u=76281980&t=49)** Now this balance becomes increasingly critical as the usage grows since maintaining acceptable response times and throughput directly impacts user experience.
+> **[0:49](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/scaling-ai-processing?u=76281980&t=49)** Now this balance becomes increasingly critical as the usage grows since maintaining acceptable response times and throughput directly impacts [[User Experience (UX)|user experience]].
 >
 > **[1:01](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/scaling-ai-processing?u=76281980&t=61)** Now it's important to think about scaling dimensions or how do we go about scaling?
 >
@@ -2003,7 +1972,7 @@ created: 2026-05-02
 >
 > **[6:16](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/scaling-ai-processing?u=76281980&t=376)** So we want to track things like CPU, memory. I/O or IOPS, as well as network usage.
 >
-> **[6:23](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/scaling-ai-processing?u=76281980&t=383)** And when it comes to production models, we want to make sure we have performance metrics that help us detect things like concept drift or data quality issues that might slowly degrade the model's performance.
+> **[6:23](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/scaling-ai-processing?u=76281980&t=383)** And when it comes to production models, we want to make sure we have [[Performance Metrics]] that help us detect things like concept drift or [[Data Quality]] issues that might slowly degrade the model's performance.
 >
 > **[6:37](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/scaling-ai-processing?u=76281980&t=397)** When you're implementing your scaling strategy, you want to begin with thorough benchmarking.
 >
@@ -2015,7 +1984,7 @@ created: 2026-05-02
 >
 > **[7:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/scaling-ai-processing?u=76281980&t=420)** Be sure to implement comprehensive monitoring and alerting systems.
 >
-> **[7:05](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/scaling-ai-processing?u=76281980&t=425)** And make sure you adopt infrastructure as code practices.
+> **[7:05](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/scaling-ai-processing?u=76281980&t=425)** And make sure you adopt [[Infrastructure as code (IaC)|infrastructure as code]] practices.
 >
 > **[7:08](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/scaling-ai-processing?u=76281980&t=428)** Those are really important to help ensuring that our deployments are consistent and reproducible.
 >
@@ -2025,7 +1994,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), ai (6), cloud (4), application (3), [[Hardware]] (3)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Batch Processing]] (2), [[User Experience (UX)|User experience]] (1), [[Performance Metrics]] (1), [[Data Quality]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** for example (4)
 > **Env Vars:** cpu (1), iops (1)
@@ -2033,8 +2002,7 @@ created: 2026-05-02
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Choosing a framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-choosing-a-framework?u=76281980)
+#### [Challenge: Choosing a framework](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-choosing-a-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2042,17 +2010,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), data (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Choosing a framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-choosing-a-framework?u=76281980)
+#### [Solution: Choosing a framework](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-choosing-a-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-choosing-a-framework?u=76281980&t=0)** (lively upbeat music)
 >
-> **[0:05](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-choosing-a-framework?u=76281980&t=5)** - [Instructor] For periodic updating, we would use the batch processing model, while for continuous processing, we would typically opt for a stream processing model.
+> **[0:05](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-choosing-a-framework?u=76281980&t=5)** - [Instructor] For periodic updating, we would use the [[Batch Processing]] model, while for continuous processing, we would typically opt for a stream processing model.
 
 > [!info]- Semantic Content
 >
@@ -2065,12 +2031,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Metadata management
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/metadata-management?u=76281980)
+#### [Metadata management](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/metadata-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/metadata-management?u=76281980&t=0)** - [Instructor] Metadata is structured information that describes, explains, and help us locate our AI assets.
+> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/metadata-management?u=76281980&t=0)** - [Instructor] [[Metadata]] is structured information that describes, explains, and help us locate our AI assets.
 >
 > **[0:07](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/metadata-management?u=76281980&t=7)** Now with metadata, we are able to effectively discover, organize, and understand these different assets that we have.
 >
@@ -2086,13 +2051,13 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/metadata-management?u=76281980&t=57)** Things like file formats, schemas, and where the data is physically stored.
 >
-> **[1:02](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/metadata-management?u=76281980&t=62)** There's also operational metadata that captures information about the steps in our data processing pipelines, and these include things like the processing history, our lineage, and version information.
+> **[1:02](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/metadata-management?u=76281980&t=62)** There's also operational metadata that captures information about the steps in our [[Data Processing]] pipelines, and these include things like the processing history, our lineage, and version information.
 >
 > **[1:14](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/metadata-management?u=76281980&t=74)** When it comes to business metadata, we're talking about data in an organizational context, like the ownership or the purpose or the sensitivity of particular data that we might be working with.
 >
 > **[1:28](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/metadata-management?u=76281980&t=88)** Quality metadata is useful when we want to quantify how reliable our data is or capture metrics about accuracy and completeness of our data.
 >
-> **[1:39](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/metadata-management?u=76281980&t=99)** There's also usage metadata that reveals information about how people interact with the data and shows us things like access patterns and popularity of different subsets of data, as well as things like performance statistics.
+> **[1:39](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/metadata-management?u=76281980&t=99)** There's also usage metadata that reveals information about how people interact with the data and shows us things like access patterns and popularity of different subsets of data, as well as things like performance [[Statistics]].
 >
 > **[1:53](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/metadata-management?u=76281980&t=113)** Now there are architecture considerations when we're working with metadata.
 >
@@ -2132,9 +2097,9 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/metadata-management?u=76281980&t=278)** Now, model metadata is another type of metadata that we want to capture.
 >
-> **[4:43](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/metadata-management?u=76281980&t=283)** Now, with regards to models, we'll want to capture version control information and parameters that help us ensure we can recreate a version of the model at any time.
+> **[4:43](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/metadata-management?u=76281980&t=283)** Now, with regards to models, we'll want to capture [[Version Control]] information and parameters that help us ensure we can recreate a version of the model at any time.
 >
-> **[4:53](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/metadata-management?u=76281980&t=293)** We also want to track performance metrics across different iterations or different versions so that helps the development teams understand how different changes to the models are affecting outcomes.
+> **[4:53](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/metadata-management?u=76281980&t=293)** We also want to track [[Performance Metrics]] across different iterations or different versions so that helps the development teams understand how different changes to the models are affecting outcomes.
 >
 > **[5:05](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/metadata-management?u=76281980&t=305)** We also want training dataset metadata 'cause that can provide critical provenance information and linking information as well.
 >
@@ -2148,26 +2113,25 @@ created: 2026-05-02
 >
 > **[5:44](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/metadata-management?u=76281980&t=344)** We don't want to become so focused on capturing every bit of metadata that we can possibly capture that our metadata management processes become unwieldy.
 >
-> **[5:54](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/metadata-management?u=76281980&t=354)** And we also want to integrate as much as possible our metadata collection with our existing data governance practices 'cause what we don't want to do is create like separate silos.
+> **[5:54](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/metadata-management?u=76281980&t=354)** And we also want to integrate as much as possible our metadata collection with our existing [[Data Governance]] practices 'cause what we don't want to do is create like separate silos.
 >
 > **[6:05](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/metadata-management?u=76281980&t=365)** We want to build metadata awareness into our AI development culture as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (30), data (14), ai (9), management (5), business (4)
+> **Frameworks & Libraries:** [[Metadata]] (30), [[Data Processing]] (1), [[Statistics]] (1), [[Version Control]] (1), [[Performance Metrics]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Feature stores
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980)
+#### [Feature stores](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980&t=0)** - [Instructor] Feature stores are important because they're a specialized data system that have been specifically designed for managing machine learning features efficiently.
 >
-> **[0:10](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980&t=10)** We use them to serve as a critical bridge between data engineering teams who prepare data and model development teams.
+> **[0:10](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980&t=10)** We use them to serve as a critical bridge between [[Data Engineering]] teams who prepare data and model development teams.
 >
 > **[0:17](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980&t=17)** Now one of the main benefits is that we can centralize features, basically development or computation, as well as the ability to store those features and serve them across different applications within the organization.
 >
@@ -2181,7 +2145,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980&t=68)** They also provide for point-in-time correct feature retrieval, which is really essential for accurate model training.
 >
-> **[1:16](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980&t=76)** Also, feature versioning capabilities can ensure that we are able to reproduce models, and comprehensive metadata management includes things like documentation and lineage tracking.
+> **[1:16](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980&t=76)** Also, feature versioning capabilities can ensure that we are able to reproduce models, and comprehensive [[Metadata]] management includes things like documentation and lineage tracking.
 >
 > **[1:29](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980&t=89)** Also, feature stores can implement access controls and governance features that help us manage permissions for sensitive features.
 >
@@ -2189,7 +2153,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980&t=104)** And in that case, we typically want to use key value stores for low latency feature delivery.
 >
-> **[1:52](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980&t=112)** Now in contrast, we can use offline stores to handle high throughput batch processing, which is useful during training, and we often implement that batch processing using data warehouses.
+> **[1:52](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980&t=112)** Now in contrast, we can use offline stores to handle high throughput [[Batch Processing]], which is useful during training, and we often implement that batch processing using data warehouses.
 >
 > **[2:06](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980&t=126)** Now we also need to have computation pipelines.
 >
@@ -2211,9 +2175,9 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980&t=192)** A monetary value feature can do things like aggregate spending behavior like calculating the average order value over the past six months.
 >
-> **[3:21](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980&t=201)** We may want to have product affinity scores for customers, and that could give us a measure of a customer's propensity to purchase specific types of products.
+> **[3:21](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980&t=201)** We may want to have product affinity scores for customers, and that could give us a measure of a customer's propensity to purchase specific types of [[Microsoft Products|products]].
 >
-> **[3:30](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980&t=210)** And we may want to have a churn risk score that predicts the probability that a customer might go to a competitor.
+> **[3:30](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980&t=210)** And we may want to have a churn risk score that predicts the [[Probability]] that a customer might go to a competitor.
 >
 > **[3:38](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980&t=218)** Now if we're talking about products, we're going to have different kinds of features that we might want to keep track of.
 >
@@ -2231,11 +2195,11 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980&t=275)** So there's an array of business benefits for using feature stores.
 >
-> **[4:39](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980&t=279)** Organizations typically see significant reduction in feature engineering redundancy, and feature stores help with model development cycles by accelerating the feature reusability across teams and projects.
+> **[4:39](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980&t=279)** Organizations typically see significant reduction in [[Feature Engineering]] redundancy, and feature stores help with model development cycles by accelerating the feature reusability across teams and projects.
 >
 > **[4:55](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980&t=295)** Feature stores can also help with governance and compliance because of the centralized feature store and consistent documentation.
 >
-> **[5:04](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980&t=304)** We may see an improvement in data quality through centralized validation and monitoring, and production deployments can become more robust with consistent feature definitions between training and serving.
+> **[5:04](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980&t=304)** We may see an improvement in [[Data Quality]] through centralized validation and monitoring, and production deployments can become more robust with consistent feature definitions between training and serving.
 >
 > **[5:18](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/feature-stores?u=76281980&t=318)** When you're implementing feature stores, keep in mind that you want to begin your feature store development by focusing on high value features that are used across multiple models.
 >
@@ -2247,15 +2211,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (27), data (6), teams (3), [[Microsoft Products|Products]] (3), ai (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Batch Processing]] (2), [[Probability]] (2), [[Data Engineering]] (1), [[Metadata]] (1)
 > **Env Vars:** api (2)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Caching
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/caching?u=76281980)
+#### [Caching](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/caching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2279,7 +2242,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/caching?u=76281980&t=72)** We can also have like a higher level abstraction caching where we're caching results of expensive computation, or we're caching features so that we don't have to constantly go back to a feature store, and at highest level, we might cache entire fragments of a model to help with optimizing the loading of that model.
 >
-> **[1:33](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/caching?u=76281980&t=93)** Now, when we use caching in our data pipelines, there's a few different ways we might want to use caching.
+> **[1:33](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/caching?u=76281980&t=93)** Now, when we use caching in our [[Data Pipelines]], there's a few different ways we might want to use caching.
 >
 > **[1:38](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/caching?u=76281980&t=98)** One is for dataset caching, and here the idea is we want to eliminate repeated iops or IO operations that we're going out and reading from disks or object storage.
 >
@@ -2297,7 +2260,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/caching?u=76281980&t=169)** This is especially useful if, for example, using GPUs or other accelerators, and those accelerators have memory that we can use for caching.
 >
-> **[2:57](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/caching?u=76281980&t=177)** We also use caching when we're working with vectors, and when we're talking about vectors, we're talking about vectors that represent unstructured data, like text in a natural language processing, or an image or audio that gets mapped into a vector representation.
+> **[2:57](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/caching?u=76281980&t=177)** We also use caching when we're working with vectors, and when we're talking about vectors, we're talking about vectors that represent [[Unstructured Data]], like text in a [[Natural Language Processing (NLP)|natural language processing]], or an image or audio that gets mapped into a vector representation.
 >
 > **[3:14](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/caching?u=76281980&t=194)** While it can be very useful to cache those vectors so that, again, we're not constantly going back and reading vectors from their persistent storage location.
 >
@@ -2317,15 +2280,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), ai (3), feature (2), application (2), node (1)
+> **Frameworks & Libraries:** [[Data Pipelines]] (1), [[Unstructured Data]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **CLI Commands:** find (1), node (1)
 > **Env Vars:** cpu (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Feature store capabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-25652696?u=76281980)
+#### [Challenge: Feature store capabilities](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-25652696?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2333,11 +2295,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), feature (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Feature store capabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-25658622?u=76281980)
+#### [Solution: Feature store capabilities](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-25658622?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2345,11 +2305,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-25658622?u=76281980&t=11)** Now, we tend to use offline stores when we're working with high-volume batch access scenarios, like during training.
 >
-> **[0:20](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-25658622?u=76281980&t=20)** Checkpoint caching is used to save partial results, and that allows us to improve resiliency in AI pipelines by allowing us to recover without having to go back to the beginning of a pipeline.
+> **[0:20](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-25658622?u=76281980&t=20)** Checkpoint caching is used to save partial results, and that allows us to improve [[Resiliency]] in AI pipelines by allowing us to recover without having to go back to the beginning of a pipeline.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Resiliency]] (1), ai (1)
+> **Frameworks & Libraries:** [[Resiliency]] (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2359,20 +2319,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Event-driven architectures
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980)
+#### [Event-driven architectures](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980&t=0)** - [Instructor] In AI applications, we often use event-driven architectures.
 >
-> **[0:04](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980&t=4)** Now, event-driven architectures are design patterns where systems are created to respond to discrete events as they occur in real time, rather than following some predetermined sequence of actions.
+> **[0:04](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980&t=4)** Now, event-driven architectures are [[Design Patterns]] where systems are created to respond to discrete events as they occur in real time, rather than following some predetermined sequence of actions.
 >
 > **[0:18](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980&t=18)** Now, instead of components directly calling each other components in event-driven architectures communicate through events which create a more flexible mechanism.
 >
 > **[0:28](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980&t=28)** This approach enables loose coupling between services and allows them to scale independently and is needed.
 >
-> **[0:35](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980&t=35)** And it also provides a framework for implementing real-time AI processing capabilities.
+> **[0:35](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980&t=35)** And it also provides a framework for implementing [[Real-Time]] AI processing capabilities.
 >
 > **[0:42](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980&t=42)** Now, overall, these architectures help us create responsive systems that it can adapt to a range of different conditions that are fairly dynamic.
 >
@@ -2386,7 +2345,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980&t=81)** We also have event consumers.
 >
-> **[1:23](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980&t=83)** Now these are services that listen for specific types of events and then react with whatever appropriate processing is required when a particular event occurs.
+> **[1:23](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980&t=83)** Now these are services that listen for specific types of events and then [[React.js|react]] with whatever appropriate processing is required when a particular event occurs.
 >
 > **[1:34](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980&t=94)** Now, event stores are basically data stores.
 >
@@ -2426,9 +2385,9 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980&t=201)** Retail inventory systems get updates.
 >
-> **[3:24](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980&t=204)** So for example, a stock level event occurs when products are purchased or restocked.
+> **[3:24](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980&t=204)** So for example, a stock level event occurs when [[Microsoft Products|products]] are purchased or restocked.
 >
-> **[3:31](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980&t=211)** Well, an AI demand forecasting model can consume these sort of sales and restocking events to help predict future needs.
+> **[3:31](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980&t=211)** Well, an AI demand [[Forecasting]] model can consume these sort of sales and restocking events to help predict future needs.
 >
 > **[3:40](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980&t=220)** When inventory drops below some critical threshold, we can automatically reorder.
 >
@@ -2440,7 +2399,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980&t=251)** event-driven architectures can improve business responsiveness by enabling immediate reactions to various conditions.
 >
-> **[4:18](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980&t=258)** event-driven architectures also are decoupled by nature, and that kind of decoupled architecture enhances scalability because we can scale different components independently.
+> **[4:18](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980&t=258)** event-driven architectures also are decoupled by nature, and that kind of decoupled architecture enhances [[Scalability]] because we can scale different components independently.
 >
 > **[4:30](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980&t=270)** Now, asynchronous processing also allows for greater resilience because the components don't have to wait for each other.
 >
@@ -2456,7 +2415,7 @@ created: 2026-05-02
 >
 > **[5:26](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980&t=326)** This helps ensure backward compatibility as the systems and applications evolve.
 >
-> **[5:32](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980&t=332)** We also want to consider the implications of eventual consistency in our databases, which basically means not all data may be immediately updated, so we have to take that into account.
+> **[5:32](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980&t=332)** We also want to consider the implications of eventual consistency in our [[Databases]], which basically means not all data may be immediately updated, so we have to take that into account.
 >
 > **[5:44](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/event-driven-architectures?u=76281980&t=344)** We also want to assume that things will fail and that there will be errors.
 >
@@ -2466,21 +2425,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), ai (3), [[Real-Time]] (3), [[Design Patterns]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (3), [[Design Patterns]] (1), [[React.js|React]] (1), [[Microsoft Products|Products]] (1), [[Forecasting]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), basically means (1)
 > **Analogies:** for example (3)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Real-time data integration patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980)
+#### [Real-time data integration patterns](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=0)** - [Instructor] One of the design issues we need to think about when we're talking about any kind of real-time data or event-driven architecture is the ability to integrate data in real time.
+> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=0)** - [Instructor] One of the design issues we need to think about when we're talking about any kind of [[Real-Time]] data or event-driven architecture is the ability to integrate data in real time.
 >
-> **[0:11](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=11)** Now, real-time data integration enables the continuous synchronization of data across multiple systems, and we can do this with minimal latency.
+> **[0:11](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=11)** Now, real-time [[Data Integration]] enables the continuous synchronization of data across multiple systems, and we can do this with minimal latency.
 >
 > **[0:21](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=21)** Now, this capacity allows AI models to operate on current rather than historical states, so this ability to provide up-to-the-moment insights is really important in a lot of business applications, so for example, it's really critical for time-sensitive decision making.
 >
@@ -2488,7 +2446,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=42)** Now, real-time data integration can also help bridge the traditional gap that we see between operational and analytic data environments, allowing them to work together more effectively.
 >
-> **[0:53](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=53)** And in many ways, real-time data integration forms, it's almost like the central control system for modern AI-powered organizations.
+> **[0:53](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=53)** And in many ways, real-time data integration [[Forms]], it's almost like the central control system for modern AI-powered organizations.
 >
 > **[1:02](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=62)** In real-time data integration, we see a number of different architecture patterns.
 >
@@ -2510,7 +2468,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=146)** We have stream processing engines, like Apache Flink and Kafka Streams.
 >
-> **[2:30](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=150)** They're useful because they provide the computational framework for the continuous data processing.
+> **[2:30](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=150)** They're useful because they provide the computational framework for the continuous [[Data Processing]].
 >
 > **[2:36](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=156)** We also have data integration platforms with real-time capabilities, and they often provide connectors that are built and transformation tools that can help expedite the implementation of new data sources being incorporated.
 >
@@ -2522,15 +2480,15 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=217)** These are, you can think of as extensions on the more traditional batch-oriented extract, transformation, and load patterns, where these real-time ETL tools are used for continuous processing, so they enable us to do transformations on the fly as data arrives.
 >
-> **[3:54](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=234)** Now, let's take a look at change data capture, because this is really important when we're working with databases.
+> **[3:54](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=234)** Now, let's take a look at change data capture, because this is really important when we're working with [[Databases]].
 >
-> **[3:59](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=239)** CDC works by capturing database changes at the transaction log level, so that's really an implementation mechanism we use, definitely in relational databases, but other databases as well, and with these transaction logs, we can do things like detect inserts or updates or deletes as they happen in the database, and this approach allows us to propagate modifications from the database with really low latency, like subsecond latency, from a source system to a destination, and it also allows us to do incremental updates, both to the model and the data that we store in those models, and another nice thing about change data capture, or CDC, is that it minimizes the processing overhead, while at the same time, it's actually reducing the latency between the time an update occurs in a database
+> **[3:59](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=239)** CDC works by capturing database changes at the transaction log level, so that's really an implementation mechanism we use, definitely in [[Relational Databases]], but other databases as well, and with these transaction logs, we can do things like detect inserts or updates or deletes as they happen in the database, and this approach allows us to propagate modifications from the database with really low latency, like subsecond latency, from a source system to a destination, and it also allows us to do incremental updates, both to the model and the data that we store in those models, and another nice thing about change data capture, or CDC, is that it minimizes the processing overhead, while at the same time, it's actually reducing the latency between the time an update occurs in a database
 >
 > **[4:50](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=290)** and the time we can reflect that update in some other target system.
 >
 > **[4:54](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=294)** Now, with regards to APIs, this is another commonly used component.
 >
-> **[4:59](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=299)** With APIs, we can have synchronous communications through either RESTful or GraphQL interfaces, and these allow for almost immediate request-response patterns, which are important for real-time interactions.
+> **[4:59](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=299)** With APIs, we can have synchronous communications through either RESTful or [[GraphQL]] interfaces, and these allow for almost immediate request-response patterns, which are important for real-time interactions.
 >
 > **[5:14](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=314)** Now, we can use webhook-based notification mechanisms to push data, and we use that when there's a state change and we want to directly push a change to a subscribing system so that subscribing system can find about the change immediately.
 >
@@ -2542,9 +2500,9 @@ created: 2026-05-02
 >
 > **[6:14](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=374)** So let's look at a use case with regards to financial insights.
 >
-> **[6:18](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=378)** Let's imagine that we have, working in a financial services environment, and we have banking transactions that are generating real-time events, and we're using change data capture, CDC, to detect those.
+> **[6:18](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=378)** Let's imagine that we have, working in a financial services environment, and we have [[Banking]] transactions that are generating real-time events, and we're using change data capture, CDC, to detect those.
 >
-> **[6:31](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=391)** Well, we can integrate that CDC data with other raw transaction data, like data from a merchant or a vendor, and also add context, maybe additional data, say maybe we have zip code, but we might want to add additional data, maybe census data about that zip code, because census features might be useful for model prediction, and then we do something like turn to an AI spending classifier to categorize those transactions, and then those transactions are then further analyzed by a budget analysis engine, and maybe we compare the results of that analysis to historical patterns we know about this particular customer, and based on that, we can personalize notifications that might give insights to the customer,
+> **[6:31](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=391)** Well, we can integrate that CDC data with other raw transaction data, like data from a merchant or a vendor, and also add context, maybe additional data, say maybe we have zip code, but we might want to add additional data, maybe census data about that zip code, because census features might be useful for model prediction, and then we do something like turn to an AI spending classifier to categorize those transactions, and then those transactions are then further analyzed by a [[Budget Analysis]] engine, and maybe we compare the results of that analysis to historical patterns we know about this particular customer, and based on that, we can personalize notifications that might give insights to the customer,
 >
 > **[7:21](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/real-time-data-integration-patterns?u=76281980&t=441)** and we might be able to deliver those within very low latency, within seconds or minutes of the time a particular financial transaction occurred.
 >
@@ -2562,15 +2520,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (40), [[Real-Time]] (14), database (7), api (4), ai (3)
+> **Frameworks & Libraries:** [[Real-Time]] (14), [[Data Integration]] (6), [[Databases]] (2), [[Forms]] (1), [[Data Processing]] (1)
 > **Env Vars:** cdc (5), api (4), etl (2)
 > **CLI Commands:** make (8), apache (1), find (1)
 > **Definitions:** is a  (1), is called (1), known as (1)
 > **Analogies:** for example (1), imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Monitoring and alerting systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/monitoring-and-alerting-systems?u=76281980)
+#### [Monitoring and alerting systems](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/monitoring-and-alerting-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2578,11 +2535,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/monitoring-and-alerting-systems?u=76281980&t=8)** Now these capabilities are critical for maintaining reliability in real time AI processing environments where a failure can have immediate impact.
 >
-> **[0:18](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/monitoring-and-alerting-systems?u=76281980&t=18)** Now, effective monitoring is going to span multiple layers, from the infrastructure components that implement the hardware, to data pipelines that move the data to model performance metrics.
+> **[0:18](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/monitoring-and-alerting-systems?u=76281980&t=18)** Now, effective monitoring is going to span multiple layers, from the infrastructure components that implement the [[Hardware]], to [[Data Pipelines]] that move the data to model [[Performance Metrics]].
 >
 > **[0:29](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/monitoring-and-alerting-systems?u=76281980&t=29)** But by implementing proper monitoring, we can enable issue detection so that we can address problems before users experience any negative impact.
 >
-> **[0:39](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/monitoring-and-alerting-systems?u=76281980&t=39)** Now, this visibility also forms a foundation for automated remediation and continuous optimization in our systems.
+> **[0:39](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/monitoring-and-alerting-systems?u=76281980&t=39)** Now, this visibility also [[Forms]] a foundation for automated remediation and continuous optimization in our systems.
 >
 > **[0:47](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/monitoring-and-alerting-systems?u=76281980&t=47)** There are several areas we want to take into account when we're monitoring.
 >
@@ -2606,7 +2563,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/monitoring-and-alerting-systems?u=76281980&t=123)** We often use distributed tracing technology to provide end-to-end visibility, and to request flows.
 >
-> **[2:10](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/monitoring-and-alerting-systems?u=76281980&t=130)** We have structured logging, which provides contact rich information, time series metrics collection, and that's important for enabling both realtime dashboards and historical trend analysis.
+> **[2:10](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/monitoring-and-alerting-systems?u=76281980&t=130)** We have structured logging, which provides contact rich information, time series metrics collection, and that's important for enabling both realtime [[Dashboards]] and historical trend analysis.
 >
 > **[2:22](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/monitoring-and-alerting-systems?u=76281980&t=142)** We may use correlation engines across these different metrics and logs to help connect seemingly unrelated events.
 >
@@ -2668,7 +2625,7 @@ created: 2026-05-02
 >
 > **[6:06](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/monitoring-and-alerting-systems?u=76281980&t=366)** We want to make sure that we have clear, service level objectives, or SLOs, for each component, 'cause that allows us to define what a healthy state of that system actually looks like.
 >
-> **[6:16](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/monitoring-and-alerting-systems?u=76281980&t=376)** We want to implement proper tagging and metadata 'cause that'll provide important contextual information that we'll use with alerts.
+> **[6:16](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/monitoring-and-alerting-systems?u=76281980&t=376)** We want to implement proper tagging and [[Metadata]] 'cause that'll provide important contextual information that we'll use with alerts.
 >
 > **[6:25](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/monitoring-and-alerting-systems?u=76281980&t=385)** We also want to design dashboards for different stakeholders because each different kind of stakeholders is going to bring a different perspective.
 >
@@ -2678,38 +2635,36 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), business (6), data (5), [[Dashboards]] (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[Dashboards]] (3), [[Data Pipelines]] (2), [[Hardware]] (1), [[Performance Metrics]] (1), [[Forms]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** cpu (1), kpi (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Architecture patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge?u=76281980)
+#### [Challenge: Architecture patterns](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge?u=76281980&t=0)** - [Instructor] In this challenge, I'd like you to identify which architecture pattern provides for efficient detection of database changes and which architecture pattern provides for real-time data exchange using techniques like webhooks and callbacks.
+> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge?u=76281980&t=0)** - [Instructor] In this challenge, I'd like you to identify which architecture pattern provides for efficient detection of database changes and which architecture pattern provides for [[Real-Time]] data exchange using techniques like webhooks and callbacks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), [[Real-Time]] (1), data (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Architecture patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-25652695?u=76281980)
+#### [Solution: Architecture patterns](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-25652695?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-25652695?u=76281980&t=0)** (low rhythmic music) (low rhythmic music ending)
 >
-> **[0:05](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-25652695?u=76281980&t=5)** - [Instructor] Okay, the solutions to the challenge are, first of all, Change Data Capture, or CDC, is used to efficiently detect changes in databases; and Application Programming Interfaces, or APIs, use techniques like webhooks and callbacks to implement data exchange.
+> **[0:05](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-25652695?u=76281980&t=5)** - [Instructor] Okay, the solutions to the challenge are, first of all, Change Data Capture, or CDC, is used to efficiently detect changes in [[Databases]]; and [[Application Programming Interfaces (API)|Application Programming Interfaces]], or APIs, use techniques like webhooks and callbacks to implement data exchange.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Databases]] (1), [[Application Programming Interfaces (API)|Application programming interfaces]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Application Programming Interfaces (API)|Application programming interfaces]] (1)
 > **Non-Speech:** (low rhythmic music) (1), (low rhythmic music ending) (1)
 > **Env Vars:** cdc (1)
 > **Speakers:** - [instructor] (1)
@@ -2719,8 +2674,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Security compliance and regulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/security-compliance-and-regulation?u=76281980)
+#### [Security compliance and regulation](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/security-compliance-and-regulation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2746,7 +2700,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/security-compliance-and-regulation?u=76281980&t=112)** And the Fair Credit Reporting Act, or FCRA, is especially relevant for organizations that are developing AI services that will be used in things like consumer lending or consumer credit assessments.
 >
-> **[2:07](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/security-compliance-and-regulation?u=76281980&t=127)** And then there's also, the state of California in the US has created a couple of acts, the Consumer Privacy Act, and the Privacy Rights Acts, which have established some of the most comprehensive data rights in the US.
+> **[2:07](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/security-compliance-and-regulation?u=76281980&t=127)** And then there's also, the state of California in the US has created a couple of acts, the Consumer [[Privacy]] Act, and the Privacy Rights Acts, which have established some of the most comprehensive data rights in the US.
 >
 > **[2:18](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/security-compliance-and-regulation?u=76281980&t=138)** And even though the legislation strictly applies only to California, just given their market size, it tends to have a ripple effect through how businesses implement regulations for all of their customers in the US.
 >
@@ -2756,7 +2710,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/security-compliance-and-regulation?u=76281980&t=163)** Now, what we see across all of these different compliance frameworks are some common requirements.
 >
-> **[2:50](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/security-compliance-and-regulation?u=76281980&t=170)** One of them is transparency in AI decision-making.
+> **[2:50](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/security-compliance-and-regulation?u=76281980&t=170)** One of them is transparency in AI [[Decision-Making]].
 >
 > **[2:54](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/security-compliance-and-regulation?u=76281980&t=174)** And we often hear about this in terms of regulations that require explainability for decisions.
 >
@@ -2764,7 +2718,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/security-compliance-and-regulation?u=76281980&t=190)** And consent management has really evolved beyond sort of the idea of, oh, I just need to display, you know, some long detailed legalese, and have somebody check a box.
 >
-> **[3:20](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/security-compliance-and-regulation?u=76281980&t=200)** Now what we're finding is consent management is getting much more granular with regards to data collection and data processing.
+> **[3:20](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/security-compliance-and-regulation?u=76281980&t=200)** Now what we're finding is consent management is getting much more granular with regards to [[Data Collection]] and [[Data Processing]].
 >
 > **[3:27](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/security-compliance-and-regulation?u=76281980&t=207)** And then there are also documentation requirements.
 >
@@ -2784,7 +2738,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/security-compliance-and-regulation?u=76281980&t=265)** There's also the need for end-to-end encryption.
 >
-> **[4:28](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/security-compliance-and-regulation?u=76281980&t=268)** So, that protects data while it's in transit, like in a pipeline, as well as when it's at rest, for example, in storage.
+> **[4:28](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/security-compliance-and-regulation?u=76281980&t=268)** So, that protects data while it's in transit, like in a pipeline, as well as when it's at [[Representational State Transfer (REST)|rest]], for example, in storage.
 >
 > **[4:35](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/security-compliance-and-regulation?u=76281980&t=275)** And then there are also really AI-specific security controls, like the need for specialized protections against adversarial attacks on the models themselves.
 >
@@ -2794,7 +2748,7 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/security-compliance-and-regulation?u=76281980&t=302)** And that's useful if we want to prevent individual data points from being identified.
 >
-> **[5:08](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/security-compliance-and-regulation?u=76281980&t=308)** And then also, we have to think in terms of implementation and DevOps.
+> **[5:08](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/security-compliance-and-regulation?u=76281980&t=308)** And then also, we have to think in terms of implementation and [[DevOps]].
 >
 > **[5:12](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/security-compliance-and-regulation?u=76281980&t=312)** We want to make sure we secure our deployment pipelines.
 >
@@ -2822,20 +2776,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), ai (11), [[Security]] (8), [[Privacy]] (3), management (3)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Decision-Making]] (1), [[Data Collection]] (1), [[Data Processing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** gdpr (1), hipaa (1), fcra (1)
 > **Analogies:** for example (3)
 > **Speakers:** - [narrator] (1)
 
-#### Privacy-preserving AI methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/privacy-preserving-ai-methods?u=76281980)
+#### [Privacy-preserving AI methods](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/privacy-preserving-ai-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/privacy-preserving-ai-methods?u=76281980&t=0)** - [Instructor] Working on AI systems brings with it an array of privacy challenges.
+> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/privacy-preserving-ai-methods?u=76281980&t=0)** - [Instructor] Working on AI systems brings with it an array of [[Privacy]] challenges.
 >
-> **[0:04](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/privacy-preserving-ai-methods?u=76281980&t=4)** Now, traditional AI models often require direct access to sensitive data, and this creates a tension between the need for data for analysis and the need to protect privacy.
+> **[0:04](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/privacy-preserving-ai-methods?u=76281980&t=4)** Now, [[Traditional AI]] models often require direct access to sensitive data, and this creates a tension between the need for data for analysis and the need to protect privacy.
 >
 > **[0:16](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/privacy-preserving-ai-methods?u=76281980&t=16)** Now, some regulations like GDPR and CCPA impose strict requirements on how organizations can collect, process, and use personal data.
 >
@@ -2873,7 +2826,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/privacy-preserving-ai-methods?u=76281980&t=154)** So organizations can implement differential privacy at various stages.
 >
-> **[2:38](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/privacy-preserving-ai-methods?u=76281980&t=158)** We can do it during data collection, through the model training or at the inference stage.
+> **[2:38](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/privacy-preserving-ai-methods?u=76281980&t=158)** We can do it during [[Data Collection]], through the model training or at the inference stage.
 >
 > **[2:44](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/privacy-preserving-ai-methods?u=76281980&t=164)** A third mechanism or technique is called homomorphic encryption.
 >
@@ -2895,7 +2848,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/privacy-preserving-ai-methods?u=76281980&t=262)** And it's a good practice to consider hybrid approaches that combine multiple privacy-preserving techniques.
 >
-> **[4:28](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/privacy-preserving-ai-methods?u=76281980&t=268)** And this provides a layered protection, kind of like what we see in traditional cybersecurity with the principle of defense in depth, in which case we don't depend on a single security control to protect us.
+> **[4:28](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/privacy-preserving-ai-methods?u=76281980&t=268)** And this provides a layered protection, kind of like what we see in traditional [[Cybersecurity]] with the principle of defense in depth, in which case we don't depend on a single security control to protect us.
 >
 > **[4:41](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/privacy-preserving-ai-methods?u=76281980&t=281)** We have multiple controls.
 >
@@ -2905,7 +2858,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (20), data (14), ai (4), [[Traditional AI]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (20), [[Traditional AI]] (1), [[Data Collection]] (1), [[Cybersecurity]] (1)
 > **Definitions:** is a  (3), known as (2), is called (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2), kind of like (1)
@@ -2913,12 +2866,11 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data governance frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980)
+#### [Data governance frameworks](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=0)** - [Instructor] Data governance represents a structured framework for treating data as a strategic asset rather than just some byproduct of business operations.
+> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=0)** - [Instructor] [[Data Governance]] represents a structured framework for treating data as a strategic asset rather than just some byproduct of [[Business Operations]].
 >
 > **[0:09](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=9)** At its core, governance defines clear roles and responsibilities for, one, who makes decisions about data.
 >
@@ -2926,25 +2878,25 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=21)** Now, comprehensive governance establishes measurable standards across multiple dimensions.
 >
-> **[0:27](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=27)** Typically, these include data quality, security controls, privacy protection, and regulatory compliance.
+> **[0:27](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=27)** Typically, these include [[Data Quality]], security controls, [[Privacy Protection]], and [[Regulatory Compliance]].
 >
-> **[0:34](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=34)** Now, the governance model creates accountability throughout the entire lifecycle.
+> **[0:34](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=34)** Now, the governance model creates [[Accountability]] throughout the entire lifecycle.
 >
-> **[0:38](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=38)** So this starts with the initial data collection process all the way through processing, usage, storing, sharing, archiving, and eventual deletion.
+> **[0:38](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=38)** So this starts with the initial [[Data Collection]] process all the way through processing, usage, storing, sharing, archiving, and eventual deletion.
 >
 > **[0:49](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=49)** Data policies and standards form the foundation of governance, and they do this by defining acceptable usage parameters, quality thresholds, and management practices.
 >
 > **[0:59](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=59)** Governance structures typically establish clear decision rights through well-defined roles and responsibilities.
 >
-> **[1:07](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=67)** Now, data catalogs and metadata management systems provide the technical infrastructure that we use to document what data exists, where it resides, and what its value is to the business.
+> **[1:07](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=67)** Now, data catalogs and [[Metadata]] management systems provide the technical infrastructure that we use to document what data exists, where it resides, and what its value is to the business.
 >
-> **[1:20](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=80)** Continuous monitoring processes are important for detecting quality issues early.
+> **[1:20](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=80)** [[Continuous Monitoring]] processes are important for detecting quality issues early.
 >
 > **[1:25](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=85)** They enable us to remediate issues with data before they adversely affect business operations or decision making.
 >
-> **[1:33](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=93)** Security and privacy controls have to align with regulatory requirements like GDPR, CCPA, and whatever industry specific frameworks we have to comply with.
+> **[1:33](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=93)** Security and [[Privacy]] controls have to align with regulatory requirements like GDPR, CCPA, and whatever industry specific frameworks we have to comply with.
 >
-> **[1:44](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=104)** We also want to think in terms of data lineage and provenance tracking because these capabilities help us document the complete history of data as it moves through the system, which is critical for both audit purposes and understanding data transformations.
+> **[1:44](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=104)** We also want to think in terms of [[Data Lineage]] and provenance tracking because these capabilities help us document the complete history of data as it moves through the system, which is critical for both audit purposes and understanding data transformations.
 >
 > **[2:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=120)** Now, when we think about the technical architecture for governance, we want to begin with a centralized metadata repository because this serves as the system of record for things like data definitions, ownership classifications, and various policies we have across the enterprise.
 >
@@ -2974,9 +2926,9 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=246)** So they're the ones that are enforcing the policies at the system and application level.
 >
-> **[4:11](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=251)** We may have a dedicated data governance office, and their responsibility is typically to coordinate day-to-day activities and provide support for stakeholders and report on different measures of governance effectiveness.
+> **[4:11](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=251)** We may have a dedicated data governance [[Microsoft Office|office]], and their responsibility is typically to coordinate day-to-day activities and provide support for stakeholders and report on different measures of governance effectiveness.
 >
-> **[4:24](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=264)** And then in large organizations, we may want to have cross-functional working groups that look at and take on specific governance challenges like data quality improvement or compliance with a new regulation, or maybe developing some kind of data sharing framework that might cross multiple business arenas within the organization.
+> **[4:24](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=264)** And then in large organizations, we may want to have cross-functional working groups that look at and take on specific governance challenges like data quality improvement or compliance with a new regulation, or maybe developing some kind of [[Data Sharing]] framework that might cross multiple business arenas within the organization.
 >
 > **[4:44](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/data-governance-frameworks?u=76281980&t=284)** With regards to implementation, we want to begin with an assessment of our current governance maturity and identify capability gaps.
 >
@@ -2998,14 +2950,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), business (10), [[Security]] (3), management (3), [[Metadata]] (2)
+> **Frameworks & Libraries:** [[Data Governance]] (4), [[Data Quality]] (2), [[Metadata]] (2), [[Business Operations]] (1), [[Privacy Protection]] (1)
 > **Env Vars:** gdpr (1), ccpa (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Audit trails and logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980)
+#### [Audit trails and logging](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3015,7 +2966,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980&t=19)** Now, effective audit trails essentially document every phase of the model lifecycle, from training and validation through deployment and through to inference operations.
 >
-> **[0:29](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980&t=29)** Now, these records are important because they provide critical evidence that are important for regulatory compliance, and also they can support our own internal security incident investigations.
+> **[0:29](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980&t=29)** Now, these records are important because they provide critical evidence that are important for [[Regulatory Compliance]], and also they can support our own internal security incident investigations.
 >
 > **[0:42](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980&t=42)** Now we have logging requirements associated with auditing.
 >
@@ -3025,11 +2976,11 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980&t=62)** We should also be recording all authentication activities, things like login attempts, permission changes, as well as privilege escalations.
 >
-> **[1:11](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980&t=71)** Ideally, we're also capturing inference requests and responses, and we want to include rich contextual metadata 'cause that helps establish the complete decision context.
+> **[1:11](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980&t=71)** Ideally, we're also capturing inference requests and responses, and we want to include rich contextual [[Metadata]] 'cause that helps establish the complete decision context.
 >
-> **[1:21](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980&t=81)** We should also log all system configuration changes, particularly security related modifications that could affect system integrity.
+> **[1:21](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980&t=81)** We should also log all [[System Configuration]] changes, particularly security related modifications that could affect system integrity.
 >
-> **[1:30](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980&t=90)** And also we want to make sure we establish an unbroken data lineage from system source through transformation to the final model outputs.
+> **[1:30](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980&t=90)** And also we want to make sure we establish an unbroken [[Data Lineage]] from system source through transformation to the final model outputs.
 >
 > **[1:39](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980&t=99)** When it comes to the technical implementation, we want to make sure we implement an immutable, tamper-proof logging system, and we want to employ cryptographic techniques to prevent unauthorized modifications.
 >
@@ -3037,11 +2988,11 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980&t=119)** We also want to structure our log formats with consistent schemas, that can really improve search capabilities and help us enable automated analysis.
 >
-> **[2:09](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980&t=129)** We should be deploying continuous monitoring systems to scan logs for suspicious patterns and trigger alerts for us on potential security incidents.
+> **[2:09](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980&t=129)** We should be deploying [[Continuous Monitoring]] systems to scan logs for suspicious patterns and trigger alerts for us on potential security incidents.
 >
 > **[2:19](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980&t=139)** We also want to protect audit information itself with strict role-based access controls.
 >
-> **[2:24](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980&t=144)** And here we want to follow the best practice in cybersecurity, which is known as least privilege.
+> **[2:24](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980&t=144)** And here we want to follow the best practice in [[Cybersecurity]], which is known as least privilege.
 >
 > **[2:31](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980&t=151)** So only those who need access to do their jobs should be given access.
 >
@@ -3057,7 +3008,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980&t=191)** We can also identify disparate impact across different demographic groups using the details that are available to us in audit trails and logs.
 >
-> **[3:20](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980&t=200)** These are also important for validating privacy control effectiveness.
+> **[3:20](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980&t=200)** These are also important for validating [[Privacy]] control effectiveness.
 >
 > **[3:23](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980&t=203)** They're essentially documenting the proper implementation of data minimization and consent processes.
 >
@@ -3069,35 +3020,33 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980&t=227)** They can document the remediation actions to prove that we've essentially done what we should do to address whatever issue was identified.
 >
-> **[3:56](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980&t=236)** And it also creates accountability to all of the stakeholders that we are in fact addressing issues as they arise.
+> **[3:56](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/audit-trails-and-logging?u=76281980&t=236)** And it also creates [[Accountability]] to all of the stakeholders that we are in fact addressing issues as they arise.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Security]] (4), ai (2), [[Regulatory Compliance]] (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Regulatory Compliance]] (1), [[Metadata]] (1), [[System Configuration]] (1), [[Continuous Monitoring]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Privacy-preserving methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-25658623?u=76281980)
+#### [Challenge: Privacy-preserving methods](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-25658623?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-25658623?u=76281980&t=0)** (bright upbeat music)
 >
-> **[0:05](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-25658623?u=76281980&t=5)** - [Instructor] Okay, for this challenge, I'd like you to identify what type of privacy preserving method allows us to process encrypted data without first decrypting it.
+> **[0:05](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-25658623?u=76281980&t=5)** - [Instructor] Okay, for this challenge, I'd like you to identify what type of [[Privacy]] preserving method allows us to process encrypted data without first decrypting it.
 >
 > **[0:15](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-25658623?u=76281980&t=15)** And then secondly, I'd like you to identify the type of privacy preserving method that allows us to avoid centralizing raw training data in a single location.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (2), data (2)
+> **Frameworks & Libraries:** [[Privacy]] (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
-#### Solution: Privacy-preserving methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution?u=76281980)
+#### [Solution: Privacy-preserving methods](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3111,7 +3060,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
@@ -3121,30 +3069,29 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI ethics and responsible data use
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980)
+#### [AI ethics and responsible data use](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980&t=0)** - [Narrator] Strong ethical frameworks help us establish the guardrails for responsible AI development.
+> **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980&t=0)** - [Narrator] Strong ethical frameworks help us establish the guardrails for [[Responsible AI]] development.
 >
 > **[0:06](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980&t=6)** Now, as we're developing AI, we have to actively balance our desire to advance the technology with the need to minimize societal risks.
 >
 > **[0:16](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980&t=16)** So, for example, we want to watch for and address the potential harms that can come from biased algorithmic decision making.
 >
-> **[0:23](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980&t=23)** Now, building trust along these lines requires that we demonstrate ethical commitments to our customers, regulatory bodies, and just our social border as a whole.
+> **[0:23](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980&t=23)** Now, [[Building Trust]] along these lines requires that we demonstrate ethical commitments to our customers, regulatory bodies, and just our social border as a whole.
 >
 > **[0:34](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980&t=34)** There are several core principles we want to keep in mind.
 >
-> **[0:37](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980&t=37)** First of all, fairness demands that we prevent and mitigate bias in both training data and algorithm design.
+> **[0:37](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980&t=37)** First of all, fairness demands that we prevent and mitigate bias in both training data and [[Algorithm Design]].
 >
 > **[0:45](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980&t=45)** We also want to adhere to principles of transparency and enable users and stakeholders to understand how an AI system functions and makes decisions.
 >
-> **[0:55](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980&t=55)** We also want to protect privacy.
+> **[0:55](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980&t=55)** We also want to protect [[Privacy]].
 >
 > **[0:57](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980&t=57)** And to do this, we want to safeguard personal data through comprehensive controls and minimizing collection and implementing strong security measures.
 >
-> **[1:07](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980&t=67)** We also want accountability.
+> **[1:07](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980&t=67)** We also want [[Accountability]].
 >
 > **[1:09](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980&t=69)** We want to establish clear responsibility for AI system outcomes and basically ensure that humans remain answerable for algorithmic decisions.
 >
@@ -3154,7 +3101,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980&t=88)** And we also want to ensure that human autonomy preserves people's ability to make meaningful choices in place limits on algorithmic decision making.
 >
-> **[1:38](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980&t=98)** Now, one place we can start is with ethical data collection.
+> **[1:38](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980&t=98)** Now, one place we can start is with ethical [[Data Collection]].
 >
 > **[1:42](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980&t=102)** Here we want to be sure we secure informed consent by clearly articulating what data we're collecting, how we'll use it, and who will access it.
 >
@@ -3172,7 +3119,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980&t=159)** Also, we want to assign specific accountability for ethical oversight at both team and executive levels.
 >
-> **[2:47](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980&t=167)** And we want to develop structured ethics review processes with clear checkpoints throughout the AI lifecycle.
+> **[2:47](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980&t=167)** And we want to develop structured [[Ethics]] review processes with clear checkpoints throughout the AI lifecycle.
 >
 > **[2:54](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ai-ethics-and-responsible-data-use?u=76281980&t=174)** And we want to train team members on applying ethical principles in our daily work.
 >
@@ -3180,14 +3127,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), ai (5), [[Accountability]] (2), [[Responsible AI]] (1), [[Building Trust]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (2), [[Responsible AI]] (1), [[Building Trust]] (1), [[Algorithm Design]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Transparency and explainability
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/transparency-and-explainability?u=76281980)
+#### [Transparency and explainability](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/transparency-and-explainability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3199,9 +3145,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/transparency-and-explainability?u=76281980&t=25)** Modern AI's technical complexity creates real barriers to understanding.
 >
-> **[0:30](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/transparency-and-explainability?u=76281980&t=30)** For example, with large neural networks containing billions of parameters, they don't really lend themselves to intuitive interpretation.
+> **[0:30](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/transparency-and-explainability?u=76281980&t=30)** For example, with large [[Neural Networks]] containing billions of parameters, they don't really lend themselves to intuitive interpretation.
 >
-> **[0:38](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/transparency-and-explainability?u=76281980&t=38)** And these lead to opaque models that generate accountability gaps that undermine trust in the AI ecosystem.
+> **[0:38](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/transparency-and-explainability?u=76281980&t=38)** And these lead to opaque models that generate [[Accountability]] gaps that undermine trust in the AI ecosystem.
 >
 > **[0:46](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/transparency-and-explainability?u=76281980&t=46)** There are multiple dimensions of transparency.
 >
@@ -3211,7 +3157,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/transparency-and-explainability?u=76281980&t=70)** Operational transparency documents how we deploy and maintain AI systems in production environments, including how we monitor and update our procedures.
 >
-> **[1:22](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/transparency-and-explainability?u=76281980&t=82)** Outcome transparency is a type of transparency that deals with the impact and performance metrics of AI decisions.
+> **[1:22](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/transparency-and-explainability?u=76281980&t=82)** Outcome transparency is a type of transparency that deals with the impact and [[Performance Metrics]] of AI decisions.
 >
 > **[1:30](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/transparency-and-explainability?u=76281980&t=90)** And then finally, governance transparency talks about roles, responsibilities, and oversight mechanisms that we use to guide our AI development and deployment.
 >
@@ -3245,11 +3191,11 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/transparency-and-explainability?u=76281980&t=184)** These are useful for generating insights without adversely affecting performance.
 >
-> **[3:10](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/transparency-and-explainability?u=76281980&t=190)** Now, inherently interpretable models, such as decision trees, offer transparency by design.
+> **[3:10](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/transparency-and-explainability?u=76281980&t=190)** Now, inherently interpretable models, such as [[Decision Trees]], offer transparency by design.
 >
 > **[3:16](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/transparency-and-explainability?u=76281980&t=196)** So making their decision logic directly observable and auditable is highly useful in this case.
 >
-> **[3:23](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/transparency-and-explainability?u=76281980&t=203)** Attention mechanism used by some algorithms highlight which specific input features affect predictions most strongly, and they can show where the model focuses during processing.
+> **[3:23](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/transparency-and-explainability?u=76281980&t=203)** Attention mechanism used by some [[Algorithms]] highlight which specific input features affect predictions most strongly, and they can show where the model focuses during processing.
 >
 > **[3:34](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/transparency-and-explainability?u=76281980&t=214)** Now, counterfactual explanations, again, those show users how different input changes would affect outcomes.
 >
@@ -3293,14 +3239,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), business (2), [[Neural Networks]] (1), [[Accountability]] (1), data (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (1), [[Accountability]] (1), [[Performance Metrics]] (1), [[Decision Trees]] (1), [[Algorithms]] (1)
 > **Analogies:** for example (4), such as (1), imagine (1)
 > **Env Vars:** gdpr (1), lime (1), shap (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ethical guidelines and standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ethical-guidelines-and-standards?u=76281980)
+#### [Ethical guidelines and standards](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ethical-guidelines-and-standards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3320,9 +3265,9 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ethical-guidelines-and-standards?u=76281980&t=55)** Leading technology companies each have their own framework.
 >
-> **[0:58](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ethical-guidelines-and-standards?u=76281980&t=58)** With Microsoft emphasizing responsible AI through transparent documentation, Google's framework focuses on societal benefit and IBM's prioritizes fairness, and explicability in their approach.
+> **[0:58](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ethical-guidelines-and-standards?u=76281980&t=58)** With [[Microsoft]] emphasizing [[Responsible AI]] through transparent documentation, [[Google]]'s framework focuses on societal benefit and IBM's prioritizes fairness, and explicability in their approach.
 >
-> **[1:10](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ethical-guidelines-and-standards?u=76281980&t=70)** Now, when it comes to ethics in operations, there are several things we want to keep in mind.
+> **[1:10](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ethical-guidelines-and-standards?u=76281980&t=70)** Now, when it comes to [[Ethics]] in operations, there are several things we want to keep in mind.
 >
 > **[1:15](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ethical-guidelines-and-standards?u=76281980&t=75)** We want to integrate ethical considerations from day one in our development of AI systems.
 >
@@ -3338,9 +3283,9 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ethical-guidelines-and-standards?u=76281980&t=104)** We want to examine our data, the models, and the decisions to identify any unfair patterns.
 >
-> **[1:51](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ethical-guidelines-and-standards?u=76281980&t=111)** We want to establish clear reporting mechanisms for stakeholders, and in particular, we want to flag negative impacts and ensure accountability.
+> **[1:51](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ethical-guidelines-and-standards?u=76281980&t=111)** We want to establish clear reporting mechanisms for stakeholders, and in particular, we want to flag negative impacts and ensure [[Accountability]].
 >
-> **[1:59](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ethical-guidelines-and-standards?u=76281980&t=119)** Now, we can do this by implementing continuous monitoring system to detect and address unintended consequences that could emerge after development.
+> **[1:59](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ethical-guidelines-and-standards?u=76281980&t=119)** Now, we can do this by implementing [[Continuous Monitoring]] system to detect and address unintended consequences that could emerge after development.
 >
 > **[2:09](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ethical-guidelines-and-standards?u=76281980&t=129)** Now, when we implement our ethics practices, we want to make sure we create dedicated ethics review boards with multidisciplinary expertise.
 >
@@ -3354,7 +3299,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ethical-guidelines-and-standards?u=76281980&t=164)** That can help build practical competency.
 >
-> **[2:48](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ethical-guidelines-and-standards?u=76281980&t=168)** And we want to establish formal incident response protocols.
+> **[2:48](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ethical-guidelines-and-standards?u=76281980&t=168)** And we want to establish formal [[Incident Response]] protocols.
 >
 > **[2:51](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ethical-guidelines-and-standards?u=76281980&t=171)** Now, it's important that these define clear processes for addressing ethical failures.
 >
@@ -3380,17 +3325,17 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ethical-guidelines-and-standards?u=76281980&t=255)** We also want to be clear that we establish governance structures that define roles, responsibilities, and decision making authority for ethical oversight.
 >
-> **[4:26](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ethical-guidelines-and-standards?u=76281980&t=266)** We also want to integrate ethics checkpoints into existing development processes, and this includes requirements gathering, design reviews, and pre-deployment validation.
+> **[4:26](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ethical-guidelines-and-standards?u=76281980&t=266)** We also want to integrate ethics checkpoints into existing development processes, and this includes [[Requirements Gathering]], design reviews, and pre-deployment validation.
 >
 > **[4:36](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ethical-guidelines-and-standards?u=76281980&t=276)** We also want to implement comprehensive training programs, and we should make these available for all stakeholders, both technical teams and business leaders.
 >
 > **[4:46](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ethical-guidelines-and-standards?u=76281980&t=286)** And then we want to develop robust monitoring and reporting mechanisms.
 >
-> **[4:50](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ethical-guidelines-and-standards?u=76281980&t=290)** That'll help us track ethical performance metrics and provide insights for continuous improvement.
+> **[4:50](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/ethical-guidelines-and-standards?u=76281980&t=290)** That'll help us track ethical [[Performance Metrics]] and provide insights for continuous improvement.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Ethics]] (7), teams (3), [[Microsoft]] (1), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (7), [[Microsoft]] (1), [[Responsible AI]] (1), [[Google]] (1), [[Accountability]] (1)
 > **Env Vars:** ieee (1), oecd (1), unesco (1), ibm (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
@@ -3398,8 +3343,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Ethical principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-25654716?u=76281980)
+#### [Challenge: Ethical principles](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/challenge-25654716?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3413,18 +3357,17 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright electronic music) (1)
 
-#### Solution: Ethical principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-25655727?u=76281980)
+#### [Solution: Ethical principles](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-25655727?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-25655727?u=76281980&t=0)** (bright electronic music)
 >
-> **[0:05](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-25655727?u=76281980&t=5)** - [Instructor] Okay, the solution entails the answer to the first question, which is, the principle of fairness calls for preventing and mitigating bias in training data and decision-making, while the principle of transparency calls for enabling users and other stakeholders to understand how AI systems function and how they make decisions.
+> **[0:05](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/solution-25655727?u=76281980&t=5)** - [Instructor] Okay, the solution entails the answer to the first question, which is, the principle of fairness calls for preventing and mitigating bias in training data and [[Decision-Making]], while the principle of transparency calls for enabling users and other stakeholders to understand how AI systems function and how they make decisions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Decision-Making]] (1), ai (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright electronic music) (1)
@@ -3434,20 +3377,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/next-steps?u=76281980&t=0)** - [Instructor] Congratulations on completing this course.
 >
-> **[0:03](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/next-steps?u=76281980&t=3)** If you'd like to further your understanding of AI systems, I suggest you continue learning about data preparation, feature engineering, and data augmentation.
+> **[0:03](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/next-steps?u=76281980&t=3)** If you'd like to further your understanding of AI systems, I suggest you continue learning about [[Data Preparation]], [[Feature Engineering]], and data augmentation.
 >
 > **[0:14](https://www.linkedin.com/learning/data-planning-strategy-and-compliance-for-ai-initiatives/next-steps?u=76281980&t=14)** Also, spend time to understand the structure and function of machine learning pipelines, and finally, learn how to evaluate AI systems, and in particular, look for ways for how you can understand and measure the alignment of AI systems with the organization's business goals and then guidelines as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), data (2), [[Feature Engineering]] (1), business (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (1), [[Feature Engineering]] (1)
 > **Speakers:** - [instructor] (1)
 
 

@@ -77,12 +77,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Influencing at the leadership level
-> [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influencing-at-the-leadership-level-25859458?u=76281980)
+#### [Influencing at the leadership level](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influencing-at-the-leadership-level-25859458?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influencing-at-the-leadership-level-25859458?u=76281980&t=0)** - In a world where AI can automate tasks, where algorithms can make sense of data, what's left that is uniquely human?
+> **[0:00](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influencing-at-the-leadership-level-25859458?u=76281980&t=0)** - In a world where AI can automate tasks, where [[Algorithms]] can make sense of data, what's left that is uniquely human?
 >
 > **[0:08](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influencing-at-the-leadership-level-25859458?u=76281980&t=8)** Your ability to influence others.
 >
@@ -98,12 +97,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), [[Algorithms]] (1), data (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - in (1)
 
-#### Myths and truths about influence
-> [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/myths-and-truths-about-influence?u=76281980)
+#### [Myths and truths about influence](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/myths-and-truths-about-influence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -135,7 +133,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/myths-and-truths-about-influence?u=76281980&t=112)** If you have the mindset that you need to wield your positional power and authority to get your team and others to take action, then you may become an overly involved, meddling manager who tries to direct every little thing.
 >
-> **[2:07](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/myths-and-truths-about-influence?u=76281980&t=127)** Encouraging autonomy, agency, and accountability will be key to your success and create in others independent thinking and a desire to take initiative.
+> **[2:07](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/myths-and-truths-about-influence?u=76281980&t=127)** Encouraging autonomy, agency, and [[Accountability]] will be key to your success and create in others independent thinking and a desire to take initiative.
 >
 > **[2:19](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/myths-and-truths-about-influence?u=76281980&t=139)** But to do so, you must learn to balance empowerment and guidance and to genuinely try to understand others' interests and needs, not to exploit them, but rather to align, add value, and solve problems in a way that benefits everyone.
 >
@@ -155,19 +153,18 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/myths-and-truths-about-influence?u=76281980&t=217)** Which of these three myths or truths surprised you the most, and why?
 >
-> **[3:42](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/myths-and-truths-about-influence?u=76281980&t=222)** Share with me here on LinkedIn.
+> **[3:42](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/myths-and-truths-about-influence?u=76281980&t=222)** Share with me here on [[LinkedIn]].
 >
 > **[3:43](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/myths-and-truths-about-influence?u=76281980&t=223)** I love hearing from you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (3), power (1), [[Accountability]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - there (1)
 
-#### Assess your leadership influence
-> [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/assess-your-leadership-influence?u=76281980)
+#### [Assess your leadership influence](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/assess-your-leadership-influence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -233,7 +230,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (2)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
@@ -244,8 +240,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Inspiring your team to act
-> [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/inspiring-your-team-to-act?u=76281980)
+#### [Inspiring your team to act](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/inspiring-your-team-to-act?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -257,7 +252,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/inspiring-your-team-to-act?u=76281980&t=28)** Let's start with choice.
 >
-> **[0:31](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/inspiring-your-team-to-act?u=76281980&t=31)** There is a reason Google allows employees to spend 20% of their time working on projects of their choosing, or that the Ritz-Carlton gives team members up to $2,000 to ensure a guest is satisfied.
+> **[0:31](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/inspiring-your-team-to-act?u=76281980&t=31)** There is a reason [[Google]] allows employees to spend 20% of their time working on projects of their choosing, or that the Ritz-Carlton gives team members up to $2,000 to ensure a guest is satisfied.
 >
 > **[0:45](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/inspiring-your-team-to-act?u=76281980&t=45)** Studies suggest that autonomy and ownership lead to higher performance, greater job satisfaction, and commitment to the company.
 >
@@ -311,21 +306,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), career (1), management (1), data (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2), picture (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - here (1)
 
-#### Holding your team accountable
-> [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/holding-your-team-accountable?u=76281980)
+#### [Holding your team accountable](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/holding-your-team-accountable?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/holding-your-team-accountable?u=76281980&t=0)** - Chris, a computer engineer, produced flawless code and eagerly took on challenging projects, but his follow through was an issue.
 >
-> **[0:11](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/holding-your-team-accountable?u=76281980&t=11)** His manager, Stefano, explained, "Due dates come and go with no word.
+> **[0:11](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/holding-your-team-accountable?u=76281980&t=11)** His manager, Stefano, explained, "Due dates come and go with no [[Microsoft Word|word]].
 >
 > **[0:16](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/holding-your-team-accountable?u=76281980&t=16)** I need to count on Chris, but I don't want to bulldoze him into compliance."
 >
@@ -339,7 +333,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/holding-your-team-accountable?u=76281980&t=52)** Does my team have the context they need to navigate uncertainty?
 >
-> **[0:57](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/holding-your-team-accountable?u=76281980&t=57)** Also keep in mind the Pygmalion effect, where high expectations around accountability typically lead to better performance.
+> **[0:57](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/holding-your-team-accountable?u=76281980&t=57)** Also keep in mind the Pygmalion effect, where high expectations around [[Accountability]] typically lead to better performance.
 >
 > **[1:06](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/holding-your-team-accountable?u=76281980&t=66)** The Greek myth goes that Pygmalion, a sculptor, fell in love with Galatea, his creation, a statue brought to life.
 >
@@ -409,15 +403,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accountability]] (4), feature (2), [[Microsoft Word|Word]] (1), leadership (1), next (1)
+> **Frameworks & Libraries:** [[Accountability]] (4), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - chris (1)
 
-#### Influencing different personalities
-> [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influencing-different-personalities?u=76281980)
+#### [Influencing different personalities](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influencing-different-personalities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -493,12 +486,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (1), next (1), data (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - i (1)
 
-#### Modeling the way
-> [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/modeling-the-way?u=76281980)
+#### [Modeling the way](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/modeling-the-way?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -516,7 +507,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/modeling-the-way?u=76281980&t=24)** Whether you realize it or not, your actions are influencing your team on a daily basis.
 >
-> **[0:31](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/modeling-the-way?u=76281980&t=31)** As the person with more power, others are watching how you behave, react, and respond very closely.
+> **[0:31](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/modeling-the-way?u=76281980&t=31)** As the person with more power, others are watching how you behave, [[React.js|react]], and respond very closely.
 >
 > **[0:39](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/modeling-the-way?u=76281980&t=39)** Tone comes from the top.
 >
@@ -578,14 +569,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), teams (2), [[React.js|React]] (1), leadership (1), product (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - when (1)
 
-#### Motivating your team through change
-> [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/motivating-your-team-through-change?u=76281980)
+#### [Motivating your team through change](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/motivating-your-team-through-change?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -645,7 +635,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/motivating-your-team-through-change?u=76281980&t=150)** Hearing directly from someone higher up can validate the direction and remind people that their work has real ripple effects beyond their team.
 >
-> **[2:40](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/motivating-your-team-through-change?u=76281980&t=160)** One-on-ones with your team are also the best chance to personalize the change, to help each person see how it affects them, what role they play in making it real, and create accountability.
+> **[2:40](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/motivating-your-team-through-change?u=76281980&t=160)** One-on-ones with your team are also the best chance to personalize the change, to help each person see how it affects them, what role they play in making it real, and create [[Accountability]].
 >
 > **[2:52](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/motivating-your-team-through-change?u=76281980&t=172)** Beyond just asking how they're feeling or following up on commitments, use them to source ideas and feedback from the ground.
 >
@@ -655,7 +645,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), next (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (2)
 > **Speakers:** - priorities (1)
@@ -665,8 +655,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Developing organizational awareness
-> [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/developing-organizational-awareness?u=76281980)
+#### [Developing organizational awareness](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/developing-organizational-awareness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -738,14 +727,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (6), leadership (1), web (1), functional (1), next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - leadership (1)
 
-#### Building relationships with stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/building-relationships-with-stakeholders?u=76281980)
+#### [Building relationships with stakeholders](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/building-relationships-with-stakeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -809,7 +796,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/building-relationships-with-stakeholders?u=76281980&t=185)** Share it with a small segment of your customers.
 >
-> **[3:09](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/building-relationships-with-stakeholders?u=76281980&t=189)** One last word to the wise, don't overlook unspoken influencers, like the administrative assistant, who determines what meetings get on the executive's calendar.
+> **[3:09](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/building-relationships-with-stakeholders?u=76281980&t=189)** One last [[Microsoft Word|word]] to the wise, don't overlook unspoken influencers, like the administrative assistant, who determines what meetings get on the executive's calendar.
 >
 > **[3:20](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/building-relationships-with-stakeholders?u=76281980&t=200)** The intern with special access to information, or folks who bridge gaps between departments or work streams.
 >
@@ -817,14 +804,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), data (1), next (1), functional (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** refers to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - relationships (1)
 
-#### Influencing outcomes through others
-> [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influencing-outcomes-through-others?u=76281980)
+#### [Influencing outcomes through others](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influencing-outcomes-through-others?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -856,7 +842,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influencing-outcomes-through-others?u=76281980&t=94)** In Sarah's case, the nursing managers made great champions because they wanted to retain frontline workers in a competitive job market.
 >
-> **[1:43](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influencing-outcomes-through-others?u=76281980&t=103)** Look for people with great storytelling abilities.
+> **[1:43](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influencing-outcomes-through-others?u=76281980&t=103)** Look for people with great [[Storytelling]] abilities.
 >
 > **[1:47](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influencing-outcomes-through-others?u=76281980&t=107)** They need to be able to communicate your message well and to develop a sense of urgency in others.
 >
@@ -898,13 +884,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (1), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1)
 > **Speakers:** - sarah (1)
 
-#### Using influence to advocate for your team
-> [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/using-influence-to-advocate-for-your-team?u=76281980)
+#### [Using influence to advocate for your team](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/using-influence-to-advocate-for-your-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -920,7 +905,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/using-influence-to-advocate-for-your-team?u=76281980&t=30)** Consumers today are three times more likely to use an ATM versus a human teller.
 >
-> **[0:36](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/using-influence-to-advocate-for-your-team?u=76281980&t=36)** Yet, overall satisfaction with the banking experience has gone down.
+> **[0:36](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/using-influence-to-advocate-for-your-team?u=76281980&t=36)** Yet, overall satisfaction with the [[Banking]] experience has gone down.
 >
 > **[0:42](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/using-influence-to-advocate-for-your-team?u=76281980&t=42)** Why?
 >
@@ -934,7 +919,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/using-influence-to-advocate-for-your-team?u=76281980&t=80)** A key way to do this is by adding a recent wins section to your one-on-one meetings.
 >
-> **[1:25](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/using-influence-to-advocate-for-your-team?u=76281980&t=85)** This gives you a real-time opportunity to highlight top performers and milestones the team has achieved.
+> **[1:25](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/using-influence-to-advocate-for-your-team?u=76281980&t=85)** This gives you a [[Real-Time]] opportunity to highlight top performers and milestones the team has achieved.
 >
 > **[1:32](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/using-influence-to-advocate-for-your-team?u=76281980&t=92)** Explain how you navigated roadblocks or emphasize how one of your reports leveraged relationships with other colleagues to push a project forward.
 >
@@ -964,7 +949,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Banking]] (2), hit (1), [[Real-Time]] (1), business (1)
+> **Frameworks & Libraries:** [[Banking]] (2), [[Real-Time]] (1)
 > **Env Vars:** atm (2)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
@@ -973,8 +958,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - let (1)
 
-#### Navigating power struggles
-> [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/navigating-power-struggles?u=76281980)
+#### [Navigating power struggles](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/navigating-power-struggles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -984,7 +968,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/navigating-power-struggles?u=76281980&t=12)** In the moment, do your best to stay calm and set the record straight.
 >
-> **[0:17](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/navigating-power-struggles?u=76281980&t=17)** Chime in and say something like "It was great collaborating on the project John mentioned while his team led execution.
+> **[0:17](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/navigating-power-struggles?u=76281980&t=17)** Chime in and say something like "It was great collaborating on the project [[John the Ripper|John]] mentioned while his team led execution.
 >
 > **[0:24](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/navigating-power-struggles?u=76281980&t=24)** Our team was responsible for strategy and were so happy with the results."
 >
@@ -1036,14 +1020,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), product (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Best Practices:** make sure to (1), good practice (1)
 > **Analogies:** for example (1)
 > **Speakers:** - i (1)
 
-#### Pushing back tactfully
-> [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/pushing-back-tactfully?u=76281980)
+#### [Pushing back tactfully](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/pushing-back-tactfully?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1113,13 +1096,13 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/pushing-back-tactfully?u=76281980&t=150)** Another useful strategy is to preempt requests, for example, at the top of a meeting, let your colleagues know that as you're discussing projects, your team won't be able to fit in anything new for the next two weeks.
 >
-> **[2:44](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/pushing-back-tactfully?u=76281980&t=164)** For more tips and strategies on tactfully pushing back at work, check out my LinkedIn learning course.
+> **[2:44](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/pushing-back-tactfully?u=76281980&t=164)** For more tips and strategies on tactfully pushing back at work, check out my [[LinkedIn]] learning course.
 >
 > **[2:50](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/pushing-back-tactfully?u=76281980&t=170)** Learning to Say No With Confidence and Grace.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
@@ -1130,8 +1113,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Earning authority and autonomy
-> [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/earning-authority-and-autonomy?u=76281980)
+#### [Earning authority and autonomy](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/earning-authority-and-autonomy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1211,13 +1193,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is called (1)
 > **Speakers:** - one (1)
 
-#### Building a braintrust
-> [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/building-a-braintrust?u=76281980)
+#### [Building a braintrust](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/building-a-braintrust?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1277,13 +1257,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 
-#### Gaining visibility for team accomplishments
-> [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/gaining-visibility-for-team-accomplishments?u=76281980)
+#### [Gaining visibility for team accomplishments](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/gaining-visibility-for-team-accomplishments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1311,7 +1289,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/gaining-visibility-for-team-accomplishments?u=76281980&t=57)** Increase productivity or volume?
 >
-> **[1:00](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/gaining-visibility-for-team-accomplishments?u=76281980&t=60)** Hard numbers are compelling, but metrics don't inspire without storytelling.
+> **[1:00](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/gaining-visibility-for-team-accomplishments?u=76281980&t=60)** Hard numbers are compelling, but metrics don't inspire without [[Storytelling]].
 >
 > **[1:07](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/gaining-visibility-for-team-accomplishments?u=76281980&t=67)** If numbers are a head-based logical appeal, then stories connect to the heart.
 >
@@ -1335,7 +1313,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/gaining-visibility-for-team-accomplishments?u=76281980&t=140)** It could even be recognition from senior leaders within your company, industry organizations, or regulatory bodies.
 >
-> **[2:28](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/gaining-visibility-for-team-accomplishments?u=76281980&t=148)** That way those you work with don't just have to take your word for your team's successes.
+> **[2:28](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/gaining-visibility-for-team-accomplishments?u=76281980&t=148)** That way those you work with don't just have to take your [[Microsoft Word|word]] for your team's successes.
 >
 > **[2:33](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/gaining-visibility-for-team-accomplishments?u=76281980&t=153)** You'll show it through stamps of approval from others as well.
 >
@@ -1353,18 +1331,17 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/gaining-visibility-for-team-accomplishments?u=76281980&t=197)** Let this be a reminder to be generous with praise and to be a leader who helps others shine.
 >
-> **[3:24](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/gaining-visibility-for-team-accomplishments?u=76281980&t=204)** For more helpful tips on raising your professional profile in an authentic way, check out my LinkedIn Learning course Leading as a Highly Sensitive Person.
+> **[3:24](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/gaining-visibility-for-team-accomplishments?u=76281980&t=204)** For more helpful tips on raising your professional profile in an authentic way, check out my [[LinkedIn]] Learning course Leading as a Highly Sensitive Person.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Storytelling]] (1), leadership (1), [[Microsoft Word|Word]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1), [[Microsoft Word|Word]] (1), [[LinkedIn]] (1)
 > **Best Practices:** don't forget (1), remember to (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
 > **Speakers:** - how (1)
 
-#### Getting executive buy-in
-> [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/getting-executive-buy-in?u=76281980)
+#### [Getting executive buy-in](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/getting-executive-buy-in?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1400,7 +1377,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/getting-executive-buy-in?u=76281980&t=64)** And third, over preparation.
 >
-> **[1:07](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/getting-executive-buy-in?u=76281980&t=67)** Memorizing your script word for word backfires when your time slot is cut short or an executive throws an unexpected question your way.
+> **[1:07](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/getting-executive-buy-in?u=76281980&t=67)** Memorizing your script [[Microsoft Word|word]] for word backfires when your time slot is cut short or an executive throws an unexpected question your way.
 >
 > **[1:16](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/getting-executive-buy-in?u=76281980&t=76)** So how can you become more effective and commanding when speaking to the top dogs?
 >
@@ -1456,7 +1433,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/getting-executive-buy-in?u=76281980&t=195)** Don't forget to emphasize impact.
 >
-> **[3:18](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/getting-executive-buy-in?u=76281980&t=198)** If you're sharing statistics, for example, explain what the data means and the broader implications behind it.
+> **[3:18](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/getting-executive-buy-in?u=76281980&t=198)** If you're sharing [[Statistics]], for example, explain what the data means and the broader implications behind it.
 >
 > **[3:25](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/getting-executive-buy-in?u=76281980&t=205)** Executives deal in vision and strategy.
 >
@@ -1468,7 +1445,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/getting-executive-buy-in?u=76281980&t=218)** How will this help us be our competitors?
 >
-> **[3:41](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/getting-executive-buy-in?u=76281980&t=221)** How may our board, investors, or the market react?
+> **[3:41](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/getting-executive-buy-in?u=76281980&t=221)** How may our board, investors, or the market [[React.js|react]]?
 >
 > **[3:46](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/getting-executive-buy-in?u=76281980&t=226)** And finally, be flexible.
 >
@@ -1484,7 +1461,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/getting-executive-buy-in?u=76281980&t=249)** Follow the 30/10 rule.
 >
-> **[4:12](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/getting-executive-buy-in?u=76281980&t=252)** If you have 30 minutes on the agenda, plan for 10 minutes of content and earmark the rest for interaction.
+> **[4:12](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/getting-executive-buy-in?u=76281980&t=252)** If you have 30 minutes on the agenda, plan for 10 minutes of content and earmark the [[Representational State Transfer (REST)|rest]] for interaction.
 >
 > **[4:19](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/getting-executive-buy-in?u=76281980&t=259)** Anticipate questions leaders may have so that you're ready to answer them on the spot.
 >
@@ -1492,7 +1469,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), data (2), next (1), [[Statistics]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Statistics]] (1), [[React.js|React]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** bluff (3), ceo (1), scqa (1)
 > **Analogies:** for example (2), imagine (1), picture (1)
 > **CLI Commands:** make (3)
@@ -1505,8 +1482,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Influence for the greatest good
-> [LinkedIn Learning](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influence-for-the-greatest-good?u=76281980)
+#### [Influence for the greatest good](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influence-for-the-greatest-good?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1526,13 +1502,13 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influence-for-the-greatest-good?u=76281980&t=43)** I want to hear all about what resonated with you and how you apply what you've learned from this course.
 >
-> **[0:49](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influence-for-the-greatest-good?u=76281980&t=49)** Follow me on LinkedIn or head to my website, [melodywilding.com](https://melodywilding.com) to learn more about my programs, books, and speaking.
+> **[0:49](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influence-for-the-greatest-good?u=76281980&t=49)** Follow me on [[LinkedIn]] or head to my website, [melodywilding.com](https://melodywilding.com) to learn more about my programs, books, and speaking.
 >
 > **[0:57](https://www.linkedin.com/learning/influence-skills-for-leaders-and-managers/influence-for-the-greatest-good?u=76281980&t=57)** Thank you for allowing me to be your guide and here's to your success.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **URLs:** [melodywilding.com](https://melodywilding.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)

@@ -10,12 +10,12 @@ louvain_cluster: 1
 tags:
   - learning-path
   - topic/artificial-intelligence
-  - status/fresh
-last_activity: null
-activity_total: 0
-courses_visited: 0
+  - status/in-progress
+last_activity: 2026-05-02T20:54:29.564Z
+activity_total: 2
+courses_visited: 1
 videos_visited: 0
-progress_status: fresh
+progress_status: in-progress
 course_activity:
   - course: '[[Introduction to Large Language Models]]'
     last_opened: null

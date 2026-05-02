@@ -92,8 +92,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to make an impact in your organization as an engineer
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-make-an-impact-in-your-organization-as-an-engineer?u=76281980)
+#### [How to make an impact in your organization as an engineer](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-make-an-impact-in-your-organization-as-an-engineer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -113,17 +112,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [kathryn] (1)
 
-#### Why use Python to build automation simple tools?
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/why-use-python-to-build-automation-simple-tools?u=76281980)
+#### [Why use Python to build automation simple tools?](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/why-use-python-to-build-automation-simple-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/why-use-python-to-build-automation-simple-tools?u=76281980&t=0)** - [Software Engineer] Python is a great tool for task automation and data visualization because it allows you to do so much with little code.
+> **[0:00](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/why-use-python-to-build-automation-simple-tools?u=76281980&t=0)** - [Software Engineer] [[Python (Programming Language)|Python]] is a great tool for task automation and data visualization because it allows you to do so much with little code.
 >
 > **[0:09](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/why-use-python-to-build-automation-simple-tools?u=76281980&t=9)** There are also so many compatible libraries you can use to simplify tasks and it has extensive documentation with a great online community.
 >
@@ -131,7 +128,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/why-use-python-to-build-automation-simple-tools?u=76281980&t=32)** And it's not even the language I use in my day-to-day.
 >
-> **[0:36](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/why-use-python-to-build-automation-simple-tools?u=76281980&t=36)** Most of the time I use Java or TypeScript to build and maintain platform APIs, but Python is great for automating small chore like tasks with little overhead, so I can write a small bit of code and get a lot out of it.
+> **[0:36](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/why-use-python-to-build-automation-simple-tools?u=76281980&t=36)** Most of the time I use [[Java]] or TypeScript to build and maintain platform APIs, but Python is great for automating small chore like tasks with little overhead, so I can write a small bit of code and get a lot out of it.
 >
 > **[0:52](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/why-use-python-to-build-automation-simple-tools?u=76281980&t=52)** Depending on what you're automating and what challenge you're solving, it may not perfectly fit your needs, and that's okay.
 >
@@ -139,19 +136,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Automation]] (3), data (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Java]] (1)
 > **CLI Commands:** python (3), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [software (1)
 
-#### Using GitHub Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/using-github-codespaces?u=76281980)
+#### [Using GitHub Codespaces](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/using-github-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/using-github-codespaces?u=76281980&t=0)** - [Instructor] Before jumping into the course, there's a few logistics we should talk about.
 >
-> **[0:05](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/using-github-codespaces?u=76281980&t=5)** We'll be using GitHub for the exercise files that'll go along with each video.
+> **[0:05](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/using-github-codespaces?u=76281980&t=5)** We'll be using [[GitHub]] for the exercise files that'll go along with each video.
 >
 > **[0:11](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/using-github-codespaces?u=76281980&t=11)** To access the code for a given video, you'll go to the appropriate branch in GitHub.
 >
@@ -175,7 +171,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/using-github-codespaces?u=76281980&t=79)** This way is the old way of doing things.
 >
-> **[1:24](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/using-github-codespaces?u=76281980&t=84)** Recently, a new way was introduced with GitHub Codespaces.
+> **[1:24](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/using-github-codespaces?u=76281980&t=84)** Recently, a new way was introduced with GitHub [[Codespaces]].
 >
 > **[1:29](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/using-github-codespaces?u=76281980&t=89)** GitHub Codespaces is a cloud-powered environment built into GitHub that makes it easier for us to write code and not worry too much about the setup.
 >
@@ -197,7 +193,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/using-github-codespaces?u=76281980&t=145)** Within our Codespace, a few things are already set up for you.
 >
-> **[2:30](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/using-github-codespaces?u=76281980&t=150)** One is Python 3.
+> **[2:30](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/using-github-codespaces?u=76281980&t=150)** One is [[Python (Programming Language)|Python]] 3.
 >
 > **[2:32](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/using-github-codespaces?u=76281980&t=152)** We can test it with python --version.
 >
@@ -213,7 +209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (6), [[Python (Programming Language)|Python]] (3), [[Codespaces]] (2), cloud (1)
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Python (Programming Language)|Python]] (3), [[Codespaces]] (2)
 > **Tools:** github (6)
 > **CLI Commands:** python (3), make (2)
 > **Exercise Files:** exercise files (2), download the (2), starter code (1)
@@ -227,12 +223,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are microservices?
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/what-are-microservices?u=76281980)
+#### [What are microservices?](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/what-are-microservices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/what-are-microservices?u=76281980&t=0)** - [Instructor] Microservices are a common architecture in modern software development.
+> **[0:00](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/what-are-microservices?u=76281980&t=0)** - [Instructor] [[Microservices]] are a common architecture in modern [[Software Development]].
 >
 > **[0:05](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/what-are-microservices?u=76281980&t=5)** They enable quick delivery of large and complex applications by breaking up the software into independent services.
 >
@@ -284,18 +279,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), teams (3), [[Microservices]] (2), feature (2), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (2), [[Software Development]] (1)
 > **Env Vars:** solid (1), oop (1)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Disadvantages of the microservice architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/disadvantages-of-the-microservice-architecture?u=76281980)
+#### [Disadvantages of the microservice architecture](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/disadvantages-of-the-microservice-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/disadvantages-of-the-microservice-architecture?u=76281980&t=0)** - [Instructor] While microservices can help increase availability, they do have a few disadvantages.
+> **[0:00](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/disadvantages-of-the-microservice-architecture?u=76281980&t=0)** - [Instructor] While [[Microservices]] can help increase availability, they do have a few disadvantages.
 >
 > **[0:07](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/disadvantages-of-the-microservice-architecture?u=76281980&t=7)** When everything is a separate service, communication with the other services happens over the network.
 >
@@ -305,9 +299,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/disadvantages-of-the-microservice-architecture?u=76281980&t=24)** This means adding additional security in the messaging system that connects the services, whether that's through an HTTP protocol, or queue, or some other system.
 >
-> **[0:37](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/disadvantages-of-the-microservice-architecture?u=76281980&t=37)** In general, microservices can be hard to maintain without automation and advanced project management practices, such as agile.
+> **[0:37](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/disadvantages-of-the-microservice-architecture?u=76281980&t=37)** In general, microservices can be hard to maintain without automation and advanced project management practices, such as [[Agile Development|agile]].
 >
-> **[0:48](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/disadvantages-of-the-microservice-architecture?u=76281980&t=48)** In order for microservices to be successful in an organization, a strong DevOps team must be in place that helps deploy and monitor the microservices.
+> **[0:48](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/disadvantages-of-the-microservice-architecture?u=76281980&t=48)** In order for microservices to be successful in an organization, a strong [[DevOps]] team must be in place that helps deploy and monitor the microservices.
 >
 > **[0:59](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/disadvantages-of-the-microservice-architecture?u=76281980&t=59)** Microservices introduce all the complexities of a distributed system, so there has to be someone making sure all the independent services fit into place.
 >
@@ -325,15 +319,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (6), application (2), [[Security]] (1), [[Automation]] (1), management (1)
+> **Frameworks & Libraries:** [[Microservices]] (6), [[Agile Development|Agile]] (1), [[DevOps]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** http (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to solve for the challenges introduced by microservices
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-solve-for-the-challenges-introduced-by-microservices?u=76281980)
+#### [How to solve for the challenges introduced by microservices](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-solve-for-the-challenges-introduced-by-microservices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -343,7 +336,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-solve-for-the-challenges-introduced-by-microservices?u=76281980&t=12)** That's how you can create change in your organization.
 >
-> **[0:17](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-solve-for-the-challenges-introduced-by-microservices?u=76281980&t=17)** Taking this approach when considering microservices, one of the challenges of microservices is that data is spread across many platforms.
+> **[0:17](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-solve-for-the-challenges-introduced-by-microservices?u=76281980&t=17)** Taking this approach when considering [[Microservices]], one of the challenges of microservices is that data is spread across many platforms.
 >
 > **[0:26](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-solve-for-the-challenges-introduced-by-microservices?u=76281980&t=26)** This means it can be difficult to get a clear picture of the state of an account or a connection of accounts because you have to cross reference many different code bases and log sets.
 >
@@ -351,7 +344,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-solve-for-the-challenges-introduced-by-microservices?u=76281980&t=46)** They probably aren't in an easy to read format.
 >
-> **[0:50](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-solve-for-the-challenges-introduced-by-microservices?u=76281980&t=50)** Sure, they might be in JSON, but when you're looking at 10 different JSON files, trying to figure out how they're connected and what they represent, it gets difficult.
+> **[0:50](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-solve-for-the-challenges-introduced-by-microservices?u=76281980&t=50)** Sure, they might be in [[JSON]], but when you're looking at 10 different JSON files, trying to figure out how they're connected and what they represent, it gets difficult.
 >
 > **[1:01](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-solve-for-the-challenges-introduced-by-microservices?u=76281980&t=61)** There are other challenges as well as we mentioned in the last video.
 >
@@ -405,7 +398,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (6), data (6), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Microservices]] (6), [[JSON]] (2)
 > **Analogies:** picture (2), for example (1), imagine (1)
 > **Env Vars:** json (2)
 > **Cross-References:** we mentioned (1), in the last (1)
@@ -413,12 +406,11 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to research and find a technology that will help solve technical problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-research-and-find-a-technology-that-will-help-solve-technical-problems?u=76281980)
+#### [How to research and find a technology that will help solve technical problems](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-research-and-find-a-technology-that-will-help-solve-technical-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-research-and-find-a-technology-that-will-help-solve-technical-problems?u=76281980&t=0)** - [Presenter] Knowing how to research different technologies and decide whether they can be used to solve a given problem is key in software development.
+> **[0:00](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-research-and-find-a-technology-that-will-help-solve-technical-problems?u=76281980&t=0)** - [Presenter] Knowing how to research different technologies and decide whether they can be used to solve a given problem is key in [[Software Development]].
 >
 > **[0:09](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-research-and-find-a-technology-that-will-help-solve-technical-problems?u=76281980&t=9)** Not every technology fits every problem, but finding the right technology can help.
 >
@@ -432,7 +424,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-research-and-find-a-technology-that-will-help-solve-technical-problems?u=76281980&t=38)** It must be maintainable in the sense that it works with modern, commonly used languages.
 >
-> **[0:44](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-research-and-find-a-technology-that-will-help-solve-technical-problems?u=76281980&t=44)** Can you use it with Python?
+> **[0:44](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-research-and-find-a-technology-that-will-help-solve-technical-problems?u=76281980&t=44)** Can you use it with [[Python (Programming Language)|Python]]?
 >
 > **[0:46](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-research-and-find-a-technology-that-will-help-solve-technical-problems?u=76281980&t=46)** Can you use it with Go?
 >
@@ -472,7 +464,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Development]] (2), data (1), [[Python (Programming Language)|Python]] (1), open-source (1), feature (1)
+> **Frameworks & Libraries:** [[Software Development]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [presenter] (1)
@@ -482,8 +474,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is PlantUML?
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/what-is-plantuml?u=76281980)
+#### [What is PlantUML?](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/what-is-plantuml?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -535,15 +526,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), open-source (1)
 > **UI Navigation:** go to (2)
 > **URLs:** [plantuml.com](https://plantuml.com) (1)
 > **Env Vars:** uml (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [speaker] (1)
 
-#### Experiment with PlantUML
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/experiment-with-plantuml?u=76281980)
+#### [Experiment with PlantUML](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/experiment-with-plantuml?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -551,7 +540,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/experiment-with-plantuml?u=76281980&t=9)** Let's use it to visualize some microservice data.
 >
-> **[0:13](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/experiment-with-plantuml?u=76281980&t=13)** Let's say our software platform contains three main microservices.
+> **[0:13](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/experiment-with-plantuml?u=76281980&t=13)** Let's say our software platform contains three main [[Microservices]].
 >
 > **[0:19](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/experiment-with-plantuml?u=76281980&t=19)** The first is a user profile service that's responsible for managing user profile information.
 >
@@ -623,15 +612,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (9), data (5), [[Microservices]] (2), management (1)
+> **Frameworks & Libraries:** [[Microservices]] (2)
 > **CLI Commands:** node (9), find (1)
 > **Non-Speech:** (keyboard clicking) (5)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** link_in_bio (1)
 > **Speakers:** - [instructor] (1)
 
-#### How can you work with PlantUML in a maintainable way?
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-can-you-work-with-plantuml-in-a-maintainable-way?u=76281980)
+#### [How can you work with PlantUML in a maintainable way?](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-can-you-work-with-plantuml-in-a-maintainable-way?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -641,7 +629,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-can-you-work-with-plantuml-in-a-maintainable-way?u=76281980&t=11)** It's safe to say no one will be writing PlantUML code to generate these diagrams.
 >
-> **[0:18](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-can-you-work-with-plantuml-in-a-maintainable-way?u=76281980&t=18)** Instead, we would need to generate this code using a more commonly used technology, such as Java or Python.
+> **[0:18](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-can-you-work-with-plantuml-in-a-maintainable-way?u=76281980&t=18)** Instead, we would need to generate this code using a more commonly used technology, such as [[Java]] or [[Python (Programming Language)|Python]].
 >
 > **[0:26](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-can-you-work-with-plantuml-in-a-maintainable-way?u=76281980&t=26)** If we could generate PlantUML code using Python for example, we could feed it into the PlantUML editor and automate the generation of these diagrams.
 >
@@ -653,7 +641,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-can-you-work-with-plantuml-in-a-maintainable-way?u=76281980&t=64)** This would mean the automation logic would be in Python and that's what would be maintained, not the PlantUML code.
 >
-> **[1:13](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-can-you-work-with-plantuml-in-a-maintainable-way?u=76281980&t=73)** Considering this with our use case, we would read and translate the data from the different microservices using Python.
+> **[1:13](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-can-you-work-with-plantuml-in-a-maintainable-way?u=76281980&t=73)** Considering this with our use case, we would read and translate the data from the different [[Microservices]] using Python.
 >
 > **[1:21](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-can-you-work-with-plantuml-in-a-maintainable-way?u=76281980&t=81)** Then we would also use Python to generate the PlantUML code from this microservice data.
 >
@@ -661,19 +649,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), data (2), [[Java]] (1), [[Automation]] (1), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Java]] (1), [[Microservices]] (1)
 > **CLI Commands:** python (8), make (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to decide if PlantUML will work for a use case
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-decide-if-plantuml-will-work-for-a-use-case?u=76281980)
+#### [How to decide if PlantUML will work for a use case](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-decide-if-plantuml-will-work-for-a-use-case?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-decide-if-plantuml-will-work-for-a-use-case?u=76281980&t=0)** - We've proven that we can work with PlantUML in a maintainable way.
 >
-> **[0:05](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-decide-if-plantuml-will-work-for-a-use-case?u=76281980&t=5)** We can use Python as an intermediary tool to translate microservice data into PlantUML code.
+> **[0:05](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-decide-if-plantuml-will-work-for-a-use-case?u=76281980&t=5)** We can use [[Python (Programming Language)|Python]] as an intermediary tool to translate microservice data into PlantUML code.
 >
 > **[0:12](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-decide-if-plantuml-will-work-for-a-use-case?u=76281980&t=12)** Now, we also need to prove that the tool is flexible modern, mature, and well-documented.
 >
@@ -697,7 +684,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-decide-if-plantuml-will-work-for-a-use-case?u=76281980&t=76)** Let's go back to the FAQ.
 >
-> **[1:19](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-decide-if-plantuml-will-work-for-a-use-case?u=76281980&t=79)** There's a statement in here that affirms the tool's maturity by sourcing Google Trends and the tools mentioned in a few books.
+> **[1:19](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-decide-if-plantuml-will-work-for-a-use-case?u=76281980&t=79)** There's a statement in here that affirms the tool's maturity by sourcing [[Google]] Trends and the tools mentioned in a few books.
 >
 > **[1:27](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-decide-if-plantuml-will-work-for-a-use-case?u=76281980&t=87)** This means it's not brand new, which is good.
 >
@@ -731,7 +718,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (3), [[Google]] (3), feature (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Google]] (3)
 > **CLI Commands:** python (3), find (1)
 > **Documentation:** the documentation (1), stack overflow (1)
 > **Env Vars:** faq (1)
@@ -745,14 +732,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create an implementation plan for the initiative
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-an-implementation-plan-for-the-initiative?u=76281980)
+#### [Create an implementation plan for the initiative](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-an-implementation-plan-for-the-initiative?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-an-implementation-plan-for-the-initiative?u=76281980&t=0)** - [Instructor] Once you know the problem you want to solve and how you want to solve it, you need to create a plan for how you and your team will implement the solution.
 >
-> **[0:10](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-an-implementation-plan-for-the-initiative?u=76281980&t=10)** So far, our solution is to create a Python script that reads microservice data from various microservices.
+> **[0:10](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-an-implementation-plan-for-the-initiative?u=76281980&t=10)** So far, our solution is to create a [[Python (Programming Language)|Python]] script that reads microservice data from various [[Microservices]].
 >
 > **[0:17](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-an-implementation-plan-for-the-initiative?u=76281980&t=17)** Then it'll generate a visual diagram using plant UML code.
 >
@@ -804,13 +790,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Python (Programming Language)|Python]] (6), [[Microservices]] (3), next (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Microservices]] (3)
 > **Env Vars:** uml (6), poc (2)
 > **CLI Commands:** python (6)
 > **Speakers:** - [instructor] (1)
 
-#### How to convince your team to pursue the initiative
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-convince-your-team-to-pursue-the-initiative?u=76281980)
+#### [How to convince your team to pursue the initiative](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-convince-your-team-to-pursue-the-initiative?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -836,7 +821,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-convince-your-team-to-pursue-the-initiative?u=76281980&t=81)** Once you've convinced your team that the problem is a problem worth solving, you need to prove that the solution actually solves the problem.
 >
-> **[1:31](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-convince-your-team-to-pursue-the-initiative?u=76281980&t=91)** In our case, would the proposed system actually make it easier to understand and visualize data that lives in our microservices?
+> **[1:31](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-convince-your-team-to-pursue-the-initiative?u=76281980&t=91)** In our case, would the proposed system actually make it easier to understand and visualize data that lives in our [[Microservices]]?
 >
 > **[1:40](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/how-to-convince-your-team-to-pursue-the-initiative?u=76281980&t=100)** Maybe your team is confused by the PlantUML diagrams and so you might have to go back to the drawing board on visualization technologies.
 >
@@ -858,21 +843,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microservices]] (2)
+> **Frameworks & Libraries:** [[Microservices]] (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Divide work into user stories
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/divide-work-into-user-stories?u=76281980)
+#### [Divide work into user stories](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/divide-work-into-user-stories?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/divide-work-into-user-stories?u=76281980&t=0)** - [Host] Once your proposal has been approved it's time to break it up into user stories.
 >
-> **[0:05](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/divide-work-into-user-stories?u=76281980&t=5)** This assumes your team is using an agile like process for their software development work.
+> **[0:05](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/divide-work-into-user-stories?u=76281980&t=5)** This assumes your team is using an [[Agile Development|agile]] like process for their [[Software Development]] work.
 >
 > **[0:12](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/divide-work-into-user-stories?u=76281980&t=12)** A user story is a unit of work in the agile framework used to describe an angle of a particular user's need.
 >
@@ -886,11 +870,11 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/divide-work-into-user-stories?u=76281980&t=60)** We need to break up our initiative into user stories like these, so it can be completed iteratively over time.
 >
-> **[1:08](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/divide-work-into-user-stories?u=76281980&t=68)** One example of a user story might be, as a manager I want to know what microservices and what microservice data will be used in the visualizer and how we want to retrieve it so that we can better understand what data will be visualized across our distributed system and how we'll access it.
+> **[1:08](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/divide-work-into-user-stories?u=76281980&t=68)** One example of a user story might be, as a manager I want to know what [[Microservices]] and what microservice data will be used in the visualizer and how we want to retrieve it so that we can better understand what data will be visualized across our distributed system and how we'll access it.
 >
 > **[1:28](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/divide-work-into-user-stories?u=76281980&t=88)** In fact, this user story might be done before the initiative is approved, to better understand how the visualizer solution will solve the problem at hand, we identify the story with an acronym and a number, LIL 164, so we can refer to the story as it's being worked on.
 >
-> **[1:49](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/divide-work-into-user-stories?u=76281980&t=109)** Another user story might be, as a software engineer, I want to create a basic Python script that reads in the proposal data from user story LIL 164, so that it can later be visualized with PlantUML.
+> **[1:49](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/divide-work-into-user-stories?u=76281980&t=109)** Another user story might be, as a software engineer, I want to create a basic [[Python (Programming Language)|Python]] script that reads in the proposal data from user story LIL 164, so that it can later be visualized with PlantUML.
 >
 > **[2:05](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/divide-work-into-user-stories?u=76281980&t=125)** This is a smaller user story that involves creating a Python script that reads in data.
 >
@@ -914,7 +898,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Agile Development|Agile]] (2), [[Python (Programming Language)|Python]] (2), [[Software Development]] (1), feature (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Python (Programming Language)|Python]] (2), [[Software Development]] (1), [[Microservices]] (1)
 > **Env Vars:** lil (2), poc (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** python (2)
@@ -925,18 +909,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Establish input of the script
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/establish-input-of-the-script?u=76281980)
+#### [Establish input of the script](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/establish-input-of-the-script?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/establish-input-of-the-script?u=76281980&t=0)** - [Instructor] Before writing the Python script, we should establish what the input will be, so we know what will be visualized.
+> **[0:00](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/establish-input-of-the-script?u=76281980&t=0)** - [Instructor] Before writing the [[Python (Programming Language)|Python]] script, we should establish what the input will be, so we know what will be visualized.
 >
 > **[0:07](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/establish-input-of-the-script?u=76281980&t=7)** This video will complete the following user story: As a software engineer, I want to know what microservice data will be used in the visualizer, and how we'll retrieve that data so that we can establish the input of the Python visualizer script.
 >
 > **[0:24](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/establish-input-of-the-script?u=76281980&t=24)** The output of the story will be documentation, a document containing what data will be used and which microservice that data comes from.
 >
-> **[0:35](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/establish-input-of-the-script?u=76281980&t=35)** While there could be dozens and dozens of microservices, we'll be focusing on three for the purposes of this course.
+> **[0:35](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/establish-input-of-the-script?u=76281980&t=35)** While there could be dozens and dozens of [[Microservices]], we'll be focusing on three for the purposes of this course.
 >
 > **[0:43](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/establish-input-of-the-script?u=76281980&t=43)** The first is a user profile service that's responsible for managing user profile information.
 >
@@ -998,14 +981,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (2), [[Microservices]] (2), management (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Microservices]] (2)
 > **Code Identifiers:** is_manual (3), reported_by (3), is_reported (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Establish the output of the script
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/establish-the-output-of-the-script?u=76281980)
+#### [Establish the output of the script](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/establish-the-output-of-the-script?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1017,7 +999,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/establish-the-output-of-the-script?u=76281980&t=19)** We'll be completing the following user story.
 >
-> **[0:22](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/establish-the-output-of-the-script?u=76281980&t=22)** As a software engineer, I want to have a better idea of what the visualization will look like given the input data, so we can establish the output of the Python visualizer script.
+> **[0:22](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/establish-the-output-of-the-script?u=76281980&t=22)** As a software engineer, I want to have a better idea of what the visualization will look like given the input data, so we can establish the output of the [[Python (Programming Language)|Python]] visualizer script.
 >
 > **[0:34](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/establish-the-output-of-the-script?u=76281980&t=34)** Let's craft some input data and use it to create hard coded PlantUML code.
 >
@@ -1025,7 +1007,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/establish-the-output-of-the-script?u=76281980&t=44)** The Python visualizer script will eventually automate this process.
 >
-> **[0:50](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/establish-the-output-of-the-script?u=76281980&t=50)** In our code space, we have three JSON files.
+> **[0:50](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/establish-the-output-of-the-script?u=76281980&t=50)** In our code space, we have three [[JSON]] files.
 >
 > **[0:54](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/establish-the-output-of-the-script?u=76281980&t=54)** We have one representing the profile service response.
 >
@@ -1075,15 +1057,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (8), data (7), [[Python (Programming Language)|Python]] (2), [[JSON]] (1), management (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[JSON]] (1)
 > **CLI Commands:** node (8), python (2)
 > **Definitions:** is an  (2)
 > **Env Vars:** json (1)
 > **Speakers:** - to (1)
 > **Non-Speech:** (keys clicking) (1)
 
-#### Design implementation for script code
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/design-implementation-for-script-code?u=76281980)
+#### [Design implementation for script code](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/design-implementation-for-script-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1095,7 +1076,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/design-implementation-for-script-code?u=76281980&t=22)** Let's talk about design.
 >
-> **[0:24](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/design-implementation-for-script-code?u=76281980&t=24)** Our Python script will convert the format of several data pieces from different microservices into one piece of data.
+> **[0:24](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/design-implementation-for-script-code?u=76281980&t=24)** Our [[Python (Programming Language)|Python]] script will convert the format of several data pieces from different [[Microservices]] into one piece of data.
 >
 > **[0:32](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/design-implementation-for-script-code?u=76281980&t=32)** Then it'll write out that data into PlantUML code.
 >
@@ -1115,9 +1096,9 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/design-implementation-for-script-code?u=76281980&t=81)** Write out PlantUML code using data from the context object.
 >
-> **[1:26](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/design-implementation-for-script-code?u=76281980&t=86)** For step one, we would traditionally do this with an HTTP Rust Call and call the endpoint where the data lives.
+> **[1:26](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/design-implementation-for-script-code?u=76281980&t=86)** For step one, we would traditionally do this with an HTTP [[Rust (Programming Language)|Rust]] Call and call the endpoint where the data lives.
 >
-> **[1:35](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/design-implementation-for-script-code?u=76281980&t=95)** To keep things simpler, we'll be reading from JSON files that mock the responses that in theory would be returned by calling these different microservices.
+> **[1:35](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/design-implementation-for-script-code?u=76281980&t=95)** To keep things simpler, we'll be reading from [[JSON]] files that mock the responses that in theory would be returned by calling these different microservices.
 >
 > **[1:45](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/design-implementation-for-script-code?u=76281980&t=105)** Towards the end of the course, I'll show you how to make this a live call.
 >
@@ -1127,22 +1108,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Microservices]] (4), [[JSON]] (2), [[Python (Programming Language)|Python]] (1), [[Rust (Programming Language)|Rust]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (4), [[JSON]] (2), [[Python (Programming Language)|Python]] (1), [[Rust (Programming Language)|Rust]] (1)
 > **Env Vars:** json (2), http (1)
 > **CLI Commands:** python (1), make (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [narrator] (1)
 
-#### Load JSON data from a file
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/load-json-data-from-a-file?u=76281980)
+#### [Load JSON data from a file](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/load-json-data-from-a-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/load-json-data-from-a-file?u=76281980&t=0)** - [Instructor] The PlantUML diagram created from the script will be based on JSON input data.
+> **[0:00](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/load-json-data-from-a-file?u=76281980&t=0)** - [Instructor] The PlantUML diagram created from the script will be based on [[JSON]] input data.
 >
 > **[0:06](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/load-json-data-from-a-file?u=76281980&t=6)** Here's the user story we'll complete in this lesson.
 >
-> **[0:10](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/load-json-data-from-a-file?u=76281980&t=10)** As a software engineer, I would like to ingest the JSON data into the Python visualizer so we can use it to create a diagram with PlantUML.
+> **[0:10](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/load-json-data-from-a-file?u=76281980&t=10)** As a software engineer, I would like to ingest the JSON data into the [[Python (Programming Language)|Python]] visualizer so we can use it to create a diagram with PlantUML.
 >
 > **[0:21](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/load-json-data-from-a-file?u=76281980&t=21)** Let's read that data into our Python application.
 >
@@ -1208,7 +1188,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (12), data (12), application (6), [[Python (Programming Language)|Python]] (5), management (1)
+> **Frameworks & Libraries:** [[JSON]] (12), [[Python (Programming Language)|Python]] (5)
 > **Env Vars:** json (10), utf (1)
 > **CLI Commands:** python (5), make (2)
 > **File Paths:** main.py (2), profile_service_response.json (1), posts_management_service.json (1)
@@ -1216,12 +1196,11 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Iterate through JSON data and store effectively
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/iterate-through-json-data-and-store-effectively?u=76281980)
+#### [Iterate through JSON data and store effectively](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/iterate-through-json-data-and-store-effectively?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/iterate-through-json-data-and-store-effectively?u=76281980&t=0)** - [Instructor] With our JSON data loaded, let's iterate through it, and store it efficiently.
+> **[0:00](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/iterate-through-json-data-and-store-effectively?u=76281980&t=0)** - [Instructor] With our [[JSON]] data loaded, let's iterate through it, and store it efficiently.
 >
 > **[0:05](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/iterate-through-json-data-and-store-effectively?u=76281980&t=5)** Here's the user story we'll be completing.
 >
@@ -1267,7 +1246,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/iterate-through-json-data-and-store-effectively?u=76281980&t=160)** We need to check it before adding it to our context object.
 >
-> **[2:45](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/iterate-through-json-data-and-store-effectively?u=76281980&t=165)** We'll also remove the parentheses because we don't need them in Python.
+> **[2:45](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/iterate-through-json-data-and-store-effectively?u=76281980&t=165)** We'll also remove the parentheses because we don't need them in [[Python (Programming Language)|Python]].
 >
 > **[2:50](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/iterate-through-json-data-and-store-effectively?u=76281980&t=170)** Let's print out the context and run the application.
 >
@@ -1287,19 +1266,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (8), data (8), [[Python (Programming Language)|Python]] (2), next (1), management (1)
+> **Frameworks & Libraries:** [[JSON]] (8), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** json (8)
 > **CLI Commands:** python (2)
 > **File Paths:** main.py (1)
 > **URLs:** [curiousconcept.com](https://curiousconcept.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Write simple PlantUML code to a file
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/write-simple-plantuml-code-to-a-file?u=76281980)
+#### [Write simple PlantUML code to a file](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/write-simple-plantuml-code-to-a-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/write-simple-plantuml-code-to-a-file?u=76281980&t=0)** - [Instructor] Now that our JSON data has been ingested, let's use part of it to create a simple PlantUML diagram.
+> **[0:00](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/write-simple-plantuml-code-to-a-file?u=76281980&t=0)** - [Instructor] Now that our [[JSON]] data has been ingested, let's use part of it to create a simple PlantUML diagram.
 >
 > **[0:08](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/write-simple-plantuml-code-to-a-file?u=76281980&t=8)** Here's the user story we'll be working on.
 >
@@ -1371,15 +1349,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (8), data (5), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **CLI Commands:** node (8)
 > **Code Identifiers:** load_data (1), write_plantuml_file (1), post_id (1)
 > **Env Vars:** json (1), utf (1)
 > **File Paths:** plantuml.txt (1)
 > **Speakers:** - [instructor] (1)
 
-#### Export PlantUML code to a PNG diagram with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/export-plantuml-code-to-a-png-diagram-with-python?u=76281980)
+#### [Export PlantUML code to a PNG diagram with Python](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/export-plantuml-code-to-a-png-diagram-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1387,7 +1364,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/export-plantuml-code-to-a-png-diagram-with-python?u=76281980&t=8)** In this video, we'll be working on the following user story.
 >
-> **[0:12](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/export-plantuml-code-to-a-png-diagram-with-python?u=76281980&t=12)** As a software engineer, I would like to automatically generate the PlantUML diagram using the Python script so we can automate the process of copying and pasting the output code into an online editor.
+> **[0:12](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/export-plantuml-code-to-a-png-diagram-with-python?u=76281980&t=12)** As a software engineer, I would like to automatically generate the PlantUML diagram using the [[Python (Programming Language)|Python]] script so we can automate the process of copying and pasting the output code into an online editor.
 >
 > **[0:26](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/export-plantuml-code-to-a-png-diagram-with-python?u=76281980&t=26)** Let's generate a PlantUML diagram using Python.
 >
@@ -1453,7 +1430,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5), pip (2)
 > **Env Vars:** url (2)
 > **Tools:** terminal (2)
@@ -1462,16 +1439,15 @@ created: 2026-05-02
 > **File Paths:** plantuml.txt (1)
 > **Code Identifiers:** processes_file (1)
 
-#### Add data to each node in the PlantUML graph
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-data-to-each-node-in-the-plantuml-graph?u=76281980)
+#### [Add data to each node in the PlantUML graph](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-data-to-each-node-in-the-plantuml-graph?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-data-to-each-node-in-the-plantuml-graph?u=76281980&t=0)** - While seeing the nodes can be useful, having metadata on each node can make it easier to visualize.
+> **[0:00](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-data-to-each-node-in-the-plantuml-graph?u=76281980&t=0)** - While seeing the nodes can be useful, having [[Metadata]] on each node can make it easier to visualize.
 >
 > **[0:07](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-data-to-each-node-in-the-plantuml-graph?u=76281980&t=7)** Here's the user story we'll be implementing in this video.
 >
-> **[0:10](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-data-to-each-node-in-the-plantuml-graph?u=76281980&t=10)** As a software engineer, I would like to display the rest of the context metadata on each node to make it easier to understand what data exists for the profile in each post In PlantUML, we can add an attribute to the node by using the node's name and the new attribute name.
+> **[0:10](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-data-to-each-node-in-the-plantuml-graph?u=76281980&t=10)** As a software engineer, I would like to display the [[Representational State Transfer (REST)|rest]] of the context metadata on each node to make it easier to understand what data exists for the profile in each post In PlantUML, we can add an attribute to the node by using the node's name and the new attribute name.
 >
 > **[0:30](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-data-to-each-node-in-the-plantuml-graph?u=76281980&t=30)** We'd use the nameOfNode : nameOfAttribute, and then the new attributeValue.
 >
@@ -1507,7 +1483,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-data-to-each-node-in-the-plantuml-graph?u=76281980&t=164)** We'll collapse the implementation.
 >
-> **[2:48](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-data-to-each-node-in-the-plantuml-graph?u=76281980&t=168)** And execute python main.py.
+> **[2:48](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-data-to-each-node-in-the-plantuml-graph?u=76281980&t=168)** And execute [[Python (Programming Language)|python]] main.py.
 >
 > **[2:53](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-data-to-each-node-in-the-plantuml-graph?u=76281980&t=173)** And it looks like we have a small error.
 >
@@ -1539,14 +1515,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (10), data (6), [[Metadata]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (10), make (3), python (1)
 > **Code Identifiers:** post_caption (2), nameofnode (1), nameofattribute (1), attributevalue (1), post_id (1)
 > **File Paths:** main.py (1)
 > **Speakers:** - while (1)
 
-#### Add edges to the PlantUML graph
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-edges-to-the-plantuml-graph?u=76281980)
+#### [Add edges to the PlantUML graph](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-edges-to-the-plantuml-graph?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1600,11 +1575,11 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-edges-to-the-plantuml-graph?u=76281980&t=143)** It looks great.
 >
-> **[2:24](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-edges-to-the-plantuml-graph?u=76281980&t=144)** We have visualized our data across multiple microservices using Python and PlantUML.
+> **[2:24](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-edges-to-the-plantuml-graph?u=76281980&t=144)** We have visualized our data across multiple [[Microservices]] using [[Python (Programming Language)|Python]] and PlantUML.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (4), data (3), [[Microservices]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (4), make (3), python (1)
 > **File Paths:** main.py (1)
 > **Cross-References:** go back to (1)
@@ -1615,8 +1590,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Review your code for inefficiencies and unnecessary complication
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/review-your-code-for-inefficiencies-and-unnecessary-complication?u=76281980)
+#### [Review your code for inefficiencies and unnecessary complication](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/review-your-code-for-inefficiencies-and-unnecessary-complication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1642,7 +1616,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/review-your-code-for-inefficiencies-and-unnecessary-complication?u=76281980&t=67)** Let's remove it.
 >
-> **[1:16](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/review-your-code-for-inefficiencies-and-unnecessary-complication?u=76281980&t=76)** Instead of returning the context, we'll return a two pull of the different JSON values.
+> **[1:16](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/review-your-code-for-inefficiencies-and-unnecessary-complication?u=76281980&t=76)** Instead of returning the context, we'll return a two pull of the different [[JSON]] values.
 >
 > **[1:22](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/review-your-code-for-inefficiencies-and-unnecessary-complication?u=76281980&t=82)** That's the profile_json, post_json, and moderation_json.
 >
@@ -1716,7 +1690,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[JSON]] (2), node (1), management (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **Code Identifiers:** profile_data (2), moderation_data (2), profile_json (1), post_json (1), moderation_json (1)
 > **CLI Commands:** make (2), node (1)
 > **Env Vars:** json (2)
@@ -1725,8 +1699,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a README
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-a-readme?u=76281980)
+#### [Create a README](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-a-readme?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1734,7 +1707,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-a-readme?u=76281980&t=7)** It's very useful for other developers and even non-technical folks because it helps them understand what the application is for and how to use it.
 >
-> **[0:17](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-a-readme?u=76281980&t=17)** In this video, we'll be creating a ReadMe for our Python script.
+> **[0:17](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-a-readme?u=76281980&t=17)** In this video, we'll be creating a ReadMe for our [[Python (Programming Language)|Python]] script.
 >
 > **[0:22](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-a-readme?u=76281980&t=22)** It'll have the file Format MD, which stands for Markdown Documentation.
 >
@@ -1746,7 +1719,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-a-readme?u=76281980&t=51)** Next, we'll add instructions for how to install the tool.
 >
-> **[0:57](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-a-readme?u=76281980&t=57)** The user will clone the repo from GitHub and install the required packages using pip.
+> **[0:57](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-a-readme?u=76281980&t=57)** The user will clone the repo from [[GitHub]] and install the required packages using pip.
 >
 > **[1:03](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-a-readme?u=76281980&t=63)** Then they'll run the application with Python main.py.
 >
@@ -1766,7 +1739,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-a-readme?u=76281980&t=125)** We'll add a space here too.
 >
-> **[2:10](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-a-readme?u=76281980&t=130)** This lets users know how they can use the tool by overriding the data in the example JSON files.
+> **[2:10](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-a-readme?u=76281980&t=130)** This lets users know how they can use the tool by overriding the data in the example [[JSON]] files.
 >
 > **[2:17](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-a-readme?u=76281980&t=137)** In fact, another enhancement could be letting the user input file names for each of the microservice data files.
 >
@@ -1776,7 +1749,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-a-readme?u=76281980&t=160)** Other developers can contribute to our application using a forking branching strategy.
 >
-> **[2:46](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-a-readme?u=76281980&t=166)** If you want to learn more about GitHub and branching, I encourage you to check out the GitHub courses here on LinkedIn Learning.
+> **[2:46](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-a-readme?u=76281980&t=166)** If you want to learn more about GitHub and branching, I encourage you to check out the GitHub courses here on [[LinkedIn]] Learning.
 >
 > **[2:54](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/create-a-readme?u=76281980&t=174)** This ReadMe file is great.
 >
@@ -1784,7 +1757,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), application (3), [[GitHub]] (3), next (2), data (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[GitHub]] (3), [[JSON]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (4), pip (1)
 > **Versions:** version 0 (1), 3.0 (1), version 1 (1), 16.0 (1)
 > **Tools:** github (3)
@@ -1793,16 +1766,15 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **Env Vars:** json (1)
 
-#### Add live call to generate live graph
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-live-call-to-generate-live-graph?u=76281980)
+#### [Add live call to generate live graph](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-live-call-to-generate-live-graph?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-live-call-to-generate-live-graph?u=76281980&t=0)** - [Instructor] The tool we created is great at troubleshooting past events.
 >
-> **[0:04](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-live-call-to-generate-live-graph?u=76281980&t=4)** We can take JSON data from old logs to analyze what happened in certain scenarios.
+> **[0:04](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-live-call-to-generate-live-graph?u=76281980&t=4)** We can take [[JSON]] data from old logs to analyze what happened in certain scenarios.
 >
-> **[0:11](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-live-call-to-generate-live-graph?u=76281980&t=11)** But what if I want to troubleshoot a live event and send live calls to these microservices to get fresh data?
+> **[0:11](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-live-call-to-generate-live-graph?u=76281980&t=11)** But what if I want to troubleshoot a live event and send live calls to these [[Microservices]] to get fresh data?
 >
 > **[0:18](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-live-call-to-generate-live-graph?u=76281980&t=18)** That's what we'll accomplish in this video.
 >
@@ -1816,7 +1788,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-live-call-to-generate-live-graph?u=76281980&t=46)** We'll use this to visualize the user's name, age, phone number, and email, all in one node.
 >
-> **[0:55](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-live-call-to-generate-live-graph?u=76281980&t=55)** To call this API, we'll need to use the request module in Python.
+> **[0:55](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-live-call-to-generate-live-graph?u=76281980&t=55)** To call this API, we'll need to use the request module in [[Python (Programming Language)|Python]].
 >
 > **[1:00](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-live-call-to-generate-live-graph?u=76281980&t=60)** Let's add that to our requirements.txt file.
 >
@@ -1858,7 +1830,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-live-call-to-generate-live-graph?u=76281980&t=169)** If we don't get it within five seconds, we'll time out.
 >
-> **[2:54](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-live-call-to-generate-live-graph?u=76281980&t=174)** Let's update the rest of the program to use this new loaded data.
+> **[2:54](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-live-call-to-generate-live-graph?u=76281980&t=174)** Let's update the [[Representational State Transfer (REST)|rest]] of the program to use this new loaded data.
 >
 > **[2:59](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/add-live-call-to-generate-live-graph?u=76281980&t=179)** We'll only create the PlantUML file If the response.json has valid data.
 >
@@ -1904,7 +1876,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), api (8), [[JSON]] (5), node (3), [[Microservices]] (2)
+> **Frameworks & Libraries:** [[JSON]] (5), [[Microservices]] (2), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (8), json (1)
 > **File Paths:** response.json (4), requirements.txt (2), app.py (2)
 > **CLI Commands:** node (3), python (2), pip (1)
@@ -1913,14 +1885,13 @@ created: 2026-05-02
 > **API Endpoints:** get  (1)
 > **Warnings:** troubleshoot (1)
 
-#### Prepare a demo for greater organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/prepare-a-demo-for-greater-organization?u=76281980)
+#### [Prepare a demo for greater organization](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/prepare-a-demo-for-greater-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/prepare-a-demo-for-greater-organization?u=76281980&t=0)** - [Instructor] It's one thing to create a tool that helps you or even your team, but it's another thing to build something that impacts your entire organization.
 >
-> **[0:10](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/prepare-a-demo-for-greater-organization?u=76281980&t=10)** By sharing your success you can see where else your project fits into the rest of the organization and how to make it even better.
+> **[0:10](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/prepare-a-demo-for-greater-organization?u=76281980&t=10)** By sharing your success you can see where else your project fits into the [[Representational State Transfer (REST)|rest]] of the organization and how to make it even better.
 >
 > **[0:19](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/prepare-a-demo-for-greater-organization?u=76281980&t=19)** The more people that know about what you're working on the greater chance you have at making an impact.
 >
@@ -1942,7 +1913,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/prepare-a-demo-for-greater-organization?u=76281980&t=68)** Will you be presenting this in person or will you be creating a video or a slideshow?
 >
-> **[1:15](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/prepare-a-demo-for-greater-organization?u=76281980&t=75)** While planning for this may seem obvious it can sometimes be forgotten until everyone is searching for a physical room where the presentation is or that Microsoft Teams link.
+> **[1:15](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/prepare-a-demo-for-greater-organization?u=76281980&t=75)** While planning for this may seem obvious it can sometimes be forgotten until everyone is searching for a physical room where the presentation is or that [[Microsoft Teams]] link.
 >
 > **[1:27](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/prepare-a-demo-for-greater-organization?u=76281980&t=87)** It's also important to consider whether you're running the demo live or using a prerecorded video.
 >
@@ -1964,13 +1935,13 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/prepare-a-demo-for-greater-organization?u=76281980&t=155)** While we focused on presenting at the end of your initiative, sometimes you'll be asked to present while the initiative is ongoing.
 >
-> **[2:43](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/prepare-a-demo-for-greater-organization?u=76281980&t=163)** The software development industry is known for these informal demos where you take pieces of your project and present it slowly over time as it progresses.
+> **[2:43](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/prepare-a-demo-for-greater-organization?u=76281980&t=163)** The [[Software Development]] industry is known for these informal demos where you take pieces of your project and present it slowly over time as it progresses.
 >
 > **[2:55](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/prepare-a-demo-for-greater-organization?u=76281980&t=175)** Mastering this skillset and being able to translate technical initiatives to managers, product owners, and stakeholders can help you stand out and make an impact as a software engineer.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Teams]] (1), data (1), application (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Teams]] (1), [[Software Development]] (1)
 > **CLI Commands:** make (3)
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** set up (1)
@@ -1981,8 +1952,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Contributing to your engineering organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/contributing-to-your-engineering-organization?u=76281980)
+#### [Contributing to your engineering organization](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/contributing-to-your-engineering-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1990,7 +1960,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/contributing-to-your-engineering-organization?u=76281980&t=6)** Strong technical skills are a must have as engineering involves complex problem solving, data analysis, and programming.
 >
-> **[0:15](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/contributing-to-your-engineering-organization?u=76281980&t=15)** We've done this by parsing JSON data in Python and translating it into PlantUML code that can be rendered into a visual diagram.
+> **[0:15](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/contributing-to-your-engineering-organization?u=76281980&t=15)** We've done this by parsing [[JSON]] data in [[Python (Programming Language)|Python]] and translating it into PlantUML code that can be rendered into a visual diagram.
 >
 > **[0:25](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/contributing-to-your-engineering-organization?u=76281980&t=25)** Effective communication skills are also crucial.
 >
@@ -2022,13 +1992,13 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/contributing-to-your-engineering-organization?u=76281980&t=140)** There's always something new to learn.
 >
-> **[2:23](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/contributing-to-your-engineering-organization?u=76281980&t=143)** My name is Kathryn, and I hope to see you again in some of my other LinkedIn Learning courses.
+> **[2:23](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/contributing-to-your-engineering-organization?u=76281980&t=143)** My name is Kathryn, and I hope to see you again in some of my other [[LinkedIn]] Learning courses.
 >
 > **[2:29](https://www.linkedin.com/learning/case-study-visualize-complex-microservice-data-using-python/contributing-to-your-engineering-organization?u=76281980&t=149)** You can check them out on my LinkedIn instructor page or follow me on social media at BlondieBytes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (3), data (2), [[Programming]] (2), [[LinkedIn]] (2), [[JSON]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[JSON]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** json (1)
 > **Speakers:** - [kathryn] (1)

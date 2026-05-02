@@ -73,20 +73,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Improve decision-making by creating dashboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/improve-decision-making-by-creating-dashboards?u=76281980)
+#### [Improve decision-making by creating dashboards](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/improve-decision-making-by-creating-dashboards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/improve-decision-making-by-creating-dashboards?u=76281980&t=0)** - [Curt] Creating dashboards in Microsoft Excel provides a powerful tool for summarizing and evaluating the performance of your business or organization.
+> **[0:00](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/improve-decision-making-by-creating-dashboards?u=76281980&t=0)** - [Curt] Creating [[Dashboards]] in [[Microsoft Excel]] provides a powerful tool for summarizing and evaluating the performance of your business or organization.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/improve-decision-making-by-creating-dashboards?u=76281980&t=9)** Mastering those skills you need to create effective dashboards will let you work quickly and make great decisions.
 >
-> **[0:14](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/improve-decision-making-by-creating-dashboards?u=76281980&t=14)** In this course, I will use real-world examples to demonstrate how you can apply the incredible power of Excel dashboards to your data.
+> **[0:14](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/improve-decision-making-by-creating-dashboards?u=76281980&t=14)** In this course, I will use real-world examples to demonstrate how you can apply the incredible power of [[Excel Dashboards]] to your data.
 >
 > **[0:22](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/improve-decision-making-by-creating-dashboards?u=76281980&t=22)** I'm Curt Frye.
 >
-> **[0:23](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/improve-decision-making-by-creating-dashboards?u=76281980&t=23)** Join me at LinkedIn Learning for an introduction to the essential skills that will let you unlock the power of worksheet-based dashboards in Excel for Microsoft 365.
+> **[0:23](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/improve-decision-making-by-creating-dashboards?u=76281980&t=23)** Join me at [[LinkedIn]] Learning for an introduction to the essential skills that will let you unlock the power of worksheet-based dashboards in [[Microsoft Excel|Excel]] for [[Microsoft 365]].
 >
 > **[0:32](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/improve-decision-making-by-creating-dashboards?u=76281980&t=32)** Excel for Microsoft 365 is a cloud-based product that updates frequently with new capabilities.
 >
@@ -98,13 +97,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (3), power (2), [[Microsoft Excel|Excel]] (2), [[Microsoft 365]] (2), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (3), [[Microsoft Excel|Excel]] (2), [[Microsoft 365]] (2), [[Microsoft Excel]] (1), [[Excel Dashboards]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [curt] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -112,7 +110,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/what-you-should-know?u=76281980&t=2)** Before I get started, I wanted to review a few things that you should know to get the most out of this course.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/what-you-should-know?u=76281980&t=7)** The first is that I do assume basic Excel skills, but I teach everything else that you need.
+> **[0:07](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/what-you-should-know?u=76281980&t=7)** The first is that I do assume basic [[Microsoft Excel|Excel]] skills, but I teach everything else that you need.
 >
 > **[0:13](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/what-you-should-know?u=76281980&t=13)** So, if you know how to open your workbooks and to create formulas, you should be ready for this course.
 >
@@ -130,13 +128,13 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/what-you-should-know?u=76281980&t=52)** Finally, I want to emphasize that this course is an overview.
 >
-> **[0:56](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/what-you-should-know?u=76281980&t=56)** I mention pivot tables and also conditional formatting, but I don't go into any great depth.
+> **[0:56](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/what-you-should-know?u=76281980&t=56)** I mention [[Pivot Tables]] and also conditional formatting, but I don't go into any great depth.
 >
 > **[1:03](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/what-you-should-know?u=76281980&t=63)** If you want to learn more, there are plenty of resources available in the online training library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Microsoft Excel|Excel]] (1), next (1), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Pivot Tables]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you'll need (1)
@@ -147,14 +145,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage data using Excel tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-data-using-excel-tables?u=76281980)
+#### [Manage data using Excel tables](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-data-using-excel-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-data-using-excel-tables?u=76281980&t=0)** - [Man] Your first step in creating a dashboard in Microsoft Excel should be to store your data in the most efficient and flexible manner possible.
+> **[0:00](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-data-using-excel-tables?u=76281980&t=0)** - [Man] Your first step in creating a dashboard in [[Microsoft Excel]] should be to store your data in the most efficient and flexible manner possible.
 >
-> **[0:08](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-data-using-excel-tables?u=76281980&t=8)** In Excel, that often means you should use Excel tables to summarize, store, and combine your data for use in dashboards and other presentations.
+> **[0:08](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-data-using-excel-tables?u=76281980&t=8)** In [[Microsoft Excel|Excel]], that often means you should use Excel tables to summarize, store, and combine your data for use in [[Dashboards]] and other presentations.
 >
 > **[0:17](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-data-using-excel-tables?u=76281980&t=17)** In this movie, I will demonstrate how to create and work with Excel tables.
 >
@@ -164,7 +161,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-data-using-excel-tables?u=76281980&t=37)** The first thing to know is that each row contains a discrete set of information about a particular entity that is summarized by the list.
 >
-> **[0:45](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-data-using-excel-tables?u=76281980&t=45)** So for example, if you look at row number two, you'll see that it summarizes sales data for bath products in the month of January for the year 2020 that happens to be quarter number one.
+> **[0:45](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-data-using-excel-tables?u=76281980&t=45)** So for example, if you look at row number two, you'll see that it summarizes sales data for bath [[Microsoft Products|products]] in the month of January for the year 2020 that happens to be quarter number one.
 >
 > **[0:58](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-data-using-excel-tables?u=76281980&t=58)** In other words, the first three months of the year, and sales were $939.69.
 >
@@ -272,11 +269,11 @@ created: 2026-05-02
 >
 > **[5:23](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-data-using-excel-tables?u=76281980&t=323)** And that's it.
 >
-> **[5:24](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-data-using-excel-tables?u=76281980&t=324)** Excel tables are very powerful on their own, but they're even more powerful when you combine them with pivot tables.
+> **[5:24](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-data-using-excel-tables?u=76281980&t=324)** Excel tables are very powerful on their own, but they're even more powerful when you combine them with [[Pivot Tables]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Microsoft Excel|Excel]] (9), [[Microsoft Excel]] (1), [[Dashboards]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), [[Microsoft Excel]] (1), [[Dashboards]] (1), [[Microsoft Products|Products]] (1), [[Pivot Tables]] (1)
 > **Analogies:** for example (4), such as (2)
 > **CLI Commands:** find (1), make (1)
 > **Versions:** 939.69 (1), 1.7 (1)
@@ -285,12 +282,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Best Practices:** it's best to (1)
 
-#### Manage PivotTables and PivotCharts
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-pivottables-and-pivotcharts?u=76281980)
+#### [Manage PivotTables and PivotCharts](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-pivottables-and-pivotcharts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-pivottables-and-pivotcharts?u=76281980&t=0)** - [Instructor] Excel tables let you store and summarize your data in a flexible and efficient manner.
+> **[0:00](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-pivottables-and-pivotcharts?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] tables let you store and summarize your data in a flexible and efficient manner.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-pivottables-and-pivotcharts?u=76281980&t=5)** You can greatly extend the capability of Excel tables by creating PivotTables and PivotCharts, which let you rearrange and summarize your data quickly.
 >
@@ -332,13 +328,13 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-pivottables-and-pivotcharts?u=76281980&t=131)** And then in the Columns area, I will drag Category.
 >
-> **[2:16](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-pivottables-and-pivotcharts?u=76281980&t=136)** So there we have bath products, gift basket, and olive oil.
+> **[2:16](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-pivottables-and-pivotcharts?u=76281980&t=136)** So there we have bath [[Microsoft Products|products]], gift basket, and olive oil.
 >
 > **[2:20](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-pivottables-and-pivotcharts?u=76281980&t=140)** And then I'll drag Sales to the Values area.
 >
 > **[2:24](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-pivottables-and-pivotcharts?u=76281980&t=144)** And you can see that we have summaries of total sales by quarter for each of our three product categories for the years 2020 and 2021.
 >
-> **[2:35](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-pivottables-and-pivotcharts?u=76281980&t=155)** I will zoom in a little bit by increasing the zoom level so it's easier to see all of the data.
+> **[2:35](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-pivottables-and-pivotcharts?u=76281980&t=155)** I will [[Zoom]] in a little bit by increasing the zoom level so it's easier to see all of the data.
 >
 > **[2:43](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/manage-pivottables-and-pivotcharts?u=76281980&t=163)** And I'll scroll down there.
 >
@@ -404,7 +400,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Microsoft Excel|Excel]] (4), [[Microsoft Products|Products]] (4), [[Zoom]] (2), product (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft Products|Products]] (4), [[Zoom]] (2)
 > **UI Navigation:** scroll down (1), right-click (1), select the (1), go to (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** go back to (1)
@@ -413,12 +409,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Summarize Excel table and PivotTable data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/summarize-excel-table-and-pivottable-data?u=76281980)
+#### [Summarize Excel table and PivotTable data](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/summarize-excel-table-and-pivottable-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/summarize-excel-table-and-pivottable-data?u=76281980&t=0)** - [Instructor] Pivot tables let you reorganize your data dynamically, but you're not limited to just changing its arrangement.
+> **[0:00](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/summarize-excel-table-and-pivottable-data?u=76281980&t=0)** - [Instructor] [[Pivot Tables]] let you reorganize your data dynamically, but you're not limited to just changing its arrangement.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/summarize-excel-table-and-pivottable-data?u=76281980&t=6)** You can also select the summary operation to be used within the pivot table itself.
 >
@@ -426,7 +421,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/summarize-excel-table-and-pivottable-data?u=76281980&t=14)** My sample file is 01_03_Summarize and you can find it in the chapter one folder of the exercise files collection.
 >
-> **[0:21](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/summarize-excel-table-and-pivottable-data?u=76281980&t=21)** in this workbook, on sheet two, I have a pivot table that summarizes yearly sales data for three different categories of products, bath products, gift baskets, and olive oil.
+> **[0:21](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/summarize-excel-table-and-pivottable-data?u=76281980&t=21)** in this workbook, on sheet two, I have a pivot table that summarizes yearly sales data for three different categories of [[Microsoft Products|products]], bath products, gift baskets, and olive oil.
 >
 > **[0:32](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/summarize-excel-table-and-pivottable-data?u=76281980&t=32)** The current summary operation that is used in the values area is sum, and you can see that bath products in 2020 accounted for almost $20,000 of sales.
 >
@@ -486,7 +481,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Products|Products]] (6), [[Pivot Tables]] (1), product (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Pivot Tables]] (1)
 > **UI Navigation:** right-click (3), select the (2)
 > **CLI Commands:** make (3), find (1)
 > **Versions:** 651.93 (1), 664.49 (1), 2.44 (1)
@@ -495,14 +490,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** means that (1)
 
-#### Filter Excel table and PivotTable data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/filter-excel-table-and-pivottable-data?u=76281980)
+#### [Filter Excel table and PivotTable data](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/filter-excel-table-and-pivottable-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/filter-excel-table-and-pivottable-data?u=76281980&t=0)** - [Instructor] The art of creating a dashboard is in determining which data to include and which to exclude.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/filter-excel-table-and-pivottable-data?u=76281980&t=7)** Excel lets you focus the data shown in a worksheet by creating different types of filters and also sorting your data.
+> **[0:07](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/filter-excel-table-and-pivottable-data?u=76281980&t=7)** [[Microsoft Excel|Excel]] lets you focus the data shown in a worksheet by creating different types of filters and also sorting your data.
 >
 > **[0:13](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/filter-excel-table-and-pivottable-data?u=76281980&t=13)** In this movie, I will show you how to create several different types of filters, sort your data, and finally create the very useful top 10 filter.
 >
@@ -644,7 +638,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (4), product (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **UI Navigation:** go to (4), select the (2), checkbox (1), switch to (1), scroll down (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (3)
@@ -653,8 +647,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define conditional formats
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/define-conditional-formats?u=76281980)
+#### [Define conditional formats](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/define-conditional-formats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -696,7 +689,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/define-conditional-formats?u=76281980&t=142)** And I will drag the dialogue box a bit to the right so you can see the worksheet behind it.
 >
-> **[2:28](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/define-conditional-formats?u=76281980&t=148)** In Excel, all formulas start with an equal sign, even here, so I'll type equal.
+> **[2:28](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/define-conditional-formats?u=76281980&t=148)** In [[Microsoft Excel|Excel]], all formulas start with an equal sign, even here, so I'll type equal.
 >
 > **[2:32](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/define-conditional-formats?u=76281980&t=152)** And what we're doing is comparing the values in D3 and E3.
 >
@@ -734,27 +727,26 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/define-conditional-formats?u=76281980&t=267)** Although the others are close.
 >
-> **[4:29](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/define-conditional-formats?u=76281980&t=269)** Conditional formats are great ways to provide more information about values that appear in your dashboards.
+> **[4:29](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/define-conditional-formats?u=76281980&t=269)** Conditional formats are great ways to provide more information about values that appear in your [[Dashboards]].
 >
 > **[4:34](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/define-conditional-formats?u=76281980&t=274)** Don't use too much color because it can be overwhelming, but using the right amount can be very informative.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), business (1), product (1), application (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (2)
 > **Exercise Files:** exercise files (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define an icon set conditional format
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/define-an-icon-set-conditional-format?u=76281980)
+#### [Define an icon set conditional format](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/define-an-icon-set-conditional-format?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/define-an-icon-set-conditional-format?u=76281980&t=0)** - [Instructor] Conditional formats let you control the formatting that is applied to a cell based on that cell's value.
 >
-> **[0:06](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/define-an-icon-set-conditional-format?u=76281980&t=6)** In this movie, I will show you how to create a specific kind of conditional format that's very popular in dashboards, and those are icon sets.
+> **[0:06](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/define-an-icon-set-conditional-format?u=76281980&t=6)** In this movie, I will show you how to create a specific kind of conditional format that's very popular in [[Dashboards]], and those are icon sets.
 >
 > **[0:15](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/define-an-icon-set-conditional-format?u=76281980&t=15)** My sample file is 01 06 icon sets, and you can find it in the chapter one folder of exercise files collection.
 >
@@ -848,7 +840,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (2), product (2), traffic (2), data (1), next (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2)
 > **Versions:** 0.2 (4), 0.12 (3)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** go to (1), select the (1)
@@ -856,8 +848,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Streamline charts for dashboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/streamline-charts-for-dashboards?u=76281980)
+#### [Streamline charts for dashboards](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/streamline-charts-for-dashboards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -865,7 +856,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/streamline-charts-for-dashboards?u=76281980&t=7)** Creating charts, which are visual representations of data, makes it easier to compare values quickly and identify overall trends that can be investigated in more depth.
 >
-> **[0:17](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/streamline-charts-for-dashboards?u=76281980&t=17)** In this movie, I will show you how to work with charts in the context of an Excel dashboard.
+> **[0:17](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/streamline-charts-for-dashboards?u=76281980&t=17)** In this movie, I will show you how to work with charts in the context of an [[Microsoft Excel|Excel]] dashboard.
 >
 > **[0:22](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/streamline-charts-for-dashboards?u=76281980&t=22)** My sample file is 01_07_Chart and you can find it in the Chapter 1 folder of the Exercise Files collection.
 >
@@ -931,13 +922,13 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/streamline-charts-for-dashboards?u=76281980&t=250)** And as you can see, because the month labels are displayed vertically, the chart didn't have to increase in size.
 >
-> **[4:18](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/streamline-charts-for-dashboards?u=76281980&t=258)** So this, as it turns out, is a pretty good size for the chart and it can probably fit on most dashboards.
+> **[4:18](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/streamline-charts-for-dashboards?u=76281980&t=258)** So this, as it turns out, is a pretty good size for the chart and it can probably fit on most [[Dashboards]].
 >
 > **[4:25](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/streamline-charts-for-dashboards?u=76281980&t=265)** And if not, you can use the techniques that I just showed you to make sure that it does fit.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), data (5), next (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Dashboards]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** b12 (1), a13 (1)
 > **Versions:** 342.50 (1)
@@ -946,16 +937,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create sparklines
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/create-sparklines?u=76281980)
+#### [Create sparklines](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/create-sparklines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/create-sparklines?u=76281980&t=0)** - [Instructor] You can use standard Microsoft Excel charts to summarize large data collections quickly.
+> **[0:00](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/create-sparklines?u=76281980&t=0)** - [Instructor] You can use standard [[Microsoft Excel]] charts to summarize large data collections quickly.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/create-sparklines?u=76281980&t=5)** However, you might not always want to summarize a huge range of data, or have your chart take up a lot of space in your dashboard.
 >
-> **[0:12](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/create-sparklines?u=76281980&t=12)** In this movie, I will show you how to create sparklines, which are word sized charts that fit within a single worksheet cell, and were made popular recently by designer Edward Tufty.
+> **[0:12](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/create-sparklines?u=76281980&t=12)** In this movie, I will show you how to create sparklines, which are [[Microsoft Word|word]] sized charts that fit within a single worksheet cell, and were made popular recently by designer Edward Tufty.
 >
 > **[0:24](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/create-sparklines?u=76281980&t=24)** I will work with the data in sample file 0108sparkline, and you can find it in the chapter one folder of the exercise files collection.
 >
@@ -1045,7 +1035,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Microsoft Word|Word]] (2), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Microsoft Excel]] (1)
 > **Env Vars:** b13 (2), d13 (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (2)
@@ -1059,8 +1049,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create and manage cell links
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/create-and-manage-cell-links?u=76281980)
+#### [Create and manage cell links](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/create-and-manage-cell-links?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1174,7 +1163,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/create-and-manage-cell-links?u=76281980&t=288)** But in this case, I'll just focus on what I think is a very common use.
 >
-> **[4:52](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/create-and-manage-cell-links?u=76281980&t=292)** I want to create the link in cell B8, which currently has the text LinkedIn Learning site.
+> **[4:52](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/create-and-manage-cell-links?u=76281980&t=292)** I want to create the link in cell B8, which currently has the text [[LinkedIn]] Learning site.
 >
 > **[4:58](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/create-and-manage-cell-links?u=76281980&t=298)** Then I will go to the insert tab.
 >
@@ -1206,7 +1195,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[LinkedIn]] (4), web (3)
+> **Frameworks & Libraries:** [[LinkedIn]] (4)
 > **UI Navigation:** go to (3), switch to (2), open the (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (2)
@@ -1215,8 +1204,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 
-#### Link cell contents to a shape
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/link-cell-contents-to-a-shape?u=76281980)
+#### [Link cell contents to a shape](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/link-cell-contents-to-a-shape?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1346,7 +1334,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **UI Navigation:** go to (4), select the (1), scroll up (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** e16 (3), avg (1)
@@ -1354,9 +1341,9 @@ created: 2026-05-02
 > **Versions:** 185.48 (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
+> **Analogies:** for example (1)
 
-#### Use PivotTable data in a formula
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/use-pivottable-data-in-a-formula?u=76281980)
+#### [Use PivotTable data in a formula](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/use-pivottable-data-in-a-formula?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1374,7 +1361,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/use-pivottable-data-in-a-formula?u=76281980&t=46)** And then on the data sheet, I have the data from which I created the pivot table.
 >
-> **[0:51](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/use-pivottable-data-in-a-formula?u=76281980&t=51)** And you can see that I have three different categories, bath products, gift basket, and olive oil.
+> **[0:51](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/use-pivottable-data-in-a-formula?u=76281980&t=51)** And you can see that I have three different categories, bath [[Microsoft Products|products]], gift basket, and olive oil.
 >
 > **[0:57](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/use-pivottable-data-in-a-formula?u=76281980&t=57)** And then on my helper table's worksheet I currently just have one, and it is named categories, And it has a list of the categories from my data table.
 >
@@ -1396,7 +1383,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/use-pivottable-data-in-a-formula?u=76281980&t=123)** Now I'll show you how to use a similar formula but one that allows you to change the category from within your dashboard.
 >
-> **[2:11](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/use-pivottable-data-in-a-formula?u=76281980&t=131)** I'm going to start by creating a data validation list in cell C6, so I'll click there.
+> **[2:11](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/use-pivottable-data-in-a-formula?u=76281980&t=131)** I'm going to start by creating a [[Data Validation]] list in cell C6, so I'll click there.
 >
 > **[2:17](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/use-pivottable-data-in-a-formula?u=76281980&t=137)** And then on the data tab of the ribbon, I'll go to the data tools group and click the data valid button.
 >
@@ -1432,7 +1419,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/use-pivottable-data-in-a-formula?u=76281980&t=233)** And what I need to do is replace gift basket with the cell address for cell C6.
 >
-> **[4:00](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/use-pivottable-data-in-a-formula?u=76281980&t=240)** I'm working with text, so I need to type a double quote then an ampersand which is the concatenation operator, then C6 which is the cell address, another ampersand, and then we need to add in another double quote, so Excel understands that the right bracket is also part of a longer text string.
+> **[4:00](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/use-pivottable-data-in-a-formula?u=76281980&t=240)** I'm working with text, so I need to type a double quote then an ampersand which is the concatenation operator, then C6 which is the cell address, another ampersand, and then we need to add in another double quote, so [[Microsoft Excel|Excel]] understands that the right bracket is also part of a longer text string.
 >
 > **[4:23](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/use-pivottable-data-in-a-formula?u=76281980&t=263)** And don't worry if you don't get this right on the first try it had been a while since I had implemented this technique in a worksheet and it took me three tries.
 >
@@ -1454,7 +1441,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Microsoft Products|Products]] (2), next (1), [[Microsoft Excel|Excel]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Data Validation]] (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (2), dropdown (2), select the (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** exercise files (1)
@@ -1462,8 +1449,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extend your dashboard using hidden rows
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/extend-your-dashboard-using-hidden-rows?u=76281980)
+#### [Extend your dashboard using hidden rows](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/extend-your-dashboard-using-hidden-rows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1515,7 +1501,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/extend-your-dashboard-using-hidden-rows?u=76281980&t=132)** If you want to add or insert a row above the information that you're hiding, you can right click a row header and click insert and you now have an extra row to put in your information.
 >
-> **[2:27](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/extend-your-dashboard-using-hidden-rows?u=76281980&t=147)** You can also change the zoom level.
+> **[2:27](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/extend-your-dashboard-using-hidden-rows?u=76281980&t=147)** You can also change the [[Zoom]] level.
 >
 > **[2:30](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/extend-your-dashboard-using-hidden-rows?u=76281980&t=150)** And when you're ready just go back down and hide the details.
 >
@@ -1523,19 +1509,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1), is an  (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hide gridlines and set zoom levels
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/hide-gridlines-and-set-zoom-levels?u=76281980)
+#### [Hide gridlines and set zoom levels](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/hide-gridlines-and-set-zoom-levels?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/hide-gridlines-and-set-zoom-levels?u=76281980&t=0)** - [Instructor] When you create a worksheet in Excel it comes with a standard zoom level which refers to the general size of objects on the screen.
+> **[0:00](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/hide-gridlines-and-set-zoom-levels?u=76281980&t=0)** - [Instructor] When you create a worksheet in [[Microsoft Excel|Excel]] it comes with a standard [[Zoom]] level which refers to the general size of objects on the screen.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/hide-gridlines-and-set-zoom-levels?u=76281980&t=7)** Excel also shows grid lines which mark boundaries between cells by default.
 >
@@ -1543,7 +1528,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/hide-gridlines-and-set-zoom-levels?u=76281980&t=19)** I will demonstrate using 0205 grid lines and this is an Excel workbook you can find in the chapter two folder of the exercise files collection.
 >
-> **[0:28](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/hide-gridlines-and-set-zoom-levels?u=76281980&t=28)** On my dashboard worksheet, I have the start of a dashboard that summarizes sales for two categories, bath products and gift basket.
+> **[0:28](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/hide-gridlines-and-set-zoom-levels?u=76281980&t=28)** On my dashboard worksheet, I have the start of a dashboard that summarizes sales for two categories, bath [[Microsoft Products|products]] and gift basket.
 >
 > **[0:37](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/hide-gridlines-and-set-zoom-levels?u=76281980&t=37)** I'm at the standard zoom level which you can see at the bottom right hand corner.
 >
@@ -1588,20 +1573,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/next-steps?u=76281980&t=0)** - [Instructor] Thanks again for your interest in this course.
 >
-> **[0:02](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/next-steps?u=76281980&t=2)** Before I go, I'd like to give you the names of three books that you can read to get more information about creating dashboards, especially in Excel.
+> **[0:02](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/next-steps?u=76281980&t=2)** Before I go, I'd like to give you the names of three books that you can read to get more information about creating [[Dashboards]], especially in [[Microsoft Excel|Excel]].
 >
 > **[0:11](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/next-steps?u=76281980&t=11)** The first book is "Information Dashboard Design" by Stephen Few and is published by O'Reilly.
 >
 > **[0:17](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/next-steps?u=76281980&t=17)** This is not a book specifically about Excel, but it's a terrific resource for designing dashboards in any application.
 >
-> **[0:25](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/next-steps?u=76281980&t=25)** For Excel-based work, I highly recommend "Microsoft Excel Data Analysis and Business Modeling" by Wayne Winston.
+> **[0:25](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/next-steps?u=76281980&t=25)** For Excel-based work, I highly recommend "[[Microsoft Excel]] Data Analysis and Business Modeling" by Wayne Winston.
 >
 > **[0:31](https://www.linkedin.com/learning/excel-creating-a-basic-dashboard-2022/next-steps?u=76281980&t=31)** This book has gone through several additions and Dr. Winston is a terrific analyst.
 >
@@ -1617,7 +1601,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (4), [[Microsoft Excel|Excel]] (3), business (3), [[Microsoft Excel]] (2), application (1)
+> **Frameworks & Libraries:** [[Dashboards]] (4), [[Microsoft Excel|Excel]] (3), [[Microsoft Excel]] (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)

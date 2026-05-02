@@ -103,18 +103,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning the fundamentals of PHP
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/learning-the-fundamentals-of-php?u=76281980)
+#### [Learning the fundamentals of PHP](https://www.linkedin.com/learning/php-essential-training-2017/learning-the-fundamentals-of-php?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/learning-the-fundamentals-of-php?u=76281980&t=0)** - [Kevin] Welcome to PHP Essential Training.
+> **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/learning-the-fundamentals-of-php?u=76281980&t=0)** - [Kevin] Welcome to [[PHP]] Essential Training.
 >
 > **[0:03](https://www.linkedin.com/learning/php-essential-training-2017/learning-the-fundamentals-of-php?u=76281980&t=3)** My name is Kevin Skogland.
 >
 > **[0:05](https://www.linkedin.com/learning/php-essential-training-2017/learning-the-fundamentals-of-php?u=76281980&t=5)** PHP allows writing simple code for webpages.
 >
-> **[0:08](https://www.linkedin.com/learning/php-essential-training-2017/learning-the-fundamentals-of-php?u=76281980&t=8)** If you've been using HTML to develop websites, PHP is a great next step.
+> **[0:08](https://www.linkedin.com/learning/php-essential-training-2017/learning-the-fundamentals-of-php?u=76281980&t=8)** If you've been using [[HTML]] to develop websites, PHP is a great next step.
 >
 > **[0:13](https://www.linkedin.com/learning/php-essential-training-2017/learning-the-fundamentals-of-php?u=76281980&t=13)** In this course, we're going to focus on learning the fundamentals of the PHP language.
 >
@@ -132,21 +131,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (10), [[HTML]] (2), next (1), data (1)
+> **Frameworks & Libraries:** [[PHP]] (10), [[HTML]] (2)
 > **Env Vars:** php (10), html (2)
 > **CLI Commands:** php (10)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [kevin] (1)
 
-#### How to use the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/how-to-use-the-exercise-files-14762495?u=76281980)
+#### [How to use the exercise files](https://www.linkedin.com/learning/php-essential-training-2017/how-to-use-the-exercise-files-14762495?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/how-to-use-the-exercise-files-14762495?u=76281980&t=0)** - [Instructor] In order to make use of the exercise files, you'll want to first make sure that you install and configure PHP and a web server.
+> **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/how-to-use-the-exercise-files-14762495?u=76281980&t=0)** - [Instructor] In order to make use of the exercise files, you'll want to first make sure that you install and configure [[PHP]] and a web server.
 >
-> **[0:07](https://www.linkedin.com/learning/php-essential-training-2017/how-to-use-the-exercise-files-14762495?u=76281980&t=7)** The course, Installing Apache, MySQL, and PHP, can help you to get those installed on Mac, Windows, or Linux.
+> **[0:07](https://www.linkedin.com/learning/php-essential-training-2017/how-to-use-the-exercise-files-14762495?u=76281980&t=7)** The course, Installing Apache, [[MySQL]], and PHP, can help you to get those installed on Mac, [[Windows]], or [[Linux]].
 >
 > **[0:17](https://www.linkedin.com/learning/php-essential-training-2017/how-to-use-the-exercise-files-14762495?u=76281980&t=17)** The exercise files are arranged by chapter and by movie, and you can find the exercise files that correspond to the movie that you're watching by first looking for the chapter number, and then the movie number.
 >
@@ -164,7 +162,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), web (2), [[MySQL]] (1), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[MySQL]] (1), [[Windows]] (1), [[Linux]] (1)
 > **CLI Commands:** make (4), php (2), apache (1), mysql (1), find (1)
 > **Exercise Files:** exercise files (6)
 > **Env Vars:** php (2)
@@ -172,14 +170,13 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installation overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/installation-overview-14759667?u=76281980)
+#### [Installation overview](https://www.linkedin.com/learning/php-essential-training-2017/installation-overview-14759667?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/installation-overview-14759667?u=76281980&t=0)** - [Instructor] Before you can start coding in PHP, you will need to have a web server installed and configured to interpret PHP code.
+> **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/installation-overview-14759667?u=76281980&t=0)** - [Instructor] Before you can start coding in [[PHP]], you will need to have a web server installed and configured to interpret PHP code.
 >
-> **[0:07](https://www.linkedin.com/learning/php-essential-training-2017/installation-overview-14759667?u=76281980&t=7)** There's a course in this library called "Installing Apache, MySQL, and PHP," which will help you to get everything you need installed on Windows, Mac, or Linux.
+> **[0:07](https://www.linkedin.com/learning/php-essential-training-2017/installation-overview-14759667?u=76281980&t=7)** There's a course in this library called "Installing Apache, [[MySQL]], and PHP," which will help you to get everything you need installed on [[Windows]], Mac, or [[Linux]].
 >
 > **[0:18](https://www.linkedin.com/learning/php-essential-training-2017/installation-overview-14759667?u=76281980&t=18)** In that course, chapter one will help you to decide which software to install.
 >
@@ -197,7 +194,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (7), [[MySQL]] (3), [[Windows]] (2), web (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[PHP]] (7), [[MySQL]] (3), [[Windows]] (2), [[Linux]] (1)
 > **CLI Commands:** php (7), mysql (3), apache (2)
 > **Env Vars:** php (7)
 > **Definitions:** is a  (1)
@@ -209,12 +206,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is PHP?
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/what-is-php-14757691?u=76281980)
+#### [What is PHP?](https://www.linkedin.com/learning/php-essential-training-2017/what-is-php-14757691?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/what-is-php-14757691?u=76281980&t=0)** - [Instructor] We're going to start out by talking about what is PHP?
+> **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/what-is-php-14757691?u=76281980&t=0)** - [Instructor] We're going to start out by talking about what is [[PHP]]?
 >
 > **[0:03](https://www.linkedin.com/learning/php-essential-training-2017/what-is-php-14757691?u=76281980&t=3)** PHP is a server-side scripting language.
 >
@@ -256,7 +252,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/php-essential-training-2017/what-is-php-14757691?u=76281980&t=105)** The client side, when we're working with webpages, is the user's browser.
 >
-> **[1:49](https://www.linkedin.com/learning/php-essential-training-2017/what-is-php-14757691?u=76281980&t=109)** As a contrast, JavaScript is an example of another popular scripting language, but JavaScript is a client side scripting language.
+> **[1:49](https://www.linkedin.com/learning/php-essential-training-2017/what-is-php-14757691?u=76281980&t=109)** As a contrast, [[JavaScript]] is an example of another popular scripting language, but JavaScript is a client side scripting language.
 >
 > **[1:56](https://www.linkedin.com/learning/php-essential-training-2017/what-is-php-14757691?u=76281980&t=116)** JavaScript code is sent to the user's browser, and then it does its work there.
 >
@@ -270,11 +266,11 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/php-essential-training-2017/what-is-php-14757691?u=76281980&t=138)** PHP code does not need to be compiled, it's executed by the web server exactly as it's written.
 >
-> **[2:24](https://www.linkedin.com/learning/php-essential-training-2017/what-is-php-14757691?u=76281980&t=144)** Other programming languages, such as C, or Java require the code to be compiled, or translated into another form before it can be used.
+> **[2:24](https://www.linkedin.com/learning/php-essential-training-2017/what-is-php-14757691?u=76281980&t=144)** Other programming languages, such as C, or [[Java]] require the code to be compiled, or translated into another form before it can be used.
 >
 > **[2:31](https://www.linkedin.com/learning/php-essential-training-2017/what-is-php-14757691?u=76281980&t=151)** We'll be able to just write our PHP, put it where our web server can find it.
 >
-> **[2:35](https://www.linkedin.com/learning/php-essential-training-2017/what-is-php-14757691?u=76281980&t=155)** And then, we can load up the webpage, and see the results PHP is designed for use with HTML.
+> **[2:35](https://www.linkedin.com/learning/php-essential-training-2017/what-is-php-14757691?u=76281980&t=155)** And then, we can load up the webpage, and see the results PHP is designed for use with [[HTML]].
 >
 > **[2:40](https://www.linkedin.com/learning/php-essential-training-2017/what-is-php-14757691?u=76281980&t=160)** It can be embedded in our HTML, and we can use it to generate HTML.
 >
@@ -304,7 +300,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (24), [[HTML]] (9), web (8), [[Scripting]] (5), [[Programming]] (4)
+> **Frameworks & Libraries:** [[PHP]] (24), [[HTML]] (9), [[JavaScript]] (3), [[Java]] (2)
 > **Env Vars:** php (24), html (8)
 > **CLI Commands:** php (24), find (1)
 > **Definitions:** is a  (4), is an  (1)
@@ -312,14 +308,13 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Text editor for Mac
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-mac-14760582?u=76281980)
+#### [Text editor for Mac](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-mac-14760582?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-mac-14760582?u=76281980&t=0)** - [Instructor] In this movie, we're going to make sure that you have a good text editor installed.
 >
-> **[0:03](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-mac-14760582?u=76281980&t=3)** This is what we're going to be using to write our PHP code.
+> **[0:03](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-mac-14760582?u=76281980&t=3)** This is what we're going to be using to write our [[PHP]] code.
 >
 > **[0:06](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-mac-14760582?u=76281980&t=6)** If you've been coding before, then you may already have a favorite text editor, and that's great.
 >
@@ -329,7 +324,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-mac-14760582?u=76281980&t=17)** That's what a text editor does.
 >
-> **[0:19](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-mac-14760582?u=76281980&t=19)** It's very different from a word processor, like Microsoft Word, that would be a terrible text editor.
+> **[0:19](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-mac-14760582?u=76281980&t=19)** It's very different from a [[Microsoft Word|word]] processor, like [[Microsoft Word]], that would be a terrible text editor.
 >
 > **[0:24](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-mac-14760582?u=76281980&t=24)** And the reason why is because that is focused on a different purpose, it's about formatting a document.
 >
@@ -347,7 +342,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-mac-14760582?u=76281980&t=55)** The essential features: you want to look for code coloring, and syntax highlighting.
 >
-> **[1:00](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-mac-14760582?u=76281980&t=60)** That is, you'd like the page to actually have colors to help tell you what is the HTML, what's the JavaScript, what's the PHP?
+> **[1:00](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-mac-14760582?u=76281980&t=60)** That is, you'd like the page to actually have colors to help tell you what is the [[HTML]], what's the [[JavaScript]], what's the PHP?
 >
 > **[1:08](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-mac-14760582?u=76281980&t=68)** Where does the function start?
 >
@@ -467,7 +462,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (7), [[Search]] (2), application (2), hit (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[PHP]] (7), [[Microsoft Word|Word]] (1), [[Microsoft Word]] (1), [[HTML]] (1), [[JavaScript]] (1)
 > **CLI Commands:** php (7), make (5), apache (1), find (1)
 > **Env Vars:** php (7), html (1)
 > **UI Navigation:** click on (2), select the (1)
@@ -476,14 +471,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** stands for (1)
 
-#### Text editor for Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-windows-14756724?u=76281980)
+#### [Text editor for Windows](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-windows-14756724?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-windows-14756724?u=76281980&t=0)** - [Instructor] In this movie, we're going to make sure that you have a good text editor installed.
 >
-> **[0:03](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-windows-14756724?u=76281980&t=3)** This is what we'll use to write our PHP code.
+> **[0:03](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-windows-14756724?u=76281980&t=3)** This is what we'll use to write our [[PHP]] code.
 >
 > **[0:06](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-windows-14756724?u=76281980&t=6)** Now, if you've coded before, you may already have a favorite text editor.
 >
@@ -495,7 +489,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-windows-14756724?u=76281980&t=18)** That's what a text editor does.
 >
-> **[0:20](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-windows-14756724?u=76281980&t=20)** It's very different from a word processor, something like Microsoft Word.
+> **[0:20](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-windows-14756724?u=76281980&t=20)** It's very different from a [[Microsoft Word|word]] processor, something like [[Microsoft Word]].
 >
 > **[0:23](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-windows-14756724?u=76281980&t=23)** Word would make a terrible choice for a text editor.
 >
@@ -543,7 +537,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-windows-14756724?u=76281980&t=144)** Code completion can be a nice feature.
 >
-> **[2:26](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-windows-14756724?u=76281980&t=146)** The ability to start typing a function name, and then hit some kind of a hot key to get it to finish completing the rest of that name for you.
+> **[2:26](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-windows-14756724?u=76281980&t=146)** The ability to start typing a function name, and then hit some kind of a hot key to get it to finish completing the [[Representational State Transfer (REST)|rest]] of that name for you.
 >
 > **[2:32](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-windows-14756724?u=76281980&t=152)** So you don't have to type it all out.
 >
@@ -573,7 +567,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-windows-14756724?u=76281980&t=213)** And Sublime Text 2 is extremely popular.
 >
-> **[3:36](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-windows-14756724?u=76281980&t=216)** E-TextEditor is meant to be a similar version to TextMate, but on the Windows side, sort of a Windows companion to TextMate, but it's kind of disappeared recently.
+> **[3:36](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-windows-14756724?u=76281980&t=216)** E-TextEditor is meant to be a similar version to TextMate, but on the [[Windows]] side, sort of a Windows companion to TextMate, but it's kind of disappeared recently.
 >
 > **[3:46](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-windows-14756724?u=76281980&t=226)** So it might be a little bit hard to find online.
 >
@@ -581,7 +575,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-windows-14756724?u=76281980&t=229)** We're going to go with Notepad instead.
 >
-> **[3:51](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-windows-14756724?u=76281980&t=231)** And then Eclipse, NetBeans, and Komodo are all popular IDEs that people use for a lot of languages, not just PHP, but for working with Java, C++, and things like that too.
+> **[3:51](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-windows-14756724?u=76281980&t=231)** And then Eclipse, NetBeans, and Komodo are all popular IDEs that people use for a lot of languages, not just PHP, but for working with [[Java]], C++, and things like that too.
 >
 > **[4:02](https://www.linkedin.com/learning/php-essential-training-2017/text-editor-for-windows-14756724?u=76281980&t=242)** So let's download and install Notepad++.
 >
@@ -659,7 +653,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (8), [[Microsoft Word|Word]] (3), [[Search]] (3), feature (2), next (2)
+> **Frameworks & Libraries:** [[PHP]] (8), [[Microsoft Word|Word]] (3), [[Windows]] (2), [[Microsoft Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** php (8), make (4), find (2), apache (1)
 > **Env Vars:** php (8), ide (1)
 > **Prerequisites:** install (5)
@@ -673,12 +667,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Embed PHP code on a page
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980)
+#### [Embed PHP code on a page](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980&t=0)** - [Instructor] Now that we have PHP installed, we're ready to start learning how to use it.
+> **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980&t=0)** - [Instructor] Now that we have [[PHP]] installed, we're ready to start learning how to use it.
 >
 > **[0:03](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980&t=3)** And we're going to start by learning how to embed PHP code in a page because there's some basic rules that we need to know about.
 >
@@ -704,7 +697,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980&t=51)** And then when it gets to the end and it sees that question mark with the greater than, it says, "Okay, the tag is over.
 >
-> **[0:57](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980&t=57)** Now, we're done with PHP, you can go back to doing your regular HTML rendering."
+> **[0:57](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980&t=57)** Now, we're done with PHP, you can go back to doing your regular [[HTML]] rendering."
 >
 > **[1:02](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980&t=62)** This allows us to embed PHP into the HTML.
 >
@@ -744,9 +737,9 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980&t=139)** Instead of using the question mark, we use the percent sign.
 >
-> **[2:22](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980&t=142)** ASP is my Microsoft's version of PHP.
+> **[2:22](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980&t=142)** ASP is my [[Microsoft]]'s version of PHP.
 >
-> **[2:26](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980&t=146)** It's what became [ASP.NET](https://ASP.NET).
+> **[2:26](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980&t=146)** It's what became [[[ASP.NET]]](https://ASP.NET).
 >
 > **[2:28](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980&t=148)** ASP was something that actually existed before [ASP.NET](https://ASP.NET).
 >
@@ -766,7 +759,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980&t=174)** One of the wonderful things about PHP is that the code is portable.
 >
-> **[2:57](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980&t=177)** A version of PHP on Windows and Mac and Linux is all exactly the same.
+> **[2:57](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980&t=177)** A version of PHP on [[Windows]] and Mac and [[Linux]] is all exactly the same.
 >
 > **[3:01](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980&t=181)** My code can just run on one, it can be moved to the other one and run there just as easily.
 >
@@ -778,7 +771,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980&t=201)** If we just stick to the default standard tags, then our code will stay portable.
 >
-> **[3:25](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980&t=205)** And that's going to be especially true if you start writing code that's going to be a plugin for existing application, like WordPress or Drupal or something, you want to be able to distribute that and have everyone be able to use it.
+> **[3:25](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980&t=205)** And that's going to be especially true if you start writing code that's going to be a plugin for existing application, like [[WordPress]] or [[Drupal]] or something, you want to be able to distribute that and have everyone be able to use it.
 >
 > **[3:35](https://www.linkedin.com/learning/php-essential-training-2017/embed-php-code-on-a-page-14757692?u=76281980&t=215)** So you want to be in the habit of using good, widely available, widely supported PHP tags.
 >
@@ -884,7 +877,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (50), [[HTML]] (7), next (2), [[ASP.NET]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[PHP]] (50), [[HTML]] (7), [[ASP.NET]] (2), [[Microsoft]] (1), [[Windows]] (1)
 > **CLI Commands:** php (50), apache (3), make (2)
 > **Env Vars:** php (44), asp (5), html (3), net (2)
 > **File Paths:** php.ini (3), index.html (2), my_phpinfo.php (1), my_php.info.php (1), kevinskoglund/index.html (1)
@@ -893,14 +886,13 @@ created: 2026-05-02
 > **Prerequisites:** setup (1), configure (1)
 > **Cross-References:** go back to (1)
 
-#### Output dynamic text
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/output-dynamic-text-14759659?u=76281980)
+#### [Output dynamic text](https://www.linkedin.com/learning/php-essential-training-2017/output-dynamic-text-14759659?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/output-dynamic-text-14759659?u=76281980&t=0)** - [Instructor] If you remember back to the introduction where I talked about why you would want to use PHP.
+> **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/output-dynamic-text-14759659?u=76281980&t=0)** - [Instructor] If you remember back to the introduction where I talked about why you would want to use [[PHP]].
 >
-> **[0:04](https://www.linkedin.com/learning/php-essential-training-2017/output-dynamic-text-14759659?u=76281980&t=4)** The real power of PHP comes from the ability to output dynamic text, that's what makes it different than just an HTML website.
+> **[0:04](https://www.linkedin.com/learning/php-essential-training-2017/output-dynamic-text-14759659?u=76281980&t=4)** The real power of PHP comes from the ability to output dynamic text, that's what makes it different than just an [[HTML]] website.
 >
 > **[0:11](https://www.linkedin.com/learning/php-essential-training-2017/output-dynamic-text-14759659?u=76281980&t=11)** If, for example, we have an auction website and a new item has been posted for sale, it gets stored in the database, PHP goes and grabs it out of the database and now the HTML page that the user sees is different than what it was a few minutes ago.
 >
@@ -1062,7 +1054,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (21), [[HTML]] (13), database (3), next (3), web (2)
+> **Frameworks & Libraries:** [[PHP]] (21), [[HTML]] (13)
 > **Env Vars:** php (17), html (12)
 > **CLI Commands:** php (21), make (5), apache (2)
 > **Analogies:** for example (2), it's like (1), think of it as (1)
@@ -1071,16 +1063,15 @@ created: 2026-05-02
 > **UI Navigation:** open the (1), go to (1)
 > **Cross-References:** in the next (1)
 
-#### The operational trail
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/the-operational-trail-14761607?u=76281980)
+#### [The operational trail](https://www.linkedin.com/learning/php-essential-training-2017/the-operational-trail-14761607?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/the-operational-trail-14761607?u=76281980&t=0)** - [Instructor] In this movie, we're going to take a look at the request response cycle in PHP.
+> **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/the-operational-trail-14761607?u=76281980&t=0)** - [Instructor] In this movie, we're going to take a look at the request response cycle in [[PHP]].
 >
 > **[0:04](https://www.linkedin.com/learning/php-essential-training-2017/the-operational-trail-14761607?u=76281980&t=4)** This cycle describes the way that a browser and a web server communicate to process user requests.
 >
-> **[0:09](https://www.linkedin.com/learning/php-essential-training-2017/the-operational-trail-14761607?u=76281980&t=9)** Especially if you haven't done web development before, it can be useful to see this cycle laid out for you.
+> **[0:09](https://www.linkedin.com/learning/php-essential-training-2017/the-operational-trail-14761607?u=76281980&t=9)** Especially if you haven't done [[Web Development]] before, it can be useful to see this cycle laid out for you.
 >
 > **[0:15](https://www.linkedin.com/learning/php-essential-training-2017/the-operational-trail-14761607?u=76281980&t=15)** To start with, we have our browser, and then we have the web server.
 >
@@ -1112,11 +1103,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/php-essential-training-2017/the-operational-trail-14761607?u=76281980&t=67)** They may need to request some information from the database, store information in the database, all sorts of things can happen as it goes back and forth between there.
 >
-> **[1:15](https://www.linkedin.com/learning/php-essential-training-2017/the-operational-trail-14761607?u=76281980&t=75)** But, once it's done processing the PHP, there's one final step where it assembles the HTML that's going to be returned and then ships that back to the browser.
+> **[1:15](https://www.linkedin.com/learning/php-essential-training-2017/the-operational-trail-14761607?u=76281980&t=75)** But, once it's done processing the PHP, there's one final step where it assembles the [[HTML]] that's going to be returned and then ships that back to the browser.
 >
 > **[1:25](https://www.linkedin.com/learning/php-essential-training-2017/the-operational-trail-14761607?u=76281980&t=85)** And that's the response that the user sees.
 >
-> **[1:27](https://www.linkedin.com/learning/php-essential-training-2017/the-operational-trail-14761607?u=76281980&t=87)** So it's very important that you see this cyclical process from the browser to the web server, where it goes to the file system, processes the file, goes to the databases as many times as it needs during that process, and then finally generates HTML that's sent back to the browser.
+> **[1:27](https://www.linkedin.com/learning/php-essential-training-2017/the-operational-trail-14761607?u=76281980&t=87)** So it's very important that you see this cyclical process from the browser to the web server, where it goes to the file system, processes the file, goes to the [[Databases]] as many times as it needs during that process, and then finally generates HTML that's sent back to the browser.
 >
 > **[1:42](https://www.linkedin.com/learning/php-essential-training-2017/the-operational-trail-14761607?u=76281980&t=102)** There's chance to process PHP after the HTML has been completely generated.
 >
@@ -1134,7 +1125,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (9), web (6), database (3), [[HTML]] (3), [[Web Development]] (1)
+> **Frameworks & Libraries:** [[PHP]] (9), [[HTML]] (3), [[Web Development]] (1), [[Databases]] (1)
 > **CLI Commands:** php (9), apache (4)
 > **Env Vars:** php (7), html (3), http (1)
 > **URLs:** [linda.com](https://linda.com) (2)
@@ -1142,12 +1133,11 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Insert code comments
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/insert-code-comments-14756715?u=76281980)
+#### [Insert code comments](https://www.linkedin.com/learning/php-essential-training-2017/insert-code-comments-14756715?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/insert-code-comments-14756715?u=76281980&t=0)** - [Instructor] In this movie we're going to learn how to insert code comments into our PHP.
+> **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/insert-code-comments-14756715?u=76281980&t=0)** - [Instructor] In this movie we're going to learn how to insert code comments into our [[PHP]].
 >
 > **[0:04](https://www.linkedin.com/learning/php-essential-training-2017/insert-code-comments-14756715?u=76281980&t=4)** We don't want to become simply capable developers.
 >
@@ -1181,7 +1171,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/php-essential-training-2017/insert-code-comments-14756715?u=76281980&t=71)** Just the things that I echoed out, just the output.
 >
-> **[1:13](https://www.linkedin.com/learning/php-essential-training-2017/insert-code-comments-14756715?u=76281980&t=73)** So these comments are not output into our HTML and they're not processed as PHP.
+> **[1:13](https://www.linkedin.com/learning/php-essential-training-2017/insert-code-comments-14756715?u=76281980&t=73)** So these comments are not output into our [[HTML]] and they're not processed as PHP.
 >
 > **[1:19](https://www.linkedin.com/learning/php-essential-training-2017/insert-code-comments-14756715?u=76281980&t=79)** They're just simply ignored.
 >
@@ -1257,7 +1247,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (9), [[Programming]] (2), [[HTML]] (2), web (1)
+> **Frameworks & Libraries:** [[PHP]] (9), [[HTML]] (2)
 > **CLI Commands:** php (9), make (3)
 > **Env Vars:** php (9), html (2)
 > **Definitions:** is a  (1)
@@ -1270,12 +1260,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/variables-14759660?u=76281980)
+#### [Variables](https://www.linkedin.com/learning/php-essential-training-2017/variables-14759660?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/variables-14759660?u=76281980&t=0)** - [Instructor] Our exploration of the PHP programming language is going to begin with an exploration of the different structures or types that we can use while writing PHP.
+> **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/variables-14759660?u=76281980&t=0)** - [Instructor] Our exploration of the [[PHP]] programming language is going to begin with an exploration of the different structures or types that we can use while writing PHP.
 >
 > **[0:07](https://www.linkedin.com/learning/php-essential-training-2017/variables-14759660?u=76281980&t=7)** And the first of those that we're going to look at are variables.
 >
@@ -1409,7 +1398,7 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/php-essential-training-2017/variables-14759660?u=76281980&t=266)** So I'm going to grab basic_html, helloworld, my_phipinfo, I'm going to put all of those inside my sandbox.
 >
-> **[4:32](https://www.linkedin.com/learning/php-essential-training-2017/variables-14759660?u=76281980&t=272)** This index.html file I don't actually need anymore.
+> **[4:32](https://www.linkedin.com/learning/php-essential-training-2017/variables-14759660?u=76281980&t=272)** This index.[[HTML]] file I don't actually need anymore.
 >
 > **[4:35](https://www.linkedin.com/learning/php-essential-training-2017/variables-14759660?u=76281980&t=275)** And I can just throw that away.
 >
@@ -1521,7 +1510,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (15), [[HTML]] (3), [[Programming]] (2), product (2), next (2)
+> **Frameworks & Libraries:** [[PHP]] (15), [[HTML]] (3)
 > **CLI Commands:** php (15), make (3), find (1)
 > **Env Vars:** php (13)
 > **Code Identifiers:** myvariable (1), this_variable (1), basic_html (1), my_phipinfo (1)
@@ -1530,8 +1519,7 @@ created: 2026-05-02
 > **Analogies:** think of it as (1), just like (1), for example (1)
 > **Cross-References:** go back to (1), in the next (1)
 
-#### Strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/strings-14763440?u=76281980)
+#### [Strings](https://www.linkedin.com/learning/php-essential-training-2017/strings-14763440?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1557,7 +1545,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/php-essential-training-2017/strings-14763440?u=76281980&t=32)** It is a string of text that we can then work with.
 >
-> **[0:35](https://www.linkedin.com/learning/php-essential-training-2017/strings-14763440?u=76281980&t=35)** Let's take our variables.php page and do a Save As on it, so that we can create a new one for strings.
+> **[0:35](https://www.linkedin.com/learning/php-essential-training-2017/strings-14763440?u=76281980&t=35)** Let's take our variables.[[PHP]] page and do a Save As on it, so that we can create a new one for strings.
 >
 > **[0:41](https://www.linkedin.com/learning/php-essential-training-2017/strings-14763440?u=76281980&t=41)** Strings.php saved in our sandbox and we'll call it strings.
 >
@@ -1571,7 +1559,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/php-essential-training-2017/strings-14763440?u=76281980&t=57)** Nice and simple.
 >
-> **[0:58](https://www.linkedin.com/learning/php-essential-training-2017/strings-14763440?u=76281980&t=58)** We can also put HTML inside of it.
+> **[0:58](https://www.linkedin.com/learning/php-essential-training-2017/strings-14763440?u=76281980&t=58)** We can also put [[HTML]] inside of it.
 >
 > **[1:01](https://www.linkedin.com/learning/php-essential-training-2017/strings-14763440?u=76281980&t=61)** That's perfectly valid, that's a string.
 >
@@ -1711,7 +1699,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (7), [[Programming]] (2), [[HTML]] (2), data (1), feature (1)
+> **Frameworks & Libraries:** [[PHP]] (7), [[HTML]] (2)
 > **CLI Commands:** php (7), find (2), make (1)
 > **Env Vars:** php (5), html (2)
 > **Definitions:** is a  (3), is an  (1)
@@ -1720,8 +1708,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), imagine (1)
 > **Tools:** firefox (1)
 
-#### String functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/string-functions-14761612?u=76281980)
+#### [String functions](https://www.linkedin.com/learning/php-essential-training-2017/string-functions-14761612?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1735,7 +1722,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/php-essential-training-2017/string-functions-14761612?u=76281980&t=13)** So we're going to start diving into the world of functions.
 >
-> **[0:15](https://www.linkedin.com/learning/php-essential-training-2017/string-functions-14761612?u=76281980&t=15)** And before we do, I just want to remind you that the [php.net](https://php.net) website has some excellent documentation for functions, and it will tell you all of the different functions that are predefined in PHP, it'll tell you how to use them, has good users submitted tips for you, all of that's there.
+> **[0:15](https://www.linkedin.com/learning/php-essential-training-2017/string-functions-14761612?u=76281980&t=15)** And before we do, I just want to remind you that the [[[PHP]].net](https://php.net) website has some excellent documentation for functions, and it will tell you all of the different functions that are predefined in PHP, it'll tell you how to use them, has good users submitted tips for you, all of that's there.
 >
 > **[0:30](https://www.linkedin.com/learning/php-essential-training-2017/string-functions-14761612?u=76281980&t=30)** And you can browse through those if you're looking for something and you're not quite sure what it is, or if you know the name of the function you can just type it into the search bar at the top and it will return the documentation for it directly.
 >
@@ -1787,7 +1774,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/php-essential-training-2017/string-functions-14761612?u=76281980&t=136)** This is going to be a very handy way to write your code if you're trying to build up a string over time.
 >
-> **[2:21](https://www.linkedin.com/learning/php-essential-training-2017/string-functions-14761612?u=76281980&t=141)** We'll definitely use it when we start working with MySQL later on.
+> **[2:21](https://www.linkedin.com/learning/php-essential-training-2017/string-functions-14761612?u=76281980&t=141)** We'll definitely use it when we start working with [[MySQL]] later on.
 >
 > **[2:24](https://www.linkedin.com/learning/php-essential-training-2017/string-functions-14761612?u=76281980&t=144)** And of course I could then say "echo $third".
 >
@@ -1797,7 +1784,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/php-essential-training-2017/string-functions-14761612?u=76281980&t=154)** Let's put in a BR tag and then instead of opening up PHP tags again, I'm going to paste in some more texts here.
 >
-> **[2:40](https://www.linkedin.com/learning/php-essential-training-2017/string-functions-14761612?u=76281980&t=160)** This includes some HTML as well as PHP tags calling some functions.
+> **[2:40](https://www.linkedin.com/learning/php-essential-training-2017/string-functions-14761612?u=76281980&t=160)** This includes some [[HTML]] as well as PHP tags calling some functions.
 >
 > **[2:46](https://www.linkedin.com/learning/php-essential-training-2017/string-functions-14761612?u=76281980&t=166)** So these are the string functions that we're going to be learning.
 >
@@ -1879,7 +1866,7 @@ created: 2026-05-02
 >
 > **[5:53](https://www.linkedin.com/learning/php-essential-training-2017/string-functions-14761612?u=76281980&t=353)** Notice here that the spaces got trimmed out of B, C, D, so that there is no space now between A, B, and D.
 >
-> **[6:00](https://www.linkedin.com/learning/php-essential-training-2017/string-functions-14761612?u=76281980&t=360)** Find did find the word brown.
+> **[6:00](https://www.linkedin.com/learning/php-essential-training-2017/string-functions-14761612?u=76281980&t=360)** Find did find the [[Microsoft Word|word]] brown.
 >
 > **[6:03](https://www.linkedin.com/learning/php-essential-training-2017/string-functions-14761612?u=76281980&t=363)** Notice what it returned to us.
 >
@@ -1961,7 +1948,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (11), [[Microsoft Word|Word]] (4), [[Search]] (2), next (1), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[PHP]] (11), [[Microsoft Word|Word]] (4), [[MySQL]] (1), [[HTML]] (1)
 > **CLI Commands:** php (11), find (10), make (9), mysql (1)
 > **Env Vars:** php (6), html (1), strstr (1)
 > **Code Identifiers:** string_functions (2), str_repeat (1)
@@ -1970,8 +1957,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1), go back to (1)
 > **Documentation:** the documentation (2)
 
-#### Numbers, part 1: Integers
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/numbers-part-1-integers-14758690?u=76281980)
+#### [Numbers, part 1: Integers](https://www.linkedin.com/learning/php-essential-training-2017/numbers-part-1-integers-14758690?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1981,11 +1967,11 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/php-essential-training-2017/numbers-part-1-integers-14758690?u=76281980&t=12)** I think what a number is, is pretty intuitive.
 >
-> **[0:14](https://www.linkedin.com/learning/php-essential-training-2017/numbers-part-1-integers-14758690?u=76281980&t=14)** We all kind of have an idea of that by now, but we do still need to see how we work with them in PHP.
+> **[0:14](https://www.linkedin.com/learning/php-essential-training-2017/numbers-part-1-integers-14758690?u=76281980&t=14)** We all kind of have an idea of that by now, but we do still need to see how we work with them in [[PHP]].
 >
 > **[0:20](https://www.linkedin.com/learning/php-essential-training-2017/numbers-part-1-integers-14758690?u=76281980&t=20)** Let's create an new document we can work with.
 >
-> **[0:22](https://www.linkedin.com/learning/php-essential-training-2017/numbers-part-1-integers-14758690?u=76281980&t=22)** I'm going to open up basic.html and I'm going to just do Save As.
+> **[0:22](https://www.linkedin.com/learning/php-essential-training-2017/numbers-part-1-integers-14758690?u=76281980&t=22)** I'm going to open up basic.[[HTML]] and I'm going to just do Save As.
 >
 > **[0:27](https://www.linkedin.com/learning/php-essential-training-2017/numbers-part-1-integers-14758690?u=76281980&t=27)** I'm going to change this one to be integers.php.
 >
@@ -2107,9 +2093,9 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/php-essential-training-2017/numbers-part-1-integers-14758690?u=76281980&t=347)** Let's just see that real quick.
 >
-> **[5:49](https://www.linkedin.com/learning/php-essential-training-2017/numbers-part-1-integers-14758690?u=76281980&t=349)** And you see it came up with two, but if I said this is one plus two houses, you see it comes up with three The word houses just disappears because it converts it.
+> **[5:49](https://www.linkedin.com/learning/php-essential-training-2017/numbers-part-1-integers-14758690?u=76281980&t=349)** And you see it came up with two, but if I said this is one plus two houses, you see it comes up with three The [[Microsoft Word|word]] houses just disappears because it converts it.
 >
-> **[5:59](https://www.linkedin.com/learning/php-essential-training-2017/numbers-part-1-integers-14758690?u=76281980&t=359)** And the best way it can convert it to an integer is to pick the number that it sees out of it and throw the rest of it away.
+> **[5:59](https://www.linkedin.com/learning/php-essential-training-2017/numbers-part-1-integers-14758690?u=76281980&t=359)** And the best way it can convert it to an integer is to pick the number that it sees out of it and throw the [[Representational State Transfer (REST)|rest]] of it away.
 >
 > **[6:05](https://www.linkedin.com/learning/php-essential-training-2017/numbers-part-1-integers-14758690?u=76281980&t=365)** And that's the only way that it knows how to.
 >
@@ -2121,7 +2107,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (8), [[Programming]] (2), power (2), next (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (8), [[HTML]] (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** php (8), make (2), find (1)
 > **Env Vars:** php (7), abs (1)
 > **File Paths:** basic.html (1), integers.php (1)
@@ -2129,8 +2115,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (typing) (1)
 
-#### Numbers, part 2: Floating points
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/numbers-part-2-floating-points-14756716?u=76281980)
+#### [Numbers, part 2: Floating points](https://www.linkedin.com/learning/php-essential-training-2017/numbers-part-2-floating-points-14756716?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2148,9 +2133,9 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/php-essential-training-2017/numbers-part-2-floating-points-14756716?u=76281980&t=35)** Because of that, almost every single programming language has two different types to work with integers and floating point numbers.
 >
-> **[0:41](https://www.linkedin.com/learning/php-essential-training-2017/numbers-part-2-floating-points-14756716?u=76281980&t=41)** So, let's look at how PHP works with floats.
+> **[0:41](https://www.linkedin.com/learning/php-essential-training-2017/numbers-part-2-floating-points-14756716?u=76281980&t=41)** So, let's look at how [[PHP]] works with floats.
 >
-> **[0:44](https://www.linkedin.com/learning/php-essential-training-2017/numbers-part-2-floating-points-14756716?u=76281980&t=44)** So I'm going to start out by opening up basic .html, and then I'll just do a save as on that, and let's just change this to be floats.php, and save it in our sandbox.
+> **[0:44](https://www.linkedin.com/learning/php-essential-training-2017/numbers-part-2-floating-points-14756716?u=76281980&t=44)** So I'm going to start out by opening up basic .[[HTML]], and then I'll just do a save as on that, and let's just change this to be floats.php, and save it in our sandbox.
 >
 > **[0:54](https://www.linkedin.com/learning/php-essential-training-2017/numbers-part-2-floating-points-14756716?u=76281980&t=54)** We'll call this floating point numbers, and let's create our first floating point number here.
 >
@@ -2266,7 +2251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (6), [[Programming]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (6), [[HTML]] (1)
 > **Versions:** 3.14 (5), 3.1 (2), 2.75 (1)
 > **CLI Commands:** php (6), make (1)
 > **Code Identifiers:** is_int (3), is_integer (2), is_float (1)
@@ -2275,8 +2260,7 @@ created: 2026-05-02
 > **Warnings:** warning (3), be aware (1)
 > **Tools:** firefox (2)
 
-#### Arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/arrays-14756718?u=76281980)
+#### [Arrays](https://www.linkedin.com/learning/php-essential-training-2017/arrays-14756718?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2314,9 +2298,9 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/php-essential-training-2017/arrays-14756718?u=76281980&t=77)** Let's create a new page for ourselves.
 >
-> **[1:18](https://www.linkedin.com/learning/php-essential-training-2017/arrays-14756718?u=76281980&t=78)** We'll open up basic.html.
+> **[1:18](https://www.linkedin.com/learning/php-essential-training-2017/arrays-14756718?u=76281980&t=78)** We'll open up basic.[[HTML]].
 >
-> **[1:21](https://www.linkedin.com/learning/php-essential-training-2017/arrays-14756718?u=76281980&t=81)** We'll do save as, and let's call this arrays.php.
+> **[1:21](https://www.linkedin.com/learning/php-essential-training-2017/arrays-14756718?u=76281980&t=81)** We'll do save as, and let's call this arrays.[[PHP]].
 >
 > **[1:26](https://www.linkedin.com/learning/php-essential-training-2017/arrays-14756718?u=76281980&t=86)** I'll change the title to be arrays, and let's create our first PHP tags here.
 >
@@ -2394,7 +2378,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/php-essential-training-2017/arrays-14756718?u=76281980&t=227)** And inside there we'll have an array.
 >
-> **[3:50](https://www.linkedin.com/learning/php-essential-training-2017/arrays-14756718?u=76281980&t=230)** And in that array, let's put the number six, the word fox followed by the word dog followed by another array.
+> **[3:50](https://www.linkedin.com/learning/php-essential-training-2017/arrays-14756718?u=76281980&t=230)** And in that array, let's put the number six, the [[Microsoft Word|word]] fox followed by the word dog followed by another array.
 >
 > **[3:59](https://www.linkedin.com/learning/php-essential-training-2017/arrays-14756718?u=76281980&t=239)** And in that array, we'll put x and y and z.
 >
@@ -2574,11 +2558,11 @@ created: 2026-05-02
 >
 > **[9:50](https://www.linkedin.com/learning/php-essential-training-2017/arrays-14756718?u=76281980&t=590)** So you aren't going to see it in a lot of older code, especially if they still need to support older versions of PHP.
 >
-> **[9:55](https://www.linkedin.com/learning/php-essential-training-2017/arrays-14756718?u=76281980&t=595)** But you should be able to see it in both forms and recognize it as an array.
+> **[9:55](https://www.linkedin.com/learning/php-essential-training-2017/arrays-14756718?u=76281980&t=595)** But you should be able to see it in both [[Forms]] and recognize it as an array.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (7), [[Microsoft Word|Word]] (3), [[Programming]] (2), [[HTML]] (2), data (2)
+> **Frameworks & Libraries:** [[PHP]] (7), [[Microsoft Word|Word]] (3), [[HTML]] (2), [[Forms]] (1)
 > **CLI Commands:** php (7), make (2), cat (2)
 > **Env Vars:** php (6), html (1)
 > **Definitions:** is an  (3), stands for (1), is a  (1)
@@ -2587,12 +2571,11 @@ created: 2026-05-02
 > **File Paths:** basic.html (1), arrays.php (1)
 > **Cross-References:** go back to (1)
 
-#### Associative arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/associative-arrays-14760590?u=76281980)
+#### [Associative arrays](https://www.linkedin.com/learning/php-essential-training-2017/associative-arrays-14760590?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/associative-arrays-14760590?u=76281980&t=0)** - PHP has another type of array called an Associative Array.
+> **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/associative-arrays-14760590?u=76281980&t=0)** - [[PHP]] has another type of array called an Associative Array.
 >
 > **[0:03](https://www.linkedin.com/learning/php-essential-training-2017/associative-arrays-14760590?u=76281980&t=3)** And it's important for us to learn how to use both types, and to understand the difference between them.
 >
@@ -2640,7 +2623,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/php-essential-training-2017/associative-arrays-14760590?u=76281980&t=114)** Let's try one out.
 >
-> **[1:55](https://www.linkedin.com/learning/php-essential-training-2017/associative-arrays-14760590?u=76281980&t=115)** So, for Associative Arrays, let's start by opening up basic .html and we'll do save as and we'll call this assoc_arrays.
+> **[1:55](https://www.linkedin.com/learning/php-essential-training-2017/associative-arrays-14760590?u=76281980&t=115)** So, for Associative Arrays, let's start by opening up basic .[[HTML]] and we'll do save as and we'll call this assoc_arrays.
 >
 > **[2:06](https://www.linkedin.com/learning/php-essential-training-2017/associative-arrays-14760590?u=76281980&t=126)** Assoc is what I'm going to use for short for association and make sure you put .php at the end and here Associative Arrays.
 >
@@ -2748,7 +2731,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), data (3), next (2), [[HTML]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[HTML]] (1)
 > **CLI Commands:** make (6), php (3), find (3)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (2), similar to (1)
@@ -2757,8 +2740,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Best Practices:** the key is (1)
 
-#### Array functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/array-functions-14757694?u=76281980)
+#### [Array functions](https://www.linkedin.com/learning/php-essential-training-2017/array-functions-14757694?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2768,9 +2750,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/php-essential-training-2017/array-functions-14757694?u=76281980&t=9)** And there's lots of things that we might want to do with them and ways we want to manipulate that information.
 >
-> **[0:13](https://www.linkedin.com/learning/php-essential-training-2017/array-functions-14757694?u=76281980&t=13)** So we're going to look at a few of the most common ones and then I'm going to show you how you can look up the rest of them.
+> **[0:13](https://www.linkedin.com/learning/php-essential-training-2017/array-functions-14757694?u=76281980&t=13)** So we're going to look at a few of the most common ones and then I'm going to show you how you can look up the [[Representational State Transfer (REST)|rest]] of them.
 >
-> **[0:18](https://www.linkedin.com/learning/php-essential-training-2017/array-functions-14757694?u=76281980&t=18)** Let's create ourselves a new file for this and let's make our basic.html file saved as, we'll call this array_functions.php, there we go.
+> **[0:18](https://www.linkedin.com/learning/php-essential-training-2017/array-functions-14757694?u=76281980&t=18)** Let's create ourselves a new file for this and let's make our basic.[[HTML]] file saved as, we'll call this array_functions.[[PHP]], there we go.
 >
 > **[0:29](https://www.linkedin.com/learning/php-essential-training-2017/array-functions-14757694?u=76281980&t=29)** Inside sandbox, array functions.
 >
@@ -2972,7 +2954,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (5), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1)
 > **CLI Commands:** make (5), php (5)
 > **Code Identifiers:** array_functions (2), num_string (1), in_array (1), array_keys (1), array_values (1)
 > **Definitions:** is a  (5), in other words (1), is an  (1)
@@ -2981,8 +2963,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1), go back to (1)
 > **UI Navigation:** go to (1), scroll down (1)
 
-#### Booleans
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/booleans-14756725?u=76281980)
+#### [Booleans](https://www.linkedin.com/learning/php-essential-training-2017/booleans-14756725?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3006,7 +2987,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/php-essential-training-2017/booleans-14756725?u=76281980&t=30)** Let's start by creating ourselves a new workspace for this.
 >
-> **[0:32](https://www.linkedin.com/learning/php-essential-training-2017/booleans-14756725?u=76281980&t=32)** I'll open up basic.html.
+> **[0:32](https://www.linkedin.com/learning/php-essential-training-2017/booleans-14756725?u=76281980&t=32)** I'll open up basic.[[HTML]].
 >
 > **[0:34](https://www.linkedin.com/learning/php-essential-training-2017/booleans-14756725?u=76281980&t=34)** We'll do Save As.
 >
@@ -3016,7 +2997,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/php-essential-training-2017/booleans-14756725?u=76281980&t=42)** And I'll also call it Booleans here.
 >
-> **[0:45](https://www.linkedin.com/learning/php-essential-training-2017/booleans-14756725?u=76281980&t=45)** And let's create our PHP tags.
+> **[0:45](https://www.linkedin.com/learning/php-essential-training-2017/booleans-14756725?u=76281980&t=45)** And let's create our [[PHP]] tags.
 >
 > **[0:48](https://www.linkedin.com/learning/php-essential-training-2017/booleans-14756725?u=76281980&t=48)** Now, a Boolean is simply the value true or the value of false.
 >
@@ -3134,7 +3115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (6), [[Programming]] (3), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (6), [[HTML]] (1)
 > **CLI Commands:** php (6), make (2), find (1)
 > **Code Identifiers:** is_bool (2), is_float (2), in_array (1), array_functions (1), is_numeric (1)
 > **Definitions:** is a  (7)
@@ -3143,8 +3124,7 @@ created: 2026-05-02
 > **File Paths:** basic.html (1), booleans.php (1)
 > **Versions:** 3.14 (1)
 
-#### NULL and empty
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/null-and-empty-14760588?u=76281980)
+#### [NULL and empty](https://www.linkedin.com/learning/php-essential-training-2017/null-and-empty-14760588?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3158,7 +3138,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/php-essential-training-2017/null-and-empty-14760588?u=76281980&t=17)** And null allows us to do that.
 >
-> **[0:19](https://www.linkedin.com/learning/php-essential-training-2017/null-and-empty-14760588?u=76281980&t=19)** Let's take a look at it by first creating a page where we can work with null and I'm going to do that by opening up basic.html, and then choosing, Save As, and we're going to save this as null.php.
+> **[0:19](https://www.linkedin.com/learning/php-essential-training-2017/null-and-empty-14760588?u=76281980&t=19)** Let's take a look at it by first creating a page where we can work with null and I'm going to do that by opening up basic.[[HTML]], and then choosing, Save As, and we're going to save this as null.[[PHP]].
 >
 > **[0:33](https://www.linkedin.com/learning/php-essential-training-2017/null-and-empty-14760588?u=76281980&t=33)** So, null.
 >
@@ -3306,7 +3286,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (8), [[HTML]] (1), web (1)
+> **Frameworks & Libraries:** [[PHP]] (8), [[HTML]] (1)
 > **CLI Commands:** php (8), make (2)
 > **Definitions:** is a  (3), means that (2)
 > **Analogies:** imagine (2), for example (1), just like (1), such as (1)
@@ -3315,8 +3295,7 @@ created: 2026-05-02
 > **Versions:** 0.0 (1)
 > **Tools:** firefox (1)
 
-#### Type juggling and casting
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/type-juggling-and-casting-14759669?u=76281980)
+#### [Type juggling and casting](https://www.linkedin.com/learning/php-essential-training-2017/type-juggling-and-casting-14759669?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3324,7 +3303,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/php-essential-training-2017/type-juggling-and-casting-14759669?u=76281980&t=4)** So strings, integers, floats, those are all called types.
 >
-> **[0:07](https://www.linkedin.com/learning/php-essential-training-2017/type-juggling-and-casting-14759669?u=76281980&t=7)** And we've seen a few times when PHP converted a value from one type to another type for us.
+> **[0:07](https://www.linkedin.com/learning/php-essential-training-2017/type-juggling-and-casting-14759669?u=76281980&t=7)** And we've seen a few times when [[PHP]] converted a value from one type to another type for us.
 >
 > **[0:12](https://www.linkedin.com/learning/php-essential-training-2017/type-juggling-and-casting-14759669?u=76281980&t=12)** For example, we were able to add a string to an integer, and we saw that PHP converted a boolean true to be the string "1" when it was output to our webpage.
 >
@@ -3376,7 +3355,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/php-essential-training-2017/type-juggling-and-casting-14759669?u=76281980&t=132)** Let's create a page where we can do some experiments and play with both type juggling and type casting.
 >
-> **[2:18](https://www.linkedin.com/learning/php-essential-training-2017/type-juggling-and-casting-14759669?u=76281980&t=138)** So let's start by opening up basic.html, and we'll do Save As, and I'm going to call this page type_casting.php, even though it's technically going to be for both type juggling and type casting.
+> **[2:18](https://www.linkedin.com/learning/php-essential-training-2017/type-juggling-and-casting-14759669?u=76281980&t=138)** So let's start by opening up basic.[[HTML]], and we'll do Save As, and I'm going to call this page type_casting.php, even though it's technically going to be for both type juggling and type casting.
 >
 > **[2:34](https://www.linkedin.com/learning/php-essential-training-2017/type-juggling-and-casting-14759669?u=76281980&t=154)** Type casting is probably the more common term that people use to refer to it, mostly because that's the thing that we have control over.
 >
@@ -3494,7 +3473,7 @@ created: 2026-05-02
 >
 > **[6:13](https://www.linkedin.com/learning/php-essential-training-2017/type-juggling-and-casting-14759669?u=76281980&t=373)** String in parentheses, this is not a string itself.
 >
-> **[6:16](https://www.linkedin.com/learning/php-essential-training-2017/type-juggling-and-casting-14759669?u=76281980&t=376)** It's just the word string inside parentheses right before $count.
+> **[6:16](https://www.linkedin.com/learning/php-essential-training-2017/type-juggling-and-casting-14759669?u=76281980&t=376)** It's just the [[Microsoft Word|word]] string inside parentheses right before $count.
 >
 > **[6:21](https://www.linkedin.com/learning/php-essential-training-2017/type-juggling-and-casting-14759669?u=76281980&t=381)** And I'm setting $count2 equal to that value and then we can compare.
 >
@@ -3566,7 +3545,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (13), [[Programming]] (4), [[HTML]] (2), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (13), [[HTML]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** php (13), make (8), find (3)
 > **Env Vars:** php (10), html (1)
 > **Definitions:** is an  (3), is a  (2)
@@ -3575,8 +3554,7 @@ created: 2026-05-02
 > **File Paths:** type_casting.php (2), basic.html (1)
 > **Cross-References:** we talked about (1), in the next (1)
 
-#### Constants
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/constants-14761618?u=76281980)
+#### [Constants](https://www.linkedin.com/learning/php-essential-training-2017/constants-14761618?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3590,7 +3568,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/php-essential-training-2017/constants-14761618?u=76281980&t=13)** It remains constantly set at the same value.
 >
-> **[0:16](https://www.linkedin.com/learning/php-essential-training-2017/constants-14761618?u=76281980&t=16)** Constants are going to be recognizable in PHP because they're always written in all capital letters and there's no dollar sign in front of them.
+> **[0:16](https://www.linkedin.com/learning/php-essential-training-2017/constants-14761618?u=76281980&t=16)** Constants are going to be recognizable in [[PHP]] because they're always written in all capital letters and there's no dollar sign in front of them.
 >
 > **[0:22](https://www.linkedin.com/learning/php-essential-training-2017/constants-14761618?u=76281980&t=22)** They're also going to differ from variables in another way.
 >
@@ -3602,7 +3580,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/php-essential-training-2017/constants-14761618?u=76281980&t=33)** Let's try some experiments.
 >
-> **[0:35](https://www.linkedin.com/learning/php-essential-training-2017/constants-14761618?u=76281980&t=35)** I'm going to open up basic.html and then we'll just do Save As, and we're going to call this constants.php.
+> **[0:35](https://www.linkedin.com/learning/php-essential-training-2017/constants-14761618?u=76281980&t=35)** I'm going to open up basic.[[HTML]] and then we'll just do Save As, and we're going to call this constants.php.
 >
 > **[0:44](https://www.linkedin.com/learning/php-essential-training-2017/constants-14761618?u=76281980&t=44)** Change the title here to constants and let's give ourselves a PHP block.
 >
@@ -3738,7 +3716,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (9), [[HTML]] (2), next (2), oop (1), data (1)
+> **Frameworks & Libraries:** [[PHP]] (9), [[HTML]] (2)
 > **CLI Commands:** php (9), make (2), find (1)
 > **Env Vars:** php (8), html (1)
 > **File Paths:** basic.html (1), constants.php (1)
@@ -3752,8 +3730,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### If statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/if-statements-14763433?u=76281980)
+#### [If statements](https://www.linkedin.com/learning/php-essential-training-2017/if-statements-14763433?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3765,7 +3742,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/php-essential-training-2017/if-statements-14763433?u=76281980&t=11)** And the most common of all types of logical expression is the if statement.
 >
-> **[0:14](https://www.linkedin.com/learning/php-essential-training-2017/if-statements-14763433?u=76281980&t=14)** This is the basic format of an if statement in PHP.
+> **[0:14](https://www.linkedin.com/learning/php-essential-training-2017/if-statements-14763433?u=76281980&t=14)** This is the basic format of an if statement in [[PHP]].
 >
 > **[0:18](https://www.linkedin.com/learning/php-essential-training-2017/if-statements-14763433?u=76281980&t=18)** You've got if, followed by, in parentheses, an expression, and that expression is going to evaluate to either true or false.
 >
@@ -3773,7 +3750,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/php-essential-training-2017/if-statements-14763433?u=76281980&t=26)** So if the expression is true, then the statement that follows it, will be executed.
 >
-> **[0:32](https://www.linkedin.com/learning/php-essential-training-2017/if-statements-14763433?u=76281980&t=32)** If it evaluates to false, then the statement will not be executed, and the code will skip past it and keep on evaluating down the rest of the PHP after it.
+> **[0:32](https://www.linkedin.com/learning/php-essential-training-2017/if-statements-14763433?u=76281980&t=32)** If it evaluates to false, then the statement will not be executed, and the code will skip past it and keep on evaluating down the [[Representational State Transfer (REST)|rest]] of the PHP after it.
 >
 > **[0:41](https://www.linkedin.com/learning/php-essential-training-2017/if-statements-14763433?u=76281980&t=41)** So for example, if we have, if a is greater than b, then echo back a is larger than b.
 >
@@ -3811,7 +3788,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/php-essential-training-2017/if-statements-14763433?u=76281980&t=122)** Let's try some if statements for ourselves.
 >
-> **[2:04](https://www.linkedin.com/learning/php-essential-training-2017/if-statements-14763433?u=76281980&t=124)** So here I am in my sandbox and I'm just going to open up basic.html.
+> **[2:04](https://www.linkedin.com/learning/php-essential-training-2017/if-statements-14763433?u=76281980&t=124)** So here I am in my sandbox and I'm just going to open up basic.[[HTML]].
 >
 > **[2:08](https://www.linkedin.com/learning/php-essential-training-2017/if-statements-14763433?u=76281980&t=128)** I'm going to choose Save As, and then I'm going to call this, logical.php, save that in my sandbox.
 >
@@ -3925,7 +3902,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (8), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (8), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1)
 > **CLI Commands:** php (8), make (5)
 > **Env Vars:** php (5)
 > **File Paths:** basic.html (1), logical.php (1), sandbox/logical.php (1)
@@ -3934,8 +3911,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Else and elseif statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/else-and-elseif-statements-14756717?u=76281980)
+#### [Else and elseif statements](https://www.linkedin.com/learning/php-essential-training-2017/else-and-elseif-statements-14756717?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3967,7 +3943,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/php-essential-training-2017/else-and-elseif-statements-14756717?u=76281980&t=64)** Once that first test passes and its statement is executed.
 >
-> **[1:07](https://www.linkedin.com/learning/php-essential-training-2017/else-and-elseif-statements-14756717?u=76281980&t=67)** The rest of the options below that are skipped over.
+> **[1:07](https://www.linkedin.com/learning/php-essential-training-2017/else-and-elseif-statements-14756717?u=76281980&t=67)** The [[Representational State Transfer (REST)|rest]] of the options below that are skipped over.
 >
 > **[1:11](https://www.linkedin.com/learning/php-essential-training-2017/else-and-elseif-statements-14756717?u=76281980&t=71)** It jumps to the very end of this whole statement down to the very final curly quote.
 >
@@ -4015,7 +3991,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/php-essential-training-2017/else-and-elseif-statements-14756717?u=76281980&t=157)** Let's go back to our page and try those.
 >
-> **[2:39](https://www.linkedin.com/learning/php-essential-training-2017/else-and-elseif-statements-14756717?u=76281980&t=159)** So, I'm going to go back to the same page that I was working on before. That's the logical.php.
+> **[2:39](https://www.linkedin.com/learning/php-essential-training-2017/else-and-elseif-statements-14756717?u=76281980&t=159)** So, I'm going to go back to the same page that I was working on before. That's the logical.[[PHP]].
 >
 > **[2:44](https://www.linkedin.com/learning/php-essential-training-2017/else-and-elseif-statements-14756717?u=76281980&t=164)** We'll just do it on this same page.
 >
@@ -4057,7 +4033,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), [[Representational State Transfer (REST)|Rest]] (1), business (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** php (4)
 > **Env Vars:** php (3)
 > **Cross-References:** go back to (2), in the last (1)
@@ -4065,8 +4041,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logical operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/logical-operators-14763431?u=76281980)
+#### [Logical operators](https://www.linkedin.com/learning/php-essential-training-2017/logical-operators-14763431?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4118,7 +4093,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/php-essential-training-2017/logical-operators-14763431?u=76281980&t=98)** And of course if we're going to do not equal to, we can also just simply say not equal using exclamation point equal.
 >
-> **[1:46](https://www.linkedin.com/learning/php-essential-training-2017/logical-operators-14763431?u=76281980&t=106)** That exclamation point is going to mean not in PHP.
+> **[1:46](https://www.linkedin.com/learning/php-essential-training-2017/logical-operators-14763431?u=76281980&t=106)** That exclamation point is going to mean not in [[PHP]].
 >
 > **[1:49](https://www.linkedin.com/learning/php-essential-training-2017/logical-operators-14763431?u=76281980&t=109)** We're going to see that again later on.
 >
@@ -4164,7 +4139,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/php-essential-training-2017/logical-operators-14763431?u=76281980&t=186)** Let's try a few examples.
 >
-> **[3:08](https://www.linkedin.com/learning/php-essential-training-2017/logical-operators-14763431?u=76281980&t=188)** Let's start by just opening up basic.html and we'll do a save as and I'm going to call this one operators.php and it's going to contain both our comparison operators and also our logical operators.
+> **[3:08](https://www.linkedin.com/learning/php-essential-training-2017/logical-operators-14763431?u=76281980&t=188)** Let's start by just opening up basic.[[HTML]] and we'll do a save as and I'm going to call this one operators.php and it's going to contain both our comparison operators and also our logical operators.
 >
 > **[3:26](https://www.linkedin.com/learning/php-essential-training-2017/logical-operators-14763431?u=76281980&t=206)** Let me just drop down here in the body and I'll give you the first example.
 >
@@ -4309,8 +4284,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Env Vars:** php (1)
 
-#### Switch statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/switch-statements-14762491?u=76281980)
+#### [Switch statements](https://www.linkedin.com/learning/php-essential-training-2017/switch-statements-14762491?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4372,7 +4346,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/php-essential-training-2017/switch-statements-14762491?u=76281980&t=151)** I'm going to create a new page where we can work with these.
 >
-> **[2:33](https://www.linkedin.com/learning/php-essential-training-2017/switch-statements-14762491?u=76281980&t=153)** I'm going to open up basic.html, and I'll do save as, and I'm going to call this switch.php, change the title.
+> **[2:33](https://www.linkedin.com/learning/php-essential-training-2017/switch-statements-14762491?u=76281980&t=153)** I'm going to open up basic.[[HTML]], and I'll do save as, and I'm going to call this switch.[[PHP]], change the title.
 >
 > **[2:42](https://www.linkedin.com/learning/php-essential-training-2017/switch-statements-14762491?u=76281980&t=162)** Also be switch and in let's give ourselves a PHP area.
 >
@@ -4618,7 +4592,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (5), next (4), parallel (3), application (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[HTML]] (1)
 > **CLI Commands:** make (5), php (5)
 > **Cross-References:** go back to (4), in the next (1)
 > **Tools:** firefox (4)
@@ -4632,8 +4606,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### While loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/while-loops-14762493?u=76281980)
+#### [While loops](https://www.linkedin.com/learning/php-essential-training-2017/while-loops-14762493?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4667,7 +4640,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/php-essential-training-2017/while-loops-14762493?u=76281980&t=70)** Now, notice how similar the syntax is to our if-statement.
 >
-> **[1:12](https://www.linkedin.com/learning/php-essential-training-2017/while-loops-14762493?u=76281980&t=72)** In fact, if you swapped out the word while for if, it'd be exactly the same, and the expression part works exactly the same way.
+> **[1:12](https://www.linkedin.com/learning/php-essential-training-2017/while-loops-14762493?u=76281980&t=72)** In fact, if you swapped out the [[Microsoft Word|word]] while for if, it'd be exactly the same, and the expression part works exactly the same way.
 >
 > **[1:19](https://www.linkedin.com/learning/php-essential-training-2017/while-loops-14762493?u=76281980&t=79)** It's going to be a boolean expression that's going to evaluate to either true or false.
 >
@@ -4685,7 +4658,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/php-essential-training-2017/while-loops-14762493?u=76281980&t=109)** So now the code jumps back down to the curly brace.
 >
-> **[1:52](https://www.linkedin.com/learning/php-essential-training-2017/while-loops-14762493?u=76281980&t=112)** It does not execute that final time, and we move on with the rest of our PHP code from there.
+> **[1:52](https://www.linkedin.com/learning/php-essential-training-2017/while-loops-14762493?u=76281980&t=112)** It does not execute that final time, and we move on with the [[Representational State Transfer (REST)|rest]] of our [[PHP]] code from there.
 >
 > **[1:57](https://www.linkedin.com/learning/php-essential-training-2017/while-loops-14762493?u=76281980&t=117)** Let me give you an example.
 >
@@ -4735,7 +4708,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/php-essential-training-2017/while-loops-14762493?u=76281980&t=216)** Let's try some examples for ourselves.
 >
-> **[3:38](https://www.linkedin.com/learning/php-essential-training-2017/while-loops-14762493?u=76281980&t=218)** So to start with, I'm going to open basic.html, just some simple HTML that I've created, and I'll do Save As, and we're going to call this whileloops.php.
+> **[3:38](https://www.linkedin.com/learning/php-essential-training-2017/while-loops-14762493?u=76281980&t=218)** So to start with, I'm going to open basic.[[HTML]], just some simple HTML that I've created, and I'll do Save As, and we're going to call this whileloops.php.
 >
 > **[3:50](https://www.linkedin.com/learning/php-essential-training-2017/while-loops-14762493?u=76281980&t=230)** I'll call it Loops, while.
 >
@@ -4855,7 +4828,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (5), [[HTML]] (3), [[Microsoft Word|Word]] (2), feature (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[HTML]] (3), [[Microsoft Word|Word]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6), php (5)
 > **Env Vars:** php (3), html (2)
 > **Cross-References:** go back to (3), previous chapter (1)
@@ -4864,8 +4837,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1), don't forget (1)
 > **Tools:** firefox (1)
 
-#### For loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/for-loops-14757702?u=76281980)
+#### [For loops](https://www.linkedin.com/learning/php-essential-training-2017/for-loops-14757702?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4921,9 +4893,9 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/php-essential-training-2017/for-loops-14757702?u=76281980&t=101)** Let's actually go to some code so we can try it out and see how they work.
 >
-> **[1:45](https://www.linkedin.com/learning/php-essential-training-2017/for-loops-14757702?u=76281980&t=105)** So start with, I'm going to open up basic dot html and I'll just do save as on this.
+> **[1:45](https://www.linkedin.com/learning/php-essential-training-2017/for-loops-14757702?u=76281980&t=105)** So start with, I'm going to open up basic dot [[HTML]] and I'll just do save as on this.
 >
-> **[1:50](https://www.linkedin.com/learning/php-essential-training-2017/for-loops-14757702?u=76281980&t=110)** And we're going to call this one for loops dot PHP.
+> **[1:50](https://www.linkedin.com/learning/php-essential-training-2017/for-loops-14757702?u=76281980&t=110)** And we're going to call this one for loops dot [[PHP]].
 >
 > **[1:56](https://www.linkedin.com/learning/php-essential-training-2017/for-loops-14757702?u=76281980&t=116)** We'll call it loops colon for.
 >
@@ -5075,7 +5047,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[PHP]] (2), [[Programming]] (1), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[HTML]] (1)
 > **Analogies:** just like (3), similar to (1), it's like (1)
 > **CLI Commands:** php (2), make (2)
 > **Prerequisites:** initialization (3)
@@ -5084,8 +5056,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1), best practice (1)
 > **UI Navigation:** go to (1)
 
-#### Foreach loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/foreach-loops-14761619?u=76281980)
+#### [Foreach loops](https://www.linkedin.com/learning/php-essential-training-2017/foreach-loops-14761619?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5173,7 +5144,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/php-essential-training-2017/foreach-loops-14761619?u=76281980&t=192)** An example will make this clear.
 >
-> **[3:14](https://www.linkedin.com/learning/php-essential-training-2017/foreach-loops-14761619?u=76281980&t=194)** So let's open up basic.html again, and let's do save as, and this time, we're going to save it as foreachloops.php, and I'll call it loops foreach, no spaces.
+> **[3:14](https://www.linkedin.com/learning/php-essential-training-2017/foreach-loops-14761619?u=76281980&t=194)** So let's open up basic.[[HTML]] again, and let's do save as, and this time, we're going to save it as foreachloops.[[PHP]], and I'll call it loops foreach, no spaces.
 >
 > **[3:29](https://www.linkedin.com/learning/php-essential-training-2017/foreach-loops-14761619?u=76281980&t=209)** So I'm just going to paste in our first example here.
 >
@@ -5307,7 +5278,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (3), [[PHP]] (3), database (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[HTML]] (1)
 > **CLI Commands:** make (4), php (3)
 > **UI Navigation:** go to (4)
 > **Definitions:** is a  (3), is an  (1)
@@ -5316,8 +5287,7 @@ created: 2026-05-02
 > **URLs:** [lynda.com](https://lynda.com) (2)
 > **Env Vars:** php (2)
 
-#### Continue
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/continue-14758683?u=76281980)
+#### [Continue](https://www.linkedin.com/learning/php-essential-training-2017/continue-14758683?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5327,7 +5297,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/php-essential-training-2017/continue-14758683?u=76281980&t=11)** We'll start with continue.
 >
-> **[0:12](https://www.linkedin.com/learning/php-essential-training-2017/continue-14758683?u=76281980&t=12)** Continue is used inside a loop to skip the rest of the current iteration and to go immediately to the condition evaluation that starts the next iteration.
+> **[0:12](https://www.linkedin.com/learning/php-essential-training-2017/continue-14758683?u=76281980&t=12)** Continue is used inside a loop to skip the [[Representational State Transfer (REST)|rest]] of the current iteration and to go immediately to the condition evaluation that starts the next iteration.
 >
 > **[0:21](https://www.linkedin.com/learning/php-essential-training-2017/continue-14758683?u=76281980&t=21)** It may sound silly but for me, continue evokes the image of a Hollywood casting director shouting next in the middle of an audition.
 >
@@ -5351,9 +5321,9 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/php-essential-training-2017/continue-14758683?u=76281980&t=55)** Let's see an example.
 >
-> **[0:57](https://www.linkedin.com/learning/php-essential-training-2017/continue-14758683?u=76281980&t=57)** So let's open up basic.html and let's do Save As.
+> **[0:57](https://www.linkedin.com/learning/php-essential-training-2017/continue-14758683?u=76281980&t=57)** So let's open up basic.[[HTML]] and let's do Save As.
 >
-> **[1:01](https://www.linkedin.com/learning/php-essential-training-2017/continue-14758683?u=76281980&t=61)** and we're going to call this continue.php.
+> **[1:01](https://www.linkedin.com/learning/php-essential-training-2017/continue-14758683?u=76281980&t=61)** and we're going to call this continue.[[PHP]].
 >
 > **[1:07](https://www.linkedin.com/learning/php-essential-training-2017/continue-14758683?u=76281980&t=67)** I'll change this to continue and I'm going to start with just a basic FOR loop.
 >
@@ -5609,7 +5579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (10), [[Representational State Transfer (REST)|Rest]] (1), database (1), [[HTML]] (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1), [[PHP]] (1)
 > **CLI Commands:** make (3), find (2), php (1)
 > **Env Vars:** while (5), continues (1)
 > **Analogies:** imagine (3), it's like (1), just like (1)
@@ -5618,8 +5588,7 @@ created: 2026-05-02
 > **File Paths:** basic.html (1), continue.php (1)
 > **Tools:** firefox (1)
 
-#### Break
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/break-14763432?u=76281980)
+#### [Break](https://www.linkedin.com/learning/php-essential-training-2017/break-14763432?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5645,7 +5614,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/php-essential-training-2017/break-14763432?u=76281980&t=37)** You've got the job.
 >
-> **[0:39](https://www.linkedin.com/learning/php-essential-training-2017/break-14763432?u=76281980&t=39)** The rest of the auditions are canceled, I don't need to see any more."
+> **[0:39](https://www.linkedin.com/learning/php-essential-training-2017/break-14763432?u=76281980&t=39)** The [[Representational State Transfer (REST)|rest]] of the auditions are canceled, I don't need to see any more."
 >
 > **[0:42](https://www.linkedin.com/learning/php-essential-training-2017/break-14763432?u=76281980&t=42)** Break stops the whole process.
 >
@@ -5655,7 +5624,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/php-essential-training-2017/break-14763432?u=76281980&t=52)** Let's create an example.
 >
-> **[0:53](https://www.linkedin.com/learning/php-essential-training-2017/break-14763432?u=76281980&t=53)** We'll start by taking basic .html, and using Save As, and we'll save it as break.php.
+> **[0:53](https://www.linkedin.com/learning/php-essential-training-2017/break-14763432?u=76281980&t=53)** We'll start by taking basic .[[HTML]], and using Save As, and we'll save it as break.[[PHP]].
 >
 > **[1:03](https://www.linkedin.com/learning/php-essential-training-2017/break-14763432?u=76281980&t=63)** Up here we'll write break.
 >
@@ -5755,7 +5724,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[PHP]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1)
 > **CLI Commands:** php (3), make (1), find (1)
 > **Cross-References:** in the last (2), in the next (1)
 > **Analogies:** think of it as (1), imagine (1), just like (1)
@@ -5764,16 +5733,15 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding array pointers
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/understanding-array-pointers-14763435?u=76281980)
+#### [Understanding array pointers](https://www.linkedin.com/learning/php-essential-training-2017/understanding-array-pointers-14763435?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/understanding-array-pointers-14763435?u=76281980&t=0)** - [Instructor] Before we leave the topic of Loops behind, I want to talk about Array Pointers and show you how they work.
 >
-> **[0:06](https://www.linkedin.com/learning/php-essential-training-2017/understanding-array-pointers-14763435?u=76281980&t=6)** It may seem like a technical detail but it will become important later when we start working with databases.
+> **[0:06](https://www.linkedin.com/learning/php-essential-training-2017/understanding-array-pointers-14763435?u=76281980&t=6)** It may seem like a technical detail but it will become important later when we start working with [[Databases]].
 >
-> **[0:11](https://www.linkedin.com/learning/php-essential-training-2017/understanding-array-pointers-14763435?u=76281980&t=11)** PHP maintains a pointer that points to one of the items in an array.
+> **[0:11](https://www.linkedin.com/learning/php-essential-training-2017/understanding-array-pointers-14763435?u=76281980&t=11)** [[PHP]] maintains a pointer that points to one of the items in an array.
 >
 > **[0:16](https://www.linkedin.com/learning/php-essential-training-2017/understanding-array-pointers-14763435?u=76281980&t=16)** That item is referred to as the current item.
 >
@@ -5787,7 +5755,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/php-essential-training-2017/understanding-array-pointers-14763435?u=76281980&t=40)** Let's take a look.
 >
-> **[0:41](https://www.linkedin.com/learning/php-essential-training-2017/understanding-array-pointers-14763435?u=76281980&t=41)** Let's create ourselves a little workspace by using basic.html and we'll use Save As and we're going to create pointers.php.
+> **[0:41](https://www.linkedin.com/learning/php-essential-training-2017/understanding-array-pointers-14763435?u=76281980&t=41)** Let's create ourselves a little workspace by using basic.[[HTML]] and we'll use Save As and we're going to create pointers.php.
 >
 > **[0:51](https://www.linkedin.com/learning/php-essential-training-2017/understanding-array-pointers-14763435?u=76281980&t=51)** To begin with let's just give ourselves a little area here, php and we'll put in array of ages.
 >
@@ -5909,7 +5877,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/php-essential-training-2017/understanding-array-pointers-14763435?u=76281980&t=286)** If you did not successfully get an item well then exit the loop, we're all done.
 >
-> **[4:50](https://www.linkedin.com/learning/php-essential-training-2017/understanding-array-pointers-14763435?u=76281980&t=290)** And then of course we do have to increment inside the array using next, that'll move the pointer to the next item, so that now current will fetch something different the next time through the loop.
+> **[4:50](https://www.linkedin.com/learning/php-essential-training-2017/understanding-array-pointers-14763435?u=76281980&t=290)** And then of course we do have to increment inside the array using next, that'll move the pointer to the next item, so that now current will [[Fetch]] something different the next time through the loop.
 >
 > **[5:00](https://www.linkedin.com/learning/php-essential-training-2017/understanding-array-pointers-14763435?u=76281980&t=300)** So as I said, this is how foreach works.
 >
@@ -5969,7 +5937,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (12), [[PHP]] (7), database (7), [[Databases]] (3), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (7), [[Databases]] (3), [[HTML]] (1), [[Fetch]] (1)
 > **CLI Commands:** php (7), make (1)
 > **Env Vars:** php (4)
 > **Definitions:** short for (1), is a  (1), in other words (1), is an  (1)
@@ -5983,8 +5951,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Define functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/define-functions-14762492?u=76281980)
+#### [Define functions](https://www.linkedin.com/learning/php-essential-training-2017/define-functions-14762492?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5992,7 +5959,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/php-essential-training-2017/define-functions-14762492?u=76281980&t=8)** An example of a function we've already seen and used would be in array.
 >
-> **[0:11](https://www.linkedin.com/learning/php-essential-training-2017/define-functions-14762492?u=76281980&t=11)** Anytime that we want PHP to check whether an element is an in array, we can call the in array function.
+> **[0:11](https://www.linkedin.com/learning/php-essential-training-2017/define-functions-14762492?u=76281980&t=11)** Anytime that we want [[PHP]] to check whether an element is an in array, we can call the in array function.
 >
 > **[0:16](https://www.linkedin.com/learning/php-essential-training-2017/define-functions-14762492?u=76281980&t=16)** We provide the function data to work with in the form of arguments, and the function returns output to us at the end.
 >
@@ -6046,7 +6013,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/php-essential-training-2017/define-functions-14762492?u=76281980&t=143)** Let's try an example.
 >
-> **[2:25](https://www.linkedin.com/learning/php-essential-training-2017/define-functions-14762492?u=76281980&t=145)** So to start with, I'll open up basic.html, and I'll do save as on this, and we're going to call this functions_defining.php.
+> **[2:25](https://www.linkedin.com/learning/php-essential-training-2017/define-functions-14762492?u=76281980&t=145)** So to start with, I'll open up basic.[[HTML]], and I'll do save as on this, and we're going to call this functions_defining.php.
 >
 > **[2:37](https://www.linkedin.com/learning/php-essential-training-2017/define-functions-14762492?u=76281980&t=157)** And I'll give the title Functions: Defining.
 >
@@ -6114,7 +6081,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/php-essential-training-2017/define-functions-14762492?u=76281980&t=301)** Now, let's try this with our first argument.
 >
-> **[5:04](https://www.linkedin.com/learning/php-essential-training-2017/define-functions-14762492?u=76281980&t=304)** Let's come down here, and let's define another function, but this one is going to be say_hello_to, underscore T-O, and then we'll put an argument here and that will just be word, all right?
+> **[5:04](https://www.linkedin.com/learning/php-essential-training-2017/define-functions-14762492?u=76281980&t=304)** Let's come down here, and let's define another function, but this one is going to be say_hello_to, underscore T-O, and then we'll put an argument here and that will just be [[Microsoft Word|word]], all right?
 >
 > **[5:16](https://www.linkedin.com/learning/php-essential-training-2017/define-functions-14762492?u=76281980&t=316)** So that's our first argument is word.
 >
@@ -6192,7 +6159,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (10), [[Microsoft Word|Word]] (4), [[Programming]] (2), data (1), feature (1)
+> **Frameworks & Libraries:** [[PHP]] (10), [[Microsoft Word|Word]] (4), [[HTML]] (1)
 > **Code Identifiers:** say_hello (5), say_hello_loudly (4), say_hello_to (3), functions_defining (2), hello_loudly (1)
 > **CLI Commands:** php (10), make (2), find (1)
 > **Env Vars:** php (8), var (1), hello (1), world (1), php3 (1)
@@ -6201,8 +6168,7 @@ created: 2026-05-02
 > **Tools:** firefox (2)
 > **UI Navigation:** go to (2)
 
-#### Function arguments
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/function-arguments-14757703?u=76281980)
+#### [Function arguments](https://www.linkedin.com/learning/php-essential-training-2017/function-arguments-14757703?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6210,9 +6176,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/php-essential-training-2017/function-arguments-14757703?u=76281980&t=4)** In this movie, we'll gain a better understanding of how we go about working with arguments to our functions.
 >
-> **[0:09](https://www.linkedin.com/learning/php-essential-training-2017/function-arguments-14757703?u=76281980&t=9)** Let's create ourselves a new file for this, we're going to open up basic.html, and we'll do save as, and this one is going to be called functions_arguments.php.
+> **[0:09](https://www.linkedin.com/learning/php-essential-training-2017/function-arguments-14757703?u=76281980&t=9)** Let's create ourselves a new file for this, we're going to open up basic.[[HTML]], and we'll do save as, and this one is going to be called functions_arguments.[[PHP]].
 >
-> **[0:23](https://www.linkedin.com/learning/php-essential-training-2017/function-arguments-14757703?u=76281980&t=23)** And then let's change this up here to be functions arguments, and let's start out with just the basic say hello to function that we used in the last movie, which has one argument word, right?
+> **[0:23](https://www.linkedin.com/learning/php-essential-training-2017/function-arguments-14757703?u=76281980&t=23)** And then let's change this up here to be functions arguments, and let's start out with just the basic say hello to function that we used in the last movie, which has one argument [[Microsoft Word|word]], right?
 >
 > **[0:35](https://www.linkedin.com/learning/php-essential-training-2017/function-arguments-14757703?u=76281980&t=35)** So we've already worked with arguments before, we've seen one, here it is.
 >
@@ -6220,7 +6186,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/php-essential-training-2017/function-arguments-14757703?u=76281980&t=43)** We pass in the string, everyone to that and that everyone gets assigned to word, and that's what's available for use inside the function then, we already know how that works.
 >
-> **[0:54](https://www.linkedin.com/learning/php-essential-training-2017/function-arguments-14757703?u=76281980&t=54)** I just want to show you a slight revision of that, let's say that we have another variable here called John Doe, and instead of passing in everyone, well we're going to pass in the variable name.
+> **[0:54](https://www.linkedin.com/learning/php-essential-training-2017/function-arguments-14757703?u=76281980&t=54)** I just want to show you a slight revision of that, let's say that we have another variable here called [[John the Ripper|John]] Doe, and instead of passing in everyone, well we're going to pass in the variable name.
 >
 > **[1:08](https://www.linkedin.com/learning/php-essential-training-2017/function-arguments-14757703?u=76281980&t=68)** So name equals John Doe say hello to name, and that gets then passed into the function, and it should say hello to John Doe. Let's try it.
 >
@@ -6326,7 +6292,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[PHP]] (4), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (6), [[Microsoft Word|Word]] (5), [[PHP]] (4), [[HTML]] (1)
 > **CLI Commands:** php (4), make (2), find (1)
 > **Env Vars:** php (3), punct (1)
 > **Cross-References:** in the last (2), go back to (1), in the next (1)
@@ -6335,8 +6301,7 @@ created: 2026-05-02
 > **Tools:** firefox (1)
 > **Speakers:** - [instructor] (1)
 
-#### Return values from a function
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/return-values-from-a-function-14756719?u=76281980)
+#### [Return values from a function](https://www.linkedin.com/learning/php-essential-training-2017/return-values-from-a-function-14756719?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6354,7 +6319,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/php-essential-training-2017/return-values-from-a-function-14756719?u=76281980&t=24)** And for that, we need to understand how to return values from a function.
 >
-> **[0:29](https://www.linkedin.com/learning/php-essential-training-2017/return-values-from-a-function-14756719?u=76281980&t=29)** Let's open up basic.html, and we're going to do Save As on this, and we're going to call this one functions_returnvalues.php.
+> **[0:29](https://www.linkedin.com/learning/php-essential-training-2017/return-values-from-a-function-14756719?u=76281980&t=29)** Let's open up basic.[[HTML]], and we're going to do Save As on this, and we're going to call this one functions_returnvalues.[[PHP]].
 >
 > **[0:43](https://www.linkedin.com/learning/php-essential-training-2017/return-values-from-a-function-14756719?u=76281980&t=43)** Functions: Return Values.
 >
@@ -6530,7 +6495,7 @@ created: 2026-05-02
 >
 > **[6:55](https://www.linkedin.com/learning/php-essential-training-2017/return-values-from-a-function-14756719?u=76281980&t=415)** Instead of echoing from inside that function, just change it to a return.
 >
-> **[6:59](https://www.linkedin.com/learning/php-essential-training-2017/return-values-from-a-function-14756719?u=76281980&t=419)** Return that result and now we can just as easily call echo better_hello with Hello, and then John Doe followed by an exclamation point, all right?
+> **[6:59](https://www.linkedin.com/learning/php-essential-training-2017/return-values-from-a-function-14756719?u=76281980&t=419)** Return that result and now we can just as easily call echo better_hello with Hello, and then [[John the Ripper|John]] Doe followed by an exclamation point, all right?
 >
 > **[7:16](https://www.linkedin.com/learning/php-essential-training-2017/return-values-from-a-function-14756719?u=76281980&t=436)** We can still call it that way.
 >
@@ -6542,7 +6507,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[HTML]] (1), [[John the Ripper|John]] (1)
 > **Code Identifiers:** chinese_zodiac (2), better_hello (2), functions_returnvalues (1), functions_arguments (1)
 > **CLI Commands:** php (3)
 > **File Paths:** basic.html (1), functions_returnvalues.php (1)
@@ -6551,8 +6516,7 @@ created: 2026-05-02
 > **URLs:** [php.net](https://php.net) (1)
 > **Env Vars:** php (1)
 
-#### Multiple return values
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/multiple-return-values-14761610?u=76281980)
+#### [Multiple return values](https://www.linkedin.com/learning/php-essential-training-2017/multiple-return-values-14761610?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6570,9 +6534,9 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/php-essential-training-2017/multiple-return-values-14761610?u=76281980&t=21)** Well, first let's create an example, so we can look at the problem more closely.
 >
-> **[0:25](https://www.linkedin.com/learning/php-essential-training-2017/multiple-return-values-14761610?u=76281980&t=25)** I'm going to open up basic doc html, and I'll do a Save As on that.
+> **[0:25](https://www.linkedin.com/learning/php-essential-training-2017/multiple-return-values-14761610?u=76281980&t=25)** I'm going to open up basic doc [[HTML]], and I'll do a Save As on that.
 >
-> **[0:30](https://www.linkedin.com/learning/php-essential-training-2017/multiple-return-values-14761610?u=76281980&t=30)** And I'm going to call this functions, multiple returns, dot php.
+> **[0:30](https://www.linkedin.com/learning/php-essential-training-2017/multiple-return-values-14761610?u=76281980&t=30)** And I'm going to call this functions, multiple returns, dot [[PHP]].
 >
 > **[0:38](https://www.linkedin.com/learning/php-essential-training-2017/multiple-return-values-14761610?u=76281980&t=38)** We'll give it the same name here, functions, Multiple Returns.
 >
@@ -6698,7 +6662,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[HTML]] (1)
 > **CLI Commands:** php (4), make (4)
 > **UI Navigation:** go to (2)
 > **Definitions:** short for (1), is an  (1)
@@ -6707,8 +6671,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scope and global variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/scope-and-global-variables-14763441?u=76281980)
+#### [Scope and global variables](https://www.linkedin.com/learning/php-essential-training-2017/scope-and-global-variables-14763441?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6730,13 +6693,13 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/php-essential-training-2017/scope-and-global-variables-14763441?u=76281980&t=34)** We say that the function is the variables scope.
 >
-> **[0:37](https://www.linkedin.com/learning/php-essential-training-2017/scope-and-global-variables-14763441?u=76281980&t=37)** In PHP, there are two main scopes.
+> **[0:37](https://www.linkedin.com/learning/php-essential-training-2017/scope-and-global-variables-14763441?u=76281980&t=37)** In [[PHP]], there are two main scopes.
 >
 > **[0:40](https://www.linkedin.com/learning/php-essential-training-2017/scope-and-global-variables-14763441?u=76281980&t=40)** There's the global and there's the local scope.
 >
 > **[0:43](https://www.linkedin.com/learning/php-essential-training-2017/scope-and-global-variables-14763441?u=76281980&t=43)** Let's take a look at them so that we can see the difference.
 >
-> **[0:45](https://www.linkedin.com/learning/php-essential-training-2017/scope-and-global-variables-14763441?u=76281980&t=45)** Let's start by taking basic.HTML calling save as on it.
+> **[0:45](https://www.linkedin.com/learning/php-essential-training-2017/scope-and-global-variables-14763441?u=76281980&t=45)** Let's start by taking basic.[[HTML]] calling save as on it.
 >
 > **[0:50](https://www.linkedin.com/learning/php-essential-training-2017/scope-and-global-variables-14763441?u=76281980&t=50)** We're going to call this functions_scope and I'm going to end it with PHP.
 >
@@ -6909,8 +6872,7 @@ created: 2026-05-02
 > **File Paths:** basic.html (1)
 > **Cross-References:** go back to (1)
 
-#### Set default argument values
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/set-default-argument-values-14756723?u=76281980)
+#### [Set default argument values](https://www.linkedin.com/learning/php-essential-training-2017/set-default-argument-values-14756723?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6922,9 +6884,9 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/php-essential-training-2017/set-default-argument-values-14756723?u=76281980&t=14)** Let's see how.
 >
-> **[0:15](https://www.linkedin.com/learning/php-essential-training-2017/set-default-argument-values-14756723?u=76281980&t=15)** So we'll open up basic.html, and we'll call Save As on that.
+> **[0:15](https://www.linkedin.com/learning/php-essential-training-2017/set-default-argument-values-14756723?u=76281980&t=15)** So we'll open up basic.[[HTML]], and we'll call Save As on that.
 >
-> **[0:19](https://www.linkedin.com/learning/php-essential-training-2017/set-default-argument-values-14756723?u=76281980&t=19)** and let's call this, functions_defaults.php.
+> **[0:19](https://www.linkedin.com/learning/php-essential-training-2017/set-default-argument-values-14756723?u=76281980&t=19)** and let's call this, functions_defaults.[[PHP]].
 >
 > **[0:25](https://www.linkedin.com/learning/php-essential-training-2017/set-default-argument-values-14756723?u=76281980&t=25)** Functions: Default Argument Values.
 >
@@ -6978,7 +6940,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/php-essential-training-2017/set-default-argument-values-14756723?u=76281980&t=131)** Let's add another one here.
 >
-> **[2:13](https://www.linkedin.com/learning/php-essential-training-2017/set-default-argument-values-14756723?u=76281980&t=133)** Let's say that we're going to have the room, and the room by default is going to be the office.
+> **[2:13](https://www.linkedin.com/learning/php-essential-training-2017/set-default-argument-values-14756723?u=76281980&t=133)** Let's say that we're going to have the room, and the room by default is going to be the [[Microsoft Office|office]].
 >
 > **[2:20](https://www.linkedin.com/learning/php-essential-training-2017/set-default-argument-values-14756723?u=76281980&t=140)** We need a comma between those, right?
 >
@@ -7082,12 +7044,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Common problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/warnings-and-errors-14758686?u=76281980)
+#### [Common problems](https://www.linkedin.com/learning/php-essential-training-2017/warnings-and-errors-14758686?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/warnings-and-errors-14758686?u=76281980&t=0)** - [Instructor] Now that we have a lot of the PHP fundamentals under our belt, in this chapter we'll discuss ways to troubleshoot and debug your PHP code.
+> **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/warnings-and-errors-14758686?u=76281980&t=0)** - [Instructor] Now that we have a lot of the [[PHP]] fundamentals under our belt, in this chapter we'll discuss ways to troubleshoot and debug your PHP code.
 >
 > **[0:07](https://www.linkedin.com/learning/php-essential-training-2017/warnings-and-errors-14758686?u=76281980&t=7)** And we'll start by looking at common problems, and then talk about the errors that PHP returns.
 >
@@ -7101,7 +7062,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/php-essential-training-2017/warnings-and-errors-14758686?u=76281980&t=24)** It just seems like the page is not working.
 >
-> **[0:27](https://www.linkedin.com/learning/php-essential-training-2017/warnings-and-errors-14758686?u=76281980&t=27)** The first thing you should do is try to access a basic HTML page.
+> **[0:27](https://www.linkedin.com/learning/php-essential-training-2017/warnings-and-errors-14758686?u=76281980&t=27)** The first thing you should do is try to access a basic [[HTML]] page.
 >
 > **[0:31](https://www.linkedin.com/learning/php-essential-training-2017/warnings-and-errors-14758686?u=76281980&t=31)** Forget about PHP for a second, take it out of the equation.
 >
@@ -7189,7 +7150,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (17), web (3), [[HTML]] (2), [[Debugging]] (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (17), [[HTML]] (2)
 > **CLI Commands:** php (17), make (4), find (1)
 > **Env Vars:** php (17), html (2)
 > **Warnings:** troubleshoot (1), common mistake (1)
@@ -7198,14 +7159,13 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### Warnings and errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/common-problems-14758689?u=76281980)
+#### [Warnings and errors](https://www.linkedin.com/learning/php-essential-training-2017/common-problems-14758689?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/common-problems-14758689?u=76281980&t=0)** - [Instructor] When we encounter an error in our code, the more information that we have about that error, the easier it's going to be to resolve it.
 >
-> **[0:06](https://www.linkedin.com/learning/php-essential-training-2017/common-problems-14758689?u=76281980&t=6)** In this movie, we'll look at the warnings and errors that PHP generates and learn how they can help you to resolve problems.
+> **[0:06](https://www.linkedin.com/learning/php-essential-training-2017/common-problems-14758689?u=76281980&t=6)** In this movie, we'll look at the warnings and errors that [[PHP]] generates and learn how they can help you to resolve problems.
 >
 > **[0:12](https://www.linkedin.com/learning/php-essential-training-2017/common-problems-14758689?u=76281980&t=12)** The first and most important thing is to make sure that error reporting is turned on.
 >
@@ -7231,7 +7191,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/php-essential-training-2017/common-problems-14758689?u=76281980&t=65)** So I can set display errors to be turned on, and I can set error reporting using the error reporting function.
 >
-> **[1:12](https://www.linkedin.com/learning/php-essential-training-2017/common-problems-14758689?u=76281980&t=72)** Notice that on is the word on, it's a string, but error reporting is using a constant.
+> **[1:12](https://www.linkedin.com/learning/php-essential-training-2017/common-problems-14758689?u=76281980&t=72)** Notice that on is the [[Microsoft Word|word]] on, it's a string, but error reporting is using a constant.
 >
 > **[1:18](https://www.linkedin.com/learning/php-essential-training-2017/common-problems-14758689?u=76281980&t=78)** E_ALL is a constant.
 >
@@ -7417,7 +7377,7 @@ created: 2026-05-02
 >
 > **[7:48](https://www.linkedin.com/learning/php-essential-training-2017/common-problems-14758689?u=76281980&t=468)** If you're on macOS 10, chances are that by default, it's going to be logging to /private/var/log/apache2/error_log, and that's where you would find it.
 >
-> **[7:56](https://www.linkedin.com/learning/php-essential-training-2017/common-problems-14758689?u=76281980&t=476)** If you're on Windows and WAMP, chances are it's going to log in into the WAMP folder, into logs, into php_error.log, or you can access those logs from the WAMP menu.
+> **[7:56](https://www.linkedin.com/learning/php-essential-training-2017/common-problems-14758689?u=76281980&t=476)** If you're on [[Windows]] and WAMP, chances are it's going to log in into the WAMP folder, into logs, into php_error.log, or you can access those logs from the WAMP menu.
 >
 > **[8:06](https://www.linkedin.com/learning/php-essential-training-2017/common-problems-14758689?u=76281980&t=486)** If you're running Apache, well then, it's probably being configured inside Apache's config file.
 >
@@ -7431,7 +7391,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (23), web (3), [[Microsoft Word|Word]] (2), next (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[PHP]] (23), [[Microsoft Word|Word]] (2), [[Windows]] (1)
 > **CLI Commands:** php (23), make (7), find (3), apache (3)
 > **Env Vars:** php (16), e_all (5), wamp (3), e_strict (1), e_deprecated (1)
 > **File Paths:** php.ini (5)
@@ -7440,12 +7400,11 @@ created: 2026-05-02
 > **Code Identifiers:** ini_set (1), macos (1), error_log (1), php_error (1)
 > **Warnings:** warning (2), note that (1)
 
-#### Debug and troubleshoot
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/debug-and-troubleshoot-14761609?u=76281980)
+#### [Debug and troubleshoot](https://www.linkedin.com/learning/php-essential-training-2017/debug-and-troubleshoot-14761609?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/debug-and-troubleshoot-14761609?u=76281980&t=0)** - In the last movie, we looked at the warnings and errors that PHP generates but often, we need to debug our code even when we aren't getting a PHP error.
+> **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/debug-and-troubleshoot-14761609?u=76281980&t=0)** - In the last movie, we looked at the warnings and errors that [[PHP]] generates but often, we need to debug our code even when we aren't getting a PHP error.
 >
 > **[0:07](https://www.linkedin.com/learning/php-essential-training-2017/debug-and-troubleshoot-14761609?u=76281980&t=7)** We just aren't getting the results that we expected from our code.
 >
@@ -7453,7 +7412,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/php-essential-training-2017/debug-and-troubleshoot-14761609?u=76281980&t=17)** As with errors, the more information we have about a problem, the easier to be to solve it.
 >
-> **[0:20](https://www.linkedin.com/learning/php-essential-training-2017/debug-and-troubleshoot-14761609?u=76281980&t=20)** And the best way for us to get more information is to output that information to the HTML page as our code is running.
+> **[0:20](https://www.linkedin.com/learning/php-essential-training-2017/debug-and-troubleshoot-14761609?u=76281980&t=20)** And the best way for us to get more information is to output that information to the [[HTML]] page as our code is running.
 >
 > **[0:27](https://www.linkedin.com/learning/php-essential-training-2017/debug-and-troubleshoot-14761609?u=76281980&t=27)** Now sure, this extra output is going to make the page ugly while we're debugging, but that's okay, because we're not planning to keep it, it's just temporary.
 >
@@ -7467,7 +7426,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/php-essential-training-2017/debug-and-troubleshoot-14761609?u=76281980&t=47)** We'll see it on the page and we can watch the value change with each iteration of the loop.
 >
-> **[0:51](https://www.linkedin.com/learning/php-essential-training-2017/debug-and-troubleshoot-14761609?u=76281980&t=51)** Echo's also going to be super helpful when we start working with databases because we're going to assemble SQL statements in a variable and then send that statement off to the database.
+> **[0:51](https://www.linkedin.com/learning/php-essential-training-2017/debug-and-troubleshoot-14761609?u=76281980&t=51)** Echo's also going to be super helpful when we start working with [[Databases]] because we're going to assemble [[SQL]] statements in a variable and then send that statement off to the database.
 >
 > **[0:59](https://www.linkedin.com/learning/php-essential-training-2017/debug-and-troubleshoot-14761609?u=76281980&t=59)** If we don't get back the results from the database that we expected, we can echo that statement and see what was the SQL statement that we had constructed and can examine it for errors.
 >
@@ -7623,7 +7582,7 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/php-essential-training-2017/debug-and-troubleshoot-14761609?u=76281980&t=306)** Now debug backtrace also does not output, it just returns an array to us.
 >
-> **[5:10](https://www.linkedin.com/learning/php-essential-training-2017/debug-and-troubleshoot-14761609?u=76281980&t=310)** So let's go ahead to PHP but this time instead of using print_r, I'm going to use var_dump (debug_backtrace) all one word.
+> **[5:10](https://www.linkedin.com/learning/php-essential-training-2017/debug-and-troubleshoot-14761609?u=76281980&t=310)** So let's go ahead to PHP but this time instead of using print_r, I'm going to use var_dump (debug_backtrace) all one [[Microsoft Word|word]].
 >
 > **[5:20](https://www.linkedin.com/learning/php-essential-training-2017/debug-and-troubleshoot-14761609?u=76281980&t=320)** So let's just try that and see that gives us.
 >
@@ -7713,7 +7672,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (18), [[Debugging]] (6), [[HTML]] (3), next (3), [[SQL]] (2)
+> **Frameworks & Libraries:** [[PHP]] (18), [[HTML]] (3), [[SQL]] (2), [[Microsoft Word|Word]] (2), [[Databases]] (1)
 > **CLI Commands:** php (18), make (4), find (2)
 > **Env Vars:** php (16), html (3), sql (2), dbg (2)
 > **Code Identifiers:** var_dump (9), get_defined_vars (5), debug_backtrace (4), say_hello_to (3)
@@ -7727,22 +7686,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Applying PHP into an HTML website
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-essential-training-2017/applying-php-into-an-html-website?u=76281980)
+#### [Applying PHP into an HTML website](https://www.linkedin.com/learning/php-essential-training-2017/applying-php-into-an-html-website?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/applying-php-into-an-html-website?u=76281980&t=0)** - [Kevin] I want to thank you for taking PHP Essential Training.
+> **[0:00](https://www.linkedin.com/learning/php-essential-training-2017/applying-php-into-an-html-website?u=76281980&t=0)** - [Kevin] I want to thank you for taking [[PHP]] Essential Training.
 >
-> **[0:03](https://www.linkedin.com/learning/php-essential-training-2017/applying-php-into-an-html-website?u=76281980&t=3)** We've learned the fundamentals of writing code in PHP, and you should feel comfortable adding PHP code into an HTML website.
+> **[0:03](https://www.linkedin.com/learning/php-essential-training-2017/applying-php-into-an-html-website?u=76281980&t=3)** We've learned the fundamentals of writing code in PHP, and you should feel comfortable adding PHP code into an [[HTML]] website.
 >
 > **[0:11](https://www.linkedin.com/learning/php-essential-training-2017/applying-php-into-an-html-website?u=76281980&t=11)** PHP features, such as variables, arrays, conditionals, loops, and functions, are all fundamental programming techniques, which will help you in learning other programming languages too.
 >
-> **[0:22](https://www.linkedin.com/learning/php-essential-training-2017/applying-php-into-an-html-website?u=76281980&t=22)** You can build on this PHP foundation by learning to create more complex PHP-driven pages and by using databases to help you to manage content.
+> **[0:22](https://www.linkedin.com/learning/php-essential-training-2017/applying-php-into-an-html-website?u=76281980&t=22)** You can build on this PHP foundation by learning to create more complex PHP-driven pages and by using [[Databases]] to help you to manage content.
 >
-> **[0:31](https://www.linkedin.com/learning/php-essential-training-2017/applying-php-into-an-html-website?u=76281980&t=31)** You can get started by taking my course, PHP with MySQL Essential Training, where we discuss links, forms, data validations, and how you can create, read, update, and delete data in a database.
+> **[0:31](https://www.linkedin.com/learning/php-essential-training-2017/applying-php-into-an-html-website?u=76281980&t=31)** You can get started by taking my course, PHP with [[MySQL]] Essential Training, where we discuss links, [[Forms]], data validations, and how you can create, read, update, and delete data in a database.
 >
-> **[0:45](https://www.linkedin.com/learning/php-essential-training-2017/applying-php-into-an-html-website?u=76281980&t=45)** By the end, you'll be able to create your own content management system to make it easy to maintain website content.
+> **[0:45](https://www.linkedin.com/learning/php-essential-training-2017/applying-php-into-an-html-website?u=76281980&t=45)** By the end, you'll be able to create your own [[Content Management]] system to make it easy to maintain website content.
 >
 > **[0:52](https://www.linkedin.com/learning/php-essential-training-2017/applying-php-into-an-html-website?u=76281980&t=52)** I look forward to seeing the creative ways that you find to add PHP to your projects.
 >
@@ -7750,7 +7708,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (8), [[Programming]] (2), data (2), [[HTML]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[PHP]] (8), [[HTML]] (1), [[Databases]] (1), [[MySQL]] (1), [[Forms]] (1)
 > **CLI Commands:** php (8), mysql (1), make (1), find (1)
 > **Env Vars:** php (8), html (1)
 > **Analogies:** such as (1)

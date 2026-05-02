@@ -31,10 +31,10 @@ created: 2026-05-02
 
 1. [[Build AI Agents and Chatbots with LangGraph]] — 5 mentions
 2. [[Accessibility and AI- Bridging the Disability Divide]] — 3 mentions
-3. [[Gpt Foundations Building Ai Powered Apps]] — 2 mentions
-4. [[Introducing Robotic Process Automation]] — 2 mentions
-5. [[The Startup-SMB Guide to Integrating and Managing AI Agents]] — 2 mentions
-6. [[Azure AI- The Big Picture]] — 2 mentions
+3. [[Azure AI- The Big Picture]] — 3 mentions
+4. [[Gpt Foundations Building Ai Powered Apps]] — 2 mentions
+5. [[Introducing Robotic Process Automation]] — 2 mentions
+6. [[The Startup-SMB Guide to Integrating and Managing AI Agents]] — 2 mentions
 7. [[Leveraging Ai In Your Nonprofit Role By Microsoft And Nethope]] — 2 mentions
 8. [[Nano Tips For Marketing Using AI Tools with Sam Dey]] — 2 mentions
 9. [[AI Foundations- Ideating and Prototyping]] — 2 mentions
@@ -64,12 +64,12 @@ created: 2026-05-02
 
 1. [[Building Agentic AI Systems for Developers]] — 6 total mentions
 2. [[Building AI Agents- Advanced Techniques for Developers]] — 5 total mentions
-3. [[Develop Your Skills with Large Language Models]] — 4 total mentions
-4. [[Building AI Products- Understanding the Workflow Professional Certificate by LinkedIn Learning]] — 4 total mentions
-5. [[Understanding Digital Accessibility]] — 3 total mentions
-6. [[Hands-On Projects for OpenAI-Powered Apps]] — 3 total mentions
-7. [[SS&C Blue Prism Robotic Process Automation Professional Certificate]] — 3 total mentions
-8. [[Foundational AI Skills for Azure Administration]] — 3 total mentions
+3. [[Foundational AI Skills for Azure Administration]] — 4 total mentions
+4. [[Develop Your Skills with Large Language Models]] — 4 total mentions
+5. [[Building AI Products- Understanding the Workflow Professional Certificate by LinkedIn Learning]] — 4 total mentions
+6. [[Understanding Digital Accessibility]] — 3 total mentions
+7. [[Hands-On Projects for OpenAI-Powered Apps]] — 3 total mentions
+8. [[SS&C Blue Prism Robotic Process Automation Professional Certificate]] — 3 total mentions
 9. [[Become an AI Engineer]] — 3 total mentions
 10. [[Build AI Products Using Azure AI Services in Your Development Lifecycle]] — 3 total mentions
 

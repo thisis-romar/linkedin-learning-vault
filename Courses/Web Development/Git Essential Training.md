@@ -116,14 +116,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get started with Git
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/get-started-with-git?u=76281980)
+#### [Get started with Git](https://www.linkedin.com/learning/git-essential-training-25677984/get-started-with-git?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/get-started-with-git?u=76281980&t=0)** - When you work with code, you want to work with Git.
+> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/get-started-with-git?u=76281980&t=0)** - When you work with code, you want to work with [[Git]].
 >
-> **[0:03](https://www.linkedin.com/learning/git-essential-training-25677984/get-started-with-git?u=76281980&t=3)** Git is a must-have tool that you can use for version control, collaboration, and managing open source.
+> **[0:03](https://www.linkedin.com/learning/git-essential-training-25677984/get-started-with-git?u=76281980&t=3)** Git is a must-have tool that you can use for [[Version Control]], collaboration, and managing open source.
 >
 > **[0:11](https://www.linkedin.com/learning/git-essential-training-25677984/get-started-with-git?u=76281980&t=11)** It's lightweight and it's easy to install, but it can be pretty hard to start using.
 >
@@ -131,7 +130,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/git-essential-training-25677984/get-started-with-git?u=76281980&t=21)** Maybe even giving up thinking it's too complicated, but it doesn't have to be.
 >
-> **[0:26](https://www.linkedin.com/learning/git-essential-training-25677984/get-started-with-git?u=76281980&t=26)** Hi, I am Barbara Forbes and I am an Azure MVP and a GitHub star.
+> **[0:26](https://www.linkedin.com/learning/git-essential-training-25677984/get-started-with-git?u=76281980&t=26)** Hi, I am Barbara Forbes and I am an [[Microsoft Azure|Azure]] MVP and a [[GitHub]] star.
 >
 > **[0:30](https://www.linkedin.com/learning/git-essential-training-25677984/get-started-with-git?u=76281980&t=30)** In this course, I'll walk you through the basics, and get you up and running with Git.
 >
@@ -147,28 +146,27 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - when (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/git-essential-training-25677984/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/what-you-should-know?u=76281980&t=0)** - This course aims to be as approachable as possible, no matter your background.
 >
-> **[0:06](https://www.linkedin.com/learning/git-essential-training-25677984/what-you-should-know?u=76281980&t=6)** We're starting from the very beginning, so you don't need any prior knowledge of Git.
+> **[0:06](https://www.linkedin.com/learning/git-essential-training-25677984/what-you-should-know?u=76281980&t=6)** We're starting from the very beginning, so you don't need any prior knowledge of [[Git]].
 >
 > **[0:11](https://www.linkedin.com/learning/git-essential-training-25677984/what-you-should-know?u=76281980&t=11)** You also don't need to know any specific programming languages.
 >
 > **[0:16](https://www.linkedin.com/learning/git-essential-training-25677984/what-you-should-know?u=76281980&t=16)** This course is all about the basics of Git.
 >
-> **[0:18](https://www.linkedin.com/learning/git-essential-training-25677984/what-you-should-know?u=76281980&t=18)** If you want to follow along, you can use GitHub Codespaces, which will give you the exact same setups I'm using.
+> **[0:18](https://www.linkedin.com/learning/git-essential-training-25677984/what-you-should-know?u=76281980&t=18)** If you want to follow along, you can use [[GitHub]] [[Codespaces]], which will give you the exact same setups I'm using.
 >
 > **[0:26](https://www.linkedin.com/learning/git-essential-training-25677984/what-you-should-know?u=76281980&t=26)** The process will be explained in a later video.
 >
-> **[0:29](https://www.linkedin.com/learning/git-essential-training-25677984/what-you-should-know?u=76281980&t=29)** But you're also welcome to use your own device, whether it's Windows, Linux, or MacOS.
+> **[0:29](https://www.linkedin.com/learning/git-essential-training-25677984/what-you-should-know?u=76281980&t=29)** But you're also welcome to use your own device, whether it's [[Windows]], [[Linux]], or MacOS.
 >
 > **[0:34](https://www.linkedin.com/learning/git-essential-training-25677984/what-you-should-know?u=76281980&t=34)** We will work from the command line, so it is helpful if you're already comfortable with that.
 >
-> **[0:40](https://www.linkedin.com/learning/git-essential-training-25677984/what-you-should-know?u=76281980&t=40)** In the codespace, we'll use a Linux command line, but you can also use other command lines, like PowerShell if you prefer.
+> **[0:40](https://www.linkedin.com/learning/git-essential-training-25677984/what-you-should-know?u=76281980&t=40)** In the codespace, we'll use a Linux command line, but you can also use other command lines, like [[Powershell]] if you prefer.
 >
 > **[0:47](https://www.linkedin.com/learning/git-essential-training-25677984/what-you-should-know?u=76281980&t=47)** This course won't focus on coding or any particular programming language.
 >
@@ -182,7 +180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (4), [[Programming]] (2), [[Linux]] (2), [[GitHub]] (1), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[Git]] (4), [[Linux]] (2), [[GitHub]] (1), [[Codespaces]] (1), [[Windows]] (1)
 > **CLI Commands:** git (4)
 > **Tools:** command line (2), github (1), powershell (1)
 > **Speakers:** - this (1)
@@ -192,18 +190,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Git for version control
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/git-for-version-control?u=76281980)
+#### [Git for version control](https://www.linkedin.com/learning/git-essential-training-25677984/git-for-version-control?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/git-for-version-control?u=76281980&t=0)** - [Instructor] Let's start by discussing why you would use Git and see what problems we're trying to solve.
+> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/git-for-version-control?u=76281980&t=0)** - [Instructor] Let's start by discussing why you would use [[Git]] and see what problems we're trying to solve.
 >
 > **[0:06](https://www.linkedin.com/learning/git-essential-training-25677984/git-for-version-control?u=76281980&t=6)** This chapter isn't about how the technical side of Git works.
 >
 > **[0:09](https://www.linkedin.com/learning/git-essential-training-25677984/git-for-version-control?u=76281980&t=9)** We are going to focus on the concepts.
 >
-> **[0:12](https://www.linkedin.com/learning/git-essential-training-25677984/git-for-version-control?u=76281980&t=12)** So one of the big reasons to use Git is for version control.
+> **[0:12](https://www.linkedin.com/learning/git-essential-training-25677984/git-for-version-control?u=76281980&t=12)** So one of the big reasons to use Git is for [[Version Control]].
 >
 > **[0:16](https://www.linkedin.com/learning/git-essential-training-25677984/git-for-version-control?u=76281980&t=16)** Let's think of a scenario.
 >
@@ -241,7 +238,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/git-essential-training-25677984/git-for-version-control?u=76281980&t=104)** So in this image, we are working in our file explorer at the bottom.
 >
-> **[1:49](https://www.linkedin.com/learning/git-essential-training-25677984/git-for-version-control?u=76281980&t=109)** Whether we're on Windows or Linux or Mac, this is where our files are stored, and we install Git, which is a separate piece of software on our machine.
+> **[1:49](https://www.linkedin.com/learning/git-essential-training-25677984/git-for-version-control?u=76281980&t=109)** Whether we're on [[Windows]] or [[Linux]] or Mac, this is where our files are stored, and we install Git, which is a separate piece of software on our machine.
 >
 > **[1:58](https://www.linkedin.com/learning/git-essential-training-25677984/git-for-version-control?u=76281980&t=118)** So in a first scenario, we would create version two and version three.
 >
@@ -267,7 +264,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/git-essential-training-25677984/git-for-version-control?u=76281980&t=189)** We can solve this problem by using a Git provider.
 >
-> **[3:12](https://www.linkedin.com/learning/git-essential-training-25677984/git-for-version-control?u=76281980&t=192)** This is some sort of cloud source that is specifically made for Git like GitHub.
+> **[3:12](https://www.linkedin.com/learning/git-essential-training-25677984/git-for-version-control?u=76281980&t=192)** This is some sort of cloud source that is specifically made for Git like [[GitHub]].
 >
 > **[3:18](https://www.linkedin.com/learning/git-essential-training-25677984/git-for-version-control?u=76281980&t=198)** We can now take a complete version history that we have locally and make sure that it's also stored somewhere in the cloud.
 >
@@ -275,19 +272,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (13), [[Version Control]] (2), cloud (2), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Git]] (13), [[Version Control]] (2), [[Windows]] (1), [[Linux]] (1), [[GitHub]] (1)
 > **CLI Commands:** git (13), make (5)
 > **Definitions:** is a  (1), we call this (1), means that (1)
 > **Tools:** github (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Git to share code
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/git-to-share-code?u=76281980)
+#### [Git to share code](https://www.linkedin.com/learning/git-essential-training-25677984/git-to-share-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/git-to-share-code?u=76281980&t=0)** - [Instructor] Let's look at another scenario where Git can help you out.
+> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/git-to-share-code?u=76281980&t=0)** - [Instructor] Let's look at another scenario where [[Git]] can help you out.
 >
 > **[0:04](https://www.linkedin.com/learning/git-essential-training-25677984/git-to-share-code?u=76281980&t=4)** Have you ever tried to share a file with code with a coworker or with a friend?
 >
@@ -305,7 +301,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/git-essential-training-25677984/git-to-share-code?u=76281980&t=35)** That's really a bit old-fashioned at this point.
 >
-> **[0:38](https://www.linkedin.com/learning/git-essential-training-25677984/git-to-share-code?u=76281980&t=38)** You can do it in SharePoint, but again, there might be issues with spam, and it could get messy if people start working in the same file.
+> **[0:38](https://www.linkedin.com/learning/git-essential-training-25677984/git-to-share-code?u=76281980&t=38)** You can do it in [[SharePoint]], but again, there might be issues with spam, and it could get messy if people start working in the same file.
 >
 > **[0:46](https://www.linkedin.com/learning/git-essential-training-25677984/git-to-share-code?u=76281980&t=46)** So this is where Git comes in.
 >
@@ -321,20 +317,19 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/git-essential-training-25677984/git-to-share-code?u=76281980&t=70)** By doing this, they get access to our code, and they can get this code to their computer.
 >
-> **[1:16](https://www.linkedin.com/learning/git-essential-training-25677984/git-to-share-code?u=76281980&t=76)** So they can either download it directly from the web interface, or they can install Git themselves and use it for their own version control while they're working in this repository.
+> **[1:16](https://www.linkedin.com/learning/git-essential-training-25677984/git-to-share-code?u=76281980&t=76)** So they can either download it directly from the web interface, or they can install Git themselves and use it for their own [[Version Control]] while they're working in this repository.
 >
 > **[1:26](https://www.linkedin.com/learning/git-essential-training-25677984/git-to-share-code?u=76281980&t=86)** So this is how Git can help you when you want to share some code with someone else.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (5), [[SharePoint]] (1), web (1), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[Git]] (5), [[SharePoint]] (1), [[Version Control]] (1)
 > **CLI Commands:** git (5), make (2)
 > **Env Vars:** usb (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Git to collaborate
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/git-to-collaborate?u=76281980)
+#### [Git to collaborate](https://www.linkedin.com/learning/git-essential-training-25677984/git-to-collaborate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -346,7 +341,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/git-essential-training-25677984/git-to-collaborate?u=76281980&t=11)** On the left, we have our own computer.
 >
-> **[0:14](https://www.linkedin.com/learning/git-essential-training-25677984/git-to-collaborate?u=76281980&t=14)** We are working on a file, and we have added that file to the Git provider so that it is available there.
+> **[0:14](https://www.linkedin.com/learning/git-essential-training-25677984/git-to-collaborate?u=76281980&t=14)** We are working on a file, and we have added that file to the [[Git]] provider so that it is available there.
 >
 > **[0:20](https://www.linkedin.com/learning/git-essential-training-25677984/git-to-collaborate?u=76281980&t=20)** On the right is our coworker or our friend who also wants to work on this file.
 >
@@ -376,12 +371,11 @@ created: 2026-05-02
 > **CLI Commands:** git (7), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Open source
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/open-source?u=76281980)
+#### [Open source](https://www.linkedin.com/learning/git-essential-training-25677984/open-source?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/open-source?u=76281980&t=0)** - Git is great for the process of open-source software.
+> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/open-source?u=76281980&t=0)** - [[Git]] is great for the process of [[Open-Source Software]].
 >
 > **[0:04](https://www.linkedin.com/learning/git-essential-training-25677984/open-source?u=76281980&t=4)** Open source means that all the code behind the software is publicly available, and you are able to see it and change it.
 >
@@ -445,7 +439,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (5), open-source (2), feature (1)
+> **Frameworks & Libraries:** [[Git]] (5), [[Open-Source Software]] (2)
 > **CLI Commands:** git (5), make (2), find (1)
 > **Definitions:** is a  (2), means that (1)
 > **Exercise Files:** source code (1)
@@ -458,12 +452,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use Git locally
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/use-git-locally?u=76281980)
+#### [Use Git locally](https://www.linkedin.com/learning/git-essential-training-25677984/use-git-locally?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/use-git-locally?u=76281980&t=0)** - We have seen what the concept of Git is.
+> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/use-git-locally?u=76281980&t=0)** - We have seen what the concept of [[Git]] is.
 >
 > **[0:03](https://www.linkedin.com/learning/git-essential-training-25677984/use-git-locally?u=76281980&t=3)** Now let's get an understanding of how it works on a technical level.
 >
@@ -501,22 +494,21 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/git-essential-training-25677984/use-git-locally?u=76281980&t=112)** So by using Git locally, we can create snapshots of our process and revert to previous versions if needed without making a mess of our file explorer with multiple versions of the same file.
 >
-> **[2:04](https://www.linkedin.com/learning/git-essential-training-25677984/use-git-locally?u=76281980&t=124)** That is how Git helps us manage our projects on a local level, making version control simple and efficient.
+> **[2:04](https://www.linkedin.com/learning/git-essential-training-25677984/use-git-locally?u=76281980&t=124)** That is how Git helps us manage our projects on a local level, making [[Version Control]] simple and efficient.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (11), management (1), database (1), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[Git]] (11), [[Version Control]] (1)
 > **CLI Commands:** git (11)
 > **Analogies:** just like (1), for example (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - we (1)
 
-#### Use a Git provider
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/use-a-git-provider?u=76281980)
+#### [Use a Git provider](https://www.linkedin.com/learning/git-essential-training-25677984/use-a-git-provider?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/use-a-git-provider?u=76281980&t=0)** - [Narrator] In the last video, we saw how we could use Git locally.
+> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/use-a-git-provider?u=76281980&t=0)** - [Narrator] In the last video, we saw how we could use [[Git]] locally.
 >
 > **[0:04](https://www.linkedin.com/learning/git-essential-training-25677984/use-a-git-provider?u=76281980&t=4)** Now let's move on and see how we can push our code to a remote repository.
 >
@@ -543,18 +535,17 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [narrator] (1)
 
-#### Distributed version control
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/distributed-version-control?u=76281980)
+#### [Distributed version control](https://www.linkedin.com/learning/git-essential-training-25677984/distributed-version-control?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/distributed-version-control?u=76281980&t=0)** - [Instructor] Git is what we call a distributed version control system.
+> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/distributed-version-control?u=76281980&t=0)** - [Instructor] [[Git]] is what we call a distributed [[Version Control]] system.
 >
 > **[0:04](https://www.linkedin.com/learning/git-essential-training-25677984/distributed-version-control?u=76281980&t=4)** In this video, we're going to break down what that actually means.
 >
 > **[0:08](https://www.linkedin.com/learning/git-essential-training-25677984/distributed-version-control?u=76281980&t=8)** To understand it better, let's first look at centralized version control.
 >
-> **[0:13](https://www.linkedin.com/learning/git-essential-training-25677984/distributed-version-control?u=76281980&t=13)** This is the kind of system you know from tools like OneDrive or Dropbox.
+> **[0:13](https://www.linkedin.com/learning/git-essential-training-25677984/distributed-version-control?u=76281980&t=13)** This is the kind of system you know from tools like [[Microsoft OneDrive|OneDrive]] or Dropbox.
 >
 > **[0:18](https://www.linkedin.com/learning/git-essential-training-25677984/distributed-version-control?u=76281980&t=18)** In a centralized system, all your files are stored on a server and you sync your local files with them, but you are always working with the latest version.
 >
@@ -588,12 +579,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to start working with Git
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/how-to-start-working-with-git?u=76281980)
+#### [How to start working with Git](https://www.linkedin.com/learning/git-essential-training-25677984/how-to-start-working-with-git?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/how-to-start-working-with-git?u=76281980&t=0)** - We've covered the basics of Git, and now it's time to put that knowledge into practice.
+> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/how-to-start-working-with-git?u=76281980&t=0)** - We've covered the basics of [[Git]], and now it's time to put that knowledge into practice.
 >
 > **[0:05](https://www.linkedin.com/learning/git-essential-training-25677984/how-to-start-working-with-git?u=76281980&t=5)** But before we do, I want to share a few tips with you.
 >
@@ -638,14 +628,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use a Codespace for this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/use-a-codespace-for-this-course?u=76281980)
+#### [Use a Codespace for this course](https://www.linkedin.com/learning/git-essential-training-25677984/use-a-codespace-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/use-a-codespace-for-this-course?u=76281980&t=0)** - You will probably be using Git in your local environment, and the videos in this chapter will help you to make sure you can install and configure Git.
+> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/use-a-codespace-for-this-course?u=76281980&t=0)** - You will probably be using [[Git]] in your local environment, and the videos in this chapter will help you to make sure you can install and configure Git.
 >
-> **[0:09](https://www.linkedin.com/learning/git-essential-training-25677984/use-a-codespace-for-this-course?u=76281980&t=9)** But if you want to follow along with this course, I recommend making use of GitHub Codespaces.
+> **[0:09](https://www.linkedin.com/learning/git-essential-training-25677984/use-a-codespace-for-this-course?u=76281980&t=9)** But if you want to follow along with this course, I recommend making use of [[GitHub]] [[Codespaces]].
 >
 > **[0:15](https://www.linkedin.com/learning/git-essential-training-25677984/use-a-codespace-for-this-course?u=76281980&t=15)** This is an online environment that will have a set configuration.
 >
@@ -701,7 +690,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (11), [[Git]] (4), [[GitHub]] (2), next (1)
+> **Frameworks & Libraries:** [[Codespaces]] (11), [[Git]] (4), [[GitHub]] (2)
 > **CLI Commands:** git (4), make (1)
 > **Prerequisites:** install (2), configure (1), setup (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -710,16 +699,15 @@ created: 2026-05-02
 > **Definitions:** is an  (1), means that (1)
 > **Speakers:** - you (1)
 
-#### Install Git on Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-windows?u=76281980)
+#### [Install Git on Windows](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-windows?u=76281980&t=0)** - [Instructor] In this video, we will walk through installing Git on a Windows device.
+> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-windows?u=76281980&t=0)** - [Instructor] In this video, we will walk through installing [[Git]] on a [[Windows]] device.
 >
 > **[0:05](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-windows?u=76281980&t=5)** If you use one for your coding, you can follow along.
 >
-> **[0:09](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-windows?u=76281980&t=9)** No matter what system you're using, Linux, windows, or macOS, the process starts at the same website, [git-scm.com](https://git-scm.com).
+> **[0:09](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-windows?u=76281980&t=9)** No matter what system you're using, [[Linux]], windows, or macOS, the process starts at the same website, [git-scm.com](https://git-scm.com).
 >
 > **[0:20](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-windows?u=76281980&t=20)** You can also just search for Git in any search engine, and it will likely be the first result.
 >
@@ -807,7 +795,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-windows?u=76281980&t=221)** Let's check if everything is working.
 >
-> **[3:43](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-windows?u=76281980&t=223)** I'll open PowerShell and type git.
+> **[3:43](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-windows?u=76281980&t=223)** I'll open [[Powershell]] and type git.
 >
 > **[3:47](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-windows?u=76281980&t=227)** If Git responds like this, it means it's installed and ready to use.
 >
@@ -819,7 +807,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (20), [[Windows]] (7), next (7), [[Linux]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Git]] (20), [[Windows]] (7), [[Linux]] (2), [[Powershell]] (1)
 > **CLI Commands:** git (20), find (2), make (1), ssh (1)
 > **Prerequisites:** setup (3), install (3), configure (1), set up (1)
 > **Tools:** vim (2), visual studio (2), command line (1), terminal (1), powershell (1)
@@ -828,12 +816,11 @@ created: 2026-05-02
 > **Env Vars:** ssh (1)
 > **Warnings:** note that (1)
 
-#### Install Git on Linux (PPT)
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-linux-ppt?u=76281980)
+#### [Install Git on Linux (PPT)](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-linux-ppt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-linux-ppt?u=76281980&t=0)** - [Instructor] In this video, we will see how we can install Git on a Linux device.
+> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-linux-ppt?u=76281980&t=0)** - [Instructor] In this video, we will see how we can install [[Git]] on a [[Linux]] device.
 >
 > **[0:05](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-linux-ppt?u=76281980&t=5)** If you want to install Git on Linux, you can start by going to the official website, [git-scm.com](https://git-scm.com).
 >
@@ -841,7 +828,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-linux-ppt?u=76281980&t=25)** Just look for the operating system you're using and follow the recommended command.
 >
-> **[0:30](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-linux-ppt?u=76281980&t=30)** For this example, I'm using Ubuntu.
+> **[0:30](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-linux-ppt?u=76281980&t=30)** For this example, I'm using [[Ubuntu]].
 >
 > **[0:33](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-linux-ppt?u=76281980&t=33)** Now, the good thing about Ubuntu is that Git often comes pre-installed.
 >
@@ -869,12 +856,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install Git on macOS
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-macos?u=76281980)
+#### [Install Git on macOS](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-macos?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-macos?u=76281980&t=0)** - [Instructor] If you are using a Mac, Git might already be installed, but there's a good chance it's outdated.
+> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-macos?u=76281980&t=0)** - [Instructor] If you are using a Mac, [[Git]] might already be installed, but there's a good chance it's outdated.
 >
 > **[0:07](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-macos?u=76281980&t=7)** You can check by opening terminal and running git --version.
 >
@@ -896,7 +882,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-macos?u=76281980&t=61)** We can now see Git has been updated.
 >
-> **[1:04](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-macos?u=76281980&t=64)** Other options you can find on the website include using MacPorts or Xcode, which already comes with Git built-in.
+> **[1:04](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-macos?u=76281980&t=64)** Other options you can find on the website include using MacPorts or [[Xcode]], which already comes with Git built-in.
 >
 > **[1:11](https://www.linkedin.com/learning/git-essential-training-25677984/install-git-on-macos?u=76281980&t=71)** There's also a binary installer with a graphical setup, but as of now, it is outdated, so I would not recommend it.
 >
@@ -904,7 +890,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (7), hit (1), [[Xcode]] (1)
+> **Frameworks & Libraries:** [[Git]] (7), [[Xcode]] (1)
 > **CLI Commands:** git (7), brew (1), find (1)
 > **Prerequisites:** install (3), setup (1)
 > **Tools:** terminal (3)
@@ -913,12 +899,11 @@ created: 2026-05-02
 > **URLs:** [git-scm.com](https://git-scm.com) (1)
 > **Cross-References:** go back to (1)
 
-#### Git GUI clients
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/git-gui-clients?u=76281980)
+#### [Git GUI clients](https://www.linkedin.com/learning/git-essential-training-25677984/git-gui-clients?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/git-gui-clients?u=76281980&t=0)** - [Instructor] Git is a command line tool, but as we have seen, keeping track of file history can get complicated, especially in long running projects.
+> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/git-gui-clients?u=76281980&t=0)** - [Instructor] [[Git]] is a command line tool, but as we have seen, keeping track of file history can get complicated, especially in long running projects.
 >
 > **[0:09](https://www.linkedin.com/learning/git-essential-training-25677984/git-gui-clients?u=76281980&t=9)** That's where Git GUI clients come in.
 >
@@ -940,7 +925,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (5), next (1)
+> **Frameworks & Libraries:** [[Git]] (5)
 > **CLI Commands:** git (5), find (3)
 > **Env Vars:** gui (4)
 > **Tools:** command line (1), visual studio (1)
@@ -949,24 +934,23 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Optional: Install Visual Studio Code
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/optional-install-visual-studio-code?u=76281980)
+#### [Optional: Install Visual Studio Code](https://www.linkedin.com/learning/git-essential-training-25677984/optional-install-visual-studio-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/optional-install-visual-studio-code?u=76281980&t=0)** - [Instructor] I want to give a special mention to Visual Studio Code, one of the available GUI clients.
 >
-> **[0:07](https://www.linkedin.com/learning/git-essential-training-25677984/optional-install-visual-studio-code?u=76281980&t=7)** Visual Studio Code or VS Code for short has built in support for Git, giving you a good starting point to work with.
+> **[0:07](https://www.linkedin.com/learning/git-essential-training-25677984/optional-install-visual-studio-code?u=76281980&t=7)** Visual Studio Code or VS Code for short has built in support for [[Git]], giving you a good starting point to work with.
 >
 > **[0:15](https://www.linkedin.com/learning/git-essential-training-25677984/optional-install-visual-studio-code?u=76281980&t=15)** But beyond that, there is also some great extensions and it can help you with the process.
 >
-> **[0:21](https://www.linkedin.com/learning/git-essential-training-25677984/optional-install-visual-studio-code?u=76281980&t=21)** Working with Visual Studio Code is very similar to the experience with Codespaces.
+> **[0:21](https://www.linkedin.com/learning/git-essential-training-25677984/optional-install-visual-studio-code?u=76281980&t=21)** Working with Visual Studio Code is very similar to the experience with [[Codespaces]].
 >
 > **[0:27](https://www.linkedin.com/learning/git-essential-training-25677984/optional-install-visual-studio-code?u=76281980&t=27)** To install Visual Studio Code go to code.[visualstudio.com](https://visualstudio.com).
 >
 > **[0:32](https://www.linkedin.com/learning/git-essential-training-25677984/optional-install-visual-studio-code?u=76281980&t=32)** You can download VS Code directly via the button or click the download button at the top right here to get available options.
 >
-> **[0:41](https://www.linkedin.com/learning/git-essential-training-25677984/optional-install-visual-studio-code?u=76281980&t=41)** I am going to use the system installer for Windows as I am an admin on this computer.
+> **[0:41](https://www.linkedin.com/learning/git-essential-training-25677984/optional-install-visual-studio-code?u=76281980&t=41)** I am going to use the system installer for [[Windows]] as I am an admin on this computer.
 >
 > **[0:49](https://www.linkedin.com/learning/git-essential-training-25677984/optional-install-visual-studio-code?u=76281980&t=49)** Once the file is downloaded, we can open it from here and it'll open up a wizard.
 >
@@ -992,7 +976,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (5), [[Codespaces]] (1), [[Windows]] (1), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Git]] (5), [[Codespaces]] (1), [[Windows]] (1)
 > **CLI Commands:** git (5), find (2), make (1)
 > **Tools:** visual studio (6), vs code (2)
 > **Env Vars:** gui (2)
@@ -1001,12 +985,11 @@ created: 2026-05-02
 > **URLs:** [visualstudio.com](https://visualstudio.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure Git
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/configure-git?u=76281980)
+#### [Configure Git](https://www.linkedin.com/learning/git-essential-training-25677984/configure-git?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/configure-git?u=76281980&t=0)** - [Instructor] When we have Git on our local computer, we have some configuration that we can do and some that needs to be done.
+> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/configure-git?u=76281980&t=0)** - [Instructor] When we have [[Git]] on our local computer, we have some configuration that we can do and some that needs to be done.
 >
 > **[0:07](https://www.linkedin.com/learning/git-essential-training-25677984/configure-git?u=76281980&t=7)** You don't need to do this if you're using a code space, but you should still be aware of the mandatory configuration for when you move to a local device.
 >
@@ -1024,7 +1007,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/git-essential-training-25677984/configure-git?u=76281980&t=48)** You can find it in a folder in your repository called .git.
 >
-> **[0:53](https://www.linkedin.com/learning/git-essential-training-25677984/configure-git?u=76281980&t=53)** Note that on Windows, this might be a hidden folder.
+> **[0:53](https://www.linkedin.com/learning/git-essential-training-25677984/configure-git?u=76281980&t=53)** Note that on [[Windows]], this might be a hidden folder.
 >
 > **[0:56](https://www.linkedin.com/learning/git-essential-training-25677984/configure-git?u=76281980&t=56)** The settings in this file will override any settings in the global configuration.
 >
@@ -1068,12 +1051,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Set up a remote repository
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/set-up-a-remote-repository?u=76281980)
+#### [Set up a remote repository](https://www.linkedin.com/learning/git-essential-training-25677984/set-up-a-remote-repository?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/set-up-a-remote-repository?u=76281980&t=0)** - In this chapter, we'll create a remote repository to practice using Git.
+> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/set-up-a-remote-repository?u=76281980&t=0)** - In this chapter, we'll create a remote repository to practice using [[Git]].
 >
 > **[0:05](https://www.linkedin.com/learning/git-essential-training-25677984/set-up-a-remote-repository?u=76281980&t=5)** A remote repository is stored on a Git provider.
 >
@@ -1081,11 +1063,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/git-essential-training-25677984/set-up-a-remote-repository?u=76281980&t=13)** Since it's in the cloud, you can access it anywhere and pull your code onto different computers.
 >
-> **[0:20](https://www.linkedin.com/learning/git-essential-training-25677984/set-up-a-remote-repository?u=76281980&t=20)** There are several Git providers to choose from, such as GitHub, GitLab, and Bitbucket.
+> **[0:20](https://www.linkedin.com/learning/git-essential-training-25677984/set-up-a-remote-repository?u=76281980&t=20)** There are several Git providers to choose from, such as [[GitHub]], GitLab, and [[Bitbucket]].
 >
 > **[0:26](https://www.linkedin.com/learning/git-essential-training-25677984/set-up-a-remote-repository?u=76281980&t=26)** While their interfaces might look different, they all follow the same core concepts, so once you learn one, switching to another is easy.
 >
-> **[0:35](https://www.linkedin.com/learning/git-essential-training-25677984/set-up-a-remote-repository?u=76281980&t=35)** We are going to use GitHub for this course as it also makes it possible for us to use GitHub Codespaces.
+> **[0:35](https://www.linkedin.com/learning/git-essential-training-25677984/set-up-a-remote-repository?u=76281980&t=35)** We are going to use GitHub for this course as it also makes it possible for us to use GitHub [[Codespaces]].
 >
 > **[0:42](https://www.linkedin.com/learning/git-essential-training-25677984/set-up-a-remote-repository?u=76281980&t=42)** If you don't have an account yet, head to [github.com](https://github.com) and sign up.
 >
@@ -1135,7 +1117,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (5), [[GitHub]] (5), cloud (2), next (2), [[Bitbucket]] (1)
+> **Frameworks & Libraries:** [[Git]] (5), [[GitHub]] (5), [[Bitbucket]] (1), [[Codespaces]] (1)
 > **Tools:** github (5), gitlab (1), bitbucket (1)
 > **CLI Commands:** git (5)
 > **Env Vars:** url (2), readme (2)
@@ -1144,8 +1126,7 @@ created: 2026-05-02
 > **URLs:** [github.com](https://github.com) (2)
 > **Best Practices:** it's best to (1), best practice (1)
 
-#### Fork the course repository
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/fork-the-course-repository?u=76281980)
+#### [Fork the course repository](https://www.linkedin.com/learning/git-essential-training-25677984/fork-the-course-repository?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1185,8 +1166,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Clone the remote repository
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/clone-the-remote-repository?u=76281980)
+#### [Clone the remote repository](https://www.linkedin.com/learning/git-essential-training-25677984/clone-the-remote-repository?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1218,11 +1198,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/git-essential-training-25677984/clone-the-remote-repository?u=76281980&t=67)** You can use any terminal you prefer.
 >
-> **[1:09](https://www.linkedin.com/learning/git-essential-training-25677984/clone-the-remote-repository?u=76281980&t=69)** I'm using PowerShell, but you could use CMD on Windows or the terminal on Mac or Linux.
+> **[1:09](https://www.linkedin.com/learning/git-essential-training-25677984/clone-the-remote-repository?u=76281980&t=69)** I'm using [[Powershell]], but you could use CMD on [[Windows]] or the terminal on Mac or [[Linux]].
 >
 > **[1:14](https://www.linkedin.com/learning/git-essential-training-25677984/clone-the-remote-repository?u=76281980&t=74)** The experience should be the same.
 >
-> **[1:17](https://www.linkedin.com/learning/git-essential-training-25677984/clone-the-remote-repository?u=76281980&t=77)** I've already set up a folder where I keep all my Git repositories.
+> **[1:17](https://www.linkedin.com/learning/git-essential-training-25677984/clone-the-remote-repository?u=76281980&t=77)** I've already set up a folder where I keep all my [[Git]] repositories.
 >
 > **[1:21](https://www.linkedin.com/learning/git-essential-training-25677984/clone-the-remote-repository?u=76281980&t=81)** In this case, I named it Code.
 >
@@ -1230,7 +1210,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/git-essential-training-25677984/clone-the-remote-repository?u=76281980&t=86)** I'll type git clone, and then paste the URL that we just copied, and I'll press Enter and the cloning will begin.
 >
-> **[1:36](https://www.linkedin.com/learning/git-essential-training-25677984/clone-the-remote-repository?u=76281980&t=96)** This might be a part where the computer asks you to sign into GitHub because it needs a connection with your local device.
+> **[1:36](https://www.linkedin.com/learning/git-essential-training-25677984/clone-the-remote-repository?u=76281980&t=96)** This might be a part where the computer asks you to sign into [[GitHub]] because it needs a connection with your local device.
 >
 > **[1:44](https://www.linkedin.com/learning/git-essential-training-25677984/clone-the-remote-repository?u=76281980&t=104)** If you do, make use of signing up with the browser, as that is one of the easiest ways to do it.
 >
@@ -1262,20 +1242,19 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a file and stage it
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/create-a-file-and-stage-it?u=76281980)
+#### [Create a file and stage it](https://www.linkedin.com/learning/git-essential-training-25677984/create-a-file-and-stage-it?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/create-a-file-and-stage-it?u=76281980&t=0)** - [Instructor] Okay, we have set up the repository.
 >
-> **[0:03](https://www.linkedin.com/learning/git-essential-training-25677984/create-a-file-and-stage-it?u=76281980&t=3)** In this video, we will see how we can stage a file in Git.
+> **[0:03](https://www.linkedin.com/learning/git-essential-training-25677984/create-a-file-and-stage-it?u=76281980&t=3)** In this video, we will see how we can stage a file in [[Git]].
 >
 > **[0:08](https://www.linkedin.com/learning/git-essential-training-25677984/create-a-file-and-stage-it?u=76281980&t=8)** As we saw in the previous video, we will start with the files in the file explorer and move them to the staging area.
 >
 > **[0:17](https://www.linkedin.com/learning/git-essential-training-25677984/create-a-file-and-stage-it?u=76281980&t=17)** If you follow along with the codespace, this is your time to open it.
 >
-> **[0:21](https://www.linkedin.com/learning/git-essential-training-25677984/create-a-file-and-stage-it?u=76281980&t=21)** Go to the GitHub repository you created before, click Code, and make sure you're on the tab for codespaces.
+> **[0:21](https://www.linkedin.com/learning/git-essential-training-25677984/create-a-file-and-stage-it?u=76281980&t=21)** Go to the [[GitHub]] repository you created before, click Code, and make sure you're on the tab for [[Codespaces]].
 >
 > **[0:28](https://www.linkedin.com/learning/git-essential-training-25677984/create-a-file-and-stage-it?u=76281980&t=28)** If you are, select Create Codespace on Main.
 >
@@ -1321,7 +1300,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (7), [[GitHub]] (1), [[Codespaces]] (1), next (1)
+> **Frameworks & Libraries:** [[Git]] (7), [[GitHub]] (1), [[Codespaces]] (1)
 > **CLI Commands:** git (7), make (1)
 > **Cross-References:** as we saw (1), previous video (1), in the next (1)
 > **Tools:** github (1), terminal (1)
@@ -1330,8 +1309,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Commit a file
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/commit-a-file?u=76281980)
+#### [Commit a file](https://www.linkedin.com/learning/git-essential-training-25677984/commit-a-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1341,7 +1319,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/git-essential-training-25677984/commit-a-file?u=76281980&t=8)** So just a little bit of a refresher.
 >
-> **[0:12](https://www.linkedin.com/learning/git-essential-training-25677984/commit-a-file?u=76281980&t=12)** We are now using Git to take the changes that are in the staging area and store them in our local repository to create a snapshot.
+> **[0:12](https://www.linkedin.com/learning/git-essential-training-25677984/commit-a-file?u=76281980&t=12)** We are now using [[Git]] to take the changes that are in the staging area and store them in our local repository to create a snapshot.
 >
 > **[0:21](https://www.linkedin.com/learning/git-essential-training-25677984/commit-a-file?u=76281980&t=21)** We are back at our repository with the file example.md in our staging area.
 >
@@ -1361,15 +1339,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (4), next (1)
+> **Frameworks & Libraries:** [[Git]] (4)
 > **CLI Commands:** git (4)
 > **File Paths:** example.md (2)
 > **Cross-References:** in the last (1), in the next (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Push the file to the remote repository
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/push-the-file-to-the-remote-repository?u=76281980)
+#### [Push the file to the remote repository](https://www.linkedin.com/learning/git-essential-training-25677984/push-the-file-to-the-remote-repository?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1377,7 +1354,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/git-essential-training-25677984/push-the-file-to-the-remote-repository?u=76281980&t=8)** Going back to our environment, we have a file in our local repository that hasn't been pushed to the remote repository yet.
 >
-> **[0:15](https://www.linkedin.com/learning/git-essential-training-25677984/push-the-file-to-the-remote-repository?u=76281980&t=15)** We ran git status, and we can see that our local branch is ahead of the remote one, and it tells us exactly what to do next.
+> **[0:15](https://www.linkedin.com/learning/git-essential-training-25677984/push-the-file-to-the-remote-repository?u=76281980&t=15)** We ran [[Git]] status, and we can see that our local branch is ahead of the remote one, and it tells us exactly what to do next.
 >
 > **[0:23](https://www.linkedin.com/learning/git-essential-training-25677984/push-the-file-to-the-remote-repository?u=76281980&t=23)** We need to use git push.
 >
@@ -1397,14 +1374,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (3), next (1), web (1)
+> **Frameworks & Libraries:** [[Git]] (3)
 > **CLI Commands:** git (3), make (1)
 > **File Paths:** example.md (2)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pull changes from the remote repository
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/pull-changes-from-the-remote-repository?u=76281980)
+#### [Pull changes from the remote repository](https://www.linkedin.com/learning/git-essential-training-25677984/pull-changes-from-the-remote-repository?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1422,7 +1398,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/git-essential-training-25677984/pull-changes-from-the-remote-repository?u=76281980&t=30)** If you are using a code space, make sure the one you were using is still opened up or open a new one before you take the next step.
 >
-> **[0:39](https://www.linkedin.com/learning/git-essential-training-25677984/pull-changes-from-the-remote-repository?u=76281980&t=39)** So we have the GitHub repository in the web interface.
+> **[0:39](https://www.linkedin.com/learning/git-essential-training-25677984/pull-changes-from-the-remote-repository?u=76281980&t=39)** So we have the [[GitHub]] repository in the web interface.
 >
 > **[0:44](https://www.linkedin.com/learning/git-essential-training-25677984/pull-changes-from-the-remote-repository?u=76281980&t=44)** You can now click on add file, and then create new file.
 >
@@ -1434,7 +1410,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/git-essential-training-25677984/pull-changes-from-the-remote-repository?u=76281980&t=73)** Now let's move back to the code space or our local environment and we can see that the new file we just created cannot be found here.
 >
-> **[1:21](https://www.linkedin.com/learning/git-essential-training-25677984/pull-changes-from-the-remote-repository?u=76281980&t=81)** To make it visible here, we'll use git pull and now our changes are added to the repository.
+> **[1:21](https://www.linkedin.com/learning/git-essential-training-25677984/pull-changes-from-the-remote-repository?u=76281980&t=81)** To make it visible here, we'll use [[Git]] pull and now our changes are added to the repository.
 >
 > **[1:31](https://www.linkedin.com/learning/git-essential-training-25677984/pull-changes-from-the-remote-repository?u=76281980&t=91)** It doesn't matter if you had unsafe changes in your repository.
 >
@@ -1442,15 +1418,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (2), next (1), [[GitHub]] (1), web (1)
+> **Frameworks & Libraries:** [[Git]] (2), [[GitHub]] (1)
 > **CLI Commands:** make (3), git (2)
 > **UI Navigation:** click on (2)
 > **File Paths:** 02.md (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Initialize a repository locally and sync it
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/initialize-a-repository-locally-and-sync-it?u=76281980)
+#### [Initialize a repository locally and sync it](https://www.linkedin.com/learning/git-essential-training-25677984/initialize-a-repository-locally-and-sync-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1462,7 +1437,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/git-essential-training-25677984/initialize-a-repository-locally-and-sync-it?u=76281980&t=13)** Let's see how we can do that.
 >
-> **[0:15](https://www.linkedin.com/learning/git-essential-training-25677984/initialize-a-repository-locally-and-sync-it?u=76281980&t=15)** You cannot follow along with this video if you use GitHub Codespaces, but I do recommend that you watch the video so that you know how to handle this scenario in your local environment.
+> **[0:15](https://www.linkedin.com/learning/git-essential-training-25677984/initialize-a-repository-locally-and-sync-it?u=76281980&t=15)** You cannot follow along with this video if you use [[GitHub]] [[Codespaces]], but I do recommend that you watch the video so that you know how to handle this scenario in your local environment.
 >
 > **[0:26](https://www.linkedin.com/learning/git-essential-training-25677984/initialize-a-repository-locally-and-sync-it?u=76281980&t=26)** As you can see here, I'm creating a repository, but I'm not going to initialize it.
 >
@@ -1480,7 +1455,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/git-essential-training-25677984/initialize-a-repository-locally-and-sync-it?u=76281980&t=55)** As you see here, I have a local folder with a few files in it, just like a regular folder.
 >
-> **[1:01](https://www.linkedin.com/learning/git-essential-training-25677984/initialize-a-repository-locally-and-sync-it?u=76281980&t=61)** It's not a Git repository yet, so we need to turn it into one.
+> **[1:01](https://www.linkedin.com/learning/git-essential-training-25677984/initialize-a-repository-locally-and-sync-it?u=76281980&t=61)** It's not a [[Git]] repository yet, so we need to turn it into one.
 >
 > **[1:05](https://www.linkedin.com/learning/git-essential-training-25677984/initialize-a-repository-locally-and-sync-it?u=76281980&t=65)** To do that, we can use git init.
 >
@@ -1526,7 +1501,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (10), web (3), [[GitHub]] (1), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[Git]] (10), [[GitHub]] (1), [[Codespaces]] (1)
 > **CLI Commands:** git (10)
 > **Env Vars:** url (2), readme (1)
 > **Tools:** github (1), visual studio (1), command line (1)
@@ -1535,20 +1510,19 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Push your first code
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-push-your-first-code?u=76281980)
+#### [Challenge: Push your first code](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-push-your-first-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-push-your-first-code?u=76281980&t=0)** (bright electronic music)
 >
-> **[0:05](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-push-your-first-code?u=76281980&t=5)** - We've covered a lot about Git so far, and now it's time for your first challenge.
+> **[0:05](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-push-your-first-code?u=76281980&t=5)** - We've covered a lot about [[Git]] so far, and now it's time for your first challenge.
 >
 > **[0:10](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-push-your-first-code?u=76281980&t=10)** You're going to push your first piece of code to Git.
 >
 > **[0:13](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-push-your-first-code?u=76281980&t=13)** To do so, first, you will create the remote repository.
 >
-> **[0:17](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-push-your-first-code?u=76281980&t=17)** Now, open the repository in a GitHub codespace or in your local environment.
+> **[0:17](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-push-your-first-code?u=76281980&t=17)** Now, open the repository in a [[GitHub]] codespace or in your local environment.
 >
 > **[0:23](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-push-your-first-code?u=76281980&t=23)** Add a file for your favorite programming language.
 >
@@ -1560,7 +1534,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (2), [[GitHub]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Git]] (2), [[GitHub]] (1)
 > **CLI Commands:** git (2), make (2)
 > **File Paths:** push.md (1)
 > **Tools:** github (1)
@@ -1568,8 +1542,7 @@ created: 2026-05-02
 > **Speakers:** - we (1)
 > **Non-Speech:** (bright electronic music) (1)
 
-#### Solution: Push your first code
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/solution-push-your-first-code?u=76281980)
+#### [Solution: Push your first code](https://www.linkedin.com/learning/git-essential-training-25677984/solution-push-your-first-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1585,7 +1558,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/git-essential-training-25677984/solution-push-your-first-code?u=76281980&t=23)** I've added Challenge01.md.
 >
-> **[0:27](https://www.linkedin.com/learning/git-essential-training-25677984/solution-push-your-first-code?u=76281980&t=27)** You staged it with git add.
+> **[0:27](https://www.linkedin.com/learning/git-essential-training-25677984/solution-push-your-first-code?u=76281980&t=27)** You staged it with [[Git]] add.
 >
 > **[0:31](https://www.linkedin.com/learning/git-essential-training-25677984/solution-push-your-first-code?u=76281980&t=31)** You committed it with git commit, (keyboard clicks) and finally pushed it using git push.
 >
@@ -1610,12 +1583,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Git status
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/git-status?u=76281980)
+#### [Git status](https://www.linkedin.com/learning/git-essential-training-25677984/git-status?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/git-status?u=76281980&t=0)** - Now that we know how to use Git, let's explore how we interact with our files.
+> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/git-status?u=76281980&t=0)** - Now that we know how to use [[Git]], let's explore how we interact with our files.
 >
 > **[0:06](https://www.linkedin.com/learning/git-essential-training-25677984/git-status?u=76281980&t=6)** First, I want to show some tips on how to make it easier to keep track of what is happening.
 >
@@ -1667,7 +1639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (18), next (4), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Git]] (18)
 > **CLI Commands:** git (18), make (1)
 > **File Paths:** gitstatusdemo.md (2)
 > **Code Identifiers:** gitstatusdemo (2)
@@ -1675,12 +1647,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - now (1)
 
-#### Edit a file and view changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/edit-a-file-and-view-changes?u=76281980)
+#### [Edit a file and view changes](https://www.linkedin.com/learning/git-essential-training-25677984/edit-a-file-and-view-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/edit-a-file-and-view-changes?u=76281980&t=0)** - [Instructor] In the previous chapter, we added new files to our Git repository, both locally and remotely.
+> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/edit-a-file-and-view-changes?u=76281980&t=0)** - [Instructor] In the previous chapter, we added new files to our [[Git]] repository, both locally and remotely.
 >
 > **[0:06](https://www.linkedin.com/learning/git-essential-training-25677984/edit-a-file-and-view-changes?u=76281980&t=6)** But one of Git's best features is that it's able to track changes within files, not just add new ones.
 >
@@ -1756,7 +1727,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/git-essential-training-25677984/edit-a-file-and-view-changes?u=76281980&t=194)** When I press Enter, I get the same clear breakdown but now specifically for stage changes, everything that's about to be committed.
 >
-> **[3:23](https://www.linkedin.com/learning/git-essential-training-25677984/edit-a-file-and-view-changes?u=76281980&t=203)** Remember when you see the column, you can press space to see the rest, and when you going to go back to the prompt, you can press Q.
+> **[3:23](https://www.linkedin.com/learning/git-essential-training-25677984/edit-a-file-and-view-changes?u=76281980&t=203)** Remember when you see the column, you can press space to see the [[Representational State Transfer (REST)|rest]], and when you going to go back to the prompt, you can press Q.
 >
 > **[3:33](https://www.linkedin.com/learning/git-essential-training-25677984/edit-a-file-and-view-changes?u=76281980&t=213)** And here I can see all the changes that are about to be committed.
 >
@@ -1772,7 +1743,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (20), prompt (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Git]] (20), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** git (20), make (2), find (2)
 > **File Paths:** example.md (1), example02.md (1)
 > **Cross-References:** previous chapter (1), go back to (1)
@@ -1780,8 +1751,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delete files
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/delete-files?u=76281980)
+#### [Delete files](https://www.linkedin.com/learning/git-essential-training-25677984/delete-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1795,7 +1765,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/git-essential-training-25677984/delete-files?u=76281980&t=14)** I'll press Delete and confirm that I want to delete it.
 >
-> **[0:19](https://www.linkedin.com/learning/git-essential-training-25677984/delete-files?u=76281980&t=19)** Let's use git status to see how Git responds to this.
+> **[0:19](https://www.linkedin.com/learning/git-essential-training-25677984/delete-files?u=76281980&t=19)** Let's use [[Git]] status to see how Git responds to this.
 >
 > **[0:25](https://www.linkedin.com/learning/git-essential-training-25677984/delete-files?u=76281980&t=25)** It shows that the file has been deleted.
 >
@@ -1834,12 +1804,11 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rename files
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/rename-files?u=76281980)
+#### [Rename files](https://www.linkedin.com/learning/git-essential-training-25677984/rename-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/rename-files?u=76281980&t=0)** - [Instructor] Let's see what happens in Git when you rename a file, as it might seem a bit unexpected.
+> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/rename-files?u=76281980&t=0)** - [Instructor] Let's see what happens in [[Git]] when you rename a file, as it might seem a bit unexpected.
 >
 > **[0:06](https://www.linkedin.com/learning/git-essential-training-25677984/rename-files?u=76281980&t=6)** We'll use Example.md.
 >
@@ -1891,14 +1860,13 @@ created: 2026-05-02
 > **Code Identifiers:** gitstatusdemo (2), newstatus (2)
 > **Speakers:** - [instructor] (1)
 
-#### Working with folders
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/working-with-folders?u=76281980)
+#### [Working with folders](https://www.linkedin.com/learning/git-essential-training-25677984/working-with-folders?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/working-with-folders?u=76281980&t=0)** - [Instructor] So far we've only been working with files, but what about folders?
 >
-> **[0:05](https://www.linkedin.com/learning/git-essential-training-25677984/working-with-folders?u=76281980&t=5)** Git can keep track of folders too, so let's explore how that works.
+> **[0:05](https://www.linkedin.com/learning/git-essential-training-25677984/working-with-folders?u=76281980&t=5)** [[Git]] can keep track of folders too, so let's explore how that works.
 >
 > **[0:09](https://www.linkedin.com/learning/git-essential-training-25677984/working-with-folders?u=76281980&t=9)** To start, I have created two new folders, First Folder and Second Folder.
 >
@@ -1983,14 +1951,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Undo your changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/undo-your-changes?u=76281980)
+#### [Undo your changes](https://www.linkedin.com/learning/git-essential-training-25677984/undo-your-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/undo-your-changes?u=76281980&t=0)** - [Instructor] As we make changes to our files, there might be times where we don't want to keep them.
 >
-> **[0:06](https://www.linkedin.com/learning/git-essential-training-25677984/undo-your-changes?u=76281980&t=6)** Maybe we realize we need to go back to the previous commit, and the good news is we can do that with Git.
+> **[0:06](https://www.linkedin.com/learning/git-essential-training-25677984/undo-your-changes?u=76281980&t=6)** Maybe we realize we need to go back to the previous commit, and the good news is we can do that with [[Git]].
 >
 > **[0:12](https://www.linkedin.com/learning/git-essential-training-25677984/undo-your-changes?u=76281980&t=12)** Let's see how it works.
 >
@@ -2057,12 +2024,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### View commit history
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/view-commit-history?u=76281980)
+#### [View commit history](https://www.linkedin.com/learning/git-essential-training-25677984/view-commit-history?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/view-commit-history?u=76281980&t=0)** - [Instructor] We've talked about Git as a tool for tracking the history of our files, what has changed and when, but how do we actually see that history?
+> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/view-commit-history?u=76281980&t=0)** - [Instructor] We've talked about [[Git]] as a tool for tracking the history of our files, what has changed and when, but how do we actually see that history?
 >
 > **[0:09](https://www.linkedin.com/learning/git-essential-training-25677984/view-commit-history?u=76281980&t=9)** That's where git log comes in.
 >
@@ -2156,7 +2122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (11), [[Search]] (2), web (1)
+> **Frameworks & Libraries:** [[Git]] (11)
 > **CLI Commands:** git (11), grep (2), make (1)
 > **UI Navigation:** scroll down (1), navigate to (1), click on (1)
 > **Tools:** terminal (1), command line (1)
@@ -2164,12 +2130,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Go back in Git history
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/go-back-in-git-history?u=76281980)
+#### [Go back in Git history](https://www.linkedin.com/learning/git-essential-training-25677984/go-back-in-git-history?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/go-back-in-git-history?u=76281980&t=0)** - [Instructor] In the last video, we saw how we can see all previous states that have been kept in the Git history.
+> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/go-back-in-git-history?u=76281980&t=0)** - [Instructor] In the last video, we saw how we can see all previous states that have been kept in the [[Git]] history.
 >
 > **[0:06](https://www.linkedin.com/learning/git-essential-training-25677984/go-back-in-git-history?u=76281980&t=6)** Now let's take that a little further.
 >
@@ -2224,8 +2189,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Warnings:** note that (1)
 
-#### Revert a commit
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/revert-a-commit?u=76281980)
+#### [Revert a commit](https://www.linkedin.com/learning/git-essential-training-25677984/revert-a-commit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2235,7 +2199,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/git-essential-training-25677984/revert-a-commit?u=76281980&t=12)** Maybe we introduced a mistake or a bug that we need to undo.
 >
-> **[0:15](https://www.linkedin.com/learning/git-essential-training-25677984/revert-a-commit?u=76281980&t=15)** We can quickly fix that with git.
+> **[0:15](https://www.linkedin.com/learning/git-essential-training-25677984/revert-a-commit?u=76281980&t=15)** We can quickly fix that with [[Git]].
 >
 > **[0:18](https://www.linkedin.com/learning/git-essential-training-25677984/revert-a-commit?u=76281980&t=18)** First, let's check our commit history.
 >
@@ -2269,7 +2233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (5), hit (1), next (1)
+> **Frameworks & Libraries:** [[Git]] (5)
 > **CLI Commands:** git (5)
 > **Code Identifiers:** gitstatusdemo (2), newstatus (1)
 > **Cross-References:** previous video (1), in the next (1)
@@ -2277,8 +2241,7 @@ created: 2026-05-02
 > **Best Practices:** bad practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Make use of the GUI of Visual Studio Code
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/make-use-of-the-gui-of-visual-studio-code?u=76281980)
+#### [Make use of the GUI of Visual Studio Code](https://www.linkedin.com/learning/git-essential-training-25677984/make-use-of-the-gui-of-visual-studio-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2286,7 +2249,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/git-essential-training-25677984/make-use-of-the-gui-of-visual-studio-code?u=76281980&t=6)** That is why I want to show you how Visual Studio Code can help with this process.
 >
-> **[0:11](https://www.linkedin.com/learning/git-essential-training-25677984/make-use-of-the-gui-of-visual-studio-code?u=76281980&t=11)** VS Code can visualize what is happening, allowing you to even use Git without a command line.
+> **[0:11](https://www.linkedin.com/learning/git-essential-training-25677984/make-use-of-the-gui-of-visual-studio-code?u=76281980&t=11)** VS Code can visualize what is happening, allowing you to even use [[Git]] without a command line.
 >
 > **[0:17](https://www.linkedin.com/learning/git-essential-training-25677984/make-use-of-the-gui-of-visual-studio-code?u=76281980&t=17)** This can be especially helpful if you're still getting comfortable with Git.
 >
@@ -2346,7 +2309,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (7), next (2)
+> **Frameworks & Libraries:** [[Git]] (7)
 > **Tools:** visual studio (7), command line (2), vs code (1)
 > **CLI Commands:** git (7)
 > **File Paths:** gitstatusdemo.md (2), newname.md (1)
@@ -2355,8 +2318,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Make a change and revert
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-make-a-change-and-revert?u=76281980)
+#### [Challenge: Make a change and revert](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-make-a-change-and-revert?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2378,7 +2340,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-make-a-change-and-revert?u=76281980&t=31)** Now move the file into a folder and do a new commit.
 >
-> **[0:34](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-make-a-change-and-revert?u=76281980&t=34)** Finally, move the file back out of the folder by reverting to the previous commit in the Git history.
+> **[0:34](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-make-a-change-and-revert?u=76281980&t=34)** Finally, move the file back out of the folder by reverting to the previous commit in the [[Git]] history.
 >
 > **[0:41](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-make-a-change-and-revert?u=76281980&t=41)** You can do all of this locally by committing each step, or you can push your changes in between if you want to keep track of them remotely.
 >
@@ -2391,8 +2353,7 @@ created: 2026-05-02
 > **Speakers:** - we (1)
 > **Non-Speech:** (exciting music) (1)
 
-#### Solution: Make a change and revert
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/solution-make-a-change-and-revert?u=76281980)
+#### [Solution: Make a change and revert](https://www.linkedin.com/learning/git-essential-training-25677984/solution-make-a-change-and-revert?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2406,7 +2367,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/git-essential-training-25677984/solution-make-a-change-and-revert?u=76281980&t=14)** Now I am going to commit this to my local repository.
 >
-> **[0:18](https://www.linkedin.com/learning/git-essential-training-25677984/solution-make-a-change-and-revert?u=76281980&t=18)** I'll first add it to the staging area and then I'll use git commit -m "creates Important File md".
+> **[0:18](https://www.linkedin.com/learning/git-essential-training-25677984/solution-make-a-change-and-revert?u=76281980&t=18)** I'll first add it to the staging area and then I'll use [[Git]] commit -m "creates Important File md".
 >
 > **[0:29](https://www.linkedin.com/learning/git-essential-training-25677984/solution-make-a-change-and-revert?u=76281980&t=29)** All right.
 >
@@ -2448,7 +2409,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (8), prompt (1)
+> **Frameworks & Libraries:** [[Git]] (8)
 > **CLI Commands:** git (8)
 > **File Paths:** important_file.md (1)
 > **Speakers:** - [instructor] (1)
@@ -2459,12 +2420,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ignoring files
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/ignoring-files?u=76281980)
+#### [Ignoring files](https://www.linkedin.com/learning/git-essential-training-25677984/ignoring-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/ignoring-files?u=76281980&t=0)** - There are a few key concepts that can make your Git workflow much smoother.
+> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/ignoring-files?u=76281980&t=0)** - There are a few key concepts that can make your [[Git]] workflow much smoother.
 >
 > **[0:05](https://www.linkedin.com/learning/git-essential-training-25677984/ignoring-files?u=76281980&t=5)** One of them is telling Git to ignore certain files.
 >
@@ -2541,12 +2501,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - there (1)
 
-#### The .git folder
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/the-git-folder?u=76281980)
+#### [The .git folder](https://www.linkedin.com/learning/git-essential-training-25677984/the-git-folder?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/the-git-folder?u=76281980&t=0)** - [Instructor] Git seems to be living in the background so far.
+> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/the-git-folder?u=76281980&t=0)** - [Instructor] [[Git]] seems to be living in the background so far.
 >
 > **[0:03](https://www.linkedin.com/learning/git-essential-training-25677984/the-git-folder?u=76281980&t=3)** We are still using our usual file management platform, but you can still see an extra folder in the File Explorer, .git.
 >
@@ -2556,11 +2515,11 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/git-essential-training-25677984/the-git-folder?u=76281980&t=15)** You can make this folder visible in Visual Studio Code or in your codespace.
 >
-> **[0:20](https://www.linkedin.com/learning/git-essential-training-25677984/the-git-folder?u=76281980&t=20)** To do that, first open the Command Palette by using Control + Shift + P if you're on Windows or Command + Shift + P on a Mac.
+> **[0:20](https://www.linkedin.com/learning/git-essential-training-25677984/the-git-folder?u=76281980&t=20)** To do that, first open the Command Palette by using Control + Shift + P if you're on [[Windows]] or Command + Shift + P on a Mac.
 >
 > **[0:28](https://www.linkedin.com/learning/git-essential-training-25677984/the-git-folder?u=76281980&t=28)** Now type user settings.
 >
-> **[0:31](https://www.linkedin.com/learning/git-essential-training-25677984/the-git-folder?u=76281980&t=31)** We got two options, and we open the second one, User Settings JSON.
+> **[0:31](https://www.linkedin.com/learning/git-essential-training-25677984/the-git-folder?u=76281980&t=31)** We got two options, and we open the second one, User Settings [[JSON]].
 >
 > **[0:36](https://www.linkedin.com/learning/git-essential-training-25677984/the-git-folder?u=76281980&t=36)** You can add your own specific settings here, and one of them that you could add is this one.
 >
@@ -2574,7 +2533,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/git-essential-training-25677984/the-git-folder?u=76281980&t=70)** Inside this folder, there are files that make your local folder a Git repository.
 >
-> **[1:15](https://www.linkedin.com/learning/git-essential-training-25677984/the-git-folder?u=76281980&t=75)** These files store everything, history, metadata, and other important information.
+> **[1:15](https://www.linkedin.com/learning/git-essential-training-25677984/the-git-folder?u=76281980&t=75)** These files store everything, history, [[Metadata]], and other important information.
 >
 > **[1:21](https://www.linkedin.com/learning/git-essential-training-25677984/the-git-folder?u=76281980&t=81)** The most important one for you to know about is the config file that we talked about before.
 >
@@ -2592,7 +2551,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (7), [[Windows]] (2), [[JSON]] (2), management (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Git]] (7), [[Windows]] (2), [[JSON]] (2), [[Metadata]] (1)
 > **CLI Commands:** git (7), make (4), find (1)
 > **UI Navigation:** open the (2), go to (1)
 > **File Paths:** settings.json (1)
@@ -2601,8 +2560,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Definitions:** is a  (1)
 
-#### Create a branch  in your repository
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/create-a-branch-in-your-repository?u=76281980)
+#### [Create a branch  in your repository](https://www.linkedin.com/learning/git-essential-training-25677984/create-a-branch-in-your-repository?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2618,7 +2576,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/git-essential-training-25677984/create-a-branch-in-your-repository?u=76281980&t=25)** If you start out, branches can feel like a challenge.
 >
-> **[0:28](https://www.linkedin.com/learning/git-essential-training-25677984/create-a-branch-in-your-repository?u=76281980&t=28)** If you are having difficulty, I recommend to just start with using Git without using branches.
+> **[0:28](https://www.linkedin.com/learning/git-essential-training-25677984/create-a-branch-in-your-repository?u=76281980&t=28)** If you are having difficulty, I recommend to just start with using [[Git]] without using branches.
 >
 > **[0:34](https://www.linkedin.com/learning/git-essential-training-25677984/create-a-branch-in-your-repository?u=76281980&t=34)** But I do want to show you the concept so that you can get into it once you feel you're ready.
 >
@@ -2678,7 +2636,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/git-essential-training-25677984/create-a-branch-in-your-repository?u=76281980&t=176)** So I can just copy this line, add it here, and now the command goes through.
 >
-> **[3:04](https://www.linkedin.com/learning/git-essential-training-25677984/create-a-branch-in-your-repository?u=76281980&t=184)** Now, if we move back to github, we see that logfolder has been pushed three seconds ago.
+> **[3:04](https://www.linkedin.com/learning/git-essential-training-25677984/create-a-branch-in-your-repository?u=76281980&t=184)** Now, if we move back to [[GitHub]], we see that logfolder has been pushed three seconds ago.
 >
 > **[3:11](https://www.linkedin.com/learning/git-essential-training-25677984/create-a-branch-in-your-repository?u=76281980&t=191)** So we can find out branch here.
 >
@@ -2692,7 +2650,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (10), feature (1), [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[Git]] (10), [[GitHub]] (1)
 > **CLI Commands:** git (10), make (4), find (1)
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)
@@ -2700,8 +2658,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and merge a pull request
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/create-and-merge-a-pull-request?u=76281980)
+#### [Create and merge a pull request](https://www.linkedin.com/learning/git-essential-training-25677984/create-and-merge-a-pull-request?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2723,7 +2680,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/git-essential-training-25677984/create-and-merge-a-pull-request?u=76281980&t=36)** Let's do it in our repository.
 >
-> **[0:40](https://www.linkedin.com/learning/git-essential-training-25677984/create-and-merge-a-pull-request?u=76281980&t=40)** In our repository on GitHub, we go to Pull requests.
+> **[0:40](https://www.linkedin.com/learning/git-essential-training-25677984/create-and-merge-a-pull-request?u=76281980&t=40)** In our repository on [[GitHub]], we go to Pull requests.
 >
 > **[0:45](https://www.linkedin.com/learning/git-essential-training-25677984/create-and-merge-a-pull-request?u=76281980&t=45)** Here we can create a new pull request or use the button if we have one to use.
 >
@@ -2737,7 +2694,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/git-essential-training-25677984/create-and-merge-a-pull-request?u=76281980&t=67)** I can also see right next to where I selected logfolder that it is able to merge.
 >
-> **[1:11](https://www.linkedin.com/learning/git-essential-training-25677984/create-and-merge-a-pull-request?u=76281980&t=71)** This means that Git can automatically solve the differences and add the new changes to the old environment.
+> **[1:11](https://www.linkedin.com/learning/git-essential-training-25677984/create-and-merge-a-pull-request?u=76281980&t=71)** This means that [[Git]] can automatically solve the differences and add the new changes to the old environment.
 >
 > **[1:17](https://www.linkedin.com/learning/git-essential-training-25677984/create-and-merge-a-pull-request?u=76281980&t=77)** I can view the changes right here and create a pull request.
 >
@@ -2775,7 +2732,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), [[GitHub]] (1), next (1), [[Git]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Git]] (1)
 > **CLI Commands:** git (1), make (1), find (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Best Practices:** best practice (1), don't forget (1)
@@ -2784,8 +2741,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Analogies:** picture (1)
 
-#### Git commit messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/git-commit-messages?u=76281980)
+#### [Git commit messages](https://www.linkedin.com/learning/git-essential-training-25677984/git-commit-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2797,7 +2753,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/git-essential-training-25677984/git-commit-messages?u=76281980&t=11)** It tells us what actually happened in that commit.
 >
-> **[0:15](https://www.linkedin.com/learning/git-essential-training-25677984/git-commit-messages?u=76281980&t=15)** There are some best practices for writing commit messages that can make your Git history much clearer.
+> **[0:15](https://www.linkedin.com/learning/git-essential-training-25677984/git-commit-messages?u=76281980&t=15)** There are some best practices for writing commit messages that can make your [[Git]] history much clearer.
 >
 > **[0:21](https://www.linkedin.com/learning/git-essential-training-25677984/git-commit-messages?u=76281980&t=21)** First, a good commit message should describe exactly what changes were made.
 >
@@ -2882,12 +2838,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Solving a merge conflict
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/solving-a-merge-conflict?u=76281980)
+#### [Solving a merge conflict](https://www.linkedin.com/learning/git-essential-training-25677984/solving-a-merge-conflict?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/solving-a-merge-conflict?u=76281980&t=0)** - [Instructor] We are going to talk about a common issue you might run into when using Git, a merge conflict Merge conflicts usually happen when multiple people are working at the same file.
+> **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/solving-a-merge-conflict?u=76281980&t=0)** - [Instructor] We are going to talk about a common issue you might run into when using [[Git]], a merge conflict Merge conflicts usually happen when multiple people are working at the same file.
 >
 > **[0:12](https://www.linkedin.com/learning/git-essential-training-25677984/solving-a-merge-conflict?u=76281980&t=12)** If two people make changes to the same part of the file and then try to merge their work, Git doesn't know which version to keep.
 >
@@ -2899,7 +2854,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/git-essential-training-25677984/solving-a-merge-conflict?u=76281980&t=31)** Make sure you don't use Git pull.
 >
-> **[0:35](https://www.linkedin.com/learning/git-essential-training-25677984/solving-a-merge-conflict?u=76281980&t=35)** Now we're going to open up the remote repository in GitHub.
+> **[0:35](https://www.linkedin.com/learning/git-essential-training-25677984/solving-a-merge-conflict?u=76281980&t=35)** Now we're going to open up the remote repository in [[GitHub]].
 >
 > **[0:39](https://www.linkedin.com/learning/git-essential-training-25677984/solving-a-merge-conflict?u=76281980&t=39)** Click on the file gitStatusDemo.md.
 >
@@ -2982,8 +2937,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Warnings:** warning (1)
 
-#### Challenge: Create a branch and a pull request
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-create-a-branch-and-a-pull-request?u=76281980)
+#### [Challenge: Create a branch and a pull request](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-create-a-branch-and-a-pull-request?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2991,7 +2945,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-create-a-branch-and-a-pull-request?u=76281980&t=5)** - All right, time for a challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-create-a-branch-and-a-pull-request?u=76281980&t=7)** We've talked about branches in Git, and now it's your turn to create one yourself.
+> **[0:07](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-create-a-branch-and-a-pull-request?u=76281980&t=7)** We've talked about branches in [[Git]], and now it's your turn to create one yourself.
 >
 > **[0:12](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-create-a-branch-and-a-pull-request?u=76281980&t=12)** The goal, you're going to create a new branch, add a file, and then merge it back into the main branch with a pull request.
 >
@@ -3003,7 +2957,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-create-a-branch-and-a-pull-request?u=76281980&t=29)** When you're done, commit and push the changes.
 >
-> **[0:32](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-create-a-branch-and-a-pull-request?u=76281980&t=32)** After that, open [github.com](https://github.com) and create a pull request.
+> **[0:32](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-create-a-branch-and-a-pull-request?u=76281980&t=32)** After that, open [[[GitHub]].com](https://github.com) and create a pull request.
 >
 > **[0:37](https://www.linkedin.com/learning/git-essential-training-25677984/challenge-create-a-branch-and-a-pull-request?u=76281980&t=37)** Do a final review of the code and merge it into the main branch.
 >
@@ -3019,8 +2973,7 @@ created: 2026-05-02
 > **Speakers:** - all (1)
 > **Non-Speech:** (bright techno music) (1)
 
-#### Solution: Create a branch and a pull request
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/solution-create-a-branch-and-a-pull-request?u=76281980)
+#### [Solution: Create a branch and a pull request](https://www.linkedin.com/learning/git-essential-training-25677984/solution-create-a-branch-and-a-pull-request?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3028,7 +2981,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/git-essential-training-25677984/solution-create-a-branch-and-a-pull-request?u=76281980&t=7)** Let's walk through it together.
 >
-> **[0:09](https://www.linkedin.com/learning/git-essential-training-25677984/solution-create-a-branch-and-a-pull-request?u=76281980&t=9)** First, we created a branch, git branch joke.
+> **[0:09](https://www.linkedin.com/learning/git-essential-training-25677984/solution-create-a-branch-and-a-pull-request?u=76281980&t=9)** First, we created a branch, [[Git]] branch joke.
 >
 > **[0:15](https://www.linkedin.com/learning/git-essential-training-25677984/solution-create-a-branch-and-a-pull-request?u=76281980&t=15)** Don't forget to check out the branch, checkout joke.
 >
@@ -3064,7 +3017,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (3), web (1)
+> **Frameworks & Libraries:** [[Git]] (3)
 > **CLI Commands:** git (3), make (1)
 > **File Paths:** joke.md (1)
 > **Cross-References:** go back to (1)
@@ -3078,14 +3031,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/git-essential-training-25677984/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/git-essential-training-25677984/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/git-essential-training-25677984/next-steps?u=76281980&t=0)** - Thank you for taking this course.
 >
-> **[0:03](https://www.linkedin.com/learning/git-essential-training-25677984/next-steps?u=76281980&t=3)** I hope you're feeling confident about using Git and excited about all the possibilities it offers.
+> **[0:03](https://www.linkedin.com/learning/git-essential-training-25677984/next-steps?u=76281980&t=3)** I hope you're feeling confident about using [[Git]] and excited about all the possibilities it offers.
 >
 > **[0:08](https://www.linkedin.com/learning/git-essential-training-25677984/next-steps?u=76281980&t=8)** What we covered here is just the beginning.
 >
@@ -3093,7 +3045,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/git-essential-training-25677984/next-steps?u=76281980&t=14)** Once you're comfortable with the basics, I encourage you to dive deeper into more advanced features.
 >
-> **[0:21](https://www.linkedin.com/learning/git-essential-training-25677984/next-steps?u=76281980&t=21)** If you are ready to keep learning, check out the library for more Git courses, like Git for Teams, or what about Learning GitHub?
+> **[0:21](https://www.linkedin.com/learning/git-essential-training-25677984/next-steps?u=76281980&t=21)** If you are ready to keep learning, check out the library for more Git courses, like Git for Teams, or what about Learning [[GitHub]]?
 >
 > **[0:30](https://www.linkedin.com/learning/git-essential-training-25677984/next-steps?u=76281980&t=30)** So go ahead, have fun experimenting with Git and see how it can streamline your workflow.
 >
@@ -3101,7 +3053,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (5), teams (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Git]] (5), [[GitHub]] (1)
 > **CLI Commands:** git (5)
 > **Cross-References:** we covered (1)
 > **Tools:** github (1)

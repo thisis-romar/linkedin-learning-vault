@@ -111,12 +111,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Become a proficient Excel user
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/become-a-proficient-excel-user?u=76281980)
+#### [Become a proficient Excel user](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/become-a-proficient-excel-user?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/become-a-proficient-excel-user?u=76281980&t=0)** - [Dennis] Most Excel users are underutilizing this powerful office tool because they're unaware of the many keystrokes, shortcuts and techniques they could be using.
+> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/become-a-proficient-excel-user?u=76281980&t=0)** - [Dennis] Most [[Microsoft Excel|Excel]] users are underutilizing this powerful [[Microsoft Office|office]] tool because they're unaware of the many keystrokes, shortcuts and techniques they could be using.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/become-a-proficient-excel-user?u=76281980&t=9)** I'm Dennis Taylor, and in this course, I'll help you become a more proficient Excel user.
 >
@@ -126,7 +125,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Office|Office]] (1)
 > **Speakers:** - [dennis] (1)
 
 
@@ -134,8 +133,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Enter data or formulas in non-adjacent cells simultaneously
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/enter-data-or-formulas-in-non-adjacent-cells-simultaneously?u=76281980)
+#### [Enter data or formulas in non-adjacent cells simultaneously](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/enter-data-or-formulas-in-non-adjacent-cells-simultaneously?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -207,22 +205,21 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/enter-data-or-formulas-in-non-adjacent-cells-simultaneously?u=76281980&t=155)** So it's a fast and easy technique and it saves a ton of time, highlighting different cells with the control key to put in formulas, put in text as we saw earlier, and also numbers.
 >
-> **[2:47](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/enter-data-or-formulas-in-non-adjacent-cells-simultaneously?u=76281980&t=167)** An invaluable shortcut as you work with Excel.
+> **[2:47](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/enter-data-or-formulas-in-non-adjacent-cells-simultaneously?u=76281980&t=167)** An invaluable shortcut as you work with [[Microsoft Excel|Excel]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** a10 (3)
 > **Cross-References:** as we saw (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copy data or formulas down a column
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/copy-data-or-formulas-down-a-column?u=76281980)
+#### [Copy data or formulas down a column](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/copy-data-or-formulas-down-a-column?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/copy-data-or-formulas-down-a-column?u=76281980&t=0)** - [Instructor] It's not uncommon in Excel that when you work with formulas, you often need to copy a formula down a column.
+> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/copy-data-or-formulas-down-a-column?u=76281980&t=0)** - [Instructor] It's not uncommon in [[Microsoft Excel|Excel]] that when you work with formulas, you often need to copy a formula down a column.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/copy-data-or-formulas-down-a-column?u=76281980&t=6)** And in this worksheet called Employees on our Chapter 1 file, we need to put in some formulas in column K.
 >
@@ -232,7 +229,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/copy-data-or-formulas-down-a-column?u=76281980&t=21)** Everybody's going to get a 2.73% increase.
 >
-> **[0:24](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/copy-data-or-formulas-down-a-column?u=76281980&t=24)** So I'll zoom in here holding down Control using the mouse wheel and write a formula.
+> **[0:24](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/copy-data-or-formulas-down-a-column?u=76281980&t=24)** So I'll [[Zoom]] in here holding down Control using the mouse wheel and write a formula.
 >
 > **[0:30](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/copy-data-or-formulas-down-a-column?u=76281980&t=30)** Column K probably doesn't ultimately need to be this wide, but for the moment, let's make it wider so we can see the formula better.
 >
@@ -310,12 +307,11 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Instantly enter today's date or time
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/instantly-enter-today-s-date-or-time?u=76281980)
+#### [Instantly enter today's date or time](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/instantly-enter-today-s-date-or-time?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/instantly-enter-today-s-date-or-time?u=76281980&t=0)** - [Instructor] When you work with dates and times in Excel, there are a couple of shortcuts you need to know.
+> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/instantly-enter-today-s-date-or-time?u=76281980&t=0)** - [Instructor] When you work with dates and times in [[Microsoft Excel|Excel]], there are a couple of shortcuts you need to know.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/instantly-enter-today-s-date-or-time?u=76281980&t=4)** And a not so obvious but extremely useful shortcut is Control + ;.
 >
@@ -405,7 +401,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/instantly-enter-today-s-date-or-time?u=76281980&t=178)** It's also worth noting that this today function, and I'm double-clicking right here, this can be used in formulas too.
 >
-> **[3:04](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/instantly-enter-today-s-date-or-time?u=76281980&t=184)** And you can imagine in banking and finance, for example, where if there's a due date and it's so many days in the future, as you open certain files, that due date or the number of days until the due date will have changed if you use this within formulas.
+> **[3:04](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/instantly-enter-today-s-date-or-time?u=76281980&t=184)** And you can imagine in [[Banking]] and finance, for example, where if there's a due date and it's so many days in the future, as you open certain files, that due date or the number of days until the due date will have changed if you use this within formulas.
 >
 > **[3:19](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/instantly-enter-today-s-date-or-time?u=76281980&t=199)** You're much less likely to use the now function, so it too has those same possibilities.
 >
@@ -413,7 +409,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Banking]] (1)
 > **Ports:** :38 (1), :37 (1), :39 (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (2)
@@ -421,8 +417,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Convert formulas to values with a simple drag
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/convert-formulas-to-values-with-a-simple-drag?u=76281980)
+#### [Convert formulas to values with a simple drag](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/convert-formulas-to-values-with-a-simple-drag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -504,14 +499,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8)
 > **UI Navigation:** go to (2)
 > **Definitions:** in other words (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Display all worksheet formulas instantly
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/display-all-worksheet-formulas-instantly?u=76281980)
+#### [Display all worksheet formulas instantly](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/display-all-worksheet-formulas-instantly?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -617,14 +610,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** toggle (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create charts instantly with these keyboard shortcuts
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-charts-instantly-with-these-keyboard-shortcuts?u=76281980)
+#### [Create charts instantly with these keyboard shortcuts](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-charts-instantly-with-these-keyboard-shortcuts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -650,7 +641,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-charts-instantly-with-these-keyboard-shortcuts?u=76281980&t=49)** Alt+F1, and there's a chart.
 >
-> **[0:51](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-charts-instantly-with-these-keyboard-shortcuts?u=76281980&t=51)** It's what we call the default chart type in Excel, a clustered column chart.
+> **[0:51](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-charts-instantly-with-these-keyboard-shortcuts?u=76281980&t=51)** It's what we call the default chart type in [[Microsoft Excel|Excel]], a clustered column chart.
 >
 > **[0:56](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-charts-instantly-with-these-keyboard-shortcuts?u=76281980&t=56)** It's probably the most common chart type in Excel, yet you can easily change it to another type.
 >
@@ -714,7 +705,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** make (3)
 > **Env Vars:** f11 (3)
 > **Cross-References:** go back to (1), as we saw (1)
@@ -723,12 +714,11 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Zoom in and out quickly
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/zoom-in-and-out-quickly?u=76281980)
+#### [Zoom in and out quickly](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/zoom-in-and-out-quickly?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/zoom-in-and-out-quickly?u=76281980&t=0)** - [Instructor] For any number of different reasons you want to zoom in on data or zoom out.
+> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/zoom-in-and-out-quickly?u=76281980&t=0)** - [Instructor] For any number of different reasons you want to [[Zoom]] in on data or zoom out.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/zoom-in-and-out-quickly?u=76281980&t=4)** If I've got a few people standing around my desk here if I want this text to be larger, I'll zoom in.
 >
@@ -744,7 +734,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/zoom-in-and-out-quickly?u=76281980&t=25)** And of course sometimes we zoom out, control alt minus.
 >
-> **[0:30](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/zoom-in-and-out-quickly?u=76281980&t=30)** That works on most keyboards in most versions of Excel.
+> **[0:30](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/zoom-in-and-out-quickly?u=76281980&t=30)** That works on most keyboards in most versions of [[Microsoft Excel|Excel]].
 >
 > **[0:33](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/zoom-in-and-out-quickly?u=76281980&t=33)** There's nothing really that magical about a hundred percent.
 >
@@ -830,7 +820,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (8), data (4), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Zoom]] (8), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** click on (2)
 > **Speakers:** - [instructor] (1)
 
@@ -839,12 +829,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Access ribbon commands with Alt key sequences
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/access-ribbon-commands-with-alt-key-sequences?u=76281980)
+#### [Access ribbon commands with Alt key sequences](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/access-ribbon-commands-with-alt-key-sequences?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/access-ribbon-commands-with-alt-key-sequences?u=76281980&t=0)** - [Dennis] Excel has hundreds of keystroke shortcuts.
+> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/access-ribbon-commands-with-alt-key-sequences?u=76281980&t=0)** - [Dennis] [[Microsoft Excel|Excel]] has hundreds of keystroke shortcuts.
 >
 > **[0:02](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/access-ribbon-commands-with-alt-key-sequences?u=76281980&t=2)** Many of them use the Control key.
 >
@@ -984,19 +973,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (3), [[Microsoft Excel|Excel]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Analogies:** imagine (4), for example (1)
 > **CLI Commands:** az (2), find (1), make (1)
 > **Env Vars:** qat (1)
 > **UI Navigation:** in the menu (1)
 > **Speakers:** - [dennis] (1)
 
-#### Expand or collapse the ribbon and full screen views
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/expand-or-collapse-the-ribbon-and-full-screen-views?u=76281980)
+#### [Expand or collapse the ribbon and full screen views](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/expand-or-collapse-the-ribbon-and-full-screen-views?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/expand-or-collapse-the-ribbon-and-full-screen-views?u=76281980&t=0)** - [Instructor] When you're making a presentation of information while using Excel, sometimes it occurs to you that maybe the audience doesn't really need to see all those icons at the top of the screen.
+> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/expand-or-collapse-the-ribbon-and-full-screen-views?u=76281980&t=0)** - [Instructor] When you're making a presentation of information while using [[Microsoft Excel|Excel]], sometimes it occurs to you that maybe the audience doesn't really need to see all those icons at the top of the screen.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/expand-or-collapse-the-ribbon-and-full-screen-views?u=76281980&t=10)** Do they really have to know how to use Excel or have questions about what is all that stuff up there?
 >
@@ -1062,7 +1050,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** double-click (7), toggle (1)
 > **Analogies:** for example (1), analogous to (1)
 > **Speakers:** - [instructor] (1)
@@ -1072,12 +1060,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create split screens and frozen titles in a flash
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-split-screens-and-frozen-titles-in-a-flash?u=76281980)
+#### [Create split screens and frozen titles in a flash](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-split-screens-and-frozen-titles-in-a-flash?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-split-screens-and-frozen-titles-in-a-flash?u=76281980&t=0)** - [Instructor] When you work with large list of Excel, often you encounter a problem from the beginning.
+> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-split-screens-and-frozen-titles-in-a-flash?u=76281980&t=0)** - [Instructor] When you work with large list of [[Microsoft Excel|Excel]], often you encounter a problem from the beginning.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-split-screens-and-frozen-titles-in-a-flash?u=76281980&t=4)** I'm looking at this list, I want to be scrolling downward, look at some other entries using the mouse wheel.
 >
@@ -1193,7 +1180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (5), data (3), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** double-click (3), go to (1)
 > **Cross-References:** go back to (3)
 > **Definitions:** is a  (1), is called (1)
@@ -1201,8 +1188,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Restore missing labels and hide repeating labels
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/restore-missing-labels-and-hide-repeating-labels?u=76281980)
+#### [Restore missing labels and hide repeating labels](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/restore-missing-labels-and-hide-repeating-labels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1328,7 +1314,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), feature (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** adc (3)
 > **UI Navigation:** go to (2), click on (1)
@@ -1340,14 +1325,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Navigate between workbooks and worksheets efficiently
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/navigate-between-workbooks-and-worksheets-efficiently?u=76281980)
+#### [Navigate between workbooks and worksheets efficiently](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/navigate-between-workbooks-and-worksheets-efficiently?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/navigate-between-workbooks-and-worksheets-efficiently?u=76281980&t=0)** - [Instructor] We're looking at a worksheet called Employees in our chapter four navigation selection file.
 >
-> **[0:06](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/navigate-between-workbooks-and-worksheets-efficiently?u=76281980&t=6)** You probably don't use the word navigation when you talk about Excel, but it does refer to the idea that it's not uncommon to have a workbook with multiple sheets in it, or maybe to work with multiple files at the same time.
+> **[0:06](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/navigate-between-workbooks-and-worksheets-efficiently?u=76281980&t=6)** You probably don't use the [[Microsoft Word|word]] navigation when you talk about [[Microsoft Excel|Excel]], but it does refer to the idea that it's not uncommon to have a workbook with multiple sheets in it, or maybe to work with multiple files at the same time.
 >
 > **[0:18](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/navigate-between-workbooks-and-worksheets-efficiently?u=76281980&t=18)** Anytime you open a workbook that you haven't seen for a while, or maybe it's one that has, as it appears at the bottom here, lots of sheets.
 >
@@ -1461,7 +1445,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/navigate-between-workbooks-and-worksheets-efficiently?u=76281980&t=219)** Control + shift + tab work in the other direction.
 >
-> **[3:42](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/navigate-between-workbooks-and-worksheets-efficiently?u=76281980&t=222)** Now, if you do have more files than that open, I would strongly recommend that on the view tab where you see this button called switch windows off to the right?
+> **[3:42](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/navigate-between-workbooks-and-worksheets-efficiently?u=76281980&t=222)** Now, if you do have more files than that open, I would strongly recommend that on the view tab where you see this button called switch [[Windows]] off to the right?
 >
 > **[3:50](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/navigate-between-workbooks-and-worksheets-efficiently?u=76281980&t=230)** Right-click, add it to the quick access toolbar.
 >
@@ -1477,13 +1461,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1), next (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1), [[Windows]] (1)
 > **UI Navigation:** right-click (3), go to (3), double-click (2), toggle (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Navigate within worksheets efficiently
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/navigate-within-worksheets-efficiently?u=76281980)
+#### [Navigate within worksheets efficiently](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/navigate-within-worksheets-efficiently?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1539,7 +1522,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/navigate-within-worksheets-efficiently?u=76281980&t=87)** And like the double-clicking method, this works in all four directions, Control + Down Arrow, Control + Up Arrow.
 >
-> **[1:32](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/navigate-within-worksheets-efficiently?u=76281980&t=92)** If there's an empty cell, Excel stops.
+> **[1:32](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/navigate-within-worksheets-efficiently?u=76281980&t=92)** If there's an empty cell, [[Microsoft Excel|Excel]] stops.
 >
 > **[1:35](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/navigate-within-worksheets-efficiently?u=76281980&t=95)** So in column I over here on cell I2, Control + Down Arrow takes us just to there.
 >
@@ -1599,7 +1582,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), feature (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (3), double-click (3), click on (3)
 > **Env Vars:** l20 (1), a500 (1)
 > **Definitions:** in other words (1), is a  (1)
@@ -1607,12 +1590,11 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### Open, close, save, and create new workbooks with shortcuts
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/open-close-save-and-create-new-workbooks-with-shortcuts?u=76281980)
+#### [Open, close, save, and create new workbooks with shortcuts](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/open-close-save-and-create-new-workbooks-with-shortcuts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/open-close-save-and-create-new-workbooks-with-shortcuts?u=76281980&t=0)** - [Instructor] Many of Excel's file management commands also have keystroke shortcuts.
+> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/open-close-save-and-create-new-workbooks-with-shortcuts?u=76281980&t=0)** - [Instructor] Many of [[Microsoft Excel|Excel]]'s file management commands also have keystroke shortcuts.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/open-close-save-and-create-new-workbooks-with-shortcuts?u=76281980&t=4)** And we're seeing on this worksheet, called "Profits," in our chapter four file, a number of them in the box to the right.
 >
@@ -1688,7 +1670,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), management (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1), refers to (1)
@@ -1696,12 +1678,11 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Select an entire row, column, region, or worksheet
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/select-an-entire-row-column-region-or-worksheet?u=76281980)
+#### [Select an entire row, column, region, or worksheet](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/select-an-entire-row-column-region-or-worksheet?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/select-an-entire-row-column-region-or-worksheet?u=76281980&t=0)** - [Instructor] Excel has a number of different techniques for selecting large amounts of data.
+> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/select-an-entire-row-column-region-or-worksheet?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] has a number of different techniques for selecting large amounts of data.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/select-an-entire-row-column-region-or-worksheet?u=76281980&t=4)** If I want to be copying, for example, all the employee names, I could click in column A.
 >
@@ -1761,16 +1742,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Select non-contiguous ranges and visible cells only
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/select-non-contiguous-ranges-and-visible-cells-only?u=76281980)
+#### [Select non-contiguous ranges and visible cells only](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/select-non-contiguous-ranges-and-visible-cells-only?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/select-non-contiguous-ranges-and-visible-cells-only?u=76281980&t=0)** - [Instructor] It's not uncommon that when you work with Excel that you need to make changes to different parts of the worksheet, non-adjacent parts.
+> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/select-non-contiguous-ranges-and-visible-cells-only?u=76281980&t=0)** - [Instructor] It's not uncommon that when you work with [[Microsoft Excel|Excel]] that you need to make changes to different parts of the worksheet, non-adjacent parts.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/select-non-contiguous-ranges-and-visible-cells-only?u=76281980&t=8)** And a simple example here in this worksheet, HR List, relates to printing.
 >
@@ -1858,7 +1838,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (2), hr (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (2), find (2)
 > **UI Navigation:** go to (2)
 > **Env Vars:** f11 (1)
@@ -1871,8 +1851,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accelerate data entry
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accelerate-data-entry?u=76281980)
+#### [Accelerate data entry](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accelerate-data-entry?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1886,7 +1865,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accelerate-data-entry?u=76281980&t=15)** And as I'm typing this, I am thinking, the column does not have to be as wide as this entry.
 >
-> **[0:20](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accelerate-data-entry?u=76281980&t=20)** I want the word salary underneath this in the same cell.
+> **[0:20](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accelerate-data-entry?u=76281980&t=20)** I want the [[Microsoft Word|word]] salary underneath this in the same cell.
 >
 > **[0:24](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accelerate-data-entry?u=76281980&t=24)** We can do this by pressing alt, enter.
 >
@@ -2002,7 +1981,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), data (3), [[Microsoft Word|Word]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Analogies:** imagine (5), for example (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** dropdown (1), go to (1)
@@ -2011,12 +1990,11 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [speaker] (1)
 
-#### Enter dates and date series efficiently
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/enter-dates-and-date-series-efficiently?u=76281980)
+#### [Enter dates and date series efficiently](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/enter-dates-and-date-series-efficiently?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/enter-dates-and-date-series-efficiently?u=76281980&t=0)** - [Instructor] Anytime you're putting in date-based data in Excel, there are lots of shortcuts that you can rely upon.
+> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/enter-dates-and-date-series-efficiently?u=76281980&t=0)** - [Instructor] Anytime you're putting in date-based data in [[Microsoft Excel|Excel]], there are lots of shortcuts that you can rely upon.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/enter-dates-and-date-series-efficiently?u=76281980&t=6)** In column A, I've put in J-a-n, the abbreviation for January.
 >
@@ -2116,19 +2094,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), [[Microsoft Excel|Excel]] (5), data (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5)
 > **Analogies:** for example (2), just like (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** tues (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enter times and time series efficiently
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/enter-times-and-time-series-efficiently?u=76281980)
+#### [Enter times and time series efficiently](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/enter-times-and-time-series-efficiently?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/enter-times-and-time-series-efficiently?u=76281980&t=0)** - [Instructor] In addition to a number of date-based shortcuts that you might have seen in the previous movie, Excel also has some similar techniques for working with times.
+> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/enter-times-and-time-series-efficiently?u=76281980&t=0)** - [Instructor] In addition to a number of date-based shortcuts that you might have seen in the previous movie, [[Microsoft Excel|Excel]] also has some similar techniques for working with times.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/enter-times-and-time-series-efficiently?u=76281980&t=7)** And on this autofill worksheet over in cell K2 is a time.
 >
@@ -2206,7 +2183,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/enter-times-and-time-series-efficiently?u=76281980&t=187)** You always want to be careful whether it's AM/PM.
 >
-> **[3:10](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/enter-times-and-time-series-efficiently?u=76281980&t=190)** If you say, well, I checked into the office this morning at 7:45, whether you put in the A or whether you press Enter, it's 7:45 AM.
+> **[3:10](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/enter-times-and-time-series-efficiently?u=76281980&t=190)** If you say, well, I checked into the [[Microsoft Office|office]] this morning at 7:45, whether you put in the A or whether you press Enter, it's 7:45 AM.
 >
 > **[3:19](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/enter-times-and-time-series-efficiently?u=76281980&t=199)** If you leave the office at 5:15, if you simply press Enter, that's 5:15 AM.
 >
@@ -2228,7 +2205,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), data (2), [[Microsoft Office|Office]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Microsoft Office|Office]] (2)
 > **Ports:** :30 (7), :45 (5), :15 (3), :00 (2), :02 (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (1), imagine (1)
@@ -2236,12 +2213,11 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Custom Lists for rapid data entry and list-based sorting
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/use-custom-lists-for-rapid-data-entry-and-list-based-sorting?u=76281980)
+#### [Use Custom Lists for rapid data entry and list-based sorting](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/use-custom-lists-for-rapid-data-entry-and-list-based-sorting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/use-custom-lists-for-rapid-data-entry-and-list-based-sorting?u=76281980&t=0)** - [Instructor] Sorting data in Excel is fast and easy.
+> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/use-custom-lists-for-rapid-data-entry-and-list-based-sorting?u=76281980&t=0)** - [Instructor] Sorting data in [[Microsoft Excel|Excel]] is fast and easy.
 >
 > **[0:03](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/use-custom-lists-for-rapid-data-entry-and-list-based-sorting?u=76281980&t=3)** It is particularly valuable when you're working with large lists, and most of the time sorting simply means moving rows of lists up or down.
 >
@@ -2349,7 +2325,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), data (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6)
 > **Analogies:** for example (2), imagine (1)
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
@@ -2359,12 +2335,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accelerate copy and move tasks in cells and worksheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accelerate-copy-and-move-tasks-in-cells-and-worksheets?u=76281980)
+#### [Accelerate copy and move tasks in cells and worksheets](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accelerate-copy-and-move-tasks-in-cells-and-worksheets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accelerate-copy-and-move-tasks-in-cells-and-worksheets?u=76281980&t=0)** - [Instructor] Copying data, moving data, those are tasks we perform frequently as we work with Excel.
+> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accelerate-copy-and-move-tasks-in-cells-and-worksheets?u=76281980&t=0)** - [Instructor] Copying data, moving data, those are tasks we perform frequently as we work with [[Microsoft Excel|Excel]].
 >
 > **[0:05](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accelerate-copy-and-move-tasks-in-cells-and-worksheets?u=76281980&t=5)** On this worksheet called sales, I might want to make a copy of this data here.
 >
@@ -2440,17 +2415,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Drag and insert cells with the Shift key
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/drag-and-insert-cells-with-the-shift-key?u=76281980)
+#### [Drag and insert cells with the Shift key](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/drag-and-insert-cells-with-the-shift-key?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/drag-and-insert-cells-with-the-shift-key?u=76281980&t=0)** - [Instructor] A great shortcut, but not so well known in Excel is the ability to move and insert in one single step.
+> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/drag-and-insert-cells-with-the-shift-key?u=76281980&t=0)** - [Instructor] A great shortcut, but not so well known in [[Microsoft Excel|Excel]] is the ability to move and insert in one single step.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/drag-and-insert-cells-with-the-shift-key?u=76281980&t=8)** Let's imagine, on this worksheet called HR List in our chapter six file, I want the status column here to be to the left of the ID column.
 >
@@ -2516,12 +2490,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (2), hr (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Display Paste Special options instantly
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/display-paste-special-options-instantly?u=76281980)
+#### [Display Paste Special options instantly](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/display-paste-special-options-instantly?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2535,7 +2508,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/display-paste-special-options-instantly?u=76281980&t=26)** We could easily see 12 rows there.
 >
-> **[0:29](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/display-paste-special-options-instantly?u=76281980&t=29)** There's a feature in Excel called Transpose.
+> **[0:29](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/display-paste-special-options-instantly?u=76281980&t=29)** There's a feature in [[Microsoft Excel|Excel]] called Transpose.
 >
 > **[0:31](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/display-paste-special-options-instantly?u=76281980&t=31)** We don't have to retype any of this data.
 >
@@ -2585,7 +2558,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), feature (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** a17 (2)
 > **UI Navigation:** right-click (1), go to (1)
 > **Analogies:** for example (2)
@@ -2593,12 +2566,11 @@ created: 2026-05-02
 > **Versions:** 625.70 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accelerate formatting with the right mouse button
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accelerate-formatting-with-the-right-mouse-button?u=76281980)
+#### [Accelerate formatting with the right mouse button](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accelerate-formatting-with-the-right-mouse-button?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accelerate-formatting-with-the-right-mouse-button?u=76281980&t=0)** - [Instructor] In Excel, we use the right mouse button primarily for shortcut menus.
+> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accelerate-formatting-with-the-right-mouse-button?u=76281980&t=0)** - [Instructor] In [[Microsoft Excel|Excel]], we use the right mouse button primarily for shortcut menus.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accelerate-formatting-with-the-right-mouse-button?u=76281980&t=4)** But we can also use it in a different way, by dragging data.
 >
@@ -2686,7 +2658,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (1)
 > **Analogies:** imagine (1)
@@ -2698,12 +2670,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create formulas rapidly
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-formulas-rapidly?u=76281980)
+#### [Create formulas rapidly](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-formulas-rapidly?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-formulas-rapidly?u=76281980&t=0)** - [Instructor] Writing formulas in Excel, a critical task, but there are some shortcuts that make it easier.
+> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-formulas-rapidly?u=76281980&t=0)** - [Instructor] Writing formulas in [[Microsoft Excel|Excel]], a critical task, but there are some shortcuts that make it easier.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-formulas-rapidly?u=76281980&t=6)** I've got a worksheet here called HR List that's in our Chapter 7 file.
 >
@@ -2841,14 +2812,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (2), hr (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** right-click (1), click on (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** j742 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Select all dependent or precedent cells
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/select-all-dependent-or-precedent-cells?u=76281980)
+#### [Select all dependent or precedent cells](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/select-all-dependent-or-precedent-cells?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2960,7 +2930,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6)
 > **UI Navigation:** click on (2), go to (2), double-click (2)
 > **Env Vars:** l27 (3), l11 (1), k27 (1)
 > **Definitions:** in other words (2), is a  (1)
@@ -2969,12 +2938,11 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use AutoSum shortcuts
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/use-autosum-shortcuts?u=76281980)
+#### [Use AutoSum shortcuts](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/use-autosum-shortcuts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/use-autosum-shortcuts?u=76281980&t=0)** - [Instructor] The most commonly used function in Excel, and it's true for nearly all Excel users is SUM.
+> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/use-autosum-shortcuts?u=76281980&t=0)** - [Instructor] The most commonly used function in [[Microsoft Excel|Excel]], and it's true for nearly all Excel users is SUM.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/use-autosum-shortcuts?u=76281980&t=6)** Sum, we need totals.
 >
@@ -3034,14 +3002,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (4)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **Env Vars:** sum (2)
 > **UI Navigation:** click on (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Conditional Formatting to highlight formula cells only
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/use-conditional-formatting-to-highlight-formula-cells-only?u=76281980)
+#### [Use Conditional Formatting to highlight formula cells only](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/use-conditional-formatting-to-highlight-formula-cells-only?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3069,7 +3036,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/use-conditional-formatting-to-highlight-formula-cells-only?u=76281980&t=59)** First of all, I'll click in the upper left corner, extreme upper left corner to the left of the column letters and above the row numbers, that selects the entire worksheet.
 >
-> **[1:07](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/use-conditional-formatting-to-highlight-formula-cells-only?u=76281980&t=67)** There's a function in Excel called ISFORMULA and it's primarily used for documentation.
+> **[1:07](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/use-conditional-formatting-to-highlight-formula-cells-only?u=76281980&t=67)** There's a function in [[Microsoft Excel|Excel]] called ISFORMULA and it's primarily used for documentation.
 >
 > **[1:14](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/use-conditional-formatting-to-highlight-formula-cells-only?u=76281980&t=74)** We can test to see if a cell has a formula in it.
 >
@@ -3103,14 +3070,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** isformula (4)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Perform calculations without formulas
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/perform-calculations-without-formulas?u=76281980)
+#### [Perform calculations without formulas](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/perform-calculations-without-formulas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3184,7 +3150,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Versions:** 1.1 (3)
 > **Analogies:** imagine (1), for example (1)
 > **UI Navigation:** go to (1)
@@ -3197,12 +3162,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Re-align imported text
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/re-align-imported-text?u=76281980)
+#### [Re-align imported text](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/re-align-imported-text?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/re-align-imported-text?u=76281980&t=0)** - [Instructor] If you're dealing with long text entries perhaps you've copied something from Microsoft Word or off the internet.
+> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/re-align-imported-text?u=76281980&t=0)** - [Instructor] If you're dealing with long text entries perhaps you've copied something from [[Microsoft Word]] or off the internet.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/re-align-imported-text?u=76281980&t=6)** I've done that here in cell B2.
 >
@@ -3226,7 +3190,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/re-align-imported-text?u=76281980&t=46)** Click the drop arrow and it's called Justify.
 >
-> **[0:51](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/re-align-imported-text?u=76281980&t=51)** And Excel is telling me that in doing this wrapping it will extend below the range.
+> **[0:51](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/re-align-imported-text?u=76281980&t=51)** And [[Microsoft Excel|Excel]] is telling me that in doing this wrapping it will extend below the range.
 >
 > **[0:56](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/re-align-imported-text?u=76281980&t=56)** I'm not sure how far.
 >
@@ -3286,14 +3250,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Word]] (1), [[Microsoft Excel|Excel]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** len (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collapse/expand detail quickly with group/ungroup buttons
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/collapse-expand-detail-quickly-with-group-ungroup-buttons?u=76281980)
+#### [Collapse/expand detail quickly with group/ungroup buttons](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/collapse-expand-detail-quickly-with-group-ungroup-buttons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3303,11 +3266,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/collapse-expand-detail-quickly-with-group-ungroup-buttons?u=76281980&t=7)** Imagine if you had to make a presentation of this information.
 >
-> **[0:10](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/collapse-expand-detail-quickly-with-group-ungroup-buttons?u=76281980&t=10)** It might not be too much for some audiences, but Excel has an interesting tool that allows us to expand and collapse a list like this.
+> **[0:10](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/collapse-expand-detail-quickly-with-group-ungroup-buttons?u=76281980&t=10)** It might not be too much for some audiences, but [[Microsoft Excel|Excel]] has an interesting tool that allows us to expand and collapse a list like this.
 >
 > **[0:19](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/collapse-expand-detail-quickly-with-group-ungroup-buttons?u=76281980&t=19)** It's all based on the following idea.
 >
-> **[0:21](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/collapse-expand-detail-quickly-with-group-ungroup-buttons?u=76281980&t=21)** I'm going to zoom in momentarily here using control in the mouse wheel.
+> **[0:21](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/collapse-expand-detail-quickly-with-group-ungroup-buttons?u=76281980&t=21)** I'm going to [[Zoom]] in momentarily here using control in the mouse wheel.
 >
 > **[0:25](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/collapse-expand-detail-quickly-with-group-ungroup-buttons?u=76281980&t=25)** In Column E, we're seeing formulas to tabulate data from the left, and all those yellow cells in Column E and in Column I, and also for each quarter here off to the right Column M, Column Q, they're all doing the same kind of thing.
 >
@@ -3385,7 +3348,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Zoom]] (3), [[Microsoft Excel|Excel]] (1), feature (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), [[Microsoft Excel|Excel]] (1)
 > **Cross-References:** go back to (1), as we saw (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
@@ -3393,8 +3356,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create double-spaced printouts quickly
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-double-spaced-printouts-quickly?u=76281980)
+#### [Create double-spaced printouts quickly](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-double-spaced-printouts-quickly?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3496,7 +3458,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), hr (2)
 > **CLI Commands:** make (2)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -3506,12 +3467,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use keyboard shortcuts for frequently used numeric formats
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/use-keyboard-shortcuts-for-frequently-used-numeric-formats?u=76281980)
+#### [Use keyboard shortcuts for frequently used numeric formats](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/use-keyboard-shortcuts-for-frequently-used-numeric-formats?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/use-keyboard-shortcuts-for-frequently-used-numeric-formats?u=76281980&t=0)** - [Instructor] Among the many keystroke shortcuts that you can use in Excel, a valuable set of them relates to number formats, and they're conveniently located next to each other.
+> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/use-keyboard-shortcuts-for-frequently-used-numeric-formats?u=76281980&t=0)** - [Instructor] Among the many keystroke shortcuts that you can use in [[Microsoft Excel|Excel]], a valuable set of them relates to number formats, and they're conveniently located next to each other.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/use-keyboard-shortcuts-for-frequently-used-numeric-formats?u=76281980&t=10)** As you look at your keyboard, the number 1, 2, 3, 4, 5, 6 keys of course are together.
 >
@@ -3661,13 +3621,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **Analogies:** for example (2), similar to (1), imagine (1)
 > **UI Navigation:** toggle (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accentuate data with alignment tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accentuate-data-with-alignment-tools?u=76281980)
+#### [Accentuate data with alignment tools](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accentuate-data-with-alignment-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3687,7 +3646,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accentuate-data-with-alignment-tools?u=76281980&t=30)** If we try and do both of these together by using this button on the home tab, right here, which is called merge and center.
 >
-> **[0:37](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accentuate-data-with-alignment-tools?u=76281980&t=37)** If we click this, Excel is telling us it only keeps the upper left value.
+> **[0:37](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accentuate-data-with-alignment-tools?u=76281980&t=37)** If we click this, [[Microsoft Excel|Excel]] is telling us it only keeps the upper left value.
 >
 > **[0:41](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/accentuate-data-with-alignment-tools?u=76281980&t=41)** So if you click okay here, we've lost the other data.
 >
@@ -3741,18 +3700,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Definitions:** in other words (2), is called (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** in the menu (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add/remove borders and strikethrough with keyboard shortcuts
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/add-remove-borders-and-strikethrough-with-keyboard-shortcuts?u=76281980)
+#### [Add/remove borders and strikethrough with keyboard shortcuts](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/add-remove-borders-and-strikethrough-with-keyboard-shortcuts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/add-remove-borders-and-strikethrough-with-keyboard-shortcuts?u=76281980&t=0)** - [Instructor] Excel has a number of font formatting tools.
+> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/add-remove-borders-and-strikethrough-with-keyboard-shortcuts?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] has a number of font formatting tools.
 >
 > **[0:03](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/add-remove-borders-and-strikethrough-with-keyboard-shortcuts?u=76281980&t=3)** And on the Home tab, no doubt you're familiar with bold, and italic, and underlining, probably a number of these as well.
 >
@@ -3850,14 +3808,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (4)
 > **Definitions:** in other words (1), is a  (1), is called (1)
 > **UI Navigation:** toggle (1)
 > **Speakers:** - [instructor] (1)
 
-#### Display values in thousands or millions without formulas
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/display-values-in-thousands-or-millions-without-formulas?u=76281980)
+#### [Display values in thousands or millions without formulas](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/display-values-in-thousands-or-millions-without-formulas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3957,12 +3914,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Quickly format phone and SS numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/quickly-format-phone-and-ss-numbers?u=76281980)
+#### [Quickly format phone and SS numbers](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/quickly-format-phone-and-ss-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/quickly-format-phone-and-ss-numbers?u=76281980&t=0)** - [Instructor] Excel has a variety of numeric formats and also a category of formats called Special.
+> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/quickly-format-phone-and-ss-numbers?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] has a variety of numeric formats and also a category of formats called Special.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/quickly-format-phone-and-ss-numbers?u=76281980&t=6)** And in column B, we're seeing some social security numbers.
 >
@@ -4072,7 +4028,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), data (2), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Best Practices:** recommended (2)
 > **Definitions:** is a  (1)
@@ -4084,12 +4040,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Clean up spaces quickly with the TRIM function
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/clean-up-spaces-quickly-with-the-trim-function?u=76281980)
+#### [Clean up spaces quickly with the TRIM function](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/clean-up-spaces-quickly-with-the-trim-function?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/clean-up-spaces-quickly-with-the-trim-function?u=76281980&t=0)** - [Instructor] Unwanted spaces in data can cause big problems in Excel.
+> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/clean-up-spaces-quickly-with-the-trim-function?u=76281980&t=0)** - [Instructor] Unwanted spaces in data can cause big problems in [[Microsoft Excel|Excel]].
 >
 > **[0:04](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/clean-up-spaces-quickly-with-the-trim-function?u=76281980&t=4)** And we see some obvious problems on this worksheet called HR List Spaces in our chapter 10 file.
 >
@@ -4179,18 +4134,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Excel|Excel]] (1), hr (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** az (2), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Split column data using Text to Columns and Flash Fill
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/split-column-data-using-text-to-columns-and-flash-fill?u=76281980)
+#### [Split column data using Text to Columns and Flash Fill](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/split-column-data-using-text-to-columns-and-flash-fill?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/split-column-data-using-text-to-columns-and-flash-fill?u=76281980&t=0)** - [Instructor] When you work with lists in Excel sometimes you recognize that there's too much data within a cell in certain columns.
+> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/split-column-data-using-text-to-columns-and-flash-fill?u=76281980&t=0)** - [Instructor] When you work with lists in [[Microsoft Excel|Excel]] sometimes you recognize that there's too much data within a cell in certain columns.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/split-column-data-using-text-to-columns-and-flash-fill?u=76281980&t=6)** Now there's nothing truly wrong with the data in column A, but we can't sort that list by last name.
 >
@@ -4208,7 +4162,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/split-column-data-using-text-to-columns-and-flash-fill?u=76281980&t=39)** So, text to columns.
 >
-> **[0:41](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/split-column-data-using-text-to-columns-and-flash-fill?u=76281980&t=41)** The key word here is delimited, then next.
+> **[0:41](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/split-column-data-using-text-to-columns-and-flash-fill?u=76281980&t=41)** The key [[Microsoft Word|word]] here is delimited, then next.
 >
 > **[0:45](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/split-column-data-using-text-to-columns-and-flash-fill?u=76281980&t=45)** And you might have leftover choices here from a previous use.
 >
@@ -4308,17 +4262,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), feature (4), [[Microsoft Excel|Excel]] (3), next (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Microsoft Word|Word]] (1)
 > **Analogies:** imagine (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ensure unique entries with data validation rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/ensure-unique-entries-with-data-validation-rules?u=76281980)
+#### [Ensure unique entries with data validation rules](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/ensure-unique-entries-with-data-validation-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/ensure-unique-entries-with-data-validation-rules?u=76281980&t=0)** - [Instructor] We're building a list on this worksheet called data validation.
+> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/ensure-unique-entries-with-data-validation-rules?u=76281980&t=0)** - [Instructor] We're building a list on this worksheet called [[Data Validation]].
 >
 > **[0:03](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/ensure-unique-entries-with-data-validation-rules?u=76281980&t=3)** And in column B, we're putting in ID numbers.
 >
@@ -4388,7 +4341,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/ensure-unique-entries-with-data-validation-rules?u=76281980&t=131)** And the second one is we want to use this function called LEN.
 >
-> **[2:14](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/ensure-unique-entries-with-data-validation-rules?u=76281980&t=134)** Think of the word length.
+> **[2:14](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/ensure-unique-entries-with-data-validation-rules?u=76281980&t=134)** Think of the [[Microsoft Word|word]] length.
 >
 > **[2:15](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/ensure-unique-entries-with-data-validation-rules?u=76281980&t=135)** We want to make sure that the length of that new entry, and once again we use B1 here, is equal to four.
 >
@@ -4444,11 +4397,11 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/ensure-unique-entries-with-data-validation-rules?u=76281980&t=227)** So ideally, you establish data validation before you put in any data.
 >
-> **[3:52](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/ensure-unique-entries-with-data-validation-rules?u=76281980&t=232)** It's a valuable tool to keep out bad data, which is a big problem with certain kinds of lists in Excel.
+> **[3:52](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/ensure-unique-entries-with-data-validation-rules?u=76281980&t=232)** It's a valuable tool to keep out bad data, which is a big problem with certain kinds of lists in [[Microsoft Excel|Excel]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), feature (1), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Data Validation]] (10), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** countif (3), len (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1)
@@ -4461,8 +4414,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Control chart placement and sizing with dragging techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/control-chart-placement-and-sizing-with-dragging-techniques?u=76281980)
+#### [Control chart placement and sizing with dragging techniques](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/control-chart-placement-and-sizing-with-dragging-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4480,7 +4432,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/control-chart-placement-and-sizing-with-dragging-techniques?u=76281980&t=28)** So we'll press alt F1, function key F1 alt F1, and we get a chart.
 >
-> **[0:33](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/control-chart-placement-and-sizing-with-dragging-techniques?u=76281980&t=33)** This is Excel's default chart type.
+> **[0:33](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/control-chart-placement-and-sizing-with-dragging-techniques?u=76281980&t=33)** This is [[Microsoft Excel|Excel]]'s default chart type.
 >
 > **[0:35](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/control-chart-placement-and-sizing-with-dragging-techniques?u=76281980&t=35)** It's called a clustered column chart.
 >
@@ -4570,7 +4522,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/control-chart-placement-and-sizing-with-dragging-techniques?u=76281980&t=219)** I'll switch row column on one of them and maybe move these around a little bit.
 >
-> **[3:43](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/control-chart-placement-and-sizing-with-dragging-techniques?u=76281980&t=223)** Zoom back, control with the mouse wheel perhaps and consider keeping both of these.
+> **[3:43](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/control-chart-placement-and-sizing-with-dragging-techniques?u=76281980&t=223)** [[Zoom]] back, control with the mouse wheel perhaps and consider keeping both of these.
 >
 > **[3:48](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/control-chart-placement-and-sizing-with-dragging-techniques?u=76281980&t=228)** So, we can move these charts around.
 >
@@ -4584,7 +4536,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (1), go to (1)
 > **Analogies:** for example (1), imagine (1)
@@ -4592,8 +4544,7 @@ created: 2026-05-02
 > **Cross-References:** as you saw (1)
 > **Speakers:** - we (1)
 
-#### Create and manipulate shapes with the Shift, Ctrl, and Alt keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-and-manipulate-shapes-with-the-shift-ctrl-and-alt-keys?u=76281980)
+#### [Create and manipulate shapes with the Shift, Ctrl, and Alt keys](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-and-manipulate-shapes-with-the-shift-ctrl-and-alt-keys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4688,8 +4639,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create linked dynamic and linked static images
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-linked-dynamic-and-linked-static-images?u=76281980)
+#### [Create linked dynamic and linked static images](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-linked-dynamic-and-linked-static-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4715,7 +4665,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-linked-dynamic-and-linked-static-images?u=76281980&t=46)** All those colored cells are formulas.
 >
-> **[0:48](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-linked-dynamic-and-linked-static-images?u=76281980&t=48)** As I click one of these here in Cell B3, and I'll zoom in on this using Control in the mouse wheel.
+> **[0:48](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-linked-dynamic-and-linked-static-images?u=76281980&t=48)** As I click one of these here in Cell B3, and I'll [[Zoom]] in on this using Control in the mouse wheel.
 >
 > **[0:55](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/create-linked-dynamic-and-linked-static-images?u=76281980&t=55)** That formula is getting data from the 1stQuarter sheet, and this formula here is getting data from the 2ndQuarter sheet, and so on, and so on, and so on.
 >
@@ -4777,7 +4727,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Analogies:** picture (7), imagine (2), similar to (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (3)
@@ -4790,14 +4740,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Become a more proficient Excel user with these short tips
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/become-a-more-proficient-excel-user-with-these-short-tips?u=76281980)
+#### [Become a more proficient Excel user with these short tips](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/become-a-more-proficient-excel-user-with-these-short-tips?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/become-a-more-proficient-excel-user-with-these-short-tips?u=76281980&t=0)** - [Instructor] On this worksheet called 10 Tiny Tips, look at the blue panel on the right.
 >
-> **[0:04](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/become-a-more-proficient-excel-user-with-these-short-tips?u=76281980&t=4)** Small tips, some of which you might have seen in earlier movies, but this is pulling together a lot of short tips that'll make your work with Excel more efficient.
+> **[0:04](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/become-a-more-proficient-excel-user-with-these-short-tips?u=76281980&t=4)** Small tips, some of which you might have seen in earlier movies, but this is pulling together a lot of short tips that'll make your work with [[Microsoft Excel|Excel]] more efficient.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/become-a-more-proficient-excel-user-with-these-short-tips?u=76281980&t=12)** Press Control + Enter to keep the active cell in place.
 >
@@ -4913,7 +4862,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (4)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **UI Navigation:** right-click (6), go to (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for example (3)
@@ -4926,14 +4875,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue learning Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/continue-learning-excel?u=76281980)
+#### [Continue learning Excel](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/continue-learning-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/continue-learning-excel?u=76281980&t=0)** - [Host] Congratulations, you've completed this course and are well on your way to becoming a proficient Excel user.
+> **[0:00](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/continue-learning-excel?u=76281980&t=0)** - [Host] Congratulations, you've completed this course and are well on your way to becoming a proficient [[Microsoft Excel|Excel]] user.
 >
-> **[0:06](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/continue-learning-excel?u=76281980&t=6)** If there are any topics you'd like to explore further you can check out my other LinkedIn Learning courses or join me each Tuesday for the latest episode of "Excel Tips Weekly."
+> **[0:06](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/continue-learning-excel?u=76281980&t=6)** If there are any topics you'd like to explore further you can check out my other [[LinkedIn]] Learning courses or join me each Tuesday for the latest episode of "Excel Tips Weekly."
 >
 > **[0:17](https://www.linkedin.com/learning/excel-tips-and-tricks-2023/continue-learning-excel?u=76281980&t=17)** I'm Dennis Taylor, thank you for watching.
 

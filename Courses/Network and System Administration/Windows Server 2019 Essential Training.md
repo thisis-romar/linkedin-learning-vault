@@ -94,14 +94,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring Windows Server 2019
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/exploring-windows-server-2019?u=76281980)
+#### [Exploring Windows Server 2019](https://www.linkedin.com/learning/windows-server-2019-essential-training/exploring-windows-server-2019?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/exploring-windows-server-2019?u=76281980&t=0)** - [Scott] So, Windows Server 2019 is here.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/exploring-windows-server-2019?u=76281980&t=0)** - [Scott] So, [[Windows Server]] 2019 is here.
 >
-> **[0:04](https://www.linkedin.com/learning/windows-server-2019-essential-training/exploring-windows-server-2019?u=76281980&t=4)** Microsoft has done something really unique with this one, something they've never done before.
+> **[0:04](https://www.linkedin.com/learning/windows-server-2019-essential-training/exploring-windows-server-2019?u=76281980&t=4)** [[Microsoft]] has done something really unique with this one, something they've never done before.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-server-2019-essential-training/exploring-windows-server-2019?u=76281980&t=9)** Most of the amazing advances in this version of Windows Server were introduced in production releases of Windows Server up to a year early.
 >
@@ -113,7 +112,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/windows-server-2019-essential-training/exploring-windows-server-2019?u=76281980&t=42)** And we're going to talk about the role of the IT community in choosing and proving out those features.
 >
-> **[0:49](https://www.linkedin.com/learning/windows-server-2019-essential-training/exploring-windows-server-2019?u=76281980&t=49)** My name is Scott Burrell, and I've been watching Microsoft evolve their server products for over two decades.
+> **[0:49](https://www.linkedin.com/learning/windows-server-2019-essential-training/exploring-windows-server-2019?u=76281980&t=49)** My name is Scott Burrell, and I've been watching Microsoft evolve their server [[Microsoft Products|products]] for over two decades.
 >
 > **[0:55](https://www.linkedin.com/learning/windows-server-2019-essential-training/exploring-windows-server-2019?u=76281980&t=55)** Let's walk through the essentials of using this latest version, Windows Server 2019, in your production environment.
 
@@ -122,18 +121,17 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Windows Server]] (6), [[Microsoft]] (2), [[Microsoft Products|Products]] (1)
 > **Speakers:** - [scott] (1)
 
-#### What you should already know
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/what-you-should-already-know?u=76281980)
+#### [What you should already know](https://www.linkedin.com/learning/windows-server-2019-essential-training/what-you-should-already-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/what-you-should-already-know?u=76281980&t=0)** - [Instructor] Windows Server 2019 is designed to provide the features needed for small networks, for enterprise data centers, and for everything in between.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/what-you-should-already-know?u=76281980&t=0)** - [Instructor] [[Windows Server]] 2019 is designed to provide the features needed for small networks, for enterprise data centers, and for everything in between.
 >
 > **[0:11](https://www.linkedin.com/learning/windows-server-2019-essential-training/what-you-should-already-know?u=76281980&t=11)** That means that there are features designed for all levels.
 >
 > **[0:14](https://www.linkedin.com/learning/windows-server-2019-essential-training/what-you-should-already-know?u=76281980&t=14)** There are no prerequisites for this course.
 >
-> **[0:17](https://www.linkedin.com/learning/windows-server-2019-essential-training/what-you-should-already-know?u=76281980&t=17)** Whether you're just beginning with Windows servers or if you've been administering them for years, there's something here for you.
+> **[0:17](https://www.linkedin.com/learning/windows-server-2019-essential-training/what-you-should-already-know?u=76281980&t=17)** Whether you're just beginning with [[Windows]] servers or if you've been administering them for years, there's something here for you.
 >
 > **[0:24](https://www.linkedin.com/learning/windows-server-2019-essential-training/what-you-should-already-know?u=76281980&t=24)** As you go through this course, there are a few things that will help you get the most out of the presentations and demonstrations here.
 >
@@ -143,7 +141,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/windows-server-2019-essential-training/what-you-should-already-know?u=76281980&t=48)** I'm doing all of the demonstrations in this course on a Windows 2019 Data Center Edition server installed with 128 gig of RAM and quite a bit of hard drive space.
 >
-> **[1:01](https://www.linkedin.com/learning/windows-server-2019-essential-training/what-you-should-already-know?u=76281980&t=61)** Many of the roles and features that we're going to discuss in this course are designed to run in Active Directory environments.
+> **[1:01](https://www.linkedin.com/learning/windows-server-2019-essential-training/what-you-should-already-know?u=76281980&t=61)** Many of the roles and features that we're going to discuss in this course are designed to run in [[Active Directory]] environments.
 >
 > **[1:08](https://www.linkedin.com/learning/windows-server-2019-essential-training/what-you-should-already-know?u=76281980&t=68)** If you're already familiar with creating an Active Directory domain, you'll find that the process hasn't really changed in Server 2019.
 >
@@ -151,7 +149,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/windows-server-2019-essential-training/what-you-should-already-know?u=76281980&t=87)** Most of all, it will help if you start this course with an open mind.
 >
-> **[1:32](https://www.linkedin.com/learning/windows-server-2019-essential-training/what-you-should-already-know?u=76281980&t=92)** I'm going to demonstrate installing and managing various roles and capabilities in legacy tools, in PowerShell, and in a brand-new management platform.
+> **[1:32](https://www.linkedin.com/learning/windows-server-2019-essential-training/what-you-should-already-know?u=76281980&t=92)** I'm going to demonstrate installing and managing various roles and capabilities in legacy tools, in [[Powershell]], and in a brand-new management platform.
 >
 > **[1:42](https://www.linkedin.com/learning/windows-server-2019-essential-training/what-you-should-already-know?u=76281980&t=102)** All are available in this new version of Windows Server and I recommend that you consider each on their relative merits to decide what's best for you.
 >
@@ -159,7 +157,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (3), data (2), [[Windows]] (2), [[Active Directory]] (2), [[Virtualization]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (3), [[Windows]] (2), [[Active Directory]] (2), [[Powershell]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ram (1)
 > **Tools:** powershell (1)
@@ -171,16 +169,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### When to upgrade
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/when-to-upgrade?u=76281980)
+#### [When to upgrade](https://www.linkedin.com/learning/windows-server-2019-essential-training/when-to-upgrade?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/when-to-upgrade?u=76281980&t=0)** - [Instructor] I was speaking recently with a network administrator for a global company.
 >
-> **[0:04](https://www.linkedin.com/learning/windows-server-2019-essential-training/when-to-upgrade?u=76281980&t=4)** He told me that his IT infrastructure was out of date because his Windows Servers were a version or two behind the newest thing from Microsoft.
+> **[0:04](https://www.linkedin.com/learning/windows-server-2019-essential-training/when-to-upgrade?u=76281980&t=4)** He told me that his IT infrastructure was out of date because his [[Windows]] Servers were a version or two behind the newest thing from [[Microsoft]].
 >
-> **[0:14](https://www.linkedin.com/learning/windows-server-2019-essential-training/when-to-upgrade?u=76281980&t=14)** The long-term Windows Server releases like Server 2012, 2016, and now Windows Server 2019 are meant to remain functional for more than just a couple of years, so this is a normal situation.
+> **[0:14](https://www.linkedin.com/learning/windows-server-2019-essential-training/when-to-upgrade?u=76281980&t=14)** The long-term [[Windows Server]] releases like Server 2012, 2016, and now Windows Server 2019 are meant to remain functional for more than just a couple of years, so this is a normal situation.
 >
 > **[0:29](https://www.linkedin.com/learning/windows-server-2019-essential-training/when-to-upgrade?u=76281980&t=29)** A new one will come out every two to four years and they'll be supported for approximately 10 years.
 >
@@ -202,7 +199,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/windows-server-2019-essential-training/when-to-upgrade?u=76281980&t=147)** You still need to consider all of this, but you also need to take into account the minimum system requirements.
 >
-> **[2:34](https://www.linkedin.com/learning/windows-server-2019-essential-training/when-to-upgrade?u=76281980&t=154)** For example, Windows Server 2019 has hardware requirements that may seem very similar to Server 2016.
+> **[2:34](https://www.linkedin.com/learning/windows-server-2019-essential-training/when-to-upgrade?u=76281980&t=154)** For example, Windows Server 2019 has [[Hardware]] requirements that may seem very similar to Server 2016.
 >
 > **[2:42](https://www.linkedin.com/learning/windows-server-2019-essential-training/when-to-upgrade?u=76281980&t=162)** A minimum of a 1.4 gigahertz 64-bit processor that supports memory protection and Second Level Address Translation is still a requirement, especially for virtualization roles.
 >
@@ -220,7 +217,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/windows-server-2019-essential-training/when-to-upgrade?u=76281980&t=225)** You also need to make sure that your network controllers support the PCI Express architecture and that they support at least one gigabit per second of throughput.
 >
-> **[3:56](https://www.linkedin.com/learning/windows-server-2019-essential-training/when-to-upgrade?u=76281980&t=236)** And even after you look at all of these requirements, if you're upgrading a network, you need to consider the roles like ADFS or Certificate Services, or even more common, Active Directory.
+> **[3:56](https://www.linkedin.com/learning/windows-server-2019-essential-training/when-to-upgrade?u=76281980&t=236)** And even after you look at all of these requirements, if you're upgrading a network, you need to consider the roles like ADFS or Certificate Services, or even more common, [[Active Directory]].
 >
 > **[4:11](https://www.linkedin.com/learning/windows-server-2019-essential-training/when-to-upgrade?u=76281980&t=251)** These roles involve multiple servers working together, and upgrading them requires some planning.
 >
@@ -234,7 +231,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (16), [[Windows]] (3), [[Microsoft]] (2), functional (2), data (2)
+> **Frameworks & Libraries:** [[Windows Server]] (16), [[Windows]] (3), [[Microsoft]] (2), [[Hardware]] (1), [[Active Directory]] (1)
 > **Env Vars:** adfs (2), pci (1)
 > **Prerequisites:** install (2), make sure you have (1)
 > **CLI Commands:** make (2)
@@ -243,14 +240,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 
-#### Installation and configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/installation-and-configuration?u=76281980)
+#### [Installation and configuration](https://www.linkedin.com/learning/windows-server-2019-essential-training/installation-and-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/installation-and-configuration?u=76281980&t=0)** - [Instructor] Once the deployment of a new server has been planned, the installation itself if a pretty elementary task.
 >
-> **[0:07](https://www.linkedin.com/learning/windows-server-2019-essential-training/installation-and-configuration?u=76281980&t=7)** Unlike servers from long ago, the installation of Windows servers today only ask a small handful of questions.
+> **[0:07](https://www.linkedin.com/learning/windows-server-2019-essential-training/installation-and-configuration?u=76281980&t=7)** Unlike servers from long ago, the installation of [[Windows]] servers today only ask a small handful of questions.
 >
 > **[0:15](https://www.linkedin.com/learning/windows-server-2019-essential-training/installation-and-configuration?u=76281980&t=15)** And if the answers are known in advance, installation is pretty smooth.
 >
@@ -286,7 +282,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/windows-server-2019-essential-training/installation-and-configuration?u=76281980&t=131)** And this includes two things: the network address, and the computer or host name.
 >
-> **[2:18](https://www.linkedin.com/learning/windows-server-2019-essential-training/installation-and-configuration?u=76281980&t=138)** Just like in previous versions of Windows Server, the server manager loads by default.
+> **[2:18](https://www.linkedin.com/learning/windows-server-2019-essential-training/installation-and-configuration?u=76281980&t=138)** Just like in previous versions of [[Windows Server]], the server manager loads by default.
 >
 > **[2:23](https://www.linkedin.com/learning/windows-server-2019-essential-training/installation-and-configuration?u=76281980&t=143)** And, just as in previous versions of Windows Server, you can select this line next to ethernet and get the legacy interface for changing the IP address and network configuration of any interface in the machine.
 >
@@ -294,7 +290,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/windows-server-2019-essential-training/installation-and-configuration?u=76281980&t=168)** I'm going to assign it a static IP address,
 >
-> **[3:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/installation-and-configuration?u=76281980&t=180)** including the default gateway and DNS information provided to me by my network administration team.
+> **[3:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/installation-and-configuration?u=76281980&t=180)** including the default gateway and DNS information provided to me by my [[Network Administration]] team.
 >
 > **[3:17](https://www.linkedin.com/learning/windows-server-2019-essential-training/installation-and-configuration?u=76281980&t=197)** Assigning new IP configuration, even adding or removing IP version four or six, or switching from dynamic to static, none of these changes require a reboot.
 >
@@ -308,7 +304,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/windows-server-2019-essential-training/installation-and-configuration?u=76281980&t=236)** This can also be done from the server manager, but I want to show you a different path.
 >
-> **[4:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/installation-and-configuration?u=76281980&t=240)** I'm going to open PowerShell.
+> **[4:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/installation-and-configuration?u=76281980&t=240)** I'm going to open [[Powershell]].
 >
 > **[4:03](https://www.linkedin.com/learning/windows-server-2019-essential-training/installation-and-configuration?u=76281980&t=243)** And if you haven't started using PowerShell yet, it's time.
 >
@@ -366,13 +362,13 @@ created: 2026-05-02
 >
 > **[7:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/installation-and-configuration?u=76281980&t=420)** And that should take care of it.
 >
-> **[7:02](https://www.linkedin.com/learning/windows-server-2019-essential-training/installation-and-configuration?u=76281980&t=422)** If this server is also going to be part of an existing active directory domain, you should take care of joining it to the domain as soon as it reboots.
+> **[7:02](https://www.linkedin.com/learning/windows-server-2019-essential-training/installation-and-configuration?u=76281980&t=422)** If this server is also going to be part of an existing [[Active Directory]] domain, you should take care of joining it to the domain as soon as it reboots.
 >
 > **[7:12](https://www.linkedin.com/learning/windows-server-2019-essential-training/installation-and-configuration?u=76281980&t=432)** Then and only then will you have a fresh install of Windows Server 2019 that is ready to be put to work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (7), [[Windows Server]] (6), [[Windows]] (3), next (2), hit (2)
+> **Frameworks & Libraries:** [[Powershell]] (7), [[Windows Server]] (6), [[Windows]] (3), [[Network Administration]] (1), [[Active Directory]] (1)
 > **Prerequisites:** install (7), configure (1)
 > **Tools:** powershell (7)
 > **Env Vars:** ram (3), dns (1)
@@ -381,8 +377,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Cross-References:** we mentioned (1)
 
-#### Roles and features
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980)
+#### [Roles and features](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -402,11 +397,11 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=49)** File sharing is likely to require high volumes of storage and fast networking interfaces, while acting as a domain controller may require enhanced local security and controlled access.
 >
-> **[1:02](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=62)** Planning which roles you're going to add to a server should be done with these considerations of the security needs, of the hardware needs, of the processing and memory, as well as storage needs, from the individual servers.
+> **[1:02](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=62)** Planning which roles you're going to add to a server should be done with these considerations of the security needs, of the [[Hardware]] needs, of the processing and memory, as well as storage needs, from the individual servers.
 >
 > **[1:19](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=79)** Actually installing the role once you've made these decisions is quite easy.
 >
-> **[1:25](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=85)** Adding a role or feature can be done from the server manager or from PowerShell.
+> **[1:25](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=85)** Adding a role or feature can be done from the server manager or from [[Powershell]].
 >
 > **[1:31](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=91)** Here on the desktop experience, you can add any role or feature from right here in the server manager, from either selecting step two, notice again, step one was configure the server, and that is the server name, the network configuration and so on.
 >
@@ -414,7 +409,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=120)** This wizard starts with a welcome screen which most people read once and then check the box to never have to see it again and then moves on to the question of whether you're installing a role or a feature, a purpose for this server to conduct, or if you're installing an application that needs to be available to remote desktop clients.
 >
-> **[2:20](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=140)** If you're installing Microsoft Office for a Desktop As A Service environment, this is what you'd select Remote Desktop for.
+> **[2:20](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=140)** If you're installing [[Microsoft Office]] for a Desktop As A Service environment, this is what you'd select Remote Desktop for.
 >
 > **[2:29](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=149)** But we want to add a role or a feature to this server, so we'll remain with the top choice.
 >
@@ -424,7 +419,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=169)** But when you start managing multiple servers, you can add your entire data center worth of servers into this list and you can add roles or features to any server you like from this same wizard.
 >
-> **[3:03](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=183)** In this window, you can add any other Windows 2012 server, that includes 2012 and 2012 R2, as well as any other 2016 or 2019 servers that you want to manage.
+> **[3:03](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=183)** In this window, you can add any other [[Windows]] 2012 server, that includes 2012 and 2012 R2, as well as any other 2016 or 2019 servers that you want to manage.
 >
 > **[3:16](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=196)** And then you can move forward and select the roles and the features.
 >
@@ -440,7 +435,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=237)** If I was to select the web server, it only adds the management console, the tools that I need to administer that particular role.
 >
-> **[4:07](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=247)** If I were to pick something a little more involved, say Active Directory domain services, it's going to add a bigger list of tools.
+> **[4:07](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=247)** If I were to pick something a little more involved, say [[Active Directory]] domain services, it's going to add a bigger list of tools.
 >
 > **[4:15](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=255)** Other prerequisites might also be added to this list.
 >
@@ -458,7 +453,7 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=293)** That's sage advice, whether you're building a shed or deploying a certificate authority.
 >
-> **[4:59](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=299)** New versions of Windows server mean new features and upgraded versions of the roles you already know.
+> **[4:59](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=299)** New versions of [[Windows Server]] mean new features and upgraded versions of the roles you already know.
 >
 > **[5:06](https://www.linkedin.com/learning/windows-server-2019-essential-training/roles-and-features?u=76281980&t=306)** Sometimes, you may assume the installation is pretty much the same as you've seen in previous versions.
 >
@@ -494,7 +489,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (5), [[Powershell]] (3), management (3), [[Active Directory]] (3), [[Windows Server]] (3)
+> **Frameworks & Libraries:** [[Powershell]] (3), [[Active Directory]] (3), [[Windows Server]] (3), [[Hardware]] (1), [[Microsoft Office]] (1)
 > **Prerequisites:** install (5), configure (2), you'll need (1)
 > **Env Vars:** adfs (3), dns (1), dhcp (1), gui (1)
 > **Tools:** powershell (3)
@@ -503,8 +498,7 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### IP management roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980)
+#### [IP management roles](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -516,7 +510,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=22)** DNS helps you find servers, printers, and websites yes.
 >
-> **[0:26](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=26)** But it also tracks every object in active directory that's everything from group policies, to the email address of a user.
+> **[0:26](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=26)** But it also tracks every object in [[Active Directory]] that's everything from group policies, to the email address of a user.
 >
 > **[0:35](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=35)** All of that information is tracked down through the lookup service provided by DNS.
 >
@@ -552,7 +546,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=201)** This helps maintain the most complete and the most current list of hosts and their addresses throughout the network.
 >
-> **[3:29](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=209)** There's one other feature that I want to point out to you that's not new to Windows Server 2019.
+> **[3:29](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=209)** There's one other feature that I want to point out to you that's not new to [[Windows Server]] 2019.
 >
 > **[3:36](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=216)** But it is severely underutilized.
 >
@@ -572,7 +566,7 @@ created: 2026-05-02
 >
 > **[5:07](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=307)** This is a DHCP server that's in the same active directory domain, and this is where I'm going to install the feature.
 >
-> **[5:15](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=315)** It can be added to any Windows 2016 or 2019 server so long as the machine is not a domain controller and this feature is added in pretty much the same process as a role, I'm going to start by Add roles and features.
+> **[5:15](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=315)** It can be added to any [[Windows]] 2016 or 2019 server so long as the machine is not a domain controller and this feature is added in pretty much the same process as a role, I'm going to start by Add roles and features.
 >
 > **[5:32](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=332)** This is a server that I haven't yet checked the box to skip this welcome page.
 >
@@ -580,7 +574,7 @@ created: 2026-05-02
 >
 > **[5:45](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=345)** It's not in the first list so I need to move on, to the second list where you'll find IP Address Management IPAM Server, when you check the box, you'll see that not only do you get administration tools but there are several prerequisites that are being added as well.
 >
-> **[6:03](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=363)** The .NET Framework and [ASP.NET](https://ASP.NET) versions 4.7 components are required in addition to access to the DNS server tools.
+> **[6:03](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=363)** The .NET Framework and [[[ASP.NET]]](https://ASP.NET) versions 4.7 components are required in addition to access to the DNS server tools.
 >
 > **[6:15](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=375)** As a general rule I accept all of the prerequisites and tools that are offered to me when I install a role or a feature, but I do take time to scroll through them and see what they are.
 >
@@ -592,7 +586,7 @@ created: 2026-05-02
 >
 > **[6:41](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=401)** The dashboard that IPAM offers us is similar to that involved in many different software defined network packages.
 >
-> **[6:50](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=410)** Including Windows System Center, and third party products.
+> **[6:50](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=410)** Including Windows System Center, and third party [[Microsoft Products|products]].
 >
 > **[6:54](https://www.linkedin.com/learning/windows-server-2019-essential-training/ip-management-roles?u=76281980&t=414)** If you're using one of those products already, great.
 >
@@ -600,7 +594,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (14), feature (8), [[Active Directory]] (6), management (3), [[Windows Server]] (2)
+> **Frameworks & Libraries:** [[Active Directory]] (6), [[Windows Server]] (2), [[Windows]] (2), [[Microsoft Products|Products]] (2), [[ASP.NET]] (1)
 > **Env Vars:** dns (14), dhcp (6), ipam (3), net (2), tcp (1)
 > **Prerequisites:** install (5), configure (2)
 > **CLI Commands:** find (6)
@@ -609,8 +603,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), click on (1)
 > **Analogies:** for example (2)
 
-#### Upgrades and migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrades-and-migration?u=76281980)
+#### [Upgrades and migration](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrades-and-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -620,7 +613,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrades-and-migration?u=76281980&t=12)** The term is in-place upgrade.
 >
-> **[0:17](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrades-and-migration?u=76281980&t=17)** Every version of Windows Workstation and Windows Server has come with a list of operating systems that you can upgrade from.
+> **[0:17](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrades-and-migration?u=76281980&t=17)** Every version of [[Windows]] Workstation and [[Windows Server]] has come with a list of operating systems that you can upgrade from.
 >
 > **[0:25](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrades-and-migration?u=76281980&t=25)** Meaning if you're running a listed operating system you can install in a way that keeps all of the existing configurations, drivers, and applications, but changes to a newer version of Windows.
 >
@@ -628,7 +621,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrades-and-migration?u=76281980&t=46)** But doing this kind of upgrade comes with some obstacles.
 >
-> **[0:51](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrades-and-migration?u=76281980&t=51)** There is never a guarantee that the hardware and drivers supported by a previous operating system will be supported by a newer, more demanding version.
+> **[0:51](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrades-and-migration?u=76281980&t=51)** There is never a guarantee that the [[Hardware]] and drivers supported by a previous operating system will be supported by a newer, more demanding version.
 >
 > **[1:01](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrades-and-migration?u=76281980&t=61)** Second, over a period of time most computers inherit clutter from different applications, user preferences, updated drivers, and so on.
 >
@@ -640,7 +633,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrades-and-migration?u=76281980&t=95)** Given these insurmountable obstacles you may ask why someone would ever want to upgrade a server in the first place?
 >
-> **[1:43](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrades-and-migration?u=76281980&t=103)** Well, when Microsoft first announced a semi-annual release channel for Windows Server it became clear to me that an in-place upgrade option was going to need to become a reality at some point.
+> **[1:43](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrades-and-migration?u=76281980&t=103)** Well, when [[Microsoft]] first announced a semi-annual release channel for Windows Server it became clear to me that an in-place upgrade option was going to need to become a reality at some point.
 >
 > **[1:56](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrades-and-migration?u=76281980&t=116)** These additions of Windows Server are designed to come out every six months and have a life cycle of only about a year and 1/2.
 >
@@ -654,7 +647,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrades-and-migration?u=76281980&t=169)** I've mentioned a fairly robust role before, adfs.
 >
-> **[2:53](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrades-and-migration?u=76281980&t=173)** This is a Windows 2016 Datacenter server and it's a member of an Active Directory domain that is hosted by, also, Windows Server 2016.
+> **[2:53](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrades-and-migration?u=76281980&t=173)** This is a Windows 2016 Datacenter server and it's a member of an [[Active Directory]] domain that is hosted by, also, Windows Server 2016.
 >
 > **[3:03](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrades-and-migration?u=76281980&t=183)** And this machine is installed with the role adfs.
 >
@@ -714,20 +707,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (10), [[Windows]] (4), [[Active Directory]] (4), [[Microsoft]] (3), next (2)
+> **Frameworks & Libraries:** [[Windows Server]] (10), [[Windows]] (4), [[Active Directory]] (4), [[Microsoft]] (3), [[Hardware]] (1)
 > **Env Vars:** smig (3), dhcp (2), dvd (1), radius (1), adfs (1)
 > **Prerequisites:** install (2), setup (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Windows Defender ATP
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-defender-atp?u=76281980)
+#### [Windows Defender ATP](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-defender-atp?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-defender-atp?u=76281980&t=0)** - [Narrator] One of the most important feature sets on an operating system today, would have to be the security options.
 >
-> **[0:07](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-defender-atp?u=76281980&t=7)** Windows Server 2019 has improved on the features of Windows Defender at the local machine level and added a whole new dimension to threat protection, detection, and response.
+> **[0:07](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-defender-atp?u=76281980&t=7)** [[Windows Server]] 2019 has improved on the features of [[Windows]] [[Microsoft Defender|Defender]] at the local machine level and added a whole new dimension to threat protection, detection, and response.
 >
 > **[0:21](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-defender-atp?u=76281980&t=21)** The local installation of Windows Defender has more options and more protection than previous versions.
 >
@@ -735,7 +727,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-defender-atp?u=76281980&t=31)** In fact, it's the one that we configured at the very beginning of the course, but you can see these on any Windows Server 2019 installation.
 >
-> **[0:39](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-defender-atp?u=76281980&t=39)** If I click on the start menu, and select Windows Security, we can see categories that match things that you would expect from many third party malware and personal firewall products.
+> **[0:39](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-defender-atp?u=76281980&t=39)** If I click on the start menu, and select Windows Security, we can see categories that match things that you would expect from many third party malware and personal firewall [[Microsoft Products|products]].
 >
 > **[0:53](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-defender-atp?u=76281980&t=53)** This is already a better start than what we had in Server 2016.
 >
@@ -745,7 +737,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-defender-atp?u=76281980&t=79)** Here, you can go and manage this protection by specifying folders and applications that are allowed to access folders, in an effort to stop ransomware from gaining access to your data to begin with.
 >
-> **[1:33](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-defender-atp?u=76281980&t=93)** You didn't have this level of control on previous versions of Windows Defender; this is an example of Microsoft responding to evolving threats, and bundling these security features right into the Windows Server Operating System.
+> **[1:33](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-defender-atp?u=76281980&t=93)** You didn't have this level of control on previous versions of Windows Defender; this is an example of [[Microsoft]] responding to evolving threats, and bundling these security features right into the Windows Server Operating System.
 >
 > **[1:49](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-defender-atp?u=76281980&t=109)** These local security enhancements are not the real upgrade to the local security, however.
 >
@@ -765,13 +757,13 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-defender-atp?u=76281980&t=172)** This tenant is able to interpret the information from the scans to determine not only the type of threat, but the scope of the problem as well.
 >
-> **[3:03](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-defender-atp?u=76281980&t=183)** ATP accesses Microsoft's malware researchers and can use artificial intelligence to quickly design appropriate responses.
+> **[3:03](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-defender-atp?u=76281980&t=183)** ATP accesses Microsoft's malware researchers and can use [[Artificial Intelligence (AI)|artificial intelligence]] to quickly design appropriate responses.
 >
-> **[3:13](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-defender-atp?u=76281980&t=193)** When this introduced for Windows 10 Workstations and Windows 2016 Servers, a download was required for each end point, and they were individually licensed.
+> **[3:13](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-defender-atp?u=76281980&t=193)** When this introduced for [[Windows 10]] Workstations and Windows 2016 Servers, a download was required for each end point, and they were individually licensed.
 >
 > **[3:25](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-defender-atp?u=76281980&t=205)** Windows Server 2019 has the end point build right into the operating system.
 >
-> **[3:31](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-defender-atp?u=76281980&t=211)** Now, depending on the type of Azure subscription you have, there will be some type of cost to set up and use the ATP tenant, but the ability to scan, report, and respond to advanced threats is now included.
+> **[3:31](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-defender-atp?u=76281980&t=211)** Now, depending on the type of [[Microsoft Azure|Azure]] subscription you have, there will be some type of cost to set up and use the ATP tenant, but the ability to scan, report, and respond to advanced threats is now included.
 >
 > **[3:46](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-defender-atp?u=76281980&t=226)** In addition to consistent and more quickly updated protection, think of the processing power that you'll save on each server.
 >
@@ -781,21 +773,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), [[Windows]] (7), [[Windows Server]] (5), [[Microsoft Defender|Defender]] (4), data (4)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Windows Server]] (5), [[Microsoft Defender|Defender]] (4), [[Microsoft]] (3), [[Microsoft Products|Products]] (1)
 > **Env Vars:** atp (3)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Windows Firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-firewall?u=76281980)
+#### [Windows Firewall](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-firewall?u=76281980&t=0)** - [Instructor] The Windows Firewall with Advanced Security remains one of the more important security features to build into the server operating system.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-firewall?u=76281980&t=0)** - [Instructor] The [[Windows]] Firewall with Advanced Security remains one of the more important security features to build into the server operating system.
 >
-> **[0:09](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-firewall?u=76281980&t=9)** Windows Defender ATP was designed on the premise that a breach will happen.
+> **[0:09](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-firewall?u=76281980&t=9)** Windows [[Microsoft Defender|Defender]] ATP was designed on the premise that a breach will happen.
 >
 > **[0:15](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-firewall?u=76281980&t=15)** No matter how tight the perimeter may be when the product is released, at some point a vulnerability will be discovered or created, and when that happens, you want the best team in place to respond.
 >
@@ -817,13 +808,13 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-firewall?u=76281980&t=101)** This is the Windows Defender Firewall, or Windows Firewall with Advanced Security.
 >
-> **[1:48](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-firewall?u=76281980&t=108)** Here you get a pretty long list of inbound and outbound rules that you can use to allow or block traffic for the various services that ship with Windows Server.
+> **[1:48](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-firewall?u=76281980&t=108)** Here you get a pretty long list of inbound and outbound rules that you can use to allow or block traffic for the various services that ship with [[Windows Server]].
 >
 > **[2:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-firewall?u=76281980&t=120)** Each of these can be viewed and even edited as needed to block or allow specific types of traffic.
 >
 > **[2:07](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-firewall?u=76281980&t=127)** You can also create new rules for applications or services that weren't originally in place.
 >
-> **[2:13](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-firewall?u=76281980&t=133)** Let's say you want to allow one specific administrative workstation to administer this server remotely using PowerShell Remoting.
+> **[2:13](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-firewall?u=76281980&t=133)** Let's say you want to allow one specific administrative workstation to administer this server remotely using [[Powershell]] Remoting.
 >
 > **[2:23](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-firewall?u=76281980&t=143)** I can go to the Inbound Rules, an inbound request to administer this server, right-click and select New Rule, and there's a wizard that will walk us through the process.
 >
@@ -849,7 +840,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-firewall?u=76281980&t=226)** So let me go ahead and add the IP address of our administrative workstation, 10.35.4.76.
 >
-> **[3:58](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-firewall?u=76281980&t=238)** And you can see here that you can use a range, or if you're in an Active Directory environment and you can specify computers, you may be able to choose some as well.
+> **[3:58](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-firewall?u=76281980&t=238)** And you can see here that you can use a range, or if you're in an [[Active Directory]] environment and you can specify computers, you may be able to choose some as well.
 >
 > **[4:07](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-firewall?u=76281980&t=247)** But let me go ahead and say OK here.
 >
@@ -879,7 +870,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (7), [[Security]] (5), traffic (5), application (3), [[Powershell]] (3)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Powershell]] (3), [[Microsoft Defender|Defender]] (2), [[Active Directory]] (2), [[Windows Server]] (1)
 > **Env Vars:** tcp (2), atp (1)
 > **Tools:** powershell (3)
 > **Ports:** port 5985 (2)
@@ -892,16 +883,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### PowerShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980)
+#### [PowerShell](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980&t=0)** - [Instructor] In the October 2009 issue of TechNet magazine a senior consultant working for Microsoft wrote.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980&t=0)** - [Instructor] In the October 2009 issue of TechNet magazine a senior consultant working for [[Microsoft]] wrote.
 >
-> **[0:08](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980&t=8)** "It's safe to say that the single most important skill, "a Windows administrator will need in the coming years "is proficiency with Windows PowerShell."
+> **[0:08](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980&t=8)** "It's safe to say that the single most important skill, "a [[Windows]] administrator will need in the coming years "is proficiency with Windows [[Powershell]]."
 >
-> **[0:20](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980&t=20)** during the early preview phases of Windows Server 2019, the online magazine Network World described it as a surprise that Server 2019 even had a GUI.
+> **[0:20](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980&t=20)** during the early preview phases of [[Windows Server]] 2019, the online magazine Network World described it as a surprise that Server 2019 even had a GUI.
 >
 > **[0:33](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980&t=33)** Windows Server 2008 was the first to introduce a Windows Server with no Windows and every version since has included a version to install without the desktop experience.
 >
@@ -961,15 +951,15 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980&t=286)** In fact if I were to just type Get-Command, I'm going to get a list that is several screens long of things that are already built in that I can use on this machine.
 >
-> **[4:57](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980&t=297)** But sometimes there's functionality that we want, that isn't included, say for example, I'd like cmdlets that will help me manage Azure components.
+> **[4:57](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980&t=297)** But sometimes there's functionality that we want, that isn't included, say for example, I'd like cmdlets that will help me manage [[Microsoft Azure|Azure]] components.
 >
 > **[5:07](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980&t=307)** If I were to go ahead and clear the screen, just to get a little more real estate here.
 >
-> **[5:12](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980&t=312)** I could type Get-Command and I could go ahead and put a wildcard in here, show me what I have available that has the word Azure in the command and there's the entire list, there's nothing.
+> **[5:12](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980&t=312)** I could type Get-Command and I could go ahead and put a wildcard in here, show me what I have available that has the [[Microsoft Word|word]] Azure in the command and there's the entire list, there's nothing.
 >
 > **[5:26](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980&t=326)** If I want to go and pull an entire collection of Azure commands, I can do that.
 >
-> **[5:31](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980&t=331)** I can install a module, now a module is a complete collection of cmdlets, functions, and scripts that have been put together either by Microsoft or by some other contributor in the community, and there's a huge repository of them at GitHub.
+> **[5:31](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980&t=331)** I can install a module, now a module is a complete collection of cmdlets, functions, and scripts that have been put together either by Microsoft or by some other contributor in the community, and there's a huge repository of them at [[GitHub]].
 >
 > **[5:50](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980&t=350)** If I type Install-Module and I put the the AzureAD module
 >
@@ -983,7 +973,7 @@ created: 2026-05-02
 >
 > **[6:28](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980&t=388)** That's not a module that it was already familiar with, it's in a repository called PSGallery and I'm being asked whether or not it's okay to install this module.
 >
-> **[6:39](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980&t=399)** I'm going to go ahead and say yes and it will download and install this module full of Azure Active Directory, cmdlets, functions, and scripts.
+> **[6:39](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980&t=399)** I'm going to go ahead and say yes and it will download and install this module full of [[Microsoft Entra ID|Azure Active Directory]], cmdlets, functions, and scripts.
 >
 > **[6:54](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell?u=76281980&t=414)** It seems to have run okay, let me go ahead and clear the screen one more time, and let's now take a look at what commands we have that have the word Azure somewhere in the command.
 >
@@ -1006,24 +996,23 @@ created: 2026-05-02
 > **UI Navigation:** click on (2)
 > **Analogies:** for example (1)
 
-#### PowerShell remoting
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell-remoting?u=76281980)
+#### [PowerShell remoting](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell-remoting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell-remoting?u=76281980&t=0)** - [Instructor] In the last video, I said that PowerShell is possibly the single most useful tool for managing and administering Windows servers.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell-remoting?u=76281980&t=0)** - [Instructor] In the last video, I said that [[Powershell]] is possibly the single most useful tool for managing and administering [[Windows]] servers.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell-remoting?u=76281980&t=9)** One of the features that makes that true is PowerShell remoting.
 >
-> **[0:13](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell-remoting?u=76281980&t=13)** Here we sit at a Windows 10 Enterprise workstation that is joined to an active directory domain.
+> **[0:13](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell-remoting?u=76281980&t=13)** Here we sit at a [[Windows 10]] Enterprise workstation that is joined to an [[Active Directory]] domain.
 >
-> **[0:21](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell-remoting?u=76281980&t=21)** The servers in this domain are both running Windows server 2019 and we're going to take a look at how to use PowerShell to remotely manage those servers.
+> **[0:21](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell-remoting?u=76281980&t=21)** The servers in this domain are both running [[Windows Server]] 2019 and we're going to take a look at how to use PowerShell to remotely manage those servers.
 >
 > **[0:32](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell-remoting?u=76281980&t=32)** Because being able to manage the machine where you sit is one thing but that's a lot of unnecessary running around if you have to go to the console of every single machine that you need to administer.
 >
 > **[0:45](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell-remoting?u=76281980&t=45)** Remoting is how you can manage or administer another server or better yet all of the other servers without leaving your workstation.
 >
-> **[0:55](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell-remoting?u=76281980&t=55)** Remoting takes on two different forms.
+> **[0:55](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell-remoting?u=76281980&t=55)** Remoting takes on two different [[Forms]].
 >
 > **[0:58](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell-remoting?u=76281980&t=58)** Let me show you the first one.
 >
@@ -1057,7 +1046,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell-remoting?u=76281980&t=178)** It's not necessarily required but it helps to diagnose problems when an expression doesn't do what you thought it was supposed to.
 >
-> **[3:06](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell-remoting?u=76281980&t=186)** You capitalize the beginning of each word even as you have to run those words together.
+> **[3:06](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell-remoting?u=76281980&t=186)** You capitalize the beginning of each [[Microsoft Word|word]] even as you have to run those words together.
 >
 > **[3:11](https://www.linkedin.com/learning/windows-server-2019-essential-training/powershell-remoting?u=76281980&t=191)** So if I want to enter PSSession, I can specify the parameter of ID and put in the number one because that's the ID number of the session that we created.
 >
@@ -1115,7 +1104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (12), [[Active Directory]] (7), [[Windows]] (3), prompt (3), hit (2)
+> **Frameworks & Libraries:** [[Powershell]] (12), [[Active Directory]] (7), [[Windows]] (3), [[Windows 10]] (1), [[Windows Server]] (1)
 > **Tools:** powershell (12)
 > **Definitions:** is called (1), is a  (1)
 > **Cross-References:** in the last (1)
@@ -1123,22 +1112,21 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing the Windows Admin Center
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/installing-the-windows-admin-center?u=76281980)
+#### [Installing the Windows Admin Center](https://www.linkedin.com/learning/windows-server-2019-essential-training/installing-the-windows-admin-center?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/installing-the-windows-admin-center?u=76281980&t=0)** - [Instructor] For all of PowerShell's flexibility and capability, there is an area where it falls short.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/installing-the-windows-admin-center?u=76281980&t=0)** - [Instructor] For all of [[Powershell]]'s flexibility and capability, there is an area where it falls short.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-server-2019-essential-training/installing-the-windows-admin-center?u=76281980&t=7)** This text-only environment where Powershell operates, lacks the ability to display comprehensive reports that are easy to quickly view and interpret.
 >
 > **[0:17](https://www.linkedin.com/learning/windows-server-2019-essential-training/installing-the-windows-admin-center?u=76281980&t=17)** Before we get into take a look at examples of what I'm talking about.
 >
-> **[0:22](https://www.linkedin.com/learning/windows-server-2019-essential-training/installing-the-windows-admin-center?u=76281980&t=22)** Let's first go through the process of installing the Windows Admin Center.
+> **[0:22](https://www.linkedin.com/learning/windows-server-2019-essential-training/installing-the-windows-admin-center?u=76281980&t=22)** Let's first go through the process of installing the [[Windows]] Admin Center.
 >
-> **[0:27](https://www.linkedin.com/learning/windows-server-2019-essential-training/installing-the-windows-admin-center?u=76281980&t=27)** The newest Administration tool from Microsoft.
+> **[0:27](https://www.linkedin.com/learning/windows-server-2019-essential-training/installing-the-windows-admin-center?u=76281980&t=27)** The newest Administration tool from [[Microsoft]].
 >
-> **[0:32](https://www.linkedin.com/learning/windows-server-2019-essential-training/installing-the-windows-admin-center?u=76281980&t=32)** We're still here on the Windows 10 Workstation that is joined to our active directory domain and from here, I'm just going to do a simple web search for download windows admin center.
+> **[0:32](https://www.linkedin.com/learning/windows-server-2019-essential-training/installing-the-windows-admin-center?u=76281980&t=32)** We're still here on the [[Windows 10]] Workstation that is joined to our [[Active Directory]] domain and from here, I'm just going to do a simple web search for download windows admin center.
 >
 > **[0:46](https://www.linkedin.com/learning/windows-server-2019-essential-training/installing-the-windows-admin-center?u=76281980&t=46)** Whenever you do one of these searches, look for something at [microsoft.com](https://microsoft.com).
 >
@@ -1226,7 +1214,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (13), [[Microsoft]] (5), web (3), [[Powershell]] (2), next (2)
+> **Frameworks & Libraries:** [[Windows]] (13), [[Microsoft]] (5), [[Powershell]] (2), [[Windows 10]] (1), [[Active Directory]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Env Vars:** wac (2), ssl (1), tcp (1)
 > **Prerequisites:** install (4)
@@ -1235,18 +1223,17 @@ created: 2026-05-02
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Cross-References:** coming up (1)
 
-#### Windows Admin Center management
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980)
+#### [Windows Admin Center management](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=0)** - [Instructor] I mentioned previously that one of PowerShell's limitations is that it doesn't have easy to view reports.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=0)** - [Instructor] I mentioned previously that one of [[Powershell]]'s limitations is that it doesn't have easy to view reports.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=8)** Let's take a look at an example.
 >
 > **[0:10](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=10)** If I go ahead and run PowerShell as an administrator on this workstation, go ahead and say yes so that we have permission.
 >
-> **[0:18](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=18)** I can run cmdlets to look at some of the basic storage management information.
+> **[0:18](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=18)** I can run cmdlets to look at some of the basic [[Storage Management]] information.
 >
 > **[0:24](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=24)** I can type Get-Disk and when I look at the results, it will look very much like the bottom half of the old disk management tool that we've seen before.
 >
@@ -1262,9 +1249,9 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=60)** Let me go ahead and maximize this and for now, let's go ahead and skip the tour.
 >
-> **[1:07](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=67)** This is the Windows Admin Center.
+> **[1:07](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=67)** This is the [[Windows]] Admin Center.
 >
-> **[1:09](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=69)** During previous stages, it was known as Project Honolulu and it's a management tool that first made its debut when Microsoft was releasing semi-annual versions of Windows Server.
+> **[1:09](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=69)** During previous stages, it was known as Project Honolulu and it's a management tool that first made its debut when [[Microsoft]] was releasing semi-annual versions of [[Windows Server]].
 >
 > **[1:22](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=82)** From here, I can add connections to any of the servers in the domain.
 >
@@ -1286,17 +1273,17 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=152)** You would manage things like disk configuration or network addresses.
 >
-> **[2:39](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=159)** You would administer things like DNS or active directory, other server roles.
+> **[2:39](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=159)** You would administer things like DNS or [[Active Directory]], other server roles.
 >
 > **[2:46](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=166)** The Windows Admin Center is designed for management more than administration.
 >
 > **[2:52](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=172)** The WAC can only be installed on reasonably current versions of Windows Server or Windows Workstation.
 >
-> **[2:59](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=179)** It can install on Windows 10 Pro or Enterprise, and it can install on servers 2016, anything in the Semi-Annual release channel as well as Windows Server 2019.
+> **[2:59](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=179)** It can install on [[Windows 10]] Pro or Enterprise, and it can install on servers 2016, anything in the Semi-Annual release channel as well as Windows Server 2019.
 >
 > **[3:13](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=193)** But it's capable of managing Windows 10 and beyond and in terms of servers, Windows Server 2012 and beyond.
 >
-> **[3:23](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=203)** Here where you can see that we've added the domain controller, we have a list that looks and feels a lot like working in Azure and that's on purpose.
+> **[3:23](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=203)** Here where you can see that we've added the domain controller, we have a list that looks and feels a lot like working in [[Microsoft Azure|Azure]] and that's on purpose.
 >
 > **[3:32](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=212)** We can manage several aspects of our server, things that the server is and things that the server has.
 >
@@ -1324,13 +1311,13 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=315)** This Admin Center is designed after the pattern that's already been created in Azure.
 >
-> **[5:20](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=320)** Also the Admin Center's created for exchange, SharePoint and many others.
+> **[5:20](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=320)** Also the Admin Center's created for exchange, [[SharePoint]] and many others.
 >
 > **[5:26](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-admin-center-management?u=76281980&t=326)** The application of this type of web portal for managing servers is a natural evolution and it provides many benefits to anyone managing Windows servers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (8), [[Windows]] (5), [[Powershell]] (4), [[Windows Server]] (4), [[Storage Management]] (3)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Powershell]] (4), [[Windows Server]] (4), [[Storage Management]] (3), [[Windows 10]] (2)
 > **CLI Commands:** make (3), find (2)
 > **Prerequisites:** install (4), configure (1)
 > **Env Vars:** dns (3), wac (1)
@@ -1339,18 +1326,17 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1), select the (1), go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Desktop experience administration tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/desktop-experience-administration-tools?u=76281980)
+#### [Desktop experience administration tools](https://www.linkedin.com/learning/windows-server-2019-essential-training/desktop-experience-administration-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/desktop-experience-administration-tools?u=76281980&t=0)** - [Instructor] There is something that I've observed about Microsoft products over the past couple of decades.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/desktop-experience-administration-tools?u=76281980&t=0)** - [Instructor] There is something that I've observed about [[Microsoft Products]] over the past couple of decades.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-server-2019-essential-training/desktop-experience-administration-tools?u=76281980&t=6)** While they are constantly innovating and improving both the user and administrator experience, there is always consideration for tradition.
 >
 > **[0:15](https://www.linkedin.com/learning/windows-server-2019-essential-training/desktop-experience-administration-tools?u=76281980&t=15)** With all of the new management and administration style tools, the MMC style tools are still available for the most part.
 >
-> **[0:25](https://www.linkedin.com/learning/windows-server-2019-essential-training/desktop-experience-administration-tools?u=76281980&t=25)** Some of the legacy control panels have given way to the new interface that was debuted in Windows version 8.
+> **[0:25](https://www.linkedin.com/learning/windows-server-2019-essential-training/desktop-experience-administration-tools?u=76281980&t=25)** Some of the legacy control panels have given way to the new interface that was debuted in [[Windows]] version 8.
 >
 > **[0:33](https://www.linkedin.com/learning/windows-server-2019-essential-training/desktop-experience-administration-tools?u=76281980&t=33)** But for the most part, the administration tools have remained largely unchanged.
 >
@@ -1358,11 +1344,11 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/windows-server-2019-essential-training/desktop-experience-administration-tools?u=76281980&t=42)** And in that list are the same tools that we've become accustomed to using for the past several years.
 >
-> **[0:50](https://www.linkedin.com/learning/windows-server-2019-essential-training/desktop-experience-administration-tools?u=76281980&t=50)** Whenever you use the server manager to install a role or a feature, you're prompted to add the administration tools which includes PowerShell modules as well as these GUI desktop experience tools.
+> **[0:50](https://www.linkedin.com/learning/windows-server-2019-essential-training/desktop-experience-administration-tools?u=76281980&t=50)** Whenever you use the server manager to install a role or a feature, you're prompted to add the administration tools which includes [[Powershell]] modules as well as these GUI desktop experience tools.
 >
 > **[1:03](https://www.linkedin.com/learning/windows-server-2019-essential-training/desktop-experience-administration-tools?u=76281980&t=63)** And as we look through this list, we see the tools for every role that we have installed.
 >
-> **[1:09](https://www.linkedin.com/learning/windows-server-2019-essential-training/desktop-experience-administration-tools?u=76281980&t=69)** This is a domain controller, so all of the active directory tools are here.
+> **[1:09](https://www.linkedin.com/learning/windows-server-2019-essential-training/desktop-experience-administration-tools?u=76281980&t=69)** This is a domain controller, so all of the [[Active Directory]] tools are here.
 >
 > **[1:14](https://www.linkedin.com/learning/windows-server-2019-essential-training/desktop-experience-administration-tools?u=76281980&t=74)** This server is a DNS server, so it has the DNS tool.
 >
@@ -1420,11 +1406,11 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/windows-server-2019-essential-training/desktop-experience-administration-tools?u=76281980&t=289)** That makes things complicated when you consider that the check boxes to install these tools don't exist on Windows workstations.
 >
-> **[4:57](https://www.linkedin.com/learning/windows-server-2019-essential-training/desktop-experience-administration-tools?u=76281980&t=297)** In the next segment, we're going to take a look at how you can get the tools that are available to do all of the same administration from a machine that is not a Windows server, from a Windows workstation, maybe the administrative workstation in your office.
+> **[4:57](https://www.linkedin.com/learning/windows-server-2019-essential-training/desktop-experience-administration-tools?u=76281980&t=297)** In the next segment, we're going to take a look at how you can get the tools that are available to do all of the same administration from a machine that is not a [[Windows Server]], from a Windows workstation, maybe the administrative workstation in your [[Microsoft Office|office]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (6), [[Powershell]] (5), [[Windows]] (4), management (2), dns (2)
+> **Frameworks & Libraries:** [[Powershell]] (5), [[Windows]] (4), [[Microsoft Products]] (1), [[Active Directory]] (1), [[Windows Server]] (1)
 > **Env Vars:** dhcp (8), dns (2), mmc (1), gui (1)
 > **Prerequisites:** install (10)
 > **Tools:** powershell (5)
@@ -1433,34 +1419,33 @@ created: 2026-05-02
 > **Versions:** version 8 (1)
 > **Cross-References:** in the next (1)
 
-#### RSAT
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/rsat?u=76281980)
+#### [RSAT](https://www.linkedin.com/learning/windows-server-2019-essential-training/rsat?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/rsat?u=76281980&t=0)** - [Instructor] The Windows Admin Center is a flexible tool for remotely managing Windows Servers.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/rsat?u=76281980&t=0)** - [Instructor] The [[Windows]] Admin Center is a flexible tool for remotely managing Windows Servers.
 >
-> **[0:06](https://www.linkedin.com/learning/windows-server-2019-essential-training/rsat?u=76281980&t=6)** But it doesn't yet have add-ins for administering every Windows Server role and feature.
+> **[0:06](https://www.linkedin.com/learning/windows-server-2019-essential-training/rsat?u=76281980&t=6)** But it doesn't yet have add-ins for administering every [[Windows Server]] role and feature.
 >
-> **[0:12](https://www.linkedin.com/learning/windows-server-2019-essential-training/rsat?u=76281980&t=12)** PowerShell can be used to perform just about any management and administration task, locally or remotely.
+> **[0:12](https://www.linkedin.com/learning/windows-server-2019-essential-training/rsat?u=76281980&t=12)** [[Powershell]] can be used to perform just about any management and administration task, locally or remotely.
 >
 > **[0:21](https://www.linkedin.com/learning/windows-server-2019-essential-training/rsat?u=76281980&t=21)** But it lacks reporting tools and despite the fact that PowerShell is over 20 years old, there are still quite a few administrators that have not taken the time to learn how to use it.
 >
 > **[0:33](https://www.linkedin.com/learning/windows-server-2019-essential-training/rsat?u=76281980&t=33)** The MMC style administrative tools that can be added to a Windows Server by simply checking boxes in the Server Manager are not available by just loading a screen and checking boxes on a Workstation.
 >
-> **[0:47](https://www.linkedin.com/learning/windows-server-2019-essential-training/rsat?u=76281980&t=47)** They are available, but they have to be downloaded from Microsoft.
+> **[0:47](https://www.linkedin.com/learning/windows-server-2019-essential-training/rsat?u=76281980&t=47)** They are available, but they have to be downloaded from [[Microsoft]].
 >
 > **[0:53](https://www.linkedin.com/learning/windows-server-2019-essential-training/rsat?u=76281980&t=53)** There are only a couple of requirements for these Remote Server Administration Tools, as we look at downloading them here.
 >
 > **[1:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/rsat?u=76281980&t=60)** The first is that you have to be running Professional or Enterprise editions of the Windows Workstation operating system.
 >
-> **[1:08](https://www.linkedin.com/learning/windows-server-2019-essential-training/rsat?u=76281980&t=68)** That shouldn't be too big of a concern, because a workplace with servers to manage is likely to be using an Active Directory domain and Professional and Enterprise editions of Windows Workstation platforms are required to join those domains.
+> **[1:08](https://www.linkedin.com/learning/windows-server-2019-essential-training/rsat?u=76281980&t=68)** That shouldn't be too big of a concern, because a workplace with servers to manage is likely to be using an [[Active Directory]] domain and Professional and Enterprise editions of Windows Workstation platforms are required to join those domains.
 >
 > **[1:25](https://www.linkedin.com/learning/windows-server-2019-essential-training/rsat?u=76281980&t=85)** The second requirement is that you're running a version of Windows on your Workstation that is similar to the version of your Windows Server.
 >
 > **[1:34](https://www.linkedin.com/learning/windows-server-2019-essential-training/rsat?u=76281980&t=94)** Okay, that's not really a requirement, so much as a strong suggestion, but take a look at the search results for downloading RSAT, for Remote Server Administration Tools.
 >
-> **[1:46](https://www.linkedin.com/learning/windows-server-2019-essential-training/rsat?u=76281980&t=106)** The most popular result, the one that shows up at the top of the list, is RSAT for Windows 10.
+> **[1:46](https://www.linkedin.com/learning/windows-server-2019-essential-training/rsat?u=76281980&t=106)** The most popular result, the one that shows up at the top of the list, is RSAT for [[Windows 10]].
 >
 > **[1:53](https://www.linkedin.com/learning/windows-server-2019-essential-training/rsat?u=76281980&t=113)** The next result in this search was RSAT for Windows 7.
 >
@@ -1518,11 +1503,11 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/windows-server-2019-essential-training/rsat?u=76281980&t=305)** And in this list we have everything that could be added to the Tools menu of the Server Manager readily available for us right here on our Workstation.
 >
-> **[5:15](https://www.linkedin.com/learning/windows-server-2019-essential-training/rsat?u=76281980&t=315)** Between PowerShell with remoting, the Windows Admin Center, and now RSAT, the only reason you should ever have to enter the server room is to work on hardware or maybe just to bask in the glow of the blinking lights.
+> **[5:15](https://www.linkedin.com/learning/windows-server-2019-essential-training/rsat?u=76281980&t=315)** Between PowerShell with remoting, the Windows Admin Center, and now RSAT, the only reason you should ever have to enter the server room is to work on [[Hardware]] or maybe just to bask in the glow of the blinking lights.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (13), [[Windows Server]] (6), [[Windows 10]] (5), [[Powershell]] (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[Windows]] (13), [[Windows Server]] (6), [[Windows 10]] (5), [[Powershell]] (3), [[Microsoft]] (1)
 > **Env Vars:** rsat (4), mmc (1)
 > **Prerequisites:** install (4), required to (1)
 > **CLI Commands:** find (2), make (1)
@@ -1536,16 +1521,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Upgrading Active Directory
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrading-active-directory?u=76281980)
+#### [Upgrading Active Directory](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrading-active-directory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrading-active-directory?u=76281980&t=0)** - [Instructor] Active Directory Domain Services is one of the Windows Server roles that evolves at least slightly with each new version of Windows Server.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrading-active-directory?u=76281980&t=0)** - [Instructor] [[Active Directory]] Domain Services is one of the [[Windows Server]] roles that evolves at least slightly with each new version of Windows Server.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrading-active-directory?u=76281980&t=9)** The Active Directory Domain Services Schema is the design of the database that defines what types of objects are stored, what properties are maintained for each object, and how these different objects or classes relate to each other.
 >
-> **[0:26](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrading-active-directory?u=76281980&t=26)** If you're a beginner to databases consider a simple database application, like Access.
+> **[0:26](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrading-active-directory?u=76281980&t=26)** If you're a beginner to [[Databases]] consider a simple database application, like Access.
 >
 > **[0:31](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrading-active-directory?u=76281980&t=31)** When you create a database in Access you create tables for each type of information or class of object that you want to track, computers, operating systems, users, and so forth.
 >
@@ -1559,7 +1543,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrading-active-directory?u=76281980&t=81)** This kind of change needs to happen when you introduce a new version of Windows Server as a domain controller in an Active Directory domain.
 >
-> **[1:32](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrading-active-directory?u=76281980&t=92)** You can make those changes manually before adding a Windows 2019 server as a domain controller in a previous version, say 2016 Server domain.
+> **[1:32](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrading-active-directory?u=76281980&t=92)** You can make those changes manually before adding a [[Windows]] 2019 server as a domain controller in a previous version, say 2016 Server domain.
 >
 > **[1:44](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrading-active-directory?u=76281980&t=104)** The AD prep application is on the Windows Server 2019 disk.
 >
@@ -1581,7 +1565,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrading-active-directory?u=76281980&t=163)** So you'll see the installed memory fluctuate a little bit as we go through this process.
 >
-> **[2:50](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrading-active-directory?u=76281980&t=170)** I'm going to first open PowerShell and take a look at the functional level of Active Directory on this server.
+> **[2:50](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrading-active-directory?u=76281980&t=170)** I'm going to first open [[Powershell]] and take a look at the functional level of Active Directory on this server.
 >
 > **[2:57](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrading-active-directory?u=76281980&t=177)** I can do that with the Get-AdObject commandlet.
 >
@@ -1627,7 +1611,7 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrading-active-directory?u=76281980&t=343)** I'll specify a password here.
 >
-> **[5:49](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrading-active-directory?u=76281980&t=349)** And accept defaults the rest of the way through.
+> **[5:49](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrading-active-directory?u=76281980&t=349)** And accept defaults the [[Representational State Transfer (REST)|rest]] of the way through.
 >
 > **[5:53](https://www.linkedin.com/learning/windows-server-2019-essential-training/upgrading-active-directory?u=76281980&t=353)** No DNS delegation is available, that's fine, that was to be expected.
 >
@@ -1679,7 +1663,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (13), [[Windows]] (9), [[Windows Server]] (7), database (3), application (3)
+> **Frameworks & Libraries:** [[Active Directory]] (13), [[Windows]] (9), [[Windows Server]] (7), [[Powershell]] (2), [[Databases]] (1)
 > **Code Identifiers:** objectversion (4), schemanamingcontext (1)
 > **Env Vars:** dns (2), gig (1), ram (1)
 > **Prerequisites:** install (3), prerequisite (1)
@@ -1688,16 +1672,15 @@ created: 2026-05-02
 > **Tools:** powershell (2)
 > **Best Practices:** best practice (1)
 
-#### Planning sites and services
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/planning-sites-and-services?u=76281980)
+#### [Planning sites and services](https://www.linkedin.com/learning/windows-server-2019-essential-training/planning-sites-and-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/planning-sites-and-services?u=76281980&t=0)** - [Instructor] As we continue to explore the environments where Windows servers may operate, I want to show you one of the most common oversights in Windows server administration.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/planning-sites-and-services?u=76281980&t=0)** - [Instructor] As we continue to explore the environments where [[Windows]] servers may operate, I want to show you one of the most common oversights in [[Windows Server]] administration.
 >
-> **[0:11](https://www.linkedin.com/learning/windows-server-2019-essential-training/planning-sites-and-services?u=76281980&t=11)** Let's go ahead and open PowerShell, and take a look at one of our system properties.
+> **[0:11](https://www.linkedin.com/learning/windows-server-2019-essential-training/planning-sites-and-services?u=76281980&t=11)** Let's go ahead and open [[Powershell]], and take a look at one of our system properties.
 >
-> **[0:17](https://www.linkedin.com/learning/windows-server-2019-essential-training/planning-sites-and-services?u=76281980&t=17)** Specifically, what I want to look at is the name of our Active Directory site.
+> **[0:17](https://www.linkedin.com/learning/windows-server-2019-essential-training/planning-sites-and-services?u=76281980&t=17)** Specifically, what I want to look at is the name of our [[Active Directory]] site.
 >
 > **[0:22](https://www.linkedin.com/learning/windows-server-2019-essential-training/planning-sites-and-services?u=76281980&t=22)** Now clearly, this detail is buried fairly deep within the system information of our machine.
 >
@@ -1749,33 +1732,32 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/windows-server-2019-essential-training/planning-sites-and-services?u=76281980&t=262)** It's all about defining portions of your network for directing traffic.
 >
-> **[4:28](https://www.linkedin.com/learning/windows-server-2019-essential-training/planning-sites-and-services?u=76281980&t=268)** Whether you're creating sites and link costs to use better connection speeds, or possibly to force all traffic through one central office, take the time to name your first Active Directory site as soon as you promote the first domain controller.
+> **[4:28](https://www.linkedin.com/learning/windows-server-2019-essential-training/planning-sites-and-services?u=76281980&t=268)** Whether you're creating sites and link costs to use better connection speeds, or possibly to force all traffic through one central [[Microsoft Office|office]], take the time to name your first Active Directory site as soon as you promote the first domain controller.
 >
 > **[4:45](https://www.linkedin.com/learning/windows-server-2019-essential-training/planning-sites-and-services?u=76281980&t=285)** Then you can create additional sites as needed, before adding new domain controllers, so that they can be accurately placed in the proper site from the beginning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (8), traffic (6), [[Powershell]] (2), [[Windows]] (1), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (8), [[Powershell]] (2), [[Windows]] (1), [[Windows Server]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Tools:** powershell (2)
 > **UI Navigation:** go to (1), right-click (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Encrypted networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980)
+#### [Encrypted networks](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980&t=0)** - [Narrator] If Software-Defined Networks, or SDN, have escaped your radar to this point, Windows Server 2019 has given you at least one good reason to take a serious look.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980&t=0)** - [Narrator] If Software-Defined Networks, or SDN, have escaped your radar to this point, [[Windows Server]] 2019 has given you at least one good reason to take a serious look.
 >
-> **[0:13](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980&t=13)** One of the security features of Windows Server 2019 is the ability to encrypt traffic between virtual machines on a per-subnet basis.
+> **[0:13](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980&t=13)** One of the security features of Windows Server 2019 is the ability to encrypt traffic between [[Virtual Machines]] on a per-subnet basis.
 >
-> **[0:24](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980&t=24)** Now, the features of NTFS and various server roles have long provided ways to secure data on the server at rest, or data while it's sitting on that storage device.
+> **[0:24](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980&t=24)** Now, the features of NTFS and various server roles have long provided ways to secure data on the server at [[Representational State Transfer (REST)|rest]], or data while it's sitting on that storage device.
 >
 > **[0:38](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980&t=38)** The security of data as it crosses the network has always been another animal altogether.
 >
-> **[0:45](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980&t=45)** When you want to protect your network data over long distances, you might consider using a virtual private network or across a large data center, you might set up IPSec from one segment to another but this approach leaves out securing transmissions within a network segment.
+> **[0:45](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980&t=45)** When you want to protect your network data over long distances, you might consider using a [[Virtual Private Network (VPN)|virtual private network]] or across a large data center, you might set up IPSec from one segment to another but this approach leaves out securing transmissions within a network segment.
 >
 > **[1:05](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980&t=65)** If you have unused network jacks or any other way for people to access the fabric of your network, traffic within a subnet can be vulnerable.
 >
@@ -1791,7 +1773,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980&t=127)** Quick OSI review for those that don't have to think about this very often.
 >
-> **[2:11](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980&t=131)** Right above the hardware, and before the IP or network layer, is where network packets are prepared for delivery.
+> **[2:11](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980&t=131)** Right above the [[Hardware]], and before the IP or network layer, is where network packets are prepared for delivery.
 >
 > **[2:19](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980&t=139)** This is normally where the NIC drivers take over and create datagrams specific to your type of network.
 >
@@ -1811,24 +1793,23 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980&t=190)** All you have to do with the VMs is remember to connect them to the right virtual network or the right virtual switch on the host.
 >
-> **[3:19](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980&t=199)** Microsoft has put together a great step-by-step lab in the Microsoft Docs website that walks through the process from getting the certificates to setting up the virtual network.
+> **[3:19](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980&t=199)** [[Microsoft]] has put together a great step-by-step lab in the Microsoft Docs website that walks through the process from getting the certificates to setting up the virtual network.
 >
-> **[3:31](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980&t=211)** It's done entirely in PowerShell but, as I've mentioned before, it's high time that we all embrace PowerShell as the preferred tool to get things done.
+> **[3:31](https://www.linkedin.com/learning/windows-server-2019-essential-training/encrypted-networks?u=76281980&t=211)** It's done entirely in [[Powershell]] but, as I've mentioned before, it's high time that we all embrace PowerShell as the preferred tool to get things done.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Windows Server]] (3), traffic (3), [[Security]] (2), [[Virtual Machines]] (2)
+> **Frameworks & Libraries:** [[Windows Server]] (3), [[Virtual Machines]] (2), [[Microsoft]] (2), [[Powershell]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sdn (2), ntfs (1), osi (1), nic (1)
 > **Tools:** powershell (2)
 > **Prerequisites:** set up (2)
 > **Speakers:** - [narrator] (1)
 
-#### Cluster sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/cluster-sets?u=76281980)
+#### [Cluster sets](https://www.linkedin.com/learning/windows-server-2019-essential-training/cluster-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/cluster-sets?u=76281980&t=0)** - [Instructor] As you explore the new features of Windows Server 2019, you may look at one of the new features and realize it doesn't have a place in your network.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/cluster-sets?u=76281980&t=0)** - [Instructor] As you explore the new features of [[Windows Server]] 2019, you may look at one of the new features and realize it doesn't have a place in your network.
 >
 > **[0:10](https://www.linkedin.com/learning/windows-server-2019-essential-training/cluster-sets?u=76281980&t=10)** Another network architect or system administrator will look at the same feature and say, finally, this is what I've been waiting for.
 >
@@ -1836,7 +1817,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/windows-server-2019-essential-training/cluster-sets?u=76281980&t=22)** Cluster Sets is a great example of this type of feature.
 >
-> **[0:26](https://www.linkedin.com/learning/windows-server-2019-essential-training/cluster-sets?u=76281980&t=26)** For several years, you've had the ability to create clusters of Windows Servers to make one or more functions resilient.
+> **[0:26](https://www.linkedin.com/learning/windows-server-2019-essential-training/cluster-sets?u=76281980&t=26)** For several years, you've had the ability to create clusters of [[Windows]] Servers to make one or more functions resilient.
 >
 > **[0:34](https://www.linkedin.com/learning/windows-server-2019-essential-training/cluster-sets?u=76281980&t=34)** You may have created storage clusters to replicate stored data.
 >
@@ -1844,7 +1825,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/windows-server-2019-essential-training/cluster-sets?u=76281980&t=46)** And when you've created these clusters, you've had some limitations.
 >
-> **[0:51](https://www.linkedin.com/learning/windows-server-2019-essential-training/cluster-sets?u=76281980&t=51)** It was a really good idea to build your clusters out of similar hardware.
+> **[0:51](https://www.linkedin.com/learning/windows-server-2019-essential-training/cluster-sets?u=76281980&t=51)** It was a really good idea to build your clusters out of similar [[Hardware]].
 >
 > **[0:56](https://www.linkedin.com/learning/windows-server-2019-essential-training/cluster-sets?u=76281980&t=56)** Things worked out better if all nodes in a cluster performed pretty much the same.
 >
@@ -1876,7 +1857,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/windows-server-2019-essential-training/cluster-sets?u=76281980&t=162)** Each member cluster is still able to perform independently, in the event that the network links go down, but when everything is connected and working, you have redundancy across multiple sites, multiple clusters, however you need to scale this.
 >
-> **[2:59](https://www.linkedin.com/learning/windows-server-2019-essential-training/cluster-sets?u=76281980&t=179)** With the set being managed at this higher level, you now also have the flexibility of migrating a server from one cluster to another based on need, with just a couple of lines in Powershell.
+> **[2:59](https://www.linkedin.com/learning/windows-server-2019-essential-training/cluster-sets?u=76281980&t=179)** With the set being managed at this higher level, you now also have the flexibility of migrating a server from one cluster to another based on need, with just a couple of lines in [[Powershell]].
 >
 > **[3:12](https://www.linkedin.com/learning/windows-server-2019-essential-training/cluster-sets?u=76281980&t=192)** The fact that the cluster set master keeps contact with, and tracks the resources in every cluster makes it possible for a server to move and become a part of whatever the destination cluster is doing.
 >
@@ -1886,7 +1867,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/windows-server-2019-essential-training/cluster-sets?u=76281980&t=223)** Also environments where entire clusters need to be redundant across sites.
 >
-> **[3:49](https://www.linkedin.com/learning/windows-server-2019-essential-training/cluster-sets?u=76281980&t=229)** Those that need to be able to migrate live virtual machines between clusters easily, and those that have so many servers and clusters that they need better support for varying hardware.
+> **[3:49](https://www.linkedin.com/learning/windows-server-2019-essential-training/cluster-sets?u=76281980&t=229)** Those that need to be able to migrate live [[Virtual Machines]] between clusters easily, and those that have so many servers and clusters that they need better support for varying hardware.
 >
 > **[4:02](https://www.linkedin.com/learning/windows-server-2019-essential-training/cluster-sets?u=76281980&t=242)** Any environment where you have so many servers or so many clusters that it's hard to keep track of where to find resources.
 >
@@ -1896,32 +1877,31 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), [[Windows Server]] (3), [[Hardware]] (3), data (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (3), [[Hardware]] (3), [[Windows]] (1), [[Powershell]] (1), [[Virtual Machines]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
 > **Tools:** powershell (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hybrid cloud environments
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/hybrid-cloud-environments?u=76281980)
+#### [Hybrid cloud environments](https://www.linkedin.com/learning/windows-server-2019-essential-training/hybrid-cloud-environments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/hybrid-cloud-environments?u=76281980&t=0)** - [Instructor] One of the defining characteristics of Windows Server 2016 was the alignment between an on-prem installation and an Azure cloud development.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/hybrid-cloud-environments?u=76281980&t=0)** - [Instructor] One of the defining characteristics of [[Windows Server]] 2016 was the alignment between an on-prem installation and an [[Microsoft Azure|Azure]] [[Cloud Development]].
 >
 > **[0:11](https://www.linkedin.com/learning/windows-server-2019-essential-training/hybrid-cloud-environments?u=76281980&t=11)** This step forward laid the groundwork for even more improvements in networks that want to use a mix of on-prem servers and cloud environments like Azure.
 >
-> **[0:22](https://www.linkedin.com/learning/windows-server-2019-essential-training/hybrid-cloud-environments?u=76281980&t=22)** The Windows Admin Center that was shown previously in this course is another step forward.
+> **[0:22](https://www.linkedin.com/learning/windows-server-2019-essential-training/hybrid-cloud-environments?u=76281980&t=22)** The [[Windows]] Admin Center that was shown previously in this course is another step forward.
 >
 > **[0:28](https://www.linkedin.com/learning/windows-server-2019-essential-training/hybrid-cloud-environments?u=76281980&t=28)** Now that the deployments of Windows Server match, it makes sense to have a unified management tool that can take care of both types of servers, on-prem and Azure.
 >
 > **[0:40](https://www.linkedin.com/learning/windows-server-2019-essential-training/hybrid-cloud-environments?u=76281980&t=40)** But getting a better management tool isn't the most important part.
 >
-> **[0:44](https://www.linkedin.com/learning/windows-server-2019-essential-training/hybrid-cloud-environments?u=76281980&t=44)** You'll hear a lot about it as people review Windows Server 2019, but the most important thing is why this unified tool works and what that link means for other interactions between the office and the cloud.
+> **[0:44](https://www.linkedin.com/learning/windows-server-2019-essential-training/hybrid-cloud-environments?u=76281980&t=44)** You'll hear a lot about it as people review Windows Server 2019, but the most important thing is why this unified tool works and what that link means for other interactions between the [[Microsoft Office|office]] and the cloud.
 >
-> **[1:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/hybrid-cloud-environments?u=76281980&t=60)** One challenge that we've fought for a while is the ability to create a link between on-prem and cloud services that was both reliable and secure.
+> **[1:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/hybrid-cloud-environments?u=76281980&t=60)** One challenge that we've fought for a while is the ability to create a link between on-prem and [[Cloud Services]] that was both reliable and secure.
 >
-> **[1:11](https://www.linkedin.com/learning/windows-server-2019-essential-training/hybrid-cloud-environments?u=76281980&t=71)** Most companies wanted the performance of local servers and the scalability of cloud servers.
+> **[1:11](https://www.linkedin.com/learning/windows-server-2019-essential-training/hybrid-cloud-environments?u=76281980&t=71)** Most companies wanted the performance of local servers and the [[Scalability]] of cloud servers.
 >
 > **[1:18](https://www.linkedin.com/learning/windows-server-2019-essential-training/hybrid-cloud-environments?u=76281980&t=78)** This is easiest to see in one of the oldest and most common functions of a server, sharing files.
 >
@@ -1935,7 +1915,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/windows-server-2019-essential-training/hybrid-cloud-environments?u=76281980&t=140)** The improvements placed in Windows Server 2019 that make these features more reliable solutions are better connections between the two.
 >
-> **[2:30](https://www.linkedin.com/learning/windows-server-2019-essential-training/hybrid-cloud-environments?u=76281980&t=150)** The fact that Azure can more easily and more completely communicate with your on-site server allows you to not only sync files, but also take advantage of the artificial intelligence and machine learning functions of the cloud.
+> **[2:30](https://www.linkedin.com/learning/windows-server-2019-essential-training/hybrid-cloud-environments?u=76281980&t=150)** The fact that Azure can more easily and more completely communicate with your on-site server allows you to not only sync files, but also take advantage of the [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning functions of the cloud.
 >
 > **[2:45](https://www.linkedin.com/learning/windows-server-2019-essential-training/hybrid-cloud-environments?u=76281980&t=165)** These tools that have helped determine how to use the cloud more effectively can now help you use our local servers better as well.
 >
@@ -1953,13 +1933,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), [[Windows Server]] (6), [[Microsoft Azure|Azure]] (5), data (5), management (3)
+> **Frameworks & Libraries:** [[Windows Server]] (6), [[Microsoft Azure|Azure]] (5), [[Microsoft Office|Office]] (3), [[Cloud Development]] (1), [[Windows]] (1)
 > **Definitions:** means that (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hyper-Converged Infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-converged-infrastructure?u=76281980)
+#### [Hyper-Converged Infrastructure](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-converged-infrastructure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1969,17 +1948,17 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-converged-infrastructure?u=76281980&t=21)** One of the most obvious benefits to this kind of simplification is centralized management, with conflicts eliminated or at least substantially reduced.
 >
-> **[0:32](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-converged-infrastructure?u=76281980&t=32)** In an HCI, you don't have separate management products competing for control.
+> **[0:32](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-converged-infrastructure?u=76281980&t=32)** In an HCI, you don't have separate management [[Microsoft Products|products]] competing for control.
 >
-> **[0:38](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-converged-infrastructure?u=76281980&t=38)** Also, among the most important benefits are scalability and resiliency.
+> **[0:38](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-converged-infrastructure?u=76281980&t=38)** Also, among the most important benefits are [[Scalability]] and [[Resiliency]].
 >
 > **[0:44](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-converged-infrastructure?u=76281980&t=44)** Now these may or may not be part of the definition of hyper-convergence, but they certainly determine whether an HCI solution is worth implementing.
 >
-> **[0:54](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-converged-infrastructure?u=76281980&t=54)** Now Microsoft has been working on hyper-convergence for some time.
+> **[0:54](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-converged-infrastructure?u=76281980&t=54)** Now [[Microsoft]] has been working on hyper-convergence for some time.
 >
-> **[0:58](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-converged-infrastructure?u=76281980&t=58)** Computing and network were brought together inside Windows Server with the introduction of Hyper-V.
+> **[0:58](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-converged-infrastructure?u=76281980&t=58)** Computing and network were brought together inside [[Windows Server]] with the introduction of Hyper-V.
 >
-> **[1:06](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-converged-infrastructure?u=76281980&t=66)** You could create virtual networks connecting virtual machines that were managed in clusters.
+> **[1:06](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-converged-infrastructure?u=76281980&t=66)** You could create virtual networks connecting [[Virtual Machines]] that were managed in clusters.
 >
 > **[1:11](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-converged-infrastructure?u=76281980&t=71)** Hyper-V was one product that covered two of the three elements of an HCI.
 >
@@ -1987,21 +1966,21 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-converged-infrastructure?u=76281980&t=97)** As hyper-convergence gains more traction in concept and in practice, Microsoft realizes that this is more than just a software solution.
 >
-> **[1:47](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-converged-infrastructure?u=76281980&t=107)** They've partnered with companies like HP Enterprise, Dell Enterprise, NEC and several others to cover the hardware side of the equation and they worked together to make these HCI solutions as complete as possible.
+> **[1:47](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-converged-infrastructure?u=76281980&t=107)** They've partnered with companies like HP Enterprise, Dell Enterprise, NEC and several others to cover the [[Hardware]] side of the equation and they worked together to make these HCI solutions as complete as possible.
 >
-> **[2:01](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-converged-infrastructure?u=76281980&t=121)** All the while, continuing to enhance the virtual machines and the virtual networks in Hyper-V and the storage management capabilities of S2D to take advantage of what these hardware providers can create.
+> **[2:01](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-converged-infrastructure?u=76281980&t=121)** All the while, continuing to enhance the virtual machines and the virtual networks in Hyper-V and the [[Storage Management]] capabilities of S2D to take advantage of what these hardware providers can create.
 >
 > **[2:19](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-converged-infrastructure?u=76281980&t=139)** This emphasis on creating hyper-converged infrastructure of computing, network, and storage is one of the four primary focus points in developing Windows Server 2019.
 >
 > **[2:31](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-converged-infrastructure?u=76281980&t=151)** We'll explore the virtualization enhancements a little later on in this course and we've already touched briefly on encryption features to protect virtual networks and we'll also be discussing the use and benefit of Storage Spaces Direct in Windows Server 2019.
 >
-> **[2:49](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-converged-infrastructure?u=76281980&t=169)** As for the simplicity of managing a hyper-converged infrastructure, the Windows Admin Center is once again an important part of the solution.
+> **[2:49](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-converged-infrastructure?u=76281980&t=169)** As for the simplicity of managing a hyper-converged infrastructure, the [[Windows]] Admin Center is once again an important part of the solution.
 >
 > **[2:58](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-converged-infrastructure?u=76281980&t=178)** It seems that this WAC is part of several of Microsoft's solutions in this new release of Windows Server.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (6), [[Microsoft]] (3), management (2), [[Virtual Machines]] (2), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Windows Server]] (6), [[Microsoft]] (3), [[Virtual Machines]] (2), [[Hardware]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** hci (6), s2d (3), nec (1), wac (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -2011,14 +1990,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of volumes
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/types-of-volumes?u=76281980)
+#### [Types of volumes](https://www.linkedin.com/learning/windows-server-2019-essential-training/types-of-volumes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/types-of-volumes?u=76281980&t=0)** - [Instructor] Innovation is important, but it's nice when we find out that some of the existing technology has stood the test of time.
 >
-> **[0:08](https://www.linkedin.com/learning/windows-server-2019-essential-training/types-of-volumes?u=76281980&t=8)** The partition and volume options on Windows server are one thing that has remained constant.
+> **[0:08](https://www.linkedin.com/learning/windows-server-2019-essential-training/types-of-volumes?u=76281980&t=8)** The partition and volume options on [[Windows Server]] are one thing that has remained constant.
 >
 > **[0:15](https://www.linkedin.com/learning/windows-server-2019-essential-training/types-of-volumes?u=76281980&t=15)** Every hard disk has three layers of preparation and this model has been in tact for as long as I can remember.
 >
@@ -2026,11 +2004,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/windows-server-2019-essential-training/types-of-volumes?u=76281980&t=25)** Traditionally, a master boot record has held this table and the BIOS of a computer was designed to read this table to find system partitions.
 >
-> **[0:35](https://www.linkedin.com/learning/windows-server-2019-essential-training/types-of-volumes?u=76281980&t=35)** Well, BIOS on computers is being upgraded and ultimately replaced by a technology that supports bigger hard drives, faster boot times, and overall, better hardware integration.
+> **[0:35](https://www.linkedin.com/learning/windows-server-2019-essential-training/types-of-volumes?u=76281980&t=35)** Well, BIOS on computers is being upgraded and ultimately replaced by a technology that supports bigger hard drives, faster boot times, and overall, better [[Hardware]] integration.
 >
 > **[0:48](https://www.linkedin.com/learning/windows-server-2019-essential-training/types-of-volumes?u=76281980&t=48)** UEFI is that new technology and new hard drive partition tables have evolved along with it.
 >
-> **[0:56](https://www.linkedin.com/learning/windows-server-2019-essential-training/types-of-volumes?u=76281980&t=56)** The GUID partition table or GPT configuration is the default setting for a Windows 2019 server.
+> **[0:56](https://www.linkedin.com/learning/windows-server-2019-essential-training/types-of-volumes?u=76281980&t=56)** The GUID partition table or GPT configuration is the default setting for a [[Windows]] 2019 server.
 >
 > **[1:06](https://www.linkedin.com/learning/windows-server-2019-essential-training/types-of-volumes?u=76281980&t=66)** Once we have a partition table in place, the second layer in the Windows server preparation of a hard-drive is specifying the type of disk.
 >
@@ -2122,7 +2100,7 @@ created: 2026-05-02
 >
 > **[6:25](https://www.linkedin.com/learning/windows-server-2019-essential-training/types-of-volumes?u=76281980&t=385)** Most of the concerns really don't apply to me so I'm going to go ahead and say yes, I want to convert to dynamic disks.
 >
-> **[6:34](https://www.linkedin.com/learning/windows-server-2019-essential-training/types-of-volumes?u=76281980&t=394)** Now, it didn't prompt me to reboot and it's possible that I could go on and be just fine, however, there are some system configuration changes that are worth manually rebooting the machine even if it doesn't require it.
+> **[6:34](https://www.linkedin.com/learning/windows-server-2019-essential-training/types-of-volumes?u=76281980&t=394)** Now, it didn't prompt me to reboot and it's possible that I could go on and be just fine, however, there are some [[System Configuration]] changes that are worth manually rebooting the machine even if it doesn't require it.
 >
 > **[6:49](https://www.linkedin.com/learning/windows-server-2019-essential-training/types-of-volumes?u=76281980&t=409)** One of the things that I'm going to do first, however, is create a mirrored set.
 >
@@ -2144,7 +2122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (4), [[Windows]] (4), [[Hardware]] (2), management (2), data (2)
+> **Frameworks & Libraries:** [[Windows Server]] (4), [[Windows]] (4), [[Hardware]] (2), [[System Configuration]] (1)
 > **Env Vars:** gpt (3), bios (2), raid (2), uefi (1), guid (1)
 > **UI Navigation:** right-click (6)
 > **Prerequisites:** set up (3), install (2)
@@ -2153,8 +2131,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Warnings:** caution (1)
 
-#### File systems compared
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/file-systems-compared?u=76281980)
+#### [File systems compared](https://www.linkedin.com/learning/windows-server-2019-essential-training/file-systems-compared?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2172,7 +2149,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/windows-server-2019-essential-training/file-systems-compared?u=76281980&t=71)** But that isn't always necessary and it isn't always a benefit.
 >
-> **[1:15](https://www.linkedin.com/learning/windows-server-2019-essential-training/file-systems-compared?u=76281980&t=75)** During normal operation I want the Windows Server operating system to read the file system and serve up the data to other apps and systems on my terms.
+> **[1:15](https://www.linkedin.com/learning/windows-server-2019-essential-training/file-systems-compared?u=76281980&t=75)** During normal operation I want the [[Windows Server]] operating system to read the file system and serve up the data to other apps and systems on my terms.
 >
 > **[1:26](https://www.linkedin.com/learning/windows-server-2019-essential-training/file-systems-compared?u=76281980&t=86)** I don't always want other platforms browsing the local storage, when we look at capacity, the FAT file system had some pretty restrictive limits.
 >
@@ -2196,7 +2173,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/file-systems-compared?u=76281980&t=180)** What it does offer you is the ability to detect file corruption and the ability to restore to a small degree, and remain online while dealing with corrupted data.
 >
-> **[3:13](https://www.linkedin.com/learning/windows-server-2019-essential-training/file-systems-compared?u=76281980&t=193)** Some server applications, say for example Exchange has its own storage management features.
+> **[3:13](https://www.linkedin.com/learning/windows-server-2019-essential-training/file-systems-compared?u=76281980&t=193)** Some server applications, say for example Exchange has its own [[Storage Management]] features.
 >
 > **[3:20](https://www.linkedin.com/learning/windows-server-2019-essential-training/file-systems-compared?u=76281980&t=200)** It doesn't need all of the quotas, all of the features that NTFS has offered.
 >
@@ -2208,7 +2185,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/windows-server-2019-essential-training/file-systems-compared?u=76281980&t=245)** Some are suggesting that ReFS will overtake NTFS completely but I still think they each have their place.
 >
-> **[4:13](https://www.linkedin.com/learning/windows-server-2019-essential-training/file-systems-compared?u=76281980&t=253)** The full compliment of features in NTFS still make it a good solution for the Windows Boot Volume and for the average file server.
+> **[4:13](https://www.linkedin.com/learning/windows-server-2019-essential-training/file-systems-compared?u=76281980&t=253)** The full compliment of features in NTFS still make it a good solution for the [[Windows]] Boot Volume and for the average file server.
 >
 > **[4:22](https://www.linkedin.com/learning/windows-server-2019-essential-training/file-systems-compared?u=76281980&t=262)** I'm showing here a Windows server that has two volumes that were created at exactly the same size.
 >
@@ -2234,7 +2211,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (4), data (3), [[Security]] (2), next (1), application (1)
+> **Frameworks & Libraries:** [[Windows Server]] (4), [[Storage Management]] (1), [[Windows]] (1)
 > **Env Vars:** ntfs (13), fat (4), vfat (1), fat32 (1), dvd (1)
 > **CLI Commands:** make (2)
 > **Versions:** 29.2 (1)
@@ -2243,8 +2220,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data deduplication
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/data-deduplication?u=76281980)
+#### [Data deduplication](https://www.linkedin.com/learning/windows-server-2019-essential-training/data-deduplication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2376,7 +2352,7 @@ created: 2026-05-02
 >
 > **[5:39](https://www.linkedin.com/learning/windows-server-2019-essential-training/data-deduplication?u=76281980&t=339)** Since I didn't schedule it, I need to go ahead and run a job manually.
 >
-> **[5:44](https://www.linkedin.com/learning/windows-server-2019-essential-training/data-deduplication?u=76281980&t=344)** I'm going to go ahead and open Powershell as an administrator, and from here, I'm going to run the command start dedup job.
+> **[5:44](https://www.linkedin.com/learning/windows-server-2019-essential-training/data-deduplication?u=76281980&t=344)** I'm going to go ahead and open [[Powershell]] as an administrator, and from here, I'm going to run the command start dedup job.
 >
 > **[5:59](https://www.linkedin.com/learning/windows-server-2019-essential-training/data-deduplication?u=76281980&t=359)** And there only a couple of parameters that I need to specify.
 >
@@ -2402,13 +2378,13 @@ created: 2026-05-02
 >
 > **[7:19](https://www.linkedin.com/learning/windows-server-2019-essential-training/data-deduplication?u=76281980&t=439)** Data deduplication may not be the right fit for all volumes and all workloads.
 >
-> **[7:25](https://www.linkedin.com/learning/windows-server-2019-essential-training/data-deduplication?u=76281980&t=445)** It can get in the way of how databases and other applications try to manage their own data.
+> **[7:25](https://www.linkedin.com/learning/windows-server-2019-essential-training/data-deduplication?u=76281980&t=445)** It can get in the way of how [[Databases]] and other applications try to manage their own data.
 >
 > **[7:30](https://www.linkedin.com/learning/windows-server-2019-essential-training/data-deduplication?u=76281980&t=450)** But it is preferred over compression or simply adding drives until you run out of bays.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), hit (3), feature (1), [[Powershell]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (1), [[Databases]] (1)
 > **Env Vars:** refs (4), ntfs (3)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (3), find (1)
@@ -2417,12 +2393,11 @@ created: 2026-05-02
 > **Code Identifiers:** iscsi (1)
 > **Tools:** powershell (1)
 
-#### Storage Spaces Direct
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-spaces-direct?u=76281980)
+#### [Storage Spaces Direct](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-spaces-direct?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-spaces-direct?u=76281980&t=0)** - [Narrator] I wanted to be sure and include a section on a feature that was introduced in Windows Server 2016, but has not been present in the semiannual releases of Server in 2017 or 18.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-spaces-direct?u=76281980&t=0)** - [Narrator] I wanted to be sure and include a section on a feature that was introduced in [[Windows Server]] 2016, but has not been present in the semiannual releases of Server in 2017 or 18.
 >
 > **[0:14](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-spaces-direct?u=76281980&t=14)** I was really glad to see Storage Spaces Direct included in Windows Server 2019 once again.
 >
@@ -2456,7 +2431,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-spaces-direct?u=76281980&t=119)** A hard drive or a physical server may die, but the volumes stay online as if nothing happened.
 >
-> **[2:08](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-spaces-direct?u=76281980&t=128)** This is the kind of thing you would expect from a hyperconverged infrastructure, or from a high-end storage management solution.
+> **[2:08](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-spaces-direct?u=76281980&t=128)** This is the kind of thing you would expect from a hyperconverged infrastructure, or from a high-end [[Storage Management]] solution.
 >
 > **[2:15](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-spaces-direct?u=76281980&t=135)** But these features are not third party, they're not extra.
 >
@@ -2464,13 +2439,13 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-spaces-direct?u=76281980&t=139)** They're built right into Windows Server 2019.
 >
-> **[2:23](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-spaces-direct?u=76281980&t=143)** No third party applications, no special requirements from hardware vendors.
+> **[2:23](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-spaces-direct?u=76281980&t=143)** No third party applications, no special requirements from [[Hardware]] vendors.
 >
 > **[2:29](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-spaces-direct?u=76281980&t=149)** Now let's take a look at what happens when we put this to work.
 >
 > **[2:32](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-spaces-direct?u=76281980&t=152)** Let's say each server in the cluster is running virtual servers for various production tasks.
 >
-> **[2:38](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-spaces-direct?u=76281980&t=158)** One of our virtual machines is configured on server one, and the virtual hard disk file is saved on the S2D volume.
+> **[2:38](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-spaces-direct?u=76281980&t=158)** One of our [[Virtual Machines]] is configured on server one, and the virtual hard disk file is saved on the S2D volume.
 >
 > **[2:48](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-spaces-direct?u=76281980&t=168)** The volume makes the VHD file appear local to server one, and it's entirely possible that the working copy might be there.
 >
@@ -2486,15 +2461,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (3), [[Virtual Machines]] (2), feature (1), data (1), node (1)
+> **Frameworks & Libraries:** [[Windows Server]] (3), [[Virtual Machines]] (2), [[Storage Management]] (1), [[Hardware]] (1)
 > **Env Vars:** s2d (4), vhd (2)
 > **CLI Commands:** make (1), node (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Storage Replica
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-replica?u=76281980)
+#### [Storage Replica](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-replica?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2504,7 +2478,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-replica?u=76281980&t=17)** Often, however, a simple solution will do the trick.
 >
-> **[0:20](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-replica?u=76281980&t=20)** Storage Replica is a feature that you can add to a Windows 2019 Server Data Center Edition or Standard, that's a change from Windows Server 2016.
+> **[0:20](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-replica?u=76281980&t=20)** Storage Replica is a feature that you can add to a [[Windows]] 2019 Server Data Center Edition or Standard, that's a change from [[Windows Server]] 2016.
 >
 > **[0:33](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-replica?u=76281980&t=33)** In Windows Server 2019, a Data Center Server can replicate as many volumes as it likes to other servers in the domain.
 >
@@ -2512,7 +2486,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-replica?u=76281980&t=51)** Let's walk through the requirements and how to set up Storage Replica within our network.
 >
-> **[0:56](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-replica?u=76281980&t=56)** Here you can see I'm on my Windows 10 workstation.
+> **[0:56](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-replica?u=76281980&t=56)** Here you can see I'm on my [[Windows 10]] workstation.
 >
 > **[1:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-replica?u=76281980&t=60)** I'm starting here because I'd like to use the Windows Admin Center to do this work.
 >
@@ -2654,7 +2628,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Windows]] (5), feature (3), [[Windows Server]] (2), next (2)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Windows Server]] (2), [[Windows 10]] (1)
 > **CLI Commands:** make (2), find (2)
 > **UI Navigation:** scroll down (4)
 > **Env Vars:** ntfs (1), srv02 (1), dfs (1)
@@ -2663,12 +2637,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Storage Migration Service
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-migration-service?u=76281980)
+#### [Storage Migration Service](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-migration-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-migration-service?u=76281980&t=0)** - [Narrator] The last two videos focused on high availability features and Windows server.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-migration-service?u=76281980&t=0)** - [Narrator] The last two videos focused on high availability features and [[Windows Server]].
 >
 > **[0:05](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-migration-service?u=76281980&t=5)** Features that help you recover from unforeseen catastrophes.
 >
@@ -2688,7 +2661,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-migration-service?u=76281980&t=52)** But to really migrate that workload, you have to find a way to copy file permissions, and share permissions, create the new shares, and set the quotas and encryption and whatever else might be going on on your old file server.
 >
-> **[1:08](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-migration-service?u=76281980&t=68)** I think we all understand the problem, and Microsoft had fielded questions about this issue for quite a while.
+> **[1:08](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-migration-service?u=76281980&t=68)** I think we all understand the problem, and [[Microsoft]] had fielded questions about this issue for quite a while.
 >
 > **[1:15](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-migration-service?u=76281980&t=75)** They've now introduced a new feature to facilitate just this type of migration.
 >
@@ -2730,13 +2703,13 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-migration-service?u=76281980&t=175)** But let's face it, if your file server is running Windows server 2003, you've really been putting this off.
 >
-> **[3:03](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-migration-service?u=76281980&t=183)** Another requirement here, is that all of these servers need to be part of the same active directory domain, and you need a domain account that is a local administrator on both the destination and the source machines.
+> **[3:03](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-migration-service?u=76281980&t=183)** Another requirement here, is that all of these servers need to be part of the same [[Active Directory]] domain, and you need a domain account that is a local administrator on both the destination and the source machines.
 >
 > **[3:20](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-migration-service?u=76281980&t=200)** Never forget the firewall, you need to make sure that you've opened the local firewall on your target and source machines to allow SMB and Net Logon into the servers.
 >
 > **[3:33](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-migration-service?u=76281980&t=213)** You also need to allow in WMI and DCOM as well.
 >
-> **[3:39](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-migration-service?u=76281980&t=219)** Once the firewall is configured, you can add the extension to the Windows admin center.
+> **[3:39](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-migration-service?u=76281980&t=219)** Once the firewall is configured, you can add the extension to the [[Windows]] admin center.
 >
 > **[3:44](https://www.linkedin.com/learning/windows-server-2019-essential-training/storage-migration-service?u=76281980&t=224)** And this has changed since the preview.
 >
@@ -2756,7 +2729,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (6), feature (4), [[Windows]] (3), [[Microsoft]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows Server]] (6), [[Windows]] (3), [[Microsoft]] (1), [[Active Directory]] (1)
 > **Env Vars:** sms (4), smig (1), smb (1), wmi (1), dcom (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2)
@@ -2770,12 +2743,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating your own AD PKI
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/creating-your-own-ad-pki?u=76281980)
+#### [Creating your own AD PKI](https://www.linkedin.com/learning/windows-server-2019-essential-training/creating-your-own-ad-pki?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/creating-your-own-ad-pki?u=76281980&t=0)** - [Instructor] There's a role in Windows Server that has been around for quite awhile and is still one of the most underutilized roles in my opinion, and that's the Active Directory Certificate Services role.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/creating-your-own-ad-pki?u=76281980&t=0)** - [Instructor] There's a role in [[Windows Server]] that has been around for quite awhile and is still one of the most underutilized roles in my opinion, and that's the [[Active Directory]] Certificate Services role.
 >
 > **[0:15](https://www.linkedin.com/learning/windows-server-2019-essential-training/creating-your-own-ad-pki?u=76281980&t=15)** Encrypting data and verifying the identity of users and computers can be done using certificates.
 >
@@ -2789,9 +2761,9 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/windows-server-2019-essential-training/creating-your-own-ad-pki?u=76281980&t=51)** Within Active Directory, you have the ability to issue certificates that will be recognized by everyone that trusts your internal authority.
 >
-> **[1:01](https://www.linkedin.com/learning/windows-server-2019-essential-training/creating-your-own-ad-pki?u=76281980&t=61)** These certificates won't be as useful to outside entities, but they're incredibly helpful when you want to quickly verify identity for remote PowerShell sessions, application access from a mobile device or any number of other scenarios.
+> **[1:01](https://www.linkedin.com/learning/windows-server-2019-essential-training/creating-your-own-ad-pki?u=76281980&t=61)** These certificates won't be as useful to outside entities, but they're incredibly helpful when you want to quickly verify identity for remote [[Powershell]] sessions, application access from a mobile device or any number of other scenarios.
 >
-> **[1:16](https://www.linkedin.com/learning/windows-server-2019-essential-training/creating-your-own-ad-pki?u=76281980&t=76)** You can install this role from the server manager, as I've done here or from the Windows Admin Center or from PowerShell on any server.
+> **[1:16](https://www.linkedin.com/learning/windows-server-2019-essential-training/creating-your-own-ad-pki?u=76281980&t=76)** You can install this role from the server manager, as I've done here or from the [[Windows]] Admin Center or from PowerShell on any server.
 >
 > **[1:25](https://www.linkedin.com/learning/windows-server-2019-essential-training/creating-your-own-ad-pki?u=76281980&t=85)** Whether it's a member of a domain or not.
 >
@@ -2841,7 +2813,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/windows-server-2019-essential-training/creating-your-own-ad-pki?u=76281980&t=254)** Many things like user certificates or computer certificates are only going to be valid for a year at a time so that they can be renewed regularly and checked up on, but five years as an overall for the server is going to be fine for me at this point.
 >
-> **[4:31](https://www.linkedin.com/learning/windows-server-2019-essential-training/creating-your-own-ad-pki?u=76281980&t=271)** The certificate database is going to be created, this is a local instance that is similar to SQL but not exactly.
+> **[4:31](https://www.linkedin.com/learning/windows-server-2019-essential-training/creating-your-own-ad-pki?u=76281980&t=271)** The certificate database is going to be created, this is a local instance that is similar to [[SQL]] but not exactly.
 >
 > **[4:39](https://www.linkedin.com/learning/windows-server-2019-essential-training/creating-your-own-ad-pki?u=76281980&t=279)** This is where the certificates and records of them are going to be stored, and now I can confirm all of my choices and click OK and it will go ahead and set up a certificate authority that I can use in my domain.
 >
@@ -2851,7 +2823,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (9), [[Powershell]] (2), next (2), [[Security]] (2), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (9), [[Powershell]] (2), [[Windows Server]] (1), [[Windows]] (1), [[SQL]] (1)
 > **Prerequisites:** install (5), configure (3), set up (1)
 > **Tools:** powershell (2)
 > **Definitions:** is a  (2)
@@ -2860,8 +2832,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing certificate templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/managing-certificate-templates?u=76281980)
+#### [Managing certificate templates](https://www.linkedin.com/learning/windows-server-2019-essential-training/managing-certificate-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2871,7 +2842,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/windows-server-2019-essential-training/managing-certificate-templates?u=76281980&t=27)** Here in the domains, I'm going to open the default domain policy for editing, and I'm going to go ahead and maximize this and give us a little bit more room here.
 >
-> **[0:39](https://www.linkedin.com/learning/windows-server-2019-essential-training/managing-certificate-templates?u=76281980&t=39)** Under the computer configuration in policies, Windows settings, security settings, and public key policies, there's a place right here where I can add the certificate of my root authority as a trusted authority, and that information will go out to all of my users and all of my computers.
+> **[0:39](https://www.linkedin.com/learning/windows-server-2019-essential-training/managing-certificate-templates?u=76281980&t=39)** Under the computer configuration in policies, [[Windows]] settings, security settings, and public key policies, there's a place right here where I can add the certificate of my root authority as a trusted authority, and that information will go out to all of my users and all of my computers.
 >
 > **[1:01](https://www.linkedin.com/learning/windows-server-2019-essential-training/managing-certificate-templates?u=76281980&t=61)** I can also specify how computers and users enroll for certificates and when it's okay for them to enroll themselves without any human intervention.
 >
@@ -2893,7 +2864,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/windows-server-2019-essential-training/managing-certificate-templates?u=76281980&t=126)** If I right-click on that and go to manage, I can see a list of all the different types of certificates that I may choose to issue, including one specifically designed for users.
 >
-> **[2:18](https://www.linkedin.com/learning/windows-server-2019-essential-training/managing-certificate-templates?u=76281980&t=138)** And if I look at the properties of that user certificate, I can see that it is published in active directory, but I can also see that there's not a lot of tabs up here for me to make other changes.
+> **[2:18](https://www.linkedin.com/learning/windows-server-2019-essential-training/managing-certificate-templates?u=76281980&t=138)** And if I look at the properties of that user certificate, I can see that it is published in [[Active Directory]], but I can also see that there's not a lot of tabs up here for me to make other changes.
 >
 > **[2:32](https://www.linkedin.com/learning/windows-server-2019-essential-training/managing-certificate-templates?u=76281980&t=152)** Let me close out of this and right-click on user and choose duplicate template.
 >
@@ -2947,7 +2918,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (5), [[Windows]] (3), [[Security]] (3), management (2), dns (2)
+> **Frameworks & Libraries:** [[Active Directory]] (5), [[Windows]] (3)
 > **UI Navigation:** right-click (3), go to (3), open the (2), scroll down (1)
 > **CLI Commands:** make (3), find (2)
 > **Exercise Files:** template (4)
@@ -2955,12 +2926,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Federated identity features
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/federated-identity-features?u=76281980)
+#### [Federated identity features](https://www.linkedin.com/learning/windows-server-2019-essential-training/federated-identity-features?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/federated-identity-features?u=76281980&t=0)** - [Instructor] Active Directory Federation Services is a server role that isn't new and to be honest, it hasn't really changed in function all that much over the last few versions.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/federated-identity-features?u=76281980&t=0)** - [Instructor] [[Active Directory]] Federation Services is a server role that isn't new and to be honest, it hasn't really changed in function all that much over the last few versions.
 >
 > **[0:11](https://www.linkedin.com/learning/windows-server-2019-essential-training/federated-identity-features?u=76281980&t=11)** It is however becoming increasingly important in the changing landscape of corporate networks.
 >
@@ -2990,7 +2960,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/windows-server-2019-essential-training/federated-identity-features?u=76281980&t=124)** Hybrid networks are on the rise.
 >
-> **[2:07](https://www.linkedin.com/learning/windows-server-2019-essential-training/federated-identity-features?u=76281980&t=127)** More and more networks are beginning to distribute server workloads between on-prem and Azure servers.
+> **[2:07](https://www.linkedin.com/learning/windows-server-2019-essential-training/federated-identity-features?u=76281980&t=127)** More and more networks are beginning to distribute server workloads between on-prem and [[Microsoft Azure|Azure]] servers.
 >
 > **[2:15](https://www.linkedin.com/learning/windows-server-2019-essential-training/federated-identity-features?u=76281980&t=135)** The Azure space and the on-prem servers are configured to serve replicas of the same directory.
 >
@@ -3000,23 +2970,22 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/windows-server-2019-essential-training/federated-identity-features?u=76281980&t=151)** Federated identity and other features of the ADFS role make this kind of link possible and add features to user accounts.
 >
-> **[2:41](https://www.linkedin.com/learning/windows-server-2019-essential-training/federated-identity-features?u=76281980&t=161)** Whether you want to add multi-factor authentication or registration of devices that aren't joined to the domain, the federation of the identity of these users and devices is becoming more and more prevalent within organizations.
+> **[2:41](https://www.linkedin.com/learning/windows-server-2019-essential-training/federated-identity-features?u=76281980&t=161)** Whether you want to add [[Multi-factor Authentication]] or registration of devices that aren't joined to the domain, the federation of the identity of these users and devices is becoming more and more prevalent within organizations.
 >
-> **[2:58](https://www.linkedin.com/learning/windows-server-2019-essential-training/federated-identity-features?u=76281980&t=178)** As you plan a migration or new deployment of Windows Server 2019, make sure you aren't too focused on roles and features that are new or noticeably upgraded.
+> **[2:58](https://www.linkedin.com/learning/windows-server-2019-essential-training/federated-identity-features?u=76281980&t=178)** As you plan a migration or new deployment of [[Windows Server]] 2019, make sure you aren't too focused on roles and features that are new or noticeably upgraded.
 >
 > **[3:09](https://www.linkedin.com/learning/windows-server-2019-essential-training/federated-identity-features?u=76281980&t=189)** Consider what may be coming in your organization that will more fully take advantage of roles like ADFS and other features that are already there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (3), application (3), [[Microsoft Azure|Azure]] (2), [[Security]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Active Directory]] (3), [[Microsoft Azure|Azure]] (2), [[Multi-factor Authentication]] (1), [[Windows Server]] (1)
 > **Env Vars:** adfs (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rights Management Services
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/rights-management-services?u=76281980)
+#### [Rights Management Services](https://www.linkedin.com/learning/windows-server-2019-essential-training/rights-management-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3036,21 +3005,21 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/windows-server-2019-essential-training/rights-management-services?u=76281980&t=51)** You can even shutdown the forward option on protected emails to prevent sensitive information from being moved outside the organization.
 >
-> **[1:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/rights-management-services?u=76281980&t=60)** This role is not new to Windows Server 2019.
+> **[1:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/rights-management-services?u=76281980&t=60)** This role is not new to [[Windows Server]] 2019.
 >
 > **[1:03](https://www.linkedin.com/learning/windows-server-2019-essential-training/rights-management-services?u=76281980&t=63)** It installs, configures, and runs the same as it did in Windows Server 2016 and earlier.
 >
-> **[1:10](https://www.linkedin.com/learning/windows-server-2019-essential-training/rights-management-services?u=76281980&t=70)** The reason I wanted to bring it up in this course is right in line with the changes I mentioned for Active Directory Federation Services.
+> **[1:10](https://www.linkedin.com/learning/windows-server-2019-essential-training/rights-management-services?u=76281980&t=70)** The reason I wanted to bring it up in this course is right in line with the changes I mentioned for [[Active Directory]] Federation Services.
 >
 > **[1:19](https://www.linkedin.com/learning/windows-server-2019-essential-training/rights-management-services?u=76281980&t=79)** The use of the cloud in hybrid environments has changed a few things about how users access protected content.
 >
-> **[1:27](https://www.linkedin.com/learning/windows-server-2019-essential-training/rights-management-services?u=76281980&t=87)** If you're currently protecting content stored in Azure spaces, you're likely using Azure Information Protection instead of RMS.
+> **[1:27](https://www.linkedin.com/learning/windows-server-2019-essential-training/rights-management-services?u=76281980&t=87)** If you're currently protecting content stored in [[Microsoft Azure|Azure]] spaces, you're likely using Azure Information Protection instead of RMS.
 >
-> **[1:36](https://www.linkedin.com/learning/windows-server-2019-essential-training/rights-management-services?u=76281980&t=96)** The Azure tools are designed to better handle the nature and volume of requests as well as providing security that aligns with cloud computing practices.
+> **[1:36](https://www.linkedin.com/learning/windows-server-2019-essential-training/rights-management-services?u=76281980&t=96)** The Azure tools are designed to better handle the nature and volume of requests as well as providing security that aligns with [[Cloud Computing]] practices.
 >
 > **[1:46](https://www.linkedin.com/learning/windows-server-2019-essential-training/rights-management-services?u=76281980&t=106)** This is important for companies that use RMS to protect content of files that are meant to be shared throughout and possibly outside of the company.
 >
-> **[1:56](https://www.linkedin.com/learning/windows-server-2019-essential-training/rights-management-services?u=76281980&t=116)** Microsoft has for some time now supported a client application for Windows, Mac, and mobile platforms designed to grant access to RMS protected client.
+> **[1:56](https://www.linkedin.com/learning/windows-server-2019-essential-training/rights-management-services?u=76281980&t=116)** [[Microsoft]] has for some time now supported a client application for [[Windows]], Mac, and mobile platforms designed to grant access to RMS protected client.
 >
 > **[2:07](https://www.linkedin.com/learning/windows-server-2019-essential-training/rights-management-services?u=76281980&t=127)** This rights management sharing application reads RMS security details and works with RMS to grant appropriate privileges to the content.
 >
@@ -3068,7 +3037,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Microsoft Azure|Azure]] (5), cloud (3), management (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Windows Server]] (2), [[Microsoft]] (2), [[Active Directory]] (1), [[Cloud Computing]] (1)
 > **Env Vars:** rms (15), aip (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -3079,8 +3048,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hyper-V in Server 2019
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-v-in-server-2019?u=76281980)
+#### [Hyper-V in Server 2019](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-v-in-server-2019?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3090,7 +3058,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-v-in-server-2019?u=76281980&t=8)** The basic concept is this.
 >
-> **[0:10](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-v-in-server-2019?u=76281980&t=10)** A very low level application is installed on a server, and it makes an inventory of physical hardware to assess how that hardware can be offered up to simulate multiple isolated machines.
+> **[0:10](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-v-in-server-2019?u=76281980&t=10)** A very low level application is installed on a server, and it makes an inventory of physical [[Hardware]] to assess how that hardware can be offered up to simulate multiple isolated machines.
 >
 > **[0:24](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-v-in-server-2019?u=76281980&t=24)** It can then assign virtual processors and portions of physical RAM, as well as simulated network and storage controllers, and bundle all these resources together in a single file that is the virtual machine.
 >
@@ -3108,11 +3076,11 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-v-in-server-2019?u=76281980&t=77)** Each with their own strengths and weaknesses.
 >
-> **[1:19](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-v-in-server-2019?u=76281980&t=79)** Hyper-V is Microsoft's virtualization platform.
+> **[1:19](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-v-in-server-2019?u=76281980&t=79)** Hyper-V is [[Microsoft]]'s virtualization platform.
 >
-> **[1:23](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-v-in-server-2019?u=76281980&t=83)** And it's been around since Windows Server 2008, and on Professional and Enterprise work stations since Windows8.
+> **[1:23](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-v-in-server-2019?u=76281980&t=83)** And it's been around since [[Windows Server]] 2008, and on Professional and Enterprise work stations since Windows8.
 >
-> **[1:33](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-v-in-server-2019?u=76281980&t=93)** And some of the features that we've already discussed have had an impact on Hyper-V on Windows 2019 servers.
+> **[1:33](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-v-in-server-2019?u=76281980&t=93)** And some of the features that we've already discussed have had an impact on Hyper-V on [[Windows]] 2019 servers.
 >
 > **[1:41](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-v-in-server-2019?u=76281980&t=101)** The addition of data deduplication in ReFS means virtual hard drives can now be stored on those volumes in a way that is not only faster and more resilient, but now also more efficient as well.
 >
@@ -3128,7 +3096,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-v-in-server-2019?u=76281980&t=156)** The biggest limitation was that Hyper-V was designed to host Windows servers, and had little consideration for anything else.
 >
-> **[2:46](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-v-in-server-2019?u=76281980&t=166)** The virtualized hardware was easy enough to understand, but none of the features that make servers resilient and protected worked on Linux environments.
+> **[2:46](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-v-in-server-2019?u=76281980&t=166)** The virtualized hardware was easy enough to understand, but none of the features that make servers resilient and protected worked on [[Linux]] environments.
 >
 > **[2:56](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-v-in-server-2019?u=76281980&t=176)** Virtualizing Mac environments is still a challenge because of the way Apple licenses their product.
 >
@@ -3136,24 +3104,23 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-v-in-server-2019?u=76281980&t=184)** Linux servers are growing in popularity, and in Windows server 2019, Microsoft has made some noteworthy steps to accommodate Linux guest machines on Hyper-V hosts.
 >
-> **[3:17](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-v-in-server-2019?u=76281980&t=197)** One of the features, previously not available to Linux guest machines, was the server 2016 feature of shielded virtual machines, and the host guardian server.
+> **[3:17](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-v-in-server-2019?u=76281980&t=197)** One of the features, previously not available to Linux guest machines, was the server 2016 feature of shielded [[Virtual Machines]], and the host guardian server.
 >
 > **[3:28](https://www.linkedin.com/learning/windows-server-2019-essential-training/hyper-v-in-server-2019?u=76281980&t=208)** Going forward, we're going to take a look at how that's been expanded to include this new market.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (5), [[Linux]] (5), [[Virtualization]] (4), data (3), [[Windows]] (3)
+> **Frameworks & Libraries:** [[Hardware]] (5), [[Linux]] (5), [[Windows]] (3), [[Microsoft]] (2), [[Windows Server]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** ram (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - server (1)
 
-#### Changes to virtualization security
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/changes-to-virtualization-security?u=76281980)
+#### [Changes to virtualization security](https://www.linkedin.com/learning/windows-server-2019-essential-training/changes-to-virtualization-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/changes-to-virtualization-security?u=76281980&t=0)** - [Instructor] In Windows Server 2016, Microsoft introduced a new protection for Windows virtual machines.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/changes-to-virtualization-security?u=76281980&t=0)** - [Instructor] In [[Windows Server]] 2016, [[Microsoft]] introduced a new protection for [[Windows]] [[Virtual Machines]].
 >
 > **[0:07](https://www.linkedin.com/learning/windows-server-2019-essential-training/changes-to-virtualization-security?u=76281980&t=7)** Shielded VMs utilized a Host Guardian Service to protect virtual machines from each other and even from admins on the host machine.
 >
@@ -3161,7 +3128,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/windows-server-2019-essential-training/changes-to-virtualization-security?u=76281980&t=21)** First, in a multi-tenant environment, it may not be up to the host server admin to look after the guest machines.
 >
-> **[0:29](https://www.linkedin.com/learning/windows-server-2019-essential-training/changes-to-virtualization-security?u=76281980&t=29)** Someone running a hosting service may offer space on high-power servers, and various clients would place their virtual servers on that hardware.
+> **[0:29](https://www.linkedin.com/learning/windows-server-2019-essential-training/changes-to-virtualization-security?u=76281980&t=29)** Someone running a hosting service may offer space on high-power servers, and various clients would place their virtual servers on that [[Hardware]].
 >
 > **[0:39](https://www.linkedin.com/learning/windows-server-2019-essential-training/changes-to-virtualization-security?u=76281980&t=39)** In this case, the host machine shouldn't have rights over the guest machine.
 >
@@ -3171,13 +3138,13 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/windows-server-2019-essential-training/changes-to-virtualization-security?u=76281980&t=64)** All of this was included in Windows Server 2016, but only for Windows workstations and servers as the guest VMs.
 >
-> **[1:14](https://www.linkedin.com/learning/windows-server-2019-essential-training/changes-to-virtualization-security?u=76281980&t=74)** Since Windows Server 2016 was released, we've seen several moves from Microsoft that have more completely integrated Linux solutions into Windows networks.
+> **[1:14](https://www.linkedin.com/learning/windows-server-2019-essential-training/changes-to-virtualization-security?u=76281980&t=74)** Since Windows Server 2016 was released, we've seen several moves from Microsoft that have more completely integrated [[Linux]] solutions into Windows networks.
 >
 > **[1:26](https://www.linkedin.com/learning/windows-server-2019-essential-training/changes-to-virtualization-security?u=76281980&t=86)** Windows Server 2019 carries that growth into the shielded VM feature.
 >
 > **[1:32](https://www.linkedin.com/learning/windows-server-2019-essential-training/changes-to-virtualization-security?u=76281980&t=92)** The Host Guardian Service can now protect Linux virtual machines as well.
 >
-> **[1:38](https://www.linkedin.com/learning/windows-server-2019-essential-training/changes-to-virtualization-security?u=76281980&t=98)** Ubuntu, Red Hat Enterprise, and SUSE Enterprise servers can be installed as type-2 virtual machines and take advantage of the Host Guardian Service.
+> **[1:38](https://www.linkedin.com/learning/windows-server-2019-essential-training/changes-to-virtualization-security?u=76281980&t=98)** [[Ubuntu]], Red Hat Enterprise, and SUSE Enterprise servers can be installed as type-2 virtual machines and take advantage of the Host Guardian Service.
 >
 > **[1:49](https://www.linkedin.com/learning/windows-server-2019-essential-training/changes-to-virtualization-security?u=76281980&t=109)** A server in the network configured as the host guardian will maintain this security.
 >
@@ -3195,7 +3162,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/windows-server-2019-essential-training/changes-to-virtualization-security?u=76281980&t=169)** There may be some who write this improvement off as unimportant because their Windows network is Windows only.
 >
-> **[2:56](https://www.linkedin.com/learning/windows-server-2019-essential-training/changes-to-virtualization-security?u=76281980&t=176)** I would remind you that not too many years ago we didn't think we would be integrating Android and Apple phones into our Windows networks, but today many of us do.
+> **[2:56](https://www.linkedin.com/learning/windows-server-2019-essential-training/changes-to-virtualization-security?u=76281980&t=176)** I would remind you that not too many years ago we didn't think we would be integrating [[Android]] and Apple phones into our Windows networks, but today many of us do.
 >
 > **[3:06](https://www.linkedin.com/learning/windows-server-2019-essential-training/changes-to-virtualization-security?u=76281980&t=186)** Things change.
 >
@@ -3208,14 +3175,13 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/containers?u=76281980)
+#### [Containers](https://www.linkedin.com/learning/windows-server-2019-essential-training/containers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/containers?u=76281980&t=0)** - [Instructor] Virtual machines are a commonly used feature when you need to bring up an entire server to provide roles and features for your network.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/containers?u=76281980&t=0)** - [Instructor] [[Virtual Machines]] are a commonly used feature when you need to bring up an entire server to provide roles and features for your network.
 >
-> **[0:09](https://www.linkedin.com/learning/windows-server-2019-essential-training/containers?u=76281980&t=9)** The ability to simulate hardware allows you flexibility in how and where to place these servers.
+> **[0:09](https://www.linkedin.com/learning/windows-server-2019-essential-training/containers?u=76281980&t=9)** The ability to simulate [[Hardware]] allows you flexibility in how and where to place these servers.
 >
 > **[0:16](https://www.linkedin.com/learning/windows-server-2019-essential-training/containers?u=76281980&t=16)** Some time ago, developers found a way to take virtualization to another level.
 >
@@ -3253,7 +3219,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/windows-server-2019-essential-training/containers?u=76281980&t=139)** And you get to continue working on version 2.0 in a perfect copy of the same environment.
 >
-> **[2:27](https://www.linkedin.com/learning/windows-server-2019-essential-training/containers?u=76281980&t=147)** Installing this feature is a little different than other roles and features that we've looked at in Windows server 2019.
+> **[2:27](https://www.linkedin.com/learning/windows-server-2019-essential-training/containers?u=76281980&t=147)** Installing this feature is a little different than other roles and features that we've looked at in [[Windows Server]] 2019.
 >
 > **[2:35](https://www.linkedin.com/learning/windows-server-2019-essential-training/containers?u=76281980&t=155)** Here we are on one of the member servers in our domain.
 >
@@ -3261,17 +3227,17 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/windows-server-2019-essential-training/containers?u=76281980&t=161)** It can be a standalone server, and it will work just fine.
 >
-> **[2:44](https://www.linkedin.com/learning/windows-server-2019-essential-training/containers?u=76281980&t=164)** Let me go ahead and open PowerShell to install and set this application up.
+> **[2:44](https://www.linkedin.com/learning/windows-server-2019-essential-training/containers?u=76281980&t=164)** Let me go ahead and open [[Powershell]] to install and set this application up.
 >
 > **[2:51](https://www.linkedin.com/learning/windows-server-2019-essential-training/containers?u=76281980&t=171)** It starts pretty much the same as installing any other feature.
 >
-> **[2:55](https://www.linkedin.com/learning/windows-server-2019-essential-training/containers?u=76281980&t=175)** And you could do this step from the Windows admin center, or you could do it from the server manager, but since we have PowerShell open, let me go ahead and install the Windows feature here.
+> **[2:55](https://www.linkedin.com/learning/windows-server-2019-essential-training/containers?u=76281980&t=175)** And you could do this step from the [[Windows]] admin center, or you could do it from the server manager, but since we have PowerShell open, let me go ahead and install the Windows feature here.
 >
 > **[3:08](https://www.linkedin.com/learning/windows-server-2019-essential-training/containers?u=76281980&t=188)** The Windows feature that we want to install is containers.
 >
 > **[3:14](https://www.linkedin.com/learning/windows-server-2019-essential-training/containers?u=76281980&t=194)** And it will go out and collect the information and install that feature, but the one thing it won't add is administrative tools to manage containers.
 >
-> **[3:23](https://www.linkedin.com/learning/windows-server-2019-essential-training/containers?u=76281980&t=203)** There are no admin tools to install this from Microsoft.
+> **[3:23](https://www.linkedin.com/learning/windows-server-2019-essential-training/containers?u=76281980&t=203)** There are no admin tools to install this from [[Microsoft]].
 >
 > **[3:27](https://www.linkedin.com/learning/windows-server-2019-essential-training/containers?u=76281980&t=207)** Originally, Microsoft did create a module of PowerShell commandlets, back when Windows server 2016 was in preview phase.
 >
@@ -3329,7 +3295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (9), application (8), [[Powershell]] (6), [[Microsoft]] (6), [[Hardware]] (5)
+> **Frameworks & Libraries:** [[Powershell]] (6), [[Microsoft]] (6), [[Hardware]] (5), [[Windows]] (5), [[Windows Server]] (3)
 > **CLI Commands:** docker (12), find (1), make (1)
 > **Prerequisites:** install (14)
 > **Tools:** powershell (6)
@@ -3337,16 +3303,15 @@ created: 2026-05-02
 > **Versions:** version 2 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Windows Subsystem for Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-subsystem-for-linux?u=76281980)
+#### [Windows Subsystem for Linux](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-subsystem-for-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-subsystem-for-linux?u=76281980&t=0)** - [Instructor] In a recent video about virtual machines, I made mention that Microsoft has taken significant steps to embrace the opensource community.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-subsystem-for-linux?u=76281980&t=0)** - [Instructor] In a recent video about [[Virtual Machines]], I made mention that [[Microsoft]] has taken significant steps to embrace the opensource community.
 >
-> **[0:09](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-subsystem-for-linux?u=76281980&t=9)** One of those steps is the inclusion of a subsystem for Linux.
+> **[0:09](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-subsystem-for-linux?u=76281980&t=9)** One of those steps is the inclusion of a subsystem for [[Linux]].
 >
-> **[0:14](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-subsystem-for-linux?u=76281980&t=14)** The Windows Subsystem for Linux is a Windows feature that allows you to run an instance of Linux on your server.
+> **[0:14](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-subsystem-for-linux?u=76281980&t=14)** The [[Windows]] Subsystem for Linux is a Windows feature that allows you to run an instance of Linux on your server.
 >
 > **[0:22](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-subsystem-for-linux?u=76281980&t=22)** Now I'm not talking about a duel-boot scenario.
 >
@@ -3356,11 +3321,11 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-subsystem-for-linux?u=76281980&t=32)** It's not virtualization at all.
 >
-> **[0:34](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-subsystem-for-linux?u=76281980&t=34)** It's an entire instance of Ubuntu or SUSE Linux, running concurrently on your Windows server.
+> **[0:34](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-subsystem-for-linux?u=76281980&t=34)** It's an entire instance of [[Ubuntu]] or SUSE Linux, running concurrently on your [[Windows Server]].
 >
 > **[0:41](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-subsystem-for-linux?u=76281980&t=41)** Installing the feature is pretty simple but pulling down and installing a Linux distribution does take a couple of steps.
 >
-> **[0:49](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-subsystem-for-linux?u=76281980&t=49)** You can install the subsystem by using the Install Windows feature in Powershell or by launching the wizard from the server manager.
+> **[0:49](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-subsystem-for-linux?u=76281980&t=49)** You can install the subsystem by using the Install Windows feature in [[Powershell]] or by launching the wizard from the server manager.
 >
 > **[0:57](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-subsystem-for-linux?u=76281980&t=57)** Since I did the last one in Powershell, I'll go ahead and run this one from server manager just for fun.
 >
@@ -3446,11 +3411,11 @@ created: 2026-05-02
 >
 > **[6:52](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-subsystem-for-linux?u=76281980&t=412)** Maybe you want to install the Linux instance of Docker.
 >
-> **[6:55](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-subsystem-for-linux?u=76281980&t=415)** Then you can host Windows containers and Linux containers at the same time from the same physical hardware or from within the same virtual server.
+> **[6:55](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-subsystem-for-linux?u=76281980&t=415)** Then you can host Windows containers and Linux containers at the same time from the same physical [[Hardware]] or from within the same virtual server.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (17), [[Ubuntu]] (14), [[Powershell]] (7), [[Windows]] (6), feature (6)
+> **Frameworks & Libraries:** [[Linux]] (17), [[Ubuntu]] (14), [[Powershell]] (7), [[Windows]] (6), [[Virtual Machines]] (2)
 > **Env Vars:** appx (3), zip (3), suse (2), exe (2), uri (1)
 > **Prerequisites:** install (10)
 > **Tools:** powershell (7), command prompt (1), bash (1)
@@ -3464,20 +3429,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Long-Term Servicing Channel vs. Semi-Annual releases
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/long-term-servicing-channel-vs-semi-annual-releases?u=76281980)
+#### [Long-Term Servicing Channel vs. Semi-Annual releases](https://www.linkedin.com/learning/windows-server-2019-essential-training/long-term-servicing-channel-vs-semi-annual-releases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/long-term-servicing-channel-vs-semi-annual-releases?u=76281980&t=0)** - [Instructor] This course has been about Windows Server 2019, the latest release in the long-term service channel of Windows Server.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/long-term-servicing-channel-vs-semi-annual-releases?u=76281980&t=0)** - [Instructor] This course has been about [[Windows Server]] 2019, the latest release in the long-term service channel of Windows Server.
 >
-> **[0:09](https://www.linkedin.com/learning/windows-server-2019-essential-training/long-term-servicing-channel-vs-semi-annual-releases?u=76281980&t=9)** These long-term service releases have the advantage of being supported by Microsoft for several years rather than the 18-month lifecycle of the semi-annual releases.
+> **[0:09](https://www.linkedin.com/learning/windows-server-2019-essential-training/long-term-servicing-channel-vs-semi-annual-releases?u=76281980&t=9)** These long-term service releases have the advantage of being supported by [[Microsoft]] for several years rather than the 18-month lifecycle of the semi-annual releases.
 >
 > **[0:21](https://www.linkedin.com/learning/windows-server-2019-essential-training/long-term-servicing-channel-vs-semi-annual-releases?u=76281980&t=21)** But these long-term releases benefit greatly from the semi-annual release channel.
 >
-> **[0:27](https://www.linkedin.com/learning/windows-server-2019-essential-training/long-term-servicing-channel-vs-semi-annual-releases?u=76281980&t=27)** Improvements to the subsystem for Linux, Storage Spaces Direct, containers, and many other server components have been developed and deployed in these semi-annual releases.
+> **[0:27](https://www.linkedin.com/learning/windows-server-2019-essential-training/long-term-servicing-channel-vs-semi-annual-releases?u=76281980&t=27)** Improvements to the subsystem for [[Linux]], Storage Spaces Direct, containers, and many other server components have been developed and deployed in these semi-annual releases.
 >
-> **[0:40](https://www.linkedin.com/learning/windows-server-2019-essential-training/long-term-servicing-channel-vs-semi-annual-releases?u=76281980&t=40)** The community of administrators, developers, and DevOps then have the opportunity to weigh in on whether or not the features are meeting their needs and expectations before these various features from all the semi-annual releases get rolled up and added into the next long-term release, like Windows Server 2019.
+> **[0:40](https://www.linkedin.com/learning/windows-server-2019-essential-training/long-term-servicing-channel-vs-semi-annual-releases?u=76281980&t=40)** The community of administrators, developers, and [[DevOps]] then have the opportunity to weigh in on whether or not the features are meeting their needs and expectations before these various features from all the semi-annual releases get rolled up and added into the next long-term release, like Windows Server 2019.
 >
 > **[1:02](https://www.linkedin.com/learning/windows-server-2019-essential-training/long-term-servicing-channel-vs-semi-annual-releases?u=76281980&t=62)** The difference between the long-term service release and the semi-annual channel give different opportunities.
 >
@@ -3511,9 +3475,9 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/windows-server-2019-essential-training/long-term-servicing-channel-vs-semi-annual-releases?u=76281980&t=182)** Also, consider using the various cloud repositories for developer projects.
 >
-> **[3:07](https://www.linkedin.com/learning/windows-server-2019-essential-training/long-term-servicing-channel-vs-semi-annual-releases?u=76281980&t=187)** Container images can be stored in private repositories at GitHub or on-site.
+> **[3:07](https://www.linkedin.com/learning/windows-server-2019-essential-training/long-term-servicing-channel-vs-semi-annual-releases?u=76281980&t=187)** Container images can be stored in private repositories at [[GitHub]] or on-site.
 >
-> **[3:14](https://www.linkedin.com/learning/windows-server-2019-essential-training/long-term-servicing-channel-vs-semi-annual-releases?u=76281980&t=194)** And for many of the roles that you count on from Windows Servers, it may be a good idea to use the semi-annual releases for testing and for future planning, allowing you to try out what's coming next in the role before you deploy it into production.
+> **[3:14](https://www.linkedin.com/learning/windows-server-2019-essential-training/long-term-servicing-channel-vs-semi-annual-releases?u=76281980&t=194)** And for many of the roles that you count on from [[Windows]] Servers, it may be a good idea to use the semi-annual releases for testing and for future planning, allowing you to try out what's coming next in the role before you deploy it into production.
 >
 > **[3:31](https://www.linkedin.com/learning/windows-server-2019-essential-training/long-term-servicing-channel-vs-semi-annual-releases?u=76281980&t=211)** You can keep the production installation of these mission-critical tasks on your long-term service release machines, but go ahead and test them.
 >
@@ -3521,21 +3485,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (3), next (3), [[DevOps]] (2), [[Microsoft]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (3), [[DevOps]] (2), [[Microsoft]] (1), [[Linux]] (1), [[GitHub]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Windows Insider program
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-insider-program?u=76281980)
+#### [Windows Insider program](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-insider-program?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-insider-program?u=76281980&t=0)** - [Instructor] Time will tell how Microsoft will use the two parallel release channels over the long haul.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-insider-program?u=76281980&t=0)** - [Instructor] Time will tell how [[Microsoft]] will use the two parallel release channels over the long haul.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-insider-program?u=76281980&t=6)** The quick release of features in the semi-annual channels, and the long-term reliability that people have come to rely on, provide different assurances to different people.
 >
-> **[0:17](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-insider-program?u=76281980&t=17)** The not so gradual move of many services and server roles to Azure, may take part of this decision out of the administrators hands.
+> **[0:17](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-insider-program?u=76281980&t=17)** The not so gradual move of many services and server roles to [[Microsoft Azure|Azure]], may take part of this decision out of the administrators hands.
 >
 > **[0:27](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-insider-program?u=76281980&t=27)** However you look at it, there is change coming down the line and however that change plays out one thing is for sure, you don't want to be surprised by a decision outside of your hands, may throw a wrench into your IT's strategic plan.
 >
@@ -3543,9 +3506,9 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-insider-program?u=76281980&t=50)** Or you could be part of the conversation.
 >
-> **[0:55](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-insider-program?u=76281980&t=55)** Windows Insiders is a program that Microsoft introduced, to give the tech community access to the ever evolving versions of Windows.
+> **[0:55](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-insider-program?u=76281980&t=55)** [[Windows]] Insiders is a program that Microsoft introduced, to give the tech community access to the ever evolving versions of Windows.
 >
-> **[1:03](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-insider-program?u=76281980&t=63)** When Nano Server was introduced in Windows Server 2016, there was overwhelming response from the community to make it even smaller and easier to deploy for application development environments.
+> **[1:03](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-insider-program?u=76281980&t=63)** When Nano Server was introduced in [[Windows Server]] 2016, there was overwhelming response from the community to make it even smaller and easier to deploy for [[Application Development]] environments.
 >
 > **[1:16](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-insider-program?u=76281980&t=76)** The discussion showed no real need for it as a infrastructure platform.
 >
@@ -3559,7 +3522,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-insider-program?u=76281980&t=121)** On this page, you can register for the Windows Insider program including access to preview copies of Windows server and the Windows Admin center, and other applications.
 >
-> **[2:12](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-insider-program?u=76281980&t=132)** Then, you could download and install these various products.
+> **[2:12](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-insider-program?u=76281980&t=132)** Then, you could download and install these various [[Microsoft Products|products]].
 >
 > **[2:17](https://www.linkedin.com/learning/windows-server-2019-essential-training/windows-insider-program?u=76281980&t=137)** Let's take a look at what these downloads currently include.
 >
@@ -3587,7 +3550,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (12), [[Windows Server]] (5), next (4), [[Microsoft]] (3), [[Microsoft Products|Products]] (3)
+> **Frameworks & Libraries:** [[Windows]] (12), [[Windows Server]] (5), [[Microsoft]] (3), [[Microsoft Products|Products]] (3), [[Microsoft Azure|Azure]] (1)
 > **Prerequisites:** install (2), getting started (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -3600,8 +3563,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-essential-training/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/windows-server-2019-essential-training/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3615,15 +3577,15 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/windows-server-2019-essential-training/next-steps?u=76281980&t=12)** My recommendation to you is that you review these features and identify the ones that will make your network better.
 >
-> **[0:19](https://www.linkedin.com/learning/windows-server-2019-essential-training/next-steps?u=76281980&t=19)** When you start to find those topics, the ones that you want to explore further, search the LinkedIn Learning Library for courses on those specific areas.
+> **[0:19](https://www.linkedin.com/learning/windows-server-2019-essential-training/next-steps?u=76281980&t=19)** When you start to find those topics, the ones that you want to explore further, search the [[LinkedIn]] Learning Library for courses on those specific areas.
 >
-> **[0:29](https://www.linkedin.com/learning/windows-server-2019-essential-training/next-steps?u=76281980&t=29)** There are courses on installing and managing Windows Server, courses on Active Directory, and courses on specific roles and features that are discussed in this course.
+> **[0:29](https://www.linkedin.com/learning/windows-server-2019-essential-training/next-steps?u=76281980&t=29)** There are courses on installing and managing [[Windows Server]], courses on [[Active Directory]], and courses on specific roles and features that are discussed in this course.
 >
 > **[0:40](https://www.linkedin.com/learning/windows-server-2019-essential-training/next-steps?u=76281980&t=40)** And once you start the deeper dives into these features, build your own test labs and follow along, and more importantly, design test scenarios of your own.
 >
-> **[0:52](https://www.linkedin.com/learning/windows-server-2019-essential-training/next-steps?u=76281980&t=52)** Use the Microsoft Docs websites and the TechNet blogs to support you in the learning process.
+> **[0:52](https://www.linkedin.com/learning/windows-server-2019-essential-training/next-steps?u=76281980&t=52)** Use the [[Microsoft]] Docs websites and the TechNet blogs to support you in the learning process.
 >
-> **[0:59](https://www.linkedin.com/learning/windows-server-2019-essential-training/next-steps?u=76281980&t=59)** And most of all, join the Windows Insider Program for business.
+> **[0:59](https://www.linkedin.com/learning/windows-server-2019-essential-training/next-steps?u=76281980&t=59)** And most of all, join the [[Windows]] Insider Program for business.
 >
 > **[1:03](https://www.linkedin.com/learning/windows-server-2019-essential-training/next-steps?u=76281980&t=63)** Join the conversations and let your voice be heard regarding unmet needs or the implementation of newly released features.
 >
@@ -3633,7 +3595,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (2), [[Search]] (1), [[LinkedIn]] (1), [[Active Directory]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (2), [[LinkedIn]] (1), [[Active Directory]] (1), [[Microsoft]] (1), [[Windows]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [scott] (1)
 

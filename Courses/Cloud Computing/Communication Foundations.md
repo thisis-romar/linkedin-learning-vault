@@ -76,8 +76,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Communication for career success
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/communication-for-career-success?u=76281980)
+#### [Communication for career success](https://www.linkedin.com/learning/communication-foundations-23064093/communication-for-career-success?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -101,7 +100,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **Speakers:** - business (1), - we (1), - and (1), - [brenda] (1), - improving (1)
 > **CLI Commands:** make (1)
 
@@ -110,8 +108,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The four building blocks: People and perspective
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/the-four-building-blocks-people-and-perspective?u=76281980)
+#### [The four building blocks: People and perspective](https://www.linkedin.com/learning/communication-foundations-23064093/the-four-building-blocks-people-and-perspective?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -177,14 +174,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** in the next (1), coming up (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - four (1)
 
-#### The four building blocks: Message
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/the-four-building-blocks-message?u=76281980)
+#### [The four building blocks: Message](https://www.linkedin.com/learning/communication-foundations-23064093/the-four-building-blocks-message?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -242,14 +237,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), next (1)
 > **Analogies:** for example (1), for instance (1)
 > **Cross-References:** later in (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - what (1)
 
-#### The four building blocks: Context
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/the-four-building-blocks-context?u=76281980)
+#### [The four building blocks: Context](https://www.linkedin.com/learning/communication-foundations-23064093/the-four-building-blocks-context?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -265,7 +258,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/communication-foundations-23064093/the-four-building-blocks-context?u=76281980&t=34)** When you initiate an important or sensitive conversation, consider the ways in which location can influence the conversation.
 >
-> **[0:44](https://www.linkedin.com/learning/communication-foundations-23064093/the-four-building-blocks-context?u=76281980&t=44)** If I ask you to my office, I send a different message than if I come to yours.
+> **[0:44](https://www.linkedin.com/learning/communication-foundations-23064093/the-four-building-blocks-context?u=76281980&t=44)** If I ask you to my [[Microsoft Office|office]], I send a different message than if I come to yours.
 >
 > **[0:50](https://www.linkedin.com/learning/communication-foundations-23064093/the-four-building-blocks-context?u=76281980&t=50)** A conversation in the break room has a different feel than a conversation in the boardroom.
 >
@@ -301,7 +294,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/communication-foundations-23064093/the-four-building-blocks-context?u=76281980&t=140)** Unlike Julia, you will want to pay attention to the relationships of people involved in your communication situation.
 >
-> **[2:27](https://www.linkedin.com/learning/communication-foundations-23064093/the-four-building-blocks-context?u=76281980&t=147)** If you're trying to persuade John to approve something, and he always listens to Tatiana, I might want to get Tatiana on board first.
+> **[2:27](https://www.linkedin.com/learning/communication-foundations-23064093/the-four-building-blocks-context?u=76281980&t=147)** If you're trying to persuade [[John the Ripper|John]] to approve something, and he always listens to Tatiana, I might want to get Tatiana on board first.
 >
 > **[2:37](https://www.linkedin.com/learning/communication-foundations-23064093/the-four-building-blocks-context?u=76281980&t=157)** If you are communicating with someone from a formal corporate culture, especially someone in a position of authority, maybe you avoid humor and speak with more deference to the other.
 >
@@ -313,7 +306,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/communication-foundations-23064093/the-four-building-blocks-context?u=76281980&t=186)** Instead, you meet each of them in advance, hear out their concerns, address those issues, and then present to all of them.
 >
-> **[3:16](https://www.linkedin.com/learning/communication-foundations-23064093/the-four-building-blocks-context?u=76281980&t=196)** One of our LinkedIn viewers shared that when they implemented this approach, the decision makers felt respected.
+> **[3:16](https://www.linkedin.com/learning/communication-foundations-23064093/the-four-building-blocks-context?u=76281980&t=196)** One of our [[LinkedIn]] viewers shared that when they implemented this approach, the decision makers felt respected.
 >
 > **[3:23](https://www.linkedin.com/learning/communication-foundations-23064093/the-four-building-blocks-context?u=76281980&t=203)** They could see their suggestions and changes in the final presentation, and because of that, they were gentler with their questions and criticism and more likely to approve the idea.
 >
@@ -323,12 +316,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Microsoft Office|Office]] (1), leadership (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[John the Ripper|John]] (1), [[LinkedIn]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - communication (1)
 
-#### The four building blocks: Listening
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/the-four-building-blocks-listening?u=76281980)
+#### [The four building blocks: Listening](https://www.linkedin.com/learning/communication-foundations-23064093/the-four-building-blocks-listening?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -390,7 +382,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2), snap (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is called (1)
@@ -402,8 +393,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### When you give an update
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-give-an-update?u=76281980)
+#### [When you give an update](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-give-an-update?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -435,7 +425,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-give-an-update?u=76281980&t=62)** I need to think of the most important concept and focus just on that.
 >
-> **[1:07](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-give-an-update?u=76281980&t=67)** In this example that I'm giving you, since artificial intelligence was the overarching theme, I could have said, "Well, AI could be the event organizer next year."
+> **[1:07](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-give-an-update?u=76281980&t=67)** In this example that I'm giving you, since [[Artificial Intelligence (AI)|artificial intelligence]] was the overarching theme, I could have said, "Well, AI could be the event organizer next year."
 >
 > **[1:17](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-give-an-update?u=76281980&t=77)** Now, that will catch attention.
 >
@@ -461,7 +451,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-give-an-update?u=76281980&t=131)** For my conference update, I know that our director values fresh ideas that will benefit our operation.
 >
-> **[2:18](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-give-an-update?u=76281980&t=138)** I could have said, "I learned what can help us with market research, client retention, and general AI tools.
+> **[2:18](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-give-an-update?u=76281980&t=138)** I could have said, "I learned what can help us with [[Market Research]], client retention, and general AI tools.
 >
 > **[2:26](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-give-an-update?u=76281980&t=146)** Let me give you an example of what others are doing with their market research."
 >
@@ -477,14 +467,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Market Research]] (2), game (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), next (1)
+> **Frameworks & Libraries:** [[Market Research]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1), for instance (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 
-#### Tool kit: Giving an update
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/took-kit-giving-an-update?u=76281980)
+#### [Tool kit: Giving an update](https://www.linkedin.com/learning/communication-foundations-23064093/took-kit-giving-an-update?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -540,11 +529,11 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/communication-foundations-23064093/took-kit-giving-an-update?u=76281980&t=104)** Here we go again, write and think about three key takeaways.
 >
-> **[1:50](https://www.linkedin.com/learning/communication-foundations-23064093/took-kit-giving-an-update?u=76281980&t=110)** Finally, since my hypothetical conference highlight revolved around AI, I should tell you how to train for all this, update your speaking with the use of artificial intelligence.
+> **[1:50](https://www.linkedin.com/learning/communication-foundations-23064093/took-kit-giving-an-update?u=76281980&t=110)** Finally, since my hypothetical conference highlight revolved around AI, I should tell you how to train for all this, update your speaking with the use of [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[2:02](https://www.linkedin.com/learning/communication-foundations-23064093/took-kit-giving-an-update?u=76281980&t=122)** Tools such as [yoodli.ai](https://yoodli.ai) and Orai can record your comments and revise them for clarity and conciseness.
 >
-> **[2:10](https://www.linkedin.com/learning/communication-foundations-23064093/took-kit-giving-an-update?u=76281980&t=130)** Even if you don't have access to those types of tools, I recommend that you dictate your comments and then cut and paste them into a generative AI tool and ask it to help you eliminate unnecessary phrases or find language to further emphasize your points.
+> **[2:10](https://www.linkedin.com/learning/communication-foundations-23064093/took-kit-giving-an-update?u=76281980&t=130)** Even if you don't have access to those types of tools, I recommend that you dictate your comments and then cut and paste them into a [[Generative AI]] tool and ask it to help you eliminate unnecessary phrases or find language to further emphasize your points.
 >
 > **[2:27](https://www.linkedin.com/learning/communication-foundations-23064093/took-kit-giving-an-update?u=76281980&t=147)** Good luck with this drill.
 >
@@ -552,15 +541,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** coming up (1), go back to (1)
 > **URLs:** [yoodli.ai](https://yoodli.ai) (1)
 > **Analogies:** such as (1)
 > **Speakers:** - here (1)
 
-#### When you attend meetings
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-attend-meetings?u=76281980)
+#### [When you attend meetings](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-attend-meetings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -570,7 +558,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-attend-meetings?u=76281980&t=9)** In this video, you'll learn ways to increase your visibility and boost effectiveness during the many, many meetings you attend.
 >
-> **[0:19](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-attend-meetings?u=76281980&t=19)** John has to attend a ton of meetings, and here we see him sitting in his usual corner spot.
+> **[0:19](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-attend-meetings?u=76281980&t=19)** [[John the Ripper|John]] has to attend a ton of meetings, and here we see him sitting in his usual corner spot.
 >
 > **[0:25](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-attend-meetings?u=76281980&t=25)** He's listening but not saying much, trying not to take up too much space.
 >
@@ -680,15 +668,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), express (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (7)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Analogies:** it's like (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - working (1)
 
-#### Tool kit: Meetings
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-meetings?u=76281980)
+#### [Tool kit: Meetings](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-meetings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -714,13 +701,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), strengths (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - it (1)
 
-#### When you want to build rapport
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-want-to-build-rapport?u=76281980)
+#### [When you want to build rapport](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-want-to-build-rapport?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -758,7 +743,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-want-to-build-rapport?u=76281980&t=86)** Strategize about your virtual connections as much as you do with your in-person ones.
 >
-> **[1:32](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-want-to-build-rapport?u=76281980&t=92)** A comment about a post or article in someone's LinkedIn page, A separate private message thanking them for sharing information or even passing along an article you think they may be interested in are all examples of virtual rapport building.
+> **[1:32](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-want-to-build-rapport?u=76281980&t=92)** A comment about a post or article in someone's [[LinkedIn]] page, A separate private message thanking them for sharing information or even passing along an article you think they may be interested in are all examples of virtual rapport building.
 >
 > **[1:47](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-want-to-build-rapport?u=76281980&t=107)** Show interest and engagement.
 >
@@ -798,14 +783,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), ai (2), career (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Analogies:** such as (2), for example (1), for instance (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - my (1)
 
-#### Tool kit: Building rapport
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-building-rapport?u=76281980)
+#### [Tool kit: Building rapport](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-building-rapport?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -831,7 +815,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-building-rapport?u=76281980&t=56)** Now, let's move to workplace context drills.
 >
-> **[1:01](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-building-rapport?u=76281980&t=61)** Go to your next meeting committed to ignoring your phone, your tablet, and other electronics.
+> **[1:01](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-building-rapport?u=76281980&t=61)** Go to your next meeting committed to ignoring your phone, your tablet, and other [[Electronics]].
 >
 > **[1:07](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-building-rapport?u=76281980&t=67)** Instead, tune into the people.
 >
@@ -869,14 +853,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), game (1), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Electronics]] (1)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** switch to (1), go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
 
-#### When you communicate digitally
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-communicate-digitally?u=76281980)
+#### [When you communicate digitally](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-communicate-digitally?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -966,13 +949,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), ai (2), prompt (1), express (1), data (1)
 > **CLI Commands:** find (2), make (2)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - annabel (1)
 
-#### Tool kit: Digital communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-digital-communication?u=76281980)
+#### [Tool kit: Digital communication](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-digital-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -988,7 +969,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-digital-communication?u=76281980&t=27)** Next, go through and label each of the printouts with the words, message, action, and details where you find them, highlight any claims or assertions you've made.
 >
-> **[0:40](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-digital-communication?u=76281980&t=40)** And then in the same color, highlight relevant supporting evidence, such as voice of customer data and expert's opinion, case studies, or financial and statistical analysis.
+> **[0:40](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-digital-communication?u=76281980&t=40)** And then in the same color, highlight relevant supporting evidence, such as voice of customer data and expert's opinion, case studies, or financial and [[Statistical Analysis]].
 >
 > **[0:51](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-digital-communication?u=76281980&t=51)** Finally, use this chart to evaluate each of your labeled messages.
 >
@@ -1006,7 +987,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-digital-communication?u=76281980&t=84)** What did you want your reader to think, feel, and do?
 >
-> **[1:27](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-digital-communication?u=76281980&t=87)** And does your word choice create the right tone for that message?
+> **[1:27](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-digital-communication?u=76281980&t=87)** And does your [[Microsoft Word|word]] choice create the right tone for that message?
 >
 > **[1:32](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-digital-communication?u=76281980&t=92)** Did you tailor to the knowledge level of your reader?
 >
@@ -1054,14 +1035,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), next (2), [[Microsoft Word|Word]] (2), data (1), [[Statistical Analysis]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Statistical Analysis]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** such as (2), for example (1)
 > **UI Navigation:** go to (2)
 > **Speakers:** - there (1)
 
-#### Pitching your ideas
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/pitching-your-ideas?u=76281980)
+#### [Pitching your ideas](https://www.linkedin.com/learning/communication-foundations-23064093/pitching-your-ideas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1103,7 +1083,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/communication-foundations-23064093/pitching-your-ideas?u=76281980&t=91)** Then give two to three compelling reasons why your idea is a good one.
 >
-> **[1:36](https://www.linkedin.com/learning/communication-foundations-23064093/pitching-your-ideas?u=76281980&t=96)** Back up those reasons with solid evidence, statistics, industry data, case studies, and specific examples.
+> **[1:36](https://www.linkedin.com/learning/communication-foundations-23064093/pitching-your-ideas?u=76281980&t=96)** Back up those reasons with solid evidence, [[Statistics]], industry data, case studies, and specific examples.
 >
 > **[1:44](https://www.linkedin.com/learning/communication-foundations-23064093/pitching-your-ideas?u=76281980&t=104)** Make sure these reasons are aligned with the values and priorities of your decision maker.
 >
@@ -1115,7 +1095,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/communication-foundations-23064093/pitching-your-ideas?u=76281980&t=120)** Your pitch may sound something like this.
 >
-> **[2:03](https://www.linkedin.com/learning/communication-foundations-23064093/pitching-your-ideas?u=76281980&t=123)** We need to think about transitioning to a teams or slack type of platform for our internal communication.
+> **[2:03](https://www.linkedin.com/learning/communication-foundations-23064093/pitching-your-ideas?u=76281980&t=123)** We need to think about transitioning to a teams or [[Slack]] type of platform for our internal communication.
 >
 > **[2:10](https://www.linkedin.com/learning/communication-foundations-23064093/pitching-your-ideas?u=76281980&t=130)** I know that last week you stayed late trying to find those customer files buried in your email threads.
 >
@@ -1153,15 +1133,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Statistics]] (1), teams (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Slack]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Tools:** slack (1)
 > **Analogies:** for example (1)
 > **Speakers:** - say (1)
 
-#### Tool kit: Pitching your ideas
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-pitching-your-ideas?u=76281980)
+#### [Tool kit: Pitching your ideas](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-pitching-your-ideas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1228,8 +1207,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### When you are nervous
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-are-nervous?u=76281980)
+#### [When you are nervous](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-are-nervous?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1321,15 +1299,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), next (1)
 > **Env Vars:** breathe (3)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - heart (1)
 
-#### Tool kit: Managing nervousness
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-managing-nervousness?u=76281980)
+#### [Tool kit: Managing nervousness](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-managing-nervousness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1371,18 +1347,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** for example (1)
 > **Speakers:** - you (1)
 
-#### When you disagree with someone
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-disagree-with-someone?u=76281980)
+#### [When you disagree with someone](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-disagree-with-someone?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-disagree-with-someone?u=76281980&t=0)** - It's impossible to avoid disagreements in the office, whether you're talking about politics, social issues, or work.
+> **[0:00](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-disagree-with-someone?u=76281980&t=0)** - It's impossible to avoid disagreements in the [[Microsoft Office|office]], whether you're talking about politics, social issues, or work.
 >
 > **[0:08](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-disagree-with-someone?u=76281980&t=8)** How do you respectfully express your own opinions when others see things so differently?
 >
@@ -1442,13 +1416,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (4), next (2), [[Microsoft Office|Office]] (1), power (1), leadership (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - it (1)
 
-#### Tool kit: Managing disagreement
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-managing-disagreement?u=76281980)
+#### [Tool kit: Managing disagreement](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-managing-disagreement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1458,7 +1431,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-managing-disagreement?u=76281980&t=7)** Then make a list of topics and the people you will practice with.
 >
-> **[0:12](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-managing-disagreement?u=76281980&t=12)** Brenda is playing the role of our human resources director who wants us to follow a standard training agenda for the onboarding training we trainers conduct.
+> **[0:12](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-managing-disagreement?u=76281980&t=12)** Brenda is playing the role of our [[Human Resources (HR)|human resources]] director who wants us to follow a standard training agenda for the onboarding training we trainers conduct.
 >
 > **[0:22](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-managing-disagreement?u=76281980&t=22)** I believe that we should allow our human resources trainers to add their own personal stories and anecdotes.
 >
@@ -1526,12 +1499,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (2), express (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (2)
 > **Speakers:** - prepare (1), - thank (1), - definitely (1), - did (1), - both (1)
 > **CLI Commands:** make (5)
 
-#### When you are making an ask
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-are-making-an-ask?u=76281980)
+#### [When you are making an ask](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-are-making-an-ask?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1617,13 +1589,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), leadership (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Speakers:** - need (1)
 
-#### Tool kit: Making an ask
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-making-an-ask?u=76281980)
+#### [Tool kit: Making an ask](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-making-an-ask?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1649,7 +1619,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-making-an-ask?u=76281980&t=51)** You're training your brain to ask.
 >
-> **[0:54](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-making-an-ask?u=76281980&t=54)** Add some accountability by asking a friend to play along.
+> **[0:54](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-making-an-ask?u=76281980&t=54)** Add some [[Accountability]] by asking a friend to play along.
 >
 > **[0:58](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-making-an-ask?u=76281980&t=58)** Share what your request was each and every day.
 >
@@ -1673,19 +1643,18 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-making-an-ask?u=76281980&t=126)** Remember, if you never ask, you'll never know.
 >
-> **[2:10](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-making-an-ask?u=76281980&t=130)** Find us on LinkedIn and drop us a note about your experience.
+> **[2:10](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-making-an-ask?u=76281980&t=130)** Find us on [[LinkedIn]] and drop us a note about your experience.
 >
 > **[2:15](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-making-an-ask?u=76281980&t=135)** We love hearing your successful request stories.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accountability]] (2), next (1), data (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - if (1)
 
-#### When you are criticized or caught off guard
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-are-criticized-or-caught-off-guard?u=76281980)
+#### [When you are criticized or caught off guard](https://www.linkedin.com/learning/communication-foundations-23064093/when-you-are-criticized-or-caught-off-guard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1771,14 +1740,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), leadership (1)
 > **Speakers:** - the (1), - hey (1), - i (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** sbi (2)
 > **Definitions:** is a  (2)
 
-#### Tool kit: Criticism
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-criticism?u=76281980)
+#### [Tool kit: Criticism](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-criticism?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1818,7 +1785,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-criticism?u=76281980&t=112)** Here we go.
 >
-> **[1:53](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-criticism?u=76281980&t=113)** When did LinkedIn learning first come online?
+> **[1:53](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-criticism?u=76281980&t=113)** When did [[LinkedIn]] learning first come online?
 >
 > **[1:57](https://www.linkedin.com/learning/communication-foundations-23064093/tool-kit-criticism?u=76281980&t=117)** Which Fortune 500 company has the most women on their board?
 >
@@ -1838,7 +1805,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
@@ -1850,8 +1817,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Putting your communication skills into practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/communication-foundations-23064093/putting-your-communication-skills-into-practice?u=76281980)
+#### [Putting your communication skills into practice](https://www.linkedin.com/learning/communication-foundations-23064093/putting-your-communication-skills-into-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1863,7 +1829,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/communication-foundations-23064093/putting-your-communication-skills-into-practice?u=76281980&t=10)** We'd love to hear from you in the Q&A.
 >
-> **[0:12](https://www.linkedin.com/learning/communication-foundations-23064093/putting-your-communication-skills-into-practice?u=76281980&t=12)** And connect with us on LinkedIn so we can continue our conversation about great communication.
+> **[0:12](https://www.linkedin.com/learning/communication-foundations-23064093/putting-your-communication-skills-into-practice?u=76281980&t=12)** And connect with us on [[LinkedIn]] so we can continue our conversation about great communication.
 
 > [!info]- Semantic Content
 >

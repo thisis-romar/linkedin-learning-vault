@@ -84,36 +84,34 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Modern standards for your JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/modern-standards-for-your-javascript-25669099?u=76281980)
+#### [Modern standards for your JavaScript](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/modern-standards-for-your-javascript-25669099?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/modern-standards-for-your-javascript-25669099?u=76281980&t=0)** - Have you ever looked at someone else's code formatting and wondered why they do it that way?
 >
-> **[0:05](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/modern-standards-for-your-javascript-25669099?u=76281980&t=5)** I created this course to show you some industry standards for writing JavaScript and some approaches that I find particularly useful.
+> **[0:05](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/modern-standards-for-your-javascript-25669099?u=76281980&t=5)** I created this course to show you some industry standards for writing [[JavaScript]] and some approaches that I find particularly useful.
 >
 > **[0:13](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/modern-standards-for-your-javascript-25669099?u=76281980&t=13)** We'll look at writing readable comments.
 >
 > **[0:15](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/modern-standards-for-your-javascript-25669099?u=76281980&t=15)** We'll also dig into how to approach punctuation and spaces in a variety of scenarios.
 >
-> **[0:21](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/modern-standards-for-your-javascript-25669099?u=76281980&t=21)** And, we'll configure ESLint to guide you toward using these approaches consistently.
+> **[0:21](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/modern-standards-for-your-javascript-25669099?u=76281980&t=21)** And, we'll configure [[ESLint]] to guide you toward using these approaches consistently.
 >
 > **[0:25](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/modern-standards-for-your-javascript-25669099?u=76281980&t=25)** This course won't settle any long running debates like commas versus tabs, but when you're done, you'll be able to bring a thoughtful approach to the format of your code and make a constructive contribution to style choices for your projects and teams.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1), [[ESLint]] (1), teams (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[ESLint]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - have (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/what-you-should-know?u=76281980&t=0)** - [Instructor] This course assumes you have some experience coding in front-end JavaScript including modern ES6 syntax.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/what-you-should-know?u=76281980&t=0)** - [Instructor] This course assumes you have some experience coding in front-end [[JavaScript]] including modern ES6 syntax.
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/what-you-should-know?u=76281980&t=8)** If you don't have experience with JavaScript, a basic JavaScript course would be a great place to start.
 >
@@ -121,20 +119,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), front-end (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4)
 > **Env Vars:** es6 (2)
 > **Speakers:** - [instructor] (1)
 
-#### Set up your environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/set-up-your-environment?u=76281980)
+#### [Set up your environment](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/set-up-your-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/set-up-your-environment?u=76281980&t=0)** - To work along with me on the files for this course you need three applications.
 >
-> **[0:05](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/set-up-your-environment?u=76281980&t=5)** ESLint, a web browser and a code editor.
+> **[0:05](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/set-up-your-environment?u=76281980&t=5)** [[ESLint]], a web browser and a code editor.
 >
-> **[0:10](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/set-up-your-environment?u=76281980&t=10)** ESLint is a command line utility that you install using the node package manager or npm.
+> **[0:10](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/set-up-your-environment?u=76281980&t=10)** ESLint is a command line utility that you install using the node package manager or [[npm]].
 >
 > **[0:17](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/set-up-your-environment?u=76281980&t=17)** Npm is part of the node JS run time.
 >
@@ -162,7 +159,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/set-up-your-environment?u=76281980&t=82)** We've got a warning here, and that's not a problem it's just telling us that if we're really serious about this later on we can go configure a file with some more information but for our uses for this course, this is just fine as is.
 >
-> **[1:36](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/set-up-your-environment?u=76281980&t=96)** You undoubtedly already have a web browser installed in your machine and any major modern browser, Chrome, Firefox or Microsoft edge is fine for this course.
+> **[1:36](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/set-up-your-environment?u=76281980&t=96)** You undoubtedly already have a web browser installed in your machine and any major modern browser, Chrome, Firefox or [[Microsoft]] edge is fine for this course.
 >
 > **[1:47](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/set-up-your-environment?u=76281980&t=107)** I'll be using Firefox for these videos which includes a powerful sweet of developer tools.
 >
@@ -174,13 +171,13 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/set-up-your-environment?u=76281980&t=129)** I use visual studio code in these videos.
 >
-> **[2:12](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/set-up-your-environment?u=76281980&t=132)** Which is a version of Microsoft's visual studio code created specifically for web development.
+> **[2:12](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/set-up-your-environment?u=76281980&t=132)** Which is a version of Microsoft's visual studio code created specifically for [[Web Development]].
 >
-> **[2:18](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/set-up-your-environment?u=76281980&t=138)** Visual studio code is free and has Windows, Mac and Linux releases.
+> **[2:18](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/set-up-your-environment?u=76281980&t=138)** Visual studio code is free and has [[Windows]], Mac and [[Linux]] releases.
 >
-> **[2:23](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/set-up-your-environment?u=76281980&t=143)** The code is available on GitHub and users can submit issues there as well.
+> **[2:23](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/set-up-your-environment?u=76281980&t=143)** The code is available on [[GitHub]] and users can submit issues there as well.
 >
-> **[2:28](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/set-up-your-environment?u=76281980&t=148)** I've turned on word wrap on my editor.
+> **[2:28](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/set-up-your-environment?u=76281980&t=148)** I've turned on [[Microsoft Word|word]] wrap on my editor.
 >
 > **[2:31](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/set-up-your-environment?u=76281980&t=151)** If you want to do the same, just click view and then toggle word wrap.
 >
@@ -190,7 +187,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/set-up-your-environment?u=76281980&t=165)** The ESLint extension by Dirk Baeumer enables visual studio code to highlight code that violates rules specified in a projects ESLint configuration file.
 >
-> **[2:57](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/set-up-your-environment?u=76281980&t=177)** Live Server by Ritwick Dey is an http server you can launch with a single click that automatically opens the current html document in your default browser.
+> **[2:57](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/set-up-your-environment?u=76281980&t=177)** Live Server by Ritwick Dey is an http server you can launch with a single click that automatically opens the current [[HTML]] document in your default browser.
 >
 > **[3:07](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/set-up-your-environment?u=76281980&t=187)** This makes testing code in the browser quick and easy to do.
 >
@@ -200,7 +197,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (7), [[npm]] (6), node (3), web (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[ESLint]] (7), [[npm]] (6), [[Microsoft]] (2), [[Microsoft Word|Word]] (2), [[Web Development]] (1)
 > **Tools:** visual studio (3), command line (2), firefox (2), terminal (1), command prompt (1)
 > **CLI Commands:** npm (6), node (3)
 > **Prerequisites:** install (4), configure (1)
@@ -214,12 +211,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Style guides
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/style-guides?u=76281980)
+#### [Style guides](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/style-guides?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/style-guides?u=76281980&t=0)** - [Instructor] If you've already watched one of my other courses on JavaScript best practices, you may already have the background under your belt.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/style-guides?u=76281980&t=0)** - [Instructor] If you've already watched one of my other courses on [[JavaScript]] best practices, you may already have the background under your belt.
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/style-guides?u=76281980&t=8)** If so, feel free to skip ahead to Chapter Two.
 >
@@ -251,7 +247,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/style-guides?u=76281980&t=111)** First, it keeps you coding, rather than needing to break your flow while you try to balance the options and choose a syntax.
 >
-> **[1:58](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/style-guides?u=76281980&t=118)** It also ensures that the code you write interacts with the rest of the code base, in a particular way.
+> **[1:58](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/style-guides?u=76281980&t=118)** It also ensures that the code you write interacts with the [[Representational State Transfer (REST)|rest]] of the code base, in a particular way.
 >
 > **[2:05](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/style-guides?u=76281980&t=125)** For instance, defining a function using const ensures that it can't be erroneously redefined.
 >
@@ -263,7 +259,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/style-guides?u=76281980&t=147)** The Airbnb Style Guide, is one of the most widely referenced style guides among JavaScript developers.
 >
-> **[2:36](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/style-guides?u=76281980&t=156)** Another influential JavaScript style guide, is the Google Style Guide.
+> **[2:36](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/style-guides?u=76281980&t=156)** Another influential JavaScript style guide, is the [[Google]] Style Guide.
 >
 > **[2:42](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/style-guides?u=76281980&t=162)** Many best practices can and do change over time.
 >
@@ -273,19 +269,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (5), [[Debugging]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), known as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use modern deployment tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-modern-deployment-tools?u=76281980)
+#### [Use modern deployment tools](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-modern-deployment-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-modern-deployment-tools?u=76281980&t=0)** - [Instructor] In the early days of JavaScript, the code a developer wrote was the code that was executed in every browser, or other user agent.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-modern-deployment-tools?u=76281980&t=0)** - [Instructor] In the early days of [[JavaScript]], the code a developer wrote was the code that was executed in every browser, or other user agent.
 >
 > **[0:09](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-modern-deployment-tools?u=76281980&t=9)** Over time, JavaScript evolved and added new features.
 >
@@ -297,7 +292,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-modern-deployment-tools?u=76281980&t=37)** The modern JavaScript workflow has resolved this issue by incorporating transpilers.
 >
-> **[0:42](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-modern-deployment-tools?u=76281980&t=42)** A transpiler is a utility that accepts Java Script code written using modern features, and returns code that does the same job as the original, but is written without modern features.
+> **[0:42](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-modern-deployment-tools?u=76281980&t=42)** A transpiler is a utility that accepts [[Java]] Script code written using modern features, and returns code that does the same job as the original, but is written without modern features.
 >
 > **[0:55](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-modern-deployment-tools?u=76281980&t=55)** Babel is an example of a popular transpiler for JavaScript.
 >
@@ -311,7 +306,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-modern-deployment-tools?u=76281980&t=87)** Because a transpiler can't rebuild some code for older browsers, the job of a polyfill is to instead add the functionality of the new feature to the older browsers at runtime.
 >
-> **[1:40](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-modern-deployment-tools?u=76281980&t=100)** Promises and Fetch are a widely used example of a feature that requires a polyfill for backward compatibility.
+> **[1:40](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-modern-deployment-tools?u=76281980&t=100)** Promises and [[Fetch]] are a widely used example of a feature that requires a polyfill for backward compatibility.
 >
 > **[1:49](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-modern-deployment-tools?u=76281980&t=109)** With transpiling and polyfills in the developer toolbox for JavaScript developers, the group that maintains JavaScript standards has been free to innovate without worrying about proposed changes never being widely available.
 >
@@ -321,18 +316,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (10), feature (3), [[Java]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (10), [[Java]] (1), [[Fetch]] (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### ESLint
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/eslint?u=76281980)
+#### [ESLint](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/eslint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/eslint?u=76281980&t=0)** - ESLint is a utility that flags deviations from selected best practices right in your editor as you code.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/eslint?u=76281980&t=0)** - [[ESLint]] is a utility that flags deviations from selected best practices right in your editor as you code.
 >
-> **[0:07](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/eslint?u=76281980&t=7)** ESLint is widely used by JavaScript developers to catch and correct issues before testing and deploying.
+> **[0:07](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/eslint?u=76281980&t=7)** ESLint is widely used by [[JavaScript]] developers to catch and correct issues before testing and deploying.
 >
 > **[0:15](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/eslint?u=76281980&t=15)** Although ESLint allows you to load a default set of rules, one of it's strengths is it's configurability.
 >
@@ -344,7 +338,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/eslint?u=76281980&t=46)** With ESLint installed I could run a configuration utility.
 >
-> **[0:50](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/eslint?u=76281980&t=50)** However, this builds out a package.json file in associated modules that I don't need here.
+> **[0:50](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/eslint?u=76281980&t=50)** However, this builds out a package.[[JSON]] file in associated modules that I don't need here.
 >
 > **[0:57](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/eslint?u=76281980&t=57)** So instead, ESLint supports rules written using JavaScript itself, as well as yamo or Jason.
 >
@@ -376,7 +370,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/eslint?u=76281980&t=141)** You may find that this file is not visible in your file manager even though you can see it in your editor.
 >
-> **[2:27](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/eslint?u=76281980&t=147)** This is the default configuration for both Mac and Windows.
+> **[2:27](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/eslint?u=76281980&t=147)** This is the default configuration for both Mac and [[Windows]].
 >
 > **[2:31](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/eslint?u=76281980&t=151)** As long as you can see the file in your editor, you can open it and save changes.
 >
@@ -384,7 +378,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (8), [[JavaScript]] (3), strengths (1), [[JSON]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[ESLint]] (8), [[JavaScript]] (3), [[JSON]] (1), [[Windows]] (1)
 > **File Paths:** eslintrc.js (3), package.json (1)
 > **CLI Commands:** make (1), find (1)
 > **URLs:** [eslint.org](https://eslint.org) (1), [stackoverflow.com](https://stackoverflow.com) (1)
@@ -393,12 +387,11 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
 
-#### Foundational practice: Use strict mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/foundational-practice-use-strict-mode?u=76281980)
+#### [Foundational practice: Use strict mode](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/foundational-practice-use-strict-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/foundational-practice-use-strict-mode?u=76281980&t=0)** - [Instructor] No matter which other practices are in your style guide, or what modern JavaScript features you may be using, your first step when writing code should be to ensure that you're working in strict mode.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/foundational-practice-use-strict-mode?u=76281980&t=0)** - [Instructor] No matter which other practices are in your style guide, or what modern [[JavaScript]] features you may be using, your first step when writing code should be to ensure that you're working in strict mode.
 >
 > **[0:13](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/foundational-practice-use-strict-mode?u=76281980&t=13)** Indicating that code should be interpreted in strict mode specifies to user agents like browsers that they should treat code literally as written, and throw an error if the code doesn't make sense.
 >
@@ -412,7 +405,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/foundational-practice-use-strict-mode?u=76281980&t=55)** And then I'm going to console.log that.
 >
-> **[1:01](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/foundational-practice-use-strict-mode?u=76281980&t=61)** And I'm going to save that file, and then switching over to my HTML file for this video, I'm going to start my live server, but you can also just open the HTML file directly in your browser.
+> **[1:01](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/foundational-practice-use-strict-mode?u=76281980&t=61)** And I'm going to save that file, and then switching over to my [[HTML]] file for this video, I'm going to start my live server, but you can also just open the HTML file directly in your browser.
 >
 > **[1:14](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/foundational-practice-use-strict-mode?u=76281980&t=74)** I'm going to open my browser console, and there we go, I've got Chicago logged to the console, which is the value of the variable that I console.logged.
 >
@@ -456,7 +449,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/foundational-practice-use-strict-mode?u=76281980&t=210)** So make sure the first line in any JavaScript file you create is use strict.
 >
-> **[3:36](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/foundational-practice-use-strict-mode?u=76281980&t=216)** Now I can also enforce this in my editor using eslint.
+> **[3:36](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/foundational-practice-use-strict-mode?u=76281980&t=216)** Now I can also enforce this in my editor using [[ESLint]].
 >
 > **[3:41](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/foundational-practice-use-strict-mode?u=76281980&t=221)** So opening .eslintrc.js, within the rules object, I'm going to add my first key, and that's going to be strict.
 >
@@ -490,11 +483,11 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/foundational-practice-use-strict-mode?u=76281980&t=322)** And I'll just save those changes.
 >
-> **[5:25](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/foundational-practice-use-strict-mode?u=76281980&t=325)** Including this use strict statement will work in concert with eslint to ensure that both the editor and the parser will prompt me about any lazy coding practices, and the result is going to be an increase in the overall quality of my code.
+> **[5:25](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/foundational-practice-use-strict-mode?u=76281980&t=325)** Including this use strict statement will work in concert with eslint to ensure that both the editor and the parser will prompt me about any lazy [[Coding Practices]], and the result is going to be an increase in the overall quality of my code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (4), [[JavaScript]] (3), [[HTML]] (2), prompt (1), [[Coding Practices]] (1)
+> **Frameworks & Libraries:** [[ESLint]] (4), [[JavaScript]] (3), [[HTML]] (2), [[Coding Practices]] (1)
 > **CLI Commands:** make (3)
 > **File Paths:** eslintrc.js (1), app.js (1)
 > **Env Vars:** html (2)
@@ -508,18 +501,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use single-line syntax for single lines
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-single-line-syntax-for-single-lines?u=76281980)
+#### [Use single-line syntax for single lines](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-single-line-syntax-for-single-lines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-single-line-syntax-for-single-lines?u=76281980&t=0)** - [Instructor] JavaScript has two different syntaxes for creating comments.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-single-line-syntax-for-single-lines?u=76281980&t=0)** - [Instructor] [[JavaScript]] has two different syntaxes for creating comments.
 >
 > **[0:04](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-single-line-syntax-for-single-lines?u=76281980&t=4)** To create a single line comment, you type two slashes.
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-single-line-syntax-for-single-lines?u=76281980&t=8)** Anything after those characters in that line is considered a comment and is ignored by a parser.
 >
-> **[0:14](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-single-line-syntax-for-single-lines?u=76281980&t=14)** You can theoretically create a single line comment that's as long as you want and it's readable if you turn on word-wrap in your editor.
+> **[0:14](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-single-line-syntax-for-single-lines?u=76281980&t=14)** You can theoretically create a single line comment that's as long as you want and it's readable if you turn on [[Microsoft Word|word]]-wrap in your editor.
 >
 > **[0:22](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-single-line-syntax-for-single-lines?u=76281980&t=22)** However, it's standard practice to limit line length in code to ensure that word-wrap isn't needed to view content.
 >
@@ -551,7 +543,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-single-line-syntax-for-single-lines?u=76281980&t=109)** So, I'll add my comment just above the use strict statement.
 >
-> **[1:53](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-single-line-syntax-for-single-lines?u=76281980&t=113)** So, I'll add my name, and the name of the course, (keyboard typing) and "LinkedIN Learning".
+> **[1:53](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-single-line-syntax-for-single-lines?u=76281980&t=113)** So, I'll add my name, and the name of the course, (keyboard typing) and "[[LinkedIn]] Learning".
 >
 > **[2:07](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-single-line-syntax-for-single-lines?u=76281980&t=127)** To make this a multiline comment, I'll add a blank line before and add slash star, and then on the line after, I'll add star slash.
 >
@@ -563,7 +555,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-single-line-syntax-for-single-lines?u=76281980&t=147)** And now I can see really clear delineation between the start and the end of the comment.
 >
-> **[2:33](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-single-line-syntax-for-single-lines?u=76281980&t=153)** I can enforce this style with eslint as well.
+> **[2:33](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-single-line-syntax-for-single-lines?u=76281980&t=153)** I can enforce this style with [[ESLint]] as well.
 >
 > **[2:37](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-single-line-syntax-for-single-lines?u=76281980&t=157)** Using the multiline comment style rule.
 >
@@ -610,8 +602,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard typing) (1)
 
-#### Multi-line syntax with leading asterisks
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/multi-line-syntax-with-leading-asterisks?u=76281980)
+#### [Multi-line syntax with leading asterisks](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/multi-line-syntax-with-leading-asterisks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -651,14 +642,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (2), known as (2)
 > **File Paths:** app.js (1)
 > **Tools:** visual studio (1)
 > **Analogies:** just like (1)
 
-#### Include leading spaces in comments
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-leading-spaces-in-comments?u=76281980)
+#### [Include leading spaces in comments](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-leading-spaces-in-comments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -672,11 +661,11 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-leading-spaces-in-comments?u=76281980&t=24)** So I'll add a blank line to keep some space from U strict, and then I can just do a single line, slash slash, and variables.
 >
-> **[0:33](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-leading-spaces-in-comments?u=76281980&t=33)** Now at a glance, it takes a little work to see where the slashes end and the word variables begins.
+> **[0:33](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-leading-spaces-in-comments?u=76281980&t=33)** Now at a glance, it takes a little work to see where the slashes end and the [[Microsoft Word|word]] variables begins.
 >
 > **[0:39](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-leading-spaces-in-comments?u=76281980&t=39)** But if I click in here and stick a space after the second slash, it immediately becomes easier to recognize that as a comment containing the word variables.
 >
-> **[0:50](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-leading-spaces-in-comments?u=76281980&t=50)** ESLint contains a spaced comment rule that let's me specify whether comments should include spaces.
+> **[0:50](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-leading-spaces-in-comments?u=76281980&t=50)** [[ESLint]] contains a spaced comment rule that let's me specify whether comments should include spaces.
 >
 > **[0:57](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-leading-spaces-in-comments?u=76281980&t=57)** The documentation makes it clear that you can get fairly detailed for this rule.
 >
@@ -706,8 +695,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create JavaScript comments
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/challenge-create-javascript-comments?u=76281980)
+#### [Challenge: Create JavaScript comments](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/challenge-create-javascript-comments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -717,7 +705,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/challenge-create-javascript-comments?u=76281980&t=8)** The start files contain the first few lines of code to create a grocery shopping app.
 >
-> **[0:13](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/challenge-create-javascript-comments?u=76281980&t=13)** Edit the files to implement and enforce best practices for JavaScript comments.
+> **[0:13](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/challenge-create-javascript-comments?u=76281980&t=13)** Edit the files to implement and enforce best practices for [[JavaScript]] comments.
 >
 > **[0:19](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/challenge-create-javascript-comments?u=76281980&t=19)** Your code should also use and enforce strict mode.
 >
@@ -729,7 +717,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **File Paths:** script.js (1), eslintrc.js (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -737,8 +725,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pleasant electronic music) (1)
 
-#### Solution: Create JavaScript comments
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-create-javascript-comments?u=76281980)
+#### [Solution: Create JavaScript comments](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-create-javascript-comments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -812,12 +799,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### End statements with a semicolon
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/end-statements-with-a-semicolon?u=76281980)
+#### [End statements with a semicolon](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/end-statements-with-a-semicolon?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/end-statements-with-a-semicolon?u=76281980&t=0)** - [Instructor] You're probably used to seeing most lines in JavaScript code ended with semicolons.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/end-statements-with-a-semicolon?u=76281980&t=0)** - [Instructor] You're probably used to seeing most lines in [[JavaScript]] code ended with semicolons.
 >
 > **[0:05](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/end-statements-with-a-semicolon?u=76281980&t=5)** Although not strictly necessary, it's a best practice to include a semicolon at the end of every expression, such as a variable declaration, or a return statement.
 >
@@ -849,7 +835,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/end-statements-with-a-semicolon?u=76281980&t=109)** So switching over to my eslintrc file, I'm going to add three rules.
 >
-> **[1:56](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/end-statements-with-a-semicolon?u=76281980&t=116)** First is semi, and since it's a single word, I don't need quotes around it.
+> **[1:56](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/end-statements-with-a-semicolon?u=76281980&t=116)** First is semi, and since it's a single [[Microsoft Word|word]], I don't need quotes around it.
 >
 > **[2:03](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/end-statements-with-a-semicolon?u=76281980&t=123)** And semi specifies that semicolons can't be omitted where required.
 >
@@ -863,7 +849,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/end-statements-with-a-semicolon?u=76281980&t=156)** And finally, I can set a flag for no extra semicolons, just to keep things clean.
 >
-> **[2:42](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/end-statements-with-a-semicolon?u=76281980&t=162)** So eslint has a no-extra-semi rule, and there again I can just say error, which means that if there's an extra semicolon, it will flag an error.
+> **[2:42](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/end-statements-with-a-semicolon?u=76281980&t=162)** So [[ESLint]] has a no-extra-semi rule, and there again I can just say error, which means that if there's an extra semicolon, it will flag an error.
 >
 > **[2:56](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/end-statements-with-a-semicolon?u=76281980&t=176)** So I saved those changes.
 >
@@ -911,7 +897,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), data (3), next (2), [[Microsoft Word|Word]] (2), [[ESLint]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Microsoft Word|Word]] (2), [[ESLint]] (1)
 > **Definitions:** is a  (1), is an  (1), means that (1)
 > **File Paths:** app.js (2)
 > **Analogies:** such as (2)
@@ -920,12 +906,11 @@ created: 2026-05-02
 > **Code Identifiers:** getcurrentposition (1)
 > **Tools:** terminal (1)
 
-#### Don't rely on auto semicolon insertion
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/don-t-rely-on-auto-semicolon-insertion?u=76281980)
+#### [Don't rely on auto semicolon insertion](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/don-t-rely-on-auto-semicolon-insertion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/don-t-rely-on-auto-semicolon-insertion?u=76281980&t=0)** - [Speaker] From a technical standpoint JavaScript doesn't absolutely require semicolons.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/don-t-rely-on-auto-semicolon-insertion?u=76281980&t=0)** - [Speaker] From a technical standpoint [[JavaScript]] doesn't absolutely require semicolons.
 >
 > **[0:06](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/don-t-rely-on-auto-semicolon-insertion?u=76281980&t=6)** Indeed, some developers write JavaScript without semicolons, relying on automatic semicolon insertion which is exactly what it sounds like.
 >
@@ -943,11 +928,11 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/don-t-rely-on-auto-semicolon-insertion?u=76281980&t=60)** It's already clear from the editor here that line 11 is unreachable. I can tell that because my editor grazed the code out a little bit and when I hover over that I can see unreachable code detected.
 >
-> **[1:13](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/don-t-rely-on-auto-semicolon-insertion?u=76281980&t=73)** And the return statement is also marked with an eslint(semi) error for a missing semicolon, because I have a semi rule set in eslintrc file.
+> **[1:13](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/don-t-rely-on-auto-semicolon-insertion?u=76281980&t=73)** And the return statement is also marked with an [[ESLint]](semi) error for a missing semicolon, because I have a semi rule set in eslintrc file.
 >
 > **[1:25](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/don-t-rely-on-auto-semicolon-insertion?u=76281980&t=85)** But just to test things out what should happen here when I actually execute this code is that I enter a value, the makeLowerCase function converts my entry to lower case and it gets added to userPrefs with the key setting.
 >
-> **[1:40](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/don-t-rely-on-auto-semicolon-insertion?u=76281980&t=100)** So, I can open up my index.html file.
+> **[1:40](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/don-t-rely-on-auto-semicolon-insertion?u=76281980&t=100)** So, I can open up my index.[[HTML]] file.
 >
 > **[1:44](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/don-t-rely-on-auto-semicolon-insertion?u=76281980&t=104)** I'm going to open that up in my browser and I get a prompt .
 >
@@ -999,7 +984,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), [[ESLint]] (3), [[HTML]] (1), prompt (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[ESLint]] (3), [[HTML]] (1)
 > **File Paths:** app.js (2), index.html (1)
 > **Code Identifiers:** makelowercase (1), userprefs (1), maklowercase (1)
 > **CLI Commands:** make (2)
@@ -1008,12 +993,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Best Practices:** make sure to (1)
 
-#### Standardize line length
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/standardize-line-length?u=76281980)
+#### [Standardize line length](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/standardize-line-length?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/standardize-line-length?u=76281980&t=0)** - [Instructor] Aside from automatic semicolon insertion, white space is not significant in JavaScript.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/standardize-line-length?u=76281980&t=0)** - [Instructor] Aside from automatic semicolon insertion, white space is not significant in [[JavaScript]].
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/standardize-line-length?u=76281980&t=7)** As a result, you can theoretically write lines of code of any length.
 >
@@ -1035,7 +1019,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/standardize-line-length?u=76281980&t=69)** There are a few tools that can help us manage this.
 >
-> **[1:13](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/standardize-line-length?u=76281980&t=73)** First, ESlint includes the max-len rule, which lets you set a maximum length and trigger an error when a line exceeds the number of characters you specify.
+> **[1:13](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/standardize-line-length?u=76281980&t=73)** First, [[ESLint]] includes the max-len rule, which lets you set a maximum length and trigger an error when a line exceeds the number of characters you specify.
 >
 > **[1:25](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/standardize-line-length?u=76281980&t=85)** In my eslintrc file, I'm going to add a max-len key.
 >
@@ -1049,7 +1033,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/standardize-line-length?u=76281980&t=141)** Now by default I wouldn't even be able to see the entire line of code here because it's so long.
 >
-> **[2:27](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/standardize-line-length?u=76281980&t=147)** So if you haven't already, I recommend turning on word wrap, so code that's wider than the browser window will automatically wrap to fit.
+> **[2:27](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/standardize-line-length?u=76281980&t=147)** So if you haven't already, I recommend turning on [[Microsoft Word|word]] wrap, so code that's wider than the browser window will automatically wrap to fit.
 >
 > **[2:35](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/standardize-line-length?u=76281980&t=155)** In Visual Studio Code, I access that by clicking view and then toggle word wrap.
 >
@@ -1067,7 +1051,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/standardize-line-length?u=76281980&t=222)** And then I can search the settings, so I'm going to search for ruler, and then scrolling down, I'm looking specifically for Editor:Rulers.
 >
-> **[3:54](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/standardize-line-length?u=76281980&t=234)** And here instead of just entering values, I need to go to my settings.json file, so I'll click that link and open that up.
+> **[3:54](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/standardize-line-length?u=76281980&t=234)** And here instead of just entering values, I need to go to my settings.[[JSON]] file, so I'll click that link and open that up.
 >
 > **[4:03](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/standardize-line-length?u=76281980&t=243)** Now I already have a few configurations here, but you may only have one, or two, or none.
 >
@@ -1095,7 +1079,7 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/standardize-line-length?u=76281980&t=320)** And so now I can break up my code across multiple lines.
 >
-> **[5:24](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/standardize-line-length?u=76281980&t=324)** So with a fetch statement I can just go ahead and put those chain methods on their own lines.
+> **[5:24](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/standardize-line-length?u=76281980&t=324)** So with a [[Fetch]] statement I can just go ahead and put those chain methods on their own lines.
 >
 > **[5:30](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/standardize-line-length?u=76281980&t=330)** So I will break it .then, and I've got an if statement here so that could use its own line.
 >
@@ -1109,7 +1093,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (3), [[JavaScript]] (2), [[ESLint]] (2), [[Microsoft Word|Word]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[JSON]] (3), [[JavaScript]] (2), [[ESLint]] (2), [[Microsoft Word|Word]] (2), [[Fetch]] (1)
 > **Tools:** visual studio (2), sublime (1), atom (1)
 > **UI Navigation:** toggle (2), go to (2)
 > **File Paths:** app.js (2), settings.json (1)
@@ -1118,12 +1102,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use commas consistently
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-commas-consistently?u=76281980)
+#### [Use commas consistently](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-commas-consistently?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-commas-consistently?u=76281980&t=0)** - [Instructor] Several types of JavaScript statements uses commas to separate sequential items.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-commas-consistently?u=76281980&t=0)** - [Instructor] Several types of [[JavaScript]] statements uses commas to separate sequential items.
 >
 > **[0:06](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-commas-consistently?u=76281980&t=6)** For instance, elements in a array literals are separated by commas, as are key value pairs in object literals.
 >
@@ -1137,7 +1120,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-commas-consistently?u=76281980&t=34)** Both to make your code more readable and to enable you to catch errors, more importantly, omitted commas.
 >
-> **[0:42](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-commas-consistently?u=76281980&t=42)** In my location app, the fetch request can take a number of parameters using an object literal.
+> **[0:42](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-commas-consistently?u=76281980&t=42)** In my location app, the [[Fetch]] request can take a number of parameters using an object literal.
 >
 > **[0:48](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-commas-consistently?u=76281980&t=48)** The values don't all fit in a single line so I already have an error here because I've specified a maximum line length of 80 characters.
 >
@@ -1159,9 +1142,9 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-commas-consistently?u=76281980&t=140)** So here, the key names are front and center.
 >
-> **[2:26](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-commas-consistently?u=76281980&t=146)** ESLint lets me enforce a comma style using the comma style rule.
+> **[2:26](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-commas-consistently?u=76281980&t=146)** [[ESLint]] lets me enforce a comma style using the comma style rule.
 >
-> **[2:31](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-commas-consistently?u=76281980&t=151)** So in my ESLintrc file, I'm going to add a new line at the end of my rules object and I'm going to specify the comma-style key with a value that's in array, staring with error and then the key word last, meaning that I want to enforce a comma-last style.
+> **[2:31](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-commas-consistently?u=76281980&t=151)** So in my ESLintrc file, I'm going to add a new line at the end of my rules object and I'm going to specify the comma-style key with a value that's in array, staring with error and then the key [[Microsoft Word|word]] last, meaning that I want to enforce a comma-last style.
 >
 > **[2:54](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-commas-consistently?u=76281980&t=174)** And notice also that I've already been implementing this style in my ESLintrc file.
 >
@@ -1183,8 +1166,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Include a comma in a list of values
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-a-comma-in-a-list-of-values?u=76281980)
+#### [Include a comma in a list of values](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-a-comma-in-a-list-of-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1200,7 +1182,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-a-comma-in-a-list-of-values?u=76281980&t=54)** Instead, the only change is the newly inserted line.
 >
-> **[0:59](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-a-comma-in-a-list-of-values?u=76281980&t=59)** In the fetch code in my app.js file for my local events app, I'm specifying an object containing a couple of properties.
+> **[0:59](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-a-comma-in-a-list-of-values?u=76281980&t=59)** In the [[Fetch]] code in my app.js file for my local events app, I'm specifying an object containing a couple of properties.
 >
 > **[1:08](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-a-comma-in-a-list-of-values?u=76281980&t=68)** I need to add another one, which is the Api key.
 >
@@ -1210,7 +1192,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-a-comma-in-a-list-of-values?u=76281980&t=105)** So, including a comma at the end of this line, is going to keep me from forgetting that connecting comma when I add future key value pairs here.
 >
-> **[1:55](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-a-comma-in-a-list-of-values?u=76281980&t=115)** ESLint supports setting a rule for trailing commas in object literals.
+> **[1:55](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-a-comma-in-a-list-of-values?u=76281980&t=115)** [[ESLint]] supports setting a rule for trailing commas in object literals.
 >
 > **[2:01](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-a-comma-in-a-list-of-values?u=76281980&t=121)** The rule name is comma-dangle.
 >
@@ -1228,7 +1210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), [[Fetch]] (1), [[ESLint]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[ESLint]] (1)
 > **Tools:** terminal (4)
 > **Env Vars:** insert (1), api (1), key (1)
 > **File Paths:** app.js (1), apa.js (1)
@@ -1236,8 +1218,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Optimize punctuation
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/challenge-optimize-punctuation?u=76281980)
+#### [Challenge: Optimize punctuation](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/challenge-optimize-punctuation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1247,7 +1228,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/challenge-optimize-punctuation?u=76281980&t=7)** The start files contain code for a grocery shopping app.
 >
-> **[0:11](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/challenge-optimize-punctuation?u=76281980&t=11)** Edit the script.js file to implement and enforce best practices for punctuation in JavaScript including semicolons, line length, and commas.
+> **[0:11](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/challenge-optimize-punctuation?u=76281980&t=11)** Edit the script.js file to implement and enforce best practices for punctuation in [[JavaScript]] including semicolons, line length, and commas.
 >
 > **[0:23](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/challenge-optimize-punctuation?u=76281980&t=23)** This should take you about five minutes.
 >
@@ -1255,26 +1236,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **File Paths:** script.js (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pleasant electronic music) (1)
 
-#### Solution: Optimize punctuation
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-optimize-punctuation?u=76281980)
+#### [Solution: Optimize punctuation](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-optimize-punctuation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-optimize-punctuation?u=76281980&t=0)** (upbeat music0
 >
-> **[0:05](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-optimize-punctuation?u=76281980&t=5)** - [Instructor] This challenge was to enforce best practices around punctuation and line length in this java script code.
+> **[0:05](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-optimize-punctuation?u=76281980&t=5)** - [Instructor] This challenge was to enforce best practices around punctuation and line length in this [[Java]] script code.
 >
 > **[0:14](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-optimize-punctuation?u=76281980&t=14)** So the way I like to approach these is to start with my eslintrc file.
 >
 > **[0:20](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-optimize-punctuation?u=76281980&t=20)** Get the rules in place that will highlight issues with my existing code and then I can work on it from there.
 >
-> **[0:30](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-optimize-punctuation?u=76281980&t=30)** So I have several eslint rules that will help me identify issues with this code and enforce those best practices.
+> **[0:30](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-optimize-punctuation?u=76281980&t=30)** So I have several [[ESLint]] rules that will help me identify issues with this code and enforce those best practices.
 >
 > **[0:37](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-optimize-punctuation?u=76281980&t=37)** First off is just requiring semi-colons, and that's the semi rule.
 >
@@ -1397,12 +1377,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Indent consistently
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/indent-consistently?u=76281980)
+#### [Indent consistently](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/indent-consistently?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/indent-consistently?u=76281980&t=0)** - [Instructor] Although spaces don't change the meaning of your code in Javascript, appropriate use of spaces is important for creating code that's readable by humans.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/indent-consistently?u=76281980&t=0)** - [Instructor] Although spaces don't change the meaning of your code in [[JavaScript]], appropriate use of spaces is important for creating code that's readable by humans.
 >
 > **[0:10](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/indent-consistently?u=76281980&t=10)** And when it comes to making your code more readable, nothing makes a bigger impact than consistent indents.
 >
@@ -1416,7 +1395,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/indent-consistently?u=76281980&t=55)** Different developers may also choose a different number of spaces for each level of indent but two spaces has become a widely adopted standard.
 >
-> **[1:03](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/indent-consistently?u=76281980&t=63)** I can use the ESLint indent rule to set a preferred style for indents.
+> **[1:03](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/indent-consistently?u=76281980&t=63)** I can use the [[ESLint]] indent rule to set a preferred style for indents.
 >
 > **[1:10](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/indent-consistently?u=76281980&t=70)** In my app that identifies points of interest based on a user's location, I'm starting with a set of user prefs using an object literal as sample data while I build out the app.
 >
@@ -1484,7 +1463,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (2), [[Search]] (2), [[JavaScript]] (1), data (1), hit (1)
+> **Frameworks & Libraries:** [[ESLint]] (2), [[JavaScript]] (1)
 > **Definitions:** means that (4)
 > **Tools:** visual studio (2), vs code (1)
 > **File Paths:** app.js (2)
@@ -1493,8 +1472,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Prerequisites:** set up (1)
 
-#### Space before and after operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-before-and-after-operators?u=76281980)
+#### [Space before and after operators](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-before-and-after-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1502,7 +1480,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-before-and-after-operators?u=76281980&t=7)** And it's unlikely your teachers ever required a particular spacing regimen around them.
 >
-> **[0:11](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-before-and-after-operators?u=76281980&t=11)** And like most of Javascript, white space isn't significant around operators.
+> **[0:11](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-before-and-after-operators?u=76281980&t=11)** And like most of [[JavaScript]], white space isn't significant around operators.
 >
 > **[0:16](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-before-and-after-operators?u=76281980&t=16)** So there's no requirement to write equations or concatenations in any specific way.
 >
@@ -1516,7 +1494,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-before-and-after-operators?u=76281980&t=47)** I didn't use any spaces around operators, and the statements are pretty dense.
 >
-> **[0:53](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-before-and-after-operators?u=76281980&t=53)** ESLint supports flagging missing spaces with the space-infix-ops rule.
+> **[0:53](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-before-and-after-operators?u=76281980&t=53)** [[ESLint]] supports flagging missing spaces with the space-infix-ops rule.
 >
 > **[0:58](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-before-and-after-operators?u=76281980&t=58)** An infix operator is an operator that's used between two operands.
 >
@@ -1564,19 +1542,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), [[ESLint]] (1), [[Search]] (1), parallel (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[ESLint]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), means that (1)
 > **File Paths:** app.js (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use a consistent format for blocks
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-a-consistent-format-for-blocks?u=76281980)
+#### [Use a consistent format for blocks](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-a-consistent-format-for-blocks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-a-consistent-format-for-blocks?u=76281980&t=0)** - [Instructor] You've likely encountered a number of different layouts for blocks such as conditionals and functions in JavaScript code.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-a-consistent-format-for-blocks?u=76281980&t=0)** - [Instructor] You've likely encountered a number of different layouts for blocks such as conditionals and functions in [[JavaScript]] code.
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-a-consistent-format-for-blocks?u=76281980&t=7)** You've probably seen code written in the One True Brace style, with the opening brace on the same line as the keyword.
 >
@@ -1588,7 +1565,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-a-consistent-format-for-blocks?u=76281980&t=37)** And it's important to simply pick the one that works for you and use it consistently.
 >
-> **[0:42](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-a-consistent-format-for-blocks?u=76281980&t=42)** You can enforce this style in your code using the ESLint Brace-style rule.
+> **[0:42](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-a-consistent-format-for-blocks?u=76281980&t=42)** You can enforce this style in your code using the [[ESLint]] Brace-style rule.
 >
 > **[0:48](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-a-consistent-format-for-blocks?u=76281980&t=48)** One other variation in writing block code is the choice of spacing before the opening brace.
 >
@@ -1646,7 +1623,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), [[ESLint]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[ESLint]] (2)
 > **File Paths:** app.js (2)
 > **CLI Commands:** make (2)
 > **Tools:** visual studio (1)
@@ -1655,16 +1632,15 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Include a space after keywords and arrows
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-a-space-after-keywords-and-arrows?u=76281980)
+#### [Include a space after keywords and arrows](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-a-space-after-keywords-and-arrows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-a-space-after-keywords-and-arrows?u=76281980&t=0)** - Including spaces around keywords like function and if can make your JavaScript code more readable.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-a-space-after-keywords-and-arrows?u=76281980&t=0)** - Including spaces around keywords like function and if can make your [[JavaScript]] code more readable.
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-a-space-after-keywords-and-arrows?u=76281980&t=7)** The same is true for spaces around arrows in arrow functions.
 >
-> **[0:14](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-a-space-after-keywords-and-arrows?u=76281980&t=14)** ESLint includes a keyword spacing rule that lets your specify the format to check for keywords.
+> **[0:14](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-a-space-after-keywords-and-arrows?u=76281980&t=14)** [[ESLint]] includes a keyword spacing rule that lets your specify the format to check for keywords.
 >
 > **[0:22](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-a-space-after-keywords-and-arrows?u=76281980&t=22)** ESLint also includes an arrow spacing rule that's specific to the arrows in arrow functions.
 >
@@ -1704,7 +1680,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-a-space-after-keywords-and-arrows?u=76281980&t=146)** And so I have an option to insert a space after the function keyword in anonymous functions, and that's selected.
 >
-> **[2:34](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-a-space-after-keywords-and-arrows?u=76281980&t=154)** And then there's another option for inserting a space after keywords in control flow statements.
+> **[2:34](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-a-space-after-keywords-and-arrows?u=76281980&t=154)** And then there's another option for inserting a space after keywords in [[Control Flow]] statements.
 >
 > **[2:39](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/include-a-space-after-keywords-and-arrows?u=76281980&t=159)** That's selected, as well.
 >
@@ -1714,18 +1690,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (4), [[JavaScript]] (3), next (1), [[Search]] (1), [[Control Flow]] (1)
+> **Frameworks & Libraries:** [[ESLint]] (4), [[JavaScript]] (3), [[Control Flow]] (1)
 > **CLI Commands:** make (3)
 > **File Paths:** app.js (2)
 > **Tools:** visual studio (1)
 > **Speakers:** - including (1)
 
-#### Use consistent spacing before function signature parentheses
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-consistent-spacing-before-function-signature-parentheses?u=76281980)
+#### [Use consistent spacing before function signature parentheses](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-consistent-spacing-before-function-signature-parentheses?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-consistent-spacing-before-function-signature-parentheses?u=76281980&t=0)** - JavaScript has a number of syntaxes for creating a function signature, including function declarations, function expressions, anonymous functions, async functions and arrow functions.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-consistent-spacing-before-function-signature-parentheses?u=76281980&t=0)** - [[JavaScript]] has a number of syntaxes for creating a function signature, including function declarations, function expressions, anonymous functions, async functions and arrow functions.
 >
 > **[0:12](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-consistent-spacing-before-function-signature-parentheses?u=76281980&t=12)** As a result, standardizing the way you create functions in your code can be a challenge.
 >
@@ -1741,7 +1716,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-consistent-spacing-before-function-signature-parentheses?u=76281980&t=49)** Finally, some developers never include spaces before parens in function signatures, preferring to treat the combination of keyword, or name or arrow symbol, and parens as a single unit.
 >
-> **[1:02](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-consistent-spacing-before-function-signature-parentheses?u=76281980&t=62)** Whichever style you adopt, you can use ESLint to help you use it consistently.
+> **[1:02](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-consistent-spacing-before-function-signature-parentheses?u=76281980&t=62)** Whichever style you adopt, you can use [[ESLint]] to help you use it consistently.
 >
 > **[1:07](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/use-consistent-spacing-before-function-signature-parentheses?u=76281980&t=67)** For my code, I've chosen to implement a space in anonymous functions, but not in named functions, which is a popular choice.
 >
@@ -1787,15 +1762,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (3), [[JavaScript]] (2), next (1)
+> **Frameworks & Libraries:** [[ESLint]] (3), [[JavaScript]] (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Code Identifiers:** asyncarrow (1)
 > **Tools:** vs code (1)
 > **Speakers:** - javascript (1)
 
-#### Break up and indent long-method chains
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/break-up-and-indent-long-method-chains?u=76281980)
+#### [Break up and indent long-method chains](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/break-up-and-indent-long-method-chains?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1805,9 +1779,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/break-up-and-indent-long-method-chains?u=76281980&t=27)** This format makes it easy to understand the sequence of modifications being applied, as well as where the chain begins and ends.
 >
-> **[0:37](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/break-up-and-indent-long-method-chains?u=76281980&t=37)** ESLint includes the newline-per-chained-call rule which flags errors in your code if your methods aren't on their own lines.
+> **[0:37](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/break-up-and-indent-long-method-chains?u=76281980&t=37)** [[ESLint]] includes the newline-per-chained-call rule which flags errors in your code if your methods aren't on their own lines.
 >
-> **[0:46](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/break-up-and-indent-long-method-chains?u=76281980&t=46)** In my app that identifies points of interest based on a user's location, I'm building a fetch request to the US Park's Service API to get information on national parks.
+> **[0:46](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/break-up-and-indent-long-method-chains?u=76281980&t=46)** In my app that identifies points of interest based on a user's location, I'm building a [[Fetch]] request to the US Park's Service API to get information on national parks.
 >
 > **[0:57](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/break-up-and-indent-long-method-chains?u=76281980&t=57)** Notice that I already have one error here, and that's just because I have a really long line that includes a couple of chain methods.
 >
@@ -1825,14 +1799,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (3), [[Fetch]] (2), api (1)
+> **Frameworks & Libraries:** [[ESLint]] (3), [[Fetch]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Space consistently within enclosing characters
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-consistently-within-enclosing-characters?u=76281980)
+#### [Space consistently within enclosing characters](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-consistently-within-enclosing-characters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1854,7 +1827,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-consistently-within-enclosing-characters?u=76281980&t=61)** I want a standardized spacing in the enclosing characters in my app.js file, and also in my .eslintrc file which contains a lot of them as well.
 >
-> **[1:11](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-consistently-within-enclosing-characters?u=76281980&t=71)** ESLint supports a rule to let me specify the styles I'd like to enforce for parens.
+> **[1:11](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-consistently-within-enclosing-characters?u=76281980&t=71)** [[ESLint]] supports a rule to let me specify the styles I'd like to enforce for parens.
 >
 > **[1:17](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-consistently-within-enclosing-characters?u=76281980&t=77)** That's the space-in-parens rule.
 >
@@ -1876,7 +1849,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-consistently-within-enclosing-characters?u=76281980&t=176)** And so that takes care of any issues in my app.js file.
 >
-> **[3:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-consistently-within-enclosing-characters?u=76281980&t=180)** Now I've chosen to do an .eslintrc file that is itself a JavaScript file.
+> **[3:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-consistently-within-enclosing-characters?u=76281980&t=180)** Now I've chosen to do an .eslintrc file that is itself a [[JavaScript]] file.
 >
 > **[3:05](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-consistently-within-enclosing-characters?u=76281980&t=185)** But by default, ESLint ignores dot files which are hidden files.
 >
@@ -1890,7 +1863,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-consistently-within-enclosing-characters?u=76281980&t=250)** So then I want to drag that .eslintignore file over to my Exercise Files folder.
 >
-> **[4:18](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-consistently-within-enclosing-characters?u=76281980&t=258)** SO now that .eslintignore file is at the base of this whole project where the package-lock.json file is in the node modules that configure ESLint for this project.
+> **[4:18](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-consistently-within-enclosing-characters?u=76281980&t=258)** SO now that .eslintignore file is at the base of this whole project where the package-lock.[[JSON]] file is in the node modules that configure ESLint for this project.
 >
 > **[4:30](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-consistently-within-enclosing-characters?u=76281980&t=270)** And now when I switch back to VSCode, I have a whole bunch of errors (laughs) so let's start at the beginning.
 >
@@ -1924,7 +1897,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (8), [[JavaScript]] (3), data (1), [[JSON]] (1), node (1)
+> **Frameworks & Libraries:** [[ESLint]] (8), [[JavaScript]] (3), [[JSON]] (1)
 > **File Paths:** app.js (3), eslintrc.js (1), package-lock.json (1)
 > **CLI Commands:** make (2), node (1)
 > **Exercise Files:** exercise files (1), template (1)
@@ -1933,12 +1906,11 @@ created: 2026-05-02
 > **Env Vars:** jsx (1)
 > **Tools:** visual studio (1)
 
-#### Space after commas, but not before
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-after-commas-but-not-before?u=76281980)
+#### [Space after commas, but not before](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-after-commas-but-not-before?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-after-commas-but-not-before?u=76281980&t=0)** - [Instructor] Commas separate values in JavaScript in a number of situations.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-after-commas-but-not-before?u=76281980&t=0)** - [Instructor] Commas separate values in [[JavaScript]] in a number of situations.
 >
 > **[0:05](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-after-commas-but-not-before?u=76281980&t=5)** It's common to write commas in code the same way you would use them in a sentence, with no space before and a space after.
 >
@@ -1948,7 +1920,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-after-commas-but-not-before?u=76281980&t=30)** I want to add a rule to flag errors if my spacing deviates.
 >
-> **[0:35](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-after-commas-but-not-before?u=76281980&t=35)** ESLint supports the comma spacing rule, which lets me specify which style I want to use and how I want it flagged.
+> **[0:35](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-after-commas-but-not-before?u=76281980&t=35)** [[ESLint]] supports the comma spacing rule, which lets me specify which style I want to use and how I want it flagged.
 >
 > **[0:43](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/space-after-commas-but-not-before?u=76281980&t=43)** So over in my ESLintRC file I'm going to add a new line, and that's going to be comma-spacing and in an array, I going to specify that I want it to be flagged as an error, and then I need an object literal.
 >
@@ -1968,18 +1940,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), [[Search]] (2), [[ESLint]] (1), feature (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[ESLint]] (1)
 > **Tools:** terminal (1), vs code (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Limit blank space to one line
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/limit-blank-space-to-one-line?u=76281980)
+#### [Limit blank space to one line](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/limit-blank-space-to-one-line?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/limit-blank-space-to-one-line?u=76281980&t=0)** - Like all white space blank lines don't effect the meaning of JavaScript code.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/limit-blank-space-to-one-line?u=76281980&t=0)** - Like all white space blank lines don't effect the meaning of [[JavaScript]] code.
 >
 > **[0:05](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/limit-blank-space-to-one-line?u=76281980&t=5)** As a result, you can make liberal use of them while writing code.
 >
@@ -1995,7 +1966,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/limit-blank-space-to-one-line?u=76281980&t=46)** Instead of ending with multiple blank lines or none best practice is to end your file with a single line break which provides a starting point to add new code without extending the length of the file unnecessarily.
 >
-> **[1:01](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/limit-blank-space-to-one-line?u=76281980&t=61)** ESLint can flag deviations from blank space preferences you specify using the no multiple empty lines rule.
+> **[1:01](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/limit-blank-space-to-one-line?u=76281980&t=61)** [[ESLint]] can flag deviations from blank space preferences you specify using the no multiple empty lines rule.
 >
 > **[1:09](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/limit-blank-space-to-one-line?u=76281980&t=69)** In my eslintrc file I'm going to add that rule.
 >
@@ -2028,8 +1999,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - like (1)
 
-#### Challenge: Optimize spacing
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/challenge-optimize-spacing?u=76281980)
+#### [Challenge: Optimize spacing](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/challenge-optimize-spacing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2039,7 +2009,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/challenge-optimize-spacing?u=76281980&t=7)** The start files contain code for a grocery shopping app.
 >
-> **[0:10](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/challenge-optimize-spacing?u=76281980&t=10)** Edit the script.js file to implement and enforce best practices for spacing in JavaScript, including indents, spacing around characters and blank lines.
+> **[0:10](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/challenge-optimize-spacing?u=76281980&t=10)** Edit the script.js file to implement and enforce best practices for spacing in [[JavaScript]], including indents, spacing around characters and blank lines.
 >
 > **[0:21](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/challenge-optimize-spacing?u=76281980&t=21)** This should take you about five minutes.
 >
@@ -2047,18 +2017,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **File Paths:** script.js (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Optimize spacing
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-optimize-spacing?u=76281980)
+#### [Solution: Optimize spacing](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-optimize-spacing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-optimize-spacing?u=76281980&t=0)** - [Instructor] In my Challenge file, I'm starting with my .eslint file, and now I notice already in my script.js file, I have an error, and that's due to a really long line down here, clearly this is a bunch of chained methods and we're going to get to that, so we'll just leave that be for the moment.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-optimize-spacing?u=76281980&t=0)** - [Instructor] In my Challenge file, I'm starting with my .[[ESLint]] file, and now I notice already in my script.js file, I have an error, and that's due to a really long line down here, clearly this is a bunch of chained methods and we're going to get to that, so we'll just leave that be for the moment.
 >
 > **[0:24](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-optimize-spacing?u=76281980&t=24)** So I'm going to go one by one with my rules, adding the rules that deal with spacing, and then using the prompts from ESLint to identify and fix issues in my files.
 >
@@ -2080,11 +2049,11 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-optimize-spacing?u=76281980&t=145)** So we can see here, that we've turned on the one true brace style and so we have this brace starting on its own line, which is not part of that style.
 >
-> **[2:37](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-optimize-spacing?u=76281980&t=157)** And then we've got issues here again, now part of this is the chain statements, the chained methods, but some of this is also about line breaks, and so I'm going to go ahead and put this fetch on its own line, going to follow this prompt and put the if on its own line, here I need a return on its own line, here the closing curly brace should be on the line after the block, likewise here, the throw should be on its own line, and these curly braces need to be broken out to close things in the correct places, and there, a closing curly brace goes at the end.
+> **[2:37](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-optimize-spacing?u=76281980&t=157)** And then we've got issues here again, now part of this is the chain statements, the chained methods, but some of this is also about line breaks, and so I'm going to go ahead and put this [[Fetch]] on its own line, going to follow this prompt and put the if on its own line, here I need a return on its own line, here the closing curly brace should be on the line after the block, likewise here, the throw should be on its own line, and these curly braces need to be broken out to close things in the correct places, and there, a closing curly brace goes at the end.
 >
 > **[3:22](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-optimize-spacing?u=76281980&t=202)** Now here we have a long line, here we still have a long line so those we'll get to in a bit, but for now, we've ironed out the issues with those curly braces.
 >
-> **[3:33](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-optimize-spacing?u=76281980&t=213)** And then let's look at keyword spacing, so for keyword dash spacing, we'll trigger an error if we're not inline with the default settings, and looks like we have an error here, and that's the for statement, expecting a space after the word for, so a space there, and that's ironed out.
+> **[3:33](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-optimize-spacing?u=76281980&t=213)** And then let's look at keyword spacing, so for keyword dash spacing, we'll trigger an error if we're not inline with the default settings, and looks like we have an error here, and that's the for statement, expecting a space after the [[Microsoft Word|word]] for, so a space there, and that's ironed out.
 >
 > **[3:59](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-optimize-spacing?u=76281980&t=239)** And likewise with arrow spacing, we'll call an error there.
 >
@@ -2132,11 +2101,11 @@ created: 2026-05-02
 >
 > **[9:52](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-optimize-spacing?u=76281980&t=592)** And in my script.js file, got one spot up here where I put an extra space below use strict, put a little extra space here before my itemLookup, and then at the bottom, this isn't flagged but I'm going to go ahead and add in that final blank line, so that I'm ready to go to add more code if I need to.
 >
-> **[10:12](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-optimize-spacing?u=76281980&t=612)** And so now I have all of these rules implemented for spacing, and I have my JavaScript code in my script.js file all ironed out and consistent in the use of all those rules.
+> **[10:12](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/solution-optimize-spacing?u=76281980&t=612)** And so now I have all of these rules implemented for spacing, and I have my [[JavaScript]] code in my script.js file all ironed out and consistent in the use of all those rules.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (2), next (2), [[Fetch]] (2), prompt (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[ESLint]] (2), [[Fetch]] (2), [[Microsoft Word|Word]] (1), [[JavaScript]] (1)
 > **File Paths:** script.js (5)
 > **Code Identifiers:** asyncarrow (1), maxeof (1), itemlookup (1)
 > **Tools:** terminal (1)
@@ -2150,14 +2119,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/next-steps?u=76281980&t=0)** - [Sasha] Thanks so much for joining me in this course.
 >
-> **[0:03](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/next-steps?u=76281980&t=3)** You now have experience implementing best practices for formatting Vanilla JavaScript code.
+> **[0:03](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/next-steps?u=76281980&t=3)** You now have experience implementing best practices for formatting [[Vanilla]] [[JavaScript]] code.
 >
 > **[0:09](https://www.linkedin.com/learning/javascript-best-practices-for-code-formatting/next-steps?u=76281980&t=9)** To dig deeper into coding using Vanilla JavaScript check out a course on App building with Vanilla JavaScript.
 >
@@ -2171,7 +2139,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), [[Vanilla]] (3), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Vanilla]] (3)
 > **Speakers:** - [sasha] (1)
 
 

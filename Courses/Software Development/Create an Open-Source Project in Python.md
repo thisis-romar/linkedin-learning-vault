@@ -98,18 +98,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create an open-source project in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/create-an-open-source-project-in-python?u=76281980)
+#### [Create an open-source project in Python](https://www.linkedin.com/learning/create-an-open-source-project-in-python/create-an-open-source-project-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/create-an-open-source-project-in-python/create-an-open-source-project-in-python?u=76281980&t=0)** - [Cheuk] Welcome to this course on creating an open-source project in Python.
+> **[0:00](https://www.linkedin.com/learning/create-an-open-source-project-in-python/create-an-open-source-project-in-python?u=76281980&t=0)** - [Cheuk] Welcome to this course on creating an open-source project in [[Python (Programming Language)|Python]].
 >
 > **[0:04](https://www.linkedin.com/learning/create-an-open-source-project-in-python/create-an-open-source-project-in-python?u=76281980&t=4)** We will cover the foundational tools and setup required to create your first open-source project in Python.
 >
 > **[0:10](https://www.linkedin.com/learning/create-an-open-source-project-in-python/create-an-open-source-project-in-python?u=76281980&t=10)** I'm Cheuk Ting Ho, and I'm a Python community leader.
 >
-> **[0:14](https://www.linkedin.com/learning/create-an-open-source-project-in-python/create-an-open-source-project-in-python?u=76281980&t=14)** Open-source software project are unique in the sense that everyone in the community can impact, modify, and enhance the source code under the supervision of typically a few volunteer community leaders who act as the project maintainers.
+> **[0:14](https://www.linkedin.com/learning/create-an-open-source-project-in-python/create-an-open-source-project-in-python?u=76281980&t=14)** [[Open-Source Software]] project are unique in the sense that everyone in the community can impact, modify, and enhance the source code under the supervision of typically a few volunteer community leaders who act as the project maintainers.
 >
 > **[0:28](https://www.linkedin.com/learning/create-an-open-source-project-in-python/create-an-open-source-project-in-python?u=76281980&t=28)** The developers, as users themselves, understand the project's need and what features are lacking.
 >
@@ -121,22 +120,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** open-source (4), [[Python (Programming Language)|Python]] (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Open-Source Software]] (1)
 > **CLI Commands:** python (3)
 > **Exercise Files:** source code (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [cheuk] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-you-should-know?u=76281980&t=0)** - [Instructor] If you want to follow along with the course, it's helpful if you know the basics of Python programming.
+> **[0:00](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-you-should-know?u=76281980&t=0)** - [Instructor] If you want to follow along with the course, it's helpful if you know the basics of [[Python (Programming Language)|Python]] programming.
 >
 > **[0:05](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-you-should-know?u=76281980&t=5)** Including working with packages and writing test for your code.
 >
-> **[0:09](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-you-should-know?u=76281980&t=9)** We'll be using the terminal throughout the course to run the commands, manage our projects and run git commands.
+> **[0:09](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-you-should-know?u=76281980&t=9)** We'll be using the terminal throughout the course to run the commands, manage our projects and run [[Git]] commands.
 >
 > **[0:15](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-you-should-know?u=76281980&t=15)** Now, if you want to have a good idea of the tools we use you can watch the first couple of videos of each chapter where I go over the basics of the tools used for that chapter.
 >
@@ -144,7 +142,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Programming]] (1), [[Git]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Git]] (1)
 > **CLI Commands:** python (1), git (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
@@ -154,12 +152,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Poetry?
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-poetry?u=76281980)
+#### [What is Poetry?](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-poetry?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-poetry?u=76281980&t=0)** - [Instructor] Poetry is both a Python packaging tool and a dependency management tool.
+> **[0:00](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-poetry?u=76281980&t=0)** - [Instructor] Poetry is both a [[Python (Programming Language)|Python]] packaging tool and a [[Dependency Management]] tool.
 >
 > **[0:06](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-poetry?u=76281980&t=6)** In this course though, we are only going to use Poetry as a dependency management tool.
 >
@@ -214,14 +211,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install Poetry
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/install-poetry?u=76281980)
+#### [Install Poetry](https://www.linkedin.com/learning/create-an-open-source-project-in-python/install-poetry?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/create-an-open-source-project-in-python/install-poetry?u=76281980&t=0)** - Installing poetry is very simple.
 >
-> **[0:02](https://www.linkedin.com/learning/create-an-open-source-project-in-python/install-poetry?u=76281980&t=2)** You can install it with PIP, just like with any other Python library, but it is not recommended.
+> **[0:02](https://www.linkedin.com/learning/create-an-open-source-project-in-python/install-poetry?u=76281980&t=2)** You can install it with PIP, just like with any other [[Python (Programming Language)|Python]] library, but it is not recommended.
 >
 > **[0:09](https://www.linkedin.com/learning/create-an-open-source-project-in-python/install-poetry?u=76281980&t=9)** Reason being that if you have multiple versions of Python in your computer, the installation of poetry via PIP is only tied to the Python version present during the install.
 >
@@ -243,7 +239,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/create-an-open-source-project-in-python/install-poetry?u=76281980&t=65)** Make sure you're running it with Python three, not Python two.
 >
-> **[1:09](https://www.linkedin.com/learning/create-an-open-source-project-in-python/install-poetry?u=76281980&t=69)** If you are using powershell on Windows, you have to use the curl command in a slightly different way.
+> **[1:09](https://www.linkedin.com/learning/create-an-open-source-project-in-python/install-poetry?u=76281980&t=69)** If you are using [[Powershell]] on [[Windows]], you have to use the curl command in a slightly different way.
 >
 > **[1:15](https://www.linkedin.com/learning/create-an-open-source-project-in-python/install-poetry?u=76281980&t=75)** Check the official documentation for exactly how.
 >
@@ -268,8 +264,7 @@ created: 2026-05-02
 > **Tools:** powershell (1)
 > **Analogies:** just like (1)
 
-#### Starting a project
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/starting-a-project?u=76281980)
+#### [Starting a project](https://www.linkedin.com/learning/create-an-open-source-project-in-python/starting-a-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -279,7 +274,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/create-an-open-source-project-in-python/starting-a-project?u=76281980&t=17)** Then I start a project with command poetry init, which starts the series of questions to set you up with the pyproject.toml configuration file.
 >
-> **[0:27](https://www.linkedin.com/learning/create-an-open-source-project-in-python/starting-a-project?u=76281980&t=27)** First of all, you are asked for the project name, Poetry suggests the name of your current directory, which in my case is os-in-python, but you can type in whatever name you like.
+> **[0:27](https://www.linkedin.com/learning/create-an-open-source-project-in-python/starting-a-project?u=76281980&t=27)** First of all, you are asked for the project name, Poetry suggests the name of your current directory, which in my case is os-in-[[Python (Programming Language)|python]], but you can type in whatever name you like.
 >
 > **[0:39](https://www.linkedin.com/learning/create-an-open-source-project-in-python/starting-a-project?u=76281980&t=39)** I'm fine with the default name, so I press Enter.
 >
@@ -291,7 +286,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/create-an-open-source-project-in-python/starting-a-project?u=76281980&t=59)** Next, you ask for a short description, which is optional and can be leaved blank.
 >
-> **[1:06](https://www.linkedin.com/learning/create-an-open-source-project-in-python/starting-a-project?u=76281980&t=66)** Then you can set who the author of the project is, which defaults to your GitHub username.
+> **[1:06](https://www.linkedin.com/learning/create-an-open-source-project-in-python/starting-a-project?u=76281980&t=66)** Then you can set who the author of the project is, which defaults to your [[GitHub]] username.
 >
 > **[1:12](https://www.linkedin.com/learning/create-an-open-source-project-in-python/starting-a-project?u=76281980&t=72)** Next, you can specify a license for your project, which is always a good idea.
 >
@@ -341,7 +336,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), next (5), [[GitHub]] (1), open-source (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[GitHub]] (1)
 > **CLI Commands:** python (10), ls (1), apache (1), pip (1)
 > **Versions:** python 3 (4), python 4 (2), version 1 (1), 1.13 (1), version 0 (1)
 > **File Paths:** pyproject.toml (5)
@@ -350,14 +345,13 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Prerequisites:** set up (1)
 
-#### What is pyproject.toml?
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pyproject-toml?u=76281980)
+#### [What is pyproject.toml?](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pyproject-toml?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pyproject-toml?u=76281980&t=0)** - [Instructor] Let's have a look at the pyproject.toml.
 >
-> **[0:03](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pyproject-toml?u=76281980&t=3)** It is a text file to specify what build dependencies your Python package needs.
+> **[0:03](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pyproject-toml?u=76281980&t=3)** It is a text file to specify what build dependencies your [[Python (Programming Language)|Python]] package needs.
 >
 > **[0:08](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pyproject-toml?u=76281980&t=8)** It was proposed in the Python enhancement proposal or PEP 518, and is widely adopted since.
 >
@@ -373,7 +367,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pyproject-toml?u=76281980&t=57)** Therefore, instead of relying on setup.py or the build dependencies, including those required by setup.py, should be listed in another file.
 >
-> **[1:07](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pyproject-toml?u=76281980&t=67)** After considering several different file formats, such as json and yaml formats, the TOML formats was chosen and the pyproject.toml file become the new standard of listing dependencies in Python projects.
+> **[1:07](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pyproject-toml?u=76281980&t=67)** After considering several different file formats, such as [[JSON]] and yaml formats, the TOML formats was chosen and the pyproject.toml file become the new standard of listing dependencies in Python projects.
 >
 > **[1:22](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pyproject-toml?u=76281980&t=82)** This is the pyproject.toml of our project.
 >
@@ -410,8 +404,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding dependencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/adding-dependencies?u=76281980)
+#### [Adding dependencies](https://www.linkedin.com/learning/create-an-open-source-project-in-python/adding-dependencies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -459,8 +452,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Poetry lock and install
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/poetry-lock-and-install?u=76281980)
+#### [Poetry lock and install](https://www.linkedin.com/learning/create-an-open-source-project-in-python/poetry-lock-and-install?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -470,7 +462,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/create-an-open-source-project-in-python/poetry-lock-and-install?u=76281980&t=18)** So during install, after poetry finds the exact compatible version for you, it adds that information for every dependency installed in the poetry.lock file.
 >
-> **[0:30](https://www.linkedin.com/learning/create-an-open-source-project-in-python/poetry-lock-and-install?u=76281980&t=30)** Therefore, it is highly recommended to keep this poetry.lock file around, so make sure to add it on commit to your git repository, or whatever version control system you use.
+> **[0:30](https://www.linkedin.com/learning/create-an-open-source-project-in-python/poetry-lock-and-install?u=76281980&t=30)** Therefore, it is highly recommended to keep this poetry.lock file around, so make sure to add it on commit to your [[Git]] repository, or whatever [[Version Control]] system you use.
 >
 > **[0:43](https://www.linkedin.com/learning/create-an-open-source-project-in-python/poetry-lock-and-install?u=76281980&t=43)** It will be needed if you want to preserve the exact environment that you have with this project, and it is essential when installing your project in a new environment.
 >
@@ -505,8 +497,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - once (1)
 
-#### Checkpoint: What you have so far
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far-22004456?u=76281980)
+#### [Checkpoint: What you have so far](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far-22004456?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -530,13 +521,13 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far-22004456?u=76281980&t=48)** Second, we have the poetry.lock file which is the exact same blueprint of your project's environment setup.
 >
-> **[0:55](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far-22004456?u=76281980&t=55)** And, as a reminder, all the files that I created in this chapter are available on GitHub for your reference.
+> **[0:55](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far-22004456?u=76281980&t=55)** And, as a reminder, all the files that I created in this chapter are available on [[GitHub]] for your reference.
 >
 > **[1:01](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far-22004456?u=76281980&t=61)** If everything is fine, I will see you in the next chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **File Paths:** pyproject.toml (1), poetry.lock (1)
 > **Prerequisites:** install (1), setup (1)
 > **Cross-References:** in the next (1)
@@ -549,8 +540,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is pytest?
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pytest?u=76281980)
+#### [What is pytest?](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pytest?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -558,7 +548,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pytest?u=76281980&t=5)** The testing library we are going to use is called pytest.
 >
-> **[0:09](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pytest?u=76281980&t=9)** Pytest is a Python testing framework that allows you to write small tests such as unit tests with ease.
+> **[0:09](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pytest?u=76281980&t=9)** Pytest is a [[Python (Programming Language)|Python]] testing framework that allows you to write small tests such as unit tests with ease.
 >
 > **[0:15](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pytest?u=76281980&t=15)** The standard testing library that comes with a CPython distribution is called unittest.
 >
@@ -566,9 +556,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pytest?u=76281980&t=24)** Pytest is very popular.
 >
-> **[0:26](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pytest?u=76281980&t=26)** It has over 9,000 stars on the GitHub page, which for an open-source project is very good.
+> **[0:26](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pytest?u=76281980&t=26)** It has over 9,000 stars on the [[GitHub]] page, which for an open-source project is very good.
 >
-> **[0:32](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pytest?u=76281980&t=32)** And due to its popularity, several plug-ins for pytest have been developed, such as pytest-cov for test code coverage, pytest-django for testing Django, a Python web framework, and pytest-asyncio for testing asynchronous code.
+> **[0:32](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pytest?u=76281980&t=32)** And due to its popularity, several plug-ins for pytest have been developed, such as pytest-cov for test code coverage, pytest-[[Django]] for testing Django, a Python web framework, and pytest-asyncio for testing asynchronous code.
 >
 > **[0:50](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pytest?u=76281980&t=50)** Now, as I mentioned earlier, a lot of Python developers prefer pytest over unittest.
 >
@@ -594,19 +584,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Django]] (2), [[GitHub]] (1), open-source (1), web (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Django]] (2), [[GitHub]] (1)
 > **CLI Commands:** python (3), make (1)
 > **Definitions:** is called (2), is a  (2)
 > **Analogies:** such as (2)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to your project
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/introduction-to-your-project?u=76281980)
+#### [Introduction to your project](https://www.linkedin.com/learning/create-an-open-source-project-in-python/introduction-to-your-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/create-an-open-source-project-in-python/introduction-to-your-project?u=76281980&t=0)** - Our project is a simple command line application written in Python.
+> **[0:00](https://www.linkedin.com/learning/create-an-open-source-project-in-python/introduction-to-your-project?u=76281980&t=0)** - Our project is a simple command line application written in [[Python (Programming Language)|Python]].
 >
 > **[0:04](https://www.linkedin.com/learning/create-an-open-source-project-in-python/introduction-to-your-project?u=76281980&t=4)** Let's have a quick look at what it does before looking at the code.
 >
@@ -644,7 +633,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/create-an-open-source-project-in-python/introduction-to-your-project?u=76281980&t=127)** So these are the helper functions for our app and we'll be writing test for these functions.
 >
-> **[2:13](https://www.linkedin.com/learning/create-an-open-source-project-in-python/introduction-to-your-project?u=76281980&t=133)** Now you can see that the rest of the code is using Click, one of our dependency libraries, to create the commands for the app.
+> **[2:13](https://www.linkedin.com/learning/create-an-open-source-project-in-python/introduction-to-your-project?u=76281980&t=133)** Now you can see that the [[Representational State Transfer (REST)|rest]] of the code is using Click, one of our dependency libraries, to create the commands for the app.
 >
 > **[2:21](https://www.linkedin.com/learning/create-an-open-source-project-in-python/introduction-to-your-project?u=76281980&t=141)** But since this course is not about Click, we'll not go into details here. And that's it.
 >
@@ -654,7 +643,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), application (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (4), make (1)
 > **Non-Speech:** (typing) (4)
 > **Tools:** command line (1), vim (1)
@@ -663,8 +652,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - our (1)
 
-#### Writing simple tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/writing-simple-tests?u=76281980)
+#### [Writing simple tests](https://www.linkedin.com/learning/create-an-open-source-project-in-python/writing-simple-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -744,7 +732,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), next (1)
 > **CLI Commands:** find (2), make (2)
 > **Non-Speech:** (typing) (4)
 > **Cross-References:** go back to (2), in the next (1)
@@ -752,9 +739,9 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** good practice (1)
+> **Speakers:** - to (1)
 
-#### Testing with multiple parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/testing-with-multiple-parameters?u=76281980)
+#### [Testing with multiple parameters](https://www.linkedin.com/learning/create-an-open-source-project-in-python/testing-with-multiple-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -840,7 +827,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), next (2)
 > **CLI Commands:** make (3), find (2)
 > **Code Identifiers:** test_input (2), test_find_task (1)
 > **Cross-References:** go back to (1), next video (1), in the next (1)
@@ -848,14 +834,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Test if an exception is raised
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/test-if-an-exception-is-raised?u=76281980)
+#### [Test if an exception is raised](https://www.linkedin.com/learning/create-an-open-source-project-in-python/test-if-an-exception-is-raised?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/create-an-open-source-project-in-python/test-if-an-exception-is-raised?u=76281980&t=0)** - [Instructor] This time, we want to test the two date function.
 >
-> **[0:03](https://www.linkedin.com/learning/create-an-open-source-project-in-python/test-if-an-exception-is-raised?u=76281980&t=3)** We should pass as string in a year, month, date format to a date object in Python.
+> **[0:03](https://www.linkedin.com/learning/create-an-open-source-project-in-python/test-if-an-exception-is-raised?u=76281980&t=3)** We should pass as string in a year, month, date format to a date object in [[Python (Programming Language)|Python]].
 >
 > **[0:10](https://www.linkedin.com/learning/create-an-open-source-project-in-python/test-if-an-exception-is-raised?u=76281980&t=10)** Let's open the file.
 >
@@ -912,8 +897,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is a fixture?
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-a-fixture?u=76281980)
+#### [What is a fixture?](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-a-fixture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -969,7 +953,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), data (2), api (1), database (1), application (1)
 > **CLI Commands:** make (2), docker (1)
 > **Prerequisites:** set up (3)
 > **File Paths:** conftest.py (1)
@@ -978,8 +961,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using fixture
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/using-fixture?u=76281980)
+#### [Using fixture](https://www.linkedin.com/learning/create-an-open-source-project-in-python/using-fixture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1043,15 +1025,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1)
 > **Non-Speech:** (typing) (3), (energetic music) (2)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - now (1)
 
-#### Skipping a test, with good reasons
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/skipping-a-test-with-good-reasons?u=76281980)
+#### [Skipping a test, with good reasons](https://www.linkedin.com/learning/create-an-open-source-project-in-python/skipping-a-test-with-good-reasons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1065,7 +1045,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/create-an-open-source-project-in-python/skipping-a-test-with-good-reasons?u=76281980&t=17)** For example, if certain features are not supported on a certain platform, they should not be tested against that platform.
 >
-> **[0:25](https://www.linkedin.com/learning/create-an-open-source-project-in-python/skipping-a-test-with-good-reasons?u=76281980&t=25)** Sometimes feature in our application are not backwards-compatible, meaning that they will only work on newer versions of Python.
+> **[0:25](https://www.linkedin.com/learning/create-an-open-source-project-in-python/skipping-a-test-with-good-reasons?u=76281980&t=25)** Sometimes feature in our application are not backwards-compatible, meaning that they will only work on newer versions of [[Python (Programming Language)|Python]].
 >
 > **[0:36](https://www.linkedin.com/learning/create-an-open-source-project-in-python/skipping-a-test-with-good-reasons?u=76281980&t=36)** The reverse can also happen when an old feature no longer works on the newer versions of Python.
 >
@@ -1125,7 +1105,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), feature (3), application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4)
 > **Versions:** 3.8 (1)
 > **Analogies:** for example (1)
@@ -1133,8 +1113,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Checkpoint: What you have so far
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far-22004459?u=76281980)
+#### [Checkpoint: What you have so far](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far-22004459?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1170,13 +1149,13 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far-22004459?u=76281980&t=105)** Feel free to develop them further and come back to it if you want to remind yourself of what we have learned.
 >
-> **[1:51](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far-22004459?u=76281980&t=111)** If you are not sure if you have everything all the project files can be found on the GitHub repo.
+> **[1:51](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far-22004459?u=76281980&t=111)** If you are not sure if you have everything all the project files can be found on the [[GitHub]] repo.
 >
 > **[1:57](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far-22004459?u=76281980&t=117)** Now let's move on to the next chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **File Paths:** pyproject.toml (1), poetry.lock (1), reminder.py (1), tests.py (1)
 > **Cross-References:** previous chapter (1), next chapter (1)
 > **CLI Commands:** find (1)
@@ -1190,12 +1169,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is PEP 8?
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pep-8?u=76281980)
+#### [What is PEP 8?](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pep-8?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pep-8?u=76281980&t=0)** - [Instructor] Before we talk about PEP 8 specifically, let's talk about what a Python enhancement proposal or PEP is.
+> **[0:00](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pep-8?u=76281980&t=0)** - [Instructor] Before we talk about PEP 8 specifically, let's talk about what a [[Python (Programming Language)|Python]] enhancement proposal or PEP is.
 >
 > **[0:08](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pep-8?u=76281980&t=8)** A PEP is a document that describe a new feature or change that will potentially improve Python.
 >
@@ -1313,11 +1291,11 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pep-8?u=76281980&t=321)** How can we do that?
 >
-> **[5:22](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pep-8?u=76281980&t=322)** We are going to find out in the rest of this chapter.
+> **[5:22](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-pep-8?u=76281980&t=322)** We are going to find out in the [[Representational State Transfer (REST)|rest]] of this chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (13), feature (3), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (13), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (13), find (3), make (3)
 > **Env Vars:** pep (19)
 > **Definitions:** is a  (6), in other words (1)
@@ -1325,8 +1303,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is Black?
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-black?u=76281980)
+#### [What is Black?](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-black?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1350,7 +1327,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-black?u=76281980&t=43)** Meaning, after formatting your code, it will be PEP 8 compliance automatically.
 >
-> **[0:48](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-black?u=76281980&t=48)** Black is a project that is hosted on a Python package index or PyPI, meaning that you can PEP install it easily.
+> **[0:48](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-black?u=76281980&t=48)** Black is a project that is hosted on a [[Python (Programming Language)|Python]] package index or PyPI, meaning that you can PEP install it easily.
 >
 > **[0:56](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-black?u=76281980&t=56)** Since Black has been launched, it has become more and more popular and now almost everyone is using it.
 >
@@ -1390,7 +1367,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (2), [[Python (Programming Language)|Python]] (1), [[Debugging]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** pep (5)
 > **Definitions:** is a  (4)
 > **Cross-References:** we talked about (1), later in (1), in the next (1)
@@ -1399,8 +1376,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Warnings:** be aware (1)
 
-#### Formatting your code with Black
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/formatting-your-code-with-black?u=76281980)
+#### [Formatting your code with Black](https://www.linkedin.com/learning/create-an-open-source-project-in-python/formatting-your-code-with-black?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1432,7 +1408,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/create-an-open-source-project-in-python/formatting-your-code-with-black?u=76281980&t=60)** Can you spot the difference?
 >
-> **[1:03](https://www.linkedin.com/learning/create-an-open-source-project-in-python/formatting-your-code-with-black?u=76281980&t=63)** It will be more obvious if you use git, as I am here.
+> **[1:03](https://www.linkedin.com/learning/create-an-open-source-project-in-python/formatting-your-code-with-black?u=76281980&t=63)** It will be more obvious if you use [[Git]], as I am here.
 >
 > **[1:06](https://www.linkedin.com/learning/create-an-open-source-project-in-python/formatting-your-code-with-black?u=76281980&t=66)** All you need to do is to use the git diff command.
 >
@@ -1450,7 +1426,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/create-an-open-source-project-in-python/formatting-your-code-with-black?u=76281980&t=98)** This check command is useful when you want to check if the code fulfills the blacko style in your CI.
 >
-> **[1:44](https://www.linkedin.com/learning/create-an-open-source-project-in-python/formatting-your-code-with-black?u=76281980&t=104)** We will come back to it when we set up our GitHub action workflow in the future.
+> **[1:44](https://www.linkedin.com/learning/create-an-open-source-project-in-python/formatting-your-code-with-black?u=76281980&t=104)** We will come back to it when we set up our [[GitHub]] action workflow in the future.
 >
 > **[1:48](https://www.linkedin.com/learning/create-an-open-source-project-in-python/formatting-your-code-with-black?u=76281980&t=108)** So we are all done with Black for now.
 >
@@ -1458,7 +1434,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), [[Git]] (2), ci (1), [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[Git]] (2), [[GitHub]] (1)
 > **CLI Commands:** make (2), git (2)
 > **Tools:** vim (2), github (1)
 > **Env Vars:** pla (1)
@@ -1466,8 +1442,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is a linter?
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-a-linter?u=76281980)
+#### [What is a linter?](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-a-linter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1485,7 +1460,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-a-linter?u=76281980&t=21)** Also, it'll check other hazardous things in the code, like misspelling of variables, weird formatting, etcetera.
 >
-> **[0:28](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-a-linter?u=76281980&t=28)** As Python codes in a good coding style, for example, following PEP 8, will be less likely to have error.
+> **[0:28](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-a-linter?u=76281980&t=28)** As [[Python (Programming Language)|Python]] codes in a good coding style, for example, following PEP 8, will be less likely to have error.
 >
 > **[0:35](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-a-linter?u=76281980&t=35)** The linter will also check for code style, checking if the code is PEP 8 compliant, is common in Python linters.
 >
@@ -1517,8 +1492,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Linting your code with Flake8
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/linting-your-code-with-flake8?u=76281980)
+#### [Linting your code with Flake8](https://www.linkedin.com/learning/create-an-open-source-project-in-python/linting-your-code-with-flake8?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1618,7 +1592,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** pep (3), fh21 (1), e501 (1)
 > **File Paths:** reminder.py (3), tests.py (1)
 > **CLI Commands:** find (2)
@@ -1626,9 +1599,9 @@ created: 2026-05-02
 > **Documentation:** the documentation (2)
 > **Cross-References:** in the next (1)
 > **Best Practices:** remember to (1)
+> **Prerequisites:** before we start (1)
 
-#### Using pre-commit to clean up automatically
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/using-pre-commit-to-clean-up-automatically?u=76281980)
+#### [Using pre-commit to clean up automatically](https://www.linkedin.com/learning/create-an-open-source-project-in-python/using-pre-commit-to-clean-up-automatically?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1636,7 +1609,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/create-an-open-source-project-in-python/using-pre-commit-to-clean-up-automatically?u=76281980&t=7)** It is a way to have a consistent code style throughout the project.
 >
-> **[0:11](https://www.linkedin.com/learning/create-an-open-source-project-in-python/using-pre-commit-to-clean-up-automatically?u=76281980&t=11)** However, we must remember to use black before we commit our code using git.
+> **[0:11](https://www.linkedin.com/learning/create-an-open-source-project-in-python/using-pre-commit-to-clean-up-automatically?u=76281980&t=11)** However, we must remember to use black before we commit our code using [[Git]].
 >
 > **[0:15](https://www.linkedin.com/learning/create-an-open-source-project-in-python/using-pre-commit-to-clean-up-automatically?u=76281980&t=15)** Now, wouldn't it be great if my code is blackened automatically whenever I commit the code?
 >
@@ -1644,7 +1617,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/create-an-open-source-project-in-python/using-pre-commit-to-clean-up-automatically?u=76281980&t=24)** A pre-commit hook is a process that is triggered when we commit using git.
 >
-> **[0:28](https://www.linkedin.com/learning/create-an-open-source-project-in-python/using-pre-commit-to-clean-up-automatically?u=76281980&t=28)** The easiest way to set it up is to use the Python library code pre-commit.
+> **[0:28](https://www.linkedin.com/learning/create-an-open-source-project-in-python/using-pre-commit-to-clean-up-automatically?u=76281980&t=28)** The easiest way to set it up is to use the [[Python (Programming Language)|Python]] library code pre-commit.
 >
 > **[0:32](https://www.linkedin.com/learning/create-an-open-source-project-in-python/using-pre-commit-to-clean-up-automatically?u=76281980&t=32)** First, let's check if we have pre-commit installed.
 >
@@ -1700,13 +1673,13 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/create-an-open-source-project-in-python/using-pre-commit-to-clean-up-automatically?u=76281980&t=160)** Check the pre-commit documentation to see what hooks are available and how to add them.
 >
-> **[2:45](https://www.linkedin.com/learning/create-an-open-source-project-in-python/using-pre-commit-to-clean-up-automatically?u=76281980&t=165)** The finished the pre-commit.config.yamo is available on GitHub repo for your convenience.
+> **[2:45](https://www.linkedin.com/learning/create-an-open-source-project-in-python/using-pre-commit-to-clean-up-automatically?u=76281980&t=165)** The finished the pre-commit.config.yamo is available on [[GitHub]] repo for your convenience.
 >
 > **[2:51](https://www.linkedin.com/learning/create-an-open-source-project-in-python/using-pre-commit-to-clean-up-automatically?u=76281980&t=171)** In the next video, we'll wrap up what we have learned in this chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (3), [[Python (Programming Language)|Python]] (1), [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[Git]] (3), [[Python (Programming Language)|Python]] (1), [[GitHub]] (1)
 > **CLI Commands:** git (3), make (1), python (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** set up (2), install (1)
@@ -1715,14 +1688,13 @@ created: 2026-05-02
 > **Versions:** version 2 (1), 20.0 (1)
 > **Cross-References:** go back to (1), in the next (1)
 
-#### Checkpoint: What you have so far
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far?u=76281980)
+#### [Checkpoint: What you have so far](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far?u=76281980&t=0)** - [Cheuk] It's time to recap what we have learned in this chapter.
 >
-> **[0:03](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far?u=76281980&t=3)** First, we have learned what is PEP 8, a proposal regarding the Python code style, is the standard in the community, and most open-source projects in Python are following this standard.
+> **[0:03](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far?u=76281980&t=3)** First, we have learned what is PEP 8, a proposal regarding the [[Python (Programming Language)|Python]] code style, is the standard in the community, and most open-source projects in Python are following this standard.
 >
 > **[0:14](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far?u=76281980&t=14)** Then, we know about Black, a convenient auto formatter to help you clean up your code to be PEP 8 compliant.
 >
@@ -1730,7 +1702,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far?u=76281980&t=26)** Next, we have our linter, Flake8, which helps to pick up problems in the code before testing and make sure the code is following the Pep 8 standard.
 >
-> **[0:35](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far?u=76281980&t=35)** Last, we have demonstrate how to use pre-commit to install a hook with Git.
+> **[0:35](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far?u=76281980&t=35)** Last, we have demonstrate how to use pre-commit to install a hook with [[Git]].
 >
 > **[0:39](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far?u=76281980&t=39)** So every time you commit your code, it will automatically use your favorite auto formatter and linter like Black and Flake8 to make sure you are publishing clean code.
 >
@@ -1744,11 +1716,11 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far?u=76281980&t=72)** It will be useful in future chapters as well.
 >
-> **[1:16](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far?u=76281980&t=76)** If you are not sure, check all those files in the course GitHub repo.
+> **[1:16](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far?u=76281980&t=76)** If you are not sure, check all those files in the course [[GitHub]] repo.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), open-source (1), next (1), [[Git]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Git]] (1), [[GitHub]] (1)
 > **CLI Commands:** python (2), make (2), git (1)
 > **File Paths:** tests.py (1), reminder.py (1), tox.ini (1), pre-commit-config.yaml (1)
 > **Env Vars:** pep (2)
@@ -1762,8 +1734,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is tox?
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-tox?u=76281980)
+#### [What is tox?](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-tox?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1771,7 +1742,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-tox?u=76281980&t=5)** You may be wondering, "What is tox?"
 >
-> **[0:08](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-tox?u=76281980&t=8)** Tox is a Python tool used for virtual environment management.
+> **[0:08](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-tox?u=76281980&t=8)** Tox is a [[Python (Programming Language)|Python]] tool used for virtual environment management.
 >
 > **[0:12](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-tox?u=76281980&t=12)** It creates and manages multiple separate Python environments, like Poetry.
 >
@@ -1793,13 +1764,13 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-tox?u=76281980&t=61)** With tox, the tests are run in isolated environments, allowing us to test in multiple Python versions and if an issue arises in specific version, the test will fail, and we can quickly identify the problem.
 >
-> **[1:16](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-tox?u=76281980&t=76)** Tox simplifies the CI workflow on GitHub Action by automating the process of creating environments and running tests.
+> **[1:16](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-tox?u=76281980&t=76)** Tox simplifies the CI workflow on [[GitHub]] Action by automating the process of creating environments and running tests.
 >
 > **[1:23](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-tox?u=76281980&t=83)** In the next video, we will start using tox to run tests across different Python versions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), management (1), ci (1), [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[GitHub]] (1)
 > **CLI Commands:** python (8), make (1)
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)
@@ -1807,8 +1778,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### tox basic usage
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/tox-basic-usage?u=76281980)
+#### [tox basic usage](https://www.linkedin.com/learning/create-an-open-source-project-in-python/tox-basic-usage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1824,7 +1794,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/create-an-open-source-project-in-python/tox-basic-usage?u=76281980&t=24)** We set isolated builds to True because we are using Poetry for the build, and we don't want tox to use setup.py and setup.config.
 >
-> **[0:33](https://www.linkedin.com/learning/create-an-open-source-project-in-python/tox-basic-usage?u=76281980&t=33)** Which is the older way of storing Python project settings.
+> **[0:33](https://www.linkedin.com/learning/create-an-open-source-project-in-python/tox-basic-usage?u=76281980&t=33)** Which is the older way of storing [[Python (Programming Language)|Python]] project settings.
 >
 > **[0:37](https://www.linkedin.com/learning/create-an-open-source-project-in-python/tox-basic-usage?u=76281980&t=37)** We use pyproject.toml instead.
 >
@@ -1874,7 +1844,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), next (3), prompt (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6)
 > **CLI Commands:** python (6), find (1)
 > **File Paths:** pyproject.toml (2), tox.ini (1), setup.py (1), setup.config (1), reminder.py (1)
 > **Prerequisites:** setup (3), set up (1)
@@ -1883,12 +1853,11 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
 
-#### tox advance usage
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/tox-advance-usage?u=76281980)
+#### [tox advance usage](https://www.linkedin.com/learning/create-an-open-source-project-in-python/tox-advance-usage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/create-an-open-source-project-in-python/tox-advance-usage?u=76281980&t=0)** - It's time to improve our tox settings for running tests on multiple Python versions.
+> **[0:00](https://www.linkedin.com/learning/create-an-open-source-project-in-python/tox-advance-usage?u=76281980&t=0)** - It's time to improve our tox settings for running tests on multiple [[Python (Programming Language)|Python]] versions.
 >
 > **[0:05](https://www.linkedin.com/learning/create-an-open-source-project-in-python/tox-advance-usage?u=76281980&t=5)** First, let's open the tox.ini file.
 >
@@ -1926,11 +1895,11 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/create-an-open-source-project-in-python/tox-advance-usage?u=76281980&t=104)** After running the tests on different Python versions as before, you should see that the black and flake8 linking process have been run within the Lint environment.
 >
-> **[1:54](https://www.linkedin.com/learning/create-an-open-source-project-in-python/tox-advance-usage?u=76281980&t=114)** In the next chapter, we will set up this process in our GitHub action workflow.
+> **[1:54](https://www.linkedin.com/learning/create-an-open-source-project-in-python/tox-advance-usage?u=76281980&t=114)** In the next chapter, we will set up this process in our [[GitHub]] action workflow.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), next (3), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[GitHub]] (1)
 > **CLI Commands:** python (6), make (1)
 > **Versions:** python 3 (2), 3.9 (2), 3.10 (2)
 > **File Paths:** tox.ini (2)
@@ -1939,8 +1908,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Env Vars:** pep8 (1)
 
-#### Checkpoint: What you have so far
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far-22005373?u=76281980)
+#### [Checkpoint: What you have so far](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far-22005373?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1950,7 +1918,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far-22005373?u=76281980&t=7)** It is used to create multiple isolated testing environments.
 >
-> **[0:10](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far-22005373?u=76281980&t=10)** This is very useful when we want to test our application on multiple versions of Python.
+> **[0:10](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far-22005373?u=76281980&t=10)** This is very useful when we want to test our application on multiple versions of [[Python (Programming Language)|Python]].
 >
 > **[0:15](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far-22005373?u=76281980&t=15)** Next, we went through the process of setting up tox by making changes in the tox.ini file as per tox documentation.
 >
@@ -1964,11 +1932,11 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far-22005373?u=76281980&t=49)** So that's it for this chapter.
 >
-> **[0:51](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far-22005373?u=76281980&t=51)** In the next chapter, we will integrate our tox setup with GitHub Actions.
+> **[0:51](https://www.linkedin.com/learning/create-an-open-source-project-in-python/checkpoint-what-you-have-so-far-22005373?u=76281980&t=51)** In the next chapter, we will integrate our tox setup with [[GitHub]] Actions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Python (Programming Language)|Python]] (2), next (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[GitHub]] (1)
 > **File Paths:** tox.ini (3), pyproject.toml (1)
 > **Prerequisites:** setup (2), set up (1)
 > **CLI Commands:** python (2)
@@ -1981,16 +1949,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is GitHub Action?
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-github-action?u=76281980)
+#### [What is GitHub Action?](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-github-action?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-github-action?u=76281980&t=0)** - [Instructor] GitHub Actions is a CI/CD platform.
+> **[0:00](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-github-action?u=76281980&t=0)** - [Instructor] [[GitHub]] Actions is a CI/CD platform.
 >
 > **[0:03](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-github-action?u=76281980&t=3)** Let's first understand what CI/CD means and why this is important.
 >
-> **[0:08](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-github-action?u=76281980&t=8)** CI/CD stands for continuous integration and continuous delivery, which is a widely adapted standard for software development.
+> **[0:08](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-github-action?u=76281980&t=8)** CI/CD stands for [[Continuous Integration (CI)|continuous integration]] and [[Continuous Delivery (CD)|continuous delivery]], which is a widely adapted standard for [[Software Development]].
 >
 > **[0:15](https://www.linkedin.com/learning/create-an-open-source-project-in-python/what-is-github-action?u=76281980&t=15)** Most companies use the CI/CD pipeline to automate their deployment process, from running tests to building applications, from source code to making releases.
 >
@@ -2020,7 +1987,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (7), ci (5), cd (5), [[Continuous Integration (CI)|Continuous integration]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2)
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Continuous Integration (CI)|Continuous integration]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Software Development]] (1)
 > **Tools:** github (7)
 > **CLI Commands:** cd (5)
 > **Definitions:** is a  (2), stands for (1)
@@ -2029,16 +1996,15 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up a workflow for testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/setting-up-a-workflow-for-testing?u=76281980)
+#### [Setting up a workflow for testing](https://www.linkedin.com/learning/create-an-open-source-project-in-python/setting-up-a-workflow-for-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/create-an-open-source-project-in-python/setting-up-a-workflow-for-testing?u=76281980&t=0)** - [Instructor] Okay, assuming you now have a GitHub account, the first thing we need to do is to create a repository to host our project.
+> **[0:00](https://www.linkedin.com/learning/create-an-open-source-project-in-python/setting-up-a-workflow-for-testing?u=76281980&t=0)** - [Instructor] Okay, assuming you now have a [[GitHub]] account, the first thing we need to do is to create a repository to host our project.
 >
 > **[0:08](https://www.linkedin.com/learning/create-an-open-source-project-in-python/setting-up-a-workflow-for-testing?u=76281980&t=8)** Click on the plus sign on the upper right and select New repository, and you'll end up on this page.
 >
-> **[0:16](https://www.linkedin.com/learning/create-an-open-source-project-in-python/setting-up-a-workflow-for-testing?u=76281980&t=16)** Choose a name for the repository, I'm going to call it OS in Python.
+> **[0:16](https://www.linkedin.com/learning/create-an-open-source-project-in-python/setting-up-a-workflow-for-testing?u=76281980&t=16)** Choose a name for the repository, I'm going to call it OS in [[Python (Programming Language)|Python]].
 >
 > **[0:20](https://www.linkedin.com/learning/create-an-open-source-project-in-python/setting-up-a-workflow-for-testing?u=76281980&t=20)** I'll put this is my first open source project as the description and make the repository public so others can contribute to it.
 >
@@ -2048,7 +2014,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/create-an-open-source-project-in-python/setting-up-a-workflow-for-testing?u=76281980&t=43)** Now, we have a few options to start our repository.
 >
-> **[0:47](https://www.linkedin.com/learning/create-an-open-source-project-in-python/setting-up-a-workflow-for-testing?u=76281980&t=47)** If you have not started using Git for our project locally, create a new repository on the command line from the Git init command.
+> **[0:47](https://www.linkedin.com/learning/create-an-open-source-project-in-python/setting-up-a-workflow-for-testing?u=76281980&t=47)** If you have not started using [[Git]] for our project locally, create a new repository on the command line from the Git init command.
 >
 > **[0:56](https://www.linkedin.com/learning/create-an-open-source-project-in-python/setting-up-a-workflow-for-testing?u=76281980&t=56)** Instead of git add README.md you would like to use the command git add dot to add all our files instead.
 >
@@ -2112,7 +2078,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (7), [[Git]] (5), [[Python (Programming Language)|Python]] (4), next (3)
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Git]] (5), [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** git (5), python (4), make (2), pip (1)
 > **Tools:** github (7), command line (2)
 > **UI Navigation:** click on (3), go to (1)
@@ -2121,8 +2087,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1), - [narrator] (1), - after (1)
 > **File Paths:** readme.md (1), check.yml (1)
 
-#### Why do you need code coverage?
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/why-do-you-need-code-coverage?u=76281980)
+#### [Why do you need code coverage?](https://www.linkedin.com/learning/create-an-open-source-project-in-python/why-do-you-need-code-coverage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2150,23 +2115,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** open-source (3), next (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding code coverage to workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/adding-code-coverage-to-workflow?u=76281980)
+#### [Adding code coverage to workflow](https://www.linkedin.com/learning/create-an-open-source-project-in-python/adding-code-coverage-to-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/create-an-open-source-project-in-python/adding-code-coverage-to-workflow?u=76281980&t=0)** - [Instructor] Now, that we know why we need code coverage, let's add the code coverage report to our project.
 >
-> **[0:06](https://www.linkedin.com/learning/create-an-open-source-project-in-python/adding-code-coverage-to-workflow?u=76281980&t=6)** To make it happen, we will use a Python library code, coverage, that generates the code coverage report when we run the test.
+> **[0:06](https://www.linkedin.com/learning/create-an-open-source-project-in-python/adding-code-coverage-to-workflow?u=76281980&t=6)** To make it happen, we will use a [[Python (Programming Language)|Python]] library code, coverage, that generates the code coverage report when we run the test.
 >
 > **[0:14](https://www.linkedin.com/learning/create-an-open-source-project-in-python/adding-code-coverage-to-workflow?u=76281980&t=14)** To incorporate that, we need to modify our tox.ini.
 >
-> **[0:17](https://www.linkedin.com/learning/create-an-open-source-project-in-python/adding-code-coverage-to-workflow?u=76281980&t=17)** But before we start, let's quickly get all the changes that we have made on GitHub.
+> **[0:17](https://www.linkedin.com/learning/create-an-open-source-project-in-python/adding-code-coverage-to-workflow?u=76281980&t=17)** But before we start, let's quickly get all the changes that we have made on [[GitHub]].
 >
 > **[0:22](https://www.linkedin.com/learning/create-an-open-source-project-in-python/adding-code-coverage-to-workflow?u=76281980&t=22)** Now, we can edit Tox.ini.
 >
@@ -2210,7 +2173,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/create-an-open-source-project-in-python/adding-code-coverage-to-workflow?u=76281980&t=157)** Stop at step three so that we'll do it together.
 >
-> **[2:41](https://www.linkedin.com/learning/create-an-open-source-project-in-python/adding-code-coverage-to-workflow?u=76281980&t=161)** (techno music) Now, we need to add a new job in the workflow on Git for action.
+> **[2:41](https://www.linkedin.com/learning/create-an-open-source-project-in-python/adding-code-coverage-to-workflow?u=76281980&t=161)** (techno music) Now, we need to add a new job in the workflow on [[Git]] for action.
 >
 > **[2:50](https://www.linkedin.com/learning/create-an-open-source-project-in-python/adding-code-coverage-to-workflow?u=76281980&t=170)** Let's edit check.yml and add the following to the end of the file.
 >
@@ -2246,7 +2209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (7), [[Python (Programming Language)|Python]] (2), web (1), [[Git]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Python (Programming Language)|Python]] (2), [[Git]] (1)
 > **Tools:** github (7)
 > **File Paths:** tox.ini (2), coverage.xml (1), check.yml (1), test.py (1)
 > **CLI Commands:** python (2), make (1), git (1)
@@ -2260,8 +2223,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Open-source project with good practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/create-an-open-source-project-in-python/open-source-project-with-good-practice?u=76281980)
+#### [Open-source project with good practice](https://www.linkedin.com/learning/create-an-open-source-project-in-python/open-source-project-with-good-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2269,7 +2231,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/create-an-open-source-project-in-python/open-source-project-with-good-practice?u=76281980&t=3)** We have covered a lot in a very short period of time.
 >
-> **[0:06](https://www.linkedin.com/learning/create-an-open-source-project-in-python/open-source-project-with-good-practice?u=76281980&t=6)** We have started with a very basic setup for an open-source project in Python using several tools.
+> **[0:06](https://www.linkedin.com/learning/create-an-open-source-project-in-python/open-source-project-with-good-practice?u=76281980&t=6)** We have started with a very basic setup for an open-source project in [[Python (Programming Language)|Python]] using several tools.
 >
 > **[0:12](https://www.linkedin.com/learning/create-an-open-source-project-in-python/open-source-project-with-good-practice?u=76281980&t=12)** We saw how to use Poetry to manage a project's dependencies so that the development environment can be reproduced on other people's computers.
 >
@@ -2277,7 +2239,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/create-an-open-source-project-in-python/open-source-project-with-good-practice?u=76281980&t=26)** We used some formatting and linting tools to make sure the code style's consistent throughout the project.
 >
-> **[0:32](https://www.linkedin.com/learning/create-an-open-source-project-in-python/open-source-project-with-good-practice?u=76281980&t=32)** We created a CI/CD pipeline with GitHub Actions to automate testing and linting processes.
+> **[0:32](https://www.linkedin.com/learning/create-an-open-source-project-in-python/open-source-project-with-good-practice?u=76281980&t=32)** We created a CI/CD pipeline with [[GitHub]] Actions to automate testing and linting processes.
 >
 > **[0:39](https://www.linkedin.com/learning/create-an-open-source-project-in-python/open-source-project-with-good-practice?u=76281980&t=39)** We even included code coverage in it to increase project transparency and help keep high coding and testing standards, but we have only scratched the surface of the open-source world.
 >
@@ -2301,7 +2263,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** open-source (5), [[Python (Programming Language)|Python]] (1), application (1), ci (1), cd (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[GitHub]] (1)
 > **CLI Commands:** make (3), python (1), cd (1)
 > **Cross-References:** we covered (3)
 > **Tools:** github (1)

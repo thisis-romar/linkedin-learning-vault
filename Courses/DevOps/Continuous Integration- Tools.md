@@ -79,12 +79,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building your CI/CD pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/building-your-ci-cd-pipeline?u=76281980)
+#### [Building your CI/CD pipeline](https://www.linkedin.com/learning/continuous-integration-tools-20202338/building-your-ci-cd-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-integration-tools-20202338/building-your-ci-cd-pipeline?u=76281980&t=0)** Continuous integration, continuous delivery, and continuous deployment are fundamental concepts in modern software development.
+> **[0:00](https://www.linkedin.com/learning/continuous-integration-tools-20202338/building-your-ci-cd-pipeline?u=76281980&t=0)** [[Continuous Integration (CI)|Continuous integration]], [[Continuous Delivery (CD)|continuous delivery]], and continuous deployment are fundamental concepts in modern [[Software Development]].
 >
 > **[0:08](https://www.linkedin.com/learning/continuous-integration-tools-20202338/building-your-ci-cd-pipeline?u=76281980&t=8)** More commonly known as CI/CD. Technologies of all kinds use these automated approaches to produce applications efficiently and reliably.
 >
@@ -92,22 +91,21 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/continuous-integration-tools-20202338/building-your-ci-cd-pipeline?u=76281980&t=24)** You'll also see how an experimental pipeline gets implemented in different CI/CD applications.
 >
-> **[0:31](https://www.linkedin.com/learning/continuous-integration-tools-20202338/building-your-ci-cd-pipeline?u=76281980&t=31)** Hi, I'm Michael Jenkins, a computer engineer with experience building CI/CD pipelines and supporting the tools behind them.
+> **[0:31](https://www.linkedin.com/learning/continuous-integration-tools-20202338/building-your-ci-cd-pipeline?u=76281980&t=31)** Hi, I'm Michael [[Jenkins]], a computer engineer with experience building CI/CD pipelines and supporting the tools behind them.
 >
 > **[0:38](https://www.linkedin.com/learning/continuous-integration-tools-20202338/building-your-ci-cd-pipeline?u=76281980&t=38)** We've got a lot of ground to cover, so let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (4), cd (4), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Jenkins]] (1)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Jenkins]] (1)
 > **CLI Commands:** cd (4)
 > **Definitions:** known as (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/continuous-integration-tools-20202338/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-integration-tools-20202338/what-you-should-know?u=76281980&t=0)** Before we get into any technical details, let's discuss the meaning of continuous integration, continuous delivery, and continuous deployment.
+> **[0:00](https://www.linkedin.com/learning/continuous-integration-tools-20202338/what-you-should-know?u=76281980&t=0)** Before we get into any technical details, let's discuss the meaning of [[Continuous Integration (CI)|continuous integration]], [[Continuous Delivery (CD)|continuous delivery]], and continuous deployment.
 >
 > **[0:09](https://www.linkedin.com/learning/continuous-integration-tools-20202338/what-you-should-know?u=76281980&t=9)** With continuous integration, developers work on their code in a local environment and commit their changes to a shared repository on a regular basis.
 >
@@ -131,13 +129,13 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/continuous-integration-tools-20202338/what-you-should-know?u=76281980&t=86)** The files are packed with information to help you get the most out of this course, especially if you want a more hands-on experience with any of the tools we discuss.
 >
-> **[1:36](https://www.linkedin.com/learning/continuous-integration-tools-20202338/what-you-should-know?u=76281980&t=96)** If you're working through the hands-on exercises, it'll be helpful if you're familiar with application development and the software development process.
+> **[1:36](https://www.linkedin.com/learning/continuous-integration-tools-20202338/what-you-should-know?u=76281980&t=96)** If you're working through the hands-on exercises, it'll be helpful if you're familiar with [[Application Development]] and the [[Software Development]] process.
 >
 > **[1:44](https://www.linkedin.com/learning/continuous-integration-tools-20202338/what-you-should-know?u=76281980&t=104)** If you already have some experience building, testing, and deploying applications, you'll be fine.
 >
 > **[1:50](https://www.linkedin.com/learning/continuous-integration-tools-20202338/what-you-should-know?u=76281980&t=110)** Many CI/CD tools are configured with scripts and command line tools, so if you're comfortable scripting and using a command line interface, you'll be all set.
 >
-> **[2:00](https://www.linkedin.com/learning/continuous-integration-tools-20202338/what-you-should-know?u=76281980&t=120)** It'll also be helpful if you're familiar with source code management tools like GitHub, Bitbucket, or GitLab.
+> **[2:00](https://www.linkedin.com/learning/continuous-integration-tools-20202338/what-you-should-know?u=76281980&t=120)** It'll also be helpful if you're familiar with source code management tools like [[GitHub]], [[Bitbucket]], or GitLab.
 >
 > **[2:08](https://www.linkedin.com/learning/continuous-integration-tools-20202338/what-you-should-know?u=76281980&t=128)** Most tools start their processes when changes are applied to a code base, so you'll want to know how to push code to a repository, either from your local system or a web interface.
 >
@@ -145,14 +143,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Continuous Integration (CI)|Continuous integration]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (3), product (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (3), [[Software Development]] (1), [[GitHub]] (1), [[Bitbucket]] (1)
 > **Tools:** github (1), bitbucket (1), gitlab (1)
 > **Exercise Files:** exercise files (2), source code (1)
 > **Definitions:** in other words (1), is a  (1), known as (1)
 > **CLI Commands:** find (1), cd (1)
 
-#### CI/CD tool categories
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/ci-cd-tool-categories?u=76281980)
+#### [CI/CD tool categories](https://www.linkedin.com/learning/continuous-integration-tools-20202338/ci-cd-tool-categories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -160,13 +157,13 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/continuous-integration-tools-20202338/ci-cd-tool-categories?u=76281980&t=10)** With plenty of CI/CD tools to choose from, we won't be able to explore all of them, but we can start narrowing our focus a bit by sorting tools into four categories.
 >
-> **[0:22](https://www.linkedin.com/learning/continuous-integration-tools-20202338/ci-cd-tool-categories?u=76281980&t=22)** Self-hosted tools run on your hardware.
+> **[0:22](https://www.linkedin.com/learning/continuous-integration-tools-20202338/ci-cd-tool-categories?u=76281980&t=22)** Self-hosted tools run on your [[Hardware]].
 >
 > **[0:26](https://www.linkedin.com/learning/continuous-integration-tools-20202338/ci-cd-tool-categories?u=76281980&t=26)** This could mean the tool runs on a server in your company's data center, a VM running in the cloud, or it could be your local workstation.
 >
 > **[0:34](https://www.linkedin.com/learning/continuous-integration-tools-20202338/ci-cd-tool-categories?u=76281980&t=34)** Whatever the platform, you are responsible for installing and maintaining the tool.
 >
-> **[0:40](https://www.linkedin.com/learning/continuous-integration-tools-20202338/ci-cd-tool-categories?u=76281980&t=40)** Tools that fit into the Software as a Service or a SaaS category offer an alternative to self-hosting.
+> **[0:40](https://www.linkedin.com/learning/continuous-integration-tools-20202338/ci-cd-tool-categories?u=76281980&t=40)** Tools that fit into the [[SaaS|Software as a Service]] or a [[SaaS]] category offer an alternative to self-hosting.
 >
 > **[0:47](https://www.linkedin.com/learning/continuous-integration-tools-20202338/ci-cd-tool-categories?u=76281980&t=47)** In this case, a vendor provides and maintains the tool and allows you to access it.
 >
@@ -174,7 +171,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/continuous-integration-tools-20202338/ci-cd-tool-categories?u=76281980&t=57)** The next category is an extension of the Software as a Service category.
 >
-> **[1:02](https://www.linkedin.com/learning/continuous-integration-tools-20202338/ci-cd-tool-categories?u=76281980&t=62)** Cloud service providers offer SaaS-based CI/CD tools, but they also offer other cloud-based features like virtual machines, managed services, and storage.
+> **[1:02](https://www.linkedin.com/learning/continuous-integration-tools-20202338/ci-cd-tool-categories?u=76281980&t=62)** Cloud service providers offer SaaS-based CI/CD tools, but they also offer other cloud-based features like [[Virtual Machines]], managed services, and storage.
 >
 > **[1:15](https://www.linkedin.com/learning/continuous-integration-tools-20202338/ci-cd-tool-categories?u=76281980&t=75)** If you think of a code repository, your first thought is probably of a place where you can store your code.
 >
@@ -184,12 +181,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (4), cd (4), cloud (3), [[SaaS]] (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[SaaS]] (2), [[Hardware]] (1), [[SaaS|Software as a service]] (1), [[Virtual Machines]] (1)
 > **CLI Commands:** cd (4)
 > **Definitions:** is an  (1)
 
-#### Pros and cons
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/pros-and-cons?u=76281980)
+#### [Pros and cons](https://www.linkedin.com/learning/continuous-integration-tools-20202338/pros-and-cons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -197,7 +193,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/continuous-integration-tools-20202338/pros-and-cons?u=76281980&t=7)** Hosting your own CI/CD tools gives you the most flexibility in comparison to any other option.
 >
-> **[0:13](https://www.linkedin.com/learning/continuous-integration-tools-20202338/pros-and-cons?u=76281980&t=13)** You can specify the entire technology stack, including the software, the hardware, and the network.
+> **[0:13](https://www.linkedin.com/learning/continuous-integration-tools-20202338/pros-and-cons?u=76281980&t=13)** You can specify the entire technology stack, including the software, the [[Hardware]], and the network.
 >
 > **[0:19](https://www.linkedin.com/learning/continuous-integration-tools-20202338/pros-and-cons?u=76281980&t=19)** You also have more control over any data that flows into or out of the tool.
 >
@@ -215,11 +211,11 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/continuous-integration-tools-20202338/pros-and-cons?u=76281980&t=62)** Also, getting started with self-hosted tools can be intimidating for the uninitiated, causing difficulties with bringing resources online.
 >
-> **[1:12](https://www.linkedin.com/learning/continuous-integration-tools-20202338/pros-and-cons?u=76281980&t=72)** Software as a Service options, on the other hand, do their best to make it super easy to get started.
+> **[1:12](https://www.linkedin.com/learning/continuous-integration-tools-20202338/pros-and-cons?u=76281980&t=72)** [[SaaS|Software as a Service]] options, on the other hand, do their best to make it super easy to get started.
 >
 > **[1:19](https://www.linkedin.com/learning/continuous-integration-tools-20202338/pros-and-cons?u=76281980&t=79)** All of the heavy lifting of maintaining the tool is abstracted away, and all you need to do is worry about coding your application.
 >
-> **[1:27](https://www.linkedin.com/learning/continuous-integration-tools-20202338/pros-and-cons?u=76281980&t=87)** There are also plenty of free or reasonably priced SaaS CI/CD services available.
+> **[1:27](https://www.linkedin.com/learning/continuous-integration-tools-20202338/pros-and-cons?u=76281980&t=87)** There are also plenty of free or reasonably priced [[SaaS]] CI/CD services available.
 >
 > **[1:33](https://www.linkedin.com/learning/continuous-integration-tools-20202338/pros-and-cons?u=76281980&t=93)** And maybe it's just me, but I love the fact that SaaS CI/CD tools create triggers from your repo automatically.
 >
@@ -261,13 +257,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (12), cd (11), cloud (5), data (4), [[SaaS]] (3)
+> **Frameworks & Libraries:** [[SaaS]] (3), [[Hardware]] (1), [[SaaS|Software as a service]] (1)
 > **CLI Commands:** cd (11), make (1)
 > **Prerequisites:** install (1), getting started (1), set up (1), configure (1)
 > **Speakers:** - [presenter] (1)
 
-#### The experimental pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/the-experimental-pipeline?u=76281980)
+#### [The experimental pipeline](https://www.linkedin.com/learning/continuous-integration-tools-20202338/the-experimental-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -275,7 +270,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/continuous-integration-tools-20202338/the-experimental-pipeline?u=76281980&t=6)** We'll be configuring a pipeline that builds, tests, and deploys a web application.
 >
-> **[0:12](https://www.linkedin.com/learning/continuous-integration-tools-20202338/the-experimental-pipeline?u=76281980&t=12)** Our application is a Python script that serves JSON data over a simple API.
+> **[0:12](https://www.linkedin.com/learning/continuous-integration-tools-20202338/the-experimental-pipeline?u=76281980&t=12)** Our application is a [[Python (Programming Language)|Python]] script that serves [[JSON]] data over a simple API.
 >
 > **[0:18](https://www.linkedin.com/learning/continuous-integration-tools-20202338/the-experimental-pipeline?u=76281980&t=18)** The application will be packaged as a zip file and then deployed to an AWS Lambda function environment.
 >
@@ -285,7 +280,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/continuous-integration-tools-20202338/the-experimental-pipeline?u=76281980&t=35)** Our pipeline will have seven stages.
 >
-> **[0:38](https://www.linkedin.com/learning/continuous-integration-tools-20202338/the-experimental-pipeline?u=76281980&t=38)** We'll trigger the pipeline by using an update to the Git repository where the application code is stored, or we may trigger it manually if needed.
+> **[0:38](https://www.linkedin.com/learning/continuous-integration-tools-20202338/the-experimental-pipeline?u=76281980&t=38)** We'll trigger the pipeline by using an update to the [[Git]] repository where the application code is stored, or we may trigger it manually if needed.
 >
 > **[0:48](https://www.linkedin.com/learning/continuous-integration-tools-20202338/the-experimental-pipeline?u=76281980&t=48)** In the first two stages, we'll install any dependencies and do a sanity check.
 >
@@ -329,7 +324,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (12), ci (4), cd (4), [[Python (Programming Language)|Python]] (2), web application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[JSON]] (1), [[Git]] (1)
 > **CLI Commands:** cd (4), make (3), python (2), aws (1), git (1)
 > **Env Vars:** json (1), api (1), aws (1)
 > **Cross-References:** in the last (1)
@@ -338,8 +333,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 
-#### About the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/about-the-exercise-files?u=76281980)
+#### [About the exercise files](https://www.linkedin.com/learning/continuous-integration-tools-20202338/about-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -347,7 +341,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/continuous-integration-tools-20202338/about-the-exercise-files?u=76281980&t=6)** In addition, exercise files are available to help you get hands-on experience with each tool that we discuss.
 >
-> **[0:14](https://www.linkedin.com/learning/continuous-integration-tools-20202338/about-the-exercise-files?u=76281980&t=14)** Exercise files are available as a GitHub repository.
+> **[0:14](https://www.linkedin.com/learning/continuous-integration-tools-20202338/about-the-exercise-files?u=76281980&t=14)** Exercise files are available as a [[GitHub]] repository.
 >
 > **[0:18](https://www.linkedin.com/learning/continuous-integration-tools-20202338/about-the-exercise-files?u=76281980&t=18)** You'll want to download the exercise files as a zip archive, so you can access them on your local system.
 >
@@ -409,7 +403,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), aws (5), next (4), ci (2), cd (2)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **CLI Commands:** aws (5), find (3), cd (2), make (1)
 > **Exercise Files:** exercise files (4), template (3), download the (1)
 > **Prerequisites:** configure (3), you'll need (2), you need to have (1), set up (1)
@@ -423,8 +417,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Jenkins
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/jenkins?u=76281980)
+#### [Jenkins](https://www.linkedin.com/learning/continuous-integration-tools-20202338/jenkins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -432,9 +425,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/continuous-integration-tools-20202338/jenkins?u=76281980&t=5)** They also give us the most flexibility because we control almost all aspects of the installation, administration, and maintenance.
 >
-> **[0:13](https://www.linkedin.com/learning/continuous-integration-tools-20202338/jenkins?u=76281980&t=13)** We'll discuss a few tools from this category, starting with Jenkins.
+> **[0:13](https://www.linkedin.com/learning/continuous-integration-tools-20202338/jenkins?u=76281980&t=13)** We'll discuss a few tools from this category, starting with [[Jenkins]].
 >
-> **[0:18](https://www.linkedin.com/learning/continuous-integration-tools-20202338/jenkins?u=76281980&t=18)** When developers think of tools for continuous integration, Jenkins is likely the first to come to mind.
+> **[0:18](https://www.linkedin.com/learning/continuous-integration-tools-20202338/jenkins?u=76281980&t=18)** When developers think of tools for [[Continuous Integration (CI)|continuous integration]], Jenkins is likely the first to come to mind.
 >
 > **[0:25](https://www.linkedin.com/learning/continuous-integration-tools-20202338/jenkins?u=76281980&t=25)** It's easily one of the most well-known and widely used automation tools available.
 >
@@ -492,7 +485,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/continuous-integration-tools-20202338/jenkins?u=76281980&t=222)** We also have this handy Run button to start the pipeline process.
 >
-> **[3:46](https://www.linkedin.com/learning/continuous-integration-tools-20202338/jenkins?u=76281980&t=226)** We could also set up a Webhook with our Git repo so the pipeline runs automatically.
+> **[3:46](https://www.linkedin.com/learning/continuous-integration-tools-20202338/jenkins?u=76281980&t=226)** We could also set up a Webhook with our [[Git]] repo so the pipeline runs automatically.
 >
 > **[3:52](https://www.linkedin.com/learning/continuous-integration-tools-20202338/jenkins?u=76281980&t=232)** But for this demo, I'll just use the Run button.
 >
@@ -502,7 +495,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/continuous-integration-tools-20202338/jenkins?u=76281980&t=248)** The green and white checkmarks let us know the stages have passed and the blinking blue icon lets us know which stage is active.
 >
-> **[4:17](https://www.linkedin.com/learning/continuous-integration-tools-20202338/jenkins?u=76281980&t=257)** The log for each stage is displayed below, and we can expand the form to follow the log in real-time.
+> **[4:17](https://www.linkedin.com/learning/continuous-integration-tools-20202338/jenkins?u=76281980&t=257)** The log for each stage is displayed below, and we can expand the form to follow the log in [[Real-Time]].
 >
 > **[4:24](https://www.linkedin.com/learning/continuous-integration-tools-20202338/jenkins?u=76281980&t=264)** Now let's wait for the build to finish.
 >
@@ -512,19 +505,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (20), [[Continuous Integration (CI)|Continuous integration]] (3), [[Automation]] (3), application (3), open-source (2)
+> **Frameworks & Libraries:** [[Jenkins]] (20), [[Continuous Integration (CI)|Continuous integration]] (3), [[Git]] (1), [[Real-Time]] (1)
 > **CLI Commands:** aws (1), git (1)
 > **Env Vars:** aws (1)
 > **Prerequisites:** set up (1)
 
-#### Bamboo
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bamboo?u=76281980)
+#### [Bamboo](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bamboo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bamboo?u=76281980&t=0)** Bamboo is a self-hosted CI/CD solution developed by Atlassian, the company behind applications like Confluence, Jira, and Bitbucket.
+> **[0:00](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bamboo?u=76281980&t=0)** Bamboo is a self-hosted CI/CD solution developed by [[Atlassian]], the company behind applications like [[Confluence]], [[Jira]], and [[Bitbucket]].
 >
-> **[0:11](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bamboo?u=76281980&t=11)** For teams that are using other Atlassian products, Bamboo is a nice fit for adding a CI/CD server to project management and issue tracking workflows.
+> **[0:11](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bamboo?u=76281980&t=11)** For teams that are using other Atlassian [[Microsoft Products|products]], Bamboo is a nice fit for adding a CI/CD server to project management and issue tracking workflows.
 >
 > **[0:21](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bamboo?u=76281980&t=21)** Work assigned in Jira, for example, can be directly associated with a pipeline in Bamboo.
 >
@@ -548,7 +540,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bamboo?u=76281980&t=74)** However, Bamboo also supports spec files that can be stored along with the application code.
 >
-> **[1:20](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bamboo?u=76281980&t=80)** Spec files can be written in YAML or Java, with both of these formats having their benefits.
+> **[1:20](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bamboo?u=76281980&t=80)** Spec files can be written in YAML or [[Java]], with both of these formats having their benefits.
 >
 > **[1:27](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bamboo?u=76281980&t=87)** YAML is easy to read and understand, even for someone that might not be familiar with programming.
 >
@@ -582,11 +574,11 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bamboo?u=76281980&t=177)** Bamboo has plenty of capabilities and can do even more when paired with other Atlassian products.
 >
-> **[3:05](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bamboo?u=76281980&t=185)** If you're working at a shop that uses Confluence or Jira, for example, Bamboo might be a good choice for your software integration needs.
+> **[3:05](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bamboo?u=76281980&t=185)** If you're working at a shop that uses Confluence or Jira, for example, Bamboo might be a good choice for your [[Software Integration]] needs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Atlassian]] (5), ci (3), [[Jira]] (3), cd (2), [[Confluence]] (2)
+> **Frameworks & Libraries:** [[Atlassian]] (5), [[Jira]] (3), [[Confluence]] (2), [[Bitbucket]] (2), [[Microsoft Products|Products]] (2)
 > **Tools:** jira (3), confluence (2), bitbucket (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** cd (2)
@@ -595,8 +587,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Prerequisites:** configure (1)
 
-#### TeamCity
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/teamcity?u=76281980)
+#### [TeamCity](https://www.linkedin.com/learning/continuous-integration-tools-20202338/teamcity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -620,9 +611,9 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/continuous-integration-tools-20202338/teamcity?u=76281980&t=57)** TeamCity provides capabilities for quickly configuring build plans based on a project's code.
 >
-> **[1:04](https://www.linkedin.com/learning/continuous-integration-tools-20202338/teamcity?u=76281980&t=64)** For example, TeamCity can detect Maven or Ant build files in a Java-based project and suggest build plans for Java.
+> **[1:04](https://www.linkedin.com/learning/continuous-integration-tools-20202338/teamcity?u=76281980&t=64)** For example, TeamCity can detect Maven or Ant build files in a [[Java]]-based project and suggest build plans for Java.
 >
-> **[1:13](https://www.linkedin.com/learning/continuous-integration-tools-20202338/teamcity?u=76281980&t=73)** TeamCity can be configured from the web interface or with configuration files in XML or Kotlin formats.
+> **[1:13](https://www.linkedin.com/learning/continuous-integration-tools-20202338/teamcity?u=76281980&t=73)** TeamCity can be configured from the web interface or with configuration files in XML or [[Kotlin]] formats.
 >
 > **[1:22](https://www.linkedin.com/learning/continuous-integration-tools-20202338/teamcity?u=76281980&t=82)** XML provides a great deal of structure for describing a configuration, but it can be verbose and difficult for humans to process.
 >
@@ -660,7 +651,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/continuous-integration-tools-20202338/teamcity?u=76281980&t=201)** On this page, we get a summary of the build's status along with which step the build is currently running.
 >
-> **[3:28](https://www.linkedin.com/learning/continuous-integration-tools-20202338/teamcity?u=76281980&t=208)** If we click "Build log", we can view the log in real-time.
+> **[3:28](https://www.linkedin.com/learning/continuous-integration-tools-20202338/teamcity?u=76281980&t=208)** If we click "Build log", we can view the log in [[Real-Time]].
 >
 > **[3:33](https://www.linkedin.com/learning/continuous-integration-tools-20202338/teamcity?u=76281980&t=213)** Now let's wait for the build to complete.
 >
@@ -672,7 +663,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (5), [[Java]] (3), ci (1), cd (1), application (1)
+> **Frameworks & Libraries:** [[Kotlin]] (5), [[Java]] (3), [[Real-Time]] (1)
 > **Tools:** intellij (2), pycharm (2), command line (2), visual studio (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2), cd (1)
@@ -681,32 +672,31 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 
-#### Comparing self-hosted tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-self-hosted-tools?u=76281980)
+#### [Comparing self-hosted tools](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-self-hosted-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-self-hosted-tools?u=76281980&t=0)** Self-hosted CI/CD tools give us full control over the hardware and software, running tests, creating artifacts, and deploying applications.
+> **[0:00](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-self-hosted-tools?u=76281980&t=0)** Self-hosted CI/CD tools give us full control over the [[Hardware]] and software, running tests, creating artifacts, and deploying applications.
 >
 > **[0:10](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-self-hosted-tools?u=76281980&t=10)** However, that control comes with the responsibility of installing and maintaining the entire stack.
 >
-> **[0:17](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-self-hosted-tools?u=76281980&t=17)** Jenkins is open-source, free, and supports thousands of plugins.
+> **[0:17](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-self-hosted-tools?u=76281980&t=17)** [[Jenkins]] is open-source, free, and supports thousands of plugins.
 >
 > **[0:23](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-self-hosted-tools?u=76281980&t=23)** The Jenkins file format is also great for easily modeling pipeline stages.
 >
-> **[0:28](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-self-hosted-tools?u=76281980&t=28)** Bamboo is known for tight integration with other Atlassian products and connects to a marketplace for plugins and extensions.
+> **[0:28](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-self-hosted-tools?u=76281980&t=28)** Bamboo is known for tight integration with other [[Atlassian]] [[Microsoft Products|products]] and connects to a marketplace for plugins and extensions.
 >
 > **[0:37](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-self-hosted-tools?u=76281980&t=37)** Bamboo also provides a web-based interface for creating pipelines.
 >
 > **[0:43](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-self-hosted-tools?u=76281980&t=43)** TeamCity works seamlessly with JetBrains' IDEs and other editors like Visual Studio Code.
 >
-> **[0:50](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-self-hosted-tools?u=76281980&t=50)** Project detection speeds up configuration, and Kotlin-based pipeline files are approachable for most developers using TeamCity.
+> **[0:50](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-self-hosted-tools?u=76281980&t=50)** Project detection speeds up configuration, and [[Kotlin]]-based pipeline files are approachable for most developers using TeamCity.
 >
-> **[1:01](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-self-hosted-tools?u=76281980&t=61)** Now, let's explore the next category, Software as a Service.
+> **[1:01](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-self-hosted-tools?u=76281980&t=61)** Now, let's explore the next category, [[SaaS|Software as a Service]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (2), ci (1), cd (1), [[Hardware]] (1), open-source (1)
+> **Frameworks & Libraries:** [[Jenkins]] (2), [[Hardware]] (1), [[Atlassian]] (1), [[Microsoft Products|Products]] (1), [[Kotlin]] (1)
 > **CLI Commands:** cd (1)
 > **Tools:** visual studio (1)
 
@@ -715,23 +705,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Travis CI
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/travis-ci?u=76281980)
+#### [Travis CI](https://www.linkedin.com/learning/continuous-integration-tools-20202338/travis-ci?u=76281980)
 
-#### CircleCI
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/circleci?u=76281980)
+#### [CircleCI](https://www.linkedin.com/learning/continuous-integration-tools-20202338/circleci?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-integration-tools-20202338/circleci?u=76281980&t=0)** CircleCI provides CI/CD workflow management, a variety of build environments, and capabilities that can support all types of projects.
+> **[0:00](https://www.linkedin.com/learning/continuous-integration-tools-20202338/circleci?u=76281980&t=0)** CircleCI provides CI/CD [[Workflow Management]], a variety of build environments, and capabilities that can support all types of projects.
 >
-> **[0:11](https://www.linkedin.com/learning/continuous-integration-tools-20202338/circleci?u=76281980&t=11)** CircleCI uses a variety of Docker containers or virtual machines to run your CI and CD build steps.
+> **[0:11](https://www.linkedin.com/learning/continuous-integration-tools-20202338/circleci?u=76281980&t=11)** CircleCI uses a variety of Docker containers or [[Virtual Machines]] to run your CI and CD build steps.
 >
-> **[0:19](https://www.linkedin.com/learning/continuous-integration-tools-20202338/circleci?u=76281980&t=19)** This gives developers access to Ubuntu, Windows, and MacOS environments.
+> **[0:19](https://www.linkedin.com/learning/continuous-integration-tools-20202338/circleci?u=76281980&t=19)** This gives developers access to [[Ubuntu]], [[Windows]], and MacOS environments.
 >
 > **[0:25](https://www.linkedin.com/learning/continuous-integration-tools-20202338/circleci?u=76281980&t=25)** In addition, projects that require more compute resources or specialized processors can use GPUs and ARM-based environments.
 >
-> **[0:34](https://www.linkedin.com/learning/continuous-integration-tools-20202338/circleci?u=76281980&t=34)** For mobile developers, CircleCI also provides support for building and testing applications for iOS and Android platforms.
+> **[0:34](https://www.linkedin.com/learning/continuous-integration-tools-20202338/circleci?u=76281980&t=34)** For mobile developers, CircleCI also provides support for building and testing applications for iOS and [[Android]] platforms.
 >
 > **[0:43](https://www.linkedin.com/learning/continuous-integration-tools-20202338/circleci?u=76281980&t=43)** Cost-wise, it's easy to get started on CircleCI.
 >
@@ -777,7 +765,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (3), cd (3), teams (2), [[Workflow Management]] (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Workflow Management]] (1), [[Virtual Machines]] (1), [[Ubuntu]] (1), [[Windows]] (1), [[Android]] (1)
 > **CLI Commands:** cd (3), docker (1), find (1)
 > **File Paths:** config.yml (2)
 > **Code Identifiers:** ios (1)
@@ -786,12 +774,11 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Definitions:** known as (1)
 
-#### Comparing SaaS tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-saas-tools?u=76281980)
+#### [Comparing SaaS tools](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-saas-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-saas-tools?u=76281980&t=0)** CI tools in the Software as a Service category offer the convenience of easy configuration and maintenance-free operations.
+> **[0:00](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-saas-tools?u=76281980&t=0)** CI tools in the [[SaaS|Software as a Service]] category offer the convenience of easy configuration and maintenance-free operations.
 >
 > **[0:08](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-saas-tools?u=76281980&t=8)** This is also one of the first categories where we can benefit from unbounded scale.
 >
@@ -799,7 +786,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-saas-tools?u=76281980&t=22)** Travis CI has long been a first choice for large open-source projects for integrating code and running tests.
 >
-> **[0:31](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-saas-tools?u=76281980&t=31)** It has close ties to projects hosted in GitHub, but also supports other code repositories.
+> **[0:31](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-saas-tools?u=76281980&t=31)** It has close ties to projects hosted in [[GitHub]], but also supports other code repositories.
 >
 > **[0:38](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-saas-tools?u=76281980&t=38)** And the YAML configuration is intuitive and elegant at the same time.
 >
@@ -813,7 +800,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (3), [[SaaS|Software as a service]] (1), open-source (1), [[GitHub]] (1), feature (1)
+> **Frameworks & Libraries:** [[SaaS|Software as a service]] (1), [[GitHub]] (1)
 > **Env Vars:** yaml (1)
 > **Tools:** github (1)
 
@@ -822,22 +809,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Amazon Web Services (AWS) CodePipeline and CodeBuild
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/amazon-web-services-aws-codepipeline-and-codebuild?u=76281980)
+#### [Amazon Web Services (AWS) CodePipeline and CodeBuild](https://www.linkedin.com/learning/continuous-integration-tools-20202338/amazon-web-services-aws-codepipeline-and-codebuild?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-integration-tools-20202338/amazon-web-services-aws-codepipeline-and-codebuild?u=76281980&t=0)** When we're heavily invested in the cloud, it can make sense to keep our CI/CD tools on the same platform we use for servers, databases, and other resources.
+> **[0:00](https://www.linkedin.com/learning/continuous-integration-tools-20202338/amazon-web-services-aws-codepipeline-and-codebuild?u=76281980&t=0)** When we're heavily invested in the cloud, it can make sense to keep our CI/CD tools on the same platform we use for servers, [[Databases]], and other resources.
 >
 > **[0:10](https://www.linkedin.com/learning/continuous-integration-tools-20202338/amazon-web-services-aws-codepipeline-and-codebuild?u=76281980&t=10)** Let's discuss tools in the cloud service provider category, starting with AWS CodePipeline and CodeBuild.
 >
-> **[0:18](https://www.linkedin.com/learning/continuous-integration-tools-20202338/amazon-web-services-aws-codepipeline-and-codebuild?u=76281980&t=18)** CodePipeline and CodeBuild are tools for implementing CI/CD in Amazon Web Services.
+> **[0:18](https://www.linkedin.com/learning/continuous-integration-tools-20202338/amazon-web-services-aws-codepipeline-and-codebuild?u=76281980&t=18)** CodePipeline and CodeBuild are tools for implementing CI/CD in [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
 > **[0:27](https://www.linkedin.com/learning/continuous-integration-tools-20202338/amazon-web-services-aws-codepipeline-and-codebuild?u=76281980&t=27)** With CodePipeline, developers can model the stages of their pipeline and the actions that need to be taken in each stage.
 >
 > **[0:35](https://www.linkedin.com/learning/continuous-integration-tools-20202338/amazon-web-services-aws-codepipeline-and-codebuild?u=76281980&t=35)** CodeBuild provides an on-demand build service that can be used with CodePipeline to implement the steps needed to build, deliver, and deploy code.
 >
-> **[0:46](https://www.linkedin.com/learning/continuous-integration-tools-20202338/amazon-web-services-aws-codepipeline-and-codebuild?u=76281980&t=46)** CodePipeline takes input from several sources, including GitHub repositories, Amazon's hosted git repo service, CodeCommit, Amazon's Elastic Container Registry, also known as ECR, and Amazon Simple Storage Service, most commonly known as S3.
+> **[0:46](https://www.linkedin.com/learning/continuous-integration-tools-20202338/amazon-web-services-aws-codepipeline-and-codebuild?u=76281980&t=46)** CodePipeline takes input from several sources, including [[GitHub]] repositories, Amazon's hosted [[Git]] repo service, CodeCommit, Amazon's Elastic Container Registry, also known as ECR, and Amazon Simple Storage Service, most commonly known as S3.
 >
 > **[1:05](https://www.linkedin.com/learning/continuous-integration-tools-20202338/amazon-web-services-aws-codepipeline-and-codebuild?u=76281980&t=65)** Depending on the input, CodePipeline collects additional information to help developers create stages in the pipeline for building, testing, and deploying the application.
 >
@@ -855,7 +841,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/continuous-integration-tools-20202338/amazon-web-services-aws-codepipeline-and-codebuild?u=76281980&t=125)** The configuration can also be parameterized, so CodeBuild workflows can be used with different projects.
 >
-> **[2:11](https://www.linkedin.com/learning/continuous-integration-tools-20202338/amazon-web-services-aws-codepipeline-and-codebuild?u=76281980&t=131)** CodeBuild uses Linux or Windows VMs that are created on demand for each build.
+> **[2:11](https://www.linkedin.com/learning/continuous-integration-tools-20202338/amazon-web-services-aws-codepipeline-and-codebuild?u=76281980&t=131)** CodeBuild uses [[Linux]] or [[Windows]] VMs that are created on demand for each build.
 >
 > **[2:18](https://www.linkedin.com/learning/continuous-integration-tools-20202338/amazon-web-services-aws-codepipeline-and-codebuild?u=76281980&t=138)** VMs can be sized according to the CPU and RAM needed to build or test the application.
 >
@@ -909,7 +895,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), application (4), cloud (2), ci (2), cd (2)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Databases]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Git]] (1), [[Linux]] (1)
 > **CLI Commands:** aws (5), cd (2), make (1), git (1)
 > **Env Vars:** aws (5), ecr (1), cpu (1), ram (1)
 > **Tools:** github (2)
@@ -917,18 +903,17 @@ created: 2026-05-02
 > **File Paths:** buildspec.yml (1)
 > **Prerequisites:** install (1)
 
-#### Azure Pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/azure-pipelines?u=76281980)
+#### [Azure Pipelines](https://www.linkedin.com/learning/continuous-integration-tools-20202338/azure-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-integration-tools-20202338/azure-pipelines?u=76281980&t=0)** Azure Pipelines is part of the Azure DevOps product line.
+> **[0:00](https://www.linkedin.com/learning/continuous-integration-tools-20202338/azure-pipelines?u=76281980&t=0)** [[Microsoft Azure|Azure]] Pipelines is part of the Azure [[DevOps]] product line.
 >
-> **[0:04](https://www.linkedin.com/learning/continuous-integration-tools-20202338/azure-pipelines?u=76281980&t=4)** Azure DevOps includes a complete set of hosted tools for application development, with pipelines as the main tool for building, testing, and deploying applications.
+> **[0:04](https://www.linkedin.com/learning/continuous-integration-tools-20202338/azure-pipelines?u=76281980&t=4)** Azure DevOps includes a complete set of hosted tools for [[Application Development]], with pipelines as the main tool for building, testing, and deploying applications.
 >
-> **[0:15](https://www.linkedin.com/learning/continuous-integration-tools-20202338/azure-pipelines?u=76281980&t=15)** Pipelines can interact with virtual machines, Kubernetes clusters, or other resources running in Azure.
+> **[0:15](https://www.linkedin.com/learning/continuous-integration-tools-20202338/azure-pipelines?u=76281980&t=15)** Pipelines can interact with [[Virtual Machines]], [[Kubernetes]] clusters, or other resources running in Azure.
 >
-> **[0:22](https://www.linkedin.com/learning/continuous-integration-tools-20202338/azure-pipelines?u=76281980&t=22)** Jobs can also be configured to deploy to other clouds as well. Azure Pipelines allows developers to build projects on a variety of platforms including Ubuntu Linux, MacOS, and Windows, all hosted in the Azure Cloud.
+> **[0:22](https://www.linkedin.com/learning/continuous-integration-tools-20202338/azure-pipelines?u=76281980&t=22)** Jobs can also be configured to deploy to other clouds as well. Azure Pipelines allows developers to build projects on a variety of platforms including [[Ubuntu]] [[Linux]], MacOS, and [[Windows]], all hosted in the Azure Cloud.
 >
 > **[0:37](https://www.linkedin.com/learning/continuous-integration-tools-20202338/azure-pipelines?u=76281980&t=37)** Open-source projects using Azure Pipelines can benefit from unlimited build time and 10 jobs running in parallel.
 >
@@ -936,7 +921,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/continuous-integration-tools-20202338/azure-pipelines?u=76281980&t=52)** Jobs are defined in Azure Pipelines using agents and tasks.
 >
-> **[0:57](https://www.linkedin.com/learning/continuous-integration-tools-20202338/azure-pipelines?u=76281980&t=57)** To increase feedback and contributions from the community, Microsoft has made the standard agents and tasks open-source and available for collaboration on GitHub.
+> **[0:57](https://www.linkedin.com/learning/continuous-integration-tools-20202338/azure-pipelines?u=76281980&t=57)** To increase feedback and contributions from the community, [[Microsoft]] has made the standard agents and tasks open-source and available for collaboration on [[GitHub]].
 >
 > **[1:06](https://www.linkedin.com/learning/continuous-integration-tools-20202338/azure-pipelines?u=76281980&t=66)** Developers can use their own custom agents and tasks as well.
 >
@@ -964,25 +949,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), [[DevOps]] (2), open-source (2), product (1), [[Application Development]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (15), [[DevOps]] (2), [[Application Development]] (1), [[Virtual Machines]] (1), [[Kubernetes]] (1)
 > **UI Navigation:** go to (2)
 > **File Paths:** azure-pipelines.yml (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** yaml (1)
 > **Tools:** github (1)
 
-#### Google Cloud Platform (GCP) Cloud Build
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/google-cloud-platform-gcp-cloud-build?u=76281980)
+#### [Google Cloud Platform (GCP) Cloud Build](https://www.linkedin.com/learning/continuous-integration-tools-20202338/google-cloud-platform-gcp-cloud-build?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-integration-tools-20202338/google-cloud-platform-gcp-cloud-build?u=76281980&t=0)** Cloud Build is an integration service from the Google Cloud Platform suite of tools.
+> **[0:00](https://www.linkedin.com/learning/continuous-integration-tools-20202338/google-cloud-platform-gcp-cloud-build?u=76281980&t=0)** Cloud Build is an integration service from the [[Google Cloud Platform (GCP)|Google Cloud Platform]] suite of tools.
 >
 > **[0:05](https://www.linkedin.com/learning/continuous-integration-tools-20202338/google-cloud-platform-gcp-cloud-build?u=76281980&t=5)** It originally started as an image builder for containers.
 >
 > **[0:09](https://www.linkedin.com/learning/continuous-integration-tools-20202338/google-cloud-platform-gcp-cloud-build?u=76281980&t=9)** Over time, it's grown into a tool that can be applied to CI/CD tasks as well.
 >
-> **[0:15](https://www.linkedin.com/learning/continuous-integration-tools-20202338/google-cloud-platform-gcp-cloud-build?u=76281980&t=15)** The core functionality of Cloud Build is a workflow manager for building and testing applications before deploying them to other GCP services like App Engine, Kubernetes Engine, or even services running on other cloud platforms.
+> **[0:15](https://www.linkedin.com/learning/continuous-integration-tools-20202338/google-cloud-platform-gcp-cloud-build?u=76281980&t=15)** The core functionality of Cloud Build is a workflow manager for building and testing applications before deploying them to other GCP services like App Engine, [[Kubernetes]] Engine, or even services running on other cloud platforms.
 >
 > **[0:30](https://www.linkedin.com/learning/continuous-integration-tools-20202338/google-cloud-platform-gcp-cloud-build?u=76281980&t=30)** Cloud Build pricing is part of the GCP free tier.
 >
@@ -990,7 +974,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/continuous-integration-tools-20202338/google-cloud-platform-gcp-cloud-build?u=76281980&t=43)** Please check the Cloud Build website for current pricing.
 >
-> **[0:47](https://www.linkedin.com/learning/continuous-integration-tools-20202338/google-cloud-platform-gcp-cloud-build?u=76281980&t=47)** Cloud Build is initially configured by adding a trigger from Bitbucket, GitHub, or GCP's own cloud source repository.
+> **[0:47](https://www.linkedin.com/learning/continuous-integration-tools-20202338/google-cloud-platform-gcp-cloud-build?u=76281980&t=47)** Cloud Build is initially configured by adding a trigger from [[Bitbucket]], [[GitHub]], or GCP's own cloud source repository.
 >
 > **[0:56](https://www.linkedin.com/learning/continuous-integration-tools-20202338/google-cloud-platform-gcp-cloud-build?u=76281980&t=56)** Once a trigger is added, Cloud Build is activated when a new commit is pushed to the repo.
 >
@@ -1000,7 +984,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/continuous-integration-tools-20202338/google-cloud-platform-gcp-cloud-build?u=76281980&t=75)** To do anything beyond creating an image like testing or deploying, a Cloud Build configuration file is required.
 >
-> **[1:23](https://www.linkedin.com/learning/continuous-integration-tools-20202338/google-cloud-platform-gcp-cloud-build?u=76281980&t=83)** Build steps are defined in a file named cloudbuild.yml, or if you're more of a JSON fan, you can use the JSON format in a file named cloudbuild.json.
+> **[1:23](https://www.linkedin.com/learning/continuous-integration-tools-20202338/google-cloud-platform-gcp-cloud-build?u=76281980&t=83)** Build steps are defined in a file named cloudbuild.yml, or if you're more of a [[JSON]] fan, you can use the JSON format in a file named cloudbuild.json.
 >
 > **[1:36](https://www.linkedin.com/learning/continuous-integration-tools-20202338/google-cloud-platform-gcp-cloud-build?u=76281980&t=96)** This file is usually located in the root directory of the project.
 >
@@ -1042,7 +1026,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (15), gcp (3), [[JSON]] (3), ci (2), cd (2)
+> **Frameworks & Libraries:** [[JSON]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Kubernetes]] (1), [[Bitbucket]] (1), [[GitHub]] (1)
 > **Env Vars:** gcp (3), json (2), env (1), aws (1)
 > **CLI Commands:** cd (2), docker (1), aws (1), make (1)
 > **File Paths:** cloudbuild.yml (2), cloudbuild.json (1)
@@ -1050,8 +1034,7 @@ created: 2026-05-02
 > **Tools:** bitbucket (1), github (1)
 > **Versions:** 0.003 (1)
 
-#### Comparing cloud service provider tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-cloud-service-provider-tools?u=76281980)
+#### [Comparing cloud service provider tools](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-cloud-service-provider-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1065,7 +1048,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-cloud-service-provider-tools?u=76281980&t=32)** Each tool contributes to modeling pipelines with stages, actions, and reusable build components.
 >
-> **[0:40](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-cloud-service-provider-tools?u=76281980&t=40)** Azure Pipelines ties in nicely with the project management features of the Azure DevOps platform.
+> **[0:40](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-cloud-service-provider-tools?u=76281980&t=40)** [[Microsoft Azure|Azure]] Pipelines ties in nicely with the project management features of the Azure [[DevOps]] platform.
 >
 > **[0:46](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-cloud-service-provider-tools?u=76281980&t=46)** Azure Pipelines also includes features for release management.
 >
@@ -1077,7 +1060,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), ci (3), management (3), [[Microsoft Azure|Azure]] (3), cd (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[DevOps]] (1)
 > **CLI Commands:** cd (2), aws (1)
 > **Env Vars:** aws (1), gcp (1)
 
@@ -1086,18 +1069,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GitHub Actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/github-actions?u=76281980)
+#### [GitHub Actions](https://www.linkedin.com/learning/continuous-integration-tools-20202338/github-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/continuous-integration-tools-20202338/github-actions?u=76281980&t=0)** Code repositories allow us to manage our code along with the CI/CD services, running our tests and deployments.
 >
-> **[0:07](https://www.linkedin.com/learning/continuous-integration-tools-20202338/github-actions?u=76281980&t=7)** There are some really amazing tools in this category, including this one, GitHub Actions.
+> **[0:07](https://www.linkedin.com/learning/continuous-integration-tools-20202338/github-actions?u=76281980&t=7)** There are some really amazing tools in this category, including this one, [[GitHub]] Actions.
 >
-> **[0:13](https://www.linkedin.com/learning/continuous-integration-tools-20202338/github-actions?u=76281980&t=13)** GitHub is one of the world's most popular code repositories, with millions of users, more than 100 million repositories, and a suite of tools for modern software development, including continuous integration.
+> **[0:13](https://www.linkedin.com/learning/continuous-integration-tools-20202338/github-actions?u=76281980&t=13)** GitHub is one of the world's most popular code repositories, with millions of users, more than 100 million repositories, and a suite of tools for modern [[Software Development]], including [[Continuous Integration (CI)|continuous integration]].
 >
-> **[0:26](https://www.linkedin.com/learning/continuous-integration-tools-20202338/github-actions?u=76281980&t=26)** GitHub provides Git-based source code management and is home to thousands of open-source projects.
+> **[0:26](https://www.linkedin.com/learning/continuous-integration-tools-20202338/github-actions?u=76281980&t=26)** GitHub provides [[Git]]-based source code management and is home to thousands of open-source projects.
 >
 > **[0:33](https://www.linkedin.com/learning/continuous-integration-tools-20202338/github-actions?u=76281980&t=33)** Access to GitHub is free and includes unlimited public and private repositories.
 >
@@ -1105,7 +1087,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/continuous-integration-tools-20202338/github-actions?u=76281980&t=48)** This includes tools for getting notifications, conducting code reviews, scanning code for security vulnerabilities, and much more.
 >
-> **[0:56](https://www.linkedin.com/learning/continuous-integration-tools-20202338/github-actions?u=76281980&t=56)** GitHub also includes GitHub Actions, a workflow management tool for repositories hosted on GitHub.
+> **[0:56](https://www.linkedin.com/learning/continuous-integration-tools-20202338/github-actions?u=76281980&t=56)** GitHub also includes GitHub Actions, a [[Workflow Management]] tool for repositories hosted on GitHub.
 >
 > **[1:04](https://www.linkedin.com/learning/continuous-integration-tools-20202338/github-actions?u=76281980&t=64)** Workflows are configured with YAML files stored in a hidden folder named .github/ workflows.
 >
@@ -1115,7 +1097,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/continuous-integration-tools-20202338/github-actions?u=76281980&t=92)** This includes activity that might not even involve code, like adding comments to pull requests, or when someone new joins a project.
 >
-> **[1:42](https://www.linkedin.com/learning/continuous-integration-tools-20202338/github-actions?u=76281980&t=102)** GitHub actions provides compute environments for Windows, Linux, and macOS called runners.
+> **[1:42](https://www.linkedin.com/learning/continuous-integration-tools-20202338/github-actions?u=76281980&t=102)** GitHub actions provides compute environments for [[Windows]], [[Linux]], and macOS called runners.
 >
 > **[1:50](https://www.linkedin.com/learning/continuous-integration-tools-20202338/github-actions?u=76281980&t=110)** You can also host your own runners for more flexibility.
 >
@@ -1149,7 +1131,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (17), ci (2), cd (2), [[Software Development]] (2), [[Continuous Integration (CI)|Continuous integration]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (17), [[Software Development]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Git]] (1), [[Workflow Management]] (1)
 > **Tools:** github (17)
 > **CLI Commands:** cd (2), git (1), find (1)
 > **Env Vars:** yaml (1), api (1)
@@ -1157,18 +1139,17 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Exercise Files:** source code (1)
 
-#### GitLab CI
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/gitlab-ci?u=76281980)
+#### [GitLab CI](https://www.linkedin.com/learning/continuous-integration-tools-20202338/gitlab-ci?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-integration-tools-20202338/gitlab-ci?u=76281980&t=0)** [Gitlab.com](https://Gitlab.com) includes code management, project planning, and of course, continuous integration.
+> **[0:00](https://www.linkedin.com/learning/continuous-integration-tools-20202338/gitlab-ci?u=76281980&t=0)** [Gitlab.com](https://Gitlab.com) includes code management, project planning, and of course, [[Continuous Integration (CI)|continuous integration]].
 >
-> **[0:09](https://www.linkedin.com/learning/continuous-integration-tools-20202338/gitlab-ci?u=76281980&t=9)** GitLab's core functionality is Git-based code management and collaboration.
+> **[0:09](https://www.linkedin.com/learning/continuous-integration-tools-20202338/gitlab-ci?u=76281980&t=9)** GitLab's core functionality is [[Git]]-based code management and collaboration.
 >
-> **[0:15](https://www.linkedin.com/learning/continuous-integration-tools-20202338/gitlab-ci?u=76281980&t=15)** Fans of open-source software will be happy to know that GitLab is an open-source product, with some portions licensed as source available.
+> **[0:15](https://www.linkedin.com/learning/continuous-integration-tools-20202338/gitlab-ci?u=76281980&t=15)** Fans of [[Open-Source Software]] will be happy to know that GitLab is an open-source product, with some portions licensed as source available.
 >
-> **[0:24](https://www.linkedin.com/learning/continuous-integration-tools-20202338/gitlab-ci?u=76281980&t=24)** All of the code is available on [gitlab.com](https://gitlab.com) and [github.com](https://github.com).
+> **[0:24](https://www.linkedin.com/learning/continuous-integration-tools-20202338/gitlab-ci?u=76281980&t=24)** All of the code is available on [gitlab.com](https://gitlab.com) and [[[GitHub]].com](https://github.com).
 >
 > **[0:29](https://www.linkedin.com/learning/continuous-integration-tools-20202338/gitlab-ci?u=76281980&t=29)** If you want to raise an issue with the development team or submit a pull request, you can start from either site.
 >
@@ -1176,9 +1157,9 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/continuous-integration-tools-20202338/gitlab-ci?u=76281980&t=43)** GitLab CI is GitLab's continuous integration service.
 >
-> **[0:48](https://www.linkedin.com/learning/continuous-integration-tools-20202338/gitlab-ci?u=76281980&t=48)** Linux is the primary platform for hosted runners on GitLab.
+> **[0:48](https://www.linkedin.com/learning/continuous-integration-tools-20202338/gitlab-ci?u=76281980&t=48)** [[Linux]] is the primary platform for hosted runners on GitLab.
 >
-> **[0:52](https://www.linkedin.com/learning/continuous-integration-tools-20202338/gitlab-ci?u=76281980&t=52)** At the time I'm recording this, beta support is available for hosted runners using Windows and macOS.
+> **[0:52](https://www.linkedin.com/learning/continuous-integration-tools-20202338/gitlab-ci?u=76281980&t=52)** At the time I'm recording this, beta support is available for hosted runners using [[Windows]] and macOS.
 >
 > **[0:58](https://www.linkedin.com/learning/continuous-integration-tools-20202338/gitlab-ci?u=76281980&t=58)** Using your own self-hosted runners is also an option.
 >
@@ -1200,11 +1181,11 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/continuous-integration-tools-20202338/gitlab-ci?u=76281980&t=123)** We can also view pipeline metrics by selecting "Analyze" and then "CI/CD analytics".
 >
-> **[2:09](https://www.linkedin.com/learning/continuous-integration-tools-20202338/gitlab-ci?u=76281980&t=129)** From this view, we can see a variety of statistics from previous pipeline runs. Along with CI/CD, GitLab has many more features, making it a viable platform for software development, security auditing, and project management.
+> **[2:09](https://www.linkedin.com/learning/continuous-integration-tools-20202338/gitlab-ci?u=76281980&t=129)** From this view, we can see a variety of [[Statistics]] from previous pipeline runs. Along with CI/CD, GitLab has many more features, making it a viable platform for [[Software Development]], security auditing, and project management.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (7), management (3), [[Continuous Integration (CI)|Continuous integration]] (2), open-source (2), cd (2)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (2), [[Git]] (1), [[Open-Source Software]] (1), [[GitHub]] (1), [[Linux]] (1)
 > **Tools:** gitlab (14), github (1)
 > **URLs:** [gitlab.com](https://gitlab.com) (3), [github.com](https://github.com) (1)
 > **CLI Commands:** cd (2), git (1)
@@ -1212,16 +1193,15 @@ created: 2026-05-02
 > **Code Identifiers:** macos (1)
 > **Definitions:** is an  (1)
 
-#### Bitbucket Pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bitbucket-pipelines?u=76281980)
+#### [Bitbucket Pipelines](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bitbucket-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bitbucket-pipelines?u=76281980&t=0)** Bitbucket pipelines is part of the Bitbucket Repository service offered by Atlassian, the same company that produces Jira, Confluence, and the self-hosted CI/CD system, Bamboo.
+> **[0:00](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bitbucket-pipelines?u=76281980&t=0)** [[Bitbucket]] pipelines is part of the Bitbucket Repository service offered by [[Atlassian]], the same company that produces [[Jira]], [[Confluence]], and the self-hosted CI/CD system, Bamboo.
 >
-> **[0:12](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bitbucket-pipelines?u=76281980&t=12)** Bitbucket provides source code management for Git and Mercurial revision control systems.
+> **[0:12](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bitbucket-pipelines?u=76281980&t=12)** Bitbucket provides source code management for [[Git]] and Mercurial revision control systems.
 >
-> **[0:19](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bitbucket-pipelines?u=76281980&t=19)** The repo service also integrates well with other Atlassian products for tracking issues and project management.
+> **[0:19](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bitbucket-pipelines?u=76281980&t=19)** The repo service also integrates well with other Atlassian [[Microsoft Products|products]] for tracking issues and project management.
 >
 > **[0:27](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bitbucket-pipelines?u=76281980&t=27)** Individual users can use Bitbucket for free.
 >
@@ -1249,7 +1229,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bitbucket-pipelines?u=76281980&t=105)** While the pipeline is running, we get an indicator showing the active step.
 >
-> **[1:53](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bitbucket-pipelines?u=76281980&t=113)** And if we select an active step, the logs are updated in real-time so we can follow along.
+> **[1:53](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bitbucket-pipelines?u=76281980&t=113)** And if we select an active step, the logs are updated in [[Real-Time]] so we can follow along.
 >
 > **[2:02](https://www.linkedin.com/learning/continuous-integration-tools-20202338/bitbucket-pipelines?u=76281980&t=122)** While the pipeline runs, let's look at the Deployments view.
 >
@@ -1265,7 +1245,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (10), [[Atlassian]] (2), management (2), teams (2), [[Jira]] (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (10), [[Atlassian]] (2), [[Jira]] (1), [[Confluence]] (1), [[Git]] (1)
 > **Tools:** bitbucket (10), jira (1), confluence (1)
 > **CLI Commands:** cd (1), git (1)
 > **File Paths:** bitbucket-pipeline.yml (1)
@@ -1273,8 +1253,7 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Prerequisites:** configure (1)
 
-#### Comparing code repository tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-code-repository-tools?u=76281980)
+#### [Comparing code repository tools](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-code-repository-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1286,7 +1265,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-code-repository-tools?u=76281980&t=28)** Code repo CI tools also provide hosted runners for a variety of operating systems, along with the option for us to use our own self-hosted runners.
 >
-> **[0:39](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-code-repository-tools?u=76281980&t=39)** Projects using GitHub Actions can include multiple workflows managed in separate files, and these workflows can be triggered by a variety of different activities taking place in the GitHub repo.
+> **[0:39](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-code-repository-tools?u=76281980&t=39)** Projects using [[GitHub]] Actions can include multiple workflows managed in separate files, and these workflows can be triggered by a variety of different activities taking place in the GitHub repo.
 >
 > **[0:52](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-code-repository-tools?u=76281980&t=52)** GitHub Actions workflows also benefit from the GitHub Marketplace, which is home to thousands of actions that can be used to build pipelines.
 >
@@ -1294,15 +1273,15 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-code-repository-tools?u=76281980&t=69)** GitLab CI also includes native tools for analyzing pipeline results and trends.
 >
-> **[1:15](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-code-repository-tools?u=76281980&t=75)** Bitbucket has strong features for observing pipeline execution and deployments to different environments.
+> **[1:15](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-code-repository-tools?u=76281980&t=75)** [[Bitbucket]] has strong features for observing pipeline execution and deployments to different environments.
 >
-> **[1:22](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-code-repository-tools?u=76281980&t=82)** It also provides integration with Atlassian project management applications.
+> **[1:22](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-code-repository-tools?u=76281980&t=82)** It also provides integration with [[Atlassian]] project management applications.
 >
 > **[1:28](https://www.linkedin.com/learning/continuous-integration-tools-20202338/comparing-code-repository-tools?u=76281980&t=88)** As we wrap up this overview of CI tools, let's discuss how we can use what we've learned to select the right tool.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (5), [[GitHub]] (4), next (1), [[Analytics]] (1), [[Bitbucket]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Bitbucket]] (1), [[Atlassian]] (1)
 > **Tools:** github (4), gitlab (2), bitbucket (1)
 > **Env Vars:** yaml (1)
 > **Exercise Files:** github repo (1)
@@ -1312,8 +1291,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Selecting the right CI tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/continuous-integration-tools-20202338/selecting-the-right-ci-tool?u=76281980)
+#### [Selecting the right CI tool](https://www.linkedin.com/learning/continuous-integration-tools-20202338/selecting-the-right-ci-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1321,7 +1299,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/continuous-integration-tools-20202338/selecting-the-right-ci-tool?u=76281980&t=3)** Let's wind things down by figuring out how to pick the right tool for you and your CI/CD projects.
 >
-> **[0:10](https://www.linkedin.com/learning/continuous-integration-tools-20202338/selecting-the-right-ci-tool?u=76281980&t=10)** We separated tools into four categories: Self-hosted, Software as a Service, cloud service providers, and code repositories.
+> **[0:10](https://www.linkedin.com/learning/continuous-integration-tools-20202338/selecting-the-right-ci-tool?u=76281980&t=10)** We separated tools into four categories: Self-hosted, [[SaaS|Software as a Service]], cloud service providers, and code repositories.
 >
 > **[0:19](https://www.linkedin.com/learning/continuous-integration-tools-20202338/selecting-the-right-ci-tool?u=76281980&t=19)** Self-hosted tools are going to require the most from you in terms of setting up the infrastructure, installing the software, and maintaining everything for as long as you're actively using CI/CD.
 >
@@ -1329,11 +1307,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/continuous-integration-tools-20202338/selecting-the-right-ci-tool?u=76281980&t=38)** Tools in the Software as a Service category make it easy to get up to speed quickly, because the vendor providing the CI/CD service takes the responsibility of hosting the software for you.
 >
-> **[0:50](https://www.linkedin.com/learning/continuous-integration-tools-20202338/selecting-the-right-ci-tool?u=76281980&t=50)** Cloud service providers have an edge over other CI/CD vendors because they can offer integrations with cloud-based products and services.
+> **[0:50](https://www.linkedin.com/learning/continuous-integration-tools-20202338/selecting-the-right-ci-tool?u=76281980&t=50)** Cloud service providers have an edge over other CI/CD vendors because they can offer integrations with cloud-based [[Microsoft Products|products]] and services.
 >
-> **[0:59](https://www.linkedin.com/learning/continuous-integration-tools-20202338/selecting-the-right-ci-tool?u=76281980&t=59)** With this option, you can easily have your CI/CD running on the same platform hosting your networks, servers, and databases.
+> **[0:59](https://www.linkedin.com/learning/continuous-integration-tools-20202338/selecting-the-right-ci-tool?u=76281980&t=59)** With this option, you can easily have your CI/CD running on the same platform hosting your networks, servers, and [[Databases]].
 >
-> **[1:07](https://www.linkedin.com/learning/continuous-integration-tools-20202338/selecting-the-right-ci-tool?u=76281980&t=67)** And rounding out the pack are the code repositories that we rely on to store code that eventually becomes software. Using the same platform to manage CI/CD, along with managing our code, can simplify collaboration, issue tracking, and many other parts of the software development process.
+> **[1:07](https://www.linkedin.com/learning/continuous-integration-tools-20202338/selecting-the-right-ci-tool?u=76281980&t=67)** And rounding out the pack are the code repositories that we rely on to store code that eventually becomes software. Using the same platform to manage CI/CD, along with managing our code, can simplify collaboration, issue tracking, and many other parts of the [[Software Development]] process.
 >
 > **[1:26](https://www.linkedin.com/learning/continuous-integration-tools-20202338/selecting-the-right-ci-tool?u=76281980&t=86)** So when it comes to you and your code, which tool category makes the most sense?
 >
@@ -1365,11 +1343,11 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/continuous-integration-tools-20202338/selecting-the-right-ci-tool?u=76281980&t=169)** Thanks for joining me for this course.
 >
-> **[2:52](https://www.linkedin.com/learning/continuous-integration-tools-20202338/selecting-the-right-ci-tool?u=76281980&t=172)** I wish you all the best on your journey with continuous integration tools.
+> **[2:52](https://www.linkedin.com/learning/continuous-integration-tools-20202338/selecting-the-right-ci-tool?u=76281980&t=172)** I wish you all the best on your journey with [[Continuous Integration (CI)|continuous integration]] tools.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (10), cd (6), cloud (4), [[SaaS|Software as a service]] (2), business (2)
+> **Frameworks & Libraries:** [[SaaS|Software as a service]] (2), [[Microsoft Products|Products]] (1), [[Databases]] (1), [[Software Development]] (1)
 > **CLI Commands:** cd (6), make (1), find (1)
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** you'll need (1)

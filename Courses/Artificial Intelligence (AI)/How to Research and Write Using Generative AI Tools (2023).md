@@ -70,12 +70,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Meet your AI creative collaborator
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/meet-your-ai-creative-collaborator?u=76281980)
+#### [Meet your AI creative collaborator](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/meet-your-ai-creative-collaborator?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/meet-your-ai-creative-collaborator?u=76281980&t=3)** - You've probably heard people talking about generative AI and ChatGPT.
+> **[0:03](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/meet-your-ai-creative-collaborator?u=76281980&t=3)** - You've probably heard people talking about [[Generative AI]] and [[ChatGPT]].
 >
 > **[0:08](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/meet-your-ai-creative-collaborator?u=76281980&t=8)** Maybe you've had a play with it and it's just not delivered results that have impressed you, or maybe you've had lots of fun but you don't see how that then fits in with your day job.
 >
@@ -111,7 +110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[ChatGPT]] (2), [[Generative AI]] (1), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Generative AI]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 
@@ -120,8 +119,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to work with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-work-with-ai?u=76281980)
+#### [How to work with AI](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-work-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -129,7 +127,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-work-with-ai?u=76281980&t=3)** - Hello and welcome to the course.
 >
-> **[0:05](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-work-with-ai?u=76281980&t=5)** Over the next few lessons, I'm going to be showing you how to use ChatGPT to improve your research and your writing.
+> **[0:05](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-work-with-ai?u=76281980&t=5)** Over the next few lessons, I'm going to be showing you how to use [[ChatGPT]] to improve your research and your writing.
 >
 > **[0:14](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-work-with-ai?u=76281980&t=14)** If you've not done so already, then head along here and sign up to ChatGPT.
 >
@@ -159,7 +157,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-work-with-ai?u=76281980&t=102)** You still need to add your own thinking and apply your judgment, expertise, and abilities.
 >
-> **[1:49](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-work-with-ai?u=76281980&t=109)** Let me start by talking about how we should work with generative AI and ChatGPT in particular.
+> **[1:49](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-work-with-ai?u=76281980&t=109)** Let me start by talking about how we should work with [[Generative AI]] and ChatGPT in particular.
 >
 > **[1:56](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-work-with-ai?u=76281980&t=116)** First, let's talk about your attitude.
 >
@@ -219,15 +217,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[ChatGPT]] (6), prompt (3), next (2), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Generative AI]] (1)
 > **Non-Speech:** (keyboard clicking) (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - hello (1)
 
-#### How to write an effective prompt for AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-write-an-effective-prompt-for-ai?u=76281980)
+#### [How to write an effective prompt for AI](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-write-an-effective-prompt-for-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -237,7 +234,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-write-an-effective-prompt-for-ai?u=76281980&t=11)** That's the term for it.
 >
-> **[0:14](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-write-an-effective-prompt-for-ai?u=76281980&t=14)** Let's understand that ChatGPT is drawing on a massive dataset taken from numerous sources.
+> **[0:14](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-write-an-effective-prompt-for-ai?u=76281980&t=14)** Let's understand that [[ChatGPT]] is drawing on a massive dataset taken from numerous sources.
 >
 > **[0:20](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-write-an-effective-prompt-for-ai?u=76281980&t=20)** This covers lots of topics and ranges from great quality to low quality.
 >
@@ -301,7 +298,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-write-an-effective-prompt-for-ai?u=76281980&t=194)** Tell ChatGPT exactly how you want it to format its response.
 >
-> **[3:20](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-write-an-effective-prompt-for-ai?u=76281980&t=200)** An example might be, deliver your response as a 500-word article with a headline and a conclusion.
+> **[3:20](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-write-an-effective-prompt-for-ai?u=76281980&t=200)** An example might be, deliver your response as a 500-[[Microsoft Word|word]] article with a headline and a conclusion.
 >
 > **[3:27](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-write-an-effective-prompt-for-ai?u=76281980&t=207)** The type of output can include articles, bullet points, tables, poems, jokes, scripts, just about anything that can be written.
 >
@@ -343,7 +340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (7), prompt (6), ai (3), next (2), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Microsoft Word|Word]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** create (2)
@@ -351,8 +348,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - there (1)
 
-#### How to work with the responses from a generative AI chatbot
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-work-with-the-responses-from-a-generative-ai-chatbot?u=76281980)
+#### [How to work with the responses from a generative AI chatbot](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-work-with-the-responses-from-a-generative-ai-chatbot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -378,7 +374,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-work-with-the-responses-from-a-generative-ai-chatbot?u=76281980&t=39)** It's a conversation.
 >
-> **[0:41](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-work-with-the-responses-from-a-generative-ai-chatbot?u=76281980&t=41)** That's why ChatGPT starts with the word chat.
+> **[0:41](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-work-with-the-responses-from-a-generative-ai-chatbot?u=76281980&t=41)** That's why [[ChatGPT]] starts with the [[Microsoft Word|word]] chat.
 >
 > **[0:45](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/how-to-work-with-the-responses-from-a-generative-ai-chatbot?u=76281980&t=45)** You should think about the AI as a collaborator rather than as a servant.
 >
@@ -422,7 +418,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Search]] (2), [[ChatGPT]] (2), [[Microsoft Word|Word]] (1), product (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Non-Speech:** (keys typing) (2)
 > **Cross-References:** in the next (1)
@@ -435,8 +431,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using AI to summarize complex information
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-summarize-complex-information?u=76281980)
+#### [Using AI to summarize complex information](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-summarize-complex-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -456,7 +451,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-summarize-complex-information?u=76281980&t=32)** So (chuckles) the breadth of your input actually dictates the opportunity for your output.
 >
-> **[0:39](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-summarize-complex-information?u=76281980&t=39)** So we're going to start looking at how we can use ChatGPT to help us with our research so that we can get more information and better information to work with.
+> **[0:39](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-summarize-complex-information?u=76281980&t=39)** So we're going to start looking at how we can use [[ChatGPT]] to help us with our research so that we can get more information and better information to work with.
 >
 > **[0:48](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-summarize-complex-information?u=76281980&t=48)** So let's start with our first prompt here that again uses our create framework, starting with our character and then looking at our request and moving on from there.
 >
@@ -614,7 +609,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), prompt (3), ai (1), data (1), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3)
 > **Cross-References:** coming up (2), in the next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -622,8 +617,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - if (1)
 
-#### Using AI to view things from multiple perspectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-view-things-from-multiple-perspectives?u=76281980)
+#### [Using AI to view things from multiple perspectives](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-view-things-from-multiple-perspectives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -649,7 +643,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-view-things-from-multiple-perspectives?u=76281980&t=56)** Okay.
 >
-> **[0:57](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-view-things-from-multiple-perspectives?u=76281980&t=57)** And because we're doing this course right now, let's make the topic artificial intelligence.
+> **[0:57](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-view-things-from-multiple-perspectives?u=76281980&t=57)** And because we're doing this course right now, let's make the topic [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[1:10](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-view-things-from-multiple-perspectives?u=76281980&t=70)** Sometimes it takes Chat GPT a little bit of time to respond, so let's wait.
 >
@@ -731,15 +725,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), prompt (1), power (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** means that (2), is an  (1)
 > **Env Vars:** gpt (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - when (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Using AI to get advice from the best experts
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-get-advice-from-the-best-experts?u=76281980)
+#### [Using AI to get advice from the best experts](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-get-advice-from-the-best-experts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -757,7 +750,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-get-advice-from-the-best-experts?u=76281980&t=18)** Imagine what they could do to prompt your thinking in different directions.
 >
-> **[0:22](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-get-advice-from-the-best-experts?u=76281980&t=22)** Well, now you can actually get time with virtual versions of these people using ChatGPT.
+> **[0:22](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-get-advice-from-the-best-experts?u=76281980&t=22)** Well, now you can actually get time with virtual versions of these people using [[ChatGPT]].
 >
 > **[0:29](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-get-advice-from-the-best-experts?u=76281980&t=29)** So let's have a look here.
 >
@@ -789,7 +782,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-get-advice-from-the-best-experts?u=76281980&t=85)** Let's see what this virtual consultant comes up with.
 >
-> **[1:39](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-get-advice-from-the-best-experts?u=76281980&t=99)** So this has given me a really, really good overview where it takes us through the different steps explaining why they're important, all the way through from conducting market research, developing a unique value proposition, building a strong local network.
+> **[1:39](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-get-advice-from-the-best-experts?u=76281980&t=99)** So this has given me a really, really good overview where it takes us through the different steps explaining why they're important, all the way through from conducting [[Market Research]], developing a unique value proposition, building a strong local network.
 >
 > **[1:53](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-get-advice-from-the-best-experts?u=76281980&t=113)** You know, giving us a conclusion at the end.
 >
@@ -891,15 +884,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), prompt (2), [[ChatGPT]] (2), [[Market Research]] (1), database (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Market Research]] (1)
 > **Analogies:** imagine (7), it's like (4)
 > **CLI Commands:** make (2), find (2)
 > **Cross-References:** coming up (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - imagine (1)
 
-#### Using AI to help you create fast user personas
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-help-you-create-fast-user-personas?u=76281980)
+#### [Using AI to help you create fast user personas](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-help-you-create-fast-user-personas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -913,7 +905,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-help-you-create-fast-user-personas?u=76281980&t=21)** So this is just a way of challenging your own thinking of augmenting your own thinking.
 >
-> **[0:26](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-help-you-create-fast-user-personas?u=76281980&t=26)** "You are an expert user experience designer with expertise in analyzing audiences."
+> **[0:26](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-help-you-create-fast-user-personas?u=76281980&t=26)** "You are an expert [[User Experience (UX)|user experience]] designer with expertise in analyzing audiences."
 >
 > **[0:31](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-help-you-create-fast-user-personas?u=76281980&t=31)** That's our character.
 >
@@ -955,7 +947,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-help-you-create-fast-user-personas?u=76281980&t=134)** You are highly experienced at user research and finding valuable human insights."
 >
-> **[2:18](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-help-you-create-fast-user-personas?u=76281980&t=138)** We've given ChatGPT it's character, now for the request.
+> **[2:18](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-help-you-create-fast-user-personas?u=76281980&t=138)** We've given [[ChatGPT]] it's character, now for the request.
 >
 > **[2:21](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-help-you-create-fast-user-personas?u=76281980&t=141)** "Write me a user persona for [PERSON]," so that's one of our audiences, "who [SITUATION]," that's in our third column here that we've created, "include a short biography, their goals, their needs and wants, their pinpoints, their motivations and who influences the most.
 >
@@ -995,7 +987,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), product (3), [[User Experience (UX)|User experience]] (2), [[ChatGPT]] (2)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[ChatGPT]] (2)
 > **Exercise Files:** template (4)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** person (1), situation (1)
@@ -1003,8 +995,7 @@ created: 2026-05-02
 > **Code Identifiers:** ipad (1)
 > **Speakers:** - one (1)
 
-#### Using AI to discover and use new strategic models
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-discover-and-use-new-strategic-models?u=76281980)
+#### [Using AI to discover and use new strategic models](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-discover-and-use-new-strategic-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1014,7 +1005,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-discover-and-use-new-strategic-models?u=76281980&t=10)** Most importantly, they're great ways of aligning people's thinking.
 >
-> **[0:15](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-discover-and-use-new-strategic-models?u=76281980&t=15)** So, let's have a look at how we can use ChatGPT to do a number of things here.
+> **[0:15](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-discover-and-use-new-strategic-models?u=76281980&t=15)** So, let's have a look at how we can use [[ChatGPT]] to do a number of things here.
 >
 > **[0:20](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-discover-and-use-new-strategic-models?u=76281980&t=20)** First of all, to give us suggestions of strategic models that might be relevant to us.
 >
@@ -1140,15 +1131,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (4), prompt (3), business (2), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4)
 > **Env Vars:** swot (3)
 > **Non-Speech:** (keyboard clicking) (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - strategic (1)
 
-#### Using AI to discover interesting facts and statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-discover-interesting-facts-and-statistics?u=76281980)
+#### [Using AI to discover interesting facts and statistics](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-discover-interesting-facts-and-statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1156,7 +1146,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-discover-interesting-facts-and-statistics?u=76281980&t=3)** - As I said in a previous video, there's a better chance of us getting great results if we're working with great information, especially if that information is stuff that other people aren't working with.
 >
-> **[0:15](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-discover-interesting-facts-and-statistics?u=76281980&t=15)** So I've got to be honest, ChatGPT is not great at getting us the information and the sources that we would need.
+> **[0:15](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-discover-interesting-facts-and-statistics?u=76281980&t=15)** So I've got to be honest, [[ChatGPT]] is not great at getting us the information and the sources that we would need.
 >
 > **[0:24](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-discover-interesting-facts-and-statistics?u=76281980&t=24)** It sometimes makes things up.
 >
@@ -1170,7 +1160,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-discover-interesting-facts-and-statistics?u=76281980&t=49)** That's quite important.
 >
-> **[0:51](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-discover-interesting-facts-and-statistics?u=76281980&t=51)** I want you to supply me with 10 search engine queries I should use to find mind-blowing facts and statistics about some topic.
+> **[0:51](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-discover-interesting-facts-and-statistics?u=76281980&t=51)** I want you to supply me with 10 search engine queries I should use to find mind-blowing facts and [[Statistics]] about some topic.
 >
 > **[1:01](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-discover-interesting-facts-and-statistics?u=76281980&t=61)** Make the search terms specific and powerful to help us get to the information we need faster.
 >
@@ -1258,7 +1248,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (10), prompt (5), [[ChatGPT]] (1), [[Statistics]] (1), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Statistics]] (1)
 > **CLI Commands:** find (6), make (2)
 > **Non-Speech:** (text typing) (2), (twinkling music) (2)
 > **Cross-References:** previous video (1)
@@ -1269,8 +1259,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using AI to analyze a writing style and help you write in a similar style
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-analyze-a-writing-style-and-help-you-write-in-a-similar-style?u=76281980)
+#### [Using AI to analyze a writing style and help you write in a similar style](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-analyze-a-writing-style-and-help-you-write-in-a-similar-style?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1278,7 +1267,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-analyze-a-writing-style-and-help-you-write-in-a-similar-style?u=76281980&t=7)** They can change the way they write according to the audience, according to the brand, and that makes sure that the copy can be as powerful as possible.
 >
-> **[0:15](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-analyze-a-writing-style-and-help-you-write-in-a-similar-style?u=76281980&t=15)** So let's have a look at how we can find out what the tone of a piece of copy is using ChatGPT.
+> **[0:15](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-analyze-a-writing-style-and-help-you-write-in-a-similar-style?u=76281980&t=15)** So let's have a look at how we can find out what the tone of a piece of copy is using [[ChatGPT]].
 >
 > **[0:23](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-analyze-a-writing-style-and-help-you-write-in-a-similar-style?u=76281980&t=23)** So what we can do is we can put in a prompt here which is quite a long prompt.
 >
@@ -1376,7 +1365,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-analyze-a-writing-style-and-help-you-write-in-a-similar-style?u=76281980&t=244)** I don't need to go through that.
 >
-> **[4:06](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-analyze-a-writing-style-and-help-you-write-in-a-similar-style?u=76281980&t=246)** Consider the use of quotes, facts, statistics, jargon and stories, and what perspective it was written from.
+> **[4:06](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-analyze-a-writing-style-and-help-you-write-in-a-similar-style?u=76281980&t=246)** Consider the use of quotes, facts, [[Statistics]], jargon and stories, and what perspective it was written from.
 >
 > **[4:13](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-analyze-a-writing-style-and-help-you-write-in-a-similar-style?u=76281980&t=253)** Then write a prompt for ChatGPT that can be used to apply the same tone of voice characteristics to a different topic.
 >
@@ -1448,14 +1437,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (12), [[ChatGPT]] (3), [[Statistics]] (2), hit (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Statistics]] (2)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - something (1)
 
-#### Using AI to get interesting headline and article ideas
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-get-interesting-headline-and-article-ideas?u=76281980)
+#### [Using AI to get interesting headline and article ideas](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-get-interesting-headline-and-article-ideas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1465,7 +1453,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-get-interesting-headline-and-article-ideas?u=76281980&t=10)** You just end up coming up with the same kinds of ideas again and again.
 >
-> **[0:15](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-get-interesting-headline-and-article-ideas?u=76281980&t=15)** So you might want to use chatGPT as a way of trying to nudge your thinking in different directions maybe get you thinking about content that wouldn't naturally occur to you.
+> **[0:15](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-get-interesting-headline-and-article-ideas?u=76281980&t=15)** So you might want to use [[ChatGPT]] as a way of trying to nudge your thinking in different directions maybe get you thinking about content that wouldn't naturally occur to you.
 >
 > **[0:26](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-get-interesting-headline-and-article-ideas?u=76281980&t=26)** So let's have a look at how we can use some prompts to do that.
 >
@@ -1519,7 +1507,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-get-interesting-headline-and-article-ideas?u=76281980&t=150)** That's something I'm very interested in.
 >
-> **[2:32](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-get-interesting-headline-and-article-ideas?u=76281980&t=152)** Artificial Intelligence and Creativity: A Match Made In Heaven question mark?
+> **[2:32](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-get-interesting-headline-and-article-ideas?u=76281980&t=152)** [[Artificial Intelligence (AI)|Artificial Intelligence]] and Creativity: A Match Made In Heaven question mark?
 >
 > **[2:37](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-get-interesting-headline-and-article-ideas?u=76281980&t=157)** So it's using some formats for successful headlines and it's applying it to these headlines.
 >
@@ -1619,7 +1607,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (8), prompt (5), next (3), web (2), teams (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Code Identifiers:** chatgpt (8)
 > **UI Navigation:** click on (2)
 > **Non-Speech:** (keyboard typing) (2)
@@ -1627,8 +1615,7 @@ created: 2026-05-02
 > **Cross-References:** coming up (1)
 > **Speakers:** - now (1)
 
-#### Using AI to help you outline your content
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-help-you-outline-your-content?u=76281980)
+#### [Using AI to help you outline your content](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-help-you-outline-your-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1764,7 +1751,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), next (2), hit (1), power (1), business (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** gpt (4)
 > **Definitions:** means that (2)
@@ -1773,8 +1759,7 @@ created: 2026-05-02
 > **Speakers:** - as (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Using AI to improve your writing
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-improve-your-writing?u=76281980)
+#### [Using AI to improve your writing](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/using-ai-to-improve-your-writing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1932,7 +1917,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), ai (3), next (1)
 > **Env Vars:** gpt (7)
 > **CLI Commands:** make (6)
 > **Definitions:** means that (3), is a  (1)
@@ -1943,8 +1927,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/summary-and-next-steps?u=76281980)
+#### [Summary and next steps](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/summary-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1960,7 +1943,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/summary-and-next-steps?u=76281980&t=27)** You might find some other treats on that page as well, so head along there.
 >
-> **[0:31](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/summary-and-next-steps?u=76281980&t=31)** You may also be interested in some of my other LinkedIn learning courses.
+> **[0:31](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/summary-and-next-steps?u=76281980&t=31)** You may also be interested in some of my other [[LinkedIn]] learning courses.
 >
 > **[0:35](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools-2023/summary-and-next-steps?u=76281980&t=35)** I've got courses on creativity.
 >
@@ -1980,7 +1963,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), ai (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **Non-Speech:** (keyboard keys clicking) (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** pdf (1)

@@ -98,16 +98,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### WordPress and Gatsby working hand in hand
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/wordpress-and-gatsby-working-hand-in-hand?u=76281980)
+#### [WordPress and Gatsby working hand in hand](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/wordpress-and-gatsby-working-hand-in-hand?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/wordpress-and-gatsby-working-hand-in-hand?u=76281980&t=0)** - [Morten] The modern web runs on JavaScript, and JavaScript frameworks like React are quickly evolving our understanding of what websites and applications are, and how they work.
+> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/wordpress-and-gatsby-working-hand-in-hand?u=76281980&t=0)** - [Morten] The modern web runs on [[JavaScript]], and JavaScript frameworks like [[React.js|React]] are quickly evolving our understanding of what websites and applications are, and how they work.
 >
-> **[0:08](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/wordpress-and-gatsby-working-hand-in-hand?u=76281980&t=8)** While WordPress forged the way for self-publishing online and today powers a sizable portion of the web, It's becoming increasingly long in the tooth.
+> **[0:08](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/wordpress-and-gatsby-working-hand-in-hand?u=76281980&t=8)** While [[WordPress]] forged the way for self-publishing online and today powers a sizable portion of the web, It's becoming increasingly long in the tooth.
 >
-> **[0:15](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/wordpress-and-gatsby-working-hand-in-hand?u=76281980&t=15)** Enter Gatsby, a react-based site building framework that consumes data through GraphQL and outputs blazing fast modern web applications.
+> **[0:15](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/wordpress-and-gatsby-working-hand-in-hand?u=76281980&t=15)** Enter Gatsby, a react-based site building framework that consumes data through [[GraphQL]] and outputs blazing fast modern web applications.
 >
 > **[0:24](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/wordpress-and-gatsby-working-hand-in-hand?u=76281980&t=24)** This course picks up where the course Learning Gatsby leaves off, and assumes you're already familiar with both Gatsby and WordPress.
 >
@@ -119,11 +118,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[React.js|React]] (3), [[WordPress]] (3), [[JavaScript]] (2), data (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[WordPress]] (3), [[JavaScript]] (2), [[GraphQL]] (1)
 > **Speakers:** - [morten] (1)
 
-#### What will be covered in this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-will-be-covered-in-this-course?u=76281980)
+#### [What will be covered in this course](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-will-be-covered-in-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -131,13 +129,13 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-will-be-covered-in-this-course?u=76281980&t=3)** So here's a short breakdown of what will be covered and what you need to know before you start.
 >
-> **[0:07](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-will-be-covered-in-this-course?u=76281980&t=7)** In this course we'll take a deep dive into how to use WordPress as a data resource for Gatsby.
+> **[0:07](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-will-be-covered-in-this-course?u=76281980&t=7)** In this course we'll take a deep dive into how to use [[WordPress]] as a data resource for Gatsby.
 >
 > **[0:12](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-will-be-covered-in-this-course?u=76281980&t=12)** We're not simply building a Gatsby front end to a WordPress site.
 >
 > **[0:15](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-will-be-covered-in-this-course?u=76281980&t=15)** We're laying the foundations for WordPress to become one of many data sources for a Gatsby site.
 >
-> **[0:20](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-will-be-covered-in-this-course?u=76281980&t=20)** We'll start by giving WordPress a GraphQL interface for modern data access and management and explore the vast data sets made available from WordPress to Gatsby through GraphQL.
+> **[0:20](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-will-be-covered-in-this-course?u=76281980&t=20)** We'll start by giving WordPress a [[GraphQL]] interface for modern data access and management and explore the vast data sets made available from WordPress to Gatsby through GraphQL.
 >
 > **[0:30](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-will-be-covered-in-this-course?u=76281980&t=30)** Then we'll turn WordPress into a data source for a Gatsby site and we'll look at how to generate content and pages from WordPress data, including pages, menus, posts, indexes, tag and category archives and custom post types and taxonomies.
 >
@@ -155,7 +153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (10), data (7), [[GraphQL]] (3), management (1)
+> **Frameworks & Libraries:** [[WordPress]] (10), [[GraphQL]] (3)
 > **Env Vars:** aka (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - [instructor] (1)
@@ -165,12 +163,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Set up WordPress to work with Gatsby
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-wordpress-to-work-with-gatsby?u=76281980)
+#### [Set up WordPress to work with Gatsby](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-wordpress-to-work-with-gatsby?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-wordpress-to-work-with-gatsby?u=76281980&t=0)** - [Instructor] The goal and purpose of this course is to explore how we can use WordPress as a data source for Gatsby.
+> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-wordpress-to-work-with-gatsby?u=76281980&t=0)** - [Instructor] The goal and purpose of this course is to explore how we can use [[WordPress]] as a data source for Gatsby.
 >
 > **[0:05](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-wordpress-to-work-with-gatsby?u=76281980&t=5)** So it's self-evident, we need a WordPress site with some content to work with.
 >
@@ -218,7 +215,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-wordpress-to-work-with-gatsby?u=76281980&t=144)** Go to plugins, add new, and the first plugin you want to install is called WPGraphQL.
 >
-> **[2:34](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-wordpress-to-work-with-gatsby?u=76281980&t=154)** This plugin adds a GraphQL interface to WordPress.
+> **[2:34](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-wordpress-to-work-with-gatsby?u=76281980&t=154)** This plugin adds a [[GraphQL]] interface to WordPress.
 >
 > **[2:38](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-wordpress-to-work-with-gatsby?u=76281980&t=158)** That way, Gatsby can talk directly to GraphQL and pull data from WordPress.
 >
@@ -226,7 +223,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-wordpress-to-work-with-gatsby?u=76281980&t=170)** Click on that and you'll go to a graphical representation or interface for GraphQL in WordPress.
 >
-> **[2:57](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-wordpress-to-work-with-gatsby?u=76281980&t=177)** Now, we're not going to use this particular interface in the rest of the course because this is the GraphQL implementation for WordPress itself.
+> **[2:57](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-wordpress-to-work-with-gatsby?u=76281980&t=177)** Now, we're not going to use this particular interface in the [[Representational State Transfer (REST)|rest]] of the course because this is the GraphQL implementation for WordPress itself.
 >
 > **[3:05](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-wordpress-to-work-with-gatsby?u=76281980&t=185)** Gatsby uses a custom implementation of GraphQL just for Gatsby, and that's done using a second plugin.
 >
@@ -242,7 +239,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-wordpress-to-work-with-gatsby?u=76281980&t=227)** For that, we'll go to the front-end of the site, so just mywpsite.local and then type in /graphql.
 >
-> **[3:56](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-wordpress-to-work-with-gatsby?u=76281980&t=236)** When you run this in Firefox like I'm doing, Firefox recognizes that this return is in the JSON format so it gives you a JSON interface to read the data.
+> **[3:56](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-wordpress-to-work-with-gatsby?u=76281980&t=236)** When you run this in Firefox like I'm doing, Firefox recognizes that this return is in the [[JSON]] format so it gives you a JSON interface to read the data.
 >
 > **[4:05](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-wordpress-to-work-with-gatsby?u=76281980&t=245)** If you're doing this in Chrome, you'll just get the text without any formatting, but it's the same text.
 >
@@ -258,7 +255,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (30), data (9), [[GraphQL]] (9), web (2), front-end (2)
+> **Frameworks & Libraries:** [[WordPress]] (30), [[GraphQL]] (9), [[JSON]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** url (5), json (2), ide (1)
 > **UI Navigation:** go to (7), click on (1)
 > **Exercise Files:** exercise files (5), download the (1)
@@ -267,12 +264,11 @@ created: 2026-05-02
 > **Tools:** firefox (2)
 > **Definitions:** is called (1)
 
-#### Set up a Gatsby site using a starter
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980)
+#### [Set up a Gatsby site using a starter](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=0)** - [Instructor] Working with Gatsby and WordPress, you can go down one of two paths.
+> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=0)** - [Instructor] Working with Gatsby and [[WordPress]], you can go down one of two paths.
 >
 > **[0:04](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=4)** The first path is to use Gatsby as a decoupled headless front-end to WordPress.
 >
@@ -280,11 +276,11 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=12)** This way, anything that happens in WordPress also happens in your Gatsby site, and only what happens in WordPress happens in your Gatsby site.
 >
-> **[0:20](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=20)** That way you can take full advantage of all the features that Gatsby and React have to offer on the front-end of your WordPress site, but still manage all your content and work with your WordPress site the way you would in any other WordPress site.
+> **[0:20](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=20)** That way you can take full advantage of all the features that Gatsby and [[React.js|React]] have to offer on the front-end of your WordPress site, but still manage all your content and work with your WordPress site the way you would in any other WordPress site.
 >
 > **[0:31](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=31)** If you want to go down this path, you can pick up a Gatsby Starter for WordPress, and it's available directly from Gatsby.
 >
-> **[0:38](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=38)** Go to [gatsbyjs.com/starters](https://gatsbyjs.com/starters), and then I just type in WordPress, and you'll find whatever Gatsby Starters for WordPress are available.
+> **[0:38](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=38)** Go to [[[GatsbyJS]].com/starters](https://gatsbyjs.com/starters), and then I just type in WordPress, and you'll find whatever Gatsby Starters for WordPress are available.
 >
 > **[0:46](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=46)** Just install it, run it, link it up to your WordPress site, and you're good to go.
 >
@@ -292,7 +288,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=53)** It also doesn't take full advantage of what Gatsby has to offer.
 >
-> **[0:57](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=57)** The whole point of Gatsby is what's known as the content mesh, where we pull data from different sources and then use Gatsby to collate all that data and present it to the user in one cohesive site.
+> **[0:57](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=57)** The whole point of Gatsby is what's known as the content [[Mesh]], where we pull data from different sources and then use Gatsby to collate all that data and present it to the user in one cohesive site.
 >
 > **[1:10](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=70)** That's the path we'll go down in this course.
 >
@@ -310,7 +306,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=88)** From terminal, I'll simply type in gatsby new.
 >
-> **[1:32](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=92)** Now I can do this because I've already installed the Gatsby CLI.
+> **[1:32](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=92)** Now I can do this because I've already installed the Gatsby [[CLI]].
 >
 > **[1:35](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=95)** If you haven't done that before, and if you haven't worked with Gatsby before, I recommend you go watch the "Learning Gatsby" course to get familiar with how Gatsby works before you jump into this.
 >
@@ -344,7 +340,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=155)** Let's see here.
 >
-> **[2:36](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=156)** Google Analytics, no.
+> **[2:36](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=156)** [[Google]] Analytics, no.
 >
 > **[2:38](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=158)** Responsive images, yes.
 >
@@ -360,7 +356,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=175)** And now it says, "Configure the WordPress plugin."
 >
-> **[2:57](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=177)** And if you look at the very bottom, this should be the full URL to your GraphQL Endpoint set up by WPGraphQL.
+> **[2:57](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=177)** And if you look at the very bottom, this should be the full URL to your [[GraphQL]] Endpoint set up by WPGraphQL.
 >
 > **[3:05](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=185)** Remember how we tested that in the previous movies?
 >
@@ -382,7 +378,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=226)** All right, the installation is done.
 >
-> **[3:48](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=228)** Now in the instructions it says, "Now you can navigate cd gatsby-and-wordPress, and then npm run and develop.
+> **[3:48](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=228)** Now in the instructions it says, "Now you can navigate cd gatsby-and-wordPress, and then [[npm]] run and develop.
 >
 > **[3:54](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=234)** What I do when I work with Gatsby is the second I've installed Gatsby, I actually reopen VS Code in that folder so I don't have to navigate in through the terminal.
 >
@@ -410,7 +406,7 @@ created: 2026-05-02
 >
 > **[5:07](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=307)** And that means when I go to this URL here, local host 8,000 underscore underscore underscore GraphQL, so I'll hit Command and click to get to that.
 >
-> **[5:19](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=319)** We have access to GraphiQL, and on the Explorer side here, if I zoom in a bit, you see, we have all these entries that say "allWP."
+> **[5:19](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=319)** We have access to GraphiQL, and on the Explorer side here, if I [[Zoom]] in a bit, you see, we have all these entries that say "allWP."
 >
 > **[5:28](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/set-up-a-gatsby-site-using-a-starter?u=76281980&t=328)** So this is all the WordPress content that Gatsby has been able to pull out of WordPress.
 >
@@ -420,7 +416,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (28), data (7), [[GraphQL]] (6), front-end (3), hit (3)
+> **Frameworks & Libraries:** [[WordPress]] (28), [[GraphQL]] (6), [[React.js|React]] (2), [[GatsbyJS]] (1), [[Mesh]] (1)
 > **Tools:** terminal (5), vs code (2)
 > **Prerequisites:** install (4), set up (2), configure (1)
 > **Env Vars:** url (3), cli (1), cms (1), mdx (1)
@@ -429,14 +425,13 @@ created: 2026-05-02
 > **Code Identifiers:** graphql (1), wordpress (1), allwp (1)
 > **URLs:** [gatsbyjs.com](https://gatsbyjs.com) (1), [http://mywpsite.local/graphql](http://mywpsite.local/graphql) (1)
 
-#### Use the exercise files on GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/use-the-exercise-files-on-github?u=76281980)
+#### [Use the exercise files on GitHub](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/use-the-exercise-files-on-github?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/use-the-exercise-files-on-github?u=76281980&t=0)** - [Instructor] Now that you know how to boot up a Gatsby project from scratch, let me show you how to use the exercise files for this course so you can follow along with me 'cause it's a bit different.
 >
-> **[0:08](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/use-the-exercise-files-on-github?u=76281980&t=8)** The exercise files for the course are in a GitHub repo.
+> **[0:08](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/use-the-exercise-files-on-github?u=76281980&t=8)** The exercise files for the course are in a [[GitHub]] repo.
 >
 > **[0:11](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/use-the-exercise-files-on-github?u=76281980&t=11)** Here you'll find branches for each movie and the branches are named for the chapter and movie number.
 >
@@ -506,11 +501,11 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/use-the-exercise-files-on-github?u=76281980&t=176)** You can see that right here.
 >
-> **[2:57](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/use-the-exercise-files-on-github?u=76281980&t=177)** Then I'll type in git remote add upstream and paste in the uri for the GitHub repository again.
+> **[2:57](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/use-the-exercise-files-on-github?u=76281980&t=177)** Then I'll type in [[Git]] remote add upstream and paste in the uri for the GitHub repository again.
 >
 > **[3:06](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/use-the-exercise-files-on-github?u=76281980&t=186)** When I run this command, I'm telling my local version of the code that hey, the original version of the code is sitting on GitHub and I want you to connect to it and be able to pull data down from it.
 >
-> **[3:17](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/use-the-exercise-files-on-github?u=76281980&t=197)** Once I've done this, I can run another command, git fetch upstream.
+> **[3:17](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/use-the-exercise-files-on-github?u=76281980&t=197)** Once I've done this, I can run another command, git [[Fetch]] upstream.
 >
 > **[3:22](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/use-the-exercise-files-on-github?u=76281980&t=202)** This will pull down every single branch from the GitHub repository on the web.
 >
@@ -528,7 +523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (9), [[Git]] (3), data (1), [[Fetch]] (1), web (1)
+> **Frameworks & Libraries:** [[GitHub]] (9), [[Git]] (3), [[Fetch]] (1)
 > **Tools:** github (9), vs code (2), terminal (2)
 > **Exercise Files:** exercise files (5), github repo (2), exercise file (1)
 > **CLI Commands:** make (3), git (3), find (1)
@@ -542,12 +537,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore the WordPress GraphQL tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/explore-the-wordpress-graphql-tree?u=76281980)
+#### [Explore the WordPress GraphQL tree](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/explore-the-wordpress-graphql-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/explore-the-wordpress-graphql-tree?u=76281980&t=0)** - [Instructor] Working with WordPress in Gatsby is no different from working with any other GraphQL data source.
+> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/explore-the-wordpress-graphql-tree?u=76281980&t=0)** - [Instructor] Working with [[WordPress]] in Gatsby is no different from working with any other [[GraphQL]] data source.
 >
 > **[0:05](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/explore-the-wordpress-graphql-tree?u=76281980&t=5)** We send requests to GraphQL.
 >
@@ -767,11 +761,11 @@ created: 2026-05-02
 >
 > **[7:45](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/explore-the-wordpress-graphql-tree?u=76281980&t=465)** So that means any data that sits in WordPress is available to us through GraphQL.
 >
-> **[7:50](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/explore-the-wordpress-graphql-tree?u=76281980&t=470)** And it's just a matter of creating the query in GraphiQL, pull out the data we want and then parse it in JavaScript inside Gatsby.
+> **[7:50](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/explore-the-wordpress-graphql-tree?u=76281980&t=470)** And it's just a matter of creating the query in GraphiQL, pull out the data we want and then parse it in [[JavaScript]] inside Gatsby.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[WordPress]] (16), [[GraphQL]] (11), database (4), hit (1)
+> **Frameworks & Libraries:** [[WordPress]] (16), [[GraphQL]] (11), [[JavaScript]] (1)
 > **Code Identifiers:** databaseid (9), allwp (3), allwppost (1), wppost (1)
 > **CLI Commands:** find (2), node (1)
 > **Env Vars:** url (2), mywpsite (1)
@@ -780,12 +774,11 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **URLs:** [localhost:8000](https://localhost:8000) (1)
 
-#### Use WordPress site data in Gatsby
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/use-wordpress-site-data-in-gatsby?u=76281980)
+#### [Use WordPress site data in Gatsby](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/use-wordpress-site-data-in-gatsby?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/use-wordpress-site-data-in-gatsby?u=76281980&t=0)** - [Instructor] The quickest path to understanding how we can work with WordPress data through GraphQL is to see a really simple bare bones example.
+> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/use-wordpress-site-data-in-gatsby?u=76281980&t=0)** - [Instructor] The quickest path to understanding how we can work with [[WordPress]] data through [[GraphQL]] is to see a really simple bare bones example.
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/use-wordpress-site-data-in-gatsby?u=76281980&t=7)** And that's what we'll do in this movie.
 >
@@ -923,7 +916,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (16), data (13), [[GraphQL]] (4)
+> **Frameworks & Libraries:** [[WordPress]] (16), [[GraphQL]] (4)
 > **Code Identifiers:** generalsettings (5), sitemetadata (4), defaulttitle (4), sitetitle (4)
 > **UI Navigation:** go to (6), scroll down (1)
 > **File Paths:** header.js (2), layout.js (2), gatsby-config.js (1)
@@ -937,12 +930,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Query pages in GraphQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-pages-in-graphql?u=76281980)
+#### [Query pages in GraphQL](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-pages-in-graphql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-pages-in-graphql?u=76281980&t=0)** - [Instructor] WordPress has two main types of content: pages and posts.
+> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-pages-in-graphql?u=76281980&t=0)** - [Instructor] [[WordPress]] has two main types of content: pages and posts.
 >
 > **[0:04](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-pages-in-graphql?u=76281980&t=4)** They're separate in the WordPress backend and they behave slightly differently.
 >
@@ -1012,7 +1004,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-pages-in-graphql?u=76281980&t=204)** Instead, we want to find a specific page.
 >
-> **[3:26](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-pages-in-graphql?u=76281980&t=206)** And this is what's really neat about GraphQL.
+> **[3:26](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-pages-in-graphql?u=76281980&t=206)** And this is what's really neat about [[GraphQL]].
 >
 > **[3:28](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-pages-in-graphql?u=76281980&t=208)** You can query for anything.
 >
@@ -1042,7 +1034,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (8), database (5), data (2), next (2), node (1)
+> **Frameworks & Libraries:** [[WordPress]] (8), [[GraphQL]] (1)
 > **Env Vars:** uri (3), url (2)
 > **CLI Commands:** make (2), node (1), find (1)
 > **Definitions:** is a  (2)
@@ -1051,12 +1043,11 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generate pages automatically
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-pages-automatically?u=76281980)
+#### [Generate pages automatically](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-pages-automatically?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-pages-automatically?u=76281980&t=0)** - [Instructor] Knowing I can gain access to all the pages on the WordPress site using GraphQL, I now want to set up Gatsby to auto-generate a page for each of the WordPress pages.
+> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-pages-automatically?u=76281980&t=0)** - [Instructor] Knowing I can gain access to all the pages on the [[WordPress]] site using [[GraphQL]], I now want to set up Gatsby to auto-generate a page for each of the WordPress pages.
 >
 > **[0:09](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-pages-automatically?u=76281980&t=9)** That way, if I add a new page on WordPress, it'll automatically appears in my Gatsby site as well.
 >
@@ -1164,9 +1155,9 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-pages-automatically?u=76281980&t=272)** You'll also notice I'm using this crazy parameter here, dangerouslySetInnerHTML.
 >
-> **[4:38](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-pages-automatically?u=76281980&t=278)** This is because the page content that WordPress is passing is pure HTML.
+> **[4:38](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-pages-automatically?u=76281980&t=278)** This is because the page content that WordPress is passing is pure [[HTML]].
 >
-> **[4:44](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-pages-automatically?u=76281980&t=284)** And in the React world, you should never, ever, under any circumstances, display pure unsanitized HTML, except for this circumstance where we already know that WordPress has sanitized that data for us and we're simply redisplaying what WordPress says is secure.
+> **[4:44](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-pages-automatically?u=76281980&t=284)** And in the [[React.js|React]] world, you should never, ever, under any circumstances, display pure unsanitized HTML, except for this circumstance where we already know that WordPress has sanitized that data for us and we're simply redisplaying what WordPress says is secure.
 >
 > **[5:01](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-pages-automatically?u=76281980&t=301)** But this will not work, unless you set up dangerouslySetInnerHTML It's a quirk when you're working with two different systems that are both trying to protect you, they will sometimes try to protect you against themselves.
 >
@@ -1216,7 +1207,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (16), node (12), data (6), [[GraphQL]] (5), database (5)
+> **Frameworks & Libraries:** [[WordPress]] (16), [[GraphQL]] (5), [[HTML]] (3), [[React.js|React]] (1)
 > **CLI Commands:** node (12), find (2), make (1)
 > **Code Identifiers:** createpage (4), databaseid (3), allwppage (2), dangerouslysetinnerhtml (2), createpages (1)
 > **Exercise Files:** template (6), exercise files (1)
@@ -1225,14 +1216,13 @@ created: 2026-05-02
 > **File Paths:** src/templates/page.js (1), page.js (1)
 > **Tools:** terminal (2)
 
-#### Create a page template
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-page-template?u=76281980)
+#### [Create a page template](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-page-template?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-page-template?u=76281980&t=0)** - [Instructor] At this point, Gatsby is auto generating a new Gatsby page for every WordPress page, which is great.
+> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-page-template?u=76281980&t=0)** - [Instructor] At this point, Gatsby is auto generating a new Gatsby page for every [[WordPress]] page, which is great.
 >
-> **[0:06](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-page-template?u=76281980&t=6)** However, as in this example, the pages that are being generated are plain HTML documents.
+> **[0:06](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-page-template?u=76281980&t=6)** However, as in this example, the pages that are being generated are plain [[HTML]] documents.
 >
 > **[0:11](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-page-template?u=76281980&t=11)** There's no header, there's no style, there's no formatting.
 >
@@ -1330,7 +1320,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-page-template?u=76281980&t=226)** But what if I want to apply some custom CSS just to this page template?
 >
-> **[3:51](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-page-template?u=76281980&t=231)** Well, in Gatsby and in React, there's several approaches to this.
+> **[3:51](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-page-template?u=76281980&t=231)** Well, in Gatsby and in [[React.js|React]], there's several approaches to this.
 >
 > **[3:54](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-page-template?u=76281980&t=234)** The one I like the most is CSS modules because it allows me to write standard CSS documents and then append them to individual templates.
 >
@@ -1364,7 +1354,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-page-template?u=76281980&t=295)** So what we're doing is saying import anything inside the page module's file as styles and then we can pull each individual class out and use them in our markup.
 >
-> **[5:06](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-page-template?u=76281980&t=306)** So to use the markup, I say class name, this will transform into just class, is just in JavaScript, the word class is a keyword that's protected.
+> **[5:06](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-page-template?u=76281980&t=306)** So to use the markup, I say class name, this will transform into just class, is just in [[JavaScript]], the [[Microsoft Word|word]] class is a keyword that's protected.
 >
 > **[5:16](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-page-template?u=76281980&t=316)** So we need to say class name anytime we refer to class in JavaScript.
 >
@@ -1382,7 +1372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (10), seo (4), [[HTML]] (3), [[WordPress]] (2), data (2)
+> **Frameworks & Libraries:** [[HTML]] (3), [[WordPress]] (2), [[JavaScript]] (2), [[React.js|React]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** css (10), seo (4), html (3), uri (2)
 > **Exercise Files:** template (5)
 > **Definitions:** is a  (4), is an  (1)
@@ -1391,12 +1381,11 @@ created: 2026-05-02
 > **Tools:** vs code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with featured images
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/work-with-featured-images?u=76281980)
+#### [Work with featured images](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/work-with-featured-images?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/work-with-featured-images?u=76281980&t=0)** - [Instructor] One of the many features WordPress offers for both pages and posts is the ability to add a featured image.
+> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/work-with-featured-images?u=76281980&t=0)** - [Instructor] One of the many features [[WordPress]] offers for both pages and posts is the ability to add a featured image.
 >
 > **[0:06](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/work-with-featured-images?u=76281980&t=6)** That's an image that's appended to the post that can be pulled in out of context and displayed wherever you want.
 >
@@ -1430,7 +1419,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/work-with-featured-images?u=76281980&t=83)** If you say yes to that, you get gatsby-plugin-image and all its associated plugins installed automatically.
 >
-> **[1:30](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/work-with-featured-images?u=76281980&t=90)** You can see them if you go to package.json.
+> **[1:30](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/work-with-featured-images?u=76281980&t=90)** You can see them if you go to package.[[JSON]].
 >
 > **[1:33](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/work-with-featured-images?u=76281980&t=93)** Here we have gatsby-plugin-image.
 >
@@ -1454,7 +1443,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/work-with-featured-images?u=76281980&t=126)** We need to do the two standard things.
 >
-> **[2:08](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/work-with-featured-images?u=76281980&t=128)** First, send a query through GraphQL and then display the image in a component.
+> **[2:08](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/work-with-featured-images?u=76281980&t=128)** First, send a query through [[GraphQL]] and then display the image in a component.
 >
 > **[2:12](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/work-with-featured-images?u=76281980&t=132)** So here is an example of how you would do that.
 >
@@ -1582,7 +1571,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (7), node (4), data (3), [[GraphQL]] (2), database (2)
+> **Frameworks & Libraries:** [[WordPress]] (7), [[GraphQL]] (2), [[JSON]] (1)
 > **Code Identifiers:** featuredimage (5), getimage (5), childimagesharp (2), gatsbyimagedata (2), wppage (2)
 > **CLI Commands:** node (4), find (3), make (2)
 > **Definitions:** is a  (4), is an  (2)
@@ -1591,8 +1580,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (3), scroll down (1)
 > **Exercise Files:** template (2)
 
-#### Challenge: Add metadata to the page template
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-add-metadata-to-the-page-template?u=76281980)
+#### [Challenge: Add metadata to the page template](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-add-metadata-to-the-page-template?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1600,9 +1588,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-add-metadata-to-the-page-template?u=76281980&t=8)** - [Instructor] Time for your first challenge.
 >
-> **[0:09](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-add-metadata-to-the-page-template?u=76281980&t=9)** In this challenge, I want you to add metadata to the page template.
+> **[0:09](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-add-metadata-to-the-page-template?u=76281980&t=9)** In this challenge, I want you to add [[Metadata]] to the page template.
 >
-> **[0:13](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-add-metadata-to-the-page-template?u=76281980&t=13)** Starting with the exercise files for this movie, I want you to extend the GraphQL query to include the date and the author name.
+> **[0:13](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-add-metadata-to-the-page-template?u=76281980&t=13)** Starting with the exercise files for this movie, I want you to extend the [[GraphQL]] query to include the date and the author name.
 >
 > **[0:19](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-add-metadata-to-the-page-template?u=76281980&t=19)** And then I want you to display that date and author name below the title in the template.
 >
@@ -1612,14 +1600,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (1), [[GraphQL]] (1), next (1)
+> **Frameworks & Libraries:** [[Metadata]] (1), [[GraphQL]] (1)
 > **Exercise Files:** template (2), exercise files (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Add metadata to the page template
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-add-metadata-to-the-page-template?u=76281980)
+#### [Solution: Add metadata to the page template](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-add-metadata-to-the-page-template?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1631,7 +1618,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-add-metadata-to-the-page-template?u=76281980&t=17)** Now, anytime I'm working with data, I always start in GraphiQL.
 >
-> **[0:22](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-add-metadata-to-the-page-template?u=76281980&t=22)** That way I can dig through the GraphQL tree and find the information I'm looking for first, so I know I have a solid query to use.
+> **[0:22](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-add-metadata-to-the-page-template?u=76281980&t=22)** That way I can dig through the [[GraphQL]] tree and find the information I'm looking for first, so I know I have a solid query to use.
 >
 > **[0:30](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-add-metadata-to-the-page-template?u=76281980&t=30)** In this case, I'm looking for two pieces of data, and the first one is the author.
 >
@@ -1663,7 +1650,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-add-metadata-to-the-page-template?u=76281980&t=79)** Now this is not a human readable date right now.
 >
-> **[1:21](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-add-metadata-to-the-page-template?u=76281980&t=81)** Well, it is but it's not what I want to display but I can use JavaScript to convert this into a nice looking date.
+> **[1:21](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-add-metadata-to-the-page-template?u=76281980&t=81)** Well, it is but it's not what I want to display but I can use [[JavaScript]] to convert this into a nice looking date.
 >
 > **[1:28](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-add-metadata-to-the-page-template?u=76281980&t=88)** So the query is correct, and I'll copy out the new pieces of my query here.
 >
@@ -1727,7 +1714,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (4), [[JavaScript]] (4), data (3), [[GraphQL]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[GraphQL]] (2)
 > **CLI Commands:** node (4), find (1)
 > **Code Identifiers:** tolocaledatestring (2), wppage (1)
 > **File Paths:** page.js (1)
@@ -1741,8 +1728,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Query custom menus in GraphQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-custom-menus-in-graphql?u=76281980)
+#### [Query custom menus in GraphQL](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-custom-menus-in-graphql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1750,7 +1736,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-custom-menus-in-graphql?u=76281980&t=15)** The easiest way of creating links to anything within a site is to create a navigation menu.
 >
-> **[0:19](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-custom-menus-in-graphql?u=76281980&t=19)** And in WordPress, we have have a really powerful tool for creating as many navigation menus as we like.
+> **[0:19](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-custom-menus-in-graphql?u=76281980&t=19)** And in [[WordPress]], we have have a really powerful tool for creating as many navigation menus as we like.
 >
 > **[0:25](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-custom-menus-in-graphql?u=76281980&t=25)** You find it in the back end of WordPress under appearance and menus.
 >
@@ -1882,7 +1868,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (21), database (2), data (2), node (1)
+> **Frameworks & Libraries:** [[WordPress]] (21)
 > **CLI Commands:** make (4), find (2), node (1)
 > **Code Identifiers:** allwpmenu (4), allwpmenuitem (3)
 > **UI Navigation:** go to (4), navigate to (1)
@@ -1891,12 +1877,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 
-#### How WordPress manages menu items
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/how-wordpress-manages-menu-items?u=76281980)
+#### [How WordPress manages menu items](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/how-wordpress-manages-menu-items?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/how-wordpress-manages-menu-items?u=76281980&t=0)** - [Narrator] Before we start working with these WordPress menus in Gatsby, Let me briefly explain how WordPress itself handles the menus.
+> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/how-wordpress-manages-menu-items?u=76281980&t=0)** - [Narrator] Before we start working with these [[WordPress]] menus in Gatsby, Let me briefly explain how WordPress itself handles the menus.
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/how-wordpress-manages-menu-items?u=76281980&t=7)** When we look at a menu like this one called All Pages, you can see there are hierarchical relationships between the different menu items.
 >
@@ -1910,7 +1895,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/how-wordpress-manages-menu-items?u=76281980&t=40)** So when I create these hierarchical relationships what I'm really doing is just adding a number to the parent ID field for each menu item.
 >
-> **[0:48](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/how-wordpress-manages-menu-items?u=76281980&t=48)** This is important when we start querying the menus from Gatsby through GraphQL because when we send a query to say, All Pages, what we get is a flat structure.
+> **[0:48](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/how-wordpress-manages-menu-items?u=76281980&t=48)** This is important when we start querying the menus from Gatsby through [[GraphQL]] because when we send a query to say, All Pages, what we get is a flat structure.
 >
 > **[0:59](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/how-wordpress-manages-menu-items?u=76281980&t=59)** All the menu items are just listed, one after the other in one response, we don't get nested hierarchies here.
 >
@@ -1946,25 +1931,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), [[WordPress]] (4), data (4), [[GraphQL]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), [[GraphQL]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** scroll down (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [narrator] (1)
 
-#### Create a flat menu in Gatsby
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-flat-menu-in-gatsby?u=76281980)
+#### [Create a flat menu in Gatsby](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-flat-menu-in-gatsby?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-flat-menu-in-gatsby?u=76281980&t=0)** - [Instructor] Let's start by building a flat, single-level menu that will go across the top here in the layout.
 >
-> **[0:06](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-flat-menu-in-gatsby?u=76281980&t=6)** That menu will be based off this menu here inside WordPress that actually is a hierarchical menu with subitems, so I somehow need to filter out those subitems for now and then maybe add them in later on.
+> **[0:06](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-flat-menu-in-gatsby?u=76281980&t=6)** That menu will be based off this menu here inside [[WordPress]] that actually is a hierarchical menu with subitems, so I somehow need to filter out those subitems for now and then maybe add them in later on.
 >
 > **[0:17](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-flat-menu-in-gatsby?u=76281980&t=17)** Also note, I've added one custom link to my menu.
 >
-> **[0:19](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-flat-menu-in-gatsby?u=76281980&t=19)** It just points to LinkedIn Learning.
+> **[0:19](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-flat-menu-in-gatsby?u=76281980&t=19)** It just points to [[LinkedIn]] Learning.
 >
 > **[0:21](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-flat-menu-in-gatsby?u=76281980&t=21)** This is to show you how we can co-mingle links to the internal site with links from external sources into one single menu.
 >
@@ -2014,11 +1998,11 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-flat-menu-in-gatsby?u=76281980&t=153)** Then for each of the menu items, I'm pulling out two pieces of data: the label which is the name, the text that's displayed in the menu, and the path which is the URL.
 >
-> **[2:43](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-flat-menu-in-gatsby?u=76281980&t=163)** Now, notice I'm remapping the label to the word title here.
+> **[2:43](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-flat-menu-in-gatsby?u=76281980&t=163)** Now, notice I'm remapping the label to the [[Microsoft Word|word]] title here.
 >
 > **[2:46](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-flat-menu-in-gatsby?u=76281980&t=166)** That's just so that it's easier to understand in the code because I find that the term label sounds like a label appended to something, but it's actually the title that is in the menu item.
 >
-> **[2:56](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-flat-menu-in-gatsby?u=76281980&t=176)** So this is just a remapping done in GraphQL.
+> **[2:56](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-flat-menu-in-gatsby?u=76281980&t=176)** So this is just a remapping done in [[GraphQL]].
 >
 > **[2:58](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-flat-menu-in-gatsby?u=76281980&t=178)** It doesn't actually change the data.
 >
@@ -2036,7 +2020,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-flat-menu-in-gatsby?u=76281980&t=199)** And then we used a map function to map through all the menu items, grabbing each menu item, giving it an index number, and then returning an li with the index as the key.
 >
-> **[3:29](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-flat-menu-in-gatsby?u=76281980&t=209)** This is a requirement from React so that we can target individual items later.
+> **[3:29](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-flat-menu-in-gatsby?u=76281980&t=209)** This is a requirement from [[React.js|React]] so that we can target individual items later.
 >
 > **[3:33](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-flat-menu-in-gatsby?u=76281980&t=213)** And then we use this component here, UniversalLink, to grab the menuItem.path, that is the link, and also the menuItem.title, the text that goes inside the menu item.
 >
@@ -2090,7 +2074,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), [[LinkedIn]] (3), data (3), node (1), css (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[LinkedIn]] (3), [[Microsoft Word|Word]] (1), [[GraphQL]] (1), [[React.js|React]] (1)
 > **Code Identifiers:** parentdatabaseid (4), classname (2), menuitem (2), activeclassname (2), wpmenu (1)
 > **Definitions:** is a  (6)
 > **UI Navigation:** in the menu (2), click on (2)
@@ -2099,8 +2083,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a nested menu in Gatsby
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-nested-menu-in-gatsby?u=76281980)
+#### [Create a nested menu in Gatsby](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-nested-menu-in-gatsby?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2108,7 +2091,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-nested-menu-in-gatsby?u=76281980&t=5)** In many cases, we need a hierarchical menu either as a dropdown or just a straight up hierarchical list so that we can show the relationships between different menu items.
 >
-> **[0:13](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-nested-menu-in-gatsby?u=76281980&t=13)** Now, WordPress makes it easy to create hierarchical menus.
+> **[0:13](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-nested-menu-in-gatsby?u=76281980&t=13)** Now, [[WordPress]] makes it easy to create hierarchical menus.
 >
 > **[0:16](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-nested-menu-in-gatsby?u=76281980&t=16)** As you've seen inside the menu builder, you can simply add a menu item and then pull it aside to make it a hierarchical menu item that is a child of another menu item.
 >
@@ -2118,7 +2101,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-nested-menu-in-gatsby?u=76281980&t=31)** Now we need to somehow translate this hierarchical information into Gatsby.
 >
-> **[0:36](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-nested-menu-in-gatsby?u=76281980&t=36)** That's challenging, because as you've seen, when you query the menu items in Gatsby through GraphQL, all you get is a single-level array.
+> **[0:36](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-nested-menu-in-gatsby?u=76281980&t=36)** That's challenging, because as you've seen, when you query the menu items in Gatsby through [[GraphQL]], all you get is a single-level array.
 >
 > **[0:45](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-nested-menu-in-gatsby?u=76281980&t=45)** There is no hierarchies here.
 >
@@ -2146,7 +2129,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-nested-menu-in-gatsby?u=76281980&t=122)** If it has any other value, then creates this hierarchical array and sort the items under.
 >
-> **[2:08](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-nested-menu-in-gatsby?u=76281980&t=128)** This is just some really fancy JavaScript that basically turns a flat array into hierarchical array, just like the name suggests.
+> **[2:08](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-nested-menu-in-gatsby?u=76281980&t=128)** This is just some really fancy [[JavaScript]] that basically turns a flat array into hierarchical array, just like the name suggests.
 >
 > **[2:15](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-nested-menu-in-gatsby?u=76281980&t=135)** Now that we have the component, we can use it in MainNav.
 >
@@ -2250,7 +2233,7 @@ created: 2026-05-02
 >
 > **[5:28](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-nested-menu-in-gatsby?u=76281980&t=328)** If we have new menu items, we want those new menu items to appear as a new unordered list inside the current list item, right?
 >
-> **[5:35](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-nested-menu-in-gatsby?u=76281980&t=335)** That's how we get the valid HTML.
+> **[5:35](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-nested-menu-in-gatsby?u=76281980&t=335)** That's how we get the valid [[HTML]].
 >
 > **[5:38](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-nested-menu-in-gatsby?u=76281980&t=338)** So what I'll do here is say, if we have menuItem.children.length is bigger than zero, meaning this current list item has children, then I want to recursively call MenuLoop again.
 >
@@ -2284,7 +2267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[WordPress]] (2), [[HTML]] (2), [[GraphQL]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[HTML]] (2), [[GraphQL]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** headermenu (7), parentid (6), parentdatabaseid (3), idkey (3), parentkey (3)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (3)
@@ -2293,8 +2276,7 @@ created: 2026-05-02
 > **Analogies:** just like (1), for example (1)
 > **Prerequisites:** set up (2)
 
-#### Challenge: Create a footer menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-create-a-footer-menu?u=76281980)
+#### [Challenge: Create a footer menu](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-create-a-footer-menu?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2302,7 +2284,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-create-a-footer-menu?u=76281980&t=8)** - [Narrator] Time for another challenge.
 >
-> **[0:09](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-create-a-footer-menu?u=76281980&t=9)** In this challenge, I want you to create a footer menu based on one of the menus in your WordPress site.
+> **[0:09](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-create-a-footer-menu?u=76281980&t=9)** In this challenge, I want you to create a footer menu based on one of the menus in your [[WordPress]] site.
 >
 > **[0:14](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-create-a-footer-menu?u=76281980&t=14)** To start off, take the exercise files for this movie and augment the header menu so it only displays the top-level menu items.
 >
@@ -2310,7 +2292,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-create-a-footer-menu?u=76281980&t=23)** Next, create a footer menu component.
 >
-> **[0:26](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-create-a-footer-menu?u=76281980&t=26)** And in that footer menu component, create a GraphQL query to display all the menu items for one of the menus in a hierarchical bullet list in the footer.
+> **[0:26](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-create-a-footer-menu?u=76281980&t=26)** And in that footer menu component, create a [[GraphQL]] query to display all the menu items for one of the menus in a hierarchical bullet list in the footer.
 >
 > **[0:34](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-create-a-footer-menu?u=76281980&t=34)** Take 10 minutes to solve this challenge.
 >
@@ -2318,14 +2300,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[WordPress]] (1), [[GraphQL]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (1), [[GraphQL]] (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat intro music) (1)
 
-#### Solution: Create a footer menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-create-a-footer-menu?u=76281980)
+#### [Solution: Create a footer menu](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-create-a-footer-menu?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2335,11 +2316,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-create-a-footer-menu?u=76281980&t=8)** Let me show you how I solve this challenge.
 >
-> **[0:10](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-create-a-footer-menu?u=76281980&t=10)** Actually first, let me just clean up this header menu 'cause it takes up a lot of space right now and I'm not going to spend the time to add the CSS and JavaScript necessary to make a proper responsive, accessible dropdown menu in this course.
+> **[0:10](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-create-a-footer-menu?u=76281980&t=10)** Actually first, let me just clean up this header menu 'cause it takes up a lot of space right now and I'm not going to spend the time to add the CSS and [[JavaScript]] necessary to make a proper responsive, accessible dropdown menu in this course.
 >
 > **[0:23](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-create-a-footer-menu?u=76281980&t=23)** So I'm just going to reduce this down to a single level menu again.
 >
-> **[0:27](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-create-a-footer-menu?u=76281980&t=27)** The easiest way to do that is just to modify our GraphQL query.
+> **[0:27](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-create-a-footer-menu?u=76281980&t=27)** The easiest way to do that is just to modify our [[GraphQL]] query.
 >
 > **[0:31](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-create-a-footer-menu?u=76281980&t=31)** That way, we retain all the code we wrote and we just choose whether or not we want to display the sub items or not.
 >
@@ -2413,7 +2394,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-create-a-footer-menu?u=76281980&t=226)** So we need to add some CSS.
 >
-> **[3:48](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-create-a-footer-menu?u=76281980&t=228)** So we could of course, create a new style sheet for this but since all I want to do is left align the text, I'm going to perform a minor web standards crime here and just inject some inline CSS.
+> **[3:48](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-create-a-footer-menu?u=76281980&t=228)** So we could of course, create a new style sheet for this but since all I want to do is left align the text, I'm going to perform a minor [[Web Standards]] crime here and just inject some inline CSS.
 >
 > **[4:01](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-create-a-footer-menu?u=76281980&t=241)** So I'll do that through JavaScript, style equals, two curly brackets and then say text align, colon left.
 >
@@ -2445,7 +2426,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[JavaScript]] (2), database (2), generic (2), [[GraphQL]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[GraphQL]] (1), [[Web Standards]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** css (4)
 > **File Paths:** footernav.js (1), footer.js (1)
@@ -2459,12 +2440,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Query posts in GraphQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-posts-in-graphql?u=76281980)
+#### [Query posts in GraphQL](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-posts-in-graphql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-posts-in-graphql?u=76281980&t=0)** - [Narrator] Posts are the main content type in WordPress.
+> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-posts-in-graphql?u=76281980&t=0)** - [Narrator] Posts are the main content type in [[WordPress]].
 >
 > **[0:03](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-posts-in-graphql?u=76281980&t=3)** Usually when you go to a WordPress site, you're looking at the post, or the post index from that WordPress site.
 >
@@ -2478,7 +2458,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-posts-in-graphql?u=76281980&t=35)** In this chapter and in the next chapter, we'll look at how to make all of this work.
 >
-> **[0:39](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-posts-in-graphql?u=76281980&t=39)** As you made your way through this course, I hope you've started noticing a pattern in how the GraphQL data is set up for WordPress.
+> **[0:39](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-posts-in-graphql?u=76281980&t=39)** As you made your way through this course, I hope you've started noticing a pattern in how the [[GraphQL]] data is set up for WordPress.
 >
 > **[0:46](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-posts-in-graphql?u=76281980&t=46)** Every time we're looking for a new content type we always have the same structure.
 >
@@ -2546,7 +2526,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (13), [[WordPress]] (9), database (4), data (3), [[GraphQL]] (3)
+> **Frameworks & Libraries:** [[WordPress]] (9), [[GraphQL]] (3)
 > **CLI Commands:** find (3), make (1), node (1)
 > **Cross-References:** in the next (2)
 > **UI Navigation:** go to (2)
@@ -2555,12 +2535,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 
-#### Generate posts automatically
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-posts-automatically?u=76281980)
+#### [Generate posts automatically](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-posts-automatically?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-posts-automatically?u=76281980&t=0)** - [Instructor] In the context of Gatsby, WordPress is just another GraphQL data resource.
+> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-posts-automatically?u=76281980&t=0)** - [Instructor] In the context of Gatsby, [[WordPress]] is just another [[GraphQL]] data resource.
 >
 > **[0:04](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-posts-automatically?u=76281980&t=4)** And that means once we have a model for pulling one type of data and we wanted to pull a different type of data that looks pretty much the same, we can use that same model again.
 >
@@ -2636,7 +2615,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-posts-automatically?u=76281980&t=235)** Okay, this is all we have to do to generate the posts.
 >
-> **[3:59](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-posts-automatically?u=76281980&t=239)** I can save node.js, go into the terminal and stop Gatsby develop because we've now made changes to node.js.
+> **[3:59](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-posts-automatically?u=76281980&t=239)** I can save [[Node.js]], go into the terminal and stop Gatsby develop because we've now made changes to node.js.
 >
 > **[4:07](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-posts-automatically?u=76281980&t=247)** Just for safety, I'm also going to clear all the Gatsby cache at this point.
 >
@@ -2656,7 +2635,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-posts-automatically?u=76281980&t=292)** It gives me all types of data that I can then experiment with.
 >
-> **[4:55](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-posts-automatically?u=76281980&t=295)** So for example, here we have posts/markup-html-tags-and-formatting, where I can check that all the HTML tags and formatting are styled in correctly.
+> **[4:55](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-posts-automatically?u=76281980&t=295)** So for example, here we have posts/markup-[[HTML]]-tags-and-formatting, where I can check that all the HTML tags and formatting are styled in correctly.
 >
 > **[5:02](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-posts-automatically?u=76281980&t=302)** If I go searching for image, I can also find image posts.
 >
@@ -2668,7 +2647,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), node (4), [[WordPress]] (3), [[GraphQL]] (2), css (2)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[GraphQL]] (2), [[Node.js]] (2), [[HTML]] (2)
 > **CLI Commands:** node (6), make (1), find (1)
 > **Code Identifiers:** postquery (2), wppage (1), wppost (1), allwppost (1), queryresults (1)
 > **File Paths:** node.js (2), page.js (1), post.js (1), page.module.css (1), single.module.css (1)
@@ -2677,14 +2656,13 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1), go to (1)
 > **Definitions:** is a  (2)
 
-#### Add category and tag info
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-category-and-tag-info?u=76281980)
+#### [Add category and tag info](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-category-and-tag-info?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-category-and-tag-info?u=76281980&t=0)** - [Instructor] One of the key differences between posts and pages is posts are organized using categories and tags.
 >
-> **[0:06](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-category-and-tag-info?u=76281980&t=6)** The post edge case, many categories from the WordPress theme unit test data, serves as a great example of this.
+> **[0:06](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-category-and-tag-info?u=76281980&t=6)** The post edge case, many categories from the [[WordPress]] theme unit test data, serves as a great example of this.
 >
 > **[0:12](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-category-and-tag-info?u=76281980&t=12)** By applying categories and tags to posts, a user can come to a single post like this one and see what categories and tags it's organized under then click on any one of the these categories or tags to go to an index for all posts under that category or tag and see related content.
 >
@@ -2692,7 +2670,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-category-and-tag-info?u=76281980&t=31)** So we need to change the template to carry over that information.
 >
-> **[0:34](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-category-and-tag-info?u=76281980&t=34)** Category and tag information for each post is available through GraphQL, we just have to ask for it.
+> **[0:34](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-category-and-tag-info?u=76281980&t=34)** Category and tag information for each post is available through [[GraphQL]], we just have to ask for it.
 >
 > **[0:39](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-category-and-tag-info?u=76281980&t=39)** So if we go to grab a single post like this one, 1152 which is educates many categories, in addition to requesting the standard information, like the title and database ID and the content, we can also scroll down and find other information like categories.
 >
@@ -2750,7 +2728,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-category-and-tag-info?u=76281980&t=172)** And then I need to loop through those nodes, and for that, I'll use the map method.
 >
-> **[2:56](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-category-and-tag-info?u=76281980&t=176)** Inside the map method, I will grab each tag and I'll also apply an index name to each tag so that I can reference them in react later if I want to.
+> **[2:56](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-category-and-tag-info?u=76281980&t=176)** Inside the map method, I will grab each tag and I'll also apply an index name to each tag so that I can reference them in [[React.js|react]] later if I want to.
 >
 > **[3:06](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-category-and-tag-info?u=76281980&t=186)** And I'll set up an arrow function Inside the arrow function we're now working with a single tag and we already know we have two pieces of information for a tag, link and name so we can use the link component in Gatsby to output an actual link.
 >
@@ -2852,7 +2830,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), database (2), node (2), [[React.js|React]] (2), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[WordPress]] (1), [[GraphQL]] (1)
 > **CLI Commands:** find (5), node (2), make (1)
 > **UI Navigation:** go to (3), scroll down (2), click on (1)
 > **Exercise Files:** template (5)
@@ -2861,12 +2839,11 @@ created: 2026-05-02
 > **File Paths:** post.js (1), pulse.js (1)
 > **Definitions:** is called (1)
 
-#### Create an index template
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-an-index-template?u=76281980)
+#### [Create an index template](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-an-index-template?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-an-index-template?u=76281980&t=0)** - [Narrator] We've successfully migrated each post from the WordPress site to the Gatsby site.
+> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-an-index-template?u=76281980&t=0)** - [Narrator] We've successfully migrated each post from the [[WordPress]] site to the Gatsby site.
 >
 > **[0:04](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-an-index-template?u=76281980&t=4)** Now we need to create some form of interface for the user to be able to navigate through the posts themselves.
 >
@@ -2882,7 +2859,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-an-index-template?u=76281980&t=37)** So that means we need to generate new static pages, one for each 10 or 12 or 14 or 4 or whatever number you want to display of posts in an index and then create these static index pages individually, hopefully automatically, so we don't have to manually put all this stuff in.
 >
-> **[0:53](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-an-index-template?u=76281980&t=53)** To do this, we'll use some additional features inside all WP posts in GraphQL.
+> **[0:53](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-an-index-template?u=76281980&t=53)** To do this, we'll use some additional features inside all WP posts in [[GraphQL]].
 >
 > **[0:58](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-an-index-template?u=76281980&t=58)** In particular, we want to use these two fields at the top here called limit and skip.
 >
@@ -2972,7 +2949,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), [[WordPress]] (3), feature (2), data (2), [[GraphQL]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[GraphQL]] (1)
 > **UI Navigation:** go to (4), click on (2), scroll down (1)
 > **CLI Commands:** find (2), make (1), node (1)
 > **Exercise Files:** template (2), exercise files (1)
@@ -2981,8 +2958,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Generate index pages automatically
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-index-pages-automatically?u=76281980)
+#### [Generate index pages automatically](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-index-pages-automatically?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2994,7 +2970,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-index-pages-automatically?u=76281980&t=20)** The first thing we need to do is install it into our Gatsby project.
 >
-> **[0:23](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-index-pages-automatically?u=76281980&t=23)** So I'll open my terminal, terminate any process that's currently running, and type in npm install, save Gatsby awesome pagination.
+> **[0:23](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-index-pages-automatically?u=76281980&t=23)** So I'll open my terminal, terminate any process that's currently running, and type in [[npm]] install, save Gatsby awesome pagination.
 >
 > **[0:38](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-index-pages-automatically?u=76281980&t=38)** While that install process is running, we can set up the plugin in Gatsby node.
 >
@@ -3104,7 +3080,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), node (2), data (2), [[npm]] (1)
+> **Frameworks & Libraries:** [[npm]] (1)
 > **Prerequisites:** install (3), set up (2)
 > **UI Navigation:** go to (2), navigate to (1), click on (1)
 > **CLI Commands:** node (2), npm (1)
@@ -3113,8 +3089,7 @@ created: 2026-05-02
 > **Tools:** terminal (2)
 > **File Paths:** src/templates/posts-index.js (1)
 
-#### Challenge: Create a post navigation component
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-create-a-post-navigation-component?u=76281980)
+#### [Challenge: Create a post navigation component](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-create-a-post-navigation-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3124,7 +3099,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-create-a-post-navigation-component?u=76281980&t=15)** This is a component that sits at the bottom of each individual post page to say, navigate to the previous or next post.
 >
-> **[0:21](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-create-a-post-navigation-component?u=76281980&t=21)** In this challenge, you need to first augment the GraphQL query to get the previous and next post objects.
+> **[0:21](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-create-a-post-navigation-component?u=76281980&t=21)** In this challenge, you need to first augment the [[GraphQL]] query to get the previous and next post objects.
 >
 > **[0:28](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-create-a-post-navigation-component?u=76281980&t=28)** This query might not be in the post's template.
 >
@@ -3134,7 +3109,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-create-a-post-navigation-component?u=76281980&t=45)** Here's a challenge tip.
 >
-> **[0:46](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-create-a-post-navigation-component?u=76281980&t=46)** The post query in Gatsby-node.js is querying allWpPost.edges.
+> **[0:46](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-create-a-post-navigation-component?u=76281980&t=46)** The post query in Gatsby-[[Node.js]] is querying allWpPost.edges.
 >
 > **[0:52](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-create-a-post-navigation-component?u=76281980&t=52)** This is a vital piece of information to solve this challenge.
 >
@@ -3144,7 +3119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[GraphQL]] (1), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (1), [[Node.js]] (1)
 > **UI Navigation:** navigate to (1), go to (1)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (2)
@@ -3153,8 +3128,7 @@ created: 2026-05-02
 > **Code Identifiers:** allwppost (1)
 > **Env Vars:** url (1)
 
-#### Solution: Create a post navigation component
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-create-a-post-navigation-component?u=76281980)
+#### [Solution: Create a post navigation component](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-create-a-post-navigation-component?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3276,7 +3250,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (29), database (12), data (8), node (7)
 > **CLI Commands:** node (7), find (2)
 > **Env Vars:** uri (8)
 > **UI Navigation:** click on (1), go to (1)
@@ -3284,14 +3257,14 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
+> **Non-Speech:** (bright music) (1)
 
 
 ### 6. Categories and Tags
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Query categories and tags
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-categories-and-tags?u=76281980)
+#### [Query categories and tags](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-categories-and-tags?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3309,7 +3282,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-categories-and-tags?u=76281980&t=51)** So how do we do all this?
 >
-> **[0:53](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-categories-and-tags?u=76281980&t=53)** Well, the answer, as with pretty much everything else, is GraphQL solves this problem for us if we just know where to look.
+> **[0:53](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-categories-and-tags?u=76281980&t=53)** Well, the answer, as with pretty much everything else, is [[GraphQL]] solves this problem for us if we just know where to look.
 >
 > **[1:01](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-categories-and-tags?u=76281980&t=61)** So let's do a query for a category.
 >
@@ -3363,13 +3336,13 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-categories-and-tags?u=76281980&t=188)** We get the exact same kind of result, except this time it's for tags.
 >
-> **[3:11](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-categories-and-tags?u=76281980&t=191)** This is what we're going to do in the rest of this chapter.
+> **[3:11](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-categories-and-tags?u=76281980&t=191)** This is what we're going to do in the [[Representational State Transfer (REST)|rest]] of this chapter.
 >
 > **[3:14](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-categories-and-tags?u=76281980&t=194)** Build out indexes for every single category and every single tag.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (4), database (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** databaseid (5), allwpcategory (2), allwptag (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1), click on (1), open the (1)
@@ -3377,8 +3350,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generate category indexes automatically
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-category-indexes-automatically?u=76281980)
+#### [Generate category indexes automatically](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-category-indexes-automatically?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3390,7 +3362,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-category-indexes-automatically?u=76281980&t=14)** So that means we need to create a loop to say for every available category, go count out the number of posts in that category and then create index pages for that category, then move on to the next category and do the same thing.
 >
-> **[0:26](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-category-indexes-automatically?u=76281980&t=26)** The key to getting this to work is to send the right query to GraphQL, and this is what that query looks like.
+> **[0:26](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-category-indexes-automatically?u=76281980&t=26)** The key to getting this to work is to send the right query to [[GraphQL]], and this is what that query looks like.
 >
 > **[0:32](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-category-indexes-automatically?u=76281980&t=32)** We'll go to allWpCategory to get all our categories.
 >
@@ -3406,7 +3378,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-category-indexes-automatically?u=76281980&t=65)** Okay, so let's set all this up.
 >
-> **[1:06](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-category-indexes-automatically?u=76281980&t=66)** I'll start by copying out this query and going to gatsby-node.js.
+> **[1:06](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-category-indexes-automatically?u=76281980&t=66)** I'll start by copying out this query and going to gatsby-[[Node.js]].
 >
 > **[1:12](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-category-indexes-automatically?u=76281980&t=72)** Here, we already have two fragments set up, pageQuery, which we use to query pages, and postQuery for posts.
 >
@@ -3456,7 +3428,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-category-indexes-automatically?u=76281980&t=230)** As for the pathPrefix, I now need to have a path prefix that matches the category name.
 >
-> **[3:54](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-category-indexes-automatically?u=76281980&t=234)** And that's why I queried for the uri to the individual category nodes, 'cause then I already have a uri that's generated by WordPress, and I can use that uri to match it.
+> **[3:54](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-category-indexes-automatically?u=76281980&t=234)** And that's why I queried for the uri to the individual category nodes, 'cause then I already have a uri that's generated by [[WordPress]], and I can use that uri to match it.
 >
 > **[4:04](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/generate-category-indexes-automatically?u=76281980&t=244)** So down here, instead of saying posts, which is a string, I'll say category.uri.
 >
@@ -3488,7 +3460,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), node (5), next (3), [[GraphQL]] (1), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (1), [[Node.js]] (1), [[WordPress]] (1)
 > **Code Identifiers:** databaseid (4), catquery (4), allwpcategory (1), pagequery (1), postquery (1)
 > **CLI Commands:** node (6), make (1)
 > **Exercise Files:** template (5)
@@ -3497,8 +3469,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **File Paths:** gatsby-node.js (1)
 
-#### Create a category index template
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-category-index-template?u=76281980)
+#### [Create a category index template](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-category-index-template?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3562,7 +3533,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-category-index-template?u=76281980&t=161)** So now we're saying give me only the posts that belong to this category, and the category matches the databaseId, catId.
 >
-> **[2:50](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-category-index-template?u=76281980&t=170)** All right, the rest of it stays the same because we have all the information we need.
+> **[2:50](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-category-index-template?u=76281980&t=170)** All right, the [[Representational State Transfer (REST)|rest]] of it stays the same because we have all the information we need.
 >
 > **[2:54](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/create-a-category-index-template?u=76281980&t=174)** Now we need to change the output, and that's done up in the component itself.
 >
@@ -3634,7 +3605,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), [[Representational State Transfer (REST)|Rest]] (1), seo (1), data (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** catname (6), catid (5), databaseid (3), allwppost (1), pagecontext (1)
 > **CLI Commands:** make (6), node (3), find (1)
 > **UI Navigation:** go to (4), scroll down (1), click on (1)
@@ -3643,8 +3614,7 @@ created: 2026-05-02
 > **File Paths:** posts-index.js (1), templates/categories.js (1)
 > **Env Vars:** url (2)
 
-#### Challenge: Create tag indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-create-tag-indexes?u=76281980)
+#### [Challenge: Create tag indexes](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-create-tag-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3654,7 +3624,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-create-tag-indexes?u=76281980&t=10)** Here, I want you to create a tag index for your site.
 >
-> **[0:13](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-create-tag-indexes?u=76281980&t=13)** First, create a GraphQL query to retrieve all the tags and their posts.
+> **[0:13](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-create-tag-indexes?u=76281980&t=13)** First, create a [[GraphQL]] query to retrieve all the tags and their posts.
 >
 > **[0:18](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/challenge-create-tag-indexes?u=76281980&t=18)** Then build a function to output paginated tag index pages for all the tags.
 >
@@ -3670,14 +3640,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (1), next (1)
+> **Frameworks & Libraries:** [[GraphQL]] (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Create tag indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-create-tag-indexes?u=76281980)
+#### [Solution: Create tag indexes](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/solution-create-tag-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3797,7 +3766,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), node (1), next (1)
 > **Code Identifiers:** allwpcategory (2), allwptag (2), catquery (2), tagquery (2), tagid (2)
 > **CLI Commands:** make (4), find (3), node (1)
 > **Exercise Files:** template (4)
@@ -3811,14 +3779,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add custom post types and taxonomies
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-custom-post-types-and-taxonomies?u=76281980)
+#### [Add custom post types and taxonomies](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-custom-post-types-and-taxonomies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-custom-post-types-and-taxonomies?u=76281980&t=0)** - [Instructor] In advanced WordPress development, it's common to extend the functionality of WordPress by adding new Custom Post Types, and custom taxonomies, and custom fields, and custom forms, and eCommerce features, and a lot of other things.
+> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-custom-post-types-and-taxonomies?u=76281980&t=0)** - [Instructor] In advanced [[Wordpress Development]], it's common to extend the functionality of [[WordPress]] by adding new Custom Post Types, and custom taxonomies, and custom fields, and custom [[Forms]], and eCommerce features, and a lot of other things.
 >
-> **[0:12](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-custom-post-types-and-taxonomies?u=76281980&t=12)** And all of this data can be exposed through the GraphQL API as long as we tell the GraphQL API that the data exists in the first place.
+> **[0:12](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-custom-post-types-and-taxonomies?u=76281980&t=12)** And all of this data can be exposed through the [[GraphQL]] API as long as we tell the GraphQL API that the data exists in the first place.
 >
 > **[0:20](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-custom-post-types-and-taxonomies?u=76281980&t=20)** In this chapter, I want to briefly touch on how this works so you can see how, once you get it working, it works the same way as all the other data inside WordPress.
 >
@@ -3844,7 +3811,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-custom-post-types-and-taxonomies?u=76281980&t=94)** If you've created your Custom Post Types and taxonomies from scratch in your own code, you can easily expose them to GraphQL by simply setting the show_in_graphql option to true and then providing the graphql_single_name and graphql_plural_name.
 >
-> **[1:47](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-custom-post-types-and-taxonomies?u=76281980&t=107)** This is very similar to how you would expose content to the REST API inside WordPress.
+> **[1:47](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-custom-post-types-and-taxonomies?u=76281980&t=107)** This is very similar to how you would expose content to the [[Representational State Transfer (REST)|REST]] API inside WordPress.
 >
 > **[1:52](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/add-custom-post-types-and-taxonomies?u=76281980&t=112)** If, on the other hand, you're using a plugin like the Custom Post Type UI plugin, there's a good chance that this feature's already built-in or that there's a second plugin you can install to add this feature on.
 >
@@ -3886,7 +3853,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[GraphQL]] (10), [[WordPress]] (8), api (3), feature (3)
+> **Frameworks & Libraries:** [[GraphQL]] (10), [[WordPress]] (8), [[Wordpress Development]] (1), [[Forms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** allwpbook (2), ecommerce (1), show_in_graphql (1), graphql_single_name (1), graphql_plural_name (1)
 > **Env Vars:** api (3), rest (1)
 > **UI Navigation:** go to (3)
@@ -3895,14 +3862,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** similar to (1)
 
-#### Query custom post types and taxonomies in GraphQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-custom-post-types-and-taxonomies-in-graphql?u=76281980)
+#### [Query custom post types and taxonomies in GraphQL](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-custom-post-types-and-taxonomies-in-graphql?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-custom-post-types-and-taxonomies-in-graphql?u=76281980&t=0)** - [Instructor] You can probably guess what I'm about to say now because I've repeated it several times already.
 >
-> **[0:04](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-custom-post-types-and-taxonomies-in-graphql?u=76281980&t=4)** In the context of Gatsby, WordPress is just another GraphQL data source.
+> **[0:04](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-custom-post-types-and-taxonomies-in-graphql?u=76281980&t=4)** In the context of Gatsby, [[WordPress]] is just another [[GraphQL]] data source.
 >
 > **[0:09](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-custom-post-types-and-taxonomies-in-graphql?u=76281980&t=9)** And the content that comes from WordPress is structured and formatted in a specific way to make it easy and consistent to access.
 >
@@ -3944,7 +3910,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-custom-post-types-and-taxonomies-in-graphql?u=76281980&t=122)** So instead of creating an index for all posts by querying allWpPost, you can make an index for all books by querying allWpBook.
 >
-> **[2:11](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-custom-post-types-and-taxonomies-in-graphql?u=76281980&t=131)** The rest of the code stays almost identical depending on the data that's available.
+> **[2:11](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-custom-post-types-and-taxonomies-in-graphql?u=76281980&t=131)** The [[Representational State Transfer (REST)|rest]] of the code stays almost identical depending on the data that's available.
 >
 > **[2:16](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/query-custom-post-types-and-taxonomies-in-graphql?u=76281980&t=136)** And that is the core premise of all the work we've been doing so far.
 >
@@ -3952,7 +3918,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[GraphQL]] (4), [[WordPress]] (3), node (2), database (1)
+> **Frameworks & Libraries:** [[GraphQL]] (4), [[WordPress]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), node (2), find (1)
 > **Code Identifiers:** allwppost (2), allwpbook (2), databaseid (1)
 > **Cross-References:** earlier in (1)
@@ -3964,12 +3930,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What to do about Blocks (Gutenberg)
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980)
+#### [What to do about Blocks (Gutenberg)](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=0)** - [Instructor] Working with WordPress content in Gatsby, we have to address the block-sized elephant in the room, the block editor, also known as Gutenberg.
+> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=0)** - [Instructor] Working with [[WordPress]] content in Gatsby, we have to address the block-sized elephant in the room, the block editor, also known as Gutenberg.
 >
 > **[0:07](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=7)** When we create content in WordPress, blog posts, pages, custom post types or anything else, we're using the block editor and the block editor allows the creator to impose stylistic choices onto each individual block of content within that overall content.
 >
@@ -3985,7 +3950,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=39)** The list goes on.
 >
-> **[0:41](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=41)** All this block information is stored in the HTML for each individual post or page and you can see that on the back end of WordPress by switching the editor from visual editor to code editor.
+> **[0:41](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=41)** All this block information is stored in the [[HTML]] for each individual post or page and you can see that on the back end of WordPress by switching the editor from visual editor to code editor.
 >
 > **[0:51](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=51)** Here, each block starts and ends with a comment that specifies what block it is and some of these comments will have additional stylistic information.
 >
@@ -3995,7 +3960,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=65)** So drop cap true and font size medium translates to has drop cap, has medium font size.
 >
-> **[1:10](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=70)** And if we scroll further down, if there's custom sizing for example, we get style typography, font size 46 which translates to style font size 46.
+> **[1:10](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=70)** And if we scroll further down, if there's custom sizing for example, we get style [[Typography]], font size 46 which translates to style font size 46.
 >
 > **[1:21](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=81)** Now here's the thing.
 >
@@ -4021,7 +3986,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=118)** The text spacing here is all wrong.
 >
-> **[2:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=120)** This piece of text is not bigger than the rest of the text.
+> **[2:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=120)** This piece of text is not bigger than the [[Representational State Transfer (REST)|rest]] of the text.
 >
 > **[2:03](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=123)** Scrolling through, you'll see things are not looking the way you expect.
 >
@@ -4037,7 +4002,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=157)** So we need to find a different solution.
 >
-> **[2:39](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=159)** Now one possible solution is the work that's being done in WP GraphQL to extended tools to include a block editor.
+> **[2:39](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=159)** Now one possible solution is the work that's being done in WP [[GraphQL]] to extended tools to include a block editor.
 >
 > **[2:47](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=167)** That means when you query a post or a page or something that has blocks, you'd be able to also query the blocks individually, effectively get an array of all the available blocks in the current post and then you can render out the properties, the styles or any other information for each of those blocks, then apply a separate component to each of them and render it all out, inside your Gatsby application.
 >
@@ -4057,7 +4022,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=228)** Here's how you do that.
 >
-> **[3:50](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=230)** That CSS sits inside a giant JavaScript library called @wordpress/block-library.
+> **[3:50](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=230)** That CSS sits inside a giant [[JavaScript]] library called @wordpress/block-library.
 >
 > **[3:56](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=236)** This is actually a library for building Gutenberg blocks or building WordPress blocks and our purposes are not that at all, but it contains the default CSS we need to use.
 >
@@ -4069,7 +4034,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=259)** Then I'll stop my build process.
 >
-> **[4:23](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=263)** And here, I'll say npm install --save and then paste in wordpress/block-library.
+> **[4:23](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=263)** And here, I'll say [[npm]] install --save and then paste in wordpress/block-library.
 >
 > **[4:30](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/what-to-do-about-blocks-gutenberg?u=76281980&t=270)** This is the giant library so it'll take a long time to install.
 >
@@ -4101,7 +4066,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (14), css (5), [[HTML]] (3), [[GraphQL]] (2), [[Typography]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (14), [[HTML]] (3), [[GraphQL]] (2), [[Typography]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (4), html (3), api (1)
 > **CLI Commands:** find (1), npm (1), make (1)
 > **Definitions:** is a  (2), known as (1)
@@ -4115,24 +4080,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/next-steps?u=76281980&t=0)** - [Morten] That's it, you reached the end of this course, and the beginning of your own journey with Gatsby and WordPress.
+> **[0:00](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/next-steps?u=76281980&t=0)** - [Morten] That's it, you reached the end of this course, and the beginning of your own journey with Gatsby and [[WordPress]].
 >
 > **[0:05](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/next-steps?u=76281980&t=5)** Before you go, here are a few important websites and resources to keep in mind as you get started.
 >
-> **[0:09](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/next-steps?u=76281980&t=9)** First, for information on Gatsby, including starters, plug-ins, documentation, webinars, conferences, community, anything Gatsby related, check out [gatsbyjs.com](https://gatsbyjs.com).
+> **[0:09](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/next-steps?u=76281980&t=9)** First, for information on Gatsby, including starters, plug-ins, documentation, webinars, conferences, community, anything Gatsby related, check out [[[GatsbyJS]].com](https://gatsbyjs.com).
 >
-> **[0:20](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/next-steps?u=76281980&t=20)** For information of about WP GraphQL, including in-depth tutorials, documentation, and explanations on how to use and extend this interface, check out [wpgraphql.com](https://wpgraphql.com).
+> **[0:20](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/next-steps?u=76281980&t=20)** For information of about WP [[GraphQL]], including in-depth tutorials, documentation, and explanations on how to use and extend this interface, check out [wpgraphql.com](https://wpgraphql.com).
 >
-> **[0:30](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/next-steps?u=76281980&t=30)** It may also be a good idea to join the WPGraphQL Slack channel to connect with other developers using WordPress and Gatsby in combination.
+> **[0:30](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/next-steps?u=76281980&t=30)** It may also be a good idea to join the WPGraphQL [[Slack]] channel to connect with other developers using WordPress and Gatsby in combination.
 >
 > **[0:37](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/next-steps?u=76281980&t=37)** For information about how to use Gatsby source WordPress, check out the dedicated tutorials at the plugin page and in the plugin repository.
 >
-> **[0:44](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/next-steps?u=76281980&t=44)** And finally, because Gatsby is built on React, it can do anything React can do.
+> **[0:44](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/next-steps?u=76281980&t=44)** And finally, because Gatsby is built on [[React.js|React]], it can do anything React can do.
 >
 > **[0:48](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/next-steps?u=76281980&t=48)** To learn more about React, we have a long list of courses in our library.
 >
@@ -4142,7 +4106,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/next-steps?u=76281980&t=58)** You can find me on Twitter @mor10, 'cause that's my name.
 >
-> **[1:01](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/next-steps?u=76281980&t=61)** And I'm all also on LinkedIn sharing content information and useful links all the time.
+> **[1:01](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/next-steps?u=76281980&t=61)** And I'm all also on [[LinkedIn]] sharing content information and useful links all the time.
 >
 > **[1:05](https://www.linkedin.com/learning/building-a-headless-wordpress-site-with-gatsby-15801541/next-steps?u=76281980&t=65)** Now, all that's left for me to say is (indistinct).
 >

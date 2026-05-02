@@ -179,8 +179,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn Rust programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/learn-rust-programming?u=76281980)
+#### [Learn Rust programming](https://www.linkedin.com/learning/rust-essential-training/learn-rust-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -188,7 +187,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/rust-essential-training/learn-rust-programming?u=76281980&t=3)** There are a ton of languages out there to choose from, all optimized for different types of applications.
 >
-> **[0:09](https://www.linkedin.com/learning/rust-essential-training/learn-rust-programming?u=76281980&t=9)** If performance and reliability are at the top of your list of priorities, then Rust is a great language to learn.
+> **[0:09](https://www.linkedin.com/learning/rust-essential-training/learn-rust-programming?u=76281980&t=9)** If performance and reliability are at the top of your list of priorities, then [[Rust (Programming Language)|Rust]] is a great language to learn.
 >
 > **[0:17](https://www.linkedin.com/learning/rust-essential-training/learn-rust-programming?u=76281980&t=17)** It enables you to write efficient programs that run blazingly fast, and it's structured to be memory-safe and prevent common bugs, so you can be confident in your code.
 >
@@ -202,18 +201,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), [[Programming]] (2), web (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/rust-essential-training/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/rust-essential-training/what-you-should-know?u=76281980&t=0)** - [Narrator] This course is intended for beginners.
 >
-> **[0:02](https://www.linkedin.com/learning/rust-essential-training/what-you-should-know?u=76281980&t=2)** So you do not need to have any prior experience with Rust.
+> **[0:02](https://www.linkedin.com/learning/rust-essential-training/what-you-should-know?u=76281980&t=2)** So you do not need to have any prior experience with [[Rust (Programming Language)|Rust]].
 >
 > **[0:06](https://www.linkedin.com/learning/rust-essential-training/what-you-should-know?u=76281980&t=6)** We'll be starting from the very beginning.
 >
@@ -249,22 +247,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (5), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (5)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [narrator] (1)
 
-#### What is Rust?
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/what-is-rust?u=76281980)
+#### [What is Rust?](https://www.linkedin.com/learning/rust-essential-training/what-is-rust?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/what-is-rust?u=76281980&t=0)** - [Presenter] Before we dive headfirst into writing Rust code, let's take a step back to understand what makes Rust special and why developers would want to use it.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/what-is-rust?u=76281980&t=0)** - [Presenter] Before we dive headfirst into writing [[Rust (Programming Language)|Rust]] code, let's take a step back to understand what makes Rust special and why developers would want to use it.
 >
 > **[0:10](https://www.linkedin.com/learning/rust-essential-training/what-is-rust?u=76281980&t=10)** Rust is a relatively young language making its first appearance in 2010 as a Mozilla research project.
 >
 > **[0:18](https://www.linkedin.com/learning/rust-essential-training/what-is-rust?u=76281980&t=18)** It's an open source systems programming language whose syntax looks similar to C plus plus.
 >
-> **[0:24](https://www.linkedin.com/learning/rust-essential-training/what-is-rust?u=76281980&t=24)** Rust builds on decades of experience and lessons learned from programmers using C plus plus and other related languages to create a modern programming language that's designed for performance and reliability or safety especially for concurrent programming.
+> **[0:24](https://www.linkedin.com/learning/rust-essential-training/what-is-rust?u=76281980&t=24)** Rust builds on decades of experience and lessons learned from programmers using C plus plus and other related languages to create a modern programming language that's designed for performance and reliability or safety especially for [[Concurrent Programming]].
 >
 > **[0:40](https://www.linkedin.com/learning/rust-essential-training/what-is-rust?u=76281980&t=40)** Like C plus plus, Rust is a compiled language meaning it uses a program called a compiler to take the source code you write and turn it into machine code that can run natively on the system.
 >
@@ -282,7 +279,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/rust-essential-training/what-is-rust?u=76281980&t=104)** It's not possible to accidentally corrupt your data in memory.
 >
-> **[1:48](https://www.linkedin.com/learning/rust-essential-training/what-is-rust?u=76281980&t=108)** Also, since those checks are performed at compile time, it doesn't impact runtime performance like other types of dynamic memory management such as garbage collection.
+> **[1:48](https://www.linkedin.com/learning/rust-essential-training/what-is-rust?u=76281980&t=108)** Also, since those checks are performed at compile time, it doesn't impact runtime performance like other types of dynamic [[Memory Management]] such as garbage collection.
 >
 > **[1:59](https://www.linkedin.com/learning/rust-essential-training/what-is-rust?u=76281980&t=119)** The one downside to Rust's ownership model is that it's different than what most programmers are used to and therefore requires a different way of thinking which we'll cover in this course.
 >
@@ -314,7 +311,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (27), [[Programming]] (3), data (3), [[Concurrent Programming]] (1), [[Memory Management]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (27), [[Concurrent Programming]] (1), [[Memory Management]] (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** find (4)
 > **Analogies:** similar to (2), such as (1)
@@ -323,12 +320,11 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [presenter] (1)
 
-#### Rust versions
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/rust-versions?u=76281980)
+#### [Rust versions](https://www.linkedin.com/learning/rust-essential-training/rust-versions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/rust-versions?u=76281980&t=0)** - Before we install Rust and start using it, I want to make a quick comment about the versions of Rust you'll see used in this course.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/rust-versions?u=76281980&t=0)** - Before we install [[Rust (Programming Language)|Rust]] and start using it, I want to make a quick comment about the versions of Rust you'll see used in this course.
 >
 > **[0:08](https://www.linkedin.com/learning/rust-essential-training/rust-versions?u=76281980&t=8)** Rust is an actively developed language and a new version is usually released every six weeks or so.
 >
@@ -344,7 +340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (8), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (8)
 > **CLI Commands:** make (2)
 > **URLs:** [rust-lang.org](https://rust-lang.org) (1)
 > **Versions:** version 1 (1)
@@ -357,14 +353,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing Rust on Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/installing-rust-on-windows?u=76281980)
+#### [Installing Rust on Windows](https://www.linkedin.com/learning/rust-essential-training/installing-rust-on-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/installing-rust-on-windows?u=76281980&t=0)** - [Instructor] The recommended way to install Rust is through a command line tool named Rustup, which is used to manage Rust versions and its associated tools.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/installing-rust-on-windows?u=76281980&t=0)** - [Instructor] The recommended way to install [[Rust (Programming Language)|Rust]] is through a command line tool named Rustup, which is used to manage Rust versions and its associated tools.
 >
-> **[0:09](https://www.linkedin.com/learning/rust-essential-training/installing-rust-on-windows?u=76281980&t=9)** To get Rustup for Windows, go to the install page on [rust-lang.org](https://rust-lang.org), download rustup-init.exe.
+> **[0:09](https://www.linkedin.com/learning/rust-essential-training/installing-rust-on-windows?u=76281980&t=9)** To get Rustup for [[Windows]], go to the install page on [rust-lang.org](https://rust-lang.org), download rustup-init.exe.
 >
 > **[0:21](https://www.linkedin.com/learning/rust-essential-training/installing-rust-on-windows?u=76281980&t=21)** I'll switch to my downloads to find that file and then run it.
 >
@@ -424,7 +419,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (14), [[Windows]] (3), web (2), [[Search]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (14), [[Windows]] (3)
 > **Tools:** visual studio (5), vs code (2), command line (1), command prompt (1)
 > **Prerequisites:** install (8)
 > **UI Navigation:** go to (3), switch to (1), scroll down (1)
@@ -433,12 +428,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (2)
 > **Warnings:** warning (2)
 
-#### Installing Rust on Linux and macOS
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/installing-rust-on-linux-and-macos?u=76281980)
+#### [Installing Rust on Linux and macOS](https://www.linkedin.com/learning/rust-essential-training/installing-rust-on-linux-and-macos?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/installing-rust-on-linux-and-macos?u=76281980&t=0)** - [Narrator] If you're using an operating system other than Windows such as Linux or macOS you can follow the link on the install page of [rust-lang.org](https://rust-lang.org) or other installation methods.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/installing-rust-on-linux-and-macos?u=76281980&t=0)** - [Narrator] If you're using an operating system other than [[Windows]] such as [[Linux]] or macOS you can follow the link on the install page of [[[Rust (Programming Language)|rust]]-lang.org](https://rust-lang.org) or other installation methods.
 >
 > **[0:14](https://www.linkedin.com/learning/rust-essential-training/installing-rust-on-linux-and-macos?u=76281980&t=14)** Scroll down to the section on other ways to install rustup, select this shell command, copy it, switch over to a terminal, paste it, and then press Enter to run it.
 >
@@ -458,7 +452,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), [[Windows]] (1), [[Linux]] (1), next (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), [[Windows]] (1), [[Linux]] (1)
 > **Prerequisites:** install (3), configure (1)
 > **CLI Commands:** cargo (2), make (1)
 > **Documentation:** the documentation (2)
@@ -467,8 +461,7 @@ created: 2026-05-02
 > **URLs:** [rust-lang.org](https://rust-lang.org) (1)
 > **Env Vars:** home (1)
 
-#### Anatomy of a Rust program
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/anatomy-of-a-rust-program?u=76281980)
+#### [Anatomy of a Rust program](https://www.linkedin.com/learning/rust-essential-training/anatomy-of-a-rust-program?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -476,7 +469,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/rust-essential-training/anatomy-of-a-rust-program?u=76281980&t=9)** We do that to verify that our tools are installed correctly so we can successfully compile and run a program.
 >
-> **[0:15](https://www.linkedin.com/learning/rust-essential-training/anatomy-of-a-rust-program?u=76281980&t=15)** And it provides a simple entry point to begin learning about the basic structure and syntax of a Rust program.
+> **[0:15](https://www.linkedin.com/learning/rust-essential-training/anatomy-of-a-rust-program?u=76281980&t=15)** And it provides a simple entry point to begin learning about the basic structure and syntax of a [[Rust (Programming Language)|Rust]] program.
 >
 > **[0:23](https://www.linkedin.com/learning/rust-essential-training/anatomy-of-a-rust-program?u=76281980&t=23)** To begin, I'll create a new file in VS code, like going to File, New File, Then I'll go to File, Save As, and I'll name it main.rs.
 >
@@ -552,7 +545,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/rust-essential-training/anatomy-of-a-rust-program?u=76281980&t=321)** There's the original .rs source file.
 >
-> **[5:24](https://www.linkedin.com/learning/rust-essential-training/anatomy-of-a-rust-program?u=76281980&t=324)** There's a .PDB file which contains debugging information that was generated because I'm using Windows and main.exe which is the executable output file that was generated to run it, I'll type period backslash main.exe.
+> **[5:24](https://www.linkedin.com/learning/rust-essential-training/anatomy-of-a-rust-program?u=76281980&t=324)** There's a .PDB file which contains debugging information that was generated because I'm using [[Windows]] and main.exe which is the executable output file that was generated to run it, I'll type period backslash main.exe.
 >
 > **[5:42](https://www.linkedin.com/learning/rust-essential-training/anatomy-of-a-rust-program?u=76281980&t=342)** And there you have it, our message, Hello, world!
 >
@@ -562,7 +555,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (10), [[Programming]] (2), next (1), [[Debugging]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (10), [[Windows]] (1)
 > **Tools:** terminal (4), vs code (2)
 > **File Paths:** main.rs (4), extension.rs (1)
 > **CLI Commands:** ls (2), make (1)
@@ -571,8 +564,7 @@ created: 2026-05-02
 > **Env Vars:** pdb (1)
 > **UI Navigation:** go to (1)
 
-#### Adding comments
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/adding-comments?u=76281980)
+#### [Adding comments](https://www.linkedin.com/learning/rust-essential-training/adding-comments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -584,7 +576,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/rust-essential-training/adding-comments?u=76281980&t=21)** And you can do that by embedding comments in the source code.
 >
-> **[0:25](https://www.linkedin.com/learning/rust-essential-training/adding-comments?u=76281980&t=25)** The syntax for comments in Rust is similar to languages like Java and C++.
+> **[0:25](https://www.linkedin.com/learning/rust-essential-training/adding-comments?u=76281980&t=25)** The syntax for comments in [[Rust (Programming Language)|Rust]] is similar to languages like [[Java]] and C++.
 >
 > **[0:30](https://www.linkedin.com/learning/rust-essential-training/adding-comments?u=76281980&t=30)** To insert a single line comment, we write two forward slashes followed by our message.
 >
@@ -604,7 +596,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/rust-essential-training/adding-comments?u=76281980&t=82)** When the compiler sees that pattern it will ignore everything that comes after it until it encounters a second special pattern indicating the end of the comment.
 >
-> **[1:31](https://www.linkedin.com/learning/rust-essential-training/adding-comments?u=76281980&t=91)** Notice that the code editor has colored the rest of the program after line three green, indicating it's a comment.
+> **[1:31](https://www.linkedin.com/learning/rust-essential-training/adding-comments?u=76281980&t=91)** Notice that the code editor has colored the [[Representational State Transfer (REST)|rest]] of the program after line three green, indicating it's a comment.
 >
 > **[1:39](https://www.linkedin.com/learning/rust-essential-training/adding-comments?u=76281980&t=99)** Let's write a multiple line comment and then end it with an asterisk, followed by a forward slash.
 >
@@ -641,12 +633,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building programs using Cargo
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/building-programs-using-cargo-14410861?u=76281980)
+#### [Building programs using Cargo](https://www.linkedin.com/learning/rust-essential-training/building-programs-using-cargo-14410861?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/building-programs-using-cargo-14410861?u=76281980&t=0)** - [Instructor] Rust programmers don't usually invoke the rest compiler directly like we did in the previous hello world example by calling the Rustc command.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/building-programs-using-cargo-14410861?u=76281980&t=0)** - [Instructor] [[Rust (Programming Language)|Rust]] programmers don't usually invoke the [[Representational State Transfer (REST)|rest]] compiler directly like we did in the previous hello world example by calling the Rustc command.
 >
 > **[0:10](https://www.linkedin.com/learning/rust-essential-training/building-programs-using-cargo-14410861?u=76281980&t=10)** Doing so worked fine in that case because hello world was a simple program with only one source file and no external dependencies.
 >
@@ -680,7 +671,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/rust-essential-training/building-programs-using-cargo-14410861?u=76281980&t=118)** Within the top level project directory, we can see that Cargo has generated two files.
 >
-> **[2:03](https://www.linkedin.com/learning/rust-essential-training/building-programs-using-cargo-14410861?u=76281980&t=123)** If you're using git for version control, Cargo will initialize a new git repository for your project, along with a .getignore file, which tells git which files or folders to ignore.
+> **[2:03](https://www.linkedin.com/learning/rust-essential-training/building-programs-using-cargo-14410861?u=76281980&t=123)** If you're using [[Git]] for [[Version Control]], Cargo will initialize a new git repository for your project, along with a .getignore file, which tells git which files or folders to ignore.
 >
 > **[2:15](https://www.linkedin.com/learning/rust-essential-training/building-programs-using-cargo-14410861?u=76281980&t=135)** We won't worry about that for this course.
 >
@@ -688,7 +679,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/rust-essential-training/building-programs-using-cargo-14410861?u=76281980&t=144)** T O M L stands for Tom's Obvious Minimal Language.
 >
-> **[2:28](https://www.linkedin.com/learning/rust-essential-training/building-programs-using-cargo-14410861?u=76281980&t=148)** It's a text-based format for configuration files that's designed to be minimalist and easy to read, hence the word obvious in its name.
+> **[2:28](https://www.linkedin.com/learning/rust-essential-training/building-programs-using-cargo-14410861?u=76281980&t=148)** It's a text-based format for configuration files that's designed to be minimalist and easy to read, hence the [[Microsoft Word|word]] obvious in its name.
 >
 > **[2:38](https://www.linkedin.com/learning/rust-essential-training/building-programs-using-cargo-14410861?u=76281980&t=158)** Looking at our Cargo.toml file, the first line is a section header for information to configure a package and it's followed by four lines of information, including the package name, version, author, and edition.
 >
@@ -768,7 +759,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (15), [[Git]] (4), next (2), [[Debugging]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (15), [[Git]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Version Control]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** cargo (30), git (4), cd (1)
 > **File Paths:** cargo.toml (5), main.rs (1), cargo.lock (1)
 > **Versions:** version 1 (5)
@@ -782,14 +773,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Declaring variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/declaring-variables?u=76281980)
+#### [Declaring variables](https://www.linkedin.com/learning/rust-essential-training/declaring-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/rust-essential-training/declaring-variables?u=76281980&t=0)** - [Narrator] "Hello, World!", was a good first program, but it doesn't do much.
 >
-> **[0:05](https://www.linkedin.com/learning/rust-essential-training/declaring-variables?u=76281980&t=5)** So it's time to explore some of the common programming mechanisms we'll need to build more useful Rust applications. Starting with variables.
+> **[0:05](https://www.linkedin.com/learning/rust-essential-training/declaring-variables?u=76281980&t=5)** So it's time to explore some of the common programming mechanisms we'll need to build more useful [[Rust (Programming Language)|Rust]] applications. Starting with variables.
 >
 > **[0:14](https://www.linkedin.com/learning/rust-essential-training/declaring-variables?u=76281980&t=14)** Variables, are used in virtually every program to store and manipulate data.
 >
@@ -853,7 +843,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/rust-essential-training/declaring-variables?u=76281980&t=207)** And in many other common programming languages this default restriction doesn't exist.
 >
-> **[3:32](https://www.linkedin.com/learning/rust-essential-training/declaring-variables?u=76281980&t=212)** If you need to change the value of a variable in Rust, you have to explicitly declare that variable as being mutable, using the key word mut.
+> **[3:32](https://www.linkedin.com/learning/rust-essential-training/declaring-variables?u=76281980&t=212)** If you need to change the value of a variable in Rust, you have to explicitly declare that variable as being mutable, using the key [[Microsoft Word|word]] mut.
 >
 > **[3:41](https://www.linkedin.com/learning/rust-essential-training/declaring-variables?u=76281980&t=221)** This is one example of how Rust is designed with safety and reliability in mind.
 >
@@ -895,14 +885,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (13), [[Programming]] (3), data (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (13), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** cargo (1), make (1)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Integer data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/integer-data-types?u=76281980)
+#### [Integer data types](https://www.linkedin.com/learning/rust-essential-training/integer-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -932,11 +921,11 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/rust-essential-training/integer-data-types?u=76281980&t=96)** That's an invalid operation.
 >
-> **[1:39](https://www.linkedin.com/learning/rust-essential-training/integer-data-types?u=76281980&t=99)** Rust is what's known as a Statically Typed Language, which means every variable in your program must have a known data type for the program to compile.
+> **[1:39](https://www.linkedin.com/learning/rust-essential-training/integer-data-types?u=76281980&t=99)** [[Rust (Programming Language)|Rust]] is what's known as a Statically Typed Language, which means every variable in your program must have a known data type for the program to compile.
 >
-> **[1:48](https://www.linkedin.com/learning/rust-essential-training/integer-data-types?u=76281980&t=108)** The rest compiler uses that information to strictly enforce type roles to make sure you're always using data of different types in valid ways.
+> **[1:48](https://www.linkedin.com/learning/rust-essential-training/integer-data-types?u=76281980&t=108)** The [[Representational State Transfer (REST)|rest]] compiler uses that information to strictly enforce type roles to make sure you're always using data of different types in valid ways.
 >
-> **[1:57](https://www.linkedin.com/learning/rust-essential-training/integer-data-types?u=76281980&t=117)** A few other common statically typed programming languages include Java, C, C++ and Go.
+> **[1:57](https://www.linkedin.com/learning/rust-essential-training/integer-data-types?u=76281980&t=117)** A few other common statically typed programming languages include [[Java]], C, C++ and Go.
 >
 > **[2:03](https://www.linkedin.com/learning/rust-essential-training/integer-data-types?u=76281980&t=123)** So if you have experience using those languages this concept should be familiar.
 >
@@ -1010,14 +999,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Rust (Programming Language)|Rust]] (8), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (8), [[Representational State Transfer (REST)|Rest]] (1), [[Java]] (1)
 > **CLI Commands:** make (5), cargo (1)
 > **Definitions:** is an  (1), known as (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Floating-point data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/floating-point-data-types?u=76281980)
+#### [Floating-point data types](https://www.linkedin.com/learning/rust-essential-training/floating-point-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1025,7 +1013,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/rust-essential-training/floating-point-data-types?u=76281980&t=5)** If you need to store a number with decimal places, you should use a floating-point type.
 >
-> **[0:10](https://www.linkedin.com/learning/rust-essential-training/floating-point-data-types?u=76281980&t=10)** Rust supports two floating point data types.
+> **[0:10](https://www.linkedin.com/learning/rust-essential-training/floating-point-data-types?u=76281980&t=10)** [[Rust (Programming Language)|Rust]] supports two floating point data types.
 >
 > **[0:13](https://www.linkedin.com/learning/rust-essential-training/floating-point-data-types?u=76281980&t=13)** A 32 bit version, and a 64 bit version.
 >
@@ -1127,7 +1115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Rust (Programming Language)|Rust]] (5), power (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (5)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Versions:** 1.7 (1)
@@ -1135,12 +1123,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - the (1)
 
-#### Arithmetic operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/arithmetic-operations?u=76281980)
+#### [Arithmetic operations](https://www.linkedin.com/learning/rust-essential-training/arithmetic-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/arithmetic-operations?u=76281980&t=0)** - [Instructor] Rust provides the standard set of arithmetic operations you can expect from any programming language, including addition, subtraction, multiplication, division and the modulo operator.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/arithmetic-operations?u=76281980&t=0)** - [Instructor] [[Rust (Programming Language)|Rust]] provides the standard set of arithmetic operations you can expect from any programming language, including addition, subtraction, multiplication, division and the modulo operator.
 >
 > **[0:12](https://www.linkedin.com/learning/rust-essential-training/arithmetic-operations?u=76281980&t=12)** The code shown here demonstrates the addition operator which we've already used in a previous video.
 >
@@ -1248,13 +1235,13 @@ created: 2026-05-02
 >
 > **[6:05](https://www.linkedin.com/learning/rust-essential-training/arithmetic-operations?u=76281980&t=365)** If we want the addition to occur first, we can use parenthesis to control the order of evaluation.
 >
-> **[6:13](https://www.linkedin.com/learning/rust-essential-training/arithmetic-operations?u=76281980&t=373)** The expression inside of the parenthesis will be evaluated first on it's own, and then its result will be used to evaluate the rest of the expression.
+> **[6:13](https://www.linkedin.com/learning/rust-essential-training/arithmetic-operations?u=76281980&t=373)** The expression inside of the parenthesis will be evaluated first on it's own, and then its result will be used to evaluate the [[Representational State Transfer (REST)|rest]] of the expression.
 >
 > **[6:22](https://www.linkedin.com/learning/rust-essential-training/arithmetic-operations?u=76281980&t=382)** So, when I run the program now, it will first add b plus one which gives us four, and then after that, it will divide a, which is 10 by four resulting in the final value of c being 2.5.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (7), data (6), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (7), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 3.333 (2), 3.33 (1), 3.9 (1), 4.3 (1), 3.3 (1)
 > **Cross-References:** previous video (1)
 > **Analogies:** for example (1)
@@ -1262,14 +1249,13 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Formatting print statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/formatting-print-statements?u=76281980)
+#### [Formatting print statements](https://www.linkedin.com/learning/rust-essential-training/formatting-print-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/rust-essential-training/formatting-print-statements?u=76281980&t=0)** - [Instructor] The print line macro is incredibly useful to display a string of information.
 >
-> **[0:05](https://www.linkedin.com/learning/rust-essential-training/formatting-print-statements?u=76281980&t=5)** And Rust has lots of formatting options to control how that information gets presented.
+> **[0:05](https://www.linkedin.com/learning/rust-essential-training/formatting-print-statements?u=76281980&t=5)** And [[Rust (Programming Language)|Rust]] has lots of formatting options to control how that information gets presented.
 >
 > **[0:10](https://www.linkedin.com/learning/rust-essential-training/formatting-print-statements?u=76281980&t=10)** So, let's look at some of those.
 >
@@ -1373,20 +1359,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), feature (3), next (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4)
 > **Versions:** 3.3 (2), version 1 (2), 3.333 (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bitwise operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/bitwise-operations?u=76281980)
+#### [Bitwise operations](https://www.linkedin.com/learning/rust-essential-training/bitwise-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/rust-essential-training/bitwise-operations?u=76281980&t=0)** - [Instructor] Remember that under the hood, a computer uses sequences of binary bits, or ones and zeros to represent information.
 >
-> **[0:08](https://www.linkedin.com/learning/rust-essential-training/bitwise-operations?u=76281980&t=8)** We can define values in Rust using a binary notation with the prefix 0b, followed by a sequence of ones and zeros, as shown here on line two.
+> **[0:08](https://www.linkedin.com/learning/rust-essential-training/bitwise-operations?u=76281980&t=8)** We can define values in [[Rust (Programming Language)|Rust]] using a binary notation with the prefix 0b, followed by a sequence of ones and zeros, as shown here on line two.
 >
 > **[0:19](https://www.linkedin.com/learning/rust-essential-training/bitwise-operations?u=76281980&t=19)** Written out like this, this kind of sequence can be visually hard to interpret.
 >
@@ -1470,7 +1455,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/rust-essential-training/bitwise-operations?u=76281980&t=299)** One common use for bitwise AND is to clear the value of a specific bit.
 >
-> **[5:04](https://www.linkedin.com/learning/rust-essential-training/bitwise-operations?u=76281980&t=304)** Let's say we want to change the value of the bit at this position to be zero while maintaining the current value of the rest of these bits.
+> **[5:04](https://www.linkedin.com/learning/rust-essential-training/bitwise-operations?u=76281980&t=304)** Let's say we want to change the value of the bit at this position to be zero while maintaining the current value of the [[Representational State Transfer (REST)|rest]] of these bits.
 >
 > **[5:12](https://www.linkedin.com/learning/rust-essential-training/bitwise-operations?u=76281980&t=312)** If we bitwise AND that sequence with another sequence containing all ones, except for the bit we want to change to zero, the existing value for all the bits we want to maintain will effectively pass through, while the bit we want to clear is set to zero in the output.
 >
@@ -1564,19 +1549,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (10), data (7), [[Programming]] (5), next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (10), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** xor (6)
 > **Analogies:** for example (2), such as (1), think of it like (1)
 > **Definitions:** is a  (1), stands for (1)
 > **Prerequisites:** configure (2)
 > **Speakers:** - [instructor] (1)
 
-#### Boolean data type and operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/boolean-data-type-and-operations?u=76281980)
+#### [Boolean data type and operations](https://www.linkedin.com/learning/rust-essential-training/boolean-data-type-and-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/boolean-data-type-and-operations?u=76281980&t=0)** - [Instructor] In addition to integer and floating point data types, Rust has another primitive data type called a Boolean which can have one of two possible values either true or false.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/boolean-data-type-and-operations?u=76281980&t=0)** - [Instructor] In addition to integer and floating point data types, [[Rust (Programming Language)|Rust]] has another primitive data type called a Boolean which can have one of two possible values either true or false.
 >
 > **[0:12](https://www.linkedin.com/learning/rust-essential-training/boolean-data-type-and-operations?u=76281980&t=12)** We can use the same set of logical operators we saw in the previous video to evaluate Boolean values with NOT, AND, OR an XOR.
 >
@@ -1640,15 +1624,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Rust (Programming Language)|Rust]] (2)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2)
 > **Env Vars:** xor (7)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (2)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparison operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/comparison-operations?u=76281980)
+#### [Comparison operations](https://www.linkedin.com/learning/rust-essential-training/comparison-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1678,7 +1661,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/rust-essential-training/comparison-operations?u=76281980&t=107)** When I run the code now, as we should expect, the equality comparison is false, because a and b have different values, and the non equality comparison evaluates to true.
 >
-> **[2:01](https://www.linkedin.com/learning/rust-essential-training/comparison-operations?u=76281980&t=121)** Below that, notice that the two greater than comparisons both evaluate to true, meaning Rust considers a greater than or equal to b, and the two less than comparisons are both false.
+> **[2:01](https://www.linkedin.com/learning/rust-essential-training/comparison-operations?u=76281980&t=121)** Below that, notice that the two greater than comparisons both evaluate to true, meaning [[Rust (Programming Language)|Rust]] considers a greater than or equal to b, and the two less than comparisons are both false.
 >
 > **[2:14](https://www.linkedin.com/learning/rust-essential-training/comparison-operations?u=76281980&t=134)** These comparison results make sense if we think about the Boolean value of true corresponding to the integer value of one and the Boolean value false corresponding to zero, because one is greater than zero.
 >
@@ -1694,21 +1677,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Rust (Programming Language)|Rust]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [teacher] (1)
 
-#### Char data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/char-data-types?u=76281980)
+#### [Char data types](https://www.linkedin.com/learning/rust-essential-training/char-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/rust-essential-training/char-data-types?u=76281980&t=0)** - [Narrator] The Char data type can be used to represent a single character such as a single letter or perhaps a number.
 >
-> **[0:07](https://www.linkedin.com/learning/rust-essential-training/char-data-types?u=76281980&t=7)** In Rust, the Char data type is a Unicode scalar value and all Char's take up exactly four bytes of memory.
+> **[0:07](https://www.linkedin.com/learning/rust-essential-training/char-data-types?u=76281980&t=7)** In [[Rust (Programming Language)|Rust]], the Char data type is a Unicode scalar value and all Char's take up exactly four bytes of memory.
 >
 > **[0:16](https://www.linkedin.com/learning/rust-essential-training/char-data-types?u=76281980&t=16)** This is different than other languages like C and C++, which typically store character values using just a single bite.
 >
@@ -1740,25 +1722,24 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/rust-essential-training/char-data-types?u=76281980&t=136)** The VS code editors built in terminal is able to display the pointing finger.
 >
-> **[2:22](https://www.linkedin.com/learning/rust-essential-training/char-data-types?u=76281980&t=142)** But if I try to run that same program from the Windows command prompt we get the letter a and the one but the finger is replaced by a box with a question mark because the command prompt cannot display that character.
+> **[2:22](https://www.linkedin.com/learning/rust-essential-training/char-data-types?u=76281980&t=142)** But if I try to run that same program from the [[Windows]] command prompt we get the letter a and the one but the finger is replaced by a box with a question mark because the command prompt cannot display that character.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (5), data (4), prompt (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (5), [[Windows]] (1)
 > **Tools:** command prompt (2), vs code (1), terminal (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Find the average
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/challenge-find-the-average?u=76281980)
+#### [Challenge: Find the average](https://www.linkedin.com/learning/rust-essential-training/challenge-find-the-average?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/rust-essential-training/challenge-find-the-average?u=76281980&t=0)** - [Instructor] All right, folks.
 >
-> **[0:06](https://www.linkedin.com/learning/rust-essential-training/challenge-find-the-average?u=76281980&t=6)** It's time for a challenge to practice working with different data types and numeric operations in Rust.
+> **[0:06](https://www.linkedin.com/learning/rust-essential-training/challenge-find-the-average?u=76281980&t=6)** It's time for a challenge to practice working with different data types and numeric operations in [[Rust (Programming Language)|Rust]].
 >
 > **[0:12](https://www.linkedin.com/learning/rust-essential-training/challenge-find-the-average?u=76281980&t=12)** Your goal for this challenge will be to compute the arithmetic average, or mean, of three given numbers that can be calculated by adding the three numbers together and then dividing their sum by three.
 >
@@ -1782,7 +1763,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Rust (Programming Language)|Rust]] (1), next (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (1)
 > **CLI Commands:** make (1)
 > **Versions:** 45.1 (1)
 > **Cross-References:** next video (1)
@@ -1791,8 +1772,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Find the average
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/solution-find-the-average?u=76281980)
+#### [Solution: Find the average](https://www.linkedin.com/learning/rust-essential-training/solution-find-the-average?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1854,7 +1834,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1)
 > **Env Vars:** f64 (3), f32 (2)
 > **Versions:** 45.1 (2), 45.100002 (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -1868,12 +1847,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/arrays?u=76281980)
+#### [Arrays](https://www.linkedin.com/learning/rust-essential-training/arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/arrays?u=76281980&t=0)** - [Instructor] In addition to the primitive data types we've looked at so far which can each be used to represent a single scalar value, Rust also has a few compound data types which you can use to store multiple values.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/arrays?u=76281980&t=0)** - [Instructor] In addition to the primitive data types we've looked at so far which can each be used to represent a single scalar value, [[Rust (Programming Language)|Rust]] also has a few compound data types which you can use to store multiple values.
 >
 > **[0:15](https://www.linkedin.com/learning/rust-essential-training/arrays?u=76281980&t=15)** An array can be used to hold a collection of elements that all have the same data type.
 >
@@ -1983,18 +1961,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Rust (Programming Language)|Rust]] (9), [[Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (9)
 > **CLI Commands:** make (3)
 > **Cross-References:** we covered (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multidimensional arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/multidimensional-arrays?u=76281980)
+#### [Multidimensional arrays](https://www.linkedin.com/learning/rust-essential-training/multidimensional-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/multidimensional-arrays?u=76281980&t=0)** - Arrays in Rust can have more than one dimension.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/multidimensional-arrays?u=76281980&t=0)** - Arrays in [[Rust (Programming Language)|Rust]] can have more than one dimension.
 >
 > **[0:04](https://www.linkedin.com/learning/rust-essential-training/multidimensional-arrays?u=76281980&t=4)** If we think of a basic one-dimensional array as being like a row of parked cars with each spot having a unique index number to identify it, then a two-dimensional array is like a parking lot where you'll need two index values to locate your car.
 >
@@ -2076,15 +2053,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Rust (Programming Language)|Rust]] (3), next (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3)
 > **Prerequisites:** you'll need (3)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), similar to (1)
 > **Speakers:** - arrays (1)
 
-#### Tuples
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/tuples?u=76281980)
+#### [Tuples](https://www.linkedin.com/learning/rust-essential-training/tuples?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2106,7 +2082,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/rust-essential-training/tuples?u=76281980&t=71)** So we grouped them together in a glove box.
 >
-> **[1:15](https://www.linkedin.com/learning/rust-essential-training/tuples?u=76281980&t=75)** The syntax to declare a tuple in Rust looks similar to the syntax to initialize a new array except instead of using square brackets, we enclose the list of values in parentheses.
+> **[1:15](https://www.linkedin.com/learning/rust-essential-training/tuples?u=76281980&t=75)** The syntax to declare a tuple in [[Rust (Programming Language)|Rust]] looks similar to the syntax to initialize a new array except instead of using square brackets, we enclose the list of values in parentheses.
 >
 > **[1:27](https://www.linkedin.com/learning/rust-essential-training/tuples?u=76281980&t=87)** So let's declare a new tuple named stuff and give it an integer 10, a float value of 3.14 and the character x.
 >
@@ -2160,7 +2136,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Rust (Programming Language)|Rust]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (1)
 > **Versions:** 3.14 (4)
 > **Analogies:** similar to (2)
 > **CLI Commands:** make (1)
@@ -2172,8 +2148,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Function parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/function-parameters?u=76281980)
+#### [Function parameters](https://www.linkedin.com/learning/rust-essential-training/function-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2181,7 +2156,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/rust-essential-training/function-parameters?u=76281980&t=9)** It's rare to encounter a program that doesn't use functions.
 >
-> **[0:13](https://www.linkedin.com/learning/rust-essential-training/function-parameters?u=76281980&t=13)** In fact, every rest program has at least one function.
+> **[0:13](https://www.linkedin.com/learning/rust-essential-training/function-parameters?u=76281980&t=13)** In fact, every [[Representational State Transfer (REST)|rest]] program has at least one function.
 >
 > **[0:17](https://www.linkedin.com/learning/rust-essential-training/function-parameters?u=76281980&t=17)** The main function, which serves as the entry point to begin execution.
 >
@@ -2195,7 +2170,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/rust-essential-training/function-parameters?u=76281980&t=56)** Notice that we've defined the say hello function after the main function, which is where it gets called.
 >
-> **[1:02](https://www.linkedin.com/learning/rust-essential-training/function-parameters?u=76281980&t=62)** Unlike some other languages which require functions to be declared before they're called, rust doesn't care where you define your functions.
+> **[1:02](https://www.linkedin.com/learning/rust-essential-training/function-parameters?u=76281980&t=62)** Unlike some other languages which require functions to be declared before they're called, [[Rust (Programming Language)|rust]] doesn't care where you define your functions.
 >
 > **[1:11](https://www.linkedin.com/learning/rust-essential-training/function-parameters?u=76281980&t=71)** By save and run this program the main function runs which then calls the, say hello function to execute which in turn prints the hello message.
 >
@@ -2281,14 +2256,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Rust (Programming Language)|Rust]] (5), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (5), [[Representational State Transfer (REST)|Rest]] (2)
 > **Definitions:** is a  (3), defined as (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Statements vs. expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/statements-vs-expressions?u=76281980)
+#### [Statements vs. expressions](https://www.linkedin.com/learning/rust-essential-training/statements-vs-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2298,7 +2272,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/rust-essential-training/statements-vs-expressions?u=76281980&t=18)** It doesn't return a value that can be used elsewhere.
 >
-> **[0:22](https://www.linkedin.com/learning/rust-essential-training/statements-vs-expressions?u=76281980&t=22)** We write statements in Rust as instructions that end with a semicolon.
+> **[0:22](https://www.linkedin.com/learning/rust-essential-training/statements-vs-expressions?u=76281980&t=22)** We write statements in [[Rust (Programming Language)|Rust]] as instructions that end with a semicolon.
 >
 > **[0:27](https://www.linkedin.com/learning/rust-essential-training/statements-vs-expressions?u=76281980&t=27)** For example, x = 1 is a statement because it performs its action, assigning the value 1 to x, but we don't get anything back as output after it.
 >
@@ -2327,8 +2301,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Function return values
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/function-return-values?u=76281980)
+#### [Function return values](https://www.linkedin.com/learning/rust-essential-training/function-return-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2350,7 +2323,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/rust-essential-training/function-return-values?u=76281980&t=55)** I intentionally did not add a semi-colon to the end of line six, which leaves X times X as an expression.
 >
-> **[1:02](https://www.linkedin.com/learning/rust-essential-training/function-return-values?u=76281980&t=62)** In Rust, when we make the last line of a function an expression, the result from that expression will get passed out as the return value from that function.
+> **[1:02](https://www.linkedin.com/learning/rust-essential-training/function-return-values?u=76281980&t=62)** In [[Rust (Programming Language)|Rust]], when we make the last line of a function an expression, the result from that expression will get passed out as the return value from that function.
 >
 > **[1:12](https://www.linkedin.com/learning/rust-essential-training/function-return-values?u=76281980&t=72)** Let's add a print macro at the beginning of this function so we can see that it's executing.
 >
@@ -2410,15 +2383,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Rust (Programming Language)|Rust]] (3)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Convert temperature
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/challenge-convert-temperature?u=76281980)
+#### [Challenge: Convert temperature](https://www.linkedin.com/learning/rust-essential-training/challenge-convert-temperature?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2432,7 +2404,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/rust-essential-training/challenge-convert-temperature?u=76281980&t=22)** I think a program to translate will help us communicate better.
 >
-> **[0:26](https://www.linkedin.com/learning/rust-essential-training/challenge-convert-temperature?u=76281980&t=26)** Your goal for this challenge is to write a Rust function named Celsius to Fahrenheit.
+> **[0:26](https://www.linkedin.com/learning/rust-essential-training/challenge-convert-temperature?u=76281980&t=26)** Your goal for this challenge is to write a [[Rust (Programming Language)|Rust]] function named Celsius to Fahrenheit.
 >
 > **[0:31](https://www.linkedin.com/learning/rust-essential-training/challenge-convert-temperature?u=76281980&t=31)** It should have an input parameter to accept a temperature value in Celsius.
 >
@@ -2456,13 +2428,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), [[Rust (Programming Language)|Rust]] (1), next (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (1)
 > **Versions:** 1.8 (1)
 > **Cross-References:** next video (1)
 > **Exercise Files:** exercise files (1)
 
-#### Solution: Convert temperature
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/solution-convert-temperature?u=76281980)
+#### [Solution: Convert temperature](https://www.linkedin.com/learning/rust-essential-training/solution-convert-temperature?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2482,7 +2453,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/rust-essential-training/solution-convert-temperature?u=76281980&t=59)** Everything compiles fine, and when it runs, we get the message that the test passed.
 >
-> **[1:04](https://www.linkedin.com/learning/rust-essential-training/solution-convert-temperature?u=76281980&t=64)** This challenge gave us practice writing a function in Rust with an input parameter and returning a result value.
+> **[1:04](https://www.linkedin.com/learning/rust-essential-training/solution-convert-temperature?u=76281980&t=64)** This challenge gave us practice writing a function in [[Rust (Programming Language)|Rust]] with an input parameter and returning a result value.
 
 > [!info]- Semantic Content
 >
@@ -2497,8 +2468,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conditional execution
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/conditional-execution?u=76281980)
+#### [Conditional execution](https://www.linkedin.com/learning/rust-essential-training/conditional-execution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2506,7 +2476,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/rust-essential-training/conditional-execution?u=76281980&t=18)** Perhaps we don't want to execute certain parts of the code, or maybe we want to repeat a set of instructions multiple times.
 >
-> **[0:26](https://www.linkedin.com/learning/rust-essential-training/conditional-execution?u=76281980&t=26)** Rust has several mechanisms we can use to control the flow of a program's execution in those ways.
+> **[0:26](https://www.linkedin.com/learning/rust-essential-training/conditional-execution?u=76281980&t=26)** [[Rust (Programming Language)|Rust]] has several mechanisms we can use to control the flow of a program's execution in those ways.
 >
 > **[0:32](https://www.linkedin.com/learning/rust-essential-training/conditional-execution?u=76281980&t=32)** If expressions let us control which code gets executed depending on conditions the program can evaluate at runtime.
 >
@@ -2552,14 +2522,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), [[Programming]] (1), data (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multiple conditions
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/multiple-conditions?u=76281980)
+#### [Multiple conditions](https://www.linkedin.com/learning/rust-essential-training/multiple-conditions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2591,7 +2560,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/rust-essential-training/multiple-conditions?u=76281980&t=109)** Notice that I've indented the nested if expressions on lines eight through 12, compared to the if/else block that's holding it.
 >
-> **[1:56](https://www.linkedin.com/learning/rust-essential-training/multiple-conditions?u=76281980&t=116)** This is common practice to make the code more readable and visually differentiate the nested levels, but the rust compiler doesn't care.
+> **[1:56](https://www.linkedin.com/learning/rust-essential-training/multiple-conditions?u=76281980&t=116)** This is common practice to make the code more readable and visually differentiate the nested levels, but the [[Rust (Programming Language)|rust]] compiler doesn't care.
 >
 > **[2:04](https://www.linkedin.com/learning/rust-essential-training/multiple-conditions?u=76281980&t=124)** Again, the indentation is just to make it look nice for the programmer.
 >
@@ -2622,8 +2591,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Conditional assignment
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/conditional-assignment?u=76281980)
+#### [Conditional assignment](https://www.linkedin.com/learning/rust-essential-training/conditional-assignment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2657,7 +2625,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/rust-essential-training/conditional-assignment?u=76281980&t=85)** But if the condition for the if expression on line five was based on something more dynamic that was determined at runtime, there is the potential that X would not get initialized before we use its value for the print statement.
 >
-> **[1:39](https://www.linkedin.com/learning/rust-essential-training/conditional-assignment?u=76281980&t=99)** The Rust compiler is keeping us safe by checking every possible path of execution between declaring X on line three and using it on line 11 to make sure it will always get initialized to a value.
+> **[1:39](https://www.linkedin.com/learning/rust-essential-training/conditional-assignment?u=76281980&t=99)** The [[Rust (Programming Language)|Rust]] compiler is keeping us safe by checking every possible path of execution between declaring X on line three and using it on line 11 to make sure it will always get initialized to a value.
 >
 > **[1:52](https://www.linkedin.com/learning/rust-essential-training/conditional-assignment?u=76281980&t=112)** It's protecting us from using uninitialized variables.
 >
@@ -2689,14 +2657,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), data (2)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4)
 > **CLI Commands:** make (9)
 > **Definitions:** is a  (1)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/loops?u=76281980)
+#### [Loops](https://www.linkedin.com/learning/rust-essential-training/loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2704,7 +2671,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/rust-essential-training/loops?u=76281980&t=7)** And we can accomplish that using Loops.
 >
-> **[0:10](https://www.linkedin.com/learning/rust-essential-training/loops?u=76281980&t=10)** Rust has three primary types of Loop expressions that are commonly used.
+> **[0:10](https://www.linkedin.com/learning/rust-essential-training/loops?u=76281980&t=10)** [[Rust (Programming Language)|Rust]] has three primary types of Loop expressions that are commonly used.
 >
 > **[0:14](https://www.linkedin.com/learning/rust-essential-training/loops?u=76281980&t=14)** Named loop, while and for.
 >
@@ -2776,18 +2743,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), feature (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### While loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/while-loops?u=76281980)
+#### [While loops](https://www.linkedin.com/learning/rust-essential-training/while-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/while-loops?u=76281980&t=0)** - The keyword while is used to create a while loop in Rust that will continuously repeat a block of code while a specific condition is true.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/while-loops?u=76281980&t=0)** - The keyword while is used to create a while loop in [[Rust (Programming Language)|Rust]] that will continuously repeat a block of code while a specific condition is true.
 >
 > **[0:10](https://www.linkedin.com/learning/rust-essential-training/while-loops?u=76281980&t=10)** To demonstrate that let's create a while loop that repeatedly increments, the count variable declared on line 2, until it reaches the value 10.
 >
@@ -2863,7 +2829,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), [[Programming]] (1), data (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4)
 > **Env Vars:** abc (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
@@ -2872,8 +2838,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - the (1)
 
-#### For loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/for-loops-14412574?u=76281980)
+#### [For loops](https://www.linkedin.com/learning/rust-essential-training/for-loops-14412574?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2901,7 +2866,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/rust-essential-training/for-loops-14412574?u=76281980&t=97)** Then it repeats that process over and over until the iterator reaches the end.
 >
-> **[1:43](https://www.linkedin.com/learning/rust-essential-training/for-loops-14412574?u=76281980&t=103)** Now, it's important to point out that I've updated this particular video to use a newer version of Rust than the majority of this course and that's because Rust version 1.53 implemented the into iterator trait for arrays, which you can read about in this release announcement on the Rust blog.
+> **[1:43](https://www.linkedin.com/learning/rust-essential-training/for-loops-14412574?u=76281980&t=103)** Now, it's important to point out that I've updated this particular video to use a newer version of [[Rust (Programming Language)|Rust]] than the majority of this course and that's because Rust version 1.53 implemented the into iterator trait for arrays, which you can read about in this release announcement on the Rust blog.
 >
 > **[2:02](https://www.linkedin.com/learning/rust-essential-training/for-loops-14412574?u=76281980&t=122)** Understanding this update involves the Rust concepts of traits and references, which are both more advanced topics we'll cover later in this course, so that makes the change difficult to explain in detail now.
 >
@@ -2963,19 +2928,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Rust (Programming Language)|Rust]] (6), data (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (6)
 > **Versions:** version 1 (2), 1.53 (1)
 > **Cross-References:** previous video (1), later in (1)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Nested loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/nested-loops?u=76281980)
+#### [Nested loops](https://www.linkedin.com/learning/rust-essential-training/nested-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/nested-loops?u=76281980&t=0)** - [Narrator] In rust, multiple loops can be nested inside of one another.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/nested-loops?u=76281980&t=0)** - [Narrator] In [[Rust (Programming Language)|rust]], multiple loops can be nested inside of one another.
 >
 > **[0:04](https://www.linkedin.com/learning/rust-essential-training/nested-loops?u=76281980&t=4)** And one common reason for doing that is to process the elements of a multi-dimensional array.
 >
@@ -3028,8 +2992,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Max, min, mean
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/challenge-max-min-mean?u=76281980)
+#### [Challenge: Max, min, mean](https://www.linkedin.com/learning/rust-essential-training/challenge-max-min-mean?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3069,12 +3032,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Max, min, mean
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/solution-max-min-mean?u=76281980)
+#### [Solution: Max, min, mean](https://www.linkedin.com/learning/rust-essential-training/solution-max-min-mean?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3125,12 +3086,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Variable scope
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/variable-scope?u=76281980)
+#### [Variable scope](https://www.linkedin.com/learning/rust-essential-training/variable-scope?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/variable-scope?u=76281980&t=0)** - [Presenter] It's time to shift our focus from learning about basic programming constructs like functions and loops to discuss some of the key concepts you'll need to consider when programming in Rust.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/variable-scope?u=76281980&t=0)** - [Presenter] It's time to shift our focus from learning about basic programming constructs like functions and loops to discuss some of the key concepts you'll need to consider when programming in [[Rust (Programming Language)|Rust]].
 >
 > **[0:12](https://www.linkedin.com/learning/rust-essential-training/variable-scope?u=76281980&t=12)** Our first concept is scope which describes the region of a program or a specific variable is valid and can be used.
 >
@@ -3168,18 +3128,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [presenter] (1)
 
-#### Shadowing variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/shadowing-variables-14412576?u=76281980)
+#### [Shadowing variables](https://www.linkedin.com/learning/rust-essential-training/shadowing-variables-14412576?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/shadowing-variables-14412576?u=76281980&t=0)** - [Presenter] When we first learned about variables, we saw that unless you explicitly declare a variable to be mutable, by default Rust will make it immutable, meaning its value can not be changed.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/shadowing-variables-14412576?u=76281980&t=0)** - [Presenter] When we first learned about variables, we saw that unless you explicitly declare a variable to be mutable, by default [[Rust (Programming Language)|Rust]] will make it immutable, meaning its value can not be changed.
 >
 > **[0:13](https://www.linkedin.com/learning/rust-essential-training/shadowing-variables-14412576?u=76281980&t=13)** However, Rust will allow us to declare a new variable with the same name as an existing one.
 >
@@ -3211,7 +3170,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/rust-essential-training/shadowing-variables-14412576?u=76281980&t=124)** I'll run that again, and now the planet has gone from Earth to four.
 >
-> **[2:12](https://www.linkedin.com/learning/rust-essential-training/shadowing-variables-14412576?u=76281980&t=132)** Now, since all of this code is within the same scope of the main function, after the original planet variable is shadowed, we only see the new planet variable for the rest of the program, but if these variables have different scopes, then the shadowing will only last as long as the shadowing variable is valid.
+> **[2:12](https://www.linkedin.com/learning/rust-essential-training/shadowing-variables-14412576?u=76281980&t=132)** Now, since all of this code is within the same scope of the main function, after the original planet variable is shadowed, we only see the new planet variable for the [[Representational State Transfer (REST)|rest]] of the program, but if these variables have different scopes, then the shadowing will only last as long as the shadowing variable is valid.
 >
 > **[2:32](https://www.linkedin.com/learning/rust-essential-training/shadowing-variables-14412576?u=76281980&t=152)** To demonstrate that, let's use a pair of curly braces to define a separate code block around the second shadowing planet.
 >
@@ -3231,22 +3190,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Rust (Programming Language)|Rust]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** later in (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [presenter] (1)
 
-#### Stack and heap memory
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/stack-and-heap-memory?u=76281980)
+#### [Stack and heap memory](https://www.linkedin.com/learning/rust-essential-training/stack-and-heap-memory?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/rust-essential-training/stack-and-heap-memory?u=76281980&t=0)** - [Instructor] So far, we've looked at how information can be stored using different data types, but we have not talked about where that data is held in memory, how it's organized and how your program accesses it.
 >
-> **[0:12](https://www.linkedin.com/learning/rust-essential-training/stack-and-heap-memory?u=76281980&t=12)** In some higher level programming languages like Python, you don't need to worry about any of that because those details are all abstracted away from you as the programmer.
+> **[0:12](https://www.linkedin.com/learning/rust-essential-training/stack-and-heap-memory?u=76281980&t=12)** In some higher level programming languages like [[Python (Programming Language)|Python]], you don't need to worry about any of that because those details are all abstracted away from you as the programmer.
 >
-> **[0:22](https://www.linkedin.com/learning/rust-essential-training/stack-and-heap-memory?u=76281980&t=22)** But Rust is designed for lower levels systems programming, and which part of memory a variable lives in can affect how you use it.
+> **[0:22](https://www.linkedin.com/learning/rust-essential-training/stack-and-heap-memory?u=76281980&t=22)** But [[Rust (Programming Language)|Rust]] is designed for lower levels systems programming, and which part of memory a variable lives in can affect how you use it.
 >
 > **[0:30](https://www.linkedin.com/learning/rust-essential-training/stack-and-heap-memory?u=76281980&t=30)** In Rust, the program memory that's used to hold working data is divided into two sections called the stack and the heap, which store and access data in different ways.
 >
@@ -3316,27 +3274,26 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/rust-essential-training/stack-and-heap-memory?u=76281980&t=281)** Adding new data to the heap is also slower because we have to search for an available section of memory.
 >
-> **[4:47](https://www.linkedin.com/learning/rust-essential-training/stack-and-heap-memory?u=76281980&t=287)** The benefit of the heap is that we can dynamically add and remove data, which enables us to do things like resize data structures on the heap.
+> **[4:47](https://www.linkedin.com/learning/rust-essential-training/stack-and-heap-memory?u=76281980&t=287)** The benefit of the heap is that we can dynamically add and remove data, which enables us to do things like resize [[Data Structures]] on the heap.
 >
 > **[4:56](https://www.linkedin.com/learning/rust-essential-training/stack-and-heap-memory?u=76281980&t=296)** Also compared to the stack the heap can provide a ton of usable memory space, so when we need to store really large data structures we'll need to put them on the heap.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Rust (Programming Language)|Rust]] (3), [[Programming]] (2), [[Python (Programming Language)|Python]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), [[Data Structures]] (2), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (4), is called (3)
 > **CLI Commands:** make (2), python (1), find (1)
 > **Env Vars:** lifo (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### String data type
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/string-data-type?u=76281980)
+#### [String data type](https://www.linkedin.com/learning/rust-essential-training/string-data-type?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/rust-essential-training/string-data-type?u=76281980&t=0)** - [Instructor] All of the data types we've used so far in this course from integers to tuples all have a fixed size that's known to the compiler, which means they'll be stored on the stack.
 >
-> **[0:11](https://www.linkedin.com/learning/rust-essential-training/string-data-type?u=76281980&t=11)** Before we can continue forward to explore Rust's key concept of ownership, we'll need to learn about a new data type that gets stored on the heap, the string.
+> **[0:11](https://www.linkedin.com/learning/rust-essential-training/string-data-type?u=76281980&t=11)** Before we can continue forward to explore [[Rust (Programming Language)|Rust]]'s key concept of ownership, we'll need to learn about a new data type that gets stored on the heap, the string.
 >
 > **[0:21](https://www.linkedin.com/learning/rust-essential-training/string-data-type?u=76281980&t=21)** Now, there are two ways to work with a string or sequence of characters in Rust.
 >
@@ -3412,7 +3369,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Rust (Programming Language)|Rust]] (3)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2), is called (1)
 > **Cross-References:** later in (1)
@@ -3420,8 +3377,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ownership
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/ownership?u=76281980)
+#### [Ownership](https://www.linkedin.com/learning/rust-essential-training/ownership?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3431,7 +3387,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/rust-essential-training/ownership?u=76281980&t=16)** So, we'll need to free up blocks of allocated memory, after they're no longer needed by the program.
 >
-> **[0:22](https://www.linkedin.com/learning/rust-essential-training/ownership?u=76281980&t=22)** This task isn't unique to Rust and there are a few common approaches that other programming languages use for memory management.
+> **[0:22](https://www.linkedin.com/learning/rust-essential-training/ownership?u=76281980&t=22)** This task isn't unique to [[Rust (Programming Language)|Rust]] and there are a few common approaches that other programming languages use for [[Memory Management]].
 >
 > **[0:30](https://www.linkedin.com/learning/rust-essential-training/ownership?u=76281980&t=30)** One traditional approach is to make the programmer responsible for explicitly allocating and de allocating memory in their code.
 >
@@ -3449,7 +3405,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/rust-essential-training/ownership?u=76281980&t=87)** Another common approach to memory management is garbage collection, where the program automatically runs a sub-routine that looks for unused memory and cleans it up.
 >
-> **[1:37](https://www.linkedin.com/learning/rust-essential-training/ownership?u=76281980&t=97)** Lots of modern high level programming languages use garbage collection including Java, Python, C#, Ruby and Go.
+> **[1:37](https://www.linkedin.com/learning/rust-essential-training/ownership?u=76281980&t=97)** Lots of modern high level programming languages use garbage collection including [[Java]], [[Python (Programming Language)|Python]], C#, Ruby and Go.
 >
 > **[1:45](https://www.linkedin.com/learning/rust-essential-training/ownership?u=76281980&t=105)** The advantage is that it's easy.
 >
@@ -3485,13 +3441,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (8), data (4), [[Programming]] (4), [[Memory Management]] (4), [[Java]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (8), [[Memory Management]] (4), [[Java]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1), ruby (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Moving, cloning, and copying data
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/moving-cloning-and-copying-data?u=76281980)
+#### [Moving, cloning, and copying data](https://www.linkedin.com/learning/rust-essential-training/moving-cloning-and-copying-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3537,7 +3492,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/rust-essential-training/moving-cloning-and-copying-data?u=76281980&t=142)** That situation is similar to a shallow copy and other programming languages.
 >
-> **[2:27](https://www.linkedin.com/learning/rust-essential-training/moving-cloning-and-copying-data?u=76281980&t=147)** But according to the rust rules of ownership data can only have one owner at a time.
+> **[2:27](https://www.linkedin.com/learning/rust-essential-training/moving-cloning-and-copying-data?u=76281980&t=147)** But according to the [[Rust (Programming Language)|rust]] rules of ownership data can only have one owner at a time.
 >
 > **[2:33](https://www.linkedin.com/learning/rust-essential-training/moving-cloning-and-copying-data?u=76281980&t=153)** So when we assigned inner planet to outer planet rust invalidates the inner planet variable, leaving outer planet as the only owner of that string.
 >
@@ -3609,14 +3564,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Rust (Programming Language)|Rust]] (7), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (7)
 > **Analogies:** similar to (1), such as (1)
 > **Env Vars:** i32 (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transferring ownership
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/transferring-ownership?u=76281980)
+#### [Transferring ownership](https://www.linkedin.com/learning/rust-essential-training/transferring-ownership?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3660,7 +3614,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/rust-essential-training/transferring-ownership?u=76281980&t=139)** The problem here is occurring because the string is stored on the heap.
 >
-> **[2:24](https://www.linkedin.com/learning/rust-essential-training/transferring-ownership?u=76281980&t=144)** When it gets passed as an input argument, Rust does not implicitly make a copy of the heap data.
+> **[2:24](https://www.linkedin.com/learning/rust-essential-training/transferring-ownership?u=76281980&t=144)** When it gets passed as an input argument, [[Rust (Programming Language)|Rust]] does not implicitly make a copy of the heap data.
 >
 > **[2:30](https://www.linkedin.com/learning/rust-essential-training/transferring-ownership?u=76281980&t=150)** Instead, the propellant variable gets a pointer to that heap data.
 >
@@ -3736,7 +3690,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Rust (Programming Language)|Rust]] (5)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (5)
 > **Code Identifiers:** rocket_fuel (15), process_fuel (12), new_fuel (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** lng (2)
@@ -3748,8 +3702,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Borrowing references
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/borrowing-references?u=76281980)
+#### [Borrowing references](https://www.linkedin.com/learning/rust-essential-training/borrowing-references?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3769,7 +3722,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/rust-essential-training/borrowing-references?u=76281980&t=83)** I can run this program and our function successfully processes the input string and returns ownership of it's done along with the strings length.
 >
-> **[1:34](https://www.linkedin.com/learning/rust-essential-training/borrowing-references?u=76281980&t=94)** So this approach works but it's cumbersome and it's not the best way to handle this situation in Rust.
+> **[1:34](https://www.linkedin.com/learning/rust-essential-training/borrowing-references?u=76281980&t=94)** So this approach works but it's cumbersome and it's not the best way to handle this situation in [[Rust (Programming Language)|Rust]].
 >
 > **[1:43](https://www.linkedin.com/learning/rust-essential-training/borrowing-references?u=76281980&t=103)** The output from the process fuel function that we really care about is the length value.
 >
@@ -3813,16 +3766,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Rust (Programming Language)|Rust]] (3), next (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mutable references
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/mutable-references?u=76281980)
+#### [Mutable references](https://www.linkedin.com/learning/rust-essential-training/mutable-references?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/mutable-references?u=76281980&t=0)** - [Instructor] If we want to change the value of a borrowed variable, we have to explicitly tell Rust that that's what we intend to do by marking it as mutable.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/mutable-references?u=76281980&t=0)** - [Instructor] If we want to change the value of a borrowed variable, we have to explicitly tell [[Rust (Programming Language)|Rust]] that that's what we intend to do by marking it as mutable.
 >
 > **[0:09](https://www.linkedin.com/learning/rust-essential-training/mutable-references?u=76281980&t=9)** Let's say we want our process fuel function to modify its borrowed propellant string by extending the message to say that the fuel is highly flammable.
 >
@@ -3864,7 +3816,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (8), data (4), database (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (8)
 > **Definitions:** refers to (1), known as (1)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
@@ -3872,8 +3824,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dangling references
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/dangling-references?u=76281980)
+#### [Dangling references](https://www.linkedin.com/learning/rust-essential-training/dangling-references?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3907,7 +3858,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/rust-essential-training/dangling-references?u=76281980&t=83)** In other languages that use pointers like C++ using an old stale pointer that references a memory location that's no longer valid because it's been freed for other uses is a common source of nasty errors.
 >
-> **[1:36](https://www.linkedin.com/learning/rust-essential-training/dangling-references?u=76281980&t=96)** But in rust, that will never happen.
+> **[1:36](https://www.linkedin.com/learning/rust-essential-training/dangling-references?u=76281980&t=96)** But in [[Rust (Programming Language)|rust]], that will never happen.
 >
 > **[1:38](https://www.linkedin.com/learning/rust-essential-training/dangling-references?u=76281980&t=98)** The compiler guarantees that we'll never use a dangling reference because it checks to make sure data will not go out of scope before a reference to it does.
 >
@@ -3925,14 +3876,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Rust (Programming Language)|Rust]] (2)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Slices
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/slices?u=76281980)
+#### [Slices](https://www.linkedin.com/learning/rust-essential-training/slices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3944,7 +3894,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/rust-essential-training/slices?u=76281980&t=36)** The data for the string literal is hard-coded into the executable binary and the program uses a string slice to access it.
 >
-> **[0:44](https://www.linkedin.com/learning/rust-essential-training/slices?u=76281980&t=44)** To demonstrate a string slice, let's create a reference to the string online too with a message, greetings from earth that slices out just the last word, earth.
+> **[0:44](https://www.linkedin.com/learning/rust-essential-training/slices?u=76281980&t=44)** To demonstrate a string slice, let's create a reference to the string online too with a message, greetings from earth that slices out just the last [[Microsoft Word|word]], earth.
 >
 > **[0:54](https://www.linkedin.com/learning/rust-essential-training/slices?u=76281980&t=54)** We'll declare a new variable named last word, and then use the borrow operator to reference the message string.
 >
@@ -3988,7 +3938,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/rust-essential-training/slices?u=76281980&t=192)** One subtle but very important detail to keep in mind when creating strings slices is that its length is a number of bytes, not characters.
 >
-> **[3:22](https://www.linkedin.com/learning/rust-essential-training/slices?u=76281980&t=202)** However, since characters in Rust are encoded using UTF-8, individual characters can sometimes span multiple bytes.
+> **[3:22](https://www.linkedin.com/learning/rust-essential-training/slices?u=76281980&t=202)** However, since characters in [[Rust (Programming Language)|Rust]] are encoded using UTF-8, individual characters can sometimes span multiple bytes.
 >
 > **[3:30](https://www.linkedin.com/learning/rust-essential-training/slices?u=76281980&t=210)** It's essential that the range indices for your slice occur at a valid boundary between characters.
 >
@@ -4014,7 +3964,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Word|Word]] (4), [[Rust (Programming Language)|Rust]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Rust (Programming Language)|Rust]] (1)
 > **Env Vars:** utf (2), str (1)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** similar to (1), such as (1)
@@ -4023,14 +3973,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Slices as function parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/slices-as-function-parameters?u=76281980)
+#### [Slices as function parameters](https://www.linkedin.com/learning/rust-essential-training/slices-as-function-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/rust-essential-training/slices-as-function-parameters?u=76281980&t=0)** - [Instructor] Being able to reference only part of a collection is incredibly useful and you'll commonly see slices used as function inputs and outputs, especially on functions that work with strings.
 >
-> **[0:12](https://www.linkedin.com/learning/rust-essential-training/slices-as-function-parameters?u=76281980&t=12)** For example, the get_first_word function shown here on line seven takes a borrowed reference to an entire string as input and then returns a slice containing just the first word of that input string all without taking ownership of the string.
+> **[0:12](https://www.linkedin.com/learning/rust-essential-training/slices-as-function-parameters?u=76281980&t=12)** For example, the get_first_word function shown here on line seven takes a borrowed reference to an entire string as input and then returns a slice containing just the first [[Microsoft Word|word]] of that input string all without taking ownership of the string.
 >
 > **[0:27](https://www.linkedin.com/learning/rust-essential-training/slices-as-function-parameters?u=76281980&t=27)** It does that by converting the input string reference into a slice of bytes representing its contents and then iterates through that slice of bytes one at a time, checking for the byte sequence that represents a space character with the if expression on line 11.
 >
@@ -4068,7 +4017,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/rust-essential-training/slices-as-function-parameters?u=76281980&t=189)** The slice doesn't need to keep track of capacity because the slice will never own anything on the heap.
 >
-> **[3:16](https://www.linkedin.com/learning/rust-essential-training/slices-as-function-parameters?u=76281980&t=196)** Since a string contains all of the necessary information to function as a slice, that is, it has a pointer to heap data and length, Rust will allow us to use a string reference in places that ask for a string slice.
+> **[3:16](https://www.linkedin.com/learning/rust-essential-training/slices-as-function-parameters?u=76281980&t=196)** Since a string contains all of the necessary information to function as a slice, that is, it has a pointer to heap data and length, [[Rust (Programming Language)|Rust]] will allow us to use a string reference in places that ask for a string slice.
 >
 > **[3:30](https://www.linkedin.com/learning/rust-essential-training/slices-as-function-parameters?u=76281980&t=210)** This convenience is known as Deref coercion.
 >
@@ -4088,7 +4037,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (9), data (7), [[Rust (Programming Language)|Rust]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (9), [[Rust (Programming Language)|Rust]] (1)
 > **Code Identifiers:** get_first_word (4)
 > **Env Vars:** utf (1)
 > **Definitions:** known as (1)
@@ -4097,8 +4046,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Trim spaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/challenge-trim-spaces?u=76281980)
+#### [Challenge: Trim spaces](https://www.linkedin.com/learning/rust-essential-training/challenge-trim-spaces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4112,7 +4060,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/rust-essential-training/challenge-trim-spaces?u=76281980&t=24)** That's either a string reference or a string slice and it should return a string slice with any leading and trailing spaces removed.
 >
-> **[0:34](https://www.linkedin.com/learning/rust-essential-training/challenge-trim-spaces?u=76281980&t=34)** Now, strings in Rust do include a built-in method named trim.
+> **[0:34](https://www.linkedin.com/learning/rust-essential-training/challenge-trim-spaces?u=76281980&t=34)** Now, strings in [[Rust (Programming Language)|Rust]] do include a built-in method named trim.
 >
 > **[0:38](https://www.linkedin.com/learning/rust-essential-training/challenge-trim-spaces?u=76281980&t=38)** Which removes leading and trailing white space.
 >
@@ -4138,14 +4086,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Rust (Programming Language)|Rust]] (2)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Trim spaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/solution-trim-spaces?u=76281980)
+#### [Solution: Trim spaces](https://www.linkedin.com/learning/rust-essential-training/solution-trim-spaces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4177,13 +4124,13 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/rust-essential-training/solution-trim-spaces?u=76281980&t=130)** If you enjoyed this challenge and want some additional practice working with strings and slices try enhancing your trim spaces function to remove other types of white space as well such as new lines and tabs to make it more similar to the string types built in trim method.
 >
-> **[2:27](https://www.linkedin.com/learning/rust-essential-training/solution-trim-spaces?u=76281980&t=147)** Another bonus challenge idea is to write a function to return a slice containing the second word from a given string.
+> **[2:27](https://www.linkedin.com/learning/rust-essential-training/solution-trim-spaces?u=76281980&t=147)** Another bonus challenge idea is to write a function to return a slice containing the second [[Microsoft Word|word]] from a given string.
 >
 > **[2:33](https://www.linkedin.com/learning/rust-essential-training/solution-trim-spaces?u=76281980&t=153)** If you choose to tackle either of those challenges I recommend writing a handful of test cases first so you can test it when you're done.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** such as (1), similar to (1)
 > **Definitions:** is a  (1)
@@ -4195,16 +4142,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Rust Standard Library and prelude
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/rust-standard-library-and-prelude?u=76281980)
+#### [Rust Standard Library and prelude](https://www.linkedin.com/learning/rust-essential-training/rust-standard-library-and-prelude?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/rust-standard-library-and-prelude?u=76281980&t=0)** - [Instructor] Like most programming languages, Rust has a standard library to provide a basic set of capabilities that most programs need.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/rust-standard-library-and-prelude?u=76281980&t=0)** - [Instructor] Like most programming languages, [[Rust (Programming Language)|Rust]] has a standard library to provide a basic set of capabilities that most programs need.
 >
 > **[0:08](https://www.linkedin.com/learning/rust-essential-training/rust-standard-library-and-prelude?u=76281980&t=8)** It includes core data types, like the string type we've been using, common functions, shared macros and lots of other things.
 >
-> **[0:16](https://www.linkedin.com/learning/rust-essential-training/rust-standard-library-and-prelude?u=76281980&t=16)** Admittedly, the Rust standard library isn't as expansive as the standard libraries in some other languages like Python but it provides a minimal set of battle-tested code that you can trust and serves as a foundation for writing portable Rust software in the broader Rust ecosystem.
+> **[0:16](https://www.linkedin.com/learning/rust-essential-training/rust-standard-library-and-prelude?u=76281980&t=16)** Admittedly, the Rust standard library isn't as expansive as the standard libraries in some other languages like [[Python (Programming Language)|Python]] but it provides a minimal set of battle-tested code that you can trust and serves as a foundation for writing portable Rust software in the broader Rust ecosystem.
 >
 > **[0:34](https://www.linkedin.com/learning/rust-essential-training/rust-standard-library-and-prelude?u=76281980&t=34)** The documentation for the standard library is included when installing Rust and also available online from [rustlang.org](https://rustlang.org).
 >
@@ -4240,7 +4186,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/rust-essential-training/rust-standard-library-and-prelude?u=76281980&t=169)** Importing more than you need is not good programming practice so the prelude does not import the entire standard library.
 >
-> **[2:56](https://www.linkedin.com/learning/rust-essential-training/rust-standard-library-and-prelude?u=76281980&t=176)** It only imports a handful of the most modules that almost every rest program needs and it's intentionally kept as small as possible.
+> **[2:56](https://www.linkedin.com/learning/rust-essential-training/rust-standard-library-and-prelude?u=76281980&t=176)** It only imports a handful of the most modules that almost every [[Representational State Transfer (REST)|rest]] program needs and it's intentionally kept as small as possible.
 >
 > **[3:06](https://www.linkedin.com/learning/rust-essential-training/rust-standard-library-and-prelude?u=76281980&t=186)** The standard library documentation includes this page, which lists out the preludes contents.
 >
@@ -4248,7 +4194,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (10), [[Programming]] (2), data (1), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (10), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2), python (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Analogies:** for example (2)
@@ -4257,8 +4203,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Prerequisites:** you'll need (1)
 
-#### Standard input
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/standard-input?u=76281980)
+#### [Standard input](https://www.linkedin.com/learning/rust-essential-training/standard-input?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4266,7 +4211,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/rust-essential-training/standard-input?u=76281980&t=9)** Which allows the user to type a message into the command line that our program can then read and use.
 >
-> **[0:15](https://www.linkedin.com/learning/rust-essential-training/standard-input?u=76281980&t=15)** Functions for working with standard input are included in the rest standard libraries IO module.
+> **[0:15](https://www.linkedin.com/learning/rust-essential-training/standard-input?u=76281980&t=15)** Functions for working with standard input are included in the [[Representational State Transfer (REST)|rest]] standard libraries IO module.
 >
 > **[0:22](https://www.linkedin.com/learning/rust-essential-training/standard-input?u=76281980&t=22)** The IO module is not included in the prelude, so to use it we'll need to manually import it at the top of our program with a use statement.
 >
@@ -4302,12 +4247,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** command line (2)
 > **Speakers:** - [instructor] (1)
 
-#### Parse strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/parse-strings?u=76281980)
+#### [Parse strings](https://www.linkedin.com/learning/rust-essential-training/parse-strings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4333,7 +4277,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/rust-essential-training/parse-strings?u=76281980&t=71)** One way to do that is to use what's often called the turbofish operator, consisting of double colons followed by ankle brackets containing the data type.
 >
-> **[1:23](https://www.linkedin.com/learning/rust-essential-training/parse-strings?u=76281980&t=83)** Adding this after the parse method tells Rust to parse this string into an i32.
+> **[1:23](https://www.linkedin.com/learning/rust-essential-training/parse-strings?u=76281980&t=83)** Adding this after the parse method tells [[Rust (Programming Language)|Rust]] to parse this string into an i32.
 >
 > **[1:28](https://www.linkedin.com/learning/rust-essential-training/parse-strings?u=76281980&t=88)** Another option would be to explicitly specify the data type of the number variable we're assigning the result to.
 >
@@ -4369,18 +4313,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (1), [[Rust (Programming Language)|Rust]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (1)
 > **Cross-References:** later in (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Crates
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/crates?u=76281980)
+#### [Crates](https://www.linkedin.com/learning/rust-essential-training/crates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/crates?u=76281980&t=0)** - In rust, the term crate is used to describe a collection of Rust source code files.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/crates?u=76281980&t=0)** - In [[Rust (Programming Language)|rust]], the term crate is used to describe a collection of Rust source code files.
 >
 > **[0:06](https://www.linkedin.com/learning/rust-essential-training/crates?u=76281980&t=6)** And crates come in one of two possible flavors.
 >
@@ -4529,8 +4472,7 @@ created: 2026-05-02
 > **Versions:** 0.8.0 (1)
 > **Documentation:** the documentation (1)
 
-#### Challenge: Higher or lower
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/challenge-higher-or-lower?u=76281980)
+#### [Challenge: Higher or lower](https://www.linkedin.com/learning/rust-essential-training/challenge-higher-or-lower?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4562,7 +4504,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), next (1)
 > **Cross-References:** next video (1)
 > **Tools:** command line (1)
 > **Exercise Files:** exercise files (1)
@@ -4570,8 +4511,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Higher or lower
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/solution-higher-or-lower?u=76281980)
+#### [Solution: Higher or lower](https://www.linkedin.com/learning/rust-essential-training/solution-higher-or-lower?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4647,7 +4587,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), data (1), next (1), [[Programming]] (1)
 > **CLI Commands:** cargo (1), find (1)
 > **Code Identifiers:** read_line (2)
 > **File Paths:** cargo.toml (1)
@@ -4655,14 +4594,14 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
+> **Non-Speech:** (upbeat music) (1)
 
 
 ### 9. Input and Output
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Command-line arguments
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/command-line-arguments?u=76281980)
+#### [Command-line arguments](https://www.linkedin.com/learning/rust-essential-training/command-line-arguments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4672,7 +4611,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/rust-essential-training/command-line-arguments?u=76281980&t=22)** Your program will need to make sense of any arguments it gets passed to act accordingly.
 >
-> **[0:27](https://www.linkedin.com/learning/rust-essential-training/command-line-arguments?u=76281980&t=27)** To read the values of command-line arguments in Rust, we use the args function which is included in the standard libraries environment module.
+> **[0:27](https://www.linkedin.com/learning/rust-essential-training/command-line-arguments?u=76281980&t=27)** To read the values of command-line arguments in [[Rust (Programming Language)|Rust]], we use the args function which is included in the standard libraries environment module.
 >
 > **[0:36](https://www.linkedin.com/learning/rust-essential-training/command-line-arguments?u=76281980&t=36)** Args will return an iterator with any command line arguments that were passed to the program when it was called.
 >
@@ -4746,7 +4685,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), next (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4)
 > **CLI Commands:** make (2), cargo (1)
 > **Code Identifiers:** argsiterator (2)
 > **Tools:** command line (2)
@@ -4755,8 +4694,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Warnings:** keep in mind (1)
 
-#### Reading from files
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/reading-from-files?u=76281980)
+#### [Reading from files](https://www.linkedin.com/learning/rust-essential-training/reading-from-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4764,7 +4702,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/rust-essential-training/reading-from-files?u=76281980&t=6)** You'll often need to read data from files.
 >
-> **[0:08](https://www.linkedin.com/learning/rust-essential-training/reading-from-files?u=76281980&t=8)** Fortunately, the fs module from the Rust Standard Library for manipulating the file system provides a handful of functions to make doing that simple.
+> **[0:08](https://www.linkedin.com/learning/rust-essential-training/reading-from-files?u=76281980&t=8)** Fortunately, the fs module from the [[Rust (Programming Language)|Rust]] Standard Library for manipulating the file system provides a handful of functions to make doing that simple.
 >
 > **[0:19](https://www.linkedin.com/learning/rust-essential-training/reading-from-files?u=76281980&t=19)** The fs module is not part of the default Rust prelude.
 >
@@ -4840,7 +4778,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Rust (Programming Language)|Rust]] (2)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
@@ -4849,8 +4787,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing to files
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/writing-to-files?u=76281980)
+#### [Writing to files](https://www.linkedin.com/learning/rust-essential-training/writing-to-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4934,7 +4871,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9)
 > **Analogies:** for example (2), such as (1)
 > **Cross-References:** previous video (1), later in (1)
 > **Documentation:** the documentation (1)
@@ -4943,8 +4879,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Check the roster
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/challenge-check-the-roster?u=76281980)
+#### [Challenge: Check the roster](https://www.linkedin.com/learning/rust-essential-training/challenge-check-the-roster?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4980,15 +4915,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), next (1)
 > **Tools:** command line (3)
 > **File Paths:** roster.txt (1), moonwalkers.txt (1)
 > **CLI Commands:** cargo (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Check the roster
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/solution-check-the-roster?u=76281980)
+#### [Solution: Check the roster](https://www.linkedin.com/learning/rust-essential-training/solution-check-the-roster?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5026,7 +4959,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2)
 > **CLI Commands:** make (1), cargo (1)
 > **Tools:** command line (1)
 > **Speakers:** - [presenter] (1)
@@ -5037,8 +4969,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining structs
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/defining-structs?u=76281980)
+#### [Defining structs](https://www.linkedin.com/learning/rust-essential-training/defining-structs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5074,7 +5005,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/rust-essential-training/defining-structs?u=76281980&t=89)** Which will store as a 64 bit float.
 >
-> **[1:32](https://www.linkedin.com/learning/rust-essential-training/defining-structs?u=76281980&t=92)** That definition tells Rust what goes into a shuttle struct so we can create and use shuttles in our program.
+> **[1:32](https://www.linkedin.com/learning/rust-essential-training/defining-structs?u=76281980&t=92)** That definition tells [[Rust (Programming Language)|Rust]] what goes into a shuttle struct so we can create and use shuttles in our program.
 >
 > **[1:39](https://www.linkedin.com/learning/rust-essential-training/defining-structs?u=76281980&t=99)** But that definition itself doesn't have any real data.
 >
@@ -5138,7 +5069,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/rust-essential-training/defining-structs?u=76281980&t=280)** The compiler knows how much space is needed for each number and therefore how much space the entire struct will need on the stack.
 >
-> **[4:48](https://www.linkedin.com/learning/rust-essential-training/defining-structs?u=76281980&t=288)** If the struct also contains heat based data types like a string, then the string pointer and associated information will live on the stack with the rest of the struct while the contents of the string lives on the heap.
+> **[4:48](https://www.linkedin.com/learning/rust-essential-training/defining-structs?u=76281980&t=288)** If the struct also contains heat based data types like a string, then the string pointer and associated information will live on the stack with the [[Representational State Transfer (REST)|rest]] of the struct while the contents of the string lives on the heap.
 >
 > **[5:02](https://www.linkedin.com/learning/rust-essential-training/defining-structs?u=76281980&t=302)** In fact, under the hood the string data type itself is actually a type of struct.
 >
@@ -5154,7 +5085,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Rust (Programming Language)|Rust]] (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (2)
 > **Analogies:** similar to (1), such as (1)
@@ -5162,8 +5093,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - tuples (1)
 
-#### Struct update syntax
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/struct-update-syntax?u=76281980)
+#### [Struct update syntax](https://www.linkedin.com/learning/rust-essential-training/struct-update-syntax?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5173,13 +5103,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/rust-essential-training/struct-update-syntax?u=76281980&t=13)** Let's expand our fleet of spacecraft by creating a second shuttle named vehicle two, and we'll make its name Discovery.
 >
-> **[0:27](https://www.linkedin.com/learning/rust-essential-training/struct-update-syntax?u=76281980&t=27)** Now, instead of explicitly defining the rest of the fields let's say we want our second vehicle to be initialized using the same values as the first vehicle.
+> **[0:27](https://www.linkedin.com/learning/rust-essential-training/struct-update-syntax?u=76281980&t=27)** Now, instead of explicitly defining the [[Representational State Transfer (REST)|rest]] of the fields let's say we want our second vehicle to be initialized using the same values as the first vehicle.
 >
 > **[0:38](https://www.linkedin.com/learning/rust-essential-training/struct-update-syntax?u=76281980&t=38)** For that we can use struct update syntax, which allows us to copy values from an existing instance.
 >
 > **[0:44](https://www.linkedin.com/learning/rust-essential-training/struct-update-syntax?u=76281980&t=44)** It's written as .. and then the name of the existing instance to copy values from.
 >
-> **[0:50](https://www.linkedin.com/learning/rust-essential-training/struct-update-syntax?u=76281980&t=50)** This tells Rust that any fields that are not explicitly set should have the same value as the first vehicle.
+> **[0:50](https://www.linkedin.com/learning/rust-essential-training/struct-update-syntax?u=76281980&t=50)** This tells [[Rust (Programming Language)|Rust]] that any fields that are not explicitly set should have the same value as the first vehicle.
 >
 > **[0:57](https://www.linkedin.com/learning/rust-essential-training/struct-update-syntax?u=76281980&t=57)** To see that let's copy and paste the print statement to look at the first vehicle, and modify it to print the second vehicle, and we'll also delete this extra print statement on line 20.
 >
@@ -5215,18 +5145,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1), [[Rust (Programming Language)|Rust]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Rust (Programming Language)|Rust]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [teacher] (1)
 
-#### Struct methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/struct-methods?u=76281980)
+#### [Struct methods](https://www.linkedin.com/learning/rust-essential-training/struct-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/struct-methods?u=76281980&t=0)** - [Teacher] In addition to just storing data Rust also allows us to define subroutines called methods for our structs which are similar to functions that can manipulate and use the data stored within a struct.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/struct-methods?u=76281980&t=0)** - [Teacher] In addition to just storing data [[Rust (Programming Language)|Rust]] also allows us to define subroutines called methods for our structs which are similar to functions that can manipulate and use the data stored within a struct.
 >
 > **[0:12](https://www.linkedin.com/learning/rust-essential-training/struct-methods?u=76281980&t=12)** Like functions, methods contain code that runs when you call them, they can have input parameters, as well as an output return value, and methods and functions are even both declared in Rust using the same fn keyword.
 >
@@ -5278,14 +5207,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Rust (Programming Language)|Rust]] (2)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2)
 > **Code Identifiers:** get_name (4), vehicle_name (1)
 > **CLI Commands:** make (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - [teacher] (1)
 
-#### Associated functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/associated-functions?u=76281980)
+#### [Associated functions](https://www.linkedin.com/learning/rust-essential-training/associated-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5325,13 +5253,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **Analogies:** similar to (2)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tuple structs
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/tuple-structs?u=76281980)
+#### [Tuple structs](https://www.linkedin.com/learning/rust-essential-training/tuple-structs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5401,14 +5327,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7)
 > **CLI Commands:** make (3)
 > **Analogies:** similar to (1), for example (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Represent shapes
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/challenge-represent-shapes?u=76281980)
+#### [Challenge: Represent shapes](https://www.linkedin.com/learning/rust-essential-training/challenge-represent-shapes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5450,8 +5374,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Represent shapes
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/solution-represent-shapes?u=76281980)
+#### [Solution: Represent shapes](https://www.linkedin.com/learning/rust-essential-training/solution-represent-shapes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5489,7 +5412,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Versions:** 1.2 (1), 3.4 (1), 4.08 (1), 1.02 (1)
 > **Code Identifiers:** get_area (1)
 > **Definitions:** is a  (1)
@@ -5502,8 +5424,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generic struct definitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/generic-struct-definitions?u=76281980)
+#### [Generic struct definitions](https://www.linkedin.com/learning/rust-essential-training/generic-struct-definitions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5517,7 +5438,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/rust-essential-training/generic-struct-definitions?u=76281980&t=30)** When I try to run the program, we get a compiler error and this makes sense.
 >
-> **[0:36](https://www.linkedin.com/learning/rust-essential-training/generic-struct-definitions?u=76281980&t=36)** Rust is a strictly typed language and we defined the rectangle struct using 64 bit floats but we tried to instantiate it with 32 bit integers.
+> **[0:36](https://www.linkedin.com/learning/rust-essential-training/generic-struct-definitions?u=76281980&t=36)** [[Rust (Programming Language)|Rust]] is a strictly typed language and we defined the rectangle struct using 64 bit floats but we tried to instantiate it with 32 bit integers.
 >
 > **[0:46](https://www.linkedin.com/learning/rust-essential-training/generic-struct-definitions?u=76281980&t=46)** Those are different types so the compiler's going to complain.
 >
@@ -5593,7 +5514,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (11), data (9), [[Rust (Programming Language)|Rust]] (3), next (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3)
 > **CLI Commands:** make (4)
 > **Env Vars:** u16 (3), i32 (1)
 > **Definitions:** is a  (2)
@@ -5601,8 +5522,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generic method definitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/generic-method-definitions?u=76281980)
+#### [Generic method definitions](https://www.linkedin.com/learning/rust-essential-training/generic-method-definitions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5612,7 +5532,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/rust-essential-training/generic-method-definitions?u=76281980&t=21)** And we'll also need to include them after the name rectangle as well.
 >
-> **[0:26](https://www.linkedin.com/learning/rust-essential-training/generic-method-definitions?u=76281980&t=26)** Including T and U after the implement keyword hell's the rust compiler that will be implementing methods and functions for a rectangle with two generic types.
+> **[0:26](https://www.linkedin.com/learning/rust-essential-training/generic-method-definitions?u=76281980&t=26)** Including T and U after the implement keyword hell's the [[Rust (Programming Language)|rust]] compiler that will be implementing methods and functions for a rectangle with two generic types.
 >
 > **[0:36](https://www.linkedin.com/learning/rust-essential-training/generic-method-definitions?u=76281980&t=36)** And we'll see why that matters shortly.
 >
@@ -5662,12 +5582,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (6), data (5), [[Rust (Programming Language)|Rust]] (1), next (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generic function definitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/generic-function-definitions?u=76281980)
+#### [Generic function definitions](https://www.linkedin.com/learning/rust-essential-training/generic-function-definitions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5713,7 +5632,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/rust-essential-training/generic-function-definitions?u=76281980&t=134)** To use the greater than operator to compare two rectangles, our rectangles struct would need to define how it should be compared with other rectangles.
 >
-> **[2:22](https://www.linkedin.com/learning/rust-essential-training/generic-function-definitions?u=76281980&t=142)** That gets into the topic of Traits and Rust which we'll cover in the next chapter.
+> **[2:22](https://www.linkedin.com/learning/rust-essential-training/generic-function-definitions?u=76281980&t=142)** That gets into the topic of Traits and [[Rust (Programming Language)|Rust]] which we'll cover in the next chapter.
 >
 > **[2:28](https://www.linkedin.com/learning/rust-essential-training/generic-function-definitions?u=76281980&t=148)** For now to resolve the problem in our code, let's follow the advice of the compilers help message.
 >
@@ -5731,18 +5650,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), generic (4), [[Rust (Programming Language)|Rust]] (2), next (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2)
 > **Analogies:** for example (1), such as (1)
 > **Code Identifiers:** partialord (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [presenter] (1)
 
-#### Box data type
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/box-data-type?u=76281980)
+#### [Box data type](https://www.linkedin.com/learning/rust-essential-training/box-data-type?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/box-data-type?u=76281980&t=0)** - [Instructor] The Rust Standard Library includes several data types that use generics as part of their type definition.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/box-data-type?u=76281980&t=0)** - [Instructor] The [[Rust (Programming Language)|Rust]] Standard Library includes several data types that use generics as part of their type definition.
 >
 > **[0:07](https://www.linkedin.com/learning/rust-essential-training/box-data-type?u=76281980&t=7)** And the first example of this we'll look at is the Box Data Type.
 >
@@ -5862,11 +5780,11 @@ created: 2026-05-02
 >
 > **[6:03](https://www.linkedin.com/learning/rust-essential-training/box-data-type?u=76281980&t=363)** Another reason you might use a box is to transfer ownership of data that would normally live on the stack rather than copying it.
 >
-> **[6:10](https://www.linkedin.com/learning/rust-essential-training/box-data-type?u=76281980&t=370)** This can be useful in working with large data structures because copying large amounts of data around on the stack can take a long time and you can potentially improve performance by moving it to the heap where ownership can be more easily transferred.
+> **[6:10](https://www.linkedin.com/learning/rust-essential-training/box-data-type?u=76281980&t=370)** This can be useful in working with large [[Data Structures]] because copying large amounts of data around on the stack can take a long time and you can potentially improve performance by moving it to the heap where ownership can be more easily transferred.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Rust (Programming Language)|Rust]] (3), generic (2), next (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3)
 > **Code Identifiers:** boxed_vehicle (1), unboxed_vehicle (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
@@ -5874,8 +5792,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Sum boxes
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/challenge-sum-boxes?u=76281980)
+#### [Challenge: Sum boxes](https://www.linkedin.com/learning/rust-essential-training/challenge-sum-boxes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5915,7 +5832,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (3), data (1), next (1)
 > **Code Identifiers:** sum_boxes (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
@@ -5923,8 +5839,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Sum boxes
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/solution-sum-boxes?u=76281980)
+#### [Solution: Sum boxes](https://www.linkedin.com/learning/rust-essential-training/solution-sum-boxes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5978,7 +5893,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (2), next (1), data (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Analogies:** similar to (1), for example (1)
 > **Tools:** terminal (1)
@@ -5990,18 +5904,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implement traits
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/implement-traits?u=76281980)
+#### [Implement traits](https://www.linkedin.com/learning/rust-essential-training/implement-traits?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/implement-traits?u=76281980&t=0)** - [Instructor] Rust provides an abstract way to define the capabilities or functionality of specific data types using traits, which are collections of methods representing a set of behaviors necessary to accomplish some task.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/implement-traits?u=76281980&t=0)** - [Instructor] [[Rust (Programming Language)|Rust]] provides an abstract way to define the capabilities or functionality of specific data types using traits, which are collections of methods representing a set of behaviors necessary to accomplish some task.
 >
 > **[0:15](https://www.linkedin.com/learning/rust-essential-training/implement-traits?u=76281980&t=15)** When a data type implements a trait, that means it implements those specific methods so they'll be available to use with it.
 >
 > **[0:23](https://www.linkedin.com/learning/rust-essential-training/implement-traits?u=76281980&t=23)** We've already encountered traits in regards to generics which impose bounds to specify that a generic type can be any data type as long as it implements specific traits, and therefore has the necessary methods to use it.
 >
-> **[0:37](https://www.linkedin.com/learning/rust-essential-training/implement-traits?u=76281980&t=37)** If you have experience in other programming languages like C++ or Java, you'll recognize traits as being very similar to a feature in those languages called interfaces, although there are some differences.
+> **[0:37](https://www.linkedin.com/learning/rust-essential-training/implement-traits?u=76281980&t=37)** If you have experience in other programming languages like C++ or [[Java]], you'll recognize traits as being very similar to a feature in those languages called interfaces, although there are some differences.
 >
 > **[0:51](https://www.linkedin.com/learning/rust-essential-training/implement-traits?u=76281980&t=51)** In addition to a handful of common traits that come standard with Rust, you can also define your own custom traits to specify certain capabilities.
 >
@@ -6055,14 +5968,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Rust (Programming Language)|Rust]] (2), generic (1), [[Programming]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2), [[Java]] (1)
 > **Env Vars:** iss (1)
 > **Versions:** 4.72 (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Default trait implementation
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/default-trait-implementation?u=76281980)
+#### [Default trait implementation](https://www.linkedin.com/learning/rust-essential-training/default-trait-implementation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6092,13 +6004,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), generic (1)
 > **Env Vars:** iss (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Derive traits
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/derive-traits?u=76281980)
+#### [Derive traits](https://www.linkedin.com/learning/rust-essential-training/derive-traits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6124,7 +6034,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/rust-essential-training/derive-traits?u=76281980&t=66)** Or, we can take another easier route and simply derive that functionality.
 >
-> **[1:12](https://www.linkedin.com/learning/rust-essential-training/derive-traits?u=76281980&t=72)** The rust compiler is able to provide a basic implementation for a handful of common traits via the derived attribute.
+> **[1:12](https://www.linkedin.com/learning/rust-essential-training/derive-traits?u=76281980&t=72)** The [[Rust (Programming Language)|rust]] compiler is able to provide a basic implementation for a handful of common traits via the derived attribute.
 >
 > **[1:20](https://www.linkedin.com/learning/rust-essential-training/derive-traits?u=76281980&t=80)** When you derive traits, the compiler will generate default code for the required methods.
 >
@@ -6172,7 +6082,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Rust (Programming Language)|Rust]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (1)
 > **Env Vars:** gps (5)
 > **CLI Commands:** make (1)
 > **Cross-References:** earlier in (1)
@@ -6180,8 +6090,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Trait bounds
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/trait-bounds?u=76281980)
+#### [Trait bounds](https://www.linkedin.com/learning/rust-essential-training/trait-bounds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6197,7 +6106,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/rust-essential-training/trait-bounds?u=76281980&t=64)** The compiler can recognize that need and will prevent the program from compiling until we explicitly set a bound to restrict the generic type T to data types that implement Display.
 >
-> **[1:15](https://www.linkedin.com/learning/rust-essential-training/trait-bounds?u=76281980&t=75)** The Display trait is part of the Rust Standard Library's format module, so to reference it, I'll need to import that module, and then, after defining the generic type T in the function definition, we'll add a colon, and then the name of the trait it's required to have.
+> **[1:15](https://www.linkedin.com/learning/rust-essential-training/trait-bounds?u=76281980&t=75)** The Display trait is part of the [[Rust (Programming Language)|Rust]] Standard Library's format module, so to reference it, I'll need to import that module, and then, after defining the generic type T in the function definition, we'll add a colon, and then the name of the trait it's required to have.
 >
 > **[1:32](https://www.linkedin.com/learning/rust-essential-training/trait-bounds?u=76281980&t=92)** fmt::Display.
 >
@@ -6227,13 +6136,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), generic (4), [[Rust (Programming Language)|Rust]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (1)
 > **Code Identifiers:** print_type (4), type_name (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multiple trait bounds
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/multiple-trait-bounds-14414549?u=76281980)
+#### [Multiple trait bounds](https://www.linkedin.com/learning/rust-essential-training/multiple-trait-bounds-14414549?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6287,7 +6195,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/rust-essential-training/multiple-trait-bounds-14414549?u=76281980&t=178)** If we had many more input variables and trait bounds, it could quickly grow to an unreasonable size.
 >
-> **[3:04](https://www.linkedin.com/learning/rust-essential-training/multiple-trait-bounds-14414549?u=76281980&t=184)** To make this function signature more readable, REST provides an alternate syntax using a where clause.
+> **[3:04](https://www.linkedin.com/learning/rust-essential-training/multiple-trait-bounds-14414549?u=76281980&t=184)** To make this function signature more readable, [[Representational State Transfer (REST)|REST]] provides an alternate syntax using a where clause.
 >
 > **[3:10](https://www.linkedin.com/learning/rust-essential-training/multiple-trait-bounds-14414549?u=76281980&t=190)** To demonstrate how that looks, let's comment out line three so we still have it for reference.
 >
@@ -6317,7 +6225,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), generic (5), next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** rest (1)
 > **Versions:** 1.1 (1)
@@ -6326,8 +6234,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Return types with implemented traits
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/return-types-with-implemented-traits?u=76281980)
+#### [Return types with implemented traits](https://www.linkedin.com/learning/rust-essential-training/return-types-with-implemented-traits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6379,18 +6286,17 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/rust-essential-training/return-types-with-implemented-traits?u=76281980&t=197)** The subroutines to display an integer value is probably a bit different than the subroutine to display a string literal.
 >
-> **[3:24](https://www.linkedin.com/learning/rust-essential-training/return-types-with-implemented-traits?u=76281980&t=204)** The rust compiler doesn't allow this type of ambiguity and return type from a function.
+> **[3:24](https://www.linkedin.com/learning/rust-essential-training/return-types-with-implemented-traits?u=76281980&t=204)** The [[Rust (Programming Language)|rust]] compiler doesn't allow this type of ambiguity and return type from a function.
 >
 > **[3:29](https://www.linkedin.com/learning/rust-essential-training/return-types-with-implemented-traits?u=76281980&t=209)** If you need to work with data types and trait bounds that can not be known until runtime, that gets into the topic of dynamic dispatch, which goes beyond the scope of this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), generic (1), [[Rust (Programming Language)|Rust]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Implement the display trait
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/challenge-implement-the-display-trait?u=76281980)
+#### [Challenge: Implement the display trait](https://www.linkedin.com/learning/rust-essential-training/challenge-implement-the-display-trait?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6430,7 +6336,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Cross-References:** next video (1)
 > **Documentation:** the documentation (1)
 > **Exercise Files:** exercise files (1)
@@ -6438,8 +6343,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Implement the display trait
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/solution-implement-the-display-trait?u=76281980)
+#### [Solution: Implement the display trait](https://www.linkedin.com/learning/rust-essential-training/solution-implement-the-display-trait?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6479,12 +6383,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The borrow checker
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/the-borrow-checker?u=76281980)
+#### [The borrow checker](https://www.linkedin.com/learning/rust-essential-training/the-borrow-checker?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/the-borrow-checker?u=76281980&t=0)** - [Instructor] Earlier in this course, when discussing references and borrowing, we saw that the Rust compiler can detect when your program tries to use a reference, after the thing at points do has gone out of scope.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/the-borrow-checker?u=76281980&t=0)** - [Instructor] Earlier in this course, when discussing references and borrowing, we saw that the [[Rust (Programming Language)|Rust]] compiler can detect when your program tries to use a reference, after the thing at points do has gone out of scope.
 >
 > **[0:12](https://www.linkedin.com/learning/rust-essential-training/the-borrow-checker?u=76281980&t=12)** That's known as a dangling reference.
 >
@@ -6548,18 +6451,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (5), next (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (5)
 > **Cross-References:** earlier in (2), later in (1)
 > **Definitions:** known as (1), is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lifetime annotation syntax
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/lifetime-annotation-syntax?u=76281980)
+#### [Lifetime annotation syntax](https://www.linkedin.com/learning/rust-essential-training/lifetime-annotation-syntax?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/lifetime-annotation-syntax?u=76281980&t=0)** - [Instructor] There are certain situations where the Rust compiler will require you to explicitly annotate the lifetime of variables.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/lifetime-annotation-syntax?u=76281980&t=0)** - [Instructor] There are certain situations where the [[Rust (Programming Language)|Rust]] compiler will require you to explicitly annotate the lifetime of variables.
 >
 > **[0:07](https://www.linkedin.com/learning/rust-essential-training/lifetime-annotation-syntax?u=76281980&t=7)** Consider the best fuel function on line one which when given two options determines which one is the best type of rocket fuel.
 >
@@ -6647,15 +6549,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), generic (3), data (3), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4)
 > **Cross-References:** we covered (1), earlier in (1)
 > **Definitions:** is a  (1), is called (1)
 > **Exercise Files:** source code (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multiple lifetime annotations
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/multiple-lifetime-annotations?u=76281980)
+#### [Multiple lifetime annotations](https://www.linkedin.com/learning/rust-essential-training/multiple-lifetime-annotations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6689,18 +6590,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (2)
 > **Code Identifiers:** best_fuel (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lifetime elision rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/lifetime-elision-rules?u=76281980)
+#### [Lifetime elision rules](https://www.linkedin.com/learning/rust-essential-training/lifetime-elision-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/lifetime-elision-rules?u=76281980&t=0)** - [Tutor] You might be wondering why we've been able to write Rust functions throughout this course without needing to explicitly annotate lifetimes.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/lifetime-elision-rules?u=76281980&t=0)** - [Tutor] You might be wondering why we've been able to write [[Rust (Programming Language)|Rust]] functions throughout this course without needing to explicitly annotate lifetimes.
 >
 > **[0:08](https://www.linkedin.com/learning/rust-essential-training/lifetime-elision-rules?u=76281980&t=8)** Then when we reach this chapter suddenly the compiler starts requiring it.
 >
@@ -6776,7 +6675,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (7), next (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (7)
 > **Code Identifiers:** get_first_word (3), get_longest (3), send_transition (1)
 > **Warnings:** keep in mind (3), be aware (1)
 > **Analogies:** for example (3)
@@ -6785,8 +6684,7 @@ created: 2026-05-02
 > **Versions:** version 1 (1)
 > **Cross-References:** in the next (1)
 
-#### Struct lifetime annotations
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/struct-lifetime-annotations?u=76281980)
+#### [Struct lifetime annotations](https://www.linkedin.com/learning/rust-essential-training/struct-lifetime-annotations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6838,7 +6736,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/rust-essential-training/struct-lifetime-annotations?u=76281980&t=158)** And that's because of the third lifetime allision rule.
 >
-> **[2:41](https://www.linkedin.com/learning/rust-essential-training/struct-lifetime-annotations?u=76281980&t=161)** Rust will assign the lifetime of self to the return value and that makes sense because we're returning the struct name which is part of the struct itself and has a similar lifetime.
+> **[2:41](https://www.linkedin.com/learning/rust-essential-training/struct-lifetime-annotations?u=76281980&t=161)** [[Rust (Programming Language)|Rust]] will assign the lifetime of self to the return value and that makes sense because we're returning the struct name which is part of the struct itself and has a similar lifetime.
 >
 > **[2:52](https://www.linkedin.com/learning/rust-essential-training/struct-lifetime-annotations?u=76281980&t=172)** Now let's say, instead of returning to shuttle's name we want to return the message that it just transmitted.
 >
@@ -6866,15 +6764,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), generic (2), [[Rust (Programming Language)|Rust]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (1)
 > **Speakers:** - instructor] (1)
 
-#### Static lifetime
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/static-lifetime?u=76281980)
+#### [Static lifetime](https://www.linkedin.com/learning/rust-essential-training/static-lifetime?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/static-lifetime?u=76281980&t=0)** - [Instructor] There is a lifetime name that's reserved in Rust for special purposes, and that is static.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/static-lifetime?u=76281980&t=0)** - [Instructor] There is a lifetime name that's reserved in [[Rust (Programming Language)|Rust]] for special purposes, and that is static.
 >
 > **[0:06](https://www.linkedin.com/learning/rust-essential-training/static-lifetime?u=76281980&t=6)** The static lifetime indicates that data is available for the entire duration of a program.
 >
@@ -6898,7 +6795,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), generic (2), [[Rust (Programming Language)|Rust]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -6909,12 +6806,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Define enums
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/define-enums?u=76281980)
+#### [Define enums](https://www.linkedin.com/learning/rust-essential-training/define-enums?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/define-enums?u=76281980&t=0)** - [Instructor] In Rust an enum, which is short for enumeration is a data type with multiple possible variants.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/define-enums?u=76281980&t=0)** - [Instructor] In [[Rust (Programming Language)|Rust]] an enum, which is short for enumeration is a data type with multiple possible variants.
 >
 > **[0:07](https://www.linkedin.com/learning/rust-essential-training/define-enums?u=76281980&t=7)** It enumerates a finite number of options or types of something.
 >
@@ -6980,7 +6876,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Rust (Programming Language)|Rust]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2)
 > **Definitions:** is a  (2), short for (1)
 > **Versions:** 1.2 (1), 3.4 (1)
 > **CLI Commands:** make (1)
@@ -6989,12 +6885,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Match operator
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/match-operator?u=76281980)
+#### [Match operator](https://www.linkedin.com/learning/rust-essential-training/match-operator?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/match-operator?u=76281980&t=0)** - [Narrator] In rust, enums are commonly used in match expressions, which can control the flow of a program.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/match-operator?u=76281980&t=0)** - [Narrator] In [[Rust (Programming Language)|rust]], enums are commonly used in match expressions, which can control the flow of a program.
 >
 > **[0:06](https://www.linkedin.com/learning/rust-essential-training/match-operator?u=76281980&t=6)** Similar to a sequence of, if else expressions the match operator compares a given value to a series of patterns to determine which code to execute, similar to a switch statement in several other programming languages.
 >
@@ -7018,7 +6913,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/rust-essential-training/match-operator?u=76281980&t=89)** Then the double colon path operator, circle, and since circle can store one value to represent its radius.
 >
-> **[1:37](https://www.linkedin.com/learning/rust-essential-training/match-operator?u=76281980&t=97)** We'll capture that with a parameter named R, after that we'll tell rest what to do.
+> **[1:37](https://www.linkedin.com/learning/rust-essential-training/match-operator?u=76281980&t=97)** We'll capture that with a parameter named R, after that we'll tell [[Representational State Transfer (REST)|rest]] what to do.
 >
 > **[1:43](https://www.linkedin.com/learning/rust-essential-training/match-operator?u=76281980&t=103)** If my shape is a circle with an equal and greater than symbol, which looks like an arrow followed by the code to execute.
 >
@@ -7034,14 +6929,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (5)
 > **Versions:** 1.2 (1), 3.4 (1)
 > **Analogies:** similar to (2)
 > **Speakers:** - [narrator] (1)
 
-#### Match with default placeholder
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/match-with-default-placeholder?u=76281980)
+#### [Match with default placeholder](https://www.linkedin.com/learning/rust-essential-training/match-with-default-placeholder?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7093,9 +6987,9 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/rust-essential-training/match-with-default-placeholder?u=76281980&t=136)** If we change the value of my number later on, or perhaps if my number comes from an external source, like user input, we want to make sure there is no possible way the program will end up in a state where it doesn't know what to do next.
 >
-> **[2:29](https://www.linkedin.com/learning/rust-essential-training/match-with-default-placeholder?u=76281980&t=149)** Now, rather than explicitly typing out all 256 possible cases here, Rust gives us a handy wildcard pattern, which will match any value.
+> **[2:29](https://www.linkedin.com/learning/rust-essential-training/match-with-default-placeholder?u=76281980&t=149)** Now, rather than explicitly typing out all 256 possible cases here, [[Rust (Programming Language)|Rust]] gives us a handy wildcard pattern, which will match any value.
 >
-> **[2:41](https://www.linkedin.com/learning/rust-essential-training/match-with-default-placeholder?u=76281980&t=161)** To use that, we'll add one more match arm to the match sequence after all the rest using an underscore character which represents the wild card.
+> **[2:41](https://www.linkedin.com/learning/rust-essential-training/match-with-default-placeholder?u=76281980&t=161)** To use that, we'll add one more match arm to the match sequence after all the [[Representational State Transfer (REST)|rest]] using an underscore character which represents the wild card.
 >
 > **[2:51](https://www.linkedin.com/learning/rust-essential-training/match-with-default-placeholder?u=76281980&t=171)** You can think of this as the default case which will get executed if none of the other arms before it match.
 >
@@ -7131,15 +7025,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (1), [[Rust (Programming Language)|Rust]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** earlier in (1), later in (1)
 > **Analogies:** similar to (1)
 > **Best Practices:** always make sure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enum methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/enum-methods?u=76281980)
+#### [Enum methods](https://www.linkedin.com/learning/rust-essential-training/enum-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7159,7 +7052,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/rust-essential-training/enum-methods?u=76281980&t=55)** We'll perform a match on the reference to yourself.
 >
-> **[0:59](https://www.linkedin.com/learning/rust-essential-training/enum-methods?u=76281980&t=59)** As a side note in past versions of Rust, we would also need to include the D referencing operator here to access the value behind that self reference, to use with the match operator.
+> **[0:59](https://www.linkedin.com/learning/rust-essential-training/enum-methods?u=76281980&t=59)** As a side note in past versions of [[Rust (Programming Language)|Rust]], we would also need to include the D referencing operator here to access the value behind that self reference, to use with the match operator.
 >
 > **[1:11](https://www.linkedin.com/learning/rust-essential-training/enum-methods?u=76281980&t=71)** However, since Rust version 1.26 the compiler will automatically reference and de reference patterns in match statements so that's no longer required that said, I still like to include it because I think it makes the code a little bit more explicit about what's going on.
 >
@@ -7179,15 +7072,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2), next (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2)
 > **Versions:** version 1 (1), 1.2 (1), 3.4 (1), 9.2 (1)
 > **Definitions:** is a  (3)
 > **Analogies:** similar to (1), just like (1)
 > **Env Vars:** f64 (1)
 > **Speakers:** - you (1)
 
-#### Option<T> enum
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/3144757?u=76281980)
+#### [Option<T> enum](https://www.linkedin.com/learning/rust-essential-training/3144757?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7207,7 +7099,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/rust-essential-training/3144757?u=76281980&t=34)** That's not safe.
 >
-> **[0:36](https://www.linkedin.com/learning/rust-essential-training/3144757?u=76281980&t=36)** And therefore Rust does not have a null value in the traditional sense like many other languages.
+> **[0:36](https://www.linkedin.com/learning/rust-essential-training/3144757?u=76281980&t=36)** And therefore [[Rust (Programming Language)|Rust]] does not have a null value in the traditional sense like many other languages.
 >
 > **[0:42](https://www.linkedin.com/learning/rust-essential-training/3144757?u=76281980&t=42)** Instead, Rust implements the concept using a generic Enum named option, which can be one of two variants.
 >
@@ -7307,14 +7199,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Rust (Programming Language)|Rust]] (3), [[Programming]] (2), generic (2)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - in (1)
 
-#### Matching Option<T>
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/3145782?u=76281980)
+#### [Matching Option<T>](https://www.linkedin.com/learning/rust-essential-training/3145782?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7350,8 +7241,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### If-let syntax
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/if-let-syntax?u=76281980)
+#### [If-let syntax](https://www.linkedin.com/learning/rust-essential-training/if-let-syntax?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7363,7 +7253,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/rust-essential-training/if-let-syntax?u=76281980&t=28)** This code will work and I can prove it by running it and we get the output message of 13.
 >
-> **[0:34](https://www.linkedin.com/learning/rust-essential-training/if-let-syntax?u=76281980&t=34)** However, Rust provides a simpler way to write expressions like this one, which only check for a single condition by using an if let statement.
+> **[0:34](https://www.linkedin.com/learning/rust-essential-training/if-let-syntax?u=76281980&t=34)** However, [[Rust (Programming Language)|Rust]] provides a simpler way to write expressions like this one, which only check for a single condition by using an if let statement.
 >
 > **[0:43](https://www.linkedin.com/learning/rust-essential-training/if-let-syntax?u=76281980&t=43)** We'll replace the match expression with the keywords if let and then the pattern we're looking for, which is some(13).
 >
@@ -7383,11 +7273,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Represent a location
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/challenge-represent-a-location?u=76281980)
+#### [Challenge: Represent a location](https://www.linkedin.com/learning/rust-essential-training/challenge-represent-a-location?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7422,8 +7311,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Represent a location
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/solution-represent-a-location?u=76281980)
+#### [Solution: Represent a location](https://www.linkedin.com/learning/rust-essential-training/solution-represent-a-location?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7451,7 +7339,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -7459,8 +7346,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Unrecoverable errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/unrecoverable-errors?u=76281980)
+#### [Unrecoverable errors](https://www.linkedin.com/learning/rust-essential-training/unrecoverable-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7468,7 +7354,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/rust-essential-training/unrecoverable-errors?u=76281980&t=3)** Usually done on purpose to demonstrate a point, but nonetheless, errors are part of life when it comes to software.
 >
-> **[0:10](https://www.linkedin.com/learning/rust-essential-training/unrecoverable-errors?u=76281980&t=10)** Fortunately, Rust has several features for handling errors to make our code more reliable.
+> **[0:10](https://www.linkedin.com/learning/rust-essential-training/unrecoverable-errors?u=76281980&t=10)** Fortunately, [[Rust (Programming Language)|Rust]] has several features for handling errors to make our code more reliable.
 >
 > **[0:16](https://www.linkedin.com/learning/rust-essential-training/unrecoverable-errors?u=76281980&t=16)** Now, when we're talking about errors here, we're not talking compilation errors that prevent your program from being built, we're talking about runtime errors that occur after your code has successfully compiled and is executing.
 >
@@ -7520,7 +7406,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/rust-essential-training/unrecoverable-errors?u=76281980&t=201)** To get more information about the sequence of function calls that led to it, we can enable the Rust backtrace environment variable as described in the panic message.
 >
-> **[3:31](https://www.linkedin.com/learning/rust-essential-training/unrecoverable-errors?u=76281980&t=211)** To do that, in the Windows PowerShell, I'll type $Env:RUST_BACKTRACE=1.
+> **[3:31](https://www.linkedin.com/learning/rust-essential-training/unrecoverable-errors?u=76281980&t=211)** To do that, in the [[Windows]] [[Powershell]], I'll type $Env:RUST_BACKTRACE=1.
 >
 > **[3:46](https://www.linkedin.com/learning/rust-essential-training/unrecoverable-errors?u=76281980&t=226)** Then I'll press enter to set the variable.
 >
@@ -7550,7 +7436,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (7), [[Programming]] (1), [[Windows]] (1), [[Powershell]] (1), feature (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (7), [[Windows]] (1), [[Powershell]] (1)
 > **File Paths:** main.rs (3), arith.rs (1)
 > **CLI Commands:** make (1), cargo (1)
 > **Tools:** vs code (1), powershell (1)
@@ -7559,8 +7445,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 
-#### Result<T, E> enum
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/3144759?u=76281980)
+#### [Result<T, E> enum](https://www.linkedin.com/learning/rust-essential-training/3144759?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7632,7 +7517,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (2), data (1), next (1)
 > **Code Identifiers:** read_to_string (3), the_ultimate_question (3)
 > **File Paths:** the_ultimate_question.txt (2)
 > **Analogies:** for example (2)
@@ -7641,8 +7525,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Matching Result<T, E> to recover from errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/3142804?u=76281980)
+#### [Matching Result<T, E> to recover from errors](https://www.linkedin.com/learning/rust-essential-training/3142804?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7704,14 +7587,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3)
 > **Definitions:** is an  (2)
 > **Cross-References:** previous video (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Propagating errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/propagating-errors?u=76281980)
+#### [Propagating errors](https://www.linkedin.com/learning/rust-essential-training/propagating-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7735,7 +7616,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/rust-essential-training/propagating-errors?u=76281980&t=104)** Now let's return that file path back to normal.
 >
-> **[1:49](https://www.linkedin.com/learning/rust-essential-training/propagating-errors?u=76281980&t=109)** This pattern for propagating errors is so common Rust actually provides an easier shorthand way to accomplish the same thing.
+> **[1:49](https://www.linkedin.com/learning/rust-essential-training/propagating-errors?u=76281980&t=109)** This pattern for propagating errors is so common [[Rust (Programming Language)|Rust]] actually provides an easier shorthand way to accomplish the same thing.
 >
 > **[1:57](https://www.linkedin.com/learning/rust-essential-training/propagating-errors?u=76281980&t=117)** Putting the question mark operator immediately after the result enum will accomplish the same thing as the two match statements in the read and combine function, returning if there's an error.
 >
@@ -7768,8 +7649,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [teacher] (1)
 
-#### Challenge: Handle errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/challenge-handle-errors?u=76281980)
+#### [Challenge: Handle errors](https://www.linkedin.com/learning/rust-essential-training/challenge-handle-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7809,13 +7689,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), prompt (1)
 > **Exercise Files:** exercise files (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Handle errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/solution-handle-errors?u=76281980)
+#### [Solution: Handle errors](https://www.linkedin.com/learning/rust-essential-training/solution-handle-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7847,7 +7725,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), prompt (1)
 > **Versions:** 50.2 (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -7859,12 +7736,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Vectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/vectors?u=76281980)
+#### [Vectors](https://www.linkedin.com/learning/rust-essential-training/vectors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-essential-training/vectors?u=76281980&t=0)** - [Instructor] As we approach the end of this course, I want to show you a couple more common data types, you're likely to encounter when programming with Rust.
+> **[0:00](https://www.linkedin.com/learning/rust-essential-training/vectors?u=76281980&t=0)** - [Instructor] As we approach the end of this course, I want to show you a couple more common data types, you're likely to encounter when programming with [[Rust (Programming Language)|Rust]].
 >
 > **[0:08](https://www.linkedin.com/learning/rust-essential-training/vectors?u=76281980&t=8)** The first of those is the vector which we've already encountered as the return type from some standard functions.
 >
@@ -7906,7 +7782,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/rust-essential-training/vectors?u=76281980&t=125)** I'll run the program.
 >
-> **[2:09](https://www.linkedin.com/learning/rust-essential-training/vectors?u=76281980&t=129)** And now we see that the third American astronaut into space was John Glenn.
+> **[2:09](https://www.linkedin.com/learning/rust-essential-training/vectors?u=76281980&t=129)** And now we see that the third American astronaut into space was [[John the Ripper|John]] Glenn.
 >
 > **[2:14](https://www.linkedin.com/learning/rust-essential-training/vectors?u=76281980&t=134)** To remove items from the vector, We can use the pop method, which removes the last element from the vector and returns it as an Option enum.
 >
@@ -7922,7 +7798,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/rust-essential-training/vectors?u=76281980&t=192)** That will only be known at runtime when you try to access it.
 >
-> **[3:15](https://www.linkedin.com/learning/rust-essential-training/vectors?u=76281980&t=195)** In alternate and perhaps safer way to access vector items is with the Git method.
+> **[3:15](https://www.linkedin.com/learning/rust-essential-training/vectors?u=76281980&t=195)** In alternate and perhaps safer way to access vector items is with the [[Git]] method.
 >
 > **[3:20](https://www.linkedin.com/learning/rust-essential-training/vectors?u=76281980&t=200)** I'll comment outline 11 then add another line to instantiate the third variable and I'll assign it astronaut.get with an index of two.
 >
@@ -7952,14 +7828,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Git]] (3), [[Programming]] (1), [[Rust (Programming Language)|Rust]] (1), next (1)
+> **Frameworks & Libraries:** [[Git]] (3), [[Rust (Programming Language)|Rust]] (1), [[John the Ripper|John]] (1)
 > **CLI Commands:** git (3), make (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** similar to (2)
 > **Speakers:** - [instructor] (1)
 
-#### HashMaps
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/hashmaps?u=76281980)
+#### [HashMaps](https://www.linkedin.com/learning/rust-essential-training/hashmaps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7969,7 +7844,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/rust-essential-training/hashmaps?u=76281980&t=18)** Note this key value pairing only maps one way, so you cannot easily go the other way to provide a value and get the corresponding key or keys.
 >
-> **[0:28](https://www.linkedin.com/learning/rust-essential-training/hashmaps?u=76281980&t=28)** Under the hood, REST uses a hashing function to determine how to store the keys and values in memory so they can be quickly located.
+> **[0:28](https://www.linkedin.com/learning/rust-essential-training/hashmaps?u=76281980&t=28)** Under the hood, [[Representational State Transfer (REST)|REST]] uses a hashing function to determine how to store the keys and values in memory so they can be quickly located.
 >
 > **[0:36](https://www.linkedin.com/learning/rust-essential-training/hashmaps?u=76281980&t=36)** If you have experienced programming in other languages, you may have encountered a similar data structure, although often under different names, such as map, hash table, dictionary or associative array.
 >
@@ -8079,7 +7954,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (3), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1), generic (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** or_insert (4), missions_flown (2)
 > **Env Vars:** rest (1)
 > **Cross-References:** previous video (1)
@@ -8088,8 +7963,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Count words
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/challenge-count-words?u=76281980)
+#### [Challenge: Count words](https://www.linkedin.com/learning/rust-essential-training/challenge-count-words?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8105,7 +7979,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/rust-essential-training/challenge-count-words?u=76281980&t=19)** Your goal is to write a program, that reads in a given text file.
 >
-> **[0:23](https://www.linkedin.com/learning/rust-essential-training/challenge-count-words?u=76281980&t=23)** Counts the number of times, each word occurs in that file.
+> **[0:23](https://www.linkedin.com/learning/rust-essential-training/challenge-count-words?u=76281980&t=23)** Counts the number of times, each [[Microsoft Word|word]] occurs in that file.
 >
 > **[0:27](https://www.linkedin.com/learning/rust-essential-training/challenge-count-words?u=76281980&t=27)** And then displays the most common word or words, along with how many times they appeared.
 >
@@ -8169,7 +8043,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Search]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6)
 > **Documentation:** the documentation (2)
 > **Tools:** command line (2)
 > **Prerequisites:** you'll need (2)
@@ -8178,8 +8052,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is an  (1)
 
-#### Solution: Count words
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/solution-count-words?u=76281980)
+#### [Solution: Count words](https://www.linkedin.com/learning/rust-essential-training/solution-count-words?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8203,9 +8076,9 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/rust-essential-training/solution-count-words?u=76281980&t=69)** Collect is a really useful method when you need to put items from an iterator into a collection.
 >
-> **[1:14](https://www.linkedin.com/learning/rust-essential-training/solution-count-words?u=76281980&t=74)** So I recommend adding it to your bag of rest programming tricks.
+> **[1:14](https://www.linkedin.com/learning/rust-essential-training/solution-count-words?u=76281980&t=74)** So I recommend adding it to your bag of [[Representational State Transfer (REST)|rest]] programming tricks.
 >
-> **[1:19](https://www.linkedin.com/learning/rust-essential-training/solution-count-words?u=76281980&t=79)** The next section of code on lines 23 through 26, counts how many times each unique word occurs.
+> **[1:19](https://www.linkedin.com/learning/rust-essential-training/solution-count-words?u=76281980&t=79)** The next section of code on lines 23 through 26, counts how many times each unique [[Microsoft Word|word]] occurs.
 >
 > **[1:26](https://www.linkedin.com/learning/rust-essential-training/solution-count-words?u=76281980&t=86)** To do that, I initialize a hash map, which will use each of the words for keys stored as strings slices and the corresponding value will be an integer counting how many times that word occurred.
 >
@@ -8231,7 +8104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (11), next (3), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (11), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1), cargo (1), find (1)
 > **Env Vars:** lcf (1)
 > **Definitions:** is a  (1)
@@ -8243,14 +8116,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to go next
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-essential-training/where-to-go-next?u=76281980)
+#### [Where to go next](https://www.linkedin.com/learning/rust-essential-training/where-to-go-next?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/rust-essential-training/where-to-go-next?u=76281980&t=0)** - [Barron] Congratulations, you've reached the end of this course.
 >
-> **[0:03](https://www.linkedin.com/learning/rust-essential-training/where-to-go-next?u=76281980&t=3)** We've covered a ton of information and laid a solid groundwork for programming with Rust, but there's still a lot left to learn.
+> **[0:03](https://www.linkedin.com/learning/rust-essential-training/where-to-go-next?u=76281980&t=3)** We've covered a ton of information and laid a solid groundwork for programming with [[Rust (Programming Language)|Rust]], but there's still a lot left to learn.
 >
 > **[0:11](https://www.linkedin.com/learning/rust-essential-training/where-to-go-next?u=76281980&t=11)** Which raises the question, what should you do next?
 >
@@ -8268,7 +8140,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/rust-essential-training/where-to-go-next?u=76281980&t=69)** The book includes pretty much everything we covered in this course and a lot more.
 >
-> **[1:14](https://www.linkedin.com/learning/rust-essential-training/where-to-go-next?u=76281980&t=74)** Another great resource to use in addition to the book is Rust by Example, which is a huge collection of example code to demonstrate lots of different programming concepts and how to implement them in Rust.
+> **[1:14](https://www.linkedin.com/learning/rust-essential-training/where-to-go-next?u=76281980&t=74)** Another great resource to use in addition to the book is Rust by Example, which is a huge collection of example code to demonstrate lots of different [[Programming Concepts]] and how to implement them in Rust.
 >
 > **[1:25](https://www.linkedin.com/learning/rust-essential-training/where-to-go-next?u=76281980&t=85)** It's well-organized and serves as a great reference.
 >
@@ -8286,7 +8158,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (15), [[Programming]] (3), next (2), concurrent (1), parallel (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (15), [[Programming Concepts]] (1)
 > **CLI Commands:** cargo (2)
 > **Definitions:** known as (1), is a  (1)
 > **Cross-References:** we covered (1)

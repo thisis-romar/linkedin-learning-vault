@@ -17,7 +17,7 @@ tags:
   - topic/software-development
   - topic/cloud-computing
   - topic/security
-course_count: 95
+course_count: 96
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Predictive Analytics
 
-> **Type:** Concept | **Courses:** 95 | **Topics:** [[Data Science]], [[Artificial Intelligence (AI)]], [[Software Development]], [[Cloud Computing]], [[Cybersecurity]]
+> **Type:** Concept | **Courses:** 96 | **Topics:** [[Data Science]], [[Artificial Intelligence (AI)]], [[Software Development]], [[Cloud Computing]], [[Cybersecurity]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Machine Learning & AI Foundations- Linear Regression]] — 9 mentions
 10. [[Harnessing AI for Effective Interviewing]] — 8 mentions
 
-> [!note]- See all 95 courses
+> [!note]- See all 96 courses
 > 11. [[Finding New Career Paths with SQL]] — 7 mentions
 > 12. [[Introduction To Machine Learning With Knime]] — 7 mentions
 > 13. [[Python- Working with Predictive Analytics (2019)]] — 7 mentions
@@ -87,45 +87,46 @@ created: 2026-05-02
 > 54. [[Process Mining for Robotic Process Automation]] — 1 mentions
 > 55. [[Ethical Hacking- Cryptography]] — 1 mentions
 > 56. [[Executive Guide to Human-in-the-Loop Machine Learning and Data Annotation]] — 1 mentions
-> 57. [[The Startup-SMB Guide to Integrating and Managing AI Agents]] — 1 mentions
-> 58. [[Creating a Responsible Generative AI Use Policy]] — 1 mentions
-> 59. [[Cloud Architecture- Design Decisions]] — 1 mentions
-> 60. [[Decision Intelligence- Data Stories]] — 1 mentions
-> 61. [[Leveraging Generative AI in Finance and Accounting]] — 1 mentions
-> 62. [[Amplify Your Communication Skills with Generative AI]] — 1 mentions
-> 63. [[How to Keep Your Team on the Bleeding Edge of AI Innovation]] — 1 mentions
-> 64. [[Artificial Intelligence for Cybersecurity]] — 1 mentions
-> 65. [[Excel with Copilot- AI-Driven Data Analysis]] — 1 mentions
-> 66. [[Harnessing AI in the Recruiting Lifecycle]] — 1 mentions
-> 67. [[Machine Learning Fundamentals for Healthcare]] — 1 mentions
-> 68. [[Data Management Essential Training]] — 1 mentions
-> 69. [[Fine-Tuning LLMs for Cybersecurity- Mistral, Llama, AutoTrain, AutoGen, and LLM Agents]] — 1 mentions
-> 70. [[Introduction To Business Analytics]] — 1 mentions
-> 71. [[Business Analytics- Marketing Data (2022)]] — 1 mentions
-> 72. [[Database Design Fundamentals]] — 1 mentions
-> 73. [[The Habits of Successful Marketers]] — 1 mentions
-> 74. [[Power BI- Integrating AI]] — 1 mentions
-> 75. [[AI Cheat Sheet for Business Leaders]] — 1 mentions
-> 76. [[Fundamentals of Agentic AI- Business Implications and Ethical Insights]] — 1 mentions
-> 77. [[Google Cloud Digital Cloud Leader Cert Prep- 3 Innovating with Google Cloud Artificial Intelligence]] — 1 mentions
-> 78. [[Data Engineering- dbt for SQL]] — 1 mentions
-> 79. [[Python in Excel for Financial Professionals]] — 1 mentions
-> 80. [[Learning AI for Business Analysis]] — 1 mentions
-> 81. [[Build Your Generative AI Plan for Marketing Success]] — 1 mentions
-> 82. [[Complete Guide to Tableau for Data Scientists]] — 1 mentions
-> 83. [[Actionable Insights and Business Data in Practice]] — 1 mentions
-> 84. [[Data, Economic Modeling, and Forecasting with Stata]] — 1 mentions
-> 85. [[Automated Data Governance in Practice]] — 1 mentions
-> 86. [[AI in Action- Global Case Studies from Public Institutions]] — 1 mentions
-> 87. [[Data Analytics for Students (2022)]] — 1 mentions
-> 88. [[Machine Learning and AI Foundations- Decision Trees with KNIME]] — 1 mentions
-> 89. [[Machine Learning and AI Foundations- Prediction, Causation, and Statistical Inference]] — 1 mentions
-> 90. [[Implement and Evaluate Cloud AI Solutions- Foundations of Responsible AI]] — 1 mentions
-> 91. [[AI Product Security- Foundations and Proactive Security for AI]] — 1 mentions
-> 92. [[Design Powered by Data- Getting Started with UX Web Analytics (2022)]] — 1 mentions
-> 93. [[Future Proofing Your Data Science Career]] — 1 mentions
-> 94. [[Spss Wrangling Visualizing And Modeling Data]] — 1 mentions
-> 95. [[Machine Learning and AI- Advanced Decision Trees with SPSS]] — 1 mentions
+> 57. [[AI Product Development- Technical Feasibility and Prototyping]] — 1 mentions
+> 58. [[The Startup-SMB Guide to Integrating and Managing AI Agents]] — 1 mentions
+> 59. [[Creating a Responsible Generative AI Use Policy]] — 1 mentions
+> 60. [[Cloud Architecture- Design Decisions]] — 1 mentions
+> 61. [[Decision Intelligence- Data Stories]] — 1 mentions
+> 62. [[Leveraging Generative AI in Finance and Accounting]] — 1 mentions
+> 63. [[Amplify Your Communication Skills with Generative AI]] — 1 mentions
+> 64. [[How to Keep Your Team on the Bleeding Edge of AI Innovation]] — 1 mentions
+> 65. [[Artificial Intelligence for Cybersecurity]] — 1 mentions
+> 66. [[Excel with Copilot- AI-Driven Data Analysis]] — 1 mentions
+> 67. [[Harnessing AI in the Recruiting Lifecycle]] — 1 mentions
+> 68. [[Machine Learning Fundamentals for Healthcare]] — 1 mentions
+> 69. [[Data Management Essential Training]] — 1 mentions
+> 70. [[Fine-Tuning LLMs for Cybersecurity- Mistral, Llama, AutoTrain, AutoGen, and LLM Agents]] — 1 mentions
+> 71. [[Introduction To Business Analytics]] — 1 mentions
+> 72. [[Business Analytics- Marketing Data (2022)]] — 1 mentions
+> 73. [[Database Design Fundamentals]] — 1 mentions
+> 74. [[The Habits of Successful Marketers]] — 1 mentions
+> 75. [[Power BI- Integrating AI]] — 1 mentions
+> 76. [[AI Cheat Sheet for Business Leaders]] — 1 mentions
+> 77. [[Fundamentals of Agentic AI- Business Implications and Ethical Insights]] — 1 mentions
+> 78. [[Google Cloud Digital Cloud Leader Cert Prep- 3 Innovating with Google Cloud Artificial Intelligence]] — 1 mentions
+> 79. [[Data Engineering- dbt for SQL]] — 1 mentions
+> 80. [[Python in Excel for Financial Professionals]] — 1 mentions
+> 81. [[Learning AI for Business Analysis]] — 1 mentions
+> 82. [[Build Your Generative AI Plan for Marketing Success]] — 1 mentions
+> 83. [[Complete Guide to Tableau for Data Scientists]] — 1 mentions
+> 84. [[Actionable Insights and Business Data in Practice]] — 1 mentions
+> 85. [[Data, Economic Modeling, and Forecasting with Stata]] — 1 mentions
+> 86. [[Automated Data Governance in Practice]] — 1 mentions
+> 87. [[AI in Action- Global Case Studies from Public Institutions]] — 1 mentions
+> 88. [[Data Analytics for Students (2022)]] — 1 mentions
+> 89. [[Machine Learning and AI Foundations- Decision Trees with KNIME]] — 1 mentions
+> 90. [[Machine Learning and AI Foundations- Prediction, Causation, and Statistical Inference]] — 1 mentions
+> 91. [[Implement and Evaluate Cloud AI Solutions- Foundations of Responsible AI]] — 1 mentions
+> 92. [[AI Product Security- Foundations and Proactive Security for AI]] — 1 mentions
+> 93. [[Design Powered by Data- Getting Started with UX Web Analytics (2022)]] — 1 mentions
+> 94. [[Future Proofing Your Data Science Career]] — 1 mentions
+> 95. [[Spss Wrangling Visualizing And Modeling Data]] — 1 mentions
+> 96. [[Machine Learning and AI- Advanced Decision Trees with SPSS]] — 1 mentions
 
 ## Learning Paths
 

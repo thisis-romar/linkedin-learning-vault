@@ -157,18 +157,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Meet the instructor and course overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980)
+#### [Meet the instructor and course overview](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=0)** - [Noah] Welcome to Data Engineering with Rust.
+> **[0:00](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=0)** - [Noah] Welcome to [[Data Engineering]] with [[Rust (Programming Language)|Rust]].
 >
 > **[0:03](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=3)** In this course, Rust provides safety, speed and low level control for systems programming and it's covered in detail.
 >
-> **[0:12](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=12)** This course teaches how to build high performance data pipelines, which you can use in data engineering, MLOps, and also traditional software engineering.
+> **[0:12](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=12)** This course teaches how to build high performance [[Data Pipelines]], which you can use in data engineering, [[MLOps]], and also traditional software engineering.
 >
-> **[0:22](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=22)** What we're going to cover in this course are four key sections, first up, Rust data structures, so what are the core features of Rust itself including hash maps, vectors.
+> **[0:22](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=22)** What we're going to cover in this course are four key sections, first up, Rust [[Data Structures]], so what are the core features of Rust itself including hash maps, vectors.
 >
 > **[0:35](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=35)** In section two, we cover safety, security and concurrency with Rust, so what are some of the key capabilities of Rust like the rayon library that allows you to do multi-threaded programming with minimal effort?
 >
@@ -176,7 +175,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=58)** Some of these include the Polars library which is an emerging new tool for doing work with data frames and also how to deal with cloud vendors and do things like communicate asynchronously with the AWS SDK.
 >
-> **[1:12](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=72)** In section four, we get into designing data processing systems in Rust.
+> **[1:12](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=72)** In section four, we get into designing [[Data Processing]] systems in Rust.
 >
 > **[1:18](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=78)** So this gets into building real world solutions, mapping those solutions together, coordinating processes for example, AWS Step Functions or processing a data pipeline that does ETL.
 >
@@ -188,17 +187,17 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=106)** So it's a modern compiled language.
 >
-> **[1:48](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=108)** And also with generative AI coding tools, it's a lot more approachable.
+> **[1:48](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=108)** And also with [[Generative AI]] coding tools, it's a lot more approachable.
 >
 > **[1:53](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=113)** What are the prerequisites?
 >
-> **[1:55](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=115)** Really a basic understanding of the Rust programming language is required for this course, but also a familiarity with data structures and algorithms is a plus.
+> **[1:55](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=115)** Really a basic understanding of the Rust programming language is required for this course, but also a familiarity with data structures and [[Algorithms]] is a plus.
 >
 > **[2:06](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=126)** So let's dive into the core structure here in section one into a little bit more detail.
 >
 > **[2:13](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=133)** We first get into getting started with the modern Rust development ecosystem.
 >
-> **[2:19](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=139)** What this means is that doing work with peer programming tools, using prompt engineering, also learning about continuous integration.
+> **[2:19](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=139)** What this means is that doing work with peer programming tools, using [[Prompt Engineering]], also learning about [[Continuous Integration (CI)|continuous integration]].
 >
 > **[2:31](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=151)** In the next lesson, sequences and maps we get into some of the common data structures including vectors, vec deck, also hash maps, and deal with how to build solutions in those data structures.
 >
@@ -208,11 +207,11 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=185)** Next, in section two, we dive into safety, security, and concurrency with Rust.
 >
-> **[3:13](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=193)** And to do that we get into some of the core features of security and safety with Rust like you know, understanding multi-factor authentication, understanding encryption, understanding how to deal with mutable and immutable data structures.
+> **[3:13](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=193)** And to do that we get into some of the core features of security and safety with Rust like you know, understanding [[Multi-factor Authentication]], understanding encryption, understanding how to deal with mutable and immutable data structures.
 >
 > **[3:28](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=208)** In lesson two, we get into more security concepts.
 >
-> **[3:33](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=213)** These include ciphers and encryption and even incident response and compliance.
+> **[3:33](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=213)** These include ciphers and encryption and even [[Incident Response]] and compliance.
 >
 > **[3:40](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=220)** Finally, in the last lesson in this particular section, concurrency, we get into some classic problems like the dining philosopher.
 >
@@ -228,15 +227,15 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=274)** These are all items covered in this particular section.
 >
-> **[4:38](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=278)** Now, in lesson three, we get into cloud-based SDKs a little bit more detail, including the Google Cloud Shell with Rust, AWS Cloud shell with Rust, cloud nine with CodeWhisperer in Rust, and also deploy some microservices with Rust.
+> **[4:38](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=278)** Now, in lesson three, we get into cloud-based SDKs a little bit more detail, including the [[Google Cloud Platform (GCP)|Google Cloud]] Shell with Rust, AWS Cloud shell with Rust, cloud nine with CodeWhisperer in Rust, and also deploy some [[Microservices]] with Rust.
 >
 > **[4:56](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=296)** In section four, we get into designing data processing systems in Rust, and this includes really data pipelines itself and some of the items included are Rust AWS Step Functions, Rust AWS Lambda, talking about Distr List, an emerging standard for containers.
 >
 > **[5:16](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=316)** And then in lesson two, we get into really NLP pipelines in a nutshell.
 >
-> **[5:21](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=321)** So LLMs, Onyx, Hugging Face, PyTorch pipelines, and deal with some solutions around those technologies.
+> **[5:21](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=321)** So LLMs, Onyx, [[Hugging Face]], [[PyTorch]] pipelines, and deal with some solutions around those technologies.
 >
-> **[5:30](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=330)** Finally, in lesson three, we get into SQL and we dive into how you can use Rust and SQL together, including with SQLite, Hugging Face, BigQuery, also looking at public data sets.
+> **[5:30](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=330)** Finally, in lesson three, we get into [[SQL]] and we dive into how you can use Rust and SQL together, including with SQLite, Hugging Face, BigQuery, also looking at public data sets.
 >
 > **[5:45](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=345)** And we also talk about some of the theory around picking the correct database.
 >
@@ -246,9 +245,9 @@ created: 2026-05-02
 >
 > **[6:05](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=365)** Let me tell you a little bit about my background and why it applies to this course.
 >
-> **[6:09](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=369)** I'm an executive in residence at Duke and I work in the data science department, which is mids and also in the AI PI AI for Product Innovation.
+> **[6:09](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=369)** I'm an executive in residence at Duke and I work in the [[Data Science]] department, which is mids and also in the AI PI AI for Product Innovation.
 >
-> **[6:20](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=380)** And the courses that I teach include data science, cloud computing, and also MLOps.
+> **[6:20](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=380)** And the courses that I teach include data science, [[Cloud Computing]], and also MLOps.
 >
 > **[6:28](https://www.linkedin.com/learning/rust-for-data-engineering/meet-the-instructor-and-course-overview?u=76281980&t=388)** And I've also taught similar topics at Northwestern, UC Berkeley, UC Davis, and other various universities.
 >
@@ -268,7 +267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (30), data (19), [[Data Engineering]] (8), aws (7), cloud (5)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (30), [[Data Engineering]] (8), [[Data Structures]] (8), [[MLOps]] (4), [[Data Pipelines]] (2)
 > **Env Vars:** aws (7), sql (2), sdk (1), etl (1), csv (1)
 > **CLI Commands:** aws (7), cargo (1), find (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -277,32 +276,31 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** getting started (1)
 
-#### Introduction to the AI coding paradigm shift
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980)
+#### [Introduction to the AI coding paradigm shift](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980&t=6)** - [Instructor] Here we have a new paradigm shift, which is AI pair programming, and it combines very well with existing best practices, including DevOps.
+> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980&t=6)** - [Instructor] Here we have a new paradigm shift, which is AI pair programming, and it combines very well with existing best practices, including [[DevOps]].
 >
-> **[0:16](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980&t=16)** Here we have the GitHub ecosystem on the left here, and there are many amazing things you can do, like have GitHub Actions, your CI/CD server that automatically does matrix testing or linting or builds packages for you or even compile software in the case of Rust.
+> **[0:16](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980&t=16)** Here we have the [[GitHub]] ecosystem on the left here, and there are many amazing things you can do, like have GitHub Actions, your CI/CD server that automatically does matrix testing or linting or builds packages for you or even compile software in the case of [[Rust (Programming Language)|Rust]].
 >
-> **[0:33](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980&t=33)** And then you have Codespaces, which is a triggered environment specifically set up for, you know, let's say Rust or set up for Python or set up for an existing version of Ubuntu.
+> **[0:33](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980&t=33)** And then you have [[Codespaces]], which is a triggered environment specifically set up for, you know, let's say Rust or set up for [[Python (Programming Language)|Python]] or set up for an existing version of [[Ubuntu]].
 >
 > **[0:44](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980&t=44)** So you've got this containerized environment here that's really a production-first mindset.
 >
 > **[0:50](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980&t=50)** Also, you use a top editor like Visual Studio Code, which is one of the most popular editors that has all of these hooks and, you know, plugins inside that allows you to be very productive.
 >
-> **[1:02](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980&t=62)** Now, once you've got all that set up though, one of the things that you'll be seeing in the future is that you'll be using not just an AI pair programming tool like GitHub Copilot but you also could be combining this with other tools.
+> **[1:02](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980&t=62)** Now, once you've got all that set up though, one of the things that you'll be seeing in the future is that you'll be using not just an AI pair programming tool like [[GitHub Copilot]] but you also could be combining this with other tools.
 >
-> **[1:17](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980&t=77)** For example, you may first ask questions about a particular problem with ChatGPT.
+> **[1:17](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980&t=77)** For example, you may first ask questions about a particular problem with [[ChatGPT]].
 >
-> **[1:21](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980&t=81)** Take that, put it into copilot and then finish it off.
+> **[1:21](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980&t=81)** Take that, put it into [[Microsoft Copilot|copilot]] and then finish it off.
 >
 > **[1:24](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980&t=84)** You may not like in some scenarios exactly what you got or there is a limitation.
 >
 > **[1:29](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980&t=89)** For example, the amount of text that you could put into ChatGPT.
 >
-> **[1:33](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980&t=93)** And so you could go to another tool like Google Bard and actually double check what it's talking about.
+> **[1:33](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980&t=93)** And so you could go to another tool like [[Google]] Bard and actually double check what it's talking about.
 >
 > **[1:39](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980&t=99)** Maybe even stick with Google Bard for a particular segment of your coding, maybe a 30-minute window until you get stuck.
 >
@@ -320,15 +318,15 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980&t=153)** You can use linting formatting tools to clean up the results.
 >
-> **[2:36](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980&t=156)** And finally, if you're using infrastructure as code, it will programmatically deploy that to a particular environment.
+> **[2:36](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980&t=156)** And finally, if you're using [[Infrastructure as code (IaC)|infrastructure as code]], it will programmatically deploy that to a particular environment.
 >
 > **[2:42](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980&t=162)** So really, it's not just a replacement to use these AI pair programming tools, it's actually a synergy with the existing best practices that you're using.
 >
-> **[2:53](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980&t=173)** And in fact, that's the best way to use AI pair programming is to have this best practices of continuous delivery, continuous integration and then enhance that with AI pair programming.
+> **[2:53](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-the-ai-coding-paradigm-shift?u=76281980&t=173)** And in fact, that's the best way to use AI pair programming is to have this best practices of [[Continuous Delivery (CD)|continuous delivery]], [[Continuous Integration (CI)|continuous integration]] and then enhance that with AI pair programming.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (8), ai (7), [[Google]] (3), [[DevOps]] (2), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Google]] (3), [[DevOps]] (2), [[GitHub]] (2), [[Rust (Programming Language)|Rust]] (2), [[ChatGPT]] (2)
 > **Tools:** github (3), visual studio (1)
 > **Analogies:** for example (3), just like (1)
 > **Prerequisites:** set up (4)
@@ -337,12 +335,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Env Vars:** aws (1)
 
-#### Introduction to cloud-based development environments
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980)
+#### [Introduction to cloud-based development environments](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980&t=8)** - [Instructor] Let's dive into using GitHub Codespaces along with all of the common features that make it so powerful.
+> **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980&t=8)** - [Instructor] Let's dive into using [[GitHub]] [[Codespaces]] along with all of the common features that make it so powerful.
 >
 > **[0:15](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980&t=15)** First up, I'm going to go into this organization.
 >
@@ -364,7 +361,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980&t=40)** You could create templates for different languages and then everything's already set up for you.
 >
-> **[0:44](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980&t=44)** So let's go ahead and say a template here and let's see if we can find one for Rust.
+> **[0:44](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980&t=44)** So let's go ahead and say a template here and let's see if we can find one for [[Rust (Programming Language)|Rust]].
 >
 > **[0:50](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980&t=50)** If I go through here, we say rust-new-project-template.
 >
@@ -434,7 +431,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980&t=238)** So this means that the next time I launch it, it'll launch very, very quickly.
 >
-> **[4:02](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980&t=242)** All right, so we're inside of here, we've got it all set up we've got this new template and then it's up to us at this point to decide what kind of user experience we want for this particular repo.
+> **[4:02](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980&t=242)** All right, so we're inside of here, we've got it all set up we've got this new template and then it's up to us at this point to decide what kind of [[User Experience (UX)|user experience]] we want for this particular repo.
 >
 > **[4:15](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980&t=255)** So what I'm going to do next here is I'm going to go in and change the background.
 >
@@ -462,7 +459,7 @@ created: 2026-05-02
 >
 > **[5:29](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980&t=329)** And this docker file here is using rust.
 >
-> **[5:31](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980&t=331)** So rust is already set up for us from Microsoft.
+> **[5:31](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980&t=331)** So rust is already set up for us from [[Microsoft]].
 >
 > **[5:34](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980&t=334)** There's not much we need to do.
 >
@@ -482,11 +479,11 @@ created: 2026-05-02
 >
 > **[6:25](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980&t=385)** But what I'm going to do is, I'm going to go over to Extensions here.
 >
-> **[6:29](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980&t=389)** I'm going to find that GitHub Copilot Chat is something that I actually want to install.
+> **[6:29](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980&t=389)** I'm going to find that [[GitHub Copilot]] Chat is something that I actually want to install.
 >
 > **[6:36](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980&t=396)** So let's go ahead and select that.
 >
-> **[6:38](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980&t=398)** Now that we've switched gears here what we can do is start to play around with something called GitHub Copilot Chat or Copilot X.
+> **[6:38](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980&t=398)** Now that we've switched gears here what we can do is start to play around with something called GitHub Copilot Chat or [[Microsoft Copilot|Copilot]] X.
 >
 > **[6:47](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980&t=407)** And it's a very powerful feature because it allows us to act like we have a peer programming friend here.
 >
@@ -558,7 +555,7 @@ created: 2026-05-02
 >
 > **[9:24](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980&t=564)** Perfect, all right.
 >
-> **[9:25](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980&t=565)** Let's take a look here at this GitHub Copilot CLI.
+> **[9:25](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980&t=565)** Let's take a look here at this GitHub Copilot [[CLI]].
 >
 > **[9:29](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-cloud-based-development-environments?u=76281980&t=569)** This is one of the other features that I wanted to show you that's really amazing.
 >
@@ -608,7 +605,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (9), [[Codespaces]] (8), next (5), [[GitHub]] (4), [[GitHub Copilot]] (4)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (9), [[Codespaces]] (8), [[GitHub]] (4), [[GitHub Copilot]] (4), [[Microsoft Copilot|Copilot]] (4)
 > **CLI Commands:** cargo (6), make (5), find (2), docker (1), cd (1)
 > **Prerequisites:** set up (6), install (6), configure (1)
 > **Tools:** github (8), vim (2)
@@ -617,28 +614,27 @@ created: 2026-05-02
 > **Definitions:** is a  (5), means that (1)
 > **Env Vars:** cli (3), gpu (1)
 
-#### Introduction to GitHub Copilot ecosystem for Rust
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-github-copilot-ecosystem-for-rust?u=76281980)
+#### [Introduction to GitHub Copilot ecosystem for Rust](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-github-copilot-ecosystem-for-rust?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-github-copilot-ecosystem-for-rust?u=76281980&t=8)** - All right, let's go ahead and get started with what I think is one of the more exciting ways to be a software engineer, and this is to use Copilot inside of the GitHub ecosystem.
+> **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-github-copilot-ecosystem-for-rust?u=76281980&t=8)** - All right, let's go ahead and get started with what I think is one of the more exciting ways to be a software engineer, and this is to use [[Microsoft Copilot|Copilot]] inside of the [[GitHub]] ecosystem.
 >
-> **[0:18](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-github-copilot-ecosystem-for-rust?u=76281980&t=18)** So not just by itself, but with Visual Studio Code, with GitHub Codespaces, with GitHub.
+> **[0:18](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-github-copilot-ecosystem-for-rust?u=76281980&t=18)** So not just by itself, but with Visual Studio Code, with GitHub [[Codespaces]], with GitHub.
 >
 > **[0:24](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-github-copilot-ecosystem-for-rust?u=76281980&t=24)** All those things together allows you to level up, right?
 >
-> **[0:28](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-github-copilot-ecosystem-for-rust?u=76281980&t=28)** In the old days when I first got started with Python, it was amazing, right?
+> **[0:28](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-github-copilot-ecosystem-for-rust?u=76281980&t=28)** In the old days when I first got started with [[Python (Programming Language)|Python]], it was amazing, right?
 >
 > **[0:32](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-github-copilot-ecosystem-for-rust?u=76281980&t=32)** I got into Python and I was like, "Wow.
 >
 > **[0:35](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-github-copilot-ecosystem-for-rust?u=76281980&t=35)** You know, I can do all these things, script code quickly, move at the speed of light, it's amazing."
 >
-> **[0:40](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-github-copilot-ecosystem-for-rust?u=76281980&t=40)** That's really the same feeling when you level up to a more powerful language like Rust using Copilot.
+> **[0:40](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-github-copilot-ecosystem-for-rust?u=76281980&t=40)** That's really the same feeling when you level up to a more powerful language like [[Rust (Programming Language)|Rust]] using Copilot.
 >
 > **[0:47](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-github-copilot-ecosystem-for-rust?u=76281980&t=47)** It's really that original Python experience, but the difference is, you have a modern language, a modern packaging system, you have 50 times better energy efficiency, you have 25 times at least better performance for computation, you have better, you know, memory usage because it's a very memory efficient language, and also in terms of security, right?
 >
-> **[1:10](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-github-copilot-ecosystem-for-rust?u=76281980&t=70)** You're building a very safe, concurrent, you know, build through the compiler, and also safe from a cybersecurity perspective.
+> **[1:10](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-github-copilot-ecosystem-for-rust?u=76281980&t=70)** You're building a very safe, concurrent, you know, build through the compiler, and also safe from a [[Cybersecurity]] perspective.
 >
 > **[1:17](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-github-copilot-ecosystem-for-rust?u=76281980&t=77)** So there's all these awesome advantages.
 >
@@ -740,7 +736,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-github-copilot-ecosystem-for-rust?u=76281980&t=288)** And as long as you're helping it along the way, it's going to give you a good response.
 >
-> **[4:54](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-github-copilot-ecosystem-for-rust?u=76281980&t=294)** And in this case, we say, look, public, so expose this to my main module, which I'm going to use for command line tool, and then look at the rest.
+> **[4:54](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-github-copilot-ecosystem-for-rust?u=76281980&t=294)** And in this case, we say, look, public, so expose this to my main module, which I'm going to use for command line tool, and then look at the [[Representational State Transfer (REST)|rest]].
 >
 > **[5:01](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-github-copilot-ecosystem-for-rust?u=76281980&t=301)** It's actually pretty intuitive.
 >
@@ -846,7 +842,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Microsoft Copilot|Copilot]] (11), [[Rust (Programming Language)|Rust]] (7), [[GitHub]] (5), prompt (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Microsoft Copilot|Copilot]] (11), [[Rust (Programming Language)|Rust]] (7), [[GitHub]] (5), [[Codespaces]] (2)
 > **CLI Commands:** python (12), cargo (5), make (4), cd (1)
 > **Tools:** github (5), command line (4), visual studio (2)
 > **Definitions:** is a  (5)
@@ -855,18 +851,17 @@ created: 2026-05-02
 > **Code Identifiers:** hello_marco (2)
 > **Analogies:** for example (1), just like (1)
 
-#### Prompt engineering with GCP BigQuery SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-with-gcp-bigquery-sql?u=76281980)
+#### [Prompt engineering with GCP BigQuery SQL](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-with-gcp-bigquery-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-with-gcp-bigquery-sql?u=76281980&t=6)** - [Instructor] Welcome to OpenAI.
 >
-> **[0:07](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-with-gcp-bigquery-sql?u=76281980&t=7)** You can see here that inside of OpenAI, we can start doing prompt engineering.
+> **[0:07](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-with-gcp-bigquery-sql?u=76281980&t=7)** You can see here that inside of OpenAI, we can start doing [[Prompt Engineering]].
 >
 > **[0:12](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-with-gcp-bigquery-sql?u=76281980&t=12)** The idea here is that if we go through and look at some of these examples, there are many different ways to get code out of a large language model.
 >
-> **[0:21](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-with-gcp-bigquery-sql?u=76281980&t=21)** If we go to SQL translate, this is a good example.
+> **[0:21](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-with-gcp-bigquery-sql?u=76281980&t=21)** If we go to [[SQL]] translate, this is a good example.
 >
 > **[0:24](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-with-gcp-bigquery-sql?u=76281980&t=24)** I could go through here, open up a playground, go ahead and submit it, and try to get some SQL answers.
 >
@@ -874,7 +869,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-with-gcp-bigquery-sql?u=76281980&t=38)** So how do we actually do this with a platform like BigQuery?
 >
-> **[0:42](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-with-gcp-bigquery-sql?u=76281980&t=42)** Well, let's go ahead and try to look at how we can do this, so let's go ahead and view this dataset, and if we go through here, we view this dataset, you can see that this is a rising trends here for the Google Cloud, and if we go through and we look at the Google trends, you can see there's things like top rising terms, for example. and if I wanted to go ahead and look at one of these queries, right?
+> **[0:42](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-with-gcp-bigquery-sql?u=76281980&t=42)** Well, let's go ahead and try to look at how we can do this, so let's go ahead and view this dataset, and if we go through here, we view this dataset, you can see that this is a rising trends here for the [[Google Cloud Platform (GCP)|Google Cloud]], and if we go through and we look at the [[Google]] trends, you can see there's things like top rising terms, for example. and if I wanted to go ahead and look at one of these queries, right?
 >
 > **[1:06](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-with-gcp-bigquery-sql?u=76281980&t=66)** I could actually open this up and close these tabs here and make this bigger and select some term here and start to do a query.
 >
@@ -884,7 +879,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-with-gcp-bigquery-sql?u=76281980&t=85)** What could I do?
 >
-> **[1:26](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-with-gcp-bigquery-sql?u=76281980&t=86)** Well, an easy way to deal with this is to actually grab a query and put it into ChatGPT.
+> **[1:26](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-with-gcp-bigquery-sql?u=76281980&t=86)** Well, an easy way to deal with this is to actually grab a query and put it into [[ChatGPT]].
 >
 > **[1:35](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-with-gcp-bigquery-sql?u=76281980&t=95)** So if we go through here and I say, you know, "I need you to explain this Google BigQuery query for me."
 >
@@ -1002,7 +997,7 @@ created: 2026-05-02
 >
 > **[8:04](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-with-gcp-bigquery-sql?u=76281980&t=484)** Okay, let's see what happens.
 >
-> **[8:05](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-with-gcp-bigquery-sql?u=76281980&t=485)** Let's see if it understands a pretty complex natural language processing query.
+> **[8:05](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-with-gcp-bigquery-sql?u=76281980&t=485)** Let's see if it understands a pretty complex [[Natural Language Processing (NLP)|natural language processing]] query.
 >
 > **[8:09](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-with-gcp-bigquery-sql?u=76281980&t=489)** To expand it to return 50 and include a generated column that counts the number of occurrences of a term, you can use count function.
 >
@@ -1032,7 +1027,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (5), [[Prompt Engineering]] (4), [[ChatGPT]] (4), [[SQL]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Google]] (5), [[Prompt Engineering]] (4), [[ChatGPT]] (4), [[SQL]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (5)
 > **UI Navigation:** go to (2), scroll down (1)
@@ -1041,8 +1036,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to AWS CodeWhisperer for Rust
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-aws-codewhisperer-for-rust?u=76281980)
+#### [Introduction to AWS CodeWhisperer for Rust](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-aws-codewhisperer-for-rust?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1062,7 +1056,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-aws-codewhisperer-for-rust?u=76281980&t=49)** If I went through here, there's a huge list of really large machines, including raw metal machines, if I wanted to play around with it.
 >
-> **[0:56](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-aws-codewhisperer-for-rust?u=76281980&t=56)** And I also can build something on Amazon Linux, which also helps me make sure that the code I'm writing is going to work well for the Amazon Deploy environment.
+> **[0:56](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-aws-codewhisperer-for-rust?u=76281980&t=56)** And I also can build something on Amazon [[Linux]], which also helps me make sure that the code I'm writing is going to work well for the Amazon Deploy environment.
 >
 > **[1:07](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-aws-codewhisperer-for-rust?u=76281980&t=67)** You can also set timeouts here, which is a great way to configure, and you even can SSH inside and control it that way, or even put it into a VPC.
 >
@@ -1074,7 +1068,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-aws-codewhisperer-for-rust?u=76281980&t=93)** I also could go to Developer Tools, and here where I've got the CodeWhisperer open here, you can see here that it's actually actively serving out the instructions for my code.
 >
-> **[1:46](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-aws-codewhisperer-for-rust?u=76281980&t=106)** Let's go ahead and go over to this particular example, and notice with Rust here I can actually put a comment.
+> **[1:46](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-aws-codewhisperer-for-rust?u=76281980&t=106)** Let's go ahead and go over to this particular example, and notice with [[Rust (Programming Language)|Rust]] here I can actually put a comment.
 >
 > **[1:53](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-aws-codewhisperer-for-rust?u=76281980&t=113)** In this case I said, build a function that prints one plus one, and I was able to actually do that, and then I was able to add this in.
 >
@@ -1194,7 +1188,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (6), ai (5), [[Rust (Programming Language)|Rust]] (5), aws (4), cd (3)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (5), [[Linux]] (2)
 > **CLI Commands:** cargo (10), aws (4), cd (3), make (1), ssh (1)
 > **Env Vars:** aws (4), ide (1), ssh (1), vpc (1)
 > **Definitions:** is a  (4), is an  (1)
@@ -1203,8 +1197,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), just like (1)
 > **File Paths:** main.rs (1)
 
-#### Using Google Bard to enhance productivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/using-google-bard-to-enhance-productivity?u=76281980)
+#### [Using Google Bard to enhance productivity](https://www.linkedin.com/learning/rust-for-data-engineering/using-google-bard-to-enhance-productivity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1214,11 +1207,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/rust-for-data-engineering/using-google-bard-to-enhance-productivity?u=76281980&t=21)** First step, I'm going to say, you know, what are three key aspects of security on the GCP cloud platform, right?
 >
-> **[0:32](https://www.linkedin.com/learning/rust-for-data-engineering/using-google-bard-to-enhance-productivity?u=76281980&t=32)** Let's say I was studying for a certification exam for the Google Cloud platform.
+> **[0:32](https://www.linkedin.com/learning/rust-for-data-engineering/using-google-bard-to-enhance-productivity?u=76281980&t=32)** Let's say I was studying for a certification exam for the [[Google Cloud Platform (GCP)|Google Cloud platform]].
 >
 > **[0:36](https://www.linkedin.com/learning/rust-for-data-engineering/using-google-bard-to-enhance-productivity?u=76281980&t=36)** I could go ahead and ask Bard here what are the key aspects?
 >
-> **[0:40](https://www.linkedin.com/learning/rust-for-data-engineering/using-google-bard-to-enhance-productivity?u=76281980&t=40)** And I can see here data security, identity, and access management and compliance.
+> **[0:40](https://www.linkedin.com/learning/rust-for-data-engineering/using-google-bard-to-enhance-productivity?u=76281980&t=40)** And I can see here [[Data Security]], identity, and access management and compliance.
 >
 > **[0:45](https://www.linkedin.com/learning/rust-for-data-engineering/using-google-bard-to-enhance-productivity?u=76281980&t=45)** In addition, there's some other features, right?
 >
@@ -1228,7 +1221,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/rust-for-data-engineering/using-google-bard-to-enhance-productivity?u=76281980&t=54)** But what if I wanted to do some coding, right?
 >
-> **[0:56](https://www.linkedin.com/learning/rust-for-data-engineering/using-google-bard-to-enhance-productivity?u=76281980&t=56)** So if I wanted to go through here and say, you know, build a Python Colab notebook that imports a sample dataset from pandas and charts it.
+> **[0:56](https://www.linkedin.com/learning/rust-for-data-engineering/using-google-bard-to-enhance-productivity?u=76281980&t=56)** So if I wanted to go through here and say, you know, build a [[Python (Programming Language)|Python]] Colab notebook that imports a sample dataset from [[Pandas (Software)|pandas]] and charts it.
 >
 > **[1:14](https://www.linkedin.com/learning/rust-for-data-engineering/using-google-bard-to-enhance-productivity?u=76281980&t=74)** Let's see what happens.
 >
@@ -1354,19 +1347,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Pandas (Software)|Pandas]] (3), [[Programming]] (3), feature (3), prompt (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Data Security]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** ram (2), gcp (1)
 > **Tools:** colab (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Continuous integration with Rust and GitHub actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980)
+#### [Continuous integration with Rust and GitHub actions](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980&t=8)** - [Instructor] Here we have a new project template that I'm going to use to set up a continuous integration for GitHub actions.
+> **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980&t=8)** - [Instructor] Here we have a new project template that I'm going to use to set up a [[Continuous Integration (CI)|continuous integration]] for [[GitHub]] actions.
 >
 > **[0:15](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980&t=15)** GitHub actions is a way of testing your code and even deploying your code automatically.
 >
@@ -1374,11 +1366,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980&t=26)** Let's go ahead and do this.
 >
-> **[0:27](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980&t=27)** And I can put it into a place here where I say github-actions-rust-example.
+> **[0:27](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980&t=27)** And I can put it into a place here where I say github-actions-[[Rust (Programming Language)|rust]]-example.
 >
 > **[0:36](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980&t=36)** And for the description we'll just say Build and test a Rust Project.
 >
-> **[0:44](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980&t=44)** And the goal here with setting up a new project is that it allows us to, from the very beginning, set it up for continuous integration, which is a DevOps best practice and really does help you build out microservices in a faster way because you have a quality control process that improves your code over time.
+> **[0:44](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980&t=44)** And the goal here with setting up a new project is that it allows us to, from the very beginning, set it up for continuous integration, which is a [[DevOps]] best practice and really does help you build out [[Microservices]] in a faster way because you have a quality control process that improves your code over time.
 >
 > **[1:04](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980&t=64)** So I'm going to go ahead and create a new codespace here.
 >
@@ -1390,7 +1382,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980&t=84)** And as it's building out this project, the other thing that'll allow me to do is push changes so that I can test out a GitHub actions workflow.
 >
-> **[1:34](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980&t=94)** Here we're inside of GitHub Codespaces and you can see here if I type in which cargo, Cargo's already ready for us so we can go ahead and start a new project.
+> **[1:34](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980&t=94)** Here we're inside of GitHub [[Codespaces]] and you can see here if I type in which cargo, Cargo's already ready for us so we can go ahead and start a new project.
 >
 > **[1:43](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980&t=103)** I'm going to go ahead and say cargo and we'll call this test rust here and that will be the name.
 >
@@ -1446,7 +1438,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980&t=253)** Now the real thing that that is going to be important is to verify that our GitHub actions workflow is successful.
 >
-> **[4:21](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980&t=261)** So if we go through here, we can see how inside of this environment it's going to run on Ubuntu.
+> **[4:21](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980&t=261)** So if we go through here, we can see how inside of this environment it's going to run on [[Ubuntu]].
 >
 > **[4:27](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980&t=267)** It's going to pull in the Rust tool chain here and it's going to say make lint and we can even see what it does.
 >
@@ -1460,7 +1452,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980&t=295)** And now that that's all set up, I should be able to say get status, add in the things that I've changed.
 >
-> **[5:03](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980&t=303)** So we'll say git add .github, git add star, add everything else.
+> **[5:03](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980&t=303)** So we'll say [[Git]] add .github, git add star, add everything else.
 >
 > **[5:13](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980&t=313)** Also add the gitignore.
 >
@@ -1498,7 +1490,7 @@ created: 2026-05-02
 >
 > **[7:35](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980&t=455)** And then you have a badge here that shows everybody else that your code is actually high quality and it's ready to go.
 >
-> **[7:43](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980&t=463)** And then you can build upon this to do continuous delivery.
+> **[7:43](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980&t=463)** And then you can build upon this to do [[Continuous Delivery (CD)|continuous delivery]].
 >
 > **[7:46](https://www.linkedin.com/learning/rust-for-data-engineering/continuous-integration-with-rust-and-github-actions?u=76281980&t=466)** So this is the foundational component of DevOps is continuous integration and it's pretty straightforward to set up.
 
@@ -1518,12 +1510,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing Rust sequences and maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/introducing-rust-sequences-and-maps?u=76281980)
+#### [Introducing Rust sequences and maps](https://www.linkedin.com/learning/rust-for-data-engineering/introducing-rust-sequences-and-maps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/introducing-rust-sequences-and-maps?u=76281980&t=6)** - [Instructor] Here we have Rust Collections, and a few important things about Rust Collections, is there are some similarities to Python.
+> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/introducing-rust-sequences-and-maps?u=76281980&t=6)** - [Instructor] Here we have [[Rust (Programming Language)|Rust]] Collections, and a few important things about Rust Collections, is there are some similarities to [[Python (Programming Language)|Python]].
 >
 > **[0:13](https://www.linkedin.com/learning/rust-for-data-engineering/introducing-rust-sequences-and-maps?u=76281980&t=13)** For example, with a sequence it's just like a Python list, more or less and with a map it's just like a Python dictionary.
 >
@@ -1563,18 +1554,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (15), [[Python (Programming Language)|Python]] (12), feature (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (15), [[Python (Programming Language)|Python]] (12)
 > **CLI Commands:** python (12)
 > **Analogies:** just like (3), similar to (2), for example (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Print Rust data structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/demo-print-rust-data-structures?u=76281980)
+#### [Demo: Print Rust data structures](https://www.linkedin.com/learning/rust-for-data-engineering/demo-print-rust-data-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/demo-print-rust-data-structures?u=76281980&t=6)** - [Instructor] Here in this video, I'm going to be showing how to print out a Rust data structure list in the console, so I'm going to go through all the different popular data structures in Rust and print them out, and we'll go through a bunch of different data types, including integers, floats, strings, rays, vectors, hash maps, and structs.
+> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/demo-print-rust-data-structures?u=76281980&t=6)** - [Instructor] Here in this video, I'm going to be showing how to print out a [[Rust (Programming Language)|Rust]] data structure list in the console, so I'm going to go through all the different popular [[Data Structures]] in Rust and print them out, and we'll go through a bunch of different data types, including integers, floats, strings, rays, vectors, hash maps, and structs.
 >
 > **[0:25](https://www.linkedin.com/learning/rust-for-data-engineering/demo-print-rust-data-structures?u=76281980&t=25)** And let's go ahead and take a look at how I do this.
 >
@@ -1618,7 +1608,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (7), data (4)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (7), [[Data Structures]] (1)
 > **CLI Commands:** make (10), cargo (3)
 > **Analogies:** for example (2)
 > **File Paths:** main.rs (1)
@@ -1626,20 +1616,19 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Vector fruit salad
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/demo-vector-fruit-salad?u=76281980)
+#### [Demo: Vector fruit salad](https://www.linkedin.com/learning/rust-for-data-engineering/demo-vector-fruit-salad?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/demo-vector-fruit-salad?u=76281980&t=6)** - [Instructor] Here we have a demo of how to use Rust Vector data structure.
+> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/demo-vector-fruit-salad?u=76281980&t=6)** - [Instructor] Here we have a demo of how to use [[Rust (Programming Language)|Rust]] Vector data structure.
 >
-> **[0:11](https://www.linkedin.com/learning/rust-for-data-engineering/demo-vector-fruit-salad?u=76281980&t=11)** This is very similar to Python's list data type.
+> **[0:11](https://www.linkedin.com/learning/rust-for-data-engineering/demo-vector-fruit-salad?u=76281980&t=11)** This is very similar to [[Python (Programming Language)|Python]]'s list data type.
 >
 > **[0:16](https://www.linkedin.com/learning/rust-for-data-engineering/demo-vector-fruit-salad?u=76281980&t=16)** We're going to go ahead and dynamically add, remove, and access elements from the vector and we're going to demonstrate the features and advantages of this particular data structure.
 >
 > **[0:27](https://www.linkedin.com/learning/rust-for-data-engineering/demo-vector-fruit-salad?u=76281980&t=27)** So you can see here that at the very beginning, this program creates a fruit salad by scrambling, shuffling a list of fruit.
 >
-> **[0:35](https://www.linkedin.com/learning/rust-for-data-engineering/demo-vector-fruit-salad?u=76281980&t=35)** You can see I put in the comments, a vector is a growable array here so it can grow, shrink in size and it's one of the most useful data structures in Rust.
+> **[0:35](https://www.linkedin.com/learning/rust-for-data-engineering/demo-vector-fruit-salad?u=76281980&t=35)** You can see I put in the comments, a vector is a growable array here so it can grow, shrink in size and it's one of the most useful [[Data Structures]] in Rust.
 >
 > **[0:45](https://www.linkedin.com/learning/rust-for-data-engineering/demo-vector-fruit-salad?u=76281980&t=45)** So this is really a go-to data structure you're going to use all the time to solve simple problems.
 >
@@ -1701,11 +1690,11 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/rust-for-data-engineering/demo-vector-fruit-salad?u=76281980&t=198)** Pretty intuitive as well.
 >
-> **[3:20](https://www.linkedin.com/learning/rust-for-data-engineering/demo-vector-fruit-salad?u=76281980&t=200)** If you're using tools like GitHub Copilot which can help you do code completion.
+> **[3:20](https://www.linkedin.com/learning/rust-for-data-engineering/demo-vector-fruit-salad?u=76281980&t=200)** If you're using tools like [[GitHub Copilot]] which can help you do code completion.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Rust (Programming Language)|Rust]] (4), [[Python (Programming Language)|Python]] (4), next (1), cd (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), [[Python (Programming Language)|Python]] (4), [[Data Structures]] (1), [[GitHub Copilot]] (1)
 > **CLI Commands:** python (4), cargo (4), make (2), cd (1)
 > **Env Vars:** rng (1), vec (1), fmt (1)
 > **Definitions:** is a  (1), means that (1)
@@ -1714,14 +1703,13 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: VecDeque fruit salad
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/demo-vecdeque-fruit-salad?u=76281980)
+#### [Demo: VecDeque fruit salad](https://www.linkedin.com/learning/rust-for-data-engineering/demo-vecdeque-fruit-salad?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/demo-vecdeque-fruit-salad?u=76281980&t=6)** - [Instructor] All right.
 >
-> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/demo-vecdeque-fruit-salad?u=76281980&t=6)** In this example we have a VecDeque, a double-ended queue similar to Python's deck from the collections module.
+> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/demo-vecdeque-fruit-salad?u=76281980&t=6)** In this example we have a VecDeque, a double-ended queue similar to [[Python (Programming Language)|Python]]'s deck from the collections module.
 >
 > **[0:15](https://www.linkedin.com/learning/rust-for-data-engineering/demo-vecdeque-fruit-salad?u=76281980&t=15)** And one of the really cool things about this is it has O to the one time complexity for operations on both ends.
 >
@@ -1779,7 +1767,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** push_back (3), push_front (1)
 > **CLI Commands:** cargo (2), python (1)
 > **Definitions:** is a  (2), means that (1)
@@ -1787,8 +1775,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: LinkedIn list fruit salad
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/demo-linkedin-list-fruit-salad?u=76281980)
+#### [Demo: LinkedIn list fruit salad](https://www.linkedin.com/learning/rust-for-data-engineering/demo-linkedin-list-fruit-salad?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1816,19 +1803,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (1), cargo (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Fruit salad CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/demo-fruit-salad-cli?u=76281980)
+#### [Demo: Fruit salad CLI](https://www.linkedin.com/learning/rust-for-data-engineering/demo-fruit-salad-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/demo-fruit-salad-cli?u=76281980&t=6)** - [Instructor] All right, here we have a Rust command line interface.
+> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/demo-fruit-salad-cli?u=76281980&t=6)** - [Instructor] All right, here we have a [[Rust (Programming Language)|Rust]] command line interface.
 >
-> **[0:10](https://www.linkedin.com/learning/rust-for-data-engineering/demo-fruit-salad-cli?u=76281980&t=10)** It's very similar to, let's say, Python's argparse module.
+> **[0:10](https://www.linkedin.com/learning/rust-for-data-engineering/demo-fruit-salad-cli?u=76281980&t=10)** It's very similar to, let's say, [[Python (Programming Language)|Python]]'s argparse module.
 >
 > **[0:13](https://www.linkedin.com/learning/rust-for-data-engineering/demo-fruit-salad-cli?u=76281980&t=13)** The idea here is to use a command line interface to give us a little bit more flexibility when we're building things.
 >
@@ -1858,7 +1843,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/rust-for-data-engineering/demo-fruit-salad-cli?u=76281980&t=98)** I publicly exposed this function, and now, how do I know about the namespace, though?
 >
-> **[1:44](https://www.linkedin.com/learning/rust-for-data-engineering/demo-fruit-salad-cli?u=76281980&t=104)** Well, all we have to do is go over to Cargo.toml, and notice here the name of this package is called cli-salad.
+> **[1:44](https://www.linkedin.com/learning/rust-for-data-engineering/demo-fruit-salad-cli?u=76281980&t=104)** Well, all we have to do is go over to Cargo.toml, and notice here the name of this package is called [[CLI]]-salad.
 >
 > **[1:54](https://www.linkedin.com/learning/rust-for-data-engineering/demo-fruit-salad-cli?u=76281980&t=114)** It's going to put the hyphen here and make it into an underscore.
 >
@@ -1902,7 +1887,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), [[Python (Programming Language)|Python]] (2), [[CLI]] (1), cd (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), [[Python (Programming Language)|Python]] (2), [[CLI]] (1)
 > **CLI Commands:** cargo (3), python (2), make (2), cd (1)
 > **Tools:** command line (5)
 > **File Paths:** lib.rs (3), cargo.toml (1)
@@ -1911,18 +1896,17 @@ created: 2026-05-02
 > **Analogies:** similar to (2)
 > **UI Navigation:** go to (1)
 
-#### Demo: HashMap frequency counter
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/demo-hashmap-frequency-counter?u=76281980)
+#### [Demo: HashMap frequency counter](https://www.linkedin.com/learning/rust-for-data-engineering/demo-hashmap-frequency-counter?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/demo-hashmap-frequency-counter?u=76281980&t=6)** - [Instructor] All right, in this demo I'm going to show a hash map frequency counter demo.
 >
-> **[0:12](https://www.linkedin.com/learning/rust-for-data-engineering/demo-hashmap-frequency-counter?u=76281980&t=12)** One thing to consider about hash map is it's very similar to a Python dictionary and a good use case for it is to have a frequency counter or to count things in general.
+> **[0:12](https://www.linkedin.com/learning/rust-for-data-engineering/demo-hashmap-frequency-counter?u=76281980&t=12)** One thing to consider about hash map is it's very similar to a [[Python (Programming Language)|Python]] dictionary and a good use case for it is to have a frequency counter or to count things in general.
 >
 > **[0:25](https://www.linkedin.com/learning/rust-for-data-engineering/demo-hashmap-frequency-counter?u=76281980&t=25)** And it has O to the one time complexity for insertion, deletion, and access.
 >
-> **[0:31](https://www.linkedin.com/learning/rust-for-data-engineering/demo-hashmap-frequency-counter?u=76281980&t=31)** So it's a great really multipurpose data structure in Rust that you'll use quite frequently.
+> **[0:31](https://www.linkedin.com/learning/rust-for-data-engineering/demo-hashmap-frequency-counter?u=76281980&t=31)** So it's a great really multipurpose data structure in [[Rust (Programming Language)|Rust]] that you'll use quite frequently.
 >
 > **[0:38](https://www.linkedin.com/learning/rust-for-data-engineering/demo-hashmap-frequency-counter?u=76281980&t=38)** And they're great for tasks that require a quick lookup like counting occurrences of items.
 >
@@ -1970,21 +1954,20 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/rust-for-data-engineering/demo-hashmap-frequency-counter?u=76281980&t=167)** It has great performance.
 >
-> **[2:48](https://www.linkedin.com/learning/rust-for-data-engineering/demo-hashmap-frequency-counter?u=76281980&t=168)** So between a hash map and a vector, you can really do you know, a wide variety of things in Rust, and these are probably the two data structures to focus on the most.
+> **[2:48](https://www.linkedin.com/learning/rust-for-data-engineering/demo-hashmap-frequency-counter?u=76281980&t=168)** So between a hash map and a vector, you can really do you know, a wide variety of things in Rust, and these are probably the two [[Data Structures]] to focus on the most.
 >
 > **[2:59](https://www.linkedin.com/learning/rust-for-data-engineering/demo-hashmap-frequency-counter?u=76281980&t=179)** And they have a lot of similarity to how you would do things in Python.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Rust (Programming Language)|Rust]] (3), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), [[Python (Programming Language)|Python]] (2), [[Data Structures]] (1)
 > **CLI Commands:** make (3), python (2), cargo (1)
 > **Definitions:** is a  (3)
 > **File Paths:** lib.rs (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### HashMap language comparison
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/hashmap-language-comparison?u=76281980)
+#### [HashMap language comparison](https://www.linkedin.com/learning/rust-for-data-engineering/hashmap-language-comparison?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1998,7 +1981,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/rust-for-data-engineering/hashmap-language-comparison?u=76281980&t=34)** Inside this hash map, it's going to contain strings that are i32.
 >
-> **[0:40](https://www.linkedin.com/learning/rust-for-data-engineering/hashmap-language-comparison?u=76281980&t=40)** We have JavaScript, HTML, Python, SQL, TypeScript, Bash/Shell, Java, C#, C++, C, et cetera, and what's really interesting is, once you start diving into the age of the languages here, it's a good thing to mix in with the popularity.
+> **[0:40](https://www.linkedin.com/learning/rust-for-data-engineering/hashmap-language-comparison?u=76281980&t=40)** We have [[JavaScript]], [[HTML]], [[Python (Programming Language)|Python]], [[SQL]], TypeScript, Bash/Shell, [[Java]], C#, C++, C, et cetera, and what's really interesting is, once you start diving into the age of the languages here, it's a good thing to mix in with the popularity.
 >
 > **[0:57](https://www.linkedin.com/learning/rust-for-data-engineering/hashmap-language-comparison?u=76281980&t=57)** So what I'm going to do is I'm going to make another function here called calculate_weights, and what this calculate weights accepts is the years active, and what it's going to do here, it's going to calculate how long a language has been active.
 >
@@ -2012,7 +1995,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/rust-for-data-engineering/hashmap-language-comparison?u=76281980&t=103)** I could actually rank a language in a very different way in the fact that, in this particular weighing here, I'm going to say language weighing from one to 100 by age, one is the newest and 100 is the oldest.
 >
-> **[1:57](https://www.linkedin.com/learning/rust-for-data-engineering/hashmap-language-comparison?u=76281980&t=117)** So if we look at this, we can see here that TypeScript is the newest, Rust is also pretty new.
+> **[1:57](https://www.linkedin.com/learning/rust-for-data-engineering/hashmap-language-comparison?u=76281980&t=117)** So if we look at this, we can see here that TypeScript is the newest, [[Rust (Programming Language)|Rust]] is also pretty new.
 >
 > **[2:04](https://www.linkedin.com/learning/rust-for-data-engineering/hashmap-language-comparison?u=76281980&t=124)** C is actually the oldest one.
 >
@@ -2028,7 +2011,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Rust (Programming Language)|Rust]] (3), [[Python (Programming Language)|Python]] (2), database (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), [[Python (Programming Language)|Python]] (2), [[JavaScript]] (1), [[HTML]] (1), [[SQL]] (1)
 > **CLI Commands:** python (2), make (1), cargo (1)
 > **Code Identifiers:** init_languages (1), calculate_weights (1)
 > **Env Vars:** html (1), sql (1)
@@ -2042,12 +2025,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analyzing UFC fighter network using graph centrality in Rust
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/analyzing-ufc-fighter-network-using-graph-centrality-in-rust?u=76281980)
+#### [Analyzing UFC fighter network using graph centrality in Rust](https://www.linkedin.com/learning/rust-for-data-engineering/analyzing-ufc-fighter-network-using-graph-centrality-in-rust?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/analyzing-ufc-fighter-network-using-graph-centrality-in-rust?u=76281980&t=6)** - [Instructor] Many people involved with data science know about descriptive statistics.
+> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/analyzing-ufc-fighter-network-using-graph-centrality-in-rust?u=76281980&t=6)** - [Instructor] Many people involved with [[Data Science]] know about descriptive [[Statistics]].
 >
 > **[0:10](https://www.linkedin.com/learning/rust-for-data-engineering/analyzing-ufc-fighter-network-using-graph-centrality-in-rust?u=76281980&t=10)** It's a way of looking at data and getting things like the median, for example, or outliers or the min or the max.
 >
@@ -2063,7 +2045,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/rust-for-data-engineering/analyzing-ufc-fighter-network-using-graph-centrality-in-rust?u=76281980&t=54)** And if I go over to cargo, you can see I've got this imported.
 >
-> **[0:58](https://www.linkedin.com/learning/rust-for-data-engineering/analyzing-ufc-fighter-network-using-graph-centrality-in-rust?u=76281980&t=58)** Now if we take a look at next here, I define a struct and this can be a little bit confusing at first when you see something like a struct and this implementation here as well but it's actually identical to the Python code as follows, right?
+> **[0:58](https://www.linkedin.com/learning/rust-for-data-engineering/analyzing-ufc-fighter-network-using-graph-centrality-in-rust?u=76281980&t=58)** Now if we take a look at next here, I define a struct and this can be a little bit confusing at first when you see something like a struct and this implementation here as well but it's actually identical to the [[Python (Programming Language)|Python]] code as follows, right?
 >
 > **[1:13](https://www.linkedin.com/learning/rust-for-data-engineering/analyzing-ufc-fighter-network-using-graph-centrality-in-rust?u=76281980&t=73)** If you're going to add, you know a name attribute to an object in Python, it's similar here I'm adding the fighter name.
 >
@@ -2093,7 +2075,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/rust-for-data-engineering/analyzing-ufc-fighter-network-using-graph-centrality-in-rust?u=76281980&t=159)** So again, if you're a data engineer, machine learning engineer, data scientist, this could be something that would be very common if you're going to create, let's say a custom metric or a chart.
 >
-> **[2:51](https://www.linkedin.com/learning/rust-for-data-engineering/analyzing-ufc-fighter-network-using-graph-centrality-in-rust?u=76281980&t=171)** In this case, I match on the word Conor McGregor and we can see that he's going to have the lowest centrality because he's fought with the other fighters, et cetera, et cetera.
+> **[2:51](https://www.linkedin.com/learning/rust-for-data-engineering/analyzing-ufc-fighter-network-using-graph-centrality-in-rust?u=76281980&t=171)** In this case, I match on the [[Microsoft Word|word]] Conor McGregor and we can see that he's going to have the lowest centrality because he's fought with the other fighters, et cetera, et cetera.
 >
 > **[2:59](https://www.linkedin.com/learning/rust-for-data-engineering/analyzing-ufc-fighter-network-using-graph-centrality-in-rust?u=76281980&t=179)** So I print out the explanations based on the centrality score.
 >
@@ -2117,11 +2099,11 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/rust-for-data-engineering/analyzing-ufc-fighter-network-using-graph-centrality-in-rust?u=76281980&t=238)** So this is a great way to figure out custom metrics that are really unique to either in world relationships or sports relationships or social networks.
 >
-> **[4:08](https://www.linkedin.com/learning/rust-for-data-engineering/analyzing-ufc-fighter-network-using-graph-centrality-in-rust?u=76281980&t=248)** And of course, you can do it very easily with Rust.
+> **[4:08](https://www.linkedin.com/learning/rust-for-data-engineering/analyzing-ufc-fighter-network-using-graph-centrality-in-rust?u=76281980&t=248)** And of course, you can do it very easily with [[Rust (Programming Language)|Rust]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (2), [[Statistics]] (1), node (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Data Science]] (1), [[Statistics]] (1), [[Microsoft Word|Word]] (1), [[Rust (Programming Language)|Rust]] (1)
 > **CLI Commands:** cargo (2), python (2), node (1), make (1)
 > **Env Vars:** ufc (3)
 > **Versions:** 0.33 (1), 0.25 (1), 0.50 (1)
@@ -2129,12 +2111,11 @@ created: 2026-05-02
 > **Analogies:** for example (1), similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Storing unique fruits using HashSet in Rust
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/storing-unique-fruits-using-hashset-in-rust?u=76281980)
+#### [Storing unique fruits using HashSet in Rust](https://www.linkedin.com/learning/rust-for-data-engineering/storing-unique-fruits-using-hashset-in-rust?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/storing-unique-fruits-using-hashset-in-rust?u=76281980&t=5)** - [Instructor] All right, in this video, I have a simple Rust program that generates a list of 100 random fruits and calculates the number of unique fruits we end up with.
+> **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/storing-unique-fruits-using-hashset-in-rust?u=76281980&t=5)** - [Instructor] All right, in this video, I have a simple [[Rust (Programming Language)|Rust]] program that generates a list of 100 random fruits and calculates the number of unique fruits we end up with.
 >
 > **[0:16](https://www.linkedin.com/learning/rust-for-data-engineering/storing-unique-fruits-using-hashset-in-rust?u=76281980&t=16)** So let's go ahead and take a look at the very beginning here.
 >
@@ -2208,7 +2189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), data (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3)
 > **CLI Commands:** cargo (1), find (1)
 > **UI Navigation:** scroll down (1), select the (1)
 > **Definitions:** is a  (2)
@@ -2216,16 +2197,15 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Maintaining sorted and unique fruits using BTreeSet in Rust
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/maintaining-sorted-and-unique-fruits-using-btreeset-in-rust?u=76281980)
+#### [Maintaining sorted and unique fruits using BTreeSet in Rust](https://www.linkedin.com/learning/rust-for-data-engineering/maintaining-sorted-and-unique-fruits-using-btreeset-in-rust?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/maintaining-sorted-and-unique-fruits-using-btreeset-in-rust?u=76281980&t=5)** - [Instructor] Okay, let's dive into another fun data structure which is BTreeSets.
 >
-> **[0:10](https://www.linkedin.com/learning/rust-for-data-engineering/maintaining-sorted-and-unique-fruits-using-btreeset-in-rust?u=76281980&t=10)** And in this Rust program, it's going to generate a BTreeSet of fruits with varying amounts.
+> **[0:10](https://www.linkedin.com/learning/rust-for-data-engineering/maintaining-sorted-and-unique-fruits-using-btreeset-in-rust?u=76281980&t=10)** And in this [[Rust (Programming Language)|Rust]] program, it's going to generate a BTreeSet of fruits with varying amounts.
 >
-> **[0:16](https://www.linkedin.com/learning/rust-for-data-engineering/maintaining-sorted-and-unique-fruits-using-btreeset-in-rust?u=76281980&t=16)** So the BTreeSet is another unique collection that's a similar collection to HashSet, but it keeps its elements in a sorted order which could be really helpful for certain kinds of data engineering problems.
+> **[0:16](https://www.linkedin.com/learning/rust-for-data-engineering/maintaining-sorted-and-unique-fruits-using-btreeset-in-rust?u=76281980&t=16)** So the BTreeSet is another unique collection that's a similar collection to HashSet, but it keeps its elements in a sorted order which could be really helpful for certain kinds of [[Data Engineering]] problems.
 >
 > **[0:31](https://www.linkedin.com/learning/rust-for-data-engineering/maintaining-sorted-and-unique-fruits-using-btreeset-in-rust?u=76281980&t=31)** If you wanted to again, you know, collect some custom metrics.
 >
@@ -2281,18 +2261,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), data (2), next (2), [[Data Engineering]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), [[Data Engineering]] (1)
 > **CLI Commands:** cargo (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a fig-priority fruit salad using BinaryHeap in Rust
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-fig-priority-fruit-salad-using-binaryheap-in-rust?u=76281980)
+#### [Creating a fig-priority fruit salad using BinaryHeap in Rust](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-fig-priority-fruit-salad-using-binaryheap-in-rust?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-fig-priority-fruit-salad-using-binaryheap-in-rust?u=76281980&t=5)** - [Instructor] All right, in this video I'm going to make a Rust program that creates a fruit salad, but it has a twist here in that I'm going to assign the fruit fig, which is one of my favorite fruits, the priority.
+> **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-fig-priority-fruit-salad-using-binaryheap-in-rust?u=76281980&t=5)** - [Instructor] All right, in this video I'm going to make a [[Rust (Programming Language)|Rust]] program that creates a fruit salad, but it has a twist here in that I'm going to assign the fruit fig, which is one of my favorite fruits, the priority.
 >
 > **[0:19](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-fig-priority-fruit-salad-using-binaryheap-in-rust?u=76281980&t=19)** And this program uses the Binary Heap to accomplish this.
 >
@@ -2328,7 +2307,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-fig-priority-fruit-salad-using-binaryheap-in-rust?u=76281980&t=96)** So I'm going to prioritize for figs, but I'm also going to stack the deck in the favor of the figs, as well.
 >
-> **[1:44](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-fig-priority-fruit-salad-using-binaryheap-in-rust?u=76281980&t=104)** And what's going to happen is it's going to push things down here until I've got a couple figs and then it's going to generate the rest of our fruit salad here.
+> **[1:44](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-fig-priority-fruit-salad-using-binaryheap-in-rust?u=76281980&t=104)** And what's going to happen is it's going to push things down here until I've got a couple figs and then it's going to generate the [[Representational State Transfer (REST)|rest]] of our fruit salad here.
 >
 > **[1:53](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-fig-priority-fruit-salad-using-binaryheap-in-rust?u=76281980&t=113)** So let's go ahead and run this and take a look at how it works.
 >
@@ -2342,7 +2321,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-fig-priority-fruit-salad-using-binaryheap-in-rust?u=76281980&t=128)** You'll see there's always going to be a couple figs here, which is pretty neat.
 >
-> **[2:13](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-fig-priority-fruit-salad-using-binaryheap-in-rust?u=76281980&t=133)** And it allows us to create this really kind of customized metric, which again, is really useful for people that are doing data engineering.
+> **[2:13](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-fig-priority-fruit-salad-using-binaryheap-in-rust?u=76281980&t=133)** And it allows us to create this really kind of customized metric, which again, is really useful for people that are doing [[Data Engineering]].
 >
 > **[2:21](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-fig-priority-fruit-salad-using-binaryheap-in-rust?u=76281980&t=141)** And the main thing to be considered about a Binary Heap is that it's a priority queue in Rust and it's a very handy data structure when you need to constantly pull out the highest or the lowest value from a set.
 >
@@ -2352,17 +2331,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), data (2), [[Representational State Transfer (REST)|Rest]] (1), [[Data Engineering]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Data Engineering]] (1)
 > **CLI Commands:** make (3), cargo (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### PageRank algorithm for sports data
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/pagerank-algorithm-for-sports-data?u=76281980)
+#### [PageRank algorithm for sports data](https://www.linkedin.com/learning/rust-for-data-engineering/pagerank-algorithm-for-sports-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/pagerank-algorithm-for-sports-data?u=76281980&t=5)** - [Instructor] All right, so today, I'm going to talk about PageRank algorithm and how you can do it in Rust, and the PageRank algorithm was first developed by Google to rank webpages based on their relevancy and importance, and I'm going to talk about how the concept of damping is also used in PageRank.
+> **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/pagerank-algorithm-for-sports-data?u=76281980&t=5)** - [Instructor] All right, so today, I'm going to talk about PageRank algorithm and how you can do it in [[Rust (Programming Language)|Rust]], and the PageRank algorithm was first developed by [[Google]] to rank webpages based on their relevancy and importance, and I'm going to talk about how the concept of damping is also used in PageRank.
 >
 > **[0:26](https://www.linkedin.com/learning/rust-for-data-engineering/pagerank-algorithm-for-sports-data?u=76281980&t=26)** You can see this right here, in this struct, I use damping and I also use iterations here.
 >
@@ -2404,13 +2382,13 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/rust-for-data-engineering/pagerank-algorithm-for-sports-data?u=76281980&t=210)** And again, it's pretty straightforward to do with the just kind of basic Rust here.
 >
-> **[3:37](https://www.linkedin.com/learning/rust-for-data-engineering/pagerank-algorithm-for-sports-data?u=76281980&t=217)** The only thing that I used that was out of the box other than vanilla Rust was textwrap, and if we take a look at this right here, the textwrap, all it does, if we go back to the code here, is that it makes a nice wrapped up explanation here that wraps it at 78 characters per line.
+> **[3:37](https://www.linkedin.com/learning/rust-for-data-engineering/pagerank-algorithm-for-sports-data?u=76281980&t=217)** The only thing that I used that was out of the box other than [[Vanilla]] Rust was textwrap, and if we take a look at this right here, the textwrap, all it does, if we go back to the code here, is that it makes a nice wrapped up explanation here that wraps it at 78 characters per line.
 >
 > **[3:55](https://www.linkedin.com/learning/rust-for-data-engineering/pagerank-algorithm-for-sports-data?u=76281980&t=235)** So if you did want to print something out that didn't spill out past that particular margin, this is a great little tool to use, and that's why I did it is so that I was able to print out this nice little description of what the PageRank algorithm did.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), [[Google]] (2), node (2), [[Search]] (2), [[Vanilla]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), [[Google]] (2), [[Vanilla]] (1)
 > **Env Vars:** espn (4), nfl (3), nba (3), ufc (2), mlb (1)
 > **CLI Commands:** node (2), cargo (1)
 > **Versions:** 0.85 (1), 0.42 (1), 0.22 (1)
@@ -2419,8 +2397,7 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Showing shortest path with Dijkstra
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/showing-shortest-path-with-dijkstra?u=76281980)
+#### [Showing shortest path with Dijkstra](https://www.linkedin.com/learning/rust-for-data-engineering/showing-shortest-path-with-dijkstra?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2440,7 +2417,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/rust-for-data-engineering/showing-shortest-path-with-dijkstra?u=76281980&t=69)** So right here's the undirected graph here.
 >
-> **[1:11](https://www.linkedin.com/learning/rust-for-data-engineering/showing-shortest-path-with-dijkstra?u=76281980&t=71)** And again, because of Rust excellent typing system I don't have to worry about, you know lots of errors that could occur.
+> **[1:11](https://www.linkedin.com/learning/rust-for-data-engineering/showing-shortest-path-with-dijkstra?u=76281980&t=71)** And again, because of [[Rust (Programming Language)|Rust]] excellent typing system I don't have to worry about, you know lots of errors that could occur.
 >
 > **[1:19](https://www.linkedin.com/learning/rust-for-data-engineering/showing-shortest-path-with-dijkstra?u=76281980&t=79)** I've got this strategy all laid out for me exactly what's going to be included inside of this graph.
 >
@@ -2478,22 +2455,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (4), [[Rust (Programming Language)|Rust]] (3), data (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3)
 > **CLI Commands:** node (4), cargo (2), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Detecting strongly connected components: A deep dive into Kosaraju's algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-strongly-connected-components-a-deep-dive-into-kosaraju-s-algorithm?u=76281980)
+#### [Detecting strongly connected components: A deep dive into Kosaraju's algorithm](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-strongly-connected-components-a-deep-dive-into-kosaraju-s-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-strongly-connected-components-a-deep-dive-into-kosaraju-s-algorithm?u=76281980&t=6)** - [Instructor] All right, here we have some community detection with Neo4j, which is a graph database.
+> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-strongly-connected-components-a-deep-dive-into-kosaraju-s-algorithm?u=76281980&t=6)** - [Instructor] All right, here we have some community detection with [[Neo4j]], which is a graph database.
 >
 > **[0:12](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-strongly-connected-components-a-deep-dive-into-kosaraju-s-algorithm?u=76281980&t=12)** And they were able to detect trolls in tweets during the last 2016 US presidential election.
 >
-> **[0:20](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-strongly-connected-components-a-deep-dive-into-kosaraju-s-algorithm?u=76281980&t=20)** So what I've done is I've gone over to Rust here and implemented some ways of detecting these communities by writing pure Rust code.
+> **[0:20](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-strongly-connected-components-a-deep-dive-into-kosaraju-s-algorithm?u=76281980&t=20)** So what I've done is I've gone over to [[Rust (Programming Language)|Rust]] here and implemented some ways of detecting these communities by writing pure Rust code.
 >
 > **[0:30](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-strongly-connected-components-a-deep-dive-into-kosaraju-s-algorithm?u=76281980&t=30)** So what we're going to do is we're going to go into the world of community detection with social networks focusing on these Twitter users.
 >
@@ -2515,7 +2491,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-strongly-connected-components-a-deep-dive-into-kosaraju-s-algorithm?u=76281980&t=82)** And this is going to be the the dataset that I'm going to use, which is the Twitter usernames.
 >
-> **[1:28](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-strongly-connected-components-a-deep-dive-into-kosaraju-s-algorithm?u=76281980&t=88)** And then we're going to use this petgraph library, which is useful for both including algorithms, as well as doing graph structures.
+> **[1:28](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-strongly-connected-components-a-deep-dive-into-kosaraju-s-algorithm?u=76281980&t=88)** And then we're going to use this petgraph library, which is useful for both including [[Algorithms]], as well as doing graph structures.
 >
 > **[1:39](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-strongly-connected-components-a-deep-dive-into-kosaraju-s-algorithm?u=76281980&t=99)** And we're going to use this Kosaraju's algorithm to detect strongly connected components.
 >
@@ -2543,7 +2519,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-strongly-connected-components-a-deep-dive-into-kosaraju-s-algorithm?u=76281980&t=169)** And we're going to say for component in scc, and again, this is the discovered community, go ahead and print it.
 >
-> **[2:57](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-strongly-connected-components-a-deep-dive-into-kosaraju-s-algorithm?u=76281980&t=177)** And you could put more, you know, descriptive statistics if you wanted to, like counts of nodes or even maybe dynamically generate a name for the community you've discovered.
+> **[2:57](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-strongly-connected-components-a-deep-dive-into-kosaraju-s-algorithm?u=76281980&t=177)** And you could put more, you know, descriptive [[Statistics]] if you wanted to, like counts of nodes or even maybe dynamically generate a name for the community you've discovered.
 >
 > **[3:07](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-strongly-connected-components-a-deep-dive-into-kosaraju-s-algorithm?u=76281980&t=187)** This is again, a very small sample set here where I have some legitimate trolls that were used in the Neo4j dataset that was discovered by NBC News.
 >
@@ -2567,7 +2543,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), [[Neo4j]] (2), data (2), database (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), [[Neo4j]] (2), [[Algorithms]] (1), [[Statistics]] (1)
 > **CLI Commands:** node (1), cd (1), cargo (1), find (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** community_detection (1)
@@ -2576,12 +2552,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Simple charting of data structures in Rust
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/simple-charting-of-data-structures-in-rust?u=76281980)
+#### [Simple charting of data structures in Rust](https://www.linkedin.com/learning/rust-for-data-engineering/simple-charting-of-data-structures-in-rust?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/simple-charting-of-data-structures-in-rust?u=76281980&t=6)** - [Instructor] Okay, in today's coding session, I'm going to demonstrate how to visualize data using this rasciigraph library in Rust.
+> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/simple-charting-of-data-structures-in-rust?u=76281980&t=6)** - [Instructor] Okay, in today's coding session, I'm going to demonstrate how to visualize data using this rasciigraph library in [[Rust (Programming Language)|Rust]].
 >
 > **[0:14](https://www.linkedin.com/learning/rust-for-data-engineering/simple-charting-of-data-structures-in-rust?u=76281980&t=14)** You can see here from the official documentation, pretty straightforward, you put in a vector, and it's able to with a few configuration options, print out a nice little ASCII graph here.
 >
@@ -2619,7 +2594,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), data (2), next (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3)
 > **Env Vars:** ascii (2)
 > **CLI Commands:** cargo (1)
 > **Tools:** command line (1)
@@ -2633,12 +2608,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Multifactor authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/multifactor-authentication?u=76281980)
+#### [Multifactor authentication](https://www.linkedin.com/learning/rust-for-data-engineering/multifactor-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/multifactor-authentication?u=76281980&t=5)** - [Instructor] Let's talk about multi-factor authentication in the context of a castle.
+> **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/multifactor-authentication?u=76281980&t=5)** - [Instructor] Let's talk about [[Multi-factor Authentication]] in the context of a castle.
 >
 > **[0:10](https://www.linkedin.com/learning/rust-for-data-engineering/multifactor-authentication?u=76281980&t=10)** This is a great way to look at some of the basic security credentials and security mechanisms that are possible in the cloud but also have been around for thousands of years.
 >
@@ -2672,12 +2646,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Multi-factor Authentication]] (1), cloud (1), data (1)
+> **Frameworks & Libraries:** [[Multi-factor Authentication]] (1)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Network segmentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/network-segmentation?u=76281980)
+#### [Network segmentation](https://www.linkedin.com/learning/rust-for-data-engineering/network-segmentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2695,7 +2668,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/rust-for-data-engineering/network-segmentation?u=76281980&t=40)** So computer networks are very similar because you can divide the network into segments isolated by the firewalls.
 >
-> **[0:47](https://www.linkedin.com/learning/rust-for-data-engineering/network-segmentation?u=76281980&t=47)** Public facing web servers go in an outer zone called a DMZ and inner zones hold the sensitive data like customer records and segmentation controls access between those zones.
+> **[0:47](https://www.linkedin.com/learning/rust-for-data-engineering/network-segmentation?u=76281980&t=47)** Public facing [[Web Servers]] go in an outer zone called a DMZ and inner zones hold the sensitive data like customer records and segmentation controls access between those zones.
 >
 > **[0:59](https://www.linkedin.com/learning/rust-for-data-engineering/network-segmentation?u=76281980&t=59)** So this would limit an attacker's ability to move laterally and cause wider damage and the users and devices would only interact with systems they need to.
 >
@@ -2715,7 +2688,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/rust-for-data-engineering/network-segmentation?u=76281980&t=115)** You can restrict access between zones to reduce the radius of an intrusion.
 >
-> **[2:00](https://www.linkedin.com/learning/rust-for-data-engineering/network-segmentation?u=76281980&t=120)** You also have intrusion detection systems that look out for anomalies.
+> **[2:00](https://www.linkedin.com/learning/rust-for-data-engineering/network-segmentation?u=76281980&t=120)** You also have [[Intrusion Detection]] systems that look out for anomalies.
 >
 > **[2:05](https://www.linkedin.com/learning/rust-for-data-engineering/network-segmentation?u=76281980&t=125)** You could have subnetting and VLANs for network partitioning, and also you could access control lists for interface permissions and you could even look at the packets as well in firewall, and then intrusion detection systems and heuristic analysis.
 >
@@ -2723,14 +2696,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), data (2), database (2), [[Intrusion Detection]] (2), web (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (2), [[Web Servers]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** dmz (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Least privilege access
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/least-privilege-access?u=76281980)
+#### [Least privilege access](https://www.linkedin.com/learning/rust-for-data-engineering/least-privilege-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2776,13 +2748,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), database (1), application (1)
 > **Analogies:** for example (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Encryption
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/encryption?u=76281980)
+#### [Encryption](https://www.linkedin.com/learning/rust-for-data-engineering/encryption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2794,7 +2764,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/rust-for-data-engineering/encryption?u=76281980&t=28)** This prevents people from accessing the sensitive information and intercepted messages appear meaningless to anyone lacking the cipher key.
 >
-> **[0:37](https://www.linkedin.com/learning/rust-for-data-engineering/encryption?u=76281980&t=37)** Modern computing would then rely on encryption to protect data both at rest and in transit and the powerful algorithms would scramble information so only authorized parties can read it.
+> **[0:37](https://www.linkedin.com/learning/rust-for-data-engineering/encryption?u=76281980&t=37)** Modern computing would then rely on encryption to protect data both at [[Representational State Transfer (REST)|rest]] and in transit and the powerful [[Algorithms]] would scramble information so only authorized parties can read it.
 >
 > **[0:50](https://www.linkedin.com/learning/rust-for-data-engineering/encryption?u=76281980&t=50)** Encryption keys unlock access to data and with symmetric encryption the same key would both encrypt and decrypt.
 >
@@ -2810,21 +2780,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Representational State Transfer (REST)|Rest]] (1), [[Algorithms]] (1), management (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Algorithms]] (1)
 > **CLI Commands:** ssh (1)
 > **Env Vars:** ssh (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mutable fruit salad
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/mutable-fruit-salad?u=76281980)
+#### [Mutable fruit salad](https://www.linkedin.com/learning/rust-for-data-engineering/mutable-fruit-salad?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/mutable-fruit-salad?u=76281980&t=6)** - [Lecturer] Let's take a look here at a example of immutability and why it's so important as a security design of the Rust language.
+> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/mutable-fruit-salad?u=76281980&t=6)** - [Lecturer] Let's take a look here at a example of immutability and why it's so important as a security design of the [[Rust (Programming Language)|Rust]] language.
 >
 > **[0:15](https://www.linkedin.com/learning/rust-for-data-engineering/mutable-fruit-salad?u=76281980&t=15)** Here you have a Rust function, and in the very beginning here we created a vector of fruit.
 >
-> **[0:21](https://www.linkedin.com/learning/rust-for-data-engineering/mutable-fruit-salad?u=76281980&t=21)** So this is like a python list, but one key difference here is notice when you say let, you actually are setting in stone what is going to be inside of this vector.
+> **[0:21](https://www.linkedin.com/learning/rust-for-data-engineering/mutable-fruit-salad?u=76281980&t=21)** So this is like a [[Python (Programming Language)|python]] list, but one key difference here is notice when you say let, you actually are setting in stone what is going to be inside of this vector.
 >
 > **[0:32](https://www.linkedin.com/learning/rust-for-data-engineering/mutable-fruit-salad?u=76281980&t=32)** So you can see it's apple, banana, cherry, dates, elderberries.
 >
@@ -2866,7 +2835,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/rust-for-data-engineering/mutable-fruit-salad?u=76281980&t=151)** Now this is one of the advantages of the Rust compiler.
 >
-> **[2:34](https://www.linkedin.com/learning/rust-for-data-engineering/mutable-fruit-salad?u=76281980&t=154)** Is it's not using, you know, generative AI or some kind of fancy technique.
+> **[2:34](https://www.linkedin.com/learning/rust-for-data-engineering/mutable-fruit-salad?u=76281980&t=154)** Is it's not using, you know, [[Generative AI]] or some kind of fancy technique.
 >
 > **[2:39](https://www.linkedin.com/learning/rust-for-data-engineering/mutable-fruit-salad?u=76281980&t=159)** It knows what the code should look like.
 >
@@ -2884,22 +2853,21 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/rust-for-data-engineering/mutable-fruit-salad?u=76281980&t=201)** And so by spending a little bit of time upfront and protecting yourself, you're actually saving time in the future in case you know, code was modified or there's some kind of change.
 >
-> **[3:33](https://www.linkedin.com/learning/rust-for-data-engineering/mutable-fruit-salad?u=76281980&t=213)** Is that you can rest assured that certain errors just don't exist in the Rust language.
+> **[3:33](https://www.linkedin.com/learning/rust-for-data-engineering/mutable-fruit-salad?u=76281980&t=213)** Is that you can [[Representational State Transfer (REST)|rest]] assured that certain errors just don't exist in the Rust language.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (8), data (2), feature (2), [[Security]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (8), [[Python (Programming Language)|Python]] (1), [[Generative AI]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), python (1), cargo (1)
 > **Definitions:** is an  (3)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Customize fruit salad with a CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/customize-fruit-salad-with-a-cli?u=76281980)
+#### [Customize fruit salad with a CLI](https://www.linkedin.com/learning/rust-for-data-engineering/customize-fruit-salad-with-a-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/customize-fruit-salad-with-a-cli?u=76281980&t=5)** - [Instructor] Here we have a example of a way to customize something in Rust by using a little bit of randomization here in this particular function that's in lib.rs.
+> **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/customize-fruit-salad-with-a-cli?u=76281980&t=5)** - [Instructor] Here we have a example of a way to customize something in [[Rust (Programming Language)|Rust]] by using a little bit of randomization here in this particular function that's in lib.rs.
 >
 > **[0:19](https://www.linkedin.com/learning/rust-for-data-engineering/customize-fruit-salad-with-a-cli?u=76281980&t=19)** The code is going to take a mutable vector of strings as an input and return a new vector of strings that contains the same element as the input vector but the difference is it's a random order.
 >
@@ -2925,7 +2893,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/rust-for-data-engineering/customize-fruit-salad-with-a-cli?u=76281980&t=114)** Now why would we care about this?
 >
-> **[1:56](https://www.linkedin.com/learning/rust-for-data-engineering/customize-fruit-salad-with-a-cli?u=76281980&t=116)** Well, in terms of data engineering, this is a very common problem, is you have some input data and you want to make some changes to it and it could be running, you know, hundreds of thousands of times per year.
+> **[1:56](https://www.linkedin.com/learning/rust-for-data-engineering/customize-fruit-salad-with-a-cli?u=76281980&t=116)** Well, in terms of [[Data Engineering]], this is a very common problem, is you have some input data and you want to make some changes to it and it could be running, you know, hundreds of thousands of times per year.
 >
 > **[2:08](https://www.linkedin.com/learning/rust-for-data-engineering/customize-fruit-salad-with-a-cli?u=76281980&t=128)** And so if you're able to add as many security defaults as possible and safety defaults as possible, you're going to have a better experience.
 >
@@ -2957,7 +2925,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/rust-for-data-engineering/customize-fruit-salad-with-a-cli?u=76281980&t=232)** So in order to run this, typically even if I don't have to look at the documentation where I don't have access to it, you know, handily, I can always, with a Rust project really in an intuitive way, kind of figure out what's happening.
 >
-> **[4:06](https://www.linkedin.com/learning/rust-for-data-engineering/customize-fruit-salad-with-a-cli?u=76281980&t=246)** So I'm going to go to the CLI here and the first thing that I typically would do is just type in "cargo run".
+> **[4:06](https://www.linkedin.com/learning/rust-for-data-engineering/customize-fruit-salad-with-a-cli?u=76281980&t=246)** So I'm going to go to the [[CLI]] here and the first thing that I typically would do is just type in "cargo run".
 >
 > **[4:13](https://www.linkedin.com/learning/rust-for-data-engineering/customize-fruit-salad-with-a-cli?u=76281980&t=253)** Now if cargo run works, that's a good sign.
 >
@@ -3025,7 +2993,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (6), [[Data Engineering]] (3), [[Security]] (2), data (2), [[CLI]] (2)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (6), [[Data Engineering]] (3), [[CLI]] (2)
 > **Definitions:** is a  (7), means that (1)
 > **CLI Commands:** cargo (4), make (1)
 > **File Paths:** lib.rs (2), fruits.csv (1)
@@ -3034,12 +3002,11 @@ created: 2026-05-02
 > **Versions:** 1.0 (1)
 > **Cross-References:** go back to (1)
 
-#### Data race example
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/data-race-example?u=76281980)
+#### [Data race example](https://www.linkedin.com/learning/rust-for-data-engineering/data-race-example?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/data-race-example?u=76281980&t=6)** - [Instructor] Let's take a look here at one of the core features of the Rust language, which is the ability to really protect the user that is building multi-threaded applications from catastrophic error.
+> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/data-race-example?u=76281980&t=6)** - [Instructor] Let's take a look here at one of the core features of the [[Rust (Programming Language)|Rust]] language, which is the ability to really protect the user that is building multi-threaded applications from catastrophic error.
 >
 > **[0:20](https://www.linkedin.com/learning/rust-for-data-engineering/data-race-example?u=76281980&t=20)** So in this particular piece of code there is the standard library and there is the thread module.
 >
@@ -3097,7 +3064,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Rust (Programming Language)|Rust]] (4), parallel (1), concurrent (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4)
 > **Definitions:** is a  (3)
 > **UI Navigation:** scroll up (1)
 > **Warnings:** warning (1)
@@ -3109,8 +3076,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### High availability
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/high-availability?u=76281980)
+#### [High availability](https://www.linkedin.com/learning/rust-for-data-engineering/high-availability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3162,21 +3128,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), database (1), [[Security]] (1)
 > **Definitions:** is a  (2), means that (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the Homophonic cipher: A cryptographic technique
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/understanding-the-homophonic-cipher-a-cryptographic-technique?u=76281980)
+#### [Understanding the Homophonic cipher: A cryptographic technique](https://www.linkedin.com/learning/rust-for-data-engineering/understanding-the-homophonic-cipher-a-cryptographic-technique?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/understanding-the-homophonic-cipher-a-cryptographic-technique?u=76281980&t=6)** - [Instructor] Here we have a homophonic cipher.
 >
-> **[0:09](https://www.linkedin.com/learning/rust-for-data-engineering/understanding-the-homophonic-cipher-a-cryptographic-technique?u=76281980&t=9)** And this Rust code implements a homophonic cipher encryption by generating a random mapping of characters to multiple homophone substitutes.
+> **[0:09](https://www.linkedin.com/learning/rust-for-data-engineering/understanding-the-homophonic-cipher-a-cryptographic-technique?u=76281980&t=9)** And this [[Rust (Programming Language)|Rust]] code implements a homophonic cipher encryption by generating a random mapping of characters to multiple homophone substitutes.
 >
 > **[0:20](https://www.linkedin.com/learning/rust-for-data-engineering/understanding-the-homophonic-cipher-a-cryptographic-technique?u=76281980&t=20)** It prints the plain text, cipher text and mapping.
 >
@@ -3250,8 +3214,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Decoding the secrets of the Caesar cipher
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/decoding-the-secrets-of-the-caesar-cipher?u=76281980)
+#### [Decoding the secrets of the Caesar cipher](https://www.linkedin.com/learning/rust-for-data-engineering/decoding-the-secrets-of-the-caesar-cipher?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3267,7 +3230,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/rust-for-data-engineering/decoding-the-secrets-of-the-caesar-cipher?u=76281980&t=51)** So first step here we have the use Caesar Cipher decrypt use Caesar Cipher encrypt.
 >
-> **[0:59](https://www.linkedin.com/learning/rust-for-data-engineering/decoding-the-secrets-of-the-caesar-cipher?u=76281980&t=59)** Let's go to the lib directory, which is a commonplace in Rust for you to build out your logic.
+> **[0:59](https://www.linkedin.com/learning/rust-for-data-engineering/decoding-the-secrets-of-the-caesar-cipher?u=76281980&t=59)** Let's go to the lib directory, which is a commonplace in [[Rust (Programming Language)|Rust]] for you to build out your logic.
 >
 > **[1:06](https://www.linkedin.com/learning/rust-for-data-engineering/decoding-the-secrets-of-the-caesar-cipher?u=76281980&t=66)** And this thing here has an encrypt and it's pretty simple.
 >
@@ -3309,14 +3272,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2), cd (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** cd (1), cargo (1)
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Building a Caesar cipher command-line interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/building-a-caesar-cipher-command-line-interface?u=76281980)
+#### [Building a Caesar cipher command-line interface](https://www.linkedin.com/learning/rust-for-data-engineering/building-a-caesar-cipher-command-line-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3344,7 +3306,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/rust-for-data-engineering/building-a-caesar-cipher-command-line-interface?u=76281980&t=96)** Next step, I use the clap parser here to do all of the heavy lifting.
 >
-> **[1:42](https://www.linkedin.com/learning/rust-for-data-engineering/building-a-caesar-cipher-command-line-interface?u=76281980&t=102)** And this example here I say CLI tool to encrypt and decrypt messages.
+> **[1:42](https://www.linkedin.com/learning/rust-for-data-engineering/building-a-caesar-cipher-command-line-interface?u=76281980&t=102)** And this example here I say [[CLI]] tool to encrypt and decrypt messages.
 >
 > **[1:46](https://www.linkedin.com/learning/rust-for-data-engineering/building-a-caesar-cipher-command-line-interface?u=76281980&t=106)** And this is mostly boilerplate code, but I do have an encrypt message, I have a decrypt message and I also have the message itself, right?
 >
@@ -3400,7 +3362,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/rust-for-data-engineering/building-a-caesar-cipher-command-line-interface?u=76281980&t=260)** And now I can actually decrypt it.
 >
-> **[4:21](https://www.linkedin.com/learning/rust-for-data-engineering/building-a-caesar-cipher-command-line-interface?u=76281980&t=261)** So, in my opinion, building little tools that help you out to do things, is one of the advantages of Rust.
+> **[4:21](https://www.linkedin.com/learning/rust-for-data-engineering/building-a-caesar-cipher-command-line-interface?u=76281980&t=261)** So, in my opinion, building little tools that help you out to do things, is one of the advantages of [[Rust (Programming Language)|Rust]].
 >
 > **[4:28](https://www.linkedin.com/learning/rust-for-data-engineering/building-a-caesar-cipher-command-line-interface?u=76281980&t=268)** I would say has a strong advantage over scripting languages because of the fact that it has binary-based deployment.
 >
@@ -3410,7 +3372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Rust (Programming Language)|Rust]] (2), [[Scripting]] (2), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2), [[CLI]] (1)
 > **CLI Commands:** cargo (3), make (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (3)
@@ -3419,18 +3381,17 @@ created: 2026-05-02
 > **Exercise Files:** boilerplate (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a decoder ring: A practical guide
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-decoder-ring-a-practical-guide?u=76281980)
+#### [Creating a decoder ring: A practical guide](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-decoder-ring-a-practical-guide?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-decoder-ring-a-practical-guide?u=76281980&t=6)** - [Instructor] Here we have a Caesar cipher, which is one of the simplest encryption techniques that you can use because it only shifts the alphabet letters by a set number to encode a message.
 >
-> **[0:18](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-decoder-ring-a-practical-guide?u=76281980&t=18)** So in this particular scenario, what I've done is I've built this all into a tool that allows you to not only create the cipher and encrypt the cipher, but also to use statistical analysis to detect what the cipher probably is.
+> **[0:18](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-decoder-ring-a-practical-guide?u=76281980&t=18)** So in this particular scenario, what I've done is I've built this all into a tool that allows you to not only create the cipher and encrypt the cipher, but also to use [[Statistical Analysis]] to detect what the cipher probably is.
 >
-> **[0:33](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-decoder-ring-a-practical-guide?u=76281980&t=33)** So if you can figure out what the shift most likely is and you can come up with, let's say, some kind of a metric that looks at the highest probability for what the shift is, then you could actually detect what the message is.
+> **[0:33](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-decoder-ring-a-practical-guide?u=76281980&t=33)** So if you can figure out what the shift most likely is and you can come up with, let's say, some kind of a metric that looks at the highest [[Probability]] for what the shift is, then you could actually detect what the message is.
 >
-> **[0:48](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-decoder-ring-a-practical-guide?u=76281980&t=48)** And you could even think of this as a technique you could use if it was a big data problem.
+> **[0:48](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-decoder-ring-a-practical-guide?u=76281980&t=48)** And you could even think of this as a technique you could use if it was a [[Big Data]] problem.
 >
 > **[0:52](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-decoder-ring-a-practical-guide?u=76281980&t=52)** For example, and a lot of the data was using this Caesar cipher before you tried every single approach with a brute force, you could actually sample it like I'm doing in this particular example.
 >
@@ -3482,7 +3443,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-decoder-ring-a-practical-guide?u=76281980&t=227)** And then if I do -- --help, I can get some feedback of exactly what's happening.
 >
-> **[3:54](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-decoder-ring-a-practical-guide?u=76281980&t=234)** When we first start off here, it's going to say, okay, CLI tool to reverse engineer a Caesar cipher.
+> **[3:54](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-decoder-ring-a-practical-guide?u=76281980&t=234)** When we first start off here, it's going to say, okay, [[CLI]] tool to reverse engineer a Caesar cipher.
 >
 > **[3:59](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-decoder-ring-a-practical-guide?u=76281980&t=239)** Okay, great.
 >
@@ -3516,15 +3477,15 @@ created: 2026-05-02
 >
 > **[5:38](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-decoder-ring-a-practical-guide?u=76281980&t=338)** So you know that you can start to do these guesses and then actually calculate what the score is.
 >
-> **[5:44](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-decoder-ring-a-practical-guide?u=76281980&t=344)** And then that's really the way to essentially decode the message using statistics.
+> **[5:44](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-decoder-ring-a-practical-guide?u=76281980&t=344)** And then that's really the way to essentially decode the message using [[Statistics]].
 >
 > **[5:49](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-decoder-ring-a-practical-guide?u=76281980&t=349)** So kind of a fun exercise to play around with.
 >
-> **[5:52](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-decoder-ring-a-practical-guide?u=76281980&t=352)** And it was all made possible by the elegance of the Rust language.
+> **[5:52](https://www.linkedin.com/learning/rust-for-data-engineering/creating-a-decoder-ring-a-practical-guide?u=76281980&t=352)** And it was all made possible by the elegance of the [[Rust (Programming Language)|Rust]] language.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistical Analysis]] (4), [[Probability]] (1), [[Big Data]] (1), data (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Statistical Analysis]] (4), [[Probability]] (1), [[Big Data]] (1), [[CLI]] (1), [[Statistics]] (1)
 > **Versions:** 12.7 (2), 9.1 (1), 8.2 (1)
 > **CLI Commands:** cargo (1), make (1)
 > **Tools:** command line (2)
@@ -3533,12 +3494,11 @@ created: 2026-05-02
 > **Env Vars:** cli (1)
 > **Cross-References:** go back to (1)
 
-#### Detecting duplicates with SHA-3: A data integrity tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-duplicates-with-sha-3-a-data-integrity-tool?u=76281980)
+#### [Detecting duplicates with SHA-3: A data integrity tool](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-duplicates-with-sha-3-a-data-integrity-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-duplicates-with-sha-3-a-data-integrity-tool?u=76281980&t=6)** - [Instructor] Here we have a example of Rust Crypto differences from MD2 to MD4 to MD5, right?
+> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-duplicates-with-sha-3-a-data-integrity-tool?u=76281980&t=6)** - [Instructor] Here we have a example of [[Rust (Programming Language)|Rust]] Crypto differences from MD2 to MD4 to MD5, right?
 >
 > **[0:14](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-duplicates-with-sha-3-a-data-integrity-tool?u=76281980&t=14)** These are all different libraries that you could potentially use.
 >
@@ -3564,7 +3524,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-duplicates-with-sha-3-a-data-integrity-tool?u=76281980&t=96)** And once I have these phrases together, what I want to do is I want to generate a bunch of random phrases.
 >
-> **[1:43](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-duplicates-with-sha-3-a-data-integrity-tool?u=76281980&t=103)** So this in a way, is a simulation to generate a bunch of text where there could be duplicates, right?
+> **[1:43](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-duplicates-with-sha-3-a-data-integrity-tool?u=76281980&t=103)** So this in a way, is a [[Simulation]] to generate a bunch of text where there could be duplicates, right?
 >
 > **[1:49](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-duplicates-with-sha-3-a-data-integrity-tool?u=76281980&t=109)** That's really the idea here.
 >
@@ -3580,7 +3540,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-duplicates-with-sha-3-a-data-integrity-tool?u=76281980&t=145)** And we're going to say for phrase and phrases, go ahead and create a unique hash for that particular phrase.
 >
-> **[2:31](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-duplicates-with-sha-3-a-data-integrity-tool?u=76281980&t=151)** What this does is it allows us to really quickly identify duplicates and then we're going to go ahead and put in a list of the unique number of phrases here and put some more descriptive statistics like total unique duplicates, total combined duplicates and then basically print it all out at the very end.
+> **[2:31](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-duplicates-with-sha-3-a-data-integrity-tool?u=76281980&t=151)** What this does is it allows us to really quickly identify duplicates and then we're going to go ahead and put in a list of the unique number of phrases here and put some more descriptive [[Statistics]] like total unique duplicates, total combined duplicates and then basically print it all out at the very end.
 >
 > **[2:53](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-duplicates-with-sha-3-a-data-integrity-tool?u=76281980&t=173)** So that's one of the use cases for the SHA-3 here is to read in text and then determine whether it is a duplicate or not.
 >
@@ -3620,11 +3580,11 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-duplicates-with-sha-3-a-data-integrity-tool?u=76281980&t=294)** And it's all done through existing libraries.
 >
-> **[4:58](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-duplicates-with-sha-3-a-data-integrity-tool?u=76281980&t=298)** And you also can rest assured that it's going to be easy to distribute this because you can do a binary based deploy.
+> **[4:58](https://www.linkedin.com/learning/rust-for-data-engineering/detecting-duplicates-with-sha-3-a-data-integrity-tool?u=76281980&t=298)** And you also can [[Representational State Transfer (REST)|rest]] assured that it's going to be easy to distribute this because you can do a binary based deploy.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2), next (2), [[Statistics]] (2), [[Security]] (1), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2), [[Statistics]] (2), [[Simulation]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sha (5), md2 (1), md4 (1), md5 (1), blake2 (1)
 > **CLI Commands:** cargo (4)
 > **Definitions:** is a  (3), we call this (1)
@@ -3633,12 +3593,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Incident response
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/incident-response?u=76281980)
+#### [Incident response](https://www.linkedin.com/learning/rust-for-data-engineering/incident-response?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/incident-response?u=76281980&t=5)** - [Instructor] Here we have a incident response diagram for a medieval castle, and we're going to take a look at what an attack against the castle would actually trigger.
+> **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/incident-response?u=76281980&t=5)** - [Instructor] Here we have a [[Incident Response]] diagram for a medieval castle, and we're going to take a look at what an attack against the castle would actually trigger.
 >
 > **[0:16](https://www.linkedin.com/learning/rust-for-data-engineering/incident-response?u=76281980&t=16)** So having an effective incident response plan is really important to defend the castle.
 >
@@ -3652,17 +3611,17 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/rust-for-data-engineering/incident-response?u=76281980&t=44)** Once the incident is contained, deeper forensics uncover how the attackers infiltrated perimeter defenses, and the lesson learned improve the security and the response capabilities for future attacks.
 >
-> **[0:58](https://www.linkedin.com/learning/rust-for-data-engineering/incident-response?u=76281980&t=58)** Training prepares the guards to quickly identify and react to a similar incident in the future.
+> **[0:58](https://www.linkedin.com/learning/rust-for-data-engineering/incident-response?u=76281980&t=58)** Training prepares the guards to quickly identify and [[React.js|react]] to a similar incident in the future.
 >
 > **[1:04](https://www.linkedin.com/learning/rust-for-data-engineering/incident-response?u=76281980&t=64)** Really, readiness is crucial to defend the castle.
 >
-> **[1:07](https://www.linkedin.com/learning/rust-for-data-engineering/incident-response?u=76281980&t=67)** So a modern cybersecurity methodology relies on similar incident response programs.
+> **[1:07](https://www.linkedin.com/learning/rust-for-data-engineering/incident-response?u=76281980&t=67)** So a modern [[Cybersecurity]] methodology relies on similar incident response programs.
 >
-> **[1:14](https://www.linkedin.com/learning/rust-for-data-engineering/incident-response?u=76281980&t=74)** Controls like intrusion detection systems would automatically alert IT teams about suspicious activity and also response plans would document the procedure for the analysis, the containment, and the recovery from a security event; the coordination with the legal and the PR teams may also be necessary depending on how big of an attack it is.
+> **[1:14](https://www.linkedin.com/learning/rust-for-data-engineering/incident-response?u=76281980&t=74)** Controls like [[Intrusion Detection]] systems would automatically alert IT teams about suspicious activity and also response plans would document the procedure for the analysis, the containment, and the recovery from a security event; the coordination with the legal and the PR teams may also be necessary depending on how big of an attack it is.
 >
 > **[1:37](https://www.linkedin.com/learning/rust-for-data-engineering/incident-response?u=76281980&t=97)** The strong incident response minimizes the damage from the attack, and also by analyzing the trends, you could uncover vulnerabilities to improve the defenses.
 >
-> **[1:48](https://www.linkedin.com/learning/rust-for-data-engineering/incident-response?u=76281980&t=108)** Finally, if you're going to verify regulatory compliance, it's important to have good reporting as well.
+> **[1:48](https://www.linkedin.com/learning/rust-for-data-engineering/incident-response?u=76281980&t=108)** Finally, if you're going to verify [[Regulatory Compliance]], it's important to have good reporting as well.
 >
 > **[1:55](https://www.linkedin.com/learning/rust-for-data-engineering/incident-response?u=76281980&t=115)** So, in a nutshell, if you want to prepare through training and testing, it's going to build an effective response muscle.
 >
@@ -3670,13 +3629,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Incident Response]] (4), [[Security]] (2), [[React.js|React]] (2), teams (2), next (1)
+> **Frameworks & Libraries:** [[Incident Response]] (4), [[React.js|React]] (2), [[Cybersecurity]] (1), [[Intrusion Detection]] (1), [[Regulatory Compliance]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Compliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/compliance?u=76281980)
+#### [Compliance](https://www.linkedin.com/learning/rust-for-data-engineering/compliance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3716,13 +3674,13 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/rust-for-data-engineering/compliance?u=76281980&t=121)** And vulnerability assessments would also identify the gap.
 >
-> **[2:05](https://www.linkedin.com/learning/rust-for-data-engineering/compliance?u=76281980&t=125)** So in a nutshell, the compliance would provide accountability, legal assurance, and also implement the required controls, so that the customers and regulators both are able to trust the system.
+> **[2:05](https://www.linkedin.com/learning/rust-for-data-engineering/compliance?u=76281980&t=125)** So in a nutshell, the compliance would provide [[Accountability]], legal assurance, and also implement the required controls, so that the customers and regulators both are able to trust the system.
 >
 > **[2:18](https://www.linkedin.com/learning/rust-for-data-engineering/compliance?u=76281980&t=138)** And this is going to create a smooth business operation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accountability]] (1), business (1)
+> **Frameworks & Libraries:** [[Accountability]] (1)
 > **Env Vars:** hipaa (1), pci (1), dss (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (3)
@@ -3734,8 +3692,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Core concepts in concurrency
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/core-concepts-in-concurrency?u=76281980)
+#### [Core concepts in concurrency](https://www.linkedin.com/learning/rust-for-data-engineering/core-concepts-in-concurrency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3817,20 +3774,19 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/rust-for-data-engineering/core-concepts-in-concurrency?u=76281980&t=252)** And then finally, customers would have potentially concurrency risks if there's mixed step orders with race conditions.
 >
-> **[4:20](https://www.linkedin.com/learning/rust-for-data-engineering/core-concepts-in-concurrency?u=76281980&t=260)** So you can see these, you know, situations come up quite a bit in programming and that's why languages like Rust are so powerful because they prevent some of these things from happening more easily.
+> **[4:20](https://www.linkedin.com/learning/rust-for-data-engineering/core-concepts-in-concurrency?u=76281980&t=260)** So you can see these, you know, situations come up quite a bit in programming and that's why languages like [[Rust (Programming Language)|Rust]] are so powerful because they prevent some of these things from happening more easily.
 >
 > **[4:32](https://www.linkedin.com/learning/rust-for-data-engineering/core-concepts-in-concurrency?u=76281980&t=272)** And this is what I think we're going to see with modern compiled languages.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Programming]] (1), [[Rust (Programming Language)|Rust]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dining philosophers
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/dining-philosophers?u=76281980)
+#### [Dining philosophers](https://www.linkedin.com/learning/rust-for-data-engineering/dining-philosophers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3840,13 +3796,13 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/rust-for-data-engineering/dining-philosophers?u=76281980&t=20)** And what's interesting about this particular issue is that it can expose certain problems like deadlocks, for example.
 >
-> **[0:28](https://www.linkedin.com/learning/rust-for-data-engineering/dining-philosophers?u=76281980&t=28)** And one of the things that you can do to prevent this is to use the correct forms of concurrency.
+> **[0:28](https://www.linkedin.com/learning/rust-for-data-engineering/dining-philosophers?u=76281980&t=28)** And one of the things that you can do to prevent this is to use the correct [[Forms]] of concurrency.
 >
 > **[0:35](https://www.linkedin.com/learning/rust-for-data-engineering/dining-philosophers?u=76281980&t=35)** So in this case the Mutex is going to provide exclusive fork access, so these are eating forks.
 >
 > **[0:42](https://www.linkedin.com/learning/rust-for-data-engineering/dining-philosophers?u=76281980&t=42)** The Arc allows sharing forks between philosophers.
 >
-> **[0:44](https://www.linkedin.com/learning/rust-for-data-engineering/dining-philosophers?u=76281980&t=44)** So the simulation is going to print the start time, the eating duration, and the total time for all the philosophers, and also the total time approximately equals the philosophers divided by the forks.
+> **[0:44](https://www.linkedin.com/learning/rust-for-data-engineering/dining-philosophers?u=76281980&t=44)** So the [[Simulation]] is going to print the start time, the eating duration, and the total time for all the philosophers, and also the total time approximately equals the philosophers divided by the forks.
 >
 > **[0:58](https://www.linkedin.com/learning/rust-for-data-engineering/dining-philosophers?u=76281980&t=58)** So that's the number that can eat concurrently.
 >
@@ -3912,7 +3868,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/rust-for-data-engineering/dining-philosophers?u=76281980&t=277)** So we're debugging that, and we also have the ability to print out the messages when they're done, when they started, and at the very end, again, you should benchmark it and say, well, how many philosophers were there?
 >
-> **[4:50](https://www.linkedin.com/learning/rust-for-data-engineering/dining-philosophers?u=76281980&t=290)** Well, we have approximately, we can see actually from Rust, it'll tell us exactly the list of philosophers here.
+> **[4:50](https://www.linkedin.com/learning/rust-for-data-engineering/dining-philosophers?u=76281980&t=290)** Well, we have approximately, we can see actually from [[Rust (Programming Language)|Rust]], it'll tell us exactly the list of philosophers here.
 >
 > **[4:59](https://www.linkedin.com/learning/rust-for-data-engineering/dining-philosophers?u=76281980&t=299)** And then we look at the time, and we should have a level of efficiency because of the fact that we're able to use multithreaded programming to speed up the work.
 >
@@ -3924,19 +3880,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (4), [[Rust (Programming Language)|Rust]] (3), [[Debugging]] (2), [[Programming]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Simulation]] (4), [[Rust (Programming Language)|Rust]] (3), [[Forms]] (1)
 > **Definitions:** is a  (5), is called (1)
 > **CLI Commands:** make (3), cargo (1)
 > **Analogies:** for example (2)
 > **UI Navigation:** toggle (1)
 > **Speakers:** - [instructor] (1)
 
-#### Web crawl Wikipedia with Rayon
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/web-crawl-wikipedia-with-rayon?u=76281980)
+#### [Web crawl Wikipedia with Rayon](https://www.linkedin.com/learning/rust-for-data-engineering/web-crawl-wikipedia-with-rayon?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/web-crawl-wikipedia-with-rayon?u=76281980&t=6)** - [Instructor] Here we have a great example of how to use threads to speed up a parallel fetch on the web.
+> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/web-crawl-wikipedia-with-rayon?u=76281980&t=6)** - [Instructor] Here we have a great example of how to use threads to speed up a parallel [[Fetch]] on the web.
 >
 > **[0:14](https://www.linkedin.com/learning/rust-for-data-engineering/web-crawl-wikipedia-with-rayon?u=76281980&t=14)** First up, we use Wikipedia here to fetch pages and then I process each of the page's content.
 >
@@ -3978,7 +3933,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/rust-for-data-engineering/web-crawl-wikipedia-with-rayon?u=76281980&t=121)** I can actually go through here and I can say, look, again, par.iter, and we can actually see this when I hover over it, it says, convert self into a parallel iterator, uses Rayon prelude.
 >
-> **[2:13](https://www.linkedin.com/learning/rust-for-data-engineering/web-crawl-wikipedia-with-rayon?u=76281980&t=133)** So what's nice about this is it's able to process in a thread everything that's happening in the page as well as give me some descriptive statistics.
+> **[2:13](https://www.linkedin.com/learning/rust-for-data-engineering/web-crawl-wikipedia-with-rayon?u=76281980&t=133)** So what's nice about this is it's able to process in a thread everything that's happening in the page as well as give me some descriptive [[Statistics]].
 >
 > **[2:23](https://www.linkedin.com/learning/rust-for-data-engineering/web-crawl-wikipedia-with-rayon?u=76281980&t=143)** Finally, at the very end here, I'm able to print a bunch of different metrics.
 >
@@ -4004,22 +3959,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (3), parallel (2), [[Statistics]] (2), web (1), concurrent (1)
+> **Frameworks & Libraries:** [[Fetch]] (3), [[Statistics]] (2)
 > **Env Vars:** nba (2)
 > **CLI Commands:** cargo (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Intelligent chatbot with Tokio
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/intelligent-chatbot-with-tokio?u=76281980)
+#### [Intelligent chatbot with Tokio](https://www.linkedin.com/learning/rust-for-data-engineering/intelligent-chatbot-with-tokio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/intelligent-chatbot-with-tokio?u=76281980&t=5)** - [Instructor] Here we have a chatbot that is built using some of the nice libraries that you can use with the Rust language.
+> **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/intelligent-chatbot-with-tokio?u=76281980&t=5)** - [Instructor] Here we have a chatbot that is built using some of the nice libraries that you can use with the [[Rust (Programming Language)|Rust]] language.
 >
 > **[0:13](https://www.linkedin.com/learning/rust-for-data-engineering/intelligent-chatbot-with-tokio?u=76281980&t=13)** This code implements a conversational chat loop with an AI assistant.
 >
-> **[0:17](https://www.linkedin.com/learning/rust-for-data-engineering/intelligent-chatbot-with-tokio?u=76281980&t=17)** In this particular example, it uses the OpenAI API, but really the code can be used with any large language model.
+> **[0:17](https://www.linkedin.com/learning/rust-for-data-engineering/intelligent-chatbot-with-tokio?u=76281980&t=17)** In this particular example, it uses the [[OpenAI API]], but really the code can be used with any large language model.
 >
 > **[0:26](https://www.linkedin.com/learning/rust-for-data-engineering/intelligent-chatbot-with-tokio?u=76281980&t=26)** If we take a look at what it's going to do, it's going to enter a loop asking for user input first, and then it's going to send it to the API, it's going to print out the response, and then it's going to append both to the conversation.
 >
@@ -4097,7 +4051,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (5), api (5), chatbot (3), ai (1), [[OpenAI API]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (5), [[OpenAI API]] (1)
 > **Env Vars:** api (6), url (1)
 > **Code Identifiers:** run_chat_loop (1), call_api (1), get_ai_response (1), read_user_input (1)
 > **File Paths:** cargo.toml (1), chatbot.rs (1), main.rs (1)
@@ -4106,14 +4060,13 @@ created: 2026-05-02
 > **Versions:** 9.87 (1)
 > **UI Navigation:** go to (1)
 
-#### Multi-threaded deduplication with Rust
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/multi-threaded-deduplication-with-rust?u=76281980)
+#### [Multi-threaded deduplication with Rust](https://www.linkedin.com/learning/rust-for-data-engineering/multi-threaded-deduplication-with-rust?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:04](https://www.linkedin.com/learning/rust-for-data-engineering/multi-threaded-deduplication-with-rust?u=76281980&t=4)** - Let's talk a little bit about data engineering.
+> **[0:04](https://www.linkedin.com/learning/rust-for-data-engineering/multi-threaded-deduplication-with-rust?u=76281980&t=4)** - Let's talk a little bit about [[Data Engineering]].
 >
-> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/multi-threaded-deduplication-with-rust?u=76281980&t=6)** In my opinion, data engineering is the classic systems programming problem, and Rust is a systems programming language.
+> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/multi-threaded-deduplication-with-rust?u=76281980&t=6)** In my opinion, data engineering is the classic systems programming problem, and [[Rust (Programming Language)|Rust]] is a systems programming language.
 >
 > **[0:15](https://www.linkedin.com/learning/rust-for-data-engineering/multi-threaded-deduplication-with-rust?u=76281980&t=15)** A lot of my career I've worked with building command line tools that would do some kind of data operation like moving thousands of files somewhere or using a petabyte scale file server to build movies, for example, when I worked on Avatar, or Sony Movies or Disney Movies.
 >
@@ -4137,13 +4090,13 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/rust-for-data-engineering/multi-threaded-deduplication-with-rust?u=76281980&t=78)** Here I have a repo called noahgift / rdedupe, and if we take a look at this, in my opinion this is a pretty good example of a systems programming tool for data engineering.
 >
-> **[1:27](https://www.linkedin.com/learning/rust-for-data-engineering/multi-threaded-deduplication-with-rust?u=76281980&t=87)** Or if you wanted to do some kind of MLOps type tool you could use a similar pattern.
+> **[1:27](https://www.linkedin.com/learning/rust-for-data-engineering/multi-threaded-deduplication-with-rust?u=76281980&t=87)** Or if you wanted to do some kind of [[MLOps]] type tool you could use a similar pattern.
 >
 > **[1:33](https://www.linkedin.com/learning/rust-for-data-engineering/multi-threaded-deduplication-with-rust?u=76281980&t=93)** Let's walk through what I would consider are the core competencies necessary.
 >
 > **[1:38](https://www.linkedin.com/learning/rust-for-data-engineering/multi-threaded-deduplication-with-rust?u=76281980&t=98)** First up, I like to .dev container here, you can see I've got this configured so that if I wanted to share this project with someone else they could just spin it up, do some kind of testing inside of this container.
 >
-> **[1:50](https://www.linkedin.com/learning/rust-for-data-engineering/multi-threaded-deduplication-with-rust?u=76281980&t=110)** Next up, I also configured GitHub.
+> **[1:50](https://www.linkedin.com/learning/rust-for-data-engineering/multi-threaded-deduplication-with-rust?u=76281980&t=110)** Next up, I also configured [[GitHub]].
 >
 > **[1:52](https://www.linkedin.com/learning/rust-for-data-engineering/multi-threaded-deduplication-with-rust?u=76281980&t=112)** If we take a look at this, I have a lint right here and this shows you that you can just do a make lint and this will link the code.
 >
@@ -4161,7 +4114,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/rust-for-data-engineering/multi-threaded-deduplication-with-rust?u=76281980&t=143)** So this is really what I would recommend is this style for building binaries that are high performance, and also that you deliver the binary to other people so they can just download it.
 >
-> **[2:33](https://www.linkedin.com/learning/rust-for-data-engineering/multi-threaded-deduplication-with-rust?u=76281980&t=153)** This is a huge advantage over Python, where you can't distribute binaries and you have to give people explicit instructions on how to install software.
+> **[2:33](https://www.linkedin.com/learning/rust-for-data-engineering/multi-threaded-deduplication-with-rust?u=76281980&t=153)** This is a huge advantage over [[Python (Programming Language)|Python]], where you can't distribute binaries and you have to give people explicit instructions on how to install software.
 >
 > **[2:42](https://www.linkedin.com/learning/rust-for-data-engineering/multi-threaded-deduplication-with-rust?u=76281980&t=162)** Next up, let's take a look at this diagram here.
 >
@@ -4233,7 +4186,7 @@ created: 2026-05-02
 >
 > **[6:05](https://www.linkedin.com/learning/rust-for-data-engineering/multi-threaded-deduplication-with-rust?u=76281980&t=365)** And there we go, I've been able to do that.
 >
-> **[6:07](https://www.linkedin.com/learning/rust-for-data-engineering/multi-threaded-deduplication-with-rust?u=76281980&t=367)** Now, if I want to go through and do a word count -l, we could even count how many duplicate files that I had.
+> **[6:07](https://www.linkedin.com/learning/rust-for-data-engineering/multi-threaded-deduplication-with-rust?u=76281980&t=367)** Now, if I want to go through and do a [[Microsoft Word|word]] count -l, we could even count how many duplicate files that I had.
 >
 > **[6:14](https://www.linkedin.com/learning/rust-for-data-engineering/multi-threaded-deduplication-with-rust?u=76281980&t=374)** But again, the key takeaway here is that I'm able to actually use actually all of the cores, but in an extremely efficient way and extremely low memory because of how powerful and efficient threads are versus processes.
 >
@@ -4303,7 +4256,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Engineering]] (8), [[Rust (Programming Language)|Rust]] (7), [[Python (Programming Language)|Python]] (5), [[Programming]] (4), next (3)
+> **Frameworks & Libraries:** [[Data Engineering]] (8), [[Rust (Programming Language)|Rust]] (7), [[Python (Programming Language)|Python]] (5), [[MLOps]] (1), [[GitHub]] (1)
 > **CLI Commands:** make (9), python (5), cargo (2)
 > **Definitions:** is a  (8), is an  (1)
 > **Analogies:** for example (4)
@@ -4312,12 +4265,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (2), install (1)
 > **Env Vars:** efs (1)
 
-#### Energy efficiency Python vs. Rust
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/energy-efficiency-python-vs-rust?u=76281980)
+#### [Energy efficiency Python vs. Rust](https://www.linkedin.com/learning/rust-for-data-engineering/energy-efficiency-python-vs-rust?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/energy-efficiency-python-vs-rust?u=76281980&t=8)** - One of the things that is a common misunderstanding about switching from Python to Rust is that, hey, it already works with Python.
+> **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/energy-efficiency-python-vs-rust?u=76281980&t=8)** - One of the things that is a common misunderstanding about switching from [[Python (Programming Language)|Python]] to [[Rust (Programming Language)|Rust]] is that, hey, it already works with Python.
 >
 > **[0:16](https://www.linkedin.com/learning/rust-for-data-engineering/energy-efficiency-python-vs-rust?u=76281980&t=16)** I don't want to rock the boat.
 >
@@ -4333,7 +4285,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/rust-for-data-engineering/energy-efficiency-python-vs-rust?u=76281980&t=43)** They're basically, in terms of energy efficiency, computational power, effectively equivalent.
 >
-> **[0:50](https://www.linkedin.com/learning/rust-for-data-engineering/energy-efficiency-python-vs-rust?u=76281980&t=50)** And we're also going to talk about Python in terms of where it ranks in terms of energy efficiency and also computational performance and I'm going to talk about two different studies and I think what you're going to find out is that there isn't a really good reason in many scenarios to use Python for heavy computational loads, especially static loads where you're deserializing JSON back and forth like a web microservice.
+> **[0:50](https://www.linkedin.com/learning/rust-for-data-engineering/energy-efficiency-python-vs-rust?u=76281980&t=50)** And we're also going to talk about Python in terms of where it ranks in terms of energy efficiency and also computational performance and I'm going to talk about two different studies and I think what you're going to find out is that there isn't a really good reason in many scenarios to use Python for heavy computational loads, especially static loads where you're deserializing [[JSON]] back and forth like a web microservice.
 >
 > **[1:13](https://www.linkedin.com/learning/rust-for-data-engineering/energy-efficiency-python-vs-rust?u=76281980&t=73)** And you should consider the carbon footprint of the code you're writing, right?
 >
@@ -4341,7 +4293,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/rust-for-data-engineering/energy-efficiency-python-vs-rust?u=76281980&t=83)** We need to think about how we use our resources.
 >
-> **[1:26](https://www.linkedin.com/learning/rust-for-data-engineering/energy-efficiency-python-vs-rust?u=76281980&t=86)** And if you can easily switch from one language to the other, especially with a tool like Copilot, you should at least consider it.
+> **[1:26](https://www.linkedin.com/learning/rust-for-data-engineering/energy-efficiency-python-vs-rust?u=76281980&t=86)** And if you can easily switch from one language to the other, especially with a tool like [[Microsoft Copilot|Copilot]], you should at least consider it.
 >
 > **[1:33](https://www.linkedin.com/learning/rust-for-data-engineering/energy-efficiency-python-vs-rust?u=76281980&t=93)** And that's really the goal of this is to help you think about the problem of energy efficiency by the language you personally are using and to at least make an informed decision about what you want to do going forward.
 >
@@ -4377,7 +4329,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/rust-for-data-engineering/energy-efficiency-python-vs-rust?u=76281980&t=219)** So in a nutshell, if you do care about energy, you do care about computational time, Python is one of the worst-performing languages for both.
 >
-> **[3:49](https://www.linkedin.com/learning/rust-for-data-engineering/energy-efficiency-python-vs-rust?u=76281980&t=229)** And from a sustainability perspective this is something you're organization should consider.
+> **[3:49](https://www.linkedin.com/learning/rust-for-data-engineering/energy-efficiency-python-vs-rust?u=76281980&t=229)** And from a [[Sustainability]] perspective this is something you're organization should consider.
 >
 > **[3:55](https://www.linkedin.com/learning/rust-for-data-engineering/energy-efficiency-python-vs-rust?u=76281980&t=235)** If it's easy to switch to Rust, would you do it?
 >
@@ -4385,7 +4337,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/rust-for-data-engineering/energy-efficiency-python-vs-rust?u=76281980&t=243)** Now let's dive into another one that talks about this idea of computational performance.
 >
-> **[4:10](https://www.linkedin.com/learning/rust-for-data-engineering/energy-efficiency-python-vs-rust?u=76281980&t=250)** Recently I was at a talk from Dr. David Patterson at Google, and he brought up this exact slide that talks about matrix multiply speedup over native Python.
+> **[4:10](https://www.linkedin.com/learning/rust-for-data-engineering/energy-efficiency-python-vs-rust?u=76281980&t=250)** Recently I was at a talk from Dr. David Patterson at [[Google]], and he brought up this exact slide that talks about matrix multiply speedup over native Python.
 >
 > **[4:20](https://www.linkedin.com/learning/rust-for-data-engineering/energy-efficiency-python-vs-rust?u=76281980&t=260)** And I was actually able to ask him a question about this slide.
 >
@@ -4403,7 +4355,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (16), [[Rust (Programming Language)|Rust]] (9), [[Programming]] (3), [[Microsoft Copilot|Copilot]] (2), [[Sustainability]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (16), [[Rust (Programming Language)|Rust]] (9), [[Microsoft Copilot|Copilot]] (2), [[Sustainability]] (2), [[JSON]] (1)
 > **CLI Commands:** python (16), make (2), find (1), ruby (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** json (1), pearl (1)
@@ -4411,22 +4363,21 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
 
-#### Concurrency stress test with a GPU
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/concurrency-stress-test-with-a-gpu?u=76281980)
+#### [Concurrency stress test with a GPU](https://www.linkedin.com/learning/rust-for-data-engineering/concurrency-stress-test-with-a-gpu?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/rust-for-data-engineering/concurrency-stress-test-with-a-gpu?u=76281980&t=3)** - One of the more powerful ways to use Rust is to build a systems tool that talks to a GPU.
+> **[0:03](https://www.linkedin.com/learning/rust-for-data-engineering/concurrency-stress-test-with-a-gpu?u=76281980&t=3)** - One of the more powerful ways to use [[Rust (Programming Language)|Rust]] is to build a systems tool that talks to a GPU.
 >
-> **[0:10](https://www.linkedin.com/learning/rust-for-data-engineering/concurrency-stress-test-with-a-gpu?u=76281980&t=10)** Fortunately, because PyTorch bindings work so well with Rust, what I'm going to do is piece together a tool that can not only talk to the CPU and saturate it via PyTorch but also can talk to a CUDA enabled GPU saturated with PyTorch and then use some of the advantages of Rust which is the true cause that allows you to spawn a pool of threads and then send data into a GPU to try to get the most out of it in terms of a stress test.
+> **[0:10](https://www.linkedin.com/learning/rust-for-data-engineering/concurrency-stress-test-with-a-gpu?u=76281980&t=10)** Fortunately, because [[PyTorch]] bindings work so well with Rust, what I'm going to do is piece together a tool that can not only talk to the CPU and saturate it via PyTorch but also can talk to a CUDA enabled GPU saturated with PyTorch and then use some of the advantages of Rust which is the true cause that allows you to spawn a pool of threads and then send data into a GPU to try to get the most out of it in terms of a stress test.
 >
 > **[0:38](https://www.linkedin.com/learning/rust-for-data-engineering/concurrency-stress-test-with-a-gpu?u=76281980&t=38)** Let's go ahead and build that tool in just a few seconds.
 >
 > **[0:41](https://www.linkedin.com/learning/rust-for-data-engineering/concurrency-stress-test-with-a-gpu?u=76281980&t=41)** Let's take a look at the architecture of how you could build a stress test tool for a CUDA enabled GPU by using the systems programming capabilities of Rust and the Helpful Rust by George Bindings.
 >
-> **[0:55](https://www.linkedin.com/learning/rust-for-data-engineering/concurrency-stress-test-with-a-gpu?u=76281980&t=55)** First step, we have to have access to a CUDA enabled GPU with GitHub code spaces, that's one way to do it.
+> **[0:55](https://www.linkedin.com/learning/rust-for-data-engineering/concurrency-stress-test-with-a-gpu?u=76281980&t=55)** First step, we have to have access to a CUDA enabled GPU with [[GitHub]] code spaces, that's one way to do it.
 >
-> **[1:01](https://www.linkedin.com/learning/rust-for-data-engineering/concurrency-stress-test-with-a-gpu?u=76281980&t=61)** It could also be a AWS instance or a GCP instance or Azure instance.
+> **[1:01](https://www.linkedin.com/learning/rust-for-data-engineering/concurrency-stress-test-with-a-gpu?u=76281980&t=61)** It could also be a AWS instance or a GCP instance or [[Microsoft Azure|Azure]] instance.
 >
 > **[1:06](https://www.linkedin.com/learning/rust-for-data-engineering/concurrency-stress-test-with-a-gpu?u=76281980&t=66)** We then configure NVIDIA SMI Monitoring.
 >
@@ -4470,7 +4421,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/rust-for-data-engineering/concurrency-stress-test-with-a-gpu?u=76281980&t=173)** Here inside of the library code, we have functions that are built and each function is quite simple.
 >
-> **[3:00](https://www.linkedin.com/learning/rust-for-data-engineering/concurrency-stress-test-with-a-gpu?u=76281980&t=180)** So I have the Rayon imports, I have the TensorFlow imports but if we look at this, you can see that I build a load test and all it's doing is sending a vector into the device.
+> **[3:00](https://www.linkedin.com/learning/rust-for-data-engineering/concurrency-stress-test-with-a-gpu?u=76281980&t=180)** So I have the Rayon imports, I have the [[TensorFlow]] imports but if we look at this, you can see that I build a load test and all it's doing is sending a vector into the device.
 >
 > **[3:12](https://www.linkedin.com/learning/rust-for-data-engineering/concurrency-stress-test-with-a-gpu?u=76281980&t=192)** In this case it's A CPU and it's going to print out what's happening.
 >
@@ -4554,11 +4505,11 @@ created: 2026-05-02
 >
 > **[7:22](https://www.linkedin.com/learning/rust-for-data-engineering/concurrency-stress-test-with-a-gpu?u=76281980&t=442)** And you can see here Rust is the perfect tool to do training, to do inference, to build portable binary tools.
 >
-> **[7:28](https://www.linkedin.com/learning/rust-for-data-engineering/concurrency-stress-test-with-a-gpu?u=76281980&t=448)** And really Rust is the systems tool that is an ideal tool for MLOps.
+> **[7:28](https://www.linkedin.com/learning/rust-for-data-engineering/concurrency-stress-test-with-a-gpu?u=76281980&t=448)** And really Rust is the systems tool that is an ideal tool for [[MLOps]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (11), [[PyTorch]] (7), data (4), next (3), traffic (3)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (11), [[PyTorch]] (7), [[GitHub]] (1), [[Microsoft Azure|Azure]] (1), [[TensorFlow]] (1)
 > **Env Vars:** gpu (22), cpu (11), cuda (3), aws (1), gcp (1)
 > **CLI Commands:** cargo (6), make (3), aws (1)
 > **Tools:** github (1), command line (1)
@@ -4567,20 +4518,19 @@ created: 2026-05-02
 > **Prerequisites:** configure (1), set up (1)
 > **File Paths:** lib.rs (1)
 
-#### Host efficiency serverless optimization problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/host-efficiency-serverless-optimization-problem?u=76281980)
+#### [Host efficiency serverless optimization problem](https://www.linkedin.com/learning/rust-for-data-engineering/host-efficiency-serverless-optimization-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/host-efficiency-serverless-optimization-problem?u=76281980&t=6)** - [Instructor] Let's talk through some of the key problems with host virtualization efficiency.
 >
-> **[0:11](https://www.linkedin.com/learning/rust-for-data-engineering/host-efficiency-serverless-optimization-problem?u=76281980&t=11)** In serverless technology as well as virtual machines, you'll see this problem, and in a sense, it's a classic business school-type optimization problem where you have a set of requirements for a solution you're trying to build and you have to fit the best possible solution into the limited things that you have.
+> **[0:11](https://www.linkedin.com/learning/rust-for-data-engineering/host-efficiency-serverless-optimization-problem?u=76281980&t=11)** In serverless technology as well as [[Virtual Machines]], you'll see this problem, and in a sense, it's a classic business school-type optimization problem where you have a set of requirements for a solution you're trying to build and you have to fit the best possible solution into the limited things that you have.
 >
 > **[0:34](https://www.linkedin.com/learning/rust-for-data-engineering/host-efficiency-serverless-optimization-problem?u=76281980&t=34)** And so in the case of virtualization hosts, they do come in default flavor.
 >
 > **[0:39](https://www.linkedin.com/learning/rust-for-data-engineering/host-efficiency-serverless-optimization-problem?u=76281980&t=39)** So for example, there could be a two-core machine with a certain amount of memory or a four-core machine with a certain amount of memory.
 >
-> **[0:47](https://www.linkedin.com/learning/rust-for-data-engineering/host-efficiency-serverless-optimization-problem?u=76281980&t=47)** Now, the problem is, if, by default, your language or your solution uses a lot of memory, like many interpreted languages like Ruby and Python, then already at the very beginning, you're going to be given a machine that has potentially more memory and more cores than a compiled language.
+> **[0:47](https://www.linkedin.com/learning/rust-for-data-engineering/host-efficiency-serverless-optimization-problem?u=76281980&t=47)** Now, the problem is, if, by default, your language or your solution uses a lot of memory, like many interpreted languages like Ruby and [[Python (Programming Language)|Python]], then already at the very beginning, you're going to be given a machine that has potentially more memory and more cores than a compiled language.
 >
 > **[1:07](https://www.linkedin.com/learning/rust-for-data-engineering/host-efficiency-serverless-optimization-problem?u=76281980&t=67)** So you're really losing efficiency, even from the very beginning, by using a high-memory language, and a lot of times, they associate high memory with high cores.
 >
@@ -4588,7 +4538,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/rust-for-data-engineering/host-efficiency-serverless-optimization-problem?u=76281980&t=91)** So you're essentially having three cores idle doing absolutely nothing, and that could cause huge cost inefficiencies in the solution.
 >
-> **[1:42](https://www.linkedin.com/learning/rust-for-data-engineering/host-efficiency-serverless-optimization-problem?u=76281980&t=102)** So in a nutshell, let's take a look at maybe a more specific example, which is Rust and Python efficiency in serverless for, let's say, AWS Lambda.
+> **[1:42](https://www.linkedin.com/learning/rust-for-data-engineering/host-efficiency-serverless-optimization-problem?u=76281980&t=102)** So in a nutshell, let's take a look at maybe a more specific example, which is [[Rust (Programming Language)|Rust]] and Python efficiency in serverless for, let's say, AWS Lambda.
 >
 > **[1:53](https://www.linkedin.com/learning/rust-for-data-engineering/host-efficiency-serverless-optimization-problem?u=76281980&t=113)** Lambda and Rust could use a smaller memory allocation, like 128 megabytes versus 512, and this is because you have a lower memory footprint.
 >
@@ -4618,7 +4568,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Rust (Programming Language)|Rust]] (10), [[Virtualization]] (2), aws (2), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Rust (Programming Language)|Rust]] (10), [[Virtual Machines]] (1)
 > **CLI Commands:** python (11), aws (2), ruby (1)
 > **Env Vars:** aws (2), gil (2)
 > **Definitions:** is a  (2)
@@ -4630,14 +4580,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Process CSV files in Rust
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/process-csv-files-in-rust?u=76281980)
+#### [Process CSV files in Rust](https://www.linkedin.com/learning/rust-for-data-engineering/process-csv-files-in-rust?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/process-csv-files-in-rust?u=76281980&t=6)** - Okay, I'm inside of AWS Cloud9, here and I want to work with some CSV files.
 >
-> **[0:10](https://www.linkedin.com/learning/rust-for-data-engineering/process-csv-files-in-rust?u=76281980&t=10)** Fortunately, it's very straightforward in Rust.
+> **[0:10](https://www.linkedin.com/learning/rust-for-data-engineering/process-csv-files-in-rust?u=76281980&t=10)** Fortunately, it's very straightforward in [[Rust (Programming Language)|Rust]].
 >
 > **[0:13](https://www.linkedin.com/learning/rust-for-data-engineering/process-csv-files-in-rust?u=76281980&t=13)** So what I'm going to do is I'm going to first create a new project.
 >
@@ -4707,7 +4656,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Rust (Programming Language)|Rust]] (5), next (2), aws (1), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (5)
 > **Env Vars:** csv (8), aws (1)
 > **CLI Commands:** cargo (4), make (2), aws (1)
 > **File Paths:** text.txt (2)
@@ -4716,12 +4665,11 @@ created: 2026-05-02
 > **Versions:** 1.2.2 (1)
 > **Documentation:** official docs (1)
 
-#### Using Cargo Lambda with Rust
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/using-cargo-lambda-with-rust?u=76281980)
+#### [Using Cargo Lambda with Rust](https://www.linkedin.com/learning/rust-for-data-engineering/using-cargo-lambda-with-rust?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/using-cargo-lambda-with-rust?u=76281980&t=6)** (Presenter) Let's take a look at Cargo Lambda which allows you to have rust functions on AWS Lambda in a really simple way.
+> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/using-cargo-lambda-with-rust?u=76281980&t=6)** (Presenter) Let's take a look at Cargo Lambda which allows you to have [[Rust (Programming Language)|rust]] functions on AWS Lambda in a really simple way.
 >
 > **[0:13](https://www.linkedin.com/learning/rust-for-data-engineering/using-cargo-lambda-with-rust?u=76281980&t=13)** In many cases, I think it's the easiest possible way to develop in any language for AWS Lambda.
 >
@@ -4815,7 +4763,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/rust-for-data-engineering/using-cargo-lambda-with-rust?u=76281980&t=223)** Now, what else can we do here?
 >
-> **[3:45](https://www.linkedin.com/learning/rust-for-data-engineering/using-cargo-lambda-with-rust?u=76281980&t=225)** Well, we can do debugging, we can run GitHub actions, we can do, et cetera, et cetera.
+> **[3:45](https://www.linkedin.com/learning/rust-for-data-engineering/using-cargo-lambda-with-rust?u=76281980&t=225)** Well, we can do debugging, we can run [[GitHub]] actions, we can do, et cetera, et cetera.
 >
 > **[3:49](https://www.linkedin.com/learning/rust-for-data-engineering/using-cargo-lambda-with-rust?u=76281980&t=229)** So in a nutshell, I think Cargo Lambda takes something that is truly a little bit scary in scripting languages and makes it trivial.
 >
@@ -4825,7 +4773,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), [[Rust (Programming Language)|Rust]] (2), next (1), api (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2), [[GitHub]] (1)
 > **CLI Commands:** cargo (12), aws (3), docker (1), ls (1)
 > **Prerequisites:** install (3), set up (2)
 > **Env Vars:** aws (3), api (1)
@@ -4834,12 +4782,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** github (1)
 
-#### List files on AWS EFS with Rust
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/list-files-on-aws-efs-with-rust?u=76281980)
+#### [List files on AWS EFS with Rust](https://www.linkedin.com/learning/rust-for-data-engineering/list-files-on-aws-efs-with-rust?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/list-files-on-aws-efs-with-rust?u=76281980&t=6)** - [Instructor] Cargo Lambda is a great way to deploy Rust functions to AWS Lambda and it really simplifies some emerging workflows that a modern compiled language like Rust can do.
+> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/list-files-on-aws-efs-with-rust?u=76281980&t=6)** - [Instructor] Cargo Lambda is a great way to deploy [[Rust (Programming Language)|Rust]] functions to AWS Lambda and it really simplifies some emerging workflows that a modern compiled language like Rust can do.
 >
 > **[0:19](https://www.linkedin.com/learning/rust-for-data-engineering/list-files-on-aws-efs-with-rust?u=76281980&t=19)** In this demo, I'm going to show how Cargo Lambda combines with EFS, which is a mounted managed file system from AWS to let you do really new things that potentially wouldn't be available without the serverless plus the managed file service plus Rust, right?
 >
@@ -4913,7 +4860,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/rust-for-data-engineering/list-files-on-aws-efs-with-rust?u=76281980&t=223)** There we go. So we see that there's stuff inside of here.
 >
-> **[3:45](https://www.linkedin.com/learning/rust-for-data-engineering/list-files-on-aws-efs-with-rust?u=76281980&t=225)** So I've got, you know, large language models, pre-trained models, you know, whatever it is you want to put inside of here.
+> **[3:45](https://www.linkedin.com/learning/rust-for-data-engineering/list-files-on-aws-efs-with-rust?u=76281980&t=225)** So I've got, you know, [[Large Language Models (LLM)|large language models]], pre-trained models, you know, whatever it is you want to put inside of here.
 >
 > **[3:51](https://www.linkedin.com/learning/rust-for-data-engineering/list-files-on-aws-efs-with-rust?u=76281980&t=231)** And this is a great way to develop as well, right?
 >
@@ -4949,7 +4896,7 @@ created: 2026-05-02
 >
 > **[5:23](https://www.linkedin.com/learning/rust-for-data-engineering/list-files-on-aws-efs-with-rust?u=76281980&t=323)** And then finally over here is where I pull together in my Lambda function.
 >
-> **[5:28](https://www.linkedin.com/learning/rust-for-data-engineering/list-files-on-aws-efs-with-rust?u=76281980&t=328)** So it's in many ways pretty similar to let's say AWS Python with Lambda, except for it's extremely efficient and is a very easy deploy process.
+> **[5:28](https://www.linkedin.com/learning/rust-for-data-engineering/list-files-on-aws-efs-with-rust?u=76281980&t=328)** So it's in many ways pretty similar to let's say AWS [[Python (Programming Language)|Python]] with Lambda, except for it's extremely efficient and is a very easy deploy process.
 >
 > **[5:40](https://www.linkedin.com/learning/rust-for-data-engineering/list-files-on-aws-efs-with-rust?u=76281980&t=340)** So now that I've all that stuff cooking here, I then pull together in the main function.
 >
@@ -4997,7 +4944,7 @@ created: 2026-05-02
 >
 > **[7:05](https://www.linkedin.com/learning/rust-for-data-engineering/list-files-on-aws-efs-with-rust?u=76281980&t=425)** It just can't do the things that a Rust based efficiency can do in the deployment as well as trivial because it's a binary that gets pushed over here.
 >
-> **[7:13](https://www.linkedin.com/learning/rust-for-data-engineering/list-files-on-aws-efs-with-rust?u=76281980&t=433)** So in a nutshell, to summarize what we're doing, that EFS is an emerging standard that mixes with Rust and also the AWS Lambda ecosystem for large language models for data engineering.
+> **[7:13](https://www.linkedin.com/learning/rust-for-data-engineering/list-files-on-aws-efs-with-rust?u=76281980&t=433)** So in a nutshell, to summarize what we're doing, that EFS is an emerging standard that mixes with Rust and also the AWS Lambda ecosystem for large language models for [[Data Engineering]].
 >
 > **[7:28](https://www.linkedin.com/learning/rust-for-data-engineering/list-files-on-aws-efs-with-rust?u=76281980&t=448)** And really it should be something that your organization investigates.
 >
@@ -5013,7 +4960,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (10), aws (4), next (2), cloud (2), [[Large Language Models (LLM)|Large language models]] (2)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (10), [[Large Language Models (LLM)|Large language models]] (2), [[Python (Programming Language)|Python]] (1), [[Data Engineering]] (1)
 > **CLI Commands:** cargo (4), aws (4), make (3), ls (1), python (1)
 > **Env Vars:** efs (8), aws (4)
 > **Definitions:** is a  (5), is an  (2)
@@ -5022,18 +4969,17 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** terminal (1)
 
-#### Use AWS S3 storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/use-aws-s3-storage?u=76281980)
+#### [Use AWS S3 storage](https://www.linkedin.com/learning/rust-for-data-engineering/use-aws-s3-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/use-aws-s3-storage?u=76281980&t=8)** - [Instructor] Okay, we're back at the AWS Management Console and what we're going to do is demo how to get data into S3, how to synchronize it, and how to move it back and forth.
 >
-> **[0:19](https://www.linkedin.com/learning/rust-for-data-engineering/use-aws-s3-storage?u=76281980&t=19)** Really, S3 is a workhorse for doing operations especially if, let's say you are a data scientist, a data engineer working in a data science program or just need to do something with a lot of data.
+> **[0:19](https://www.linkedin.com/learning/rust-for-data-engineering/use-aws-s3-storage?u=76281980&t=19)** Really, S3 is a workhorse for doing operations especially if, let's say you are a data scientist, a data engineer working in a [[Data Science]] program or just need to do something with a lot of data.
 >
 > **[0:31](https://www.linkedin.com/learning/rust-for-data-engineering/use-aws-s3-storage?u=76281980&t=31)** It's important to know how to use S3.
 >
-> **[0:33](https://www.linkedin.com/learning/rust-for-data-engineering/use-aws-s3-storage?u=76281980&t=33)** So to start with, let's go over to S3 and we'll just type in the word S3 here.
+> **[0:33](https://www.linkedin.com/learning/rust-for-data-engineering/use-aws-s3-storage?u=76281980&t=33)** So to start with, let's go over to S3 and we'll just type in the [[Microsoft Word|word]] S3 here.
 >
 > **[0:38](https://www.linkedin.com/learning/rust-for-data-engineering/use-aws-s3-storage?u=76281980&t=38)** There we go.
 >
@@ -5077,7 +5023,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/rust-for-data-engineering/use-aws-s3-storage?u=76281980&t=123)** So that's one of the really powerful things about S3 is it's an infinite storage system.
 >
-> **[2:08](https://www.linkedin.com/learning/rust-for-data-engineering/use-aws-s3-storage?u=76281980&t=128)** This could be deep learning training data, it could be SQL files, it could be customer data.
+> **[2:08](https://www.linkedin.com/learning/rust-for-data-engineering/use-aws-s3-storage?u=76281980&t=128)** This could be [[Deep Learning]] training data, it could be [[SQL]] files, it could be customer data.
 >
 > **[2:13](https://www.linkedin.com/learning/rust-for-data-engineering/use-aws-s3-storage?u=76281980&t=133)** It could be whatever it is you need.
 >
@@ -5163,7 +5109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), aws (2), management (1), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Microsoft Word|Word]] (1), [[Deep Learning]] (1), [[SQL]] (1)
 > **CLI Commands:** make (5), aws (2), cd (1)
 > **Env Vars:** aws (2), nba (1), sql (1), csv (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -5172,12 +5118,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use AWS S3 storage from Rust
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/use-aws-s3-storage-from-rust?u=76281980)
+#### [Use AWS S3 storage from Rust](https://www.linkedin.com/learning/rust-for-data-engineering/use-aws-s3-storage-from-rust?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/use-aws-s3-storage-from-rust?u=76281980&t=5)** - Here we have the AWSs SDK for Rust which is a great way to develop for AWS because the Rust language is a modern compiled language that has many solutions solved that other scripting languages or older compiled languages wish they had solutions for.
+> **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/use-aws-s3-storage-from-rust?u=76281980&t=5)** - Here we have the AWSs SDK for [[Rust (Programming Language)|Rust]] which is a great way to develop for AWS because the Rust language is a modern compiled language that has many solutions solved that other scripting languages or older compiled languages wish they had solutions for.
 >
 > **[0:23](https://www.linkedin.com/learning/rust-for-data-engineering/use-aws-s3-storage-from-rust?u=76281980&t=23)** So, for example, threads, asynchronous programming, security deployment, all these things are natively great with Rust.
 >
@@ -5287,13 +5232,13 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/rust-for-data-engineering/use-aws-s3-storage-from-rust?u=76281980&t=303)** It's amazing that it was able to figure out that there's 114 gigabytes in my AWS account here.
 >
-> **[5:08](https://www.linkedin.com/learning/rust-for-data-engineering/use-aws-s3-storage-from-rust?u=76281980&t=308)** So, really in a nutshell, the AWS Rust SDK is an emerging tool for people that are doing data engineering.
+> **[5:08](https://www.linkedin.com/learning/rust-for-data-engineering/use-aws-s3-storage-from-rust?u=76281980&t=308)** So, really in a nutshell, the AWS Rust SDK is an emerging tool for people that are doing [[Data Engineering]].
 >
 > **[5:17](https://www.linkedin.com/learning/rust-for-data-engineering/use-aws-s3-storage-from-rust?u=76281980&t=317)** And this is a great way to get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (11), [[Rust (Programming Language)|Rust]] (8), [[Security]] (2), api (2), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (8), [[Data Engineering]] (1)
 > **CLI Commands:** aws (11), cargo (5), make (2)
 > **Env Vars:** aws (8), sdk (4), api (2)
 > **Definitions:** is a  (4), is an  (1)
@@ -5302,8 +5247,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 
-#### Write encrypted data to tables or Parquet files
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/write-encrypted-data-to-tables-or-parquet-files?u=76281980)
+#### [Write encrypted data to tables or Parquet files](https://www.linkedin.com/learning/rust-for-data-engineering/write-encrypted-data-to-tables-or-parquet-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5311,7 +5255,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/rust-for-data-engineering/write-encrypted-data-to-tables-or-parquet-files?u=76281980&t=4)** Let's talk about some of the techniques.
 >
-> **[0:07](https://www.linkedin.com/learning/rust-for-data-engineering/write-encrypted-data-to-tables-or-parquet-files?u=76281980&t=7)** First, data at rest is an important concept to be aware of.
+> **[0:07](https://www.linkedin.com/learning/rust-for-data-engineering/write-encrypted-data-to-tables-or-parquet-files?u=76281980&t=7)** First, data at [[Representational State Transfer (REST)|rest]] is an important concept to be aware of.
 >
 > **[0:11](https://www.linkedin.com/learning/rust-for-data-engineering/write-encrypted-data-to-tables-or-parquet-files?u=76281980&t=11)** It means that you're encrypting it while it's already on the file system or in a database somewhere.
 >
@@ -5321,7 +5265,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/rust-for-data-engineering/write-encrypted-data-to-tables-or-parquet-files?u=76281980&t=35)** Here's a good example of transparent database encryption architecture.
 >
-> **[0:39](https://www.linkedin.com/learning/rust-for-data-engineering/write-encrypted-data-to-tables-or-parquet-files?u=76281980&t=39)** The Windows Operating System Data Protection API, or DPAPI, would encrypt the Service Master Key.
+> **[0:39](https://www.linkedin.com/learning/rust-for-data-engineering/write-encrypted-data-to-tables-or-parquet-files?u=76281980&t=39)** The [[Windows]] Operating System Data Protection API, or DPAPI, would encrypt the Service Master Key.
 >
 > **[0:45](https://www.linkedin.com/learning/rust-for-data-engineering/write-encrypted-data-to-tables-or-parquet-files?u=76281980&t=45)** From there, it would actually go through and use that for the database.
 >
@@ -5333,21 +5277,21 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/rust-for-data-engineering/write-encrypted-data-to-tables-or-parquet-files?u=76281980&t=58)** Your database, the backups and the logs are all able to be encrypted through your application.
 >
-> **[1:03](https://www.linkedin.com/learning/rust-for-data-engineering/write-encrypted-data-to-tables-or-parquet-files?u=76281980&t=63)** So really this is just a toggle on or off inside of the Azure database.
+> **[1:03](https://www.linkedin.com/learning/rust-for-data-engineering/write-encrypted-data-to-tables-or-parquet-files?u=76281980&t=63)** So really this is just a toggle on or off inside of the [[Microsoft Azure|Azure]] database.
 >
 > **[1:09](https://www.linkedin.com/learning/rust-for-data-engineering/write-encrypted-data-to-tables-or-parquet-files?u=76281980&t=69)** Now, if you take a look at a database column here as well, you could say that I want to encrypt a particular column.
 >
-> **[1:17](https://www.linkedin.com/learning/rust-for-data-engineering/write-encrypted-data-to-tables-or-parquet-files?u=76281980&t=77)** And when you have Always Encrypted, it can then design things so that they're sensitive information, and when it's stored in a SQL Server database, it would enable clients to encrypt the data inside the client application and it would never be revealed via the keys to the SQL server.
+> **[1:17](https://www.linkedin.com/learning/rust-for-data-engineering/write-encrypted-data-to-tables-or-parquet-files?u=76281980&t=77)** And when you have Always Encrypted, it can then design things so that they're sensitive information, and when it's stored in a [[Microsoft SQL Server|SQL Server]] database, it would enable clients to encrypt the data inside the client application and it would never be revealed via the keys to the SQL server.
 >
 > **[1:36](https://www.linkedin.com/learning/rust-for-data-engineering/write-encrypted-data-to-tables-or-parquet-files?u=76281980&t=96)** Finally, what this means is that when the data is actually in use in memory itself, you wouldn't need to worry about the data being secured because it's done through the Secure Enclave, and this is something that is part of the ecosystem of Azure.
 >
-> **[1:53](https://www.linkedin.com/learning/rust-for-data-engineering/write-encrypted-data-to-tables-or-parquet-files?u=76281980&t=113)** With SQL, you have an enhanced client driver.
+> **[1:53](https://www.linkedin.com/learning/rust-for-data-engineering/write-encrypted-data-to-tables-or-parquet-files?u=76281980&t=113)** With [[SQL]], you have an enhanced client driver.
 >
 > **[1:56](https://www.linkedin.com/learning/rust-for-data-engineering/write-encrypted-data-to-tables-or-parquet-files?u=76281980&t=116)** There's plain text, there's cipher text, and both in the rest and the transit, and then also when it's used, you're able to securely deal with the data as long as you're using these controls.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), database (8), [[Representational State Transfer (REST)|Rest]] (2), application (2), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Azure|Azure]] (2), [[Microsoft SQL Server|Sql server]] (2), [[Windows]] (1), [[SQL]] (1)
 > **Env Vars:** sql (3), ram (1), cpu (1), api (1), dpapi (1)
 > **Definitions:** means that (2), is an  (1)
 > **UI Navigation:** toggle (1)
@@ -5359,12 +5303,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Colab?
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-colab?u=76281980)
+#### [What is Colab?](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-colab?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-colab?u=76281980&t=0)** - [Instructor] Let's dive into how to use Google Colab notebooks for data science projects, portfolio projects.
+> **[0:00](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-colab?u=76281980&t=0)** - [Instructor] Let's dive into how to use [[Google]] Colab notebooks for [[Data Science]] projects, portfolio projects.
 >
 > **[0:07](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-colab?u=76281980&t=7)** You can see here this is the default screen and it gives you a good set of instructions for how to use it, worth taking a look at.
 >
@@ -5406,13 +5349,13 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-colab?u=76281980&t=128)** Now, how would I actually go through, and, you know, build out some code?
 >
-> **[2:12](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-colab?u=76281980&t=132)** Fortunately you can just execute Python code and for example, I can type in import pandas as pd, right, and import some project and import a library.
+> **[2:12](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-colab?u=76281980&t=132)** Fortunately you can just execute [[Python (Programming Language)|Python]] code and for example, I can type in import [[Pandas (Software)|pandas]] as pd, right, and import some project and import a library.
 >
 > **[2:25](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-colab?u=76281980&t=145)** Everything inside of this ingestion phase could be hidden or exposed depending on what I'm trying to do with it.
 >
 > **[2:31](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-colab?u=76281980&t=151)** The other thing I'll mention is that if you want to go ahead and save this or share it with someone else, there's a couple ways to do this.
 >
-> **[2:39](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-colab?u=76281980&t=159)** The easiest way by far would be to go File and say Save a copy in GitHub.
+> **[2:39](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-colab?u=76281980&t=159)** The easiest way by far would be to go File and say Save a copy in [[GitHub]].
 >
 > **[2:45](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-colab?u=76281980&t=165)** This is something I like to do quite a bit.
 >
@@ -5432,7 +5375,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-colab?u=76281980&t=210)** This is a great way to share things with other people on your teams or in your company or with just a future employer because it has this Open in Colab link here and then someone can just execute your code.
 >
-> **[3:43](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-colab?u=76281980&t=223)** One other way that is actually pretty powerful is that you also can use the features of the Google Drive environment.
+> **[3:43](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-colab?u=76281980&t=223)** One other way that is actually pretty powerful is that you also can use the features of the [[Google Drive]] environment.
 >
 > **[3:54](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-colab?u=76281980&t=234)** And in fact, how could you do this?
 >
@@ -5452,7 +5395,7 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-colab?u=76281980&t=303)** So I can look at Ingest, EDA, Modeling, Conclusion.
 >
-> **[5:06](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-colab?u=76281980&t=306)** Notice in the Ingest, I actually read through, and I have a "New York Times" CSV file, and I use that for the rest of my project.
+> **[5:06](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-colab?u=76281980&t=306)** Notice in the Ingest, I actually read through, and I have a "New York Times" CSV file, and I use that for the [[Representational State Transfer (REST)|rest]] of my project.
 >
 > **[5:16](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-colab?u=76281980&t=316)** One thing that's nice about this approach is I don't have to worry about data.
 >
@@ -5462,7 +5405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[GitHub]] (3), [[Google Drive]] (2), [[Google]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (6), [[GitHub]] (3), [[Google Drive]] (2), [[Google]] (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** colab (8), github (3)
 > **Env Vars:** eda (3), readme (2), csv (1)
 > **UI Navigation:** go to (3), click on (2)
@@ -5471,8 +5414,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Using Bard to enhance notebook development
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/using-bard-to-enhance-notebook-development?u=76281980)
+#### [Using Bard to enhance notebook development](https://www.linkedin.com/learning/rust-for-data-engineering/using-bard-to-enhance-notebook-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5482,11 +5424,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/rust-for-data-engineering/using-bard-to-enhance-notebook-development?u=76281980&t=21)** First step, I'm going to say, you know, what are three key aspects of security on the GCP cloud platform.
 >
-> **[0:32](https://www.linkedin.com/learning/rust-for-data-engineering/using-bard-to-enhance-notebook-development?u=76281980&t=32)** Let's say I was studying for a certification exam for the Google Cloud platform.
+> **[0:32](https://www.linkedin.com/learning/rust-for-data-engineering/using-bard-to-enhance-notebook-development?u=76281980&t=32)** Let's say I was studying for a certification exam for the [[Google Cloud Platform (GCP)|Google Cloud platform]].
 >
 > **[0:36](https://www.linkedin.com/learning/rust-for-data-engineering/using-bard-to-enhance-notebook-development?u=76281980&t=36)** I could go ahead and ask Bard here what are the key aspects.
 >
-> **[0:40](https://www.linkedin.com/learning/rust-for-data-engineering/using-bard-to-enhance-notebook-development?u=76281980&t=40)** And I can see here data security, identity, and access management and compliance.
+> **[0:40](https://www.linkedin.com/learning/rust-for-data-engineering/using-bard-to-enhance-notebook-development?u=76281980&t=40)** And I can see here [[Data Security]], identity, and access management and compliance.
 >
 > **[0:45](https://www.linkedin.com/learning/rust-for-data-engineering/using-bard-to-enhance-notebook-development?u=76281980&t=45)** In addition, there's some other features, right?
 >
@@ -5496,7 +5438,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/rust-for-data-engineering/using-bard-to-enhance-notebook-development?u=76281980&t=54)** But what if I wanted to do some coding, right?
 >
-> **[0:56](https://www.linkedin.com/learning/rust-for-data-engineering/using-bard-to-enhance-notebook-development?u=76281980&t=56)** So if I wanted to go through here and say, you know build a Python Colab notebook that imports a sample dataset from pandas and charts it.
+> **[0:56](https://www.linkedin.com/learning/rust-for-data-engineering/using-bard-to-enhance-notebook-development?u=76281980&t=56)** So if I wanted to go through here and say, you know build a [[Python (Programming Language)|Python]] Colab notebook that imports a sample dataset from [[Pandas (Software)|pandas]] and charts it.
 >
 > **[1:14](https://www.linkedin.com/learning/rust-for-data-engineering/using-bard-to-enhance-notebook-development?u=76281980&t=74)** Let's see what happens.
 >
@@ -5624,19 +5566,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), data (3), [[Pandas (Software)|Pandas]] (3), [[Programming]] (3), prompt (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Data Security]] (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** colab (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
 > **Env Vars:** gcp (1)
 > **Speakers:** - one (1)
 
-#### Exploring life expectancy in a notebook
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-life-expectancy-in-a-notebook?u=76281980)
+#### [Exploring life expectancy in a notebook](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-life-expectancy-in-a-notebook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-life-expectancy-in-a-notebook?u=76281980&t=6)** - [Instructor] Here we have a Google Colab notebook, which is a great place to explore data.
+> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-life-expectancy-in-a-notebook?u=76281980&t=6)** - [Instructor] Here we have a [[Google]] Colab notebook, which is a great place to explore data.
 >
 > **[0:11](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-life-expectancy-in-a-notebook?u=76281980&t=11)** One of the nice things about Colab Notebook is it has many features that help you do things at a professional level.
 >
@@ -5654,7 +5595,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-life-expectancy-in-a-notebook?u=76281980&t=60)** That's really the purpose.
 >
-> **[1:01](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-life-expectancy-in-a-notebook?u=76281980&t=61)** So let's first take a look at Ingest here, and run pandas and then go through here, and load some life expectancy data.
+> **[1:01](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-life-expectancy-in-a-notebook?u=76281980&t=61)** So let's first take a look at Ingest here, and run [[Pandas (Software)|pandas]] and then go through here, and load some life expectancy data.
 >
 > **[1:10](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-life-expectancy-in-a-notebook?u=76281980&t=70)** Let's say I'm a data scientist, and I'm wanting to understand what's happening, in terms of life expectancy around the world, and especially my home country of the United States, and kind of dig into the details a little bit.
 >
@@ -5692,7 +5633,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-life-expectancy-in-a-notebook?u=76281980&t=202)** And also Israel, Italy, Malta, Iceland, Portugal, lots of of countries, even Canada, a neighbor in the United States, people are living for quite some time.
 >
-> **[3:34](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-life-expectancy-in-a-notebook?u=76281980&t=214)** And if we go through here and we explore a little bit more, we can even look at some descriptive statistics.
+> **[3:34](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-life-expectancy-in-a-notebook?u=76281980&t=214)** And if we go through here and we explore a little bit more, we can even look at some descriptive [[Statistics]].
 >
 > **[3:39](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-life-expectancy-in-a-notebook?u=76281980&t=219)** For example, we could look at what is the median according to different years, and we see here that life expectancy around the world is going up and up and up and up.
 >
@@ -5742,7 +5683,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Pandas (Software)|Pandas]] (2), [[Statistics]] (2), [[Google]] (1), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Statistics]] (2), [[Google]] (1)
 > **Env Vars:** gpu (2), tpu (2), ram (2), eda (1), cpu (1)
 > **UI Navigation:** go to (4)
 > **Analogies:** for example (3)
@@ -5751,8 +5692,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Load a DataFrame with sensitive data
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/load-a-dataframe-with-sensitive-data?u=76281980)
+#### [Load a DataFrame with sensitive data](https://www.linkedin.com/learning/rust-for-data-engineering/load-a-dataframe-with-sensitive-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5760,7 +5700,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/rust-for-data-engineering/load-a-dataframe-with-sensitive-data?u=76281980&t=4)** There are a few things to pay attention to.
 >
-> **[0:07](https://www.linkedin.com/learning/rust-for-data-engineering/load-a-dataframe-with-sensitive-data?u=76281980&t=7)** First, what is the data classification methodology used?
+> **[0:07](https://www.linkedin.com/learning/rust-for-data-engineering/load-a-dataframe-with-sensitive-data?u=76281980&t=7)** First, what is the [[Data Classification]] methodology used?
 >
 > **[0:12](https://www.linkedin.com/learning/rust-for-data-engineering/load-a-dataframe-with-sensitive-data?u=76281980&t=12)** One of the most common ways to do this is to have different labels.
 >
@@ -5782,17 +5722,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Data Classification]] (1)
+> **Frameworks & Libraries:** [[Data Classification]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using MLFlow with Databricks Notebooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/using-mlflow-with-databricks-notebooks?u=76281980)
+#### [Using MLFlow with Databricks Notebooks](https://www.linkedin.com/learning/rust-for-data-engineering/using-mlflow-with-databricks-notebooks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-for-data-engineering/using-mlflow-with-databricks-notebooks?u=76281980&t=0)** - [Instructor] Let's talk about getting started with MLFlow and MLFlow tracking.
+> **[0:00](https://www.linkedin.com/learning/rust-for-data-engineering/using-mlflow-with-databricks-notebooks?u=76281980&t=0)** - [Instructor] Let's talk about getting started with [[MLflow]] and MLFlow tracking.
 >
 > **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/using-mlflow-with-databricks-notebooks?u=76281980&t=5)** To start with, we need to dive into what is Databricks Machine Learning?
 >
@@ -5818,7 +5757,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/rust-for-data-engineering/using-mlflow-with-databricks-notebooks?u=76281980&t=67)** You can also use the DBFS or the Databricks file system.
 >
-> **[1:12](https://www.linkedin.com/learning/rust-for-data-engineering/using-mlflow-with-databricks-notebooks?u=76281980&t=72)** One of the unique things about the Azure integration is that you can also hook into Azure storage like the Azure Blob Storage system or you could also hook into a third party integration and use those third party tools.
+> **[1:12](https://www.linkedin.com/learning/rust-for-data-engineering/using-mlflow-with-databricks-notebooks?u=76281980&t=72)** One of the unique things about the [[Microsoft Azure|Azure]] integration is that you can also hook into Azure storage like the Azure Blob Storage system or you could also hook into a third party integration and use those third party tools.
 >
 > **[1:25](https://www.linkedin.com/learning/rust-for-data-engineering/using-mlflow-with-databricks-notebooks?u=76281980&t=85)** There's many different third party integrations.
 >
@@ -5830,7 +5769,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/rust-for-data-engineering/using-mlflow-with-databricks-notebooks?u=76281980&t=112)** There's a standard runtime and there's the ML runtime.
 >
-> **[1:56](https://www.linkedin.com/learning/rust-for-data-engineering/using-mlflow-with-databricks-notebooks?u=76281980&t=116)** The ML runtime includes MLFlow, and it allows you to integrate with the rest of the experiment tracking and things that you would expect from a machine learning workflow.
+> **[1:56](https://www.linkedin.com/learning/rust-for-data-engineering/using-mlflow-with-databricks-notebooks?u=76281980&t=116)** The ML runtime includes MLFlow, and it allows you to integrate with the [[Representational State Transfer (REST)|rest]] of the experiment tracking and things that you would expect from a machine learning workflow.
 >
 > **[2:07](https://www.linkedin.com/learning/rust-for-data-engineering/using-mlflow-with-databricks-notebooks?u=76281980&t=127)** One of the things that you'll want to do after that is attach a notebook.
 >
@@ -5860,9 +5799,9 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/rust-for-data-engineering/using-mlflow-with-databricks-notebooks?u=76281980&t=245)** Also, it's important to know that you can do parallel hyperparameter tuning which allows you to really optimize how quickly you get to the end solution.
 >
-> **[4:14](https://www.linkedin.com/learning/rust-for-data-engineering/using-mlflow-with-databricks-notebooks?u=76281980&t=254)** One of the ways you can do this is by using the Hyperopt, which has distributed asynchronous hyperparameter optimization and there's three different algorithms you can use.
+> **[4:14](https://www.linkedin.com/learning/rust-for-data-engineering/using-mlflow-with-databricks-notebooks?u=76281980&t=254)** One of the ways you can do this is by using the Hyperopt, which has distributed asynchronous hyperparameter optimization and there's three different [[Algorithms]] you can use.
 >
-> **[4:24](https://www.linkedin.com/learning/rust-for-data-engineering/using-mlflow-with-databricks-notebooks?u=76281980&t=264)** There's random search, there's Tree of Parzen Estimation or TPE, and there's adaptive TPE and you can parallelize this with Apache Spark or MongoDB.
+> **[4:24](https://www.linkedin.com/learning/rust-for-data-engineering/using-mlflow-with-databricks-notebooks?u=76281980&t=264)** There's random search, there's Tree of Parzen Estimation or TPE, and there's adaptive TPE and you can parallelize this with [[Apache Spark]] or [[MongoDB]].
 >
 > **[4:35](https://www.linkedin.com/learning/rust-for-data-engineering/using-mlflow-with-databricks-notebooks?u=76281980&t=275)** So really, there's a lot of ways to get started with parallel hyperparameter tuning and if you take a look at the code here, you can see on smaller clusters or the Databricks Community Edition it's a good idea to do parallelism two but if you have a big cluster you can make it whatever number you'd like.
 >
@@ -5876,7 +5815,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLflow]] (3), data (3), [[Microsoft Azure|Azure]] (3), [[Search]] (3), feature (2)
+> **Frameworks & Libraries:** [[MLflow]] (3), [[Microsoft Azure|Azure]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Algorithms]] (1), [[Apache Spark]] (1)
 > **CLI Commands:** make (2), node (1), apache (1)
 > **Env Vars:** tpe (2), dbfs (1), api (1)
 > **UI Navigation:** toggle (1)
@@ -5884,12 +5823,11 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### End to End ML with MLFlow and Databricks
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/end-to-end-ml-with-mlflow-and-databricks?u=76281980)
+#### [End to End ML with MLFlow and Databricks](https://www.linkedin.com/learning/rust-for-data-engineering/end-to-end-ml-with-mlflow-and-databricks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-for-data-engineering/end-to-end-ml-with-mlflow-and-databricks?u=76281980&t=0)** - [Instructor] Let's take a look at an end-to-end MLOps model workflow with Databricks and how you can take Databricks and MLFlow and convert it to another platform, if you'd like.
+> **[0:00](https://www.linkedin.com/learning/rust-for-data-engineering/end-to-end-ml-with-mlflow-and-databricks?u=76281980&t=0)** - [Instructor] Let's take a look at an end-to-end [[MLOps]] model workflow with Databricks and how you can take Databricks and [[MLflow]] and convert it to another platform, if you'd like.
 >
 > **[0:13](https://www.linkedin.com/learning/rust-for-data-engineering/end-to-end-ml-with-mlflow-and-databricks?u=76281980&t=13)** So here's a good example.
 >
@@ -5903,7 +5841,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/rust-for-data-engineering/end-to-end-ml-with-mlflow-and-databricks?u=76281980&t=45)** I don't have to necessarily do that, but I can do that.
 >
-> **[0:49](https://www.linkedin.com/learning/rust-for-data-engineering/end-to-end-ml-with-mlflow-and-databricks?u=76281980&t=49)** I also could call the MLFlow API from any cloud environment, from Azure, from GitHub Codespaces, from AWS Cloud9, and I could develop a microservice-based approach and push that into some other environment.
+> **[0:49](https://www.linkedin.com/learning/rust-for-data-engineering/end-to-end-ml-with-mlflow-and-databricks?u=76281980&t=49)** I also could call the MLFlow API from any cloud environment, from [[Microsoft Azure|Azure]], from [[GitHub]] [[Codespaces]], from AWS Cloud9, and I could develop a microservice-based approach and push that into some other environment.
 >
 > **[1:05](https://www.linkedin.com/learning/rust-for-data-engineering/end-to-end-ml-with-mlflow-and-databricks?u=76281980&t=65)** In fact, AWS, the ECR Container Registry could be one option.
 >
@@ -5933,7 +5871,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/rust-for-data-engineering/end-to-end-ml-with-mlflow-and-databricks?u=76281980&t=130)** And then also, if I wanted to predict it on a Spark data frame, it shows me the exact run ID and also the commands to load it up and then do a prediction.
 >
-> **[2:20](https://www.linkedin.com/learning/rust-for-data-engineering/end-to-end-ml-with-mlflow-and-databricks?u=76281980&t=140)** And then it also shows me a way to do this on a Pandas DataFrame, as well.
+> **[2:20](https://www.linkedin.com/learning/rust-for-data-engineering/end-to-end-ml-with-mlflow-and-databricks?u=76281980&t=140)** And then it also shows me a way to do this on a [[Pandas (Software)|Pandas]] DataFrame, as well.
 >
 > **[2:25](https://www.linkedin.com/learning/rust-for-data-engineering/end-to-end-ml-with-mlflow-and-databricks?u=76281980&t=145)** So this is really handy because I could go right into this platform and invoke it.
 >
@@ -5965,7 +5903,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLflow]] (4), [[GitHub]] (3), aws (3), api (2), cloud (2)
+> **Frameworks & Libraries:** [[MLflow]] (4), [[GitHub]] (3), [[Codespaces]] (2), [[MLOps]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** aws (3), api (2), dbfs (1), ecr (1)
 > **CLI Commands:** aws (3), curl (1)
 > **Tools:** github (3)
@@ -5974,8 +5912,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 
-#### Exploring global life expectancy with Polars
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-global-life-expectancy-with-polars?u=76281980)
+#### [Exploring global life expectancy with Polars](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-global-life-expectancy-with-polars?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6005,7 +5942,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-global-life-expectancy-with-polars?u=76281980&t=92)** First polars, and I've actually hard coded to this specific version.
 >
-> **[1:36](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-global-life-expectancy-with-polars?u=76281980&t=96)** This is another great feature of Rust.
+> **[1:36](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-global-life-expectancy-with-polars?u=76281980&t=96)** This is another great feature of [[Rust (Programming Language)|Rust]].
 >
 > **[1:39](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-global-life-expectancy-with-polars?u=76281980&t=99)** And also with clap, which is the command line parsing library.
 >
@@ -6033,7 +5970,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-global-life-expectancy-with-polars?u=76281980&t=177)** At the very end, I'm able to actually take this and make a high performance, pure rust based data frame tool that I can give the binary to and I'm not going to have to worry about weird installation problems.
 >
-> **[3:10](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-global-life-expectancy-with-polars?u=76281980&t=190)** And this is really the advantage of Rust over Python 14 engineering.
+> **[3:10](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-global-life-expectancy-with-polars?u=76281980&t=190)** And this is really the advantage of Rust over [[Python (Programming Language)|Python]] 14 engineering.
 >
 > **[3:15](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-global-life-expectancy-with-polars?u=76281980&t=195)** Here we go.
 >
@@ -6059,11 +5996,11 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-global-life-expectancy-with-polars?u=76281980&t=244)** There's some amazing life expectancies here and I can see this very clearly because the tool was well architected.
 >
-> **[4:13](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-global-life-expectancy-with-polars?u=76281980&t=253)** So in a nutshell, I think it is important to consider for data frames that pure rust solutions have many advantages including security, portability, performance over traditional scripting languages like Python for example, or R, and high performance data engineering tools should look at using pure rust based solutions.
+> **[4:13](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-global-life-expectancy-with-polars?u=76281980&t=253)** So in a nutshell, I think it is important to consider for data frames that pure rust solutions have many advantages including security, portability, performance over traditional scripting languages like Python for example, or R, and high performance [[Data Engineering]] tools should look at using pure rust based solutions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Rust (Programming Language)|Rust]] (5), [[Python (Programming Language)|Python]] (2), database (1), feature (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (5), [[Python (Programming Language)|Python]] (2), [[Data Engineering]] (1)
 > **CLI Commands:** make (2), python (2), cargo (1)
 > **File Paths:** lib.rs (1), cargo.toml (1), main.rs (1)
 > **Tools:** command line (3)
@@ -6077,8 +6014,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud developer workspace advantage
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980)
+#### [Cloud developer workspace advantage](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6086,7 +6022,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980&t=9)** It's one of the more interesting new trends that we're seeing in many fields.
 >
-> **[0:14](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980&t=14)** Software engineering, data engineering, data science, machine learning engineering, also machine learning operations.
+> **[0:14](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980&t=14)** Software engineering, [[Data Engineering]], [[Data Science]], machine learning engineering, also machine learning operations.
 >
 > **[0:20](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980&t=20)** In some sense, if you're not using a cloud-based developer environment you're really missing out on many new features that are not available on your laptop.
 >
@@ -6104,13 +6040,13 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980&t=60)** If you're running in the cloud, it's not going to be the same as your laptop, with some exceptions, you know you can work around that with containers.
 >
-> **[1:07](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980&t=67)** Now, if we go to the cloud here, and we take a look at some of these cloud-based environments and really we can see that GitHub Codespaces, AWS Cloud9, GCP Cloud IDE, Azure Cloud IDE, all of these have many things in common.
+> **[1:07](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980&t=67)** Now, if we go to the cloud here, and we take a look at some of these cloud-based environments and really we can see that [[GitHub]] [[Codespaces]], AWS Cloud9, GCP Cloud IDE, [[Microsoft Azure|Azure]] Cloud IDE, all of these have many things in common.
 >
 > **[1:22](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980&t=82)** And that there is typically an IDE that's customized for development.
 >
-> **[1:27](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980&t=87)** In the case of GitHub Codespaces, the unique features are that it does have easy integration with GitHub Actions which is the continuous integration system.
+> **[1:27](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980&t=87)** In the case of GitHub Codespaces, the unique features are that it does have easy integration with GitHub Actions which is the [[Continuous Integration (CI)|continuous integration]] system.
 >
-> **[1:37](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980&t=97)** It also has easy integration with GitHub Copilot which allows you to write code where the OpenAI Codex is essentially telling you what to write.
+> **[1:37](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980&t=97)** It also has easy integration with [[GitHub Copilot]] which allows you to write code where the OpenAI Codex is essentially telling you what to write.
 >
 > **[1:49](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980&t=109)** And also this whole integration is very tightly coupled with GitHub.
 >
@@ -6126,7 +6062,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980&t=137)** You can even use a pro version.
 >
-> **[2:19](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980&t=139)** There's also AWS SageMaker Studio Lab which allows people to go through and run Jupyter Notebooks using GPUs that are free, that are provided by the AWS platform.
+> **[2:19](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980&t=139)** There's also [[AWS SageMaker]] Studio Lab which allows people to go through and run Jupyter Notebooks using GPUs that are free, that are provided by the AWS platform.
 >
 > **[2:32](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980&t=152)** So these are really good options for notebook friendly workflows.
 >
@@ -6142,7 +6078,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980&t=193)** And this also is a good environment for even doing very minor software engineering.
 >
-> **[3:18](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980&t=198)** And also you could switch between Bash, Z Shell or PowerShell.
+> **[3:18](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980&t=198)** And also you could switch between Bash, Z Shell or [[Powershell]].
 >
 > **[3:22](https://www.linkedin.com/learning/rust-for-data-engineering/cloud-developer-workspace-advantage?u=76281980&t=202)** If you go into other clouds, they're very similar, right, in that GCP has its own cloud editor and also has a CloudShell, Azure has its own cloud editor and also has a CloudShell.
 >
@@ -6156,7 +6092,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (15), aws (6), [[Engineering]] (5), data (5), [[GitHub]] (4)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Codespaces]] (2), [[Microsoft Azure|Azure]] (2), [[Data Engineering]] (1), [[Data Science]] (1)
 > **Env Vars:** aws (6), ide (3), gcp (2), api (2)
 > **Tools:** github (5), colab (2), jupyter (2), bash (1), powershell (1)
 > **CLI Commands:** aws (6)
@@ -6165,16 +6101,15 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Onboarding to GCP with Python and Rust
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/onboarding-to-gcp-with-python-and-rust?u=76281980)
+#### [Onboarding to GCP with Python and Rust](https://www.linkedin.com/learning/rust-for-data-engineering/onboarding-to-gcp-with-python-and-rust?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/onboarding-to-gcp-with-python-and-rust?u=76281980&t=8)** - [Instructor] Let's take a look at the Google Cloud free tier here.
+> **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/onboarding-to-gcp-with-python-and-rust?u=76281980&t=8)** - [Instructor] Let's take a look at the [[Google Cloud Platform (GCP)|Google Cloud]] free tier here.
 >
-> **[0:11](https://www.linkedin.com/learning/rust-for-data-engineering/onboarding-to-gcp-with-python-and-rust?u=76281980&t=11)** You can see if you start up on the Google Cloud free tier, you have access to 20 free products, $300 in free credits, although you do need to use them within three months.
+> **[0:11](https://www.linkedin.com/learning/rust-for-data-engineering/onboarding-to-gcp-with-python-and-rust?u=76281980&t=11)** You can see if you start up on the Google Cloud free tier, you have access to 20 free [[Microsoft Products|products]], $300 in free credits, although you do need to use them within three months.
 >
-> **[0:22](https://www.linkedin.com/learning/rust-for-data-engineering/onboarding-to-gcp-with-python-and-rust?u=76281980&t=22)** And some of the free tier products include the Compute Engine, Cloud Storage, BigQuery, Kubernetes, App Engine, Cloud Run, Cloud Build, Stackdriver, Firestore, Pub/Sub, Cloud Functions, Vision AI, Speech-to-Text, Natural Language API, AutoML, et cetera, et cetera.
+> **[0:22](https://www.linkedin.com/learning/rust-for-data-engineering/onboarding-to-gcp-with-python-and-rust?u=76281980&t=22)** And some of the free tier products include the Compute Engine, [[Cloud Storage]], BigQuery, [[Kubernetes]], App Engine, Cloud Run, Cloud Build, Stackdriver, Firestore, Pub/Sub, Cloud Functions, Vision AI, Speech-to-Text, Natural Language API, AutoML, et cetera, et cetera.
 >
 > **[0:42](https://www.linkedin.com/learning/rust-for-data-engineering/onboarding-to-gcp-with-python-and-rust?u=76281980&t=42)** Really, there's just a ton of free tier services here.
 >
@@ -6198,13 +6133,13 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/rust-for-data-engineering/onboarding-to-gcp-with-python-and-rust?u=76281980&t=93)** Right here we have Select a project, and if I wanted to create a new project I would go ahead and create a new project there.
 >
-> **[1:39](https://www.linkedin.com/learning/rust-for-data-engineering/onboarding-to-gcp-with-python-and-rust?u=76281980&t=99)** What I would recommend when you first get started with the Google Cloud platform is to launch the Cloud Shell.
+> **[1:39](https://www.linkedin.com/learning/rust-for-data-engineering/onboarding-to-gcp-with-python-and-rust?u=76281980&t=99)** What I would recommend when you first get started with the [[Google Cloud Platform (GCP)|Google Cloud platform]] is to launch the Cloud Shell.
 >
 > **[1:45](https://www.linkedin.com/learning/rust-for-data-engineering/onboarding-to-gcp-with-python-and-rust?u=76281980&t=105)** So let's go ahead and do that.
 >
 > **[1:46](https://www.linkedin.com/learning/rust-for-data-engineering/onboarding-to-gcp-with-python-and-rust?u=76281980&t=106)** And Clouds Shell is nice because you can immediately start building solutions, trying out ideas inside of this Clouds Shell environment.
 >
-> **[1:55](https://www.linkedin.com/learning/rust-for-data-engineering/onboarding-to-gcp-with-python-and-rust?u=76281980&t=115)** The first thing that I like to do is create a Python virtual environment so that I can test out Python projects and run them inside of Cloud Shell.
+> **[1:55](https://www.linkedin.com/learning/rust-for-data-engineering/onboarding-to-gcp-with-python-and-rust?u=76281980&t=115)** The first thing that I like to do is create a [[Python (Programming Language)|Python]] virtual environment so that I can test out Python projects and run them inside of Cloud Shell.
 >
 > **[2:03](https://www.linkedin.com/learning/rust-for-data-engineering/onboarding-to-gcp-with-python-and-rust?u=76281980&t=123)** So I'm going to go ahead and do that.
 >
@@ -6226,7 +6161,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/rust-for-data-engineering/onboarding-to-gcp-with-python-and-rust?u=76281980&t=171)** And then if I wanted to go to a repo where I have some code, in this case, I have some Python code here and I go to HTTPS, if I don't want to push changes back.
 >
-> **[3:04](https://www.linkedin.com/learning/rust-for-data-engineering/onboarding-to-gcp-with-python-and-rust?u=76281980&t=184)** I can go into this environment and I can actually just do a git clone.
+> **[3:04](https://www.linkedin.com/learning/rust-for-data-engineering/onboarding-to-gcp-with-python-and-rust?u=76281980&t=184)** I can go into this environment and I can actually just do a [[Git]] clone.
 >
 > **[3:07](https://www.linkedin.com/learning/rust-for-data-engineering/onboarding-to-gcp-with-python-and-rust?u=76281980&t=187)** So let's go ahead and do that.
 >
@@ -6264,7 +6199,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/rust-for-data-engineering/onboarding-to-gcp-with-python-and-rust?u=76281980&t=273)** Alright, so now that we've got Python working, well, what else could we do?
 >
-> **[4:37](https://www.linkedin.com/learning/rust-for-data-engineering/onboarding-to-gcp-with-python-and-rust?u=76281980&t=277)** Well, we also can install Rust.
+> **[4:37](https://www.linkedin.com/learning/rust-for-data-engineering/onboarding-to-gcp-with-python-and-rust?u=76281980&t=277)** Well, we also can install [[Rust (Programming Language)|Rust]].
 >
 > **[4:39](https://www.linkedin.com/learning/rust-for-data-engineering/onboarding-to-gcp-with-python-and-rust?u=76281980&t=279)** So I'm going to go here and I'm going to go to rustup, copy it, go to here and we just paste this can in.
 >
@@ -6344,7 +6279,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), cloud (7), [[Google Cloud Platform (GCP)|Google cloud]] (5), [[Rust (Programming Language)|Rust]] (5), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Google Cloud Platform (GCP)|Google cloud]] (5), [[Rust (Programming Language)|Rust]] (5), [[Microsoft Products|Products]] (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (2)
 > **CLI Commands:** python (12), make (6), cargo (6), git (2), gcloud (2)
 > **UI Navigation:** go to (8), toggle (1)
 > **Definitions:** is a  (5)
@@ -6353,12 +6288,11 @@ created: 2026-05-02
 > **Tools:** command line (4)
 > **Analogies:** for example (4)
 
-#### Using GCP Cloud Shell with Rust
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/using-gcp-cloud-shell-with-rust?u=76281980)
+#### [Using GCP Cloud Shell with Rust](https://www.linkedin.com/learning/rust-for-data-engineering/using-gcp-cloud-shell-with-rust?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/using-gcp-cloud-shell-with-rust?u=76281980&t=8)** - [Instructor] Here we have the Google Cloud Shell which is a very interesting environment to do both systems administration tasks like talking to storage or controlling applications, but also do doing light development.
+> **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/using-gcp-cloud-shell-with-rust?u=76281980&t=8)** - [Instructor] Here we have the [[Google Cloud Platform (GCP)|Google Cloud]] Shell which is a very interesting environment to do both systems administration tasks like talking to storage or controlling applications, but also do doing light development.
 >
 > **[0:20](https://www.linkedin.com/learning/rust-for-data-engineering/using-gcp-cloud-shell-with-rust?u=76281980&t=20)** So let's take a look at some of the things that you can do.
 >
@@ -6394,7 +6328,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/rust-for-data-engineering/using-gcp-cloud-shell-with-rust?u=76281980&t=87)** Now another thing to be aware of that's a little bit interesting is that you can do light development inside of this environment.
 >
-> **[1:35](https://www.linkedin.com/learning/rust-for-data-engineering/using-gcp-cloud-shell-with-rust?u=76281980&t=95)** So what I'm going to do first is I'm going to go to rustup and I'm going to install Rust inside of this environment.
+> **[1:35](https://www.linkedin.com/learning/rust-for-data-engineering/using-gcp-cloud-shell-with-rust?u=76281980&t=95)** So what I'm going to do first is I'm going to go to rustup and I'm going to install [[Rust (Programming Language)|Rust]] inside of this environment.
 >
 > **[1:41](https://www.linkedin.com/learning/rust-for-data-engineering/using-gcp-cloud-shell-with-rust?u=76281980&t=101)** So we'll go ahead and curl this and it will proceed.
 >
@@ -6438,7 +6372,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/rust-for-data-engineering/using-gcp-cloud-shell-with-rust?u=76281980&t=204)** And if we look at this, I'm able to see this hello world application.
 >
-> **[3:27](https://www.linkedin.com/learning/rust-for-data-engineering/using-gcp-cloud-shell-with-rust?u=76281980&t=207)** So it's actually not a bad environment for doing quick prototyping.
+> **[3:27](https://www.linkedin.com/learning/rust-for-data-engineering/using-gcp-cloud-shell-with-rust?u=76281980&t=207)** So it's actually not a bad environment for doing quick [[Prototyping]].
 >
 > **[3:32](https://www.linkedin.com/learning/rust-for-data-engineering/using-gcp-cloud-shell-with-rust?u=76281980&t=212)** And if we want to go into the code itself and change it a little bit, let's go into the code here and just change it so that we know that we can easily do modifications.
 >
@@ -6460,7 +6394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), web (3), [[Rust (Programming Language)|Rust]] (2), [[Prototyping]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2), [[Prototyping]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** cargo (5), ls (1), curl (1)
 > **UI Navigation:** go to (3), toggle (1)
 > **Definitions:** is a  (4)
@@ -6469,8 +6403,7 @@ created: 2026-05-02
 > **Ports:** port 8080 (1)
 > **Tools:** terminal (1)
 
-#### Learn AWS CloudShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/learn-aws-cloudshell?u=76281980)
+#### [Learn AWS CloudShell](https://www.linkedin.com/learning/rust-for-data-engineering/learn-aws-cloudshell?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6660,7 +6593,7 @@ created: 2026-05-02
 >
 > **[6:52](https://www.linkedin.com/learning/rust-for-data-engineering/learn-aws-cloudshell?u=76281980&t=412)** So we have two environments here that we could play around with, but we're not done.
 >
-> **[6:56](https://www.linkedin.com/learning/rust-for-data-engineering/learn-aws-cloudshell?u=76281980&t=416)** If you're a .NET developer you may want to use the PowerShell prompts.
+> **[6:56](https://www.linkedin.com/learning/rust-for-data-engineering/learn-aws-cloudshell?u=76281980&t=416)** If you're a .NET developer you may want to use the [[Powershell]] prompts.
 >
 > **[7:02](https://www.linkedin.com/learning/rust-for-data-engineering/learn-aws-cloudshell?u=76281980&t=422)** Here we go.
 >
@@ -6756,7 +6689,7 @@ created: 2026-05-02
 >
 > **[10:50](https://www.linkedin.com/learning/rust-for-data-engineering/learn-aws-cloudshell?u=76281980&t=650)** And if I wanted to make small changes, the synchronization command will actually keep them up to date.
 >
-> **[10:56](https://www.linkedin.com/learning/rust-for-data-engineering/learn-aws-cloudshell?u=76281980&t=656)** So really you can see how the CloudShell, if you're working with any kind of a data pipeline, data engineering, machine learning engineering, is really invaluable.
+> **[10:56](https://www.linkedin.com/learning/rust-for-data-engineering/learn-aws-cloudshell?u=76281980&t=656)** So really you can see how the CloudShell, if you're working with any kind of a data pipeline, [[Data Engineering]], machine learning engineering, is really invaluable.
 >
 > **[11:05](https://www.linkedin.com/learning/rust-for-data-engineering/learn-aws-cloudshell?u=76281980&t=665)** So let's go back to the AWS CloudShell here.
 >
@@ -6788,7 +6721,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (12), data (2), cd (2), [[Powershell]] (2), api (1)
+> **Frameworks & Libraries:** [[Powershell]] (2), [[Data Engineering]] (1)
 > **CLI Commands:** aws (12), cat (4), ls (2), cd (2), make (2)
 > **Tools:** bash (11), zsh (5), command line (2), powershell (2), terminal (1)
 > **Env Vars:** aws (9), bash (2), zsh (2), net (2), csv (1)
@@ -6797,14 +6730,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Documentation:** the documentation (1)
 
-#### Prototyping AI APIs with AWS CloudShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/prototyping-ai-apis-with-aws-cloudshell?u=76281980)
+#### [Prototyping AI APIs with AWS CloudShell](https://www.linkedin.com/learning/rust-for-data-engineering/prototyping-ai-apis-with-aws-cloudshell?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:07](https://www.linkedin.com/learning/rust-for-data-engineering/prototyping-ai-apis-with-aws-cloudshell?u=76281980&t=7)** - [Instructor] Okay, let's get started here with these AI services.
 >
-> **[0:11](https://www.linkedin.com/learning/rust-for-data-engineering/prototyping-ai-apis-with-aws-cloudshell?u=76281980&t=11)** On AWS, we have everything from advanced text analytics, automated code reviews, chatbots, forecasting, document analysis, you name it.
+> **[0:11](https://www.linkedin.com/learning/rust-for-data-engineering/prototyping-ai-apis-with-aws-cloudshell?u=76281980&t=11)** On AWS, we have everything from advanced text analytics, automated code reviews, chatbots, [[Forecasting]], document analysis, you name it.
 >
 > **[0:21](https://www.linkedin.com/learning/rust-for-data-engineering/prototyping-ai-apis-with-aws-cloudshell?u=76281980&t=21)** There's a lot of things.
 >
@@ -6862,13 +6794,13 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/rust-for-data-engineering/prototyping-ai-apis-with-aws-cloudshell?u=76281980&t=226)** In fact, I definitely have done this in my life.
 >
-> **[3:48](https://www.linkedin.com/learning/rust-for-data-engineering/prototyping-ai-apis-with-aws-cloudshell?u=76281980&t=228)** And what's cool is we can also use it to do data science.
+> **[3:48](https://www.linkedin.com/learning/rust-for-data-engineering/prototyping-ai-apis-with-aws-cloudshell?u=76281980&t=228)** And what's cool is we can also use it to do [[Data Science]].
 >
 > **[3:51](https://www.linkedin.com/learning/rust-for-data-engineering/prototyping-ai-apis-with-aws-cloudshell?u=76281980&t=231)** And so what I'm going to do now is I'm going to grab a little bit of a snippet here of code that I have and I'm going to walk you through what it does.
 >
 > **[4:01](https://www.linkedin.com/learning/rust-for-data-engineering/prototyping-ai-apis-with-aws-cloudshell?u=76281980&t=241)** Alright, let's take a look at what this code does.
 >
-> **[4:03](https://www.linkedin.com/learning/rust-for-data-engineering/prototyping-ai-apis-with-aws-cloudshell?u=76281980&t=243)** We use lynx, and then we put in the word dump, and this will just dump the text out to the standard out of bash.
+> **[4:03](https://www.linkedin.com/learning/rust-for-data-engineering/prototyping-ai-apis-with-aws-cloudshell?u=76281980&t=243)** We use lynx, and then we put in the [[Microsoft Word|word]] dump, and this will just dump the text out to the standard out of bash.
 >
 > **[4:12](https://www.linkedin.com/learning/rust-for-data-engineering/prototyping-ai-apis-with-aws-cloudshell?u=76281980&t=252)** And what I do is I look at this website, so let's go ahead and browse it first.
 >
@@ -7010,13 +6942,13 @@ created: 2026-05-02
 >
 > **[12:13](https://www.linkedin.com/learning/rust-for-data-engineering/prototyping-ai-apis-with-aws-cloudshell?u=76281980&t=733)** So these are all things that are potentially interesting to me if I was going to do further data science on it.
 >
-> **[12:18](https://www.linkedin.com/learning/rust-for-data-engineering/prototyping-ai-apis-with-aws-cloudshell?u=76281980&t=738)** So you are not limited to using Python, or using C#, or using R or some other language to do some very complex data science.
+> **[12:18](https://www.linkedin.com/learning/rust-for-data-engineering/prototyping-ai-apis-with-aws-cloudshell?u=76281980&t=738)** So you are not limited to using [[Python (Programming Language)|Python]], or using C#, or using R or some other language to do some very complex data science.
 >
 > **[12:30](https://www.linkedin.com/learning/rust-for-data-engineering/prototyping-ai-apis-with-aws-cloudshell?u=76281980&t=750)** If you use the CloudShell and use bash at the same time, you can very, very quickly, at least prototype a solution using an AI API.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (10), data (6), ai (4), [[Microsoft Word|Word]] (4), next (3)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Microsoft Word|Word]] (4), [[Forecasting]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** aws (10), find (2), sudo (1), yum (1), make (1)
 > **Tools:** bash (6), terminal (2), command line (2)
 > **Env Vars:** text (3), aws (1), api (1)
@@ -7025,8 +6957,7 @@ created: 2026-05-02
 > **Warnings:** be aware (2)
 > **Prerequisites:** install (2)
 
-#### Cloud9 with CodeWhisperer
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/cloud9-with-codewhisperer?u=76281980)
+#### [Cloud9 with CodeWhisperer](https://www.linkedin.com/learning/rust-for-data-engineering/cloud9-with-codewhisperer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7052,7 +6983,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/rust-for-data-engineering/cloud9-with-codewhisperer?u=76281980&t=70)** It's always a good idea to pick a size that is appropriate for the problem you're solving.
 >
-> **[1:15](https://www.linkedin.com/learning/rust-for-data-engineering/cloud9-with-codewhisperer?u=76281980&t=75)** In general, if you're just toying around, you can leave everything by default and also include the Amazon Linux 2.
+> **[1:15](https://www.linkedin.com/learning/rust-for-data-engineering/cloud9-with-codewhisperer?u=76281980&t=75)** In general, if you're just toying around, you can leave everything by default and also include the Amazon [[Linux]] 2.
 >
 > **[1:22](https://www.linkedin.com/learning/rust-for-data-engineering/cloud9-with-codewhisperer?u=76281980&t=82)** In this scenario though, I'm going to grab a slightly larger instance, grab one that has 16 gigs of RAM and four CPUs, and then I'll go ahead and say create environment.
 >
@@ -7068,7 +6999,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/rust-for-data-engineering/cloud9-with-codewhisperer?u=76281980&t=149)** And in particular, one of the best ways to show what you can do is if I typed in aws s3 ls and I did help, you can see that I've actually got a help menu here that I can actually play around with and it'll tell me exactly what it is that my particular tool will do, so all of the AWS tools are installed inside of this environment.
 >
-> **[2:54](https://www.linkedin.com/learning/rust-for-data-engineering/cloud9-with-codewhisperer?u=76281980&t=174)** And if I wanted to, I could actually do more, right, I could go through here and say aws s3 ls to list all of the buckets I have, and then do a word count to actually count how many buckets are available.
+> **[2:54](https://www.linkedin.com/learning/rust-for-data-engineering/cloud9-with-codewhisperer?u=76281980&t=174)** And if I wanted to, I could actually do more, right, I could go through here and say aws s3 ls to list all of the buckets I have, and then do a [[Microsoft Word|word]] count to actually count how many buckets are available.
 >
 > **[3:08](https://www.linkedin.com/learning/rust-for-data-engineering/cloud9-with-codewhisperer?u=76281980&t=188)** So this is really a depot where you could play around with every single resource from the command line and even copy data back and forth inside of this environment, so for example, if I wanted to upload something, I could just say upload local file, grab something from my file system, like whatever it is I'm going to do.
 >
@@ -7082,19 +7013,19 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/rust-for-data-engineering/cloud9-with-codewhisperer?u=76281980&t=255)** If I wanted to, I could even deploy a service, I could say create a new service here and deploy it.
 >
-> **[4:21](https://www.linkedin.com/learning/rust-for-data-engineering/cloud9-with-codewhisperer?u=76281980&t=261)** I could look at my container registry, IoT, Lambda.
+> **[4:21](https://www.linkedin.com/learning/rust-for-data-engineering/cloud9-with-codewhisperer?u=76281980&t=261)** I could look at my container registry, [[IoT]], Lambda.
 >
 > **[4:25](https://www.linkedin.com/learning/rust-for-data-engineering/cloud9-with-codewhisperer?u=76281980&t=265)** And I have the ability to interact with all of these different resources, so for example, if I took a look at one of these, I could say invoke on AWS and I could actually send a payload over to that Lambda, or I could even download it and play around with it locally.
 >
 > **[4:41](https://www.linkedin.com/learning/rust-for-data-engineering/cloud9-with-codewhisperer?u=76281980&t=281)** So there's a lot of great right-click type integration built into Cloud9.
 >
-> **[4:46](https://www.linkedin.com/learning/rust-for-data-engineering/cloud9-with-codewhisperer?u=76281980&t=286)** The other thing that's pretty cool is that it has the Cloud Development Kit loaded and it also has the ability to do code completion, in this case, this is called CodeWhisperer, so it's AI pair programming.
+> **[4:46](https://www.linkedin.com/learning/rust-for-data-engineering/cloud9-with-codewhisperer?u=76281980&t=286)** The other thing that's pretty cool is that it has the [[Cloud Development]] Kit loaded and it also has the ability to do code completion, in this case, this is called CodeWhisperer, so it's AI pair programming.
 >
 > **[5:00](https://www.linkedin.com/learning/rust-for-data-engineering/cloud9-with-codewhisperer?u=76281980&t=300)** And a good way to play around with that would be to set up a virtual environment first, let's go ahead and do that.
 >
 > **[5:08](https://www.linkedin.com/learning/rust-for-data-engineering/cloud9-with-codewhisperer?u=76281980&t=308)** We'll go ahead and say python3 -m venv, and I'm going to source this virtual environment, and then I'm going to do a pip install of boto3.
 >
-> **[5:18](https://www.linkedin.com/learning/rust-for-data-engineering/cloud9-with-codewhisperer?u=76281980&t=318)** And I'll also do a pip install of a formatting tool called Python Black, I found that formatting tools are really helpful when you're working with a AI pair programmer, so we'll say pip install black, and this will allow me to also format code.
+> **[5:18](https://www.linkedin.com/learning/rust-for-data-engineering/cloud9-with-codewhisperer?u=76281980&t=318)** And I'll also do a pip install of a formatting tool called [[Python (Programming Language)|Python]] Black, I found that formatting tools are really helpful when you're working with a AI pair programmer, so we'll say pip install black, and this will allow me to also format code.
 >
 > **[5:35](https://www.linkedin.com/learning/rust-for-data-engineering/cloud9-with-codewhisperer?u=76281980&t=335)** Now that I've got that set up, what I can do is go back to the file tree view, and I can actually create a file called s3.py to try out this code peer programming tool here.
 >
@@ -7144,7 +7075,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (15), [[Programming]] (3), ai (3), [[Python (Programming Language)|Python]] (3), prompt (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Linux]] (1), [[Microsoft Word|Word]] (1), [[IoT]] (1), [[Cloud Development]] (1)
 > **CLI Commands:** aws (15), make (6), pip (3), python (3), ls (2)
 > **Env Vars:** aws (12), ram (1)
 > **Prerequisites:** set up (3), install (3)
@@ -7153,14 +7084,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), select the (1), right-click (1)
 > **Analogies:** for example (2), just like (1)
 
-#### Demo: GCP App Engine Rust Deploy
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/demo-gcp-app-engine-rust-deploy?u=76281980)
+#### [Demo: GCP App Engine Rust Deploy](https://www.linkedin.com/learning/rust-for-data-engineering/demo-gcp-app-engine-rust-deploy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/demo-gcp-app-engine-rust-deploy?u=76281980&t=8)** - [Instructor] Here we have an App Engine environment and I've configured it so that it is going to tell me about how to run other environments.
 >
-> **[0:15](https://www.linkedin.com/learning/rust-for-data-engineering/demo-gcp-app-engine-rust-deploy?u=76281980&t=15)** So this flexible environment, what I'm going to do here is actually use the Rust language to deploy a microservice with this particular App Engine framework.
+> **[0:15](https://www.linkedin.com/learning/rust-for-data-engineering/demo-gcp-app-engine-rust-deploy?u=76281980&t=15)** So this flexible environment, what I'm going to do here is actually use the [[Rust (Programming Language)|Rust]] language to deploy a microservice with this particular App Engine framework.
 >
 > **[0:25](https://www.linkedin.com/learning/rust-for-data-engineering/demo-gcp-app-engine-rust-deploy?u=76281980&t=25)** So what do we do?
 >
@@ -7230,15 +7160,15 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/rust-for-data-engineering/demo-gcp-app-engine-rust-deploy?u=76281980&t=270)** And when you're finished you can also see how other types of languages help you with the App Engine deploy process.
 >
-> **[4:38](https://www.linkedin.com/learning/rust-for-data-engineering/demo-gcp-app-engine-rust-deploy?u=76281980&t=278)** For example, in Python I could select the official runtime, python37 or if I wanted to do automatic deployment, I could even add individual steps by adding a cloudbuild.yaml file.
+> **[4:38](https://www.linkedin.com/learning/rust-for-data-engineering/demo-gcp-app-engine-rust-deploy?u=76281980&t=278)** For example, in [[Python (Programming Language)|Python]] I could select the official runtime, python37 or if I wanted to do automatic deployment, I could even add individual steps by adding a cloudbuild.yaml file.
 >
 > **[4:52](https://www.linkedin.com/learning/rust-for-data-engineering/demo-gcp-app-engine-rust-deploy?u=76281980&t=292)** So the idea here is that it's a very flexible environment for doing deployments and you can easily switch from language to language, either Rust or Python.
 >
-> **[5:02](https://www.linkedin.com/learning/rust-for-data-engineering/demo-gcp-app-engine-rust-deploy?u=76281980&t=302)** Go, it has lots of options available for you and it all starts with the shell and the shell then turns into a continuous delivery process depending on what kind of technique you want to use.
+> **[5:02](https://www.linkedin.com/learning/rust-for-data-engineering/demo-gcp-app-engine-rust-deploy?u=76281980&t=302)** Go, it has lots of options available for you and it all starts with the shell and the shell then turns into a [[Continuous Delivery (CD)|continuous delivery]] process depending on what kind of technique you want to use.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Rust (Programming Language)|Rust]] (4), web (2), application (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), [[Python (Programming Language)|Python]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **CLI Commands:** cargo (4), make (3), gcloud (2), python (2), cd (1)
 > **UI Navigation:** go to (3), select the (1)
 > **File Paths:** app.yaml (2), cloudbuild.yaml (1)
@@ -7247,8 +7177,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Containerized Rust Actix Microservice on AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/containerized-rust-actix-microservice-on-aws?u=76281980)
+#### [Containerized Rust Actix Microservice on AWS](https://www.linkedin.com/learning/rust-for-data-engineering/containerized-rust-actix-microservice-on-aws?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7260,7 +7189,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/rust-for-data-engineering/containerized-rust-actix-microservice-on-aws?u=76281980&t=24)** Let's go ahead and dive into it.
 >
-> **[0:25](https://www.linkedin.com/learning/rust-for-data-engineering/containerized-rust-actix-microservice-on-aws?u=76281980&t=25)** So here we have this Rust tutorial that I've been hooking up here that's in the notes that you can link to, and we see that it says Containerized Active Microservice.
+> **[0:25](https://www.linkedin.com/learning/rust-for-data-engineering/containerized-rust-actix-microservice-on-aws?u=76281980&t=25)** So here we have this [[Rust (Programming Language)|Rust]] tutorial that I've been hooking up here that's in the notes that you can link to, and we see that it says Containerized Active Microservice.
 >
 > **[0:36](https://www.linkedin.com/learning/rust-for-data-engineering/containerized-rust-actix-microservice-on-aws?u=76281980&t=36)** I have a link to the project.
 >
@@ -7386,7 +7315,7 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/rust-for-data-engineering/containerized-rust-actix-microservice-on-aws?u=76281980&t=330)** And this is why I think it is good to have a nice beefy machine, you know, when you're when you're working with this.
 >
-> **[5:36](https://www.linkedin.com/learning/rust-for-data-engineering/containerized-rust-actix-microservice-on-aws?u=76281980&t=336)** So it's going to do what I just did in Codespaces, but it's going to put it inside of Cloud9.
+> **[5:36](https://www.linkedin.com/learning/rust-for-data-engineering/containerized-rust-actix-microservice-on-aws?u=76281980&t=336)** So it's going to do what I just did in [[Codespaces]], but it's going to put it inside of Cloud9.
 >
 > **[5:41](https://www.linkedin.com/learning/rust-for-data-engineering/containerized-rust-actix-microservice-on-aws?u=76281980&t=341)** So I think this really shows as well what's cooking.
 >
@@ -7422,7 +7351,7 @@ created: 2026-05-02
 >
 > **[7:34](https://www.linkedin.com/learning/rust-for-data-engineering/containerized-rust-actix-microservice-on-aws?u=76281980&t=454)** I'm pretty confident this is going to work.
 >
-> **[7:38](https://www.linkedin.com/learning/rust-for-data-engineering/containerized-rust-actix-microservice-on-aws?u=76281980&t=458)** And what's awesome about this is it shows why many people should seriously consider using Rust for microservices, right?
+> **[7:38](https://www.linkedin.com/learning/rust-for-data-engineering/containerized-rust-actix-microservice-on-aws?u=76281980&t=458)** And what's awesome about this is it shows why many people should seriously consider using Rust for [[Microservices]], right?
 >
 > **[7:52](https://www.linkedin.com/learning/rust-for-data-engineering/containerized-rust-actix-microservice-on-aws?u=76281980&t=472)** Because we know that the binary is just massively small.
 >
@@ -7458,7 +7387,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (6), web (3), cd (3), next (2), aws (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (6), [[Codespaces]] (1), [[Microservices]] (1)
 > **CLI Commands:** docker (8), cargo (3), cd (3), aws (1), make (1)
 > **Env Vars:** ecr (3), aws (1), api (1), https (1)
 > **UI Navigation:** go to (6)
@@ -7472,12 +7401,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Jack and the Beanstalk data pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/jack-and-the-beanstalk-data-pipelines?u=76281980)
+#### [Jack and the Beanstalk data pipelines](https://www.linkedin.com/learning/rust-for-data-engineering/jack-and-the-beanstalk-data-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/jack-and-the-beanstalk-data-pipelines?u=76281980&t=5)** - [Instructor] Let's use the fairytale, "Jack and the Beanstalk" as an analogy for building data pipelines.
+> **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/jack-and-the-beanstalk-data-pipelines?u=76281980&t=5)** - [Instructor] Let's use the fairytale, "Jack and the Beanstalk" as an analogy for building [[Data Pipelines]].
 >
 > **[0:11](https://www.linkedin.com/learning/rust-for-data-engineering/jack-and-the-beanstalk-data-pipelines?u=76281980&t=11)** Let's get a recap of the story first.
 >
@@ -7497,7 +7425,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/rust-for-data-engineering/jack-and-the-beanstalk-data-pipelines?u=76281980&t=54)** First up, we have planting the beans.
 >
-> **[0:56](https://www.linkedin.com/learning/rust-for-data-engineering/jack-and-the-beanstalk-data-pipelines?u=76281980&t=56)** This is like data ingestion.
+> **[0:56](https://www.linkedin.com/learning/rust-for-data-engineering/jack-and-the-beanstalk-data-pipelines?u=76281980&t=56)** This is like [[Data Ingestion]].
 >
 > **[0:57](https://www.linkedin.com/learning/rust-for-data-engineering/jack-and-the-beanstalk-data-pipelines?u=76281980&t=57)** Just like how the magic beans are planted into the soil, the data ingestion is the process of importing, transferring, loading, and processing data for later use in storage or in a database.
 >
@@ -7505,7 +7433,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/rust-for-data-engineering/jack-and-the-beanstalk-data-pipelines?u=76281980&t=75)** Next step, we've got the growth of the beanstalk.
 >
-> **[1:18](https://www.linkedin.com/learning/rust-for-data-engineering/jack-and-the-beanstalk-data-pipelines?u=76281980&t=78)** Data processing is a very similar scenario.
+> **[1:18](https://www.linkedin.com/learning/rust-for-data-engineering/jack-and-the-beanstalk-data-pipelines?u=76281980&t=78)** [[Data Processing]] is a very similar scenario.
 >
 > **[1:22](https://www.linkedin.com/learning/rust-for-data-engineering/jack-and-the-beanstalk-data-pipelines?u=76281980&t=82)** As the beans grew into a giant beanstalk, the data also needs to go through a transformation process.
 >
@@ -7523,7 +7451,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/rust-for-data-engineering/jack-and-the-beanstalk-data-pipelines?u=76281980&t=121)** Next up, we have the giant's castle.
 >
-> **[2:03](https://www.linkedin.com/learning/rust-for-data-engineering/jack-and-the-beanstalk-data-pipelines?u=76281980&t=123)** This is data storage and analysis.
+> **[2:03](https://www.linkedin.com/learning/rust-for-data-engineering/jack-and-the-beanstalk-data-pipelines?u=76281980&t=123)** This is [[Data Storage]] and analysis.
 >
 > **[2:06](https://www.linkedin.com/learning/rust-for-data-engineering/jack-and-the-beanstalk-data-pipelines?u=76281980&t=126)** The giant's castle in the clouds has treasures, and this is similar to data.
 >
@@ -7539,41 +7467,40 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/rust-for-data-engineering/jack-and-the-beanstalk-data-pipelines?u=76281980&t=163)** This is a lot like Jack sharing his wealth with his mother and improving their lives.
 >
-> **[2:48](https://www.linkedin.com/learning/rust-for-data-engineering/jack-and-the-beanstalk-data-pipelines?u=76281980&t=168)** So just like the adventure with "Jack and the Beanstalk," a data pipeline is an exciting journey for data, and it takes raw data, transforms it, and turns it into valuable insights, enriching the decision-making process of a business.
+> **[2:48](https://www.linkedin.com/learning/rust-for-data-engineering/jack-and-the-beanstalk-data-pipelines?u=76281980&t=168)** So just like the adventure with "Jack and the Beanstalk," a data pipeline is an exciting journey for data, and it takes raw data, transforms it, and turns it into valuable insights, enriching the [[Decision-Making]] process of a business.
 >
 > **[3:02](https://www.linkedin.com/learning/rust-for-data-engineering/jack-and-the-beanstalk-data-pipelines?u=76281980&t=182)** And in a data-driven world, they lived all happily ever after.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), next (3), database (1), cloud (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Data Ingestion]] (2), [[Data Processing]] (2), [[Data Pipelines]] (1), [[Data Storage]] (1), [[Decision-Making]] (1)
 > **Analogies:** just like (3), similar to (2)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Open source data engineering: Pros and cons
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980)
+#### [Open source data engineering: Pros and cons](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:04](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=4)** - [Instructor] Let's take a look at the common data engineering tools that are used in industry with a focus on open source here.
+> **[0:04](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=4)** - [Instructor] Let's take a look at the common [[Data Engineering]] tools that are used in industry with a focus on open source here.
 >
-> **[0:12](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=12)** To start off with, we have the Hadoop Spark Hive ecosystem.
+> **[0:12](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=12)** To start off with, we have the [[Hadoop]] Spark Hive ecosystem.
 >
 > **[0:17](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=17)** And first let's look at some of the pros here of these particular tools here.
 >
-> **[0:21](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=21)** Scalability, you can use these to handle large data.
+> **[0:21](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=21)** [[Scalability]], you can use these to handle large data.
 >
 > **[0:25](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=25)** Also, flexibility.
 >
-> **[0:27](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=27)** You can process a wide variety of data types and structures including semi-structured or unstructured data.
+> **[0:27](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=27)** You can process a wide variety of data types and structures including semi-structured or [[Unstructured Data]].
 >
 > **[0:34](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=34)** Cost effectiveness.
 >
-> **[0:35](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=35)** You can use commodity hardware and also integration.
+> **[0:35](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=35)** You can use commodity [[Hardware]] and also integration.
 >
-> **[0:38](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=38)** So you can use things like SQL to get things done.
+> **[0:38](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=38)** So you can use things like [[SQL]] to get things done.
 >
 > **[0:41](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=41)** In terms of the cons here, there is a little bit of complexity that you have to deal with.
 >
@@ -7593,9 +7520,9 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=93)** So what this means is that you can use pipelines for bad streaming and also combine different workloads.
 >
-> **[1:40](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=100)** It's also portable, so you can use it on lots of different run times like Flink or Google Cloud, Dataflow or Spark, et cetera.
+> **[1:40](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=100)** It's also portable, so you can use it on lots of different run times like Flink or [[Google Cloud Platform (GCP)|Google Cloud]], Dataflow or Spark, et cetera.
 >
-> **[1:49](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=109)** And also has support for multiple languages meaning that you can use Go, Python, Java, et cetera.
+> **[1:49](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=109)** And also has support for multiple languages meaning that you can use Go, [[Python (Programming Language)|Python]], [[Java]], et cetera.
 >
 > **[1:56](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=116)** Now, in terms of complexity though, this is one of the the downsides of Beam also limited adoption.
 >
@@ -7607,7 +7534,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=141)** We also have airflow, which is also a very common tool that we can learn about.
 >
-> **[2:27](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=147)** And in terms of airflow, one of the things that you can be aware of is that they have workflow management in terms of a pro, it's got powerful tools for defining and executing and monitoring complex data pipelines, scalability as well.
+> **[2:27](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=147)** And in terms of airflow, one of the things that you can be aware of is that they have [[Workflow Management]] in terms of a pro, it's got powerful tools for defining and executing and monitoring complex [[Data Pipelines]], scalability as well.
 >
 > **[2:42](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=162)** So it has great scalability characteristics.
 >
@@ -7619,7 +7546,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=193)** So next up here we can also talk about the pros and cons of both Kafka and RabbitMQ and in particular here, a few of the things that we can care about would be that in terms of high throughput, scalability, fault tolerance, they have the ability to really handle tremendous amounts of data.
 >
-> **[3:37](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=217)** These are some of the strengths with these particular systems for real-time message exchange.
+> **[3:37](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=217)** These are some of the strengths with these particular systems for [[Real-Time]] message exchange.
 >
 > **[3:42](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=222)** In terms of the cons though maybe one of the things that could be an issue is the message handling, right?
 >
@@ -7635,7 +7562,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=258)** And one of the things that's important about Cassandra as a pro is that it is actually very scalable, right?
 >
-> **[4:26](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=266)** So it's designed to do distributed NoSQL in terms of the flexibility data structure as well.
+> **[4:26](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=266)** So it's designed to do distributed [[NoSQL]] in terms of the flexibility data structure as well.
 >
 > **[4:35](https://www.linkedin.com/learning/rust-for-data-engineering/open-source-data-engineering-pros-and-cons?u=76281980&t=275)** We can see that it has the ability to do, semi-structured data of structured data, et cetera.
 >
@@ -7655,7 +7582,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Scalability]] (4), [[Data Engineering]] (2), management (2), [[Hadoop]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (4), [[Data Engineering]] (2), [[Hadoop]] (1), [[Unstructured Data]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Definitions:** is a  (2)
 > **Warnings:** be aware (2)
@@ -7663,18 +7590,17 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Core components of data engineering pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/core-components-of-data-engineering-pipelines?u=76281980)
+#### [Core components of data engineering pipelines](https://www.linkedin.com/learning/rust-for-data-engineering/core-components-of-data-engineering-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/core-components-of-data-engineering-pipelines?u=76281980&t=5)** - [Instructor] Here we have a data engineering pipelines diagram where I've been able to whittle things down to really three different components of a data engineering pipeline.
+> **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/core-components-of-data-engineering-pipelines?u=76281980&t=5)** - [Instructor] Here we have a [[Data Engineering]] pipelines diagram where I've been able to whittle things down to really three different components of a data engineering pipeline.
 >
-> **[0:16](https://www.linkedin.com/learning/rust-for-data-engineering/core-components-of-data-engineering-pipelines?u=76281980&t=16)** First up we have data ingestion, second up, data processing, third, data storage.
+> **[0:16](https://www.linkedin.com/learning/rust-for-data-engineering/core-components-of-data-engineering-pipelines?u=76281980&t=16)** First up we have [[Data Ingestion]], second up, [[Data Processing]], third, [[Data Storage]].
 >
 > **[0:21](https://www.linkedin.com/learning/rust-for-data-engineering/core-components-of-data-engineering-pipelines?u=76281980&t=21)** So these are really the uniform aspects of a data engineering pipeline that are always present.
 >
-> **[0:27](https://www.linkedin.com/learning/rust-for-data-engineering/core-components-of-data-engineering-pipelines?u=76281980&t=27)** The orange items here, resilience, scalability, monitoring, these are components that are really persistent in that they're going to be a part of any data engineering pipeline that goes into production.
+> **[0:27](https://www.linkedin.com/learning/rust-for-data-engineering/core-components-of-data-engineering-pipelines?u=76281980&t=27)** The orange items here, resilience, [[Scalability]], monitoring, these are components that are really persistent in that they're going to be a part of any data engineering pipeline that goes into production.
 >
 > **[0:39](https://www.linkedin.com/learning/rust-for-data-engineering/core-components-of-data-engineering-pipelines?u=76281980&t=39)** So let's go ahead and talk through each of these components.
 >
@@ -7684,7 +7610,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/rust-for-data-engineering/core-components-of-data-engineering-pipelines?u=76281980&t=50)** And the data can come from multiple sources.
 >
-> **[0:52](https://www.linkedin.com/learning/rust-for-data-engineering/core-components-of-data-engineering-pipelines?u=76281980&t=52)** It could be a database, a data lake, or even real-time data streams.
+> **[0:52](https://www.linkedin.com/learning/rust-for-data-engineering/core-components-of-data-engineering-pipelines?u=76281980&t=52)** It could be a database, a data lake, or even [[Real-Time]] data streams.
 >
 > **[0:56](https://www.linkedin.com/learning/rust-for-data-engineering/core-components-of-data-engineering-pipelines?u=76281980&t=56)** And it's going to be able to process that data from a collection standpoint.
 >
@@ -7726,18 +7652,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Data Engineering]] (6), [[Scalability]] (4), database (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (6), [[Scalability]] (4), [[Data Storage]] (3), [[Data Ingestion]] (2), [[Data Processing]] (2)
 > **Analogies:** for example (3)
 > **Definitions:** means that (2)
 > **Env Vars:** etl (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rust AWS step functions pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/rust-aws-step-functions-pipeline?u=76281980)
+#### [Rust AWS step functions pipeline](https://www.linkedin.com/learning/rust-for-data-engineering/rust-aws-step-functions-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/rust-aws-step-functions-pipeline?u=76281980&t=8)** - [Instructor] Okay, let's dive into how to build step functions from AWS using Rust.
+> **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/rust-aws-step-functions-pipeline?u=76281980&t=8)** - [Instructor] Okay, let's dive into how to build step functions from AWS using [[Rust (Programming Language)|Rust]].
 >
 > **[0:15](https://www.linkedin.com/learning/rust-for-data-engineering/rust-aws-step-functions-pipeline?u=76281980&t=15)** Step functions are really powerful in terms of serverless workflows, because you can chain together multiple operations, and take the input of one Lambda function, process it, and then put the output into another Lambda function.
 >
@@ -7783,7 +7708,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/rust-for-data-engineering/rust-aws-step-functions-pipeline?u=76281980&t=102)** And we say, let name event.payload.name.
 >
-> **[1:45](https://www.linkedin.com/learning/rust-for-data-engineering/rust-aws-step-functions-pipeline?u=76281980&t=105)** So I take the name value from the JSON payload, and I say, listen, if the name is Marco, then I would actually like to make the payload body Polo, otherwise let's make it nobody.
+> **[1:45](https://www.linkedin.com/learning/rust-for-data-engineering/rust-aws-step-functions-pipeline?u=76281980&t=105)** So I take the name value from the [[JSON]] payload, and I say, listen, if the name is Marco, then I would actually like to make the payload body Polo, otherwise let's make it nobody.
 >
 > **[2:01](https://www.linkedin.com/learning/rust-for-data-engineering/rust-aws-step-functions-pipeline?u=76281980&t=121)** And I also add some tracing here, so that I can have some debugging inside of my Lambda console.
 >
@@ -7835,7 +7760,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/rust-for-data-engineering/rust-aws-step-functions-pipeline?u=76281980&t=215)** So at first I say, let the name is you go to payload, payload.
 >
-> **[3:40](https://www.linkedin.com/learning/rust-for-data-engineering/rust-aws-step-functions-pipeline?u=76281980&t=220)** And then if I look for the word Polo, right?
+> **[3:40](https://www.linkedin.com/learning/rust-for-data-engineering/rust-aws-step-functions-pipeline?u=76281980&t=220)** And then if I look for the [[Microsoft Word|word]] Polo, right?
 >
 > **[3:42](https://www.linkedin.com/learning/rust-for-data-engineering/rust-aws-step-functions-pipeline?u=76281980&t=222)** That was the successful response from Marco.
 >
@@ -7931,7 +7856,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (16), aws (3), [[Debugging]] (3), [[JSON]] (2), next (2)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (16), [[JSON]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (10), cargo (4), aws (3)
 > **Env Vars:** aws (3), json (2)
 > **UI Navigation:** go to (3), drag and drop (1)
@@ -7940,12 +7865,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** command line (1)
 
-#### Rust AWS Lambda Async S3 size calculator
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/rust-aws-lambda-async-s3-size-calculator?u=76281980)
+#### [Rust AWS Lambda Async S3 size calculator](https://www.linkedin.com/learning/rust-for-data-engineering/rust-aws-lambda-async-s3-size-calculator?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/rust-aws-lambda-async-s3-size-calculator?u=76281980&t=8)** - [Instructor] Here is the architecture of an AWS Rust Lambda that is a systems programming type Lambda.
+> **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/rust-aws-lambda-async-s3-size-calculator?u=76281980&t=8)** - [Instructor] Here is the architecture of an AWS [[Rust (Programming Language)|Rust]] Lambda that is a systems programming type Lambda.
 >
 > **[0:15](https://www.linkedin.com/learning/rust-for-data-engineering/rust-aws-lambda-async-s3-size-calculator?u=76281980&t=15)** What does it do?
 >
@@ -7973,7 +7897,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/rust-for-data-engineering/rust-aws-lambda-async-s3-size-calculator?u=76281980&t=84)** Now that you've seen how this works, let's go ahead and look at the code itself.
 >
-> **[1:28](https://www.linkedin.com/learning/rust-for-data-engineering/rust-aws-lambda-async-s3-size-calculator?u=76281980&t=88)** So if we go into GitHub Codespaces, I've got a async AWS Lambda here, and you can see some of the code where I say use AWS SDK S3.
+> **[1:28](https://www.linkedin.com/learning/rust-for-data-engineering/rust-aws-lambda-async-s3-size-calculator?u=76281980&t=88)** So if we go into [[GitHub]] [[Codespaces]], I've got a async AWS Lambda here, and you can see some of the code where I say use AWS SDK S3.
 >
 > **[1:39](https://www.linkedin.com/learning/rust-for-data-engineering/rust-aws-lambda-async-s3-size-calculator?u=76281980&t=99)** I make a AWS S3 client first.
 >
@@ -8053,7 +7977,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), [[Rust (Programming Language)|Rust]] (4), [[Programming]] (1), power (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), [[GitHub]] (1), [[Codespaces]] (1)
 > **CLI Commands:** aws (7), cargo (4), make (3)
 > **Env Vars:** aws (7), sdk (4), efs (1), emr (1), ebs (1)
 > **Tools:** command line (2), github (1), terminal (1)
@@ -8062,8 +7986,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is Distroless?
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-distroless?u=76281980)
+#### [What is Distroless?](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-distroless?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8103,24 +8026,23 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-distroless?u=76281980&t=113)** Finally, with multi-language support, much like the meal of rice and beans that provides a complete protein source for anyone regardless of dietary preferences, distroless containers can host applications written in various programming languages, offering a versatile platform for developers.
 >
-> **[2:13](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-distroless?u=76281980&t=133)** Really, in a nutshell, Google Distroless containers is a lot like a simple, yet complete meal of rice and beans offering everything needed and nothing more.
+> **[2:13](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-distroless?u=76281980&t=133)** Really, in a nutshell, [[Google]] Distroless containers is a lot like a simple, yet complete meal of rice and beans offering everything needed and nothing more.
 >
 > **[2:22](https://www.linkedin.com/learning/rust-for-data-engineering/what-is-distroless?u=76281980&t=142)** They're a secure, maintainable, reproducible, and inclusive environment for deploying applications, making them a nutritious and budget-friendly choice for your software diet.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), application (1), [[Programming]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Deploying Rust microservices on GCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/demo-deploying-rust-microservices-on-gcp?u=76281980)
+#### [Demo: Deploying Rust microservices on GCP](https://www.linkedin.com/learning/rust-for-data-engineering/demo-deploying-rust-microservices-on-gcp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/demo-deploying-rust-microservices-on-gcp?u=76281980&t=8)** - [Instructor] Here we have a repository that has a Rust microservice that's already been built inside.
+> **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/demo-deploying-rust-microservices-on-gcp?u=76281980&t=8)** - [Instructor] Here we have a repository that has a [[Rust (Programming Language)|Rust]] microservice that's already been built inside.
 >
 > **[0:14](https://www.linkedin.com/learning/rust-for-data-engineering/demo-deploying-rust-microservices-on-gcp?u=76281980&t=14)** And you can see here when it's deployed it will look like this.
 >
@@ -8128,9 +8050,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/rust-for-data-engineering/demo-deploying-rust-microservices-on-gcp?u=76281980&t=24)** So what does the architecture look like for this application?
 >
-> **[0:27](https://www.linkedin.com/learning/rust-for-data-engineering/demo-deploying-rust-microservices-on-gcp?u=76281980&t=27)** To start with, we have this concept of a continuous delivery of a containerized rust microservice on the Google Cloud platform.
+> **[0:27](https://www.linkedin.com/learning/rust-for-data-engineering/demo-deploying-rust-microservices-on-gcp?u=76281980&t=27)** To start with, we have this concept of a [[Continuous Delivery (CD)|continuous delivery]] of a containerized rust microservice on the [[Google Cloud Platform (GCP)|Google Cloud platform]].
 >
-> **[0:35](https://www.linkedin.com/learning/rust-for-data-engineering/demo-deploying-rust-microservices-on-gcp?u=76281980&t=35)** The code will live in GitHub.
+> **[0:35](https://www.linkedin.com/learning/rust-for-data-engineering/demo-deploying-rust-microservices-on-gcp?u=76281980&t=35)** The code will live in [[GitHub]].
 >
 > **[0:38](https://www.linkedin.com/learning/rust-for-data-engineering/demo-deploying-rust-microservices-on-gcp?u=76281980&t=38)** Any change that's made will be triggered into the GCP Cloud Build environment, which in turn can auto deploy into the containerized container as a service cloud run application.
 >
@@ -8272,7 +8194,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), [[Rust (Programming Language)|Rust]] (10), application (7), next (4), [[Continuous Delivery (CD)|Continuous delivery]] (3)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (10), [[Continuous Delivery (CD)|Continuous delivery]] (3), [[Google Cloud Platform (GCP)|Google cloud platform]] (2), [[GitHub]] (2)
 > **CLI Commands:** cargo (6), docker (2), curl (2)
 > **UI Navigation:** go to (6), select the (2)
 > **Tools:** terminal (3), github (2)
@@ -8286,12 +8208,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Hugging Face Hub
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980)
+#### [Introduction to Hugging Face Hub](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980&t=8)** - [Instructor] Hugging Face Hub is really about just a few products.
+> **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980&t=8)** - [Instructor] [[Hugging Face]] Hub is really about just a few [[Microsoft Products|products]].
 >
 > **[0:12](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980&t=12)** First, you have the ability to log in and create an account and you can see here's my profile and I have settings enabled as well.
 >
@@ -8299,7 +8220,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980&t=34)** The access token allows you to programmatically interact with the Hugging Face Hub.
 >
-> **[0:39](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980&t=39)** So what it means is that from GitHub actions, you could push maybe artifacts into Hugging Face from a development environment, you could go through and read and write data, for example, a dataset or you could configure a Spaces application as well.
+> **[0:39](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980&t=39)** So what it means is that from [[GitHub]] actions, you could push maybe artifacts into Hugging Face from a development environment, you could go through and read and write data, for example, a dataset or you could configure a Spaces application as well.
 >
 > **[0:58](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980&t=58)** So I would say this is the first part of the Hugging Face Hub is make sure you got an account and you've created an access token and save that token somewhere secure.
 >
@@ -8315,13 +8236,13 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980&t=92)** We have image classification, translation, et cetera.
 >
-> **[1:36](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980&t=96)** And if we go through here, you can even pull down even higher level categories like computer vision.
+> **[1:36](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980&t=96)** And if we go through here, you can even pull down even higher level categories like [[Computer Vision]].
 >
-> **[1:42](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980&t=102)** These are all models that deal with computer vision, natural language processing like translation or doing text generation.
+> **[1:42](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980&t=102)** These are all models that deal with computer vision, [[Natural Language Processing (NLP)|natural language processing]] like translation or doing text generation.
 >
 > **[1:51](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980&t=111)** We also have audio.
 >
-> **[1:53](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980&t=113)** In this case, you could see things like automatic speech recognition.
+> **[1:53](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980&t=113)** In this case, you could see things like automatic [[Speech Recognition]].
 >
 > **[1:57](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980&t=117)** In fact, if we select automatic speech recognition here, one of the things you'll notice here is that they have a sort by the most downloads.
 >
@@ -8337,7 +8258,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980&t=168)** Now, if we go to datasets, the next thing to be aware of with datasets is that there are also a large amount of datasets.
 >
-> **[2:56](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980&t=176)** And the reason why these datasets are interesting is that they can be used for fine tuning.
+> **[2:56](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980&t=176)** And the reason why these datasets are interesting is that they can be used for [[Fine Tuning]].
 >
 > **[3:03](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980&t=183)** So this means that you can customize these pre-trained models and make them even more accurate for particular problems you're solving.
 >
@@ -8375,7 +8296,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980&t=280)** You can actually read through and look at the particular files that were used for something.
 >
-> **[4:46](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980&t=286)** Here's another one, Stable Diffusion Demo.
+> **[4:46](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980&t=286)** Here's another one, [[Stable Diffusion]] Demo.
 >
 > **[4:49](https://www.linkedin.com/learning/rust-for-data-engineering/introduction-to-hugging-face-hub?u=76281980&t=289)** We can see there's an application file right here and they're using Gradio for their Spaces application.
 >
@@ -8385,7 +8306,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (8), application (3), [[Speech Recognition]] (3), data (2), next (2)
+> **Frameworks & Libraries:** [[Hugging Face]] (8), [[Speech Recognition]] (3), [[Computer Vision]] (2), [[Microsoft Products|Products]] (1), [[GitHub]] (1)
 > **UI Navigation:** go to (5)
 > **CLI Commands:** make (3)
 > **Env Vars:** api (2)
@@ -8394,12 +8315,11 @@ created: 2026-05-02
 > **Warnings:** be aware (2)
 > **Prerequisites:** configure (1)
 
-#### Rust PyTorch pre-trained model ecosystem
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-pre-trained-model-ecosystem?u=76281980)
+#### [Rust PyTorch pre-trained model ecosystem](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-pre-trained-model-ecosystem?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-pre-trained-model-ecosystem?u=76281980&t=5)** - [Lecturer] Here we have some new ideas around bringing models to production using things like pre-trained models in PyTorch with the rust language.
+> **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-pre-trained-model-ecosystem?u=76281980&t=5)** - [Lecturer] Here we have some new ideas around bringing models to production using things like pre-trained models in [[PyTorch]] with the [[Rust (Programming Language)|rust]] language.
 >
 > **[0:15](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-pre-trained-model-ecosystem?u=76281980&t=15)** Let's go ahead and walk through some of the ideas here.
 >
@@ -8419,7 +8339,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-pre-trained-model-ecosystem?u=76281980&t=84)** Also, with Onnx, you have the ability to do interoperability.
 >
-> **[1:28](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-pre-trained-model-ecosystem?u=76281980&t=88)** What this means is that you can use different, you know PyTorch or TensorFlow or you know, maybe MXNet these different machine learning libraries and make them work in a similar way.
+> **[1:28](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-pre-trained-model-ecosystem?u=76281980&t=88)** What this means is that you can use different, you know PyTorch or [[TensorFlow]] or you know, maybe MXNet these different machine learning libraries and make them work in a similar way.
 >
 > **[1:40](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-pre-trained-model-ecosystem?u=76281980&t=100)** So it's a way of making a uniformed interface.
 >
@@ -8433,7 +8353,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-pre-trained-model-ecosystem?u=76281980&t=143)** This makes the deployment minimal, secure and extremely efficient by reducing the attack surface of the container image and also making it very efficient for inference.
 >
-> **[2:34](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-pre-trained-model-ecosystem?u=76281980&t=154)** Finally, in this whole ecosystem here, why would we care about this versus other solutions like Python.
+> **[2:34](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-pre-trained-model-ecosystem?u=76281980&t=154)** Finally, in this whole ecosystem here, why would we care about this versus other solutions like [[Python (Programming Language)|Python]].
 >
 > **[2:41](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-pre-trained-model-ecosystem?u=76281980&t=161)** Well, part of it is that we are building things with rust, you know, which has concurrency and safety features.
 >
@@ -8445,35 +8365,34 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-pre-trained-model-ecosystem?u=76281980&t=193)** So it could be using something like GCP.
 >
-> **[3:16](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-pre-trained-model-ecosystem?u=76281980&t=196)** For example, using one of their container services or a EWS or using Azure or maybe your own data center.
+> **[3:16](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-pre-trained-model-ecosystem?u=76281980&t=196)** For example, using one of their container services or a EWS or using [[Microsoft Azure|Azure]] or maybe your own data center.
 >
 > **[3:24](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-pre-trained-model-ecosystem?u=76281980&t=204)** The idea here is that once you've got this ecosystem here of Actix, PyTorch, Rust, Onyx, distroless, it's actually a modern stack here that many organizations that are deploying machinery models should consider.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (8), [[PyTorch]] (5), web (3), [[Programming]] (2), [[TensorFlow]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (8), [[PyTorch]] (5), [[TensorFlow]] (1), [[Python (Programming Language)|Python]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Env Vars:** gcp (1), ews (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Rust GPU Hugging Face translator
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/rust-gpu-hugging-face-translator?u=76281980)
+#### [Rust GPU Hugging Face translator](https://www.linkedin.com/learning/rust-for-data-engineering/rust-gpu-hugging-face-translator?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:04](https://www.linkedin.com/learning/rust-for-data-engineering/rust-gpu-hugging-face-translator?u=76281980&t=4)** - [Instructor] One of the most powerful ways to use Rust is to dive into using things like pre-trained models, using GPU, building high performance command line tools that you can do batch-based machine learning inference against.
+> **[0:04](https://www.linkedin.com/learning/rust-for-data-engineering/rust-gpu-hugging-face-translator?u=76281980&t=4)** - [Instructor] One of the most powerful ways to use [[Rust (Programming Language)|Rust]] is to dive into using things like pre-trained models, using GPU, building high performance command line tools that you can do batch-based machine learning inference against.
 >
-> **[0:18](https://www.linkedin.com/learning/rust-for-data-engineering/rust-gpu-hugging-face-translator?u=76281980&t=18)** What I'm going to show you is how simple it is to use GitHub Codespaces with A GPU, enable that GPU, build up the Rust bindings for it and take a translation tool and build it out in just a few minutes.
+> **[0:18](https://www.linkedin.com/learning/rust-for-data-engineering/rust-gpu-hugging-face-translator?u=76281980&t=18)** What I'm going to show you is how simple it is to use [[GitHub]] [[Codespaces]] with A GPU, enable that GPU, build up the Rust bindings for it and take a translation tool and build it out in just a few minutes.
 >
 > **[0:31](https://www.linkedin.com/learning/rust-for-data-engineering/rust-gpu-hugging-face-translator?u=76281980&t=31)** Okay, let's go ahead and get started.
 >
-> **[0:32](https://www.linkedin.com/learning/rust-for-data-engineering/rust-gpu-hugging-face-translator?u=76281980&t=32)** Here I've got a repo nogibjj, rust-pytorch-gpu-template that has all the things you need to get GPUs cooking in Codespaces.
+> **[0:32](https://www.linkedin.com/learning/rust-for-data-engineering/rust-gpu-hugging-face-translator?u=76281980&t=32)** Here I've got a repo nogibjj, rust-[[PyTorch]]-gpu-template that has all the things you need to get GPUs cooking in Codespaces.
 >
 > **[0:42](https://www.linkedin.com/learning/rust-for-data-engineering/rust-gpu-hugging-face-translator?u=76281980&t=42)** And what I'm going to take a look at here is the diagram of what we're going to build.
 >
-> **[0:46](https://www.linkedin.com/learning/rust-for-data-engineering/rust-gpu-hugging-face-translator?u=76281980&t=46)** So to start with, you have a Cuda GPU enabled in Codespaces and then I'm going to go through and use the Rust bindings for Hugging Face.
+> **[0:46](https://www.linkedin.com/learning/rust-for-data-engineering/rust-gpu-hugging-face-translator?u=76281980&t=46)** So to start with, you have a Cuda GPU enabled in Codespaces and then I'm going to go through and use the Rust bindings for [[Hugging Face]].
 >
 > **[0:55](https://www.linkedin.com/learning/rust-for-data-engineering/rust-gpu-hugging-face-translator?u=76281980&t=55)** Again, Rust is a high performance language that allows you to build very performant tools and then we're going to put that together and use it to enable Rust and GPU plus Hugging Face to translate a song that's in Spanish to English.
 >
@@ -8535,7 +8454,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/rust-for-data-engineering/rust-gpu-hugging-face-translator?u=76281980&t=202)** And then I build a function that allows me to read a file and return back a string, right?
 >
-> **[3:28](https://www.linkedin.com/learning/rust-for-data-engineering/rust-gpu-hugging-face-translator?u=76281980&t=208)** Pretty straightforward, something you do in Python as well.
+> **[3:28](https://www.linkedin.com/learning/rust-for-data-engineering/rust-gpu-hugging-face-translator?u=76281980&t=208)** Pretty straightforward, something you do in [[Python (Programming Language)|Python]] as well.
 >
 > **[3:31](https://www.linkedin.com/learning/rust-for-data-engineering/rust-gpu-hugging-face-translator?u=76281980&t=211)** Then I build another function that reads a file and returns an array of lines of the file.
 >
@@ -8604,16 +8523,15 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 
-#### Rust PyTorch high-performance options
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980)
+#### [Rust PyTorch high-performance options](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:04](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980&t=4)** - One of the things I hear a lot about using Rust is there's this kind of hesitancy about, you know, well it's a newer language, even though it's been around since 2010, and maybe people are concerned about, you know, can it be used in the real world?
+> **[0:04](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980&t=4)** - One of the things I hear a lot about using [[Rust (Programming Language)|Rust]] is there's this kind of hesitancy about, you know, well it's a newer language, even though it's been around since 2010, and maybe people are concerned about, you know, can it be used in the real world?
 >
 > **[0:19](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980&t=19)** Well, I wanted to just spell a few things.
 >
-> **[0:22](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980&t=22)** First, I'm going to walk you through how to train models with PyTorch and invoke them using GPUs with the Rust PyTorch bindings.
+> **[0:22](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980&t=22)** First, I'm going to walk you through how to train models with [[PyTorch]] and invoke them using GPUs with the Rust PyTorch bindings.
 >
 > **[0:29](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980&t=29)** And I'm also going to talk a little bit about Firecracker.
 >
@@ -8623,7 +8541,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980&t=40)** If I could imagine the biggest possible, you know, server-based execution environment in the world, it's going to be on AWS, right?
 >
-> **[0:50](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980&t=50)** They are the 800 pound gorilla of cloud computing.
+> **[0:50](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980&t=50)** They are the 800 pound gorilla of [[Cloud Computing]].
 >
 > **[0:53](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980&t=53)** And in fact, one of their most popular services is AWS Lambda.
 >
@@ -8689,7 +8607,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980&t=263)** And this is really just copying the code that was from the main author.
 >
-> **[4:27](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980&t=267)** And then if I want to look at mnist-cli-gpu, we could take a look at that as well.
+> **[4:27](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980&t=267)** And then if I want to look at mnist-[[CLI]]-gpu, we could take a look at that as well.
 >
 > **[4:33](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980&t=273)** And if I want a cd into that one, we can go into that and say, mnist-cli-gpu, and what does this code do?
 >
@@ -8713,7 +8631,7 @@ created: 2026-05-02
 >
 > **[5:38](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980&t=338)** And then finally, this is the part where I actually build out the neural network, and then I go through here and I run my code.
 >
-> **[5:47](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980&t=347)** So it's not that much different than looking at Python code here.
+> **[5:47](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980&t=347)** So it's not that much different than looking at [[Python (Programming Language)|Python]] code here.
 >
 > **[5:51](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980&t=351)** And if we want to go through and reproduce it, all we need to do is just run this command.
 >
@@ -8729,7 +8647,7 @@ created: 2026-05-02
 >
 > **[6:17](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980&t=377)** We see this thing's rapidly saturating the GPU, got this thing cranking, and we're able to train this model.
 >
-> **[6:24](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980&t=384)** So it's really a pretty good tool for people that want to use high performance systems, programming languages to train deep learning models.
+> **[6:24](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980&t=384)** So it's really a pretty good tool for people that want to use high performance systems, programming languages to train [[Deep Learning]] models.
 >
 > **[6:36](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980&t=396)** My experience with the PyTorch bindings for Rust is that they're extremely good.
 >
@@ -8743,7 +8661,7 @@ created: 2026-05-02
 >
 > **[7:11](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980&t=431)** This is really an emerging trend here, which is that people I think are seriously considering how do I actually package together models using portable formats like ONNX, and actually put together tools, and then give those tools to other people.
 >
-> **[7:26](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980&t=446)** And I think this is really the future of one version of MLOps, is to package your models together, and actually distribute them to other people.
+> **[7:26](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980&t=446)** And I think this is really the future of one version of [[MLOps]], is to package your models together, and actually distribute them to other people.
 >
 > **[7:35](https://www.linkedin.com/learning/rust-for-data-engineering/rust-pytorch-high-performance-options?u=76281980&t=455)** So I would heavily encourage people to take a look at this.
 >
@@ -8753,7 +8671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PyTorch]] (15), [[Rust (Programming Language)|Rust]] (13), aws (7), cd (2), [[CLI]] (2)
+> **Frameworks & Libraries:** [[PyTorch]] (15), [[Rust (Programming Language)|Rust]] (13), [[CLI]] (2), [[Python (Programming Language)|Python]] (2), [[MLOps]] (2)
 > **Env Vars:** aws (7), gpu (7), readme (2), onnx (1)
 > **CLI Commands:** aws (7), cargo (3), cd (2), python (2), make (1)
 > **UI Navigation:** go to (8)
@@ -8762,18 +8680,17 @@ created: 2026-05-02
 > **Documentation:** the readme (2)
 > **Definitions:** is a  (2)
 
-#### EFS ONNX Rust inference with AWS Lambda
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/efs-onnx-rust-inference-with-aws-lambda?u=76281980)
+#### [EFS ONNX Rust inference with AWS Lambda](https://www.linkedin.com/learning/rust-for-data-engineering/efs-onnx-rust-inference-with-aws-lambda?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/efs-onnx-rust-inference-with-aws-lambda?u=76281980&t=8)** - [Instructor] Let's take a look at this project which is MLOPs Inference using the ONNX model format mounted via EFS and also invoked via AWS Lambda.
+> **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/efs-onnx-rust-inference-with-aws-lambda?u=76281980&t=8)** - [Instructor] Let's take a look at this project which is [[MLOps]] Inference using the ONNX model format mounted via EFS and also invoked via AWS Lambda.
 >
 > **[0:20](https://www.linkedin.com/learning/rust-for-data-engineering/efs-onnx-rust-inference-with-aws-lambda?u=76281980&t=20)** So the reason for doing this is so that you can use serverless technology, like in this case, it would be AWS Lambda to serve out inference.
 >
 > **[0:30](https://www.linkedin.com/learning/rust-for-data-engineering/efs-onnx-rust-inference-with-aws-lambda?u=76281980&t=30)** And this is an emerging standard here where the advantages of serverless is you don't have to manage it.
 >
-> **[0:36](https://www.linkedin.com/learning/rust-for-data-engineering/efs-onnx-rust-inference-with-aws-lambda?u=76281980&t=36)** It's easy to deploy, especially, if you're using a high performance language that supports binary deployment like Rust.
+> **[0:36](https://www.linkedin.com/learning/rust-for-data-engineering/efs-onnx-rust-inference-with-aws-lambda?u=76281980&t=36)** It's easy to deploy, especially, if you're using a high performance language that supports binary deployment like [[Rust (Programming Language)|Rust]].
 >
 > **[0:43](https://www.linkedin.com/learning/rust-for-data-engineering/efs-onnx-rust-inference-with-aws-lambda?u=76281980&t=43)** All you need to do is go through here and deploy a binary that has the ability to mount the model via EFS.
 >
@@ -8807,7 +8724,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/rust-for-data-engineering/efs-onnx-rust-inference-with-aws-lambda?u=76281980&t=131)** Finally, once you've got all that set up, you can then go to a different development environment if you want.
 >
-> **[2:16](https://www.linkedin.com/learning/rust-for-data-engineering/efs-onnx-rust-inference-with-aws-lambda?u=76281980&t=136)** I prefer GitHub Codespaces and you can use the Cargo Lambda package to go back and forth and test out your deployment and actually get things cooking.
+> **[2:16](https://www.linkedin.com/learning/rust-for-data-engineering/efs-onnx-rust-inference-with-aws-lambda?u=76281980&t=136)** I prefer [[GitHub]] [[Codespaces]] and you can use the Cargo Lambda package to go back and forth and test out your deployment and actually get things cooking.
 >
 > **[2:25](https://www.linkedin.com/learning/rust-for-data-engineering/efs-onnx-rust-inference-with-aws-lambda?u=76281980&t=145)** So let's go ahead and walk through how we would do that.
 >
@@ -8845,7 +8762,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/rust-for-data-engineering/efs-onnx-rust-inference-with-aws-lambda?u=76281980&t=234)** So I would recommend you use the mount helper here, go ahead and do that.
 >
-> **[3:59](https://www.linkedin.com/learning/rust-for-data-engineering/efs-onnx-rust-inference-with-aws-lambda?u=76281980&t=239)** Once you've got that set up, let's go over to EC2 here.
+> **[3:59](https://www.linkedin.com/learning/rust-for-data-engineering/efs-onnx-rust-inference-with-aws-lambda?u=76281980&t=239)** Once you've got that set up, let's go over to [[Amazon EC2|EC2]] here.
 >
 > **[4:02](https://www.linkedin.com/learning/rust-for-data-engineering/efs-onnx-rust-inference-with-aws-lambda?u=76281980&t=242)** You're going to need to make sure that your security groups have the ability to communicate via 5049.
 >
@@ -8899,7 +8816,7 @@ created: 2026-05-02
 >
 > **[7:34](https://www.linkedin.com/learning/rust-for-data-engineering/efs-onnx-rust-inference-with-aws-lambda?u=76281980&t=454)** Now the only other thing that we need to do to kind of play around with this, is I like to put a a make file here together so that I make it really easy to test it.
 >
-> **[7:43](https://www.linkedin.com/learning/rust-for-data-engineering/efs-onnx-rust-inference-with-aws-lambda?u=76281980&t=463)** So in this case, I would just need to source my virtual environment 'cause it does actually use Python, believe it or not, to use the, the deployment, at least in order to install the extension for Cargo.
+> **[7:43](https://www.linkedin.com/learning/rust-for-data-engineering/efs-onnx-rust-inference-with-aws-lambda?u=76281980&t=463)** So in this case, I would just need to source my virtual environment 'cause it does actually use [[Python (Programming Language)|Python]], believe it or not, to use the, the deployment, at least in order to install the extension for Cargo.
 >
 > **[7:58](https://www.linkedin.com/learning/rust-for-data-engineering/efs-onnx-rust-inference-with-aws-lambda?u=76281980&t=478)** And then in order to test it, I can just type in make invoke and this will actually send a payload over to the Lambda and notice what it does.
 >
@@ -8929,7 +8846,7 @@ created: 2026-05-02
 >
 > **[9:10](https://www.linkedin.com/learning/rust-for-data-engineering/efs-onnx-rust-inference-with-aws-lambda?u=76281980&t=550)** So you could even evoke it by just selecting it.
 >
-> **[9:13](https://www.linkedin.com/learning/rust-for-data-engineering/efs-onnx-rust-inference-with-aws-lambda?u=76281980&t=553)** In terms of development, I do believe GitHub Codespaces is an ideal environment to develop in, 'cause you get access to copilot, you can actually go through and and test back and forth.
+> **[9:13](https://www.linkedin.com/learning/rust-for-data-engineering/efs-onnx-rust-inference-with-aws-lambda?u=76281980&t=553)** In terms of development, I do believe GitHub Codespaces is an ideal environment to develop in, 'cause you get access to [[Microsoft Copilot|copilot]], you can actually go through and and test back and forth.
 >
 > **[9:23](https://www.linkedin.com/learning/rust-for-data-engineering/efs-onnx-rust-inference-with-aws-lambda?u=76281980&t=563)** So that's it in a nutshell.
 >
@@ -8937,7 +8854,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), [[Security]] (5), [[MLOps]] (3), [[Rust (Programming Language)|Rust]] (3), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[MLOps]] (3), [[Rust (Programming Language)|Rust]] (3), [[GitHub]] (2), [[Codespaces]] (2), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** efs (21), onnx (8), aws (7), vpc (4), dns (1)
 > **CLI Commands:** aws (7), make (7), cargo (2), cd (1), python (1)
 > **Prerequisites:** set up (14), you'll need (1), install (1)
@@ -8946,8 +8863,7 @@ created: 2026-05-02
 > **Warnings:** be aware (3)
 > **Ports:** port 5049 (2)
 
-#### Theory behind model fine-tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/theory-behind-model-fine-tuning?u=76281980)
+#### [Theory behind model fine-tuning](https://www.linkedin.com/learning/rust-for-data-engineering/theory-behind-model-fine-tuning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8983,7 +8899,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/rust-for-data-engineering/theory-behind-model-fine-tuning?u=76281980&t=92)** Fortunately, this is where transfer learning comes in.
 >
-> **[1:35](https://www.linkedin.com/learning/rust-for-data-engineering/theory-behind-model-fine-tuning?u=76281980&t=95)** And really this is one of the advantages of the Hugging Face platform is that you can take a news dataset, for example, or some dataset that was trained in a particular domain, and you can take the body of that model, and you can actually replace the head, in this case, the news summarization model head.
+> **[1:35](https://www.linkedin.com/learning/rust-for-data-engineering/theory-behind-model-fine-tuning?u=76281980&t=95)** And really this is one of the advantages of the [[Hugging Face]] platform is that you can take a news dataset, for example, or some dataset that was trained in a particular domain, and you can take the body of that model, and you can actually replace the head, in this case, the news summarization model head.
 >
 > **[1:57](https://www.linkedin.com/learning/rust-for-data-engineering/theory-behind-model-fine-tuning?u=76281980&t=117)** You can fine-tune it with a smaller amount of data and then serve out a prediction.
 >
@@ -9001,18 +8917,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), nlp (2), [[Hugging Face]] (2)
+> **Frameworks & Libraries:** [[Hugging Face]] (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** nlp (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Doing fine-tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/doing-fine-tuning?u=76281980)
+#### [Doing fine-tuning](https://www.linkedin.com/learning/rust-for-data-engineering/doing-fine-tuning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/doing-fine-tuning?u=76281980&t=8)** - [Instructor] Let's go ahead and take a look at the official Hugging Face Documentation here, and take a look at this course.
+> **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/doing-fine-tuning?u=76281980&t=8)** - [Instructor] Let's go ahead and take a look at the official [[Hugging Face]] Documentation here, and take a look at this course.
 >
 > **[0:13](https://www.linkedin.com/learning/rust-for-data-engineering/doing-fine-tuning?u=76281980&t=13)** You can see there's lots of different useful things in this course, but I want to take a look at the Fine-Tuning Section here, Fine-Tuning a Pre-Trained Model, and take a look at how I could actually implement that myself.
 >
@@ -9032,13 +8947,13 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/rust-for-data-engineering/doing-fine-tuning?u=76281980&t=68)** Now what's nice about this is if I connect to the runtime by default, it's going to connect to a CPU based runtime here, and we can actually verify that.
 >
-> **[1:19](https://www.linkedin.com/learning/rust-for-data-engineering/doing-fine-tuning?u=76281980&t=79)** If I say Change Runtime Type, notice I don't have any Hardware Acceleration.
+> **[1:19](https://www.linkedin.com/learning/rust-for-data-engineering/doing-fine-tuning?u=76281980&t=79)** If I say Change Runtime Type, notice I don't have any [[Hardware]] Acceleration.
 >
 > **[1:24](https://www.linkedin.com/learning/rust-for-data-engineering/doing-fine-tuning?u=76281980&t=84)** What's nice about this is it allows me to benchmark what would happen if I needed to Fine-Tune a Model by training it with a CPU.
 >
 > **[1:33](https://www.linkedin.com/learning/rust-for-data-engineering/doing-fine-tuning?u=76281980&t=93)** And so we can actually go through here and say, Runtime, Run all, and this will actually allow me to go through and kick off a installation first.
 >
-> **[1:43](https://www.linkedin.com/learning/rust-for-data-engineering/doing-fine-tuning?u=76281980&t=103)** And we can see that it does take a little bit of time, when you're using Colab to install software, because of the fact that it is not preloaded on this machine unlike your own Workspace or something like GitHub Codespaces.
+> **[1:43](https://www.linkedin.com/learning/rust-for-data-engineering/doing-fine-tuning?u=76281980&t=103)** And we can see that it does take a little bit of time, when you're using Colab to install software, because of the fact that it is not preloaded on this machine unlike your own Workspace or something like [[GitHub]] [[Codespaces]].
 >
 > **[1:57](https://www.linkedin.com/learning/rust-for-data-engineering/doing-fine-tuning?u=76281980&t=117)** Next, if we scroll down here, it's going through and it's running the next section, which is loading this dataset, which could take a little bit of time here.
 >
@@ -9092,7 +9007,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/rust-for-data-engineering/doing-fine-tuning?u=76281980&t=286)** So let's go ahead and do this.
 >
-> **[4:47](https://www.linkedin.com/learning/rust-for-data-engineering/doing-fine-tuning?u=76281980&t=287)** We'll go ahead and say, Python hugging-face/ft, we'll say, Fine-Tuning Course Example.
+> **[4:47](https://www.linkedin.com/learning/rust-for-data-engineering/doing-fine-tuning?u=76281980&t=287)** We'll go ahead and say, [[Python (Programming Language)|Python]] hugging-face/ft, we'll say, Fine-Tuning Course Example.
 >
 > **[4:57](https://www.linkedin.com/learning/rust-for-data-engineering/doing-fine-tuning?u=76281980&t=297)** So I'm going to take the example from the official documentation.
 >
@@ -9154,7 +9069,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Hugging Face]] (4), data (4), [[Hardware]] (2), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Hugging Face]] (4), [[Hardware]] (2), [[GitHub]] (2), [[Codespaces]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** gpu (7), cpu (4), v100 (1)
 > **Tools:** colab (6), github (2)
 > **Cross-References:** go back to (3)
@@ -9168,16 +9083,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Selecting the correct database on GCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/selecting-the-correct-database-on-gcp?u=76281980)
+#### [Selecting the correct database on GCP](https://www.linkedin.com/learning/rust-for-data-engineering/selecting-the-correct-database-on-gcp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/selecting-the-correct-database-on-gcp?u=76281980&t=5)** - [Instructor] An important part of using databases on the Google Cloud platform is to consider the trade-offs of one type of specialized database solution versus another.
+> **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/selecting-the-correct-database-on-gcp?u=76281980&t=5)** - [Instructor] An important part of using [[Databases]] on the [[Google Cloud Platform (GCP)|Google Cloud platform]] is to consider the trade-offs of one type of specialized database solution versus another.
 >
-> **[0:16](https://www.linkedin.com/learning/rust-for-data-engineering/selecting-the-correct-database-on-gcp?u=76281980&t=16)** Let's take a look first here at this Google Cloud SQL option.
+> **[0:16](https://www.linkedin.com/learning/rust-for-data-engineering/selecting-the-correct-database-on-gcp?u=76281980&t=16)** Let's take a look first here at this [[Google Cloud Platform (GCP)|Google Cloud]] [[SQL]] option.
 >
-> **[0:21](https://www.linkedin.com/learning/rust-for-data-engineering/selecting-the-correct-database-on-gcp?u=76281980&t=21)** It's a fully managed database service that lets you maintain a traditional type database so a Postgres or MySQL or SQL Server database.
+> **[0:21](https://www.linkedin.com/learning/rust-for-data-engineering/selecting-the-correct-database-on-gcp?u=76281980&t=21)** It's a fully managed database service that lets you maintain a traditional type database so a [[PostgreSQL|Postgres]] or [[MySQL]] or [[Microsoft SQL Server|SQL Server]] database.
 >
 > **[0:31](https://www.linkedin.com/learning/rust-for-data-engineering/selecting-the-correct-database-on-gcp?u=76281980&t=31)** But the option here is that it allows you to use the Google Cloud infrastructure to do the heavy lifting for you.
 >
@@ -9201,19 +9115,19 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/rust-for-data-engineering/selecting-the-correct-database-on-gcp?u=76281980&t=108)** So if you wanted to build a global scale system, this would be Spanner, a good solution for you.
 >
-> **[1:54](https://www.linkedin.com/learning/rust-for-data-engineering/selecting-the-correct-database-on-gcp?u=76281980&t=114)** We also have Memorystore, which is a managed Redis service.
+> **[1:54](https://www.linkedin.com/learning/rust-for-data-engineering/selecting-the-correct-database-on-gcp?u=76281980&t=114)** We also have Memorystore, which is a managed [[Redis]] service.
 >
 > **[1:57](https://www.linkedin.com/learning/rust-for-data-engineering/selecting-the-correct-database-on-gcp?u=76281980&t=117)** So this is a caching based system that allows you to manage a cache based database.
 >
 > **[2:03](https://www.linkedin.com/learning/rust-for-data-engineering/selecting-the-correct-database-on-gcp?u=76281980&t=123)** So this is useful for storing, let's say, state in a game or storing things that potentially really need to be used at a frequent basis but you don't necessarily need to change very frequently.
 >
-> **[2:17](https://www.linkedin.com/learning/rust-for-data-engineering/selecting-the-correct-database-on-gcp?u=76281980&t=137)** We have Firestore as well and Firestore is a NoSQL document database that's built for automatic scaling.
+> **[2:17](https://www.linkedin.com/learning/rust-for-data-engineering/selecting-the-correct-database-on-gcp?u=76281980&t=137)** We have Firestore as well and Firestore is a [[NoSQL]] document database that's built for automatic scaling.
 >
 > **[2:23](https://www.linkedin.com/learning/rust-for-data-engineering/selecting-the-correct-database-on-gcp?u=76281980&t=143)** So this is almost a no server type solution in the sense that you're really building on top of a service versus managing the service yourself.
 >
 > **[2:34](https://www.linkedin.com/learning/rust-for-data-engineering/selecting-the-correct-database-on-gcp?u=76281980&t=154)** And application developers as well are very strong candidates for something like Firestore.
 >
-> **[2:40](https://www.linkedin.com/learning/rust-for-data-engineering/selecting-the-correct-database-on-gcp?u=76281980&t=160)** We also have Firestore Realtime Database and this is a JSON based solution that allows you to build cross-platform apps for Google, iOS, Android, JavaScript, right?
+> **[2:40](https://www.linkedin.com/learning/rust-for-data-engineering/selecting-the-correct-database-on-gcp?u=76281980&t=160)** We also have Firestore Realtime Database and this is a [[JSON]] based solution that allows you to build cross-platform apps for [[Google]], iOS, [[Android]], [[JavaScript]], right?
 >
 > **[2:52](https://www.linkedin.com/learning/rust-for-data-engineering/selecting-the-correct-database-on-gcp?u=76281980&t=172)** So you can build things very quickly by using these high level services.
 >
@@ -9231,7 +9145,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Databases]] (3), [[SQL]] (2), [[PostgreSQL|Postgres]] (2)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (4), [[Databases]] (3), [[SQL]] (2), [[PostgreSQL|Postgres]] (2), [[Redis]] (2)
 > **Definitions:** is a  (6)
 > **Env Vars:** sql (3), sla (1), json (1)
 > **CLI Commands:** mysql (1), mongo (1)
@@ -9239,26 +9153,25 @@ created: 2026-05-02
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rust SQLite Hugging Face zero-shot classification
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980)
+#### [Rust SQLite Hugging Face zero-shot classification](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:04](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=4)** - Let's talk about machine learning, machine learning operations, and also GPUs.
 >
-> **[0:09](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=9)** One of the things that I teach at some of the top universities in the world, including Duke, is MLOps.
+> **[0:09](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=9)** One of the things that I teach at some of the top universities in the world, including Duke, is [[MLOps]].
 >
 > **[0:15](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=15)** And what I'm personally excited about is taking machine learning models out of the notebooks where they're stuck and putting them into production.
 >
-> **[0:23](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=23)** And so one of the things that's exciting about Rust is it's the perfect language to do that.
+> **[0:23](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=23)** And so one of the things that's exciting about [[Rust (Programming Language)|Rust]] is it's the perfect language to do that.
 >
-> **[0:28](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=28)** I've heard many people have some critiques about Rust versus Python where they talk about how Python is one of the leading languages for machine learning.
+> **[0:28](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=28)** I've heard many people have some critiques about Rust versus [[Python (Programming Language)|Python]] where they talk about how Python is one of the leading languages for machine learning.
 >
 > **[0:37](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=37)** Well, what I'm going to show you is in fact, some of that can be debunked.
 >
 > **[0:42](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=42)** Rust is a amazing candidate for doing machine learning operations, because it has bindings for some of the most popular things that you'd like to do.
 >
-> **[0:52](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=52)** For example, PyTorch works in a trivial way with GPUs.
+> **[0:52](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=52)** For example, [[PyTorch]] works in a trivial way with GPUs.
 >
 > **[0:56](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=56)** In fact, you can take advantage of the fact that Rust can be up to 70 times faster for many operations, like on average.
 >
@@ -9274,9 +9187,9 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=86)** Rust is a production-first mindset language, because you can take a model, package it into a binary and then push that into production.
 >
-> **[1:34](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=94)** And that's really the advantage of using Rust for things like Hugging Face.
+> **[1:34](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=94)** And that's really the advantage of using Rust for things like [[Hugging Face]].
 >
-> **[1:39](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=99)** So what I'm going to do now is I'm going to dive into a example of how to build a lyrics analyzer that talks to a SQL database using Rust.
+> **[1:39](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=99)** So what I'm going to do now is I'm going to dive into a example of how to build a lyrics analyzer that talks to a [[SQL]] database using Rust.
 >
 > **[1:48](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=108)** And we're going to show how this can be combined into a chameleon tool.
 >
@@ -9330,13 +9243,13 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=271)** Let's take a look at how we're going to build this out.
 >
-> **[4:33](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=273)** We're going to have some assistance here with Copilot to allow us to leverage the power of the Cargo ecosystem to really kind of supercharge things.
+> **[4:33](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=273)** We're going to have some assistance here with [[Microsoft Copilot|Copilot]] to allow us to leverage the power of the Cargo ecosystem to really kind of supercharge things.
 >
-> **[4:43](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=283)** First up, I'll go through, I'll build something in GitHub.
+> **[4:43](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=283)** First up, I'll go through, I'll build something in [[GitHub]].
 >
 > **[4:45](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=285)** I'm going to use these powerful code space instances.
 >
-> **[4:48](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=288)** I'm also going to use this workflow of prompt through prompt engineering, format, lint, test, run, deploy, and Copilot is going to be involved really prompting us, and we're going to refine that by going through the traditional Cargo compiler.
+> **[4:48](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=288)** I'm also going to use this workflow of prompt through [[Prompt Engineering]], format, lint, test, run, deploy, and Copilot is going to be involved really prompting us, and we're going to refine that by going through the traditional Cargo compiler.
 >
 > **[5:03](https://www.linkedin.com/learning/rust-for-data-engineering/rust-sqlite-hugging-face-zero-shot-classification?u=76281980&t=303)** All right, so let's go ahead and get started here, and take a look at the Rust crate.
 >
@@ -9450,7 +9363,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (22), [[Python (Programming Language)|Python]] (8), [[Hugging Face]] (7), [[MLOps]] (6), database (6)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (22), [[Python (Programming Language)|Python]] (8), [[Hugging Face]] (7), [[MLOps]] (6), [[SQL]] (3)
 > **CLI Commands:** python (8), cargo (4), make (3), cd (1)
 > **Env Vars:** sql (3), nlp (1)
 > **Analogies:** for example (3), just like (1)
@@ -9459,18 +9372,17 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **UI Navigation:** select the (1)
 
-#### Prompt engineering for BigQuery
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-for-bigquery?u=76281980)
+#### [Prompt engineering for BigQuery](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-for-bigquery?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-for-bigquery?u=76281980&t=6)** - [Instructor] Welcome to OpenAI.
 >
-> **[0:07](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-for-bigquery?u=76281980&t=7)** You can see here that inside of OpenAI we can start doing prompt engineering.
+> **[0:07](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-for-bigquery?u=76281980&t=7)** You can see here that inside of OpenAI we can start doing [[Prompt Engineering]].
 >
 > **[0:12](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-for-bigquery?u=76281980&t=12)** The idea here is that if we go through and look at some of these examples, there are many different ways to get code out of a large language model.
 >
-> **[0:21](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-for-bigquery?u=76281980&t=21)** If we go to SQL Translate, this is a good example.
+> **[0:21](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-for-bigquery?u=76281980&t=21)** If we go to [[SQL]] Translate, this is a good example.
 >
 > **[0:24](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-for-bigquery?u=76281980&t=24)** I could go through here, open up a Playground, go ahead and submit it and try to get some SQL answers.
 >
@@ -9484,9 +9396,9 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-for-bigquery?u=76281980&t=47)** And if we go through here, we view this dataset.
 >
-> **[0:50](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-for-bigquery?u=76281980&t=50)** You can see that this is a rising trends here for the Google Cloud.
+> **[0:50](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-for-bigquery?u=76281980&t=50)** You can see that this is a rising trends here for the [[Google Cloud Platform (GCP)|Google Cloud]].
 >
-> **[0:55](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-for-bigquery?u=76281980&t=55)** And if we go through and we look at the Google trends, you can see there's things like top_rising_terms, for example.
+> **[0:55](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-for-bigquery?u=76281980&t=55)** And if we go through and we look at the [[Google]] trends, you can see there's things like top_rising_terms, for example.
 >
 > **[1:01](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-for-bigquery?u=76281980&t=61)** And if I wanted to go ahead and look at one of these queries, right?
 >
@@ -9498,7 +9410,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-for-bigquery?u=76281980&t=85)** What could I do?
 >
-> **[1:26](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-for-bigquery?u=76281980&t=86)** Well, an easy way to deal with this, is to actually grab a query and put it into ChatGPT.
+> **[1:26](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-for-bigquery?u=76281980&t=86)** Well, an easy way to deal with this, is to actually grab a query and put it into [[ChatGPT]].
 >
 > **[1:35](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-for-bigquery?u=76281980&t=95)** So if we go through here and I say, "I need you to explain this Google BigQuery query for me," right?
 >
@@ -9630,7 +9542,7 @@ created: 2026-05-02
 >
 > **[8:04](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-for-bigquery?u=76281980&t=484)** Okay, let's see what happens.
 >
-> **[8:05](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-for-bigquery?u=76281980&t=485)** Let's see if it understands a pretty complex natural language processing query.
+> **[8:05](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-for-bigquery?u=76281980&t=485)** Let's see if it understands a pretty complex [[Natural Language Processing (NLP)|natural language processing]] query.
 >
 > **[8:09](https://www.linkedin.com/learning/rust-for-data-engineering/prompt-engineering-for-bigquery?u=76281980&t=489)** "To expand it to return the 50 and include a generated column that counts the number of occurrences of a term, you can use COUNT function."
 >
@@ -9662,7 +9574,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (5), [[Prompt Engineering]] (4), [[ChatGPT]] (4), [[SQL]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Google]] (5), [[Prompt Engineering]] (4), [[ChatGPT]] (4), [[SQL]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Code Identifiers:** country_name (5), top_rising_terms (1)
 > **Env Vars:** sql (2), replace (1), select (1), group (1), count (1)
 > **CLI Commands:** make (5)
@@ -9671,12 +9583,11 @@ created: 2026-05-02
 > **SQL:** select (1), group by (1)
 > **Analogies:** for example (1)
 
-#### BigQuery to Colab pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/bigquery-to-colab-pipeline?u=76281980)
+#### [BigQuery to Colab pipeline](https://www.linkedin.com/learning/rust-for-data-engineering/bigquery-to-colab-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/bigquery-to-colab-pipeline?u=76281980&t=6)** - [Instructor] Let's go through and build a very realistic data cleansing and visualization pipeline using Google BigQuery.
+> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/bigquery-to-colab-pipeline?u=76281980&t=6)** - [Instructor] Let's go through and build a very realistic data cleansing and visualization pipeline using [[Google]] BigQuery.
 >
 > **[0:13](https://www.linkedin.com/learning/rust-for-data-engineering/bigquery-to-colab-pipeline?u=76281980&t=13)** This happens quite a bit.
 >
@@ -9742,11 +9653,11 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/rust-for-data-engineering/bigquery-to-colab-pipeline?u=76281980&t=160)** So we see this, we've actually got, you know a lot of results here that look pretty good and we could even go through and and filter in more and more and more.
 >
-> **[2:49](https://www.linkedin.com/learning/rust-for-data-engineering/bigquery-to-colab-pipeline?u=76281980&t=169)** But one of the things that we can do next here in instead of only using SQL, is we could actually go to explore the data.
+> **[2:49](https://www.linkedin.com/learning/rust-for-data-engineering/bigquery-to-colab-pipeline?u=76281980&t=169)** But one of the things that we can do next here in instead of only using [[SQL]], is we could actually go to explore the data.
 >
 > **[2:57](https://www.linkedin.com/learning/rust-for-data-engineering/bigquery-to-colab-pipeline?u=76281980&t=177)** So let's go ahead and explore the data.
 >
-> **[2:59](https://www.linkedin.com/learning/rust-for-data-engineering/bigquery-to-colab-pipeline?u=76281980&t=179)** But this time with CoLab Notebook and CoLab Notebook allows us to query things in Python.
+> **[2:59](https://www.linkedin.com/learning/rust-for-data-engineering/bigquery-to-colab-pipeline?u=76281980&t=179)** But this time with CoLab Notebook and CoLab Notebook allows us to query things in [[Python (Programming Language)|Python]].
 >
 > **[3:05](https://www.linkedin.com/learning/rust-for-data-engineering/bigquery-to-colab-pipeline?u=76281980&t=185)** So I could actually go through and filter what's happening by looking at it in Python.
 >
@@ -9808,7 +9719,7 @@ created: 2026-05-02
 >
 > **[5:11](https://www.linkedin.com/learning/rust-for-data-engineering/bigquery-to-colab-pipeline?u=76281980&t=311)** We can see Noah Cyrus is a very big Wikipedia page.
 >
-> **[5:15](https://www.linkedin.com/learning/rust-for-data-engineering/bigquery-to-colab-pipeline?u=76281980&t=315)** We see ChatGPT is a very big Wikipedia page.
+> **[5:15](https://www.linkedin.com/learning/rust-for-data-engineering/bigquery-to-colab-pipeline?u=76281980&t=315)** We see [[ChatGPT]] is a very big Wikipedia page.
 >
 > **[5:18](https://www.linkedin.com/learning/rust-for-data-engineering/bigquery-to-colab-pipeline?u=76281980&t=318)** We see, you know, other people as well.
 >
@@ -9816,7 +9727,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Google]] (2), next (2), [[Python (Programming Language)|Python]] (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Python (Programming Language)|Python]] (2), [[SQL]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** python (2), make (1), find (1)
 > **Env Vars:** sns (2), sql (1)
 > **Tools:** colab (3)
@@ -9825,20 +9736,19 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** setup (1)
 
-#### Exploring data with BigQuery
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980)
+#### [Exploring data with BigQuery](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980&t=6)** - [Instructor] One of the more powerful tools on the Google Cloud platform to explore data is BigQuery.
+> **[0:06](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980&t=6)** - [Instructor] One of the more powerful tools on the [[Google Cloud Platform (GCP)|Google Cloud platform]] to explore data is BigQuery.
 >
-> **[0:13](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980&t=13)** If we take a look at this overview here we see that you could compose a new query, add some data even upload a local file.
+> **[0:13](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980&t=13)** If we take a look at this overview here we see that you could [[Jetpack Compose|compose]] a new query, add some data even upload a local file.
 >
 > **[0:20](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980&t=20)** So there's a lot of easy ways to get started but probably one of the most powerful is to use the public dataset.
 >
-> **[0:26](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980&t=26)** So if we go ahead and we take a look at a existing Google Trends dataset here this is a great way to dive into understanding how to use a particular dataset.
+> **[0:26](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980&t=26)** So if we go ahead and we take a look at a existing [[Google]] Trends dataset here this is a great way to dive into understanding how to use a particular dataset.
 >
-> **[0:38](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980&t=38)** The first thing that I typically will do is look at you know, what the metadata is about this particular dataset you can see it was last modified September 20th, 2022.
+> **[0:38](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980&t=38)** The first thing that I typically will do is look at you know, what the [[Metadata]] is about this particular dataset you can see it was last modified September 20th, 2022.
 >
 > **[0:51](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980&t=51)** And this is a Google Trends dataset.
 >
@@ -9886,7 +9796,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980&t=204)** Now, one of the things that is a kind of fun thing to do once you've got a data set like this is to explore the data further, right?
 >
-> **[3:32](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980&t=212)** So as a data scientist if you're going to build a machine learning model a lot of times you need to first look at the data even beyond just the SQL query.
+> **[3:32](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980&t=212)** So as a data scientist if you're going to build a machine learning model a lot of times you need to first look at the data even beyond just the [[SQL]] query.
 >
 > **[3:41](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980&t=221)** And this is where these other features come into play.
 >
@@ -9930,7 +9840,7 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980&t=327)** Another thing we can do though, beyond just this particular data set, is look at other data sets and find new information about it, and maybe combine those different sources.
 >
-> **[5:36](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980&t=336)** So you can look through here, there's a lot of different data sets to play with Google Ads Google Cloud releases, political trends, you know, lots of different things here.
+> **[5:36](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980&t=336)** So you can look through here, there's a lot of different data sets to play with Google Ads [[Google Cloud Platform (GCP)|Google Cloud]] releases, political trends, you know, lots of different things here.
 >
 > **[5:46](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980&t=346)** I'm going to take one that is kind of a fun one to play around with, which is Hacker News.
 >
@@ -9964,7 +9874,7 @@ created: 2026-05-02
 >
 > **[6:42](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980&t=402)** What's the 75th percentile?
 >
-> **[6:44](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980&t=404)** All these kind of descriptive statistics are helpful when you're first looking at things.
+> **[6:44](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980&t=404)** All these kind of descriptive [[Statistics]] are helpful when you're first looking at things.
 >
 > **[6:48](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980&t=408)** So that's the one I'm going to query here.
 >
@@ -9992,7 +9902,7 @@ created: 2026-05-02
 >
 > **[7:40](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980&t=460)** And again, it's going to go through here and give us this nice query.
 >
-> **[7:43](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980&t=463)** Now, this is a little more rich if I was going to do some natural language processing because we've got the author here.
+> **[7:43](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980&t=463)** Now, this is a little more rich if I was going to do some [[Natural Language Processing (NLP)|natural language processing]] because we've got the author here.
 >
 > **[7:50](https://www.linkedin.com/learning/rust-for-data-engineering/exploring-data-with-bigquery?u=76281980&t=470)** We also have the scores which is now getting very interesting, right?
 >
@@ -10096,7 +10006,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Google]] (5), next (3), [[SQL]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2)
+> **Frameworks & Libraries:** [[Google]] (5), [[SQL]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** make (4), find (2), node (1)
 > **Definitions:** is a  (6)
 > **UI Navigation:** toggle (1), go to (1), click on (1)
@@ -10105,8 +10015,7 @@ created: 2026-05-02
 > **Tools:** colab (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using public data sets for data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/using-public-data-sets-for-data-science?u=76281980)
+#### [Using public data sets for data science](https://www.linkedin.com/learning/rust-for-data-engineering/using-public-data-sets-for-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10114,13 +10023,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/rust-for-data-engineering/using-public-data-sets-for-data-science?u=76281980&t=13)** Let's talk through a few of the common public data sets that are available.
 >
-> **[0:18](https://www.linkedin.com/learning/rust-for-data-engineering/using-public-data-sets-for-data-science?u=76281980&t=18)** A very popular merging public dataset is the hugging face dataset, and you can use it to fine tune a model.
+> **[0:18](https://www.linkedin.com/learning/rust-for-data-engineering/using-public-data-sets-for-data-science?u=76281980&t=18)** A very popular merging public dataset is the [[Hugging Face]] dataset, and you can use it to fine tune a model.
 >
-> **[0:25](https://www.linkedin.com/learning/rust-for-data-engineering/using-public-data-sets-for-data-science?u=76281980&t=25)** So let's say you get a pre-trained model from hugging face, and you use an environment that has GPU enabled like GitHub code spaces or an Amazon SageMaker environment with GPU enabled, you can then take that hugging face dataset and fine tune it based on the new data that's available and then create a new model and put it either into production or back into hugging face.
+> **[0:25](https://www.linkedin.com/learning/rust-for-data-engineering/using-public-data-sets-for-data-science?u=76281980&t=25)** So let's say you get a pre-trained model from hugging face, and you use an environment that has GPU enabled like [[GitHub]] code spaces or an Amazon SageMaker environment with GPU enabled, you can then take that hugging face dataset and fine tune it based on the new data that's available and then create a new model and put it either into production or back into hugging face.
 >
 > **[0:50](https://www.linkedin.com/learning/rust-for-data-engineering/using-public-data-sets-for-data-science?u=76281980&t=50)** Likewise, with Amazon S3, it's a very common scenario to have a big public data set and you can pull that data set into let's say a Jupyter Notebook and do exploratory data analysis on it, find out what it is you're trying to build, and then create a model based on that S3 dataset.
 >
-> **[1:08](https://www.linkedin.com/learning/rust-for-data-engineering/using-public-data-sets-for-data-science?u=76281980&t=68)** Another common public data set is Kaggle, and there are many examples of public datasets that have also had many feature engineering components added to it.
+> **[1:08](https://www.linkedin.com/learning/rust-for-data-engineering/using-public-data-sets-for-data-science?u=76281980&t=68)** Another common public data set is Kaggle, and there are many examples of public datasets that have also had many [[Feature Engineering]] components added to it.
 >
 > **[1:19](https://www.linkedin.com/learning/rust-for-data-engineering/using-public-data-sets-for-data-science?u=76281980&t=79)** So you could build off of that, use that feature engineering solution to then create your own custom model.
 >
@@ -10130,30 +10039,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Hugging Face]] (4), [[GitHub]] (1), feature (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (4), [[GitHub]] (1), [[Feature Engineering]] (1)
 > **Env Vars:** gpu (2)
 > **Tools:** github (1), jupyter (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Querying log files with BigQuery
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/querying-log-files-with-bigquery?u=76281980)
+#### [Querying log files with BigQuery](https://www.linkedin.com/learning/rust-for-data-engineering/querying-log-files-with-bigquery?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/querying-log-files-with-bigquery?u=76281980&t=8)** - [Instructor] Let's dive into how to use BigQuery with logs.
 >
-> **[0:11](https://www.linkedin.com/learning/rust-for-data-engineering/querying-log-files-with-bigquery?u=76281980&t=11)** This is really a killer feature of the Google Cloud platform here.
+> **[0:11](https://www.linkedin.com/learning/rust-for-data-engineering/querying-log-files-with-bigquery?u=76281980&t=11)** This is really a killer feature of the [[Google Cloud Platform (GCP)|Google Cloud platform]] here.
 >
 > **[0:15](https://www.linkedin.com/learning/rust-for-data-engineering/querying-log-files-with-bigquery?u=76281980&t=15)** You can see, you can do queries here, obviously and dive into different things.
 >
-> **[0:19](https://www.linkedin.com/learning/rust-for-data-engineering/querying-log-files-with-bigquery?u=76281980&t=19)** For example, if I want to look at the Kubernetes container, you know, I could click on it, do some queries, et cetera.
+> **[0:19](https://www.linkedin.com/learning/rust-for-data-engineering/querying-log-files-with-bigquery?u=76281980&t=19)** For example, if I want to look at the [[Kubernetes]] container, you know, I could click on it, do some queries, et cetera.
 >
 > **[0:26](https://www.linkedin.com/learning/rust-for-data-engineering/querying-log-files-with-bigquery?u=76281980&t=26)** But there's actually an even slicker way to do this, which is if we go over to Log Router, and I go ahead and I create a sink here, this sink could actually have as a destination BigQuery.
 >
 > **[0:38](https://www.linkedin.com/learning/rust-for-data-engineering/querying-log-files-with-bigquery?u=76281980&t=38)** So I've already set that up.
 >
-> **[0:40](https://www.linkedin.com/learning/rust-for-data-engineering/querying-log-files-with-bigquery?u=76281980&t=40)** You can see here it's right here, this big data, BigQuery dataset.
+> **[0:40](https://www.linkedin.com/learning/rust-for-data-engineering/querying-log-files-with-bigquery?u=76281980&t=40)** You can see here it's right here, this [[Big Data]], BigQuery dataset.
 >
 > **[0:44](https://www.linkedin.com/learning/rust-for-data-engineering/querying-log-files-with-bigquery?u=76281980&t=44)** So all I need to do is actually go over to BigQuery itself and try it out.
 >
@@ -10169,11 +10077,11 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/rust-for-data-engineering/querying-log-files-with-bigquery?u=76281980&t=86)** Awesome. So we see these health check results, we see all this information here.
 >
-> **[1:30](https://www.linkedin.com/learning/rust-for-data-engineering/querying-log-files-with-bigquery?u=76281980&t=90)** So a lot of very rich information that I can actually query directly in SQL from BigQuery.
+> **[1:30](https://www.linkedin.com/learning/rust-for-data-engineering/querying-log-files-with-bigquery?u=76281980&t=90)** So a lot of very rich information that I can actually query directly in [[SQL]] from BigQuery.
 >
 > **[1:37](https://www.linkedin.com/learning/rust-for-data-engineering/querying-log-files-with-bigquery?u=76281980&t=97)** Obviously I could even schedule this and do something with a schedule, which is actually pretty cool because you can actually do maybe monitoring based on that type of action.
 >
-> **[1:49](https://www.linkedin.com/learning/rust-for-data-engineering/querying-log-files-with-bigquery?u=76281980&t=109)** Now the other one that I really like that's part of BigQuery is you can actually do more of like a data science style.
+> **[1:49](https://www.linkedin.com/learning/rust-for-data-engineering/querying-log-files-with-bigquery?u=76281980&t=109)** Now the other one that I really like that's part of BigQuery is you can actually do more of like a [[Data Science]] style.
 >
 > **[1:56](https://www.linkedin.com/learning/rust-for-data-engineering/querying-log-files-with-bigquery?u=76281980&t=116)** So I could actually go into Looker Studio right here, and dive into Looker Studio, and actually start playing around with some kind of a query, and take a look at what's happening inside of here, drag things inside, for example, http status.
 >
@@ -10187,9 +10095,9 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/rust-for-data-engineering/querying-log-files-with-bigquery?u=76281980&t=161)** Let's go ahead and try that.
 >
-> **[2:43](https://www.linkedin.com/learning/rust-for-data-engineering/querying-log-files-with-bigquery?u=76281980&t=163)** You can see here, I could run this query, get the results, and do some kind of descriptive statistics.
+> **[2:43](https://www.linkedin.com/learning/rust-for-data-engineering/querying-log-files-with-bigquery?u=76281980&t=163)** You can see here, I could run this query, get the results, and do some kind of descriptive [[Statistics]].
 >
-> **[2:49](https://www.linkedin.com/learning/rust-for-data-engineering/querying-log-files-with-bigquery?u=76281980&t=169)** Or even simpler potentially would be just Google Sheets, right, go right inside of Google Sheets, and then start putting things together.
+> **[2:49](https://www.linkedin.com/learning/rust-for-data-engineering/querying-log-files-with-bigquery?u=76281980&t=169)** Or even simpler potentially would be just [[Google]] Sheets, right, go right inside of Google Sheets, and then start putting things together.
 >
 > **[2:57](https://www.linkedin.com/learning/rust-for-data-engineering/querying-log-files-with-bigquery?u=76281980&t=177)** So for example you can see here all kinds of really cool information, and I could go into Chart and go ahead and say New sheet for a chart here.
 >
@@ -10211,19 +10119,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Google]] (2), feature (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Google]] (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Kubernetes]] (1), [[Big Data]] (1)
 > **Analogies:** for example (4)
 > **Env Vars:** sql (1), api (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Tools:** colab (1)
 > **Speakers:** - [instructor] (1)
 
-#### There is no one-size database
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/there-is-no-one-size-database?u=76281980)
+#### [There is no one-size database](https://www.linkedin.com/learning/rust-for-data-engineering/there-is-no-one-size-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/there-is-no-one-size-database?u=76281980&t=8)** - [Instructor] Here, we have a classic diagram from the CTO of Amazon, Werner Vogels, and he talks about how there are different types of databases for different problems.
+> **[0:08](https://www.linkedin.com/learning/rust-for-data-engineering/there-is-no-one-size-database?u=76281980&t=8)** - [Instructor] Here, we have a classic diagram from the CTO of Amazon, Werner Vogels, and he talks about how there are different types of [[Databases]] for different problems.
 >
 > **[0:19](https://www.linkedin.com/learning/rust-for-data-engineering/there-is-no-one-size-database?u=76281980&t=19)** In this particular scenario, we start with the relational database.
 >
@@ -10241,9 +10148,9 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/rust-for-data-engineering/there-is-no-one-size-database?u=76281980&t=52)** And there's also a graph database, and Amazon has Amazon Neptune.
 >
-> **[0:57](https://www.linkedin.com/learning/rust-for-data-engineering/there-is-no-one-size-database?u=76281980&t=57)** And if you're going to analyze relationships, for example if you want to look at social media relationships and see different types of descriptive statistics, like centrality, for example, like who are the influential people in a social network, this is one ways to to do that.
+> **[0:57](https://www.linkedin.com/learning/rust-for-data-engineering/there-is-no-one-size-database?u=76281980&t=57)** And if you're going to analyze relationships, for example if you want to look at social media relationships and see different types of descriptive [[Statistics]], like centrality, for example, like who are the influential people in a social network, this is one ways to to do that.
 >
-> **[1:13](https://www.linkedin.com/learning/rust-for-data-engineering/there-is-no-one-size-database?u=76281980&t=73)** There's also in memory so Amazon provides elastic cache for Redis, also Memcached.
+> **[1:13](https://www.linkedin.com/learning/rust-for-data-engineering/there-is-no-one-size-database?u=76281980&t=73)** There's also in memory so Amazon provides elastic cache for [[Redis]], also Memcached.
 >
 > **[1:19](https://www.linkedin.com/learning/rust-for-data-engineering/there-is-no-one-size-database?u=76281980&t=79)** So these allow you to build up, for example, a collaborative filtering recommendation engine or build out some kind of cache so that you can look at this data in a very fast manner.
 >
@@ -10257,22 +10164,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (3), database (3), aws (1), [[Statistics]] (1), [[Redis]] (1)
+> **Frameworks & Libraries:** [[Databases]] (3), [[Statistics]] (1), [[Redis]] (1)
 > **Env Vars:** cto (1), aws (1), rds (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Course conclusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/rust-for-data-engineering/course-conclusion?u=76281980)
+#### [Course conclusion](https://www.linkedin.com/learning/rust-for-data-engineering/course-conclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/rust-for-data-engineering/course-conclusion?u=76281980&t=0)** - [Instructor] We've reached the conclusion of Data Engineering with Rust course.
+> **[0:00](https://www.linkedin.com/learning/rust-for-data-engineering/course-conclusion?u=76281980&t=0)** - [Instructor] We've reached the conclusion of [[Data Engineering]] with [[Rust (Programming Language)|Rust]] course.
 >
 > **[0:05](https://www.linkedin.com/learning/rust-for-data-engineering/course-conclusion?u=76281980&t=5)** Let's talk about what we covered.
 >
-> **[0:07](https://www.linkedin.com/learning/rust-for-data-engineering/course-conclusion?u=76281980&t=7)** In Section 1, data collections, including things like hash maps and vectors, and 2, safety and security, including concurrency libraries like Rayon, in Section 3, data engineering libraries and tools like Polars, and then in Section 4, covering data processing systems, like BigQuery, also step functions, and also how to use SQL to build things.
+> **[0:07](https://www.linkedin.com/learning/rust-for-data-engineering/course-conclusion?u=76281980&t=7)** In Section 1, data collections, including things like hash maps and vectors, and 2, safety and security, including concurrency libraries like Rayon, in Section 3, data engineering libraries and tools like Polars, and then in Section 4, covering [[Data Processing]] systems, like BigQuery, also step functions, and also how to use [[SQL]] to build things.
 >
 > **[0:35](https://www.linkedin.com/learning/rust-for-data-engineering/course-conclusion?u=76281980&t=35)** Now, in some of the key features to remember are that Rust is a statically typed language.
 >
@@ -10294,7 +10200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Engineering]] (4), [[Rust (Programming Language)|Rust]] (4), data (3), [[Security]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (4), [[Rust (Programming Language)|Rust]] (4), [[Data Processing]] (2), [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** we covered (1)
 > **Definitions:** is a  (1)

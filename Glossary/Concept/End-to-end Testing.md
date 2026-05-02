@@ -32,10 +32,10 @@ created: 2026-05-02
 1. [[End-to-End JavaScript Testing with Cypress.io]] — 23 mentions
 2. [[Capstone- Building Production Features with Copilot]] — 4 mentions
 3. [[JavaScript- Test-Driven Development (ES6)]] — 4 mentions
-4. [[DevOps Foundations- Continuous Delivery-Continuous Integration]] — 3 mentions
-5. [[Structured Vibe Coding with AI Coding Agents]] — 3 mentions
-6. [[Angular- Testing and Debugging]] — 3 mentions
-7. [[Devops Foundations]] — 2 mentions
+4. [[Devops Foundations]] — 3 mentions
+5. [[DevOps Foundations- Continuous Delivery-Continuous Integration]] — 3 mentions
+6. [[Structured Vibe Coding with AI Coding Agents]] — 3 mentions
+7. [[Angular- Testing and Debugging]] — 3 mentions
 8. [[Cybersecurity Foundations]] — 1 mentions
 9. [[Succeeding in Software Testing]] — 1 mentions
 10. [[End-to-End Data Engineering Project]] — 1 mentions
@@ -53,15 +53,15 @@ created: 2026-05-02
 ## Learning Paths
 
 1. [[Advance Your JavaScript Skills]] — 27 total mentions
-2. [[DevOps Professional Certificate by PagerDuty and LinkedIn]] — 5 total mentions
-3. [[Getting Started with DevOps]] — 5 total mentions
+2. [[DevOps Professional Certificate by PagerDuty and LinkedIn]] — 6 total mentions
+3. [[Getting Started with DevOps]] — 6 total mentions
 4. [[GitHub Copilot Mastery- From Advanced Prompting to Full-Stack AI Development]] — 4 total mentions
-5. [[Getting Started with Continuous Integration - Continuous Delivery (CI-CD)]] — 3 total mentions
-6. [[Learn Vibe Coding- Build Apps with AI-Powered Coding]] — 3 total mentions
-7. [[Explore Web Development with Angular]] — 3 total mentions
-8. [[Getting Started with Software Testing]] — 3 total mentions
-9. [[Develop Your Skills in Agile Software Development]] — 2 total mentions
-10. [[Develop Your Skills as a Software Project Manager]] — 2 total mentions
+5. [[Develop Your Skills in Agile Software Development]] — 3 total mentions
+6. [[Develop Your Skills as a Software Project Manager]] — 3 total mentions
+7. [[Become a Full-Stack Web Developer]] — 3 total mentions
+8. [[Getting Started with Continuous Integration - Continuous Delivery (CI-CD)]] — 3 total mentions
+9. [[Learn Vibe Coding- Build Apps with AI-Powered Coding]] — 3 total mentions
+10. [[Explore Web Development with Angular]] — 3 total mentions
 
 ---
 

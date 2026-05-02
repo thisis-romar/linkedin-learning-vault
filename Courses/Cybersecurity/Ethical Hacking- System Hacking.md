@@ -103,8 +103,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hacking the system
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/hacking-the-system?u=76281980)
+#### [Hacking the system](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/hacking-the-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -128,16 +127,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Security]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [lisa] (1)
 
-#### Getting the most out of this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/getting-the-most-out-of-this-course?u=76281980)
+#### [Getting the most out of this course](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/getting-the-most-out-of-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/getting-the-most-out-of-this-course?u=76281980&t=0)** - [Instructor] This is an intermediate level course for network administrators, teachers, students, and anyone interested in learning more about system hacking during an ethical hacking exercise.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/getting-the-most-out-of-this-course?u=76281980&t=0)** - [Instructor] This is an intermediate level course for network administrators, teachers, students, and anyone interested in learning more about system hacking during an [[Ethical Hacking]] exercise.
 >
 > **[0:14](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/getting-the-most-out-of-this-course?u=76281980&t=14)** I cover a lot of information, but I have provided a file for you so that you can follow along.
 >
@@ -164,12 +161,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hacking ethically
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/hacking-ethically?u=76281980)
+#### [Hacking ethically](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/hacking-ethically?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/hacking-ethically?u=76281980&t=0)** - [Instructor] The goal of the Ethical Hacking series is to help system administrators understand how to better protect the assets they manage.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/hacking-ethically?u=76281980&t=0)** - [Instructor] The goal of the [[Ethical Hacking]] series is to help system administrators understand how to better protect the assets they manage.
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/hacking-ethically?u=76281980&t=10)** I'll focus on the concepts of ethical hacking in order to explain why it's essential in any organization's overall security framework.
 >
@@ -181,7 +177,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethical Hacking]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (3)
 > **Speakers:** - [instructor] (1)
 
 
@@ -189,12 +185,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting the stage
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/setting-the-stage?u=76281980)
+#### [Setting the stage](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/setting-the-stage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/setting-the-stage?u=76281980&t=0)** - [Instructor] The third phase in ethical hacking involves system hacking.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/setting-the-stage?u=76281980&t=0)** - [Instructor] The third phase in [[Ethical Hacking]] involves system hacking.
 >
 > **[0:04](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/setting-the-stage?u=76281980&t=4)** In this segment, you'll learn why system hacking is an important exercise and review the steps taken during this critical phase.
 >
@@ -254,25 +249,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Ethical Hacking]] (1), teams (1), next (1), application (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1)
 > **Analogies:** such as (4)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting a foothold
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/getting-a-foothold?u=76281980)
+#### [Getting a foothold](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/getting-a-foothold?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/getting-a-foothold?u=76281980&t=0)** - [Narrator] After scanning the network and obtaining a blueprint, the next step in an ethical hacking exercise is to infiltrate the system.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/getting-a-foothold?u=76281980&t=0)** - [Narrator] After scanning the network and obtaining a blueprint, the next step in an [[Ethical Hacking]] exercise is to infiltrate the system.
 >
 > **[0:09](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/getting-a-foothold?u=76281980&t=9)** In this segment, we'll explore various methods used to gain access to a system.
 >
 > **[0:15](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/getting-a-foothold?u=76281980&t=15)** After reconnaissance and scanning is complete, the following phase is to gain access to the network using a variety of tools and techniques.
 >
-> **[0:24](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/getting-a-foothold?u=76281980&t=24)** The methods commonly involve exploiting vulnerabilities in software, hardware, or configurations that have been identified during the scanning phase.
+> **[0:24](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/getting-a-foothold?u=76281980&t=24)** The methods commonly involve exploiting vulnerabilities in software, [[Hardware]], or configurations that have been identified during the scanning phase.
 >
 > **[0:35](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/getting-a-foothold?u=76281980&t=35)** In addition, many times, a social engineering attack is used to manipulate individuals into revealing their passwords or installing malicious software.
 >
@@ -286,7 +280,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/getting-a-foothold?u=76281980&t=84)** Stealing credentials can be achieved through deceptive password reset requests, man-in-the-middle attacks, keystroke logging, or brute force attacks.
 >
-> **[1:35](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/getting-a-foothold?u=76281980&t=95)** Locating credentials on the internet can be achieved by searching online using Google hacking or other methods to unearth passwords within a site, or the team could try to obtain a list of default usernames and passwords for the device or devices they're trying to access.
+> **[1:35](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/getting-a-foothold?u=76281980&t=95)** Locating credentials on the internet can be achieved by searching online using [[Google]] hacking or other methods to unearth passwords within a site, or the team could try to obtain a list of default usernames and passwords for the device or devices they're trying to access.
 >
 > **[1:55](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/getting-a-foothold?u=76281980&t=115)** Exploiting Wi-Fi networks is another option that can be achieved by attempting to guess, crack, or mimic a signed-in device.
 >
@@ -304,27 +298,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (2), next (1), [[Ethical Hacking]] (1), [[Hardware]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1), [[Hardware]] (1), [[Google]] (1)
 > **Speakers:** - [narrator] (1)
 
-#### Authenticating a user
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/authenticating-a-user?u=76281980)
+#### [Authenticating a user](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/authenticating-a-user?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/authenticating-a-user?u=76281980&t=0)** - [Narrator] Operating systems authenticate user login information in a variety of ways.
 >
-> **[0:06](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/authenticating-a-user?u=76281980&t=6)** In this segment, we'll compare how Microsoft and Linux/Unix systems provide authentication.
+> **[0:06](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/authenticating-a-user?u=76281980&t=6)** In this segment, we'll compare how [[Microsoft]] and [[Linux]]/Unix systems provide authentication.
 >
 > **[0:13](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/authenticating-a-user?u=76281980&t=13)** In most cases, we must provide some way to authenticate to gain access to a system.
 >
 > **[0:20](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/authenticating-a-user?u=76281980&t=20)** First, let's talk about how a Microsoft operating system provides authentication using New Technology LAN Manager or Kerberos.
 >
-> **[0:30](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/authenticating-a-user?u=76281980&t=30)** Microsoft has a proprietary authentication protocol called New Technology LAN Manager, which is used within a Windows network environment.
+> **[0:30](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/authenticating-a-user?u=76281980&t=30)** Microsoft has a proprietary authentication protocol called New Technology LAN Manager, which is used within a [[Windows]] network environment.
 >
 > **[0:40](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/authenticating-a-user?u=76281980&t=40)** New Technology LAN Manager employs a challenge response authentication method where the server presents a challenge and the client must provide a valid response based on the hashed value of the user's password to be authenticated.
 >
-> **[0:57](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/authenticating-a-user?u=76281980&t=57)** Kerberos is built into Active Directory and uses tickets to access network services.
+> **[0:57](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/authenticating-a-user?u=76281980&t=57)** Kerberos is built into [[Active Directory]] and uses tickets to access network services.
 >
 > **[1:03](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/authenticating-a-user?u=76281980&t=63)** User accounts and passwords are stored on the domain controller, which also acts as the Kerberos key distribution center and uses Active Directory as its account database.
 >
@@ -346,7 +339,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/authenticating-a-user?u=76281980&t=161)** In Linux/Unix systems, pluggable authentication modules provide a flexible API that supports various authentication related services, including authentication, account management, session management, and password management.
 >
-> **[2:59](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/authenticating-a-user?u=76281980&t=179)** The simple authentication and security layer, or SASL, is a framework that provides authentication and data security services across a range of connection oriented protocols.
+> **[2:59](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/authenticating-a-user?u=76281980&t=179)** The simple authentication and security layer, or SASL, is a framework that provides authentication and [[Data Security]] services across a range of connection oriented protocols.
 >
 > **[3:13](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/authenticating-a-user?u=76281980&t=193)** It functions as an abstraction layer that allows different authentication methods to interact.
 >
@@ -362,15 +355,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (4), [[Linux]] (4), lan (4), [[Security]] (3), management (3)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Linux]] (4), [[Active Directory]] (2), [[Windows]] (1), [[Data Security]] (1)
 > **Env Vars:** lan (4), sasl (3), api (1), ldap (1), pam (1)
 > **Analogies:** such as (1), for example (1)
 > **Ports:** port 88 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Reviewing Entra ID authentication methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/challenge-reviewing-entra-id-authentication-methods?u=76281980)
+#### [Challenge: Reviewing Entra ID authentication methods](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/challenge-reviewing-entra-id-authentication-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -378,11 +370,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/challenge-reviewing-entra-id-authentication-methods?u=76281980&t=7)** - [Narrator] Let's do a challenge.
 >
-> **[0:09](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/challenge-reviewing-entra-id-authentication-methods?u=76281980&t=9)** In this challenge, you'll review how Microsoft Entra ID can authenticate users.
+> **[0:09](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/challenge-reviewing-entra-id-authentication-methods?u=76281980&t=9)** In this challenge, you'll review how [[Microsoft Entra ID]] can authenticate users.
 >
 > **[0:16](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/challenge-reviewing-entra-id-authentication-methods?u=76281980&t=16)** For this challenge, we'll begin by going to this website and then you'll answer the following five questions.
 >
-> **[0:24](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/challenge-reviewing-entra-id-authentication-methods?u=76281980&t=24)** What components does Entra ID authentication include?
+> **[0:24](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/challenge-reviewing-entra-id-authentication-methods?u=76281980&t=24)** What components does [[Microsoft Entra ID|Entra ID]] authentication include?
 >
 > **[0:28](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/challenge-reviewing-entra-id-authentication-methods?u=76281980&t=28)** What is Entra ID multifactor authentication?
 >
@@ -402,8 +394,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (light upbeat music) (1)
 
-#### Solution: Reviewing Entra ID authentication methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/solution-reviewing-entra-id-authentication-methods?u=76281980)
+#### [Solution: Reviewing Entra ID authentication methods](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/solution-reviewing-entra-id-authentication-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -411,9 +402,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/solution-reviewing-entra-id-authentication-methods?u=76281980&t=7)** - [Instructor] Okay, now let's check our work.
 >
-> **[0:10](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/solution-reviewing-entra-id-authentication-methods?u=76281980&t=10)** For this challenge, we reviewed the information on this website and answered some questions on how Microsoft Entra ID can authenticate users.
+> **[0:10](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/solution-reviewing-entra-id-authentication-methods?u=76281980&t=10)** For this challenge, we reviewed the information on this website and answered some questions on how [[Microsoft Entra ID]] can authenticate users.
 >
-> **[0:21](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/solution-reviewing-entra-id-authentication-methods?u=76281980&t=21)** What components does Entra ID authentication include?
+> **[0:21](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/solution-reviewing-entra-id-authentication-methods?u=76281980&t=21)** What components does [[Microsoft Entra ID|Entra ID]] authentication include?
 >
 > **[0:26](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/solution-reviewing-entra-id-authentication-methods?u=76281980&t=26)** It includes self-service password reset, multifactor authentication, write password changes to on-premise environment, enforce password protection policies, and passwordless authentication.
 >
@@ -453,7 +444,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (3), [[Microsoft Entra ID]] (1), application (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Entra id]] (3), [[Microsoft Entra ID]] (1)
 > **Analogies:** such as (2)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
@@ -464,14 +455,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Acquiring passwords
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/acquiring-passwords?u=76281980)
+#### [Acquiring passwords](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/acquiring-passwords?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/acquiring-passwords?u=76281980&t=0)** - [Instructor] Malicious actors use various techniques to acquire passwords.
 >
-> **[0:05](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/acquiring-passwords?u=76281980&t=5)** In this segment, we'll review the many ways we can provide authentication where a Windows operating system stores passwords, and how a pass-the-hash attack works.
+> **[0:05](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/acquiring-passwords?u=76281980&t=5)** In this segment, we'll review the many ways we can provide authentication where a [[Windows]] operating system stores passwords, and how a pass-the-hash attack works.
 >
 > **[0:18](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/acquiring-passwords?u=76281980&t=18)** First, let's talk about ways to provide authentication.
 >
@@ -495,9 +485,9 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/acquiring-passwords?u=76281980&t=74)** As a result, system hacking, most of the time, starts with attempting to obtain the password.
 >
-> **[1:21](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/acquiring-passwords?u=76281980&t=81)** When conducting ethical hacking, it's important to know where the passwords are stored in a system.
+> **[1:21](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/acquiring-passwords?u=76281980&t=81)** When conducting [[Ethical Hacking]], it's important to know where the passwords are stored in a system.
 >
-> **[1:28](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/acquiring-passwords?u=76281980&t=88)** In Microsoft Windows, users' passwords are stored in the security account manager, or SAM database, in hashed format.
+> **[1:28](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/acquiring-passwords?u=76281980&t=88)** In [[Microsoft]] Windows, users' passwords are stored in the security account manager, or SAM database, in hashed format.
 >
 > **[1:38](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/acquiring-passwords?u=76281980&t=98)** The SAM stores user accounts and security descriptors for users on the local computer.
 >
@@ -515,7 +505,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/acquiring-passwords?u=76281980&t=159)** Passive online includes sniffing passwords using a packet analysis tool or a man-in-the-middle attack, such as a replay attack.
 >
-> **[2:49](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/acquiring-passwords?u=76281980&t=169)** There's also what's called active online attacks, and these would include any of the following: password cracking, Trojans, guessing, phishing, keystroke logging, or spyware.
+> **[2:49](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/acquiring-passwords?u=76281980&t=169)** There's also what's called active online attacks, and these would include any of the following: password cracking, Trojans, guessing, [[Phishing]], keystroke logging, or spyware.
 >
 > **[3:04](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/acquiring-passwords?u=76281980&t=184)** While obtaining a password isn't always feasible, it may be possible to obtain a password hash and use a technique called pass-the-hash, a new technology LAN manager replay attack.
 >
@@ -533,13 +523,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Windows]] (5), database (3), [[Microsoft]] (2), application (2)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Microsoft]] (2), [[Ethical Hacking]] (1), [[Phishing]] (1)
 > **Env Vars:** sam (4), lan (1), ram (1)
 > **Analogies:** such as (4)
 > **Speakers:** - [instructor] (1)
 
-#### Discovering password tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/discovering-password-tools?u=76281980)
+#### [Discovering password tools](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/discovering-password-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -551,9 +540,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/discovering-password-tools?u=76281980&t=25)** On most systems, passwords are stored as a hash value and protected to ensure system security.
 >
-> **[0:32](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/discovering-password-tools?u=76281980&t=32)** On a Linux system, passwords are typically stored in the etc shadow file, which is accessible only by the root user and contains encrypted password hashes, along with other user account information.
+> **[0:32](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/discovering-password-tools?u=76281980&t=32)** On a [[Linux]] system, passwords are typically stored in the etc shadow file, which is accessible only by the root user and contains encrypted password hashes, along with other user account information.
 >
-> **[0:48](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/discovering-password-tools?u=76281980&t=48)** On a Windows system, passwords are stored in the security account manager or SAM database.
+> **[0:48](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/discovering-password-tools?u=76281980&t=48)** On a [[Windows]] system, passwords are stored in the security account manager or SAM database.
 >
 > **[0:55](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/discovering-password-tools?u=76281980&t=55)** Access to this file is restricted to system processes and administrators to maintain security.
 >
@@ -575,7 +564,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/discovering-password-tools?u=76281980&t=131)** Now this obtains the SAM file hashes from a Windows operating system by targeting the system files where the hashes are stored, or they might try the Domain Password Audit Tool.
 >
-> **[2:25](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/discovering-password-tools?u=76281980&t=145)** Now this operates by extracting password hashes from active directory, which are typically new technology land manager hashes, and then attempting to crack these hashes to reveal the plain text passwords.
+> **[2:25](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/discovering-password-tools?u=76281980&t=145)** Now this operates by extracting password hashes from [[Active Directory]], which are typically new technology land manager hashes, and then attempting to crack these hashes to reveal the plain text passwords.
 >
 > **[2:40](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/discovering-password-tools?u=76281980&t=160)** Now, other attacks used by malicious actors include password spraying and mask attacks.
 >
@@ -589,7 +578,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/discovering-password-tools?u=76281980&t=191)** For example, this pattern will generate 28 passwords in this pattern.
 >
-> **[3:17](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/discovering-password-tools?u=76281980&t=197)** Tools include Hashcat, John the Ripper, and Aircrack-ng.
+> **[3:17](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/discovering-password-tools?u=76281980&t=197)** Tools include [[Hashcat]], [[John the Ripper]], and Aircrack-ng.
 >
 > **[3:23](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/discovering-password-tools?u=76281980&t=203)** Now let's test your knowledge.
 >
@@ -599,13 +588,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Windows]] (3), data (2), [[Linux]] (1), database (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Linux]] (1), [[Active Directory]] (1), [[Hashcat]] (1), [[John the Ripper]] (1)
 > **Env Vars:** sam (2)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cracking passwords
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/cracking-passwords?u=76281980)
+#### [Cracking passwords](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/cracking-passwords?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -613,7 +601,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/cracking-passwords?u=76281980&t=4)** In this segment, we'll compare the steps in efficiency of brute-force, hybrid, and dictionary attacks.
 >
-> **[0:12](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/cracking-passwords?u=76281980&t=12)** When we think of passwords, they can be in one of three forms.
+> **[0:12](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/cracking-passwords?u=76281980&t=12)** When we think of passwords, they can be in one of three [[Forms]].
 >
 > **[0:17](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/cracking-passwords?u=76281980&t=17)** Clear text is readable text without any modification.
 >
@@ -645,9 +633,9 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/cracking-passwords?u=76281980&t=125)** Now, this has a broad scope and can crack password hashes using various techniques, including brute-force, dictionary attacks, and rainbow tables.
 >
-> **[2:16](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/cracking-passwords?u=76281980&t=136)** Ophcrack uses rainbow tables to crack Windows password hashes.
+> **[2:16](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/cracking-passwords?u=76281980&t=136)** Ophcrack uses rainbow tables to crack [[Windows]] password hashes.
 >
-> **[2:21](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/cracking-passwords?u=76281980&t=141)** And John the Ripper can extract password hashes from various file formats and systems.
+> **[2:21](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/cracking-passwords?u=76281980&t=141)** And [[John the Ripper]] can extract password hashes from various file formats and systems.
 >
 > **[2:28](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/cracking-passwords?u=76281980&t=148)** So now let's compare brute-force, hybrid, and dictionary attacks.
 >
@@ -669,7 +657,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/cracking-passwords?u=76281980&t=228)** To foil password cracking attempts, don't make your password predictable, and better yet, use a passphrase with at least 12 or more characters.
 >
-> **[3:58](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/cracking-passwords?u=76281980&t=238)** For more information on how to create a strong password, visit this page at [Google.com](https://Google.com).
+> **[3:58](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/cracking-passwords?u=76281980&t=238)** For more information on how to create a strong password, visit this page at [[[Google]].com](https://Google.com).
 >
 > **[4:07](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/cracking-passwords?u=76281980&t=247)** Now let's test your knowledge.
 >
@@ -679,7 +667,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1), application (1), data (1), [[Windows]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Windows]] (1), [[John the Ripper]] (1), [[Google]] (1)
 > **CLI Commands:** find (1), apache (1), make (1)
 > **UI Navigation:** scroll down (2)
 > **Analogies:** such as (1), for example (1)
@@ -688,8 +676,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Employing rainbow tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/employing-rainbow-tables?u=76281980)
+#### [Employing rainbow tables](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/employing-rainbow-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -715,9 +702,9 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/employing-rainbow-tables?u=76281980&t=58)** You cannot generate the original message from the hash.
 >
-> **[1:02](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/employing-rainbow-tables?u=76281980&t=62)** Now, there are several hash algorithms, but two popular algorithms are SHA-256 and SHA-3.
+> **[1:02](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/employing-rainbow-tables?u=76281980&t=62)** Now, there are several hash [[Algorithms]], but two popular algorithms are SHA-256 and SHA-3.
 >
-> **[1:10](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/employing-rainbow-tables?u=76281980&t=70)** These hash functions are used in different applications, including authenticating a message, monitoring data integrity, and storing passwords.
+> **[1:10](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/employing-rainbow-tables?u=76281980&t=70)** These hash functions are used in different applications, including authenticating a message, monitoring [[Data Integrity]], and storing passwords.
 >
 > **[1:21](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/employing-rainbow-tables?u=76281980&t=81)** So let's step through the process.
 >
@@ -761,7 +748,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/employing-rainbow-tables?u=76281980&t=206)** Now understand it didn't undo the hash value.
 >
-> **[3:30](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/employing-rainbow-tables?u=76281980&t=210)** It simply did a lookup in the rainbow table to come up with that word.
+> **[3:30](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/employing-rainbow-tables?u=76281980&t=210)** It simply did a lookup in the rainbow table to come up with that [[Microsoft Word|word]].
 >
 > **[3:34](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/employing-rainbow-tables?u=76281980&t=214)** Now let's go back and create a stronger password.
 >
@@ -791,19 +778,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Algorithms]] (2), database (2), management (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Data Integrity]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sha (6), sha256 (1)
 > **UI Navigation:** go to (3), scroll down (2), dropdown (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defending against password attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-password-attacks?u=76281980)
+#### [Defending against password attacks](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-password-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-password-attacks?u=76281980&t=0)** - [Instructor] Protecting users and systems from password attacks is crucial for maintaining organizational security and privacy.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-password-attacks?u=76281980&t=0)** - [Instructor] Protecting users and systems from password attacks is crucial for maintaining organizational security and [[Privacy]].
 >
 > **[0:09](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-password-attacks?u=76281980&t=9)** In this segment, we'll explore key techniques to prevent password attacks, including salting, password policies, educating users, and hardening systems.
 >
@@ -829,21 +815,21 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-password-attacks?u=76281980&t=73)** At the administrator level, we can enforce certain guidelines to make sure users have a strong password.
 >
-> **[1:20](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-password-attacks?u=76281980&t=80)** Set a minimum password length of eight characters or more, encourage the use of a pass phrase, employ multifactor authentication that requires two or more methods to access an account, and NIST recommends completely resetting passwords once a year, which is based on the observation that skilled hackers can frequently anticipate minor changes and effectively guess an altered password, and implement account lockout policies that lock an account after several failed login attempts, and provide user education.
+> **[1:20](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-password-attacks?u=76281980&t=80)** Set a minimum password length of eight characters or more, encourage the use of a pass phrase, employ multifactor authentication that requires two or more methods to access an account, and [[NIST]] recommends completely resetting passwords once a year, which is based on the observation that skilled hackers can frequently anticipate minor changes and effectively guess an altered password, and implement account lockout policies that lock an account after several failed login attempts, and provide user education.
 >
 > **[2:02](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-password-attacks?u=76281980&t=122)** We want to tell our users to protect their passwords.
 >
-> **[2:06](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-password-attacks?u=76281980&t=126)** Users should never disclose their password, not even to the network administrator, and provide training on recognizing phishing and other social engineering attacks that could be used to steal passwords.
+> **[2:06](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-password-attacks?u=76281980&t=126)** Users should never disclose their password, not even to the network administrator, and provide training on recognizing [[Phishing]] and other social engineering attacks that could be used to steal passwords.
 >
 > **[2:21](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-password-attacks?u=76281980&t=141)** Encourage the use of password managers to generate and store complex passwords for multiple accounts without the risk of forgetting them.
 >
 > **[2:31](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-password-attacks?u=76281980&t=151)** And you'll want to harden your systems.
 >
-> **[2:34](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-password-attacks?u=76281980&t=154)** Deploy intrusion detection systems, which are used to monitor network traffic for unusual activities that could indicate a password attack, such as an unusually high number of login failures, regularly audit passwords and authentication methods used across the organization.
+> **[2:34](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-password-attacks?u=76281980&t=154)** Deploy [[Intrusion Detection]] systems, which are used to monitor network traffic for unusual activities that could indicate a password attack, such as an unusually high number of login failures, regularly audit passwords and authentication methods used across the organization.
 >
 > **[2:55](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-password-attacks?u=76281980&t=175)** You'll want to monitor logs for unusual access patterns to help detect and respond to potential password attacks.
 >
-> **[3:03](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-password-attacks?u=76281980&t=183)** And prevent direct access to hardware.
+> **[3:03](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-password-attacks?u=76281980&t=183)** And prevent direct access to [[Hardware]].
 >
 > **[3:06](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-password-attacks?u=76281980&t=186)** If an attacker has physical access to your hardware, they can employ a variety of methods to bypass security measures, including booting from external devices, installing key loggers, or directly accessing storage to modify system files.
 >
@@ -855,7 +841,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Hardware]] (2), [[Privacy]] (1), database (1), [[NIST]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Privacy]] (1), [[NIST]] (1), [[Phishing]] (1), [[Intrusion Detection]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** nist (1)
 > **Analogies:** such as (1)
@@ -866,8 +852,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leveraging security flaws
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/leveraging-security-flaws?u=76281980)
+#### [Leveraging security flaws](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/leveraging-security-flaws?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -891,7 +876,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/leveraging-security-flaws?u=76281980&t=63)** We find software vulnerabilities in all types of software and operating systems.
 >
-> **[1:09](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/leveraging-security-flaws?u=76281980&t=69)** Attacks include buffer overflows, SQL injection, or other attacks that exploit software vulnerabilities.
+> **[1:09](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/leveraging-security-flaws?u=76281980&t=69)** Attacks include buffer overflows, [[SQL]] injection, or other attacks that exploit software vulnerabilities.
 >
 > **[1:18](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/leveraging-security-flaws?u=76281980&t=78)** One way to launch an attack is by using a zero-day attack, which exploits unknown or unpatched software vulnerabilities.
 >
@@ -939,9 +924,9 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/leveraging-security-flaws?u=76281980&t=281)** Exploit Database is a repository for storing and sharing information, and you can search for specific vulnerabilities, exploits, or related information using keywords or categories.
 >
-> **[4:55](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/leveraging-security-flaws?u=76281980&t=295)** For example, if I just wipe on PHP, it comes up with an advanced search.
+> **[4:55](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/leveraging-security-flaws?u=76281980&t=295)** For example, if I just wipe on [[PHP]], it comes up with an advanced search.
 >
-> **[5:02](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/leveraging-security-flaws?u=76281980&t=302)** In addition, if I go over here to the left, I'll select this, which is the Google hacking database, and I'll open it in a new tab.
+> **[5:02](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/leveraging-security-flaws?u=76281980&t=302)** In addition, if I go over here to the left, I'll select this, which is the [[Google]] hacking database, and I'll open it in a new tab.
 >
 > **[5:12](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/leveraging-security-flaws?u=76281980&t=312)** Here we can drill down to the extensive and up-to-date database and see a list of useful topics such as files containing juicy information or files containing passwords.
 >
@@ -951,15 +936,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), database (3), [[Engineering]] (2), [[Search]] (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[PHP]] (1), [[Google]] (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** find (1), php (1)
 > **Env Vars:** sql (1), php (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Overflowing the buffer
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/overflowing-the-buffer?u=76281980)
+#### [Overflowing the buffer](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/overflowing-the-buffer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -987,7 +971,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/overflowing-the-buffer?u=76281980&t=105)** A heap-based buffer overflow is a more advanced attack that occurs when an attacker overloads the program's heap and exceeds the boundaries of memory allocated for ongoing runtime processes.
 >
-> **[2:01](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/overflowing-the-buffer?u=76281980&t=121)** Now, to defend against a buffer overflow attack on a Windows system, Microsoft has a tool called Data Execution Prevention that provides a safety net to prevent damage from malware that attempts to execute code from system memory locations reserved for Windows.
+> **[2:01](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/overflowing-the-buffer?u=76281980&t=121)** Now, to defend against a buffer overflow attack on a [[Windows]] system, [[Microsoft]] has a tool called Data Execution Prevention that provides a safety net to prevent damage from malware that attempts to execute code from system memory locations reserved for Windows.
 >
 > **[2:21](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/overflowing-the-buffer?u=76281980&t=141)** Now, we can check this by going to the details in the Task Manager and here we see that Data Execution Prevention is enabled for all these processes.
 >
@@ -999,13 +983,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Windows]] (2), [[Programming]] (1), management (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Microsoft]] (1)
 > **Definitions:** is a  (3)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enhancing software security
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/enhancing-software-security?u=76281980)
+#### [Enhancing software security](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/enhancing-software-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1029,7 +1012,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/enhancing-software-security?u=76281980&t=70)** This type of testing is effective in identifying vulnerabilities that might not be caught by static analysis.
 >
-> **[1:18](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/enhancing-software-security?u=76281980&t=78)** During an ethical hacking exercise, the team can run a fuzz test.
+> **[1:18](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/enhancing-software-security?u=76281980&t=78)** During an [[Ethical Hacking]] exercise, the team can run a fuzz test.
 >
 > **[1:24](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/enhancing-software-security?u=76281980&t=84)** Fuzz testing or fuzzing, is a dynamic testing technique that involves providing invalid, unexpected, or random data inputs to a program.
 >
@@ -1051,11 +1034,11 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/enhancing-software-security?u=76281980&t=146)** It could also be input from cookies or even data files.
 >
-> **[2:31](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/enhancing-software-security?u=76281980&t=151)** Now here we see fuzz vectors for different attacks, including a buffer overflow, SQL injection, or cross-site scripting.
+> **[2:31](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/enhancing-software-security?u=76281980&t=151)** Now here we see fuzz vectors for different attacks, including a buffer overflow, [[SQL]] injection, or cross-site scripting.
 >
 > **[2:41](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/enhancing-software-security?u=76281980&t=161)** Now, once we understand the fuzz vectors, the software will generate and send the fuzz data.
 >
-> **[2:48](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/enhancing-software-security?u=76281980&t=168)** The rest goes very quickly.
+> **[2:48](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/enhancing-software-security?u=76281980&t=168)** The [[Representational State Transfer (REST)|rest]] goes very quickly.
 >
 > **[2:50](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/enhancing-software-security?u=76281980&t=170)** Meanwhile, the software will be observing the behavior and it will generate log files.
 >
@@ -1071,7 +1054,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Security]] (1), [[Programming]] (1), application (1), [[Ethical Hacking]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1), [[SQL]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** sql (1)
 > **Exercise Files:** source code (1)
@@ -1084,8 +1067,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding privilege escalation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/understanding-privilege-escalation?u=76281980)
+#### [Understanding privilege escalation](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/understanding-privilege-escalation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1147,14 +1129,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Security]] (1), next (1), [[Engineering]] (1), traffic (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Obtaining administrator privileges
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/obtaining-administrator-privileges?u=76281980)
+#### [Obtaining administrator privileges](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/obtaining-administrator-privileges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1168,7 +1148,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/obtaining-administrator-privileges?u=76281980&t=38)** One method is to exploit User Access Control.
 >
-> **[0:42](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/obtaining-administrator-privileges?u=76281980&t=42)** User Access Control is a Windows operating system security feature that limits standard users' privileges and requires administrative approval for certain actions that could potentially impact system integrity.
+> **[0:42](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/obtaining-administrator-privileges?u=76281980&t=42)** User Access Control is a [[Windows]] operating system security feature that limits standard users' privileges and requires administrative approval for certain actions that could potentially impact system integrity.
 >
 > **[0:59](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/obtaining-administrator-privileges?u=76281980&t=59)** Now commonly, when installing a program, you'll see a notification like this one that will prompt you to approve the change to your system.
 >
@@ -1220,7 +1200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (7), feature (3), prompt (3), next (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Windows]] (7)
 > **Env Vars:** uac (2), dll (2), alt (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Tools:** command prompt (1)
@@ -1229,8 +1209,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defending against privilege escalation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-privilege-escalation?u=76281980)
+#### [Defending against privilege escalation](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-privilege-escalation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1292,9 +1271,9 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-privilege-escalation?u=76281980&t=241)** But the log files really don't mean anything unless someone is monitoring the files.
 >
-> **[4:07](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-privilege-escalation?u=76281980&t=247)** In addition to supporting auditing and accountability, monitoring the log files are sometimes the first step in detecting unusual login attempts, file modifications, and excessive network traffic.
+> **[4:07](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-privilege-escalation?u=76281980&t=247)** In addition to supporting auditing and [[Accountability]], monitoring the log files are sometimes the first step in detecting unusual login attempts, file modifications, and excessive network traffic.
 >
-> **[4:22](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-privilege-escalation?u=76281980&t=262)** And one important thing is to provide regular security education training and awareness, and this can help prevent employees from falling victim to social engineering and phishing attacks, which can lead to privilege escalation.
+> **[4:22](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-privilege-escalation?u=76281980&t=262)** And one important thing is to provide regular security education training and awareness, and this can help prevent employees from falling victim to social engineering and [[Phishing]] attacks, which can lead to privilege escalation.
 >
 > **[4:38](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-privilege-escalation?u=76281980&t=278)** Now, let's test your knowledge.
 >
@@ -1304,7 +1283,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Accountability]] (1), traffic (1), [[Engineering]] (1), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (1), [[Phishing]] (1)
 > **Best Practices:** recommended (1), best practice (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
@@ -1315,8 +1294,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dissecting rootkits
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/dissecting-rootkits?u=76281980)
+#### [Dissecting rootkits](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/dissecting-rootkits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1342,7 +1320,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/dissecting-rootkits?u=76281980&t=82)** Although a rootkit can cause serious damage, a rootkit is not a virus.
 >
-> **[1:28](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/dissecting-rootkits?u=76281980&t=88)** A virus is different in that a virus can propagate throughout a system, but risks anti-malware detection because of a virus signature and behavior.
+> **[1:28](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/dissecting-rootkits?u=76281980&t=88)** A virus is different in that a virus can propagate throughout a system, but risks anti-[[Malware Detection]] because of a virus signature and behavior.
 >
 > **[1:39](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/dissecting-rootkits?u=76281980&t=99)** In contrast, a rootkit burrows deep into the operating system and hides its existence from anti-malware protection.
 >
@@ -1350,7 +1328,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/dissecting-rootkits?u=76281980&t=111)** In order to get into the system, malicious actors use a variety of techniques such as social engineering.
 >
-> **[1:59](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/dissecting-rootkits?u=76281980&t=119)** They can lure someone to a website where they become a victim of a clickjacking attack or launching a phishing attack and convincing a victim into running an executable.
+> **[1:59](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/dissecting-rootkits?u=76281980&t=119)** They can lure someone to a website where they become a victim of a clickjacking attack or launching a [[Phishing]] attack and convincing a victim into running an executable.
 >
 > **[2:11](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/dissecting-rootkits?u=76281980&t=131)** The malicious actors may have obtained a username and password to get into a system and place the rootkit.
 >
@@ -1368,14 +1346,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Malware Detection]] (1), [[Engineering]] (1), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Malware Detection]] (1), [[Phishing]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### User Mode and Kernel Mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/user-mode-and-kernel-mode?u=76281980)
+#### [User Mode and Kernel Mode](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/user-mode-and-kernel-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1437,15 +1414,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), data (3)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **Env Vars:** ram (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using rootkits
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/using-rootkits?u=76281980)
+#### [Using rootkits](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/using-rootkits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1509,7 +1484,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/using-rootkits?u=76281980&t=234)** Although a programmer can write Easter eggs to include a rootkit, many Easter eggs are fun.
 >
-> **[4:01](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/using-rootkits?u=76281980&t=241)** For example, the Google Earth Flight Simulator, let's take a look.
+> **[4:01](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/using-rootkits?u=76281980&t=241)** For example, the [[Google]] Earth Flight Simulator, let's take a look.
 >
 > **[4:06](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/using-rootkits?u=76281980&t=246)** First, you'll want to download a copy of Google Earth.
 >
@@ -1523,7 +1498,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), hit (1)
+> **Frameworks & Libraries:** [[Google]] (2)
 > **Analogies:** such as (4), for example (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** apache (1), make (1)
@@ -1531,8 +1506,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Detect, remove, and avoid rootkits
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detect-remove-and-avoid-rootkits?u=76281980)
+#### [Detect, remove, and avoid rootkits](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detect-remove-and-avoid-rootkits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1542,7 +1516,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detect-remove-and-avoid-rootkits?u=76281980&t=13)** First, let's talk about how we can detect a rootkit.
 >
-> **[0:18](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detect-remove-and-avoid-rootkits?u=76281980&t=18)** Rootkit detectors are "specialized software that essentially act as a host-based intrusion detection system that monitors the activity on a single host."
+> **[0:18](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detect-remove-and-avoid-rootkits?u=76281980&t=18)** Rootkit detectors are "specialized software that essentially act as a host-based [[Intrusion Detection]] system that monitors the activity on a single host."
 >
 > **[0:29](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detect-remove-and-avoid-rootkits?u=76281980&t=29)** They work by creating a "cryptographic hash of important system files, storing the hash values in a database, and then reporting what files have changed."
 >
@@ -1550,7 +1524,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detect-remove-and-avoid-rootkits?u=76281980&t=51)** Rootkit detectors include Tripwire, which is a commercial product that monitors file integrity in real time, and advanced intrusion detection environment, which is a free product that runs on any modern Unix system.
 >
-> **[1:07](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detect-remove-and-avoid-rootkits?u=76281980&t=67)** To monitor the integrity of the files, the software will first "scan the system and initialize the database by creating a message digest of each file" using one of many cryptographic hash algorithms, such as MD5, SHA-256, or BLAKE2.
+> **[1:07](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detect-remove-and-avoid-rootkits?u=76281980&t=67)** To monitor the integrity of the files, the software will first "scan the system and initialize the database by creating a message digest of each file" using one of many cryptographic hash [[Algorithms]], such as MD5, SHA-256, or BLAKE2.
 >
 > **[1:27](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detect-remove-and-avoid-rootkits?u=76281980&t=87)** After initialization, "the software scans the system at predefined intervals to check the integrity of the files" and will flag any anomalies.
 >
@@ -1576,7 +1550,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detect-remove-and-avoid-rootkits?u=76281980&t=158)** In some cases, full removal might require drastic measures.
 >
-> **[2:43](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detect-remove-and-avoid-rootkits?u=76281980&t=163)** Measures can include a complete operating system reinstallation, "restoring from a clean backup, or replacing hardware components" to ensure the rootkit's complete eradication.
+> **[2:43](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detect-remove-and-avoid-rootkits?u=76281980&t=163)** Measures can include a complete operating system reinstallation, "restoring from a clean backup, or replacing [[Hardware]] components" to ensure the rootkit's complete eradication.
 >
 > **[2:57](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detect-remove-and-avoid-rootkits?u=76281980&t=177)** Now finally, let's talk about ways to avoid a rootkit.
 >
@@ -1596,7 +1570,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Intrusion Detection]] (2), database (2), product (2), [[Algorithms]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (2), [[Algorithms]] (1), [[Hardware]] (1)
 > **Env Vars:** md5 (1), sha (1), blake2 (1), sha256 (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
@@ -1610,18 +1584,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Outlining keystroke loggers
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-keystroke-loggers?u=76281980)
+#### [Outlining keystroke loggers](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-keystroke-loggers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-keystroke-loggers?u=76281980&t=0)** - [Instructor] Keystroke loggers record every keystroke made on the system to capture information.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-keystroke-loggers?u=76281980&t=7)** In this segment, we'll compare software and hardware keyloggers.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-keystroke-loggers?u=76281980&t=7)** In this segment, we'll compare software and [[Hardware]] keyloggers.
 >
 > **[0:12](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-keystroke-loggers?u=76281980&t=12)** First, let's talk about how keystroke loggers are used.
 >
-> **[0:16](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-keystroke-loggers?u=76281980&t=16)** A keystroke logger quietly records all activity, including what you put in a Word document, email, online chats, and internet use.
+> **[0:16](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-keystroke-loggers?u=76281980&t=16)** A keystroke logger quietly records all activity, including what you put in a [[Microsoft Word|Word]] document, email, online chats, and internet use.
 >
 > **[0:27](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-keystroke-loggers?u=76281980&t=27)** Keystroke loggers are used for a number of different legitimate reasons.
 >
@@ -1631,7 +1604,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-keystroke-loggers?u=76281980&t=43)** Because a keylogger records all keystrokes, you can see the names and passwords in plain text as someone types it into a form.
 >
-> **[0:52](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-keystroke-loggers?u=76281980&t=52)** In addition, if using secure email, such as GNU Privacy Guard, you'll be able to see the email before encryption.
+> **[0:52](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-keystroke-loggers?u=76281980&t=52)** In addition, if using secure email, such as GNU [[Privacy]] Guard, you'll be able to see the email before encryption.
 >
 > **[1:01](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-keystroke-loggers?u=76281980&t=61)** Now, let's compare software and hardware keyloggers.
 >
@@ -1657,7 +1630,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-keystroke-loggers?u=76281980&t=127)** In some cases, a keylogger can grab screen captures, and this activity may fill the hard drive and cause stability problems.
 >
-> **[2:16](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-keystroke-loggers?u=76281980&t=136)** In addition, some keyloggers send information over to another device or server, which might alert your firewall or intrusion detection system.
+> **[2:16](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-keystroke-loggers?u=76281980&t=136)** In addition, some keyloggers send information over to another device or server, which might alert your firewall or [[Intrusion Detection]] system.
 >
 > **[2:27](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-keystroke-loggers?u=76281980&t=147)** Now, hardware keyloggers are a little bit different in that they must be physically attached to the system.
 >
@@ -1689,13 +1662,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (7), data (4), [[Microsoft Word|Word]] (1), [[Security]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (7), [[Microsoft Word|Word]] (1), [[Privacy]] (1), [[Intrusion Detection]] (1)
 > **Env Vars:** gnu (1), usb (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protecting against keylogging
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/protecting-against-keylogging?u=76281980)
+#### [Protecting against keylogging](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/protecting-against-keylogging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1715,7 +1687,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/protecting-against-keylogging?u=76281980&t=46)** So let's talk about some best practices to help protect against keylogging.
 >
-> **[0:52](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/protecting-against-keylogging?u=76281980&t=52)** Now, one area we can focus in on is system and network security.
+> **[0:52](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/protecting-against-keylogging?u=76281980&t=52)** Now, one area we can focus in on is system and [[Network Security]].
 >
 > **[0:57](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/protecting-against-keylogging?u=76281980&t=57)** To start, make sure to use a firewall.
 >
@@ -1725,7 +1697,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/protecting-against-keylogging?u=76281980&t=73)** However, you should employ egress filtering, which monitors outbound connections with the option of shutting down all inbound and outbound connections.
 >
-> **[1:25](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/protecting-against-keylogging?u=76281980&t=85)** Windows User Account Control can help you maintain control of your system by notifying you when a program makes changes that requires administrator level permissions.
+> **[1:25](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/protecting-against-keylogging?u=76281980&t=85)** [[Windows]] User Account Control can help you maintain control of your system by notifying you when a program makes changes that requires administrator level permissions.
 >
 > **[1:38](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/protecting-against-keylogging?u=76281980&t=98)** Make sure to regularly monitor system processes and network activity as this can help identify suspicious behavior indicative of a keylogger.
 >
@@ -1733,7 +1705,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/protecting-against-keylogging?u=76281980&t=115)** Instead, obtain software from a reputable vendor, use a strong password, and when in the system, operate primarily in a limited user account, which will reduce the risk of malware gaining administrative privileges.
 >
-> **[2:12](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/protecting-against-keylogging?u=76281980&t=132)** Research browsers that provide enhanced privacy.
+> **[2:12](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/protecting-against-keylogging?u=76281980&t=132)** Research browsers that provide enhanced [[Privacy]].
 >
 > **[2:16](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/protecting-against-keylogging?u=76281980&t=136)** Browsers like Chrome, Safari, Firefox, Edge, Brave, or Tor prioritize security features.
 >
@@ -1753,7 +1725,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Security]] (2), game (1), [[Network Security]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (1), [[Windows]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (2)
 > **Tools:** safari (1), firefox (1)
 > **Best Practices:** make sure to (2)
@@ -1767,8 +1739,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explaining spyware behavior
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/explaining-spyware-behavior?u=76281980)
+#### [Explaining spyware behavior](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/explaining-spyware-behavior?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1778,7 +1749,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/explaining-spyware-behavior?u=76281980&t=12)** Spyware is a form of malware that is placed onto a system by several methods and is used by organized crime, malicious actors, advertisers, and even countries.
 >
-> **[0:26](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/explaining-spyware-behavior?u=76281980&t=26)** Spyware can manifest in various forms, all of which can present significant issues.
+> **[0:26](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/explaining-spyware-behavior?u=76281980&t=26)** Spyware can manifest in various [[Forms]], all of which can present significant issues.
 >
 > **[0:32](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/explaining-spyware-behavior?u=76281980&t=32)** So let's talk about some spyware activity.
 >
@@ -1828,18 +1799,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), web (2), [[Forms]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **Env Vars:** pdf (1)
 > **Speakers:** - spyware (1)
 
-#### Mobile spyware and invasive apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/mobile-spyware-and-invasive-apps?u=76281980)
+#### [Mobile spyware and invasive apps](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/mobile-spyware-and-invasive-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/mobile-spyware-and-invasive-apps?u=76281980&t=0)** - Spyware and invasive apps on a mobile device can invade your privacy.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/mobile-spyware-and-invasive-apps?u=76281980&t=0)** - Spyware and invasive apps on a mobile device can invade your [[Privacy]].
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/mobile-spyware-and-invasive-apps?u=76281980&t=7)** In this segment, we'll discuss ways malicious actors can infiltrate cell phones and tablets, along with ways to protect your device.
 >
@@ -1855,7 +1825,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/mobile-spyware-and-invasive-apps?u=76281980&t=44)** Some behaviors of invasive apps include collecting user information such as location data, contacts, and browsing history.
 >
-> **[0:54](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/mobile-spyware-and-invasive-apps?u=76281980&t=54)** Displaying intrusive advertisements that disrupt the user experience or lead to unintentional clicks.
+> **[0:54](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/mobile-spyware-and-invasive-apps?u=76281980&t=54)** Displaying intrusive advertisements that disrupt the [[User Experience (UX)|user experience]] or lead to unintentional clicks.
 >
 > **[1:03](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/mobile-spyware-and-invasive-apps?u=76281980&t=63)** Using excessive device resources such as CPU, memory or battery, and can degrade performance.
 >
@@ -1863,7 +1833,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/mobile-spyware-and-invasive-apps?u=76281980&t=79)** Mobile spyware is malicious software designed to monitor and gather information from a mobile device without the user's knowledge or consent.
 >
-> **[1:31](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/mobile-spyware-and-invasive-apps?u=76281980&t=91)** Spyware can be installed through various methods, including malicious app downloads, phishing attacks, or physical access to the device.
+> **[1:31](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/mobile-spyware-and-invasive-apps?u=76281980&t=91)** Spyware can be installed through various methods, including malicious app downloads, [[Phishing]] attacks, or physical access to the device.
 >
 > **[1:41](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/mobile-spyware-and-invasive-apps?u=76281980&t=101)** Now, some characteristics include monitoring and recording calls, text messages, emails, and other communications, tracking the device's location, capturing passwords and other sensitive information, accessing photos, videos, and other files stored on the device.
 >
@@ -1873,7 +1843,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/mobile-spyware-and-invasive-apps?u=76281980&t=134)** You'll want to avoid downloading apps from unknown or untrusted sources.
 >
-> **[2:20](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/mobile-spyware-and-invasive-apps?u=76281980&t=140)** Use reputable app stores like Google Play Store or Apple App Store, which have strict guidelines for app submissions.
+> **[2:20](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/mobile-spyware-and-invasive-apps?u=76281980&t=140)** Use reputable app stores like [[Google]] Play Store or Apple App Store, which have strict guidelines for app submissions.
 >
 > **[2:29](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/mobile-spyware-and-invasive-apps?u=76281980&t=149)** Read app permissions and privacy policies before installing an app.
 >
@@ -1893,13 +1863,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (3), [[Security]] (3), data (1), [[User Experience (UX)|User experience]] (1), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[User Experience (UX)|User experience]] (1), [[Phishing]] (1), [[Google]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** cpu (1)
 > **Speakers:** - spyware (1)
 
-#### Defending against spyware
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-spyware?u=76281980)
+#### [Defending against spyware](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-spyware?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1923,7 +1892,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-spyware?u=76281980&t=60)** Avoid opening email attachments or clicking on links from unknown or suspicious senders.
 >
-> **[1:06](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-spyware?u=76281980&t=66)** If your endpoint or malware protection warns you that the website you're going to has a risky reputation, don't visit the site and stay informed about common spyware tactics and techniques such as phishing scams and social engineering to recognize and avoid potential threats.
+> **[1:06](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-spyware?u=76281980&t=66)** If your endpoint or malware protection warns you that the website you're going to has a risky reputation, don't visit the site and stay informed about common spyware tactics and techniques such as [[Phishing]] scams and social engineering to recognize and avoid potential threats.
 >
 > **[1:26](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-spyware?u=76281980&t=86)** Now, securing your browser is your first line of defense.
 >
@@ -1931,11 +1900,11 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-spyware?u=76281980&t=99)** I'm here in Firefox and we'll go to Settings.
 >
-> **[1:44](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-spyware?u=76281980&t=104)** And then once their, Privacy & Security.
+> **[1:44](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-spyware?u=76281980&t=104)** And then once their, [[Privacy]] & Security.
 >
 > **[1:48](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-spyware?u=76281980&t=108)** Now here we can see how it explains browser privacy.
 >
-> **[1:52](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-spyware?u=76281980&t=112)** This feature Enhanced Tracking Protection protects you against things such as social media trackers or cross site tracking cookies, and tracking content in private windows.
+> **[1:52](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-spyware?u=76281980&t=112)** This feature Enhanced Tracking Protection protects you against things such as social media trackers or cross site tracking cookies, and tracking content in private [[Windows]].
 >
 > **[2:04](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defending-against-spyware?u=76281980&t=124)** Now scroll down and you can modify this to make it stricter or customize it if you like.
 >
@@ -1963,7 +1932,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (5), [[Security]] (2), [[Phishing]] (1), [[Engineering]] (1), feature (1)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[Phishing]] (1), [[Windows]] (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -1976,8 +1945,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using steganography
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/using-steganography?u=76281980)
+#### [Using steganography](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/using-steganography?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2063,7 +2031,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), application (2)
 > **Env Vars:** gif (3), wav (2), mp3 (1)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -2071,8 +2038,7 @@ created: 2026-05-02
 > **File Paths:** secret.txt (1)
 > **Speakers:** - [instructor] (1)
 
-#### Swimming in the NTFS data stream
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/swimming-in-the-ntfs-data-stream?u=76281980)
+#### [Swimming in the NTFS data stream](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/swimming-in-the-ntfs-data-stream?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2080,15 +2046,15 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/swimming-in-the-ntfs-data-stream?u=76281980&t=8)** In this segment, we'll expose the dangers of hidden streams and show how to hide a text file in a data stream of another text file.
 >
-> **[0:19](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/swimming-in-the-ntfs-data-stream?u=76281980&t=19)** Microsoft developed the New Technology File System specifically for Windows operating systems.
+> **[0:19](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/swimming-in-the-ntfs-data-stream?u=76281980&t=19)** [[Microsoft]] developed the New Technology File System specifically for [[Windows]] operating systems.
 >
 > **[0:26](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/swimming-in-the-ntfs-data-stream?u=76281980&t=26)** New Technology File System Alternate Data Streams is a feature of the file system that allows additional data to be associated with a file or folder without changing its main content.
 >
-> **[0:40](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/swimming-in-the-ntfs-data-stream?u=76281980&t=40)** This feature can be used for various purposes, such as storing metadata, file attributes, or even hiding data within a file.
+> **[0:40](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/swimming-in-the-ntfs-data-stream?u=76281980&t=40)** This feature can be used for various purposes, such as storing [[Metadata]], file attributes, or even hiding data within a file.
 >
 > **[0:51](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/swimming-in-the-ntfs-data-stream?u=76281980&t=51)** Alternate data streams were originally designed to provide compatibility with non-Windows file systems.
 >
-> **[0:58](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/swimming-in-the-ntfs-data-stream?u=76281980&t=58)** However, alternate data streaming can store data in hidden files that are linked to a regular visible file.
+> **[0:58](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/swimming-in-the-ntfs-data-stream?u=76281980&t=58)** However, alternate [[Data Streaming]] can store data in hidden files that are linked to a regular visible file.
 >
 > **[1:07](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/swimming-in-the-ntfs-data-stream?u=76281980&t=67)** The streams are not limited in size, and there can be more than one stream linked to the visible file.
 >
@@ -2144,15 +2110,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Windows]] (2), feature (2), [[Security]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Data Streaming]] (2), [[Microsoft]] (1), [[Metadata]] (1)
 > **File Paths:** sample.txt (4), secret.txt (1)
 > **Tools:** command line (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using whitespace steganography
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/using-whitespace-steganography?u=76281980)
+#### [Using whitespace steganography](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/using-whitespace-steganography?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2196,11 +2161,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Speakers:** - [instructor] (1)
 
-#### Detecting steganography
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detecting-steganography?u=76281980)
+#### [Detecting steganography](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detecting-steganography?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2260,7 +2223,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detecting-steganography?u=76281980&t=201)** But first, let's talk about what represents a large payload.
 >
-> **[3:26](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detecting-steganography?u=76281980&t=206)** I'm in PowerPoint, and I want to show you a compression technique.
+> **[3:26](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detecting-steganography?u=76281980&t=206)** I'm in [[Microsoft PowerPoint|PowerPoint]], and I want to show you a compression technique.
 >
 > **[3:31](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detecting-steganography?u=76281980&t=211)** Now this is a picture of a snowy day.
 >
@@ -2282,7 +2245,7 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detecting-steganography?u=76281980&t=289)** As a result, we need to have a deeper look into the file by using specialized tools for analysis.
 >
-> **[4:56](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detecting-steganography?u=76281980&t=296)** The products deal directly with steganalysis to search for clues of steganography being used in a carrier.
+> **[4:56](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detecting-steganography?u=76281980&t=296)** The [[Microsoft Products|products]] deal directly with steganalysis to search for clues of steganography being used in a carrier.
 >
 > **[5:03](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detecting-steganography?u=76281980&t=303)** Now, once a suspected carrier is found, the software will scan the entire file system, flag any suspect files, and display the results.
 >
@@ -2290,7 +2253,7 @@ created: 2026-05-02
 >
 > **[5:24](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detecting-steganography?u=76281980&t=324)** Various tools must be used to obtain the password or passphrase so that the contents can be revealed.
 >
-> **[5:32](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detecting-steganography?u=76281980&t=332)** The bottom line is that new steganography algorithms are being written all the time with better methods to conceal information and hide in plain sight.
+> **[5:32](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detecting-steganography?u=76281980&t=332)** The bottom line is that new steganography [[Algorithms]] are being written all the time with better methods to conceal information and hide in plain sight.
 >
 > **[5:44](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/detecting-steganography?u=76281980&t=344)** Now let's test your knowledge.
 >
@@ -2300,7 +2263,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Products|Products]] (1), [[Search]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Products|Products]] (1), [[Algorithms]] (1)
 > **Analogies:** picture (2), such as (1), for example (1)
 > **Definitions:** is a  (3)
 > **File Paths:** secret.txt (1)
@@ -2314,8 +2277,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Remaining in the system
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/remaining-in-the-system?u=76281980)
+#### [Remaining in the system](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/remaining-in-the-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2349,7 +2311,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/remaining-in-the-system?u=76281980&t=119)** Misusing trust relationships between different domains or external entities to move laterally or gain unauthorized access to resources and trusted domains.
 >
-> **[2:12](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/remaining-in-the-system?u=76281980&t=132)** Or abusing admin tools like PowerShell, Group Policy or Active Directory Management tools to create back doors and escalate privileges.
+> **[2:12](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/remaining-in-the-system?u=76281980&t=132)** Or abusing admin tools like [[Powershell]], Group Policy or [[Active Directory]] Management tools to create back doors and escalate privileges.
 >
 > **[2:23](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/remaining-in-the-system?u=76281980&t=143)** In addition, malicious actors can modify system integrity by exploiting a vulnerability which allows for remote code execution.
 >
@@ -2361,13 +2323,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (1), [[Active Directory]] (1), management (1)
+> **Frameworks & Libraries:** [[Powershell]] (1), [[Active Directory]] (1)
 > **Tools:** powershell (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Staying under the radar
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/staying-under-the-radar?u=76281980)
+#### [Staying under the radar](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/staying-under-the-radar?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2379,7 +2340,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/staying-under-the-radar?u=76281980&t=29)** Let's talk about a few methods and techniques.
 >
-> **[0:32](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/staying-under-the-radar?u=76281980&t=32)** One way is by abusing data protection API, which is a Windows API that provides services to encrypt and decrypt data, and is used by multiple applications to store credentials.
+> **[0:32](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/staying-under-the-radar?u=76281980&t=32)** One way is by abusing data protection API, which is a [[Windows]] API that provides services to encrypt and decrypt data, and is used by multiple applications to store credentials.
 >
 > **[0:47](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/staying-under-the-radar?u=76281980&t=47)** Malicious actors extract keys or manipulate operations, to access or tamper with protected data.
 >
@@ -2393,7 +2354,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/staying-under-the-radar?u=76281980&t=86)** An attack can create malicious event subscriptions to execute code or commands on target systems, which will allow a malicious actor to maintain persistence, even after the system reboots or changes.
 >
-> **[1:41](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/staying-under-the-radar?u=76281980&t=101)** Another commonly used attack method is to leverage Active Directory, which is a directory service used in a Windows environment.
+> **[1:41](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/staying-under-the-radar?u=76281980&t=101)** Another commonly used attack method is to leverage [[Active Directory]], which is a directory service used in a Windows environment.
 >
 > **[1:50](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/staying-under-the-radar?u=76281980&t=110)** Active Directory stores information about network resources across a domain, and it also provides authentication and authorization services.
 >
@@ -2421,15 +2382,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Active Directory]] (5), api (3), [[Windows]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (5), [[Windows]] (3)
 > **Definitions:** is a  (4)
 > **Env Vars:** api (3)
 > **Prerequisites:** install (1), set up (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defend against persistence attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defend-against-persistence-attacks?u=76281980)
+#### [Defend against persistence attacks](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defend-against-persistence-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2457,7 +2417,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defend-against-persistence-attacks?u=76281980&t=100)** Monitor and detect by implementing logging and monitoring solutions to detect suspicious activities and unauthorized access attempts.
 >
-> **[1:51](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defend-against-persistence-attacks?u=76281980&t=111)** Use endpoint protection, such as anti-malware and intrusion detection, intrusion prevention.
+> **[1:51](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defend-against-persistence-attacks?u=76281980&t=111)** Use endpoint protection, such as anti-malware and [[Intrusion Detection]], intrusion prevention.
 >
 > **[1:58](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defend-against-persistence-attacks?u=76281980&t=118)** Enable behavioral analysis and heuristic scanning to identify and block suspicious behavior patterns, indicative of persistence attacks.
 >
@@ -2467,7 +2427,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defend-against-persistence-attacks?u=76281980&t=142)** Use firewalls and policies to restrict unauthorized access between network segments.
 >
-> **[2:29](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defend-against-persistence-attacks?u=76281980&t=149)** Develop and maintain an incident response plan that outlines procedures for responding to security incidents, including persistence attacks.
+> **[2:29](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defend-against-persistence-attacks?u=76281980&t=149)** Develop and maintain an [[Incident Response]] plan that outlines procedures for responding to security incidents, including persistence attacks.
 >
 > **[2:40](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/defend-against-persistence-attacks?u=76281980&t=160)** And provide regular training and awareness programs to educate users and staff about social engineering tactics and best practices for securely handling credentials and sensitive information.
 >
@@ -2481,7 +2441,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), data (1), [[Intrusion Detection]] (1), [[Incident Response]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (1), [[Incident Response]] (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2491,8 +2451,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Disabling logging and hiding files
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/disabling-logging-and-hiding-files?u=76281980)
+#### [Disabling logging and hiding files](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/disabling-logging-and-hiding-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2502,7 +2461,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/disabling-logging-and-hiding-files?u=76281980&t=13)** First, let's talk about concealing files.
 >
-> **[0:16](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/disabling-logging-and-hiding-files?u=76281980&t=16)** When conducting an ethical hacking exercise, one valuable skill is to be able to hide files and tools within the system.
+> **[0:16](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/disabling-logging-and-hiding-files?u=76281980&t=16)** When conducting an [[Ethical Hacking]] exercise, one valuable skill is to be able to hide files and tools within the system.
 >
 > **[0:25](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/disabling-logging-and-hiding-files?u=76281980&t=25)** Files can be hidden in alternate data streams or by using steganography.
 >
@@ -2534,7 +2493,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/disabling-logging-and-hiding-files?u=76281980&t=142)** Now, if we were to double click any of those and go to Explain, it tells us what it's doing.
 >
-> **[2:28](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/disabling-logging-and-hiding-files?u=76281980&t=148)** This security setting determines, whether the operating system audits user attempts to access active directory objects.
+> **[2:28](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/disabling-logging-and-hiding-files?u=76281980&t=148)** This security setting determines, whether the operating system audits user attempts to access [[Active Directory]] objects.
 >
 > **[2:36](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/disabling-logging-and-hiding-files?u=76281980&t=156)** Okay, that sounds like a good one we want to disable.
 >
@@ -2556,7 +2515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), [[Ethical Hacking]] (1), data (1), teams (1), [[Active Directory]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1), [[Active Directory]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (2)
 > **Analogies:** such as (2)
@@ -2564,14 +2523,13 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [tutor] (1)
 
-#### Outlining ways to cover your tracks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-ways-to-cover-your-tracks?u=76281980)
+#### [Outlining ways to cover your tracks](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-ways-to-cover-your-tracks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-ways-to-cover-your-tracks?u=76281980&t=0)** - [Instructor] After achieving and maintaining access, it's time to exit the system.
 >
-> **[0:05](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-ways-to-cover-your-tracks?u=76281980&t=5)** In this segment, we'll discover some of the ways to clean up evidence and cover any tracks or traces of activity on a Linux or Windows machine.
+> **[0:05](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-ways-to-cover-your-tracks?u=76281980&t=5)** In this segment, we'll discover some of the ways to clean up evidence and cover any tracks or traces of activity on a [[Linux]] or [[Windows]] machine.
 >
 > **[0:15](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-ways-to-cover-your-tracks?u=76281980&t=15)** Now, once the pen test is complete, the team will need to properly exit the system.
 >
@@ -2615,7 +2573,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-ways-to-cover-your-tracks?u=76281980&t=211)** And using this command will shred it completely.
 >
-> **[3:35](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-ways-to-cover-your-tracks?u=76281980&t=215)** Now, one tool that we can use to clean up nearly all traces of evidence is the metasploit meterpreter, which runs in memory on the system.
+> **[3:35](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-ways-to-cover-your-tracks?u=76281980&t=215)** Now, one tool that we can use to clean up nearly all traces of evidence is the [[Metasploit]] meterpreter, which runs in memory on the system.
 >
 > **[3:45](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/outlining-ways-to-cover-your-tracks?u=76281980&t=225)** And this helps to avoid detection by any anti-malware and antivirus.
 >
@@ -2633,7 +2591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[Linux]] (3), [[Security]] (2), application (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Linux]] (3), [[Metasploit]] (1)
 > **Analogies:** for example (2), such as (1)
 > **Prerequisites:** you'll need (3)
 > **UI Navigation:** go to (2)
@@ -2641,12 +2599,11 @@ created: 2026-05-02
 > **Env Vars:** histsize (1)
 > **Speakers:** - [instructor] (1)
 
-#### Summarize the course and what's next
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/summarize-course-and-what-s-next?u=76281980)
+#### [Summarize the course and what's next](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/summarize-course-and-what-s-next?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/summarize-course-and-what-s-next?u=76281980&t=0)** - [Narrator] Thank you for watching "Ethical Hacking: System Hacking."
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/summarize-course-and-what-s-next?u=76281980&t=0)** - [Narrator] Thank you for watching "[[Ethical Hacking]]: System Hacking."
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/summarize-course-and-what-s-next?u=76281980&t=5)** In this course, I reviewed ways to obtain a password and then, once obtained, ways to escalate privileges and execute applications.
 >
@@ -2658,9 +2615,9 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/summarize-course-and-what-s-next?u=76281980&t=41)** New content is added all the time.
 >
-> **[0:44](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/summarize-course-and-what-s-next?u=76281980&t=44)** If you're interested in learning more about packet analysis, check out my learning path, improve your Wireshark skills.
+> **[0:44](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/summarize-course-and-what-s-next?u=76281980&t=44)** If you're interested in learning more about packet analysis, check out my learning path, improve your [[Wireshark]] skills.
 >
-> **[0:53](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/summarize-course-and-what-s-next?u=76281980&t=53)** If you're interested in becoming an ethical hacker, be sure to watch the rest of the courses in the series.
+> **[0:53](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/summarize-course-and-what-s-next?u=76281980&t=53)** If you're interested in becoming an ethical hacker, be sure to watch the [[Representational State Transfer (REST)|rest]] of the courses in the series.
 >
 > **[1:00](https://www.linkedin.com/learning/ethical-hacking-system-hacking-24451006/summarize-course-and-what-s-next?u=76281980&t=60)** You might also want to see what my colleague, Malcolm Shore, has for you on his homepage.
 >
@@ -2668,7 +2625,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethical Hacking]] (1), data (1), [[Wireshark]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1), [[Wireshark]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [narrator] (1)
 
 

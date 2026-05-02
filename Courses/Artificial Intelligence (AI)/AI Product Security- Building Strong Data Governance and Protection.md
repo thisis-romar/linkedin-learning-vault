@@ -92,34 +92,33 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Unlock the essentials of AI data governance and security
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/unlock-the-essentials-of-ai-data-governance-and-security?u=76281980)
+#### [Unlock the essentials of AI data governance and security](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/unlock-the-essentials-of-ai-data-governance-and-security?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/unlock-the-essentials-of-ai-data-governance-and-security?u=76281980&t=0)** - AI is only as strong as the framework supporting it.
 >
-> **[0:03](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/unlock-the-essentials-of-ai-data-governance-and-security?u=76281980&t=3)** Without data governance and security, it's like building a skyscraper on shifting sand.
+> **[0:03](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/unlock-the-essentials-of-ai-data-governance-and-security?u=76281980&t=3)** Without [[Data Governance]] and security, it's like building a skyscraper on shifting sand.
 >
 > **[0:09](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/unlock-the-essentials-of-ai-data-governance-and-security?u=76281980&t=9)** You need to build AI systems that are secure, trustworthy, and resilient, no matter how fast the world around them changes.
 >
 > **[0:17](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/unlock-the-essentials-of-ai-data-governance-and-security?u=76281980&t=17)** And I'm going to show you how.
 >
-> **[0:19](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/unlock-the-essentials-of-ai-data-governance-and-security?u=76281980&t=19)** I'm Meghan Maneval, and I've spent over 20 years in data governance and cybersecurity.
+> **[0:19](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/unlock-the-essentials-of-ai-data-governance-and-security?u=76281980&t=19)** I'm Meghan Maneval, and I've spent over 20 years in data governance and [[Cybersecurity]].
 >
 > **[0:24](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/unlock-the-essentials-of-ai-data-governance-and-security?u=76281980&t=24)** I know firsthand how overwhelming it can be to design and deploy these programs.
 >
-> **[0:30](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/unlock-the-essentials-of-ai-data-governance-and-security?u=76281980&t=30)** So throughout this actionable course, I'll show you how to establish and manage robust data security and governance frameworks throughout the AI product lifecycle.
+> **[0:30](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/unlock-the-essentials-of-ai-data-governance-and-security?u=76281980&t=30)** So throughout this actionable course, I'll show you how to establish and manage robust [[Data Security]] and governance frameworks throughout the AI product lifecycle.
 >
 > **[0:39](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/unlock-the-essentials-of-ai-data-governance-and-security?u=76281980&t=39)** Whether you're building from scratch or refining existing systems, you'll leave with a clear game plan to secure your AI like a pro.
 >
-> **[0:47](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/unlock-the-essentials-of-ai-data-governance-and-security?u=76281980&t=47)** Together, we'll unlock the tools, strategies, and confidence you need to lead the way in AI governance and security.
+> **[0:47](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/unlock-the-essentials-of-ai-data-governance-and-security?u=76281980&t=47)** Together, we'll unlock the tools, strategies, and confidence you need to lead the way in [[AI Governance]] and security.
 >
 > **[0:55](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/unlock-the-essentials-of-ai-data-governance-and-security?u=76281980&t=55)** Ready? Let's dive in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), data (3), [[Security]] (3), [[Cybersecurity]] (1), product (1)
+> **Frameworks & Libraries:** [[Data Governance]] (2), [[Cybersecurity]] (1), [[Data Security]] (1), [[AI Governance]] (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - ai (1)
 
@@ -128,8 +127,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI governance and security
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980)
+#### [AI governance and security](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -137,13 +135,13 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980&t=11)** Don't worry, I have.
 >
-> **[0:14](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980&t=14)** In this video, let's unpack the foundations of data governance and security, and take a look how they work hand in hand to maintain trustworthy AI.
+> **[0:14](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980&t=14)** In this video, let's unpack the foundations of [[Data Governance]] and security, and take a look how they work hand in hand to maintain trustworthy AI.
 >
 > **[0:22](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980&t=22)** Let's start with data governance, the foundation of data protection.
 >
 > **[0:27](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980&t=27)** Imagine data governance as the rule book for managing data within an organization.
 >
-> **[0:31](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980&t=31)** It's all about establishing policies and controls to ensure data quality, security, and compliance with both internal standards and legal regulations.
+> **[0:31](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980&t=31)** It's all about establishing policies and controls to ensure [[Data Quality]], security, and compliance with both internal standards and legal regulations.
 >
 > **[0:41](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980&t=41)** Governance covers three essential areas.
 >
@@ -155,15 +153,15 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980&t=63)** These policies define how long data should be kept, when it should be deleted, and how it should be used.
 >
-> **[1:10](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980&t=70)** This helps organizations avoid unnecessary data storage, which can reduce risks and save resources.
+> **[1:10](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980&t=70)** This helps organizations avoid unnecessary [[Data Storage]], which can reduce risks and save resources.
 >
-> **[1:16](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980&t=76)** Lastly, data governance ensures transparency and accountability in how AI systems make decisions.
+> **[1:16](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980&t=76)** Lastly, data governance ensures transparency and [[Accountability]] in how AI systems make decisions.
 >
 > **[1:23](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980&t=83)** When AI is used in finance, healthcare, or hiring, people's lives and livelihoods are at stake.
 >
 > **[1:30](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980&t=90)** Understanding how decisions are made can be a matter of life and death.
 >
-> **[1:35](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980&t=95)** Beyond these basics, governance also keeps organizations in line with regulatory standards, like GDPR in Europe or the various US state-specific laws that protect user privacy in California, Colorado, Virginia, and more.
+> **[1:35](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980&t=95)** Beyond these basics, governance also keeps organizations in line with regulatory standards, like GDPR in Europe or the various US state-specific laws that protect user [[Privacy]] in California, Colorado, Virginia, and more.
 >
 > **[1:50](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980&t=110)** And all of that builds trust with stakeholders and end users.
 >
@@ -177,7 +175,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980&t=142)** Now it's security's job to implement them.
 >
-> **[2:25](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980&t=145)** Maintaining data integrity is also important because AI models depend on accurate data to make accurate predictions.
+> **[2:25](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980&t=145)** Maintaining [[Data Integrity]] is also important because AI models depend on accurate data to make accurate predictions.
 >
 > **[2:32](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-governance-and-security?u=76281980&t=152)** Ensuring the integrity of the data and models prevents biased or misleading results.
 >
@@ -209,14 +207,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), ai (10), [[Security]] (9), [[Search]] (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (5), [[Data Quality]] (1), [[Data Storage]] (1), [[Accountability]] (1), [[Privacy]] (1)
 > **Analogies:** imagine (2), for example (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gdpr (1)
 > **Speakers:** - every (1)
 
-#### Key risks for data used in AI products
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/key-risks-for-data-used-in-ai-products?u=76281980)
+#### [Key risks for data used in AI products](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/key-risks-for-data-used-in-ai-products?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -228,11 +225,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/key-risks-for-data-used-in-ai-products?u=76281980&t=14)** However, with AI, the consequences of poor risk management go much deeper.
 >
-> **[0:19](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/key-risks-for-data-used-in-ai-products?u=76281980&t=19)** Data quality and integrity are essential to any AI system because the models are only as reliable as the data they're trained on.
+> **[0:19](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/key-risks-for-data-used-in-ai-products?u=76281980&t=19)** [[Data Quality]] and integrity are essential to any AI system because the models are only as reliable as the data they're trained on.
 >
 > **[0:27](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/key-risks-for-data-used-in-ai-products?u=76281980&t=27)** If that data is flawed, biased, or outdated, we can't expect the model's decisions to be accurate or fair.
 >
-> **[0:34](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/key-risks-for-data-used-in-ai-products?u=76281980&t=34)** Imagine an AI system trained on data that has gaps like a jigsaw puzzle with missing pieces, except this isn't just a minor flaw.
+> **[0:34](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/key-risks-for-data-used-in-ai-products?u=76281980&t=34)** Imagine an AI system trained on data that has gaps like a [[Jigsaw]] puzzle with missing pieces, except this isn't just a minor flaw.
 >
 > **[0:42](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/key-risks-for-data-used-in-ai-products?u=76281980&t=42)** With AI systems, it could lead to harmful outcomes like inequitable hiring practices or inaccurate healthcare recommendations.
 >
@@ -244,7 +241,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/key-risks-for-data-used-in-ai-products?u=76281980&t=63)** When the data is dynamic, there are more chances for poor data to sneak in, especially, if there aren't sufficient governance controls in place.
 >
-> **[1:11](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/key-risks-for-data-used-in-ai-products?u=76281980&t=71)** And lastly, with data privacy regulations constantly evolving, you need to make sure your governance policies stay up to date and adapt your practices accordingly.
+> **[1:11](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/key-risks-for-data-used-in-ai-products?u=76281980&t=71)** And lastly, with [[Data Privacy]] regulations constantly evolving, you need to make sure your governance policies stay up to date and adapt your practices accordingly.
 >
 > **[1:21](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/key-risks-for-data-used-in-ai-products?u=76281980&t=81)** By setting strict governance rules around what data gets used throughout the AI system's lifecycle, you reduce the chance of using poor data that can compromise the model.
 >
@@ -266,11 +263,11 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/key-risks-for-data-used-in-ai-products?u=76281980&t=134)** Unlike traditional hacks, these adversarial attacks can manipulate the data inputs and alter the integrity of the AI model's output, forcing the system into making wrong decisions.
 >
-> **[2:25](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/key-risks-for-data-used-in-ai-products?u=76281980&t=145)** Imagine if your AI model fell into the wrong hands, it would be a nightmare for both privacy and business integrity.
+> **[2:25](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/key-risks-for-data-used-in-ai-products?u=76281980&t=145)** Imagine if your AI model fell into the wrong hands, it would be a nightmare for both [[Privacy]] and business integrity.
 >
 > **[2:33](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/key-risks-for-data-used-in-ai-products?u=76281980&t=153)** Another big risk comes from third-party dependencies.
 >
-> **[2:36](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/key-risks-for-data-used-in-ai-products?u=76281980&t=156)** Many organizations use external vendors for AI tools, cloud storage, and data processing.
+> **[2:36](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/key-risks-for-data-used-in-ai-products?u=76281980&t=156)** Many organizations use external vendors for AI tools, [[Cloud Storage]], and [[Data Processing]].
 >
 > **[2:42](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/key-risks-for-data-used-in-ai-products?u=76281980&t=162)** There are also various regulations or statutory frameworks companies need to adhere to, and some might also have specific customer or industry-specific standards applicable to AI.
 >
@@ -288,29 +285,28 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/key-risks-for-data-used-in-ai-products?u=76281980&t=208)** Transparency isn't just a buzzword.
 >
-> **[3:30](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/key-risks-for-data-used-in-ai-products?u=76281980&t=210)** It's crucial for building trust and ensuring AI systems act responsibly.
+> **[3:30](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/key-risks-for-data-used-in-ai-products?u=76281980&t=210)** It's crucial for [[Building Trust]] and ensuring AI systems act responsibly.
 >
 > **[3:35](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/key-risks-for-data-used-in-ai-products?u=76281980&t=215)** Understanding these risks is the first step in protecting AI systems from potentially dangerous outcomes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), data (19), [[Security]] (3), management (2), [[Privacy]] (2)
+> **Frameworks & Libraries:** [[Data Quality]] (1), [[Jigsaw]] (1), [[Data Privacy]] (1), [[Privacy]] (1), [[Cloud Storage]] (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### The importance of AI data governance and security
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980)
+#### [The importance of AI data governance and security](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=0)** - [Narrator] Meet Riley.
 >
-> **[0:01](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=1)** Riley works for a global consulting company and is tasked with leading a digital transformation project.
+> **[0:01](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=1)** Riley works for a global consulting company and is tasked with leading a [[Digital Transformation]] project.
 >
 > **[0:07](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=7)** Through the implementation of AI, Riley hopes to automate several manual workflows across various departments.
 >
-> **[0:14](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=14)** After conducting a quick risk assessment, Riley identified poor data quality and cyberattacks as their most significant threats.
+> **[0:14](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=14)** After conducting a quick risk assessment, Riley identified poor [[Data Quality]] and cyberattacks as their most significant threats.
 >
 > **[0:22](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=22)** They believe that fortifying sensitive data and mitigating the risk of breaches will be sufficient to protect their data.
 >
@@ -328,27 +324,27 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=63)** They also build trust with stakeholders.
 >
-> **[1:05](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=65)** When AI systems are transparent and accountable, organizations are better able to explain AI decisions, meet customer needs, and demonstrate responsible data stewardship.
+> **[1:05](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=65)** When AI systems are transparent and accountable, organizations are better able to explain AI decisions, meet customer needs, and demonstrate responsible [[Data Stewardship]].
 >
-> **[1:17](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=77)** Still not convinced data governance and security are important?
+> **[1:17](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=77)** Still not convinced [[Data Governance]] and security are important?
 >
-> **[1:20](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=80)** Well, with the rapid growth of AI, data privacy regulations like GDPR, CCPA and sector-specific standards such as HIPAA and FINRA are becoming increasingly stringent.
+> **[1:20](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=80)** Well, with the rapid growth of AI, [[Data Privacy]] regulations like GDPR, CCPA and sector-specific standards such as HIPAA and FINRA are becoming increasingly stringent.
 >
 > **[1:31](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=91)** Effective governance ensures that AI systems adhere to these regulations, reducing the risk of penalties, fines, and legal liabilities.
 >
-> **[1:39](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=99)** And believe it or not, data governance and security can also unlock new revenue from markets or industries that require high levels of regulatory compliance.
+> **[1:39](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=99)** And believe it or not, data governance and security can also unlock new revenue from markets or industries that require high levels of [[Regulatory Compliance]].
 >
-> **[1:50](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=110)** Riley now realizes that they need a structured AI governance and security program, one that will help the company scale its AI initiatives while consistently applying security controls.
+> **[1:50](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=110)** Riley now realizes that they need a structured [[AI Governance]] and security program, one that will help the company scale its AI initiatives while consistently applying security controls.
 >
 > **[2:00](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=120)** Riley can clearly see all data flows and quickly build and update AI models as needs change.
 >
-> **[2:06](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=126)** With the new continuous monitoring and risk management workflows, Riley can quickly adapt to new security threats and compliance requirements, and they can now scale their AI initiatives without sacrificing data quality or security.
+> **[2:06](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=126)** With the new [[Continuous Monitoring]] and risk management workflows, Riley can quickly adapt to new security threats and compliance requirements, and they can now scale their AI initiatives without sacrificing data quality or security.
 >
 > **[2:19](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=139)** By future-proofing data practices, organizations can make sure their AI systems stay robust and secure even as technology and regulations evolve.
 >
 > **[2:29](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=149)** In short, strong AI governance and security measures aren't just about avoiding risk.
 >
-> **[2:33](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=153)** They're about building trust, protecting privacy, and setting the foundation for scalable AI systems.
+> **[2:33](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=153)** They're about [[Building Trust]], protecting [[Privacy]], and setting the foundation for scalable AI systems.
 >
 > **[2:40](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/the-importance-of-ai-data-governance-and-security?u=76281980&t=160)** When done right, these frameworks help organizations meet today's standards and stay prepared for tomorrow's challenges.
 >
@@ -356,14 +352,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), [[Security]] (12), data (11), [[Privacy]] (2), [[Digital Transformation]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (2), [[Data Governance]] (2), [[AI Governance]] (2), [[Digital Transformation]] (1), [[Data Stewardship]] (1)
 > **Env Vars:** gdpr (1), ccpa (1), hipaa (1), finra (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### AI data governance and security challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-data-governance-and-security-challenges?u=76281980)
+#### [AI data governance and security challenges](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-data-governance-and-security-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -373,7 +368,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-data-governance-and-security-challenges?u=76281980&t=11)** This is just one example of how AI systems can be manipulated in ways we're only beginning to understand.
 >
-> **[0:17](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-data-governance-and-security-challenges?u=76281980&t=17)** So, let's explore the challenges of AI data governance and security, and more importantly, how you can tackle them head on.
+> **[0:17](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-data-governance-and-security-challenges?u=76281980&t=17)** So, let's explore the challenges of AI [[Data Governance]] and security, and more importantly, how you can tackle them head on.
 >
 > **[0:25](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-data-governance-and-security-challenges?u=76281980&t=25)** The AI technology landscape is evolving faster than ever, but every new capability in AI creates new attack vectors for adversaries to exploit from malicious inputs that trick models into making errors to breaches that expose sensitive training data, the more integrated AI becomes in our lives, the more we have to lose.
 >
@@ -381,15 +376,15 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-data-governance-and-security-challenges?u=76281980&t=53)** This isn't theoretical. It's happening all the time.
 >
-> **[0:57](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-data-governance-and-security-challenges?u=76281980&t=57)** Imagine what could happen if someone extracted personal health records or financial data from that seemingly innocent AI model, now, pair that with poisoning attacks, where malicious data is injected into training data sets and the results, skewed outcomes and corrupted systems.
+> **[0:57](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-data-governance-and-security-challenges?u=76281980&t=57)** Imagine what could happen if someone extracted personal health records or [[Financial Data]] from that seemingly innocent AI model, now, pair that with poisoning attacks, where malicious data is injected into training data sets and the results, skewed outcomes and corrupted systems.
 >
-> **[1:13](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-data-governance-and-security-challenges?u=76281980&t=73)** These challenges underscore why data integrity is one of the cornerstones of AI security.
+> **[1:13](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-data-governance-and-security-challenges?u=76281980&t=73)** These challenges underscore why [[Data Integrity]] is one of the cornerstones of [[AI Security]].
 >
 > **[1:19](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-data-governance-and-security-challenges?u=76281980&t=79)** But there's another layer to consider, the expanded attack surface.
 >
-> **[1:23](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-data-governance-and-security-challenges?u=76281980&t=83)** With AI relying on third-party tools, open source data sets and cloud infrastructure, every integration becomes a potential vulnerability.
+> **[1:23](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-data-governance-and-security-challenges?u=76281980&t=83)** With AI relying on third-party tools, open source data sets and [[Cloud Infrastructure]], every integration becomes a potential vulnerability.
 >
-> **[1:32](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-data-governance-and-security-challenges?u=76281980&t=92)** It's like locking your front door, but leaving your windows wide open, not ideal, right?
+> **[1:32](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-data-governance-and-security-challenges?u=76281980&t=92)** It's like locking your front door, but leaving your [[Windows]] wide open, not ideal, right?
 >
 > **[1:38](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-data-governance-and-security-challenges?u=76281980&t=98)** Along with that, the rapid pace of data moving through AI systems means more chances for errors to occur.
 >
@@ -403,11 +398,11 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-data-governance-and-security-challenges?u=76281980&t=124)** So, how do we fight back?
 >
-> **[2:06](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-data-governance-and-security-challenges?u=76281980&t=126)** It starts with proactive governance frameworks that identify and mitigate vulnerabilities early, regular audits, continuous monitoring and clear accountability are your best friends here, and we'll talk all about them in our next video.
+> **[2:06](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-data-governance-and-security-challenges?u=76281980&t=126)** It starts with proactive governance frameworks that identify and mitigate vulnerabilities early, regular audits, [[Continuous Monitoring]] and clear [[Accountability]] are your best friends here, and we'll talk all about them in our next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), data (8), [[Security]] (2), [[Financial Data]] (1), [[Cloud Infrastructure]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (1), [[Financial Data]] (1), [[Data Integrity]] (1), [[AI Security]] (1), [[Cloud Infrastructure]] (1)
 > **Analogies:** for example (1), imagine (1), it's like (1)
 > **Cross-References:** next video (1)
 > **Best Practices:** don't forget (1)
@@ -418,12 +413,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining data governance for AI products
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/defining-data-governance-for-ai-products?u=76281980)
+#### [Defining data governance for AI products](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/defining-data-governance-for-ai-products?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/defining-data-governance-for-ai-products?u=76281980&t=0)** - Let's kick off this chapter by diving deep into AI data governance.
+> **[0:00](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/defining-data-governance-for-ai-products?u=76281980&t=0)** - Let's kick off this chapter by diving deep into AI [[Data Governance]].
 >
 > **[0:05](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/defining-data-governance-for-ai-products?u=76281980&t=5)** If AI systems are a house, data governance is the blueprint.
 >
@@ -449,7 +443,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/defining-data-governance-for-ai-products?u=76281980&t=52)** In AI, every data set needs a clear owner who's responsible for its quality, security and compliance.
 >
-> **[0:59](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/defining-data-governance-for-ai-products?u=76281980&t=59)** Without this accountability, data governance can quickly spiral into chaos.
+> **[0:59](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/defining-data-governance-for-ai-products?u=76281980&t=59)** Without this [[Accountability]], data governance can quickly spiral into chaos.
 >
 > **[1:05](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/defining-data-governance-for-ai-products?u=76281980&t=65)** Owners are like captains of the ship.
 >
@@ -465,7 +459,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/defining-data-governance-for-ai-products?u=76281980&t=84)** When AI makes decisions that impact people, trust hinges on understanding the how and why.
 >
-> **[1:31](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/defining-data-governance-for-ai-products?u=76281980&t=91)** However, the most important element of governance is continuous monitoring.
+> **[1:31](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/defining-data-governance-for-ai-products?u=76281980&t=91)** However, the most important element of governance is [[Continuous Monitoring]].
 >
 > **[1:36](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/defining-data-governance-for-ai-products?u=76281980&t=96)** AI data governance isn't a set-it-and-forget-it process.
 >
@@ -483,7 +477,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/defining-data-governance-for-ai-products?u=76281980&t=143)** Also, new auditing processes ensure that only current employees with specific roles have access to sensitive datasets.
 >
-> **[2:32](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/defining-data-governance-for-ai-products?u=76281980&t=152)** Data governance for AI products starts with defining ownership, monitoring access, and handling data responsibly.
+> **[2:32](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/defining-data-governance-for-ai-products?u=76281980&t=152)** Data governance for AI [[Microsoft Products|products]] starts with defining ownership, monitoring access, and handling data responsibly.
 >
 > **[2:40](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/defining-data-governance-for-ai-products?u=76281980&t=160)** By building continuous monitoring and auditing into your framework, you create a dynamic system that can adapt to challenges while maintaining trust and security.
 >
@@ -493,27 +487,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), ai (7), [[Security]] (3), [[Continuous Monitoring]] (3), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (6), [[Continuous Monitoring]] (3), [[Accountability]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for instance (1), such as (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - let (1)
 
-#### Data ownership throughout the AI product lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/data-ownership-throughout-the-ai-product-lifecycle?u=76281980)
+#### [Data ownership throughout the AI product lifecycle](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/data-ownership-throughout-the-ai-product-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/data-ownership-throughout-the-ai-product-lifecycle?u=76281980&t=0)** - [Narrator] For most people, the word ownership is about possessions.
+> **[0:00](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/data-ownership-throughout-the-ai-product-lifecycle?u=76281980&t=0)** - [Narrator] For most people, the [[Microsoft Word|word]] ownership is about possessions.
 >
 > **[0:04](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/data-ownership-throughout-the-ai-product-lifecycle?u=76281980&t=4)** You own a baseball glove, a car, or a house.
 >
 > **[0:07](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/data-ownership-throughout-the-ai-product-lifecycle?u=76281980&t=7)** But in AI, ownership isn't just about saying "The data is mine."
 >
-> **[0:12](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/data-ownership-throughout-the-ai-product-lifecycle?u=76281980&t=12)** It's about assigning responsibilities and ensuring accountability at every stage.
+> **[0:12](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/data-ownership-throughout-the-ai-product-lifecycle?u=76281980&t=12)** It's about assigning responsibilities and ensuring [[Accountability]] at every stage.
 >
 > **[0:17](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/data-ownership-throughout-the-ai-product-lifecycle?u=76281980&t=17)** Don't worry though, it's not as complicated as it sounds.
 >
-> **[0:21](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/data-ownership-throughout-the-ai-product-lifecycle?u=76281980&t=21)** Ownership in AI assigns accountability for data quality, security, and compliance from the moment the data is collected to the point it's deleted.
+> **[0:21](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/data-ownership-throughout-the-ai-product-lifecycle?u=76281980&t=21)** Ownership in AI assigns accountability for [[Data Quality]], security, and compliance from the moment the data is collected to the point it's deleted.
 >
 > **[0:32](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/data-ownership-throughout-the-ai-product-lifecycle?u=76281980&t=32)** Think of this as assigning a babysitter for your data.
 >
@@ -545,12 +538,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), ai (4), [[Accountability]] (2), teams (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (2), [[Microsoft Word|Word]] (1), [[Data Quality]] (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Data handling best practices for AI products
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/data-handling-best-practices-for-ai-products?u=76281980)
+#### [Data handling best practices for AI products](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/data-handling-best-practices-for-ai-products?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -600,7 +592,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/data-handling-best-practices-for-ai-products?u=76281980&t=107)** It's like the digital equivalent of pulverizing a hard drive.
 >
-> **[1:51](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/data-handling-best-practices-for-ai-products?u=76281980&t=111)** Whether data is in motion or at rest, encryption is your ultimate safeguard.
+> **[1:51](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/data-handling-best-practices-for-ai-products?u=76281980&t=111)** Whether data is in motion or at [[Representational State Transfer (REST)|rest]], encryption is your ultimate safeguard.
 >
 > **[1:56](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/data-handling-best-practices-for-ai-products?u=76281980&t=116)** It ensures that even if someone gains unauthorized access, the data remains unreadable.
 >
@@ -618,14 +610,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), ai (3), [[Representational State Transfer (REST)|Rest]] (2), next (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** aes (1), tls (1)
 > **Analogies:** for example (1), it's like (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Monitoring AI access and usage in AI products
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/monitoring-ai-access-and-usage-in-ai-products?u=76281980)
+#### [Monitoring AI access and usage in AI products](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/monitoring-ai-access-and-usage-in-ai-products?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -639,7 +630,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/monitoring-ai-access-and-usage-in-ai-products?u=76281980&t=20)** It's essential for AI systems.
 >
-> **[0:22](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/monitoring-ai-access-and-usage-in-ai-products?u=76281980&t=22)** It gives you a real-time view of who's interacting with your data and what they're doing.
+> **[0:22](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/monitoring-ai-access-and-usage-in-ai-products?u=76281980&t=22)** It gives you a [[Real-Time]] view of who's interacting with your data and what they're doing.
 >
 > **[0:28](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/monitoring-ai-access-and-usage-in-ai-products?u=76281980&t=28)** This oversight is key for catching unusual activity before it becomes a problem.
 >
@@ -675,11 +666,11 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/monitoring-ai-access-and-usage-in-ai-products?u=76281980&t=120)** With this level of monitoring and proactive response procedures, Riley can uphold their organization's governance and security standards.
 >
-> **[2:08](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/monitoring-ai-access-and-usage-in-ai-products?u=76281980&t=128)** By setting up continuous monitoring and maintaining detailed audit logs, organizations get a holistic picture of data ownership and how the data is being handled, allowing them to respond to threats with speed and precision.
+> **[2:08](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/monitoring-ai-access-and-usage-in-ai-products?u=76281980&t=128)** By setting up [[Continuous Monitoring]] and maintaining detailed audit logs, organizations get a holistic picture of data ownership and how the data is being handled, allowing them to respond to threats with speed and precision.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), ai (4), [[Security]] (3), [[Real-Time]] (1), next (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[Continuous Monitoring]] (1)
 > **Analogies:** it's like (1), picture (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [narrator] (1)
@@ -689,8 +680,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build a foundation for AI systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/build-a-foundation-for-ai-systems?u=76281980)
+#### [Build a foundation for AI systems](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/build-a-foundation-for-ai-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -700,7 +690,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/build-a-foundation-for-ai-systems?u=76281980&t=10)** Well, AI systems are no different.
 >
-> **[0:13](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/build-a-foundation-for-ai-systems?u=76281980&t=13)** Governance provides the blueprints for secure technology, but without a strong foundation of data security, even the most advanced AI can crumble under pressure.
+> **[0:13](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/build-a-foundation-for-ai-systems?u=76281980&t=13)** Governance provides the blueprints for secure technology, but without a strong foundation of [[Data Security]], even the most advanced AI can crumble under pressure.
 >
 > **[0:22](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/build-a-foundation-for-ai-systems?u=76281980&t=22)** Luckily, I'm better at securing AI systems than I am at building with cards.
 >
@@ -748,13 +738,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), ai (4), [[Security]] (2), database (1)
+> **Frameworks & Libraries:** [[Data Security]] (1)
 > **Cross-References:** we talked about (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identity and authentication controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/identity-and-authentication-controls?u=76281980)
+#### [Identity and authentication controls](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/identity-and-authentication-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -804,14 +793,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), ai (3), [[Security]] (2), next (1)
 > **Env Vars:** mfa (2), rbac (2), iso (1), iec (1)
 > **Analogies:** imagine (1), think of it like (1), for instance (1)
 > **URLs:** [iso.org](https://iso.org) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Encryption throughout the AI data's lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/encryption-throughout-the-ai-data-s-lifecycle?u=76281980)
+#### [Encryption throughout the AI data's lifecycle](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/encryption-throughout-the-ai-data-s-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -831,7 +818,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/encryption-throughout-the-ai-data-s-lifecycle?u=76281980&t=34)** Let's see how Riley's organization uses encryption to safeguard the sensitive data used in their AI systems.
 >
-> **[0:41](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/encryption-throughout-the-ai-data-s-lifecycle?u=76281980&t=41)** When most people think of encryption, they think of data in transit and data at rest.
+> **[0:41](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/encryption-throughout-the-ai-data-s-lifecycle?u=76281980&t=41)** When most people think of encryption, they think of data in transit and data at [[Representational State Transfer (REST)|rest]].
 >
 > **[0:47](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/encryption-throughout-the-ai-data-s-lifecycle?u=76281980&t=47)** But when AI systems house exceptionally sensitive data, like customer PII, you might consider encrypting before transit.
 >
@@ -843,7 +830,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/encryption-throughout-the-ai-data-s-lifecycle?u=76281980&t=80)** Once the data arrives at its destination, it doesn't just sit there unguarded.
 >
-> **[1:24](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/encryption-throughout-the-ai-data-s-lifecycle?u=76281980&t=84)** Data at rest, whether stored in databases or on cloud servers, should be encrypted using robust algorithms, like AES-256.
+> **[1:24](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/encryption-throughout-the-ai-data-s-lifecycle?u=76281980&t=84)** Data at rest, whether stored in [[Databases]] or on cloud servers, should be encrypted using robust [[Algorithms]], like AES-256.
 >
 > **[1:34](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/encryption-throughout-the-ai-data-s-lifecycle?u=76281980&t=94)** For added security, certain database fields, like payment details or social security numbers, can be encrypted at the column level.
 >
@@ -869,14 +856,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), ai (4), [[Representational State Transfer (REST)|Rest]] (4), [[Security]] (4), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), [[Databases]] (1), [[Algorithms]] (1)
 > **Env Vars:** pii (1), tls (1), sftp (1), aes (1)
 > **CLI Commands:** find (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - one (1)
 
-#### Ensuring data integrity and auditability
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ensuring-data-integrity-and-auditability?u=76281980)
+#### [Ensuring data integrity and auditability](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ensuring-data-integrity-and-auditability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -886,7 +872,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ensuring-data-integrity-and-auditability?u=76281980&t=8)** It's frustrating, and no matter how hard you try to make it work, it just won't function the way it's supposed to.
 >
-> **[0:14](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ensuring-data-integrity-and-auditability?u=76281980&t=14)** That's what happens when data integrity is compromised in an AI system.
+> **[0:14](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ensuring-data-integrity-and-auditability?u=76281980&t=14)** That's what happens when [[Data Integrity]] is compromised in an AI system.
 >
 > **[0:19](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ensuring-data-integrity-and-auditability?u=76281980&t=19)** Data integrity controls prevent your data from being tampered with, altered, or corrupted at any stage, either intentionally or accidentally.
 >
@@ -894,7 +880,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ensuring-data-integrity-and-auditability?u=76281980&t=34)** These controls can even protect the AI system from itself.
 >
-> **[0:38](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ensuring-data-integrity-and-auditability?u=76281980&t=38)** Over time, generative AI models can actually start producing false information.
+> **[0:38](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ensuring-data-integrity-and-auditability?u=76281980&t=38)** Over time, [[Generative AI]] models can actually start producing false information.
 >
 > **[0:43](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ensuring-data-integrity-and-auditability?u=76281980&t=43)** This is a phenomenon known as AI hallucinations.
 >
@@ -902,7 +888,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ensuring-data-integrity-and-auditability?u=76281980&t=55)** Thankfully, automated tools can monitor data flows and generate alerts the moment something seems off, whether it's an unauthorized change or corrupted data.
 >
-> **[1:05](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ensuring-data-integrity-and-auditability?u=76281980&t=65)** Riley uses tools like hashing algorithms to verify that what goes into the AI pipeline matches what comes out.
+> **[1:05](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ensuring-data-integrity-and-auditability?u=76281980&t=65)** Riley uses tools like hashing [[Algorithms]] to verify that what goes into the AI pipeline matches what comes out.
 >
 > **[1:12](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ensuring-data-integrity-and-auditability?u=76281980&t=72)** Think of it as a digital signature for your data.
 >
@@ -912,13 +898,13 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ensuring-data-integrity-and-auditability?u=76281980&t=85)** Data changes, models evolve, and new versions are deployed.
 >
-> **[1:29](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ensuring-data-integrity-and-auditability?u=76281980&t=89)** Without change management procedures like version control, it's easy to lose track of what's been updated, or worse, why something suddenly stopped working.
+> **[1:29](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ensuring-data-integrity-and-auditability?u=76281980&t=89)** Without change management procedures like [[Version Control]], it's easy to lose track of what's been updated, or worse, why something suddenly stopped working.
 >
 > **[1:39](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ensuring-data-integrity-and-auditability?u=76281980&t=99)** Versioning keeps a record of every change made to data and models.
 >
 > **[1:43](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ensuring-data-integrity-and-auditability?u=76281980&t=103)** If a deployed model starts producing unexpected outputs, Riley can roll back to a previous version and investigate what went wrong.
 >
-> **[1:51](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ensuring-data-integrity-and-auditability?u=76281980&t=111)** Audits are the ultimate accountability tool.
+> **[1:51](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ensuring-data-integrity-and-auditability?u=76281980&t=111)** Audits are the ultimate [[Accountability]] tool.
 >
 > **[1:54](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ensuring-data-integrity-and-auditability?u=76281980&t=114)** They document every interaction with your data and models.
 >
@@ -936,13 +922,13 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ensuring-data-integrity-and-auditability?u=76281980&t=153)** Of course, integrity and auditability are only as good as your ability to act on what you find.
 >
-> **[2:39](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ensuring-data-integrity-and-auditability?u=76281980&t=159)** Riley relies on real-time alerts to flag anomalies like someone trying to access restricted data or unexpected changes in model behavior.
+> **[2:39](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ensuring-data-integrity-and-auditability?u=76281980&t=159)** Riley relies on [[Real-Time]] alerts to flag anomalies like someone trying to access restricted data or unexpected changes in model behavior.
 >
 > **[2:47](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ensuring-data-integrity-and-auditability?u=76281980&t=167)** By combining automated integrity monitoring with change management protocols and clear audit trails, Riley's organization can identify issues before they escalate and take immediate action to fix them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), ai (7), management (2), [[Generative AI]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Data Integrity]] (3), [[Generative AI]] (1), [[Algorithms]] (1), [[Version Control]] (1), [[Accountability]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** imagine (1), think of it as (1)
@@ -953,14 +939,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Navigating regulatory requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/navigating-regulatory-requirements?u=76281980)
+#### [Navigating regulatory requirements](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/navigating-regulatory-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/navigating-regulatory-requirements?u=76281980&t=0)** - [Instructor] As AI technologies continue to evolve, so do the regulations governing their use.
 >
-> **[0:05](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/navigating-regulatory-requirements?u=76281980&t=5)** Navigating data privacy and AI regulations can feel like steering a ship through uncharted waters.
+> **[0:05](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/navigating-regulatory-requirements?u=76281980&t=5)** Navigating [[Data Privacy]] and AI regulations can feel like steering a ship through uncharted waters.
 >
 > **[0:12](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/navigating-regulatory-requirements?u=76281980&t=12)** Every country and industry seems to have its own set of rules, and avoiding the icebergs can be daunting.
 >
@@ -968,15 +953,15 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/navigating-regulatory-requirements?u=76281980&t=30)** Let's walk through some of the more common data privacy and AI regulations and see how they can help make your AI systems stay compliant without sinking your ship.
 >
-> **[0:40](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/navigating-regulatory-requirements?u=76281980&t=40)** Two of the first privacy regulations to be released, the European Union's General Data Protection Regulation, or GDPR, and the California Consumer Privacy Act, or CCPA, are built on the idea that individuals should have control over their personal data.
+> **[0:40](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/navigating-regulatory-requirements?u=76281980&t=40)** Two of the first [[Privacy]] regulations to be released, the European Union's General Data Protection Regulation, or GDPR, and the California Consumer Privacy Act, or CCPA, are built on the idea that individuals should have control over their personal data.
 >
 > **[0:56](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/navigating-regulatory-requirements?u=76281980&t=56)** They require organizations to assign ownership and restrict access to consumer data.
 >
 > **[1:02](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/navigating-regulatory-requirements?u=76281980&t=62)** In addition, the GDPR focuses on breach prevention and transparency.
 >
-> **[1:07](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/navigating-regulatory-requirements?u=76281980&t=67)** So if your AI systems include consumer data from these jurisdictions, you need to factor these requirements into your data security controls.
+> **[1:07](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/navigating-regulatory-requirements?u=76281980&t=67)** So if your AI systems include consumer data from these jurisdictions, you need to factor these requirements into your [[Data Security]] controls.
 >
-> **[1:15](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/navigating-regulatory-requirements?u=76281980&t=75)** When it comes to data handling, the NIST AI Risk Management Framework in the US and the European Union's AI Act requires security controls for data retention, storage and deletion.
+> **[1:15](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/navigating-regulatory-requirements?u=76281980&t=75)** When it comes to data handling, the [[NIST]] AI [[Risk Management Framework (RMF)|Risk Management Framework]] in the US and the European Union's AI Act requires security controls for data retention, storage and deletion.
 >
 > **[1:27](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/navigating-regulatory-requirements?u=76281980&t=87)** The EU AI Act takes this a step further, requiring the classification of AI systems by risk, establishing a risk tolerance, and then prohibiting AI systems above that threshold.
 >
@@ -998,19 +983,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), data (10), [[Security]] (5), [[Privacy]] (4), [[NIST]] (2)
+> **Frameworks & Libraries:** [[Data Privacy]] (2), [[Privacy]] (2), [[NIST]] (2), [[Data Security]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1)
 > **Env Vars:** gdpr (3), nist (2), ccpa (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Privacy and security by design in AI development
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/privacy-and-security-by-design-in-ai-development?u=76281980)
+#### [Privacy and security by design in AI development](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/privacy-and-security-by-design-in-ai-development?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/privacy-and-security-by-design-in-ai-development?u=76281980&t=0)** - [Instructor] Building secure and compliant AI systems isn't that difficult, if you plan ahead.
 >
-> **[0:06](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/privacy-and-security-by-design-in-ai-development?u=76281980&t=6)** Privacy and security can't be an afterthought.
+> **[0:06](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/privacy-and-security-by-design-in-ai-development?u=76281980&t=6)** [[Privacy]] and security can't be an afterthought.
 >
 > **[0:09](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/privacy-and-security-by-design-in-ai-development?u=76281980&t=9)** They need to be part of the blueprints.
 >
@@ -1018,7 +1002,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/privacy-and-security-by-design-in-ai-development?u=76281980&t=17)** Let's see how they work in practice.
 >
-> **[0:19](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/privacy-and-security-by-design-in-ai-development?u=76281980&t=19)** Privacy by Design focuses on reducing data collection, protecting sensitive information, and giving users control over their personal data.
+> **[0:19](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/privacy-and-security-by-design-in-ai-development?u=76281980&t=19)** Privacy by Design focuses on reducing [[Data Collection]], protecting sensitive information, and giving users control over their personal data.
 >
 > **[0:28](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/privacy-and-security-by-design-in-ai-development?u=76281980&t=28)** For AI, this means developing systems that minimize data retention, use privacy preserving protocols, and ensure that personal data is processed transparently.
 >
@@ -1036,7 +1020,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/privacy-and-security-by-design-in-ai-development?u=76281980&t=70)** It camouflages valuable data from hackers with useless information.
 >
-> **[1:15](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/privacy-and-security-by-design-in-ai-development?u=76281980&t=75)** Many companies from healthcare providers to e-commerce platforms are incorporating these practices into their systems.
+> **[1:15](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/privacy-and-security-by-design-in-ai-development?u=76281980&t=75)** Many companies from healthcare providers to [[E-Commerce]] platforms are incorporating these practices into their systems.
 >
 > **[1:22](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/privacy-and-security-by-design-in-ai-development?u=76281980&t=82)** This is a great option for AI system training on sensitive customer data.
 >
@@ -1044,9 +1028,9 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/privacy-and-security-by-design-in-ai-development?u=76281980&t=90)** Realtors can analyze shopping trends without exposing individual customers, and banks can detect fraud while keeping transactions private.
 >
-> **[1:40](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/privacy-and-security-by-design-in-ai-development?u=76281980&t=100)** Security by Design focuses on embedding confidentiality, integrity, and availability controls into the system architecture from the onset.
+> **[1:40](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/privacy-and-security-by-design-in-ai-development?u=76281980&t=100)** Security by Design focuses on embedding confidentiality, integrity, and availability controls into the [[System Architecture]] from the onset.
 >
-> **[1:48](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/privacy-and-security-by-design-in-ai-development?u=76281980&t=108)** For AI systems, this means encrypting data pipelines, protecting models and secure enclaves, and implementing access alerts.
+> **[1:48](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/privacy-and-security-by-design-in-ai-development?u=76281980&t=108)** For AI systems, this means encrypting [[Data Pipelines]], protecting models and secure enclaves, and implementing access alerts.
 >
 > **[1:56](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/privacy-and-security-by-design-in-ai-development?u=76281980&t=116)** All of the things we've been talking about in this course.
 >
@@ -1072,21 +1056,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Privacy]] (10), ai (8), [[Security]] (6), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (10), [[Data Collection]] (1), [[E-Commerce]] (1), [[System Architecture]] (1), [[Data Pipelines]] (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** imagine (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assessing security and privacy in AI products
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/assessing-security-and-privacy-in-ai-products?u=76281980)
+#### [Assessing security and privacy in AI products](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/assessing-security-and-privacy-in-ai-products?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/assessing-security-and-privacy-in-ai-products?u=76281980&t=0)** - [Instructor] Think of security and privacy assessments as a regular tuneup and oil change for your car.
+> **[0:00](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/assessing-security-and-privacy-in-ai-products?u=76281980&t=0)** - [Instructor] Think of security and [[Privacy]] assessments as a regular tuneup and oil change for your car.
 >
 > **[0:06](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/assessing-security-and-privacy-in-ai-products?u=76281980&t=6)** You shouldn't wait until your engine starts smoking to replace the oil, just as you shouldn't wait for a breach or compliance failure to evaluate your AI systems.
 >
-> **[0:15](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/assessing-security-and-privacy-in-ai-products?u=76281980&t=15)** Assessments help you identify risks, build trust, and ensure your products remain secure and compliant.
+> **[0:15](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/assessing-security-and-privacy-in-ai-products?u=76281980&t=15)** Assessments help you identify risks, build trust, and ensure your [[Microsoft Products|products]] remain secure and compliant.
 >
 > **[0:21](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/assessing-security-and-privacy-in-ai-products?u=76281980&t=21)** Let's explore the essential steps for conducting security and privacy assessments in AI systems and how they help you meet regulatory requirements and your organization's objectives.
 >
@@ -1110,7 +1093,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/assessing-security-and-privacy-in-ai-products?u=76281980&t=90)** Catching the issue and strengthening your controls proactively reduces the likelihood of a breach in the future.
 >
-> **[1:36](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/assessing-security-and-privacy-in-ai-products?u=76281980&t=96)** Now, I know this may sound pretty familiar if you've been in the cybersecurity or GRC industry for a while, but remember, AI systems aren't like traditional software, which means your assessments can't be, either.
+> **[1:36](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/assessing-security-and-privacy-in-ai-products?u=76281980&t=96)** Now, I know this may sound pretty familiar if you've been in the [[Cybersecurity]] or GRC industry for a while, but remember, AI systems aren't like traditional software, which means your assessments can't be, either.
 >
 > **[1:50](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/assessing-security-and-privacy-in-ai-products?u=76281980&t=110)** When scoping AI assessments, you must consider all of the parts, all data sets, models, and parameters throughout the AI system, to ensure holistic coverage.
 >
@@ -1134,12 +1117,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Privacy]] (7), data (7), [[Security]] (5), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (7), [[Microsoft Products|Products]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** grc (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI model transparency and explainability
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-model-transparency-and-explainability?u=76281980)
+#### [AI model transparency and explainability](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-model-transparency-and-explainability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1195,7 +1177,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-model-transparency-and-explainability?u=76281980&t=182)** That's where surrogate models come in.
 >
-> **[3:04](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-model-transparency-and-explainability?u=76281980&t=184)** These are simpler models like decision trees that mimic the behavior of more complex systems.
+> **[3:04](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-model-transparency-and-explainability?u=76281980&t=184)** These are simpler models like [[Decision Trees]] that mimic the behavior of more complex systems.
 >
 > **[3:10](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-model-transparency-and-explainability?u=76281980&t=190)** They act as stand-ins offering easy-to-understand explanations without exposing the intricacies of the original model.
 >
@@ -1205,23 +1187,22 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-model-transparency-and-explainability?u=76281980&t=213)** AI is only as good as the trust it inspires.
 >
-> **[3:36](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-model-transparency-and-explainability?u=76281980&t=216)** By making your systems transparent and explainable, you're not just building better AI, you're building trust, one decision at a time.
+> **[3:36](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/ai-model-transparency-and-explainability?u=76281980&t=216)** By making your systems transparent and explainable, you're not just building better AI, you're [[Building Trust]], one decision at a time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), data (2), application (1), job description (1), hr (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (1), [[Building Trust]] (1)
 > **Analogies:** for example (2), imagine (1), for instance (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** shap (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security risks from third-party AI tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/security-risks-from-third-party-ai-tools?u=76281980)
+#### [Security risks from third-party AI tools](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/security-risks-from-third-party-ai-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/security-risks-from-third-party-ai-tools?u=76281980&t=0)** - [Instructor] Riley's organization has done it all, end-to-end data encryption, role-based access control, and continuous monitoring.
+> **[0:00](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/security-risks-from-third-party-ai-tools?u=76281980&t=0)** - [Instructor] Riley's organization has done it all, end-to-end data encryption, role-based access control, and [[Continuous Monitoring]].
 >
 > **[0:08](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/security-risks-from-third-party-ai-tools?u=76281980&t=8)** Their AI system is now like the most secure nightclub in the city, but here's the twist.
 >
@@ -1273,7 +1254,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/security-risks-from-third-party-ai-tools?u=76281980&t=141)** They ensure third party tools can only access the data they need, nothing more.
 >
-> **[2:26](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/security-risks-from-third-party-ai-tools?u=76281980&t=146)** Then they validate that all data shared with third-party tools is encrypted, both in transit and at rest.
+> **[2:26](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/security-risks-from-third-party-ai-tools?u=76281980&t=146)** Then they validate that all data shared with third-party tools is encrypted, both in transit and at [[Representational State Transfer (REST)|rest]].
 >
 > **[2:33](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/security-risks-from-third-party-ai-tools?u=76281980&t=153)** This guarantees that even if the data is intercepted, it remains inaccessible.
 >
@@ -1285,7 +1266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), ai (7), [[Security]] (4), [[Continuous Monitoring]] (1), application (1)
+> **Frameworks & Libraries:** [[Continuous Monitoring]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1294,8 +1275,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Securing AI data pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980)
+#### [Securing AI data pipelines](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1309,7 +1289,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980&t=15)** What gets into the club matters just as much as who gets into it.
 >
-> **[0:21](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980&t=21)** AI data pipelines move raw data through a series of stages until it's refined into actionable insights.
+> **[0:21](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980&t=21)** AI [[Data Pipelines]] move raw data through a series of stages until it's refined into actionable insights.
 >
 > **[0:27](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980&t=27)** Think of it like guests moving through our nightclub.
 >
@@ -1321,7 +1301,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980&t=58)** The first step in securing your pipeline is protecting data as it enters the system.
 >
-> **[1:03](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980&t=63)** Data ingestion often involves external sources like IoT devices, customer platforms, or third-party APIs.
+> **[1:03](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980&t=63)** [[Data Ingestion]] often involves external sources like [[IoT]] devices, customer platforms, or third-party APIs.
 >
 > **[1:11](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980&t=71)** One of the most effective techniques for detecting and rejecting malicious data is regular expression validation or regex.
 >
@@ -1349,23 +1329,23 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980&t=136)** Remember, the AI system is only as good as the data it's trained on, so provide as many examples of valid and invalid inputs as you can.
 >
-> **[2:26](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980&t=146)** If malicious actors attempt to inject anything other than an email address in that field, such as harmful scripts or SQL commands, a mismatch error will occur.
+> **[2:26](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980&t=146)** If malicious actors attempt to inject anything other than an email address in that field, such as harmful scripts or [[SQL]] commands, a mismatch error will occur.
 >
 > **[2:37](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980&t=157)** Once data is inside the pipeline, it moves to the transformation stage where it's cleaned, structured, and prepared for use.
 >
-> **[2:44](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980&t=164)** This is an important step in AI governance, but it's also the riskiest.
+> **[2:44](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980&t=164)** This is an important step in [[AI Governance]], but it's also the riskiest.
 >
 > **[2:49](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980&t=169)** Because data is being intentionally changed, it can be difficult to recognize anomalies or unusual behavior.
 >
-> **[2:57](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980&t=177)** Let's take a look at one of the most common forms of maintaining data integrity during transformation: hashing.
+> **[2:57](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980&t=177)** Let's take a look at one of the most common [[Forms]] of maintaining [[Data Integrity]] during transformation: hashing.
 >
-> **[3:04](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980&t=184)** Here's a very simplified Python script for hashing data.
+> **[3:04](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980&t=184)** Here's a very simplified [[Python (Programming Language)|Python]] script for hashing data.
 >
 > **[3:08](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980&t=188)** You'll begin by generating a pre-transformation hash.
 >
 > **[3:11](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980&t=191)** After the data is transformed, the system can recompute the hash and detect any unauthorized modifications.
 >
-> **[3:19](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980&t=199)** Hashing can also be helpful in the final stage of the pipeline data storage.
+> **[3:19](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980&t=199)** Hashing can also be helpful in the final stage of the pipeline [[Data Storage]].
 >
 > **[3:23](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-data-pipelines?u=76281980&t=203)** By storing a secure hash for each data record, the system can periodically verify that the data remains unchanged.
 >
@@ -1375,7 +1355,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), ai (9), [[Security]] (1), [[IoT]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Integrity]] (2), [[Data Pipelines]] (1), [[Data Ingestion]] (1), [[IoT]] (1), [[SQL]] (1)
 > **Analogies:** think of it like (1), just like (1), imagine (1), such as (1)
 > **CLI Commands:** make (1), python (1)
 > **URLs:** [domain.com](https://domain.com) (1)
@@ -1383,8 +1363,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Securing AI models and outputs
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-models-and-outputs?u=76281980)
+#### [Securing AI models and outputs](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/securing-ai-models-and-outputs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1430,13 +1409,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), data (3), [[Security]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Managing AI model updates
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/managing-ai-model-updates?u=76281980)
+#### [Managing AI model updates](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/managing-ai-model-updates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1484,7 +1461,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/managing-ai-model-updates?u=76281980&t=136)** And unlike traditional software, AI models need specific techniques to address these unique threats.
 >
-> **[2:22](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/managing-ai-model-updates?u=76281980&t=142)** For example, drift detection algorithms can identify when incoming data no longer aligns with the training data.
+> **[2:22](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/managing-ai-model-updates?u=76281980&t=142)** For example, drift detection [[Algorithms]] can identify when incoming data no longer aligns with the training data.
 >
 > **[2:29](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/managing-ai-model-updates?u=76281980&t=149)** Anomaly detection systems can flag unusual patterns and outputs, such as hallucinated or erratic responses.
 >
@@ -1514,15 +1491,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), data (12), [[Algorithms]] (1), next (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Analogies:** for example (2), imagine (2), for instance (1), such as (1)
 > **Best Practices:** remember to (1), the key is (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Speakers:** - so (1)
 
-#### Detecting and preventing breaches
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/detecting-and-preventing-breaches?u=76281980)
+#### [Detecting and preventing breaches](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/detecting-and-preventing-breaches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1546,7 +1522,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/detecting-and-preventing-breaches?u=76281980&t=45)** AI systems require regularly updating security protocols to fortify the system against new attack vectors.
 >
-> **[0:52](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/detecting-and-preventing-breaches?u=76281980&t=52)** For instance, transitioning to post-quantum encryption now prepares your AI for the emerging risks posed by quantum computing in the future.
+> **[0:52](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/detecting-and-preventing-breaches?u=76281980&t=52)** For instance, transitioning to post-quantum encryption now prepares your AI for the emerging risks posed by [[Quantum Computing]] in the future.
 >
 > **[1:01](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/detecting-and-preventing-breaches?u=76281980&t=61)** Automating updates reduces human error and makes sure patches are applied promptly across distributed AI environments.
 >
@@ -1572,15 +1548,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Security]] (6), data (4), [[Quantum Computing]] (1), management (1)
+> **Frameworks & Libraries:** [[Quantum Computing]] (1)
 > **Env Vars:** siem (2), dna (1)
 > **Analogies:** for instance (1), for example (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [narrator] (1)
 
-#### Keeping data governance and security up to date
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/keeping-data-governance-and-security-up-to-date?u=76281980)
+#### [Keeping data governance and security up to date](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/keeping-data-governance-and-security-up-to-date?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1592,7 +1567,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/keeping-data-governance-and-security-up-to-date?u=76281980&t=18)** Let's check in with Riley and their team one more time and see how they put all of this into practice.
 >
-> **[0:23](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/keeping-data-governance-and-security-up-to-date?u=76281980&t=23)** They start by putting together cross-functional teams, including legal, compliance, data governance, and AI experts to assess how new regulations might impact their operations.
+> **[0:23](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/keeping-data-governance-and-security-up-to-date?u=76281980&t=23)** They start by putting together cross-functional teams, including legal, compliance, [[Data Governance]], and AI experts to assess how new regulations might impact their operations.
 >
 > **[0:34](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/keeping-data-governance-and-security-up-to-date?u=76281980&t=34)** For example, if new legislation mandates data retention limits, you'll need to evaluate your storage practices and update your policies accordingly.
 >
@@ -1616,13 +1591,13 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/keeping-data-governance-and-security-up-to-date?u=76281980&t=99)** Organizations that take this approach often find themselves better prepared for compliance.
 >
-> **[1:44](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/keeping-data-governance-and-security-up-to-date?u=76281980&t=104)** Data security and governance are more than compliance tools.
+> **[1:44](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/keeping-data-governance-and-security-up-to-date?u=76281980&t=104)** [[Data Security]] and governance are more than compliance tools.
 >
-> **[1:48](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/keeping-data-governance-and-security-up-to-date?u=76281980&t=108)** They're strategies for building trust, reducing risk, and unlocking opportunities in an ever-changing AI landscape.
+> **[1:48](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/keeping-data-governance-and-security-up-to-date?u=76281980&t=108)** They're strategies for [[Building Trust]], reducing risk, and unlocking opportunities in an ever-changing AI landscape.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), data (3), [[Security]] (2), functional (1), teams (1)
+> **Frameworks & Libraries:** [[Data Governance]] (1), [[Data Security]] (1), [[Building Trust]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -1633,12 +1608,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Putting it into practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/putting-it-into-practice?u=76281980)
+#### [Putting it into practice](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/putting-it-into-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/putting-it-into-practice?u=76281980&t=0)** - You did it, you've officially completed this course on AI data governance and security.
+> **[0:00](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/putting-it-into-practice?u=76281980&t=0)** - You did it, you've officially completed this course on AI [[Data Governance]] and security.
 >
 > **[0:05](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/putting-it-into-practice?u=76281980&t=5)** Now comes the fun part, taking what you've learned and putting it into practice.
 >
@@ -1652,7 +1626,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/putting-it-into-practice?u=76281980&t=26)** Then, start identifying any new controls and policies you learned about in this course.
 >
-> **[0:31](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/putting-it-into-practice?u=76281980&t=31)** If you're ever stuck or need guidance, feel free to reach out to me on LinkedIn or check out my website, [theriskoptimist.com](https://theriskoptimist.com).
+> **[0:31](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/putting-it-into-practice?u=76281980&t=31)** If you're ever stuck or need guidance, feel free to reach out to me on [[LinkedIn]] or check out my website, [theriskoptimist.com](https://theriskoptimist.com).
 >
 > **[0:38](https://www.linkedin.com/learning/ai-product-security-building-strong-data-governance-and-protection/putting-it-into-practice?u=76281980&t=38)** Thanks for learning with me.
 >
@@ -1660,7 +1634,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), data (1), [[Security]] (1), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (1), [[LinkedIn]] (1)
 > **URLs:** [theriskoptimist.com](https://theriskoptimist.com) (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - you (1)

@@ -86,18 +86,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Performance tuning in Spring
-> [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/performance-tuning-in-spring?u=76281980)
+#### [Performance tuning in Spring](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/performance-tuning-in-spring?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/performance-tuning-in-spring?u=76281980&t=0)** - [Kathy] This is a survey course on spring performance tuning.
+> **[0:00](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/performance-tuning-in-spring?u=76281980&t=0)** - [Kathy] This is a survey course on spring [[Performance Tuning]].
 >
 > **[0:04](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/performance-tuning-in-spring?u=76281980&t=4)** With a strong emphasis on observability and preparedness, this course strives to equip the student to not only understand some of the trickier aspects of spring performance, but also how to test, measure, and communicate about performance.
 >
 > **[0:19](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/performance-tuning-in-spring?u=76281980&t=19)** We will start with a breakdown of the foundations of spring performance so that we can understand the complicated landscape that we work within.
 >
-> **[0:28](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/performance-tuning-in-spring?u=76281980&t=28)** Then we will learn about specific tools, techniques, and technical hot topics specific to Java and the spring project.
+> **[0:28](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/performance-tuning-in-spring?u=76281980&t=28)** Then we will learn about specific tools, techniques, and technical hot topics specific to [[Java]] and the spring project.
 >
 > **[0:36](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/performance-tuning-in-spring?u=76281980&t=36)** We will wrap up our work with a discussion of essential everyday tools and practices that a spring developer can adopt in order to make a comfortable habit out of performance engineering.
 >
@@ -107,29 +106,28 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/performance-tuning-in-spring?u=76281980&t=72)** In this course, I will break down the essentials of spring performance engineering into manageable topics so that the learner is empowered to approach a variety of real world situations with confidence and clarity.
 >
-> **[1:26](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/performance-tuning-in-spring?u=76281980&t=86)** Please join my LinkedIn Learning course to increase your confidence and fluency with spring related performance.
+> **[1:26](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/performance-tuning-in-spring?u=76281980&t=86)** Please join my [[LinkedIn]] Learning course to increase your confidence and fluency with spring related performance.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (3), [[Performance Tuning]] (1), [[Java]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Performance Tuning]] (1), [[Java]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [kathy] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is a survey course in spring performance tuning.
+> **[0:00](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is a survey course in spring [[Performance Tuning]].
 >
-> **[0:04](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/what-you-should-know?u=76281980&t=4)** To get the most out of this course, you will need a fluency with Java 8 and the Core Spring framework, including Spring Boot.
+> **[0:04](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/what-you-should-know?u=76281980&t=4)** To get the most out of this course, you will need a fluency with [[Java]] 8 and the Core [[Spring Framework]], including [[Spring Boot]].
 >
-> **[0:11](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/what-you-should-know?u=76281980&t=11)** You will benefit from a basic knowledge of JDBC connectivity, aspect-oriented programming, and the Java Virtual Machine.
+> **[0:11](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/what-you-should-know?u=76281980&t=11)** You will benefit from a basic knowledge of [[Java Database Connectivity (JDBC)|JDBC]] connectivity, aspect-oriented programming, and the Java Virtual Machine.
 >
 > **[0:19](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/what-you-should-know?u=76281980&t=19)** Familiarity with common web and API application patterns and architectures will also be useful.
 >
-> **[0:27](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/what-you-should-know?u=76281980&t=27)** In order to interact with the hands-on project exercise files, you will need to be able to clone a git repository.
+> **[0:27](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/what-you-should-know?u=76281980&t=27)** In order to interact with the hands-on project exercise files, you will need to be able to clone a [[Git]] repository.
 >
 > **[0:33](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/what-you-should-know?u=76281980&t=33)** Also required are the abilities to compile and run a Maven-based spring application in a Java friendly, integrated development environment, such as IntelliJ, NetBeans or Eclipse.
 >
@@ -139,7 +137,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), application (2), [[Performance Tuning]] (1), [[Spring Framework]] (1), [[Spring Boot]] (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[Performance Tuning]] (1), [[Spring Framework]] (1), [[Spring Boot]] (1), [[Java Database Connectivity (JDBC)|Jdbc]] (1)
 > **Env Vars:** jdbc (1), api (1), ide (1)
 > **Tools:** intellij (2)
 > **CLI Commands:** git (1)
@@ -148,12 +146,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/using-the-exercise-files?u=76281980&t=0)** - [Instructor] The exercise files for this course are stored on GitHub.
+> **[0:00](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/using-the-exercise-files?u=76281980&t=0)** - [Instructor] The exercise files for this course are stored on [[GitHub]].
 >
 > **[0:03](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/using-the-exercise-files?u=76281980&t=3)** There is one branch, Main, that holds the two spring demo applications that we will use for our lessons.
 >
@@ -161,7 +158,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/using-the-exercise-files?u=76281980&t=19)** You can make your own fork through the GitHub user interface.
 >
-> **[0:24](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/using-the-exercise-files?u=76281980&t=24)** To work with this Java project, there are multiple integrated development environments that you can choose.
+> **[0:24](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/using-the-exercise-files?u=76281980&t=24)** To work with this [[Java]] project, there are multiple integrated development environments that you can choose.
 >
 > **[0:30](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/using-the-exercise-files?u=76281980&t=30)** By cloning or downloading the project files at your command line, you will be prepared to open the project in any IDE that you choose.
 >
@@ -173,7 +170,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/using-the-exercise-files?u=76281980&t=54)** You can also run a clone from the command line.
 >
-> **[0:58](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/using-the-exercise-files?u=76281980&t=58)** Once you have the project files on your local development system, you can proceed to open, compile, and run the Maven based spring boot project in your IDE.
+> **[0:58](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/using-the-exercise-files?u=76281980&t=58)** Once you have the project files on your local development system, you can proceed to open, compile, and run the Maven based [[Spring Boot]] project in your IDE.
 >
 > **[1:07](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/using-the-exercise-files?u=76281980&t=67)** Again, these exact steps will vary depending on your IDE.
 >
@@ -190,8 +187,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### A Spring developer’s toolkit
-> [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/a-spring-developer-s-toolkit-14391946?u=76281980)
+#### [A Spring developer’s toolkit](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/a-spring-developer-s-toolkit-14391946?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -205,9 +201,9 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/a-spring-developer-s-toolkit-14391946?u=76281980&t=32)** VisualVM is a handy and popular JVM profiler.
 >
-> **[0:37](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/a-spring-developer-s-toolkit-14391946?u=76281980&t=37)** It's bundled with the JDK through Java 8.
+> **[0:37](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/a-spring-developer-s-toolkit-14391946?u=76281980&t=37)** It's bundled with the JDK through [[Java]] 8.
 >
-> **[0:40](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/a-spring-developer-s-toolkit-14391946?u=76281980&t=40)** After Java 8, you can leverage it as a standalone download at visualvm.[github.io](https://github.io), that is where you can get the download for this tool.
+> **[0:40](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/a-spring-developer-s-toolkit-14391946?u=76281980&t=40)** After Java 8, you can leverage it as a standalone download at visualvm.[[[GitHub]].io](https://github.io), that is where you can get the download for this tool.
 >
 > **[0:50](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/a-spring-developer-s-toolkit-14391946?u=76281980&t=50)** Basically in order to install and use this tool, you download the compressed package, extract it on your system and run the executable.
 >
@@ -245,7 +241,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/a-spring-developer-s-toolkit-14391946?u=76281980&t=147)** It has some different capabilities.
 >
-> **[2:28](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/a-spring-developer-s-toolkit-14391946?u=76281980&t=148)** We'll use it in our lessons to capture Spring Boot actuator metrics and observe those trending over time.
+> **[2:28](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/a-spring-developer-s-toolkit-14391946?u=76281980&t=148)** We'll use it in our lessons to capture [[Spring Boot]] actuator metrics and observe those trending over time.
 >
 > **[2:35](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/a-spring-developer-s-toolkit-14391946?u=76281980&t=155)** It's also open-source, easy to run.
 >
@@ -279,7 +275,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/a-spring-developer-s-toolkit-14391946?u=76281980&t=225)** And then I can quickly from my toolbar, access Prometheus and open it up.
 >
-> **[3:49](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/a-spring-developer-s-toolkit-14391946?u=76281980&t=229)** When I want to leverage it to gather some statistics on my application.
+> **[3:49](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/a-spring-developer-s-toolkit-14391946?u=76281980&t=229)** When I want to leverage it to gather some [[Statistics]] on my application.
 >
 > **[3:54](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/a-spring-developer-s-toolkit-14391946?u=76281980&t=234)** Each of these tools have additional plugins for the various IDEs.
 >
@@ -291,7 +287,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), [[Java]] (7), open-source (4), [[GitHub]] (1), database (1)
+> **Frameworks & Libraries:** [[Java]] (7), [[GitHub]] (1), [[Spring Boot]] (1), [[Statistics]] (1)
 > **Env Vars:** jdk (3), jvm (2), ide (2), jar (1)
 > **Prerequisites:** set up (3), configure (1), install (1)
 > **Tools:** intellij (3), github (1)
@@ -305,8 +301,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/understanding-performance?u=76281980)
+#### [Understanding performance](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/understanding-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -316,7 +311,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/understanding-performance?u=76281980&t=8)** So why is it such a challenging aspect of our work as Spring developers?
 >
-> **[0:13](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/understanding-performance?u=76281980&t=13)** The key to effective performance tuning in a Spring-based application is to understand the underlying complexity of this question.
+> **[0:13](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/understanding-performance?u=76281980&t=13)** The key to effective [[Performance Tuning]] in a Spring-based application is to understand the underlying complexity of this question.
 >
 > **[0:22](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/understanding-performance?u=76281980&t=22)** In this video, we start to deconstruct it, to break it down so that we can see why it is indeed such a challenge.
 >
@@ -332,15 +327,15 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/understanding-performance?u=76281980&t=62)** The green parts of this diagram show the runtime environments that a typical Spring developer manages.
 >
-> **[1:09](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/understanding-performance?u=76281980&t=69)** You'll likely spend a good portion of your day inside the Java components that make up your project.
+> **[1:09](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/understanding-performance?u=76281980&t=69)** You'll likely spend a good portion of your day inside the [[Java]] components that make up your project.
 >
 > **[1:16](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/understanding-performance?u=76281980&t=76)** One way that you can increase your fluency is to understand how to manage and measure the runtime JVM performance of your Java Spring project.
 >
 > **[1:26](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/understanding-performance?u=76281980&t=86)** Remember, every Spring-based application is a Java application.
 >
-> **[1:31](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/understanding-performance?u=76281980&t=91)** So it is important for a Spring developer to understand the basics of how JVM performance works and how the Spring framework may or may not impact the performance of the JVM.
+> **[1:31](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/understanding-performance?u=76281980&t=91)** So it is important for a Spring developer to understand the basics of how JVM performance works and how the [[Spring Framework]] may or may not impact the performance of the JVM.
 >
-> **[1:43](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/understanding-performance?u=76281980&t=103)** A proficiency with plain Vanilla, JVM profiling, and runtime parameters is an indispensable and often overlooked part of a Spring developer's toolkit.
+> **[1:43](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/understanding-performance?u=76281980&t=103)** A proficiency with plain [[Vanilla]], JVM profiling, and runtime parameters is an indispensable and often overlooked part of a Spring developer's toolkit.
 >
 > **[1:54](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/understanding-performance?u=76281980&t=114)** Spring also provides internal performance reporting metrics that allow a developer to gain more Spring specific insights into their application.
 >
@@ -350,7 +345,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/understanding-performance?u=76281980&t=142)** This is by design really, since one strong emphasis of the Spring framework itself is to facilitate, decouple component interactions.
 >
-> **[2:33](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/understanding-performance?u=76281980&t=153)** The green outline parts of our diagram show elements, such as databases, APIs, and messaging frameworks, whose performance you depend on, must measure and must design toward in order to make your part of the application as resilient as possible.
+> **[2:33](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/understanding-performance?u=76281980&t=153)** The green outline parts of our diagram show elements, such as [[Databases]], APIs, and messaging frameworks, whose performance you depend on, must measure and must design toward in order to make your part of the application as resilient as possible.
 >
 > **[2:50](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/understanding-performance?u=76281980&t=170)** The name of the game here, what you must be able to do, and what other portions of this course will cover is to measure and make informed runtime configurations based on the performance you can anticipate from the systems that you depend on.
 >
@@ -380,19 +375,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (17), [[Java]] (3), [[Spring Framework]] (2), [[Performance Tuning]] (1), [[Vanilla]] (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Spring Framework]] (2), [[Performance Tuning]] (1), [[Vanilla]] (1), [[Databases]] (1)
 > **Env Vars:** jvm (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### JVM performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/jvm-performance?u=76281980)
+#### [JVM performance](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/jvm-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/jvm-performance?u=76281980&t=0)** - [Instructor] Every Spring-based application is a Java application.
+> **[0:00](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/jvm-performance?u=76281980&t=0)** - [Instructor] Every Spring-based application is a [[Java]] application.
 >
 > **[0:04](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/jvm-performance?u=76281980&t=4)** So it is essential for a Spring developer to be comfortable with the basics of how JVM performance works.
 >
@@ -412,7 +406,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/jvm-performance?u=76281980&t=47)** Every time you call new to make a new instance of an object in your application, it will live on the heap.
 >
-> **[0:54](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/jvm-performance?u=76281980&t=54)** This is where the memory management happens that you need to care about.
+> **[0:54](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/jvm-performance?u=76281980&t=54)** This is where the [[Memory Management]] happens that you need to care about.
 >
 > **[0:57](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/jvm-performance?u=76281980&t=57)** The heap is where garbage collection happens.
 >
@@ -434,7 +428,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/jvm-performance?u=76281980&t=112)** VisualVM is bundled with JDK through Java 8.
 >
-> **[1:55](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/jvm-performance?u=76281980&t=115)** It's also available as a standalone download from a GitHub-hosted site.
+> **[1:55](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/jvm-performance?u=76281980&t=115)** It's also available as a standalone download from a [[GitHub]]-hosted site.
 >
 > **[2:00](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/jvm-performance?u=76281980&t=120)** So let's hop in here and have a look at some actual JVM performance things.
 >
@@ -564,7 +558,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (30), [[Java]] (8), [[Memory Management]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Java]] (8), [[Memory Management]] (1), [[GitHub]] (1)
 > **Env Vars:** jvm (14), cpu (12), jdk (1), ide (1), cpo (1)
 > **Definitions:** is a  (5)
 > **Tools:** intellij (2), github (1)
@@ -573,18 +567,17 @@ created: 2026-05-02
 > **Versions:** java 8 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transaction performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/transaction-performance?u=76281980)
+#### [Transaction performance](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/transaction-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/transaction-performance?u=76281980&t=0)** - [Instructor] As spring developers, we code and we test and we deliver Java applications that usually exist only as part of a larger distributed system.
+> **[0:00](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/transaction-performance?u=76281980&t=0)** - [Instructor] As spring developers, we code and we test and we deliver [[Java]] applications that usually exist only as part of a larger distributed system.
 >
 > **[0:10](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/transaction-performance?u=76281980&t=10)** Application runtime monitoring is a class of monitoring that provides a whole system view of your application performance.
 >
 > **[0:18](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/transaction-performance?u=76281980&t=18)** Through application runtime monitoring, you can get insights into the transactions between your Java application and the other external systems that you depend on in order to deliver your results.
 >
-> **[0:32](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/transaction-performance?u=76281980&t=32)** These transactions are things like HTTP requests to APIs, database performances, other service call, like to messaging platforms.
+> **[0:32](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/transaction-performance?u=76281980&t=32)** These transactions are things like HTTP requests to APIs, database performances, other service call, like to [[Messaging Platforms]].
 >
 > **[0:42](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/transaction-performance?u=76281980&t=42)** And also alerting is another feature of application runtime monitoring frameworks.
 >
@@ -682,7 +675,7 @@ created: 2026-05-02
 >
 > **[5:34](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/transaction-performance?u=76281980&t=334)** This one has a nice breakdown of a number of types of activities.
 >
-> **[5:38](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/transaction-performance?u=76281980&t=338)** We've got a JDBC connection, some logging, and then some other activity here, which is an introduced wait time.
+> **[5:38](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/transaction-performance?u=76281980&t=338)** We've got a [[Java Database Connectivity (JDBC)|JDBC]] connection, some logging, and then some other activity here, which is an introduced wait time.
 >
 > **[5:44](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/transaction-performance?u=76281980&t=344)** But the thing I want to show you here is queries.
 >
@@ -714,7 +707,7 @@ created: 2026-05-02
 >
 > **[6:50](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/transaction-performance?u=76281980&t=410)** A couple more things I'll show you here in the Glowroot options are the JVM section gives us a lot of information about the JVM.
 >
-> **[6:58](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/transaction-performance?u=76281980&t=418)** We have covered this material in a previous lesson that some of this is the same kind of things you will see in J console or visual VM and Glowroot will also surface JVM statistics here.
+> **[6:58](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/transaction-performance?u=76281980&t=418)** We have covered this material in a previous lesson that some of this is the same kind of things you will see in J console or visual VM and Glowroot will also surface JVM [[Statistics]] here.
 >
 > **[7:10](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/transaction-performance?u=76281980&t=430)** And then the final thing I want to point out to you here in Glowroot is the capability to do reporting.
 >
@@ -750,7 +743,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (18), [[Java]] (5), web (3), database (2), hit (2)
+> **Frameworks & Libraries:** [[Java]] (5), [[Java Database Connectivity (JDBC)|Jdbc]] (2), [[Messaging Platforms]] (1), [[Statistics]] (1)
 > **Env Vars:** jvm (5), http (3), apm (3), api (2), jdbc (2)
 > **Definitions:** is a  (5), is an  (2), is called (1)
 > **CLI Commands:** make (2), unzip (1)
@@ -759,8 +752,7 @@ created: 2026-05-02
 > **Ports:** port 4000 (1)
 > **Exercise Files:** download the (1)
 
-#### Challenge: JVM performance tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/challenge-jvm-performance-tuning?u=76281980)
+#### [Challenge: JVM performance tuning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/challenge-jvm-performance-tuning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -768,7 +760,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/challenge-jvm-performance-tuning?u=76281980&t=5)** - [Instructor] Are you ready to get your hands dirty?
 >
-> **[0:07](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/challenge-jvm-performance-tuning?u=76281980&t=7)** In this challenge, you will get a feel for experiencing and then resolving a Java Virtual Machine out of memory error.
+> **[0:07](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/challenge-jvm-performance-tuning?u=76281980&t=7)** In this challenge, you will get a feel for experiencing and then resolving a [[Java]] Virtual Machine out of memory error.
 >
 > **[0:15](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/challenge-jvm-performance-tuning?u=76281980&t=15)** As we observed in a previous video, the DemoClient application has some bad JVM heat behaviors.
 >
@@ -784,15 +776,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Env Vars:** jvm (3), challenge (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: JVM performance tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/solution-jvm-performance-tuning?u=76281980)
+#### [Solution: JVM performance tuning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/solution-jvm-performance-tuning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -810,7 +801,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/solution-jvm-performance-tuning?u=76281980&t=45)** In my case, we're using IntelliJ.
 >
-> **[0:48](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/solution-jvm-performance-tuning?u=76281980&t=48)** So what we want to do here is we're going to set a maximum heap size and a minimum heap size using the Java runtime parameters,
+> **[0:48](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/solution-jvm-performance-tuning?u=76281980&t=48)** So what we want to do here is we're going to set a maximum heap size and a minimum heap size using the [[Java]] runtime parameters,
 >
 > **[0:57](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/solution-jvm-performance-tuning?u=76281980&t=57)** - Xmx for max and -XMs for a minimum heap size.
 >
@@ -892,7 +883,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Java]] (4), hit (1)
+> **Frameworks & Libraries:** [[Java]] (4)
 > **Env Vars:** jvm (4), ide (1), cpu (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1), - xmx (1)
@@ -906,14 +897,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configuring Spring Actuator with Spring Boot
-> [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/configuring-spring-actuator-with-spring-boot?u=76281980)
+#### [Configuring Spring Actuator with Spring Boot](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/configuring-spring-actuator-with-spring-boot?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/configuring-spring-actuator-with-spring-boot?u=76281980&t=0)** - [Instructor] Spring Actuator is a very important monitoring tool and useful for production level operational success for any spring based project.
 >
-> **[0:09](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/configuring-spring-actuator-with-spring-boot?u=76281980&t=9)** Spring Actuator is a utility for monitoring and managing the runtime operations of your Spring Boot application.
+> **[0:09](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/configuring-spring-actuator-with-spring-boot?u=76281980&t=9)** Spring Actuator is a utility for monitoring and managing the runtime operations of your [[Spring Boot]] application.
 >
 > **[0:16](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/configuring-spring-actuator-with-spring-boot?u=76281980&t=16)** In this video, we're going to talk about configuration of the actuator in a real project, and also take a quick overview of the capabilities that actuator provides.
 >
@@ -1003,7 +993,7 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/configuring-spring-actuator-with-spring-boot?u=76281980&t=320)** So Spring Actuator has the ability to expose end points over HTTP, which we are looking at here in our browser demonstration and also over JMX.
 >
-> **[5:34](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/configuring-spring-actuator-with-spring-boot?u=76281980&t=334)** JMX stands for Java management extensions.
+> **[5:34](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/configuring-spring-actuator-with-spring-boot?u=76281980&t=334)** JMX stands for [[Java]] management extensions.
 >
 > **[5:37](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/configuring-spring-actuator-with-spring-boot?u=76281980&t=337)** And by exposing this information to JMX framework, spring actuator allows you to interact with it through a Java management console.
 >
@@ -1023,7 +1013,7 @@ created: 2026-05-02
 >
 > **[6:49](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/configuring-spring-actuator-with-spring-boot?u=76281980&t=409)** So security configuration is important.
 >
-> **[6:50](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/configuring-spring-actuator-with-spring-boot?u=76281980&t=410)** It's outside the scope of what we can cover in this lesson, but you would configure these endpoints using spring security like you would other security considerations.
+> **[6:50](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/configuring-spring-actuator-with-spring-boot?u=76281980&t=410)** It's outside the scope of what we can cover in this lesson, but you would configure these endpoints using [[Spring Security]] like you would other security considerations.
 >
 > **[7:01](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/configuring-spring-actuator-with-spring-boot?u=76281980&t=421)** Let's wrap up this video by having a look at some additional configuration you can do with respect to this health metric.
 >
@@ -1053,7 +1043,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (15), web (6), [[Spring Boot]] (5), api (4), [[Security]] (4)
+> **Frameworks & Libraries:** [[Spring Boot]] (5), [[Java]] (2), [[Spring Security]] (1)
 > **Env Vars:** jmx (5), api (4), http (3), cpu (1), jms (1)
 > **Definitions:** is a  (9), stands for (1)
 > **Analogies:** for example (3), for instance (1)
@@ -1062,12 +1052,11 @@ created: 2026-05-02
 > **File Paths:** pom.xml (2)
 > **Speakers:** - [instructor] (1)
 
-#### Spring Actuator customized endpoints and health metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/spring-actuator-customized-endpoints-and-health-metrics?u=76281980)
+#### [Spring Actuator customized endpoints and health metrics](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/spring-actuator-customized-endpoints-and-health-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/spring-actuator-customized-endpoints-and-health-metrics?u=76281980&t=0)** - [Instructor] Let's continue our exploration of Spring Boot Actuator by learning about some practical use cases that you're likely to encounter in your work as a spring developer.
+> **[0:00](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/spring-actuator-customized-endpoints-and-health-metrics?u=76281980&t=0)** - [Instructor] Let's continue our exploration of [[Spring Boot]] Actuator by learning about some practical use cases that you're likely to encounter in your work as a spring developer.
 >
 > **[0:09](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/spring-actuator-customized-endpoints-and-health-metrics?u=76281980&t=9)** Customized actuator behaviors are available by extending the Spring Boot Actuate package classes and also by taking advantage of the built-in framework capabilities.
 >
@@ -1131,7 +1120,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/spring-actuator-customized-endpoints-and-health-metrics?u=76281980&t=218)** And then finally, we're going to send it to the builder.
 >
-> **[3:42](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/spring-actuator-customized-endpoints-and-health-metrics?u=76281980&t=222)** And now when this health object is built, spring framework will know what to do with it and know how to display our information here.
+> **[3:42](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/spring-actuator-customized-endpoints-and-health-metrics?u=76281980&t=222)** And now when this health object is built, [[Spring Framework]] will know what to do with it and know how to display our information here.
 >
 > **[3:49](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/spring-actuator-customized-endpoints-and-health-metrics?u=76281980&t=229)** So what we've done here is the basics.
 >
@@ -1253,7 +1242,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (20), [[Spring Boot]] (5), api (1), data (1), [[Spring Framework]] (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (5), [[Spring Framework]] (1)
 > **File Paths:** pom.xml (3)
 > **Env Vars:** api (1), xml (1)
 > **Cross-References:** go back to (2)
@@ -1262,12 +1251,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 
-#### Using Spring Actuator for runtime monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/using-spring-actuator-for-runtime-monitoring?u=76281980)
+#### [Using Spring Actuator for runtime monitoring](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/using-spring-actuator-for-runtime-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/using-spring-actuator-for-runtime-monitoring?u=76281980&t=0)** - In previous lessons we have learned about Spring Boot Actuator and how to use it to expose all kinds of information about the runtime state of your spring based application.
+> **[0:00](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/using-spring-actuator-for-runtime-monitoring?u=76281980&t=0)** - In previous lessons we have learned about [[Spring Boot]] Actuator and how to use it to expose all kinds of information about the runtime state of your spring based application.
 >
 > **[0:11](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/using-spring-actuator-for-runtime-monitoring?u=76281980&t=11)** We have learned how to configure custom application health reporting, for instance.
 >
@@ -1441,7 +1429,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (10), [[Spring Boot]] (4), api (2), management (1), next (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (4)
 > **Definitions:** is a  (7), is an  (2)
 > **Env Vars:** cpu (2), xml (2), api (2), http (1), yml (1)
 > **Prerequisites:** configure (2), set up (2)
@@ -1449,8 +1437,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Speakers:** - in (1)
 
-#### Customizing Spring performance logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/customizing-spring-performance-logging?u=76281980)
+#### [Customizing Spring performance logging](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/customizing-spring-performance-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1460,7 +1447,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/customizing-spring-performance-logging?u=76281980&t=15)** It is an aspect oriented functionality.
 >
-> **[0:19](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/customizing-spring-performance-logging?u=76281980&t=19)** This particular class lives within the org dot spring framework dot AOP dot interceptor package.
+> **[0:19](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/customizing-spring-performance-logging?u=76281980&t=19)** This particular class lives within the org dot [[Spring Framework]] dot AOP dot interceptor package.
 >
 > **[0:26](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/customizing-spring-performance-logging?u=76281980&t=26)** Performance monitor interceptor integrates seamlessly with Log4j or your existing logging infrastructure, in order to track specific performance concerns that are unique to your application.
 >
@@ -1486,7 +1473,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/customizing-spring-performance-logging?u=76281980&t=95)** Now, sometimes in these lessons, I'd like to do a lot of typing and talk you through what I'm doing as I build it.
 >
-> **[1:41](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/customizing-spring-performance-logging?u=76281980&t=101)** I found in this one that to have this pre-configured makes it a little easier to talk through it because it's a bit of a jigsaw puzzle in terms of how this all fits together.
+> **[1:41](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/customizing-spring-performance-logging?u=76281980&t=101)** I found in this one that to have this pre-configured makes it a little easier to talk through it because it's a bit of a [[Jigsaw]] puzzle in terms of how this all fits together.
 >
 > **[1:52](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/customizing-spring-performance-logging?u=76281980&t=112)** Let's just start at the beginning.
 >
@@ -1542,7 +1529,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/customizing-spring-performance-logging?u=76281980&t=280)** Let's say evoke a few more just to prove the point.
 >
-> **[4:44](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/customizing-spring-performance-logging?u=76281980&t=284)** So every time we're invoking an end point now, the performance monitor interceptor is kicking out an instance of a stopwatch, which is a Java utility class.
+> **[4:44](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/customizing-spring-performance-logging?u=76281980&t=284)** So every time we're invoking an end point now, the performance monitor interceptor is kicking out an instance of a stopwatch, which is a [[Java]] utility class.
 >
 > **[4:55](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/customizing-spring-performance-logging?u=76281980&t=295)** And the stopwatch is giving us simply the running time for the method that we invoked in nanoseconds, which is really hard to read.
 >
@@ -1564,7 +1551,7 @@ created: 2026-05-02
 >
 > **[5:45](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/customizing-spring-performance-logging?u=76281980&t=345)** We're going to declare a couple of longs and this invoke under trace method is the one I mentioned before.
 >
-> **[5:51](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/customizing-spring-performance-logging?u=76281980&t=351)** This is the method word that we're going to override to get our custom behavior.
+> **[5:51](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/customizing-spring-performance-logging?u=76281980&t=351)** This is the method [[Microsoft Word|word]] that we're going to override to get our custom behavior.
 >
 > **[5:55](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/customizing-spring-performance-logging?u=76281980&t=355)** So again, I haven't typed out all of the functionality inside invoke under trace, but what we're doing is we're capturing some additional metrics about the method that is getting traced and how we make that happen is what we're going to do now.
 >
@@ -1644,7 +1631,7 @@ created: 2026-05-02
 >
 > **[9:41](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/customizing-spring-performance-logging?u=76281980&t=581)** All of our stopwatch methods, the default performance monitor interceptor is giving us.
 >
-> **[9:46](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/customizing-spring-performance-logging?u=76281980&t=586)** In addition, though, when we hit the CPU loader method, we got some additional statistics.
+> **[9:46](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/customizing-spring-performance-logging?u=76281980&t=586)** In addition, though, when we hit the CPU loader method, we got some additional [[Statistics]].
 >
 > **[9:53](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/customizing-spring-performance-logging?u=76281980&t=593)** We got a warning here in the logger warn category that we had a long running method, ran longer than 10 seconds.
 >
@@ -1662,7 +1649,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), hit (3), [[Jigsaw]] (2), [[Spring Framework]] (2), generic (2)
+> **Frameworks & Libraries:** [[Jigsaw]] (2), [[Spring Framework]] (2), [[Java]] (1), [[Microsoft Word|Word]] (1), [[Statistics]] (1)
 > **Definitions:** is a  (5), is an  (3), is called (1), we call this (1)
 > **CLI Commands:** make (6), find (1)
 > **Env Vars:** cpu (4), aop (3)
@@ -1671,14 +1658,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Spring performance monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/challenge-spring-performance-monitoring?u=76281980)
+#### [Challenge: Spring performance monitoring](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/challenge-spring-performance-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/challenge-spring-performance-monitoring?u=76281980&t=5)** - [Instructor] Are you ready to practice some actuator endpoint configuration?
 >
-> **[0:09](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/challenge-spring-performance-monitoring?u=76281980&t=9)** In this challenge, you will modify the default JMX exposure behavior for Spring Boot Actuator.
+> **[0:09](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/challenge-spring-performance-monitoring?u=76281980&t=9)** In this challenge, you will modify the default JMX exposure behavior for [[Spring Boot]] Actuator.
 >
 > **[0:16](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/challenge-spring-performance-monitoring?u=76281980&t=16)** Your challenge is to expose one, and only one, Spring Boot Actuator endpoint, the health endpoint, from our DemoApi application as a JMX Bean to VisualVM.
 >
@@ -1690,16 +1676,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (2), application (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (2)
 > **Env Vars:** jmx (2), challenge (2), actuator (2)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Spring performance monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/solution-spring-performance-monitoring?u=76281980)
+#### [Solution: Spring performance monitoring](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/solution-spring-performance-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/solution-spring-performance-monitoring?u=76281980&t=0)** - [Instructor] Now, let's work through a solution to the Spring Boot Actuator challenge.
+> **[0:00](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/solution-spring-performance-monitoring?u=76281980&t=0)** - [Instructor] Now, let's work through a solution to the [[Spring Boot]] Actuator challenge.
 >
 > **[0:09](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/solution-spring-performance-monitoring?u=76281980&t=9)** As a reminder, the challenge was to expose one and only one Spring Boot Actuator endpoint, the health endpoint, from our DemoApi application as a JMX Bean to VisualVM.
 >
@@ -1733,7 +1718,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Spring Boot]] (2), management (2), web (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (2)
 > **Env Vars:** jmx (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1743,8 +1728,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Aspect-Oriented Programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/aspect-oriented-programming?u=76281980)
+#### [Aspect-Oriented Programming](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/aspect-oriented-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1762,7 +1746,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/aspect-oriented-programming?u=76281980&t=42)** Cross cutting concerns like logging and security are super important to the functioning of the application, but they also muddy up good OO design since these concerns are secondary, or at least have a very different nature than the business concerns of your spring application, so that's why we need it.
 >
-> **[1:02](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/aspect-oriented-programming?u=76281980&t=62)** The spring framework makes it straightforward to configure AOP behaviors using annotations, and as a spring practitioner, you're likely to be depending on the spring AOP and or the AspectJ libraries.
+> **[1:02](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/aspect-oriented-programming?u=76281980&t=62)** The [[Spring Framework]] makes it straightforward to configure AOP behaviors using annotations, and as a spring practitioner, you're likely to be depending on the spring AOP and or the AspectJ libraries.
 >
 > **[1:17](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/aspect-oriented-programming?u=76281980&t=77)** An AOP aware system combines native code with aspect code in order to produce a running application.
 >
@@ -1796,7 +1780,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/aspect-oriented-programming?u=76281980&t=216)** To instrument code, what you're doing is you're injecting hooks into an application at compile time or at runtime in order to debug or profile specific behaviors that you can configure.
 >
-> **[3:48](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/aspect-oriented-programming?u=76281980&t=228)** Instrumentation requires a Java agent to eavesdrop in a sense to your runtime and extract the profile data that you've asked for.
+> **[3:48](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/aspect-oriented-programming?u=76281980&t=228)** Instrumentation requires a [[Java]] agent to eavesdrop in a sense to your runtime and extract the profile data that you've asked for.
 >
 > **[3:57](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/aspect-oriented-programming?u=76281980&t=237)** In this application, we're going to use a platform called Glowroot.
 >
@@ -1952,7 +1936,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (15), [[Programming]] (3), [[Security]] (2), business (2), hit (2)
+> **Frameworks & Libraries:** [[Java]] (2), [[Spring Framework]] (1)
 > **Env Vars:** aop (24), cic (1)
 > **Definitions:** is a  (6), in other words (3), is called (1), is an  (1)
 > **Prerequisites:** configure (3), set up (2), setup (1)
@@ -1961,8 +1945,7 @@ created: 2026-05-02
 > **Versions:** 0.2 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hibernate database interactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980)
+#### [Hibernate database interactions](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1972,11 +1955,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=11)** It's a prevalent and very convenient solution to a difficult task which is the work of connecting your application to a data store.
 >
-> **[0:20](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=20)** It allows for convenient configuration-based mapping of database tables, rows, and columns directly to your Java objects.
+> **[0:20](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=20)** It allows for convenient configuration-based mapping of database tables, rows, and columns directly to your [[Java]] objects.
 >
 > **[0:29](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=29)** That's what ORM means, Object-Relational Mapping.
 >
-> **[0:32](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=32)** This can speed up development tremendously because it hides a lot of boilerplate code, abstraction of the complexity of the database management from the developer.
+> **[0:32](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=32)** This can speed up development tremendously because it hides a lot of boilerplate code, abstraction of the complexity of the [[Database Management]] from the developer.
 >
 > **[0:42](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=42)** And while often it will perform just fine, there is also a downside that the actual database interactions can become invisible and actually may perhaps not even understood by the developer who's coding along happily in their integrated development environment, or even more importantly to the ops support team.
 >
@@ -1992,7 +1975,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=93)** It's a time consuming, resource consuming thing, to make a database connection across the network.
 >
-> **[1:40](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=100)** And by pooling you can contain a group of JDBC connections in a pool that remain hot, so to speak, ready to use, your application can borrow a connection from the pool, use it, and then return it to the pool for the next bit of code to reuse.
+> **[1:40](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=100)** And by pooling you can contain a group of [[Java Database Connectivity (JDBC)|JDBC]] connections in a pool that remain hot, so to speak, ready to use, your application can borrow a connection from the pool, use it, and then return it to the pool for the next bit of code to reuse.
 >
 > **[1:58](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=118)** The important properties on a connection pool are the size of the pool and the timeout of the connections.
 >
@@ -2010,7 +1993,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=168)** The second high level topic I'd like to talk about is caching.
 >
-> **[2:52](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=172)** Caching is the technique of reusing data for a period of time, saving the expense of additional database queries when that data that you're looking for is already available in the cache.
+> **[2:52](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=172)** Caching is the technique of reusing data for a period of time, saving the expense of additional [[Database Queries]] when that data that you're looking for is already available in the cache.
 >
 > **[3:04](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=184)** Similar in concept to web application caching, Hibernate has both a session scope cache, which we call level one.
 >
@@ -2046,7 +2029,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=301)** This is a common enough problem that it has a name, it's called the N Plus One Problem of Hibernate querying.
 >
-> **[5:09](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=309)** The issue is when you have a one-to-many or many-many to relationships, sometimes you don't need to fetch all the manys.
+> **[5:09](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=309)** The issue is when you have a one-to-many or many-many to relationships, sometimes you don't need to [[Fetch]] all the manys.
 >
 > **[5:16](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=316)** You just need a few of them.
 >
@@ -2058,13 +2041,13 @@ created: 2026-05-02
 >
 > **[5:46](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=346)** You can know all that you need to know theoretically about all of the previous topics, but if you can't observe the behaviors and measure it and make adjustments, then it's just no use.
 >
-> **[5:57](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=357)** So we're going to go into a demonstration now and talk about observability of queries and statistics.
+> **[5:57](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=357)** So we're going to go into a demonstration now and talk about observability of queries and [[Statistics]].
 >
 > **[6:04](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=364)** Two things I want to show you.
 >
 > **[6:05](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=365)** I want to show you a property that will allow your application at runtime to dump details about your queries into your logs and also deeper level statistics about your queries.
 >
-> **[6:19](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=379)** The important properties here are the org.Hibernate.SQL must be set to debug.
+> **[6:19](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=379)** The important properties here are the org.Hibernate.[[SQL]] must be set to debug.
 >
 > **[6:25](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=385)** When you have that property set to debug, every time, I've got a running application here ready to show you, every time you fire a query, it will get dumped into the log just as we see here.
 >
@@ -2088,7 +2071,7 @@ created: 2026-05-02
 >
 > **[7:55](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=475)** Let's start with a look at the actuator metrics for our application.
 >
-> **[8:01](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=481)** We did cover actuator in a previous lesson, and you'll recall that you can hit this directory and see a list of all the metrics that Spring boot is exposing for you.
+> **[8:01](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=481)** We did cover actuator in a previous lesson, and you'll recall that you can hit this directory and see a list of all the metrics that [[Spring Boot]] is exposing for you.
 >
 > **[8:10](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=490)** And in here, we have a category called metrics.
 >
@@ -2096,7 +2079,7 @@ created: 2026-05-02
 >
 > **[8:22](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=502)** We see connection pool usage, we see query statistics, and we see cache statistics.
 >
-> **[8:31](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=511)** All of this makes it possible then to surface all of these details and performance metrics inside a tool like Prometheus, which we also looked at in a previous lesson.
+> **[8:31](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=511)** All of this makes it possible then to surface all of these details and [[Performance Metrics]] inside a tool like Prometheus, which we also looked at in a previous lesson.
 >
 > **[8:42](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/hibernate-database-interactions?u=76281980&t=522)** So previously, when we looked at these we could not see some of these items, but by putting it into our palm.XML, we can, for example, have a look at the health of our connection pool.
 >
@@ -2152,7 +2135,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (14), [[Statistics]] (11), database (8), data (6), hit (2)
+> **Frameworks & Libraries:** [[Statistics]] (11), [[Java Database Connectivity (JDBC)|Jdbc]] (2), [[Fetch]] (2), [[SQL]] (2), [[Java]] (1)
 > **Definitions:** is a  (6), is an  (2)
 > **Env Vars:** jdbc (2), sql (2), xml (2), orm (1)
 > **Analogies:** for instance (2), for example (2), kind of like (1)
@@ -2161,8 +2144,7 @@ created: 2026-05-02
 > **Code Identifiers:** generate_statistics (1)
 > **Cross-References:** we talked about (1)
 
-#### Application startup time
-> [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/application-startup-time?u=76281980)
+#### [Application startup time](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/application-startup-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2176,19 +2158,19 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/application-startup-time?u=76281980&t=18)** Often it's not a problem, but let's talk about when startup time does matter.
 >
-> **[0:22](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/application-startup-time?u=76281980&t=22)** A long startup time, meaning multiple seconds, six, eight, 10, 12 seconds can get in the way of continuous integration and continuous deployment automated testing.
+> **[0:22](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/application-startup-time?u=76281980&t=22)** A long startup time, meaning multiple seconds, six, eight, 10, 12 seconds can get in the way of [[Continuous Integration (CI)|continuous integration]] and continuous deployment automated testing.
 >
 > **[0:34](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/application-startup-time?u=76281980&t=34)** In those types of scenarios, you're often starting up your application doing automated smoke testing and a variety of things like that.
 >
 > **[0:40](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/application-startup-time?u=76281980&t=40)** Sometimes starting it up multiple times.
 >
-> **[0:42](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/application-startup-time?u=76281980&t=42)** And so a long startup time really can impact that type of pipeline in your DevOps context.
+> **[0:42](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/application-startup-time?u=76281980&t=42)** And so a long startup time really can impact that type of pipeline in your [[DevOps]] context.
 >
 > **[0:49](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/application-startup-time?u=76281980&t=49)** Also, you don't want to discount it, a long startup time can be just plain inconvenient for a developer, especially if you've got a small laptop, having to restart it multiple times during the day can be a drain on your productivity.
 >
 > **[1:04](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/application-startup-time?u=76281980&t=64)** In general, a long startup time can be an indicator of bloated dependencies.
 >
-> **[1:09](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/application-startup-time?u=76281980&t=69)** We've learned how easy it is to add dependencies into a spring boot application.
+> **[1:09](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/application-startup-time?u=76281980&t=69)** We've learned how easy it is to add dependencies into a [[Spring Boot]] application.
 >
 > **[1:13](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/application-startup-time?u=76281980&t=73)** It's so easy that sometimes you add things and forget to take them back out when you decide you don't need them.
 >
@@ -2204,7 +2186,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/application-startup-time?u=76281980&t=111)** We've got some new tricks we can pull out of our sleeve for there.
 >
-> **[1:54](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/application-startup-time?u=76281980&t=114)** And also the Java Flight Recorder event capturing is a tool that we're going to look at.
+> **[1:54](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/application-startup-time?u=76281980&t=114)** And also the [[Java]] Flight Recorder event capturing is a tool that we're going to look at.
 >
 > **[1:58](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/application-startup-time?u=76281980&t=118)** So let's jump right in here.
 >
@@ -2212,7 +2194,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/application-startup-time?u=76281980&t=129)** And the trick here is a class called buffering application startup.
 >
-> **[2:13](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/application-startup-time?u=76281980&t=133)** It is in the spring framework dot boot library.
+> **[2:13](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/application-startup-time?u=76281980&t=133)** It is in the [[Spring Framework]] dot boot library.
 >
 > **[2:18](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/application-startup-time?u=76281980&t=138)** The way to do this is to make one of these new buffering application startup.
 >
@@ -2354,7 +2336,7 @@ created: 2026-05-02
 >
 > **[7:31](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/application-startup-time?u=76281980&t=451)** It's always nice when numbers match up.
 >
-> **[7:34](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/application-startup-time?u=76281980&t=454)** And then what we can do here is get a much more human friendly view of our statistics.
+> **[7:34](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/application-startup-time?u=76281980&t=454)** And then what we can do here is get a much more human friendly view of our [[Statistics]].
 >
 > **[7:39](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/application-startup-time?u=76281980&t=459)** We can sort, for example, kind of the main thing you can sort by duration the things that are taking the longest right up here at top.
 >
@@ -2374,7 +2356,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (18), [[Java]] (3), [[Spring Boot]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Spring Boot]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[DevOps]] (1), [[Spring Framework]] (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (3)
 > **Env Vars:** api (1), jdk (1)
@@ -2383,14 +2365,13 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Spring performance tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/challenge-spring-performance-tuning?u=76281980)
+#### [Challenge: Spring performance tuning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/challenge-spring-performance-tuning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/challenge-spring-performance-tuning?u=76281980&t=0)** (pleasant electronic music)
 >
-> **[0:05](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/challenge-spring-performance-tuning?u=76281980&t=5)** - [Instructor] Welcome to the Spring Boot Start-Up Challenge.
+> **[0:05](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/challenge-spring-performance-tuning?u=76281980&t=5)** - [Instructor] Welcome to the [[Spring Boot]] Start-Up Challenge.
 >
 > **[0:08](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/challenge-spring-performance-tuning?u=76281980&t=8)** For this challenge, I invite you to modify the DemoClient application start-up configuration to report only the start-up events that are initiated by the Spring Boot framework.
 >
@@ -2400,21 +2381,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (2), application (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (2)
 > **Env Vars:** challenge (1), startup (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pleasant electronic music) (1)
 
-#### Solution: Spring performance tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/solution-spring-performance-tuning?u=76281980)
+#### [Solution: Spring performance tuning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/solution-spring-performance-tuning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/solution-spring-performance-tuning?u=76281980&t=0)** - [Instructor] Let us look together now at a solution for the challenge.
 >
-> **[0:08](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/solution-spring-performance-tuning?u=76281980&t=8)** What we're wanting to do is modify the DemoClient application start-up configuration, to report only the start-up events that are initiated by the Spring Boot framework.
+> **[0:08](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/solution-spring-performance-tuning?u=76281980&t=8)** What we're wanting to do is modify the DemoClient application start-up configuration, to report only the start-up events that are initiated by the [[Spring Boot]] framework.
 >
 > **[0:19](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/solution-spring-performance-tuning?u=76281980&t=19)** Let's have a little context.
 >
@@ -2452,7 +2432,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[Spring Boot]] (5)
+> **Frameworks & Libraries:** [[Spring Boot]] (5)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2462,8 +2442,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Compiling a performance profile
-> [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/compiling-a-performance-profile?u=76281980)
+#### [Compiling a performance profile](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/compiling-a-performance-profile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2477,7 +2456,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/compiling-a-performance-profile?u=76281980&t=28)** When you and your team are committed to generating and maintaining a living compilation of metrics that are specific and useful to your application, then you have some excellent advantages.
 >
-> **[0:40](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/compiling-a-performance-profile?u=76281980&t=40)** You can capture impactful decisions and decision trees.
+> **[0:40](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/compiling-a-performance-profile?u=76281980&t=40)** You can capture impactful decisions and [[Decision Trees]].
 >
 > **[0:44](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/compiling-a-performance-profile?u=76281980&t=44)** Then you can surface the impacts of those decisions to your performance, showing trends over time.
 >
@@ -2521,13 +2500,13 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/compiling-a-performance-profile?u=76281980&t=193)** This document breaks down this process into manageable steps to help you assemble your living performance profile documentation.
 >
-> **[3:21](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/compiling-a-performance-profile?u=76281980&t=201)** You will find it in Libra Office and also Word formats.
+> **[3:21](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/compiling-a-performance-profile?u=76281980&t=201)** You will find it in Libra [[Microsoft Office|Office]] and also [[Microsoft Word|Word]] formats.
 >
-> **[3:24](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/compiling-a-performance-profile?u=76281980&t=204)** Now that you have the technical skills in place, I hope you use these resources to begin the transition in your workflow to make performance tuning part of your everyday spring development life.
+> **[3:24](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/compiling-a-performance-profile?u=76281980&t=204)** Now that you have the technical skills in place, I hope you use these resources to begin the transition in your workflow to make [[Performance Tuning]] part of your everyday spring development life.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Decision Trees]] (1), next (1), concurrent (1), database (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (1), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1), [[Performance Tuning]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** jvm (3), cpu (1)
 > **Exercise Files:** template (2)
@@ -2535,8 +2514,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Presenting your work
-> [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/presenting-your-work?u=76281980)
+#### [Presenting your work](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/presenting-your-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2566,7 +2544,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/presenting-your-work?u=76281980&t=73)** "We can improve our API responsiveness by reducing our logging activity."
 >
-> **[1:18](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/presenting-your-work?u=76281980&t=78)** The second sentence has less technical detail, but it gets the point across quickly with a much higher probability that your audience will remain engaged from the start at the sentence all the way to the end.
+> **[1:18](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/presenting-your-work?u=76281980&t=78)** The second sentence has less technical detail, but it gets the point across quickly with a much higher [[Probability]] that your audience will remain engaged from the start at the sentence all the way to the end.
 >
 > **[1:30](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/presenting-your-work?u=76281980&t=90)** There's a time and a place for additional details and we'll talk about that as we come up on some other of these principles going forward.
 >
@@ -2594,7 +2572,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/presenting-your-work?u=76281980&t=188)** This is something you can deliver to an audience as effect that you have learned.
 >
-> **[3:13](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/presenting-your-work?u=76281980&t=193)** However, when you say something like this, "We can solve our slower API response times with more network throughput or by splitting our API into smaller microservices."
+> **[3:13](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/presenting-your-work?u=76281980&t=193)** However, when you say something like this, "We can solve our slower API response times with more network throughput or by splitting our API into smaller [[Microservices]]."
 >
 > **[3:24](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/presenting-your-work?u=76281980&t=204)** When you present options like this, then you invite questions and you can start talking about trade-offs and you can stepping back to some other principles.
 >
@@ -2604,7 +2582,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), career (1), application (1), [[Probability]] (1), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1), [[Microservices]] (1)
 > **Env Vars:** api (6), http (1)
 > **Analogies:** such as (1), for example (1), picture (1), for instance (1)
 > **CLI Commands:** find (2)
@@ -2616,20 +2594,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/next-steps?u=76281980&t=0)** - [Kathy] As you go forward with your work to master Spring performance, here are some extremely valuable resources that I would like to recommend.
 >
-> **[0:07](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/next-steps?u=76281980&t=7)** LinkedIn Learning provides outstanding courses for expanding your Spring expertise.
+> **[0:07](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/next-steps?u=76281980&t=7)** [[LinkedIn]] Learning provides outstanding courses for expanding your Spring expertise.
 >
-> **[0:13](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/next-steps?u=76281980&t=13)** To follow up on our discussion of hibernate performance, I highly recommend the course Java Database Access with Hibernate.
+> **[0:13](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/next-steps?u=76281980&t=13)** To follow up on our discussion of hibernate performance, I highly recommend the course [[Java]] Database Access with Hibernate.
 >
-> **[0:20](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/next-steps?u=76281980&t=20)** You can go deeper on JVM performance with the course Java Memory Management.
+> **[0:20](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/next-steps?u=76281980&t=20)** You can go deeper on JVM performance with the course Java [[Memory Management]].
 >
-> **[0:25](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/next-steps?u=76281980&t=25)** For an all around survey of Spring Boot, check out the Spring Boot 1.0 Essential Training.
+> **[0:25](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/next-steps?u=76281980&t=25)** For an all around survey of [[Spring Boot]], check out the Spring Boot 1.0 Essential Training.
 >
 > **[0:31](https://www.linkedin.com/learning/performance-tuning-in-spring-apps/next-steps?u=76281980&t=31)** Finally, the Spring Actuator documentation is outstanding and easy to navigate.
 >
@@ -2637,7 +2614,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), [[Spring Boot]] (2), [[LinkedIn]] (1), database (1), [[Memory Management]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Spring Boot]] (2), [[LinkedIn]] (1), [[Memory Management]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** jvm (1)
 > **Versions:** 1.0 (1)

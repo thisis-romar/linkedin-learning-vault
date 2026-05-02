@@ -120,40 +120,38 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sell anything with WooCommerce
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/sell-anything-with-woocommerce?u=76281980)
+#### [Sell anything with WooCommerce](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/sell-anything-with-woocommerce?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/sell-anything-with-woocommerce?u=76281980&t=0)** - [Patrick] There's a saying in business that goes, "If you build a better mousetrap, "the world will beat a path to your door."
 >
-> **[0:06](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/sell-anything-with-woocommerce?u=76281980&t=6)** WooCommerce is there to answer that door.
+> **[0:06](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/sell-anything-with-woocommerce?u=76281980&t=6)** [[WooCommerce]] is there to answer that door.
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/sell-anything-with-woocommerce?u=76281980&t=8)** It's an infinitely flexible and customizable tool that lets you sell anything you want.
 >
-> **[0:12](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/sell-anything-with-woocommerce?u=76281980&t=12)** Welcome to my LinkedIn Learning course on WooCommerce with WordPress.
+> **[0:12](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/sell-anything-with-woocommerce?u=76281980&t=12)** Welcome to my [[LinkedIn]] Learning course on WooCommerce with [[WordPress]].
 >
 > **[0:16](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/sell-anything-with-woocommerce?u=76281980&t=16)** We'll go over everything you need to know to build your first online store, including some of the most challenging aspects, such as payment, shipping, and taxes.
 >
 > **[0:25](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/sell-anything-with-woocommerce?u=76281980&t=25)** I'm Patrick Rauland and I've built dozens of stores, developed core functionality and led three releases of WooCommerce.
 >
-> **[0:32](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/sell-anything-with-woocommerce?u=76281980&t=32)** Now I focus on helping ecommerce businesses make more money by marketing their amazing products and I'd like to do the same for you.
+> **[0:32](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/sell-anything-with-woocommerce?u=76281980&t=32)** Now I focus on helping ecommerce businesses make more money by marketing their amazing [[Microsoft Products|products]] and I'd like to do the same for you.
 >
 > **[0:39](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/sell-anything-with-woocommerce?u=76281980&t=39)** So let's get sellin'.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (3), business (1), [[LinkedIn]] (1), [[WordPress]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (3), [[LinkedIn]] (1), [[WordPress]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [patrick] (1)
 
-#### What to know ahead of time
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/what-to-know-ahead-of-time?u=76281980)
+#### [What to know ahead of time](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/what-to-know-ahead-of-time?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/what-to-know-ahead-of-time?u=76281980&t=0)** - [Instructor] For this course, we'll be setting up WooCommerce on a WordPress website.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/what-to-know-ahead-of-time?u=76281980&t=0)** - [Instructor] For this course, we'll be setting up [[WooCommerce]] on a [[WordPress]] website.
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/what-to-know-ahead-of-time?u=76281980&t=4)** You don't need to know how to write WordPress code, but it would be helpful to have some WordPress knowledge, such as how to install WordPress itself, how to install themes and plugins, and how to add pages and posts.
 >
@@ -186,16 +184,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why WooCommerce?
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/why-woocommerce?u=76281980)
+#### [Why WooCommerce?](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/why-woocommerce?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/why-woocommerce?u=76281980&t=0)** - [Instructor] If you're a store owner or if you're a developer going to build a site for a client, you will either get asked to use WooCommerce or you will have to think about why you want to use WooCommerce.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/why-woocommerce?u=76281980&t=0)** - [Instructor] If you're a store owner or if you're a developer going to build a site for a client, you will either get asked to use [[WooCommerce]] or you will have to think about why you want to use WooCommerce.
 >
 > **[0:11](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/why-woocommerce?u=76281980&t=11)** WooCommerce has a couple of amazing things going for it.
 >
-> **[0:14](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/why-woocommerce?u=76281980&t=14)** First of all, it is built on WordPress.
+> **[0:14](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/why-woocommerce?u=76281980&t=14)** First of all, it is built on [[WordPress]].
 >
 > **[0:17](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/why-woocommerce?u=76281980&t=17)** That means that you can leverage all of the tools and services built on top of WordPress.
 >
@@ -221,7 +218,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/why-woocommerce?u=76281980&t=64)** Because it's open source, you can literally do anything with it.
 >
-> **[1:07](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/why-woocommerce?u=76281980&t=67)** Most e-commerce platforms are hosted, and the source code is hidden, so there are things you won't be able to do.
+> **[1:07](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/why-woocommerce?u=76281980&t=67)** Most [[E-Commerce]] platforms are hosted, and the source code is hidden, so there are things you won't be able to do.
 >
 > **[1:13](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/why-woocommerce?u=76281980&t=73)** The GPL license is a bit harder to explain.
 >
@@ -253,7 +250,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/why-woocommerce?u=76281980&t=152)** We haven't even gone into any of the features, and WooCommerce has a ton of features.
 >
-> **[2:38](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/why-woocommerce?u=76281980&t=158)** WooCommerce lets you sell physical products, downloadable goods, subscriptions, memberships, preorders, name-your-own-price products, and more.
+> **[2:38](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/why-woocommerce?u=76281980&t=158)** WooCommerce lets you sell physical [[Microsoft Products|products]], downloadable goods, subscriptions, memberships, preorders, name-your-own-price products, and more.
 >
 > **[2:47](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/why-woocommerce?u=76281980&t=167)** It's incredibly customizable.
 >
@@ -277,7 +274,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (13), [[WordPress]] (12), [[E-Commerce]] (3), business (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[WooCommerce]] (13), [[WordPress]] (12), [[E-Commerce]] (3), [[Microsoft Products|Products]] (2)
 > **Env Vars:** gpl (3), seo (1), ups (1), usps (1)
 > **Definitions:** means that (2), is a  (2)
 > **URLs:** [freelancer.com](https://freelancer.com) (1), [woocommerce.com](https://woocommerce.com) (1)
@@ -285,18 +282,17 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up WordPress for eCommerce
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-wordpress-for-ecommerce?u=76281980)
+#### [Setting up WordPress for eCommerce](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-wordpress-for-ecommerce?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-wordpress-for-ecommerce?u=76281980&t=0)** - We're going to create our own store with a pretty much, bare-bones WordPress web site.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-wordpress-for-ecommerce?u=76281980&t=0)** - We're going to create our own store with a pretty much, bare-bones [[WordPress]] web site.
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-wordpress-for-ecommerce?u=76281980&t=5)** You can follow along with your own WordPress site.
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-wordpress-for-ecommerce?u=76281980&t=8)** We'll be using the 2019 theme at first.
 >
-> **[0:11](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-wordpress-for-ecommerce?u=76281980&t=11)** And later in the course, we're going to look into another great WooCommerce theme called Storefront.
+> **[0:11](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-wordpress-for-ecommerce?u=76281980&t=11)** And later in the course, we're going to look into another great [[WooCommerce]] theme called Storefront.
 >
 > **[0:16](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-wordpress-for-ecommerce?u=76281980&t=16)** You should be able to follow along with 2019 Storefront, or any other WordPress or WooCommerce theme that you have installed on your site.
 >
@@ -346,7 +342,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (4), [[WooCommerce]] (4), web (1), product (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), [[WooCommerce]] (4)
 > **Cross-References:** go back to (4), later in (1)
 > **UI Navigation:** go to (4), scroll down (1)
 > **Prerequisites:** set up (3), install (1)
@@ -360,16 +356,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Downloading and installing WooCommerce
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/downloading-and-installing-woocommerce?u=76281980)
+#### [Downloading and installing WooCommerce](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/downloading-and-installing-woocommerce?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/downloading-and-installing-woocommerce?u=76281980&t=0)** - [Instructor] Let's get started by downloading and installing the WooCommerce plugin.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/downloading-and-installing-woocommerce?u=76281980&t=0)** - [Instructor] Let's get started by downloading and installing the [[WooCommerce]] plugin.
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/downloading-and-installing-woocommerce?u=76281980&t=4)** There's a couple of ways to do this.
 >
-> **[0:06](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/downloading-and-installing-woocommerce?u=76281980&t=6)** The easiest way is to install the plugin from within your WordPress site.
+> **[0:06](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/downloading-and-installing-woocommerce?u=76281980&t=6)** The easiest way is to install the plugin from within your [[WordPress]] site.
 >
 > **[0:11](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/downloading-and-installing-woocommerce?u=76281980&t=11)** Let's go to Plugins, Add New, then we can type in WooCommerce and install the one from Automatic, and that's it.
 >
@@ -399,7 +394,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/downloading-and-installing-woocommerce?u=76281980&t=107)** On step three, we'll choose an industry, and in this case, I'm going to choose Health and Beauty as well as Fashion and Apparel, and click Continue.
 >
-> **[1:59](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/downloading-and-installing-woocommerce?u=76281980&t=119)** On the next step, we'll choose what type of products we're selling.
+> **[1:59](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/downloading-and-installing-woocommerce?u=76281980&t=119)** On the next step, we'll choose what type of [[Microsoft Products|products]] we're selling.
 >
 > **[2:02](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/downloading-and-installing-woocommerce?u=76281980&t=122)** I'll select both Physical and Digital products.
 >
@@ -435,7 +430,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (12), [[WordPress]] (4), next (3), [[Microsoft Products|Products]] (2), prompt (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (12), [[WordPress]] (4), [[Microsoft Products|Products]] (2)
 > **Prerequisites:** install (6)
 > **URLs:** [wordpress.com](https://wordpress.com) (3), [woocommerce.com](https://woocommerce.com) (2)
 > **Env Vars:** zip (1), url (1), https (1)
@@ -444,8 +439,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ecommerce (1)
 
-#### Setting up through the welcome wizard
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-through-the-welcome-wizard?u=76281980)
+#### [Setting up through the welcome wizard](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-through-the-welcome-wizard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -453,7 +447,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-through-the-welcome-wizard?u=76281980&t=3)** And as soon as you do this, the Welcome Wizard will pop up.
 >
-> **[0:06](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-through-the-welcome-wizard?u=76281980&t=6)** Let's go to WooCommerce and click Activate.
+> **[0:06](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-through-the-welcome-wizard?u=76281980&t=6)** Let's go to [[WooCommerce]] and click Activate.
 >
 > **[0:10](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-through-the-welcome-wizard?u=76281980&t=10)** And here is the Welcome Wizard.
 >
@@ -471,7 +465,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-through-the-welcome-wizard?u=76281980&t=44)** The currency is, of course, used for payment during checkout and for displaying prices on the Product page.
 >
-> **[0:50](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-through-the-welcome-wizard?u=76281980&t=50)** And the types of products you're selling at the bottom will configure a few extra settings related to shipping.
+> **[0:50](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-through-the-welcome-wizard?u=76281980&t=50)** And the types of [[Microsoft Products|products]] you're selling at the bottom will configure a few extra settings related to shipping.
 >
 > **[0:55](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-through-the-welcome-wizard?u=76281980&t=55)** For our store, we'll want to select both physical and digital.
 >
@@ -501,9 +495,9 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-through-the-welcome-wizard?u=76281980&t=122)** I'm going to use Stripe because they have excellent customer service.
 >
-> **[2:06](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-through-the-welcome-wizard?u=76281980&t=126)** On one of the first e-commerce sites I built, there was an issue depositing $10,000.
+> **[2:06](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-through-the-welcome-wizard?u=76281980&t=126)** On one of the first [[E-Commerce]] sites I built, there was an issue depositing $10,000.
 >
-> **[2:10](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-through-the-welcome-wizard?u=76281980&t=130)** And I was able to get in touch with the customer support and resolve the issue.
+> **[2:10](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-through-the-welcome-wizard?u=76281980&t=130)** And I was able to get in touch with the [[Customer Support]] and resolve the issue.
 >
 > **[2:15](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-through-the-welcome-wizard?u=76281980&t=135)** When you're dealing with tens of thousands of dollars, you really want to have that good customer support.
 >
@@ -523,7 +517,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-through-the-welcome-wizard?u=76281980&t=178)** Before we continue, I want to point out something that's happening behind the scenes.
 >
-> **[3:02](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-through-the-welcome-wizard?u=76281980&t=182)** For both of these options, this wizard is actually downloading and installing a free plugin from [WordPress.org](https://WordPress.org).
+> **[3:02](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-through-the-welcome-wizard?u=76281980&t=182)** For both of these options, this wizard is actually downloading and installing a free plugin from [[[WordPress]].org](https://WordPress.org).
 >
 > **[3:09](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-through-the-welcome-wizard?u=76281980&t=189)** So if you see an extra plugin or two on your site, now you know why.
 >
@@ -557,7 +551,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (6), next (3), product (2), [[Customer Support]] (2), [[WordPress]] (2)
+> **Frameworks & Libraries:** [[WooCommerce]] (6), [[Customer Support]] (2), [[WordPress]] (2), [[Microsoft Products|Products]] (1), [[E-Commerce]] (1)
 > **Cross-References:** later in (3), in the next (2)
 > **URLs:** [wordpress.org](https://wordpress.org) (2), [woocommerce.com](https://woocommerce.com) (1)
 > **Prerequisites:** configure (2), install (1)
@@ -566,8 +560,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Installing Jetpack via the welcome wizard
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-jetpack-via-the-welcome-wizard?u=76281980)
+#### [Installing Jetpack via the welcome wizard](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-jetpack-via-the-welcome-wizard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -599,7 +592,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-jetpack-via-the-welcome-wizard?u=76281980&t=79)** So I'll actually deactivate them for right now.
 >
-> **[1:21](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-jetpack-via-the-welcome-wizard?u=76281980&t=81)** Since we want Automated Taxes, we need to connect to [wordpress.com](https://wordpress.com), which powers all of this functionality.
+> **[1:21](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-jetpack-via-the-welcome-wizard?u=76281980&t=81)** Since we want Automated Taxes, we need to connect to [[[WordPress]].com](https://wordpress.com), which powers all of this functionality.
 >
 > **[1:28](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-jetpack-via-the-welcome-wizard?u=76281980&t=88)** And in order to do that we need to connect our store via Jetpack, which is a free plugin offered by [wordpress.com](https://wordpress.com).
 >
@@ -671,7 +664,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (4), feature (2), next (2), product (1), express (1)
+> **Frameworks & Libraries:** [[WordPress]] (4)
 > **Cross-References:** later in (2), next video (2), go back to (1)
 > **Prerequisites:** install (3), configure (1), set up (1)
 > **URLs:** [wordpress.com](https://wordpress.com) (4)
@@ -685,14 +678,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding a new product
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-a-new-product?u=76281980)
+#### [Adding a new product](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-a-new-product?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-a-new-product?u=76281980&t=0)** - [Narrator] If you just went through the Welcome Wizard, you'll see a screen with a big button that prompts you to create your first product.
 >
-> **[0:06](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-a-new-product?u=76281980&t=6)** Or, if you've already gone through the Wizard, you can create a new product by going to your Admin, and then going to Products, Add New.
+> **[0:06](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-a-new-product?u=76281980&t=6)** Or, if you've already gone through the Wizard, you can create a new product by going to your Admin, and then going to [[Microsoft Products|Products]], Add New.
 >
 > **[0:15](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-a-new-product?u=76281980&t=15)** I'll go back to the Wizard, and click Create a New Product.
 >
@@ -706,7 +698,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-a-new-product?u=76281980&t=39)** This is called the Classic editor, and it looks quite dated.
 >
-> **[0:43](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-a-new-product?u=76281980&t=43)** At some point in the future, WooCommerce will work seamlessly with Gutenberg.
+> **[0:43](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-a-new-product?u=76281980&t=43)** At some point in the future, [[WooCommerce]] will work seamlessly with Gutenberg.
 >
 > **[0:47](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-a-new-product?u=76281980&t=47)** But for right now, the data is structured in a very specific way, so we still have to use this Classic editor.
 >
@@ -760,14 +752,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (12), [[Microsoft Products|Products]] (3), [[WooCommerce]] (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[WooCommerce]] (2)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [narrator] (1)
 
-#### Adding an image to a product
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-an-image-to-a-product?u=76281980)
+#### [Adding an image to a product](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-an-image-to-a-product?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -783,7 +774,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-an-image-to-a-product?u=76281980&t=22)** And with some, you want to have an image with a bit of white space around it.
 >
-> **[0:25](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-an-image-to-a-product?u=76281980&t=25)** If we look at this research by conversion XL, we can see that for functional products, like cameras, hard drives, computers, et cetera, a large image tends to work better.
+> **[0:25](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-an-image-to-a-product?u=76281980&t=25)** If we look at this research by conversion XL, we can see that for functional [[Microsoft Products|products]], like cameras, hard drives, computers, et cetera, a large image tends to work better.
 >
 > **[0:36](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-an-image-to-a-product?u=76281980&t=36)** For design-heavy products, like fashion, jewelry, illustrations et cetera, an image with a bit of white space tends to work a little bit better.
 >
@@ -801,9 +792,9 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-an-image-to-a-product?u=76281980&t=67)** Before I upload it, I'm going to do one thing.
 >
-> **[1:09](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-an-image-to-a-product?u=76281980&t=69)** I'm going to make sure that my files names are more helpful for search engine optimization.
+> **[1:09](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-an-image-to-a-product?u=76281980&t=69)** I'm going to make sure that my files names are more helpful for [[Search Engine Optimization (SEO)|search engine optimization]].
 >
-> **[1:14](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-an-image-to-a-product?u=76281980&t=74)** In WordPress, it's really hard to rename files once they've been uploaded.
+> **[1:14](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-an-image-to-a-product?u=76281980&t=74)** In [[WordPress]], it's really hard to rename files once they've been uploaded.
 >
 > **[1:19](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-an-image-to-a-product?u=76281980&t=79)** So I always spend a few minutes doing this before I upload an image to my site.
 >
@@ -811,7 +802,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-an-image-to-a-product?u=76281980&t=86)** I'm going to click return, so I can edit it.
 >
-> **[1:28](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-an-image-to-a-product?u=76281980&t=88)** And I'm going to remove this 600 PX, Google doesn't need to know that.
+> **[1:28](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-an-image-to-a-product?u=76281980&t=88)** And I'm going to remove this 600 PX, [[Google]] doesn't need to know that.
 >
 > **[1:33](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-an-image-to-a-product?u=76281980&t=93)** And if you don't already have this, go ahead and put dashes between the words.
 >
@@ -879,7 +870,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (14), functional (3), [[Microsoft Products|Products]] (3), [[WordPress]] (3), seo (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[WordPress]] (3), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[Google]] (1)
 > **UI Navigation:** scroll down (3), go to (2)
 > **Env Vars:** seo (2), img12345 (1), alt (1)
 > **CLI Commands:** make (3)
@@ -888,8 +879,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Adding an image gallery
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-an-image-gallery?u=76281980)
+#### [Adding an image gallery](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-an-image-gallery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -929,7 +919,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-an-image-gallery?u=76281980&t=83)** Let's say you have really wide images or really tall images, and your theme doesn't have space for them.
 >
-> **[1:29](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-an-image-gallery?u=76281980&t=89)** There's a useful plugin called the Smart Image Resize for WooCommerce.
+> **[1:29](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-an-image-gallery?u=76281980&t=89)** There's a useful plugin called the Smart Image Resize for [[WooCommerce]].
 >
 > **[1:33](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-an-image-gallery?u=76281980&t=93)** This plugin will automatically resize your images for WooCommerce.
 >
@@ -937,7 +927,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-an-image-gallery?u=76281980&t=99)** So you can try a whole bunch of different sizes and see what works best for your audience.
 >
-> **[1:44](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-an-image-gallery?u=76281980&t=104)** High-quality images are a huge part of having a successful e-commerce store.
+> **[1:44](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-an-image-gallery?u=76281980&t=104)** High-quality images are a huge part of having a successful [[E-Commerce]] store.
 >
 > **[1:48](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-an-image-gallery?u=76281980&t=108)** Even for hard drives and monitors customers want to see high-quality pictures.
 >
@@ -949,13 +939,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[WooCommerce]] (3), [[E-Commerce]] (1), data (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (3), [[E-Commerce]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Working with product data
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/working-with-product-data?u=76281980)
+#### [Working with product data](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/working-with-product-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -971,7 +960,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/working-with-product-data?u=76281980&t=27)** Why have a sale price and regular price?
 >
-> **[0:29](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/working-with-product-data?u=76281980&t=29)** Because then WooCommerce will show you the difference on the product page.
+> **[0:29](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/working-with-product-data?u=76281980&t=29)** Because then [[WooCommerce]] will show you the difference on the product page.
 >
 > **[0:33](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/working-with-product-data?u=76281980&t=33)** Let's go ahead and set that.
 >
@@ -979,7 +968,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/working-with-product-data?u=76281980&t=44)** We can see that the original price is crossed out, and the new price is highlighted.
 >
-> **[0:48](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/working-with-product-data?u=76281980&t=48)** And this also appears on the shop page, which lists all of your products.
+> **[0:48](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/working-with-product-data?u=76281980&t=48)** And this also appears on the shop page, which lists all of your [[Microsoft Products|products]].
 >
 > **[0:53](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/working-with-product-data?u=76281980&t=53)** And we haven't talked about the shop page yet, but think of it as the place where you can browse through all of your products.
 >
@@ -1087,7 +1076,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (20), [[Microsoft Products|Products]] (11), [[WooCommerce]] (4), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (11), [[WooCommerce]] (4)
 > **Env Vars:** sku (3), usps (1), ups (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** later in (3), go back to (1)
@@ -1096,14 +1085,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (2)
 > **Code Identifiers:** ecommerce (1)
 
-#### Adding categories and tags
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-categories-and-tags?u=76281980)
+#### [Adding categories and tags](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-categories-and-tags?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-categories-and-tags?u=76281980&t=0)** - [Narrator] You may have noticed that our product is uncategorized, or you may not see any category on the front end.
 >
-> **[0:07](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-categories-and-tags?u=76281980&t=7)** One of the things that we can do to make our products more discoverable is to add categories and tags to help our user browse to the right product.
+> **[0:07](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-categories-and-tags?u=76281980&t=7)** One of the things that we can do to make our [[Microsoft Products|products]] more discoverable is to add categories and tags to help our user browse to the right product.
 >
 > **[0:21](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-categories-and-tags?u=76281980&t=21)** For a store with a dozen or so products, you probably don't have to add categories and tags, but they're still useful, so I like to add them.
 >
@@ -1151,7 +1139,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (6), [[Search]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
 > **Analogies:** for example (1)
@@ -1159,12 +1147,11 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating product variations
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-product-variations?u=76281980)
+#### [Creating product variations](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-product-variations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-product-variations?u=76281980&t=0)** - [Instructor] Up until this point, we've only covered simple products, which are products that don't have any options, but if you have products that come in different sizes colors or styles, you might want to create one product page and let users pick the option or variation that best suits them.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-product-variations?u=76281980&t=0)** - [Instructor] Up until this point, we've only covered simple [[Microsoft Products|products]], which are products that don't have any options, but if you have products that come in different sizes colors or styles, you might want to create one product page and let users pick the option or variation that best suits them.
 >
 > **[0:16](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-product-variations?u=76281980&t=16)** Let's create a new product for some H+ sports apparel.
 >
@@ -1222,21 +1209,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (13), [[Microsoft Products|Products]] (7)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7)
 > **Cross-References:** go back to (6), later in (1)
 > **UI Navigation:** scroll down (2), click on (2), go to (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating global attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-global-attributes?u=76281980)
+#### [Creating global attributes](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-global-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-global-attributes?u=76281980&t=0)** - We've already covered how to create a custom attribute.
 >
-> **[0:03](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-global-attributes?u=76281980&t=3)** This time, I'm going to show you how to create global attributes that can be reused between products.
+> **[0:03](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-global-attributes?u=76281980&t=3)** This time, I'm going to show you how to create global attributes that can be reused between [[Microsoft Products|products]].
 >
 > **[0:09](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-global-attributes?u=76281980&t=9)** Basically, if you're ever going to reuse an attribute between products, I recommend you make it a global attribute.
 >
@@ -1298,19 +1284,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (5), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5)
 > **UI Navigation:** go to (3), in the menu (1), click on (1), scroll down (1), select the (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - we (1)
 
-#### Creating digital products
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-digital-products?u=76281980)
+#### [Creating digital products](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-digital-products?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-digital-products?u=76281980&t=0)** - [Patrick] WooCommerce isn't just good for physical products, it's also good for digital products.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-digital-products?u=76281980&t=0)** - [Patrick] [[WooCommerce]] isn't just good for physical [[Microsoft Products|products]], it's also good for digital products.
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-digital-products?u=76281980&t=6)** Even a mostly-physical goods store may still have a few digital products like a PDF guide, a training video, or even exercise files.
 >
@@ -1362,7 +1347,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), product (4), [[WooCommerce]] (1), data (1), cd (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[WooCommerce]] (1)
 > **Exercise Files:** download the (3), exercise files (1)
 > **Analogies:** for example (2), such as (1)
 > **Env Vars:** pdf (1), url (1)
@@ -1371,12 +1356,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [patrick] (1)
 
-#### Adding descriptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-descriptions?u=76281980)
+#### [Adding descriptions](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-descriptions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-descriptions?u=76281980&t=0)** - [Instructor] One of the useful features about WooCommerce that is a bit hard to find is the short description.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-descriptions?u=76281980&t=0)** - [Instructor] One of the useful features about [[WooCommerce]] that is a bit hard to find is the short description.
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-descriptions?u=76281980&t=5)** That's a one or two-sentence description of your product that can be seen above the fold.
 >
@@ -1410,20 +1394,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[WooCommerce]] (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (1)
 > **UI Navigation:** scroll down (1), go to (1), click on (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Grouping products and creating product bundles
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/grouping-products-and-creating-product-bundles?u=76281980)
+#### [Grouping products and creating product bundles](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/grouping-products-and-creating-product-bundles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/grouping-products-and-creating-product-bundles?u=76281980&t=0)** - [Instructor] There are a couple of ways to show groups of products.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/grouping-products-and-creating-product-bundles?u=76281980&t=0)** - [Instructor] There are a couple of ways to show groups of [[Microsoft Products|products]].
 >
-> **[0:03](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/grouping-products-and-creating-product-bundles?u=76281980&t=3)** The first is included in WooCommerce for free.
+> **[0:03](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/grouping-products-and-creating-product-bundles?u=76281980&t=3)** The first is included in [[WooCommerce]] for free.
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/grouping-products-and-creating-product-bundles?u=76281980&t=5)** The second is a premium plugin that has all of the bells and whistles.
 >
@@ -1515,7 +1498,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (14), [[Microsoft Products|Products]] (10), [[WooCommerce]] (4), front-end (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (10), [[WooCommerce]] (4)
 > **UI Navigation:** go to (3), select the (2), click on (1)
 > **Definitions:** is a  (2)
 > **URLs:** [woocommerce.com](https://woocommerce.com) (1)
@@ -1523,12 +1506,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a subscription product
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-a-subscription-product?u=76281980)
+#### [Creating a subscription product](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-a-subscription-product?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-a-subscription-product?u=76281980&t=0)** - [Instructor] We've covered just about all the ways to sell products.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-a-subscription-product?u=76281980&t=0)** - [Instructor] We've covered just about all the ways to sell [[Microsoft Products|products]].
 >
 > **[0:03](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-a-subscription-product?u=76281980&t=3)** But, there is one more way that's a bit more complex to set up, but it's very popular.
 >
@@ -1544,7 +1526,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-a-subscription-product?u=76281980&t=28)** Another store that uses subscriptions, is Gentleman's Box.
 >
-> **[0:33](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-a-subscription-product?u=76281980&t=33)** Every month, they deliver things that every gentleman needs, and the store uses WooCommerce.
+> **[0:33](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-a-subscription-product?u=76281980&t=33)** Every month, they deliver things that every gentleman needs, and the store uses [[WooCommerce]].
 >
 > **[0:41](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-a-subscription-product?u=76281980&t=41)** Another store that uses WooCommerce, is Guitar Compass.
 >
@@ -1610,7 +1592,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (11), product (6), [[Microsoft Products|Products]] (3), business (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (11), [[Microsoft Products|Products]] (3)
 > **Prerequisites:** set up (3), install (1)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** go to (2)
@@ -1619,14 +1601,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** download the (1)
 
-#### Importing products
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/importing-products?u=76281980)
+#### [Importing products](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/importing-products?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/importing-products?u=76281980&t=0)** - [Patrick] If you don't have any of your own products, it can be tricky to follow the rest of this course and it's hard to imagine what your store could look like.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/importing-products?u=76281980&t=0)** - [Patrick] If you don't have any of your own [[Microsoft Products|products]], it can be tricky to follow the [[Representational State Transfer (REST)|rest]] of this course and it's hard to imagine what your store could look like.
 >
-> **[0:08](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/importing-products?u=76281980&t=8)** Luckily the WooCommerce team has already thought of this.
+> **[0:08](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/importing-products?u=76281980&t=8)** Luckily the [[WooCommerce]] team has already thought of this.
 >
 > **[0:11](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/importing-products?u=76281980&t=11)** They've included dummy data that you can use.
 >
@@ -1654,7 +1635,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/importing-products?u=76281980&t=71)** I've already downloaded the WooCommerce plugin to my computer.
 >
-> **[1:15](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/importing-products?u=76281980&t=75)** You can also go to [wordpress.org](https://wordpress.org) and download the WooCommerce plugin there.
+> **[1:15](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/importing-products?u=76281980&t=75)** You can also go to [[[WordPress]].org](https://wordpress.org) and download the WooCommerce plugin there.
 >
 > **[1:21](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/importing-products?u=76281980&t=81)** I'll click on Choose File, I'll go to my desktop, and here is the unzipped plugin that I just downloaded.
 >
@@ -1680,7 +1661,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/importing-products?u=76281980&t=142)** So I can see the pennants, a single product, a polo, and all sorts of extra products.
 >
-> **[2:29](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/importing-products?u=76281980&t=149)** We can even click into some of these and we can see the title, the description, images, and a bunch of metadata.
+> **[2:29](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/importing-products?u=76281980&t=149)** We can even click into some of these and we can see the title, the description, images, and a bunch of [[Metadata]].
 >
 > **[2:38](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/importing-products?u=76281980&t=158)** Again, I do recommend using your own products and your own photography because certain layouts or settings might work with a generic store, but won't work well with your products.
 >
@@ -1690,7 +1671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (12), [[WooCommerce]] (8), data (5), next (2), database (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (12), [[WooCommerce]] (8), [[Representational State Transfer (REST)|Rest]] (1), [[WordPress]] (1), [[Metadata]] (1)
 > **UI Navigation:** go to (4), click on (2), scroll down (1)
 > **Env Vars:** csv (5)
 > **Prerequisites:** set up (2), install (2)
@@ -1704,16 +1685,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing Storefront
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-storefront?u=76281980)
+#### [Installing Storefront](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-storefront?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-storefront?u=76281980&t=0)** - [Instructor] Up until this point, we've mostly been adding products to the store and then configuring some settings.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-storefront?u=76281980&t=0)** - [Instructor] Up until this point, we've mostly been adding [[Microsoft Products|products]] to the store and then configuring some settings.
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-storefront?u=76281980&t=5)** This is all well and good, but our store looks pretty boring.
 >
-> **[0:09](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-storefront?u=76281980&t=9)** Luckily for us, there are hundreds of free WooCommerce themes on [WordPress.org](https://WordPress.org), and there are plenty of theme stores like WooCommerce and ThemeForest that sell premium themes.
+> **[0:09](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-storefront?u=76281980&t=9)** Luckily for us, there are hundreds of free [[WooCommerce]] themes on [[[WordPress]].org](https://WordPress.org), and there are plenty of theme stores like WooCommerce and ThemeForest that sell premium themes.
 >
 > **[0:19](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-storefront?u=76281980&t=19)** We've already installed a theme called Storefront onto the site through the Welcome Wizard.
 >
@@ -1743,15 +1723,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[WooCommerce]] (4), [[WordPress]] (1), feature (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[WooCommerce]] (4), [[WordPress]] (1)
 > **UI Navigation:** go to (2)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
 > **Exercise Files:** template (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Customizing theme colors
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-theme-colors?u=76281980)
+#### [Customizing theme colors](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-theme-colors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1763,7 +1742,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-theme-colors?u=76281980&t=6)** If you haven't already, click the let's go button to add the storefront homepage template to your site.
 >
-> **[0:14](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-theme-colors?u=76281980&t=14)** Then we're going to use the WordPress Customizer.
+> **[0:14](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-theme-colors?u=76281980&t=14)** Then we're going to use the [[WordPress]] Customizer.
 >
 > **[0:16](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-theme-colors?u=76281980&t=16)** Which will automatically be loaded for us, if we click the let's go button.
 >
@@ -1773,7 +1752,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-theme-colors?u=76281980&t=36)** We can change the title, upload a logo, change the header colors, the footer colors, all sorts of things.
 >
-> **[0:42](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-theme-colors?u=76281980&t=42)** We're currently looking at the homepage which Storefront automatically created for us, and I'm pretty happy with it because it's a nice mix of content and products.
+> **[0:42](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-theme-colors?u=76281980&t=42)** We're currently looking at the homepage which Storefront automatically created for us, and I'm pretty happy with it because it's a nice mix of content and [[Microsoft Products|products]].
 >
 > **[0:51](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-theme-colors?u=76281980&t=51)** Let's go ahead and start customizing this.
 >
@@ -1787,7 +1766,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-theme-colors?u=76281980&t=74)** And then we can choose to modify the site title.
 >
-> **[1:17](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-theme-colors?u=76281980&t=77)** In this case, it says H+ Sport and it doesn't actually do anything, because the logo has replaced the site title, but it will show up in the HTML of your page, which affects SEO and how visually impaired people might access your site.
+> **[1:17](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-theme-colors?u=76281980&t=77)** In this case, it says H+ Sport and it doesn't actually do anything, because the logo has replaced the site title, but it will show up in the [[HTML]] of your page, which affects SEO and how visually impaired people might access your site.
 >
 > **[1:31](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-theme-colors?u=76281980&t=91)** So you definitely want to put something here, even if you can't see it.
 >
@@ -1869,7 +1848,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-theme-colors?u=76281980&t=280)** The one thing I want to point out, is that not all themes do have options for these buttons.
 >
-> **[4:45](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-theme-colors?u=76281980&t=285)** If you theme doesn't have any controls for these buttons, there is a plugin called WooCommerce Colors.
+> **[4:45](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-theme-colors?u=76281980&t=285)** If you theme doesn't have any controls for these buttons, there is a plugin called [[WooCommerce]] Colors.
 >
 > **[4:50](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-theme-colors?u=76281980&t=290)** It's a free plugin on [wordpress.org](https://wordpress.org) and it's made by the WooCommerce team.
 >
@@ -1889,7 +1868,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[WordPress]] (2), [[WooCommerce]] (2), [[Microsoft Products|Products]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[WooCommerce]] (2), [[Microsoft Products|Products]] (1), [[HTML]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** ddd (2), html (1), seo (1), ada80d (1)
 > **UI Navigation:** go to (2), scroll down (2)
@@ -1898,16 +1877,15 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** template (1)
 
-#### Customizing the welcome page
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-welcome-page?u=76281980)
+#### [Customizing the welcome page](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-welcome-page?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-welcome-page?u=76281980&t=0)** - [Instructor] Every store has the Shop page, which is a page automatically created by WooCommerce.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-welcome-page?u=76281980&t=0)** - [Instructor] Every store has the Shop page, which is a page automatically created by [[WooCommerce]].
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-welcome-page?u=76281980&t=6)** And in Storefront, there's a special Welcome page that we're looking at right now.
 >
-> **[0:10](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-welcome-page?u=76281980&t=10)** If you don't have a front page, it'll create something brand new, and if you have a simple home page, like we have right here, it'll add products starting right here.
+> **[0:10](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-welcome-page?u=76281980&t=10)** If you don't have a front page, it'll create something brand new, and if you have a simple home page, like we have right here, it'll add [[Microsoft Products|products]] starting right here.
 >
 > **[0:20](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-welcome-page?u=76281980&t=20)** So we can see categories, products, recommended products, fan favorites, on sale, and more.
 >
@@ -2021,7 +1999,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (12), product (11), [[WooCommerce]] (3), power (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (12), [[WooCommerce]] (3)
 > **UI Navigation:** go to (4)
 > **Exercise Files:** template (2)
 > **CLI Commands:** make (1)
@@ -2030,12 +2008,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Customizing the shop page
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-shop-page?u=76281980)
+#### [Customizing the shop page](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-shop-page?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-shop-page?u=76281980&t=0)** - [Instructor] The Shop page shows us all the products and categories in our store, and it's a default page created by WooCommerce.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-shop-page?u=76281980&t=0)** - [Instructor] The Shop page shows us all the [[Microsoft Products|products]] and categories in our store, and it's a default page created by [[WooCommerce]].
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-shop-page?u=76281980&t=8)** And you can get to it through a number of ways, including the bread crumbs, the Cart page, and other pages.
 >
@@ -2075,7 +2052,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[WooCommerce]] (3), product (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[WooCommerce]] (3)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Documentation:** the documentation (1)
@@ -2083,8 +2060,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring the sidebar
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-the-sidebar?u=76281980)
+#### [Configuring the sidebar](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-the-sidebar?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2106,7 +2082,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-the-sidebar?u=76281980&t=33)** So there's search, recent post, recent comments, archives, categories and meta.
 >
-> **[0:38](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-the-sidebar?u=76281980&t=38)** None of these are useful for helping us find more products and sell more products.
+> **[0:38](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-the-sidebar?u=76281980&t=38)** None of these are useful for helping us find more [[Microsoft Products|products]] and sell more products.
 >
 > **[0:41](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-the-sidebar?u=76281980&t=41)** So let's get rid of all of these.
 >
@@ -2114,7 +2090,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-the-sidebar?u=76281980&t=49)** So we can do a little bit better with all of these.
 >
-> **[0:54](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-the-sidebar?u=76281980&t=54)** Now that we've removed all the widgets, WooCommerce is smart and has filled the space but we want to make sure to add new widgets back in that'll actually help us sell more.
+> **[0:54](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-the-sidebar?u=76281980&t=54)** Now that we've removed all the widgets, [[WooCommerce]] is smart and has filled the space but we want to make sure to add new widgets back in that'll actually help us sell more.
 >
 > **[1:04](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-the-sidebar?u=76281980&t=64)** So let's click add a widget.
 >
@@ -2194,7 +2170,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), product (8), [[WooCommerce]] (6), [[Search]] (5)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), [[WooCommerce]] (6)
 > **CLI Commands:** make (3), find (2)
 > **Code Identifiers:** ecommerce (2)
 > **UI Navigation:** go to (1), click on (1)
@@ -2203,8 +2179,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - the (1)
 
-#### Customizing the product page
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-product-page?u=76281980)
+#### [Customizing the product page](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-product-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2218,7 +2193,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-product-page?u=76281980&t=9)** But first, let's take a look at our Product page.
 >
-> **[0:12](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-product-page?u=76281980&t=12)** So I'll scroll down to one of my products, and click into it.
+> **[0:12](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-product-page?u=76281980&t=12)** So I'll scroll down to one of my [[Microsoft Products|products]], and click into it.
 >
 > **[0:17](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-product-page?u=76281980&t=17)** One of the things you might notice is the length of the Product page.
 >
@@ -2250,7 +2225,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-product-page?u=76281980&t=88)** One of the things I've noticed on this page is there are no social sharing icons and I'm going to go ahead and show you the easiest way to add them.
 >
-> **[1:37](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-product-page?u=76281980&t=97)** This plugin, also made by the WooCommerce team, adds Facebook, Twitter, Pinterest, and a share by email button; all of the basics.
+> **[1:37](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-product-page?u=76281980&t=97)** This plugin, also made by the [[WooCommerce]] team, adds Facebook, Twitter, Pinterest, and a share by email button; all of the basics.
 >
 > **[1:45](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-product-page?u=76281980&t=105)** Let's install this and see how it works.
 >
@@ -2266,7 +2241,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-product-page?u=76281980&t=138)** There are other options for social sharing.
 >
-> **[2:20](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-product-page?u=76281980&t=140)** If you want a more configurable system, I set up something similar with a Jetpack sharing module in WordPress, customizing WooCommerce themes.
+> **[2:20](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-product-page?u=76281980&t=140)** If you want a more configurable system, I set up something similar with a Jetpack sharing module in [[WordPress]], customizing WooCommerce themes.
 >
 > **[2:27](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-the-product-page?u=76281980&t=147)** That video will show you how to place the sharing icons but for our purposes right here, with just a few clicks, we are able to add some serious functionality we are able to add some serious functionality to our Product pages.
 >
@@ -2274,15 +2249,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (11), feature (3), [[WooCommerce]] (2), [[Microsoft Products|Products]] (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (2), [[Microsoft Products|Products]] (1), [[WordPress]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** go back to (3)
 > **Prerequisites:** install (2), set up (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Customizing cart and checkout page
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-cart-and-checkout-page?u=76281980)
+#### [Customizing cart and checkout page](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-cart-and-checkout-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2298,7 +2272,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-cart-and-checkout-page?u=76281980&t=29)** I'll click on Edit Page which will take me to the back end.
 >
-> **[0:34](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-cart-and-checkout-page?u=76281980&t=34)** Here's the Checkout which is automatically created by WooCommerce, and under Page Attributes, we can change the template to Full width and click Update.
+> **[0:34](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-cart-and-checkout-page?u=76281980&t=34)** Here's the Checkout which is automatically created by [[WooCommerce]], and under Page Attributes, we can change the template to Full width and click Update.
 >
 > **[0:45](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/customizing-cart-and-checkout-page?u=76281980&t=45)** Let's take a look at our Cart page and we're going to do the same thing.
 >
@@ -2323,8 +2297,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choosing shipping options
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/choosing-shipping-options?u=76281980)
+#### [Choosing shipping options](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/choosing-shipping-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2336,7 +2309,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/choosing-shipping-options?u=76281980&t=20)** Some customers want to have options because they have a preference.
 >
-> **[0:23](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/choosing-shipping-options?u=76281980&t=23)** I live in a building that USPS and FedEx can figure out, but UPS drops packages off at the office and doesn't leave a note.
+> **[0:23](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/choosing-shipping-options?u=76281980&t=23)** I live in a building that USPS and FedEx can figure out, but UPS drops packages off at the [[Microsoft Office|office]] and doesn't leave a note.
 >
 > **[0:30](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/choosing-shipping-options?u=76281980&t=30)** This drives me bonkers, and if I have a choice for my building, I will always pick USPS or FedEx over UPS.
 >
@@ -2346,13 +2319,13 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/choosing-shipping-options?u=76281980&t=50)** That means maintaining more business relationships and things are easier to get lost that way.
 >
-> **[0:55](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/choosing-shipping-options?u=76281980&t=55)** Many e-commerce companies will use one or two primary shipping partners.
+> **[0:55](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/choosing-shipping-options?u=76281980&t=55)** Many [[E-Commerce]] companies will use one or two primary shipping partners.
 >
 > **[0:59](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/choosing-shipping-options?u=76281980&t=59)** If you have heavy or bulky items, you might need to use a third-party logistics company, or 3PL, to create a special shipping quote for you, and you need to estimate that in your e-commerce setup.
 >
-> **[1:10](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/choosing-shipping-options?u=76281980&t=70)** We're going to go over the most popular shipping options in WooCommerce, going from easiest to the most complex.
+> **[1:10](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/choosing-shipping-options?u=76281980&t=70)** We're going to go over the most popular shipping options in [[WooCommerce]], going from easiest to the most complex.
 >
-> **[1:16](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/choosing-shipping-options?u=76281980&t=76)** Ultimately, the decision on how you ship your products depends on your business and your customers.
+> **[1:16](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/choosing-shipping-options?u=76281980&t=76)** Ultimately, the decision on how you ship your [[Microsoft Products|products]] depends on your business and your customers.
 >
 > **[1:21](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/choosing-shipping-options?u=76281980&t=81)** I'm going to give you all of the options and I recommend picking one option to start.
 >
@@ -2360,26 +2333,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[E-Commerce]] (2), [[Microsoft Office|Office]] (1), [[WooCommerce]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), [[Microsoft Office|Office]] (1), [[WooCommerce]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** usps (2), ups (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating shipping zones
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-shipping-zones?u=76281980)
+#### [Creating shipping zones](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-shipping-zones?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-shipping-zones?u=76281980&t=0)** - We're going to use a couple different ways to ship products.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-shipping-zones?u=76281980&t=0)** - We're going to use a couple different ways to ship [[Microsoft Products|products]].
 >
 > **[0:03](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-shipping-zones?u=76281980&t=3)** But, to do so effectively, we need to specify a couple different regions.
 >
-> **[0:07](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-shipping-zones?u=76281980&t=7)** We can use those regions as a cue, so that WooCommerce knows which shipping methods to use in which regions.
+> **[0:07](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-shipping-zones?u=76281980&t=7)** We can use those regions as a cue, so that [[WooCommerce]] knows which shipping methods to use in which regions.
 >
 > **[0:13](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-shipping-zones?u=76281980&t=13)** In WooCommerce, this functionality is called Shipping Zones, and zones can be as big as a country, and as small as a city or zip code.
 >
-> **[0:21](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-shipping-zones?u=76281980&t=21)** A common way to use shipping zones it offer free pick-up, in addition to other options if you're in the same state or city, and you could have a shipping fee for the rest of the U.S., and then a different shipping fee worldwide.
+> **[0:21](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-shipping-zones?u=76281980&t=21)** A common way to use shipping zones it offer free pick-up, in addition to other options if you're in the same state or city, and you could have a shipping fee for the [[Representational State Transfer (REST)|rest]] of the U.S., and then a different shipping fee worldwide.
 >
 > **[0:34](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-shipping-zones?u=76281980&t=34)** Let's go to the admin and create these shipping zones.
 >
@@ -2447,8 +2419,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - we (1)
 
-#### Setting up flat rate shipping
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-flat-rate-shipping?u=76281980)
+#### [Setting up flat rate shipping](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-flat-rate-shipping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2474,7 +2445,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-flat-rate-shipping?u=76281980&t=44)** So we could do something like $5 per order, plus $2 per quantity.
 >
-> **[0:52](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-flat-rate-shipping?u=76281980&t=52)** So if we have one product that's going to cost us $7 and two products will cost us nine.
+> **[0:52](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-flat-rate-shipping?u=76281980&t=52)** So if we have one product that's going to cost us $7 and two [[Microsoft Products|products]] will cost us nine.
 >
 > **[0:58](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-flat-rate-shipping?u=76281980&t=58)** There's also minimums and maximums and fees and percentages and a lot more that you can play with here.
 >
@@ -2498,7 +2469,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-flat-rate-shipping?u=76281980&t=98)** I'll go back to my site and then I'll go back to my cart, and we'll just take a look at this on the front end.
 >
-> **[1:44](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-flat-rate-shipping?u=76281980&t=104)** Before we see our shipping quotes, we need to make sure that we calculate shipping, means to give e-commerce an idea of where we live.
+> **[1:44](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-flat-rate-shipping?u=76281980&t=104)** Before we see our shipping quotes, we need to make sure that we calculate shipping, means to give [[E-Commerce]] an idea of where we live.
 >
 > **[1:51](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-flat-rate-shipping?u=76281980&t=111)** Here we see our two options: Local delivery and rush delivery.
 >
@@ -2522,7 +2493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), [[Microsoft Products|Products]] (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[E-Commerce]] (1)
 > **Cross-References:** go back to (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (2)
@@ -2530,8 +2501,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up free shipping
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-free-shipping?u=76281980)
+#### [Setting up free shipping](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-free-shipping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2541,7 +2511,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-free-shipping?u=76281980&t=8)** There's some research from Forrester which highlights how much consumers value free shipping.
 >
-> **[0:12](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-free-shipping?u=76281980&t=12)** Specifically, 39% of them are willing to purchase additional products to earn free shipping.
+> **[0:12](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-free-shipping?u=76281980&t=12)** Specifically, 39% of them are willing to purchase additional [[Microsoft Products|products]] to earn free shipping.
 >
 > **[0:18](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-free-shipping?u=76281980&t=18)** This is especially valuable knowledge because not every business can bake in the cost of shipping into their products.
 >
@@ -2551,7 +2521,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-free-shipping?u=76281980&t=34)** This is called unlockable free shipping.
 >
-> **[0:37](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-free-shipping?u=76281980&t=37)** So we're going to go to WooCommerce, Settings, and then Shipping.
+> **[0:37](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-free-shipping?u=76281980&t=37)** So we're going to go to [[WooCommerce]], Settings, and then Shipping.
 >
 > **[0:41](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-free-shipping?u=76281980&t=41)** And in our Shipping zone, let's go into Local.
 >
@@ -2613,7 +2583,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), business (2), [[WooCommerce]] (1), product (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[WooCommerce]] (1)
 > **CLI Commands:** make (5), find (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1), is called (1)
@@ -2621,8 +2591,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up live rates
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-live-rates?u=76281980)
+#### [Setting up live rates](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-live-rates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2642,7 +2611,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-live-rates?u=76281980&t=31)** I'll go to my site, where I've already installed and activated the plug-in.
 >
-> **[0:35](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-live-rates?u=76281980&t=35)** Then, we can go to WooCommerce, Settings, and now we can see USPS.
+> **[0:35](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-live-rates?u=76281980&t=35)** Then, we can go to [[WooCommerce]], Settings, and now we can see USPS.
 >
 > **[0:39](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-live-rates?u=76281980&t=39)** Let's click on that.
 >
@@ -2676,7 +2645,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-live-rates?u=76281980&t=110)** As you can see, now we see Priority Mail Flat Rate.
 >
-> **[1:54](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-live-rates?u=76281980&t=114)** If you aren't getting any rates, you likely don't have USPS configured properly, or you haven't added a weight and dimensions to your products.
+> **[1:54](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-live-rates?u=76281980&t=114)** If you aren't getting any rates, you likely don't have USPS configured properly, or you haven't added a weight and dimensions to your [[Microsoft Products|products]].
 >
 > **[2:01](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-live-rates?u=76281980&t=121)** I know that I set a weight and dimensions right before this video, and I should be seeing a few more options right here.
 >
@@ -2692,7 +2661,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), [[WooCommerce]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** usps (7), api (4), ups (1)
 > **UI Navigation:** go to (4), click on (1), scroll down (1)
 > **Prerequisites:** install (1), set up (1), setup (1), configure (1)
@@ -2700,12 +2669,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Printing shipping labels
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/printing-shipping-labels?u=76281980)
+#### [Printing shipping labels](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/printing-shipping-labels?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/printing-shipping-labels?u=76281980&t=0)** [Narrator] If you get a quote from USPS, or some other shipping provider, You still have to pack the boxes, bring them to the shipping office, get them weighed, measured.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/printing-shipping-labels?u=76281980&t=0)** [Narrator] If you get a quote from USPS, or some other shipping provider, You still have to pack the boxes, bring them to the shipping [[Microsoft Office|office]], get them weighed, measured.
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/printing-shipping-labels?u=76281980&t=8)** And then, finally pay for them.
 >
@@ -2715,7 +2683,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/printing-shipping-labels?u=76281980&t=18)** A few eCommerce platforms make this easier, by letting you print shipping labels directly from the platform itself.
 >
-> **[0:23](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/printing-shipping-labels?u=76281980&t=23)** And lucky for you, WooCommerce is one of those platforms.
+> **[0:23](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/printing-shipping-labels?u=76281980&t=23)** And lucky for you, [[WooCommerce]] is one of those platforms.
 >
 > **[0:27](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/printing-shipping-labels?u=76281980&t=27)** We're going to be using the free label printing functionality in WooCommerce services.
 >
@@ -2737,7 +2705,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/printing-shipping-labels?u=76281980&t=71)** I see a little red 1 next to orders meaning we have one new order.
 >
-> **[1:15](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/printing-shipping-labels?u=76281980&t=75)** Here's John Smith.
+> **[1:15](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/printing-shipping-labels?u=76281980&t=75)** Here's [[John the Ripper|John]] Smith.
 >
 > **[1:17](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/printing-shipping-labels?u=76281980&t=77)** Let's click into that.
 >
@@ -2745,7 +2713,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/printing-shipping-labels?u=76281980&t=84)** If you're just setting this up, you'll first need to add a credit card.
 >
-> **[1:28](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/printing-shipping-labels?u=76281980&t=88)** I've already set this up on other sites, so [wordpress.com](https://wordpress.com) already knows what my credit card looks like.
+> **[1:28](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/printing-shipping-labels?u=76281980&t=88)** I've already set this up on other sites, so [[[WordPress]].com](https://wordpress.com) already knows what my credit card looks like.
 >
 > **[1:33](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/printing-shipping-labels?u=76281980&t=93)** Let's go ahead and click "Create shipping label".
 >
@@ -2763,7 +2731,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/printing-shipping-labels?u=76281980&t=118)** Now, we can choose the packages and the weight.
 >
-> **[2:01](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/printing-shipping-labels?u=76281980&t=121)** As long as you have dimensions and sizes for all of your products, WooCommerce should help you pick the right box.
+> **[2:01](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/printing-shipping-labels?u=76281980&t=121)** As long as you have dimensions and sizes for all of your [[Microsoft Products|products]], WooCommerce should help you pick the right box.
 >
 > **[2:07](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/printing-shipping-labels?u=76281980&t=127)** So, let me go ahead and select one of these boxes that WooCommerce recommendeds.
 >
@@ -2797,7 +2765,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (5), [[Microsoft Office|Office]] (2), next (2), [[WordPress]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (5), [[Microsoft Office|Office]] (2), [[John the Ripper|John]] (1), [[WordPress]] (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** scroll down (2), go to (1), select the (1)
 > **Env Vars:** usps (3)
 > **CLI Commands:** make (2)
@@ -2806,8 +2774,7 @@ created: 2026-05-02
 > **Code Identifiers:** ecommerce (1)
 > **URLs:** [wordpress.com](https://wordpress.com) (1)
 
-#### Consolidating multichannel shipping
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/consolidating-multichannel-shipping?u=76281980)
+#### [Consolidating multichannel shipping](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/consolidating-multichannel-shipping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2817,7 +2784,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/consolidating-multichannel-shipping?u=76281980&t=14)** Going into detail in this process is a little bit out of scope of this course, but I want to provide you with some resources in case you think this may apply to you.
 >
-> **[0:22](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/consolidating-multichannel-shipping?u=76281980&t=22)** There are a ton of these services that integrate with WooCommerce and ShipStation is one of the more well-known services.
+> **[0:22](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/consolidating-multichannel-shipping?u=76281980&t=22)** There are a ton of these services that integrate with [[WooCommerce]] and ShipStation is one of the more well-known services.
 >
 > **[0:28](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/consolidating-multichannel-shipping?u=76281980&t=28)** They automatically pull all of your orders into one interface which lets you mark items as shipped, print shipping labels, and get discount shipping prices.
 >
@@ -2835,7 +2802,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[WooCommerce]] (2)
+> **Frameworks & Libraries:** [[WooCommerce]] (2)
 > **Env Vars:** dhl (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -2846,8 +2813,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configuring payment options
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-payment-options?u=76281980)
+#### [Configuring payment options](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-payment-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2893,7 +2859,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-payment-options?u=76281980&t=97)** Once you have an SSL certificate installed on your site, you can force the entire site to load over HTTPS since it's better security all around, so try that option first.
 >
-> **[1:47](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-payment-options?u=76281980&t=107)** To do that, in WordPress we can go to our general settings and then change the WordPress address right here to make sure it loads over HTTPS.
+> **[1:47](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-payment-options?u=76281980&t=107)** To do that, in [[WordPress]] we can go to our general settings and then change the WordPress address right here to make sure it loads over HTTPS.
 >
 > **[1:55](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-payment-options?u=76281980&t=115)** Some payment gateways will show you warnings until you force your site to load over HTTPS this way.
 >
@@ -2901,7 +2867,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (2), next (1), business (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (2)
 > **Env Vars:** ssl (8), https (4)
 > **CLI Commands:** make (3), find (1)
 > **Prerequisites:** set up (3)
@@ -2910,8 +2876,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up PayPal
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-paypal?u=76281980)
+#### [Setting up PayPal](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-paypal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2919,7 +2884,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-paypal?u=76281980&t=5)** The first is that it's incredibly easy to set up, both for the merchants and for the customers.
 >
-> **[0:10](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-paypal?u=76281980&t=10)** The PayPal gateway built into WooCommerce only requires an email address.
+> **[0:10](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-paypal?u=76281980&t=10)** The PayPal gateway built into [[WooCommerce]] only requires an email address.
 >
 > **[0:14](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-paypal?u=76281980&t=14)** That's the easiest setup for any gateway.
 >
@@ -3033,7 +2998,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (12), api (3), business (2), data (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (12)
 > **Prerequisites:** set up (4), configure (3), setup (2), install (1)
 > **Env Vars:** api (3), ipn (2), pdt (1)
 > **CLI Commands:** make (5)
@@ -3042,12 +3007,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up Stripe
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-stripe?u=76281980)
+#### [Setting up Stripe](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-stripe?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-stripe?u=76281980&t=0)** - [Narrator] It's pretty rare for an E-commerce store to just accept PayPal.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-stripe?u=76281980&t=0)** - [Narrator] It's pretty rare for an [[E-Commerce]] store to just accept PayPal.
 >
 > **[0:03](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-stripe?u=76281980&t=3)** They almost always let someone pay with a credit card.
 >
@@ -3055,9 +3019,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-stripe?u=76281980&t=10)** While PayPal accounts might be popular here in the US, they're not universal, so it's important to let people checkout with credit cards.
 >
-> **[0:17](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-stripe?u=76281980&t=17)** If you went through the Welcome Wizard and selected Stripe, WooCommerce automatically installed the Stripe plugin for you.
+> **[0:17](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-stripe?u=76281980&t=17)** If you went through the Welcome Wizard and selected Stripe, [[WooCommerce]] automatically installed the Stripe plugin for you.
 >
-> **[0:23](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-stripe?u=76281980&t=23)** If you don't have this plugin installed, you can install it like any other WordPress plugin.
+> **[0:23](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-stripe?u=76281980&t=23)** If you don't have this plugin installed, you can install it like any other [[WordPress]] plugin.
 >
 > **[0:28](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-stripe?u=76281980&t=28)** I turned off Stripe earlier in this course because I didn't need it right away.
 >
@@ -3139,7 +3103,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-stripe?u=76281980&t=211)** We also want to capture the charge immediately.
 >
-> **[3:33](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-stripe?u=76281980&t=213)** If it does take you some time to create or ship the products, let's say, a couple days, then you want to capture the charge once you've shipped the product.
+> **[3:33](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-stripe?u=76281980&t=213)** If it does take you some time to create or ship the [[Microsoft Products|products]], let's say, a couple days, then you want to capture the charge once you've shipped the product.
 >
 > **[3:41](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-stripe?u=76281980&t=221)** But for most orders, if you're shipping it in less than 24 hours, it's just easier to capture the charge immediately.
 >
@@ -3163,7 +3127,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-stripe?u=76281980&t=264)** If someone ever happened to steal that special password and they gave it to Stripe, Stripe wouldn't process the card because it's specific to your account.
 >
-> **[4:31](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-stripe?u=76281980&t=271)** In that way, tokens are much safer.
+> **[4:31](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-stripe?u=76281980&t=271)** In that way, [[Tokens]] are much safer.
 >
 > **[4:34](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/setting-up-stripe?u=76281980&t=274)** If someone hacked your site, it's very unlikely that they'd be able to do anything with those tokens, so they're very safe.
 >
@@ -3187,7 +3151,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (3), [[Tokens]] (2), [[E-Commerce]] (1), [[WordPress]] (1), business (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (3), [[Tokens]] (2), [[E-Commerce]] (1), [[WordPress]] (1), [[Microsoft Products|Products]] (1)
 > **Prerequisites:** configure (2), install (1), set up (1), make sure you have (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (3), earlier in (1)
@@ -3196,14 +3160,13 @@ created: 2026-05-02
 > **URLs:** [stripe.com](https://stripe.com) (1)
 > **Env Vars:** api (1)
 
-#### Configuring additional payment methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-additional-payment-methods?u=76281980)
+#### [Configuring additional payment methods](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-additional-payment-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-additional-payment-methods?u=76281980&t=0)** - [Instructor] You may have noticed there's a lot more than just PayPal and Stripe.
 >
-> **[0:04](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-additional-payment-methods?u=76281980&t=4)** Just in the core WooCommerce plugin, there are three more options: Direct bank transfer, check payments, and cash on delivery.
+> **[0:04](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-additional-payment-methods?u=76281980&t=4)** Just in the core [[WooCommerce]] plugin, there are three more options: Direct bank transfer, check payments, and cash on delivery.
 >
 > **[0:10](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-additional-payment-methods?u=76281980&t=10)** Now these are what I consider offline payments, since there's no immediate way to accept payment.
 >
@@ -3227,13 +3190,13 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-additional-payment-methods?u=76281980&t=73)** We've covered only a few of the many hundred payment gateways, and all of them are slightly different.
 >
-> **[1:18](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-additional-payment-methods?u=76281980&t=78)** If you're brand new to e-commerce, I strongly recommend Stripe and PayPal, but if for some reason you can't use those, then you could find dozens more on [WooCommerce.com](https://WooCommerce.com).
+> **[1:18](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-additional-payment-methods?u=76281980&t=78)** If you're brand new to [[E-Commerce]], I strongly recommend Stripe and PayPal, but if for some reason you can't use those, then you could find dozens more on [WooCommerce.com](https://WooCommerce.com).
 >
 > **[1:27](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-additional-payment-methods?u=76281980&t=87)** You may have noticed over the past couple videos a banner about PayPal Standard and WooCommerce Subscriptions.
 >
 > **[1:32](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-additional-payment-methods?u=76281980&t=92)** If you have both WooCommerce Subscriptions activated and you've configured PayPal Standard, you'll see this banner on the Plugins page and a few other pages.
 >
-> **[1:40](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-additional-payment-methods?u=76281980&t=100)** I don't want to clutter up the admin for the rest of this course.
+> **[1:40](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-additional-payment-methods?u=76281980&t=100)** I don't want to clutter up the admin for the [[Representational State Transfer (REST)|rest]] of this course.
 >
 > **[1:43](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-additional-payment-methods?u=76281980&t=103)** So for the sake of demonstration, I'm going to deactivate WooCommerce Subscriptions.
 >
@@ -3241,7 +3204,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (6), [[E-Commerce]] (1), [[Representational State Transfer (REST)|Rest]] (1), api (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (6), [[E-Commerce]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** set up (3)
 > **Analogies:** for example (1), similar to (1)
 > **CLI Commands:** find (1)
@@ -3254,8 +3217,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configuring tax settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-tax-settings?u=76281980)
+#### [Configuring tax settings](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-tax-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3263,7 +3225,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-tax-settings?u=76281980&t=5)** But before we get into actually adding tax rates, we should configure the basic tax settings.
 >
-> **[0:09](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-tax-settings?u=76281980&t=9)** In the Admin of your site, you can go to WooCommerce, settings, and then tax.
+> **[0:09](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-tax-settings?u=76281980&t=9)** In the Admin of your site, you can go to [[WooCommerce]], settings, and then tax.
 >
 > **[0:15](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/configuring-tax-settings?u=76281980&t=15)** If you're using automated taxes which we setup in the Welcome Wizard, you shouldn't have to do anything.
 >
@@ -3339,7 +3301,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[WooCommerce]] (3), next (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (3)
 > **Prerequisites:** configure (2), setup (2)
 > **CLI Commands:** make (3)
 > **Versions:** 9.99 (1)
@@ -3348,8 +3310,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** you should always (1)
 
-#### Adding tax rates
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-tax-rates?u=76281980)
+#### [Adding tax rates](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-tax-rates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3357,7 +3318,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-tax-rates?u=76281980&t=6)** Let's go ahead and add tax rates to our store.
 >
-> **[0:09](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-tax-rates?u=76281980&t=9)** In the admin under WooCommerce, Settings, and then Tax, you can see all of the different options for tax rates.
+> **[0:09](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-tax-rates?u=76281980&t=9)** In the admin under [[WooCommerce]], Settings, and then Tax, you can see all of the different options for tax rates.
 >
 > **[0:16](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-tax-rates?u=76281980&t=16)** If you don't see any rates here, it's probably because you have automated taxes turned on.
 >
@@ -3415,7 +3376,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-tax-rates?u=76281980&t=156)** In an upcoming video, we'll also look into reduced rate rates and zero rate taxes.
 >
-> **[2:40](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-tax-rates?u=76281980&t=160)** If you have products that have a reduced or no tax, you'll have to enter those special rates here, just like we did for our standard rates.
+> **[2:40](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-tax-rates?u=76281980&t=160)** If you have [[Microsoft Products|products]] that have a reduced or no tax, you'll have to enter those special rates here, just like we did for our standard rates.
 >
 > **[2:45](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/adding-tax-rates?u=76281980&t=165)** just like we did for our standard rates.
 >
@@ -3425,7 +3386,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (1), feature (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** think of it as (2), just like (2)
 > **CLI Commands:** make (1)
 > **Versions:** 2.5 (1)
@@ -3433,8 +3394,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using additional tax rates
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/using-additional-tax-rates?u=76281980)
+#### [Using additional tax rates](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/using-additional-tax-rates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3442,7 +3402,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/using-additional-tax-rates?u=76281980&t=6)** For example in the U.S., depending on which area you're in some types of food, clothing, or medicine will have either a reduced tax rate or be tax exempt.
 >
-> **[0:15](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/using-additional-tax-rates?u=76281980&t=15)** To set these up, go to the Admin and under WooCommerce, Settings, Tax, you can see reduced rate rates and zero rate rates.
+> **[0:15](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/using-additional-tax-rates?u=76281980&t=15)** To set these up, go to the Admin and under [[WooCommerce]], Settings, Tax, you can see reduced rate rates and zero rate rates.
 >
 > **[0:23](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/using-additional-tax-rates?u=76281980&t=23)** Let's say the supplement we sell has a reduced rate.
 >
@@ -3452,7 +3412,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/using-additional-tax-rates?u=76281980&t=39)** So I'll add a new row here, I'll add all the information I had before and instead of 8.31 I'll put in 4.31.
 >
-> **[0:51](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/using-additional-tax-rates?u=76281980&t=51)** I'll go ahead and save these changes and now we have a tax setting saved, but WooCommerce doesn't know which products use the reduced rate rate and which products use the standard rate rate.
+> **[0:51](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/using-additional-tax-rates?u=76281980&t=51)** I'll go ahead and save these changes and now we have a tax setting saved, but WooCommerce doesn't know which [[Microsoft Products|products]] use the reduced rate rate and which products use the standard rate rate.
 >
 > **[1:01](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/using-additional-tax-rates?u=76281980&t=61)** So let's go to Products, B Complex, and Tax Class
 >
@@ -3468,7 +3428,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[WooCommerce]] (3), product (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[WooCommerce]] (3)
 > **Versions:** 8.31 (2), 4.31 (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** make (1)
@@ -3477,8 +3437,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting your store to TaxJar
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/connecting-your-store-to-taxjar?u=76281980)
+#### [Connecting your store to TaxJar](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/connecting-your-store-to-taxjar?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3514,14 +3473,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing Google Analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-google-analytics?u=76281980)
+#### [Installing Google Analytics](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-google-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-google-analytics?u=76281980&t=0)** - [Instructor] There's a lot of things that you should do after you launch your store.
 >
-> **[0:03](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-google-analytics?u=76281980&t=3)** But one of the few things I recommend every store owner do, either before launch, or immediately after launch, is to setup Google analytics.
+> **[0:03](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-google-analytics?u=76281980&t=3)** But one of the few things I recommend every store owner do, either before launch, or immediately after launch, is to setup [[Google]] analytics.
 >
 > **[0:10](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-google-analytics?u=76281980&t=10)** And that's because the service is so useful to understand where people are coming from and what they're doing on your store before they buy.
 >
@@ -3537,7 +3495,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-google-analytics?u=76281980&t=36)** And in that month your business gets into trouble.
 >
-> **[0:39](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-google-analytics?u=76281980&t=39)** There's a free plugin built by the WooCommerce team that will send all of your traffic and eCommerce data to Google analytics.
+> **[0:39](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-google-analytics?u=76281980&t=39)** There's a free plugin built by the [[WooCommerce]] team that will send all of your traffic and eCommerce data to Google analytics.
 >
 > **[0:45](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-google-analytics?u=76281980&t=45)** This plugin will handle all of your needs and you don't have to have another Google analytics integration.
 >
@@ -3599,13 +3557,13 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-google-analytics?u=76281980&t=206)** Check out Google analytics essential training.
 >
-> **[3:29](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-google-analytics?u=76281980&t=209)** There's also WordPress Plugins: Analytics by yours truly here in the library.
+> **[3:29](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-google-analytics?u=76281980&t=209)** There's also [[WordPress]] Plugins: Analytics by yours truly here in the library.
 >
 > **[3:33](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-google-analytics?u=76281980&t=213)** If you want to see me configuring analytics plugins step by step.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (22), [[Google]] (16), data (10), [[WooCommerce]] (6), business (1)
+> **Frameworks & Libraries:** [[Google]] (16), [[WooCommerce]] (6), [[WordPress]] (1)
 > **Code Identifiers:** ecommerce (6)
 > **Prerequisites:** setup (2), install (2), configure (1), getting started (1)
 > **UI Navigation:** scroll down (2), go to (1)
@@ -3613,8 +3571,7 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Installing Mailchimp for WooCommerce
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-mailchimp-for-woocommerce?u=76281980)
+#### [Installing Mailchimp for WooCommerce](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-mailchimp-for-woocommerce?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3634,7 +3591,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-mailchimp-for-woocommerce?u=76281980&t=34)** Let's go ahead and install and activate this plugin.
 >
-> **[0:38](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-mailchimp-for-woocommerce?u=76281980&t=38)** I'll go to my site, type in Mailchimp, here's the one Mailchimp for WooCommerce.
+> **[0:38](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-mailchimp-for-woocommerce?u=76281980&t=38)** I'll go to my site, type in Mailchimp, here's the one Mailchimp for [[WooCommerce]].
 >
 > **[0:46](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-mailchimp-for-woocommerce?u=76281980&t=46)** Install now, and activate, and the first thing you do is you have to put in you API key.
 >
@@ -3672,7 +3629,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-mailchimp-for-woocommerce?u=76281980&t=137)** And even if you're in the U.S. it's still a very good idea to have users opt in.
 >
-> **[2:21](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-mailchimp-for-woocommerce?u=76281980&t=141)** Mailchimp just synced our products with their services.
+> **[2:21](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-mailchimp-for-woocommerce?u=76281980&t=141)** Mailchimp just synced our [[Microsoft Products|products]] with their services.
 >
 > **[2:24](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-mailchimp-for-woocommerce?u=76281980&t=144)** So now they know what products we have in our store and who bought what.
 >
@@ -3682,7 +3639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), [[Microsoft Products|Products]] (2), [[WooCommerce]] (1), generic (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[WooCommerce]] (1)
 > **Env Vars:** api (4), gdpr (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -3691,8 +3648,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 
-#### Installing Facebook for WooCommerce
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-facebook-for-woocommerce?u=76281980)
+#### [Installing Facebook for WooCommerce](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-facebook-for-woocommerce?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3712,11 +3668,11 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-facebook-for-woocommerce?u=76281980&t=32)** You could even create lookalike audiences, which are people, who look and behave similar to the visitors on your site, but haven't visited.
 >
-> **[0:40](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-facebook-for-woocommerce?u=76281980&t=40)** I've used Facebook ads for some of my own products, and generated hundreds of leads, which converted into actual sales, and it can be highly effective.
+> **[0:40](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-facebook-for-woocommerce?u=76281980&t=40)** I've used Facebook ads for some of my own [[Microsoft Products|products]], and generated hundreds of leads, which converted into actual sales, and it can be highly effective.
 >
 > **[0:48](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-facebook-for-woocommerce?u=76281980&t=48)** Let's install, activate and configure this plug-in.
 >
-> **[0:53](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-facebook-for-woocommerce?u=76281980&t=53)** I'll go to my site, go to plug-ins, and let's go ahead and search for Facebook for WooCommerce.
+> **[0:53](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-facebook-for-woocommerce?u=76281980&t=53)** I'll go to my site, go to plug-ins, and let's go ahead and search for Facebook for [[WooCommerce]].
 >
 > **[1:04](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-facebook-for-woocommerce?u=76281980&t=64)** Here we go.
 >
@@ -3768,7 +3724,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Products|Products]] (2), next (2), feature (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[WooCommerce]] (1)
 > **Prerequisites:** install (3), configure (2), setup (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (3)
@@ -3781,18 +3737,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing the customer experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/testing-the-customer-experience?u=76281980)
+#### [Testing the customer experience](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/testing-the-customer-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/testing-the-customer-experience?u=76281980&t=0)** - [Instructor] We've done so much to our store.
 >
-> **[0:02](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/testing-the-customer-experience?u=76281980&t=2)** We've added products, payments, shipping, taxes, and so much more.
+> **[0:02](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/testing-the-customer-experience?u=76281980&t=2)** We've added [[Microsoft Products|products]], payments, shipping, taxes, and so much more.
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/testing-the-customer-experience?u=76281980&t=6)** So, let's test everything now that it's put together.
 >
-> **[0:09](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/testing-the-customer-experience?u=76281980&t=9)** You should never launch an e-commerce store without testing the whole thing, especially the checkout.
+> **[0:09](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/testing-the-customer-experience?u=76281980&t=9)** You should never launch an [[E-Commerce]] store without testing the whole thing, especially the checkout.
 >
 > **[0:15](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/testing-the-customer-experience?u=76281980&t=15)** In Chrome, let's open an Incognito window.
 >
@@ -3872,7 +3827,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[E-Commerce]] (1), product (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[E-Commerce]] (1)
 > **CLI Commands:** make (5), find (2)
 > **Env Vars:** url (1), usps (1), cvc (1)
 > **Non-Speech:** (typing on keyboard) (2)
@@ -3881,8 +3836,7 @@ created: 2026-05-02
 > **Best Practices:** you should never (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing orders
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-orders?u=76281980)
+#### [Managing orders](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-orders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3890,7 +3844,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-orders?u=76281980&t=3)** Now we need to see how the store owner will interact with a back end of this website.
 >
-> **[0:08](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-orders?u=76281980&t=8)** If we click into WooCommerce, and then Orders, we can see a list of all the orders.
+> **[0:08](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-orders?u=76281980&t=8)** If we click into [[WooCommerce]], and then Orders, we can see a list of all the orders.
 >
 > **[0:15](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-orders?u=76281980&t=15)** Now there should only be a couple in here right now, but once your store gets up and running, you'll actually have a ton of orders and you'll want some way to filter them.
 >
@@ -3924,7 +3878,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-orders?u=76281980&t=99)** And click Add.
 >
-> **[1:40](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-orders?u=76281980&t=100)** Now let's say we pack up this order and drop it off at the post office.
+> **[1:40](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-orders?u=76281980&t=100)** Now let's say we pack up this order and drop it off at the post [[Microsoft Office|office]].
 >
 > **[1:44](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-orders?u=76281980&t=104)** We can go over here and change the order status to completed and then click Update, which I'm going to go ahead and do, or to show you a different way, I'll go back to Orders.
 >
@@ -3938,13 +3892,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (1), [[Microsoft Office|Office]] (1), next (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (1), [[Microsoft Office|Office]] (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing refunds
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-refunds?u=76281980)
+#### [Managing refunds](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-refunds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3964,7 +3917,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-refunds?u=76281980&t=36)** So we can choose how many of these we want to refund, so let's say someone wants to return five out of the six multivitamins.
 >
-> **[0:43](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-refunds?u=76281980&t=43)** We can press Tab a few times and WooCommerce automatically calculates that we're going to refund them $54.16, and we can say, customer only wanted one.
+> **[0:43](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-refunds?u=76281980&t=43)** We can press Tab a few times and [[WooCommerce]] automatically calculates that we're going to refund them $54.16, and we can say, customer only wanted one.
 >
 > **[0:55](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-refunds?u=76281980&t=55)** I found someone else who did find this issue a little bit confusing, and I've added a gif and started explaining it.
 >
@@ -3972,7 +3925,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-refunds?u=76281980&t=71)** It's worth pointing out that WooCommerce doesn't automatically recalculate shipping costs or discounts from coupons.
 >
-> **[1:18](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-refunds?u=76281980&t=78)** Technically, with just five products, we drop below the free shipping threshold and we can ask the customer to pay for shipping or deduct the cost of shipping from their refund, but I think most store owners are pretty generous with refunds, so probably just refund them and not worry about technically being ineligible for that free shipping.
+> **[1:18](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-refunds?u=76281980&t=78)** Technically, with just five [[Microsoft Products|products]], we drop below the free shipping threshold and we can ask the customer to pay for shipping or deduct the cost of shipping from their refund, but I think most store owners are pretty generous with refunds, so probably just refund them and not worry about technically being ineligible for that free shipping.
 >
 > **[1:37](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-refunds?u=76281980&t=97)** Either way, once you've selected the items you want to refund, you can either manually or automatically refund the payment.
 >
@@ -3998,7 +3951,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (4), [[Microsoft Products|Products]] (1), api (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (4), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2), snap (1)
 > **UI Navigation:** scroll down (1), switch to (1)
 > **Best Practices:** recommended (2)
@@ -4007,12 +3960,11 @@ created: 2026-05-02
 > **Versions:** 54.16 (1)
 > **Cross-References:** earlier in (1)
 
-#### Managing reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-reports?u=76281980)
+#### [Managing reports](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-reports?u=76281980&t=0)** - [Narrator] At the time of this recording, WooCommerce Admin is almost complete.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-reports?u=76281980&t=0)** - [Narrator] At the time of this recording, [[WooCommerce]] Admin is almost complete.
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-reports?u=76281980&t=4)** This is a feature plugin that really improves the experience of the Admin, which includes a lot of enhancements in the "Reports" and "Analytics" section.
 >
@@ -4032,7 +3984,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-reports?u=76281980&t=47)** Once you start getting in orders, it's helpful to look at these reports.
 >
-> **[0:50](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-reports?u=76281980&t=50)** You can figure out your top products, when people order, what sort of categories they're ordering from, what coupons they're using, and even the taxes that you need to save.
+> **[0:50](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-reports?u=76281980&t=50)** You can figure out your top [[Microsoft Products|products]], when people order, what sort of categories they're ordering from, what coupons they're using, and even the taxes that you need to save.
 >
 > **[0:59](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/managing-reports?u=76281980&t=59)** By default, it's going to show us revenue.
 >
@@ -4090,7 +4042,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (6), [[Microsoft Products|Products]] (5), feature (3), [[Analytics]] (2), data (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (6), [[Microsoft Products|Products]] (5)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** 3.8 (1)
 > **UI Navigation:** go to (1)
@@ -4099,12 +4051,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating coupons
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-coupons?u=76281980)
+#### [Creating coupons](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-coupons?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-coupons?u=76281980&t=0)** - [Instructor] Something most retailers will want to explore is a discount strategy for loyal customers, and WooCommerce has coupon functionality built in.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-coupons?u=76281980&t=0)** - [Instructor] Something most retailers will want to explore is a discount strategy for loyal customers, and [[WooCommerce]] has coupon functionality built in.
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-coupons?u=76281980&t=8)** We can go to WooCommerce, Coupons, and then we can create our first coupon.
 >
@@ -4122,7 +4073,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-coupons?u=76281980&t=62)** This might be a good idea for a new customer coupon.
 >
-> **[1:05](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-coupons?u=76281980&t=65)** We could exclude sale items, or we could only make this work with certain products, or exclude certain products.
+> **[1:05](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-coupons?u=76281980&t=65)** We could exclude sale items, or we could only make this work with certain [[Microsoft Products|products]], or exclude certain products.
 >
 > **[1:12](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/creating-coupons?u=76281980&t=72)** For right now, I'm pretty good with it as-is.
 >
@@ -4161,8 +4112,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### General settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/general-settings?u=76281980)
+#### [General settings](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/general-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4174,7 +4124,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/general-settings?u=76281980&t=11)** The first group of settings that I want to look at are the general settings.
 >
-> **[0:15](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/general-settings?u=76281980&t=15)** So we can get to this from WooCommerce settings and it's the first tab here, general.
+> **[0:15](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/general-settings?u=76281980&t=15)** So we can get to this from [[WooCommerce]] settings and it's the first tab here, general.
 >
 > **[0:19](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/general-settings?u=76281980&t=19)** The first thing here is the store address, also known as the base location, which is where your store is located.
 >
@@ -4190,7 +4140,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/general-settings?u=76281980&t=43)** Selling to all countries and shipping to all countries.
 >
-> **[0:46](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/general-settings?u=76281980&t=46)** I might consider disallowing sales to Europe, since they have weird tax laws around digital products and I might not want to get into that.
+> **[0:46](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/general-settings?u=76281980&t=46)** I might consider disallowing sales to Europe, since they have weird tax laws around digital [[Microsoft Products|products]] and I might not want to get into that.
 >
 > **[0:53](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/general-settings?u=76281980&t=53)** At least not right away.
 >
@@ -4246,17 +4196,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Microsoft Products|Products]] (3), functional (1), [[WooCommerce]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[WooCommerce]] (1)
 > **Env Vars:** vat (1), url (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** known as (1)
 
-#### Product settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/product-settings?u=76281980)
+#### [Product settings](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/product-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/product-settings?u=76281980&t=0)** - [Instructor] The next group of settings are the product settings, which are mostly about how to display your products.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/product-settings?u=76281980&t=0)** - [Instructor] The next group of settings are the product settings, which are mostly about how to display your [[Microsoft Products|products]].
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/product-settings?u=76281980&t=6)** The first sub-tab here, General, lets us choose our shop page.
 >
@@ -4302,7 +4251,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/product-settings?u=76281980&t=85)** The first setting will let you turn Stock Management on and off.
 >
-> **[1:28](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/product-settings?u=76281980&t=88)** That refers to WooCommerce tracking the stock of every single item and updating it with each order.
+> **[1:28](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/product-settings?u=76281980&t=88)** That refers to [[WooCommerce]] tracking the stock of every single item and updating it with each order.
 >
 > **[1:33](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/product-settings?u=76281980&t=93)** The next setting can definitely be confusing.
 >
@@ -4382,15 +4331,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (11), next (9), [[Microsoft Products|Products]] (8), [[WooCommerce]] (4), management (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), [[WooCommerce]] (4)
 > **CLI Commands:** make (2), find (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** refers to (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Checkout settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/checkout-settings?u=76281980)
+#### [Checkout settings](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/checkout-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4418,9 +4366,9 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/checkout-settings?u=76281980&t=48)** The first is that you can put the gateway you want your customers to use up top.
 >
-> **[0:54](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/checkout-settings?u=76281980&t=54)** Under Accounts and Privacy, there are a ton of settings we can tweak.
+> **[0:54](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/checkout-settings?u=76281980&t=54)** Under Accounts and [[Privacy]], there are a ton of settings we can tweak.
 >
-> **[0:58](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/checkout-settings?u=76281980&t=58)** First of all, Accounts in WooCommerce are very useful.
+> **[0:58](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/checkout-settings?u=76281980&t=58)** First of all, Accounts in [[WooCommerce]] are very useful.
 >
 > **[1:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/checkout-settings?u=76281980&t=60)** Once you've created one, you can log in to the site and it remembers your address.
 >
@@ -4456,7 +4404,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/checkout-settings?u=76281980&t=124)** The next two settings are about how the account gets created.
 >
-> **[2:07](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/checkout-settings?u=76281980&t=127)** WordPress lets users create handles.
+> **[2:07](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/checkout-settings?u=76281980&t=127)** [[WordPress]] lets users create handles.
 >
 > **[2:09](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/checkout-settings?u=76281980&t=129)** You don't have to log in with an email address, it could be anything.
 >
@@ -4500,7 +4448,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (4), next (4), data (4), [[WooCommerce]] (2), feature (1)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[WooCommerce]] (2), [[WordPress]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** we covered (1), earlier in (1)
 > **Env Vars:** gdpr (1)
@@ -4508,14 +4456,13 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Email settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/email-settings?u=76281980)
+#### [Email settings](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/email-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/email-settings?u=76281980&t=0)** - [Instructor] Before we get into e-mail settings themselves, I want to touch on e-mail deliverability.
 >
-> **[0:05](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/email-settings?u=76281980&t=5)** At WooCommerce store, we'll send a lot of e-mails.
+> **[0:05](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/email-settings?u=76281980&t=5)** At [[WooCommerce]] store, we'll send a lot of e-mails.
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/email-settings?u=76281980&t=8)** They're multiple e-mails sent to the customer, low stock notifications, e-mails sent to the store owner, etc.
 >
@@ -4547,7 +4494,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/email-settings?u=76281980&t=76)** You can turn them on or off.
 >
-> **[1:18](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/email-settings?u=76281980&t=78)** You can send them to multiple people, you can change the subject, and you can add a heading, as well as change the e-mail type form HTML to plain text.
+> **[1:18](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/email-settings?u=76281980&t=78)** You can send them to multiple people, you can change the subject, and you can add a heading, as well as change the e-mail type form [[HTML]] to plain text.
 >
 > **[1:28](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/email-settings?u=76281980&t=88)** I tend to prefer plain text e-mails for admin uses.
 >
@@ -4555,13 +4502,13 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/email-settings?u=76281980&t=94)** The next setting lets you copy templates into your theme, which is useful if you want to customize how the e-mails look.
 >
-> **[1:40](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/email-settings?u=76281980&t=100)** We won't go into customizing e-mails in this course, but it's covered in detail in my WordPress, Customizing WooCommerce Themes course, here in the library.
+> **[1:40](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/email-settings?u=76281980&t=100)** We won't go into customizing e-mails in this course, but it's covered in detail in my [[WordPress]], Customizing WooCommerce Themes course, here in the library.
 >
 > **[1:47](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/email-settings?u=76281980&t=107)** Don't forget to click save changes when you're done.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (2), [[HTML]] (1), next (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (2), [[HTML]] (1), [[WordPress]] (1)
 > **Env Vars:** smtp (1), html (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
@@ -4570,8 +4517,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Integrating with 3rd party platforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/integrating-with-3rd-party-platforms?u=76281980)
+#### [Integrating with 3rd party platforms](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/integrating-with-3rd-party-platforms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4581,9 +4527,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/integrating-with-3rd-party-platforms?u=76281980&t=15)** Most integrations with third party services will show up here, so if you plan to connect to other services, look for their settings right here.
 >
-> **[0:22](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/integrating-with-3rd-party-platforms?u=76281980&t=22)** However, some services use the WooCommerce API to connect.
+> **[0:22](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/integrating-with-3rd-party-platforms?u=76281980&t=22)** However, some services use the [[WooCommerce]] API to connect.
 >
-> **[0:26](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/integrating-with-3rd-party-platforms?u=76281980&t=26)** We can find the API under Advanced, and then Rest API.
+> **[0:26](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/integrating-with-3rd-party-platforms?u=76281980&t=26)** We can find the API under Advanced, and then [[Representational State Transfer (REST)|Rest]] API.
 >
 > **[0:33](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/integrating-with-3rd-party-platforms?u=76281980&t=33)** This page lets you create a key that another application can use to get all of the data from your store.
 >
@@ -4641,7 +4587,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/integrating-with-3rd-party-platforms?u=76281980&t=192)** The next group are what are called end points.
 >
-> **[3:15](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/integrating-with-3rd-party-platforms?u=76281980&t=195)** Think of them as WordPress pages without actually being pages.
+> **[3:15](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/integrating-with-3rd-party-platforms?u=76281980&t=195)** Think of them as [[WordPress]] pages without actually being pages.
 >
 > **[3:18](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/integrating-with-3rd-party-platforms?u=76281980&t=198)** They look and feel like a page, but you can't edit the content.
 >
@@ -4655,7 +4601,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), data (5), [[WooCommerce]] (4), [[Representational State Transfer (REST)|Rest]] (1), application (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[WordPress]] (1)
 > **Env Vars:** api (7), url (1)
 > **Prerequisites:** set up (2), configure (1), setup (1)
 > **CLI Commands:** find (2), make (1)
@@ -4669,22 +4615,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing the WooCommerce mobile app
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-the-woocommerce-mobile-app?u=76281980)
+#### [Installing the WooCommerce mobile app](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-the-woocommerce-mobile-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-the-woocommerce-mobile-app?u=76281980&t=0)** - [Instructor] The WooCommerce team has been hard at work creating a mobile app and it's now on IOS and Android.
+> **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-the-woocommerce-mobile-app?u=76281980&t=0)** - [Instructor] The [[WooCommerce]] team has been hard at work creating a mobile app and it's now on IOS and [[Android]].
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-the-woocommerce-mobile-app?u=76281980&t=6)** I'm going to show you how to use the Android version.
 >
-> **[0:09](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-the-woocommerce-mobile-app?u=76281980&t=9)** I've already installed the app which you can find on the Google Play Store or the app store.
+> **[0:09](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-the-woocommerce-mobile-app?u=76281980&t=9)** I've already installed the app which you can find on the [[Google]] Play Store or the app store.
 >
 > **[0:13](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-the-woocommerce-mobile-app?u=76281980&t=13)** And the first thing you have to do is log in with Jetpack.
 >
 > **[0:17](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-the-woocommerce-mobile-app?u=76281980&t=17)** I'll click that button.
 >
-> **[0:20](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-the-woocommerce-mobile-app?u=76281980&t=20)** Go ahead and enter your [wordpress.com](https://wordpress.com) email address.
+> **[0:20](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-the-woocommerce-mobile-app?u=76281980&t=20)** Go ahead and enter your [[[WordPress]].com](https://wordpress.com) email address.
 >
 > **[0:25](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-the-woocommerce-mobile-app?u=76281980&t=25)** It might be auto suggested.
 >
@@ -4734,7 +4679,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-the-woocommerce-mobile-app?u=76281980&t=133)** So we can see all the orders that need to be processed and then mark them as completed as we figure them out.
 >
-> **[2:21](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-the-woocommerce-mobile-app?u=76281980&t=141)** This app makes shipping products from your house or office so much more manageable.
+> **[2:21](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-the-woocommerce-mobile-app?u=76281980&t=141)** This app makes shipping [[Microsoft Products|products]] from your house or [[Microsoft Office|office]] so much more manageable.
 >
 > **[2:26](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/installing-the-woocommerce-mobile-app?u=76281980&t=146)** As soon as the order is packed and dropped off at the shipper, you can mark it as complete from your phone.
 >
@@ -4746,7 +4691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (2), [[Android]] (2), [[WordPress]] (2), [[Google]] (1), feature (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (2), [[Android]] (2), [[WordPress]] (2), [[Google]] (1), [[Microsoft Products|Products]] (1)
 > **URLs:** [wordpress.com](https://wordpress.com) (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** ios (1)
@@ -4759,18 +4704,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/next-steps?u=76281980&t=0)** - [Patrick] We've covered a lot in this course.
 >
-> **[0:02](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/next-steps?u=76281980&t=2)** We went through all the basics, enough so that you can add products to your store, configure shipping, taxes and payment, and customize your theme.
+> **[0:02](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/next-steps?u=76281980&t=2)** We went through all the basics, enough so that you can add [[Microsoft Products|products]] to your store, configure shipping, taxes and payment, and customize your theme.
 >
 > **[0:09](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/next-steps?u=76281980&t=9)** We've also covered a few premium plug-ins, which have advanced functionality.
 >
-> **[0:13](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/next-steps?u=76281980&t=13)** If you are a developer and you know how to write code, you can take WordPress: Customizing WooCommerce Themes here in the library.
+> **[0:13](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/next-steps?u=76281980&t=13)** If you are a developer and you know how to write code, you can take [[WordPress]]: Customizing [[WooCommerce]] Themes here in the library.
 >
 > **[0:20](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/next-steps?u=76281980&t=20)** With a few more plug-ins and a bit of code, you can customize every single pixel in your WooCommerce site.
 >
@@ -4796,13 +4740,13 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/next-steps?u=76281980&t=69)** I write a lot on my blog about e-commmerce, including dozens of articles about WooCommerce, itself.
 >
-> **[1:15](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/next-steps?u=76281980&t=75)** If you want to keep getting e-commerce tips, then you can subscribe to Andy's Letter.
+> **[1:15](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/next-steps?u=76281980&t=75)** If you want to keep getting [[E-Commerce]] tips, then you can subscribe to Andy's Letter.
 >
 > **[1:18](https://www.linkedin.com/learning/wordpress-ecommerce-woocommerce-4/next-steps?u=76281980&t=78)** So that's it, thanks for watching and happy selling.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WooCommerce]] (4), [[Microsoft Products|Products]] (1), [[WordPress]] (1), next (1), seo (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (4), [[Microsoft Products|Products]] (1), [[WordPress]] (1), [[E-Commerce]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** seo (1)
 > **Prerequisites:** configure (1)

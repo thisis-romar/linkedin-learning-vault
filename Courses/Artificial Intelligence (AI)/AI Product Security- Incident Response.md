@@ -92,8 +92,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing AI incidents to minimize damage
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/managing-ai-incidents-to-minimize-damage?u=76281980)
+#### [Managing AI incidents to minimize damage](https://www.linkedin.com/learning/ai-product-security-incident-response/managing-ai-incidents-to-minimize-damage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,11 +110,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), feature (1), career (1)
 > **Speakers:** - [malcom] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/ai-product-security-incident-response/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -129,21 +126,20 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/ai-product-security-incident-response/what-you-should-know?u=76281980&t=26)** You should also have some basic computer knowledge.
 >
-> **[0:30](https://www.linkedin.com/learning/ai-product-security-incident-response/what-you-should-know?u=76281980&t=30)** Understand the basic commands used in the Linux operating system, and be familiar with common networking terminology and testing tools.
+> **[0:30](https://www.linkedin.com/learning/ai-product-security-incident-response/what-you-should-know?u=76281980&t=30)** Understand the basic commands used in the [[Linux]] operating system, and be familiar with common networking terminology and testing tools.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Disclaimer
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/disclaimer?u=76281980)
+#### [Disclaimer](https://www.linkedin.com/learning/ai-product-security-incident-response/disclaimer?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-product-security-incident-response/disclaimer?u=76281980&t=0)** - [Narrator] This course uses a number of third party tools and AI models.
 >
-> **[0:05](https://www.linkedin.com/learning/ai-product-security-incident-response/disclaimer?u=76281980&t=5)** Some are community additions of commercial products and some are pure open source.
+> **[0:05](https://www.linkedin.com/learning/ai-product-security-incident-response/disclaimer?u=76281980&t=5)** Some are community additions of commercial [[Microsoft Products|products]] and some are pure open source.
 >
 > **[0:11](https://www.linkedin.com/learning/ai-product-security-incident-response/disclaimer?u=76281980&t=11)** The download and installation instructions we discuss are correct at the time of recording, but these can change as AI is a rapidly developing field.
 >
@@ -155,7 +151,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
@@ -164,8 +160,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Incidents
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-incidents?u=76281980)
+#### [Introduction to Incidents](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-incidents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -177,7 +172,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-incidents?u=76281980&t=35)** Any cyberattack can quickly become high-profile, and its impact on our business will then depend upon how effectively we can respond.
 >
-> **[0:46](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-incidents?u=76281980&t=46)** Incident response is one phase of a wider incident management process.
+> **[0:46](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-incidents?u=76281980&t=46)** [[Incident Response]] is one phase of a wider incident management process.
 >
 > **[0:52](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-incidents?u=76281980&t=52)** There are a number of well-defined frameworks for incident management, including the US National Institutes of Standards and Technologies, Four-Stage Process, shown here.
 >
@@ -191,17 +186,16 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-incidents?u=76281980&t=92)** And the final stage is where we take any learnings from the incident so that we can avoid similar incidents in the future.
 >
-> **[1:41](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-incidents?u=76281980&t=101)** While this process was originally established to handle cybersecurity incidents, it's equally relevant to managing the wider AI incidents.
+> **[1:41](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-incidents?u=76281980&t=101)** While this process was originally established to handle [[Cybersecurity]] incidents, it's equally relevant to managing the wider AI incidents.
 >
 > **[1:52](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-incidents?u=76281980&t=112)** As we progress through this course, we'll address each of these phases in more detail and with an AI context.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), management (2), [[Security]] (1), business (1), [[Incident Response]] (1)
+> **Frameworks & Libraries:** [[Incident Response]] (1), [[Cybersecurity]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Incident reporting obligations
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/incident-reporting-obligations?u=76281980)
+#### [Incident reporting obligations](https://www.linkedin.com/learning/ai-product-security-incident-response/incident-reporting-obligations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -211,7 +205,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/ai-product-security-incident-response/incident-reporting-obligations?u=76281980&t=15)** An organization suffering a cyber incident on their AI system may have to report the incident to authorities, particularly, if it involves a critical infrastructure or a data breach.
 >
-> **[0:27](https://www.linkedin.com/learning/ai-product-security-incident-response/incident-reporting-obligations?u=76281980&t=27)** For example, in Singapore, owners of critical information infrastructure must notify the commissioner of cybersecurity within two hours of becoming aware of an incident.
+> **[0:27](https://www.linkedin.com/learning/ai-product-security-incident-response/incident-reporting-obligations?u=76281980&t=27)** For example, in Singapore, owners of critical information infrastructure must notify the commissioner of [[Cybersecurity]] within two hours of becoming aware of an incident.
 >
 > **[0:40](https://www.linkedin.com/learning/ai-product-security-incident-response/incident-reporting-obligations?u=76281980&t=40)** There are some regulatory obligations to report AI incidents.
 >
@@ -239,13 +233,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), data (1), [[Cybersecurity]] (1), management (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter (1)
 
-#### AI incident case studies
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/ai-incident-case-studies?u=76281980)
+#### [AI incident case studies](https://www.linkedin.com/learning/ai-product-security-incident-response/ai-incident-case-studies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -257,7 +250,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/ai-product-security-incident-response/ai-incident-case-studies?u=76281980&t=24)** We can go to the discover page and search for the incidents we want.
 >
-> **[0:29](https://www.linkedin.com/learning/ai-product-security-incident-response/ai-incident-case-studies?u=76281980&t=29)** Tay was a chatbot built and released by Microsoft.
+> **[0:29](https://www.linkedin.com/learning/ai-product-security-incident-response/ai-incident-case-studies?u=76281980&t=29)** Tay was a chatbot built and released by [[Microsoft]].
 >
 > **[0:34](https://www.linkedin.com/learning/ai-product-security-incident-response/ai-incident-case-studies?u=76281980&t=34)** It was designed to be a buddy for teenagers.
 >
@@ -295,17 +288,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (6), ai (5), [[Microsoft]] (2), data (2), database (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [speaker] (1)
 
-#### High-risk AI models
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/high-risk-ai-models?u=76281980)
+#### [High-risk AI models](https://www.linkedin.com/learning/ai-product-security-incident-response/high-risk-ai-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-product-security-incident-response/high-risk-ai-models?u=76281980&t=0)** - [Instructor] The European Union has designated certain uses of artificial intelligence technology to be high risk with compliance obligations on developers, importers, distributors, and deployers of AI technology.
+> **[0:00](https://www.linkedin.com/learning/ai-product-security-incident-response/high-risk-ai-models?u=76281980&t=0)** - [Instructor] The European Union has designated certain uses of [[Artificial Intelligence (AI)|artificial intelligence]] technology to be high risk with compliance obligations on developers, importers, distributors, and deployers of AI technology.
 >
 > **[0:15](https://www.linkedin.com/learning/ai-product-security-incident-response/high-risk-ai-models?u=76281980&t=15)** The regulations cover any AI systems which have users in the EU, regardless of their source.
 >
@@ -337,7 +329,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/ai-product-security-incident-response/high-risk-ai-models?u=76281980&t=160)** We can see here, the requirements that have to be satisfied by the providers and users of high risk systems.
 >
-> **[2:48](https://www.linkedin.com/learning/ai-product-security-incident-response/high-risk-ai-models?u=76281980&t=168)** These include having a risk management system, providing data governance, ensuring there's adequate technical documentation, and keeping records to enable audit of system use.
+> **[2:48](https://www.linkedin.com/learning/ai-product-security-incident-response/high-risk-ai-models?u=76281980&t=168)** These include having a risk management system, providing [[Data Governance]], ensuring there's adequate [[Technical Documentation]], and keeping records to enable audit of system use.
 >
 > **[3:01](https://www.linkedin.com/learning/ai-product-security-incident-response/high-risk-ai-models?u=76281980&t=181)** It includes ensuring any decisions made by the AI systems can be traced and that there's human oversight of that decision making.
 >
@@ -347,32 +339,31 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/ai-product-security-incident-response/high-risk-ai-models?u=76281980&t=213)** This is a fairly sweeping set of obligations as the EU AI Act applies to all AI systems used within the European Union, including those developed outside the European Union if their users are within the European Union.
 >
-> **[3:49](https://www.linkedin.com/learning/ai-product-security-incident-response/high-risk-ai-models?u=76281980&t=229)** This includes ChatGPT, Copilot, and other generally available online AI services, as well as repositories such as Hugging Face and GitHub.
+> **[3:49](https://www.linkedin.com/learning/ai-product-security-incident-response/high-risk-ai-models?u=76281980&t=229)** This includes [[ChatGPT]], [[Microsoft Copilot|Copilot]], and other generally available online AI services, as well as repositories such as [[Hugging Face]] and [[GitHub]].
 >
 > **[4:02](https://www.linkedin.com/learning/ai-product-security-incident-response/high-risk-ai-models?u=76281980&t=242)** Recital 104 of the act covers software released under open source license, and offers some relief to developers, albeit not exempting them from coverage by the act.
 >
 > **[4:16](https://www.linkedin.com/learning/ai-product-security-incident-response/high-risk-ai-models?u=76281980&t=256)** Recital 89 covers the publishing of services, tools, and components, which in themselves, do not constitute a general purpose AI model.
 >
-> **[4:26](https://www.linkedin.com/learning/ai-product-security-incident-response/high-risk-ai-models?u=76281980&t=266)** This states that developers should not be mandated to comply with requirements, but should be encouraged to document their products on model cards and data sheets as a contribution to the AI value chain.
+> **[4:26](https://www.linkedin.com/learning/ai-product-security-incident-response/high-risk-ai-models?u=76281980&t=266)** This states that developers should not be mandated to comply with requirements, but should be encouraged to document their [[Microsoft Products|products]] on model cards and data sheets as a contribution to the AI value chain.
 >
 > **[4:42](https://www.linkedin.com/learning/ai-product-security-incident-response/high-risk-ai-models?u=76281980&t=282)** The obligations of open source developers of general purpose AI models are spelled out in article 53 of the act.
 >
-> **[4:50](https://www.linkedin.com/learning/ai-product-security-incident-response/high-risk-ai-models?u=76281980&t=290)** Open source developers should prepare for compliance or exemption by providing clear documentation, adding tools to disclose model information when deployed, and following existing copyright and privacy rules of the European Union.
+> **[4:50](https://www.linkedin.com/learning/ai-product-security-incident-response/high-risk-ai-models?u=76281980&t=290)** Open source developers should prepare for compliance or exemption by providing clear documentation, adding tools to disclose model information when deployed, and following existing copyright and [[Privacy]] rules of the European Union.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), management (2), application (2), data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Data Governance]] (1), [[Technical Documentation]] (1), [[ChatGPT]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prohibited AI models
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/prohibited-ai-models?u=76281980)
+#### [Prohibited AI models](https://www.linkedin.com/learning/ai-product-security-incident-response/prohibited-ai-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-product-security-incident-response/prohibited-ai-models?u=76281980&t=0)** - [Instructor] The European Union in its AI Act has prohibited certain uses of artificial intelligence.
+> **[0:00](https://www.linkedin.com/learning/ai-product-security-incident-response/prohibited-ai-models?u=76281980&t=0)** - [Instructor] The European Union in its AI Act has prohibited certain uses of [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:07](https://www.linkedin.com/learning/ai-product-security-incident-response/prohibited-ai-models?u=76281980&t=7)** Let's take a look at what these prohibited uses are.
 >
@@ -386,13 +377,13 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/ai-product-security-incident-response/prohibited-ai-models?u=76281980&t=73)** This, however, does not apply where there are facts which link that person to a criminal activity.
 >
-> **[1:21](https://www.linkedin.com/learning/ai-product-security-incident-response/prohibited-ai-models?u=76281980&t=81)** The next category of prohibited AI systems are those designed to build facial recognition databases by indiscriminate scraping of images from the internet or CCTV footage.
+> **[1:21](https://www.linkedin.com/learning/ai-product-security-incident-response/prohibited-ai-models?u=76281980&t=81)** The next category of prohibited AI systems are those designed to build facial recognition [[Databases]] by indiscriminate scraping of images from the internet or CCTV footage.
 >
 > **[1:34](https://www.linkedin.com/learning/ai-product-security-incident-response/prohibited-ai-models?u=76281980&t=94)** At F, there's a prohibition on deploying AI systems to infer a person's emotions in the workplace or at educational institutions unless there's a justification for medical or safety reasons.
 >
 > **[1:50](https://www.linkedin.com/learning/ai-product-security-incident-response/prohibited-ai-models?u=76281980&t=110)** The use of AI systems that use biometrics to deduce or infer a person's race, political opinions, trade union membership, religious or philosophical beliefs, sex life or sexual orientation are prohibited.
 >
-> **[2:09](https://www.linkedin.com/learning/ai-product-security-incident-response/prohibited-ai-models?u=76281980&t=129)** Finally, the EU AI Act prohibits the use of real-time law enforcement systems which use AI for remote biometric identification in publicly accessible spaces for the purposes of law enforcement.
+> **[2:09](https://www.linkedin.com/learning/ai-product-security-incident-response/prohibited-ai-models?u=76281980&t=129)** Finally, the EU AI Act prohibits the use of [[Real-Time]] law enforcement systems which use AI for remote biometric identification in publicly accessible spaces for the purposes of law enforcement.
 >
 > **[2:24](https://www.linkedin.com/learning/ai-product-security-incident-response/prohibited-ai-models?u=76281980&t=144)** This is a complex category of prohibited systems with a number of exclusions and additional caveats, and in some cases, a requirement for pre-authorization.
 >
@@ -402,7 +393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), next (1), [[Databases]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Databases]] (1), [[Real-Time]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** cctv (1)
 > **Warnings:** important note (1)
@@ -413,8 +404,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing for an incident
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-for-an-incident?u=76281980)
+#### [Preparing for an incident](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-for-an-incident?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -428,7 +418,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-for-an-incident?u=76281980&t=41)** This information isn't obviously in the model, but it is their encoded form in the vectors which drive the model's operation.
 >
-> **[0:49](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-for-an-incident?u=76281980&t=49)** Then we have threat analysis, which we can do using the guidance provided by the OWASP top 10 LLM attacks and the more granular Mitre Atlas framework.
+> **[0:49](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-for-an-incident?u=76281980&t=49)** Then we have threat analysis, which we can do using the guidance provided by the [[OWASP]] top 10 LLM attacks and the more granular Mitre Atlas framework.
 >
 > **[1:02](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-for-an-incident?u=76281980&t=62)** We need to consider the aspects of people, process, technology, and information which need to be addressed.
 >
@@ -436,7 +426,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-for-an-incident?u=76281980&t=77)** To the AI models and application, and to the AI data sets used to build and validate the models.
 >
-> **[1:26](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-for-an-incident?u=76281980&t=86)** Of course, we also need to consider the traditional cybersecurity threats, which might be exploited by an adversary to take control of our AI systems.
+> **[1:26](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-for-an-incident?u=76281980&t=86)** Of course, we also need to consider the traditional [[Cybersecurity]] threats, which might be exploited by an adversary to take control of our AI systems.
 >
 > **[1:36](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-for-an-incident?u=76281980&t=96)** Next, we need to consider the effectiveness of and the threats to the control framework, which supports the AI applications, in particular, the guardrails which protect it and ensure that it behaves responsibly.
 >
@@ -444,23 +434,22 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-for-an-incident?u=76281980&t=115)** For this, we'll use a variation of the Crest Incident Maturity Assessment Workbook adjusted to be specifically focused on an AI incident.
 >
-> **[2:06](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-for-an-incident?u=76281980&t=126)** The output from the preparation phase is a set of incident response plans through which we can exercise and take effective action on an incident.
+> **[2:06](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-for-an-incident?u=76281980&t=126)** The output from the preparation phase is a set of [[Incident Response]] plans through which we can exercise and take effective action on an incident.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), application (3), management (1), [[OWASP]] (1), llm (1)
+> **Frameworks & Libraries:** [[OWASP]] (1), [[Cybersecurity]] (1), [[Incident Response]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Env Vars:** owasp (1), llm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assessing the threats
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/assessing-the-threats?u=76281980)
+#### [Assessing the threats](https://www.linkedin.com/learning/ai-product-security-incident-response/assessing-the-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-product-security-incident-response/assessing-the-threats?u=76281980&t=0)** - [Instructor] The threats to an AI system can be described as a three-tier model.
 >
-> **[0:05](https://www.linkedin.com/learning/ai-product-security-incident-response/assessing-the-threats?u=76281980&t=5)** At the bottom, we have the traditional cybersecurity threats such as ransomware, unauthorized modification of data for which AI data sets is known as poisoning, theft of model files, and so on.
+> **[0:05](https://www.linkedin.com/learning/ai-product-security-incident-response/assessing-the-threats?u=76281980&t=5)** At the bottom, we have the traditional [[Cybersecurity]] threats such as ransomware, unauthorized modification of data for which AI data sets is known as poisoning, theft of model files, and so on.
 >
 > **[0:19](https://www.linkedin.com/learning/ai-product-security-incident-response/assessing-the-threats?u=76281980&t=19)** It's at this tier that we have to protect our applications from cyber attacks.
 >
@@ -476,7 +465,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/ai-product-security-incident-response/assessing-the-threats?u=76281980&t=79)** There are many threats relating to AI, both to the models themselves as well as threats to our business reputation as a result of misbehavior from our own and our service provider's AI models.
 >
-> **[1:32](https://www.linkedin.com/learning/ai-product-security-incident-response/assessing-the-threats?u=76281980&t=92)** OWASP has developed a top 10 list of threats as we see here.
+> **[1:32](https://www.linkedin.com/learning/ai-product-security-incident-response/assessing-the-threats?u=76281980&t=92)** [[OWASP]] has developed a top 10 list of threats as we see here.
 >
 > **[1:37](https://www.linkedin.com/learning/ai-product-security-incident-response/assessing-the-threats?u=76281980&t=97)** Prompt injection is a high-profile attack.
 >
@@ -570,29 +559,28 @@ created: 2026-05-02
 >
 > **[7:39](https://www.linkedin.com/learning/ai-product-security-incident-response/assessing-the-threats?u=76281980&t=459)** This describes the process of running a prompt injection to override any preset restrictions.
 >
-> **[7:46](https://www.linkedin.com/learning/ai-product-security-incident-response/assessing-the-threats?u=76281980&t=466)** And below, we can see that generative AI guardrails are one of our mitigations.
+> **[7:46](https://www.linkedin.com/learning/ai-product-security-incident-response/assessing-the-threats?u=76281980&t=466)** And below, we can see that [[Generative AI]] guardrails are one of our mitigations.
 >
 > **[7:55](https://www.linkedin.com/learning/ai-product-security-incident-response/assessing-the-threats?u=76281980&t=475)** In addition to the various phases of threats, the last column indicates the various impacts that can occur as a result of AI model compromise.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (24), prompt (8), data (7), [[Cybersecurity]] (2), llm (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[OWASP]] (1), [[Generative AI]] (1)
 > **Definitions:** is a  (5), refers to (2), known as (1), means that (1)
 > **Env Vars:** llm (2), owasp (1), mitre (1), atlas (1), api (1)
 > **Analogies:** such as (4), for example (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preparing the incident response plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-the-incident-response-plan?u=76281980)
+#### [Preparing the incident response plan](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-the-incident-response-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-the-incident-response-plan?u=76281980&t=0)** - [Instructor] An incident response plan is a predefined procedure for managing and responding to incidents.
+> **[0:00](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-the-incident-response-plan?u=76281980&t=0)** - [Instructor] An [[Incident Response]] plan is a predefined procedure for managing and responding to incidents.
 >
-> **[0:06](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-the-incident-response-plan?u=76281980&t=6)** In the event an AI system is subjected to a standard cyber attack, then we'd use the standard cybersecurity incident response plans for intrusions, malware infections, and so on.
+> **[0:06](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-the-incident-response-plan?u=76281980&t=6)** In the event an AI system is subjected to a standard cyber attack, then we'd use the standard [[Cybersecurity Incident Response]] plans for intrusions, malware infections, and so on.
 >
-> **[0:19](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-the-incident-response-plan?u=76281980&t=19)** In preparing an incident response plan for artificial intelligence systems, we also need to have a plan that outlines the steps to take, if an AI system malfunctions, produces incorrect results or fails.
+> **[0:19](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-the-incident-response-plan?u=76281980&t=19)** In preparing an incident response plan for [[Artificial Intelligence (AI)|artificial intelligence]] systems, we also need to have a plan that outlines the steps to take, if an AI system malfunctions, produces incorrect results or fails.
 >
 > **[0:34](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-the-incident-response-plan?u=76281980&t=34)** The goal in this case is to minimize the impact of the incident and for recovery to take whatever action is necessary to ensure any similar malfunction is avoided.
 >
@@ -604,7 +592,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-the-incident-response-plan?u=76281980&t=77)** The first step is to define the composition of the team that will be responsible for responding to the incident.
 >
-> **[1:25](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-the-incident-response-plan?u=76281980&t=85)** This will require identifying key stakeholders from IT, legal, risk management, data science, and public relations.
+> **[1:25](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-the-incident-response-plan?u=76281980&t=85)** This will require identifying key stakeholders from IT, legal, risk management, [[Data Science]], and public relations.
 >
 > **[1:33](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-the-incident-response-plan?u=76281980&t=93)** We may also need to consider how involved in any response we would want representatives from our AI supply chain to be, service providers, external model developers, and so on.
 >
@@ -640,7 +628,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-the-incident-response-plan?u=76281980&t=245)** We'll cover the following activities in this step.
 >
-> **[4:08](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-the-incident-response-plan?u=76281980&t=248)** Identify potential AI incident scenarios based on an initial assessment of the OWASP top 10 threats to LLMs and the MITRE ATLAS framework.
+> **[4:08](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-the-incident-response-plan?u=76281980&t=248)** Identify potential AI incident scenarios based on an initial assessment of the [[OWASP]] top 10 threats to LLMs and the MITRE ATLAS framework.
 >
 > **[4:20](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-the-incident-response-plan?u=76281980&t=260)** For each scenario identified, assess the impact and likelihood and then select the risk level for those, document, and then discard any which require no treatment.
 >
@@ -650,7 +638,7 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-the-incident-response-plan?u=76281980&t=285)** The last step is where we mitigate in advance any weaknesses that we can, and then prepare our detection capability and response plan for the remaining scenarios.
 >
-> **[4:56](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-the-incident-response-plan?u=76281980&t=296)** The first activity is to enhance our defensive controls by implementing governance and ethical frameworks and improving data security and privacy controls where possible.
+> **[4:56](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-the-incident-response-plan?u=76281980&t=296)** The first activity is to enhance our defensive controls by implementing governance and ethical frameworks and improving [[Data Security]] and [[Privacy]] controls where possible.
 >
 > **[5:08](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-the-incident-response-plan?u=76281980&t=308)** We should also provide training and awareness programs to ensure the relevant staff are aware of the scenarios and understand how to respond to them.
 >
@@ -660,7 +648,7 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-the-incident-response-plan?u=76281980&t=343)** A great source of collateral to assist with the general management of incidents is [incidentresponse.com](https://incidentresponse.com).
 >
-> **[5:50](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-the-incident-response-plan?u=76281980&t=350)** Here we can find free playbooks for the major cybersecurity incidents.
+> **[5:50](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-the-incident-response-plan?u=76281980&t=350)** Here we can find free playbooks for the major [[Cybersecurity]] incidents.
 >
 > **[5:55](https://www.linkedin.com/learning/ai-product-security-incident-response/preparing-the-incident-response-plan?u=76281980&t=355)** While there's no specifically AI content yet.
 >
@@ -668,7 +656,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Incident Response]] (8), data (3), [[Cybersecurity]] (2), management (2)
+> **Frameworks & Libraries:** [[Incident Response]] (8), [[Cybersecurity]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Data Science]] (1), [[OWASP]] (1)
 > **Env Vars:** owasp (1), mitre (1), atlas (1)
 > **CLI Commands:** find (1)
 > **URLs:** [incidentresponse.com](https://incidentresponse.com) (1)
@@ -677,14 +665,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
 
-#### Upskilling with AI drills
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/upskilling-with-ai-drills?u=76281980)
+#### [Upskilling with AI drills](https://www.linkedin.com/learning/ai-product-security-incident-response/upskilling-with-ai-drills?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-product-security-incident-response/upskilling-with-ai-drills?u=76281980&t=0)** - [Instructor] AI drills are AI-targeted forms of cyber drills.
+> **[0:00](https://www.linkedin.com/learning/ai-product-security-incident-response/upskilling-with-ai-drills?u=76281980&t=0)** - [Instructor] AI drills are AI-targeted [[Forms]] of cyber drills.
 >
-> **[0:06](https://www.linkedin.com/learning/ai-product-security-incident-response/upskilling-with-ai-drills?u=76281980&t=6)** They're a structured training session that simulate attacks on and misbehavior of AI applications and are designed to improve the ability of an organization's security operations center to detect and respond effectively to security incidents.
+> **[0:06](https://www.linkedin.com/learning/ai-product-security-incident-response/upskilling-with-ai-drills?u=76281980&t=6)** They're a structured training session that simulate attacks on and misbehavior of AI applications and are designed to improve the ability of an organization's [[Security Operations]] center to detect and respond effectively to security incidents.
 >
 > **[0:23](https://www.linkedin.com/learning/ai-product-security-incident-response/upskilling-with-ai-drills?u=76281980&t=23)** They're typically announced, and staff prepare themselves to detect the attack.
 >
@@ -708,7 +695,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/ai-product-security-incident-response/upskilling-with-ai-drills?u=76281980&t=113)** This, however, will not have the typical levels of network traffic experienced in the live environment and will therefore be more of a workshop than a realistic live training exercise.
 >
-> **[2:06](https://www.linkedin.com/learning/ai-product-security-incident-response/upskilling-with-ai-drills?u=76281980&t=126)** In either scenario, the drill requires an external attack simulation customized to that target.
+> **[2:06](https://www.linkedin.com/learning/ai-product-security-incident-response/upskilling-with-ai-drills?u=76281980&t=126)** In either scenario, the drill requires an external attack [[Simulation]] customized to that target.
 >
 > **[2:14](https://www.linkedin.com/learning/ai-product-security-incident-response/upskilling-with-ai-drills?u=76281980&t=134)** This could be manually run by a red team or maybe an automated attack simulation tool running on one or more external workstations.
 >
@@ -720,13 +707,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), [[Simulation]] (3), [[Security]] (2), [[Forms]] (1), management (1)
+> **Frameworks & Libraries:** [[Simulation]] (3), [[Forms]] (1), [[Security Operations]] (1)
 > **Env Vars:** soc (3), call (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running an AI crisis exercise
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/running-an-ai-crisis-exercise?u=76281980)
+#### [Running an AI crisis exercise](https://www.linkedin.com/learning/ai-product-security-incident-response/running-an-ai-crisis-exercise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -786,7 +772,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/ai-product-security-incident-response/running-an-ai-crisis-exercise?u=76281980&t=234)** Lower down on the left, we can select what AI model we want to use, with the default being OpenAI.
 >
-> **[4:04](https://www.linkedin.com/learning/ai-product-security-incident-response/running-an-ai-crisis-exercise?u=76281980&t=244)** We'll select Ollama.
+> **[4:04](https://www.linkedin.com/learning/ai-product-security-incident-response/running-an-ai-crisis-exercise?u=76281980&t=244)** We'll select [[Ollama]].
 >
 > **[4:15](https://www.linkedin.com/learning/ai-product-security-incident-response/running-an-ai-crisis-exercise?u=76281980&t=255)** And we'll pick Mistral.
 >
@@ -796,7 +782,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/ai-product-security-incident-response/running-an-ai-crisis-exercise?u=76281980&t=288)** We'll now go to Custom Scenarios,
 >
-> **[5:00](https://www.linkedin.com/learning/ai-product-security-incident-response/running-an-ai-crisis-exercise?u=76281980&t=300)** and we'll scroll down to artificial intelligence as the MITRE technique.
+> **[5:00](https://www.linkedin.com/learning/ai-product-security-incident-response/running-an-ai-crisis-exercise?u=76281980&t=300)** and we'll scroll down to [[Artificial Intelligence (AI)|artificial intelligence]] as the MITRE technique.
 >
 > **[5:13](https://www.linkedin.com/learning/ai-product-security-incident-response/running-an-ai-crisis-exercise?u=76281980&t=313)** And we'll then generate a scenario.
 >
@@ -830,7 +816,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), business (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), management (1), [[Ollama]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Ollama]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** mitre (2), att (1)
 > **UI Navigation:** go to (2), scroll down (1)
@@ -839,12 +825,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Running an AI IR maturity assessment
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/running-an-ai-ir-maturity-assessment?u=76281980)
+#### [Running an AI IR maturity assessment](https://www.linkedin.com/learning/ai-product-security-incident-response/running-an-ai-ir-maturity-assessment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-product-security-incident-response/running-an-ai-ir-maturity-assessment?u=76281980&t=0)** - [Instructor] It's really useful as part of our AI incident response preparations to assess the current maturity of the organization with respect to an AI incident.
+> **[0:00](https://www.linkedin.com/learning/ai-product-security-incident-response/running-an-ai-ir-maturity-assessment?u=76281980&t=0)** - [Instructor] It's really useful as part of our AI [[Incident Response]] preparations to assess the current maturity of the organization with respect to an AI incident.
 >
 > **[0:11](https://www.linkedin.com/learning/ai-product-security-incident-response/running-an-ai-ir-maturity-assessment?u=76281980&t=11)** Let's run through what's involved in an AI incident response maturity assessment by using a maturity assessment tool developed by the Australian Outpace folks.
 >
@@ -928,7 +913,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), [[Incident Response]] (3), business (3), next (3), application (1)
+> **Frameworks & Libraries:** [[Incident Response]] (3)
 > **Versions:** 1.1 (2), 1.7 (1), 2.1 (1), 2.4 (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -942,8 +927,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Test harness for AI logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/test-harness-for-ai-logging?u=76281980)
+#### [Test harness for AI logging](https://www.linkedin.com/learning/ai-product-security-incident-response/test-harness-for-ai-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -953,13 +937,13 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/ai-product-security-incident-response/test-harness-for-ai-logging?u=76281980&t=22)** There are some specific examples of logs that we can check out.
 >
-> **[0:27](https://www.linkedin.com/learning/ai-product-security-incident-response/test-harness-for-ai-logging?u=76281980&t=27)** Restack describes the use of the Python general purpose logging library as used by the Haystack pipeline framework, noting that logs can be rendered in console or JSON format.
+> **[0:27](https://www.linkedin.com/learning/ai-product-security-incident-response/test-harness-for-ai-logging?u=76281980&t=27)** Restack describes the use of the [[Python (Programming Language)|Python]] general purpose logging library as used by the Haystack pipeline framework, noting that logs can be rendered in console or [[JSON]] format.
 >
 > **[0:40](https://www.linkedin.com/learning/ai-product-security-incident-response/test-harness-for-ai-logging?u=76281980&t=40)** Kong have an AI gateway that produces AI logs in JSON format using Kong's own standardized structure.
 >
 > **[0:51](https://www.linkedin.com/learning/ai-product-security-incident-response/test-harness-for-ai-logging?u=76281980&t=51)** For the testing we'll be doing in this section, we'll use a lab setup consisting of an attack script which sends a set of prompts to an AI model API endpoint and receives the responses, we'll be using this for adversarial testing and we'll use a file of pre-prepared prompts, an API endpoint connecting to our alert... Rephrase.
 >
-> **[1:17](https://www.linkedin.com/learning/ai-product-security-incident-response/test-harness-for-ai-logging?u=76281980&t=77)** An API endpoint connecting to our ollama mistral AI model.
+> **[1:17](https://www.linkedin.com/learning/ai-product-security-incident-response/test-harness-for-ai-logging?u=76281980&t=77)** An API endpoint connecting to our [[Ollama]] mistral AI model.
 >
 > **[1:22](https://www.linkedin.com/learning/ai-product-security-incident-response/test-harness-for-ai-logging?u=76281980&t=82)** The script has a guardrail stub and allows for logs to be generated should there be any issues detected.
 >
@@ -993,7 +977,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), api (5), application (3), [[JSON]] (2), [[Ollama]] (2)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Ollama]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (5), json (2), llm (1)
 > **File Paths:** prompter.py (1), modeller.py (1)
 > **CLI Commands:** python (1)
@@ -1002,8 +986,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
 
-#### Detecting toxicity
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/detecting-toxicity?u=76281980)
+#### [Detecting toxicity](https://www.linkedin.com/learning/ai-product-security-incident-response/detecting-toxicity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1041,7 +1024,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), prompt (2), application (1), ai (1)
 > **CLI Commands:** python3 (2), pip (1), sudo (1), cat (1)
 > **File Paths:** modeller_toxic.py (2), prompter.py (1), mixed.txt (1)
 > **Env Vars:** api (2), pip (1)
@@ -1050,8 +1032,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logging llm-guard
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/logging-llm-guard?u=76281980)
+#### [Logging llm-guard](https://www.linkedin.com/learning/ai-product-security-incident-response/logging-llm-guard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1101,13 +1082,13 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/ai-product-security-incident-response/logging-llm-guard?u=76281980&t=214)** And again, we'll stop the application and check the syslog with sudo cat /var/log/syslog | grep AILog.
 >
-> **[4:01](https://www.linkedin.com/learning/ai-product-security-incident-response/logging-llm-guard?u=76281980&t=241)** We can see three earlier logs, and in addition, LLM Guard has logged just the one case of potential violence, as the filters on LLM Guard don't kick in for the word Islam.
+> **[4:01](https://www.linkedin.com/learning/ai-product-security-incident-response/logging-llm-guard?u=76281980&t=241)** We can see three earlier logs, and in addition, LLM Guard has logged just the one case of potential violence, as the filters on LLM Guard don't kick in for the [[Microsoft Word|word]] Islam.
 >
 > **[4:12](https://www.linkedin.com/learning/ai-product-security-incident-response/logging-llm-guard?u=76281980&t=252)** As before, this log will be easy to detect in our scene, as it also contains the keyword, AILog.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (9), prompt (5), data (3), ai (2), api (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** llm (9), api (2)
 > **CLI Commands:** python3 (2), pip (1), sudo (1), cat (1), grep (1)
 > **File Paths:** modeller_guard.py (2), prompter.py (1), mixed.txt (1)
@@ -1116,8 +1097,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The challenge of hallucinations
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/the-challenge-of-hallucinations?u=76281980)
+#### [The challenge of hallucinations](https://www.linkedin.com/learning/ai-product-security-incident-response/the-challenge-of-hallucinations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1141,13 +1121,13 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/ai-product-security-incident-response/the-challenge-of-hallucinations?u=76281980&t=66)** Let's take a simple example of a hallucinated response, which we'll force out of our TinyDolphin AI model.
 >
-> **[1:14](https://www.linkedin.com/learning/ai-product-security-incident-response/the-challenge-of-hallucinations?u=76281980&t=74)** And we'll use ollama to run tinydolphin, and we'll ask it How long did it take Matthew Webb to first cross the English Channel on foot?
+> **[1:14](https://www.linkedin.com/learning/ai-product-security-incident-response/the-challenge-of-hallucinations?u=76281980&t=74)** And we'll use [[Ollama]] to run tinydolphin, and we'll ask it How long did it take Matthew Webb to first cross the English Channel on foot?
 >
 > **[1:47](https://www.linkedin.com/learning/ai-product-security-incident-response/the-challenge-of-hallucinations?u=76281980&t=107)** And it took him over six months to cross the English Channel using his bare hands and feet.
 >
 > **[1:58](https://www.linkedin.com/learning/ai-product-security-incident-response/the-challenge-of-hallucinations?u=76281980&t=118)** Okay, let's try another example.
 >
-> **[2:02](https://www.linkedin.com/learning/ai-product-security-incident-response/the-challenge-of-hallucinations?u=76281980&t=122)** And this time we'll use Llama 3.2.
+> **[2:02](https://www.linkedin.com/learning/ai-product-security-incident-response/the-challenge-of-hallucinations?u=76281980&t=122)** And this time we'll use [[LLaMA]] 3.2.
 >
 > **[2:07](https://www.linkedin.com/learning/ai-product-security-incident-response/the-challenge-of-hallucinations?u=76281980&t=127)** Here we see that Proxima Centauri is 40 trillion kilometers from Earth, give or take a few kilometers.
 >
@@ -1169,19 +1149,19 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/ai-product-security-incident-response/the-challenge-of-hallucinations?u=76281980&t=219)** The first is grounding, in which we provide relevant additional context as part of the prompt.
 >
-> **[3:45](https://www.linkedin.com/learning/ai-product-security-incident-response/the-challenge-of-hallucinations?u=76281980&t=225)** This is the approach we use when we provide context through retrieval-augmented generation.
+> **[3:45](https://www.linkedin.com/learning/ai-product-security-incident-response/the-challenge-of-hallucinations?u=76281980&t=225)** This is the approach we use when we provide context through [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]].
 >
-> **[3:52](https://www.linkedin.com/learning/ai-product-security-incident-response/the-challenge-of-hallucinations?u=76281980&t=232)** The second technique is to force the AI model to deliver structured outputs, for example, as JSON, and this helps reduce the vague ramblings of the model, and we get more specific keyword value pairs.
+> **[3:52](https://www.linkedin.com/learning/ai-product-security-incident-response/the-challenge-of-hallucinations?u=76281980&t=232)** The second technique is to force the AI model to deliver structured outputs, for example, as [[JSON]], and this helps reduce the vague ramblings of the model, and we get more specific keyword value pairs.
 >
 > **[4:06](https://www.linkedin.com/learning/ai-product-security-incident-response/the-challenge-of-hallucinations?u=76281980&t=246)** The third technique is to use more advanced chain of thought approach, where we help the AI reason through its response.
 >
 > **[4:14](https://www.linkedin.com/learning/ai-product-security-incident-response/the-challenge-of-hallucinations?u=76281980&t=254)** And finally, we can go one step further and accept the cost, and use larger, more advanced AI models.
 >
-> **[4:23](https://www.linkedin.com/learning/ai-product-security-incident-response/the-challenge-of-hallucinations?u=76281980&t=263)** Why don't you pause the course and take a few minutes to check out the examples we've shown on some other AI models, such as ChatGPT or Claude to see how well they respond.
+> **[4:23](https://www.linkedin.com/learning/ai-product-security-incident-response/the-challenge-of-hallucinations?u=76281980&t=263)** Why don't you pause the course and take a few minutes to check out the examples we've shown on some other AI models, such as [[ChatGPT]] or Claude to see how well they respond.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), prompt (3), [[LLaMA]] (3), [[Ollama]] (2), data (1)
+> **Frameworks & Libraries:** [[LLaMA]] (3), [[Ollama]] (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[JSON]] (1), [[ChatGPT]] (1)
 > **Versions:** 3.2 (3), 4.24 (1), 26.8 (1), 40.3 (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
@@ -1194,8 +1174,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Responding to an AI incident
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/responding-to-an-ai-incident?u=76281980)
+#### [Responding to an AI incident](https://www.linkedin.com/learning/ai-product-security-incident-response/responding-to-an-ai-incident?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1203,7 +1182,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/ai-product-security-incident-response/responding-to-an-ai-incident?u=76281980&t=16)** When an AI system misbehaves, the impacts can be multidimensional.
 >
-> **[0:23](https://www.linkedin.com/learning/ai-product-security-incident-response/responding-to-an-ai-incident?u=76281980&t=23)** A recognized framework for incident response is provided in the NIST Computer Security Incident Handling Guide, and we can use that to help determine what our AI incident response process should look like.
+> **[0:23](https://www.linkedin.com/learning/ai-product-security-incident-response/responding-to-an-ai-incident?u=76281980&t=23)** A recognized framework for [[Incident Response]] is provided in the [[NIST]] Computer Security Incident Handling Guide, and we can use that to help determine what our AI incident response process should look like.
 >
 > **[0:36](https://www.linkedin.com/learning/ai-product-security-incident-response/responding-to-an-ai-incident?u=76281980&t=36)** Having detected an issue and triaged it to confirm it's an incident, we'll need to think about containment, eradication, and recovery.
 >
@@ -1263,7 +1242,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), [[Incident Response]] (5), business (2), [[Security]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Incident Response]] (5), [[NIST]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **URLs:** [trustable.ai](https://trustable.ai) (1)
 > **Env Vars:** nist (1)
@@ -1271,8 +1250,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Documenting the response
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/documenting-the-response?u=76281980)
+#### [Documenting the response](https://www.linkedin.com/learning/ai-product-security-incident-response/documenting-the-response?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1284,7 +1262,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/ai-product-security-incident-response/documenting-the-response?u=76281980&t=26)** osTicket is an open-sourced ticketing system, and we'll take a look at how we might use this to manage an AI incident.
 >
-> **[0:34](https://www.linkedin.com/learning/ai-product-security-incident-response/documenting-the-response?u=76281980&t=34)** You can check out the installation of this application in my Complete Open Source course on LinkedIn Learning.
+> **[0:34](https://www.linkedin.com/learning/ai-product-security-incident-response/documenting-the-response?u=76281980&t=34)** You can check out the installation of this application in my Complete Open Source course on [[LinkedIn]] Learning.
 >
 > **[0:42](https://www.linkedin.com/learning/ai-product-security-incident-response/documenting-the-response?u=76281980&t=42)** Let's assume we're a user that's been provided with personal information for another user when using an internal AI-enabled HR system.
 >
@@ -1382,7 +1360,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), teams (2), business (1), application (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **UI Navigation:** click on (2), go to (1), switch to (1), select the (1)
 > **Code Identifiers:** osticket (4)
 > **CLI Commands:** find (2)
@@ -1396,8 +1374,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the Knight-Nurse framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-the-knight-nurse-framework?u=76281980)
+#### [Introduction to the Knight-Nurse framework](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-the-knight-nurse-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1407,7 +1384,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-the-knight-nurse-framework?u=76281980&t=21)** We refer to this as the Knight and Nurse framework, and it's just as relevant, if not more so for AI incidents as it is for pure cyber incidents.
 >
-> **[0:32](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-the-knight-nurse-framework?u=76281980&t=32)** During their background research, the authors identified a number of themes in past research and practice in incident response communications.
+> **[0:32](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-the-knight-nurse-framework?u=76281980&t=32)** During their background research, the authors identified a number of themes in past research and practice in [[Incident Response]] communications.
 >
 > **[0:41](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-the-knight-nurse-framework?u=76281980&t=41)** The top five themes are as shown with stock market reaction being the most important.
 >
@@ -1425,7 +1402,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-the-knight-nurse-framework?u=76281980&t=94)** Is it to minimize company losses or reputational damage, or is it to protect sales and share price?
 >
-> **[1:42](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-the-knight-nurse-framework?u=76281980&t=102)** Making sure the organization has a fit for purpose cybersecurity regime is a good foundation for positive communications.
+> **[1:42](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-the-knight-nurse-framework?u=76281980&t=102)** Making sure the organization has a fit for purpose [[Cybersecurity]] regime is a good foundation for positive communications.
 >
 > **[1:51](https://www.linkedin.com/learning/ai-product-security-incident-response/introduction-to-the-knight-nurse-framework?u=76281980&t=111)** Maintaining a capability to communicate in a response is central to the preparation stage of the framework.
 >
@@ -1449,14 +1426,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Incident Response]] (1), data (1), [[Cybersecurity]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Incident Response]] (1), [[Cybersecurity]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### When and how to communicate
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/when-and-how-to-communicate?u=76281980)
+#### [When and how to communicate](https://www.linkedin.com/learning/ai-product-security-incident-response/when-and-how-to-communicate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1524,7 +1500,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (2), next (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ceo (1)
 > **Definitions:** is an  (1)
@@ -1532,8 +1507,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### What to communicate
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/what-to-communicate?u=76281980)
+#### [What to communicate](https://www.linkedin.com/learning/ai-product-security-incident-response/what-to-communicate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1575,7 +1549,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/ai-product-security-incident-response/what-to-communicate?u=76281980&t=152)** We need to be very conscious that if we've made our customers uncomfortable or unhappy with whatever the incident was, we need to take it seriously.
 >
-> **[2:42](https://www.linkedin.com/learning/ai-product-security-incident-response/what-to-communicate?u=76281980&t=162)** The Tay incident in which Microsoft promoted an AI service to teenagers, which then began responding with inappropriate and toxic comments, had an impact on parents, as well as amplified the damage substantially.
+> **[2:42](https://www.linkedin.com/learning/ai-product-security-incident-response/what-to-communicate?u=76281980&t=162)** The Tay incident in which [[Microsoft]] promoted an AI service to teenagers, which then began responding with inappropriate and toxic comments, had an impact on parents, as well as amplified the damage substantially.
 >
 > **[2:56](https://www.linkedin.com/learning/ai-product-security-incident-response/what-to-communicate?u=76281980&t=176)** In addition to the guidance itself, the framework also makes a number of suggestions of things that should be considered and may be part of the messaging, but also part of what we need to be aware of in advance of any media questions.
 >
@@ -1593,14 +1567,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (4), next (1), business (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **CLI Commands:** make (3)
 > **Warnings:** be careful (1), be aware (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Special considerations for AI models
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/special-considerations-for-ai-models?u=76281980)
+#### [Special considerations for AI models](https://www.linkedin.com/learning/ai-product-security-incident-response/special-considerations-for-ai-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1610,9 +1583,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/ai-product-security-incident-response/special-considerations-for-ai-models?u=76281980&t=12)** So an AI incident can blow up into a media storm at any time.
 >
-> **[0:17](https://www.linkedin.com/learning/ai-product-security-incident-response/special-considerations-for-ai-models?u=76281980&t=17)** Being on top of the incident response and being prepared for questions from the media at any time during or after the incident is an important part of managing the response.
+> **[0:17](https://www.linkedin.com/learning/ai-product-security-incident-response/special-considerations-for-ai-models?u=76281980&t=17)** Being on top of the [[Incident Response]] and being prepared for questions from the media at any time during or after the incident is an important part of managing the response.
 >
-> **[0:29](https://www.linkedin.com/learning/ai-product-security-incident-response/special-considerations-for-ai-models?u=76281980&t=29)** Unlike standard cybersecurity incidents, AI incidents can occur when an AI system perpetuates or amplifies biases, leading to unfair outcomes or produces toxic or hallucinatory responses.
+> **[0:29](https://www.linkedin.com/learning/ai-product-security-incident-response/special-considerations-for-ai-models?u=76281980&t=29)** Unlike standard [[Cybersecurity]] incidents, AI incidents can occur when an AI system perpetuates or amplifies biases, leading to unfair outcomes or produces toxic or hallucinatory responses.
 >
 > **[0:47](https://www.linkedin.com/learning/ai-product-security-incident-response/special-considerations-for-ai-models?u=76281980&t=47)** Communicating in such incidents requires not only a good understanding of AI technology, but also a solid grasp of how to communicate AI concepts easily and with the correct nuance to an audience that's not familiar with what goes on under the hood of an AI system.
 >
@@ -1628,7 +1601,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), data (4), [[Incident Response]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Incident Response]] (1), [[Cybersecurity]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1638,20 +1611,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's next
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-security-incident-response/what-s-next?u=76281980)
+#### [What's next](https://www.linkedin.com/learning/ai-product-security-incident-response/what-s-next?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-product-security-incident-response/what-s-next?u=76281980&t=0)** - [Instructor] In this course, you've learned how to prepare for and respond effectively to an AI incident.
 >
-> **[0:07](https://www.linkedin.com/learning/ai-product-security-incident-response/what-s-next?u=76281980&t=7)** Incident response is just one aspect of using AI technologies, and AI is a fast-moving field with advances being made daily.
+> **[0:07](https://www.linkedin.com/learning/ai-product-security-incident-response/what-s-next?u=76281980&t=7)** [[Incident Response]] is just one aspect of using AI technologies, and AI is a fast-moving field with advances being made daily.
 >
 > **[0:17](https://www.linkedin.com/learning/ai-product-security-incident-response/what-s-next?u=76281980&t=17)** Make sure to call back and check for new content so you can stay up to date with this fascinating field.
 >
-> **[0:24](https://www.linkedin.com/learning/ai-product-security-incident-response/what-s-next?u=76281980&t=24)** I'd like to invite you to go to my LinkedIn learning page and check out my other artificial intelligence and cybersecurity courses.
+> **[0:24](https://www.linkedin.com/learning/ai-product-security-incident-response/what-s-next?u=76281980&t=24)** I'd like to invite you to go to my [[LinkedIn]] learning page and check out my other [[Artificial Intelligence (AI)|artificial intelligence]] and [[Cybersecurity]] courses.
 >
-> **[0:32](https://www.linkedin.com/learning/ai-product-security-incident-response/what-s-next?u=76281980&t=32)** You'll find a number of courses, covering a wide range of topics from [[Cybersecurity Foundations]], through to specialist areas, such as zero trust and AI security testing.
+> **[0:32](https://www.linkedin.com/learning/ai-product-security-incident-response/what-s-next?u=76281980&t=32)** You'll find a number of courses, covering a wide range of topics from [[Cybersecurity Foundations]], through to specialist areas, such as zero trust and [[AI Security]] testing.
 >
 > **[0:45](https://www.linkedin.com/learning/ai-product-security-incident-response/what-s-next?u=76281980&t=45)** To learn more about artificial intelligence, do check out that part of the LinkedIn Learning Library.
 >
@@ -1659,7 +1631,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Cybersecurity]] (3), [[LinkedIn]] (2), [[Incident Response]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Cybersecurity]] (3), [[LinkedIn]] (2), [[Incident Response]] (1), [[AI Security]] (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)

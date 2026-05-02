@@ -131,20 +131,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn Python for healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/introduction?u=76281980)
+#### [Learn Python for healthcare](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/introduction?u=76281980&t=0)** - [Instructor] Across industries and continents, learning to program increases the range of what you can aspire to, and how to understand and contribute to the digital world.
 >
-> **[0:09](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/introduction?u=76281980&t=9)** In this course, I will teach you the fundamentals of Python programming from a health science and healthcare perspective.
+> **[0:09](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/introduction?u=76281980&t=9)** In this course, I will teach you the fundamentals of [[Python (Programming Language)|Python]] programming from a health science and healthcare perspective.
 >
 > **[0:16](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/introduction?u=76281980&t=16)** As health sciences continue to evolve, computer programs need to keep up.
 >
 > **[0:21](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/introduction?u=76281980&t=21)** So thinking like a coder and a health scientist will give you a unique advantage.
 >
-> **[0:27](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/introduction?u=76281980&t=27)** My name is Wuraola Oyewusi, and welcome to Python for Health Sciences in Healthcare on LinkedIn learning.
+> **[0:27](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/introduction?u=76281980&t=27)** My name is Wuraola Oyewusi, and welcome to Python for Health Sciences in Healthcare on [[LinkedIn]] learning.
 >
 > **[0:35](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/introduction?u=76281980&t=35)** I remember writing my first line of code just like you, and how life-changing that has been for me.
 >
@@ -152,19 +151,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[LinkedIn]] (1)
 > **CLI Commands:** python (3)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Python for health sciences and healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-for-health-sciences-and-healthcare?u=76281980)
+#### [Python for health sciences and healthcare](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-for-health-sciences-and-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-for-health-sciences-and-healthcare?u=76281980&t=0)** - [Narrator] This course is designed for total beginners.
 >
-> **[0:03](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-for-health-sciences-and-healthcare?u=76281980&t=3)** Anyone interested in getting started with Python programming can take this, but all the examples and use cases are intentionally focused on health science and healthcare.
+> **[0:03](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-for-health-sciences-and-healthcare?u=76281980&t=3)** Anyone interested in getting started with [[Python (Programming Language)|Python]] programming can take this, but all the examples and use cases are intentionally focused on health science and healthcare.
 >
 > **[0:14](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-for-health-sciences-and-healthcare?u=76281980&t=14)** The goal is to help you incorporate Python programming into your work in health sciences.
 >
@@ -184,7 +182,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming]] (5)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5)
 > **Definitions:** is a  (1)
 > **Prerequisites:** getting started (1)
@@ -195,8 +193,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is programming?
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-programming?u=76281980)
+#### [What is programming?](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -210,7 +207,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-programming?u=76281980&t=22)** That code might instruct the computer to solve a problem or perform a task, like making this video play.
 >
-> **[0:30](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-programming?u=76281980&t=30)** And in computer science, we use the term algorithms to indicate code that has highly optimized design.
+> **[0:30](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-programming?u=76281980&t=30)** And in computer science, we use the term [[Algorithms]] to indicate code that has highly optimized design.
 >
 > **[0:38](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-programming?u=76281980&t=38)** The documented history of programming goes as far back as the 19th century when Ada Lovelace wrote an algorithm for the analytical engine.
 >
@@ -282,13 +279,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (7), [[Algorithms]] (3), next (3), [[Engineering]] (1), strengths (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3)
 > **Definitions:** is an  (2)
 > **Analogies:** for example (1), picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are programming languages?
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980)
+#### [What are programming languages?](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -296,7 +292,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=6)** Programming languages are formal languages used to write instructions that computers can understand and execute.
 >
-> **[0:14](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=14)** They have defined syntax and semantics, and algorithms can be implemented in different languages depending on the use case.
+> **[0:14](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=14)** They have defined syntax and semantics, and [[Algorithms]] can be implemented in different languages depending on the use case.
 >
 > **[0:22](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=22)** Programming languages can be classified using different criteria.
 >
@@ -314,11 +310,11 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=64)** Object-oriented languages emphasize the concept of objects in classes, inheritance and polymorphism.
 >
-> **[1:13](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=73)** Examples of those languages are Python, Java, C++, and Ruby.
+> **[1:13](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=73)** Examples of those languages are [[Python (Programming Language)|Python]], [[Java]], C++, and Ruby.
 >
 > **[1:22](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=82)** Functional languages emphasize immutability and involves computation as the evaluation of mathematical functions.
 >
-> **[1:30](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=90)** Examples are Scala, Closure, AscW.
+> **[1:30](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=90)** Examples are [[Scala]], Closure, AscW.
 >
 > **[1:36](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=96)** Procedural languages emphasize procedures and functions where a step-by-step approach is applied.
 >
@@ -326,7 +322,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=112)** Declarative languages specify what needs to be done rather than how to do it.
 >
-> **[1:57](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=117)** Examples are SQL, ATML, and prologue.
+> **[1:57](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=117)** Examples are [[SQL]], ATML, and prologue.
 >
 > **[2:03](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=123)** Aside from paradigm, programming languages can be classified by level of abstraction.
 >
@@ -346,7 +342,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=159)** High-level language is a human readable code, independent of device and easier to use.
 >
-> **[2:46](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=166)** Examples are Python, Java, GO, Rust, PHP.
+> **[2:46](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=166)** Examples are Python, Java, GO, [[Rust (Programming Language)|Rust]], [[PHP]].
 >
 > **[2:53](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=173)** Some classification have middle-level languages with hybrid advantages.
 >
@@ -368,7 +364,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=227)** They are executed by an interpreter, which translates and execute the instructions line by line at run time.
 >
-> **[3:55](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=235)** Some examples might be Python, PHP, Ruby, and JavaScript.
+> **[3:55](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=235)** Some examples might be Python, PHP, Ruby, and [[JavaScript]].
 >
 > **[4:04](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=244)** Again, languages can be hybrid, compiled, and interpreted.
 >
@@ -376,27 +372,27 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=255)** Programming can be general, which is versatile with a broad set of features that can be applied in different fields.
 >
-> **[4:23](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=263)** Python, Ruby, Swift, PHP, for example.
+> **[4:23](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=263)** Python, Ruby, [[Swift (Programming Language)|Swift]], PHP, for example.
 >
 > **[4:30](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=270)** Or you can have domain specific languages, DSL, with limited but specialized scope to particular use cases.
 >
-> **[4:39](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=279)** For example, structured query language, SQL, for managing relational databases, MATLAB for numerical and scientific computation, and SaaS for data analysis.
+> **[4:39](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=279)** For example, structured query language, SQL, for managing [[Relational Databases]], MATLAB for numerical and scientific computation, and [[SaaS]] for data analysis.
 >
 > **[4:54](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=294)** Finally, you can classify programming languages based on different applications in the languages that are the most popular for each one.
 >
-> **[5:04](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=304)** For data science and AI, the framework in libraries are usually written in Python, R, and sometimes Julia.
+> **[5:04](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=304)** For [[Data Science]] and AI, the framework in libraries are usually written in Python, R, and sometimes Julia.
 >
-> **[5:13](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=313)** The languages of web development, like for websites and web applications are HTML, JavaScript, CSS, PHP, Python, Ruby, and even Java.
+> **[5:13](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=313)** The languages of [[Web Development]], like for websites and web applications are [[HTML]], JavaScript, CSS, PHP, Python, Ruby, and even Java.
 >
-> **[5:30](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=330)** For mobile development, Java and Kotlin are common languages for Android, while Swift and Objective are common for iOS development.
+> **[5:30](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=330)** For [[Mobile Development]], Java and [[Kotlin]] are common languages for [[Android]], while Swift and Objective are common for [[iOS Development]].
 >
-> **[5:41](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=341)** For low-level programming like in hardware, operating systems, system and embedded languages are common like C, C++, and Rust.
+> **[5:41](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=341)** For low-level programming like in [[Hardware]], operating systems, system and embedded languages are common like C, C++, and Rust.
 >
 > **[5:54](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-are-programming-languages?u=76281980&t=354)** As you can see, there are tons of programming languages, so think about your ideal classification before you start coding.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (14), [[Python (Programming Language)|Python]] (6), [[Java]] (5), [[PHP]] (4), [[Rust (Programming Language)|Rust]] (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Java]] (5), [[PHP]] (4), [[Rust (Programming Language)|Rust]] (3), [[SQL]] (2)
 > **CLI Commands:** python (6), ruby (4), php (4)
 > **Env Vars:** php (4), sql (2), cobol (1), atml (1), dsl (1)
 > **Analogies:** for example (3), for instance (1)
@@ -405,8 +401,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code editors
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/code-editors?u=76281980)
+#### [Code editors](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/code-editors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -426,7 +421,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/code-editors?u=76281980&t=43)** So they can support multiple programming languages.
 >
-> **[0:47](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/code-editors?u=76281980&t=47)** You can also find platform-specific code editors like Notepad++ for Windows, or TextEdit for macOS, or cross-platform editors like Atom, Sublime, Vim, and Visual Studio Code.
+> **[0:47](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/code-editors?u=76281980&t=47)** You can also find platform-specific code editors like Notepad++ for [[Windows]], or TextEdit for macOS, or cross-platform editors like Atom, Sublime, Vim, and Visual Studio Code.
 >
 > **[1:05](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/code-editors?u=76281980&t=65)** This is what some of the editor interfaces look like.
 >
@@ -444,15 +439,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), [[Windows]] (1), cross-platform (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Tools:** atom (2), sublime (1), vim (1), visual studio (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** macos (1)
 > **Analogies:** think of it like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Integrated development environment software (IDEs)
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/integrated-development-environment-software-ides?u=76281980)
+#### [Integrated development environment software (IDEs)](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/integrated-development-environment-software-ides?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -460,7 +454,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/integrated-development-environment-software-ides?u=76281980&t=6)** Think of them as code editors on steroids where there is code writing, editing, testing, versioning, auto-complete, and automated code deployment in one place.
 >
-> **[0:20](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/integrated-development-environment-software-ides?u=76281980&t=20)** For context, think of it as prescription pad, but beyond just writing a prescription, it also has an embedded dosage verifier, quantity checker, and drug interaction checker, all in real-time as the prescription is being written.
+> **[0:20](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/integrated-development-environment-software-ides?u=76281980&t=20)** For context, think of it as prescription pad, but beyond just writing a prescription, it also has an embedded dosage verifier, quantity checker, and drug interaction checker, all in [[Real-Time]] as the prescription is being written.
 >
 > **[0:37](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/integrated-development-environment-software-ides?u=76281980&t=37)** While there are IDEs that support multiple programming languages, there are also specialized one targeted towards programmers in a particular language.
 >
@@ -474,9 +468,9 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/integrated-development-environment-software-ides?u=76281980&t=79)** Here are a few examples of programming languages and the IDEs that support them.
 >
-> **[1:24](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/integrated-development-environment-software-ides?u=76281980&t=84)** For Python, look at IDEs searches, PyCharm, Visual Studio Code, and Jupyter Notebook.
+> **[1:24](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/integrated-development-environment-software-ides?u=76281980&t=84)** For [[Python (Programming Language)|Python]], look at IDEs searches, PyCharm, Visual Studio Code, and Jupyter Notebook.
 >
-> **[1:33](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/integrated-development-environment-software-ides?u=76281980&t=93)** For Java, look at the Eclips, IntelliJ IDEA, Visual Studio Code.
+> **[1:33](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/integrated-development-environment-software-ides?u=76281980&t=93)** For [[Java]], look at the Eclips, IntelliJ IDEA, Visual Studio Code.
 >
 > **[1:40](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/integrated-development-environment-software-ides?u=76281980&t=100)** And for C, look at Eclipse CDT, Code::Blocks, Visual Studio Code.
 >
@@ -488,7 +482,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[Real-Time]] (2), [[Python (Programming Language)|Python]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Python (Programming Language)|Python]] (1), [[Java]] (1)
 > **Tools:** visual studio (3), pycharm (1), jupyter (1), intellij (1)
 > **Env Vars:** idea (1), cdt (1), ide (1)
 > **CLI Commands:** python (1), find (1)
@@ -496,8 +490,7 @@ created: 2026-05-02
 > **Analogies:** think of it as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Modules, libraries, packages, and systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/modules-libraries-packages-and-systems?u=76281980)
+#### [Modules, libraries, packages, and systems](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/modules-libraries-packages-and-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -539,21 +532,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), power (2), [[Programming]] (1)
 > **Definitions:** is a  (5), is an  (1)
 > **Analogies:** for example (4)
 > **Speakers:** - [instructor] (1)
 
-#### Code versioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/code-versioning?u=76281980)
+#### [Code versioning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/code-versioning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/code-versioning?u=76281980&t=0)** - [Instructor] As you interact more with code, you will notice a few extra numbers behind the code.
 >
-> **[0:06](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/code-versioning?u=76281980&t=6)** This is the version number, for example, Python 2 and Python 3 are programming languages, but other hierarchies can also have version numbers.
+> **[0:06](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/code-versioning?u=76281980&t=6)** This is the version number, for example, [[Python (Programming Language)|Python]] 2 and Python 3 are programming languages, but other hierarchies can also have version numbers.
 >
-> **[0:18](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/code-versioning?u=76281980&t=18)** For example, the latest release of pandas, the Python library, is version 2.0.2.
+> **[0:18](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/code-versioning?u=76281980&t=18)** For example, the latest release of [[Pandas (Software)|pandas]], the Python library, is version 2.0.2.
 >
 > **[0:28](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/code-versioning?u=76281980&t=28)** Before that, there was 2.0.1, before that, version 2.0.0, and so on.
 >
@@ -593,14 +584,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8), [[Python (Programming Language)|Python]] (7), [[Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8), [[Python (Programming Language)|Python]] (7)
 > **Versions:** python 3 (4), python 2 (2), version 2 (2), 0.2 (2), 2.0.2 (2)
 > **CLI Commands:** python (7), make (1)
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (1)
 
-#### Version control and repositories
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/version-control-and-repositories?u=76281980)
+#### [Version control and repositories](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/version-control-and-repositories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -612,7 +602,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/version-control-and-repositories?u=76281980&t=14)** How is it all managed?
 >
-> **[0:16](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/version-control-and-repositories?u=76281980&t=16)** That's where version control and repositories come in.
+> **[0:16](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/version-control-and-repositories?u=76281980&t=16)** That's where [[Version Control]] and repositories come in.
 >
 > **[0:19](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/version-control-and-repositories?u=76281980&t=19)** Version control allows you to manage and track changes to code and other file types.
 >
@@ -620,7 +610,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/version-control-and-repositories?u=76281980&t=30)** That means you can switch between different versions.
 >
-> **[0:34](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/version-control-and-repositories?u=76281980&t=34)** In programming, the common tool for this is called Git.
+> **[0:34](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/version-control-and-repositories?u=76281980&t=34)** In programming, the common tool for this is called [[Git]].
 >
 > **[0:37](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/version-control-and-repositories?u=76281980&t=37)** Git is a version control system used for tracking changes in code files.
 >
@@ -636,7 +626,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/version-control-and-repositories?u=76281980&t=77)** In all of those cases though, version control keeps a history of any changes and collaborations in the repository.
 >
-> **[1:25](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/version-control-and-repositories?u=76281980&t=85)** Some of the most popular code repos are GitHub, GitLab and Bitbucket.
+> **[1:25](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/version-control-and-repositories?u=76281980&t=85)** Some of the most popular code repos are [[GitHub]], GitLab and [[Bitbucket]].
 >
 > **[1:32](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/version-control-and-repositories?u=76281980&t=92)** This is not the deep dive into this concept, but it is important you're aware of all repos and version control work.
 >
@@ -644,15 +634,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Version Control]] (5), [[Git]] (4), [[Programming]] (1), cloud (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Version Control]] (5), [[Git]] (4), [[GitHub]] (1), [[Bitbucket]] (1)
 > **CLI Commands:** git (4)
 > **Tools:** github (1), gitlab (1), bitbucket (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
-#### Package managers and installers
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/package-managers-and-installers?u=76281980)
+#### [Package managers and installers](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/package-managers-and-installers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -680,7 +669,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/package-managers-and-installers?u=76281980&t=67)** Programming languages are dedicated package managers.
 >
-> **[1:11](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/package-managers-and-installers?u=76281980&t=71)** For example, Python Package Index, PyPI for Python, node package manager, npm, registry for node.js, a JavaScript runtime, advanced packaging tool, APT, for Debian Linux operating systems.
+> **[1:11](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/package-managers-and-installers?u=76281980&t=71)** For example, [[Python (Programming Language)|Python]] Package Index, PyPI for Python, node package manager, [[npm]], registry for [[Node.js]], a [[JavaScript]] runtime, advanced packaging tool, APT, for Debian [[Linux]] operating systems.
 >
 > **[1:30](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/package-managers-and-installers?u=76281980&t=90)** The corresponding installers for the package managers are Pip for PyPI, npm for npm registry, and apt-get for APT.
 >
@@ -692,7 +681,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[npm]] (3), [[Programming]] (2), node (1), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[npm]] (3), [[Node.js]] (1), [[JavaScript]] (1), [[Linux]] (1)
 > **CLI Commands:** python (3), npm (3), apt (3), node (2), pip (2)
 > **Prerequisites:** install (5)
 > **Analogies:** imagine (1), for example (1), just like (1)
@@ -701,12 +690,11 @@ created: 2026-05-02
 > **File Paths:** node.js (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is Python?
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-python?u=76281980)
+#### [What is Python?](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-python?u=76281980&t=0)** - [Instructor] We've been talking a lot about Python in this course so far, but what is Python?
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-python?u=76281980&t=0)** - [Instructor] We've been talking a lot about [[Python (Programming Language)|Python]] in this course so far, but what is Python?
 >
 > **[0:05](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-python?u=76281980&t=5)** Are we referring to the snake?
 >
@@ -726,11 +714,11 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-python?u=76281980&t=64)** There have been minor updates to version three, so at the time of this recording, the most up-to-date version is Python 3.11, released in October of 2022.
 >
-> **[1:16](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-python?u=76281980&t=76)** Python is a general purpose, high-level interpreted language, and it supports a number of programming paradigms, including object-oriented, procedural, and functional programming.
+> **[1:16](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-python?u=76281980&t=76)** Python is a general purpose, high-level interpreted language, and it supports a number of programming paradigms, including object-oriented, procedural, and [[Functional Programming]].
 >
 > **[1:30](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-python?u=76281980&t=90)** It is also a scripting language.
 >
-> **[1:33](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-python?u=76281980&t=93)** Python is versatile and applied across a range of use cases, from data analysis to data science, artificial intelligence, web development, internet of things, game development, and desktop applications.
+> **[1:33](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-python?u=76281980&t=93)** Python is versatile and applied across a range of use cases, from data analysis to [[Data Science]], [[Artificial Intelligence (AI)|artificial intelligence]], [[Web Development]], [[IoT|internet of things]], [[Game Development]], and desktop applications.
 >
 > **[1:51](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/what-is-python?u=76281980&t=111)** Python is one of the easier coding languages to learn, so it's great for beginners.
 >
@@ -738,14 +726,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (14), [[Programming]] (4), data (2), [[Functional Programming]] (1), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (14), [[Functional Programming]] (1), [[Data Science]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Web Development]] (1)
 > **CLI Commands:** python (14)
 > **Versions:** python 3 (2), 0.9.0 (1), python 1 (1), python 2 (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Python naming convention
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-naming-convention?u=76281980)
+#### [Python naming convention](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-naming-convention?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -753,7 +740,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-naming-convention?u=76281980&t=4)** No matter what language you use, it's important to use the appropriate naming convention for that language.
 >
-> **[0:12](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-naming-convention?u=76281980&t=12)** Good code is clean and understandable, so when writing Python code, the acceptable naming conventions ensures conformity to the established style, consistency across code bases, and readability.
+> **[0:12](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-naming-convention?u=76281980&t=12)** Good code is clean and understandable, so when writing [[Python (Programming Language)|Python]] code, the acceptable naming conventions ensures conformity to the established style, consistency across code bases, and readability.
 >
 > **[0:27](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-naming-convention?u=76281980&t=27)** When naming variables in Python, you want names that are informative about the action or function.
 >
@@ -787,7 +774,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-naming-convention?u=76281980&t=137)** This style is suitable for naming variables, functions, and methods.
 >
-> **[2:22](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-naming-convention?u=76281980&t=142)** Pascal case is when each word has the first letter capitalized, and there are no spaces or punctuation, like the name written here.
+> **[2:22](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-naming-convention?u=76281980&t=142)** Pascal case is when each [[Microsoft Word|word]] has the first letter capitalized, and there are no spaces or punctuation, like the name written here.
 >
 > **[2:32](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-naming-convention?u=76281980&t=152)** Pascal case is suitable for naming classes, objects, and other higher entities.
 >
@@ -801,14 +788,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Word|Word]] (2), teams (1), [[Programming]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** python (5), make (1)
 > **Analogies:** for example (3), imagine (1)
 > **Code Identifiers:** specimen_weight_in_mg (1), weight_of_specimen_in_mg (1)
 > **Speakers:** - [instructor] (1)
 
-#### Python keywords
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-keywords?u=76281980)
+#### [Python keywords](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-keywords?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -818,7 +804,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-keywords?u=76281980&t=14)** Each language has its own set of unique keywords.
 >
-> **[0:17](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-keywords?u=76281980&t=17)** Python keywords, for example, are reserved expressions that cannot be used as variable names or identifiers.
+> **[0:17](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-keywords?u=76281980&t=17)** [[Python (Programming Language)|Python]] keywords, for example, are reserved expressions that cannot be used as variable names or identifiers.
 >
 > **[0:24](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-keywords?u=76281980&t=24)** If you attempt to use them as variable names, there is an exception.
 >
@@ -856,7 +842,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3)
 > **Definitions:** is an  (1), refers to (1)
 > **Analogies:** for example (1)
@@ -867,8 +853,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Colaboratory notebook (online)
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/colaboratory-notebook-online?u=76281980)
+#### [Colaboratory notebook (online)](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/colaboratory-notebook-online?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -876,7 +861,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/colaboratory-notebook-online?u=76281980&t=8)** This is an online Jupyter Notebook.
 >
-> **[0:11](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/colaboratory-notebook-online?u=76281980&t=11)** To open your workspace, simply go to colab.research.[google.com](https://google.com).
+> **[0:11](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/colaboratory-notebook-online?u=76281980&t=11)** To open your workspace, simply go to colab.research.[[[Google]].com](https://google.com).
 >
 > **[0:17](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/colaboratory-notebook-online?u=76281980&t=17)** If you're logged onto a Google account, this opens directly to a welcome page showing you how it works.
 >
@@ -902,7 +887,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/colaboratory-notebook-online?u=76281980&t=89)** Print.
 >
-> **[1:33](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/colaboratory-notebook-online?u=76281980&t=93)** Welcome to Python for Health Sciences.
+> **[1:33](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/colaboratory-notebook-online?u=76281980&t=93)** Welcome to [[Python (Programming Language)|Python]] for Health Sciences.
 >
 > **[1:39](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/colaboratory-notebook-online?u=76281980&t=99)** Then we click this icon to run it.
 >
@@ -916,7 +901,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), prompt (1), generic (1), [[Programming]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Python (Programming Language)|Python]] (1)
 > **Tools:** colab (2), jupyter (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -925,20 +910,18 @@ created: 2026-05-02
 > **URLs:** [google.com](https://google.com) (1)
 > **Env Vars:** ide (1)
 
-#### An overview of the Coderpad coding challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/an-overview-of-the-coderpad-coding-challenges?u=76281980)
+#### [An overview of the Coderpad coding challenges](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/an-overview-of-the-coderpad-coding-challenges?u=76281980)
 
 
 ### 3. Python File Handling
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Open Python file
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/open-python-file?u=76281980)
+#### [Open Python file](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/open-python-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/open-python-file?u=76281980&t=0)** - [Instructor] In this chapter, I'll show you how to handle common file operations with Python.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/open-python-file?u=76281980&t=0)** - [Instructor] In this chapter, I'll show you how to handle common file operations with [[Python (Programming Language)|Python]].
 >
 > **[0:06](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/open-python-file?u=76281980&t=6)** To open the IPython files accomp in this course, click on File at the top left corner of the notebook, and select Upload notebook.
 >
@@ -963,8 +946,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1), click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Write Python file
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/write-python-file?u=76281980)
+#### [Write Python file](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/write-python-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -982,7 +964,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/write-python-file?u=76281980&t=45)** Another approach is to use the with open method, so with open bracket, then we'll file a name for our path, w to show right as file colon file.write welcome again.
 >
-> **[1:14](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/write-python-file?u=76281980&t=74)** This code is instructing Python to change the content in the demo_python file.
+> **[1:14](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/write-python-file?u=76281980&t=74)** This code is instructing [[Python (Programming Language)|Python]] to change the content in the demo_python file.
 >
 > **[1:22](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/write-python-file?u=76281980&t=82)** Let's check what we have in our file now.
 >
@@ -1004,12 +986,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Read Python file
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/read-python-file?u=76281980)
+#### [Read Python file](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/read-python-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/read-python-file?u=76281980&t=0)** - [Instructor] To practice how to read Python files, let's create a Python file called how to use a fume cupboard dot py.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/read-python-file?u=76281980&t=0)** - [Instructor] To practice how to read [[Python (Programming Language)|Python]] files, let's create a Python file called how to use a fume cupboard dot py.
 >
 > **[0:15](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/read-python-file?u=76281980&t=15)** Now write in the document a step-by-step guide on how to use a fume cupboard in the laboratory.
 >
@@ -1035,7 +1016,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), next (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Speakers:** - [instructor] (1)
 
@@ -1044,12 +1025,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Numeric data
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/numeric-data?u=76281980)
+#### [Numeric data](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/numeric-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/numeric-data?u=76281980&t=0)** - [Instructor] Numeric data is one of the most important built-in data types in Python, so it's important you understand how it works.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/numeric-data?u=76281980&t=0)** - [Instructor] Numeric data is one of the most important built-in data types in [[Python (Programming Language)|Python]], so it's important you understand how it works.
 >
 > **[0:08](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/numeric-data?u=76281980&t=8)** This is fundamental to your proficiency in programming.
 >
@@ -1107,7 +1087,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Versions:** 5.0 (3), 5.60 (2)
 > **Analogies:** for example (2), such as (1)
 > **Code Identifiers:** sample_numeric (2)
@@ -1115,12 +1095,11 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### String data
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-data?u=76281980)
+#### [String data](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-data?u=76281980&t=0)** - [Instructor] Strings in Python are sequences of characters.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-data?u=76281980&t=0)** - [Instructor] Strings in [[Python (Programming Language)|Python]] are sequences of characters.
 >
 > **[0:03](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-data?u=76281980&t=3)** Think alphabets and punctuations.
 >
@@ -1182,14 +1161,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (3), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4)
 > **Code Identifiers:** sample_string (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Boolean
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/boolean?u=76281980)
+#### [Boolean](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/boolean?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1205,7 +1183,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/boolean?u=76281980&t=29)** Name true is not defined.
 >
-> **[0:31](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/boolean?u=76281980&t=31)** This means it was processed as a non-defined string, but when you type True with T in upper case, it is recognized as a Python expression and runs to give an output.
+> **[0:31](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/boolean?u=76281980&t=31)** This means it was processed as a non-defined string, but when you type True with T in upper case, it is recognized as a [[Python (Programming Language)|Python]] expression and runs to give an output.
 >
 > **[0:47](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/boolean?u=76281980&t=47)** Repeat the same with False.
 >
@@ -1239,7 +1217,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), make (2)
 > **Definitions:** refers to (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1249,12 +1227,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/lists?u=76281980)
+#### [Lists](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/lists?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/lists?u=76281980&t=0)** - [Instructor] In this chapter, we'll cover basic Python data structures.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/lists?u=76281980&t=0)** - [Instructor] In this chapter, we'll cover basic [[Python (Programming Language)|Python]] [[Data Structures]].
 >
 > **[0:04](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/lists?u=76281980&t=4)** Programming is intuitive.
 >
@@ -1350,7 +1327,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (3), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (4), [[Python (Programming Language)|Python]] (3)
 > **Code Identifiers:** sample_list_copy (4), sample_list (3), sample_list_numeric (2)
 > **CLI Commands:** python (3), make (2)
 > **Cross-References:** in the last (1)
@@ -1358,8 +1335,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tuples
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/tuples?u=76281980)
+#### [Tuples](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/tuples?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1445,13 +1421,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), strengths (1), feature (1)
 > **Code Identifiers:** sample_tuple_numeric (5), sample_tuple_string (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/sets?u=76281980)
+#### [Sets](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/sets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1525,18 +1499,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** sample_patient_set (2), sample_set (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dictionaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/dictionaries?u=76281980)
+#### [Dictionaries](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/dictionaries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/dictionaries?u=76281980&t=0)** - [Instructor] Dictionaries are one of the most useful data structures in Python programming.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/dictionaries?u=76281980&t=0)** - [Instructor] Dictionaries are one of the most useful [[Data Structures]] in [[Python (Programming Language)|Python]] programming.
 >
 > **[0:05](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/dictionaries?u=76281980&t=5)** Dictionaries allow key-value pairs.
 >
@@ -1622,19 +1594,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (3), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Data Structures]] (2)
 > **CLI Commands:** python (3), make (1)
 > **Code Identifiers:** sample_dictionary_antihypertensives (3), patient_info_dictionary (1)
 > **Env Vars:** acei (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution:  Remove an element from a list
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-remove-an-element-from-a-list?u=76281980)
+#### [Solution:  Remove an element from a list](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-remove-an-element-from-a-list?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-remove-an-element-from-a-list?u=76281980&t=0)** - [Instructor] To remove Cetirizine from the list of antihistamine here, we use the remove method and ensure that we write out the exact word to be removed.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-remove-an-element-from-a-list?u=76281980&t=0)** - [Instructor] To remove Cetirizine from the list of antihistamine here, we use the remove method and ensure that we write out the exact [[Microsoft Word|word]] to be removed.
 >
 > **[0:19](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-remove-an-element-from-a-list?u=76281980&t=19)** Let's go ahead and test the code.
 >
@@ -1648,8 +1619,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a set from a list
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-create-a-set-from-a-list?u=76281980)
+#### [Solution: Create a set from a list](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-create-a-set-from-a-list?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1671,12 +1641,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Arithmetic operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/arithmetic-operations?u=76281980)
+#### [Arithmetic operations](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/arithmetic-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/arithmetic-operations?u=76281980&t=0)** - [Instructor] In this chapter, we'll cover some basic operations you can perform in Python.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/arithmetic-operations?u=76281980&t=0)** - [Instructor] In this chapter, we'll cover some basic operations you can perform in [[Python (Programming Language)|Python]].
 >
 > **[0:05](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/arithmetic-operations?u=76281980&t=5)** We'll start with one of the most comprehensive, arithmetic operations.
 >
@@ -1822,18 +1791,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), [[Python (Programming Language)|Python]] (3), data (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **Versions:** 4.5 (3), 3.124 (1), 5.4 (1), 591.6502400002 (1), 1.5 (1)
 > **CLI Commands:** python (3)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparison operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/comparison-operations?u=76281980)
+#### [Comparison operations](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/comparison-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/comparison-operations?u=76281980&t=0)** - [Instructor] Python comparison operators are the same as the ones you're probably used to and we've used some of them already in this course.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/comparison-operations?u=76281980&t=0)** - [Instructor] [[Python (Programming Language)|Python]] comparison operators are the same as the ones you're probably used to and we've used some of them already in this course.
 >
 > **[0:09](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/comparison-operations?u=76281980&t=9)** If you've been paying attention, you will notice we've used the single equal sign to assign variables.
 >
@@ -1895,8 +1863,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logical operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/logical-operations?u=76281980)
+#### [Logical operations](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/logical-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1937,8 +1904,7 @@ created: 2026-05-02
 > **Versions:** 5.0 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Repeat string by integer multiplication
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-repeat-string-by-integer-multiplication?u=76281980)
+#### [Solution: Repeat string by integer multiplication](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-repeat-string-by-integer-multiplication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1964,8 +1930,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Integer floor division
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-integer-floor-division?u=76281980)
+#### [Solution: Integer floor division](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-integer-floor-division?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1991,12 +1956,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/functions?u=76281980)
+#### [Functions](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/functions?u=76281980&t=0)** - [Instructor] In this chapter, we're going to cover, common Python functions and statements.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/functions?u=76281980&t=0)** - [Instructor] In this chapter, we're going to cover, common [[Python (Programming Language)|Python]] functions and statements.
 >
 > **[0:05](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/functions?u=76281980&t=5)** One of the interesting things about programming is reusability.
 >
@@ -2062,7 +2026,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Programming]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1), is called (1)
 > **Versions:** 1.1 (1)
@@ -2070,8 +2034,7 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Conditional statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/conditional-statements?u=76281980)
+#### [Conditional statements](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/conditional-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2117,16 +2080,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (1)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - imagine (1)
 
-#### For loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/for-loops?u=76281980)
+#### [For loops](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/for-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/for-loops?u=76281980&t=0)** - [Instructor] Just like the name suggests, in Python, a loop is a control structure that can execute a statement repeatedly.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/for-loops?u=76281980&t=0)** - [Instructor] Just like the name suggests, in [[Python (Programming Language)|Python]], a loop is a control structure that can execute a statement repeatedly.
 >
 > **[0:08](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/for-loops?u=76281980&t=8)** And anytime you use a loop across a group of items, that is called an iteration.
 >
@@ -2140,7 +2101,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/for-loops?u=76281980&t=44)** If we want to print out each item, we write the for loop, so for item in analgesics, print item.
 >
-> **[0:58](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/for-loops?u=76281980&t=58)** Any word can be used, item could be element or even analgesic.
+> **[0:58](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/for-loops?u=76281980&t=58)** Any [[Microsoft Word|word]] can be used, item could be element or even analgesic.
 >
 > **[1:05](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/for-loops?u=76281980&t=65)** Let's try for analgesic in analgesics.
 >
@@ -2181,8 +2142,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Define a function
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-define-a-function?u=76281980)
+#### [Solution: Define a function](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-define-a-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2206,13 +2166,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Iterate over a list with for loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-iterate-over-a-list-with-for-loop?u=76281980)
+#### [Solution: Iterate over a list with for loop](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-iterate-over-a-list-with-for-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2239,8 +2197,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Length and count function
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/length-and-count-function?u=76281980)
+#### [Length and count function](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/length-and-count-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2248,7 +2205,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/length-and-count-function?u=76281980&t=6)** Some of the basic things you want to do are already built-in functions and it's intuitive that you can even guess them sometimes.
 >
-> **[0:14](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/length-and-count-function?u=76281980&t=14)** In this chapter, we'll cover built-in functions and other operations in Python.
+> **[0:14](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/length-and-count-function?u=76281980&t=14)** In this chapter, we'll cover built-in functions and other operations in [[Python (Programming Language)|Python]].
 >
 > **[0:19](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/length-and-count-function?u=76281980&t=19)** Let's start by looking at the length and count built-in function.
 >
@@ -2274,7 +2231,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/length-and-count-function?u=76281980&t=110)** Now, let's count the number of times omeprazole appear in the names_of_ppi list.
 >
-> **[1:57](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/length-and-count-function?u=76281980&t=117)** It returns one because that word exists.
+> **[1:57](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/length-and-count-function?u=76281980&t=117)** It returns one because that [[Microsoft Word|word]] exists.
 >
 > **[2:02](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/length-and-count-function?u=76281980&t=122)** This may not look like a big deal, but imagine if you have hundreds of items in your list.
 >
@@ -2282,7 +2239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), data (1), [[Microsoft Word|Word]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** names_of_ppi (2)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** python (1)
@@ -2290,8 +2247,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Minimum and maximum function
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/minimum-and-maximum-function?u=76281980)
+#### [Minimum and maximum function](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/minimum-and-maximum-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2317,13 +2273,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (2), data (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Range and sum function
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/range-and-sum-function?u=76281980)
+#### [Range and sum function](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/range-and-sum-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2371,7 +2325,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/range-and-sum-function?u=76281980&t=146)** You can try on your own to find out what happens if you use minus two instead of minus one.
 >
-> **[2:33](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/range-and-sum-function?u=76281980&t=153)** Similar to range, the sum function makes quick work of big data.
+> **[2:33](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/range-and-sum-function?u=76281980&t=153)** Similar to range, the sum function makes quick work of [[Big Data]].
 >
 > **[2:38](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/range-and-sum-function?u=76281980&t=158)** Using the sum function, let's add all the values in even_numbers_of_oscillation and saving to variable called sum_of_even_numbers_of_oscillation.
 >
@@ -2392,8 +2346,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### String case functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-case-functions?u=76281980)
+#### [String case functions](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-case-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2405,7 +2358,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-case-functions?u=76281980&t=20)** So, if you've typed in all caps before it's time to use a function that does just that.
 >
-> **[0:26](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-case-functions?u=76281980&t=26)** For a sample statement, public health refers to the science and practice of protecting, promoting, and improving health and wellbeing of populations in mixed character.
+> **[0:26](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-case-functions?u=76281980&t=26)** For a sample statement, [[Public Health]] refers to the science and practice of protecting, promoting, and improving health and wellbeing of populations in mixed character.
 >
 > **[0:39](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-case-functions?u=76281980&t=39)** If we want it in all upper case we simply do sample statement dot upper.
 >
@@ -2417,7 +2370,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-case-functions?u=76281980&t=59)** Watch if you want to capitalize only the first letter.
 >
-> **[1:04](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-case-functions?u=76281980&t=64)** If you want your text in title case where the first character of each word is in uppercase, go ahead and code the title function on the sample statement.
+> **[1:04](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-case-functions?u=76281980&t=64)** If you want your text in title case where the first character of each [[Microsoft Word|word]] is in uppercase, go ahead and code the title function on the sample statement.
 >
 > **[1:15](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-case-functions?u=76281980&t=75)** This may seem like an obscure function but it can make a big difference.
 >
@@ -2429,14 +2382,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Public Health]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Public Health]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** refers to (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - by (1)
 
-#### Split and join function
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/split-and-join-function?u=76281980)
+#### [Split and join function](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/split-and-join-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2470,13 +2422,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** laboratory_apparatus (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Strip and replace function
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/strip-and-replace-function?u=76281980)
+#### [Strip and replace function](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/strip-and-replace-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2494,7 +2444,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/strip-and-replace-function?u=76281980&t=40)** If it was a trailing empty space, you don't need to specify the character.
 >
-> **[0:44](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/strip-and-replace-function?u=76281980&t=44)** For example, the sample_statement here has empty spaces before the first word.
+> **[0:44](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/strip-and-replace-function?u=76281980&t=44)** For example, the sample_statement here has empty spaces before the first [[Microsoft Word|word]].
 >
 > **[0:50](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/strip-and-replace-function?u=76281980&t=50)** If the goal is to remove just that, only strip dot.
 >
@@ -2526,8 +2476,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Zip function
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/zip-function?u=76281980)
+#### [Zip function](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/zip-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2545,11 +2494,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (1)
 > **Speakers:** - [instructor] (1)
 
-#### Map function
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/map-function?u=76281980)
+#### [Map function](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/map-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2577,12 +2524,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), data (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Slicing
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/slicing?u=76281980)
+#### [Slicing](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/slicing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2590,7 +2535,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/slicing?u=76281980&t=6)** This is done based on assessing index position.
 >
-> **[0:09](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/slicing?u=76281980&t=9)** For example, to obtain the first three letters in the word laboratory, you write the word as a string, then a square bracket, zero, colon, three.
+> **[0:09](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/slicing?u=76281980&t=9)** For example, to obtain the first three letters in the [[Microsoft Word|word]] laboratory, you write the word as a string, then a square bracket, zero, colon, three.
 >
 > **[0:22](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/slicing?u=76281980&t=22)** This indicates that you want characters in position one to three, translating to the first three letters.
 >
@@ -2618,18 +2563,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### String formatting
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-formatting?u=76281980)
+#### [String formatting](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-formatting?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-formatting?u=76281980&t=0)** - [Instructor] String formatting enables you to dynamically decide on your output by inserting values into placeholders.
 >
-> **[0:08](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-formatting?u=76281980&t=8)** It's a common operation in Python programming.
+> **[0:08](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-formatting?u=76281980&t=8)** It's a common operation in [[Python (Programming Language)|Python]] programming.
 >
 > **[0:11](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/string-formatting?u=76281980&t=11)** For example, let's say you want to print the name and dosage of medications for instruction.
 >
@@ -2653,13 +2597,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Return maximum value from a tuple
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-return-maximum-value-from-a-tuple?u=76281980)
+#### [Solution: Return maximum value from a tuple](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-return-maximum-value-from-a-tuple?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2679,8 +2622,7 @@ created: 2026-05-02
 > **Code Identifiers:** max_dosage_strength (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Print elements in a list in lowercase
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-print-elements-in-a-list-in-lowercase?u=76281980)
+#### [Solution: Print elements in a list in lowercase](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-print-elements-in-a-list-in-lowercase?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2696,14 +2638,13 @@ created: 2026-05-02
 >
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Zip two lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-zip-two-lists?u=76281980)
+#### [Solution: Zip two lists](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-zip-two-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-zip-two-lists?u=76281980&t=0)** - [Instructor] Sometimes the answer is in the name.
 >
-> **[0:03](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-zip-two-lists?u=76281980&t=3)** In this case, we like to zip to Python list.
+> **[0:03](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-zip-two-lists?u=76281980&t=3)** In this case, we like to zip to [[Python (Programming Language)|Python]] list.
 >
 > **[0:06](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-zip-two-lists?u=76281980&t=6)** Let's come here and add zip.
 >
@@ -2719,8 +2660,7 @@ created: 2026-05-02
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Get list element using negative indexing
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-get-an-element-from-a-list-using-negative-indexing?u=76281980)
+#### [Solution: Get list element using negative indexing](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/solution-get-an-element-from-a-list-using-negative-indexing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2743,8 +2683,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Comments
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/comments?u=76281980)
+#### [Comments](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/comments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2752,7 +2691,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/comments?u=76281980&t=5)** For example, the pharmacist makes a note to show a prescription has been fulfilled or a clinician takes a patient's history.
 >
-> **[0:14](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/comments?u=76281980&t=14)** In this chapter, we're going to focus on the different types of code documentation in Python.
+> **[0:14](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/comments?u=76281980&t=14)** In this chapter, we're going to focus on the different types of code documentation in [[Python (Programming Language)|Python]].
 >
 > **[0:21](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/comments?u=76281980&t=21)** Let's start with comments.
 >
@@ -2790,21 +2729,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), make (1)
 > **Code Identifiers:** total_quantity_dispensed (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Docstring
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/docstring?u=76281980)
+#### [Docstring](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/docstring?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/docstring?u=76281980&t=0)** - [Instructor] Let me show you something interesting.
 >
-> **[0:03](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/docstring?u=76281980&t=3)** Import pandas.
+> **[0:03](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/docstring?u=76281980&t=3)** Import [[Pandas (Software)|pandas]].
 >
 > **[0:09](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/docstring?u=76281980&t=9)** If we access the function like this, pandas dot double underscore doc double underscore.
 >
@@ -2894,8 +2832,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Error messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/error-messages?u=76281980)
+#### [Error messages](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/error-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2943,17 +2880,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), prompt (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Official Python documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/official-python-documentation?u=76281980)
+#### [Official Python documentation](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/official-python-documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/official-python-documentation?u=76281980&t=0)** - [Instructor] The official Python documentation is extensive, detailed, and the source of truth for all things Python.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/official-python-documentation?u=76281980&t=0)** - [Instructor] The official [[Python (Programming Language)|Python]] documentation is extensive, detailed, and the source of truth for all things Python.
 >
 > **[0:08](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/official-python-documentation?u=76281980&t=8)** There are official references for medications and chemicals like Codex, Pharmacopoeias, national medication guidelines, E-T-C.
 >
@@ -2971,7 +2906,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Search]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7)
 > **CLI Commands:** python (7), find (1)
 > **URLs:** [python.org](https://python.org) (1)
 > **Speakers:** - [instructor] (1)
@@ -2981,12 +2916,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Import statement and aliasing
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/import-statement-and-aliasing?u=76281980)
+#### [Import statement and aliasing](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/import-statement-and-aliasing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/import-statement-and-aliasing?u=76281980&t=0)** - [Instructor] In this chapter, we will cover how to work with libraries in Python.
+> **[0:00](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/import-statement-and-aliasing?u=76281980&t=0)** - [Instructor] In this chapter, we will cover how to work with libraries in [[Python (Programming Language)|Python]].
 >
 > **[0:05](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/import-statement-and-aliasing?u=76281980&t=5)** In a general sense, the library is a piece of reusable code.
 >
@@ -3028,7 +2962,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5)
 > **Code Identifiers:** sample_array (2), reshaped_array (2)
 > **Definitions:** is a  (2)
@@ -3036,8 +2970,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install and uninstall Python libraries
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/install-and-uninstall-python-libraries?u=76281980)
+#### [Install and uninstall Python libraries](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/install-and-uninstall-python-libraries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3045,7 +2978,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/install-and-uninstall-python-libraries?u=76281980&t=4)** Sometimes you need to have installed the library before you can import it in your workspace.
 >
-> **[0:10](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/install-and-uninstall-python-libraries?u=76281980&t=10)** Let's use one of the most common Python libraries as example.
+> **[0:10](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/install-and-uninstall-python-libraries?u=76281980&t=10)** Let's use one of the most common [[Python (Programming Language)|Python]] libraries as example.
 >
 > **[0:14](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/install-and-uninstall-python-libraries?u=76281980&t=14)** Transformers.
 >
@@ -3095,8 +3028,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Python data analysis libraries
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-data-analysis-libraries?u=76281980)
+#### [Python data analysis libraries](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-data-analysis-libraries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3104,9 +3036,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-data-analysis-libraries?u=76281980&t=9)** Having the way to sort through that data efficiently will help you write cleaner, better code.
 >
-> **[0:15](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-data-analysis-libraries?u=76281980&t=15)** These are some of the most popular Python libraries for data analysis.
+> **[0:15](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-data-analysis-libraries?u=76281980&t=15)** These are some of the most popular [[Python (Programming Language)|Python]] libraries for data analysis.
 >
-> **[0:19](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-data-analysis-libraries?u=76281980&t=19)** Pandas for data analysis and manipulation.
+> **[0:19](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-data-analysis-libraries?u=76281980&t=19)** [[Pandas (Software)|Pandas]] for data analysis and manipulation.
 >
 > **[0:24](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-data-analysis-libraries?u=76281980&t=24)** Tables are called DataFraming Pandas.
 >
@@ -3116,9 +3048,9 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-data-analysis-libraries?u=76281980&t=33)** Matplotlib for static animated and interactive data visualization.
 >
-> **[0:39](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-data-analysis-libraries?u=76281980&t=39)** Think visual, exploratory data analysis and storytelling.
+> **[0:39](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-data-analysis-libraries?u=76281980&t=39)** Think visual, exploratory data analysis and [[Storytelling]].
 >
-> **[0:44](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-data-analysis-libraries?u=76281980&t=44)** Statsmodels for statistics and Python.
+> **[0:44](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-data-analysis-libraries?u=76281980&t=44)** Statsmodels for [[Statistics]] and Python.
 >
 > **[0:47](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/python-data-analysis-libraries?u=76281980&t=47)** Think statistical models, test and exploration.
 >
@@ -3130,7 +3062,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (4), [[Pandas (Software)|Pandas]] (2), [[Storytelling]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Pandas (Software)|Pandas]] (2), [[Storytelling]] (1), [[Statistics]] (1)
 > **CLI Commands:** python (4)
 > **Speakers:** - [narrator] (1)
 
@@ -3139,8 +3071,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/python-for-health-sciences-and-healthcare/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3154,7 +3085,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [wuraola] (1)
 

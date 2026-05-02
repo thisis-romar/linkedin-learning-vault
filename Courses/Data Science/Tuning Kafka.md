@@ -88,8 +88,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tuning Kafka
-> [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/tuning-kafka?u=76281980)
+#### [Tuning Kafka](https://www.linkedin.com/learning/tuning-kafka/tuning-kafka?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -115,7 +114,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/tuning-kafka/tuning-kafka?u=76281980&t=66)** That's an event.
 >
-> **[1:07](https://www.linkedin.com/learning/tuning-kafka/tuning-kafka?u=76281980&t=67)** An IOT sensor picks up the temperature at a certain time and then streams that, that's an event.
+> **[1:07](https://www.linkedin.com/learning/tuning-kafka/tuning-kafka?u=76281980&t=67)** An [[IoT]] sensor picks up the temperature at a certain time and then streams that, that's an event.
 >
 > **[1:14](https://www.linkedin.com/learning/tuning-kafka/tuning-kafka?u=76281980&t=74)** The originator of an event can be any application.
 >
@@ -145,7 +144,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/tuning-kafka/tuning-kafka?u=76281980&t=151)** You might have to make one metric better at the cost of another.
 >
-> **[2:35](https://www.linkedin.com/learning/tuning-kafka/tuning-kafka?u=76281980&t=155)** Big data systems have to balance opposing goals.
+> **[2:35](https://www.linkedin.com/learning/tuning-kafka/tuning-kafka?u=76281980&t=155)** [[Big Data]] systems have to balance opposing goals.
 >
 > **[2:39](https://www.linkedin.com/learning/tuning-kafka/tuning-kafka?u=76281980&t=159)** When you configure Kafka, you'll find yourself making trade-offs between the following metrics.
 >
@@ -165,7 +164,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), application (2), [[IoT]] (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[IoT]] (1), [[Big Data]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Env Vars:** iot (1)
@@ -178,14 +177,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/prerequisites?u=76281980)
+#### [Prerequisites](https://www.linkedin.com/learning/tuning-kafka/prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/tuning-kafka/prerequisites?u=76281980&t=1)** - [Instructor] Since this is an intermediate to advanced level course, let's take a look at some of the pre-reqs you need to have to make the most of your learning.
 >
-> **[0:09](https://www.linkedin.com/learning/tuning-kafka/prerequisites?u=76281980&t=9)** Now, the basic assumption I make is that this is not your first time working with Apache Kafka, that you're familiar with the Kafka messaging service.
+> **[0:09](https://www.linkedin.com/learning/tuning-kafka/prerequisites?u=76281980&t=9)** Now, the basic assumption I make is that this is not your first time working with [[Apache Kafka]], that you're familiar with the Kafka messaging service.
 >
 > **[0:16](https://www.linkedin.com/learning/tuning-kafka/prerequisites?u=76281980&t=16)** You're familiar with basic Kafka concepts such as producers to publish messages, consumers to subscribe to topics and consume messages.
 >
@@ -195,19 +193,19 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/tuning-kafka/prerequisites?u=76281980&t=36)** Now, in addition, I make a few other assumptions.
 >
-> **[0:39](https://www.linkedin.com/learning/tuning-kafka/prerequisites?u=76281980&t=39)** I assume that you're familiar working with the Linux terminal.
+> **[0:39](https://www.linkedin.com/learning/tuning-kafka/prerequisites?u=76281980&t=39)** I assume that you're familiar working with the [[Linux]] terminal.
 >
 > **[0:43](https://www.linkedin.com/learning/tuning-kafka/prerequisites?u=76281980&t=43)** I'll be using a macOS for my demos.
 >
-> **[0:45](https://www.linkedin.com/learning/tuning-kafka/prerequisites?u=76281980&t=45)** And I also assume that you're familiar with the Python programming language, but this is only for the very last chapter.
+> **[0:45](https://www.linkedin.com/learning/tuning-kafka/prerequisites?u=76281980&t=45)** And I also assume that you're familiar with the [[Python (Programming Language)|Python]] programming language, but this is only for the very last chapter.
 >
 > **[0:51](https://www.linkedin.com/learning/tuning-kafka/prerequisites?u=76281980&t=51)** The remaining chapters, there is absolutely no Python.
 >
-> **[0:55](https://www.linkedin.com/learning/tuning-kafka/prerequisites?u=76281980&t=55)** The rest of the course is all about running shell scripts and commands on the Linux terminal.
+> **[0:55](https://www.linkedin.com/learning/tuning-kafka/prerequisites?u=76281980&t=55)** The [[Representational State Transfer (REST)|rest]] of the course is all about running shell scripts and commands on the Linux terminal.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), [[Python (Programming Language)|Python]] (2), [[Apache Kafka]] (1), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Python (Programming Language)|Python]] (2), [[Apache Kafka]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4), python (2), apache (1)
 > **Tools:** terminal (2)
 > **Code Identifiers:** macos (1)
@@ -216,8 +214,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### An overview of Kafka
-> [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/an-overview-of-kafka?u=76281980)
+#### [An overview of Kafka](https://www.linkedin.com/learning/tuning-kafka/an-overview-of-kafka?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -329,15 +326,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), parallel (2)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** make (3)
 > **Analogies:** it's like (1), just like (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - before (1)
 
-#### Producers and consumers
-> [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/producers-and-consumers?u=76281980)
+#### [Producers and consumers](https://www.linkedin.com/learning/tuning-kafka/producers-and-consumers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -407,13 +402,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), parallel (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Kafka optimization theorem
-> [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/kafka-optimization-theorem?u=76281980)
+#### [Kafka optimization theorem](https://www.linkedin.com/learning/tuning-kafka/kafka-optimization-theorem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -495,7 +488,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/tuning-kafka/kafka-optimization-theorem?u=76281980&t=242)** That's because reads and writes to partitions can be performed in parallel.
 >
-> **[4:07](https://www.linkedin.com/learning/tuning-kafka/kafka-optimization-theorem?u=76281980&t=247)** If you have a large number of partitions, that will increase the throughput of your cluster, but a very large number of partitions means more metadata processing and can degrade end-to-end latency of messages.
+> **[4:07](https://www.linkedin.com/learning/tuning-kafka/kafka-optimization-theorem?u=76281980&t=247)** If you have a large number of partitions, that will increase the throughput of your cluster, but a very large number of partitions means more [[Metadata]] processing and can degrade end-to-end latency of messages.
 >
 > **[4:20](https://www.linkedin.com/learning/tuning-kafka/kafka-optimization-theorem?u=76281980&t=260)** We've also seen that you can configure the replication factor for topics.
 >
@@ -531,7 +524,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), node (1), parallel (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (1)
 > **Env Vars:** cap (5), pacelc (3)
 > **CLI Commands:** make (2), node (1)
 > **Definitions:** is a  (3)
@@ -540,12 +533,11 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### End-to-end latency in Kafka
-> [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/end-to-end-latency-in-kafka?u=76281980)
+#### [End-to-end latency in Kafka](https://www.linkedin.com/learning/tuning-kafka/end-to-end-latency-in-kafka?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/tuning-kafka/end-to-end-latency-in-kafka?u=76281980&t=1)** - [Instructor] Let's understand the various components that make up end-to-end latency in Apache Kafka.
+> **[0:01](https://www.linkedin.com/learning/tuning-kafka/end-to-end-latency-in-kafka?u=76281980&t=1)** - [Instructor] Let's understand the various components that make up end-to-end latency in [[Apache Kafka]].
 >
 > **[0:07](https://www.linkedin.com/learning/tuning-kafka/end-to-end-latency-in-kafka?u=76281980&t=7)** Now there are five different components of this latency.
 >
@@ -561,7 +553,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/tuning-kafka/end-to-end-latency-in-kafka?u=76281980&t=46)** The time taken by the consumer catch up to the records offset in the log.
 >
-> **[0:52](https://www.linkedin.com/learning/tuning-kafka/end-to-end-latency-in-kafka?u=76281980&t=52)** And finally, the fetch time is also at the consumer end.
+> **[0:52](https://www.linkedin.com/learning/tuning-kafka/end-to-end-latency-in-kafka?u=76281980&t=52)** And finally, the [[Fetch]] time is also at the consumer end.
 >
 > **[0:55](https://www.linkedin.com/learning/tuning-kafka/end-to-end-latency-in-kafka?u=76281980&t=55)** The time taken for a consumer to fetch the record from the broker.
 >
@@ -591,15 +583,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (4), data (2), [[Apache Kafka]] (1), application (1)
+> **Frameworks & Libraries:** [[Fetch]] (4), [[Apache Kafka]] (1)
 > **CLI Commands:** make (2), apache (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install and set up Apache Kafka
-> [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/install-and-set-up-apache-kafka?u=76281980)
+#### [Install and set up Apache Kafka](https://www.linkedin.com/learning/tuning-kafka/install-and-set-up-apache-kafka?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -607,7 +598,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/tuning-kafka/install-and-set-up-apache-kafka?u=76281980&t=6)** In this movie, we are going to install and set up Kafka on our local machine.
 >
-> **[0:10](https://www.linkedin.com/learning/tuning-kafka/install-and-set-up-apache-kafka?u=76281980&t=10)** Since this is an intermediate to Advanced Kafka course it's quite possible that you already have Apache Kafka running on your machine.
+> **[0:10](https://www.linkedin.com/learning/tuning-kafka/install-and-set-up-apache-kafka?u=76281980&t=10)** Since this is an intermediate to Advanced Kafka course it's quite possible that you already have [[Apache Kafka]] running on your machine.
 >
 > **[0:17](https://www.linkedin.com/learning/tuning-kafka/install-and-set-up-apache-kafka?u=76281980&t=17)** In which case, you can simply skip ahead to the following demos.
 >
@@ -623,7 +614,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/tuning-kafka/install-and-set-up-apache-kafka?u=76281980&t=46)** Select Kafka 2.12-3.4.0.
 >
-> **[0:50](https://www.linkedin.com/learning/tuning-kafka/install-and-set-up-apache-kafka?u=76281980&t=50)** One that runs on Scala 2.12.
+> **[0:50](https://www.linkedin.com/learning/tuning-kafka/install-and-set-up-apache-kafka?u=76281980&t=50)** One that runs on [[Scala]] 2.12.
 >
 > **[0:53](https://www.linkedin.com/learning/tuning-kafka/install-and-set-up-apache-kafka?u=76281980&t=53)** Because that's what I have on my machine.
 >
@@ -681,7 +672,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Apache Kafka]] (3), next (2), [[Scala]] (1)
+> **Frameworks & Libraries:** [[Apache Kafka]] (3), [[Scala]] (1)
 > **Prerequisites:** install (5), set up (4), configure (1)
 > **Versions:** 2.12 (3), version 3 (2), 4.0 (2), 3.4.0 (2)
 > **CLI Commands:** apache (4), find (1), unzip (1), ls (1)
@@ -690,8 +681,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1), click on (1)
 > **Definitions:** is an  (1), is a  (1)
 
-#### Publish and consume messages using console scripts
-> [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/publish-and-consume-messages-using-console-scripts?u=76281980)
+#### [Publish and consume messages using console scripts](https://www.linkedin.com/learning/tuning-kafka/publish-and-consume-messages-using-console-scripts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -773,7 +763,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2)
 > **Code Identifiers:** loony_topic (6)
 > **Tools:** terminal (4)
 > **Warnings:** warning (2)
@@ -786,8 +775,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Running a Kafka cluster with three brokers
-> [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/running-a-kafka-cluster-with-three-brokers?u=76281980)
+#### [Running a Kafka cluster with three brokers](https://www.linkedin.com/learning/tuning-kafka/running-a-kafka-cluster-with-three-brokers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -913,7 +901,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (1)
 > **Tools:** terminal (4), sublime (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** configure (2), set up (1), install (1)
@@ -921,9 +908,9 @@ created: 2026-05-02
 > **Versions:** 127.0.0 (2)
 > **URLs:** [localhost:9094](https://localhost:9094) (1)
 > **Env Vars:** kafka_home (1)
+> **Definitions:** is a  (1)
 
-#### Running basic producer performance tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/running-basic-producer-performance-tests?u=76281980)
+#### [Running basic producer performance tests](https://www.linkedin.com/learning/tuning-kafka/running-basic-producer-performance-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -937,7 +924,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/tuning-kafka/running-basic-producer-performance-tests?u=76281980&t=24)** Just a heads up that the bootstrap server that you specify is the URL of one or more of the Kafka brokers that you have in your cluster.
 >
-> **[0:33](https://www.linkedin.com/learning/tuning-kafka/running-basic-producer-performance-tests?u=76281980&t=33)** This is what the script will use to fetch the initial metadata about the cluster, metadata for topics, partitions, et cetera.
+> **[0:33](https://www.linkedin.com/learning/tuning-kafka/running-basic-producer-performance-tests?u=76281980&t=33)** This is what the script will use to [[Fetch]] the initial [[Metadata]] about the cluster, metadata for topics, partitions, et cetera.
 >
 > **[0:41](https://www.linkedin.com/learning/tuning-kafka/running-basic-producer-performance-tests?u=76281980&t=41)** You may want to specify multiple broker URLs for the bootstrap server now that we have multiple brokers, but that's only needed if you're worried that one of the brokers might fail, in which case the bootstrap server will simply be one of the other brokers in your list.
 >
@@ -945,7 +932,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/tuning-kafka/running-basic-producer-performance-tests?u=76281980&t=60)** I'm choosing to use underscores here so you can ignore this warning.
 >
-> **[1:04](https://www.linkedin.com/learning/tuning-kafka/running-basic-producer-performance-tests?u=76281980&t=64)** Let's run a list command to ensure that the topic that we've created is now available, and here you can see that my Kafka cluster contains two topics the loony topic that we had created earlier, and this new topic, performance tuning.
+> **[1:04](https://www.linkedin.com/learning/tuning-kafka/running-basic-producer-performance-tests?u=76281980&t=64)** Let's run a list command to ensure that the topic that we've created is now available, and here you can see that my Kafka cluster contains two topics the loony topic that we had created earlier, and this new topic, [[Performance Tuning]].
 >
 > **[1:18](https://www.linkedin.com/learning/tuning-kafka/running-basic-producer-performance-tests?u=76281980&t=78)** Just a heads up that this performance tuning topic was created with a default number of partitions and a default replication factor, both set to one.
 >
@@ -1047,11 +1034,11 @@ created: 2026-05-02
 >
 > **[6:31](https://www.linkedin.com/learning/tuning-kafka/running-basic-producer-performance-tests?u=76281980&t=391)** We don't really need all of this information as we tune our Kafka producer.
 >
-> **[6:36](https://www.linkedin.com/learning/tuning-kafka/running-basic-producer-performance-tests?u=76281980&t=396)** For the most part, we'll just stick with the basic latency and throughput statistics.
+> **[6:36](https://www.linkedin.com/learning/tuning-kafka/running-basic-producer-performance-tests?u=76281980&t=396)** For the most part, we'll just stick with the basic latency and throughput [[Statistics]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (2), [[Performance Tuning]] (2), [[Fetch]] (1), hit (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Performance Tuning]] (2), [[Fetch]] (1), [[Statistics]] (1)
 > **Prerequisites:** install (2), configure (2), set up (1)
 > **File Paths:** kafka-producer-perf-test.sh (2), producer.config (2)
 > **Warnings:** heads up (2), warning (1)
@@ -1060,8 +1047,7 @@ created: 2026-05-02
 > **Versions:** 411.87 (1), 14.19 (1)
 > **UI Navigation:** scroll down (2)
 
-#### Effects of partitioning on producers
-> [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/effects-of-partitioning-on-producers?u=76281980)
+#### [Effects of partitioning on producers](https://www.linkedin.com/learning/tuning-kafka/effects-of-partitioning-on-producers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1145,7 +1131,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/tuning-kafka/effects-of-partitioning-on-producers?u=76281980&t=244)** Notice the topic here, partitions_10.
 >
-> **[4:08](https://www.linkedin.com/learning/tuning-kafka/effects-of-partitioning-on-producers?u=76281980&t=248)** The rest of the properties are exactly the same as in the previous test.
+> **[4:08](https://www.linkedin.com/learning/tuning-kafka/effects-of-partitioning-on-producers?u=76281980&t=248)** The [[Representational State Transfer (REST)|rest]] of the properties are exactly the same as in the previous test.
 >
 > **[4:12](https://www.linkedin.com/learning/tuning-kafka/effects-of-partitioning-on-producers?u=76281980&t=252)** Num records, record size, throughput, producer props, and producer config.
 >
@@ -1185,21 +1171,20 @@ created: 2026-05-02
 >
 > **[6:13](https://www.linkedin.com/learning/tuning-kafka/effects-of-partitioning-on-producers?u=76281980&t=373)** Just a note here, remember that too many partitions may have a negative effect on end-to-end latency.
 >
-> **[6:19](https://www.linkedin.com/learning/tuning-kafka/effects-of-partitioning-on-producers?u=76281980&t=379)** More partitions per topic lead to less batching on producers and more partitions per broker lead to more overhead per replica follower fetch request.
+> **[6:19](https://www.linkedin.com/learning/tuning-kafka/effects-of-partitioning-on-producers?u=76281980&t=379)** More partitions per topic lead to less batching on producers and more partitions per broker lead to more overhead per replica follower [[Fetch]] request.
 >
 > **[6:30](https://www.linkedin.com/learning/tuning-kafka/effects-of-partitioning-on-producers?u=76281980&t=390)** Having too many partitions may lead to large commit times on the brokers and also a high CPU load, thus resulting in more queuing delays.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (4), next (2), application (1), [[Representational State Transfer (REST)|Rest]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Fetch]] (1)
 > **Versions:** 20.67 (2), 22.04 (2), 384.24 (1), 7.19 (1), 22.39 (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** cpu (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Effects of replication on producers
-> [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/effects-of-replication-on-producers?u=76281980)
+#### [Effects of replication on producers](https://www.linkedin.com/learning/tuning-kafka/effects-of-replication-on-producers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1269,14 +1254,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Versions:** 13.56 (2), 353.99 (1), 7.49 (1), 834.05 (1), 6.07 (1)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tuning producer acks
-> [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/tuning-producer-acks?u=76281980)
+#### [Tuning producer acks](https://www.linkedin.com/learning/tuning-kafka/tuning-producer-acks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1318,7 +1301,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/tuning-kafka/tuning-producer-acks?u=76281980&t=147)** But after Kafka three, there has been a preference for durability rather than availability or low latency and the default is acks equal to all.
 >
-> **[2:36](https://www.linkedin.com/learning/tuning-kafka/tuning-producer-acks?u=76281980&t=156)** Now with this in mind, let's get rid of our old performance tuning topic that had just one partition and one replica.
+> **[2:36](https://www.linkedin.com/learning/tuning-kafka/tuning-producer-acks?u=76281980&t=156)** Now with this in mind, let's get rid of our old [[Performance Tuning]] topic that had just one partition and one replica.
 >
 > **[2:43](https://www.linkedin.com/learning/tuning-kafka/tuning-producer-acks?u=76281980&t=163)** I'm going to recreate this performance tuning topic with a replication factor of three.
 >
@@ -1346,7 +1329,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/tuning-kafka/tuning-producer-acks?u=76281980&t=226)** I've set acks equal to zero indicating that this particular producer does not need acknowledgements.
 >
-> **[3:52](https://www.linkedin.com/learning/tuning-kafka/tuning-producer-acks?u=76281980&t=232)** The rest of the producer config will be from the default producer.properties file.
+> **[3:52](https://www.linkedin.com/learning/tuning-kafka/tuning-producer-acks?u=76281980&t=232)** The [[Representational State Transfer (REST)|rest]] of the producer config will be from the default producer.properties file.
 >
 > **[3:57](https://www.linkedin.com/learning/tuning-kafka/tuning-producer-acks?u=76281980&t=237)** Remember the producer-props flag, the properties that you specify there take precedence over the property specified in the flag producer.config.
 >
@@ -1414,7 +1397,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Performance Tuning]] (5), data (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Performance Tuning]] (5), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 7.42 (2), 8.5 (1), 8.51 (1), 5.36 (1)
 > **Definitions:** basically means (1), means that (1)
 > **File Paths:** producer.config (1)
@@ -1423,8 +1406,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tuning producer compression
-> [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/tuning-producer-compression?u=76281980)
+#### [Tuning producer compression](https://www.linkedin.com/learning/tuning-kafka/tuning-producer-compression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1460,7 +1442,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/tuning-kafka/tuning-producer-compression?u=76281980&t=143)** Here are the properties I've specified.
 >
-> **[2:24](https://www.linkedin.com/learning/tuning-kafka/tuning-producer-compression?u=76281980&t=144)** The topic is performance tuning.
+> **[2:24](https://www.linkedin.com/learning/tuning-kafka/tuning-producer-compression?u=76281980&t=144)** The topic is [[Performance Tuning]].
 >
 > **[2:26](https://www.linkedin.com/learning/tuning-kafka/tuning-producer-compression?u=76281980&t=146)** Number of records, 25,000.
 >
@@ -1556,7 +1538,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Performance Tuning]] (2), next (1)
+> **Frameworks & Libraries:** [[Performance Tuning]] (2)
 > **Versions:** 7.24 (2), 7.93 (2), 54.44 (2), 7.27 (1), 7.15 (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** cpu (2)
@@ -1564,8 +1546,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tuning batch size and linger time
-> [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/tuning-batch-size-and-linger-time?u=76281980)
+#### [Tuning batch size and linger time](https://www.linkedin.com/learning/tuning-kafka/tuning-batch-size-and-linger-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1589,7 +1570,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/tuning-kafka/tuning-batch-size-and-linger-time?u=76281980&t=60)** We'll use acks equal to all.
 >
-> **[1:02](https://www.linkedin.com/learning/tuning-kafka/tuning-batch-size-and-linger-time?u=76281980&t=62)** And the rest of the configuration comes from the default producer properties file.
+> **[1:02](https://www.linkedin.com/learning/tuning-kafka/tuning-batch-size-and-linger-time?u=76281980&t=62)** And the [[Representational State Transfer (REST)|rest]] of the configuration comes from the default producer properties file.
 >
 > **[1:07](https://www.linkedin.com/learning/tuning-kafka/tuning-batch-size-and-linger-time?u=76281980&t=67)** Here you can see that our messages were sent in two batches.
 >
@@ -1689,7 +1670,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), application (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **Versions:** 4.08 (1), 0.65 (1), 5.37 (1), 8.54 (1), 7.54 (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** means that (2)
@@ -1697,8 +1678,7 @@ created: 2026-05-02
 > **Code Identifiers:** performance_tuning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Effect of message size and record count
-> [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/effect-of-message-size-and-record-count?u=76281980)
+#### [Effect of message size and record count](https://www.linkedin.com/learning/tuning-kafka/effect-of-message-size-and-record-count?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1726,7 +1706,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/tuning-kafka/effect-of-message-size-and-record-count?u=76281980&t=64)** Within the for loop, I invoke the Kafka producer perf test script file.
 >
-> **[1:09](https://www.linkedin.com/learning/tuning-kafka/effect-of-message-size-and-record-count?u=76281980&t=69)** The topic to which we'll send messages is the performance tuning topic that we've set up.
+> **[1:09](https://www.linkedin.com/learning/tuning-kafka/effect-of-message-size-and-record-count?u=76281980&t=69)** The topic to which we'll send messages is the [[Performance Tuning]] topic that we've set up.
 >
 > **[1:14](https://www.linkedin.com/learning/tuning-kafka/effect-of-message-size-and-record-count?u=76281980&t=74)** Num records, 25,000, record size is $i.
 >
@@ -1836,7 +1816,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Performance Tuning]] (1)
+> **Frameworks & Libraries:** [[Performance Tuning]] (1)
 > **Versions:** 5.62 (1), 7.43 (1), 370.79 (1), 16.93 (1), 177.5 (1)
 > **UI Navigation:** scroll up (1), scroll down (1)
 > **Definitions:** is a  (1)
@@ -1848,8 +1828,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Running a basic consumer performance test
-> [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/running-a-basic-consumer-performance-test?u=76281980)
+#### [Running a basic consumer performance test](https://www.linkedin.com/learning/tuning-kafka/running-a-basic-consumer-performance-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1877,7 +1856,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/tuning-kafka/running-a-basic-consumer-performance-test?u=76281980&t=54)** We'll tweak Consumer-related properties, run performance tests, and see how the Consumer works.
 >
-> **[1:01](https://www.linkedin.com/learning/tuning-kafka/running-a-basic-consumer-performance-test?u=76281980&t=61)** I'm going to delete this performance tuning topic that we had set up earlier.
+> **[1:01](https://www.linkedin.com/learning/tuning-kafka/running-a-basic-consumer-performance-test?u=76281980&t=61)** I'm going to delete this [[Performance Tuning]] topic that we had set up earlier.
 >
 > **[1:04](https://www.linkedin.com/learning/tuning-kafka/running-a-basic-consumer-performance-test?u=76281980&t=64)** It had a replication of three.
 >
@@ -1905,7 +1884,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/tuning-kafka/running-a-basic-consumer-performance-test?u=76281980&t=144)** The consumer.config flag will point to the Consumer properties file.
 >
-> **[2:30](https://www.linkedin.com/learning/tuning-kafka/running-a-basic-consumer-performance-test?u=76281980&t=150)** We have the fetch-size, the amount of data to fetch in a single request.
+> **[2:30](https://www.linkedin.com/learning/tuning-kafka/running-a-basic-consumer-performance-test?u=76281980&t=150)** We have the [[Fetch]]-size, the amount of data to fetch in a single request.
 >
 > **[2:34](https://www.linkedin.com/learning/tuning-kafka/running-a-basic-consumer-performance-test?u=76281980&t=154)** The group flag allows you to specify the Consumer group you want to consume from and a bunch of other details.
 >
@@ -1953,7 +1932,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Performance Tuning]] (5), data (3), [[Fetch]] (2)
+> **Frameworks & Libraries:** [[Performance Tuning]] (5), [[Fetch]] (2)
 > **Prerequisites:** setup (1), set up (1), install (1)
 > **File Paths:** consumer.config (2)
 > **CLI Commands:** find (2)
@@ -1962,8 +1941,7 @@ created: 2026-05-02
 > **Versions:** 24.5 (1)
 > **Definitions:** is a  (1)
 
-#### Tuning fetch bytes and wait time for consumers
-> [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/tuning-fetch-bytes-and-wait-time-for-consumers?u=76281980)
+#### [Tuning fetch bytes and wait time for consumers](https://www.linkedin.com/learning/tuning-kafka/tuning-fetch-bytes-and-wait-time-for-consumers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1973,7 +1951,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/tuning-kafka/tuning-fetch-bytes-and-wait-time-for-consumers?u=76281980&t=9)** That's because the consumer perf test script does not have a config props flag that you can specify on the command line that can override properties from the default consumer configuration file.
 >
-> **[0:22](https://www.linkedin.com/learning/tuning-kafka/tuning-fetch-bytes-and-wait-time-for-consumers?u=76281980&t=22)** So I'm now going to go ahead and tweak three different properties of the consumer, fetch.min.bytes, fetch.max.wait.ms, and auto.commit.interval.ms.
+> **[0:22](https://www.linkedin.com/learning/tuning-kafka/tuning-fetch-bytes-and-wait-time-for-consumers?u=76281980&t=22)** So I'm now going to go ahead and tweak three different properties of the consumer, [[Fetch]].min.bytes, fetch.max.wait.ms, and auto.commit.interval.ms.
 >
 > **[0:34](https://www.linkedin.com/learning/tuning-kafka/tuning-fetch-bytes-and-wait-time-for-consumers?u=76281980&t=34)** You should know here that the fetch.min.bytes and the fetch.max.wait in milliseconds, these properties have been set to their default values.
 >
@@ -2003,7 +1981,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/tuning-kafka/tuning-fetch-bytes-and-wait-time-for-consumers?u=76281980&t=130)** Let's switch over to our terminal window and run the consumer performance test.
 >
-> **[2:15](https://www.linkedin.com/learning/tuning-kafka/tuning-fetch-bytes-and-wait-time-for-consumers?u=76281980&t=135)** Once again, the topic is performance tuning, message is 25,000, and the consumer config properties will read from the consumer.properties file that we just updated.
+> **[2:15](https://www.linkedin.com/learning/tuning-kafka/tuning-fetch-bytes-and-wait-time-for-consumers?u=76281980&t=135)** Once again, the topic is [[Performance Tuning]], message is 25,000, and the consumer config properties will read from the consumer.properties file that we just updated.
 >
 > **[2:25](https://www.linkedin.com/learning/tuning-kafka/tuning-fetch-bytes-and-wait-time-for-consumers?u=76281980&t=145)** Let's run this and you should get values which are very similar to the baseline.
 >
@@ -2083,7 +2061,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (20), data (6), [[Performance Tuning]] (2)
+> **Frameworks & Libraries:** [[Fetch]] (20), [[Performance Tuning]] (2)
 > **Definitions:** is a  (2), means that (1), is an  (1)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** 2.5 (2)
@@ -2092,8 +2070,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tuning session timeout and heartbeat interval
-> [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/tuning-session-timeout-and-heartbeat-interval?u=76281980)
+#### [Tuning session timeout and heartbeat interval](https://www.linkedin.com/learning/tuning-kafka/tuning-session-timeout-and-heartbeat-interval?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2161,8 +2138,7 @@ created: 2026-05-02
 > **Warnings:** heads up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tuning max poll interval and max poll records
-> [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/tuning-max-poll-interval-and-max-poll-records?u=76281980)
+#### [Tuning max poll interval and max poll records](https://www.linkedin.com/learning/tuning-kafka/tuning-max-poll-interval-and-max-poll-records?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2218,7 +2194,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **CLI Commands:** make (2), find (2)
 > **Prerequisites:** configure (3), set up (1)
 > **Versions:** 0.5 (1)
@@ -2230,8 +2205,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### End-to-end latency with replication
-> [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/end-to-end-latency-with-replication?u=76281980)
+#### [End-to-end latency with replication](https://www.linkedin.com/learning/tuning-kafka/end-to-end-latency-with-replication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2275,7 +2249,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/tuning-kafka/end-to-end-latency-with-replication?u=76281980&t=117)** Now, the Kafka installation contains a very useful script that you can use the, kafka-run-class script.
 >
-> **[2:05](https://www.linkedin.com/learning/tuning-kafka/end-to-end-latency-with-replication?u=76281980&t=125)** This script allows you to execute the code present in a Java file.
+> **[2:05](https://www.linkedin.com/learning/tuning-kafka/end-to-end-latency-with-replication?u=76281980&t=125)** This script allows you to execute the code present in a [[Java]] file.
 >
 > **[2:09](https://www.linkedin.com/learning/tuning-kafka/end-to-end-latency-with-replication?u=76281980&t=129)** Either you specify the JAR file where that class is located, or you can specify the name of the main class.
 >
@@ -2305,11 +2279,11 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/tuning-kafka/end-to-end-latency-with-replication?u=76281980&t=206)** Set up the broker two that is server-1.properties, that's the name of the file, and then set up the third broker by running kafka-server-start on server-2.properties.
 >
-> **[3:38](https://www.linkedin.com/learning/tuning-kafka/end-to-end-latency-with-replication?u=76281980&t=218)** Now my Apache Kafka cluster has three brokers running, which means I can configure a replication factor for my topic.
+> **[3:38](https://www.linkedin.com/learning/tuning-kafka/end-to-end-latency-with-replication?u=76281980&t=218)** Now my [[Apache Kafka]] cluster has three brokers running, which means I can configure a replication factor for my topic.
 >
 > **[3:48](https://www.linkedin.com/learning/tuning-kafka/end-to-end-latency-with-replication?u=76281980&t=228)** Now the topic has already been created.
 >
-> **[3:49](https://www.linkedin.com/learning/tuning-kafka/end-to-end-latency-with-replication?u=76281980&t=229)** I'll need to alter the topic in order to change its replication factor and I'm going to do that using a JSON configuration file.
+> **[3:49](https://www.linkedin.com/learning/tuning-kafka/end-to-end-latency-with-replication?u=76281980&t=229)** I'll need to alter the topic in order to change its replication factor and I'm going to do that using a [[JSON]] configuration file.
 >
 > **[3:57](https://www.linkedin.com/learning/tuning-kafka/end-to-end-latency-with-replication?u=76281980&t=237)** I'm going to make a new sub folder called topic_config in my KAFKA_HOME folder.
 >
@@ -2358,8 +2332,7 @@ created: 2026-05-02
 > **Versions:** 1.63 (1), 2.27 (1)
 > **Tools:** terminal (2)
 
-#### Tuning throughput
-> [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/tuning-throughput?u=76281980)
+#### [Tuning throughput](https://www.linkedin.com/learning/tuning-kafka/tuning-throughput?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2480,8 +2453,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 
-#### Tuning log retention
-> [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/tuning-log-retention?u=76281980)
+#### [Tuning log retention](https://www.linkedin.com/learning/tuning-kafka/tuning-log-retention?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2555,7 +2527,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Prerequisites:** configure (2), you'll need (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -2565,12 +2536,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Producer performance testing using Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/producer-performance-testing-using-python?u=76281980)
+#### [Producer performance testing using Python](https://www.linkedin.com/learning/tuning-kafka/producer-performance-testing-using-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/tuning-kafka/producer-performance-testing-using-python?u=76281980&t=1)** - [Instructor] So far, we've been running all of our performance tests for the producer as well as for the consumer using console scripts that the Kafka installation gives us by default, but you can write your own code in Python or some other programming language to run these performance tests as well, and that's what we'll do in this demo.
+> **[0:01](https://www.linkedin.com/learning/tuning-kafka/producer-performance-testing-using-python?u=76281980&t=1)** - [Instructor] So far, we've been running all of our performance tests for the producer as well as for the consumer using console scripts that the Kafka installation gives us by default, but you can write your own code in [[Python (Programming Language)|Python]] or some other programming language to run these performance tests as well, and that's what we'll do in this demo.
 >
 > **[0:19](https://www.linkedin.com/learning/tuning-kafka/producer-performance-testing-using-python?u=76281980&t=19)** We'll run some tests for the producer, writing our own custom Python code.
 >
@@ -2658,7 +2628,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Programming]] (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12)
 > **CLI Commands:** python (12), pip (2), make (2), ls (1)
 > **Code Identifiers:** producer_perf_testing (3), perf_tests (1), consumer_perf_testing (1)
 > **Versions:** 3.9.13 (1), 3.7 (1), 1.07 (1), 71.02 (1), 1.34 (1)
@@ -2667,12 +2637,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **File Paths:** producer_perf_testing.py (1)
 
-#### Consumer perf testing using Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/consumer-perf-testing-using-python?u=76281980)
+#### [Consumer perf testing using Python](https://www.linkedin.com/learning/tuning-kafka/consumer-perf-testing-using-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/tuning-kafka/consumer-perf-testing-using-python?u=76281980&t=1)** - [Instructor] Just like we ran tests for producers using Python, we can also test consumers using Python once again.
+> **[0:01](https://www.linkedin.com/learning/tuning-kafka/consumer-perf-testing-using-python?u=76281980&t=1)** - [Instructor] Just like we ran tests for producers using [[Python (Programming Language)|Python]], we can also test consumers using Python once again.
 >
 > **[0:08](https://www.linkedin.com/learning/tuning-kafka/consumer-perf-testing-using-python?u=76281980&t=8)** Let's create a new topic for this using Kafka Topics.
 >
@@ -2738,7 +2707,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **Code Identifiers:** consumer_perf_tests (3), consumer_perf_testing (2), run_test (2), bootstrap_servers (1), n_messages (1)
 > **CLI Commands:** python (3)
 > **Versions:** 18.24 (1), 0.63 (1)
@@ -2752,8 +2721,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/tuning-kafka/summary-and-next-steps?u=76281980)
+#### [Summary and next steps](https://www.linkedin.com/learning/tuning-kafka/summary-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2765,13 +2733,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/tuning-kafka/summary-and-next-steps?u=76281980&t=18)** We then saw what properties we could use to tune Kafka producers, consumers, and Kafka brokers.
 >
-> **[0:26](https://www.linkedin.com/learning/tuning-kafka/summary-and-next-steps?u=76281980&t=26)** And finally, we saw how we could measure performance in Apache Kafka using Python.
+> **[0:26](https://www.linkedin.com/learning/tuning-kafka/summary-and-next-steps?u=76281980&t=26)** And finally, we saw how we could measure performance in [[Apache Kafka]] using [[Python (Programming Language)|Python]].
 >
 > **[0:32](https://www.linkedin.com/learning/tuning-kafka/summary-and-next-steps?u=76281980&t=32)** This brings us to the very end of this course.
 >
-> **[0:34](https://www.linkedin.com/learning/tuning-kafka/summary-and-next-steps?u=76281980&t=34)** If you're interested in big data processing here are some other courses on LinkedIn Learning that you could watch.
+> **[0:34](https://www.linkedin.com/learning/tuning-kafka/summary-and-next-steps?u=76281980&t=34)** If you're interested in [[Big Data]] processing here are some other courses on [[LinkedIn]] Learning that you could watch.
 >
-> **[0:40](https://www.linkedin.com/learning/tuning-kafka/summary-and-next-steps?u=76281980&t=40)** [[Apache Spark Essential Training- Big Data Engineering]], Deploying and Running Apache Kafka on Kubernetes, or Stream Processing Design Patterns with Kafka Streams.
+> **[0:40](https://www.linkedin.com/learning/tuning-kafka/summary-and-next-steps?u=76281980&t=40)** [[[[Apache Spark]] Essential Training- Big Data Engineering]], Deploying and Running Apache Kafka on [[Kubernetes]], or Stream Processing [[Design Patterns]] with Kafka Streams.
 >
 > **[0:51](https://www.linkedin.com/learning/tuning-kafka/summary-and-next-steps?u=76281980&t=51)** It's time for me to say goodbye.
 >

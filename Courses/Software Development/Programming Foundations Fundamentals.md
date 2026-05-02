@@ -109,8 +109,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The fundamentals of programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/the-fundamentals-of-programming?u=76281980)
+#### [The fundamentals of programming](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/the-fundamentals-of-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -126,22 +125,21 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/the-fundamentals-of-programming?u=76281980&t=38)** I'm Annyce Davis, and I've worked in the software industry for over a decade, and programming is one of my favorite things to do.
 >
-> **[0:45](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/the-fundamentals-of-programming?u=76281980&t=45)** I also love to share what I know with others, so I'm really excited to help you master the fundamentals of programming here, on LinkedIn Learning.
+> **[0:45](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/the-fundamentals-of-programming?u=76281980&t=45)** I also love to share what I know with others, so I'm really excited to help you master the fundamentals of programming here, on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (5), career (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Env Vars:** stem (1)
 > **Speakers:** - now (1)
 
-#### Following along with the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/following-along-with-the-course?u=76281980)
+#### [Following along with the course](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/following-along-with-the-course?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/following-along-with-the-course?u=76281980&t=0)** - Throughout the course I'll be using a Mac computer but it's not a requirement that you do the same.
 >
-> **[0:06](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/following-along-with-the-course?u=76281980&t=6)** You can follow along using Windows or Linux as well.
+> **[0:06](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/following-along-with-the-course?u=76281980&t=6)** You can follow along using [[Windows]] or [[Linux]] as well.
 >
 > **[0:10](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/following-along-with-the-course?u=76281980&t=10)** Just make sure you feel comfortable downloading software and working with the file system.
 >
@@ -188,8 +186,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is programming?
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/what-is-programming?u=76281980)
+#### [What is programming?](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/what-is-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -251,14 +248,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (6), product (1)
 > **Analogies:** just like (3), picture (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - what (1)
 
-#### What is a programming language?
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/what-is-a-programming-language?u=76281980)
+#### [What is a programming language?](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/what-is-a-programming-language?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -300,7 +295,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/what-is-a-programming-language?u=76281980&t=98)** Let's look at a few more examples.
 >
-> **[1:41](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/what-is-a-programming-language?u=76281980&t=101)** This language is called JavaScript.
+> **[1:41](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/what-is-a-programming-language?u=76281980&t=101)** This language is called [[JavaScript]].
 >
 > **[1:43](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/what-is-a-programming-language?u=76281980&t=103)** It's a very popular language used in virtually every website these days.
 >
@@ -314,7 +309,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/what-is-a-programming-language?u=76281980&t=122)** Instead, we see something about document.write.
 >
-> **[2:07](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/what-is-a-programming-language?u=76281980&t=127)** And finally, here's Hello, world in Python.
+> **[2:07](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/what-is-a-programming-language?u=76281980&t=127)** And finally, here's Hello, world in [[Python (Programming Language)|Python]].
 >
 > **[2:11](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/what-is-a-programming-language?u=76281980&t=131)** Similar syntax to JavaScript, but now we don't see any parentheses, and the use of double quotes has returned, just like we saw with C++.
 >
@@ -340,7 +335,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (7), [[JavaScript]] (3), [[Python (Programming Language)|Python]] (1), strengths (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** dna (2)
 > **Tools:** atom (2)
 > **Analogies:** just like (1), imagine (1)
@@ -348,8 +343,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - when (1)
 
-#### Writing source code
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/writing-source-code?u=76281980)
+#### [Writing source code](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/writing-source-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -361,7 +355,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/writing-source-code?u=76281980&t=14)** It's mostly just the actual characters.
 >
-> **[0:17](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/writing-source-code?u=76281980&t=17)** This means that word processing applications aren't suitable for writing code, because by default, they insert bits of information in files that prevent them from being plain text.
+> **[0:17](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/writing-source-code?u=76281980&t=17)** This means that [[Microsoft Word|word]] processing applications aren't suitable for writing code, because by default, they insert bits of information in files that prevent them from being plain text.
 >
 > **[0:28](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/writing-source-code?u=76281980&t=28)** Instead, you can use a text editor.
 >
@@ -403,9 +397,9 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/writing-source-code?u=76281980&t=107)** So let's start off by doing our favorite program, Hello World.
 >
-> **[1:51](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/writing-source-code?u=76281980&t=111)** We're going to do the Python version.
+> **[1:51](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/writing-source-code?u=76281980&t=111)** We're going to do the [[Python (Programming Language)|Python]] version.
 >
-> **[1:53](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/writing-source-code?u=76281980&t=113)** Let me zoom in a bit so you can see what I'm doing.
+> **[1:53](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/writing-source-code?u=76281980&t=113)** Let me [[Zoom]] in a bit so you can see what I'm doing.
 >
 > **[1:56](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/writing-source-code?u=76281980&t=116)** I'm going to type print, open parentheses, double quotes, hello world, exclamation mark, double quotes, and a closing parentheses.
 >
@@ -433,7 +427,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/writing-source-code?u=76281980&t=172)** Each programming language has it's own file extensions.
 >
-> **[2:55](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/writing-source-code?u=76281980&t=175)** For JavaScript, it's .js, Perl, .pl, whereas a language like Kotlin uses .kt.
+> **[2:55](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/writing-source-code?u=76281980&t=175)** For [[JavaScript]], it's .js, Perl, .pl, whereas a language like [[Kotlin]] uses .kt.
 >
 > **[3:03](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/writing-source-code?u=76281980&t=183)** Now that we know how to write our code, we need to learn how to translate it into the language that the computer speaks.
 >
@@ -443,7 +437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (2), [[Microsoft Word|Word]] (1), [[Zoom]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Word|Word]] (1), [[Zoom]] (1), [[JavaScript]] (1), [[Kotlin]] (1)
 > **CLI Commands:** python (3), make (2)
 > **Exercise Files:** source code (5)
 > **Definitions:** in other words (1), means that (1), is a  (1)
@@ -451,12 +445,11 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - writing (1)
 
-#### Running your code
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-your-code?u=76281980)
+#### [Running your code](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-your-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-your-code?u=76281980&t=0)** - If we were to double click our Python file, it would just open in an editor, but it wouldn't do anything with the code that we put inside.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-your-code?u=76281980&t=0)** - If we were to double click our [[Python (Programming Language)|Python]] file, it would just open in an editor, but it wouldn't do anything with the code that we put inside.
 >
 > **[0:08](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-your-code?u=76281980&t=8)** Why is that?
 >
@@ -494,9 +487,9 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-your-code?u=76281980&t=111)** They perform complex functions that help to optimize the size, speed, and security of your source code, but it helps to convey the general idea of how they differ.
 >
-> **[2:03](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-your-code?u=76281980&t=123)** Typically, languages like C, C++, and Objective-C are known as compiled languages, whereas PHP and JavaScript are known as interpretive languages.
+> **[2:03](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-your-code?u=76281980&t=123)** Typically, languages like C, C++, and Objective-C are known as compiled languages, whereas [[PHP]] and [[JavaScript]] are known as interpretive languages.
 >
-> **[2:16](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-your-code?u=76281980&t=136)** And finally, Java, C# and Python use the combination approach.
+> **[2:16](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-your-code?u=76281980&t=136)** And finally, [[Java]], C# and Python use the combination approach.
 >
 > **[2:23](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-your-code?u=76281980&t=143)** Nowadays, the line between compiling and interpreting is a bit blurry, as many languages have some variants of both.
 >
@@ -504,7 +497,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (1), [[Security]] (1), [[PHP]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[PHP]] (1), [[JavaScript]] (1), [[Java]] (1)
 > **CLI Commands:** python (3), php (1)
 > **Exercise Files:** source code (4)
 > **Definitions:** known as (2), is an  (1), is a  (1)
@@ -512,8 +505,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - if (1)
 
-#### Using an IDE
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980)
+#### [Using an IDE](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -525,7 +517,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=19)** When you want to write a letter, an essay, or a resume what tool would you use?
 >
-> **[0:24](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=24)** You'd probably use a word processor such as Microsoft Word, or Google Docs.
+> **[0:24](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=24)** You'd probably use a [[Microsoft Word|word]] processor such as [[Microsoft Word]], or [[Google]] Docs.
 >
 > **[0:30](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=30)** They have special tools that help you check grammar, spelling, and add nice formatting.
 >
@@ -537,9 +529,9 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=50)** Don't worry about downloading anything right now, we're just going to check them out together.
 >
-> **[0:55](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=55)** We'll start with Xcode.
+> **[0:55](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=55)** We'll start with [[Xcode]].
 >
-> **[0:57](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=57)** Xcode is used to develop applications for Apple products, like the iPhone, iPad, or Mac.
+> **[0:57](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=57)** Xcode is used to develop applications for Apple [[Microsoft Products|products]], like the iPhone, iPad, or Mac.
 >
 > **[1:03](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=63)** Right away you can see a difference between our simple text editor and a more sophisticated IDE.
 >
@@ -555,7 +547,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=100)** Now although Xcode is really nice, let's look at one more example, Visual Studio Code.
 >
-> **[1:46](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=106)** Visual Studio Code, or VS Code for short, is a more lightweight editor than Xcode and it was initially designed for scripting languages, such as JavaScript and TypeScript.
+> **[1:46](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=106)** Visual Studio Code, or VS Code for short, is a more lightweight editor than Xcode and it was initially designed for scripting languages, such as [[JavaScript]] and TypeScript.
 >
 > **[1:57](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=117)** However, it gradually came to support many more languages through powerful extensions.
 >
@@ -565,15 +557,15 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=131)** This allows you to get code suggestions while you're typing.
 >
-> **[2:15](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=135)** It works a lot like auto-complete, when you're sending a text or when you search in Google and it guesses the rest of the phrase you're typing.
+> **[2:15](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=135)** It works a lot like auto-complete, when you're sending a text or when you search in Google and it guesses the [[Representational State Transfer (REST)|rest]] of the phrase you're typing.
 >
-> **[2:23](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=143)** And unlike a simple text editor, we can actually run our Python code from within the IDE.
+> **[2:23](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=143)** And unlike a simple text editor, we can actually run our [[Python (Programming Language)|Python]] code from within the IDE.
 >
 > **[2:29](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=149)** It's really cool.
 >
 > **[2:31](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=151)** And there are many more IDEs out there.
 >
-> **[2:34](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=154)** My favorite is Android Studio, as I spend a lots of time creating Android applications.
+> **[2:34](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=154)** My favorite is [[Android]] Studio, as I spend a lots of time creating Android applications.
 >
 > **[2:40](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=160)** But when I'm working on an application written in Ruby I turn to RubyMine, as it's tailored for the Ruby language.
 >
@@ -583,13 +575,13 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=181)** Then get ready to pull up a chair.
 >
-> **[3:04](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=184)** IDEs can ease the burden of software development by providing tools to help you write, debug, and run your source code more easily.
+> **[3:04](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=184)** IDEs can ease the burden of [[Software Development]] by providing tools to help you write, debug, and run your source code more easily.
 >
 > **[3:13](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/using-an-ide?u=76281980&t=193)** Ultimately, it's up to you to find one that meets your needs, and you don't mind using it for hours a day.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (4), [[Google]] (2), application (2), [[Android]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Xcode]] (4), [[Google]] (2), [[Android]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Word]] (1)
 > **Env Vars:** ide (6)
 > **CLI Commands:** find (2), ruby (2), python (1)
 > **Definitions:** is an  (1), known as (1), is a  (1), is called (1)
@@ -603,8 +595,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why Python?
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/why-python?u=76281980)
+#### [Why Python?](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/why-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -612,7 +603,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/why-python?u=76281980&t=4)** It needed to be popular and easy to learn.
 >
-> **[0:07](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/why-python?u=76281980&t=7)** As far as being popular, right now, the top five programming languages are Java, Python, JavaScript, C++ and C#.
+> **[0:07](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/why-python?u=76281980&t=7)** As far as being popular, right now, the top five programming languages are [[Java]], [[Python (Programming Language)|Python]], [[JavaScript]], C++ and C#.
 >
 > **[0:18](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/why-python?u=76281980&t=18)** That narrowed down the list considerably.
 >
@@ -632,7 +623,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/why-python?u=76281980&t=64)** You can use Python to create web apps, internal company tools, perform scientific analysis, as well as create games.
 >
-> **[1:12](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/why-python?u=76281980&t=72)** The Python language has been around for decades, and it's available on multiple platforms including Mac, Windows, Linux and more.
+> **[1:12](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/why-python?u=76281980&t=72)** The Python language has been around for decades, and it's available on multiple platforms including Mac, [[Windows]], [[Linux]] and more.
 >
 > **[1:21](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/why-python?u=76281980&t=81)** It's a great choice for exploring the various concepts that we're going to cover.
 >
@@ -654,20 +645,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[JavaScript]] (4), web (2), [[Programming]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[JavaScript]] (4), [[Java]] (1), [[Windows]] (1), [[Linux]] (1)
 > **CLI Commands:** python (10)
 > **Speakers:** - when (1)
 
-#### Installing Python on a Mac
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-python-on-a-mac?u=76281980)
+#### [Installing Python on a Mac](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-python-on-a-mac?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-python-on-a-mac?u=76281980&t=0)** - If you're using a Mac computer, getting Python setup is very easy.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-python-on-a-mac?u=76281980&t=0)** - If you're using a Mac computer, getting [[Python (Programming Language)|Python]] setup is very easy.
 >
 > **[0:05](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-python-on-a-mac?u=76281980&t=5)** The Mac operating system ships with the version of Python already installed.
 >
-> **[0:10](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-python-on-a-mac?u=76281980&t=10)** If you're using Windows, please skip to the next video, as I'll walk you through how to get set up.
+> **[0:10](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-python-on-a-mac?u=76281980&t=10)** If you're using [[Windows]], please skip to the next video, as I'll walk you through how to get set up.
 >
 > **[0:17](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-python-on-a-mac?u=76281980&t=17)** To check what version of Python is installed, we're going to open a Terminal window.
 >
@@ -685,7 +675,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-python-on-a-mac?u=76281980&t=59)** To do that, we're going to type Python, all in lowercase letters, and then hit Enter.
 >
-> **[1:05](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-python-on-a-mac?u=76281980&t=65)** Let me go ahead and zoom in a bit so you can see what I'm doing.
+> **[1:05](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-python-on-a-mac?u=76281980&t=65)** Let me go ahead and [[Zoom]] in a bit so you can see what I'm doing.
 >
 > **[1:09](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-python-on-a-mac?u=76281980&t=69)** The first thing you notice is that it prints out the version of Python that we're running on the machine.
 >
@@ -749,7 +739,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (22), [[Windows]] (2), [[Programming]] (2), next (1), application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (22), [[Windows]] (2), [[Zoom]] (1)
 > **CLI Commands:** python (22), make (1)
 > **Tools:** terminal (7)
 > **UI Navigation:** go to (2), click on (1)
@@ -758,12 +748,11 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Definitions:** is an  (1)
 
-#### Installing Python on Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-python-on-windows?u=76281980)
+#### [Installing Python on Windows](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-python-on-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-python-on-windows?u=76281980&t=0)** - To install Python on your Windows machine you need to go to [python.org](https://python.org), let's do that now.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-python-on-windows?u=76281980&t=0)** - To install [[Python (Programming Language)|Python]] on your [[Windows]] machine you need to go to [python.org](https://python.org), let's do that now.
 >
 > **[0:08](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-python-on-windows?u=76281980&t=8)** From here go to the downloads tab and then we're going to choose download python three dot seven dot three.
 >
@@ -793,19 +782,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Windows]] (1), prompt (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Windows]] (1)
 > **CLI Commands:** python (10), make (1)
 > **UI Navigation:** go to (2), click on (2), checkbox (1)
 > **Prerequisites:** install (2), setup (1)
 > **URLs:** [python.org](https://python.org) (1)
 > **Speakers:** - to (1)
 
-#### Running Python on the command line on Mac
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-on-the-command-line-on-mac?u=76281980)
+#### [Running Python on the command line on Mac](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-on-the-command-line-on-mac?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-on-the-command-line-on-mac?u=76281980&t=0)** - One way to execute or run your Python code is by using the command line.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-on-the-command-line-on-mac?u=76281980&t=0)** - One way to execute or run your [[Python (Programming Language)|Python]] code is by using the command line.
 >
 > **[0:05](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-on-the-command-line-on-mac?u=76281980&t=5)** Let's open up Terminal and try out a few commands.
 >
@@ -873,7 +861,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-on-the-command-line-on-mac?u=76281980&t=147)** Now if we hit enter, let's go ahead and make sure we're in the proper directory.
 >
-> **[2:31](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-on-the-command-line-on-mac?u=76281980&t=151)** We'll do that using the LS, or short for list command, which is available on Mac and Linux, and there you have it, we see our Python file.
+> **[2:31](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-on-the-command-line-on-mac?u=76281980&t=151)** We'll do that using the LS, or short for list command, which is available on Mac and [[Linux]], and there you have it, we see our Python file.
 >
 > **[2:41](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-on-the-command-line-on-mac?u=76281980&t=161)** To run it, we're going to use the Python three command with a space, and then the name of our file 01_03.py.
 >
@@ -885,7 +873,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), prompt (3), [[Programming]] (2), cd (1), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Linux]] (1)
 > **CLI Commands:** python (12), make (2), cd (1), ls (1)
 > **Tools:** command line (4), terminal (1)
 > **Definitions:** refers to (1), is a  (1), short for (1)
@@ -894,16 +882,15 @@ created: 2026-05-02
 > **Env Vars:** ide (1)
 > **UI Navigation:** go to (1)
 
-#### Running Python on the command line on Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-on-the-command-line-on-windows?u=76281980)
+#### [Running Python on the command line on Windows](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-on-the-command-line-on-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-on-the-command-line-on-windows?u=76281980&t=0)** - [Instructor] One way to execute or run your Python code is by using the command line.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-on-the-command-line-on-windows?u=76281980&t=0)** - [Instructor] One way to execute or run your [[Python (Programming Language)|Python]] code is by using the command line.
 >
 > **[0:05](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-on-the-command-line-on-windows?u=76281980&t=5)** I'll be referring to it as the terminal or command line throughout this course.
 >
-> **[0:09](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-on-the-command-line-on-windows?u=76281980&t=9)** You can access it on your Windows machine by going to the Start menu and then navigating to the Python folder.
+> **[0:09](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-on-the-command-line-on-windows?u=76281980&t=9)** You can access it on your [[Windows]] machine by going to the Start menu and then navigating to the Python folder.
 >
 > **[0:21](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-on-the-command-line-on-windows?u=76281980&t=21)** When you get to the dropdown, choose Python 64 bit.
 >
@@ -973,7 +960,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-on-the-command-line-on-windows?u=76281980&t=176)** First, I said it's on the Desktop.
 >
-> **[2:59](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-on-the-command-line-on-windows?u=76281980&t=179)** I'll choose the Programming Foundations folder.
+> **[2:59](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-on-the-command-line-on-windows?u=76281980&t=179)** I'll choose the [[Programming Foundations]] folder.
 >
 > **[3:01](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-on-the-command-line-on-windows?u=76281980&t=181)** Then Exercise Files, and I want the file that's inside of chapter 01.
 >
@@ -997,7 +984,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (15), prompt (5), hit (4), [[Programming]] (3), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (15), [[Windows]] (2), [[Programming Foundations]] (1)
 > **CLI Commands:** python (15), make (1), cd (1), find (1)
 > **Tools:** command line (3), command prompt (2), terminal (1)
 > **File Paths:** 01_03.py (3)
@@ -1006,8 +993,7 @@ created: 2026-05-02
 > **Definitions:** refers to (1), stands for (1)
 > **Env Vars:** ide (1)
 
-#### Installing Visual Studio Code on a Mac
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-visual-studio-code-on-a-mac?u=76281980)
+#### [Installing Visual Studio Code on a Mac](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-visual-studio-code-on-a-mac?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1019,7 +1005,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-visual-studio-code-on-a-mac?u=76281980&t=17)** I'll be showing you the setup for the Mac operating system in this video.
 >
-> **[0:21](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-visual-studio-code-on-a-mac?u=76281980&t=21)** If you're using a Windows machine, please skip to the next video.
+> **[0:21](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-visual-studio-code-on-a-mac?u=76281980&t=21)** If you're using a [[Windows]] machine, please skip to the next video.
 >
 > **[0:26](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-visual-studio-code-on-a-mac?u=76281980&t=26)** So the first thing we're going to do is come to code.[visualstudio.com](https://visualstudio.com).
 >
@@ -1051,7 +1037,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-visual-studio-code-on-a-mac?u=76281980&t=117)** Great.
 >
-> **[1:58](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-visual-studio-code-on-a-mac?u=76281980&t=118)** In order to work with Python inside of Visual Studio Code, we need to use a Python extension.
+> **[1:58](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-visual-studio-code-on-a-mac?u=76281980&t=118)** In order to work with [[Python (Programming Language)|Python]] inside of Visual Studio Code, we need to use a Python extension.
 >
 > **[2:05](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-visual-studio-code-on-a-mac?u=76281980&t=125)** So the first thing we're going to do is go to Tools and Languages.
 >
@@ -1095,7 +1081,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Debugging]] (2), cross-platform (1), [[Windows]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Windows]] (1)
 > **Tools:** visual studio (6), vs code (4)
 > **CLI Commands:** python (7)
 > **UI Navigation:** go to (2), click on (2)
@@ -1104,14 +1090,13 @@ created: 2026-05-02
 > **Exercise Files:** zip file (1), source code (1)
 > **Definitions:** is a  (1), is an  (1)
 
-#### Installing Visual Studio Code on Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-visual-studio-code-on-windows?u=76281980)
+#### [Installing Visual Studio Code on Windows](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-visual-studio-code-on-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-visual-studio-code-on-windows?u=76281980&t=0)** - To get started, we'll open up the VS Code webpage.
 >
-> **[0:05](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-visual-studio-code-on-windows?u=76281980&t=5)** Once you're here, you want to choose download for Windows.
+> **[0:05](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-visual-studio-code-on-windows?u=76281980&t=5)** Once you're here, you want to choose download for [[Windows]].
 >
 > **[0:13](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-visual-studio-code-on-windows?u=76281980&t=13)** Once it's downloaded, let's click on the executable in order to launch the installation flow.
 >
@@ -1141,7 +1126,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-visual-studio-code-on-windows?u=76281980&t=111)** Let's escape it by just clicking on the overlay.
 >
-> **[1:55](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-visual-studio-code-on-windows?u=76281980&t=115)** The next thing we want to do to get this ready to work with Python is to go to the customize pane and choose tools and languages.
+> **[1:55](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-visual-studio-code-on-windows?u=76281980&t=115)** The next thing we want to do to get this ready to work with [[Python (Programming Language)|Python]] is to go to the customize pane and choose tools and languages.
 >
 > **[2:05](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/installing-visual-studio-code-on-windows?u=76281980&t=125)** This is going to open up the extension pane on the left side, and one of the options is Python.
 >
@@ -1175,7 +1160,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), next (4), [[Windows]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Windows]] (1)
 > **CLI Commands:** python (9), make (3), find (1)
 > **Tools:** vs code (3), visual studio (2)
 > **UI Navigation:** click on (3), go to (1), dropdown (1)
@@ -1184,12 +1169,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1), source code (1)
 > **Prerequisites:** install (2)
 
-#### Running Python in an IDE
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-in-an-ide?u=76281980)
+#### [Running Python in an IDE](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-in-an-ide?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-in-an-ide?u=76281980&t=0)** - Let's take a look at a few ways we can run our Python programs in VS Code.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-in-an-ide?u=76281980&t=0)** - Let's take a look at a few ways we can run our [[Python (Programming Language)|Python]] programs in VS Code.
 >
 > **[0:07](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-in-an-ide?u=76281980&t=7)** Let's go ahead and open up our Exercise Files folder.
 >
@@ -1199,7 +1183,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-in-an-ide?u=76281980&t=33)** You don't have to worry about changing anything here for the course.
 >
-> **[0:36](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-in-an-ide?u=76281980&t=36)** This is just a special folder created by VS Code in order to store some metadata.
+> **[0:36](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-in-an-ide?u=76281980&t=36)** This is just a special folder created by VS Code in order to store some [[Metadata]].
 >
 > **[0:41](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-in-an-ide?u=76281980&t=41)** Let's go ahead and open up one of the files.
 >
@@ -1223,7 +1207,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-in-an-ide?u=76281980&t=84)** This is how we can point out special key words or various objects inside of our programs.
 >
-> **[1:31](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-in-an-ide?u=76281980&t=91)** For example, the print key word is yellow, whereas the hello world is orange, but how did VS Code know to choose the colors for the Python programming language?
+> **[1:31](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-in-an-ide?u=76281980&t=91)** For example, the print key [[Microsoft Word|word]] is yellow, whereas the hello world is orange, but how did VS Code know to choose the colors for the Python programming language?
 >
 > **[1:45](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/running-python-in-an-ide?u=76281980&t=105)** Well it's based on the fact that we're using the .py file extension.
 >
@@ -1273,7 +1257,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Metadata]] (1), [[Microsoft Word|Word]] (1), [[Programming]] (1), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Metadata]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (10), find (1)
 > **Tools:** vs code (4), terminal (3), command line (1)
 > **UI Navigation:** right-click (2), click on (1), open the (1), go to (1)
@@ -1282,8 +1266,7 @@ created: 2026-05-02
 > **Definitions:** we call this (2)
 > **Env Vars:** ide (1)
 
-#### Basic statements and expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/basic-statements-and-expressions?u=76281980)
+#### [Basic statements and expressions](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/basic-statements-and-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1365,15 +1348,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4)
 > **Definitions:** known as (2), stands for (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** pemdas (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - you (1)
 
-#### Troubleshooting issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/troubleshooting-issues?u=76281980)
+#### [Troubleshooting issues](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/troubleshooting-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1395,7 +1376,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/troubleshooting-issues?u=76281980&t=52)** Let's look at an example of each type of error.
 >
-> **[0:55](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/troubleshooting-issues?u=76281980&t=55)** We'll go to the command line and start our Python Shell.
+> **[0:55](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/troubleshooting-issues?u=76281980&t=55)** We'll go to the command line and start our [[Python (Programming Language)|Python]] Shell.
 >
 > **[1:04](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/troubleshooting-issues?u=76281980&t=64)** We'll start out by typing print, and then hello world.
 >
@@ -1467,7 +1448,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), next (2), hit (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4), find (2), make (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (2)
@@ -1481,8 +1462,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to variables and data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-variables-and-data-types?u=76281980)
+#### [Introduction to variables and data types](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-variables-and-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1490,7 +1470,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-variables-and-data-types?u=76281980&t=4)** If we're making a game, we need to store the user's score.
 >
-> **[0:08](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-variables-and-data-types?u=76281980&t=8)** If we're creating a banking application, we'll need to have their current balance and so forth.
+> **[0:08](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-variables-and-data-types?u=76281980&t=8)** If we're creating a [[Banking]] application, we'll need to have their current balance and so forth.
 >
 > **[0:13](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-variables-and-data-types?u=76281980&t=13)** We've already seen a few variables in the course so far, but now we're going to go into more detail about what they are and how they work.
 >
@@ -1502,7 +1482,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-variables-and-data-types?u=76281980&t=39)** Much like how we label jars in our kitchen so we know where to go for our favorite cookies.
 >
-> **[0:44](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-variables-and-data-types?u=76281980&t=44)** We declare variables in Python by giving them a name and then setting their value.
+> **[0:44](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-variables-and-data-types?u=76281980&t=44)** We declare variables in [[Python (Programming Language)|Python]] by giving them a name and then setting their value.
 >
 > **[0:50](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-variables-and-data-types?u=76281980&t=50)** This is called assigning the value.
 >
@@ -1526,7 +1506,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-variables-and-data-types?u=76281980&t=106)** This time, we've created a variable named email address, and we've assigned it to the following value.
 >
-> **[1:53](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-variables-and-data-types?u=76281980&t=113)** John.doe@[example.com](https://example.com).
+> **[1:53](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-variables-and-data-types?u=76281980&t=113)** [[John the Ripper|John]].doe@[example.com](https://example.com).
 >
 > **[1:57](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-variables-and-data-types?u=76281980&t=117)** If we run this program, we can see that the values of our variables are printed out.
 >
@@ -1562,7 +1542,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (3), game (1), [[Banking]] (1), application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Banking]] (1), [[John the Ripper|John]] (1)
 > **Definitions:** is called (3), short for (2), means that (1), is an  (1), is a  (1)
 > **CLI Commands:** python (3)
 > **Env Vars:** int (1), str (1)
@@ -1570,14 +1550,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - writing (1)
 
-#### Variables across languages
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/variables-across-languages?u=76281980)
+#### [Variables across languages](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/variables-across-languages?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/variables-across-languages?u=76281980&t=0)** - Depending on the programming language that you're working with, variables can behave in different ways.
 >
-> **[0:06](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/variables-across-languages?u=76281980&t=6)** Some languages require that you define your variables and their types before you can use them, like Java, C#, and C++.
+> **[0:06](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/variables-across-languages?u=76281980&t=6)** Some languages require that you define your variables and their types before you can use them, like [[Java]], C#, and C++.
 >
 > **[0:15](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/variables-across-languages?u=76281980&t=15)** For example, if we want to store the name of a cookie in Java, we would have to first declare that it's going to be of type string and then give our variable a name, cookie.
 >
@@ -1591,7 +1570,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/variables-across-languages?u=76281980&t=46)** It doesn't allow you to reassign data types in this way.
 >
-> **[0:50](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/variables-across-languages?u=76281980&t=50)** But if we were to compare this to a more relaxed language like Python, we don't need to declare a variable's type before using it.
+> **[0:50](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/variables-across-languages?u=76281980&t=50)** But if we were to compare this to a more relaxed language like [[Python (Programming Language)|Python]], we don't need to declare a variable's type before using it.
 >
 > **[0:58](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/variables-across-languages?u=76281980&t=58)** Here, we declare the variable and use it at the same time.
 >
@@ -1647,15 +1626,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Programming]] (3), [[Java]] (3), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Java]] (3)
 > **CLI Commands:** python (7), make (1)
 > **Analogies:** for example (2), compare this to (1), for instance (1)
 > **Code Identifiers:** account_balance (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - depending (1)
 
-#### Working with numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-numbers?u=76281980)
+#### [Working with numbers](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1663,7 +1641,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-numbers?u=76281980&t=11)** We use numbers numbers to store a person's high score in a game, or even the number of likes on a picture.
 >
-> **[0:21](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-numbers?u=76281980&t=21)** Python treats numbers in a few different ways depending on how they're being used and the difference is largely based on whether it's a whole or fractional one.
+> **[0:21](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-numbers?u=76281980&t=21)** [[Python (Programming Language)|Python]] treats numbers in a few different ways depending on how they're being used and the difference is largely based on whether it's a whole or fractional one.
 >
 > **[0:32](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-numbers?u=76281980&t=32)** Let's look at a few examples.
 >
@@ -1731,7 +1709,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-numbers?u=76281980&t=210)** That extra 75 cents has value to you.
 >
-> **[3:34](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-numbers?u=76281980&t=214)** In some programming languages like JavaScript, There's no distinction between numbers with and without decimal places.
+> **[3:34](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-numbers?u=76281980&t=214)** In some programming languages like [[JavaScript]], There's no distinction between numbers with and without decimal places.
 >
 > **[3:43](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-numbers?u=76281980&t=223)** and without decimal places.
 >
@@ -1785,7 +1763,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Programming]] (3), hit (2), game (1), prompt (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[JavaScript]] (1)
 > **CLI Commands:** python (10)
 > **Versions:** 0.2 (4), 0.3 (4), 0.5 (1)
 > **Tools:** command line (2)
@@ -1793,8 +1771,7 @@ created: 2026-05-02
 > **Definitions:** short for (2)
 > **Analogies:** picture (1)
 
-#### Working with strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-strings?u=76281980)
+#### [Working with strings](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-strings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1810,7 +1787,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-strings?u=76281980&t=25)** Strings can be passed directly to functions or they can be stored in variables.
 >
-> **[0:31](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-strings?u=76281980&t=31)** For example, we can use the print function in Python to display a message on the screen, like, "Hi, there!"
+> **[0:31](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-strings?u=76281980&t=31)** For example, we can use the print function in [[Python (Programming Language)|Python]] to display a message on the screen, like, "Hi, there!"
 >
 > **[0:39](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-strings?u=76281980&t=39)** Notice that we have the opening and closing double quotes.
 >
@@ -1850,19 +1827,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - let (1)
 
-#### Properly using whitespace
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/properly-using-whitespace?u=76281980)
+#### [Properly using whitespace](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/properly-using-whitespace?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/properly-using-whitespace?u=76281980&t=0)** - Python doesn't care about extra empty lines in your programs, just like most languages.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/properly-using-whitespace?u=76281980&t=0)** - [[Python (Programming Language)|Python]] doesn't care about extra empty lines in your programs, just like most languages.
 >
 > **[0:06](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/properly-using-whitespace?u=76281980&t=6)** In fact, it's common for developers to add extra empty lines, also known as white space, You can think of it kind of like paragraphs in a book.
 >
@@ -1936,7 +1912,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/properly-using-whitespace?u=76281980&t=217)** Notice that we get a syntax error.
 >
-> **[3:39](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/properly-using-whitespace?u=76281980&t=219)** That's because Python expects us That's because Python expects us to have a space after the if key word.
+> **[3:39](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/properly-using-whitespace?u=76281980&t=219)** That's because Python expects us That's because Python expects us to have a space after the if key [[Microsoft Word|word]].
 >
 > **[3:42](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/properly-using-whitespace?u=76281980&t=222)** to have a space after the if key word.
 >
@@ -1960,7 +1936,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), hit (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** python (9), find (1), make (1)
 > **Tools:** terminal (3)
 > **Analogies:** just like (2), kind of like (1)
@@ -1968,8 +1944,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - python (1)
 
-#### Working with comments
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-comments?u=76281980)
+#### [Working with comments](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-comments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2007,7 +1982,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-comments?u=76281980&t=79)** Let's come down here to line number four, and right after we have our input function, we'll add a space and another hash mark, and we'll type ask the user their name, and just like that, we have another comment.
 >
-> **[1:36](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-comments?u=76281980&t=96)** So when Python sees this hash mark, it knows that it can ignore the rest of the line.
+> **[1:36](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-comments?u=76281980&t=96)** So when [[Python (Programming Language)|Python]] sees this hash mark, it knows that it can ignore the [[Representational State Transfer (REST)|rest]] of the line.
 >
 > **[1:42](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-comments?u=76281980&t=102)** Let's save this and see if it has any impact on our output.
 >
@@ -2053,11 +2028,11 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-comments?u=76281980&t=190)** That's pretty cool, right?
 >
-> **[3:12](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-comments?u=76281980&t=192)** Comments are a powerful tool for programmers, and as you've seen, we can use them to serve as reminders, provide explanations for other developers, and even help us with debugging code.
+> **[3:12](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-comments?u=76281980&t=192)** Comments are a powerful tool for programmers, and as you've seen, we can use them to serve as reminders, provide explanations for other developers, and even help us with [[Debugging Code]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1), hit (1), [[Debugging Code]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Debugging Code]] (1)
 > **UI Navigation:** right-click (2), go to (2)
 > **CLI Commands:** python (3)
 > **Tools:** terminal (3)
@@ -2066,8 +2041,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - comments (1)
 
-#### Challenge: What's the output?
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/challenge-what-s-the-output?u=76281980)
+#### [Challenge: What's the output?](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/challenge-what-s-the-output?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2079,7 +2053,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/challenge-what-s-the-output?u=76281980&t=19)** I really want you to try and figure out the output on a sheet of paper.
 >
-> **[0:23](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/challenge-what-s-the-output?u=76281980&t=23)** Go line by line just as if you were the Python interpreter, and write down what you think the output will be.
+> **[0:23](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/challenge-what-s-the-output?u=76281980&t=23)** Go line by line just as if you were the [[Python (Programming Language)|Python]] interpreter, and write down what you think the output will be.
 >
 > **[0:29](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/challenge-what-s-the-output?u=76281980&t=29)** This is going to help you think like a computer.
 >
@@ -2089,14 +2063,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), find (1), make (1)
 > **Env Vars:** ide (1)
 > **Speakers:** - all (1)
 > **Non-Speech:** (digital pulsing music) (1)
 
-#### Solution: What's the output?
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/solution-what-s-the-output?u=76281980)
+#### [Solution: What's the output?](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/solution-what-s-the-output?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2110,11 +2083,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/solution-what-s-the-output?u=76281980&t=17)** This is just going to print out challenge one.
 >
-> **[0:21](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/solution-what-s-the-output?u=76281980&t=21)** Moving on to line number two, it's a blank line, so Python just ignores this completely.
+> **[0:21](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/solution-what-s-the-output?u=76281980&t=21)** Moving on to line number two, it's a blank line, so [[Python (Programming Language)|Python]] just ignores this completely.
 >
 > **[0:28](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/solution-what-s-the-output?u=76281980&t=28)** Coming down to line number three, notice that it starts with a hash mark, this means that it's a comment.
 >
-> **[0:35](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/solution-what-s-the-output?u=76281980&t=35)** So whenever Python sees a hash mark, it just ignores the rest of the line.
+> **[0:35](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/solution-what-s-the-output?u=76281980&t=35)** So whenever Python sees a hash mark, it just ignores the [[Representational State Transfer (REST)|rest]] of the line.
 >
 > **[0:40](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/solution-what-s-the-output?u=76281980&t=40)** No output here either.
 >
@@ -2192,7 +2165,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), next (6), power (2), [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (7)
 > **Definitions:** means that (1), is an  (1), is a  (1)
 > **Exercise Files:** exercise files (1)
@@ -2206,8 +2179,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making decisions in code
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/making-decisions-in-code?u=76281980)
+#### [Making decisions in code](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/making-decisions-in-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2277,7 +2249,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/making-decisions-in-code?u=76281980&t=151)** So be on the lookout for that potential bug if your program isn't doing what you expect.
 >
-> **[2:36](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/making-decisions-in-code?u=76281980&t=156)** Let's come over to our python shell, and we'll do a rapid fire round of conditional checks.
+> **[2:36](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/making-decisions-in-code?u=76281980&t=156)** Let's come over to our [[Python (Programming Language)|python]] shell, and we'll do a rapid fire round of conditional checks.
 >
 > **[2:41](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/making-decisions-in-code?u=76281980&t=161)** Let's start out easy.
 >
@@ -2361,14 +2333,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), hit (4)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4)
 > **Exercise Files:** exercise files (2)
 > **Definitions:** is called (1)
 > **Speakers:** - have (1)
 
-#### Exploring conditional code
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-conditional-code?u=76281980)
+#### [Exploring conditional code](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-conditional-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2384,13 +2355,13 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-conditional-code?u=76281980&t=26)** An if statement has this general structure.
 >
-> **[0:30](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-conditional-code?u=76281980&t=30)** It starts with the word if, that's where it gets its name from, then it checks some condition, and if that condition is true, then it will do the work that you've placed inside of it.
+> **[0:30](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-conditional-code?u=76281980&t=30)** It starts with the [[Microsoft Word|word]] if, that's where it gets its name from, then it checks some condition, and if that condition is true, then it will do the work that you've placed inside of it.
 >
 > **[0:41](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-conditional-code?u=76281980&t=41)** To visualize this, think of it as a flow chart with only one check, if it's true, then the program will proceed to execute the statements.
 >
 > **[0:51](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-conditional-code?u=76281980&t=51)** If not, then it just ignores those statements as if they don't exist.
 >
-> **[0:56](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-conditional-code?u=76281980&t=56)** Here's a simple if statement in Python.
+> **[0:56](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-conditional-code?u=76281980&t=56)** Here's a simple if statement in [[Python (Programming Language)|Python]].
 >
 > **[0:59](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-conditional-code?u=76281980&t=59)** It starts with the word if, then we have our condition, or boolean expression, five less than six.
 >
@@ -2482,7 +2453,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Microsoft Word|Word]] (2), next (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** python (7), make (2)
 > **Tools:** vs code (1), terminal (1)
 > **Env Vars:** ide (1)
@@ -2491,8 +2462,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Analogies:** think of it as (1)
 
-#### Working with simple conditions
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-simple-conditions?u=76281980)
+#### [Working with simple conditions](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/working-with-simple-conditions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2580,7 +2550,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **Analogies:** similar to (1), just like (1), for example (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
@@ -2589,12 +2558,11 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - with (1)
 
-#### Conditionals across languages
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/conditionals-across-languages?u=76281980)
+#### [Conditionals across languages](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/conditionals-across-languages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/conditionals-across-languages?u=76281980&t=0)** - By now you're pretty familiar with conditionals in Python.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/conditionals-across-languages?u=76281980&t=0)** - By now you're pretty familiar with conditionals in [[Python (Programming Language)|Python]].
 >
 > **[0:04](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/conditionals-across-languages?u=76281980&t=4)** We start with an if, followed by our condition, then we end the condition with a colon.
 >
@@ -2602,7 +2570,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/conditionals-across-languages?u=76281980&t=14)** And the else is very similar, except there's no condition to check.
 >
-> **[0:18](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/conditionals-across-languages?u=76281980&t=18)** In the Java programming language, the if else statement has a slightly different syntax.
+> **[0:18](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/conditionals-across-languages?u=76281980&t=18)** In the [[Java]] programming language, the if else statement has a slightly different syntax.
 >
 > **[0:24](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/conditionals-across-languages?u=76281980&t=24)** Remember, syntax is just the same thing as saying rules for how a programming language expects its code to be written.
 >
@@ -2636,13 +2604,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4), [[Python (Programming Language)|Python]] (3), [[Java]] (2), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Java]] (2)
 > **CLI Commands:** ruby (4), python (3)
 > **Analogies:** just like (1)
 > **Speakers:** - by (1)
 
-#### Challenge: Guessing game
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/challenge-guessing-game?u=76281980)
+#### [Challenge: Guessing game](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/challenge-guessing-game?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2680,7 +2647,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** you'll need (2)
 > **Env Vars:** ide (1)
@@ -2688,8 +2654,7 @@ created: 2026-05-02
 > **Speakers:** - hi (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Guessing game
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/solution-guessing-game?u=76281980)
+#### [Solution: Guessing game](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/solution-guessing-game?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2713,7 +2678,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/solution-guessing-game?u=76281980&t=63)** Let's go ahead and run it and check out the output.
 >
-> **[1:07](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/solution-guessing-game?u=76281980&t=67)** So we'll right click and we'll come down to run Python file in terminal as usual.
+> **[1:07](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/solution-guessing-game?u=76281980&t=67)** So we'll right click and we'll come down to run [[Python (Programming Language)|Python]] file in terminal as usual.
 >
 > **[1:12](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/solution-guessing-game?u=76281980&t=72)** So let's see, what's my favorite food?
 >
@@ -2743,7 +2708,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), game (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Tools:** terminal (1)
 > **Speakers:** - welcome (1)
@@ -2754,8 +2719,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-functions?u=76281980)
+#### [Introduction to functions](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2769,7 +2733,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-functions?u=76281980&t=25)** In fact, you've already used a few functions like print to show something on the screen and input to get a response from the user.
 >
-> **[0:34](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-functions?u=76281980&t=34)** There are hundreds of other functions in Python that we've yet to explore.
+> **[0:34](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-functions?u=76281980&t=34)** There are hundreds of other functions in [[Python (Programming Language)|Python]] that we've yet to explore.
 >
 > **[0:39](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/introduction-to-functions?u=76281980&t=39)** One key benefit of functions is that they help us to avoid writing the same lines of code again and again.
 >
@@ -2861,7 +2825,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), feature (1), [[Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** make (2), python (2)
 > **Analogies:** imagine (2)
 > **Cross-References:** go back to (1)
@@ -2869,8 +2833,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - functions (1)
 
-#### Creating and calling functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/creating-and-calling-functions?u=76281980)
+#### [Creating and calling functions](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/creating-and-calling-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2884,7 +2847,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/creating-and-calling-functions?u=76281980&t=15)** That starts with the def keyword, which is short for define.
 >
-> **[0:19](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/creating-and-calling-functions?u=76281980&t=19)** This lets Python know that we are ready to create a function.
+> **[0:19](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/creating-and-calling-functions?u=76281980&t=19)** This lets [[Python (Programming Language)|Python]] know that we are ready to create a function.
 >
 > **[0:23](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/creating-and-calling-functions?u=76281980&t=23)** Next, we need to give our function a unique name.
 >
@@ -2968,7 +2931,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), next (3), hit (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4), make (1)
 > **Code Identifiers:** say_hello (5)
 > **Analogies:** just like (1), for example (1), similar to (1)
@@ -2977,8 +2940,7 @@ created: 2026-05-02
 > **Definitions:** short for (1)
 > **Speakers:** - to (1)
 
-#### Setting parameters and arguments
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/setting-parameters-and-arguments?u=76281980)
+#### [Setting parameters and arguments](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/setting-parameters-and-arguments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3008,7 +2970,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/setting-parameters-and-arguments?u=76281980&t=84)** Wash_car and then a set of open and close parentheses.
 >
-> **[1:35](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/setting-parameters-and-arguments?u=76281980&t=95)** and go down to Run Python File in Terminal.
+> **[1:35](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/setting-parameters-and-arguments?u=76281980&t=95)** and go down to Run [[Python (Programming Language)|Python]] File in Terminal.
 >
 > **[1:39](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/setting-parameters-and-arguments?u=76281980&t=99)** And you probably guessed it,
 >
@@ -3070,7 +3032,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), [[Python (Programming Language)|Python]] (2), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** amount_paid (3), wash_car (1)
 > **CLI Commands:** python (2), make (1)
 > **Tools:** vs code (1), terminal (1)
@@ -3079,8 +3041,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - growing (1)
 
-#### Returning values from functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/returning-values-from-functions?u=76281980)
+#### [Returning values from functions](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/returning-values-from-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3130,7 +3091,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/returning-values-from-functions?u=76281980&t=117)** This is where returning a value from our function comes in handy.
 >
-> **[2:02](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/returning-values-from-functions?u=76281980&t=122)** In Python, when creating a function using the def statement, you can specify what the return value should be with a return statement.
+> **[2:02](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/returning-values-from-functions?u=76281980&t=122)** In [[Python (Programming Language)|Python]], when creating a function using the def statement, you can specify what the return value should be with a return statement.
 >
 > **[2:12](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/returning-values-from-functions?u=76281980&t=132)** A return statement consists of the return keyword and the value that the function should return.
 >
@@ -3180,7 +3141,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), hit (1), next (1), [[Programming]] (1), power (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** make (9), python (2)
 > **Analogies:** kind of like (1), just like (1)
 > **Cross-References:** later in (1)
@@ -3189,8 +3150,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - growing (1)
 
-#### Functions across languages
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/functions-across-languages?u=76281980)
+#### [Functions across languages](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/functions-across-languages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3198,11 +3158,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/functions-across-languages?u=76281980&t=4)** Those that have no parameters and no return value, no parameters but do return a value, those that have parameters and don't return a value, and finally, those that have both parameters and a return value.
 >
-> **[0:21](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/functions-across-languages?u=76281980&t=21)** But so far, we've only seen these functions in Python.
+> **[0:21](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/functions-across-languages?u=76281980&t=21)** But so far, we've only seen these functions in [[Python (Programming Language)|Python]].
 >
 > **[0:24](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/functions-across-languages?u=76281980&t=24)** Let's take a look at how a few other languages handle functions.
 >
-> **[0:30](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/functions-across-languages?u=76281980&t=30)** First up is Java.
+> **[0:30](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/functions-across-languages?u=76281980&t=30)** First up is [[Java]].
 >
 > **[0:32](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/functions-across-languages?u=76281980&t=32)** This is the no parameters and no return value example of a function.
 >
@@ -3222,7 +3182,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/functions-across-languages?u=76281980&t=74)** Unlike Python, Java requires that you always specify explicitly what the return type is of a function, even when that function isn't going to return a value.
 >
-> **[1:26](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/functions-across-languages?u=76281980&t=86)** Okay, onto the next example, Kotlin.
+> **[1:26](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/functions-across-languages?u=76281980&t=86)** Okay, onto the next example, [[Kotlin]].
 >
 > **[1:30](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/functions-across-languages?u=76281980&t=90)** This is the has parameters and no return value example of a function.
 >
@@ -3262,7 +3222,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/functions-across-languages?u=76281980&t=183)** Nice work.
 >
-> **[3:04](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/functions-across-languages?u=76281980&t=184)** This is some JavaScript code, and indeed, this is how you define functions in JavaScript.
+> **[3:04](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/functions-across-languages?u=76281980&t=184)** This is some [[JavaScript]] code, and indeed, this is how you define functions in JavaScript.
 >
 > **[3:12](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/functions-across-languages?u=76281980&t=192)** Okay, thanks for playing along.
 >
@@ -3274,14 +3234,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Java]] (3), [[Programming]] (3), next (2), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Java]] (3), [[JavaScript]] (2), [[Kotlin]] (1)
 > **CLI Commands:** python (5), find (2), ruby (1)
 > **Analogies:** just like (3), similar to (2)
 > **Definitions:** means that (1)
 > **Speakers:** - we (1)
 
-#### Challenge: Favorite cities
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/challenge-favorite-cities?u=76281980)
+#### [Challenge: Favorite cities](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/challenge-favorite-cities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3310,8 +3269,7 @@ created: 2026-05-02
 > **Speakers:** - what (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Favorite cities
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/solution-favorite-cities?u=76281980)
+#### [Solution: Favorite cities](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/solution-favorite-cities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3329,7 +3287,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/solution-favorite-cities?u=76281980&t=26)** Notice that we're using the def keyword.
 >
-> **[0:29](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/solution-favorite-cities?u=76281980&t=29)** This is how we let Python know that we are creating a function.
+> **[0:29](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/solution-favorite-cities?u=76281980&t=29)** This is how we let [[Python (Programming Language)|Python]] know that we are creating a function.
 >
 > **[0:33](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/solution-favorite-cities?u=76281980&t=33)** It takes in one parameter named Name.
 >
@@ -3376,8 +3334,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring languages
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-languages?u=76281980)
+#### [Exploring languages](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-languages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3385,7 +3342,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-languages?u=76281980&t=3)** Let's take a look at the most popular.
 >
-> **[0:06](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-languages?u=76281980&t=6)** At the time of this recording, Java is number one, closely followed by C, C++, and our friend, Python.
+> **[0:06](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-languages?u=76281980&t=6)** At the time of this recording, [[Java]] is number one, closely followed by C, C++, and our friend, [[Python (Programming Language)|Python]].
 >
 > **[0:16](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-languages?u=76281980&t=16)** And you might be surprised to know that they're all related.
 >
@@ -3429,7 +3386,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-languages?u=76281980&t=126)** This is a very important function in C-based languages because it's the function where the program begins.
 >
-> **[2:13](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-languages?u=76281980&t=133)** And just like what we've seen with Java and JavaScript, curly braces are used for the function's body.
+> **[2:13](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-languages?u=76281980&t=133)** And just like what we've seen with Java and [[JavaScript]], curly braces are used for the function's body.
 >
 > **[2:20](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-languages?u=76281980&t=140)** Both languages adopted that syntax from the C language.
 >
@@ -3451,7 +3408,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-languages?u=76281980&t=180)** This means that you can write your Java code, compile it, and then any device that has the needed program installed can run it.
 >
-> **[3:09](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-languages?u=76281980&t=189)** It's famous for desktop applications and mobile apps for Android.
+> **[3:09](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-languages?u=76281980&t=189)** It's famous for desktop applications and mobile apps for [[Android]].
 >
 > **[3:13](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-languages?u=76281980&t=193)** It's a C-based language, but unlike C, everything in Java is in what's called a class.
 >
@@ -3475,7 +3432,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-languages?u=76281980&t=247)** In this video, we've only covered three programming languages and there are dozens more.
 >
-> **[4:13](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-languages?u=76281980&t=253)** Swift and Objective-C for iOS development, Ruby and JavaScript for web apps, and so on.
+> **[4:13](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-languages?u=76281980&t=253)** [[Swift (Programming Language)|Swift]] and Objective-C for [[iOS Development]], Ruby and JavaScript for web apps, and so on.
 >
 > **[4:21](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/exploring-languages?u=76281980&t=261)** With so many languages available, you're probably wondering, which one should you choose?
 >
@@ -3487,7 +3444,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (9), [[Programming]] (8), [[Python (Programming Language)|Python]] (5), [[JavaScript]] (2), web (2)
+> **Frameworks & Libraries:** [[Java]] (9), [[Python (Programming Language)|Python]] (5), [[JavaScript]] (2), [[Android]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **CLI Commands:** python (5), make (2), ruby (1)
 > **Definitions:** is a  (2), means that (1)
 > **Code Identifiers:** ios (1)
@@ -3495,8 +3452,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - there (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3508,7 +3464,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/next-steps?u=76281980&t=10)** You've been able to write source code and run it from your own computer.
 >
-> **[0:14](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/next-steps?u=76281980&t=14)** And you have a foundational understanding of the Python programming language.
+> **[0:14](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/next-steps?u=76281980&t=14)** And you have a foundational understanding of the [[Python (Programming Language)|Python]] programming language.
 >
 > **[0:19](https://www.linkedin.com/learning/programming-foundations-fundamentals-3/next-steps?u=76281980&t=19)** I hope you feel inspired to keep learning more.
 >
@@ -3538,7 +3494,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4), [[Python (Programming Language)|Python]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Exercise Files:** source code (1), exercise files (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - we (1)

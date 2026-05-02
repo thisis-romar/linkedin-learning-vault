@@ -83,14 +83,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sketching for UX designers
-> [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/sketching-for-ux-designers?u=76281980)
+#### [Sketching for UX designers](https://www.linkedin.com/learning/sketching-for-ux-designers/sketching-for-ux-designers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sketching-for-ux-designers/sketching-for-ux-designers?u=76281980&t=0)** - [Matt] Designers these days need to be versatile professionals with a really broad range of skills.
 >
-> **[0:06](https://www.linkedin.com/learning/sketching-for-ux-designers/sketching-for-ux-designers?u=76281980&t=6)** In digital user experience design one key skill that's often underestimated is sketching by hand.
+> **[0:06](https://www.linkedin.com/learning/sketching-for-ux-designers/sketching-for-ux-designers?u=76281980&t=6)** In digital [[User Experience Design (UED)|user experience design]] one key skill that's often underestimated is [[Sketching]] by hand.
 >
 > **[0:13](https://www.linkedin.com/learning/sketching-for-ux-designers/sketching-for-ux-designers?u=76281980&t=13)** Knowing when and how to use sketching to make your designs more engaging and to help you explore and communicate new ideas can give you a real advantage.
 >
@@ -114,7 +113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sketching]] (6), ux (2), [[User Experience Design (UED)|User experience design]] (1)
+> **Frameworks & Libraries:** [[Sketching]] (6), [[User Experience Design (UED)|User experience design]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [matt] (1)
 
@@ -123,16 +122,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why we sketch
-> [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/why-we-sketch?u=76281980)
+#### [Why we sketch](https://www.linkedin.com/learning/sketching-for-ux-designers/why-we-sketch?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sketching-for-ux-designers/why-we-sketch?u=76281980&t=0)** - Sketching is one of the most useful and versatile skills a designer can cultivate.
+> **[0:00](https://www.linkedin.com/learning/sketching-for-ux-designers/why-we-sketch?u=76281980&t=0)** - [[Sketching]] is one of the most useful and versatile skills a designer can cultivate.
 >
 > **[0:05](https://www.linkedin.com/learning/sketching-for-ux-designers/why-we-sketch?u=76281980&t=5)** It can give you the means to communicate any idea in your head quickly and effectively, and bring concepts to life in a way that others around you can immediately understand.
 >
-> **[0:15](https://www.linkedin.com/learning/sketching-for-ux-designers/why-we-sketch?u=76281980&t=15)** In the user experience world, designers don't generally sketch as often or to the same level of quality as their counterparts in, say, industrial design or automotive design.
+> **[0:15](https://www.linkedin.com/learning/sketching-for-ux-designers/why-we-sketch?u=76281980&t=15)** In the [[User Experience (UX)|user experience]] world, designers don't generally sketch as often or to the same level of quality as their counterparts in, say, industrial design or automotive design.
 >
 > **[0:26](https://www.linkedin.com/learning/sketching-for-ux-designers/why-we-sketch?u=76281980&t=26)** And yet those who hone this skill will have a real advantage.
 >
@@ -206,20 +204,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sketching]] (10), next (3), [[User Experience (UX)|User experience]] (2), ux (2), web (1)
+> **Frameworks & Libraries:** [[Sketching]] (10), [[User Experience (UX)|User experience]] (2)
 > **Analogies:** imagine (2), for example (1), picture (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - sketching (1), - finally (1)
 > **Definitions:** is a  (1)
 
-#### When to sketch
-> [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/when-to-sketch?u=76281980)
+#### [When to sketch](https://www.linkedin.com/learning/sketching-for-ux-designers/when-to-sketch?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sketching-for-ux-designers/when-to-sketch?u=76281980&t=0)** - Let's talk about when you'll be sketching throughout your design process.
+> **[0:00](https://www.linkedin.com/learning/sketching-for-ux-designers/when-to-sketch?u=76281980&t=0)** - Let's talk about when you'll be [[Sketching]] throughout your design process.
 >
-> **[0:05](https://www.linkedin.com/learning/sketching-for-ux-designers/when-to-sketch?u=76281980&t=5)** Early on in a project you'll likely have conducted user-research so you can understand customer needs, reviewed competitive products and found opportunities for innovation.
+> **[0:05](https://www.linkedin.com/learning/sketching-for-ux-designers/when-to-sketch?u=76281980&t=5)** Early on in a project you'll likely have conducted user-research so you can understand customer needs, reviewed competitive [[Microsoft Products|products]] and found opportunities for innovation.
 >
 > **[0:16](https://www.linkedin.com/learning/sketching-for-ux-designers/when-to-sketch?u=76281980&t=16)** You should have a clear design brief agreed with your client.
 >
@@ -287,25 +284,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sketching]] (5), ux (2), [[Microsoft Products|Products]] (1), game (1), product (1)
+> **Frameworks & Libraries:** [[Sketching]] (5), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - let (1)
 
-#### Tools you'll need
-> [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/tools-you-ll-need?u=76281980)
+#### [Tools you'll need](https://www.linkedin.com/learning/sketching-for-ux-designers/tools-you-ll-need?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sketching-for-ux-designers/tools-you-ll-need?u=76281980&t=0)** - Good news, you don't need special or expensive art equipment to draw well.
 >
-> **[0:05](https://www.linkedin.com/learning/sketching-for-ux-designers/tools-you-ll-need?u=76281980&t=5)** You can create superb design sketches with the most basic office equipment.
+> **[0:05](https://www.linkedin.com/learning/sketching-for-ux-designers/tools-you-ll-need?u=76281980&t=5)** You can create superb design sketches with the most basic [[Microsoft Office|office]] equipment.
 >
 > **[0:10](https://www.linkedin.com/learning/sketching-for-ux-designers/tools-you-ll-need?u=76281980&t=10)** What makes the difference is not your tools, but technique and practice.
 >
-> **[0:15](https://www.linkedin.com/learning/sketching-for-ux-designers/tools-you-ll-need?u=76281980&t=15)** When we get to sketching, the minimal you'll need is some plain paper and three pens.
+> **[0:15](https://www.linkedin.com/learning/sketching-for-ux-designers/tools-you-ll-need?u=76281980&t=15)** When we get to [[Sketching]], the minimal you'll need is some plain paper and three pens.
 >
 > **[0:21](https://www.linkedin.com/learning/sketching-for-ux-designers/tools-you-ll-need?u=76281980&t=21)** You can use any type of paper, as long as it's plain, rather than ruled or gridded.
 >
@@ -360,8 +356,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - good (1)
 
-#### Digital tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/digital-tools?u=76281980)
+#### [Digital tools](https://www.linkedin.com/learning/sketching-for-ux-designers/digital-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -373,7 +368,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/sketching-for-ux-designers/digital-tools?u=76281980&t=23)** However, choosing a digital device over pen and paper, won't make you a better designer or give you any advantage straight away.
 >
-> **[0:31](https://www.linkedin.com/learning/sketching-for-ux-designers/digital-tools?u=76281980&t=31)** You'll use exactly the same sketching techniques, whether on paper or on screen, and you'll need to practice the same techniques I'm going to show you in order to achieve great sketches.
+> **[0:31](https://www.linkedin.com/learning/sketching-for-ux-designers/digital-tools?u=76281980&t=31)** You'll use exactly the same [[Sketching]] techniques, whether on paper or on screen, and you'll need to practice the same techniques I'm going to show you in order to achieve great sketches.
 >
 > **[0:41](https://www.linkedin.com/learning/sketching-for-ux-designers/digital-tools?u=76281980&t=41)** There's no shortcut.
 >
@@ -399,7 +394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Sketching]] (1)
+> **Frameworks & Libraries:** [[Sketching]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ipad (1)
 > **Definitions:** is a  (1)
@@ -407,8 +402,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - you (1)
 
-#### Choosing the right fidelity
-> [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/choosing-the-right-fidelity?u=76281980)
+#### [Choosing the right fidelity](https://www.linkedin.com/learning/sketching-for-ux-designers/choosing-the-right-fidelity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -472,7 +466,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/sketching-for-ux-designers/choosing-the-right-fidelity?u=76281980&t=198)** I remember the senior designer and I spending a long time making high-fidelity sketches of several designs, as we wanted to really impress our client.
 >
-> **[3:27](https://www.linkedin.com/learning/sketching-for-ux-designers/choosing-the-right-fidelity?u=76281980&t=207)** When we visited our client's office and presented the sketches to him, however, that extra effort, it actually backfired on us.
+> **[3:27](https://www.linkedin.com/learning/sketching-for-ux-designers/choosing-the-right-fidelity?u=76281980&t=207)** When we visited our client's [[Microsoft Office|office]] and presented the sketches to him, however, that extra effort, it actually backfired on us.
 >
 > **[3:35](https://www.linkedin.com/learning/sketching-for-ux-designers/choosing-the-right-fidelity?u=76281980&t=215)** We wanted his feedback and advice on which design was best and how they could be improved, as we weren't experts in the field.
 >
@@ -498,7 +492,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Microsoft Office|Office]] (2), functional (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1)
@@ -509,8 +503,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Breaking down a mockup
-> [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/breaking-down-a-mockup?u=76281980)
+#### [Breaking down a mockup](https://www.linkedin.com/learning/sketching-for-ux-designers/breaking-down-a-mockup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -562,19 +555,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
 
-#### Warming up
-> [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/warming-up?u=76281980)
+#### [Warming up](https://www.linkedin.com/learning/sketching-for-ux-designers/warming-up?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sketching-for-ux-designers/warming-up?u=76281980&t=0)** - Often before I start sketching, I do a short warmup exercise.
+> **[0:00](https://www.linkedin.com/learning/sketching-for-ux-designers/warming-up?u=76281980&t=0)** - Often before I start [[Sketching]], I do a short warmup exercise.
 >
 > **[0:05](https://www.linkedin.com/learning/sketching-for-ux-designers/warming-up?u=76281980&t=5)** Even five minutes spent warming up can make a difference to the quality of your drawings.
 >
@@ -633,8 +624,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - often (1)
 
-#### Getting started on the sketch
-> [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/getting-started-on-the-sketch?u=76281980)
+#### [Getting started on the sketch](https://www.linkedin.com/learning/sketching-for-ux-designers/getting-started-on-the-sketch?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -664,11 +654,11 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/sketching-for-ux-designers/getting-started-on-the-sketch?u=76281980&t=66)** We expect there will be four main sections in the app that perform these functions.
 >
-> **[1:11](https://www.linkedin.com/learning/sketching-for-ux-designers/getting-started-on-the-sketch?u=76281980&t=71)** Plus a menu with extra screens for adjusting user profile, settings, contacting customer support, et cetera.
+> **[1:11](https://www.linkedin.com/learning/sketching-for-ux-designers/getting-started-on-the-sketch?u=76281980&t=71)** Plus a menu with extra screens for adjusting user profile, settings, contacting [[Customer Support]], et cetera.
 >
 > **[1:18](https://www.linkedin.com/learning/sketching-for-ux-designers/getting-started-on-the-sketch?u=76281980&t=78)** I'm already warmed up and ready to start.
 >
-> **[1:21](https://www.linkedin.com/learning/sketching-for-ux-designers/getting-started-on-the-sketch?u=76281980&t=81)** So, let's begin by designing and sketching the screen that shows electricity usage.
+> **[1:21](https://www.linkedin.com/learning/sketching-for-ux-designers/getting-started-on-the-sketch?u=76281980&t=81)** So, let's begin by designing and [[Sketching]] the screen that shows electricity usage.
 >
 > **[1:26](https://www.linkedin.com/learning/sketching-for-ux-designers/getting-started-on-the-sketch?u=76281980&t=86)** Our client has asked that this is the first screen people see when they open the app.
 >
@@ -738,7 +728,7 @@ created: 2026-05-02
 >
 > **[5:14](https://www.linkedin.com/learning/sketching-for-ux-designers/getting-started-on-the-sketch?u=76281980&t=314)** We're not drawing every last detail.
 >
-> **[5:15](https://www.linkedin.com/learning/sketching-for-ux-designers/getting-started-on-the-sketch?u=76281980&t=315)** We're not writing in every word, but we're just putting in a little bit, so that we can roughly see that some copy will go there.
+> **[5:15](https://www.linkedin.com/learning/sketching-for-ux-designers/getting-started-on-the-sketch?u=76281980&t=315)** We're not writing in every [[Microsoft Word|word]], but we're just putting in a little bit, so that we can roughly see that some copy will go there.
 >
 > **[5:23](https://www.linkedin.com/learning/sketching-for-ux-designers/getting-started-on-the-sketch?u=76281980&t=323)** Then I'm going to mark out the chart.
 >
@@ -792,7 +782,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), [[Customer Support]] (1), [[Sketching]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Customer Support]] (1), [[Sketching]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we mentioned (2)
 > **Definitions:** is a  (2)
@@ -800,8 +790,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Line weights
-> [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/line-weights?u=76281980)
+#### [Line weights](https://www.linkedin.com/learning/sketching-for-ux-designers/line-weights?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -811,7 +800,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/sketching-for-ux-designers/line-weights?u=76281980&t=17)** For instance, thicker lines around components will make them stand out and make it easier for people to notice them.
 >
-> **[0:24](https://www.linkedin.com/learning/sketching-for-ux-designers/line-weights?u=76281980&t=24)** When you're sketching a user interface, thicker lines are also good for breaking up your panels and components or drawing attention to the most important buttons or controls.
+> **[0:24](https://www.linkedin.com/learning/sketching-for-ux-designers/line-weights?u=76281980&t=24)** When you're [[Sketching]] a user interface, thicker lines are also good for breaking up your panels and components or drawing attention to the most important buttons or controls.
 >
 > **[0:34](https://www.linkedin.com/learning/sketching-for-ux-designers/line-weights?u=76281980&t=34)** With even a single pen, you can create a range of different line types from light construction lines to dark, heavier lines for emphasis.
 >
@@ -881,8 +870,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - learning (1)
 
-#### Sketching variants
-> [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/sketching-variants?u=76281980)
+#### [Sketching variants](https://www.linkedin.com/learning/sketching-for-ux-designers/sketching-variants?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -906,7 +894,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/sketching-for-ux-designers/sketching-variants?u=76281980&t=51)** You can always kind of see the lines, so I can trace over what we already have.
 >
-> **[1:07](https://www.linkedin.com/learning/sketching-for-ux-designers/sketching-variants?u=76281980&t=67)** So I'm sketching of the main lines, just like we did when we started with our construction lines.
+> **[1:07](https://www.linkedin.com/learning/sketching-for-ux-designers/sketching-variants?u=76281980&t=67)** So I'm [[Sketching]] of the main lines, just like we did when we started with our construction lines.
 >
 > **[1:19](https://www.linkedin.com/learning/sketching-for-ux-designers/sketching-variants?u=76281980&t=79)** That's where our connect to the logo goes, the menu, title, the areas where the button bars are above the chart are the sections that I want to show as a variation.
 >
@@ -974,15 +962,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sketching]] (2), power (1)
+> **Frameworks & Libraries:** [[Sketching]] (2)
 > **Definitions:** is a  (4), is an  (1)
 > **Analogies:** just like (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - in (1)
 
-#### Hatching, cross-hatching, and shading
-> [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/hatching-cross-hatching-and-shading?u=76281980)
+#### [Hatching, cross-hatching, and shading](https://www.linkedin.com/learning/sketching-for-ux-designers/hatching-cross-hatching-and-shading?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1054,7 +1041,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/sketching-for-ux-designers/hatching-cross-hatching-and-shading?u=76281980&t=228)** So let's go back to our UI sketch from our Connect Eco app and use a bit of hatching to add shadow and make some elements of this pop out.
 >
-> **[3:58](https://www.linkedin.com/learning/sketching-for-ux-designers/hatching-cross-hatching-and-shading?u=76281980&t=238)** So the first thing I'm going to do, I would like the top and bottom bars to look like they're lifted off the page like their standing out a bit from the rest of the UI.
+> **[3:58](https://www.linkedin.com/learning/sketching-for-ux-designers/hatching-cross-hatching-and-shading?u=76281980&t=238)** So the first thing I'm going to do, I would like the top and bottom bars to look like they're lifted off the page like their standing out a bit from the [[Representational State Transfer (REST)|rest]] of the UI.
 >
 > **[4:06](https://www.linkedin.com/learning/sketching-for-ux-designers/hatching-cross-hatching-and-shading?u=76281980&t=246)** So I'm going to draw a hatched area just above the bottom bar
 >
@@ -1092,15 +1079,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** make (8)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), just like (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - in (1)
 
-#### Markers
-> [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/markers?u=76281980)
+#### [Markers](https://www.linkedin.com/learning/sketching-for-ux-designers/markers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1212,7 +1198,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** switch to (3)
 > **Cross-References:** in the next (1)
@@ -1220,8 +1205,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - now (1)
 
-#### Challenge: Design brief
-> [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/challenge-design-brief?u=76281980)
+#### [Challenge: Design brief](https://www.linkedin.com/learning/sketching-for-ux-designers/challenge-design-brief?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1273,14 +1257,13 @@ created: 2026-05-02
 > **Speakers:** - now (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Design critique
-> [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/solution-design-critique?u=76281980)
+#### [Solution: Design critique](https://www.linkedin.com/learning/sketching-for-ux-designers/solution-design-critique?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sketching-for-ux-designers/solution-design-critique?u=76281980&t=0)** - So, how did you get on?
 >
-> **[0:07](https://www.linkedin.com/learning/sketching-for-ux-designers/solution-design-critique?u=76281980&t=7)** Let's take a look at my sketch, and we'll break down the design and the sketching techniques I used.
+> **[0:07](https://www.linkedin.com/learning/sketching-for-ux-designers/solution-design-critique?u=76281980&t=7)** Let's take a look at my sketch, and we'll break down the design and the [[Sketching]] techniques I used.
 >
 > **[0:13](https://www.linkedin.com/learning/sketching-for-ux-designers/solution-design-critique?u=76281980&t=13)** So you can already see here that this looks pretty similar to the usage screen that we had before.
 >
@@ -1356,7 +1339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sketching]] (3), next (2), ux (1)
+> **Frameworks & Libraries:** [[Sketching]] (3)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** picture (1)
@@ -1368,12 +1351,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Example: Capture sheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/example-capture-sheets?u=76281980)
+#### [Example: Capture sheets](https://www.linkedin.com/learning/sketching-for-ux-designers/example-capture-sheets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sketching-for-ux-designers/example-capture-sheets?u=76281980&t=0)** - If you take part in creative workshops, then you'll find paper sketching a huge help for those fast-paced collaborative sessions.
+> **[0:00](https://www.linkedin.com/learning/sketching-for-ux-designers/example-capture-sheets?u=76281980&t=0)** - If you take part in creative workshops, then you'll find paper [[Sketching]] a huge help for those fast-paced collaborative sessions.
 >
 > **[0:09](https://www.linkedin.com/learning/sketching-for-ux-designers/example-capture-sheets?u=76281980&t=9)** For those unfamiliar, a workshop typically happens in the early stages of a project, and might involve the client, the designer, and a whole group of other stakeholders gathered together to come up with new ideas.
 >
@@ -1435,23 +1417,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sketching]] (2), business (1)
+> **Frameworks & Libraries:** [[Sketching]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** later in (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - if (1)
 
-#### 3D and perspective
-> [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/3d-and-perspective?u=76281980)
+#### [3D and perspective](https://www.linkedin.com/learning/sketching-for-ux-designers/3d-and-perspective?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sketching-for-ux-designers/3d-and-perspective?u=76281980&t=0)** - Whilst most UX or UI design work involves drawing flat elements on screens, it's important that you're able to draw more than that.
 >
-> **[0:09](https://www.linkedin.com/learning/sketching-for-ux-designers/3d-and-perspective?u=76281980&t=9)** Like in the capture sheet or in a storyboard, you'll often need to convey more about user experience than simply what's happening on that screen.
+> **[0:09](https://www.linkedin.com/learning/sketching-for-ux-designers/3d-and-perspective?u=76281980&t=9)** Like in the capture sheet or in a storyboard, you'll often need to convey more about [[User Experience (UX)|user experience]] than simply what's happening on that screen.
 >
-> **[0:16](https://www.linkedin.com/learning/sketching-for-ux-designers/3d-and-perspective?u=76281980&t=16)** This might mean drawing hands, people, or physical products, like cars and watches.
+> **[0:16](https://www.linkedin.com/learning/sketching-for-ux-designers/3d-and-perspective?u=76281980&t=16)** This might mean drawing hands, people, or physical [[Microsoft Products|products]], like cars and watches.
 >
 > **[0:22](https://www.linkedin.com/learning/sketching-for-ux-designers/3d-and-perspective?u=76281980&t=22)** Now, I'm going to show you the very basics of drawing three-dimensional shapes and applying some perspective so that, for example, you can draw a phone at an angle with your UI design on the screen, like we saw earlier in that capture sheet.
 >
@@ -1481,7 +1462,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/sketching-for-ux-designers/3d-and-perspective?u=76281980&t=121)** So it's subtle, but here on the cube, this top surface looks a little bit flatter, so the lines have moved down a little bit, and the lines at the bottom have tapered up.
 >
-> **[2:10](https://www.linkedin.com/learning/sketching-for-ux-designers/3d-and-perspective?u=76281980&t=130)** The difference is that from our central vertex here, everything else is tapering away a little bit into the distance.
+> **[2:10](https://www.linkedin.com/learning/sketching-for-ux-designers/3d-and-perspective?u=76281980&t=130)** The difference is that from our central [[Vertex]] here, everything else is tapering away a little bit into the distance.
 >
 > **[2:17](https://www.linkedin.com/learning/sketching-for-ux-designers/3d-and-perspective?u=76281980&t=137)** On the cuboid, that might look something like this.
 >
@@ -1517,15 +1498,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (3), [[Vertex]] (2), ux (1), [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Vertex]] (2), [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - whilst (1)
 
-#### Hatching and shadows
-> [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/hatching-and-shadows?u=76281980)
+#### [Hatching and shadows](https://www.linkedin.com/learning/sketching-for-ux-designers/hatching-and-shadows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1642,12 +1622,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2), means that (1)
 > **Speakers:** - now (1)
 
-#### Example: Storyboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/example-storyboards?u=76281980)
+#### [Example: Storyboards](https://www.linkedin.com/learning/sketching-for-ux-designers/example-storyboards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sketching-for-ux-designers/example-storyboards?u=76281980&t=0)** - Storyboards are a common way for a designer to communicate a complete user experience beyond just what happens in a digital interface, and are often used in service design to show how the use of, say, customer apps and websites might tie together with other elements, like a visit to a store, a voice exchange with a smart speaker, or a call to customer support.
+> **[0:00](https://www.linkedin.com/learning/sketching-for-ux-designers/example-storyboards?u=76281980&t=0)** - Storyboards are a common way for a designer to communicate a complete [[User Experience (UX)|user experience]] beyond just what happens in a digital interface, and are often used in service design to show how the use of, say, customer apps and websites might tie together with other elements, like a visit to a store, a voice exchange with a smart speaker, or a call to [[Customer Support]].
 >
 > **[0:23](https://www.linkedin.com/learning/sketching-for-ux-designers/example-storyboards?u=76281980&t=23)** They're like a simple comic strip illustrating a story frame by frame in a way that makes the experience from the customer's point of view clear.
 >
@@ -1687,13 +1666,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Customer Support]] (3), [[User Experience (UX)|User experience]] (1), hit (1), ux (1), next (1)
+> **Frameworks & Libraries:** [[Customer Support]] (3), [[User Experience (UX)|User experience]] (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - storyboards (1)
 
-#### Drawing people simply
-> [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/drawing-people-simply?u=76281980)
+#### [Drawing people simply](https://www.linkedin.com/learning/sketching-for-ux-designers/drawing-people-simply?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1813,15 +1791,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (1), next (1)
 > **Analogies:** just like (3), imagine (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - now (1)
 
-#### Annotations and labels
-> [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/annotations-and-labels?u=76281980)
+#### [Annotations and labels](https://www.linkedin.com/learning/sketching-for-ux-designers/annotations-and-labels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1867,7 +1843,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/sketching-for-ux-designers/annotations-and-labels?u=76281980&t=121)** So where this user's fingers coming in, I might want to indicate that they can swipe or scroll downwards, and the way to do it would be with a much larger arrow a bit like this.
 >
-> **[2:15](https://www.linkedin.com/learning/sketching-for-ux-designers/annotations-and-labels?u=76281980&t=135)** And I'm going to up my line weight to make that stand out more against the rest of the sketch.
+> **[2:15](https://www.linkedin.com/learning/sketching-for-ux-designers/annotations-and-labels?u=76281980&t=135)** And I'm going to up my line weight to make that stand out more against the [[Representational State Transfer (REST)|rest]] of the sketch.
 >
 > **[2:22](https://www.linkedin.com/learning/sketching-for-ux-designers/annotations-and-labels?u=76281980&t=142)** You can see that I'm bearing in mind the perspective that the phone is at and I'm trying to draw this as if it's part of the scene and a long arrow like that would usually be used to indicate a long gesture from somebody.
 >
@@ -1927,12 +1903,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - by (1)
 
-#### Digital sketching
-> [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/digital-sketching?u=76281980)
+#### [Digital sketching](https://www.linkedin.com/learning/sketching-for-ux-designers/digital-sketching?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sketching-for-ux-designers/digital-sketching?u=76281980&t=0)** - Everything we've done so far has been on paper, but today, digital drawing methods are close enough to paper sketching, that they're a real option for designers.
+> **[0:00](https://www.linkedin.com/learning/sketching-for-ux-designers/digital-sketching?u=76281980&t=0)** - Everything we've done so far has been on paper, but today, digital drawing methods are close enough to paper [[Sketching]], that they're a real option for designers.
 >
 > **[0:10](https://www.linkedin.com/learning/sketching-for-ux-designers/digital-sketching?u=76281980&t=10)** Digital sketching can offer designers more flexibility.
 >
@@ -2050,7 +2025,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sketching]] (4), ux (1)
+> **Frameworks & Libraries:** [[Sketching]] (4)
 > **CLI Commands:** make (8), find (1)
 > **Code Identifiers:** ipad (6)
 > **UI Navigation:** switch to (3), go to (2)
@@ -2064,8 +2039,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's next with your sketching?
-> [LinkedIn Learning](https://www.linkedin.com/learning/sketching-for-ux-designers/what-s-next-with-your-sketching?u=76281980)
+#### [What's next with your sketching?](https://www.linkedin.com/learning/sketching-for-ux-designers/what-s-next-with-your-sketching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2095,7 +2069,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/sketching-for-ux-designers/what-s-next-with-your-sketching?u=76281980&t=68)** Allow some time to explore ideas on paper, and you might be surprised at how much it aids the creative process.
 >
-> **[1:15](https://www.linkedin.com/learning/sketching-for-ux-designers/what-s-next-with-your-sketching?u=76281980&t=75)** If you're already working on a design, particularly if it includes events that happen off screen, try sketching a storyboard to communicate that complete user experience to your team.
+> **[1:15](https://www.linkedin.com/learning/sketching-for-ux-designers/what-s-next-with-your-sketching?u=76281980&t=75)** If you're already working on a design, particularly if it includes events that happen off screen, try [[Sketching]] a storyboard to communicate that complete [[User Experience (UX)|user experience]] to your team.
 >
 > **[1:26](https://www.linkedin.com/learning/sketching-for-ux-designers/what-s-next-with-your-sketching?u=76281980&t=86)** If you want to advance your sketching in your own time, then the best thing to use is reference materials or observing real world examples.
 >
@@ -2113,13 +2087,13 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/sketching-for-ux-designers/what-s-next-with-your-sketching?u=76281980&t=123)** The more time you spend studying the human body, the better you'll understand anatomy and proportion, and that will show in the confidence of your sketches.
 >
-> **[2:12](https://www.linkedin.com/learning/sketching-for-ux-designers/what-s-next-with-your-sketching?u=76281980&t=132)** Finally, there are a lot of other resources available on LinkedIn Learning to check out that will help you improve your sketching and other UX design skills.
+> **[2:12](https://www.linkedin.com/learning/sketching-for-ux-designers/what-s-next-with-your-sketching?u=76281980&t=132)** Finally, there are a lot of other resources available on [[LinkedIn]] Learning to check out that will help you improve your sketching and other UX design skills.
 >
 > **[2:20](https://www.linkedin.com/learning/sketching-for-ux-designers/what-s-next-with-your-sketching?u=76281980&t=140)** Thanks for watching, and good luck with your sketching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (4), [[Sketching]] (4), next (2), [[User Experience (UX)|User experience]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Sketching]] (4), [[User Experience (UX)|User experience]] (1), [[LinkedIn]] (1)
 > **Speakers:** - in (1)
 
 

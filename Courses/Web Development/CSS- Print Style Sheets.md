@@ -81,14 +81,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to CSS print style sheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/welcome?u=76281980)
+#### [Welcome to CSS print style sheets](https://www.linkedin.com/learning/css-print-style-sheets/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-print-style-sheets/welcome?u=76281980&t=0)** - Sometimes printing a webpage is exactly the right thing to do.
 >
-> **[0:04](https://www.linkedin.com/learning/css-print-style-sheets/welcome?u=76281980&t=4)** We print airline boarding passes, all kinds of forms, long articles, tips and tricks to hang on the wall, and so much more.
+> **[0:04](https://www.linkedin.com/learning/css-print-style-sheets/welcome?u=76281980&t=4)** We print airline boarding passes, all kinds of [[Forms]], long articles, tips and tricks to hang on the wall, and so much more.
 >
 > **[0:12](https://www.linkedin.com/learning/css-print-style-sheets/welcome?u=76281980&t=12)** How can we make the most of print styling in our CSS?
 >
@@ -108,7 +107,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), next (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Env Vars:** css (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - sometimes (1)
@@ -118,8 +117,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Print style sheets and media queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/print-style-sheets-and-media-queries?u=76281980)
+#### [Print style sheets and media queries](https://www.linkedin.com/learning/css-print-style-sheets/print-style-sheets-and-media-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -135,7 +133,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/css-print-style-sheets/print-style-sheets-and-media-queries?u=76281980&t=38)** With the addition of a media equals print on the end of the line.
 >
-> **[0:43](https://www.linkedin.com/learning/css-print-style-sheets/print-style-sheets-and-media-queries?u=76281980&t=43)** Second and much less popular, you could embed your print styles in the head of your HTML document using code like this.
+> **[0:43](https://www.linkedin.com/learning/css-print-style-sheets/print-style-sheets-and-media-queries?u=76281980&t=43)** Second and much less popular, you could embed your print styles in the head of your [[HTML]] document using code like this.
 >
 > **[0:51](https://www.linkedin.com/learning/css-print-style-sheets/print-style-sheets-and-media-queries?u=76281980&t=51)** In general embedded styles should be avoided.
 >
@@ -169,7 +167,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (2), html (1)
 > **Definitions:** refers to (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -177,14 +175,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a print style sheet and linking it to your document
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/creating-a-print-style-sheet-and-linking-it-to-your-document?u=76281980)
+#### [Creating a print style sheet and linking it to your document](https://www.linkedin.com/learning/css-print-style-sheets/creating-a-print-style-sheet-and-linking-it-to-your-document?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-print-style-sheets/creating-a-print-style-sheet-and-linking-it-to-your-document?u=76281980&t=0)** - [Instructor] Let's get started with print styling by creating an external print style sheet document and linking it to our HTML.
+> **[0:00](https://www.linkedin.com/learning/css-print-style-sheets/creating-a-print-style-sheet-and-linking-it-to-your-document?u=76281980&t=0)** - [Instructor] Let's get started with print styling by creating an external print style sheet document and linking it to our [[HTML]].
 >
-> **[0:08](https://www.linkedin.com/learning/css-print-style-sheets/creating-a-print-style-sheet-and-linking-it-to-your-document?u=76281980&t=8)** So, the editor that I'm using here is VS Code, it's available from Microsoft.
+> **[0:08](https://www.linkedin.com/learning/css-print-style-sheets/creating-a-print-style-sheet-and-linking-it-to-your-document?u=76281980&t=8)** So, the editor that I'm using here is VS Code, it's available from [[Microsoft]].
 >
 > **[0:14](https://www.linkedin.com/learning/css-print-style-sheets/creating-a-print-style-sheet-and-linking-it-to-your-document?u=76281980&t=14)** It's free.
 >
@@ -274,7 +271,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), css (4), [[Microsoft]] (1), web (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Microsoft]] (1)
 > **Env Vars:** html (4), css (4)
 > **CLI Commands:** make (2)
 > **Tools:** vs code (2)
@@ -283,14 +280,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 
-#### Creating a print media query
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/creating-a-print-media-query?u=76281980)
+#### [Creating a print media query](https://www.linkedin.com/learning/css-print-style-sheets/creating-a-print-media-query?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-print-style-sheets/creating-a-print-media-query?u=76281980&t=0)** - Now that you know how to set up an external print style sheet, let's set up a print based media query.
 >
-> **[0:07](https://www.linkedin.com/learning/css-print-style-sheets/creating-a-print-media-query?u=76281980&t=7)** This is exactly the same HTML and CSS that we worked with in the previous video, ugly webpage, very very simple.
+> **[0:07](https://www.linkedin.com/learning/css-print-style-sheets/creating-a-print-media-query?u=76281980&t=7)** This is exactly the same [[HTML]] and CSS that we worked with in the previous video, ugly webpage, very very simple.
 >
 > **[0:15](https://www.linkedin.com/learning/css-print-style-sheets/creating-a-print-media-query?u=76281980&t=15)** And as you can see here right now, whether it's our linked style sheet or over here in the style sheet document itself, there are no media queries that are present here in this document.
 >
@@ -318,21 +314,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), css (1), web (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Prerequisites:** set up (5)
 > **CLI Commands:** make (2)
 > **Env Vars:** html (1), css (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - now (1)
 
-#### Previewing print style sheets without printing
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/previewing-print-style-sheets-without-printing?u=76281980)
+#### [Previewing print style sheets without printing](https://www.linkedin.com/learning/css-print-style-sheets/previewing-print-style-sheets-without-printing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-print-style-sheets/previewing-print-style-sheets-without-printing?u=76281980&t=0)** - [Instructor] There are several ways to test your print styles without having to actually print your webpage.
 >
-> **[0:06](https://www.linkedin.com/learning/css-print-style-sheets/previewing-print-style-sheets-without-printing?u=76281980&t=6)** The methodologies vary slightly between Windows and Mac, and they may vary across browsers as well.
+> **[0:06](https://www.linkedin.com/learning/css-print-style-sheets/previewing-print-style-sheets-without-printing?u=76281980&t=6)** The methodologies vary slightly between [[Windows]] and Mac, and they may vary across browsers as well.
 >
 > **[0:14](https://www.linkedin.com/learning/css-print-style-sheets/previewing-print-style-sheets-without-printing?u=76281980&t=14)** I'm going to focus on Firefox and Chrome.
 >
@@ -436,7 +431,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/css-print-style-sheets/previewing-print-style-sheets-without-printing?u=76281980&t=281)** Over here in the sort of middle panel, you will find a little button that looks like this.
 >
-> **[4:48](https://www.linkedin.com/learning/css-print-style-sheets/previewing-print-style-sheets-without-printing?u=76281980&t=288)** And as you'll see, the tool tip there, which may be too small for you to read, it says, "Toggle print media simulation for the page."
+> **[4:48](https://www.linkedin.com/learning/css-print-style-sheets/previewing-print-style-sheets-without-printing?u=76281980&t=288)** And as you'll see, the tool tip there, which may be too small for you to read, it says, "Toggle print media [[Simulation]] for the page."
 >
 > **[4:55](https://www.linkedin.com/learning/css-print-style-sheets/previewing-print-style-sheets-without-printing?u=76281980&t=295)** Go ahead and click that.
 >
@@ -460,7 +455,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Windows]] (2), css (1), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Simulation]] (1)
 > **Tools:** firefox (12), safari (1)
 > **UI Navigation:** go to (6), toggle (3), scroll down (2)
 > **Env Vars:** pdf (8), css (1)
@@ -469,8 +464,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (2)
 > **Cross-References:** later in (1)
 
-#### The pitfalls of using dev tools for previewing printing
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/the-pitfalls-of-using-dev-tools-for-previewing-printing?u=76281980)
+#### [The pitfalls of using dev tools for previewing printing](https://www.linkedin.com/learning/css-print-style-sheets/the-pitfalls-of-using-dev-tools-for-previewing-printing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -480,7 +474,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/css-print-style-sheets/the-pitfalls-of-using-dev-tools-for-previewing-printing?u=76281980&t=10)** Right now this webpage has some basic styling in place, but nowhere on here, is there any media specified.
 >
-> **[0:17](https://www.linkedin.com/learning/css-print-style-sheets/the-pitfalls-of-using-dev-tools-for-previewing-printing?u=76281980&t=17)** There's no media here on line eight in our linking HTML to our style sheet document.
+> **[0:17](https://www.linkedin.com/learning/css-print-style-sheets/the-pitfalls-of-using-dev-tools-for-previewing-printing?u=76281980&t=17)** There's no media here on line eight in our linking [[HTML]] to our style sheet document.
 >
 > **[0:23](https://www.linkedin.com/learning/css-print-style-sheets/the-pitfalls-of-using-dev-tools-for-previewing-printing?u=76281980&t=23)** There's no media declared anywhere via media query inside of our CSS.
 >
@@ -512,7 +506,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/css-print-style-sheets/the-pitfalls-of-using-dev-tools-for-previewing-printing?u=76281980&t=118)** Remember the style sheet has no media declaration in it, there's no print media queries anywhere.
 >
-> **[2:04](https://www.linkedin.com/learning/css-print-style-sheets/the-pitfalls-of-using-dev-tools-for-previewing-printing?u=76281980&t=124)** So when we click the print media simulation button in Firefox the dev tools don't make any changes at all based on this author CSS.
+> **[2:04](https://www.linkedin.com/learning/css-print-style-sheets/the-pitfalls-of-using-dev-tools-for-previewing-printing?u=76281980&t=124)** So when we click the print media [[Simulation]] button in Firefox the dev tools don't make any changes at all based on this author CSS.
 >
 > **[2:16](https://www.linkedin.com/learning/css-print-style-sheets/the-pitfalls-of-using-dev-tools-for-previewing-printing?u=76281980&t=136)** However when we go to print the page via the print dialogue box, even if we go to PDF, at least on my computer and with my installed options the background color is turned off for me.
 >
@@ -524,7 +518,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[HTML]] (1), web (1), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Simulation]] (1)
 > **Env Vars:** pdf (3), css (2), html (1)
 > **Tools:** firefox (3)
 > **UI Navigation:** go to (3)
@@ -533,8 +527,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Prerequisites:** set up (1)
 
-#### Understanding screen, print, aural, and the cascade
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/understanding-screen-print-aural-and-the-cascade?u=76281980)
+#### [Understanding screen, print, aural, and the cascade](https://www.linkedin.com/learning/css-print-style-sheets/understanding-screen-print-aural-and-the-cascade?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -662,7 +655,7 @@ created: 2026-05-02
 >
 > **[5:36](https://www.linkedin.com/learning/css-print-style-sheets/understanding-screen-print-aural-and-the-cascade?u=76281980&t=336)** So as you would expect, where all else is equal in the cascade with selector specificity, the order in the style sheet does, in fact, matter.
 >
-> **[5:45](https://www.linkedin.com/learning/css-print-style-sheets/understanding-screen-print-aural-and-the-cascade?u=76281980&t=345)** As you might also expect, this same type of example holds true if you look at a separate external style sheets and listing them in the order of the head in your HTML document.
+> **[5:45](https://www.linkedin.com/learning/css-print-style-sheets/understanding-screen-print-aural-and-the-cascade?u=76281980&t=345)** As you might also expect, this same type of example holds true if you look at a separate external style sheets and listing them in the order of the head in your [[HTML]] document.
 >
 > **[5:55](https://www.linkedin.com/learning/css-print-style-sheets/understanding-screen-print-aural-and-the-cascade?u=76281980&t=355)** So if we go back into our code and I had a print style sheet here, and I wanted to list it after, your print style sheet should come here, after your style sheet for all of your styles you would list your print style sheet after it so that your cascade work correctly.
 >
@@ -676,7 +669,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (11), css (2), [[HTML]] (1), generic (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **UI Navigation:** go to (5), toggle (2)
 > **Env Vars:** css (2), pdf (1), html (1)
 > **Cross-References:** go back to (2)
@@ -690,8 +683,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Best practices for styling for print
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/best-practices-for-styling-for-print?u=76281980)
+#### [Best practices for styling for print](https://www.linkedin.com/learning/css-print-style-sheets/best-practices-for-styling-for-print?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -747,15 +739,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), next (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (2)
 > **Env Vars:** url (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Touring your example page
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/touring-your-example-page?u=76281980)
+#### [Touring your example page](https://www.linkedin.com/learning/css-print-style-sheets/touring-your-example-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -763,9 +753,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/css-print-style-sheets/touring-your-example-page?u=76281980&t=10)** So this is the document we're going to work with here in chapter two.
 >
-> **[0:13](https://www.linkedin.com/learning/css-print-style-sheets/touring-your-example-page?u=76281980&t=13)** This document is called blog dot HTML, and let's just run through real quick what we have going on here.
+> **[0:13](https://www.linkedin.com/learning/css-print-style-sheets/touring-your-example-page?u=76281980&t=13)** This document is called blog dot [[HTML]], and let's just run through real quick what we have going on here.
 >
-> **[0:20](https://www.linkedin.com/learning/css-print-style-sheets/touring-your-example-page?u=76281980&t=20)** Over here in the HTML, you'll see that we have font awesome is included here, we have some Google fonts and we have a, of course, our custom style sheet, which is displayed over here on the side.
+> **[0:20](https://www.linkedin.com/learning/css-print-style-sheets/touring-your-example-page?u=76281980&t=20)** Over here in the HTML, you'll see that we have font awesome is included here, we have some [[Google]] fonts and we have a, of course, our custom style sheet, which is displayed over here on the side.
 >
 > **[0:32](https://www.linkedin.com/learning/css-print-style-sheets/touring-your-example-page?u=76281980&t=32)** Down in the main body of the HTML, we have a header with a logo, we have a navigation bar, and then we have a longer article.
 >
@@ -869,7 +859,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), [[Google]] (1), css (1), web (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Google]] (1)
 > **Env Vars:** html (5), css (1)
 > **Analogies:** picture (4)
 > **CLI Commands:** make (3)
@@ -878,8 +868,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2), is called (1)
 > **Prerequisites:** set up (2)
 
-#### Hiding irrelevant information for print
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/hiding-irrelevant-information-for-print?u=76281980)
+#### [Hiding irrelevant information for print](https://www.linkedin.com/learning/css-print-style-sheets/hiding-irrelevant-information-for-print?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -897,7 +886,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/css-print-style-sheets/hiding-irrelevant-information-for-print?u=76281980&t=29)** They might want the links to their social media which are down here at the very bottom of the page.
 >
-> **[0:35](https://www.linkedin.com/learning/css-print-style-sheets/hiding-irrelevant-information-for-print?u=76281980&t=35)** And they might like the suggestion of these other products over here.
+> **[0:35](https://www.linkedin.com/learning/css-print-style-sheets/hiding-irrelevant-information-for-print?u=76281980&t=35)** And they might like the suggestion of these other [[Microsoft Products|products]] over here.
 >
 > **[0:39](https://www.linkedin.com/learning/css-print-style-sheets/hiding-irrelevant-information-for-print?u=76281980&t=39)** They might really want people to remember their mineral water or their quality guarantee.
 >
@@ -929,7 +918,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/css-print-style-sheets/hiding-irrelevant-information-for-print?u=76281980&t=112)** Depending on what goes in the right column, you may want to get rid of it altogether.
 >
-> **[1:57](https://www.linkedin.com/learning/css-print-style-sheets/hiding-irrelevant-information-for-print?u=76281980&t=117)** If it's like Google Ads or other kinds of advertising or links to other pages, that might be stuff you want to get rid of.
+> **[1:57](https://www.linkedin.com/learning/css-print-style-sheets/hiding-irrelevant-information-for-print?u=76281980&t=117)** If it's like [[Google]] Ads or other kinds of advertising or links to other pages, that might be stuff you want to get rid of.
 >
 > **[2:04](https://www.linkedin.com/learning/css-print-style-sheets/hiding-irrelevant-information-for-print?u=76281980&t=124)** In this particular case, it's possible that H+sport really wants to keep that stuff but we need to reformat it.
 >
@@ -945,7 +934,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/css-print-style-sheets/hiding-irrelevant-information-for-print?u=76281980&t=158)** So let's go ahead and write some code to do exactly that.
 >
-> **[2:41](https://www.linkedin.com/learning/css-print-style-sheets/hiding-irrelevant-information-for-print?u=76281980&t=161)** We'll start with, go ahead and this is the HTML and the CSS.
+> **[2:41](https://www.linkedin.com/learning/css-print-style-sheets/hiding-irrelevant-information-for-print?u=76281980&t=161)** We'll start with, go ahead and this is the [[HTML]] and the CSS.
 >
 > **[2:46](https://www.linkedin.com/learning/css-print-style-sheets/hiding-irrelevant-information-for-print?u=76281980&t=166)** I just gave you a tour of that in the previous video.
 >
@@ -999,7 +988,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), data (2), [[Microsoft Products|Products]] (1), next (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Google]] (1), [[HTML]] (1)
 > **Env Vars:** css (2), html (1), usb (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (3)
@@ -1008,8 +997,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Best Practices:** you should never (1)
 
-#### Changing webpage layouts for print
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/changing-webpage-layouts-for-print?u=76281980)
+#### [Changing webpage layouts for print](https://www.linkedin.com/learning/css-print-style-sheets/changing-webpage-layouts-for-print?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1021,7 +1009,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/css-print-style-sheets/changing-webpage-layouts-for-print?u=76281980&t=27)** So, one of the things that we probably ought to do is specify a layout in the print format so that we would get consistent printing across their various types of web browsers.
 >
-> **[0:38](https://www.linkedin.com/learning/css-print-style-sheets/changing-webpage-layouts-for-print?u=76281980&t=38)** Generally speaking, we're going to want our boxes to stack on top of each other one after the other in the source order of the HTML.
+> **[0:38](https://www.linkedin.com/learning/css-print-style-sheets/changing-webpage-layouts-for-print?u=76281980&t=38)** Generally speaking, we're going to want our boxes to stack on top of each other one after the other in the source order of the [[HTML]].
 >
 > **[0:45](https://www.linkedin.com/learning/css-print-style-sheets/changing-webpage-layouts-for-print?u=76281980&t=45)** Basically we want the mobile view of the webpage before we applied our tablet and desktop media queries.
 >
@@ -1057,7 +1045,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), next (1), web (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (4), html (1)
 > **Tools:** firefox (3)
 > **Code Identifiers:** footerclass (1)
@@ -1065,12 +1053,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - next (1)
 
-#### Overriding styles intended for screen display
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/overriding-styles-intended-for-screen-display?u=76281980)
+#### [Overriding styles intended for screen display](https://www.linkedin.com/learning/css-print-style-sheets/overriding-styles-intended-for-screen-display?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-print-style-sheets/overriding-styles-intended-for-screen-display?u=76281980&t=0)** - Next up, let's consider styling for the rest of our printed page by modifying the CSS we already have in place for our fonts.
+> **[0:00](https://www.linkedin.com/learning/css-print-style-sheets/overriding-styles-intended-for-screen-display?u=76281980&t=0)** - Next up, let's consider styling for the [[Representational State Transfer (REST)|rest]] of our printed page by modifying the CSS we already have in place for our fonts.
 >
 > **[0:07](https://www.linkedin.com/learning/css-print-style-sheets/overriding-styles-intended-for-screen-display?u=76281980&t=7)** And let's make this work a little bit better for print.
 >
@@ -1104,7 +1091,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/css-print-style-sheets/overriding-styles-intended-for-screen-display?u=76281980&t=90)** It's a nice default font.
 >
-> **[1:32](https://www.linkedin.com/learning/css-print-style-sheets/overriding-styles-intended-for-screen-display?u=76281980&t=92)** Obviously you could load in a Google font if you want, but of course, that's going to add to your overall page weight for a print style.
+> **[1:32](https://www.linkedin.com/learning/css-print-style-sheets/overriding-styles-intended-for-screen-display?u=76281980&t=92)** Obviously you could load in a [[Google]] font if you want, but of course, that's going to add to your overall page weight for a print style.
 >
 > **[1:41](https://www.linkedin.com/learning/css-print-style-sheets/overriding-styles-intended-for-screen-display?u=76281980&t=101)** So I am just going to use Georgia which should be on most people's computers.
 >
@@ -1252,7 +1239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), css (3), [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1)
 > **CLI Commands:** make (8)
 > **Versions:** 0.25 (2), 0.8 (1), 1.25 (1), 0.5 (1)
 > **Env Vars:** css (3)
@@ -1261,8 +1248,7 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - next (1)
 
-#### Adding print-only information that is hidden from screens
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/adding-print-only-information-that-is-hidden-from-screens?u=76281980)
+#### [Adding print-only information that is hidden from screens](https://www.linkedin.com/learning/css-print-style-sheets/adding-print-only-information-that-is-hidden-from-screens?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1284,7 +1270,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/css-print-style-sheets/adding-print-only-information-that-is-hidden-from-screens?u=76281980&t=55)** So if somebody makes it print out and they're looking at it later and they want to go back to the website, they know where to go.
 >
-> **[1:02](https://www.linkedin.com/learning/css-print-style-sheets/adding-print-only-information-that-is-hidden-from-screens?u=76281980&t=62)** So to do that, I am going to put that here in my HTML.
+> **[1:02](https://www.linkedin.com/learning/css-print-style-sheets/adding-print-only-information-that-is-hidden-from-screens?u=76281980&t=62)** So to do that, I am going to put that here in my [[HTML]].
 >
 > **[1:07](https://www.linkedin.com/learning/css-print-style-sheets/adding-print-only-information-that-is-hidden-from-screens?u=76281980&t=67)** And right now this is going to go up here in the header I think, and the way I'm going to do that is I'm just going to make this a paragraph and I'm going to paste in that text right there.
 >
@@ -1368,7 +1354,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), css (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (2), previous video (1)
 > **Env Vars:** html (1), css (1)
@@ -1377,8 +1363,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Writing URLs after links and social media icons
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/writing-urls-after-links-and-social-media-icons?u=76281980)
+#### [Writing URLs after links and social media icons](https://www.linkedin.com/learning/css-print-style-sheets/writing-urls-after-links-and-social-media-icons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1400,7 +1385,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/css-print-style-sheets/writing-urls-after-links-and-social-media-icons?u=76281980&t=60)** So let's go to head and add some styles, so we'll actually make this happen.
 >
-> **[1:04](https://www.linkedin.com/learning/css-print-style-sheets/writing-urls-after-links-and-social-media-icons?u=76281980&t=64)** You can do this with just CSS, you don't need Javascript.
+> **[1:04](https://www.linkedin.com/learning/css-print-style-sheets/writing-urls-after-links-and-social-media-icons?u=76281980&t=64)** You can do this with just CSS, you don't need [[JavaScript]].
 >
 > **[1:07](https://www.linkedin.com/learning/css-print-style-sheets/writing-urls-after-links-and-social-media-icons?u=76281980&t=67)** So inside of my print styles, I'm just going to keep on adding here.
 >
@@ -1432,7 +1417,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/css-print-style-sheets/writing-urls-after-links-and-social-media-icons?u=76281980&t=146)** First of all a space and then a parenthesis, and then what we want is the actual value of our href attribute, right?
 >
-> **[2:36](https://www.linkedin.com/learning/css-print-style-sheets/writing-urls-after-links-and-social-media-icons?u=76281980&t=156)** So we're going to say attrhref, so that is the notation that will go get the href value in that attribute in the html tag, and write it here in the content inside of one parenthesis, and then we should probably close that up, so we can just put in another one here on the other side.
+> **[2:36](https://www.linkedin.com/learning/css-print-style-sheets/writing-urls-after-links-and-social-media-icons?u=76281980&t=156)** So we're going to say attrhref, so that is the notation that will go get the href value in that attribute in the [[HTML]] tag, and write it here in the content inside of one parenthesis, and then we should probably close that up, so we can just put in another one here on the other side.
 >
 > **[2:57](https://www.linkedin.com/learning/css-print-style-sheets/writing-urls-after-links-and-social-media-icons?u=76281980&t=177)** So that is what that crazy line of code looks like.
 >
@@ -1446,7 +1431,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/css-print-style-sheets/writing-urls-after-links-and-social-media-icons?u=76281980&t=208)** So we just still have our icons, our links and stuff.
 >
-> **[3:32](https://www.linkedin.com/learning/css-print-style-sheets/writing-urls-after-links-and-social-media-icons?u=76281980&t=212)** Nothing's showing here, but if we go to our print view, and scroll on down to the second page, there it all is, so you can see, for example, this is a fictitious company created by LinkedIn Corporation with a link to LinkedIn.
+> **[3:32](https://www.linkedin.com/learning/css-print-style-sheets/writing-urls-after-links-and-social-media-icons?u=76281980&t=212)** Nothing's showing here, but if we go to our print view, and scroll on down to the second page, there it all is, so you can see, for example, this is a fictitious company created by [[LinkedIn]] Corporation with a link to LinkedIn.
 >
 > **[3:46](https://www.linkedin.com/learning/css-print-style-sheets/writing-urls-after-links-and-social-media-icons?u=76281980&t=226)** And you can see here that we have our various social media links with all of their links spelled out so nicely.
 >
@@ -1496,7 +1481,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[LinkedIn]] (2), [[JavaScript]] (1), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[JavaScript]] (1), [[HTML]] (1)
 > **Env Vars:** url (2), css (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (3)
@@ -1505,8 +1490,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Speakers:** - links (1)
 
-#### Complex media queries for print and page orientation
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/complex-media-queries-for-print-and-page-orientation?u=76281980)
+#### [Complex media queries for print and page orientation](https://www.linkedin.com/learning/css-print-style-sheets/complex-media-queries-for-print-and-page-orientation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1642,7 +1626,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), hit (1), generic (1), web (1)
 > **UI Navigation:** go to (6), scroll down (1)
 > **Tools:** firefox (6)
 > **CLI Commands:** make (3), find (1)
@@ -1650,9 +1633,9 @@ created: 2026-05-02
 > **Definitions:** is a  (2), is called (1)
 > **Prerequisites:** set up (2)
 > **Versions:** 6.5 (1)
+> **Speakers:** - [narrator] (1)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/challenge?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/css-print-style-sheets/challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1666,7 +1649,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/css-print-style-sheets/challenge?u=76281980&t=30)** So as you see, you have a lovely navbar up here at the top.
 >
-> **[0:33](https://www.linkedin.com/learning/css-print-style-sheets/challenge?u=76281980&t=33)** We have a logo, we have a big, beautiful image at the top of the page, we have all of this text here talking about artificial intelligence and the future of AI technology, and a sidebar talking about careers in artificial intelligence.
+> **[0:33](https://www.linkedin.com/learning/css-print-style-sheets/challenge?u=76281980&t=33)** We have a logo, we have a big, beautiful image at the top of the page, we have all of this text here talking about [[Artificial Intelligence (AI)|artificial intelligence]] and the future of AI technology, and a sidebar talking about careers in artificial intelligence.
 >
 > **[0:48](https://www.linkedin.com/learning/css-print-style-sheets/challenge?u=76281980&t=48)** And of course, it's fully responsive.
 >
@@ -1688,7 +1671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), css (1), ai (1), next (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
 > **Env Vars:** css (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
@@ -1696,8 +1679,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/solution-2?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/css-print-style-sheets/solution-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1707,7 +1689,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/css-print-style-sheets/solution-2?u=76281980&t=24)** But I'll go ahead and share with you my answer, and maybe you've got some similar ideas or maybe you've done something a little different.
 >
-> **[0:31](https://www.linkedin.com/learning/css-print-style-sheets/solution-2?u=76281980&t=31)** So let's talk about the HTML first.
+> **[0:31](https://www.linkedin.com/learning/css-print-style-sheets/solution-2?u=76281980&t=31)** So let's talk about the [[HTML]] first.
 >
 > **[0:33](https://www.linkedin.com/learning/css-print-style-sheets/solution-2?u=76281980&t=33)** I don't think I made any major changes to this HTML here at all.
 >
@@ -1749,7 +1731,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/css-print-style-sheets/solution-2?u=76281980&t=171)** I still wanted to highlight that aside as a separate thing, but rather than doing that through making the background dark and the text light, which just takes a lot of printer ink, I just set a nice little border around it and rounded the corners, just like I had the corners rounded on the webpage.
 >
-> **[3:09](https://www.linkedin.com/learning/css-print-style-sheets/solution-2?u=76281980&t=189)** So that still does a nice job of setting off that text here and making it clear it's separate from the rest of the document without taking up all of the printer ink.
+> **[3:09](https://www.linkedin.com/learning/css-print-style-sheets/solution-2?u=76281980&t=189)** So that still does a nice job of setting off that text here and making it clear it's separate from the [[Representational State Transfer (REST)|rest]] of the document without taking up all of the printer ink.
 >
 > **[3:21](https://www.linkedin.com/learning/css-print-style-sheets/solution-2?u=76281980&t=201)** Now we still have some work to do here on this.
 >
@@ -1761,7 +1743,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (3), html (2)
 > **Analogies:** picture (2), just like (1)
 > **CLI Commands:** make (1)
@@ -1775,8 +1757,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding paged media and CSS fragmentation properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/understanding-paged-media-and-css-fragmentation-properties?u=76281980)
+#### [Understanding paged media and CSS fragmentation properties](https://www.linkedin.com/learning/css-print-style-sheets/understanding-paged-media-and-css-fragmentation-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1864,7 +1845,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (10), next (1)
 > **Env Vars:** css (10), mdn (2)
 > **Definitions:** in other words (2), is a  (1)
 > **Documentation:** mdn (2)
@@ -1872,9 +1852,9 @@ created: 2026-05-02
 > **Warnings:** keep in mind (2)
 > **CLI Commands:** make (1)
 > **URLs:** [use.com](https://use.com) (1)
+> **Versions:** 2.1 (1)
 
-#### Setting printing page breaks
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/setting-printing-page-breaks?u=76281980)
+#### [Setting printing page breaks](https://www.linkedin.com/learning/css-print-style-sheets/setting-printing-page-breaks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1892,7 +1872,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/css-print-style-sheets/setting-printing-page-breaks?u=76281980&t=35)** If we take a look at this on print real quick, you'll see this is the way it's looking here inside of Chrome.
 >
-> **[0:43](https://www.linkedin.com/learning/css-print-style-sheets/setting-printing-page-breaks?u=76281980&t=43)** Very nice; I've hidden the picture here, and as you scroll down, we have this "Careers in Artificial Intelligence" right now.
+> **[0:43](https://www.linkedin.com/learning/css-print-style-sheets/setting-printing-page-breaks?u=76281980&t=43)** Very nice; I've hidden the picture here, and as you scroll down, we have this "Careers in [[Artificial Intelligence (AI)|Artificial Intelligence]]" right now.
 >
 > **[0:51](https://www.linkedin.com/learning/css-print-style-sheets/setting-printing-page-breaks?u=76281980&t=51)** That is a box and that box is breaking across this page break, and we probably would like to have that box all on one page or another.
 >
@@ -1932,7 +1912,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/css-print-style-sheets/setting-printing-page-breaks?u=76281980&t=157)** But that's the general idea of how that property works.
 >
-> **[2:40](https://www.linkedin.com/learning/css-print-style-sheets/setting-printing-page-breaks?u=76281980&t=160)** So if we go back, then, to make this a little bit more realistic, one, you probably don't want to do this through HTML tag styles the way that I was just doing here.
+> **[2:40](https://www.linkedin.com/learning/css-print-style-sheets/setting-printing-page-breaks?u=76281980&t=160)** So if we go back, then, to make this a little bit more realistic, one, you probably don't want to do this through [[HTML]] tag styles the way that I was just doing here.
 >
 > **[2:50](https://www.linkedin.com/learning/css-print-style-sheets/setting-printing-page-breaks?u=76281980&t=170)** A class is probably a way that makes this a little bit more flexible, because you're never really quite sure where you want a page break to occur, so let's go on ahead and make a class called breakafter.
 >
@@ -1980,7 +1960,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[HTML]] (1), css (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[HTML]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** switch to (1), scroll down (1), go to (1)
 > **Definitions:** in other words (2), is a  (1)
@@ -1989,8 +1969,7 @@ created: 2026-05-02
 > **Documentation:** spec (1)
 > **Tools:** visual studio (1)
 
-#### Creating columns within longer documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/creating-columns-within-longer-documents?u=76281980)
+#### [Creating columns within longer documents](https://www.linkedin.com/learning/css-print-style-sheets/creating-columns-within-longer-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2032,7 +2011,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/css-print-style-sheets/creating-columns-within-longer-documents?u=76281980&t=127)** Now by default the browser, as you can see here, went ahead and made these of equal widths but notice that this applies to the whole article.
 >
-> **[2:15](https://www.linkedin.com/learning/css-print-style-sheets/creating-columns-within-longer-documents?u=76281980&t=135)** So the title, which is this Technology Forecasts Artificial Intelligence is over just the first column.
+> **[2:15](https://www.linkedin.com/learning/css-print-style-sheets/creating-columns-within-longer-documents?u=76281980&t=135)** So the title, which is this Technology Forecasts [[Artificial Intelligence (AI)|Artificial Intelligence]] is over just the first column.
 >
 > **[2:23](https://www.linkedin.com/learning/css-print-style-sheets/creating-columns-within-longer-documents?u=76281980&t=143)** And you see the second column and the height is up there, right with that H1.
 >
@@ -2042,9 +2021,9 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/css-print-style-sheets/creating-columns-within-longer-documents?u=76281980&t=161)** Well, so we can do that if you'd like to give that a whirl.
 >
-> **[2:44](https://www.linkedin.com/learning/css-print-style-sheets/creating-columns-within-longer-documents?u=76281980&t=164)** So here in our HTML, we added that column declaration to the article tag.
+> **[2:44](https://www.linkedin.com/learning/css-print-style-sheets/creating-columns-within-longer-documents?u=76281980&t=164)** So here in our [[HTML]], we added that column declaration to the article tag.
 >
-> **[2:51](https://www.linkedin.com/learning/css-print-style-sheets/creating-columns-within-longer-documents?u=76281980&t=171)** And we have no real way of separating the H1 from the rest of the document based on the HTML that we have here at the moment.
+> **[2:51](https://www.linkedin.com/learning/css-print-style-sheets/creating-columns-within-longer-documents?u=76281980&t=171)** And we have no real way of separating the H1 from the [[Representational State Transfer (REST)|rest]] of the document based on the HTML that we have here at the moment.
 >
 > **[2:58](https://www.linkedin.com/learning/css-print-style-sheets/creating-columns-within-longer-documents?u=76281980&t=178)** But what we could do is just after that H1 we could drop in a div with a class of say something like article body, since this is the body of that article, and then scroll down forever until the end of the article and then we could close the div.
 >
@@ -2074,7 +2053,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1), product (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** css (3), html (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
@@ -2083,8 +2062,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding hyphenation
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/adding-hyphenation?u=76281980)
+#### [Adding hyphenation](https://www.linkedin.com/learning/css-print-style-sheets/adding-hyphenation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2132,15 +2110,15 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/css-print-style-sheets/adding-hyphenation?u=76281980&t=138)** There's two kinds of possible hyphens.
 >
-> **[2:20](https://www.linkedin.com/learning/css-print-style-sheets/adding-hyphenation?u=76281980&t=140)** The hard hyphen character will always hyphenate that word every single time, whether a hyphen is needed or not.
+> **[2:20](https://www.linkedin.com/learning/css-print-style-sheets/adding-hyphenation?u=76281980&t=140)** The hard hyphen character will always hyphenate that [[Microsoft Word|word]] every single time, whether a hyphen is needed or not.
 >
 > **[2:28](https://www.linkedin.com/learning/css-print-style-sheets/adding-hyphenation?u=76281980&t=148)** The shy version, as it says, invisible, soft hyphen, shy means that this is a character you'll actually put in your text, and if a hyphenation is needed at that point, then the hyphen will display; otherwise, it is ignored.
 >
 > **[2:47](https://www.linkedin.com/learning/css-print-style-sheets/adding-hyphenation?u=76281980&t=167)** So clearly, if you were going to leverage something like these manual hyphens or the soft hyphens, that is probably something you would do on the backend, setting up all those hyphens.
 >
-> **[2:57](https://www.linkedin.com/learning/css-print-style-sheets/adding-hyphenation?u=76281980&t=177)** You're probably not going to do manually in a HTML webpage.
+> **[2:57](https://www.linkedin.com/learning/css-print-style-sheets/adding-hyphenation?u=76281980&t=177)** You're probably not going to do manually in a [[HTML]] webpage.
 >
-> **[3:01](https://www.linkedin.com/learning/css-print-style-sheets/adding-hyphenation?u=76281980&t=181)** That would take an amazing amount of time in order to set that up and make it responsive and all the rest of that.
+> **[3:01](https://www.linkedin.com/learning/css-print-style-sheets/adding-hyphenation?u=76281980&t=181)** That would take an amazing amount of time in order to set that up and make it responsive and all the [[Representational State Transfer (REST)|rest]] of that.
 >
 > **[3:07](https://www.linkedin.com/learning/css-print-style-sheets/adding-hyphenation?u=76281980&t=187)** So auto is the value that we ultimately want here for our hyphens.
 >
@@ -2196,7 +2174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), rag (2), [[Microsoft Word|Word]] (1), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** means that (4), is called (3), is a  (3), in other words (1)
 > **Tools:** firefox (4), safari (3)
 > **Env Vars:** mdn (2), html (1)
@@ -2205,8 +2183,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **URLs:** [caniuse.com](https://caniuse.com) (1)
 
-#### Controlling widows and orphans
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/controlling-widows-and-orphans?u=76281980)
+#### [Controlling widows and orphans](https://www.linkedin.com/learning/css-print-style-sheets/controlling-widows-and-orphans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2296,7 +2273,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), css (2)
 > **CLI Commands:** make (5)
 > **Definitions:** in other words (3), is an  (1)
 > **Env Vars:** css (2)
@@ -2305,8 +2281,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using @page to create page margins
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/using-page-to-create-page-margins?u=76281980)
+#### [Using @page to create page margins](https://www.linkedin.com/learning/css-print-style-sheets/using-page-to-create-page-margins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2428,7 +2403,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), web (2)
 > **Cross-References:** in the next (3)
 > **Tools:** safari (2), firefox (1)
 > **Analogies:** just like (2)
@@ -2436,8 +2410,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Coming soon: Additional @page properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/coming-soon-additional-page-properties?u=76281980)
+#### [Coming soon: Additional @page properties](https://www.linkedin.com/learning/css-print-style-sheets/coming-soon-additional-page-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2515,15 +2488,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), web (1), next (1)
 > **Env Vars:** css (2)
 > **Definitions:** is called (1), is a  (1)
 > **Cross-References:** coming up (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/challenge-2?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/css-print-style-sheets/challenge-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2551,15 +2522,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), next (1)
 > **Env Vars:** css (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/solution?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/css-print-style-sheets/solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2649,7 +2618,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1), web (1)
 > **CLI Commands:** make (5)
 > **Tools:** firefox (4)
 > **UI Navigation:** go to (3), scroll down (1)
@@ -2657,14 +2625,14 @@ created: 2026-05-02
 > **Versions:** 0.75 (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
+> **Non-Speech:** (upbeat music) (1)
 
 
 ### Conclusion
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-print-style-sheets/next-steps-25762079?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/css-print-style-sheets/next-steps-25762079?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2696,7 +2664,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (6), next (1)
 > **Env Vars:** css (6)
 > **CLI Commands:** find (1)
 > **Speakers:** - hey (1)

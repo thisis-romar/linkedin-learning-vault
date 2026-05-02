@@ -85,8 +85,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Strategic agility and the pace of change
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-and-the-pace-of-change?u=76281980)
+#### [Strategic agility and the pace of change](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-and-the-pace-of-change?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -104,7 +103,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), power (1)
 > **Speakers:** - guiding (1)
 
 
@@ -112,8 +110,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Strategic agility is critical to leadership today
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-is-critical-to-leadership-today?u=76281980)
+#### [Strategic agility is critical to leadership today](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-is-critical-to-leadership-today?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -133,7 +130,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-is-critical-to-leadership-today?u=76281980&t=30)** You'll be asked to answer it again and again and again, as the pace and scale of change continue to grow, and as you have to deal with relentless uncertainty.
 >
-> **[0:42](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-is-critical-to-leadership-today?u=76281980&t=42)** That's why to be strategically agile, I'm going to help you to develop three critical capacities.
+> **[0:42](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-is-critical-to-leadership-today?u=76281980&t=42)** That's why to be strategically [[Agile Development|agile]], I'm going to help you to develop three critical capacities.
 >
 > **[0:50](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-is-critical-to-leadership-today?u=76281980&t=50)** The first capacity is a strategically agile mindset.
 >
@@ -151,7 +148,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-is-critical-to-leadership-today?u=76281980&t=103)** Here in the era of AI, there are many technologies that can help to fuel your efforts to be strategically agile, but it's not just technology.
 >
-> **[1:53](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-is-critical-to-leadership-today?u=76281980&t=113)** There are also techniques in your toolkit, such as moonshot thinking and rapid prototyping that will help you and your organization to blend strategy with agility.
+> **[1:53](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-is-critical-to-leadership-today?u=76281980&t=113)** There are also techniques in your toolkit, such as moonshot thinking and rapid [[Prototyping]] that will help you and your organization to blend strategy with agility.
 >
 > **[2:04](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-is-critical-to-leadership-today?u=76281980&t=124)** There's one very simple reason why you need to develop the strategic agility mindset, skillset, and toolset, and that's that the pace and scale of change are likely to never slow down.
 >
@@ -177,13 +174,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), next (1), ai (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), [[Prototyping]] (1)
 > **Analogies:** such as (1), imagine (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - suppose (1)
 
-#### From change management to transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/from-change-management-to-transformation?u=76281980)
+#### [From change management to transformation](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/from-change-management-to-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -201,7 +197,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/from-change-management-to-transformation?u=76281980&t=42)** So let's face it, change management is dead.
 >
-> **[0:45](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/from-change-management-to-transformation?u=76281980&t=45)** To truly be strategically agile, we all need to embrace transformation.
+> **[0:45](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/from-change-management-to-transformation?u=76281980&t=45)** To truly be strategically [[Agile Development|agile]], we all need to embrace transformation.
 >
 > **[0:52](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/from-change-management-to-transformation?u=76281980&t=52)** Lou Gerstner, the former CEO of IBM once said that, "Transformation means that you are "really fundamentally changing the way "the organization thinks, the way it responds, "and the way it leads."
 >
@@ -265,7 +261,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/from-change-management-to-transformation?u=76281980&t=210)** Startups almost never have enough talent or money.
 >
-> **[3:35](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/from-change-management-to-transformation?u=76281980&t=215)** They often have to make do with extremely limited resources, yet they still have to deliver products and services to their customers.
+> **[3:35](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/from-change-management-to-transformation?u=76281980&t=215)** They often have to make do with extremely limited resources, yet they still have to deliver [[Microsoft Products|products]] and services to their customers.
 >
 > **[3:43](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/from-change-management-to-transformation?u=76281980&t=223)** I know that all sounds pretty daunting, doesn't it?
 >
@@ -279,15 +275,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), [[Agile Development|Agile]] (2), ai (1), data (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** ceo (1), ibm (1)
 > **Definitions:** means that (1)
 > **Analogies:** picture (1)
 > **Speakers:** - in (1)
 
-#### Strategic agility for the modern organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-for-the-modern-organization?u=76281980)
+#### [Strategic agility for the modern organization](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-for-the-modern-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -309,7 +304,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-for-the-modern-organization?u=76281980&t=56)** Together mission, vision and values define the organization's core purpose.
 >
-> **[1:02](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-for-the-modern-organization?u=76281980&t=62)** The more accurately you can define your organization's reason for being, the more strategically agile it can become.
+> **[1:02](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-for-the-modern-organization?u=76281980&t=62)** The more accurately you can define your organization's reason for being, the more strategically [[Agile Development|agile]] it can become.
 >
 > **[1:11](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-for-the-modern-organization?u=76281980&t=71)** The next component is a clear strategy.
 >
@@ -367,13 +362,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Agile Development|Agile]] (1), teams (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - there (1)
 
-#### Strategic agility: Mindset, skillset, toolset
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-mindset-skillset-toolset?u=76281980)
+#### [Strategic agility: Mindset, skillset, toolset](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-mindset-skillset-toolset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -407,15 +401,15 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-mindset-skillset-toolset?u=76281980&t=88)** When you began the journey you had none of that skillset but all of the mindset.
 >
-> **[1:33](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-mindset-skillset-toolset?u=76281980&t=93)** In his book "The Journey through Fear," this is what my friend John Hagel calls the mind of the explorer.
+> **[1:33](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-mindset-skillset-toolset?u=76281980&t=93)** In his book "The Journey through Fear," this is what my friend [[John the Ripper|John]] Hagel calls the mind of the explorer.
 >
 > **[1:41](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-mindset-skillset-toolset?u=76281980&t=101)** From another great management guru, Peter Drucker, you might have heard the phrase, "Culture eats strategy for breakfast."
 >
-> **[1:48](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-mindset-skillset-toolset?u=76281980&t=108)** Well, to be strategically agile, mindset eats skillset for lunch.
+> **[1:48](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-mindset-skillset-toolset?u=76281980&t=108)** Well, to be strategically [[Agile Development|agile]], mindset eats skillset for lunch.
 >
 > **[1:56](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-mindset-skillset-toolset?u=76281980&t=116)** We all need the skillset for strategic agility, and throughout this course I'll tell you what I think those skills need to be.
 >
-> **[2:02](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-mindset-skillset-toolset?u=76281980&t=122)** But if you and your team are about to walk into a meeting or a design thinking session and you think, "We've got this.
+> **[2:02](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-mindset-skillset-toolset?u=76281980&t=122)** But if you and your team are about to walk into a meeting or a [[Design Thinking]] session and you think, "We've got this.
 >
 > **[2:10](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-agility-mindset-skillset-toolset?u=76281980&t=130)** "We have the mindset to solve this problem together," you'll be just as right as if you think you can't solve that problem.
 >
@@ -433,7 +427,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), ai (2), management (1), [[Design Thinking]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[John the Ripper|John]] (1), [[Design Thinking]] (1)
 > **Env Vars:** gps (1)
 > **Speakers:** - i (1)
 
@@ -442,8 +436,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Strategic mindset powered by AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-mindset-powered-by-ai?u=76281980)
+#### [Strategic mindset powered by AI](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-mindset-powered-by-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -459,7 +452,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-mindset-powered-by-ai?u=76281980&t=39)** There are well publicized examples of people exposing their organization's sensitive data to competitors in this way.
 >
-> **[0:47](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-mindset-powered-by-ai?u=76281980&t=47)** So if you have the slightest concerns that your tool isn't secure, ask a cybersecurity expert in your IT department for a recommendation or use the sample company details that I've included in the handout for this session.
+> **[0:47](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-mindset-powered-by-ai?u=76281980&t=47)** So if you have the slightest concerns that your tool isn't secure, ask a [[Cybersecurity]] expert in your IT department for a recommendation or use the sample company details that I've included in the handout for this session.
 >
 > **[1:02](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-mindset-powered-by-ai?u=76281980&t=62)** When you're certain the AI tool you're using is safe, enter this prompt, which you can copy and paste from the handout.
 >
@@ -475,7 +468,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-mindset-powered-by-ai?u=76281980&t=99)** Imagine that an imaginary, well-funded new competitor has suddenly appeared in our key market, which will force us to come up with a dramatically new strategy.
 >
-> **[1:50](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-mindset-powered-by-ai?u=76281980&t=110)** Give that competitor a name, describe their products and services, and suggest what that competitor might do to impact our markets, describing in detail how they could affect us.
+> **[1:50](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-mindset-powered-by-ai?u=76281980&t=110)** Give that competitor a name, describe their [[Microsoft Products|products]] and services, and suggest what that competitor might do to impact our markets, describing in detail how they could affect us.
 >
 > **[2:03](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-mindset-powered-by-ai?u=76281980&t=123)** Then, ask a tool to give you two other examples so you can choose from at least these three options.
 >
@@ -505,13 +498,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), prompt (2), data (1), [[Cybersecurity]] (1), business (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** imagine (4), think of it as (1)
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - in (1)
 
-#### Mindset change powered by AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/mindset-change-powered-by-ai?u=76281980)
+#### [Mindset change powered by AI](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/mindset-change-powered-by-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -547,7 +539,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/mindset-change-powered-by-ai?u=76281980&t=94)** Our cognitive biases often treat that future version of ourselves almost like a different person, and future me can wait an extra week, right?
 >
-> **[1:45](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/mindset-change-powered-by-ai?u=76281980&t=105)** In fact, our non-conscious cognitive biases drive a significant amount of our decision-making.
+> **[1:45](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/mindset-change-powered-by-ai?u=76281980&t=105)** In fact, our non-conscious cognitive biases drive a significant amount of our [[Decision-Making]].
 >
 > **[1:53](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/mindset-change-powered-by-ai?u=76281980&t=113)** I asked Dr. Evian Gordon, who has assembled the largest database of brain studies in the world, to distill those thousands of studies down to one consistent insight about how our unique minds operate.
 >
@@ -589,14 +581,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Decision-Making]] (1), database (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - one (1)
 
-#### Taking intelligent risks
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/taking-intelligent-risks?u=76281980)
+#### [Taking intelligent risks](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/taking-intelligent-risks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -666,7 +657,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), management (1)
 > **CLI Commands:** make (5)
 > **Analogies:** picture (2), for example (1), imagine (1), such as (1)
 > **Speakers:** - we (1)
@@ -676,8 +666,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Strategic skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-skills?u=76281980)
+#### [Strategic skills](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -707,7 +696,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-skills?u=76281980&t=97)** So, your coordinating skill helps you to empower team members with the agency to continually solve problems together.
 >
-> **[1:46](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-skills?u=76281980&t=106)** Accountability means that you hold team members to their commitments.
+> **[1:46](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-skills?u=76281980&t=106)** [[Accountability]] means that you hold team members to their commitments.
 >
 > **[1:51](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-skills?u=76281980&t=111)** If everybody achieves what they've committed to all the time, great, but if a team member doesn't follow through, as the team guide, you must be able to hold them accountable.
 >
@@ -727,7 +716,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-skills?u=76281980&t=194)** Of course, together these five skills form the acronym SCALE.
 >
-> **[3:18](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-skills?u=76281980&t=198)** My course on Learning Agility focuses on the skillset of PACE, Problem-solving, Adaptability, Creativity and Empathy.
+> **[3:18](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-skills?u=76281980&t=198)** My course on [[Learning Agility]] focuses on the skillset of PACE, Problem-solving, Adaptability, Creativity and Empathy.
 >
 > **[3:27](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-skills?u=76281980&t=207)** So, now you have the strategic agility skillset of SCALE, Synchronizing, Coordinating, Accountability, Learning, and Evolving.
 >
@@ -737,15 +726,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Accountability]] (2), next (1), [[Learning Agility]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (2), [[Learning Agility]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** scale (2), pace (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - you (1)
 
-#### Strategic skill development with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-skill-development-with-ai?u=76281980)
+#### [Strategic skill development with AI](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-skill-development-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -789,7 +777,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-skill-development-with-ai?u=76281980&t=117)** Ask the tool for alternative strategies that you can use to help maintain the interdependency of team members and to help them to support each other.
 >
-> **[2:07](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-skill-development-with-ai?u=76281980&t=127)** Next, accountability.
+> **[2:07](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-skill-development-with-ai?u=76281980&t=127)** Next, [[Accountability]].
 >
 > **[2:09](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/strategic-skill-development-with-ai?u=76281980&t=129)** This can be one of the hardest SCALE skills.
 >
@@ -813,14 +801,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), next (2), prompt (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (1)
 > **Env Vars:** scale (5)
 > **CLI Commands:** make (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - how (1)
 
-#### Build agile teams that thrive in uncertainty
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/build-agile-teams-that-thrive-in-uncertainty?u=76281980)
+#### [Build agile teams that thrive in uncertainty](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/build-agile-teams-that-thrive-in-uncertainty?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -840,7 +827,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/build-agile-teams-that-thrive-in-uncertainty?u=76281980&t=52)** Ask your AI tool for suggestions on coaching techniques to pull less-coordinated team members back into working better with others.
 >
-> **[1:03](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/build-agile-teams-that-thrive-in-uncertainty?u=76281980&t=63)** Next, accountability.
+> **[1:03](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/build-agile-teams-that-thrive-in-uncertainty?u=76281980&t=63)** Next, [[Accountability]].
 >
 > **[1:05](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/build-agile-teams-that-thrive-in-uncertainty?u=76281980&t=65)** Some team members are reliably accountable, committing to and achieving deadlines and deliverables over and over again, but others might not be quite so accountable.
 >
@@ -866,7 +853,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/build-agile-teams-that-thrive-in-uncertainty?u=76281980&t=146)** So here's a follow-up activity.
 >
-> **[2:29](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/build-agile-teams-that-thrive-in-uncertainty?u=76281980&t=149)** Look at the Agile team's handout, which includes a list of various skills that contribute to each person's ability to practice strategic agility.
+> **[2:29](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/build-agile-teams-that-thrive-in-uncertainty?u=76281980&t=149)** Look at the [[Agile Development|Agile]] team's handout, which includes a list of various skills that contribute to each person's ability to practice strategic agility.
 >
 > **[2:39](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/build-agile-teams-that-thrive-in-uncertainty?u=76281980&t=159)** Arrange a discussion with whoever in your organization is the most strategic thinker on skills.
 >
@@ -878,7 +865,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), next (2), [[Accountability]] (1), [[Agile Development|Agile]] (1), hr (1)
+> **Frameworks & Libraries:** [[Accountability]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
@@ -889,8 +876,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Practicing futures thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/practicing-futures-thinking?u=76281980)
+#### [Practicing futures thinking](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/practicing-futures-thinking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -906,7 +892,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/practicing-futures-thinking?u=76281980&t=30)** There are so many potential techniques that you can use to practice strategic agility, and I've included a number of them in the handout for this session.
 >
-> **[0:39](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/practicing-futures-thinking?u=76281980&t=39)** But here we're going to focus on three of the most useful, futures thinking, moonshot thinking, and rapid prototyping.
+> **[0:39](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/practicing-futures-thinking?u=76281980&t=39)** But here we're going to focus on three of the most useful, futures thinking, moonshot thinking, and rapid [[Prototyping]].
 >
 > **[0:48](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/practicing-futures-thinking?u=76281980&t=48)** First, futures thinking.
 >
@@ -922,17 +908,17 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/practicing-futures-thinking?u=76281980&t=129)** Suppose you were thinking about future developments at the intersection of say, agriculture, engineering and space.
 >
-> **[2:18](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/practicing-futures-thinking?u=76281980&t=138)** Using futures thinking, you might have envisioned that a tractor company like John Deere could someday develop a self-driving farm tractor guided by satellites from space, which of course they already have.
+> **[2:18](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/practicing-futures-thinking?u=76281980&t=138)** Using futures thinking, you might have envisioned that a tractor company like [[John the Ripper|John]] Deere could someday develop a self-driving farm tractor guided by satellites from space, which of course they already have.
 >
 > **[2:35](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/practicing-futures-thinking?u=76281980&t=155)** So here are three steps to begin practicing futures thinking.
 >
 > **[2:40](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/practicing-futures-thinking?u=76281980&t=160)** Step one, is to develop a flow of futures oriented information.
 >
-> **[2:46](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/practicing-futures-thinking?u=76281980&t=166)** Subscribe to a variety of future-focused podcasts, and email newsletters.
+> **[2:46](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/practicing-futures-thinking?u=76281980&t=166)** Subscribe to a variety of future-focused podcasts, and email [[Newsletters]].
 >
 > **[2:51](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/practicing-futures-thinking?u=76281980&t=171)** Singularity University is a great source of future-centric insights across virtually every industry in technology.
 >
-> **[3:00](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/practicing-futures-thinking?u=76281980&t=180)** And check out my weekly email newsletter on LinkedIn.
+> **[3:00](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/practicing-futures-thinking?u=76281980&t=180)** And check out my weekly email newsletter on [[LinkedIn]].
 >
 > **[3:04](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/practicing-futures-thinking?u=76281980&t=184)** You can also ask your favorite AI tool for specific information sources on particular topics, no matter how esoteric.
 >
@@ -950,25 +936,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Prototyping]] (1), [[Engineering]] (1), [[Newsletters]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1), [[John the Ripper|John]] (1), [[Newsletters]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - so (1)
 
-#### Moonshot thinking and prototyping
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/moonshot-thinking-and-prototyping?u=76281980)
+#### [Moonshot thinking and prototyping](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/moonshot-thinking-and-prototyping?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/moonshot-thinking-and-prototyping?u=76281980&t=0)** - Once you've opened the aperture of your efforts by leveraging futures thinking, now it's time to figure out how to put your vision into practice.
 >
-> **[0:09](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/moonshot-thinking-and-prototyping?u=76281980&t=9)** We'll do that with moonshot thinking and rapid prototyping.
+> **[0:09](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/moonshot-thinking-and-prototyping?u=76281980&t=9)** We'll do that with moonshot thinking and rapid [[Prototyping]].
 >
 > **[0:14](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/moonshot-thinking-and-prototyping?u=76281980&t=14)** First, moonshot thinking.
 >
-> **[0:16](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/moonshot-thinking-and-prototyping?u=76281980&t=16)** That's not just a mindset, it's also a set of practices that can help you to expand your options when you're being strategically agile.
+> **[0:16](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/moonshot-thinking-and-prototyping?u=76281980&t=16)** That's not just a mindset, it's also a set of practices that can help you to expand your options when you're being strategically [[Agile Development|agile]].
 >
-> **[0:25](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/moonshot-thinking-and-prototyping?u=76281980&t=25)** This approach was developed at Google X, the company's moonshot factory, which spawned businesses like Waymo, the self-driving car company.
+> **[0:25](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/moonshot-thinking-and-prototyping?u=76281980&t=25)** This approach was developed at [[Google]] X, the company's moonshot factory, which spawned businesses like Waymo, the self-driving car company.
 >
 > **[0:35](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/moonshot-thinking-and-prototyping?u=76281980&t=35)** So how does moonshot thinking work?
 >
@@ -998,7 +983,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/moonshot-thinking-and-prototyping?u=76281980&t=97)** Next is rapid prototyping.
 >
-> **[1:39](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/moonshot-thinking-and-prototyping?u=76281980&t=99)** You may be familiar with design thinking, which is a technique for empathizing with a customer's need, defining the problem to be solved, ideating and prototyping a solution, then testing that solution.
+> **[1:39](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/moonshot-thinking-and-prototyping?u=76281980&t=99)** You may be familiar with [[Design Thinking]], which is a technique for empathizing with a customer's need, defining the problem to be solved, ideating and prototyping a solution, then testing that solution.
 >
 > **[1:53](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/moonshot-thinking-and-prototyping?u=76281980&t=113)** But that process can sometimes take months.
 >
@@ -1046,15 +1031,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (5), [[Agile Development|Agile]] (2), next (2), power (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (5), [[Agile Development|Agile]] (2), [[Google]] (1), [[Design Thinking]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - once (1)
 
-#### AI-powered practices to fuel strategic agility
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/ai-powered-practices-to-fuel-strategic-agility?u=76281980)
+#### [AI-powered practices to fuel strategic agility](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/ai-powered-practices-to-fuel-strategic-agility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1068,7 +1052,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/ai-powered-practices-to-fuel-strategic-agility?u=76281980&t=28)** First, some technologies are great at synthesizing huge volumes of text, images, and video.
 >
-> **[0:37](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/ai-powered-practices-to-fuel-strategic-agility?u=76281980&t=37)** Large language models, or LLMs, are uniquely good at pulling from countless data sources, synthesizing that information, and kicking back that text or image with blinding speed.
+> **[0:37](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/ai-powered-practices-to-fuel-strategic-agility?u=76281980&t=37)** [[Large Language Models (LLM)|Large language models]], or LLMs, are uniquely good at pulling from countless data sources, synthesizing that information, and kicking back that text or image with blinding speed.
 >
 > **[0:51](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/ai-powered-practices-to-fuel-strategic-agility?u=76281980&t=51)** Good news, you can feed your favorite tool virtually any text, image, or video related to your organization's strategy and generate new ideas and content.
 >
@@ -1076,11 +1060,11 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/ai-powered-practices-to-fuel-strategic-agility?u=76281980&t=64)** As we've talked about, you must always be certain that the tool you use is both ethical and secure.
 >
-> **[1:11](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/ai-powered-practices-to-fuel-strategic-agility?u=76281980&t=71)** And because these tools are fueled by content created by humans, who, as we've also established, have an extensive range of biases, all of that content that generative AI tools consume is also biased in some way.
+> **[1:11](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/ai-powered-practices-to-fuel-strategic-agility?u=76281980&t=71)** And because these tools are fueled by content created by humans, who, as we've also established, have an extensive range of biases, all of that content that [[Generative AI Tools]] consume is also biased in some way.
 >
 > **[1:30](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/ai-powered-practices-to-fuel-strategic-agility?u=76281980&t=90)** Sure, with these tools, you get access to the world's information, but you get human bias for free.
 >
-> **[1:37](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/ai-powered-practices-to-fuel-strategic-agility?u=76281980&t=97)** If you use caution, though, and you use only tools that have been tested for ethics, security, and bias, then you can leverage them for your strategic agility.
+> **[1:37](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/ai-powered-practices-to-fuel-strategic-agility?u=76281980&t=97)** If you use caution, though, and you use only tools that have been tested for [[Ethics]], security, and bias, then you can leverage them for your strategic agility.
 >
 > **[1:48](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/ai-powered-practices-to-fuel-strategic-agility?u=76281980&t=108)** You can use your organization's favorite AI to brainstorm alternative strategic decisions.
 >
@@ -1088,11 +1072,11 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/ai-powered-practices-to-fuel-strategic-agility?u=76281980&t=122)** Second category, a variety of tools connect useful data to fuel strategic agility.
 >
-> **[2:09](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/ai-powered-practices-to-fuel-strategic-agility?u=76281980&t=129)** Suppose you have access to your organization's financial information, product development activities, manufacturing activities, sales activities, market data, and market research.
+> **[2:09](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/ai-powered-practices-to-fuel-strategic-agility?u=76281980&t=129)** Suppose you have access to your organization's financial information, [[Product Development]] activities, manufacturing activities, sales activities, market data, and [[Market Research]].
 >
 > **[2:20](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/ai-powered-practices-to-fuel-strategic-agility?u=76281980&t=140)** If all of these sources are connected to AI tools, you could monitor key changes or challenges.
 >
-> **[2:27](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/ai-powered-practices-to-fuel-strategic-agility?u=76281980&t=147)** You could kick off processes to review organizational strategy, to make real-time changes to that strategy, and to catalyze a series of ripple effects throughout the organization to adopt the new strategic goals.
+> **[2:27](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/ai-powered-practices-to-fuel-strategic-agility?u=76281980&t=147)** You could kick off processes to review organizational strategy, to make [[Real-Time]] changes to that strategy, and to catalyze a series of ripple effects throughout the organization to adopt the new strategic goals.
 >
 > **[2:43](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/ai-powered-practices-to-fuel-strategic-agility?u=76281980&t=163)** All of these processes could help you detect hidden trends and to prepare for changes that you hadn't even anticipated.
 >
@@ -1104,9 +1088,9 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/ai-powered-practices-to-fuel-strategic-agility?u=76281980&t=180)** Some agents will change their behavior based on data, such as stock purchase recommendation tools that search one data source when the stock market is up and another data source when the stock market is down.
 >
-> **[3:14](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/ai-powered-practices-to-fuel-strategic-agility?u=76281980&t=194)** And some AI agents can be chained together to perform a series of complex tasks.
+> **[3:14](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/ai-powered-practices-to-fuel-strategic-agility?u=76281980&t=194)** And some [[AI Agents]] can be chained together to perform a series of complex tasks.
 >
-> **[3:20](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/ai-powered-practices-to-fuel-strategic-agility?u=76281980&t=200)** A final word of caution.
+> **[3:20](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/ai-powered-practices-to-fuel-strategic-agility?u=76281980&t=200)** A final [[Microsoft Word|word]] of caution.
 >
 > **[3:22](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/ai-powered-practices-to-fuel-strategic-agility?u=76281980&t=202)** Suppose you let a piece of software perform tasks for you, like checking a variety of sources to determine that your organization's strategy needs to change, then automatically generating an email message notifying a variety of people about those changes.
 >
@@ -1116,15 +1100,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (6), [[Large Language Models (LLM)|Large language models]] (1), [[Generative AI Tools]] (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[Generative AI Tools]] (1), [[Ethics]] (1), [[Product Development]] (1), [[Market Research]] (1)
 > **CLI Commands:** make (2)
 > **Warnings:** caution (2)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
 > **Speakers:** - we (1)
 
-#### Executing AI-powered strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/executing-ai-powered-strategy?u=76281980)
+#### [Executing AI-powered strategy](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/executing-ai-powered-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1140,7 +1123,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/executing-ai-powered-strategy?u=76281980&t=33)** You're a futurist, an expert on gathering information from a range of sources, then envisioning possible future scenarios.
 >
-> **[0:41](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/executing-ai-powered-strategy?u=76281980&t=41)** From the information I've given you, tell me five scenarios for the kinds of products and services that customers might want in 20 years.
+> **[0:41](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/executing-ai-powered-strategy?u=76281980&t=41)** From the information I've given you, tell me five scenarios for the kinds of [[Microsoft Products|products]] and services that customers might want in 20 years.
 >
 > **[0:52](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/executing-ai-powered-strategy?u=76281980&t=52)** Will that list be right?
 >
@@ -1168,13 +1151,13 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/executing-ai-powered-strategy?u=76281980&t=132)** Ask the tool to expand on the lean canvas to suggest ideas for dramatically increasing the success of the offering.
 >
-> **[2:21](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/executing-ai-powered-strategy?u=76281980&t=141)** Finally, rapid prototyping.
+> **[2:21](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/executing-ai-powered-strategy?u=76281980&t=141)** Finally, rapid [[Prototyping]].
 >
 > **[2:24](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/executing-ai-powered-strategy?u=76281980&t=144)** You can once again bring together a range of employees from throughout your organization to conduct a rapid prototyping session in small groups, but this time, let them bring their laptops and give them a list of AI-powered tools to do rapid prototyping, quickly designing screens, modeling workflows, and emulating some of the behavior of an actual off-the-shelf software product.
 >
 > **[2:50](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/executing-ai-powered-strategy?u=76281980&t=170)** Bonus points for your design sessions: involve actual customers or other constituents who could benefit from that product or service, like people who have the same characteristics as your target customers.
 >
-> **[3:03](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/executing-ai-powered-strategy?u=76281980&t=183)** That will give you actual real-time feedback on your ideas or offerings.
+> **[3:03](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/executing-ai-powered-strategy?u=76281980&t=183)** That will give you actual [[Real-Time]] feedback on your ideas or offerings.
 >
 > **[3:09](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/executing-ai-powered-strategy?u=76281980&t=189)** Now, these are just some examples.
 >
@@ -1190,7 +1173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), product (3), [[Prototyping]] (3), power (1), data (1)
+> **Frameworks & Libraries:** [[Prototyping]] (3), [[Microsoft Products|Products]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
@@ -1201,8 +1184,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Developing strategic foresight
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/developing-strategic-foresight?u=76281980)
+#### [Developing strategic foresight](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/developing-strategic-foresight?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1230,7 +1212,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/developing-strategic-foresight?u=76281980&t=78)** But looking three decades down the road is usually comfortably distant, opening up a lot of creative thinking.
 >
-> **[1:26](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/developing-strategic-foresight?u=76281980&t=86)** Think of this as zooming out, as John Hagel, the management guru, would say.
+> **[1:26](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/developing-strategic-foresight?u=76281980&t=86)** Think of this as zooming out, as [[John the Ripper|John]] Hagel, the management guru, would say.
 >
 > **[1:32](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/developing-strategic-foresight?u=76281980&t=92)** Step 2 is to develop the foresight skillset.
 >
@@ -1244,7 +1226,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/developing-strategic-foresight?u=76281980&t=127)** You've been building this tool belt as you've gone through this course.
 >
-> **[2:11](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/developing-strategic-foresight?u=76281980&t=131)** Techniques like futures thinking, moonshot thinking, and rapid prototyping, as well as technologies like generative AI, all are part of our toolkit for foresight practices.
+> **[2:11](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/developing-strategic-foresight?u=76281980&t=131)** Techniques like futures thinking, moonshot thinking, and rapid [[Prototyping]], as well as technologies like [[Generative AI]], all are part of our toolkit for foresight practices.
 >
 > **[2:23](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/developing-strategic-foresight?u=76281980&t=143)** And finally, Step 4 is to bake strategic foresight into your quarterly and annual practices.
 >
@@ -1262,24 +1244,23 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/developing-strategic-foresight?u=76281980&t=214)** Now, let's look at foresight powered by AI.
 >
-> **[3:38](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/developing-strategic-foresight?u=76281980&t=218)** Our human brains can get overwhelmed by too much data, but AI tools, like large language models, and generative AI simply gobble up huge piles of information, then synthesize that information under our direction.
+> **[3:38](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/developing-strategic-foresight?u=76281980&t=218)** Our human brains can get overwhelmed by too much data, but AI tools, like [[Large Language Models (LLM)|large language models]], and generative AI simply gobble up huge piles of information, then synthesize that information under our direction.
 >
 > **[3:54](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/developing-strategic-foresight?u=76281980&t=234)** Suppose as part of your organization's foresight practices, you're concerned that one of your existing competitors could suddenly develop a new product that could significantly impact your business.
 >
 > **[4:07](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/developing-strategic-foresight?u=76281980&t=247)** You can feed reams of market studies and reports into your favorite AI tool, and then you can query it about those competitors.
 >
-> **[4:16](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/developing-strategic-foresight?u=76281980&t=256)** Ask the software, what would be different products or services that our competitors could create that could provide a risk for our organization?
+> **[4:16](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/developing-strategic-foresight?u=76281980&t=256)** Ask the software, what would be different [[Microsoft Products|products]] or services that our competitors could create that could provide a risk for our organization?
 >
 > **[4:27](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/developing-strategic-foresight?u=76281980&t=267)** What you're looking for are patterns, insights that can help you to weigh potential challenges and opportunities of the future, and to build your organization-wide capacity for foresight.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Generative AI]] (2), power (1), management (1), teams (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[John the Ripper|John]] (1), [[Prototyping]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** known as (1)
 > **Speakers:** - we (1)
 
-#### Being continuously agile
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/being-continuously-agile?u=76281980)
+#### [Being continuously agile](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/being-continuously-agile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1287,7 +1268,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/being-continuously-agile?u=76281980&t=10)** But we live in a world of exponential change.
 >
-> **[0:14](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/being-continuously-agile?u=76281980&t=14)** You have to be continuously strategically agile over and over again.
+> **[0:14](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/being-continuously-agile?u=76281980&t=14)** You have to be continuously strategically [[Agile Development|agile]] over and over again.
 >
 > **[0:20](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/being-continuously-agile?u=76281980&t=20)** So how will you know if your organization is being continuously agile?
 >
@@ -1327,7 +1308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), data (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
 > **Speakers:** - everything (1)
@@ -1337,8 +1318,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Activating strategic agility
-> [LinkedIn Learning](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/activating-strategic-agility?u=76281980)
+#### [Activating strategic agility](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/activating-strategic-agility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1346,7 +1326,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/activating-strategic-agility?u=76281980&t=11)** Sure, that's a challenge, but it's also a tremendous opportunity to develop the mindset, skillset, and tool set for strategic agility.
 >
-> **[0:22](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/activating-strategic-agility?u=76281980&t=22)** I hope you've found the variety of strategies and exercises in the course useful to help you help others to become strategically agile.
+> **[0:22](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/activating-strategic-agility?u=76281980&t=22)** I hope you've found the variety of strategies and exercises in the course useful to help you help others to become strategically [[Agile Development|agile]].
 >
 > **[0:32](https://www.linkedin.com/learning/strategic-agility-for-organizational-leaders/activating-strategic-agility?u=76281980&t=32)** So what could you do next?
 >
@@ -1382,7 +1362,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Agile Development|Agile]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1)
 > **Prerequisites:** configure (1)

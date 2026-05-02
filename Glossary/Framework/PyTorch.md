@@ -33,7 +33,7 @@ created: 2026-05-02
 2. [[AI Workshop- Build a Neural Network with PyTorch Lightning (2023)]] — 110 mentions
 3. [[Hands-On PyTorch Machine Learning]] — 69 mentions
 4. [[Google Cloud Professional Machine Learning Engineer Cert Prep]] — 65 mentions
-5. [[Rust for Data Engineering]] — 31 mentions
+5. [[Rust for Data Engineering]] — 32 mentions
 6. [[AI Workshop- Hands-on with GANs with Deep Convolutional Networks]] — 21 mentions
 7. [[AI Workshop- Hands-on with GANs Using Dense Neural Networks (2023)]] — 18 mentions
 8. [[MLOps Tools- MLflow and Hugging Face]] — 13 mentions
@@ -46,8 +46,8 @@ created: 2026-05-02
 > 13. [[Introduction to Attention-Based Neural Networks]] — 6 mentions
 > 14. [[Everyday AI Business Tools]] — 5 mentions
 > 15. [[Deep Learning Fundamentals for Healthcare]] — 5 mentions
-> 16. [[AI Product Security- Secure Architecture, Deployment, and Infrastructure]] — 4 mentions
-> 17. [[Advanced Data Processing- Batch, Real-Time, and Cloud Architectures for AI]] — 4 mentions
+> 16. [[Advanced Data Processing- Batch, Real-Time, and Cloud Architectures for AI]] — 5 mentions
+> 17. [[AI Product Security- Secure Architecture, Deployment, and Infrastructure]] — 4 mentions
 > 18. [[Fine-Tuning for LLMs- from Beginner to Advanced]] — 4 mentions
 > 19. [[AI Product Security- Testing, Validation, and Maintenance]] — 3 mentions
 > 20. [[Responsible AI and Application Development]] — 3 mentions
@@ -97,7 +97,7 @@ created: 2026-05-02
 3. [[Getting Started with AI and Machine Learning]] — 70 total mentions
 4. [[Prepare for the Google Cloud Professional Machine Learning Engineer Certification]] — 65 total mentions
 5. [[Advance Your Skills in AI and Machine Learning]] — 49 total mentions
-6. [[Develop Your Rust Skills for Data Engineering]] — 31 total mentions
+6. [[Develop Your Rust Skills for Data Engineering]] — 32 total mentions
 7. [[Become an AI Engineer]] — 19 total mentions
 8. [[MLOps Essentials for Developers and AI Engineers- Tools, Pipelines, Security]] — 18 total mentions
 9. [[Explore AI for Data Engineering]] — 12 total mentions

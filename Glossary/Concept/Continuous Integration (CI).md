@@ -33,8 +33,8 @@ created: 2026-05-02
 
 1. [[Azure DevOps for Beginners]] — 19 mentions
 2. [[Continuous Delivery for Cloud Native Java Apps]] — 18 mentions
-3. [[Agile Software Development- Extreme Programming]] — 16 mentions
-4. [[Devops Foundations]] — 15 mentions
+3. [[Devops Foundations]] — 16 mentions
+4. [[Agile Software Development- Extreme Programming]] — 16 mentions
 5. [[DevOps Foundations- Continuous Delivery-Continuous Integration]] — 15 mentions
 6. [[Google Cloud Professional Machine Learning Engineer Cert Prep]] — 12 mentions
 7. [[Node.js- Testing and Code Quality]] — 12 mentions
@@ -50,11 +50,11 @@ created: 2026-05-02
 > 15. [[Jenkins Essential Training]] — 8 mentions
 > 16. [[C- Framework Design]] — 7 mentions
 > 17. [[DevSecOps- Automated Security Testing]] — 7 mentions
-> 18. [[Complete Guide to AWS Software Deployment]] — 6 mentions
-> 19. [[MLOps and Data Pipeline Orchestration for AI Systems]] — 6 mentions
-> 20. [[Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines]] — 5 mentions
-> 21. [[Lean Technology Strategy- Running Agile at Scale]] — 5 mentions
-> 22. [[Azure Understanding The Big Picture]] — 5 mentions
+> 18. [[Azure Understanding The Big Picture]] — 6 mentions
+> 19. [[Complete Guide to AWS Software Deployment]] — 6 mentions
+> 20. [[MLOps and Data Pipeline Orchestration for AI Systems]] — 6 mentions
+> 21. [[Introduction to Agile Development Practices- Bring Agile to Your Development Pipelines]] — 5 mentions
+> 22. [[Lean Technology Strategy- Running Agile at Scale]] — 5 mentions
 > 23. [[DevSecOps- Building a Secure Continuous Delivery Pipeline]] — 5 mentions
 > 24. [[Putting ITIL® into Practice- DevOps for ITIL® Practitioners]] — 5 mentions
 > 25. [[Securing Containers and Kubernetes Ecosystem]] — 5 mentions
@@ -90,42 +90,42 @@ created: 2026-05-02
 > 55. [[Planning and Releasing Software with Jira]] — 2 mentions
 > 56. [[Learning the Angular CLI]] — 2 mentions
 > 57. [[Planning a Multicloud Solution (2022)]] — 2 mentions
-> 58. [[Microsoft Security Essentials Concepts Solutions And Ai Powered Protection]] — 2 mentions
-> 59. [[Introduction to AWS AI Services for Developers]] — 2 mentions
-> 60. [[Create an Open-Source Project in Python]] — 2 mentions
-> 61. [[Data-Centric AI- Best Practices, Responsible AI, and More]] — 2 mentions
-> 62. [[Azure Essential Training for Developers]] — 2 mentions
-> 63. [[Succeeding in DevOps]] — 2 mentions
-> 64. [[DevOps Tips]] — 2 mentions
-> 65. [[Putting Itil Into Practice Applying Itil 4 Foundation Concepts]] — 2 mentions
-> 66. [[Kubernetes- Cloud Native Ecosystem]] — 2 mentions
-> 67. [[Agile Software Development- Dealing with Legacy Code and Technical Debt]] — 2 mentions
-> 68. [[Leveraging Google Cloud Developer and DevOps Tools]] — 2 mentions
-> 69. [[Spring On Kubernetes Deploying And Managing Cloud Native Applications]] — 2 mentions
-> 70. [[Determining Your Cloud Strategy- Planning for Roadmap, Infrastructure, and Deployment]] — 1 mentions
-> 71. [[Introduction to IT Architecture]] — 1 mentions
-> 72. [[AI and the Future of Work- Workflows and Modern Tools for Tech Leaders]] — 1 mentions
-> 73. [[Cloud Computing- Understanding Private Cloud Options]] — 1 mentions
-> 74. [[Dynamic Application Security Testing]] — 1 mentions
-> 75. [[Accelerate Your Developer Career]] — 1 mentions
-> 76. [[AI Product Development- Secure by Design]] — 1 mentions
-> 77. [[Data Science Foundations- Fundamentals]] — 1 mentions
-> 78. [[Build with AI- Beyond Pair Programming with AI]] — 1 mentions
-> 79. [[Cloud Concepts Planning An Application Migration Strategy]] — 1 mentions
-> 80. [[Software Testing Tips Weekly]] — 1 mentions
-> 81. [[Powershell 7 Essential Training]] — 1 mentions
-> 82. [[Building a Cloud Architecture Diagram]] — 1 mentions
-> 83. [[Angular- Testing and Debugging]] — 1 mentions
-> 84. [[Secure Data Management for AI Implementation]] — 1 mentions
-> 85. [[Data Preparation, Feature Engineering, and Augmentation for AI Models]] — 1 mentions
-> 86. [[Software Testing Assistance with GitHub Copilot AI]] — 1 mentions
-> 87. [[Responsible GitHub Copilot- Creating Reliable Code Ethically]] — 1 mentions
-> 88. [[Azure AI- The Big Picture]] — 1 mentions
-> 89. [[PySpark Essential Training- Introduction to Building Data Pipelines]] — 1 mentions
-> 90. [[The AI Ecosystem for Developers- Models, Datasets, and APIs]] — 1 mentions
-> 91. [[Building Monorepos On Github]] — 1 mentions
-> 92. [[GitHub Dependabot- Dependency Updates]] — 1 mentions
-> 93. [[Software Design- From Requirements to Release]] — 1 mentions
+> 58. [[Software Design- From Requirements to Release]] — 2 mentions
+> 59. [[Microsoft Security Essentials Concepts Solutions And Ai Powered Protection]] — 2 mentions
+> 60. [[Introduction to AWS AI Services for Developers]] — 2 mentions
+> 61. [[Create an Open-Source Project in Python]] — 2 mentions
+> 62. [[Data-Centric AI- Best Practices, Responsible AI, and More]] — 2 mentions
+> 63. [[Azure Essential Training for Developers]] — 2 mentions
+> 64. [[Succeeding in DevOps]] — 2 mentions
+> 65. [[DevOps Tips]] — 2 mentions
+> 66. [[Putting Itil Into Practice Applying Itil 4 Foundation Concepts]] — 2 mentions
+> 67. [[Kubernetes- Cloud Native Ecosystem]] — 2 mentions
+> 68. [[Agile Software Development- Dealing with Legacy Code and Technical Debt]] — 2 mentions
+> 69. [[Leveraging Google Cloud Developer and DevOps Tools]] — 2 mentions
+> 70. [[Spring On Kubernetes Deploying And Managing Cloud Native Applications]] — 2 mentions
+> 71. [[Determining Your Cloud Strategy- Planning for Roadmap, Infrastructure, and Deployment]] — 1 mentions
+> 72. [[Introduction to IT Architecture]] — 1 mentions
+> 73. [[AI and the Future of Work- Workflows and Modern Tools for Tech Leaders]] — 1 mentions
+> 74. [[Cloud Computing- Understanding Private Cloud Options]] — 1 mentions
+> 75. [[Dynamic Application Security Testing]] — 1 mentions
+> 76. [[Accelerate Your Developer Career]] — 1 mentions
+> 77. [[AI Product Development- Secure by Design]] — 1 mentions
+> 78. [[Data Science Foundations- Fundamentals]] — 1 mentions
+> 79. [[Build with AI- Beyond Pair Programming with AI]] — 1 mentions
+> 80. [[Cloud Concepts Planning An Application Migration Strategy]] — 1 mentions
+> 81. [[Software Testing Tips Weekly]] — 1 mentions
+> 82. [[Powershell 7 Essential Training]] — 1 mentions
+> 83. [[Building a Cloud Architecture Diagram]] — 1 mentions
+> 84. [[Angular- Testing and Debugging]] — 1 mentions
+> 85. [[Secure Data Management for AI Implementation]] — 1 mentions
+> 86. [[Data Preparation, Feature Engineering, and Augmentation for AI Models]] — 1 mentions
+> 87. [[Software Testing Assistance with GitHub Copilot AI]] — 1 mentions
+> 88. [[Responsible GitHub Copilot- Creating Reliable Code Ethically]] — 1 mentions
+> 89. [[Azure AI- The Big Picture]] — 1 mentions
+> 90. [[PySpark Essential Training- Introduction to Building Data Pipelines]] — 1 mentions
+> 91. [[The AI Ecosystem for Developers- Models, Datasets, and APIs]] — 1 mentions
+> 92. [[Building Monorepos On Github]] — 1 mentions
+> 93. [[GitHub Dependabot- Dependency Updates]] — 1 mentions
 > 94. [[Learning Jira Software]] — 1 mentions
 > 95. [[DevSecOps- Tips for Success]] — 1 mentions
 > 96. [[Aws Essential Training For Developers]] — 1 mentions
@@ -151,13 +151,13 @@ created: 2026-05-02
 
 ## Learning Paths
 
-1. [[Develop Your Skills in Agile Software Development]] — 42 total mentions
-2. [[Getting Started with DevOps]] — 36 total mentions
-3. [[Getting Started as an Azure Developer]] — 34 total mentions
+1. [[Develop Your Skills in Agile Software Development]] — 43 total mentions
+2. [[Getting Started with DevOps]] — 37 total mentions
+3. [[Getting Started as an Azure Developer]] — 35 total mentions
 4. [[Getting Started with Agile Software Development]] — 34 total mentions
-5. [[DevOps Professional Certificate by PagerDuty and LinkedIn]] — 32 total mentions
+5. [[DevOps Professional Certificate by PagerDuty and LinkedIn]] — 33 total mentions
 6. [[Getting Started with Continuous Integration - Continuous Delivery (CI-CD)]] — 29 total mentions
-7. [[Develop Your Skills as a Software Project Manager]] — 26 total mentions
+7. [[Develop Your Skills as a Software Project Manager]] — 27 total mentions
 8. [[Get Ahead in DevSecOps]] — 21 total mentions
 9. [[Building Your Java Skills]] — 18 total mentions
 10. [[Applying Lean, DevOps, and Agile to Your IT Organization]] — 17 total mentions

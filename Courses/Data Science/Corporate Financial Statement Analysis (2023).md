@@ -94,8 +94,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is financial statement analysis?
-> [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-is-financial-statement-analysis-19830257?u=76281980)
+#### [What is financial statement analysis?](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-is-financial-statement-analysis-19830257?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,9 +110,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-is-financial-statement-analysis-19830257?u=76281980&t=11)** - Absolutely.
 >
-> **[0:11](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-is-financial-statement-analysis-19830257?u=76281980&t=11)** We love numbers, we love financial statements, and we love using financial reports to gain insight into how companies work.
+> **[0:11](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-is-financial-statement-analysis-19830257?u=76281980&t=11)** We love numbers, we love [[Financial Statements]], and we love using financial reports to gain insight into how companies work.
 >
-> **[0:19](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-is-financial-statement-analysis-19830257?u=76281980&t=19)** - This course introduces you to methods of financial statement analysis that allow you to use a company's financial reports to identify the company's strengths and weaknesses.
+> **[0:19](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-is-financial-statement-analysis-19830257?u=76281980&t=19)** - This course introduces you to methods of [[Financial Statement Analysis]] that allow you to use a company's financial reports to identify the company's strengths and weaknesses.
 >
 > **[0:29](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-is-financial-statement-analysis-19830257?u=76281980&t=29)** - You can start to see how past decisions have affected the financial statements and how decisions made now might affect the statements of the future.
 >
@@ -121,17 +120,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (2), [[Financial Statement Analysis]] (2), strengths (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (2), [[Financial Statement Analysis]] (2)
 > **Speakers:** - hi (1), - i (1), - absolutely (1), - this (1), - you (1)
 
-#### Common methods of analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-methods-of-analysis-19832229?u=76281980)
+#### [Common methods of analysis](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-methods-of-analysis-19832229?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-methods-of-analysis-19832229?u=76281980&t=1)** - Now, when it comes to corporate financial statement analysis there are several common methods of analysis.
+> **[0:01](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-methods-of-analysis-19832229?u=76281980&t=1)** - Now, when it comes to corporate [[Financial Statement Analysis]] there are several common methods of analysis.
 >
-> **[0:06](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-methods-of-analysis-19832229?u=76281980&t=6)** One method relates to what is called common-size financial statements.
+> **[0:06](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-methods-of-analysis-19832229?u=76281980&t=6)** One method relates to what is called common-size [[Financial Statements]].
 >
 > **[0:11](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-methods-of-analysis-19832229?u=76281980&t=11)** We prepare common-size financial statements by dividing financial statement numbers by either total sales or total assets.
 >
@@ -153,7 +151,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-methods-of-analysis-19832229?u=76281980&t=71)** The point is this, we can get a lot of powerful information with a few simple computations.
 >
-> **[1:17](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-methods-of-analysis-19832229?u=76281980&t=77)** Now, another common method for analyzing financial statements is called financial ratio analysis, which involves examining the relationships between specific financial statement numbers.
+> **[1:17](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-methods-of-analysis-19832229?u=76281980&t=77)** Now, another common method for analyzing financial statements is called financial [[Ratio Analysis]], which involves examining the relationships between specific financial statement numbers.
 >
 > **[1:29](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-methods-of-analysis-19832229?u=76281980&t=89)** We will introduce you to one of my favorite things in all of accounting, the DuPont framework, which tells us all about the profitability, the efficiency, and the leverage of a company.
 >
@@ -198,12 +196,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The accounting equation
-> [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-accounting-equation-19829526?u=76281980)
+#### [The accounting equation](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-accounting-equation-19829526?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-accounting-equation-19829526?u=76281980&t=1)** - Before we get into financial statement analysis, let's do a quick review of the financial statements, these mythical creations that tell us so much about a company's performance.
+> **[0:01](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-accounting-equation-19829526?u=76281980&t=1)** - Before we get into [[Financial Statement Analysis]], let's do a quick review of the [[Financial Statements]], these mythical creations that tell us so much about a company's performance.
 >
 > **[0:10](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-accounting-equation-19829526?u=76281980&t=10)** - The financial statements are built around one of the most awesome creations of the human mind: the accounting equation, assets equal liabilities plus equity.
 >
@@ -281,16 +278,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (6), business (2), [[Financial Statement Analysis]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (6), [[Financial Statement Analysis]] (1)
 > **Speakers:** - [instructor (7), - the (3), - now (2), - before (1), - it (1)
 > **Definitions:** is a  (1)
 
-#### Reading the balance sheet
-> [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-balance-sheet?u=76281980)
+#### [Reading the balance sheet](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-balance-sheet?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-balance-sheet?u=76281980&t=1)** - Since we're going to be using the financial statements to do our analysis, let's quickly review the primary financial statements.
+> **[0:01](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-balance-sheet?u=76281980&t=1)** - Since we're going to be using the [[Financial Statements]] to do our analysis, let's quickly review the primary financial statements.
 >
 > **[0:07](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-balance-sheet?u=76281980&t=7)** There are three.
 >
@@ -306,7 +302,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-balance-sheet?u=76281980&t=41)** The balance sheet embodies the accounting equation, one of the greatest inventions of the human mind invented in Italy over 500 years ago.
 >
-> **[0:50](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-balance-sheet?u=76281980&t=50)** Now, we're going to use a hypothetical example to do some financial ratio analysis.
+> **[0:50](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-balance-sheet?u=76281980&t=50)** Now, we're going to use a hypothetical example to do some financial [[Ratio Analysis]].
 >
 > **[0:55](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-balance-sheet?u=76281980&t=55)** So let's make up this example now.
 >
@@ -362,7 +358,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-balance-sheet?u=76281980&t=155)** Now, the liabilities for our Uncertain Company are two, accounts payable of $2,500 and long-term debt of $4,500 for total liabilities of $7,000.
 >
-> **[2:47](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-balance-sheet?u=76281980&t=167)** Meaning of those $14,500 in assets that Uncertain Company has, 7,000 of those dollars came from borrowing in these two different forms.
+> **[2:47](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-balance-sheet?u=76281980&t=167)** Meaning of those $14,500 in assets that Uncertain Company has, 7,000 of those dollars came from borrowing in these two different [[Forms]].
 >
 > **[2:58](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-balance-sheet?u=76281980&t=178)** Now, the second source of financing to buy assets is owner's equity.
 >
@@ -422,14 +418,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (5), business (5), [[Ratio Analysis]] (2), [[Forms]] (1), strengths (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (5), [[Ratio Analysis]] (2), [[Forms]] (1)
 > **Definitions:** is a  (2), we call this (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - since (1)
 
-#### Reading the income statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-income-statement?u=76281980)
+#### [Reading the income statement](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-income-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -449,9 +444,9 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-income-statement?u=76281980&t=34)** That's how Walmart creates assets.
 >
-> **[0:37](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-income-statement?u=76281980&t=37)** Microsoft creates assets by creating software and hardware that you and I then buy, and we pay Microsoft for those things.
+> **[0:37](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-income-statement?u=76281980&t=37)** [[Microsoft]] creates assets by creating software and [[Hardware]] that you and I then buy, and we pay Microsoft for those things.
 >
-> **[0:44](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-income-statement?u=76281980&t=44)** Disney has consumer products, they have cruises, they have theme parks.
+> **[0:44](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-income-statement?u=76281980&t=44)** Disney has consumer [[Microsoft Products|products]], they have cruises, they have theme parks.
 >
 > **[0:49](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-income-statement?u=76281980&t=49)** We pay to use those things or to buy those products, and that's how Disney generates assets.
 >
@@ -473,7 +468,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-income-statement?u=76281980&t=103)** Now, net income is a very sophisticated economic measure.
 >
-> **[1:47](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-income-statement?u=76281980&t=107)** It's the net amount of assets generated by a business through its business operations.
+> **[1:47](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-income-statement?u=76281980&t=107)** It's the net amount of assets generated by a business through its [[Business Operations]].
 >
 > **[1:52](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-income-statement?u=76281980&t=112)** This is the income statement.
 >
@@ -495,18 +490,17 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-income-statement?u=76281980&t=161)** How does that happen?
 >
-> **[2:42](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-income-statement?u=76281980&t=162)** Well, that's the kind of thing we learn through doing corporate financial statement analysis.
+> **[2:42](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/reading-the-income-statement?u=76281980&t=162)** Well, that's the kind of thing we learn through doing corporate [[Financial Statement Analysis]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Microsoft]] (5), [[Microsoft Products|Products]] (2), [[Hardware]] (1), [[Financial Statement Analysis]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (5), [[Microsoft Products|Products]] (2), [[Hardware]] (1), [[Business Operations]] (1), [[Financial Statement Analysis]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - now (1)
 
-#### Evaluating the statement of cash flows
-> [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/evaluating-the-statement-of-cash-flows?u=76281980)
+#### [Evaluating the statement of cash flows](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/evaluating-the-statement-of-cash-flows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -594,7 +588,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/evaluating-the-statement-of-cash-flows?u=76281980&t=238)** Now, I have some bad news about the statement of cash flows.
 >
-> **[4:03](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/evaluating-the-statement-of-cash-flows?u=76281980&t=243)** You're going to have to say goodbye to the statement of cash flows at this point because most financial statement analysis is done without cash flow ratios.
+> **[4:03](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/evaluating-the-statement-of-cash-flows?u=76281980&t=243)** You're going to have to say goodbye to the statement of cash flows at this point because most [[Financial Statement Analysis]] is done without cash flow ratios.
 >
 > **[4:12](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/evaluating-the-statement-of-cash-flows?u=76281980&t=252)** The reason for this is that the cash flow statement is so new.
 >
@@ -602,19 +596,19 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/evaluating-the-statement-of-cash-flows?u=76281980&t=257)** In contrast, the balance sheet and the income statement are over 500 years old.
 >
-> **[4:22](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/evaluating-the-statement-of-cash-flows?u=76281980&t=262)** So the standard financial statement and ratio analysis formulas don't really include financial ratios related to cash flows.
+> **[4:22](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/evaluating-the-statement-of-cash-flows?u=76281980&t=262)** So the standard financial statement and [[Ratio Analysis]] formulas don't really include financial ratios related to cash flows.
 >
 > **[4:29](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/evaluating-the-statement-of-cash-flows?u=76281980&t=269)** Now, don't blame me, don't blame my brother.
 >
 > **[4:33](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/evaluating-the-statement-of-cash-flows?u=76281980&t=273)** The cash flow statement is just too new.
 >
-> **[4:36](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/evaluating-the-statement-of-cash-flows?u=76281980&t=276)** The balance sheet, the income statement, the statement of cash flows, those are our three primary financial statements.
+> **[4:36](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/evaluating-the-statement-of-cash-flows?u=76281980&t=276)** The balance sheet, the income statement, the statement of cash flows, those are our three primary [[Financial Statements]].
 >
 > **[4:43](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/evaluating-the-statement-of-cash-flows?u=76281980&t=283)** In our analysis to follow, we'll focus on the first two, the balance sheet and the income statement.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (9), [[Financial Statement Analysis]] (1), [[Ratio Analysis]] (1), [[Financial Statements]] (1)
+> **Frameworks & Libraries:** [[Financial Statement Analysis]] (1), [[Ratio Analysis]] (1), [[Financial Statements]] (1)
 > **Speakers:** - the (1)
 
 
@@ -622,8 +616,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Determining return on equity
-> [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/determining-return-on-equity?u=76281980)
+#### [Determining return on equity](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/determining-return-on-equity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -645,7 +638,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/determining-return-on-equity?u=76281980&t=40)** - [Jim] Well, the first thing we notice is Benchmark is bigger, and if we do a little mental math, we can conclude, well, it looks like their net income's higher relative to their sales.
 >
-> **[0:50](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/determining-return-on-equity?u=76281980&t=50)** But just a raw comparison of Benchmark's financial statements with Uncertain's financial statements, that's tough to do.
+> **[0:50](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/determining-return-on-equity?u=76281980&t=50)** But just a raw comparison of Benchmark's [[Financial Statements]] with Uncertain's financial statements, that's tough to do.
 >
 > **[0:57](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/determining-return-on-equity?u=76281980&t=57)** - There's got to be a way to compare these two companies of different sizes.
 >
@@ -689,7 +682,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/determining-return-on-equity?u=76281980&t=149)** They reported an ROE of 29%.
 >
-> **[2:32](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/determining-return-on-equity?u=76281980&t=152)** - [Kay] United, Microsoft, and General Motors range from 18.5% up to 21.3%.
+> **[2:32](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/determining-return-on-equity?u=76281980&t=152)** - [Kay] United, [[Microsoft]], and General Motors range from 18.5% up to 21.3%.
 >
 > **[2:38](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/determining-return-on-equity?u=76281980&t=158)** All good.
 >
@@ -710,8 +703,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 
-#### Applying the DuPont framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/applying-the-dupont-framework?u=76281980)
+#### [Applying the DuPont framework](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/applying-the-dupont-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -721,7 +713,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/applying-the-dupont-framework?u=76281980&t=18)** DuPont was a vertically integrated company, and management often had to compare really different projects.
 >
-> **[0:24](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/applying-the-dupont-framework?u=76281980&t=24)** Mr. Brown created a financial ratio analysis framework that combined measures of profitability, efficiency, and leverage into one overall measure of performance that allows comparisons in performance across divisions within a company, and even across companies.
+> **[0:24](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/applying-the-dupont-framework?u=76281980&t=24)** Mr. Brown created a financial [[Ratio Analysis]] framework that combined measures of profitability, efficiency, and leverage into one overall measure of performance that allows comparisons in performance across divisions within a company, and even across companies.
 >
 > **[0:41](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/applying-the-dupont-framework?u=76281980&t=41)** Now, the DuPont framework has three components: profitability, efficiency, and leverage.
 >
@@ -799,13 +791,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), [[Ratio Analysis]] (1), business (1)
+> **Frameworks & Libraries:** [[Ratio Analysis]] (1)
 > **Versions:** 9.3 (1), 20.3 (1), 1.38 (1), 1.70 (1), 3.50 (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - in (1)
 
-#### Example: Ford vs. General Motors
-> [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-ford-vs-general-motors-19830258?u=76281980)
+#### [Example: Ford vs. General Motors](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-ford-vs-general-motors-19830258?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -901,7 +892,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), next (1)
 > **Versions:** 10.2 (4), 21.7 (3), 7.26 (2), 7.13 (2), 4.9 (2)
 > **Env Vars:** roe (4)
 > **CLI Commands:** make (1)
@@ -914,8 +904,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Common-size overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-overview-19830256?u=76281980)
+#### [Common-size overview](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-overview-19830256?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -925,9 +914,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-overview-19830256?u=76281980&t=10)** Well, it's hard to tell just by looking at the raw numbers.
 >
-> **[0:13](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-overview-19830256?u=76281980&t=13)** - Step one in our financial ratio analysis is the DuPont framework, very elegant, very nice, dividing return on equity into profitability, efficiency, and leverage dimensions.
+> **[0:13](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-overview-19830256?u=76281980&t=13)** - Step one in our financial [[Ratio Analysis]] is the DuPont framework, very elegant, very nice, dividing return on equity into profitability, efficiency, and leverage dimensions.
 >
-> **[0:24](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-overview-19830256?u=76281980&t=24)** - So let's go on to step two, common size financial statements, which, in my opinion, is such an efficient way to get more information out of the financial statements.
+> **[0:24](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-overview-19830256?u=76281980&t=24)** - So let's go on to step two, common size [[Financial Statements]], which, in my opinion, is such an efficient way to get more information out of the financial statements.
 >
 > **[0:33](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-overview-19830256?u=76281980&t=33)** - The basic insight is this: you can't compare companies of different size or scale issues.
 >
@@ -937,7 +926,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-overview-19830256?u=76281980&t=54)** That's a powerful number to know.
 >
-> **[0:55](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-overview-19830256?u=76281980&t=55)** - [Instructor 1] It is important to be systematic and do the financial analysis steps in the correct order Step one, DuPont analysis.
+> **[0:55](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-overview-19830256?u=76281980&t=55)** - [Instructor 1] It is important to be systematic and do the [[Financial Analysis]] steps in the correct order Step one, DuPont analysis.
 >
 > **[1:03](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-overview-19830256?u=76281980&t=63)** Step two, common sizing the financial statements.
 >
@@ -973,25 +962,24 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-overview-19830256?u=76281980&t=151)** - Now, hopefully, you're picking up the pattern here.
 >
-> **[2:33](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-overview-19830256?u=76281980&t=153)** We don't just cannonball into the deep end of financial statement analysis by dividing everything by everything else.
+> **[2:33](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-overview-19830256?u=76281980&t=153)** We don't just cannonball into the deep end of [[Financial Statement Analysis]] by dividing everything by everything else.
 >
 > **[2:39](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-overview-19830256?u=76281980&t=159)** Let's be efficient and systematic.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (6), [[Ratio Analysis]] (1), [[Financial Analysis]] (1), next (1), [[Financial Statement Analysis]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (6), [[Ratio Analysis]] (1), [[Financial Analysis]] (1), [[Financial Statement Analysis]] (1)
 > **Speakers:** - [instructor (2), - so (2), - to (2), - step (1), - the (1)
 > **Versions:** 9.5 (1), 3.5 (1), 1.7 (1)
 > **Analogies:** for example (1)
 
-#### Common-size income statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-income-statement-19826710?u=76281980)
+#### [Common-size income statement](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-income-statement-19826710?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-income-statement-19826710?u=76281980&t=1)** - The DuPont framework highlights issues that need further examination.
 >
-> **[0:04](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-income-statement-19826710?u=76281980&t=4)** We drill down into those issues using common size financial statements.
+> **[0:04](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-income-statement-19826710?u=76281980&t=4)** We drill down into those issues using common size [[Financial Statements]].
 >
 > **[0:09](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-income-statement-19826710?u=76281980&t=9)** The results of our common size analysis will lead us to other ratios that might be of interest.
 >
@@ -1051,13 +1039,13 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-income-statement-19826710?u=76281980&t=171)** This very simple thing, dividing each number in the financial statements by sales for the year, converts those balance sheet and income statement numbers into much better reflectors of information.
 >
-> **[3:03](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-income-statement-19826710?u=76281980&t=183)** Now, what's the rest of the story?
+> **[3:03](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-income-statement-19826710?u=76281980&t=183)** Now, what's the [[Representational State Transfer (REST)|rest]] of the story?
 >
 > **[3:05](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-income-statement-19826710?u=76281980&t=185)** Why is our wage expense so high?
 >
 > **[3:07](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-income-statement-19826710?u=76281980&t=187)** Why is our research and development cost so high?
 >
-> **[3:10](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-income-statement-19826710?u=76281980&t=190)** Well, that's what financial statement analysis does.
+> **[3:10](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-income-statement-19826710?u=76281980&t=190)** Well, that's what [[Financial Statement Analysis]] does.
 >
 > **[3:14](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-income-statement-19826710?u=76281980&t=194)** It never tells us the answer, but it does tell us some pretty good questions.
 >
@@ -1073,14 +1061,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (2), business (2), [[Financial Statement Analysis]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (2), [[Financial Statement Analysis]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Versions:** 3.5 (1), 6.2 (1)
 > **Analogies:** for example (2)
 > **Speakers:** - the (1)
 
-#### Common-size balance sheet
-> [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-balance-sheet-19830259?u=76281980)
+#### [Common-size balance sheet](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-balance-sheet-19830259?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1134,7 +1121,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-balance-sheet-19830259?u=76281980&t=118)** Is this part of some strategic plan?
 >
-> **[2:00](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-balance-sheet-19830259?u=76281980&t=120)** Well, you can imagine a plausible story to support the numbers revealed in the common size financial statements.
+> **[2:00](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-balance-sheet-19830259?u=76281980&t=120)** Well, you can imagine a plausible story to support the numbers revealed in the common size [[Financial Statements]].
 >
 > **[2:07](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-balance-sheet-19830259?u=76281980&t=127)** Hey, the reason our wage expense is so high as a percentage of sales is we only hire the best people.
 >
@@ -1144,7 +1131,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-balance-sheet-19830259?u=76281980&t=137)** Well, we're pointed into technology.
 >
-> **[2:18](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-balance-sheet-19830259?u=76281980&t=138)** We want to have the best products.
+> **[2:18](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-balance-sheet-19830259?u=76281980&t=138)** We want to have the best [[Microsoft Products|products]].
 >
 > **[2:21](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-balance-sheet-19830259?u=76281980&t=141)** We don't want current generation products, we want next generation products.
 >
@@ -1166,24 +1153,23 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-balance-sheet-19830259?u=76281980&t=169)** So the question is this, is Uncertain company in trouble, or is this all part of some clever plan?
 >
-> **[2:56](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-balance-sheet-19830259?u=76281980&t=176)** The financial ratio analysis will never tell you that, but it will tell you the questions that you should be asking.
+> **[2:56](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-balance-sheet-19830259?u=76281980&t=176)** The financial [[Ratio Analysis]] will never tell you that, but it will tell you the questions that you should be asking.
 >
 > **[3:03](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/common-size-balance-sheet-19830259?u=76281980&t=183)** Now you know where to go to talk to the right people, to ask them the right questions, with this simple tool, common size financial statements.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Financial Statements]] (2), management (1), next (1), [[Ratio Analysis]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Financial Statements]] (2), [[Ratio Analysis]] (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** in other words (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - now (1)
 
-#### Example: Walmart vs. Target
-> [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-walmart-vs-target?u=76281980)
+#### [Example: Walmart vs. Target](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-walmart-vs-target?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-walmart-vs-target?u=76281980&t=1)** - So we've used common-size financial statements to analyze on certain company, but will this same technique work with a real company, a real company like Walmart?
+> **[0:01](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-walmart-vs-target?u=76281980&t=1)** - So we've used common-size [[Financial Statements]] to analyze on certain company, but will this same technique work with a real company, a real company like Walmart?
 >
 > **[0:10](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-walmart-vs-target?u=76281980&t=10)** Well, let's take a look at Walmart's income statement.
 >
@@ -1257,7 +1243,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-walmart-vs-target?u=76281980&t=188)** You can see that with Walmart's revenues being almost seven times larger than Targets, a direct side-by-side comparison would be difficult.
 >
-> **[3:17](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-walmart-vs-target?u=76281980&t=197)** But when we look at the percentages, we can see some stark differences.
+> **[3:17](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-walmart-vs-target?u=76281980&t=197)** But when we look at the percentages, we can see some [[Stark (Accessibility Software)|stark]] differences.
 >
 > **[3:22](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-walmart-vs-target?u=76281980&t=202)** Let's just look at 2018 and avoid the one-time loss we highlighted earlier.
 >
@@ -1271,7 +1257,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-walmart-vs-target?u=76281980&t=229)** Now, there may be very good, very reasonable answers to those questions, but at least we have a starting point to look for those answers.
 >
-> **[3:59](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-walmart-vs-target?u=76281980&t=239)** Corporate financial statement analysis allows us to easily compare results across time for the same company, as we just did with Walmart, and to compare across companies at the same point in time, as we just did with Target and Walmart.
+> **[3:59](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-walmart-vs-target?u=76281980&t=239)** Corporate [[Financial Statement Analysis]] allows us to easily compare results across time for the same company, as we just did with Walmart, and to compare across companies at the same point in time, as we just did with Target and Walmart.
 >
 > **[4:13](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-walmart-vs-target?u=76281980&t=253)** Common-sizing the financial statements allows us to compare apples to apples or oranges to oranges.
 >
@@ -1279,7 +1265,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (2), data (2), next (1), [[Stark (Accessibility Software)|Stark]] (1), management (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (2), [[Stark (Accessibility Software)|Stark]] (1), [[Financial Statement Analysis]] (1)
 > **Versions:** 1.4 (1), 2.9 (1), 2.2 (1), 4.2 (1), 8.3 (1)
 > **Definitions:** is a  (3)
 > **Analogies:** just like (1)
@@ -1290,12 +1276,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The many ways to define income and profit
-> [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-many-ways-to-define-income-and-profit-19831235?u=76281980)
+#### [The many ways to define income and profit](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-many-ways-to-define-income-and-profit-19831235?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-many-ways-to-define-income-and-profit-19831235?u=76281980&t=1)** - Hey, any idea what Microsoft's margins were last year?
+> **[0:01](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-many-ways-to-define-income-and-profit-19831235?u=76281980&t=1)** - Hey, any idea what [[Microsoft]]'s margins were last year?
 >
 > **[0:04](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-many-ways-to-define-income-and-profit-19831235?u=76281980&t=4)** - Which margins are you talking about?
 >
@@ -1359,7 +1344,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-many-ways-to-define-income-and-profit-19831235?u=76281980&t=89)** This term represents the amount of resources generated from what the business is in the business to do.
 >
-> **[1:35](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-many-ways-to-define-income-and-profit-19831235?u=76281980&t=95)** For Microsoft, that's the amount of resources generated from selling Xbox's, cloud computing, and software.
+> **[1:35](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-many-ways-to-define-income-and-profit-19831235?u=76281980&t=95)** For Microsoft, that's the amount of resources generated from selling Xbox's, [[Cloud Computing]], and software.
 >
 > **[1:41](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-many-ways-to-define-income-and-profit-19831235?u=76281980&t=101)** - [Host 2] And after operating income or operating profit comes income before income taxes.
 >
@@ -1401,13 +1386,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), [[Microsoft]] (7), cloud (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft]] (7), [[Cloud Computing]] (1)
 > **Speakers:** - [host (6), - yeah (4), - well (2), - okay (2), - hey (1)
 > **Warnings:** be careful (2)
 > **Definitions:** in other words (1)
 
-#### Example: Nordstrom vs. Microsoft
-> [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-nordstrom-vs-microsoft-19830255?u=76281980)
+#### [Example: Nordstrom vs. Microsoft](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-nordstrom-vs-microsoft-19830255?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1437,7 +1421,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-nordstrom-vs-microsoft-19830255?u=76281980&t=49)** You can compare the overall measure of return on equity across industries, but you cannot compare the components of return on equity across industries.
 >
-> **[0:58](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-nordstrom-vs-microsoft-19830255?u=76281980&t=58)** Now, speaking of the DuPont framework, let's compute the DuPont framework numbers for Nordstrom and Microsoft.
+> **[0:58](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-nordstrom-vs-microsoft-19830255?u=76281980&t=58)** Now, speaking of the DuPont framework, let's compute the DuPont framework numbers for Nordstrom and [[Microsoft]].
 >
 > **[1:05](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-nordstrom-vs-microsoft-19830255?u=76281980&t=65)** Now, we already know which company will have the highest ROE, because Microsoft return on sales was so much larger than Nordstrom's, 15% to 3.6%, or do we?
 >
@@ -1486,8 +1470,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The operating cycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-operating-cycle-19828516?u=76281980)
+#### [The operating cycle](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-operating-cycle-19828516?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1519,7 +1502,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-operating-cycle-19828516?u=76281980&t=74)** - And then Nike has to wait for their customers to pay them.
 >
-> **[1:17](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-operating-cycle-19828516?u=76281980&t=77)** Now keep in mind, Nike's typical customers, not you and me, that'd be Footlocker and Dick's Sporting Goods and a hundred other retail vendors who sell Nike products.
+> **[1:17](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-operating-cycle-19828516?u=76281980&t=77)** Now keep in mind, Nike's typical customers, not you and me, that'd be Footlocker and Dick's Sporting Goods and a hundred other retail vendors who sell Nike [[Microsoft Products|products]].
 >
 > **[1:26](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-operating-cycle-19828516?u=76281980&t=86)** - [Blue Shirt] And how long does Nike have to wait to collect the cash?
 >
@@ -1553,7 +1536,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-operating-cycle-19828516?u=76281980&t=156)** - So where do we get these numbers for Walmart and for Nike?
 >
-> **[2:40](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-operating-cycle-19828516?u=76281980&t=160)** Which financial statements do I go to to find out how long a company holds inventory and how long a company has to wait to collect cash from its customers?
+> **[2:40](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-operating-cycle-19828516?u=76281980&t=160)** Which [[Financial Statements]] do I go to to find out how long a company holds inventory and how long a company has to wait to collect cash from its customers?
 >
 > **[2:49](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-operating-cycle-19828516?u=76281980&t=169)** - And here you go.
 >
@@ -1569,7 +1552,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (2), product (1), [[Microsoft Products|Products]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (2), [[Microsoft Products|Products]] (1)
 > **Speakers:** - and (3), - [blue (2), - so (2), - one (1), - [pink (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the next (1)
@@ -1577,8 +1560,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 
-#### Days' sales of inventory (DSI)
-> [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/days-sales-of-inventory-dsi-19826709?u=76281980)
+#### [Days' sales of inventory (DSI)](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/days-sales-of-inventory-dsi-19826709?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1668,15 +1650,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), business (1)
 > **Versions:** 8.75 (3), 5.9 (2)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - now (1)
 
-#### Average collection period
-> [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/average-collection-period-19826711?u=76281980)
+#### [Average collection period](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/average-collection-period-19826711?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1710,7 +1690,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/average-collection-period-19826711?u=76281980&t=101)** Now, keep this in mind, this number is an average.
 >
-> **[1:45](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/average-collection-period-19826711?u=76281980&t=105)** I am certain that for a lot of companies that are selling products on Amazon, Amazon requires them to pay upfront in cash, or Amazon takes their cut immediately when the transaction is processed.
+> **[1:45](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/average-collection-period-19826711?u=76281980&t=105)** I am certain that for a lot of companies that are selling [[Microsoft Products|products]] on Amazon, Amazon requires them to pay upfront in cash, or Amazon takes their cut immediately when the transaction is processed.
 >
 > **[1:57](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/average-collection-period-19826711?u=76281980&t=117)** I know that's what I would do.
 >
@@ -1752,15 +1732,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Analogies:** just like (2), for example (1)
 > **CLI Commands:** make (1)
 > **Versions:** 15.6 (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - we (1)
 
-#### Examples: Harley and McDonald's
-> [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/examples-harley-and-mcdonald-s-19831233?u=76281980)
+#### [Examples: Harley and McDonald's](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/examples-harley-and-mcdonald-s-19831233?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1840,7 +1819,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3)
 > **Definitions:** in other words (1), is a  (1), is called (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - okay (1)
@@ -1850,8 +1828,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Current ratio in theory and practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/current-ratio-in-theory-and-practice-19833204?u=76281980)
+#### [Current ratio in theory and practice](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/current-ratio-in-theory-and-practice-19833204?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1937,8 +1914,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
 
-#### The many debt ratios
-> [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-many-debt-ratios-19828515?u=76281980)
+#### [The many debt ratios](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-many-debt-ratios-19828515?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2004,7 +1980,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-many-debt-ratios-19828515?u=76281980&t=151)** They're normal, they've leveraged, they've borrowed about the same amount as most companies borrow.
 >
-> **[2:37](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-many-debt-ratios-19828515?u=76281980&t=157)** When I see that debt ratio of Nordstrom on the other hand of 90%, I would have some questions and they would all start with the word why.
+> **[2:37](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-many-debt-ratios-19828515?u=76281980&t=157)** When I see that debt ratio of Nordstrom on the other hand of 90%, I would have some questions and they would all start with the [[Microsoft Word|word]] why.
 >
 > **[2:46](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/the-many-debt-ratios-19828515?u=76281980&t=166)** Anyway, that's the debt ratio.
 >
@@ -2046,21 +2022,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Microsoft Word|Word]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is an  (1), is a  (1), is called (1), means that (1)
 > **Versions:** 0.5 (1)
 > **Cross-References:** go back to (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - leverage (1)
 
-#### Example: Comparing tech company debt ratios
-> [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-comparing-tech-company-debt-ratios-19829527?u=76281980)
+#### [Example: Comparing tech company debt ratios](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-comparing-tech-company-debt-ratios-19829527?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-comparing-tech-company-debt-ratios-19829527?u=76281980&t=0)** - Now let's take a look at some different debt ratios and how they can be applied.
 >
-> **[0:04](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-comparing-tech-company-debt-ratios-19829527?u=76281980&t=4)** We're going to illustrate using the tech sector four companies with which we are all familiar, Microsoft, Google, Apple, and Amazon.
+> **[0:04](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-comparing-tech-company-debt-ratios-19829527?u=76281980&t=4)** We're going to illustrate using the tech sector four companies with which we are all familiar, [[Microsoft]], [[Google]], Apple, and Amazon.
 >
 > **[0:12](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/example-comparing-tech-company-debt-ratios-19829527?u=76281980&t=12)** The Big Four.
 >
@@ -2154,7 +2129,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (10), [[Microsoft]] (3), hit (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (10), [[Microsoft]] (3)
 > **CLI Commands:** make (2)
 > **Warnings:** be careful (2)
 > **Definitions:** is a  (1)
@@ -2166,8 +2141,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Limits to using past performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/limits-to-using-past-performance-19833203?u=76281980)
+#### [Limits to using past performance](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/limits-to-using-past-performance-19833203?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2203,7 +2177,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/limits-to-using-past-performance-19833203?u=76281980&t=56)** - Okay, fine, fine.
 >
-> **[0:57](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/limits-to-using-past-performance-19833203?u=76281980&t=57)** This is a financial analysis course, ladies and gentlemen.
+> **[0:57](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/limits-to-using-past-performance-19833203?u=76281980&t=57)** This is a [[Financial Analysis]] course, ladies and gentlemen.
 >
 > **[1:00](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/limits-to-using-past-performance-19833203?u=76281980&t=60)** So let's talk about some financial facts.
 >
@@ -2225,7 +2199,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/limits-to-using-past-performance-19833203?u=76281980&t=97)** - Yeah, exactly.
 >
-> **[1:38](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/limits-to-using-past-performance-19833203?u=76281980&t=98)** Turns out in your discussion of the Yankees, you've highlighted some of the key points about the pitfalls of financial statement analysis.
+> **[1:38](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/limits-to-using-past-performance-19833203?u=76281980&t=98)** Turns out in your discussion of the Yankees, you've highlighted some of the key points about the pitfalls of [[Financial Statement Analysis]].
 >
 > **[1:45](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/limits-to-using-past-performance-19833203?u=76281980&t=105)** - I have? - Yeah, you have.
 >
@@ -2235,7 +2209,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/limits-to-using-past-performance-19833203?u=76281980&t=120)** Also, most situations are much too complicated to be summarized in just one or two financial numbers, such as player payroll.
 >
-> **[2:08](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/limits-to-using-past-performance-19833203?u=76281980&t=128)** - Okay, so are there any other potential pitfalls in financial ratio analysis?
+> **[2:08](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/limits-to-using-past-performance-19833203?u=76281980&t=128)** - Okay, so are there any other potential pitfalls in financial [[Ratio Analysis]]?
 >
 > **[2:12](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/limits-to-using-past-performance-19833203?u=76281980&t=132)** - Oh, yes.
 >
@@ -2243,27 +2217,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Analysis]] (1), [[Financial Statement Analysis]] (1), data (1), [[Ratio Analysis]] (1)
+> **Frameworks & Libraries:** [[Financial Analysis]] (1), [[Financial Statement Analysis]] (1), [[Ratio Analysis]] (1)
 > **Speakers:** - so (3), - well (3), - okay (2), - all (1), - bit (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 
-#### Pitfalls of financial statement analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/pitfalls-of-financial-statement-analysis-19832228?u=76281980)
+#### [Pitfalls of financial statement analysis](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/pitfalls-of-financial-statement-analysis-19832228?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/pitfalls-of-financial-statement-analysis-19832228?u=76281980&t=1)** - All right, we have to be careful now.
 >
-> **[0:02](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/pitfalls-of-financial-statement-analysis-19832228?u=76281980&t=2)** There are potential pitfalls associated with financial statement analysis, and we've got to be aware of those pitfalls so that we can carefully do our analysis and carefully apply our results.
+> **[0:02](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/pitfalls-of-financial-statement-analysis-19832228?u=76281980&t=2)** There are potential pitfalls associated with [[Financial Statement Analysis]], and we've got to be aware of those pitfalls so that we can carefully do our analysis and carefully apply our results.
 >
 > **[0:14](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/pitfalls-of-financial-statement-analysis-19832228?u=76281980&t=14)** I can think of four things right off the top of my head that we need to be careful about.
 >
 > **[0:18](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/pitfalls-of-financial-statement-analysis-19832228?u=76281980&t=18)** First, financial information is not all the value-relevant information that's available about a firm.
 >
-> **[0:25](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/pitfalls-of-financial-statement-analysis-19832228?u=76281980&t=25)** Second, financial statements from different companies are not sometimes comparable.
+> **[0:25](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/pitfalls-of-financial-statement-analysis-19832228?u=76281980&t=25)** Second, [[Financial Statements]] from different companies are not sometimes comparable.
 >
 > **[0:30](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/pitfalls-of-financial-statement-analysis-19832228?u=76281980&t=30)** For example, let's look at ExxonMobil, a big oil company, and Gazprom, the biggest natural gas company in the world.
 >
@@ -2319,8 +2292,7 @@ created: 2026-05-02
 > **Analogies:** for example (3)
 > **Speakers:** - all (1)
 
-#### Avoid the temptation of a single reason
-> [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/avoid-the-temptation-of-a-single-reason-19829529?u=76281980)
+#### [Avoid the temptation of a single reason](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/avoid-the-temptation-of-a-single-reason-19829529?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2348,13 +2320,13 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/avoid-the-temptation-of-a-single-reason-19829529?u=76281980&t=59)** I don't think so.
 >
-> **[1:01](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/avoid-the-temptation-of-a-single-reason-19829529?u=76281980&t=61)** When we're doing financial statement analysis and we're looking for one thing, we'll often be disappointed.
+> **[1:01](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/avoid-the-temptation-of-a-single-reason-19829529?u=76281980&t=61)** When we're doing [[Financial Statement Analysis]] and we're looking for one thing, we'll often be disappointed.
 >
 > **[1:06](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/avoid-the-temptation-of-a-single-reason-19829529?u=76281980&t=66)** Often, it's more than one thing.
 >
 > **[1:09](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/avoid-the-temptation-of-a-single-reason-19829529?u=76281980&t=69)** Now, another pitfall occurs when we anchor on information that may not be as relevant.
 >
-> **[1:15](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/avoid-the-temptation-of-a-single-reason-19829529?u=76281980&t=75)** Financial ratio analysis uses the past to help us forecast the future.
+> **[1:15](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/avoid-the-temptation-of-a-single-reason-19829529?u=76281980&t=75)** Financial [[Ratio Analysis]] uses the past to help us forecast the future.
 >
 > **[1:21](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/avoid-the-temptation-of-a-single-reason-19829529?u=76281980&t=81)** The recent past is much more relevant than the distant past.
 >
@@ -2382,7 +2354,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Financial Statement Analysis]] (2), [[Ratio Analysis]] (1), next (1)
+> **Frameworks & Libraries:** [[Financial Statement Analysis]] (2), [[Ratio Analysis]] (1)
 > **Warnings:** be careful (2), pitfall (1)
 > **Versions:** 2.5 (1)
 > **Analogies:** for example (1)
@@ -2393,12 +2365,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's next?
-> [LinkedIn Learning](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-s-next-19830254?u=76281980)
+#### [What's next?](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-s-next-19830254?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-s-next-19830254?u=76281980&t=1)** - Let's summarize what we've learned about financial statement analysis.
+> **[0:01](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-s-next-19830254?u=76281980&t=1)** - Let's summarize what we've learned about [[Financial Statement Analysis]].
 >
 > **[0:04](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-s-next-19830254?u=76281980&t=4)** First, there's a four-step process.
 >
@@ -2406,7 +2377,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-s-next-19830254?u=76281980&t=10)** With the DuPont framework, we look at that return on equity and decompose it into profitability, efficiency, and leverage those three dimensions because we know that all three of those affect a company's return on equity.
 >
-> **[0:22](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-s-next-19830254?u=76281980&t=22)** - To then find out a little bit more detail about profitability, efficiency, and leverage, we can then use common-size financial statements.
+> **[0:22](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-s-next-19830254?u=76281980&t=22)** - To then find out a little bit more detail about profitability, efficiency, and leverage, we can then use common-size [[Financial Statements]].
 >
 > **[0:30](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-s-next-19830254?u=76281980&t=30)** - In my opinion, the common-size financial statements are the single most efficient tool at getting insights into a business.
 >
@@ -2420,7 +2391,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-s-next-19830254?u=76281980&t=56)** We need to talk with some people.
 >
-> **[0:58](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-s-next-19830254?u=76281980&t=58)** Those are the four steps in the financial ratio analysis process.
+> **[0:58](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-s-next-19830254?u=76281980&t=58)** Those are the four steps in the financial [[Ratio Analysis]] process.
 >
 > **[1:02](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-s-next-19830254?u=76281980&t=62)** - These four steps allow us to identify where issues for a company might be and what we might do to determine next steps.
 >
@@ -2470,7 +2441,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-s-next-19830254?u=76281980&t=209)** - The numbers put you in the right room with the right people asking the right questions.
 >
-> **[3:35](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-s-next-19830254?u=76281980&t=215)** - You are an informed person as you go into that room because you've done your financial analysis.
+> **[3:35](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-s-next-19830254?u=76281980&t=215)** - You are an informed person as you go into that room because you've done your [[Financial Analysis]].
 >
 > **[3:40](https://www.linkedin.com/learning/corporate-financial-statement-analysis-2023/what-s-next-19830254?u=76281980&t=220)** In the end, of course, you're going to need to use your business judgment to make the decision.
 >
@@ -2482,7 +2453,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ratio Analysis]] (9), [[Financial Statement Analysis]] (5), [[Financial Statements]] (3), business (2), next (1)
+> **Frameworks & Libraries:** [[Ratio Analysis]] (9), [[Financial Statement Analysis]] (5), [[Financial Statements]] (3), [[Financial Analysis]] (1)
 > **Speakers:** - you (3), - [ken] (2), - now (2), - so (2), - let (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (1), for example (1), picture (1)

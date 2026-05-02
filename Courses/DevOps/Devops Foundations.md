@@ -104,12 +104,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The foundations of DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/the-foundations-of-devops?u=76281980)
+#### [The foundations of DevOps](https://www.linkedin.com/learning/devops-foundations-23454205/the-foundations-of-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/the-foundations-of-devops?u=76281980&t=0)** - DevOps is a collaborative way of delivering software and systems that improves your technical and business outcomes, and working environments.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/the-foundations-of-devops?u=76281980&t=0)** - [[DevOps]] is a collaborative way of delivering software and systems that improves your technical and business outcomes, and working environments.
 >
 > **[0:08](https://www.linkedin.com/learning/devops-foundations-23454205/the-foundations-of-devops?u=76281980&t=8)** - But the universe of modern technology is vast, and there are many people in it that speak different languages and have different skills.
 >
@@ -123,7 +122,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/devops-foundations-23454205/the-foundations-of-devops?u=76281980&t=28)** You'll learn new skills and abilities to apply DevOps to the people, processes, and technology in your team and organization.
 >
-> **[0:35](https://www.linkedin.com/learning/devops-foundations-23454205/the-foundations-of-devops?u=76281980&t=35)** - We'll also level up your understanding of key areas like continuous delivery, infrastructure as code and site reliability engineering.
+> **[0:35](https://www.linkedin.com/learning/devops-foundations-23454205/the-foundations-of-devops?u=76281980&t=35)** - We'll also level up your understanding of key areas like [[Continuous Delivery (CD)|continuous delivery]], [[Infrastructure as code (IaC)|infrastructure as code]] and site reliability engineering.
 >
 > **[0:43](https://www.linkedin.com/learning/devops-foundations-23454205/the-foundations-of-devops?u=76281980&t=43)** - When you're done learning these DevOps concepts, you'll have the tools to embark on your own DevOps journey of discovery.
 >
@@ -131,7 +130,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (6), business (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (6), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
 > **Speakers:** - devops (1), - but (1), - they (1), - and (1), - we (1)
 > **Definitions:** is a  (1)
 
@@ -140,12 +139,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is DevOps?
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-devops?u=76281980)
+#### [What is DevOps?](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-devops?u=76281980&t=1)** - DevOps, you've probably seen the term or heard it used, but it's not always clear what people mean by it.
+> **[0:01](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-devops?u=76281980&t=1)** - [[DevOps]], you've probably seen the term or heard it used, but it's not always clear what people mean by it.
 >
 > **[0:06](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-devops?u=76281980&t=6)** Okay, so let me ask you, Ernest, what do you think it means?
 >
@@ -173,11 +171,11 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-devops?u=76281980&t=85)** - DevOps is also characterized by operations engineers using development techniques for their systems work
 >
-> **[1:32](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-devops?u=76281980&t=92)** - In DevOps, systems engineering works just like a software development workflow.
+> **[1:32](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-devops?u=76281980&t=92)** - In DevOps, systems engineering works just like a [[Software Development]] workflow.
 >
 > **[1:37](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-devops?u=76281980&t=97)** Code to create, configure, and operate the system is checked into source control to go through build, test, and deployment.
 >
-> **[1:45](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-devops?u=76281980&t=105)** It's a change from the largely manual system administration processes of the past.
+> **[1:45](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-devops?u=76281980&t=105)** It's a change from the largely manual [[System Administration]] processes of the past.
 >
 > **[1:50](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-devops?u=76281980&t=110)** - But we understand that that's a broad enough definition.
 >
@@ -195,7 +193,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-devops?u=76281980&t=135)** - The bottom line is that DevOps is shown to be effective in improving both IT and business outcomes.
 >
-> **[2:22](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-devops?u=76281980&t=142)** Google's DevOps Research and Assessment Team does an annual global survey of all kinds of IT organizations to perform statistically sound analysis on what IT practices correlate to successful business results.
+> **[2:22](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-devops?u=76281980&t=142)** [[Google]]'s DevOps Research and Assessment Team does an annual global survey of all kinds of IT organizations to perform statistically sound analysis on what IT practices correlate to successful business results.
 >
 > **[2:36](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-devops?u=76281980&t=156)** The 2021 State of DevOps Report indicated that there's a big difference between elite and low-performing IT teams, and that the gap is getting larger.
 >
@@ -203,9 +201,9 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-devops?u=76281980&t=177)** And while you might think that moving more quickly would produce lower quality, instead, they had three times fewer failures and recovered from issues 6,570 times faster than those low-performing organizations.
 >
-> **[3:11](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-devops?u=76281980&t=191)** And those elite teams are much more likely to be using DevOps practices like continuous integration, site reliability engineering, and deployment automation.
+> **[3:11](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-devops?u=76281980&t=191)** And those elite teams are much more likely to be using DevOps practices like [[Continuous Integration (CI)|continuous integration]], site reliability engineering, and deployment automation.
 >
-> **[3:21](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-devops?u=76281980&t=201)** - Statistically, companies that are high IT performers spend 22% less time on unplanned work and rework, and they're more than twice as likely to achieve their organizational objectives, ship products, and attain customer satisfaction.
+> **[3:21](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-devops?u=76281980&t=201)** - Statistically, companies that are high IT performers spend 22% less time on unplanned work and rework, and they're more than twice as likely to achieve their organizational objectives, ship [[Microsoft Products|products]], and attain customer satisfaction.
 >
 > **[3:36](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-devops?u=76281980&t=216)** And perhaps most importantly for those of us who do the work, this heightened productivity actually makes practitioners half as likely to suffer from burnout.
 >
@@ -235,19 +233,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (19), teams (4), [[Engineering]] (3), business (2), application (1)
+> **Frameworks & Libraries:** [[DevOps]] (19), [[Software Development]] (1), [[System Administration]] (1), [[Google]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Speakers:** - devops (2), - the (2), - but (2), - and (2), - [ernest] (1)
 > **Prerequisites:** set up (1), configure (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Warnings:** keep in mind (1)
 
-#### DevOps core values: CAMS
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/devops-core-values-cams?u=76281980)
+#### [DevOps core values: CAMS](https://www.linkedin.com/learning/devops-foundations-23454205/devops-core-values-cams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/devops-core-values-cams?u=76281980&t=0)** - The CAMS model, created by DevOps pioneers John Willis and Damon Edwards, stands for Culture, Automation, Measurement, and Sharing.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/devops-core-values-cams?u=76281980&t=0)** - The CAMS model, created by [[DevOps]] pioneers [[John the Ripper|John]] Willis and Damon Edwards, stands for Culture, Automation, Measurement, and Sharing.
 >
 > **[0:10](https://www.linkedin.com/learning/devops-foundations-23454205/devops-core-values-cams?u=76281980&t=10)** CAMS has become the model set of values used by many DevOps practitioners.
 >
@@ -257,7 +254,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/devops-foundations-23454205/devops-core-values-cams?u=76281980&t=26)** At its heart, it's a people and cultural problem, but what is culture?
 >
-> **[0:32](https://www.linkedin.com/learning/devops-foundations-23454205/devops-core-values-cams?u=76281980&t=32)** Culture is, you know, a lot more than ping pong tables in the office or free food in the company cafeteria.
+> **[0:32](https://www.linkedin.com/learning/devops-foundations-23454205/devops-core-values-cams?u=76281980&t=32)** Culture is, you know, a lot more than ping pong tables in the [[Microsoft Office|office]] or free food in the company cafeteria.
 >
 > **[0:38](https://www.linkedin.com/learning/devops-foundations-23454205/devops-core-values-cams?u=76281980&t=38)** Culture is driven by human behavior.
 >
@@ -281,7 +278,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/devops-foundations-23454205/devops-core-values-cams?u=76281980&t=108)** Now, DevOps is not just about automated tooling.
 >
-> **[1:51](https://www.linkedin.com/learning/devops-foundations-23454205/devops-core-values-cams?u=76281980&t=111)** Jumping into automation without spending time on the rest of the values is one of the main ways that people fail at DevOps implementation.
+> **[1:51](https://www.linkedin.com/learning/devops-foundations-23454205/devops-core-values-cams?u=76281980&t=111)** Jumping into automation without spending time on the [[Representational State Transfer (REST)|rest]] of the values is one of the main ways that people fail at DevOps implementation.
 >
 > **[1:59](https://www.linkedin.com/learning/devops-foundations-23454205/devops-core-values-cams?u=76281980&t=119)** That said, automation is a critical part of your DevOps journey.
 >
@@ -327,19 +324,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (14), [[Automation]] (9), business (2), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (14), [[Representational State Transfer (REST)|Rest]] (2), [[John the Ripper|John]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** cams (6)
 > **Definitions:** stands for (2), is a  (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - the (1)
 
-#### DevOps guiding principles: The Three Ways
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/devops-guiding-principles-the-three-ways?u=76281980)
+#### [DevOps guiding principles: The Three Ways](https://www.linkedin.com/learning/devops-foundations-23454205/devops-guiding-principles-the-three-ways?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/devops-guiding-principles-the-three-ways?u=76281980&t=0)** - Let's talk about strategic principles you can use to take the core DevOps values and bring them to life.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/devops-guiding-principles-the-three-ways?u=76281980&t=0)** - Let's talk about strategic principles you can use to take the core [[DevOps]] values and bring them to life.
 >
 > **[0:07](https://www.linkedin.com/learning/devops-foundations-23454205/devops-guiding-principles-the-three-ways?u=76281980&t=7)** The most respected set of principles is called the Three Ways of DevOps.
 >
@@ -375,7 +371,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/devops-foundations-23454205/devops-guiding-principles-the-three-ways?u=76281980&t=139)** The term originally comes from engineering control systems.
 >
-> **[2:23](https://www.linkedin.com/learning/devops-foundations-23454205/devops-guiding-principles-the-three-ways?u=76281980&t=143)** Short, effective feedback loops are the key to productive product development, software development and operations.
+> **[2:23](https://www.linkedin.com/learning/devops-foundations-23454205/devops-guiding-principles-the-three-ways?u=76281980&t=143)** Short, effective feedback loops are the key to productive [[Product Development]], [[Software Development]] and operations.
 >
 > **[2:31](https://www.linkedin.com/learning/devops-foundations-23454205/devops-guiding-principles-the-three-ways?u=76281980&t=151)** Take the story of a simple code bug.
 >
@@ -417,22 +413,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (5), application (2), database (1), next (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (5), [[Product Development]] (1), [[Software Development]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
 
-#### Your DevOps practice playbook
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-practice-playbook?u=76281980)
+#### [Your DevOps practice playbook](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-practice-playbook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-practice-playbook?u=76281980&t=1)** - In agile, there are structured methodologies like scrum and extreme programming that provide a highly prescriptive playbook for implementing Agile in an organization.
+> **[0:01](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-practice-playbook?u=76281980&t=1)** - In [[Agile Development|agile]], there are structured methodologies like [[Scrum]] and extreme programming that provide a highly prescriptive playbook for implementing Agile in an organization.
 >
-> **[0:10](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-practice-playbook?u=76281980&t=10)** In DevOps, we don't have a strictly defined approach of that sort, but some common patterns have emerged to guide a DevOps implementation.
+> **[0:10](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-practice-playbook?u=76281980&t=10)** In [[DevOps]], we don't have a strictly defined approach of that sort, but some common patterns have emerged to guide a DevOps implementation.
 >
-> **[0:18](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-practice-playbook?u=76281980&t=18)** We believe they boil down into five major practice areas, and we've organized the rest of the course around that.
+> **[0:18](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-practice-playbook?u=76281980&t=18)** We believe they boil down into five major practice areas, and we've organized the [[Representational State Transfer (REST)|rest]] of the course around that.
 >
 > **[0:24](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-practice-playbook?u=76281980&t=24)** - The first is culture.
 >
@@ -442,7 +437,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-practice-playbook?u=76281980&t=41)** - The second is process.
 >
-> **[0:43](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-practice-playbook?u=76281980&t=43)** Incorporating agile and lean product development and management techniques is the process foundation of DevOps.
+> **[0:43](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-practice-playbook?u=76281980&t=43)** Incorporating agile and lean [[Product Development]] and management techniques is the process foundation of DevOps.
 >
 > **[0:50](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-practice-playbook?u=76281980&t=50)** Specific practices like, working in small batches, limiting the amount of work in progress, incorporating feedback loops, and lightweight change approval processes have been shown to correlate strongly to IT and business success.
 >
@@ -450,13 +445,13 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-practice-playbook?u=76281980&t=70)** - The final three practice areas or the more deeply technological ones.
 >
-> **[1:15](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-practice-playbook?u=76281980&t=75)** The third practice area is infrastructure as code.
+> **[1:15](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-practice-playbook?u=76281980&t=75)** The third practice area is [[Infrastructure as code (IaC)|infrastructure as code]].
 >
-> **[1:18](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-practice-playbook?u=76281980&t=78)** Using cloud containers and otherwise programmable infrastructure to create and maintain systems using a software development approach instead of a manual worker approach.
+> **[1:18](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-practice-playbook?u=76281980&t=78)** Using cloud containers and otherwise programmable infrastructure to create and maintain systems using a [[Software Development]] approach instead of a manual worker approach.
 >
 > **[1:30](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-practice-playbook?u=76281980&t=90)** With the benefits of reproducibility, self-service, and rapid scaling, this leads to better software delivery and operational performance.
 >
-> **[1:38](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-practice-playbook?u=76281980&t=98)** - Okay. And the fourth is continuous delivery.
+> **[1:38](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-practice-playbook?u=76281980&t=98)** - Okay. And the fourth is [[Continuous Delivery (CD)|continuous delivery]].
 >
 > **[1:41](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-practice-playbook?u=76281980&t=101)** The ability to bring automation to bear, to implement lean principles in testing and deploying software very small changes frequently.
 >
@@ -484,7 +479,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-practice-playbook?u=76281980&t=158)** As I was saying, they don't operate independently.
 >
-> **[2:41](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-practice-playbook?u=76281980&t=161)** For example, the DORA surveys found that high software delivery performance driven by continuous delivery do not result in overall business performance benefits unless it was also combined with operational excellence from site reliability engineering practices.
+> **[2:41](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-practice-playbook?u=76281980&t=161)** For example, the DORA surveys found that high software delivery performance driven by continuous delivery do not result in overall business performance benefits unless it was also combined with [[Operational Excellence]] from site reliability engineering practices.
 >
 > **[2:57](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-practice-playbook?u=76281980&t=177)** - So, you're saying that if you have unbalanced pillars, you'll get a crack in your foundation and it'll lead to expensive and time consuming repairs.
 >
@@ -504,24 +499,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (8), [[Agile Development|Agile]] (4), [[Continuous Delivery (CD)|Continuous delivery]] (3), [[Engineering]] (3), business (2)
+> **Frameworks & Libraries:** [[DevOps]] (8), [[Agile Development|Agile]] (4), [[Continuous Delivery (CD)|Continuous delivery]] (3), [[Scrum]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - the (3), - yeah (3), - in (1), - okay (1), - something (1)
 > **Env Vars:** dora (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 
-#### Which DevOps tools should I use?
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/which-devops-tools-should-i-use?u=76281980)
+#### [Which DevOps tools should I use?](https://www.linkedin.com/learning/devops-foundations-23454205/which-devops-tools-should-i-use?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/which-devops-tools-should-i-use?u=76281980&t=0)** - You may be wondering how we've gotten this far into our course on DevOps without talking about tools.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/which-devops-tools-should-i-use?u=76281980&t=0)** - You may be wondering how we've gotten this far into our course on [[DevOps]] without talking about tools.
 >
-> **[0:06](https://www.linkedin.com/learning/devops-foundations-23454205/which-devops-tools-should-i-use?u=76281980&t=6)** - Kubernetes, Terraform, Ansible, Puppet, Chef, GitHub.
+> **[0:06](https://www.linkedin.com/learning/devops-foundations-23454205/which-devops-tools-should-i-use?u=76281980&t=6)** - [[Kubernetes]], [[Terraform]], [[Ansible]], Puppet, Chef, [[GitHub]].
 >
 > **[0:11](https://www.linkedin.com/learning/devops-foundations-23454205/which-devops-tools-should-i-use?u=76281980&t=11)** - Okay, exactly, exactly.
 >
-> **[0:12](https://www.linkedin.com/learning/devops-foundations-23454205/which-devops-tools-should-i-use?u=76281980&t=12)** - Jenkins, Docker, Linux, Amazon, Graphite, Artifactory.
+> **[0:12](https://www.linkedin.com/learning/devops-foundations-23454205/which-devops-tools-should-i-use?u=76281980&t=12)** - [[Jenkins]], Docker, [[Linux]], Amazon, Graphite, Artifactory.
 >
 > **[0:16](https://www.linkedin.com/learning/devops-foundations-23454205/which-devops-tools-should-i-use?u=76281980&t=16)** - Okay, okay, Ernest, take it easy.
 >
@@ -551,7 +545,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/devops-foundations-23454205/which-devops-tools-should-i-use?u=76281980&t=98)** - We do want to give you some advice on how to choose tools, though.
 >
-> **[1:42](https://www.linkedin.com/learning/devops-foundations-23454205/which-devops-tools-should-i-use?u=76281980&t=102)** The first and best guidance we can give is the KISS principle, which is pretty well known both in the US military and in software development.
+> **[1:42](https://www.linkedin.com/learning/devops-foundations-23454205/which-devops-tools-should-i-use?u=76281980&t=102)** The first and best guidance we can give is the KISS principle, which is pretty well known both in the US military and in [[Software Development]].
 >
 > **[1:50](https://www.linkedin.com/learning/devops-foundations-23454205/which-devops-tools-should-i-use?u=76281980&t=110)** - Keep it super secret?
 >
@@ -569,13 +563,13 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/devops-foundations-23454205/which-devops-tools-should-i-use?u=76281980&t=139)** Basically, all the pieces you can add in or swap out of Kubernetes.
 >
-> **[2:24](https://www.linkedin.com/learning/devops-foundations-23454205/which-devops-tools-should-i-use?u=76281980&t=144)** - I'll be honest, after DevOps began, I saw a lot of companies getting much better as they put together good, coherent, continuous delivery, observability, and infrastructure as code implementations.
+> **[2:24](https://www.linkedin.com/learning/devops-foundations-23454205/which-devops-tools-should-i-use?u=76281980&t=144)** - I'll be honest, after DevOps began, I saw a lot of companies getting much better as they put together good, coherent, [[Continuous Delivery (CD)|continuous delivery]], observability, and [[Infrastructure as code (IaC)|infrastructure as code]] implementations.
 >
 > **[2:36](https://www.linkedin.com/learning/devops-foundations-23454205/which-devops-tools-should-i-use?u=76281980&t=156)** In recent years, though, I've been seeing the average quality of those implementations go down, and increased complexity is one of the major causes.
 >
 > **[2:45](https://www.linkedin.com/learning/devops-foundations-23454205/which-devops-tools-should-i-use?u=76281980&t=165)** It's really easy to download and install a giant suite of technical tools nowadays, but every time you do, you put a giant weight around your neck that'll hold you back from moving quickly in the future.
 >
-> **[2:57](https://www.linkedin.com/learning/devops-foundations-23454205/which-devops-tools-should-i-use?u=76281980&t=177)** - Yeah, you know, Ernest, I've been seeing the same thing in cybersecurity, too many tools poorly thought out and tough to implement, causing worse outcomes.
+> **[2:57](https://www.linkedin.com/learning/devops-foundations-23454205/which-devops-tools-should-i-use?u=76281980&t=177)** - Yeah, you know, Ernest, I've been seeing the same thing in [[Cybersecurity]], too many tools poorly thought out and tough to implement, causing worse outcomes.
 >
 > **[3:07](https://www.linkedin.com/learning/devops-foundations-23454205/which-devops-tools-should-i-use?u=76281980&t=187)** - The second thing you need to keep in mind is that you need all of your tools to integrate well and operate in a dynamic environment.
 >
@@ -583,7 +577,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/devops-foundations-23454205/which-devops-tools-should-i-use?u=76281980&t=199)** Good tools don't live in isolation.
 >
-> **[3:21](https://www.linkedin.com/learning/devops-foundations-23454205/which-devops-tools-should-i-use?u=76281980&t=201)** You need your build tool, deploy tool, observability tool, and so on to integrate so you can compose a solution out of them easily.
+> **[3:21](https://www.linkedin.com/learning/devops-foundations-23454205/which-devops-tools-should-i-use?u=76281980&t=201)** You need your build tool, deploy tool, observability tool, and so on to integrate so you can [[Jetpack Compose|compose]] a solution out of them easily.
 >
 > **[3:29](https://www.linkedin.com/learning/devops-foundations-23454205/which-devops-tools-should-i-use?u=76281980&t=209)** - A good example of this composability is the Linux command line, where all commands can have their output piped into the input of another command, allowing you to chain tools together.
 >
@@ -603,7 +597,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (6), cloud (3), [[Kubernetes]] (2), [[Linux]] (2), product (2)
+> **Frameworks & Libraries:** [[DevOps]] (6), [[Kubernetes]] (2), [[Linux]] (2), [[Terraform]] (1), [[Ansible]] (1)
 > **Speakers:** - okay (2), - that (2), - i (2), - you (1), - kubernetes (1)
 > **CLI Commands:** terraform (1), ansible (1), docker (1), make (1)
 > **Env Vars:** kiss (1), api (1)
@@ -617,8 +611,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why do we need a DevOps culture?
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/why-do-we-need-a-devops-culture?u=76281980)
+#### [Why do we need a DevOps culture?](https://www.linkedin.com/learning/devops-foundations-23454205/why-do-we-need-a-devops-culture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -626,11 +619,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/devops-foundations-23454205/why-do-we-need-a-devops-culture?u=76281980&t=8)** Businesses have been using technology to deliver services for decades now, but success and satisfaction rates with IT continue to be low.
 >
-> **[0:16](https://www.linkedin.com/learning/devops-foundations-23454205/why-do-we-need-a-devops-culture?u=76281980&t=16)** - You may have seen comedy TV shows and movies like "Office Space," the "IT Crowd," or "Silicon Valley" based on the premise that all these smart people just can't get anything done.
+> **[0:16](https://www.linkedin.com/learning/devops-foundations-23454205/why-do-we-need-a-devops-culture?u=76281980&t=16)** - You may have seen comedy TV shows and movies like "[[Microsoft Office|Office]] Space," the "IT Crowd," or "Silicon Valley" based on the premise that all these smart people just can't get anything done.
 >
 > **[0:28](https://www.linkedin.com/learning/devops-foundations-23454205/why-do-we-need-a-devops-culture?u=76281980&t=28)** They're based on the very real observation of misalignment between business teams and technology teams.
 >
-> **[0:34](https://www.linkedin.com/learning/devops-foundations-23454205/why-do-we-need-a-devops-culture?u=76281980&t=34)** Even inside technology organizations, there's friction between teams, developers, quality assurance, asadmins, information security professionals, network admins.
+> **[0:34](https://www.linkedin.com/learning/devops-foundations-23454205/why-do-we-need-a-devops-culture?u=76281980&t=34)** Even inside technology organizations, there's friction between teams, developers, [[Quality Assurance]], asadmins, information security professionals, network admins.
 >
 > **[0:44](https://www.linkedin.com/learning/devops-foundations-23454205/why-do-we-need-a-devops-culture?u=76281980&t=44)** - Don't forget the DBAs.
 >
@@ -640,7 +633,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/devops-foundations-23454205/why-do-we-need-a-devops-culture?u=76281980&t=56)** - [Presenter In Brown] So, what's the cause of this conflict?
 >
-> **[0:59](https://www.linkedin.com/learning/devops-foundations-23454205/why-do-we-need-a-devops-culture?u=76281980&t=59)** In DevOps, we illustrate this with the "wall of confusion."
+> **[0:59](https://www.linkedin.com/learning/devops-foundations-23454205/why-do-we-need-a-devops-culture?u=76281980&t=59)** In [[DevOps]], we illustrate this with the "wall of confusion."
 >
 > **[1:03](https://www.linkedin.com/learning/devops-foundations-23454205/why-do-we-need-a-devops-culture?u=76281980&t=63)** The prototypical example is a developer who writes their code and then just throws it over the wall to an operations engineer who's supposed to deploy it and support it.
 >
@@ -680,7 +673,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/devops-foundations-23454205/why-do-we-need-a-devops-culture?u=76281980&t=161)** - That would've been great, but no, four weeks.
 >
-> **[2:45](https://www.linkedin.com/learning/devops-foundations-23454205/why-do-we-need-a-devops-culture?u=76281980&t=165)** The only time savings was the two weeks usually spent for the hardware order to be fulfilled.
+> **[2:45](https://www.linkedin.com/learning/devops-foundations-23454205/why-do-we-need-a-devops-culture?u=76281980&t=165)** The only time savings was the two weeks usually spent for the [[Hardware]] order to be fulfilled.
 >
 > **[2:52](https://www.linkedin.com/learning/devops-foundations-23454205/why-do-we-need-a-devops-culture?u=76281980&t=172)** While creating the server took 15 minutes, our own processes incurred four weeks of overhead, all in the name of virtuous things like standards, and tickets, and documentation.
 >
@@ -718,19 +711,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), teams (3), application (2), [[Microsoft Office|Office]] (1), [[Quality Assurance]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Quality Assurance]] (1), [[DevOps]] (1), [[Hardware]] (1)
 > **Speakers:** - [presenter (4), - i (2), - you (2), - that (2), - and (2)
 > **CLI Commands:** find (2)
 > **Cross-References:** we mentioned (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)
 
-#### Communication and trust power DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/communication-and-trust-power-devops?u=76281980)
+#### [Communication and trust power DevOps](https://www.linkedin.com/learning/devops-foundations-23454205/communication-and-trust-power-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/communication-and-trust-power-devops?u=76281980&t=0)** - Communication and trust are a key part of a productive DevOps culture.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/communication-and-trust-power-devops?u=76281980&t=0)** - Communication and trust are a key part of a productive [[DevOps]] culture.
 >
 > **[0:05](https://www.linkedin.com/learning/devops-foundations-23454205/communication-and-trust-power-devops?u=76281980&t=5)** - I've seen projects from application deployments to network upgrades to corporate acquisitions succeed or fail based on the quality of communication.
 >
@@ -802,7 +794,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/devops-foundations-23454205/communication-and-trust-power-devops?u=76281980&t=263)** All you guys do is move files around."
 >
-> **[4:26](https://www.linkedin.com/learning/devops-foundations-23454205/communication-and-trust-power-devops?u=76281980&t=266)** Of course, I had an overworked team of operations engineers doing software deployments, building new servers, improving our monitoring, handling a large load of on-call incidents, performing all of our cybersecurity, and more.
+> **[4:26](https://www.linkedin.com/learning/devops-foundations-23454205/communication-and-trust-power-devops?u=76281980&t=266)** Of course, I had an overworked team of operations engineers doing software deployments, building new servers, improving our monitoring, handling a large load of on-call incidents, performing all of our [[Cybersecurity]], and more.
 >
 > **[4:41](https://www.linkedin.com/learning/devops-foundations-23454205/communication-and-trust-power-devops?u=76281980&t=281)** While that developer could probably have benefited from a lesson in respectful language, a large part of their frustration came from just plain not knowing what our team was doing.
 >
@@ -846,7 +838,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), business (3), career (2), [[DevOps]] (1), application (1)
+> **Frameworks & Libraries:** [[DevOps]] (1), [[Cybersecurity]] (1)
 > **Speakers:** - [instructor] (2), - you (2), - well (2), - communication (1), - i (1)
 > **CLI Commands:** find (2), make (1)
 > **Prerequisites:** set up (2)
@@ -854,12 +846,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Collaboration: Break silos in case of DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/collaboration-break-silos-in-case-of-devops?u=76281980)
+#### [Collaboration: Break silos in case of DevOps](https://www.linkedin.com/learning/devops-foundations-23454205/collaboration-break-silos-in-case-of-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-foundations-23454205/collaboration-break-silos-in-case-of-devops?u=76281980&t=1)** - Collaboration towards a common goal is the secret sauce to making DevOps work.
+> **[0:01](https://www.linkedin.com/learning/devops-foundations-23454205/collaboration-break-silos-in-case-of-devops?u=76281980&t=1)** - Collaboration towards a common goal is the secret sauce to making [[DevOps]] work.
 >
 > **[0:05](https://www.linkedin.com/learning/devops-foundations-23454205/collaboration-break-silos-in-case-of-devops?u=76281980&t=5)** Yet, we've already talked about the wall of confusion that creates a division between groups that should share a common goal.
 >
@@ -883,7 +874,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/devops-foundations-23454205/collaboration-break-silos-in-case-of-devops?u=76281980&t=75)** This is local optimization getting in the way of global optimization.
 >
-> **[1:20](https://www.linkedin.com/learning/devops-foundations-23454205/collaboration-break-silos-in-case-of-devops?u=76281980&t=80)** - [Instructor] There's a concept called Conway's Law that states that when you try to design systems, your systems will merely always align themselves to your communication boundaries.
+> **[1:20](https://www.linkedin.com/learning/devops-foundations-23454205/collaboration-break-silos-in-case-of-devops?u=76281980&t=80)** - [Instructor] There's a concept called Conway's Law that states that when you try to [[Design Systems]], your systems will merely always align themselves to your communication boundaries.
 >
 > **[1:30](https://www.linkedin.com/learning/devops-foundations-23454205/collaboration-break-silos-in-case-of-devops?u=76281980&t=90)** Organizational boundaries are one type of communication boundary.
 >
@@ -901,7 +892,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/devops-foundations-23454205/collaboration-break-silos-in-case-of-devops?u=76281980&t=126)** - Yeah, one of the most effective techniques here is to break down team barriers, and get people from different specialties to work alongside each other in what we call cross-functional teams.
 >
-> **[2:17](https://www.linkedin.com/learning/devops-foundations-23454205/collaboration-break-silos-in-case-of-devops?u=76281980&t=137)** - I was working at a large SaaS company in Austin, Texas that had completely separate dev and ops teams, and life on the ops team was a never ending nightmare of developer demands interspersed with outages.
+> **[2:17](https://www.linkedin.com/learning/devops-foundations-23454205/collaboration-break-silos-in-case-of-devops?u=76281980&t=137)** - I was working at a large [[SaaS]] company in Austin, Texas that had completely separate dev and ops teams, and life on the ops team was a never ending nightmare of developer demands interspersed with outages.
 >
 > **[2:31](https://www.linkedin.com/learning/devops-foundations-23454205/collaboration-break-silos-in-case-of-devops?u=76281980&t=151)** So, we started by embedding an ops engineer into a dev team that was working to roll out a new product.
 >
@@ -949,19 +940,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (12), [[DevOps]] (5), [[SaaS]] (2), [[Design Systems]] (1), functional (1)
+> **Frameworks & Libraries:** [[DevOps]] (5), [[SaaS]] (2), [[Design Systems]] (1)
 > **Speakers:** - this (2), - [instructor] (2), - collaboration (1), - it (1), - that (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 
-#### Continuous learning the DevOps way
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-learning-the-devops-way?u=76281980)
+#### [Continuous learning the DevOps way](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-learning-the-devops-way?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-learning-the-devops-way?u=76281980&t=0)** - The third way of DevOps talks about creating a culture of continuous experimentation and learning, which means mastering your own core skills as well as experimenting and taking risks in order to learn more practically.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-learning-the-devops-way?u=76281980&t=0)** - The third way of [[DevOps]] talks about creating a culture of continuous experimentation and learning, which means mastering your own core skills as well as experimenting and taking risks in order to learn more practically.
 >
 > **[0:14](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-learning-the-devops-way?u=76281980&t=14)** - And you heard that a generative culture in the Western model encourages innovation and learning from failure, so how exactly do we do that?
 >
@@ -989,7 +979,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-learning-the-devops-way?u=76281980&t=105)** Now, you don't have to follow a strict kaizen process, but these are all things worth thinking about in an example of how to apply DevOps culture in an organized way.
 >
-> **[1:55](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-learning-the-devops-way?u=76281980&t=115)** - There's a word that James mentioned that might be unfamiliar, gemba, that's worth discussing a little more.
+> **[1:55](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-learning-the-devops-way?u=76281980&t=115)** - There's a [[Microsoft Word|word]] that James mentioned that might be unfamiliar, gemba, that's worth discussing a little more.
 >
 > **[2:01](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-learning-the-devops-way?u=76281980&t=121)** In Japanese, it means the real place.
 >
@@ -1019,7 +1009,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-learning-the-devops-way?u=76281980&t=180)** Then you measure and analyze the result and make any alterations needed, but you're doing this in small ways every day.
 >
-> **[3:07](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-learning-the-devops-way?u=76281980&t=187)** This isn't primarily for year-long digital transformation efforts.
+> **[3:07](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-learning-the-devops-way?u=76281980&t=187)** This isn't primarily for year-long [[Digital Transformation]] efforts.
 >
 > **[3:11](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-learning-the-devops-way?u=76281980&t=191)** It's a regular practice.
 >
@@ -1039,7 +1029,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-learning-the-devops-way?u=76281980&t=232)** - Seriously, this simple process of plan, do, check, act does more than just give value in generating improvements.
 >
-> **[4:00](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-learning-the-devops-way?u=76281980&t=240)** It's just as much about teaching people critical thinking skills.
+> **[4:00](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-learning-the-devops-way?u=76281980&t=240)** It's just as much about teaching people critical [[Thinking Skills]].
 >
 > **[4:04](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-learning-the-devops-way?u=76281980&t=244)** Toyota refers to this as building people before building cars.
 >
@@ -1055,7 +1045,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (6), [[Microsoft Word|Word]] (1), [[Digital Transformation]] (1), business (1), [[Thinking Skills]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (6), [[Microsoft Word|Word]] (1), [[Digital Transformation]] (1), [[Thinking Skills]] (1)
 > **Speakers:** - the (3), - yeah (3), - and (2), - there (2), - in (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** tps (3)
@@ -1066,14 +1056,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DevOps process building block: Agile
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-agile?u=76281980)
+#### [DevOps process building block: Agile](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-agile?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-agile?u=76281980&t=1)** - Now let's dig into the process side of DevOps.
+> **[0:01](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-agile?u=76281980&t=1)** - Now let's dig into the process side of [[DevOps]].
 >
-> **[0:04](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-agile?u=76281980&t=4)** The first process framework that DevOps is rooted in is called Agile.
+> **[0:04](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-agile?u=76281980&t=4)** The first process framework that DevOps is rooted in is called [[Agile Development|Agile]].
 >
 > **[0:09](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-agile?u=76281980&t=9)** Time for some history.
 >
@@ -1089,7 +1078,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-agile?u=76281980&t=44)** - You might be familiar with Agile already.
 >
-> **[0:47](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-agile?u=76281980&t=47)** The manifesto for [[Agile Software Development]] was written in February of 2001 by a group of software developers, they were dissatisfied with the current state of software development.
+> **[0:47](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-agile?u=76281980&t=47)** The manifesto for [[[[Agile Software Development]]]] was written in February of 2001 by a group of software developers, they were dissatisfied with the current state of [[Software Development]].
 >
 > **[0:57](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-agile?u=76281980&t=57)** - [James] Yeah, they felt that the current approach to improving software quality was just layering more and more process into the software development lifecycle, with the theory that more process and control would make for better solutions.
 >
@@ -1169,7 +1158,7 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-agile?u=76281980&t=297)** Agile's a whole field all to itself.
 >
-> **[5:00](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-agile?u=76281980&t=300)** The LinkedIn Learning Library has a large variety of courses that can help you learn more about Agile.
+> **[5:00](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-agile?u=76281980&t=300)** The [[LinkedIn]] Learning Library has a large variety of courses that can help you learn more about Agile.
 >
 > **[5:05](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-agile?u=76281980&t=305)** In fact, there's another course in the DevOps Foundation series specifically about lean and Agile.
 >
@@ -1177,7 +1166,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (21), [[DevOps]] (8), [[Software Development]] (4), teams (4), next (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (21), [[DevOps]] (8), [[Software Development]] (4), [[Agile Software Development]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [james] (4), - yeah (2), - now (1), - okay (1), - after (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** later in (2), in the next (1)
@@ -1186,14 +1175,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** set up (1)
 
-#### DevOps process building block: Lean
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980)
+#### [DevOps process building block: Lean](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=0)** - Let's talk about the second process building block of DevOps.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=0)** - Let's talk about the second process building block of [[DevOps]].
 >
-> **[0:05](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=5)** But wait, does the word process strike fear into your heart?
+> **[0:05](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=5)** But wait, does the [[Microsoft Word|word]] process strike fear into your heart?
 >
 > **[0:09](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=9)** Are you worried that once we have three building blocks worth of process under our belt, you won't be able to get anything done for all the process binding you?
 >
@@ -1207,7 +1195,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=39)** It revolutionized the Japanese industrial economy after World War II and later made its way back over here to the US.
 >
-> **[0:46](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=46)** It was quickly applied to product development as well.
+> **[0:46](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=46)** It was quickly applied to [[Product Development]] as well.
 >
 > **[0:49](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=49)** A popular adaptation of this is found in Eric Ries' book, "Lean Startup."
 >
@@ -1217,13 +1205,13 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=76)** Then, tech got into the act.
 >
-> **[1:20](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=80)** Mary and Tom Poppendieck's 2003 book, "Lean Software Development: An Agile Toolkit," famously adapted these Lean techniques to software development.
+> **[1:20](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=80)** Mary and Tom Poppendieck's 2003 book, "Lean [[Software Development]]: An [[Agile Development|Agile]] Toolkit," famously adapted these Lean techniques to software development.
 >
 > **[1:30](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=90)** They identified seven principles of Lean that apply to software.
 >
 > **[1:34](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=94)** Similar to the just-in-time credo of Lean manufacturing and aligned with the Agile idea of being flexible, you try to move fast, but delay decisions and enhance feedback loops and group context.
 >
-> **[1:48](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=108)** Building quality in is an important precept and will inform the approaches to continuous integration and testing that you'll hear about later in the course.
+> **[1:48](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=108)** Building quality in is an important precept and will inform the approaches to [[Continuous Integration (CI)|continuous integration]] and testing that you'll hear about later in the course.
 >
 > **[1:59](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=119)** Let's talk about waste.
 >
@@ -1267,19 +1255,19 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=260)** Post-it notes on a whiteboard works fine, but there's also software tools.
 >
-> **[4:24](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=264)** Here's the Trello board that we use to develop this course.
+> **[4:24](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=264)** Here's the [[Trello]] board that we use to develop this course.
 >
 > **[4:29](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=269)** And implementing work-in-progress limits to restrict how many things you can start, but not finish at a time to reduce waste.
 >
 > **[4:38](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=278)** DevOps was only indirectly influenced by Lean when it started, but it didn't take long for the ideas and their relevance to what DevOps was trying to accomplish was discovered.
 >
-> **[4:48](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=288)** In fact, Jez Humble proposed the modification of the CAMS set of DevOps principles to CALMS to include Lean, and John Willis agreed with 'em so much that he ended up writing a book on Deming.
+> **[4:48](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=288)** In fact, Jez Humble proposed the modification of the CAMS set of DevOps principles to CALMS to include Lean, and [[John the Ripper|John]] Willis agreed with 'em so much that he ended up writing a book on Deming.
 >
 > **[5:00](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=300)** It's also a formative part of the three ways of DevOps.
 >
 > **[5:04](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=304)** Lean is an important part of successful DevOps implementations.
 >
-> **[5:08](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=308)** The Google DevOps Research and Assessment Team has found that a variety of Lean management and Lean product development techniques are statistically significant in predicting software delivery, operational and organizational performance.
+> **[5:08](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=308)** The [[Google]] DevOps Research and Assessment Team has found that a variety of Lean management and Lean product development techniques are statistically significant in predicting software delivery, operational and organizational performance.
 >
 > **[5:22](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-lean?u=76281980&t=322)** Later in the discussion about our DevOps practice areas, you'll see traces of these Lean concepts from time to time.
 >
@@ -1291,7 +1279,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (10), management (4), [[Product Development]] (3), product (3), [[Software Development]] (3)
+> **Frameworks & Libraries:** [[DevOps]] (10), [[Product Development]] (3), [[Software Development]] (3), [[Agile Development|Agile]] (3), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Cross-References:** later in (2), we discussed (1)
 > **Env Vars:** cams (1), calms (1)
@@ -1300,8 +1288,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Prerequisites:** required to (1)
 
-#### DevOps process building block: Visible ops change control
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980)
+#### [DevOps process building block: Visible ops change control](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1315,15 +1302,15 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980&t=29)** Review them, test them, and schedule their rollout.
 >
-> **[0:33](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980&t=33)** This is where IT Service Management or ITSM comes in.
+> **[0:33](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980&t=33)** This is where [[IT Service Management]] or ITSM comes in.
 >
 > **[0:38](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980&t=38)** ITSM came from the realization that delivering and supporting IT services was as important as developing them.
 >
 > **[0:45](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980&t=45)** It was introduced back in the 1980's as early IT shops scaled up and realized you needed some kind of process to hold back all the chaos.
 >
-> **[0:54](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980&t=54)** ITSM is a concept that's been implemented by a number of frameworks, including the Microsoft Operations Framework, COBIT, ISO 20000, and even Six Sigma.
+> **[0:54](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980&t=54)** ITSM is a concept that's been implemented by a number of frameworks, including the [[Microsoft]] Operations Framework, COBIT, ISO 20000, and even [[Six Sigma]].
 >
-> **[1:04](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980&t=64)** But the most popular by far is ITIL, the IT Infrastructure Library, now it's in fourth major version.
+> **[1:04](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980&t=64)** But the most popular by far is [[ITIL]], the IT Infrastructure Library, now it's in fourth major version.
 >
 > **[1:13](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980&t=73)** It attempts to be a comprehensive process framework for everything from project management to service level management, to release management to wow, 34 different areas.
 >
@@ -1353,9 +1340,9 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980&t=185)** And the short story is that it's all about change control, but lightweight, fast, scalable, repeatable change control.
 >
-> **[3:14](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980&t=194)** Gene of course went on to create the three ways of DevOps and write a variety of books on DevOps and how to use lightweight change control to improve security and compliance audits.
+> **[3:14](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980&t=194)** Gene of course went on to create the three ways of [[DevOps]] and write a variety of books on DevOps and how to use lightweight change control to improve security and compliance audits.
 >
-> **[3:24](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980&t=204)** Our friends at the Google DevOps Research and Assessment Group have done further research on this, and yes indeed, streamline change approval processes contribute to higher performance and lower levels of burnout and increase psychological safety among people in an organization.
+> **[3:24](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980&t=204)** Our friends at the [[Google]] DevOps Research and Assessment Group have done further research on this, and yes indeed, streamline change approval processes contribute to higher performance and lower levels of burnout and increase psychological safety among people in an organization.
 >
 > **[3:40](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980&t=220)** So, what does this kind of lightweight change control look like?
 >
@@ -1375,21 +1362,21 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980&t=271)** Individual changes are easier to review and if an error does end up happening, rolling out one small change at a time instead of a huge batch of hundreds of changes during a release, makes it much easier to find and to fix.
 >
-> **[4:45](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980&t=285)** Third, changes should be tested as soon as possible, ideally by using a continuous integration system with automated testing, so each individual change has objective validation.
+> **[4:45](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980&t=285)** Third, changes should be tested as soon as possible, ideally by using a [[Continuous Integration (CI)|continuous integration]] system with automated testing, so each individual change has objective validation.
 >
 > **[4:55](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980&t=295)** And the peer reviewed checks that that testing happened.
 >
 > **[4:59](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980&t=299)** Things like security safeguards can be implemented as part of the development platform as well, and automatically performed early in the process instead of late.
 >
-> **[5:08](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980&t=308)** And that's the Visible Ops change control, along with lean and agile, that provides you with a solid understanding of the process foundations of DevOps.
+> **[5:08](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980&t=308)** And that's the Visible Ops change control, along with lean and [[Agile Development|agile]], that provides you with a solid understanding of the process foundations of DevOps.
 >
-> **[5:18](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980&t=318)** Now, if you want to know more, Earnest has a course here in the LinkedIn learning library, called, IT Service Management Foundations Change Management.
+> **[5:18](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980&t=318)** Now, if you want to know more, Earnest has a course here in the [[LinkedIn]] learning library, called, IT Service Management Foundations Change Management.
 >
 > **[5:27](https://www.linkedin.com/learning/devops-foundations-23454205/devops-process-building-block-visible-ops-change-control?u=76281980&t=327)** It walks through setting up a lightweight change control process in detail.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), [[ITIL]] (4), [[Security]] (4), [[DevOps]] (4), [[IT Service Management]] (2)
+> **Frameworks & Libraries:** [[ITIL]] (4), [[DevOps]] (4), [[IT Service Management]] (2), [[Microsoft]] (1), [[Six Sigma]] (1)
 > **Env Vars:** itil (4), itsm (3), cobit (1), iso (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** make (1), find (1)
@@ -1400,28 +1387,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is infrastructure as code?
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980)
+#### [What is infrastructure as code?](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=1)** - Welcome.
 >
-> **[0:02](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=2)** Now we're going to dig into one of the more technical practices of DevOps, infrastructure as code.
+> **[0:02](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=2)** Now we're going to dig into one of the more technical practices of [[DevOps]], [[Infrastructure as code (IaC)|infrastructure as code]].
 >
 > **[0:08](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=8)** - Okay, but what does that mean?
 >
-> **[0:10](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=10)** Well, when we say infrastructure, we mean the servers and storage and networks and all the things that form the underlying hardware layer of our systems.
+> **[0:10](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=10)** Well, when we say infrastructure, we mean the servers and storage and networks and all the things that form the underlying [[Hardware]] layer of our systems.
 >
 > **[0:19](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=19)** So back in the day, you installed and configured infrastructure manually.
 >
-> **[0:23](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=23)** You built a data center, bought and installed servers, loaded an operating system like Windows or Linux on them, added other software and configuration, and finally installed software.
+> **[0:23](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=23)** You built a data center, bought and installed servers, loaded an operating system like [[Windows]] or [[Linux]] on them, added other software and configuration, and finally installed software.
 >
 > **[0:36](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=36)** - Every system made this way was highly individual, like machine parts before the industrial revolution.
 >
-> **[0:43](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=43)** Few were actually identical and it took a lot of time and effort to make each one, and then over time as you patch and change them, forget about it, everyone turns into a special snowflake.
+> **[0:43](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=43)** Few were actually identical and it took a lot of time and effort to make each one, and then over time as you patch and change them, forget about it, everyone turns into a special [[Snowflake]].
 >
-> **[0:56](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=56)** And this means that system administration was always slow and error prone.
+> **[0:56](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=56)** And this means that [[System Administration]] was always slow and error prone.
 >
 > **[1:01](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=61)** I did that job, Unix administration the old way.
 >
@@ -1429,11 +1415,11 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=66)** I was hardcore and I had to walk to work in the snow, uphill, both ways.
 >
-> **[1:12](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=72)** - Okay, anyway, contrast this to code, which is what creates computer programs like your web browser, websites, computer games, finance tools, office applications, and all the rest of the wide world of software.
+> **[1:12](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=72)** - Okay, anyway, contrast this to code, which is what creates computer programs like your web browser, websites, computer games, finance tools, [[Microsoft Office|office]] applications, and all the [[Representational State Transfer (REST)|rest]] of the wide world of software.
 >
-> **[1:27](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=87)** When you create an application, you write code that is kept in a version control system that saves it and tracks changes.
+> **[1:27](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=87)** When you create an application, you write code that is kept in a [[Version Control]] system that saves it and tracks changes.
 >
-> **[1:33](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=93)** Then you run it through a build system and automatic tests and maybe some manual testing too.
+> **[1:33](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=93)** Then you run it through a build system and automatic tests and maybe some [[Manual Testing]] too.
 >
 > **[1:38](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=98)** But then you end up with a single artifact that thousands of systems or end users can download, install, and run, and be running the exact same thing without someone having to come to their laptop and build it from parts for them.
 >
@@ -1459,7 +1445,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=174)** DevOps values of culture, automation, measurement and sharing, and the lean theory of removing waste and delay from a system.
 >
-> **[3:02](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=182)** - We'll get into the technical parts of programmable infrastructure and the tools to do infrastructure provisioning and configuration management.
+> **[3:02](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=182)** - We'll get into the technical parts of programmable infrastructure and the tools to do infrastructure provisioning and [[Configuration Management]].
 >
 > **[3:11](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-infrastructure-as-code?u=76281980&t=191)** But the biggest challenge to doing infrastructure as code successfully is changing your mindset from, I'll set it up by performing manual actions to using a development lifecycle approach.
 >
@@ -1485,19 +1471,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (4), [[DevOps]] (3), [[Hardware]] (3), [[Automation]] (3), data (2)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (4), [[DevOps]] (3), [[Hardware]] (3), [[Windows]] (1), [[Linux]] (1)
 > **Speakers:** - okay (2), - yeah (2), - welcome (1), - every (1), - infrastructure (1)
 > **Prerequisites:** install (2), configure (2), set up (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** cams (1)
 
-#### DevOps applications of infrastructure as code
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/devops-applications-of-infrastructure-as-code?u=76281980)
+#### [DevOps applications of infrastructure as code](https://www.linkedin.com/learning/devops-foundations-23454205/devops-applications-of-infrastructure-as-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/devops-applications-of-infrastructure-as-code?u=76281980&t=0)** - DevOps has put a lot of work into the theory and tooling around service management.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/devops-applications-of-infrastructure-as-code?u=76281980&t=0)** - [[DevOps]] has put a lot of work into the theory and tooling around service management.
 >
 > **[0:06](https://www.linkedin.com/learning/devops-foundations-23454205/devops-applications-of-infrastructure-as-code?u=76281980&t=6)** There are many approaches to building systems, maintaining and upgrading their configuration, and deploying applications.
 >
@@ -1505,7 +1490,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/devops-foundations-23454205/devops-applications-of-infrastructure-as-code?u=76281980&t=24)** Let's start with some definitions of common terms and then examine techniques.
 >
-> **[0:30](https://www.linkedin.com/learning/devops-foundations-23454205/devops-applications-of-infrastructure-as-code?u=76281980&t=30)** - [Speaker In Red Shirt] The overall term for this is configuration management.
+> **[0:30](https://www.linkedin.com/learning/devops-foundations-23454205/devops-applications-of-infrastructure-as-code?u=76281980&t=30)** - [Speaker In Red Shirt] The overall term for this is [[Configuration Management]].
 >
 > **[0:33](https://www.linkedin.com/learning/devops-foundations-23454205/devops-applications-of-infrastructure-as-code?u=76281980&t=33)** It's your process for creating and maintaining your systems and software in a desired state.
 >
@@ -1513,11 +1498,11 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/devops-foundations-23454205/devops-applications-of-infrastructure-as-code?u=76281980&t=50)** There are three parts to DevOps style automated configuration management: provisioning; deployment; and orchestration.
 >
-> **[0:58](https://www.linkedin.com/learning/devops-foundations-23454205/devops-applications-of-infrastructure-as-code?u=76281980&t=58)** - [Speaker In Brown Shirt] Provisioning is the process of making a server and other underlying computing infrastructure ready for operation, including hardware or virtual hardware, operating system, system services, and network connectivity.
+> **[0:58](https://www.linkedin.com/learning/devops-foundations-23454205/devops-applications-of-infrastructure-as-code?u=76281980&t=58)** - [Speaker In Brown Shirt] Provisioning is the process of making a server and other underlying computing infrastructure ready for operation, including [[Hardware]] or virtual hardware, operating system, system services, and network connectivity.
 >
 > **[1:11](https://www.linkedin.com/learning/devops-foundations-23454205/devops-applications-of-infrastructure-as-code?u=76281980&t=71)** - [Speaker In Red Shirt] Deployment is the process of automatically installing and upgrading application software on that system.
 >
-> **[1:18](https://www.linkedin.com/learning/devops-foundations-23454205/devops-applications-of-infrastructure-as-code?u=76281980&t=78)** Whether you developed it or not, this all applies to IT deployment of third party products as well.
+> **[1:18](https://www.linkedin.com/learning/devops-foundations-23454205/devops-applications-of-infrastructure-as-code?u=76281980&t=78)** Whether you developed it or not, this all applies to IT deployment of third party [[Microsoft Products|products]] as well.
 >
 > **[1:24](https://www.linkedin.com/learning/devops-foundations-23454205/devops-applications-of-infrastructure-as-code?u=76281980&t=84)** - [Speaker In Brown Shirt] And orchestration is the act of performing coordinated operations across multiple systems to manage them.
 >
@@ -1527,7 +1512,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/devops-foundations-23454205/devops-applications-of-infrastructure-as-code?u=76281980&t=110)** - And that sure leaves me thunderstruck.
 >
-> **[1:54](https://www.linkedin.com/learning/devops-foundations-23454205/devops-applications-of-infrastructure-as-code?u=76281980&t=114)** Now, most of the job isn't just creating these things in the first place, but controlling the change of system configuration after initial provisioning and maintaining applications.
+> **[1:54](https://www.linkedin.com/learning/devops-foundations-23454205/devops-applications-of-infrastructure-as-code?u=76281980&t=114)** Now, most of the job isn't just creating these things in the first place, but controlling the change of [[System Configuration]] after initial provisioning and maintaining applications.
 >
 > **[2:04](https://www.linkedin.com/learning/devops-foundations-23454205/devops-applications-of-infrastructure-as-code?u=76281980&t=124)** - There are some important terms describing how tools approach configuration management that'll help you understand how they work.
 >
@@ -1575,7 +1560,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Configuration Management]] (5), [[Orchestration]] (4), [[DevOps]] (3), [[Hardware]] (3), web (2)
+> **Frameworks & Libraries:** [[Configuration Management]] (5), [[DevOps]] (3), [[Hardware]] (3), [[Microsoft Products|Products]] (1), [[System Configuration]] (1)
 > **Speakers:** - [speaker (4), - and (2), - devops (1), - the (1), - in (1)
 > **Definitions:** known as (2), is an  (2), is a  (1), in other words (1)
 > **CLI Commands:** make (4)
@@ -1583,12 +1568,11 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Exercise Files:** exercise files (1)
 
-#### Configuration management: From golden image to foil ball
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/configuration-management-from-golden-image-to-foil-ball?u=76281980)
+#### [Configuration management: From golden image to foil ball](https://www.linkedin.com/learning/devops-foundations-23454205/configuration-management-from-golden-image-to-foil-ball?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-foundations-23454205/configuration-management-from-golden-image-to-foil-ball?u=76281980&t=1)** - Let's take a look at the evolution of DevOps configuration management.
+> **[0:01](https://www.linkedin.com/learning/devops-foundations-23454205/configuration-management-from-golden-image-to-foil-ball?u=76281980&t=1)** - Let's take a look at the evolution of [[DevOps]] [[Configuration Management]].
 >
 > **[0:05](https://www.linkedin.com/learning/devops-foundations-23454205/configuration-management-from-golden-image-to-foil-ball?u=76281980&t=5)** In the early days, the dev and ops approaches were very separate.
 >
@@ -1598,7 +1582,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/devops-foundations-23454205/configuration-management-from-golden-image-to-foil-ball?u=76281980&t=26)** Respect to the old school.
 >
-> **[0:28](https://www.linkedin.com/learning/devops-foundations-23454205/configuration-management-from-golden-image-to-foil-ball?u=76281980&t=28)** - Okay, well, some infrastructure as code tools for system configuration were developed but they didn't really move into wide use until during most of the 2000s, stuff like CFEngine, Puppet, and Chef, those are the three big ones.
+> **[0:28](https://www.linkedin.com/learning/devops-foundations-23454205/configuration-management-from-golden-image-to-foil-ball?u=76281980&t=28)** - Okay, well, some [[Infrastructure as code (IaC)|infrastructure as code]] tools for [[System Configuration]] were developed but they didn't really move into wide use until during most of the 2000s, stuff like CFEngine, Puppet, and Chef, those are the three big ones.
 >
 > **[0:40](https://www.linkedin.com/learning/devops-foundations-23454205/configuration-management-from-golden-image-to-foil-ball?u=76281980&t=40)** The first time Ernest and I ran across one of these was around 2005.
 >
@@ -1616,7 +1600,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/devops-foundations-23454205/configuration-management-from-golden-image-to-foil-ball?u=76281980&t=81)** - [Right Speaker] The technical community largely agreed and shifted towards a stem cell system approach where initial server images were as minimal as possible.
 >
-> **[1:30](https://www.linkedin.com/learning/devops-foundations-23454205/configuration-management-from-golden-image-to-foil-ball?u=76281980&t=90)** You'd create servers from these base images and then a declarative CM tool would pick up to automatically provision the rest of the system.
+> **[1:30](https://www.linkedin.com/learning/devops-foundations-23454205/configuration-management-from-golden-image-to-foil-ball?u=76281980&t=90)** You'd create servers from these base images and then a declarative CM tool would pick up to automatically provision the [[Representational State Transfer (REST)|rest]] of the system.
 >
 > **[1:38](https://www.linkedin.com/learning/devops-foundations-23454205/configuration-management-from-golden-image-to-foil-ball?u=76281980&t=98)** Then this idempotent tool is run incrementally over time to prevent configuration drift and provide later updates.
 >
@@ -1652,7 +1636,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/devops-foundations-23454205/configuration-management-from-golden-image-to-foil-ball?u=76281980&t=238)** - So we entered the 2010s with a pretty good solution for server-level configuration but the larger issues of provisioning, deployment and orchestration, well, they were still mostly manual or had these bespoke solutions created by one specific organization to ease the pain.
 >
-> **[4:15](https://www.linkedin.com/learning/devops-foundations-23454205/configuration-management-from-golden-image-to-foil-ball?u=76281980&t=255)** - This led to a new wave of tools like Ansible and SaltStack that switched to a push mechanism to perform more explicitly orchestrated deployments, joining dev-friendly push deployment with the idempotence ideas of other CM tools.
+> **[4:15](https://www.linkedin.com/learning/devops-foundations-23454205/configuration-management-from-golden-image-to-foil-ball?u=76281980&t=255)** - This led to a new wave of tools like [[Ansible]] and SaltStack that switched to a push mechanism to perform more explicitly orchestrated deployments, joining dev-friendly push deployment with the idempotence ideas of other CM tools.
 >
 > **[4:31](https://www.linkedin.com/learning/devops-foundations-23454205/configuration-management-from-golden-image-to-foil-ball?u=76281980&t=271)** This automated systems changes using an explicit workflow.
 >
@@ -1670,25 +1654,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[Orchestration]] (5), [[System Configuration]] (3), [[Configuration Management]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (2)
+> **Frameworks & Libraries:** [[System Configuration]] (3), [[Configuration Management]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), [[DevOps]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - yeah (4), - the (2), - let (1), - in (1), - okay (1)
 > **CLI Commands:** ruby (1), ansible (1)
 > **Prerequisites:** configure (1), set up (1)
 > **Env Vars:** dns (1)
 > **Analogies:** for example (1)
 
-#### Automating infrastructure, containers, and platforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/automating-infrastructure-containers-and-platforms?u=76281980)
+#### [Automating infrastructure, containers, and platforms](https://www.linkedin.com/learning/devops-foundations-23454205/automating-infrastructure-containers-and-platforms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/automating-infrastructure-containers-and-platforms?u=76281980&t=0)** - Let's continue our survey of how DevOps has brought infrastructure-as-code to the domains of infrastructure provisioning, application deployment, and service orchestration.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/automating-infrastructure-containers-and-platforms?u=76281980&t=0)** - Let's continue our survey of how [[DevOps]] has brought infrastructure-as-code to the domains of infrastructure provisioning, application deployment, and service orchestration.
 >
-> **[0:10](https://www.linkedin.com/learning/devops-foundations-23454205/automating-infrastructure-containers-and-platforms?u=76281980&t=10)** - The rise of cloud computing in the 2010s provided people with the ability to actually create servers, storage and network from code instead of just configuring the operating system on top of a manually installed device.
+> **[0:10](https://www.linkedin.com/learning/devops-foundations-23454205/automating-infrastructure-containers-and-platforms?u=76281980&t=10)** - The rise of [[Cloud Computing]] in the 2010s provided people with the ability to actually create servers, storage and network from code instead of just configuring the operating system on top of a manually installed device.
 >
 > **[0:23](https://www.linkedin.com/learning/devops-foundations-23454205/automating-infrastructure-containers-and-platforms?u=76281980&t=23)** - This made room for model driven provisioning, where a declarative model of your base systems can be used to create the systems.
 >
-> **[0:31](https://www.linkedin.com/learning/devops-foundations-23454205/automating-infrastructure-containers-and-platforms?u=76281980&t=31)** - [Presenter] Yeah, for example, Amazon Web Services has CloudFormation templates that you can use to define all kinds of cloud assets and then instantiate them automatically.
+> **[0:31](https://www.linkedin.com/learning/devops-foundations-23454205/automating-infrastructure-containers-and-platforms?u=76281980&t=31)** - [Presenter] Yeah, for example, [[Amazon Web Services (AWS)|Amazon Web Services]] has CloudFormation templates that you can use to define all kinds of cloud assets and then instantiate them automatically.
 >
 > **[0:40](https://www.linkedin.com/learning/devops-foundations-23454205/automating-infrastructure-containers-and-platforms?u=76281980&t=40)** Here you can see an example CloudFormation template indicating how it wants a server configured.
 >
@@ -1696,11 +1679,11 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/devops-foundations-23454205/automating-infrastructure-containers-and-platforms?u=76281980&t=50)** - The appetite for even more sophisticated code solutions drove innovation.
 >
-> **[0:56](https://www.linkedin.com/learning/devops-foundations-23454205/automating-infrastructure-containers-and-platforms?u=76281980&t=56)** Custom infrastructure as code solutions like Terraform and Pulumi rose to dominance, providing an entire domain-specific language for infrastructure provisioning.
+> **[0:56](https://www.linkedin.com/learning/devops-foundations-23454205/automating-infrastructure-containers-and-platforms?u=76281980&t=56)** Custom [[Infrastructure as code (IaC)|infrastructure as code]] solutions like [[Terraform]] and Pulumi rose to dominance, providing an entire domain-specific language for infrastructure provisioning.
 >
-> **[1:06](https://www.linkedin.com/learning/devops-foundations-23454205/automating-infrastructure-containers-and-platforms?u=76281980&t=66)** Libraries to plug provisioning into common programming languages like Python's Bodo library and Amazon's CDK allow for pure play code solutions, at the risk of being a little less idempotent.
+> **[1:06](https://www.linkedin.com/learning/devops-foundations-23454205/automating-infrastructure-containers-and-platforms?u=76281980&t=66)** Libraries to plug provisioning into common programming languages like [[Python (Programming Language)|Python]]'s Bodo library and Amazon's CDK allow for pure play code solutions, at the risk of being a little less idempotent.
 >
-> **[1:19](https://www.linkedin.com/learning/devops-foundations-23454205/automating-infrastructure-containers-and-platforms?u=76281980&t=79)** - And now we're up to the late 2010s in the evolution of IaC tools and we have pretty decent solutions for provisioning and operating system configuration and okay solutions for deployment and orchestration, but the reasonable question arises, why would I use one model for my systems and another for my OS configuration and another for my applications?
+> **[1:19](https://www.linkedin.com/learning/devops-foundations-23454205/automating-infrastructure-containers-and-platforms?u=76281980&t=79)** - And now we're up to the late 2010s in the evolution of IaC tools and we have pretty decent solutions for provisioning and operating [[System Configuration]] and okay solutions for deployment and orchestration, but the reasonable question arises, why would I use one model for my systems and another for my OS configuration and another for my applications?
 >
 > **[1:41](https://www.linkedin.com/learning/devops-foundations-23454205/automating-infrastructure-containers-and-platforms?u=76281980&t=101)** That seems pretty siloed and inefficient, right?
 >
@@ -1714,7 +1697,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/devops-foundations-23454205/automating-infrastructure-containers-and-platforms?u=76281980&t=132)** It removes many sources of runtime bugs and allows for a very streamlined development and test cycle.
 >
-> **[2:19](https://www.linkedin.com/learning/devops-foundations-23454205/automating-infrastructure-containers-and-platforms?u=76281980&t=139)** - Giant cloud companies like Netflix had already begun to revert to the golden image model, creating entire cloud images with full application load-outs baked in, instead of trying to perform identical operations across thousands of servers with configuration management tools.
+> **[2:19](https://www.linkedin.com/learning/devops-foundations-23454205/automating-infrastructure-containers-and-platforms?u=76281980&t=139)** - Giant cloud companies like Netflix had already begun to revert to the golden image model, creating entire cloud images with full application load-outs baked in, instead of trying to perform identical operations across thousands of servers with [[Configuration Management]] tools.
 >
 > **[2:36](https://www.linkedin.com/learning/devops-foundations-23454205/automating-infrastructure-containers-and-platforms?u=76281980&t=156)** - Yeah, they would build and deploy servers and intend for them not to change, to simply be destroyed and new ones get created as needed.
 >
@@ -1730,7 +1713,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/devops-foundations-23454205/automating-infrastructure-containers-and-platforms?u=76281980&t=193)** - [Presenter] This has become very popular now in the 2020s.
 >
-> **[3:16](https://www.linkedin.com/learning/devops-foundations-23454205/automating-infrastructure-containers-and-platforms?u=76281980&t=196)** Container orchestration systems like Kubernetes and Mesos developed to try to solve all three challenges, provisioning, deployment, and orchestration in one package.
+> **[3:16](https://www.linkedin.com/learning/devops-foundations-23454205/automating-infrastructure-containers-and-platforms?u=76281980&t=196)** Container orchestration systems like [[Kubernetes]] and Mesos developed to try to solve all three challenges, provisioning, deployment, and orchestration in one package.
 >
 > **[3:26](https://www.linkedin.com/learning/devops-foundations-23454205/automating-infrastructure-containers-and-platforms?u=76281980&t=206)** Once you have the core platform working, you push application and infrastructure-as-code changes via templates and the system handles coordinating all those changes just automatically.
 >
@@ -1748,7 +1731,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), cloud (5), [[Orchestration]] (4), [[DevOps]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[Cloud Computing]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Terraform]] (1)
 > **Speakers:** - [presenter] (5), - yeah (3), - the (2), - and (2), - let (1)
 > **CLI Commands:** terraform (1), python (1), docker (1), make (1)
 > **Analogies:** for example (2)
@@ -1757,18 +1740,17 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Definitions:** is called (1)
 
-#### Your DevOps infrastructure as code toolchain
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980)
+#### [Your DevOps infrastructure as code toolchain](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=0)** - Now let's talk about choosing and using infrastructure as code tools.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=0)** - Now let's talk about choosing and using [[Infrastructure as code (IaC)|infrastructure as code]] tools.
 >
-> **[0:05](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=5)** - Remember how we think about tools in DevOps.
+> **[0:05](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=5)** - Remember how we think about tools in [[DevOps]].
 >
 > **[0:09](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=9)** Pick the right tools for your team and situation.
 >
-> **[0:11](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=11)** If nobody on your team knows a lick of programming, then probably choosing a tool that requires you to write Python is a stretch.
+> **[0:11](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=11)** If nobody on your team knows a lick of programming, then probably choosing a tool that requires you to write [[Python (Programming Language)|Python]] is a stretch.
 >
 > **[0:18](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=18)** - [Person In Brown Shirt] Yeah, and you want to keep it simple.
 >
@@ -1790,13 +1772,13 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=62)** Digital Rebar is a great tool that automates the full stack of provisioning, from initial PXE booting, to BIOS and RAID configuration, to operating system and hypervisor installation.
 >
-> **[1:13](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=73)** Then it integrates with higher level tools like Terraform to take you the rest of the way to working service.
+> **[1:13](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=73)** Then it integrates with higher level tools like [[Terraform]] to take you the [[Representational State Transfer (REST)|rest]] of the way to working service.
 >
 > **[1:18](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=78)** - Now, you need to provision your infrastructure.
 >
 > **[1:21](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=81)** Do you want something that is template driven?
 >
-> **[1:23](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=83)** Then you'd use Amazon's cloud formation or Azure ARM templates that lets you define your infrastructure in simple JSON or YAML format.
+> **[1:23](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=83)** Then you'd use Amazon's cloud formation or [[Microsoft Azure|Azure]] ARM templates that lets you define your infrastructure in simple [[JSON]] or YAML format.
 >
 > **[1:32](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=92)** - Do you want more power and want to specify all of these settings in a custom language with the idea that it'll work across multiple cloud providers?
 >
@@ -1816,7 +1798,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=126)** Are you going to use a Base OS image and a tool like Chef or Puppet, or CFengine to configure your servers at runtime?
 >
-> **[2:12](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=132)** Or a tool like Ansible or Salt that also provides orchestration?
+> **[2:12](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=132)** Or a tool like [[Ansible]] or Salt that also provides orchestration?
 >
 > **[2:16](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=136)** - Or do you want to create custom images to use for these virtual servers?
 >
@@ -1838,13 +1820,13 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=184)** - [Person In Brown Shirt] For orchestration, Do you want that as part of your CM tool, in which case you might want to use Ansible or Salt?
 >
-> **[3:10](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=190)** - Or do you want it as a platform feature and you plan to use something like Kubernetes or Mesos?
+> **[3:10](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=190)** - Or do you want it as a platform feature and you plan to use something like [[Kubernetes]] or Mesos?
 >
 > **[3:15](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=195)** - [Person In Brown Shirt] Or, you can use an external runbook automation tool like Rundeck, or even custom code to coordinate runtime activities.
 >
 > **[3:23](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=203)** - [Person In Red Shirt] How do you want to deploy your applications?
 >
-> **[3:26](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=206)** Well, you can use one of those previous methods and use configuration management, or bake the app into a container system image and do immutable deployments.
+> **[3:26](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=206)** Well, you can use one of those previous methods and use [[Configuration Management]], or bake the app into a container system image and do immutable deployments.
 >
 > **[3:35](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=215)** - Or you can leverage a continuous deployment system, many of which offer their own deployment methodology.
 >
@@ -1860,7 +1842,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=244)** Learn them, love them, use them.
 >
-> **[4:06](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=246)** - Here's an example tool chain I used at a previous job to run a major cybersecurity SaaS.
+> **[4:06](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=246)** - Here's an example tool chain I used at a previous job to run a major [[Cybersecurity]] [[SaaS]].
 >
 > **[4:13](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=253)** We were completely Amazon Cloud-based.
 >
@@ -1874,7 +1856,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=278)** Puppet also ran in read-only mode on each server to provide drift detection.
 >
-> **[4:44](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=284)** Every piece of this went through our continuous integration pipeline that did extensive testing of the app code, the infrastructure code, and the orchestration runbooks.
+> **[4:44](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=284)** Every piece of this went through our [[Continuous Integration (CI)|continuous integration]] pipeline that did extensive testing of the app code, the infrastructure code, and the orchestration runbooks.
 >
 > **[4:54](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-infrastructure-as-code-toolchain?u=76281980&t=294)** This was pretty complicated, but it was necessary because of that product's need for customer isolation, data persistence, and customization.
 >
@@ -1890,7 +1872,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Terraform]] (4), [[Orchestration]] (4), [[Infrastructure as code (IaC)|Infrastructure as code]] (3), application (3)
+> **Frameworks & Libraries:** [[Terraform]] (4), [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[Python (Programming Language)|Python]] (2), [[Microsoft Azure|Azure]] (2), [[Ansible]] (2)
 > **Speakers:** - [person (5), - or (3), - now (2), - do (2), - remember (1)
 > **CLI Commands:** terraform (4), docker (3), python (2), ansible (2), make (1)
 > **Env Vars:** pxe (1), bios (1), raid (1), arm (1), json (1)
@@ -1904,12 +1886,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is continuous delivery?
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-continuous-delivery?u=76281980)
+#### [What is continuous delivery?](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-continuous-delivery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-continuous-delivery?u=76281980&t=1)** - There are three key stages in software development.
+> **[0:01](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-continuous-delivery?u=76281980&t=1)** - There are three key stages in [[Software Development]].
 >
 > **[0:04](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-continuous-delivery?u=76281980&t=4)** The build where you compile and test code and turn it into software, the deploy where you take and run that software and test it, and the release where you send that software to an end user or, more usually nowadays, you deploy it in a production environment where someone else can use it
 >
@@ -1921,19 +1902,19 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-continuous-delivery?u=76281980&t=39)** - [Brown Shirt] So instead, what if you build, deploy, and release the application with every change a developer makes?
 >
-> **[0:46](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-continuous-delivery?u=76281980&t=46)** - [Red Shirt] Continuous integration is the practice of automatically building and unit testing the entire application frequently, ideally on every source code check-in so that the application is always in a working state.
+> **[0:46](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-continuous-delivery?u=76281980&t=46)** - [Red Shirt] [[Continuous Integration (CI)|Continuous integration]] is the practice of automatically building and [[Unit Testing]] the entire application frequently, ideally on every source code check-in so that the application is always in a working state.
 >
-> **[0:59](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-continuous-delivery?u=76281980&t=59)** - [Brown Shirt] Continuous delivery is the additional practice of deploying every change to a production-like test environment and performing automated integration and acceptance testing so that the application is always release ready.
+> **[0:59](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-continuous-delivery?u=76281980&t=59)** - [Brown Shirt] [[Continuous Delivery (CD)|Continuous delivery]] is the additional practice of deploying every change to a production-like test environment and performing automated integration and acceptance testing so that the application is always release ready.
 >
 > **[1:13](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-continuous-delivery?u=76281980&t=73)** You'll hear people abbreviate the combination of both of these as CI/CD.
 >
 > **[1:18](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-continuous-delivery?u=76281980&t=78)** - [Red Shirt] And then the real pro move, continuous deployment is the practice of releasing the application automatically into its production environment after the testing says it's ready to go.
 >
-> **[1:30](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-continuous-delivery?u=76281980&t=90)** Large scale web properties, like Amazon, Meta, Google, and Wells Fargo, use continuous deployment.
+> **[1:30](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-continuous-delivery?u=76281980&t=90)** Large scale web properties, like Amazon, Meta, [[Google]], and Wells Fargo, use continuous deployment.
 >
 > **[1:37](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-continuous-delivery?u=76281980&t=97)** - Using these techniques decreases the time it takes to deploy a change and allows for rapid experimentation and market validation of ideas.
 >
-> **[1:46](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-continuous-delivery?u=76281980&t=106)** - [Red Shirt] This is following the first way of DevOps, By optimizing end-to-end flow through the entire system and it lets you get a product to market faster.
+> **[1:46](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-continuous-delivery?u=76281980&t=106)** - [Red Shirt] This is following the first way of [[DevOps]], By optimizing end-to-end flow through the entire system and it lets you get a product to market faster.
 >
 > **[1:54](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-continuous-delivery?u=76281980&t=114)** - [Brown Shirt] Yeah, organizations using continuous deployment might deploy a given application 10 times or more daily.
 >
@@ -1959,7 +1940,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-continuous-delivery?u=76281980&t=189)** Code that's sitting around in your system undelivered, it's generating risk and waste.
 >
-> **[3:15](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-continuous-delivery?u=76281980&t=195)** - At a large enterprise where we once worked, we performed these monthly releases to a large e-commerce site that would start on a Friday evening and take eight hours, manually releasing 30 or so applications into an environment that had a hundred apps in it.
+> **[3:15](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-continuous-delivery?u=76281980&t=195)** - At a large enterprise where we once worked, we performed these monthly releases to a large [[E-Commerce]] site that would start on a Friday evening and take eight hours, manually releasing 30 or so applications into an environment that had a hundred apps in it.
 >
 > **[3:31](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-continuous-delivery?u=76281980&t=211)** Nothing about that was good.
 >
@@ -1995,7 +1976,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[Continuous Integration (CI)|Continuous integration]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (3), ci (3), database (3)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (3), [[DevOps]] (2), [[Software Development]] (1), [[Unit Testing]] (1)
 > **Speakers:** - [red (5), - [brown (3), - the (2), - there (1), - in (1)
 > **CLI Commands:** find (4), cd (2), make (2)
 > **Analogies:** just like (1), for example (1)
@@ -2003,12 +1984,11 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Exercise Files:** source code (1)
 
-#### Six practices for continuous integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/six-practices-for-continuous-integration?u=76281980)
+#### [Six practices for continuous integration](https://www.linkedin.com/learning/devops-foundations-23454205/six-practices-for-continuous-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/six-practices-for-continuous-integration?u=76281980&t=0)** - We've defined continuous integration, continuous delivery, and continuous deployment.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/six-practices-for-continuous-integration?u=76281980&t=0)** - We've defined [[Continuous Integration (CI)|continuous integration]], [[Continuous Delivery (CD)|continuous delivery]], and continuous deployment.
 >
 > **[0:05](https://www.linkedin.com/learning/devops-foundations-23454205/six-practices-for-continuous-integration?u=76281980&t=5)** But how do they fit together in practice?
 >
@@ -2064,7 +2044,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/devops-foundations-23454205/six-practices-for-continuous-integration?u=76281980&t=143)** Okay, speaking of culture, practice number four, use a trunk based development flow.
 >
-> **[2:29](https://www.linkedin.com/learning/devops-foundations-23454205/six-practices-for-continuous-integration?u=76281980&t=149)** The state of DevOps report identifies this practice as a hallmark of high performing teams.
+> **[2:29](https://www.linkedin.com/learning/devops-foundations-23454205/six-practices-for-continuous-integration?u=76281980&t=149)** The state of [[DevOps]] report identifies this practice as a hallmark of high performing teams.
 >
 > **[2:35](https://www.linkedin.com/learning/devops-foundations-23454205/six-practices-for-continuous-integration?u=76281980&t=155)** There are two main practices that people use when developing; branch-based and trunk based.
 >
@@ -2116,23 +2096,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (5), next (2), ci (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (5), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[DevOps]] (1)
 > **Definitions:** is a  (2), means that (1), is an  (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** wip (2)
 > **Exercise Files:** source code (1)
 > **Speakers:** - we (1)
 
-#### Five practices for continuous delivery
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/five-practices-for-continuous-delivery?u=76281980)
+#### [Five practices for continuous delivery](https://www.linkedin.com/learning/devops-foundations-23454205/five-practices-for-continuous-delivery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/five-practices-for-continuous-delivery?u=76281980&t=0)** - Is continuous delivery, just like getting food delivered, but for IT?
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/five-practices-for-continuous-delivery?u=76281980&t=0)** - Is [[Continuous Delivery (CD)|continuous delivery]], just like getting food delivered, but for IT?
 >
 > **[0:05](https://www.linkedin.com/learning/devops-foundations-23454205/five-practices-for-continuous-delivery?u=76281980&t=5)** Tap a few buttons and bam, pizza.
 >
-> **[0:07](https://www.linkedin.com/learning/devops-foundations-23454205/five-practices-for-continuous-delivery?u=76281980&t=7)** Tap a few more and bam, Kubernetes.
+> **[0:07](https://www.linkedin.com/learning/devops-foundations-23454205/five-practices-for-continuous-delivery?u=76281980&t=7)** Tap a few more and bam, [[Kubernetes]].
 >
 > **[0:10](https://www.linkedin.com/learning/devops-foundations-23454205/five-practices-for-continuous-delivery?u=76281980&t=10)** - Now, okay, that's a pretty good analogy, but it takes work to set up the process to get there.
 >
@@ -2148,13 +2127,13 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/devops-foundations-23454205/five-practices-for-continuous-delivery?u=76281980&t=47)** You might call this environment CI, staging, test, or pre-production.
 >
-> **[0:52](https://www.linkedin.com/learning/devops-foundations-23454205/five-practices-for-continuous-delivery?u=76281980&t=52)** At this point, the rest of your testing should happen and it should be automated as much as possible.
+> **[0:52](https://www.linkedin.com/learning/devops-foundations-23454205/five-practices-for-continuous-delivery?u=76281980&t=52)** At this point, the [[Representational State Transfer (REST)|rest]] of your testing should happen and it should be automated as much as possible.
 >
 > **[0:58](https://www.linkedin.com/learning/devops-foundations-23454205/five-practices-for-continuous-delivery?u=76281980&t=58)** - Let's talk about five techniques to be successful at continuous delivery.
 >
-> **[1:02](https://www.linkedin.com/learning/devops-foundations-23454205/five-practices-for-continuous-delivery?u=76281980&t=62)** In the video on continuous integration, we discussed creating an artifact upon successful completion of the build.
+> **[1:02](https://www.linkedin.com/learning/devops-foundations-23454205/five-practices-for-continuous-delivery?u=76281980&t=62)** In the video on [[Continuous Integration (CI)|continuous integration]], we discussed creating an artifact upon successful completion of the build.
 >
-> **[1:09](https://www.linkedin.com/learning/devops-foundations-23454205/five-practices-for-continuous-delivery?u=76281980&t=69)** That artifact is whatever your technology stack uses, RPM or Debian package, MSI installers, Java WAR files, ZIP files.
+> **[1:09](https://www.linkedin.com/learning/devops-foundations-23454205/five-practices-for-continuous-delivery?u=76281980&t=69)** That artifact is whatever your technology stack uses, RPM or Debian package, MSI installers, [[Java]] WAR files, ZIP files.
 >
 > **[1:18](https://www.linkedin.com/learning/devops-foundations-23454205/five-practices-for-continuous-delivery?u=76281980&t=78)** It's a version bundled of all your technical pieces of your component.
 >
@@ -2214,11 +2193,11 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/devops-foundations-23454205/five-practices-for-continuous-delivery?u=76281980&t=226)** Tell them to pitch in and fix the problem.
 >
-> **[3:50](https://www.linkedin.com/learning/devops-foundations-23454205/five-practices-for-continuous-delivery?u=76281980&t=230)** We talked about this in our "Infrastructure as Code" chapter, but it's good to reiterate that item potency is key for our deployments.
+> **[3:50](https://www.linkedin.com/learning/devops-foundations-23454205/five-practices-for-continuous-delivery?u=76281980&t=230)** We talked about this in our "[[Infrastructure as code (IaC)|Infrastructure as Code]]" chapter, but it's good to reiterate that item potency is key for our deployments.
 >
 > **[3:58](https://www.linkedin.com/learning/devops-foundations-23454205/five-practices-for-continuous-delivery?u=76281980&t=238)** That is, no matter how many times you run the same deployment, you get the exact same resulting system.
 >
-> **[4:05](https://www.linkedin.com/learning/devops-foundations-23454205/five-practices-for-continuous-delivery?u=76281980&t=245)** - You may accomplish that using an immutable packaging mechanism like Docker containers or through using a configuration management tool like Puppet or Chef.
+> **[4:05](https://www.linkedin.com/learning/devops-foundations-23454205/five-practices-for-continuous-delivery?u=76281980&t=245)** - You may accomplish that using an immutable packaging mechanism like Docker containers or through using a [[Configuration Management]] tool like Puppet or Chef.
 >
 > **[4:12](https://www.linkedin.com/learning/devops-foundations-23454205/five-practices-for-continuous-delivery?u=76281980&t=252)** But however you do it, you can't have variability in your pipeline or else you just can't trust it.
 >
@@ -2226,7 +2205,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (6), ci (2), next (2), [[Kubernetes]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (6), [[Kubernetes]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Java]] (1)
 > **Speakers:** - yeah (5), - [instructor] (2), - this (2), - is (1), - now (1)
 > **Env Vars:** rpm (1), msi (1), war (1), zip (1)
 > **Cross-References:** we discussed (1), we talked about (1)
@@ -2234,12 +2213,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Prerequisites:** set up (1)
 
-#### The role of QA in DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980)
+#### [The role of QA in DevOps](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=0)** - Continuous delivery sounds too good to be true, James.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=0)** - [[Continuous Delivery (CD)|Continuous delivery]] sounds too good to be true, James.
 >
 > **[0:03](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=3)** Faster deploys, fewer bugs, less whip, less technical debt, developers and operations living together.
 >
@@ -2249,7 +2227,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=14)** There is a catch.
 >
-> **[0:15](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=15)** All of this is a non-starter unless you address testing and the role of quality assurance in your pipeline.
+> **[0:15](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=15)** All of this is a non-starter unless you address testing and the role of [[Quality Assurance]] in your pipeline.
 >
 > **[0:22](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=22)** - That's right.
 >
@@ -2257,7 +2235,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=30)** You can't deliver value or find issues quickly if you're not testing in each phase of your pipeline.
 >
-> **[0:36](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=36)** And manual testing is slow and unreliable and it's best used only for final acceptance testing.
+> **[0:36](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=36)** And [[Manual Testing]] is slow and unreliable and it's best used only for final acceptance testing.
 >
 > **[0:43](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=43)** Maybe.
 >
@@ -2273,9 +2251,9 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=61)** - We'll start with the most developer-centric testing methodologies and gradually work our way to testing that occurs near the end of our pipelines.
 >
-> **[1:09](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=69)** - [Instructor] Or, if you're familiar with Mike Cohn's test pyramid, we'll be working from the bottom up, starting with the fastest, more code focused testing and moving to slower, full end-to-end testing.
+> **[1:09](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=69)** - [Instructor] Or, if you're familiar with Mike Cohn's test pyramid, we'll be working from the bottom up, starting with the fastest, more code focused testing and moving to slower, full [[End-to-end Testing]].
 >
-> **[1:21](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=81)** First is unit testing.
+> **[1:21](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=81)** First is [[Unit Testing]].
 >
 > **[1:23](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=83)** These are tests written by the developer as part of the code to validate that individual functions work correctly.
 >
@@ -2301,7 +2279,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=130)** It's usually accomplished through tools called linters or formatters, and you got to keep up the code hygiene.
 >
-> **[2:17](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=137)** You don't want to end up at the DevOps dentist.
+> **[2:17](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=137)** You don't want to end up at the [[DevOps]] dentist.
 >
 > **[2:19](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=139)** - My mama said, "Son, be a dentist.
 >
@@ -2309,7 +2287,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=143)** - Okay.
 >
-> **[2:24](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=144)** Onto integration testing.
+> **[2:24](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=144)** Onto [[Integration Testing]].
 >
 > **[2:26](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=146)** It's performed with all the apps, components and dependencies operating in a test environment, and tests are written to make sure the components work well, both individually and together.
 >
@@ -2359,7 +2337,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=280)** - There are many other specialty tests you'll need.
 >
-> **[4:43](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=283)** Infrastructure testing, performance testing, and security testing to name a few.
+> **[4:43](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=283)** Infrastructure testing, performance testing, and [[Security Testing]] to name a few.
 >
 > **[4:48](https://www.linkedin.com/learning/devops-foundations-23454205/the-role-of-qa-in-devops?u=76281980&t=288)** - Yeah, testing is a huge domain, but getting good at automated testing is your single most significant factor in successful continuous delivery.
 >
@@ -2367,19 +2345,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (3), cd (2), [[End-to-end Testing]] (2), [[Unit Testing]] (2), application (2)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (3), [[End-to-end Testing]] (2), [[Unit Testing]] (2), [[Quality Assurance]] (1), [[Manual Testing]] (1)
 > **Speakers:** - that (4), - okay (4), - [instructor] (2), - yeah (2), - continuous (1)
 > **CLI Commands:** make (3), cd (2), find (2)
 > **Definitions:** is a  (3)
 > **Env Vars:** tdd (1), bdd (1)
 > **Prerequisites:** set up (1), you'll need (1)
 
-#### Continuous deployment: The final frontier
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-deployment-the-final-frontier?u=76281980)
+#### [Continuous deployment: The final frontier](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-deployment-the-final-frontier?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-deployment-the-final-frontier?u=76281980&t=0)** - Now that you're doing Continuous Delivery, what about Continuous Deployment?
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-deployment-the-final-frontier?u=76281980&t=0)** - Now that you're doing [[Continuous Delivery (CD)|Continuous Delivery]], what about Continuous Deployment?
 >
 > **[0:04](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-deployment-the-final-frontier?u=76281980&t=4)** Push that change all the way live as soon as it passes testing?
 >
@@ -2443,7 +2420,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-deployment-the-final-frontier?u=76281980&t=181)** - [Ernest] An A/B Deployment, where you release feature flagged software, and then use a system to open up the new features only to a certain subset of users, either briefly as a Canary Test, or longer for a Public Beta Test.
 >
-> **[3:15](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-deployment-the-final-frontier?u=76281980&t=195)** - [Host] How you can perform a Production Deployment is very dependent on your packaging choice, infrastructure as code strategy, and the software architecture of your service.
+> **[3:15](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-deployment-the-final-frontier?u=76281980&t=195)** - [Host] How you can perform a Production Deployment is very dependent on your packaging choice, [[Infrastructure as code (IaC)|infrastructure as code]] strategy, and the [[Software Architecture]] of your service.
 >
 > **[3:25](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-deployment-the-final-frontier?u=76281980&t=205)** - You have to design your deployment in collaboration with the people designing those other parts.
 >
@@ -2453,7 +2430,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-deployment-the-final-frontier?u=76281980&t=221)** At that time, there wasn't much tooling out there, so we wrote an internal tool called Deployer, based off of Etsy's similar Deployinator Tool.
 >
-> **[3:49](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-deployment-the-final-frontier?u=76281980&t=229)** Once we had Continuous Integration and Continuous Delivery in place, anyone in the company could go to Deployer and deploy the latest build to staging, and if it passed automated testing and it did what the developer expected, then it was eligible to deploy to production.
+> **[3:49](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-deployment-the-final-frontier?u=76281980&t=229)** Once we had [[Continuous Integration (CI)|Continuous Integration]] and Continuous Delivery in place, anyone in the company could go to Deployer and deploy the latest build to staging, and if it passed automated testing and it did what the developer expected, then it was eligible to deploy to production.
 >
 > **[4:05](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-deployment-the-final-frontier?u=76281980&t=245)** Now, it didn't happen automatically, but it literally was a push of a button.
 >
@@ -2469,11 +2446,11 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-deployment-the-final-frontier?u=76281980&t=278)** This made our entire pipeline something that any engineer could make changes to and deploy, via self-service automation.
 >
-> **[4:45](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-deployment-the-final-frontier?u=76281980&t=285)** - That's awesome, deployment is the first place the DEV and OPs worlds collide, whether they want to or not, and can make for a great end user experience or a terrible one.
+> **[4:45](https://www.linkedin.com/learning/devops-foundations-23454205/continuous-deployment-the-final-frontier?u=76281980&t=285)** - That's awesome, deployment is the first place the DEV and OPs worlds collide, whether they want to or not, and can make for a great end [[User Experience (UX)|user experience]] or a terrible one.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (3), data (2), traffic (2), feature (2), product (1)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (3), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Software Architecture]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[User Experience (UX)|User experience]] (1)
 > **Speakers:** - [host] (3), - now (2), - that (2), - [ernest] (2), - you (2)
 > **CLI Commands:** make (3), cd (1)
 > **Definitions:** in other words (2)
@@ -2482,14 +2459,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** just like (1)
 
-#### Your DevOps CI toolchain
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980)
+#### [Your DevOps CI toolchain](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=0)** - When selecting tools for CI toolchains, it's tempting to start from the developer and work your way out to the delivered service or software.
 >
-> **[0:09](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=9)** - In fact, people often refer to a continuous delivery toolchain as a pipeline, because code flows in one end and finished product out the other.
+> **[0:09](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=9)** - In fact, people often refer to a [[Continuous Delivery (CD)|continuous delivery]] toolchain as a pipeline, because code flows in one end and finished product out the other.
 >
 > **[0:18](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=18)** That makes sense, but for your continuous delivery toolchain, we're going to encourage you to approach it a little differently,
 >
@@ -2503,7 +2479,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=44)** What does the system you're building look like, and how do you want it to operate?
 >
-> **[0:48](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=48)** First, how's the software going to be deployed and used by the end user, containers, system images, Windows installers?
+> **[0:48](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=48)** First, how's the software going to be deployed and used by the end user, containers, system images, [[Windows]] installers?
 >
 > **[0:56](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=56)** - [James] Yeah, when you consider deployments, you'll need to consider what type of tooling you'll want in place.
 >
@@ -2515,19 +2491,19 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=72)** - If you decided on rolling deploys, you'll need orchestration for rolling out releases across your fleet, and this will depend on your infrastructure tooling.
 >
-> **[1:20](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=80)** For example, if you're using Kubernetes or Serverless, they'll have options built into their platform.
+> **[1:20](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=80)** For example, if you're using [[Kubernetes]] or Serverless, they'll have options built into their platform.
 >
-> **[1:26](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=86)** Otherwise, you might use deployment orchestration built in Ansible or Salt.
+> **[1:26](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=86)** Otherwise, you might use deployment orchestration built in [[Ansible]] or Salt.
 >
 > **[1:32](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=92)** These decisions affect your runtime system, and therefore cascade all the way back to the front end of your pipeline, driving tool choices at those other stages.
 >
 > **[1:41](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=101)** - Okay, now if we move one layer in, we have the artifact repository.
 >
-> **[1:45](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=105)** General solutions like Artifactory or Nexus manage lots of different artifact formats, from operating system packages to Java archives to containers.
+> **[1:45](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=105)** General solutions like Artifactory or Nexus manage lots of different artifact formats, from operating system packages to [[Java]] archives to containers.
 >
 > **[1:55](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=115)** - There are also many point solutions that just handle one type of artifact.
 >
-> **[2:00](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=120)** For example, most cloud providers offer private container repositories, and there's software and services to set up programming language-specific artifact repos, for example, [bit.dev](https://bit.dev) for private NPM repositories.
+> **[2:00](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=120)** For example, most cloud providers offer private container repositories, and there's software and services to set up programming language-specific artifact repos, for example, [bit.dev](https://bit.dev) for private [[npm]] repositories.
 >
 > **[2:13](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=133)** - Ernest, you know, one option I've used before is just to have the build system tag and zip the artifact and upload it to Amazon S3.
 >
@@ -2545,7 +2521,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=165)** That should be enough to prime you for searching for a similar tool that works for your purpose.
 >
-> **[2:50](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=170)** - Unit testing runs all the code-specific unit tests that your dev team wrote.
+> **[2:50](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=170)** - [[Unit Testing]] runs all the code-specific unit tests that your dev team wrote.
 >
 > **[2:55](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=175)** Most languages will have a built-in way to do unit tests.
 >
@@ -2553,25 +2529,25 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=182)** - Code hygiene and linters enforce code standards and quality across the team.
 >
-> **[3:07](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=187)** In JavaScript, you could use ESLint, or in Golang, there's staticcheck.
+> **[3:07](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=187)** In [[JavaScript]], you could use [[ESLint]], or in Golang, there's staticcheck.
 >
-> **[3:12](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=192)** - Integration testing ensures your proposed artifact works with the rest of the system, including other APIs and data storage services.
+> **[3:12](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=192)** - [[Integration Testing]] ensures your proposed artifact works with the [[Representational State Transfer (REST)|rest]] of the system, including other APIs and [[Data Storage]] services.
 >
-> **[3:20](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=200)** Pytest is one framework for Python.
+> **[3:20](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=200)** Pytest is one framework for [[Python (Programming Language)|Python]].
 >
 > **[3:23](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=203)** TestNG is one for Java.
 >
-> **[3:25](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=205)** - And finally, acceptance, or end-to-end testing, is often UI-based, and you can use tools like Selenium or [cypress.io](https://cypress.io).
+> **[3:25](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=205)** - And finally, acceptance, or [[End-to-end Testing]], is often UI-based, and you can use tools like [[Selenium]] or [[[Cypress.io]]](https://cypress.io).
 >
 > **[3:33](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=213)** Complex apps without a UI can be tested under other automation tools, like Robot Framework or Postman.
 >
-> **[3:40](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=220)** - [Instructor] Depending on your application or system, you'll likely need infrastructure testing, performance testing, and security testing, too.
+> **[3:40](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=220)** - [Instructor] Depending on your application or system, you'll likely need infrastructure testing, performance testing, and [[Security Testing]], too.
 >
 > **[3:47](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=227)** - [James] Oh yeah, most IAC frameworks have a test solution built in, often variations on RSpec, like InSpec or ChefSpec.
 >
-> **[3:55](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=235)** - For performance testing. Java's JMeter is popular, and there are also many commercial tools, like LoadRunner.
+> **[3:55](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=235)** - For performance testing. Java's [[JMeter]] is popular, and there are also many commercial tools, like LoadRunner.
 >
-> **[4:02](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=242)** - For security, GitHub Dependabot and GitGuardian are both easy to integrate in a GitHub-based pipeline.
+> **[4:02](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=242)** - For security, [[GitHub]] Dependabot and GitGuardian are both easy to integrate in a GitHub-based pipeline.
 >
 > **[4:09](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=249)** My own company, Dryrun Security, provides security analysis and pull requests before they ever enter CI/CD, and other tools, like StackHawk, do dynamic scans inside of GitHub Actions.
 >
@@ -2581,13 +2557,13 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=265)** This is what actually performs the build work and initiates the later stages in the pipeline.
 >
-> **[4:31](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=271)** - Jenkins is open source, and is popular in many organizations.
+> **[4:31](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=271)** - [[Jenkins]] is open source, and is popular in many organizations.
 >
 > **[4:35](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=275)** Its UI is a bit difficult to navigate at times, but it has tons of community support, and almost every provider integrates with it.
 >
-> **[4:44](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=284)** - [Instructor] Or you might be inclined to use SaaS-based offerings for CI, like CloudBees and CircleCI.
+> **[4:44](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=284)** - [Instructor] Or you might be inclined to use [[SaaS]]-based offerings for CI, like CloudBees and CircleCI.
 >
-> **[4:50](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=290)** - GitHub even offers build pipelines built into their version control system nowadays, called GitHub Actions.
+> **[4:50](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=290)** - GitHub even offers build pipelines built into their [[Version Control]] system nowadays, called GitHub Actions.
 >
 > **[4:56](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=296)** It's popular for its simplicity.
 >
@@ -2599,7 +2575,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=312)** It allows the developers to stay in sync with each other by treating each change as an independent layer.
 >
-> **[5:18](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=318)** - [James] Most organizations today opt to use Git in the form of GitHub, GitLab, or Bitbucket, either as a SaaS or as an on-prem enterprise version.
+> **[5:18](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=318)** - [James] Most organizations today opt to use [[Git]] in the form of GitHub, GitLab, or [[Bitbucket]], either as a SaaS or as an on-prem enterprise version.
 >
 > **[5:29](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-ci-toolchain?u=76281980&t=329)** - But there are other specialized version control systems, like Perforce and PlasticSCM if you need to manage very large binary assets in source control.
 >
@@ -2625,7 +2601,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (6), ci (4), [[Security]] (4), [[Version Control]] (4), [[Java]] (3)
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Version Control]] (4), [[Java]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[SaaS]] (2)
 > **Speakers:** - and (4), - [james] (4), - [instructor] (4), - okay (2), - that (2)
 > **CLI Commands:** make (3), cd (2), ansible (1), npm (1), python (1)
 > **Tools:** github (6), postman (1), gitlab (1), bitbucket (1)
@@ -2639,18 +2615,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is site reliability engineering?
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-site-reliability-engineering?u=76281980)
+#### [What is site reliability engineering?](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-site-reliability-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-site-reliability-engineering?u=76281980&t=0)** - The fifth and last practice area of DevOps is site reliability engineering.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-site-reliability-engineering?u=76281980&t=0)** - The fifth and last practice area of [[DevOps]] is site reliability engineering.
 >
 > **[0:05](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-site-reliability-engineering?u=76281980&t=5)** - Engineering is the application of theoretical principles to solve real world problems, and in engineering, reliability describes the ability of a system to perform its intended function correctly and consistently when it's expected to.
 >
 > **[0:20](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-site-reliability-engineering?u=76281980&t=20)** - And in IT this includes availability, performance, security, and all the other factors that allow your service to actually deliver its capability to users.
 >
-> **[0:31](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-site-reliability-engineering?u=76281980&t=31)** - SRE isn't just for websites, but the term got coined at Google for engineers focused on the reliability of their website and the term stuck.
+> **[0:31](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-site-reliability-engineering?u=76281980&t=31)** - SRE isn't just for websites, but the term got coined at [[Google]] for engineers focused on the reliability of their website and the term stuck.
 >
 > **[0:40](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-site-reliability-engineering?u=76281980&t=40)** - Yeah, Google Engineers published a book called Site Reliability Engineering that's also available online for free that you can use to learn more about their perspective on it.
 >
@@ -2658,9 +2633,9 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-site-reliability-engineering?u=76281980&t=51)** - [Instructor 1] You can think of SRE as the actual operations part of DevOps.
 >
-> **[0:56](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-site-reliability-engineering?u=76281980&t=56)** Infrastructure as code lets us use software to define our system.
+> **[0:56](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-site-reliability-engineering?u=76281980&t=56)** [[Infrastructure as code (IaC)|Infrastructure as code]] lets us use software to define our system.
 >
-> **[1:00](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-site-reliability-engineering?u=76281980&t=60)** Continuous integration lets us build and deploy our system and our applications, but then once you have a production service, you need to monitor it, manage it, and fix things when they go wrong.
+> **[1:00](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-site-reliability-engineering?u=76281980&t=60)** [[Continuous Integration (CI)|Continuous integration]] lets us build and deploy our system and our applications, but then once you have a production service, you need to monitor it, manage it, and fix things when they go wrong.
 >
 > **[1:11](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-site-reliability-engineering?u=76281980&t=71)** - [Instructor 2] Yeah, many people define site reliability engineering as a discipline of using a software engineering approach to automate all these operational processes,
 >
@@ -2678,7 +2653,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-site-reliability-engineering?u=76281980&t=120)** - [Instructor 2] In building for reliability, we examine how you construct your system to be maximally resilient and maintainable in the first place.
 >
-> **[2:08](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-site-reliability-engineering?u=76281980&t=128)** - And then in operational feedback, we'll talk about observability and incident response practices and how to feed back that information from production operations to improve the service.
+> **[2:08](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-site-reliability-engineering?u=76281980&t=128)** - And then in operational feedback, we'll talk about observability and [[Incident Response]] practices and how to feed back that information from production operations to improve the service.
 >
 > **[2:19](https://www.linkedin.com/learning/devops-foundations-23454205/what-is-site-reliability-engineering?u=76281980&t=139)** When you bring together both practices, you have the DevOps take on site reliability engineering.
 >
@@ -2694,24 +2669,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (8), [[DevOps]] (4), [[Google]] (2), [[Automation]] (2), application (1)
+> **Frameworks & Libraries:** [[DevOps]] (4), [[Google]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Incident Response]] (1)
 > **Speakers:** - [instructor (5), - and (3), - yeah (2), - it (2), - the (1)
 > **Env Vars:** sre (3)
 
-#### Building for reliability: Theory
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-theory?u=76281980)
+#### [Building for reliability: Theory](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-theory?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-theory?u=76281980&t=0)** - When you start talking about operations, people immediately envision the activities that happen in production.
 >
-> **[0:07](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-theory?u=76281980&t=7)** But most of your success in production is based on decisions you make at design time and your software architecture.
+> **[0:07](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-theory?u=76281980&t=7)** But most of your success in production is based on decisions you make at design time and your [[Software Architecture]].
 >
 > **[0:14](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-theory?u=76281980&t=14)** Developers, let's talk about your role in creating apps that can be reliable.
 >
 > **[0:20](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-theory?u=76281980&t=20)** That's a huge topic, so I'll hit three key resources that address how you design your applications for a real systems environment to make your services work great, even in adverse conditions.
 >
-> **[0:32](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-theory?u=76281980&t=32)** Software engineering has developed standard design patterns over time, like those in the popular "Gang of Four Design Patterns" book, a popular comp sci book that explains the theory of object-oriented design, but also offers standard patterns to use instead of having to design everything from first principles every time.
+> **[0:32](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-theory?u=76281980&t=32)** Software engineering has developed standard [[Design Patterns]] over time, like those in the popular "Gang of Four Design Patterns" book, a popular comp sci book that explains the theory of object-oriented design, but also offers standard patterns to use instead of having to design everything from first principles every time.
 >
 > **[0:51](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-theory?u=76281980&t=51)** The equivalent design patterns book that addresses stability is Michael Nygard's "Release It!"
 >
@@ -2745,7 +2719,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-theory?u=76281980&t=184)** He's a well-known developer who succinctly describes everything from page objects to serverless to bimodal IT.
 >
-> **[3:12](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-theory?u=76281980&t=192)** He has a lot of great thoughts on DevOps related topics from the perspective of a highly experienced software engineer.
+> **[3:12](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-theory?u=76281980&t=192)** He has a lot of great thoughts on [[DevOps]] related topics from the perspective of a highly experienced software engineer.
 >
 > **[3:20](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-theory?u=76281980&t=200)** That may seem like a lot of theory to start out with, but that's what design is.
 >
@@ -2755,15 +2729,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (3), application (2), database (2), [[Software Architecture]] (1), hit (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (3), [[Software Architecture]] (1), [[DevOps]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is called (2), known as (1)
 > **Analogies:** for example (2)
 > **URLs:** [12factor.net](https://12factor.net) (1)
 > **Speakers:** - when (1)
 
-#### Building for reliability: Practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-practice?u=76281980)
+#### [Building for reliability: Practice](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2795,7 +2768,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-practice?u=76281980&t=87)** Its key findings are echoed throughout our discussion of SRE.
 >
-> **[1:30](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-practice?u=76281980&t=90)** Like, changes introduce new forms of failure.
+> **[1:30](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-practice?u=76281980&t=90)** Like, changes introduce new [[Forms]] of failure.
 >
 > **[1:34](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-practice?u=76281980&t=94)** Complex systems contain changing mixes of failures latent within them.
 >
@@ -2829,7 +2802,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-practice?u=76281980&t=217)** And then from there you can automate further failover and recovery activity.
 >
-> **[3:42](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-practice?u=76281980&t=222)** A Kubernetes installation, for example, runs redundant copies of both its core services and each of its applications across multiple servers, has health checking built in, performs automatic failover when one goes down, replicates the cluster state in multiple places, all kinds of coping mechanisms to keep its system up and responding in the face of single or even multiple component failures.
+> **[3:42](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-practice?u=76281980&t=222)** A [[Kubernetes]] installation, for example, runs redundant copies of both its core services and each of its applications across multiple servers, has health checking built in, performs automatic failover when one goes down, replicates the cluster state in multiple places, all kinds of coping mechanisms to keep its system up and responding in the face of single or even multiple component failures.
 >
 > **[4:09](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-practice?u=76281980&t=249)** But there's no perfect mouse trap and that's not even your complete system.
 >
@@ -2859,7 +2832,7 @@ created: 2026-05-02
 >
 > **[5:31](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-practice?u=76281980&t=331)** Is a common saying.
 >
-> **[5:33](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-practice?u=76281980&t=333)** At Google, the dev team support their own services until they convince the SRE team that their service is stable and has enough monitoring and tooling to be supported by another team in production.
+> **[5:33](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-practice?u=76281980&t=333)** At [[Google]], the dev team support their own services until they convince the SRE team that their service is stable and has enough monitoring and tooling to be supported by another team in production.
 >
 > **[5:46](https://www.linkedin.com/learning/devops-foundations-23454205/building-for-reliability-practice?u=76281980&t=346)** Developers should learn to use their debugger, profiler and application performance management tools in a runtime environment.
 >
@@ -2867,15 +2840,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (4), application (2), traffic (2), [[Forms]] (1), game (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Kubernetes]] (1), [[Google]] (1)
 > **Versions:** 99.9 (1), 8.77 (1), 99.999 (1), 5.26 (1)
 > **Env Vars:** sre (3)
 > **Definitions:** is a  (2), in other words (1)
 > **Analogies:** for example (2), picture (1)
 > **Speakers:** - as (1)
 
-#### Operational feedback: Observability
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-observability?u=76281980)
+#### [Operational feedback: Observability](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-observability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2911,7 +2883,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-observability?u=76281980&t=107)** A few examples include emitting how long a certain function call is taking, or the number of logins in the last hour, or error event counts.
 >
-> **[1:57](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-observability?u=76281980&t=117)** Let's talk about performance metrics.
+> **[1:57](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-observability?u=76281980&t=117)** Let's talk about [[Performance Metrics]].
 >
 > **[2:00](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-observability?u=76281980&t=120)** Tied through all the previous types of metrics are hints about your performance.
 >
@@ -2921,7 +2893,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-observability?u=76281980&t=141)** It can tell you how long every function took to run, how long every API call took, and how long every database query took.
 >
-> **[2:28](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-observability?u=76281980&t=148)** Real User Monitoring, also called RUM, usually uses front-end instrumentation, for example, a JavaScript page tag to capture activity and performance as observed by the users of a system.
+> **[2:28](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-observability?u=76281980&t=148)** Real User Monitoring, also called RUM, usually uses front-end instrumentation, for example, a [[JavaScript]] page tag to capture activity and performance as observed by the users of a system.
 >
 > **[2:40](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-observability?u=76281980&t=160)** It's able to tell you exactly what your customers are experiencing.
 >
@@ -2933,7 +2905,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-observability?u=76281980&t=182)** Because logs convey additional text, and because you can develop your application to write whatever logs you want, and you can tell details about what happened, when it happened, where did it happen, and what was involved.
 >
-> **[3:17](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-observability?u=76281980&t=197)** You can use logs for problem detection, troubleshooting, audit and compliance, capacity planning, security forensics, and much more.
+> **[3:17](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-observability?u=76281980&t=197)** You can use logs for problem detection, troubleshooting, audit and compliance, [[Capacity Planning]], security forensics, and much more.
 >
 > **[3:26](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-observability?u=76281980&t=206)** The last area is security monitoring.
 >
@@ -2959,7 +2931,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Security]] (4), data (2), traffic (1), hit (1)
+> **Frameworks & Libraries:** [[Performance Metrics]] (1), [[JavaScript]] (1), [[Capacity Planning]] (1)
 > **Definitions:** is a  (3), is an  (2), in other words (1)
 > **Env Vars:** cpu (1), apm (1), api (1), rum (1)
 > **CLI Commands:** make (1)
@@ -2967,8 +2939,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - how (1)
 
-#### Operational feedback: Incident response and retrospectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-incident-response-and-retrospectives?u=76281980)
+#### [Operational feedback: Incident response and retrospectives](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-incident-response-and-retrospectives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2982,7 +2953,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-incident-response-and-retrospectives?u=76281980&t=20)** Part of the job is to get really good at responding to and remediating problems in your production system, which we affectionately refer to as incidents.
 >
-> **[0:31](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-incident-response-and-retrospectives?u=76281980&t=31)** - Incident response is an activity that needs to be practiced.
+> **[0:31](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-incident-response-and-retrospectives?u=76281980&t=31)** - [[Incident Response]] is an activity that needs to be practiced.
 >
 > **[0:34](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-incident-response-and-retrospectives?u=76281980&t=34)** It's the place where in-depth system knowledge and a cool head make all the difference.
 >
@@ -2996,7 +2967,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-incident-response-and-retrospectives?u=76281980&t=75)** That's your incident management precious, I mean your incident management process.
 >
-> **[1:23](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-incident-response-and-retrospectives?u=76281980&t=83)** - James and I saw a great presentation in the early days of DevOps called incident command for IT.
+> **[1:23](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-incident-response-and-retrospectives?u=76281980&t=83)** - James and I saw a great presentation in the early days of [[DevOps]] called incident command for IT.
 >
 > **[1:29](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-incident-response-and-retrospectives?u=76281980&t=89)** What we can learn from the fire department.
 >
@@ -3056,7 +3027,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-incident-response-and-retrospectives?u=76281980&t=259)** People know when they're being stonewalled or lied to and they don't like it.
 >
-> **[4:22](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-incident-response-and-retrospectives?u=76281980&t=262)** So building trust via transparency builds goodwill.
+> **[4:22](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-incident-response-and-retrospectives?u=76281980&t=262)** So [[Building Trust]] via transparency builds goodwill.
 >
 > **[4:27](https://www.linkedin.com/learning/devops-foundations-23454205/operational-feedback-incident-response-and-retrospectives?u=76281980&t=267)** - Those are the concepts of incident response and postmortems.
 >
@@ -3066,7 +3037,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Incident Response]] (4), management (3), [[DevOps]] (2), [[Troubleshooting]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Incident Response]] (4), [[DevOps]] (2), [[Building Trust]] (1)
 > **Speakers:** - okay (3), - there (2), - those (2), - remember (1), - yeah (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -3075,8 +3046,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Best Practices:** recommended (1)
 
-#### Your DevOps SRE toolchain
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980)
+#### [Your DevOps SRE toolchain](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3086,21 +3056,21 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=10)** It's going to be very different based on programming language and tech stack, and it's less about tools and more about libraries and development techniques
 >
-> **[0:19](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=19)** - Right. The important thing to know is that there are books that describe these techniques, tools and libraries like Java's Resilience4j, and dev and ops engineers need to collaborate at design time to determine what kind of built-in resilience approach to use.
+> **[0:19](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=19)** - Right. The important thing to know is that there are books that describe these techniques, tools and libraries like [[Java]]'s Resilience4j, and dev and ops engineers need to collaborate at design time to determine what kind of built-in resilience approach to use.
 >
-> **[0:35](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=35)** - The second part to your tool chain, operational feedback, uses a fairly common set of observability and incident response tooling.
+> **[0:35](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=35)** - The second part to your tool chain, operational feedback, uses a fairly common set of observability and [[Incident Response]] tooling.
 >
 > **[0:44](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=44)** - Yeah, this is a very rich space with offerings for every kind of monitoring and suites to combine them.
 >
-> **[0:50](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=50)** - [Presenter in Red] You have SaaS offerings like Datadog, Honeycomb, and SumoLogic.
+> **[0:50](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=50)** - [Presenter in Red] You have [[SaaS]] offerings like Datadog, Honeycomb, and SumoLogic.
 >
 > **[0:56](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=56)** - You have open source tools like Nagios, Grafana, and Prometheus.
 >
 > **[1:00](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=60)** - And commercial software like Solarwinds and Splunk.
 >
-> **[1:04](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=64)** - In fact, of all the tooling areas in DevOps, this is the one where there really might be too many options.
+> **[1:04](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=64)** - In fact, of all the tooling areas in [[DevOps]], this is the one where there really might be too many options.
 >
-> **[1:11](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=71)** - Well, might be second after Kubernetes.
+> **[1:11](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=71)** - Well, might be second after [[Kubernetes]].
 >
 > **[1:14](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=74)** - Okay, that's accurate.
 >
@@ -3114,7 +3084,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=114)** - Instead of guessing which ones we need to invest in, let's use our lean build measure learn approach when creating observability.
 >
-> **[2:03](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=123)** First, build. Create a minimum viable monitoring stack, synthetic monitors on a couple endpoints, system monitoring to get basic stats, performance latency from logs, and so on.
+> **[2:03](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=123)** First, build. Create a minimum viable monitoring stack, synthetic monitors on a couple endpoints, [[System Monitoring]] to get basic stats, performance latency from logs, and so on.
 >
 > **[2:17](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=137)** Implement the quickest, cheapest option for all five areas.
 >
@@ -3160,7 +3130,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=249)** You know, product managers and business decision makers, they need to know how things are going, what to budget for, and so on.
 >
-> **[4:17](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=257)** - And go beyond their built-in reports and dashboards, and perform custom development where needed.
+> **[4:17](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=257)** - And go beyond their built-in reports and [[Dashboards]], and perform custom development where needed.
 >
 > **[4:24](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=264)** I was working at a SaaS provider that deeply integrated into many major retail websites.
 >
@@ -3180,11 +3150,11 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=332)** - Rundeck is a runbook automation tool that I've used to set up both emergency and routine maintenance activities.
 >
-> **[5:39](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=339)** There are others, like Ansible Tower and StackStorm.
+> **[5:39](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=339)** There are others, like [[Ansible]] Tower and StackStorm.
 >
 > **[5:43](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=343)** I usually use Rundeck myself, because it has open source, commercial, and SaaS options.
 >
-> **[5:48](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=348)** - And finally, there are status page tools you can use to transparently communicate outages to users, like Atlassian Statuspage, [Status.io](https://Status.io), and some others.
+> **[5:48](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=348)** - And finally, there are status page tools you can use to transparently communicate outages to users, like [[Atlassian]] Statuspage, [Status.io](https://Status.io), and some others.
 >
 > **[5:58](https://www.linkedin.com/learning/devops-foundations-23454205/your-devops-sre-toolchain?u=76281980&t=358)** - [Presenter in Red] There's a lot of SRE tooling, and while those are the primary areas, there are many more, and this is a place where organizations end up writing a lot of custom tooling to fit their specific use case.
 >
@@ -3192,7 +3162,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Incident Response]] (4), [[SaaS]] (4), application (4), [[DevOps]] (2), business (2)
+> **Frameworks & Libraries:** [[Incident Response]] (4), [[SaaS]] (4), [[DevOps]] (2), [[Java]] (1), [[Kubernetes]] (1)
 > **Speakers:** - and (4), - yeah (3), - okay (3), - the (2), - [presenter (2)
 > **Definitions:** is a  (6)
 > **Analogies:** for example (2), picture (1)
@@ -3206,12 +3176,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Platform engineering: The paved road
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/platform-engineering-the-paved-road?u=76281980)
+#### [Platform engineering: The paved road](https://www.linkedin.com/learning/devops-foundations-23454205/platform-engineering-the-paved-road?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-foundations-23454205/platform-engineering-the-paved-road?u=76281980&t=1)** - So how the heck do you create your infrastructure as code, make your builds continuous, have great incident response and make it all secure and compliant while demanding developers and complaining end users are all up in your business?
+> **[0:01](https://www.linkedin.com/learning/devops-foundations-23454205/platform-engineering-the-paved-road?u=76281980&t=1)** - So how the heck do you create your [[Infrastructure as code (IaC)|infrastructure as code]], make your builds continuous, have great [[Incident Response]] and make it all secure and compliant while demanding developers and complaining end users are all up in your business?
 >
 > **[0:15](https://www.linkedin.com/learning/devops-foundations-23454205/platform-engineering-the-paved-road?u=76281980&t=15)** You can stay on top of it for a little while, but how do you scale it out?
 >
@@ -3219,7 +3188,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/devops-foundations-23454205/platform-engineering-the-paved-road?u=76281980&t=32)** Well, this is where the ah in comms comes to the rescue, automation.
 >
-> **[0:39](https://www.linkedin.com/learning/devops-foundations-23454205/platform-engineering-the-paved-road?u=76281980&t=39)** The first organizations that hit extreme scale in DevOps, like Netflix, Meta, Google and Spotify hit this and invested in creating self-service automation for people to get what they need out of the system.
+> **[0:39](https://www.linkedin.com/learning/devops-foundations-23454205/platform-engineering-the-paved-road?u=76281980&t=39)** The first organizations that hit extreme scale in [[DevOps]], like Netflix, Meta, [[Google]] and Spotify hit this and invested in creating self-service automation for people to get what they need out of the system.
 >
 > **[0:52](https://www.linkedin.com/learning/devops-foundations-23454205/platform-engineering-the-paved-road?u=76281980&t=52)** This approach is referred to as creating a golden path or a paved road.
 >
@@ -3241,7 +3210,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/devops-foundations-23454205/platform-engineering-the-paved-road?u=76281980&t=134)** This ends up being a really, really good dynamic.
 >
-> **[2:18](https://www.linkedin.com/learning/devops-foundations-23454205/platform-engineering-the-paved-road?u=76281980&t=138)** Say you build a solution that lets users provision their own cloud hardware and run their own builds, easily plug into your standard observability and get security guidance as an automated service.
+> **[2:18](https://www.linkedin.com/learning/devops-foundations-23454205/platform-engineering-the-paved-road?u=76281980&t=138)** Say you build a solution that lets users provision their own cloud [[Hardware]] and run their own builds, easily plug into your standard observability and get security guidance as an automated service.
 >
 > **[2:31](https://www.linkedin.com/learning/devops-foundations-23454205/platform-engineering-the-paved-road?u=76281980&t=151)** This prevents all the waste and delay of waiting on other teams to perform low value work for you, and you can build in guidance and compliance to the structure instead of leaving it to process and human memory.
 >
@@ -3279,7 +3248,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/devops-foundations-23454205/platform-engineering-the-paved-road?u=76281980&t=279)** You should optimize for value.
 >
-> **[4:42](https://www.linkedin.com/learning/devops-foundations-23454205/platform-engineering-the-paved-road?u=76281980&t=282)** Real products that companies make for customers have product managers that help uncover their requirements, make sure the product is good, and work on marketing the product to the consumers.
+> **[4:42](https://www.linkedin.com/learning/devops-foundations-23454205/platform-engineering-the-paved-road?u=76281980&t=282)** Real [[Microsoft Products|products]] that companies make for customers have product managers that help uncover their requirements, make sure the product is good, and work on marketing the product to the consumers.
 >
 > **[4:54](https://www.linkedin.com/learning/devops-foundations-23454205/platform-engineering-the-paved-road?u=76281980&t=294)** Netflix and other platform centric organizations don't even make using their platforms mandatory.
 >
@@ -3299,7 +3268,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[DevOps]] (3), [[Engineering]] (3), teams (2), [[Automation]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (3), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Incident Response]] (1), [[Google]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (7), cd (2), find (1)
 > **Env Vars:** hpc (1)
 > **Definitions:** defined as (1)
@@ -3307,8 +3276,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - so (1)
 
-#### DevSecOps: Making your systems more secure the DevOps way
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/devsecops-making-your-systems-more-secure-the-devops-way?u=76281980)
+#### [DevSecOps: Making your systems more secure the DevOps way](https://www.linkedin.com/learning/devops-foundations-23454205/devsecops-making-your-systems-more-secure-the-devops-way?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3340,7 +3308,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/devops-foundations-23454205/devsecops-making-your-systems-more-secure-the-devops-way?u=76281980&t=94)** When surveyed, developers say they do care about security, but they don't have enough time and often don't even know what the security team wants them to do.
 >
-> **[1:44](https://www.linkedin.com/learning/devops-foundations-23454205/devsecops-making-your-systems-more-secure-the-devops-way?u=76281980&t=104)** The attempt to fix this is called DevSecOps.
+> **[1:44](https://www.linkedin.com/learning/devops-foundations-23454205/devsecops-making-your-systems-more-secure-the-devops-way?u=76281980&t=104)** The attempt to fix this is called [[DevSecOps]].
 >
 > **[1:47](https://www.linkedin.com/learning/devops-foundations-23454205/devsecops-making-your-systems-more-secure-the-devops-way?u=76281980&t=107)** Wait, wait, wait, wait. DevSecOps?
 >
@@ -3348,7 +3316,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/devops-foundations-23454205/devsecops-making-your-systems-more-secure-the-devops-way?u=76281980&t=112)** Are we eventually going to have to call it DevSecTestNetDBOps?
 >
-> **[1:57](https://www.linkedin.com/learning/devops-foundations-23454205/devsecops-making-your-systems-more-secure-the-devops-way?u=76281980&t=117)** Well, DevOps is supposed to include everyone, but the term has turned out to be a useful bridge to help security folks feel welcome.
+> **[1:57](https://www.linkedin.com/learning/devops-foundations-23454205/devsecops-making-your-systems-more-secure-the-devops-way?u=76281980&t=117)** Well, [[DevOps]] is supposed to include everyone, but the term has turned out to be a useful bridge to help security folks feel welcome.
 >
 > **[2:04](https://www.linkedin.com/learning/devops-foundations-23454205/devsecops-making-your-systems-more-secure-the-devops-way?u=76281980&t=124)** So fair enough.
 >
@@ -3408,19 +3376,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (31), teams (8), [[DevSecOps]] (6), [[DevOps]] (5), [[Automation]] (2)
+> **Frameworks & Libraries:** [[DevSecOps]] (6), [[DevOps]] (5)
 > **Definitions:** is a  (3), is called (2), is an  (1)
 > **CLI Commands:** cd (1), make (1), find (1)
 > **Env Vars:** cams (1), ide (1), fud (1)
 > **Cross-References:** earlier in (2)
 > **Speakers:** - tell (1)
 
-#### Cloud native and Kubernetes
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/cloud-native-and-kubernetes?u=76281980)
+#### [Cloud native and Kubernetes](https://www.linkedin.com/learning/devops-foundations-23454205/cloud-native-and-kubernetes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/cloud-native-and-kubernetes?u=76281980&t=0)** - You probably won't get far into looking into DevOps technologies nowadays without hearing a bunch of people suddenly scream, "Kubernetes," like they're watching Elvis wiggle his hips for the first time.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/cloud-native-and-kubernetes?u=76281980&t=0)** - You probably won't get far into looking into [[DevOps]] technologies nowadays without hearing a bunch of people suddenly scream, "[[Kubernetes]]," like they're watching Elvis wiggle his hips for the first time.
 >
 > **[0:12](https://www.linkedin.com/learning/devops-foundations-23454205/cloud-native-and-kubernetes?u=76281980&t=12)** - Well, and Ernest does a pretty mean hip wiggle too.
 >
@@ -3428,7 +3395,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/devops-foundations-23454205/cloud-native-and-kubernetes?u=76281980&t=19)** - We encourage all learners to correct this injustice by leaving a course comment saying, "Unleash the wiggle."
 >
-> **[0:25](https://www.linkedin.com/learning/devops-foundations-23454205/cloud-native-and-kubernetes?u=76281980&t=25)** - Okay, anyway, Kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management.
+> **[0:25](https://www.linkedin.com/learning/devops-foundations-23454205/cloud-native-and-kubernetes?u=76281980&t=25)** - Okay, anyway, Kubernetes is an open-source container orchestration system for automating [[Software Deployment]], scaling, and management.
 >
 > **[0:36](https://www.linkedin.com/learning/devops-foundations-23454205/cloud-native-and-kubernetes?u=76281980&t=36)** In other words, a place for you to install and run your containerized applications.
 >
@@ -3452,7 +3419,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/devops-foundations-23454205/cloud-native-and-kubernetes?u=76281980&t=115)** It lets one team worry about building out the platform, and others worry about writing their apps to deploy on it.
 >
-> **[2:02](https://www.linkedin.com/learning/devops-foundations-23454205/cloud-native-and-kubernetes?u=76281980&t=122)** - And since it got so popular, people have built many tools and products to add onto it.
+> **[2:02](https://www.linkedin.com/learning/devops-foundations-23454205/cloud-native-and-kubernetes?u=76281980&t=122)** - And since it got so popular, people have built many tools and [[Microsoft Products|products]] to add onto it.
 >
 > **[2:08](https://www.linkedin.com/learning/devops-foundations-23454205/cloud-native-and-kubernetes?u=76281980&t=128)** Many of these are part of the Cloud Native Computing Foundation, or CNCF.
 >
@@ -3516,7 +3483,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (19), cloud (9), [[DevOps]] (3), application (3), [[Orchestration]] (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (19), [[DevOps]] (3), [[Software Deployment]] (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - and (3), - [james] (2), - you (1), - well (1), - we (1)
 > **Definitions:** is a  (3), is an  (1), in other words (1)
 > **Env Vars:** api (1), cncf (1), cams (1)
@@ -3524,8 +3491,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Prerequisites:** install (1)
 
-#### DevOps and chaos engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-chaos-engineering?u=76281980)
+#### [DevOps and chaos engineering](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-chaos-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3585,13 +3551,13 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-chaos-engineering?u=76281980&t=170)** But it's also used for faults that require human intervention.
 >
-> **[2:55](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-chaos-engineering?u=76281980&t=175)** Activities called Game Days can be held where a significant fault is either emulated or even really created where the human part of incident response is tested as well.
+> **[2:55](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-chaos-engineering?u=76281980&t=175)** Activities called Game Days can be held where a significant fault is either emulated or even really created where the human part of [[Incident Response]] is tested as well.
 >
 > **[3:06](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-chaos-engineering?u=76281980&t=186)** Remember, all our systems are sociotechnical systems.
 >
 > **[3:09](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-chaos-engineering?u=76281980&t=189)** If we don't test our incident response, then we shouldn't be surprised when it's poor.
 >
-> **[3:15](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-chaos-engineering?u=76281980&t=195)** James and I worked at a startup building chaos experiments for Kubernetes.
+> **[3:15](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-chaos-engineering?u=76281980&t=195)** James and I worked at a startup building chaos experiments for [[Kubernetes]].
 >
 > **[3:20](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-chaos-engineering?u=76281980&t=200)** Since it's a complex system, there are many different things that can go wrong with it.
 >
@@ -3619,21 +3585,20 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-chaos-engineering?u=76281980&t=265)** I like chaos engineering because it's an example of innovative thinking, breaking one of the walls of constraint that we labor under without even thinking about it and saying, "But what could we learn and improve if we did this in production instead?"
 >
-> **[4:40](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-chaos-engineering?u=76281980&t=280)** Chaos Engineering is all about becoming a learning organization, part of our target DevOps culture, and it's a direct application of the three ways of DevOps.
+> **[4:40](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-chaos-engineering?u=76281980&t=280)** Chaos Engineering is all about becoming a learning organization, part of our target [[DevOps]] culture, and it's a direct application of the three ways of DevOps.
 >
 > **[4:49](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-chaos-engineering?u=76281980&t=289)** Use feedback loops to create learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (6), [[Incident Response]] (2), application (2), [[DevOps]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Incident Response]] (2), [[DevOps]] (2), [[Kubernetes]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** cicd (1), dns (1)
 > **Definitions:** in other words (1), is an  (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - chaos (1)
 
-#### MLOps: Leveraging DevOps to run ML systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980)
+#### [MLOps: Leveraging DevOps to run ML systems](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3649,21 +3614,21 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=12)** - Okay well, while machine learning's been around for a long time, it's mostly been used by huge social media companies, and hardcore scientists, and engineers up until recently.
 >
-> **[0:23](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=23)** Now, the boom in generative AI has every single company scrambling to come up with an AI ML strategy.
+> **[0:23](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=23)** Now, the boom in [[Generative AI]] has every single company scrambling to come up with an AI ML strategy.
 >
 > **[0:29](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=29)** - And of course, while you can play around with web-based AI tools, most of the ways to create business value with AI involve lots of private data, and lots of training of private machine learning models.
 >
-> **[0:42](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=42)** - Okay, well that sounds like it needs infrastructure and it's a DevOps problem.
+> **[0:42](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=42)** - Okay, well that sounds like it needs infrastructure and it's a [[DevOps]] problem.
 >
 > **[0:47](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=47)** - It is, but with a little bit of a unique spin on it.
 >
-> **[0:51](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=51)** And thus the term MLOps was born, combining machine learning and DevOps.
+> **[0:51](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=51)** And thus the term [[MLOps]] was born, combining machine learning and DevOps.
 >
 > **[0:56](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=56)** - Okay well, what makes MLOps different from just normal DevOps?
 >
 > **[1:00](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=60)** I mean, you spin up servers, you send out jobs, you monitor them.
 >
-> **[1:04](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=64)** Sounds like your usual combo of infrastructure as code, continuous deployment and SRE work, right?
+> **[1:04](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=64)** Sounds like your usual combo of [[Infrastructure as code (IaC)|infrastructure as code]], continuous deployment and SRE work, right?
 >
 > **[1:11](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=71)** - There's a lot of truth to that.
 >
@@ -3671,7 +3636,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=79)** The biggest thing is that often it's data scientists and not developers who are the primary workload generators.
 >
-> **[1:26](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=86)** Data scientists often don't understand computer systems as much as ops staff or even app developers, but their work is tightly coupled with the hardware they use because the jobs are so demanding.
+> **[1:26](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=86)** Data scientists often don't understand computer systems as much as ops staff or even app developers, but their work is tightly coupled with the [[Hardware]] they use because the jobs are so demanding.
 >
 > **[1:38](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=98)** This means a need for close collaboration and training and empathetic support.
 >
@@ -3683,7 +3648,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=111)** - Exactly.
 >
-> **[1:52](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=112)** In addition to the usual work managing and deploying code and infrastructure, MLOps automates the versioning and management of massive data sets and ML models, which are basically algorithms used to find patterns in that data.
+> **[1:52](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=112)** In addition to the usual work managing and deploying code and infrastructure, MLOps automates the versioning and management of massive data sets and ML models, which are basically [[Algorithms]] used to find patterns in that data.
 >
 > **[2:07](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=127)** The actual machine learning model training workloads are intensive batch jobs, best run on high performance computing, or HPC clusters.
 >
@@ -3713,15 +3678,15 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=208)** - That's right.
 >
-> **[3:29](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=209)** While usually a lot of the model training happens up front and then end users perform inference, which is a fancy word for, "Hey, AI, write my book report for me," many inference workloads feed back into training as well.
+> **[3:29](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=209)** While usually a lot of the model training happens up front and then end users perform inference, which is a fancy [[Microsoft Word|word]] for, "Hey, AI, write my book report for me," many inference workloads feed back into training as well.
 >
 > **[3:43](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=223)** Detecting drift in AI predictions and production is a more complicated problem than, "is the right data showing up in my API."
 >
-> **[3:52](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=232)** Also, the vector databases used to store the model data are large, and they can become even more large and expensive as they grow with long-term inference memory.
+> **[3:52](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=232)** Also, the [[Vector Databases]] used to store the model data are large, and they can become even more large and expensive as they grow with long-term inference memory.
 >
 > **[4:02](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=242)** - Okay.
 >
-> **[4:03](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=243)** The process sounds similar to a normal development value stream, except you start with a model training, continuous integration loop, then a model deployment process, and then continuous monitoring in production.
+> **[4:03](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=243)** The process sounds similar to a normal development value stream, except you start with a model training, [[Continuous Integration (CI)|continuous integration]] loop, then a model deployment process, and then [[Continuous Monitoring]] in production.
 >
 > **[4:16](https://www.linkedin.com/learning/devops-foundations-23454205/mlops-leveraging-devops-to-run-ml-systems?u=76281980&t=256)** And alongside that, there are three parallel and interrelated CICD processes for the software, the infrastructure, and the data and models.
 >
@@ -3745,18 +3710,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), ai (10), [[MLOps]] (8), [[DevOps]] (7), management (2)
+> **Frameworks & Libraries:** [[MLOps]] (8), [[DevOps]] (7), [[Generative AI]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Hardware]] (1)
 > **Speakers:** - okay (7), - chat (2), - there (2), - ah (2), - that (2)
 > **Env Vars:** gpt (2), hpc (2), sre (1), api (1), cicd (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 
-#### AIOps: Using AI in your DevOps work
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980)
+#### [AIOps: Using AI in your DevOps work](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=0)** - DevOps professionals who learn to use AI for their benefit are going to make a leap ahead in their careers.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=0)** - [[DevOps]] professionals who learn to use AI for their benefit are going to make a leap ahead in their careers.
 >
 > **[0:07](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=7)** - [Speaker 2] But first, we should say that AI in any form doesn't replace an engineer, and you can't simply take output from an AI and check that code into your code repo and run it on your systems without evaluating and testing it first.
 >
@@ -3772,7 +3736,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=51)** - And that generates cognitive overload and it affects your ability to do your work.
 >
-> **[0:57](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=57)** Large language models, or LLMs, which power generative AI tools like ChatGPT, can help take care of these problems and automate some of the dirty deeds of systems operations, and dirty deeds done dirt cheap may as well be the DevOps motto.
+> **[0:57](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=57)** [[Large Language Models (LLM)|Large language models]], or LLMs, which power [[Generative AI Tools]] like [[ChatGPT]], can help take care of these problems and automate some of the dirty deeds of systems operations, and dirty deeds done dirt cheap may as well be the DevOps motto.
 >
 > **[1:14](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=74)** - One way I've used AI in DevOps is by working with APIs and writing code.
 >
@@ -3786,15 +3750,15 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=97)** I just needed to know what to ask for and I can quickly create integrations across systems and interact with their APIs.
 >
-> **[1:44](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=104)** - A common way vendors are adding AI to their products is letting you ask a question in natural language instead of having to use their obnoxious proprietary query language.
+> **[1:44](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=104)** - A common way vendors are adding AI to their [[Microsoft Products|products]] is letting you ask a question in natural language instead of having to use their obnoxious proprietary query language.
 >
 > **[1:55](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=115)** You know who you are.
 >
 > **[1:58](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=118)** - The real trick here though, is that you have to know what to ask for and give the model context on what you're trying to achieve.
 >
-> **[2:05](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=125)** - [Speaker 1] That process is called prompt engineering, and because of the way these models work, questions asked in different ways garner different results.
+> **[2:05](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=125)** - [Speaker 1] That process is called [[Prompt Engineering]], and because of the way these models work, questions asked in different ways garner different results.
 >
-> **[2:14](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=134)** - Oh yeah, one pro tip is to warm up the prompt by asking it to respond to you as a DevOps engineer with Linux experience, for example.
+> **[2:14](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=134)** - Oh yeah, one pro tip is to warm up the prompt by asking it to respond to you as a DevOps engineer with [[Linux]] experience, for example.
 >
 > **[2:22](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=142)** - A prompt hack I'll do is to ask it to explain a concept that I'm finding difficult to understand as if I'm a 12 year old.
 >
@@ -3804,29 +3768,29 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=160)** - [Speaker 2] Oh, well, you can use it to refactor code and write documentation.
 >
-> **[2:44](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=164)** For example, you can ask it to break up scripts into modules and refactor terraform, or you can use it to write documentation for your build pipeline, so future engineers will know what that workflow does.
+> **[2:44](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=164)** For example, you can ask it to break up scripts into modules and refactor [[Terraform]], or you can use it to write documentation for your build pipeline, so future engineers will know what that workflow does.
 >
 > **[2:56](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=176)** - [Speaker 1] People are also using it to perform better detection and alerting from their monitoring data, and recommend or even perform courses of action to remediate outages.
 >
 > **[3:05](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=185)** - [Speaker 2] And since programming languages are languages, and that's where AI is strong, it's really good at converting one programming language to another.
 >
-> **[3:15](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=195)** - An example of this use of AIOps comes from our fellow Austinite, Rob Hirschfeld, where he uses ChatGPT to get tool independence.
+> **[3:15](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=195)** - An example of this use of [[AIOps]] comes from our fellow Austinite, Rob Hirschfeld, where he uses ChatGPT to get tool independence.
 >
-> **[3:24](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=204)** He can move off of one platform, say Terraform, by asking Chat GPT to convert his code into AWS CLI and Bash.
+> **[3:24](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=204)** He can move off of one platform, say Terraform, by asking Chat GPT to convert his code into AWS [[CLI]] and Bash.
 >
 > **[3:32](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=212)** - [Speaker 2] Oh yeah, that's right, then he takes that code to any other vendor and then he can get it converted into that tool's language.
 >
 > **[3:38](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=218)** - [Speaker 1] Exactly.
 >
-> **[3:40](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=220)** - Code reviews and security are two other areas where we're seeing these generative AI models being used.
+> **[3:40](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=220)** - Code reviews and security are two other areas where we're seeing these [[Generative AI]] models being used.
 >
 > **[3:46](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=226)** My company, DryRun Security, is using generative AI to find risky code changes before they make their way into the pipeline.
 >
-> **[3:54](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=234)** We're finding it's way faster than traditional security testing, and it's improving inaccuracy.
+> **[3:54](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=234)** We're finding it's way faster than traditional [[Security Testing]], and it's improving inaccuracy.
 >
 > **[4:00](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=240)** - You call that your automated security buddy, right?
 >
-> **[4:03](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=243)** - That's right, yeah, we see it as a way to take the domain expertise of an application security tester and make it available to anyone as a friendly assistant.
+> **[4:03](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=243)** - That's right, yeah, we see it as a way to take the domain expertise of an [[Application Security]] tester and make it available to anyone as a friendly assistant.
 >
 > **[4:12](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=252)** Using AI for DevOps work is still in the early days.
 >
@@ -3838,7 +3802,7 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=266)** Inside your IDE, you'll get AI-assisted coding and code reviews and AI-generated tests and documentation.
 >
-> **[4:34](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=274)** With tools like GitHub, Copilot and AWS Code Whisperer, this is already becoming a reality.
+> **[4:34](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=274)** With tools like [[GitHub]], [[Microsoft Copilot|Copilot]] and AWS Code Whisperer, this is already becoming a reality.
 >
 > **[4:41](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=281)** - And then in wave two, it's all about the systems.
 >
@@ -3850,7 +3814,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=296)** They'll also be able to explain your systems to you.
 >
-> **[4:59](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=299)** In fact, there's a tool called k8sgpt, that will explain your complex Kubernetes system state to you in more understandable terms.
+> **[4:59](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=299)** In fact, there's a tool called k8sgpt, that will explain your complex [[Kubernetes]] system state to you in more understandable terms.
 >
 > **[5:08](https://www.linkedin.com/learning/devops-foundations-23454205/aiops-using-ai-in-your-devops-work?u=76281980&t=308)** - And then wave three is about the people.
 >
@@ -3860,7 +3824,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), [[DevOps]] (7), [[Security]] (5), [[ChatGPT]] (3), data (2)
+> **Frameworks & Libraries:** [[DevOps]] (7), [[ChatGPT]] (3), [[Terraform]] (2), [[AIOps]] (2), [[Generative AI]] (2)
 > **Speakers:** - [speaker (8), - and (3), - that (2), - a (2), - devops (1)
 > **CLI Commands:** make (5), find (2), terraform (2), aws (2), curl (1)
 > **Env Vars:** aws (2), gpt (1), cli (1), ide (1)
@@ -3874,14 +3838,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DevOps and your career
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-your-career?u=76281980)
+#### [DevOps and your career](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-your-career?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-your-career?u=76281980&t=0)** - As we move into the final part of the course, we want to talk with you about how this plays into your own career.
 >
-> **[0:08](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-your-career?u=76281980&t=8)** - Remember, properly used DevOps isn't a job title.
+> **[0:08](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-your-career?u=76281980&t=8)** - Remember, properly used [[DevOps]] isn't a job title.
 >
 > **[0:11](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-your-career?u=76281980&t=11)** It's a mindset and a suite of practices to use to make a technology organization get better results.
 >
@@ -3893,11 +3856,11 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-your-career?u=76281980&t=47)** - If you're a system or IT administrator, you may have had your job renamed to DevOps Engineer Victory, I kid, but while technically there should be just DevOps, QA, security, and other kinds of engineers that are all practicing DevOps together, it got popular early on to just rename Ops to DevOps, to mark that you're using a newfangled DevOps approach instead of the old siloed manual approach.
 >
-> **[1:14](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-your-career?u=76281980&t=74)** - [Instructor 1] So if you're a sys admin, in addition to your systems and networking administration skills, now you understand that you should be building systems using infrastructure as code, and that designing them for reliability is important.
+> **[1:14](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-your-career?u=76281980&t=74)** - [Instructor 1] So if you're a sys admin, in addition to your systems and networking administration skills, now you understand that you should be building systems using [[Infrastructure as code (IaC)|infrastructure as code]], and that designing them for reliability is important.
 >
 > **[1:28](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-your-career?u=76281980&t=88)** You probably are also implementing observability platforms and writing runbook automation.
 >
-> **[1:33](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-your-career?u=76281980&t=93)** - In a small enough shop, you may perform the infrastructures code, continuous delivery, and site reliability engineering work all-in-one.
+> **[1:33](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-your-career?u=76281980&t=93)** - In a small enough shop, you may perform the infrastructures code, [[Continuous Delivery (CD)|continuous delivery]], and site reliability engineering work all-in-one.
 >
 > **[1:42](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-your-career?u=76281980&t=102)** We salute you all-in-one DevOps engineer.
 >
@@ -3915,7 +3878,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-your-career?u=76281980&t=169)** An incident manager who only does incident command for incidents or an application performance management team who only works on super deep dive observability of app performance.
 >
-> **[3:01](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-your-career?u=76281980&t=181)** - If you're a security engineer, then understanding and participating in DevOps makes you a DevSecOps engineer.
+> **[3:01](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-your-career?u=76281980&t=181)** - If you're a security engineer, then understanding and participating in DevOps makes you a [[DevSecOps]] engineer.
 >
 > **[3:08](https://www.linkedin.com/learning/devops-foundations-23454205/devops-and-your-career?u=76281980&t=188)** - Of course, you don't have to be planning to work in DevOps per se to benefit from understanding it.
 >
@@ -3937,16 +3900,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (17), [[Automation]] (4), career (3), [[Security]] (3), business (2)
+> **Frameworks & Libraries:** [[DevOps]] (17), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[DevSecOps]] (1)
 > **Speakers:** - [instructor (3), - if (2), - as (1), - remember (1), - right (1)
 > **CLI Commands:** make (1)
 
-#### DevOps learning resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980)
+#### [DevOps learning resources](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980&t=0)** - Now we'll give you a lightning round of learning resources you can use to learn even more about DevOps.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980&t=0)** - Now we'll give you a lightning round of learning resources you can use to learn even more about [[DevOps]].
 >
 > **[0:06](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980&t=6)** Don't worry, you don't need to write them all down or frantically screenshot us, unless you really want to, that is.
 >
@@ -3964,25 +3926,25 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980&t=33)** The first three, DevOps Handbook, Accelerate, and the Phoenix Project, are the best all around reads on DevOps.
 >
-> **[0:42](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980&t=42)** The next three are the canonical works on our practice areas like Continuous Delivery, the Site Reliability Engineering Book, and Infrastructure as Code.
+> **[0:42](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980&t=42)** The next three are the canonical works on our practice areas like [[Continuous Delivery (CD)|Continuous Delivery]], the Site Reliability Engineering Book, and [[Infrastructure as code (IaC)|Infrastructure as Code]].
 >
-> **[0:52](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980&t=52)** Release It! is a great developer side view, and The Practice of Cloud System Administration is an op upside primer on how to actually build resilient, scalable apps and systems.
+> **[0:52](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980&t=52)** Release It! is a great developer side view, and The Practice of Cloud [[System Administration]] is an op upside primer on how to actually build resilient, scalable apps and systems.
 >
-> **[1:03](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980&t=63)** I'll round out the top 10 list with Visible Ops and Lean Software Development, which are key works we mentioned in our process practice area.
+> **[1:03](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980&t=63)** I'll round out the top 10 list with Visible Ops and Lean [[Software Development]], which are key works we mentioned in our process practice area.
 >
 > **[1:11](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980&t=71)** - And of course for the most recent hotness, there are a bunch of great online sources for DevOps info.
 >
-> **[1:18](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980&t=78)** These weekly newsletters are a great summary of the most notable developments in their area.
+> **[1:18](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980&t=78)** These weekly [[Newsletters]] are a great summary of the most notable developments in their area.
 >
 > **[1:24](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980&t=84)** There are many useful websites and we list a bunch in the course handout, but two specific shout outs.
 >
-> **[1:31](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980&t=91)** Martin Fowler writes expert articles on [[Agile Software Development]] and DevOps, and Julia Evans writes great zines and comics, illustrating tough technical topics in an easy to understand format.
+> **[1:31](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980&t=91)** Martin Fowler writes expert articles on [[[[Agile Software Development]]]] and DevOps, and Julia Evans writes great zines and comics, illustrating tough technical topics in an easy to understand format.
 >
 > **[1:43](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980&t=103)** - You know, we often get asked a lot about certifications.
 >
 > **[1:46](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980&t=106)** Because DevOps is such an expansive field, many of the certifications you'll find are specific to a technology.
 >
-> **[1:53](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980&t=113)** AWS Cloud certifications, HashiCorp certifications on their specific technologies, and Kubernetes, or cloud native certifications, are the ones that, you know, I most commonly see.
+> **[1:53](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980&t=113)** AWS Cloud certifications, HashiCorp certifications on their specific technologies, and [[Kubernetes]], or cloud native certifications, are the ones that, you know, I most commonly see.
 >
 > **[2:05](https://www.linkedin.com/learning/devops-foundations-23454205/devops-learning-resources?u=76281980&t=125)** - The DevOps Institute does have some more sweeping DevOps certifications.
 >
@@ -4018,7 +3980,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (16), cloud (3), next (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (16), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[System Administration]] (1), [[Software Development]] (1)
 > **Speakers:** - now (1), - we (1), - and (1), - you (1), - the (1)
 > **CLI Commands:** find (2), aws (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -4027,12 +3989,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 
-#### Your personal DevOps journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-23454205/your-personal-devops-journey?u=76281980)
+#### [Your personal DevOps journey](https://www.linkedin.com/learning/devops-foundations-23454205/your-personal-devops-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/your-personal-devops-journey?u=76281980&t=0)** - You've built a solid DevOps foundation here with us, and we're glad you trusted Ernest and I to be your guides.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-23454205/your-personal-devops-journey?u=76281980&t=0)** - You've built a solid [[DevOps]] foundation here with us, and we're glad you trusted Ernest and I to be your guides.
 >
 > **[0:07](https://www.linkedin.com/learning/devops-foundations-23454205/your-personal-devops-journey?u=76281980&t=7)** - For sure.
 >
@@ -4064,9 +4025,9 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/devops-foundations-23454205/your-personal-devops-journey?u=76281980&t=95)** We have drill down courses for each of the major practice areas.
 >
-> **[1:39](https://www.linkedin.com/learning/devops-foundations-23454205/your-personal-devops-journey?u=76281980&t=99)** - Yeah, there is a course on Lean and Agile where you'll find great tips on getting to faster flow states, and one on visible ops change control.
+> **[1:39](https://www.linkedin.com/learning/devops-foundations-23454205/your-personal-devops-journey?u=76281980&t=99)** - Yeah, there is a course on Lean and [[Agile Development|Agile]] where you'll find great tips on getting to faster flow states, and one on visible ops change control.
 >
-> **[1:47](https://www.linkedin.com/learning/devops-foundations-23454205/your-personal-devops-journey?u=76281980&t=107)** - We have a course on infrastructure as code that applies the concepts and shows how to get it done with hands-on technical examples.
+> **[1:47](https://www.linkedin.com/learning/devops-foundations-23454205/your-personal-devops-journey?u=76281980&t=107)** - We have a course on [[Infrastructure as code (IaC)|infrastructure as code]] that applies the concepts and shows how to get it done with hands-on technical examples.
 >
 > **[1:55](https://www.linkedin.com/learning/devops-foundations-23454205/your-personal-devops-journey?u=76281980&t=115)** - Okay, and maybe CICD is of interest to you.
 >
@@ -4074,11 +4035,11 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/devops-foundations-23454205/your-personal-devops-journey?u=76281980&t=124)** - If you're heading the site reliability engineering direction, the SRE course is where you want to head next.
 >
-> **[2:10](https://www.linkedin.com/learning/devops-foundations-23454205/your-personal-devops-journey?u=76281980&t=130)** - And if you're into security, I have a couple courses in the library around automated security testing and building a DevSecOps pipeline.
+> **[2:10](https://www.linkedin.com/learning/devops-foundations-23454205/your-personal-devops-journey?u=76281980&t=130)** - And if you're into security, I have a couple courses in the library around automated [[Security Testing]] and building a [[DevSecOps]] pipeline.
 >
 > **[2:18](https://www.linkedin.com/learning/devops-foundations-23454205/your-personal-devops-journey?u=76281980&t=138)** - And then we have advanced courses to dive deeper into technical areas within the practice areas.
 >
-> **[2:24](https://www.linkedin.com/learning/devops-foundations-23454205/your-personal-devops-journey?u=76281980&t=144)** For example, I have a course on observability and ones on incident management and incident response.
+> **[2:24](https://www.linkedin.com/learning/devops-foundations-23454205/your-personal-devops-journey?u=76281980&t=144)** For example, I have a course on observability and ones on incident management and [[Incident Response]].
 >
 > **[2:30](https://www.linkedin.com/learning/devops-foundations-23454205/your-personal-devops-journey?u=76281980&t=150)** - Ernest, that's all great but what if your area is management or leading a DevOps initiative or transformation?
 >
@@ -4098,11 +4059,11 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/devops-foundations-23454205/your-personal-devops-journey?u=76281980&t=204)** - We love to learn from other DevOps professionals.
 >
-> **[3:27](https://www.linkedin.com/learning/devops-foundations-23454205/your-personal-devops-journey?u=76281980&t=207)** Feel free to ask questions or give us your thoughts in the course Q&A and follow us on LinkedIn to stay in touch with what we have coming out next.
+> **[3:27](https://www.linkedin.com/learning/devops-foundations-23454205/your-personal-devops-journey?u=76281980&t=207)** Feel free to ask questions or give us your thoughts in the course Q&A and follow us on [[LinkedIn]] to stay in touch with what we have coming out next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (16), next (3), management (3), [[Security]] (2), career (1)
+> **Frameworks & Libraries:** [[DevOps]] (16), [[Agile Development|Agile]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Security Testing]] (1), [[DevSecOps]] (1)
 > **Speakers:** - and (4), - we (3), - okay (2), - you (1), - for (1)
 > **Env Vars:** sre (2), cicd (1)
 > **CLI Commands:** find (2)

@@ -101,12 +101,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The secret to nailing your Java interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/the-secret-to-nailing-your-java-interview?u=76281980)
+#### [The secret to nailing your Java interview](https://www.linkedin.com/learning/nail-your-java-interview-2/the-secret-to-nailing-your-java-interview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/the-secret-to-nailing-your-java-interview?u=76281980&t=0)** - [Kathryn] Do you have a technical interview coming up for a Java position?
+> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/the-secret-to-nailing-your-java-interview?u=76281980&t=0)** - [Kathryn] Do you have a technical interview coming up for a [[Java]] position?
 >
 > **[0:04](https://www.linkedin.com/learning/nail-your-java-interview-2/the-secret-to-nailing-your-java-interview?u=76281980&t=4)** Are you overwhelmed by all the concepts you have to study in order to impress your interviewer?
 >
@@ -114,7 +113,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/nail-your-java-interview-2/the-secret-to-nailing-your-java-interview?u=76281980&t=12)** As software developers and engineers, we have our work cut out for us because in addition to HR interviews, we also have technical interviews.
 >
-> **[0:21](https://www.linkedin.com/learning/nail-your-java-interview-2/the-secret-to-nailing-your-java-interview?u=76281980&t=21)** In technical interviews we're asked questions about software development, and we're tested on our knowledge of languages, frameworks, and libraries.
+> **[0:21](https://www.linkedin.com/learning/nail-your-java-interview-2/the-secret-to-nailing-your-java-interview?u=76281980&t=21)** In technical interviews we're asked questions about [[Software Development]], and we're tested on our knowledge of languages, frameworks, and libraries.
 >
 > **[0:30](https://www.linkedin.com/learning/nail-your-java-interview-2/the-secret-to-nailing-your-java-interview?u=76281980&t=30)** It takes practice to get it right.
 >
@@ -124,9 +123,9 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/nail-your-java-interview-2/the-secret-to-nailing-your-java-interview?u=76281980&t=44)** And this course will help you do that.
 >
-> **[0:46](https://www.linkedin.com/learning/nail-your-java-interview-2/the-secret-to-nailing-your-java-interview?u=76281980&t=46)** The secret to nailing these technical interviews is not memorizing hundreds of different algorithms, rather it's thoroughly understanding software development concepts and being able to recognize algorithmic patterns to implement efficient and maintainable solutions.
+> **[0:46](https://www.linkedin.com/learning/nail-your-java-interview-2/the-secret-to-nailing-your-java-interview?u=76281980&t=46)** The secret to nailing these technical interviews is not memorizing hundreds of different [[Algorithms]], rather it's thoroughly understanding software development concepts and being able to recognize algorithmic patterns to implement efficient and maintainable solutions.
 >
-> **[1:03](https://www.linkedin.com/learning/nail-your-java-interview-2/the-secret-to-nailing-your-java-interview?u=76281980&t=63)** In a Java software development interview, it's especially important to know about the Java programming language, specifically, what makes it unique and how it works under the hood.
+> **[1:03](https://www.linkedin.com/learning/nail-your-java-interview-2/the-secret-to-nailing-your-java-interview?u=76281980&t=63)** In a [[Java Software Development]] interview, it's especially important to know about the Java programming language, specifically, what makes it unique and how it works under the hood.
 >
 > **[1:14](https://www.linkedin.com/learning/nail-your-java-interview-2/the-secret-to-nailing-your-java-interview?u=76281980&t=74)** You can earn bonus points if you discuss the feasibility of the latest features added in newer versions of Java.
 >
@@ -134,21 +133,20 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/nail-your-java-interview-2/the-secret-to-nailing-your-java-interview?u=76281980&t=86)** I'm excited to help you prep for your Java technical interview and advance your software development career.
 >
-> **[1:33](https://www.linkedin.com/learning/nail-your-java-interview-2/the-secret-to-nailing-your-java-interview?u=76281980&t=93)** Join me in my LinkedIn Learning course to understand the different tools available in the Java programming language that can help you answer those tough technical interview questions.
+> **[1:33](https://www.linkedin.com/learning/nail-your-java-interview-2/the-secret-to-nailing-your-java-interview?u=76281980&t=93)** Join me in my [[LinkedIn]] Learning course to understand the different tools available in the Java programming language that can help you answer those tough technical interview questions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (5), [[Software Development]] (4), [[Programming]] (2), hr (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Java]] (6), [[Software Development]] (4), [[Algorithms]] (1), [[Java Software Development]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [kathryn] (1)
 
-#### Understand types of interview questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/understand-types-of-interview-questions?u=76281980)
+#### [Understand types of interview questions](https://www.linkedin.com/learning/nail-your-java-interview-2/understand-types-of-interview-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/understand-types-of-interview-questions?u=76281980&t=0)** - [Narrator] In a Java technical interview, there are thousands of different questions you might be asked, but most of these questions fall into a few different categories.
+> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/understand-types-of-interview-questions?u=76281980&t=0)** - [Narrator] In a [[Java]] technical interview, there are thousands of different questions you might be asked, but most of these questions fall into a few different categories.
 >
-> **[0:10](https://www.linkedin.com/learning/nail-your-java-interview-2/understand-types-of-interview-questions?u=76281980&t=10)** These include questions on the Java language, perhaps your past programming projects and experience, and software development concepts, such as object oriented programming, algorithms, data structures, and more.
+> **[0:10](https://www.linkedin.com/learning/nail-your-java-interview-2/understand-types-of-interview-questions?u=76281980&t=10)** These include questions on the Java language, perhaps your past programming projects and experience, and [[Software Development]] concepts, such as object oriented programming, [[Algorithms]], [[Data Structures]], and more.
 >
 > **[0:24](https://www.linkedin.com/learning/nail-your-java-interview-2/understand-types-of-interview-questions?u=76281980&t=24)** However, the questions that are asked in a given technical interview really depend on the company's requirement, their interview process, and the personality of the interviewer.
 >
@@ -180,12 +178,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), product (3), [[Programming]] (2), [[Software Development]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Software Development]] (2), [[Algorithms]] (1), [[Data Structures]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Get ready for your technical interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/get-ready-for-your-technical-interview?u=76281980)
+#### [Get ready for your technical interview](https://www.linkedin.com/learning/nail-your-java-interview-2/get-ready-for-your-technical-interview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -216,8 +213,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to use CoderPad
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/how-to-use-coderpad?u=76281980)
+#### [How to use CoderPad](https://www.linkedin.com/learning/nail-your-java-interview-2/how-to-use-coderpad?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -227,7 +223,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/nail-your-java-interview-2/how-to-use-coderpad?u=76281980&t=18)** These challenges are hosted by CoderPad and they appear in the same area of the course page where you watch the courses videos.
 >
-> **[0:26](https://www.linkedin.com/learning/nail-your-java-interview-2/how-to-use-coderpad?u=76281980&t=26)** We recommend using a desktop browser for the best experience, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:26](https://www.linkedin.com/learning/nail-your-java-interview-2/how-to-use-coderpad?u=76281980&t=26)** We recommend using a desktop browser for the best experience, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:35](https://www.linkedin.com/learning/nail-your-java-interview-2/how-to-use-coderpad?u=76281980&t=35)** The code challenge has four main areas.
 >
@@ -273,7 +269,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** starter code (1)
@@ -284,12 +280,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's the Java Virtual Machine?
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-java-virtual-machine?u=76281980)
+#### [What's the Java Virtual Machine?](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-java-virtual-machine?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-java-virtual-machine?u=76281980&t=0)** - [Instructor] In an interview you might be asked about the underlying technology that makes a Java program work.
+> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-java-virtual-machine?u=76281980&t=0)** - [Instructor] In an interview you might be asked about the underlying technology that makes a [[Java]] program work.
 >
 > **[0:07](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-java-virtual-machine?u=76281980&t=7)** One of these technologies is the JVM or the Java Virtual Machine.
 >
@@ -303,7 +298,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-java-virtual-machine?u=76281980&t=42)** The JVM can run this same bytecode on any machine that supports the JVM because the Java Virtual Machine is aware of the particularities on the low level of each machine type.
 >
-> **[0:57](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-java-virtual-machine?u=76281980&t=57)** Now, in order for the Java virtual Machine to work, it has to be run on a given platform, think Mac or windows, according to the Java Virtual Machine specification.
+> **[0:57](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-java-virtual-machine?u=76281980&t=57)** Now, in order for the Java virtual Machine to work, it has to be run on a given platform, think Mac or [[Windows]], according to the Java Virtual Machine specification.
 >
 > **[1:08](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-java-virtual-machine?u=76281980&t=68)** The JVM specification defines an abstract that can be mapped to any platform rather than a specific implementation for a real machine or processor.
 >
@@ -321,19 +316,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (17), [[Windows]] (1), power (1)
+> **Frameworks & Libraries:** [[Java]] (17), [[Windows]] (1)
 > **Env Vars:** jvm (5), cpu (1)
 > **Documentation:** specification (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What's the JDK and JRE?
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-jdk-and-jre?u=76281980)
+#### [What's the JDK and JRE?](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-jdk-and-jre?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-jdk-and-jre?u=76281980&t=0)** - [Lecturer] The Java Runtime Environment and the Java Development Kit are required tools for running and creating Java programs.
+> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-jdk-and-jre?u=76281980&t=0)** - [Lecturer] The [[Java]] Runtime Environment and the Java Development Kit are required tools for running and creating Java programs.
 >
 > **[0:09](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-jdk-and-jre?u=76281980&t=9)** These are essential components used behind the scenes in developing Java programs, and as such, are often asked about in technical interviews.
 >
@@ -343,7 +337,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-jdk-and-jre?u=76281980&t=35)** This is why you have to install the JRE in order to run a Java program on your computer.
 >
-> **[0:41](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-jdk-and-jre?u=76281980&t=41)** The JDK, short for Java Development Kit, is a full-featured software development kit for Java, including everything from the JRE, as well as compilers, debuggers, and tools to create Java programs.
+> **[0:41](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-jdk-and-jre?u=76281980&t=41)** The JDK, short for Java Development Kit, is a full-featured [[Software Development]] kit for Java, including everything from the JRE, as well as compilers, debuggers, and tools to create Java programs.
 >
 > **[0:56](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-jdk-and-jre?u=76281980&t=56)** Without the Java Development kit or JDK, you can't build Java programs.
 >
@@ -369,7 +363,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (20), java software (2), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Java]] (22), [[Software Development]] (1)
 > **Env Vars:** jdk (10), jre (7), ide (4)
 > **Definitions:** is a  (3), short for (2), in other words (1)
 > **Prerequisites:** install (1), required to (1)
@@ -377,8 +371,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [lecturer] (1)
 
-#### What are classes, instances, and constructors?
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/what-are-classes-instances-and-constructors?u=76281980)
+#### [What are classes, instances, and constructors?](https://www.linkedin.com/learning/nail-your-java-interview-2/what-are-classes-instances-and-constructors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -392,7 +385,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/nail-your-java-interview-2/what-are-classes-instances-and-constructors?u=76281980&t=27)** For example, let's say we wanted to represent a dog in code.
 >
-> **[0:32](https://www.linkedin.com/learning/nail-your-java-interview-2/what-are-classes-instances-and-constructors?u=76281980&t=32)** We define a given object in Java using attributes and behaviors.
+> **[0:32](https://www.linkedin.com/learning/nail-your-java-interview-2/what-are-classes-instances-and-constructors?u=76281980&t=32)** We define a given object in [[Java]] using attributes and behaviors.
 >
 > **[0:38](https://www.linkedin.com/learning/nail-your-java-interview-2/what-are-classes-instances-and-constructors?u=76281980&t=38)** Some of the different attributes that define a dog are its breed, its age, and its color.
 >
@@ -436,14 +429,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), data (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What's the difference between static and non-static methods?
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-difference-between-static-and-non-static-methods?u=76281980)
+#### [What's the difference between static and non-static methods?](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-difference-between-static-and-non-static-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -563,7 +555,7 @@ created: 2026-05-02
 >
 > **[6:33](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-difference-between-static-and-non-static-methods?u=76281980&t=393)** Now, why is all of this important?
 >
-> **[6:35](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-difference-between-static-and-non-static-methods?u=76281980&t=395)** The difference between static and non-static methods is often asked about in Java interviews.
+> **[6:35](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-difference-between-static-and-non-static-methods?u=76281980&t=395)** The difference between static and non-static methods is often asked about in [[Java]] interviews.
 >
 > **[6:41](https://www.linkedin.com/learning/nail-your-java-interview-2/what-s-the-difference-between-static-and-non-static-methods?u=76281980&t=401)** Why?
 >
@@ -571,21 +563,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Definitions:** is an  (4), is a  (2)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### How is scope used in Java?
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/how-is-scope-used-in-java?u=76281980)
+#### [How is scope used in Java?](https://www.linkedin.com/learning/nail-your-java-interview-2/how-is-scope-used-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/how-is-scope-used-in-java?u=76281980&t=0)** - [Lecturer] Depending on the programming language you are working in, the definition of scope can vary.
 >
-> **[0:06](https://www.linkedin.com/learning/nail-your-java-interview-2/how-is-scope-used-in-java?u=76281980&t=6)** In Java, there's different scopes for different pieces of code.
+> **[0:06](https://www.linkedin.com/learning/nail-your-java-interview-2/how-is-scope-used-in-java?u=76281980&t=6)** In [[Java]], there's different scopes for different pieces of code.
 >
 > **[0:11](https://www.linkedin.com/learning/nail-your-java-interview-2/how-is-scope-used-in-java?u=76281980&t=11)** We've already seen this with classes and instances, but let's see how it works with other parts of your program.
 >
@@ -629,13 +620,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [lecturer] (1)
 
-#### How do you access modifiers restrict scope?
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/how-do-you-access-modifiers-restrict-scope?u=76281980)
+#### [How do you access modifiers restrict scope?](https://www.linkedin.com/learning/nail-your-java-interview-2/how-do-you-access-modifiers-restrict-scope?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -643,7 +633,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/nail-your-java-interview-2/how-do-you-access-modifiers-restrict-scope?u=76281980&t=7)** In other words, they allow you to restrict the scope of specific functionality in your program.
 >
-> **[0:14](https://www.linkedin.com/learning/nail-your-java-interview-2/how-do-you-access-modifiers-restrict-scope?u=76281980&t=14)** Access modifiers are often asked about in Java interviews because they help make your programs more secure and maintainable.
+> **[0:14](https://www.linkedin.com/learning/nail-your-java-interview-2/how-do-you-access-modifiers-restrict-scope?u=76281980&t=14)** Access modifiers are often asked about in [[Java]] interviews because they help make your programs more secure and maintainable.
 >
 > **[0:23](https://www.linkedin.com/learning/nail-your-java-interview-2/how-do-you-access-modifiers-restrict-scope?u=76281980&t=23)** The three different access modifiers in Java are private, protected, and public.
 >
@@ -693,7 +683,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), application (3)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** getbalance (1), setbalance (1)
 > **Definitions:** in other words (1)
@@ -704,18 +694,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the impact of Jigsaw
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/understand-the-impact-of-jigsaw?u=76281980)
+#### [Understand the impact of Jigsaw](https://www.linkedin.com/learning/nail-your-java-interview-2/understand-the-impact-of-jigsaw?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/understand-the-impact-of-jigsaw?u=76281980&t=0)** - [Instructor] Before Java nine, a JAR could be considered a unit of modularity.
+> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/understand-the-impact-of-jigsaw?u=76281980&t=0)** - [Instructor] Before [[Java]] nine, a JAR could be considered a unit of modularity.
 >
 > **[0:05](https://www.linkedin.com/learning/nail-your-java-interview-2/understand-the-impact-of-jigsaw?u=76281980&t=5)** It was a single piece that grouped functionality together and had an explicit interface between other JARs.
 >
 > **[0:13](https://www.linkedin.com/learning/nail-your-java-interview-2/understand-the-impact-of-jigsaw?u=76281980&t=13)** However, it weakly encapsulated the elements within itself.
 >
-> **[0:18](https://www.linkedin.com/learning/nail-your-java-interview-2/understand-the-impact-of-jigsaw?u=76281980&t=18)** To fix this, Java nine had an epic called project Jigsaw.
+> **[0:18](https://www.linkedin.com/learning/nail-your-java-interview-2/understand-the-impact-of-jigsaw?u=76281980&t=18)** To fix this, Java nine had an epic called project [[Jigsaw]].
 >
 > **[0:23](https://www.linkedin.com/learning/nail-your-java-interview-2/understand-the-impact-of-jigsaw?u=76281980&t=23)** This introduced modularization and the module system to Java.
 >
@@ -751,21 +740,20 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/nail-your-java-interview-2/understand-the-impact-of-jigsaw?u=76281980&t=137)** So it's important to understand how it can help improve your applications performance, and scale down your application for smaller devices.
 >
-> **[2:26](https://www.linkedin.com/learning/nail-your-java-interview-2/understand-the-impact-of-jigsaw?u=76281980&t=146)** If you're interested in learning more about project Jigsaw, and modularization and Java, I encourage you to check out first look Java nine and Java modularization courses, here on LinkedIn learning.
+> **[2:26](https://www.linkedin.com/learning/nail-your-java-interview-2/understand-the-impact-of-jigsaw?u=76281980&t=146)** If you're interested in learning more about project Jigsaw, and modularization and Java, I encourage you to check out first look Java nine and Java modularization courses, here on [[LinkedIn]] learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (11), [[Jigsaw]] (5), application (5), cloud (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Java]] (11), [[Jigsaw]] (5), [[LinkedIn]] (1)
 > **Env Vars:** jdk (5), jar (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use optionals to avoid NullPointerExceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/use-optionals-to-avoid-nullpointerexceptions?u=76281980)
+#### [Use optionals to avoid NullPointerExceptions](https://www.linkedin.com/learning/nail-your-java-interview-2/use-optionals-to-avoid-nullpointerexceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/use-optionals-to-avoid-nullpointerexceptions?u=76281980&t=0)** - [Instructor] Introduced in Java eight, optionals are commonly used in enterprise Java code.
+> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/use-optionals-to-avoid-nullpointerexceptions?u=76281980&t=0)** - [Instructor] Introduced in [[Java]] eight, optionals are commonly used in enterprise Java code.
 >
 > **[0:06](https://www.linkedin.com/learning/nail-your-java-interview-2/use-optionals-to-avoid-nullpointerexceptions?u=76281980&t=6)** They provide a solution for representing certain values that may or may not exist rather than polluting your code with no references.
 >
@@ -843,18 +831,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Java]] (4), generic (2)
+> **Frameworks & Libraries:** [[Java]] (4)
 > **Code Identifiers:** ispresent (2), nameopt (2), orelse (2), printlnhinameopt (1), printlnhi (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create Lambdas to pass functionality as data
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/create-lambdas-to-pass-functionality-as-data?u=76281980)
+#### [Create Lambdas to pass functionality as data](https://www.linkedin.com/learning/nail-your-java-interview-2/create-lambdas-to-pass-functionality-as-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/create-lambdas-to-pass-functionality-as-data?u=76281980&t=0)** - [Instructor] Lambdas introduce some functional programming support in Java 8, that allows you to pass functions as data.
+> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/create-lambdas-to-pass-functionality-as-data?u=76281980&t=0)** - [Instructor] Lambdas introduce some [[Functional Programming]] support in [[Java]] 8, that allows you to pass functions as data.
 >
 > **[0:08](https://www.linkedin.com/learning/nail-your-java-interview-2/create-lambdas-to-pass-functionality-as-data?u=76281980&t=8)** In the past, whenever we've created a function, we have always had to put it inside of a class.
 >
@@ -966,7 +953,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Functional Programming]] (1), [[Java]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (1), [[Java]] (1)
 > **Definitions:** is a  (5), is called (1), is an  (1)
 > **Code Identifiers:** printitem (2), foreach (1)
 > **CLI Commands:** make (2)
@@ -975,14 +962,13 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use the Streams API to process collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/use-the-streams-api-to-process-collections?u=76281980)
+#### [Use the Streams API to process collections](https://www.linkedin.com/learning/nail-your-java-interview-2/use-the-streams-api-to-process-collections?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/use-the-streams-api-to-process-collections?u=76281980&t=0)** - [Narrator] When first learning how to code, you'll often iterate through an array or a list using a for-loop.
 >
-> **[0:07](https://www.linkedin.com/learning/nail-your-java-interview-2/use-the-streams-api-to-process-collections?u=76281980&t=7)** While this is a perfectly acceptable way to go through elements in a collection, there are more concise ways to iterate through a list using newer Java features.
+> **[0:07](https://www.linkedin.com/learning/nail-your-java-interview-2/use-the-streams-api-to-process-collections?u=76281980&t=7)** While this is a perfectly acceptable way to go through elements in a collection, there are more concise ways to iterate through a list using newer [[Java]] features.
 >
 > **[0:17](https://www.linkedin.com/learning/nail-your-java-interview-2/use-the-streams-api-to-process-collections?u=76281980&t=17)** The streams API was introduced in Java 8, and it helps you collapse your iteration into more concise readable code.
 >
@@ -1054,19 +1040,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), api (4), parallel (1)
+> **Frameworks & Libraries:** [[Java]] (4)
 > **Env Vars:** api (4)
 > **Code Identifiers:** foreach (2)
 > **Versions:** java 8 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Discuss the pros and cons of local variable type inference
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/discuss-the-pros-and-cons-of-local-variable-type-inference?u=76281980)
+#### [Discuss the pros and cons of local variable type inference](https://www.linkedin.com/learning/nail-your-java-interview-2/discuss-the-pros-and-cons-of-local-variable-type-inference?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/discuss-the-pros-and-cons-of-local-variable-type-inference?u=76281980&t=0)** - [Instructor] Introduced in Java 10, local variable type inference can help collapse some long class names in initializing variables in your code.
+> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/discuss-the-pros-and-cons-of-local-variable-type-inference?u=76281980&t=0)** - [Instructor] Introduced in [[Java]] 10, local variable type inference can help collapse some long class names in initializing variables in your code.
 >
 > **[0:10](https://www.linkedin.com/learning/nail-your-java-interview-2/discuss-the-pros-and-cons-of-local-variable-type-inference?u=76281980&t=10)** Local variable type inference means that you'll be able to initialize variables without having to specify the associated type.
 >
@@ -1116,7 +1101,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), feature (4), data (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Java]] (6)
 > **Env Vars:** var (6)
 > **Versions:** java 10 (1), 38.23 (1)
 > **Definitions:** means that (1), is a  (1)
@@ -1124,12 +1109,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leverage new switch expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/leverage-new-switch-expressions?u=76281980)
+#### [Leverage new switch expressions](https://www.linkedin.com/learning/nail-your-java-interview-2/leverage-new-switch-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/leverage-new-switch-expressions?u=76281980&t=0)** - [Instructor] In newer versions of Java, switch expressions have been enhanced to allow you to set a value directly to a variable.
+> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/leverage-new-switch-expressions?u=76281980&t=0)** - [Instructor] In newer versions of [[Java]], switch expressions have been enhanced to allow you to set a value directly to a variable.
 >
 > **[0:08](https://www.linkedin.com/learning/nail-your-java-interview-2/leverage-new-switch-expressions?u=76281980&t=8)** This is an example of a switch statement we're used to.
 >
@@ -1211,8 +1195,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Concatenate strings with different methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/concatenate-strings-with-different-methods?u=76281980)
+#### [Concatenate strings with different methods](https://www.linkedin.com/learning/nail-your-java-interview-2/concatenate-strings-with-different-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1280,8 +1263,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Normalize string input
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/normalize-string-input?u=76281980)
+#### [Normalize string input](https://www.linkedin.com/learning/nail-your-java-interview-2/normalize-string-input?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1347,7 +1329,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/nail-your-java-interview-2/normalize-string-input?u=76281980&t=200)** We'll collect the results in a collectors.twoList.
 >
-> **[3:27](https://www.linkedin.com/learning/nail-your-java-interview-2/normalize-string-input?u=76281980&t=207)** We've done these optimizations using the Java streams API, and the Java collectors API.
+> **[3:27](https://www.linkedin.com/learning/nail-your-java-interview-2/normalize-string-input?u=76281980&t=207)** We've done these optimizations using the [[Java]] streams API, and the Java collectors API.
 >
 > **[3:33](https://www.linkedin.com/learning/nail-your-java-interview-2/normalize-string-input?u=76281980&t=213)** But another option is to use a for loop to access each string, normalize it and then add it to a new list.
 >
@@ -1361,14 +1343,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), data (2), [[Java]] (2)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Code Identifiers:** realanimals (3), tolist (2), foureach (1), tolowercase (1), twolist (1)
 > **Env Vars:** api (5)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Access data from strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/access-data-from-strings?u=76281980)
+#### [Access data from strings](https://www.linkedin.com/learning/nail-your-java-interview-2/access-data-from-strings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1380,7 +1361,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/nail-your-java-interview-2/access-data-from-strings?u=76281980&t=13)** Most of these methods use indexing for accessing each character stored in the string.
 >
-> **[0:19](https://www.linkedin.com/learning/nail-your-java-interview-2/access-data-from-strings?u=76281980&t=19)** Looking at the first variable here, we could say that A is a index zero, P is a index one, P is a index two and so on for the rest of the string.
+> **[0:19](https://www.linkedin.com/learning/nail-your-java-interview-2/access-data-from-strings?u=76281980&t=19)** Looking at the first variable here, we could say that A is a index zero, P is a index one, P is a index two and so on for the [[Representational State Transfer (REST)|rest]] of the string.
 >
 > **[0:31](https://www.linkedin.com/learning/nail-your-java-interview-2/access-data-from-strings?u=76281980&t=31)** The last index in the string is the length of the string minus one.
 >
@@ -1466,14 +1447,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** charat (3), indexof (2), applesarray (2), tochararray (1), chararray (1)
 > **Definitions:** is a  (4)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Apply string functions in technical interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/apply-string-functions-in-technical-interviews?u=76281980)
+#### [Apply string functions in technical interviews](https://www.linkedin.com/learning/nail-your-java-interview-2/apply-string-functions-in-technical-interviews?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1545,7 +1525,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/nail-your-java-interview-2/apply-string-functions-in-technical-interviews?u=76281980&t=191)** We'll run the program again and this piece of text has 53 words.
 >
-> **[3:18](https://www.linkedin.com/learning/nail-your-java-interview-2/apply-string-functions-in-technical-interviews?u=76281980&t=198)** While this is the correct word count let's take a look at what's in this words array.
+> **[3:18](https://www.linkedin.com/learning/nail-your-java-interview-2/apply-string-functions-in-technical-interviews?u=76281980&t=198)** While this is the correct [[Microsoft Word|word]] count let's take a look at what's in this words array.
 >
 > **[3:26](https://www.linkedin.com/learning/nail-your-java-interview-2/apply-string-functions-in-technical-interviews?u=76281980&t=206)** We'll use arrays dot aslist so we can easily see it in our console.
 >
@@ -1569,12 +1549,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (3)
 > **Speakers:** - [instructor] (1)
 
-#### Understand string equality
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/understand-string-equality?u=76281980)
+#### [Understand string equality](https://www.linkedin.com/learning/nail-your-java-interview-2/understand-string-equality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1661,14 +1640,13 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [illustrator] (1)
 
-#### Solution: Developing a Palindrome Checker
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-developing-a-palindrome-checker-23734091?u=76281980)
+#### [Solution: Developing a Palindrome Checker](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-developing-a-palindrome-checker-23734091?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-developing-a-palindrome-checker-23734091?u=76281980&t=0)** - [Instructor] Let's implement a function that determines if a string is a palindrome.
 >
-> **[0:10](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-developing-a-palindrome-checker-23734091?u=76281980&t=10)** Remember, a palindrome is a word or phrase which reads the same backwards as it does forwards.
+> **[0:10](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-developing-a-palindrome-checker-23734091?u=76281980&t=10)** Remember, a palindrome is a [[Microsoft Word|word]] or phrase which reads the same backwards as it does forwards.
 >
 > **[0:16](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-developing-a-palindrome-checker-23734091?u=76281980&t=16)** We'll start by normalizing the input and converting it to lowercase.
 >
@@ -1718,7 +1696,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-developing-a-palindrome-checker-23734091?u=76281980&t=169)** Let's consider one last implementation.
 >
-> **[2:53](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-developing-a-palindrome-checker-23734091?u=76281980&t=173)** Let's say we wanted to use Java streams instead of a while loop.
+> **[2:53](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-developing-a-palindrome-checker-23734091?u=76281980&t=173)** Let's say we wanted to use [[Java]] streams instead of a while loop.
 >
 > **[2:58](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-developing-a-palindrome-checker-23734091?u=76281980&t=178)** We can do this with an in-stream.
 >
@@ -1740,8 +1718,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Counting with String Manipulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-counting-with-string-manipulation?u=76281980)
+#### [Solution: Counting with String Manipulation](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-counting-with-string-manipulation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1777,7 +1754,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-counting-with-string-manipulation?u=76281980&t=93)** All the tests pass.
 >
-> **[1:35](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-counting-with-string-manipulation?u=76281980&t=95)** Now let's look at another way we could solve this problem with Java Streams.
+> **[1:35](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-counting-with-string-manipulation?u=76281980&t=95)** Now let's look at another way we could solve this problem with [[Java]] Streams.
 >
 > **[1:41](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-counting-with-string-manipulation?u=76281980&t=101)** The beginning will be similar.
 >
@@ -1805,7 +1782,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), functional (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Code Identifiers:** chararray (1), indexof (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1816,18 +1793,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Review arrays for technical interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/review-arrays-for-technical-interviews?u=76281980)
+#### [Review arrays for technical interviews](https://www.linkedin.com/learning/nail-your-java-interview-2/review-arrays-for-technical-interviews?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/review-arrays-for-technical-interviews?u=76281980&t=0)** - [Instructor] In the next part of the course, we'll be looking at various data structures that can help us organize and store our data in different ways.
+> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/review-arrays-for-technical-interviews?u=76281980&t=0)** - [Instructor] In the next part of the course, we'll be looking at various [[Data Structures]] that can help us organize and store our data in different ways.
 >
 > **[0:09](https://www.linkedin.com/learning/nail-your-java-interview-2/review-arrays-for-technical-interviews?u=76281980&t=9)** These are often asked in technical interview questions, because they test not only your knowledge of a given programming language, but also how you apply that knowledge to a given problem involving data.
 >
 > **[0:22](https://www.linkedin.com/learning/nail-your-java-interview-2/review-arrays-for-technical-interviews?u=76281980&t=22)** One common data structure is called an array.
 >
-> **[0:25](https://www.linkedin.com/learning/nail-your-java-interview-2/review-arrays-for-technical-interviews?u=76281980&t=25)** In Java, an array is a collection of ordered objects of the same data type.
+> **[0:25](https://www.linkedin.com/learning/nail-your-java-interview-2/review-arrays-for-technical-interviews?u=76281980&t=25)** In [[Java]], an array is a collection of ordered objects of the same data type.
 >
 > **[0:31](https://www.linkedin.com/learning/nail-your-java-interview-2/review-arrays-for-technical-interviews?u=76281980&t=31)** Each object in the array can be accessed by an index, starting at index zero, up to the length of the array minus one.
 >
@@ -1915,15 +1891,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), next (2), [[Programming]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (3), [[Java]] (1)
 > **Code Identifiers:** unavailablepet (5), availablepets (3), availablepet (2), unavailablepets (2), indexofavailablepet (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** cat (1), make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Maximum Product of Two Numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-maximum-product-of-two-numbers-23732177?u=76281980)
+#### [Solution: Maximum Product of Two Numbers](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-maximum-product-of-two-numbers-23732177?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1959,7 +1934,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-maximum-product-of-two-numbers-23732177?u=76281980&t=91)** We'll iterate through the entire array.
 >
-> **[1:34](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-maximum-product-of-two-numbers-23732177?u=76281980&t=94)** Then for each element, we'll iterate through the rest of the array.
+> **[1:34](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-maximum-product-of-two-numbers-23732177?u=76281980&t=94)** Then for each element, we'll iterate through the [[Representational State Transfer (REST)|rest]] of the array.
 >
 > **[1:39](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-maximum-product-of-two-numbers-23732177?u=76281980&t=99)** For each pairing, we'll calculate the product.
 >
@@ -1989,7 +1964,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-maximum-product-of-two-numbers-23732177?u=76281980&t=167)** If the array was sorted, we could calculate the product of the two items at the end of the array because these items would have the highest value.
 >
-> **[2:56](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-maximum-product-of-two-numbers-23732177?u=76281980&t=176)** In fact, many sorting algorithms have a time complexity that is less than N squared, so another route is to sort the input and then calculate the product of the items at the end of the array.
+> **[2:56](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-maximum-product-of-two-numbers-23732177?u=76281980&t=176)** In fact, many sorting [[Algorithms]] have a time complexity that is less than N squared, so another route is to sort the input and then calculate the product of the items at the end of the array.
 >
 > **[3:09](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-maximum-product-of-two-numbers-23732177?u=76281980&t=189)** Let's try that.
 >
@@ -2051,7 +2026,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (13), [[Representational State Transfer (REST)|Rest]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Algorithms]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** min_value (1)
 > **Cross-References:** later in (1)
@@ -2060,8 +2035,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Mastering linked lists for whiteboard coding interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980)
+#### [Mastering linked lists for whiteboard coding interviews](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2089,7 +2063,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980&t=66)** Doubly-linked lists have nodes with pointers to the next node as well as the previous node.
 >
-> **[1:12](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980&t=72)** Let's take a look at how linked lists work in Java.
+> **[1:12](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980&t=72)** Let's take a look at how linked lists work in [[Java]].
 >
 > **[1:17](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980&t=77)** In order to use a linked list, we must import Java.util.linkedlist.
 >
@@ -2179,7 +2153,7 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980&t=351)** Thinking about the benefits of this data structure, linked lists are more efficient at inserting and deleting data because they're not a fixed size.
 >
-> **[6:00](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980&t=360)** Linked lists are dynamic data structures that can grow and shrink at runtime.
+> **[6:00](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980&t=360)** Linked lists are dynamic [[Data Structures]] that can grow and shrink at runtime.
 >
 > **[6:06](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980&t=366)** Unlike arrays, we don't have to shift elements for insertion or deletion.
 >
@@ -2197,11 +2171,11 @@ created: 2026-05-02
 >
 > **[6:47](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980&t=407)** This can take some time.
 >
-> **[6:49](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980&t=409)** If you're interested in learning more about these data structures, I encourage you to take my [[Programming Foundations- Data Structures]] course, here on LinkedIn Learning, where we dive deeper into these topics.
+> **[6:49](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-linked-lists-for-whiteboard-coding-interviews?u=76281980&t=409)** If you're interested in learning more about these data structures, I encourage you to take my [[[[Programming Foundations]]- Data Structures]] course, here on [[LinkedIn]] Learning, where we dive deeper into these topics.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), node (13), next (11), [[Java]] (4), [[Search]] (2)
+> **Frameworks & Libraries:** [[Java]] (4), [[Data Structures]] (4), [[Programming Foundations]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** node (13)
 > **Definitions:** is a  (4), is called (1)
 > **Analogies:** such as (1), for example (1)
@@ -2210,8 +2184,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Delete the Middle of a Linked List
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-delete-the-middle-of-a-linked-list?u=76281980)
+#### [Solution: Delete the Middle of a Linked List](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-delete-the-middle-of-a-linked-list?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2239,7 +2212,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), node (1)
 > **CLI Commands:** node (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
@@ -2251,8 +2223,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leveraging stacks as a data structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/leveraging-stacks-as-a-data-structure?u=76281980)
+#### [Leveraging stacks as a data structure](https://www.linkedin.com/learning/nail-your-java-interview-2/leveraging-stacks-as-a-data-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2276,7 +2247,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/nail-your-java-interview-2/leveraging-stacks-as-a-data-structure?u=76281980&t=66)** Here, removing it the stack is empty once again.
 >
-> **[1:09](https://www.linkedin.com/learning/nail-your-java-interview-2/leveraging-stacks-as-a-data-structure?u=76281980&t=69)** Let's take a look at how something like this might work in Java.
+> **[1:09](https://www.linkedin.com/learning/nail-your-java-interview-2/leveraging-stacks-as-a-data-structure?u=76281980&t=69)** Let's take a look at how something like this might work in [[Java]].
 >
 > **[1:15](https://www.linkedin.com/learning/nail-your-java-interview-2/leveraging-stacks-as-a-data-structure?u=76281980&t=75)** First, we import Java.util.stack so we can use Java's built in implementation of the stack data structure.
 >
@@ -2344,7 +2315,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Java]] (3)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** lifo (1)
@@ -2352,8 +2323,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - a (1)
 
-#### Using queues in technical interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/using-queues-in-technical-interviews?u=76281980)
+#### [Using queues in technical interviews](https://www.linkedin.com/learning/nail-your-java-interview-2/using-queues-in-technical-interviews?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2365,7 +2335,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/nail-your-java-interview-2/using-queues-in-technical-interviews?u=76281980&t=22)** The last person that joins the line is also the last person out of line.
 >
-> **[0:27](https://www.linkedin.com/learning/nail-your-java-interview-2/using-queues-in-technical-interviews?u=76281980&t=27)** To use queues in Java, we have the java.util.Queue interface.
+> **[0:27](https://www.linkedin.com/learning/nail-your-java-interview-2/using-queues-in-technical-interviews?u=76281980&t=27)** To use queues in [[Java]], we have the java.util.Queue interface.
 >
 > **[0:33](https://www.linkedin.com/learning/nail-your-java-interview-2/using-queues-in-technical-interviews?u=76281980&t=33)** Since an interface is not concrete, we'll need to instantiate an implementation of the interface in order to use it.
 >
@@ -2431,21 +2401,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), [[Java]] (4), data (2)
+> **Frameworks & Libraries:** [[Java]] (4)
 > **Analogies:** just like (1), similar to (1)
 > **Code Identifiers:** isempty (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mastering hash-based structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-hash-based-structures?u=76281980)
+#### [Mastering hash-based structures](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-hash-based-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-hash-based-structures?u=76281980&t=0)** - Hash-based structures are the most commonly used data structures in technical interviews.
+> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-hash-based-structures?u=76281980&t=0)** - Hash-based structures are the most commonly used [[Data Structures]] in technical interviews.
 >
-> **[0:06](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-hash-based-structures?u=76281980&t=6)** There are a few Hash-based structures in Java including Hashtables, HashSets, and HashMaps.
+> **[0:06](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-hash-based-structures?u=76281980&t=6)** There are a few Hash-based structures in [[Java]] including Hashtables, HashSets, and HashMaps.
 >
 > **[0:12](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-hash-based-structures?u=76281980&t=12)** But they're very similar when it comes to their core functionality.
 >
@@ -2469,7 +2438,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-hash-based-structures?u=76281980&t=74)** Essentially a HashMap is a data structure with key-value pairs where a hashing function is used to locate the element.
 >
-> **[1:23](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-hash-based-structures?u=76281980&t=83)** For example, you might have the keys Z to associate with the word Zebra.
+> **[1:23](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-hash-based-structures?u=76281980&t=83)** For example, you might have the keys Z to associate with the [[Microsoft Word|word]] Zebra.
 >
 > **[1:28](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-hash-based-structures?u=76281980&t=88)** Zebra would be stored in your Hash structure as a value.
 >
@@ -2551,7 +2520,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Word|Word]] (3), [[Java]] (2)
+> **Frameworks & Libraries:** [[Data Structures]] (3), [[Microsoft Word|Word]] (3), [[Java]] (2)
 > **Env Vars:** four (6), three (3), five (2), two (1)
 > **Code Identifiers:** wordtonum (1), keyset (1)
 > **Exercise Files:** sample code (1)
@@ -2559,8 +2528,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - hash (1)
 
-#### Solution: Generate Binary Numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-generate-binary-numbers-23732175?u=76281980)
+#### [Solution: Generate Binary Numbers](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-generate-binary-numbers-23732175?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2580,7 +2548,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-generate-binary-numbers-23732175?u=76281980&t=36)** One way to generate the first n binary numbers is by using a for-loop and converting each number, starting at 1 from the decimal system to the binary system.
 >
-> **[0:47](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-generate-binary-numbers-23732175?u=76281980&t=47)** The Integer class in Java has a method called toBinaryString, and we can use that to convert I to a binary string.
+> **[0:47](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-generate-binary-numbers-23732175?u=76281980&t=47)** The Integer class in [[Java]] has a method called toBinaryString, and we can use that to convert I to a binary string.
 >
 > **[0:58](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-generate-binary-numbers-23732175?u=76281980&t=58)** However, since we want to have an array of n's, we'll need to reparse the string into an Integer.
 >
@@ -2614,7 +2582,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-generate-binary-numbers-23732175?u=76281980&t=135)** After all the items associated with the first item have been added, we add the second item with a 0 appended to it, and then a 1 appended to it.
 >
-> **[2:26](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-generate-binary-numbers-23732175?u=76281980&t=146)** This pattern follows throughout the rest of the binary numbers.
+> **[2:26](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-generate-binary-numbers-23732175?u=76281980&t=146)** This pattern follows throughout the [[Representational State Transfer (REST)|rest]] of the binary numbers.
 >
 > **[2:32](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-generate-binary-numbers-23732175?u=76281980&t=152)** We can leverage this pattern and use a Queue to generate the first n binary numbers in our code.
 >
@@ -2660,26 +2628,25 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-generate-binary-numbers-23732175?u=76281980&t=293)** It's likely something you'd use in practice in a code base.
 >
-> **[4:57](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-generate-binary-numbers-23732175?u=76281980&t=297)** However, the second implementation shows a deeper understanding of data structures as well as pattern matching, and it's more efficient.
+> **[4:57](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-generate-binary-numbers-23732175?u=76281980&t=297)** However, the second implementation shows a deeper understanding of [[Data Structures]] as well as pattern matching, and it's more efficient.
 >
 > **[5:05](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-generate-binary-numbers-23732175?u=76281980&t=305)** Presenting both options to your interviewer and discussing the differences between them is a great way to proceed as it shows your versatility as a developer.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), next (2), [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Data Structures]] (1)
 > **Code Identifiers:** tobinarystring (4), generatebinarynumbers (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Matching Parentheses
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-matching-parentheses-23730203?u=76281980)
+#### [Solution: Matching Parentheses](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-matching-parentheses-23730203?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-matching-parentheses-23730203?u=76281980&t=5)** - Let's implement a function that determines if a piece of text has matching parentheses.
 >
-> **[0:12](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-matching-parentheses-23730203?u=76281980&t=12)** To start off, we'll create some data structures.
+> **[0:12](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-matching-parentheses-23730203?u=76281980&t=12)** To start off, we'll create some [[Data Structures]].
 >
 > **[0:15](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-matching-parentheses-23730203?u=76281980&t=15)** We'll use a stack to help us keep track of the parentheses symbols as we iterate through the string.
 >
@@ -2753,18 +2720,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - let (1)
 
-#### Solution: Find Most Repeated Word
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-find-most-repeated-word-23732176?u=76281980)
+#### [Solution: Find Most Repeated Word](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-find-most-repeated-word-23732176?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-find-most-repeated-word-23732176?u=76281980&t=0)** - [Instructor] Let's create a program that finds the most repeated word in a given piece of text.
+> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-find-most-repeated-word-23732176?u=76281980&t=0)** - [Instructor] Let's create a program that finds the most repeated [[Microsoft Word|word]] in a given piece of text.
 >
 > **[0:11](https://www.linkedin.com/learning/nail-your-java-interview-2/solution-find-most-repeated-word-23732176?u=76281980&t=11)** We'll start by normalizing the string with the helper function.
 >
@@ -2838,7 +2804,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10), data (1), next (1), api (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10)
 > **Non-Speech:** (typing) (5), (upbeat music) (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** api (1)
@@ -2850,22 +2816,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mastering abstraction for technical interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-abstraction-for-technical-interviews?u=76281980)
+#### [Mastering abstraction for technical interviews](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-abstraction-for-technical-interviews?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-abstraction-for-technical-interviews?u=76281980&t=0)** - [Instructor] In this chapter, we'll be looking at the four main principles of object-oriented programming.
+> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-abstraction-for-technical-interviews?u=76281980&t=0)** - [Instructor] In this chapter, we'll be looking at the four main principles of [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
-> **[0:07](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-abstraction-for-technical-interviews?u=76281980&t=7)** Since Java is an object-oriented language, many of these concepts are commonly used, and they're fair game for your interviewer to ask about.
+> **[0:07](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-abstraction-for-technical-interviews?u=76281980&t=7)** Since [[Java]] is an object-oriented language, many of these concepts are commonly used, and they're fair game for your interviewer to ask about.
 >
-> **[0:16](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-abstraction-for-technical-interviews?u=76281980&t=16)** While most technical interview challenges focus on data structures, your interviewer may ask for a general example of one of these object-oriented principles.
+> **[0:16](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-abstraction-for-technical-interviews?u=76281980&t=16)** While most technical interview challenges focus on [[Data Structures]], your interviewer may ask for a general example of one of these object-oriented principles.
 >
 > **[0:26](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-abstraction-for-technical-interviews?u=76281980&t=26)** It's important to be prepared to talk about them.
 >
 > **[0:30](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-abstraction-for-technical-interviews?u=76281980&t=30)** The first object-oriented principle we'll be looking at is abstraction.
 >
-> **[0:35](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-abstraction-for-technical-interviews?u=76281980&t=35)** In software development, we use abstraction to hide implementation complexity.
+> **[0:35](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-abstraction-for-technical-interviews?u=76281980&t=35)** In [[Software Development]], we use abstraction to hide implementation complexity.
 >
 > **[0:40](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-abstraction-for-technical-interviews?u=76281980&t=40)** This complexity could be in the form of an API, design, or system, and the goal of abstraction is to generalize the features of a given system.
 >
@@ -2945,7 +2910,7 @@ created: 2026-05-02
 >
 > **[5:28](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-abstraction-for-technical-interviews?u=76281980&t=328)** So why is the AbstractTableManager class useful?
 >
-> **[5:32](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-abstraction-for-technical-interviews?u=76281980&t=332)** One major reason is that the AbstractTableManager class allows us to place the TableManager algorithms in one place and classify them as TableManager operations.
+> **[5:32](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-abstraction-for-technical-interviews?u=76281980&t=332)** One major reason is that the AbstractTableManager class allows us to place the TableManager [[Algorithms]] in one place and classify them as TableManager operations.
 >
 > **[5:45](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-abstraction-for-technical-interviews?u=76281980&t=345)** As we saw with the UserTableManager, other concrete classes can use these algorithms and not worry about the implementation, since they're already heavily tested with their usages in other concrete classes.
 >
@@ -2961,7 +2926,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), cloud (7), [[Java]] (4), [[Algorithms]] (3), generic (2)
+> **Frameworks & Libraries:** [[Java]] (4), [[Algorithms]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Data Structures]] (1), [[Software Development]] (1)
 > **Code Identifiers:** gettablename (4), putitem (3), getdbclient (1), usertablemanager (1)
 > **Env Vars:** api (1), usertable (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -2969,8 +2934,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add encapsulation to your programs to impress interviewers
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/add-encapsulation-to-your-programs-to-impress-interviewers?u=76281980)
+#### [Add encapsulation to your programs to impress interviewers](https://www.linkedin.com/learning/nail-your-java-interview-2/add-encapsulation-to-your-programs-to-impress-interviewers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2980,7 +2944,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/nail-your-java-interview-2/add-encapsulation-to-your-programs-to-impress-interviewers?u=76281980&t=10)** It's a way of wrapping data and code acting on the data into a single unit.
 >
-> **[0:15](https://www.linkedin.com/learning/nail-your-java-interview-2/add-encapsulation-to-your-programs-to-impress-interviewers?u=76281980&t=15)** In Java, this would be a class.
+> **[0:15](https://www.linkedin.com/learning/nail-your-java-interview-2/add-encapsulation-to-your-programs-to-impress-interviewers?u=76281980&t=15)** In [[Java]], this would be a class.
 >
 > **[0:18](https://www.linkedin.com/learning/nail-your-java-interview-2/add-encapsulation-to-your-programs-to-impress-interviewers?u=76281980&t=18)** To prevent classes from being tightly coupled, we want to keep related data and behaviors together inside of a single unit class.
 >
@@ -3054,18 +3018,17 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/nail-your-java-interview-2/add-encapsulation-to-your-programs-to-impress-interviewers?u=76281980&t=231)** Only one class needs to be changed in this case rather than multiple.
 >
-> **[3:56](https://www.linkedin.com/learning/nail-your-java-interview-2/add-encapsulation-to-your-programs-to-impress-interviewers?u=76281980&t=236)** Encapsulation also makes unit testing much easier because each piece is less coupled.
+> **[3:56](https://www.linkedin.com/learning/nail-your-java-interview-2/add-encapsulation-to-your-programs-to-impress-interviewers?u=76281980&t=236)** Encapsulation also makes [[Unit Testing]] much easier because each piece is less coupled.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Java]] (2), [[Unit Testing]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Unit Testing]] (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** getname (1), gethouse (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leveraging inheritance in your technical interview solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/leveraging-inheritance-in-your-technical-interview-solutions?u=76281980)
+#### [Leveraging inheritance in your technical interview solutions](https://www.linkedin.com/learning/nail-your-java-interview-2/leveraging-inheritance-in-your-technical-interview-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3089,7 +3052,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/nail-your-java-interview-2/leveraging-inheritance-in-your-technical-interview-solutions?u=76281980&t=61)** This is one way to use inheritance.
 >
-> **[1:03](https://www.linkedin.com/learning/nail-your-java-interview-2/leveraging-inheritance-in-your-technical-interview-solutions?u=76281980&t=63)** Provide the algorithms in one class, other classes extend that class, and can have access to this algorithms.
+> **[1:03](https://www.linkedin.com/learning/nail-your-java-interview-2/leveraging-inheritance-in-your-technical-interview-solutions?u=76281980&t=63)** Provide the [[Algorithms]] in one class, other classes extend that class, and can have access to this algorithms.
 >
 > **[1:12](https://www.linkedin.com/learning/nail-your-java-interview-2/leveraging-inheritance-in-your-technical-interview-solutions?u=76281980&t=72)** To understand this concept a little further, let's take a look at another example.
 >
@@ -3119,7 +3082,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/nail-your-java-interview-2/leveraging-inheritance-in-your-technical-interview-solutions?u=76281980&t=139)** So non-negative ArrayList.
 >
-> **[2:22](https://www.linkedin.com/learning/nail-your-java-interview-2/leveraging-inheritance-in-your-technical-interview-solutions?u=76281980&t=142)** To do a series of numbers in Java, we just do the data type.
+> **[2:22](https://www.linkedin.com/learning/nail-your-java-interview-2/leveraging-inheritance-in-your-technical-interview-solutions?u=76281980&t=142)** To do a series of numbers in [[Java]], we just do the data type.
 >
 > **[2:25](https://www.linkedin.com/learning/nail-your-java-interview-2/leveraging-inheritance-in-your-technical-interview-solutions?u=76281980&t=145)** In this case, integer dot dot dot.
 >
@@ -3271,7 +3234,7 @@ created: 2026-05-02
 >
 > **[8:16](https://www.linkedin.com/learning/nail-your-java-interview-2/leveraging-inheritance-in-your-technical-interview-solutions?u=76281980&t=496)** If you ever want to change the behavior, you can override the class and modify it, while keeping all of the other behaviors as we've done with our non-negative ArrayList class.
 >
-> **[8:27](https://www.linkedin.com/learning/nail-your-java-interview-2/leveraging-inheritance-in-your-technical-interview-solutions?u=76281980&t=507)** By creating this non-negative ArrayList class, we do not have to do the extra If Checks around the rest of our code to check if a given number or collection added is a valid non-negative value.
+> **[8:27](https://www.linkedin.com/learning/nail-your-java-interview-2/leveraging-inheritance-in-your-technical-interview-solutions?u=76281980&t=507)** By creating this non-negative ArrayList class, we do not have to do the extra If Checks around the [[Representational State Transfer (REST)|rest]] of our code to check if a given number or collection added is a valid non-negative value.
 >
 > **[8:40](https://www.linkedin.com/learning/nail-your-java-interview-2/leveraging-inheritance-in-your-technical-interview-solutions?u=76281980&t=520)** This prevents unwanted bugs.
 >
@@ -3287,22 +3250,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (2), data (2), [[Java]] (1), api (1), next (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use polymorphism to reduce complexity in coding interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/use-polymorphism-to-reduce-complexity-in-coding-interviews?u=76281980)
+#### [Use polymorphism to reduce complexity in coding interviews](https://www.linkedin.com/learning/nail-your-java-interview-2/use-polymorphism-to-reduce-complexity-in-coding-interviews?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/use-polymorphism-to-reduce-complexity-in-coding-interviews?u=76281980&t=0)** - [Instructor] Polymorphism is the ability for an object or function to take many forms.
+> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/use-polymorphism-to-reduce-complexity-in-coding-interviews?u=76281980&t=0)** - [Instructor] Polymorphism is the ability for an object or function to take many [[Forms]].
 >
 > **[0:05](https://www.linkedin.com/learning/nail-your-java-interview-2/use-polymorphism-to-reduce-complexity-in-coding-interviews?u=76281980&t=5)** Depending on the context and the situation, the form may be different making your code more flexible and reducing complexity.
 >
-> **[0:14](https://www.linkedin.com/learning/nail-your-java-interview-2/use-polymorphism-to-reduce-complexity-in-coding-interviews?u=76281980&t=14)** Java supports two types of polymorphism, runtime, compile-time.
+> **[0:14](https://www.linkedin.com/learning/nail-your-java-interview-2/use-polymorphism-to-reduce-complexity-in-coding-interviews?u=76281980&t=14)** [[Java]] supports two types of polymorphism, runtime, compile-time.
 >
 > **[0:20](https://www.linkedin.com/learning/nail-your-java-interview-2/use-polymorphism-to-reduce-complexity-in-coding-interviews?u=76281980&t=20)** First, we'll be looking at runtime polymorphism and we've already seen it quite a bit in this course even if you didn't realize it.
 >
@@ -3408,25 +3370,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (2), data (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Java]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is called (1)
 > **Analogies:** similar to (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mastering polymorphism with a deeper look at Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-polymorphism-with-a-deeper-look-at-java?u=76281980)
+#### [Mastering polymorphism with a deeper look at Java](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-polymorphism-with-a-deeper-look-at-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-polymorphism-with-a-deeper-look-at-java?u=76281980&t=0)** - [Tutor] In this lesson, we'll take a deeper look at the functionality, built into Java to see how it's benefiting from using polymorphism.
+> **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-polymorphism-with-a-deeper-look-at-java?u=76281980&t=0)** - [Tutor] In this lesson, we'll take a deeper look at the functionality, built into [[Java]] to see how it's benefiting from using polymorphism.
 >
 > **[0:08](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-polymorphism-with-a-deeper-look-at-java?u=76281980&t=8)** We'll start with the example from the previous lesson with our non-negative array list.
 >
 > **[0:14](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-polymorphism-with-a-deeper-look-at-java?u=76281980&t=14)** This class took on the form of an array list as well as the form of a non-negative array list, depending on what functionality was called.
 >
-> **[0:23](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-polymorphism-with-a-deeper-look-at-java?u=76281980&t=23)** There are actually even more forms that a non-negative ArrayList class can take.
+> **[0:23](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-polymorphism-with-a-deeper-look-at-java?u=76281980&t=23)** There are actually even more [[Forms]] that a non-negative ArrayList class can take.
 >
 > **[0:28](https://www.linkedin.com/learning/nail-your-java-interview-2/mastering-polymorphism-with-a-deeper-look-at-java?u=76281980&t=28)** Let's look at the ArrayList class.
 >
@@ -3566,7 +3527,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Forms]] (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Java]] (1)
 > **Definitions:** is an  (3), is a  (1), we call this (1)
 > **Documentation:** specification (3)
 > **CLI Commands:** make (2)
@@ -3579,20 +3540,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Good luck in your interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/nail-your-java-interview-2/good-luck-in-your-interview?u=76281980)
+#### [Good luck in your interview](https://www.linkedin.com/learning/nail-your-java-interview-2/good-luck-in-your-interview?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/nail-your-java-interview-2/good-luck-in-your-interview?u=76281980&t=0)** - [Kathryn] Congratulations. You finished the course.
 >
-> **[0:03](https://www.linkedin.com/learning/nail-your-java-interview-2/good-luck-in-your-interview?u=76281980&t=3)** We started out by looking at the foundations of interviewing for software development roles.
+> **[0:03](https://www.linkedin.com/learning/nail-your-java-interview-2/good-luck-in-your-interview?u=76281980&t=3)** We started out by looking at the foundations of [[Interviewing]] for [[Software Development]] roles.
 >
-> **[0:09](https://www.linkedin.com/learning/nail-your-java-interview-2/good-luck-in-your-interview?u=76281980&t=9)** Then we dove into some Java specific-topics that you might be asked about in your interview.
+> **[0:09](https://www.linkedin.com/learning/nail-your-java-interview-2/good-luck-in-your-interview?u=76281980&t=9)** Then we dove into some [[Java]] specific-topics that you might be asked about in your interview.
 >
 > **[0:15](https://www.linkedin.com/learning/nail-your-java-interview-2/good-luck-in-your-interview?u=76281980&t=15)** We explored some new Java features that developers are using in the field and learned more about how Java works under the surface.
 >
-> **[0:23](https://www.linkedin.com/learning/nail-your-java-interview-2/good-luck-in-your-interview?u=76281980&t=23)** We also reviewed the built-in data structures and mastered some key object-oriented concepts to get you ready for the coding portion of your interview.
+> **[0:23](https://www.linkedin.com/learning/nail-your-java-interview-2/good-luck-in-your-interview?u=76281980&t=23)** We also reviewed the built-in [[Data Structures]] and mastered some key object-oriented concepts to get you ready for the coding portion of your interview.
 >
 > **[0:33](https://www.linkedin.com/learning/nail-your-java-interview-2/good-luck-in-your-interview?u=76281980&t=33)** To top it off, we got some great practice in with a few technical interview challenges and solutions.
 >
@@ -3600,7 +3560,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), [[Interviewing]] (1), [[Software Development]] (1), data (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Interviewing]] (1), [[Software Development]] (1), [[Data Structures]] (1)
 > **Speakers:** - [kathryn] (1)
 
 

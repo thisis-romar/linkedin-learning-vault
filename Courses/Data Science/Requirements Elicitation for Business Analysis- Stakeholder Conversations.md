@@ -89,8 +89,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Discover requirements of stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/discover-requirements-of-stakeholders?u=76281980)
+#### [Discover requirements of stakeholders](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/discover-requirements-of-stakeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -100,7 +99,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/discover-requirements-of-stakeholders?u=76281980&t=18)** You'll learn to effectively and strategically plan for these critical conversations, as well as how to conduct and follow up on them.
 >
-> **[0:26](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/discover-requirements-of-stakeholders?u=76281980&t=26)** I'll also discuss key insights to relationship building, asking powerful probing questions and the mindset you'll need to be successful.
+> **[0:26](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/discover-requirements-of-stakeholders?u=76281980&t=26)** I'll also discuss key insights to [[Relationship Building]], asking powerful probing questions and the mindset you'll need to be successful.
 >
 > **[0:37](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/discover-requirements-of-stakeholders?u=76281980&t=37)** I'm Angela Wick, business analysis expert and instructor.
 >
@@ -108,7 +107,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Relationship Building]] (1), business (1)
+> **Frameworks & Libraries:** [[Relationship Building]] (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - requirements (1)
 
@@ -117,12 +116,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### When to use interviewing and conversations as a technique
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/when-to-use-interviewing-and-conversations-as-a-technique?u=76281980)
+#### [When to use interviewing and conversations as a technique](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/when-to-use-interviewing-and-conversations-as-a-technique?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/when-to-use-interviewing-and-conversations-as-a-technique?u=76281980&t=0)** - Interviewing is a formal term used in business analysis for a requirements conversation, a conversation about what's changing due to a process, system, or policy change for example.
+> **[0:00](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/when-to-use-interviewing-and-conversations-as-a-technique?u=76281980&t=0)** - [[Interviewing]] is a formal term used in business analysis for a requirements conversation, a conversation about what's changing due to a process, system, or policy change for example.
 >
 > **[0:12](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/when-to-use-interviewing-and-conversations-as-a-technique?u=76281980&t=12)** Requirements conversation and interviews are one of many techniques to gather, discover, elicit, and learn information from a person or group of people.
 >
@@ -172,7 +170,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Interviewing]] (1), business (1), teams (1), next (1), strengths (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), picture (1)
 > **Definitions:** is a  (1)
@@ -180,8 +178,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - interviewing (1)
 
-#### Use interviews and conversations to elicit requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/use-interviews-and-conversations-to-elicit-requirements?u=76281980)
+#### [Use interviews and conversations to elicit requirements](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/use-interviews-and-conversations-to-elicit-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -201,7 +198,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/use-interviews-and-conversations-to-elicit-requirements?u=76281980&t=49)** The sponsor of the project is the business leader accountable for the change.
 >
-> **[0:54](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/use-interviews-and-conversations-to-elicit-requirements?u=76281980&t=54)** They're often interviewed and talked to to understand the problem or opportunity from a business leadership perspective.
+> **[0:54](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/use-interviews-and-conversations-to-elicit-requirements?u=76281980&t=54)** They're often interviewed and talked to to understand the problem or opportunity from a [[Business Leadership]] perspective.
 >
 > **[1:02](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/use-interviews-and-conversations-to-elicit-requirements?u=76281980&t=62)** You'll likely meet with them to understand how the project aligns to higher level goals, objectives, and strategies of the organization.
 >
@@ -235,13 +232,13 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/use-interviews-and-conversations-to-elicit-requirements?u=76281980&t=193)** It's your role to dig in and understand what the underlying need is and ensure the solution is complete and will not negatively impact other users.
 >
-> **[3:24](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/use-interviews-and-conversations-to-elicit-requirements?u=76281980&t=204)** Now that you know who to talk to and why, you'll need to understand your unique project type and how it provides additional context to your interviewing conversations.
+> **[3:24](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/use-interviews-and-conversations-to-elicit-requirements?u=76281980&t=204)** Now that you know who to talk to and why, you'll need to understand your unique project type and how it provides additional context to your [[Interviewing]] conversations.
 >
 > **[3:35](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/use-interviews-and-conversations-to-elicit-requirements?u=76281980&t=215)** Use the exercise file provided to guide you through some sample project types and interviewing rationale.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), product (2), [[Interviewing]] (2), leadership (1), technical solution (1)
+> **Frameworks & Libraries:** [[Interviewing]] (2), [[Business Leadership]] (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
@@ -249,8 +246,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - requirements (1)
 
-#### Overview of the requirements conversation process
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/overview-of-the-requirements-conversation-process?u=76281980)
+#### [Overview of the requirements conversation process](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/overview-of-the-requirements-conversation-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -296,7 +292,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (1)
 > **Prerequisites:** set up (1)
@@ -307,8 +302,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Define the requirements conversation's purpose
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/define-the-requirements-conversation-s-purpose?u=76281980)
+#### [Define the requirements conversation's purpose](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/define-the-requirements-conversation-s-purpose?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -370,14 +364,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), teams (1)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - so (1)
 
-#### Select the right people to talk to
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/select-the-right-people-to-talk-to?u=76281980)
+#### [Select the right people to talk to](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/select-the-right-people-to-talk-to?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -393,7 +385,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/select-the-right-people-to-talk-to?u=76281980&t=26)** Finish the conversation gracefully, keep the relationship intact, and then find the right person to meet your objective.
 >
-> **[0:34](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/select-the-right-people-to-talk-to?u=76281980&t=34)** The best way to avoid interviewing the wrong person is to do a little work upfront.
+> **[0:34](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/select-the-right-people-to-talk-to?u=76281980&t=34)** The best way to avoid [[Interviewing]] the wrong person is to do a little work upfront.
 >
 > **[0:40](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/select-the-right-people-to-talk-to?u=76281980&t=40)** You might be given names of people to talk to and interview about requirements.
 >
@@ -433,15 +425,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Interviewing]] (1), product (1), next (1), business (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1)
 > **CLI Commands:** find (5), make (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - when (1)
 
-#### Research people before your meeting
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/research-people-before-your-meeting?u=76281980)
+#### [Research people before your meeting](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/research-people-before-your-meeting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -495,9 +486,9 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/research-people-before-your-meeting?u=76281980&t=162)** It might also be other stakeholders you've already built rapport with.
 >
-> **[2:46](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/research-people-before-your-meeting?u=76281980&t=166)** You would also search organizational pages and sites and even LinkedIn.
+> **[2:46](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/research-people-before-your-meeting?u=76281980&t=166)** You would also search organizational pages and sites and even [[LinkedIn]].
 >
-> **[2:51](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/research-people-before-your-meeting?u=76281980&t=171)** Another way to research is to use generative AI and research the role of the person you'll be talking to.
+> **[2:51](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/research-people-before-your-meeting?u=76281980&t=171)** Another way to research is to use [[Generative AI]] and research the role of the person you'll be talking to.
 >
 > **[2:57](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/research-people-before-your-meeting?u=76281980&t=177)** For example, what would a VP of billing be concerned about when updating the accounts receivable process?
 >
@@ -509,15 +500,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Search]] (1), [[LinkedIn]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Generative AI]] (1)
 > **Analogies:** for example (2)
 > **Exercise Files:** exercise file (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - it (1)
 
-#### Plan the requirements conversation
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/plan-the-requirements-conversation?u=76281980)
+#### [Plan the requirements conversation](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/plan-the-requirements-conversation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -559,7 +549,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/plan-the-requirements-conversation?u=76281980&t=122)** I've included an exercise file with some sample interview questions that can help you formulate your plan.
 >
-> **[2:08](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/plan-the-requirements-conversation?u=76281980&t=128)** I've also successfully used generative AI to help me brainstorm questions to ask stakeholders.
+> **[2:08](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/plan-the-requirements-conversation?u=76281980&t=128)** I've also successfully used [[Generative AI]] to help me brainstorm questions to ask stakeholders.
 >
 > **[2:15](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/plan-the-requirements-conversation?u=76281980&t=135)** Perhaps a prompt like, "Pretend you're a business analyst and discussing solution requirements for the new billing system with a VP of Accounts Receivable.
 >
@@ -577,14 +567,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (1), prompt (1), business (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1)
 > **Exercise Files:** exercise file (2), download the (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - fail (1)
 
-#### Set up the requirements elicitation conversation
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/set-up-the-requirements-elicitation-conversation?u=76281980)
+#### [Set up the requirements elicitation conversation](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/set-up-the-requirements-elicitation-conversation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -612,7 +601,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/set-up-the-requirements-elicitation-conversation?u=76281980&t=69)** Turn those cameras on to establish trust in a deeper connection.
 >
-> **[1:15](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/set-up-the-requirements-elicitation-conversation?u=76281980&t=75)** Also, think about a meeting in their office where they might be more comfortable and can easily find information or show you work examples.
+> **[1:15](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/set-up-the-requirements-elicitation-conversation?u=76281980&t=75)** Also, think about a meeting in their [[Microsoft Office|office]] where they might be more comfortable and can easily find information or show you work examples.
 >
 > **[1:25](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/set-up-the-requirements-elicitation-conversation?u=76281980&t=85)** And last, when meeting with a senior leader, personally talk to their support staff to understand what's a good time for them.
 >
@@ -638,7 +627,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
@@ -649,8 +638,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Examine an example requirements conversation
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/examine-an-example-requirements-conversation?u=76281980)
+#### [Examine an example requirements conversation](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/examine-an-example-requirements-conversation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -796,7 +784,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/examine-an-example-requirements-conversation?u=76281980&t=246)** I would love to gather some data that tells us exactly what's happening to users as they use the online portal.
 >
-> **[4:12](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/examine-an-example-requirements-conversation?u=76281980&t=252)** Things like where they're dropping off in their user experience and what's likely frustrating them.
+> **[4:12](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/examine-an-example-requirements-conversation?u=76281980&t=252)** Things like where they're dropping off in their [[User Experience (UX)|user experience]] and what's likely frustrating them.
 >
 > **[4:17](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/examine-an-example-requirements-conversation?u=76281980&t=257)** I can work with the data analytics team to research what's happening with the user experience, and also work with them to predict when a user is likely to abandon their online experience.
 >
@@ -838,14 +826,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), teams (1), ai (1), [[Analytics]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **Speakers:** - oh (7), - well (6), - yeah (4), - you (3), - okay (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** heads up (1)
 
-#### Build rapport with stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/build-rapport-with-stakeholders?u=76281980)
+#### [Build rapport with stakeholders](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/build-rapport-with-stakeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -895,7 +882,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/build-rapport-with-stakeholders?u=76281980&t=146)** Being aware of this is important to your overall rapport with them.
 >
-> **[2:29](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/build-rapport-with-stakeholders?u=76281980&t=149)** A few things to consider thinking about to practice rapport skills might be things like, how will you react if they're not really excited about the project or seem uninterested in what the project's about?
+> **[2:29](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/build-rapport-with-stakeholders?u=76281980&t=149)** A few things to consider thinking about to practice rapport skills might be things like, how will you [[React.js|react]] if they're not really excited about the project or seem uninterested in what the project's about?
 >
 > **[2:41](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/build-rapport-with-stakeholders?u=76281980&t=161)** And how will you establish or recover the rapport if this happens?
 >
@@ -909,20 +896,19 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/build-rapport-with-stakeholders?u=76281980&t=191)** Share your thoughts in the course Q&A.
 >
-> **[3:14](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/build-rapport-with-stakeholders?u=76281980&t=194)** Our stakeholders require a trusting relationship with us in evolving their businesses, products, and operations.
+> **[3:14](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/build-rapport-with-stakeholders?u=76281980&t=194)** Our stakeholders require a trusting relationship with us in evolving their businesses, [[Microsoft Products|products]], and operations.
 >
 > **[3:22](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/build-rapport-with-stakeholders?u=76281980&t=202)** Building professional, personal, and project rapport is an essential part of eliciting requirements.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2), next (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - i (1)
 
-#### Learn to lay out expectations
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/learn-to-lay-out-expectations?u=76281980)
+#### [Learn to lay out expectations](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/learn-to-lay-out-expectations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -962,8 +948,7 @@ created: 2026-05-02
 >
 > **Speakers:** - i (1)
 
-#### Ask probing questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/ask-probing-questions?u=76281980)
+#### [Ask probing questions](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/ask-probing-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1031,14 +1016,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1)
 > **CLI Commands:** make (4), find (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** for example (1)
 > **Speakers:** - i (1)
 
-#### Ask "why" during the requirements elicitation
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/ask-why-during-the-requirements-elicitation?u=76281980)
+#### [Ask "why" during the requirements elicitation](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/ask-why-during-the-requirements-elicitation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1086,17 +1069,16 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/ask-why-during-the-requirements-elicitation?u=76281980&t=115)** Asking why is critical to our role.
 >
-> **[1:59](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/ask-why-during-the-requirements-elicitation?u=76281980&t=119)** With a little finesse, you'll be asking why without using the word why, and having meaningful requirements conversations.
+> **[1:59](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/ask-why-during-the-requirements-elicitation?u=76281980&t=119)** With a little finesse, you'll be asking why without using the [[Microsoft Word|word]] why, and having meaningful requirements conversations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (4)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - asking (1)
 
-#### Challenge 1: Plan requirements elicitation interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/challenge-1-plan-requirements-elicitation-interviews?u=76281980)
+#### [Challenge 1: Plan requirements elicitation interviews](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/challenge-1-plan-requirements-elicitation-interviews?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1168,7 +1150,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), business (1), web (1), next (1)
 > **Exercise Files:** exercise file (1), exercise files (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** crm (1)
@@ -1177,8 +1158,7 @@ created: 2026-05-02
 > **Speakers:** - practice (1)
 > **Non-Speech:** (funky music) (1)
 
-#### Solution 1: Plan requirements elicitation interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/solution-1-plan-requirements-elicitation-interviews?u=76281980)
+#### [Solution 1: Plan requirements elicitation interviews](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/solution-1-plan-requirements-elicitation-interviews?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1204,7 +1184,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/solution-1-plan-requirements-elicitation-interviews?u=76281980&t=68)** Next, the meeting objective.
 >
-> **[1:10](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/solution-1-plan-requirements-elicitation-interviews?u=76281980&t=70)** My answer is to understand the goals and vision of their business operations with this new software and the why behind the package software.
+> **[1:10](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/solution-1-plan-requirements-elicitation-interviews?u=76281980&t=70)** My answer is to understand the goals and vision of their [[Business Operations]] with this new software and the why behind the package software.
 >
 > **[1:21](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/solution-1-plan-requirements-elicitation-interviews?u=76281980&t=81)** And last, what questions would I likely start with?
 >
@@ -1260,15 +1240,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), business (2), [[Automation]] (2), teams (2), management (1)
+> **Frameworks & Libraries:** [[Business Operations]] (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - before (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Challenge 2: Identify what went wrong
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/challenge-2-identify-what-went-wrong?u=76281980)
+#### [Challenge 2: Identify what went wrong](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/challenge-2-identify-what-went-wrong?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1280,7 +1259,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/challenge-2-identify-what-went-wrong?u=76281980&t=19)** The requirements analyst is meeting with the sales manager to understand the pain points of a system and wants to know how the new system can improve their work.
 >
-> **[0:28](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/challenge-2-identify-what-went-wrong?u=76281980&t=28)** The IT team, they want to save maintenance costs, and the sales team would like to leverage the newest innovations in customer relationship management and artificial intelligence.
+> **[0:28](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/challenge-2-identify-what-went-wrong?u=76281980&t=28)** The IT team, they want to save maintenance costs, and the sales team would like to leverage the newest innovations in customer relationship management and [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:38](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/challenge-2-identify-what-went-wrong?u=76281980&t=38)** Let's watch the conversation.
 >
@@ -1346,15 +1325,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), next (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Speakers:** - oh (6), - so (3), - okay (2), - in (1), - sure (1)
 > **Env Vars:** crm (2), asap (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you'll need (1)
 > **Non-Speech:** (light upbeat music) (1)
 
-#### Solution 2: Identify what went wrong
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/solution-2-identify-what-went-wrong?u=76281980)
+#### [Solution 2: Identify what went wrong](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/solution-2-identify-what-went-wrong?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1404,15 +1382,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), express (2), teams (1)
 > **Env Vars:** crm (1)
 > **Analogies:** picture (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - isn (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Challenge 3: Choose probing questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/challenge-3-choose-probing-questions?u=76281980)
+#### [Challenge 3: Choose probing questions](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/challenge-3-choose-probing-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1436,7 +1412,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/challenge-3-choose-probing-questions?u=76281980&t=66)** You've been asked to work on a new project for the customer service operations team.
 >
-> **[1:11](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/challenge-3-choose-probing-questions?u=76281980&t=71)** This team would like to automate some of their work with the use of generative AI, and need your help in identifying the possible automations and what possible solutions there are.
+> **[1:11](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/challenge-3-choose-probing-questions?u=76281980&t=71)** This team would like to automate some of their work with the use of [[Generative AI]], and need your help in identifying the possible automations and what possible solutions there are.
 >
 > **[1:23](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/challenge-3-choose-probing-questions?u=76281980&t=83)** You've already met with the operations manager and you've understood her pain points and the goals of the automation efforts.
 >
@@ -1452,7 +1428,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Generative AI]] (2), [[Automation]] (1), ai (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2)
 > **Analogies:** picture (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
@@ -1460,8 +1436,7 @@ created: 2026-05-02
 > **Speakers:** - i (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution 3: Choose probing questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/solution-3-choose-probing-questions?u=76281980)
+#### [Solution 3: Choose probing questions](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/solution-3-choose-probing-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1469,7 +1444,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/solution-3-choose-probing-questions?u=76281980&t=14)** When you asked the operations manager, "Tell me more about what metrics your operations are measured by, and what measurements we want to improve?"
 >
-> **[0:22](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/solution-3-choose-probing-questions?u=76281980&t=22)** and we also asked them, "Tell me more about your vision with generative AI?"
+> **[0:22](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/solution-3-choose-probing-questions?u=76281980&t=22)** and we also asked them, "Tell me more about your vision with [[Generative AI]]?"
 >
 > **[0:26](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/solution-3-choose-probing-questions?u=76281980&t=26)** The operations manager answered, "We're measured by our ability to continue to lessen the cost and time to answer each inquiry, and I feel like AI might be able to help answer customer inquiries faster and resolve them on the first contact rather than several."
 >
@@ -1515,13 +1490,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), [[Automation]] (1), ai (1), business (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - so (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Implement active listening skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/implement-active-listening-skills?u=76281980)
+#### [Implement active listening skills](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/implement-active-listening-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1593,14 +1567,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), application (1)
 > **Analogies:** imagine (2), just like (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 
-#### Take notes during a requirements elicitation conversation
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/take-notes-during-a-requirements-elicitation-conversation?u=76281980)
+#### [Take notes during a requirements elicitation conversation](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/take-notes-during-a-requirements-elicitation-conversation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1622,7 +1594,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/take-notes-during-a-requirements-elicitation-conversation?u=76281980&t=48)** For meetings with purposes geared towards vision and high-level project dialogues, consider taking notes, but they should be quite summary level, to jog your memory about the meeting.
 >
-> **[0:59](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/take-notes-during-a-requirements-elicitation-conversation?u=76281980&t=59)** Jotting down every word someone says will typically distract you from listening, it'll distract others, and painfully slow down the meeting.
+> **[0:59](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/take-notes-during-a-requirements-elicitation-conversation?u=76281980&t=59)** Jotting down every [[Microsoft Word|word]] someone says will typically distract you from listening, it'll distract others, and painfully slow down the meeting.
 >
 > **[1:08](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/take-notes-during-a-requirements-elicitation-conversation?u=76281980&t=68)** Now for conversations where the purpose is to gather detailed information from someone, more precise notes or even recordings might be appropriate.
 >
@@ -1650,21 +1622,20 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/take-notes-during-a-requirements-elicitation-conversation?u=76281980&t=154)** So, for example, if I'm talking to a subject matter expert on the process that she follows, I'll create a high-level picture of the process, and then below it, I'll create space for each step in the process, and its people, exceptions, systems, and current issues.
 >
-> **[2:53](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/take-notes-during-a-requirements-elicitation-conversation?u=76281980&t=173)** I'll come to the meeting with this framework blank, or perhaps just the high-level process steps filled in, and we'll complete the rest as we chat.
+> **[2:53](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/take-notes-during-a-requirements-elicitation-conversation?u=76281980&t=173)** I'll come to the meeting with this framework blank, or perhaps just the high-level process steps filled in, and we'll complete the [[Representational State Transfer (REST)|rest]] as we chat.
 >
-> **[3:02](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/take-notes-during-a-requirements-elicitation-conversation?u=76281980&t=182)** I really hope these ideas give you all kinds of reasons to break out of the traditional note-taking mold and get better interviewing conversation results.
+> **[3:02](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/take-notes-during-a-requirements-elicitation-conversation?u=76281980&t=182)** I really hope these ideas give you all kinds of reasons to break out of the traditional note-taking mold and get better [[Interviewing]] conversation results.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Interviewing]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Interviewing]] (1)
 > **Analogies:** for example (2), picture (1)
 > **CLI Commands:** make (2)
 > **Warnings:** be careful (1), be aware (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - meeting (1)
 
-#### Ending the conversation
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/ending-the-conversation?u=76281980)
+#### [Ending the conversation](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/ending-the-conversation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1712,7 +1683,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4)
 > **CLI Commands:** make (2)
 > **Prerequisites:** make sure you have (1), you'll need (1)
 > **Best Practices:** don't forget (1)
@@ -1723,8 +1693,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Acknowledge the stakeholders' time and input
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/acknowledge-the-stakeholders-time-and-input?u=76281980)
+#### [Acknowledge the stakeholders' time and input](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/acknowledge-the-stakeholders-time-and-input?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1754,7 +1723,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/acknowledge-the-stakeholders-time-and-input?u=76281980&t=77)** For example, in an email note, I might say something like, "Thank you, Dawn, for your time today discussing the online medical records project.
 >
-> **[1:26](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/acknowledge-the-stakeholders-time-and-input?u=76281980&t=86)** Specifically, the risk you mentioned about the user experience is really powerful.
+> **[1:26](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/acknowledge-the-stakeholders-time-and-input?u=76281980&t=86)** Specifically, the risk you mentioned about the [[User Experience (UX)|user experience]] is really powerful.
 >
 > **[1:32](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/acknowledge-the-stakeholders-time-and-input?u=76281980&t=92)** I think you really hit on an important part of project success.
 >
@@ -1762,26 +1731,25 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/acknowledge-the-stakeholders-time-and-input?u=76281980&t=101)** This is an example of how we can connect with a stakeholder and build trust, and if there's a misunderstanding, it's easy for them to reply back and correct that miscommunication.
 >
-> **[1:54](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/acknowledge-the-stakeholders-time-and-input?u=76281980&t=114)** Another approach is to swing by their office if it's close or convenient.
+> **[1:54](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/acknowledge-the-stakeholders-time-and-input?u=76281980&t=114)** Another approach is to swing by their [[Microsoft Office|office]] if it's close or convenient.
 >
 > **[1:58](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/acknowledge-the-stakeholders-time-and-input?u=76281980&t=118)** And similarly, you would want to have that genuine thank you interaction and a specific contribution with why it was important.
 >
 > **[2:07](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/acknowledge-the-stakeholders-time-and-input?u=76281980&t=127)** These simple principles apply and seeing them at the water cooler or at another meeting, for example, or at lunch.
 >
-> **[2:15](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/acknowledge-the-stakeholders-time-and-input?u=76281980&t=135)** The thank you and follow up is about building the relationship and building trust.
+> **[2:15](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/acknowledge-the-stakeholders-time-and-input?u=76281980&t=135)** The thank you and follow up is about building the relationship and [[Building Trust]].
 >
 > **[2:20](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/acknowledge-the-stakeholders-time-and-input?u=76281980&t=140)** Strategically gaining the trust of our stakeholders by mentioning something very specific and impactful, your actions will show the results.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), hit (1), [[Microsoft Office|Office]] (1), [[Building Trust]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Microsoft Office|Office]] (1), [[Building Trust]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (2)
 > **Cross-References:** later in (1)
 > **Speakers:** - i (1)
 
-#### Analyze and review notes before following up
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/analyze-and-review-notes-before-following-up?u=76281980)
+#### [Analyze and review notes before following up](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/analyze-and-review-notes-before-following-up?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1839,18 +1807,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2)
 > **Analogies:** compare this to (1)
 > **Warnings:** heads up (1)
 > **Speakers:** - sometimes (1)
 
-#### Leverage AI in requirements conversations
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/leverage-ai-in-requirements-conversations?u=76281980)
+#### [Leverage AI in requirements conversations](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/leverage-ai-in-requirements-conversations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/leverage-ai-in-requirements-conversations?u=76281980&t=0)** - Generative AI is changing how we work, and requirements conversations are no exception.
+> **[0:00](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/leverage-ai-in-requirements-conversations?u=76281980&t=0)** - [[Generative AI]] is changing how we work, and requirements conversations are no exception.
 >
 > **[0:06](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/leverage-ai-in-requirements-conversations?u=76281980&t=6)** Now, I'm not talking about robots having conversations with stakeholders instead of us, but I am seeing some great ways to leverage AI to help your requirements conversations.
 >
@@ -1886,7 +1852,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (8), ai (3), prompt (1), teams (1), business (1)
+> **Frameworks & Libraries:** [[Generative AI]] (8)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Warnings:** be careful (1)
@@ -1897,8 +1863,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Keep practicing
-> [LinkedIn Learning](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/keep-practicing?u=76281980)
+#### [Keep practicing](https://www.linkedin.com/learning/requirements-elicitation-for-business-analysis-stakeholder-conversations/keep-practicing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1932,7 +1897,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)

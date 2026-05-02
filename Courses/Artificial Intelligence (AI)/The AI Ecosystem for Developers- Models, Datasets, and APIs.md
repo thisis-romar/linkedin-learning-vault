@@ -105,14 +105,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with the AI ecosystem
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/getting-started-with-the-ai-ecosystem?u=76281980)
+#### [Getting started with the AI ecosystem](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/getting-started-with-the-ai-ecosystem?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/getting-started-with-the-ai-ecosystem?u=76281980&t=0)** - We live in interesting times, and conversations around artificial intelligence have rapidly evolved from speculations about its possibilities to real-world AI systems we interact with daily.
+> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/getting-started-with-the-ai-ecosystem?u=76281980&t=0)** - We live in interesting times, and conversations around [[Artificial Intelligence (AI)|artificial intelligence]] have rapidly evolved from speculations about its possibilities to real-world AI systems we interact with daily.
 >
-> **[0:15](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/getting-started-with-the-ai-ecosystem?u=76281980&t=15)** In this course, we will explore how to navigate the AI ecosystem, focusing on key components, models, datasets and application programming interfaces, APIs.
+> **[0:15](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/getting-started-with-the-ai-ecosystem?u=76281980&t=15)** In this course, we will explore how to navigate the AI ecosystem, focusing on key components, models, datasets and [[Application Programming Interfaces (API)|application programming interfaces]], APIs.
 >
 > **[0:30](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/getting-started-with-the-ai-ecosystem?u=76281980&t=30)** My name is Wuraola Oyewusi.
 >
@@ -128,11 +127,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Application Programming Interfaces (API)|Application programming interfaces]] (1), data (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Application Programming Interfaces (API)|Application programming interfaces]] (1)
 > **Speakers:** - we (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -142,13 +140,13 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-you-should-know?u=76281980&t=19)** You may have even used some of them before without fully understanding how they connect with the AI landscape.
 >
-> **[0:26](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-you-should-know?u=76281980&t=26)** For practical sections such as interacting with APIs and models, we will be coding in Python.
+> **[0:26](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-you-should-know?u=76281980&t=26)** For practical sections such as interacting with APIs and models, we will be coding in [[Python (Programming Language)|Python]].
 >
 > **[0:34](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-you-should-know?u=76281980&t=34)** So basic familiarity with Python programming is important.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Python (Programming Language)|Python]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
@@ -159,8 +157,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is interesting about AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-is-interesting-about-ai?u=76281980)
+#### [What is interesting about AI?](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-is-interesting-about-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -176,9 +173,9 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-is-interesting-about-ai?u=76281980&t=34)** It is here, and it's shaping the world around us in ways we interact with daily.
 >
-> **[0:41](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-is-interesting-about-ai?u=76281980&t=41)** From powering recommendation systems that suggest what to watch or buy, to enabling virtual assistant on our phones, to optimizing supply chains, predicting financial markets, analyzing your browsing habits to suggest products you might like, filter spam from your email, generating code, and even assisting in medical diagnoses, AI is behind the scenes making complex decisions in milliseconds.
+> **[0:41](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-is-interesting-about-ai?u=76281980&t=41)** From powering recommendation systems that suggest what to watch or buy, to enabling virtual assistant on our phones, to optimizing supply chains, predicting financial markets, analyzing your browsing habits to suggest [[Microsoft Products|products]] you might like, filter spam from your email, generating code, and even assisting in medical diagnoses, AI is behind the scenes making complex decisions in milliseconds.
 >
-> **[1:12](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-is-interesting-about-ai?u=76281980&t=72)** The easiest way to think about AI powered systems compared to traditional software is that they leverage learning algorithms to recognize patterns from large data sets, rather than relying solely on explicit programmed roles.
+> **[1:12](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-is-interesting-about-ai?u=76281980&t=72)** The easiest way to think about AI powered systems compared to traditional software is that they leverage learning [[Algorithms]] to recognize patterns from large data sets, rather than relying solely on explicit programmed roles.
 >
 > **[1:29](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-is-interesting-about-ai?u=76281980&t=89)** So now we have AI systems that can effectively perform task once thought to be too complex, such as generating human-like text, creating realistic images, composing music, and even driving cars.
 >
@@ -192,14 +189,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), data (2), [[Microsoft Products|Products]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), picture (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - what (1)
 
-#### Components of the AI ecosystem
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980)
+#### [Components of the AI ecosystem](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -211,9 +207,9 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=22)** Just like natural ecosystems, the AI ecosystem consists of various components that interact with and depend on each other to function effectively.
 >
-> **[0:34](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=34)** These include data, algorithms, models, frameworks, and computing infrastructure.
+> **[0:34](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=34)** These include data, [[Algorithms]], models, frameworks, and computing infrastructure.
 >
-> **[0:43](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=43)** Each of those play a crucial role in developing and deploying AI solutions.
+> **[0:43](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=43)** Each of those play a crucial role in developing and deploying [[AI Solutions]].
 >
 > **[0:50](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=50)** Now, let's examine each of those components as future lessons will be built on them.
 >
@@ -227,13 +223,13 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=91)** Without data, there is no learning on the (indistinct).
 >
-> **[1:36](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=96)** The data components includes data collection, gathering information from various sources such as sensors, user interactions, databases, and public repositories.
+> **[1:36](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=96)** The data components includes [[Data Collection]], gathering information from various sources such as sensors, user interactions, [[Databases]], and public repositories.
 >
-> **[1:50](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=110)** Data preparation, cleaning, organizing, and transforming raw data into useful format.
+> **[1:50](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=110)** [[Data Preparation]], cleaning, organizing, and transforming raw data into useful format.
 >
-> **[1:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=119)** Data annotation, labeling data to provide context and meaning for supervised learning.
+> **[1:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=119)** [[Data Annotation]], labeling data to provide context and meaning for [[Supervised Learning]].
 >
-> **[2:07](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=127)** Data management, storing, securing, and maintaining data throughout its lifecycle.
+> **[2:07](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=127)** [[Data Management]], storing, securing, and maintaining data throughout its lifecycle.
 >
 > **[2:16](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=136)** Algorithms, the learning mechanism.
 >
@@ -247,11 +243,11 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=167)** Label built data is used to train the model or unsupervised, where the model find patterns in non labeled data.
 >
-> **[2:57](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=177)** Some key algorithms in the AI ecosystem include machine learning algorithms, linear regression, decision trees, and clustering methods.
+> **[2:57](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=177)** Some key algorithms in the AI ecosystem include machine learning algorithms, [[Linear Regression]], [[Decision Trees]], and clustering methods.
 >
-> **[3:08](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=188)** Deep learning algorithms, these are neural networks with multiple layers for complex pattern recognition.
+> **[3:08](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=188)** [[Deep Learning]] algorithms, these are [[Neural Networks]] with multiple layers for complex pattern recognition.
 >
-> **[3:17](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=197)** Reinforcement learning algorithms, these are techniques for learning through trial and errors.
+> **[3:17](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=197)** [[Reinforcement Learning]] algorithms, these are techniques for learning through trial and errors.
 >
 > **[3:25](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=205)** Models, knowledge representation.
 >
@@ -279,13 +275,13 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=275)** This frameworks provide previewed components and functions to implement, fine tune, and deploy AI models without starting from scratch.
 >
-> **[4:47](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=287)** Some of the most popular AI frameworks include TensorFlow, developed by Google for building and training machine learning models.
+> **[4:47](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=287)** Some of the most popular AI frameworks include [[TensorFlow]], developed by [[Google]] for building and training machine learning models.
 >
-> **[4:57](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=297)** PyTorch, created by Facebook's AI research lab for flexibility and deep learning.
+> **[4:57](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=297)** [[PyTorch]], created by Facebook's AI research lab for flexibility and deep learning.
 >
 > **[5:04](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=304)** Scikit-learn for classical machine learning algorithms.
 >
-> **[5:09](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=309)** Hugging Face Transformers for state of the art natural language processing.
+> **[5:09](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=309)** [[Hugging Face]] Transformers for state of the art [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[5:14](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=314)** Computing infrastructure, the engine room.
 >
@@ -293,9 +289,9 @@ created: 2026-05-02
 >
 > **[5:28](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=328)** Training and running AI models can require significant compute and power, such as graphical processing unit, GPUs, tens of processing units, TPU, and specialized AI chips that accelerate deep learning computations.
 >
-> **[5:47](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=347)** Key components of AI computing infrastructure include hardware such as GPUs, TPUs, CPUs, and specialized AI chips.
+> **[5:47](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=347)** Key components of AI computing infrastructure include [[Hardware]] such as GPUs, TPUs, CPUs, and specialized AI chips.
 >
-> **[5:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=359)** Cloud computing with services like AWS, Google Cloud, and Microsoft Azure.
+> **[5:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=359)** [[Cloud Computing]] with services like AWS, [[Google Cloud Platform (GCP)|Google Cloud]], and [[Microsoft Azure]].
 >
 > **[6:07](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/components-of-the-ai-ecosystem?u=76281980&t=367)** Edge computing, this processes data closer to where it's generated and distributed computing using networks of computers to process large data sets.
 >
@@ -305,19 +301,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), ai (23), [[Algorithms]] (11), [[Deep Learning]] (3), power (3)
+> **Frameworks & Libraries:** [[Algorithms]] (11), [[AI Solutions]] (3), [[Deep Learning]] (3), [[Data Collection]] (1), [[Databases]] (1)
 > **CLI Commands:** make (3), find (1), aws (1)
 > **Analogies:** such as (3), just like (1)
 > **Env Vars:** tpu (1), aws (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [host] (1)
 
-#### Open-source vs. closed-source AI systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/open-vs-closed-source-ai-systems?u=76281980)
+#### [Open-source vs. closed-source AI systems](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/open-vs-closed-source-ai-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/open-vs-closed-source-ai-systems?u=76281980&t=0)** - [Instructor] By now, we have a solid foundation of the key components of the AI ecosystem, data, algorithms, models, frameworks, and computing infrastructure, and how they come together to form powerful AI systems and solutions.
+> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/open-vs-closed-source-ai-systems?u=76281980&t=0)** - [Instructor] By now, we have a solid foundation of the key components of the AI ecosystem, data, [[Algorithms]], models, frameworks, and computing infrastructure, and how they come together to form powerful AI systems and solutions.
 >
 > **[0:20](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/open-vs-closed-source-ai-systems?u=76281980&t=20)** But how are these solutions made available, and what are the implications of the accessibility?
 >
@@ -369,7 +364,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/open-vs-closed-source-ai-systems?u=76281980&t=210)** Control and security.
 >
-> **[3:32](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/open-vs-closed-source-ai-systems?u=76281980&t=212)** Closed-source systems provide greater control over the technology and can offer enhanced security measures, making them suitable for sensitive applications where data privacy and reliability are critical.
+> **[3:32](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/open-vs-closed-source-ai-systems?u=76281980&t=212)** Closed-source systems provide greater control over the technology and can offer enhanced security measures, making them suitable for sensitive applications where [[Data Privacy]] and reliability are critical.
 >
 > **[3:48](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/open-vs-closed-source-ai-systems?u=76281980&t=228)** Licensing.
 >
@@ -387,15 +382,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), data (4), [[Security]] (3), [[Algorithms]] (1), feature (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Data Privacy]] (1)
 > **Env Vars:** mit (1), gpl (1), api (1)
 > **Exercise Files:** source code (2)
 > **Analogies:** just like (1), such as (1)
 > **CLI Commands:** apache (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI repositories and hosting platforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980)
+#### [AI repositories and hosting platforms](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -417,7 +411,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=63)** A repository, or repo, is a centralized location where files, code, datasets, and models are stored, managed, and shared.
 >
-> **[1:17](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=77)** In the context of AI, repositories play a critical role in facilitating collaboration, version control, and easy access to resources needed for AI development.
+> **[1:17](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=77)** In the context of AI, repositories play a critical role in facilitating collaboration, [[Version Control]], and easy access to resources needed for AI development.
 >
 > **[1:30](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=90)** Think of a repository as a digital filing cabinet, meticulously organized to hold all the pieces of your AI project.
 >
@@ -447,9 +441,9 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=223)** So let's explore some of those platforms.
 >
-> **[3:47](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=227)** Hugging Face.
+> **[3:47](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=227)** [[Hugging Face]].
 >
-> **[3:48](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=228)** Hugging Face is the leading platform for natural language processing, NLP, and machine learning.
+> **[3:48](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=228)** Hugging Face is the leading platform for [[Natural Language Processing (NLP)|natural language processing]], NLP, and machine learning.
 >
 > **[3:55](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=235)** It provides a vast repository of pretrained models, including state-of-the-art models like BERT, GPT, and T5.
 >
@@ -457,7 +451,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=255)** Hugging Face fosters collaboration, allowing users to share models, datasets, and even machine learning applications.
 >
-> **[4:25](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=265)** TensorFlow Hub.
+> **[4:25](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=265)** [[TensorFlow]] Hub.
 >
 > **[4:27](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=267)** TensorFlow Hub is a repository of pretrained machine learning models designed for TensorFlow-based applications.
 >
@@ -465,11 +459,11 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=284)** It allows developers to reuse models easily and reduce the need for training from scratch.
 >
-> **[4:51](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=291)** PyTorch Hub.
+> **[4:51](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=291)** [[PyTorch]] Hub.
 >
 > **[4:53](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=293)** PyTorch Hub is a collection of pretrained models optimized for PyTorch.
 >
-> **[4:58](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=298)** It supports a variety of tasks, including computer vision and NLP.
+> **[4:58](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=298)** It supports a variety of tasks, including [[Computer Vision]] and NLP.
 >
 > **[5:03](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=303)** PyTorch Hub simplifies the process of integrating and fine-tuning models, making it easier for developers to experiment with and deploy AI models.
 >
@@ -489,7 +483,7 @@ created: 2026-05-02
 >
 > **[6:03](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=363)** It is widely used in academia and research.
 >
-> **[6:08](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=368)** GitHub.
+> **[6:08](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=368)** [[GitHub]].
 >
 > **[6:09](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=369)** GitHub is a version control and code hosting platform widely used in AI and machine learning development.
 >
@@ -515,7 +509,7 @@ created: 2026-05-02
 >
 > **[7:20](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=440)** Cloud Platforms.
 >
-> **[7:23](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=443)** Cloud platforms like AWS, Google Cloud, Azure, and IBM offer machine learning services.
+> **[7:23](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=443)** Cloud platforms like AWS, [[Google Cloud Platform (GCP)|Google Cloud]], [[Microsoft Azure|Azure]], and IBM offer machine learning services.
 >
 > **[7:34](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-repositories-and-hosting-platforms?u=76281980&t=454)** That include model hosting, dataset storage, and scalable infrastructure.
 >
@@ -525,7 +519,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (22), [[PyTorch]] (5), [[TensorFlow]] (4), [[Version Control]] (3), [[Hugging Face]] (3)
+> **Frameworks & Libraries:** [[PyTorch]] (5), [[TensorFlow]] (4), [[Version Control]] (3), [[Hugging Face]] (3), [[GitHub]] (3)
 > **Definitions:** is a  (9), means that (1), is an  (1)
 > **Env Vars:** nlp (2), uci (2), bert (1), gpt (1), aws (1)
 > **CLI Commands:** find (1), aws (1), make (1)
@@ -533,14 +527,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI ethics, bias, and privacy
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-ethics-bias-and-privacy?u=76281980)
+#### [AI ethics, bias, and privacy](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-ethics-bias-and-privacy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-ethics-bias-and-privacy?u=76281980&t=0)** - One of the biggest challenges surrounding AI adoption revolves around ethics, bias, and privacy.
+> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-ethics-bias-and-privacy?u=76281980&t=0)** - One of the biggest challenges surrounding AI adoption revolves around [[Ethics]], bias, and [[Privacy]].
 >
-> **[0:08](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-ethics-bias-and-privacy?u=76281980&t=8)** As AI systems become more integrated into decision-making processes, whether in hiring, healthcare, finance, or law enforcement, questions about fairness, transparency, and data protection are relevant.
+> **[0:08](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-ethics-bias-and-privacy?u=76281980&t=8)** As AI systems become more integrated into [[Decision-Making]] processes, whether in hiring, healthcare, finance, or law enforcement, questions about fairness, transparency, and data protection are relevant.
 >
 > **[0:26](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-ethics-bias-and-privacy?u=76281980&t=26)** While it's tempting to prioritize immediate capabilities and dismiss those concerns, they are profoundly valid.
 >
@@ -550,7 +543,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-ethics-bias-and-privacy?u=76281980&t=59)** This awareness will not only improve your approach to adopting AI tools, but also equip you with strategies to mitigate potential risks.
 >
-> **[1:10](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-ethics-bias-and-privacy?u=76281980&t=70)** Ultimately, responsible AI development is not an afterthought, but a fundamental prerequisite for building trustworthy and beneficial systems.
+> **[1:10](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-ethics-bias-and-privacy?u=76281980&t=70)** Ultimately, [[Responsible AI]] development is not an afterthought, but a fundamental prerequisite for building trustworthy and beneficial systems.
 >
 > **[1:22](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-ethics-bias-and-privacy?u=76281980&t=82)** Now, let's explore some of the key ethical concerns in AI and practical ways to address them.
 >
@@ -560,9 +553,9 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-ethics-bias-and-privacy?u=76281980&t=107)** Some of the ways to mitigate these are, data auditing, regularly audit datasets for representation and potential biases.
 >
-> **[1:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-ethics-bias-and-privacy?u=76281980&t=119)** Algorithmic fairness, implement fairness-aware algorithms that minimize disparities across different groups.
+> **[1:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-ethics-bias-and-privacy?u=76281980&t=119)** Algorithmic fairness, implement fairness-aware [[Algorithms]] that minimize disparities across different groups.
 >
-> **[2:09](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-ethics-bias-and-privacy?u=76281980&t=129)** Diverse data collection, ensuring training data reflects the diversity of the population the AI will serve.
+> **[2:09](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-ethics-bias-and-privacy?u=76281980&t=129)** Diverse [[Data Collection]], ensuring training data reflects the diversity of the population the AI will serve.
 >
 > **[2:20](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-ethics-bias-and-privacy?u=76281980&t=140)** Privacy violations.
 >
@@ -576,7 +569,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-ethics-bias-and-privacy?u=76281980&t=187)** Strict data policies, ensure compliance with regulations like GDPR and CCPA to protect user data.
 >
-> **[3:18](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-ethics-bias-and-privacy?u=76281980&t=198)** Accountability and responsibility.
+> **[3:18](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-ethics-bias-and-privacy?u=76281980&t=198)** [[Accountability]] and responsibility.
 >
 > **[3:21](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-ethics-bias-and-privacy?u=76281980&t=201)** The concern around this is that it can be challenging to determine who is responsible when an AI system makes a harmful or unethical decision.
 >
@@ -616,7 +609,7 @@ created: 2026-05-02
 >
 > **[6:06](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-ethics-bias-and-privacy?u=76281980&t=366)** Model documentation, maintain detailed records of AI decision-making processes and training data sources.
 >
-> **[6:15](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-ethics-bias-and-privacy?u=76281980&t=375)** Regulatory compliance, follow emerging AI transparency laws and ethical guidelines.
+> **[6:15](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-ethics-bias-and-privacy?u=76281980&t=375)** [[Regulatory Compliance]], follow emerging AI transparency laws and ethical guidelines.
 >
 > **[6:23](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-ethics-bias-and-privacy?u=76281980&t=383)** Automation and job displacement.
 >
@@ -644,7 +637,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (31), data (14), [[Privacy]] (6), [[Accountability]] (4), [[Ethics]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (6), [[Accountability]] (4), [[Ethics]] (2), [[Decision-Making]] (2), [[Responsible AI]] (1)
 > **Env Vars:** gdpr (1), ccpa (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** prerequisite (1)
@@ -655,18 +648,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to AI models and architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980)
+#### [Introduction to AI models and architecture](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980&t=0)** - If your exposure to software systems is not from an AI-related background, you might find discussions about AI models and architectures lacking context.
 >
-> **[0:12](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980&t=12)** AI models and architectures are influential in determining the capabilities, performance, and scalability of AI systems.
+> **[0:12](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980&t=12)** AI models and architectures are influential in determining the capabilities, performance, and [[Scalability]] of AI systems.
 >
 > **[0:23](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980&t=23)** An AI model is a learned representation of data patterns, enabling systems to make predictions, generate insights, or automate tasks.
 >
-> **[0:35](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980&t=35)** It processes input data and generates outputs that reflect the system's understanding or decision-making process.
+> **[0:35](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980&t=35)** It processes input data and generates outputs that reflect the system's understanding or [[Decision-Making]] process.
 >
 > **[0:46](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980&t=46)** These models are created using large amounts of data, which the system uses to identify patterns and relationships.
 >
@@ -676,7 +668,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980&t=77)** It encompasses how models are built, connected, and optimized for specific tasks.
 >
-> **[1:25](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980&t=85)** Architecture defines how various components, such as models, data pipelines, processing units, and algorithms interact and work together to achieve desired outcomes.
+> **[1:25](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980&t=85)** Architecture defines how various components, such as models, [[Data Pipelines]], processing units, and [[Algorithms]] interact and work together to achieve desired outcomes.
 >
 > **[1:41](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980&t=101)** The architecture is essential in ensuring that the system runs efficiently and can scale to meet the demand of complex tasks.
 >
@@ -684,7 +676,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980&t=126)** There are many ways to classify AI model architectures.
 >
-> **[2:10](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980&t=130)** By data processing approach, an AI architecture can be unimodal, which focuses on processing a single type of data, for example, text, image, or audio.
+> **[2:10](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980&t=130)** By [[Data Processing]] approach, an AI architecture can be unimodal, which focuses on processing a single type of data, for example, text, image, or audio.
 >
 > **[2:25](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980&t=145)** On the other hand, multimodal architectures process and integrate multiple types of data.
 >
@@ -698,9 +690,9 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980&t=200)** Base architectures provide the core framework, while variants are customized for specific use cases or improved performance.
 >
-> **[3:30](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980&t=210)** By domain specialization: Natural Language Processing, or NLP, architectures are designed for processing and understanding sequential data like text and speech.
+> **[3:30](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980&t=210)** By domain specialization: [[Natural Language Processing (NLP)|Natural Language Processing]], or NLP, architectures are designed for processing and understanding sequential data like text and speech.
 >
-> **[3:43](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980&t=223)** Computer vision architectures are designed for processing and interpreting images and videos.
+> **[3:43](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980&t=223)** [[Computer Vision]] architectures are designed for processing and interpreting images and videos.
 >
 > **[3:51](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-models-and-architecture?u=76281980&t=231)** The typical AI architecture components are: input processing layers that prepare raw data for the model.
 >
@@ -720,7 +712,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), data (12), [[Scalability]] (2), [[Decision-Making]] (2), chatbot (1)
+> **Frameworks & Libraries:** [[Scalability]] (2), [[Decision-Making]] (2), [[Data Pipelines]] (1), [[Algorithms]] (1), [[Data Processing]] (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
@@ -728,16 +720,15 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - if (1)
 
-#### NLP architectures: RNNs and transformers
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/natural-language-processing-architectures-rnns-and-transformers?u=76281980)
+#### [NLP architectures: RNNs and transformers](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/natural-language-processing-architectures-rnns-and-transformers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/natural-language-processing-architectures-rnns-and-transformers?u=76281980&t=0)** - [Instructor] Natural language processing, NLP, is the subfield of AI focused on sequences like text and speech.
+> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/natural-language-processing-architectures-rnns-and-transformers?u=76281980&t=0)** - [Instructor] [[Natural Language Processing (NLP)|Natural language processing]], NLP, is the subfield of AI focused on sequences like text and speech.
 >
 > **[0:10](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/natural-language-processing-architectures-rnns-and-transformers?u=76281980&t=10)** AI architecture in this domain are designed to model sequential dependencies, making them essential for tasks like language modeling, translation, and text generation.
 >
-> **[0:25](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/natural-language-processing-architectures-rnns-and-transformers?u=76281980&t=25)** Some of the most popular model architecture used in NLP include recurrent neural networks, RNNs.
+> **[0:25](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/natural-language-processing-architectures-rnns-and-transformers?u=76281980&t=25)** Some of the most popular model architecture used in NLP include recurrent [[Neural Networks]], RNNs.
 >
 > **[0:33](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/natural-language-processing-architectures-rnns-and-transformers?u=76281980&t=33)** RNNs are a class of neural networks designed for sequential data, where previous inputs influence future predictions.
 >
@@ -745,11 +736,11 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/natural-language-processing-architectures-rnns-and-transformers?u=76281980&t=52)** Hidden state stores memory of previous inputs, allowing the model to retain context.
 >
-> **[0:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/natural-language-processing-architectures-rnns-and-transformers?u=76281980&t=59)** Output layer produces predictions such as the next word in a sentence.
+> **[0:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/natural-language-processing-architectures-rnns-and-transformers?u=76281980&t=59)** Output layer produces predictions such as the next [[Microsoft Word|word]] in a sentence.
 >
 > **[1:06](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/natural-language-processing-architectures-rnns-and-transformers?u=76281980&t=66)** Recurrent connections connects the hidden layer to itself, allowing information to persist across time steps.
 >
-> **[1:16](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/natural-language-processing-architectures-rnns-and-transformers?u=76281980&t=76)** RNNs are used for language modeling, predicting the next word in a sequence, machine translation, translating text from one language to another, speech recognition, converting spoken language into text, sentiment analysis, determining the emotional tone of a text, time series analysis, predicting future values based on past observation.
+> **[1:16](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/natural-language-processing-architectures-rnns-and-transformers?u=76281980&t=76)** RNNs are used for language modeling, predicting the next word in a sequence, machine translation, translating text from one language to another, [[Speech Recognition]], converting spoken language into text, sentiment analysis, determining the emotional tone of a text, [[Time Series Analysis]], predicting future values based on past observation.
 >
 > **[1:46](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/natural-language-processing-architectures-rnns-and-transformers?u=76281980&t=106)** RNNs were introduced in the 1980s, but gained popularity in the 2010s with applications in speech recognition and machine translation.
 >
@@ -777,7 +768,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/natural-language-processing-architectures-rnns-and-transformers?u=76281980&t=201)** Positional encoding.
 >
-> **[3:22](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/natural-language-processing-architectures-rnns-and-transformers?u=76281980&t=202)** This adds information about word order since transformers process all tokens in parallel.
+> **[3:22](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/natural-language-processing-architectures-rnns-and-transformers?u=76281980&t=202)** This adds information about word order since transformers process all [[Tokens]] in parallel.
 >
 > **[3:30](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/natural-language-processing-architectures-rnns-and-transformers?u=76281980&t=210)** Self-attention mechanism.
 >
@@ -793,11 +784,11 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/natural-language-processing-architectures-rnns-and-transformers?u=76281980&t=235)** This generates predictions based on land representations.
 >
-> **[4:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/natural-language-processing-architectures-rnns-and-transformers?u=76281980&t=240)** Some use cases of transformers are text generation, used in models like GPT for producing human-like text, machine translation, powering translation tools like Google Translate, sentiment analysis, identifying emotions in text-based data, question answering, enabling AI assistants to understand and respond to queries, text summarization, condensing long documents into concise summaries.
+> **[4:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/natural-language-processing-architectures-rnns-and-transformers?u=76281980&t=240)** Some use cases of transformers are text generation, used in models like GPT for producing human-like text, machine translation, powering translation tools like [[Google]] Translate, sentiment analysis, identifying emotions in text-based data, question answering, enabling AI assistants to understand and respond to queries, text summarization, condensing long documents into concise summaries.
 >
 > **[4:34](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/natural-language-processing-architectures-rnns-and-transformers?u=76281980&t=274)** Transformers were introduced in 2017 with the paper, "Attention Is All You Need" by Vaswani and others.
 >
-> **[4:43](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/natural-language-processing-architectures-rnns-and-transformers?u=76281980&t=283)** The breakthrough was eliminating the sequential nature of RNNs, allowing for better scalability and parallel processing.
+> **[4:43](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/natural-language-processing-architectures-rnns-and-transformers?u=76281980&t=283)** The breakthrough was eliminating the sequential nature of RNNs, allowing for better [[Scalability]] and parallel processing.
 >
 > **[4:53](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/natural-language-processing-architectures-rnns-and-transformers?u=76281980&t=293)** This led to the development of various transformer-based models such as BERT, Bidirectional Encoder Representations from Transformers.
 >
@@ -813,24 +804,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (5), ai (3), data (3), [[Microsoft Word|Word]] (3), [[Neural Networks]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Neural Networks]] (2), [[Speech Recognition]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Time Series Analysis]] (1)
 > **Env Vars:** nlp (5), gpt (3), lstm (2), bert (2)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Computer vision architectures: CNNs and vision transformers
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/computer-vision-architectures-cnns-and-vision-transformers?u=76281980)
+#### [Computer vision architectures: CNNs and vision transformers](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/computer-vision-architectures-cnns-and-vision-transformers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/computer-vision-architectures-cnns-and-vision-transformers?u=76281980&t=0)** - [Instructor] Computer vision is a subfield of AI focused on enabling machines to interpret and understand visual data, such as images and videos.
+> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/computer-vision-architectures-cnns-and-vision-transformers?u=76281980&t=0)** - [Instructor] [[Computer Vision]] is a subfield of AI focused on enabling machines to interpret and understand visual data, such as images and videos.
 >
 > **[0:11](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/computer-vision-architectures-cnns-and-vision-transformers?u=76281980&t=11)** AI architecture in this domain are designed to recognize patterns, detect objects, and analyze spatial relationships, making them essential for tasks like image classification, object detection, and facial recognition.
 >
-> **[0:29](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/computer-vision-architectures-cnns-and-vision-transformers?u=76281980&t=29)** Some of the most popular model architectures used in computer vision include convolutional neural networks, CNNs.
+> **[0:29](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/computer-vision-architectures-cnns-and-vision-transformers?u=76281980&t=29)** Some of the most popular model architectures used in computer vision include [[Convolutional Neural Networks (CNN)|convolutional neural networks]], CNNs.
 >
-> **[0:39](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/computer-vision-architectures-cnns-and-vision-transformers?u=76281980&t=39)** CNNs are class of deep learning models designed specifically for analyzing visual data.
+> **[0:39](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/computer-vision-architectures-cnns-and-vision-transformers?u=76281980&t=39)** CNNs are class of [[Deep Learning]] models designed specifically for analyzing visual data.
 >
 > **[0:46](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/computer-vision-architectures-cnns-and-vision-transformers?u=76281980&t=46)** They are highly effective at capturing spatial hierarchies and patterns within images.
 >
@@ -912,7 +902,7 @@ created: 2026-05-02
 >
 > **[5:23](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/computer-vision-architectures-cnns-and-vision-transformers?u=76281980&t=323)** ViTs were introduced in 2020 in the paper "An Image Is Worth 16x16 Words."
 >
-> **[5:31](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/computer-vision-architectures-cnns-and-vision-transformers?u=76281980&t=331)** Their key innovation was using transformers instead of convolutions for image processing, allowing for better scalability and improved performance on large data sets.
+> **[5:31](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/computer-vision-architectures-cnns-and-vision-transformers?u=76281980&t=331)** Their key innovation was using transformers instead of convolutions for [[Image Processing]], allowing for better [[Scalability]] and improved performance on large data sets.
 >
 > **[5:44](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/computer-vision-architectures-cnns-and-vision-transformers?u=76281980&t=344)** This led to the development of several ViT-based models, such as DeiT, data-efficient image transformer, optimized for training with less data.
 >
@@ -926,24 +916,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Computer Vision]] (5), ai (4), feature (2), nlp (2)
+> **Frameworks & Libraries:** [[Computer Vision]] (5), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Deep Learning]] (1), [[Image Processing]] (1), [[Scalability]] (1)
 > **Analogies:** such as (5), for example (2)
 > **Env Vars:** nlp (2), cnn (1), bert (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generative architectures: Diffusion and GANs
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generative-architectures-diffusion-and-gans?u=76281980)
+#### [Generative architectures: Diffusion and GANs](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generative-architectures-diffusion-and-gans?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generative-architectures-diffusion-and-gans?u=76281980&t=0)** - [Instructor] Generative AI architecture focus on creating new data instances that resemble the training data.
+> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generative-architectures-diffusion-and-gans?u=76281980&t=0)** - [Instructor] [[Generative AI]] architecture focus on creating new data instances that resemble the training data.
 >
 > **[0:08](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generative-architectures-diffusion-and-gans?u=76281980&t=8)** They can generate images, text, and even audio data resembling real-world examples.
 >
 > **[0:16](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generative-architectures-diffusion-and-gans?u=76281980&t=16)** They are useful for tasks such as image sentences, text generation, and audio creation.
 >
-> **[0:25](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generative-architectures-diffusion-and-gans?u=76281980&t=25)** Two permanent generative architectures are diffusion models and generative adversarial networks, GANs.
+> **[0:25](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generative-architectures-diffusion-and-gans?u=76281980&t=25)** Two permanent generative architectures are diffusion models and [[Generative Adversarial Networks (GANs)|generative adversarial networks]], GANs.
 >
 > **[0:35](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generative-architectures-diffusion-and-gans?u=76281980&t=35)** Diffusion models are a class of generative models that operate on the principle of gradually adding noise to an image and then learning to reverse this process to generate new data.
 >
@@ -969,11 +958,11 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generative-architectures-diffusion-and-gans?u=76281980&t=150)** This led to the development of various diffusion model variants, such as DDPM, Denoising Diffusion Probabilistic Models, a foundational diffusion model that uses a fixed variant schedule for diffusion process.
 >
-> **[2:48](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generative-architectures-diffusion-and-gans?u=76281980&t=168)** Stable Diffusion, a latent diffusion model that operates in lower dimensional latent space, improving efficiency.
+> **[2:48](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generative-architectures-diffusion-and-gans?u=76281980&t=168)** [[Stable Diffusion]], a latent diffusion model that operates in lower dimensional latent space, improving efficiency.
 >
 > **[2:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generative-architectures-diffusion-and-gans?u=76281980&t=179)** Imageen, a text to image diffusion model that achieves high levels of photorealism and text alignment.
 >
-> **[3:08](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generative-architectures-diffusion-and-gans?u=76281980&t=188)** Generative adversarial networks, GANs, are designed to generate realistic data by training two neural networks, the generator and the discriminator, in competition with each other.
+> **[3:08](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generative-architectures-diffusion-and-gans?u=76281980&t=188)** Generative adversarial networks, GANs, are designed to generate realistic data by training two [[Neural Networks]], the generator and the discriminator, in competition with each other.
 >
 > **[3:23](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generative-architectures-diffusion-and-gans?u=76281980&t=203)** These networks are trained simultaneously, where the generator learns to create fake data, and the discriminator learns to distinguish between real and generated data.
 >
@@ -1013,7 +1002,7 @@ created: 2026-05-02
 >
 > **[5:28](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generative-architectures-diffusion-and-gans?u=76281980&t=328)** This led to the development of various GAN variants, such as DCGAN, Deep Convolutional GAN.
 >
-> **[5:36](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generative-architectures-diffusion-and-gans?u=76281980&t=336)** This uses convolutional neural networks for both the generator and discriminator.
+> **[5:36](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generative-architectures-diffusion-and-gans?u=76281980&t=336)** This uses [[Convolutional Neural Networks (CNN)|convolutional neural networks]] for both the generator and discriminator.
 >
 > **[5:42](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generative-architectures-diffusion-and-gans?u=76281980&t=342)** StyleGAN, this generates high-resolution photorealistic images with fine-grained control over style.
 >
@@ -1023,13 +1012,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (3), [[Generative AI]] (1), [[Stable Diffusion]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Generative Adversarial Networks (GANs)|Generative adversarial networks]] (3), [[Generative AI]] (1), [[Stable Diffusion]] (1), [[Neural Networks]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Env Vars:** gan (4), ddpm (1), dcgan (1)
 > **Analogies:** such as (4)
 > **Speakers:** - [instructor] (1)
 
-#### Multimodal architectures: CLIP and Flamingo
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/multimodal-architectures-clip-and-flamingo?u=76281980)
+#### [Multimodal architectures: CLIP and Flamingo](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/multimodal-architectures-clip-and-flamingo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1095,7 +1083,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/multimodal-architectures-clip-and-flamingo?u=76281980&t=227)** Cross attention layers facilitate interaction between visual and textual components, allowing the model to align and reason over multiple modalities.
 >
-> **[3:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/multimodal-architectures-clip-and-flamingo?u=76281980&t=239)** Perceiver resampler, a mechanism that compresses visual data into a fixed size representation, reducing the number of tokens and improving efficiency and scalability.
+> **[3:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/multimodal-architectures-clip-and-flamingo?u=76281980&t=239)** Perceiver resampler, a mechanism that compresses visual data into a fixed size representation, reducing the number of [[Tokens]] and improving efficiency and [[Scalability]].
 >
 > **[4:14](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/multimodal-architectures-clip-and-flamingo?u=76281980&t=254)** Some use cases for Flamingo include visual question answering, VQA, answering questions about images based on their content.
 >
@@ -1105,7 +1093,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/multimodal-architectures-clip-and-flamingo?u=76281980&t=274)** Few-shot learning, adapting to a new visual task with limited training data.
 >
-> **[4:41](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/multimodal-architectures-clip-and-flamingo?u=76281980&t=281)** Flamingo was introduced in 2022 by John Baptist and Hall from Deep Mind in the paper, "Flamingo: A Visual Language Model for Few-Shot Learning".
+> **[4:41](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/multimodal-architectures-clip-and-flamingo?u=76281980&t=281)** Flamingo was introduced in 2022 by [[John the Ripper|John]] Baptist and Hall from Deep Mind in the paper, "Flamingo: A Visual Language Model for Few-Shot Learning".
 >
 > **[4:53](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/multimodal-architectures-clip-and-flamingo?u=76281980&t=293)** Its key innovation was its ability to process interleaved image and text sequences, enabling more complex multimodal interaction.
 >
@@ -1115,14 +1103,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), ai (5), cnn (1), [[Search]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (1), [[Scalability]] (1), [[John the Ripper|John]] (1)
 > **Env Vars:** clip (9), cnn (1), vqa (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Efficient architectures
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/efficient-architectures?u=76281980)
+#### [Efficient architectures](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/efficient-architectures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1134,7 +1121,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/efficient-architectures?u=76281980&t=35)** Some of the most popular efficient AI architectures include MobileNet.
 >
-> **[0:41](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/efficient-architectures?u=76281980&t=41)** MobileNets are lightweight convolutional neural networks designed for efficient image processing on mobile and edge devices.
+> **[0:41](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/efficient-architectures?u=76281980&t=41)** MobileNets are lightweight [[Convolutional Neural Networks (CNN)|convolutional neural networks]] designed for efficient [[Image Processing]] on mobile and edge devices.
 >
 > **[0:51](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/efficient-architectures?u=76281980&t=51)** They achieve high accuracy while significantly reducing computational cost, making them suitable for real life application.
 >
@@ -1166,7 +1153,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/efficient-architectures?u=76281980&t=138)** Embedded systems, vision task on devices with limited computational resources.
 >
-> **[2:25](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/efficient-architectures?u=76281980&t=145)** Real-time applications, applications requiring fast inference speed.
+> **[2:25](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/efficient-architectures?u=76281980&t=145)** [[Real-Time]] applications, applications requiring fast inference speed.
 >
 > **[2:31](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/efficient-architectures?u=76281980&t=151)** Robotics, vision task on robots with limited onboard processing.
 >
@@ -1176,7 +1163,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/efficient-architectures?u=76281980&t=167)** MobileNet was introduced in 2017 by Andrew G.
 >
-> **[2:51](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/efficient-architectures?u=76281980&t=171)** and others from Google in the paper "MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications."
+> **[2:51](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/efficient-architectures?u=76281980&t=171)** and others from [[Google]] in the paper "MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications."
 >
 > **[3:01](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/efficient-architectures?u=76281980&t=181)** Its key innovation was using depth-wise separable convolution to reduce computational cost.
 >
@@ -1252,13 +1239,13 @@ created: 2026-05-02
 >
 > **[6:50](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/efficient-architectures?u=76281980&t=410)** And natural language understanding, where it powers lightweight NLP applications.
 >
-> **[6:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/efficient-architectures?u=76281980&t=419)** DistilBERT was introduced in 2019 by Hugging Face and it reduces the computational requirement of transformers while preserving up to 97% of BERT's performance.
+> **[6:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/efficient-architectures?u=76281980&t=419)** DistilBERT was introduced in 2019 by [[Hugging Face]] and it reduces the computational requirement of transformers while preserving up to 97% of BERT's performance.
 >
 > **[7:14](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/efficient-architectures?u=76281980&t=434)** Understanding the availability of efficient AI models and architectures is important because typical AI models are large and deployment on smaller devices is a valid and almost inevitable use case, as you progress in your career.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (3), [[Google]] (2), mobile application (1), cloud (1)
+> **Frameworks & Libraries:** [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (3), [[Google]] (2), [[Image Processing]] (1), [[Real-Time]] (1), [[Hugging Face]] (1)
 > **Env Vars:** bert (5), cnn (1), nlp (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (3)
@@ -1270,14 +1257,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to AI datasets
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980)
+#### [Introduction to AI datasets](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=0)** - In the last chapter, we thoroughly explored AI models and architectures.
 >
-> **[0:06](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=6)** We already understand that an AI model is a combination of algorithms and data.
+> **[0:06](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=6)** We already understand that an AI model is a combination of [[Algorithms]] and data.
 >
 > **[0:13](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=13)** In this lesson, we will explore the concept of datasets as used in the AI ecosystem.
 >
@@ -1293,7 +1279,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=65)** It is used to train, validate, and test machine learning models.
 >
-> **[1:09](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=69)** It typically consists of a set of samples where each sample contains features, and in supervised learning, corresponding labels or targets.
+> **[1:09](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=69)** It typically consists of a set of samples where each sample contains features, and in [[Supervised Learning]], corresponding labels or targets.
 >
 > **[1:20](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=80)** Essentially, a data set transforms raw, unstructured information into a format that AI models can understand and learn from.
 >
@@ -1303,25 +1289,25 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=110)** To curate data, depending on data type, involves several steps.
 >
-> **[1:56](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=116)** Some of them are data collection.
+> **[1:56](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=116)** Some of them are [[Data Collection]].
 >
-> **[1:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=119)** This is where you gather data from different sources, including web scraping, sensors, surveys, and databases.
+> **[1:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=119)** This is where you gather data from different sources, including web scraping, sensors, surveys, and [[Databases]].
 >
 > **[2:09](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=129)** Pre-processing, cleaning the data, handling missing values, normalizing formats, and removing inconsistencies.
 >
 > **[2:19](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=139)** Labeling and annotation.
 >
-> **[2:21](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=141)** This is where you had metadata or human provided labels to make the data usable for supervised learning.
+> **[2:21](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=141)** This is where you had [[Metadata]] or human provided labels to make the data usable for supervised learning.
 >
 > **[2:29](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=149)** Splitting into training, validation, and test sets, dividing the data sets to ensure fair valuation and prevent overfitting.
 >
-> **[2:40](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=160)** Data can be referred to as structures, such as with tables, databases, unstructured text, images, audio, or semi-structured JSON and XML files.
+> **[2:40](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=160)** Data can be referred to as structures, such as with tables, databases, unstructured text, images, audio, or semi-structured [[JSON]] and XML files.
 >
 > **[2:53](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=173)** Datasets can be classified and described based on several criteria by data type.
 >
-> **[2:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=179)** Image datasets used for computer vision task, such as (indistinct), cocoa, and Imagenet.
+> **[2:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=179)** Image datasets used for [[Computer Vision]] task, such as (indistinct), cocoa, and Imagenet.
 >
-> **[3:06](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=186)** Text datasets, used for NLP application, for example, the Wikipedia corpus and the GPT3 training dataset, Audio datasets used for speech recognition and audio classification, like Librispeech, Google Speech Command.
+> **[3:06](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=186)** Text datasets, used for NLP application, for example, the Wikipedia corpus and the GPT3 training dataset, Audio datasets used for [[Speech Recognition]] and audio classification, like Librispeech, [[Google]] Speech Command.
 >
 > **[3:25](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=205)** Tabular dataset using structured data application, like fraud detection and recommended systems, for example, the wine quality dataset.
 >
@@ -1331,11 +1317,11 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=234)** Unsupervised, this is unlabeled data for tasks, such as clustering or dimensionality reduction.
 >
-> **[4:01](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=241)** Reinforcement learning, data from interactions with an environment.
+> **[4:01](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=241)** [[Reinforcement Learning]], data from interactions with an environment.
 >
 > **[4:07](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=247)** By size, a dataset can be small, medium, large, depending on the number of samples and features.
 >
-> **[4:17](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=257)** By domain, datasets can be specific to a particular field, such as medical imaging, finance, natural language processing, or computer vision.
+> **[4:17](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=257)** By domain, datasets can be specific to a particular field, such as medical imaging, finance, [[Natural Language Processing (NLP)|natural language processing]], or computer vision.
 >
 > **[4:29](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=269)** By availability, publicly available data sets are datasets that are freely accessible to the public.
 >
@@ -1353,11 +1339,11 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=319)** Datasets may contain biases that can lead to unfair AI decisions.
 >
-> **[5:25](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=325)** Data quality, poorly labeled or inconsistent datasets can harm model performance.
+> **[5:25](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=325)** [[Data Quality]], poorly labeled or inconsistent datasets can harm model performance.
 >
-> **[5:32](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=332)** Privacy concerns, handling personal or sensitive data must comply with legal regulation, like GDPR and CCPA.
+> **[5:32](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=332)** [[Privacy]] concerns, handling personal or sensitive data must comply with legal regulation, like GDPR and CCPA.
 >
-> **[5:42](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=342)** Scalability, some AI models require vast amount of data, making storage and processing challenging.
+> **[5:42](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=342)** [[Scalability]], some AI models require vast amount of data, making storage and processing challenging.
 >
 > **[5:51](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/introduction-to-ai-datasets?u=76281980&t=351)** Understanding the characteristics and types of datasets is crucial for selecting and finding the appropriate data for giving AI tasks and effectively training and evaluating AI models.
 >
@@ -1369,7 +1355,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), ai (16), application (4), [[Algorithms]] (2), [[Supervised Learning]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Supervised Learning]] (2), [[Databases]] (2), [[Computer Vision]] (2), [[Data Collection]] (1)
 > **Analogies:** such as (6), for example (3)
 > **Env Vars:** json (1), xml (1), nlp (1), gpt3 (1), gdpr (1)
 > **Definitions:** is a  (3), refers to (1)
@@ -1378,8 +1364,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - in (1)
 
-#### Foundational AI image datasets
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-image-datasets?u=76281980)
+#### [Foundational AI image datasets](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-image-datasets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1413,13 +1398,13 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-image-datasets?u=76281980&t=85)** Modified National Institute of Standards and Technology.
 >
-> **[1:30](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-image-datasets?u=76281980&t=90)** The MNIST dataset introduced by Yann LeCun, Corinna Cortes and Christopher Burges in 1998 is one of the most well-known dataset in computer vision.
+> **[1:30](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-image-datasets?u=76281980&t=90)** The MNIST dataset introduced by Yann LeCun, Corinna Cortes and Christopher Burges in 1998 is one of the most well-known dataset in [[Computer Vision]].
 >
-> **[1:42](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-image-datasets?u=76281980&t=102)** It was derived from the original NIST and written digital dataset.
+> **[1:42](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-image-datasets?u=76281980&t=102)** It was derived from the original [[NIST]] and written digital dataset.
 >
 > **[1:48](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-image-datasets?u=76281980&t=108)** MNIST contains 60,000 training images and 10,000 test images of unwritten digits with each image in 28 x 28 in grayscale and it has labels represent digits from zero to nine, making 10 classes.
 >
-> **[2:09](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-image-datasets?u=76281980&t=129)** Some of its use cases are benchmarking image classification models, testing convolutional neural networks, CNNs for digital recognition, developing handwritten digital recognition system for OCR systems, and serving as an introductory dataset for deep learning and computer vision research.
+> **[2:09](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-image-datasets?u=76281980&t=129)** Some of its use cases are benchmarking image classification models, testing [[Convolutional Neural Networks (CNN)|convolutional neural networks]], CNNs for digital recognition, developing handwritten digital recognition system for OCR systems, and serving as an introductory dataset for [[Deep Learning]] and computer vision research.
 >
 > **[2:33](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-image-datasets?u=76281980&t=153)** CIFAR, Canadian Institute of Advanced Research.
 >
@@ -1467,7 +1452,7 @@ created: 2026-05-02
 >
 > **[5:50](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-image-datasets?u=76281980&t=350)** Common objects in context.
 >
-> **[5:53](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-image-datasets?u=76281980&t=353)** The COCO dataset developed by Microsoft introduced in 2014 was designed to improve AI models' ability to understand objects in real world context, including detailed annotation for object bounding boxes, segmentation mask and image captions.
+> **[5:53](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-image-datasets?u=76281980&t=353)** The COCO dataset developed by [[Microsoft]] introduced in 2014 was designed to improve AI models' ability to understand objects in real world context, including detailed annotation for object bounding boxes, segmentation mask and image captions.
 >
 > **[6:14](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-image-datasets?u=76281980&t=374)** It contains over 330,000 images with over 200,000 labeled images in 80 categories.
 >
@@ -1483,11 +1468,11 @@ created: 2026-05-02
 >
 > **[6:57](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-image-datasets?u=76281980&t=417)** Open Images.
 >
-> **[6:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-image-datasets?u=76281980&t=419)** Open Images launched by Google in 2016 is a large scale dataset designed for object detection, segmentation, and visual relationship detection.
+> **[6:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-image-datasets?u=76281980&t=419)** Open Images launched by [[Google]] in 2016 is a large scale dataset designed for object detection, segmentation, and visual relationship detection.
 >
 > **[7:11](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-image-datasets?u=76281980&t=431)** It has over 9 million images with 36 million annotations in about 19,000 categories.
 >
-> **[7:20](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-image-datasets?u=76281980&t=440)** Its use cases include large scale object detection and recognition, scene understanding in real world images, visual relationship detection, where AI models understand object interaction and weakly supervised learning, where models learn from large scale noisy dataset.
+> **[7:20](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-image-datasets?u=76281980&t=440)** Its use cases include large scale object detection and recognition, scene understanding in real world images, visual relationship detection, where AI models understand object interaction and weakly [[Supervised Learning]], where models learn from large scale noisy dataset.
 >
 > **[7:41](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-image-datasets?u=76281980&t=461)** We have explored only a fraction of the image dataset available for AI.
 >
@@ -1497,15 +1482,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Computer Vision]] (4), cnn (4), [[Deep Learning]] (3), data (1)
+> **Frameworks & Libraries:** [[Computer Vision]] (4), [[Deep Learning]] (3), [[NIST]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Microsoft]] (1)
 > **Env Vars:** cnn (4), mnist (3), cifar (3), coco (3), voc (2)
 > **Analogies:** such as (4), for example (2)
 > **Versions:** 1.2 (1), 1.5 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore CIFAR-10 image dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-cifar-10-image-dataset?u=76281980)
+#### [Explore CIFAR-10 image dataset](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-cifar-10-image-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1515,9 +1499,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-cifar-10-image-dataset?u=76281980&t=11)** Additionally, many AI frameworks include built-in models to assess datasets easily.
 >
-> **[0:18](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-cifar-10-image-dataset?u=76281980&t=18)** In this video we'll be exploring the CIFAR-10 Image Dataset using TensorFlow, a popular AI framework.
+> **[0:18](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-cifar-10-image-dataset?u=76281980&t=18)** In this video we'll be exploring the CIFAR-10 Image Dataset using [[TensorFlow]], a popular AI framework.
 >
-> **[0:28](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-cifar-10-image-dataset?u=76281980&t=28)** We'll be using Google Colab Notebook as our IDE.
+> **[0:28](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-cifar-10-image-dataset?u=76281980&t=28)** We'll be using [[Google]] Colab Notebook as our IDE.
 >
 > **[0:31](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-cifar-10-image-dataset?u=76281980&t=31)** And to get started, go to colab.research.[google.com](https://google.com) and sign in.
 >
@@ -1563,7 +1547,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[TensorFlow]] (2), [[Google]] (2), data (2), next (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (2), [[Google]] (2)
 > **Code Identifiers:** load_data (1), x_train (1), y_train (1), display_cifar (1)
 > **Tools:** colab (4)
 > **Definitions:** is a  (2), is an  (2)
@@ -1572,18 +1556,17 @@ created: 2026-05-02
 > **URLs:** [google.com](https://google.com) (1)
 > **UI Navigation:** go to (1)
 
-#### Foundational AI text datasets
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-text-datasets?u=76281980)
+#### [Foundational AI text datasets](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-text-datasets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-text-datasets?u=76281980&t=0)** - [Instructor] The shared volume and availability of unstructured data, such as text, is one of the key factors why the AI ecosystem has progressed rapidly in recent times.
+> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-text-datasets?u=76281980&t=0)** - [Instructor] The shared volume and availability of [[Unstructured Data]], such as text, is one of the key factors why the AI ecosystem has progressed rapidly in recent times.
 >
-> **[0:13](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-text-datasets?u=76281980&t=13)** Foundational text datasets are essential resources that provide the textual data necessary for training, evaluating, and benchmarking natural language processing, NLP models.
+> **[0:13](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-text-datasets?u=76281980&t=13)** Foundational text datasets are essential resources that provide the textual data necessary for training, evaluating, and benchmarking [[Natural Language Processing (NLP)|natural language processing]], NLP models.
 >
 > **[0:27](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-text-datasets?u=76281980&t=27)** They are characterized by their broad applicability, well-documented structure, and historical significance in advancing NLP techniques.
 >
-> **[0:39](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-text-datasets?u=76281980&t=39)** Many of the foundational AI text datasets have their root and origin in linguistics and information retrieval, and text data used in NLP are often referred to as corpus, plural, corpora.
+> **[0:39](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-text-datasets?u=76281980&t=39)** Many of the foundational AI text datasets have their root and origin in linguistics and [[Information Retrieval]], and text data used in NLP are often referred to as corpus, plural, corpora.
 >
 > **[0:55](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-text-datasets?u=76281980&t=55)** A corpus is a large and structural set of text, typically used for linguistic analysis, statistical processing, and AI model training.
 >
@@ -1593,7 +1576,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-text-datasets?u=76281980&t=80)** It contains approximately 1 million words of text from various sources, including news articles, fiction, and nonfiction.
 >
-> **[1:32](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-text-datasets?u=76281980&t=92)** Its uses include linguistic analysis and research, training early statistical NLP models, and developing part-of-speech tagging and parsing algorithms.
+> **[1:32](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-text-datasets?u=76281980&t=92)** Its uses include linguistic analysis and research, training early statistical NLP models, and developing part-of-speech tagging and parsing [[Algorithms]].
 >
 > **[1:47](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-text-datasets?u=76281980&t=107)** Penn Treebank, PTB.
 >
@@ -1625,13 +1608,13 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-text-datasets?u=76281980&t=224)** It's been crawled since 2008 till now.
 >
-> **[3:48](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-text-datasets?u=76281980&t=228)** It is used in large-scale unsupervised learning and web-based knowledge extraction and text mining.
+> **[3:48](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-text-datasets?u=76281980&t=228)** It is used in large-scale unsupervised learning and web-based knowledge extraction and [[Text Mining]].
 >
 > **[3:58](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-text-datasets?u=76281980&t=238)** SQuAD, Stanford Question Answering Dataset.
 >
 > **[4:02](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-text-datasets?u=76281980&t=242)** SQuAD, developed at Stanford in 2016, is a large-scale question-answering dataset containing passages from Wikipedia with corresponding questions and human-annotated answers.
 >
-> **[4:16](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-text-datasets?u=76281980&t=256)** It's used for training and benchmarking QA models, fine-tuning transformer models like BERT and T5, and information retrieval for AI-powered search systems.
+> **[4:16](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-text-datasets?u=76281980&t=256)** It's used for training and benchmarking QA models, fine-tuning [[Transformer Models]] like BERT and T5, and information retrieval for AI-powered search systems.
 >
 > **[4:29](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundational-ai-text-datasets?u=76281980&t=269)** GLUE, General Language Understanding Evaluation benchmark.
 >
@@ -1645,14 +1628,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (7), ai (5), data (4), [[Information Retrieval]] (3), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Information Retrieval]] (3), [[Algorithms]] (2), [[Unstructured Data]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Text Mining]] (1)
 > **Env Vars:** nlp (7), bert (2), glue (2), ptb (1), gpt (1)
 > **Analogies:** such as (4), for example (1)
 > **Definitions:** is a  (4)
 > **Speakers:** - [instructor] (1)
 
-#### Explore Brown Corpus text dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-brown-corpus-text-dataset?u=76281980)
+#### [Explore Brown Corpus text dataset](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-brown-corpus-text-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1660,7 +1642,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-brown-corpus-text-dataset?u=76281980&t=11)** In this video, we will explore the popular Brown Corpus using the NLTK library.
 >
-> **[0:18](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-brown-corpus-text-dataset?u=76281980&t=18)** We'll be running our coding, colab.[google.com](https://google.com), or any Python compatible IDE.
+> **[0:18](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-brown-corpus-text-dataset?u=76281980&t=18)** We'll be running our coding, colab.[[[Google]].com](https://google.com), or any [[Python (Programming Language)|Python]] compatible IDE.
 >
 > **[0:26](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-brown-corpus-text-dataset?u=76281980&t=26)** First, we import NLTK and download the Brown Corpus.
 >
@@ -1698,7 +1680,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-brown-corpus-text-dataset?u=76281980&t=161)** So there we go, we have the first 100 words returned as closer to a paragraph rather than sentences.
 >
-> **[2:51](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-brown-corpus-text-dataset?u=76281980&t=171)** So using the generate with AI function in CoLab, we can say, Generate code to perform a word frequency count in the news category.
+> **[2:51](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-brown-corpus-text-dataset?u=76281980&t=171)** So using the generate with AI function in CoLab, we can say, Generate code to perform a [[Microsoft Word|word]] frequency count in the news category.
 >
 > **[3:12](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-brown-corpus-text-dataset?u=76281980&t=192)** Okay, so now we have the code that is supposed to count.
 >
@@ -1718,13 +1700,13 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-brown-corpus-text-dataset?u=76281980&t=263)** As a practice exercise, choose another Corpus available in NLTK.
 >
-> **[4:27](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-brown-corpus-text-dataset?u=76281980&t=267)** It's a popular natural language processing library, and exploit similarly, just as we've done with the news subcategory.
+> **[4:27](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-brown-corpus-text-dataset?u=76281980&t=267)** It's a popular [[Natural Language Processing (NLP)|natural language processing]] library, and exploit similarly, just as we've done with the news subcategory.
 >
 > **[4:35](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-brown-corpus-text-dataset?u=76281980&t=275)** Feel free to share your experience in the course community Q&A.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Google]] (1), [[Python (Programming Language)|Python]] (1), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Python (Programming Language)|Python]] (1), [[Microsoft Word|Word]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** nltk (4), ide (1)
 > **Tools:** colab (2)
 > **CLI Commands:** python (1)
@@ -1733,8 +1715,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 
-#### Foundational AI speech datasets
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundation-ai-speech-datasets?u=76281980)
+#### [Foundational AI speech datasets](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundation-ai-speech-datasets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1742,7 +1723,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundation-ai-speech-datasets?u=76281980&t=5)** As with other data types, advancement in AI has been significantly driven by the availability of large and high-quality speech datasets.
 >
-> **[0:16](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundation-ai-speech-datasets?u=76281980&t=16)** This dataset enabled the training and evaluation of models for tasks like speech recognition, speaker identification, and audio analysis.
+> **[0:16](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundation-ai-speech-datasets?u=76281980&t=16)** This dataset enabled the training and evaluation of models for tasks like [[Speech Recognition]], speaker identification, and audio analysis.
 >
 > **[0:27](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundation-ai-speech-datasets?u=76281980&t=27)** In this video, we would explore some of the foundational AI speech datasets that has been instrumental in this progress.
 >
@@ -1772,15 +1753,15 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundation-ai-speech-datasets?u=76281980&t=174)** It includes VoxCeleb1 and VoxCeleb2, providing over 1 million utterances from thousands of speakers.
 >
-> **[3:02](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundation-ai-speech-datasets?u=76281980&t=182)** Some of its use cases include speaker verification and identification, voice biometric authentication systems, and robust speech modeling in noisy environment.
+> **[3:02](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundation-ai-speech-datasets?u=76281980&t=182)** Some of its use cases include speaker verification and identification, voice biometric [[Authentication Systems]], and robust speech modeling in noisy environment.
 >
-> **[3:15](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundation-ai-speech-datasets?u=76281980&t=195)** Google Speech Command dataset.
+> **[3:15](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundation-ai-speech-datasets?u=76281980&t=195)** [[Google]] Speech Command dataset.
 >
 > **[3:18](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundation-ai-speech-datasets?u=76281980&t=198)** The Google Speech Commands dataset is a collection of short audio clips of spoken commands.
 >
 > **[3:24](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundation-ai-speech-datasets?u=76281980&t=204)** It is widely used for training and evaluating small-footprint speech models.
 >
-> **[3:30](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundation-ai-speech-datasets?u=76281980&t=210)** Some of its uses include keyword spotting and wake-word detection, training simple speech recognition models, and developing voice control applications.
+> **[3:30](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundation-ai-speech-datasets?u=76281980&t=210)** Some of its uses include keyword spotting and wake-[[Microsoft Word|word]] detection, training simple speech recognition models, and developing voice control applications.
 >
 > **[3:43](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/foundation-ai-speech-datasets?u=76281980&t=223)** Mozilla Common Voice.
 >
@@ -1798,14 +1779,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Speech Recognition]] (5), data (2), ai (2), [[Google]] (2), [[Authentication Systems]] (1)
+> **Frameworks & Libraries:** [[Speech Recognition]] (5), [[Google]] (2), [[Authentication Systems]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** timit (1), mit (1), sri (1), asr (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore LibriSpeech dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-librispeech-dataset?u=76281980)
+#### [Explore LibriSpeech dataset](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-librispeech-dataset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1813,11 +1793,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-librispeech-dataset?u=76281980&t=6)** Now, we are going to explore one of them, Librispeech, using Torchaudio.
 >
-> **[0:12](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-librispeech-dataset?u=76281980&t=12)** Torchaudio is a library built on top of PyTorch that provides tools for loading, processing, and analyzing audio data efficiently.
+> **[0:12](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-librispeech-dataset?u=76281980&t=12)** Torchaudio is a library built on top of [[PyTorch]] that provides tools for loading, processing, and analyzing audio data efficiently.
 >
 > **[0:22](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-librispeech-dataset?u=76281980&t=22)** It includes datasets, transformations, and pre-trained models for speech-related task.
 >
-> **[0:29](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-librispeech-dataset?u=76281980&t=29)** To follow along, log in or sign up at colab.[google.com](https://google.com), or use any preferred Python IDE.
+> **[0:29](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-librispeech-dataset?u=76281980&t=29)** To follow along, log in or sign up at colab.[[[Google]].com](https://google.com), or use any preferred [[Python (Programming Language)|Python]] IDE.
 >
 > **[0:39](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-librispeech-dataset?u=76281980&t=39)** First, import os torchaudio
 >
@@ -1855,7 +1835,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-librispeech-dataset?u=76281980&t=197)** Let's assess the first item in the dataset by saying dataset[0].
 >
-> **[3:26](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-librispeech-dataset?u=76281980&t=206)** So this returns the tensor representation of the audio waveform along with its corresponding text transcription and metadata.
+> **[3:26](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-librispeech-dataset?u=76281980&t=206)** So this returns the tensor representation of the audio waveform along with its corresponding text transcription and [[Metadata]].
 >
 > **[3:35](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-librispeech-dataset?u=76281980&t=215)** We can unpack more dataset attributes using waveform, sample_rate, utterance, speaker_id and then chapter_id.
 >
@@ -1923,7 +1903,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), ai (2), [[PyTorch]] (1), [[Google]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[PyTorch]] (1), [[Google]] (1), [[Python (Programming Language)|Python]] (1), [[Metadata]] (1)
 > **Code Identifiers:** speaker_id (3), sample_rate (2), chapter_id (2), data_dir (1), utterance_id (1)
 > **CLI Commands:** python (1), make (1)
 > **Env Vars:** ide (1), librispeech (1)
@@ -1937,8 +1917,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are AI application programming interfaces (APIs)?
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980)
+#### [What are AI application programming interfaces (APIs)?](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1946,7 +1925,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980&t=7)** Now we will explore how to assess and integrate these AI models into our applications.
 >
-> **[0:14](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980&t=14)** As a developer, just like with other software systems, you can assess AI capabilities through APIs, application programming interfaces.
+> **[0:14](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980&t=14)** As a developer, just like with other software systems, you can assess AI capabilities through APIs, [[Application Programming Interfaces (API)|application programming interfaces]].
 >
 > **[0:26](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980&t=26)** We have already established what AI models, architectures, and data sets are in previous videos.
 >
@@ -1960,7 +1939,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980&t=71)** In practice, many developers and organizations do not train their own AI models.
 >
-> **[1:17](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980&t=77)** Instead, they connect to pretrained AI systems through APIs provided by platforms like OpenAI, Hugging Face, Google, and Microsoft.
+> **[1:17](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980&t=77)** Instead, they connect to pretrained AI systems through APIs provided by platforms like OpenAI, [[Hugging Face]], [[Google]], and [[Microsoft]].
 >
 > **[1:29](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980&t=89)** When an application communicates with an AI model through an API, we refer to it as an AI API.
 >
@@ -1974,9 +1953,9 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980&t=124)** Training and maintaining AI models can be expensive.
 >
-> **[2:08](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980&t=128)** AI APIs eliminates the need for costly hardware and model development, enabling businesses to pay only for what they use.
+> **[2:08](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980&t=128)** AI APIs eliminates the need for costly [[Hardware]] and model development, enabling businesses to pay only for what they use.
 >
-> **[2:18](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980&t=138)** Scalability.
+> **[2:18](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980&t=138)** [[Scalability]].
 >
 > **[2:20](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980&t=140)** AI APIs are hosted on cloud platforms, allowing applications to scale effortlessly as demand increases.
 >
@@ -1988,7 +1967,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980&t=177)** Variety.
 >
-> **[2:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980&t=179)** Access to a broad range of pretrained AI models for various tasks, including natural language processing, computer vision, and recommendation systems.
+> **[2:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980&t=179)** Access to a broad range of pretrained AI models for various tasks, including [[Natural Language Processing (NLP)|natural language processing]], [[Computer Vision]], and recommendation systems.
 >
 > **[3:10](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980&t=190)** Using an AI API typically involves the following steps.
 >
@@ -2000,7 +1979,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980&t=207)** Make API request.
 >
-> **[3:28](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980&t=208)** Send data such as text, images or audio to the API using an HTTP request, typically via REST or GraphQL.
+> **[3:28](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980&t=208)** Send data such as text, images or audio to the API using an HTTP request, typically via [[Representational State Transfer (REST)|REST]] or [[GraphQL]].
 >
 > **[3:40](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/what-are-ai-application-programming-interfaces-apis?u=76281980&t=220)** Process API responses.
 >
@@ -2016,7 +1995,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (25), api (11), data (4), application (3), [[Application Programming Interfaces (API)|Application programming interfaces]] (2)
+> **Frameworks & Libraries:** [[Application Programming Interfaces (API)|Application programming interfaces]] (2), [[Hugging Face]] (2), [[Google]] (1), [[Microsoft]] (1), [[Hardware]] (1)
 > **Env Vars:** api (11), sota (1), http (1), rest (1)
 > **Analogies:** just like (2), for example (1), such as (1)
 > **Cross-References:** in the next (2)
@@ -2024,12 +2003,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - we (1)
 
-#### Explore Hugging Face
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980)
+#### [Explore Hugging Face](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=0)** - [Instructor] In the AI ecosystem, Hugging Face is one of the most popular platforms for assessing and sharing pre-trained machine learning models.
+> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=0)** - [Instructor] In the AI ecosystem, [[Hugging Face]] is one of the most popular platforms for assessing and sharing pre-trained machine learning models.
 >
 > **[0:08](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=8)** It has become a central and collaborative hub for sharing and discovering thousands of pre-trained models, datasets, and machine learning applications, known as spaces.
 >
@@ -2037,7 +2015,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=27)** You can consider it a type of app store for AI models.
 >
-> **[0:32](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=32)** In this video, we will explore the platform by visiting [huggingface.co](https://huggingface.co).
+> **[0:32](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=32)** In this video, we will explore the platform by visiting [[[Hugging Face|huggingface]].co](https://huggingface.co).
 >
 > **[0:38](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=38)** We'll take a thought of the on page and key sections.
 >
@@ -2049,7 +2027,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=76)** We'll cover how to use this element to effectively find what you're looking for.
 >
-> **[1:21](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=81)** So let's say we are looking for models that are related to natural language processing.
+> **[1:21](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=81)** So let's say we are looking for models that are related to [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[1:30](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=90)** We can search that in the search bar directly and do natural language processing.
 >
@@ -2063,7 +2041,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=136)** If you click on this, it will attempt to filter models related to this for you.
 >
-> **[2:23](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=143)** If the task you're looking for is related to computer vision, this is also an opportunity to get familiar with all manner of tasks.
+> **[2:23](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=143)** If the task you're looking for is related to [[Computer Vision]], this is also an opportunity to get familiar with all manner of tasks.
 >
 > **[2:31](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=151)** For example, in the computer vision, we have depth estimation, image classification, object detection, image detection, zero shot classification, and you have your options or models to look at.
 >
@@ -2083,7 +2061,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=220)** You can search by libraries.
 >
-> **[3:43](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=223)** These are some of the most popular libraries, if you care about those based on PyTorch TensorFlow, JAX, Transformers, PEFT, TensorFlow Keras, spaCy.
+> **[3:43](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=223)** These are some of the most popular libraries, if you care about those based on [[PyTorch]] [[TensorFlow]], JAX, Transformers, PEFT, TensorFlow Keras, [[spaCy]].
 >
 > **[3:56](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=236)** You can also just search using specific tools if that's what you care about.
 >
@@ -2097,7 +2075,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=269)** And as expected, we know that common voice is related to speech.
 >
-> **[4:33](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=273)** And if you look at these models, about 1,481 of them, you can see they are labeled by the task automatic speech recognition.
+> **[4:33](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=273)** And if you look at these models, about 1,481 of them, you can see they are labeled by the task automatic [[Speech Recognition]].
 >
 > **[4:43](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=283)** You have details about when they were last updated, the number of downloads, and the number of people who like them.
 >
@@ -2111,7 +2089,7 @@ created: 2026-05-02
 >
 > **[5:41](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=341)** And we also have spaces, which are some form of application that people have deployed on Hugging Face.
 >
-> **[5:47](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=347)** You can also ask directly using word search, and you can play around with different type of tasks.
+> **[5:47](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=347)** You can also ask directly using [[Microsoft Word|word]] search, and you can play around with different type of tasks.
 >
 > **[5:54](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-hugging-face?u=76281980&t=354)** If you would like to generate image, these are some of the spaces.
 >
@@ -2147,7 +2125,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (11), [[Hugging Face]] (6), [[Natural Language Processing (NLP)|Natural language processing]] (4), ai (2), [[Computer Vision]] (2)
+> **Frameworks & Libraries:** [[Hugging Face]] (6), [[Natural Language Processing (NLP)|Natural language processing]] (4), [[Computer Vision]] (2), [[TensorFlow]] (2), [[Hugging Face|Huggingface]] (1)
 > **Analogies:** for example (4), such as (2)
 > **UI Navigation:** click on (5)
 > **Env Vars:** jax (1), peft (1), api (1)
@@ -2156,8 +2134,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1), make (1)
 > **Code Identifiers:** spacy (1)
 
-#### Product sentiment analysis with Hugging Face model
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/product-sentiment-analysis-with-hugging-face-model?u=76281980)
+#### [Product sentiment analysis with Hugging Face model](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/product-sentiment-analysis-with-hugging-face-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2165,9 +2142,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/product-sentiment-analysis-with-hugging-face-model?u=76281980&t=9)** In this video, we will practice using the fine-tuned BERT-based model to perform a sentiment analysis task.
 >
-> **[0:19](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/product-sentiment-analysis-with-hugging-face-model?u=76281980&t=19)** We will run our code using the notebook at colab.[google.com](https://google.com).
+> **[0:19](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/product-sentiment-analysis-with-hugging-face-model?u=76281980&t=19)** We will run our code using the notebook at colab.[[[Google]].com](https://google.com).
 >
-> **[0:24](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/product-sentiment-analysis-with-hugging-face-model?u=76281980&t=24)** To select our model on Hugging Face in the Filter by name, search for BERT, meaning we want the BERT-based model, that is fine-tuned for sentiment analysis.
+> **[0:24](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/product-sentiment-analysis-with-hugging-face-model?u=76281980&t=24)** To select our model on [[Hugging Face]] in the Filter by name, search for BERT, meaning we want the BERT-based model, that is fine-tuned for sentiment analysis.
 >
 > **[0:39](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/product-sentiment-analysis-with-hugging-face-model?u=76281980&t=39)** Several models are suggested, but we will be going for this.
 >
@@ -2231,7 +2208,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Hugging Face]] (3), data (3), [[Search]] (2), next (2)
+> **Frameworks & Libraries:** [[Hugging Face]] (3), [[Google]] (1)
 > **Env Vars:** bert (3), cpu (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for example (3)
@@ -2240,20 +2217,19 @@ created: 2026-05-02
 > **Tools:** colab (1)
 > **Speakers:** - [narrator] (1)
 
-#### Explore OpenAI developer platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-openai-developer-platform?u=76281980)
+#### [Explore OpenAI developer platform](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-openai-developer-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-openai-developer-platform?u=76281980&t=0)** - [Instructor] OpenAI is a leading AI research and deployment company known for groundbreaking models, such as the GPT series, think GPT-4, GPT-3.5 for language understanding and generation, DALL-E for image creation and Sora for video generation.
+> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-openai-developer-platform?u=76281980&t=0)** - [Instructor] OpenAI is a leading AI research and deployment company known for groundbreaking models, such as the GPT series, think [[GPT-4]], GPT-3.5 for language understanding and generation, [[DALL-E]] for image creation and Sora for video generation.
 >
-> **[0:19](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-openai-developer-platform?u=76281980&t=19)** While end users might interact with these technologies through interfaces like ChatGPT, OpenAI's core offering for developers is different.
+> **[0:19](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-openai-developer-platform?u=76281980&t=19)** While end users might interact with these technologies through interfaces like [[ChatGPT]], OpenAI's core offering for developers is different.
 >
 > **[0:30](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-openai-developer-platform?u=76281980&t=30)** It provides access to these powerful proprietary models primarily through an application programming interface, API.
 >
 > **[0:40](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-openai-developer-platform?u=76281980&t=40)** This developer-focused approach allows businesses and programmers to integrate cutting-edge AI directly into their own application or use it for large-scale processing tasks that go beyond typical user interface interaction.
 >
-> **[0:56](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-openai-developer-platform?u=76281980&t=56)** Unlike community-driven OB such as Hugging Face, which hosts many different models, OpenAI serves as a direct source for developers seeking to leverage its specific advanced AI capabilities via a structured API.
+> **[0:56](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-openai-developer-platform?u=76281980&t=56)** Unlike community-driven OB such as [[Hugging Face]], which hosts many different models, OpenAI serves as a direct source for developers seeking to leverage its specific advanced AI capabilities via a structured API.
 >
 > **[1:14](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-openai-developer-platform?u=76281980&t=74)** In this video, we will explore the OpenAI developer platform at platform.[openai.com](https://openai.com).
 >
@@ -2309,9 +2285,9 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-openai-developer-platform?u=76281980&t=244)** If it's for practice, you may not really care about pricing, but if you're a developer, you are a team lead, and you're making decisions like this, this is where you find this type of information, and in order to test it and see what works.
 >
-> **[4:23](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-openai-developer-platform?u=76281980&t=263)** You can also look at different software developer kits, SDKs, and how to incorporate them for different programming languages, from JavaScript to Python to .NET, Java, and Go.
+> **[4:23](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-openai-developer-platform?u=76281980&t=263)** You can also look at different software developer kits, SDKs, and how to incorporate them for different programming languages, from [[JavaScript]] to [[Python (Programming Language)|Python]] to .NET, [[Java]], and Go.
 >
-> **[4:40](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-openai-developer-platform?u=76281980&t=280)** There's also some formal documentation on how to use this OpenAI API for text generation and prompting, images and visions, audio and speech data.
+> **[4:40](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-openai-developer-platform?u=76281980&t=280)** There's also some formal documentation on how to use this [[OpenAI API]] for text generation and prompting, images and visions, audio and speech data.
 >
 > **[4:53](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-openai-developer-platform?u=76281980&t=293)** If you are creating structured output for function calling and other details like conversation states, all this information are available here, and it's important that you look through them.
 >
@@ -2329,7 +2305,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), ai (3), [[GPT-4]] (2), application (2), [[Programming]] (2)
+> **Frameworks & Libraries:** [[GPT-4]] (2), [[DALL-E]] (1), [[ChatGPT]] (1), [[Hugging Face]] (1), [[JavaScript]] (1)
 > **Env Vars:** gpt (7), api (7), dall (1), net (1)
 > **CLI Commands:** make (1), find (1), python (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -2338,16 +2314,15 @@ created: 2026-05-02
 > **URLs:** [openai.com](https://openai.com) (1)
 > **UI Navigation:** toggle (1)
 
-#### Image generation using OpenAI API
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/image-generation-using-openai-api?u=76281980)
+#### [Image generation using OpenAI API](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/image-generation-using-openai-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/image-generation-using-openai-api?u=76281980&t=0)** - [Instructor] You may have generated images, using the ChatGPT interface.
+> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/image-generation-using-openai-api?u=76281980&t=0)** - [Instructor] You may have generated images, using the [[ChatGPT]] interface.
 >
 > **[0:05](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/image-generation-using-openai-api?u=76281980&t=5)** In this video, we'll learn how to do the same using the OpenAI developer API key.
 >
-> **[0:12](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/image-generation-using-openai-api?u=76281980&t=12)** We'll be running the code on collab.reset.[google.com](https://google.com), or you can use any Python ID that you prefer.
+> **[0:12](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/image-generation-using-openai-api?u=76281980&t=12)** We'll be running the code on collab.reset.[[[Google]].com](https://google.com), or you can use any [[Python (Programming Language)|Python]] ID that you prefer.
 >
 > **[0:21](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/image-generation-using-openai-api?u=76281980&t=21)** First, import OpenAI.
 >
@@ -2359,7 +2334,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/image-generation-using-openai-api?u=76281980&t=59)** And in this function, we define the model.
 >
-> **[1:04](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/image-generation-using-openai-api?u=76281980&t=64)** We want to use Dall-E.
+> **[1:04](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/image-generation-using-openai-api?u=76281980&t=64)** We want to use [[DALL-E]].
 >
 > **[1:07](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/image-generation-using-openai-api?u=76281980&t=67)** So this means you can use any other image model that is available on the Python API interface.
 >
@@ -2459,7 +2434,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), [[DALL-E]] (5), api (3), [[Python (Programming Language)|Python]] (3), traffic (2)
+> **Frameworks & Libraries:** [[DALL-E]] (5), [[Python (Programming Language)|Python]] (3), [[ChatGPT]] (1), [[Google]] (1)
 > **Env Vars:** url (6), api (3)
 > **CLI Commands:** python (3), make (1)
 > **Analogies:** imagine (1), for example (1)
@@ -2467,18 +2442,17 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore Google AI Studio
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-google-ai-studio?u=76281980)
+#### [Explore Google AI Studio](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-google-ai-studio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-google-ai-studio?u=76281980&t=0)** - [Instructor] Some of the most important milestones in AI were achieved by Google, including the development of the transform architecture, breakthroughs like AlphaGo and the creation of powerful model of families like Lambda and Gemini.
+> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-google-ai-studio?u=76281980&t=0)** - [Instructor] Some of the most important milestones in AI were achieved by [[Google]], including the development of the transform architecture, breakthroughs like AlphaGo and the creation of powerful model of families like Lambda and [[Gemini]].
 >
-> **[0:15](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-google-ai-studio?u=76281980&t=15)** Some of their most popular consumer-facing products that everyday utilize AI include, Google Search, Google Assistant, Google Photos, Google Translate, AI features within Gmail, and the Gemini conversational AI assistant.
+> **[0:15](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-google-ai-studio?u=76281980&t=15)** Some of their most popular consumer-facing [[Microsoft Products|products]] that everyday utilize AI include, Google Search, Google Assistant, Google Photos, Google Translate, AI features within Gmail, and the Gemini [[Conversational AI]] assistant.
 >
-> **[0:32](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-google-ai-studio?u=76281980&t=32)** For developers, the primary entry point for experimenting and prototyping is Google AI Studio.
+> **[0:32](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-google-ai-studio?u=76281980&t=32)** For developers, the primary entry point for experimenting and [[Prototyping]] is Google AI Studio.
 >
-> **[0:39](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-google-ai-studio?u=76281980&t=39)** For more scalable and enterprise-grade solutions, these capabilities are often managed within the broader Google Cloud Vertex AI platform.
+> **[0:39](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-google-ai-studio?u=76281980&t=39)** For more scalable and enterprise-grade solutions, these capabilities are often managed within the broader [[Google Cloud Platform (GCP)|Google Cloud]] [[Vertex]] AI platform.
 >
 > **[0:48](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-google-ai-studio?u=76281980&t=48)** This platform's offers access to Google's state-of-the-art models through APIs.
 >
@@ -2488,7 +2462,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-google-ai-studio?u=76281980&t=74)** As at the time of this recording, some of the families of Model are available at Gemini, Imagen, Veo, and Gemma.
 >
-> **[1:25](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-google-ai-studio?u=76281980&t=85)** And for some of the solutions you can build with Gemini and you have access to things like Google API, Google AI Studio and their instructions on fine tuning models and how to run Google AI models on edge devices and building responsibly with some of the generative AI toolkit.
+> **[1:25](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-google-ai-studio?u=76281980&t=85)** And for some of the solutions you can build with Gemini and you have access to things like Google API, Google AI Studio and their instructions on [[Fine Tuning]] models and how to run Google AI models on edge devices and building responsibly with some of the [[Generative AI]] toolkit.
 >
 > **[1:48](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-google-ai-studio?u=76281980&t=108)** Let's look at the Gemini API.
 >
@@ -2496,7 +2470,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-google-ai-studio?u=76281980&t=121)** So you can easily assess that from here.
 >
-> **[2:05](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-google-ai-studio?u=76281980&t=125)** And you also have details on integrating with different libraries like Python, JavaScript, Go and REST.
+> **[2:05](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-google-ai-studio?u=76281980&t=125)** And you also have details on integrating with different libraries like [[Python (Programming Language)|Python]], [[JavaScript]], Go and [[Representational State Transfer (REST)|REST]].
 >
 > **[2:13](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-google-ai-studio?u=76281980&t=133)** These are some of the code snippets.
 >
@@ -2548,7 +2522,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-google-ai-studio?u=76281980&t=290)** It has several examples of prompts to use, how to get started, audio understanding, document understanding, several use cases of what you can do with this.
 >
-> **[5:03](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-google-ai-studio?u=76281980&t=303)** There are also specific guides on prompt engineering.
+> **[5:03](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-google-ai-studio?u=76281980&t=303)** There are also specific guides on [[Prompt Engineering]].
 >
 > **[5:06](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-google-ai-studio?u=76281980&t=306)** How should you prompt?
 >
@@ -2580,7 +2554,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (14), ai (9), [[Gemini]] (7), api (7), prompt (3)
+> **Frameworks & Libraries:** [[Google]] (14), [[Gemini]] (7), [[Microsoft Products|Products]] (1), [[Conversational AI]] (1), [[Prototyping]] (1)
 > **Env Vars:** api (7), rest (1)
 > **Versions:** 2.5 (7)
 > **CLI Commands:** make (2), python (1)
@@ -2589,18 +2563,17 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 
-#### Create a conversational chatbot using the Google Gemini API
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/create-a-coversational-chatbot-using-google-s-gemini-api?u=76281980)
+#### [Create a conversational chatbot using the Google Gemini API](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/create-a-coversational-chatbot-using-google-s-gemini-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/create-a-coversational-chatbot-using-google-s-gemini-api?u=76281980&t=0)** - [Instructor] Conversational chatbots are one of the most popular use cases for artificial intelligence today.
+> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/create-a-coversational-chatbot-using-google-s-gemini-api?u=76281980&t=0)** - [Instructor] Conversational chatbots are one of the most popular use cases for [[Artificial Intelligence (AI)|artificial intelligence]] today.
 >
 > **[0:07](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/create-a-coversational-chatbot-using-google-s-gemini-api?u=76281980&t=7)** Historically, building capable chatbots required substantial development efforts, often starting from the ground up.
 >
-> **[0:16](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/create-a-coversational-chatbot-using-google-s-gemini-api?u=76281980&t=16)** However, with the advent of powerful pre-trained models, like Google's Gemini, developers can now leverage sophisticated conversational abilities much more readily, significantly simplifying the process.
+> **[0:16](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/create-a-coversational-chatbot-using-google-s-gemini-api?u=76281980&t=16)** However, with the advent of powerful pre-trained models, like [[Google]]'s [[Gemini]], developers can now leverage sophisticated conversational abilities much more readily, significantly simplifying the process.
 >
-> **[0:31](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/create-a-coversational-chatbot-using-google-s-gemini-api?u=76281980&t=31)** In this video, we demonstrate how to build a simple conversational chatbot in Python using one of the Gemini models through its API.
+> **[0:31](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/create-a-coversational-chatbot-using-google-s-gemini-api?u=76281980&t=31)** In this video, we demonstrate how to build a simple conversational chatbot in [[Python (Programming Language)|Python]] using one of the Gemini models through its API.
 >
 > **[0:42](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/create-a-coversational-chatbot-using-google-s-gemini-api?u=76281980&t=42)** First, pip install, google-generativeai.
 >
@@ -2646,7 +2619,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/create-a-coversational-chatbot-using-google-s-gemini-api?u=76281980&t=213)** Okay, so now we have a mini chatbot that can accept input, and if we don't type either exit or quit like we specified, it should respond to us.
 >
-> **[3:43](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/create-a-coversational-chatbot-using-google-s-gemini-api?u=76281980&t=223)** So let's ask, "What is generative AI?"
+> **[3:43](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/create-a-coversational-chatbot-using-google-s-gemini-api?u=76281980&t=223)** So let's ask, "What is [[Generative AI]]?"
 >
 > **[3:50](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/create-a-coversational-chatbot-using-google-s-gemini-api?u=76281980&t=230)** So we are asking a chatbot that is using this model in the background to respond to us on what is generative AI.
 >
@@ -2680,7 +2653,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (9), [[Gemini]] (6), [[Generative AI]] (5), next (4), [[Google]] (3)
+> **Frameworks & Libraries:** [[Gemini]] (6), [[Generative AI]] (5), [[Google]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** user_input (2), start_chat (1), send_message (1)
 > **CLI Commands:** python (1), pip (1)
 > **Env Vars:** api (2)
@@ -2689,16 +2662,15 @@ created: 2026-05-02
 > **Prerequisites:** install (1), configure (1)
 > **Versions:** 2.0 (1)
 
-#### Explore GitHub Models
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-github-models?u=76281980)
+#### [Explore GitHub Models](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-github-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-github-models?u=76281980&t=0)** - [Instructor] GitHub is the world's leading platform for hosting and collaborating on code.
+> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-github-models?u=76281980&t=0)** - [Instructor] [[GitHub]] is the world's leading platform for hosting and collaborating on code.
 >
-> **[0:04](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-github-models?u=76281980&t=4)** It's where developers share projects, contribute to open source software, and managed version control using Git.
+> **[0:04](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-github-models?u=76281980&t=4)** It's where developers share projects, contribute to open source software, and managed [[Version Control]] using [[Git]].
 >
-> **[0:12](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-github-models?u=76281980&t=12)** It has integrated AI-powered systems like GitHub Copilot, an AI pair programmer, providing real-time code suggestions, completions, and conversational assistance directly within the development environment.
+> **[0:12](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-github-models?u=76281980&t=12)** It has integrated AI-powered systems like [[GitHub Copilot]], an AI pair programmer, providing [[Real-Time]] code suggestions, completions, and conversational assistance directly within the development environment.
 >
 > **[0:27](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-github-models?u=76281980&t=27)** GitHub also leverages AI and machine learning for features, like advanced code scanning to find security vulnerabilities and improved semantic code search to better understand code intent.
 >
@@ -2708,7 +2680,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-github-models?u=76281980&t=59)** Why you can freely explore and experiment with Models?
 >
-> **[1:03](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-github-models?u=76281980&t=63)** Deploying application at scale requires a paid Azure account and an access token.
+> **[1:03](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-github-models?u=76281980&t=63)** Deploying application at scale requires a paid [[Microsoft Azure|Azure]] account and an access token.
 >
 > **[1:09](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-github-models?u=76281980&t=69)** This ensures secure, reliable, and production-ready usage.
 >
@@ -2718,11 +2690,11 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-github-models?u=76281980&t=91)** On the GitHub interface, these are some of the ready models.
 >
-> **[1:35](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-github-models?u=76281980&t=95)** We have OpenAI GPT-4 0.1, DeepSeek version 3, Llama Scout.
+> **[1:35](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-github-models?u=76281980&t=95)** We have OpenAI [[GPT-4]] 0.1, DeepSeek version 3, [[LLaMA]] Scout.
 >
 > **[1:42](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-github-models?u=76281980&t=102)** Let's view the entire catalog by exploring the full model catalog so we can see a range of models that are available here.
 >
-> **[1:52](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-github-models?u=76281980&t=112)** We have the Phi series by Microsoft.
+> **[1:52](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-github-models?u=76281980&t=112)** We have the Phi series by [[Microsoft]].
 >
 > **[1:55](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-github-models?u=76281980&t=115)** We have Command A by Cohere, and we have some of the Llama models.
 >
@@ -2730,11 +2702,11 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-github-models?u=76281980&t=142)** So now that you have a general familiarity with GitHub AI Models offering, we can try different models in the playground.
 >
-> **[2:32](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-github-models?u=76281980&t=152)** In the next video, we can dive into comparing different models and show how to integrate them directly into GitHub Codespaces for a seamless development experience.
+> **[2:32](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/explore-github-models?u=76281980&t=152)** In the next video, we can dive into comparing different models and show how to integrate them directly into GitHub [[Codespaces]] for a seamless development experience.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (9), ai (5), [[LLaMA]] (2), next (2), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (9), [[LLaMA]] (2), [[Version Control]] (1), [[Git]] (1), [[GitHub Copilot]] (1)
 > **Tools:** github (10)
 > **CLI Commands:** git (1), find (1)
 > **Versions:** 0.1 (1), version 3 (1)
@@ -2743,14 +2715,13 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 
-#### Compare GitHub Models and run in Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/compare-github-models-and-run-in-codespaces?u=76281980)
+#### [Compare GitHub Models and run in Codespaces](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/compare-github-models-and-run-in-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/compare-github-models-and-run-in-codespaces?u=76281980&t=0)** - [Narrator] In this video, we'll compare two DeepSeek models available in GitHub models.
+> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/compare-github-models-and-run-in-codespaces?u=76281980&t=0)** - [Narrator] In this video, we'll compare two DeepSeek models available in [[GitHub]] models.
 >
-> **[0:05](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/compare-github-models-and-run-in-codespaces?u=76281980&t=5)** Then we generate the code space to experiment with some preset generative AI code examples and see the models in action.
+> **[0:05](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/compare-github-models-and-run-in-codespaces?u=76281980&t=5)** Then we generate the code space to experiment with some preset [[Generative AI]] code examples and see the models in action.
 >
 > **[0:13](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/compare-github-models-and-run-in-codespaces?u=76281980&t=13)** I should mention that you can decide to compare any two models and not necessarily the ones that I chose.
 >
@@ -2790,7 +2761,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/compare-github-models-and-run-in-codespaces?u=76281980&t=138)** So in GitHub models, you can directly click on use this model.
 >
-> **[2:22](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/compare-github-models-and-run-in-codespaces?u=76281980&t=142)** And if you want to use this model, there are options either to get API keys, you can create the personal access token via GitHub or Azure AI.
+> **[2:22](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/compare-github-models-and-run-in-codespaces?u=76281980&t=142)** And if you want to use this model, there are options either to get API keys, you can create the personal access token via GitHub or [[Microsoft Azure|Azure]] AI.
 >
 > **[2:32](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/compare-github-models-and-run-in-codespaces?u=76281980&t=152)** Let's say you are putting this in production in your app and it gives all the documentation of all the dependencies of what you need to do to use this particular model in production.
 >
@@ -2800,7 +2771,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/compare-github-models-and-run-in-codespaces?u=76281980&t=183)** So as this code space is being spun up, so we can toggle the chat.
 >
-> **[3:12](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/compare-github-models-and-run-in-codespaces?u=76281980&t=192)** In this code space, we have opportunity to communicate with Copilot, which is an AI powered chart interface.
+> **[3:12](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/compare-github-models-and-run-in-codespaces?u=76281980&t=192)** In this code space, we have opportunity to communicate with [[Microsoft Copilot|Copilot]], which is an AI powered chart interface.
 >
 > **[3:20](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/compare-github-models-and-run-in-codespaces?u=76281980&t=200)** So you can chat about your code, you can refer to the file types in code spaces while using Copilot to ask your questions.
 >
@@ -2822,7 +2793,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/compare-github-models-and-run-in-codespaces?u=76281980&t=260)** So a good example for you is to prompt for that.
 >
-> **[4:22](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/compare-github-models-and-run-in-codespaces?u=76281980&t=262)** In some of those folders there are things like, for example, there's Azure AI inference, there's open AI, there are different Python files there.
+> **[4:22](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/compare-github-models-and-run-in-codespaces?u=76281980&t=262)** In some of those folders there are things like, for example, there's Azure AI inference, there's open AI, there are different [[Python (Programming Language)|Python]] files there.
 >
 > **[4:34](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/compare-github-models-and-run-in-codespaces?u=76281980&t=274)** So you can go ahead and ask Copilot on how to play around with this.
 >
@@ -2830,7 +2801,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (11), [[Microsoft Copilot|Copilot]] (6), ai (5), prompt (2), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[GitHub]] (11), [[Microsoft Copilot|Copilot]] (6), [[Microsoft Azure|Azure]] (2), [[Generative AI]] (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** github (11)
 > **UI Navigation:** click on (3), go to (1), toggle (1)
 > **Prerequisites:** set up (2), setup (1)
@@ -2839,8 +2810,7 @@ created: 2026-05-02
 > **Analogies:** just like (1), for example (1)
 > **URLs:** [github.com](https://github.com) (1)
 
-#### Generate code and architecture with GitHub Models
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generate-code-and-architecture-with-github-models?u=76281980)
+#### [Generate code and architecture with GitHub Models](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generate-code-and-architecture-with-github-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2854,7 +2824,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generate-code-and-architecture-with-github-models?u=76281980&t=32)** It's a great exercise for you to poke around and figure it out.
 >
-> **[0:39](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generate-code-and-architecture-with-github-models?u=76281980&t=39)** To assess the models, remember to go to [github.com/marketplace/models](https://github.com/marketplace/models).
+> **[0:39](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generate-code-and-architecture-with-github-models?u=76281980&t=39)** To assess the models, remember to go to [[[GitHub]].com/marketplace/models](https://github.com/marketplace/models).
 >
 > **[0:45](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generate-code-and-architecture-with-github-models?u=76281980&t=45)** And on the select model, let's look for Codestral 25.01.
 >
@@ -2862,7 +2832,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generate-code-and-architecture-with-github-models?u=76281980&t=58)** "What will the code architecture for a chatbot software using an AI API look like?"
 >
-> **[1:17](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generate-code-and-architecture-with-github-models?u=76281980&t=77)** Okay, so Codestral is going into the details of what the high-level architecture of this type of application, an AI application, that it's showing what the things designed in the chatbot software, what the architecture will look like, and it's given the high-level architectural overview for such a system that it's going to need the user interface and that includes the front end and backend, talks about the backend server, AI API integration, what the database will look like, some form of analytics and monitoring, security, deployment and scalability, continuous integration and deployment.
+> **[1:17](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generate-code-and-architecture-with-github-models?u=76281980&t=77)** Okay, so Codestral is going into the details of what the high-level architecture of this type of application, an AI application, that it's showing what the things designed in the chatbot software, what the architecture will look like, and it's given the high-level architectural overview for such a system that it's going to need the user interface and that includes the front end and backend, talks about the backend server, AI API integration, what the database will look like, some form of analytics and monitoring, security, deployment and [[Scalability]], [[Continuous Integration (CI)|continuous integration]] and deployment.
 >
 > **[2:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/generate-code-and-architecture-with-github-models?u=76281980&t=120)** And it also went higher to show some example code architecture showing the actual code of what things you may need for this type of application.
 >
@@ -2892,7 +2862,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), application (3), [[GitHub]] (2), prompt (2), chatbot (2)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Scalability]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Versions:** 25.01 (2), 24.11 (2)
 > **Env Vars:** api (2)
 > **Tools:** github (2)
@@ -2901,58 +2871,57 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Best Practices:** remember to (1)
 
-#### Accessing AI models via cloud providers
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980)
+#### [Accessing AI models via cloud providers](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=0)** - [Instructor] Modern software development and deployment workflows are increasingly centered around cloud platforms.
+> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=0)** - [Instructor] Modern [[Software Development]] and deployment workflows are increasingly centered around cloud platforms.
 >
-> **[0:06](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=6)** As a result, the seamless integration of artificial intelligence capabilities into this environment have become essential for building next-generation applications.
+> **[0:06](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=6)** As a result, the seamless integration of [[Artificial Intelligence (AI)|artificial intelligence]] capabilities into this environment have become essential for building next-generation applications.
 >
-> **[0:17](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=17)** Having AI models readily available on the cloud, enables developers to leverage scalable compute power, connect directly to data sources, utilize managed infrastructure, and implement robust MLOps practices with ease.
+> **[0:17](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=17)** Having AI models readily available on the cloud, enables developers to leverage scalable compute power, connect directly to data sources, utilize managed infrastructure, and implement robust [[MLOps]] practices with ease.
 >
-> **[0:34](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=34)** In this video, we'll explore the diverse AI model services offered by the leading public cloud platforms, such as Amazon Web Services, AWS, Microsoft Azure, and Google Cloud Platform, GCP.
+> **[0:34](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=34)** In this video, we'll explore the diverse AI model services offered by the leading public cloud platforms, such as [[Amazon Web Services (AWS)|Amazon Web Services]], AWS, [[Microsoft Azure]], and [[Google Cloud Platform (GCP)|Google Cloud Platform]], GCP.
 >
-> **[0:51](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=51)** Each platform provides a unique mix of proprietary models, access to widely used third-party models and comprehensive tools for building, training, and deploying custom AI solutions.
+> **[0:51](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=51)** Each platform provides a unique mix of proprietary models, access to widely used third-party models and comprehensive tools for building, training, and deploying custom [[AI Solutions]].
 >
 > **[1:05](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=65)** For AWS, the core AI services include Amazon SageMaker, a comprehensive end-to-end machine learning platform for building, training, deploying, and managing machine learning models at scale.
 >
-> **[1:20](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=80)** It includes tools such as SageMaker Studio, Autopilot, and Jumpstart for model discovery; Amazon Bedrock, a managed service providing API access to a wide range of foundation models from Amazon Titan; and leading third-party providers, such as Anthropic's Claude, Meta's Llama, and Cohere.
+> **[1:20](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=80)** It includes tools such as SageMaker Studio, Autopilot, and Jumpstart for model discovery; Amazon Bedrock, a managed service providing API access to a wide range of foundation models from Amazon Titan; and leading third-party providers, such as Anthropic's Claude, Meta's [[LLaMA]], and Cohere.
 >
 > **[1:47](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=107)** And then they have other specific AI services, like a suite of pre-trained APIs for task like image and video analysis, recognition, speech to text, transcribe, NLP, comprehend, translation, which translates, and more.
 >
-> **[2:07](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=127)** For Microsoft Azure, key offerings include Azure AI Foundry; this is a unified platform designed for developing and deploying generative AI applications and Azure AI APIs.
+> **[2:07](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=127)** For Microsoft Azure, key offerings include [[Azure AI Foundry]]; this is a unified platform designed for developing and deploying [[Generative AI]] applications and [[Microsoft Azure|Azure]] AI APIs.
 >
 > **[2:22](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=142)** It provides a collaborative environment for teams, offering tools for building, testing, deploying, and managing intelligent solutions.
 >
-> **[2:32](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=152)** It supports features like pre-trained models, model fine tuning, and orchestration of large language models' workflows.
+> **[2:32](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=152)** It supports features like pre-trained models, model [[Fine Tuning]], and orchestration of [[Large Language Models (LLM)|large language models]]' workflows.
 >
 > **[2:42](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=162)** It is ideal for developers and data scientists working on generative AI project.
 >
 > **[2:48](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=168)** Azure Machine Learning Studio is a managed platform that enables the development, fine tuning, deployment, and operation of machine learning models at scale.
 >
-> **[2:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=179)** It offers a GUI-based interface, empowering machine learning engineers and data scientists with tools for data preparation, model training and deployment.
+> **[2:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=179)** It offers a GUI-based interface, empowering machine learning engineers and data scientists with tools for [[Data Preparation]], model training and deployment.
 >
-> **[3:12](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=192)** With support for various machine learning frameworks, automated machine learning, auto ML, and low-code development options, Azure Machine Learning Studio ensures accessibility and flexibility in creating and managing machine learning workflows.
+> **[3:12](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=192)** With support for various machine learning frameworks, [[Automated Machine Learning (AutoML)|automated machine learning]], auto ML, and low-code development options, Azure Machine Learning Studio ensures accessibility and flexibility in creating and managing machine learning workflows.
 >
-> **[3:32](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=212)** Azure Cognitive Services, a collection of prebuilt APIs and tools that enable developers to integrate AI capabilities into the applications without needing deep expertise in AI or data science.
+> **[3:32](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=212)** Azure Cognitive Services, a collection of prebuilt APIs and tools that enable developers to integrate AI capabilities into the applications without needing deep expertise in AI or [[Data Science]].
 >
-> **[3:47](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=227)** These services include vision, speech, language, decision-making, and search tasks.
+> **[3:47](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=227)** These services include vision, speech, language, [[Decision-Making]], and search tasks.
 >
-> **[3:55](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=235)** And for GCP, the main components are Vertex AI Studio, generative AI studio.
+> **[3:55](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=235)** And for GCP, the main components are [[Vertex]] AI Studio, generative AI studio.
 >
-> **[4:03](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=243)** This is a collaborative environment for designing prompt, rapid prototyping, tuning models, grounding responses with enterprise data and building agent-based workflows.
+> **[4:03](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=243)** This is a collaborative environment for designing prompt, rapid [[Prototyping]], tuning models, grounding responses with enterprise data and building agent-based workflows.
 >
 > **[4:17](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=257)** Model Garden.
 >
-> **[4:18](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=258)** This is a curated hub providing access to a broad catalog of foundation models, including Google's Gemini family, as well as open-source and third-party models.
+> **[4:18](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=258)** This is a curated hub providing access to a broad catalog of foundation models, including [[Google]]'s [[Gemini]] family, as well as open-source and third-party models.
 >
 > **[4:30](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=270)** Developers can experiment, evaluate, and deploy models directly from this interface.
 >
 > **[4:37](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=277)** Beyond generative AI, Vertex AI provides a robust infrastructure for traditional machine learning development.
 >
-> **[4:46](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=286)** Google Cloud AI APIs.
+> **[4:46](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=286)** [[Google Cloud Platform (GCP)|Google Cloud]] AI APIs.
 >
 > **[4:48](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/accessing-ai-models-via-cloud-providers?u=76281980&t=288)** This is a set of pre-trained APIs for common AI task, such as Vision AI, speech to text, natural language AI, translation AI, and document AI.
 >
@@ -2960,7 +2929,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), data (6), [[Generative AI]] (4), [[Microsoft Azure|Azure]] (4), cloud (3)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Microsoft Azure|Azure]] (4), [[Microsoft Azure]] (2), [[Fine Tuning]] (2), [[Vertex]] (2)
 > **Env Vars:** aws (2), gcp (2), api (1), nlp (1), gui (1)
 > **Definitions:** is a  (5)
 > **Analogies:** such as (4)
@@ -2973,12 +2942,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI development tools and frameworks: IDEs
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ides?u=76281980)
+#### [AI development tools and frameworks: IDEs](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ides?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ides?u=76281980&t=0)** - [Instructor] As with other software, AI code is written in programming languages like Python, R, Java, C++, and increasingly, Julia.
+> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ides?u=76281980&t=0)** - [Instructor] As with other software, AI code is written in programming languages like [[Python (Programming Language)|Python]], R, [[Java]], C++, and increasingly, Julia.
 >
 > **[0:10](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ides?u=76281980&t=10)** Python is arguably the most dominant language in the AI machine learning space, largely due to its simplicity, readability, and most importantly, its vast ecosystem of powerful libraries and frameworks.
 >
@@ -3000,7 +2968,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ides?u=76281980&t=102)** This is ideal for interactive, notebook-style development and data exploration.
 >
-> **[1:48](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ides?u=76281980&t=108)** Google Collaboratory Notebook, a cloud-hosted version of Jupyter that provides free access to GPUs and TPUs.
+> **[1:48](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ides?u=76281980&t=108)** [[Google]] Collaboratory Notebook, a cloud-hosted version of Jupyter that provides free access to GPUs and TPUs.
 >
 > **[1:56](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ides?u=76281980&t=116)** And this is especially popular among students and researchers.
 >
@@ -3008,17 +2976,17 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ides?u=76281980&t=126)** Visual Studio Code, often with Python and Jupyter extension.
 >
-> **[2:11](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ides?u=76281980&t=131)** RStudio, specifically for R programming.
+> **[2:11](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ides?u=76281980&t=131)** [[RStudio]], specifically for R programming.
 >
-> **[2:15](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ides?u=76281980&t=135)** And integrated cloud machine learning platforms like AWS SageMaker Studio, Azure Machine Learning Studio, and Google Claude AI platform notebooks.
+> **[2:15](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ides?u=76281980&t=135)** And integrated cloud machine learning platforms like [[AWS SageMaker]] Studio, [[Microsoft Azure|Azure]] Machine Learning Studio, and Google Claude AI platform notebooks.
 >
 > **[2:28](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ides?u=76281980&t=148)** These tools are increasingly incorporating AI-assisted coding features, making the development process faster and more efficient.
 >
-> **[2:38](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ides?u=76281980&t=158)** As AI development becomes more sophisticated, the choice of IDE depends on factors such as project scale, team collaboration needs, and integration with cloud or on-premise compute environments.
+> **[2:38](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ides?u=76281980&t=158)** As AI development becomes more sophisticated, the choice of IDE depends on factors such as project scale, [[Team Collaboration]] needs, and integration with cloud or on-premise compute environments.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Python (Programming Language)|Python]] (4), [[Java]] (3), data (3), cloud (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Java]] (3), [[Google]] (2), [[RStudio]] (1), [[AWS SageMaker]] (1)
 > **CLI Commands:** python (4), aws (1)
 > **Tools:** jupyter (3), visual studio (1)
 > **Env Vars:** aws (1), ide (1)
@@ -3026,43 +2994,41 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI development tools and frameworks: ML frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ml-frameworks?u=76281980)
+#### [AI development tools and frameworks: ML frameworks](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ml-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ml-frameworks?u=76281980&t=0)** - [Instructor] Using machine learning algorithms in AI development has evolved over years from purely research-based code to practical implementation via frameworks and libraries.
+> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ml-frameworks?u=76281980&t=0)** - [Instructor] Using machine learning [[Algorithms]] in AI development has evolved over years from purely research-based code to practical implementation via frameworks and libraries.
 >
-> **[0:12](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ml-frameworks?u=76281980&t=12)** Frameworks are important for efficiency, optimization, support for hardware acceleration, like with GPUs and TPUs, abstraction of complex operation, and providing standardized tools for building and training models.
+> **[0:12](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ml-frameworks?u=76281980&t=12)** Frameworks are important for efficiency, optimization, support for [[Hardware]] acceleration, like with GPUs and TPUs, abstraction of complex operation, and providing standardized tools for building and training models.
 >
 > **[0:28](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ml-frameworks?u=76281980&t=28)** In this video, we will explore some of the most popular machine learning frameworks and libraries together.
 >
-> **[0:36](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ml-frameworks?u=76281980&t=36)** TensorFlow and PyTorch for deep learning both offer powerful tools for building, training and deploying neural networks with support for GPUs, flexible APIs, and wide adoption across academia and industry.
+> **[0:36](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ml-frameworks?u=76281980&t=36)** [[TensorFlow]] and [[PyTorch]] for [[Deep Learning]] both offer powerful tools for building, training and deploying [[Neural Networks]] with support for GPUs, flexible APIs, and wide adoption across academia and industry.
 >
 > **[0:52](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ml-frameworks?u=76281980&t=52)** Scikit-learn for classical machine learning algorithms.
 >
-> **[0:55](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ml-frameworks?u=76281980&t=55)** This is ideal for tasks like classification regression and clustering unstructured data.
+> **[0:55](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ml-frameworks?u=76281980&t=55)** This is ideal for tasks like classification regression and clustering [[Unstructured Data]].
 >
-> **[1:03](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ml-frameworks?u=76281980&t=63)** XGBoost, LightGBM, and CatBoost, these are some specialized gradient boosts and frameworks often used in data science competitions and some real world business application, especially when working with tabular data.
+> **[1:03](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ml-frameworks?u=76281980&t=63)** XGBoost, LightGBM, and CatBoost, these are some specialized gradient boosts and frameworks often used in [[Data Science]] competitions and some real world business application, especially when working with tabular data.
 >
-> **[1:18](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ml-frameworks?u=76281980&t=78)** Hugging Face Transformers.
+> **[1:18](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ml-frameworks?u=76281980&t=78)** [[Hugging Face]] Transformers.
 >
-> **[1:20](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ml-frameworks?u=76281980&t=80)** This is a go-to library for natural language processing, offering pretrained models and tools for working with transformer based architectures like birth, GPT and T5.
+> **[1:20](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ml-frameworks?u=76281980&t=80)** This is a go-to library for [[Natural Language Processing (NLP)|natural language processing]], offering pretrained models and tools for working with transformer based architectures like birth, GPT and T5.
 >
-> **[1:33](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ml-frameworks?u=76281980&t=93)** Python-based frameworks and libraries are particularly dominant in the AI machine learning landscape.
+> **[1:33](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ml-frameworks?u=76281980&t=93)** [[Python (Programming Language)|Python]]-based frameworks and libraries are particularly dominant in the AI machine learning landscape.
 >
 > **[1:40](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-ml-frameworks?u=76281980&t=100)** A good way to practice is to research similar frameworks available for other languages if your work is based on them, rather than building from scratch.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (2), ai (2), data (2), [[Hardware]] (1), [[TensorFlow]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Hardware]] (1), [[TensorFlow]] (1), [[PyTorch]] (1), [[Deep Learning]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** gpt (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI development tools and frameworks: Debugging and versioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980)
+#### [AI development tools and frameworks: Debugging and versioning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3070,7 +3036,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=3)** So beyond choosing the right languages, ideas, and frameworks, building reliable and reproducible AI systems heavily relies on two crucial practices, rigorous debugging and meticulous versioning.
 >
-> **[0:19](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=19)** While these are essential in all software development, let's explore the specific tools and techniques that are particularly useful for AI development.
+> **[0:19](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=19)** While these are essential in all [[Software Development]], let's explore the specific tools and techniques that are particularly useful for AI development.
 >
 > **[0:30](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=30)** Some of the challenges related to debugging AI and machine learning systems include data problems.
 >
@@ -3092,7 +3058,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=92)** Environment complexity.
 >
-> **[1:34](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=94)** Ensuring compatibility between specific versions of libraries, for example, Tensorflow, PyTorch, Numpy, CUDA drivers, can be a common source of sort of box.
+> **[1:34](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=94)** Ensuring compatibility between specific versions of libraries, for example, [[TensorFlow]], [[PyTorch]], Numpy, CUDA drivers, can be a common source of sort of box.
 >
 > **[1:48](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=108)** Common debugging tools and techniques include traditional debuggers using break points, stepping through the code, and inspecting variables within IDs like VS Code, PyCharm, remain fundamental.
 >
@@ -3126,7 +3092,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=219)** Code.
 >
-> **[3:40](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=220)** The data processing script, model definition, training loop, and evaluation code.
+> **[3:40](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=220)** The [[Data Processing]] script, model definition, training loop, and evaluation code.
 >
 > **[3:47](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=227)** Data.
 >
@@ -3138,7 +3104,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=246)** Environment.
 >
-> **[4:07](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=247)** Versions of programming languages, machine learning frameworks, libraries, and even hardware drivers, like CUDA.
+> **[4:07](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=247)** Versions of programming languages, machine learning frameworks, libraries, and even [[Hardware]] drivers, like CUDA.
 >
 > **[4:16](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=256)** Experiments.
 >
@@ -3146,25 +3112,25 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=265)** Common versioning tools and strategies include Gits, the standard for versioning source code, branching strategies, help manage experiment and futures.
 >
-> **[4:37](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=277)** Git LFS, Large File Storage.
+> **[4:37](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=277)** [[Git]] LFS, Large File Storage.
 >
 > **[4:40](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=280)** An extension to Git designed to handle large files, like dataset or model weight, keeping the main repository lightweight.
 >
-> **[4:49](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=289)** DVC, Data Version Control.
+> **[4:49](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=289)** DVC, Data [[Version Control]].
 >
 > **[4:51](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=291)** An open source tool, specifically built for version and data and models alongside code.
 >
-> **[4:57](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=297)** It works with Git and integrates with cloud storage, like S3, Google Cloud storage, and Azure Block Storage to track large files without storing them directly, Git.
+> **[4:57](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=297)** It works with Git and integrates with [[Cloud Storage]], like S3, [[Google Cloud Platform (GCP)|Google Cloud]] storage, and [[Microsoft Azure|Azure]] Block Storage to track large files without storing them directly, Git.
 >
-> **[5:10](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=310)** MLOps platforms.
+> **[5:10](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=310)** [[MLOps]] platforms.
 >
-> **[5:12](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=312)** Tools like MLflow, weight and biases, CUDA Flow, [Neptune.ai](https://Neptune.ai), and integrated cloud services like AWS SageMaker, Azure Machine Learning, Google Cloud Vertex AI, often provide robust experiment tracking capabilities, automatically logging and versioning code, references, parameters, data sources, metrics, and model artifacts together.
+> **[5:12](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=312)** Tools like [[MLflow]], weight and biases, CUDA Flow, [Neptune.ai](https://Neptune.ai), and integrated [[Cloud Services]] like [[AWS SageMaker]], Azure Machine Learning, Google Cloud [[Vertex]] AI, often provide robust experiment tracking capabilities, automatically logging and versioning code, references, parameters, data sources, metrics, and model artifacts together.
 >
 > **[5:39](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=339)** Containerization, such as with Docker.
 >
 > **[5:42](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=342)** Creating container images capture the entire runtime environment, the operating system, libraries, drivers, ensuring consistency and reproducibility across different machines and development stages.
 >
-> **[5:58](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=358)** In addition to these tools, cloud-based platforms, like AWS SageMaker, Google AI platform, and Azure Machine Learning, provide built-in version control for models and dataset as well as advanced debugging features, like distributed training debugging and error tracking across clusters.
+> **[5:58](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=358)** In addition to these tools, cloud-based platforms, like AWS SageMaker, [[Google]] AI platform, and Azure Machine Learning, provide built-in version control for models and dataset as well as advanced debugging features, like distributed training debugging and error tracking across clusters.
 >
 > **[6:21](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-debugging-and-versioning?u=76281980&t=381)** Effective debugging and comprehensive versioning are non-negotiable for professional AI development.
 >
@@ -3174,7 +3140,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), ai (11), [[Debugging]] (7), [[Git]] (4), cloud (3)
+> **Frameworks & Libraries:** [[Git]] (4), [[Microsoft Azure|Azure]] (3), [[TensorFlow]] (2), [[PyTorch]] (2), [[Version Control]] (2)
 > **Env Vars:** cuda (3), gpu (2), aws (2), nvidia (1), smi (1)
 > **CLI Commands:** git (4), aws (2), docker (1)
 > **Analogies:** for example (4), such as (2)
@@ -3183,12 +3149,11 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Warnings:** troubleshoot (1)
 
-#### AI development tools and frameworks: Data annotation
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-data-annotation?u=76281980)
+#### [AI development tools and frameworks: Data annotation](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-data-annotation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-data-annotation?u=76281980&t=0)** - [Instructor] Compared to typical software workflow, data annotation is one of the most important and inevitable part of building custom AI systems.
+> **[0:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-data-annotation?u=76281980&t=0)** - [Instructor] Compared to typical software workflow, [[Data Annotation]] is one of the most important and inevitable part of building custom AI systems.
 >
 > **[0:09](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-data-annotation?u=76281980&t=9)** Though often labor intensive, data annotation is critical, almost inevitable, and a key differentiator for model performance.
 >
@@ -3232,17 +3197,17 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-data-annotation?u=76281980&t=164)** Many tools and platforms are available.
 >
-> **[2:47](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-data-annotation?u=76281980&t=167)** There are open-source tools like Label Studio, CVAT, Computer Vision Annotation Tool, Labelme, and Doccano which provide flexible, often self-hosted interfaces for various annotation task.
+> **[2:47](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-data-annotation?u=76281980&t=167)** There are open-source tools like Label Studio, CVAT, [[Computer Vision]] Annotation Tool, Labelme, and Doccano which provide flexible, often self-hosted interfaces for various annotation task.
 >
 > **[3:03](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-data-annotation?u=76281980&t=183)** They are popular for research and teams with the resource to manage them.
 >
 > **[3:09](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-data-annotation?u=76281980&t=189)** Commercial tools and platforms.
 >
-> **[3:12](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-data-annotation?u=76281980&t=192)** Vendors such as Scale AI, Appen, Labelbox, V7 Labs, Roboflow, Prodigy offer comprehensive solutions that often integrate annotation interfaces with workforce management, quality control workflow, project management dashboards, and sometimes AI assistance labeling features.
+> **[3:12](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-data-annotation?u=76281980&t=192)** Vendors such as Scale AI, Appen, Labelbox, V7 Labs, Roboflow, Prodigy offer comprehensive solutions that often integrate annotation interfaces with workforce management, quality control workflow, project management [[Dashboards]], and sometimes AI assistance labeling features.
 >
 > **[3:35](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-data-annotation?u=76281980&t=215)** Cloud provider services.
 >
-> **[3:37](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-data-annotation?u=76281980&t=217)** Major cloud platforms offer integrated data labeling services, such as Amazon SageMaker Ground Truth, Google Cloud Vertex AI data labeling, and Azure Machine Learning data labeling, which combines tooling with access to public or private workforces and integrates with their broader machine learning ecosystem.
+> **[3:37](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-data-annotation?u=76281980&t=217)** Major cloud platforms offer integrated data labeling services, such as Amazon SageMaker Ground Truth, [[Google Cloud Platform (GCP)|Google Cloud]] [[Vertex]] AI data labeling, and [[Microsoft Azure|Azure]] Machine Learning data labeling, which combines tooling with access to public or private workforces and integrates with their broader machine learning ecosystem.
 >
 > **[4:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-data-annotation?u=76281980&t=240)** Data annotation quality is important.
 >
@@ -3262,7 +3227,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-data-annotation?u=76281980&t=282)** For complex domains, for example, medical imaging, legal document review, it is essential to have annotators with domain expertise.
 >
-> **[4:52](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-data-annotation?u=76281980&t=292)** Platforms like Labelbox allows you to customize workflows for expert review and quality assurance.
+> **[4:52](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-data-annotation?u=76281980&t=292)** Platforms like Labelbox allows you to customize workflows for expert review and [[Quality Assurance]].
 >
 > **[5:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-development-tools-and-frameworks-data-annotation?u=76281980&t=300)** Effective data annotation is foundational to building high performing AI models.
 >
@@ -3270,14 +3235,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), ai (7), teams (4), management (3), cloud (2)
+> **Frameworks & Libraries:** [[Data Annotation]] (6), [[Computer Vision]] (1), [[Dashboards]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Vertex]] (1)
 > **Analogies:** such as (3), for example (1)
 > **Env Vars:** cvat (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI computing infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980)
+#### [AI computing infrastructure](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3287,9 +3251,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=18)** In fact, one of the key reasons AI has become practical and scalable in recent years is the evolution of computing infrastructure that can efficiently handle the mathematical operations required for machine learning.
 >
-> **[0:33](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=33)** AI models, especially deep learning models, require immense computational resources to handle the complex mathematical operations involved in tasks like training neural networks.
+> **[0:33](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=33)** AI models, especially [[Deep Learning]] models, require immense computational resources to handle the complex mathematical operations involved in tasks like training [[Neural Networks]].
 >
-> **[0:47](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=47)** Specialized hardware accelerators such as GPUs, graphical processing units, or TPUs, tensor processing units, are specifically designed to accelerate these operations, making it possible to train models faster and more efficiently than traditional CPUs.
+> **[0:47](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=47)** Specialized [[Hardware]] accelerators such as GPUs, graphical processing units, or TPUs, tensor processing units, are specifically designed to accelerate these operations, making it possible to train models faster and more efficiently than traditional CPUs.
 >
 > **[1:06](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=66)** Other evolving accelerators are NPUs, neural processing units, integrated into CPUs; or SoCs, system-on-chip; FPGAs, field-programmable gate arrays; and custom ASICs designed for specific AI task, particularly efficient inference on the edge.
 >
@@ -3299,13 +3263,13 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=110)** To meet those demands, there are three approaches to infrastructure: cloud-based, on-premise, and hybrid.
 >
-> **[1:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=119)** The choice between them depend on factors like project scale, budget, privacy, and long-term needs.
+> **[1:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=119)** The choice between them depend on factors like project scale, budget, [[Privacy]], and long-term needs.
 >
 > **[2:07](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=127)** Cloud.
 >
-> **[2:09](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=129)** Cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure offer on-demand access to powerful computing resources specifically optimized for AI workload.
+> **[2:09](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=129)** Cloud providers like [[Amazon Web Services (AWS)|Amazon Web Services]], [[Google Cloud Platform (GCP)|Google Cloud]], and [[Microsoft Azure]] offer on-demand access to powerful computing resources specifically optimized for AI workload.
 >
-> **[2:23](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=143)** Cloud-based infrastructure offers flexibility, scalability, and no maintenance overload.
+> **[2:23](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=143)** Cloud-based infrastructure offers flexibility, [[Scalability]], and no maintenance overload.
 >
 > **[2:29](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=149)** It is particularly well-suited for startups, research teams, or organizations that requires temporary burst of computing power or want to experiment and prototype without large upfront investment.
 >
@@ -3319,13 +3283,13 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=215)** These are servers equipped with GPUs, accelerators, the storage and networking within its own data centers or facilities.
 >
-> **[3:46](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=226)** This approach offers maximum control over the infrastructure, data security and configuration.
+> **[3:46](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=226)** This approach offers maximum control over the infrastructure, [[Data Security]] and configuration.
 >
 > **[3:52](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=232)** While it requires significant upfront capital investment and dedicated IT expertise for management and upkeep, it can be more cost effective for constant, high-utilization workloads or when strict data sovereignty regulations apply.
 >
 > **[4:10](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=250)** It also allows for fine-grain hardware customization, including selection of specific GPU models, memory configuration, and interconnect tailored to AI workloads.
 >
-> **[4:21](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=261)** On-premise setup can offer lower latency and greater data throughput for sensitive use cases like real-time video processing or autonomous systems.
+> **[4:21](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=261)** On-premise setup can offer lower latency and greater data throughput for sensitive use cases like [[Real-Time]] video processing or autonomous systems.
 >
 > **[4:31](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=271)** Organizations with specialized performance requirements often benefit from on-premise setups where they can optimize the entire hardware stack for their specific care application.
 >
@@ -3339,27 +3303,26 @@ created: 2026-05-02
 >
 > **[5:35](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=335)** Hybrid models offer a balanced approach, enabling businesses to optimize for cost, performance, and compliance simultaneously.
 >
-> **[5:45](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=345)** They are ideal for organization undergoing digital transformation or scaling from local R-and-D environment to production-grade systems.
+> **[5:45](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=345)** They are ideal for organization undergoing [[Digital Transformation]] or scaling from local R-and-D environment to production-grade systems.
 >
 > **[5:55](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=355)** Hybrid architectures also facilitate smoother migration paths, allowing organizations to gradually transition workloads between environment as their needs evolve.
 >
 > **[6:09](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=369)** As AI models grow in complexity and scale, the choice of computing infrastructure becomes a strategic decision.
 >
-> **[6:17](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=377)** Whether leveraging the cloud for its flexibility, deploying on-premise for control and compliance, or adopting an hybrid approach for the best of both worlds, aligning your infrastructure with your project goal is essential to delivering scalable, high-performing and sustainable AI solutions.
+> **[6:17](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=377)** Whether leveraging the cloud for its flexibility, deploying on-premise for control and compliance, or adopting an hybrid approach for the best of both worlds, aligning your infrastructure with your project goal is essential to delivering scalable, high-performing and sustainable [[AI Solutions]].
 >
-> **[6:38](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=398)** The right infrastructure decision should balance immediate technical needs with long-term business objectives, considering not just the performance and cost, but also factors like team expertise, data governance requirements, and anticipated growth pattern.
+> **[6:38](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-computing-infrastructure?u=76281980&t=398)** The right infrastructure decision should balance immediate technical needs with long-term business objectives, considering not just the performance and cost, but also factors like team expertise, [[Data Governance]] requirements, and anticipated growth pattern.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), cloud (11), data (7), [[Hardware]] (4), power (2)
+> **Frameworks & Libraries:** [[Hardware]] (4), [[Privacy]] (2), [[Scalability]] (2), [[Deep Learning]] (1), [[Neural Networks]] (1)
 > **Env Vars:** gpu (3)
 > **Analogies:** such as (2), for example (1)
 > **Prerequisites:** set up (1), install (1), setup (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI research platforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980)
+#### [AI research platforms](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3379,19 +3342,19 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980&t=68)** This is arguably one of the most critical resources.
 >
-> **[1:12](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980&t=72)** As a preprint server, it allows researchers to share findings rapidly, often months before formal publication, making it essential for staying on the cutting edge of AI development in areas like [cs.AI](https://cs.AI), artificial intelligence, cs.LG, machine learning, cs.CV, computer vision, and cs.CL, computation and language.
+> **[1:12](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980&t=72)** As a preprint server, it allows researchers to share findings rapidly, often months before formal publication, making it essential for staying on the cutting edge of AI development in areas like [cs.AI](https://cs.AI), [[Artificial Intelligence (AI)|artificial intelligence]], cs.LG, machine learning, cs.CV, [[Computer Vision]], and cs.CL, computation and language.
 >
 > **[1:40](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980&t=100)** Papers with Code, it is tightly integrated with archive.
 >
 > **[1:44](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980&t=104)** This resource is invaluable for practitioners seeking to bridge the theory and practice.
 >
-> **[1:50](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980&t=110)** It directly links research papers to their open-source code implementation, often on GitHub, and meticulously tracks model performance on common benchmarks in datasets valid bots, for example, image classification or language modeling.
+> **[1:50](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980&t=110)** It directly links research papers to their open-source code implementation, often on [[GitHub]], and meticulously tracks model performance on common benchmarks in datasets valid bots, for example, image classification or language modeling.
 >
 > **[2:08](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980&t=128)** This significantly lowers the barrier to reproducing results, comparing approaches and applying cutting-edge research.
 >
 > **[2:19](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980&t=139)** Conference proceedings and websites.
 >
-> **[2:22](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980&t=142)** While arxiv provides early access, the official peer reviewed versions of many seminal papers are presented at the top AI conferences like NeurIPS, Neural Information Processing Systems, ICML, International Conference on Machine Learning, ICLR, international Conference on Learning Representation, CVPR, Conference on Computer Vision and Pattern Recognition, ACL, Annual Meeting of Association of Computational Linguistics, EMNLP, Conference on Empirical Methods in Natural Language Processing.
+> **[2:22](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980&t=142)** While arxiv provides early access, the official peer reviewed versions of many seminal papers are presented at the top AI conferences like NeurIPS, Neural Information Processing Systems, ICML, International Conference on Machine Learning, ICLR, international Conference on Learning Representation, CVPR, Conference on Computer Vision and Pattern Recognition, ACL, Annual Meeting of Association of Computational Linguistics, EMNLP, Conference on Empirical Methods in [[Natural Language Processing (NLP)|Natural Language Processing]].
 >
 > **[2:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980&t=179)** Their official website owes the precedents, the collection of accepted papers, often accompanied by presentation slides, videos, and associated workshop details.
 >
@@ -3409,9 +3372,9 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980&t=239)** Journals typically offer more in-depth archival publications compared to conference papers and involve a thorough, often longer peer review process.
 >
-> **[4:10](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980&t=250)** Some leading journal publishers are Nature Machine Intelligence, IEE, Institute of Electrical and Electronics Engineer, and ACM, Association of Computing Machinery.
+> **[4:10](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980&t=250)** Some leading journal publishers are Nature Machine Intelligence, IEE, Institute of Electrical and [[Electronics]] Engineer, and ACM, Association of Computing Machinery.
 >
-> **[4:24](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980&t=264)** Google Scholar.
+> **[4:24](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980&t=264)** [[Google]] Scholar.
 >
 > **[4:25](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980&t=265)** Although a general academic search engine, Google Scholar remains a vital tool for broad discovery across all publication types in AI.
 >
@@ -3419,7 +3382,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980&t=296)** Technical blogs and research lab websites.
 >
-> **[4:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980&t=299)** Leading industry in academic research labs, for example, Google DeepMind, Meta AI, OpenAI, Microsoft Research, Anthropic, Stanford AI Lab, Berkeley AI Research.
+> **[4:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980&t=299)** Leading industry in academic research labs, for example, Google DeepMind, Meta AI, OpenAI, [[Microsoft]] Research, Anthropic, Stanford AI Lab, Berkeley AI Research.
 >
 > **[5:13](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980&t=313)** Frequently publish blog posts or technical reports alongside or explaining their formal papers.
 >
@@ -3427,13 +3390,13 @@ created: 2026-05-02
 >
 > **[5:36](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980&t=336)** They are excellent resources for gaining intuition and understanding the context of new research directions.
 >
-> **[5:44](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980&t=344)** In addition to this formal channels, community-driven platforms like Cargo and discussion on social media such as X, formerly Twitter, Reddit forums and LinkedIn also play a significant role in the AI ecosystem.
+> **[5:44](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980&t=344)** In addition to this formal channels, community-driven platforms like Cargo and discussion on social media such as X, formerly Twitter, Reddit forums and [[LinkedIn]] also play a significant role in the AI ecosystem.
 >
 > **[5:59](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-research-platforms?u=76281980&t=359)** They offer real-world insight, peer support, implementation tips, and early signal of emerging trends.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Google]] (3), [[Computer Vision]] (2), [[Search]] (2), career (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Computer Vision]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[GitHub]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** icml (1), iclr (1), cvpr (1), acl (1), emnlp (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** find (1), cargo (1)
@@ -3442,8 +3405,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Exercise Files:** source code (1)
 
-#### AI model rankings: Leaderboards, benchmarks, and evaluation trends
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-model-rankings-leaderboards-benchmarks-and-evaluation-trends?u=76281980)
+#### [AI model rankings: Leaderboards, benchmarks, and evaluation trends](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-model-rankings-leaderboards-benchmarks-and-evaluation-trends?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3463,9 +3425,9 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-model-rankings-leaderboards-benchmarks-and-evaluation-trends?u=76281980&t=68)** Benchmarks and leaderboards are based on metrics, and metrics are quantitative measures used to evaluate the performance of AI models on specific task and dataset.
 >
-> **[1:20](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-model-rankings-leaderboards-benchmarks-and-evaluation-trends?u=76281980&t=80)** So to lay a good foundation for our discussion, let's explore some of the most common performance metrics, used in AI.
+> **[1:20](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-model-rankings-leaderboards-benchmarks-and-evaluation-trends?u=76281980&t=80)** So to lay a good foundation for our discussion, let's explore some of the most common [[Performance Metrics]], used in AI.
 >
-> **[1:30](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-model-rankings-leaderboards-benchmarks-and-evaluation-trends?u=76281980&t=90)** Accuracy, the proportion of correct predictions; precision, the accuracy of positive predictions; recall, the ability of the model to identify all relevant instances; F1 score, the harmonic precision and recall; BLEU, bilingual evaluation understudy; and ROUGE, recall-oriented understudy for gisting evaluation for evaluating the quality of generated text in natural language processing tasks.
+> **[1:30](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-model-rankings-leaderboards-benchmarks-and-evaluation-trends?u=76281980&t=90)** Accuracy, the proportion of correct predictions; precision, the accuracy of positive predictions; recall, the ability of the model to identify all relevant instances; F1 score, the harmonic precision and recall; BLEU, bilingual evaluation understudy; and ROUGE, recall-oriented understudy for gisting evaluation for evaluating the quality of generated text in [[Natural Language Processing (NLP)|natural language processing]] tasks.
 >
 > **[2:06](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-model-rankings-leaderboards-benchmarks-and-evaluation-trends?u=76281980&t=126)** Mean absolute error, MAE, and mean squared error, MSE.
 >
@@ -3475,7 +3437,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-model-rankings-leaderboards-benchmarks-and-evaluation-trends?u=76281980&t=145)** Evaluating the model's ability to distinguish between classes.
 >
-> **[2:30](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-model-rankings-leaderboards-benchmarks-and-evaluation-trends?u=76281980&t=150)** Tool selection quality, TSQ, a matrix used to assess how well AI agents utilize tools for giving tasks.
+> **[2:30](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-model-rankings-leaderboards-benchmarks-and-evaluation-trends?u=76281980&t=150)** Tool selection quality, TSQ, a matrix used to assess how well [[AI Agents]] utilize tools for giving tasks.
 >
 > **[2:41](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-model-rankings-leaderboards-benchmarks-and-evaluation-trends?u=76281980&t=161)** Benchmarks typically consist of standardized datasets paired with evaluation metrics for specific tasks, such as image classification, object detection, language modeling, or summarization.
 >
@@ -3493,7 +3455,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-model-rankings-leaderboards-benchmarks-and-evaluation-trends?u=76281980&t=245)** SWE-bench.
 >
-> **[4:07](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-model-rankings-leaderboards-benchmarks-and-evaluation-trends?u=76281980&t=247)** This is a benchmark for evaluating large language models on real world software issues collected from GitHub.
+> **[4:07](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-model-rankings-leaderboards-benchmarks-and-evaluation-trends?u=76281980&t=247)** This is a benchmark for evaluating [[Large Language Models (LLM)|large language models]] on real world software issues collected from [[GitHub]].
 >
 > **[4:15](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-model-rankings-leaderboards-benchmarks-and-evaluation-trends?u=76281980&t=255)** Leaderboards aggregate the performance of various AI models on specific benchmarks, ranking them according to standardized metrics.
 >
@@ -3521,7 +3483,7 @@ created: 2026-05-02
 >
 > **[6:03](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-model-rankings-leaderboards-benchmarks-and-evaluation-trends?u=76281980&t=363)** Evolution results can be skewed if the benchmark datasets are biased, or if the models themselves perpetrate biases, learned from bias training data.
 >
-> **[6:15](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-model-rankings-leaderboards-benchmarks-and-evaluation-trends?u=76281980&t=375)** This highlights the critical influence of data quality and distribution.
+> **[6:15](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-model-rankings-leaderboards-benchmarks-and-evaluation-trends?u=76281980&t=375)** This highlights the critical influence of [[Data Quality]] and distribution.
 >
 > **[6:21](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-model-rankings-leaderboards-benchmarks-and-evaluation-trends?u=76281980&t=381)** Data dependency, AI models are everyday influenced by the quality, quantity, and distribution of their training data.
 >
@@ -3553,7 +3515,7 @@ created: 2026-05-02
 >
 > **[8:19](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-model-rankings-leaderboards-benchmarks-and-evaluation-trends?u=76281980&t=499)** Practical and evolving challenges, interoperability, understanding the reasoning behind the predictions of complex black box models remain a significant challenge, injuring trust.
 >
-> **[8:31](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-model-rankings-leaderboards-benchmarks-and-evaluation-trends?u=76281980&t=511)** The ability to debug errors and the identification of underlying biases, scalability, and cost.
+> **[8:31](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-model-rankings-leaderboards-benchmarks-and-evaluation-trends?u=76281980&t=511)** The ability to debug errors and the identification of underlying biases, [[Scalability]], and cost.
 >
 > **[8:41](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-model-rankings-leaderboards-benchmarks-and-evaluation-trends?u=76281980&t=521)** Conducting comprehensive evaluation across numerous models in diverse benchmark can be computationally expensive and time consuming, pausing practical limitations.
 >
@@ -3567,7 +3529,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (20), data (12), [[Large Language Models (LLM)|Large language models]] (3), llm (2), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (3), [[Large Language Models (LLM)|Large language models]] (3), [[Performance Metrics]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[GitHub]] (1)
 > **Env Vars:** roc (2), llm (2), bleu (1), rouge (1), mae (1)
 > **Analogies:** for example (2), imagine (1), such as (1), picture (1)
 > **Tools:** github (1), notion (1)
@@ -3575,8 +3537,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI interoperability standards: Model Context Protocol (MCP)
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-interoperability-standards-model-context-protocol-mcp?u=76281980)
+#### [AI interoperability standards: Model Context Protocol (MCP)](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-interoperability-standards-model-context-protocol-mcp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3596,7 +3557,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-interoperability-standards-model-context-protocol-mcp?u=76281980&t=76)** This context can include system state, for example, prior messages, tools used, or environment status.
 >
-> **[1:25](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-interoperability-standards-model-context-protocol-mcp?u=76281980&t=85)** Model identification and metadata.
+> **[1:25](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-interoperability-standards-model-context-protocol-mcp?u=76281980&t=85)** Model identification and [[Metadata]].
 >
 > **[1:28](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-interoperability-standards-model-context-protocol-mcp?u=76281980&t=88)** User intent, for example, natural language instructions or formal task definitions.
 >
@@ -3662,19 +3623,19 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-interoperability-standards-model-context-protocol-mcp?u=76281980&t=297)** Enabling AI agent and collaboration.
 >
-> **[5:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-interoperability-standards-model-context-protocol-mcp?u=76281980&t=300)** This allows AI agents to understand and interact with other AI agents more effectively by understanding their capabilities and limitations.
+> **[5:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-interoperability-standards-model-context-protocol-mcp?u=76281980&t=300)** This allows [[AI Agents]] to understand and interact with other AI agents more effectively by understanding their capabilities and limitations.
 >
-> **[5:11](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-interoperability-standards-model-context-protocol-mcp?u=76281980&t=311)** Promoting responsible AI.
+> **[5:11](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-interoperability-standards-model-context-protocol-mcp?u=76281980&t=311)** Promoting [[Responsible AI]].
 >
 > **[5:12](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-interoperability-standards-model-context-protocol-mcp?u=76281980&t=312)** Standardized reporting of biases, limitations, and interpretability information can contribute to a more responsible development and deployment of AI.
 >
 > **[5:24](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-interoperability-standards-model-context-protocol-mcp?u=76281980&t=324)** It's still early days for MCP and it's not a universal standard yet.
 >
-> **[5:28](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-interoperability-standards-model-context-protocol-mcp?u=76281980&t=328)** There are still questions about our context should be standardized, but just like rest and open API shaped the web, a common protocol for AI context could shape the next generation of modular scalable AI systems.
+> **[5:28](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/ai-interoperability-standards-model-context-protocol-mcp?u=76281980&t=328)** There are still questions about our context should be standardized, but just like [[Representational State Transfer (REST)|rest]] and open API shaped the web, a common protocol for AI context could shape the next generation of modular scalable AI systems.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), [[Metadata]] (1), cloud (1), data (1), [[Orchestration]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[Metadata]] (1), [[Responsible AI]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** mcp (6), api (1)
 > **Analogies:** for example (2), think of it as (1), just like (1)
 > **Definitions:** is an  (1)
@@ -3685,8 +3646,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/conclusion?u=76281980)
+#### [Summary](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/conclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3700,13 +3660,13 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/conclusion?u=76281980&t=38)** Hands on practice, apply what you've learned by working on small AI projects or experimenting with APIs and open data sets.
 >
-> **[0:48](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/conclusion?u=76281980&t=48)** Deepen your knowledge, explore advanced topics such as reinforcement learning, neural networks or natural language processing, NLP.
+> **[0:48](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/conclusion?u=76281980&t=48)** Deepen your knowledge, explore advanced topics such as [[Reinforcement Learning]], [[Neural Networks]] or [[Natural Language Processing (NLP)|natural language processing]], NLP.
 >
 > **[0:58](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/conclusion?u=76281980&t=58)** Engage with the AI community.
 >
 > **[1:00](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/conclusion?u=76281980&t=60)** Participate in online forums, contribute to open source projects, stay updated on the latest research through platforms like Archive and Papers With Code.
 >
-> **[1:11](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/conclusion?u=76281980&t=71)** Build your portfolio, showcase your skills through projects, case studies and contributions to AI related platforms like GitHub and Cargo.
+> **[1:11](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/conclusion?u=76281980&t=71)** Build your portfolio, showcase your skills through projects, case studies and contributions to AI related platforms like [[GitHub]] and Cargo.
 >
 > **[1:23](https://www.linkedin.com/learning/the-ai-ecosystem-for-developers-models-datasets-and-apis/conclusion?u=76281980&t=83)** As you continue your journey in AI, remember the learning is a continuous process.
 >
@@ -3716,7 +3676,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), data (2), next (1), [[Reinforcement Learning]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (1), [[Neural Networks]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[GitHub]] (1)
 > **CLI Commands:** cargo (1)
 > **Env Vars:** nlp (1)
 > **Tools:** github (1)

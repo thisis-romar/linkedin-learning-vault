@@ -71,20 +71,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of AI for data-driven insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/overview-of-ai-for-data-driven-insights-25184049?u=76281980)
+#### [Overview of AI for data-driven insights](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/overview-of-ai-for-data-driven-insights-25184049?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/overview-of-ai-for-data-driven-insights-25184049?u=76281980&t=0)** - Making decisions based on gut feeling or outdated data can limit growth, especially in today's fast-paced business environment.
 >
-> **[0:09](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/overview-of-ai-for-data-driven-insights-25184049?u=76281980&t=9)** With artificial intelligence, you can turn raw data into powerful insights that drive smarter, faster decisions.
+> **[0:09](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/overview-of-ai-for-data-driven-insights-25184049?u=76281980&t=9)** With [[Artificial Intelligence (AI)|artificial intelligence]], you can turn raw data into powerful insights that drive smarter, faster decisions.
 >
-> **[0:18](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/overview-of-ai-for-data-driven-insights-25184049?u=76281980&t=18)** I designed this course to help business professionals like you leverage AI, specifically ChatGPT, to enhance decision-making capabilities, no advanced technical skills required.
+> **[0:18](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/overview-of-ai-for-data-driven-insights-25184049?u=76281980&t=18)** I designed this course to help business professionals like you leverage AI, specifically [[ChatGPT]], to enhance [[Decision-Making]] capabilities, no advanced technical skills required.
 >
 > **[0:31](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/overview-of-ai-for-data-driven-insights-25184049?u=76281980&t=31)** I'm Justin Bateh, professor of management and award-winning corporate trainer.
 >
-> **[0:35](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/overview-of-ai-for-data-driven-insights-25184049?u=76281980&t=35)** In this course, we'll focus on using AI for practical applications like customer segmentation, sales forecasting and inventory optimization.
+> **[0:35](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/overview-of-ai-for-data-driven-insights-25184049?u=76281980&t=35)** In this course, we'll focus on using AI for practical applications like customer segmentation, sales [[Forecasting]] and inventory optimization.
 >
 > **[0:47](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/overview-of-ai-for-data-driven-insights-25184049?u=76281980&t=47)** Plus, you'll see a live case study and dataset in action to make sure everything is crystal clear.
 >
@@ -94,18 +93,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (3), ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[ChatGPT]] (1), [[Decision-Making]] (1), [[Forecasting]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - making (1)
 
-#### How to access ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/how-to-access-chatgpt-25180057?u=76281980)
+#### [How to access ChatGPT](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/how-to-access-chatgpt-25180057?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/how-to-access-chatgpt-25180057?u=76281980&t=0)** - [Instructor] Getting started with ChatGPT is the first step to unlocking some serious business insights.
+> **[0:00](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/how-to-access-chatgpt-25180057?u=76281980&t=0)** - [Instructor] Getting started with [[ChatGPT]] is the first step to unlocking some serious business insights.
 >
-> **[0:07](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/how-to-access-chatgpt-25180057?u=76281980&t=7)** Whether you're new to this or already dabbling in AI, this tool can make decision-making way easier.
+> **[0:07](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/how-to-access-chatgpt-25180057?u=76281980&t=7)** Whether you're new to this or already dabbling in AI, this tool can make [[Decision-Making]] way easier.
 >
 > **[0:13](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/how-to-access-chatgpt-25180057?u=76281980&t=13)** Let me show you how to get set up.
 >
@@ -125,7 +123,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/how-to-access-chatgpt-25180057?u=76281980&t=54)** But if you're like me and you want a smoother experience, especially during peak times, the Premium option is worth checking out.
 >
-> **[1:03](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/how-to-access-chatgpt-25180057?u=76281980&t=63)** So let me log in to my account that I have set up through my Google.
+> **[1:03](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/how-to-access-chatgpt-25180057?u=76281980&t=63)** So let me log in to my account that I have set up through my [[Google]].
 >
 > **[1:11](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/how-to-access-chatgpt-25180057?u=76281980&t=71)** And we will get started.
 >
@@ -161,7 +159,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), data (2), business (1), ai (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Decision-Making]] (1), [[Google]] (1)
 > **Prerequisites:** set up (5), getting started (1)
 > **CLI Commands:** find (2), make (1)
 > **URLs:** [chatgpt.com](https://chatgpt.com) (1)
@@ -169,8 +167,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case study setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/case-study-setup-25179046?u=76281980)
+#### [Case study setup](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/case-study-setup-25179046?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -180,7 +177,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/case-study-setup-25179046?u=76281980&t=14)** you have a lot of data at your fingertips, but like many professionals, you're short on time and resources to make sense of it all.
 >
-> **[0:23](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/case-study-setup-25179046?u=76281980&t=23)** This is where what I'm showing you with ChatGPT comes in.
+> **[0:23](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/case-study-setup-25179046?u=76281980&t=23)** This is where what I'm showing you with [[ChatGPT]] comes in.
 >
 > **[0:27](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/case-study-setup-25179046?u=76281980&t=27)** In this video, we're going to set up our case study, a grocery store business scenario, where you'll learn how to apply ChatGPT to make data-driven decisions to improve operations and drive growth.
 >
@@ -196,11 +193,11 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/case-study-setup-25179046?u=76281980&t=78)** Over the past couple of years, we'll explore data points such as product categories, units sold, revenue generated, customer segments, and much more.
 >
-> **[1:31](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/case-study-setup-25179046?u=76281980&t=91)** You'll also see data on supply chain disruptions, seasonal effects, and even trends in eco-friendly products.
+> **[1:31](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/case-study-setup-25179046?u=76281980&t=91)** You'll also see data on supply chain disruptions, seasonal effects, and even trends in eco-friendly [[Microsoft Products|products]].
 >
 > **[1:39](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/case-study-setup-25179046?u=76281980&t=99)** This rich data set allows us to dive into the real-world scenarios that FreshMart will face every single day.
 >
-> **[1:46](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/case-study-setup-25179046?u=76281980&t=106)** Throughout this course, we'll use ChatGPT to tackle a series of business challenges FreshMart encounters, like optimizing inventory levels to reducing waste, identifying which products resonate most with their customer base, and forecasting sales for better planning.
+> **[1:46](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/case-study-setup-25179046?u=76281980&t=106)** Throughout this course, we'll use ChatGPT to tackle a series of business challenges FreshMart encounters, like optimizing inventory levels to reducing waste, identifying which products resonate most with their customer base, and [[Forecasting]] sales for better planning.
 >
 > **[2:05](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/case-study-setup-25179046?u=76281980&t=125)** Now that you know the story behind our case study, you're ready to dive in.
 >
@@ -210,15 +207,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[ChatGPT]] (4), business (3), [[Microsoft Products|Products]] (2), leadership (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Microsoft Products|Products]] (2), [[Forecasting]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** imagine (1), such as (1)
 > **Cross-References:** next video (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dataset exploration
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/dataset-exploration-25182042?u=76281980)
+#### [Dataset exploration](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/dataset-exploration-25182042?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -226,7 +222,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/dataset-exploration-25182042?u=76281980&t=7)** You've got a lot of data at your fingertips, from product sales to customer trends, inventory levels, et cetera, but making sense of all of this can be overwhelming.
 >
-> **[0:18](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/dataset-exploration-25182042?u=76281980&t=18)** That's where ChatGPT comes in.
+> **[0:18](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/dataset-exploration-25182042?u=76281980&t=18)** That's where [[ChatGPT]] comes in.
 >
 > **[0:20](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/dataset-exploration-25182042?u=76281980&t=20)** In this video, we'll take a closer look at Fresh Mart's dataset and uncover how each piece of information can guide our insights, setting us up for success as we start analyzing the data.
 >
@@ -242,7 +238,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/dataset-exploration-25182042?u=76281980&t=69)** Units sold and revenue: These two columns tell us how much was sold and the revenue generator per product category, which will be essential for evaluating sales performance.
 >
-> **[1:22](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/dataset-exploration-25182042?u=76281980&t=82)** Customer age group, and customer segment: These columns provide demographic insights, really helping us understand which types of customers are buying certain products.
+> **[1:22](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/dataset-exploration-25182042?u=76281980&t=82)** Customer age group, and customer segment: These columns provide demographic insights, really helping us understand which types of customers are buying certain [[Microsoft Products|products]].
 >
 > **[1:35](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/dataset-exploration-25182042?u=76281980&t=95)** Inventory level and supply chain disruptions: Knowing that inventory levels and any supply chain issues will always be critical when we're working on inventory optimization, something that we'll revisit in this course.
 >
@@ -280,7 +276,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[ChatGPT]] (7), product (6), next (3), [[Microsoft Products|Products]] (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Microsoft Products|Products]] (3)
 > **Analogies:** for example (1), such as (1), picture (1)
 > **Cross-References:** in the next (1), next video (1)
 > **Speakers:** - [instructor] (1)
@@ -290,14 +286,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identify key business questions with ChatGPT for data-driven decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/identify-key-business-questions-with-chatgpt-for-data-driven-decisions-25179044?u=76281980)
+#### [Identify key business questions with ChatGPT for data-driven decisions](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/identify-key-business-questions-with-chatgpt-for-data-driven-decisions-25179044?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/identify-key-business-questions-with-chatgpt-for-data-driven-decisions-25179044?u=76281980&t=0)** - [Instructor] Have you ever wondered which products bring in the most revenue, or how customer preferences shift by age group?
+> **[0:00](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/identify-key-business-questions-with-chatgpt-for-data-driven-decisions-25179044?u=76281980&t=0)** - [Instructor] Have you ever wondered which [[Microsoft Products|products]] bring in the most revenue, or how customer preferences shift by age group?
 >
-> **[0:07](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/identify-key-business-questions-with-chatgpt-for-data-driven-decisions-25179044?u=76281980&t=7)** These kind of questions are critical for making smarter business decisions, and ChatGPT can help us answer them.
+> **[0:07](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/identify-key-business-questions-with-chatgpt-for-data-driven-decisions-25179044?u=76281980&t=7)** These kind of questions are critical for making smarter business decisions, and [[ChatGPT]] can help us answer them.
 >
 > **[0:15](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/identify-key-business-questions-with-chatgpt-for-data-driven-decisions-25179044?u=76281980&t=15)** In this video, I will start working with the FreshMart dataset to craft questions that can guide our analysis.
 >
@@ -325,7 +320,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/identify-key-business-questions-with-chatgpt-for-data-driven-decisions-25179044?u=76281980&t=106)** Now, you may look at this screen and say, "It doesn't look exactly like mine."
 >
-> **[1:51](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/identify-key-business-questions-with-chatgpt-for-data-driven-decisions-25179044?u=76281980&t=111)** ChatGPT, as with any artificial intelligence, acts human-like, and humans don't give the same responses every time they're asked a question.
+> **[1:51](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/identify-key-business-questions-with-chatgpt-for-data-driven-decisions-25179044?u=76281980&t=111)** ChatGPT, as with any [[Artificial Intelligence (AI)|artificial intelligence]], acts human-like, and humans don't give the same responses every time they're asked a question.
 >
 > **[2:02](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/identify-key-business-questions-with-chatgpt-for-data-driven-decisions-25179044?u=76281980&t=122)** We should generally have the same logic and the same idea, but it may look a little bit different each time.
 >
@@ -381,15 +376,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (16), [[Microsoft Products|Products]] (6), business (5), data (4), prompt (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (16), [[Microsoft Products|Products]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** for example (2), for instance (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cleaning and preprocessing data with ChatGPT for analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/cleaning-and-preprocessing-data-with-chatgpt-for-analysis-25182041?u=76281980)
+#### [Cleaning and preprocessing data with ChatGPT for analysis](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/cleaning-and-preprocessing-data-with-chatgpt-for-analysis-25182041?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -397,7 +391,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/cleaning-and-preprocessing-data-with-chatgpt-for-analysis-25182041?u=76281980&t=7)** Issues like missing values or even extreme outliers can skew results if left unchecked.
 >
-> **[0:14](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/cleaning-and-preprocessing-data-with-chatgpt-for-analysis-25182041?u=76281980&t=14)** I'll show you how to use ChatGPT to clean and pre-process the FreshMart data step-by-step so we can move forward with confidence.
+> **[0:14](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/cleaning-and-preprocessing-data-with-chatgpt-for-analysis-25182041?u=76281980&t=14)** I'll show you how to use [[ChatGPT]] to clean and pre-process the FreshMart data step-by-step so we can move forward with confidence.
 >
 > **[0:24](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/cleaning-and-preprocessing-data-with-chatgpt-for-analysis-25182041?u=76281980&t=24)** By the end of this video, you'll know how to use ChatGPT to identify and fix common data issues like missing values and outliers.
 >
@@ -455,13 +449,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (10), data (9), next (2), product (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (10)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Uncovering trends through exploratory data analysis with ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/uncovering-trends-through-exploratory-data-analysis-with-chatgpt-25185045?u=76281980)
+#### [Uncovering trends through exploratory data analysis with ChatGPT](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/uncovering-trends-through-exploratory-data-analysis-with-chatgpt-25185045?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -469,7 +462,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/uncovering-trends-through-exploratory-data-analysis-with-chatgpt-25185045?u=76281980&t=4)** Exploratory data analysis or EDA is how we uncover trends, patterns, and insights that guide smarter decisions.
 >
-> **[0:13](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/uncovering-trends-through-exploratory-data-analysis-with-chatgpt-25185045?u=76281980&t=13)** In this video, I'm going to show you how to use ChatGPT to explore FreshMart's dataset and uncover trends that can shape your business strategy.
+> **[0:13](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/uncovering-trends-through-exploratory-data-analysis-with-chatgpt-25185045?u=76281980&t=13)** In this video, I'm going to show you how to use [[ChatGPT]] to explore FreshMart's dataset and uncover trends that can shape your business strategy.
 >
 > **[0:22](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/uncovering-trends-through-exploratory-data-analysis-with-chatgpt-25185045?u=76281980&t=22)** By the end, you'll know how to conduct exploratory data analysis with ChatGPT to identify key trends in your data.
 >
@@ -477,7 +470,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/uncovering-trends-through-exploratory-data-analysis-with-chatgpt-25185045?u=76281980&t=58)** A summary like this gives us a great snapshot of performance, helping us see overall trends at a glance.
 >
-> **[1:05](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/uncovering-trends-through-exploratory-data-analysis-with-chatgpt-25185045?u=76281980&t=65)** Knowing which ones are the most popular products, tells us where FreshMart is excelling and gives us a starting point for deeper analysis.
+> **[1:05](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/uncovering-trends-through-exploratory-data-analysis-with-chatgpt-25185045?u=76281980&t=65)** Knowing which ones are the most popular [[Microsoft Products|products]], tells us where FreshMart is excelling and gives us a starting point for deeper analysis.
 >
 > **[1:13](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/uncovering-trends-through-exploratory-data-analysis-with-chatgpt-25185045?u=76281980&t=73)** Next, let's explore how sales vary by season, I'll type: Can you identify any seasonal trends in product sales?
 >
@@ -549,15 +542,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), [[ChatGPT]] (8), [[Microsoft Products|Products]] (6), data (5), business (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[Microsoft Products|Products]] (6)
 > **Env Vars:** eda (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Customer segmentation with ChatGPT for targeted marketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/customer-segmentation-with-chatgpt-for-targeted-marketing-25183032?u=76281980)
+#### [Customer segmentation with ChatGPT for targeted marketing](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/customer-segmentation-with-chatgpt-for-targeted-marketing-25183032?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -565,7 +557,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/customer-segmentation-with-chatgpt-for-targeted-marketing-25183032?u=76281980&t=3)** Customer segmentation helps us group people based on shared characteristics so we can tailor marketing strategies to meet their unique needs.
 >
-> **[0:12](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/customer-segmentation-with-chatgpt-for-targeted-marketing-25183032?u=76281980&t=12)** I'll show you how to use ChatGPT to create meaningful customer segments from the FreshMart data set and turn those into actionable strategies.
+> **[0:12](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/customer-segmentation-with-chatgpt-for-targeted-marketing-25183032?u=76281980&t=12)** I'll show you how to use [[ChatGPT]] to create meaningful customer segments from the FreshMart data set and turn those into actionable strategies.
 >
 > **[0:22](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/customer-segmentation-with-chatgpt-for-targeted-marketing-25183032?u=76281980&t=22)** By the end of this video, you'll know how to segment customers effectively using ChatGPT and apply those insights to targeted marketing campaigns.
 >
@@ -589,7 +581,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/customer-segmentation-with-chatgpt-for-targeted-marketing-25183032?u=76281980&t=112)** I'll type, can you identify seasonal preferences within each customer segment?
 >
-> **[2:01](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/customer-segmentation-with-chatgpt-for-targeted-marketing-25183032?u=76281980&t=121)** This tells us when FreshMart should ramp up promotions for specific products, ensuring marketing efforts align with peak demand.
+> **[2:01](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/customer-segmentation-with-chatgpt-for-targeted-marketing-25183032?u=76281980&t=121)** This tells us when FreshMart should ramp up promotions for specific [[Microsoft Products|products]], ensuring marketing efforts align with peak demand.
 >
 > **[2:10](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/customer-segmentation-with-chatgpt-for-targeted-marketing-25183032?u=76281980&t=130)** With this information, we can now create tailored campaigns for each segment.
 >
@@ -613,27 +605,26 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/customer-segmentation-with-chatgpt-for-targeted-marketing-25183032?u=76281980&t=202)** You've learned how to segment customers and use those insights for targeted marketing.
 >
-> **[3:27](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/customer-segmentation-with-chatgpt-for-targeted-marketing-25183032?u=76281980&t=207)** In the next video, we'll dive into forecasting sales to help FreshMart plan better for the future.
+> **[3:27](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/customer-segmentation-with-chatgpt-for-targeted-marketing-25183032?u=76281980&t=207)** In the next video, we'll dive into [[Forecasting]] sales to help FreshMart plan better for the future.
 >
 > **[3:33](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/customer-segmentation-with-chatgpt-for-targeted-marketing-25183032?u=76281980&t=213)** See you there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), data (3), product (3), next (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Microsoft Products|Products]] (1), [[Forecasting]] (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Forecasting future sales with ChatGPT for accurate predictions
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/forecasting-future-sales-with-chatgpt-for-accurate-predictions-25183033?u=76281980)
+#### [Forecasting future sales with ChatGPT for accurate predictions](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/forecasting-future-sales-with-chatgpt-for-accurate-predictions-25183033?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/forecasting-future-sales-with-chatgpt-for-accurate-predictions-25183033?u=76281980&t=0)** - [Instructor] Imagine knowing exactly how many units you'll sell next month, or which products will peak during the holidays.
+> **[0:00](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/forecasting-future-sales-with-chatgpt-for-accurate-predictions-25183033?u=76281980&t=0)** - [Instructor] Imagine knowing exactly how many units you'll sell next month, or which [[Microsoft Products|products]] will peak during the holidays.
 >
-> **[0:06](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/forecasting-future-sales-with-chatgpt-for-accurate-predictions-25183033?u=76281980&t=6)** Sales forecasting can make that possible.
+> **[0:06](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/forecasting-future-sales-with-chatgpt-for-accurate-predictions-25183033?u=76281980&t=6)** Sales [[Forecasting]] can make that possible.
 >
-> **[0:09](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/forecasting-future-sales-with-chatgpt-for-accurate-predictions-25183033?u=76281980&t=9)** In this video, I'm going to show you how to use ChatGPT to predict future sales based on historical data, helping you plan inventory and finances more effectively.
+> **[0:09](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/forecasting-future-sales-with-chatgpt-for-accurate-predictions-25183033?u=76281980&t=9)** In this video, I'm going to show you how to use [[ChatGPT]] to predict future sales based on historical data, helping you plan inventory and finances more effectively.
 >
 > **[0:20](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/forecasting-future-sales-with-chatgpt-for-accurate-predictions-25183033?u=76281980&t=20)** By the end of this video, you'll know how to create accurate sales forecasts with ChatGPT and apply them to your business planning.
 >
@@ -715,27 +706,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), [[ChatGPT]] (7), [[Forecasting]] (4), data (4), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Forecasting]] (4), [[Microsoft Products|Products]] (2)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimizing inventory management through predictive analytics with ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-inventory-management-through-predictive-analytics-with-chatgpt-25180056?u=76281980)
+#### [Optimizing inventory management through predictive analytics with ChatGPT](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-inventory-management-through-predictive-analytics-with-chatgpt-25180056?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-inventory-management-through-predictive-analytics-with-chatgpt-25180056?u=76281980&t=0)** - [Instructor] Inventory management is more than just keeping shelves stocked.
 >
-> **[0:04](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-inventory-management-through-predictive-analytics-with-chatgpt-25180056?u=76281980&t=4)** It's about having the right products at the right time to meet customer demand while avoiding overstock or waste.
+> **[0:04](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-inventory-management-through-predictive-analytics-with-chatgpt-25180056?u=76281980&t=4)** It's about having the right [[Microsoft Products|products]] at the right time to meet customer demand while avoiding overstock or waste.
 >
 > **[0:10](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-inventory-management-through-predictive-analytics-with-chatgpt-25180056?u=76281980&t=10)** Imagine being able to predict exactly how much inventory you need for the next quarter, or identifying risks and your supply chain before they impact your business.
 >
 > **[0:20](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-inventory-management-through-predictive-analytics-with-chatgpt-25180056?u=76281980&t=20)** That's what we'll tackle today.
 >
-> **[0:22](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-inventory-management-through-predictive-analytics-with-chatgpt-25180056?u=76281980&t=22)** Using ChatGPT, I'll show you how to optimize FreshMart's inventory based on predictive insights, ensuring smarter decisions every step of the way.
+> **[0:22](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-inventory-management-through-predictive-analytics-with-chatgpt-25180056?u=76281980&t=22)** Using [[ChatGPT]], I'll show you how to optimize FreshMart's inventory based on predictive insights, ensuring smarter decisions every step of the way.
 >
 > **[0:33](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-inventory-management-through-predictive-analytics-with-chatgpt-25180056?u=76281980&t=33)** By the end of this video, you'll know how to optimize inventory using ChatGPT, factoring in sales forecast, seasonal trends, and risk mitigation strategies.
 >
@@ -817,7 +807,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (9), next (5), [[Microsoft Products|Products]] (4), management (2), product (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (9), [[Microsoft Products|Products]] (4)
 > **Best Practices:** recommended (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -825,8 +815,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimizing pricing strategies with ChatGPT for maximum profitability
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980)
+#### [Optimizing pricing strategies with ChatGPT for maximum profitability](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -836,7 +825,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980&t=8)** By finding that perfect price, one can balance profitability with customer satisfaction, which is no small task.
 >
-> **[0:16](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980&t=16)** In this video, I'll show you how to use ChatGPT to analyze FreshMart's pricing data and optimize your strategies for maximum impact.
+> **[0:16](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980&t=16)** In this video, I'll show you how to use [[ChatGPT]] to analyze FreshMart's pricing data and optimize your strategies for maximum impact.
 >
 > **[0:26](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980&t=26)** Let's dive in step by step to optimizing pricing for FreshMart using ChatGPT.
 >
@@ -850,7 +839,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980&t=53)** So ChatGPT responds with the highest margin category being biodegradable packaging, the average cost, average selling price, and our profit margin.
 >
-> **[1:05](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980&t=65)** And this is so important because this helps us identify which products contribute to the most profitability and which ones may need adjustments.
+> **[1:05](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980&t=65)** And this is so important because this helps us identify which [[Microsoft Products|products]] contribute to the most profitability and which ones may need adjustments.
 >
 > **[1:14](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980&t=74)** Next, let's explore how pricing impacts sales volume.
 >
@@ -860,7 +849,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980&t=92)** This is a good exploratory exercise.
 >
-> **[1:37](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980&t=97)** And this is definitely where the data-driven decision making helps us with maximizing revenue and making adjustments.
+> **[1:37](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980&t=97)** And this is definitely where the [[Data-driven Decision Making]] helps us with maximizing revenue and making adjustments.
 >
 > **[1:47](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980&t=107)** So you see ChatGPT produced a nice visual for us as well, and gave us the relationship between price and units sold across categories.
 >
@@ -872,15 +861,15 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980&t=142)** Here, we're told lowering prices could increase units sold and potentially drive revenue growth.
 >
-> **[2:28](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980&t=148)** Great business intelligence for us.
+> **[2:28](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980&t=148)** Great [[Business Intelligence (BI)|business intelligence]] for us.
 >
-> **[2:32](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980&t=152)** Now, let's create a pricing strategy.
+> **[2:32](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980&t=152)** Now, let's create a [[Pricing Strategy]].
 >
 > **[2:35](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980&t=155)** I'll prompt ChatGPT with suggest new pricing for each product category to maximize profits based on current trends and customer demand.
 >
 > **[2:46](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980&t=166)** Great, so ChatGPT has given me suggested pricing and optimized profit margins for each category.
 >
-> **[2:55](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980&t=175)** This simulation allows us to confidently proceed with optimized pricing strategies, ensuring that we are generating the highest profit margin possible.
+> **[2:55](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980&t=175)** This [[Simulation]] allows us to confidently proceed with optimized pricing strategies, ensuring that we are generating the highest profit margin possible.
 >
 > **[3:07](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980&t=187)** To validate these changes, I'll ask ChatGPT to create a simulation.
 >
@@ -906,24 +895,23 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980&t=276)** Now you can confidently adjust prices to maximize profits without compromising customer satisfaction.
 >
-> **[4:43](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980&t=283)** In the next video, we'll explore how to make strategic decisions using ChatGPT and decision trees, a powerful tool to weigh options and choose the best course of action.
+> **[4:43](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980&t=283)** In the next video, we'll explore how to make strategic decisions using ChatGPT and [[Decision Trees]], a powerful tool to weigh options and choose the best course of action.
 >
 > **[4:54](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/optimizing-pricing-strategies-with-chatgpt-for-maximum-profitability-25183031?u=76281980&t=294)** See you there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (14), data (4), product (4), prompt (3), next (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (14), [[Simulation]] (2), [[Microsoft Products|Products]] (1), [[Data-driven Decision Making]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making strategic decisions with ChatGPT using a decision tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/making-strategic-decisions-with-chatgpt-using-a-decision-tree-25179045?u=76281980)
+#### [Making strategic decisions with ChatGPT using a decision tree](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/making-strategic-decisions-with-chatgpt-using-a-decision-tree-25179045?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/making-strategic-decisions-with-chatgpt-using-a-decision-tree-25179045?u=76281980&t=0)** - [Instructor] Strategic decision-making can feel overwhelming.
+> **[0:00](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/making-strategic-decisions-with-chatgpt-using-a-decision-tree-25179045?u=76281980&t=0)** - [Instructor] Strategic [[Decision-Making]] can feel overwhelming.
 >
 > **[0:03](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/making-strategic-decisions-with-chatgpt-using-a-decision-tree-25179045?u=76281980&t=3)** Every choice comes with risks and potential rewards.
 >
@@ -933,11 +921,11 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/making-strategic-decisions-with-chatgpt-using-a-decision-tree-25179045?u=76281980&t=16)** They're decisions that can be mapped, analyzed, and optimized using a decision tree.
 >
-> **[0:22](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/making-strategic-decisions-with-chatgpt-using-a-decision-tree-25179045?u=76281980&t=22)** In this video, I'll show you how to build a decision tree with ChatGPT.
+> **[0:22](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/making-strategic-decisions-with-chatgpt-using-a-decision-tree-25179045?u=76281980&t=22)** In this video, I'll show you how to build a decision tree with [[ChatGPT]].
 >
 > **[0:28](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/making-strategic-decisions-with-chatgpt-using-a-decision-tree-25179045?u=76281980&t=28)** Together, we'll weigh the options, account for risks, and ensure FreshMart makes data-driven decisions to maximize growth.
 >
-> **[0:36](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/making-strategic-decisions-with-chatgpt-using-a-decision-tree-25179045?u=76281980&t=36)** By the end of this video, you'll know how to create, evaluate, and refine decision trees using ChatGPT to make smarter business decisions.
+> **[0:36](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/making-strategic-decisions-with-chatgpt-using-a-decision-tree-25179045?u=76281980&t=36)** By the end of this video, you'll know how to create, evaluate, and refine [[Decision Trees]] using ChatGPT to make smarter business decisions.
 >
 > **[0:46](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/making-strategic-decisions-with-chatgpt-using-a-decision-tree-25179045?u=76281980&t=46)** Let's get started.
 >
@@ -973,7 +961,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/making-strategic-decisions-with-chatgpt-using-a-decision-tree-25179045?u=76281980&t=157)** Great, so this starts to give us our data for the tree, with probabilities, outcomes of higher profits, overstock risk, promoting bamboo toothbrushes.
 >
-> **[2:48](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/making-strategic-decisions-with-chatgpt-using-a-decision-tree-25179045?u=76281980&t=168)** We have probability of higher volume growth, etc.
+> **[2:48](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/making-strategic-decisions-with-chatgpt-using-a-decision-tree-25179045?u=76281980&t=168)** We have [[Probability]] of higher volume growth, etc.
 >
 > **[2:52](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/making-strategic-decisions-with-chatgpt-using-a-decision-tree-25179045?u=76281980&t=172)** Great stuff here.
 >
@@ -1027,15 +1015,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (8), data (4), business (3), [[Decision Trees]] (2), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[Decision Trees]] (2), [[Decision-Making]] (1), [[Probability]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Risk assessment and mitigation with ChatGPT in business
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/risk-assessment-and-mitigation-with-chatgpt-in-business-25181044?u=76281980)
+#### [Risk assessment and mitigation with ChatGPT in business](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/risk-assessment-and-mitigation-with-chatgpt-in-business-25181044?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1043,7 +1030,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/risk-assessment-and-mitigation-with-chatgpt-in-business-25181044?u=76281980&t=8)** But what separates successful businesses is how they identify and manage these risks.
 >
-> **[0:14](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/risk-assessment-and-mitigation-with-chatgpt-in-business-25181044?u=76281980&t=14)** Today, I'll show you step-by-step how you can use ChatGPT to build a proactive risk management plan for FreshMart, turning potential challenges into manageable solutions.
+> **[0:14](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/risk-assessment-and-mitigation-with-chatgpt-in-business-25181044?u=76281980&t=14)** Today, I'll show you step-by-step how you can use [[ChatGPT]] to build a proactive risk management plan for FreshMart, turning potential challenges into manageable solutions.
 >
 > **[0:26](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/risk-assessment-and-mitigation-with-chatgpt-in-business-25181044?u=76281980&t=26)** Let's begin by identifying the risks FreshMart might face.
 >
@@ -1097,7 +1084,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/risk-assessment-and-mitigation-with-chatgpt-in-business-25181044?u=76281980&t=181)** For each identified risk, suggest actionable mitigation strategies tailored to FreshMart's operations.
 >
-> **[3:09](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/risk-assessment-and-mitigation-with-chatgpt-in-business-25181044?u=76281980&t=189)** So for significant sales fluctuations during peak seasons, ChatGPT is giving me a strategy to implement pre-season demand forecasting, introduce flexible supplier contracts to quickly scale up, launch promotional campaigns during off-peak seasons.
+> **[3:09](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/risk-assessment-and-mitigation-with-chatgpt-in-business-25181044?u=76281980&t=189)** So for significant sales fluctuations during peak seasons, ChatGPT is giving me a strategy to implement pre-season demand [[Forecasting]], introduce flexible supplier contracts to quickly scale up, launch promotional campaigns during off-peak seasons.
 >
 > **[3:28](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/risk-assessment-and-mitigation-with-chatgpt-in-business-25181044?u=76281980&t=208)** This is great data.
 >
@@ -1117,7 +1104,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/risk-assessment-and-mitigation-with-chatgpt-in-business-25181044?u=76281980&t=241)** So we have our two-week supplier delay.
 >
-> **[4:03](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/risk-assessment-and-mitigation-with-chatgpt-in-business-25181044?u=76281980&t=243)** We're given the immediate risks of stockouts, customer dissatisfaction, revenue loss, which we would know, and a recommended response plan: communication, implementing safety stock, leveraging alternative suppliers, using demand management, optimizing operations, and using real-time sales data to monitor and adjust.
+> **[4:03](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/risk-assessment-and-mitigation-with-chatgpt-in-business-25181044?u=76281980&t=243)** We're given the immediate risks of stockouts, customer dissatisfaction, revenue loss, which we would know, and a recommended response plan: communication, implementing safety stock, leveraging alternative suppliers, using demand management, optimizing operations, and using [[Real-Time]] sales data to monitor and adjust.
 >
 > **[4:29](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/risk-assessment-and-mitigation-with-chatgpt-in-business-25181044?u=76281980&t=269)** This is so important to test your plans against real-world scenarios to ensure they're robust and practical.
 >
@@ -1135,14 +1122,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (7), [[ChatGPT]] (6), prompt (4), data (4), next (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Forecasting]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating AI-powered reports and presentations with ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/creating-ai-powered-reports-and-presentations-with-chatgpt-25184048?u=76281980)
+#### [Creating AI-powered reports and presentations with ChatGPT](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/creating-ai-powered-reports-and-presentations-with-chatgpt-25184048?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1152,7 +1138,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/creating-ai-powered-reports-and-presentations-with-chatgpt-25184048?u=76281980&t=6)** How do you communicate these insights in a way that grabs attention and drives action?
 >
-> **[0:11](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/creating-ai-powered-reports-and-presentations-with-chatgpt-25184048?u=76281980&t=11)** That's where ChatGPT comes in.
+> **[0:11](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/creating-ai-powered-reports-and-presentations-with-chatgpt-25184048?u=76281980&t=11)** That's where [[ChatGPT]] comes in.
 >
 > **[0:14](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/creating-ai-powered-reports-and-presentations-with-chatgpt-25184048?u=76281980&t=14)** In this video, I'll show you how to create AI-powered reports and presentations that bring your data to life.
 >
@@ -1188,7 +1174,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/creating-ai-powered-reports-and-presentations-with-chatgpt-25184048?u=76281980&t=109)** This is a huge time saver.
 >
-> **[1:52](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/creating-ai-powered-reports-and-presentations-with-chatgpt-25184048?u=76281980&t=112)** To make all of this actionable, I'll copy the text output into a slide template in PowerPoint, and I'll add visuals like bar charts and pie charts and so forth for seasonal sales and customer demographics.
+> **[1:52](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/creating-ai-powered-reports-and-presentations-with-chatgpt-25184048?u=76281980&t=112)** To make all of this actionable, I'll copy the text output into a slide template in [[Microsoft PowerPoint|PowerPoint]], and I'll add visuals like bar charts and pie charts and so forth for seasonal sales and customer demographics.
 >
 > **[2:05](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/creating-ai-powered-reports-and-presentations-with-chatgpt-25184048?u=76281980&t=125)** Now that we have our slide tech outline, let's ask ChatGPT to create the PowerPoint for us.
 >
@@ -1204,7 +1190,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[ChatGPT]] (4), prompt (3), [[Microsoft PowerPoint|Powerpoint]] (3), ai (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Microsoft PowerPoint|Powerpoint]] (3)
 > **CLI Commands:** make (3)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
@@ -1216,24 +1202,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps in leveraging AI for data-driven business growth
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/next-steps-in-leveraging-ai-for-data-driven-business-growth-25184047?u=76281980)
+#### [Next steps in leveraging AI for data-driven business growth](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/next-steps-in-leveraging-ai-for-data-driven-business-growth-25184047?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/next-steps-in-leveraging-ai-for-data-driven-business-growth-25184047?u=76281980&t=0)** - Congratulations on completing this journey into leveraging AI for data-driven insights.
 >
-> **[0:06](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/next-steps-in-leveraging-ai-for-data-driven-business-growth-25184047?u=76281980&t=6)** You've learned how to analyze data, create impactful reports, optimize strategies, and make informed decisions using ChatGPT.
+> **[0:06](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/next-steps-in-leveraging-ai-for-data-driven-business-growth-25184047?u=76281980&t=6)** You've learned how to analyze data, create impactful reports, optimize strategies, and make informed decisions using [[ChatGPT]].
 >
 > **[0:17](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/next-steps-in-leveraging-ai-for-data-driven-business-growth-25184047?u=76281980&t=17)** But, this is just the beginning.
 >
 > **[0:21](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/next-steps-in-leveraging-ai-for-data-driven-business-growth-25184047?u=76281980&t=21)** If you're looking to continue your learning journey, you can find other courses on using AI for data analysis, here on the library.
 >
-> **[0:28](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/next-steps-in-leveraging-ai-for-data-driven-business-growth-25184047?u=76281980&t=28)** And also, feel free to follow me on LinkedIn for daily insights.
+> **[0:28](https://www.linkedin.com/learning/using-ai-for-data-driven-insights/next-steps-in-leveraging-ai-for-data-driven-business-growth-25184047?u=76281980&t=28)** And also, feel free to follow me on [[LinkedIn]] for daily insights.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), ai (2), [[ChatGPT]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - congratulations (1)
 

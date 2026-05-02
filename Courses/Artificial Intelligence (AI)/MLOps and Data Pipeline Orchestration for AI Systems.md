@@ -86,12 +86,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Importance of MLOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/importance-of-mlops?u=76281980)
+#### [Importance of MLOps](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/importance-of-mlops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/importance-of-mlops?u=76281980&t=1)** - [Narrator] Hi, and welcome to this course on MLOps and Data Pipeline Orchestration for AI Systems.
+> **[0:01](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/importance-of-mlops?u=76281980&t=1)** - [Narrator] Hi, and welcome to this course on [[MLOps]] and Data Pipeline Orchestration for AI Systems.
 >
 > **[0:07](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/importance-of-mlops?u=76281980&t=7)** First, let's talk about the importance of MLOps, or ML operations, and where LLMOps fit in.
 >
@@ -103,15 +102,15 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/importance-of-mlops?u=76281980&t=40)** This ensures model quality and reliability.
 >
-> **[0:43](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/importance-of-mlops?u=76281980&t=43)** MLOps integrates data science, engineering, and DevOps teams through pipelines that automate the training, deployment, and update of models.
+> **[0:43](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/importance-of-mlops?u=76281980&t=43)** MLOps integrates [[Data Science]], engineering, and [[DevOps]] teams through pipelines that automate the training, deployment, and update of models.
 >
 > **[0:54](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/importance-of-mlops?u=76281980&t=54)** This improves collaboration between your teams and the automation of your systems.
 >
 > **[0:59](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/importance-of-mlops?u=76281980&t=59)** And finally, MLOps ensures that all aspects of the machine learning lifecycle, whether it's data, code, or models, are logged and auditable, and this supports regulatory and business requirements.
 >
-> **[1:12](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/importance-of-mlops?u=76281980&t=72)** Large language models, or LLMs, are usually generative AI models that are trained on a huge corpus of data and have billions of parameters.
+> **[1:12](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/importance-of-mlops?u=76281980&t=72)** [[Large Language Models (LLM)|Large language models]], or LLMs, are usually [[Generative AI]] models that are trained on a huge corpus of data and have billions of parameters.
 >
-> **[1:23](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/importance-of-mlops?u=76281980&t=83)** LLMOps helps orchestrate fine tuning, prompt engineering, and model deployment of LLMs at scale.
+> **[1:23](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/importance-of-mlops?u=76281980&t=83)** LLMOps helps orchestrate [[Fine Tuning]], [[Prompt Engineering]], and model deployment of LLMs at scale.
 >
 > **[1:30](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/importance-of-mlops?u=76281980&t=90)** These tend to be far more complex than traditional ML models.
 >
@@ -127,13 +126,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLOps]] (5), data (4), ai (2), teams (2), llm (2)
+> **Frameworks & Libraries:** [[MLOps]] (5), [[Data Science]] (1), [[DevOps]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Generative AI]] (1)
 > **Env Vars:** llm (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/prerequisites?u=76281980)
+#### [Prerequisites](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -143,11 +141,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/prerequisites?u=76281980&t=14)** You should understand how the machine learning workflow functions, some basic knowledge of building machine learning models and training LLMs will definitely help because otherwise there'll be references here that you won't fully pass.
 >
-> **[0:27](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/prerequisites?u=76281980&t=27)** And then finally, in order to perform the hands-on component of this course, where we'll build and train a model using ML Flow for experiment tracking and logging well, that requires you to be comfortable in Python.
+> **[0:27](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/prerequisites?u=76281980&t=27)** And then finally, in order to perform the hands-on component of this course, where we'll build and train a model using ML Flow for experiment tracking and logging well, that requires you to be comfortable in [[Python (Programming Language)|Python]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
@@ -157,18 +155,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Agile development and DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/agile-development-and-devops?u=76281980)
+#### [Agile development and DevOps](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/agile-development-and-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/agile-development-and-devops?u=76281980&t=1)** - [Instructor] What exactly is MLOps or machine learning operations?
+> **[0:01](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/agile-development-and-devops?u=76281980&t=1)** - [Instructor] What exactly is [[MLOps]] or machine learning operations?
 >
-> **[0:04](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/agile-development-and-devops?u=76281980&t=4)** Now, this requires an understanding of what Agile development is all about.
+> **[0:04](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/agile-development-and-devops?u=76281980&t=4)** Now, this requires an understanding of what [[Agile Development|Agile]] development is all about.
 >
-> **[0:09](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/agile-development-and-devops?u=76281980&t=9)** Then DevOps or development operations, and then we'll finally head on to MLOps.
+> **[0:09](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/agile-development-and-devops?u=76281980&t=9)** Then [[DevOps]] or development operations, and then we'll finally head on to MLOps.
 >
-> **[0:14](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/agile-development-and-devops?u=76281980&t=14)** Back in the day, software development used the Waterfall methodology, which was a slow process.
+> **[0:14](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/agile-development-and-devops?u=76281980&t=14)** Back in the day, [[Software Development]] used the Waterfall methodology, which was a slow process.
 >
 > **[0:20](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/agile-development-and-devops?u=76281980&t=20)** It could take three to four years for software to be deployed, starting from the design phase to final release.
 >
@@ -196,7 +193,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/agile-development-and-devops?u=76281980&t=105)** This includes teams working together across the entire product lifecycle from the very beginning.
 >
-> **[1:52](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/agile-development-and-devops?u=76281980&t=112)** So developers, testers, release engineers, the IT ops team all work together collaboratively and iteratively, which means, all of these teams are involved in the product development from the very start.
+> **[1:52](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/agile-development-and-devops?u=76281980&t=112)** So developers, testers, release engineers, the IT ops team all work together collaboratively and iteratively, which means, all of these teams are involved in the [[Product Development]] from the very start.
 >
 > **[2:05](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/agile-development-and-devops?u=76281980&t=125)** It's not just the dev and product teams that are focused on product building.
 >
@@ -234,7 +231,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/agile-development-and-devops?u=76281980&t=228)** All of this is unique to machine learning.
 >
-> **[3:50](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/agile-development-and-devops?u=76281980&t=230)** Traditional DevOps practices do not adequately handle data-driven tasks like continuous monitoring for performance drift of your models.
+> **[3:50](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/agile-development-and-devops?u=76281980&t=230)** Traditional DevOps practices do not adequately handle data-driven tasks like [[Continuous Monitoring]] for performance drift of your models.
 >
 > **[4:00](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/agile-development-and-devops?u=76281980&t=240)** Deployed models degrade over time.
 >
@@ -256,25 +253,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (11), [[Agile Development|Agile]] (8), data (8), teams (6), [[MLOps]] (4)
+> **Frameworks & Libraries:** [[DevOps]] (11), [[Agile Development|Agile]] (8), [[MLOps]] (4), [[Software Development]] (3), [[Product Development]] (1)
 > **Definitions:** is an  (1), is a  (1), refers to (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing MLOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlops?u=76281980)
+#### [Introducing MLOps](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlops?u=76281980&t=1)** - [Instructor] So what exactly is MLOps, or machine learning operations?
+> **[0:01](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlops?u=76281980&t=1)** - [Instructor] So what exactly is [[MLOps]], or machine learning operations?
 >
 > **[0:04](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlops?u=76281980&t=4)** This is a set of practices that aims to automate and streamline the entire lifecycle of machine learning models, from development and training, to deployment, monitoring, and management in production.
 >
-> **[0:17](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlops?u=76281980&t=17)** It combines principles from DevOps with the specific requirements of machine learning to ensure faster iteration, improved reliability, and better governance of AI systems.
+> **[0:17](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlops?u=76281980&t=17)** It combines principles from [[DevOps]] with the specific requirements of machine learning to ensure faster iteration, improved reliability, and better governance of AI systems.
 >
 > **[0:27](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlops?u=76281980&t=27)** Let's talk about why we need MLOps. Why does it matter?
 >
-> **[0:31](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlops?u=76281980&t=31)** Now, machine learning models, which has been found, perform well during prototyping when you're coding them up in notebooks, but these same models tend to struggle when deployed into real world production environments.
+> **[0:31](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlops?u=76281980&t=31)** Now, machine learning models, which has been found, perform well during [[Prototyping]] when you're coding them up in notebooks, but these same models tend to struggle when deployed into real world production environments.
 >
 > **[0:45](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlops?u=76281980&t=45)** Now, this could be because of a variety of reasons.
 >
@@ -282,7 +278,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlops?u=76281980&t=57)** And this is exactly what MLOps tries to address.
 >
-> **[1:00](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlops?u=76281980&t=60)** MLOps addresses these issues by bringing reliability, consistency, and scalability to your machine learning deployments.
+> **[1:00](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlops?u=76281980&t=60)** MLOps addresses these issues by bringing reliability, consistency, and [[Scalability]] to your machine learning deployments.
 >
 > **[1:09](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlops?u=76281980&t=69)** Machine learning projects tend to be far messier than software engineering projects.
 >
@@ -300,7 +296,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlops?u=76281980&t=121)** With machine learning models, you likely have many more small teams.
 >
-> **[2:07](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlops?u=76281980&t=127)** You may have teams that are responsible for model development, and you may have teams that are responsible for data cleaning and processing.
+> **[2:07](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlops?u=76281980&t=127)** You may have teams that are responsible for model development, and you may have teams that are responsible for [[Data Cleaning]] and processing.
 >
 > **[2:15](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlops?u=76281980&t=135)** Now, if you have unclear responsibilities between teams, that can lead to confusion, slow responses, and neglected maintenance.
 >
@@ -318,23 +314,22 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlops?u=76281980&t=175)** With an MLOps-enabled workflow, you are constantly monitoring a deployed model to see how it performs.
 >
-> **[3:02](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlops?u=76281980&t=182)** In order to keep your model performance from degrading, you automatedly go back to the data preparation stage, you ingest new data as it arrives, and then you cycle through the model training, evaluation, and deployment process, all using automated pipelines.
+> **[3:02](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlops?u=76281980&t=182)** In order to keep your model performance from degrading, you automatedly go back to the [[Data Preparation]] stage, you ingest new data as it arrives, and then you cycle through the model training, evaluation, and deployment process, all using automated pipelines.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[MLOps]] (7), teams (4), [[Engineering]] (2), management (1)
+> **Frameworks & Libraries:** [[MLOps]] (7), [[DevOps]] (1), [[Prototyping]] (1), [[Scalability]] (1), [[Data Cleaning]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### The MLOps lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980)
+#### [The MLOps lifecycle](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=1)** - [Instructor] Here is how you can think of the MLOps lifecycle.
+> **[0:01](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=1)** - [Instructor] Here is how you can think of the [[MLOps]] lifecycle.
 >
 > **[0:04](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=4)** Please note that this entire lifecycle has to be executed in an automated manner for quick feedback.
 >
@@ -344,9 +339,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=26)** Let's discuss code changes first.
 >
-> **[0:28](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=28)** If you modify the model architecture, change the feature engineering logic or the training pipeline, all of this can alter how the model learns from data.
+> **[0:28](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=28)** If you modify the model architecture, change the [[Feature Engineering]] logic or the training pipeline, all of this can alter how the model learns from data.
 >
-> **[0:38](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=38)** For example, if you change from a logistic regression model to a neural network, that may lead to different predictions and performance.
+> **[0:38](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=38)** For example, if you change from a [[Logistic Regression]] model to a neural network, that may lead to different predictions and performance.
 >
 > **[0:45](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=45)** Models are also affected by data changes.
 >
@@ -356,7 +351,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=64)** Now, if your data or code has changed, that will lead to model training.
 >
-> **[1:09](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=69)** The model is then trained on the latest data using the defined algorithms and parameters.
+> **[1:09](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=69)** The model is then trained on the latest data using the defined [[Algorithms]] and parameters.
 >
 > **[1:14](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=74)** Once you train the model, you'd like to evaluate the model to see how it performs on the test data.
 >
@@ -376,19 +371,19 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=134)** There are three important components in MLOps.
 >
-> **[2:17](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=137)** The first is continuous integration.
+> **[2:17](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=137)** The first is [[Continuous Integration (CI)|continuous integration]].
 >
 > **[2:20](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=140)** This is when you automate the pipeline to integrate and test new code changes and data changes in a shared repository.
 >
-> **[2:29](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=149)** This is what allows you to detect issues early and maintain code and data quality.
+> **[2:29](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=149)** This is what allows you to detect issues early and maintain code and [[Data Quality]].
 >
-> **[2:34](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=154)** Then, we have continuous delivery.
+> **[2:34](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=154)** Then, we have [[Continuous Delivery (CD)|continuous delivery]].
 >
 > **[2:37](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=157)** This ensures that validated code and models are always in a deployable state and sometimes are automatedly deployed to production, if that's how you set up your automated pipeline.
 >
 > **[2:48](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=168)** This enables frequent and reliable releases to staging or production.
 >
-> **[2:53](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=173)** Continuous integration and continuous delivery, these are components also present in DevOps.
+> **[2:53](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=173)** Continuous integration and continuous delivery, these are components also present in [[DevOps]].
 >
 > **[2:59](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=179)** But with MLOps, we have one more, and that is CT, or continuous training.
 >
@@ -398,7 +393,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=201)** You can see that I have mapped continuous integration, continuous delivery, and continuous training here in the MLOps lifecycle workflow that we saw earlier.
 >
-> **[3:32](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=212)** Continuous integration refers to the process of automatically testing and integrating code changes, that is, model logic and feature engineering, and new data ingestion workflows into the main development pipeline.
+> **[3:32](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=212)** Continuous integration refers to the process of automatically testing and integrating code changes, that is, model logic and feature engineering, and new [[Data Ingestion]] workflows into the main development pipeline.
 >
 > **[3:44](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/the-mlops-lifecycle?u=76281980&t=224)** This ensures that every change, whether in code or data, is validated quickly and doesn't break the training or evaluation pipeline.
 >
@@ -426,7 +421,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[MLOps]] (12), [[Continuous Integration (CI)|Continuous integration]] (6), [[Continuous Delivery (CD)|Continuous delivery]] (6), [[Feature Engineering]] (2)
+> **Frameworks & Libraries:** [[MLOps]] (12), [[Continuous Integration (CI)|Continuous integration]] (6), [[Continuous Delivery (CD)|Continuous delivery]] (6), [[Feature Engineering]] (2), [[Logistic Regression]] (1)
 > **CLI Commands:** cd (2), find (1), make (1)
 > **Analogies:** for example (2), such as (2)
 > **Definitions:** refers to (1)
@@ -434,28 +429,27 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tracking artifacts in MLOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980)
+#### [Tracking artifacts in MLOps](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=1)** - [Instructor] In software development and DevOps, there's just one artifact that you have to track, and that is the code that you deploy.
+> **[0:01](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=1)** - [Instructor] In [[Software Development]] and [[DevOps]], there's just one artifact that you have to track, and that is the code that you deploy.
 >
-> **[0:06](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=6)** In MLOps, on the other hand, you have to track multiple artifacts.
+> **[0:06](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=6)** In [[MLOps]], on the other hand, you have to track multiple artifacts.
 >
 > **[0:11](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=11)** Let's see what they are.
 >
 > **[0:13](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=13)** The first thing is of course code.
 >
-> **[0:15](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=15)** This involves versioning and managing the code base used for developing, training, and deploying machine learning models, ensuring reproducibility and collaboration through tools like Git.
+> **[0:15](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=15)** This involves versioning and managing the code base used for developing, training, and deploying machine learning models, ensuring reproducibility and collaboration through tools like [[Git]].
 >
 > **[0:26](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=26)** Another artifact is the model itself.
 >
-> **[0:29](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=29)** This is where you focus on managing the lifecycle of machine learning models, including versioning, storing different iterations, tracking performance metrics, and managing the models deployment and transitions to production.
+> **[0:29](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=29)** This is where you focus on managing the lifecycle of machine learning models, including versioning, storing different iterations, tracking [[Performance Metrics]], and managing the models deployment and transitions to production.
 >
 > **[0:42](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=42)** And then you have to track data.
 >
-> **[0:44](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=44)** This encompasses versioning and monitoring the data sets used for training and evaluating machine learning models, ensuring data lineage, reproducibility of experiments, and detection of data drift or quality issues.
+> **[0:44](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=44)** This encompasses versioning and monitoring the data sets used for training and evaluating machine learning models, ensuring [[Data Lineage]], reproducibility of experiments, and detection of data drift or quality issues.
 >
 > **[0:57](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=57)** Let's talk about why you actually need to track all of this.
 >
@@ -493,13 +487,13 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=151)** Tracking data includes schema, data splits, pre-processing steps, and source identifiers, such as raw files or database snapshots.
 >
-> **[2:40](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=160)** Data tracking also includes tracking data lineage.
+> **[2:40](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=160)** [[Data Tracking]] also includes tracking data lineage.
 >
 > **[2:43](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=163)** Lineage tracking connects data sets to specific model versions, allowing you to trace what data your model used for compliance purposes.
 >
 > **[2:52](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=172)** The third artifact that your MLOps pipeline needs to track is the trained model.
 >
-> **[2:58](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=178)** Trained models should be versioned as artifacts along with metadata like the parameters of the model, the metrics of the model, and the training timestamps.
+> **[2:58](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=178)** Trained models should be versioned as artifacts along with [[Metadata]] like the parameters of the model, the metrics of the model, and the training timestamps.
 >
 > **[3:07](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=187)** Model tracking includes both the serialized model that is the pickle files, or say the ONNX files, and associated configurations or hyperparameters.
 >
@@ -521,7 +515,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=256)** There are several tools available that help with experiment tracking.
 >
-> **[4:20](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=260)** Tools like MLflow, Weights and Biases, and DVC, which stands for Data Version Control, help automate experiment tracking and comparison.
+> **[4:20](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=260)** Tools like [[MLflow]], Weights and Biases, and DVC, which stands for Data [[Version Control]], help automate experiment tracking and comparison.
 >
 > **[4:29](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=269)** In fact, we get hands-on with MLflow experiment tracking and logging later on in this course.
 >
@@ -539,7 +533,7 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=313)** The model artifact is the output of the experiment, a trained model.
 >
-> **[5:17](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=317)** In MLOps, model artifacts are logged and stored in a registry such as MLflow or Azure ML, so they can be evaluated, compared, and deployed safely.
+> **[5:17](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=317)** In MLOps, model artifacts are logged and stored in a registry such as MLflow or [[Microsoft Azure|Azure]] ML, so they can be evaluated, compared, and deployed safely.
 >
 > **[5:28](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/tracking-artifacts-in-mlops?u=76281980&t=328)** Metrics are evaluation results.
 >
@@ -563,7 +557,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[MLOps]] (8), [[Git]] (3), [[Metadata]] (3), teams (3)
+> **Frameworks & Libraries:** [[MLOps]] (8), [[Git]] (3), [[Metadata]] (3), [[MLflow]] (3), [[Data Lineage]] (2)
 > **CLI Commands:** git (3), docker (1)
 > **Analogies:** such as (3)
 > **Env Vars:** onnx (1), dvc (1)
@@ -577,14 +571,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing MLflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlflow?u=76281980)
+#### [Introducing MLflow](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlflow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlflow?u=76281980&t=1)** - [Instructor] In the hands-on demo that's coming up next, we're going to be working with MLflow.
+> **[0:01](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlflow?u=76281980&t=1)** - [Instructor] In the hands-on demo that's coming up next, we're going to be working with [[MLflow]].
 >
-> **[0:05](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlflow?u=76281980&t=5)** MLflow plays a key role in MLOps by enabling experiment tracking, model versioning, and lifecycle management to ensure reproducibility, traceability, and seamless deployment of machine learning models.
+> **[0:05](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlflow?u=76281980&t=5)** MLflow plays a key role in [[MLOps]] by enabling experiment tracking, model versioning, and lifecycle management to ensure reproducibility, traceability, and seamless deployment of machine learning models.
 >
 > **[0:18](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlflow?u=76281980&t=18)** MLflow is an open-source platform designed to manage the complete machine learning lifecycle.
 >
@@ -618,9 +611,9 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlflow?u=76281980&t=122)** MLflow model tracking automatically or manually logs code, parameters, metrics, and outputs of every training run.
 >
-> **[2:12](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlflow?u=76281980&t=132)** This makes it easier to compare your models across runs using the MLflow UI or the command-line interface, the CLI.
+> **[2:12](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlflow?u=76281980&t=132)** This makes it easier to compare your models across runs using the MLflow UI or the command-line interface, the [[CLI]].
 >
-> **[2:22](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlflow?u=76281980&t=142)** If you're working in MLflow, you'll primarily work in Python, though MLflow has support for other programming languages as well, such as R and Java.
+> **[2:22](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlflow?u=76281980&t=142)** If you're working in MLflow, you'll primarily work in [[Python (Programming Language)|Python]], though MLflow has support for other programming languages as well, such as R and [[Java]].
 >
 > **[2:32](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlflow?u=76281980&t=152)** MLflow Projects are a packaging format for reproducible machine learning code, allowing you to define your project's dependencies and entry points using a special file known as an ML project file.
 >
@@ -638,13 +631,13 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlflow?u=76281980&t=203)** The next component we'll talk about is MLflow Models.
 >
-> **[3:26](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlflow?u=76281980&t=206)** MLflow saves models in the standard generic format that includes metadata, model artifacts, and environment details.
+> **[3:26](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlflow?u=76281980&t=206)** MLflow saves models in the standard generic format that includes [[Metadata]], model artifacts, and environment details.
 >
-> **[3:34](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlflow?u=76281980&t=214)** This supports multiple ML frameworks, such as scikit-learn, TensorFlow, and PyTorch.
+> **[3:34](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlflow?u=76281980&t=214)** This supports multiple ML frameworks, such as scikit-learn, [[TensorFlow]], and [[PyTorch]].
 >
-> **[3:39](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlflow?u=76281980&t=219)** Saved models can be served using MLflow's REST API for real-time inference or loaded into batch pipelines for large-scale predictions.
+> **[3:39](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlflow?u=76281980&t=219)** Saved models can be served using MLflow's [[Representational State Transfer (REST)|REST]] API for [[Real-Time]] inference or loaded into batch pipelines for large-scale predictions.
 >
-> **[3:47](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlflow?u=76281980&t=227)** They can also be exported for deployment to external platforms like Azure ML, SageMaker, or Docker.
+> **[3:47](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlflow?u=76281980&t=227)** They can also be exported for deployment to external platforms like [[Microsoft Azure|Azure]] ML, SageMaker, or Docker.
 >
 > **[3:54](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-mlflow?u=76281980&t=234)** MLflow ensures that models behave the same across development, testing, and production environments.
 >
@@ -672,7 +665,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLflow]] (25), next (3), data (3), management (2), [[Metadata]] (2)
+> **Frameworks & Libraries:** [[MLflow]] (25), [[Metadata]] (2), [[MLOps]] (1), [[CLI]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), docker (2), python (1)
 > **Env Vars:** cli (1), rest (1), api (1)
 > **Definitions:** is an  (1), is a  (1), known as (1)
@@ -680,8 +673,7 @@ created: 2026-05-02
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install MLflow and prepare data for machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/install-mlflow-and-prepare-data-for-machine-learning?u=76281980)
+#### [Install MLflow and prepare data for machine learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/install-mlflow-and-prepare-data-for-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -689,11 +681,11 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/install-mlflow-and-prepare-data-for-machine-learning?u=76281980&t=3)** Deploy those models to the ML Flow registry and use those models for predictions.
 >
-> **[0:09](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/install-mlflow-and-prepare-data-for-machine-learning?u=76281980&t=9)** We are going to be working with Python, so make sure you have a recent version of Python available.
+> **[0:09](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/install-mlflow-and-prepare-data-for-machine-learning?u=76281980&t=9)** We are going to be working with [[Python (Programming Language)|Python]], so make sure you have a recent version of Python available.
 >
 > **[0:13](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/install-mlflow-and-prepare-data-for-machine-learning?u=76281980&t=13)** Python 3.8 and above.
 >
-> **[0:15](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/install-mlflow-and-prepare-data-for-machine-learning?u=76281980&t=15)** You can install ML Flow on your local machine with a pip install mlflow.
+> **[0:15](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/install-mlflow-and-prepare-data-for-machine-learning?u=76281980&t=15)** You can install ML Flow on your local machine with a pip install [[MLflow]].
 >
 > **[0:20](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/install-mlflow-and-prepare-data-for-machine-learning?u=76281980&t=20)** This will install the latest version, which happens to be 2.2 1.3 at the time of this recording, my current working directory happens to be mlflow_project, and here you can see I have a notebook within which I'll be writing my code and a CSV file.
 >
@@ -767,7 +759,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Python (Programming Language)|Python]] (3), [[MLflow]] (1), web (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[MLflow]] (1)
 > **CLI Commands:** python (3), find (2), make (1), pip (1)
 > **Env Vars:** int (2), uint8 (2), csv (1), uci (1)
 > **Prerequisites:** install (3), make sure you have (1)
@@ -776,12 +768,11 @@ created: 2026-05-02
 > **Code Identifiers:** mlflow_project (1), get_dummies (1)
 > **Ports:** port 5 (1)
 
-#### Track a model run and register a model
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/track-a-model-run-and-register-a-model?u=76281980)
+#### [Track a model run and register a model](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/track-a-model-run-and-register-a-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/track-a-model-run-and-register-a-model?u=76281980&t=1)** - [Instructor] Before training a model, the first thing we'll do is create an MLflow experiment.
+> **[0:01](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/track-a-model-run-and-register-a-model?u=76281980&t=1)** - [Instructor] Before training a model, the first thing we'll do is create an [[MLflow]] experiment.
 >
 > **[0:05](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/track-a-model-run-and-register-a-model?u=76281980&t=5)** And MLflow experiment is a named workspace that organizes multiple related runs to track and compare different versions of a machine learning workflow.
 >
@@ -803,7 +794,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/track-a-model-run-and-register-a-model?u=76281980&t=65)** A run captures details like parameters, metrics, artifacts, and source code used.
 >
-> **[1:11](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/track-a-model-run-and-register-a-model?u=76281980&t=71)** Back to our notebook, I'm going to train a simple logistic regression model for classification.
+> **[1:11](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/track-a-model-run-and-register-a-model?u=76281980&t=71)** Back to our notebook, I'm going to train a simple [[Logistic Regression]] model for classification.
 >
 > **[1:17](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/track-a-model-run-and-register-a-model?u=76281980&t=77)** Now I want to log parameters and metrics to run within our experiment.
 >
@@ -841,7 +832,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/track-a-model-run-and-register-a-model?u=76281980&t=201)** These are stored and tracked to support reproducibility and model evaluation.
 >
-> **[3:26](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/track-a-model-run-and-register-a-model?u=76281980&t=206)** The MLmodel file is a metadata file in MLflow that describes how to load and serve a model.
+> **[3:26](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/track-a-model-run-and-register-a-model?u=76281980&t=206)** The MLmodel file is a [[Metadata]] file in MLflow that describes how to load and serve a model.
 >
 > **[3:32](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/track-a-model-run-and-register-a-model?u=76281980&t=212)** It will specify the model's format, dependencies, and entry points for tools like mlflow.pyfunc that can be used to load a model for prediction.
 >
@@ -869,7 +860,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLflow]] (18), data (5), [[Logistic Regression]] (2), cd (2), hit (1)
+> **Frameworks & Libraries:** [[MLflow]] (18), [[Logistic Regression]] (2), [[Metadata]] (1)
 > **Code Identifiers:** bank_marketing (3), logistic_regression (3), run_id (2), model_artifact (2), set_tracking_uri (1)
 > **CLI Commands:** find (3), cd (2), make (1)
 > **File Paths:** conda.yaml (1), python_env.yaml (1), requirements.txt (1)
@@ -878,8 +869,7 @@ created: 2026-05-02
 > **Env Vars:** uri (1)
 > **Exercise Files:** source code (1)
 
-#### Multiple model versions and predictions using registered models
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/multiple-model-versions-and-predictions-using-registered-models?u=76281980)
+#### [Multiple model versions and predictions using registered models](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/multiple-model-versions-and-predictions-using-registered-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -887,9 +877,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/multiple-model-versions-and-predictions-using-registered-models?u=76281980&t=8)** This is going to be a random forest model.
 >
-> **[0:10](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/multiple-model-versions-and-predictions-using-registered-models?u=76281980&t=10)** You can see I call it mlflow.start_run with run name random_forest.
+> **[0:10](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/multiple-model-versions-and-predictions-using-registered-models?u=76281980&t=10)** You can see I call it [[MLflow]].start_run with run name random_forest.
 >
-> **[0:14](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/multiple-model-versions-and-predictions-using-registered-models?u=76281980&t=14)** The remaining steps here are identical to the steps that we follow for the logistic regression model, so I won't go through these in detail.
+> **[0:14](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/multiple-model-versions-and-predictions-using-registered-models?u=76281980&t=14)** The remaining steps here are identical to the steps that we follow for the [[Logistic Regression]] model, so I won't go through these in detail.
 >
 > **[0:22](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/multiple-model-versions-and-predictions-using-registered-models?u=76281980&t=22)** We define and log hyperparameters, train the model, generate predictions, compute metrics, and then log metrics to ML flow.
 >
@@ -959,7 +949,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLflow]] (4), [[Logistic Regression]] (2), data (1)
+> **Frameworks & Libraries:** [[MLflow]] (4), [[Logistic Regression]] (2)
 > **Code Identifiers:** bank_marketing_model (5), random_forest (4), bank_marketing_production_model (4), start_run (1), model_name (1)
 > **Versions:** version 2 (5), version 1 (2)
 > **Env Vars:** uri (3)
@@ -972,16 +962,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing LLMOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-llmops?u=76281980)
+#### [Introducing LLMOps](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-llmops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-llmops?u=76281980&t=1)** - [Instructor] Most of the excitement in the field of AI today is around large language models.
+> **[0:01](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-llmops?u=76281980&t=1)** - [Instructor] Most of the excitement in the field of AI today is around [[Large Language Models (LLM)|large language models]].
 >
 > **[0:06](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-llmops?u=76281980&t=6)** Now, large language models have to be treated a little differently from traditional machine learning models.
 >
-> **[0:12](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-llmops?u=76281980&t=12)** So it's not just MLOps that we use to automate the pipelines for large language models, we have to use LLMOps.
+> **[0:12](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-llmops?u=76281980&t=12)** So it's not just [[MLOps]] that we use to automate the pipelines for large language models, we have to use LLMOps.
 >
 > **[0:19](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-llmops?u=76281980&t=19)** First, let's talk about what an LLM is.
 >
@@ -997,9 +986,9 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-llmops?u=76281980&t=50)** This is a set of practices that integrates machine learning development with operations, enabling reliable, reproducible and scalable ML deployment and lifecycle management.
 >
-> **[1:01](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-llmops?u=76281980&t=61)** LLMOps is the practice of managing the full lifecycle of large language models, including fine tuning, deployment, monitoring, feedback, safety and continuous improvement.
+> **[1:01](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-llmops?u=76281980&t=61)** LLMOps is the practice of managing the full lifecycle of large language models, including [[Fine Tuning]], deployment, monitoring, feedback, safety and continuous improvement.
 >
-> **[1:13](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-llmops?u=76281980&t=73)** Just like MLOps, LLMOps requires a collaboration of data scientists, DevOps engineers and IT professionals.
+> **[1:13](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-llmops?u=76281980&t=73)** Just like MLOps, LLMOps requires a collaboration of data scientists, [[DevOps]] engineers and IT professionals.
 >
 > **[1:21](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/introducing-llmops?u=76281980&t=81)** The operational requirements of MLOps typically apply to LLMOps as well, but there are challenges with training and deploying LLMs that require a different and unique approach to LLMOps.
 >
@@ -1045,22 +1034,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (5), llm (5), data (5), [[MLOps]] (4), prompt (3)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (5), [[MLOps]] (4), [[Fine Tuning]] (2), [[DevOps]] (1)
 > **Env Vars:** llm (5), mops (1)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### LLMOps vs. MLOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llmops-vs-mlops?u=76281980)
+#### [LLMOps vs. MLOps](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llmops-vs-mlops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llmops-vs-mlops?u=76281980&t=0)** - [Instructor] Let's talk about how LLMOps is different from MLOps.
+> **[0:00](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llmops-vs-mlops?u=76281980&t=0)** - [Instructor] Let's talk about how LLMOps is different from [[MLOps]].
 >
 > **[0:05](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llmops-vs-mlops?u=76281980&t=5)** The first difference is in the computational resources involved.
 >
-> **[0:09](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llmops-vs-mlops?u=76281980&t=9)** Training and deploying LLMs require high performance hardware like GPUs due to their massive compute demands.
+> **[0:09](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llmops-vs-mlops?u=76281980&t=9)** Training and deploying LLMs require high performance [[Hardware]] like GPUs due to their massive compute demands.
 >
 > **[0:17](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llmops-vs-mlops?u=76281980&t=17)** Techniques like model compression and distillation help reduce inference costs.
 >
@@ -1070,7 +1058,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llmops-vs-mlops?u=76281980&t=37)** Human feedback is critical for a good LLM.
 >
-> **[0:40](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llmops-vs-mlops?u=76281980&t=40)** LLMs benefit greatly from user feedback, especially through methods like RLHF, or Reinforcement Learning from Human Feedback.
+> **[0:40](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llmops-vs-mlops?u=76281980&t=40)** LLMs benefit greatly from user feedback, especially through methods like RLHF, or [[Reinforcement Learning]] from Human Feedback.
 >
 > **[0:49](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llmops-vs-mlops?u=76281980&t=49)** Integrating this feedback improves evaluation and supports future fine-tuning of models.
 >
@@ -1082,7 +1070,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llmops-vs-mlops?u=76281980&t=85)** LLMs, on the other hand, require different measures, such as BLEU scores or ROUGE scores, which need more thoughtful implementation and interpretation.
 >
-> **[1:35](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llmops-vs-mlops?u=76281980&t=95)** Prompt engineering is an essential part of LLM development.
+> **[1:35](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llmops-vs-mlops?u=76281980&t=95)** [[Prompt Engineering]] is an essential part of LLM development.
 >
 > **[1:39](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llmops-vs-mlops?u=76281980&t=99)** Crafting effective prompts is essential to guide LLMs reliably and safely, reducing issues like hallucination, prompt injection, or unintended behavior.
 >
@@ -1112,7 +1100,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llmops-vs-mlops?u=76281980&t=184)** The first step here is when you choose a foundation model to work with.
 >
-> **[3:08](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llmops-vs-mlops?u=76281980&t=188)** Choose a base model like GPT, Llama, or Claude that suits your task.
+> **[3:08](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llmops-vs-mlops?u=76281980&t=188)** Choose a base model like GPT, [[LLaMA]], or Claude that suits your task.
 >
 > **[3:13](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llmops-vs-mlops?u=76281980&t=193)** Foundation models are LLMs pre-trained on large amounts of data that can be used for a wide range of downstream tasks.
 >
@@ -1152,27 +1140,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), llm (5), [[Prompt Engineering]] (5), [[MLOps]] (2), next (2)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (5), [[MLOps]] (2), [[Hardware]] (1), [[Reinforcement Learning]] (1), [[LLaMA]] (1)
 > **Env Vars:** llm (5), rlhf (1), bleu (1), rouge (1), gpt (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** such as (3)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### LLM model development and evaluation
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-development-and-evaluation?u=76281980)
+#### [LLM model development and evaluation](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-development-and-evaluation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-development-and-evaluation?u=76281980&t=1)** - [Presenter] Let's discuss some of the important steps in LLM model development and evaluation.
 >
-> **[0:06](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-development-and-evaluation?u=76281980&t=6)** The first is prompt engineering and fine-tuning.
+> **[0:06](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-development-and-evaluation?u=76281980&t=6)** The first is [[Prompt Engineering]] and fine-tuning.
 >
 > **[0:09](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-development-and-evaluation?u=76281980&t=9)** Prompt engineering shapes outputs using carefully crafted inputs while fine-tuning update's model bits using domain-specific data.
 >
 > **[0:18](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-development-and-evaluation?u=76281980&t=18)** LLMOps supports both strategies for aligning models with specific use cases efficiently.
 >
-> **[0:25](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-development-and-evaluation?u=76281980&t=25)** Human feedback, often via reinforcement learning from human feedback or RLHF, is used to align LLMs with user intent and safety guidelines.
+> **[0:25](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-development-and-evaluation?u=76281980&t=25)** Human feedback, often via [[Reinforcement Learning]] from human feedback or RLHF, is used to align LLMs with user intent and safety guidelines.
 >
 > **[0:35](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-development-and-evaluation?u=76281980&t=35)** LLMOps incorporates pipelines to collect, evaluate, and apply this feedback continuously.
 >
@@ -1180,7 +1167,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-development-and-evaluation?u=76281980&t=51)** LLMOps frameworks enable automated and manual evaluation workflows to ensure consistent quality.
 >
-> **[0:58](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-development-and-evaluation?u=76281980&t=58)** It's possible for LLMs to memorize training data, raising privacy and compliance concerns.
+> **[0:58](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-development-and-evaluation?u=76281980&t=58)** It's possible for LLMs to memorize training data, raising [[Privacy]] and compliance concerns.
 >
 > **[1:05](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-development-and-evaluation?u=76281980&t=65)** LLMOps enforces data versioning, anonymization, and governance to ensure ethical data use and auditability.
 >
@@ -1226,7 +1213,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-development-and-evaluation?u=76281980&t=231)** Human-in-the-loop systems help ensure ongoing quality, safety, and alignment with user expectations.
 >
-> **[3:58](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-development-and-evaluation?u=76281980&t=238)** And finally, let's talk about data management and privacy.
+> **[3:58](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-development-and-evaluation?u=76281980&t=238)** And finally, let's talk about [[Data Management]] and privacy.
 >
 > **[4:02](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-development-and-evaluation?u=76281980&t=242)** Now, LLMs are very large and powerful models.
 >
@@ -1236,7 +1223,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-development-and-evaluation?u=76281980&t=260)** To ensure that training data is used responsibly, the data must be vetted for quality, compliance, and appropriateness.
 >
-> **[4:27](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-development-and-evaluation?u=76281980&t=267)** Versioning and documentation help maintain traceability and accountability in model development.
+> **[4:27](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-development-and-evaluation?u=76281980&t=267)** Versioning and documentation help maintain traceability and [[Accountability]] in model development.
 >
 > **[4:33](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-development-and-evaluation?u=76281980&t=273)** This means training data needs to be filtered, curated, and versioned.
 >
@@ -1246,14 +1233,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), llm (5), [[Prompt Engineering]] (5), [[Reinforcement Learning]] (3), [[Privacy]] (3)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (5), [[Reinforcement Learning]] (3), [[Privacy]] (3), [[Data Management]] (1), [[Accountability]] (1)
 > **Env Vars:** llm (5), rlhf (2)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), such as (1)
 > **Speakers:** - [presenter] (1)
 
-#### LLM model deployment and operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-deployment-and-operations?u=76281980)
+#### [LLM model deployment and operations](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-deployment-and-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1273,7 +1259,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-deployment-and-operations?u=76281980&t=43)** You're likely to be improving your model periodically, which means you'll need to deploy multiple versions.
 >
-> **[0:49](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-deployment-and-operations?u=76281980&t=49)** LLM versioning includes tracking not just model weights, but also prompts, adapters, and fine tuning configurations, which means you need registries that manage base models and all modifications that you make along with the relevant metadata.
+> **[0:49](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-deployment-and-operations?u=76281980&t=49)** LLM versioning includes tracking not just model weights, but also prompts, adapters, and [[Fine Tuning]] configurations, which means you need registries that manage base models and all modifications that you make along with the relevant [[Metadata]].
 >
 > **[1:05](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-deployment-and-operations?u=76281980&t=65)** And then of course, there are the cost and infrastructure considerations.
 >
@@ -1287,11 +1273,11 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-deployment-and-operations?u=76281980&t=95)** Your deployment options vary based on environments.
 >
-> **[1:39](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-deployment-and-operations?u=76281980&t=99)** Cloud APIs suit scalable web applications.
+> **[1:39](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-deployment-and-operations?u=76281980&t=99)** Cloud APIs suit [[Scalable Web Applications]].
 >
-> **[1:42](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-deployment-and-operations?u=76281980&t=102)** Serverless endpoints work well for event driven tasks and on device model serve low latency or privacy sensitive applications.
+> **[1:42](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-deployment-and-operations?u=76281980&t=102)** Serverless endpoints work well for event driven tasks and on device model serve low latency or [[Privacy]] sensitive applications.
 >
-> **[1:50](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-deployment-and-operations?u=76281980&t=110)** Choose the right deployment strategy to balance performance, accessibility, and user experience.
+> **[1:50](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-deployment-and-operations?u=76281980&t=110)** Choose the right deployment strategy to balance performance, accessibility, and [[User Experience (UX)|user experience]].
 >
 > **[1:56](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-deployment-and-operations?u=76281980&t=116)** It's no secret that LLMs requires significant memory and compute resources making inference costly and potentially slow at scale.
 >
@@ -1311,7 +1297,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-deployment-and-operations?u=76281980&t=170)** Monitoring must track prompt inputs, detect hallucinations, and flag toxic or unsafe outputs.
 >
-> **[2:56](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-deployment-and-operations?u=76281980&t=176)** Because LLMs are computationally intensive, real-time monitoring of GPU or CPU usage, memory and latency is essential to ensure performance and cost efficiency.
+> **[2:56](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-deployment-and-operations?u=76281980&t=176)** Because LLMs are computationally intensive, [[Real-Time]] monitoring of GPU or CPU usage, memory and latency is essential to ensure performance and cost efficiency.
 >
 > **[3:08](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-deployment-and-operations?u=76281980&t=188)** Unexpected slowdowns or spikes can degrade user experience or lead to infrastructure issues.
 >
@@ -1325,7 +1311,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-deployment-and-operations?u=76281980&t=227)** Tracking these elements ensures reproducibility and safe rollbacks when behavior changes.
 >
-> **[3:52](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-deployment-and-operations?u=76281980&t=232)** Registries should capture which foundational model was used, maybe Llama 2 or minstrel, and log every transformation to that model.
+> **[3:52](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-deployment-and-operations?u=76281980&t=232)** Registries should capture which foundational model was used, maybe [[LLaMA]] 2 or minstrel, and log every transformation to that model.
 >
 > **[4:02](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/llm-model-deployment-and-operations?u=76281980&t=242)** Whether it's prompt tuning adapters or instruction fine tuning, this allows teams to trace lineage and maintain control over production models.
 >
@@ -1357,7 +1343,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (8), prompt (5), [[Fine Tuning]] (4), [[Metadata]] (2), [[User Experience (UX)|User experience]] (2)
+> **Frameworks & Libraries:** [[Fine Tuning]] (4), [[Metadata]] (2), [[User Experience (UX)|User experience]] (2), [[Scalable Web Applications]] (1), [[Privacy]] (1)
 > **Env Vars:** llm (8), gpu (1), cpu (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** you'll need (1), configure (1)
@@ -1365,16 +1351,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Benefits, best practices, and considerations for LLMOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980)
+#### [Benefits, best practices, and considerations for LLMOps](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980&t=1)** - [Instructor] In this movie, we'll talk about benefits, best practices, and things to watch out for when you are using LLMOps.
 >
-> **[0:08](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980&t=8)** LLMOps provides structured workflows and tools to streamline the entire lifecycle of LLM powered applications, from experimentation and fine tuning to deployment and monitoring.
+> **[0:08](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980&t=8)** LLMOps provides structured workflows and tools to streamline the entire lifecycle of LLM powered applications, from experimentation and [[Fine Tuning]] to deployment and monitoring.
 >
-> **[0:19](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980&t=19)** This results in faster iteration cycles and a quicker time to market for your innovative AI solutions, leveraging large language models.
+> **[0:19](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980&t=19)** This results in faster iteration cycles and a quicker time to market for your innovative [[AI Solutions]], leveraging [[Large Language Models (LLM)|large language models]].
 >
 > **[0:27](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980&t=27)** LLMOps includes robust monitoring, evaluation, and feedback mechanisms, including human in the loop processes.
 >
@@ -1400,15 +1385,15 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980&t=120)** For training and fine tuning, ensure your data sets are clean, relevant, representative, and properly versioned.
 >
-> **[2:07](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980&t=127)** For LLMs, pay extra attention to data privacy, potential biases and copyright considerations, and implement clear data lineage tracking.
+> **[2:07](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980&t=127)** For LLMs, pay extra attention to [[Data Privacy]], potential biases and copyright considerations, and implement clear [[Data Lineage]] tracking.
 >
 > **[2:18](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980&t=138)** Make sure you secure your AI systems and the data they handle.
 >
 > **[2:21](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980&t=141)** This includes authentication, authorization, encryption in transit, and address and protection against adversarial attacks like prompt injection for LLMs.
 >
-> **[2:33](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980&t=153)** Be aggressive in your version control and track all of the artifacts involved.
+> **[2:33](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980&t=153)** Be aggressive in your [[Version Control]] and track all of the artifacts involved.
 >
-> **[2:38](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980&t=158)** Maintain version control for your code using say Git.
+> **[2:38](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980&t=158)** Maintain version control for your code using say [[Git]].
 >
 > **[2:42](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980&t=162)** For your models, using ML Flow or some similar framework.
 >
@@ -1426,15 +1411,15 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980&t=201)** Do not have manual components in your infrastructure management.
 >
-> **[3:25](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980&t=205)** Relying on manual processes for infrastructure provisioning and model deployment is error prone, slow, and hinder scalability.
+> **[3:25](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980&t=205)** Relying on manual processes for infrastructure provisioning and model deployment is error prone, slow, and hinder [[Scalability]].
 >
 > **[3:33](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980&t=213)** Automate everything.
 >
-> **[3:35](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980&t=215)** Use infrastructure as code and CICD pipelines.
+> **[3:35](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980&t=215)** Use [[Infrastructure as code (IaC)|infrastructure as code]] and CICD pipelines.
 >
 > **[3:40](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980&t=220)** Keep ethical considerations. Top of mind.
 >
-> **[3:43](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980&t=223)** Consider fairness, privacy, and potential misuse because if you don't, this can lead to negative societal impacts and reputational damage.
+> **[3:43](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980&t=223)** Consider fairness, [[Privacy]], and potential misuse because if you don't, this can lead to negative societal impacts and reputational damage.
 >
 > **[3:53](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/benefits-best-practices-and-considerations-for-llmops?u=76281980&t=233)** LLMs are not one size fits all.
 >
@@ -1444,7 +1429,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), llm (5), [[Fine Tuning]] (4), [[Version Control]] (3), ai (2)
+> **Frameworks & Libraries:** [[Fine Tuning]] (4), [[Version Control]] (3), [[AI Solutions]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Data Privacy]] (1)
 > **Env Vars:** llm (5), dvc (1), cicd (1)
 > **CLI Commands:** make (4), git (1)
 > **Warnings:** watch out (1), keep in mind (1)
@@ -1455,8 +1440,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Components of a data orchestration pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/components-of-a-data-orchestration-pipeline?u=76281980)
+#### [Components of a data orchestration pipeline](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/components-of-a-data-orchestration-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1484,11 +1468,11 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/components-of-a-data-orchestration-pipeline?u=76281980&t=69)** The extraction stage involves collecting data from various sources and systems.
 >
-> **[1:13](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/components-of-a-data-orchestration-pipeline?u=76281980&t=73)** These sources can be diverse and include databases, APIs, cloud storage, SaaS applications, and more.
+> **[1:13](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/components-of-a-data-orchestration-pipeline?u=76281980&t=73)** These sources can be diverse and include [[Databases]], APIs, [[Cloud Storage]], [[SaaS]] applications, and more.
 >
 > **[1:20](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/components-of-a-data-orchestration-pipeline?u=76281980&t=80)** Once data is extracted, this stage focuses on cleaning, shaping, and preparing data for its intended use.
 >
-> **[1:27](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/components-of-a-data-orchestration-pipeline?u=76281980&t=87)** This can involve tasks like data cleaning, data enrichment, and data modeling.
+> **[1:27](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/components-of-a-data-orchestration-pipeline?u=76281980&t=87)** This can involve tasks like [[Data Cleaning]], data enrichment, and [[Data Modeling]].
 >
 > **[1:33](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/components-of-a-data-orchestration-pipeline?u=76281980&t=93)** In the loading stage, the transformed data is written to the target destination.
 >
@@ -1512,13 +1496,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Orchestration]] (5), ai (2), [[Databases]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Cloud Storage]] (1), [[SaaS]] (1), [[Data Cleaning]] (1), [[Data Modeling]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Detailed overview of pipeline components
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/detailed-overview-of-pipeline-components?u=76281980)
+#### [Detailed overview of pipeline components](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/detailed-overview-of-pipeline-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1526,9 +1509,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/detailed-overview-of-pipeline-components?u=76281980&t=3)** Extraction is about connecting to diverse sources, to get data into your system.
 >
-> **[0:09](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/detailed-overview-of-pipeline-components?u=76281980&t=9)** The pipeline must establish connections to various data origins, handling different protocols, authentication methods, and data formats, SQL sources, no SQL sources, REST APIs, CSV, JSON files, everything.
+> **[0:09](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/detailed-overview-of-pipeline-components?u=76281980&t=9)** The pipeline must establish connections to various data origins, handling different protocols, authentication methods, and data formats, [[SQL]] sources, no SQL sources, [[Representational State Transfer (REST)|REST]] APIs, CSV, [[JSON]] files, everything.
 >
-> **[0:23](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/detailed-overview-of-pipeline-components?u=76281980&t=23)** Next, we have the data ingestion strategies.
+> **[0:23](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/detailed-overview-of-pipeline-components?u=76281980&t=23)** Next, we have the [[Data Ingestion]] strategies.
 >
 > **[0:26](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/detailed-overview-of-pipeline-components?u=76281980&t=26)** This involves defining how data is pulled, whether it's a full refresh that is retrieving all the data every time, or incremental refresh, fetching only newer, updated data to optimize efficiency.
 >
@@ -1538,9 +1521,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/detailed-overview-of-pipeline-components?u=76281980&t=59)** Once the data is extracted and ingested, we move on to the transformation stage.
 >
-> **[1:03](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/detailed-overview-of-pipeline-components?u=76281980&t=63)** This involves data cleaning and quality checks, identifying, addressing data quality issues like missing values, inconsistencies, duplicates, and outliers through various cleaning techniques and validation rules.
+> **[1:03](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/detailed-overview-of-pipeline-components?u=76281980&t=63)** This involves [[Data Cleaning]] and quality checks, identifying, addressing [[Data Quality]] issues like missing values, inconsistencies, duplicates, and outliers through various cleaning techniques and validation rules.
 >
-> **[1:15](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/detailed-overview-of-pipeline-components?u=76281980&t=75)** Data integration and enrichment involves combining data from multiple sources based on defined keys and enriching it with additional relevant information to provide a more comprehensive and complete view of your data.
+> **[1:15](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/detailed-overview-of-pipeline-components?u=76281980&t=75)** [[Data Integration]] and enrichment involves combining data from multiple sources based on defined keys and enriching it with additional relevant information to provide a more comprehensive and complete view of your data.
 >
 > **[1:29](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/detailed-overview-of-pipeline-components?u=76281980&t=89)** You would then model and shape your data, restructure the data into a format suitable for the target system or for your analytical needs.
 >
@@ -1588,7 +1571,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/detailed-overview-of-pipeline-components?u=76281980&t=225)** You can configure the pipeline to run automatically in response to specific events such as the arrival of new data in a file in a designated location or the completion of an upstream process.
 >
-> **[3:57](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/detailed-overview-of-pipeline-components?u=76281980&t=237)** You need to specify dependencies between different tasks within the pipeline or between multiple pipelines to ensure that they run in the correct order and make sure you provide mechanisms to manually initiate pipeline runs and control their execution for testing or ad hoc data processing needs.
+> **[3:57](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/detailed-overview-of-pipeline-components?u=76281980&t=237)** You need to specify dependencies between different tasks within the pipeline or between multiple pipelines to ensure that they run in the correct order and make sure you provide mechanisms to manually initiate pipeline runs and control their execution for testing or ad hoc [[Data Processing]] needs.
 >
 > **[4:15](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/detailed-overview-of-pipeline-components?u=76281980&t=255)** We've discussed that monitoring and alerting configured on your pipeline is an integral part of building a pipeline.
 >
@@ -1620,7 +1603,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (39), etl (3), [[SQL]] (2), next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Data Quality]] (2), [[Data Processing]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[JSON]] (1)
 > **Env Vars:** etl (3), elt (3), sql (2), rest (1), csv (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -1629,8 +1612,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data orchestration pipeline best practices and dos and don'ts
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980)
+#### [Data orchestration pipeline best practices and dos and don'ts](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1650,11 +1632,11 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=45)** Maintaining the right balance is also challenging.
 >
-> **[0:49](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=49)** Teams want to experiment with new prompts, fine tuning methods or tools, but if you give too much flexibility, that can lead to inconsistent practices and fragile systems.
+> **[0:49](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=49)** Teams want to experiment with new prompts, [[Fine Tuning]] methods or tools, but if you give too much flexibility, that can lead to inconsistent practices and fragile systems.
 >
 > **[0:58](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=58)** Your orchestration pipeline needs to strike a balance, enabling innovation while enforcing standards for reliability and reproducibility.
 >
-> **[1:07](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=67)** Pipeline sprawl refers to a situation where an organization has an excessive, unmanaged, and often poorly documented number of data pipelines.
+> **[1:07](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=67)** Pipeline sprawl refers to a situation where an organization has an excessive, unmanaged, and often poorly documented number of [[Data Pipelines]].
 >
 > **[1:16](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=76)** These pipelines might be redundant, serve overlapping purposes, have unclear ownership, lack standardization, and thus become increasingly difficult to maintain, monitor, and govern effectively.
 >
@@ -1662,13 +1644,13 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=92)** Break down complex pipelines into smaller, independent, and reusable components or tasks.
 >
-> **[1:38](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=98)** This makes your pipeline easier to maintain, makes debugging easier, and allows for the reuse of common data transformation logic across multiple pipelines.
+> **[1:38](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=98)** This makes your pipeline easier to maintain, makes debugging easier, and allows for the reuse of common [[Data Transformation]] logic across multiple pipelines.
 >
 > **[1:48](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=108)** Design pipelines with comprehensive error handling mechanisms, including retries, logging of errors and dead letter queues for failed data.
 >
-> **[1:57](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=117)** Integrate monitoring with alerts for failures, track performance degradation and data quality issues.
+> **[1:57](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=117)** Integrate monitoring with alerts for failures, track performance degradation and [[Data Quality]] issues.
 >
-> **[2:04](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=124)** Make use of infrastructure as code to provision your pipelines, and treat your pipeline definitions, configurations, and underlying infrastructure as code and manage them using version control systems like Git.
+> **[2:04](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=124)** Make use of [[Infrastructure as code (IaC)|infrastructure as code]] to provision your pipelines, and treat your pipeline definitions, configurations, and underlying infrastructure as code and manage them using [[Version Control]] systems like [[Git]].
 >
 > **[2:17](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=137)** Make sure that your pipeline includes data quality checks, and validation steps throughout the pipeline, especially during the transformation stage and the loading stage.
 >
@@ -1690,7 +1672,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=192)** Document their purpose, logic, dependencies, and data flow.
 >
-> **[3:16](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=196)** Make sure you track data lineage, where the data comes from and how it's transformed all in your documentation.
+> **[3:16](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=196)** Make sure you track [[Data Lineage]], where the data comes from and how it's transformed all in your documentation.
 >
 > **[3:23](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=203)** Make sure that you incorporate error handling mechanisms and proactive monitoring in your pipelines.
 >
@@ -1700,13 +1682,13 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=220)** Here are some popular systems for data orchestration pipelines.
 >
-> **[3:45](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=225)** Apache Airflow is an open-source platform for programmatically authoring, scheduling, and monitoring workflows.
+> **[3:45](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=225)** [[Apache Airflow]] is an open-source platform for programmatically authoring, scheduling, and monitoring workflows.
 >
 > **[3:52](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=232)** It uses directed acyclic graphs to represent pipelines and offers a wide range of integrations.
 >
 > **[3:57](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=237)** Prefect is another open-source orchestration framework known for its dynamic workflows and strong focus on developer experience.
 >
-> **[4:05](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=245)** It allows defining workflows in Python and offers both a cloud and self-hosted option.
+> **[4:05](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=245)** It allows defining workflows in [[Python (Programming Language)|Python]] and offers both a cloud and self-hosted option.
 >
 > **[4:11](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=251)** Dagster is an open-source tool that focuses on data-aware orchestration, allowing you to define pipelines in terms of the data assets they produce.
 >
@@ -1714,13 +1696,13 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=263)** Every cloud platform offers its own data orchestration pipeline.
 >
-> **[4:28](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=268)** AWS Step Functions is a serverless orchestration service from Amazon Web Services that lets you coordinate multiple AWS services into serverless workflows using state machines.
+> **[4:28](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=268)** AWS Step Functions is a serverless orchestration service from [[Amazon Web Services (AWS)|Amazon Web Services]] that lets you coordinate multiple AWS services into serverless workflows using state machines.
 >
-> **[4:39](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=279)** Data orchestration pipelines in Azure include Azure Data Factory within which we have data flows and data pipelines.
+> **[4:39](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/data-orchestration-pipelne-best-practices-and-dos-and-donts?u=76281980&t=279)** Data orchestration pipelines in [[Microsoft Azure|Azure]] include Azure Data Factory within which we have data flows and data pipelines.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Orchestration]] (8), open-source (3), llm (2), [[Debugging]] (2)
+> **Frameworks & Libraries:** [[Data Quality]] (3), [[Data Pipelines]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), [[Microsoft Azure|Azure]] (2), [[Fine Tuning]] (1)
 > **CLI Commands:** make (6), aws (2), git (1), apache (1), python (1)
 > **Env Vars:** llm (2), aws (2), api (1)
 > **Definitions:** is an  (2), refers to (1), is a  (1)
@@ -1732,20 +1714,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary and further study
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/summary-and-further-study?u=76281980)
+#### [Summary and further study](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/summary-and-further-study?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/summary-and-further-study?u=76281980&t=1)** - [Instructor] And this brings us to the very end of this course on MLOps and data pipeline orchestration for AI systems.
+> **[0:01](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/summary-and-further-study?u=76281980&t=1)** - [Instructor] And this brings us to the very end of this course on [[MLOps]] and data pipeline orchestration for AI systems.
 >
 > **[0:07](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/summary-and-further-study?u=76281980&t=7)** Let's take a quick look at what we covered here in this course.
 >
-> **[0:10](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/summary-and-further-study?u=76281980&t=10)** We first understood Agile development and how DevOps works and introduced MLOps.
+> **[0:10](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/summary-and-further-study?u=76281980&t=10)** We first understood [[Agile Development|Agile]] development and how [[DevOps]] works and introduced MLOps.
 >
 > **[0:16](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/summary-and-further-study?u=76281980&t=16)** We saw that MLOps was significantly more complicated than DevOps, because we have to deal with both code and data.
 >
-> **[0:23](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/summary-and-further-study?u=76281980&t=23)** We also got some hands-on experience working with models in MLflow, an integral part of MLOps ecosystems.
+> **[0:23](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/summary-and-further-study?u=76281980&t=23)** We also got some hands-on experience working with models in [[MLflow]], an integral part of MLOps ecosystems.
 >
 > **[0:31](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/summary-and-further-study?u=76281980&t=31)** We then moved on to discussing MLOps for LLMs.
 >
@@ -1757,7 +1738,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/summary-and-further-study?u=76281980&t=51)** If you're interested in studying further, here are some other courses on AI that you might find interesting.
 >
-> **[0:57](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/summary-and-further-study?u=76281980&t=57)** Semantic Search and Information Retrieval in AI Systems and AI and Data Engineering with Knowledge Graphs and Large Language Models.
+> **[0:57](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/summary-and-further-study?u=76281980&t=57)** [[Semantic Search]] and [[Information Retrieval]] in AI Systems and AI and [[Data Engineering]] with [[Knowledge Graphs]] and [[Large Language Models (LLM)|Large Language Models]].
 >
 > **[1:07](https://www.linkedin.com/learning/mlops-and-data-pipeline-orchestration-for-ai-systems/summary-and-further-study?u=76281980&t=67)** Well, that's it from me here today.
 >
@@ -1765,7 +1746,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLOps]] (5), ai (4), data (3), [[Orchestration]] (2), [[DevOps]] (2)
+> **Frameworks & Libraries:** [[MLOps]] (5), [[DevOps]] (2), [[Agile Development|Agile]] (1), [[MLflow]] (1), [[Semantic Search]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [instructor] (1)

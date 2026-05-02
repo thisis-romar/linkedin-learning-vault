@@ -123,14 +123,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data science life hacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-life-hacks?u=76281980)
+#### [Data science life hacks](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-life-hacks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-life-hacks?u=76281980&t=0)** - [Lillian] Have you ever wanted to be able to copy and paste a bunch of data off a website or just get the gist of all the content without actually having to read through line by line?
 >
-> **[0:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-life-hacks?u=76281980&t=10)** If so, then great, because I'm going to show you how to build a web scraper in Python so that you can have that data written off of the web for you automatically.
+> **[0:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-life-hacks?u=76281980&t=10)** If so, then great, because I'm going to show you how to build a web scraper in [[Python (Programming Language)|Python]] so that you can have that data written off of the web for you automatically.
 >
 > **[0:19](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-life-hacks?u=76281980&t=19)** And I'm also going to be introducing you to a Python library that you can use to visualize that data in a standalone, shareable web application using just a few lines of code.
 >
@@ -138,16 +137,15 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-life-hacks?u=76281980&t=32)** I'm a data and AI strategist with nearly three decades of experience working with data.
 >
-> **[0:37](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-life-hacks?u=76281980&t=37)** Let's get going on Python for Data Science.
+> **[0:37](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-life-hacks?u=76281980&t=37)** Let's get going on Python for [[Data Science]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (3), web (2), web application (1), ai (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Data Science]] (1)
 > **CLI Commands:** python (3)
 > **Speakers:** - [lillian] (1)
 
-#### How to use Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/how-to-use-codespaces-with-this-course?u=76281980)
+#### [How to use Codespaces with this course](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/how-to-use-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -163,7 +161,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/how-to-use-codespaces-with-this-course?u=76281980&t=43)** How Code Spaces works is that essentially it initiates a virtual machine providing you a web interface with which to interact.
 >
-> **[0:52](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/how-to-use-codespaces-with-this-course?u=76281980&t=52)** Within the terminal here you're free to execute common Linux commands and Python scripts.
+> **[0:52](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/how-to-use-codespaces-with-this-course?u=76281980&t=52)** Within the terminal here you're free to execute common [[Linux]] commands and [[Python (Programming Language)|Python]] scripts.
 >
 > **[1:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/how-to-use-codespaces-with-this-course?u=76281980&t=60)** We'll be using the terminal to build Streamlit applications in chapter eight of this course.
 >
@@ -187,7 +185,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/how-to-use-codespaces-with-this-course?u=76281980&t=140)** When you see this check mark here, you know that the code is finished running, and this timestamp indicates how long it took for the program to run.
 >
-> **[2:33](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/how-to-use-codespaces-with-this-course?u=76281980&t=153)** And this demo has now guided you through opening a project on GitHub, creating a code space, opening a Jupyter Notebook, and executing it via code spaces.
+> **[2:33](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/how-to-use-codespaces-with-this-course?u=76281980&t=153)** And this demo has now guided you through opening a project on [[GitHub]], creating a code space, opening a Jupyter Notebook, and executing it via code spaces.
 >
 > **[2:44](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/how-to-use-codespaces-with-this-course?u=76281980&t=164)** I find Code Spaces to be a handy GitHub product.
 >
@@ -197,7 +195,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), web (2), [[GitHub]] (2), [[Linux]] (1), product (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[GitHub]] (2), [[Linux]] (1)
 > **Tools:** jupyter (4), terminal (3), github (2)
 > **CLI Commands:** python (3), find (2)
 > **UI Navigation:** click on (2), select the (1)
@@ -210,8 +208,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the data professions
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980)
+#### [Introduction to the data professions](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -221,13 +218,13 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=20)** The thing about the data space in general is that there are many, many different types of roles, and although there may be similarities between the objectives that these roles fill, the roles are actually quite different.
 >
-> **[0:34](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=34)** So when you're taking a training course in data science and you aspire to become a data scientist, you really do need to have a fundamental idea about where you fit in and what your responsibilities and requirements should be with respect to other data professionals.
+> **[0:34](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=34)** So when you're taking a training course in [[Data Science]] and you aspire to become a data scientist, you really do need to have a fundamental idea about where you fit in and what your responsibilities and requirements should be with respect to other data professionals.
 >
 > **[0:52](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=52)** So you want to have that in mind when you get placed in the field in order that in case your employer is asking you to do something that is outside the scope of data science per se, you want to know that actually you transitioning your career into a similar, yet competing field.
 >
 > **[1:14](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=74)** So first, let's just talk about the functions within the data space.
 >
-> **[1:18](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=78)** I've broken these down into data science, data engineering, data analytics, and business intelligence.
+> **[1:18](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=78)** I've broken these down into data science, [[Data Engineering]], data analytics, and [[Business Intelligence (BI)|business intelligence]].
 >
 > **[1:25](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=85)** These four functions work together to generate business value from data.
 >
@@ -273,11 +270,11 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=258)** So if you are already having a STEM degree, it's going to be a lot easier for you to transition into a data science role compared to if you are of a liberal arts background or something like that.
 >
-> **[4:30](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=270)** Another thing is that data scientists are programmers, so they should really know how to program in R and Python, and also how to write SQL queries, things like that.
+> **[4:30](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=270)** Another thing is that data scientists are programmers, so they should really know how to program in R and [[Python (Programming Language)|Python]], and also how to write [[SQL]] queries, things like that.
 >
 > **[4:41](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=281)** Data scientists, by personality, well they're curious and they're tenacious individuals, so they're willing to really stick it out until they get the findings and results that they need.
 >
-> **[4:54](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=294)** If you have a background in business intelligence reporting, data analysis, or data-driven decision making, then you're a good candidate for looking into maybe stepping up into a data scientist role.
+> **[4:54](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=294)** If you have a background in business intelligence reporting, data analysis, or [[Data-driven Decision Making]], then you're a good candidate for looking into maybe stepping up into a data scientist role.
 >
 > **[5:08](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=308)** Generally, data scientists are interested in why over how.
 >
@@ -293,7 +290,7 @@ created: 2026-05-02
 >
 > **[5:52](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=352)** Now, let's look at some of the typical tasks that data scientists are required to do.
 >
-> **[5:57](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=357)** Data scientists in general derive insights from data, including big data sets.
+> **[5:57](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=357)** Data scientists in general derive insights from data, including [[Big Data]] sets.
 >
 > **[6:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=363)** So if you've been around in the field for a while, then you probably know what big data is.
 >
@@ -305,11 +302,11 @@ created: 2026-05-02
 >
 > **[6:25](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=385)** That data is probably going to be sitting in a data engineered system.
 >
-> **[6:31](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=391)** And when I say data engineered system, I mean if you're working on data that's being derived from big data, then it's probably going to be in a more innovative system than just the traditional relational database management system.
+> **[6:31](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=391)** And when I say data engineered system, I mean if you're working on data that's being derived from big data, then it's probably going to be in a more innovative system than just the traditional relational [[Database Management]] system.
 >
-> **[6:47](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=407)** Although you may also be pulling data from relational databases, just like statisticians and business intelligence people have been doing for many, many decades.
+> **[6:47](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=407)** Although you may also be pulling data from [[Relational Databases]], just like statisticians and business intelligence people have been doing for many, many decades.
 >
-> **[6:59](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=419)** The next type of task that data scientists do is that they uncover correlations and causations in business data to support business decision making.
+> **[6:59](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=419)** The next type of task that data scientists do is that they uncover correlations and causations in business data to support [[Business Decision Making]].
 >
 > **[7:09](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=429)** So what this is actually called is decision support, and the name makes sense in light of the task associated with that requirement.
 >
@@ -317,13 +314,13 @@ created: 2026-05-02
 >
 > **[7:27](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=447)** In terms of competencies that are generally required of data scientists, you should have a STEM degree with some advanced mathematics.
 >
-> **[7:36](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=456)** So if you finish your calculus and have gone into differential equations, that would be a good setup.
+> **[7:36](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=456)** So if you finish your [[Calculus]] and have gone into differential equations, that would be a good setup.
 >
-> **[7:42](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=462)** You will also need to take fundamental statistics, but if you've gone into linear algebra and these types of topics during your college education, then you're going to be in a good place to try and move into the data science role.
+> **[7:42](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=462)** You will also need to take fundamental [[Statistics]], but if you've gone into [[Linear Algebra]] and these types of topics during your college education, then you're going to be in a good place to try and move into the data science role.
 >
 > **[7:56](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=476)** Data scientists also need to know how to code, so they should know how to code in languages like Python, R, and SQL.
 >
-> **[8:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=483)** They should know how to use coding to implement machine learning algorithms.
+> **[8:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=483)** They should know how to use coding to implement machine learning [[Algorithms]].
 >
 > **[8:07](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=487)** So these are basic typical competencies that are required of data scientists.
 >
@@ -357,25 +354,25 @@ created: 2026-05-02
 >
 > **[9:57](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=597)** Obviously, you can see there's a bit of a scope shift there.
 >
-> **[10:02](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=602)** In terms of typical tasks, data engineers design systems that collect, handle, and store big data sets.
+> **[10:02](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=602)** In terms of typical tasks, data engineers [[Design Systems]] that collect, handle, and store big data sets.
 >
-> **[10:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=610)** They work to build modular, scalable platforms for data processing, and they also design, build and maintain systems that store and move big data and regular types of data as well.
+> **[10:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=610)** They work to build modular, scalable platforms for [[Data Processing]], and they also design, build and maintain systems that store and move big data and regular types of data as well.
 >
 > **[10:22](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=622)** In terms of typical competencies, people that work as data engineers generally should have good computer science background, a background in software engineering.
 >
-> **[10:34](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=634)** And then in terms of coding requirements, they should generally know languages like Java, C++, and Python.
+> **[10:34](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=634)** And then in terms of coding requirements, they should generally know languages like [[Java]], C++, and Python.
 >
 > **[10:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=643)** And moving into the data analytics professionals.
 >
 > **[10:46](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=646)** First, let's start off by what is data analytics?
 >
-> **[10:50](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=650)** Data analytics are data products that describe data and how it behaves.
+> **[10:50](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=650)** Data analytics are data [[Microsoft Products|products]] that describe data and how it behaves.
 >
 > **[10:56](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=656)** So these data products are generated from data analysis and visualization processes, and the people that are generally functioning within a data analytics role would be titled something like analytics specialist or analytics expert.
 >
 > **[11:14](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=674)** The role of analytics professionals has evolved significantly over the past few years.
 >
-> **[11:20](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=680)** In 2023, analytics professionals are expected to have a strong understanding of data science, machine learning, and artificial intelligence.
+> **[11:20](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=680)** In 2023, analytics professionals are expected to have a strong understanding of data science, machine learning, and [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[11:30](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-data-professions?u=76281980&t=690)** They're also expected to be proficient in coding languages like Python and R and be able to use advanced tools and platforms.
 >
@@ -407,7 +404,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (91), [[Analytics]] (12), [[Python (Programming Language)|Python]] (8), business (6), [[Big Data]] (6)
+> **Frameworks & Libraries:** [[Data Science]] (16), [[Python (Programming Language)|Python]] (8), [[Big Data]] (6), [[Business Intelligence (BI)|Business intelligence]] (3), [[Statistics]] (3)
 > **CLI Commands:** make (8), python (8), find (1)
 > **Env Vars:** stem (2), sql (2), etl (1)
 > **Prerequisites:** getting started (1), required to (1), setup (1)
@@ -415,12 +412,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [narrator] (1)
 
-#### Data science careers: Identifying where and how you'll thrive
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-careers-identifying-where-and-how-you-ll-thrive?u=76281980)
+#### [Data science careers: Identifying where and how you'll thrive](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-careers-identifying-where-and-how-you-ll-thrive?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-careers-identifying-where-and-how-you-ll-thrive?u=76281980&t=0)** - [Narrator] For someone taking an entry-level data science course, it would be easy to assume that once you've developed data science skills, you will then become a data analyst or a data scientist.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-careers-identifying-where-and-how-you-ll-thrive?u=76281980&t=0)** - [Narrator] For someone taking an entry-level [[Data Science]] course, it would be easy to assume that once you've developed data science skills, you will then become a data analyst or a data scientist.
 >
 > **[0:11](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-careers-identifying-where-and-how-you-ll-thrive?u=76281980&t=11)** And for some people that might be true, but oftentimes, people with data science skills don't actually work as data analysts or data scientists.
 >
@@ -444,7 +440,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-careers-identifying-where-and-how-you-ll-thrive?u=76281980&t=120)** They're generally happy to code on their own all day long, so long as that means that they don't have to talk to or interact with other people all that much.
 >
-> **[2:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-careers-identifying-where-and-how-you-ll-thrive?u=76281980&t=130)** A recent market research shows that data implementers generally earn anywhere between $60,000 to $120,000 per year in salary in the United States.
+> **[2:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-careers-identifying-where-and-how-you-ll-thrive?u=76281980&t=130)** A recent [[Market Research]] shows that data implementers generally earn anywhere between $60,000 to $120,000 per year in salary in the United States.
 >
 > **[2:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-careers-identifying-where-and-how-you-ll-thrive?u=76281980&t=143)** But what if you love working with people and you really need to see that big picture impact of your work in order to be satisfied in your professional life?
 >
@@ -480,23 +476,22 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-careers-identifying-where-and-how-you-ll-thrive?u=76281980&t=281)** At its core, Facebook is a data company.
 >
-> **[4:44](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-careers-identifying-where-and-how-you-ll-thrive?u=76281980&t=284)** Now that you know about the different types of options available to you with data analysis and data science skills, let's look at why Python is such a great programming language for analyzing data.
+> **[4:44](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-science-careers-identifying-where-and-how-you-ll-thrive?u=76281980&t=284)** Now that you know about the different types of options available to you with data analysis and data science skills, let's look at why [[Python (Programming Language)|Python]] is such a great programming language for analyzing data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (40), business (6), [[Market Research]] (1), teams (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (13), [[Market Research]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Definitions:** means that (1), is a  (1)
 > **Env Vars:** ceo (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [narrator] (1)
 
-#### Why to use Python for analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980)
+#### [Why to use Python for analytics](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=0)** - [Instructor] Let's talk about why it's a good idea to use Python for working with data instead of any of the other competing coding languages or methodologies you could use to implement data science.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=0)** - [Instructor] Let's talk about why it's a good idea to use [[Python (Programming Language)|Python]] for working with data instead of any of the other competing coding languages or methodologies you could use to implement [[Data Science]].
 >
 > **[0:13](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=13)** First of all, let's look at what are your alternatives to Python?
 >
@@ -504,13 +499,13 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=31)** Looking into the definition of Python, what is the Python programming language?
 >
-> **[0:37](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=37)** Well, Python is a high-level interpreted coding language that's useful for a wide variety of applications, and it's the official programming language of Google.
+> **[0:37](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=37)** Well, Python is a high-level interpreted coding language that's useful for a wide variety of applications, and it's the official programming language of [[Google]].
 >
 > **[0:48](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=48)** The benefits to using Python are that it's extremely easy to learn and it's human readable.
 >
 > **[0:55](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=55)** It's got an extensive array of well-supported data science libraries, and it's got the biggest user base of all data science languages.
 >
-> **[1:04](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=64)** Also, it's useful in data engineering as well as data science.
+> **[1:04](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=64)** Also, it's useful in [[Data Engineering]] as well as data science.
 >
 > **[1:08](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=68)** You can use it for building predictive web applications as well.
 >
@@ -520,9 +515,9 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=88)** As of 2023, Python is the most popular programming language of all programming languages around.
 >
-> **[1:36](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=96)** In the TIOBE Index, a measure of the programming language's popularity, Python ranks first, whereas the ubiquitous querying language SQL is ranked at position nine in popularity.
+> **[1:36](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=96)** In the TIOBE Index, a measure of the programming language's popularity, Python ranks first, whereas the ubiquitous querying language [[SQL]] is ranked at position nine in popularity.
 >
-> **[1:51](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=111)** R is another widely used language, especially in the fields of data science and research and statistics.
+> **[1:51](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=111)** R is another widely used language, especially in the fields of data science and research and [[Statistics]].
 >
 > **[1:58](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=118)** But as of October 2023, R actually ranks as 17th in the TIOBE Index.
 >
@@ -546,7 +541,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=218)** As you can see here in blue, that is the search trends for Python for data engineering.
 >
-> **[3:45](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=225)** Honestly, more people are searching Python data engineering than they are Java data engineering.
+> **[3:45](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=225)** Honestly, more people are searching Python data engineering than they are [[Java]] data engineering.
 >
 > **[3:52](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=232)** Python's very, very popular for data science, but people are also interested in working to build out its functionality with respect to data engineering as well.
 >
@@ -556,13 +551,13 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=270)** Python is useful for data science, data analytics, and data engineering, like we just discussed, but it's also useful in a professional academic environment.
 >
-> **[4:40](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=280)** Python is an open-source programming language, and so you can use it for web development, application development, and heck, you can even use it to build out your own games.
+> **[4:40](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=280)** Python is an open-source programming language, and so you can use it for [[Web Development]], [[Application Development]], and heck, you can even use it to build out your own games.
 >
 > **[4:51](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=291)** So it's very open-ended.
 >
 > **[4:54](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=294)** If you know how to use Python, then you can function in a lot of different types of tech roles.
 >
-> **[5:01](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=301)** You don't necessarily need to stay in the data professions for the rest of your life and you could branch off into many, many different types of roles.
+> **[5:01](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=301)** You don't necessarily need to stay in the data professions for the [[Representational State Transfer (REST)|rest]] of your life and you could branch off into many, many different types of roles.
 >
 > **[5:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=310)** The same is not true of other programming languages like R, Julia and Go.
 >
@@ -570,9 +565,9 @@ created: 2026-05-02
 >
 > **[5:26](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=326)** And that's just another reason that I love Python for data science.
 >
-> **[5:31](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=331)** Now, in terms of the main libraries that are used with Python for data science, for advanced data analysis, you'd use NumPy, SciPy, and pandas, and then for data visualization, the most widely used libraries are Matplotlib and Seaborn.
+> **[5:31](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=331)** Now, in terms of the main libraries that are used with Python for data science, for advanced data analysis, you'd use NumPy, SciPy, and [[Pandas (Software)|pandas]], and then for data visualization, the most widely used libraries are Matplotlib and Seaborn.
 >
-> **[5:48](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=348)** For machine learning, in this course, we'll be using scikit-learn, but if you venture into deep learning later on in your data science learning adventures, then you would probably be using TensorFlow, Keras, or PyTorch.
+> **[5:48](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=348)** For machine learning, in this course, we'll be using scikit-learn, but if you venture into [[Deep Learning]] later on in your data science learning adventures, then you would probably be using [[TensorFlow]], Keras, or [[PyTorch]].
 >
 > **[6:04](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/why-to-use-python-for-analytics?u=76281980&t=364)** In this course, you're going to be learning how to use NumPy, SciPy, pandas, Matplotlib, Seaborn, and scikit-learn.
 >
@@ -580,7 +575,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), [[Python (Programming Language)|Python]] (28), [[Data Engineering]] (8), [[Programming]] (7), [[Google]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (28), [[Data Science]] (21), [[Data Engineering]] (8), [[Google]] (2), [[Pandas (Software)|Pandas]] (2)
 > **CLI Commands:** python (28), find (1)
 > **Env Vars:** tiobe (3), sql (1)
 > **Definitions:** is a  (2), short for (1), is an  (1)
@@ -588,16 +583,15 @@ created: 2026-05-02
 > **Documentation:** stack overflow (1)
 > **Speakers:** - [instructor] (1)
 
-#### High-level course road map
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/high-level-course-road-map?u=76281980)
+#### [High-level course road map](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/high-level-course-road-map?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/high-level-course-road-map?u=76281980&t=0)** - [Instructor] Now that you know where data science fits in within the spectrum of data roles and you understand the basics of the data professions, let me just give you a quick roadmap for what we're about to cover in the remainder of this course.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/high-level-course-road-map?u=76281980&t=0)** - [Instructor] Now that you know where [[Data Science]] fits in within the spectrum of data roles and you understand the basics of the data professions, let me just give you a quick roadmap for what we're about to cover in the remainder of this course.
 >
 > **[0:15](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/high-level-course-road-map?u=76281980&t=15)** So we are here now.
 >
-> **[0:17](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/high-level-course-road-map?u=76281980&t=17)** We've just finished up Introduction to Data Professions, and then in the next section, we're going to talk about data preparation basics.
+> **[0:17](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/high-level-course-road-map?u=76281980&t=17)** We've just finished up Introduction to Data Professions, and then in the next section, we're going to talk about [[Data Preparation]] basics.
 >
 > **[0:26](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/high-level-course-road-map?u=76281980&t=26)** Then we're going to go into the fundamentals of data visualization in a section that's called Data Visualization 101.
 >
@@ -619,7 +613,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), next (2), web (1), [[Analytics]] (1), business (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (2), [[Data Science]] (1)
 > **Env Vars:** eda (2)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** getting started (1)
@@ -630,14 +624,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro to data preparation
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/intro-to-data-preparation?u=76281980)
+#### [Intro to data preparation](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/intro-to-data-preparation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/intro-to-data-preparation?u=76281980&t=0)** - [Instructor] Preparing your data for analysis is one of the most resource intensive requirements in data science.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/intro-to-data-preparation?u=76281980&t=0)** - [Instructor] Preparing your data for analysis is one of the most resource intensive requirements in [[Data Science]].
 >
-> **[0:08](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/intro-to-data-preparation?u=76281980&t=8)** In fact, the general consensus is that data scientists spend 80% of their time on data preparation.
+> **[0:08](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/intro-to-data-preparation?u=76281980&t=8)** In fact, the general consensus is that data scientists spend 80% of their time on [[Data Preparation]].
 >
 > **[0:15](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/intro-to-data-preparation?u=76281980&t=15)** That means the better and more efficient you become in data preparation, the more likely it is you'll be effective as a data scientist.
 >
@@ -661,7 +654,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/intro-to-data-preparation?u=76281980&t=80)** And that involves treating missing values and scaling and normalizing variables.
 >
-> **[1:27](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/intro-to-data-preparation?u=76281980&t=87)** It's really important to scale your data because you need to make sure that differing magnitudes among the variables in your data sets do not produce erroneous or misleading statistics.
+> **[1:27](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/intro-to-data-preparation?u=76281980&t=87)** It's really important to scale your data because you need to make sure that differing magnitudes among the variables in your data sets do not produce erroneous or misleading [[Statistics]].
 >
 > **[1:41](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/intro-to-data-preparation?u=76281980&t=101)** And this is a basic step in preparing your data for machine learning.
 >
@@ -683,27 +676,26 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/intro-to-data-preparation?u=76281980&t=153)** And this is where you would generate descriptive statistics, log your variable information, and store your variable information.
 >
-> **[2:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/intro-to-data-preparation?u=76281980&t=163)** In terms of what type of information you need to log about your variables, I would consider detailing your variable name and statistical description, the format of the data, the method used to collect the data, the date of the data collection, the source of the data, the location, where the data is stored, and any other notes that you feel are relevant to your dataset.
+> **[2:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/intro-to-data-preparation?u=76281980&t=163)** In terms of what type of information you need to log about your variables, I would consider detailing your variable name and statistical description, the format of the data, the method used to collect the data, the date of the [[Data Collection]], the source of the data, the location, where the data is stored, and any other notes that you feel are relevant to your dataset.
 >
 > **[3:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/intro-to-data-preparation?u=76281980&t=190)** Lastly, you'd be backing up your data, which just involves creating a backup copy of your data and then taking it over to begin data analysis.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (38), [[Analytics]] (2), [[Statistics]] (2), next (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (5), [[Statistics]] (2), [[Data Science]] (1), [[Data Collection]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Numpy and pandas basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/numpy-and-pandas-basics?u=76281980)
+#### [Numpy and pandas basics](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/numpy-and-pandas-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/numpy-and-pandas-basics?u=76281980&t=0)** - [Instructor] For embarking on any sort of data analysis journey in Python, you need to be very clear on NumPy and Pandas basics.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/numpy-and-pandas-basics?u=76281980&t=0)** - [Instructor] For embarking on any sort of data analysis journey in [[Python (Programming Language)|Python]], you need to be very clear on NumPy and [[Pandas (Software)|Pandas]] basics.
 >
-> **[0:09](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/numpy-and-pandas-basics?u=76281980&t=9)** The NumPy library is a third party Python library that is used ubiquitously across data science and data analysis.
+> **[0:09](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/numpy-and-pandas-basics?u=76281980&t=9)** The NumPy library is a third party Python library that is used ubiquitously across [[Data Science]] and data analysis.
 >
-> **[0:18](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/numpy-and-pandas-basics?u=76281980&t=18)** NumPy is a numerical library that you can use to create shape and reshape data structures.
+> **[0:18](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/numpy-and-pandas-basics?u=76281980&t=18)** NumPy is a numerical library that you can use to create shape and reshape [[Data Structures]].
 >
 > **[0:25](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/numpy-and-pandas-basics?u=76281980&t=25)** Each of these data structures are what's called an N-dimensional array or ndarray.
 >
@@ -735,7 +727,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/numpy-and-pandas-basics?u=76281980&t=126)** It's built on top of NumPy and it offers an easy way to work with arrays in matrices.
 >
-> **[2:13](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/numpy-and-pandas-basics?u=76281980&t=133)** Pandas is useful for its fast data cleaning preparation., its powerful analysis capabilities, Its ease of use for data visualization and machine learning, and also for its deep compatibility with NumPy arrays and matrices because of course, it's built on top of NumPy.
+> **[2:13](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/numpy-and-pandas-basics?u=76281980&t=133)** Pandas is useful for its fast [[Data Cleaning]] preparation., its powerful analysis capabilities, Its ease of use for data visualization and machine learning, and also for its deep compatibility with NumPy arrays and matrices because of course, it's built on top of NumPy.
 >
 > **[2:35](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/numpy-and-pandas-basics?u=76281980&t=155)** Arrays and matrices are called series and data frames in Pandas.
 >
@@ -765,18 +757,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Pandas (Software)|Pandas]] (7), [[Python (Programming Language)|Python]] (6), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (7), [[Python (Programming Language)|Python]] (6), [[Data Science]] (2), [[Data Structures]] (2), [[Data Cleaning]] (1)
 > **Definitions:** is a  (4), is an  (3)
 > **CLI Commands:** python (6)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filtering and selecting
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/filtering-and-selecting-31045074?u=76281980)
+#### [Filtering and selecting](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/filtering-and-selecting-31045074?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/filtering-and-selecting-31045074?u=76281980&t=0)** In this video, we're going to work with two libraries, NumPy and Pandas.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/filtering-and-selecting-31045074?u=76281980&t=0)** In this video, we're going to work with two libraries, NumPy and [[Pandas (Software)|Pandas]].
 >
 > **[0:05](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/filtering-and-selecting-31045074?u=76281980&t=5)** The notebook is coming pre-loaded with pip installs that install Pandas into this environment.
 >
@@ -840,7 +831,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/filtering-and-selecting-31045074?u=76281980&t=203)** And one thing you'll notice here is that it's just kind of like extending to the right and that's not a great way for us to view what's actually happening on the page.
 >
-> **[3:32](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/filtering-and-selecting-31045074?u=76281980&t=212)** So before proceeding, I'm going to just hit command shift P, and then inside here, I'm going to choose toggle word wrap.
+> **[3:32](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/filtering-and-selecting-31045074?u=76281980&t=212)** So before proceeding, I'm going to just hit command shift P, and then inside here, I'm going to choose toggle [[Microsoft Word|word]] wrap.
 >
 > **[3:47](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/filtering-and-selecting-31045074?u=76281980&t=227)** I'm gonna search for a word wrap.
 >
@@ -970,7 +961,7 @@ created: 2026-05-02
 >
 > **[10:22](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/filtering-and-selecting-31045074?u=76281980&t=622)** And when I did that, when I used alt enter from inside a markdown cell, it created another markdown cell.
 >
-> **[10:34](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/filtering-and-selecting-31045074?u=76281980&t=634)** So if you wanted to then switch to a code block, you can just click the markdown in the corner and then switch that to Python.
+> **[10:34](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/filtering-and-selecting-31045074?u=76281980&t=634)** So if you wanted to then switch to a code block, you can just click the markdown in the corner and then switch that to [[Python (Programming Language)|Python]].
 >
 > **[10:47](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/filtering-and-selecting-31045074?u=76281980&t=647)** Boolean values are also called a Boolean mask.
 >
@@ -1048,7 +1039,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Pandas (Software)|Pandas]] (7), hit (5), [[Microsoft Word|Word]] (3), next (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (7), [[Microsoft Word|Word]] (3), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** pip (2), find (2), python (1)
 > **UI Navigation:** toggle (2), switch to (1)
 > **Env Vars:** nan (1)
@@ -1057,8 +1048,7 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Prerequisites:** install (1)
 
-#### Treating missing values
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/treating-missing-values?u=76281980)
+#### [Treating missing values](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/treating-missing-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1068,7 +1058,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/treating-missing-values?u=76281980&t=11)** You can use comparison operators like greater than or less than to return true or false values for all records to indicate how each element compares to a scalar value.
 >
-> **[0:24](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/treating-missing-values?u=76281980&t=24)** In Python, by default, missing values are represented with a symbol, NaN, which stands for not a number.
+> **[0:24](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/treating-missing-values?u=76281980&t=24)** In [[Python (Programming Language)|Python]], by default, missing values are represented with a symbol, NaN, which stands for not a number.
 >
 > **[0:32](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/treating-missing-values?u=76281980&t=32)** Be warned, if your data set has zeros, 99s, or 999s, be sure to either drop or approximate them as you would with missing values.
 >
@@ -1098,13 +1088,13 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/treating-missing-values?u=76281980&t=133)** You're going to learn how to discover what's missing, fill in for those missing values, count up missing values, and also filter them out.
 >
-> **[2:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/treating-missing-values?u=76281980&t=143)** Let's go ahead and look at how to work with missing data and Pandas.
+> **[2:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/treating-missing-values?u=76281980&t=143)** Let's go ahead and look at how to work with missing data and [[Pandas (Software)|Pandas]].
 >
 > **[2:27](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/treating-missing-values?u=76281980&t=147)** So as you can see, this notebook is coming preloaded with our NumPy and Pandas libraries.
 >
 > **[2:33](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/treating-missing-values?u=76281980&t=153)** We just need to run that.
 >
-> **[2:35](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/treating-missing-values?u=76281980&t=155)** And when working in data science, there are going to be situations that arise all the time where you encounter missing values.
+> **[2:35](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/treating-missing-values?u=76281980&t=155)** And when working in [[Data Science]], there are going to be situations that arise all the time where you encounter missing values.
 >
 > **[2:45](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/treating-missing-values?u=76281980&t=165)** Sometimes it's caused by data entry errors, other times by machine function, but really, we have a variety of ways to handle missing values and data.
 >
@@ -1112,7 +1102,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/treating-missing-values?u=76281980&t=179)** But before I do that, I need to create a dataset that we can work with.
 >
-> **[3:04](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/treating-missing-values?u=76281980&t=184)** So let's just call that dataset data, and we'll create a dataset about a group of people that go by the names, Steve, John, Richard, Sarah, Randy, Michael,
+> **[3:04](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/treating-missing-values?u=76281980&t=184)** So let's just call that dataset data, and we'll create a dataset about a group of people that go by the names, Steve, [[John the Ripper|John]], Richard, Sarah, Randy, Michael,
 >
 > **[3:34](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/treating-missing-values?u=76281980&t=214)** and lastly, Julie.
 >
@@ -1308,7 +1298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (35), [[Pandas (Software)|Pandas]] (5), next (3), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5), [[Python (Programming Language)|Python]] (2), [[Data Science]] (1), [[John the Ripper|John]] (1)
 > **CLI Commands:** python (2), find (2), make (2)
 > **Code Identifiers:** ranking_df (4), ranking_data (1), bool_series (1)
 > **Cross-References:** later in (1), coming up (1)
@@ -1317,12 +1307,11 @@ created: 2026-05-02
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Removing duplicates
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/removing-duplicates?u=76281980)
+#### [Removing duplicates](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/removing-duplicates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/removing-duplicates?u=76281980&t=0)** - [Instructor] It's really important to remove duplicates from your dataset in order to preserve the dataset's accuracy and avoid producing incorrect and misleading statistics.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/removing-duplicates?u=76281980&t=0)** - [Instructor] It's really important to remove duplicates from your dataset in order to preserve the dataset's accuracy and avoid producing incorrect and misleading [[Statistics]].
 >
 > **[0:11](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/removing-duplicates?u=76281980&t=11)** For example, imagine you're analyzing a retail sales table and shopaholic Sally came in three times and used three different credit cards to make purchases but provided the cashier the same zip code, 3-2-8-0-3, for each sale.
 >
@@ -1336,7 +1325,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/removing-duplicates?u=76281980&t=64)** Okay, now let's look at removing duplicates.
 >
-> **[1:07](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/removing-duplicates?u=76281980&t=67)** This notebook is coming preloaded with Numpy and Pandas.
+> **[1:07](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/removing-duplicates?u=76281980&t=67)** This notebook is coming preloaded with Numpy and [[Pandas (Software)|Pandas]].
 >
 > **[1:12](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/removing-duplicates?u=76281980&t=72)** And as you can see here, we're also going to be importing the series as well as data frame from Pandas library.
 >
@@ -1440,21 +1429,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Pandas (Software)|Pandas]] (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Statistics]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (1), imagine (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Concatenating and transforming
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/concatenating-and-transforming?u=76281980)
+#### [Concatenating and transforming](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/concatenating-and-transforming?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/concatenating-and-transforming?u=76281980&t=0)** - [Voiceover] Knowing how to concatenate and transform data is really important in data analysis.
 >
-> **[0:06](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/concatenating-and-transforming?u=76281980&t=6)** Concatenation and data transformation are useful for getting your data into the structure and order you need for analysis.
+> **[0:06](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/concatenating-and-transforming?u=76281980&t=6)** Concatenation and [[Data Transformation]] are useful for getting your data into the structure and order you need for analysis.
 >
 > **[0:13](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/concatenating-and-transforming?u=76281980&t=13)** For example, imagine you're mailing out a piece of direct mail advertisement.
 >
@@ -1476,7 +1464,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/concatenating-and-transforming?u=76281980&t=81)** Okay, so in this demonstration we're going to look at concatenating and transforming data.
 >
-> **[1:27](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/concatenating-and-transforming?u=76281980&t=87)** And as you can see, the notebook is coming loaded with both pandas and numpy.
+> **[1:27](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/concatenating-and-transforming?u=76281980&t=87)** And as you can see, the notebook is coming loaded with both [[Pandas (Software)|pandas]] and numpy.
 >
 > **[1:36](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/concatenating-and-transforming?u=76281980&t=96)** So, you've got everything set up here, all you need to do is just make sure you run that.
 >
@@ -1504,7 +1492,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/concatenating-and-transforming?u=76281980&t=213)** To do that, we will use the concat method, which joins data from separate sources and combines them into one combined data table.
 >
-> **[3:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/concatenating-and-transforming?u=76281980&t=223)** If you want to join objects based on their row index value you just call the "pd.concat" method on the objects you want joined and then pass in the "axis=1" argument and "axis=1" tells Python to concatenate the data frames by adding columns.
+> **[3:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/concatenating-and-transforming?u=76281980&t=223)** If you want to join objects based on their row index value you just call the "pd.concat" method on the objects you want joined and then pass in the "axis=1" argument and "axis=1" tells [[Python (Programming Language)|Python]] to concatenate the data frames by adding columns.
 >
 > **[4:02](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/concatenating-and-transforming?u=76281980&t=242)** In other words, joining on the row index values.
 >
@@ -1602,7 +1590,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (47), [[Pandas (Software)|Pandas]] (3), application (2), [[Data Transformation]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[Data Transformation]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** added_variable (4), variable_added (4), ignore_index (3), series_obj (2), added_datatable (1)
 > **CLI Commands:** make (1), python (1)
 > **Analogies:** for example (1), imagine (1)
@@ -1610,8 +1598,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [voiceover] (1)
 
-#### Grouping and aggregation
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/grouping-and-aggregation?u=76281980)
+#### [Grouping and aggregation](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/grouping-and-aggregation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1637,7 +1624,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/grouping-and-aggregation?u=76281980&t=62)** Okay, let's go ahead and look at how to group data by column index.
 >
-> **[1:08](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/grouping-and-aggregation?u=76281980&t=68)** This Jupyter notebook is coming preloaded with numpy and pandas, so just make sure to run that.
+> **[1:08](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/grouping-and-aggregation?u=76281980&t=68)** This Jupyter notebook is coming preloaded with numpy and [[Pandas (Software)|pandas]], so just make sure to run that.
 >
 > **[1:13](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/grouping-and-aggregation?u=76281980&t=73)** And then for this demonstration, we're going to use a dataset called mtcars.
 >
@@ -1663,7 +1650,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/grouping-and-aggregation?u=76281980&t=139)** So the first column name is car_names.
 >
-> **[2:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/grouping-and-aggregation?u=76281980&t=143)** And then I'm going to go ahead and just paste in the rest of these.
+> **[2:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/grouping-and-aggregation?u=76281980&t=143)** And then I'm going to go ahead and just paste in the [[Representational State Transfer (REST)|rest]] of these.
 >
 > **[2:28](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/grouping-and-aggregation?u=76281980&t=148)** In a different coding demonstration, we will dig into further details about what these variables mean as needed.
 >
@@ -1725,7 +1712,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Pandas (Software)|Pandas]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** cars_groups (2), read_csv (1), car_names (1)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** 26.6 (1), 19.7 (1), 15.1 (1)
@@ -1739,12 +1726,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Importance of visualization in data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/importance-of-visualization-in-data-science?u=76281980)
+#### [Importance of visualization in data science](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/importance-of-visualization-in-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/importance-of-visualization-in-data-science?u=76281980&t=0)** - [Presenter] And let's talk about the importance of visualization in data science.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/importance-of-visualization-in-data-science?u=76281980&t=0)** - [Presenter] And let's talk about the importance of visualization in [[Data Science]].
 >
 > **[0:05](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/importance-of-visualization-in-data-science?u=76281980&t=5)** Data visualization is important because data insights cannot very easily be converted to business value if they're not communicated effectively.
 >
@@ -1784,7 +1770,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/importance-of-visualization-in-data-science?u=76281980&t=121)** For example, what type of transport most people use, or how many customers a shop has on different days of the week.
 >
-> **[2:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/importance-of-visualization-in-data-science?u=76281980&t=130)** With technological advancements and generative AI in the picture, huge volumes of data are generated on the internet on a daily basis.
+> **[2:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/importance-of-visualization-in-data-science?u=76281980&t=130)** With technological advancements and [[Generative AI]] in the picture, huge volumes of data are generated on the internet on a daily basis.
 >
 > **[2:20](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/importance-of-visualization-in-data-science?u=76281980&t=140)** With machine learning, you make decisions based on actionable insights that you predict from datasets.
 >
@@ -1792,7 +1778,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/importance-of-visualization-in-data-science?u=76281980&t=153)** Data visualization makes this task much easier.
 >
-> **[2:37](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/importance-of-visualization-in-data-science?u=76281980&t=157)** Data visualization makes decision-making and problem-solving easier for data scientists.
+> **[2:37](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/importance-of-visualization-in-data-science?u=76281980&t=157)** Data visualization makes [[Decision-Making]] and problem-solving easier for data scientists.
 >
 > **[2:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/importance-of-visualization-in-data-science?u=76281980&t=163)** It can help you understand the next steps that must be taken to complete a project.
 >
@@ -1814,7 +1800,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), business (2), [[Decision-Making]] (2), [[Generative AI]] (1), next (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (2), [[Data Science]] (1), [[Generative AI]] (1)
 > **Ports:** :00 (4)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (1), picture (1)
@@ -1822,14 +1808,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [presenter] (1)
 
-#### The three types of data visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/the-three-types-of-data-visualization?u=76281980)
+#### [The three types of data visualization](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/the-three-types-of-data-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/the-three-types-of-data-visualization?u=76281980&t=0)** - [Instructor] In this segment, we're going to be talking about the three types of data visualization.
 >
-> **[0:05](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/the-three-types-of-data-visualization?u=76281980&t=5)** Those data visualization types are data storytelling, data showcasing, and data art.
+> **[0:05](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/the-three-types-of-data-visualization?u=76281980&t=5)** Those data visualization types are [[Data Storytelling]], data showcasing, and data art.
 >
 > **[0:11](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/the-three-types-of-data-visualization?u=76281980&t=11)** Data storytelling is the type of data visualization you would create for generating presentations that you would use to present to organizational decision makers.
 >
@@ -1873,7 +1858,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/the-three-types-of-data-visualization?u=76281980&t=170)** Do you see how simple that is to analyze and understand?
 >
-> **[2:54](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/the-three-types-of-data-visualization?u=76281980&t=174)** You want to make sure that your data storytelling products are also simple and easy to understand in this way.
+> **[2:54](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/the-three-types-of-data-visualization?u=76281980&t=174)** You want to make sure that your data storytelling [[Microsoft Products|products]] are also simple and easy to understand in this way.
 >
 > **[3:01](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/the-three-types-of-data-visualization?u=76281980&t=181)** Now, let's look at data showcasing.
 >
@@ -1893,11 +1878,11 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/the-three-types-of-data-visualization?u=76281980&t=227)** The intended audience for data showcasing products would be analysts, quants, engineers, mathematicians, scientists, basically people with an analytical mindset, background in that, because this is the kind of thing that's going to be of value to them.
 >
-> **[4:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/the-three-types-of-data-visualization?u=76281980&t=243)** In terms of product types, when you are doing data showcasing, you'll be producing static images and interactive dashboards, and you're going to learn how to do both of these things throughout the remainder of this course.
+> **[4:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/the-three-types-of-data-visualization?u=76281980&t=243)** In terms of product types, when you are doing data showcasing, you'll be producing static images and interactive [[Dashboards]], and you're going to learn how to do both of these things throughout the remainder of this course.
 >
 > **[4:17](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/the-three-types-of-data-visualization?u=76281980&t=257)** Here's an example of data showcasing.
 >
-> **[4:19](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/the-three-types-of-data-visualization?u=76281980&t=259)** I actually took this example from my book, "Data Science for Dummies."
+> **[4:19](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/the-three-types-of-data-visualization?u=76281980&t=259)** I actually took this example from my book, "[[Data Science]] for Dummies."
 >
 > **[4:24](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/the-three-types-of-data-visualization?u=76281980&t=264)** You can see that here, there's a lot of data that's being showcased on one screen.
 >
@@ -1975,15 +1960,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (49), [[Data Storytelling]] (10), product (3), [[Microsoft Products|Products]] (2), career (1)
+> **Frameworks & Libraries:** [[Data Storytelling]] (10), [[Microsoft Products|Products]] (2), [[Storytelling]] (1), [[Dashboards]] (1), [[Data Science]] (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (3), is an  (1), in other words (1)
 > **URLs:** [periscopic.com](https://periscopic.com) (1)
 > **Env Vars:** sap (1)
 > **Speakers:** - [instructor] (1)
 
-#### Selecting optimal data graphics
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/selecting-optimal-data-graphics?u=76281980)
+#### [Selecting optimal data graphics](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/selecting-optimal-data-graphics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1991,7 +1975,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/selecting-optimal-data-graphics?u=76281980&t=4)** You're going to use different types of data graphics depending on the type of data visualization you're creating.
 >
-> **[0:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/selecting-optimal-data-graphics?u=76281980&t=10)** Again, referring back to the last section, you learned that you can create data storytelling pieces, data showcasing visualizations, or data art.
+> **[0:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/selecting-optimal-data-graphics?u=76281980&t=10)** Again, referring back to the last section, you learned that you can create [[Data Storytelling]] pieces, data showcasing visualizations, or data art.
 >
 > **[0:19](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/selecting-optimal-data-graphics?u=76281980&t=19)** If you were to choose graphics for data storytelling, appropriate graphics for this type of data piece would be things like pie charts, line charts, bar charts, even area charts, point maps, or chloropleth maps.
 >
@@ -2087,7 +2071,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (43), [[Data Storytelling]] (7)
+> **Frameworks & Libraries:** [[Data Storytelling]] (7)
 > **CLI Commands:** make (5)
 > **Env Vars:** stem (1), nyc (1)
 > **Cross-References:** in the last (1), we covered (1)
@@ -2096,8 +2080,7 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### Communicating with color and context
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/communicating-with-color-and-context?u=76281980)
+#### [Communicating with color and context](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/communicating-with-color-and-context?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2141,7 +2124,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/communicating-with-color-and-context?u=76281980&t=180)** Using annotations as context is useful for providing your audience some information about why the data behaves as it does.
 >
-> **[3:09](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/communicating-with-color-and-context?u=76281980&t=189)** Annotation is especially useful in data storytelling and data showcasing because they add a layer of context and meaning to the data visualization that helps consumers understand what it is that you're showing them.
+> **[3:09](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/communicating-with-color-and-context?u=76281980&t=189)** Annotation is especially useful in [[Data Storytelling]] and data showcasing because they add a layer of context and meaning to the data visualization that helps consumers understand what it is that you're showing them.
 >
 > **[3:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/communicating-with-color-and-context?u=76281980&t=203)** Another way that you can add context to a data visualization is to introduce graphic elements.
 >
@@ -2151,7 +2134,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/communicating-with-color-and-context?u=76281980&t=228)** You can create context in your data visualization just by adding data on additional and relevant metrics.
 >
-> **[3:54](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/communicating-with-color-and-context?u=76281980&t=234)** For example, if you were to be featuring some statistics on dropout rates in a particular region of a city, some data that might be a good contextual layer to add would possibly be data on the household and the parents' level of education, and if the parents were also dropped out of high school, because it would seem that if a child comes from a household where both of the parents or one of the parents dropped out of high school and did relatively okay with their life, that the child would also feel like dropping out of high school would be a viable alternative for them.
+> **[3:54](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/communicating-with-color-and-context?u=76281980&t=234)** For example, if you were to be featuring some [[Statistics]] on dropout rates in a particular region of a city, some data that might be a good contextual layer to add would possibly be data on the household and the parents' level of education, and if the parents were also dropped out of high school, because it would seem that if a child comes from a household where both of the parents or one of the parents dropped out of high school and did relatively okay with their life, that the child would also feel like dropping out of high school would be a viable alternative for them.
 >
 > **[4:31](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/communicating-with-color-and-context?u=76281980&t=271)** So that would be an example of adding relevant data sets and additional metrics around what you're featuring in your data visualization.
 >
@@ -2177,11 +2160,11 @@ created: 2026-05-02
 >
 > **[6:13](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/communicating-with-color-and-context?u=76281980&t=373)** They are using more muted shades in order to underlie and support their data visualization for completeness, but they use the red and orange to really draw attention to the points they're trying to make within the data visualization.
 >
-> **[6:27](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/communicating-with-color-and-context?u=76281980&t=387)** Now that you know the basics of data visualization, the types of data visualizations you can create, how to select optimal graphics and how to communicate well with color and context, it's time to move into the next section of the course where we'll talk about practical data visualization and how to build data visualizations using Python.
+> **[6:27](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/communicating-with-color-and-context?u=76281980&t=387)** Now that you know the basics of data visualization, the types of data visualizations you can create, how to select optimal graphics and how to communicate well with color and context, it's time to move into the next section of the course where we'll talk about practical data visualization and how to build data visualizations using [[Python (Programming Language)|Python]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (38), ai (1), [[Data Storytelling]] (1), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Storytelling]] (1), [[Statistics]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (4), find (1), python (1)
 > **Definitions:** is an  (1), in other words (1)
 > **Env Vars:** usa (1)
@@ -2193,12 +2176,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the matplotlib and Seaborn libraries
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-matplotlib-and-seaborn-libraries?u=76281980)
+#### [Introduction to the matplotlib and Seaborn libraries](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-matplotlib-and-seaborn-libraries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-matplotlib-and-seaborn-libraries?u=76281980&t=0)** - [Instructor] In this lecture, we'll explore two of Python's most powerful visualization libraries, Matplotlib and Seaborn.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-matplotlib-and-seaborn-libraries?u=76281980&t=0)** - [Instructor] In this lecture, we'll explore two of [[Python (Programming Language)|Python]]'s most powerful visualization libraries, Matplotlib and Seaborn.
 >
 > **[0:08](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-matplotlib-and-seaborn-libraries?u=76281980&t=8)** While both are highly capable, they have distinct features and use cases.
 >
@@ -2218,7 +2200,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-matplotlib-and-seaborn-libraries?u=76281980&t=65)** They're useful for visualizing all types and kinds of data.
 >
-> **[1:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-matplotlib-and-seaborn-libraries?u=76281980&t=70)** This, of course, includes but isn't limited to financial data, operational data, employee data, engagement and behavioral data.
+> **[1:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-matplotlib-and-seaborn-libraries?u=76281980&t=70)** This, of course, includes but isn't limited to [[Financial Data]], operational data, employee data, engagement and behavioral data.
 >
 > **[1:21](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-matplotlib-and-seaborn-libraries?u=76281980&t=81)** One thing to note, however, is that you can display network data using standard chart graphics, but you cannot create network graphs when you're working with only the Matplotlib or Seaborn library.
 >
@@ -2254,7 +2236,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-matplotlib-and-seaborn-libraries?u=76281980&t=210)** And then for this demonstration, we also need to work with DataFrames.
 >
-> **[3:33](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-matplotlib-and-seaborn-libraries?u=76281980&t=213)** So we'll say from pandas import DataFrame.
+> **[3:33](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-matplotlib-and-seaborn-libraries?u=76281980&t=213)** So we'll say from [[Pandas (Software)|pandas]] import DataFrame.
 >
 > **[3:42](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-matplotlib-and-seaborn-libraries?u=76281980&t=222)** Okay, so then we'll run this.
 >
@@ -2270,7 +2252,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-matplotlib-and-seaborn-libraries?u=76281980&t=260)** This is a dataset that we actually defined in an earlier lecture, so I won't spend too much time typing everything out.
 >
-> **[4:32](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-matplotlib-and-seaborn-libraries?u=76281980&t=272)** The names here should be steve, john, richard, sarah, and julie.
+> **[4:32](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-matplotlib-and-seaborn-libraries?u=76281980&t=272)** The names here should be steve, [[John the Ripper|john]], richard, sarah, and julie.
 >
 > **[4:38](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-the-matplotlib-and-seaborn-libraries?u=76281980&t=278)** So we'll pass these strings into the list.
 >
@@ -2500,7 +2482,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), next (2), [[Python (Programming Language)|Python]] (1), [[Financial Data]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Financial Data]] (1), [[Pandas (Software)|Pandas]] (1), [[John the Ripper|John]] (1)
 > **CLI Commands:** pip (3), python (1)
 > **Code Identifiers:** set_title (2), color_palette (2)
 > **UI Navigation:** select the (4)
@@ -2508,14 +2490,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating standard data graphics
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-standard-data-graphics?u=76281980)
+#### [Creating standard data graphics](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-standard-data-graphics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-standard-data-graphics?u=76281980&t=0)** - [Instructor] Standard chart graphics are excellent tools for conveying simple data insights in a way that anyone can understand.
 >
-> **[0:07](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-standard-data-graphics?u=76281980&t=7)** For example, imagine you are an E-commerce business analyst for a company that just made some major changes to its website layout.
+> **[0:07](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-standard-data-graphics?u=76281980&t=7)** For example, imagine you are an [[E-Commerce]] business analyst for a company that just made some major changes to its website layout.
 >
 > **[0:15](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-standard-data-graphics?u=76281980&t=15)** You are visualizing the site usability insights that you've discovered to convey findings to your manager.
 >
@@ -2525,7 +2506,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-standard-data-graphics?u=76281980&t=34)** You'll use the bar chart to show how the number of purchases increased for customers in the 18 to 25-year-old category, but that it decreased for customers in the greater than 44-year-old category.
 >
-> **[0:49](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-standard-data-graphics?u=76281980&t=49)** Lastly, you use a pie chart to show what categories of products generate the greatest proportion of sales and how the site changes affected that proportion, both before and after.
+> **[0:49](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-standard-data-graphics?u=76281980&t=49)** Lastly, you use a pie chart to show what categories of [[Microsoft Products|products]] generate the greatest proportion of sales and how the site changes affected that proportion, both before and after.
 >
 > **[1:01](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-standard-data-graphics?u=76281980&t=61)** To summarize, you'd use a line chart to show the changes over time, you'd use a bar chart to show changes in categorical data, and you'd use a pie chart to visualize categorical data as a proportion of a whole.
 >
@@ -2539,7 +2520,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-standard-data-graphics?u=76281980&t=106)** We'll be doing that in later demonstrations.
 >
-> **[1:50](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-standard-data-graphics?u=76281980&t=110)** In the coding demonstration to come, I'm going to show you the most popular data visualization libraries in Python, which are, of course, Matplotlib and Seaborn.
+> **[1:50](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-standard-data-graphics?u=76281980&t=110)** In the coding demonstration to come, I'm going to show you the most popular data visualization libraries in [[Python (Programming Language)|Python]], which are, of course, Matplotlib and Seaborn.
 >
 > **[2:01](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-standard-data-graphics?u=76281980&t=121)** In this demonstration, I'm going to show you how to use Matplotlib.
 >
@@ -2553,7 +2534,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-standard-data-graphics?u=76281980&t=155)** We're also going to be generating random numbers in this demonstration, so within NumPy, we need to import randn.
 >
-> **[2:42](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-standard-data-graphics?u=76281980&t=162)** So let's say from numpy.random, import randn, and then we always of course need to import pandas, and we'll import that as pd.
+> **[2:42](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-standard-data-graphics?u=76281980&t=162)** So let's say from numpy.random, import randn, and then we always of course need to import [[Pandas (Software)|pandas]], and we'll import that as pd.
 >
 > **[3:05](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-standard-data-graphics?u=76281980&t=185)** And then let's bring in our series and data frame.
 >
@@ -2641,7 +2622,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), functional (3), [[Pandas (Software)|Pandas]] (3), [[E-Commerce]] (1), business (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (3), python (1)
 > **Code Identifiers:** pie_chart (2), rcparams (1)
 > **File Paths:** plt.py (2)
@@ -2650,8 +2631,7 @@ created: 2026-05-02
 > **Versions:** 0.5 (1)
 > **UI Navigation:** select the (1)
 
-#### Defining elements of a plot
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/defining-elements-of-a-plot?u=76281980)
+#### [Defining elements of a plot](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/defining-elements-of-a-plot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2693,13 +2673,13 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/defining-elements-of-a-plot?u=76281980&t=107)** Let's look at how to define elements of a plot using Matplotlib.
 >
-> **[1:52](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/defining-elements-of-a-plot?u=76281980&t=112)** So this Jupyter notebook is coming preloaded with the libraries you'll need, which is NumPy, Pandas and Matplotlib.
+> **[1:52](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/defining-elements-of-a-plot?u=76281980&t=112)** So this Jupyter notebook is coming preloaded with the libraries you'll need, which is NumPy, [[Pandas (Software)|Pandas]] and Matplotlib.
 >
 > **[2:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/defining-elements-of-a-plot?u=76281980&t=120)** And I wanted just to start off this demonstration by showing you how to set the figure size and inline settings for your Matplotlib plots.
 >
 > **[2:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/defining-elements-of-a-plot?u=76281980&t=130)** So to make sure that your plots print out properly within Jupyter notebooks, you want to use the command matplotlib inline.
 >
-> **[2:22](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/defining-elements-of-a-plot?u=76281980&t=142)** What this does is it tells Python to print your Matplotlib plot in line with your Jupyter notebook.
+> **[2:22](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/defining-elements-of-a-plot?u=76281980&t=142)** What this does is it tells [[Python (Programming Language)|Python]] to print your Matplotlib plot in line with your Jupyter notebook.
 >
 > **[2:28](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/defining-elements-of-a-plot?u=76281980&t=148)** And then you'll also probably want to go ahead and do define a figure size.
 >
@@ -2875,7 +2855,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (2), functional (2), [[Pandas (Software)|Pandas]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** make (7), python (3)
 > **Code Identifiers:** rcparams (1), add_axes (1), set_xlim (1), set_ylim (1), set_xticks (1)
 > **Tools:** jupyter (4)
@@ -2884,8 +2864,7 @@ created: 2026-05-02
 > **Cross-References:** we discussed (1), in the last (1)
 > **Prerequisites:** you'll need (1)
 
-#### Plot formatting
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/plot-formatting?u=76281980)
+#### [Plot formatting](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/plot-formatting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2909,11 +2888,11 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/plot-formatting?u=76281980&t=75)** Matplotlib also has a lot of different options in terms of marker styles.
 >
-> **[1:20](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/plot-formatting?u=76281980&t=80)** I created this handy-dandy little chart for you to review in case you want to get fancy with your charts, you can look it over, but I'm also going to show you how to use these markers in Python in just a second.
+> **[1:20](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/plot-formatting?u=76281980&t=80)** I created this handy-dandy little chart for you to review in case you want to get fancy with your charts, you can look it over, but I'm also going to show you how to use these markers in [[Python (Programming Language)|Python]] in just a second.
 >
 > **[1:33](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/plot-formatting?u=76281980&t=93)** You've already learned to generate your plots, so let's go ahead and start working on customizing them.
 >
-> **[1:41](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/plot-formatting?u=76281980&t=101)** So for this coding demonstration, the Jupyter Notebook is already coming preloaded with the libraries you need, which are NumPy, Pandas, and Matplotlib.
+> **[1:41](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/plot-formatting?u=76281980&t=101)** So for this coding demonstration, the Jupyter Notebook is already coming preloaded with the libraries you need, which are NumPy, [[Pandas (Software)|Pandas]], and Matplotlib.
 >
 > **[1:50](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/plot-formatting?u=76281980&t=110)** And also, I've gone ahead and set the parameters in terms of the plot size.
 >
@@ -3077,7 +3056,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (2), next (2), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** rgb (4), rgba (1), mpg (1), a9a9a9 (1)
 > **CLI Commands:** python (2), make (1), find (1)
 > **Cross-References:** we discussed (1), go back to (1), in the next (1)
@@ -3086,8 +3065,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating labels and annotations
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-labels-and-annotations?u=76281980)
+#### [Creating labels and annotations](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-labels-and-annotations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3123,11 +3101,11 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-labels-and-annotations?u=76281980&t=95)** And then with respect to annotating your plot, you would call the annotate method, and then you would just pass in a parameter for the location that's being annotated, as well as the location of the text and any information that you want to add about how the arrow should be drawn.
 >
-> **[1:52](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-labels-and-annotations?u=76281980&t=112)** So let's get to work on doing this in Python.
+> **[1:52](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-labels-and-annotations?u=76281980&t=112)** So let's get to work on doing this in [[Python (Programming Language)|Python]].
 >
 > **[1:57](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-labels-and-annotations?u=76281980&t=117)** The Jupyter Notebook here is already coming preloaded with the libraries you'll need.
 >
-> **[2:01](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-labels-and-annotations?u=76281980&t=121)** So those are numpy, pandas, matplotlib, and seaborn.
+> **[2:01](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-labels-and-annotations?u=76281980&t=121)** So those are numpy, [[Pandas (Software)|pandas]], matplotlib, and seaborn.
 >
 > **[2:06](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-labels-and-annotations?u=76281980&t=126)** I've also added in the parameters for plotting by matplotlib, which you can see right here.
 >
@@ -3215,7 +3193,7 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-labels-and-annotations?u=76281980&t=392)** To do that, let's first select the columns by saying cars.columns, and then we'll assign values to these column names by just setting this equal to a list of strings with names for each of the columns.
 >
-> **[6:51](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-labels-and-annotations?u=76281980&t=411)** So the first column is 'car_names', and then I'm just going to copy and paste over the rest of the column names, which are 'mpg','cyl','disp', 'hp','drat','wt','qsec', 'vs','am','gear','carb'.
+> **[6:51](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-labels-and-annotations?u=76281980&t=411)** So the first column is 'car_names', and then I'm just going to copy and paste over the [[Representational State Transfer (REST)|rest]] of the column names, which are 'mpg','cyl','disp', 'hp','drat','wt','qsec', 'vs','am','gear','carb'.
 >
 > **[7:15](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-labels-and-annotations?u=76281980&t=435)** And now let's isolate the mpg variable.
 >
@@ -3431,7 +3409,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (5), data (4), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** veh_type (3), read_csv (2), car_names (2), add_axes (2), set_xticks (2)
 > **CLI Commands:** make (4), python (2), find (2)
 > **Versions:** 0.5 (2), 33.9 (2), 0.05 (1)
@@ -3440,8 +3418,7 @@ created: 2026-05-02
 > **Env Vars:** csv (1)
 > **Tools:** jupyter (1)
 
-#### Visualizing time series
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/visualizing-time-series?u=76281980)
+#### [Visualizing time series](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/visualizing-time-series?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3449,9 +3426,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/visualizing-time-series?u=76281980&t=4)** Using statistical methods like autoaggressive integrated moving average, you can reliably predict or forecast the demand of a particular retail product based on historical time series on previous sales of that product.
 >
-> **[0:18](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/visualizing-time-series?u=76281980&t=18)** Before forecasting your time series, you need to know how to handle and plot time series in Python.
+> **[0:18](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/visualizing-time-series?u=76281980&t=18)** Before [[Forecasting]] your time series, you need to know how to handle and plot time series in [[Python (Programming Language)|Python]].
 >
-> **[0:25](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/visualizing-time-series?u=76281980&t=25)** Working with time series in Python can get really tricky, but Pandas makes it simple.
+> **[0:25](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/visualizing-time-series?u=76281980&t=25)** Working with time series in Python can get really tricky, but [[Pandas (Software)|Pandas]] makes it simple.
 >
 > **[0:31](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/visualizing-time-series?u=76281980&t=31)** Before showing you how to use time series in Pandas, let me just show you what a time series looks like.
 >
@@ -3551,7 +3528,7 @@ created: 2026-05-02
 >
 > **[6:07](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/visualizing-time-series?u=76281980&t=367)** So to do that, we'll say random_state and just set it equal to 25.
 >
-> **[6:12](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/visualizing-time-series?u=76281980&t=372)** And that will ensure that the points that are pulled in this demonstration are the same ones that are pulled on your machine when you're doing this at home or in the office.
+> **[6:12](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/visualizing-time-series?u=76281980&t=372)** And that will ensure that the points that are pulled in this demonstration are the same ones that are pulled on your machine when you're doing this at home or in the [[Microsoft Office|office]].
 >
 > **[6:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/visualizing-time-series?u=76281980&t=383)** And then we also have to pass in a perimeter for the axis and we'll say axis=0.
 >
@@ -3601,7 +3578,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (3), product (2), next (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (3), [[Forecasting]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** python (3), make (1)
 > **Code Identifiers:** read_csv (1), index_col (1), parse_dates (1), random_state (1)
 > **Env Vars:** csv (3)
@@ -3610,8 +3587,7 @@ created: 2026-05-02
 > **Tools:** jupyter (1)
 > **UI Navigation:** select the (1)
 
-#### Creating statistical data graphics in Seaborn
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-statistical-data-graphics-in-seaborn?u=76281980)
+#### [Creating statistical data graphics in Seaborn](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-statistical-data-graphics-in-seaborn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3625,11 +3601,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-statistical-data-graphics-in-seaborn?u=76281980&t=34)** Scatter plot matrices show core relations between variables and box plots show variable spread and are useful for outlier detection.
 >
-> **[0:45](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-statistical-data-graphics-in-seaborn?u=76281980&t=45)** Let me show you how to create these in Python.
+> **[0:45](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-statistical-data-graphics-in-seaborn?u=76281980&t=45)** Let me show you how to create these in [[Python (Programming Language)|Python]].
 >
 > **[0:49](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-statistical-data-graphics-in-seaborn?u=76281980&t=49)** So your Jupyter Notebook is coming loaded with the libraries that you will need, or at least most of them.
 >
-> **[0:57](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-statistical-data-graphics-in-seaborn?u=76281980&t=57)** So we have our standard libraries, which are num, pi, pandas, matplotlib and seaborn.
+> **[0:57](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-statistical-data-graphics-in-seaborn?u=76281980&t=57)** So we have our standard libraries, which are num, pi, [[Pandas (Software)|pandas]], matplotlib and seaborn.
 >
 > **[1:05](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/creating-statistical-data-graphics-in-seaborn?u=76281980&t=65)** I've also gone ahead here and set the plotting parameters for matplotlib.
 >
@@ -3829,7 +3805,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (1), generic (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (3), make (3)
 > **UI Navigation:** select the (3), right-click (2), go to (1)
 > **Tools:** jupyter (2)
@@ -3843,12 +3819,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Simple arithmetic
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/simple-arithmetic?u=76281980)
+#### [Simple arithmetic](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/simple-arithmetic?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/simple-arithmetic?u=76281980&t=0)** - [Instructor] In this section, we're going to be talking about how to do simple arithmetic in Python.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/simple-arithmetic?u=76281980&t=0)** - [Instructor] In this section, we're going to be talking about how to do simple arithmetic in [[Python (Programming Language)|Python]].
 >
 > **[0:05](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/simple-arithmetic?u=76281980&t=5)** The benefit of the NumPy library is that it makes it really easy to do math on data that's stored in either arrays or matrices.
 >
@@ -3992,7 +3967,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), data (5), application (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6)
 > **CLI Commands:** python (6), make (3)
 > **Versions:** 8.22 (6), 9.22 (2), 7.22 (1)
 > **Code Identifiers:** set_printoptions (1)
@@ -4000,12 +3975,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generating summary statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/generating-summary-statistics?u=76281980)
+#### [Generating summary statistics](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/generating-summary-statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/generating-summary-statistics?u=76281980&t=0)** - [Instructor] Descriptive statistics describe a variable's values and their spread.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/generating-summary-statistics?u=76281980&t=0)** - [Instructor] Descriptive [[Statistics]] describe a variable's values and their spread.
 >
 > **[0:04](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/generating-summary-statistics?u=76281980&t=4)** For example, imagine you work for a company that monitors patients' health in real time and you need to build a script that detects dangerous anomalies.
 >
@@ -4035,9 +4009,9 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/generating-summary-statistics?u=76281980&t=109)** You can use descriptive statistics to easily detect outliers.
 >
-> **[1:54](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/generating-summary-statistics?u=76281980&t=114)** You can use it for planning data preparation requirements for machine learning, and you could use it for selecting features for use in machine learning.
+> **[1:54](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/generating-summary-statistics?u=76281980&t=114)** You can use it for planning [[Data Preparation]] requirements for machine learning, and you could use it for selecting features for use in machine learning.
 >
-> **[2:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/generating-summary-statistics?u=76281980&t=123)** Okay, so now let me show you how to generate summary statistics using pandas and scipy.
+> **[2:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/generating-summary-statistics?u=76281980&t=123)** Okay, so now let me show you how to generate summary statistics using [[Pandas (Software)|pandas]] and scipy.
 >
 > **[2:09](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/generating-summary-statistics?u=76281980&t=129)** We're going to start off, of course, by bringing in our libraries.
 >
@@ -4095,7 +4069,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/generating-summary-statistics?u=76281980&t=308)** that says numeric only equal to true and run this.
 >
-> **[5:16](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/generating-summary-statistics?u=76281980&t=316)** And then what Python has done here is it's gone into each of the variables in the cars data set and it's found the median value for each of those variables.
+> **[5:16](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/generating-summary-statistics?u=76281980&t=316)** And then what [[Python (Programming Language)|Python]] has done here is it's gone into each of the variables in the cars data set and it's found the median value for each of those variables.
 >
 > **[5:25](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/generating-summary-statistics?u=76281980&t=325)** It's returned those as an output here.
 >
@@ -4169,14 +4143,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Statistics]] (15), [[Pandas (Software)|Pandas]] (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Statistics]] (15), [[Pandas (Software)|Pandas]] (2), [[Python (Programming Language)|Python]] (2), [[Data Preparation]] (1)
 > **CLI Commands:** python (2), make (1)
 > **Analogies:** for example (1), imagine (1)
 > **Code Identifiers:** numeric_only (1)
 > **Speakers:** - [instructor] (1)
 
-#### Summarizing categorical data
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/summarizing-categorical-data?u=76281980)
+#### [Summarizing categorical data](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/summarizing-categorical-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4186,7 +4159,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/summarizing-categorical-data?u=76281980&t=10)** A very simplistic approach to sentiment analysis could involve web scraping public product reviews, then classifying certain words found in the scraped data as positive or others as negative.
 >
-> **[0:24](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/summarizing-categorical-data?u=76281980&t=24)** You could then do a categorical word count on the product review data to score product reviews or feedback as either good or bad.
+> **[0:24](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/summarizing-categorical-data?u=76281980&t=24)** You could then do a categorical [[Microsoft Word|word]] count on the product review data to score product reviews or feedback as either good or bad.
 >
 > **[0:33](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/summarizing-categorical-data?u=76281980&t=33)** Categorical variables only assume a fixed number of values.
 >
@@ -4204,7 +4177,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/summarizing-categorical-data?u=76281980&t=72)** So I'm going to show you how to create each of these three types of descriptions over in the Jupyter Notebook.
 >
-> **[1:19](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/summarizing-categorical-data?u=76281980&t=79)** Right, so we're bringing in numpy and pandas.
+> **[1:19](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/summarizing-categorical-data?u=76281980&t=79)** Right, so we're bringing in numpy and [[Pandas (Software)|pandas]].
 >
 > **[1:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/summarizing-categorical-data?u=76281980&t=83)** I've already got those imported for you into the IPython environment.
 >
@@ -4296,7 +4269,7 @@ created: 2026-05-02
 >
 > **[5:46](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/summarizing-categorical-data?u=76281980&t=346)** Now, to create a series of categorical data type, you would just call the pd.Series function on an array or a series that holds the data you want the new series object to contain.
 >
-> **[5:58](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/summarizing-categorical-data?u=76281980&t=358)** Now, when you pass in the dtype equal to category argument, this tells Python to assign a new series data type of category.
+> **[5:58](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/summarizing-categorical-data?u=76281980&t=358)** Now, when you pass in the dtype equal to category argument, this tells [[Python (Programming Language)|Python]] to assign a new series data type of category.
 >
 > **[6:07](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/summarizing-categorical-data?u=76281980&t=367)** Here, we'll create a new categorical series from the gear variable.
 >
@@ -4334,7 +4307,7 @@ created: 2026-05-02
 >
 > **[8:11](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/summarizing-categorical-data?u=76281980&t=491)** These are very important.
 >
-> **[8:13](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/summarizing-categorical-data?u=76281980&t=493)** You need to know how to use these in order to make sense of categorical data in data science.
+> **[8:13](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/summarizing-categorical-data?u=76281980&t=493)** You need to know how to use these in order to make sense of categorical data in [[Data Science]].
 >
 > **[8:18](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/summarizing-categorical-data?u=76281980&t=498)** Let's just start by creating our crosstab.
 >
@@ -4368,11 +4341,11 @@ created: 2026-05-02
 >
 > **[10:05](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/summarizing-categorical-data?u=76281980&t=605)** It's basically showing a distribution of gear counts based on the type of car transmission.
 >
-> **[10:11](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/summarizing-categorical-data?u=76281980&t=611)** This is just a very simple example of how you can use crosstabs to generate summary statistics and descriptions of categorical data.
+> **[10:11](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/summarizing-categorical-data?u=76281980&t=611)** This is just a very simple example of how you can use crosstabs to generate summary [[Statistics]] and descriptions of categorical data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), product (3), [[Python (Programming Language)|Python]] (3), web (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Word|Word]] (1), [[Pandas (Software)|Pandas]] (1), [[Data Science]] (1), [[Statistics]] (1)
 > **Code Identifiers:** value_counts (5), cars_cat (4), gears_group (2), car_names (1)
 > **CLI Commands:** python (3), make (1)
 > **Definitions:** is a  (2), stands for (1)
@@ -4380,8 +4353,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pearson correlation analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/pearson-correlation-analysis?u=76281980)
+#### [Pearson correlation analysis](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/pearson-correlation-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4421,7 +4393,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/pearson-correlation-analysis?u=76281980&t=119)** So it's safe to use Pearson correlation to uncover linear relationships between variables, but you can not use it to rule out the possibility of non-linear relationships between variables.
 >
-> **[2:12](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/pearson-correlation-analysis?u=76281980&t=132)** For this demonstration, we're going to be bringing in our standard libraries, pandas and numpy, but also please note that I've imported matplotlib and seaborn, as well as the rcParams.
+> **[2:12](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/pearson-correlation-analysis?u=76281980&t=132)** For this demonstration, we're going to be bringing in our standard libraries, [[Pandas (Software)|pandas]] and numpy, but also please note that I've imported matplotlib and seaborn, as well as the rcParams.
 >
 > **[2:26](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/pearson-correlation-analysis?u=76281980&t=146)** We're also going to be using scipy in this demonstration.
 >
@@ -4445,7 +4417,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/pearson-correlation-analysis?u=76281980&t=214)** It's just thinking for a little while.
 >
-> **[3:37](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/pearson-correlation-analysis?u=76281980&t=217)** You can tell what Python's doing just by seeing this moving blue scroll at the top, and also this icon here saying how long it's taken for Python to process the request.
+> **[3:37](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/pearson-correlation-analysis?u=76281980&t=217)** You can tell what [[Python (Programming Language)|Python]]'s doing just by seeing this moving blue scroll at the top, and also this icon here saying how long it's taken for Python to process the request.
 >
 > **[3:49](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/pearson-correlation-analysis?u=76281980&t=229)** Okay, wow.
 >
@@ -4577,7 +4549,7 @@ created: 2026-05-02
 >
 > **[11:07](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/pearson-correlation-analysis?u=76281980&t=667)** And you may be wondering, "Well, what do I do "with this information once I have it?"
 >
-> **[11:14](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/pearson-correlation-analysis?u=76281980&t=674)** When you're doing machine learning, or other forms of advanced statistical analysis, these models often have assumptions that either the features are independent of one another or that they exhibit a degree of correlation, and you're going to see that later in this course.
+> **[11:14](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/pearson-correlation-analysis?u=76281980&t=674)** When you're doing machine learning, or other [[Forms]] of advanced [[Statistical Analysis]], these models often have assumptions that either the features are independent of one another or that they exhibit a degree of correlation, and you're going to see that later in this course.
 >
 > **[11:31](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/pearson-correlation-analysis?u=76281980&t=691)** So you can use the Pearson R correlation coefficient to establish whether or not your variable pairs meet the requirements of more advanced models.
 >
@@ -4587,7 +4559,7 @@ created: 2026-05-02
 >
 > **[11:57](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/pearson-correlation-analysis?u=76281980&t=717)** So let me just notate that here.
 >
-> **[12:01](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/pearson-correlation-analysis?u=76281980&t=721)** You can also generate some Pearson R statistics by using this corr method, so let's do it really quick.
+> **[12:01](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/pearson-correlation-analysis?u=76281980&t=721)** You can also generate some Pearson R [[Statistics]] by using this corr method, so let's do it really quick.
 >
 > **[12:09](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/pearson-correlation-analysis?u=76281980&t=729)** Using pandas, you can also generate Pearson R statistics by using the corr method.
 >
@@ -4633,7 +4605,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Pandas (Software)|Pandas]] (3), [[Python (Programming Language)|Python]] (2), [[Statistics]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[Python (Programming Language)|Python]] (2), [[Statistics]] (2), [[Forms]] (1), [[Statistical Analysis]] (1)
 > **CLI Commands:** find (2), python (2), make (1)
 > **Cross-References:** we covered (1), in the last (1), later in (1), in the next (1)
 > **Warnings:** important note (1), note that (1), keep in mind (1)
@@ -4642,8 +4614,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Spearman rank correlation and Chi-square
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/spearman-rank-correlation-and-chi-square?u=76281980)
+#### [Spearman rank correlation and Chi-square](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/spearman-rank-correlation-and-chi-square?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4709,7 +4680,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/spearman-rank-correlation-and-chi-square?u=76281980&t=216)** Now that you know what binning is, let's move on to the coding demonstration portion of this section.
 >
-> **[3:42](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/spearman-rank-correlation-and-chi-square?u=76281980&t=222)** Okay, so for this demonstration, we're bringing in our standard libraries, pandas and numpy, but please note that I also imported matplotlib and seaborn as well as rcParams.
+> **[3:42](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/spearman-rank-correlation-and-chi-square?u=76281980&t=222)** Okay, so for this demonstration, we're bringing in our standard libraries, [[Pandas (Software)|pandas]] and numpy, but please note that I also imported matplotlib and seaborn as well as rcParams.
 >
 > **[3:54](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/spearman-rank-correlation-and-chi-square?u=76281980&t=234)** And we're going to be using scipy in this demonstration.
 >
@@ -4893,7 +4864,7 @@ created: 2026-05-02
 >
 > **[13:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/spearman-rank-correlation-and-chi-square?u=76281980&t=803)** So what we're getting here is a chi-square statistic for cylinder am variable pair.
 >
-> **[13:29](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/spearman-rank-correlation-and-chi-square?u=76281980&t=809)** Let's just generate a few more chi-square statistics on other variable pairs.
+> **[13:29](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/spearman-rank-correlation-and-chi-square?u=76281980&t=809)** Let's just generate a few more chi-square [[Statistics]] on other variable pairs.
 >
 > **[13:34](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/spearman-rank-correlation-and-chi-square?u=76281980&t=814)** To do that, I'm just going to copy this code over.
 >
@@ -4919,7 +4890,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Pandas (Software)|Pandas]] (1), next (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1), [[Statistics]] (1)
 > **CLI Commands:** make (4), find (3)
 > **Code Identifiers:** spearmanr_coefficient (2), rcparams (1), p_value (1)
 > **Versions:** 0.05 (4)
@@ -4928,8 +4899,7 @@ created: 2026-05-02
 > **Cross-References:** we covered (1)
 > **Warnings:** note that (1)
 
-#### Extreme value analysis for outliers
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/extreme-value-analysis-for-outliers?u=76281980)
+#### [Extreme value analysis for outliers](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/extreme-value-analysis-for-outliers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4943,7 +4913,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/extreme-value-analysis-for-outliers?u=76281980&t=20)** In this section, we're going to talk about univariate methods.
 >
-> **[0:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/extreme-value-analysis-for-outliers?u=76281980&t=23)** Some use cases for outlier analysis include detecting fraud, detecting equipment failure, and also cybersecurity event detection.
+> **[0:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/extreme-value-analysis-for-outliers?u=76281980&t=23)** Some use cases for outlier analysis include detecting fraud, detecting equipment failure, and also [[Cybersecurity]] event detection.
 >
 > **[0:33](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/extreme-value-analysis-for-outliers?u=76281980&t=33)** Tukey methods are useful for identifying a variable's outliers.
 >
@@ -4969,9 +4939,9 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/extreme-value-analysis-for-outliers?u=76281980&t=102)** And this is essentially calculating the Tukey outlier mathematically instead of using the boxplot.
 >
-> **[1:48](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/extreme-value-analysis-for-outliers?u=76281980&t=108)** So let's look at how to do all of this in Python.
+> **[1:48](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/extreme-value-analysis-for-outliers?u=76281980&t=108)** So let's look at how to do all of this in [[Python (Programming Language)|Python]].
 >
-> **[1:52](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/extreme-value-analysis-for-outliers?u=76281980&t=112)** For this demonstration, we're bringing in the standard libraries, pandas and numpy.
+> **[1:52](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/extreme-value-analysis-for-outliers?u=76281980&t=112)** For this demonstration, we're bringing in the standard libraries, [[Pandas (Software)|pandas]] and numpy.
 >
 > **[1:58](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/extreme-value-analysis-for-outliers?u=76281980&t=118)** Please note that I also imported matplotlib and cbon as well as rcParams.
 >
@@ -5095,7 +5065,7 @@ created: 2026-05-02
 >
 > **[7:41](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/extreme-value-analysis-for-outliers?u=76281980&t=461)** Let's look a little closer at these values.
 >
-> **[7:44](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/extreme-value-analysis-for-outliers?u=76281980&t=464)** I'm going to use filtering in comparison operators to isolate these values from the rest of the data frame.
+> **[7:44](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/extreme-value-analysis-for-outliers?u=76281980&t=464)** I'm going to use filtering in comparison operators to isolate these values from the [[Representational State Transfer (REST)|rest]] of the data frame.
 >
 > **[7:50](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/extreme-value-analysis-for-outliers?u=76281980&t=470)** So let's go back over to our coding demonstration and let's isolate Sepal Width.
 >
@@ -5173,7 +5143,7 @@ created: 2026-05-02
 >
 > **[12:26](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/extreme-value-analysis-for-outliers?u=76281980&t=746)** And then print this out.
 >
-> **[12:28](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/extreme-value-analysis-for-outliers?u=76281980&t=748)** Now, we have some descriptive statistics on each of the variables in our data frame.
+> **[12:28](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/extreme-value-analysis-for-outliers?u=76281980&t=748)** Now, we have some descriptive [[Statistics]] on each of the variables in our data frame.
 >
 > **[12:33](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/extreme-value-analysis-for-outliers?u=76281980&t=753)** Let me explain to you what these actually mean.
 >
@@ -5207,7 +5177,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), next (3), [[Cybersecurity]] (1), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Statistics]] (1)
 > **Versions:** 1.5 (3), 2.05 (3), 0.75 (3), 3.3 (2), 2.8 (2)
 > **Code Identifiers:** iris_outliers (2), rcparams (1), read_csv (1), filepath_or_buffer (1), return_type (1)
 > **CLI Commands:** find (3), python (1)
@@ -5216,8 +5186,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), means that (1)
 > **Prerequisites:** you'll need (1), setup (1)
 
-#### Multivariate analysis for outliers
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/multivariate-analysis-for-outliers?u=76281980)
+#### [Multivariate analysis for outliers](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/multivariate-analysis-for-outliers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5229,7 +5198,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/multivariate-analysis-for-outliers?u=76281980&t=16)** We are going to pick up where we left off in the last section with the box plot, and then I'm going to introduce you how to use scatterplot matrices to find outliers.
 >
-> **[0:26](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/multivariate-analysis-for-outliers?u=76281980&t=26)** For this demonstration, we're bringing in our standard libraries, pandas, matplotlib, and seaborn.
+> **[0:26](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/multivariate-analysis-for-outliers?u=76281980&t=26)** For this demonstration, we're bringing in our standard libraries, [[Pandas (Software)|pandas]], matplotlib, and seaborn.
 >
 > **[0:33](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/multivariate-analysis-for-outliers?u=76281980&t=33)** So all of these are already loaded in the notebook, and I've also set the plotting parameters for matplotlib, and I preloaded the iris dataset, which we worked with in the previous demonstration.
 >
@@ -5359,7 +5328,7 @@ created: 2026-05-02
 >
 > **[6:05](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/multivariate-analysis-for-outliers?u=76281980&t=365)** And then print this out.
 >
-> **[6:07](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/multivariate-analysis-for-outliers?u=76281980&t=367)** Now we have some descriptive statistics on each of the variables in our data frame.
+> **[6:07](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/multivariate-analysis-for-outliers?u=76281980&t=367)** Now we have some descriptive [[Statistics]] on each of the variables in our data frame.
 >
 > **[6:11](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/multivariate-analysis-for-outliers?u=76281980&t=371)** Let me explain to you what these actually mean.
 >
@@ -5397,7 +5366,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), next (2), [[Pandas (Software)|Pandas]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1), [[Statistics]] (1)
 > **Versions:** 0.75 (3), 3.3 (2), 2.8 (2), 4.05 (2), 0.1 (1)
 > **CLI Commands:** find (5)
 > **Env Vars:** hls (3)
@@ -5410,8 +5379,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cleaning and treating categorical variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/cleaning-and-treating-categorical-variables?u=76281980)
+#### [Cleaning and treating categorical variables](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/cleaning-and-treating-categorical-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5423,15 +5391,15 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/cleaning-and-treating-categorical-variables?u=76281980&t=27)** Say for example, apples, oranges, lemons, there's not an infinite number of fruit types, so it's categorical.
 >
-> **[0:35](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/cleaning-and-treating-categorical-variables?u=76281980&t=35)** In the field of machine learning, it's common to come across categorical variables when addressing data science challenges.
+> **[0:35](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/cleaning-and-treating-categorical-variables?u=76281980&t=35)** In the field of machine learning, it's common to come across categorical variables when addressing [[Data Science]] challenges.
 >
-> **[0:41](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/cleaning-and-treating-categorical-variables?u=76281980&t=41)** Typically, machine learning algorithms are not equipped to directly process categorical data.
+> **[0:41](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/cleaning-and-treating-categorical-variables?u=76281980&t=41)** Typically, machine learning [[Algorithms]] are not equipped to directly process categorical data.
 >
 > **[0:47](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/cleaning-and-treating-categorical-variables?u=76281980&t=47)** Therefore, we have to transform this type of data into numerical formats that are compatible with machine learning algorithms.
 >
 > **[0:55](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/cleaning-and-treating-categorical-variables?u=76281980&t=55)** This transformation can be done through various methods, including label encoding, one-hot encoding, among others.
 >
-> **[1:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/cleaning-and-treating-categorical-variables?u=76281980&t=63)** The conversion of categorical variables into numerical forms is known as encoding.
+> **[1:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/cleaning-and-treating-categorical-variables?u=76281980&t=63)** The conversion of categorical variables into numerical [[Forms]] is known as encoding.
 >
 > **[1:09](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/cleaning-and-treating-categorical-variables?u=76281980&t=69)** In this coding demonstration, I will demonstrate two common encoding techniques, label encoding and one-hot encoding.
 >
@@ -5439,7 +5407,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/cleaning-and-treating-categorical-variables?u=76281980&t=81)** During the coding demonstration, we will explore how to transform categorical variables into formats that are interpretable by machine learning models.
 >
-> **[1:32](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/cleaning-and-treating-categorical-variables?u=76281980&t=92)** Let's get started importing the required libraries for cleaning and treating categorical variables, I've already imported numpy in Pandas, and now we'll also import the other required libraries.
+> **[1:32](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/cleaning-and-treating-categorical-variables?u=76281980&t=92)** Let's get started importing the required libraries for cleaning and treating categorical variables, I've already imported numpy in [[Pandas (Software)|Pandas]], and now we'll also import the other required libraries.
 >
 > **[1:44](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/cleaning-and-treating-categorical-variables?u=76281980&t=104)** One thing I wanted to point out here is that from sklearn, the preprocessing module, we're importing LabelEncoder and OneHotEncoder.
 >
@@ -5569,7 +5537,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), next (3), [[Algorithms]] (2), [[Forms]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Data Science]] (1), [[Forms]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** onehot_encoder (6), label_encoder (3), onehot_encoded_names (3), onehot_encoded_df (3), label_encoded_names (1)
 > **Definitions:** is a  (2), known as (1), is called (1), refers to (1)
 > **Versions:** 1.0 (1), 0.0 (1)
@@ -5577,12 +5545,11 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transforming data set distributions
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/transforming-data-set-distributions?u=76281980)
+#### [Transforming data set distributions](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/transforming-data-set-distributions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/transforming-data-set-distributions?u=76281980&t=0)** - [Instructor] The term data transformation refers to the practice of changing data from its original state into a different format.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/transforming-data-set-distributions?u=76281980&t=0)** - [Instructor] The term [[Data Transformation]] refers to the practice of changing data from its original state into a different format.
 >
 > **[0:08](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/transforming-data-set-distributions?u=76281980&t=8)** This often includes turning raw data into a format that is clean and ready for use.
 >
@@ -5614,7 +5581,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/transforming-data-set-distributions?u=76281980&t=109)** In this demo, I'm going to show you how to transform dataset distributions.
 >
-> **[1:53](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/transforming-data-set-distributions?u=76281980&t=113)** As you can see, I've already imported the required libraries that we're going to be using in this demonstration which are numpy, pandas, matplotlib and sklearn.
+> **[1:53](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/transforming-data-set-distributions?u=76281980&t=113)** As you can see, I've already imported the required libraries that we're going to be using in this demonstration which are numpy, [[Pandas (Software)|pandas]], matplotlib and sklearn.
 >
 > **[2:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/transforming-data-set-distributions?u=76281980&t=123)** For pre-processing data, we're going to need the MinMaxScaler and the scale from sklearn's preprocessing module.
 >
@@ -5696,11 +5663,11 @@ created: 2026-05-02
 >
 > **[6:42](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/transforming-data-set-distributions?u=76281980&t=402)** As with normalization, the data points have not been skewed or distorted in any way.
 >
-> **[6:47](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/transforming-data-set-distributions?u=76281980&t=407)** Now that you know how to transform your data sets, you should be ready to get started with basic machine learning algorithms.
+> **[6:47](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/transforming-data-set-distributions?u=76281980&t=407)** Now that you know how to transform your data sets, you should be ready to get started with basic machine learning [[Algorithms]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Data Transformation]] (3), [[Pandas (Software)|Pandas]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Data Transformation]] (3), [[Pandas (Software)|Pandas]] (1), [[Algorithms]] (1)
 > **Code Identifiers:** minmax_scalar (3), scaled_data (3), standard_scalar (3)
 > **Definitions:** is a  (2), refers to (1), known as (1)
 > **Analogies:** compare this to (1), just like (1)
@@ -5708,8 +5675,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Applied machine learning: Starter problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/applied-machine-learning-starter-problem?u=76281980)
+#### [Applied machine learning: Starter problem](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/applied-machine-learning-starter-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5745,7 +5711,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/applied-machine-learning-starter-problem?u=76281980&t=94)** I've already imported the required libraries that we will use in this demo.
 >
-> **[1:38](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/applied-machine-learning-starter-problem?u=76281980&t=98)** Those are pandas and sklearn.
+> **[1:38](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/applied-machine-learning-starter-problem?u=76281980&t=98)** Those are [[Pandas (Software)|pandas]] and sklearn.
 >
 > **[1:41](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/applied-machine-learning-starter-problem?u=76281980&t=101)** Also, please note that I'm importing metrics from sklearn here, as you can see right here, and that I've preloaded the iris dataset for you that we've been working with earlier demonstrations.
 >
@@ -5879,7 +5845,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (3), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** x_train (2), x_test (2), y_train (2), y_test (2), y_predict (2)
 > **CLI Commands:** make (1)
 > **Versions:** 0.3 (1)
@@ -5893,12 +5859,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction of web scraping
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980)
+#### [Introduction of web scraping](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980&t=0)** - [Instructor] Web scraping is a cornerstone technique in data science.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980&t=0)** - [Instructor] Web scraping is a cornerstone technique in [[Data Science]].
 >
 > **[0:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980&t=3)** Web scraping automates the extraction of data from websites, thus allowing us to gather large amounts of information really quickly.
 >
@@ -5908,11 +5873,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980&t=26)** You might wonder why web scraping is so important.
 >
-> **[0:29](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980&t=29)** The internet is a treasure trove of data, stock prices, sports statistics, product details, and more.
+> **[0:29](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980&t=29)** The internet is a treasure trove of data, stock prices, sports [[Statistics]], product details, and more.
 >
 > **[0:37](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980&t=37)** Manually collecting this data is a daunting task, though.
 >
-> **[0:40](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980&t=40)** That said, it's essential for many business activities including market research and analytics.
+> **[0:40](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980&t=40)** That said, it's essential for many business activities including [[Market Research]] and analytics.
 >
 > **[0:46](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980&t=46)** Web scrapers streamline this process by efficiently gathering data that's crucial for organizational decision making.
 >
@@ -5922,13 +5887,13 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980&t=66)** This method is not only time-efficient, but also cost-effective.
 >
-> **[1:11](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980&t=71)** Deploying multiple web scrapers simultaneously accelerates data collection while minimizing the human error, which is common in manual data gathering.
+> **[1:11](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980&t=71)** Deploying multiple web scrapers simultaneously accelerates [[Data Collection]] while minimizing the human error, which is common in manual data gathering.
 >
 > **[1:21](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980&t=81)** So how does web scraping work?
 >
 > **[1:24](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980&t=84)** The process begins with identifying the target website.
 >
-> **[1:27](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980&t=87)** Web scrapers send requests to retrieve the site's HTML content, which includes all of its data and code.
+> **[1:27](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980&t=87)** Web scrapers send requests to retrieve the site's [[HTML]] content, which includes all of its data and code.
 >
 > **[1:35](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980&t=95)** The next step involves pinpointing and extracting the necessary data from the specific HTML text.
 >
@@ -5936,7 +5901,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980&t=109)** Web scraping has a diverse range of applications.
 >
-> **[1:52](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980&t=112)** It's a critical part of generative AI, machine learning, and data analytics.
+> **[1:52](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980&t=112)** It's a critical part of [[Generative AI]], machine learning, and data analytics.
 >
 > **[1:58](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980&t=118)** It offers insights for market research and competitive analysis.
 >
@@ -5946,23 +5911,22 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980&t=134)** Not all data is permissible to script, especially when it involves confidential or personal information.
 >
-> **[2:20](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980&t=140)** Ethical scraping respects privacy and complies with legal standards.
+> **[2:20](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-of-web-scraping?u=76281980&t=140)** Ethical scraping respects [[Privacy]] and complies with legal standards.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), web (12), [[Market Research]] (2), [[Analytics]] (2), [[HTML]] (2)
+> **Frameworks & Libraries:** [[Market Research]] (2), [[HTML]] (2), [[Data Science]] (1), [[Statistics]] (1), [[Data Collection]] (1)
 > **Definitions:** is a  (3), known as (1)
 > **Env Vars:** html (2)
 > **Speakers:** - [instructor] (1)
 
-#### Python requests for automating data collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/python-requests-for-automating-data-collecction?u=76281980)
+#### [Python requests for automating data collection](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/python-requests-for-automating-data-collecction?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/python-requests-for-automating-data-collecction?u=76281980&t=0)** - [Instructor] Now it's time to talk about the requests library.
 >
-> **[0:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/python-requests-for-automating-data-collecction?u=76281980&t=3)** Requests is a Python library which is used to make all sorts of HTTP requests.
+> **[0:03](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/python-requests-for-automating-data-collecction?u=76281980&t=3)** Requests is a [[Python (Programming Language)|Python]] library which is used to make all sorts of HTTP requests.
 >
 > **[0:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/python-requests-for-automating-data-collecction?u=76281980&t=10)** It's a human friendly HTTP library.
 >
@@ -6010,7 +5974,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/python-requests-for-automating-data-collecction?u=76281980&t=141)** When we make a request to a server like this, it returns extra information with a response called headers.
 >
-> **[2:27](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/python-requests-for-automating-data-collecction?u=76281980&t=147)** Headers contain all of the metadata of the URL for which we made the request of the server.
+> **[2:27](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/python-requests-for-automating-data-collecction?u=76281980&t=147)** Headers contain all of the [[Metadata]] of the URL for which we made the request of the server.
 >
 > **[2:33](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/python-requests-for-automating-data-collecction?u=76281980&t=153)** Let's print the response header.
 >
@@ -6026,7 +5990,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/python-requests-for-automating-data-collecction?u=76281980&t=181)** Content type indicates the media type of the returned content.
 >
-> **[3:05](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/python-requests-for-automating-data-collecction?u=76281980&t=185)** For example, if the returned content is a simple HTML page, then its content type will be text/html.
+> **[3:05](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/python-requests-for-automating-data-collecction?u=76281980&t=185)** For example, if the returned content is a simple [[HTML]] page, then its content type will be text/html.
 >
 > **[3:13](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/python-requests-for-automating-data-collecction?u=76281980&t=193)** Similarly, if the returned content is a PDF file, then its content type will be application/pdf.
 >
@@ -6036,7 +6000,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/python-requests-for-automating-data-collecction?u=76281980&t=221)** And now we see that the content type of the response object is text/html which indicates that the returned content is a simple HTML page.
 >
-> **[3:53](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/python-requests-for-automating-data-collecction?u=76281980&t=233)** In general, we use Python request to fetch content from a server.
+> **[3:53](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/python-requests-for-automating-data-collecction?u=76281980&t=233)** In general, we use Python request to [[Fetch]] content from a server.
 >
 > **[3:58](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/python-requests-for-automating-data-collecction?u=76281980&t=238)** Response content is the information about the server's response that's delivered back to us when we send a request.
 >
@@ -6064,7 +6028,7 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/python-requests-for-automating-data-collecction?u=76281980&t=325)** Okay, so simple.
 >
-> **[5:27](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/python-requests-for-automating-data-collecction?u=76281980&t=327)** I'll put a period here at the end just for good grammar, at the end of the word fine.
+> **[5:27](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/python-requests-for-automating-data-collecction?u=76281980&t=327)** I'll put a period here at the end just for good grammar, at the end of the [[Microsoft Word|word]] fine.
 >
 > **[5:35](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/python-requests-for-automating-data-collecction?u=76281980&t=335)** And run this.
 >
@@ -6154,7 +6118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Word|Word]] (5), [[HTML]] (4), next (2), data (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Word|Word]] (5), [[HTML]] (4), [[Metadata]] (1), [[Fetch]] (1)
 > **CLI Commands:** python (5), make (4), find (1)
 > **Env Vars:** http (4), url (3), html (2), pdf (1)
 > **Definitions:** is a  (4), means that (1)
@@ -6163,12 +6127,11 @@ created: 2026-05-02
 > **URLs:** [https://www.python.org](https://www.python.org) (1)
 > **Speakers:** - [instructor] (1)
 
-#### BeautifulSoup object
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/beautifulsoup-object?u=76281980)
+#### [BeautifulSoup object](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/beautifulsoup-object?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/beautifulsoup-object?u=76281980&t=0)** - [Instructor] Let's look at web scraping with Python.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/beautifulsoup-object?u=76281980&t=0)** - [Instructor] Let's look at web scraping with [[Python (Programming Language)|Python]].
 >
 > **[0:02](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/beautifulsoup-object?u=76281980&t=2)** I'm about to show you how to scrape data from the internet.
 >
@@ -6194,11 +6157,11 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/beautifulsoup-object?u=76281980&t=70)** I've seen humanitarian volunteers scrape web data from a foreign country's census site so that the data could be used to quickly form a resource allocation plan.
 >
-> **[1:22](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/beautifulsoup-object?u=76281980&t=82)** And last, but of course not least, without web scraping, there would be no generative AI.
+> **[1:22](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/beautifulsoup-object?u=76281980&t=82)** And last, but of course not least, without web scraping, there would be no [[Generative AI]].
 >
 > **[1:29](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/beautifulsoup-object?u=76281980&t=89)** Scrape content in the form of copy and images is a baseline necessity of training generative AI models.
 >
-> **[1:37](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/beautifulsoup-object?u=76281980&t=97)** Without the source data that's scraped from the web There would be no chatGPT, Midjourney and what have you.
+> **[1:37](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/beautifulsoup-object?u=76281980&t=97)** Without the source data that's scraped from the web There would be no [[ChatGPT]], [[Midjourney]] and what have you.
 >
 > **[1:45](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/beautifulsoup-object?u=76281980&t=105)** In other words, web scraping is useful for an almost unlimited number of applications.
 >
@@ -6214,7 +6177,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/beautifulsoup-object?u=76281980&t=143)** It's easily navigable and searchable.
 >
-> **[2:27](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/beautifulsoup-object?u=76281980&t=147)** Tag elements correspond to XML and HTML elements in an original document.
+> **[2:27](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/beautifulsoup-object?u=76281980&t=147)** Tag elements correspond to XML and [[HTML]] elements in an original document.
 >
 > **[2:34](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/beautifulsoup-object?u=76281980&t=154)** You can navigate the reference data using tag attributes.
 >
@@ -6320,7 +6283,7 @@ created: 2026-05-02
 >
 > **[7:58](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/beautifulsoup-object?u=76281980&t=478)** So this is actually heading level one tag and we're saying that the attribute_1 = "Heading Level 1".
 >
-> **[8:16](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/beautifulsoup-object?u=76281980&t=496)** And this heading should read >Future Trends for IoT in 2018<.
+> **[8:16](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/beautifulsoup-object?u=76281980&t=496)** And this heading should read >Future Trends for [[IoT]] in 2018<.
 >
 > **[8:28](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/beautifulsoup-object?u=76281980&t=508)** And then we will close the </h1> tag.
 >
@@ -6548,7 +6511,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (16), data (13), web (9), [[Python (Programming Language)|Python]] (5), [[IoT]] (3)
+> **Frameworks & Libraries:** [[HTML]] (16), [[Python (Programming Language)|Python]] (5), [[IoT]] (3), [[Generative AI]] (2), [[ChatGPT]] (1)
 > **Code Identifiers:** our_soup_object (11), soup_object (5), our_html_document (2), chatgpt (1)
 > **Env Vars:** html (9), xml (2), utf (1)
 > **CLI Commands:** python (5), make (2)
@@ -6557,14 +6520,13 @@ created: 2026-05-02
 > **Tools:** jupyter (4)
 > **Analogies:** imagine (2), for example (1)
 
-#### NavigableString objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/navigablestring-objects?u=76281980)
+#### [NavigableString objects](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/navigablestring-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/navigablestring-objects?u=76281980&t=0)** - [Instructor] Now that we've finished tag objects, let's start looking at the NavigatableString object.
 >
-> **[0:06](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/navigablestring-objects?u=76281980&t=6)** Before getting started here, I just want to check to make sure that our version of Python is comparable with the demonstration we're about to do.
+> **[0:06](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/navigablestring-objects?u=76281980&t=6)** Before getting started here, I just want to check to make sure that our version of [[Python (Programming Language)|Python]] is comparable with the demonstration we're about to do.
 >
 > **[0:16](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/navigablestring-objects?u=76281980&t=16)** So this notebook was written for Python 3.10.
 >
@@ -6610,13 +6572,13 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/navigablestring-objects?u=76281980&t=133)** Let's take that L out here, and then close the string, and then close this.
 >
-> **[2:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/navigablestring-objects?u=76281980&t=143)** And we want this to read future trends for IoT
+> **[2:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/navigablestring-objects?u=76281980&t=143)** And we want this to read future trends for [[IoT]]
 >
 > **[2:32](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/navigablestring-objects?u=76281980&t=152)** in 2018.
 >
 > **[2:35](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/navigablestring-objects?u=76281980&t=155)** And then we'll close this H1 tag.
 >
-> **[2:39](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/navigablestring-objects?u=76281980&t=159)** And then we need to be sure to pass our HTML parser just to tell BeautifulSoup how to interpret the document we've passed in.
+> **[2:39](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/navigablestring-objects?u=76281980&t=159)** And then we need to be sure to pass our [[HTML]] parser just to tell BeautifulSoup how to interpret the document we've passed in.
 >
 > **[2:49](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/navigablestring-objects?u=76281980&t=169)** It does look like there's a typo, so I'm missing a single quote here.
 >
@@ -6780,7 +6742,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (5), [[HTML]] (4), [[Python (Programming Language)|Python]] (2), next (1), data (1)
+> **Frameworks & Libraries:** [[IoT]] (5), [[HTML]] (4), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** html (4), bs4 (1), nan (1)
 > **CLI Commands:** python (2), make (1)
 > **Versions:** python 3 (1), version 3 (1)
@@ -6789,8 +6751,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** getting started (1)
 
-#### Data parsing
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-parsing?u=76281980)
+#### [Data parsing](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-parsing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6798,7 +6759,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-parsing?u=76281980&t=4)** I've broken the demonstration to come into three sections, parsing data, getting data from a parse tree and searching and retrieving data from a parse tree.
 >
-> **[0:14](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-parsing?u=76281980&t=14)** Parsing data is where you'll pass an HTML or XML document to a Beautiful Soup constructor.
+> **[0:14](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-parsing?u=76281980&t=14)** Parsing data is where you'll pass an [[HTML]] or XML document to a Beautiful Soup constructor.
 >
 > **[0:20](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-parsing?u=76281980&t=20)** The constructor converts the document to Unicode and then parses it with a built-in HTML parser.
 >
@@ -6838,13 +6799,13 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-parsing?u=76281980&t=125)** and within this function, we're going to pass in a string of a web address that has our HTML.
 >
-> **[2:12](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-parsing?u=76281980&t=132)** So that's [https://Raw](https://Raw) GitHub user [content.com/bigdatagal](https://content.com/bigdatagal)/
+> **[2:12](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-parsing?u=76281980&t=132)** So that's [https://Raw](https://Raw) [[GitHub]] user [content.com/bigdatagal](https://content.com/bigdatagal)/
 >
 > **[2:32](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-parsing?u=76281980&t=152)** data-mania-demos/master/IOT2018.html.
 >
 > **[2:50](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-parsing?u=76281980&t=170)** And then close the string.
 >
-> **[2:52](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-parsing?u=76281980&t=172)** So again, that's [https://raw](https://raw) [GitHubusercontent.com](https://GitHubusercontent.com)/ bigdatagal/data-mania-demos/master/IOT- 2018html.
+> **[2:52](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-parsing?u=76281980&t=172)** So again, that's [https://raw](https://raw) [GitHubusercontent.com](https://GitHubusercontent.com)/ bigdatagal/data-mania-demos/master/[[IoT]]- 2018html.
 >
 > **[3:12](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/data-parsing?u=76281980&t=192)** And we want this to be read as response and we want HTML to be set equal to the response read function.
 >
@@ -7046,7 +7007,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[HTML]] (16), [[Search]] (4), web (3), [[IoT]] (2)
+> **Frameworks & Libraries:** [[HTML]] (16), [[IoT]] (2), [[GitHub]] (1)
 > **Env Vars:** html (15), xml (2), url (2), iot (2), iot2018 (1)
 > **CLI Commands:** find (15), make (1)
 > **URLs:** [https://raw](https://raw) (2), [content.com](https://content.com) (1), [githubusercontent.com](https://githubusercontent.com) (1)
@@ -7055,8 +7016,7 @@ created: 2026-05-02
 > **File Paths:** data-mania-demos/master/iot2018.html (1)
 > **Ports:** :100 (1)
 
-#### Web scraping in practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/web-scraping-in-practice?u=76281980)
+#### [Web scraping in practice](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/web-scraping-in-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7082,7 +7042,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/web-scraping-in-practice?u=76281980&t=89)** And then we want to pass, our first perimeter is going to be our R variable.
 >
-> **[1:35](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/web-scraping-in-practice?u=76281980&t=95)** And then our second parameter will be the HTML parser to tell Beautiful Soup to use the HTML parser to read the data.
+> **[1:35](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/web-scraping-in-practice?u=76281980&t=95)** And then our second parameter will be the [[HTML]] parser to tell Beautiful Soup to use the HTML parser to read the data.
 >
 > **[1:47](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/web-scraping-in-practice?u=76281980&t=107)** And we'll call the type function and pass in our soup object just to double check the type of our soup object, which of course, should be a beautiful soup.
 >
@@ -7136,7 +7096,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/web-scraping-in-practice?u=76281980&t=275)** And here is the body of text that's sitting on that webpage.
 >
-> **[4:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/web-scraping-in-practice?u=76281980&t=283)** We have scraped it directly from the webpage in real-time.
+> **[4:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/web-scraping-in-practice?u=76281980&t=283)** We have scraped it directly from the webpage in [[Real-Time]].
 >
 > **[4:48](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/web-scraping-in-practice?u=76281980&t=288)** The benefit of using this for loop that we created here is it basically went through all of the text and got us exactly what we needed, which was the links instead of us having to kind of pick and choose through the body of text.
 >
@@ -7192,7 +7152,7 @@ created: 2026-05-02
 >
 > **[8:32](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/web-scraping-in-practice?u=76281980&t=512)** and the second parameter will be a string that reads W.
 >
-> **[8:39](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/web-scraping-in-practice?u=76281980&t=519)** What that's doing is it's telling Python that we want to write into that text file, so W stands for write.
+> **[8:39](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/web-scraping-in-practice?u=76281980&t=519)** What that's doing is it's telling [[Python (Programming Language)|Python]] that we want to write into that text file, so W stands for write.
 >
 > **[8:46](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/web-scraping-in-practice?u=76281980&t=526)** And then what we want to do is for each of the links that was just printed out, we want to print those now into the parsed data text file.
 >
@@ -7252,7 +7212,7 @@ created: 2026-05-02
 >
 > **[12:27](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/web-scraping-in-practice?u=76281980&t=747)** And a lot of times when you're doing web scraping, no matter how much data formatting you do, there's always these stray characters.
 >
-> **[12:34](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/web-scraping-in-practice?u=76281980&t=754)** Basically, a lot of times, there are data processing requirements after you scrape the data.
+> **[12:34](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/web-scraping-in-practice?u=76281980&t=754)** Basically, a lot of times, there are [[Data Processing]] requirements after you scrape the data.
 >
 > **[12:40](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/web-scraping-in-practice?u=76281980&t=760)** So expect to spend some time data munging after you do web scraping.
 >
@@ -7264,7 +7224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), web (6), [[Analytics]] (4), next (4), [[HTML]] (2)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Real-Time]] (1), [[Python (Programming Language)|Python]] (1), [[Data Processing]] (1)
 > **CLI Commands:** find (10), make (2), python (1)
 > **Env Vars:** url (2), html (2), http (2), https (1)
 > **Code Identifiers:** soup_link (3), parsed_data (1)
@@ -7273,8 +7233,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), stands for (1)
 > **Ports:** :1000 (1)
 
-#### Asynchronous scraping
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/asynchronous-scraping?u=76281980)
+#### [Asynchronous scraping](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/asynchronous-scraping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7294,7 +7253,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/asynchronous-scraping?u=76281980&t=53)** Aiohttp is a client and server side library that allows us to make asynchronous requests.
 >
-> **[1:01](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/asynchronous-scraping?u=76281980&t=61)** On the other hand, asyncio is a Python library, which is used to write concurrent code.
+> **[1:01](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/asynchronous-scraping?u=76281980&t=61)** On the other hand, asyncio is a [[Python (Programming Language)|Python]] library, which is used to write concurrent code.
 >
 > **[1:08](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/asynchronous-scraping?u=76281980&t=68)** Let's take a look at it inside of Python.
 >
@@ -7334,7 +7293,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/asynchronous-scraping?u=76281980&t=185)** So to do that, we'll say nest_asyncio.apply, and we'll run this.
 >
-> **[3:16](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/asynchronous-scraping?u=76281980&t=196)** Next, let's write an asynchronous python function that scrapes all of the links from a given webpage's HTML content and saves them into a CSV file.
+> **[3:16](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/asynchronous-scraping?u=76281980&t=196)** Next, let's write an asynchronous python function that scrapes all of the links from a given webpage's [[HTML]] content and saves them into a CSV file.
 >
 > **[3:25](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/asynchronous-scraping?u=76281980&t=205)** This can be especially useful for gathering data for web analysis, SEO monitoring, or even just cataloging content.
 >
@@ -7412,7 +7371,7 @@ created: 2026-05-02
 >
 > **[7:58](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/asynchronous-scraping?u=76281980&t=478)** Okay, so here we have our function.
 >
-> **[7:59](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/asynchronous-scraping?u=76281980&t=479)** Next we're going to define another piece of our web scraping toolkit, which will be the fetch function.
+> **[7:59](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/asynchronous-scraping?u=76281980&t=479)** Next we're going to define another piece of our web scraping toolkit, which will be the [[Fetch]] function.
 >
 > **[8:06](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/asynchronous-scraping?u=76281980&t=486)** This asynchronous functions responsible for making web request and then passing the content it retrieves to our scrape and save links function.
 >
@@ -7578,7 +7537,7 @@ created: 2026-05-02
 >
 > **[18:08](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/asynchronous-scraping?u=76281980&t=1088)** So we'll say [https://www.python.org](https://www.python.org).
 >
-> **[18:19](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/asynchronous-scraping?u=76281980&t=1099)** And lastly about we use LinkedIn, so [https://www.linkedin.com](https://www.linkedin.com).
+> **[18:19](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/asynchronous-scraping?u=76281980&t=1099)** And lastly about we use [[LinkedIn]], so [https://www.linkedin.com](https://www.linkedin.com).
 >
 > **[18:38](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/asynchronous-scraping?u=76281980&t=1118)** I'm going to do a forward slash just to make sure all of our ducks in a row here, clean up the formatting.
 >
@@ -7622,7 +7581,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (14), [[Fetch]] (12), next (8), [[Python (Programming Language)|Python]] (7), data (5)
+> **Frameworks & Libraries:** [[Fetch]] (12), [[Python (Programming Language)|Python]] (7), [[HTML]] (5), [[LinkedIn]] (2)
 > **Env Vars:** csv (13), url (12), html (5), http (4), cpu (3)
 > **CLI Commands:** make (7), python (7), pip (6), find (2)
 > **Definitions:** is a  (4), is an  (2), means that (1)
@@ -7636,12 +7595,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Streamlit
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-streamlit?u=76281980)
+#### [Introduction to Streamlit](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-streamlit?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-streamlit?u=76281980&t=0)** - [Instructor] Streamlit, Dash, Voila, and Panel are the leading frameworks within the Python dashboarding ecosystem.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-streamlit?u=76281980&t=0)** - [Instructor] Streamlit, Dash, Voila, and Panel are the leading frameworks within the [[Python (Programming Language)|Python]] dashboarding ecosystem.
 >
 > **[0:08](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-streamlit?u=76281980&t=8)** Let's discuss the features of these frameworks.
 >
@@ -7651,7 +7609,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-streamlit?u=76281980&t=17)** Streamlit is a Python library that's specifically built for machine learning engineers and data scientists.
 >
-> **[0:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-streamlit?u=76281980&t=23)** Streamlit makes it easy to create and share beautiful custom web apps for machine learning and data science projects even if you don't have any prior knowledge of web development.
+> **[0:23](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-streamlit?u=76281980&t=23)** Streamlit makes it easy to create and share beautiful custom web apps for machine learning and [[Data Science]] projects even if you don't have any prior knowledge of [[Web Development]].
 >
 > **[0:36](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-streamlit?u=76281980&t=36)** in the matter of a few minutes, you can use it to build and deploy powerful data applications.
 >
@@ -7667,7 +7625,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-streamlit?u=76281980&t=84)** Next, there's Panel.
 >
-> **[1:26](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-streamlit?u=76281980&t=86)** Panel is another Python library that lets you create custom, interactive web apps and dashboards by connecting user-defined widgets to plots, images, tables, or text.
+> **[1:26](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-streamlit?u=76281980&t=86)** Panel is another Python library that lets you create custom, interactive web apps and [[Dashboards]] by connecting user-defined widgets to plots, images, tables, or text.
 >
 > **[1:38](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-streamlit?u=76281980&t=98)** The best thing about Panel is that you can build a simple dashboard application for a complicated system in Jupyter Notebook, and you don't need to switch tools along the way.
 >
@@ -7711,7 +7669,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-streamlit?u=76281980&t=220)** And last but not least, there's Dash.
 >
-> **[3:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-streamlit?u=76281980&t=223)** Dash is a web application development framework from Plotly.
+> **[3:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-streamlit?u=76281980&t=223)** Dash is a [[Web Application Development]] framework from Plotly.
 >
 > **[3:47](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-streamlit?u=76281980&t=227)** It's built specifically for developing data applications.
 >
@@ -7723,7 +7681,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-streamlit?u=76281980&t=246)** It explicitly supports multi-page web applications, and it's an open source framework.
 >
-> **[4:13](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-streamlit?u=76281980&t=253)** That said, basic knowledge of HTML is needed for developing a web application.
+> **[4:13](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-streamlit?u=76281980&t=253)** That said, basic knowledge of [[HTML]] is needed for developing a web application.
 >
 > **[4:19](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/introduction-to-streamlit?u=76281980&t=259)** It's really easy to create a basic dashboard application using Dash and Dash offers incredible design flexibility.
 >
@@ -7741,7 +7699,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), web (7), data (6), [[Web Development]] (4), [[Dashboards]] (4)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Web Development]] (4), [[Dashboards]] (4), [[Data Science]] (1), [[Web Application Development]] (1)
 > **CLI Commands:** python (11)
 > **Tools:** jupyter (6)
 > **Definitions:** is a  (3)
@@ -7749,12 +7707,11 @@ created: 2026-05-02
 > **Env Vars:** html (1)
 > **Speakers:** - [instructor] (1)
 
-#### Environment setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/environment-setup?u=76281980)
+#### [Environment setup](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/environment-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/environment-setup?u=76281980&t=0)** - [Instructor] You know, most Streamlit developers claim that it's really easy to set up Streamlit and that you can use it to build a web application in minutes using Python.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/environment-setup?u=76281980&t=0)** - [Instructor] You know, most Streamlit developers claim that it's really easy to set up Streamlit and that you can use it to build a web application in minutes using [[Python (Programming Language)|Python]].
 >
 > **[0:11](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/environment-setup?u=76281980&t=11)** How about let's test out that claim to see if it's true.
 >
@@ -7764,7 +7721,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/environment-setup?u=76281980&t=31)** To install Streamlit, we'll need the following commands.
 >
-> **[0:35](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/environment-setup?u=76281980&t=35)** We'll need pip install streamlit, streamlit hello, and pip install upgrade protobuf.
+> **[0:35](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/environment-setup?u=76281980&t=35)** We'll need pip install streamlit, streamlit hello, and pip install upgrade [[Protocol Buffers|protobuf]].
 >
 > **[0:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/environment-setup?u=76281980&t=43)** Let's open the terminal.
 >
@@ -7816,21 +7773,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), application (2), web application (1), [[Protocol Buffers|Protobuf]] (1), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Protocol Buffers|Protobuf]] (1)
 > **Prerequisites:** install (6), set up (1), you'll need (1)
 > **CLI Commands:** pip (4), python (2)
 > **Tools:** anaconda (2), terminal (2)
 > **UI Navigation:** open the (1), click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create basic charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/create-basic-charts?u=76281980)
+#### [Create basic charts](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/create-basic-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/create-basic-charts?u=76281980&t=0)** - [Instructor] Okay, so for this Streamlit, coding demonstration, we're going to be using pandas, NumPy, Streamlit, and Matplotlib.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/create-basic-charts?u=76281980&t=0)** - [Instructor] Okay, so for this Streamlit, coding demonstration, we're going to be using [[Pandas (Software)|pandas]], NumPy, Streamlit, and Matplotlib.
 >
-> **[0:08](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/create-basic-charts?u=76281980&t=8)** And as with any Streamlit coding demo inside of Codespaces, we need to do a pip install of the required libraries.
+> **[0:08](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/create-basic-charts?u=76281980&t=8)** And as with any Streamlit coding demo inside of [[Codespaces]], we need to do a pip install of the required libraries.
 >
 > **[0:18](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/create-basic-charts?u=76281980&t=18)** So let me just do that real quick.
 >
@@ -7934,7 +7890,7 @@ created: 2026-05-02
 >
 > **[6:07](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/create-basic-charts?u=76281980&t=367)** And it's been added directly below the line graph.
 >
-> **[6:13](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/create-basic-charts?u=76281980&t=373)** Now, Streamlit doesn't have its own pie chart function, but we can use a pie chart in Matplotlib, or other Python visualization libraries, and pass it into Streamlit's chart function for Matplotlib to display in Streamlit.
+> **[6:13](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/create-basic-charts?u=76281980&t=373)** Now, Streamlit doesn't have its own pie chart function, but we can use a pie chart in Matplotlib, or other [[Python (Programming Language)|Python]] visualization libraries, and pass it into Streamlit's chart function for Matplotlib to display in Streamlit.
 >
 > **[6:26](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/create-basic-charts?u=76281980&t=386)** To display the pie chart in Streamlit, let's first create a simple dataset containing types of animals, and their heights.
 >
@@ -7986,7 +7942,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Pandas (Software)|Pandas]] (3), data (3), hit (3), web (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[Codespaces]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** pip (5), python (1), cat (1)
 > **Code Identifiers:** line_chart (2), call_names (1), col_names (1), bar_chart (1)
 > **Prerequisites:** install (5)
@@ -7995,8 +7951,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), scroll down (1)
 > **Definitions:** is a  (1)
 
-#### Line charts in Streamlit
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/line-charts-in-streamlit?u=76281980)
+#### [Line charts in Streamlit](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/line-charts-in-streamlit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8008,7 +7963,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/line-charts-in-streamlit?u=76281980&t=20)** We don't need to do a pip install for time, but we do need to do a pip install NumPy
 >
-> **[0:31](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/line-charts-in-streamlit?u=76281980&t=31)** pip install pandas.
+> **[0:31](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/line-charts-in-streamlit?u=76281980&t=31)** pip install [[Pandas (Software)|pandas]].
 >
 > **[0:36](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/line-charts-in-streamlit?u=76281980&t=36)** This is just to be super sure that you have the libraries available inside your environment.
 >
@@ -8022,7 +7977,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/line-charts-in-streamlit?u=76281980&t=70)** So now we have our libraries available to us.
 >
-> **[1:12](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/line-charts-in-streamlit?u=76281980&t=72)** Now we need to import them into our Python file here.
+> **[1:12](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/line-charts-in-streamlit?u=76281980&t=72)** Now we need to import them into our [[Python (Programming Language)|Python]] file here.
 >
 > **[1:17](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/line-charts-in-streamlit?u=76281980&t=77)** So we'll start by importing time.
 >
@@ -8134,7 +8089,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (2), hit (2), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (2)
 > **CLI Commands:** pip (6), python (3), make (1), find (1)
 > **Prerequisites:** install (6)
 > **Code Identifiers:** new_rows (2), line_chart (1), add_rows (1)
@@ -8143,14 +8098,13 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 
-#### Bar charts and pie charts in Streamlit
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/bar-charts-and-pie-charts-in-streamlit?u=76281980)
+#### [Bar charts and pie charts in Streamlit](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/bar-charts-and-pie-charts-in-streamlit?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/bar-charts-and-pie-charts-in-streamlit?u=76281980&t=0)** - [Instructor] As usual, for using Streamlit in Codespaces, we need to do a pip install of our required libraries.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/bar-charts-and-pie-charts-in-streamlit?u=76281980&t=0)** - [Instructor] As usual, for using Streamlit in [[Codespaces]], we need to do a pip install of our required libraries.
 >
-> **[0:09](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/bar-charts-and-pie-charts-in-streamlit?u=76281980&t=9)** So in this demonstration, we're going to be using Pandas, NumPy, Streamlit, and Matplotlib.
+> **[0:09](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/bar-charts-and-pie-charts-in-streamlit?u=76281980&t=9)** So in this demonstration, we're going to be using [[Pandas (Software)|Pandas]], NumPy, Streamlit, and Matplotlib.
 >
 > **[0:16](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/bar-charts-and-pie-charts-in-streamlit?u=76281980&t=16)** So I'll just do a quick pip install of each of these.
 >
@@ -8160,7 +8114,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/bar-charts-and-pie-charts-in-streamlit?u=76281980&t=46)** Now we have the libraries that we need.
 >
-> **[0:49](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/bar-charts-and-pie-charts-in-streamlit?u=76281980&t=49)** I'm going to minimize the terminal here and start working inside of the Python file.
+> **[0:49](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/bar-charts-and-pie-charts-in-streamlit?u=76281980&t=49)** I'm going to minimize the terminal here and start working inside of the [[Python (Programming Language)|Python]] file.
 >
 > **[0:53](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/bar-charts-and-pie-charts-in-streamlit?u=76281980&t=53)** We'll need to first import our libraries, of course, so we will import pandas as pd, import numpy as np, import streamlit as st, and import matplotlib.pyplot
 >
@@ -8290,7 +8244,7 @@ created: 2026-05-02
 >
 > **[7:55](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/bar-charts-and-pie-charts-in-streamlit?u=76281980&t=475)** In the pie chart, the pie slices will be ordered and plotted counterclockwise.
 >
-> **[8:01](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/bar-charts-and-pie-charts-in-streamlit?u=76281980&t=481)** A wedge of a pie chart can be made to explode from the rest of the wedges of the pie chart using the explode parameter of the pie function.
+> **[8:01](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/bar-charts-and-pie-charts-in-streamlit?u=76281980&t=481)** A wedge of a pie chart can be made to explode from the [[Representational State Transfer (REST)|rest]] of the wedges of the pie chart using the explode parameter of the pie function.
 >
 > **[8:11](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/bar-charts-and-pie-charts-in-streamlit?u=76281980&t=491)** So let's define that now.
 >
@@ -8360,7 +8314,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (2), hit (2), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Pandas (Software)|Pandas]] (2), [[Codespaces]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** pip (5), python (3), cat (1), make (1)
 > **Versions:** 0.2 (4), 0.1 (3), 0.40 (1)
 > **Prerequisites:** install (5)
@@ -8369,8 +8323,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### Create statistical charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/create-statistical-charts?u=76281980)
+#### [Create statistical charts](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/create-statistical-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8378,7 +8331,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/create-statistical-charts?u=76281980&t=6)** And so as usual, we need to do a pip install of the libraries we need.
 >
-> **[0:12](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/create-statistical-charts?u=76281980&t=12)** So that'll be streamlit, seaborn, matplotlib, and pandas, and sklearn in this case.
+> **[0:12](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/create-statistical-charts?u=76281980&t=12)** So that'll be streamlit, seaborn, matplotlib, and [[Pandas (Software)|pandas]], and sklearn in this case.
 >
 > **[0:21](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/create-statistical-charts?u=76281980&t=21)** So we'll start with a pip install of streamlit, and then do a pip install seaborn, pip install matplotlib, pip install pandas, and then we'll do pip install sklearn.
 >
@@ -8386,7 +8339,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/create-statistical-charts?u=76281980&t=70)** Okay there, now we have installed all of the libraries we need for this demonstration.
 >
-> **[1:17](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/create-statistical-charts?u=76281980&t=77)** So let's import them in our Python file.
+> **[1:17](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/create-statistical-charts?u=76281980&t=77)** So let's import them in our [[Python (Programming Language)|Python]] file.
 >
 > **[1:21](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/create-statistical-charts?u=76281980&t=81)** So we'll say import streamlit as st,
 >
@@ -8500,7 +8453,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Pandas (Software)|Pandas]] (3), hit (3), feature (3), next (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** pip (7), python (1)
 > **Code Identifiers:** load_iris (3), iris_data (3), feature_names (1)
 > **Prerequisites:** install (7)
@@ -8514,12 +8467,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Portfolio and career readiness
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/portfolio-and-career-readiness?u=76281980)
+#### [Portfolio and career readiness](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/portfolio-and-career-readiness?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/portfolio-and-career-readiness?u=76281980&t=0)** You've already done a lot of projects throughout this course, so now let's just discuss how to package them into something that can help you land a job in data science and analytics.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/portfolio-and-career-readiness?u=76281980&t=0)** You've already done a lot of projects throughout this course, so now let's just discuss how to package them into something that can help you land a job in [[Data Science]] and analytics.
 >
 > **[0:10](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/portfolio-and-career-readiness?u=76281980&t=10)** This will take about an hour and the full process described in detail in the PDF that comes with the exercise files for this video.
 >
@@ -8531,9 +8483,9 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/portfolio-and-career-readiness?u=76281980&t=30)** Two, a few visuals, maybe two or three.
 >
-> **[0:34](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/portfolio-and-career-readiness?u=76281980&t=34)** Third, you'll want to include a 250-word executive summary.
+> **[0:34](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/portfolio-and-career-readiness?u=76281980&t=34)** Third, you'll want to include a 250-[[Microsoft Word|word]] executive summary.
 >
-> **[0:39](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/portfolio-and-career-readiness?u=76281980&t=39)** Four, prepare a LinkedIn case study draft.
+> **[0:39](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/portfolio-and-career-readiness?u=76281980&t=39)** Four, prepare a [[LinkedIn]] case study draft.
 >
 > **[0:43](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/portfolio-and-career-readiness?u=76281980&t=43)** And then five, include prompts, notes, appendix.
 >
@@ -8633,7 +8585,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (6), business (6), prompt (5), data (3), ai (3)
+> **Frameworks & Libraries:** [[LinkedIn]] (6), [[Microsoft Word|Word]] (2), [[Data Science]] (1)
 > **Env Vars:** pdf (3)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise files (1), template (1)
@@ -8641,12 +8593,11 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** you'll need (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/next-steps?u=76281980&t=0)** - [Instructor] In terms of next steps, I definitely encourage you to go over to the Python for Data Science Essential Training, Introduction to Machine Learning Course.
+> **[0:00](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/next-steps?u=76281980&t=0)** - [Instructor] In terms of next steps, I definitely encourage you to go over to the [[Python (Programming Language)|Python]] for [[Data Science]] Essential Training, Introduction to Machine Learning Course.
 >
 > **[0:11](https://www.linkedin.com/learning/python-for-data-science-and-machine-learning-essential-training-part-1/next-steps?u=76281980&t=11)** That course was built specifically as the perfect follow up for this one.
 >
@@ -8660,7 +8611,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), ai (2), next (1), [[Python (Programming Language)|Python]] (1), business (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Data Science]] (1)
 > **CLI Commands:** python (1)
 > **URLs:** [data-mania.com](https://data-mania.com) (1)
 > **Definitions:** is an  (1)

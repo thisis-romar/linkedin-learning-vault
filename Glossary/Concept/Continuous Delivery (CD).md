@@ -19,7 +19,7 @@ tags:
   - topic/cloud-computing
   - topic/security
   - topic/data-science
-course_count: 72
+course_count: 74
 created: 2026-05-02
 ---
 
@@ -27,7 +27,7 @@ created: 2026-05-02
 
 # Continuous Delivery (CD)
 
-> **Type:** Concept | **Courses:** 72 | **Topics:** [[DevOps]], [[Software Development]], [[Cloud Computing]], [[Cybersecurity]], [[Data Science]]
+> **Type:** Concept | **Courses:** 74 | **Topics:** [[DevOps]], [[Software Development]], [[Cloud Computing]], [[Cybersecurity]], [[Data Science]]
 
 ## Courses
 
@@ -42,7 +42,7 @@ created: 2026-05-02
 9. [[Azure DevOps for Beginners]] — 8 mentions
 10. [[Nail Your DevOps Interview]] — 7 mentions
 
-> [!note]- See all 72 courses
+> [!note]- See all 74 courses
 > 11. [[Rust for Data Engineering]] — 6 mentions
 > 12. [[IT Service Management Foundations- Change Management]] — 6 mentions
 > 13. [[MLOps and Data Pipeline Orchestration for AI Systems]] — 6 mentions
@@ -92,19 +92,21 @@ created: 2026-05-02
 > 57. [[AI Orchestration- Designing the Prototype Architecture and Data Strategy]] — 1 mentions
 > 58. [[Introduction To Cloud Computing For It Pros]] — 1 mentions
 > 59. [[Software Testing Assistance with GitHub Copilot AI]] — 1 mentions
-> 60. [[Devops Foundations Devsecops]] — 1 mentions
-> 61. [[Succeeding in Web Development- Full Stack and Front End]] — 1 mentions
-> 62. [[Mistakes to Avoid in Agile Project Management]] — 1 mentions
-> 63. [[Azure Essential Training for Developers]] — 1 mentions
-> 64. [[Putting Itil Into Practice Applying Itil 4 Foundation Concepts]] — 1 mentions
-> 65. [[Kubernetes- Cloud Native Ecosystem]] — 1 mentions
-> 66. [[Securing Containers and Kubernetes Ecosystem]] — 1 mentions
-> 67. [[Jira Service Management- Administration]] — 1 mentions
-> 68. [[Python Automation and Testing]] — 1 mentions
-> 69. [[Spring On Kubernetes Deploying And Managing Cloud Native Applications]] — 1 mentions
-> 70. [[Playwright- Design Patterns]] — 1 mentions
-> 71. [[Introduction to IT Architecture]] — 1 mentions
-> 72. [[The OWASP Top 10 for Large Language Model (LLM) Applications- An Overview]] — 1 mentions
+> 60. [[Software Design- From Requirements to Release]] — 1 mentions
+> 61. [[Devops Foundations Devsecops]] — 1 mentions
+> 62. [[Succeeding in Web Development- Full Stack and Front End]] — 1 mentions
+> 63. [[Mistakes to Avoid in Agile Project Management]] — 1 mentions
+> 64. [[Data-Centric AI- Best Practices, Responsible AI, and More]] — 1 mentions
+> 65. [[Azure Essential Training for Developers]] — 1 mentions
+> 66. [[Putting Itil Into Practice Applying Itil 4 Foundation Concepts]] — 1 mentions
+> 67. [[Kubernetes- Cloud Native Ecosystem]] — 1 mentions
+> 68. [[Securing Containers and Kubernetes Ecosystem]] — 1 mentions
+> 69. [[Jira Service Management- Administration]] — 1 mentions
+> 70. [[Python Automation and Testing]] — 1 mentions
+> 71. [[Spring On Kubernetes Deploying And Managing Cloud Native Applications]] — 1 mentions
+> 72. [[Playwright- Design Patterns]] — 1 mentions
+> 73. [[Introduction to IT Architecture]] — 1 mentions
+> 74. [[The OWASP Top 10 for Large Language Model (LLM) Applications- An Overview]] — 1 mentions
 
 ## Learning Paths
 

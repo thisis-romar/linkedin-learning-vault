@@ -68,18 +68,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use agents for specialized AI tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-agents-for-specialized-ai-tasks?u=76281980)
+#### [Use agents for specialized AI tasks](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-agents-for-specialized-ai-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-agents-for-specialized-ai-tasks?u=76281980&t=0)** - It's time to get ready for the next level of AI chat assistance.
 >
-> **[0:04](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-agents-for-specialized-ai-tasks?u=76281980&t=4)** AI agents in Microsoft Copilot can focus on specific topic areas or specialize in specific tasks.
+> **[0:04](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-agents-for-specialized-ai-tasks?u=76281980&t=4)** [[AI Agents]] in [[Microsoft Copilot]] can focus on specific topic areas or specialize in specific tasks.
 >
 > **[0:11](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-agents-for-specialized-ai-tasks?u=76281980&t=11)** Just like you might hire a travel agent to plan a trip, an AI agent can narrow its focus and bring specialized skills to your tasks.
 >
-> **[0:19](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-agents-for-specialized-ai-tasks?u=76281980&t=19)** I'm Nick Brazzi, and in my short workshop, I'll get you started with Copilot agents quickly, including agents that connect to third party services.
+> **[0:19](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-agents-for-specialized-ai-tasks?u=76281980&t=19)** I'm Nick Brazzi, and in my short workshop, I'll get you started with [[Microsoft Copilot|Copilot]] agents quickly, including agents that connect to third party services.
 >
 > **[0:27](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-agents-for-specialized-ai-tasks?u=76281980&t=27)** And we're even going to see how you can build your own agents that can work from your instructions or specific sources of information.
 >
@@ -87,20 +86,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), next (1), [[Microsoft Copilot]] (1), [[Microsoft Copilot|Copilot]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1), [[Microsoft Copilot]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - it (1)
 
-#### Accounts and subscriptions required
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980)
+#### [Accounts and subscriptions required](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980&t=0)** - Not all users will have access to the Copilot agent features that you'll see in this workshop.
+> **[0:00](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980&t=0)** - Not all users will have access to the [[Microsoft Copilot|Copilot]] agent features that you'll see in this workshop.
 >
 > **[0:05](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980&t=5)** The first important detail is that agents are not available in Copilot for individual users.
 >
-> **[0:11](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980&t=11)** You must have the Microsoft 365 Copilot subscription in an organization like your company, school, or government agency.
+> **[0:11](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980&t=11)** You must have the [[Microsoft 365]] Copilot subscription in an organization like your company, school, or government agency.
 >
 > **[0:19](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980&t=19)** The second big detail is that Copilot agents are a preview feature, at least at the time of this recording.
 >
@@ -108,7 +106,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980&t=30)** More on that in a moment.
 >
-> **[0:31](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980&t=31)** To start, we'll go to [office.com](https://office.com).
+> **[0:31](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980&t=31)** To start, we'll go to [[[Microsoft Office|office]].com](https://office.com).
 >
 > **[0:34](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980&t=34)** You must sign in with a Microsoft 365 account that was assigned to you by your company, school, or a similar organization.
 >
@@ -120,7 +118,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980&t=52)** And here in this panel I see some options for agents.
 >
-> **[0:55](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980&t=55)** And if you see that, then you're ready to jump into the rest of this workshop.
+> **[0:55](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980&t=55)** And if you see that, then you're ready to jump into the [[Representational State Transfer (REST)|rest]] of this workshop.
 >
 > **[0:59](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980&t=59)** But it is possible that you still won't see the agent options there.
 >
@@ -130,7 +128,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980&t=79)** This requires an additional monthly subscription for each user, and it enables several additional Copilot tools.
 >
-> **[1:26](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980&t=86)** For example, this will enable Copilot inside of other applications like Microsoft Word, Excel, Outlook, and Teams, and it enables Copilot agent features that we will use in this workshop.
+> **[1:26](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980&t=86)** For example, this will enable Copilot inside of other applications like [[Microsoft Word]], [[Microsoft Excel|Excel]], [[Microsoft Outlook|Outlook]], and Teams, and it enables Copilot agent features that we will use in this workshop.
 >
 > **[1:39](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980&t=99)** Now, there is a second scenario.
 >
@@ -138,7 +136,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980&t=112)** You may have the right account, but you do not have access to preview features.
 >
-> **[1:55](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980&t=115)** And in that case, you can ask your organization's Microsoft administrator if they can enable these preview features for you and your teammates.
+> **[1:55](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980&t=115)** And in that case, you can ask your organization's [[Microsoft]] administrator if they can enable these preview features for you and your teammates.
 >
 > **[2:03](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/accounts-and-subscriptions-required?u=76281980&t=123)** And to help your administrator, here's a quick look at how they can enable those preview features.
 >
@@ -156,7 +154,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (13), [[Microsoft 365]] (4), feature (2), [[Microsoft Office|Office]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (13), [[Microsoft 365]] (4), [[Microsoft Office|Office]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word]] (1)
 > **UI Navigation:** go to (2), scroll down (1)
 > **URLs:** [office.com](https://office.com) (1), [microsoft365.com](https://microsoft365.com) (1)
 > **Definitions:** is a  (1)
@@ -168,8 +166,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand how Copilot agents work
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/understand-how-copilot-agents-work?u=76281980)
+#### [Understand how Copilot agents work](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/understand-how-copilot-agents-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -179,7 +176,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/understand-how-copilot-agents-work?u=76281980&t=9)** People who have experience with specific types of work can help you in your professional life.
 >
-> **[0:14](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/understand-how-copilot-agents-work?u=76281980&t=14)** Agents in Copilot are similar to this.
+> **[0:14](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/understand-how-copilot-agents-work?u=76281980&t=14)** Agents in [[Microsoft Copilot|Copilot]] are similar to this.
 >
 > **[0:16](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/understand-how-copilot-agents-work?u=76281980&t=16)** They have specific roles and parameters already defined, so you can go straight to asking your questions and get the best answers.
 >
@@ -189,9 +186,9 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/understand-how-copilot-agents-work?u=76281980&t=37)** But AI chat tools like Copilot are capable of much more complex requests.
 >
-> **[0:42](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/understand-how-copilot-agents-work?u=76281980&t=42)** There are several courses on LinkedIn learning that teach how to write detailed, robust prompts to get very specific, insightful information.
+> **[0:42](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/understand-how-copilot-agents-work?u=76281980&t=42)** There are several courses on [[LinkedIn]] learning that teach how to write detailed, robust prompts to get very specific, insightful information.
 >
-> **[0:51](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/understand-how-copilot-agents-work?u=76281980&t=51)** You may want to take a look at Garrett Chow's course, "Microsoft 365 Copilot the Art of Prompt Writing", or one of the many other courses about prompt engineering.
+> **[0:51](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/understand-how-copilot-agents-work?u=76281980&t=51)** You may want to take a look at Garrett Chow's course, "[[Microsoft 365]] Copilot the Art of Prompt Writing", or one of the many other courses about [[Prompt Engineering]].
 >
 > **[1:02](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/understand-how-copilot-agents-work?u=76281980&t=62)** Part of prompt engineering often involves setting specific parameters and even telling Copilot the role or identity you want it to have when researching and answering your questions.
 >
@@ -225,28 +222,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), business (5), prompt (4), ai (3), [[Prompt Engineering]] (3)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Prompt Engineering]] (3), [[LinkedIn]] (1), [[Microsoft 365]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** similar to (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - if (1)
 
-#### Use agents and install new agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-agents-and-install-new-agents?u=76281980)
+#### [Use agents and install new agents](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-agents-and-install-new-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-agents-and-install-new-agents?u=76281980&t=0)** - In this video, we will start with some basic agents offered by Microsoft, but as we start, it's good to remember that you can access Copilot in a few different ways.
+> **[0:00](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-agents-and-install-new-agents?u=76281980&t=0)** - In this video, we will start with some basic agents offered by [[Microsoft]], but as we start, it's good to remember that you can access [[Microsoft Copilot|Copilot]] in a few different ways.
 >
-> **[0:09](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-agents-and-install-new-agents?u=76281980&t=9)** If you're working from the Office website, make sure to select Copilot on the left, and that takes you to the Copilot chat.
+> **[0:09](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-agents-and-install-new-agents?u=76281980&t=9)** If you're working from the [[Microsoft Office|Office]] website, make sure to select Copilot on the left, and that takes you to the Copilot chat.
 >
-> **[0:16](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-agents-and-install-new-agents?u=76281980&t=16)** If you're working in Windows, you can go to the start menu to the list of all applications and open the app called Microsoft 365 Copilot.
+> **[0:16](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-agents-and-install-new-agents?u=76281980&t=16)** If you're working in [[Windows]], you can go to the start menu to the list of all applications and open the app called [[Microsoft 365]] Copilot.
 >
 > **[0:24](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-agents-and-install-new-agents?u=76281980&t=24)** You may be prompted to sign into your account.
 >
 > **[0:26](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-agents-and-install-new-agents?u=76281980&t=26)** Then just like the website, you can select Copilot on the left.
 >
-> **[0:30](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-agents-and-install-new-agents?u=76281980&t=30)** And if you're working in Microsoft Teams, make sure to click the chat button on the left to go to the chat section.
+> **[0:30](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-agents-and-install-new-agents?u=76281980&t=30)** And if you're working in [[Microsoft Teams]], make sure to click the chat button on the left to go to the chat section.
 >
 > **[0:36](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-agents-and-install-new-agents?u=76281980&t=36)** Then choose Copilot at the top of the chat list, and that takes you to Copilot inside of the Teams interface.
 >
@@ -317,16 +313,15 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - in (1)
 
-#### Use an agent with a 3rd party account
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-an-agent-with-a-3rd-party-account?u=76281980)
+#### [Use an agent with a 3rd party account](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-an-agent-with-a-3rd-party-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-an-agent-with-a-3rd-party-account?u=76281980&t=0)** - In this video, we will start looking at more specialized agents that can actually do things that Copilot cannot do on its own.
+> **[0:00](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-an-agent-with-a-3rd-party-account?u=76281980&t=0)** - In this video, we will start looking at more specialized agents that can actually do things that [[Microsoft Copilot|Copilot]] cannot do on its own.
 >
 > **[0:07](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-an-agent-with-a-3rd-party-account?u=76281980&t=7)** In the Copilot chat, in the panel on the right, I'll click Get agents and we see the list of agents that you can install.
 >
-> **[0:14](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-an-agent-with-a-3rd-party-account?u=76281980&t=14)** Now, some of these, including the Career Coach, the Prompt Coach, and the Writing Coach, which we saw in another video, are basic agents offered by Microsoft.
+> **[0:14](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-an-agent-with-a-3rd-party-account?u=76281980&t=14)** Now, some of these, including the Career Coach, the Prompt Coach, and the Writing Coach, which we saw in another video, are basic agents offered by [[Microsoft]].
 >
 > **[0:26](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-an-agent-with-a-3rd-party-account?u=76281980&t=26)** But many of these other agents will connect to third party apps and services.
 >
@@ -336,11 +331,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-an-agent-with-a-3rd-party-account?u=76281980&t=38)** And many of these will require you to sign into an account with those services.
 >
-> **[0:43](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-an-agent-with-a-3rd-party-account?u=76281980&t=43)** So scroll through the list, and if you have an account with Trello, or [monday.com](https://monday.com), or Confluence or any of these other services, you can install and set them up.
+> **[0:43](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-an-agent-with-a-3rd-party-account?u=76281980&t=43)** So scroll through the list, and if you have an account with [[Trello]], or [monday.com](https://monday.com), or [[Confluence]] or any of these other services, you can install and set them up.
 >
 > **[0:57](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-an-agent-with-a-3rd-party-account?u=76281980&t=57)** I'll just choose one as an example.
 >
-> **[0:59](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-an-agent-with-a-3rd-party-account?u=76281980&t=59)** Dropbox is a popular cloud storage service.
+> **[0:59](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-an-agent-with-a-3rd-party-account?u=76281980&t=59)** Dropbox is a popular [[Cloud Storage]] service.
 >
 > **[1:02](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-an-agent-with-a-3rd-party-account?u=76281980&t=62)** You can use it to store and share files online.
 >
@@ -372,7 +367,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-an-agent-with-a-3rd-party-account?u=76281980&t=126)** And now that it's set up, I'll reset by clicking the New chat button at the top and I can ask it to help me find files that I have stored on Dropbox.
 >
-> **[2:14](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-an-agent-with-a-3rd-party-account?u=76281980&t=134)** So I'll ask it whether I have any files with information about Kinetico products.
+> **[2:14](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-an-agent-with-a-3rd-party-account?u=76281980&t=134)** So I'll ask it whether I have any files with information about Kinetico [[Microsoft Products|products]].
 >
 > **[2:19](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/use-an-agent-with-a-3rd-party-account?u=76281980&t=139)** Kinetico is one of my clients, and it did find files related to them on my Dropbox.
 >
@@ -396,7 +391,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), prompt (4), career (1), [[Microsoft]] (1), [[Trello]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Microsoft]] (1), [[Trello]] (1), [[Confluence]] (1), [[Cloud Storage]] (1)
 > **Prerequisites:** install (3), setup (1), you'll need (1), set up (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** pdf (2)
@@ -410,12 +405,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a basic Copilot agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-a-basic-copilot-agent?u=76281980)
+#### [Create a basic Copilot agent](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-a-basic-copilot-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-a-basic-copilot-agent?u=76281980&t=0)** - In this video, we will see how to actually make a Copilot agent without even leaving the Copilot interface.
+> **[0:00](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-a-basic-copilot-agent?u=76281980&t=0)** - In this video, we will see how to actually make a [[Microsoft Copilot|Copilot]] agent without even leaving the Copilot interface.
 >
 > **[0:06](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-a-basic-copilot-agent?u=76281980&t=6)** We'll start by making an agent that has all of the same capabilities of Copilot, but has certain parameters, and will respond with a specific role in mind.
 >
@@ -453,7 +447,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-a-basic-copilot-agent?u=76281980&t=96)** Now, that's a good start, but I also want the agent to respect our company's mission statement.
 >
-> **[1:41](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-a-basic-copilot-agent?u=76281980&t=101)** Here in a Word document, I have our mission statement, so I'll select that and I'll copy it.
+> **[1:41](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-a-basic-copilot-agent?u=76281980&t=101)** Here in a [[Microsoft Word|Word]] document, I have our mission statement, so I'll select that and I'll copy it.
 >
 > **[1:46](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-a-basic-copilot-agent?u=76281980&t=106)** And back in Copilot, I'll continue with this description.
 >
@@ -527,7 +521,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), ai (2), prompt (1), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (9), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (5)
 > **Prerequisites:** configure (2), set up (1)
 > **Cross-References:** go back to (1), later in (1)
@@ -535,8 +529,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Modify and refine a custom agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/modify-and-refine-a-custom-agent?u=76281980)
+#### [Modify and refine a custom agent](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/modify-and-refine-a-custom-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -664,7 +657,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), next (2), ai (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (2), select the (1), scroll down (1)
 > **Prerequisites:** you'll need (1), set up (1)
@@ -672,8 +664,7 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - after (1)
 
-#### Create an agent using knowledge sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-an-agent-using-knowledge-sources?u=76281980)
+#### [Create an agent using knowledge sources](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-an-agent-using-knowledge-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -701,13 +692,13 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-an-agent-using-knowledge-sources?u=76281980&t=74)** I do not want this agent to use content from the web, so I'll leave that disabled.
 >
-> **[1:19](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-an-agent-using-knowledge-sources?u=76281980&t=79)** And for knowledge sources, you can provide a link to a SharePoint site in your organization, or you can choose files that are stored on a SharePoint site.
+> **[1:19](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-an-agent-using-knowledge-sources?u=76281980&t=79)** And for knowledge sources, you can provide a link to a [[SharePoint]] site in your organization, or you can choose files that are stored on a SharePoint site.
 >
 > **[1:29](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-an-agent-using-knowledge-sources?u=76281980&t=89)** Now, you cannot upload files directly from your computer and you cannot use files stored in another location.
 >
 > **[1:36](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-an-agent-using-knowledge-sources?u=76281980&t=96)** This may be a bit limiting, but remember, the Agent Builder is designed to be light and easy to use.
 >
-> **[1:41](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-an-agent-using-knowledge-sources?u=76281980&t=101)** And at the end of this workshop, we'll take a quick look at Copilot Studio, which lets you create agents with more options.
+> **[1:41](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-an-agent-using-knowledge-sources?u=76281980&t=101)** And at the end of this workshop, we'll take a quick look at [[Microsoft Copilot|Copilot]] Studio, which lets you create agents with more options.
 >
 > **[1:49](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-an-agent-using-knowledge-sources?u=76281980&t=109)** Now, my company does have a SharePoint site and the HR documents I want to use are available on that site.
 >
@@ -721,7 +712,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-an-agent-using-knowledge-sources?u=76281980&t=134)** But I'll click Browse again and I'll go to that same SharePoint site, then to a different folder and just select a few more files.
 >
-> **[2:21](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-an-agent-using-knowledge-sources?u=76281980&t=141)** Now you may see the word "Pending" next to a file.
+> **[2:21](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-an-agent-using-knowledge-sources?u=76281980&t=141)** Now you may see the [[Microsoft Word|word]] "Pending" next to a file.
 >
 > **[2:24](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/create-an-agent-using-knowledge-sources?u=76281980&t=144)** If so, you'll need to just give it a little extra time before your agent can provide information from that document.
 >
@@ -785,20 +776,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (5), hr (3), [[Microsoft Copilot|Copilot]] (3), next (2), ai (1)
+> **Frameworks & Libraries:** [[SharePoint]] (5), [[Microsoft Copilot|Copilot]] (3), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Prerequisites:** configure (2), set up (2), you'll need (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - when (1)
 
-#### Share an agent with teammates
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/share-an-agent-with-teammates?u=76281980)
+#### [Share an agent with teammates](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/share-an-agent-with-teammates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/share-an-agent-with-teammates?u=76281980&t=0)** - If you've made some Copilot agents that help you work more efficiently, you may want to share them with your teammates.
+> **[0:00](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/share-an-agent-with-teammates?u=76281980&t=0)** - If you've made some [[Microsoft Copilot|Copilot]] agents that help you work more efficiently, you may want to share them with your teammates.
 >
-> **[0:06](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/share-an-agent-with-teammates?u=76281980&t=6)** You can share your own custom Copilot agents with anybody else in your Microsoft 365 organization, as long as they also have the Microsoft 365 Copilot license.
+> **[0:06](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/share-an-agent-with-teammates?u=76281980&t=6)** You can share your own custom Copilot agents with anybody else in your [[Microsoft 365]] organization, as long as they also have the Microsoft 365 Copilot license.
 >
 > **[0:17](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/share-an-agent-with-teammates?u=76281980&t=17)** To share an agent, you'll need to click where it says, create an agent in the panel on the right.
 >
@@ -816,7 +806,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/share-an-agent-with-teammates?u=76281980&t=45)** That would mean that the link would not work for anybody but you.
 >
-> **[0:49](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/share-an-agent-with-teammates?u=76281980&t=49)** The middle option will only work if your company's Microsoft administrator has created security groups.
+> **[0:49](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/share-an-agent-with-teammates?u=76281980&t=49)** The middle option will only work if your company's [[Microsoft]] administrator has created security groups.
 >
 > **[0:54](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/share-an-agent-with-teammates?u=76281980&t=54)** These are defined groups of people who have been given access to specific services.
 >
@@ -828,7 +818,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/share-an-agent-with-teammates?u=76281980&t=77)** But there's another important detail here.
 >
-> **[1:20](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/share-an-agent-with-teammates?u=76281980&t=80)** If you are sharing an agent that uses specific knowledge source files from SharePoint, you could have an issue with permissions.
+> **[1:20](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/share-an-agent-with-teammates?u=76281980&t=80)** If you are sharing an agent that uses specific knowledge source files from [[SharePoint]], you could have an issue with permissions.
 >
 > **[1:27](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/share-an-agent-with-teammates?u=76281980&t=87)** SharePoint sites and SharePoint documents have their own sharing permissions.
 >
@@ -836,7 +826,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/share-an-agent-with-teammates?u=76281980&t=103)** So if I share this agent with one of my teammates and they do not have permission to access the SharePoint files, then the agent will not work for them.
 >
-> **[1:50](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/share-an-agent-with-teammates?u=76281980&t=110)** We have several courses on LinkedIn Learning that cover SharePoint sites, SharePoint files, and how to modify their sharing permissions, including SharePoint Online Essential Training: The Basics by Gini von Courter.
+> **[1:50](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/share-an-agent-with-teammates?u=76281980&t=110)** We have several courses on [[LinkedIn]] Learning that cover SharePoint sites, SharePoint files, and how to modify their sharing permissions, including SharePoint Online Essential Training: The Basics by Gini von Courter.
 >
 > **[2:03](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/share-an-agent-with-teammates?u=76281980&t=123)** For now, I'll just choose the option anyone in your organization.
 >
@@ -846,7 +836,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/share-an-agent-with-teammates?u=76281980&t=136)** Then I'll click the copy button next to the link to copy it, and from there you can go to an email message or a chat message or something like that.
 >
-> **[2:24](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/share-an-agent-with-teammates?u=76281980&t=144)** I'll go to Outlook and send an email to my coworker Stewart.
+> **[2:24](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/share-an-agent-with-teammates?u=76281980&t=144)** I'll go to [[Microsoft Outlook|Outlook]] and send an email to my coworker Stewart.
 >
 > **[2:28](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/share-an-agent-with-teammates?u=76281980&t=148)** I'll right click in the email message and choose to paste that link here.
 >
@@ -868,19 +858,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (9), [[Microsoft Copilot|Copilot]] (5), [[Microsoft 365]] (3), [[Security]] (3), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (9), [[Microsoft Copilot|Copilot]] (5), [[Microsoft 365]] (3), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **Prerequisites:** you'll need (2), set up (2)
 > **UI Navigation:** go to (2), in the sidebar (1)
 > **Speakers:** - if (1)
 
-#### Explore next steps with Copilot Studio
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/explore-next-steps-with-copilot-studio?u=76281980)
+#### [Explore next steps with Copilot Studio](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/explore-next-steps-with-copilot-studio?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/explore-next-steps-with-copilot-studio?u=76281980&t=0)** - You may have noticed that there are some limitations to the agents that you can make using the agent builder.
 >
-> **[0:06](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/explore-next-steps-with-copilot-studio?u=76281980&t=6)** If you reach the limit of what you can do here, Microsoft does offer a separate tool called Copilot Studio, which has a much more robust set of features.
+> **[0:06](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/explore-next-steps-with-copilot-studio?u=76281980&t=6)** If you reach the limit of what you can do here, [[Microsoft]] does offer a separate tool called [[Microsoft Copilot|Copilot]] Studio, which has a much more robust set of features.
 >
 > **[0:16](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/explore-next-steps-with-copilot-studio?u=76281980&t=16)** Now, this workshop does not teach how to use the full version of Copilot Studio, but I did want to give a brief introduction.
 >
@@ -904,7 +893,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/explore-next-steps-with-copilot-studio?u=76281980&t=104)** You can adjust the agent's instructions and knowledge sources, but you can also include actions, which give the agent the ability to complete tasks in other applications or online services.
 >
-> **[1:55](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/explore-next-steps-with-copilot-studio?u=76281980&t=115)** You can include triggers, allowing the agent to automatically take action when certain events occur, and topics let you create established conversation paths, so the agent will have specific responses to specific user inputs, or you can enable generative AI orchestration, which gives the agent the ability to choose some of its own actions, knowledge sources, and topics.
+> **[1:55](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/explore-next-steps-with-copilot-studio?u=76281980&t=115)** You can include triggers, allowing the agent to automatically take action when certain events occur, and topics let you create established conversation paths, so the agent will have specific responses to specific user inputs, or you can enable [[Generative AI]] orchestration, which gives the agent the ability to choose some of its own actions, knowledge sources, and topics.
 >
 > **[2:21](https://www.linkedin.com/learning/copilot-agents-build-your-own-ai-assistant-in-copilot-and-teams-no-code-required-february-2025/explore-next-steps-with-copilot-studio?u=76281980&t=141)** And when you're finished, Copilot Studio can publish your agents so they can be used by your teammates in Copilot and Teams, but it also has the ability to publish agents for external customers and partners, or it can format the agent as a chat bot that you can place on a website or publish on third-party communication platforms.
 >
@@ -914,7 +903,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (14), [[Microsoft]] (3), [[Generative AI]] (1), [[Orchestration]] (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (14), [[Microsoft]] (3), [[Generative AI]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), switch to (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)

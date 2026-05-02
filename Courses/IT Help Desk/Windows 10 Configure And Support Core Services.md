@@ -93,12 +93,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of Windows 10 configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/the-power-of-windows-10-configuration-20240202?u=76281980)
+#### [The power of Windows 10 configuration](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/the-power-of-windows-10-configuration-20240202?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/the-power-of-windows-10-configuration-20240202?u=76281980&t=0)** - Hello, and welcome to Windows 10 Configure and Support Core Services.
+> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/the-power-of-windows-10-configuration-20240202?u=76281980&t=0)** - Hello, and welcome to [[Windows 10]] Configure and Support Core Services.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/the-power-of-windows-10-configuration-20240202?u=76281980&t=5)** Here you'll discover how to configure and manage various types of networks, including VPNs.
 >
@@ -108,7 +107,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/the-power-of-windows-10-configuration-20240202?u=76281980&t=25)** Finally, you'll explore remote access technologies.
 >
-> **[0:29](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/the-power-of-windows-10-configuration-20240202?u=76281980&t=29)** Hi, I'm Joli Ballew, a full-time CIT professor at Dallas College, and a longtime author here at LinkedIn Learning.
+> **[0:29](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/the-power-of-windows-10-configuration-20240202?u=76281980&t=29)** Hi, I'm Joli Ballew, a full-time CIT professor at Dallas College, and a longtime author here at [[LinkedIn]] Learning.
 >
 > **[0:37](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/the-power-of-windows-10-configuration-20240202?u=76281980&t=37)** I've also written over 50 books on all kinds of computer-related topics.
 >
@@ -116,7 +115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Windows 10]] (1), data (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Windows 10]] (1)
 > **Prerequisites:** configure (3)
 > **Env Vars:** cit (1)
 > **Speakers:** - hello (1)
@@ -126,12 +125,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### IP addressing, subnets, and DHCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/ip-addressing-subnets-and-dhcp?u=76281980)
+#### [IP addressing, subnets, and DHCP](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/ip-addressing-subnets-and-dhcp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/ip-addressing-subnets-and-dhcp?u=76281980&t=0)** - [Instructor] To get the most out of Windows 10 in either a home or business setting, you must be able to connect to a network.
+> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/ip-addressing-subnets-and-dhcp?u=76281980&t=0)** - [Instructor] To get the most out of [[Windows 10]] in either a home or business setting, you must be able to connect to a network.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/ip-addressing-subnets-and-dhcp?u=76281980&t=6)** That network can be the internet, an internal company intranet, or something less complex like a work group, or it could be a combination of these.
 >
@@ -139,7 +137,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/ip-addressing-subnets-and-dhcp?u=76281980&t=22)** You'll click to any network you see there to connect to it, noting that you may have to input credentials.
 >
-> **[0:29](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/ip-addressing-subnets-and-dhcp?u=76281980&t=29)** You can see here I'm connected to the linkedin.biz network.
+> **[0:29](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/ip-addressing-subnets-and-dhcp?u=76281980&t=29)** You can see here I'm connected to the [[LinkedIn]].biz network.
 >
 > **[0:34](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/ip-addressing-subnets-and-dhcp?u=76281980&t=34)** All computers on a network have one thing in common and that's a unique address.
 >
@@ -209,7 +207,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/ip-addressing-subnets-and-dhcp?u=76281980&t=219)** And I'll press enter.
 >
-> **[3:42](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/ip-addressing-subnets-and-dhcp?u=76281980&t=222)** A domain name system DNS server address let's the client computer resolve computer or device names into IPv4 or IPv6 addresses.
+> **[3:42](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/ip-addressing-subnets-and-dhcp?u=76281980&t=222)** A [[Domain Name System (DNS)|domain name system]] DNS server address let's the client computer resolve computer or device names into IPv4 or IPv6 addresses.
 >
 > **[3:54](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/ip-addressing-subnets-and-dhcp?u=76281980&t=234)** This means that if you want to communicate with another node on the network, you can type its name and not its IP address.
 >
@@ -259,7 +257,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), [[LinkedIn]] (2), node (2), [[Windows 10]] (1), business (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Windows 10]] (1), [[Domain Name System (DNS)|Domain name system]] (1)
 > **Env Vars:** dhcp (8), cmd (1), dns (1), iana (1)
 > **CLI Commands:** find (2), node (2), make (2)
 > **Definitions:** is a  (3), means that (2)
@@ -268,8 +266,7 @@ created: 2026-05-02
 > **URLs:** [linkedin.com](https://linkedin.com) (1)
 > **Prerequisites:** you'll need (1)
 
-#### Configure name resolution
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980)
+#### [Configure name resolution](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -289,13 +286,13 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=40)** But how are these host names transformed to their IP addresses?
 >
-> **[0:45](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=45)** Well, Windows 10 includes a service known as the Client Resolver.
+> **[0:45](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=45)** Well, [[Windows 10]] includes a service known as the Client Resolver.
 >
 > **[0:49](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=49)** And this service is responsible for resolving host names into their IPv4 or IPv6 addresses anytime you require it.
 >
 > **[0:58](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=58)** This means you don't have to do anything specific to use a host name instead of an IP address, it's built in.
 >
-> **[1:04](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=64)** Additionally, Windows stores these names and addresses so that you can access them faster the next time you need them.
+> **[1:04](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=64)** Additionally, [[Windows]] stores these names and addresses so that you can access them faster the next time you need them.
 >
 > **[1:10](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=70)** And this is called the Resolver cache.
 >
@@ -307,7 +304,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=90)** That's a large cache of records.
 >
-> **[1:33](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=93)** And if you haven't heard the term DNS yet, DNS stands for the domain name system, which is a complete name resolver system.
+> **[1:33](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=93)** And if you haven't heard the term DNS yet, DNS stands for the [[Domain Name System (DNS)|domain name system]], which is a complete name resolver system.
 >
 > **[1:41](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=101)** A cache that you see here is where information that is accumulated is stored.
 >
@@ -349,7 +346,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=202)** Here's the add button and here's where you add your new DNS server.
 >
-> **[3:27](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=207)** Google has two DNS servers you can use.
+> **[3:27](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=207)** [[Google]] has two DNS servers you can use.
 >
 > **[3:30](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=210)** One is 8.8.8.8 and the other is 8.8.4.4.
 >
@@ -365,7 +362,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=246)** The process is one you're likely familiar with.
 >
-> **[4:09](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=249)** If you type [microsoft.com](https://microsoft.com) in the address bar of a web browser, it's automatically changed to www.[microsoft.com](https://microsoft.com) and makes it easier to use.
+> **[4:09](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=249)** If you type [[[Microsoft]].com](https://microsoft.com) in the address bar of a web browser, it's automatically changed to www.[microsoft.com](https://microsoft.com) and makes it easier to use.
 >
 > **[4:19](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-name-resolution?u=76281980&t=259)** This also applies if you type www.microsoft.
 >
@@ -415,7 +412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (28), [[Microsoft]] (3), web (2), [[Search]] (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Windows 10]] (1), [[Windows]] (1), [[Domain Name System (DNS)|Domain name system]] (1), [[Google]] (1)
 > **Env Vars:** dns (28), dhcp (3), tcp (1), isp (1)
 > **CLI Commands:** find (4)
 > **Versions:** 10.35 (1), 8.8.8 (1), 8.8.4 (1)
@@ -424,14 +421,13 @@ created: 2026-05-02
 > **UI Navigation:** double-click (1), open the (1)
 > **Analogies:** such as (1), imagine (1)
 
-#### Connect to a network
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/connect-to-a-network?u=76281980)
+#### [Connect to a network](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/connect-to-a-network?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/connect-to-a-network?u=76281980&t=0)** - [Instructor] Windows 10 is compatible and supports many types of networks and network configurations.
+> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/connect-to-a-network?u=76281980&t=0)** - [Instructor] [[Windows 10]] is compatible and supports many types of networks and network configurations.
 >
-> **[0:06](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/connect-to-a-network?u=76281980&t=6)** It can physically connect to networks via ethernet, and employee various forms of wireless, such as Bluetooth, near-field communications, and Wi-Fi.
+> **[0:06](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/connect-to-a-network?u=76281980&t=6)** It can physically connect to networks via ethernet, and employee various [[Forms]] of wireless, such as Bluetooth, near-field communications, and Wi-Fi.
 >
 > **[0:14](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/connect-to-a-network?u=76281980&t=14)** There are a range of network configurations, including those that are created manually by sharing folders, by using more formal work groups, and by connecting to enterprise domains.
 >
@@ -539,15 +535,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (2), next (2), [[Forms]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[Forms]] (1)
 > **UI Navigation:** right-click (2), toggle (1)
 > **Prerequisites:** set up (2), you'll need (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Windows Firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/use-windows-firewall?u=76281980)
+#### [Use Windows Firewall](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/use-windows-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -555,11 +550,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/use-windows-firewall?u=76281980&t=8)** Some of those networks are private, like a network at home or work, while some are public, like those in hotels and coffee shops.
 >
-> **[0:16](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/use-windows-firewall?u=76281980&t=16)** You can open Windows Firewall to see what type of network you're connected to right now.
+> **[0:16](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/use-windows-firewall?u=76281980&t=16)** You can open [[Windows]] Firewall to see what type of network you're connected to right now.
 >
 > **[0:21](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/use-windows-firewall?u=76281980&t=21)** One way is to type Firewall here at the task bar.
 >
-> **[0:27](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/use-windows-firewall?u=76281980&t=27)** Make sure to select Windows Defender Firewall in the results.
+> **[0:27](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/use-windows-firewall?u=76281980&t=27)** Make sure to select Windows [[Microsoft Defender|Defender]] Firewall in the results.
 >
 > **[0:32](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/use-windows-firewall?u=76281980&t=32)** See if your network is private or public.
 >
@@ -653,7 +648,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (8), [[Microsoft Defender|Defender]] (4), feature (2)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Microsoft Defender|Defender]] (4)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll down (2)
 > **Best Practices:** make sure to (1), good practice (1)
@@ -661,12 +656,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Windows Firewall advanced security
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/windows-firewall-advanced-security?u=76281980)
+#### [Windows Firewall advanced security](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/windows-firewall-advanced-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/windows-firewall-advanced-security?u=76281980&t=0)** - [Instructor] Windows Firewall is often the first line of defense put into place to protect a computer from outside attacks.
+> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/windows-firewall-advanced-security?u=76281980&t=0)** - [Instructor] [[Windows]] Firewall is often the first line of defense put into place to protect a computer from outside attacks.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/windows-firewall-advanced-security?u=76281980&t=6)** Windows Firewall provides a shield that prevents the entry and exit of unwelcome traffic, while allowing traffic that is approved to have access.
 >
@@ -676,7 +670,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/windows-firewall-advanced-security?u=76281980&t=27)** And if not, they're rejected.
 >
-> **[0:29](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/windows-firewall-advanced-security?u=76281980&t=29)** You can see the most basic settings in the Windows Defender Firewall window.
+> **[0:29](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/windows-firewall-advanced-security?u=76281980&t=29)** You can see the most basic settings in the Windows [[Microsoft Defender|Defender]] Firewall window.
 >
 > **[0:34](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/windows-firewall-advanced-security?u=76281980&t=34)** To open this simply search for firewall from the task bar and select it in the results.
 >
@@ -748,19 +742,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (10), data (3), [[Security]] (3), traffic (2), [[Microsoft Defender|Defender]] (2)
+> **Frameworks & Libraries:** [[Windows]] (10), [[Microsoft Defender|Defender]] (2)
 > **Prerequisites:** configure (1), you'll need (1), set up (1)
 > **Code Identifiers:** itunes (2)
 > **CLI Commands:** make (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure mobile networking
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-mobile-networking?u=76281980)
+#### [Configure mobile networking](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-mobile-networking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-mobile-networking?u=76281980&t=0)** - [Narrator] Windows 10 offers features and settings unique to mobile devices.
+> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-mobile-networking?u=76281980&t=0)** - [Narrator] [[Windows 10]] offers features and settings unique to mobile devices.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-mobile-networking?u=76281980&t=5)** There are settings in the task bar, for instance, that allow users to quickly turn on or off airplane mode, connect and disconnect from networks and enable hotspots.
 >
@@ -772,7 +765,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-mobile-networking?u=76281980&t=25)** This turns on or off the mobile hotspot.
 >
-> **[0:29](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-mobile-networking?u=76281980&t=29)** There are a few features that aren't so easily accessible though, like Windows Mobility Center.
+> **[0:29](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-mobile-networking?u=76281980&t=29)** There are a few features that aren't so easily accessible though, like [[Windows]] Mobility Center.
 >
 > **[0:34](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-mobile-networking?u=76281980&t=34)** And there are settings related to mobile hotspots, metered connections and data usage too.
 >
@@ -852,7 +845,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Windows]] (3), [[Windows 10]] (1), power (1), vpn (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Windows 10]] (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** configure (2), set up (1)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -860,8 +853,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Manage Wi-Fi settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/manage-wi-fi-settings?u=76281980)
+#### [Manage Wi-Fi settings](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/manage-wi-fi-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -897,15 +889,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), data (1), next (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Versions:** 2.0 (1)
 > **UI Navigation:** toggle (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [narrator] (1)
 
-#### Add mobile devices to a network
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-mobile-devices-to-a-network?u=76281980)
+#### [Add mobile devices to a network](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-mobile-devices-to-a-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -917,7 +907,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-mobile-devices-to-a-network?u=76281980&t=21)** Always-on VPNs are quite popular, as well.
 >
-> **[0:24](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-mobile-devices-to-a-network?u=76281980&t=24)** However, there are other options that are built into Windows 10.
+> **[0:24](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-mobile-devices-to-a-network?u=76281980&t=24)** However, there are other options that are built into [[Windows 10]].
 >
 > **[0:27](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-mobile-devices-to-a-network?u=76281980&t=27)** Click Start, Settings, Accounts, and then click Access work or school.
 >
@@ -927,7 +917,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-mobile-devices-to-a-network?u=76281980&t=46)** One way to secure users' personal devices is to have users enroll through the DirectAccess option.
 >
-> **[0:52](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-mobile-devices-to-a-network?u=76281980&t=52)** Clients must run an Enterprise edition of Windows 10, Windows 8.1, Windows 8, or Windows 7, and must be domain joined to make use of DirectAccess.
+> **[0:52](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-mobile-devices-to-a-network?u=76281980&t=52)** Clients must run an Enterprise edition of Windows 10, [[Windows]] 8.1, Windows 8, or Windows 7, and must be domain joined to make use of DirectAccess.
 >
 > **[1:02](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-mobile-devices-to-a-network?u=76281980&t=62)** To see if a client is running Enterprise, open File Explorer first, then go to This PC.
 >
@@ -939,7 +929,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-mobile-devices-to-a-network?u=76281980&t=79)** You can't set up or configure DirectAccess on a client computer alone.
 >
-> **[1:23](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-mobile-devices-to-a-network?u=76281980&t=83)** To configure DirectAccess, you must configure a DirectAccess server on a Windows Server 2012 computer or higher and it has to be in a domain.
+> **[1:23](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-mobile-devices-to-a-network?u=76281980&t=83)** To configure DirectAccess, you must configure a DirectAccess server on a [[Windows Server]] 2012 computer or higher and it has to be in a domain.
 >
 > **[1:32](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-mobile-devices-to-a-network?u=76281980&t=92)** You'll also need a network location server, public key infrastructure, and a DNS server, among other things.
 >
@@ -951,13 +941,13 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-mobile-devices-to-a-network?u=76281980&t=121)** Back to Settings and Accounts, all the user has to do is click Connect.
 >
-> **[2:08](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-mobile-devices-to-a-network?u=76281980&t=128)** If you would like to learn more about DirectAccess and similar remote access technologies, you can search for these topics on LinkedIn learning.
+> **[2:08](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-mobile-devices-to-a-network?u=76281980&t=128)** If you would like to learn more about DirectAccess and similar remote access technologies, you can search for these topics on [[LinkedIn]] learning.
 >
 > **[2:16](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-mobile-devices-to-a-network?u=76281980&t=136)** We have entire courses that cover these specific things.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (3), management (1), [[Windows Server]] (1), dns (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (3), [[Windows Server]] (1), [[LinkedIn]] (1)
 > **Prerequisites:** configure (3), set up (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** dns (1)
@@ -966,8 +956,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure a VPN
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-a-vpn-18068589?u=76281980)
+#### [Configure a VPN](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-a-vpn-18068589?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -993,7 +982,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-a-vpn-18068589?u=76281980&t=56)** There are four choices but we want to connect to a workplace, so I'll click that option and I'll click Next.
 >
-> **[1:04](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-a-vpn-18068589?u=76281980&t=64)** If there's already a VPN set up on the computer you're working with, you'll need to tell Windows you want to create a new connection.
+> **[1:04](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-a-vpn-18068589?u=76281980&t=64)** If there's already a VPN set up on the computer you're working with, you'll need to tell [[Windows]] you want to create a new connection.
 >
 > **[1:10](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-a-vpn-18068589?u=76281980&t=70)** Then at this screen, you can decide whether your user will dial directly into the network or not.
 >
@@ -1053,7 +1042,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-a-vpn-18068589?u=76281980&t=209)** Although you can create VPN connections like this on an individual basis, if you have a lot of computers to manage this will likely become quite cumbersome.
 >
-> **[3:38](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-a-vpn-18068589?u=76281980&t=218)** In these instances, you'll probably opt to use a tool like Microsoft Intune or System Center Configuration Manager to create VPM profiles.
+> **[3:38](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-a-vpn-18068589?u=76281980&t=218)** In these instances, you'll probably opt to use a tool like [[Microsoft]] Intune or System Center Configuration Manager to create VPM profiles.
 >
 > **[3:47](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-a-vpn-18068589?u=76281980&t=227)** You can then distribute the profiles to clients.
 >
@@ -1085,7 +1074,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (12), [[Security]] (2), next (1), [[Windows]] (1), data (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Microsoft]] (1)
 > **Env Vars:** vpn (12), vpm (1)
 > **Prerequisites:** set up (3), you'll need (3), configure (2)
 > **Definitions:** is a  (4)
@@ -1094,8 +1083,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot network problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-network-problems-18071401?u=76281980)
+#### [Troubleshoot network problems](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-network-problems-18071401?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1165,7 +1153,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-network-problems-18071401?u=76281980&t=185)** So I'm going to click Ethernet here, and I'll show you.
 >
-> **[3:09](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-network-problems-18071401?u=76281980&t=189)** Watch what Windows does.
+> **[3:09](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-network-problems-18071401?u=76281980&t=189)** Watch what [[Windows]] does.
 >
 > **[3:11](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-network-problems-18071401?u=76281980&t=191)** It says, "Look, hey, your ethernet adapters disabled.
 >
@@ -1217,7 +1205,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2)
 > **UI Navigation:** select the (2), toggle (1), scroll down (1), double-click (1), go to (1)
 > **CLI Commands:** make (4), find (2)
 > **Cross-References:** go back to (3)
@@ -1231,8 +1219,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage partitions with Disk Management
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/manage-partitions-with-disk-management?u=76281980)
+#### [Manage partitions with Disk Management](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/manage-partitions-with-disk-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1250,7 +1237,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/manage-partitions-with-disk-management?u=76281980&t=29)** If you see what looks like a physical drive, but you don't think it is, it might be a partition.
 >
-> **[0:34](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/manage-partitions-with-disk-management?u=76281980&t=34)** A partition is an area on a basic disk, like the disks you see in most computers used by consumers and employees that is allocated to hold data, operating system files, virtual machines and so on, but is not a real physical disk.
+> **[0:34](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/manage-partitions-with-disk-management?u=76281980&t=34)** A partition is an area on a basic disk, like the disks you see in most computers used by consumers and employees that is allocated to hold data, operating system files, [[Virtual Machines]] and so on, but is not a real physical disk.
 >
 > **[0:49](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/manage-partitions-with-disk-management?u=76281980&t=49)** While File Explorer can show you the computer's basic makeup, to see how your computer is configured with regard to partitions and physical drives, you'll need to open Disk Management.
 >
@@ -1278,7 +1265,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/manage-partitions-with-disk-management?u=76281980&t=121)** I'll right click C and choose shrink volume.
 >
-> **[2:06](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/manage-partitions-with-disk-management?u=76281980&t=126)** Notice I use the word volume here instead of partition.
+> **[2:06](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/manage-partitions-with-disk-management?u=76281980&t=126)** Notice I use the [[Microsoft Word|word]] volume here instead of partition.
 >
 > **[2:09](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/manage-partitions-with-disk-management?u=76281980&t=129)** And that's what is offered in the contextual menu.
 >
@@ -1406,7 +1393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), management (4), next (4), [[Virtual Machines]] (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (3), [[Microsoft Word|Word]] (1)
 > **Env Vars:** raid (4), dvd (1), usb (1), ntfs (1)
 > **Definitions:** is an  (3), stands for (1)
 > **Prerequisites:** you'll need (2), install (1), configure (1)
@@ -1414,12 +1401,11 @@ created: 2026-05-02
 > **UI Navigation:** right-click (1)
 > **Speakers:** - [narrator] (1)
 
-#### Manage storage with PowerShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/manage-storage-with-powershell?u=76281980)
+#### [Manage storage with PowerShell](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/manage-storage-with-powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/manage-storage-with-powershell?u=76281980&t=0)** - [Instructor] Windows PowerShell is a command line shell that lets users, generally network administrators, automate and configure management tasks.
+> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/manage-storage-with-powershell?u=76281980&t=0)** - [Instructor] [[Windows]] [[Powershell]] is a command line shell that lets users, generally network administrators, automate and configure management tasks.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/manage-storage-with-powershell?u=76281980&t=9)** One of those tasks is managing disk and disk storage.
 >
@@ -1519,15 +1505,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (9), management (4), [[Search]] (2), [[Windows]] (1), data (1)
+> **Frameworks & Libraries:** [[Powershell]] (9), [[Windows]] (1)
 > **Tools:** powershell (9), command line (1)
 > **Speakers:** - disknumber (2), - [instructor] (1), - filesystem (1)
 > **Env Vars:** usb (2), ntfs (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** configure (1), you'll need (1)
 
-#### Create a VHD
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-a-vhd?u=76281980)
+#### [Create a VHD](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-a-vhd?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1541,7 +1526,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-a-vhd?u=76281980&t=19)** It's a file, actually, and has a file format, either VHD or VHDX.
 >
-> **[0:25](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-a-vhd?u=76281980&t=25)** You can create a virtual hard disk using the Microsoft Hyper-V Manager, Disc Management and PowerShell.
+> **[0:25](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-a-vhd?u=76281980&t=25)** You can create a virtual hard disk using the [[Microsoft]] Hyper-V Manager, Disc Management and [[Powershell]].
 >
 > **[0:33](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-a-vhd?u=76281980&t=33)** Once you've created the virtual disk, you can install an operating system on it if you want to.
 >
@@ -1557,7 +1542,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-a-vhd?u=76281980&t=64)** You can see if your computer is compatible very quickly by performing these steps.
 >
-> **[1:10](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-a-vhd?u=76281980&t=70)** On a Windows 10 Enterprise Computer, in the search box type turn windows features on or off.
+> **[1:10](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-a-vhd?u=76281980&t=70)** On a [[Windows 10]] Enterprise Computer, in the search box type turn [[Windows]] features on or off.
 >
 > **[1:17](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-a-vhd?u=76281980&t=77)** Click it in the results.
 >
@@ -1591,7 +1576,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-a-vhd?u=76281980&t=140)** This file format supports virtual disks up to 64 terabytes and is resilient when effected by a power failure.
 >
-> **[2:27](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-a-vhd?u=76281980&t=147)** However, it only supports operating systems that are Windows 8 or Windows Server 2012 or higher, so if you need to run Windows 7 or a similar OS, you'll want to choose VHD.
+> **[2:27](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-a-vhd?u=76281980&t=147)** However, it only supports operating systems that are Windows 8 or [[Windows Server]] 2012 or higher, so if you need to run Windows 7 or a similar OS, you'll want to choose VHD.
 >
 > **[2:38](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-a-vhd?u=76281980&t=158)** Now, we'll need to decide what type of disc I want to create.
 >
@@ -1635,7 +1620,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), [[Windows]] (3), [[Microsoft]] (1), [[Powershell]] (1), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Microsoft]] (1), [[Powershell]] (1), [[Windows 10]] (1), [[Windows Server]] (1)
 > **Env Vars:** vhd (4), vhdx (2), gpt (1), mbr (1)
 > **Prerequisites:** install (2), you'll need (2), before you begin (1), configure (1)
 > **CLI Commands:** make (2)
@@ -1644,12 +1629,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Configure a VHD
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-a-vhd?u=76281980)
+#### [Configure a VHD](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-a-vhd?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-a-vhd?u=76281980&t=0)** - [Tutor] If you've created a virtual hard disk and want to make changes to it, you can do so in Disk Management, Hyper-V Manager, and using PowerShell.
+> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-a-vhd?u=76281980&t=0)** - [Tutor] If you've created a virtual hard disk and want to make changes to it, you can do so in Disk Management, Hyper-V Manager, and using [[Powershell]].
 >
 > **[0:09](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-a-vhd?u=76281980&t=9)** Here, I'll show you the options in Disk Management because it's more user-friendly and it's also where I explained how to create a VHD in a previous movie.
 >
@@ -1737,7 +1721,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-a-vhd?u=76281980&t=173)** You could choose Quick Removal for your preferred removal policy.
 >
-> **[2:58](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-a-vhd?u=76281980&t=178)** When you choose this, you disable write caching on the device and in Windows, but you can disconnect the device safely without using the remove hardware icon on the taskbar.
+> **[2:58](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-a-vhd?u=76281980&t=178)** When you choose this, you disable write caching on the device and in [[Windows]], but you can disconnect the device safely without using the remove [[Hardware]] icon on the taskbar.
 >
 > **[3:08](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-a-vhd?u=76281980&t=188)** The default, Better Performance, enables write caching, but requires you to disconnect the device safely when you're finished using it.
 >
@@ -1787,7 +1771,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), next (3), [[Powershell]] (2), data (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (2), [[Windows]] (1), [[Hardware]] (1)
 > **Env Vars:** vhd (5), gpt (1), ntfs (1)
 > **UI Navigation:** right-click (6), go to (1)
 > **Analogies:** just like (1), for instance (1), kind of like (1)
@@ -1796,8 +1780,7 @@ created: 2026-05-02
 > **Tools:** powershell (2)
 > **Definitions:** is a  (2)
 
-#### Configure removable devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-removable-devices?u=76281980)
+#### [Configure removable devices](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-removable-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1883,7 +1866,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-removable-devices?u=76281980&t=233)** You'll have to back up your recovery key.
 >
-> **[3:55](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-removable-devices?u=76281980&t=235)** You can save it to your Microsoft account, save it to a file or print it.
+> **[3:55](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-removable-devices?u=76281980&t=235)** You can save it to your [[Microsoft]] account, save it to a file or print it.
 >
 > **[3:59](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-removable-devices?u=76281980&t=239)** I'll choose save to a file for now.
 >
@@ -1897,7 +1880,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-removable-devices?u=76281980&t=262)** Finally, let's take one last look at group policies for removable drives with regard to BitLocker.
 >
-> **[4:28](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-removable-devices?u=76281980&t=268)** Back at group policy, let's navigate again through Computer Configuration, Administrative Templates, Windows Components, and BitLocker Drive Encryption.
+> **[4:28](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-removable-devices?u=76281980&t=268)** Back at group policy, let's navigate again through Computer Configuration, Administrative Templates, [[Windows]] Components, and BitLocker Drive Encryption.
 >
 > **[4:41](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-removable-devices?u=76281980&t=281)** Now let's look at Removable Data Drives.
 >
@@ -1937,7 +1920,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (4), [[Microsoft]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Windows]] (1)
 > **UI Navigation:** double-click (3), navigate to (2), scroll down (1), right-click (1), select the (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** usb (2), wpd (1)
@@ -1946,14 +1929,13 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Best Practices:** make sure to (1)
 
-#### Create and configure storage spaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-storage-spaces?u=76281980)
+#### [Create and configure storage spaces](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-storage-spaces?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-storage-spaces?u=76281980&t=0)** - [Instructor] If you have a few unused or unwanted USB disks available, you can make use of those with a technology called Storage Spaces.
 >
-> **[0:09](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-storage-spaces?u=76281980&t=9)** Storage Spaces is fairly new, initially offered in Windows 8 and Server 2012, that lets users combine disk space from multiple hard disks to provide storage redundancy.
+> **[0:09](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-storage-spaces?u=76281980&t=9)** Storage Spaces is fairly new, initially offered in [[Windows]] 8 and Server 2012, that lets users combine disk space from multiple hard disks to provide storage redundancy.
 >
 > **[0:20](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-storage-spaces?u=76281980&t=20)** These can be USB drives or larger external drives.
 >
@@ -2013,7 +1995,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), data (2), next (1)
+> **Frameworks & Libraries:** [[Windows]] (2)
 > **Env Vars:** usb (4), raid (1), ata (1), scsi (1), ntfs (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (2)
@@ -2021,8 +2003,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot storage and devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-storage-and-devices?u=76281980)
+#### [Troubleshoot storage and devices](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-storage-and-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2156,11 +2137,11 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-storage-and-devices?u=76281980&t=322)** Before you move forward, if there are any things you would like to run, like Disk Cleanup or the error checking tool, go ahead and do that.
 >
-> **[5:30](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-storage-and-devices?u=76281980&t=330)** When you're finished, close all open windows.
+> **[5:30](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-storage-and-devices?u=76281980&t=330)** When you're finished, close all open [[Windows]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), data (2), application (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **UI Navigation:** right-click (7), select the (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** usb (2), usb1 (1)
@@ -2174,8 +2155,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create and configure folder shares
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980)
+#### [Create and configure folder shares](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2183,15 +2163,15 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980&t=7)** Shares let you control who can access what, called authentication, and what they can do with it once they had that access, called authorization.
 >
-> **[0:17](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980&t=17)** There are several ways to go about this in Windows 10.
+> **[0:17](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980&t=17)** There are several ways to go about this in [[Windows 10]].
 >
 > **[0:21](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980&t=21)** You can use File Explorer.
 >
 > **[0:23](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980&t=23)** You might have some experience with this already.
 >
-> **[0:25](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980&t=25)** You can create and manage shares from a command line or a PowerShell session too.
+> **[0:25](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980&t=25)** You can create and manage shares from a command line or a [[Powershell]] session too.
 >
-> **[0:30](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980&t=30)** And you can use the Shared Folders snap-in available in a Microsoft management console to view and manage shares.
+> **[0:30](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980&t=30)** And you can use the Shared Folders snap-in available in a [[Microsoft]] management console to view and manage shares.
 >
 > **[0:38](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980&t=38)** I'd like to talk a little about each of these.
 >
@@ -2207,7 +2187,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980&t=63)** With the folder selected, click the share tab to see a few basic share options.
 >
-> **[1:09](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980&t=69)** If you click a user, say John, you'll have the option to share the selected items with him.
+> **[1:09](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980&t=69)** If you click a user, say [[John the Ripper|John]], you'll have the option to share the selected items with him.
 >
 > **[1:15](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980&t=75)** I'll go ahead and share the item.
 >
@@ -2301,7 +2281,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980&t=281)** Here's NewShare1.
 >
-> **[4:42](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980&t=282)** Now we can try to get access to any of those shares with this command, get dash SMB share access a space, a dash, and the word name and a space.
+> **[4:42](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980&t=282)** Now we can try to get access to any of those shares with this command, get dash SMB share access a space, a dash, and the [[Microsoft Word|word]] name and a space.
 >
 > **[4:56](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980&t=296)** And we'll put quotes here, NewShare1 and press enter.
 >
@@ -2375,15 +2355,15 @@ created: 2026-05-02
 >
 > **[7:38](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980&t=458)** Let's click cancel and move out of all of that.
 >
-> **[7:42](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980&t=462)** Close any open windows.
+> **[7:42](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980&t=462)** Close any open [[Windows]].
 >
 > **[7:44](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980&t=464)** And remember, shares can only be accessed by network users if the computer that is hosting them is turned on and accessible.
 >
-> **[7:52](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980&t=472)** Corporations often use file servers for this, but if you're in a small home or office environment, it's something to keep in mind if you keep your shares on a work group computer.
+> **[7:52](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-configure-folder-shares?u=76281980&t=472)** Corporations often use file servers for this, but if you're in a small home or [[Microsoft Office|office]] environment, it's something to keep in mind if you keep your shares on a work group computer.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (5), prompt (5), management (3), [[Security]] (2), data (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (6), [[Powershell]] (5), [[Windows 10]] (1), [[Microsoft]] (1), [[Microsoft Word|Word]] (1)
 > **Tools:** powershell (5), command prompt (5), command line (2)
 > **CLI Commands:** snap (2), make (2)
 > **Env Vars:** smb (3), cmd (1)
@@ -2392,8 +2372,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure and use OneDrive
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980)
+#### [Configure and use OneDrive](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2401,15 +2380,15 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980&t=9)** Large companies use something much more robust, because they need to manage corporate data.
 >
-> **[0:14](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980&t=14)** They might have an onsite data storage room, or they might keep their data in the cloud managed by a third party.
+> **[0:14](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980&t=14)** They might have an onsite [[Data Storage]] room, or they might keep their data in the cloud managed by a third party.
 >
 > **[0:20](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980&t=20)** Single users and small business owners might also opt to store their data online.
 >
-> **[0:26](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980&t=26)** There are lots of options, including Dropbox, Google Drive, OneDrive and even iCloud.
+> **[0:26](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980&t=26)** There are lots of options, including Dropbox, [[Google Drive]], [[Microsoft OneDrive|OneDrive]] and even iCloud.
 >
 > **[0:34](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980&t=34)** I'd like to talk about OneDrive here.
 >
-> **[0:36](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980&t=36)** If you don't see a OneDrive folder, it's because you haven't logged into the computer with a Microsoft account.
+> **[0:36](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980&t=36)** If you don't see a OneDrive folder, it's because you haven't logged into the computer with a [[Microsoft]] account.
 >
 > **[0:42](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980&t=42)** You'll need to do that if you want to follow along.
 >
@@ -2453,7 +2432,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980&t=127)** Look at everything you can create.
 >
-> **[2:09](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980&t=129)** There's options to create Word documents, workbooks, presentations, and more.
+> **[2:09](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980&t=129)** There's options to create [[Microsoft Word|Word]] documents, workbooks, presentations, and more.
 >
 > **[2:16](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980&t=136)** You can also upload files and even upload folders.
 >
@@ -2475,11 +2454,11 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980&t=171)** You'll have access to the latest documents, you'll have the option to open the folder, and Help & Settings.
 >
-> **[2:59](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980&t=179)** Click Help & Settings, and click Settings to look at the options for configuring Microsoft OneDrive.
+> **[2:59](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980&t=179)** Click Help & Settings, and click Settings to look at the options for configuring [[Microsoft OneDrive]].
 >
-> **[3:06](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980&t=186)** You can configure OneDrive to start when you sign into Windows, and that's enabled by default.
+> **[3:06](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980&t=186)** You can configure OneDrive to start when you sign into [[Windows]], and that's enabled by default.
 >
-> **[3:11](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980&t=191)** You can also use OneDrive to fetch files stored on this PC, which is deselected by default.
+> **[3:11](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980&t=191)** You can also use OneDrive to [[Fetch]] files stored on this PC, which is deselected by default.
 >
 > **[3:17](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980&t=197)** When you enable this feature, you can access all your files on this PC from another computer by going to the OneDrive website.
 >
@@ -2499,7 +2478,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980&t=243)** The Network tab lets you configure the upload and download rate.
 >
-> **[4:07](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980&t=247)** And finally, the Office tab offers collaboration options.
+> **[4:07](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980&t=247)** And finally, the [[Microsoft Office|Office]] tab offers collaboration options.
 >
 > **[4:12](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-onedrive?u=76281980&t=252)** If you use Office 2016 and OneDrive for collaboration, click More Info to learn more.
 >
@@ -2515,7 +2494,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (18), data (8), cloud (4), [[Microsoft]] (3), web (3)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (18), [[Microsoft]] (3), [[Windows]] (2), [[Microsoft Office|Office]] (2), [[Data Storage]] (1)
 > **UI Navigation:** go to (2), navigate to (1), open the (1)
 > **Prerequisites:** configure (2), you'll need (1)
 > **CLI Commands:** make (2)
@@ -2523,8 +2502,7 @@ created: 2026-05-02
 > **URLs:** [live.com](https://live.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and manage permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-manage-permissions?u=76281980)
+#### [Create and manage permissions](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-manage-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2552,7 +2530,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-manage-permissions?u=76281980&t=59)** There are two types of permissions that we'll be concerned with, share permissions and NTFS.
 >
-> **[1:05](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-manage-permissions?u=76281980&t=65)** There are also registry and active directory permissions.
+> **[1:05](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-manage-permissions?u=76281980&t=65)** There are also registry and [[Active Directory]] permissions.
 >
 > **[1:08](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-manage-permissions?u=76281980&t=68)** Share permissions apply only to users who access resources over a network and do not apply to users who access the machine locally.
 >
@@ -2674,7 +2652,7 @@ created: 2026-05-02
 >
 > **[6:38](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-manage-permissions?u=76281980&t=398)** Let me show you how to do that.
 >
-> **[6:39](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-manage-permissions?u=76281980&t=399)** Back here at the Security tab, I'll click Edit, then I'll click Add, and I'll type a specific user, in this case, John, and I'll click Okay.
+> **[6:39](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-manage-permissions?u=76281980&t=399)** Back here at the Security tab, I'll click Edit, then I'll click Add, and I'll type a specific user, in this case, [[John the Ripper|John]], and I'll click Okay.
 >
 > **[6:51](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-manage-permissions?u=76281980&t=411)** With John selected, I can now opt to deny John access and it won't matter what other groups he's a member of, and I'll click Okay.
 >
@@ -2698,7 +2676,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Active Directory]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (3), [[Active Directory]] (1)
 > **Env Vars:** ntfs (14), fat (1)
 > **CLI Commands:** make (3), find (2)
 > **Prerequisites:** configure (2), before we start (1)
@@ -2707,14 +2685,13 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Warnings:** troubleshoot (1)
 
-#### Troubleshoot data access
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-data-access?u=76281980)
+#### [Troubleshoot data access](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-data-access?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-data-access?u=76281980&t=0)** - [Instructor] You can use both Share and NTFS permissions to protect resources.
 >
-> **[0:05](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-data-access?u=76281980&t=5)** Those resources are often folders that contain data, such as documents, presentations, and photos, but they can also be printers, backup drives, and hardware.
+> **[0:05](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-data-access?u=76281980&t=5)** Those resources are often folders that contain data, such as documents, presentations, and photos, but they can also be printers, backup drives, and [[Hardware]].
 >
 > **[0:15](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-data-access?u=76281980&t=15)** There are options for sharing resources in File Explorer.
 >
@@ -2762,11 +2739,11 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-data-access?u=76281980&t=165)** There's a command that you can use to reset all of the file and folder permissions configured on the computer.
 >
-> **[2:51](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-data-access?u=76281980&t=171)** You'll need to be logged in as an administrator, and you'll need to open a PowerShell session as an administrator as well.
+> **[2:51](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-data-access?u=76281980&t=171)** You'll need to be logged in as an administrator, and you'll need to open a [[Powershell]] session as an administrator as well.
 >
 > **[2:58](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-data-access?u=76281980&t=178)** I'll do that.
 >
-> **[2:59](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-data-access?u=76281980&t=179)** Here's Windows PowerShell.
+> **[2:59](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-data-access?u=76281980&t=179)** Here's [[Windows]] PowerShell.
 >
 > **[3:01](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/troubleshoot-data-access?u=76281980&t=181)** I'll right-click and choose Run as Administrator.
 >
@@ -2836,7 +2813,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (3), [[Hardware]] (2), [[Security]] (2), data (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (3), [[Hardware]] (2), [[Windows]] (1)
 > **Prerequisites:** configure (3), you'll need (2)
 > **Env Vars:** ntfs (4)
 > **Tools:** powershell (3)
@@ -2850,16 +2827,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configure desktop apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-desktop-apps?u=76281980)
+#### [Configure desktop apps](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-desktop-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-desktop-apps?u=76281980&t=0)** - [Instructor] There are two kinds of apps, desktop apps, such as Windows Media Player, and web-based apps such as maps, mail, and calendar.
+> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-desktop-apps?u=76281980&t=0)** - [Instructor] There are two kinds of apps, desktop apps, such as [[Windows]] Media Player, and web-based apps such as maps, mail, and calendar.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-desktop-apps?u=76281980&t=9)** Some developers offer options for both.
 >
-> **[0:12](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-desktop-apps?u=76281980&t=12)** For example, there's OneNote 2016, which is a desktop app, and OneNote which is his app counterpart.
+> **[0:12](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-desktop-apps?u=76281980&t=12)** For example, there's [[OneNote]] 2016, which is a desktop app, and OneNote which is his app counterpart.
 >
 > **[0:20](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-desktop-apps?u=76281980&t=20)** I want to talk about configuring desktop apps here.
 >
@@ -2871,7 +2847,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-desktop-apps?u=76281980&t=38)** Here are the options on my computer for a web browser.
 >
-> **[0:42](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-desktop-apps?u=76281980&t=42)** I have Microsoft Edge, Firefox, Google Chrome, and Internet Explorer.
+> **[0:42](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-desktop-apps?u=76281980&t=42)** I have [[Microsoft]] Edge, Firefox, [[Google]] Chrome, and Internet Explorer.
 >
 > **[0:48](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-desktop-apps?u=76281980&t=48)** I can choose the one I want to open by default when I need a web browser.
 >
@@ -2959,7 +2935,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-desktop-apps?u=76281980&t=220)** If you have a problem, you only need to work through the applicable wizard.
 >
-> **[3:45](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-desktop-apps?u=76281980&t=225)** If a wizard doesn't solve your problem though, it could be because the app you're trying to use has not been updated by the manufacturer to run on Windows 10 or you haven't upgraded and have an older version of the program.
+> **[3:45](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-desktop-apps?u=76281980&t=225)** If a wizard doesn't solve your problem though, it could be because the app you're trying to use has not been updated by the manufacturer to run on [[Windows 10]] or you haven't upgraded and have an older version of the program.
 >
 > **[3:57](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-desktop-apps?u=76281980&t=237)** In these cases, you need to run the program compatibility troubleshooter.
 >
@@ -3033,7 +3009,7 @@ created: 2026-05-02
 >
 > **[6:27](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-desktop-apps?u=76281980&t=387)** Let me show you one more so you'll know where to look for options in various programs you use.
 >
-> **[6:33](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-desktop-apps?u=76281980&t=393)** Here. I have Microsoft Word already open.
+> **[6:33](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-desktop-apps?u=76281980&t=393)** Here. I have [[Microsoft Word]] already open.
 >
 > **[6:36](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-desktop-apps?u=76281980&t=396)** And here I can choose file and options.
 >
@@ -3051,7 +3027,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (7), next (6), web (4), [[Search]] (4), [[Microsoft]] (3)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Microsoft]] (3), [[OneNote]] (2), [[Google]] (2), [[Windows 10]] (2)
 > **CLI Commands:** find (8), cd (2), make (2)
 > **Prerequisites:** configure (4), install (1)
 > **Env Vars:** dvd (4)
@@ -3060,8 +3036,7 @@ created: 2026-05-02
 > **Tools:** firefox (1)
 > **Definitions:** is a  (1)
 
-#### Configure startup options
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-startup-options?u=76281980)
+#### [Configure startup options](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-startup-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3069,9 +3044,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-startup-options?u=76281980&t=8)** There are three ways I'd like to discuss here.
 >
-> **[0:11](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-startup-options?u=76281980&t=11)** You can configure fast startup, a feature of Windows 10, if it's supported by your device hardware.
+> **[0:11](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-startup-options?u=76281980&t=11)** You can configure fast startup, a feature of [[Windows 10]], if it's supported by your device [[Hardware]].
 >
-> **[0:17](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-startup-options?u=76281980&t=17)** You can disable unnecessary services or delay their start, and you can stop specific applications from loading when Windows does.
+> **[0:17](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-startup-options?u=76281980&t=17)** You can disable unnecessary services or delay their start, and you can stop specific applications from loading when [[Windows]] does.
 >
 > **[0:25](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-startup-options?u=76281980&t=25)** Let's begin with fast startup.
 >
@@ -3133,7 +3108,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-startup-options?u=76281980&t=182)** And note though, don't disable anything you don't recognize or your computer might not function as you'd expect.
 >
-> **[3:08](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-startup-options?u=76281980&t=188)** Also, don't turn off things like Windows Update or Windows Defender.
+> **[3:08](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-startup-options?u=76281980&t=188)** Also, don't turn off things like Windows Update or Windows [[Microsoft Defender|Defender]].
 >
 > **[3:13](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-startup-options?u=76281980&t=193)** I'll close the services window now.
 >
@@ -3169,7 +3144,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), [[Search]] (4), power (3), [[Hardware]] (2), feature (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Hardware]] (2), [[Windows 10]] (1), [[Microsoft Defender|Defender]] (1)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** navigate to (1), open the (1)
 > **Definitions:** is a  (1)
@@ -3177,12 +3152,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add and remove features
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-and-remove-features?u=76281980)
+#### [Add and remove features](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-and-remove-features?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-and-remove-features?u=76281980&t=0)** - [Instructor] Not all of the features available in Windows 10 are available when Windows is installed.
+> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-and-remove-features?u=76281980&t=0)** - [Instructor] Not all of the features available in [[Windows 10]] are available when [[Windows]] is installed.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-and-remove-features?u=76281980&t=6)** Some features, like Hyper-V, must be installed manually.
 >
@@ -3232,7 +3206,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-and-remove-features?u=76281980&t=101)** Provided they aren't part of Windows 10, like Calculator, Maps, Messaging, and so on.
 >
-> **[1:47](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-and-remove-features?u=76281980&t=107)** Watch what happens when I click something that Microsoft has installed.
+> **[1:47](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-and-remove-features?u=76281980&t=107)** Watch what happens when I click something that [[Microsoft]] has installed.
 >
 > **[1:52](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/add-and-remove-features?u=76281980&t=112)** I cannot uninstall it.
 >
@@ -3290,7 +3264,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Windows 10]] (2), [[Search]] (1), [[Microsoft]] (1), application (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Windows 10]] (2), [[Microsoft]] (1)
 > **CLI Commands:** make (5)
 > **Prerequisites:** configure (2), install (1)
 > **Code Identifiers:** itunes (2)
@@ -3299,16 +3273,15 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and deploy provisioning packages
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-deploy-provisioning-packages?u=76281980)
+#### [Create and deploy provisioning packages](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-deploy-provisioning-packages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-deploy-provisioning-packages?u=76281980&t=0)** - [Female Instructor] Large businesses often need to set up new devices; join devices to an active directory domain or Azure; install and set up software; or reset lost devices, and they need a standard way to do it.
+> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-deploy-provisioning-packages?u=76281980&t=0)** - [Female Instructor] Large businesses often need to set up new devices; join devices to an [[Active Directory]] domain or [[Microsoft Azure|Azure]]; install and set up software; or reset lost devices, and they need a standard way to do it.
 >
 > **[0:12](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-deploy-provisioning-packages?u=76281980&t=12)** Businesses can achieve this by creating provisioning packages to be used when needed.
 >
-> **[0:17](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-deploy-provisioning-packages?u=76281980&t=17)** One way to create such a package is to use the Windows assessment and deployment kit available from Microsoft.
+> **[0:17](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-deploy-provisioning-packages?u=76281980&t=17)** One way to create such a package is to use the [[Windows]] assessment and deployment kit available from [[Microsoft]].
 >
 > **[0:23](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-deploy-provisioning-packages?u=76281980&t=23)** The Windows ADK doesn't come pre-installed on PCs though, so I'll install the application using the defaults shown here.
 >
@@ -3386,7 +3359,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-deploy-provisioning-packages?u=76281980&t=225)** You can apply this package to any Windows image that you're creating.
 >
-> **[3:49](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-deploy-provisioning-packages?u=76281980&t=229)** You can distribute the package to devices already running Windows 10 as well.
+> **[3:49](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-deploy-provisioning-packages?u=76281980&t=229)** You can distribute the package to devices already running [[Windows 10]] as well.
 >
 > **[3:53](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/create-and-deploy-provisioning-packages?u=76281980&t=233)** There are several ways to do this, including making the package available on a shared drive and sending the link in an email.
 >
@@ -3396,25 +3369,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (12), next (5), [[Security]] (2), [[Active Directory]] (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Windows]] (12), [[Active Directory]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft]] (1), [[Windows 10]] (1)
 > **Prerequisites:** install (4), set up (2), you'll need (2)
 > **Env Vars:** adk (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [female (1)
 
-#### Windows Assessment and Deployment Kit
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/windows-assessment-and-deployment-kit?u=76281980)
+#### [Windows Assessment and Deployment Kit](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/windows-assessment-and-deployment-kit?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/windows-assessment-and-deployment-kit?u=76281980&t=0)** - [Instructor] Administrators incorporate all kinds of tools to manage their network infrastructure.
 >
-> **[0:06](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/windows-assessment-and-deployment-kit?u=76281980&t=6)** One of those is the Windows Assessment and Deployment Kit.
+> **[0:06](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/windows-assessment-and-deployment-kit?u=76281980&t=6)** One of those is the [[Windows]] Assessment and Deployment Kit.
 >
 > **[0:10](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/windows-assessment-and-deployment-kit?u=76281980&t=10)** I've installed it using the defaults shown here.
 >
-> **[0:13](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/windows-assessment-and-deployment-kit?u=76281980&t=13)** Most of the tools in the Windows ADK have to do with deploying Windows 10 in an enterprise.
+> **[0:13](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/windows-assessment-and-deployment-kit?u=76281980&t=13)** Most of the tools in the Windows ADK have to do with deploying [[Windows 10]] in an enterprise.
 >
 > **[0:20](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/windows-assessment-and-deployment-kit?u=76281980&t=20)** To deploy Windows 10 on a large scale, administrators often create Windows images for their organizations, and then create answer files to automate those installations to limit what the end user has to do during any update.
 >
@@ -3444,7 +3416,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/windows-assessment-and-deployment-kit?u=76281980&t=99)** The first thing you'll do with this tool is to add a Windows image.
 >
-> **[1:44](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/windows-assessment-and-deployment-kit?u=76281980&t=104)** You can choose an image from the source files available from Microsoft on an installation disc, or you can choose one you've already created.
+> **[1:44](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/windows-assessment-and-deployment-kit?u=76281980&t=104)** You can choose an image from the source files available from [[Microsoft]] on an installation disc, or you can choose one you've already created.
 >
 > **[1:54](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/windows-assessment-and-deployment-kit?u=76281980&t=114)** I'll click file, select Windows image, and I go over to my downloads folder, where I happen to have a wim file.
 >
@@ -3502,7 +3474,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/windows-assessment-and-deployment-kit?u=76281980&t=291)** The three items you'll need to be familiar with are shown here.
 >
-> **[4:55](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/windows-assessment-and-deployment-kit?u=76281980&t=295)** The USMT allows you to migrate user data and settings from one installation to another, and as part of the operating system deployment process.
+> **[4:55](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/windows-assessment-and-deployment-kit?u=76281980&t=295)** The USMT allows you to migrate user data and settings from one installation to another, and as part of the operating [[System Deployment]] process.
 >
 > **[5:05](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/windows-assessment-and-deployment-kit?u=76281980&t=305)** The command you use to backup and restore the data includes ScanState and LoadState, as well as additional utilities to further personalize your installation.
 >
@@ -3522,7 +3494,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (15), [[Windows 10]] (3), data (3), [[Microsoft]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Windows]] (15), [[Windows 10]] (3), [[Microsoft]] (1), [[System Deployment]] (1)
 > **Env Vars:** adk (6), dism (4), usmt (2), xml (1)
 > **Tools:** command line (2), command prompt (1)
 > **UI Navigation:** right-click (2), select the (1)
@@ -3536,18 +3508,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use remote management tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/use-remote-management-tools?u=76281980)
+#### [Use remote management tools](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/use-remote-management-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/use-remote-management-tools?u=76281980&t=0)** - If you work in a large organization, especially one where users are positioned across multiple physical locations, you'll likely be called on to manage those computers remotely.
 >
-> **[0:11](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/use-remote-management-tools?u=76281980&t=11)** Even if all the computers you manage, are in a single location, like an office building, you can't always be on-site to resolve problems in person.
+> **[0:11](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/use-remote-management-tools?u=76281980&t=11)** Even if all the computers you manage, are in a single location, like an [[Microsoft Office|office]] building, you can't always be on-site to resolve problems in person.
 >
-> **[0:19](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/use-remote-management-tools?u=76281980&t=19)** There are several tools available in windows 10 for managing computers remotely.
+> **[0:19](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/use-remote-management-tools?u=76281980&t=19)** There are several tools available in [[Windows 10]] for managing computers remotely.
 >
-> **[0:24](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/use-remote-management-tools?u=76281980&t=24)** There's Remote Assistance, Remote Desktop, Windows PowerShell, and Microsoft Management Console.
+> **[0:24](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/use-remote-management-tools?u=76281980&t=24)** There's Remote Assistance, Remote Desktop, [[Windows]] [[Powershell]], and [[Microsoft]] Management Console.
 >
 > **[0:31](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/use-remote-management-tools?u=76281980&t=31)** Remote Assistance is a good option when you only need to provide a little bit of help to an end-user such as showing them how to open a file, access a user program, print to a printer, or resolve a problem with the Task Bar or Desktop.
 >
@@ -3623,7 +3594,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (8), [[Powershell]] (5), [[Microsoft]] (3), [[Windows]] (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (5), [[Microsoft]] (3), [[Windows]] (2), [[Microsoft Office|Office]] (1), [[Windows 10]] (1)
 > **Tools:** powershell (5)
 > **Definitions:** is a  (2), is called (1), is an  (1)
 > **Analogies:** such as (3), for instance (1)
@@ -3632,8 +3603,7 @@ created: 2026-05-02
 > **UI Navigation:** right-click (1)
 > **Speakers:** - if (1)
 
-#### Remote management settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/remote-management-settings?u=76281980)
+#### [Remote management settings](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/remote-management-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3641,7 +3611,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/remote-management-settings?u=76281980&t=8)** This is known as remote management.
 >
-> **[0:10](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/remote-management-settings?u=76281980&t=10)** There are several remote management tools, which I introduced in the last movie, including using a Microsoft management console.
+> **[0:10](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/remote-management-settings?u=76281980&t=10)** There are several remote management tools, which I introduced in the last movie, including using a [[Microsoft]] management console.
 >
 > **[0:17](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/remote-management-settings?u=76281980&t=17)** In order to remote into a computer, that computer must be configured to allow such connections.
 >
@@ -3655,13 +3625,13 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/remote-management-settings?u=76281980&t=53)** With that done, click OK to close the system properties dialogue box.
 >
-> **[0:58](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/remote-management-settings?u=76281980&t=58)** You can also enable remote features in the Windows features window if you want to manage Windows servers from this computer.
+> **[0:58](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/remote-management-settings?u=76281980&t=58)** You can also enable remote features in the [[Windows]] features window if you want to manage Windows servers from this computer.
 >
 > **[1:06](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/remote-management-settings?u=76281980&t=66)** To get there, type turn Windows features on or off in a search window.
 >
 > **[1:11](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/remote-management-settings?u=76281980&t=71)** Select it in the results.
 >
-> **[1:14](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/remote-management-settings?u=76281980&t=74)** You will need to have downloaded the Remote Server Administration Tools for Windows 10 or the RAS Connection Manager Administration Kit.
+> **[1:14](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/remote-management-settings?u=76281980&t=74)** You will need to have downloaded the Remote Server Administration Tools for [[Windows 10]] or the RAS Connection Manager Administration Kit.
 >
 > **[1:24](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/remote-management-settings?u=76281980&t=84)** The later lets you customize the remote connection experience by creating predefined connections to remote servers.
 >
@@ -3723,13 +3693,13 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/remote-management-settings?u=76281980&t=261)** The point I'd like to make here is that there are several areas in the local group policy editor where you can configure exactly how you'd like remote sessions to be handled, and that you're in charge of all aspects of the types of connections you'll allow.
 >
-> **[4:35](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/remote-management-settings?u=76281980&t=275)** That about covers all the places you can enable the options necessary to work with computers remotely, short of a few PowerShell commands I'll introduce in a later movie.
+> **[4:35](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/remote-management-settings?u=76281980&t=275)** That about covers all the places you can enable the options necessary to work with computers remotely, short of a few [[Powershell]] commands I'll introduce in a later movie.
 >
 > **[4:44](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/remote-management-settings?u=76281980&t=284)** For now though, this is a good start and should help you start to resolve any problems you've had thus far when working with remote connections.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), management (3), [[Search]] (2), [[Windows 10]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Windows 10]] (2), [[Microsoft]] (1), [[Powershell]] (1)
 > **UI Navigation:** scroll down (4), select the (1), open the (1), navigate to (1), double-click (1)
 > **Prerequisites:** configure (5), you'll need (2)
 > **CLI Commands:** find (3), make (2)
@@ -3738,12 +3708,11 @@ created: 2026-05-02
 > **Analogies:** for instance (2)
 > **Cross-References:** in the last (1)
 
-#### Remote management with PowerShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/remote-management-with-powershell?u=76281980)
+#### [Remote management with PowerShell](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/remote-management-with-powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/remote-management-with-powershell?u=76281980&t=0)** - You can use Windows PowerShell to perform remote management and remote connection tasks using commandlets and scripts.
+> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/remote-management-with-powershell?u=76281980&t=0)** - You can use [[Windows]] [[Powershell]] to perform remote management and remote connection tasks using commandlets and scripts.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/remote-management-with-powershell?u=76281980&t=8)** This is often a faster way to manage computers, if you have quite a few to configure.
 >
@@ -3769,7 +3738,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), [[Powershell]] (4), [[Windows]] (3), prompt (2)
+> **Frameworks & Libraries:** [[Powershell]] (4), [[Windows]] (3)
 > **Tools:** powershell (4), command prompt (2)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -3777,8 +3746,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - you (1)
 
-#### Configure and use Remote Assistance
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-assistance?u=76281980)
+#### [Configure and use Remote Assistance](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-assistance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3804,7 +3772,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-assistance?u=76281980&t=68)** And you can limit the maximum time and invitation to offer or to get help can remain valid.
 >
-> **[1:15](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-assistance?u=76281980&t=75)** The last option lets you configure it so that invitations are only valid for computers running Windows Vista or later.
+> **[1:15](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-assistance?u=76281980&t=75)** The last option lets you configure it so that invitations are only valid for computers running [[Windows]] Vista or later.
 >
 > **[1:22](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-assistance?u=76281980&t=82)** Once you know that remote assistance is enabled, you can ask for or offer remote assistance to a user.
 >
@@ -3874,19 +3842,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), application (1), [[Windows]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Prerequisites:** make sure you have (1), configure (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Configure and use Remote Desktop
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-desktop?u=76281980)
+#### [Configure and use Remote Desktop](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-desktop?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-desktop?u=76281980&t=0)** - [Instructor] Enterprises offer various ways for remote users to access company resources, including through VPNs and virtual machines, but sometimes a remote user needs to access their personal workstation directly, even though they are physically away from it.
+> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-desktop?u=76281980&t=0)** - [Instructor] Enterprises offer various ways for remote users to access company resources, including through VPNs and [[Virtual Machines]], but sometimes a remote user needs to access their personal workstation directly, even though they are physically away from it.
 >
 > **[0:15](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-desktop?u=76281980&t=15)** Administrators have their own reasons to access a user's workstation in this manner, too.
 >
@@ -3948,7 +3915,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-desktop?u=76281980&t=158)** I'll type gpedit.msc to get there, and I'll click it in the results.
 >
-> **[2:46](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-desktop?u=76281980&t=166)** Let's navigate to Computer Configuration, Administrative Templates, Windows Components, and let's scroll down to Remote.
+> **[2:46](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-desktop?u=76281980&t=166)** Let's navigate to Computer Configuration, Administrative Templates, [[Windows]] Components, and let's scroll down to Remote.
 >
 > **[2:57](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-desktop?u=76281980&t=177)** Here is Remote Desktop Services.
 >
@@ -4003,8 +3970,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure and use Remote Assist
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-assist?u=76281980)
+#### [Configure and use Remote Assist](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-assist?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4012,7 +3978,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-assist?u=76281980&t=4)** It is a subscription service.
 >
-> **[0:06](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-assist?u=76281980&t=6)** This is not Remote Assistance, a feature in windows 10.
+> **[0:06](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-assist?u=76281980&t=6)** This is not Remote Assistance, a feature in [[Windows 10]].
 >
 > **[0:09](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-assist?u=76281980&t=9)** It's something completely new and different.
 >
@@ -4024,11 +3990,11 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-assist?u=76281980&t=35)** Field workers can use Dynamic 365 Remote Assist mobile.
 >
-> **[0:39](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-assist?u=76281980&t=39)** The mobile app works on iOS and Android.
+> **[0:39](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-assist?u=76281980&t=39)** The mobile app works on iOS and [[Android]].
 >
 > **[0:42](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-assist?u=76281980&t=42)** Field workers can share video, screenshots, and even annotate what they are working on.
 >
-> **[0:47](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-assist?u=76281980&t=47)** When combined with Microsoft's HoloLens 2 technology, users can work hands-on while still being able to see the expert.
+> **[0:47](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-assist?u=76281980&t=47)** When combined with [[Microsoft]]'s HoloLens 2 technology, users can work hands-on while still being able to see the expert.
 >
 > **[0:54](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-remote-assist?u=76281980&t=54)** HoloLens devices look like large work goggles right now but are likely to get smaller in the future.
 >
@@ -4036,24 +4002,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[Microsoft]] (2), [[Windows 10]] (1), application (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Windows 10]] (1), [[Android]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure and use Quick Assist
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-quick-assist?u=76281980)
+#### [Configure and use Quick Assist](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-quick-assist?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-quick-assist?u=76281980&t=0)** - [Instructor] Quick Assist is an app available in windows 10 that allows users to get assistance from another user.
+> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-quick-assist?u=76281980&t=0)** - [Instructor] Quick Assist is an app available in [[Windows 10]] that allows users to get assistance from another user.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-quick-assist?u=76281980&t=7)** It's a substitute for the old remote assistance program and is more streamlined and user-friendly.
 >
 > **[0:12](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-quick-assist?u=76281980&t=12)** To open Quick Assist, simply type it at the search bar and click it in the results, and pull this to the middle.
 >
-> **[0:22](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-quick-assist?u=76281980&t=22)** Notice it says that Microsoft Quick Assist enables two people to a share computer over a remote connection so that one person can help another solve problems.
+> **[0:22](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-quick-assist?u=76281980&t=22)** Notice it says that [[Microsoft]] Quick Assist enables two people to a share computer over a remote connection so that one person can help another solve problems.
 >
 > **[0:32](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-and-use-quick-assist?u=76281980&t=32)** When you're ready to give assistance, simply click assist another person, you'll sign in with your Microsoft account first, Once you've done that you'll get a code.
 >
@@ -4075,16 +4040,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), [[Windows 10]] (1), [[Search]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Windows 10]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure Windows Remote Management
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-remote-management?u=76281980)
+#### [Configure Windows Remote Management](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-remote-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-remote-management?u=76281980&t=0)** - [Narrator] Windows Remote Management, referred to as WinRM, is part of Windows Hardware Management technology.
+> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-remote-management?u=76281980&t=0)** - [Narrator] [[Windows]] Remote Management, referred to as WinRM, is part of Windows [[Hardware]] Management technology.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-remote-management?u=76281980&t=8)** WinRM allows administrators to manage server hardware, both locally and remotely from a command line.
 >
@@ -4102,7 +4066,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-remote-management?u=76281980&t=49)** WS-Management protocol is a firewall-friendly protocol that allows systems to communicate effectively, even if they use different vendors.
 >
-> **[0:58](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-remote-management?u=76281980&t=58)** WinRM is installed, and the WinRM service will start automatically on Windows Server 2008 and beyond.
+> **[0:58](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-remote-management?u=76281980&t=58)** WinRM is installed, and the WinRM service will start automatically on [[Windows Server]] 2008 and beyond.
 >
 > **[1:04](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-remote-management?u=76281980&t=64)** By default, though, no WinRM listeners are configured.
 >
@@ -4110,7 +4074,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-remote-management?u=76281980&t=76)** To use WinRM then, once a server is set up, you must configure computers to be listeners.
 >
-> **[1:22](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-remote-management?u=76281980&t=82)** To install and configure WinRM with default settings and create an HTTP listener from a client machine like Windows 10, open an elevated command prompt, then type winrm quickconfig at a command prompt.
+> **[1:22](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-remote-management?u=76281980&t=82)** To install and configure WinRM with default settings and create an HTTP listener from a client machine like [[Windows 10]], open an elevated command prompt, then type winrm quickconfig at a command prompt.
 >
 > **[1:43](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-remote-management?u=76281980&t=103)** And press Enter.
 >
@@ -4156,13 +4120,13 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-remote-management?u=76281980&t=242)** In addition, the administrator must be skilled in creating the required scripts.
 >
-> **[4:07](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-remote-management?u=76281980&t=247)** You can learn more about WinRM here at LinkedIn Learning.
+> **[4:07](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-remote-management?u=76281980&t=247)** You can learn more about WinRM here at [[LinkedIn]] Learning.
 >
 > **[4:10](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-remote-management?u=76281980&t=250)** Just search for WinRM.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (7), [[Windows]] (3), [[Hardware]] (3), prompt (2), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Hardware]] (3), [[Windows Server]] (1), [[Windows 10]] (1), [[LinkedIn]] (1)
 > **Env Vars:** wmi (3), http (3), api (1)
 > **Prerequisites:** set up (3), configure (2), install (1)
 > **Tools:** command line (3), command prompt (2)
@@ -4171,16 +4135,15 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Warnings:** note that (1)
 
-#### Configure Windows Admin Center
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-admin-center?u=76281980)
+#### [Configure Windows Admin Center](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-admin-center?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-admin-center?u=76281980&t=0)** - [Instructor] The Windows Admin Center allows administrators to manage a network and its infrastructure from a single console from almost anywhere.
+> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-admin-center?u=76281980&t=0)** - [Instructor] The [[Windows]] Admin Center allows administrators to manage a network and its infrastructure from a single console from almost anywhere.
 >
-> **[0:09](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-admin-center?u=76281980&t=9)** For now, it's a free download from Microsoft.
+> **[0:09](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-admin-center?u=76281980&t=9)** For now, it's a free download from [[Microsoft]].
 >
-> **[0:13](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-admin-center?u=76281980&t=13)** You can install the center on server machines, as well as clients, I've downloaded it onto my Windows 10 computer.
+> **[0:13](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-admin-center?u=76281980&t=13)** You can install the center on server machines, as well as clients, I've downloaded it onto my [[Windows 10]] computer.
 >
 > **[0:20](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-admin-center?u=76281980&t=20)** If you'd like to try it locate the Microsoft Evaluation Center, and then scroll down to Windows Admin Center.
 >
@@ -4212,7 +4175,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-admin-center?u=76281980&t=111)** As you can see here, the console works and runs in a web browser.
 >
-> **[1:55](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-admin-center?u=76281980&t=115)** It supports Windows Server 2008 R2, and up as well as Windows clients.
+> **[1:55](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-admin-center?u=76281980&t=115)** It supports [[Windows Server]] 2008 R2, and up as well as Windows clients.
 >
 > **[2:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-admin-center?u=76281980&t=120)** In essence, it's the evolution of the old Microsoft Management Console, if you're familiar with that.
 >
@@ -4238,7 +4201,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-admin-center?u=76281980&t=164)** I can easily opt to remove that app from this computer.
 >
-> **[2:49](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-admin-center?u=76281980&t=169)** The next item down is Azure Monitor.
+> **[2:49](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-admin-center?u=76281980&t=169)** The next item down is [[Microsoft Azure|Azure]] Monitor.
 >
 > **[2:52](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/configure-windows-admin-center?u=76281980&t=172)** If you use Azure and you would like to set up monitoring and alerts, this is where you'll do it.
 >
@@ -4284,7 +4247,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (8), [[Microsoft]] (4), [[Microsoft Azure|Azure]] (3), web (2), management (2)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Microsoft]] (4), [[Microsoft Azure|Azure]] (3), [[Windows 10]] (1), [[Windows Server]] (1)
 > **UI Navigation:** scroll down (2), go to (1), open the (1)
 > **Prerequisites:** install (1), you'll need (1), set up (1)
 > **Code Identifiers:** itunes (2)
@@ -4298,12 +4261,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to go next
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/where-to-go-next-20233542?u=76281980)
+#### [Where to go next](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/where-to-go-next-20233542?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/where-to-go-next-20233542?u=76281980&t=0)** - I hope you enjoyed this course on configuring and supporting core services for Windows 10.
+> **[0:00](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/where-to-go-next-20233542?u=76281980&t=0)** - I hope you enjoyed this course on configuring and supporting core services for [[Windows 10]].
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-configure-and-support-core-services-14431120/where-to-go-next-20233542?u=76281980&t=5)** It's been a pleasure having you here.
 >
@@ -4313,7 +4275,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (4), data (1), next (1)
+> **Frameworks & Libraries:** [[Windows 10]] (4)
 > **Speakers:** - i (1)
 
 

@@ -20,7 +20,7 @@ tags:
   - topic/data-science
   - topic/cloud-computing
   - topic/network-and-system-administration
-course_count: 122
+course_count: 123
 created: 2026-05-02
 ---
 
@@ -28,7 +28,7 @@ created: 2026-05-02
 
 # Microsoft SQL Server
 
-> **Type:** Concept | **Courses:** 122 | **Topics:** [[Software Development]], [[Database Management]], [[Data Science]], [[Cloud Computing]], [[Network and System Administration]]
+> **Type:** Concept | **Courses:** 123 | **Topics:** [[Software Development]], [[Database Management]], [[Data Science]], [[Cloud Computing]], [[Network and System Administration]]
 
 ## Courses
 
@@ -43,7 +43,7 @@ created: 2026-05-02
 9. [[Querying Microsoft SQL Server 2022]] — 73 mentions
 10. [[Database Foundations- Administration]] — 64 mentions
 
-> [!note]- See all 122 courses
+> [!note]- See all 123 courses
 > 11. [[Program Databases with Transact-SQL]] — 56 mentions
 > 12. [[Database Foundations Database Management]] — 51 mentions
 > 13. [[Automating SQL Server with dbatools]] — 49 mentions
@@ -57,7 +57,7 @@ created: 2026-05-02
 > 21. [[Planning for Microsoft Entra ID]] — 20 mentions
 > 22. [[Introduction to Data Warehouses]] — 19 mentions
 > 23. [[Azure Essential Training for Developers]] — 17 mentions
-> 24. [[Migrating to Azure]] — 15 mentions
+> 24. [[Migrating to Azure]] — 16 mentions
 > 25. [[ASP.NET Core- Razor Pages]] — 15 mentions
 > 26. [[Azure Understanding The Big Picture]] — 13 mentions
 > 27. [[Advanced SQL- Logical Query Processing, Part 1]] — 13 mentions
@@ -139,23 +139,24 @@ created: 2026-05-02
 > 103. [[Tableau Essential Training]] — 1 mentions
 > 104. [[Introduction To Business Analytics]] — 1 mentions
 > 105. [[Azure Administration Essential Training]] — 1 mentions
-> 106. [[Windows Server 2022 Essential Training]] — 1 mentions
-> 107. [[SQL for Finance Professionals]] — 1 mentions
-> 108. [[Data Versioning, Lineage, and Quality Monitoring for AI]] — 1 mentions
-> 109. [[Python in Excel for Financial Professionals]] — 1 mentions
-> 110. [[From Excel to SQL]] — 1 mentions
-> 111. [[Data Wrangling in R]] — 1 mentions
-> 112. [[Intermediate Sql For Data Scientists]] — 1 mentions
-> 113. [[Power BI Data Modeling with DAX]] — 1 mentions
-> 114. [[Learning MongoDB]] — 1 mentions
-> 115. [[IT Service Desk- Monitoring and Metrics Fundamentals]] — 1 mentions
-> 116. [[Tableau and R for Analytics Projects]] — 1 mentions
-> 117. [[Choosing A Cloud Platform For Developers Aws Azure And Gcp]] — 1 mentions
-> 118. [[Advanced SQL – Window Functions]] — 1 mentions
-> 119. [[Advanced SQL for Query Tuning and Performance Optimization]] — 1 mentions
-> 120. [[Practice It- SQL Joins]] — 1 mentions
-> 121. [[SQL for Testers]] — 1 mentions
-> 122. [[Microsoft Entra ID Fundamentals]] — 1 mentions
+> 106. [[Software Design- From Requirements to Release]] — 1 mentions
+> 107. [[Windows Server 2022 Essential Training]] — 1 mentions
+> 108. [[SQL for Finance Professionals]] — 1 mentions
+> 109. [[Data Versioning, Lineage, and Quality Monitoring for AI]] — 1 mentions
+> 110. [[Python in Excel for Financial Professionals]] — 1 mentions
+> 111. [[From Excel to SQL]] — 1 mentions
+> 112. [[Data Wrangling in R]] — 1 mentions
+> 113. [[Intermediate Sql For Data Scientists]] — 1 mentions
+> 114. [[Power BI Data Modeling with DAX]] — 1 mentions
+> 115. [[Learning MongoDB]] — 1 mentions
+> 116. [[IT Service Desk- Monitoring and Metrics Fundamentals]] — 1 mentions
+> 117. [[Tableau and R for Analytics Projects]] — 1 mentions
+> 118. [[Choosing A Cloud Platform For Developers Aws Azure And Gcp]] — 1 mentions
+> 119. [[Advanced SQL – Window Functions]] — 1 mentions
+> 120. [[Advanced SQL for Query Tuning and Performance Optimization]] — 1 mentions
+> 121. [[Practice It- SQL Joins]] — 1 mentions
+> 122. [[SQL for Testers]] — 1 mentions
+> 123. [[Microsoft Entra ID Fundamentals]] — 1 mentions
 
 ## Learning Paths
 

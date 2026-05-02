@@ -87,14 +87,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Standing out as an API tester
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/stand-out-as-an-api-tester?u=76281980)
+#### [Standing out as an API tester](https://www.linkedin.com/learning/api-testing-foundations-22763217/stand-out-as-an-api-tester?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/api-testing-foundations-22763217/stand-out-as-an-api-tester?u=76281980&t=0)** - [Narrator] Many software testers can sense that there's change afoot in the software testing world.
+> **[0:00](https://www.linkedin.com/learning/api-testing-foundations-22763217/stand-out-as-an-api-tester?u=76281980&t=0)** - [Narrator] Many software testers can sense that there's change afoot in the [[Software Testing]] world.
 >
-> **[0:05](https://www.linkedin.com/learning/api-testing-foundations-22763217/stand-out-as-an-api-tester?u=76281980&t=5)** The ability to quickly understand and analyze an API will be a key skillset for testers to have going forward In this course, I show you how to use APIs to improve the testing that you already do and also demonstrate the basic foundations that underlie effective API testing.
+> **[0:05](https://www.linkedin.com/learning/api-testing-foundations-22763217/stand-out-as-an-api-tester?u=76281980&t=5)** The ability to quickly understand and analyze an API will be a key skillset for testers to have going forward In this course, I show you how to use APIs to improve the testing that you already do and also demonstrate the basic foundations that underlie effective [[API Testing]].
 >
 > **[0:20](https://www.linkedin.com/learning/api-testing-foundations-22763217/stand-out-as-an-api-tester?u=76281980&t=20)** The best way to learn is by doing, and so I provide you with hands-on challenges that help you put into practice the ideas and concepts that you're learning.
 >
@@ -106,7 +105,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), [[Software Testing]] (1)
+> **Frameworks & Libraries:** [[API Testing]] (2), [[Software Testing]] (1)
 > **Env Vars:** api (3)
 > **Speakers:** - [narrator] (1)
 
@@ -115,12 +114,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Calling an API
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/calling-an-api?u=76281980)
+#### [Calling an API](https://www.linkedin.com/learning/api-testing-foundations-22763217/calling-an-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/api-testing-foundations-22763217/calling-an-api?u=76281980&t=0)** - [Instructor] API testing is super fun.
+> **[0:00](https://www.linkedin.com/learning/api-testing-foundations-22763217/calling-an-api?u=76281980&t=0)** - [Instructor] [[API Testing]] is super fun.
 >
 > **[0:02](https://www.linkedin.com/learning/api-testing-foundations-22763217/calling-an-api?u=76281980&t=2)** We'll get into some of the theory of it soon, but I want to get you started with just enjoying some of the fun of it.
 >
@@ -150,9 +148,9 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/api-testing-foundations-22763217/calling-an-api?u=76281980&t=70)** So let's go back here and take another look at the documentation.
 >
-> **[1:14](https://www.linkedin.com/learning/api-testing-foundations-22763217/calling-an-api?u=76281980&t=74)** You can see that we have these different API response formats, and by default, the default response format here you can see is actually HTML.
+> **[1:14](https://www.linkedin.com/learning/api-testing-foundations-22763217/calling-an-api?u=76281980&t=74)** You can see that we have these different API response formats, and by default, the default response format here you can see is actually [[HTML]].
 >
-> **[1:25](https://www.linkedin.com/learning/api-testing-foundations-22763217/calling-an-api?u=76281980&t=85)** Usually when we think of a restful API, which is what we will be discussing in this course, we think of JSON responses.
+> **[1:25](https://www.linkedin.com/learning/api-testing-foundations-22763217/calling-an-api?u=76281980&t=85)** Usually when we think of a restful API, which is what we will be discussing in this course, we think of [[JSON]] responses.
 >
 > **[1:32](https://www.linkedin.com/learning/api-testing-foundations-22763217/calling-an-api?u=76281980&t=92)** And you can see that we can get back a JSON response here by setting the accept header to application/json.
 >
@@ -182,7 +180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (9), [[JSON]] (6), application (2), [[HTML]] (1), prompt (1)
+> **Frameworks & Libraries:** [[JSON]] (6), [[API Testing]] (1), [[HTML]] (1)
 > **Env Vars:** api (9), json (4), url (2), curl (2), http (1)
 > **UI Navigation:** go to (2), navigate to (1), scroll down (1)
 > **Tools:** command line (1), terminal (1), command prompt (1)
@@ -191,8 +189,7 @@ created: 2026-05-02
 > **API Endpoints:** get  (1)
 > **Definitions:** is a  (1)
 
-#### Your first tool: Postman
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/your-first-tool-postman?u=76281980)
+#### [Your first tool: Postman](https://www.linkedin.com/learning/api-testing-foundations-22763217/your-first-tool-postman?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -222,7 +219,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3)
 > **Tools:** postman (8)
 > **URLs:** [postman.com](https://postman.com) (1), [postman.co](https://postman.co) (1)
 > **Prerequisites:** install (2)
@@ -230,8 +226,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to web services
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/introduction-to-web-services?u=76281980)
+#### [Introduction to web services](https://www.linkedin.com/learning/api-testing-foundations-22763217/introduction-to-web-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -247,7 +242,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/api-testing-foundations-22763217/introduction-to-web-services?u=76281980&t=20)** In order to understand that, let's talk for a minute about web services.
 >
-> **[0:24](https://www.linkedin.com/learning/api-testing-foundations-22763217/introduction-to-web-services?u=76281980&t=24)** You may have heard about web services or service oriented architecture or things like microservices, but what exactly are these things?
+> **[0:24](https://www.linkedin.com/learning/api-testing-foundations-22763217/introduction-to-web-services?u=76281980&t=24)** You may have heard about web services or service oriented architecture or things like [[Microservices]], but what exactly are these things?
 >
 > **[0:31](https://www.linkedin.com/learning/api-testing-foundations-22763217/introduction-to-web-services?u=76281980&t=31)** It can be hard to pin down terms like this, but for the purposes of this course, let's define web services as a function that we can access over the web.
 >
@@ -303,23 +298,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), api (4), traffic (2), [[Microservices]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microservices]] (1)
 > **Env Vars:** api (4)
 > **Definitions:** is an  (2), is a  (1), means that (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/types-of-apis?u=76281980)
+#### [Types of APIs](https://www.linkedin.com/learning/api-testing-foundations-22763217/types-of-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/api-testing-foundations-22763217/types-of-apis?u=76281980&t=0)** - [Instructor] A very common way of creating APIs is called REST.
+> **[0:00](https://www.linkedin.com/learning/api-testing-foundations-22763217/types-of-apis?u=76281980&t=0)** - [Instructor] A very common way of creating APIs is called [[Representational State Transfer (REST)|REST]].
 >
 > **[0:04](https://www.linkedin.com/learning/api-testing-foundations-22763217/types-of-apis?u=76281980&t=4)** When you make a REST API, you're following a set of standards laid out in the doctoral thesis of a guy named Roy Fielding.
 >
-> **[0:10](https://www.linkedin.com/learning/api-testing-foundations-22763217/types-of-apis?u=76281980&t=10)** These are a set of principles that help make API development consistent and accessible.
+> **[0:10](https://www.linkedin.com/learning/api-testing-foundations-22763217/types-of-apis?u=76281980&t=10)** These are a set of principles that help make [[API Development]] consistent and accessible.
 >
 > **[0:15](https://www.linkedin.com/learning/api-testing-foundations-22763217/types-of-apis?u=76281980&t=15)** So REST is an acronym for REpresentation State Transfer and it's a way to create a simple and consistent interface for interacting with the service.
 >
@@ -367,7 +361,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/api-testing-foundations-22763217/types-of-apis?u=76281980&t=162)** So I'll switch this to POST, and then I can send this request and get back a XML list of all the different countries that this service has.
 >
-> **[2:54](https://www.linkedin.com/learning/api-testing-foundations-22763217/types-of-apis?u=76281980&t=174)** And one last type of API that I want to mention is GraphQL.
+> **[2:54](https://www.linkedin.com/learning/api-testing-foundations-22763217/types-of-apis?u=76281980&t=174)** And one last type of API that I want to mention is [[GraphQL]].
 >
 > **[2:58](https://www.linkedin.com/learning/api-testing-foundations-22763217/types-of-apis?u=76281980&t=178)** So the QL in this name stands for Query Language and it allows you to access data on a service in a more fine-grained manner than you can with a REST or a SOAP API.
 >
@@ -409,7 +403,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (13), [[Representational State Transfer (REST)|Rest]] (5), [[GraphQL]] (5), web (1), application (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (5), [[GraphQL]] (5), [[API Development]] (1)
 > **Env Vars:** api (13), soap (11), rest (5), xml (3), url (2)
 > **CLI Commands:** make (5)
 > **Definitions:** stands for (2), is called (1), is an  (1)
@@ -418,12 +412,11 @@ created: 2026-05-02
 > **API Endpoints:** post  (1)
 > **Versions:** 1.2 (1)
 
-#### Risks of using services and APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/risks-of-using-services-and-apis?u=76281980)
+#### [Risks of using services and APIs](https://www.linkedin.com/learning/api-testing-foundations-22763217/risks-of-using-services-and-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/api-testing-foundations-22763217/risks-of-using-services-and-apis?u=76281980&t=0)** - [Presenter] One of the main goals of testing is to reduce risk, and API testing is no different.
+> **[0:00](https://www.linkedin.com/learning/api-testing-foundations-22763217/risks-of-using-services-and-apis?u=76281980&t=0)** - [Presenter] One of the main goals of testing is to reduce risk, and [[API Testing]] is no different.
 >
 > **[0:05](https://www.linkedin.com/learning/api-testing-foundations-22763217/risks-of-using-services-and-apis?u=76281980&t=5)** But what kind of risks might an API present?
 >
@@ -505,7 +498,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/api-testing-foundations-22763217/risks-of-using-services-and-apis?u=76281980&t=224)** Since it's fairly easy to program scripts that interact with APIs, they form a very common attack vector when people are trying to attack a site.
 >
-> **[3:53](https://www.linkedin.com/learning/api-testing-foundations-22763217/risks-of-using-services-and-apis?u=76281980&t=233)** This course isn't about performance or security testing, but even if you aren't an expert in these things, it's still helpful to think about them and to be aware of some of the risks that come with them.
+> **[3:53](https://www.linkedin.com/learning/api-testing-foundations-22763217/risks-of-using-services-and-apis?u=76281980&t=233)** This course isn't about performance or [[Security Testing]], but even if you aren't an expert in these things, it's still helpful to think about them and to be aware of some of the risks that come with them.
 >
 > **[4:04](https://www.linkedin.com/learning/api-testing-foundations-22763217/risks-of-using-services-and-apis?u=76281980&t=244)** Testing is about mitigating risks.
 >
@@ -513,7 +506,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (17), [[Security]] (2), data (1), web (1)
+> **Frameworks & Libraries:** [[API Testing]] (4), [[Security Testing]] (1)
 > **Env Vars:** api (17)
 > **Definitions:** is an  (2), means that (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -527,8 +520,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Install and set up API challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/install-and-set-up-api-challenges?u=76281980)
+#### [Install and set up API challenges](https://www.linkedin.com/learning/api-testing-foundations-22763217/install-and-set-up-api-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -540,15 +532,15 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/api-testing-foundations-22763217/install-and-set-up-api-challenges?u=76281980&t=20)** I'll use it to show some worked examples of the different theories and concepts that we learn in this course, and I'll also use it for some hands-on challenges that I want you to do so that you can cement the theory with practice.
 >
-> **[0:31](https://www.linkedin.com/learning/api-testing-foundations-22763217/install-and-set-up-api-challenges?u=76281980&t=31)** This application is written in Python, and if you have Python installed you can run it locally.
+> **[0:31](https://www.linkedin.com/learning/api-testing-foundations-22763217/install-and-set-up-api-challenges?u=76281980&t=31)** This application is written in [[Python (Programming Language)|Python]], and if you have Python installed you can run it locally.
 >
-> **[0:36](https://www.linkedin.com/learning/api-testing-foundations-22763217/install-and-set-up-api-challenges?u=76281980&t=36)** There are instructions for how to do this in the README on GitHub, which you can follow if you're interested.
+> **[0:36](https://www.linkedin.com/learning/api-testing-foundations-22763217/install-and-set-up-api-challenges?u=76281980&t=36)** There are instructions for how to do this in the README on [[GitHub]], which you can follow if you're interested.
 >
 > **[0:42](https://www.linkedin.com/learning/api-testing-foundations-22763217/install-and-set-up-api-challenges?u=76281980&t=42)** However, if you're not interested in doing that, there's a simpler way to create a copy of the site that you can use.
 >
 > **[0:48](https://www.linkedin.com/learning/api-testing-foundations-22763217/install-and-set-up-api-challenges?u=76281980&t=48)** So you'll need a GitHub account for this, but you can easily create one for free.
 >
-> **[0:51](https://www.linkedin.com/learning/api-testing-foundations-22763217/install-and-set-up-api-challenges?u=76281980&t=51)** Once you've done that, you can come into this repo and you can click on Code here and go to Codespaces and create a new codespace.
+> **[0:51](https://www.linkedin.com/learning/api-testing-foundations-22763217/install-and-set-up-api-challenges?u=76281980&t=51)** Once you've done that, you can come into this repo and you can click on Code here and go to [[Codespaces]] and create a new codespace.
 >
 > **[1:01](https://www.linkedin.com/learning/api-testing-foundations-22763217/install-and-set-up-api-challenges?u=76281980&t=61)** Now, it'll take a few minutes to open and install everything, and probably the first time that you do this, you'll need to authorize it to have access, which you can safely do.
 >
@@ -602,7 +594,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[GitHub]] (3), [[Python (Programming Language)|Python]] (2), [[Codespaces]] (1), hit (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Python (Programming Language)|Python]] (2), [[Codespaces]] (1)
 > **CLI Commands:** make (6), python (2)
 > **UI Navigation:** click on (5), go to (1), right-click (1)
 > **Tools:** github (3), terminal (2)
@@ -611,8 +603,7 @@ created: 2026-05-02
 > **Warnings:** note that (2), warning (1)
 > **Documentation:** the readme (1)
 
-#### Exploring an API
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/exploring-an-api?u=76281980)
+#### [Exploring an API](https://www.linkedin.com/learning/api-testing-foundations-22763217/exploring-an-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -638,7 +629,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/api-testing-foundations-22763217/exploring-an-api?u=76281980&t=52)** They're sent over the network.
 >
-> **[0:53](https://www.linkedin.com/learning/api-testing-foundations-22763217/exploring-an-api?u=76281980&t=53)** And then I've also filtered it down here to just these fetch XHR requests because I'm not really interested in JavaScript and CSS and some of these other types of requests.
+> **[0:53](https://www.linkedin.com/learning/api-testing-foundations-22763217/exploring-an-api?u=76281980&t=53)** And then I've also filtered it down here to just these [[Fetch]] XHR requests because I'm not really interested in [[JavaScript]] and CSS and some of these other types of requests.
 >
 > **[1:02](https://www.linkedin.com/learning/api-testing-foundations-22763217/exploring-an-api?u=76281980&t=62)** I just want to see these fetch requests that an API sends.
 >
@@ -678,7 +669,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/api-testing-foundations-22763217/exploring-an-api?u=76281980&t=143)** It's a little easier to copy.
 >
-> **[2:25](https://www.linkedin.com/learning/api-testing-foundations-22763217/exploring-an-api?u=76281980&t=145)** So I'll copy that and return to Postman and I'll select Raw and then JSON because this is JSON data.
+> **[2:25](https://www.linkedin.com/learning/api-testing-foundations-22763217/exploring-an-api?u=76281980&t=145)** So I'll copy that and return to Postman and I'll select Raw and then [[JSON]] because this is JSON data.
 >
 > **[2:33](https://www.linkedin.com/learning/api-testing-foundations-22763217/exploring-an-api?u=76281980&t=153)** I'll paste it in here.
 >
@@ -742,7 +733,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), data (5), application (3), [[Fetch]] (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Fetch]] (2), [[JSON]] (2), [[JavaScript]] (1)
 > **Env Vars:** api (7), url (3), post (3), json (2), f12 (1)
 > **UI Navigation:** click on (3), go to (2)
 > **API Endpoints:** post  (2), get
@@ -752,8 +743,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** later in (1)
 
-#### Challenge: API discovery
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/challenge-api-discovery?u=76281980)
+#### [Challenge: API discovery](https://www.linkedin.com/learning/api-testing-foundations-22763217/challenge-api-discovery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -763,7 +753,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/api-testing-foundations-22763217/challenge-api-discovery?u=76281980&t=8)** I say this to absolve myself in case you find any bugs in my software but also because I want to encourage you to have confidence as a tester.
 >
-> **[0:15](https://www.linkedin.com/learning/api-testing-foundations-22763217/challenge-api-discovery?u=76281980&t=15)** My goal with this course is for you to learn how APIs work and how you can interact with them, but this course is about API testing, and so I also want to teach testing skills along the way.
+> **[0:15](https://www.linkedin.com/learning/api-testing-foundations-22763217/challenge-api-discovery?u=76281980&t=15)** My goal with this course is for you to learn how APIs work and how you can interact with them, but this course is about [[API Testing]], and so I also want to teach testing skills along the way.
 >
 > **[0:26](https://www.linkedin.com/learning/api-testing-foundations-22763217/challenge-api-discovery?u=76281980&t=26)** And, of course, an important part of testing is being able to design tests.
 >
@@ -801,7 +791,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (10), application (2), next (2)
+> **Frameworks & Libraries:** [[API Testing]] (3)
 > **Env Vars:** api (10)
 > **CLI Commands:** find (4)
 > **Cross-References:** in the next (2), previous video (1)
@@ -810,8 +800,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: API discovery
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/solution-api-discovery?u=76281980)
+#### [Solution: API discovery](https://www.linkedin.com/learning/api-testing-foundations-22763217/solution-api-discovery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -835,7 +824,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/api-testing-foundations-22763217/solution-api-discovery?u=76281980&t=49)** You can also see up here that it requires the data to be passed in this X WWW form URL encoded format.
 >
-> **[0:59](https://www.linkedin.com/learning/api-testing-foundations-22763217/solution-api-discovery?u=76281980&t=59)** Up until now all the endpoints that we've used have required JSON data.
+> **[0:59](https://www.linkedin.com/learning/api-testing-foundations-22763217/solution-api-discovery?u=76281980&t=59)** Up until now all the endpoints that we've used have required [[JSON]] data.
 >
 > **[1:03](https://www.linkedin.com/learning/api-testing-foundations-22763217/solution-api-discovery?u=76281980&t=63)** So let's take a quick look at how to call something like this in Postman.
 >
@@ -901,7 +890,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/api-testing-foundations-22763217/solution-api-discovery?u=76281980&t=212)** So that's good.
 >
-> **[3:34](https://www.linkedin.com/learning/api-testing-foundations-22763217/solution-api-discovery?u=76281980&t=214)** Now, the rest of the documented endpoint should have been pretty straightforward to understand but I wonder if there's any undocumented endpoints?
+> **[3:34](https://www.linkedin.com/learning/api-testing-foundations-22763217/solution-api-discovery?u=76281980&t=214)** Now, the [[Representational State Transfer (REST)|rest]] of the documented endpoint should have been pretty straightforward to understand but I wonder if there's any undocumented endpoints?
 >
 > **[3:42](https://www.linkedin.com/learning/api-testing-foundations-22763217/solution-api-discovery?u=76281980&t=222)** So let's go back to the web app and I'll bring up the dev tools by hitting F12.
 >
@@ -939,7 +928,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), application (2), api (1), [[JSON]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** url (3), api (1), www (1), json (1), f12 (1)
 > **Documentation:** the documentation (4)
 > **CLI Commands:** find (1), make (1)
@@ -953,8 +942,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of authorization and authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/overview-of-authorization-and-authentication?u=76281980)
+#### [Overview of authorization and authentication](https://www.linkedin.com/learning/api-testing-foundations-22763217/overview-of-authorization-and-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1012,7 +1000,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), api (3), next (1)
 > **Analogies:** picture (3), for example (1)
 > **Env Vars:** api (3)
 > **CLI Commands:** make (2)
@@ -1020,8 +1007,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [dave] (1)
 
-#### Basic auth in API calls
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/basic-auth-in-api-calls?u=76281980)
+#### [Basic auth in API calls](https://www.linkedin.com/learning/api-testing-foundations-22763217/basic-auth-in-api-calls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1049,7 +1035,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/api-testing-foundations-22763217/basic-auth-in-api-calls?u=76281980&t=58)** And if an API is using basic auth, it needs to send that information to the server via this authorization header.
 >
-> **[1:04](https://www.linkedin.com/learning/api-testing-foundations-22763217/basic-auth-in-api-calls?u=76281980&t=64)** So it puts this word basic at the start.
+> **[1:04](https://www.linkedin.com/learning/api-testing-foundations-22763217/basic-auth-in-api-calls?u=76281980&t=64)** So it puts this [[Microsoft Word|word]] basic at the start.
 >
 > **[1:07](https://www.linkedin.com/learning/api-testing-foundations-22763217/basic-auth-in-api-calls?u=76281980&t=67)** And it's a way of saying to the server, "Hey, this is the basic auth spec "that you're going to need to use "to decode this information."
 >
@@ -1109,7 +1095,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), data (2), hit (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Tools:** postman (10)
 > **Env Vars:** api (4), url (3)
 > **CLI Commands:** make (2)
@@ -1118,8 +1104,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)
 
-#### Using authorization tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/using-authorization-tokens?u=76281980)
+#### [Using authorization tokens](https://www.linkedin.com/learning/api-testing-foundations-22763217/using-authorization-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1127,13 +1112,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/api-testing-foundations-22763217/using-authorization-tokens?u=76281980&t=4)** There are some downsides to that type of authentication though, and so it has become much more common for APIs to use some form of an authorization token instead.
 >
-> **[0:13](https://www.linkedin.com/learning/api-testing-foundations-22763217/using-authorization-tokens?u=76281980&t=13)** These tokens combine together both authentication and authorization.
+> **[0:13](https://www.linkedin.com/learning/api-testing-foundations-22763217/using-authorization-tokens?u=76281980&t=13)** These [[Tokens]] combine together both authentication and authorization.
 >
 > **[0:17](https://www.linkedin.com/learning/api-testing-foundations-22763217/using-authorization-tokens?u=76281980&t=17)** In essence, the server says, anyone who presents me with this token is allowed to do the things that this token has been set up to do.
 >
 > **[0:24](https://www.linkedin.com/learning/api-testing-foundations-22763217/using-authorization-tokens?u=76281980&t=24)** So, let's take a look at an example of this in practice.
 >
-> **[0:27](https://www.linkedin.com/learning/api-testing-foundations-22763217/using-authorization-tokens?u=76281980&t=27)** If I log into GitHub, I can go to the developer settings in my account, go to personal access tokens and generate a new token.
+> **[0:27](https://www.linkedin.com/learning/api-testing-foundations-22763217/using-authorization-tokens?u=76281980&t=27)** If I log into [[GitHub]], I can go to the developer settings in my account, go to personal access tokens and generate a new token.
 >
 > **[0:39](https://www.linkedin.com/learning/api-testing-foundations-22763217/using-authorization-tokens?u=76281980&t=39)** Now, this token can have an expiration for how long it's valid for, and then we can pick different endpoints and actions that this token should be allowed to use.
 >
@@ -1151,7 +1136,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/api-testing-foundations-22763217/using-authorization-tokens?u=76281980&t=104)** If you look on the header's tab of this, you can see that just like with the basic auth, Postman has automatically added an authorization header for us, and in this case, it prepends the token with bearer to let the server know that this is a bearer style token.
 >
-> **[2:00](https://www.linkedin.com/learning/api-testing-foundations-22763217/using-authorization-tokens?u=76281980&t=120)** Now, if I go to the body tab here and set the type to JSON, I can put in a JSON object here.
+> **[2:00](https://www.linkedin.com/learning/api-testing-foundations-22763217/using-authorization-tokens?u=76281980&t=120)** Now, if I go to the body tab here and set the type to [[JSON]], I can put in a JSON object here.
 >
 > **[2:12](https://www.linkedin.com/learning/api-testing-foundations-22763217/using-authorization-tokens?u=76281980&t=132)** Let's say name is test two, and then I'll change the type here to post.
 >
@@ -1169,7 +1154,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (3), api (2), [[GitHub]] (2), [[JSON]] (2), next (1)
+> **Frameworks & Libraries:** [[Tokens]] (3), [[GitHub]] (2), [[JSON]] (2)
 > **UI Navigation:** go to (4), scroll down (1)
 > **Env Vars:** api (2), json (2)
 > **Tools:** github (2), postman (2)
@@ -1178,24 +1163,23 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Analogies:** just like (1)
 
-#### Finding Bearer Tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/finding-bearer-tokens?u=76281980)
+#### [Finding Bearer Tokens](https://www.linkedin.com/learning/api-testing-foundations-22763217/finding-bearer-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/api-testing-foundations-22763217/finding-bearer-tokens?u=76281980&t=0)** - [Instructor] You've already seen some examples of how to use tokens in the previous video, but it kind of begs the question, how do you find them in the first place?
+> **[0:00](https://www.linkedin.com/learning/api-testing-foundations-22763217/finding-bearer-tokens?u=76281980&t=0)** - [Instructor] You've already seen some examples of how to use [[Tokens]] in the previous video, but it kind of begs the question, how do you find them in the first place?
 >
 > **[0:07](https://www.linkedin.com/learning/api-testing-foundations-22763217/finding-bearer-tokens?u=76281980&t=7)** Where do they come from?
 >
 > **[0:09](https://www.linkedin.com/learning/api-testing-foundations-22763217/finding-bearer-tokens?u=76281980&t=9)** The answer to that is, it depends.
 >
-> **[0:12](https://www.linkedin.com/learning/api-testing-foundations-22763217/finding-bearer-tokens?u=76281980&t=12)** As with most things in REST APIs, there are no hard and fast rules that every application must follow.
+> **[0:12](https://www.linkedin.com/learning/api-testing-foundations-22763217/finding-bearer-tokens?u=76281980&t=12)** As with most things in [[Representational State Transfer (REST)|REST]] APIs, there are no hard and fast rules that every application must follow.
 >
 > **[0:18](https://www.linkedin.com/learning/api-testing-foundations-22763217/finding-bearer-tokens?u=76281980&t=18)** There are, however, some general patterns that most applications use.
 >
 > **[0:21](https://www.linkedin.com/learning/api-testing-foundations-22763217/finding-bearer-tokens?u=76281980&t=21)** So let's look at some example APIs and see if we can come up with some strategies for finding API tokens.
 >
-> **[0:28](https://www.linkedin.com/learning/api-testing-foundations-22763217/finding-bearer-tokens?u=76281980&t=28)** We'll use this GitHub repo, which has a list of many different types of APIs and we're going to look at a few of the ones that use auth.
+> **[0:28](https://www.linkedin.com/learning/api-testing-foundations-22763217/finding-bearer-tokens?u=76281980&t=28)** We'll use this [[GitHub]] repo, which has a list of many different types of APIs and we're going to look at a few of the ones that use auth.
 >
 > **[0:35](https://www.linkedin.com/learning/api-testing-foundations-22763217/finding-bearer-tokens?u=76281980&t=35)** So I'll start with this IUCN list of threatened species.
 >
@@ -1277,7 +1261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (20), [[Tokens]] (6), [[Representational State Transfer (REST)|Rest]] (1), application (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (6), [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1)
 > **Env Vars:** api (19), rest (1), iucn (1), url (1)
 > **UI Navigation:** click on (4), go to (1)
 > **CLI Commands:** make (2), find (1), curl (1)
@@ -1286,14 +1270,13 @@ created: 2026-05-02
 > **Cross-References:** previous video (1), in the next (1)
 > **Tools:** github (1)
 
-#### Setting up OAuth
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/setting-up-oauth?u=76281980)
+#### [Setting up OAuth](https://www.linkedin.com/learning/api-testing-foundations-22763217/setting-up-oauth?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/api-testing-foundations-22763217/setting-up-oauth?u=76281980&t=0)** - [Instructor] Have you ever used the login with Google option when signing up for a site?
+> **[0:00](https://www.linkedin.com/learning/api-testing-foundations-22763217/setting-up-oauth?u=76281980&t=0)** - [Instructor] Have you ever used the login with [[Google]] option when signing up for a site?
 >
-> **[0:04](https://www.linkedin.com/learning/api-testing-foundations-22763217/setting-up-oauth?u=76281980&t=4)** Do you know that this uses API tokens?
+> **[0:04](https://www.linkedin.com/learning/api-testing-foundations-22763217/setting-up-oauth?u=76281980&t=4)** Do you know that this uses API [[Tokens]]?
 >
 > **[0:07](https://www.linkedin.com/learning/api-testing-foundations-22763217/setting-up-oauth?u=76281980&t=7)** It uses a very common auth workflow known as OAuth 2.0.
 >
@@ -1371,7 +1354,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (13), api (5), [[Google]] (1), [[Tokens]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Tokens]] (1)
 > **Env Vars:** url (6), api (5)
 > **Tools:** postman (5)
 > **Prerequisites:** set up (2), you'll need (1), make sure you have (1), configure (1)
@@ -1385,8 +1368,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing GET calls
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-get-calls?u=76281980)
+#### [Testing GET calls](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-get-calls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1478,7 +1460,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), [[Search]] (4), data (3)
 > **Env Vars:** api (5), url (2)
 > **Analogies:** for example (3), just like (1)
 > **CLI Commands:** find (2), make (1)
@@ -1486,9 +1467,9 @@ created: 2026-05-02
 > **Tools:** postman (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
+> **Speakers:** - [instructor] (1)
 
-#### Testing PUT calls
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-put-calls?u=76281980)
+#### [Testing PUT calls](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-put-calls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1542,7 +1523,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-put-calls?u=76281980&t=124)** This one falls into the category of being more security related.
 >
-> **[2:07](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-put-calls?u=76281980&t=127)** Although this course doesn't get into the details of security testing on an API, there are some basic things that we can and should check for.
+> **[2:07](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-put-calls?u=76281980&t=127)** Although this course doesn't get into the details of [[Security Testing]] on an API, there are some basic things that we can and should check for.
 >
 > **[2:14](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-put-calls?u=76281980&t=134)** For example in this case, I want to see what happens if I try to modify a user that I'm not authenticated to change.
 >
@@ -1566,14 +1547,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), [[Security]] (2), data (1)
+> **Frameworks & Libraries:** [[Security Testing]] (1)
 > **Env Vars:** url (3), api (2)
 > **URLs:** [test.com](https://test.com) (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing DELETE calls
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-delete-calls?u=76281980)
+#### [Testing DELETE calls](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-delete-calls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1647,14 +1627,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), imagine (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Break the API
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/challenge-break-the-api?u=76281980)
+#### [Challenge: Break the API](https://www.linkedin.com/learning/api-testing-foundations-22763217/challenge-break-the-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1698,7 +1676,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), application (4), prompt (1)
 > **Env Vars:** api (6)
 > **CLI Commands:** find (3)
 > **Tools:** postman (1), command prompt (1)
@@ -1706,8 +1683,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Break the API
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/solution-break-the-api?u=76281980)
+#### [Solution: Break the API](https://www.linkedin.com/learning/api-testing-foundations-22763217/solution-break-the-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1783,14 +1759,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2)
 > **Env Vars:** api (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [presenter] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Understanding POST calls
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/understanding-post-calls?u=76281980)
+#### [Understanding POST calls](https://www.linkedin.com/learning/api-testing-foundations-22763217/understanding-post-calls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1830,7 +1804,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/api-testing-foundations-22763217/understanding-post-calls?u=76281980&t=81)** It will need to use this content type header to figure out how to properly decode that data.
 >
-> **[1:26](https://www.linkedin.com/learning/api-testing-foundations-22763217/understanding-post-calls?u=76281980&t=86)** Now let's go back here and switch to JSON data and we'll put in some JSON data.
+> **[1:26](https://www.linkedin.com/learning/api-testing-foundations-22763217/understanding-post-calls?u=76281980&t=86)** Now let's go back here and switch to [[JSON]] data and we'll put in some JSON data.
 >
 > **[1:32](https://www.linkedin.com/learning/api-testing-foundations-22763217/understanding-post-calls?u=76281980&t=92)** So, let's say test and text.
 >
@@ -1882,7 +1856,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[JSON]] (4), api (3), application (1), next (1)
+> **Frameworks & Libraries:** [[JSON]] (4)
 > **Env Vars:** post (5), json (4), api (3), url (2)
 > **API Endpoints:** post  (4), post
  (1)
@@ -1892,8 +1866,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **UI Navigation:** dropdown (1)
 
-#### Testing POST calls
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-post-calls?u=76281980)
+#### [Testing POST calls](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-post-calls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1907,7 +1880,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-post-calls?u=76281980&t=15)** The first is malicious users.
 >
-> **[0:17](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-post-calls?u=76281980&t=17)** We'll talk about security testing your API later in the course.
+> **[0:17](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-post-calls?u=76281980&t=17)** We'll talk about [[Security Testing]] your API later in the course.
 >
 > **[0:20](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-post-calls?u=76281980&t=20)** The second way though is users accidentally doing the wrong thing.
 >
@@ -1947,7 +1920,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-post-calls?u=76281980&t=110)** But let's try some other types of data too.
 >
-> **[1:53](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-post-calls?u=76281980&t=113)** Like what if I pass in some HTML here?
+> **[1:53](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-post-calls?u=76281980&t=113)** Like what if I pass in some [[HTML]] here?
 >
 > **[1:59](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-post-calls?u=76281980&t=119)** Let's see if it will accept this.
 >
@@ -1955,7 +1928,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-post-calls?u=76281980&t=129)** Now it's interesting, this long description is messing things up a bit, but you can see there's an empty spot here where there should be a task.
 >
-> **[2:16](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-post-calls?u=76281980&t=136)** And if we edit this, you can see that this is where the JavaScript is that we injected into this.
+> **[2:16](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-post-calls?u=76281980&t=136)** And if we edit this, you can see that this is where the [[JavaScript]] is that we injected into this.
 >
 > **[2:23](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-post-calls?u=76281980&t=143)** So it seems like the app isn't sanitizing these inputs very well.
 >
@@ -1997,15 +1970,15 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-post-calls?u=76281980&t=242)** So usually POST requests don't let you specify a managed ID like this, but it's one thing to watch out for when you're testing these calls, as you can see, it can cause issues.
 >
-> **[4:11](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-post-calls?u=76281980&t=251)** So at this point in the course we've covered the major rest API actions.
+> **[4:11](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-post-calls?u=76281980&t=251)** So at this point in the course we've covered the major [[Representational State Transfer (REST)|rest]] API actions.
 >
 > **[4:14](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-post-calls?u=76281980&t=254)** There are of course some other options that are available but they're not often used in practice.
 >
-> **[4:18](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-post-calls?u=76281980&t=258)** And if you understand how to think about testing the four that we've covered, you're well on your way to being an API testing professional.
+> **[4:18](https://www.linkedin.com/learning/api-testing-foundations-22763217/testing-post-calls?u=76281980&t=258)** And if you understand how to think about testing the four that we've covered, you're well on your way to being an [[API Testing]] professional.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), api (5), [[Security]] (1), [[HTML]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Security Testing]] (1), [[HTML]] (1), [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[API Testing]] (1)
 > **Env Vars:** post (6), api (5), html (1)
 > **API Endpoints:** post  (6), get  (1)
 > **CLI Commands:** make (5)
@@ -2014,8 +1987,7 @@ created: 2026-05-02
 > **Tools:** postman (1)
 > **Warnings:** watch out (1)
 
-#### Challenge: Access protected endpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/challenge-access-protected-endpoints?u=76281980)
+#### [Challenge: Access protected endpoints](https://www.linkedin.com/learning/api-testing-foundations-22763217/challenge-access-protected-endpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2039,7 +2011,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/api-testing-foundations-22763217/challenge-access-protected-endpoints?u=76281980&t=44)** Your challenge is to see if you can get access to the information behind this endpoint.
 >
-> **[0:50](https://www.linkedin.com/learning/api-testing-foundations-22763217/challenge-access-protected-endpoints?u=76281980&t=50)** You won't need any advanced security testing skills to solve this challenge.
+> **[0:50](https://www.linkedin.com/learning/api-testing-foundations-22763217/challenge-access-protected-endpoints?u=76281980&t=50)** You won't need any advanced [[Security Testing]] skills to solve this challenge.
 >
 > **[0:53](https://www.linkedin.com/learning/api-testing-foundations-22763217/challenge-access-protected-endpoints?u=76281980&t=53)** You should be able to access the information using only things that you've already learned in this course.
 >
@@ -2057,7 +2029,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), api (1), application (1), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Security Testing]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** api (1)
 > **Cross-References:** in the next (1)
@@ -2065,8 +2037,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (quirky music) (1)
 
-#### Solution: Access protected endpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/solution-access-protected-endpoints?u=76281980)
+#### [Solution: Access protected endpoints](https://www.linkedin.com/learning/api-testing-foundations-22763217/solution-access-protected-endpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2134,7 +2105,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), application (1)
 > **Env Vars:** url (1), post (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -2145,16 +2115,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using mocks, stubs, and fakes in API testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/using-mocks-stubs-and-fakes-in-api-testing?u=76281980)
+#### [Using mocks, stubs, and fakes in API testing](https://www.linkedin.com/learning/api-testing-foundations-22763217/using-mocks-stubs-and-fakes-in-api-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/api-testing-foundations-22763217/using-mocks-stubs-and-fakes-in-api-testing?u=76281980&t=0)** - [Instructor] You might have heard about terms like mocks, stubs or fakes in relation to unit testing before.
+> **[0:00](https://www.linkedin.com/learning/api-testing-foundations-22763217/using-mocks-stubs-and-fakes-in-api-testing?u=76281980&t=0)** - [Instructor] You might have heard about terms like mocks, stubs or fakes in relation to [[Unit Testing]] before.
 >
 > **[0:05](https://www.linkedin.com/learning/api-testing-foundations-22763217/using-mocks-stubs-and-fakes-in-api-testing?u=76281980&t=5)** If those are scary terms to you, don't worry.
 >
-> **[0:07](https://www.linkedin.com/learning/api-testing-foundations-22763217/using-mocks-stubs-and-fakes-in-api-testing?u=76281980&t=7)** In this video, we'll dig into them and I'll help you understand what they mean and also how you can effectively use them in your API testing.
+> **[0:07](https://www.linkedin.com/learning/api-testing-foundations-22763217/using-mocks-stubs-and-fakes-in-api-testing?u=76281980&t=7)** In this video, we'll dig into them and I'll help you understand what they mean and also how you can effectively use them in your [[API Testing]].
 >
 > **[0:14](https://www.linkedin.com/learning/api-testing-foundations-22763217/using-mocks-stubs-and-fakes-in-api-testing?u=76281980&t=14)** So first, let's start with some definitions.
 >
@@ -2220,7 +2189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), application (3), data (2), [[Unit Testing]] (1), next (1)
+> **Frameworks & Libraries:** [[API Testing]] (2), [[Unit Testing]] (1)
 > **Env Vars:** api (4), url (1)
 > **Tools:** postman (3)
 > **Warnings:** be careful (3)
@@ -2229,12 +2198,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1), set up (1)
 > **Definitions:** is a  (1)
 
-#### API automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/api-automation?u=76281980)
+#### [API automation](https://www.linkedin.com/learning/api-testing-foundations-22763217/api-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/api-testing-foundations-22763217/api-automation?u=76281980&t=0)** - [Instructor] We've spent a lot of time so far looking at how to test an API, but since APIs can often run more quickly and tend to lend themselves much more to automated checking, it's often beneficial to use them to run test automation.
+> **[0:00](https://www.linkedin.com/learning/api-testing-foundations-22763217/api-automation?u=76281980&t=0)** - [Instructor] We've spent a lot of time so far looking at how to test an API, but since APIs can often run more quickly and tend to lend themselves much more to automated checking, it's often beneficial to use them to run [[Test Automation]].
 >
 > **[0:12](https://www.linkedin.com/learning/api-testing-foundations-22763217/api-automation?u=76281980&t=12)** Exploratory testing gives us the insight that we need in order to automate, but exploration and automation are usually trying to achieve different things and so we need to think about them differently.
 >
@@ -2312,15 +2280,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), [[Automation]] (8), data (6), [[Test Automation]] (2), next (2)
+> **Frameworks & Libraries:** [[Test Automation]] (2)
 > **Env Vars:** api (8)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for example (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Performance testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/performance-testing?u=76281980)
+#### [Performance testing](https://www.linkedin.com/learning/api-testing-foundations-22763217/performance-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2330,7 +2297,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/api-testing-foundations-22763217/performance-testing?u=76281980&t=15)** Performance testing itself is actually a pretty broad term.
 >
-> **[0:18](https://www.linkedin.com/learning/api-testing-foundations-22763217/performance-testing?u=76281980&t=18)** It can refer to things like speed testing, like looking at how fast a page responds, or it can look at load testing, how many requests per minute a server can handle or how many items a page can deal with.
+> **[0:18](https://www.linkedin.com/learning/api-testing-foundations-22763217/performance-testing?u=76281980&t=18)** It can refer to things like speed testing, like looking at how fast a page responds, or it can look at [[Load Testing]], how many requests per minute a server can handle or how many items a page can deal with.
 >
 > **[0:29](https://www.linkedin.com/learning/api-testing-foundations-22763217/performance-testing?u=76281980&t=29)** It can also include things like stress testing and other things related to performance.
 >
@@ -2354,11 +2321,11 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/api-testing-foundations-22763217/performance-testing?u=76281980&t=73)** And then when it's done, we can load the page and see how it performed.
 >
-> **[1:17](https://www.linkedin.com/learning/api-testing-foundations-22763217/performance-testing?u=76281980&t=77)** You can create scripts like this in Postman, but I said earlier that this course is about API testing and not about any one tool.
+> **[1:17](https://www.linkedin.com/learning/api-testing-foundations-22763217/performance-testing?u=76281980&t=77)** You can create scripts like this in Postman, but I said earlier that this course is about [[API Testing]] and not about any one tool.
 >
 > **[1:23](https://www.linkedin.com/learning/api-testing-foundations-22763217/performance-testing?u=76281980&t=83)** So I'm going to show you another way to do it.
 >
-> **[1:26](https://www.linkedin.com/learning/api-testing-foundations-22763217/performance-testing?u=76281980&t=86)** I'm going to create a really simple Python script to do this.
+> **[1:26](https://www.linkedin.com/learning/api-testing-foundations-22763217/performance-testing?u=76281980&t=86)** I'm going to create a really simple [[Python (Programming Language)|Python]] script to do this.
 >
 > **[1:30](https://www.linkedin.com/learning/api-testing-foundations-22763217/performance-testing?u=76281980&t=90)** Now, I've loaded the todo-list app folder into Visual Studio Code, but feel free to use whatever code editor you're most comfortable with.
 >
@@ -2394,7 +2361,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/api-testing-foundations-22763217/performance-testing?u=76281980&t=185)** If we were doing this kind of performance testing, we'd call this request a number of times and look at some stats, like maybe the average runtime to see how fast this request typically is.
 >
-> **[3:14](https://www.linkedin.com/learning/api-testing-foundations-22763217/performance-testing?u=76281980&t=194)** Now, you could do this kind of testing in Postman or with Python or something like that, but usually you want a tool that's more specialized to it, like JMeter.
+> **[3:14](https://www.linkedin.com/learning/api-testing-foundations-22763217/performance-testing?u=76281980&t=194)** Now, you could do this kind of testing in Postman or with Python or something like that, but usually you want a tool that's more specialized to it, like [[JMeter]].
 >
 > **[3:23](https://www.linkedin.com/learning/api-testing-foundations-22763217/performance-testing?u=76281980&t=203)** We won't be getting into tools like that in this course, but for now, it's good to be aware that things like this exist and that you can dig into them more if you need them in your work.
 >
@@ -2406,7 +2373,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), [[Python (Programming Language)|Python]] (4), [[Load Testing]] (1), application (1), prompt (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Load Testing]] (1), [[API Testing]] (1), [[JMeter]] (1)
 > **Env Vars:** api (8)
 > **CLI Commands:** python (4), make (1)
 > **Tools:** postman (3), visual studio (1), command prompt (1)
@@ -2415,16 +2382,15 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/api-testing-foundations-22763217/security-testing?u=76281980)
+#### [Security testing](https://www.linkedin.com/learning/api-testing-foundations-22763217/security-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/api-testing-foundations-22763217/security-testing?u=76281980&t=0)** - [Instructor] We all know how important security is in the modern world of web development.
+> **[0:00](https://www.linkedin.com/learning/api-testing-foundations-22763217/security-testing?u=76281980&t=0)** - [Instructor] We all know how important security is in the modern world of [[Web Development]].
 >
 > **[0:04](https://www.linkedin.com/learning/api-testing-foundations-22763217/security-testing?u=76281980&t=4)** This is of course no less true when we're dealing with APIs.
 >
-> **[0:07](https://www.linkedin.com/learning/api-testing-foundations-22763217/security-testing?u=76281980&t=7)** This course is not about security testing so we won't spend a lot of time on it, but I do want to touch on it briefly so that we don't forget that it's an important consideration when it comes to designing and testing APIs.
+> **[0:07](https://www.linkedin.com/learning/api-testing-foundations-22763217/security-testing?u=76281980&t=7)** This course is not about [[Security Testing]] so we won't spend a lot of time on it, but I do want to touch on it briefly so that we don't forget that it's an important consideration when it comes to designing and testing APIs.
 >
 > **[0:17](https://www.linkedin.com/learning/api-testing-foundations-22763217/security-testing?u=76281980&t=17)** Sometimes we can think that security's all about the auth service and making sure that people can't get your credentials or get around to authorization APIs.
 >
@@ -2434,7 +2400,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/api-testing-foundations-22763217/security-testing?u=76281980&t=33)** One of the most important rules of authentication and authorization is don't try to implement your own version of it.
 >
-> **[0:39](https://www.linkedin.com/learning/api-testing-foundations-22763217/security-testing?u=76281980&t=39)** Unless you're a big company like Google that has the resources to take the time to do it right, you'll likely make mistakes.
+> **[0:39](https://www.linkedin.com/learning/api-testing-foundations-22763217/security-testing?u=76281980&t=39)** Unless you're a big company like [[Google]] that has the resources to take the time to do it right, you'll likely make mistakes.
 >
 > **[0:45](https://www.linkedin.com/learning/api-testing-foundations-22763217/security-testing?u=76281980&t=45)** And this is an area you don't want to make mistakes.
 >
@@ -2442,7 +2408,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/api-testing-foundations-22763217/security-testing?u=76281980&t=52)** However, even if you are using a good auth service, there are still attack vectors that you should be aware of.
 >
-> **[0:57](https://www.linkedin.com/learning/api-testing-foundations-22763217/security-testing?u=76281980&t=57)** You've probably heard of things like SQL injection or cross-site scripting and the reality is these vulnerabilities can be found through APIs as well.
+> **[0:57](https://www.linkedin.com/learning/api-testing-foundations-22763217/security-testing?u=76281980&t=57)** You've probably heard of things like [[SQL]] injection or cross-site scripting and the reality is these vulnerabilities can be found through APIs as well.
 >
 > **[1:05](https://www.linkedin.com/learning/api-testing-foundations-22763217/security-testing?u=76281980&t=65)** And in fact, it's often at the API level that attackers explore these things.
 >
@@ -2458,7 +2424,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/api-testing-foundations-22763217/security-testing?u=76281980&t=98)** When there's uncertainty like this it's doubly important to check and make sure that someone is taking care of it.
 >
-> **[1:44](https://www.linkedin.com/learning/api-testing-foundations-22763217/security-testing?u=76281980&t=104)** Another area to be careful of an API testing is to check that all validation is correctly done.
+> **[1:44](https://www.linkedin.com/learning/api-testing-foundations-22763217/security-testing?u=76281980&t=104)** Another area to be careful of an [[API Testing]] is to check that all validation is correctly done.
 >
 > **[1:50](https://www.linkedin.com/learning/api-testing-foundations-22763217/security-testing?u=76281980&t=110)** Since APIs can be run programmatically, doing fuzz attacks where you just send random inputs to the API or cycle through known lists of validations that people forgot can be done quite easily.
 >
@@ -2470,7 +2436,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (9), [[Security]] (5), [[Scripting]] (2), [[Automation]] (2), [[Web Development]] (1)
+> **Frameworks & Libraries:** [[Security Testing]] (3), [[Web Development]] (1), [[Google]] (1), [[SQL]] (1), [[API Testing]] (1)
 > **Env Vars:** api (9), sql (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is an  (1), is a  (1)

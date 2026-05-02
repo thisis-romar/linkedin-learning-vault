@@ -78,8 +78,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How the fourth Industrial Revolution is changing the world
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/how-the-fourth-industrial-revolution-is-changing-the-world?u=76281980)
+#### [How the fourth Industrial Revolution is changing the world](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/how-the-fourth-industrial-revolution-is-changing-the-world?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -104,8 +103,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is meant by Industrial Revolutions?
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/what-is-meant-by-industrial-revolutions?u=76281980)
+#### [What is meant by Industrial Revolutions?](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/what-is-meant-by-industrial-revolutions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -115,7 +113,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/what-is-meant-by-industrial-revolutions?u=76281980&t=12)** Through that time, we discovered how to make fire.
 >
-> **[0:15](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/what-is-meant-by-industrial-revolutions?u=76281980&t=15)** We invented mathematics and money, created the written word, built cities, cured diseases, went to war many times, and ended the 20th century sending and returning humans to another world.
+> **[0:15](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/what-is-meant-by-industrial-revolutions?u=76281980&t=15)** We invented mathematics and money, created the written [[Microsoft Word|word]], built cities, cured diseases, went to war many times, and ended the 20th century sending and returning humans to another world.
 >
 > **[0:29](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/what-is-meant-by-industrial-revolutions?u=76281980&t=29)** For most of our history, human populations remained small and lived in tight and largely disconnected communities.
 >
@@ -123,7 +121,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/what-is-meant-by-industrial-revolutions?u=76281980&t=42)** Today, we have just surpassed eight billion, and we will likely reach 11 billion by the end of this century with the majority living in an urban context.
 >
-> **[0:54](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/what-is-meant-by-industrial-revolutions?u=76281980&t=54)** In the 21st century, we expect access to electricity, schools for our children, a system of law and order, efficient transportation systems, and economic opportunity from factory jobs to office occupations.
+> **[0:54](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/what-is-meant-by-industrial-revolutions?u=76281980&t=54)** In the 21st century, we expect access to electricity, schools for our children, a system of law and order, efficient transportation systems, and economic opportunity from factory jobs to [[Microsoft Office|office]] occupations.
 >
 > **[1:08](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/what-is-meant-by-industrial-revolutions?u=76281980&t=68)** Today, few of us in the developed world have any appreciation for a pre-industrial world.
 >
@@ -149,7 +147,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/what-is-meant-by-industrial-revolutions?u=76281980&t=142)** For example, the first industrial revolution, which originated in Britain in the late 1700s, saw the beginning of widespread use of coal.
 >
-> **[2:31](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/what-is-meant-by-industrial-revolutions?u=76281980&t=151)** Today's scientists believe coal has contributed significantly towards human-caused climate change, and it continues to do so.
+> **[2:31](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/what-is-meant-by-industrial-revolutions?u=76281980&t=151)** Today's scientists believe coal has contributed significantly towards human-caused [[Climate Change]], and it continues to do so.
 >
 > **[2:40](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/what-is-meant-by-industrial-revolutions?u=76281980&t=160)** These revolutions also produced an even distribution of winners, and unfortunately, a large number of losers.
 >
@@ -175,15 +173,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Microsoft Office|Office]] (1), [[Climate Change]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Microsoft Office|Office]] (1), [[Climate Change]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** caution (1)
 > **Speakers:** - in (1)
 
-#### The first and second Industrial Revolutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-first-and-second-industrial-revolutions?u=76281980)
+#### [The first and second Industrial Revolutions](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-first-and-second-industrial-revolutions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -221,7 +218,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-first-and-second-industrial-revolutions?u=76281980&t=91)** For the first time, large numbers of people had more free time and discretionary income.
 >
-> **[1:36](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-first-and-second-industrial-revolutions?u=76281980&t=96)** Mainstream banking emerged.
+> **[1:36](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-first-and-second-industrial-revolutions?u=76281980&t=96)** Mainstream [[Banking]] emerged.
 >
 > **[1:38](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-first-and-second-industrial-revolutions?u=76281980&t=98)** Significant positive change occurred, but so did challenges.
 >
@@ -263,13 +260,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Automation]] (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Banking]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Versions:** 1.0 (1), 2.0 (1)
 > **Speakers:** - just (1)
 
-#### The third Industrial Revolution
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-third-industrial-revolution?u=76281980)
+#### [The third Industrial Revolution](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-third-industrial-revolution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -323,15 +319,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), semiconductor (1), data (1), next (1)
 > **Versions:** 3.0 (1), 2.0 (1), 4.0 (1)
 > **CLI Commands:** find (1)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
-#### The fourth Industrial Revolution
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-fourth-industrial-revolution?u=76281980)
+#### [The fourth Industrial Revolution](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-fourth-industrial-revolution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -341,7 +335,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-fourth-industrial-revolution?u=76281980&t=12)** Consider, for example, the new features of your favorite app or the digital tools that are being introduced to your industry.
 >
-> **[0:19](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-fourth-industrial-revolution?u=76281980&t=19)** Faster processing cloud services and improved software are driving change at a staggering rate.
+> **[0:19](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-fourth-industrial-revolution?u=76281980&t=19)** Faster processing [[Cloud Services]] and improved software are driving change at a staggering rate.
 >
 > **[0:27](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-fourth-industrial-revolution?u=76281980&t=27)** But as we experience digitalization in our work, home, cities and more, it's becoming apparent that a new pattern of technological and societal change is upon us.
 >
@@ -349,13 +343,13 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-fourth-industrial-revolution?u=76281980&t=48)** As I'll now describe, this period, which has just become more defined in just the last few years, is being called the fourth Industrial Revolution, or by the term, Industry 4.0.
 >
-> **[1:00](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-fourth-industrial-revolution?u=76281980&t=60)** Unlike the third Industrial Revolution, which was largely a period of digital transformation, the fourth Industrial Revolution combines and innovates the digital with the physical, the interception of bits and atoms, so to speak, to form cyber physical systems.
+> **[1:00](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-fourth-industrial-revolution?u=76281980&t=60)** Unlike the third Industrial Revolution, which was largely a period of [[Digital Transformation]], the fourth Industrial Revolution combines and innovates the digital with the physical, the interception of bits and atoms, so to speak, to form cyber physical systems.
 >
 > **[1:18](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-fourth-industrial-revolution?u=76281980&t=78)** Some even suggest there's a growing intersection of the biological sciences too.
 >
 > **[1:23](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-fourth-industrial-revolution?u=76281980&t=83)** Scientific leaps in physics, chemistry, and biology will certainly play a larger role as this revolution progresses.
 >
-> **[1:32](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-fourth-industrial-revolution?u=76281980&t=92)** These cyber physical systems, such as the Internet of Things and a new era of smart industrial production called Industry 4.0, which I discuss in a later video, are emerging too at a time when the world is experiencing a number of macro transitions.
+> **[1:32](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-fourth-industrial-revolution?u=76281980&t=92)** These cyber physical systems, such as the [[IoT|Internet of Things]] and a new era of smart industrial production called Industry 4.0, which I discuss in a later video, are emerging too at a time when the world is experiencing a number of macro transitions.
 >
 > **[1:49](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-fourth-industrial-revolution?u=76281980&t=109)** These include shifts in demographics, economics, supply chain, consumer expectations and behaviors, and new approaches to work.
 >
@@ -365,7 +359,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-fourth-industrial-revolution?u=76281980&t=139)** The fourth Industrial Revolution is synonymous with Industry 4.0, the emergence of a next generation of manufacturing and other industrial segments.
 >
-> **[2:29](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-fourth-industrial-revolution?u=76281980&t=149)** The use of the Internet of Things, artificial intelligence, robotics, data and analytics for example, are all components of a new Industrial Revolution, and they are being used to produce higher quality products in smart factories.
+> **[2:29](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-fourth-industrial-revolution?u=76281980&t=149)** The use of the Internet of Things, [[Artificial Intelligence (AI)|artificial intelligence]], robotics, data and analytics for example, are all components of a new Industrial Revolution, and they are being used to produce higher quality [[Microsoft Products|products]] in smart factories.
 >
 > **[2:44](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-fourth-industrial-revolution?u=76281980&t=164)** It's also enabling a reinvention of what we can build and how we build it.
 >
@@ -389,7 +383,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Internet of Things (IoT)|Internet of things]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), cloud (1), [[Digital Transformation]] (1), next (1)
+> **Frameworks & Libraries:** [[IoT|Internet of things]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Cloud Services]] (1), [[Digital Transformation]] (1), [[Microsoft Products|Products]] (1)
 > **Versions:** 4.0 (4)
 > **Analogies:** for example (3), such as (1)
 > **Speakers:** - in (1)
@@ -399,8 +393,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The significance of velocity, scope, impact, and convergence
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-significance-of-velocity-scope-impact-and-convergence?u=76281980)
+#### [The significance of velocity, scope, impact, and convergence](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-significance-of-velocity-scope-impact-and-convergence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -428,7 +421,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-significance-of-velocity-scope-impact-and-convergence?u=76281980&t=65)** Today, some popular YouTube videos are watched by billions of viewers in a short period of time and their reach is to every corner of the Earth.
 >
-> **[1:15](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-significance-of-velocity-scope-impact-and-convergence?u=76281980&t=75)** An idea, a joke, a misspoken word, breaking news and fake news can all travel virally around the world in seconds.
+> **[1:15](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-significance-of-velocity-scope-impact-and-convergence?u=76281980&t=75)** An idea, a joke, a misspoken [[Microsoft Word|word]], breaking news and fake news can all travel virally around the world in seconds.
 >
 > **[1:23](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-significance-of-velocity-scope-impact-and-convergence?u=76281980&t=83)** A new tech product can sell millions in just a few days and be available in global markets in the same week.
 >
@@ -448,7 +441,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-significance-of-velocity-scope-impact-and-convergence?u=76281980&t=127)** After all, it required us to go to a store, purchase the product, return home, or go to our business and then install the software.
 >
-> **[2:15](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-significance-of-velocity-scope-impact-and-convergence?u=76281980&t=135)** Today, when Apple and Microsoft release new versions of their computer operating system software, the software is seamlessly distributed over the internet to millions of people within hours all across the planet.
+> **[2:15](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-significance-of-velocity-scope-impact-and-convergence?u=76281980&t=135)** Today, when Apple and [[Microsoft]] release new versions of their computer operating system software, the software is seamlessly distributed over the internet to millions of people within hours all across the planet.
 >
 > **[2:29](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-significance-of-velocity-scope-impact-and-convergence?u=76281980&t=149)** The benefits of those new operating systems can be experienced by millions of people within just a few days and if the software includes some radically new functionality, such as health-related software, the change could be significant.
 >
@@ -476,7 +469,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-significance-of-velocity-scope-impact-and-convergence?u=76281980&t=225)** Finally, there's convergence.
 >
-> **[3:47](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-significance-of-velocity-scope-impact-and-convergence?u=76281980&t=227)** While technologies such as artificial intelligence, cloud computing and the Internet of Things are each individually important, they are even more powerful when they are combined but it's not enough just to converge complementary technologies to solve a problem.
+> **[3:47](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-significance-of-velocity-scope-impact-and-convergence?u=76281980&t=227)** While technologies such as [[Artificial Intelligence (AI)|artificial intelligence]], [[Cloud Computing]] and the [[IoT|Internet of Things]] are each individually important, they are even more powerful when they are combined but it's not enough just to converge complementary technologies to solve a problem.
 >
 > **[4:03](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-significance-of-velocity-scope-impact-and-convergence?u=76281980&t=243)** Each technology must be at the right level of maturity and market support.
 >
@@ -496,7 +489,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), cloud (2), game (1), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Microsoft]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Cloud Computing]] (1), [[IoT|Internet of things]] (1)
 > **Analogies:** such as (4), think of it like (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -505,12 +498,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - a (1)
 
-#### Everyone is getting connected
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/everyone-is-getting-connected?u=76281980)
+#### [Everyone is getting connected](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/everyone-is-getting-connected?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/everyone-is-getting-connected?u=76281980&t=0)** - It's easy for us all to take global telecommunications for granted.
+> **[0:00](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/everyone-is-getting-connected?u=76281980&t=0)** - It's easy for us all to take global [[Telecommunications]] for granted.
 >
 > **[0:04](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/everyone-is-getting-connected?u=76281980&t=4)** For all of my life, telephones have existed, and dialing a family member or friend anywhere in the world has been a normal unremarkable activity.
 >
@@ -558,13 +550,13 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/everyone-is-getting-connected?u=76281980&t=195)** In 2022, the average American used their smartphone every 10 to 12 minutes.
 >
-> **[3:22](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/everyone-is-getting-connected?u=76281980&t=202)** With rapid improvements in hardware and software and greater deployment and adoption of a fifth generation of cellular technology, 5G, and yes, eventually 6G, mobile devices, such as smartphones, will continue to dominate how people digitally connect and collaborate.
+> **[3:22](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/everyone-is-getting-connected?u=76281980&t=202)** With rapid improvements in [[Hardware]] and software and greater deployment and adoption of a fifth generation of cellular technology, [[5G]], and yes, eventually 6G, mobile devices, such as smartphones, will continue to dominate how people digitally connect and collaborate.
 >
 > **[3:41](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/everyone-is-getting-connected?u=76281980&t=221)** While digitally connecting people has been remarkable, these past few decades, an even bigger connectivity transformation is now underway.
 >
 > **[3:50](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/everyone-is-getting-connected?u=76281980&t=230)** We're integrating all manner of physical devices and hardware together to form a powerful, intelligent communications platform that can serve every type of industry.
 >
-> **[4:02](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/everyone-is-getting-connected?u=76281980&t=242)** This is the internet of Things, or IoT.
+> **[4:02](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/everyone-is-getting-connected?u=76281980&t=242)** This is the [[IoT|internet of Things]], or [[IoT]].
 >
 > **[4:06](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/everyone-is-getting-connected?u=76281980&t=246)** All sorts of home devices, for example, thermostats, digital assistants, refrigerators, speakers, cameras, and doorbells now connect to the internet, enabling them to gather and report data, perform useful functions, and be controllable wirelessly.
 >
@@ -586,7 +578,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/everyone-is-getting-connected?u=76281980&t=315)** That is places where bad actors, such as terrorists, can cause damage and harm.
 >
-> **[5:21](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/everyone-is-getting-connected?u=76281980&t=321)** The need for defense mechanisms has grown, and cybersecurity must now be an even higher priority.
+> **[5:21](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/everyone-is-getting-connected?u=76281980&t=321)** The need for defense mechanisms has grown, and [[Cybersecurity]] must now be an even higher priority.
 >
 > **[5:30](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/everyone-is-getting-connected?u=76281980&t=330)** We are now an increasingly connected species.
 >
@@ -600,14 +592,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[IoT]] (3), [[Hardware]] (2), [[Internet of Things (IoT)|Internet of things]] (2), [[Telecommunications]] (1)
+> **Frameworks & Libraries:** [[IoT]] (3), [[Hardware]] (2), [[IoT|Internet of things]] (2), [[Telecommunications]] (1), [[5G]] (1)
 > **Analogies:** such as (3), for example (2)
 > **Env Vars:** tcp (2), arpanet (1), ftp (1)
 > **Definitions:** is called (1)
 > **Speakers:** - it (1)
 
-#### Exploring rapid digital transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980)
+#### [Exploring rapid digital transformation](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -625,7 +616,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=31)** We're all living in a world where increasingly many of our needs are instantly accessible via internet connected devices.
 >
-> **[0:39](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=39)** This transition from analog to digital experiences where hyper-connectivity and radical innovation rules is a product of digital transformation.
+> **[0:39](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=39)** This transition from analog to digital experiences where hyper-connectivity and radical innovation rules is a product of [[Digital Transformation]].
 >
 > **[0:51](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=51)** Humans are changing the world through digitalization.
 >
@@ -655,13 +646,13 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=122)** The First Wave occurred during the period of 1985 to 1999.
 >
-> **[2:07](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=127)** These years were dominated by big tech players, such as Microsoft, IBM, HP, Sun, Cisco, and information services such as America Online and Prodigy.
+> **[2:07](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=127)** These years were dominated by big tech players, such as [[Microsoft]], IBM, HP, Sun, Cisco, and information services such as America Online and Prodigy.
 >
-> **[2:18](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=138)** These companies built the early hardware and software of the internet.
+> **[2:18](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=138)** These companies built the early [[Hardware]] and software of the internet.
 >
 > **[2:23](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=143)** During this time, websites were relatively rudimentary, largely focusing on broadcasting static information.
 >
-> **[2:30](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=150)** If you wanted to find out the products and services sold at a company and perhaps its mailing address, a static website would be adequate.
+> **[2:30](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=150)** If you wanted to find out the [[Microsoft Products|products]] and services sold at a company and perhaps its mailing address, a static website would be adequate.
 >
 > **[2:39](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=159)** After all, connections to the internet for the average user were enabled by slow telephone dial-up access, and delivering anything more sophisticated would just result in a frustrating experience.
 >
@@ -669,9 +660,9 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=185)** The Second Wave happened during the years 2000 to 2015.
 >
-> **[3:10](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=190)** This period was defined by the rapid emergence of advanced online functionality, such as search, social, and e-commerce.
+> **[3:10](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=190)** This period was defined by the rapid emergence of advanced online functionality, such as search, social, and [[E-Commerce]].
 >
-> **[3:19](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=199)** Examples of companies who dominated this time included Google, Amazon, Facebook, eBay, Salesforce, and Priceline.
+> **[3:19](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=199)** Examples of companies who dominated this time included [[Google]], Amazon, Facebook, eBay, Salesforce, and Priceline.
 >
 > **[3:27](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/exploring-rapid-digital-transformation?u=76281980&t=207)** These businesses built rich applications on top of the infrastructure of the internet.
 >
@@ -719,7 +710,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Hardware]] (2), [[Microsoft Products|Products]] (2), business (1), product (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Microsoft Products|Products]] (2), [[Digital Transformation]] (1), [[Microsoft]] (1), [[E-Commerce]] (1)
 > **Analogies:** such as (5), for example (1)
 > **Definitions:** is a  (1), known as (1), means that (1)
 > **CLI Commands:** make (1), find (1)
@@ -728,8 +719,7 @@ created: 2026-05-02
 > **Env Vars:** ibm (1)
 > **Tools:** notion (1)
 
-#### Rapid advances in different sciences
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/rapid-advances-in-different-sciences?u=76281980)
+#### [Rapid advances in different sciences](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/rapid-advances-in-different-sciences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -743,7 +733,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/rapid-advances-in-different-sciences?u=76281980&t=27)** Contributing factors included a conducive political climate.
 >
-> **[0:31](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/rapid-advances-in-different-sciences?u=76281980&t=31)** Florence is a hub of global trade, the Medici banking family and their philanthropy efforts, and the emergence of a culture with interest in sourcing new ideas from afar.
+> **[0:31](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/rapid-advances-in-different-sciences?u=76281980&t=31)** Florence is a hub of global trade, the Medici [[Banking]] family and their philanthropy efforts, and the emergence of a culture with interest in sourcing new ideas from afar.
 >
 > **[0:43](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/rapid-advances-in-different-sciences?u=76281980&t=43)** The opening of libraries to the public enabled access to knowledge and encouraging learning and new thinking.
 >
@@ -753,7 +743,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/rapid-advances-in-different-sciences?u=76281980&t=81)** The spread of ideas to other countries fundamentally shifted how humans viewed the world.
 >
-> **[1:28](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/rapid-advances-in-different-sciences?u=76281980&t=88)** From this period emerged the scientific revolution what resulted was the rapid accumulation of knowledge that began to extend beyond just a few countries, but it would take until the 19th century for scientific knowledge to assimilate to much of the rest of the world.
+> **[1:28](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/rapid-advances-in-different-sciences?u=76281980&t=88)** From this period emerged the scientific revolution what resulted was the rapid accumulation of knowledge that began to extend beyond just a few countries, but it would take until the 19th century for scientific knowledge to assimilate to much of the [[Representational State Transfer (REST)|rest]] of the world.
 >
 > **[1:45](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/rapid-advances-in-different-sciences?u=76281980&t=105)** In the late 1600s, a new scientific and cultural period began that is sometimes called the Age of Reason, but is also referred to as the Age of Enlightenment.
 >
@@ -775,7 +765,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/rapid-advances-in-different-sciences?u=76281980&t=168)** Now we find ourselves with a global network that connects over 5 billion people and counting.
 >
-> **[2:55](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/rapid-advances-in-different-sciences?u=76281980&t=175)** There's relative global peace, remarkably easy access to knowledge, significantly improved living conditions, and a set of groundbreaking tools such as artificial intelligence, the internet of things, and 3D printers.
+> **[2:55](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/rapid-advances-in-different-sciences?u=76281980&t=175)** There's relative global peace, remarkably easy access to knowledge, significantly improved living conditions, and a set of groundbreaking tools such as [[Artificial Intelligence (AI)|artificial intelligence]], the [[IoT|internet of things]], and 3D printers.
 >
 > **[3:10](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/rapid-advances-in-different-sciences?u=76281980&t=190)** Powerful computing processing has accelerated discoveries that are catalyzing scientific innovation.
 >
@@ -809,21 +799,20 @@ created: 2026-05-02
 >
 > **[5:11](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/rapid-advances-in-different-sciences?u=76281980&t=311)** These precursors, coupled with the right technological, socioeconomic, and cultural conditions have ignited a fourth industrial revolution.
 >
-> **[5:21](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/rapid-advances-in-different-sciences?u=76281980&t=321)** Finally, this period is further defined and amplified by the intersection of the physical sciences with digital transformation.
+> **[5:21](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/rapid-advances-in-different-sciences?u=76281980&t=321)** Finally, this period is further defined and amplified by the intersection of the physical sciences with [[Digital Transformation]].
 >
 > **[5:30](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/rapid-advances-in-different-sciences?u=76281980&t=330)** When the atoms meld with bits, that's when things get really interesting.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Banking]] (1), [[Engineering]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Banking]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[IoT|Internet of things]] (1), [[Digital Transformation]] (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** crispr (1), nasa (1)
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - the (1)
 
-#### Economic and demographic shifts
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/economic-and-demographic-shifts?u=76281980)
+#### [Economic and demographic shifts](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/economic-and-demographic-shifts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -867,7 +856,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/economic-and-demographic-shifts?u=76281980&t=144)** As prosperity spreads and populations grow, bigger markets are created, more opportunities are presented for improved education, new industries, and expanded innovation.
 >
-> **[2:35](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/economic-and-demographic-shifts?u=76281980&t=155)** Of course, this will happen while automation and artificial intelligence accelerates, and the impact on these on human employment will present challenges.
+> **[2:35](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/economic-and-demographic-shifts?u=76281980&t=155)** Of course, this will happen while automation and [[Artificial Intelligence (AI)|artificial intelligence]] accelerates, and the impact on these on human employment will present challenges.
 >
 > **[2:46](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/economic-and-demographic-shifts?u=76281980&t=166)** I discuss these issues in later videos.
 >
@@ -909,7 +898,7 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/economic-and-demographic-shifts?u=76281980&t=289)** In the 21st century, less than 10% of the world lives in extreme poverty, and most people are unlikely to be affected by war, famine, and other catastrophes of the past.
 >
-> **[5:00](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/economic-and-demographic-shifts?u=76281980&t=300)** For sure, many challenges persist and new ones are emerging, including the uncertainty of climate change and concerns about a retreat of democracy.
+> **[5:00](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/economic-and-demographic-shifts?u=76281980&t=300)** For sure, many challenges persist and new ones are emerging, including the uncertainty of [[Climate Change]] and concerns about a retreat of democracy.
 >
 > **[5:12](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/economic-and-demographic-shifts?u=76281980&t=312)** Finally, what's the major takeaway here?
 >
@@ -917,7 +906,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Climate Change]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Climate Change]] (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (1)
 > **Env Vars:** gdp (1)
@@ -929,8 +918,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The big picture of technology trends
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-big-picture-of-technology-trends?u=76281980)
+#### [The big picture of technology trends](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-big-picture-of-technology-trends?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -946,7 +934,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-big-picture-of-technology-trends?u=76281980&t=44)** But what does it take to have a successful mapping app to make this a service with real value for millions of users?
 >
-> **[0:51](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-big-picture-of-technology-trends?u=76281980&t=51)** The basics must include a pervasive wireless infrastructure and network of satellites, the internet, low-cost storage and processing technology, a mature mobile phone operating system, software development kits for mobile applications, and expert mobile phone developers.
+> **[0:51](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-big-picture-of-technology-trends?u=76281980&t=51)** The basics must include a pervasive wireless infrastructure and network of satellites, the internet, low-cost storage and processing technology, a mature mobile phone operating system, [[Software Development]] kits for mobile applications, and expert mobile phone developers.
 >
 > **[1:09](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-big-picture-of-technology-trends?u=76281980&t=69)** It becomes clear very quickly that without any of these items, it's not possible to have a successful mapping app.
 >
@@ -976,7 +964,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-big-picture-of-technology-trends?u=76281980&t=162)** New disruptive business models rise when the conditions are right.
 >
-> **[2:46](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-big-picture-of-technology-trends?u=76281980&t=166)** This must include the right convergence of new software and hardware, customer acceptance, available capital, and of course, a generous application of good luck and great timing.
+> **[2:46](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-big-picture-of-technology-trends?u=76281980&t=166)** This must include the right convergence of new software and [[Hardware]], customer acceptance, available capital, and of course, a generous application of good luck and great timing.
 >
 > **[2:57](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-big-picture-of-technology-trends?u=76281980&t=177)** Okay, so why go here?
 >
@@ -992,7 +980,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-big-picture-of-technology-trends?u=76281980&t=223)** Each has such great potential that it's worth understanding them further.
 >
-> **[3:49](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-big-picture-of-technology-trends?u=76281980&t=229)** The core candidates in my view include artificial intelligence, blockchain, the internet of things, and major technological applications that include autonomous vehicles, smart and sustainable cities, and digital twins.
+> **[3:49](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-big-picture-of-technology-trends?u=76281980&t=229)** The core candidates in my view include [[Artificial Intelligence (AI)|artificial intelligence]], [[Blockchain]], the [[IoT|internet of things]], and major technological applications that include autonomous vehicles, smart and sustainable cities, and digital twins.
 >
 > **[4:05](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-big-picture-of-technology-trends?u=76281980&t=245)** But let me be clear, while doing a deep dive in a few notable technologies and their applications will help you consider the implications of these in your industry, there's a bigger picture here.
 >
@@ -1002,7 +990,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), traffic (1), [[Software Development]] (1), product (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Hardware]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Blockchain]] (1), [[IoT|Internet of things]] (1)
 > **Env Vars:** gps (3)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for instance (1), picture (1)
@@ -1011,12 +999,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - now (1)
 
-#### Artificial intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/artificial-intelligence?u=76281980)
+#### [Artificial intelligence](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/artificial-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/artificial-intelligence?u=76281980&t=0)** - The recent acceleration of artificial intelligence innovation and its growing adoption across almost all industries will likely make it a core defining characteristic of the Fourth Industrial Revolution.
+> **[0:00](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/artificial-intelligence?u=76281980&t=0)** - The recent acceleration of [[Artificial Intelligence (AI)|artificial intelligence]] innovation and its growing adoption across almost all industries will likely make it a core defining characteristic of the Fourth Industrial Revolution.
 >
 > **[0:12](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/artificial-intelligence?u=76281980&t=12)** While AI has been in development since the 1950s, it's finally here as a viable mainstream capability, and it's being incorporated into all manner of solutions, from search engines to self-driving cars.
 >
@@ -1048,7 +1035,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/artificial-intelligence?u=76281980&t=113)** AI's recent rise after decades of effort is a direct result of the Third Industrial Revolution and the opening years of the fourth.
 >
-> **[2:02](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/artificial-intelligence?u=76281980&t=122)** The internet, digitalization, big data, better coding, faster and cheaper computers and storage, all coupled with a dose of good luck, have helped move AI forward.
+> **[2:02](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/artificial-intelligence?u=76281980&t=122)** The internet, digitalization, [[Big Data]], better coding, faster and cheaper computers and storage, all coupled with a dose of good luck, have helped move AI forward.
 >
 > **[2:16](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/artificial-intelligence?u=76281980&t=136)** Investments by IBM created a machine capable of beating a human at chess, and similar computing moonshots helped to bring about AI innovation, too.
 >
@@ -1070,11 +1057,11 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/artificial-intelligence?u=76281980&t=191)** If an AI program needs to identify a bicycle in the picture, it would of course be impossible to show the computer every single variation of a bicycle.
 >
-> **[3:21](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/artificial-intelligence?u=76281980&t=201)** However, if the AI software sees a pattern from being fed lots of data where something with two circles in close proximity is likely to be a bicycle, it learns to identify bicycles with high probability.
+> **[3:21](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/artificial-intelligence?u=76281980&t=201)** However, if the AI software sees a pattern from being fed lots of data where something with two circles in close proximity is likely to be a bicycle, it learns to identify bicycles with high [[Probability]].
 >
 > **[3:37](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/artificial-intelligence?u=76281980&t=217)** The more data, the better the ML.
 >
-> **[3:41](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/artificial-intelligence?u=76281980&t=221)** With a category of ML called deep learning, we get capabilities such as image, speech, and face recognition.
+> **[3:41](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/artificial-intelligence?u=76281980&t=221)** With a category of ML called [[Deep Learning]], we get capabilities such as image, speech, and face recognition.
 >
 > **[3:50](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/artificial-intelligence?u=76281980&t=230)** As you'd imagine, the research and application of AI is wide and complex.
 >
@@ -1082,7 +1069,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/artificial-intelligence?u=76281980&t=243)** In addition to the rapid expansion of AI knowledge and breakthroughs, its accessibility is much greater than ever before.
 >
-> **[4:11](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/artificial-intelligence?u=76281980&t=251)** The relative ease to access new solutions from major players such as IBM, Google, Amazon, Microsoft, and a large number of startups is making it much simpler for organizations to embed AI into their products and services.
+> **[4:11](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/artificial-intelligence?u=76281980&t=251)** The relative ease to access new solutions from major players such as IBM, [[Google]], Amazon, [[Microsoft]], and a large number of startups is making it much simpler for organizations to embed AI into their [[Microsoft Products|products]] and services.
 >
 > **[4:26](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/artificial-intelligence?u=76281980&t=266)** One category of the application of AI, chatbots, provides an interface between a human and a computer.
 >
@@ -1090,7 +1077,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/artificial-intelligence?u=76281980&t=281)** These chatbots are becoming more valuable with advances in both machine learning and natural language recognition.
 >
-> **[4:49](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/artificial-intelligence?u=76281980&t=289)** Recently, a category of AI called generative AI has been creating quite a stir.
+> **[4:49](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/artificial-intelligence?u=76281980&t=289)** Recently, a category of AI called [[Generative AI]] has been creating quite a stir.
 >
 > **[4:55](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/artificial-intelligence?u=76281980&t=295)** This is when AI generates new content in response to prompts from a user.
 >
@@ -1106,15 +1093,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (23), data (2), application (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Big Data]] (1), [[Probability]] (1), [[Deep Learning]] (1), [[Google]] (1)
 > **Analogies:** such as (2), think of it like (1), for example (1), picture (1), imagine (1)
 > **Env Vars:** ibm (2), hal (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
-#### Internet-of-Things
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/internet-of-things?u=76281980)
+#### [Internet-of-Things](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/internet-of-things?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1140,7 +1126,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/internet-of-things?u=76281980&t=76)** It was also connecting machines to machines.
 >
-> **[1:20](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/internet-of-things?u=76281980&t=80)** By the early 2000s, the first references to an Internet of things or IoT emerged.
+> **[1:20](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/internet-of-things?u=76281980&t=80)** By the early 2000s, the first references to an [[IoT|Internet of things]] or [[IoT]] emerged.
 >
 > **[1:27](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/internet-of-things?u=76281980&t=87)** Consider that while the total human participation on the internet is limited to the world's population size, the IoT has no such upper limit.
 >
@@ -1176,7 +1162,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/internet-of-things?u=76281980&t=222)** Embedding this technology in a manufacturing context improves traditional human processes such as predicting production and maintenance issues early.
 >
-> **[3:52](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/internet-of-things?u=76281980&t=232)** The IIoT also improves quality control, sustainability practices, and supply chain efficiency.
+> **[3:52](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/internet-of-things?u=76281980&t=232)** The IIoT also improves quality control, [[Sustainability]] practices, and supply chain efficiency.
 >
 > **[4:00](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/internet-of-things?u=76281980&t=240)** Improved outcomes include better energy management and asset tracking.
 >
@@ -1212,15 +1198,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (10), data (4), [[Internet of Things (IoT)|Internet of things]] (3), web (2), next (2)
+> **Frameworks & Libraries:** [[IoT]] (10), [[IoT|Internet of things]] (3), [[Sustainability]] (1)
 > **Analogies:** such as (5), for example (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the next (1)
 > **Tools:** notion (1)
 > **Speakers:** - the (1)
 
-#### Blockchain, cryptos, tokens, and NFTs
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980)
+#### [Blockchain, cryptos, tokens, and NFTs](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1234,7 +1219,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=27)** Surprisingly though, building Bitcoin resulted in an unanticipated technological twist.
 >
-> **[0:33](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=33)** Its core enabling technology, the distributed ledger, which we now refer to as blockchain, became a compelling utility for uses outside of cryptos.
+> **[0:33](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=33)** Its core enabling technology, the distributed ledger, which we now refer to as [[Blockchain]], became a compelling utility for uses outside of cryptos.
 >
 > **[0:45](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=45)** I'll explain.
 >
@@ -1242,7 +1227,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=51)** These transactions record and store the activities of Bitcoin users, such as sending or receiving money with others.
 >
-> **[0:58](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=58)** Unlike traditional databases, this system has unique capabilities, such as immutability.
+> **[0:58](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=58)** Unlike traditional [[Databases]], this system has unique capabilities, such as immutability.
 >
 > **[1:05](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=65)** There's no delete function.
 >
@@ -1254,17 +1239,17 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=85)** For a while after the introduction of Bitcoin, blockchain technology was relatively unknown.
 >
-> **[1:31](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=91)** However, technologists quickly discovered, that there were properties of blockchain technology that made it appealing outside the domain of cryptocurrency.
+> **[1:31](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=91)** However, technologists quickly discovered, that there were properties of blockchain technology that made it appealing outside the domain of [[Cryptocurrency]].
 >
 > **[1:41](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=101)** They discovered that the qualities of blockchain, those that made it suitable for driving the functionality of Bitcoin, meant it could be used as a way to store and manage all types of data.
 >
-> **[1:53](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=113)** Specifically, rather than just representing money, blockchain could manage digital tokens that could represent just about anything.
+> **[1:53](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=113)** Specifically, rather than just representing money, blockchain could manage digital [[Tokens]] that could represent just about anything.
 >
 > **[2:01](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=121)** Blockchain began its rise as a new disruptive technology.
 >
 > **[2:06](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=126)** While traditional centralized databases have served us well for several decades, they do have some notable weaknesses.
 >
-> **[2:13](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=133)** These include issues with privacy and integrity and with account administration, ensuring only the right people have access to certain data.
+> **[2:13](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=133)** These include issues with [[Privacy]] and integrity and with account administration, ensuring only the right people have access to certain data.
 >
 > **[2:23](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=143)** Technologists have worked hard to plug these gaps, but challenges persist.
 >
@@ -1278,17 +1263,17 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=185)** And as it moves between stakeholders, it retains its integrity.
 >
-> **[3:10](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=190)** Blockchain began to find a home in a variety of experimental uses, from supply chain to financial services and from government to the Internet of things.
+> **[3:10](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=190)** Blockchain began to find a home in a variety of experimental uses, from supply chain to financial services and from government to the [[IoT|Internet of things]].
 >
 > **[3:22](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=202)** After Bitcoin, many more cryptos were introduced.
 >
 > **[3:25](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=205)** Including some with more sophisticated blockchain designs.
 >
-> **[3:29](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=209)** In particular, Ethereum was introduced in 2015.
+> **[3:29](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=209)** In particular, [[Ethereum]] was introduced in 2015.
 >
 > **[3:34](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=214)** And its blockchain included a programming platform.
 >
-> **[3:37](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=217)** Known as smart contracts, these programs executed blockchain-based actions based on certain conditions being met.
+> **[3:37](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=217)** Known as [[Smart Contracts]], these programs executed blockchain-based actions based on certain conditions being met.
 >
 > **[3:46](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=226)** A simple metaphor to explain this is to consider how a vending machine dispenses a candy bar when the right amount of money is inserted.
 >
@@ -1308,7 +1293,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=290)** Called non-fungible tokens, or NFTs, this new capabilities providing creators with novel tools to manage their intellectual properties.
 >
-> **[5:00](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=300)** NFTs can be used as well to provide authentication and management capabilities for physical products.
+> **[5:00](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=300)** NFTs can be used as well to provide authentication and management capabilities for physical [[Microsoft Products|products]].
 >
 > **[5:08](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/blockchain-cryptos-tokens-and-nfts?u=76281980&t=308)** Finally, the same convergence of technologies has created a platform for disruption in the financial sector.
 >
@@ -1324,7 +1309,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (16), [[Databases]] (4), [[Tokens]] (4), database (3), data (2)
+> **Frameworks & Libraries:** [[Blockchain]] (16), [[Databases]] (4), [[Tokens]] (4), [[Smart Contracts]] (2), [[Cryptocurrency]] (1)
 > **Analogies:** such as (4), for example (1)
 > **Definitions:** is a  (1), known as (1)
 > **CLI Commands:** find (1)
@@ -1332,8 +1317,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - in (1)
 
-#### Autonomous vehicles
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/autonomous-vehicles?u=76281980)
+#### [Autonomous vehicles](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/autonomous-vehicles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1347,7 +1331,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/autonomous-vehicles?u=76281980&t=28)** In the 1980s, the first visually driven experiments were conducted.
 >
-> **[0:33](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/autonomous-vehicles?u=76281980&t=33)** The initial breakthroughs involved the application of both improved computer vision and a maturing technology called LIDAR.
+> **[0:33](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/autonomous-vehicles?u=76281980&t=33)** The initial breakthroughs involved the application of both improved [[Computer Vision]] and a maturing technology called LIDAR.
 >
 > **[0:41](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/autonomous-vehicles?u=76281980&t=41)** LIDAR uses a pulse laser to illuminate a target and then measure the reflected pulses with a sensor.
 >
@@ -1433,7 +1417,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (6), traffic (2), application (1), [[Computer Vision]] (1), next (1)
+> **Frameworks & Libraries:** [[Computer Vision]] (1)
 > **Definitions:** is called (5), means that (1), is a  (1)
 > **Env Vars:** lidar (2), darpa (1), ssae (1)
 > **Analogies:** such as (2), imagine (1), similar to (1)
@@ -1441,8 +1425,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - the (1)
 
-#### Web3
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/web3?u=76281980)
+#### [Web3](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/web3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1458,7 +1441,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/web3?u=76281980&t=34)** Users could engage with webpages by submitting information and queries and getting unique responses.
 >
-> **[0:41](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/web3?u=76281980&t=41)** Capabilities such as e-commerce, productivity suites, social media, and most of what we use online today became possible.
+> **[0:41](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/web3?u=76281980&t=41)** Capabilities such as [[E-Commerce]], productivity suites, social media, and most of what we use online today became possible.
 >
 > **[0:49](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/web3?u=76281980&t=49)** Today, we're seeing the first sprout of the possible next generation of the web, called Web3.
 >
@@ -1480,17 +1463,17 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/web3?u=76281980&t=116)** A small set of tech companies have gathered power over the Web because it was designed around centralized systems owned and delivered by them.
 >
-> **[2:04](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/web3?u=76281980&t=124)** The solution, therefore, proposed by advocates of Web3, is decentralization.
+> **[2:04](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/web3?u=76281980&t=124)** The solution, therefore, proposed by advocates of Web3, is [[Decentralization]].
 >
 > **[2:11](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/web3?u=76281980&t=131)** A major platform of choice?
 >
-> **[2:12](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/web3?u=76281980&t=132)** Well, that would be blockchain technology, the poster child of decentralized architecture.
+> **[2:12](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/web3?u=76281980&t=132)** Well, that would be [[Blockchain]] technology, the poster child of decentralized architecture.
 >
-> **[2:20](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/web3?u=76281980&t=140)** With a web platform based on blockchain, in concert with artificial intelligence, users would take control of their data and have the power to participate through consensus in the governance of the applications they use.
+> **[2:20](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/web3?u=76281980&t=140)** With a web platform based on blockchain, in concert with [[Artificial Intelligence (AI)|artificial intelligence]], users would take control of their data and have the power to participate through consensus in the governance of the applications they use.
 >
 > **[2:33](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/web3?u=76281980&t=153)** Users can move from being simply customers to being active participants and a type of shareholder.
 >
-> **[2:40](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/web3?u=76281980&t=160)** The use of blockchain tokens will be incorporated to enable representation of power and ownership by individuals.
+> **[2:40](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/web3?u=76281980&t=160)** The use of blockchain [[Tokens]] will be incorporated to enable representation of power and ownership by individuals.
 >
 > **[2:48](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/web3?u=76281980&t=168)** We've already seen how, as an example, non-fungible tokens, or NFTs, have enabled creatives to fully control their own digital assets.
 >
@@ -1508,15 +1491,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (12), power (4), [[Blockchain]] (4), data (3), [[Decentralization]] (2)
+> **Frameworks & Libraries:** [[Blockchain]] (4), [[Decentralization]] (2), [[Tokens]] (2), [[E-Commerce]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Versions:** 1.0 (2), 2.0 (1)
 > **Env Vars:** nft (1)
 > **Cross-References:** previous video (1)
 > **Analogies:** such as (1)
 > **Speakers:** - since (1)
 
-#### Here comes the metaverse
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/here-comes-the-metaverse?u=76281980)
+#### [Here comes the metaverse](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/here-comes-the-metaverse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1572,7 +1554,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/here-comes-the-metaverse?u=76281980&t=229)** The technologies that will eventually enable some form of the 3D Internet to emerge are many of those I've discussed in this course.
 >
-> **[3:58](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/here-comes-the-metaverse?u=76281980&t=238)** They include artificial intelligence, the Internet of things, digital twins, and blockchain.
+> **[3:58](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/here-comes-the-metaverse?u=76281980&t=238)** They include [[Artificial Intelligence (AI)|artificial intelligence]], the [[IoT|Internet of things]], digital twins, and [[Blockchain]].
 >
 > **[4:04](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/here-comes-the-metaverse?u=76281980&t=244)** And speaking of blockchain, perhaps beyond the 3D experience, the most compelling proposal for the metaverse is a world built on Web3, the decentralized web.
 >
@@ -1596,7 +1578,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (2), [[Blockchain]] (2), next (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[IoT|Internet of things]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** imagine (2), for example (1)
 > **Cross-References:** later in (1), previous video (1)
@@ -1605,8 +1587,7 @@ created: 2026-05-02
 > **Tools:** notion (1)
 > **Speakers:** - today (1)
 
-#### Digital twins
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/digital-twins?u=76281980)
+#### [Digital twins](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/digital-twins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1628,7 +1609,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/digital-twins?u=76281980&t=40)** During the 1960s, design capabilities improved with the emergence of new technologies.
 >
-> **[0:47](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/digital-twins?u=76281980&t=47)** For example, the US Space Program determined to put a person on the moon and return them to Earth by the end of the 1960s provided the impetus for vastly improved simulation solutions.
+> **[0:47](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/digital-twins?u=76281980&t=47)** For example, the US Space Program determined to put a person on the moon and return them to Earth by the end of the 1960s provided the impetus for vastly improved [[Simulation]] solutions.
 >
 > **[1:00](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/digital-twins?u=76281980&t=60)** Computer-supported modeling and simulations made great advances through the 1980s with the introduction of computer-aided design, or CAD.
 >
@@ -1662,15 +1643,15 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/digital-twins?u=76281980&t=181)** As the product moves to production, sensors are built into the physical object that collect and send data back to the digital twin.
 >
-> **[3:09](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/digital-twins?u=76281980&t=189)** Whether in the factory during construction or out being used by a customer, the physical twin communicates its state, such as temperature or vibration, to the digital twin, which can then be used for real-time monitoring.
+> **[3:09](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/digital-twins?u=76281980&t=189)** Whether in the factory during construction or out being used by a customer, the physical twin communicates its state, such as temperature or vibration, to the digital twin, which can then be used for [[Real-Time]] monitoring.
 >
 > **[3:25](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/digital-twins?u=76281980&t=205)** Imagine wind turbines deployed in some remote location, perhaps out at sea.
 >
 > **[3:32](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/digital-twins?u=76281980&t=212)** A digital twin of those turbines will ensure that data is monitored, and if necessary, action can be taken.
 >
-> **[3:39](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/digital-twins?u=76281980&t=219)** For example, after simulating the best outcome through artificial intelligence, a new configuration will be pushed to the turbine from the digital twin to ensure optimal performance.
+> **[3:39](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/digital-twins?u=76281980&t=219)** For example, after simulating the best outcome through [[Artificial Intelligence (AI)|artificial intelligence]], a new configuration will be pushed to the turbine from the digital twin to ensure optimal performance.
 >
-> **[3:53](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/digital-twins?u=76281980&t=233)** According to a survey by consulting firm Capgemini, 80% of companies in life sciences, consumer products, energy and utilities, manufacturing and infrastructure operators are using digital twins to develop new products, improve ops, increase worker safety, and meet sustainability targets.
+> **[3:53](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/digital-twins?u=76281980&t=233)** According to a survey by consulting firm Capgemini, 80% of companies in life sciences, consumer [[Microsoft Products|products]], energy and utilities, manufacturing and infrastructure operators are using digital twins to develop new products, improve ops, increase worker safety, and meet [[Sustainability]] targets.
 >
 > **[4:15](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/digital-twins?u=76281980&t=255)** Cities too are adopting digital twins in order to manage their urban centers.
 >
@@ -1694,7 +1675,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), data (3), [[Simulation]] (2), [[Real-Time]] (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Simulation]] (2), [[Real-Time]] (2), [[Microsoft Products|Products]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Sustainability]] (1)
 > **Analogies:** for example (3), imagine (2), such as (1)
 > **Definitions:** known as (1), is a  (1), is an  (1)
 > **Env Vars:** cad (1), plm (1)
@@ -1706,8 +1687,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The emergence of smarter cities
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-emergence-of-smarter-cities?u=76281980)
+#### [The emergence of smarter cities](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-emergence-of-smarter-cities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1779,13 +1759,13 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-emergence-of-smarter-cities?u=76281980&t=227)** The effort to create smarter and more sustainable cities will require bold choices in how we want to live and also reassessment of our behaviors and expectations.
 >
-> **[3:59](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-emergence-of-smarter-cities?u=76281980&t=239)** Smarter cities are all about strategies to improve livability, workability and sustainability.
+> **[3:59](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-emergence-of-smarter-cities?u=76281980&t=239)** Smarter cities are all about strategies to improve livability, workability and [[Sustainability]].
 >
 > **[4:05](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-emergence-of-smarter-cities?u=76281980&t=245)** Technology is at the heart of delivering new ideas and solutions to some of the most intractable issues such as those related to transportation, energy, water and public safety.
 >
 > **[4:20](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-emergence-of-smarter-cities?u=76281980&t=260)** Foundational fourth industrial revolution technologies such as high speed, fixed and wireless internet.
 >
-> **[4:26](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-emergence-of-smarter-cities?u=76281980&t=266)** The internet of things, artificial intelligence, autonomous vehicles, digitalization, big data and many more are becoming the building blocks of our future cities.
+> **[4:26](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-emergence-of-smarter-cities?u=76281980&t=266)** The [[IoT|internet of things]], [[Artificial Intelligence (AI)|artificial intelligence]], autonomous vehicles, digitalization, [[Big Data]] and many more are becoming the building blocks of our future cities.
 >
 > **[4:39](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-emergence-of-smarter-cities?u=76281980&t=279)** I argue that cities are the ultimate manifestation of this new revolution.
 >
@@ -1797,13 +1777,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), product (1), hit (1), [[Sustainability]] (1), [[Internet of Things (IoT)|Internet of things]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (1), [[IoT|Internet of things]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Big Data]] (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - today (1)
 
-#### The future of work
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-future-of-work?u=76281980)
+#### [The future of work](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-future-of-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1829,7 +1808,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-future-of-work?u=76281980&t=77)** Specifically, the internet has enabled millions of people to work for themselves participate in the global marketplace, and to work at home.
 >
-> **[1:26](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-future-of-work?u=76281980&t=86)** The work is wide ranging and includes activities such as marketing, design, software development, and administrative tasks.
+> **[1:26](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-future-of-work?u=76281980&t=86)** The work is wide ranging and includes activities such as marketing, design, [[Software Development]], and administrative tasks.
 >
 > **[1:34](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-future-of-work?u=76281980&t=94)** The global pandemic COVID-19 also demonstrated how many more types of work could be performed from home.
 >
@@ -1837,9 +1816,9 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-future-of-work?u=76281980&t=108)** Even the in the absence of working online, recent experimentation with four-day work weeks and work from home options, all patterns are evolving.
 >
-> **[2:00](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-future-of-work?u=76281980&t=120)** In the United States, by around 2005, 30% of the workforce had become contractors, no longer tied to specific office or factory work hours and with little allegiance to any particular employer.
+> **[2:00](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-future-of-work?u=76281980&t=120)** In the United States, by around 2005, 30% of the workforce had become contractors, no longer tied to specific [[Microsoft Office|office]] or factory work hours and with little allegiance to any particular employer.
 >
-> **[2:15](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-future-of-work?u=76281980&t=135)** Many were becoming part of what we know now as the gig economy enabled by the prolific availability of technologies such as smartphones, internet connectivity, big data and artificial intelligence.
+> **[2:15](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-future-of-work?u=76281980&t=135)** Many were becoming part of what we know now as the gig economy enabled by the prolific availability of technologies such as smartphones, internet connectivity, [[Big Data]] and [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[2:27](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/the-future-of-work?u=76281980&t=147)** Gig-based organizations provided a lightweight platform for coordinating a wide range of business models.
 >
@@ -1909,19 +1888,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Automation]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Software Development]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Software Development]] (1), [[Microsoft Office|Office]] (1), [[Big Data]] (1)
 > **Analogies:** such as (4), for example (1), imagine (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** covid (1)
 > **Speakers:** - in (1)
 
-#### Vanishing industries and new industries
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/vanishing-industries-and-new-industries?u=76281980)
+#### [Vanishing industries and new industries](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/vanishing-industries-and-new-industries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/vanishing-industries-and-new-industries?u=76281980&t=0)** - During the Second Industrial Revolution in Britain, it was common for people to be woken up by a person tapping on their bedroom windows with an extended rod.
+> **[0:00](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/vanishing-industries-and-new-industries?u=76281980&t=0)** - During the Second Industrial Revolution in Britain, it was common for people to be woken up by a person tapping on their bedroom [[Windows]] with an extended rod.
 >
 > **[0:10](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/vanishing-industries-and-new-industries?u=76281980&t=10)** This real profession, called a knocker-upper, was essential to ensure that in the time before reliable and affordable alarm clocks, workers would be woken up on time to head to their factory jobs.
 >
@@ -1935,7 +1913,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/vanishing-industries-and-new-industries?u=76281980&t=50)** We can all likely think of many jobs made unnecessary and industries that have vanished as a result of innovation.
 >
-> **[0:57](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/vanishing-industries-and-new-industries?u=76281980&t=57)** We can also think of new industries, services and products that continue to emerge every year as a result of new technologies.
+> **[0:57](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/vanishing-industries-and-new-industries?u=76281980&t=57)** We can also think of new industries, services and [[Microsoft Products|products]] that continue to emerge every year as a result of new technologies.
 >
 > **[1:05](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/vanishing-industries-and-new-industries?u=76281980&t=65)** When considering the impact, scope and velocity of change in the Fourth Industrial Revolution, what types of industries may be most at risk?
 >
@@ -1983,11 +1961,11 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/vanishing-industries-and-new-industries?u=76281980&t=229)** Now, I want to add a footnote to this item.
 >
-> **[3:52](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/vanishing-industries-and-new-industries?u=76281980&t=232)** Daniel Pink's work slightly predates the recent breakthroughs in artificial intelligence.
+> **[3:52](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/vanishing-industries-and-new-industries?u=76281980&t=232)** Daniel Pink's work slightly predates the recent breakthroughs in [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[3:57](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/vanishing-industries-and-new-industries?u=76281980&t=237)** Whereas his thesis is wholly reliant on a world where computers aren't technically creative, AI may challenge this notion in the years ahead.
 >
-> **[4:06](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/vanishing-industries-and-new-industries?u=76281980&t=246)** For instance, the recent emergence of generative AI, which can, for example, quickly render an image simply based on text input, is producing early evidence of computers producing right-brained work.
+> **[4:06](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/vanishing-industries-and-new-industries?u=76281980&t=246)** For instance, the recent emergence of [[Generative AI]], which can, for example, quickly render an image simply based on text input, is producing early evidence of computers producing right-brained work.
 >
 > **[4:20](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/vanishing-industries-and-new-industries?u=76281980&t=260)** It's difficult to anticipate the new industries that may emerge in the years ahead.
 >
@@ -1997,9 +1975,9 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/vanishing-industries-and-new-industries?u=76281980&t=271)** AI will require support ecosystem.
 >
-> **[4:33](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/vanishing-industries-and-new-industries?u=76281980&t=273)** The Internet of Things is positioned to create incredible new value and data will have a central role.
+> **[4:33](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/vanishing-industries-and-new-industries?u=76281980&t=273)** The [[IoT|Internet of Things]] is positioned to create incredible new value and data will have a central role.
 >
-> **[4:40](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/vanishing-industries-and-new-industries?u=76281980&t=280)** Big domains such as cities, transportation, energy, healthcare, and sustainability will all generate opportunity.
+> **[4:40](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/vanishing-industries-and-new-industries?u=76281980&t=280)** Big domains such as cities, transportation, energy, healthcare, and [[Sustainability]] will all generate opportunity.
 >
 > **[4:49](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/vanishing-industries-and-new-industries?u=76281980&t=289)** Finally, I'm reminded of a popular early 21st century meme.
 >
@@ -2015,14 +1993,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Windows]] (1), [[Microsoft Products|Products]] (1), product (1), business (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Microsoft Products|Products]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1), [[IoT|Internet of things]] (1)
 > **Analogies:** for example (2), such as (2), for instance (1), picture (1)
 > **Definitions:** is a  (1), means that (1)
 > **Tools:** notion (1)
 > **Speakers:** - during (1)
 
-#### Ethical consequences and considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/ethical-consequences-and-considerations?u=76281980)
+#### [Ethical consequences and considerations](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/ethical-consequences-and-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2040,11 +2017,11 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/ethical-consequences-and-considerations?u=76281980&t=46)** More often than we would like, new technologies will be in operation before we even have ethical frameworks for them.
 >
-> **[0:55](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/ethical-consequences-and-considerations?u=76281980&t=55)** Two emergent and evolving areas that represent good examples of this are data privacy and artificial intelligence.
+> **[0:55](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/ethical-consequences-and-considerations?u=76281980&t=55)** Two emergent and evolving areas that represent good examples of this are [[Data Privacy]] and [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[1:03](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/ethical-consequences-and-considerations?u=76281980&t=63)** Our ethical responses as they relate to areas like these will test and stretch our leadership competencies with much more frequency in the Fourth Industrial Revolution.
 >
-> **[1:14](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/ethical-consequences-and-considerations?u=76281980&t=74)** But first, what is meant by ethics in this context?
+> **[1:14](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/ethical-consequences-and-considerations?u=76281980&t=74)** But first, what is meant by [[Ethics]] in this context?
 >
 > **[1:18](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/ethical-consequences-and-considerations?u=76281980&t=78)** It is how we behave and what we do relative to what we believe to be right or wrong.
 >
@@ -2062,7 +2039,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/ethical-consequences-and-considerations?u=76281980&t=131)** In the Fourth Industrial Revolution, ethical dilemmas associated with data privacy and AI will arise much more often.
 >
-> **[2:19](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/ethical-consequences-and-considerations?u=76281980&t=139)** Just the mere mention of the word privacy probably brings up a particular view you have of the topic.
+> **[2:19](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/ethical-consequences-and-considerations?u=76281980&t=139)** Just the mere mention of the [[Microsoft Word|word]] [[Privacy]] probably brings up a particular view you have of the topic.
 >
 > **[2:25](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/ethical-consequences-and-considerations?u=76281980&t=145)** Privacy, as a 21st century notion, is an area of significant debate.
 >
@@ -2142,7 +2119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (7), data (6), ai (6), [[Ethics]] (5), leadership (2)
+> **Frameworks & Libraries:** [[Ethics]] (5), [[Privacy]] (5), [[Data Privacy]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
@@ -2155,8 +2132,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Taking action: Organizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/taking-action-organizations?u=76281980)
+#### [Taking action: Organizations](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/taking-action-organizations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2170,7 +2146,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/taking-action-organizations?u=76281980&t=36)** Competition is global and rigorous.
 >
-> **[0:39](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/taking-action-organizations?u=76281980&t=39)** Innovation is swift.
+> **[0:39](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/taking-action-organizations?u=76281980&t=39)** Innovation is [[Swift (Programming Language)|swift]].
 >
 > **[0:42](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/taking-action-organizations?u=76281980&t=42)** We've known this for some time, but the fourth industrial revolution accelerates all of this.
 >
@@ -2182,7 +2158,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/taking-action-organizations?u=76281980&t=71)** Risk doesn't mean something will happen.
 >
-> **[1:14](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/taking-action-organizations?u=76281980&t=74)** It's probability on a continuum.
+> **[1:14](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/taking-action-organizations?u=76281980&t=74)** It's [[Probability]] on a continuum.
 >
 > **[1:18](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/taking-action-organizations?u=76281980&t=78)** In my view, the biggest risk to an organization in the fourth industrial revolution is that it doesn't evolve its relevance in a timely manner.
 >
@@ -2204,7 +2180,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/taking-action-organizations?u=76281980&t=117)** First, gather intelligence.
 >
-> **[2:00](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/taking-action-organizations?u=76281980&t=120)** This can take several forms, but at its most basic, it's about education.
+> **[2:00](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/taking-action-organizations?u=76281980&t=120)** This can take several [[Forms]], but at its most basic, it's about education.
 >
 > **[2:06](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/taking-action-organizations?u=76281980&t=126)** Consider this.
 >
@@ -2290,13 +2266,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Swift (Programming Language)|Swift]] (1), [[Probability]] (1), [[Forms]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), [[Probability]] (1), [[Forms]] (1)
 > **Env Vars:** swot (3), ftse (1)
 > **Definitions:** in other words (1), means that (1)
 > **Speakers:** - in (1)
 
-#### Taking action: Individuals
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/taking-action-individuals?u=76281980)
+#### [Taking action: Individuals](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/taking-action-individuals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2312,7 +2287,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/taking-action-individuals?u=76281980&t=34)** In some countries, there may be less mining or manufacturing jobs, but many new jobs have emerged in the service economy and in areas such as clean energy, healthcare, and computer science.
 >
-> **[0:46](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/taking-action-individuals?u=76281980&t=46)** In fact, in some areas there continues to be a shortage of qualified workers, in areas such as nursing, pilots, teaching, technology, project management, cybersecurity, and engineering.
+> **[0:46](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/taking-action-individuals?u=76281980&t=46)** In fact, in some areas there continues to be a shortage of qualified workers, in areas such as nursing, pilots, teaching, technology, project management, [[Cybersecurity]], and engineering.
 >
 > **[1:00](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/taking-action-individuals?u=76281980&t=60)** So is there a case for some optimism?
 >
@@ -2366,15 +2341,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (3), career (2), management (1), [[Cybersecurity]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **Analogies:** for example (3), such as (2), imagine (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ubi (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - so (1)
 
-#### Revolution, climate change, and the big picture
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/revolution-climate-change-and-the-big-picture?u=76281980)
+#### [Revolution, climate change, and the big picture](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/revolution-climate-change-and-the-big-picture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2396,7 +2370,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/revolution-climate-change-and-the-big-picture?u=76281980&t=62)** In many ways, these words may come to define the fourth industrial revolution.
 >
-> **[1:07](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/revolution-climate-change-and-the-big-picture?u=76281980&t=67)** For example, what choices will we make with regard to the role of artificial intelligence in society?
+> **[1:07](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/revolution-climate-change-and-the-big-picture?u=76281980&t=67)** For example, what choices will we make with regard to the role of [[Artificial Intelligence (AI)|artificial intelligence]] in society?
 >
 > **[1:14](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/revolution-climate-change-and-the-big-picture?u=76281980&t=74)** What will be the boundaries for editing the human body and extending life, creating new life, and even redefining life?
 >
@@ -2454,7 +2428,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (2), next (1), power (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** for example (2), such as (2), picture (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - a (1)
@@ -2464,16 +2438,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Final thoughts, next steps, and additional resources on the fourth Industrial Revolution
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/final-thoughts-next-steps-and-additional-resources-on-the-fourth-industrial-revolution?u=76281980)
+#### [Final thoughts, next steps, and additional resources on the fourth Industrial Revolution](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/final-thoughts-next-steps-and-additional-resources-on-the-fourth-industrial-revolution?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/final-thoughts-next-steps-and-additional-resources-on-the-fourth-industrial-revolution?u=76281980&t=0)** - You've reached the end of this primer on the Fourth Industrial Revolution, but there's much more to learn in areas that interest you.
 >
-> **[0:08](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/final-thoughts-next-steps-and-additional-resources-on-the-fourth-industrial-revolution?u=76281980&t=8)** Take a look at the LinkedIn Learning library of courses.
+> **[0:08](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/final-thoughts-next-steps-and-additional-resources-on-the-fourth-industrial-revolution?u=76281980&t=8)** Take a look at the [[LinkedIn]] Learning library of courses.
 >
-> **[0:11](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/final-thoughts-next-steps-and-additional-resources-on-the-fourth-industrial-revolution?u=76281980&t=11)** For example, I have several that cover in detail topics such as blockchain, digital twins, data digitalization, and many other related areas.
+> **[0:11](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/final-thoughts-next-steps-and-additional-resources-on-the-fourth-industrial-revolution?u=76281980&t=11)** For example, I have several that cover in detail topics such as [[Blockchain]], digital twins, data digitalization, and many other related areas.
 >
 > **[0:22](https://www.linkedin.com/learning/foundations-of-the-fourth-industrial-revolution-industry-4-0-22810607/final-thoughts-next-steps-and-additional-resources-on-the-fourth-industrial-revolution?u=76281980&t=22)** I'd love for you to check out my books on the future of cities, data, blockchain, and crypto, too, but don't stop there.
 >
@@ -2503,7 +2476,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Blockchain]] (2), data (2), career (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Blockchain]] (2)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)

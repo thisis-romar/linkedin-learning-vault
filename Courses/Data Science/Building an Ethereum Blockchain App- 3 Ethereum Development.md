@@ -68,16 +68,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Parts of the Ethereum blockchain
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980)
+#### [Parts of the Ethereum blockchain](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980&t=1)** - Now it's time to really get our hands dirty with Ethereum.
+> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980&t=1)** - Now it's time to really get our hands dirty with [[Ethereum]].
 >
 > **[0:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980&t=4)** Let's take a look at what's underneath the covers.
 >
-> **[0:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980&t=7)** What does the Blockchain actually look like?
+> **[0:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980&t=7)** What does the [[Blockchain]] actually look like?
 >
 > **[0:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980&t=10)** How are the blocks structured and how are they really put together?
 >
@@ -91,7 +90,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980&t=32)** So let's start with them some terminology.
 >
-> **[0:35](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980&t=35)** First off, we're going to be dealing with dApps, decentralized applications.
+> **[0:35](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980&t=35)** First off, we're going to be dealing with dApps, [[Decentralized Applications (DApps)|decentralized applications]].
 >
 > **[0:40](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980&t=40)** dApps are the apps that we use to interact with the Blockchain.
 >
@@ -115,7 +114,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980&t=104)** The nonce is a number used once.
 >
-> **[1:46](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980&t=106)** So the whole process of mining is finding the right number, the nonce, so that when you take that nonce or the rest of the data and the block, and you hash that, the number satisfies the complexity requirements.
+> **[1:46](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980&t=106)** So the whole process of mining is finding the right number, the nonce, so that when you take that nonce or the [[Representational State Transfer (REST)|rest]] of the data and the block, and you hash that, the number satisfies the complexity requirements.
 >
 > **[2:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980&t=124)** Now Ethereum uses a different complexity requirement than the simple example that I showed you earlier, which was the number of leading zeros.
 >
@@ -199,7 +198,7 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980&t=300)** We have a logsBloom, which is a Bloom filter.
 >
-> **[5:03](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980&t=303)** Bloom filters are cool data structures, way more complex when we have time to really get into right here.
+> **[5:03](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980&t=303)** Bloom filters are cool [[Data Structures]], way more complex when we have time to really get into right here.
 >
 > **[5:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980&t=308)** We also have a difficulty parameter, which shows the level of difficulty of the network at the time this block was created.
 >
@@ -249,7 +248,7 @@ created: 2026-05-02
 >
 > **[7:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980&t=421)** Then we have the to.
 >
-> **[7:02](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980&t=422)** So when you're transferring funds, you have a value amount, how much you're transferring of cryptocurrency from the signature or whoever it comes from, and then it has to be transferred to someone else, and that's the to value.
+> **[7:02](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980&t=422)** So when you're transferring funds, you have a value amount, how much you're transferring of [[Cryptocurrency]] from the signature or whoever it comes from, and then it has to be transferred to someone else, and that's the to value.
 >
 > **[7:15](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/parts-of-the-ethereum-blockchain?u=76281980&t=435)** And then finally there may be data associated with the transaction that may be over and above just the physical transfer.
 >
@@ -359,7 +358,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethereum]] (11), [[Blockchain]] (11), data (8), [[Representational State Transfer (REST)|Rest]] (2), feature (2)
+> **Frameworks & Libraries:** [[Ethereum]] (11), [[Blockchain]] (11), [[Representational State Transfer (REST)|Rest]] (2), [[Decentralized Applications (DApps)|Decentralized applications]] (1), [[Data Structures]] (1)
 > **Definitions:** is a  (7), in other words (2), means that (1), refers to (1)
 > **Code Identifiers:** dapps (2), gaslimit (2), parenthash (1), ommerhash (1), logsbloom (1)
 > **CLI Commands:** find (3), make (1)
@@ -368,12 +367,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (2)
 > **Env Vars:** evm (1)
 
-#### Smart contracts
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contracts?u=76281980)
+#### [Smart contracts](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contracts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contracts?u=76281980&t=0)** - So in the previous episode, we looked at the live Ethereum blockchain, and there's lots of data there.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contracts?u=76281980&t=0)** - So in the previous episode, we looked at the live [[Ethereum]] [[Blockchain]], and there's lots of data there.
 >
 > **[0:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contracts?u=76281980&t=7)** And we saw that more blocks were being added every few seconds.
 >
@@ -383,7 +381,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contracts?u=76281980&t=19)** Because we talked about the fact that miners take submitted transactions and add them into blocks, but how did they get there?
 >
-> **[0:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contracts?u=76281980&t=25)** Well, they get there through Smart Contracts.
+> **[0:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contracts?u=76281980&t=25)** Well, they get there through [[Smart Contracts]].
 >
 > **[0:28](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contracts?u=76281980&t=28)** The only way that you can actually submit a transaction to the Ethereum Network is that a Smart Contract has to run that you invoke a function, and then you do something, you put data onto the blockchain, but it all happens through Smart Contracts.
 >
@@ -457,7 +455,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (12), [[Ethereum]] (10), [[Smart Contracts]] (10), data (3), node (2)
+> **Frameworks & Libraries:** [[Blockchain]] (12), [[Ethereum]] (10), [[Smart Contracts]] (10)
 > **CLI Commands:** make (3), node (2)
 > **Cross-References:** we talked about (1), in the next (1)
 > **Definitions:** means that (1), in other words (1)
@@ -465,12 +463,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - so (1)
 
-#### Smart contract languages
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contract-languages?u=76281980)
+#### [Smart contract languages](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contract-languages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contract-languages?u=76281980&t=1)** - So, if you want to develop our own smart contracts, we have to learn what that means.
+> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contract-languages?u=76281980&t=1)** - So, if you want to develop our own [[Smart Contracts]], we have to learn what that means.
 >
 > **[0:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contract-languages?u=76281980&t=5)** We know what smart contracts are, but how do you actually create them from scratch?
 >
@@ -514,7 +511,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contract-languages?u=76281980&t=124)** So, a programming language is really nothing more than just a set of instructions that a computer carries out to accomplish certain tasks.
 >
-> **[2:12](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contract-languages?u=76281980&t=132)** So, knowing that what's the best language to use for Ethereum smart contracts?
+> **[2:12](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contract-languages?u=76281980&t=132)** So, knowing that what's the best language to use for [[Ethereum]] smart contracts?
 >
 > **[2:18](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contract-languages?u=76281980&t=138)** Well, there really is no best.
 >
@@ -540,7 +537,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contract-languages?u=76281980&t=190)** So if you really like list, maybe LLL is something you want to look at.
 >
-> **[3:13](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contract-languages?u=76281980&t=193)** Serpent is a newer language it's very similar to Python.
+> **[3:13](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contract-languages?u=76281980&t=193)** Serpent is a newer language it's very similar to [[Python (Programming Language)|Python]].
 >
 > **[3:18](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contract-languages?u=76281980&t=198)** Python is one of my favorite go-to languages.
 >
@@ -552,11 +549,11 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contract-languages?u=76281980&t=214)** So, security is important you may want to look at that one.
 >
-> **[3:37](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contract-languages?u=76281980&t=217)** However, by far the most popular language that's used today, for Ethereum smart contract development is solidity.
+> **[3:37](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contract-languages?u=76281980&t=217)** However, by far the most popular language that's used today, for Ethereum smart contract development is [[Solidity]].
 >
-> **[3:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contract-languages?u=76281980&t=225)** It's very similar to Java script.
+> **[3:45](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contract-languages?u=76281980&t=225)** It's very similar to [[Java]] script.
 >
-> **[3:47](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contract-languages?u=76281980&t=227)** So if you know anything about JavaScript syntax, you're going to really find Solidity to be very familiar.
+> **[3:47](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contract-languages?u=76281980&t=227)** So if you know anything about [[JavaScript]] syntax, you're going to really find Solidity to be very familiar.
 >
 > **[3:53](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/smart-contract-languages?u=76281980&t=233)** We've chosen to use Solidity.
 >
@@ -564,25 +561,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (5), [[Solidity]] (4), [[Smart Contracts]] (3), [[Ethereum]] (3), [[Python (Programming Language)|Python]] (3)
+> **Frameworks & Libraries:** [[Solidity]] (4), [[Smart Contracts]] (3), [[Ethereum]] (3), [[Python (Programming Language)|Python]] (3), [[Java]] (1)
 > **Analogies:** kind of like (2), similar to (2), just like (1), such as (1), for example (1)
 > **CLI Commands:** python (3), find (1)
 > **Definitions:** is a  (2), in other words (1), is an  (1)
 > **Env Vars:** lll (2)
 > **Speakers:** - so (1)
 
-#### What are virtual machines?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980)
+#### [What are virtual machines?](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=1)** - You've already heard the term Ethereum Virtual Machine several times.
+> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=1)** - You've already heard the term [[Ethereum]] Virtual Machine several times.
 >
 > **[0:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=4)** And we know that every Ethereum node runs an Ethereum Virtual Machine, the EVM.
 >
 > **[0:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=11)** And it is the EVM that execute smart contract code.
 >
-> **[0:15](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=15)** All right, so, we're talking about smart contracts and we know that we're going to run that in the context of the EVM.
+> **[0:15](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=15)** All right, so, we're talking about [[Smart Contracts]] and we know that we're going to run that in the context of the EVM.
 >
 > **[0:23](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=23)** But let's unpack that a little bit.
 >
@@ -602,17 +598,17 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=67)** Then you lay the operating system on top of that.
 >
-> **[1:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=70)** The operating system is software that allows application code or application software to interact with the hardware.
+> **[1:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=70)** The operating system is software that allows application code or application software to interact with the [[Hardware]].
 >
 > **[1:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=77)** So it sits between the two.
 >
 > **[1:19](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=79)** And then you install your applications.
 >
-> **[1:21](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=81)** You install Microsoft Office, you install your web browser, you install your favorite games and do all the fun stuff.
+> **[1:21](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=81)** You install [[Microsoft Office]], you install your web browser, you install your favorite games and do all the fun stuff.
 >
 > **[1:28](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=88)** And that's how a computer works.
 >
-> **[1:31](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=91)** So, if you have a Windows machine, and then you want to do something like run a Linux application, or you want to play around with Linux, it's difficult to do because you already have Windows on your box.
+> **[1:31](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=91)** So, if you have a [[Windows]] machine, and then you want to do something like run a [[Linux]] application, or you want to play around with Linux, it's difficult to do because you already have Windows on your box.
 >
 > **[1:44](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=104)** However, what you could do is you could start using a virtual machine.
 >
@@ -620,7 +616,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=110)** It has its own operating system and hardware.
 >
-> **[1:53](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=113)** But then you can create virtual segments or virtual machines inside a physical machine.
+> **[1:53](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=113)** But then you can create virtual segments or [[Virtual Machines]] inside a physical machine.
 >
 > **[2:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=121)** So a virtual machine normally would run in the context of another virtual manager, such as VMware or VirtualBox or Hyper-V.
 >
@@ -676,17 +672,17 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=303)** And I can also reduce overall IT acquisition and management costs because I don't have to buy and maintain as many physical servers that way.
 >
-> **[5:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=311)** And, the icing on the cake is that it is virtualization that makes cloud computing possible.
+> **[5:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=311)** And, the icing on the cake is that it is virtualization that makes [[Cloud Computing]] possible.
 >
 > **[5:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=317)** So everything you're doing in the cloud is you're running on virtual machines.
 >
 > **[5:21](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=321)** So that gives you a brief history of and explanation of what virtual machines are.
 >
-> **[5:27](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=327)** Next we're going to see how a Ethereum uses this concept to implement it's blockchain.
+> **[5:27](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/what-are-virtual-machines?u=76281980&t=327)** Next we're going to see how a Ethereum uses this concept to implement it's [[Blockchain]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Machines]] (8), [[Virtualization]] (7), [[Ethereum]] (5), [[Windows]] (5), application (4)
+> **Frameworks & Libraries:** [[Virtual Machines]] (8), [[Ethereum]] (5), [[Windows]] (5), [[Hardware]] (4), [[Linux]] (4)
 > **Env Vars:** evm (3), cpu (1)
 > **Prerequisites:** install (4)
 > **Definitions:** is a  (2), in other words (1)
@@ -694,16 +690,15 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - you (1)
 
-#### The Ethereum Virtual Machine (EVM)
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/the-ethereum-virtual-machine-evm?u=76281980)
+#### [The Ethereum Virtual Machine (EVM)](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/the-ethereum-virtual-machine-evm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/the-ethereum-virtual-machine-evm?u=76281980&t=0)** - So now you know what virtual machines are.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/the-ethereum-virtual-machine-evm?u=76281980&t=0)** - So now you know what [[Virtual Machines]] are.
 >
-> **[0:03](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/the-ethereum-virtual-machine-evm?u=76281980&t=3)** Once again, they are virtual environments that have their own operating system and applications that run on shared physical hardware.
+> **[0:03](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/the-ethereum-virtual-machine-evm?u=76281980&t=3)** Once again, they are virtual environments that have their own operating system and applications that run on shared physical [[Hardware]].
 >
-> **[0:12](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/the-ethereum-virtual-machine-evm?u=76281980&t=12)** So how does that map to Ethereum?
+> **[0:12](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/the-ethereum-virtual-machine-evm?u=76281980&t=12)** So how does that map to [[Ethereum]]?
 >
 > **[0:15](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/the-ethereum-virtual-machine-evm?u=76281980&t=15)** Ethereum uses its runtime as the Ethereum Virtual Machine.
 >
@@ -711,7 +706,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/the-ethereum-virtual-machine-evm?u=76281980&t=38)** So that's basically how the Ethereum Virtual Machine presents itself.
 >
-> **[0:42](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/the-ethereum-virtual-machine-evm?u=76281980&t=42)** It is a software application that creates a closed environment and the smart contracts work and they run inside that environment.
+> **[0:42](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/the-ethereum-virtual-machine-evm?u=76281980&t=42)** It is a software application that creates a closed environment and the [[Smart Contracts]] work and they run inside that environment.
 >
 > **[0:51](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/the-ethereum-virtual-machine-evm?u=76281980&t=51)** The EVM is present on all nodes.
 >
@@ -719,7 +714,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/the-ethereum-virtual-machine-evm?u=76281980&t=60)** So it gets installed with Ethereum.
 >
-> **[1:02](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/the-ethereum-virtual-machine-evm?u=76281980&t=62)** So whenever you download and install your own blockchain client, you actually are installing the EVM.
+> **[1:02](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/the-ethereum-virtual-machine-evm?u=76281980&t=62)** So whenever you download and install your own [[Blockchain]] client, you actually are installing the EVM.
 >
 > **[1:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/the-ethereum-virtual-machine-evm?u=76281980&t=69)** Now, it's important to understand that all EVM instances play by the same rules.
 >
@@ -755,7 +750,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethereum]] (11), node (6), [[Blockchain]] (5), application (2), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Ethereum]] (11), [[Blockchain]] (5), [[Virtual Machines]] (1), [[Hardware]] (1), [[Smart Contracts]] (1)
 > **Env Vars:** evm (9)
 > **CLI Commands:** node (6)
 > **Definitions:** in other words (1), is a  (1), means that (1)
@@ -763,16 +758,15 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Speakers:** - so (1)
 
-#### Fueling your code with gas
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/fueling-your-code-with-gas?u=76281980)
+#### [Fueling your code with gas](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/fueling-your-code-with-gas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/fueling-your-code-with-gas?u=76281980&t=0)** - One other aspect that's brand new to Ethereum is that of gas.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/fueling-your-code-with-gas?u=76281980&t=0)** - One other aspect that's brand new to [[Ethereum]] is that of gas.
 >
-> **[0:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/fueling-your-code-with-gas?u=76281980&t=5)** Gas is a cryptocurrency cost of accessing the blockchain.
+> **[0:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/fueling-your-code-with-gas?u=76281980&t=5)** Gas is a [[Cryptocurrency]] cost of accessing the [[Blockchain]].
 >
-> **[0:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/fueling-your-code-with-gas?u=76281980&t=10)** So unlike legacy applications like database applications, you can't just read from or write to the blockchain for free.
+> **[0:10](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/fueling-your-code-with-gas?u=76281980&t=10)** So unlike legacy applications like [[Database Applications]], you can't just read from or write to the blockchain for free.
 >
 > **[0:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/fueling-your-code-with-gas?u=76281980&t=17)** There's a tiny little cost that goes with every transaction access.
 >
@@ -788,7 +782,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/fueling-your-code-with-gas?u=76281980&t=66)** So what you can do for each transaction is you can set a maximum amount that you're willing to pay.
 >
-> **[1:13](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/fueling-your-code-with-gas?u=76281980&t=73)** This incentivizes developers to create efficient smart contracts.
+> **[1:13](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/fueling-your-code-with-gas?u=76281980&t=73)** This incentivizes developers to create efficient [[Smart Contracts]].
 >
 > **[1:17](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/fueling-your-code-with-gas?u=76281980&t=77)** Because if you say I'm only going to pay a certain amount of gas and smart contracts are kind of, they're not very conservative in their use of gas and you may get an iteration or two and you run out of gas, then your transactions are never going to complete.
 >
@@ -858,21 +852,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (10), data (3), [[Smart Contracts]] (2), [[Ethereum]] (1), [[Cryptocurrency]] (1)
+> **Frameworks & Libraries:** [[Blockchain]] (10), [[Smart Contracts]] (2), [[Ethereum]] (1), [[Cryptocurrency]] (1), [[Database Applications]] (1)
 > **Definitions:** is a  (2), means that (1), in other words (1)
 > **Analogies:** just like (1), kind of like (1)
 > **Cross-References:** go back to (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - one (1)
 
-#### Tools for Ethereum SDLC
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/tools-for-ethereum-sdlc?u=76281980)
+#### [Tools for Ethereum SDLC](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/tools-for-ethereum-sdlc?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/tools-for-ethereum-sdlc?u=76281980&t=1)** - So now we've laid the foundation and we're ready to move ahead.
 >
-> **[0:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/tools-for-ethereum-sdlc?u=76281980&t=4)** The next step is to move forward and start developing our decentralized apps through smart contracts.
+> **[0:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/tools-for-ethereum-sdlc?u=76281980&t=4)** The next step is to move forward and start developing our decentralized apps through [[Smart Contracts]].
 >
 > **[0:11](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/tools-for-ethereum-sdlc?u=76281980&t=11)** So we have to learn how to develop application code.
 >
@@ -882,7 +875,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/tools-for-ethereum-sdlc?u=76281980&t=20)** It's just the natural progression of developing an application.
 >
-> **[0:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/tools-for-ethereum-sdlc?u=76281980&t=25)** And it's called the software development life cycle, SDLC.
+> **[0:25](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/tools-for-ethereum-sdlc?u=76281980&t=25)** And it's called the [[Software Development]] life cycle, SDLC.
 >
 > **[0:28](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/tools-for-ethereum-sdlc?u=76281980&t=28)** There's lots of different phases and ways to do describe it, but we're going to keep it really, really simple.
 >
@@ -906,9 +899,9 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/tools-for-ethereum-sdlc?u=76281980&t=78)** So what do we need?
 >
-> **[1:19](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/tools-for-ethereum-sdlc?u=76281980&t=79)** Well first, we need blockchain client.
+> **[1:19](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/tools-for-ethereum-sdlc?u=76281980&t=79)** Well first, we need [[Blockchain]] client.
 >
-> **[1:22](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/tools-for-ethereum-sdlc?u=76281980&t=82)** So what we're going to do is we're going to install an Ethereum of blockchain client so that we have our own EVM so that we can develop and run smart contracts locally.
+> **[1:22](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/tools-for-ethereum-sdlc?u=76281980&t=82)** So what we're going to do is we're going to install an [[Ethereum]] of blockchain client so that we have our own EVM so that we can develop and run smart contracts locally.
 >
 > **[1:32](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/tools-for-ethereum-sdlc?u=76281980&t=92)** After we write the code, we have to be able to test it in a local environment.
 >
@@ -918,7 +911,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/tools-for-ethereum-sdlc?u=76281980&t=113)** Well, another thing we have to be concerned about is taking our source code, which is the text that we write in an editor and converting it into bytecode that the EVM can execute.
 >
-> **[2:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/tools-for-ethereum-sdlc?u=76281980&t=124)** For that, we need an Ethereum compiler, actually, we need a Solidity compiler.
+> **[2:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/tools-for-ethereum-sdlc?u=76281980&t=124)** For that, we need an Ethereum compiler, actually, we need a [[Solidity]] compiler.
 >
 > **[2:09](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/tools-for-ethereum-sdlc?u=76281980&t=129)** So we want a compiler for the language we're writing our smart contract code in.
 >
@@ -934,7 +927,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (3), [[Smart Contracts]] (2), application (2), [[Ethereum]] (2), next (1)
+> **Frameworks & Libraries:** [[Blockchain]] (3), [[Smart Contracts]] (2), [[Ethereum]] (2), [[Software Development]] (1), [[Solidity]] (1)
 > **Env Vars:** evm (2), sdlc (1), ide (1)
 > **Exercise Files:** source code (2)
 > **UI Navigation:** go to (1)
@@ -942,12 +935,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - so (1)
 
-#### Blockchain client
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/blockchain-client?u=76281980)
+#### [Blockchain client](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/blockchain-client?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/blockchain-client?u=76281980&t=0)** - The first component that we need to put in place as we build our Ethereum development environment is the blockchain client.
+> **[0:00](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/blockchain-client?u=76281980&t=0)** - The first component that we need to put in place as we build our [[Ethereum]] development environment is the [[Blockchain]] client.
 >
 > **[0:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/blockchain-client?u=76281980&t=8)** Now recall that a blockchain client is just a soft replication that makes a computer or a device a node on the Ethereum blockchain.
 >
@@ -981,19 +973,19 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/blockchain-client?u=76281980&t=112)** Some of the options include Cpp-ethereum that's written in C++.
 >
-> **[1:57](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/blockchain-client?u=76281980&t=117)** There's also Ethereumjs-lib, which is written in JavaScript.
+> **[1:57](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/blockchain-client?u=76281980&t=117)** There's also Ethereumjs-lib, which is written in [[JavaScript]].
 >
 > **[2:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/blockchain-client?u=76281980&t=121)** There's Geth or go-Ethereum, which is written in a language Go.
 >
 > **[2:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/blockchain-client?u=76281980&t=125)** That's actually what we're going to be using.
 >
-> **[2:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/blockchain-client?u=76281980&t=127)** There's also Parity, which is written in Rust, the Rust language, and also Pyethapp, which is a Python Ethereum app.
+> **[2:07](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/blockchain-client?u=76281980&t=127)** There's also Parity, which is written in [[Rust (Programming Language)|Rust]], the Rust language, and also Pyethapp, which is a [[Python (Programming Language)|Python]] Ethereum app.
 >
 > **[2:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/blockchain-client?u=76281980&t=136)** So it just depends on what language you're most comfortable with, but go to the website for each one, download the one you want, install it, fire it up, and now you are a node on the Ethereum network.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (9), [[Ethereum]] (8), [[Blockchain]] (8), [[Rust (Programming Language)|Rust]] (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Ethereum]] (8), [[Blockchain]] (8), [[Rust (Programming Language)|Rust]] (2), [[JavaScript]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** node (9), make (2), python (1)
 > **Env Vars:** evm (3)
 > **Definitions:** in other words (1), is a  (1)
@@ -1002,14 +994,13 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - the (1)
 
-#### Writing and testing your code, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-1?u=76281980)
+#### [Writing and testing your code, part 1](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-1?u=76281980&t=1)** - Once you have your own Ethereum client installed.
+> **[0:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-1?u=76281980&t=1)** - Once you have your own [[Ethereum]] client installed.
 >
-> **[0:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-1?u=76281980&t=4)** by default, when you first fire it up, it's going to connect to the Ethereum blockchain, which is Mainnet, and download everything or part if you're a light node.
+> **[0:04](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-1?u=76281980&t=4)** by default, when you first fire it up, it's going to connect to the Ethereum [[Blockchain]], which is Mainnet, and download everything or part if you're a light node.
 >
 > **[0:14](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-1?u=76281980&t=14)** However, you never ever write smart contract code and deploy it directly to Mainnet.
 >
@@ -1023,7 +1014,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-1?u=76281980&t=41)** Because again, you don't want to put anything out on Mainnet, on the live network, until you're sure that it's going to work the way that you want.
 >
-> **[0:49](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-1?u=76281980&t=49)** So traditional development, if you've ever done any traditional software development, you write and you test your code in a safe, simulated environment.
+> **[0:49](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-1?u=76281980&t=49)** So traditional development, if you've ever done any traditional [[Software Development]], you write and you test your code in a safe, simulated environment.
 >
 > **[0:57](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-1?u=76281980&t=57)** So we're going to do the same thing in Ethereum development.
 >
@@ -1053,9 +1044,9 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-1?u=76281980&t=136)** You get fake money to use to run on that network, and that's the whole idea.
 >
-> **[2:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-1?u=76281980&t=140)** So you want to make sure you get everything right and you're economizing your usage of cryptocurrency and gas before you go to a live net.
+> **[2:20](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-1?u=76281980&t=140)** So you want to make sure you get everything right and you're economizing your usage of [[Cryptocurrency]] and gas before you go to a live net.
 >
-> **[2:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-1?u=76281980&t=149)** All right, so there's lots of examples here of products we can use to create our local development and testing blockchains.
+> **[2:29](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-1?u=76281980&t=149)** All right, so there's lots of examples here of [[Microsoft Products|products]] we can use to create our local development and testing blockchains.
 >
 > **[2:36](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-1?u=76281980&t=156)** First, there's Ganache, one of the most popular tools.
 >
@@ -1101,7 +1092,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (12), [[Ethereum]] (4), data (3), next (2), node (1)
+> **Frameworks & Libraries:** [[Blockchain]] (12), [[Ethereum]] (4), [[Software Development]] (1), [[Cryptocurrency]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** docker (4), make (3), node (1)
 > **Env Vars:** evm (2), ide (1)
 > **Prerequisites:** set up (2), install (1)
@@ -1110,8 +1101,7 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
 
-#### Writing and testing your code, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980)
+#### [Writing and testing your code, part 2](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1127,7 +1117,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=42)** And of course, I keep alluding to the fact that the next step up the chain is the integrated development environment.
 >
-> **[0:48](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=48)** An IDE is basically one workspace that has several views, all built in, and they're like little windows that make it easy for you to code, see compiler errors, manage the organization of where your files live, and it's all in a tight, integrated environment that makes it easy for you to do everything you need to do to write test and then deploy your code.
+> **[0:48](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=48)** An IDE is basically one workspace that has several views, all built in, and they're like little [[Windows]] that make it easy for you to code, see compiler errors, manage the organization of where your files live, and it's all in a tight, integrated environment that makes it easy for you to do everything you need to do to write test and then deploy your code.
 >
 > **[1:14](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=74)** We're going to look at several different versions or different several different options, but we're going to really end up using a very nice IDE because it makes life a lot easier.
 >
@@ -1135,25 +1125,25 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=86)** This is not the only option or the only list of options out there, but these are just a few.
 >
-> **[1:30](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=90)** Atom is very popular, it's a full-blown IDE and it does support solidity.
+> **[1:30](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=90)** Atom is very popular, it's a full-blown IDE and it does support [[Solidity]].
 >
-> **[1:36](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=96)** Visual Studio Code is another one, this is free now, if you've used older versions of Visual Studio, Visual Studio code is free and it works in Windows and Linux, Mac OS, lots of different environments.
+> **[1:36](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=96)** Visual Studio Code is another one, this is free now, if you've used older versions of Visual Studio, Visual Studio code is free and it works in Windows and [[Linux]], Mac OS, lots of different environments.
 >
 > **[1:49](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=109)** Vim Solidity, if you like the VI editor, I'm a big VI fan.
 >
 > **[1:55](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=115)** Vim is an implementation of VI and Vim Solidity has solidity language support built into the VI type editor.
 >
-> **[2:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=125)** Then if you decided that you didn't want to do all of your code development locally, if you wanted to do web-based development, there's several products out there.
+> **[2:05](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=125)** Then if you decided that you didn't want to do all of your code development locally, if you wanted to do web-based development, there's several [[Microsoft Products|products]] out there.
 >
-> **[2:13](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=133)** There's Remix, EthFiddle and Superblocks Lab.
+> **[2:13](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=133)** There's [[Remix]], EthFiddle and Superblocks Lab.
 >
 > **[2:16](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=136)** All of those are web based IDEs where you basically just need internet access to be able to get in and develop your code.
 >
-> **[2:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=144)** So here's Remix, if you just navigate to remix.[ethereum.org](https://ethereum.org), this is what you'll see.
+> **[2:24](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=144)** So here's Remix, if you just navigate to remix.[[[Ethereum]].org](https://ethereum.org), this is what you'll see.
 >
 > **[2:31](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=151)** It shows you two contracts in solidity.
 >
-> **[2:35](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=155)** These are smart contracts.
+> **[2:35](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=155)** These are [[Smart Contracts]].
 >
 > **[2:37](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=157)** And if I click on each sub-smart contract in the File Explorer window, it shows me the code here.
 >
@@ -1187,7 +1177,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=301)** There's also a standalone compiler, Solidity Compiler or solc, we'll be using that one as well.
 >
-> **[5:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=308)** There's a JavaScript version, it's the same thing, just written in JavaScript called solcjs.
+> **[5:08](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=308)** There's a [[JavaScript]] version, it's the same thing, just written in JavaScript called solcjs.
 >
 > **[5:15](https://www.linkedin.com/learning/building-an-ethereum-blockchain-app-3-ethereum-development/writing-and-testing-your-code-part-2?u=76281980&t=315)** Remix does have its own compiler and testing framework.
 >
@@ -1215,7 +1205,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Solidity]] (6), [[Remix]] (4), [[Smart Contracts]] (3), next (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Solidity]] (6), [[Remix]] (4), [[Smart Contracts]] (3), [[Windows]] (2), [[JavaScript]] (2)
 > **Tools:** visual studio (3), vim (3), atom (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** ide (5), ade (1)

@@ -170,12 +170,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course and Google Professional Machine Learning Engineer exam overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-and-google-professional-machine-learning-engineer-exam-overview?u=76281980)
+#### [Course and Google Professional Machine Learning Engineer exam overview](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-and-google-professional-machine-learning-engineer-exam-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-and-google-professional-machine-learning-engineer-exam-overview?u=76281980&t=0)** - [Noah] Welcome to the Google Cloud Professional Machine Learning Engineer Certification.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-and-google-professional-machine-learning-engineer-exam-overview?u=76281980&t=0)** - [Noah] Welcome to the [[Google Cloud Platform (GCP)|Google Cloud]] Professional Machine Learning Engineer Certification.
 >
 > **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-and-google-professional-machine-learning-engineer-exam-overview?u=76281980&t=6)** My name is Noah Gift.
 >
@@ -183,11 +182,11 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-and-google-professional-machine-learning-engineer-exam-overview?u=76281980&t=10)** I'm the founder of Pragmatic AI Labs.
 >
-> **[0:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-and-google-professional-machine-learning-engineer-exam-overview?u=76281980&t=13)** A training and consulting company that focuses on machine learning cloud and also DevOps.
+> **[0:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-and-google-professional-machine-learning-engineer-exam-overview?u=76281980&t=13)** A training and consulting company that focuses on machine learning cloud and also [[DevOps]].
 >
 > **[0:20](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-and-google-professional-machine-learning-engineer-exam-overview?u=76281980&t=20)** I'm an executive in residence at Duke.
 >
-> **[0:23](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-and-google-professional-machine-learning-engineer-exam-overview?u=76281980&t=23)** That means that I teach classes like machine learning, MLOps, cloud computing.
+> **[0:23](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-and-google-professional-machine-learning-engineer-exam-overview?u=76281980&t=23)** That means that I teach classes like machine learning, [[MLOps]], [[Cloud Computing]].
 >
 > **[0:28](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-and-google-professional-machine-learning-engineer-exam-overview?u=76281980&t=28)** I've also worked on the first 3D Animated Pipeline at Disney and other film studios like Sony Imageworks.
 >
@@ -223,9 +222,9 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-and-google-professional-machine-learning-engineer-exam-overview?u=76281980&t=102)** Or you can also take it in person.
 >
-> **[1:45](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-and-google-professional-machine-learning-engineer-exam-overview?u=76281980&t=105)** Another thing to remember is that it's recommended that you have three years of industry experience around data science and machine learning.
+> **[1:45](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-and-google-professional-machine-learning-engineer-exam-overview?u=76281980&t=105)** Another thing to remember is that it's recommended that you have three years of industry experience around [[Data Science]] and machine learning.
 >
-> **[1:53](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-and-google-professional-machine-learning-engineer-exam-overview?u=76281980&t=113)** And also that you have at least a year experience with the Google Cloud platform.
+> **[1:53](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-and-google-professional-machine-learning-engineer-exam-overview?u=76281980&t=113)** And also that you have at least a year experience with the [[Google Cloud Platform (GCP)|Google Cloud platform]].
 >
 > **[1:57](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-and-google-professional-machine-learning-engineer-exam-overview?u=76281980&t=117)** And some of the key things to remember are that it is important to have real world experience.
 >
@@ -247,7 +246,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-and-google-professional-machine-learning-engineer-exam-overview?u=76281980&t=151)** In section three.
 >
-> **[2:32](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-and-google-professional-machine-learning-engineer-exam-overview?u=76281980&t=152)** Designing data preparation and processing systems.
+> **[2:32](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-and-google-professional-machine-learning-engineer-exam-overview?u=76281980&t=152)** Designing [[Data Preparation]] and processing systems.
 >
 > **[2:36](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-and-google-professional-machine-learning-engineer-exam-overview?u=76281980&t=156)** In Section four.
 >
@@ -287,15 +286,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[MLOps]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (2), data (2), business (2)
+> **Frameworks & Libraries:** [[MLOps]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Cloud Computing]] (2), [[DevOps]] (1), [[Data Science]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **Cross-References:** we talked about (1)
 > **Analogies:** for example (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [noah] (1)
 
-#### Framing ML problems: Key terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-1-key-terminology?u=76281980)
+#### [Framing ML problems: Key terminology](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-1-key-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -313,17 +311,17 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-1-key-terminology?u=76281980&t=42)** You could discover customer clusters.
 >
-> **[0:45](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-1-key-terminology?u=76281980&t=45)** Reinforcement learning is used in cases where an agent must learn how to make decisions in complex, dynamite environments.
+> **[0:45](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-1-key-terminology?u=76281980&t=45)** [[Reinforcement Learning]] is used in cases where an agent must learn how to make decisions in complex, dynamite environments.
 >
 > **[0:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-1-key-terminology?u=76281980&t=54)** A good example would be robotics, gaming or even resource allocation.
 >
 > **[1:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-1-key-terminology?u=76281980&t=60)** Let's talk about other key terms like ML Solution Readiness.
 >
-> **[1:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-1-key-terminology?u=76281980&t=65)** ML solution readiness means that it's an assessment of whether a machine learning solution is feasible and you would consider factors like data availability, quality, limitations, responsible AI practices, and even potential risks.
+> **[1:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-1-key-terminology?u=76281980&t=65)** ML solution readiness means that it's an assessment of whether a machine learning solution is feasible and you would consider factors like data availability, quality, limitations, [[Responsible AI]] practices, and even potential risks.
 >
 > **[1:21](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-1-key-terminology?u=76281980&t=81)** There's also ML use cases and what this means is that there's specific problems or tasks that machine learning can solve or even automate with a business context.
 >
-> **[1:32](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-1-key-terminology?u=76281980&t=92)** This includes customer segmentation, fraud detection or even demand forecasting.
+> **[1:32](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-1-key-terminology?u=76281980&t=92)** This includes customer segmentation, fraud detection or even demand [[Forecasting]].
 >
 > **[1:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-1-key-terminology?u=76281980&t=98)** In terms of machine learning problem types these are different categories of machine learning problems, including classification, progression, clustering, and these determine the structure of the input data and the desired output.
 >
@@ -333,7 +331,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-1-key-terminology?u=76281980&t=133)** Another key term here is Bias in ML.
 >
-> **[2:16](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-1-key-terminology?u=76281980&t=136)** Bias in ML allows you to look at things like fair, unbiased or accurate model predictions, and would these align with, for example, Google's responsible AI practices?
+> **[2:16](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-1-key-terminology?u=76281980&t=136)** Bias in ML allows you to look at things like fair, unbiased or accurate model predictions, and would these align with, for example, [[Google]]'s responsible AI practices?
 >
 > **[2:28](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-1-key-terminology?u=76281980&t=148)** There's also business impact assessment, which is crucial for determining the feasibility of an ML solution and also communicating its potential effects to stakeholders.
 >
@@ -357,7 +355,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), business (7), [[Responsible AI]] (4), [[Reinforcement Learning]] (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (4), [[Reinforcement Learning]] (1), [[Forecasting]] (1), [[Google]] (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2)
@@ -368,12 +366,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building AI-enabled workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-ai-enabled-workflows?u=76281980)
+#### [Building AI-enabled workflows](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-ai-enabled-workflows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-ai-enabled-workflows?u=76281980&t=5)** - [Instructor] Here we see an example of how AI tools, including things like Hugging Face, OpenAI, all come together to build AI enabled automation.
+> **[0:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-ai-enabled-workflows?u=76281980&t=5)** - [Instructor] Here we see an example of how AI tools, including things like [[Hugging Face]], OpenAI, all come together to build AI enabled automation.
 >
 > **[0:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-ai-enabled-workflows?u=76281980&t=15)** Here's an example.
 >
@@ -387,7 +384,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-ai-enabled-workflows?u=76281980&t=38)** And they could build all this automation up by using this off-the-shelf AI tool.
 >
-> **[0:44](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-ai-enabled-workflows?u=76281980&t=44)** They could put those into a Google Drive directory or they could upload them automatically and they could build this as their first version of the pipeline.
+> **[0:44](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-ai-enabled-workflows?u=76281980&t=44)** They could put those into a [[Google Drive]] directory or they could upload them automatically and they could build this as their first version of the pipeline.
 >
 > **[0:52](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-ai-enabled-workflows?u=76281980&t=52)** Later, as they could tack onto the functionality of these AI tools, they could transcribe to the 10 most popular languages their videos are generated from.
 >
@@ -401,14 +398,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Hugging Face]] (5), [[Automation]] (4), [[Google Drive]] (1), nlp (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (5), [[Google Drive]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** nlp (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using AI tools to build AI tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-ai-tools-to-build-ai-tools?u=76281980)
+#### [Using AI tools to build AI tools](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-ai-tools-to-build-ai-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -416,11 +412,11 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-ai-tools-to-build-ai-tools?u=76281980&t=10)** In this particular workflow, AI creates AI to talk to AI, and how do we do this?
 >
-> **[0:16](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-ai-tools-to-build-ai-tools?u=76281980&t=16)** Well, to start out with, if you look at Github Codespaces, a cloud-based development environment, you can go in and configure it with customized Dockerfile, customized .devcontainer file.
+> **[0:16](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-ai-tools-to-build-ai-tools?u=76281980&t=16)** Well, to start out with, if you look at [[GitHub]] [[Codespaces]], a cloud-based development environment, you can go in and configure it with customized Dockerfile, customized .devcontainer file.
 >
 > **[0:28](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-ai-tools-to-build-ai-tools?u=76281980&t=28)** So it's really optimized for doing AI programming and machine learning programming so that you can use GPUs.
 >
-> **[0:35](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-ai-tools-to-build-ai-tools?u=76281980&t=35)** One of the things that you can do when you're building this is actually talk to Github Copilot.
+> **[0:35](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-ai-tools-to-build-ai-tools?u=76281980&t=35)** One of the things that you can do when you're building this is actually talk to [[GitHub Copilot]].
 >
 > **[0:40](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-ai-tools-to-build-ai-tools?u=76281980&t=40)** Now what is it?
 >
@@ -434,7 +430,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-ai-tools-to-build-ai-tools?u=76281980&t=74)** And what this means is that you are meta-programming using AI.
 >
-> **[1:19](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-ai-tools-to-build-ai-tools?u=76281980&t=79)** In fact, you are using AI that was pre-trained to help create AI solutions.
+> **[1:19](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-ai-tools-to-build-ai-tools?u=76281980&t=79)** In fact, you are using AI that was pre-trained to help create [[AI Solutions]].
 >
 > **[1:26](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-ai-tools-to-build-ai-tools?u=76281980&t=86)** And this is really the modern AI programmer workflow is that AI is in fact an enabler that enables you to build code faster, use higher level workflows, and also move at a faster pace while you're building out things in the machine learning space.
 >
@@ -442,7 +438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Programming]] (4), cloud (2), [[GitHub Copilot]] (2), aws (2)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (2), [[GitHub]] (1), [[Codespaces]] (1), [[AI Solutions]] (1)
 > **Tools:** github (3)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
@@ -451,24 +447,22 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Teaching MLOps at scale with GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/teaching-mlops-at-scale-with-github?u=76281980)
+#### [Teaching MLOps at scale with GitHub](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/teaching-mlops-at-scale-with-github?u=76281980)
 
 
 ### 2. Defining ML Problems
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Simulations vs. experiment tracking
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/simulations-vs-experiment-tracking?u=76281980)
+#### [Simulations vs. experiment tracking](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/simulations-vs-experiment-tracking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/simulations-vs-experiment-tracking?u=76281980&t=5)** - [Instructor] Here we have a difference between simulations and MLOps Experiment Tracking.
+> **[0:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/simulations-vs-experiment-tracking?u=76281980&t=5)** - [Instructor] Here we have a difference between simulations and [[MLOps]] Experiment Tracking.
 >
 > **[0:11](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/simulations-vs-experiment-tracking?u=76281980&t=11)** There are actually a lot of similarities.
 >
-> **[0:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/simulations-vs-experiment-tracking?u=76281980&t=13)** If we take a look at a simulation, like the Traveling Salesman Problem, the idea is you run multiple times through, let's say, a greedy, random start algorithm and you solve for the minimum distance.
+> **[0:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/simulations-vs-experiment-tracking?u=76281980&t=13)** If we take a look at a [[Simulation]], like the Traveling Salesman Problem, the idea is you run multiple times through, let's say, a greedy, random start algorithm and you solve for the minimum distance.
 >
 > **[0:25](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/simulations-vs-experiment-tracking?u=76281980&t=25)** So what is the shortest amount of distance I would travel to to go to all the cities I need to travel?
 >
@@ -516,7 +510,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/simulations-vs-experiment-tracking?u=76281980&t=157)** Now, if we want to take a look at that real quick, let's take a look at the roulette simulation here, which is right here.
 >
-> **[2:46](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/simulations-vs-experiment-tracking?u=76281980&t=166)** The basic gist of the code is that I use pandas, I use click, and I build a wheel out, first.
+> **[2:46](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/simulations-vs-experiment-tracking?u=76281980&t=166)** The basic gist of the code is that I use [[Pandas (Software)|pandas]], I use click, and I build a wheel out, first.
 >
 > **[2:53](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/simulations-vs-experiment-tracking?u=76281980&t=173)** Then, what I do is I have a spin_wheel.
 >
@@ -576,7 +570,7 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/simulations-vs-experiment-tracking?u=76281980&t=302)** Because they're getting the risk pushed to them and they don't have the ability to leverage lots of different companies to work for.
 >
-> **[5:11](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/simulations-vs-experiment-tracking?u=76281980&t=311)** You can see that, in fact, in this scenario here, that the probability of a startup being successful is 2%, right, over and over again.
+> **[5:11](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/simulations-vs-experiment-tracking?u=76281980&t=311)** You can see that, in fact, in this scenario here, that the [[Probability]] of a startup being successful is 2%, right, over and over again.
 >
 > **[5:20](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/simulations-vs-experiment-tracking?u=76281980&t=320)** Right, so this is really an idea that you'll see a lot, is that by doing simulations, you're able to actually go ahead and figure out what it is you're trying to build and minimize or maximize for something.
 >
@@ -598,8 +592,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### When to use ML
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/when-to-use-ml?u=76281980)
+#### [When to use ML](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/when-to-use-ml?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -629,15 +622,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), game (2), business (1)
 > **Definitions:** is called (1), is a  (1)
 > **Env Vars:** nba (1)
 > **Analogies:** for example (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Supervised vs. unsupervised ML
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/supervised-vs-unsupervised-ml?u=76281980)
+#### [Supervised vs. unsupervised ML](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/supervised-vs-unsupervised-ml?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -673,18 +664,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), game (1), next (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/optimization?u=76281980)
+#### [Optimization](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/optimization?u=76281980&t=8)** - [Speaker] One of the foundational problems in deep learning is this concept of optimizing.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/optimization?u=76281980&t=8)** - [Speaker] One of the foundational problems in [[Deep Learning]] is this concept of optimizing.
 >
 > **[0:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/optimization?u=76281980&t=15)** And let's take a look at a few different scenarios here that explain this principle.
 >
@@ -714,7 +703,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/optimization?u=76281980&t=111)** So one of the things to consider when you're solving deep learning problems is this learning rate and you can actually find out what your learning rate is by trial and error.
 >
-> **[2:02](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/optimization?u=76281980&t=122)** And a really good tool for that is to use the TensorFlow playground and it gives you a great starting point to play around with learning rates and also experimenting with loss functions.
+> **[2:02](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/optimization?u=76281980&t=122)** And a really good tool for that is to use the [[TensorFlow]] playground and it gives you a great starting point to play around with learning rates and also experimenting with loss functions.
 
 > [!info]- Semantic Content
 >
@@ -723,14 +712,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [speaker] (1)
 
-#### Clustering
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/clustering?u=76281980)
+#### [Clustering](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/clustering?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/clustering?u=76281980&t=8)** - [Instructor] Let's talk through the core mathematical principles of clustering.
 >
-> **[0:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/clustering?u=76281980&t=13)** The way we can look at this in a very straightforward way is to look at the season statistics for the NBA.
+> **[0:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/clustering?u=76281980&t=13)** The way we can look at this in a very straightforward way is to look at the season [[Statistics]] for the NBA.
 >
 > **[0:20](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/clustering?u=76281980&t=20)** We have points, rebounds, and assists.
 >
@@ -750,13 +738,13 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/clustering?u=76281980&t=104)** It really depends on the dataset, but this is really the core intuition.
 >
-> **[1:48](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/clustering?u=76281980&t=108)** And in fact, you can try it yourself by going to an NBA dataset and doing k-means clustering, and you'll find that there'll be really easy natural groupings that will apply to what you commonly would think.
+> **[1:48](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/clustering?u=76281980&t=108)** And in fact, you can try it yourself by going to an NBA dataset and doing [[k-means clustering]], and you'll find that there'll be really easy natural groupings that will apply to what you commonly would think.
 >
 > **[2:01](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/clustering?u=76281980&t=121)** Someone would be, let's say, a point guard, a forward, or some other position on the court.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (1), game (1), [[k-means clustering]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[k-means clustering]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** nba (2)
 > **Definitions:** is called (1)
@@ -767,8 +755,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining business success criteria
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/defining-business-success-criteria?u=76281980)
+#### [Defining business success criteria](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/defining-business-success-criteria?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -800,7 +787,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/defining-business-success-criteria?u=76281980&t=114)** And that really gets us down to the ROI, which is you have to analyze the financial feasibility of the machine learning project.
 >
-> **[2:02](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/defining-business-success-criteria?u=76281980&t=122)** Make sure that you're taking into account the cost of data acquisition, also infrastructure, personnel, maintenance.
+> **[2:02](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/defining-business-success-criteria?u=76281980&t=122)** Make sure that you're taking into account the cost of [[Data Acquisition]], also infrastructure, personnel, maintenance.
 >
 > **[2:10](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/defining-business-success-criteria?u=76281980&t=130)** And you have to compare those ROI alternatives as well, like if you use a pre-trained model or use an API would that actually be a better for, you know, the brand reputation or customer loyalty or marketing positioning?
 >
@@ -812,7 +799,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), data (5), cloud (1), [[Data Acquisition]] (1), api (1)
+> **Frameworks & Libraries:** [[Data Acquisition]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** roi (2), api (1)
 > **Definitions:** is an  (1)
@@ -823,34 +810,33 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### MLOps hierarchy of needs
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980)
+#### [MLOps hierarchy of needs](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980&t=5)** - [Instructor] Let's dive into the concept of MLOps Hierarchy of Needs.
+> **[0:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980&t=5)** - [Instructor] Let's dive into the concept of [[MLOps]] Hierarchy of Needs.
 >
-> **[0:09](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980&t=9)** Really, it is like a pyramid, and that at the bottom is DevOps.
+> **[0:09](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980&t=9)** Really, it is like a pyramid, and that at the bottom is [[DevOps]].
 >
 > **[0:14](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980&t=14)** If you don't have DevOps, there's no possibility of an organization doing MLOps.
 >
-> **[0:19](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980&t=19)** And some of the key components of DevOps include infrastructure as code, right?
+> **[0:19](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980&t=19)** And some of the key components of DevOps include [[Infrastructure as code (IaC)|infrastructure as code]], right?
 >
 > **[0:24](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980&t=24)** Are you able to automatically provision environments and check that into your build system?
 >
-> **[0:29](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980&t=29)** Can you do continuous delivery of your software stack?
+> **[0:29](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980&t=29)** Can you do [[Continuous Delivery (CD)|continuous delivery]] of your software stack?
 >
-> **[0:32](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980&t=32)** So are microservices being delivered in the staging environment and then automatically being propagated to production?
+> **[0:32](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980&t=32)** So are [[Microservices]] being delivered in the staging environment and then automatically being propagated to production?
 >
 > **[0:39](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980&t=39)** And also, have you designed around a build system?
 >
 > **[0:42](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980&t=42)** Next step, we have Data Operations.
 >
-> **[0:45](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980&t=45)** So similarly, once you've gone through and you've got that base level of DevOps, you have to look at your data management platforms.
+> **[0:45](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980&t=45)** So similarly, once you've gone through and you've got that base level of DevOps, you have to look at your [[Data Management]] platforms.
 >
 > **[0:52](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980&t=52)** And really, are you using a platform?
 >
-> **[0:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980&t=54)** Are you using something like Google, BigQuery, or Databricks, or Snowflake, or Amazon Athena; some platform that makes a serverless query and visualization workflow very straightforward and also has the ability to do data jobs and data tasks.
+> **[0:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980&t=54)** Are you using something like [[Google]], BigQuery, or Databricks, or [[Snowflake]], or Amazon Athena; some platform that makes a serverless query and visualization workflow very straightforward and also has the ability to do data jobs and data tasks.
 >
 > **[1:12](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980&t=72)** The next layer up then would be to use some kind of MLOps platform.
 >
@@ -872,7 +858,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980&t=142)** If you don't frame the problem correctly, it's possible that you're solving the wrong problem for your organization.
 >
-> **[2:27](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980&t=147)** Once you've done that, you can do things like forecasting, looking at predicting the correct amount of inventory, using things like unsupervised machine learning to discover new patterns.
+> **[2:27](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980&t=147)** Once you've done that, you can do things like [[Forecasting]], looking at predicting the correct amount of inventory, using things like unsupervised machine learning to discover new patterns.
 >
 > **[2:39](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mlops-hierachy-of-needs?u=76281980&t=159)** And really, this is just an automation workflow.
 >
@@ -882,12 +868,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLOps]] (8), data (7), business (5), [[DevOps]] (4), next (2)
+> **Frameworks & Libraries:** [[MLOps]] (8), [[DevOps]] (4), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Microservices]] (1)
 > **Env Vars:** roi (2)
 > **Speakers:** - [instructor] (1)
 
-#### Hidden costs of bespoke systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/hidden-costs-of-bespoke-systems?u=76281980)
+#### [Hidden costs of bespoke systems](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/hidden-costs-of-bespoke-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -903,7 +888,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/hidden-costs-of-bespoke-systems?u=76281980&t=36)** One of the problems is that, initially, it works, so in year one, it could do amazing things, but then what happens is that brilliant engineer, according to the laws of microeconomics, will be soon leaving for a huge payday at a trillion dollar company.
 >
-> **[0:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/hidden-costs-of-bespoke-systems?u=76281980&t=54)** And what that happens to do is the rest of your company has a problem, because let's say there's an outage later, let's say after three months from when the employee leaves, it'll then be replaced by a proprietary system because the organization doesn't have the skills that that brilliant engineer had in order to maintain the system, and not everybody knows how to build that system and it isn't in the core of the business.
+> **[0:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/hidden-costs-of-bespoke-systems?u=76281980&t=54)** And what that happens to do is the [[Representational State Transfer (REST)|rest]] of your company has a problem, because let's say there's an outage later, let's say after three months from when the employee leaves, it'll then be replaced by a proprietary system because the organization doesn't have the skills that that brilliant engineer had in order to maintain the system, and not everybody knows how to build that system and it isn't in the core of the business.
 >
 > **[1:22](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/hidden-costs-of-bespoke-systems?u=76281980&t=82)** Later, the proprietary system comes in, the organization that then has to retrain on the proprietary system in year two, and the new system delivers actually slightly better results than the one that was built internally.
 >
@@ -915,11 +900,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Search]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - here (1)
 
-#### Data poisoning
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-poisoning?u=76281980)
+#### [Data poisoning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-poisoning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -927,13 +911,13 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-poisoning?u=76281980&t=14)** This is often not looked at in terms of a threat as what could an insider do into your organization and this is why it's important to carefully consider the concept of principle of least privilege.
 >
-> **[0:28](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-poisoning?u=76281980&t=28)** So let's say in this first attack vector here, we have a corporate-owned system, let's say Google Drive, email, et cetera.
+> **[0:28](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-poisoning?u=76281980&t=28)** So let's say in this first attack vector here, we have a corporate-owned system, let's say [[Google Drive]], email, et cetera.
 >
 > **[0:36](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-poisoning?u=76281980&t=36)** And we know that there's a particular type of image that could cause your Google Drive to go offline.
 >
 > **[0:44](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-poisoning?u=76281980&t=44)** So what could happen is that someone inside a corporation could willfully put a prohibited image inside of the Google Drive which would then make sure that the corporation is offline.
 >
-> **[0:57](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-poisoning?u=76281980&t=57)** And it would take some time for that organization to be able to contact Google and explain exactly what happened.
+> **[0:57](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-poisoning?u=76281980&t=57)** And it would take some time for that organization to be able to contact [[Google]] and explain exactly what happened.
 >
 > **[1:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-poisoning?u=76281980&t=65)** So this could be an extended "denial of service" attack on a corporation, as the corporation tries to turn the Google assets back online.
 >
@@ -961,7 +945,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Google Drive]] (3), [[Google]] (2)
+> **Frameworks & Libraries:** [[Google Drive]] (3), [[Google]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -971,16 +955,14 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Framing ML problems: Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps?u=76281980)
+#### [Framing ML problems: Next steps](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps?u=76281980)
 
 
 ### 6. Introduction: Architecting a ML Solution
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Architecting a ML solution: Overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview?u=76281980)
+#### [Architecting a ML solution: Overview](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -988,23 +970,23 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview?u=76281980&t=3)** Course 2, we're going to talk about architecting ML solutions.
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview?u=76281980&t=8)** First up in this Course 2 we have continuous delivery in machine learning.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview?u=76281980&t=8)** First up in this Course 2 we have [[Continuous Delivery (CD)|continuous delivery]] in machine learning.
 >
 > **[0:14](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview?u=76281980&t=14)** This means looking at how to build a pipeline for automated testing, integration, and deployment.
 >
-> **[0:20](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview?u=76281980&t=20)** We'll also get into containerized ML microservices.
+> **[0:20](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview?u=76281980&t=20)** We'll also get into containerized ML [[Microservices]].
 >
-> **[0:24](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview?u=76281980&t=24)** This covers things like how to leverage a Docker or Kubernetes or other container management service to deploy your machine learning code.
+> **[0:24](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview?u=76281980&t=24)** This covers things like how to leverage a Docker or [[Kubernetes]] or other container management service to deploy your machine learning code.
 >
 > **[0:33](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview?u=76281980&t=33)** We'll also get into reproducible workflows.
 >
-> **[0:36](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview?u=76281980&t=36)** This means ensuring consistent and repeatable ML workflows using version control and even managing the environment and a repeatable way with technology-like infrastructure as code.
+> **[0:36](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview?u=76281980&t=36)** This means ensuring consistent and repeatable ML workflows using [[Version Control]] and even managing the environment and a repeatable way with technology-like [[Infrastructure as code (IaC)|infrastructure as code]].
 >
-> **[0:48](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview?u=76281980&t=48)** We'll also get into continuous integration.
+> **[0:48](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview?u=76281980&t=48)** We'll also get into [[Continuous Integration (CI)|continuous integration]].
 >
 > **[0:51](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview?u=76281980&t=51)** This means automatic integration of code changes from multiple contributors, reducing integration issues, and promoting collaboration.
 >
-> **[1:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview?u=76281980&t=60)** We'll also talk about heavy versus light in MLOps.
+> **[1:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview?u=76281980&t=60)** We'll also talk about heavy versus light in [[MLOps]].
 >
 > **[1:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview?u=76281980&t=63)** There are trade offs when you're using resource intensive MLOps and there's also advantages when you're using lightweight solutions, which are the best solutions for the job.
 >
@@ -1018,7 +1000,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview?u=76281980&t=98)** We'll also talk about compute choices.
 >
-> **[1:41](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview?u=76281980&t=101)** So how do you select the right Google Cloud hardware component?
+> **[1:41](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview?u=76281980&t=101)** So how do you select the right [[Google Cloud Platform (GCP)|Google Cloud]] [[Hardware]] component?
 >
 > **[1:46](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview?u=76281980&t=106)** For example, when would you use a TPU?
 >
@@ -1036,14 +1018,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLOps]] (2), gcp (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Microservices]] (1), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[MLOps]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Microservices]] (1), [[Kubernetes]] (1), [[Version Control]] (1)
 > **CLI Commands:** docker (1), make (1)
 > **Env Vars:** gcp (1), tpu (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
 
-#### Architecting a ML solution: Key terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-2-key-terminology?u=76281980)
+#### [Architecting a ML solution: Key terminology](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-2-key-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1053,13 +1034,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-2-key-terminology?u=76281980&t=8)** First up, we have ML services.
 >
-> **[0:10](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-2-key-terminology?u=76281980&t=10)** These are cloud services designed for ML tasks.
+> **[0:10](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-2-key-terminology?u=76281980&t=10)** These are [[Cloud Services]] designed for ML tasks.
 >
-> **[0:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-2-key-terminology?u=76281980&t=15)** These could include cloud build or even Kubeflow. Data collection.
+> **[0:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-2-key-terminology?u=76281980&t=15)** These could include cloud build or even Kubeflow. [[Data Collection]].
 >
 > **[0:20](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-2-key-terminology?u=76281980&t=20)** This means gathering raw data for processing and analysis.
 >
-> **[0:25](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-2-key-terminology?u=76281980&t=25)** Data management includes organizing, storing, and maintaining collected data. Exploration and analysis.
+> **[0:25](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-2-key-terminology?u=76281980&t=25)** [[Data Management]] includes organizing, storing, and maintaining collected data. Exploration and analysis.
 >
 > **[0:34](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-2-key-terminology?u=76281980&t=34)** This includes examining and understanding data patterns and trends.
 >
@@ -1069,11 +1050,11 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-2-key-terminology?u=76281980&t=51)** And then in terms of orchestration, this includes coordinating and managing the execution of multiple tasks in a workflow.
 >
-> **[1:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-2-key-terminology?u=76281980&t=60)** Feature engineering includes creating and selecting relevant input features from raw data. And logging and management includes capturing and storing system logs and other relevant data for analysis.
+> **[1:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-2-key-terminology?u=76281980&t=60)** [[Feature Engineering]] includes creating and selecting relevant input features from raw data. And logging and management includes capturing and storing system logs and other relevant data for analysis.
 >
 > **[1:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-2-key-terminology?u=76281980&t=75)** We also have compute and accelerator options. With compute, this would include different types of processing units like CPU or GPU or even TPU.
 >
-> **[1:26](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-2-key-terminology?u=76281980&t=86)** In terms of accelerator options, it's specifically talking about specialized hardware and this would include TPU and edge based devices.
+> **[1:26](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-2-key-terminology?u=76281980&t=86)** In terms of accelerator options, it's specifically talking about specialized [[Hardware]] and this would include TPU and edge based devices.
 >
 > **[1:36](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-2-key-terminology?u=76281980&t=96)** Monitoring includes observing and tracking the performance of ML systems and applications, and then serving includes deploying and providing access to trained ML models for inference.
 >
@@ -1083,7 +1064,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-2-key-terminology?u=76281980&t=114)** That's data that can be used to identify an individual like a Social Security number or driver's license.
 >
-> **[2:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-2-key-terminology?u=76281980&t=120)** And then in terms of protected health information or PHI, this is personal health information protected by privacy laws and regulations. For secure machine learning systems, the goal here is to implement security measures to protect data and models from unauthorized access and unintentional exploitation.
+> **[2:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-2-key-terminology?u=76281980&t=120)** And then in terms of protected health information or PHI, this is personal health information protected by [[Privacy]] laws and regulations. For secure machine learning systems, the goal here is to implement security measures to protect data and models from unauthorized access and unintentional exploitation.
 >
 > **[2:22](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-2-key-terminology?u=76281980&t=142)** And privacy implications include understanding and addressing the potential privacy risks associated with data usage and collection.
 >
@@ -1091,25 +1072,24 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-2-key-terminology?u=76281980&t=152)** That's it for this particular lesson.
 >
-> **[2:35](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-2-key-terminology?u=76281980&t=155)** In terms of key terms, it's important to understand architecting ML solutions and understand the key terms that we discussed, including data privacy in particular.
+> **[2:35](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-2-key-terminology?u=76281980&t=155)** In terms of key terms, it's important to understand architecting ML solutions and understand the key terms that we discussed, including [[Data Privacy]] in particular.
 >
 > **[2:45](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-2-key-terminology?u=76281980&t=165)** That's one to watch out for.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Privacy]] (4), cloud (2), management (2), [[Orchestration]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Cloud Services]] (1), [[Data Collection]] (1), [[Data Management]] (1), [[Feature Engineering]] (1)
 > **Env Vars:** tpu (2), cpu (1), gpu (1), phi (1)
 > **Cross-References:** we discussed (1)
 > **Warnings:** watch out (1)
 
-#### Cloud developer workspace advantage
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cloud-developer-workspace-advantage?u=76281980)
+#### [Cloud developer workspace advantage](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cloud-developer-workspace-advantage?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cloud-developer-workspace-advantage?u=76281980&t=5)** Let's take a look at this Cloud Developer Workspace advantage.
 >
-> **[0:09](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cloud-developer-workspace-advantage?u=76281980&t=9)** It's one of the more interesting new trends that we're seeing in many fields: software engineering, data engineering, data science, machine learning engineering, also machine learning operations.
+> **[0:09](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cloud-developer-workspace-advantage?u=76281980&t=9)** It's one of the more interesting new trends that we're seeing in many fields: software engineering, [[Data Engineering]], [[Data Science]], machine learning engineering, also machine learning operations.
 >
 > **[0:20](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cloud-developer-workspace-advantage?u=76281980&t=20)** In some sense, if you're not using a cloud based developer environment, you're really missing out on many new features that are not available on your laptop.
 >
@@ -1121,11 +1101,11 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cloud-developer-workspace-advantage?u=76281980&t=60)** If you're running in the cloud, it's not going to be the same as your laptop, with some exceptions, you know, you can work around that with containers.
 >
-> **[1:07](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cloud-developer-workspace-advantage?u=76281980&t=67)** Now, if we go to the cloud here and we take a look at some of these cloud based environments and really we can see that GitHub Codespaces, AWS Cloud9, GCP Cloud IDE, Azure Cloud IDE, all of these have many things in common and that there is typically an IDE that's customized for development.
+> **[1:07](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cloud-developer-workspace-advantage?u=76281980&t=67)** Now, if we go to the cloud here and we take a look at some of these cloud based environments and really we can see that [[GitHub]] [[Codespaces]], AWS Cloud9, GCP Cloud IDE, [[Microsoft Azure|Azure]] Cloud IDE, all of these have many things in common and that there is typically an IDE that's customized for development.
 >
-> **[1:27](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cloud-developer-workspace-advantage?u=76281980&t=87)** In the case of GitHub Codespaces, the unique features are that it does have easy integration with GitHub Actions which is the continuous integration system.
+> **[1:27](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cloud-developer-workspace-advantage?u=76281980&t=87)** In the case of GitHub Codespaces, the unique features are that it does have easy integration with GitHub Actions which is the [[Continuous Integration (CI)|continuous integration]] system.
 >
-> **[1:37](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cloud-developer-workspace-advantage?u=76281980&t=97)** It also has easy integration with GitHub CoPilot, which allows you to write code where the OpenAI Codex is essentially telling you what to write.
+> **[1:37](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cloud-developer-workspace-advantage?u=76281980&t=97)** It also has easy integration with [[GitHub Copilot]], which allows you to write code where the OpenAI Codex is essentially telling you what to write.
 >
 > **[1:48](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cloud-developer-workspace-advantage?u=76281980&t=108)** And also this whole integration is very tightly coupled with GitHub.
 >
@@ -1137,7 +1117,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cloud-developer-workspace-advantage?u=76281980&t=127)** We have CoLab Notebooks, the CoLab Notebooks allow you to build in the cloud, Jupyter Compatible systems that use GPUs, you can even use a pro version.
 >
-> **[2:18](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cloud-developer-workspace-advantage?u=76281980&t=138)** There's also AWS Sagemaker Studio Lab, which allows people to go through and run Jupyter Notebooks using GPUs that are free that are provided by the AWS platform.
+> **[2:18](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cloud-developer-workspace-advantage?u=76281980&t=138)** There's also [[AWS SageMaker]] Studio Lab, which allows people to go through and run Jupyter Notebooks using GPUs that are free that are provided by the AWS platform.
 >
 > **[2:32](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cloud-developer-workspace-advantage?u=76281980&t=152)** So these are really good options for notebook friendly workflows.
 >
@@ -1149,7 +1129,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cloud-developer-workspace-advantage?u=76281980&t=189)** But there's a lightweight version which is called AWS CloudShell, and this also is a good environment for even doing very minor software engineering.
 >
-> **[3:18](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cloud-developer-workspace-advantage?u=76281980&t=198)** And also you can switch between Bash, Azure Shell, or PowerShell. If you go into other clouds, they're very similar, right?
+> **[3:18](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cloud-developer-workspace-advantage?u=76281980&t=198)** And also you can switch between Bash, Azure Shell, or [[Powershell]]. If you go into other clouds, they're very similar, right?
 >
 > **[3:25](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cloud-developer-workspace-advantage?u=76281980&t=205)** And that GCP has its own cloud editor and also has a Cloud Shell, Azure has its own cloud editor and also has a Cloud Shell.
 >
@@ -1165,7 +1145,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (17), aws (6), [[Engineering]] (5), data (5), [[GitHub]] (4)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Microsoft Azure|Azure]] (3), [[Codespaces]] (2), [[Data Engineering]] (1), [[Data Science]] (1)
 > **Env Vars:** aws (6), ide (3), gcp (2), api (2)
 > **Tools:** github (5), colab (2), jupyter (2), bash (1), powershell (1)
 > **CLI Commands:** aws (6)
@@ -1178,24 +1158,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is continuous delivery?
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-continuous-delivery?u=76281980)
+#### [What is continuous delivery?](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-continuous-delivery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-continuous-delivery?u=76281980&t=5)** Let's walk through a continuous delivery workflow using the latest cloud native ecosystem tools.
+> **[0:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-continuous-delivery?u=76281980&t=5)** Let's walk through a [[Continuous Delivery (CD)|continuous delivery]] workflow using the latest cloud native ecosystem tools.
 >
 > **[0:14](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-continuous-delivery?u=76281980&t=14)** To start off with, you would develop in an environment.
 >
-> **[0:17](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-continuous-delivery?u=76281980&t=17)** Oftentimes this would be a cloud based environment like Cloud9 or AWS or GitHub Codespaces on the Azure platform.
+> **[0:17](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-continuous-delivery?u=76281980&t=17)** Oftentimes this would be a cloud based environment like Cloud9 or AWS or [[GitHub]] [[Codespaces]] on the [[Microsoft Azure|Azure]] platform.
 >
 > **[0:26](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-continuous-delivery?u=76281980&t=26)** And the reason for using these cloud native environments is that they give you the ability to use all of the developer tools that will later be in the production environment.
 >
 > **[0:35](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-continuous-delivery?u=76281980&t=35)** So you have a very similar one to one environment.
 >
-> **[0:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-continuous-delivery?u=76281980&t=38)** Now, when you're building things, you'll push not only the software but the Infrastructure as Code as well.
+> **[0:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-continuous-delivery?u=76281980&t=38)** Now, when you're building things, you'll push not only the software but the [[Infrastructure as code (IaC)|Infrastructure as Code]] as well.
 >
-> **[0:44](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-continuous-delivery?u=76281980&t=44)** And the Infrastructure as Code allows you to define every single aspect of what's happening in a cloud based environment or a Kubernetes based environment.
+> **[0:44](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-continuous-delivery?u=76281980&t=44)** And the Infrastructure as Code allows you to define every single aspect of what's happening in a cloud based environment or a [[Kubernetes]] based environment.
 >
 > **[0:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-continuous-delivery?u=76281980&t=54)** And notice here that when you push the changes that the build system will then go through and test your code, merge the code, and this build will then automatically go to the provisioning step.
 >
@@ -1211,7 +1190,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-continuous-delivery?u=76281980&t=115)** So you can go ahead and say instead of a delete action, you could say, I want to create a new infrastructure here and I want to build out in this particular environment a stage environment.
 >
-> **[2:10](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-continuous-delivery?u=76281980&t=130)** And this staging environment is where I'll do my load testing.
+> **[2:10](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-continuous-delivery?u=76281980&t=130)** And this staging environment is where I'll do my [[Load Testing]].
 >
 > **[2:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-continuous-delivery?u=76281980&t=133)** And then you could likewise make another fork of the code and the Infrastructure as Code and then create a production environment.
 >
@@ -1221,21 +1200,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (5), cloud (4), [[Continuous Delivery (CD)|Continuous delivery]] (3), aws (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (5), [[Continuous Delivery (CD)|Continuous delivery]] (3), [[GitHub]] (1), [[Codespaces]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** make (5), aws (1)
 > **UI Navigation:** go to (2)
 > **Env Vars:** aws (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 
-#### Containerized ML microservices
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/containerized-ml-microservices?u=76281980)
+#### [Containerized ML microservices](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/containerized-ml-microservices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/containerized-ml-microservices?u=76281980&t=5)** Here is a containerized machine learning microservices idea.
+> **[0:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/containerized-ml-microservices?u=76281980&t=5)** Here is a containerized machine learning [[Microservices]] idea.
 >
-> **[0:10](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/containerized-ml-microservices?u=76281980&t=10)** And first we have Linux and Bash.
+> **[0:10](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/containerized-ml-microservices?u=76281980&t=10)** And first we have [[Linux]] and Bash.
 >
 > **[0:14](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/containerized-ml-microservices?u=76281980&t=14)** In this particular example, we could be interacting with Linux and Bash with a command line tool.
 >
@@ -1243,19 +1221,19 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/containerized-ml-microservices?u=76281980&t=24)** We also could be using a cloud based environment.
 >
-> **[0:27](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/containerized-ml-microservices?u=76281980&t=27)** These could include AWS Cloud9 or for example, GitHub Codespaces.
+> **[0:27](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/containerized-ml-microservices?u=76281980&t=27)** These could include AWS Cloud9 or for example, [[GitHub]] [[Codespaces]].
 >
 > **[0:32](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/containerized-ml-microservices?u=76281980&t=32)** And this is where I would build out my container.
 >
 > **[0:34](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/containerized-ml-microservices?u=76281980&t=34)** Now when I was ready to deploy, I could hook up into the microservice framework for the cloud provider.
 >
-> **[0:41](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/containerized-ml-microservices?u=76281980&t=41)** These are provided via container registries where I would register my container and then I would do a continuous delivery process that would deploy to one of the cloud platforms continuous delivery Platform as a Service offerings.
+> **[0:41](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/containerized-ml-microservices?u=76281980&t=41)** These are provided via container registries where I would register my container and then I would do a [[Continuous Delivery (CD)|continuous delivery]] process that would deploy to one of the cloud platforms continuous delivery [[PaaS|Platform as a Service]] offerings.
 >
 > **[0:56](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/containerized-ml-microservices?u=76281980&t=56)** And here's a good example, AWS App Runner is a microservice friendly framework that allows you to take a container and push it out automatically, either through a build system like AWS Codebuild or through your own build system like GitHub Actions.
 >
-> **[1:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/containerized-ml-microservices?u=76281980&t=73)** The Google Cloud has a similar container based deployment called GCP Cloud Run, and Azure App Services also has a similar service that allows you to do containerized workflows.
+> **[1:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/containerized-ml-microservices?u=76281980&t=73)** The [[Google Cloud Platform (GCP)|Google Cloud]] has a similar container based deployment called GCP Cloud Run, and [[Microsoft Azure|Azure]] App Services also has a similar service that allows you to do containerized workflows.
 >
-> **[1:26](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/containerized-ml-microservices?u=76281980&t=86)** There's also another step that you could add, and that's by integrating with an MLOps platform.
+> **[1:26](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/containerized-ml-microservices?u=76281980&t=86)** There's also another step that you could add, and that's by integrating with an [[MLOps]] platform.
 >
 > **[1:31](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/containerized-ml-microservices?u=76281980&t=91)** So what this means is that, potentially you could deploy some models by interacting with an API call and then calling an inference endpoint that's sitting out somewhere and this deployment target is then using that MLOps platform to make your API calls.
 >
@@ -1271,24 +1249,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), aws (4), [[Linux]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (3), [[Microservices]] (2)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (3), [[Microservices]] (2), [[GitHub]] (2), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** aws (4), gcp (2), api (2)
 > **Tools:** bash (3), github (2), command line (1)
 > **CLI Commands:** aws (4), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 
-#### SRE mindset for MLOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/sre-mindset-for-mlops?u=76281980)
+#### [SRE mindset for MLOps](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/sre-mindset-for-mlops?u=76281980)
 
-#### Reproducible workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/reproducible-workflow?u=76281980)
+#### [Reproducible workflow](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/reproducible-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/reproducible-workflow?u=76281980&t=8)** A reproducible workflow involves Infrastructure as Code in addition to components like a build system and a source code repository.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/reproducible-workflow?u=76281980&t=8)** A reproducible workflow involves [[Infrastructure as code (IaC)|Infrastructure as Code]] in addition to components like a build system and a source code repository.
 >
-> **[0:17](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/reproducible-workflow?u=76281980&t=17)** Here, we have an Infrastructure as Code workflow where we take things from our either cloud based development environment or local development environment like Cloud9 or GitHub Codespaces and we do the test merge trigger build workflow.
+> **[0:17](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/reproducible-workflow?u=76281980&t=17)** Here, we have an Infrastructure as Code workflow where we take things from our either cloud based development environment or local development environment like Cloud9 or [[GitHub]] [[Codespaces]] and we do the test merge trigger build workflow.
 >
 > **[0:33](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/reproducible-workflow?u=76281980&t=33)** So this is testing our code, making sure that Linting is working and making sure the deployment system works.
 >
@@ -1308,30 +1284,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (4), cloud (1), [[GitHub]] (1), [[Codespaces]] (1), next (1)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (4), [[GitHub]] (1), [[Codespaces]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (3)
 > **Tools:** github (1)
 > **Exercise Files:** source code (1)
 
-#### Learn continuous integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/learn-continuous-integration?u=76281980)
+#### [Learn continuous integration](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/learn-continuous-integration?u=76281980)
 
 
 ### 8. Choosing Appropriate Google Cloud Hardware Components
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Selecting heavy vs. light MLOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/selecting-heavy-vs-light-mlops?u=76281980)
+#### [Selecting heavy vs. light MLOps](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/selecting-heavy-vs-light-mlops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/selecting-heavy-vs-light-mlops?u=76281980&t=6)** Let's take a look at a couple of different types of MLOps workflows.
+> **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/selecting-heavy-vs-light-mlops?u=76281980&t=6)** Let's take a look at a couple of different types of [[MLOps]] workflows.
 >
-> **[0:10](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/selecting-heavy-vs-light-mlops?u=76281980&t=10)** In this first example here we have more of a batch or a static workflow where you would take something directly from GitHub, potentially even the model lives in GitHub because it's a very small model.
+> **[0:10](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/selecting-heavy-vs-light-mlops?u=76281980&t=10)** In this first example here we have more of a batch or a static workflow where you would take something directly from [[GitHub]], potentially even the model lives in GitHub because it's a very small model.
 >
-> **[0:23](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/selecting-heavy-vs-light-mlops?u=76281980&t=23)** You would build it with a cloud native build system, in this case Google Cloud Build, and then there's a pass or a Platform as a Service offering, in this case Google App engine, and you would serve out a prediction and then this would be your AI API.
+> **[0:23](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/selecting-heavy-vs-light-mlops?u=76281980&t=23)** You would build it with a cloud native build system, in this case [[Google Cloud Platform (GCP)|Google Cloud]] Build, and then there's a pass or a [[PaaS|Platform as a Service]] offering, in this case [[Google]] App engine, and you would serve out a prediction and then this would be your AI API.
 >
 > **[0:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/selecting-heavy-vs-light-mlops?u=76281980&t=38)** So this is a very lightweight kind of hobbyist workflow, although also it could work very well with maybe pre-trained model workflows. In a more sophisticated MLOps workflow, you could call this a heavy workflow, and there's really a data centric type approach versus a model centric type approach. In the data centric approach, the data is, maybe, the most important aspect of what you're building.
 >
@@ -1339,7 +1313,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/selecting-heavy-vs-light-mlops?u=76281980&t=76)** Now, notice there are some components of an MLOps system, a platform.
 >
-> **[1:21](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/selecting-heavy-vs-light-mlops?u=76281980&t=81)** In this case, this is vertex AI.
+> **[1:21](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/selecting-heavy-vs-light-mlops?u=76281980&t=81)** In this case, this is [[Vertex]] AI.
 >
 > **[1:23](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/selecting-heavy-vs-light-mlops?u=76281980&t=83)** There's other AI platforms like, for example, SageMaker.
 >
@@ -1367,7 +1341,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/selecting-heavy-vs-light-mlops?u=76281980&t=158)** These are all components that often go together in an MLOps system.
 >
-> **[2:43](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/selecting-heavy-vs-light-mlops?u=76281980&t=163)** And then underneath the hood, this is also not necessarily talked about enough, but in any modern system, most likely you're going to have a data management system on the Google Cloud.
+> **[2:43](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/selecting-heavy-vs-light-mlops?u=76281980&t=163)** And then underneath the hood, this is also not necessarily talked about enough, but in any modern system, most likely you're going to have a [[Data Management]] system on the Google Cloud.
 >
 > **[2:55](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/selecting-heavy-vs-light-mlops?u=76281980&t=175)** BigQuery is one of the systems that people often use to query the data.
 >
@@ -1377,19 +1351,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[MLOps]] (6), ai (5), [[GitHub]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2)
+> **Frameworks & Libraries:** [[MLOps]] (6), [[GitHub]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[PaaS|Platform as a service]] (1), [[Google]] (1)
 > **CLI Commands:** make (2)
 > **Tools:** github (2)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Key components of MLOps landscape
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980)
+#### [Key components of MLOps landscape](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=5)** Let's take a look at this cloud MLOps landscape here.
+> **[0:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=5)** Let's take a look at this cloud [[MLOps]] landscape here.
 >
 > **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=8)** It's important to know all of the key factors when doing MLOps. Really, if you are doing machine learning operations, you're going to most likely use something in the cloud, even if you don't use their cloud MLOps platform.
 >
@@ -1397,31 +1370,31 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=25)** One, you have elastic storage systems, so you can scale up and down, do object storage, maybe mounted storage using a file system.
 >
-> **[0:33](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=33)** This is now becoming an emerging thing, in fact, is that many cloud providers are actually giving you mount points that the whole cluster can actually read and write to that don't have to actually use behind the scenes some kind of a Hadoop or Spark based system.
+> **[0:33](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=33)** This is now becoming an emerging thing, in fact, is that many cloud providers are actually giving you mount points that the whole cluster can actually read and write to that don't have to actually use behind the scenes some kind of a [[Hadoop]] or Spark based system.
 >
 > **[0:49](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=49)** I think this is a trend we're going to see more and more of.
 >
-> **[0:51](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=51)** And as a result you get near infinite access to disk IO, storage, CPU, GPUs, even specialized chips, ASCIS that allow you to do things like maybe run TensorFlow inference on a TPU.
+> **[0:51](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=51)** And as a result you get near infinite access to disk IO, storage, CPU, GPUs, even specialized chips, ASCIS that allow you to do things like maybe run [[TensorFlow]] inference on a TPU.
 >
 > **[1:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=68)** The elastic compute systems here, again, have the ability to expand according to your needs.
 >
 > **[1:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=73)** You also have built on top of these, are these serverless and containerized managed services.
 >
-> **[1:19](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=79)** So this is the network effect and that cloud providers can provide things like AWS App Runner or AWS Lambda, or Google Cloud functions, and these build on top of the existing compute and storage.
+> **[1:19](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=79)** So this is the network effect and that cloud providers can provide things like AWS App Runner or AWS Lambda, or [[Google Cloud Platform (GCP)|Google Cloud]] functions, and these build on top of the existing compute and storage.
 >
 > **[1:32](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=92)** There's also these integrated tools and SDK.
 >
-> **[1:35](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=95)** You'll see that they're available in Cloud Shells or cloud based development environments, and these are tightly integrated with the vendor and they allow you to build things very quickly using cloud computing.
+> **[1:35](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=95)** You'll see that they're available in Cloud Shells or cloud based development environments, and these are tightly integrated with the vendor and they allow you to build things very quickly using [[Cloud Computing]].
 >
-> **[1:48](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=108)** And there's really a shift of developer centric and this would be things to the left here on AWS, for example, or Azure or GCP, they have these Cloud Shells.
+> **[1:48](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=108)** And there's really a shift of developer centric and this would be things to the left here on AWS, for example, or [[Microsoft Azure|Azure]] or GCP, they have these Cloud Shells.
 >
 > **[1:58](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=118)** They also have cloud IDEs, more like a Visual Studio type environment.
 >
 > **[2:02](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=122)** And then as you get a little bit more into the data and the machine learning side, you'll see that every vendor has a storage query tool and a dashboard.
 >
-> **[2:11](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=131)** A good example would be Amazon has Athena where you can do SQL queries against object storage.
+> **[2:11](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=131)** A good example would be Amazon has Athena where you can do [[SQL]] queries against object storage.
 >
-> **[2:17](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=137)** Google has BigQuery, where you can do SQL queries against their distributed storage system.
+> **[2:17](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=137)** [[Google]] has BigQuery, where you can do SQL queries against their distributed storage system.
 >
 > **[2:23](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=143)** And then finally, as you get into the machine learning phase here, you'll see that there's Jupyter Notebook based platforms, there's MLOps platforms.
 >
@@ -1433,9 +1406,9 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=171)** And a lot of times the third party vendors will then tap into those core capabilities.
 >
-> **[2:56](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=176)** So there's DataOps, you know, you can look at things like Databricks or Snowflake's, MLops as well.
+> **[2:56](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=176)** So there's DataOps, you know, you can look at things like Databricks or [[Snowflake]]'s, MLops as well.
 >
-> **[3:02](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=182)** There's lots of MLOps platforms, specialized databases, maybe graph databases or time series databases, monitoring and observability, you know, things like Datadog or New Relic.
+> **[3:02](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=182)** There's lots of MLOps platforms, specialized [[Databases]], maybe graph databases or time series databases, monitoring and observability, you know, things like Datadog or New Relic.
 >
 > **[3:14](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/key-components-of-mlops-landscape?u=76281980&t=194)** These are all third party vendors that fit really tightly into the cloud environment, but also allow you to expand beyond it to make a specialized solution.
 >
@@ -1443,7 +1416,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), [[MLOps]] (9), aws (3), [[Databases]] (3), [[SQL]] (2)
+> **Frameworks & Libraries:** [[MLOps]] (9), [[Databases]] (3), [[SQL]] (2), [[Hadoop]] (1), [[TensorFlow]] (1)
 > **Env Vars:** aws (3), sql (2), cpu (1), ascis (1), tpu (1)
 > **CLI Commands:** aws (3), make (1)
 > **Tools:** visual studio (1), jupyter (1)
@@ -1451,8 +1424,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
 
-#### Feature store vs. data warehouse
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/feature-store-vs-data-warehouse?u=76281980)
+#### [Feature store vs. data warehouse](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/feature-store-vs-data-warehouse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1460,7 +1432,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/feature-store-vs-data-warehouse?u=76281980&t=9)** On one hand, we can look at this picture from a low quality data angle.
 >
-> **[0:14](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/feature-store-vs-data-warehouse?u=76281980&t=14)** So if you take a look at a data lake here, it could be a combination of streaming data, batch data, unstructured data, structured data.
+> **[0:14](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/feature-store-vs-data-warehouse?u=76281980&t=14)** So if you take a look at a data lake here, it could be a combination of streaming data, batch data, [[Unstructured Data]], structured data.
 >
 > **[0:21](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/feature-store-vs-data-warehouse?u=76281980&t=21)** So you really have to do a lot of work to clean this up.
 >
@@ -1474,7 +1446,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/feature-store-vs-data-warehouse?u=76281980&t=64)** Another different kind of resource is a data warehouse.
 >
-> **[1:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/feature-store-vs-data-warehouse?u=76281980&t=68)** And so the idea here is it's more shifted for reporting dashboards, business intelligence, but in both categories, either feature store or a data warehouse, you can see that it's high quality data.
+> **[1:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/feature-store-vs-data-warehouse?u=76281980&t=68)** And so the idea here is it's more shifted for reporting [[Dashboards]], [[Business Intelligence (BI)|business intelligence]], but in both categories, either feature store or a data warehouse, you can see that it's high quality data.
 >
 > **[1:21](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/feature-store-vs-data-warehouse?u=76281980&t=81)** The one difference here is that the business intelligence side is on the data warehouse component and the AI/ML side is on the feature store.
 >
@@ -1484,13 +1456,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), feature (6), [[Business Intelligence (BI)|Business intelligence]] (2), [[Unstructured Data]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Business Intelligence (BI)|Business intelligence]] (2), [[Unstructured Data]] (1), [[Dashboards]] (1)
 > **Env Vars:** etl (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 
-#### Compute choice
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/compute-choice?u=76281980)
+#### [Compute choice](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/compute-choice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1508,7 +1479,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (5)
 > **Env Vars:** cpu (5), gpu (4)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -1518,8 +1488,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Architecting a ML solution: Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563458?u=76281980)
+#### [Architecting a ML solution: Next steps](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563458?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1527,17 +1496,17 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563458?u=76281980&t=3)** Let's talk through this conclusion. Course 2: Architecting ML Solutions.
 >
-> **[0:09](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563458?u=76281980&t=9)** First up, in Course 2, we talked about a continuous delivery in machine learning.
+> **[0:09](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563458?u=76281980&t=9)** First up, in Course 2, we talked about a [[Continuous Delivery (CD)|continuous delivery]] in machine learning.
 >
 > **[0:14](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563458?u=76281980&t=14)** This means ensuring rapid, reliable, and consistent deployment of ML models.
 >
-> **[0:19](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563458?u=76281980&t=19)** We also talked about containerizing ML microservices such as creating modular, scalable, and maintainable ML services and using tools like Docker and Kubernetes.
+> **[0:19](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563458?u=76281980&t=19)** We also talked about containerizing ML [[Microservices]] such as creating modular, scalable, and maintainable ML services and using tools like Docker and [[Kubernetes]].
 >
 > **[0:31](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563458?u=76281980&t=31)** We also talked about reproducible workflows, including consistency and repeatability of ML workflows.
 >
-> **[0:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563458?u=76281980&t=38)** Continuous integration, automating the integration of code changes from multiple contributors.
+> **[0:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563458?u=76281980&t=38)** [[Continuous Integration (CI)|Continuous integration]], automating the integration of code changes from multiple contributors.
 >
-> **[0:44](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563458?u=76281980&t=44)** We also talked through heavy versus light MLOps.
+> **[0:44](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563458?u=76281980&t=44)** We also talked through heavy versus light [[MLOps]].
 >
 > **[0:47](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563458?u=76281980&t=47)** This means understanding the trade offs between resource intensive and lightweight MLOps solutions.
 >
@@ -1545,7 +1514,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563458?u=76281980&t=65)** And we also talked through compute choices.
 >
-> **[1:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563458?u=76281980&t=68)** This means selecting the right Google Cloud hardware components for specific needs, and also balancing performance cost and efficiency.
+> **[1:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563458?u=76281980&t=68)** This means selecting the right [[Google Cloud Platform (GCP)|Google Cloud]] [[Hardware]] components for specific needs, and also balancing performance cost and efficiency.
 >
 > **[1:17](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563458?u=76281980&t=77)** All right.
 >
@@ -1559,7 +1528,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLOps]] (2), feature (2), data (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), gcp (1)
+> **Frameworks & Libraries:** [[MLOps]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Microservices]] (1), [[Kubernetes]] (1)
 > **CLI Commands:** docker (1)
 > **Env Vars:** gcp (1)
 > **Cross-References:** we talked about (1)
@@ -1570,26 +1539,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing data preparation and processing systems: Overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24571421?u=76281980)
+#### [Designing data preparation and processing systems: Overview](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24571421?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24571421?u=76281980&t=0)** GCP Professional Machine Learning Engineer.
 >
-> **[0:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24571421?u=76281980&t=3)** Let's talk about Course 3, which is designing data preparation and processing systems.
+> **[0:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24571421?u=76281980&t=3)** Let's talk about Course 3, which is designing [[Data Preparation]] and processing systems.
 >
-> **[0:10](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24571421?u=76281980&t=10)** In this course, we're going to cover several key topics, including Google Colab.
+> **[0:10](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24571421?u=76281980&t=10)** In this course, we're going to cover several key topics, including [[Google]] Colab.
 >
-> **[0:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24571421?u=76281980&t=15)** We're going to talk about how you can use it for creating, sharing, and collaborating on hosted Jupyter Notebooks, and how to leverage built in features like integration with Google Drive and GitHub and also BigQuery.
+> **[0:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24571421?u=76281980&t=15)** We're going to talk about how you can use it for creating, sharing, and collaborating on hosted Jupyter Notebooks, and how to leverage built in features like integration with [[Google Drive]] and [[GitHub]] and also BigQuery.
 >
-> **[0:28](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24571421?u=76281980&t=28)** We'll also dive into data science setup with virtual environment and pip, including how to set up a data science environment on Windows, how to manage project dependencies, and how to isolate environments.
+> **[0:28](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24571421?u=76281980&t=28)** We'll also dive into [[Data Science]] setup with virtual environment and pip, including how to set up a data science environment on [[Windows]], how to manage project dependencies, and how to isolate environments.
 >
 > **[0:42](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24571421?u=76281980&t=42)** We'll also dive into understanding the importance of accurate data labeling for ML projects and how to use Amazon Mechanical Turk.
 >
-> **[0:51](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24571421?u=76281980&t=51)** We'll also dive into scaling data and using BigQuery data pipelines with Colab and also how to use those BigQuery and Colab for data processing.
+> **[0:51](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24571421?u=76281980&t=51)** We'll also dive into scaling data and using BigQuery [[Data Pipelines]] with Colab and also how to use those BigQuery and Colab for [[Data Processing]].
 >
-> **[1:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24571421?u=76281980&t=63)** We'll also get into feature engineering concepts, including how to gain knowledge on feature engineering techniques and also how to use public datasets for enriching ML projects.
+> **[1:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24571421?u=76281980&t=63)** We'll also get into [[Feature Engineering]] concepts, including how to gain knowledge on feature engineering techniques and also how to use public datasets for enriching ML projects.
 >
 > **[1:14](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24571421?u=76281980&t=74)** Finally, we'll get into EDA with Google BigQuery.
 >
@@ -1599,18 +1567,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Google]] (2), [[Feature Engineering]] (2), gcp (1), [[Google Drive]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Feature Engineering]] (2), [[Google Drive]] (1), [[GitHub]] (1), [[Data Science]] (1)
 > **Tools:** colab (3), jupyter (1), github (1)
 > **Env Vars:** gcp (1), eda (1)
 > **Prerequisites:** setup (1), set up (1)
 > **CLI Commands:** pip (1)
 
-#### Designing data preparation and processing systems: Key terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-three-key-terminology?u=76281980)
+#### [Designing data preparation and processing systems: Key terminology](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-three-key-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-three-key-terminology?u=76281980&t=0)** Designing data preparation and processing systems.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-three-key-terminology?u=76281980&t=0)** Designing [[Data Preparation]] and processing systems.
 >
 > **[0:04](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-three-key-terminology?u=76281980&t=4)** Let's dive into the key terminology in this section.
 >
@@ -1622,21 +1589,21 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-three-key-terminology?u=76281980&t=29)** Really get a view of what's happening with the data.
 >
-> **[0:32](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-three-key-terminology?u=76281980&t=32)** Now, data quality is a system that refers to accuracy or consistency.
+> **[0:32](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-three-key-terminology?u=76281980&t=32)** Now, [[Data Quality]] is a system that refers to accuracy or consistency.
 >
 > **[0:39](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-three-key-terminology?u=76281980&t=39)** Another way to look at it is completeness of a data set, and this ensures that it's suitable for its intended purpose.
 >
-> **[0:47](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-three-key-terminology?u=76281980&t=47)** Another key term to identify is TensorFlow Data Validation.
+> **[0:47](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-three-key-terminology?u=76281980&t=47)** Another key term to identify is [[TensorFlow]] [[Data Validation]].
 >
 > **[0:53](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-three-key-terminology?u=76281980&t=53)** In this case this would be TFDV, and this is a library that helps you understand, validate, and monitor the input data at scale.
 >
-> **[1:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-three-key-terminology?u=76281980&t=63)** It can provide descriptive statistics.
+> **[1:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-three-key-terminology?u=76281980&t=63)** It can provide descriptive [[Statistics]].
 >
 > **[1:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-three-key-terminology?u=76281980&t=66)** Also, it can dive into data anomalies and also data drift detection.
 >
-> **[1:12](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-three-key-terminology?u=76281980&t=72)** Data pipelines are a series of data processing steps that move, transform, and validate data from its raw form to a format suitable for analysis or machine learning.
+> **[1:12](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-three-key-terminology?u=76281980&t=72)** [[Data Pipelines]] are a series of [[Data Processing]] steps that move, transform, and validate data from its raw form to a format suitable for analysis or machine learning.
 >
-> **[1:25](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-three-key-terminology?u=76281980&t=85)** Also in terms of key terms, we have feature engineering, and this is a process of creating or modifying input features to improve the performance of ML models.
+> **[1:25](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-three-key-terminology?u=76281980&t=85)** Also in terms of key terms, we have [[Feature Engineering]], and this is a process of creating or modifying input features to improve the performance of ML models.
 >
 > **[1:36](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-three-key-terminology?u=76281980&t=96)** Class imbalance is when a distribution of classes in a data set is not equal, and the problem with this is it could lead to biased predictions by the machine learning model.
 >
@@ -1652,27 +1619,26 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-three-key-terminology?u=76281980&t=133)** This can enable the application of the same transformation logic, bolstering the training and the serving of the ML model.
 >
-> **[2:21](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-three-key-terminology?u=76281980&t=141)** So it really provides a level of uniformity across the entire pipeline of MLOps.
+> **[2:21](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-three-key-terminology?u=76281980&t=141)** So it really provides a level of uniformity across the entire pipeline of [[MLOps]].
 >
 > **[2:27](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-three-key-terminology?u=76281980&t=147)** All right. So these are some of the key terms that we covered in this section, which include designing data preparation and processing systems.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[TensorFlow]] (3), feature (2), [[Statistics]] (1), [[Feature Engineering]] (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (3), [[Data Preparation]] (1), [[Data Quality]] (1), [[Data Validation]] (1), [[Statistics]] (1)
 > **Definitions:** is a  (5), refers to (1)
 > **Env Vars:** eda (2), tft (2), tfdv (1)
 > **Cross-References:** we covered (1)
 
-#### Onboard to GCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/onboard-to-gcp?u=76281980)
+#### [Onboard to GCP](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/onboard-to-gcp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/onboard-to-gcp?u=76281980&t=8)** Let's take a look at the Google Cloud free tier here.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/onboard-to-gcp?u=76281980&t=8)** Let's take a look at the [[Google Cloud Platform (GCP)|Google Cloud]] free tier here.
 >
-> **[0:11](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/onboard-to-gcp?u=76281980&t=11)** You can see if you start up on the Google Cloud free tier, you have access to 20 free products, $300 in free credits, although you do need to use them within three months.
+> **[0:11](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/onboard-to-gcp?u=76281980&t=11)** You can see if you start up on the Google Cloud free tier, you have access to 20 free [[Microsoft Products|products]], $300 in free credits, although you do need to use them within three months.
 >
-> **[0:22](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/onboard-to-gcp?u=76281980&t=22)** And some of the free tier products include the Compute Engine, Cloud Storage, BigQuery, Kubernetes, App Engine, Cloud Run, Cloud Build, Stackdriver, Firestore, Pub/Sub, Cloud functions, Vision AI, Speech-to-Text, Natural Language API, AutoML, etc.
+> **[0:22](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/onboard-to-gcp?u=76281980&t=22)** And some of the free tier products include the Compute Engine, [[Cloud Storage]], BigQuery, [[Kubernetes]], App Engine, Cloud Run, Cloud Build, Stackdriver, Firestore, Pub/Sub, Cloud functions, Vision AI, Speech-to-Text, Natural Language API, AutoML, etc.
 >
 > **[0:42](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/onboard-to-gcp?u=76281980&t=42)** Really, there's just a ton of free tier services here, so let's go ahead and get started.
 >
@@ -1696,13 +1662,13 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/onboard-to-gcp?u=76281980&t=95)** And if I wanted to create a new project, I would go ahead and create a new project there.
 >
-> **[1:39](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/onboard-to-gcp?u=76281980&t=99)** What I would recommend when you first get started with the Google Cloud platform is to launch the Cloud Shell.
+> **[1:39](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/onboard-to-gcp?u=76281980&t=99)** What I would recommend when you first get started with the [[Google Cloud Platform (GCP)|Google Cloud platform]] is to launch the Cloud Shell.
 >
 > **[1:44](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/onboard-to-gcp?u=76281980&t=104)** So let's go ahead and do that.
 >
 > **[1:46](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/onboard-to-gcp?u=76281980&t=106)** And Cloud Shell is nice because you can immediately start building solutions, trying out ideas inside of this Cloud Shell environment.
 >
-> **[1:55](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/onboard-to-gcp?u=76281980&t=115)** The first thing that I like to do is create a Python virtual environment so that I can test out Python projects and run them inside of Cloud Shell.
+> **[1:55](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/onboard-to-gcp?u=76281980&t=115)** The first thing that I like to do is create a [[Python (Programming Language)|Python]] virtual environment so that I can test out Python projects and run them inside of Cloud Shell.
 >
 > **[2:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/onboard-to-gcp?u=76281980&t=123)** So I'm going to go ahead and do that.
 >
@@ -1720,7 +1686,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/onboard-to-gcp?u=76281980&t=171)** And then if I wanted to go to a repo where I have some code, in this case, I have some python code here and I go to HTTPS.
 >
-> **[3:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/onboard-to-gcp?u=76281980&t=180)** If I don't want to push changes back, I can go into this environment and I can actually just do a git clone.
+> **[3:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/onboard-to-gcp?u=76281980&t=180)** If I don't want to push changes back, I can go into this environment and I can actually just do a [[Git]] clone.
 >
 > **[3:07](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/onboard-to-gcp?u=76281980&t=187)** So let's go ahead and do that.
 >
@@ -1754,7 +1720,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/onboard-to-gcp?u=76281980&t=274)** So now that we've got Python working, well, what else could we do?
 >
-> **[4:37](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/onboard-to-gcp?u=76281980&t=277)** Well, we also can install Rust.
+> **[4:37](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/onboard-to-gcp?u=76281980&t=277)** Well, we also can install [[Rust (Programming Language)|Rust]].
 >
 > **[4:39](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/onboard-to-gcp?u=76281980&t=279)** So I'm going to go here and I'm going to go to Rust up, copy it, go to here, and we just paste this canned in. And this will go through and download the Rust environment, including cargo and the linter-clippy.
 >
@@ -1832,7 +1798,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), cloud (10), [[Rust (Programming Language)|Rust]] (6), [[Google Cloud Platform (GCP)|Google cloud]] (5), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Rust (Programming Language)|Rust]] (6), [[Google Cloud Platform (GCP)|Google cloud]] (5), [[Microsoft Products|Products]] (2), [[Git]] (2)
 > **CLI Commands:** python (12), cargo (6), make (5), git (2), gcloud (2)
 > **UI Navigation:** go to (7), toggle (1)
 > **Definitions:** is a  (5)
@@ -1846,12 +1812,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Google Colab?
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-google-colab?u=76281980)
+#### [What is Google Colab?](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-google-colab?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-google-colab?u=76281980&t=0)** Let's dive into how to use Google Colab notebooks for data science projects, portfolio projects.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-google-colab?u=76281980&t=0)** Let's dive into how to use [[Google]] Colab notebooks for [[Data Science]] projects, portfolio projects.
 >
 > **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-google-colab?u=76281980&t=6)** You can see here, this is the default screen and it gives you a good set of instructions for how to use it.
 >
@@ -1891,7 +1856,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-google-colab?u=76281980&t=128)** Now, how would I actually go through and, you know, build out some code?
 >
-> **[2:12](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-google-colab?u=76281980&t=132)** Fortunately, you can just execute Python code and for example, I can type in import pandas as pd, right?
+> **[2:12](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-google-colab?u=76281980&t=132)** Fortunately, you can just execute [[Python (Programming Language)|Python]] code and for example, I can type in import [[Pandas (Software)|pandas]] as pd, right?
 >
 > **[2:20](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-google-colab?u=76281980&t=140)** And import some project and import a library.
 >
@@ -1899,7 +1864,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-google-colab?u=76281980&t=151)** The other thing I'll mention is that if you want to go ahead and save this or share it with someone else, there's a couple of ways to do this.
 >
-> **[2:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-google-colab?u=76281980&t=158)** The easiest way by far would be to go File and say Save a copy in GitHub.
+> **[2:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-google-colab?u=76281980&t=158)** The easiest way by far would be to go File and say Save a copy in [[GitHub]].
 >
 > **[2:45](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-google-colab?u=76281980&t=165)** This is something I like to do quite a bit.
 >
@@ -1915,7 +1880,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-google-colab?u=76281980&t=200)** I would go through here and go down to the name of the repo that I just created, in this case, this would be data-science portfolio and go ahead and say, "Okay." This is a great way to share things with other people on your teams or in your company or with just a future employer because it has this Open in Colab link here and then someone can just execute your code.
 >
-> **[3:43](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-google-colab?u=76281980&t=223)** One other way that is actually pretty powerful is that you also can use the features of the Google Drive environment.
+> **[3:43](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-google-colab?u=76281980&t=223)** One other way that is actually pretty powerful is that you also can use the features of the [[Google Drive]] environment.
 >
 > **[3:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-google-colab?u=76281980&t=234)** And in fact, how could you do this?
 >
@@ -1933,7 +1898,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-google-colab?u=76281980&t=295)** Let me go ahead and click on this Open in Colab link.
 >
-> **[4:58](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-google-colab?u=76281980&t=298)** And if I go to this Open In CoLab link, Notice that I can easily navigate this project so I can look at Ingest, EDA, Modeling, Conclusion. Notice in the Ingest, I actually read through and I have a New York Times CSV file and I use that for the rest of my project.
+> **[4:58](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-google-colab?u=76281980&t=298)** And if I go to this Open In CoLab link, Notice that I can easily navigate this project so I can look at Ingest, EDA, Modeling, Conclusion. Notice in the Ingest, I actually read through and I have a New York Times CSV file and I use that for the [[Representational State Transfer (REST)|rest]] of my project.
 >
 > **[5:16](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/what-is-google-colab?u=76281980&t=316)** One thing that's nice about this approach is I don't have to worry about data, and this is another highly recommended way to use Colab notebooks is to be very critical about making it 100% reproducible and easy to navigate.
 >
@@ -1941,7 +1906,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[GitHub]] (3), [[Google Drive]] (2), [[Google]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[GitHub]] (3), [[Google Drive]] (2), [[Google]] (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** colab (8), github (3)
 > **Env Vars:** eda (3), readme (2), csv (1)
 > **UI Navigation:** go to (3), click on (2)
@@ -1950,12 +1915,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Exploratory data analysis for life expectancy
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-for-life-expectancy?u=76281980)
+#### [Exploratory data analysis for life expectancy](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-for-life-expectancy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-for-life-expectancy?u=76281980&t=6)** Here we have a Google Colab notebook, which is a great place to explore data.
+> **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-for-life-expectancy?u=76281980&t=6)** Here we have a [[Google]] Colab notebook, which is a great place to explore data.
 >
 > **[0:10](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-for-life-expectancy?u=76281980&t=10)** One of the nice things about Colab notebook is it has many features that help you do things at a professional level.
 >
@@ -1971,7 +1935,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-for-life-expectancy?u=76281980&t=60)** That's really the purpose.
 >
-> **[1:01](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-for-life-expectancy?u=76281980&t=61)** So let's first take a look at Ingest here and run pandas and then go through here and load some life expectancy data.
+> **[1:01](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-for-life-expectancy?u=76281980&t=61)** So let's first take a look at Ingest here and run [[Pandas (Software)|pandas]] and then go through here and load some life expectancy data.
 >
 > **[1:10](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-for-life-expectancy?u=76281980&t=70)** Let's say I'm a data scientist and I'm wanting to understand what's happening in terms of life expectancy around the world and especially my home country of the United States, and, kind of, dig into the details a little bit.
 >
@@ -2013,7 +1977,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-for-life-expectancy?u=76281980&t=191)** And if we look at France as well, European, Australia, Switzerland, Spain, we can see that Europe and Asia have amazing life expectancies and also Israel, Italy, Malta, Iceland, Portugal, lots of countries, even Canada, a neighbor that estates people are living for quite some time.
 >
-> **[3:33](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-for-life-expectancy?u=76281980&t=213)** And if we go through here and we explore it a little bit more, we can even look at some descriptive statistics.
+> **[3:33](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-for-life-expectancy?u=76281980&t=213)** And if we go through here and we explore it a little bit more, we can even look at some descriptive [[Statistics]].
 >
 > **[3:39](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-for-life-expectancy?u=76281980&t=219)** For example, we could look at what is the median according to different years.
 >
@@ -2071,7 +2035,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Pandas (Software)|Pandas]] (2), [[Statistics]] (2), [[Google]] (1), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Statistics]] (2), [[Google]] (1)
 > **Env Vars:** gpu (2), tpu (2), ram (2), eda (1), cpu (1)
 > **UI Navigation:** go to (4)
 > **Analogies:** for example (3)
@@ -2079,18 +2043,17 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 
-#### Data science setup with virtualenv and pip on Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-science-setup-with-virtualenv-and-pip-on-windows?u=76281980)
+#### [Data science setup with virtualenv and pip on Windows](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-science-setup-with-virtualenv-and-pip-on-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-science-setup-with-virtualenv-and-pip-on-windows?u=76281980&t=8)** Here, I'm on a Windows 11 machine, and one of the things I wanted to prove is that the Python language has all of the built in tools for you to do installations.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-science-setup-with-virtualenv-and-pip-on-windows?u=76281980&t=8)** Here, I'm on a [[Windows]] 11 machine, and one of the things I wanted to prove is that the [[Python (Programming Language)|Python]] language has all of the built in tools for you to do installations.
 >
 > **[0:18](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-science-setup-with-virtualenv-and-pip-on-windows?u=76281980&t=18)** Now, if we go through and we go to the [python.org](https://python.org) website and we go to Downloads. This is the official location to download Python, and you can get it for here for free.
 >
 > **[0:30](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-science-setup-with-virtualenv-and-pip-on-windows?u=76281980&t=30)** And this one is 3.11 if I wanted to use that one.
 >
-> **[0:32](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-science-setup-with-virtualenv-and-pip-on-windows?u=76281980&t=32)** An alternate way is if you go to the command prompt and you type in the cmd command to get it started and then type in Python, what you'll notice is that it will automatically install Python from the Microsoft Store for you.
+> **[0:32](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-science-setup-with-virtualenv-and-pip-on-windows?u=76281980&t=32)** An alternate way is if you go to the command prompt and you type in the cmd command to get it started and then type in Python, what you'll notice is that it will automatically install Python from the [[Microsoft]] Store for you.
 >
 > **[0:48](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-science-setup-with-virtualenv-and-pip-on-windows?u=76281980&t=48)** And notice again, the Python Software Foundation is the official distributor of Python, not a third party company.
 >
@@ -2098,7 +2061,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-science-setup-with-virtualenv-and-pip-on-windows?u=76281980&t=66)** And if I type in venv, it'll create one inside of this directory.
 >
-> **[1:11](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-science-setup-with-virtualenv-and-pip-on-windows?u=76281980&t=71)** Now, let's say you wanted to do data science.
+> **[1:11](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-science-setup-with-virtualenv-and-pip-on-windows?u=76281980&t=71)** Now, let's say you wanted to do [[Data Science]].
 >
 > **[1:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-science-setup-with-virtualenv-and-pip-on-windows?u=76281980&t=73)** So this is a common thing that people on Windows want to do.
 >
@@ -2112,7 +2075,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-science-setup-with-virtualenv-and-pip-on-windows?u=76281980&t=100)** Now that I've got this virtual environment distributed from the Python Software Foundation, all I need to do is do my installations and they'll stay in this environment.
 >
-> **[1:49](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-science-setup-with-virtualenv-and-pip-on-windows?u=76281980&t=109)** Now, if I wanted to install pandas, let's go ahead and do that.
+> **[1:49](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-science-setup-with-virtualenv-and-pip-on-windows?u=76281980&t=109)** Now, if I wanted to install [[Pandas (Software)|pandas]], let's go ahead and do that.
 >
 > **[1:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-science-setup-with-virtualenv-and-pip-on-windows?u=76281980&t=114)** Here we go.
 >
@@ -2156,7 +2119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (15), [[Pandas (Software)|Pandas]] (5), data (4), [[Windows]] (2), prompt (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (15), [[Pandas (Software)|Pandas]] (5), [[Data Science]] (3), [[Windows]] (2), [[Microsoft]] (1)
 > **CLI Commands:** python (15), pip (3), cd (1)
 > **Prerequisites:** install (7)
 > **Tools:** jupyter (5), command prompt (1)
@@ -2165,12 +2128,11 @@ created: 2026-05-02
 > **URLs:** [python.org](https://python.org) (1)
 > **Versions:** 3.11 (1)
 
-#### Graphing data for exploratory data analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/graphing-data-for-exploratory-data-analysis?u=76281980)
+#### [Graphing data for exploratory data analysis](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/graphing-data-for-exploratory-data-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/graphing-data-for-exploratory-data-analysis?u=76281980&t=8)** Let's take a look at a traditional data science project here.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/graphing-data-for-exploratory-data-analysis?u=76281980&t=8)** Let's take a look at a traditional [[Data Science]] project here.
 >
 > **[0:12](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/graphing-data-for-exploratory-data-analysis?u=76281980&t=12)** One of the things that I would recommend in dealing with the data science project is to create a structure that follows an ingestion, an exploratory data analysis, a modeling and a conclusion phase.
 >
@@ -2188,7 +2150,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/graphing-data-for-exploratory-data-analysis?u=76281980&t=60)** So this is really, kind of, kicking the tires for the data.
 >
-> **[1:04](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/graphing-data-for-exploratory-data-analysis?u=76281980&t=64)** Now, when you go to exploratory data analysis, really what that means is you want to look at both the descriptive statistics in a numerical form.
+> **[1:04](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/graphing-data-for-exploratory-data-analysis?u=76281980&t=64)** Now, when you go to exploratory data analysis, really what that means is you want to look at both the descriptive [[Statistics]] in a numerical form.
 >
 > **[1:12](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/graphing-data-for-exploratory-data-analysis?u=76281980&t=72)** So if I go through here and I say describe, one of the things that we can do is we can look at the cases, the deaths, for example, 50%.
 >
@@ -2234,7 +2196,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Statistics]] (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** covid (3)
 > **UI Navigation:** go to (1)
@@ -2245,8 +2207,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Labeling data
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/labeling-data?u=76281980)
+#### [Labeling data](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/labeling-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2274,13 +2235,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), data (3), game (2)
 > **Env Vars:** nba (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Mechanical Turk labeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mechanical-turk-labeling?u=76281980)
+#### [Mechanical Turk labeling](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mechanical-turk-labeling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2288,7 +2247,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mechanical-turk-labeling?u=76281980&t=15)** First, we have the sports box scores here, and you can see that in this particular scenario, we could grab out the athletes name.
 >
-> **[0:24](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mechanical-turk-labeling?u=76281980&t=24)** And then what we could do is we could ask a quorum of workers, let's say, 10 workers across the globe to find social media handles for that athlete. Once they agree on what the social media handles are, let's say, they all find out, let's say, seven out of ten of them agree that a particular Twitter handle or a LinkedIn handle is the handle that is that athletes handle, then we could pull that into a data collection system and then feed that into a machine learning system that would predict the influence of that particular athlete.
+> **[0:24](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mechanical-turk-labeling?u=76281980&t=24)** And then what we could do is we could ask a quorum of workers, let's say, 10 workers across the globe to find social media handles for that athlete. Once they agree on what the social media handles are, let's say, they all find out, let's say, seven out of ten of them agree that a particular Twitter handle or a [[LinkedIn]] handle is the handle that is that athletes handle, then we could pull that into a [[Data Collection]] system and then feed that into a machine learning system that would predict the influence of that particular athlete.
 >
 > **[0:59](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/mechanical-turk-labeling?u=76281980&t=59)** So you can see here there's a multi-step process that first starts with getting some known data set, then feeding it into a group of human workers who are then going to come together as a quorum, and then later it's going to lead to a data collection system that uses that cleaned up data and labeled data.
 >
@@ -2298,11 +2257,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Collection]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** find (2)
 
-#### Cleaning up data
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cleaning-up-data?u=76281980)
+#### [Cleaning up data](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cleaning-up-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2310,25 +2268,24 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cleaning-up-data?u=76281980&t=16)** Let's take this first scenario here where you have some data and you want to do some exploratory data analysis on it. Before you even get to that step, one of the things you could do is look for missing values.
 >
-> **[0:28](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cleaning-up-data?u=76281980&t=28)** For example, if you ran inside of pandas, look for null values like df.na.
+> **[0:28](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cleaning-up-data?u=76281980&t=28)** For example, if you ran inside of [[Pandas (Software)|pandas]], look for null values like df.na.
 >
 > **[0:36](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cleaning-up-data?u=76281980&t=36)** If you did find them, it would be up to you as the data scientist to decide, do you want to drop the row, for example?
 >
 > **[0:43](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cleaning-up-data?u=76281980&t=43)** Maybe you have so much data, it's better to just drop those rows or you have a small amount of data and you may want to impute the value.
 >
-> **[0:51](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cleaning-up-data?u=76281980&t=51)** For example, maybe take the median value for the data set and put that value inside. In a second scenario for Natural Language Processing, really common to do preprocessing like tokenization, removing stopwords. In this particular scenario, one of the scenarios that a data scientist would encounter is preprocessing before you do sentiment analysis.
+> **[0:51](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cleaning-up-data?u=76281980&t=51)** For example, maybe take the median value for the data set and put that value inside. In a second scenario for [[Natural Language Processing (NLP)|Natural Language Processing]], really common to do preprocessing like tokenization, removing stopwords. In this particular scenario, one of the scenarios that a data scientist would encounter is preprocessing before you do sentiment analysis.
 >
 > **[1:18](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/cleaning-up-data?u=76281980&t=78)** So for example, removing things like the, and, or because they'll remove the effectiveness of something you're doing for NLP.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Pandas (Software)|Pandas]] (1), nlp (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** find (2)
 > **Env Vars:** nlp (1)
 
-#### Scaling data
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/scaling-data?u=76281980)
+#### [Scaling data](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/scaling-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2358,21 +2315,20 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/scaling-data?u=76281980&t=66)** And one of the things you can do is you could scale the values between 0 and 1, and now you're doing relative comparisons versus this absolute comparison with the wrong metric.
 >
-> **[1:16](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/scaling-data?u=76281980&t=76)** So majority of machine learning algorithms do require you to scale your data, and the intuition is is fairly straightforward.
+> **[1:16](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/scaling-data?u=76281980&t=76)** So majority of machine learning [[Algorithms]] do require you to scale your data, and the intuition is is fairly straightforward.
 >
 > **[1:24](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/scaling-data?u=76281980&t=84)** And once you do this, you're going to be able to put this into, let's say, a K Means Clustering solution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Analogies:** for example (1)
 
-#### BigQuery data pipelines with Colab
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/bigquery-data-pipelines-with-colab?u=76281980)
+#### [BigQuery data pipelines with Colab](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/bigquery-data-pipelines-with-colab?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/bigquery-data-pipelines-with-colab?u=76281980&t=6)** Let's go through and build a very realistic data cleansing and visualization pipeline using Google BigQuery.
+> **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/bigquery-data-pipelines-with-colab?u=76281980&t=6)** Let's go through and build a very realistic data cleansing and visualization pipeline using [[Google]] BigQuery.
 >
 > **[0:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/bigquery-data-pipelines-with-colab?u=76281980&t=13)** This happens quite a bit.
 >
@@ -2444,9 +2400,9 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/bigquery-data-pipelines-with-colab?u=76281980&t=165)** And we could even go through and filter in more and more and more.
 >
-> **[2:49](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/bigquery-data-pipelines-with-colab?u=76281980&t=169)** But one of the things that we can do next here, instead of only using SQL is we could actually go to explore the data.
+> **[2:49](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/bigquery-data-pipelines-with-colab?u=76281980&t=169)** But one of the things that we can do next here, instead of only using [[SQL]] is we could actually go to explore the data.
 >
-> **[2:57](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/bigquery-data-pipelines-with-colab?u=76281980&t=177)** So let's go ahead and explore the data, but this time with Colab notebook. And CoLab notebook allows us to query things in Python.
+> **[2:57](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/bigquery-data-pipelines-with-colab?u=76281980&t=177)** So let's go ahead and explore the data, but this time with Colab notebook. And CoLab notebook allows us to query things in [[Python (Programming Language)|Python]].
 >
 > **[3:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/bigquery-data-pipelines-with-colab?u=76281980&t=185)** So I could actually go through and filter what's happening by looking at it in Python.
 >
@@ -2510,13 +2466,13 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/bigquery-data-pipelines-with-colab?u=76281980&t=309)** In the day of 04 -18, we can see Noah_Cyrus is a very big Wikipedia page.
 >
-> **[5:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/bigquery-data-pipelines-with-colab?u=76281980&t=315)** We see ChatGPT is a very big Wikipedia page.
+> **[5:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/bigquery-data-pipelines-with-colab?u=76281980&t=315)** We see [[ChatGPT]] is a very big Wikipedia page.
 >
 > **[5:18](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/bigquery-data-pipelines-with-colab?u=76281980&t=318)** We see, you know, other people as well and this gives us a nice overview of how to actually look at what's popular in the world by using off the shelf tools from Google BigQuery as well as Colab notebook.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Google]] (2), next (2), [[Python (Programming Language)|Python]] (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Python (Programming Language)|Python]] (2), [[SQL]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** python (2), make (1), find (1)
 > **Tools:** colab (3)
 > **Env Vars:** select (1), sql (1)
@@ -2530,12 +2486,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Feature engineering concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/feature-engineering-concepts?u=76281980)
+#### [Feature engineering concepts](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/feature-engineering-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/feature-engineering-concepts?u=76281980&t=8)** Here we have a traditional feature engineering problem.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/feature-engineering-concepts?u=76281980&t=8)** Here we have a traditional [[Feature Engineering]] problem.
 >
 > **[0:12](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/feature-engineering-concepts?u=76281980&t=12)** In this case, I have the NBA box score and it has a column with total wins for the season.
 >
@@ -2563,12 +2518,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), [[Feature Engineering]] (1)
+> **Frameworks & Libraries:** [[Feature Engineering]] (1)
 > **Analogies:** for example (2)
 > **Env Vars:** nba (1)
 
-#### Extracting features from public datasets
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/extracting-features-from-public-datasets?u=76281980)
+#### [Extracting features from public datasets](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/extracting-features-from-public-datasets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2576,13 +2530,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/extracting-features-from-public-datasets?u=76281980&t=13)** Let's talk through a few of the common public datasets that are available.
 >
-> **[0:18](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/extracting-features-from-public-datasets?u=76281980&t=18)** A very popular merging public dataset is the Hugging Face datasets, and you can use it to fine-tune a model.
+> **[0:18](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/extracting-features-from-public-datasets?u=76281980&t=18)** A very popular merging public dataset is the [[Hugging Face]] datasets, and you can use it to fine-tune a model.
 >
-> **[0:25](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/extracting-features-from-public-datasets?u=76281980&t=25)** So let's say you get a pre-trained model from Hugging Face and you use an environment that has GPU enabled like GitHub Codespaces or an Amazon SageMaker environment with GPU enabled, you can then take that Hugging Face dataset and fine-tune it based on the new data that's available and then create a new model and put it either into production or back into Hugging Face.
+> **[0:25](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/extracting-features-from-public-datasets?u=76281980&t=25)** So let's say you get a pre-trained model from Hugging Face and you use an environment that has GPU enabled like [[GitHub]] [[Codespaces]] or an Amazon SageMaker environment with GPU enabled, you can then take that Hugging Face dataset and fine-tune it based on the new data that's available and then create a new model and put it either into production or back into Hugging Face.
 >
 > **[0:49](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/extracting-features-from-public-datasets?u=76281980&t=49)** Likewise, with Amazon S3, it's a very common scenario to have a big public dataset and you can pull that dataset into, let's say, a Jupyter Notebook, do exploratory data analysis on it, find out what it is you're trying to build, and then create a model based on that S3 dataset.
 >
-> **[1:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/extracting-features-from-public-datasets?u=76281980&t=68)** Another common public dataset is Kaggle, and there are many examples of public datasets that have also had many feature engineering components added to it.
+> **[1:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/extracting-features-from-public-datasets?u=76281980&t=68)** Another common public dataset is Kaggle, and there are many examples of public datasets that have also had many [[Feature Engineering]] components added to it.
 >
 > **[1:19](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/extracting-features-from-public-datasets?u=76281980&t=79)** So you could build off of that, use that feature engineering solution to then create your own custom model.
 >
@@ -2592,27 +2546,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (4), data (2), [[Feature Engineering]] (2), [[GitHub]] (1), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (4), [[Feature Engineering]] (2), [[GitHub]] (1), [[Codespaces]] (1)
 > **Env Vars:** gpu (2)
 > **Tools:** github (1), jupyter (1)
 > **CLI Commands:** find (1)
 
-#### Exploratory data analysis with Google BigQuery
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980)
+#### [Exploratory data analysis with Google BigQuery](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980&t=6)** One of the more powerful tools on the Google Cloud platform to explore data is BigQuery.
+> **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980&t=6)** One of the more powerful tools on the [[Google Cloud Platform (GCP)|Google Cloud platform]] to explore data is BigQuery.
 >
-> **[0:12](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980&t=12)** If we take a look at this overview here, we see that you could compose a new query, add some data, even upload a local file.
+> **[0:12](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980&t=12)** If we take a look at this overview here, we see that you could [[Jetpack Compose|compose]] a new query, add some data, even upload a local file.
 >
 > **[0:19](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980&t=19)** So there's a lot of easy ways to get started.
 >
 > **[0:22](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980&t=22)** But probably one of the most powerful is to use the public dataset.
 >
-> **[0:26](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980&t=26)** So if we go ahead and we take a look at an existing Google Trends dataset here, this is a great way to dive into understanding how to use a particular dataset.
+> **[0:26](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980&t=26)** So if we go ahead and we take a look at an existing [[Google]] Trends dataset here, this is a great way to dive into understanding how to use a particular dataset.
 >
-> **[0:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980&t=38)** The first thing that I typically will do is look at, you know, what the metadata is about this particular dataset.
+> **[0:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980&t=38)** The first thing that I typically will do is look at, you know, what the [[Metadata]] is about this particular dataset.
 >
 > **[0:44](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980&t=44)** You can see it was last modified September 20th, 2022, and this is a Google Trends dataset.
 >
@@ -2654,7 +2607,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980&t=204)** Now, one of the things that is a, kind of, fun thing to do once you've got a data set like this, is to explore the data further, right?
 >
-> **[3:32](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980&t=212)** So as a data scientist, if you're going to build a machine learning model, a lot of times you need to first look at the data even beyond just a SQL query.
+> **[3:32](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980&t=212)** So as a data scientist, if you're going to build a machine learning model, a lot of times you need to first look at the data even beyond just a [[SQL]] query.
 >
 > **[3:41](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980&t=221)** And this is where these other features come into play.
 >
@@ -2730,7 +2683,7 @@ created: 2026-05-02
 >
 > **[6:42](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980&t=402)** What's the 75th percentile?
 >
-> **[6:44](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980&t=404)** All these kind of descriptive statistics are helpful when you're first looking at things.
+> **[6:44](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980&t=404)** All these kind of descriptive [[Statistics]] are helpful when you're first looking at things.
 >
 > **[6:49](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980&t=409)** So that's the one I'm going to query here.
 >
@@ -2756,7 +2709,7 @@ created: 2026-05-02
 >
 > **[7:43](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980&t=463)** Now, this is a little more rich.
 >
-> **[7:46](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980&t=466)** If I was going to do some Natural Language Processing because we've got the author here, we also have the scores, which is now getting very interesting, right?
+> **[7:46](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980&t=466)** If I was going to do some [[Natural Language Processing (NLP)|Natural Language Processing]] because we've got the author here, we also have the scores, which is now getting very interesting, right?
 >
 > **[7:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980&t=474)** We see there's 6,000 here, 4,000, right?
 >
@@ -2844,11 +2797,11 @@ created: 2026-05-02
 >
 > **[12:01](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980&t=721)** So we can see here from the fourth quartile. So we can potentially consider this information when we want to create a model and even model things out in a way that looks for maybe like hit stories if we were going to use this data to do some other, kind of, prediction model.
 >
-> **[12:19](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980&t=739)** So really that's a good way to get started with the BigQuery engine on Google Cloud, you know, doing SQL queries, iterating with them back and forth, and then also going into tools like Looker and then seeing those results and then sharing them out with other people on your team.
+> **[12:19](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/exploratory-data-analysis-with-google-bigquery?u=76281980&t=739)** So really that's a good way to get started with the BigQuery engine on [[Google Cloud Platform (GCP)|Google Cloud]], you know, doing SQL queries, iterating with them back and forth, and then also going into tools like Looker and then seeing those results and then sharing them out with other people on your team.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Google]] (4), next (3), [[SQL]] (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[SQL]] (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Jetpack Compose|Compose]] (1), [[Metadata]] (1)
 > **Code Identifiers:** hacker_news (4), international_top_terms (1), google_ads (1), google_cloud_releases (1), political_trends (1)
 > **CLI Commands:** make (4), find (2), node (1)
 > **Definitions:** is a  (5)
@@ -2862,28 +2815,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing data preparation and processing systems: Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24568439?u=76281980)
+#### [Designing data preparation and processing systems: Next steps](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24568439?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24568439?u=76281980&t=0)** GCP Professional Machine Learning Engineer.
 >
-> **[0:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24568439?u=76281980&t=3)** Let's go ahead and wrap up this course. In Course 3: Three Designing Data Preparation and Processing Systems.
+> **[0:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24568439?u=76281980&t=3)** Let's go ahead and wrap up this course. In Course 3: Three Designing [[Data Preparation]] and Processing Systems.
 >
 > **[0:09](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24568439?u=76281980&t=9)** We talked about the following topics.
 >
-> **[0:12](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24568439?u=76281980&t=12)** First, we talked about how to use Google Colab for interactive coding and collaboration.
+> **[0:12](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24568439?u=76281980&t=12)** First, we talked about how to use [[Google]] Colab for interactive coding and collaboration.
 >
 > **[0:18](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24568439?u=76281980&t=18)** So what are some of the things that you can do with Colab for interactivity?
 >
-> **[0:23](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24568439?u=76281980&t=23)** We also talked about how to set up data science workflows using virtual environments, including on Windows.
+> **[0:23](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24568439?u=76281980&t=23)** We also talked about how to set up [[Data Science]] workflows using virtual environments, including on [[Windows]].
 >
 > **[0:30](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24568439?u=76281980&t=30)** We also talked about some labeling techniques, including labeling data with semi-supervised machine learning and also how to use Mechanical Turk for labeling.
 >
-> **[0:41](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24568439?u=76281980&t=41)** We also talked about how to scale data and use BigQuery data pipelines with Colab, which is a very unique and emerging tool that is available with BigQuery.
+> **[0:41](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24568439?u=76281980&t=41)** We also talked about how to scale data and use BigQuery [[Data Pipelines]] with Colab, which is a very unique and emerging tool that is available with BigQuery.
 >
-> **[0:52](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24568439?u=76281980&t=52)** We also talked about feature engineering concepts and how to use public datasets and also how to do exploratory data analysis with Google BigQuery.
+> **[0:52](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24568439?u=76281980&t=52)** We also talked about [[Feature Engineering]] concepts and how to use public datasets and also how to do exploratory data analysis with Google BigQuery.
 >
 > **[1:02](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24568439?u=76281980&t=62)** All right. That's it for this course.
 >
@@ -2895,7 +2847,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Google]] (2), gcp (1), [[Windows]] (1), [[Feature Engineering]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Data Preparation]] (1), [[Data Science]] (1), [[Windows]] (1), [[Feature Engineering]] (1)
 > **Tools:** colab (3)
 > **Cross-References:** we talked about (2)
 > **CLI Commands:** make (1)
@@ -2908,8 +2860,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Developing ML models: Overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24565473?u=76281980)
+#### [Developing ML models: Overview](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24565473?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2921,7 +2872,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24565473?u=76281980&t=13)** Let's go ahead and talk about the topics.
 >
-> **[0:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24565473?u=76281980&t=15)** We'll talk about TensorFlow Playground and how it's an ideal solution for prototyping ideas without writing code.
+> **[0:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24565473?u=76281980&t=15)** We'll talk about [[TensorFlow]] Playground and how it's an ideal solution for [[Prototyping]] ideas without writing code.
 >
 > **[0:22](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24565473?u=76281980&t=22)** We'll also talk about the concepts of Over and Underfitting, which are very prevalent in building models.
 >
@@ -2933,11 +2884,11 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24565473?u=76281980&t=47)** You can just change a little bit of the data and retrain the model.
 >
-> **[0:51](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24565473?u=76281980&t=51)** We'll also talk through how to build a microservice and deploy it with Rust on Google App Engine.
+> **[0:51](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24565473?u=76281980&t=51)** We'll also talk through how to build a microservice and deploy it with [[Rust (Programming Language)|Rust]] on [[Google]] App Engine.
 >
-> **[0:57](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24565473?u=76281980&t=57)** Rust is an emerging MLOps language.
+> **[0:57](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24565473?u=76281980&t=57)** Rust is an emerging [[MLOps]] language.
 >
-> **[1:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24565473?u=76281980&t=60)** We'll also talk about how to do continuous integration with Rust and GitHub actions, and also dive into the Google Cloud platform tools and services that enable you to have efficient model deployment.
+> **[1:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24565473?u=76281980&t=60)** We'll also talk about how to do [[Continuous Integration (CI)|continuous integration]] with Rust and [[GitHub]] actions, and also dive into the [[Google Cloud Platform (GCP)|Google Cloud platform]] tools and services that enable you to have efficient model deployment.
 >
 > **[1:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24565473?u=76281980&t=73)** All right, let's go ahead and get started.
 >
@@ -2945,14 +2896,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), gcp (1), [[Engineering]] (1), [[TensorFlow]] (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), [[TensorFlow]] (1), [[Prototyping]] (1), [[Google]] (1), [[MLOps]] (1)
 > **Definitions:** is an  (2)
 > **Env Vars:** gcp (1)
 > **Tools:** github (1)
 > **Speakers:** - [noah] (1)
 
-#### Developing ML models: Key terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-four-key-terminology?u=76281980)
+#### [Developing ML models: Key terminology](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-four-key-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2966,7 +2916,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-four-key-terminology?u=76281980&t=30)** In terms of a framework, this is a software or library or platform that provides a structure and reasonable code for developing machine learning models.
 >
-> **[0:40](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-four-key-terminology?u=76281980&t=40)** In terms of semi-supervised machine learning, this is a approach that combines a small amount of labeled data with a large amount of unlabeled data to improve the model performance, and the idea here with semi-supervised machine learning is that many times you don't have all of the label data, but if you're able to use semi-supervised machine learning, that doesn't matter because the existing label data can serve to make a catalyst to label the rest of the data.
+> **[0:40](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-four-key-terminology?u=76281980&t=40)** In terms of semi-supervised machine learning, this is a approach that combines a small amount of labeled data with a large amount of unlabeled data to improve the model performance, and the idea here with semi-supervised machine learning is that many times you don't have all of the label data, but if you're able to use semi-supervised machine learning, that doesn't matter because the existing label data can serve to make a catalyst to label the [[Representational State Transfer (REST)|rest]] of the data.
 >
 > **[1:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-four-key-terminology?u=76281980&t=73)** Also, data augmentation is a process of creating new training samples by applying various transformations to the existing data.
 >
@@ -2980,9 +2930,9 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-four-key-terminology?u=76281980&t=133)** They only fit with the training set that you have.
 >
-> **[2:16](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-four-key-terminology?u=76281980&t=136)** Hyperparameter tuning is a very important one as well, and this is the idea of using different parameters to tweak and enhance the prediction quality, and we also have Vertex AI.
+> **[2:16](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-four-key-terminology?u=76281980&t=136)** Hyperparameter tuning is a very important one as well, and this is the idea of using different parameters to tweak and enhance the prediction quality, and we also have [[Vertex]] AI.
 >
-> **[2:29](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-four-key-terminology?u=76281980&t=149)** Vertex AI is a MLOps-based platform that's developed inside of the Google Cloud platform, and you can build everything you need to deploy a model by using Vertex AI.
+> **[2:29](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-four-key-terminology?u=76281980&t=149)** Vertex AI is a [[MLOps]]-based platform that's developed inside of the [[Google Cloud Platform (GCP)|Google Cloud platform]], and you can build everything you need to deploy a model by using Vertex AI.
 >
 > **[2:41](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-four-key-terminology?u=76281980&t=161)** Okay, this is the summary of what we covered in terms of key terms in developing models.
 >
@@ -3002,7 +2952,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Vertex]] (4), ai (4), [[Representational State Transfer (REST)|Rest]] (1), [[MLOps]] (1)
+> **Frameworks & Libraries:** [[Vertex]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[MLOps]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **Definitions:** is a  (6), means that (1)
 > **Cross-References:** we covered (1), we talked about (1)
 > **CLI Commands:** make (1)
@@ -3013,12 +2963,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using TensorFlow Playground
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-tensorflow-playground?u=76281980)
+#### [Using TensorFlow Playground](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-tensorflow-playground?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-tensorflow-playground?u=76281980&t=8)** - [Instructor] A great way to learn more about the intuition behind neural networks is to play with the playground.[tensorflow.org](https://tensorflow.org) tool.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-tensorflow-playground?u=76281980&t=8)** - [Instructor] A great way to learn more about the intuition behind [[Neural Networks]] is to play with the playground.[[[TensorFlow]].org](https://tensorflow.org) tool.
 >
 > **[0:17](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-tensorflow-playground?u=76281980&t=17)** And here we see that we've got a dataset selected that has two distinct classes, and we have a couple features here, and we have some neurons here in one layer.
 >
@@ -3054,13 +3003,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Neural Networks]] (1), [[TensorFlow]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (1), [[TensorFlow]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [tensorflow.org](https://tensorflow.org) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overfitting vs. underfitting
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overfitting-vs-underfitting?u=76281980)
+#### [Overfitting vs. underfitting](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overfitting-vs-underfitting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3088,12 +3036,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Selecting the right metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/selecting-the-right-metrics?u=76281980)
+#### [Selecting the right metrics](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/selecting-the-right-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3175,7 +3121,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (1), is called (1), means that (1)
 > **CLI Commands:** cat (1)
@@ -3188,16 +3133,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Training models with TensorFlow and a GPU-enabled Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/training-models-with-tensorflow-gpu-enabled-docker?u=76281980)
+#### [Training models with TensorFlow and a GPU-enabled Docker](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/training-models-with-tensorflow-gpu-enabled-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/training-models-with-tensorflow-gpu-enabled-docker?u=76281980&t=6)** - [Instructor] Let's take a look at TensorFlow inside of Docker, which is a very interesting way to do machine learning training and also inference.
+> **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/training-models-with-tensorflow-gpu-enabled-docker?u=76281980&t=6)** - [Instructor] Let's take a look at [[TensorFlow]] inside of Docker, which is a very interesting way to do machine learning training and also inference.
 >
 > **[0:14](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/training-models-with-tensorflow-gpu-enabled-docker?u=76281980&t=14)** Let's take a look at this website.
 >
-> **[0:16](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/training-models-with-tensorflow-gpu-enabled-docker?u=76281980&t=16)** Docker uses containers to create virtual environments that isolate TensorFlow installation from the rest of the system.
+> **[0:16](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/training-models-with-tensorflow-gpu-enabled-docker?u=76281980&t=16)** Docker uses containers to create virtual environments that isolate TensorFlow installation from the [[Representational State Transfer (REST)|rest]] of the system.
 >
 > **[0:22](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/training-models-with-tensorflow-gpu-enabled-docker?u=76281980&t=22)** So in many scenarios this can work out quite well and in fact you can use the GPU which many people are not aware of.
 >
@@ -3205,7 +3149,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/training-models-with-tensorflow-gpu-enabled-docker?u=76281980&t=37)** In fact, there's some great commands here that show you how you can use notebooks or just use the GPU, et cetera.
 >
-> **[0:43](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/training-models-with-tensorflow-gpu-enabled-docker?u=76281980&t=43)** So I've already got this running inside of a GitHub Code Space's environment.
+> **[0:43](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/training-models-with-tensorflow-gpu-enabled-docker?u=76281980&t=43)** So I've already got this running inside of a [[GitHub]] Code Space's environment.
 >
 > **[0:48](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/training-models-with-tensorflow-gpu-enabled-docker?u=76281980&t=48)** In fact, we can take a look at it by just going nvidia-smi l-1 which will show us that it is in fact available, a CUDA version here.
 >
@@ -3231,7 +3175,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/training-models-with-tensorflow-gpu-enabled-docker?u=76281980&t=120)** So let's go ahead and take a look at this environment here which is quickstart tf2.
 >
-> **[2:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/training-models-with-tensorflow-gpu-enabled-docker?u=76281980&t=125)** And you can see here this is a very simple Python script, import TensorFlow as tf.
+> **[2:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/training-models-with-tensorflow-gpu-enabled-docker?u=76281980&t=125)** And you can see here this is a very simple [[Python (Programming Language)|Python]] script, import TensorFlow as tf.
 >
 > **[2:10](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/training-models-with-tensorflow-gpu-enabled-docker?u=76281980&t=130)** Print out the version, download the mnist data set which is a classification data set for handwriting.
 >
@@ -3263,7 +3207,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[TensorFlow]] (7), data (3), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (7), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1)
 > **Env Vars:** gpu (9), cuda (1), smi (1)
 > **CLI Commands:** docker (7), python (2)
 > **Definitions:** is a  (5)
@@ -3272,8 +3216,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Exercise Files:** download the (1)
 
-#### Fine-tuning raw ingredients with Hugging Face
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/fine-tuning-raw-ingredients-hugging-face?u=76281980)
+#### [Fine-tuning raw ingredients with Hugging Face](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/fine-tuning-raw-ingredients-hugging-face?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3283,7 +3226,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/fine-tuning-raw-ingredients-hugging-face?u=76281980&t=14)** In fact, a GPU is the ideal scenario to fine-tune it.
 >
-> **[0:18](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/fine-tuning-raw-ingredients-hugging-face?u=76281980&t=18)** GitHub Codespaces is a great environment.
+> **[0:18](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/fine-tuning-raw-ingredients-hugging-face?u=76281980&t=18)** [[GitHub]] [[Codespaces]] is a great environment.
 >
 > **[0:21](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/fine-tuning-raw-ingredients-hugging-face?u=76281980&t=21)** It has GPU access for education and it allows you to quickly go through and fine tune things.
 >
@@ -3301,7 +3244,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/fine-tuning-raw-ingredients-hugging-face?u=76281980&t=58)** GPU, accuracy, local checkpoint, and code.
 >
-> **[1:02](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/fine-tuning-raw-ingredients-hugging-face?u=76281980&t=62)** Now, in terms of pulling things down from Hugging Face, a few things to be aware of is typically, it's going to be the tokenizer, the model, the dataset.
+> **[1:02](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/fine-tuning-raw-ingredients-hugging-face?u=76281980&t=62)** Now, in terms of pulling things down from [[Hugging Face]], a few things to be aware of is typically, it's going to be the tokenizer, the model, the dataset.
 >
 > **[1:09](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/fine-tuning-raw-ingredients-hugging-face?u=76281980&t=69)** These are the raw ingredients.
 >
@@ -3326,12 +3269,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
-#### Advantages of transfer learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/advantages-transfer-learning?u=76281980)
+#### [Advantages of transfer learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/advantages-transfer-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/advantages-transfer-learning?u=76281980&t=5)** - [Instructor] Let's take a look at some of the advantages of transfer learning and why it's so different from traditional supervised learning.
+> **[0:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/advantages-transfer-learning?u=76281980&t=5)** - [Instructor] Let's take a look at some of the advantages of transfer learning and why it's so different from traditional [[Supervised Learning]].
 >
 > **[0:12](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/advantages-transfer-learning?u=76281980&t=12)** In supervised machine learning, a lot of the problems come up with access to data.
 >
@@ -3349,19 +3291,19 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/advantages-transfer-learning?u=76281980&t=56)** In the NLP space, one of the advantages of transfer learning is that you can take something that was trained from a different domain, and in this case, this was a news dataset.
 >
-> **[1:07](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/advantages-transfer-learning?u=76281980&t=67)** And we could keep the body here, so we could initialize a new model that is going to be fine tuned with a literature dataset, and then we would tweak the head here by removing it and then actually fine tuning against some new data that had the literature information inside of it.
+> **[1:07](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/advantages-transfer-learning?u=76281980&t=67)** And we could keep the body here, so we could initialize a new model that is going to be fine tuned with a literature dataset, and then we would tweak the head here by removing it and then actually [[Fine Tuning]] against some new data that had the literature information inside of it.
 >
 > **[1:26](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/advantages-transfer-learning?u=76281980&t=86)** This would then give us a more efficient way to do a prediction.
 >
 > **[1:30](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/advantages-transfer-learning?u=76281980&t=90)** So the difference here is that fine tuning allows you to take something that was developed by experts and developed with a lot of computational and storage resources and then fine tune it on your own resources.
 >
-> **[1:43](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/advantages-transfer-learning?u=76281980&t=103)** Hugging Face is one of the premier places where the fine tuning process takes place, and it allows you to do high quality model-based training efficiently on another domain.
+> **[1:43](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/advantages-transfer-learning?u=76281980&t=103)** [[Hugging Face]] is one of the premier places where the fine tuning process takes place, and it allows you to do high quality model-based training efficiently on another domain.
 >
 > **[1:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/advantages-transfer-learning?u=76281980&t=114)** So really, in the future, we'll see more and more advantages of transfer learning in the marketplace, and in fact, you can actually do transfer learning yourself and push this onto Hugging Face as a fine tune model.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Fine Tuning]] (3), [[Hugging Face]] (2), [[Supervised Learning]] (1), nlp (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (3), [[Hugging Face]] (2), [[Supervised Learning]] (1)
 > **Env Vars:** nlp (1)
 > **Speakers:** - [instructor] (1)
 
@@ -3370,14 +3312,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Operationalize microservices
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/operationalize-microservices?u=76281980)
+#### [Operationalize microservices](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/operationalize-microservices?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/operationalize-microservices?u=76281980&t=5)** - [Instructor] Here we have a diagram of operationalizing a microservice.
 >
-> **[0:09](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/operationalize-microservices?u=76281980&t=9)** Notice that in Git, some of the advantages of a microservice come alive.
+> **[0:09](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/operationalize-microservices?u=76281980&t=9)** Notice that in [[Git]], some of the advantages of a microservice come alive.
 >
 > **[0:14](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/operationalize-microservices?u=76281980&t=14)** I really like to think about a microservice in terms of the concept of logic that you go live with.
 >
@@ -3393,7 +3334,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/operationalize-microservices?u=76281980&t=40)** It's really like a function that you've operationalized and turned into something new.
 >
-> **[0:45](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/operationalize-microservices?u=76281980&t=45)** Now, if you go to the continuous delivery system or the build server, it'll go through the steps of linting, testing, compiling, maybe pushing this into a container repository, and then finally deploying through infrastructure as code.
+> **[0:45](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/operationalize-microservices?u=76281980&t=45)** Now, if you go to the [[Continuous Delivery (CD)|continuous delivery]] system or the build server, it'll go through the steps of linting, testing, compiling, maybe pushing this into a container repository, and then finally deploying through [[Infrastructure as code (IaC)|infrastructure as code]].
 >
 > **[0:59](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/operationalize-microservices?u=76281980&t=59)** What this does by using infrastructure's code coupled with, let's say, a container, is that you can create any number of environments.
 >
@@ -3419,19 +3360,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), career (1), cloud (1)
+> **Frameworks & Libraries:** [[Git]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
 > **CLI Commands:** git (1), make (1), aws (1)
 > **Env Vars:** cpu (1), aws (1)
 > **Tools:** command line (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Monitoring and logging with Rust on Google App Engine
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/monitoring-and-logging-with-rust-on-google-app-engine?u=76281980)
+#### [Monitoring and logging with Rust on Google App Engine](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/monitoring-and-logging-with-rust-on-google-app-engine?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/monitoring-and-logging-with-rust-on-google-app-engine?u=76281980&t=8)** - [Instructor] Here we have a Rust microservice using the Actix Web framework.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/monitoring-and-logging-with-rust-on-google-app-engine?u=76281980&t=8)** - [Instructor] Here we have a [[Rust (Programming Language)|Rust]] microservice using the Actix Web framework.
 >
 > **[0:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/monitoring-and-logging-with-rust-on-google-app-engine?u=76281980&t=13)** And you can see here that it has the route here, fruit.
 >
@@ -3465,7 +3405,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/monitoring-and-logging-with-rust-on-google-app-engine?u=76281980&t=75)** We can see there's two.
 >
-> **[1:17](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/monitoring-and-logging-with-rust-on-google-app-engine?u=76281980&t=77)** And we also can go down to memory usage which can be very important for microservices and we could even create an alerting policy based on that.
+> **[1:17](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/monitoring-and-logging-with-rust-on-google-app-engine?u=76281980&t=77)** And we also can go down to memory usage which can be very important for [[Microservices]] and we could even create an alerting policy based on that.
 >
 > **[1:26](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/monitoring-and-logging-with-rust-on-google-app-engine?u=76281980&t=86)** Finally, you can look through here and there's lots of different caching queries as well.
 >
@@ -3479,7 +3419,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/monitoring-and-logging-with-rust-on-google-app-engine?u=76281980&t=119)** In this case, we can see this as 100% of the traffic and we could even stop or start the service from this dashboard.
 >
-> **[2:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/monitoring-and-logging-with-rust-on-google-app-engine?u=76281980&t=126)** So really a one-stop-shop if you have a containerized REST microservice for Google App Engine.
+> **[2:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/monitoring-and-logging-with-rust-on-google-app-engine?u=76281980&t=126)** So really a one-stop-shop if you have a containerized [[Representational State Transfer (REST)|REST]] microservice for [[Google]] App Engine.
 >
 > **[2:12](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/monitoring-and-logging-with-rust-on-google-app-engine?u=76281980&t=132)** And the other thing that we can do that's also pretty handy is if we go over here and we go over and find logging, we can even drill into the details even more.
 >
@@ -3487,7 +3427,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/monitoring-and-logging-with-rust-on-google-app-engine?u=76281980&t=147)** So we could even look through here and toggle just by resource type and get a good feel of everything that's happening, create metrics, create alerts, those kinds of things.
 >
-> **[2:36](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/monitoring-and-logging-with-rust-on-google-app-engine?u=76281980&t=156)** And even do SQL queries.
+> **[2:36](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/monitoring-and-logging-with-rust-on-google-app-engine?u=76281980&t=156)** And even do [[SQL]] queries.
 >
 > **[2:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/monitoring-and-logging-with-rust-on-google-app-engine?u=76281980&t=158)** But I'm going to go through here and just look at something very simple, which is a query of that URL, right.
 >
@@ -3509,7 +3449,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4), [[Rust (Programming Language)|Rust]] (3), application (3), [[Google]] (2), web (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (3), [[Google]] (2), [[Microservices]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[SQL]] (1)
 > **UI Navigation:** go to (4), toggle (3)
 > **Env Vars:** url (2), rest (1), sql (1)
 > **Analogies:** for example (2)
@@ -3517,12 +3457,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Continuous integration using Rust with GitHub Actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980)
+#### [Continuous integration using Rust with GitHub Actions](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980&t=8)** - [Instructor] Here we have a new project template that I'm going to use to set up a continuous integration for GitHub Actions.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980&t=8)** - [Instructor] Here we have a new project template that I'm going to use to set up a [[Continuous Integration (CI)|continuous integration]] for [[GitHub]] Actions.
 >
 > **[0:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980&t=15)** GitHub Actions is a way of testing your code and even deploying your code automatically.
 >
@@ -3530,11 +3469,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980&t=26)** Let's go ahead and do this.
 >
-> **[0:27](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980&t=27)** And I can put it into a place here where I say github-actions-rust-example.
+> **[0:27](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980&t=27)** And I can put it into a place here where I say github-actions-[[Rust (Programming Language)|rust]]-example.
 >
 > **[0:36](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980&t=36)** And for the description, we'll just say Build and test a Rust Project.
 >
-> **[0:44](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980&t=44)** And the goal here with setting up a new project is that it allows us to, from the very beginning, set it up for continuous integration which is a DevOps best practice and really does help you build out microservices in a faster way because you have a quality control process that improves your code over time.
+> **[0:44](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980&t=44)** And the goal here with setting up a new project is that it allows us to, from the very beginning, set it up for continuous integration which is a [[DevOps]] best practice and really does help you build out [[Microservices]] in a faster way because you have a quality control process that improves your code over time.
 >
 > **[1:04](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980&t=64)** So I'm going to go ahead and create a new codespace here.
 >
@@ -3546,7 +3485,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980&t=84)** And as it's building out this project, the other thing that'll allow me to do is push changes so that I can test out a GitHub Actions workflow.
 >
-> **[1:34](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980&t=94)** Here we're inside of GitHub codespaces and you can see here, if I type in which cargo, cargo is already ready for us so we can go ahead and start a new project.
+> **[1:34](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980&t=94)** Here we're inside of GitHub [[Codespaces]] and you can see here, if I type in which cargo, cargo is already ready for us so we can go ahead and start a new project.
 >
 > **[1:43](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980&t=103)** I'm going to go ahead and say cargo and we'll call this test Rust here and that will be the name.
 >
@@ -3602,7 +3541,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980&t=253)** Now the real thing that is going to be important is to verify that our GitHub Actions workflow is successful.
 >
-> **[4:21](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980&t=261)** So if we go through here, we can see how inside of this environment it's going to run on Ubuntu.
+> **[4:21](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980&t=261)** So if we go through here, we can see how inside of this environment it's going to run on [[Ubuntu]].
 >
 > **[4:27](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980&t=267)** It's going to pull in the Rust tool chain here and it's going to say make lint, and we can even see what it does.
 >
@@ -3612,7 +3551,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980&t=288)** So instead, we can just tweak this a little bit and we can just say, make format, perfect.
 >
-> **[4:55](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980&t=295)** And now that that's all set up, I should be able to say, git status, add in the things that I've changed.
+> **[4:55](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980&t=295)** And now that that's all set up, I should be able to say, [[Git]] status, add in the things that I've changed.
 >
 > **[5:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980&t=303)** So we'll say git add.github, git add *, add everything else, also add the gitignore.
 >
@@ -3656,7 +3595,7 @@ created: 2026-05-02
 >
 > **[7:35](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980&t=455)** And then you have a badge here that shows everybody else that your code is actually high quality and it's ready to go.
 >
-> **[7:42](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980&t=462)** And then you can build upon this to do continuous delivery.
+> **[7:42](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980&t=462)** And then you can build upon this to do [[Continuous Delivery (CD)|continuous delivery]].
 >
 > **[7:46](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/continuous-integration-rust-with-github-actions?u=76281980&t=466)** So this is the foundational component of DevOps is continuous integration and it's pretty straightforward to set up.
 
@@ -3671,12 +3610,11 @@ created: 2026-05-02
 > **Code Identifiers:** test_lib (1), unit_test (1)
 > **UI Navigation:** go to (2)
 
-#### Demo: Unit testing Rust
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-unit-testing-rust?u=76281980)
+#### [Demo: Unit testing Rust](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-unit-testing-rust?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-unit-testing-rust?u=76281980&t=8)** - [Instructor] Here we have a GitHub Codespace where I'm going to build out a unit test for a Rust project to start out with.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-unit-testing-rust?u=76281980&t=8)** - [Instructor] Here we have a [[GitHub]] Codespace where I'm going to build out a unit test for a [[Rust (Programming Language)|Rust]] project to start out with.
 >
 > **[0:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-unit-testing-rust?u=76281980&t=15)** First, I need to create a new Rust project, so I'll type in cargo new, and we'll call this T Rust as in test Rust.
 >
@@ -3704,7 +3642,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-unit-testing-rust?u=76281980&t=92)** I'll go ahead and do this math functions here and we'll go ahead and we'll say pub FN and we'll just say add.
 >
-> **[1:44](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-unit-testing-rust?u=76281980&t=104)** and in this particular scenario that looks about right we had copilot there, help us out subtract, sure, that looks good.
+> **[1:44](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-unit-testing-rust?u=76281980&t=104)** and in this particular scenario that looks about right we had [[Microsoft Copilot|copilot]] there, help us out subtract, sure, that looks good.
 >
 > **[1:53](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-unit-testing-rust?u=76281980&t=113)** Multiply, that looks good.
 >
@@ -3740,7 +3678,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-unit-testing-rust?u=76281980&t=195)** and let's go ahead and take a look at why a makefile is helpful.
 >
-> **[3:19](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-unit-testing-rust?u=76281980&t=199)** What it does is it allows us to take the continuous integration test steps one by one here and allows us to run them in a very easy and repeatable way.
+> **[3:19](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-unit-testing-rust?u=76281980&t=199)** What it does is it allows us to take the [[Continuous Integration (CI)|continuous integration]] test steps one by one here and allows us to run them in a very easy and repeatable way.
 >
 > **[3:31](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-unit-testing-rust?u=76281980&t=211)** and later when we go into a build system we can actually do the same thing.
 >
@@ -3754,7 +3692,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-unit-testing-rust?u=76281980&t=232)** so how we could do this is we could just say use and we could say T Rust, and we just say add like that.
 >
-> **[4:02](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-unit-testing-rust?u=76281980&t=242)** and then we do the rest, subtract, multiply, and divide.
+> **[4:02](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-unit-testing-rust?u=76281980&t=242)** and then we do the [[Representational State Transfer (REST)|rest]], subtract, multiply, and divide.
 >
 > **[4:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-unit-testing-rust?u=76281980&t=246)** Perfect, now, if I wanted to, I could also do make lint which is nice because it'll run the linter.
 >
@@ -3764,7 +3702,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-unit-testing-rust?u=76281980&t=262)** We don't need that anymore because of the fact that we imported it in a different way.
 >
-> **[4:27](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-unit-testing-rust?u=76281980&t=267)** and this is really what's nice about doing unit testing is it clearly lets you figure out the interface for the code you're building how to interact with the library how to get past bugs.
+> **[4:27](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-unit-testing-rust?u=76281980&t=267)** and this is really what's nice about doing [[Unit Testing]] is it clearly lets you figure out the interface for the code you're building how to interact with the library how to get past bugs.
 >
 > **[4:40](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-unit-testing-rust?u=76281980&t=280)** and here we go.
 >
@@ -3786,7 +3724,7 @@ created: 2026-05-02
 >
 > **[5:52](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-unit-testing-rust?u=76281980&t=352)** and there we go.
 >
-> **[5:53](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-unit-testing-rust?u=76281980&t=353)** so this is really the power of unit testing is it allows you to build a a repeatable and reliable automation infrastructure which you then can put into a build system, for example get up actions and then later build up a microservice on top of it that does continuous delivery.
+> **[5:53](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-unit-testing-rust?u=76281980&t=353)** so this is really the power of unit testing is it allows you to build a a repeatable and reliable automation infrastructure which you then can put into a build system, for example get up actions and then later build up a microservice on top of it that does [[Continuous Delivery (CD)|continuous delivery]].
 >
 > **[6:11](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-unit-testing-rust?u=76281980&t=371)** and in fact, we can even follow this step right here which does every single one of these components we can just type in make all.
 >
@@ -3796,7 +3734,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (7), [[Microsoft Copilot|Copilot]] (2), [[Unit Testing]] (2), [[GitHub]] (1), cd (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (7), [[Microsoft Copilot|Copilot]] (2), [[Unit Testing]] (2), [[GitHub]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6), cargo (2), cd (1)
 > **File Paths:** testlib.rs (1), touchsrclib.rs (1), srclib.rs (1)
 > **Tools:** github (1)
@@ -3805,22 +3743,21 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: GitHub copilot-enabled Rust
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-github-copilot-enabled-rust?u=76281980)
+#### [Demo: GitHub copilot-enabled Rust](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-github-copilot-enabled-rust?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-github-copilot-enabled-rust?u=76281980&t=8)** - All right, let's go ahead and get started with what I think is one of the more exciting ways to be a software engineer and this is to use Copilot inside of the GitHub ecosystem.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-github-copilot-enabled-rust?u=76281980&t=8)** - All right, let's go ahead and get started with what I think is one of the more exciting ways to be a software engineer and this is to use [[Microsoft Copilot|Copilot]] inside of the [[GitHub]] ecosystem.
 >
-> **[0:18](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-github-copilot-enabled-rust?u=76281980&t=18)** So not just by itself, but with Visual Studio Code, with GitHub Codespaces, with GitHub, all those things together allows you to level up, right?
+> **[0:18](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-github-copilot-enabled-rust?u=76281980&t=18)** So not just by itself, but with Visual Studio Code, with GitHub [[Codespaces]], with GitHub, all those things together allows you to level up, right?
 >
-> **[0:28](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-github-copilot-enabled-rust?u=76281980&t=28)** In the old days, when I first got started with Python, it was amazing, right?
+> **[0:28](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-github-copilot-enabled-rust?u=76281980&t=28)** In the old days, when I first got started with [[Python (Programming Language)|Python]], it was amazing, right?
 >
 > **[0:32](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-github-copilot-enabled-rust?u=76281980&t=32)** I got into Python and I was like, "Wow, you know, I can do all these things, script code quickly, move with the speed light.
 >
 > **[0:39](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-github-copilot-enabled-rust?u=76281980&t=39)** It's amazing."
 >
-> **[0:40](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-github-copilot-enabled-rust?u=76281980&t=40)** That's really the same feeling when you level up to a more powerful language like Rust using Copilot.
+> **[0:40](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-github-copilot-enabled-rust?u=76281980&t=40)** That's really the same feeling when you level up to a more powerful language like [[Rust (Programming Language)|Rust]] using Copilot.
 >
 > **[0:47](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-github-copilot-enabled-rust?u=76281980&t=47)** It's really that original Python experience.
 >
@@ -3834,7 +3771,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-github-copilot-enabled-rust?u=76281980&t=68)** And also in terms of security, right?
 >
-> **[1:10](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-github-copilot-enabled-rust?u=76281980&t=70)** You're building a very safe, concurrent, you know, build through the compiler, and also safe from a cybersecurity perspective, so there's all these awesome advantages.
+> **[1:10](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-github-copilot-enabled-rust?u=76281980&t=70)** You're building a very safe, concurrent, you know, build through the compiler, and also safe from a [[Cybersecurity]] perspective, so there's all these awesome advantages.
 >
 > **[1:19](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-github-copilot-enabled-rust?u=76281980&t=79)** So really the question is, is it worth the penalty to use a slightly more complex language?
 >
@@ -3928,7 +3865,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-github-copilot-enabled-rust?u=76281980&t=288)** And as long as you're helping it along the way it's going to give you a good response.
 >
-> **[4:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-github-copilot-enabled-rust?u=76281980&t=294)** And in this case, we say, look public, so expose this to my main module, which I'm going to use for command line tool, and then look at the rest.
+> **[4:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-github-copilot-enabled-rust?u=76281980&t=294)** And in this case, we say, look public, so expose this to my main module, which I'm going to use for command line tool, and then look at the [[Representational State Transfer (REST)|rest]].
 >
 > **[5:01](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-github-copilot-enabled-rust?u=76281980&t=301)** It's actually pretty intuitive.
 >
@@ -4034,7 +3971,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Microsoft Copilot|Copilot]] (11), [[Rust (Programming Language)|Rust]] (7), [[GitHub]] (4), prompt (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Microsoft Copilot|Copilot]] (11), [[Rust (Programming Language)|Rust]] (7), [[GitHub]] (4), [[Codespaces]] (2)
 > **CLI Commands:** python (12), make (5), cargo (5), docker (1), cd (1)
 > **Tools:** github (4), command line (3), visual studio (2)
 > **Definitions:** is a  (7)
@@ -4043,12 +3980,11 @@ created: 2026-05-02
 > **Analogies:** for example (1), just like (1)
 > **Prerequisites:** set up (2)
 
-#### Set up a GCP workstation with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/setup-gcp-workstation-with-python?u=76281980)
+#### [Set up a GCP workstation with Python](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/setup-gcp-workstation-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/setup-gcp-workstation-with-python?u=76281980&t=5)** - [Presenter] Let's take a look at Google Cloud's Cloud Workstations.
+> **[0:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/setup-gcp-workstation-with-python?u=76281980&t=5)** - [Presenter] Let's take a look at [[Google Cloud Platform (GCP)|Google Cloud]]'s Cloud Workstations.
 >
 > **[0:07](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/setup-gcp-workstation-with-python?u=76281980&t=7)** I'm a huge fan of cloud-based development environments because they solve a lot of problems, like having a pre-made environment that's ready to go and helps you build in a more productive manner.
 >
@@ -4082,7 +4018,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/setup-gcp-workstation-with-python?u=76281980&t=75)** And let's go ahead and kick the tires here.
 >
-> **[1:17](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/setup-gcp-workstation-with-python?u=76281980&t=77)** So if I go ahead and I say Python, what have we got?
+> **[1:17](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/setup-gcp-workstation-with-python?u=76281980&t=77)** So if I go ahead and I say [[Python (Programming Language)|Python]], what have we got?
 >
 > **[1:20](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/setup-gcp-workstation-with-python?u=76281980&t=80)** Oh, Python's not found.
 >
@@ -4094,7 +4030,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/setup-gcp-workstation-with-python?u=76281980&t=96)** And so you can see here, these are the different components of the ecosystem.
 >
-> **[1:42](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/setup-gcp-workstation-with-python?u=76281980&t=102)** We've got Kubernetes, Cloud-run and Cloud APIs, Compute Engine, Change Settings as well.
+> **[1:42](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/setup-gcp-workstation-with-python?u=76281980&t=102)** We've got [[Kubernetes]], Cloud-run and Cloud APIs, Compute Engine, Change Settings as well.
 >
 > **[1:51](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/setup-gcp-workstation-with-python?u=76281980&t=111)** I can go through here and I can change different configuration options.
 >
@@ -4156,7 +4092,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), cloud (9), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Kubernetes]] (1)
 > **CLI Commands:** python (11), pip (2), apt (1), python3 (1)
 > **Prerequisites:** install (4), you'll need (1), set up (1), configure (1)
 > **Versions:** python 3 (2), python 2 (1)
@@ -4165,12 +4101,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 
-#### Demo: Google Cloud Shell
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cloud-shell?u=76281980)
+#### [Demo: Google Cloud Shell](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cloud-shell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cloud-shell?u=76281980&t=8)** - [Instructor] Here we have the Google Cloud Shell which is a very interesting environment to do both systems administration tasks like talking to storage or controlling applications but also doing light development.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cloud-shell?u=76281980&t=8)** - [Instructor] Here we have the [[Google Cloud Platform (GCP)|Google Cloud]] Shell which is a very interesting environment to do both systems administration tasks like talking to storage or controlling applications but also doing light development.
 >
 > **[0:20](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cloud-shell?u=76281980&t=20)** So let's take a look at some of the things that you can do.
 >
@@ -4206,7 +4141,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cloud-shell?u=76281980&t=87)** Now another thing to be aware of that's a little bit interesting is that you can do light development inside of this environment.
 >
-> **[1:35](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cloud-shell?u=76281980&t=95)** So what I'm going to do first is I'm going to go to Rustup and I'm going to install Rust inside of this environment.
+> **[1:35](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cloud-shell?u=76281980&t=95)** So what I'm going to do first is I'm going to go to Rustup and I'm going to install [[Rust (Programming Language)|Rust]] inside of this environment.
 >
 > **[1:41](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cloud-shell?u=76281980&t=101)** So we'll go ahead and curl this and it will proceed.
 >
@@ -4248,7 +4183,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cloud-shell?u=76281980&t=201)** Alright, now we've been able to get this to run by using cargo run, and I would just go over to the web preview menu here and if we look at this, you'll see that I'm able to see this hello world application.
 >
-> **[3:35](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cloud-shell?u=76281980&t=215)** So it's actually not a bad environment for doing quick prototyping. And if we want to go into the code itself and change it a little bit, let's go into the code here and just change it so that we know that we can easily do modifications.
+> **[3:35](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cloud-shell?u=76281980&t=215)** So it's actually not a bad environment for doing quick [[Prototyping]]. And if we want to go into the code itself and change it a little bit, let's go into the code here and just change it so that we know that we can easily do modifications.
 >
 > **[3:49](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cloud-shell?u=76281980&t=229)** We can say hello world exploring cloud shell.
 >
@@ -4270,7 +4205,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), web (4), [[Rust (Programming Language)|Rust]] (2), [[Prototyping]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (2), [[Prototyping]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** cargo (5), ls (1), curl (1)
 > **UI Navigation:** go to (4), toggle (1)
 > **Definitions:** is a  (4)
@@ -4279,12 +4214,11 @@ created: 2026-05-02
 > **Ports:** port 8080 (1)
 > **Tools:** terminal (1)
 
-#### Demo: Google Cloud Editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cloud-editor?u=76281980)
+#### [Demo: Google Cloud Editor](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cloud-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cloud-editor?u=76281980&t=8)** - [Instructor] Here we have the Google Cloud Shell.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cloud-editor?u=76281980&t=8)** - [Instructor] Here we have the [[Google Cloud Platform (GCP)|Google Cloud]] Shell.
 >
 > **[0:10](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cloud-editor?u=76281980&t=10)** And notice I'm in the terminal mode, but if I want to get a more rich environment for developing I can open up the editor.
 >
@@ -4292,7 +4226,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cloud-editor?u=76281980&t=23)** First up, you can look at files.
 >
-> **[0:25](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cloud-editor?u=76281980&t=25)** So if I had something on the file system, for example this REST project, I could edit it.
+> **[0:25](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cloud-editor?u=76281980&t=25)** So if I had something on the file system, for example this [[Representational State Transfer (REST)|REST]] project, I could edit it.
 >
 > **[0:30](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cloud-editor?u=76281980&t=30)** I also could search, right?
 >
@@ -4330,7 +4264,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cloud-editor?u=76281980&t=125)** And then if I wanted to do a deployment of this exact project, I could go back to this environment go to Cloud Run and push this button, which says Deploy to Cloud Run.
 >
-> **[2:17](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cloud-editor?u=76281980&t=137)** So there's a lot of very good, you know, integrations here for developers that want to use the Google Cloud platform.
+> **[2:17](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cloud-editor?u=76281980&t=137)** So there's a lot of very good, you know, integrations here for developers that want to use the [[Google Cloud Platform (GCP)|Google Cloud platform]].
 >
 > **[2:24](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cloud-editor?u=76281980&t=144)** One other thing I think that's quite interesting is this Cloud APIs capability.
 >
@@ -4372,7 +4306,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), api (4), application (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud platform]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (4), scroll down (1), toggle (1)
 > **Env Vars:** api (4), rest (1)
 > **Tools:** terminal (3)
@@ -4381,12 +4315,11 @@ created: 2026-05-02
 > **File Paths:** asterisk.rs (1)
 > **CLI Commands:** find (1)
 
-#### Demo: Google CLI SDK
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cli-sdk?u=76281980)
+#### [Demo: Google CLI SDK](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cli-sdk?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cli-sdk?u=76281980&t=8)** - [Instructor] All right, let's get into another application of the Google Cloud, which is using the SDK.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cli-sdk?u=76281980&t=8)** - [Instructor] All right, let's get into another application of the [[Google Cloud Platform (GCP)|Google Cloud]], which is using the SDK.
 >
 > **[0:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cli-sdk?u=76281980&t=15)** Let's go ahead and activate the cloud shell here and also open up the editor.
 >
@@ -4406,7 +4339,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cli-sdk?u=76281980&t=70)** Now, in terms of the code sample as well it gives us several samples here.
 >
-> **[1:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cli-sdk?u=76281980&t=75)** And if we look at this you can see they've got Java, Node, Python, Go.
+> **[1:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cli-sdk?u=76281980&t=75)** And if we look at this you can see they've got [[Java]], Node, [[Python (Programming Language)|Python]], Go.
 >
 > **[1:20](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cli-sdk?u=76281980&t=80)** So for example, if I wanted to analyze the entities in a string here's the Go command that I could just paste into, let's say a microservice on app engine or cloud functions.
 >
@@ -4418,7 +4351,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cli-sdk?u=76281980&t=111)** So let's type in gcloud ml language.
 >
-> **[1:56](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cli-sdk?u=76281980&t=116)** And if we do the help command, it will show us that this is a very sophisticated tool that allows us to interact with the natural language API, but from a CLI.
+> **[1:56](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cli-sdk?u=76281980&t=116)** And if we do the help command, it will show us that this is a very sophisticated tool that allows us to interact with the natural language API, but from a [[CLI]].
 >
 > **[2:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cli-sdk?u=76281980&t=126)** And you can see some of the commands you could do, you could analyze entities, you can analyze the entity sentiment, you can analyze the sentiment, you can look at the syntax, and you can even classify input text into different documents.
 >
@@ -4436,19 +4369,19 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cli-sdk?u=76281980&t=171)** And we'll do that.
 >
-> **[2:52](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cli-sdk?u=76281980&t=172)** And let's put a word in, or a phrase, that seems like it would be good to extract entities.
+> **[2:52](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cli-sdk?u=76281980&t=172)** And let's put a [[Microsoft Word|word]] in, or a phrase, that seems like it would be good to extract entities.
 >
 > **[2:58](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cli-sdk?u=76281980&t=178)** So if I said "the lakers some years are a good team", there we go.
 >
 > **[3:07](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cli-sdk?u=76281980&t=187)** If we go through and we analyze this it was able to extract out that the user is probably talking about the Los Angeles Lakers, and they were able to identify that it was a type of organization.
 >
-> **[3:20](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cli-sdk?u=76281980&t=200)** It was able to grab the metadata that shows the Wikipedia page, and also it was able to tell us that it was a team as well.
+> **[3:20](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cli-sdk?u=76281980&t=200)** It was able to grab the [[Metadata]] that shows the Wikipedia page, and also it was able to tell us that it was a team as well.
 >
 > **[3:28](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cli-sdk?u=76281980&t=208)** So we get a bunch of interesting metadata automatically just by calling that API.
 >
 > **[3:33](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cli-sdk?u=76281980&t=213)** I don't have to do model training, I don't have to do anything.
 >
-> **[3:36](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cli-sdk?u=76281980&t=216)** I can actually just pull that Json payload into Go and parse it and do whatever it is that I need to do with it.
+> **[3:36](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cli-sdk?u=76281980&t=216)** I can actually just pull that [[JSON]] payload into Go and parse it and do whatever it is that I need to do with it.
 >
 > **[3:42](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-cli-sdk?u=76281980&t=222)** Now we can also do other things as well.
 >
@@ -4508,7 +4441,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), api (7), application (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Metadata]] (2), [[Java]] (1), [[Python (Programming Language)|Python]] (1), [[CLI]] (1)
 > **Env Vars:** api (7), sdk (3), cli (1), nlp (1)
 > **CLI Commands:** make (2), node (1), python (1), gcloud (1)
 > **UI Navigation:** go to (2), toggle (1), scroll up (1)
@@ -4517,12 +4450,11 @@ created: 2026-05-02
 > **Prerequisites:** install (2), configure (1)
 > **Documentation:** the documentation (2)
 
-#### Demo: Google gcloud CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-gcloud-cli?u=76281980)
+#### [Demo: Google gcloud CLI](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-gcloud-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-gcloud-cli?u=76281980&t=8)** - [Instructor] All right, let's get into another application of the Google Cloud which is using the SDK.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-gcloud-cli?u=76281980&t=8)** - [Instructor] All right, let's get into another application of the [[Google Cloud Platform (GCP)|Google Cloud]] which is using the SDK.
 >
 > **[0:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-gcloud-cli?u=76281980&t=15)** Let's go ahead and activate the Cloud Shell here and also open up the Editor.
 >
@@ -4544,7 +4476,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-gcloud-cli?u=76281980&t=70)** Now, in terms of the code sample as well, it gives us several samples here.
 >
-> **[1:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-gcloud-cli?u=76281980&t=75)** And if we look at this you can see they've got Java, Node, Python, Go.
+> **[1:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-gcloud-cli?u=76281980&t=75)** And if we look at this you can see they've got [[Java]], Node, [[Python (Programming Language)|Python]], Go.
 >
 > **[1:20](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-gcloud-cli?u=76281980&t=80)** So for example, if I wanted to analyze the entities in a string here's the go command that I could just paste into let's say a microservice on app engine or cloud functions and I'd be good to go.
 >
@@ -4554,7 +4486,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-gcloud-cli?u=76281980&t=111)** So let's type in gcloud ml language.
 >
-> **[1:56](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-gcloud-cli?u=76281980&t=116)** And if we do the help command, it will show us that this is a very sophisticated tool that allows us to interact with the natural language API but from a CLI.
+> **[1:56](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-gcloud-cli?u=76281980&t=116)** And if we do the help command, it will show us that this is a very sophisticated tool that allows us to interact with the natural language API but from a [[CLI]].
 >
 > **[2:07](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-gcloud-cli?u=76281980&t=127)** And you can see some of the commands you could do, you can analyze entities, you can analyze the entity's sentiment, you can analyze the sentiment, you can look at the syntax, and you can even classify input text into different documents.
 >
@@ -4572,17 +4504,17 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-gcloud-cli?u=76281980&t=167)** And we'll do that.
 >
-> **[2:48](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-gcloud-cli?u=76281980&t=168)** And let's put a word in or a phrase that seems like it would be good to extract entities.
+> **[2:48](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-gcloud-cli?u=76281980&t=168)** And let's put a [[Microsoft Word|word]] in or a phrase that seems like it would be good to extract entities.
 >
 > **[2:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-gcloud-cli?u=76281980&t=174)** So if I said the lakers some years are a good team.
 >
 > **[3:02](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-gcloud-cli?u=76281980&t=182)** There we go.
 >
-> **[3:02](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-gcloud-cli?u=76281980&t=182)** If we go through and we analyze this, it was able to extract out that the user is probably talking about the Los Angeles Lakers, and they were able to identify that it was a type of organization, it was able to grab the metadata that shows the Wikipedia page, and also it was able to tell us that it was a team as well.
+> **[3:02](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-gcloud-cli?u=76281980&t=182)** If we go through and we analyze this, it was able to extract out that the user is probably talking about the Los Angeles Lakers, and they were able to identify that it was a type of organization, it was able to grab the [[Metadata]] that shows the Wikipedia page, and also it was able to tell us that it was a team as well.
 >
 > **[3:24](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-gcloud-cli?u=76281980&t=204)** So we get a bunch of interesting metadata automatically just by calling that API, I don't have to do model training, I don't have to do anything.
 >
-> **[3:31](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-gcloud-cli?u=76281980&t=211)** I can actually just pull that JSON payload into Go and parse it and do whatever it is that I need to do with it.
+> **[3:31](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-gcloud-cli?u=76281980&t=211)** I can actually just pull that [[JSON]] payload into Go and parse it and do whatever it is that I need to do with it.
 >
 > **[3:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-gcloud-cli?u=76281980&t=218)** Now, we can also do other things as well, so we could also analyze sentiment.
 >
@@ -4638,7 +4570,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), cloud (6), application (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Metadata]] (2), [[Java]] (1), [[Python (Programming Language)|Python]] (1), [[CLI]] (1)
 > **Env Vars:** api (7), sdk (3), apis (2), cli (1), json (1)
 > **CLI Commands:** gcloud (2), make (2), node (1), python (1)
 > **UI Navigation:** go to (2), toggle (1), scroll up (1)
@@ -4647,14 +4579,13 @@ created: 2026-05-02
 > **Prerequisites:** install (2), configure (1)
 > **Documentation:** the documentation (2)
 
-#### Demo: Google App Engine Rust deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-app-engine-rust-deploy?u=76281980)
+#### [Demo: Google App Engine Rust deployment](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-app-engine-rust-deploy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-app-engine-rust-deploy?u=76281980&t=8)** - [Instructor] Here we have an app engine environment and I've configured it so that it is going to tell me about how to run other environments, so this flexible environment.
 >
-> **[0:17](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-app-engine-rust-deploy?u=76281980&t=17)** What I'm going to do here is actually use the Rust language to deploy a microservice with this particular app engine framework.
+> **[0:17](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-app-engine-rust-deploy?u=76281980&t=17)** What I'm going to do here is actually use the [[Rust (Programming Language)|Rust]] language to deploy a microservice with this particular app engine framework.
 >
 > **[0:25](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-app-engine-rust-deploy?u=76281980&t=25)** So what do we do?
 >
@@ -4744,17 +4675,17 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-app-engine-rust-deploy?u=76281980&t=270)** And when you're finished, you can also see how other types of languages help you with the app engine deploy process.
 >
-> **[4:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-app-engine-rust-deploy?u=76281980&t=278)** For example, in Python, I could select the official runtime Python 37, or if I wanted to do automatic deployment, I could even add individual steps by adding a cloud build .yaml file.
+> **[4:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-app-engine-rust-deploy?u=76281980&t=278)** For example, in [[Python (Programming Language)|Python]], I could select the official runtime Python 37, or if I wanted to do automatic deployment, I could even add individual steps by adding a cloud build .yaml file.
 >
 > **[4:52](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-app-engine-rust-deploy?u=76281980&t=292)** So the idea here is that it's a very flexible environment for doing deployments and you can easily switch from language to language, either Rust or Python, go.
 >
 > **[5:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-app-engine-rust-deploy?u=76281980&t=303)** It has lots of options available for you and it all starts with the shell.
 >
-> **[5:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-app-engine-rust-deploy?u=76281980&t=308)** And the shell then turns into a continuous delivery process depending on what kind of technique you want to use.
+> **[5:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-app-engine-rust-deploy?u=76281980&t=308)** And the shell then turns into a [[Continuous Delivery (CD)|continuous delivery]] process depending on what kind of technique you want to use.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Rust (Programming Language)|Rust]] (4), web (4), [[Python (Programming Language)|Python]] (3), application (2)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (4), [[Python (Programming Language)|Python]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **CLI Commands:** cargo (4), make (3), docker (3), python (3), gcloud (2)
 > **UI Navigation:** go to (3)
 > **File Paths:** app.yaml (2)
@@ -4763,12 +4694,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Google App Engine Golang
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-app-engine-golang?u=76281980)
+#### [Demo: Google App Engine Golang](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-app-engine-golang?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-app-engine-golang?u=76281980&t=8)** - [Instructor] Here we're in the Google Cloud Shell environment, and from here, what we're going to do is build an app engine application.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-app-engine-golang?u=76281980&t=8)** - [Instructor] Here we're in the [[Google Cloud Platform (GCP)|Google Cloud]] Shell environment, and from here, what we're going to do is build an app engine application.
 >
 > **[0:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-app-engine-golang?u=76281980&t=15)** One of the things to be aware of is that you can actually find out more information about your app engine environment by typing in gcloud app and you can type in help here and it'll give you some options about different things that you'd want to do.
 >
@@ -4866,11 +4796,11 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-app-engine-golang?u=76281980&t=293)** A lot of really good information here if we're going to look at things, and I also could go to the versions, as well, and see how much traffic is allocated to a particular set of versions.
 >
-> **[5:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-app-engine-golang?u=76281980&t=303)** So in a nutshell, very straightforward to use App Engine to build Microservices.
+> **[5:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-google-app-engine-golang?u=76281980&t=303)** So in a nutshell, very straightforward to use App Engine to build [[Microservices]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), next (3), gcp (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), cd (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microservices]] (1)
 > **CLI Commands:** gcloud (6), make (2), find (1), mkdir (1), cd (1)
 > **File Paths:** app.yaml (2), main.go (2)
 > **Env Vars:** gcp (2), url (1)
@@ -4884,8 +4814,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Developing ML models: Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24565476?u=76281980)
+#### [Developing ML models: Next steps](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24565476?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4893,9 +4822,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24565476?u=76281980&t=4)** Conclusion of Course Four, which is Developing ML Models.
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24565476?u=76281980&t=8)** In Course Four, we talked about several key items with developing models including the TensorFlow Playground for model exploration.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24565476?u=76281980&t=8)** In Course Four, we talked about several key items with developing models including the [[TensorFlow]] Playground for model exploration.
 >
-> **[0:18](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24565476?u=76281980&t=18)** This means visualizing and experimenting with neural networks without writing code.
+> **[0:18](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24565476?u=76281980&t=18)** This means visualizing and experimenting with [[Neural Networks]] without writing code.
 >
 > **[0:22](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24565476?u=76281980&t=22)** Also gaining insights into model behavior and performance.
 >
@@ -4905,19 +4834,19 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24565476?u=76281980&t=49)** We also talked about how to recognize the benefits of Transfer Learning and reducing training time and improving model performance and leveraging pre-trained models as a starting point for custom solutions.
 >
-> **[1:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24565476?u=76281980&t=63)** We also talked about implementing and deploying microservices using Rust on Google App Engine and then monitoring and logging best practices for maintaining model performance.
+> **[1:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24565476?u=76281980&t=63)** We also talked about implementing and deploying [[Microservices]] using [[Rust (Programming Language)|Rust]] on [[Google]] App Engine and then monitoring and logging best practices for maintaining model performance.
 >
-> **[1:14](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24565476?u=76281980&t=74)** We also talked about how to utilize the Google platform for model training, deployment and management and how to use the Google Cloud Shell, including the Cloud Editor and CLI.
+> **[1:14](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24565476?u=76281980&t=74)** We also talked about how to utilize the Google platform for model training, deployment and management and how to use the [[Google Cloud Platform (GCP)|Google Cloud]] Shell, including the Cloud Editor and [[CLI]].
 >
 > **[1:26](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24565476?u=76281980&t=86)** All right, that's it for this course.
 >
-> **[1:28](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24565476?u=76281980&t=88)** I would recommend that you apply these concepts to real world projects, continue learning and exploring the Google Cloud platform, and also join any online communities that will help you build out a portfolio of work and network with other people.
+> **[1:28](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24565476?u=76281980&t=88)** I would recommend that you apply these concepts to real world projects, continue learning and exploring the [[Google Cloud Platform (GCP)|Google Cloud platform]], and also join any online communities that will help you build out a portfolio of work and network with other people.
 >
 > **[1:43](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24565476?u=76281980&t=103)** Thank you and good luck.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), gcp (1), [[TensorFlow]] (1), [[Neural Networks]] (1), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[TensorFlow]] (1), [[Neural Networks]] (1), [[Microservices]] (1), [[Rust (Programming Language)|Rust]] (1)
 > **Env Vars:** gcp (1), cli (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
@@ -4927,14 +4856,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Automating and orchestrating ML pipelines: Overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24566425?u=76281980)
+#### [Automating and orchestrating ML pipelines: Overview](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24566425?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24566425?u=76281980&t=0)** - [Instructor] GCP Professional Machine Learning Engineer.
 >
-> **[0:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24566425?u=76281980&t=3)** Welcome to Course Five: Designing and Implementing Training Pipelines, Serving Pipelines, and Metadata Tracking.
+> **[0:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24566425?u=76281980&t=3)** Welcome to Course Five: Designing and Implementing Training Pipelines, Serving Pipelines, and [[Metadata]] Tracking.
 >
 > **[0:12](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24566425?u=76281980&t=12)** All right, let's dive into Course Five here and talk about what we're going to cover.
 >
@@ -4942,13 +4870,13 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24566425?u=76281980&t=25)** We'll also get into the key terminology in Course Five.
 >
-> **[0:29](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24566425?u=76281980&t=29)** We'll also talk about prompt engineering and what are some of the advantages of using it to do things like generate queries, clean up code, et cetera.
+> **[0:29](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24566425?u=76281980&t=29)** We'll also talk about [[Prompt Engineering]] and what are some of the advantages of using it to do things like generate queries, clean up code, et cetera.
 >
-> **[0:39](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24566425?u=76281980&t=39)** We'll also get into how to get started with the Vertex AI platform and use it to train models, serve models, really build machine learning operations.
+> **[0:39](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24566425?u=76281980&t=39)** We'll also get into how to get started with the [[Vertex]] AI platform and use it to train models, serve models, really build machine learning operations.
 >
-> **[0:49](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24566425?u=76281980&t=49)** We'll also get into some of the characteristics of GPU-enabled Docker containers, which is a very interesting way to implement solutions for MLOps.
+> **[0:49](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24566425?u=76281980&t=49)** We'll also get into some of the characteristics of GPU-enabled Docker containers, which is a very interesting way to implement solutions for [[MLOps]].
 >
-> **[1:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24566425?u=76281980&t=60)** And finally, we'll talk about Rust-based pre-trained PyTorch models, and we'll walk through a real-world microservice that you could build yourself and deploy on the Google Cloud platform.
+> **[1:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24566425?u=76281980&t=60)** And finally, we'll talk about [[Rust (Programming Language)|Rust]]-based pre-trained [[PyTorch]] models, and we'll walk through a real-world microservice that you could build yourself and deploy on the [[Google Cloud Platform (GCP)|Google Cloud platform]].
 >
 > **[1:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24566425?u=76281980&t=73)** All right, let's go ahead and get started.
 >
@@ -4956,14 +4884,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (2), gcp (1), [[Prompt Engineering]] (1), [[Vertex]] (1), ai (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Prompt Engineering]] (1), [[Vertex]] (1), [[MLOps]] (1), [[Rust (Programming Language)|Rust]] (1)
 > **Env Vars:** gcp (1), gpu (1)
 > **CLI Commands:** docker (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automating and orchestrating ML pipelines: Key terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-five-key-terminology?u=76281980)
+#### [Automating and orchestrating ML pipelines: Key terminology](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-five-key-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4977,17 +4904,17 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-five-key-terminology?u=76281980&t=17)** Like ML pipelines.
 >
-> **[0:19](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-five-key-terminology?u=76281980&t=19)** Training pipelines are a series of automated processes that handle different stages of ML model development including data preparation, training, and evaluation.
+> **[0:19](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-five-key-terminology?u=76281980&t=19)** Training pipelines are a series of automated processes that handle different stages of ML model development including [[Data Preparation]], training, and evaluation.
 >
 > **[0:33](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-five-key-terminology?u=76281980&t=33)** There are hybrid and multi-cloud strategies that are important to consider.
 >
-> **[0:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-five-key-terminology?u=76281980&t=38)** Let's first start with hybrid cloud.
+> **[0:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-five-key-terminology?u=76281980&t=38)** Let's first start with [[Hybrid Cloud]].
 >
 > **[0:40](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-five-key-terminology?u=76281980&t=40)** This is a computing environment that combines your on-prem data center also with a private cloud.
 >
 > **[0:46](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-five-key-terminology?u=76281980&t=46)** This private cloud and public cloud enables the data and applications to be shared across whatever strategy makes sense.
 >
-> **[0:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-five-key-terminology?u=76281980&t=54)** A multi-cloud is a little bit different in that is a cloud only strategy where you would use multiple cloud offerings from different providers maybe using infrastructure as code and services like Kubernetes for orchestration to avoid vendor lock and increase your flexibility, but at a cost of increased complexity of managing that system.
+> **[0:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-five-key-terminology?u=76281980&t=54)** A multi-cloud is a little bit different in that is a cloud only strategy where you would use multiple cloud offerings from different providers maybe using [[Infrastructure as code (IaC)|infrastructure as code]] and services like [[Kubernetes]] for orchestration to avoid vendor lock and increase your flexibility, but at a cost of increased complexity of managing that system.
 >
 > **[1:16](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-five-key-terminology?u=76281980&t=76)** Model versioning is a practice of tracking and managing multiple iterations of a machine learning model through the lifecycle.
 >
@@ -5005,7 +4932,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-five-key-terminology?u=76281980&t=117)** And also, can you use a cross-platform model serving technology like Onyx?
 >
-> **[2:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-five-key-terminology?u=76281980&t=123)** Dataset lineage and metadata really refer to information about what's happening in your ML system.
+> **[2:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-five-key-terminology?u=76281980&t=123)** Dataset lineage and [[Metadata]] really refer to information about what's happening in your ML system.
 >
 > **[2:11](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-five-key-terminology?u=76281980&t=131)** First up, we have Lineage, which refers to the history and relationship between different versions of a data set including how it's been transformed and used in various machine learning models.
 >
@@ -5015,13 +4942,13 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-five-key-terminology?u=76281980&t=157)** The key terms to be aware of for automating and orchestrating ML pipelines include thinking about the components, the parameters, the triggers and the compute needs.
 >
-> **[2:46](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-five-key-terminology?u=76281980&t=166)** Also choosing the correct orchestration framework for whatever cloud strategy you have.
+> **[2:46](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-five-key-terminology?u=76281980&t=166)** Also choosing the correct orchestration framework for whatever [[Cloud Strategy]] you have.
 >
 > **[2:52](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-five-key-terminology?u=76281980&t=172)** Also, serving pipelines so when do you want to serve out the data?
 >
 > **[2:57](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-five-key-terminology?u=76281980&t=177)** Do you want to do it via online, batch or caching?
 >
-> **[3:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-five-key-terminology?u=76281980&t=180)** And what are the different Google Cloud serving options?
+> **[3:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-five-key-terminology?u=76281980&t=180)** And what are the different [[Google Cloud Platform (GCP)|Google Cloud]] serving options?
 >
 > **[3:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-five-key-terminology?u=76281980&t=183)** Also tracking and auditing metadata.
 >
@@ -5033,7 +4960,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), data (7), [[Orchestration]] (3), [[Metadata]] (3), [[Hybrid Cloud]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (3), [[Data Preparation]] (1), [[Hybrid Cloud]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Kubernetes]] (1)
 > **Definitions:** is a  (5), is an  (1), refers to (1)
 > **Env Vars:** gpt (2)
 > **Analogies:** for example (2)
@@ -5045,18 +4972,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prompt engineering for Google BigQuery with ChatGPT 4
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/prompt-engineering-for-google-bigquery-with-chatgpt4?u=76281980)
+#### [Prompt engineering for Google BigQuery with ChatGPT 4](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/prompt-engineering-for-google-bigquery-with-chatgpt4?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/prompt-engineering-for-google-bigquery-with-chatgpt4?u=76281980&t=6)** - [Instructor] Welcome to OpenAI.
 >
-> **[0:07](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/prompt-engineering-for-google-bigquery-with-chatgpt4?u=76281980&t=7)** You can see here that inside of OpenAI we can start doing prompt engineering.
+> **[0:07](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/prompt-engineering-for-google-bigquery-with-chatgpt4?u=76281980&t=7)** You can see here that inside of OpenAI we can start doing [[Prompt Engineering]].
 >
 > **[0:12](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/prompt-engineering-for-google-bigquery-with-chatgpt4?u=76281980&t=12)** The idea here is that if we go through and look at some of these examples, there are many different ways to get code out of a large language model.
 >
-> **[0:21](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/prompt-engineering-for-google-bigquery-with-chatgpt4?u=76281980&t=21)** If we go to SQL Translate, this is a good example.
+> **[0:21](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/prompt-engineering-for-google-bigquery-with-chatgpt4?u=76281980&t=21)** If we go to [[SQL]] Translate, this is a good example.
 >
 > **[0:24](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/prompt-engineering-for-google-bigquery-with-chatgpt4?u=76281980&t=24)** I could go through here, open up a playground, go ahead and submit it and try to get some SQL answers.
 >
@@ -5070,9 +4996,9 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/prompt-engineering-for-google-bigquery-with-chatgpt4?u=76281980&t=47)** And if we go through here, we view this data set.
 >
-> **[0:50](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/prompt-engineering-for-google-bigquery-with-chatgpt4?u=76281980&t=50)** You can see that this is rising trends here for the Google Cloud.
+> **[0:50](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/prompt-engineering-for-google-bigquery-with-chatgpt4?u=76281980&t=50)** You can see that this is rising trends here for the [[Google Cloud Platform (GCP)|Google Cloud]].
 >
-> **[0:55](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/prompt-engineering-for-google-bigquery-with-chatgpt4?u=76281980&t=55)** And if we go through and we look at the Google trends, you can see there's things like top rising terms, for example.
+> **[0:55](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/prompt-engineering-for-google-bigquery-with-chatgpt4?u=76281980&t=55)** And if we go through and we look at the [[Google]] trends, you can see there's things like top rising terms, for example.
 >
 > **[1:01](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/prompt-engineering-for-google-bigquery-with-chatgpt4?u=76281980&t=61)** And if I wanted to go ahead and look at one of these queries, right, I could actually open this up and close these tabs here and make this bigger and select some term here and start to do a query.
 >
@@ -5080,7 +5006,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/prompt-engineering-for-google-bigquery-with-chatgpt4?u=76281980&t=81)** Obviously I could format like this but I want to add more context, what could I do?
 >
-> **[1:26](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/prompt-engineering-for-google-bigquery-with-chatgpt4?u=76281980&t=86)** Well, an easy way to deal with this is to actually grab a query and put it into ChatGPT.
+> **[1:26](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/prompt-engineering-for-google-bigquery-with-chatgpt4?u=76281980&t=86)** Well, an easy way to deal with this is to actually grab a query and put it into [[ChatGPT]].
 >
 > **[1:35](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/prompt-engineering-for-google-bigquery-with-chatgpt4?u=76281980&t=95)** So if we go through here and I say, you know, "I need you to explain this Google BigQuery query for me," right?
 >
@@ -5200,7 +5126,7 @@ created: 2026-05-02
 >
 > **[8:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/prompt-engineering-for-google-bigquery-with-chatgpt4?u=76281980&t=483)** In the output, okay, let's see what happens.
 >
-> **[8:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/prompt-engineering-for-google-bigquery-with-chatgpt4?u=76281980&t=485)** Let's see if it understands a pretty complex natural language processing query to expand it to return the 50 and include a generated column that counts the number of occurrences of a term.
+> **[8:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/prompt-engineering-for-google-bigquery-with-chatgpt4?u=76281980&t=485)** Let's see if it understands a pretty complex [[Natural Language Processing (NLP)|natural language processing]] query to expand it to return the 50 and include a generated column that counts the number of occurrences of a term.
 >
 > **[8:14](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/prompt-engineering-for-google-bigquery-with-chatgpt4?u=76281980&t=494)** "You can use count function."
 >
@@ -5228,7 +5154,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (5), [[Prompt Engineering]] (4), data (3), [[ChatGPT]] (3), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Google]] (5), [[Prompt Engineering]] (4), [[ChatGPT]] (3), [[SQL]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (4)
 > **UI Navigation:** go to (2), scroll down (1)
@@ -5237,12 +5163,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting started with Vertex AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/getting-started-with-vertex-ai?u=76281980)
+#### [Getting started with Vertex AI](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/getting-started-with-vertex-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/getting-started-with-vertex-ai?u=76281980&t=6)** - [Instructor] Here we have Vertex AI, which is a starting point for doing AML Ops on the Google Cloud platform.
+> **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/getting-started-with-vertex-ai?u=76281980&t=6)** - [Instructor] Here we have [[Vertex]] AI, which is a starting point for doing AML Ops on the [[Google Cloud Platform (GCP)|Google Cloud platform]].
 >
 > **[0:12](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/getting-started-with-vertex-ai?u=76281980&t=12)** Let's go ahead and walk through some of the things that you get.
 >
@@ -5292,13 +5217,13 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/getting-started-with-vertex-ai?u=76281980&t=127)** So the data sets would be another thing you could create if you wanted to create image data sets, tabular data sets, text, video, these are all different things that you could add.
 >
-> **[2:17](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/getting-started-with-vertex-ai?u=76281980&t=137)** And then finally, for training, experiments, and metadata, these are all different aspects that you could toggle through.
+> **[2:17](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/getting-started-with-vertex-ai?u=76281980&t=137)** And then finally, for training, experiments, and [[Metadata]], these are all different aspects that you could toggle through.
 >
 > **[2:23](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/getting-started-with-vertex-ai?u=76281980&t=143)** So really the idea here is that for AML Ops, you're going to centralize everything by using the Vertex AI platform.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), feature (6), ai (4), [[Vertex]] (3), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
+> **Frameworks & Libraries:** [[Vertex]] (3), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Metadata]] (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** aml (2)
 > **UI Navigation:** toggle (2)
@@ -5307,18 +5232,17 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding TPUs
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/understanding-tpus?u=76281980)
+#### [Understanding TPUs](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/understanding-tpus?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/understanding-tpus?u=76281980&t=6)** - [Instructor] Let's look at the official documentation for a cloud-based TPU.
 >
-> **[0:11](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/understanding-tpus?u=76281980&t=11)** TPUs are hardware accelerators designed by Google for machine learning workloads.
+> **[0:11](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/understanding-tpus?u=76281980&t=11)** TPUs are [[Hardware]] accelerators designed by [[Google]] for machine learning workloads.
 >
 > **[0:17](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/understanding-tpus?u=76281980&t=17)** And we can also look at the system's architecture here to get a little bit more information.
 >
-> **[0:23](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/understanding-tpus?u=76281980&t=23)** So if we go into that link, and we see, in terms of what you can do with it, that in fact, you can use TensorFlow, PyTorch, and JAX.
+> **[0:23](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/understanding-tpus?u=76281980&t=23)** So if we go into that link, and we see, in terms of what you can do with it, that in fact, you can use [[TensorFlow]], [[PyTorch]], and JAX.
 >
 > **[0:33](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/understanding-tpus?u=76281980&t=33)** So there's three different frameworks that are supported.
 >
@@ -5372,13 +5296,13 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/understanding-tpus?u=76281980&t=207)** So a CPU is a general purpose processor, and von Neumann actually, in the early days of computing, helped build this architecture.
 >
-> **[3:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/understanding-tpus?u=76281980&t=218)** And it means that you can do regular things with a computer, like word processing and manipulating files.
+> **[3:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/understanding-tpus?u=76281980&t=218)** And it means that you can do regular things with a computer, like [[Microsoft Word|word]] processing and manipulating files.
 >
 > **[3:45](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/understanding-tpus?u=76281980&t=225)** Really, the use case is a flexibility, right?
 >
 > **[3:48](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/understanding-tpus?u=76281980&t=228)** This is the goal of a CPU.
 >
-> **[3:51](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/understanding-tpus?u=76281980&t=231)** A GPU is interesting because it actually is accidentally successful in terms of deep learning because of the fact that it has this density, right?
+> **[3:51](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/understanding-tpus?u=76281980&t=231)** A GPU is interesting because it actually is accidentally successful in terms of [[Deep Learning]] because of the fact that it has this density, right?
 >
 > **[4:01](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/understanding-tpus?u=76281980&t=241)** So instead of there being one or maybe eight chips for a CPU, you have, let's say, 2,500 to 5,000 different cores here that you can actually do different processing calculations on.
 >
@@ -5396,11 +5320,11 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/understanding-tpus?u=76281980&t=290)** So really, that's the TPU in a nutshell, is that it's a specialized chip specifically designed for doing deep learning at scale.
 >
-> **[4:58](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/understanding-tpus?u=76281980&t=298)** And that's why when you use it with, let's say, the Google Cloud Platform and TensorFlow or JAX, you're going to get a better efficiency than just using a GPU alone.
+> **[4:58](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/understanding-tpus?u=76281980&t=298)** And that's why when you use it with, let's say, the [[Google Cloud Platform (GCP)|Google Cloud Platform]] and TensorFlow or JAX, you're going to get a better efficiency than just using a GPU alone.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[TensorFlow]] (4), [[PyTorch]] (3), cloud (2), node (2), [[Deep Learning]] (2)
+> **Frameworks & Libraries:** [[TensorFlow]] (4), [[PyTorch]] (3), [[Deep Learning]] (2), [[Hardware]] (1), [[Google]] (1)
 > **Env Vars:** tpu (16), cpu (6), jax (4), gpu (3), ssh (2)
 > **CLI Commands:** node (2), ssh (2)
 > **Versions:** version 4 (2), version 3 (1), version 2 (1)
@@ -5409,12 +5333,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 
-#### TPUs as a technology transition
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tpus-as-technology-transition?u=76281980)
+#### [TPUs as a technology transition](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tpus-as-technology-transition?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tpus-as-technology-transition?u=76281980&t=6)** - [Instructor] The TensorFlow Processing Unit or a TPU, is a classic technology transition.
+> **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tpus-as-technology-transition?u=76281980&t=6)** - [Instructor] The [[TensorFlow]] Processing Unit or a TPU, is a classic technology transition.
 >
 > **[0:12](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tpus-as-technology-transition?u=76281980&t=12)** Let's take a look at how it compares with other technology transitions.
 >
@@ -5434,13 +5357,13 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tpus-as-technology-transition?u=76281980&t=76)** So it's part of the typical technology transition.
 >
-> **[1:20](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tpus-as-technology-transition?u=76281980&t=80)** If we look at a CPU, it's similar in that a CPU is designed for doing multiple things at the same time in terms of, you know, working with word processing software, or you know allowing someone to load a file, or to calculate something.
+> **[1:20](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tpus-as-technology-transition?u=76281980&t=80)** If we look at a CPU, it's similar in that a CPU is designed for doing multiple things at the same time in terms of, you know, working with [[Microsoft Word|word]] processing software, or you know allowing someone to load a file, or to calculate something.
 >
 > **[1:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tpus-as-technology-transition?u=76281980&t=98)** But it isn't designed for parallel processing at scale.
 >
 > **[1:42](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tpus-as-technology-transition?u=76281980&t=102)** It's a multipurpose CPU and it's designed for really kind of desktop type operations.
 >
-> **[1:51](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tpus-as-technology-transition?u=76281980&t=111)** And as we've transitioned into the deep learning world and AI world, you can see that the deep learning stack currently is, there's CPUs, and there's GPUs, and they're kind of mixed together.
+> **[1:51](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tpus-as-technology-transition?u=76281980&t=111)** And as we've transitioned into the [[Deep Learning]] world and AI world, you can see that the deep learning stack currently is, there's CPUs, and there's GPUs, and they're kind of mixed together.
 >
 > **[2:02](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tpus-as-technology-transition?u=76281980&t=122)** And a GPU is very good at doing parallel processing but it wasn't designed for doing parallel processing.
 >
@@ -5448,7 +5371,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tpus-as-technology-transition?u=76281980&t=133)** But the future is, and TPU is one of the examples but there's also lots of other companies that are doing custom silicone, is that there's a chip that's specifically optimized for the problem at hand.
 >
-> **[2:25](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tpus-as-technology-transition?u=76281980&t=145)** In the case of a TPU, it's optimized for matrix multiplication and it works very well with JAX, TensorFlow, PyTorch, and so it's new technology without the legacy baggage of the old system.
+> **[2:25](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tpus-as-technology-transition?u=76281980&t=145)** In the case of a TPU, it's optimized for matrix multiplication and it works very well with JAX, TensorFlow, [[PyTorch]], and so it's new technology without the legacy baggage of the old system.
 >
 > **[2:40](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tpus-as-technology-transition?u=76281980&t=160)** Likewise, we also can see this with languages.
 >
@@ -5458,13 +5381,13 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tpus-as-technology-transition?u=76281980&t=174)** There's all kinds of safety issues and the skill level required is very high.
 >
-> **[3:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tpus-as-technology-transition?u=76281980&t=180)** And so people have used things like Python on top of C where there's numerical libraries in C, and it's a transitionary technology, right?
+> **[3:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tpus-as-technology-transition?u=76281980&t=180)** And so people have used things like [[Python (Programming Language)|Python]] on top of C where there's numerical libraries in C, and it's a transitionary technology, right?
 >
 > **[3:09](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tpus-as-technology-transition?u=76281980&t=189)** So you're wrapping up C with Python, making it easier.
 >
 > **[3:12](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tpus-as-technology-transition?u=76281980&t=192)** And that's currently what we're doing with ML Stack.
 >
-> **[3:14](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tpus-as-technology-transition?u=76281980&t=194)** But what we're seeing is that in the final destination here what may happen is that modern compiled languages, let's say for example, Rust, or Go, that have built in the last 10 years, that the whole stack could be written in Rust.
+> **[3:14](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tpus-as-technology-transition?u=76281980&t=194)** But what we're seeing is that in the final destination here what may happen is that modern compiled languages, let's say for example, [[Rust (Programming Language)|Rust]], or Go, that have built in the last 10 years, that the whole stack could be written in Rust.
 >
 > **[3:28](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tpus-as-technology-transition?u=76281980&t=208)** And we see this, for example, with PyTorch, there's examples of using deep learning libraries or even rewriting the entire thing from scratch with one language.
 >
@@ -5474,7 +5397,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (4), parallel (3), [[TensorFlow]] (2), [[PyTorch]] (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Deep Learning]] (4), [[TensorFlow]] (2), [[PyTorch]] (2), [[Python (Programming Language)|Python]] (2), [[Rust (Programming Language)|Rust]] (2)
 > **Env Vars:** tpu (3), cpu (3), gpu (1), jax (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** python (2)
@@ -5482,12 +5405,11 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: TPU, PyTorch, and MNIST
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-tpu-pytorch-mnist?u=76281980)
+#### [Demo: TPU, PyTorch, and MNIST](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-tpu-pytorch-mnist?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-tpu-pytorch-mnist?u=76281980&t=6)** - [Instructor] Here we have a PyTorch notebook that I'm going to use with a TPU.
+> **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-tpu-pytorch-mnist?u=76281980&t=6)** - [Instructor] Here we have a [[PyTorch]] notebook that I'm going to use with a TPU.
 >
 > **[0:10](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-tpu-pytorch-mnist?u=76281980&t=10)** And if we take a look at this Colab Pro environment here and we look at this overview, you can see these are the different resources, and I even could upgrade to, let's say, a bigger environment.
 >
@@ -5555,7 +5477,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-tpu-pytorch-mnist?u=76281980&t=192)** So we're able to really leverage that fast TPU here, and now we can actually go through and visualize the predictions.
 >
-> **[3:18](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-tpu-pytorch-mnist?u=76281980&t=198)** So we can say from Google Colab patches, right?
+> **[3:18](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-tpu-pytorch-mnist?u=76281980&t=198)** So we can say from [[Google]] Colab patches, right?
 >
 > **[3:21](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-tpu-pytorch-mnist?u=76281980&t=201)** Let's go ahead and visualize these predictions here, and we can see that it was able to have correct predicted labels for all of these MNIST dataset operations here.
 >
@@ -5563,11 +5485,11 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-tpu-pytorch-mnist?u=76281980&t=225)** And finally, when when we go through and we look at the runtime type here, that this is the key, right, is that inside of here, you're selecting this TPU-based environment here.
 >
-> **[3:57](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-tpu-pytorch-mnist?u=76281980&t=237)** You may also want to select high RAM here for the runtime if you're able to use the Google Colab Pro, and this allows us to use a customized hardware accelerator that is available inside of the Colab Pro environment.
+> **[3:57](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-tpu-pytorch-mnist?u=76281980&t=237)** You may also want to select high RAM here for the runtime if you're able to use the Google Colab Pro, and this allows us to use a customized [[Hardware]] accelerator that is available inside of the Colab Pro environment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PyTorch]] (2), [[Google]] (2), cloud (1), data (1), next (1)
+> **Frameworks & Libraries:** [[PyTorch]] (2), [[Google]] (2), [[Hardware]] (1)
 > **Env Vars:** tpu (10), cpu (1), gpu (1), mnist (1), ram (1)
 > **Tools:** colab (4)
 > **Prerequisites:** install (2), set up (1)
@@ -5580,12 +5502,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### TensorFlow serving with a GPU-enabled Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tensorflow-serving-with-gpu-enabled-docker?u=76281980)
+#### [TensorFlow serving with a GPU-enabled Docker](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tensorflow-serving-with-gpu-enabled-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tensorflow-serving-with-gpu-enabled-docker?u=76281980&t=6)** - [Narrator] Here we have TensorFlow for production.
+> **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tensorflow-serving-with-gpu-enabled-docker?u=76281980&t=6)** - [Narrator] Here we have [[TensorFlow]] for production.
 >
 > **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tensorflow-serving-with-gpu-enabled-docker?u=76281980&t=8)** And TensorFlow serving with Docker is one of the easiest ways to serve out a TensorFlow based model.
 >
@@ -5607,9 +5528,9 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tensorflow-serving-with-gpu-enabled-docker?u=76281980&t=49)** So that's great.
 >
-> **[0:50](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tensorflow-serving-with-gpu-enabled-docker?u=76281980&t=50)** Next step, let's go over and run the TensorFlow serving container and open up the rest API port.
+> **[0:50](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tensorflow-serving-with-gpu-enabled-docker?u=76281980&t=50)** Next step, let's go over and run the TensorFlow serving container and open up the [[Representational State Transfer (REST)|rest]] API port.
 >
-> **[0:57](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tensorflow-serving-with-gpu-enabled-docker?u=76281980&t=57)** Because I'm going to do this in GitHub code spaces, it should work out quite well.
+> **[0:57](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tensorflow-serving-with-gpu-enabled-docker?u=76281980&t=57)** Because I'm going to do this in [[GitHub]] code spaces, it should work out quite well.
 >
 > **[1:02](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tensorflow-serving-with-gpu-enabled-docker?u=76281980&t=62)** Let's go ahead and do this.
 >
@@ -5695,7 +5616,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tensorflow-serving-with-gpu-enabled-docker?u=76281980&t=254)** Let's go ahead and CD into that directory.
 >
-> **[4:19](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tensorflow-serving-with-gpu-enabled-docker?u=76281980&t=259)** And then next we can actually go ahead and do a git clone and clone into this temp directory, which is kind of a good way to do things, right?
+> **[4:19](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tensorflow-serving-with-gpu-enabled-docker?u=76281980&t=259)** And then next we can actually go ahead and do a [[Git]] clone and clone into this temp directory, which is kind of a good way to do things, right?
 >
 > **[4:28](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/tensorflow-serving-with-gpu-enabled-docker?u=76281980&t=268)** Get it in a temp temporary directory.
 >
@@ -5741,7 +5662,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[TensorFlow]] (8), next (7), hit (3), [[Representational State Transfer (REST)|Rest]] (1), api (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (8), [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1), [[Git]] (1)
 > **CLI Commands:** docker (13), make (1), curl (1), find (1), mkdir (1)
 > **Env Vars:** gpu (11), cpu (2), smi (2), api (1), mkdir (1)
 > **UI Navigation:** go to (4), scroll down (1)
@@ -5750,14 +5671,13 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Prerequisites:** install (1)
 
-#### A Rust and PyTorch microservice walkthrough
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980)
+#### [A Rust and PyTorch microservice walkthrough](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980&t=6)** - [Instructor] Here we have an architectural diagram of using a Pre-trained PyTorch Model with Rust.
+> **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980&t=6)** - [Instructor] Here we have an architectural diagram of using a Pre-trained [[PyTorch]] Model with [[Rust (Programming Language)|Rust]].
 >
-> **[0:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980&t=13)** Let's talk through how some of the key advantages of rust combine along with pre-trained models to build out a very compelling story for MLOps.
+> **[0:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980&t=13)** Let's talk through how some of the key advantages of rust combine along with pre-trained models to build out a very compelling story for [[MLOps]].
 >
 > **[0:23](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980&t=23)** To start with, in this example we have Actix, which is a web microservice that at one point in time was ranked as the fastest in the world.
 >
@@ -5769,7 +5689,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980&t=50)** So you have really a low level interface to the the PyTorch Library.
 >
-> **[0:56](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980&t=56)** We also can interact with excellent pre-trained models for computer vision or natural language processing that are all ready to go with PyTorch.
+> **[0:56](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980&t=56)** We also can interact with excellent pre-trained models for [[Computer Vision]] or [[Natural Language Processing (NLP)|natural language processing]] that are all ready to go with PyTorch.
 >
 > **[1:07](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980&t=67)** And some of the other things to consider for a production environment are logging, right.
 >
@@ -5791,7 +5711,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980&t=157)** So that's the local environment.
 >
-> **[2:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980&t=158)** And what's great about Rust as well, unlike scripting languages like Python, is that the binary is all you need other than let's say access to the underlying PyTorch data.
+> **[2:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980&t=158)** And what's great about Rust as well, unlike scripting languages like [[Python (Programming Language)|Python]], is that the binary is all you need other than let's say access to the underlying PyTorch data.
 >
 > **[2:51](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980&t=171)** So file, once you have PyTorch binary, and you've got it all set up, what you can do next to make it even more efficient is to use Distroless Docker Images.
 >
@@ -5809,7 +5729,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980&t=218)** So this is really an ideal workflow.
 >
-> **[3:40](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980&t=220)** Let's take a look at this Google container tool here.
+> **[3:40](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980&t=220)** Let's take a look at this [[Google]] container tool here.
 >
 > **[3:45](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980&t=225)** You can see here this is called Distroless Container Images.
 >
@@ -5867,7 +5787,7 @@ created: 2026-05-02
 >
 > **[5:39](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980&t=339)** And you can see what these actually do.
 >
-> **[5:41](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980&t=341)** In terms of the unit testing, I have a test directory right here, and then I have different kinds of tests.
+> **[5:41](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980&t=341)** In terms of the [[Unit Testing]], I have a test directory right here, and then I have different kinds of tests.
 >
 > **[5:47](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980&t=347)** I have some fixtures as well, maybe an image to do a prediction with.
 >
@@ -5887,7 +5807,7 @@ created: 2026-05-02
 >
 > **[6:41](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980&t=401)** So really that's the structure here that we care about when we're thinking about building a pre-trained model with Rust.
 >
-> **[6:47](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980&t=407)** And so many companies that need to deploy, for example, large language models should heavily consider this workflow.
+> **[6:47](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980&t=407)** And so many companies that need to deploy, for example, [[Large Language Models (LLM)|large language models]] should heavily consider this workflow.
 >
 > **[6:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/rust-pytorch-microservice-walkthrough?u=76281980&t=414)** And of course, I've done a lot of the heavy lifting for you.
 >
@@ -5895,7 +5815,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PyTorch]] (13), [[Rust (Programming Language)|Rust]] (10), application (5), web (3), [[Computer Vision]] (2)
+> **Frameworks & Libraries:** [[PyTorch]] (13), [[Rust (Programming Language)|Rust]] (10), [[Computer Vision]] (2), [[Google]] (2), [[MLOps]] (1)
 > **CLI Commands:** make (4), docker (2), python (1), cargo (1)
 > **Definitions:** is a  (2), is called (1), is an  (1)
 > **Prerequisites:** set up (3), setup (1)
@@ -5904,16 +5824,15 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Tools:** command line (1)
 
-#### Demo: Rust pretrained PyTorch microservice
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-rust-pre-trained-pytorch-microservice?u=76281980)
+#### [Demo: Rust pretrained PyTorch microservice](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-rust-pre-trained-pytorch-microservice?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-rust-pre-trained-pytorch-microservice?u=76281980&t=6)** - [Instructor] Here we have a pre-trained PyTorch model alongside of a Rust Actix microservice.
+> **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-rust-pre-trained-pytorch-microservice?u=76281980&t=6)** - [Instructor] Here we have a pre-trained [[PyTorch]] model alongside of a [[Rust (Programming Language)|Rust]] Actix microservice.
 >
 > **[0:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-rust-pre-trained-pytorch-microservice?u=76281980&t=13)** Let's go ahead and dive into the code here.
 >
-> **[0:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-rust-pre-trained-pytorch-microservice?u=76281980&t=15)** I've got this running inside of GitHub Codespaces and I have this rtorchdist directory.
+> **[0:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-rust-pre-trained-pytorch-microservice?u=76281980&t=15)** I've got this running inside of [[GitHub]] [[Codespaces]] and I have this rtorchdist directory.
 >
 > **[0:21](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-rust-pre-trained-pytorch-microservice?u=76281980&t=21)** So first thing we'll do is cd into here and we'll get this cooking.
 >
@@ -6051,7 +5970,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PyTorch]] (7), [[Rust (Programming Language)|Rust]] (2), [[GitHub]] (1), [[Codespaces]] (1), cd (1)
+> **Frameworks & Libraries:** [[PyTorch]] (7), [[Rust (Programming Language)|Rust]] (2), [[GitHub]] (1), [[Codespaces]] (1)
 > **CLI Commands:** docker (7), make (6), cargo (2), cd (1), curl (1)
 > **Definitions:** is a  (7)
 > **Prerequisites:** set up (3)
@@ -6065,26 +5984,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Automating and orchestrating ML pipelines: Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563452?u=76281980)
+#### [Automating and orchestrating ML pipelines: Next steps](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563452?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563452?u=76281980&t=0)** - GCP Professional Machine Learning Engineer.
 >
-> **[0:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563452?u=76281980&t=3)** Let's walk through the final conclusion for course five, which was designing and implementing training pipelines, serving pipelines, and metadata tracking.
+> **[0:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563452?u=76281980&t=3)** Let's walk through the final conclusion for course five, which was designing and implementing training pipelines, serving pipelines, and [[Metadata]] tracking.
 >
 > **[0:14](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563452?u=76281980&t=14)** First up in course five, we went through the key material that we were going to cover in the course and talked about some of the key concepts.
 >
 > **[0:22](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563452?u=76281980&t=22)** We got into the key terminology as well, which is important to understand when you're dealing with machine learning operations.
 >
-> **[0:28](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563452?u=76281980&t=28)** We also talked about how prompt engineering is very important for building out modern ML Ops solutions because it can help you build out SQL queries like in BigQuery, or build out infrastructure-as-code, or build out Docker files or Make files, a very important assistive technology.
+> **[0:28](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563452?u=76281980&t=28)** We also talked about how [[Prompt Engineering]] is very important for building out modern ML Ops solutions because it can help you build out [[SQL]] queries like in BigQuery, or build out infrastructure-as-code, or build out Docker files or Make files, a very important assistive technology.
 >
-> **[0:47](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563452?u=76281980&t=47)** We also talked about the ML Ops platform, which is Vertex AI, how you can use it for dealing with metadata tracking, or feature store or model serving.
+> **[0:47](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563452?u=76281980&t=47)** We also talked about the ML Ops platform, which is [[Vertex]] AI, how you can use it for dealing with metadata tracking, or feature store or model serving.
 >
-> **[0:57](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563452?u=76281980&t=57)** And we also talked about GPU-enabled docker containers, which is a very interesting and powerful technique to quickly build out a GPU-based inference solution with TensorFlow.
+> **[0:57](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563452?u=76281980&t=57)** And we also talked about GPU-enabled docker containers, which is a very interesting and powerful technique to quickly build out a GPU-based inference solution with [[TensorFlow]].
 >
-> **[1:09](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563452?u=76281980&t=69)** We also dove into why Rust is a emerging technology for using inference at scale, and we talked about PyTorch pre-trained model walkthrough and went through all the different bits of code that are important to know.
+> **[1:09](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563452?u=76281980&t=69)** We also dove into why [[Rust (Programming Language)|Rust]] is a emerging technology for using inference at scale, and we talked about [[PyTorch]] pre-trained model walkthrough and went through all the different bits of code that are important to know.
 >
 > **[1:23](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24563452?u=76281980&t=83)** Alright, that's it for this course.
 >
@@ -6096,7 +6014,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (3), next (2), gcp (1), [[Prompt Engineering]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (3), [[Prompt Engineering]] (1), [[SQL]] (1), [[Vertex]] (1), [[TensorFlow]] (1)
 > **Cross-References:** we talked about (2), we covered (2), in the next (1)
 > **Env Vars:** gpu (2), gcp (1), sql (1)
 > **CLI Commands:** docker (2), make (1)
@@ -6108,8 +6026,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Monitoring, optimizing, and maintaining ML solutions: Overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24567440?u=76281980)
+#### [Monitoring, optimizing, and maintaining ML solutions: Overview](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24567440?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6123,7 +6040,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24567440?u=76281980&t=31)** And so it's important to retrain a model depending on the characteristics of your detection.
 >
-> **[0:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24567440?u=76281980&t=38)** We also will talk about load testing techniques and tools using tools like Locust to load test a high performance systems programming language like Rust.
+> **[0:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24567440?u=76281980&t=38)** We also will talk about [[Load Testing]] techniques and tools using tools like Locust to load test a high performance systems programming language like [[Rust (Programming Language)|Rust]].
 >
 > **[0:46](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24567440?u=76281980&t=46)** We'll also get into auditing, logging, and dashboard visualization.
 >
@@ -6135,15 +6052,14 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24567440?u=76281980&t=71)** We have a lot to cover, so let's go ahead and get started.
 >
-> **[1:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24567440?u=76281980&t=73)** We're going to cover monitoring, optimizing, and maintaining ML solutions as the final course in this Google ML Pro Certification series.
+> **[1:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/overview-24567440?u=76281980&t=73)** We're going to cover monitoring, optimizing, and maintaining ML solutions as the final course in this [[Google]] ML Pro Certification series.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), gcp (1), [[Load Testing]] (1), [[Programming]] (1), [[Rust (Programming Language)|Rust]] (1)
+> **Frameworks & Libraries:** [[Load Testing]] (1), [[Rust (Programming Language)|Rust]] (1), [[Google]] (1)
 > **Env Vars:** gcp (1)
 
-#### Monitoring, optimizing, and maintaining ML solutions: Key terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-six-key-terminology?u=76281980)
+#### [Monitoring, optimizing, and maintaining ML solutions: Key terminology](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-six-key-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6157,13 +6073,13 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-six-key-terminology?u=76281980&t=19)** It ensures that they meet business requirements and maintain accuracy over time.
 >
-> **[0:24](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-six-key-terminology?u=76281980&t=24)** You can think of it as data science, right?
+> **[0:24](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-six-key-terminology?u=76281980&t=24)** You can think of it as [[Data Science]], right?
 >
 > **[0:26](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-six-key-terminology?u=76281980&t=26)** Data science for software engineering systems.
 >
 > **[0:29](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-six-key-terminology?u=76281980&t=29)** Logging strategies define how an ML system records and stores, information about model predictions, errors, and other relevant events for analysis and debugging purposes.
 >
-> **[0:42](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-six-key-terminology?u=76281980&t=42)** Also, we have continuous evaluation metrics and Google Cloud permission models.
+> **[0:42](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-six-key-terminology?u=76281980&t=42)** Also, we have continuous evaluation metrics and [[Google Cloud Platform (GCP)|Google Cloud]] permission models.
 >
 > **[0:48](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-six-key-terminology?u=76281980&t=48)** If we look at continuous evaluation metrics, these are measures used to assess the ongoing performance of ML models, including the detection of a drift or a bias in model predictions.
 >
@@ -6177,9 +6093,9 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-six-key-terminology?u=76281980&t=103)** Oftentimes you can detect this by looking at the percentage of data that's changed.
 >
-> **[1:48](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-six-key-terminology?u=76281980&t=108)** We also have dataset lineage and metadata to consider.
+> **[1:48](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-six-key-terminology?u=76281980&t=108)** We also have dataset lineage and [[Metadata]] to consider.
 >
-> **[1:53](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-six-key-terminology?u=76281980&t=113)** These are also very critical when you're thinking about operationalizing and maintaining systems at scale. And dataset lineage and metadata are very important in terms of looking at the descriptive statistics of a monitoring system and making sure they apply when that model is deployed into production.
+> **[1:53](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-six-key-terminology?u=76281980&t=113)** These are also very critical when you're thinking about operationalizing and maintaining systems at scale. And dataset lineage and metadata are very important in terms of looking at the descriptive [[Statistics]] of a monitoring system and making sure they apply when that model is deployed into production.
 >
 > **[2:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-six-key-terminology?u=76281980&t=133)** All right.
 >
@@ -6191,7 +6107,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-six-key-terminology?u=76281980&t=167)** We also have model drift, which is the performance of models and how they decline over time.
 >
-> **[2:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-six-key-terminology?u=76281980&t=174)** We have model bias, which is systemic errors in ML model predictions and also TensorFlow errors.
+> **[2:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-six-key-terminology?u=76281980&t=174)** We have model bias, which is systemic errors in ML model predictions and also [[TensorFlow]] errors.
 >
 > **[3:01](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/course-six-key-terminology?u=76281980&t=181)** And these are common issues that arise during training and serving of solutions built during the TensorFlow Framework process.
 >
@@ -6203,7 +6119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), cloud (2), [[Metadata]] (2), [[TensorFlow]] (2), business (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Metadata]] (2), [[TensorFlow]] (2), [[Google]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Analogies:** think of it as (1)
 
 
@@ -6211,14 +6127,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data drift explained by the naughty child problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-drift-explained-by-naughty-child-problem?u=76281980)
+#### [Data drift explained by the naughty child problem](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-drift-explained-by-naughty-child-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-drift-explained-by-naughty-child-problem?u=76281980&t=5)** Here's a great example of one of the problems with data drift in the real world.
 >
-> **[0:10](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-drift-explained-by-naughty-child-problem?u=76281980&t=10)** This is from Nassim Taleb, who is the author of The Black Swan and also other books on probability.
+> **[0:10](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-drift-explained-by-naughty-child-problem?u=76281980&t=10)** This is from Nassim Taleb, who is the author of The Black Swan and also other books on [[Probability]].
 >
 > **[0:19](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/data-drift-explained-by-naughty-child-problem?u=76281980&t=19)** One of the examples he gives in his books is this concept of when you grab more balls out of a container, each new ball gives you more information about the frequency of the red ball versus the black ball, right?
 >
@@ -6238,23 +6153,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Analogies:** imagine (1)
 
-#### Load testing with Locust
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/load-testing-with-locust?u=76281980)
+#### [Load testing with Locust](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/load-testing-with-locust?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/load-testing-with-locust?u=76281980&t=8)** Locust is an open source load testing tool that can actually do millions of simultaneous users.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/load-testing-with-locust?u=76281980&t=8)** Locust is an open source [[Load Testing]] tool that can actually do millions of simultaneous users.
 >
 > **[0:14](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/load-testing-with-locust?u=76281980&t=14)** Great little app here that we can play around with to test our code.
 >
 > **[0:18](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/load-testing-with-locust?u=76281980&t=18)** And this is an important part of doing production systems is to do load testing to verify that the behavior can be replicated in production.
 >
-> **[0:26](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/load-testing-with-locust?u=76281980&t=26)** So let's go over to a GitHub Codespace environment here, I have this simple microservice that can run in Kubernetes, but I'm going to for now, just run it locally.
+> **[0:26](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/load-testing-with-locust?u=76281980&t=26)** So let's go over to a [[GitHub]] Codespace environment here, I have this simple microservice that can run in [[Kubernetes]], but I'm going to for now, just run it locally.
 >
-> **[0:36](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/load-testing-with-locust?u=76281980&t=36)** And if I go through here and I just say python main, I could run the app, right?
+> **[0:36](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/load-testing-with-locust?u=76281980&t=36)** And if I go through here and I just say [[Python (Programming Language)|python]] main, I could run the app, right?
 >
 > **[0:41](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/load-testing-with-locust?u=76281980&t=41)** So we know that that'll work and it'll launch the application.
 >
@@ -6288,7 +6202,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/load-testing-with-locust?u=76281980&t=116)** I'm going to also go ahead and say python main to get my microservice running.
 >
-> **[2:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/load-testing-with-locust?u=76281980&t=120)** And since this is a pretty powerful machine that has lots of resources available to it, I can actually do a nice little simulation here.
+> **[2:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/load-testing-with-locust?u=76281980&t=120)** And since this is a pretty powerful machine that has lots of resources available to it, I can actually do a nice little [[Simulation]] here.
 >
 > **[2:09](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/load-testing-with-locust?u=76281980&t=129)** And so if we go back to Locust here, I can say number of users, let's go ahead and simulate 10 and we can do -- how about, let's say, five a second?
 >
@@ -6318,13 +6232,13 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/load-testing-with-locust?u=76281980&t=185)** So trivial to build out a load test, there's no reason not to do it.
 >
-> **[3:09](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/load-testing-with-locust?u=76281980&t=189)** You could also put this into your continuous integration, continuous deployment process where you could always run a load test before you deploy to production and it has to reach some metrics.
+> **[3:09](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/load-testing-with-locust?u=76281980&t=189)** You could also put this into your [[Continuous Integration (CI)|continuous integration]], continuous deployment process where you could always run a load test before you deploy to production and it has to reach some metrics.
 >
 > **[3:21](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/load-testing-with-locust?u=76281980&t=201)** So Locust is a great tool for doing automated load testing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Load Testing]] (3), [[Python (Programming Language)|Python]] (2), [[GitHub]] (1), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[Load Testing]] (3), [[Python (Programming Language)|Python]] (2), [[GitHub]] (1), [[Kubernetes]] (1), [[Simulation]] (1)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** python (2)
 > **Cross-References:** go back to (2)
@@ -6333,8 +6247,7 @@ created: 2026-05-02
 > **Ports:** :8080 (1)
 > **Versions:** 0.0.0 (1)
 
-#### Demo: Auditing via logs
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-auditing-via-logs?u=76281980)
+#### [Demo: Auditing via logs](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-auditing-via-logs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6350,7 +6263,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-auditing-via-logs?u=76281980&t=47)** You need to go investigate that and see why BigQuery has any logs if you haven't set it up.
 >
-> **[0:53](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-auditing-via-logs?u=76281980&t=53)** Likewise, you could look at other services Kubernetes, Google App Engine, and check those out to make sure that there's nothing happening.
+> **[0:53](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-auditing-via-logs?u=76281980&t=53)** Likewise, you could look at other services [[Kubernetes]], [[Google]] App Engine, and check those out to make sure that there's nothing happening.
 >
 > **[1:01](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-auditing-via-logs?u=76281980&t=61)** The other thing that's available by default here is something called audited resource.
 >
@@ -6360,7 +6273,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-auditing-via-logs?u=76281980&t=83)** And again, you can see it by this resource type audited resource.
 >
-> **[1:28](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-auditing-via-logs?u=76281980&t=88)** So the idea here is that you don't necessarily have to specifically do anything as long as you click on "Audited resource," you can drill down into logs here, find out other things, expand nested fields, find similar entries, and even create, for example, some type of alert that you could look at -- metric alert that shows how many times you're making changes to system configuration or whether there's an anomaly that you want to look out for, for example, you know, administrative access to data.
+> **[1:28](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-auditing-via-logs?u=76281980&t=88)** So the idea here is that you don't necessarily have to specifically do anything as long as you click on "Audited resource," you can drill down into logs here, find out other things, expand nested fields, find similar entries, and even create, for example, some type of alert that you could look at -- metric alert that shows how many times you're making changes to [[System Configuration]] or whether there's an anomaly that you want to look out for, for example, you know, administrative access to data.
 >
 > **[2:02](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-auditing-via-logs?u=76281980&t=122)** All of those things can be done from this Logs Explorer page and really is set up as a default way of getting the access to APIs that are security based APIs.
 >
@@ -6368,19 +6281,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Kubernetes]] (1), [[Google]] (1), [[System Configuration]] (1), data (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (1), [[Google]] (1), [[System Configuration]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** for example (3)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
-#### Demo: Logging dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-logging-dashboard?u=76281980)
+#### [Demo: Logging dashboard](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-logging-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-logging-dashboard?u=76281980&t=8)** Here, we're inside of the Google Cloud interface for logs.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-logging-dashboard?u=76281980&t=8)** Here, we're inside of the [[Google Cloud Platform (GCP)|Google Cloud]] interface for logs.
 >
 > **[0:12](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-logging-dashboard?u=76281980&t=12)** You can see here it's under Operations, which is a good category to put it under.
 >
@@ -6396,7 +6308,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-logging-dashboard?u=76281980&t=44)** So this is one of the better ways to just initially start to see if you are new to, let's say, a GCP instance, what was actually deployed, right?
 >
-> **[0:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-logging-dashboard?u=76281980&t=54)** So in this case, we can see the majority of the logs are from the Kubernetes cluster, the second most are from Google App Engine, and the third are from the Kubernetes container, and the fourth are from BigQuery.
+> **[0:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-logging-dashboard?u=76281980&t=54)** So in this case, we can see the majority of the logs are from the [[Kubernetes]] cluster, the second most are from [[Google]] App Engine, and the third are from the Kubernetes container, and the fourth are from BigQuery.
 >
 > **[1:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-logging-dashboard?u=76281980&t=66)** So you get an overview initially, just from the count, of what's actually happening in the system.
 >
@@ -6440,7 +6352,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (3), [[Kubernetes]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), gcp (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Google]] (1)
 > **UI Navigation:** go to (4), select the (1)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (2)
@@ -6448,16 +6360,15 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Prerequisites:** configure (1)
 
-#### Demo: Cloud web security scanner
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-cloud-web-security-scanner?u=76281980)
+#### [Demo: Cloud web security scanner](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-cloud-web-security-scanner?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:07](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-cloud-web-security-scanner?u=76281980&t=7)** Here we have Google App Engine main dashboard.
+> **[0:07](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-cloud-web-security-scanner?u=76281980&t=7)** Here we have [[Google]] App Engine main dashboard.
 >
 > **[0:11](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-cloud-web-security-scanner?u=76281980&t=11)** And you can see here that I'm looking at this service and I have a URL here.
 >
-> **[0:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-cloud-web-security-scanner?u=76281980&t=15)** If I go ahead and click on this "Rust based microservice," I can play around with it.
+> **[0:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-cloud-web-security-scanner?u=76281980&t=15)** If I go ahead and click on this "[[Rust (Programming Language)|Rust]] based microservice," I can play around with it.
 >
 > **[0:20](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-cloud-web-security-scanner?u=76281980&t=20)** And I can even add, for example, a route I have that gives me random fruits.
 >
@@ -6465,7 +6376,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-cloud-web-security-scanner?u=76281980&t=27)** Looks like it's working.
 >
-> **[0:28](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-cloud-web-security-scanner?u=76281980&t=28)** Now, one of the things that is always scary about doing microservice development is, have you set it up in a way that is introduced a security hole? And one of the ways that you can look for this automatically using the Google Cloud platform is to use the Web security tool.
+> **[0:28](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-cloud-web-security-scanner?u=76281980&t=28)** Now, one of the things that is always scary about doing microservice development is, have you set it up in a way that is introduced a security hole? And one of the ways that you can look for this automatically using the [[Google Cloud Platform (GCP)|Google Cloud platform]] is to use the Web security tool.
 >
 > **[0:45](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-cloud-web-security-scanner?u=76281980&t=45)** So there's actually a tool called Web Security Scanner here.
 >
@@ -6501,25 +6412,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), web (4), [[Google Cloud Platform (GCP)|Google cloud platform]] (3), [[Google]] (1), [[Rust (Programming Language)|Rust]] (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud platform]] (3), [[Google]] (1), [[Rust (Programming Language)|Rust]] (1)
 > **Env Vars:** url (4), http (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 
-#### Demo: Querying logging output with BigQuery
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-querying-logging-output-with-bigquery?u=76281980)
+#### [Demo: Querying logging output with BigQuery](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-querying-logging-output-with-bigquery?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-querying-logging-output-with-bigquery?u=76281980&t=8)** Let's dive into how to use BigQuery with logs.
 >
-> **[0:11](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-querying-logging-output-with-bigquery?u=76281980&t=11)** This is really a killer feature of the Google Cloud platform here.
+> **[0:11](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-querying-logging-output-with-bigquery?u=76281980&t=11)** This is really a killer feature of the [[Google Cloud Platform (GCP)|Google Cloud platform]] here.
 >
 > **[0:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-querying-logging-output-with-bigquery?u=76281980&t=15)** You can see you can do queries here, obviously, and dive into different things.
 >
-> **[0:19](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-querying-logging-output-with-bigquery?u=76281980&t=19)** For example, if I want to look at the Kubernetes container, I could click on it, do some queries, et cetera.
+> **[0:19](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-querying-logging-output-with-bigquery?u=76281980&t=19)** For example, if I want to look at the [[Kubernetes]] container, I could click on it, do some queries, et cetera.
 >
 > **[0:26](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-querying-logging-output-with-bigquery?u=76281980&t=26)** But there's actually an even slicker way to do this, which is if we go over to Log router and I go ahead and I create a sink. Here, the sink could actually have as a destination BigQuery.
 >
@@ -6547,11 +6457,11 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-querying-logging-output-with-bigquery?u=76281980&t=88)** We see all this information here.
 >
-> **[1:30](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-querying-logging-output-with-bigquery?u=76281980&t=90)** So a lot of very rich information that I can actually query directly in SQL from BigQuery.
+> **[1:30](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-querying-logging-output-with-bigquery?u=76281980&t=90)** So a lot of very rich information that I can actually query directly in [[SQL]] from BigQuery.
 >
 > **[1:37](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-querying-logging-output-with-bigquery?u=76281980&t=97)** Obviously, I could even schedule this and do something with a schedule which is, which is actually pretty cool because you can actually do maybe monitoring based on that type of action.
 >
-> **[1:49](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-querying-logging-output-with-bigquery?u=76281980&t=109)** Now, the other one that I really like that's part of BigQuery is you can actually do more of like a data science style.
+> **[1:49](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-querying-logging-output-with-bigquery?u=76281980&t=109)** Now, the other one that I really like that's part of BigQuery is you can actually do more of like a [[Data Science]] style.
 >
 > **[1:56](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-querying-logging-output-with-bigquery?u=76281980&t=116)** So I could actually go into Looker Studio right here and dive into Looker Studio and actually start playing around with some kind of a query and and take a look at what's happening inside of here.
 >
@@ -6567,7 +6477,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-querying-logging-output-with-bigquery?u=76281980&t=161)** Let's go ahead and try that.
 >
-> **[2:42](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-querying-logging-output-with-bigquery?u=76281980&t=162)** You can see here, I could run this query, get the results, and do some kind of descriptive statistics or even simpler potentially would be just Google Sheets, right?
+> **[2:42](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-querying-logging-output-with-bigquery?u=76281980&t=162)** You can see here, I could run this query, get the results, and do some kind of descriptive [[Statistics]] or even simpler potentially would be just [[Google]] Sheets, right?
 >
 > **[2:52](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-querying-logging-output-with-bigquery?u=76281980&t=172)** Go right inside of Google Sheets and then start putting things together.
 >
@@ -6591,18 +6501,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Google]] (2), feature (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Google]] (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Kubernetes]] (1), [[SQL]] (1)
 > **Analogies:** for example (4)
 > **Env Vars:** sql (1), api (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Tools:** colab (1)
 
-#### Demo: Load testing with Rust
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-load-testing-with-rust?u=76281980)
+#### [Demo: Load testing with Rust](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-load-testing-with-rust?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-load-testing-with-rust?u=76281980&t=8)** All right. Let's get into load testing.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-load-testing-with-rust?u=76281980&t=8)** All right. Let's get into [[Load Testing]].
 >
 > **[0:10](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-load-testing-with-rust?u=76281980&t=10)** An important way to make sure that your application is going to do what you think it's going to do when you put it into production.
 >
@@ -6620,9 +6529,9 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-load-testing-with-rust?u=76281980&t=48)** In fact, we can double check, we can say which locust and you can see it's actually in this environment.
 >
-> **[0:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-load-testing-with-rust?u=76281980&t=54)** The only other thing we need to do is actually go to writing a Locust file and put something together where we actually map out the client.git or post or whatever it is you're doing into the actual route.
+> **[0:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-load-testing-with-rust?u=76281980&t=54)** The only other thing we need to do is actually go to writing a Locust file and put something together where we actually map out the client.[[Git]] or post or whatever it is you're doing into the actual route.
 >
-> **[1:07](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-load-testing-with-rust?u=76281980&t=67)** So this is a Rust based app engine project.
+> **[1:07](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-load-testing-with-rust?u=76281980&t=67)** So this is a [[Rust (Programming Language)|Rust]] based app engine project.
 >
 > **[1:10](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-load-testing-with-rust?u=76281980&t=70)** You can see here the code allows me to look at the routes.
 >
@@ -6646,9 +6555,9 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-load-testing-with-rust?u=76281980&t=112)** That's exactly what we want.
 >
-> **[1:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-load-testing-with-rust?u=76281980&t=114)** And now that we've got that, all we need to do is type in the word locust.
+> **[1:54](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-load-testing-with-rust?u=76281980&t=114)** And now that we've got that, all we need to do is type in the [[Microsoft Word|word]] locust.
 >
-> **[1:58](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-load-testing-with-rust?u=76281980&t=118)** And the Google Cloud environment is actually very good for doing load testing because I've already got the app deployed here.
+> **[1:58](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-load-testing-with-rust?u=76281980&t=118)** And the [[Google Cloud Platform (GCP)|Google Cloud]] environment is actually very good for doing load testing because I've already got the app deployed here.
 >
 > **[2:07](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-load-testing-with-rust?u=76281980&t=127)** Right here and there's the URL and all I need to do is just type in the word Locust and this will spawn a local environment.
 >
@@ -6722,11 +6631,11 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-load-testing-with-rust?u=76281980&t=322)** So there's a lot of ways to use the load test as a way of essentially, you know, showing what's happening with the application in real time.
 >
-> **[5:32](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-load-testing-with-rust?u=76281980&t=332)** And again, Locust is a very straightforward way to load test your application, and it works quite well with Google App Engine.
+> **[5:32](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/demo-load-testing-with-rust?u=76281980&t=332)** And again, Locust is a very straightforward way to load test your application, and it works quite well with [[Google]] App Engine.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Load Testing]] (3), application (3), [[Microsoft Word|Word]] (2), [[Git]] (1), [[Rust (Programming Language)|Rust]] (1)
+> **Frameworks & Libraries:** [[Load Testing]] (3), [[Microsoft Word|Word]] (2), [[Git]] (1), [[Rust (Programming Language)|Rust]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** make (4), pip (2), git (1)
 > **Env Vars:** url (6)
 > **UI Navigation:** go to (3), scroll down (2), toggle (1)
@@ -6735,8 +6644,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Ports:** port 8089 (1)
 
-#### Five whys
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/five-whys?u=76281980)
+#### [Five whys](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/five-whys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6782,7 +6690,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/five-whys?u=76281980&t=120)** And so then the next question we had was, why are there systems that are using Ephemeral storage without SWAP?
 >
-> **[2:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/five-whys?u=76281980&t=128)** Next, the question was resolved with the answer of DevOps specialist used to work at a top tech company and they said they don't use SWAP there.
+> **[2:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/five-whys?u=76281980&t=128)** Next, the question was resolved with the answer of [[DevOps]] specialist used to work at a top tech company and they said they don't use SWAP there.
 >
 > **[2:20](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/five-whys?u=76281980&t=140)** And the second answer was that Ephemeral storage is cheaper.
 >
@@ -6796,13 +6704,13 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/five-whys?u=76281980&t=173)** And then we asked the question, what is causing that error?
 >
-> **[2:57](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/five-whys?u=76281980&t=177)** And now we can see that the root causes that the Java Application Server configuration file allocates more memory than the machine has available.
+> **[2:57](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/five-whys?u=76281980&t=177)** And now we can see that the root causes that the [[Java]] Application [[Server Configuration]] file allocates more memory than the machine has available.
 >
 > **[3:07](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/five-whys?u=76281980&t=187)** So it was causing an issue where the application software itself consumed all the memory and because there's no SWAP to write to, then the Kernel itself would have to actually come into play.
 >
 > **[3:24](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/five-whys?u=76281980&t=204)** And this is where Part B says, "The Java kernel consumed."
 >
-> **[3:28](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/five-whys?u=76281980&t=208)** Since Java consumes all the memory, the Linux kernel kills the Java process.
+> **[3:28](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/five-whys?u=76281980&t=208)** Since Java consumes all the memory, the [[Linux]] kernel kills the Java process.
 >
 > **[3:32](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/five-whys?u=76281980&t=212)** Finally, a supervisor, which is managing processes and restarting them automatically, then created a race condition that crashed the machines.
 >
@@ -6816,18 +6724,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Java]] (4), [[Automation]] (2), application (2), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[DevOps]] (1), [[Server Configuration]] (1), [[Linux]] (1)
 > **Env Vars:** swap (5), ebs (2)
 > **Definitions:** is an  (2), is a  (2)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** go to (1)
 
-#### Using Google Courses
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-google-courses?u=76281980)
+#### [Using Google Courses](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-google-courses?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-google-courses?u=76281980&t=6)** One of the best ways to understand how to do MLOps ML engineering on the Google Cloud platform is to use the official courses that are available on developers.[google.com](https://google.com).
+> **[0:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-google-courses?u=76281980&t=6)** One of the best ways to understand how to do [[MLOps]] ML engineering on the [[Google Cloud Platform (GCP)|Google Cloud platform]] is to use the official courses that are available on developers.[[[Google]].com](https://google.com).
 >
 > **[0:18](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-google-courses?u=76281980&t=18)** Here, we have the machine learning course selection from the machine learning which goes through and shows us the foundational courses.
 >
@@ -6837,7 +6744,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-google-courses?u=76281980&t=49)** And then there's Problem Framing and Problem Framing is great because it goes through a lot of the theoretical aspects of what you need to do to do machine learning at scale.
 >
-> **[0:59](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-google-courses?u=76281980&t=59)** And then we have the other courses that are very relevant as well, which is Data Preparation and Feature Engineering.
+> **[0:59](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-google-courses?u=76281980&t=59)** And then we have the other courses that are very relevant as well, which is [[Data Preparation]] and [[Feature Engineering]].
 >
 > **[1:07](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-google-courses?u=76281980&t=67)** We also have Testing and Debugging and also Explore Advanced Courses.
 >
@@ -6847,7 +6754,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-google-courses?u=76281980&t=94)** Now in particular, I think clustering is a great advanced topic that will prepare you to study for the machine learning engineering certifications.
 >
-> **[1:44](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-google-courses?u=76281980&t=104)** Also, Generative Adversarial Networks, or GANs, are a big emerging tool inside of things like large language models, text generation, image generation.
+> **[1:44](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-google-courses?u=76281980&t=104)** Also, [[Generative Adversarial Networks (GANs)|Generative Adversarial Networks]], or GANs, are a big emerging tool inside of things like [[Large Language Models (LLM)|large language models]], text generation, image generation.
 >
 > **[1:57](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-google-courses?u=76281980&t=117)** So it's also an important concept to be aware of.
 >
@@ -6869,7 +6776,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (4), [[Engineering]] (3), [[Google Cloud Platform (GCP)|Google cloud platform]] (2), [[MLOps]] (1), data (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[Google Cloud Platform (GCP)|Google cloud platform]] (2), [[MLOps]] (1), [[Data Preparation]] (1), [[Feature Engineering]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), toggle (1)
@@ -6878,22 +6785,21 @@ created: 2026-05-02
 > **Env Vars:** api (1)
 > **Analogies:** similar to (1)
 
-#### Building a translator with Rust and Hugging Face
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-rust-huggingface-translator?u=76281980)
+#### [Building a translator with Rust and Hugging Face](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-rust-huggingface-translator?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-rust-huggingface-translator?u=76281980&t=3)** One of the most powerful ways to use Rust is to dive into using things like pre-trained models, using GPU, building high performance command line tools that you can do batch based machine learning inference against.
+> **[0:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-rust-huggingface-translator?u=76281980&t=3)** One of the most powerful ways to use [[Rust (Programming Language)|Rust]] is to dive into using things like pre-trained models, using GPU, building high performance command line tools that you can do batch based machine learning inference against.
 >
-> **[0:18](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-rust-huggingface-translator?u=76281980&t=18)** What I'm going to show you is how simple it is to use GitHub Codespaces with a GPU, enable that GPU, build up the Rust bindings for it, and take a translation tool and build it out in just a few minutes.
+> **[0:18](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-rust-huggingface-translator?u=76281980&t=18)** What I'm going to show you is how simple it is to use [[GitHub]] [[Codespaces]] with a GPU, enable that GPU, build up the Rust bindings for it, and take a translation tool and build it out in just a few minutes.
 >
 > **[0:31](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-rust-huggingface-translator?u=76281980&t=31)** Okay. Let's go ahead and get started here.
 >
-> **[0:32](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-rust-huggingface-translator?u=76281980&t=32)** I've got a repo nogibjj rust-pytorch-gpu-template the things you need to get GPUs cooking in Codespaces.
+> **[0:32](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-rust-huggingface-translator?u=76281980&t=32)** I've got a repo nogibjj rust-[[PyTorch]]-gpu-template the things you need to get GPUs cooking in Codespaces.
 >
 > **[0:42](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-rust-huggingface-translator?u=76281980&t=42)** And what I'm going to take a look at here is the diagram of what we're going to build.
 >
-> **[0:46](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-rust-huggingface-translator?u=76281980&t=46)** So to start with, you have a CUDA GPU enabled in Codespaces and then I'm going to go through and use the Rust bindings for Hugging Face.
+> **[0:46](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-rust-huggingface-translator?u=76281980&t=46)** So to start with, you have a CUDA GPU enabled in Codespaces and then I'm going to go through and use the Rust bindings for [[Hugging Face]].
 >
 > **[0:55](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-rust-huggingface-translator?u=76281980&t=55)** Again, Rust is a high performance language that allows you to build very performant tools, and then we're going to put that together and use it to enable Rust and GPU plus Hugging Face to translate a song that's in Spanish to English.
 >
@@ -6953,7 +6859,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-rust-huggingface-translator?u=76281980&t=208)** Pretty straightforward.
 >
-> **[3:29](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-rust-huggingface-translator?u=76281980&t=209)** Something you do in Python as well.
+> **[3:29](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-rust-huggingface-translator?u=76281980&t=209)** Something you do in [[Python (Programming Language)|Python]] as well.
 >
 > **[3:31](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-rust-huggingface-translator?u=76281980&t=211)** Then I build another function that reads a file and returns an array of lines of the file.
 >
@@ -7026,18 +6932,17 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** template (1)
 
-#### Using PyTorch and Rust for stable diffusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-pytorch-rust-stable-diffusion?u=76281980)
+#### [Using PyTorch and Rust for stable diffusion](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-pytorch-rust-stable-diffusion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-pytorch-rust-stable-diffusion?u=76281980&t=3)** One of the more exciting things that's happening in machine learning is deep learning.
+> **[0:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-pytorch-rust-stable-diffusion?u=76281980&t=3)** One of the more exciting things that's happening in machine learning is [[Deep Learning]].
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-pytorch-rust-stable-diffusion?u=76281980&t=8)** You can see all of the really amazing technologies from large language models to doing, for example, text to image generation with stable diffusion.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-pytorch-rust-stable-diffusion?u=76281980&t=8)** You can see all of the really amazing technologies from [[Large Language Models (LLM)|large language models]] to doing, for example, text to image generation with [[Stable Diffusion]].
 >
-> **[0:20](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-pytorch-rust-stable-diffusion?u=76281980&t=20)** And a lot of the Python programmers have been having a lot of fun with this.
+> **[0:20](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-pytorch-rust-stable-diffusion?u=76281980&t=20)** And a lot of the [[Python (Programming Language)|Python]] programmers have been having a lot of fun with this.
 >
-> **[0:24](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-pytorch-rust-stable-diffusion?u=76281980&t=24)** But one of the things that is interesting about Rust is that you can use PyTorch and you can use Hugging Face with Rust, and in fact, it can be 70 times at least faster.
+> **[0:24](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-pytorch-rust-stable-diffusion?u=76281980&t=24)** But one of the things that is interesting about [[Rust (Programming Language)|Rust]] is that you can use [[PyTorch]] and you can use [[Hugging Face]] with Rust, and in fact, it can be 70 times at least faster.
 >
 > **[0:35](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-pytorch-rust-stable-diffusion?u=76281980&t=35)** And if you do care about portability, performance, you know, packaging together, maybe a pre-trained model and then giving that to somebody, there is no other option in many ways than Rust, because Rust can package all that together and you can use the amazing packaging tools like cargo and also use cargo to execute different iterations.
 >
@@ -7045,7 +6950,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-pytorch-rust-stable-diffusion?u=76281980&t=64)** And so what we're going to do is go through step by step how to actually use stable diffusion that has the PyTorch bindings in Rust.
 >
-> **[1:12](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-pytorch-rust-stable-diffusion?u=76281980&t=72)** It will also tap into a GPU and see how that GPU is used in GitHub Codespaces.
+> **[1:12](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-pytorch-rust-stable-diffusion?u=76281980&t=72)** It will also tap into a GPU and see how that GPU is used in [[GitHub]] [[Codespaces]].
 >
 > **[1:17](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-pytorch-rust-stable-diffusion?u=76281980&t=77)** All right. Let's go ahead and get started. Here we have a repo LaurentMazare and inside he has a tch-rs package here.
 >
@@ -7157,7 +7062,7 @@ created: 2026-05-02
 >
 > **[6:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-pytorch-rust-stable-diffusion?u=76281980&t=375)** It's going to crank through here and it's going to build out this example again, just allows us to quickly print -- crank on things.
 >
-> **[6:22](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-pytorch-rust-stable-diffusion?u=76281980&t=382)** So even in many ways, if someone was a Rust expert, they can do what I did, which is recreate the stable diffusers, you know, link here and actually just build this as a prototyping tool to use stable diffusion.
+> **[6:22](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-pytorch-rust-stable-diffusion?u=76281980&t=382)** So even in many ways, if someone was a Rust expert, they can do what I did, which is recreate the stable diffusers, you know, link here and actually just build this as a [[Prototyping]] tool to use stable diffusion.
 >
 > **[6:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-pytorch-rust-stable-diffusion?u=76281980&t=398)** So I think there's even extensive ways that someone might want to leverage the Rust ecosystem, even if they don't want to become a Rust expert.
 >
@@ -7182,16 +7087,15 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 
-#### Using Rust with PyTorch
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980)
+#### [Using Rust with PyTorch](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980&t=3)** One of the things I hear a lot about using Rust is there's this kind of hesitancy about, you know, well, it's a newer language, even though it's been around since 2010, and maybe people are concerned about, you know, can it be used in the real world?
+> **[0:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980&t=3)** One of the things I hear a lot about using [[Rust (Programming Language)|Rust]] is there's this kind of hesitancy about, you know, well, it's a newer language, even though it's been around since 2010, and maybe people are concerned about, you know, can it be used in the real world?
 >
 > **[0:19](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980&t=19)** Well, I wanted to dispel a few things.
 >
-> **[0:22](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980&t=22)** First, I'm going to walk you through how to train models with PyTorch and invoke them using GPUs with the rust-pytorch bindings.
+> **[0:22](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980&t=22)** First, I'm going to walk you through how to train models with [[PyTorch]] and invoke them using GPUs with the rust-pytorch bindings.
 >
 > **[0:29](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980&t=29)** And I'm also going to talk a little bit about Firecracker.
 >
@@ -7201,7 +7105,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980&t=40)** If I could imagine the biggest possible, you know, server based execution of ARM in the world, it's going to be on AWS, right?
 >
-> **[0:49](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980&t=49)** They they are the £800 gorilla of cloud computing.
+> **[0:49](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980&t=49)** They they are the £800 gorilla of [[Cloud Computing]].
 >
 > **[0:53](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980&t=53)** And, in fact, one of their most popular services is AWS Lambda and what has it written in is written in Rust.
 >
@@ -7263,7 +7167,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980&t=263)** And this is really just copying the code that was from the main author.
 >
-> **[4:27](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980&t=267)** And then if I want to look at mnist-cli-gpu, we could take a look at that as well.
+> **[4:27](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980&t=267)** And then if I want to look at mnist-[[CLI]]-gpu, we could take a look at that as well.
 >
 > **[4:33](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980&t=273)** And if I want to cd into that one, we can go into that and say, mnist-cli-gpu, and what does this code do?
 >
@@ -7285,7 +7189,7 @@ created: 2026-05-02
 >
 > **[5:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980&t=338)** And then finally, this is the part where I actually build out the neural network and then I go through here and I run my code.
 >
-> **[5:47](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980&t=347)** So it's not that much different than looking at Python code here.
+> **[5:47](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980&t=347)** So it's not that much different than looking at [[Python (Programming Language)|Python]] code here.
 >
 > **[5:51](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980&t=351)** And if we want to go through and reproduce it, all we need to do is just run this command.
 >
@@ -7305,7 +7209,7 @@ created: 2026-05-02
 >
 > **[6:17](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980&t=377)** We see this thing's rapidly saturating the GPU, got this thing cranking and we're able to train this model.
 >
-> **[6:24](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980&t=384)** So it's really a pretty good tool for people that want to use high performance systems programming languages to train deep learning models.
+> **[6:24](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980&t=384)** So it's really a pretty good tool for people that want to use high performance systems programming languages to train [[Deep Learning]] models.
 >
 > **[6:36](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980&t=396)** My experience with the PyTorch bindings for Rust is that they're extremely good, and you can see here that it also has this nice side effect of the packaging is much more simple than Python because it uses cargo, which really makes things very easy to play around with.
 >
@@ -7315,7 +7219,7 @@ created: 2026-05-02
 >
 > **[7:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980&t=425)** And a good example of this, well, this thing's running they'll take a look at is there's something called Sonos track. This is really an emerging trend here, which is that people, I think, are seriously considering how to actually package together models using portable formats like Onyx and actually put together tools and then give those tools to other people.
 >
-> **[7:26](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980&t=446)** And I think this is really the future of one version of MLOps is to package your models together and actually distribute them to other people. So I'd heavily encourage people to take a look at this.
+> **[7:26](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980&t=446)** And I think this is really the future of one version of [[MLOps]] is to package your models together and actually distribute them to other people. So I'd heavily encourage people to take a look at this.
 >
 > **[7:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/using-rust-with-pytorch?u=76281980&t=458)** The more people do demos, the more we take a look at these kinds of examples with a systems programming language like Rust, I think the MLOps community will deeply benefit from these kinds of command line tools.
 >
@@ -7325,7 +7229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PyTorch]] (15), [[Rust (Programming Language)|Rust]] (13), aws (7), cd (2), [[CLI]] (2)
+> **Frameworks & Libraries:** [[PyTorch]] (15), [[Rust (Programming Language)|Rust]] (13), [[CLI]] (2), [[Python (Programming Language)|Python]] (2), [[MLOps]] (2)
 > **Env Vars:** aws (7), gpu (6), readme (2), arm (1)
 > **CLI Commands:** aws (7), cargo (3), cd (2), python (2), make (1)
 > **UI Navigation:** go to (8)
@@ -7334,24 +7238,23 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1), install (1)
 
-#### Building a CUDA GPU stress test
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-a-cuda-gpu-stress-test?u=76281980)
+#### [Building a CUDA GPU stress test](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-a-cuda-gpu-stress-test?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-a-cuda-gpu-stress-test?u=76281980&t=3)** One of the more powerful ways to use Rust is to build a systems tool that talks to a GPU.
+> **[0:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-a-cuda-gpu-stress-test?u=76281980&t=3)** One of the more powerful ways to use [[Rust (Programming Language)|Rust]] is to build a systems tool that talks to a GPU.
 >
-> **[0:09](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-a-cuda-gpu-stress-test?u=76281980&t=9)** Fortunately, because PyTorch bindings work so well with Rust, what I'm going to do is piece together a tool that can not only talk to the CPU and saturated via PyTorch, but also can talk to a CUDA enabled GPU saturated with PyTorch and then use some of the advantages of Rust, which is the true cause that allows you to spawn a pool of threads and then send data into a GPU to try to get the most out of it in terms of a stress test.
+> **[0:09](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-a-cuda-gpu-stress-test?u=76281980&t=9)** Fortunately, because [[PyTorch]] bindings work so well with Rust, what I'm going to do is piece together a tool that can not only talk to the CPU and saturated via PyTorch, but also can talk to a CUDA enabled GPU saturated with PyTorch and then use some of the advantages of Rust, which is the true cause that allows you to spawn a pool of threads and then send data into a GPU to try to get the most out of it in terms of a stress test.
 >
 > **[0:38](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-a-cuda-gpu-stress-test?u=76281980&t=38)** Let's go ahead and build that tool in just a few seconds.
 >
 > **[0:41](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-a-cuda-gpu-stress-test?u=76281980&t=41)** Let's take a look at the architecture of how you could build a stress test tool for a CUDA enabled GPU by using the systems programming capabilities of Rust and the helpful rust-pytorch bindings.
 >
-> **[0:55](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-a-cuda-gpu-stress-test?u=76281980&t=55)** First up, we have to have access to a CUDA enabled GPU with GitHub Codespaces.
+> **[0:55](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-a-cuda-gpu-stress-test?u=76281980&t=55)** First up, we have to have access to a CUDA enabled GPU with [[GitHub]] [[Codespaces]].
 >
 > **[1:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-a-cuda-gpu-stress-test?u=76281980&t=60)** That's one way to do it.
 >
-> **[1:01](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-a-cuda-gpu-stress-test?u=76281980&t=61)** You could also be a AWS instance or GCP instance or an Azure instance.
+> **[1:01](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-a-cuda-gpu-stress-test?u=76281980&t=61)** You could also be a AWS instance or GCP instance or an [[Microsoft Azure|Azure]] instance.
 >
 > **[1:06](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-a-cuda-gpu-stress-test?u=76281980&t=66)** We then configure NVIDIA SMI monitoring.
 >
@@ -7393,7 +7296,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-a-cuda-gpu-stress-test?u=76281980&t=175)** Let's go ahead and take a look at the library code first. Here, inside of the library code, we have functions that are built, and each function is quite simple.
 >
-> **[3:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-a-cuda-gpu-stress-test?u=76281980&t=185)** So I have the rayon imports, I have the TensorFlow imports, but if we look at this, you can see that I build a load test and all it's doing is sending a vector into the device.
+> **[3:05](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-a-cuda-gpu-stress-test?u=76281980&t=185)** So I have the rayon imports, I have the [[TensorFlow]] imports, but if we look at this, you can see that I build a load test and all it's doing is sending a vector into the device.
 >
 > **[3:17](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-a-cuda-gpu-stress-test?u=76281980&t=197)** In this case, it's a CPU and it's going to print out what's happening.
 >
@@ -7485,11 +7388,11 @@ created: 2026-05-02
 >
 > **[7:26](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-a-cuda-gpu-stress-test?u=76281980&t=446)** And you can see here, Rust is the perfect tool to do training, to do inference, to build portable binary tools.
 >
-> **[7:32](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-a-cuda-gpu-stress-test?u=76281980&t=452)** And really Rust is the systems tool that is an ideal tool for MLOps.
+> **[7:32](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/building-a-cuda-gpu-stress-test?u=76281980&t=452)** And really Rust is the systems tool that is an ideal tool for [[MLOps]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (11), [[PyTorch]] (8), data (4), next (3), traffic (3)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (11), [[PyTorch]] (8), [[GitHub]] (1), [[Codespaces]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** gpu (21), cpu (11), cuda (5), tgpu (2), aws (1)
 > **CLI Commands:** cargo (6), make (3), aws (1)
 > **Tools:** command line (2), github (1)
@@ -7503,8 +7406,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7512,11 +7414,11 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=3)** Let's wrap this course up and talk about everything we covered in the entire certification course.
 >
-> **[0:09](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=9)** First up, we talked about the certification itself and some of the key learnings, including looking at the exam guide, also looking at the official Google material and doing labs.
+> **[0:09](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=9)** First up, we talked about the certification itself and some of the key learnings, including looking at the exam guide, also looking at the official [[Google]] material and doing labs.
 >
 > **[0:22](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=22)** We also talked about how to obtain the skills to pass the exam.
 >
-> **[0:26](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=26)** Really, this comes down to practicing on the Google Cloud platform.
+> **[0:26](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=26)** Really, this comes down to practicing on the [[Google Cloud Platform (GCP)|Google Cloud platform]].
 >
 > **[0:31](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=31)** We also talked about how to translate business challenges into ML use cases.
 >
@@ -7524,7 +7426,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=39)** This is actually one of the more powerful ways to get a huge advantage over other people is to use advanced AI technology to help you build out code, debug code.
 >
-> **[0:50](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=50)** And we also talked about how MLOps at scale works with GitHub.
+> **[0:50](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=50)** And we also talked about how [[MLOps]] at scale works with [[GitHub]].
 >
 > **[0:56](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=56)** We also talked about AI enabled workflows as well, which is a very powerful way to build out solutions that include using pre-trained models.
 >
@@ -7548,7 +7450,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=115)** The MLOps hierarchy of needs is a critical component here.
 >
-> **[1:59](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=119)** Really where you start with is DevOps and build up from there, including DataOps and also building business intelligence solutions that feed back into the MLOps hierarchy.
+> **[1:59](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=119)** Really where you start with is [[DevOps]] and build up from there, including DataOps and also building [[Business Intelligence (BI)|business intelligence]] solutions that feed back into the MLOps hierarchy.
 >
 > **[2:13](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=133)** There are hidden costs with a bespoke system and it's important to understand how to identify the proper platforms you can use versus building everything yourself.
 >
@@ -7560,7 +7462,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=175)** So are you actually identifying, you know, how to be reliable when you're building engineering solutions and are you operationalizing things?
 >
-> **[3:04](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=184)** We also dove into reproducible workflows which are critical when you're building out machine learning solutions in terms of building data pipelines and performing exploratory data analysis.
+> **[3:04](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=184)** We also dove into reproducible workflows which are critical when you're building out machine learning solutions in terms of building [[Data Pipelines]] and performing exploratory data analysis.
 >
 > **[3:15](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=195)** It's hard to beat Colab.
 >
@@ -7570,27 +7472,27 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=199)** It's got lots of labs that you can take a look at, and we played around with a few of those.
 >
-> **[3:24](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=204)** Exploratory data analysis for life expectancy was one of the projects we dove into, and it's a good starting point to do other things when you're doing data science for machine learning engineering.
+> **[3:24](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=204)** Exploratory data analysis for life expectancy was one of the projects we dove into, and it's a good starting point to do other things when you're doing [[Data Science]] for machine learning engineering.
 >
-> **[3:37](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=217)** We also talked about how virtual environments and the Python packaging tool Pip are good tools to work with when you're doing data science.
+> **[3:37](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=217)** We also talked about how virtual environments and the [[Python (Programming Language)|Python]] packaging tool Pip are good tools to work with when you're doing data science.
 >
 > **[3:46](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=226)** We also talked about graphing data for exploratory data analysis, labeling and cleaning data, scaling data, and also how to use BigQuery data pipelines with Colab, which is an emerging new technique.
 >
-> **[4:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=240)** We also talked about building training and scaling models, so we got into feature engineering concepts, also how to extract data from public data sets, including BigQuery, which is really a huge repository of public datasets.
+> **[4:00](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=240)** We also talked about building training and scaling models, so we got into [[Feature Engineering]] concepts, also how to extract data from public data sets, including BigQuery, which is really a huge repository of public datasets.
 >
-> **[4:16](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=256)** We got into exploratory data analysis with Google BigQuery using the TensorFlow playground to get ideas about the intuitions behind deep learning.
+> **[4:16](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=256)** We got into exploratory data analysis with Google BigQuery using the [[TensorFlow]] playground to get ideas about the intuitions behind [[Deep Learning]].
 >
 > **[4:26](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=266)** We also went into overfitting versus underfitting, selecting the right metrics for training models.
 >
 > **[4:32](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=272)** Looking at GPU enabled Docker machines and also how to fine-tune and use transfer learning to tweak pre-trained models.
 >
-> **[4:43](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=283)** We also dove into implementing serving pipelines and talked about GPU enabled Docker, also Rust pre-trained PyTorch microservices and Rust in particular is an emerging language for using MLOps.
+> **[4:43](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=283)** We also dove into implementing serving pipelines and talked about GPU enabled Docker, also [[Rust (Programming Language)|Rust]] pre-trained [[PyTorch]] [[Microservices]] and Rust in particular is an emerging language for using MLOps.
 >
 > **[4:56](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=296)** And the reason why it's so important is that it has low memory safety and it can distribute compiled binaries unlike scripting languages like Python.
 >
 > **[5:08](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=308)** We also went into a demo of a pre-trained model with PyTorch.
 >
-> **[5:12](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=312)** Finally, we talked about monitoring and troubleshooting ML solutions, including doing load testing with Rust.
+> **[5:12](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=312)** Finally, we talked about monitoring and troubleshooting ML solutions, including doing [[Load Testing]] with Rust.
 >
 > **[5:19](https://www.linkedin.com/learning/google-cloud-professional-machine-learning-engineer-cert-prep/next-steps-24566420?u=76281980&t=319)** We dove into Five Whys, which is a technique you can use to get down to the bottom of a problem.
 >
@@ -7622,7 +7524,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[MLOps]] (5), [[Google]] (4), ai (4), next (3)
+> **Frameworks & Libraries:** [[MLOps]] (5), [[Google]] (4), [[Rust (Programming Language)|Rust]] (3), [[Data Pipelines]] (2), [[Data Science]] (2)
 > **Definitions:** is a  (6), is an  (3)
 > **CLI Commands:** python (2), docker (2), make (2), pip (1)
 > **Cross-References:** we talked about (4), we covered (1)

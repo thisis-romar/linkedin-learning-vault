@@ -97,14 +97,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with Angular
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/getting-started-with-angular?u=76281980)
+#### [Getting started with Angular](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/getting-started-with-angular?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/getting-started-with-angular?u=76281980&t=1)** - Have you ever wanted to build a web application?
 >
-> **[0:04](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/getting-started-with-angular?u=76281980&t=4)** Emerging technologies like [ASP.NET](https://ASP.NET) Web API and JavaScript frameworks like Angular make it easy to design and build single-page applications.
+> **[0:04](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/getting-started-with-angular?u=76281980&t=4)** Emerging technologies like [[[ASP.NET]]](https://ASP.NET) Web API and [[JavaScript]] frameworks like [[Angular]] make it easy to design and build single-page applications.
 >
 > **[0:14](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/getting-started-with-angular?u=76281980&t=14)** A web API is a great framework for exposing your data and services and Angular is a great JavaScript framework for building highly interactive web applications.
 >
@@ -120,19 +119,18 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/getting-started-with-angular?u=76281980&t=71)** Hi, I am Ervis Trupja and I specialize in building enterprise level web apps.
 >
-> **[1:17](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/getting-started-with-angular?u=76281980&t=77)** Join me in my LinkedIn Learning course as we explore building web apps using Angular and .NET Core Web API.
+> **[1:17](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/getting-started-with-angular?u=76281980&t=77)** Join me in my [[LinkedIn]] Learning course as we explore building web apps using Angular and .NET Core Web API.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (6), web (6), api (3), [[ASP.NET Web API]] (2), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[Angular]] (6), [[ASP.NET Web API]] (2), [[JavaScript]] (2), [[LinkedIn]] (1)
 > **Env Vars:** api (5), net (3), asp (2)
 > **URLs:** [asp.net](https://asp.net) (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - have (1)
 
-#### What you should know already
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/what-you-should-know-already?u=76281980)
+#### [What you should know already](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/what-you-should-know-already?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -140,17 +138,17 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/what-you-should-know-already?u=76281980&t=5)** To build our apps, I'm going to use Visual Code and .NET Core 3.0, or any version of .NET Core greater than 2.0 should work just fine.
 >
-> **[0:15](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/what-you-should-know-already?u=76281980&t=15)** To generate our services and components, I'll be using Angular CLI.
+> **[0:15](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/what-you-should-know-already?u=76281980&t=15)** To generate our services and components, I'll be using [[Angular CLI]].
 >
 > **[0:20](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/what-you-should-know-already?u=76281980&t=20)** To test our API endpoints, I'll be using Postman, and Bootstrap for designing pages, so having a basic understanding of Bootstrap is recommended but not required.
 >
-> **[0:32](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/what-you-should-know-already?u=76281980&t=32)** This is not an introduction course, so I assume that you are already familiar with Angular concepts like components, services, injection, et cetera, and also with API concepts like controller, API endpoint, et cetera.
+> **[0:32](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/what-you-should-know-already?u=76281980&t=32)** This is not an introduction course, so I assume that you are already familiar with [[Angular]] concepts like components, services, injection, et cetera, and also with API concepts like controller, API endpoint, et cetera.
 >
 > **[0:47](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/what-you-should-know-already?u=76281980&t=47)** Throughout this course, if you would like to follow along while I'm coding, you can download the exercise files from the course page.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), [[Angular CLI]] (1), [[Angular]] (1)
+> **Frameworks & Libraries:** [[Angular CLI]] (1), [[Angular]] (1)
 > **Env Vars:** api (3), net (2), cli (1)
 > **Versions:** 3.0 (1), 2.0 (1)
 > **Exercise Files:** download the (1), exercise files (1)
@@ -164,8 +162,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Demo application overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/demo-application-overview?u=76281980)
+#### [Demo application overview](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/demo-application-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -181,7 +178,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/demo-application-overview?u=76281980&t=38)** And in here, choose any of the providers to log in to the account.
 >
-> **[0:42](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/demo-application-overview?u=76281980&t=42)** So I'll choose Google in my case.
+> **[0:42](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/demo-application-overview?u=76281980&t=42)** So I'll choose [[Google]] in my case.
 >
 > **[0:45](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/demo-application-overview?u=76281980&t=45)** Once you are logged in to the account, you'll see two additional buttons at the top right.
 >
@@ -217,7 +214,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (1), [[Google]] (1), data (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Cross-References:** go back to (2)
 > **Prerequisites:** configure (2)
 > **Versions:** 4.5 (1)
@@ -225,12 +222,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### .NET Core templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/dot-net-core-templates?u=76281980)
+#### [.NET Core templates](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/dot-net-core-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/dot-net-core-templates?u=76281980&t=0)** - [Instructor] To create our app we are going to use the default templates that come with .NET Core and to do so, we are going to use the .NET Core CLI, or the command line interface.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/dot-net-core-templates?u=76281980&t=0)** - [Instructor] To create our app we are going to use the default templates that come with .NET Core and to do so, we are going to use the .NET Core [[CLI]], or the command line interface.
 >
 > **[0:13](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/dot-net-core-templates?u=76281980&t=13)** The .NET Core CLI is a new cross platform tool chain for developing .NET Core apps.
 >
@@ -240,7 +236,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/dot-net-core-templates?u=76281980&t=40)** But, what is important in our case is the templates that we can use to build applications.
 >
-> **[0:46](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/dot-net-core-templates?u=76281980&t=46)** Some of them are the mvc to create [ASP.NET](https://ASP.NET) Core MVC applications, the angular to create [ASP.NET](https://ASP.NET) Core Angular apps, or if you want to create React.js apps, in this case you can use the react keyword.
+> **[0:46](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/dot-net-core-templates?u=76281980&t=46)** Some of them are the mvc to create [[[ASP.NET]]](https://ASP.NET) Core MVC applications, the [[Angular]] to create [ASP.NET](https://ASP.NET) Core Angular apps, or if you want to create [[React.js]] apps, in this case you can use the [[React.js|react]] keyword.
 >
 > **[1:04](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/dot-net-core-templates?u=76281980&t=64)** You can also use the webapi keywork to create [ASP.NET](https://ASP.NET) Core Web API projects.
 >
@@ -288,7 +284,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (6), [[CLI]] (3), [[ASP.NET Core]] (3), [[Programming]] (1), [[React.js]] (1)
+> **Frameworks & Libraries:** [[Angular]] (6), [[CLI]] (3), [[ASP.NET Core]] (3), [[React.js]] (1), [[React.js|React]] (1)
 > **Env Vars:** net (11), cli (3), asp (3), mvc (1), api (1)
 > **CLI Commands:** dotnet (6), make (1)
 > **UI Navigation:** go to (4), scroll up (1), scroll down (1), click on (1)
@@ -297,12 +293,11 @@ created: 2026-05-02
 > **Versions:** 3.0 (1)
 > **Tools:** command line (1)
 
-#### Web API architectural overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/web-api-architectural-overview?u=76281980)
+#### [Web API architectural overview](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/web-api-architectural-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/web-api-architectural-overview?u=76281980&t=0)** - [Instructor] The .NET new Angular command created some default files within the solution.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/web-api-architectural-overview?u=76281980&t=0)** - [Instructor] The .NET new [[Angular]] command created some default files within the solution.
 >
 > **[0:06](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/web-api-architectural-overview?u=76281980&t=6)** Now this solution has both the Web API and Angular project-related files.
 >
@@ -346,13 +341,13 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/web-api-architectural-overview?u=76281980&t=158)** The ConfigureSevices method is used to configure dependency interaction.
 >
-> **[2:42](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/web-api-architectural-overview?u=76281980&t=162)** And on the other hand we have the Configure method which is used to setup middle wares, routing rules, et cetera.
+> **[2:42](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/web-api-architectural-overview?u=76281980&t=162)** And on the other hand we have the Configure method which is used to setup middle wares, [[Routing]] rules, et cetera.
 >
 > **[2:51](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/web-api-architectural-overview?u=76281980&t=171)** So for example if we want to use a service in the future, we can configure it inside the ConfigureServices method.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (4), api (4), next (4), web (3), database (1)
+> **Frameworks & Libraries:** [[Angular]] (4), [[Routing]] (1)
 > **Env Vars:** api (4), net (3)
 > **Prerequisites:** configure (4), setup (1)
 > **Definitions:** known as (3)
@@ -361,12 +356,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Angular architectural overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-architectural-overview?u=76281980)
+#### [Angular architectural overview](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-architectural-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-architectural-overview?u=76281980&t=0)** - [Narrator] We have already mentioned that the .NET new Angular command created both a web API and an Angular project.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-architectural-overview?u=76281980&t=0)** - [Narrator] We have already mentioned that the .NET new [[Angular]] command created both a web API and an Angular project.
 >
 > **[0:09](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-architectural-overview?u=76281980&t=9)** So let's go to visual code and see which are the default Angular files that were created.
 >
@@ -374,7 +368,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-architectural-overview?u=76281980&t=25)** Here we have three main folders.
 >
-> **[0:28](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-architectural-overview?u=76281980&t=28)** The e2e which is used for unit testing related code.
+> **[0:28](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-architectural-overview?u=76281980&t=28)** The e2e which is used for [[Unit Testing]] related code.
 >
 > **[0:34](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-architectural-overview?u=76281980&t=34)** We have the node modules where we have all the libraries that we need to use to run our Angular app.
 >
@@ -384,9 +378,9 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-architectural-overview?u=76281980&t=58)** Inside the app we define the modules.
 >
-> **[1:02](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-architectural-overview?u=76281980&t=62)** Inside the app we have all components like counter, fetch data et cetera.
+> **[1:02](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-architectural-overview?u=76281980&t=62)** Inside the app we have all components like counter, [[Fetch]] data et cetera.
 >
-> **[1:11](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-architectural-overview?u=76281980&t=71)** Other than that we have the app.component.html which is know as the entry component file in Angular applications.
+> **[1:11](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-architectural-overview?u=76281980&t=71)** Other than that we have the app.component.[[HTML]] which is know as the entry component file in Angular applications.
 >
 > **[1:20](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-architectural-overview?u=76281980&t=80)** If we open this file we're going to see in here that we have defined the menu and the body of our application.
 >
@@ -402,7 +396,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-architectural-overview?u=76281980&t=139)** Next we have the index.html which is the file where we define the route component where in this case we have defined the app-route.
 >
-> **[2:30](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-architectural-overview?u=76281980&t=150)** And then if you scroll down you will see the angular.json file where we define the Angular related configurations like for example where do we get the styles from?
+> **[2:30](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-architectural-overview?u=76281980&t=150)** And then if you scroll down you will see the angular.[[JSON]] file where we define the Angular related configurations like for example where do we get the styles from?
 >
 > **[2:41](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-architectural-overview?u=76281980&t=161)** Which is the assets folder?
 >
@@ -412,7 +406,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (12), next (4), [[HTML]] (2), [[JSON]] (2), web (1)
+> **Frameworks & Libraries:** [[Angular]] (12), [[HTML]] (2), [[JSON]] (2), [[Unit Testing]] (1), [[Fetch]] (1)
 > **File Paths:** app.component.html (1), app.module.ts (1), index.html (1), angular.json (1), package.json (1)
 > **Analogies:** for example (3)
 > **Env Vars:** net (1), api (1)
@@ -425,8 +419,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating data models
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/creating-data-models?u=76281980)
+#### [Creating data models](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/creating-data-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -498,15 +491,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (2)
 > **UI Navigation:** go to (2), click on (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Adding a service and data
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/adding-a-service-and-data?u=76281980)
+#### [Adding a service and data](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/adding-a-service-and-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -626,7 +617,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), next (5), generic (2), database (1)
 > **Code Identifiers:** ibookservice (3), bookservice (2), listbook (1), usingsystem (1), usingsummaries (1)
 > **UI Navigation:** go to (7)
 > **Cross-References:** go back to (2)
@@ -634,9 +624,9 @@ created: 2026-05-02
 > **File Paths:** data.txt (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
+> **Definitions:** means that (1)
 
-#### Create API endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/create-api-endpoint?u=76281980)
+#### [Create API endpoint](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/create-api-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -728,14 +718,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), api (3)
 > **Env Vars:** api (2), http (1), url (1)
 > **UI Navigation:** go to (3)
 > **Prerequisites:** set up (2)
 > **Speakers:** - [narrator] (1)
 
-#### Read API endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/read-api-endpoint?u=76281980)
+#### [Read API endpoint](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/read-api-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -775,14 +763,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), api (2), feature (1), next (1)
 > **Env Vars:** api (2), http (1), url (1)
 > **UI Navigation:** go to (3)
 > **Code Identifiers:** allbooks (2)
 > **Speakers:** - [instructor] (1)
 
-#### Update API endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/update-api-endpoint?u=76281980)
+#### [Update API endpoint](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/update-api-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -834,13 +820,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), api (1), next (1)
 > **Env Vars:** http (2), url (2), api (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delete API endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/delete-api-endpoint?u=76281980)
+#### [Delete API endpoint](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/delete-api-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -916,18 +900,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), data (1)
 > **UI Navigation:** go to (4), scroll down (2)
 > **Env Vars:** url (3), api (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing API endpoints using Postman
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/testing-api-endpoints-using-postman?u=76281980)
+#### [Testing API endpoints using Postman](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/testing-api-endpoints-using-postman?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/testing-api-endpoints-using-postman?u=76281980&t=0)** - [Tutor] Now that we have created all the API endpoints that we needed, it's time to implement the Angular client App to consume them.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/testing-api-endpoints-using-postman?u=76281980&t=0)** - [Tutor] Now that we have created all the API endpoints that we needed, it's time to implement the [[Angular]] client App to consume them.
 >
 > **[0:09](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/testing-api-endpoints-using-postman?u=76281980&t=9)** But before we do so, let us test the work as expected.
 >
@@ -957,7 +939,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/testing-api-endpoints-using-postman?u=76281980&t=120)** Let's go to the Body request because that's from where we want to send the new data and then go to the Headers.
 >
-> **[2:09](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/testing-api-endpoints-using-postman?u=76281980&t=129)** In here write, Content-Type, application/json.
+> **[2:09](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/testing-api-endpoints-using-postman?u=76281980&t=129)** In here write, Content-Type, application/[[JSON]].
 >
 > **[2:19](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/testing-api-endpoints-using-postman?u=76281980&t=139)** Then go to Body, then raw and paste it in here.
 >
@@ -1015,7 +997,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), data (2), [[Angular]] (1), application (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Angular]] (1), [[JSON]] (1)
 > **API Endpoints:** get  (5), post  (2), /api/books/getbooks (1), put  (1), delete
  (1)
 > **Env Vars:** api (3), post (3), url (1), put (1), delete (1)
@@ -1030,14 +1012,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Angular key concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-key-concepts?u=76281980)
+#### [Angular key concepts](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-key-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-key-concepts?u=76281980&t=0)** - [Instructor] Angular is an open source web application framework developed by Google.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-key-concepts?u=76281980&t=0)** - [Instructor] [[Angular]] is an open source web application framework developed by [[Google]].
 >
-> **[0:05](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-key-concepts?u=76281980&t=5)** The framework has many features like two way data binding, templating, routing, components, dependency injection and so on, but which are the main concepts and what is the main purpose in Angular?
+> **[0:05](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-key-concepts?u=76281980&t=5)** The framework has many features like two way data binding, templating, [[Routing]], components, [[Dependency Injection]] and so on, but which are the main concepts and what is the main purpose in Angular?
 >
 > **[0:20](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-key-concepts?u=76281980&t=20)** One of the key concepts in Angular are modules.
 >
@@ -1051,7 +1032,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-key-concepts?u=76281980&t=58)** Inside a component we have template, directives, and data binding.
 >
-> **[1:04](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-key-concepts?u=76281980&t=64)** A template is an HTML that defines how the view for that component is rendered.
+> **[1:04](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-key-concepts?u=76281980&t=64)** A template is an [[HTML]] that defines how the view for that component is rendered.
 >
 > **[1:10](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/angular-key-concepts?u=76281980&t=70)** On the other hand, directives are custom attributes that enhance the HTML syntax and are used to attach behaviors to specific elements on that page.
 >
@@ -1073,19 +1054,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (7), data (4), [[HTML]] (4), [[Dependency Injection]] (3), web application (1)
+> **Frameworks & Libraries:** [[Angular]] (7), [[HTML]] (4), [[Dependency Injection]] (3), [[Google]] (1), [[Routing]] (1)
 > **Definitions:** is a  (3), is an  (2), known as (1), means that (1)
 > **Env Vars:** html (4), url (1), css (1)
 > **Exercise Files:** template (4)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generating components and services
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/generating-components-and-services?u=76281980)
+#### [Generating components and services](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/generating-components-and-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/generating-components-and-services?u=76281980&t=0)** - [Narrator] Before we start developing our Angular app, let us first create all the components and services that we will use.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/generating-components-and-services?u=76281980&t=0)** - [Narrator] Before we start developing our [[Angular]] app, let us first create all the components and services that we will use.
 >
 > **[0:08](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/generating-components-and-services?u=76281980&t=8)** A component in Angular represents a single feature.
 >
@@ -1095,9 +1075,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/generating-components-and-services?u=76281980&t=26)** So let's go to visual code and see this in action.
 >
-> **[0:30](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/generating-components-and-services?u=76281980&t=30)** Before we create anything in here, let us install the angular CLI which is an Angular Command Line Interface used for creating components, services, etc.
+> **[0:30](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/generating-components-and-services?u=76281980&t=30)** Before we create anything in here, let us install the [[Angular CLI]] which is an Angular Command Line Interface used for creating components, services, etc.
 >
-> **[0:43](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/generating-components-and-services?u=76281980&t=43)** For that, right-click in here and then go to open in terminal and then write mpm install-g to install in globally at Angular/cli.
+> **[0:43](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/generating-components-and-services?u=76281980&t=43)** For that, right-click in here and then go to open in terminal and then write mpm install-g to install in globally at Angular/[[CLI]].
 >
 > **[1:03](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/generating-components-and-services?u=76281980&t=63)** In here, press Enter.
 >
@@ -1187,7 +1167,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (4), [[Angular CLI]] (4), feature (2), web (1), api (1)
+> **Frameworks & Libraries:** [[Angular]] (4), [[Angular CLI]] (4), [[CLI]] (1)
 > **UI Navigation:** go to (4), right-click (3), scroll down (1)
 > **Env Vars:** cli (4), api (1)
 > **Tools:** terminal (4), command line (1)
@@ -1196,12 +1176,11 @@ created: 2026-05-02
 > **File Paths:** app.module.ts (3)
 > **Cross-References:** go back to (1)
 
-#### Cleaning up code and updating the router
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/cleaning-up-code-and-updating-the-router?u=76281980)
+#### [Cleaning up code and updating the router](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/cleaning-up-code-and-updating-the-router?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/cleaning-up-code-and-updating-the-router?u=76281980&t=0)** - [Instructor] Before we implement anything new, let us go to our Angular app and clean up the code from the existing components that we do not need.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/cleaning-up-code-and-updating-the-router?u=76281980&t=0)** - [Instructor] Before we implement anything new, let us go to our [[Angular]] app and clean up the code from the existing components that we do not need.
 >
 > **[0:09](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/cleaning-up-code-and-updating-the-router?u=76281980&t=9)** Also, let us update the router so it uses our components.
 >
@@ -1213,7 +1192,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/cleaning-up-code-and-updating-the-router?u=76281980&t=29)** We have a couple of components outside the components folder.
 >
-> **[0:32](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/cleaning-up-code-and-updating-the-router?u=76281980&t=32)** So we have counter, fetch-data, home, and nav-menu.
+> **[0:32](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/cleaning-up-code-and-updating-the-router?u=76281980&t=32)** So we have counter, [[Fetch]]-data, home, and nav-menu.
 >
 > **[0:37](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/cleaning-up-code-and-updating-the-router?u=76281980&t=37)** Now, we need the home component, so let us just drag and drop it inside the components folder.
 >
@@ -1271,7 +1250,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/cleaning-up-code-and-updating-the-router?u=76281980&t=209)** Let us remove the two path configurations from here.
 >
-> **[3:34](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/cleaning-up-code-and-updating-the-router?u=76281980&t=214)** One last thing that we need to change is that we need to go to the nav-menu, and then go inside the nav-menu.component.html.
+> **[3:34](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/cleaning-up-code-and-updating-the-router?u=76281980&t=214)** One last thing that we need to change is that we need to go to the nav-menu, and then go inside the nav-menu.component.[[HTML]].
 >
 > **[3:44](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/cleaning-up-code-and-updating-the-router?u=76281980&t=224)** So here we want to have only two options.
 >
@@ -1321,7 +1300,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (3), [[Fetch]] (3), data (3), [[HTML]] (2), application (2)
+> **Frameworks & Libraries:** [[Angular]] (3), [[Fetch]] (3), [[HTML]] (2)
 > **UI Navigation:** go to (8), drag and drop (2), scroll down (2), scroll up (1), open the (1)
 > **Env Vars:** url (5)
 > **File Paths:** app.module.ts (2), nav-menu.component.html (1), home.component.html (1)
@@ -1330,8 +1309,7 @@ created: 2026-05-02
 > **CLI Commands:** dotnet (1)
 > **Prerequisites:** install (1)
 
-#### Designing the Books page
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/designing-the-books-page?u=76281980)
+#### [Designing the Books page](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/designing-the-books-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1359,7 +1337,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/designing-the-books-page?u=76281980&t=117)** So let's save the changes in here and go back to the book.component.ts and we see that the error is gone.
 >
-> **[2:05](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/designing-the-books-page?u=76281980&t=125)** Now let's go to the books.component.html file and here we start designing the view.
+> **[2:05](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/designing-the-books-page?u=76281980&t=125)** Now let's go to the books.component.[[HTML]] file and here we start designing the view.
 >
 > **[2:11](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/designing-the-books-page?u=76281980&t=131)** First of all we are going to have an h1 header which says book summaries.
 >
@@ -1431,7 +1409,7 @@ created: 2026-05-02
 >
 > **[7:23](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/designing-the-books-page?u=76281980&t=443)** then just display here in emphasized text or just a bold text of loading.
 >
-> **[7:31](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/designing-the-books-page?u=76281980&t=451)** Let us save the changes, close all the windows, collapse the folder, right click, go to open in terminal and then type in here dotnet run.
+> **[7:31](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/designing-the-books-page?u=76281980&t=451)** Let us save the changes, close all the [[Windows]], collapse the folder, right click, go to open in terminal and then type in here dotnet run.
 >
 > **[7:46](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/designing-the-books-page?u=76281980&t=466)** So now that the app was compiled successfully let us copy this value in here.
 >
@@ -1445,7 +1423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (4), web (2), api (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Windows]] (1)
 > **File Paths:** book.ts (2), books.component.ts (1), book.component.ts (1), books.component.html (1)
 > **UI Navigation:** go to (5)
 > **Env Vars:** api (2), url (1)
@@ -1454,14 +1432,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** terminal (1)
 
-#### Reading data from Angular
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/reading-data-from-angular?u=76281980)
+#### [Reading data from Angular](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/reading-data-from-angular?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/reading-data-from-angular?u=76281980&t=0)** - Now that we have the HTML file ready, let us modify the DS file to read the data from the web API.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/reading-data-from-angular?u=76281980&t=0)** - Now that we have the [[HTML]] file ready, let us modify the DS file to read the data from the web API.
 >
-> **[0:08](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/reading-data-from-angular?u=76281980&t=8)** For that we are going to first create a method in the Angular service.
+> **[0:08](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/reading-data-from-angular?u=76281980&t=8)** For that we are going to first create a method in the [[Angular]] service.
 >
 > **[0:12](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/reading-data-from-angular?u=76281980&t=12)** Then next we are going to inject this service in our component, then call the method from our component, and at the end, handle the response.
 >
@@ -1531,7 +1508,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), api (3), web (2), [[HTML]] (1), [[Angular]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Angular]] (1)
 > **Env Vars:** url (4), api (2), http (2), html (1)
 > **UI Navigation:** go to (7), open the (1), right-click (1)
 > **Code Identifiers:** getallbooks (2), httpclient (1), baseurl (1), ngoninit (1)
@@ -1540,8 +1517,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 
-#### Designing the Create page
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/designing-the-create-page?u=76281980)
+#### [Designing the Create page](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/designing-the-create-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1549,7 +1525,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/designing-the-create-page?u=76281980&t=7)** So, let's go to Visual Code and see this in action.
 >
-> **[0:11](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/designing-the-create-page?u=76281980&t=11)** In here, go inside the ClientApp, and then src, app, components, new-book, and the new-book.component.html.
+> **[0:11](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/designing-the-create-page?u=76281980&t=11)** In here, go inside the ClientApp, and then src, app, components, new-book, and the new-book.component.[[HTML]].
 >
 > **[0:23](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/designing-the-create-page?u=76281980&t=23)** In here we want to have a form, and inside here, we are going to have multiple divs.
 >
@@ -1645,7 +1621,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), css (3), next (1), web (1)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **UI Navigation:** go to (7), scroll down (3), right-click (1), scroll up (1)
 > **Code Identifiers:** datestart (3), dateread (3), dateend (1), routerlink (1)
 > **Env Vars:** url (2), css (2), html (1)
@@ -1654,12 +1630,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1), dotnet (1)
 > **Definitions:** stands for (1), means that (1)
 
-#### Adding new data from Angular
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/adding-new-data-from-angular?u=76281980)
+#### [Adding new data from Angular](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/adding-new-data-from-angular?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/adding-new-data-from-angular?u=76281980&t=0)** - [Narrator] Now that we created a form, it's time to add the create functionality in our Angular app.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/adding-new-data-from-angular?u=76281980&t=0)** - [Narrator] Now that we created a form, it's time to add the create functionality in our [[Angular]] app.
 >
 > **[0:07](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/adding-new-data-from-angular?u=76281980&t=7)** For that we are first going to create a method in Angular service then we are going to inject the service in our component.
 >
@@ -1709,7 +1684,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/adding-new-data-from-angular?u=76281980&t=191)** So I'll just write in here author and description.
 >
-> **[3:17](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/adding-new-data-from-angular?u=76281980&t=197)** If you want to have more than one validator, then you can compose the validators.
+> **[3:17](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/adding-new-data-from-angular?u=76281980&t=197)** If you want to have more than one validator, then you can [[Jetpack Compose|compose]] the validators.
 >
 > **[3:22](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/adding-new-data-from-angular?u=76281980&t=202)** To do so you can write in here Validators.compose and then inside here I'll just write square brackets and then I'll define the first validator which means that this field is a required field.
 >
@@ -1721,7 +1696,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/adding-new-data-from-angular?u=76281980&t=239)** We have the dateStart and the dateRead.
 >
-> **[4:08](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/adding-new-data-from-angular?u=76281980&t=248)** So let us save the changes and go to our html file.
+> **[4:08](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/adding-new-data-from-angular?u=76281980&t=248)** So let us save the changes and go to our [[HTML]] file.
 >
 > **[4:13](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/adding-new-data-from-angular?u=76281980&t=253)** Let's copy this value and now let's go to the html file.
 >
@@ -1785,7 +1760,7 @@ created: 2026-05-02
 >
 > **[7:11](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/adding-new-data-from-angular?u=76281980&t=431)** Let us go to the browser and in here we see that we get an error which says that we cannot bind the form group since it's not a known property of form.
 >
-> **[7:21](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/adding-new-data-from-angular?u=76281980&t=441)** And that's right because we are using the reactive forms module but we have not configured it in our app.module.ts file.
+> **[7:21](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/adding-new-data-from-angular?u=76281980&t=441)** And that's right because we are using the reactive [[Forms]] module but we have not configured it in our app.module.ts file.
 >
 > **[7:28](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/adding-new-data-from-angular?u=76281980&t=448)** So let us go that file and configure the reactive forms module.
 >
@@ -1839,7 +1814,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Forms]] (3), [[Angular]] (2), [[Jetpack Compose|Compose]] (2), [[HTML]] (2)
+> **Frameworks & Libraries:** [[Forms]] (3), [[Angular]] (2), [[Jetpack Compose|Compose]] (2), [[HTML]] (2)
 > **Code Identifiers:** addbook (3), addbookform (3), datestart (3), onsubmit (3), minlength (2)
 > **UI Navigation:** go to (9), scroll down (2), navigate to (1), right-click (1)
 > **File Paths:** app.module.ts (2), book_service.ts (1), new-book.compenet.ts (1), component.ts (1)
@@ -1848,8 +1823,7 @@ created: 2026-05-02
 > **Versions:** 3.9 (1), 4.3 (1)
 > **Definitions:** is a  (2)
 
-#### Designing the Book Details page
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/designing-the-book-details-page?u=76281980)
+#### [Designing the Book Details page](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/designing-the-book-details-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1863,7 +1837,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/designing-the-book-details-page?u=76281980&t=25)** For that let's go to Visual Code.
 >
-> **[0:28](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/designing-the-book-details-page?u=76281980&t=28)** In here go to ClientApp then source, then app and then to the app.component.html from where we render the router outlet, so from where we render the content of each active component.
+> **[0:28](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/designing-the-book-details-page?u=76281980&t=28)** In here go to ClientApp then source, then app and then to the app.component.[[HTML]] from where we render the router outlet, so from where we render the content of each active component.
 >
 > **[0:44](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/designing-the-book-details-page?u=76281980&t=44)** Let us change this default container class to another class, like for example body wrapper.
 >
@@ -1953,7 +1927,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), css (2), database (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **UI Navigation:** go to (10)
 > **Code Identifiers:** showbook (4), ngif (2), ngoninit (1), routerlink (1)
 > **File Paths:** app.component.html (1), styles.css (1), books.component.html (1), component.html (1)
@@ -1962,8 +1936,7 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Analogies:** for example (1)
 
-#### Getting a single book from Angular
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/getting-a-single-book-from-angular?u=76281980)
+#### [Getting a single book from Angular](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/getting-a-single-book-from-angular?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2029,19 +2002,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), web (1), api (1)
 > **Code Identifiers:** getbookbyid (2), singlebook (1), ngoninit (1), our (1), then (1)
 > **UI Navigation:** go to (5), scroll down (1)
 > **Env Vars:** url (2), api (1)
 > **File Paths:** book.service.ts (1)
 > **Speakers:** - [instructor] (1)
 
-#### Updating existing data from Angular
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/updating-existing-data-from-angular?u=76281980)
+#### [Updating existing data from Angular](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/updating-existing-data-from-angular?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/updating-existing-data-from-angular?u=76281980&t=0)** - [Instructor] Now let us see how we can update existing data in Angular.
+> **[0:00](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/updating-existing-data-from-angular?u=76281980&t=0)** - [Instructor] Now let us see how we can update existing data in [[Angular]].
 >
 > **[0:04](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/updating-existing-data-from-angular?u=76281980&t=4)** So in our case we are going to see how we can update an existing book from our collection.
 >
@@ -2071,7 +2042,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/updating-existing-data-from-angular?u=76281980&t=85)** Now, let us go and create the view.
 >
-> **[1:28](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/updating-existing-data-from-angular?u=76281980&t=88)** The view in our case is like the new book.component.html.
+> **[1:28](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/updating-existing-data-from-angular?u=76281980&t=88)** The view in our case is like the new book.component.[[HTML]].
 >
 > **[1:33](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/updating-existing-data-from-angular?u=76281980&t=93)** So, I'll just copy this view and scroll down to the update book.
 >
@@ -2141,7 +2112,7 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/updating-existing-data-from-angular?u=76281980&t=313)** So, I just change here title, author, description, rate, dateStart and dataRead.
 >
-> **[5:28](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/updating-existing-data-from-angular?u=76281980&t=328)** Let us import the validators which is part of the angular forms and that's it.
+> **[5:28](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/updating-existing-data-from-angular?u=76281980&t=328)** Let us import the validators which is part of the angular [[Forms]] and that's it.
 >
 > **[5:35](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/updating-existing-data-from-angular?u=76281980&t=335)** Let us now run the app to see the results.
 >
@@ -2217,7 +2188,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Angular]] (2), [[HTML]] (2), css (2), next (1)
+> **Frameworks & Libraries:** [[Angular]] (2), [[HTML]] (2), [[Forms]] (1)
 > **Code Identifiers:** updatebook (2), formatdate (2), onsubmit (2), baseurl (1), getbookbyid (1)
 > **UI Navigation:** go to (10), scroll down (2), navigate to (2)
 > **File Paths:** component.ts (1), book.service.ts (1), book.component.html (1), book.component.css (1), updatebook.css (1)
@@ -2226,8 +2197,7 @@ created: 2026-05-02
 > **Tools:** terminal (2)
 > **Definitions:** stands for (1)
 
-#### Deleting data from Angular
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/deleting-data-from-angular?u=76281980)
+#### [Deleting data from Angular](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/deleting-data-from-angular?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2253,7 +2223,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/deleting-data-from-angular?u=76281980&t=59)** Now, let us go to our delete component.
 >
-> **[1:03](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/deleting-data-from-angular?u=76281980&t=63)** And since the delete component is nearly the same like the show book component, we are going to copy the HTML from here.
+> **[1:03](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/deleting-data-from-angular?u=76281980&t=63)** And since the delete component is nearly the same like the show book component, we are going to copy the [[HTML]] from here.
 >
 > **[1:11](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/deleting-data-from-angular?u=76281980&t=71)** So let's copy the HTML and then go to the deleteBook.
 >
@@ -2285,7 +2255,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/deleting-data-from-angular?u=76281980&t=154)** Let's import the router.
 >
-> **[2:36](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/deleting-data-from-angular?u=76281980&t=156)** Which is part of the Angular/router.
+> **[2:36](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/deleting-data-from-angular?u=76281980&t=156)** Which is part of the [[Angular]]/router.
 >
 > **[2:41](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/deleting-data-from-angular?u=76281980&t=161)** Inside the ngOnInit, let us get the detail for the book.
 >
@@ -2381,7 +2351,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), data (2), application (2), css (2), feature (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Angular]] (1)
 > **Code Identifiers:** deletebook (12), showbook (4), updatebook (3), baseurl (1), activatedroute (1)
 > **UI Navigation:** go to (11), scroll down (2), navigate to (1)
 > **File Paths:** book.service.ts (1), deletebook.component.ts (1), books.component.html (1), showbook.css (1), deletebook.css (1)
@@ -2390,8 +2360,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling errors in Angular
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-errors-in-angular?u=76281980)
+#### [Handling errors in Angular](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-errors-in-angular?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2439,7 +2408,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-errors-in-angular?u=76281980&t=138)** Otherwise, we're just going to return a BadRequest, which says that the book was not added.
 >
-> **[2:28](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-errors-in-angular?u=76281980&t=148)** Now we are returning either success or failure from our API, but we need to handle this from the Angular part as well.
+> **[2:28](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-errors-in-angular?u=76281980&t=148)** Now we are returning either success or failure from our API, but we need to handle this from the [[Angular]] part as well.
 >
 > **[2:35](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-errors-in-angular?u=76281980&t=155)** So, let us go to the ClientApp, source, app, components, and then go to the new-book component, then go inside the TS file.
 >
@@ -2455,7 +2424,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-errors-in-angular?u=76281980&t=214)** Now, what is the error?
 >
-> **[3:36](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-errors-in-angular?u=76281980&t=216)** Well, we can add an error in our HTML, so let us go to the HTML file.
+> **[3:36](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-errors-in-angular?u=76281980&t=216)** Well, we can add an error in our [[HTML]], so let us go to the HTML file.
 >
 > **[3:43](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-errors-in-angular?u=76281980&t=223)** And here, just before the form, we can create a div, so I can just write in here div.
 >
@@ -2557,7 +2526,7 @@ created: 2026-05-02
 >
 > **[9:50](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-errors-in-angular?u=76281980&t=590)** So, I'll just close the debug console, scroll up in here.
 >
-> **[9:57](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-errors-in-angular?u=76281980&t=597)** First of all, let us format the code in here, so by pressing Control + Shift + P, and then choose the Toggle Word Wrap, so we have everything fit in the same screen.
+> **[9:57](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-errors-in-angular?u=76281980&t=597)** First of all, let us format the code in here, so by pressing Control + Shift + P, and then choose the Toggle [[Microsoft Word|Word]] Wrap, so we have everything fit in the same screen.
 >
 > **[10:12](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-errors-in-angular?u=76281980&t=612)** And then we are going to just write in here, class, so the error displays in red, alert alert-danger.
 >
@@ -2607,7 +2576,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), data (4), api (4), web (2), [[Angular]] (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Angular]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (9), scroll down (4), navigate to (1), scroll up (1), toggle (1)
 > **Code Identifiers:** addbookform (5), showerror (4), onsubmit (2), ngif (2), isinvalid (1)
 > **Env Vars:** api (4), html (4), f10 (3)
@@ -2621,8 +2590,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why NgRx?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/why-ngrx?u=76281980)
+#### [Why NgRx?](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/why-ngrx?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2634,11 +2602,11 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/why-ngrx?u=76281980&t=12)** Which is where everything starts from.
 >
-> **[0:14](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/why-ngrx?u=76281980&t=14)** Rx, or RxJS, is a reactive extensions library for JavaScript.
+> **[0:14](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/why-ngrx?u=76281980&t=14)** Rx, or RxJS, is a reactive extensions library for [[JavaScript]].
 >
-> **[0:21](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/why-ngrx?u=76281980&t=21)** So, RxJS is a library for reactive programming using observables to make it easier to compose asynchronous or callback-based code.
+> **[0:21](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/why-ngrx?u=76281980&t=21)** So, RxJS is a library for reactive programming using observables to make it easier to [[Jetpack Compose|compose]] asynchronous or callback-based code.
 >
-> **[0:33](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/why-ngrx?u=76281980&t=33)** So, NgRx is a Rx powered state management library for Angular applications.
+> **[0:33](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/why-ngrx?u=76281980&t=33)** So, NgRx is a Rx powered state management library for [[Angular]] applications.
 >
 > **[0:41](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/why-ngrx?u=76281980&t=41)** But which are the key NgRx concepts?
 >
@@ -2700,13 +2668,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), data (3), database (2), [[JavaScript]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[Jetpack Compose|Compose]] (1), [[Angular]] (1)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (2)
 > **Speakers:** - [narrator] (1)
 
-#### NgRx actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/ngrx-actions?u=76281980)
+#### [NgRx actions](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/ngrx-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2720,7 +2687,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/ngrx-actions?u=76281980&t=20)** So, for that, right-click on ClientApp, and then open in Terminal.
 >
-> **[0:27](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/ngrx-actions?u=76281980&t=27)** Let us clear the terminal in here by pressing cls, which stands for clear, and then type npm install.
+> **[0:27](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/ngrx-actions?u=76281980&t=27)** Let us clear the terminal in here by pressing cls, which stands for clear, and then type [[npm]] install.
 >
 > **[0:37](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/ngrx-actions?u=76281980&t=37)** We are going to install the NgRx/core, then the NgRx/effects, we need this library for handling the side effects in our apps.
 >
@@ -2784,7 +2751,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), express (1), [[npm]] (1), feature (1), next (1)
+> **Frameworks & Libraries:** [[npm]] (1)
 > **Prerequisites:** install (3), before we start (1), configure (1)
 > **File Paths:** book.actions.ts (2), action.types.ts (1)
 > **Env Vars:** load_books (2), load_books_success (1)
@@ -2793,8 +2760,7 @@ created: 2026-05-02
 > **Tools:** terminal (2)
 > **CLI Commands:** npm (1)
 
-#### NgRx store
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/ngrx-store?u=76281980)
+#### [NgRx store](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/ngrx-store?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2866,8 +2832,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - to (1)
 
-#### NgRx reducers
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/ngrx-reducers?u=76281980)
+#### [NgRx reducers](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/ngrx-reducers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2944,8 +2909,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting the dots
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/connecting-the-dots?u=76281980)
+#### [Connecting the dots](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/connecting-the-dots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3041,15 +3005,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1), application (1)
 > **Code Identifiers:** applicationstate (5), forroot (2), ngoninit (2), bookactions (2), storemodule (1)
 > **UI Navigation:** go to (6), scroll down (2)
 > **File Paths:** app.module.ts (2), books.component.ts (1)
 > **Prerequisites:** set up (1), configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Delete a book
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/challenge-delete-a-book?u=76281980)
+#### [Challenge: Delete a book](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/challenge-delete-a-book?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3057,7 +3019,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/challenge-delete-a-book?u=76281980&t=5)** - [Instructor] Now it's time for a challenge.
 >
-> **[0:08](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/challenge-delete-a-book?u=76281980&t=8)** We learned how to set up the Azure XStore, how to set up reducers and actions, and we combined those three to show all the books.
+> **[0:08](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/challenge-delete-a-book?u=76281980&t=8)** We learned how to set up the [[Microsoft Azure|Azure]] XStore, how to set up reducers and actions, and we combined those three to show all the books.
 >
 > **[0:18](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/challenge-delete-a-book?u=76281980&t=18)** So now, instead of directly using this service in the books components, we use the NgRx.
 >
@@ -3076,8 +3038,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Delete a book
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/solution-delete-a-book?u=76281980)
+#### [Solution: Delete a book](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/solution-delete-a-book?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3181,7 +3142,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), application (1)
 > **Code Identifiers:** deletebook (4), deletebookaction (3), deletebooksuccessaction (3), bookactions (2), public_payload (1)
 > **UI Navigation:** go to (8), scroll down (3)
 > **File Paths:** actiontypes.ts (1), delete-bookcomponent.ts (1)
@@ -3195,8 +3155,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up Auth0
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-auth0?u=76281980)
+#### [Setting up Auth0](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-auth0?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3204,13 +3163,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-auth0?u=76281980&t=4)** And one of the key features when securing apps is to authenticate users.
 >
-> **[0:08](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-auth0?u=76281980&t=8)** For authentication, we are going to use the Auth0 library and on this part we are going to learn it how to configure in an Angular application.
+> **[0:08](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-auth0?u=76281980&t=8)** For authentication, we are going to use the Auth0 library and on this part we are going to learn it how to configure in an [[Angular]] application.
 >
 > **[0:18](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-auth0?u=76281980&t=18)** So, let's go to [auth0.com](https://auth0.com) to create an account.
 >
 > **[0:22](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-auth0?u=76281980&t=22)** In here go to sign up, if you don't have an account, and then you can sign up either with your email and a password, or, by using third party apps.
 >
-> **[0:32](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-auth0?u=76281980&t=32)** So, I'm my case I'll be using GitHub, but you can use Google or Microsoft, as well.
+> **[0:32](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-auth0?u=76281980&t=32)** So, I'm my case I'll be using [[GitHub]], but you can use [[Google]] or [[Microsoft]], as well.
 >
 > **[0:38](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-auth0?u=76281980&t=38)** So we need to authorize the Auth0, and our account was created.
 >
@@ -3240,7 +3199,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[Angular]] (4), next (2), [[GitHub]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Angular]] (4), [[GitHub]] (1), [[Google]] (1), [[Microsoft]] (1)
 > **UI Navigation:** scroll down (8), go to (3)
 > **Env Vars:** url (4), http (2), https (2)
 > **Prerequisites:** configure (4), set up (1)
@@ -3249,8 +3208,7 @@ created: 2026-05-02
 > **URLs:** [auth0.com](https://auth0.com) (1)
 > **Ports:** port 3000 (1)
 
-#### Setting up an authentication service
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-an-authentication-service?u=76281980)
+#### [Setting up an authentication service](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-an-authentication-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3262,7 +3220,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-an-authentication-service?u=76281980&t=15)** In here, right click on the ClientApp and then choose the open in Terminal option.
 >
-> **[0:21](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-an-authentication-service?u=76281980&t=21)** To install the package, write npm install @auth0/auth0-spa-js
+> **[0:21](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-an-authentication-service?u=76281980&t=21)** To install the package, write [[npm]] install @auth0/auth0-spa-js
 >
 > **[0:37](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-an-authentication-service?u=76281980&t=37)** and then use the --save flag.
 >
@@ -3272,7 +3230,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-an-authentication-service?u=76281980&t=49)** So, inside the ClientApp, go inside the src folder, and then inside the the app folder, then go inside the services folder, right click, and open it in Terminal.
 >
-> **[1:06](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-an-authentication-service?u=76281980&t=66)** To generate the service we are going to use the Angular CLI, so for that write ng, g which stands for generate, then s for service, and the name of the service is going to be auth service, so, you can just name it auth.
+> **[1:06](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-an-authentication-service?u=76281980&t=66)** To generate the service we are going to use the [[Angular CLI]], so for that write ng, g which stands for generate, then s for service, and the name of the service is going to be auth service, so, you can just name it auth.
 >
 > **[1:25](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-an-authentication-service?u=76281980&t=85)** Press enter and you will see now that inside the services folder, we have the auth.service.ts file which has the injectable decorator.
 >
@@ -3292,7 +3250,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-an-authentication-service?u=76281980&t=158)** We have the getUser method and this method is used to get the user profile details.
 >
-> **[2:45](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-an-authentication-service?u=76281980&t=165)** So, we created the service, but for us to be able to use this service, we need to configure it in the app.module.ts file which is also known as the configuration file in Angular.
+> **[2:45](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-an-authentication-service?u=76281980&t=165)** So, we created the service, but for us to be able to use this service, we need to configure it in the app.module.ts file which is also known as the configuration file in [[Angular]].
 >
 > **[2:58](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/setting-up-an-authentication-service?u=76281980&t=178)** So, let's go to that file, app.module.ts, scroll down in here to the providers section and after the BookService, let us set our new service, which is the AuthService.
 >
@@ -3300,7 +3258,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (1), [[Angular CLI]] (1), [[Angular]] (1), next (1)
+> **Frameworks & Libraries:** [[npm]] (1), [[Angular CLI]] (1), [[Angular]] (1)
 > **Prerequisites:** install (3), set up (2), configure (1)
 > **UI Navigation:** go to (2), scroll down (2), click on (1)
 > **File Paths:** app.module.ts (2), auth.service.ts (1)
@@ -3309,8 +3267,7 @@ created: 2026-05-02
 > **Tools:** terminal (2)
 > **Definitions:** stands for (1), known as (1)
 
-#### Handling authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-authentication?u=76281980)
+#### [Handling authentication](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3332,7 +3289,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-authentication?u=76281980&t=56)** We are going to name this service auth, and then AuthService.
 >
-> **[1:02](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-authentication?u=76281980&t=62)** Now let us go to our nav-menu.component.html file.
+> **[1:02](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-authentication?u=76281980&t=62)** Now let us go to our nav-menu.component.[[HTML]] file.
 >
 > **[1:07](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-authentication?u=76281980&t=67)** We can close the debug window because we don't need that window.
 >
@@ -3386,7 +3343,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-authentication?u=76281980&t=244)** So for that we just write this.auth.handleAuthCallback.
 >
-> **[4:13](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-authentication?u=76281980&t=253)** Let us import the OnInit, which belongs to the angular/core.
+> **[4:13](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-authentication?u=76281980&t=253)** Let us import the OnInit, which belongs to the [[Angular]]/core.
 >
 > **[4:21](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-authentication?u=76281980&t=261)** Let us save the code and go back to our app.
 >
@@ -3394,7 +3351,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-authentication?u=76281980&t=268)** So let us click this button.
 >
-> **[4:32](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-authentication?u=76281980&t=272)** We get a pop-up to log in using our credentials, so I'll just log in using the Google account.
+> **[4:32](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-authentication?u=76281980&t=272)** We get a pop-up to log in using our credentials, so I'll just log in using the [[Google]] account.
 >
 > **[4:38](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/handling-authentication?u=76281980&t=278)** Now that we were logged in we can see all the three buttons.
 >
@@ -3410,7 +3367,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), data (1), [[Angular]] (1), [[Google]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Angular]] (1), [[Google]] (1)
 > **UI Navigation:** go to (4), scroll down (1)
 > **File Paths:** nav-menu.component.ts (1), nav-menu.component.html (1), nav-menu.html (1), component.ts (1)
 > **Code Identifiers:** loggedin (1), handleauthcallback (1)
@@ -3419,8 +3376,7 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
 
-#### AuthGuard
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/authguard?u=76281980)
+#### [AuthGuard](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/authguard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3430,7 +3386,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/authguard?u=76281980&t=13)** In here, right-click on the ClientApp, then Open in Terminal.
 >
-> **[0:20](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/authguard?u=76281980&t=20)** To generate an AuthGuard we are going to use the angular CLI.
+> **[0:20](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/authguard?u=76281980&t=20)** To generate an AuthGuard we are going to use the [[Angular CLI]].
 >
 > **[0:23](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/authguard?u=76281980&t=23)** So for that we just write in here ng generate guard.
 >
@@ -3442,7 +3398,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/authguard?u=76281980&t=55)** Fist of all, press control, shift, P.
 >
-> **[0:58](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/authguard?u=76281980&t=58)** And then, search for the Toggle Word Wrap.
+> **[0:58](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/authguard?u=76281980&t=58)** And then, search for the Toggle [[Microsoft Word|Word]] Wrap.
 >
 > **[1:04](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/authguard?u=76281980&t=64)** We can close the terminal.
 >
@@ -3520,13 +3476,13 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/authguard?u=76281980&t=284)** So now we see that we get the authentication pop up.
 >
-> **[4:48](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/authguard?u=76281980&t=288)** Let us log in using Google.
+> **[4:48](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/authguard?u=76281980&t=288)** Let us log in using [[Google]].
 >
 > **[4:51](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/authguard?u=76281980&t=291)** So now we are logged in, we can see the books that we wanted to access, and also we can see the log out button in here.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular CLI]] (1), [[Search]] (1), [[Microsoft Word|Word]] (1), next (1), application (1)
+> **Frameworks & Libraries:** [[Angular CLI]] (1), [[Microsoft Word|Word]] (1), [[Google]] (1)
 > **UI Navigation:** go to (5), scroll down (2), right-click (1), toggle (1)
 > **Code Identifiers:** canactivate (3), loggedin (2), isauthenticated (1)
 > **Env Vars:** url (4), cli (1)
@@ -3540,8 +3496,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to go next
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/where-to-go-next?u=76281980)
+#### [Where to go next](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/where-to-go-next?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3559,7 +3514,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/where-to-go-next?u=76281980&t=26)** The fun in development is trying new things.
 >
-> **[0:30](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/where-to-go-next?u=76281980&t=30)** In the meantime, if you have further questions that were not answered during this course, you can reach out to me on Twitter and LinkedIn.
+> **[0:30](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/where-to-go-next?u=76281980&t=30)** In the meantime, if you have further questions that were not answered during this course, you can reach out to me on Twitter and [[LinkedIn]].
 >
 > **[0:38](https://www.linkedin.com/learning/building-angular-and-asp-dot-net-core-applications/where-to-go-next?u=76281980&t=38)** And if you want to learn more about .NET, feel free to check out my other LinkedIn learning courses, YouTube channel and my blog.
 >

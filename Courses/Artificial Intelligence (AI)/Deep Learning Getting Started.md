@@ -111,14 +111,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with deep learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/getting-started-with-deep-learning?u=76281980)
+#### [Getting started with deep learning](https://www.linkedin.com/learning/deep-learning-getting-started/getting-started-with-deep-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/getting-started-with-deep-learning?u=76281980&t=0)** - [Kumaran] The field of artificial intelligence and machine learning is growing by leaps and bounds in the last few years.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/getting-started-with-deep-learning?u=76281980&t=0)** - [Kumaran] The field of [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning is growing by leaps and bounds in the last few years.
 >
-> **[0:08](https://www.linkedin.com/learning/deep-learning-getting-started/getting-started-with-deep-learning?u=76281980&t=8)** The key technology that is driving these innovations is deep learning.
+> **[0:08](https://www.linkedin.com/learning/deep-learning-getting-started/getting-started-with-deep-learning?u=76281980&t=8)** The key technology that is driving these innovations is [[Deep Learning]].
 >
 > **[0:13](https://www.linkedin.com/learning/deep-learning-getting-started/getting-started-with-deep-learning?u=76281980&t=13)** Deep learning has revolutionized how humans interact with machines today.
 >
@@ -130,7 +129,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/deep-learning-getting-started/getting-started-with-deep-learning?u=76281980&t=33)** I will first walk through the steps for building deep learning models.
 >
-> **[0:37](https://www.linkedin.com/learning/deep-learning-getting-started/getting-started-with-deep-learning?u=76281980&t=37)** Then I will demonstrate how to build them easily using Keras and TensorFlow with a couple of examples.
+> **[0:37](https://www.linkedin.com/learning/deep-learning-getting-started/getting-started-with-deep-learning?u=76281980&t=37)** Then I will demonstrate how to build them easily using Keras and [[TensorFlow]] with a couple of examples.
 >
 > **[0:45](https://www.linkedin.com/learning/deep-learning-getting-started/getting-started-with-deep-learning?u=76281980&t=45)** An exercise project will help the students to assess the skills learned.
 >
@@ -142,14 +141,13 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [kumaran] (1)
 
-#### Prerequisites for the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/prerequisites-for-the-course?u=76281980)
+#### [Prerequisites for the course](https://www.linkedin.com/learning/deep-learning-getting-started/prerequisites-for-the-course?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/prerequisites-for-the-course?u=76281980&t=0)** - [Instructor] Before we begin the course, let's go through the course objectives, scope, and prerequisites.
 >
-> **[0:07](https://www.linkedin.com/learning/deep-learning-getting-started/prerequisites-for-the-course?u=76281980&t=7)** Deep learning is a vast domain with a variety of tools and technologies.
+> **[0:07](https://www.linkedin.com/learning/deep-learning-getting-started/prerequisites-for-the-course?u=76281980&t=7)** [[Deep Learning]] is a vast domain with a variety of tools and technologies.
 >
 > **[0:12](https://www.linkedin.com/learning/deep-learning-getting-started/prerequisites-for-the-course?u=76281980&t=12)** The tool set is evolving rapidly.
 >
@@ -159,7 +157,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/deep-learning-getting-started/prerequisites-for-the-course?u=76281980&t=28)** Some courses cover this math in-depth, and some ignore them as the tools take care of its implementation.
 >
-> **[0:35](https://www.linkedin.com/learning/deep-learning-getting-started/prerequisites-for-the-course?u=76281980&t=35)** The same applies to various tools used for deep learning as they take care of the implementation of the algorithms and techniques.
+> **[0:35](https://www.linkedin.com/learning/deep-learning-getting-started/prerequisites-for-the-course?u=76281980&t=35)** The same applies to various tools used for deep learning as they take care of the implementation of the [[Algorithms]] and techniques.
 >
 > **[0:43](https://www.linkedin.com/learning/deep-learning-getting-started/prerequisites-for-the-course?u=76281980&t=43)** So, what does this course cover?
 >
@@ -185,9 +183,9 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/deep-learning-getting-started/prerequisites-for-the-course?u=76281980&t=95)** Hands-on experience is preferred.
 >
-> **[1:37](https://www.linkedin.com/learning/deep-learning-getting-started/prerequisites-for-the-course?u=76281980&t=97)** They should also be familiar with Python programming and using Jupiter notebooks.
+> **[1:37](https://www.linkedin.com/learning/deep-learning-getting-started/prerequisites-for-the-course?u=76281980&t=97)** They should also be familiar with [[Python (Programming Language)|Python]] programming and using Jupiter notebooks.
 >
-> **[1:43](https://www.linkedin.com/learning/deep-learning-getting-started/prerequisites-for-the-course?u=76281980&t=103)** We do not cover the usage of Keras and TensorFlow.
+> **[1:43](https://www.linkedin.com/learning/deep-learning-getting-started/prerequisites-for-the-course?u=76281980&t=103)** We do not cover the usage of Keras and [[TensorFlow]].
 >
 > **[1:46](https://www.linkedin.com/learning/deep-learning-getting-started/prerequisites-for-the-course?u=76281980&t=106)** So it is recommended to compliment this course with those focusing on the use of Keras.
 >
@@ -201,7 +199,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (14), [[TensorFlow]] (2), [[Algorithms]] (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (14), [[TensorFlow]] (2), [[Algorithms]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** nltk (1)
 > **Versions:** 2.0 (1)
@@ -210,18 +208,17 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up the environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/setting-up-the-environment?u=76281980)
+#### [Setting up the environment](https://www.linkedin.com/learning/deep-learning-getting-started/setting-up-the-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/setting-up-the-environment?u=76281980&t=0)** - [Instructor] In this video, we will set up the exercise files and the environment to use in this course.
 >
-> **[0:06](https://www.linkedin.com/learning/deep-learning-getting-started/setting-up-the-environment?u=76281980&t=6)** All course exercises are built with Python 3.8.
+> **[0:06](https://www.linkedin.com/learning/deep-learning-getting-started/setting-up-the-environment?u=76281980&t=6)** All course exercises are built with [[Python (Programming Language)|Python]] 3.8.
 >
 > **[0:10](https://www.linkedin.com/learning/deep-learning-getting-started/setting-up-the-environment?u=76281980&t=10)** We will be using Anaconda and Jupyter Notebooks for these exercises.
 >
-> **[0:15](https://www.linkedin.com/learning/deep-learning-getting-started/setting-up-the-environment?u=76281980&t=15)** You can download and install Anaconda from the website, [anaconda.com/products/individual](https://anaconda.com/products/individual) for your specific operating system.
+> **[0:15](https://www.linkedin.com/learning/deep-learning-getting-started/setting-up-the-environment?u=76281980&t=15)** You can download and install Anaconda from the website, [anaconda.com/[[Microsoft Products|products]]/individual](https://anaconda.com/products/individual) for your specific operating system.
 >
 > **[0:25](https://www.linkedin.com/learning/deep-learning-getting-started/setting-up-the-environment?u=76281980&t=25)** Once downloaded, we will go to the Anaconda UI.
 >
@@ -235,7 +232,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/deep-learning-getting-started/setting-up-the-environment?u=76281980&t=46)** This may take some time to set up.
 >
-> **[0:49](https://www.linkedin.com/learning/deep-learning-getting-started/setting-up-the-environment?u=76281980&t=49)** The deep learning environment is set up now.
+> **[0:49](https://www.linkedin.com/learning/deep-learning-getting-started/setting-up-the-environment?u=76281980&t=49)** The [[Deep Learning]] environment is set up now.
 >
 > **[0:52](https://www.linkedin.com/learning/deep-learning-getting-started/setting-up-the-environment?u=76281980&t=52)** We now go back and choose the deep learning environment in the applications.
 >
@@ -247,9 +244,9 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/deep-learning-getting-started/setting-up-the-environment?u=76281980&t=72)** Now go to the command prompt.
 >
-> **[1:14](https://www.linkedin.com/learning/deep-learning-getting-started/setting-up-the-environment?u=76281980&t=74)** Please note that if you're using Windows, you would want to use the Anaconda command prompt for the same.
+> **[1:14](https://www.linkedin.com/learning/deep-learning-getting-started/setting-up-the-environment?u=76281980&t=74)** Please note that if you're using [[Windows]], you would want to use the Anaconda command prompt for the same.
 >
-> **[1:21](https://www.linkedin.com/learning/deep-learning-getting-started/setting-up-the-environment?u=76281980&t=81)** The exercise files for this course has been downloaded in the folder, /users/linkedin/documents/ExerciseFiles.
+> **[1:21](https://www.linkedin.com/learning/deep-learning-getting-started/setting-up-the-environment?u=76281980&t=81)** The exercise files for this course has been downloaded in the folder, /users/[[LinkedIn]]/documents/ExerciseFiles.
 >
 > **[1:30](https://www.linkedin.com/learning/deep-learning-getting-started/setting-up-the-environment?u=76281980&t=90)** Please download the exercise files on your computer on a similar folder.
 >
@@ -275,7 +272,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), [[Deep Learning]] (3), [[Python (Programming Language)|Python]] (2), hit (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (3), [[Python (Programming Language)|Python]] (2), [[Microsoft Products|Products]] (1), [[Windows]] (1), [[LinkedIn]] (1)
 > **Tools:** jupyter (6), anaconda (5), command prompt (4)
 > **Exercise Files:** exercise files (5), download the (1)
 > **Prerequisites:** set up (3), install (3)
@@ -289,18 +286,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is deep learning?
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/what-is-deep-learning?u=76281980)
+#### [What is deep learning?](https://www.linkedin.com/learning/deep-learning-getting-started/what-is-deep-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/what-is-deep-learning?u=76281980&t=0)** - [narrator] Let's begin the course by reviewing the concept of Deep Learning.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/what-is-deep-learning?u=76281980&t=0)** - [narrator] Let's begin the course by reviewing the concept of [[Deep Learning]].
 >
 > **[0:04](https://www.linkedin.com/learning/deep-learning-getting-started/what-is-deep-learning?u=76281980&t=4)** What is Deep Learning?
 >
 > **[0:06](https://www.linkedin.com/learning/deep-learning-getting-started/what-is-deep-learning?u=76281980&t=6)** Deep Learning is a field within machine learning that deals with building and using neural network models.
 >
-> **[0:13](https://www.linkedin.com/learning/deep-learning-getting-started/what-is-deep-learning?u=76281980&t=13)** Neural networks with more than three layers are typically categorized as Deep Learning networks.
+> **[0:13](https://www.linkedin.com/learning/deep-learning-getting-started/what-is-deep-learning?u=76281980&t=13)** [[Neural Networks]] with more than three layers are typically categorized as Deep Learning networks.
 >
 > **[0:19](https://www.linkedin.com/learning/deep-learning-getting-started/what-is-deep-learning?u=76281980&t=19)** Neural networks mimic the functioning of a human brain.
 >
@@ -308,11 +304,11 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/deep-learning-getting-started/what-is-deep-learning?u=76281980&t=29)** Deep Learning is a field that has seen exponential growth in the last few years.
 >
-> **[0:34](https://www.linkedin.com/learning/deep-learning-getting-started/what-is-deep-learning?u=76281980&t=34)** While the algorithms for neural networks have existed for some time the advances in large scale data processing, as well as inference technologies like GPU's have spurred their popularity for real world applications.
+> **[0:34](https://www.linkedin.com/learning/deep-learning-getting-started/what-is-deep-learning?u=76281980&t=34)** While the [[Algorithms]] for neural networks have existed for some time the advances in large scale [[Data Processing]], as well as inference technologies like GPU's have spurred their popularity for real world applications.
 >
-> **[0:49](https://www.linkedin.com/learning/deep-learning-getting-started/what-is-deep-learning?u=76281980&t=49)** Deep Learning has been extremely popular in natural language processing as the neural network architectures are ideal for dealing with unstructured data.
+> **[0:49](https://www.linkedin.com/learning/deep-learning-getting-started/what-is-deep-learning?u=76281980&t=49)** Deep Learning has been extremely popular in [[Natural Language Processing (NLP)|natural language processing]] as the neural network architectures are ideal for dealing with [[Unstructured Data]].
 >
-> **[0:59](https://www.linkedin.com/learning/deep-learning-getting-started/what-is-deep-learning?u=76281980&t=59)** For the same reason, they are also popular for speech recognition and synthesis applications.
+> **[0:59](https://www.linkedin.com/learning/deep-learning-getting-started/what-is-deep-learning?u=76281980&t=59)** For the same reason, they are also popular for [[Speech Recognition]] and synthesis applications.
 >
 > **[1:05](https://www.linkedin.com/learning/deep-learning-getting-started/what-is-deep-learning?u=76281980&t=65)** Image recognition is another domain where Deep Learning has made inroads.
 >
@@ -326,7 +322,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (11), [[Neural Networks]] (3), data (2), [[Algorithms]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (11), [[Neural Networks]] (3), [[Algorithms]] (1), [[Data Processing]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** gpu (1)
@@ -334,14 +330,13 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Linear regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/linear-regression?u=76281980)
+#### [Linear regression](https://www.linkedin.com/learning/deep-learning-getting-started/linear-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/linear-regression?u=76281980&t=0)** - [Instructor] One of the basic statistical concepts that is used in machine learning is linear regression.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/linear-regression?u=76281980&t=0)** - [Instructor] One of the basic statistical concepts that is used in machine learning is [[Linear Regression]].
 >
-> **[0:06](https://www.linkedin.com/learning/deep-learning-getting-started/linear-regression?u=76281980&t=6)** It forms a key foundation for deep learning.
+> **[0:06](https://www.linkedin.com/learning/deep-learning-getting-started/linear-regression?u=76281980&t=6)** It [[Forms]] a key foundation for [[Deep Learning]].
 >
 > **[0:09](https://www.linkedin.com/learning/deep-learning-getting-started/linear-regression?u=76281980&t=9)** Linear regression is a linear model that explains the relationship between two or more variables.
 >
@@ -377,7 +372,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/deep-learning-getting-started/linear-regression?u=76281980&t=109)** When there are multiple independent variables, this situation becomes complex.
 >
-> **[1:54](https://www.linkedin.com/learning/deep-learning-getting-started/linear-regression?u=76281980&t=114)** A related technique that is most used in deep learning is logistic regression.
+> **[1:54](https://www.linkedin.com/learning/deep-learning-getting-started/linear-regression?u=76281980&t=114)** A related technique that is most used in deep learning is [[Logistic Regression]].
 >
 > **[1:59](https://www.linkedin.com/learning/deep-learning-getting-started/linear-regression?u=76281980&t=119)** Logistic regression is a binary model that defines the relationship between two variables.
 >
@@ -393,18 +388,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (7), [[Deep Learning]] (3), [[Logistic Regression]] (2), [[Forms]] (1), next (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (7), [[Deep Learning]] (3), [[Logistic Regression]] (2), [[Forms]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### An analogy for deep learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/an-analogy-for-deep-learning?u=76281980)
+#### [An analogy for deep learning](https://www.linkedin.com/learning/deep-learning-getting-started/an-analogy-for-deep-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/an-analogy-for-deep-learning?u=76281980&t=0)** - [Instructor] Let's use an analogy to understand how deep learning works.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/an-analogy-for-deep-learning?u=76281980&t=0)** - [Instructor] Let's use an analogy to understand how [[Deep Learning]] works.
 >
 > **[0:04](https://www.linkedin.com/learning/deep-learning-getting-started/an-analogy-for-deep-learning?u=76281980&t=4)** We will use this analogy later in the course.
 >
@@ -412,7 +406,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/deep-learning-getting-started/an-analogy-for-deep-learning?u=76281980&t=16)** It starts actually with random initialization of the model parameters and works towards the right values of these parameters by trial and error.
 >
-> **[0:26](https://www.linkedin.com/learning/deep-learning-getting-started/an-analogy-for-deep-learning?u=76281980&t=26)** In the case of a linear regression model, the model parameters are A and B.
+> **[0:26](https://www.linkedin.com/learning/deep-learning-getting-started/an-analogy-for-deep-learning?u=76281980&t=26)** In the case of a [[Linear Regression]] model, the model parameters are A and B.
 >
 > **[0:31](https://www.linkedin.com/learning/deep-learning-getting-started/an-analogy-for-deep-learning?u=76281980&t=31)** The values of A and B form the model that determines the relationship between X and Y.
 >
@@ -470,21 +464,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (3), [[Linear Regression]] (1), next (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (3), [[Linear Regression]] (1)
 > **Cross-References:** later in (1), in the next (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### The perceptron
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/the-perceptron?u=76281980)
+#### [The perceptron](https://www.linkedin.com/learning/deep-learning-getting-started/the-perceptron?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/the-perceptron?u=76281980&t=0)** - [Instructor] The perceptron is the unit for learning in an artificial neural network.
 >
-> **[0:05](https://www.linkedin.com/learning/deep-learning-getting-started/the-perceptron?u=76281980&t=5)** A perceptron represents the algorithm for supervised learning in an artificial neural network.
+> **[0:05](https://www.linkedin.com/learning/deep-learning-getting-started/the-perceptron?u=76281980&t=5)** A perceptron represents the algorithm for [[Supervised Learning]] in an artificial neural network.
 >
 > **[0:11](https://www.linkedin.com/learning/deep-learning-getting-started/the-perceptron?u=76281980&t=11)** It resembles a human brain cell.
 >
@@ -492,7 +485,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/deep-learning-getting-started/the-perceptron?u=76281980&t=21)** It represents a single cell or node in a neural network.
 >
-> **[0:24](https://www.linkedin.com/learning/deep-learning-getting-started/the-perceptron?u=76281980&t=24)** It is built based on logistic regression.
+> **[0:24](https://www.linkedin.com/learning/deep-learning-getting-started/the-perceptron?u=76281980&t=24)** It is built based on [[Logistic Regression]].
 >
 > **[0:28](https://www.linkedin.com/learning/deep-learning-getting-started/the-perceptron?u=76281980&t=28)** To derive the formula for the perceptron, we use the logistic regression formula discussed in the earlier video.
 >
@@ -502,7 +495,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/deep-learning-getting-started/the-perceptron?u=76281980&t=47)** We then apply an activation function f that outputs a boolean result based on the values.
 >
-> **[0:54](https://www.linkedin.com/learning/deep-learning-getting-started/the-perceptron?u=76281980&t=54)** This formula for the perceptron is fundamental to deep learning.
+> **[0:54](https://www.linkedin.com/learning/deep-learning-getting-started/the-perceptron?u=76281980&t=54)** This formula for the perceptron is fundamental to [[Deep Learning]].
 >
 > **[0:59](https://www.linkedin.com/learning/deep-learning-getting-started/the-perceptron?u=76281980&t=59)** The same perceptron is shown here in a figure.
 >
@@ -518,19 +511,18 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/deep-learning-getting-started/the-perceptron?u=76281980&t=81)** An activation function is applied, that delivers the value of y, which is either a 1 or a 0.
 >
-> **[1:27](https://www.linkedin.com/learning/deep-learning-getting-started/the-perceptron?u=76281980&t=87)** We build neural networks by connecting a number of perceptrons.
+> **[1:27](https://www.linkedin.com/learning/deep-learning-getting-started/the-perceptron?u=76281980&t=87)** We build [[Neural Networks]] by connecting a number of perceptrons.
 >
 > **[1:31](https://www.linkedin.com/learning/deep-learning-getting-started/the-perceptron?u=76281980&t=91)** Let's discuss more of that in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Logistic Regression]] (2), [[Supervised Learning]] (1), node (1), [[Deep Learning]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (2), [[Supervised Learning]] (1), [[Deep Learning]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** node (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Artificial neural networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/artificial-neural-networks?u=76281980)
+#### [Artificial neural networks](https://www.linkedin.com/learning/deep-learning-getting-started/artificial-neural-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -604,7 +596,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (7), next (3), data (1)
 > **CLI Commands:** node (7)
 > **Env Vars:** ann (3)
 > **Cross-References:** we discussed (1), previous video (1), in the next (1)
@@ -612,8 +603,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Training an ANN
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/training-an-ann?u=76281980)
+#### [Training an ANN](https://www.linkedin.com/learning/deep-learning-getting-started/training-an-ann?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -641,7 +631,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/deep-learning-getting-started/training-an-ann?u=76281980&t=63)** Let's go back to the analogy we discussed earlier in the course.
 >
-> **[1:06](https://www.linkedin.com/learning/deep-learning-getting-started/training-an-ann?u=76281980&t=66)** Deep learning training works similarly with weights and biases, replacing A and B here respectively.
+> **[1:06](https://www.linkedin.com/learning/deep-learning-getting-started/training-an-ann?u=76281980&t=66)** [[Deep Learning]] training works similarly with weights and biases, replacing A and B here respectively.
 >
 > **[1:13](https://www.linkedin.com/learning/deep-learning-getting-started/training-an-ann?u=76281980&t=73)** We start with random values for weights and biases, and then work our way towards minimizing the error.
 >
@@ -669,7 +659,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1)
 > **Cross-References:** we discussed (2), previous video (1), later in (1), go back to (1), earlier in (1)
 > **Env Vars:** ann (3)
 > **Analogies:** for example (1)
@@ -681,8 +671,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The input layer
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/the-input-layer?u=76281980)
+#### [The input layer](https://www.linkedin.com/learning/deep-learning-getting-started/the-input-layer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -694,7 +683,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/deep-learning-getting-started/the-input-layer?u=76281980&t=17)** A vector is an ordered list of numeric values.
 >
-> **[0:21](https://www.linkedin.com/learning/deep-learning-getting-started/the-input-layer?u=76281980&t=21)** The input to deep learning is usually a vector of numeric values.
+> **[0:21](https://www.linkedin.com/learning/deep-learning-getting-started/the-input-layer?u=76281980&t=21)** The input to [[Deep Learning]] is usually a vector of numeric values.
 >
 > **[0:25](https://www.linkedin.com/learning/deep-learning-getting-started/the-input-layer?u=76281980&t=25)** A vector can be set to be a tuple of one or more values.
 >
@@ -756,14 +745,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Deep Learning]] (4), feature (1), database (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (4)
 > **Definitions:** is a  (3), is an  (2)
 > **Env Vars:** ann (1), idf (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hidden layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/hidden-layers?u=76281980)
+#### [Hidden layers](https://www.linkedin.com/learning/deep-learning-getting-started/hidden-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -777,7 +765,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/deep-learning-getting-started/hidden-layers?u=76281980&t=15)** Typically node count is configured in the range of 2 power n Example counts may be 8, 16, 32, 64, 128, et cetera.
 >
-> **[0:26](https://www.linkedin.com/learning/deep-learning-getting-started/hidden-layers?u=76281980&t=26)** A neural networks architecture is defined by the number of layers and nodes in that layer.
+> **[0:26](https://www.linkedin.com/learning/deep-learning-getting-started/hidden-layers?u=76281980&t=26)** A [[Neural Networks]] architecture is defined by the number of layers and nodes in that layer.
 >
 > **[0:32](https://www.linkedin.com/learning/deep-learning-getting-started/hidden-layers?u=76281980&t=32)** How are the inputs and outputs connected?
 >
@@ -807,19 +795,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (6), power (1), [[Neural Networks]] (1), next (1), feature (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (1)
 > **CLI Commands:** node (6)
 > **Env Vars:** ann (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** note that (1)
 > **Speakers:** - hidden (1)
 
-#### Weights and biases
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/weights-and-biases?u=76281980)
+#### [Weights and biases](https://www.linkedin.com/learning/deep-learning-getting-started/weights-and-biases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/weights-and-biases?u=76281980&t=0)** - Weights and biases form the foundation for deep learning algorithms.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/weights-and-biases?u=76281980&t=0)** - Weights and biases form the foundation for [[Deep Learning]] [[Algorithms]].
 >
 > **[0:05](https://www.linkedin.com/learning/deep-learning-getting-started/weights-and-biases?u=76281980&t=5)** How are they structured for a given neural network architecture.
 >
@@ -873,13 +860,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (5), [[Deep Learning]] (2), [[Algorithms]] (1), next (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[Algorithms]] (1)
 > **CLI Commands:** node (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - weights (1)
 
-#### Activation functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/activation-functions?u=76281980)
+#### [Activation functions](https://www.linkedin.com/learning/deep-learning-getting-started/activation-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -915,21 +901,20 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/deep-learning-getting-started/activation-functions?u=76281980&t=90)** The sum of probabilities will be equal to one.
 >
-> **[1:33](https://www.linkedin.com/learning/deep-learning-getting-started/activation-functions?u=76281980&t=93)** The class with the highest probability will be considered for prediction.
+> **[1:33](https://www.linkedin.com/learning/deep-learning-getting-started/activation-functions?u=76281980&t=93)** The class with the highest [[Probability]] will be considered for prediction.
 >
 > **[1:38](https://www.linkedin.com/learning/deep-learning-getting-started/activation-functions?u=76281980&t=98)** I recommend further reading on the math concepts between activation functions and their advantages and shortcomings if you are interested.
 >
-> **[1:46](https://www.linkedin.com/learning/deep-learning-getting-started/activation-functions?u=76281980&t=106)** Otherwise, they are implemented in various deep learning libraries already, and need to be just added as a hyper parameter to the model.
+> **[1:46](https://www.linkedin.com/learning/deep-learning-getting-started/activation-functions?u=76281980&t=106)** Otherwise, they are implemented in various [[Deep Learning]] libraries already, and need to be just added as a hyper parameter to the model.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), next (2), data (1), [[Probability]] (1), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1), [[Deep Learning]] (1)
 > **CLI Commands:** node (3)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### The output layer
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/the-output-layer?u=76281980)
+#### [The output layer](https://www.linkedin.com/learning/deep-learning-getting-started/the-output-layer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -951,7 +936,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/deep-learning-getting-started/the-output-layer?u=76281980&t=52)** It depends on the problem.
 >
-> **[0:53](https://www.linkedin.com/learning/deep-learning-getting-started/the-output-layer?u=76281980&t=53)** In a binary classification problem, there is only 1 note that provides a probability of the positive outcome.
+> **[0:53](https://www.linkedin.com/learning/deep-learning-getting-started/the-output-layer?u=76281980&t=53)** In a binary classification problem, there is only 1 note that provides a [[Probability]] of the positive outcome.
 >
 > **[1:01](https://www.linkedin.com/learning/deep-learning-getting-started/the-output-layer?u=76281980&t=61)** In the case of n-class classification, there are n notes, each producing the probability for a given class.
 >
@@ -965,7 +950,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Probability]] (2), next (1)
+> **Frameworks & Libraries:** [[Probability]] (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
@@ -977,12 +962,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setup and initialization
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/setup-and-initialization?u=76281980)
+#### [Setup and initialization](https://www.linkedin.com/learning/deep-learning-getting-started/setup-and-initialization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/setup-and-initialization?u=76281980&t=0)** - [Instructor] How does a deep learning model get trained?
+> **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/setup-and-initialization?u=76281980&t=0)** - [Instructor] How does a [[Deep Learning]] model get trained?
 >
 > **[0:03](https://www.linkedin.com/learning/deep-learning-getting-started/setup-and-initialization?u=76281980&t=3)** We will explore this process in detail in this chapter.
 >
@@ -1044,13 +1028,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1)
 > **Prerequisites:** initialization (5), setup (2), before we start (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Forward propagation
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/forward-propagation?u=76281980)
+#### [Forward propagation](https://www.linkedin.com/learning/deep-learning-getting-started/forward-propagation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1084,13 +1067,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), node (1)
 > **CLI Commands:** node (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Measuring accuracy and error
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/measuring-accuracy-and-error?u=76281980)
+#### [Measuring accuracy and error](https://www.linkedin.com/learning/deep-learning-getting-started/measuring-accuracy-and-error?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1106,7 +1087,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/deep-learning-getting-started/measuring-accuracy-and-error?u=76281980&t=42)** The terms loss function and cost function are used almost interchangeably and are used to measure the average error over a set of samples.
 >
-> **[0:52](https://www.linkedin.com/learning/deep-learning-getting-started/measuring-accuracy-and-error?u=76281980&t=52)** There are a number of popular costs functions available, and they are implemented in all popular Deep Learning Libraries.
+> **[0:52](https://www.linkedin.com/learning/deep-learning-getting-started/measuring-accuracy-and-error?u=76281980&t=52)** There are a number of popular costs functions available, and they are implemented in all popular [[Deep Learning]] Libraries.
 >
 > **[0:59](https://www.linkedin.com/learning/deep-learning-getting-started/measuring-accuracy-and-error?u=76281980&t=59)** The Mean Square Error or MSE measures errors in case of regression problems.
 >
@@ -1134,13 +1115,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (1), next (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1)
 > **Env Vars:** mse (1), rmse (1), ann (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Back propagation
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/back-propagation?u=76281980)
+#### [Back propagation](https://www.linkedin.com/learning/deep-learning-getting-started/back-propagation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1182,7 +1162,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/deep-learning-getting-started/back-propagation?u=76281980&t=103)** If you are interested in the math behind these computations, I recommend additional readings.
 >
-> **[1:48](https://www.linkedin.com/learning/deep-learning-getting-started/back-propagation?u=76281980&t=108)** Again, the deep learning libraries take care of these computations.
+> **[1:48](https://www.linkedin.com/learning/deep-learning-getting-started/back-propagation?u=76281980&t=108)** Again, the [[Deep Learning]] libraries take care of these computations.
 >
 > **[1:53](https://www.linkedin.com/learning/deep-learning-getting-started/back-propagation?u=76281980&t=113)** At the end of the back propagation process, we will have an updated set of weights and biases that would reduce the overall prediction error.
 >
@@ -1192,13 +1172,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), feature (1), [[Deep Learning]] (1), next (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1)
 > **CLI Commands:** node (3)
 > **Cross-References:** go back to (1), in the next (1)
 > **Definitions:** is an  (1)
 
-#### Gradient descent
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/gradient-descent?u=76281980)
+#### [Gradient descent](https://www.linkedin.com/learning/deep-learning-getting-started/gradient-descent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1226,7 +1205,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/deep-learning-getting-started/gradient-descent?u=76281980&t=70)** There are also hyperparameters to speed up or slow down the learning process.
 >
-> **[1:14](https://www.linkedin.com/learning/deep-learning-getting-started/gradient-descent?u=76281980&t=74)** We will discuss them in the followup course, deep learning model optimization and tuning.
+> **[1:14](https://www.linkedin.com/learning/deep-learning-getting-started/gradient-descent?u=76281980&t=74)** We will discuss them in the followup course, [[Deep Learning]] model optimization and tuning.
 
 > [!info]- Semantic Content
 >
@@ -1234,8 +1213,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - gradient (1)
 
-#### Batches and epochs
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/batches-and-epochs?u=76281980)
+#### [Batches and epochs](https://www.linkedin.com/learning/deep-learning-getting-started/batches-and-epochs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1295,13 +1273,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1), power (1)
 > **Definitions:** is a  (4), is called (1), is an  (1), means that (1)
 > **Env Vars:** ann (1)
 > **Speakers:** - [educator] (1)
 
-#### Validation and testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/validation-and-testing?u=76281980)
+#### [Validation and testing](https://www.linkedin.com/learning/deep-learning-getting-started/validation-and-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1323,7 +1299,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/deep-learning-getting-started/validation-and-testing?u=76281980&t=66)** The final step in model building is evaluation.
 >
-> **[1:09](https://www.linkedin.com/learning/deep-learning-getting-started/validation-and-testing?u=76281980&t=69)** After all the fine tuning is completed, and the final model obtained, the test data set is used to evaluate the model.
+> **[1:09](https://www.linkedin.com/learning/deep-learning-getting-started/validation-and-testing?u=76281980&t=69)** After all the [[Fine Tuning]] is completed, and the final model obtained, the test data set is used to evaluate the model.
 >
 > **[1:17](https://www.linkedin.com/learning/deep-learning-getting-started/validation-and-testing?u=76281980&t=77)** This is done only once at the end.
 >
@@ -1331,13 +1307,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Fine Tuning]] (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### An ANN model
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/an-ann-model?u=76281980)
+#### [An ANN model](https://www.linkedin.com/learning/deep-learning-getting-started/an-ann-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1367,23 +1342,22 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/deep-learning-getting-started/an-ann-model?u=76281980&t=85)** The predictions may also need to be post-processed for converting them to business representations.
 >
-> **[1:31](https://www.linkedin.com/learning/deep-learning-getting-started/an-ann-model?u=76281980&t=91)** Now that we have gone through the concepts of deep learning, let's apply the learnings to build a real model in the next chapter.
+> **[1:31](https://www.linkedin.com/learning/deep-learning-getting-started/an-ann-model?u=76281980&t=91)** Now that we have gone through the concepts of [[Deep Learning]], let's apply the learnings to build a real model in the next chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (2), data (1), feature (1), business (1), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1)
 > **CLI Commands:** node (2)
 > **Env Vars:** ann (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reusing existing network architectures
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/reusing-existing-network-architectures?u=76281980)
+#### [Reusing existing network architectures](https://www.linkedin.com/learning/deep-learning-getting-started/reusing-existing-network-architectures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/reusing-existing-network-architectures?u=76281980&t=0)** - [Instructor] Having discussed the concepts of neural networks and how to train them from scratch, let's now discuss some practical aspects of building neural network models.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/reusing-existing-network-architectures?u=76281980&t=0)** - [Instructor] Having discussed the concepts of [[Neural Networks]] and how to train them from scratch, let's now discuss some practical aspects of building neural network models.
 >
 > **[0:11](https://www.linkedin.com/learning/deep-learning-getting-started/reusing-existing-network-architectures?u=76281980&t=11)** How do we build neural networks for a use case?
 >
@@ -1391,7 +1365,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/deep-learning-getting-started/reusing-existing-network-architectures?u=76281980&t=24)** Designing a neural network with the right number of layers and nodes is a tedious, iterative, and time consuming process.
 >
-> **[0:34](https://www.linkedin.com/learning/deep-learning-getting-started/reusing-existing-network-architectures?u=76281980&t=34)** Fortunately, the neural network community is very active in sharing their work with the rest of the world.
+> **[0:34](https://www.linkedin.com/learning/deep-learning-getting-started/reusing-existing-network-architectures?u=76281980&t=34)** Fortunately, the neural network community is very active in sharing their work with the [[Representational State Transfer (REST)|rest]] of the world.
 >
 > **[0:41](https://www.linkedin.com/learning/deep-learning-getting-started/reusing-existing-network-architectures?u=76281980&t=41)** They shared their knowledge and experiments for the rest of the community to build upon.
 >
@@ -1405,7 +1379,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/deep-learning-getting-started/reusing-existing-network-architectures?u=76281980&t=77)** Finally, open source models are available for popular implementations.
 >
-> **[1:22](https://www.linkedin.com/learning/deep-learning-getting-started/reusing-existing-network-architectures?u=76281980&t=82)** The models include all the trained parameters and hyper-parameters packaged in standardized formats that are supported by popular deep learning networks.
+> **[1:22](https://www.linkedin.com/learning/deep-learning-getting-started/reusing-existing-network-architectures?u=76281980&t=82)** The models include all the trained parameters and hyper-parameters packaged in standardized formats that are supported by popular [[Deep Learning]] networks.
 >
 > **[1:33](https://www.linkedin.com/learning/deep-learning-getting-started/reusing-existing-network-architectures?u=76281980&t=93)** Let's quickly list some of the popular neural network architectures.
 >
@@ -1419,7 +1393,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/deep-learning-getting-started/reusing-existing-network-architectures?u=76281980&t=126)** LSTM is a recurrent neural network that is used for predicting sequences of text.
 >
-> **[2:13](https://www.linkedin.com/learning/deep-learning-getting-started/reusing-existing-network-architectures?u=76281980&t=133)** Transformers is the latest architecture that is revolutionizing generative AI.
+> **[2:13](https://www.linkedin.com/learning/deep-learning-getting-started/reusing-existing-network-architectures?u=76281980&t=133)** Transformers is the latest architecture that is revolutionizing [[Generative AI]].
 >
 > **[2:19](https://www.linkedin.com/learning/deep-learning-getting-started/reusing-existing-network-architectures?u=76281980&t=139)** I strongly recommend researching and reading up on more of these architectures.
 >
@@ -1427,13 +1401,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neural Networks]] (7), [[Representational State Transfer (REST)|Rest]] (2), cnn (2), [[Deep Learning]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (7), [[Representational State Transfer (REST)|Rest]] (2), [[Deep Learning]] (1), [[Generative AI]] (1)
 > **Env Vars:** cnn (2), vgg (1), lstm (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
-#### Using available open-source models
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/using-available-open-source-models?u=76281980)
+#### [Using available open-source models](https://www.linkedin.com/learning/deep-learning-getting-started/using-available-open-source-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1447,7 +1420,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/deep-learning-getting-started/using-available-open-source-models?u=76281980&t=27)** Training data and code will also be shared in many cases.
 >
-> **[0:33](https://www.linkedin.com/learning/deep-learning-getting-started/using-available-open-source-models?u=76281980&t=33)** Repositories like Hugging face and GitHub are popular locations where such models can be found.
+> **[0:33](https://www.linkedin.com/learning/deep-learning-getting-started/using-available-open-source-models?u=76281980&t=33)** Repositories like [[Hugging Face]] and [[GitHub]] are popular locations where such models can be found.
 >
 > **[0:40](https://www.linkedin.com/learning/deep-learning-getting-started/using-available-open-source-models?u=76281980&t=40)** Universities also host models that are created from their research.
 >
@@ -1455,7 +1428,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/deep-learning-getting-started/using-available-open-source-models?u=76281980&t=48)** They can be pretty large files though, and would need bandwidth and storage.
 >
-> **[0:54](https://www.linkedin.com/learning/deep-learning-getting-started/using-available-open-source-models?u=76281980&t=54)** Popular machine learning frameworks like PyTorch and TensorFlow provide capabilities to quickly load and use these models.
+> **[0:54](https://www.linkedin.com/learning/deep-learning-getting-started/using-available-open-source-models?u=76281980&t=54)** Popular machine learning frameworks like [[PyTorch]] and [[TensorFlow]] provide capabilities to quickly load and use these models.
 >
 > **[1:03](https://www.linkedin.com/learning/deep-learning-getting-started/using-available-open-source-models?u=76281980&t=63)** How do we pick the right open-source model for our use case?
 >
@@ -1467,7 +1440,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/deep-learning-getting-started/using-available-open-source-models?u=76281980&t=87)** Data could be public data or maybe focused on a specific use case.
 >
-> **[1:33](https://www.linkedin.com/learning/deep-learning-getting-started/using-available-open-source-models?u=76281980&t=93)** There can also be privacy and legal concerns that needs to be looked at.
+> **[1:33](https://www.linkedin.com/learning/deep-learning-getting-started/using-available-open-source-models?u=76281980&t=93)** There can also be [[Privacy]] and legal concerns that needs to be looked at.
 >
 > **[1:38](https://www.linkedin.com/learning/deep-learning-getting-started/using-available-open-source-models?u=76281980&t=98)** Explore the model's, popularity and usage.
 >
@@ -1475,7 +1448,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/deep-learning-getting-started/using-available-open-source-models?u=76281980&t=109)** Review licensing requirements for the model, even though it's open source, different categories of licenses determine how they can be used, and if attribution is required.
 >
-> **[2:02](https://www.linkedin.com/learning/deep-learning-getting-started/using-available-open-source-models?u=76281980&t=122)** Then proceed to download the model and build fine tuning or inference pipelines around it.
+> **[2:02](https://www.linkedin.com/learning/deep-learning-getting-started/using-available-open-source-models?u=76281980&t=122)** Then proceed to download the model and build [[Fine Tuning]] or inference pipelines around it.
 >
 > **[2:09](https://www.linkedin.com/learning/deep-learning-getting-started/using-available-open-source-models?u=76281980&t=129)** Test the model with training data that is specific to your use case, to ensure that the model performs well in your specific scenario.
 >
@@ -1483,7 +1456,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), open-source (4), [[Hugging Face]] (1), [[GitHub]] (1), [[PyTorch]] (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (1), [[GitHub]] (1), [[PyTorch]] (1), [[TensorFlow]] (1), [[Privacy]] (1)
 > **Tools:** github (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
@@ -1493,12 +1466,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Iris classification problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/the-iris-classification-problem?u=76281980)
+#### [The Iris classification problem](https://www.linkedin.com/learning/deep-learning-getting-started/the-iris-classification-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/the-iris-classification-problem?u=76281980&t=0)** - [Instructor] Having learned the basics of deep learning with neural networks, let's apply the learnings in a simple example.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/the-iris-classification-problem?u=76281980&t=0)** - [Instructor] Having learned the basics of [[Deep Learning]] with [[Neural Networks]], let's apply the learnings in a simple example.
 >
 > **[0:07](https://www.linkedin.com/learning/deep-learning-getting-started/the-iris-classification-problem?u=76281980&t=7)** In this chapter, we will build a deep learning model to predict the type of flower with the Iris dataset.
 >
@@ -1530,7 +1502,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (4), [[Neural Networks]] (1), feature (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (4), [[Neural Networks]] (1)
 > **Prerequisites:** setup (3), install (2)
 > **Versions:** 2.0 (1)
 > **UI Navigation:** open the (1)
@@ -1538,18 +1510,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Input preprocessing
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/input-preprocessing?u=76281980)
+#### [Input preprocessing](https://www.linkedin.com/learning/deep-learning-getting-started/input-preprocessing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/input-preprocessing?u=76281980&t=0)** - [Instructor] As discussed in the earlier chapter, input data should be pre-processed and prepared for deep learning before it can be used to train the models.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/input-preprocessing?u=76281980&t=0)** - [Instructor] As discussed in the earlier chapter, input data should be pre-processed and prepared for [[Deep Learning]] before it can be used to train the models.
 >
 > **[0:10](https://www.linkedin.com/learning/deep-learning-getting-started/input-preprocessing?u=76281980&t=10)** Code for this video is in section 4.2 of the notebook.
 >
 > **[0:14](https://www.linkedin.com/learning/deep-learning-getting-started/input-preprocessing?u=76281980&t=14)** Let's explore the code now.
 >
-> **[0:18](https://www.linkedin.com/learning/deep-learning-getting-started/input-preprocessing?u=76281980&t=18)** We first load the iris.csv file into a pandas dataframe.
+> **[0:18](https://www.linkedin.com/learning/deep-learning-getting-started/input-preprocessing?u=76281980&t=18)** We first load the iris.csv file into a [[Pandas (Software)|pandas]] dataframe.
 >
 > **[0:22](https://www.linkedin.com/learning/deep-learning-getting-started/input-preprocessing?u=76281980&t=22)** This file is available as a part of the exercise files in the same folder as the notebook.
 >
@@ -1605,7 +1576,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), feature (4), [[Deep Learning]] (3), [[Pandas (Software)|Pandas]] (1), next (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (3), [[Pandas (Software)|Pandas]] (1)
 > **File Paths:** iris.csv (1)
 > **Versions:** 4.2 (1)
 > **Cross-References:** later in (1)
@@ -1614,8 +1585,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a deep learning model
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/creating-a-deep-learning-model?u=76281980)
+#### [Creating a deep learning model](https://www.linkedin.com/learning/deep-learning-getting-started/creating-a-deep-learning-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1691,8 +1661,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Training and evaluation
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/training-and-evaluation?u=76281980)
+#### [Training and evaluation](https://www.linkedin.com/learning/deep-learning-getting-started/training-and-evaluation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1754,14 +1723,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), power (1), feature (1)
 > **Definitions:** means that (1), is an  (1)
 > **Versions:** 4.4 (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - we (1)
 
-#### Saving and loading models
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/saving-and-loading-models?u=76281980)
+#### [Saving and loading models](https://www.linkedin.com/learning/deep-learning-getting-started/saving-and-loading-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1769,7 +1736,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/deep-learning-getting-started/saving-and-loading-models?u=76281980&t=8)** How do we store, move and load models between environments.
 >
-> **[0:12](https://www.linkedin.com/learning/deep-learning-getting-started/saving-and-loading-models?u=76281980&t=12)** In code.4 file, We have an example for storing and loading deep learning models.
+> **[0:12](https://www.linkedin.com/learning/deep-learning-getting-started/saving-and-loading-models?u=76281980&t=12)** In code.4 file, We have an example for storing and loading [[Deep Learning]] models.
 >
 > **[0:18](https://www.linkedin.com/learning/deep-learning-getting-started/saving-and-loading-models?u=76281980&t=18)** In order to save a model, we use the saved method to save the model architecture, parameters and other information to disk.
 >
@@ -1783,23 +1750,22 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/deep-learning-getting-started/saving-and-loading-models?u=76281980&t=46)** We can now see that the model has been saved and reloaded.
 >
-> **[0:49](https://www.linkedin.com/learning/deep-learning-getting-started/saving-and-loading-models?u=76281980&t=49)** We can also explore the contents of Iris save, the model is saved here in binary format with all the format and metadata under the root directory of the exercise files.
+> **[0:49](https://www.linkedin.com/learning/deep-learning-getting-started/saving-and-loading-models?u=76281980&t=49)** We can also explore the contents of Iris save, the model is saved here in binary format with all the format and [[Metadata]] under the root directory of the exercise files.
 >
 > **[1:01](https://www.linkedin.com/learning/deep-learning-getting-started/saving-and-loading-models?u=76281980&t=61)** To copy the model, we need to copy the end data root directory and move it to the destination.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (1), [[Metadata]] (1), data (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1), [[Metadata]] (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Predictions with deep learning models
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/predictions-with-deep-learning-models?u=76281980)
+#### [Predictions with deep learning models](https://www.linkedin.com/learning/deep-learning-getting-started/predictions-with-deep-learning-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/predictions-with-deep-learning-models?u=76281980&t=0)** - [Tutor] Having trained a deep learning model for Iris, let's do some predictions with new data.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/predictions-with-deep-learning-models?u=76281980&t=0)** - [Tutor] Having trained a [[Deep Learning]] model for Iris, let's do some predictions with new data.
 >
 > **[0:06](https://www.linkedin.com/learning/deep-learning-getting-started/predictions-with-deep-learning-models?u=76281980&t=6)** We start with a prediction input of four feature variables namely; sepal length, sepal width, petal length and Petal width.
 >
@@ -1813,7 +1779,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/deep-learning-getting-started/predictions-with-deep-learning-models?u=76281980&t=35)** The result is a list of probabilities of the various classes, asset applies for this input.
 >
-> **[0:42](https://www.linkedin.com/learning/deep-learning-getting-started/predictions-with-deep-learning-models?u=76281980&t=42)** We then use the argmax function to get the index of the highest probability.
+> **[0:42](https://www.linkedin.com/learning/deep-learning-getting-started/predictions-with-deep-learning-models?u=76281980&t=42)** We then use the argmax function to get the index of the highest [[Probability]].
 >
 > **[0:47](https://www.linkedin.com/learning/deep-learning-getting-started/predictions-with-deep-learning-models?u=76281980&t=47)** Then we use the same training label encoder to do the reverse transform and get the string for the species name.
 >
@@ -1833,7 +1799,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (3), data (2), feature (2), [[Probability]] (2), next (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (3), [[Probability]] (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [tutor] (1)
@@ -1843,12 +1809,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Spam classification problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/spam-classification-problem?u=76281980)
+#### [Spam classification problem](https://www.linkedin.com/learning/deep-learning-getting-started/spam-classification-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/spam-classification-problem?u=76281980&t=0)** - [Instructor] How do we do deep learning with unstructured text data?
+> **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/spam-classification-problem?u=76281980&t=0)** - [Instructor] How do we do [[Deep Learning]] with unstructured text data?
 >
 > **[0:05](https://www.linkedin.com/learning/deep-learning-getting-started/spam-classification-problem?u=76281980&t=5)** We will learn with an example in this chapter.
 >
@@ -1868,7 +1833,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/deep-learning-getting-started/spam-classification-problem?u=76281980&t=36)** The goal for this example, is to build an ANN that can classify text messages as ham or spam.
 >
-> **[0:44](https://www.linkedin.com/learning/deep-learning-getting-started/spam-classification-problem?u=76281980&t=44)** This is a simple use case but demonstrates the key steps needed to classify unstructured data with a deep learning model.
+> **[0:44](https://www.linkedin.com/learning/deep-learning-getting-started/spam-classification-problem?u=76281980&t=44)** This is a simple use case but demonstrates the key steps needed to classify [[Unstructured Data]] with a deep learning model.
 >
 > **[0:53](https://www.linkedin.com/learning/deep-learning-getting-started/spam-classification-problem?u=76281980&t=53)** The key difference between classifying structured and unstructured data with queries is the pre-processing needed to prepare data.
 >
@@ -1876,11 +1841,11 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/deep-learning-getting-started/spam-classification-problem?u=76281980&t=69)** We will use TF-IDF in this example.
 >
-> **[1:12](https://www.linkedin.com/learning/deep-learning-getting-started/spam-classification-problem?u=76281980&t=72)** We can also use word embeddings for this purpose.
+> **[1:12](https://www.linkedin.com/learning/deep-learning-getting-started/spam-classification-problem?u=76281980&t=72)** We can also use [[Microsoft Word|word]] embeddings for this purpose.
 >
 > **[1:15](https://www.linkedin.com/learning/deep-learning-getting-started/spam-classification-problem?u=76281980&t=75)** The code for this example is available in the notebook code_05 XX Spam classification example.
 >
-> **[1:24](https://www.linkedin.com/learning/deep-learning-getting-started/spam-classification-problem?u=76281980&t=84)** Before we begin, we need to install the dependent libraries in Python, for text pre-processing.
+> **[1:24](https://www.linkedin.com/learning/deep-learning-getting-started/spam-classification-problem?u=76281980&t=84)** Before we begin, we need to install the dependent libraries in [[Python (Programming Language)|Python]], for text pre-processing.
 >
 > **[1:31](https://www.linkedin.com/learning/deep-learning-getting-started/spam-classification-problem?u=76281980&t=91)** Let's run the code in section 5.1.
 >
@@ -1888,7 +1853,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Deep Learning]] (2), [[Unstructured Data]] (2), feature (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[Unstructured Data]] (2), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sms (2), ann (1), idf (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** install (2)
@@ -1896,8 +1861,7 @@ created: 2026-05-02
 > **Versions:** 5.1 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating text representations
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/creating-text-representations?u=76281980)
+#### [Creating text representations](https://www.linkedin.com/learning/deep-learning-getting-started/creating-text-representations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1907,7 +1871,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/deep-learning-getting-started/creating-text-representations?u=76281980&t=10)** Data in this example, is available in the CSV file, Spam.Classification.csv in the Exercise Files folder.
 >
-> **[0:18](https://www.linkedin.com/learning/deep-learning-getting-started/creating-text-representations?u=76281980&t=18)** We load this data into a pandas data frame and print its content to check it.
+> **[0:18](https://www.linkedin.com/learning/deep-learning-getting-started/creating-text-representations?u=76281980&t=18)** We load this data into a [[Pandas (Software)|pandas]] data frame and print its content to check it.
 >
 > **[0:23](https://www.linkedin.com/learning/deep-learning-getting-started/creating-text-representations?u=76281980&t=23)** We then separate the feature and target attributes into separate variables.
 >
@@ -1917,7 +1881,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/deep-learning-getting-started/creating-text-representations?u=76281980&t=40)** To perform the required pre-processing, we first create a custom tokenizer function.
 >
-> **[0:45](https://www.linkedin.com/learning/deep-learning-getting-started/creating-text-representations?u=76281980&t=45)** This function first splits the sentences into tokens using the tokenizer in nltk library.
+> **[0:45](https://www.linkedin.com/learning/deep-learning-getting-started/creating-text-representations?u=76281980&t=45)** This function first splits the sentences into [[Tokens]] using the tokenizer in nltk library.
 >
 > **[0:52](https://www.linkedin.com/learning/deep-learning-getting-started/creating-text-representations?u=76281980&t=52)** Then it filters for stopwords.
 >
@@ -1929,7 +1893,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/deep-learning-getting-started/creating-text-representations?u=76281980&t=72)** We the convert this vector into a numpy array.
 >
-> **[1:15](https://www.linkedin.com/learning/deep-learning-getting-started/creating-text-representations?u=76281980&t=75)** The feature variables are now ready for deep learning.
+> **[1:15](https://www.linkedin.com/learning/deep-learning-getting-started/creating-text-representations?u=76281980&t=75)** The feature variables are now ready for [[Deep Learning]].
 >
 > **[1:19](https://www.linkedin.com/learning/deep-learning-getting-started/creating-text-representations?u=76281980&t=79)** For the target variable, we first converted into numeric values using a label encoder.
 >
@@ -1951,15 +1915,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), feature (4), [[Deep Learning]] (2), [[Pandas (Software)|Pandas]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[Pandas (Software)|Pandas]] (1), [[Tokens]] (1)
 > **File Paths:** spam.classification.csv (1)
 > **Env Vars:** csv (1)
 > **Versions:** 5.2 (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a spam model
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/building-a-spam-model?u=76281980)
+#### [Building a spam model](https://www.linkedin.com/learning/deep-learning-getting-started/building-a-spam-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1993,12 +1956,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Versions:** 5.3 (1)
 > **Speakers:** - once (1)
 
-#### Predictions for text
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/predictions-for-text?u=76281980)
+#### [Predictions for text](https://www.linkedin.com/learning/deep-learning-getting-started/predictions-for-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2034,7 +1995,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), feature (1)
 > **Env Vars:** sms (1), tfidf (1)
 > **Versions:** 5.4 (1)
 > **Speakers:** - [instructor] (1)
@@ -2044,12 +2004,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exercise problem statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/exercise-problem-statement?u=76281980)
+#### [Exercise problem statement](https://www.linkedin.com/learning/deep-learning-getting-started/exercise-problem-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/exercise-problem-statement?u=76281980&t=0)** - [Instructor] Now that we have learned the concepts of deep learning and utilized them in a couple of examples, let's go ahead and try the learnings in a student exercise.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/exercise-problem-statement?u=76281980&t=0)** - [Instructor] Now that we have learned the concepts of [[Deep Learning]] and utilized them in a couple of examples, let's go ahead and try the learnings in a student exercise.
 >
 > **[0:11](https://www.linkedin.com/learning/deep-learning-getting-started/exercise-problem-statement?u=76281980&t=11)** You are expected to try out this problem on your own, and then visit the remaining videos in this chapter to review the sample solution.
 >
@@ -2065,7 +2024,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/deep-learning-getting-started/exercise-problem-statement?u=76281980&t=45)** The team wants to build a model that can predict root causes reported by customers based on the telemetry generated and errors noticed.
 >
-> **[0:54](https://www.linkedin.com/learning/deep-learning-getting-started/exercise-problem-statement?u=76281980&t=54)** They already have a system monitoring tool that tracks CPU, memory, and application latency characteristics of their servers.
+> **[0:54](https://www.linkedin.com/learning/deep-learning-getting-started/exercise-problem-statement?u=76281980&t=54)** They already have a [[System Monitoring]] tool that tracks CPU, memory, and application latency characteristics of their servers.
 >
 > **[1:02](https://www.linkedin.com/learning/deep-learning-getting-started/exercise-problem-statement?u=76281980&t=62)** In addition, they also track errors reported by their applications.
 >
@@ -2093,7 +2052,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Deep Learning]] (2), [[System Monitoring]] (1), application (1), feature (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[System Monitoring]] (1)
 > **Env Vars:** cpu (2), cpu_load (1), memory_leak_load (1), delay (1), error_1000 (1)
 > **File Paths:** root_cause_analysis.csv (1)
 > **Code Identifiers:** root_cause_analysis (1)
@@ -2102,14 +2061,13 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preprocessing RCA data
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/preprocessing-rca-data?u=76281980)
+#### [Preprocessing RCA data](https://www.linkedin.com/learning/deep-learning-getting-started/preprocessing-rca-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/preprocessing-rca-data?u=76281980&t=0)** - The code for this exercise is available in the file code 06 XX incident root cause analysis exercise, section 6.2 covers pre-processing of incident data.
 >
-> **[0:13](https://www.linkedin.com/learning/deep-learning-getting-started/preprocessing-rca-data?u=76281980&t=13)** We first load the root cause analysis.CSV file into a pandas data frame and print its contents.
+> **[0:13](https://www.linkedin.com/learning/deep-learning-getting-started/preprocessing-rca-data?u=76281980&t=13)** We first load the root cause analysis.CSV file into a [[Pandas (Software)|pandas]] data frame and print its contents.
 >
 > **[0:20](https://www.linkedin.com/learning/deep-learning-getting-started/preprocessing-rca-data?u=76281980&t=20)** Let's run this code now and examine the contents.
 >
@@ -2121,20 +2079,19 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/deep-learning-getting-started/preprocessing-rca-data?u=76281980&t=50)** For target variable, we use one hot encoding.
 >
-> **[0:54](https://www.linkedin.com/learning/deep-learning-getting-started/preprocessing-rca-data?u=76281980&t=54)** Finally, we split the data into training and test sets, this gets the data ready for deep learning.
+> **[0:54](https://www.linkedin.com/learning/deep-learning-getting-started/preprocessing-rca-data?u=76281980&t=54)** Finally, we split the data into training and test sets, this gets the data ready for [[Deep Learning]].
 >
 > **[1:00](https://www.linkedin.com/learning/deep-learning-getting-started/preprocessing-rca-data?u=76281980&t=60)** Let's run this code and review the results.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Pandas (Software)|Pandas]] (1), feature (1), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1), [[Deep Learning]] (1)
 > **File Paths:** analysis.csv (1)
 > **Env Vars:** csv (1)
 > **Versions:** 6.2 (1)
 > **Speakers:** - the (1)
 
-#### Building the RCA model
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/building-the-rca-model?u=76281980)
+#### [Building the RCA model](https://www.linkedin.com/learning/deep-learning-getting-started/building-the-rca-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2154,13 +2111,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Env Vars:** epochs (1), batch (1), size (1)
 > **Versions:** 6.3 (1)
 > **Speakers:** - now (1)
 
-#### Predicting root causes with deep learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/predicting-root-causes-with-deep-learning?u=76281980)
+#### [Predicting root causes with deep learning](https://www.linkedin.com/learning/deep-learning-getting-started/predicting-root-causes-with-deep-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2174,7 +2129,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/deep-learning-getting-started/predicting-root-causes-with-deep-learning?u=76281980&t=15)** We then use the model to predict the probabilities for the various classes.
 >
-> **[0:19](https://www.linkedin.com/learning/deep-learning-getting-started/predicting-root-causes-with-deep-learning?u=76281980&t=19)** Then we use the argmax function to extract the position with the highest probability.
+> **[0:19](https://www.linkedin.com/learning/deep-learning-getting-started/predicting-root-causes-with-deep-learning?u=76281980&t=19)** Then we use the argmax function to extract the position with the highest [[Probability]].
 >
 > **[0:25](https://www.linkedin.com/learning/deep-learning-getting-started/predicting-root-causes-with-deep-learning?u=76281980&t=25)** Finally, we use the label and coder to retrieve the string class value for the root cause.
 >
@@ -2186,7 +2141,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), [[Probability]] (1), database (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Versions:** 6.4 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
@@ -2196,16 +2151,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Extending your deep learning education
-> [LinkedIn Learning](https://www.linkedin.com/learning/deep-learning-getting-started/extending-your-deep-learning-education?u=76281980)
+#### [Extending your deep learning education](https://www.linkedin.com/learning/deep-learning-getting-started/extending-your-deep-learning-education?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/extending-your-deep-learning-education?u=76281980&t=0)** - [Kumaran] Now that you have learned about the concepts of deep learning, you can take your learning even further.
+> **[0:00](https://www.linkedin.com/learning/deep-learning-getting-started/extending-your-deep-learning-education?u=76281980&t=0)** - [Kumaran] Now that you have learned about the concepts of [[Deep Learning]], you can take your learning even further.
 >
 > **[0:06](https://www.linkedin.com/learning/deep-learning-getting-started/extending-your-deep-learning-education?u=76281980&t=6)** First, learn more about how to optimize and fine-tune deep learning models.
 >
-> **[0:12](https://www.linkedin.com/learning/deep-learning-getting-started/extending-your-deep-learning-education?u=76281980&t=12)** Explore additional topics in deep learning, including convolutional neural networks and recurrent neural networks.
+> **[0:12](https://www.linkedin.com/learning/deep-learning-getting-started/extending-your-deep-learning-education?u=76281980&t=12)** Explore additional topics in deep learning, including [[Convolutional Neural Networks (CNN)|convolutional neural networks]] and recurrent [[Neural Networks]].
 >
 > **[0:20](https://www.linkedin.com/learning/deep-learning-getting-started/extending-your-deep-learning-education?u=76281980&t=20)** Analyze a machine learning problem in your work area and build a deep learning model to solve it.
 >
@@ -2215,7 +2169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (4), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Neural Networks]] (1), data (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (4), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [kumaran] (1)
 

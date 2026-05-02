@@ -105,12 +105,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The basics of decision trees
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-basics-of-decision-trees?u=76281980)
+#### [The basics of decision trees](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-basics-of-decision-trees?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-basics-of-decision-trees?u=76281980&t=0)** - [Keith] If you are interested in data science and machine learning, decision trees are one of the most foundational topics of all.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-basics-of-decision-trees?u=76281980&t=0)** - [Keith] If you are interested in [[Data Science]] and machine learning, [[Decision Trees]] are one of the most foundational topics of all.
 >
 > **[0:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-basics-of-decision-trees?u=76281980&t=9)** They have been in widespread use for many years.
 >
@@ -126,9 +125,9 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-basics-of-decision-trees?u=76281980&t=47)** We will be using the nine analytics platform for demonstration purposes, but we will be focused on the concepts.
 >
-> **[0:56](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-basics-of-decision-trees?u=76281980&t=56)** In particular, we will be exploring three of the most widely known and adopted decision tree algorithms, C4.5, classification trees, and regression trees.
+> **[0:56](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-basics-of-decision-trees?u=76281980&t=56)** In particular, we will be exploring three of the most widely known and adopted decision tree [[Algorithms]], C4.5, classification trees, and regression trees.
 >
-> **[1:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-basics-of-decision-trees?u=76281980&t=68)** You will be able to apply the concepts to any platform whether it be R or Python or another analytics workbench.
+> **[1:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-basics-of-decision-trees?u=76281980&t=68)** You will be able to apply the concepts to any platform whether it be R or [[Python (Programming Language)|Python]] or another analytics workbench.
 >
 > **[1:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-basics-of-decision-trees?u=76281980&t=77)** So this is a course for all data scientists that are interested in decision trees.
 >
@@ -136,13 +135,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Decision Trees]] (3), [[Analytics]] (2), career (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (3), [[Data Science]] (1), [[Algorithms]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
 > **Speakers:** - [keith] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -152,9 +150,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-you-should-know?u=76281980&t=11)** So terms like target variable, input variable, algorithm, and train test partition should be familiar.
 >
-> **[0:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-you-should-know?u=76281980&t=19)** We keep it pretty basic, so it might work as a first course, but if some of that is unfamiliar, you might want to consider either my Predictive Analytics Essentials Data Mining course or my Introduction to Classification course.
+> **[0:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-you-should-know?u=76281980&t=19)** We keep it pretty basic, so it might work as a first course, but if some of that is unfamiliar, you might want to consider either my [[Predictive Analytics]] Essentials [[Data Mining]] course or my Introduction to Classification course.
 >
-> **[0:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-you-should-know?u=76281980&t=35)** But not to worry about KNIME.
+> **[0:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-you-should-know?u=76281980&t=35)** But not to worry about [[Knime]].
 >
 > **[0:38](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-you-should-know?u=76281980&t=38)** It's super easy to learn, and we'll be doing just enough to perform the demonstrations.
 >
@@ -166,20 +164,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (4), [[Predictive Analytics]] (1), data (1)
+> **Frameworks & Libraries:** [[Knime]] (4), [[Predictive Analytics]] (1), [[Data Mining]] (1)
 > **Env Vars:** knime (4)
 > **Definitions:** is an  (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to use the practice files
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-to-use-the-practice-files?u=76281980)
+#### [How to use the practice files](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-to-use-the-practice-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-to-use-the-practice-files?u=76281980&t=0)** - [Instructor] I want to make a couple of very quick comments about how to use the practice files.
 >
-> **[0:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-to-use-the-practice-files?u=76281980&t=6)** You're looking at a KNIME Analytics Platform workflow.
+> **[0:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-to-use-the-practice-files?u=76281980&t=6)** You're looking at a [[Knime]] Analytics Platform workflow.
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-to-use-the-practice-files?u=76281980&t=11)** Everything you need to know about KNIME and the practice files will be explained in the course.
 >
@@ -211,7 +208,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (4), data (2), node (2), [[Analytics]] (1), next (1)
+> **Frameworks & Libraries:** [[Knime]] (4)
 > **CLI Commands:** make (2), node (2)
 > **Env Vars:** knime (4)
 > **Speakers:** - [instructor] (1)
@@ -221,20 +218,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a decision tree?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-is-a-decision-tree?u=76281980)
+#### [What is a decision tree?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-is-a-decision-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-is-a-decision-tree?u=76281980&t=0)** - [Instructor] For years after conference workshops, I've been approached during Q and A with a question, something like this, "Thanks for the workshop today but there's so much to learn, where should I start?"
 >
-> **[0:14](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-is-a-decision-tree?u=76281980&t=14)** And for years, my answer has been to start with decision trees.
+> **[0:14](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-is-a-decision-tree?u=76281980&t=14)** And for years, my answer has been to start with [[Decision Trees]].
 >
 > **[0:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-is-a-decision-tree?u=76281980&t=20)** So why decision trees?
 >
 > **[0:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-is-a-decision-tree?u=76281980&t=22)** Well, they're relatively easy to learn, they're transparent, they're available in every platform.
 >
-> **[0:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-is-a-decision-tree?u=76281980&t=30)** Whether you choose a platform like KNIME or if you're a coder using Python or R.
+> **[0:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-is-a-decision-tree?u=76281980&t=30)** Whether you choose a platform like [[Knime]] or if you're a coder using [[Python (Programming Language)|Python]] or R.
 >
 > **[0:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-is-a-decision-tree?u=76281980&t=39)** Finally, they're foundational to more advanced techniques.
 >
@@ -266,7 +262,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-is-a-decision-tree?u=76281980&t=126)** The tree then continues to branch using more and more variables until the algorithm that you've chosen determines that it's time to stop.
 >
-> **[2:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-is-a-decision-tree?u=76281980&t=135)** Now there's more than one algorithm and we'll actually be learning two classification algorithms and one regression algorithm in this course.
+> **[2:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-is-a-decision-tree?u=76281980&t=135)** Now there's more than one algorithm and we'll actually be learning two classification [[Algorithms]] and one regression algorithm in this course.
 >
 > **[2:25](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-is-a-decision-tree?u=76281980&t=145)** Finally, the tree reaches what are called leaf nodes.
 >
@@ -286,7 +282,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision Trees]] (5), node (4), data (4), [[Knime]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (5), [[Knime]] (1), [[Python (Programming Language)|Python]] (1), [[Algorithms]] (1)
 > **CLI Commands:** node (4), python (1)
 > **Analogies:** for instance (3)
 > **Versions:** 6.7 (1), 62.2 (1)
@@ -294,12 +290,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The pros and cons of decision trees
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-pros-and-cons-of-decision-trees?u=76281980)
+#### [The pros and cons of decision trees](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-pros-and-cons-of-decision-trees?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-pros-and-cons-of-decision-trees?u=76281980&t=0)** - [Instructor] So what are some of the pros and cons of using decision trees, specifically the algorithms in this course, classification trees, regression trees, and the C4.5 algorithm?
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-pros-and-cons-of-decision-trees?u=76281980&t=0)** - [Instructor] So what are some of the pros and cons of using [[Decision Trees]], specifically the [[Algorithms]] in this course, classification trees, regression trees, and the C4.5 algorithm?
 >
 > **[0:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-pros-and-cons-of-decision-trees?u=76281980&t=17)** Well, let's start with the advantages.
 >
@@ -309,7 +304,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-pros-and-cons-of-decision-trees?u=76281980&t=29)** Since not all the variables are used you can start with a large number of variables and the tree algorithm will indicate which of those variables are likely to be the most useful.
 >
-> **[0:41](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-pros-and-cons-of-decision-trees?u=76281980&t=41)** This is helpful even if you end up using another algorithm like neural networks.
+> **[0:41](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-pros-and-cons-of-decision-trees?u=76281980&t=41)** This is helpful even if you end up using another algorithm like [[Neural Networks]].
 >
 > **[0:46](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-pros-and-cons-of-decision-trees?u=76281980&t=46)** Next, they're great for data exploration.
 >
@@ -341,7 +336,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-pros-and-cons-of-decision-trees?u=76281980&t=142)** Finally, because you can convert your leaf nodes into a series of if-then statements, it's extremely easy to deploy trees and that includes deployment outside of whatever platform you develop them in.
 >
-> **[2:38](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-pros-and-cons-of-decision-trees?u=76281980&t=158)** So for instance, you could develop the tree in Nym but deploy it using SQL or a whole variety of other things.
+> **[2:38](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-pros-and-cons-of-decision-trees?u=76281980&t=158)** So for instance, you could develop the tree in Nym but deploy it using [[SQL]] or a whole variety of other things.
 >
 > **[2:46](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-pros-and-cons-of-decision-trees?u=76281980&t=166)** It's very easy to get trees out of the platform in which you built them and into something else that's conducive to your data warehouse or helpful to you in some other way.
 >
@@ -351,7 +346,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-pros-and-cons-of-decision-trees?u=76281980&t=185)** If you haven't heard that phrase, what does it mean?
 >
-> **[3:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-pros-and-cons-of-decision-trees?u=76281980&t=187)** Well, it means that as the tree forms it forms the top branch and then continues to branch and it never reconsiders that top branch.
+> **[3:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-pros-and-cons-of-decision-trees?u=76281980&t=187)** Well, it means that as the tree [[Forms]] it forms the top branch and then continues to branch and it never reconsiders that top branch.
 >
 > **[3:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-pros-and-cons-of-decision-trees?u=76281980&t=197)** For that reason, it's described as greedy because it's only focused on the branch at the moment.
 >
@@ -389,22 +384,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Decision Trees]] (2), [[Algorithms]] (2), next (2), [[Forms]] (2)
+> **Frameworks & Libraries:** [[Decision Trees]] (2), [[Algorithms]] (2), [[Forms]] (2), [[Neural Networks]] (1), [[SQL]] (1)
 > **Analogies:** for instance (3), imagine (1), just like (1)
 > **Definitions:** means that (1), is a  (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing KNIME
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-knime?u=76281980)
+#### [Introducing KNIME](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-knime?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-knime?u=76281980&t=0)** - [Man] Okay, let's talk about the KNIME analytics platform, which is going to be perfect for our purposes because it has good support of decision trees and it's easy to install and easy to use.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-knime?u=76281980&t=0)** - [Man] Okay, let's talk about the [[Knime]] analytics platform, which is going to be perfect for our purposes because it has good support of [[Decision Trees]] and it's easy to install and easy to use.
 >
 > **[0:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-knime?u=76281980&t=15)** So I'm not going to do a detailed walkthrough of download 'cause they really do make it easy, so here we are on the KNIME website.
 >
-> **[0:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-knime?u=76281980&t=22)** If you simply go to download and certainly register if you care to, but then go to download KNIME, and they've got support for Windows, Linux, and Mac.
+> **[0:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-knime?u=76281980&t=22)** If you simply go to download and certainly register if you care to, but then go to download KNIME, and they've got support for [[Windows]], [[Linux]], and Mac.
 >
 > **[0:34](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-knime?u=76281980&t=34)** So let's take a look.
 >
@@ -436,7 +430,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-knime?u=76281980&t=151)** That's all, just getting some of these things out of our way.
 >
-> **[2:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-knime?u=76281980&t=153)** Even though they're very useful, we don't need them at the moment, and I'm going to zoom in.
+> **[2:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-knime?u=76281980&t=153)** Even though they're very useful, we don't need them at the moment, and I'm going to [[Zoom]] in.
 >
 > **[2:38](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-knime?u=76281980&t=158)** Let's see what 125% looks like.
 >
@@ -458,7 +452,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (9), [[Decision Trees]] (4), [[Windows]] (4), node (3), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Knime]] (9), [[Decision Trees]] (4), [[Windows]] (4), [[Linux]] (1), [[Zoom]] (1)
 > **Env Vars:** knime (9), examples (1)
 > **CLI Commands:** make (3), node (3), find (1)
 > **UI Navigation:** go to (2), double-click (2), click on (1)
@@ -467,8 +461,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [man] (1)
 
-#### A quick review of machine learning basics with examples
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/a-quick-review-of-machine-learning-basics-with-examples?u=76281980)
+#### [A quick review of machine learning basics with examples](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/a-quick-review-of-machine-learning-basics-with-examples?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -482,7 +475,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/a-quick-review-of-machine-learning-basics-with-examples?u=76281980&t=20)** And again, this is a topic that if you are brand new to machine learning, you conceivably want to pause and kind of get oriented.
 >
-> **[0:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/a-quick-review-of-machine-learning-basics-with-examples?u=76281980&t=27)** I have a course in the library that might be helpful, "The Essential Elements of Data Mining," but we're going to review some of it right now.
+> **[0:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/a-quick-review-of-machine-learning-basics-with-examples?u=76281980&t=27)** I have a course in the library that might be helpful, "The Essential Elements of [[Data Mining]]," but we're going to review some of it right now.
 >
 > **[0:36](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/a-quick-review-of-machine-learning-basics-with-examples?u=76281980&t=36)** So let's first go to the table reader and right click and I'm going to just execute.
 >
@@ -494,7 +487,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/a-quick-review-of-machine-learning-basics-with-examples?u=76281980&t=90)** That is our target variable.
 >
-> **[1:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/a-quick-review-of-machine-learning-basics-with-examples?u=76281980&t=93)** If you are familiar with statistics, you may think of that as a dependent variable since decision trees is supervised machine learning, we need a data set where the outcome that we're trying to predict is known and in this data set.
+> **[1:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/a-quick-review-of-machine-learning-basics-with-examples?u=76281980&t=93)** If you are familiar with [[Statistics]], you may think of that as a dependent variable since [[Decision Trees]] is supervised machine learning, we need a data set where the outcome that we're trying to predict is known and in this data set.
 >
 > **[1:52](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/a-quick-review-of-machine-learning-basics-with-examples?u=76281980&t=112)** So now we can close this window.
 >
@@ -586,7 +579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), node (6), [[Statistics]] (2), [[Decision Trees]] (2), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Decision Trees]] (2), [[Data Mining]] (1)
 > **CLI Commands:** node (6), find (1)
 > **UI Navigation:** go to (3), click on (3)
 > **Definitions:** means that (2), is a  (1), is called (1)
@@ -594,14 +587,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [tutor] (1)
 
-#### An overview of decision tree algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/an-overview-of-decision-tree-algorithms?u=76281980)
+#### [An overview of decision tree algorithms](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/an-overview-of-decision-tree-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/an-overview-of-decision-tree-algorithms?u=76281980&t=0)** - [Instructor] Okay, now I want to orient you to the most common, most well-known decision tree algorithms and discuss what kinds of decision tree algorithms are supported in KNIME.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/an-overview-of-decision-tree-algorithms?u=76281980&t=0)** - [Instructor] Okay, now I want to orient you to the most common, most well-known decision tree [[Algorithms]] and discuss what kinds of decision tree algorithms are supported in [[Knime]].
 >
-> **[0:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/an-overview-of-decision-tree-algorithms?u=76281980&t=18)** So let's widen these very useful windows over here so that we can see them better.
+> **[0:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/an-overview-of-decision-tree-algorithms?u=76281980&t=18)** So let's widen these very useful [[Windows]] over here so that we can see them better.
 >
 > **[0:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/an-overview-of-decision-tree-algorithms?u=76281980&t=26)** And you can see that our node repository is still showing all the nodes that have decision tree in the name.
 >
@@ -647,17 +639,17 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/an-overview-of-decision-tree-algorithms?u=76281980&t=191)** That's beyond the scope of this course, but that is directly supported in KNIME.
 >
-> **[3:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/an-overview-of-decision-tree-algorithms?u=76281980&t=198)** Another option in KNIME is to use technologies like Python and R right in KNIME, but that's also beyond the scope of this course.
+> **[3:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/an-overview-of-decision-tree-algorithms?u=76281980&t=198)** Another option in KNIME is to use technologies like [[Python (Programming Language)|Python]] and R right in KNIME, but that's also beyond the scope of this course.
 >
 > **[3:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/an-overview-of-decision-tree-algorithms?u=76281980&t=207)** So what we're going to do is we're going to talk about how classification trees work and how to imitate that algorithm with the decision tree learner.
 >
 > **[3:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/an-overview-of-decision-tree-algorithms?u=76281980&t=219)** And then we're also going to talk about the C5 algorithm and how to imitate it with the decision tree learner.
 >
-> **[3:48](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/an-overview-of-decision-tree-algorithms?u=76281980&t=228)** Then we're going to talk about regression trees and that will take you quite far along in your journey of learning about decision trees.
+> **[3:48](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/an-overview-of-decision-tree-algorithms?u=76281980&t=228)** Then we're going to talk about regression trees and that will take you quite far along in your journey of learning about [[Decision Trees]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (6), node (4), [[Algorithms]] (3), [[Windows]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Knime]] (6), [[Algorithms]] (3), [[Windows]] (1), [[Python (Programming Language)|Python]] (1), [[Decision Trees]] (1)
 > **Env Vars:** knime (6), cart (5)
 > **CLI Commands:** node (4), make (1), python (1)
 > **Prerequisites:** configure (1), set up (1)
@@ -671,8 +663,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ross Quinlan, ID3, C4.5, and C5.0
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ross-quinlan-id3-c4-5-and-c5-0?u=76281980)
+#### [Ross Quinlan, ID3, C4.5, and C5.0](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ross-quinlan-id3-c4-5-and-c5-0?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -688,7 +679,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ross-quinlan-id3-c4-5-and-c5-0?u=76281980&t=39)** 4.5 came along in the '90s and it's the one that's still most commonly seen.
 >
-> **[0:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ross-quinlan-id3-c4-5-and-c5-0?u=76281980&t=45)** It's the basis for most of the features in KNIME's decision tree learner node, which we will be demonstrating.
+> **[0:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ross-quinlan-id3-c4-5-and-c5-0?u=76281980&t=45)** It's the basis for most of the features in [[Knime]]'s decision tree learner node, which we will be demonstrating.
 >
 > **[0:54](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ross-quinlan-id3-c4-5-and-c5-0?u=76281980&t=54)** This is where it gets a little bit more complicated.
 >
@@ -696,7 +687,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ross-quinlan-id3-c4-5-and-c5-0?u=76281980&t=65)** The reason is that for a time, C5 was proprietary.
 >
-> **[1:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ross-quinlan-id3-c4-5-and-c5-0?u=76281980&t=70)** You'll still see it in some commercial software, notably IBM SPSS Modeler.
+> **[1:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ross-quinlan-id3-c4-5-and-c5-0?u=76281980&t=70)** You'll still see it in some commercial software, notably [[IBM SPSS]] Modeler.
 >
 > **[1:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ross-quinlan-id3-c4-5-and-c5-0?u=76281980&t=77)** I actually demonstrate it in an SPSS based course here in the library.
 >
@@ -714,15 +705,15 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ross-quinlan-id3-c4-5-and-c5-0?u=76281980&t=122)** So something to know about KNIME is that the decision tree learner is based on C4.5, not C5.
 >
-> **[2:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ross-quinlan-id3-c4-5-and-c5-0?u=76281980&t=132)** However, if over time you become a user of the KNIME analytics platform, there are ways to run algorithms that are not available in a node.
+> **[2:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ross-quinlan-id3-c4-5-and-c5-0?u=76281980&t=132)** However, if over time you become a user of the KNIME analytics platform, there are ways to run [[Algorithms]] that are not available in a node.
 >
-> **[2:23](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ross-quinlan-id3-c4-5-and-c5-0?u=76281980&t=143)** You can run R, you can run Python and so on, so we won't pursue that in this course.
+> **[2:23](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ross-quinlan-id3-c4-5-and-c5-0?u=76281980&t=143)** You can run R, you can run [[Python (Programming Language)|Python]] and so on, so we won't pursue that in this course.
 >
 > **[2:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ross-quinlan-id3-c4-5-and-c5-0?u=76281980&t=149)** We're going to stick with the decision tree learner, which means that we're going to be using C4.5.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (3), node (2), [[IBM SPSS]] (1), data (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Knime]] (3), [[IBM SPSS]] (1), [[Algorithms]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** knime (3), spss (3), id3 (1), ibm (1), gnu (1)
 > **CLI Commands:** node (2), python (1)
 > **Versions:** 4.5 (2)
@@ -731,8 +722,7 @@ created: 2026-05-02
 > **URLs:** [rulequest.com](https://rulequest.com) (1)
 > **Exercise Files:** source code (1)
 
-#### Understanding the entropy calculation
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/understanding-the-entropy-calculation?u=76281980)
+#### [Understanding the entropy calculation](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/understanding-the-entropy-calculation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -742,7 +732,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/understanding-the-entropy-calculation?u=76281980&t=17)** So let's hit on some of the high points.
 >
-> **[0:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/understanding-the-entropy-calculation?u=76281980&t=20)** First, Quinlan strategy is inspired by information theory an area pioneered by Claude Shannon who helped establish the concepts of entropy as we use them in machine learning and even the idea of measuring information with the notion of a bit, there's actually a connection between machine learning, entropy, Alan Turing, and bayesian statistics, that's explored in the courses about causality in the library.
+> **[0:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/understanding-the-entropy-calculation?u=76281980&t=20)** First, Quinlan strategy is inspired by information theory an area pioneered by Claude Shannon who helped establish the concepts of entropy as we use them in machine learning and even the idea of measuring information with the notion of a bit, there's actually a connection between machine learning, entropy, Alan Turing, and bayesian [[Statistics]], that's explored in the courses about causality in the library.
 >
 > **[0:53](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/understanding-the-entropy-calculation?u=76281980&t=53)** So here's how it works.
 >
@@ -790,7 +780,7 @@ created: 2026-05-02
 >
 > **[5:31](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/understanding-the-entropy-calculation?u=76281980&t=331)** So why is this done?
 >
-> **[5:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/understanding-the-entropy-calculation?u=76281980&t=333)** Well, an unpruned tree tends to be overfit, meaning that it looks great on the training data but fails to generalize well on the test data and in the early days of developing tree algorithms, and this is true for Ross Quinlan, and also true for Leo Breiman and his collaborators, that they experimented with slowing the growth as a way of getting a right sized tree, but through trial and error over the years, both of them concluded that the best way to do this is to let the tree grow and then use a different calculation to trim away where there might be noisy parts of the tree and separate the signal
+> **[5:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/understanding-the-entropy-calculation?u=76281980&t=333)** Well, an unpruned tree tends to be overfit, meaning that it looks great on the training data but fails to generalize well on the test data and in the early days of developing tree [[Algorithms]], and this is true for Ross Quinlan, and also true for Leo Breiman and his collaborators, that they experimented with slowing the growth as a way of getting a right sized tree, but through trial and error over the years, both of them concluded that the best way to do this is to let the tree grow and then use a different calculation to trim away where there might be noisy parts of the tree and separate the signal
 >
 > **[6:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/understanding-the-entropy-calculation?u=76281980&t=382)** from the noise and then cause better generalization.
 >
@@ -798,15 +788,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), node (2), [[Algorithms]] (2), hit (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Statistics]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** node (2)
 > **Tools:** notion (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### How C4.5 handles missing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-c4-5-handles-missing-data?u=76281980)
+#### [How C4.5 handles missing data](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-c4-5-handles-missing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -850,24 +839,23 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-c4-5-handles-missing-data?u=76281980&t=136)** So I always urge folks, and this is with any algorithm not just C4.5 and C5, to explore, explore, explore before you model and eventually deploy.
 >
-> **[2:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-c4-5-handles-missing-data?u=76281980&t=150)** Now, this missing data feature is not a feature that's available in KNIME's Decision Tree Learner.
+> **[2:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-c4-5-handles-missing-data?u=76281980&t=150)** Now, this missing data feature is not a feature that's available in [[Knime]]'s Decision Tree Learner.
 >
 > **[2:37](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-c4-5-handles-missing-data?u=76281980&t=157)** Now, KNIME does have missing data support, but the way it's set up in KNIME is you have to do it before the modeling node.
 >
 > **[2:46](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-c4-5-handles-missing-data?u=76281980&t=166)** And we won't be demonstrating those features in this course.
 >
-> **[2:50](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-c4-5-handles-missing-data?u=76281980&t=170)** If you are using C4.5 or C5 in another platform, the word that is often used for this approach is fractionalization and it can be very effective.
+> **[2:50](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-c4-5-handles-missing-data?u=76281980&t=170)** If you are using C4.5 or C5 in another platform, the [[Microsoft Word|word]] that is often used for this approach is fractionalization and it can be very effective.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Knime]] (3), feature (2), node (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Knime]] (3), [[Microsoft Word|Word]] (1)
 > **Env Vars:** knime (3)
 > **CLI Commands:** make (1), node (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Give Me Some Credit data set
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-give-me-some-credit-data-set?u=76281980)
+#### [The Give Me Some Credit data set](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-give-me-some-credit-data-set?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -881,9 +869,9 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-give-me-some-credit-data-set?u=76281980&t=28)** What we're really looking for is the cs-training.csv dataset.
 >
-> **[0:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-give-me-some-credit-data-set?u=76281980&t=35)** Now, what I've done is I've brought that into Excel just so that we can look at it together.
+> **[0:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-give-me-some-credit-data-set?u=76281980&t=35)** Now, what I've done is I've brought that into [[Microsoft Excel|Excel]] just so that we can look at it together.
 >
-> **[0:42](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-give-me-some-credit-data-set?u=76281980&t=42)** And it also makes it easy to bring it into KNIME.
+> **[0:42](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-give-me-some-credit-data-set?u=76281980&t=42)** And it also makes it easy to bring it into [[Knime]].
 >
 > **[0:46](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-give-me-some-credit-data-set?u=76281980&t=46)** If you ever have a very large dataset, you really don't want to turn into KNIME first, but this is a modestly sized dataset.
 >
@@ -909,7 +897,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-give-me-some-credit-data-set?u=76281980&t=116)** Specifically the description they have here is person experience 90 days past due delinquency or worse.
 >
-> **[2:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-give-me-some-credit-data-set?u=76281980&t=123)** Then the rest of these are input variables, so we have revolving utilization.
+> **[2:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-give-me-some-credit-data-set?u=76281980&t=123)** Then the [[Representational State Transfer (REST)|rest]] of these are input variables, so we have revolving utilization.
 >
 > **[2:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-give-me-some-credit-data-set?u=76281980&t=128)** We've got age.
 >
@@ -931,7 +919,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Knime]] (5), [[Microsoft Excel|Excel]] (3), next (1), ai (1)
+> **Frameworks & Libraries:** [[Knime]] (5), [[Microsoft Excel|Excel]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** knime (5)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -940,26 +928,25 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 
-#### Working with the prebuilt example
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/working-with-the-prebuilt-example?u=76281980)
+#### [Working with the prebuilt example](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/working-with-the-prebuilt-example?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/working-with-the-prebuilt-example?u=76281980&t=0)** - [Instructor] I'm here in KNIME and I've closed all of the workflows so I have a nice blank canvas on which to work.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/working-with-the-prebuilt-example?u=76281980&t=0)** - [Instructor] I'm here in [[Knime]] and I've closed all of the workflows so I have a nice blank canvas on which to work.
 >
-> **[0:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/working-with-the-prebuilt-example?u=76281980&t=9)** I'm going to go into Examples and then down here to Analytics and then to this fourth category, I'll widen this a bit so that you can see, Classification and Predictive Modeling.
+> **[0:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/working-with-the-prebuilt-example?u=76281980&t=9)** I'm going to go into Examples and then down here to Analytics and then to this fourth category, I'll widen this a bit so that you can see, Classification and [[Predictive Modeling]].
 >
 > **[0:24](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/working-with-the-prebuilt-example?u=76281980&t=24)** And there's one very specific one, Example for Learning a Decision Tree, so I'll double click on that.
 >
 > **[0:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/working-with-the-prebuilt-example?u=76281980&t=33)** I'll make this a little bit more narrow.
 >
-> **[0:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/working-with-the-prebuilt-example?u=76281980&t=35)** I can actually zoom in a little bit.
+> **[0:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/working-with-the-prebuilt-example?u=76281980&t=35)** I can actually [[Zoom]] in a little bit.
 >
 > **[0:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/working-with-the-prebuilt-example?u=76281980&t=39)** Great, let's center that and we're ready to go.
 >
 > **[0:42](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/working-with-the-prebuilt-example?u=76281980&t=42)** So here's our example but it's not the dataset that we're going to be using.
 >
-> **[0:46](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/working-with-the-prebuilt-example?u=76281980&t=46)** We're going to be using the Give Me Credit dataset from Kaggle, and we need an Excel source node for that.
+> **[0:46](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/working-with-the-prebuilt-example?u=76281980&t=46)** We're going to be using the Give Me Credit dataset from Kaggle, and we need an [[Microsoft Excel|Excel]] source node for that.
 >
 > **[0:54](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/working-with-the-prebuilt-example?u=76281980&t=54)** So if you search for that, you can see the Excel Reader.
 >
@@ -1069,7 +1056,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), node (5), [[Knime]] (4), [[Search]] (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Knime]] (4), [[Predictive Modeling]] (1), [[Zoom]] (1)
 > **CLI Commands:** node (5), make (4)
 > **UI Navigation:** click on (4), go to (1)
 > **Env Vars:** knime (4)
@@ -1078,8 +1065,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### KNIME settings for C4.5
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/knime-settings-for-c4-5?u=76281980)
+#### [KNIME settings for C4.5](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/knime-settings-for-c4-5?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1135,7 +1121,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/knime-settings-for-c4-5?u=76281980&t=167)** Click on okay.
 >
-> **[2:49](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/knime-settings-for-c4-5?u=76281980&t=169)** So notice that my Excel reader, my partitioning node, and my color manager all have the green indicator but the decision tree learner has returned to the yellow indicator.
+> **[2:49](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/knime-settings-for-c4-5?u=76281980&t=169)** So notice that my [[Microsoft Excel|Excel]] reader, my partitioning node, and my color manager all have the green indicator but the decision tree learner has returned to the yellow indicator.
 >
 > **[3:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/knime-settings-for-c4-5?u=76281980&t=183)** That's because we've changed the settings.
 >
@@ -1145,7 +1131,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (2), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Versions:** 4.5 (11)
 > **CLI Commands:** make (3), node (2)
 > **UI Navigation:** click on (2), dropdown (1), checkbox (1)
@@ -1154,8 +1140,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - okay (1)
 
-#### How C4.5 handles nominal variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-c4-5-handles-nominal-variables?u=76281980)
+#### [How C4.5 handles nominal variables](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-c4-5-handles-nominal-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1185,7 +1170,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-c4-5-handles-nominal-variables?u=76281980&t=86)** Maximize that and there's a lot going on.
 >
-> **[1:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-c4-5-handles-nominal-variables?u=76281980&t=88)** In fact, I am going to zoom out so that we can see what's going on better.
+> **[1:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-c4-5-handles-nominal-variables?u=76281980&t=88)** In fact, I am going to [[Zoom]] out so that we can see what's going on better.
 >
 > **[1:34](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-c4-5-handles-nominal-variables?u=76281980&t=94)** We're not going to be able to read it but the main point is obvious and that is that from the root node, which has all of our data, we have lots of nodes below and that's because we did not choose the binary splits for nominals which is consistent with how C4.5 works, so we have gotten a different little branch for each category within this.
 >
@@ -1197,13 +1182,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), next (1), [[Zoom]] (1), node (1), data (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **CLI Commands:** node (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### How C4.5 handles continuous variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-c4-5-handles-continuous-variables?u=76281980)
+#### [How C4.5 handles continuous variables](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-c4-5-handles-continuous-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1241,7 +1225,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (1), next (1)
 > **Versions:** 6.7 (1), 5.6 (1), 55.7 (1)
 > **UI Navigation:** right-click (1), dropdown (1)
 > **CLI Commands:** node (1)
@@ -1249,8 +1232,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Equal size sampling
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/equal-size-sampling?u=76281980)
+#### [Equal size sampling](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/equal-size-sampling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1300,14 +1282,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), prompt (1)
 > **CLI Commands:** node (3)
 > **UI Navigation:** click on (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### A quick look at the complete C4.5 tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/a-quick-look-at-the-complete-c4-5-tree?u=76281980)
+#### [A quick look at the complete C4.5 tree](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/a-quick-look-at-the-complete-c4-5-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1337,7 +1317,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/a-quick-look-at-the-complete-c4-5-tree?u=76281980&t=83)** Not as high as 91.5, but pretty high.
 >
-> **[1:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/a-quick-look-at-the-complete-c4-5-tree?u=76281980&t=86)** I'm actually going to zoom out because there's a lot of tree to see here.
+> **[1:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/a-quick-look-at-the-complete-c4-5-tree?u=76281980&t=86)** I'm actually going to [[Zoom]] out because there's a lot of tree to see here.
 >
 > **[1:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/a-quick-look-at-the-complete-c4-5-tree?u=76281980&t=93)** And it's going to get increasingly hard to read, but you can tell from this little viewer in the upper right, that we have quite a few branches.
 >
@@ -1361,14 +1341,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Versions:** 91.5 (3), 35.7 (1), 82.5 (1), 43.3 (1), 62.9 (1)
 > **CLI Commands:** node (2), find (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - okay (1)
 
-#### Evaluating the accuracy of your C4.5 tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/evaluating-the-accuracy-of-your-c4-5-tree?u=76281980)
+#### [Evaluating the accuracy of your C4.5 tree](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/evaluating-the-accuracy-of-your-c4-5-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1398,7 +1377,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/evaluating-the-accuracy-of-your-c4-5-tree?u=76281980&t=65)** We've got to widen it to make it easier to see.
 >
-> **[1:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/evaluating-the-accuracy-of-your-c4-5-tree?u=76281980&t=67)** You can just begin to see the word there, Prediction Serious Delinquency.
+> **[1:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/evaluating-the-accuracy-of-your-c4-5-tree?u=76281980&t=67)** You can just begin to see the [[Microsoft Word|word]] there, Prediction Serious Delinquency.
 >
 > **[1:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/evaluating-the-accuracy-of-your-c4-5-tree?u=76281980&t=72)** So this column is what the model thinks this original column was going to be.
 >
@@ -1434,15 +1413,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), data (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** node (3), make (1), find (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Versions:** 71.398 (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### When to turn off pruning
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/when-to-turn-off-pruning?u=76281980)
+#### [When to turn off pruning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/when-to-turn-off-pruning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1476,7 +1454,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/when-to-turn-off-pruning?u=76281980&t=58)** We're going to take a look at the decision tree, but with a different emphasis.
 >
-> **[1:04](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/when-to-turn-off-pruning?u=76281980&t=64)** I'm going to zoom out to 60%.
+> **[1:04](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/when-to-turn-off-pruning?u=76281980&t=64)** I'm going to [[Zoom]] out to 60%.
 >
 > **[1:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/when-to-turn-off-pruning?u=76281980&t=68)** I know that makes a little tough to read.
 >
@@ -1580,7 +1558,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (3), data (3), node (2)
+> **Frameworks & Libraries:** [[Zoom]] (3)
 > **CLI Commands:** node (2), find (1), make (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Cross-References:** go back to (1)
@@ -1592,8 +1570,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing Leo Breiman and CART
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-leo-breiman-and-cart?u=76281980)
+#### [Introducing Leo Breiman and CART](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-leo-breiman-and-cart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1625,7 +1602,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-leo-breiman-and-cart?u=76281980&t=108)** So what we are going to be doing is describing the key features as they wrote about them in the book and that you see implemented widely.
 >
-> **[1:59](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-leo-breiman-and-cart?u=76281980&t=119)** If you're also interested in Leo Breiman's thought leadership, he's uniquely qualified to talk about statistics and machine learning, or specifically to contrast the two because he was an academic statistician at Berkeley, but he was also one of the earliest machine learning consultants.
+> **[1:59](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-leo-breiman-and-cart?u=76281980&t=119)** If you're also interested in Leo Breiman's [[Thought Leadership]], he's uniquely qualified to talk about [[Statistics]] and machine learning, or specifically to contrast the two because he was an academic statistician at Berkeley, but he was also one of the earliest machine learning consultants.
 >
 > **[2:23](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-leo-breiman-and-cart?u=76281980&t=143)** So what he's able to do in a very influential article called The Two Cultures, is compare and contrast the two.
 >
@@ -1635,7 +1612,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-leo-breiman-and-cart?u=76281980&t=162)** I actually talk about this in a course in the library discussing prediction, causation, and statistical inference.
 >
-> **[2:52](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-leo-breiman-and-cart?u=76281980&t=172)** As we've seen KNIME doesn't have a dedicated node called CART.
+> **[2:52](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-leo-breiman-and-cart?u=76281980&t=172)** As we've seen [[Knime]] doesn't have a dedicated node called CART.
 >
 > **[2:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-leo-breiman-and-cart?u=76281980&t=178)** We'll be using the decision tree learner node.
 >
@@ -1653,21 +1630,20 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-leo-breiman-and-cart?u=76281980&t=227)** And where there are important and interesting differences between the two, we'll discuss that.
 >
-> **[3:53](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-leo-breiman-and-cart?u=76281980&t=233)** By the time we are done you'll have a thorough understanding of the CART algorithm which you can apply with any machine learning platform including R, Python, and many others.
+> **[3:53](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-leo-breiman-and-cart?u=76281980&t=233)** By the time we are done you'll have a thorough understanding of the CART algorithm which you can apply with any machine learning platform including R, [[Python (Programming Language)|Python]], and many others.
 >
 > **[4:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/introducing-leo-breiman-and-cart?u=76281980&t=245)** And you'll also know your way around the decision tree learner and KNIME, including all of those settings and options.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (3), node (2), [[Thought Leadership]] (1), [[Statistics]] (1), data (1)
+> **Frameworks & Libraries:** [[Knime]] (3), [[Thought Leadership]] (1), [[Statistics]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** cart (10), knime (3)
 > **CLI Commands:** node (2), python (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [keith] (1)
 
-#### What is the Gini coefficient?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-is-the-gini-coefficient?u=76281980)
+#### [What is the Gini coefficient?](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/what-is-the-gini-coefficient?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1721,13 +1697,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (1), data (1)
 > **CLI Commands:** node (1), find (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### How CART handles missing data using surrogates
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-cart-handles-missing-data-using-surrogates?u=76281980)
+#### [How CART handles missing data using surrogates](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-cart-handles-missing-data-using-surrogates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1820,8 +1794,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Changing the settings in KNIME
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/changing-the-settings-in-knime?u=76281980)
+#### [Changing the settings in KNIME](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/changing-the-settings-in-knime?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1847,7 +1820,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/changing-the-settings-in-knime?u=76281980&t=53)** When you go to run these, you're going to have these two nodes, the equal size sampling and the partitioning.
 >
-> **[1:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/changing-the-settings-in-knime?u=76281980&t=60)** When you add your own data source using the Excel reader from your hard drive, you're going to have to tell it where your location is.
+> **[1:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/changing-the-settings-in-knime?u=76281980&t=60)** When you add your own data source using the [[Microsoft Excel|Excel]] reader from your hard drive, you're going to have to tell it where your location is.
 >
 > **[1:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/changing-the-settings-in-knime?u=76281980&t=68)** Mine is pointing to the location on my hard drive.
 >
@@ -1899,7 +1872,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** right-click (2), go to (1), click on (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
@@ -1907,8 +1880,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### How CART handles nominal variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-cart-handles-nominal-variables?u=76281980)
+#### [How CART handles nominal variables](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-cart-handles-nominal-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1950,15 +1922,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1), node (1)
 > **Versions:** 55.0 (2), 4.5 (2)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** node (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### A quick look at the complete CART tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/a-quick-look-at-the-complete-cart-tree?u=76281980)
+#### [A quick look at the complete CART tree](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/a-quick-look-at-the-complete-cart-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1980,7 +1950,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/a-quick-look-at-the-complete-cart-tree?u=76281980&t=40)** Let's go another level.
 >
-> **[0:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/a-quick-look-at-the-complete-cart-tree?u=76281980&t=45)** I'm going to try a zoom of 80.
+> **[0:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/a-quick-look-at-the-complete-cart-tree?u=76281980&t=45)** I'm going to try a [[Zoom]] of 80.
 >
 > **[0:48](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/a-quick-look-at-the-complete-cart-tree?u=76281980&t=48)** That's still pretty good.
 >
@@ -2012,7 +1982,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (2), [[Zoom]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **UI Navigation:** click on (2), scroll up (1)
 > **CLI Commands:** node (2)
 > **Versions:** 20.6 (1)
@@ -2020,8 +1990,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluating the accuracy of your CART tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/evaluating-the-accuracy-of-your-cart-tree?u=76281980)
+#### [Evaluating the accuracy of your CART tree](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/evaluating-the-accuracy-of-your-cart-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2047,7 +2016,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Prerequisites:** configure (1), set up (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** right-click (1)
@@ -2058,8 +2026,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### MPG data set
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/mpg-data-set?u=76281980)
+#### [MPG data set](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/mpg-data-set?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2077,7 +2044,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/mpg-data-set?u=76281980&t=33)** And here's the data set.
 >
-> **[0:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/mpg-data-set?u=76281980&t=35)** We have a data set, happens to be in Excel, and the target variable is miles per gallon, it's here in column H, and this Excel file will be provided to you.
+> **[0:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/mpg-data-set?u=76281980&t=35)** We have a data set, happens to be in [[Microsoft Excel|Excel]], and the target variable is miles per gallon, it's here in column H, and this Excel file will be provided to you.
 >
 > **[0:46](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/mpg-data-set?u=76281980&t=46)** We won't be using the name of the make and model.
 >
@@ -2089,19 +2056,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** cart (1)
 > **Speakers:** - [instructor] (1)
 
-#### The regression tree prebuilt example
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-regression-tree-prebuilt-example?u=76281980)
+#### [The regression tree prebuilt example](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-regression-tree-prebuilt-example?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-regression-tree-prebuilt-example?u=76281980&t=0)** - [Instructor] Okay, here we are in Knime.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-regression-tree-prebuilt-example?u=76281980&t=0)** - [Instructor] Okay, here we are in [[Knime]].
 >
-> **[0:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-regression-tree-prebuilt-example?u=76281980&t=3)** I've closed all the windows and started with a blank workflow so that we have plenty of room to work.
+> **[0:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-regression-tree-prebuilt-example?u=76281980&t=3)** I've closed all the [[Windows]] and started with a blank workflow so that we have plenty of room to work.
 >
 > **[0:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-regression-tree-prebuilt-example?u=76281980&t=8)** We're going to go over to Examples because there's a good existing example that we can borrow some information from.
 >
@@ -2113,7 +2079,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-regression-tree-prebuilt-example?u=76281980&t=33)** Come back so that we can see that clearly.
 >
-> **[0:36](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-regression-tree-prebuilt-example?u=76281980&t=36)** And of course we have an Excel file.
+> **[0:36](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-regression-tree-prebuilt-example?u=76281980&t=36)** And of course we have an [[Microsoft Excel|Excel]] file.
 >
 > **[0:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-regression-tree-prebuilt-example?u=76281980&t=39)** So you would read in that with the Excel reader.
 >
@@ -2197,7 +2163,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (3), [[Knime]] (2), node (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Knime]] (2), [[Windows]] (1)
 > **CLI Commands:** make (3), node (2)
 > **UI Navigation:** click on (4), go to (1)
 > **Prerequisites:** configure (2), set up (1)
@@ -2206,8 +2172,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 
-#### The math behind regression trees
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-math-behind-regression-trees?u=76281980)
+#### [The math behind regression trees](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/the-math-behind-regression-trees?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2248,12 +2213,11 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### How RT handles nominal variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-rt-handles-nominal-variables?u=76281980)
+#### [How RT handles nominal variables](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-rt-handles-nominal-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-rt-handles-nominal-variables?u=76281980&t=0)** - [Instructor] We're back in KNIME where we were looking at this regression tree.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-rt-handles-nominal-variables?u=76281980&t=0)** - [Instructor] We're back in [[Knime]] where we were looking at this regression tree.
 >
 > **[0:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-rt-handles-nominal-variables?u=76281980&t=5)** So we'll close that and go back to the workflow.
 >
@@ -2293,7 +2257,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-rt-handles-nominal-variables?u=76281980&t=118)** It's just not right. We're going to close this.
 >
-> **[2:02](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-rt-handles-nominal-variables?u=76281980&t=122)** And back in our workflow, we actually have to go back to the Excel reader.
+> **[2:02](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-rt-handles-nominal-variables?u=76281980&t=122)** And back in our workflow, we actually have to go back to the [[Microsoft Excel|Excel]] reader.
 >
 > **[2:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-rt-handles-nominal-variables?u=76281980&t=125)** There's nowhere in the learner node that we can control this.
 >
@@ -2317,7 +2281,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-rt-handles-nominal-variables?u=76281980&t=168)** We're going to go into the learner, execute and open views.
 >
-> **[2:53](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-rt-handles-nominal-variables?u=76281980&t=173)** Maximize. Zoom in a bit.
+> **[2:53](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-rt-handles-nominal-variables?u=76281980&t=173)** Maximize. [[Zoom]] in a bit.
 >
 > **[2:56](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/how-rt-handles-nominal-variables?u=76281980&t=176)** Add that final branch and it looks different now.
 >
@@ -2351,7 +2315,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (6), node (4), [[Microsoft Excel|Excel]] (2), data (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Knime]] (6), [[Microsoft Excel|Excel]] (2), [[Zoom]] (1)
 > **Env Vars:** knime (6)
 > **CLI Commands:** node (4), make (1)
 > **UI Navigation:** click on (3), go to (2)
@@ -2360,8 +2324,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Warnings:** warning (1)
 
-#### Ordinal variable handling
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ordinal-variable-handling?u=76281980)
+#### [Ordinal variable handling](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ordinal-variable-handling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2369,7 +2332,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ordinal-variable-handling?u=76281980&t=7)** We were just talking about nominal variables, now we have to talk about ordinal variables.
 >
-> **[0:13](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ordinal-variable-handling?u=76281980&t=13)** So let's go into the Excel reader and talk about what variables might be considered ordinal.
+> **[0:13](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ordinal-variable-handling?u=76281980&t=13)** So let's go into the [[Microsoft Excel|Excel]] reader and talk about what variables might be considered ordinal.
 >
 > **[0:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ordinal-variable-handling?u=76281980&t=22)** So, ordinal variables are really very similar to nominal in many ways, but they're an ordered category.
 >
@@ -2397,7 +2360,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ordinal-variable-handling?u=76281980&t=156)** and actually we can do a little experiment.
 >
-> **[2:38](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ordinal-variable-handling?u=76281980&t=158)** We can do just cylinder and year, throw them in together and see what happens, but we'll get some illustration of our ordinal variables and it looks like it wants to break on cylinder, I'm going to zoom in a little bit.
+> **[2:38](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ordinal-variable-handling?u=76281980&t=158)** We can do just cylinder and year, throw them in together and see what happens, but we'll get some illustration of our ordinal variables and it looks like it wants to break on cylinder, I'm going to [[Zoom]] in a little bit.
 >
 > **[2:56](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/ordinal-variable-handling?u=76281980&t=176)** In one category we have our four and five cylinder vehicles.
 >
@@ -2419,7 +2382,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Zoom]] (1), node (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Zoom]] (1)
 > **CLI Commands:** node (1), make (1)
 > **Versions:** 4.5 (2)
 > **Analogies:** similar to (1), for instance (1)
@@ -2428,8 +2391,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Closer look at a full regression tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/closer-look-at-a-full-regression-tree?u=76281980)
+#### [Closer look at a full regression tree](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/closer-look-at-a-full-regression-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2465,7 +2427,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/closer-look-at-a-full-regression-tree?u=76281980&t=118)** Since that's difficult to see, we'll close those.
 >
-> **[2:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/closer-look-at-a-full-regression-tree?u=76281980&t=123)** If you were working alone, in other words, if I wasn't on screen, I would zoom out and if possible, put this on a cinema display or you could even print it.
+> **[2:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/closer-look-at-a-full-regression-tree?u=76281980&t=123)** If you were working alone, in other words, if I wasn't on screen, I would [[Zoom]] out and if possible, put this on a cinema display or you could even print it.
 >
 > **[2:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/closer-look-at-a-full-regression-tree?u=76281980&t=136)** I've been on a number of projects where we've done things like that.
 >
@@ -2501,7 +2463,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** in other words (1), is a  (1)
 > **CLI Commands:** find (1)
@@ -2510,8 +2472,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### KNIME's missing data options for regression trees
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/knime-s-missing-data-options-for-regression-trees?u=76281980)
+#### [KNIME's missing data options for regression trees](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/knime-s-missing-data-options-for-regression-trees?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2529,7 +2490,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/knime-s-missing-data-options-for-regression-trees?u=76281980&t=35)** But what it's using is it's using XG boost which is a ensemble technique.
 >
-> **[0:41](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/knime-s-missing-data-options-for-regression-trees?u=76281980&t=41)** So, it's related to decision trees, but it's more complex than the decision tree algorithms that we're talking about in this course.
+> **[0:41](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/knime-s-missing-data-options-for-regression-trees?u=76281980&t=41)** So, it's related to [[Decision Trees]], but it's more complex than the decision tree [[Algorithms]] that we're talking about in this course.
 >
 > **[0:48](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/knime-s-missing-data-options-for-regression-trees?u=76281980&t=48)** And it's predicting whether a case should go down the left branch or the right branch Because remember when we're doing cart we're doing binary splits.
 >
@@ -2561,15 +2522,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Decision Trees]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (1), [[Algorithms]] (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - okay (1)
 
-#### Line plot
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/line-plot?u=76281980)
+#### [Line plot](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/line-plot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2619,13 +2579,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (1), data (1)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** node (1), make (1)
 > **Speakers:** - continuing (1)
 
-#### Accuracy
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/accuracy?u=76281980)
+#### [Accuracy](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/accuracy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2645,7 +2603,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/accuracy?u=76281980&t=64)** If you're doing regression tree, you're probably also trying regression itself, so I would probably focus on the R squared.
 >
-> **[1:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/accuracy?u=76281980&t=76)** Where you see root mean square error used more often is in time series analysis.
+> **[1:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/accuracy?u=76281980&t=76)** Where you see root mean square error used more often is in [[Time Series Analysis]].
 >
 > **[1:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/accuracy?u=76281980&t=82)** So I would focus on the R squared.
 >
@@ -2653,7 +2611,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/accuracy?u=76281980&t=88)** Well, as a refresher, that 73.1% of variance explained, and it's actually pretty high, but two things to say about that.
 >
-> **[1:40](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/accuracy?u=76281980&t=100)** What would be more important would be to compare this performance to performance you were getting in other options like multiple linear regression.
+> **[1:40](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/accuracy?u=76281980&t=100)** What would be more important would be to compare this performance to performance you were getting in other options like multiple [[Linear Regression]].
 >
 > **[1:48](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/accuracy?u=76281980&t=108)** And then the other thing to say about the R squared here is we're measuring something that's almost mechanical engineering in nature, so we would expect it to be quite high.
 >
@@ -2663,11 +2621,11 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/accuracy?u=76281980&t=141)** So there you have it.
 >
-> **[2:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/accuracy?u=76281980&t=142)** That's a pretty thorough orientation to the regression tree learner and the regression tree algorithm in KNIME.
+> **[2:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/accuracy?u=76281980&t=142)** That's a pretty thorough orientation to the regression tree learner and the regression tree algorithm in [[Knime]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Time Series Analysis]] (1), [[Linear Regression]] (1), [[Engineering]] (1), [[Knime]] (1)
+> **Frameworks & Libraries:** [[Time Series Analysis]] (1), [[Linear Regression]] (1), [[Knime]] (1)
 > **Env Vars:** knime (1)
 > **Versions:** 73.1 (1)
 > **UI Navigation:** click on (1)
@@ -2680,8 +2638,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2693,7 +2650,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/next-steps?u=76281980&t=13)** Then I think there are three paths you could take.
 >
-> **[0:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/next-steps?u=76281980&t=17)** You could develop more skill in KNIME.
+> **[0:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/next-steps?u=76281980&t=17)** You could develop more skill in [[Knime]].
 >
 > **[0:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/next-steps?u=76281980&t=19)** It's a great platform with a great user community.
 >
@@ -2701,7 +2658,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/next-steps?u=76281980&t=29)** For instance, I've dedicated an entire course to ensemble techniques, including random force.
 >
-> **[0:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/next-steps?u=76281980&t=35)** Finally, you could explore alternative algorithms that also do classification.
+> **[0:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/next-steps?u=76281980&t=35)** Finally, you could explore alternative [[Algorithms]] that also do classification.
 >
 > **[0:41](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/next-steps?u=76281980&t=41)** There's a course that explores about a dozen of them.
 >
@@ -2709,13 +2666,13 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/next-steps?u=76281980&t=47)** Make sure that you give that a try.
 >
-> **[0:50](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/next-steps?u=76281980&t=50)** So I hope that you'll have fun with more learning and that you'll stay in touch by following me on LinkedIn.
+> **[0:50](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/next-steps?u=76281980&t=50)** So I hope that you'll have fun with more learning and that you'll stay in touch by following me on [[LinkedIn]].
 >
 > **[0:57](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees-with-knime/next-steps?u=76281980&t=57)** Let me know how it's going.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (2), next (1), data (1), [[Algorithms]] (1), feature (1)
+> **Frameworks & Libraries:** [[Knime]] (2), [[Algorithms]] (1), [[LinkedIn]] (1)
 > **Env Vars:** knime (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)

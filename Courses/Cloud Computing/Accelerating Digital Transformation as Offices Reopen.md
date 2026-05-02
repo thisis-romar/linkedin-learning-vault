@@ -56,12 +56,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Opening your doors to digital transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/opening-your-doors-to-digital-transformation?u=76281980)
+#### [Opening your doors to digital transformation](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/opening-your-doors-to-digital-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/opening-your-doors-to-digital-transformation?u=76281980&t=1)** - Digital transformation means different things to different businesses, but no matter how you define it, everyone has accelerated their version of digital transformation.
+> **[0:01](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/opening-your-doors-to-digital-transformation?u=76281980&t=1)** - [[Digital Transformation]] means different things to different businesses, but no matter how you define it, everyone has accelerated their version of digital transformation.
 >
 > **[0:10](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/opening-your-doors-to-digital-transformation?u=76281980&t=10)** The world as we know it is officially changed.
 >
@@ -83,7 +82,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/opening-your-doors-to-digital-transformation?u=76281980&t=49)** I hope you'll join me on this journey.
 >
-> **[0:52](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/opening-your-doors-to-digital-transformation?u=76281980&t=52)** I'm Laura Merling, transformation officer at Google Cloud.
+> **[0:52](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/opening-your-doors-to-digital-transformation?u=76281980&t=52)** I'm Laura Merling, transformation officer at [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[0:55](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/opening-your-doors-to-digital-transformation?u=76281980&t=55)** My journey for transformation started a long time ago, using the PalmPilot to track inventory in a warehouse.
 >
@@ -93,7 +92,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (3), business (3), [[Google Cloud Platform (GCP)|Google cloud]] (1), next (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - digital (1)
 
@@ -102,8 +101,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a resilient business
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/creating-a-resilient-business?u=76281980)
+#### [Creating a resilient business](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/creating-a-resilient-business?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -139,9 +137,9 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/creating-a-resilient-business?u=76281980&t=70)** It really is about your digital strategy.
 >
-> **[1:13](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/creating-a-resilient-business?u=76281980&t=73)** It begins with digital transformation, and it's about data at the center stage of that transformation.
+> **[1:13](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/creating-a-resilient-business?u=76281980&t=73)** It begins with [[Digital Transformation]], and it's about data at the center stage of that transformation.
 >
-> **[1:20](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/creating-a-resilient-business?u=76281980&t=80)** It's about applying data and algorithms and scrutinizing your company's strengths and weaknesses.
+> **[1:20](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/creating-a-resilient-business?u=76281980&t=80)** It's about applying data and [[Algorithms]] and scrutinizing your company's strengths and weaknesses.
 >
 > **[1:25](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/creating-a-resilient-business?u=76281980&t=85)** And of course, looking to spot potential market impacts.
 >
@@ -161,13 +159,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), data (4), [[Algorithms]] (2), [[Digital Transformation]] (1), strengths (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Digital Transformation]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** b2b (1)
 > **Speakers:** - over (1)
 
-#### Innovation inside the enterprise
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/innovation-inside-the-enterprise?u=76281980)
+#### [Innovation inside the enterprise](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/innovation-inside-the-enterprise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -195,7 +192,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/innovation-inside-the-enterprise?u=76281980&t=62)** They need to think about where the world is going in 2030.
 >
-> **[1:06](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/innovation-inside-the-enterprise?u=76281980&t=66)** They need to think about the impact that artificial intelligence will have.
+> **[1:06](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/innovation-inside-the-enterprise?u=76281980&t=66)** They need to think about the impact that [[Artificial Intelligence (AI)|artificial intelligence]] will have.
 >
 > **[1:09](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/innovation-inside-the-enterprise?u=76281980&t=69)** It's about $13 trillion in economic output.
 >
@@ -223,7 +220,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/innovation-inside-the-enterprise?u=76281980&t=127)** Third and final pillar is really time and investment.
 >
-> **[2:12](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/innovation-inside-the-enterprise?u=76281980&t=132)** Cloud computing, connectivity and the vast amounts of data empower us to get something to market fast and learn.
+> **[2:12](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/innovation-inside-the-enterprise?u=76281980&t=132)** [[Cloud Computing]], connectivity and the vast amounts of data empower us to get something to market fast and learn.
 >
 > **[2:20](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/innovation-inside-the-enterprise?u=76281980&t=140)** The investment strategy is about setting realistic returns and then making sure that that return is based on all your company stakeholders.
 >
@@ -243,19 +240,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), cloud (1), data (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Cloud Computing]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - enterprise (1)
 
-#### Shift from B2B to B2C
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/shift-from-b2b-to-b2c?u=76281980)
+#### [Shift from B2B to B2C](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/shift-from-b2b-to-b2c?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/shift-from-b2b-to-b2c?u=76281980&t=1)** - Over the last year, we've witnessed an acceleration of changes that we just knew were eventually coming.
 >
-> **[0:06](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/shift-from-b2b-to-b2c?u=76281980&t=6)** Acceleration in new business models, investment in digital transformation and a technology strategy that looks much more like B2C.
+> **[0:06](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/shift-from-b2b-to-b2c?u=76281980&t=6)** Acceleration in new business models, investment in [[Digital Transformation]] and a technology strategy that looks much more like B2C.
 >
 > **[0:14](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/shift-from-b2b-to-b2c?u=76281980&t=14)** What does that mean?
 >
@@ -289,7 +285,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/shift-from-b2b-to-b2c?u=76281980&t=95)** The first is to establish data-driven processes.
 >
-> **[1:39](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/shift-from-b2b-to-b2c?u=76281980&t=99)** The second is to deliver relevant, artificial intelligence-based personalized experiences.
+> **[1:39](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/shift-from-b2b-to-b2c?u=76281980&t=99)** The second is to deliver relevant, [[Artificial Intelligence (AI)|artificial intelligence]]-based personalized experiences.
 >
 > **[1:45](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/shift-from-b2b-to-b2c?u=76281980&t=105)** And last, it's about creating an omnichannel strategy.
 >
@@ -301,7 +297,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/shift-from-b2b-to-b2c?u=76281980&t=123)** This is way more than a recommendation engine.
 >
-> **[2:06](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/shift-from-b2b-to-b2c?u=76281980&t=126)** If I'm in banking, it's about knowing that an automatic payment is coming due and you're going to send me a notice to prevent an overdraft.
+> **[2:06](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/shift-from-b2b-to-b2c?u=76281980&t=126)** If I'm in [[Banking]], it's about knowing that an automatic payment is coming due and you're going to send me a notice to prevent an overdraft.
 >
 > **[2:15](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/shift-from-b2b-to-b2c?u=76281980&t=135)** And last, creating an omnichannel experience.
 >
@@ -317,18 +313,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (19), data (2), [[Digital Transformation]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Banking]] (1)
 > **Env Vars:** b2c (2)
 > **Definitions:** means that (2)
 > **Prerequisites:** required to (1), you'll need (1)
 > **Speakers:** - over (1)
 
-#### Know the consumer
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/know-the-consumer?u=76281980)
+#### [Know the consumer](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/know-the-consumer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/know-the-consumer?u=76281980&t=1)** - Customers are at the core of every business's digital transformation and the end consumer now drives those experiences.
+> **[0:01](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/know-the-consumer?u=76281980&t=1)** - Customers are at the core of every business's [[Digital Transformation]] and the end consumer now drives those experiences.
 >
 > **[0:08](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/know-the-consumer?u=76281980&t=8)** They make the demands on every business.
 >
@@ -414,17 +409,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Digital Transformation]] (2), data (1), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** just like (1)
 > **Speakers:** - customers (1)
 
-#### Data monetization and data-driven culture
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/data-monetization-and-data-driven-culture?u=76281980)
+#### [Data monetization and data-driven culture](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/data-monetization-and-data-driven-culture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/data-monetization-and-data-driven-culture?u=76281980&t=1)** - Digital transformation offers us the opportunity to access an unprecedented amount of data.
+> **[0:01](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/data-monetization-and-data-driven-culture?u=76281980&t=1)** - [[Digital Transformation]] offers us the opportunity to access an unprecedented amount of data.
 >
 > **[0:06](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/data-monetization-and-data-driven-culture?u=76281980&t=6)** Data can be used not only to transform the business, but also to create new business models and new business value.
 >
@@ -448,7 +442,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/data-monetization-and-data-driven-culture?u=76281980&t=60)** So maybe you have a new information-based offering where you're packaging up the data as an outcome, and you're selling that.
 >
-> **[1:09](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/data-monetization-and-data-driven-culture?u=76281980&t=69)** The fourth one is about informationalizing products.
+> **[1:09](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/data-monetization-and-data-driven-culture?u=76281980&t=69)** The fourth one is about informationalizing [[Microsoft Products|products]].
 >
 > **[1:13](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/data-monetization-and-data-driven-culture?u=76281980&t=73)** So think about having a connected product, and that product has data exhaust, and you are going to give that back to the client as part of not only the data itself, the physical object, but the data that comes with it to help improve a business or an offering.
 >
@@ -486,25 +480,24 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/data-monetization-and-data-driven-culture?u=76281980&t=196)** To that end, not all data is created equal, and it is quickly becoming a commodity.
 >
-> **[3:23](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/data-monetization-and-data-driven-culture?u=76281980&t=203)** So you want to make sure that you build your data monetization strategy based on a sustainable business model.
+> **[3:23](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/data-monetization-and-data-driven-culture?u=76281980&t=203)** So you want to make sure that you build your data monetization strategy based on a [[Sustainable Business]] model.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), business (12), product (2), [[Digital Transformation]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Microsoft Products|Products]] (1), [[Sustainable Business]] (1)
 > **CLI Commands:** make (6)
 > **Definitions:** means that (1)
 > **Speakers:** - digital (1)
 
-#### Reshaping, reskilling, and upskilling the workforce
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/reshaping-reskilling-and-upskilling-the-workforce?u=76281980)
+#### [Reshaping, reskilling, and upskilling the workforce](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/reshaping-reskilling-and-upskilling-the-workforce?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/reshaping-reskilling-and-upskilling-the-workforce?u=76281980&t=1)** - Over the last year organizations around the globe have come to a realization.
 >
-> **[0:05](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/reshaping-reskilling-and-upskilling-the-workforce?u=76281980&t=5)** They face a future in which legacy businesses, businesses that are not agile and those that are not operating on a modern technology platform are quickly becoming obsolete.
+> **[0:05](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/reshaping-reskilling-and-upskilling-the-workforce?u=76281980&t=5)** They face a future in which legacy businesses, businesses that are not [[Agile Development|agile]] and those that are not operating on a modern technology platform are quickly becoming obsolete.
 >
-> **[0:16](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/reshaping-reskilling-and-upskilling-the-workforce?u=76281980&t=16)** The new business landscape requires skills and cloud computing, user experience data science, connectivity and a vast amount of other technical capabilities.
+> **[0:16](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/reshaping-reskilling-and-upskilling-the-workforce?u=76281980&t=16)** The new business landscape requires skills and [[Cloud Computing]], [[User Experience (UX)|user experience]] [[Data Science]], connectivity and a vast amount of other technical capabilities.
 >
 > **[0:27](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/reshaping-reskilling-and-upskilling-the-workforce?u=76281980&t=27)** As jobs are transformed by technologies in the fourth industrial revolution, we actually are expected to need to re-skill more than one billion people by 2030.
 >
@@ -538,7 +531,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/reshaping-reskilling-and-upskilling-the-workforce?u=76281980&t=125)** It includes collaboration and relationship development.
 >
-> **[2:08](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/reshaping-reskilling-and-upskilling-the-workforce?u=76281980&t=128)** It's all the soft skills that we often forget about.
+> **[2:08](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/reshaping-reskilling-and-upskilling-the-workforce?u=76281980&t=128)** It's all the [[Soft Skills]] that we often forget about.
 >
 > **[2:11](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/reshaping-reskilling-and-upskilling-the-workforce?u=76281980&t=131)** Next, your business should look at reshaping the workforce and strategically using independent freelancers and consultants.
 >
@@ -558,7 +551,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Agile Development|Agile]] (1), cloud (1), [[User Experience (UX)|User experience]] (1), data (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Cloud Computing]] (1), [[User Experience (UX)|User experience]] (1), [[Data Science]] (1), [[Soft Skills]] (1)
 > **Speakers:** - over (1)
 
 
@@ -566,8 +559,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The future of work
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/the-future-of-work?u=76281980)
+#### [The future of work](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/the-future-of-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -577,7 +569,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/the-future-of-work?u=76281980&t=8)** And it's happening at an increasing pace.
 >
-> **[0:11](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/the-future-of-work?u=76281980&t=11)** From the impact of technology, such as artificial intelligence and augmented reality, to things like population shifts, with over a billion people being added to the global population.
+> **[0:11](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/the-future-of-work?u=76281980&t=11)** From the impact of technology, such as [[Artificial Intelligence (AI)|artificial intelligence]] and augmented reality, to things like population shifts, with over a billion people being added to the global population.
 >
 > **[0:22](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/the-future-of-work?u=76281980&t=22)** We will also see a shift in the global economy.
 >
@@ -593,17 +585,17 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/the-future-of-work?u=76281980&t=43)** A global perspective, first and foremost, sets the foundation for resilience.
 >
-> **[0:48](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/the-future-of-work?u=76281980&t=48)** It's about data-driven insights and algorithms that see beyond what we can think about today.
+> **[0:48](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/the-future-of-work?u=76281980&t=48)** It's about data-driven insights and [[Algorithms]] that see beyond what we can think about today.
 >
 > **[0:54](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/the-future-of-work?u=76281980&t=54)** So imagine being able to predict supply chain shortages, in things like silicon, using satellite imagery, and artificial intelligence to understand changes in geological landscapes.
 >
 > **[1:05](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/the-future-of-work?u=76281980&t=65)** Now, a growth mindset is the ability to believe that people, including oneself, can change their talents and abilities.
 >
-> **[1:12](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/the-future-of-work?u=76281980&t=72)** The new landscape requires skills in cloud computing, coding, data science, and other capabilities.
+> **[1:12](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/the-future-of-work?u=76281980&t=72)** The new landscape requires skills in [[Cloud Computing]], coding, [[Data Science]], and other capabilities.
 >
 > **[1:19](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/the-future-of-work?u=76281980&t=79)** And lastly, a social enterprise has a mission that combines revenue growth, and profit making, with the need to respect and support the environment, and the stakeholders of your network.
 >
-> **[1:30](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/the-future-of-work?u=76281980&t=90)** Using digital transformation and the data exhaust, is a thoughtful way to understand more about your environmental impact.
+> **[1:30](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/the-future-of-work?u=76281980&t=90)** Using [[Digital Transformation]] and the data exhaust, is a thoughtful way to understand more about your environmental impact.
 >
 > **[1:37](https://www.linkedin.com/learning/accelerating-digital-transformation-as-offices-reopen/the-future-of-work?u=76281980&t=97)** You can be that thoughtful partner.
 >
@@ -615,7 +607,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Algorithms]] (1), cloud (1), [[Digital Transformation]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Algorithms]] (1), [[Cloud Computing]] (1), [[Data Science]] (1), [[Digital Transformation]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), imagine (1)
 > **Speakers:** - we (1)

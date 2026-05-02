@@ -88,8 +88,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### LLMs for industry
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/llms-for-industry?u=76281980)
+#### [LLMs for industry](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/llms-for-industry?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -99,7 +98,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/llms-for-industry?u=76281980&t=14)** This course will provide the tools and knowledge to put you ahead of the curve.
 >
-> **[0:19](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/llms-for-industry?u=76281980&t=19)** Learn the nuances of compressing these vast models without losing their capabilities, and master the art of prompt engineering a technique that molds LLM into specific application.
+> **[0:19](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/llms-for-industry?u=76281980&t=19)** Learn the nuances of compressing these vast models without losing their capabilities, and master the art of [[Prompt Engineering]] a technique that molds LLM into specific application.
 >
 > **[0:33](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/llms-for-industry?u=76281980&t=33)** By the end of LLM Ops part one, you will walk away with not just theoretical knowledge, but practical skills to build, fine tune, and deploy industry specific LLMs.
 >
@@ -107,18 +106,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (4), [[Prompt Engineering]] (1), application (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (1)
 > **Env Vars:** llm (4)
 > **Speakers:** - [instructor] (1)
 
-#### Industry-specific LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/industry-specific-llms?u=76281980)
+#### [Industry-specific LLMs](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/industry-specific-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/industry-specific-llms?u=76281980&t=0)** - [Instructor] Hello, everyone.
 >
-> **[0:01](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/industry-specific-llms?u=76281980&t=1)** Today, we'll be exploring an exciting trend in the rise of industry-specific large language models, or LLMs.
+> **[0:01](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/industry-specific-llms?u=76281980&t=1)** Today, we'll be exploring an exciting trend in the rise of industry-specific [[Large Language Models (LLM)|large language models]], or LLMs.
 >
 > **[0:10](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/industry-specific-llms?u=76281980&t=10)** These models aren't just theoretical.
 >
@@ -146,13 +144,13 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/industry-specific-llms?u=76281980&t=76)** It requires access to large, specialized datasets and focused research efforts.
 >
-> **[1:23](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/industry-specific-llms?u=76281980&t=83)** Case in point, BloombergGPT, a 50-billion parameter LLM trained on financial data, outperforms far larger general LLMs on financial tasks.
+> **[1:23](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/industry-specific-llms?u=76281980&t=83)** Case in point, BloombergGPT, a 50-billion parameter LLM trained on [[Financial Data]], outperforms far larger general LLMs on financial tasks.
 >
 > **[1:37](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/industry-specific-llms?u=76281980&t=97)** With LLMs that can understand industry-specific jargons, dynamics, and nuances, businesses can benefit from far more accurate and relevant insights.
 >
 > **[1:49](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/industry-specific-llms?u=76281980&t=109)** That's the promise of industry-specific LLMs.
 >
-> **[1:52](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/industry-specific-llms?u=76281980&t=112)** With every leap in technology, there are hurdles to cross, in this case, ethical implications, privacy concerns, and potential monopolies.
+> **[1:52](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/industry-specific-llms?u=76281980&t=112)** With every leap in technology, there are hurdles to cross, in this case, ethical implications, [[Privacy]] concerns, and potential monopolies.
 >
 > **[2:02](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/industry-specific-llms?u=76281980&t=122)** The question is whether this will democratize AI or widen the gap between tech giants and small players.
 >
@@ -170,7 +168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), llm (4), [[Large Language Models (LLM)|Large language models]] (1), data (1), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[Financial Data]] (1), [[Privacy]] (1)
 > **Env Vars:** llm (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -182,14 +180,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding LLMs and their evolution
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980)
+#### [Understanding LLMs and their evolution](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=0)** - [Instructor] Hello, everyone.
 >
-> **[0:01](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=1)** Welcome to our exploration into the world of large language models and their incredible evolution that has reshaped the natural language processing landscape.
+> **[0:01](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=1)** Welcome to our exploration into the world of [[Large Language Models (LLM)|large language models]] and their incredible evolution that has reshaped the [[Natural Language Processing (NLP)|natural language processing]] landscape.
 >
 > **[0:13](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=13)** Before we dive deep into the technicalities, let's kick things off on a lighter note.
 >
@@ -197,11 +194,11 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=24)** Meet our friendly guides who will accompany us throughout the world of LLMs making this learning experience both educational and entertaining.
 >
-> **[0:34](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=34)** Before 2017, recurrent neural networks or RNNs and convolution neural networks or CNNs were the front runners for handling sequence data.
+> **[0:34](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=34)** Before 2017, recurrent [[Neural Networks]] or RNNs and convolution neural networks or CNNs were the front runners for handling sequence data.
 >
 > **[0:46](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=46)** RRNs useful for context-based tasks.
 >
-> **[0:49](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=49)** On the other hand, CNNs excel in parallel input data processing.
+> **[0:49](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=49)** On the other hand, CNNs [[Microsoft Excel|excel]] in parallel input [[Data Processing]].
 >
 > **[0:55](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=55)** RNNs often struggle with maintaining long sequence context due to vanishing gradient problem.
 >
@@ -211,7 +208,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=75)** RNNs and CNNs required considerable data pre-processing and tokenization was essential step.
 >
-> **[1:24](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=84)** Think of it as chopping a sentence into bite-sized pieces or tokens for the model to analyze sequentially.
+> **[1:24](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=84)** Think of it as chopping a sentence into bite-sized pieces or [[Tokens]] for the model to analyze sequentially.
 >
 > **[1:34](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=94)** Understanding tokenization is a key to grasping how large language models process language.
 >
@@ -223,7 +220,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=132)** In 2018, OpenAI introduced the first generative pre-trained transformer or GPT.
 >
-> **[2:20](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=140)** Trained unsupervised on a large corpus of text, GPT's primary goal was to predict the next word in a sentence.
+> **[2:20](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=140)** Trained unsupervised on a large corpus of text, GPT's primary goal was to predict the next [[Microsoft Word|word]] in a sentence.
 >
 > **[2:29](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=149)** The new ability allowed GPT to generate coherent and contextually relevant sentences.
 >
@@ -231,13 +228,13 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=161)** In 2019, GPT-2 was introduced, an enhanced model, bigger and equipped with more parameters.
 >
-> **[2:51](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=171)** It was initially not released due to fears of misuse, but eventually found its place in real-world application like content creation and gaming.
+> **[2:51](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=171)** It was initially not released due to fears of misuse, but eventually found its place in real-world application like [[Content Creation]] and gaming.
 >
 > **[3:03](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=183)** 2020 saw the advent of GPT-3, a state-of-the-art model significantly larger and more powerful.
 >
 > **[3:13](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=193)** The introduction of API allowed developers to create a diverse array of application.
 >
-> **[3:20](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=200)** With features like few-shot learning and stronger contextual awareness, GPT-3 not only expanded the horizon of text generation, but also raised essential discussions on ethics and biases in LLMs.
+> **[3:20](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=200)** With features like few-shot learning and stronger contextual awareness, GPT-3 not only expanded the horizon of text generation, but also raised essential discussions on [[Ethics]] and biases in LLMs.
 >
 > **[3:37](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/understanding-llms-and-their-evolution?u=76281980&t=217)** As we conclude, it is evident that LLMs have revolutionized the NLP field in a short span.
 >
@@ -253,21 +250,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), parallel (3), [[Large Language Models (LLM)|Large language models]] (2), [[Neural Networks]] (2), [[Tokens]] (2)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[Neural Networks]] (2), [[Data Processing]] (2), [[Tokens]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** gpt (7), api (1), nlp (1)
 > **Cross-References:** next chapter (1)
 > **Definitions:** is a  (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Real-world applications of LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/real-world-applications-of-llms?u=76281980)
+#### [Real-world applications of LLMs](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/real-world-applications-of-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/real-world-applications-of-llms?u=76281980&t=0)** - [Instructor] Welcome back, dear large language model enthusiast.
 >
-> **[0:04](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/real-world-applications-of-llms?u=76281980&t=4)** Buckle up because we are about to embark on an adventurous journey to explore the magical world of large language models or LLMs.
+> **[0:04](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/real-world-applications-of-llms?u=76281980&t=4)** Buckle up because we are about to embark on an adventurous journey to explore the magical world of [[Large Language Models (LLM)|large language models]] or LLMs.
 >
 > **[0:13](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/real-world-applications-of-llms?u=76281980&t=13)** No magic wands or wizard hats are needed.
 >
@@ -317,7 +313,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), business (1), product (1), data (1), prompt (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1)
 > **Analogies:** it's like (3), imagine (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
@@ -327,14 +323,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of LLM architectures
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/overview-of-llm-architectures?u=76281980)
+#### [Overview of LLM architectures](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/overview-of-llm-architectures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/overview-of-llm-architectures?u=76281980&t=0)** - [Instructor] Welcome to a thrilling exploration of building applications with large language models or LLMs.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/overview-of-llm-architectures?u=76281980&t=0)** - [Instructor] Welcome to a thrilling exploration of building applications with [[Large Language Models (LLM)|large language models]] or LLMs.
 >
-> **[0:06](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/overview-of-llm-architectures?u=76281980&t=6)** Unlike traditional software development where we turn code into binary to execute commands, working with LLM involves navigating data sets, embeddings, and parameter reads.
+> **[0:06](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/overview-of-llm-architectures?u=76281980&t=6)** Unlike traditional [[Software Development]] where we turn code into binary to execute commands, working with LLM involves navigating data sets, embeddings, and parameter reads.
 >
 > **[0:19](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/overview-of-llm-architectures?u=76281980&t=19)** The outputs are probabilistic, adding a layer of complexity and excitement to our task.
 >
@@ -346,7 +341,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/overview-of-llm-architectures?u=76281980&t=43)** We start small to iterate rapidly, yet the problem must be substantial enough to make users' jaw drop.
 >
-> **[0:52](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/overview-of-llm-architectures?u=76281980&t=52)** Imagine zeroing in on a coding hiccup with the vast development lifecycle, much like the GitHub Copilot team once did.
+> **[0:52](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/overview-of-llm-architectures?u=76281980&t=52)** Imagine zeroing in on a coding hiccup with the vast development lifecycle, much like the [[GitHub Copilot]] team once did.
 >
 > **[1:03](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/overview-of-llm-architectures?u=76281980&t=63)** Next up, selecting the right LLM is picking a trustee sidekick.
 >
@@ -362,7 +357,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/overview-of-llm-architectures?u=76281980&t=101)** In-context learning is akin to giving your LLM a last-minute briefing, ensuring it generates output that's relevant to the situation at hand.
 >
-> **[1:52](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/overview-of-llm-architectures?u=76281980&t=112)** Reinforcement learning from human feedback is like training a pet with treats.
+> **[1:52](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/overview-of-llm-architectures?u=76281980&t=112)** [[Reinforcement Learning]] from human feedback is like training a pet with treats.
 >
 > **[1:57](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/overview-of-llm-architectures?u=76281980&t=117)** It helps the model learn from the user interactions.
 >
@@ -384,11 +379,11 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/overview-of-llm-architectures?u=76281980&t=179)** We monitor how users interact with the app using acceptance and retention rates to gauge success.
 >
-> **[3:05](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/overview-of-llm-architectures?u=76281980&t=185)** This feedback informs iterative improvements, enhancing user experience, and refining the LLM's predictive powers.
+> **[3:05](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/overview-of-llm-architectures?u=76281980&t=185)** This feedback informs iterative improvements, enhancing [[User Experience (UX)|user experience]], and refining the LLM's predictive powers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (11), data (2), [[Large Language Models (LLM)|Large language models]] (1), [[Software Development]] (1), [[GitHub Copilot]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[Software Development]] (1), [[GitHub Copilot]] (1), [[Reinforcement Learning]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** llm (11)
 > **CLI Commands:** make (3)
 > **Analogies:** it's like (1), imagine (1), such as (1)
@@ -397,14 +392,13 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** setup (1)
 
-#### How LLMs process and generate text
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/how-llms-process-and-generate-text?u=76281980)
+#### [How LLMs process and generate text](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/how-llms-process-and-generate-text?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/how-llms-process-and-generate-text?u=76281980&t=0)** - [Instructor] Welcome.
 >
-> **[0:01](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/how-llms-process-and-generate-text?u=76281980&t=1)** Today we are going to delve deep into the intricate workings of large language models, or LLMs, and explore how they process and generate text.
+> **[0:01](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/how-llms-process-and-generate-text?u=76281980&t=1)** Today we are going to delve deep into the intricate workings of [[Large Language Models (LLM)|large language models]], or LLMs, and explore how they process and generate text.
 >
 > **[0:12](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/how-llms-process-and-generate-text?u=76281980&t=12)** As you can see, our friendly guides are back and they're just as curious as we are.
 >
@@ -414,7 +408,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/how-llms-process-and-generate-text?u=76281980&t=31)** Language models and human brains, though similar, operate quite differently.
 >
-> **[0:36](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/how-llms-process-and-generate-text?u=76281980&t=36)** LLMs like GPT, predict the next word in a sentence based solely on patterns they have been trained on.
+> **[0:36](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/how-llms-process-and-generate-text?u=76281980&t=36)** LLMs like GPT, predict the next [[Microsoft Word|word]] in a sentence based solely on patterns they have been trained on.
 >
 > **[0:44](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/how-llms-process-and-generate-text?u=76281980&t=44)** Unlike humans, they don't understand text in the way we do, nor do they have emotion or consciousness.
 >
@@ -422,9 +416,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/how-llms-process-and-generate-text?u=76281980&t=59)** How would a human solve it?
 >
-> **[1:02](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/how-llms-process-and-generate-text?u=76281980&t=62)** We would Google the population, do the math, and then do a sanity check to see if it sounds right.
+> **[1:02](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/how-llms-process-and-generate-text?u=76281980&t=62)** We would [[Google]] the population, do the math, and then do a sanity check to see if it sounds right.
 >
-> **[1:11](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/how-llms-process-and-generate-text?u=76281980&t=71)** A LLM on the other hand, uses tokens and a knowledge base to estimate the answer.
+> **[1:11](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/how-llms-process-and-generate-text?u=76281980&t=71)** A LLM on the other hand, uses [[Tokens]] and a knowledge base to estimate the answer.
 >
 > **[1:18](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/how-llms-process-and-generate-text?u=76281980&t=78)** Unlike humans, LLMs lack an internal monologue and won't do a sanity check or reflect the question.
 >
@@ -462,14 +456,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Tokens]] (4), next (3), llm (2), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Tokens]] (4), [[Large Language Models (LLM)|Large language models]] (1), [[Google]] (1)
 > **Env Vars:** llm (2), gpt (1)
 > **CLI Commands:** make (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### The building blocks of LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/the-building-blocks-of-llms?u=76281980)
+#### [The building blocks of LLMs](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/the-building-blocks-of-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -491,7 +484,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/the-building-blocks-of-llms?u=76281980&t=65)** Imagine a relay race where the baton is passed from one runner to another, each with its unique role.
 >
-> **[1:13](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/the-building-blocks-of-llms?u=76281980&t=73)** These runners or services include embedding converters, embedding databases, context detectors, and model prompters.
+> **[1:13](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/the-building-blocks-of-llms?u=76281980&t=73)** These runners or services include embedding converters, embedding [[Databases]], context detectors, and model prompters.
 >
 > **[1:22](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/the-building-blocks-of-llms?u=76281980&t=82)** Let's dive a little deeper, shall we?
 >
@@ -523,15 +516,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (5), [[Databases]] (3), next (1), prompt (1), api (1)
+> **Frameworks & Libraries:** [[Databases]] (3)
 > **Env Vars:** llm (5), lms (1), api (1)
 > **Analogies:** think of it as (1), such as (1), imagine (1), similar to (1), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using a simple LLM
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/using-a-simple-llm?u=76281980)
+#### [Using a simple LLM](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/using-a-simple-llm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -543,7 +535,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/using-a-simple-llm?u=76281980&t=16)** The first step is to always install and import packages we will use.
 >
-> **[0:22](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/using-a-simple-llm?u=76281980&t=22)** For this course, we will be mostly using data and models from Hugging Face.
+> **[0:22](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/using-a-simple-llm?u=76281980&t=22)** For this course, we will be mostly using data and models from [[Hugging Face]].
 >
 > **[0:28](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/using-a-simple-llm?u=76281980&t=28)** The next step is to download the model and its corresponding token from Hugging Face.
 >
@@ -569,7 +561,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/using-a-simple-llm?u=76281980&t=109)** However, since GPT2 is a small LLM, it should also run reasonably fast on a CPU.
 >
-> **[1:58](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/using-a-simple-llm?u=76281980&t=118)** The next step is to fetch the model and tokenizer from Hugging Face.
+> **[1:58](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/using-a-simple-llm?u=76281980&t=118)** The next step is to [[Fetch]] the model and tokenizer from Hugging Face.
 >
 > **[2:03](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/using-a-simple-llm?u=76281980&t=123)** All we need to do is initialize and object the tokenizer and model and specify which model we want to use.
 >
@@ -583,7 +575,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/using-a-simple-llm?u=76281980&t=162)** You can see that I have specified a few parameters here.
 >
-> **[2:47](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/using-a-simple-llm?u=76281980&t=167)** Max New token specifies the number of tokens to generate from the model.
+> **[2:47](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/using-a-simple-llm?u=76281980&t=167)** Max New token specifies the number of [[Tokens]] to generate from the model.
 >
 > **[2:52](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/using-a-simple-llm?u=76281980&t=172)** The other parameters make the output less generic and more vibrant.
 >
@@ -595,7 +587,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (7), next (6), llm (5), data (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (7), [[Fetch]] (1), [[Tokens]] (1)
 > **Env Vars:** llm (5), gpt2 (3), gpu (2), pip (1), cpu (1)
 > **CLI Commands:** make (2), pip (1)
 > **Prerequisites:** install (2)
@@ -603,8 +595,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: LLM for sentiment analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-llm-for-sentiment-analysis?u=76281980)
+#### [Challenge: LLM for sentiment analysis](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-llm-for-sentiment-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -616,13 +607,13 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-llm-for-sentiment-analysis?u=76281980&t=29)** The three primary sentiments are positive, neutral, and negative.
 >
-> **[0:34](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-llm-for-sentiment-analysis?u=76281980&t=34)** A common application for sentimental analysis is used to gauge the sentiment of a customer when they're chatting with customer support.
+> **[0:34](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-llm-for-sentiment-analysis?u=76281980&t=34)** A common application for sentimental analysis is used to gauge the sentiment of a customer when they're chatting with [[Customer Support]].
 >
 > **[0:44](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-llm-for-sentiment-analysis?u=76281980&t=44)** For this challenge, you will be using pre-trained LLM that already does sentiment analysis.
 >
 > **[0:51](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-llm-for-sentiment-analysis?u=76281980&t=51)** In this case, it is a roberta-based LLM.
 >
-> **[0:55](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-llm-for-sentiment-analysis?u=76281980&t=55)** The first step will be to find an LLM from Hugging Face.
+> **[0:55](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-llm-for-sentiment-analysis?u=76281980&t=55)** The first step will be to find an LLM from [[Hugging Face]].
 >
 > **[1:00](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-llm-for-sentiment-analysis?u=76281980&t=60)** Then you will need to download the model and it's corresponding tokenizer.
 >
@@ -638,7 +629,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (6), next (3), api (2), nlp (1), application (1)
+> **Frameworks & Libraries:** [[Customer Support]] (1), [[Hugging Face]] (1)
 > **Env Vars:** llm (6), api (2), nlp (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -647,8 +638,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: LLM for sentiment analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-llm-for-sentiment-analysis?u=76281980)
+#### [Solution: LLM for sentiment analysis](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-llm-for-sentiment-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -658,7 +648,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-llm-for-sentiment-analysis?u=76281980&t=19)** First, we install the packages we need.
 >
-> **[0:22](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-llm-for-sentiment-analysis?u=76281980&t=22)** In this case, we need to install transformers, which is a package by hugging face.
+> **[0:22](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-llm-for-sentiment-analysis?u=76281980&t=22)** In this case, we need to install transformers, which is a package by [[Hugging Face]].
 >
 > **[0:28](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-llm-for-sentiment-analysis?u=76281980&t=28)** Then we need to import the tokenizer and auto model classes from the transformer.
 >
@@ -680,7 +670,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (2), [[Hugging Face]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (1)
 > **Prerequisites:** install (2), required to (1)
 > **Env Vars:** llm (2)
 > **Definitions:** is a  (2)
@@ -694,12 +684,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to fine-tuning for LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-fine-tuning-for-llms?u=76281980)
+#### [Introduction to fine-tuning for LLMs](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-fine-tuning-for-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-fine-tuning-for-llms?u=76281980&t=0)** - [Instructor] As we delve deeper into the world of LLM, it is crucial to understand the concept of fine tuning.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-fine-tuning-for-llms?u=76281980&t=0)** - [Instructor] As we delve deeper into the world of LLM, it is crucial to understand the concept of [[Fine Tuning]].
 >
 > **[0:07](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-fine-tuning-for-llms?u=76281980&t=7)** Imagine having a vast library of books in your mind.
 >
@@ -727,7 +716,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-fine-tuning-for-llms?u=76281980&t=65)** It's like a difference between a jack of all trades and a master of one.
 >
-> **[1:10](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-fine-tuning-for-llms?u=76281980&t=70)** To truly excel in a specific domain or tasks, they require additional targeted training.
+> **[1:10](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-fine-tuning-for-llms?u=76281980&t=70)** To truly [[Microsoft Excel|excel]] in a specific domain or tasks, they require additional targeted training.
 >
 > **[1:17](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-fine-tuning-for-llms?u=76281980&t=77)** By fine tuning, we are giving our LMS that extra layer of expertise, arming them with nuanced understanding for specialized application.
 >
@@ -737,7 +726,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-fine-tuning-for-llms?u=76281980&t=93)** They have a good grasp of the basics.
 >
-> **[1:36](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-fine-tuning-for-llms?u=76281980&t=96)** Now, if you want insights on the general principles of investing, they are your go-to, but if you want a deep dive into the intricacies of, say, cryptocurrency investments in the last year, you'd rather turn to someone who has specialized in that niche.
+> **[1:36](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-fine-tuning-for-llms?u=76281980&t=96)** Now, if you want insights on the general principles of investing, they are your go-to, but if you want a deep dive into the intricacies of, say, [[Cryptocurrency]] investments in the last year, you'd rather turn to someone who has specialized in that niche.
 >
 > **[1:52](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-fine-tuning-for-llms?u=76281980&t=112)** General knowledge is a foundation, but for intricate tasks, we need that expert perspective.
 >
@@ -745,7 +734,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-fine-tuning-for-llms?u=76281980&t=126)** So when exactly should we consider fine tuning your model?
 >
-> **[2:10](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-fine-tuning-for-llms?u=76281980&t=130)** If you are dealing with tasks that demand specific expertise or heavy data processing, that's your cue.
+> **[2:10](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-fine-tuning-for-llms?u=76281980&t=130)** If you are dealing with tasks that demand specific expertise or heavy [[Data Processing]], that's your cue.
 >
 > **[2:17](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-fine-tuning-for-llms?u=76281980&t=137)** While our pre-trained models are exceptional for generic tasks, they can sometimes miss the mark in specialized scenario.
 >
@@ -767,19 +756,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fine Tuning]] (7), llm (2), data (2), generic (2), game (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (7), [[Microsoft Excel|Excel]] (1), [[Cryptocurrency]] (1), [[Data Processing]] (1)
 > **Env Vars:** llm (2), lms (2), gpt (1)
 > **Analogies:** it's like (3), imagine (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Step-by-step guide to fine-tuning LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/step-by-step-guide-to-fine-tuning-llms?u=76281980)
+#### [Step-by-step guide to fine-tuning LLMs](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/step-by-step-guide-to-fine-tuning-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/step-by-step-guide-to-fine-tuning-llms?u=76281980&t=0)** - [Instructor] Fine tuning is both an art and a science.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/step-by-step-guide-to-fine-tuning-llms?u=76281980&t=0)** - [Instructor] [[Fine Tuning]] is both an art and a science.
 >
 > **[0:04](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/step-by-step-guide-to-fine-tuning-llms?u=76281980&t=4)** While an LLM can be leveraged in numerous ways based on the task and resources at hand, there are primarily three methods, using a fixed feature extractor, modifying output layers, and full model fine tuning.
 >
@@ -833,7 +821,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/step-by-step-guide-to-fine-tuning-llms?u=76281980&t=207)** What makes this approach revolutionary is that during the tuning process, only the parameters of these adapter layers are adjusted.
 >
-> **[3:36](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/step-by-step-guide-to-fine-tuning-llms?u=76281980&t=216)** The rest of the model remains unchanged.
+> **[3:36](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/step-by-step-guide-to-fine-tuning-llms?u=76281980&t=216)** The [[Representational State Transfer (REST)|rest]] of the model remains unchanged.
 >
 > **[3:39](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/step-by-step-guide-to-fine-tuning-llms?u=76281980&t=219)** Adapted layers seamlessly integrate with the LLM architecture, optimizing performance without heavy computational costs.
 >
@@ -841,15 +829,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (7), [[Fine Tuning]] (4), data (4), feature (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** llm (7)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices for fine-tuning LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/best-practices-for-fine-tuning-llms?u=76281980)
+#### [Best practices for fine-tuning LLMs](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/best-practices-for-fine-tuning-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -895,13 +882,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (3), next (1), feature (1), application (1)
 > **Env Vars:** llm (3)
 > **Analogies:** imagine (1), think of it as (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Fine-tune a pre-trained LLM
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-fine-tune-a-pre-trained-llm?u=76281980)
+#### [Challenge: Fine-tune a pre-trained LLM](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-fine-tune-a-pre-trained-llm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -927,7 +912,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-fine-tune-a-pre-trained-llm?u=76281980&t=86)** We'll be fine-tuning OpenAI's GPT-2 model for this challenge.
 >
-> **[1:31](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-fine-tune-a-pre-trained-llm?u=76281980&t=91)** So the first step you need to do is to fetch the model and its tokenizer from Hugging Face.
+> **[1:31](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-fine-tune-a-pre-trained-llm?u=76281980&t=91)** So the first step you need to do is to [[Fetch]] the model and its tokenizer from [[Hugging Face]].
 >
 > **[1:38](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-fine-tune-a-pre-trained-llm?u=76281980&t=98)** After that, you pre-process the provided sentiment analysis data and fine-tune the model using that data.
 >
@@ -937,14 +922,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (9), generic (3), application (3), data (3), api (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[Hugging Face]] (1)
 > **Env Vars:** llm (9), api (1), gpt (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Fine-tune a pre-trained LLM
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-fine-tune-a-pre-trained-llm?u=76281980)
+#### [Solution: Fine-tune a pre-trained LLM](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-fine-tune-a-pre-trained-llm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -956,9 +940,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-fine-tune-a-pre-trained-llm?u=76281980&t=17)** The first step is to install the packages.
 >
-> **[0:20](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-fine-tune-a-pre-trained-llm?u=76281980&t=20)** For this challenge, along with the transformers, we need the datasets library to fetch the datasets.
+> **[0:20](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-fine-tune-a-pre-trained-llm?u=76281980&t=20)** For this challenge, along with the transformers, we need the datasets library to [[Fetch]] the datasets.
 >
-> **[0:28](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-fine-tune-a-pre-trained-llm?u=76281980&t=28)** Both of these libraries are from Hugging Face.
+> **[0:28](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-fine-tune-a-pre-trained-llm?u=76281980&t=28)** Both of these libraries are from [[Hugging Face]].
 >
 > **[0:32](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-fine-tune-a-pre-trained-llm?u=76281980&t=32)** The next step is to fetch a sentiment analysis dataset.
 >
@@ -994,11 +978,11 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-fine-tune-a-pre-trained-llm?u=76281980&t=147)** And that's it, you have successfully fine-tuned a GPT-2 model to perform your specific task.
 >
-> **[2:35](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-fine-tune-a-pre-trained-llm?u=76281980&t=155)** In the next chapter, you will learn how to compress your LLM to make them run faster and on less powerful hardware.
+> **[2:35](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-fine-tune-a-pre-trained-llm?u=76281980&t=155)** In the next chapter, you will learn how to compress your LLM to make them run faster and on less powerful [[Hardware]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (3), next (3), llm (3), [[Hugging Face]] (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (3), [[Hugging Face]] (2), [[Hardware]] (1)
 > **Env Vars:** gpt (4), llm (3), sst (1)
 > **Code Identifiers:** warmup_steps (1), weight_decay (1)
 > **CLI Commands:** make (1)
@@ -1012,12 +996,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why compress LLMs?
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/why-compress-llms?u=76281980)
+#### [Why compress LLMs?](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/why-compress-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/why-compress-llms?u=76281980&t=0)** - [Instructor] Let's dive into compressing these large language models.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/why-compress-llms?u=76281980&t=0)** - [Instructor] Let's dive into compressing these [[Large Language Models (LLM)|large language models]].
 >
 > **[0:04](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/why-compress-llms?u=76281980&t=4)** Let's explore why compressing LLM is a topic of interest.
 >
@@ -1025,13 +1008,13 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/why-compress-llms?u=76281980&t=12)** This means they require a lot of computational power to run smoothly.
 >
-> **[0:17](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/why-compress-llms?u=76281980&t=17)** Consequently, they can also have long execution times, which is problematic for real-time application.
+> **[0:17](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/why-compress-llms?u=76281980&t=17)** Consequently, they can also have long execution times, which is problematic for [[Real-Time]] application.
 >
 > **[0:25](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/why-compress-llms?u=76281980&t=25)** And for efficient operation, multiple GPUs are often needed, which can be costly and resource-intensive.
 >
 > **[0:33](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/why-compress-llms?u=76281980&t=33)** The sheer size of LLMs with their billions of parameters can lead to execution times that aren't always optimal.
 >
-> **[0:42](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/why-compress-llms?u=76281980&t=42)** These large language models require powerful hardware.
+> **[0:42](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/why-compress-llms?u=76281980&t=42)** These large language models require powerful [[Hardware]].
 >
 > **[0:46](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/why-compress-llms?u=76281980&t=46)** Compressing these models addresses this issue, allowing us to deploy LLMs even on devices with lesser computational capabilities.
 >
@@ -1061,7 +1044,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/why-compress-llms?u=76281980&t=122)** This is where compression shines again.
 >
-> **[2:04](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/why-compress-llms?u=76281980&t=124)** It offers a solution to reduce execution time and improve user experience.
+> **[2:04](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/why-compress-llms?u=76281980&t=124)** It offers a solution to reduce execution time and improve [[User Experience (UX)|user experience]].
 >
 > **[2:11](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/why-compress-llms?u=76281980&t=131)** One major challenge with LLM is the communication bottleneck when serving the model across multiple GPUs.
 >
@@ -1077,14 +1060,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (4), power (3), [[Large Language Models (LLM)|Large language models]] (2), [[Real-Time]] (2), application (2)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[Real-Time]] (2), [[Hardware]] (2), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** llm (4), gpu (1)
 > **Definitions:** is a  (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to quantization and pruning
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-quantization-and-pruning?u=76281980)
+#### [Introduction to quantization and pruning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-quantization-and-pruning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1102,7 +1084,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-quantization-and-pruning?u=76281980&t=30)** You are a tech enthusiast and every piece of information is like fitting an elephant into a Mini Cooper.
 >
-> **[0:38](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-quantization-and-pruning?u=76281980&t=38)** Just like in our illustration here, that's essentially what we are doing with large language models.
+> **[0:38](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-quantization-and-pruning?u=76281980&t=38)** Just like in our illustration here, that's essentially what we are doing with [[Large Language Models (LLM)|large language models]].
 >
 > **[0:44](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-quantization-and-pruning?u=76281980&t=44)** We are packing tons of knowledge into a small space.
 >
@@ -1206,7 +1188,7 @@ created: 2026-05-02
 >
 > **[5:55](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-quantization-and-pruning?u=76281980&t=355)** But innovation doesn't sleep.
 >
-> **[5:57](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-quantization-and-pruning?u=76281980&t=357)** We are continually exploring automated pruning algorithms to make the process even more efficient.
+> **[5:57](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-quantization-and-pruning?u=76281980&t=357)** We are continually exploring automated pruning [[Algorithms]] to make the process even more efficient.
 >
 > **[6:04](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-quantization-and-pruning?u=76281980&t=364)** As we approach the end of our journey, it is essential to understand the balancing act between quantization and pruning.
 >
@@ -1220,13 +1202,13 @@ created: 2026-05-02
 >
 > **[6:37](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-quantization-and-pruning?u=76281980&t=397)** Looking forward, the horizon is promising.
 >
-> **[6:40](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-quantization-and-pruning?u=76281980&t=400)** We can anticipate LLM hardware, specifically tailored for compressed models, making optimizations even more potent.
+> **[6:40](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-quantization-and-pruning?u=76281980&t=400)** We can anticipate LLM [[Hardware]], specifically tailored for compressed models, making optimizations even more potent.
 >
 > **[6:49](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/introduction-to-quantization-and-pruning?u=76281980&t=409)** But theory is one thing, practice is another, and that is why understanding practical implementation is crucial, ensuring we apply compression techniques effectively in real-world scenarios.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), application (1), [[Algorithms]] (1), llm (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[Algorithms]] (1), [[Hardware]] (1)
 > **Analogies:** imagine (2), just like (1), it's like (1), for instance (1), picture (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** llm (1)
@@ -1235,8 +1217,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hands-on: Implementing compression in LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/hands-on-implementing-compression-in-llms?u=76281980)
+#### [Hands-on: Implementing compression in LLMs](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/hands-on-implementing-compression-in-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1286,7 +1267,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (4), [[Containerization]] (1), next (1), data (1)
 > **Env Vars:** llm (4)
 > **Prerequisites:** install (2), before we start (1)
 > **Code Identifiers:** group_size (2)
@@ -1294,8 +1274,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Quantize a LLM
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-quantize-a-llm?u=76281980)
+#### [Challenge: Quantize a LLM](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-quantize-a-llm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1303,7 +1282,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-quantize-a-llm?u=76281980&t=10)** It is important to keep in mind that compressing LLMS can be beneficial to optimize your LLM application.
 >
-> **[0:18](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-quantize-a-llm?u=76281980&t=18)** We can deploy these quantize models on less powerful hardware and hardware with less memory.
+> **[0:18](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-quantize-a-llm?u=76281980&t=18)** We can deploy these quantize models on less powerful [[Hardware]] and hardware with less memory.
 >
 > **[0:25](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-quantize-a-llm?u=76281980&t=25)** As a result, deployment becomes cheaper and easier and it eliminates the need to manage deployments across multiple GPUs.
 >
@@ -1317,7 +1296,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-quantize-a-llm?u=76281980&t=63)** The first step is to install this library.
 >
-> **[1:06](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-quantize-a-llm?u=76281980&t=66)** After that, we will fetch the model from Hugging Face.
+> **[1:06](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-quantize-a-llm?u=76281980&t=66)** After that, we will [[Fetch]] the model from [[Hugging Face]].
 >
 > **[1:10](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-quantize-a-llm?u=76281980&t=70)** Once that is done, we will create the quantization config and then quantize the model.
 >
@@ -1327,7 +1306,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (2), [[Hardware]] (2), application (1), [[Fetch]] (1), [[Hugging Face]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Fetch]] (1), [[Hugging Face]] (1)
 > **Env Vars:** llm (2), llms (1), opt (1), gptq (1), ggml (1)
 > **CLI Commands:** find (1)
 > **Warnings:** keep in mind (1)
@@ -1335,8 +1314,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Quantize a LLM
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-quantize-a-llm?u=76281980)
+#### [Solution: Quantize a LLM](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-quantize-a-llm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1376,7 +1354,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), prompt (1)
 > **Env Vars:** opt (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** install (1)
@@ -1388,12 +1365,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is prompt engineering?
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/what-is-prompt-engineering?u=76281980)
+#### [What is prompt engineering?](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/what-is-prompt-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/what-is-prompt-engineering?u=76281980&t=0)** - [Instructor] Today we are diving deep into the fascinating world of prompt engineering.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/what-is-prompt-engineering?u=76281980&t=0)** - [Instructor] Today we are diving deep into the fascinating world of [[Prompt Engineering]].
 >
 > **[0:05](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/what-is-prompt-engineering?u=76281980&t=5)** If you have ever wondered how we instruct powerful models like LLMS to respond precisely to our queries, this session is for you.
 >
@@ -1411,7 +1387,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/what-is-prompt-engineering?u=76281980&t=41)** You merely don't say do something.
 >
-> **[0:45](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/what-is-prompt-engineering?u=76281980&t=45)** You provide specific commands like sit or fetch.
+> **[0:45](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/what-is-prompt-engineering?u=76281980&t=45)** You provide specific commands like sit or [[Fetch]].
 >
 > **[0:50](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/what-is-prompt-engineering?u=76281980&t=50)** The dog learns from consistency, repetition and most importantly, clear commands.
 >
@@ -1465,19 +1441,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (6), [[Prompt Engineering]] (5), prompt (3), [[Fetch]] (1), next (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (5), [[Fetch]] (1)
 > **Env Vars:** llm (6), llms (1), lms (1)
 > **Analogies:** imagine (1), it's like (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices for effective prompt engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/best-practices-for-effective-prompt-engineering?u=76281980)
+#### [Best practices for effective prompt engineering](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/best-practices-for-effective-prompt-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/best-practices-for-effective-prompt-engineering?u=76281980&t=0)** - [Instructor] Welcome, everyone.
 >
-> **[0:01](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/best-practices-for-effective-prompt-engineering?u=76281980&t=1)** Today, we'll delve into the exciting realm of prompt engineering.
+> **[0:01](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/best-practices-for-effective-prompt-engineering?u=76281980&t=1)** Today, we'll delve into the exciting realm of [[Prompt Engineering]].
 >
 > **[0:06](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/best-practices-for-effective-prompt-engineering?u=76281980&t=6)** In our rapidly evolving LLM landscape, it's crucial to know how to guide language models, like the one we are discussing today.
 >
@@ -1503,9 +1478,9 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/best-practices-for-effective-prompt-engineering?u=76281980&t=65)** Different projects might have diverse targets.
 >
-> **[1:08](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/best-practices-for-effective-prompt-engineering?u=76281980&t=68)** While one might aim for pure information retrieval, another could lean into creative writing.
+> **[1:08](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/best-practices-for-effective-prompt-engineering?u=76281980&t=68)** While one might aim for pure [[Information Retrieval]], another could lean into creative writing.
 >
-> **[1:16](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/best-practices-for-effective-prompt-engineering?u=76281980&t=76)** Consider e-commerce.
+> **[1:16](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/best-practices-for-effective-prompt-engineering?u=76281980&t=76)** Consider [[E-Commerce]].
 >
 > **[1:17](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/best-practices-for-effective-prompt-engineering?u=76281980&t=77)** The language use needs to be precise, unique, and must resonate with the audience.
 >
@@ -1555,7 +1530,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/best-practices-for-effective-prompt-engineering?u=76281980&t=196)** Setting the stage is pivotal.
 >
-> **[3:18](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/best-practices-for-effective-prompt-engineering?u=76281980&t=198)** In storytelling, the environment dictates the narrative, and it's no different here.
+> **[3:18](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/best-practices-for-effective-prompt-engineering?u=76281980&t=198)** In [[Storytelling]], the environment dictates the narrative, and it's no different here.
 >
 > **[3:23](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/best-practices-for-effective-prompt-engineering?u=76281980&t=203)** Our prompts aren't mere questions.
 >
@@ -1585,7 +1560,7 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/best-practices-for-effective-prompt-engineering?u=76281980&t=266)** Think about it.
 >
-> **[4:27](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/best-practices-for-effective-prompt-engineering?u=76281980&t=267)** The tone, the length, even the key word presence can drastically change an output.
+> **[4:27](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/best-practices-for-effective-prompt-engineering?u=76281980&t=267)** The tone, the length, even the key [[Microsoft Word|word]] presence can drastically change an output.
 >
 > **[4:33](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/best-practices-for-effective-prompt-engineering?u=76281980&t=273)** It's not always about getting an elaborate answer.
 >
@@ -1609,7 +1584,7 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/best-practices-for-effective-prompt-engineering?u=76281980&t=325)** This highlights a necessity to grasp not just the output, but the underlying factors driving the model's behavior, including its strengths, weaknesses, and quirks.
 >
-> **[5:35](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/best-practices-for-effective-prompt-engineering?u=76281980&t=335)** Knowing your tool is half the battle won, and with large language models, it's no different.
+> **[5:35](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/best-practices-for-effective-prompt-engineering?u=76281980&t=335)** Knowing your tool is half the battle won, and with [[Large Language Models (LLM)|large language models]], it's no different.
 >
 > **[5:41](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/best-practices-for-effective-prompt-engineering?u=76281980&t=341)** These models are vast, intricate, and packed with potential.
 >
@@ -1627,7 +1602,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (9), [[Prompt Engineering]] (5), product (3), [[E-Commerce]] (2), power (2)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (5), [[E-Commerce]] (2), [[Information Retrieval]] (1), [[Storytelling]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** llm (9), seo (1)
 > **CLI Commands:** find (1), make (1), apt (1)
 > **Analogies:** imagine (2), for instance (1)
@@ -1635,14 +1610,13 @@ created: 2026-05-02
 > **Best Practices:** pro tip (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of prompt engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/types-of-prompt-engineering?u=76281980)
+#### [Types of prompt engineering](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/types-of-prompt-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/types-of-prompt-engineering?u=76281980&t=0)** - [Instructor] Welcome to our discussion on prompt engineering.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/types-of-prompt-engineering?u=76281980&t=0)** - [Instructor] Welcome to our discussion on [[Prompt Engineering]].
 >
-> **[0:03](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/types-of-prompt-engineering?u=76281980&t=3)** Prompt engineering is a fascinating aspect of working with large language models or LLMs.
+> **[0:03](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/types-of-prompt-engineering?u=76281980&t=3)** Prompt engineering is a fascinating aspect of working with [[Large Language Models (LLM)|large language models]] or LLMs.
 >
 > **[0:09](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/types-of-prompt-engineering?u=76281980&t=9)** Today we will delve into the significance of how we phrase our prompts, understand the role of effective prompts in getting accurate responses, and explore various techniques to craft these prompts.
 >
@@ -1760,15 +1734,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (10), [[Prompt Engineering]] (3), prompt (3), [[Large Language Models (LLM)|Large language models]] (1), next (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (3), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** llm (10), cot (1)
 > **Analogies:** imagine (3), think of it as (1), it's like (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** apt (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Prompting LLMs to generate text
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-prompting-llms-to-generate-text?u=76281980)
+#### [Challenge: Prompting LLMs to generate text](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-prompting-llms-to-generate-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1778,7 +1751,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-prompting-llms-to-generate-text?u=76281980&t=15)** You also saw that adding more context to our prompts helps reduce hallucinations.
 >
-> **[0:22](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-prompting-llms-to-generate-text?u=76281980&t=22)** Now you will have the opportunity to try some of these prompt engineering techniques.
+> **[0:22](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-prompting-llms-to-generate-text?u=76281980&t=22)** Now you will have the opportunity to try some of these [[Prompt Engineering]] techniques.
 >
 > **[0:27](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/challenge-prompting-llms-to-generate-text?u=76281980&t=27)** For this challenge, you are responsible for building a product that helps conference speakers craft proposals for their talk.
 >
@@ -1796,18 +1769,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prompt Engineering]] (2), llm (2), product (1), next (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (2)
 > **Env Vars:** llm (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (soft music) (1)
 
-#### Solution: Prompting LLMs to generate text
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-prompting-llms-to-generate-text?u=76281980)
+#### [Solution: Prompting LLMs to generate text](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-prompting-llms-to-generate-text?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-prompting-llms-to-generate-text?u=76281980&t=0)** - [Instructor] In this challenge, you were required to utilize prompt engineering techniques to develop an application that assist users in creating talk proposals.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-prompting-llms-to-generate-text?u=76281980&t=0)** - [Instructor] In this challenge, you were required to utilize [[Prompt Engineering]] techniques to develop an application that assist users in creating talk proposals.
 >
 > **[0:16](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-prompting-llms-to-generate-text?u=76281980&t=16)** The four prompting techniques that you had to investigate are zero-shot prompting, few-shot prompting, instruction prompting, and chain of thought prompting.
 >
@@ -1833,7 +1805,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-prompting-llms-to-generate-text?u=76281980&t=102)** Moreover, the resulting talk proposal would be too generic, lacking the specificity needed for a particular conference.
 >
-> **[1:51](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-prompting-llms-to-generate-text?u=76281980&t=111)** As a result, there's a lower probability of the talk being selected for that conference.
+> **[1:51](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-prompting-llms-to-generate-text?u=76281980&t=111)** As a result, there's a lower [[Probability]] of the talk being selected for that conference.
 >
 > **[1:57](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/solution-prompting-llms-to-generate-text?u=76281980&t=117)** To enhance the quality of output, we can use few-shot prompting.
 >
@@ -1883,7 +1855,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (8), api (3), llm (3), [[Prompt Engineering]] (2), application (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (2), [[Probability]] (1)
 > **Env Vars:** api (3), gpt (3), llm (3)
 > **Versions:** 3.5 (2)
 > **Definitions:** is called (1)
@@ -1897,24 +1869,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/next-steps?u=76281980&t=0)** - [Narrator] Welcome to the closing chapter of our current journey into the world of large language models.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/next-steps?u=76281980&t=0)** - [Narrator] Welcome to the closing chapter of our current journey into the world of [[Large Language Models (LLM)|large language models]].
 >
 > **[0:06](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/next-steps?u=76281980&t=6)** We have covered a lot of ground together, starting with an in-depth exploration of LLM evolution architecture, and the real world applications.
 >
 > **[0:16](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/next-steps?u=76281980&t=16)** We have developed a foundational understanding of these powerful tools.
 >
-> **[0:21](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/next-steps?u=76281980&t=21)** We then lifted the curtains on the more technical side, fine-tuning, compression techniques, and prompt engineering, honing our skills to solve practical challenges that help solidify fine-tuning and prompt skills.
+> **[0:21](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/next-steps?u=76281980&t=21)** We then lifted the curtains on the more technical side, fine-tuning, compression techniques, and [[Prompt Engineering]], honing our skills to solve practical challenges that help solidify fine-tuning and prompt skills.
 >
 > **[0:38](https://www.linkedin.com/learning/generative-ai-and-llmops-building-blocks-and-applications/next-steps?u=76281980&t=38)** We hope you've enjoyed the course and the engaging comics that accompanied our learning process.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), llm (1), [[Prompt Engineering]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[Prompt Engineering]] (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - [narrator] (1)
 

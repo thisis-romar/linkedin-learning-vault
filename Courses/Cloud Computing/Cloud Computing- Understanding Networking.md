@@ -88,12 +88,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/cloud-computing-understanding-networking/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/welcome?u=76281980&t=0)** - Welcome to my course on cloud computing, Understanding Networking.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/welcome?u=76281980&t=0)** - Welcome to my course on [[Cloud Computing]], Understanding Networking.
 >
 > **[0:04](https://www.linkedin.com/learning/cloud-computing-understanding-networking/welcome?u=76281980&t=4)** It's no secret that cloud computing has changed how we do computing and will continue to do so in the future.
 >
@@ -109,7 +108,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6)
+> **Frameworks & Libraries:** [[Cloud Computing]] (5)
 > **Speakers:** - welcome (1)
 
 
@@ -117,22 +116,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud computing basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980)
+#### [Cloud computing basics](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=0)** - [Narrator] Cloud computing is one of those topics everyone thinks they understand, but everyone may define it differently.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=0)** - [Narrator] [[Cloud Computing]] is one of those topics everyone thinks they understand, but everyone may define it differently.
 >
 > **[0:06](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=6)** In this video, let's settle on a standard definition of cloud computing to better understand how cloud networking fits in.
 >
-> **[0:14](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=14)** Cloud computing is defined as the delivery of computing services, including storage, databases, networking, software and analytics over the open internet.
+> **[0:14](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=14)** Cloud computing is defined as the delivery of computing services, including storage, [[Databases]], networking, software and analytics over the open internet.
 >
 > **[0:24](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=24)** Let's be real though, that sounds like a definition that's handy as a party trick, let's better define cloud computing as allowing individuals and businesses to access and use computing resources without significant investment in physical infrastructure.
 >
 > **[0:40](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=40)** This includes servers and storage devices.
 >
-> **[0:44](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=44)** Cloud computing provides scalability, flexibility and cost efficiency.
+> **[0:44](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=44)** Cloud computing provides [[Scalability]], flexibility and cost efficiency.
 >
 > **[0:49](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=49)** This enables users to rapidly scale resources up or down based on their current requirements.
 >
@@ -140,19 +138,19 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=63)** This means that the network is the connective tissue for Cloud computing, and thus it's essential to understand how Cloud computing networking works, hence the need for this course.
 >
-> **[1:15](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=75)** There are three types of clouds or cloud services.
+> **[1:15](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=75)** There are three types of clouds or [[Cloud Services]].
 >
 > **[1:18](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=78)** We'll go over them quickly here.
 >
 > **[1:20](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=80)** I'll refer to each of them throughout this course.
 >
-> **[1:24](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=84)** First are software as a service or SaaS clouds.
+> **[1:24](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=84)** First are [[SaaS|software as a service]] or [[SaaS]] clouds.
 >
 > **[1:28](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=88)** These applications are delivered over a network, primarily the internet as a service.
 >
-> **[1:34](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=94)** If you use Google Docs or Office 365, these are some examples of SaaS clouds.
+> **[1:34](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=94)** If you use [[Google]] Docs or [[Microsoft Office|Office]] 365, these are some examples of SaaS clouds.
 >
-> **[1:40](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=100)** The second is infrastructure as a service or IaaS clouds.
+> **[1:40](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=100)** The second is [[IaaS|infrastructure as a service]] or [[IaaS]] clouds.
 >
 > **[1:45](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=105)** Traditional Resources such as storage and compute servers are typically found in a data center.
 >
@@ -162,9 +160,9 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=122)** This will be the type of cloud we're focusing on in this course.
 >
-> **[2:06](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=126)** Finally, we have platform as a service or PaaS.
+> **[2:06](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=126)** Finally, we have [[PaaS|platform as a service]] or [[PaaS]].
 >
-> **[2:10](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=130)** You can leverage this application development and deployment platform as a service.
+> **[2:10](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=130)** You can leverage this [[Application Development]] and deployment platform as a service.
 >
 > **[2:15](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-computing-basics?u=76281980&t=135)** This cloud is helpful to those just looking for an application development platform that can also host the resulting application.
 >
@@ -174,28 +172,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (14), data (2), [[SaaS]] (2), [[IaaS]] (2), [[PaaS|Platform as a service]] (2)
+> **Frameworks & Libraries:** [[Cloud Computing]] (8), [[SaaS]] (2), [[IaaS]] (2), [[PaaS|Platform as a service]] (2), [[Application Development]] (2)
 > **CLI Commands:** find (2)
 > **Definitions:** defined as (1), means that (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding cloud deployment models
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-cloud-deployment-models?u=76281980)
+#### [Understanding cloud deployment models](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-cloud-deployment-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-cloud-deployment-models?u=76281980&t=0)** - [Instructor] Cloud deployment models are the configuration of cloud types we've covered in the last video, including SaaS, PaaS, and IaaS.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-cloud-deployment-models?u=76281980&t=0)** - [Instructor] Cloud deployment models are the configuration of cloud types we've covered in the last video, including [[SaaS]], [[PaaS]], and [[IaaS]].
 >
-> **[0:08](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-cloud-deployment-models?u=76281980&t=8)** In other words, they define how we leverage cloud services for different purposes.
+> **[0:08](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-cloud-deployment-models?u=76281980&t=8)** In other words, they define how we leverage [[Cloud Services]] for different purposes.
 >
-> **[0:13](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-cloud-deployment-models?u=76281980&t=13)** These are private cloud, public cloud, hybrid cloud, and multicloud.
+> **[0:13](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-cloud-deployment-models?u=76281980&t=13)** These are private cloud, public cloud, [[Hybrid Cloud]], and multicloud.
 >
 > **[0:19](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-cloud-deployment-models?u=76281980&t=19)** We'll cover each in enough detail for this course.
 >
 > **[0:22](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-cloud-deployment-models?u=76281980&t=22)** However, consider taking the core concepts course if you want a deeper understanding.
 >
-> **[0:27](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-cloud-deployment-models?u=76281980&t=27)** Private clouds are SaaS, IaaS, or PaaS clouds that a single organization or enterprise leverages.
+> **[0:27](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-cloud-deployment-models?u=76281980&t=27)** [[Private Clouds]] are SaaS, IaaS, or PaaS clouds that a single organization or enterprise leverages.
 >
 > **[0:35](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-cloud-deployment-models?u=76281980&t=35)** They are private to these groups, and most private clouds exists within traditional on-premise data centers.
 >
@@ -219,18 +216,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), [[SaaS]] (3), [[PaaS]] (3), [[IaaS]] (3), [[Private Clouds]] (3)
+> **Frameworks & Libraries:** [[SaaS]] (3), [[PaaS]] (3), [[IaaS]] (3), [[Private Clouds]] (3), [[Cloud Services]] (2)
 > **Cross-References:** in the last (1)
 > **Definitions:** in other words (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### The important role of cloud networking
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/the-important-role-of-cloud-networking?u=76281980)
+#### [The important role of cloud networking](https://www.linkedin.com/learning/cloud-computing-understanding-networking/the-important-role-of-cloud-networking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/the-important-role-of-cloud-networking?u=76281980&t=0)** - [Instructor] Cloud networking is essential for several reasons including scalability, flexibility, cost effectiveness, accessibility, security and reliability, innovation and agility.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/the-important-role-of-cloud-networking?u=76281980&t=0)** - [Instructor] Cloud networking is essential for several reasons including [[Scalability]], flexibility, cost effectiveness, accessibility, security and reliability, innovation and agility.
 >
 > **[0:13](https://www.linkedin.com/learning/cloud-computing-understanding-networking/the-important-role-of-cloud-networking?u=76281980&t=13)** Let's explore each.
 >
@@ -254,7 +250,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/cloud-computing-understanding-networking/the-important-role-of-cloud-networking?u=76281980&t=64)** Accessibility is the ability to access network services from any number of physical locations and using any number of devices.
 >
-> **[1:12](https://www.linkedin.com/learning/cloud-computing-understanding-networking/the-important-role-of-cloud-networking?u=76281980&t=72)** Cloud networks should support the access required by the business to what devices or systems need to be connected to the cloud computing network.
+> **[1:12](https://www.linkedin.com/learning/cloud-computing-understanding-networking/the-important-role-of-cloud-networking?u=76281980&t=72)** Cloud networks should support the access required by the business to what devices or systems need to be connected to the [[Cloud Computing]] network.
 >
 > **[1:24](https://www.linkedin.com/learning/cloud-computing-understanding-networking/the-important-role-of-cloud-networking?u=76281980&t=84)** Security and reliability.
 >
@@ -274,7 +270,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), business (5), [[Security]] (4), [[Scalability]] (3), vpn (1)
+> **Frameworks & Libraries:** [[Scalability]] (3), [[Cloud Computing]] (1)
 > **Analogies:** for example (1), for instance (1), such as (1)
 > **Definitions:** means that (1), refers to (1)
 > **Env Vars:** vpn (1)
@@ -285,12 +281,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding virtual networks and their purpose
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-virtual-networks-and-their-purpose?u=76281980)
+#### [Understanding virtual networks and their purpose](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-virtual-networks-and-their-purpose?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-virtual-networks-and-their-purpose?u=76281980&t=0)** - [Instructor] Virtual networks in the context of cloud computing and computing networking refers to the network infrastructure that exists entirely within a virtual realm.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-virtual-networks-and-their-purpose?u=76281980&t=0)** - [Instructor] Virtual networks in the context of [[Cloud Computing]] and computing networking refers to the network infrastructure that exists entirely within a virtual realm.
 >
 > **[0:10](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-virtual-networks-and-their-purpose?u=76281980&t=10)** These networks are created, managed, and customized using software and cloud-based tools.
 >
@@ -304,7 +299,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-virtual-networks-and-their-purpose?u=76281980&t=46)** What is essential to understand here is that this allows cloud architects and network architects to design networks that only exist in software or are software defined.
 >
-> **[0:56](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-virtual-networks-and-their-purpose?u=76281980&t=56)** This provides the flexibility to create change and remove virtual networks to meet the needs of the business, typically without having to touch networking hardware.
+> **[0:56](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-virtual-networks-and-their-purpose?u=76281980&t=56)** This provides the flexibility to create change and remove virtual networks to meet the needs of the business, typically without having to touch networking [[Hardware]].
 >
 > **[1:06](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-virtual-networks-and-their-purpose?u=76281980&t=66)** This makes this kind of networking a game changer, indirectly removing the dependence on managing hardware.
 >
@@ -312,13 +307,13 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-virtual-networks-and-their-purpose?u=76281980&t=85)** This allows for the network to be better managed and secure.
 >
-> **[1:29](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-virtual-networks-and-their-purpose?u=76281980&t=89)** Virtual private clouds, or VPCs, allows users to create isolated networks within the public cloud that enable better control and security over the cloud environment.
+> **[1:29](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-virtual-networks-and-their-purpose?u=76281980&t=89)** Virtual [[Private Clouds]], or VPCs, allows users to create isolated networks within the public cloud that enable better control and security over the cloud environment.
 >
 > **[1:41](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-virtual-networks-and-their-purpose?u=76281980&t=101)** Security and access control means that virtual networks enable implementation of security measures.
 >
-> **[1:46](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-virtual-networks-and-their-purpose?u=76281980&t=106)** This includes network security groups, access control lists, and firewalls.
+> **[1:46](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-virtual-networks-and-their-purpose?u=76281980&t=106)** This includes [[Network Security]] groups, access control lists, and firewalls.
 >
-> **[1:52](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-virtual-networks-and-their-purpose?u=76281980&t=112)** Scalability means that virtual networks in cloud computing are designed to be scalable.
+> **[1:52](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-virtual-networks-and-their-purpose?u=76281980&t=112)** [[Scalability]] means that virtual networks in cloud computing are designed to be scalable.
 >
 > **[1:57](https://www.linkedin.com/learning/cloud-computing-understanding-networking/understanding-virtual-networks-and-their-purpose?u=76281980&t=117)** This allows for the speedy allocation of network resources based on application demand and changing business needs.
 >
@@ -328,13 +323,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (17), [[Security]] (3), business (2), [[Hardware]] (2), game (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (6), [[Hardware]] (2), [[Private Clouds]] (1), [[Network Security]] (1), [[Scalability]] (1)
 > **Definitions:** means that (2), refers to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating and configuring virtual networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/creating-and-configuring-virtual-networks?u=76281980)
+#### [Creating and configuring virtual networks](https://www.linkedin.com/learning/cloud-computing-understanding-networking/creating-and-configuring-virtual-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -346,7 +340,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/cloud-computing-understanding-networking/creating-and-configuring-virtual-networks?u=76281980&t=15)** Number one, choose a cloud provider that provides virtual networking capabilities.
 >
-> **[0:19](https://www.linkedin.com/learning/cloud-computing-understanding-networking/creating-and-configuring-virtual-networks?u=76281980&t=19)** The most significant cloud providers are Amazon Web Services, or AWS; Microsoft Azure, or Google Cloud Platform.
+> **[0:19](https://www.linkedin.com/learning/cloud-computing-understanding-networking/creating-and-configuring-virtual-networks?u=76281980&t=19)** The most significant cloud providers are [[Amazon Web Services (AWS)|Amazon Web Services]], or AWS; [[Microsoft Azure]], or [[Google Cloud Platform (GCP)|Google Cloud Platform]].
 >
 > **[0:27](https://www.linkedin.com/learning/cloud-computing-understanding-networking/creating-and-configuring-virtual-networks?u=76281980&t=27)** Log into the chosen cloud provider's console or web interface to get to the console.
 >
@@ -356,7 +350,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/cloud-computing-understanding-networking/creating-and-configuring-virtual-networks?u=76281980&t=39)** Normally, this will list all network-related services, so it may be overwhelming.
 >
-> **[0:45](https://www.linkedin.com/learning/cloud-computing-understanding-networking/creating-and-configuring-virtual-networks?u=76281980&t=45)** In the networking section, look for options to create a new virtual network, VPC, or virtual private clouds.
+> **[0:45](https://www.linkedin.com/learning/cloud-computing-understanding-networking/creating-and-configuring-virtual-networks?u=76281980&t=45)** In the networking section, look for options to create a new virtual network, VPC, or virtual [[Private Clouds]].
 >
 > **[0:52](https://www.linkedin.com/learning/cloud-computing-understanding-networking/creating-and-configuring-virtual-networks?u=76281980&t=52)** You'll be asked to provide some basic information, such as the name you want to use for the network.
 >
@@ -364,7 +358,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/cloud-computing-understanding-networking/creating-and-configuring-virtual-networks?u=76281980&t=61)** As discussed in the last video, these are used to segment and organize resources based on your specific requirements.
 >
-> **[1:08](https://www.linkedin.com/learning/cloud-computing-understanding-networking/creating-and-configuring-virtual-networks?u=76281980&t=68)** Configure routing tables, allowing you to direct traffic within the virtual network and define routes for accessing external networks or other VPCs, virtual private clouds, if needed.
+> **[1:08](https://www.linkedin.com/learning/cloud-computing-understanding-networking/creating-and-configuring-virtual-networks?u=76281980&t=68)** Configure [[Routing]] tables, allowing you to direct traffic within the virtual network and define routes for accessing external networks or other VPCs, virtual private clouds, if needed.
 >
 > **[1:20](https://www.linkedin.com/learning/cloud-computing-understanding-networking/creating-and-configuring-virtual-networks?u=76281980&t=80)** Networking routing tables are data tables stored in network devices, such as routers or switches, that determine the path through which network traffic is directed.
 >
@@ -384,7 +378,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), traffic (3), [[Private Clouds]] (2), [[Routing]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Private Clouds]] (2), [[Routing]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **Prerequisites:** configure (4), set up (1)
 > **Env Vars:** aws (1), vpc (1)
 > **Analogies:** such as (2)
@@ -393,8 +387,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Addressing and subnetting in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/addressing-and-subnetting-in-the-cloud?u=76281980)
+#### [Addressing and subnetting in the cloud](https://www.linkedin.com/learning/cloud-computing-understanding-networking/addressing-and-subnetting-in-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -404,7 +397,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/cloud-computing-understanding-networking/addressing-and-subnetting-in-the-cloud?u=76281980&t=15)** Addressing refers to the allocation and management of IP addresses for cloud-based resources.
 >
-> **[0:22](https://www.linkedin.com/learning/cloud-computing-understanding-networking/addressing-and-subnetting-in-the-cloud?u=76281980&t=22)** These may include virtual machines, databases, AI servers, and other network components.
+> **[0:22](https://www.linkedin.com/learning/cloud-computing-understanding-networking/addressing-and-subnetting-in-the-cloud?u=76281980&t=22)** These may include [[Virtual Machines]], [[Databases]], AI servers, and other network components.
 >
 > **[0:27](https://www.linkedin.com/learning/cloud-computing-understanding-networking/addressing-and-subnetting-in-the-cloud?u=76281980&t=27)** Cloud providers offer IP address assignment mechanisms.
 >
@@ -420,7 +413,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/cloud-computing-understanding-networking/addressing-and-subnetting-in-the-cloud?u=76281980&t=64)** For example, different subnets may be used for database servers, application servers, and AI servers.
 >
-> **[1:10](https://www.linkedin.com/learning/cloud-computing-understanding-networking/addressing-and-subnetting-in-the-cloud?u=76281980&t=70)** Thus, you can use these subnets to provide specific access control and routing configurations.
+> **[1:10](https://www.linkedin.com/learning/cloud-computing-understanding-networking/addressing-and-subnetting-in-the-cloud?u=76281980&t=70)** Thus, you can use these subnets to provide specific access control and [[Routing]] configurations.
 >
 > **[1:17](https://www.linkedin.com/learning/cloud-computing-understanding-networking/addressing-and-subnetting-in-the-cloud?u=76281980&t=77)** As you can see, addressing and subnetting provide the cloud network designer with better organization and management of resources.
 >
@@ -428,7 +421,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), management (3), ai (2), [[Virtual Machines]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (1), [[Databases]] (1), [[Routing]] (1)
 > **Definitions:** refers to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -438,18 +431,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud-based network services: DNS, DHCP, and VPN
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-based-network-services-dns-dhcp-and-vpn?u=76281980)
+#### [Cloud-based network services: DNS, DHCP, and VPN](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-based-network-services-dns-dhcp-and-vpn?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-based-network-services-dns-dhcp-and-vpn?u=76281980&t=0)** - [Instructor] So now let's dive a bit deeper into the great depths of cloud computing networking, including DNS, or domain name system, DHCP, or Dynamic Host Configuration Protocol, and VPN, which as you may recall, stands for virtual private network.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-based-network-services-dns-dhcp-and-vpn?u=76281980&t=0)** - [Instructor] So now let's dive a bit deeper into the great depths of [[Cloud Computing]] networking, including DNS, or [[Domain Name System (DNS)|domain name system]], DHCP, or Dynamic Host Configuration Protocol, and VPN, which as you may recall, stands for [[Virtual Private Network (VPN)|virtual private network]].
 >
 > **[0:18](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-based-network-services-dns-dhcp-and-vpn?u=76281980&t=18)** Here's a brief overview of each within the context of cloud computing networking, DNS is responsible for translating domain names into IP addresses.
 >
 > **[0:27](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-based-network-services-dns-dhcp-and-vpn?u=76281980&t=27)** We're all familiar with these when using a browser leveraging the worldwide web.
 >
-> **[0:32](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-based-network-services-dns-dhcp-and-vpn?u=76281980&t=32)** This means that we don't have to put in an IP address, such as the IP address [linkedin.com](https://linkedin.com) resolves to 13.107.42.14.
+> **[0:32](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-based-network-services-dns-dhcp-and-vpn?u=76281980&t=32)** This means that we don't have to put in an IP address, such as the IP address [[[LinkedIn]].com](https://linkedin.com) resolves to 13.107.42.14.
 >
 > **[0:48](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-based-network-services-dns-dhcp-and-vpn?u=76281980&t=48)** As you can see, this allows users to access websites and other resources using easily recognizable names, such as when typing in [linkedin.com](https://linkedin.com), it finds the associated IP address for you.
 >
@@ -461,7 +453,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-based-network-services-dns-dhcp-and-vpn?u=76281980&t=93)** This means that we don't have to do this manually, and it's easier to respond to network changes.
 >
-> **[1:40](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-based-network-services-dns-dhcp-and-vpn?u=76281980&t=100)** DHCP simplifies the provisioning and management of IP addresses for virtual machines and other cloud resources.
+> **[1:40](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-based-network-services-dns-dhcp-and-vpn?u=76281980&t=100)** DHCP simplifies the provisioning and management of IP addresses for [[Virtual Machines]] and other cloud resources.
 >
 > **[1:47](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-based-network-services-dns-dhcp-and-vpn?u=76281980&t=107)** It works behind the scenes and is something you just know is working for you on your behalf to ensure that all devices have an IP address and that IP address is unique.
 >
@@ -485,7 +477,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), dns (5), vpn (2), [[LinkedIn]] (2), [[Domain Name System (DNS)|Domain name system]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (5), [[LinkedIn]] (2), [[Domain Name System (DNS)|Domain name system]] (1), [[Virtual Private Network (VPN)|Virtual private network]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** dns (5), dhcp (3), vpn (2)
 > **Definitions:** means that (2), stands for (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (2)
@@ -494,8 +486,7 @@ created: 2026-05-02
 > **Versions:** 13.107.42 (1)
 > **Warnings:** be aware (1)
 
-#### Setting up and managing DNS in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/setting-up-and-managing-dns-in-the-cloud?u=76281980)
+#### [Setting up and managing DNS in the cloud](https://www.linkedin.com/learning/cloud-computing-understanding-networking/setting-up-and-managing-dns-in-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -505,7 +496,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/cloud-computing-understanding-networking/setting-up-and-managing-dns-in-the-cloud?u=76281980&t=8)** Choose a DNS provider, meaning researching, and selecting a DNS provider that offers cloud-based DNS services.
 >
-> **[0:15](https://www.linkedin.com/learning/cloud-computing-understanding-networking/setting-up-and-managing-dns-in-the-cloud?u=76281980&t=15)** Options include Amazon Route 53, Google Cloud DNS, and Microsoft Azure DNS, but there are many others to consider as well.
+> **[0:15](https://www.linkedin.com/learning/cloud-computing-understanding-networking/setting-up-and-managing-dns-in-the-cloud?u=76281980&t=15)** Options include Amazon Route 53, [[Google Cloud Platform (GCP)|Google Cloud]] DNS, and [[Microsoft Azure]] DNS, but there are many others to consider as well.
 >
 > **[0:25](https://www.linkedin.com/learning/cloud-computing-understanding-networking/setting-up-and-managing-dns-in-the-cloud?u=76281980&t=25)** Domain registration and configuration means that we're going to register the domain and configure it for our specific requirements.
 >
@@ -519,9 +510,9 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/cloud-computing-understanding-networking/setting-up-and-managing-dns-in-the-cloud?u=76281980&t=67)** What is important is that you understand that these records can be directly configured by you.
 >
-> **[1:12](https://www.linkedin.com/learning/cloud-computing-understanding-networking/setting-up-and-managing-dns-in-the-cloud?u=76281980&t=72)** Next, we need to implement security measures such as DNSSEC, our Domain Name System Security Extensions.
+> **[1:12](https://www.linkedin.com/learning/cloud-computing-understanding-networking/setting-up-and-managing-dns-in-the-cloud?u=76281980&t=72)** Next, we need to implement security measures such as DNSSEC, our [[Domain Name System (DNS)|Domain Name System]] Security Extensions.
 >
-> **[1:22](https://www.linkedin.com/learning/cloud-computing-understanding-networking/setting-up-and-managing-dns-in-the-cloud?u=76281980&t=82)** This provides us with better authentication and data integrity.
+> **[1:22](https://www.linkedin.com/learning/cloud-computing-understanding-networking/setting-up-and-managing-dns-in-the-cloud?u=76281980&t=82)** This provides us with better authentication and [[Data Integrity]].
 >
 > **[1:27](https://www.linkedin.com/learning/cloud-computing-understanding-networking/setting-up-and-managing-dns-in-the-cloud?u=76281980&t=87)** Finally, and most importantly, we need to optimize network performance by setting up monitoring and alerting for DNS services.
 >
@@ -529,25 +520,24 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/cloud-computing-understanding-networking/setting-up-and-managing-dns-in-the-cloud?u=76281980&t=100)** Also, you can optimize DNS performance by configuring caching and using any available performance-enhancing features provided by your DNS provider.
 >
-> **[1:49](https://www.linkedin.com/learning/cloud-computing-understanding-networking/setting-up-and-managing-dns-in-the-cloud?u=76281980&t=109)** Each provider will be a bit different in what types of performance tuning capabilities they provide.
+> **[1:49](https://www.linkedin.com/learning/cloud-computing-understanding-networking/setting-up-and-managing-dns-in-the-cloud?u=76281980&t=109)** Each provider will be a bit different in what types of [[Performance Tuning]] capabilities they provide.
 >
 > **[1:56](https://www.linkedin.com/learning/cloud-computing-understanding-networking/setting-up-and-managing-dns-in-the-cloud?u=76281980&t=116)** This seems a bit complex, don't worry.
 >
-> **[1:58](https://www.linkedin.com/learning/cloud-computing-understanding-networking/setting-up-and-managing-dns-in-the-cloud?u=76281980&t=118)** Cloud computing networking pros often use checklists to get through these procedures.
+> **[1:58](https://www.linkedin.com/learning/cloud-computing-understanding-networking/setting-up-and-managing-dns-in-the-cloud?u=76281980&t=118)** [[Cloud Computing]] networking pros often use checklists to get through these procedures.
 >
 > **[2:03](https://www.linkedin.com/learning/cloud-computing-understanding-networking/setting-up-and-managing-dns-in-the-cloud?u=76281980&t=123)** It's not important that you memorize these steps.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (15), cloud (3), [[Security]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Azure]] (1), [[Domain Name System (DNS)|Domain name system]] (1), [[Data Integrity]] (1), [[Performance Tuning]] (1)
 > **Env Vars:** dns (15), cname (1), txt (1), dnssec (1)
 > **Definitions:** means that (2)
 > **Analogies:** for instance (1), such as (1)
 > **Prerequisites:** set up (1), configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing Dynamic Host Configuration Protocol
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-dynamic-host-configuration-protocol?u=76281980)
+#### [Implementing Dynamic Host Configuration Protocol](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-dynamic-host-configuration-protocol?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -555,19 +545,19 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-dynamic-host-configuration-protocol?u=76281980&t=2)** Let's look at the specific steps to set up DHCP as related to cloud networking.
 >
-> **[0:09](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-dynamic-host-configuration-protocol?u=76281980&t=9)** Understand the DHCP options and capabilities provided by your specific cloud provider, such as AWS and Google.
+> **[0:09](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-dynamic-host-configuration-protocol?u=76281980&t=9)** Understand the DHCP options and capabilities provided by your specific cloud provider, such as AWS and [[Google]].
 >
 > **[0:16](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-dynamic-host-configuration-protocol?u=76281980&t=16)** Different providers may have different support for DHCP and network configuration, and it's important that you understand what they provide specifically.
 >
 > **[0:26](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-dynamic-host-configuration-protocol?u=76281980&t=26)** Plan and design the network subnets.
 >
-> **[0:28](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-dynamic-host-configuration-protocol?u=76281980&t=28)** This means working within the cloud environment, considering the number of instances or virtual machines that will require IP addresses.
+> **[0:28](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-dynamic-host-configuration-protocol?u=76281980&t=28)** This means working within the cloud environment, considering the number of instances or [[Virtual Machines]] that will require IP addresses.
 >
 > **[0:36](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-dynamic-host-configuration-protocol?u=76281980&t=36)** Also, how they will be segmented.
 >
 > **[0:40](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-dynamic-host-configuration-protocol?u=76281980&t=40)** Set up a VPC, or virtual private cloud, and define the subnets within the VPC.
 >
-> **[0:46](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-dynamic-host-configuration-protocol?u=76281980&t=46)** This may include specific IP address ranges and setting routing tables.
+> **[0:46](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-dynamic-host-configuration-protocol?u=76281980&t=46)** This may include specific IP address ranges and setting [[Routing]] tables.
 >
 > **[0:51](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-dynamic-host-configuration-protocol?u=76281980&t=51)** Again, don't get caught up too much with the lingo here.
 >
@@ -597,7 +587,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), dns (2), aws (1), [[Google]] (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Virtual Machines]] (1), [[Routing]] (1)
 > **Env Vars:** dhcp (10), dns (2), vpc (2), aws (1), ntp (1)
 > **Prerequisites:** set up (2), configure (1), setup (1)
 > **CLI Commands:** find (2), aws (1)
@@ -606,8 +596,7 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring and managing VPN connections in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-and-managing-vpn-connections-in-the-cloud?u=76281980)
+#### [Configuring and managing VPN connections in the cloud](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-and-managing-vpn-connections-in-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -635,14 +624,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (9), cloud (6)
 > **Env Vars:** vpn (9)
 > **Prerequisites:** set up (2), configure (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring and managing VPC (virtual private cloud)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-and-managing-vpc-virtual-private-cloud?u=76281980)
+#### [Configuring and managing VPC (virtual private cloud)](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-and-managing-vpc-virtual-private-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -678,7 +665,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-and-managing-vpc-virtual-private-cloud?u=76281980&t=71)** Configure security groups within the VPC.
 >
-> **[1:13](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-and-managing-vpc-virtual-private-cloud?u=76281980&t=73)** This is to control inbound and outbound traffic for the instances to provide sound network security.
+> **[1:13](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-and-managing-vpc-virtual-private-cloud?u=76281980&t=73)** This is to control inbound and outbound traffic for the instances to provide sound [[Network Security]].
 >
 > **[1:21](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-and-managing-vpc-virtual-private-cloud?u=76281980&t=81)** Create and manage VPN connections.
 >
@@ -690,7 +677,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), traffic (2), [[Security]] (2), [[Network Security]] (1), vpn (1)
+> **Frameworks & Libraries:** [[Network Security]] (1)
 > **Env Vars:** vpc (12), vpn (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** click on (1)
@@ -703,12 +690,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud security and its challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-security-and-its-challenges?u=76281980)
+#### [Cloud security and its challenges](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-security-and-its-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-security-and-its-challenges?u=76281980&t=0)** - [Instructor] I'd now like to discuss cloud security and some of its challenges.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-security-and-its-challenges?u=76281980&t=0)** - [Instructor] I'd now like to discuss [[Cloud Security]] and some of its challenges.
 >
 > **[0:04](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-security-and-its-challenges?u=76281980&t=4)** First, know that cloud security is a simple process that many people make more complicated than needed.
 >
@@ -732,9 +718,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-security-and-its-challenges?u=76281980&t=59)** How to respond to detecting an attack or an emerging threat?
 >
-> **[1:04](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-security-and-its-challenges?u=76281980&t=64)** The network security system could disconnect and block an IP address, then backup systems and data just in case they are breached.
+> **[1:04](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-security-and-its-challenges?u=76281980&t=64)** The [[Network Security]] system could disconnect and block an IP address, then backup systems and data just in case they are breached.
 >
-> **[1:12](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-security-and-its-challenges?u=76281980&t=72)** This includes turning off systems and data storage to stop an attack.
+> **[1:12](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-security-and-its-challenges?u=76281980&t=72)** This includes turning off systems and [[Data Storage]] to stop an attack.
 >
 > **[1:17](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-security-and-its-challenges?u=76281980&t=77)** Track means that we're keeping a detailed log of everything that happens on the system and on the network.
 >
@@ -742,25 +728,24 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-security-and-its-challenges?u=76281980&t=88)** Of course, you can't boil down cloud security to just these four concepts.
 >
-> **[1:33](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-security-and-its-challenges?u=76281980&t=93)** We need to consider many of the details as well to create a sound security plan, including a secure cloud computing network.
+> **[1:33](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-security-and-its-challenges?u=76281980&t=93)** We need to consider many of the details as well to create a sound security plan, including a secure [[Cloud Computing]] network.
 >
 > **[1:41](https://www.linkedin.com/learning/cloud-computing-understanding-networking/cloud-security-and-its-challenges?u=76281980&t=101)** Let's see what those are in the remainder of this section.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), cloud (6), data (3), prompt (1), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (4), [[Network Security]] (1), [[Data Storage]] (1), [[Cloud Computing]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing network security measures in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-network-security-measures-in-the-cloud?u=76281980)
+#### [Implementing network security measures in the cloud](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-network-security-measures-in-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-network-security-measures-in-the-cloud?u=76281980&t=0)** - [Instructor] At some point, you're going to want to look at the system assets on your cloud computing network and identify any risks to those assets.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-network-security-measures-in-the-cloud?u=76281980&t=0)** - [Instructor] At some point, you're going to want to look at the system assets on your [[Cloud Computing]] network and identify any risks to those assets.
 >
 > **[0:08](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-network-security-measures-in-the-cloud?u=76281980&t=8)** This will allow you to assess the security approach that will be required.
 >
@@ -774,7 +759,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-network-security-measures-in-the-cloud?u=76281980&t=42)** Also, this is usually not picking the best cloud, but in many instances is picking more than a single cloud provider or building a multi-cloud.
 >
-> **[0:52](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-network-security-measures-in-the-cloud?u=76281980&t=52)** Utilize robust encryption algorithms to protect the data both at rest and in transit or flight.
+> **[0:52](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-network-security-measures-in-the-cloud?u=76281980&t=52)** Utilize robust encryption [[Algorithms]] to protect the data both at [[Representational State Transfer (REST)|rest]] and in transit or flight.
 >
 > **[0:58](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-network-security-measures-in-the-cloud?u=76281980&t=58)** This adds another layer of security against unauthorized access, since even if they can see the data, it's scrambled using encryption.
 >
@@ -786,7 +771,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-network-security-measures-in-the-cloud?u=76281980&t=84)** We can use these digital signatures to authorize or deauthorize access.
 >
-> **[1:29](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-network-security-measures-in-the-cloud?u=76281980&t=89)** For example, we may not want others outside of the human resources organization to see payroll data.
+> **[1:29](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-network-security-measures-in-the-cloud?u=76281980&t=89)** For example, we may not want others outside of the [[Human Resources (HR)|human resources]] organization to see payroll data.
 >
 > **[1:35](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-network-security-measures-in-the-cloud?u=76281980&t=95)** Thus, they're the only identities authorized to access that system and perhaps the network that system resides on.
 >
@@ -804,7 +789,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-network-security-measures-in-the-cloud?u=76281980&t=135)** Since the network is protected by our firewall, so are the attached systems.
 >
-> **[2:22](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-network-security-measures-in-the-cloud?u=76281980&t=142)** Make sure to leverage intrusion detection and prevention systems or IDPS.
+> **[2:22](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-network-security-measures-in-the-cloud?u=76281980&t=142)** Make sure to leverage [[Intrusion Detection]] and prevention systems or IDPS.
 >
 > **[2:27](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-network-security-measures-in-the-cloud?u=76281980&t=147)** These monitor network and system activities, detecting activities that could indicate a breach or an attempted breach.
 >
@@ -816,11 +801,11 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-network-security-measures-in-the-cloud?u=76281980&t=170)** Finally, make sure to provide education to all employees.
 >
-> **[2:54](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-network-security-measures-in-the-cloud?u=76281980&t=174)** This should pertain to best practices for implementing cloud security, including simple users of the systems to security admins charged with operations, security, and cloud network security.
+> **[2:54](https://www.linkedin.com/learning/cloud-computing-understanding-networking/implementing-network-security-measures-in-the-cloud?u=76281980&t=174)** This should pertain to best practices for implementing [[Cloud Security]], including simple users of the systems to security admins charged with operations, security, and cloud [[Network Security]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), [[Security]] (9), data (7), next (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (3), [[Algorithms]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Human Resources (HR)|Human resources]] (1), [[Intrusion Detection]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (2), for example (1)
 > **Best Practices:** make sure to (3)
@@ -829,14 +814,13 @@ created: 2026-05-02
 > **Prerequisites:** install (1), configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring network access control policies and rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-network-access-control-policies-and-rules?u=76281980)
+#### [Configuring network access control policies and rules](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-network-access-control-policies-and-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-network-access-control-policies-and-rules?u=76281980&t=0)** - [Instructor] Let's walk through what it takes for a network security admin, let's call him Dave, to configure network access controls and rules.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-network-access-control-policies-and-rules?u=76281980&t=0)** - [Instructor] Let's walk through what it takes for a [[Network Security]] admin, let's call him Dave, to configure network access controls and rules.
 >
-> **[0:08](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-network-access-control-policies-and-rules?u=76281980&t=8)** First, Dave should access the cloud computing platform's management console or portal.
+> **[0:08](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-network-access-control-policies-and-rules?u=76281980&t=8)** First, Dave should access the [[Cloud Computing]] platform's management console or portal.
 >
 > **[0:13](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-network-access-control-policies-and-rules?u=76281980&t=13)** This is where Dave will work to set up policies using this tool.
 >
@@ -856,7 +840,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-network-access-control-policies-and-rules?u=76281980&t=57)** Next, Dave wants to determine the specific resources or services that need to be part of his access control rules or policies.
 >
-> **[1:05](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-network-access-control-policies-and-rules?u=76281980&t=65)** For example, is it all databases?
+> **[1:05](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-network-access-control-policies-and-rules?u=76281980&t=65)** For example, is it all [[Databases]]?
 >
 > **[1:08](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-network-access-control-policies-and-rules?u=76281980&t=68)** Is it all systems connected to the network, or just a few systems that are associated with compliance, such as a bank needing to protect transactional data, or a healthcare provider protecting data that has PII attributes or personally identifiable information?
 >
@@ -886,7 +870,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), next (4), [[Network Security]] (3), data (2), management (1)
+> **Frameworks & Libraries:** [[Network Security]] (3), [[Cloud Computing]] (2), [[Databases]] (1)
 > **Analogies:** for example (2), such as (1)
 > **Prerequisites:** configure (1), set up (1)
 > **CLI Commands:** make (1)
@@ -894,8 +878,7 @@ created: 2026-05-02
 > **Env Vars:** pii (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security services: Web app firewalls and DDoS protection
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/security-services-web-app-firewalls-and-ddos-protection?u=76281980)
+#### [Security services: Web app firewalls and DDoS protection](https://www.linkedin.com/learning/cloud-computing-understanding-networking/security-services-web-app-firewalls-and-ddos-protection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -903,11 +886,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/cloud-computing-understanding-networking/security-services-web-app-firewalls-and-ddos-protection?u=76281980&t=5)** This includes Web Application Firewalls, or WAFs, and DDoS Protection, meaning protection from specific kinds of attacks called Distributed Denial of Service attacks.
 >
-> **[0:17](https://www.linkedin.com/learning/cloud-computing-understanding-networking/security-services-web-app-firewalls-and-ddos-protection?u=76281980&t=17)** A WAF is a cloud network security service that provides monitoring, filtering, and the ability to block selected HTTP requests and responses.
+> **[0:17](https://www.linkedin.com/learning/cloud-computing-understanding-networking/security-services-web-app-firewalls-and-ddos-protection?u=76281980&t=17)** A WAF is a cloud [[Network Security]] service that provides monitoring, filtering, and the ability to block selected HTTP requests and responses.
 >
 > **[0:28](https://www.linkedin.com/learning/cloud-computing-understanding-networking/security-services-web-app-firewalls-and-ddos-protection?u=76281980&t=28)** WAF is able to do this by inspecting HTTP requests and responses to detect issues with those actions and protect the web application.
 >
-> **[0:39](https://www.linkedin.com/learning/cloud-computing-understanding-networking/security-services-web-app-firewalls-and-ddos-protection?u=76281980&t=39)** Issues it looks for include SQL injection or cross-site scripting, just to name a few.
+> **[0:39](https://www.linkedin.com/learning/cloud-computing-understanding-networking/security-services-web-app-firewalls-and-ddos-protection?u=76281980&t=39)** Issues it looks for include [[SQL]] injection or cross-site scripting, just to name a few.
 >
 > **[0:46](https://www.linkedin.com/learning/cloud-computing-understanding-networking/security-services-web-app-firewalls-and-ddos-protection?u=76281980&t=46)** SQL or Structured Query Language injection is a type of cyber attack that allows hackers to execute malicious SQL queries.
 >
@@ -931,7 +914,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Network Security]] (4), [[SQL]] (3), web application (2), [[Scripting]] (2), data (2)
+> **Frameworks & Libraries:** [[Network Security]] (4), [[SQL]] (3)
 > **Env Vars:** sql (3), waf (2), http (2)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** such as (1)
@@ -942,8 +925,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Establishing connectivity between cloud environments
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/establishing-connectivity-between-cloud-environments?u=76281980)
+#### [Establishing connectivity between cloud environments](https://www.linkedin.com/learning/cloud-computing-understanding-networking/establishing-connectivity-between-cloud-environments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -955,7 +937,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/cloud-computing-understanding-networking/establishing-connectivity-between-cloud-environments?u=76281980&t=23)** Thus, let's explore what this connectivity is and how it works.
 >
-> **[0:28](https://www.linkedin.com/learning/cloud-computing-understanding-networking/establishing-connectivity-between-cloud-environments?u=76281980&t=28)** The most used types of connectivity, in and out of cloud platforms, include direct connection, also called private connectivity, is just a physical connection between the systems in the data center, which could be your data center or a data center space that you rent and public cloud platforms such as AWS, Google and Microsoft.
+> **[0:28](https://www.linkedin.com/learning/cloud-computing-understanding-networking/establishing-connectivity-between-cloud-environments?u=76281980&t=28)** The most used types of connectivity, in and out of cloud platforms, include direct connection, also called private connectivity, is just a physical connection between the systems in the data center, which could be your data center or a data center space that you rent and public cloud platforms such as AWS, [[Google]] and [[Microsoft]].
 >
 > **[0:51](https://www.linkedin.com/learning/cloud-computing-understanding-networking/establishing-connectivity-between-cloud-environments?u=76281980&t=51)** Examples of this would be a private circuit or lease line that only exists for use of a single organization or business.
 >
@@ -995,7 +977,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (17), data (8), [[Security]] (4), aws (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft]] (1)
 > **Env Vars:** aws (2), vpn (2), vpc (1)
 > **CLI Commands:** aws (2), make (1)
 > **Analogies:** such as (3)
@@ -1003,8 +985,7 @@ created: 2026-05-02
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring VPNs for secure inter-cloud communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-vpns-for-secure-inter-cloud-communication?u=76281980)
+#### [Configuring VPNs for secure inter-cloud communication](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-vpns-for-secure-inter-cloud-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1042,9 +1023,9 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-vpns-for-secure-inter-cloud-communication?u=76281980&t=89)** This is needed for secure connections between cloud platforms, in this case, different cloud brands.
 >
-> **[1:37](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-vpns-for-secure-inter-cloud-communication?u=76281980&t=97)** We'll also need to set up routing and access control.
+> **[1:37](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-vpns-for-secure-inter-cloud-communication?u=76281980&t=97)** We'll also need to set up [[Routing]] and access control.
 >
-> **[1:40](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-vpns-for-secure-inter-cloud-communication?u=76281980&t=100)** This means establishing the proper routing between cloud platforms such as AWS and Google.
+> **[1:40](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-vpns-for-secure-inter-cloud-communication?u=76281980&t=100)** This means establishing the proper routing between cloud platforms such as AWS and [[Google]].
 >
 > **[1:45](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-vpns-for-secure-inter-cloud-communication?u=76281980&t=105)** We'll need to set up an access control link, firewall rules, and other security mechanisms to control which resources can communicate over the VPN.
 >
@@ -1060,25 +1041,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (12), cloud (8), [[Security]] (3), strengths (2), [[Routing]] (2)
+> **Frameworks & Libraries:** [[Routing]] (2), [[Google]] (1)
 > **Env Vars:** vpn (12), ssl (1), tls (1), l2tp (1), aws (1)
 > **CLI Commands:** make (3), aws (1)
 > **Prerequisites:** set up (3), configure (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Interconnecting virtual networks within a cloud provider
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/interconnecting-virtual-networks-within-a-cloud-provider?u=76281980)
+#### [Interconnecting virtual networks within a cloud provider](https://www.linkedin.com/learning/cloud-computing-understanding-networking/interconnecting-virtual-networks-within-a-cloud-provider?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/interconnecting-virtual-networks-within-a-cloud-provider?u=76281980&t=0)** - [Instructor] Interconnecting virtual networks within a public cloud provider is the process of creating secure communications between different virtual networks.
 >
-> **[0:09](https://www.linkedin.com/learning/cloud-computing-understanding-networking/interconnecting-virtual-networks-within-a-cloud-provider?u=76281980&t=9)** This allows for data to be shared between networks within a single cloud provider such as AWS and Microsoft.
+> **[0:09](https://www.linkedin.com/learning/cloud-computing-understanding-networking/interconnecting-virtual-networks-within-a-cloud-provider?u=76281980&t=9)** This allows for data to be shared between networks within a single cloud provider such as AWS and [[Microsoft]].
 >
 > **[0:16](https://www.linkedin.com/learning/cloud-computing-understanding-networking/interconnecting-virtual-networks-within-a-cloud-provider?u=76281980&t=16)** A common method to leverage is virtual network peering, this allows for the connecting of different virtual networks existing within the same Region or different Regions.
 >
-> **[0:27](https://www.linkedin.com/learning/cloud-computing-understanding-networking/interconnecting-virtual-networks-within-a-cloud-provider?u=76281980&t=27)** Regions are named locations used by public cloud computing providers.
+> **[0:27](https://www.linkedin.com/learning/cloud-computing-understanding-networking/interconnecting-virtual-networks-within-a-cloud-provider?u=76281980&t=27)** Regions are named locations used by public [[Cloud Computing]] providers.
 >
 > **[0:33](https://www.linkedin.com/learning/cloud-computing-understanding-networking/interconnecting-virtual-networks-within-a-cloud-provider?u=76281980&t=33)** They use private IP addresses to facilitate these communications, and this is achieved without the need for a gateway.
 >
@@ -1092,7 +1072,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/cloud-computing-understanding-networking/interconnecting-virtual-networks-within-a-cloud-provider?u=76281980&t=69)** Also, some cloud providers provide services for interconnecting of virtual networks.
 >
-> **[1:14](https://www.linkedin.com/learning/cloud-computing-understanding-networking/interconnecting-virtual-networks-within-a-cloud-provider?u=76281980&t=74)** Examples of these types of services include AWS Transit Gateway, or Azure Virtual WAN, which stands for Wide Area Network.
+> **[1:14](https://www.linkedin.com/learning/cloud-computing-understanding-networking/interconnecting-virtual-networks-within-a-cloud-provider?u=76281980&t=74)** Examples of these types of services include AWS Transit Gateway, or [[Microsoft Azure|Azure]] Virtual WAN, which stands for Wide Area Network.
 >
 > **[1:25](https://www.linkedin.com/learning/cloud-computing-understanding-networking/interconnecting-virtual-networks-within-a-cloud-provider?u=76281980&t=85)** These services provide a hub that facilitates network connectivity, thus allowing you to integrate several virtual networks within a single cloud provider.
 >
@@ -1104,19 +1084,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), vpn (4), aws (2), data (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Cloud Computing]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** vpn (4), aws (2), wan (1)
 > **CLI Commands:** aws (2)
 > **Definitions:** stands for (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Integrating networks (hybrid and multicloud)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/integrating-networks-hybrid-and-multicloud?u=76281980)
+#### [Integrating networks (hybrid and multicloud)](https://www.linkedin.com/learning/cloud-computing-understanding-networking/integrating-networks-hybrid-and-multicloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/integrating-networks-hybrid-and-multicloud?u=76281980&t=0)** - [Instructor] Hybrid and multicloud networking is basically integrating on-premise networks, such as those deployed by most companies, with public cloud platforms such as AWS, Microsoft, and Google.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/integrating-networks-hybrid-and-multicloud?u=76281980&t=0)** - [Instructor] Hybrid and multicloud networking is basically integrating on-premise networks, such as those deployed by most companies, with public cloud platforms such as AWS, [[Microsoft]], and [[Google]].
 >
 > **[0:11](https://www.linkedin.com/learning/cloud-computing-understanding-networking/integrating-networks-hybrid-and-multicloud?u=76281980&t=11)** They're used to create a unified distributed network infrastructure so that applications and data stores can more easily communicate.
 >
@@ -1128,7 +1107,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/cloud-computing-understanding-networking/integrating-networks-hybrid-and-multicloud?u=76281980&t=48)** Load balancers and traffic management systems make sure that network traffic is efficiently distributed, thus no single resource is overloaded.
 >
-> **[0:57](https://www.linkedin.com/learning/cloud-computing-understanding-networking/integrating-networks-hybrid-and-multicloud?u=76281980&t=57)** This means across both systems and cloud resources, the objective is to optimize performance as well as scalability and reliability for hybrid and multicloud environments.
+> **[0:57](https://www.linkedin.com/learning/cloud-computing-understanding-networking/integrating-networks-hybrid-and-multicloud?u=76281980&t=57)** This means across both systems and cloud resources, the objective is to optimize performance as well as [[Scalability]] and reliability for hybrid and multicloud environments.
 >
 > **[1:08](https://www.linkedin.com/learning/cloud-computing-understanding-networking/integrating-networks-hybrid-and-multicloud?u=76281980&t=68)** Of course, there are other ways to deploy and manage networks that span hybrid and multicloud deployments.
 >
@@ -1138,7 +1117,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), traffic (4), management (3), aws (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Google]] (1), [[Scalability]] (1)
 > **CLI Commands:** aws (1), make (1)
 > **Analogies:** such as (2)
 > **Env Vars:** aws (1)
@@ -1149,8 +1128,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Network monitoring tools and techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/network-monitoring-tools-and-techniques?u=76281980)
+#### [Network monitoring tools and techniques](https://www.linkedin.com/learning/cloud-computing-understanding-networking/network-monitoring-tools-and-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1184,7 +1162,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/cloud-computing-understanding-networking/network-monitoring-tools-and-techniques?u=76281980&t=70)** In essence, we're recording each networking event and then looping back to understand what those events mean.
 >
-> **[1:18](https://www.linkedin.com/learning/cloud-computing-understanding-networking/network-monitoring-tools-and-techniques?u=76281980&t=78)** Performance monitoring, or the ability to track and analyze performance metrics.
+> **[1:18](https://www.linkedin.com/learning/cloud-computing-understanding-networking/network-monitoring-tools-and-techniques?u=76281980&t=78)** Performance monitoring, or the ability to track and analyze [[Performance Metrics]].
 >
 > **[1:23](https://www.linkedin.com/learning/cloud-computing-understanding-networking/network-monitoring-tools-and-techniques?u=76281980&t=83)** This includes CPU saturation, memory usage, network latency, and input and output system throughput.
 >
@@ -1198,21 +1176,20 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/cloud-computing-understanding-networking/network-monitoring-tools-and-techniques?u=76281980&t=118)** Of course, this is just scratching the surface.
 >
-> **[2:01](https://www.linkedin.com/learning/cloud-computing-understanding-networking/network-monitoring-tools-and-techniques?u=76281980&t=121)** There are many other ways and things to monitor when looking at the ongoing health of a cloud computing network.
+> **[2:01](https://www.linkedin.com/learning/cloud-computing-understanding-networking/network-monitoring-tools-and-techniques?u=76281980&t=121)** There are many other ways and things to monitor when looking at the ongoing health of a [[Cloud Computing]] network.
 >
 > **[2:07](https://www.linkedin.com/learning/cloud-computing-understanding-networking/network-monitoring-tools-and-techniques?u=76281980&t=127)** These are just the most important and common.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), traffic (2), vpn (1), data (1), [[Performance Metrics]] (1)
+> **Frameworks & Libraries:** [[Performance Metrics]] (1), [[Cloud Computing]] (1)
 > **Env Vars:** vpc (1), vpn (1), cpu (1)
 > **Cross-References:** we discussed (1), earlier in (1)
 > **Analogies:** such as (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring network monitoring services in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-network-monitoring-services-in-the-cloud?u=76281980)
+#### [Configuring network monitoring services in the cloud](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-network-monitoring-services-in-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1224,9 +1201,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-network-monitoring-services-in-the-cloud?u=76281980&t=16)** These tools collect data and provide analysis from resources on the network and the network itself.
 >
-> **[0:22](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-network-monitoring-services-in-the-cloud?u=76281980&t=22)** These may include virtual machines, applications, serverless systems, and resources existing within a cloud.
+> **[0:22](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-network-monitoring-services-in-the-cloud?u=76281980&t=22)** These may include [[Virtual Machines]], applications, serverless systems, and resources existing within a cloud.
 >
-> **[0:30](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-network-monitoring-services-in-the-cloud?u=76281980&t=30)** Examples of these tools include Amazon CloudWatch, Google Stack Driver, and Azure Monitor.
+> **[0:30](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-network-monitoring-services-in-the-cloud?u=76281980&t=30)** Examples of these tools include Amazon CloudWatch, [[Google]] Stack Driver, and [[Microsoft Azure|Azure]] Monitor.
 >
 > **[0:37](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-network-monitoring-services-in-the-cloud?u=76281980&t=37)** Define the objectives of your network monitoring.
 >
@@ -1250,7 +1227,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-network-monitoring-services-in-the-cloud?u=76281980&t=96)** The idea is to catch issues with the network before they become real problems.
 >
-> **[1:42](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-network-monitoring-services-in-the-cloud?u=76281980&t=102)** Make sure to monitor for network security.
+> **[1:42](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-network-monitoring-services-in-the-cloud?u=76281980&t=102)** Make sure to monitor for [[Network Security]].
 >
 > **[1:44](https://www.linkedin.com/learning/cloud-computing-understanding-networking/configuring-network-monitoring-services-in-the-cloud?u=76281980&t=104)** This means using security specific monitoring technology to find breaches.
 >
@@ -1262,7 +1239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), data (3), hit (2), [[Virtual Machines]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (1), [[Google]] (1), [[Microsoft Azure|Azure]] (1), [[Network Security]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** configure (2)
 > **Definitions:** in other words (1)
@@ -1270,8 +1247,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing network traffic and troubleshooting issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/analyzing-network-traffic-and-troubleshooting-issues?u=76281980)
+#### [Analyzing network traffic and troubleshooting issues](https://www.linkedin.com/learning/cloud-computing-understanding-networking/analyzing-network-traffic-and-troubleshooting-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1283,7 +1259,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/cloud-computing-understanding-networking/analyzing-network-traffic-and-troubleshooting-issues?u=76281980&t=22)** Helpful to this process is using network diagnostic tools, such as identifying specific issues.
 >
-> **[0:28](https://www.linkedin.com/learning/cloud-computing-understanding-networking/analyzing-network-traffic-and-troubleshooting-issues?u=76281980&t=28)** Usually, this is carried out using small tests, such as pinging remote servers over the cloud computing network.
+> **[0:28](https://www.linkedin.com/learning/cloud-computing-understanding-networking/analyzing-network-traffic-and-troubleshooting-issues?u=76281980&t=28)** Usually, this is carried out using small tests, such as pinging remote servers over the [[Cloud Computing]] network.
 >
 > **[0:35](https://www.linkedin.com/learning/cloud-computing-understanding-networking/analyzing-network-traffic-and-troubleshooting-issues?u=76281980&t=35)** Check out the network logs, looking for any error messages and events that could indicate any network problems.
 >
@@ -1293,18 +1269,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (2), data (2), traffic (1), next (1), cloud (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logging and analytics services
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/logging-and-analytics-services?u=76281980)
+#### [Logging and analytics services](https://www.linkedin.com/learning/cloud-computing-understanding-networking/logging-and-analytics-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/logging-and-analytics-services?u=76281980&t=0)** - [Instructor] So how does one use logging and analytic services for networking monitoring in order to assist in network troubleshooting?
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/logging-and-analytics-services?u=76281980&t=0)** - [Instructor] So how does one use logging and analytic services for networking monitoring in order to assist in [[Network Troubleshooting]]?
 >
 > **[0:07](https://www.linkedin.com/learning/cloud-computing-understanding-networking/logging-and-analytics-services?u=76281980&t=7)** Surprisingly, it's not as complex as it sounds.
 >
@@ -1312,7 +1287,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/cloud-computing-understanding-networking/logging-and-analytics-services?u=76281980&t=13)** First, make sure to select a reliable logging and analytic service.
 >
-> **[0:18](https://www.linkedin.com/learning/cloud-computing-understanding-networking/logging-and-analytics-services?u=76281980&t=18)** Examples include AWS CloudWatch, Google Cloud Logging, or Azure Monitor.
+> **[0:18](https://www.linkedin.com/learning/cloud-computing-understanding-networking/logging-and-analytics-services?u=76281980&t=18)** Examples include AWS CloudWatch, [[Google Cloud Platform (GCP)|Google Cloud]] Logging, or [[Microsoft Azure|Azure]] Monitor.
 >
 > **[0:25](https://www.linkedin.com/learning/cloud-computing-understanding-networking/logging-and-analytics-services?u=76281980&t=25)** Second, set up the logging service to gather the network monitoring data you need to analyze.
 >
@@ -1322,13 +1297,13 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/cloud-computing-understanding-networking/logging-and-analytics-services?u=76281980&t=45)** Fourth, set up alerting and notifications based on the previously defined threshold as you may recall from an earlier video.
 >
-> **[0:53](https://www.linkedin.com/learning/cloud-computing-understanding-networking/logging-and-analytics-services?u=76281980&t=53)** Of course, there are some services that you may need to add depending on your specific cloud computing network.
+> **[0:53](https://www.linkedin.com/learning/cloud-computing-understanding-networking/logging-and-analytics-services?u=76281980&t=53)** Of course, there are some services that you may need to add depending on your specific [[Cloud Computing]] network.
 >
 > **[1:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/logging-and-analytics-services?u=76281980&t=60)** However, here are the most relevant for networking, monitoring, and troubleshooting.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Network Troubleshooting]] (1), aws (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Network Troubleshooting]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Azure|Azure]] (1), [[Cloud Computing]] (1)
 > **CLI Commands:** make (1), aws (1)
 > **Prerequisites:** set up (2)
 > **Env Vars:** aws (1)
@@ -1340,12 +1315,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning more about cloud networking
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-understanding-networking/learning-more-about-cloud-networking?u=76281980)
+#### [Learning more about cloud networking](https://www.linkedin.com/learning/cloud-computing-understanding-networking/learning-more-about-cloud-networking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/learning-more-about-cloud-networking?u=76281980&t=0)** - [Narrator] Cloud computing Networking is an evolving field that will only become more critical as time progresses.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-understanding-networking/learning-more-about-cloud-networking?u=76281980&t=0)** - [Narrator] [[Cloud Computing]] Networking is an evolving field that will only become more critical as time progresses.
 >
 > **[0:06](https://www.linkedin.com/learning/cloud-computing-understanding-networking/learning-more-about-cloud-networking?u=76281980&t=6)** The demand for cloud networking pros is also expected to rise considering that cloud computing growth is exploding.
 >
@@ -1375,7 +1349,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9)
+> **Frameworks & Libraries:** [[Cloud Computing]] (4)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)

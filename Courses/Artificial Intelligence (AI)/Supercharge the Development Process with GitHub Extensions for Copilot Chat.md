@@ -60,20 +60,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Extending GitHub Copilot Chat
-> [LinkedIn Learning](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/extending-github-copilot-chat?u=76281980)
+#### [Extending GitHub Copilot Chat](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/extending-github-copilot-chat?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/extending-github-copilot-chat?u=76281980&t=0)** - One of the standout products for developers in artificial intelligence has been GitHub Copilot.
+> **[0:00](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/extending-github-copilot-chat?u=76281980&t=0)** - One of the standout [[Microsoft Products|products]] for developers in [[Artificial Intelligence (AI)|artificial intelligence]] has been [[GitHub Copilot]].
 >
 > **[0:06](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/extending-github-copilot-chat?u=76281980&t=6)** In a recent survey, 76% of programmers reported using or planning to use AI tools in development.
 >
-> **[0:13](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/extending-github-copilot-chat?u=76281980&t=13)** However, so far, copilot has been limited to functionality GitHub has programmed internally, but now Copilot allows third parties to expand its capabilities through an extension system.
+> **[0:13](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/extending-github-copilot-chat?u=76281980&t=13)** However, so far, [[Microsoft Copilot|copilot]] has been limited to functionality [[GitHub]] has programmed internally, but now Copilot allows third parties to expand its capabilities through an extension system.
 >
 > **[0:25](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/extending-github-copilot-chat?u=76281980&t=25)** With Copilot extensions, you can build apps that take advantage of connections to other tools, models and data.
 >
-> **[0:32](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/extending-github-copilot-chat?u=76281980&t=32)** It gives extensions access to your chat history, a large language model that lets you ask more generic programming questions, and also the ability to execute third party functions for added capabilities.
+> **[0:32](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/extending-github-copilot-chat?u=76281980&t=32)** It gives extensions access to your chat history, a large language model that lets you ask more [[Generic Programming]] questions, and also the ability to execute third party functions for added capabilities.
 >
 > **[0:44](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/extending-github-copilot-chat?u=76281980&t=44)** Although it's a new product, you can already find tools from companies like Docker, LaunchDarkly, and of course you can also build your own.
 >
@@ -83,7 +82,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[GitHub Copilot]] (2), [[Microsoft Products|Products]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[GitHub Copilot]] (2), [[Microsoft Products|Products]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[GitHub]] (1)
 > **Tools:** github (3)
 > **CLI Commands:** find (1), docker (1)
 > **Speakers:** - one (1)
@@ -93,28 +92,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prerequisites for using GitHub Extensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/prerequisites-for-using-github-extensions?u=76281980)
+#### [Prerequisites for using GitHub Extensions](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/prerequisites-for-using-github-extensions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/prerequisites-for-using-github-extensions?u=76281980&t=0)** - Extensions are a part of GitHub's Copilot experience, but it's not something that is freely available to all GitHub accounts, so it's important that you understand the requirements you need in order to use them.
+> **[0:00](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/prerequisites-for-using-github-extensions?u=76281980&t=0)** - Extensions are a part of [[GitHub]]'s [[Microsoft Copilot|Copilot]] experience, but it's not something that is freely available to all GitHub accounts, so it's important that you understand the requirements you need in order to use them.
 >
 > **[0:13](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/prerequisites-for-using-github-extensions?u=76281980&t=13)** Copilot Chat, which is required to run Copilot Extensions, is available as an addition to your GitHub subscription with the Individual versions starting at $10 in the US, $19 a month for Copilot Business, and $39 a month for GitHub Enterprise clients.
 >
 > **[0:31](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/prerequisites-for-using-github-extensions?u=76281980&t=31)** There are discounts for annual subscriptions and there are free options for verified students, teachers, and open source maintainers.
 >
-> **[0:38](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/prerequisites-for-using-github-extensions?u=76281980&t=38)** You can start a GitHub Copilot subscription with a free trial as well.
+> **[0:38](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/prerequisites-for-using-github-extensions?u=76281980&t=38)** You can start a [[GitHub Copilot]] subscription with a free trial as well.
 >
 > **[0:42](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/prerequisites-for-using-github-extensions?u=76281980&t=42)** Now this goes on top of your [github.com](https://github.com) subscription, which is free for individuals and organizations.
 >
 > **[0:49](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/prerequisites-for-using-github-extensions?u=76281980&t=49)** The Team subscription is at $4 per user per month, while the Team version is $4 per user per month, and the Enterprise version at $21 per user per month.
 >
-> **[0:59](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/prerequisites-for-using-github-extensions?u=76281980&t=59)** Copilot and Copilot Extensions are part of the features that GitHub offers as add-ons, which includes Copilot codespaces, large file storage, and advanced security.
+> **[0:59](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/prerequisites-for-using-github-extensions?u=76281980&t=59)** Copilot and Copilot Extensions are part of the features that GitHub offers as add-ons, which includes Copilot [[Codespaces]], large file storage, and advanced security.
 >
 > **[1:09](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/prerequisites-for-using-github-extensions?u=76281980&t=69)** The Enterprise version does offer some additional options like the ability for Copilot to understand organizational context and the option of adding models fine tuned to a company's code.
 >
-> **[1:20](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/prerequisites-for-using-github-extensions?u=76281980&t=80)** The Business and Enterprise versions also offer some extra user management and security features.
+> **[1:20](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/prerequisites-for-using-github-extensions?u=76281980&t=80)** The Business and Enterprise versions also offer some extra [[User Management]] and security features.
 >
 > **[1:27](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/prerequisites-for-using-github-extensions?u=76281980&t=87)** Once you have the proper accounts and tools, you can use Copilot in a few different ways.
 >
@@ -138,7 +136,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (13), [[GitHub]] (11), business (2), [[Security]] (2), [[GitHub Copilot]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (13), [[GitHub]] (11), [[GitHub Copilot]] (1), [[Codespaces]] (1), [[User Management]] (1)
 > **Tools:** github (12), visual studio (2), neovim (1)
 > **URLs:** [github.com](https://github.com) (1)
 > **UI Navigation:** scroll down (1)
@@ -146,14 +144,13 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - extensions (1)
 
-#### Installing extensions from the GitHub Marketplace
-> [LinkedIn Learning](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/installing-extensions-from-the-github-marketplace?u=76281980)
+#### [Installing extensions from the GitHub Marketplace](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/installing-extensions-from-the-github-marketplace?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/installing-extensions-from-the-github-marketplace?u=76281980&t=0)** - Before we get into how extensions work, we need to make sure they're installed in our editors properly.
 >
-> **[0:05](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/installing-extensions-from-the-github-marketplace?u=76281980&t=5)** We'll take a look at the Visual Studio Code Editor, as well as Codespaces, which is a clone of Visual Studio Code in the cloud.
+> **[0:05](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/installing-extensions-from-the-github-marketplace?u=76281980&t=5)** We'll take a look at the Visual Studio Code Editor, as well as [[Codespaces]], which is a clone of Visual Studio Code in the cloud.
 >
 > **[0:13](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/installing-extensions-from-the-github-marketplace?u=76281980&t=13)** You can start a Codespace in any project.
 >
@@ -163,9 +160,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/installing-extensions-from-the-github-marketplace?u=76281980&t=25)** This is going to take a while to load, but once the Codespace is booted up, you'll want to make sure that you turn on the proper extensions.
 >
-> **[0:32](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/installing-extensions-from-the-github-marketplace?u=76281980&t=32)** You can go to the Extensions icon on the activity bar, and then we can do a search for Copilot.
+> **[0:32](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/installing-extensions-from-the-github-marketplace?u=76281980&t=32)** You can go to the Extensions icon on the activity bar, and then we can do a search for [[Microsoft Copilot|Copilot]].
 >
-> **[0:38](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/installing-extensions-from-the-github-marketplace?u=76281980&t=38)** You'll see a couple of different extensions that show up, including GitHub Copilot, as well as GitHub Copilot Chat.
+> **[0:38](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/installing-extensions-from-the-github-marketplace?u=76281980&t=38)** You'll see a couple of different extensions that show up, including [[GitHub Copilot]], as well as GitHub Copilot Chat.
 >
 > **[0:46](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/installing-extensions-from-the-github-marketplace?u=76281980&t=46)** If you hit install on the first one, it'll actually install both of them.
 >
@@ -173,7 +170,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/installing-extensions-from-the-github-marketplace?u=76281980&t=56)** Now you can start asking some questions.
 >
-> **[0:58](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/installing-extensions-from-the-github-marketplace?u=76281980&t=58)** I want to ask a question about this project, so I'm going to click right here, and you'll see that this is a simple HTML, CSS, and JavaScript project.
+> **[0:58](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/installing-extensions-from-the-github-marketplace?u=76281980&t=58)** I want to ask a question about this project, so I'm going to click right here, and you'll see that this is a simple [[HTML]], CSS, and [[JavaScript]] project.
 >
 > **[1:07](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/installing-extensions-from-the-github-marketplace?u=76281980&t=67)** I'm going to select some code from the JavaScript file and then I'll open Copilot Chat and I'll ask what this code does.
 >
@@ -193,7 +190,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/installing-extensions-from-the-github-marketplace?u=76281980&t=139)** You can type a slash to look at the additional commands that are available, and you can see the workspace command is right here.
 >
-> **[2:27](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/installing-extensions-from-the-github-marketplace?u=76281980&t=147)** You can also hit the at sign and see some of the additional built-in extensions that GitHub offers.
+> **[2:27](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/installing-extensions-from-the-github-marketplace?u=76281980&t=147)** You can also hit the at sign and see some of the additional built-in extensions that [[GitHub]] offers.
 >
 > **[2:33](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/installing-extensions-from-the-github-marketplace?u=76281980&t=153)** Let's take a look at how this would work in a normal Visual Studio Code application.
 >
@@ -213,7 +210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[Codespaces]] (5), [[GitHub Copilot]] (3), hit (3), cloud (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[Codespaces]] (5), [[GitHub Copilot]] (3), [[JavaScript]] (2), [[HTML]] (1)
 > **Tools:** visual studio (5), github (4)
 > **Prerequisites:** install (6), setup (1)
 > **Env Vars:** ide (2), html (1), css (1), api (1)
@@ -222,20 +219,19 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Documentation:** the readme (1)
 
-#### Using GitHub Extensions in code editors
-> [LinkedIn Learning](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-extensions-in-code-editors?u=76281980)
+#### [Using GitHub Extensions in code editors](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-extensions-in-code-editors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-extensions-in-code-editors?u=76281980&t=0)** - The best place to expand what GitHub can do is the GitHub Marketplace.
+> **[0:00](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-extensions-in-code-editors?u=76281980&t=0)** - The best place to expand what [[GitHub]] can do is the GitHub Marketplace.
 >
 > **[0:04](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-extensions-in-code-editors?u=76281980&t=4)** It lets you amplify what's possible when you interact with the platform.
 >
 > **[0:09](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-extensions-in-code-editors?u=76281980&t=9)** So for example, you can use different models to query popular LLMs.
 >
-> **[0:13](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-extensions-in-code-editors?u=76281980&t=13)** You can also find GitHub Copilot Extensions here, as well as other applications that you can interact with within GitHub.
+> **[0:13](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-extensions-in-code-editors?u=76281980&t=13)** You can also find [[GitHub Copilot]] Extensions here, as well as other applications that you can interact with within GitHub.
 >
-> **[0:20](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-extensions-in-code-editors?u=76281980&t=20)** Now to get to the Copilot Extensions, there's a few of them right here at the top, but you can also click on this Copilot icon right here.
+> **[0:20](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-extensions-in-code-editors?u=76281980&t=20)** Now to get to the [[Microsoft Copilot|Copilot]] Extensions, there's a few of them right here at the top, but you can also click on this Copilot icon right here.
 >
 > **[0:29](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-extensions-in-code-editors?u=76281980&t=29)** Since Extensions are a pretty new product, the list right now is quite short, but I do expect that it's going to grow rapidly over time.
 >
@@ -263,7 +259,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-extensions-in-code-editors?u=76281980&t=111)** Now, this is going to tell you the permissions that you're going to give this application.
 >
-> **[1:56](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-extensions-in-code-editors?u=76281980&t=116)** This one includes Read access to metadata, as well as Read and write access to checks, code, code spaces, issues, pull requests, and workflows.
+> **[1:56](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-extensions-in-code-editors?u=76281980&t=116)** This one includes Read access to [[Metadata]], as well as Read and write access to checks, code, code spaces, issues, pull requests, and workflows.
 >
 > **[2:04](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-extensions-in-code-editors?u=76281980&t=124)** This also gives it Read access to Copilot Chat, which is definitely something that we need, so I'll hit Install & Authorize right here, and if you have two-factor authentication, you may need to authenticate this application as well.
 >
@@ -275,7 +271,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), [[Microsoft Copilot|Copilot]] (4), hit (3), application (3), [[GitHub Copilot]] (2)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Microsoft Copilot|Copilot]] (4), [[GitHub Copilot]] (2), [[Metadata]] (1)
 > **CLI Commands:** make (4), docker (2), find (1)
 > **Tools:** github (6)
 > **Prerequisites:** install (5), make sure you have (1)
@@ -284,14 +280,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### Using GitHub Copilot on GitHub.com
-> [LinkedIn Learning](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-copilot-on-github-com?u=76281980)
+#### [Using GitHub Copilot on GitHub.com](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-copilot-on-github-com?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-copilot-on-github-com?u=76281980&t=0)** - GitHub now allows you to use Copilot inside the regular [github.com](https://github.com) website, giving you access to full chatbot capabilities that can be used to ask questions about coding, but also about specific repos and even run Copilot extensions directly from the platform.
+> **[0:00](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-copilot-on-github-com?u=76281980&t=0)** - [[GitHub]] now allows you to use [[Microsoft Copilot|Copilot]] inside the regular [github.com](https://github.com) website, giving you access to full chatbot capabilities that can be used to ask questions about coding, but also about specific repos and even run Copilot extensions directly from the platform.
 >
-> **[0:17](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-copilot-on-github-com?u=76281980&t=17)** To use it, you can find the GitHub Copilot icon on the website right here.
+> **[0:17](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-copilot-on-github-com?u=76281980&t=17)** To use it, you can find the [[GitHub Copilot]] icon on the website right here.
 >
 > **[0:23](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-copilot-on-github-com?u=76281980&t=23)** And once you click on that, you can start asking questions.
 >
@@ -299,7 +294,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-copilot-on-github-com?u=76281980&t=35)** You can see that you can choose a specific repository to start asking questions about, but you can still ask questions that are more generic in nature.
 >
-> **[0:44](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-copilot-on-github-com?u=76281980&t=44)** So I'm going to say, can you show me popular JavaScript frameworks?
+> **[0:44](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-copilot-on-github-com?u=76281980&t=44)** So I'm going to say, can you show me popular [[JavaScript]] frameworks?
 >
 > **[0:51](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-copilot-on-github-com?u=76281980&t=51)** And it's going to answer generic questions like that, no problem.
 >
@@ -353,7 +348,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-copilot-on-github-com?u=76281980&t=198)** Immersive mode allows you to switch to a different model.
 >
-> **[3:21](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-copilot-on-github-com?u=76281980&t=201)** By default, you'll see that I'm using GPT-4o, but I can use one of the brand-new ChatGPT models, like o1-preview or o1-mini.
+> **[3:21](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-copilot-on-github-com?u=76281980&t=201)** By default, you'll see that I'm using GPT-4o, but I can use one of the brand-new [[ChatGPT]] models, like o1-preview or o1-mini.
 >
 > **[3:31](https://www.linkedin.com/learning/supercharge-the-development-process-with-github-extensions-for-copilot-chat/using-github-copilot-on-github-com?u=76281980&t=211)** Those are considered the absolute best right now, especially when it comes to questions about coding.
 >
@@ -377,7 +372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[GitHub]] (5), chatbot (4), generic (2), [[GitHub Copilot]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[GitHub]] (5), [[GitHub Copilot]] (1), [[JavaScript]] (1), [[ChatGPT]] (1)
 > **UI Navigation:** click on (3), go to (3), switch to (2)
 > **Tools:** github (6)
 > **Env Vars:** readme (2), gpt (1)

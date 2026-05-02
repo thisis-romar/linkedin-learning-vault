@@ -56,14 +56,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### History of responsible AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980)
+#### [History of responsible AI](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=0)** Welcome to the History of Responsible AI from All Tech is Human.
+> **[0:00](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=0)** Welcome to the History of [[Responsible AI]] from All Tech is Human.
 >
-> **[0:06](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=6)** I'm your instructor, Renee Cummings, a data science professor of practice at the University of Virginia's School of Data Science.
+> **[0:06](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=6)** I'm your instructor, Renee Cummings, a [[Data Science]] professor of practice at the University of Virginia's School of Data Science.
 >
 > **[0:14](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=14)** I will be guiding you through this course where we will trace how responsible AI matured from early industry principles and seminal books to today's global standards and laws.
 >
@@ -73,15 +72,15 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=42)** It was a set of concerns and a handful of pioneers trying to turn values into workflow.
 >
-> **[0:49](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=49)** At IBM, designers and researchers first published Everyday Ethics for AI in 2014.
+> **[0:49](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=49)** At IBM, designers and researchers first published Everyday [[Ethics]] for AI in 2014.
 >
 > **[0:57](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=57)** It wasn't a manifesto, it was a how-to.
 >
-> **[1:00](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=60)** Templates, prompts, and design patterns translated virtues like accountability and fairness into day-to-day product choices.
+> **[1:00](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=60)** Templates, prompts, and [[Design Patterns]] translated virtues like [[Accountability]] and fairness into day-to-day product choices.
 >
 > **[1:10](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=70)** That tool quietly normalized something we now take for granted.
 >
-> **[1:16](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=76)** Governance and user experience belong in the same room.
+> **[1:16](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=76)** Governance and [[User Experience (UX)|user experience]] belong in the same room.
 >
 > **[1:20](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=80)** Ethical AI stopped being an essay and started being a checklist, a review, a conversation at the whiteboard.
 >
@@ -91,7 +90,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=99)** It pulled opaque scoring systems, hiring, education, policing, into the daylight and into the public lexicon.
 >
-> **[1:48](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=108)** Suddenly, algorithms were not just code, they were policy.
+> **[1:48](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=108)** Suddenly, [[Algorithms]] were not just code, they were policy.
 >
 > **[1:53](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=113)** In 2017, the World Economic Forum's Center for the Fourth Industrial Revolution introduced a new posture, multistakeholder rulemaking.
 >
@@ -101,9 +100,9 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=141)** Inside companies, governance took form.
 >
-> **[2:25](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=145)** Microsoft's ETA Committee made cross-functional review, policy and engineering in the same meeting the norm.
+> **[2:25](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=145)** [[Microsoft]]'s ETA Committee made cross-functional review, policy and engineering in the same meeting the norm.
 >
-> **[2:33](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=153)** A short while later, after intense internal debate, Google's AI principles set out public commitments, benefit society, avoid unfair bias, be safe, be accountable.
+> **[2:33](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=153)** A short while later, after intense internal debate, [[Google]]'s AI principles set out public commitments, benefit society, avoid unfair bias, be safe, be accountable.
 >
 > **[2:48](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=168)** The language has evolved over time, but the effect was immediate.
 >
@@ -111,7 +110,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=179)** Principles became a market signal.
 >
-> **[3:02](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=182)** Salesforce, Office of Ethical and Humane Use brought governance close to the C-suite and close to customers, focusing on how tools would actually be used downstream.
+> **[3:02](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=182)** Salesforce, [[Microsoft Office|Office]] of Ethical and Humane Use brought governance close to the C-suite and close to customers, focusing on how tools would actually be used downstream.
 >
 > **[3:15](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=195)** It was one of the first explicit models for customer-facing guardrails, and the field got a home.
 >
@@ -141,7 +140,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=291)** The next phase turned principles into infrastructure.
 >
-> **[4:56](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=296)** IEEE's Ethically Aligned Design, released in 2019 from an initiative spearheaded by John C.
+> **[4:56](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=296)** IEEE's Ethically Aligned Design, released in 2019 from an initiative spearheaded by [[John the Ripper|John]] C.
 >
 > **[5:04](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=304)** Havens, seeded engineering standards linking ethics to concrete requirements and workflows.
 >
@@ -169,7 +168,7 @@ created: 2026-05-02
 >
 > **[6:36](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=396)** Timnit Djibrou in late 2020 became a watershed moment about research integrity, power, and the governance of AI research itself.
 >
-> **[6:47](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=407)** By 2021, the paper on the dangers of stochastic parrots crystallized growing concerns about large language models, environmental cost, documentation debt, and emergent risks.
+> **[6:47](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=407)** By 2021, the paper on the dangers of stochastic parrots crystallized growing concerns about [[Large Language Models (LLM)|large language models]], environmental cost, documentation debt, and emergent risks.
 >
 > **[7:03](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=423)** Books like Dr.
 >
@@ -179,11 +178,11 @@ created: 2026-05-02
 >
 > **[7:28](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=448)** The U.S.
 >
-> **[7:29](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=449)** Office of Science Technology Policies AI Bill of Rights released in October 2022 outlined five rights, safe and effective systems, algorithmic discrimination protections, data privacy, notice and explanation, and human alternatives that agencies and companies should operationalize.
+> **[7:29](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=449)** Office of Science Technology Policies AI Bill of Rights released in October 2022 outlined five rights, safe and effective systems, algorithmic discrimination protections, [[Data Privacy]], notice and explanation, and human alternatives that agencies and companies should operationalize.
 >
-> **[7:53](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=473)** A month later, ChatGPT put generative AI in everyone's hands, and the urgency for governance spiked worldwide.
+> **[7:53](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=473)** A month later, [[ChatGPT]] put [[Generative AI]] in everyone's hands, and the urgency for governance spiked worldwide.
 >
-> **[8:03](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=483)** The NIST AI Risk Management Framework, AI RMF 1.0, from January 2023, gave the United States a common backbone, govern, map, measure, manage.
+> **[8:03](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=483)** The [[NIST]] AI [[Risk Management Framework (RMF)|Risk Management Framework]], AI RMF 1.0, from January 2023, gave the United States a common backbone, govern, map, measure, manage.
 >
 > **[8:18](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=498)** Around the same time, the Future of Life Institute released the AI PAWS letter.
 >
@@ -231,7 +230,7 @@ created: 2026-05-02
 >
 > **[11:37](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=697)** They prevent harm by forcing clarity on intended use, data metrics, and limits.
 >
-> **[11:44](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=704)** National AI institutes, the Bletchley, Seoul, and Paris summits, and international safety Policy reports show that AI governance is now continuous, and multinational journalism, documentaries, and high-profile workplace events have repeatedly opened policy windows and reset corporate risk calculus.
+> **[11:44](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=704)** National AI institutes, the Bletchley, Seoul, and Paris summits, and international safety Policy reports show that [[AI Governance]] is now continuous, and multinational journalism, documentaries, and high-profile workplace events have repeatedly opened policy [[Windows]] and reset corporate risk [[Calculus]].
 >
 > **[12:10](https://www.linkedin.com/learning/history-of-responsible-ai-from-principles-to-professionalization-by-all-tech-is-human/history-of-responsible-ai?u=76281980&t=730)** We met the people, papers, and policies that moved responsible AI from aspiration to operation, And we saw how each moment nudged the field from values to verification.
 >
@@ -247,7 +246,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (31), data (4), [[Responsible AI]] (3), [[Ethics]] (3), [[Engineering]] (3)
+> **Frameworks & Libraries:** [[Responsible AI]] (3), [[Ethics]] (3), [[Accountability]] (2), [[Algorithms]] (2), [[Microsoft Office|Office]] (2)
 > **Env Vars:** oecd (2), ibm (1), eta (1), aies (1), acm (1)
 > **Versions:** 1.0 (1)
 > **Tools:** notion (1)

@@ -115,56 +115,53 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/the-power-of-power-bi?u=76281980)
+#### [The power of Power BI](https://www.linkedin.com/learning/power-bi-integrating-ai/the-power-of-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/the-power-of-power-bi?u=76281980&t=0)** - So, you've heard of AI, but it seems pretty complicated.
 >
-> **[0:04](https://www.linkedin.com/learning/power-bi-integrating-ai/the-power-of-power-bi?u=76281980&t=4)** But good news, Power BI has made this accessible to everyone by integrating it into their software.
+> **[0:04](https://www.linkedin.com/learning/power-bi-integrating-ai/the-power-of-power-bi?u=76281980&t=4)** But good news, [[Microsoft Power BI|Power BI]] has made this accessible to everyone by integrating it into their software.
 >
 > **[0:11](https://www.linkedin.com/learning/power-bi-integrating-ai/the-power-of-power-bi?u=76281980&t=11)** They've done the heavy lifting by building the models and code, so that you can take what you already know and apply it in a way that generates insights and value immediately.
 >
-> **[0:22](https://www.linkedin.com/learning/power-bi-integrating-ai/the-power-of-power-bi?u=76281980&t=22)** We'll take the power of Power BI and apply it to topics like natural language processing, anomaly detection, forecasting, and many more.
+> **[0:22](https://www.linkedin.com/learning/power-bi-integrating-ai/the-power-of-power-bi?u=76281980&t=22)** We'll take the power of Power BI and apply it to topics like [[Natural Language Processing (NLP)|natural language processing]], anomaly detection, [[Forecasting]], and many more.
 >
 > **[0:33](https://www.linkedin.com/learning/power-bi-integrating-ai/the-power-of-power-bi?u=76281980&t=33)** We'll walk through a project together that helps us see data in new ways and learn how to report this back to our stakeholders.
 >
 > **[0:41](https://www.linkedin.com/learning/power-bi-integrating-ai/the-power-of-power-bi?u=76281980&t=41)** Hi, I'm Helen Wall.
 >
-> **[0:42](https://www.linkedin.com/learning/power-bi-integrating-ai/the-power-of-power-bi?u=76281980&t=42)** I'm a data scientist that works a lot in business intelligence.
+> **[0:42](https://www.linkedin.com/learning/power-bi-integrating-ai/the-power-of-power-bi?u=76281980&t=42)** I'm a data scientist that works a lot in [[Business Intelligence (BI)|business intelligence]].
 >
-> **[0:46](https://www.linkedin.com/learning/power-bi-integrating-ai/the-power-of-power-bi?u=76281980&t=46)** Join me in this LinkedIn learning course as we take AI and apply it to real world data in Power BI.
+> **[0:46](https://www.linkedin.com/learning/power-bi-integrating-ai/the-power-of-power-bi?u=76281980&t=46)** Join me in this [[LinkedIn]] learning course as we take AI and apply it to real world data in Power BI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), bi (3), data (3), ai (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Forecasting]] (1), [[Business Intelligence (BI)|Business intelligence]] (1), [[LinkedIn]] (1)
 > **Speakers:** - so (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/power-bi-integrating-ai/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/what-you-should-know?u=76281980&t=0)** - [Instructor] For this course, you'll want to be familiar with Power BI and using Power Query to get data into Power BI.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/what-you-should-know?u=76281980&t=0)** - [Instructor] For this course, you'll want to be familiar with [[Microsoft Power BI|Power BI]] and using [[Microsoft Power Query|Power Query]] to get data into Power BI.
 >
-> **[0:07](https://www.linkedin.com/learning/power-bi-integrating-ai/what-you-should-know?u=76281980&t=7)** You'll also want to be familiar with how to work with tabular data and comfortable with statistics, as well as building calculations and modeling.
+> **[0:07](https://www.linkedin.com/learning/power-bi-integrating-ai/what-you-should-know?u=76281980&t=7)** You'll also want to be familiar with how to work with tabular data and comfortable with [[Statistics]], as well as building calculations and modeling.
 >
 > **[0:16](https://www.linkedin.com/learning/power-bi-integrating-ai/what-you-should-know?u=76281980&t=16)** If you need a primer or a refresher on working with data or Power BI, I recommend checking out data analytics and Power BI courses in the library for beginners.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), bi (4), data (4), [[Microsoft Power Query|Power query]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[Microsoft Power Query|Power query]] (1), [[Statistics]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### GitHub data sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/configuring-r-in-power-bi-desktop?u=76281980)
+#### [GitHub data sources](https://www.linkedin.com/learning/power-bi-integrating-ai/configuring-r-in-power-bi-desktop?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/configuring-r-in-power-bi-desktop?u=76281980&t=0)** - [Instructor] For this course, we're going to be working on a real world business problem with weather and electricity data to support the fictitious LinkedIn company KinetEco Inc.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/configuring-r-in-power-bi-desktop?u=76281980&t=0)** - [Instructor] For this course, we're going to be working on a real world business problem with weather and electricity data to support the fictitious [[LinkedIn]] company KinetEco Inc.
 >
-> **[0:10](https://www.linkedin.com/learning/power-bi-integrating-ai/configuring-r-in-power-bi-desktop?u=76281980&t=10)** We'll tap into the images and other graphics from this website to run algorithms and build reports in our Power BI Model.
+> **[0:10](https://www.linkedin.com/learning/power-bi-integrating-ai/configuring-r-in-power-bi-desktop?u=76281980&t=10)** We'll tap into the images and other graphics from this website to run [[Algorithms]] and build reports in our [[Microsoft Power BI|Power BI]] Model.
 >
 > **[0:18](https://www.linkedin.com/learning/power-bi-integrating-ai/configuring-r-in-power-bi-desktop?u=76281980&t=18)** We'll be getting data for our project from several different public data sources.
 >
@@ -172,7 +169,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/power-bi-integrating-ai/configuring-r-in-power-bi-desktop?u=76281980&t=30)** For the hourly electricity data, we'll source that from the EIA, which is a treasure trove for energy information and data.
 >
-> **[0:38](https://www.linkedin.com/learning/power-bi-integrating-ai/configuring-r-in-power-bi-desktop?u=76281980&t=38)** To make our work within this course more streamlined, I'm storing the exercise files like the CSV data sources on GitHub.
+> **[0:38](https://www.linkedin.com/learning/power-bi-integrating-ai/configuring-r-in-power-bi-desktop?u=76281980&t=38)** To make our work within this course more streamlined, I'm storing the exercise files like the CSV data sources on [[GitHub]].
 >
 > **[0:46](https://www.linkedin.com/learning/power-bi-integrating-ai/configuring-r-in-power-bi-desktop?u=76281980&t=46)** This also helps us better manage our data, especially since it's publicly available.
 >
@@ -180,7 +177,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[GitHub]] (3), business (1), [[LinkedIn]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[LinkedIn]] (1), [[Algorithms]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** noaa (1), eia (1), csv (1)
 > **Tools:** github (3)
 > **CLI Commands:** make (1)
@@ -193,12 +190,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overviewing AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980)
+#### [Overviewing AI](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980&t=1)** - We hear a lot in today's world about AI, but what does this mean in tools like Power BI?
+> **[0:01](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980&t=1)** - We hear a lot in today's world about AI, but what does this mean in tools like [[Microsoft Power BI|Power BI]]?
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980&t=7)** It's important to think of AI as a part of the bigger picture because it serves as a potential assistant to help us solve business problems and not a replacement for the capabilities of the people involved.
 >
@@ -208,7 +204,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980&t=32)** Diagnostic analytics tells us why something occurs and some of the root causes behind it.
 >
-> **[0:39](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980&t=39)** Predictive analytics is where some of the capabilities of AI start to come into play because it's where we start to make predictions about our data in the absence of known outcome labels.
+> **[0:39](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980&t=39)** [[Predictive Analytics]] is where some of the capabilities of AI start to come into play because it's where we start to make predictions about our data in the absence of known outcome labels.
 >
 > **[0:51](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980&t=51)** Prescriptive analytics is where we use analytics to make decisions, like asking what-if questions by putting everything together on a process map workflow.
 >
@@ -218,7 +214,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980&t=86)** To create AI models, we start with known data points.
 >
-> **[1:29](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980&t=89)** We then use statistics to find patterns in the data.
+> **[1:29](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980&t=89)** We then use [[Statistics]] to find patterns in the data.
 >
 > **[1:34](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980&t=94)** We can then take these patterns to make predictions for outcome labels on new or future data that we don't know the outcomes for.
 >
@@ -234,13 +230,13 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980&t=152)** AI models like fuzzy matching and image recognition are pre-trained package models that we can tap into.
 >
-> **[2:39](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980&t=159)** This leads us to generative AI, which is a subset of AI that uses generative models to produce text, images, and videos from interactions and prompts that we pass into it.
+> **[2:39](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980&t=159)** This leads us to [[Generative AI]], which is a subset of AI that uses generative models to produce text, images, and videos from interactions and prompts that we pass into it.
 >
-> **[2:51](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980&t=171)** Machine learning models like anomaly detection and decision trees are a type of AI model designed to automatically improve through experience.
+> **[2:51](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980&t=171)** Machine learning models like anomaly detection and [[Decision Trees]] are a type of AI model designed to automatically improve through experience.
 >
-> **[3:00](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980&t=180)** Which means as you add new data to the model, its algorithms predictions will update.
+> **[3:00](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980&t=180)** Which means as you add new data to the model, its [[Algorithms]] predictions will update.
 >
-> **[3:06](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980&t=186)** Examples of these models include anomaly detection, clustering, and linear regression models.
+> **[3:06](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980&t=186)** Examples of these models include anomaly detection, clustering, and [[Linear Regression]] models.
 >
 > **[3:13](https://www.linkedin.com/learning/power-bi-integrating-ai/overviewing-ai?u=76281980&t=193)** It's important to remember that any AI model makes predictions for its labels or outcomes.
 >
@@ -250,18 +246,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), data (7), [[Analytics]] (5), power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1), [[Predictive Analytics]] (1), [[Statistics]] (1), [[Generative AI]] (1), [[Decision Trees]] (1)
 > **CLI Commands:** make (6), find (2)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1)
 > **Speakers:** - we (1)
 
-#### Utilizing Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-power-bi?u=76281980)
+#### [Utilizing Power BI](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-power-bi?u=76281980&t=0)** - The general public often associates Power BI with the interactive data visualizations that display on the front end of the model.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-power-bi?u=76281980&t=0)** - The general public often associates [[Microsoft Power BI|Power BI]] with the interactive data visualizations that display on the front end of the model.
 >
 > **[0:08](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-power-bi?u=76281980&t=8)** But in reality, this is just the report layer that pulls from the underlying data in the Semantic model.
 >
@@ -271,13 +266,13 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-power-bi?u=76281980&t=37)** The Semantic model lets us connect queries to data sources, and transform them before loading them into the model and connecting them to other tables in the model view.
 >
-> **[0:48](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-power-bi?u=76281980&t=48)** It also lets us build out DAX models as tables and columns, and even more importantly, measures for key calculations within Power BI.
+> **[0:48](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-power-bi?u=76281980&t=48)** It also lets us build out [[DAX]] models as tables and columns, and even more importantly, measures for key calculations within Power BI.
 >
-> **[0:57](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-power-bi?u=76281980&t=57)** On the surface, we have the visuals that include formatting and running models on top of them, like anomaly detection and forecasting.
+> **[0:57](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-power-bi?u=76281980&t=57)** On the surface, we have the visuals that include formatting and running models on top of them, like anomaly detection and [[Forecasting]].
 >
-> **[1:06](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-power-bi?u=76281980&t=66)** Copilot is a built-in AI assistant within Power BI, specifically for Power BI.
+> **[1:06](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-power-bi?u=76281980&t=66)** [[Microsoft Copilot|Copilot]] is a built-in AI assistant within Power BI, specifically for Power BI.
 >
-> **[1:13](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-power-bi?u=76281980&t=73)** It enables us to use Generative AI within the tool to do things like creating suggestive report pages, building DAX formulas, and creating model summaries.
+> **[1:13](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-power-bi?u=76281980&t=73)** It enables us to use [[Generative AI]] within the tool to do things like creating suggestive report pages, building DAX formulas, and creating model summaries.
 >
 > **[1:25](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-power-bi?u=76281980&t=85)** But co-pilot isn't the focus of this course, and if you're interested in learning more about it, I recommend checking out other courses in the library.
 >
@@ -291,7 +286,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-power-bi?u=76281980&t=113)** This includes functionalities like fuzzy matching, finding clusters, detecting anomalies, and forecasting predictions.
 >
-> **[2:01](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-power-bi?u=76281980&t=121)** Finally, there are calculations and algorithms that we build out ourselves as effective parts of the entire Power BI model ecosystem.
+> **[2:01](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-power-bi?u=76281980&t=121)** Finally, there are calculations and [[Algorithms]] that we build out ourselves as effective parts of the entire Power BI model ecosystem.
 >
 > **[2:09](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-power-bi?u=76281980&t=129)** This includes calculating regression models, detecting outliers, and time series decomposition for example.
 >
@@ -311,18 +306,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (11), bi (11), data (4), ai (4), [[DAX]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (11), [[DAX]] (2), [[Forecasting]] (2), [[Microsoft Copilot|Copilot]] (1), [[Generative AI]] (1)
 > **Env Vars:** dax (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### Analyzing dataset statistics and distributions
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/analyzing-dataset-statistics-and-distributions?u=76281980)
+#### [Analyzing dataset statistics and distributions](https://www.linkedin.com/learning/power-bi-integrating-ai/analyzing-dataset-statistics-and-distributions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/analyzing-dataset-statistics-and-distributions?u=76281980&t=0)** - [Narrator] In Power BI, we can easily create useful data sets by using the extract, transform, and load, or ETL framework.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/analyzing-dataset-statistics-and-distributions?u=76281980&t=0)** - [Narrator] In [[Microsoft Power BI|Power BI]], we can easily create useful data sets by using the extract, transform, and load, or ETL framework.
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-integrating-ai/analyzing-dataset-statistics-and-distributions?u=76281980&t=7)** The extract step involves setting up the initial connections to the data sources.
 >
@@ -334,9 +328,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/power-bi-integrating-ai/analyzing-dataset-statistics-and-distributions?u=76281980&t=26)** If you'd like to learn more about the ETL framework, check out the [[Power BI Data Methods]] course in the library.
 >
-> **[0:32](https://www.linkedin.com/learning/power-bi-integrating-ai/analyzing-dataset-statistics-and-distributions?u=76281980&t=32)** The ETL framework is a must known when working with business intelligence applications like Power BI because it enables us to create scalable and replicable data sets that are easy to refresh.
+> **[0:32](https://www.linkedin.com/learning/power-bi-integrating-ai/analyzing-dataset-statistics-and-distributions?u=76281980&t=32)** The ETL framework is a must known when working with [[Business Intelligence (BI)|business intelligence]] applications like Power BI because it enables us to create scalable and replicable data sets that are easy to refresh.
 >
-> **[0:45](https://www.linkedin.com/learning/power-bi-integrating-ai/analyzing-dataset-statistics-and-distributions?u=76281980&t=45)** Let's explore how we can frame our AI thinking and approach within Power BI by creating a data connection to the generation data found on GitHub.
+> **[0:45](https://www.linkedin.com/learning/power-bi-integrating-ai/analyzing-dataset-statistics-and-distributions?u=76281980&t=45)** Let's explore how we can frame our AI thinking and approach within Power BI by creating a data connection to the generation data found on [[GitHub]].
 >
 > **[0:54](https://www.linkedin.com/learning/power-bi-integrating-ai/analyzing-dataset-statistics-and-distributions?u=76281980&t=54)** We'll copy the URL from the top.
 >
@@ -348,7 +342,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/power-bi-integrating-ai/analyzing-dataset-statistics-and-distributions?u=76281980&t=76)** This gives us a preview of what the data looks like, so let's choose to transform our data from here.
 >
-> **[1:23](https://www.linkedin.com/learning/power-bi-integrating-ai/analyzing-dataset-statistics-and-distributions?u=76281980&t=83)** We see that Power Query makes some predictions about the next steps in the transformation process.
+> **[1:23](https://www.linkedin.com/learning/power-bi-integrating-ai/analyzing-dataset-statistics-and-distributions?u=76281980&t=83)** We see that [[Microsoft Power Query|Power Query]] makes some predictions about the next steps in the transformation process.
 >
 > **[1:29](https://www.linkedin.com/learning/power-bi-integrating-ai/analyzing-dataset-statistics-and-distributions?u=76281980&t=89)** We see the applied steps on the right that it automatically adds to the query for promoting the first row's headers and changing the data type.
 >
@@ -356,7 +350,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/power-bi-integrating-ai/analyzing-dataset-statistics-and-distributions?u=76281980&t=108)** For example, it looks the first 1000 rows of data to predict what the data type will be for each entire column of our data table.
 >
-> **[1:57](https://www.linkedin.com/learning/power-bi-integrating-ai/analyzing-dataset-statistics-and-distributions?u=76281980&t=117)** Now, let's explore statistics within our query to better understand how it works.
+> **[1:57](https://www.linkedin.com/learning/power-bi-integrating-ai/analyzing-dataset-statistics-and-distributions?u=76281980&t=117)** Now, let's explore [[Statistics]] within our query to better understand how it works.
 >
 > **[2:03](https://www.linkedin.com/learning/power-bi-integrating-ai/analyzing-dataset-statistics-and-distributions?u=76281980&t=123)** In the view tablets, turn on the options for the data preview.
 >
@@ -402,7 +396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), power (9), bi (9), [[GitHub]] (5), etl (4)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (9), [[GitHub]] (5), [[Microsoft Power Query|Power query]] (2), [[Business Intelligence (BI)|Business intelligence]] (1), [[Statistics]] (1)
 > **Env Vars:** etl (4), url (2)
 > **Tools:** github (5)
 > **CLI Commands:** make (4)
@@ -410,14 +404,13 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - [narrator] (1)
 
-#### Adding a column using fuzzy matching
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/adding-a-column-using-fuzzy-matching?u=76281980)
+#### [Adding a column using fuzzy matching](https://www.linkedin.com/learning/power-bi-integrating-ai/adding-a-column-using-fuzzy-matching?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/adding-a-column-using-fuzzy-matching?u=76281980&t=0)** - [Narrator] Fuzzy matching is one of my favorite functionalities in Power BI because it's a great way to fix spelling issues.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/adding-a-column-using-fuzzy-matching?u=76281980&t=0)** - [Narrator] Fuzzy matching is one of my favorite functionalities in [[Microsoft Power BI|Power BI]] because it's a great way to fix spelling issues.
 >
-> **[0:06](https://www.linkedin.com/learning/power-bi-integrating-ai/adding-a-column-using-fuzzy-matching?u=76281980&t=6)** It uses NLP, natural language processing, to break words or text phrases down into smaller chunks.
+> **[0:06](https://www.linkedin.com/learning/power-bi-integrating-ai/adding-a-column-using-fuzzy-matching?u=76281980&t=6)** It uses NLP, [[Natural Language Processing (NLP)|natural language processing]], to break words or text phrases down into smaller chunks.
 >
 > **[0:15](https://www.linkedin.com/learning/power-bi-integrating-ai/adding-a-column-using-fuzzy-matching?u=76281980&t=15)** It then uses these pieces of text in a clustering algorithm to determine groups that are mathematically similar.
 >
@@ -431,7 +424,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/power-bi-integrating-ai/adding-a-column-using-fuzzy-matching?u=76281980&t=50)** While it runs the algorithm automatically behind the scenes for us as a pre-trained AI model, we can adjust some of its inputs, like the similarity threshold, capitalization, and grouping by combining text parts.
 >
-> **[1:03](https://www.linkedin.com/learning/power-bi-integrating-ai/adding-a-column-using-fuzzy-matching?u=76281980&t=63)** Let's explore fuzzy matching using data from summarized energy data table in GitHub.
+> **[1:03](https://www.linkedin.com/learning/power-bi-integrating-ai/adding-a-column-using-fuzzy-matching?u=76281980&t=63)** Let's explore fuzzy matching using data from summarized energy data table in [[GitHub]].
 >
 > **[1:10](https://www.linkedin.com/learning/power-bi-integrating-ai/adding-a-column-using-fuzzy-matching?u=76281980&t=70)** To make our process smoother, I'm going to copy it directly from our GitHub summary page.
 >
@@ -491,19 +484,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), power (4), bi (3), ai (3), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[GitHub]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **CLI Commands:** make (4)
 > **Versions:** 0.8 (1), 0.7 (1)
 > **Tools:** github (2)
 > **Env Vars:** nlp (1)
 > **Speakers:** - [narrator] (1)
 
-#### Grouping data with fuzzy matching
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/grouping-data-with-fuzzy-matching?u=76281980)
+#### [Grouping data with fuzzy matching](https://www.linkedin.com/learning/power-bi-integrating-ai/grouping-data-with-fuzzy-matching?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/grouping-data-with-fuzzy-matching?u=76281980&t=0)** - [Narrator] Fuzzy matching lets us apply clustering with natural language processing to determine mathematically similar text labels.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/grouping-data-with-fuzzy-matching?u=76281980&t=0)** - [Narrator] Fuzzy matching lets us apply clustering with [[Natural Language Processing (NLP)|natural language processing]] to determine mathematically similar text labels.
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-integrating-ai/grouping-data-with-fuzzy-matching?u=76281980&t=7)** Grouping lets us aggregate data values to summarize them by their group dimension labels.
 >
@@ -539,7 +531,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Natural Language Processing (NLP)|Natural language processing]] (1), etl (1), next (1), power (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Versions:** 0.8 (1), 0.7 (1)
 > **UI Navigation:** select the (1), checkbox (1)
 > **Env Vars:** etl (1)
@@ -547,12 +539,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
-#### Merging tables using fuzzy matching
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/merging-tables-using-fuzzy-matching?u=76281980)
+#### [Merging tables using fuzzy matching](https://www.linkedin.com/learning/power-bi-integrating-ai/merging-tables-using-fuzzy-matching?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/merging-tables-using-fuzzy-matching?u=76281980&t=0)** - [Instructor] When we merge two tables together in Power Query within Power BI, we have the option of choosing from one of six possible join types, like Left outer, Right outer, Full outer, Inner, Left anti, and Right anti joins.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/merging-tables-using-fuzzy-matching?u=76281980&t=0)** - [Instructor] When we merge two tables together in [[Microsoft Power Query|Power Query]] within [[Microsoft Power BI|Power BI]], we have the option of choosing from one of six possible join types, like Left outer, Right outer, Full outer, Inner, Left anti, and Right anti joins.
 >
 > **[0:17](https://www.linkedin.com/learning/power-bi-integrating-ai/merging-tables-using-fuzzy-matching?u=76281980&t=17)** Join types aside, which could be a standalone course by itself, we can use fuzzy matching in our joins within Power Query to merge tables amongst a key column, even if the values within the field don't match exactly.
 >
@@ -616,7 +607,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), bi (3), [[Microsoft Power Query|Power query]] (2), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Microsoft Power Query|Power query]] (2)
 > **UI Navigation:** select the (2), open the (1), click on (1)
 > **CLI Commands:** make (2)
 > **Versions:** 0.8 (1), 0.7 (1)
@@ -625,14 +616,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Detecting languages
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/detecting-languages?u=76281980)
+#### [Detecting languages](https://www.linkedin.com/learning/power-bi-integrating-ai/detecting-languages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/detecting-languages?u=76281980&t=0)** - [Instructor] Text analytics models within Power BI are AI algorithms that derive meaning to return specific pieces of language from text data.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/detecting-languages?u=76281980&t=0)** - [Instructor] Text analytics models within [[Microsoft Power BI|Power BI]] are AI [[Algorithms]] that derive meaning to return specific pieces of language from text data.
 >
-> **[0:10](https://www.linkedin.com/learning/power-bi-integrating-ai/detecting-languages?u=76281980&t=10)** These models use a combination of techniques during text analysis, including text processing, part-of-speech analysis, word placement, and word associations.
+> **[0:10](https://www.linkedin.com/learning/power-bi-integrating-ai/detecting-languages?u=76281980&t=10)** These models use a combination of techniques during text analysis, including text processing, part-of-speech analysis, [[Microsoft Word|word]] placement, and word associations.
 >
 > **[0:23](https://www.linkedin.com/learning/power-bi-integrating-ai/detecting-languages?u=76281980&t=23)** Text analytics models are pre-trained AI models that we can connect to directly within Power BI.
 >
@@ -642,7 +632,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/power-bi-integrating-ai/detecting-languages?u=76281980&t=50)** It's important to note that running these algorithms can require premium capacities of Power BI or Fabric, so you want to check your account details as you're trying out these models on your own to make sure that you do have access.
 >
-> **[1:04](https://www.linkedin.com/learning/power-bi-integrating-ai/detecting-languages?u=76281980&t=64)** Let's run the language detection model on these greetings in multiple languages that we already have in our Power BI Data model through Power Query.
+> **[1:04](https://www.linkedin.com/learning/power-bi-integrating-ai/detecting-languages?u=76281980&t=64)** Let's run the language detection model on these greetings in multiple languages that we already have in our Power BI Data model through [[Microsoft Power Query|Power Query]].
 >
 > **[1:13](https://www.linkedin.com/learning/power-bi-integrating-ai/detecting-languages?u=76281980&t=73)** I denoted what language each greeting comes from in the second column of the table, which we'll use as a reference to check the model results against once we run it.
 >
@@ -704,7 +694,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (11), bi (11), [[Analytics]] (7), ai (7), data (5)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (11), [[Algorithms]] (3), [[Microsoft Word|Word]] (2), [[Microsoft Power Query|Power query]] (2)
 > **Env Vars:** iso (4)
 > **UI Navigation:** select the (2), dropdown (1)
 > **CLI Commands:** make (2)
@@ -713,12 +703,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** you need to have (1)
 
-#### Extracting key text phrases
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/extracting-key-text-phrases?u=76281980)
+#### [Extracting key text phrases](https://www.linkedin.com/learning/power-bi-integrating-ai/extracting-key-text-phrases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/extracting-key-text-phrases?u=76281980&t=0)** - [Instructor] One of the AI algorithms available via the text analytics functions in Power BI is the key phrase detection model.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/extracting-key-text-phrases?u=76281980&t=0)** - [Instructor] One of the AI [[Algorithms]] available via the text analytics functions in [[Microsoft Power BI|Power BI]] is the key phrase detection model.
 >
 > **[0:09](https://www.linkedin.com/learning/power-bi-integrating-ai/extracting-key-text-phrases?u=76281980&t=9)** This model takes the text input of any length and extracts the key phrases from it.
 >
@@ -760,7 +749,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Analytics]] (3), power (3), bi (3), ai (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Algorithms]] (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** iso (2)
 > **UI Navigation:** select the (2)
@@ -768,8 +757,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scoring language sentiment
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/scoring-language-sentiment?u=76281980)
+#### [Scoring language sentiment](https://www.linkedin.com/learning/power-bi-integrating-ai/scoring-language-sentiment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -777,11 +765,11 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/power-bi-integrating-ai/scoring-language-sentiment?u=76281980&t=10)** Language itself is imbued with meaning, whether we realize it or not.
 >
-> **[0:15](https://www.linkedin.com/learning/power-bi-integrating-ai/scoring-language-sentiment?u=76281980&t=15)** Text analytics is a pre-trained AI model using natural language processing with an extensive body of text with sentiment associations,.
+> **[0:15](https://www.linkedin.com/learning/power-bi-integrating-ai/scoring-language-sentiment?u=76281980&t=15)** Text analytics is a pre-trained AI model using [[Natural Language Processing (NLP)|natural language processing]] with an extensive body of text with sentiment associations,.
 >
 > **[0:24](https://www.linkedin.com/learning/power-bi-integrating-ai/scoring-language-sentiment?u=76281980&t=24)** Let's say that we want to quantify our language by scoring its positive or negative tone.
 >
-> **[0:30](https://www.linkedin.com/learning/power-bi-integrating-ai/scoring-language-sentiment?u=76281980&t=30)** One way that we can do this is through the score sentiment AI model in the text analytics algorithms that we can run within Power BI.
+> **[0:30](https://www.linkedin.com/learning/power-bi-integrating-ai/scoring-language-sentiment?u=76281980&t=30)** One way that we can do this is through the score sentiment AI model in the text analytics [[Algorithms]] that we can run within [[Microsoft Power BI|Power BI]].
 >
 > **[0:39](https://www.linkedin.com/learning/power-bi-integrating-ai/scoring-language-sentiment?u=76281980&t=39)** The score sentiment algorithm detects the overall positive or negative rating for written text as an outcome measured between the values of zero and one.
 >
@@ -791,7 +779,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/power-bi-integrating-ai/scoring-language-sentiment?u=76281980&t=69)** You can see what the reviews look like if you click on the individual items within the review text field.
 >
-> **[1:17](https://www.linkedin.com/learning/power-bi-integrating-ai/scoring-language-sentiment?u=76281980&t=77)** To run the score sentiment algorithm in Power Query, we'll select the Review Text column in this query.
+> **[1:17](https://www.linkedin.com/learning/power-bi-integrating-ai/scoring-language-sentiment?u=76281980&t=77)** To run the score sentiment algorithm in [[Microsoft Power Query|Power Query]], we'll select the Review Text column in this query.
 >
 > **[1:24](https://www.linkedin.com/learning/power-bi-integrating-ai/scoring-language-sentiment?u=76281980&t=84)** Then choose Text Analytics from the top menu.
 >
@@ -833,7 +821,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), bi (5), [[Analytics]] (4), ai (3), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[Algorithms]] (2), [[Microsoft Power Query|Power query]] (1)
 > **UI Navigation:** select the (2), click on (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** iso (2)
@@ -842,12 +830,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Detecting items in image data
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/detecting-items-in-image-data?u=76281980)
+#### [Detecting items in image data](https://www.linkedin.com/learning/power-bi-integrating-ai/detecting-items-in-image-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/detecting-items-in-image-data?u=76281980&t=0)** - [Instructor] The vision algorithm lets us add image tags to our data by running the images through the image tagging functionality, available using AI Insights in Power BI through Power Query.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/detecting-items-in-image-data?u=76281980&t=0)** - [Instructor] The vision algorithm lets us add image tags to our data by running the images through the image tagging functionality, available using AI Insights in [[Microsoft Power BI|Power BI]] through [[Microsoft Power Query|Power Query]].
 >
 > **[0:12](https://www.linkedin.com/learning/power-bi-integrating-ai/detecting-items-in-image-data?u=76281980&t=12)** This AI model runs each image as an input.
 >
@@ -895,7 +882,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/power-bi-integrating-ai/detecting-items-in-image-data?u=76281980&t=170)** We also see, for example, that the tag windmill is associated with a windmill image that is named that way within our URL.
 >
-> **[3:01](https://www.linkedin.com/learning/power-bi-integrating-ai/detecting-items-in-image-data?u=76281980&t=181)** The Confidence column tells us with certainty that the algorithms return the appropriately labeled image tag results.
+> **[3:01](https://www.linkedin.com/learning/power-bi-integrating-ai/detecting-items-in-image-data?u=76281980&t=181)** The Confidence column tells us with certainty that the [[Algorithms]] return the appropriately labeled image tag results.
 >
 > **[3:10](https://www.linkedin.com/learning/power-bi-integrating-ai/detecting-items-in-image-data?u=76281980&t=190)** A tag close to one, for example, indicates that it's very certain that it returned the correct image tag.
 >
@@ -905,7 +892,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), power (5), bi (5), data (3), [[Microsoft Power Query|Power query]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[Microsoft Power Query|Power query]] (2), [[Algorithms]] (1)
 > **Env Vars:** url (4), iso (1)
 > **UI Navigation:** right-click (1), select the (1)
 > **Analogies:** for example (2)
@@ -919,8 +906,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choosing Power BI visuals
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/choosing-power-bi-visuals?u=76281980)
+#### [Choosing Power BI visuals](https://www.linkedin.com/learning/power-bi-integrating-ai/choosing-power-bi-visuals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -938,7 +924,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/power-bi-integrating-ai/choosing-power-bi-visuals?u=76281980&t=42)** Line charts are a great way to visualize numeric data series trends over time, and scatterplots are a great way to visualize the relationship between two numerical data series.
 >
-> **[0:54](https://www.linkedin.com/learning/power-bi-integrating-ai/choosing-power-bi-visuals?u=76281980&t=54)** Now let's explore how I use these recommended data visualizations to start my AI modeling in Power BI.
+> **[0:54](https://www.linkedin.com/learning/power-bi-integrating-ai/choosing-power-bi-visuals?u=76281980&t=54)** Now let's explore how I use these recommended data visualizations to start my AI modeling in [[Microsoft Power BI|Power BI]].
 >
 > **[1:00](https://www.linkedin.com/learning/power-bi-integrating-ai/choosing-power-bi-visuals?u=76281980&t=60)** Let's start by comparing categorical numbers with a bar chart.
 >
@@ -1010,18 +996,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), ai (3), power (2), bi (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Leveraging slicers
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-slicers?u=76281980)
+#### [Leveraging slicers](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-slicers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-slicers?u=76281980&t=0)** - [Instructor] Slicers enable the end user to control the filters within a Power BI report.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-slicers?u=76281980&t=0)** - [Instructor] Slicers enable the end user to control the filters within a [[Microsoft Power BI|Power BI]] report.
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-slicers?u=76281980&t=5)** They're a type of standard visual that we can format on our end using different configuration options to give the end user this capability.
 >
@@ -1075,22 +1060,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), power (4), bi (4), ai (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4)
 > **UI Navigation:** dropdown (2), go to (1), select the (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining dimensionality
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/defining-dimensionality?u=76281980)
+#### [Defining dimensionality](https://www.linkedin.com/learning/power-bi-integrating-ai/defining-dimensionality?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/defining-dimensionality?u=76281980&t=0)** - [Instructor] Dimensionality represents the high-level attributes within dataset fields.
 >
-> **[0:05](https://www.linkedin.com/learning/power-bi-integrating-ai/defining-dimensionality?u=76281980&t=5)** It's a key concept for working in Power BI and also in AI models.
+> **[0:05](https://www.linkedin.com/learning/power-bi-integrating-ai/defining-dimensionality?u=76281980&t=5)** It's a key concept for working in [[Microsoft Power BI|Power BI]] and also in AI models.
 >
-> **[0:10](https://www.linkedin.com/learning/power-bi-integrating-ai/defining-dimensionality?u=76281980&t=10)** In data modeling, we refer to the attribute values in fields like category, location, or dates as dimensions.
+> **[0:10](https://www.linkedin.com/learning/power-bi-integrating-ai/defining-dimensionality?u=76281980&t=10)** In [[Data Modeling]], we refer to the attribute values in fields like category, location, or dates as dimensions.
 >
 > **[0:18](https://www.linkedin.com/learning/power-bi-integrating-ai/defining-dimensionality?u=76281980&t=18)** Low dimensionality refers to data with few dimension fields.
 >
@@ -1170,18 +1154,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), power (3), bi (3), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Data Modeling]] (1)
 > **Definitions:** refers to (2), is an  (1), is a  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building DAX models
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/building-dax-models?u=76281980)
+#### [Building DAX models](https://www.linkedin.com/learning/power-bi-integrating-ai/building-dax-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/building-dax-models?u=76281980&t=0)** - [Instructor] Within our Power BI semantic model, DAX plays an important role in helping us build the calculations that we want.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/building-dax-models?u=76281980&t=0)** - [Instructor] Within our [[Microsoft Power BI|Power BI]] semantic model, [[DAX]] plays an important role in helping us build the calculations that we want.
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-integrating-ai/building-dax-models?u=76281980&t=7)** DAX, short for data analysis expressions, is a language that enables us to create formulas with functions, operators, and values for building advanced calculations within our tabular data model.
 >
@@ -1255,18 +1238,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DAX]] (7), data (6), power (2), bi (2), next (2)
+> **Frameworks & Libraries:** [[DAX]] (7), [[Microsoft Power BI|Power bi]] (2)
 > **Env Vars:** dax (7)
 > **Definitions:** is a  (2), short for (1), means that (1)
 > **Versions:** 1.8 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using CALCULATE for DAX measures
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/using-calculate-for-dax-measures?u=76281980)
+#### [Using CALCULATE for DAX measures](https://www.linkedin.com/learning/power-bi-integrating-ai/using-calculate-for-dax-measures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/using-calculate-for-dax-measures?u=76281980&t=0)** - [Instructor] On a high level, when we're creating DAX measures, we want to first think about filtering the rows in the relevant data tables, and then secondly, about the aggregation calculations that we want to apply to this filtered data.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/using-calculate-for-dax-measures?u=76281980&t=0)** - [Instructor] On a high level, when we're creating [[DAX]] measures, we want to first think about filtering the rows in the relevant data tables, and then secondly, about the aggregation calculations that we want to apply to this filtered data.
 >
 > **[0:13](https://www.linkedin.com/learning/power-bi-integrating-ai/using-calculate-for-dax-measures?u=76281980&t=13)** When we build measures with the CALCULATE function, we want to use the same order of logic, but the aggregation expression is the first input parameter, and the optional filtered data table is the second parameter.
 >
@@ -1308,23 +1290,22 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/power-bi-integrating-ai/using-calculate-for-dax-measures?u=76281980&t=182)** We're looking at the Electricity Demand Table instead of the Electricity Generation Table.
 >
-> **[3:08](https://www.linkedin.com/learning/power-bi-integrating-ai/using-calculate-for-dax-measures?u=76281980&t=188)** Because it's joined up on the Date field, we can put multiple measures within the same visual, which enables us to build out powerful AI and Power BI models by connecting these tables together.
+> **[3:08](https://www.linkedin.com/learning/power-bi-integrating-ai/using-calculate-for-dax-measures?u=76281980&t=188)** Because it's joined up on the Date field, we can put multiple measures within the same visual, which enables us to build out powerful AI and [[Microsoft Power BI|Power BI]] models by connecting these tables together.
 >
 > **[3:21](https://www.linkedin.com/learning/power-bi-integrating-ai/using-calculate-for-dax-measures?u=76281980&t=201)** We can continue building out our Power BI semantic models with more calculations, including those specific to creating AI models.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[DAX]] (4), power (4), ai (2), bi (2)
+> **Frameworks & Libraries:** [[DAX]] (4), [[Microsoft Power BI|Power bi]] (2)
 > **Env Vars:** dax (4), calculate (2), sum (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Visualizing distributions
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/visualizing-distributions?u=76281980)
+#### [Visualizing distributions](https://www.linkedin.com/learning/power-bi-integrating-ai/visualizing-distributions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/visualizing-distributions?u=76281980&t=0)** - [Instructor] To build models in AI and in Power BI, we want to understand and visualize data distributions.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/visualizing-distributions?u=76281980&t=0)** - [Instructor] To build models in AI and in [[Microsoft Power BI|Power BI]], we want to understand and visualize data distributions.
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-integrating-ai/visualizing-distributions?u=76281980&t=7)** Some helpful visuals to do this include histograms, box-and-whisker plots, and violin plots.
 >
@@ -1338,7 +1319,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/power-bi-integrating-ai/visualizing-distributions?u=76281980&t=38)** In the line chart, we see a lot of overlapping lines.
 >
-> **[0:42](https://www.linkedin.com/learning/power-bi-integrating-ai/visualizing-distributions?u=76281980&t=42)** Even if we add the zoom slider to the x-axis through the formatting options,
+> **[0:42](https://www.linkedin.com/learning/power-bi-integrating-ai/visualizing-distributions?u=76281980&t=42)** Even if we add the [[Zoom]] slider to the x-axis through the formatting options,
 >
 > **[0:55](https://www.linkedin.com/learning/power-bi-integrating-ai/visualizing-distributions?u=76281980&t=55)** when we narrow it down, it's still hard to read because we see these spaghetti lines that overlap each other even over a narrower date range.
 >
@@ -1386,7 +1367,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/power-bi-integrating-ai/visualizing-distributions?u=76281980&t=245)** Once it imports, let's then put the generation numbers in the values and the energy source in the categories where we can filter them to the same attributes we saw in earlier visuals.
 >
-> **[4:17](https://www.linkedin.com/learning/power-bi-integrating-ai/visualizing-distributions?u=76281980&t=257)** And we can see that the violin plot looks like a histogram on its side where we can compare across the categories and we can also see the key statistics for the generation numbers.
+> **[4:17](https://www.linkedin.com/learning/power-bi-integrating-ai/visualizing-distributions?u=76281980&t=257)** And we can see that the violin plot looks like a histogram on its side where we can compare across the categories and we can also see the key [[Statistics]] for the generation numbers.
 >
 > **[4:29](https://www.linkedin.com/learning/power-bi-integrating-ai/visualizing-distributions?u=76281980&t=269)** We can then format our visual as well, and I'm going to filter this to the same fields that we saw in our earlier visuals.
 >
@@ -1398,23 +1379,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (6), bi (5), data (3), [[Statistics]] (3), ai (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[Statistics]] (3), [[Zoom]] (2)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leveraging parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-parameters?u=76281980)
+#### [Leveraging parameters](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-parameters?u=76281980&t=0)** - [Instructor] A parameter, it's a variable that the end user can control to ask dynamic what if questions about their data models.
 >
-> **[0:08](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-parameters?u=76281980&t=8)** Within Power BI, we can create both numeric and field parameters to use in our calculations.
+> **[0:08](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-parameters?u=76281980&t=8)** Within [[Microsoft Power BI|Power BI]], we can create both numeric and field parameters to use in our calculations.
 >
 > **[0:14](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-parameters?u=76281980&t=14)** Numeric parameters create a range of numbers, while field parameters let us add fields, including dimensions or measures concurrently, that enable the end users to select fields within a report slicer.
 >
-> **[0:28](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-parameters?u=76281980&t=28)** There are two steps to setting up and utilizing DAX parameters in our Power BI model.
+> **[0:28](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-parameters?u=76281980&t=28)** There are two steps to setting up and utilizing [[DAX]] parameters in our Power BI model.
 >
 > **[0:33](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-parameters?u=76281980&t=33)** First, we create the parameter.
 >
@@ -1476,7 +1456,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), bi (5), [[DAX]] (3), data (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[DAX]] (3)
 > **Env Vars:** dax (3)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
@@ -1485,16 +1465,15 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Formatting measure units
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/formatting-measure-units?u=76281980)
+#### [Formatting measure units](https://www.linkedin.com/learning/power-bi-integrating-ai/formatting-measure-units?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/formatting-measure-units?u=76281980&t=0)** - [Instructor] In our Power BI project, we're dealing with temperature and electricity data.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/formatting-measure-units?u=76281980&t=0)** - [Instructor] In our [[Microsoft Power BI|Power BI]] project, we're dealing with temperature and electricity data.
 >
 > **[0:04](https://www.linkedin.com/learning/power-bi-integrating-ai/formatting-measure-units?u=76281980&t=4)** While most of the world measures electricity use and wattage hours, they don't measure temperatures in Fahrenheit, but rather celsius.
 >
-> **[0:13](https://www.linkedin.com/learning/power-bi-integrating-ai/formatting-measure-units?u=76281980&t=13)** I'm working with a model that uses degrees Fahrenheit, but we can convert between these units of degrees using DAX measures for our numbers and DAX measure string formatting for our units.
+> **[0:13](https://www.linkedin.com/learning/power-bi-integrating-ai/formatting-measure-units?u=76281980&t=13)** I'm working with a model that uses degrees Fahrenheit, but we can convert between these units of degrees using [[DAX]] measures for our numbers and DAX measure string formatting for our units.
 >
 > **[0:26](https://www.linkedin.com/learning/power-bi-integrating-ai/formatting-measure-units?u=76281980&t=26)** We can use variables and DAX formulas to make more complex formulas easier to read and organize.
 >
@@ -1570,7 +1549,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DAX]] (4), power (2), bi (2), data (1), ai (1)
+> **Frameworks & Libraries:** [[DAX]] (4), [[Microsoft Power BI|Power bi]] (2)
 > **Env Vars:** dax (4), var (1), return (1)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** selected_units (3)
@@ -1583,12 +1562,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Utilizing the decomposition tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-the-decomposition-tree?u=76281980)
+#### [Utilizing the decomposition tree](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-the-decomposition-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-the-decomposition-tree?u=76281980&t=0)** - [Narrator] Power BI offers several smart narrative standard visuals that leverage AI behind the scenes to run analysis for us.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-the-decomposition-tree?u=76281980&t=0)** - [Narrator] [[Microsoft Power BI|Power BI]] offers several smart narrative standard visuals that leverage AI behind the scenes to run analysis for us.
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-the-decomposition-tree?u=76281980&t=7)** The decomposition tree helps us drill down into levels of our data to explore root cause analysis.
 >
@@ -1652,18 +1630,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), ai (3), next (3), bi (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2)
 > **CLI Commands:** node (2), find (2), make (1)
 > **UI Navigation:** select the (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Discovering key insights with the key influencer visual
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/discovering-key-insights-with-the-key-influencer-visual?u=76281980)
+#### [Discovering key insights with the key influencer visual](https://www.linkedin.com/learning/power-bi-integrating-ai/discovering-key-insights-with-the-key-influencer-visual?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/discovering-key-insights-with-the-key-influencer-visual?u=76281980&t=0)** - [Narrator] The Key Influencers Visual is a standard Power BI smart narrative visual that lets us leverage AI to understand more about our data by letting end users discover more about what factors affect a specific matrix.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/discovering-key-insights-with-the-key-influencer-visual?u=76281980&t=0)** - [Narrator] The Key Influencers Visual is a standard [[Microsoft Power BI|Power BI]] smart narrative visual that lets us leverage AI to understand more about our data by letting end users discover more about what factors affect a specific matrix.
 >
 > **[0:13](https://www.linkedin.com/learning/power-bi-integrating-ai/discovering-key-insights-with-the-key-influencer-visual?u=76281980&t=13)** It analyzes data, then ranks the key factors that displays as key influencers that you can then compare the relative importance of between factors.
 >
@@ -1719,20 +1696,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), bi (2), ai (2), data (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2)
 > **UI Navigation:** dropdown (1), click on (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Leveraging the Q&A visual
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-the-q-a-visual?u=76281980)
+#### [Leveraging the Q&A visual](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-the-q-a-visual?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-the-q-a-visual?u=76281980&t=0)** - [Instructor] The Q&A Visual enables us to ask questions about our data.
 >
-> **[0:03](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-the-q-a-visual?u=76281980&t=3)** It uses natural language processing or NLP to translate our requests into a query that the visual returns as a visual or a calculated result.
+> **[0:03](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-the-q-a-visual?u=76281980&t=3)** It uses [[Natural Language Processing (NLP)|natural language processing]] or NLP to translate our requests into a query that the visual returns as a visual or a calculated result.
 >
 > **[0:14](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-the-q-a-visual?u=76281980&t=14)** Let's add the Q&A Visual to our report page.
 >
@@ -1748,7 +1724,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-the-q-a-visual?u=76281980&t=46)** It also enters the text for the question into the question box at the top of the visual.
 >
-> **[0:52](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-the-q-a-visual?u=76281980&t=52)** The question box is where we type the questions for Power BI to return a response.
+> **[0:52](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-the-q-a-visual?u=76281980&t=52)** The question box is where we type the questions for [[Microsoft Power BI|Power BI]] to return a response.
 >
 > **[0:58](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-the-q-a-visual?u=76281980&t=58)** We can clear out of the existing question and ask another one, such as, what station names have the highest elevation,
 >
@@ -1756,7 +1732,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-the-q-a-visual?u=76281980&t=78)** As we start typing and adjusting our prompts, Power BI dynamically provides feedback as to what question it thinks you're trying to ask, and the type of visual to use with auto-complete suggestion and feedback.
 >
-> **[1:31](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-the-q-a-visual?u=76281980&t=91)** If it doesn't recognize the word, it adds a red underline to it, and tries to clarify what we want to ask.
+> **[1:31](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-the-q-a-visual?u=76281980&t=91)** If it doesn't recognize the [[Microsoft Word|word]], it adds a red underline to it, and tries to clarify what we want to ask.
 >
 > **[1:38](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-the-q-a-visual?u=76281980&t=98)** It's also not able to ascertain our response to some questions if it doesn't understand what we're asking.
 >
@@ -1784,11 +1760,11 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-the-q-a-visual?u=76281980&t=201)** We can then Control-click to open the Q&A window, which we see expanded on our report page.
 >
-> **[3:30](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-the-q-a-visual?u=76281980&t=210)** We can do an entire course on this topic, and I encourage you to play around with the Q&A Visual and also explore the use of Copilot from other courses in the library if you want to learn more about generative AI and using natural language processing to ask questions about your data.
+> **[3:30](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-the-q-a-visual?u=76281980&t=210)** We can do an entire course on this topic, and I encourage you to play around with the Q&A Visual and also explore the use of [[Microsoft Copilot|Copilot]] from other courses in the library if you want to learn more about [[Generative AI]] and using natural language processing to ask questions about your data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), power (2), bi (2), nlp (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Microsoft Power BI|Power bi]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Copilot|Copilot]] (1), [[Generative AI]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** setup (2)
 > **Env Vars:** nlp (1)
@@ -1796,12 +1772,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the narrative visual
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/using-the-narrative-visual?u=76281980)
+#### [Using the narrative visual](https://www.linkedin.com/learning/power-bi-integrating-ai/using-the-narrative-visual?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/using-the-narrative-visual?u=76281980&t=0)** - [Instructor] We can use the narrative visual to add summary visuals to our Power BI reports.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/using-the-narrative-visual?u=76281980&t=0)** - [Instructor] We can use the narrative visual to add summary visuals to our [[Microsoft Power BI|Power BI]] reports.
 >
 > **[0:05](https://www.linkedin.com/learning/power-bi-integrating-ai/using-the-narrative-visual?u=76281980&t=5)** It includes texts and fields that update when we add new data or change the filters in our model.
 >
@@ -1819,7 +1794,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/power-bi-integrating-ai/using-the-narrative-visual?u=76281980&t=49)** It's often easier for people, especially those who want to quickly grasp concepts from the key insights in the data to read text bullets instead of paragraphs, which we can easily set up by highlighting our text again, and we'll choose to make it into a bulleted list.
 >
-> **[1:08](https://www.linkedin.com/learning/power-bi-integrating-ai/using-the-narrative-visual?u=76281980&t=68)** Notice we interact with this visual in the same way we would a Word document, for example.
+> **[1:08](https://www.linkedin.com/learning/power-bi-integrating-ai/using-the-narrative-visual?u=76281980&t=68)** Notice we interact with this visual in the same way we would a [[Microsoft Word|Word]] document, for example.
 >
 > **[1:15](https://www.linkedin.com/learning/power-bi-integrating-ai/using-the-narrative-visual?u=76281980&t=75)** The visual supports text underline in blue with variables based on fields in the existing model.
 >
@@ -1837,7 +1812,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/power-bi-integrating-ai/using-the-narrative-visual?u=76281980&t=114)** If we filter other parts of our model, notice it filters the narrative visual as well in the same way that we would interact with other visuals.
 >
-> **[2:07](https://www.linkedin.com/learning/power-bi-integrating-ai/using-the-narrative-visual?u=76281980&t=127)** We also noticed that when we add a narrative visual, there's a copilot button associated with it.
+> **[2:07](https://www.linkedin.com/learning/power-bi-integrating-ai/using-the-narrative-visual?u=76281980&t=127)** We also noticed that when we add a narrative visual, there's a [[Microsoft Copilot|copilot]] button associated with it.
 >
 > **[2:13](https://www.linkedin.com/learning/power-bi-integrating-ai/using-the-narrative-visual?u=76281980&t=133)** We chose the custom button here.
 >
@@ -1847,7 +1822,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), data (3), power (1), bi (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[Microsoft Power BI|Power bi]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** set up (1), configure (1)
@@ -1860,16 +1835,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Finding clusters
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/finding-clusters?u=76281980)
+#### [Finding clusters](https://www.linkedin.com/learning/power-bi-integrating-ai/finding-clusters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/finding-clusters?u=76281980&t=0)** - [Instructor] Clustering algorithms allow us to identify segments or clusters within a dataset that are numerically similar to each other, but dissimilar to the other data points in the attribute values.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/finding-clusters?u=76281980&t=0)** - [Instructor] Clustering [[Algorithms]] allow us to identify segments or clusters within a dataset that are numerically similar to each other, but dissimilar to the other data points in the attribute values.
 >
 > **[0:11](https://www.linkedin.com/learning/power-bi-integrating-ai/finding-clusters?u=76281980&t=11)** Although clustering finds groups in the data, it's not the same as the grouping functionality.
 >
-> **[0:17](https://www.linkedin.com/learning/power-bi-integrating-ai/finding-clusters?u=76281980&t=17)** The Power BI clustering feature called Find Clusters uses a clustering algorithm called k-means clustering.
+> **[0:17](https://www.linkedin.com/learning/power-bi-integrating-ai/finding-clusters?u=76281980&t=17)** The [[Microsoft Power BI|Power BI]] clustering feature called Find Clusters uses a clustering algorithm called [[k-means clustering]].
 >
 > **[0:24](https://www.linkedin.com/learning/power-bi-integrating-ai/finding-clusters?u=76281980&t=24)** It uses numerical data to run an algorithm that assigns each data point to a cluster, where it minimizes the total distance between each data point and its assigned cluster center to find the optimized solution.
 >
@@ -1929,7 +1903,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/power-bi-integrating-ai/finding-clusters?u=76281980&t=242)** Let's close out of this.
 >
-> **[4:04](https://www.linkedin.com/learning/power-bi-integrating-ai/finding-clusters?u=76281980&t=244)** We'll remove the name fields, so we need only one dimension and we'll average the rest of these metrics.
+> **[4:04](https://www.linkedin.com/learning/power-bi-integrating-ai/finding-clusters?u=76281980&t=244)** We'll remove the name fields, so we need only one dimension and we'll average the [[Representational State Transfer (REST)|rest]] of these metrics.
 >
 > **[4:20](https://www.linkedin.com/learning/power-bi-integrating-ai/finding-clusters?u=76281980&t=260)** Now, let's try to find the clusters.
 >
@@ -1955,21 +1929,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), power (2), bi (2), [[Algorithms]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Algorithms]] (1), [[k-means clustering]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculating best fit line
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-best-fit-line?u=76281980)
+#### [Calculating best fit line](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-best-fit-line?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-best-fit-line?u=76281980&t=0)** - [Instructor] AI models let us find trends in our data.
 >
-> **[0:03](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-best-fit-line?u=76281980&t=3)** One of the ways in which we do this is by adding a trend line to Power BI visuals, which is the output of the best fit line from a linear regression model.
+> **[0:03](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-best-fit-line?u=76281980&t=3)** One of the ways in which we do this is by adding a trend line to [[Microsoft Power BI|Power BI]] visuals, which is the output of the best fit line from a [[Linear Regression]] model.
 >
 > **[0:13](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-best-fit-line?u=76281980&t=13)** Let's examine a regression model in our scatterplot visual comparing the low temperature versus high temperature for each record by station and date and our record level weather data.
 >
@@ -2017,14 +1990,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), power (4), bi (4), [[Linear Regression]] (2), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[Linear Regression]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** compare this to (1), for example (1)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculating correlations
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-correlations?u=76281980)
+#### [Calculating correlations](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-correlations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2042,7 +2014,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-correlations?u=76281980&t=41)** Most correlation values though, will range between negative one and one as we'll see in our examples.
 >
-> **[0:48](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-correlations?u=76281980&t=48)** The trend line that we can add to Power BI Visuals represents the output of linear regression models.
+> **[0:48](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-correlations?u=76281980&t=48)** The trend line that we can add to [[Microsoft Power BI|Power BI]] Visuals represents the output of [[Linear Regression]] models.
 >
 > **[0:54](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-correlations?u=76281980&t=54)** To figure out how well this line fits, we want to quantify how closely the points land up along the trend line.
 >
@@ -2076,13 +2048,13 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-correlations?u=76281980&t=162)** We can also see that if we adjust the date range in our date slicer, that these calculations update as well.
 >
-> **[2:54](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-correlations?u=76281980&t=174)** We can look at the syntax for the quick measure formula directly in the DAX formula bar in the same way that we would for a DAX measure that we created ourselves.
+> **[2:54](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-correlations?u=76281980&t=174)** We can look at the syntax for the quick measure formula directly in the [[DAX]] formula bar in the same way that we would for a DAX measure that we created ourselves.
 >
 > **[3:02](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-correlations?u=76281980&t=182)** The formula starts by determining the correlation table, in this case, the date table, that we're going to do our calculations over.
 >
 > **[3:12](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-correlations?u=76281980&t=192)** We then calculate the number of observations as a variable within our formula.
 >
-> **[3:17](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-correlations?u=76281980&t=197)** We can walk through the rest of the correlation formula to see how Power BI is calculating it in the quick measure.
+> **[3:17](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-correlations?u=76281980&t=197)** We can walk through the [[Representational State Transfer (REST)|rest]] of the correlation formula to see how Power BI is calculating it in the quick measure.
 >
 > **[3:25](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-correlations?u=76281980&t=205)** We can also make updates to this formula to perhaps make it easier to read.
 >
@@ -2102,7 +2074,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), [[Linear Regression]] (4), [[DAX]] (4), bi (2), data (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (4), [[DAX]] (4), [[Microsoft Power BI|Power bi]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** dax (4)
 > **UI Navigation:** dropdown (1), select the (1)
@@ -2110,16 +2082,15 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visualizing relationships between variable pairs
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/visualizing-relationships-between-variable-pairs?u=76281980)
+#### [Visualizing relationships between variable pairs](https://www.linkedin.com/learning/power-bi-integrating-ai/visualizing-relationships-between-variable-pairs?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/visualizing-relationships-between-variable-pairs?u=76281980&t=0)** - [Instructor] Let's say that we want to compare correlations between different variables, but what if we wanted to compare these correlations between several different fields without having to create separate scatterplot visuals?
 >
-> **[0:13](https://www.linkedin.com/learning/power-bi-integrating-ai/visualizing-relationships-between-variable-pairs?u=76281980&t=13)** Some programming languages like R and Python packages offer pair plot visuals.
+> **[0:13](https://www.linkedin.com/learning/power-bi-integrating-ai/visualizing-relationships-between-variable-pairs?u=76281980&t=13)** Some programming languages like R and [[Python (Programming Language)|Python]] packages offer pair plot visuals.
 >
-> **[0:19](https://www.linkedin.com/learning/power-bi-integrating-ai/visualizing-relationships-between-variable-pairs?u=76281980&t=19)** We don't currently have that option or a standard power BI visuals, but we can use an alternative approach with the help of a standard scatter plot and field parameters.
+> **[0:19](https://www.linkedin.com/learning/power-bi-integrating-ai/visualizing-relationships-between-variable-pairs?u=76281980&t=19)** We don't currently have that option or a standard [[Microsoft Power BI|power BI]] visuals, but we can use an alternative approach with the help of a standard scatter plot and field parameters.
 >
 > **[0:31](https://www.linkedin.com/learning/power-bi-integrating-ai/visualizing-relationships-between-variable-pairs?u=76281980&t=31)** We'll start by adding a scatter plot to our page where we'll put the dates from the dates table in our values.
 >
@@ -2157,7 +2128,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Programming]] (1), [[Python (Programming Language)|Python]] (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** checkbox (1)
@@ -2166,8 +2137,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing correlations with variable pairs
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/analyzing-correlations-with-variable-pairs?u=76281980)
+#### [Analyzing correlations with variable pairs](https://www.linkedin.com/learning/power-bi-integrating-ai/analyzing-correlations-with-variable-pairs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2191,7 +2161,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/power-bi-integrating-ai/analyzing-correlations-with-variable-pairs?u=76281980&t=69)** We'll do so using the max function to extract the x-axis field from the x-axis field parameter.
 >
-> **[1:16](https://www.linkedin.com/learning/power-bi-integrating-ai/analyzing-correlations-with-variable-pairs?u=76281980&t=76)** This concept taps into parameter harvesting for DAX measures.
+> **[1:16](https://www.linkedin.com/learning/power-bi-integrating-ai/analyzing-correlations-with-variable-pairs?u=76281980&t=76)** This concept taps into parameter harvesting for [[DAX]] measures.
 >
 > **[1:19](https://www.linkedin.com/learning/power-bi-integrating-ai/analyzing-correlations-with-variable-pairs?u=76281980&t=79)** We can't reference the x-axis field directly within our measure formula, but we can reference it using a function like max, which works on text labels.
 >
@@ -2250,18 +2220,17 @@ created: 2026-05-02
 > **Env Vars:** dax (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating corrplot
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/creating-corrplot?u=76281980)
+#### [Creating corrplot](https://www.linkedin.com/learning/power-bi-integrating-ai/creating-corrplot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/creating-corrplot?u=76281980&t=0)** - [Instructor] Correlation measures the strength and direction of the relationship between two variables, like measures in a Power BI model.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/creating-corrplot?u=76281980&t=0)** - [Instructor] Correlation measures the strength and direction of the relationship between two variables, like measures in a [[Microsoft Power BI|Power BI]] model.
 >
 > **[0:08](https://www.linkedin.com/learning/power-bi-integrating-ai/creating-corrplot?u=76281980&t=8)** Let's say that we want to expand our analysis to mirror all the correlations between all the variable pair combinations at the same time.
 >
 > **[0:16](https://www.linkedin.com/learning/power-bi-integrating-ai/creating-corrplot?u=76281980&t=16)** Corrplot, short for correlation plot, visuals are available in the R language.
 >
-> **[0:22](https://www.linkedin.com/learning/power-bi-integrating-ai/creating-corrplot?u=76281980&t=22)** To do this within Power BI, we'll use a combination of functionalities like DAX quick measures, calculation groups, and the standard matrix visual with a multitude of formatting options applied on top of it to really make it pop.
+> **[0:22](https://www.linkedin.com/learning/power-bi-integrating-ai/creating-corrplot?u=76281980&t=22)** To do this within Power BI, we'll use a combination of functionalities like [[DAX]] quick measures, calculation groups, and the standard matrix visual with a multitude of formatting options applied on top of it to really make it pop.
 >
 > **[0:38](https://www.linkedin.com/learning/power-bi-integrating-ai/creating-corrplot?u=76281980&t=38)** Let's create our correlation plot using the matrix visual, where we'll start with the energy type labels already in the matrix for the rows, and filter to the values of coal, demand, natural gas, solar, and wind in the filters pane.
 >
@@ -2403,7 +2372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), [[DAX]] (5), bi (4), data (1), next (1)
+> **Frameworks & Libraries:** [[DAX]] (5), [[Microsoft Power BI|Power bi]] (4)
 > **CLI Commands:** make (6)
 > **Env Vars:** dax (5)
 > **UI Navigation:** dropdown (2), navigate to (1), go to (1)
@@ -2417,18 +2386,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Calculating linear regression coefficients
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-linear-regression-coefficients?u=76281980)
+#### [Calculating linear regression coefficients](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-linear-regression-coefficients?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-linear-regression-coefficients?u=76281980&t=0)** - [Instructor] We see a trend line on a scatterplot that represents a best fit line going through these aggregated data points.
 >
-> **[0:06](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-linear-regression-coefficients?u=76281980&t=6)** But how can we quantify this line within our Power BI semantic model?
+> **[0:06](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-linear-regression-coefficients?u=76281980&t=6)** But how can we quantify this line within our [[Microsoft Power BI|Power BI]] semantic model?
 >
-> **[0:11](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-linear-regression-coefficients?u=76281980&t=11)** Power BI runs linear regression under its hood to calculate the coefficient supporting this trend line.
+> **[0:11](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-linear-regression-coefficients?u=76281980&t=11)** Power BI runs [[Linear Regression]] under its hood to calculate the coefficient supporting this trend line.
 >
-> **[0:17](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-linear-regression-coefficients?u=76281980&t=17)** We're visualizing the relationship between the dependent variable on the Y axis and the single independent variable on the X axis, which we can calculate explicitly using DAX measure formulas.
+> **[0:17](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-linear-regression-coefficients?u=76281980&t=17)** We're visualizing the relationship between the dependent variable on the Y axis and the single independent variable on the X axis, which we can calculate explicitly using [[DAX]] measure formulas.
 >
 > **[0:29](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-linear-regression-coefficients?u=76281980&t=29)** We can utilize key DAX functions like ALLSELECTEd, SUMX, POWER, and DIVIDE to explicitly calculate measures for these intercept and slope coefficients.
 >
@@ -2486,28 +2454,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (8), product (5), [[Linear Regression]] (4), bi (3), [[DAX]] (3)
+> **Frameworks & Libraries:** [[Linear Regression]] (4), [[Microsoft Power BI|Power bi]] (3), [[DAX]] (3)
 > **Env Vars:** sumx (4), divide (4), dax (3), power (3), allselected (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Checking outputs for regression models
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/checking-outputs-for-regression-models?u=76281980)
+#### [Checking outputs for regression models](https://www.linkedin.com/learning/power-bi-integrating-ai/checking-outputs-for-regression-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/checking-outputs-for-regression-models?u=76281980&t=0)** - [Narrator] In a two-dimensional visualized space with the dependent variable on the Y-axis and the independent variable on the X-axis, the intercept and slope coefficients represent the optimized linear regression model results, that minimize the total square distance between each of these points and the trend line.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/checking-outputs-for-regression-models?u=76281980&t=0)** - [Narrator] In a two-dimensional visualized space with the dependent variable on the Y-axis and the independent variable on the X-axis, the intercept and slope coefficients represent the optimized [[Linear Regression]] model results, that minimize the total square distance between each of these points and the trend line.
 >
 > **[0:19](https://www.linkedin.com/learning/power-bi-integrating-ai/checking-outputs-for-regression-models?u=76281980&t=19)** When we're calculating these coefficients, though, we want to double-check our results along the way.
 >
-> **[0:24](https://www.linkedin.com/learning/power-bi-integrating-ai/checking-outputs-for-regression-models?u=76281980&t=24)** In particular, dealing with null or blank values within DAX formulas can present its own set of challenges.
+> **[0:24](https://www.linkedin.com/learning/power-bi-integrating-ai/checking-outputs-for-regression-models?u=76281980&t=24)** In particular, dealing with null or blank values within [[DAX]] formulas can present its own set of challenges.
 >
 > **[0:31](https://www.linkedin.com/learning/power-bi-integrating-ai/checking-outputs-for-regression-models?u=76281980&t=31)** If we run into these empty values, we want to make sure that our calculations properly filter and account for any discrepancies that ensue.
 >
 > **[0:41](https://www.linkedin.com/learning/power-bi-integrating-ai/checking-outputs-for-regression-models?u=76281980&t=41)** If we take our current measure results for the intercept and slope coefficients, at first glance, they look correct.
 >
-> **[0:48](https://www.linkedin.com/learning/power-bi-integrating-ai/checking-outputs-for-regression-models?u=76281980&t=48)** However, if we export this data into a CSV file and run the intercept and slope functions on it in Excel, we see some discrepancies.
+> **[0:48](https://www.linkedin.com/learning/power-bi-integrating-ai/checking-outputs-for-regression-models?u=76281980&t=48)** However, if we export this data into a CSV file and run the intercept and slope functions on it in [[Microsoft Excel|Excel]], we see some discrepancies.
 >
 > **[0:57](https://www.linkedin.com/learning/power-bi-integrating-ai/checking-outputs-for-regression-models?u=76281980&t=57)** Slowing down to build each step piece by piece definitely helps me a lot when I'm working with DAX modeling.
 >
@@ -2531,23 +2498,22 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/power-bi-integrating-ai/checking-outputs-for-regression-models?u=76281980&t=177)** We see this updates our intercept and slope coefficient results to remove these blank numbers from the calculations automatically.
 >
-> **[3:05](https://www.linkedin.com/learning/power-bi-integrating-ai/checking-outputs-for-regression-models?u=76281980&t=185)** Once we confirm these linear regression calculated coefficients, we can then use them in other parts of our regression modeling within Power BI.
+> **[3:05](https://www.linkedin.com/learning/power-bi-integrating-ai/checking-outputs-for-regression-models?u=76281980&t=185)** Once we confirm these linear regression calculated coefficients, we can then use them in other parts of our regression modeling within [[Microsoft Power BI|Power BI]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DAX]] (4), [[Linear Regression]] (2), data (2), [[Microsoft Excel|Excel]] (1), ai (1)
+> **Frameworks & Libraries:** [[DAX]] (4), [[Linear Regression]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** dax (4), csv (1), countrows (1), countx (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous chapter (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Making predictions for regression models
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/making-predictions-for-regression-models?u=76281980)
+#### [Making predictions for regression models](https://www.linkedin.com/learning/power-bi-integrating-ai/making-predictions-for-regression-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/making-predictions-for-regression-models?u=76281980&t=0)** - [Narrator] Our linear regression model has one independent variable, X, to make predictions for the dependent variable, Y.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/making-predictions-for-regression-models?u=76281980&t=0)** - [Narrator] Our [[Linear Regression]] model has one independent variable, X, to make predictions for the dependent variable, Y.
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-integrating-ai/making-predictions-for-regression-models?u=76281980&t=7)** The intercept represents the model bias as a constant value where the best fit line intersects the Y axis when the Y value is zero.
 >
@@ -2555,7 +2521,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/power-bi-integrating-ai/making-predictions-for-regression-models?u=76281980&t=29)** In this linear regression model, we can calculate the predicted Y label by taking the intercept coefficient and adding it to the slope coefficient for a single independent variable multiplied by the actual X value.
 >
-> **[0:44](https://www.linkedin.com/learning/power-bi-integrating-ai/making-predictions-for-regression-models?u=76281980&t=44)** In Power BI, let's create a new measure for the predicted Y outcomes, which we'll set equal to the intercept measure plus the slope measure.
+> **[0:44](https://www.linkedin.com/learning/power-bi-integrating-ai/making-predictions-for-regression-models?u=76281980&t=44)** In [[Microsoft Power BI|Power BI]], let's create a new measure for the predicted Y outcomes, which we'll set equal to the intercept measure plus the slope measure.
 >
 > **[0:55](https://www.linkedin.com/learning/power-bi-integrating-ai/making-predictions-for-regression-models?u=76281980&t=55)** We'll then need to multiply the slope measure by the X value that we want to use.
 >
@@ -2599,18 +2565,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (5), power (2), bi (2), data (2)
+> **Frameworks & Libraries:** [[Linear Regression]] (5), [[Microsoft Power BI|Power bi]] (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Calculating residuals
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-residuals?u=76281980)
+#### [Calculating residuals](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-residuals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-residuals?u=76281980&t=0)** - [Instructor] Once we calculate our best fit line from the linear regression model, we then want to measure how well the line fits amongst the existing actual data points.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-residuals?u=76281980&t=0)** - [Instructor] Once we calculate our best fit line from the [[Linear Regression]] model, we then want to measure how well the line fits amongst the existing actual data points.
 >
 > **[0:11](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-residuals?u=76281980&t=11)** To do this, we can calculate residuals which represent the distance vertically between the predicted Y value and the actual Y value for each data observation.
 >
@@ -2620,7 +2585,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-residuals?u=76281980&t=44)** Scatterplots are a great way to visualize how residuals relate to linear regression output.
 >
-> **[0:50](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-residuals?u=76281980&t=50)** We can see there are points on both sides of the trend line in our visual, which matches the coefficients we calculated using DAX measures.
+> **[0:50](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-residuals?u=76281980&t=50)** We can see there are points on both sides of the trend line in our visual, which matches the coefficients we calculated using [[DAX]] measures.
 >
 > **[0:59](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-residuals?u=76281980&t=59)** We can calculate the residuals for our summarized data by taking the difference between the actual Y measures and the predicted Y measures.
 >
@@ -2674,17 +2639,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Linear Regression]] (2), [[DAX]] (2), power (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (2), [[DAX]] (2)
 > **Env Vars:** dax (2), sqrt (1)
 > **Versions:** 0.5 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the LINEST DAX function
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/using-the-linest-dax-function?u=76281980)
+#### [Using the LINEST DAX function](https://www.linkedin.com/learning/power-bi-integrating-ai/using-the-linest-dax-function?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/using-the-linest-dax-function?u=76281980&t=0)** - [Instructor] We can more efficiently calculate linear regression model coefficients and statistics with the help of DAX functions, like LINEST and LINEST X.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/using-the-linest-dax-function?u=76281980&t=0)** - [Instructor] We can more efficiently calculate [[Linear Regression]] model coefficients and [[Statistics]] with the help of [[DAX]] functions, like LINEST and LINEST X.
 >
 > **[0:10](https://www.linkedin.com/learning/power-bi-integrating-ai/using-the-linest-dax-function?u=76281980&t=10)** We can also use these functions to calculate multiple regression with more than one independent variable in addition to linear regression with a single independent variable.
 >
@@ -2722,21 +2686,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (6), [[DAX]] (3), data (3), [[Statistics]] (2)
+> **Frameworks & Libraries:** [[Linear Regression]] (6), [[DAX]] (3), [[Statistics]] (2)
 > **Env Vars:** linest (6), dax (3), max (1)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Utilizing the LINESTX DAX function
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-the-linestx-dax-function?u=76281980)
+#### [Utilizing the LINESTX DAX function](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-the-linestx-dax-function?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-the-linestx-dax-function?u=76281980&t=0)** - [Instructor] The LINEST and LINESTX DAX functions produce a single row table with columns for the coefficients and statistics for linear or multiple regression models that we configure within its function inputs.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-the-linestx-dax-function?u=76281980&t=0)** - [Instructor] The LINEST and LINESTX [[DAX]] functions produce a single row table with columns for the coefficients and [[Statistics]] for linear or multiple regression models that we configure within its function inputs.
 >
 > **[0:13](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-the-linestx-dax-function?u=76281980&t=13)** This includes coefficients like those for the intercept and slopes, as well as standard errors and the F-statistic.
 >
-> **[0:22](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-the-linestx-dax-function?u=76281980&t=22)** LINESTX is a more flexible regression function that allows us to input aggregated data into our linear regression model.
+> **[0:22](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-the-linestx-dax-function?u=76281980&t=22)** LINESTX is a more flexible regression function that allows us to input aggregated data into our [[Linear Regression]] model.
 >
 > **[0:30](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-the-linestx-dax-function?u=76281980&t=30)** This function is three required function input parameters, the table name, the dependent variable, and the independent variable.
 >
@@ -2822,11 +2785,11 @@ created: 2026-05-02
 >
 > **[7:00](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-the-linestx-dax-function?u=76281980&t=420)** We'll refer to our new intercept measure plus our new slope measure, and we'll then multiply it by the x variable.
 >
-> **[7:16](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-the-linestx-dax-function?u=76281980&t=436)** We see that using this DAX function for linear regression enables us to return a more efficient, and as we'll see lately, a more flexible regression model mythology to use within Power BI.
+> **[7:16](https://www.linkedin.com/learning/power-bi-integrating-ai/utilizing-the-linestx-dax-function?u=76281980&t=436)** We see that using this DAX function for linear regression enables us to return a more efficient, and as we'll see lately, a more flexible regression model mythology to use within [[Microsoft Power BI|Power BI]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (10), data (5), [[DAX]] (4), [[Statistics]] (1), power (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (10), [[DAX]] (4), [[Statistics]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** linest (4), dax (4), linestx (3), summarize (2), var (1)
 > **Code Identifiers:** summarized_table (2), summarize_table (1)
 > **CLI Commands:** make (2)
@@ -2835,12 +2798,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a polynomial regression model
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/creating-a-polynomial-regression-model?u=76281980)
+#### [Creating a polynomial regression model](https://www.linkedin.com/learning/power-bi-integrating-ai/creating-a-polynomial-regression-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/creating-a-polynomial-regression-model?u=76281980&t=0)** - [Instructor] We notice the trends in the scatterplot for the daily average temperature versus electricity demand have a parabola shape, which doesn't fit well with the linear regression trend line currently going through the visual.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/creating-a-polynomial-regression-model?u=76281980&t=0)** - [Instructor] We notice the trends in the scatterplot for the daily average temperature versus electricity demand have a parabola shape, which doesn't fit well with the [[Linear Regression]] trend line currently going through the visual.
 >
 > **[0:13](https://www.linkedin.com/learning/power-bi-integrating-ai/creating-a-polynomial-regression-model?u=76281980&t=13)** The demand is higher when the temperatures are colder and also when they're hotter.
 >
@@ -2854,7 +2816,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/power-bi-integrating-ai/creating-a-polynomial-regression-model?u=76281980&t=50)** Polynomial regression has independent variables raised to the nth power for its respective terms.
 >
-> **[0:58](https://www.linkedin.com/learning/power-bi-integrating-ai/creating-a-polynomial-regression-model?u=76281980&t=58)** Power BI doesn't offer an explicit polynomial regression function.
+> **[0:58](https://www.linkedin.com/learning/power-bi-integrating-ai/creating-a-polynomial-regression-model?u=76281980&t=58)** [[Microsoft Power BI|Power BI]] doesn't offer an explicit polynomial regression function.
 >
 > **[1:04](https://www.linkedin.com/learning/power-bi-integrating-ai/creating-a-polynomial-regression-model?u=76281980&t=64)** We can, however, convert these polynomial terms into multiple regression terms.
 >
@@ -2876,7 +2838,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/power-bi-integrating-ai/creating-a-polynomial-regression-model?u=76281980&t=160)** Now, we want to make sure that we're referring to the dates here as well so we don't end up with a table with a single row.
 >
-> **[2:52](https://www.linkedin.com/learning/power-bi-integrating-ai/creating-a-polynomial-regression-model?u=76281980&t=172)** Once we see what the summarized_table looks like, let's then save it as the variable summarized_table inside the DAX formula.
+> **[2:52](https://www.linkedin.com/learning/power-bi-integrating-ai/creating-a-polynomial-regression-model?u=76281980&t=172)** Once we see what the summarized_table looks like, let's then save it as the variable summarized_table inside the [[DAX]] formula.
 >
 > **[3:01](https://www.linkedin.com/learning/power-bi-integrating-ai/creating-a-polynomial-regression-model?u=76281980&t=181)** Now, let's calculate the coefficients to return using the LINESTX function.
 >
@@ -2928,15 +2890,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (8), data (3), [[DAX]] (3), [[Linear Regression]] (2), bi (2)
+> **Frameworks & Libraries:** [[DAX]] (3), [[Linear Regression]] (2), [[Microsoft Power BI|Power bi]] (2)
 > **Env Vars:** dax (3), power (2), linestx (2), summarize (1), selectcolumns (1)
 > **CLI Commands:** make (7)
 > **Code Identifiers:** summarized_table (6)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculating outliers
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-outliers?u=76281980)
+#### [Calculating outliers](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-outliers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2952,7 +2913,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-outliers?u=76281980&t=32)** Think of extremely hot or cold temperatures that represents extremes that any time of the year on a histogram or box plot.
 >
-> **[0:42](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-outliers?u=76281980&t=42)** Anomalies represent outliers in the context of the rest of the data points.
+> **[0:42](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-outliers?u=76281980&t=42)** Anomalies represent outliers in the context of the [[Representational State Transfer (REST)|rest]] of the data points.
 >
 > **[0:46](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-outliers?u=76281980&t=46)** They may not be outliers by themselves, but these can represent cold days in the middle of the summer or hotter days in the middle of the winter, for example.
 >
@@ -2966,7 +2927,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-outliers?u=76281980&t=107)** We can see, for example, that a temperature of 87 degrees F and with the lower demand numbers, we would expect to see this as an anomaly or outlier in our data.
 >
-> **[2:00](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-outliers?u=76281980&t=120)** In order to figure out numerically what these outliers or anomalies are, we need to quantify them with DAX measure calculations.
+> **[2:00](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-outliers?u=76281980&t=120)** In order to figure out numerically what these outliers or anomalies are, we need to quantify them with [[DAX]] measure calculations.
 >
 > **[2:10](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-outliers?u=76281980&t=130)** To calculate the least squares distance, let's determine the absolute value of the distance between the predicted demand numbers in predicted y and the actual demand numbers from our data table.
 >
@@ -2998,7 +2959,7 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-outliers?u=76281980&t=285)** Otherwise, we'll have it return a value of 0.
 >
-> **[4:51](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-outliers?u=76281980&t=291)** Now, if we try adding our new outlier flag measure to the Scatterplot Legend field, Power BI rejects it.
+> **[4:51](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-outliers?u=76281980&t=291)** Now, if we try adding our new outlier flag measure to the Scatterplot Legend field, [[Microsoft Power BI|Power BI]] rejects it.
 >
 > **[4:59](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-outliers?u=76281980&t=299)** Instead, we need to set this up as a conditional color for our scatterplot data points in the Markers formatting.
 >
@@ -3032,7 +2993,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Representational State Transfer (REST)|Rest]] (1), [[DAX]] (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[DAX]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Analogies:** for example (4)
 > **Definitions:** is an  (3)
 > **CLI Commands:** make (2)
@@ -3040,14 +3001,13 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using parameters in regression models
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/using-parameters-in-regression-models?u=76281980)
+#### [Using parameters in regression models](https://www.linkedin.com/learning/power-bi-integrating-ai/using-parameters-in-regression-models?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/using-parameters-in-regression-models?u=76281980&t=0)** - [Instructor] Once we calculate the regression results, we can analyze metrics like the coefficient of determination and the F statistic to determine if the regression model is a good fit.
 >
-> **[0:11](https://www.linkedin.com/learning/power-bi-integrating-ai/using-parameters-in-regression-models?u=76281980&t=11)** Parameters and power BI models let us ask what-if questions about our data.
+> **[0:11](https://www.linkedin.com/learning/power-bi-integrating-ai/using-parameters-in-regression-models?u=76281980&t=11)** Parameters and [[Microsoft Power BI|power BI]] models let us ask what-if questions about our data.
 >
 > **[0:16](https://www.linkedin.com/learning/power-bi-integrating-ai/using-parameters-in-regression-models?u=76281980&t=16)** Within AI models, we can use them to explore the impact of changing a model threshold, to test a regression fit on a filtered dataset, or to input new data to see what its predicted outcome label will be.
 >
@@ -3065,7 +3025,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/power-bi-integrating-ai/using-parameters-in-regression-models?u=76281980&t=101)** We want to see an F statistic value over one and an R squared value of .7 or higher.
 >
-> **[1:47](https://www.linkedin.com/learning/power-bi-integrating-ai/using-parameters-in-regression-models?u=76281980&t=107)** So our current statistics that we see in the model are a good start.
+> **[1:47](https://www.linkedin.com/learning/power-bi-integrating-ai/using-parameters-in-regression-models?u=76281980&t=107)** So our current [[Statistics]] that we see in the model are a good start.
 >
 > **[1:52](https://www.linkedin.com/learning/power-bi-integrating-ai/using-parameters-in-regression-models?u=76281980&t=112)** We see the values change as we update our region to reflect different areas within the Texas grid.
 >
@@ -3119,7 +3079,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), power (2), bi (2), ai (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Statistics]] (1)
 > **Env Vars:** tavg (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -3131,22 +3091,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Calculating rolling averages
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-rolling-averages?u=76281980)
+#### [Calculating rolling averages](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-rolling-averages?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-rolling-averages?u=76281980&t=0)** - [Instructor] Rolling or moving averages let us smooth out time series data observation variations that occur within a timeframe.
 >
-> **[0:07](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-rolling-averages?u=76281980&t=7)** These calculations are quite common in financial modeling or stock market analysis, for example.
+> **[0:07](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-rolling-averages?u=76281980&t=7)** These calculations are quite common in [[Financial Modeling]] or stock market analysis, for example.
 >
-> **[0:14](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-rolling-averages?u=76281980&t=14)** Within Power BI models, we can create moving averages through visual calculations, quick measures, and DAX measures that we write out ourselves, using time intelligence filter functions like dates and periods to expand the date filters across a wider timeframe.
+> **[0:14](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-rolling-averages?u=76281980&t=14)** Within [[Microsoft Power BI|Power BI]] models, we can create moving averages through visual calculations, quick measures, and [[DAX]] measures that we write out ourselves, using time intelligence filter functions like dates and periods to expand the date filters across a wider timeframe.
 >
 > **[0:32](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-rolling-averages?u=76281980&t=32)** Let's create a moving average for the average temperature measured on a daily basis.
 >
 > **[0:38](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-rolling-averages?u=76281980&t=38)** We see the variations in the overall day-to-day temperature trends do vary quite a bit, but overall the temperatures are cooler in the winter and hotter in the summer.
 >
-> **[0:50](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-rolling-averages?u=76281980&t=50)** If we add the zoom bars to the line chart for the X-axis, we can tighten the range of selected dates to see more details of this variation.
+> **[0:50](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-rolling-averages?u=76281980&t=50)** If we add the [[Zoom]] bars to the line chart for the X-axis, we can tighten the range of selected dates to see more details of this variation.
 >
 > **[1:01](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-rolling-averages?u=76281980&t=61)** To add a visual calculation to our line chart, let's select the visual, then choose the option to add a visual calculation from the ellipsis dropdown menu.
 >
@@ -3256,7 +3215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), power (3), bi (3), [[DAX]] (3), [[Zoom]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[DAX]] (3), [[Zoom]] (2), [[Financial Modeling]] (1)
 > **Env Vars:** dax (3), max (1)
 > **UI Navigation:** select the (1), dropdown (1)
 > **Analogies:** for example (2)
@@ -3265,16 +3224,15 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leveraging anomaly detection
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-anomaly-detection?u=76281980)
+#### [Leveraging anomaly detection](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-anomaly-detection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-anomaly-detection?u=76281980&t=0)** - [Instructor] While outliers determine how far away from the rest of the data that a data point lies, anomaly detection measures how far away that data is from where we expect to be.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-anomaly-detection?u=76281980&t=0)** - [Instructor] While outliers determine how far away from the [[Representational State Transfer (REST)|rest]] of the data that a data point lies, anomaly detection measures how far away that data is from where we expect to be.
 >
-> **[0:11](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-anomaly-detection?u=76281980&t=11)** Anomaly detection algorithms are unsupervised machine learning models.
+> **[0:11](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-anomaly-detection?u=76281980&t=11)** Anomaly detection [[Algorithms]] are unsupervised machine learning models.
 >
-> **[0:15](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-anomaly-detection?u=76281980&t=15)** Power BI's built-in anomaly detection algorithm uses a density-based clustering model to help us find outliers.
+> **[0:15](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-anomaly-detection?u=76281980&t=15)** [[Microsoft Power BI|Power BI]]'s built-in anomaly detection algorithm uses a density-based clustering model to help us find outliers.
 >
 > **[0:24](https://www.linkedin.com/learning/power-bi-integrating-ai/leveraging-anomaly-detection?u=76281980&t=24)** We can run an anomaly detection algorithm directly on an existing line chart to automatically find anomalies in the data, which displays our average temperature by day.
 >
@@ -3342,7 +3300,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), power (4), bi (4), [[Representational State Transfer (REST)|Rest]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Algorithms]] (1)
 > **CLI Commands:** find (3), make (3)
 > **UI Navigation:** click on (2)
 > **Analogies:** for example (2)
@@ -3350,14 +3308,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculating seasonality trends
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-seasonality-trends?u=76281980)
+#### [Calculating seasonality trends](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-seasonality-trends?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-seasonality-trends?u=76281980&t=0)** - [Instructor] A time-series decomposition allows us to visually break down time series data from their actual values into separate components for seasonality, trends, and anomalies.
 >
-> **[0:11](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-seasonality-trends?u=76281980&t=11)** Instead of using an external package or language to create a time series decomposition visual, let's build one ourselves in Power BI.
+> **[0:11](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-seasonality-trends?u=76281980&t=11)** Instead of using an external package or language to create a time series decomposition visual, let's build one ourselves in [[Microsoft Power BI|Power BI]].
 >
 > **[0:20](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-seasonality-trends?u=76281980&t=20)** In order to get a better data set to understand the overall trends in data, we want to extrapolate the seasonality for the temperature trends, so they become a standalone component for the model.
 >
@@ -3423,18 +3380,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), power (2), bi (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2)
 > **Versions:** 86.13 (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculating overall trends
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-overall-trends?u=76281980)
+#### [Calculating overall trends](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-overall-trends?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-overall-trends?u=76281980&t=0)** - [Instructor] The differentials after removing seasonality from data points in time-series decomposition are similar to the residuals for linear regression models in that we can put a best-fit line through them.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-overall-trends?u=76281980&t=0)** - [Instructor] The differentials after removing seasonality from data points in time-series decomposition are similar to the residuals for [[Linear Regression]] models in that we can put a best-fit line through them.
 >
 > **[0:13](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-overall-trends?u=76281980&t=13)** The differentials measure in our time-series decomposition so far looks a lot like detecting anomalies.
 >
@@ -3442,7 +3398,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-overall-trends?u=76281980&t=23)** To do so, we're going to calculate the linear regression coefficients for the best-fit line that goes through the differentials measure.
 >
-> **[0:30](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-overall-trends?u=76281980&t=30)** We can do this using the LINESTX DAX function.
+> **[0:30](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-overall-trends?u=76281980&t=30)** We can do this using the LINESTX [[DAX]] function.
 >
 > **[0:36](https://www.linkedin.com/learning/power-bi-integrating-ai/calculating-overall-trends?u=76281980&t=36)** Let's first set this up as a new measure called trend where we'll use DAX variables within the measure formula.
 >
@@ -3494,15 +3450,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Linear Regression]] (4), [[DAX]] (3), next (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (4), [[DAX]] (3)
 > **Env Vars:** dax (3), linestx (2), summarize (1), max (1), allselected (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** summarized_table (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Contextualizing outliers versus anomalies
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/contextualizing-outliers-versus-anomalies?u=76281980)
+#### [Contextualizing outliers versus anomalies](https://www.linkedin.com/learning/power-bi-integrating-ai/contextualizing-outliers-versus-anomalies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3554,25 +3509,24 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/power-bi-integrating-ai/contextualizing-outliers-versus-anomalies?u=76281980&t=201)** We'd set up these lines with the same date dimension as the X-axis values that we see in this consolidative view and choose to format them individually as well.
 >
-> **[3:31](https://www.linkedin.com/learning/power-bi-integrating-ai/contextualizing-outliers-versus-anomalies?u=76281980&t=211)** We just created a time series decomposition using line chart formatting and calculations for linear regression, anomaly detection and seasonality to detrend and better understand our time series data.
+> **[3:31](https://www.linkedin.com/learning/power-bi-integrating-ai/contextualizing-outliers-versus-anomalies?u=76281980&t=211)** We just created a time series decomposition using line chart formatting and calculations for [[Linear Regression]], anomaly detection and seasonality to detrend and better understand our time series data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Linear Regression]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** dropdown (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding forecasting from the analytics pane
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/adding-forcasting-from-the-analytics-pane?u=76281980)
+#### [Adding forecasting from the analytics pane](https://www.linkedin.com/learning/power-bi-integrating-ai/adding-forcasting-from-the-analytics-pane?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/adding-forcasting-from-the-analytics-pane?u=76281980&t=0)** - [Instructor] For time-series data, we can not only make predictions about outcomes for new data, but we can also use historical time-series data patterns and trends to forecast future predicted outcomes.
 >
-> **[0:14](https://www.linkedin.com/learning/power-bi-integrating-ai/adding-forcasting-from-the-analytics-pane?u=76281980&t=14)** Temperatures are a great way to experiment with forecasting because they're relatively consistent when comparing year over year numbers to account for seasonality and they're generally predictable in the near foreseeable future.
+> **[0:14](https://www.linkedin.com/learning/power-bi-integrating-ai/adding-forcasting-from-the-analytics-pane?u=76281980&t=14)** Temperatures are a great way to experiment with [[Forecasting]] because they're relatively consistent when comparing year over year numbers to account for seasonality and they're generally predictable in the near foreseeable future.
 >
 > **[0:27](https://www.linkedin.com/learning/power-bi-integrating-ai/adding-forcasting-from-the-analytics-pane?u=76281980&t=27)** We can add forecasting to a series of time-series observations like the daily or monthly average temperature measurements like we see here in our current line chart.
 >
@@ -3588,13 +3542,13 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/power-bi-integrating-ai/adding-forcasting-from-the-analytics-pane?u=76281980&t=64)** 10 months into the future is a much bigger interval than 10 days into the future.
 >
-> **[1:11](https://www.linkedin.com/learning/power-bi-integrating-ai/adding-forcasting-from-the-analytics-pane?u=76281980&t=71)** We can see more details for our daily forecast if we zoom into the most recent data so we can see the forecasting in more detail.
+> **[1:11](https://www.linkedin.com/learning/power-bi-integrating-ai/adding-forcasting-from-the-analytics-pane?u=76281980&t=71)** We can see more details for our daily forecast if we [[Zoom]] into the most recent data so we can see the forecasting in more detail.
 >
 > **[1:22](https://www.linkedin.com/learning/power-bi-integrating-ai/adding-forcasting-from-the-analytics-pane?u=76281980&t=82)** We see the forecasting into the near future remains kind of vague.
 >
 > **[1:26](https://www.linkedin.com/learning/power-bi-integrating-ai/adding-forcasting-from-the-analytics-pane?u=76281980&t=86)** While it's generally hard to predict temperatures in the near future, like in the next few days, it's much easier to predict them in the next few months because they do average out in their consistency over time.
 >
-> **[1:38](https://www.linkedin.com/learning/power-bi-integrating-ai/adding-forcasting-from-the-analytics-pane?u=76281980&t=98)** We see that the forecast line is pretty flat and the confidence interval around this prediction line increases pretty rapidly because Power BI isn't certain about what those temperatures in the next few days will be.
+> **[1:38](https://www.linkedin.com/learning/power-bi-integrating-ai/adding-forcasting-from-the-analytics-pane?u=76281980&t=98)** We see that the forecast line is pretty flat and the confidence interval around this prediction line increases pretty rapidly because [[Microsoft Power BI|Power BI]] isn't certain about what those temperatures in the next few days will be.
 >
 > **[1:53](https://www.linkedin.com/learning/power-bi-integrating-ai/adding-forcasting-from-the-analytics-pane?u=76281980&t=113)** In the forecasting menu, we can see the options for configuring the forecast within this visual.
 >
@@ -3644,7 +3598,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forecasting]] (10), data (8), next (4), power (3), bi (3)
+> **Frameworks & Libraries:** [[Forecasting]] (10), [[Microsoft Power BI|Power bi]] (3), [[Zoom]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (3)
 > **Definitions:** is a  (1), refers to (1)
@@ -3657,8 +3611,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Putting everything together
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/putting-everything-together?u=76281980)
+#### [Putting everything together](https://www.linkedin.com/learning/power-bi-integrating-ai/putting-everything-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3666,7 +3619,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-integrating-ai/putting-everything-together?u=76281980&t=6)** But once we do all this analysis and use AI as an assistant for better handling our work, how do we make sure what we create gets used?
 >
-> **[0:15](https://www.linkedin.com/learning/power-bi-integrating-ai/putting-everything-together?u=76281980&t=15)** Working in Power BI involves exploratory and explanatory analysis.
+> **[0:15](https://www.linkedin.com/learning/power-bi-integrating-ai/putting-everything-together?u=76281980&t=15)** Working in [[Microsoft Power BI|Power BI]] involves exploratory and explanatory analysis.
 >
 > **[0:20](https://www.linkedin.com/learning/power-bi-integrating-ai/putting-everything-together?u=76281980&t=20)** A lot of the topics we covered in this course were exploratory and that we created things for ourselves or perhaps members of our team to learn more about.
 >
@@ -3690,7 +3643,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), bi (4), data (2), ai (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** kineteco (2)
 > **Cross-References:** we covered (1)
@@ -3698,24 +3651,23 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-integrating-ai/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/power-bi-integrating-ai/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/next-steps?u=76281980&t=0)** - In this course, we talked about how to use AI within Power BI as a power tool for modeling and analyzing data.
+> **[0:00](https://www.linkedin.com/learning/power-bi-integrating-ai/next-steps?u=76281980&t=0)** - In this course, we talked about how to use AI within [[Microsoft Power BI|Power BI]] as a power tool for modeling and analyzing data.
 >
 > **[0:08](https://www.linkedin.com/learning/power-bi-integrating-ai/next-steps?u=76281980&t=8)** We're not using AI to replace our capabilities, but instead to explore further insights and gain efficiency along the way.
 >
 > **[0:17](https://www.linkedin.com/learning/power-bi-integrating-ai/next-steps?u=76281980&t=17)** I encourage you to continue to learn more about Power BI and AI on your own.
 >
-> **[0:22](https://www.linkedin.com/learning/power-bi-integrating-ai/next-steps?u=76281980&t=22)** If you want to learn more about Copilot and Power BI, I suggest you take my course on the topic and also to explore other AI and Power BI courses in the library.
+> **[0:22](https://www.linkedin.com/learning/power-bi-integrating-ai/next-steps?u=76281980&t=22)** If you want to learn more about [[Microsoft Copilot|Copilot]] and Power BI, I suggest you take my course on the topic and also to explore other AI and Power BI courses in the library.
 >
 > **[0:33](https://www.linkedin.com/learning/power-bi-integrating-ai/next-steps?u=76281980&t=33)** And don't forget to have fun along the way and embrace the challenges that come with it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), ai (4), bi (4), data (1), [[Microsoft Copilot|Copilot]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4), [[Microsoft Copilot|Copilot]] (1)
 > **Cross-References:** we talked about (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - in (1)

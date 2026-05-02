@@ -86,8 +86,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Customer service email is not dead
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/customer-service-email-is-not-dead?u=76281980)
+#### [Customer service email is not dead](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/customer-service-email-is-not-dead?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -105,7 +104,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (1)
 > **Speakers:** - contrary (1)
 
 
@@ -113,8 +111,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Read emails analytically
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/read-emails-analytically?u=76281980)
+#### [Read emails analytically](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/read-emails-analytically?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -188,8 +185,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [announcer] (1)
 
-#### Anticipate follow-up questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/anticipate-follow-up-questions?u=76281980)
+#### [Anticipate follow-up questions](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/anticipate-follow-up-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -267,7 +263,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Versions:** version 6 (3), version 7 (2), 7.1 (2), 6.1 (2)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (1)
@@ -275,8 +270,7 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - writing (1)
 
-#### Answer all of the customer's questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/answer-all-of-the-customer-s-questions?u=76281980)
+#### [Answer all of the customer's questions](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/answer-all-of-the-customer-s-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -302,11 +296,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/answer-all-of-the-customer-s-questions?u=76281980&t=36)** Just complete the attached transcript request form.
 >
-> **[0:40](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/answer-all-of-the-customer-s-questions?u=76281980&t=40)** Then mail the form and the cheque to the office of the registrar.
+> **[0:40](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/answer-all-of-the-customer-s-questions?u=76281980&t=40)** Then mail the form and the cheque to the [[Microsoft Office|office]] of the registrar.
 >
 > **[0:43](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/answer-all-of-the-customer-s-questions?u=76281980&t=43)** But in some customers emails, especially ones that are kind of long or disorganized, the questions can be a bit difficult to see.
 >
-> **[0:52](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/answer-all-of-the-customer-s-questions?u=76281980&t=52)** Read this email from Victor to Agile Home Furnishings.
+> **[0:52](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/answer-all-of-the-customer-s-questions?u=76281980&t=52)** Read this email from Victor to [[Agile Development|Agile]] Home Furnishings.
 >
 > **[0:55](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/answer-all-of-the-customer-s-questions?u=76281980&t=55)** Skim it for question mark so you can gather his questions.
 >
@@ -324,7 +318,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/answer-all-of-the-customer-s-questions?u=76281980&t=88)** With these question words in mind, read Jonathan's email to Landon Hotels which has no question marks in it at all.
 >
-> **[1:36](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/answer-all-of-the-customer-s-questions?u=76281980&t=96)** Notice the sentences that start with a question word but don't end with a question mark.
+> **[1:36](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/answer-all-of-the-customer-s-questions?u=76281980&t=96)** Notice the sentences that start with a question [[Microsoft Word|word]] but don't end with a question mark.
 >
 > **[1:42](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/answer-all-of-the-customer-s-questions?u=76281980&t=102)** Those are the sentences you'll have to convert to a question in your head so you can write a complete reply.
 >
@@ -365,8 +359,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - all (1)
 
-#### Answer difficult questions confidently
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/answer-difficult-questions-confidently?u=76281980)
+#### [Answer difficult questions confidently](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/answer-difficult-questions-confidently?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -444,14 +437,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - life (1)
 
-#### Challenge: Answer a difficult question
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/challenge-answer-a-difficult-question?u=76281980)
+#### [Challenge: Answer a difficult question](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/challenge-answer-a-difficult-question?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -479,8 +470,7 @@ created: 2026-05-02
 > **Speakers:** - in (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Answer a difficult question
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/solution-answer-a-difficult-question?u=76281980)
+#### [Solution: Answer a difficult question](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/solution-answer-a-difficult-question?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -514,8 +504,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explain your process to the customer
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/explain-your-process-to-the-customer?u=76281980)
+#### [Explain your process to the customer](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/explain-your-process-to-the-customer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -581,15 +570,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), business (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - sometimes (1)
 
-#### Paraphrase the customer's situation
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/paraphrase-the-customer-s-situation?u=76281980)
+#### [Paraphrase the customer's situation](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/paraphrase-the-customer-s-situation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -655,7 +642,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2)
 > **CLI Commands:** find (1), make (1)
 > **Best Practices:** best practice (2)
 > **Exercise Files:** download the (1)
@@ -664,8 +650,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - you (1)
 
-#### Acknowledge the customer's feelings
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/acknowledge-the-customer-s-feelings?u=76281980)
+#### [Acknowledge the customer's feelings](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/acknowledge-the-customer-s-feelings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -711,7 +696,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/acknowledge-the-customer-s-feelings?u=76281980&t=123)** Rapport is a feeling of closeness, of mutual trust and respect.
 >
-> **[2:08](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/acknowledge-the-customer-s-feelings?u=76281980&t=128)** When customers feel rapport with our company, they're more likely to accept our answers and spend more money on our products and services.
+> **[2:08](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/acknowledge-the-customer-s-feelings?u=76281980&t=128)** When customers feel rapport with our company, they're more likely to accept our answers and spend more money on our [[Microsoft Products|products]] and services.
 >
 > **[2:15](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/acknowledge-the-customer-s-feelings?u=76281980&t=135)** So let's say a customer writes, "I'm disappointed that the ceramic travel mug I bought from you doesn't keep my coffee warm at all."
 >
@@ -731,7 +716,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/acknowledge-the-customer-s-feelings?u=76281980&t=181)** So how should you acknowledge extreme feelings?
 >
-> **[3:04](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/acknowledge-the-customer-s-feelings?u=76281980&t=184)** Think of the paint strip at the hardware store that shows five or six shades of the same color.
+> **[3:04](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/acknowledge-the-customer-s-feelings?u=76281980&t=184)** Think of the paint strip at the [[Hardware]] store that shows five or six shades of the same color.
 >
 > **[3:10](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/acknowledge-the-customer-s-feelings?u=76281980&t=190)** The lightest shade is at the top and the darkest shade is at the bottom.
 >
@@ -761,14 +746,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (3), [[Microsoft Products|Products]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Hardware]] (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - when (1)
 
-#### Challenge: Demonstrate you've read the customer's email
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/challenge-demonstrate-you-ve-read-the-customer-s-email?u=76281980)
+#### [Challenge: Demonstrate you've read the customer's email](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/challenge-demonstrate-you-ve-read-the-customer-s-email?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -788,13 +772,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Speakers:** - in (1)
 > **Non-Speech:** (bright, upbeat music) (1)
 
-#### Solution: Demonstrate you've read the customer's email
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/solution-demonstrate-you-ve-read-the-customer-s-email?u=76281980)
+#### [Solution: Demonstrate you've read the customer's email](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/solution-demonstrate-you-ve-read-the-customer-s-email?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -810,7 +792,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/solution-demonstrate-you-ve-read-the-customer-s-email?u=76281980&t=26)** I've put the ideas from my planning sheet in blue.
 >
-> **[0:29](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/solution-demonstrate-you-ve-read-the-customer-s-email?u=76281980&t=29)** I acknowledge the customer's feelings, though she didn't use the word frustrated, her sarcastic comments show that she was frustrated.
+> **[0:29](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/solution-demonstrate-you-ve-read-the-customer-s-email?u=76281980&t=29)** I acknowledge the customer's feelings, though she didn't use the [[Microsoft Word|word]] frustrated, her sarcastic comments show that she was frustrated.
 >
 > **[0:38](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/solution-demonstrate-you-ve-read-the-customer-s-email?u=76281980&t=38)** I explained my process.
 >
@@ -831,8 +813,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use personal pronouns
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/use-personal-pronouns?u=76281980)
+#### [Use personal pronouns](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/use-personal-pronouns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -868,7 +849,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/use-personal-pronouns?u=76281980&t=78)** Great customer service email writers use grammar for effect.
 >
-> **[1:23](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/use-personal-pronouns?u=76281980&t=83)** Pronouns are the type of word that represents people, so when you want to convey that caring people like you are getting things done for other people like customers, use pronouns.
+> **[1:23](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/use-personal-pronouns?u=76281980&t=83)** Pronouns are the type of [[Microsoft Word|word]] that represents people, so when you want to convey that caring people like you are getting things done for other people like customers, use pronouns.
 >
 > **[1:35](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/use-personal-pronouns?u=76281980&t=95)** Some companies choose a no pronouns formal writing style.
 >
@@ -882,7 +863,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/use-personal-pronouns?u=76281980&t=123)** Dear Jane, thanks for taking the time to contact ABC Pharma about the difficulty of opening the Relief Anytime package.
 >
-> **[2:11](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/use-personal-pronouns?u=76281980&t=131)** Please be assured that these comments will be shared with the product development team.
+> **[2:11](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/use-personal-pronouns?u=76281980&t=131)** Please be assured that these comments will be shared with the [[Product Development]] team.
 >
 > **[2:15](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/use-personal-pronouns?u=76281980&t=135)** Feedback is vital to continuous improvement efforts.
 >
@@ -894,7 +875,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/use-personal-pronouns?u=76281980&t=163)** We will share your comments about the cap with our product development team.
 >
-> **[2:48](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/use-personal-pronouns?u=76281980&t=168)** Your feedback is vital to our efforts to improve our products.
+> **[2:48](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/use-personal-pronouns?u=76281980&t=168)** Your feedback is vital to our efforts to improve our [[Microsoft Products|products]].
 >
 > **[2:52](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/use-personal-pronouns?u=76281980&t=172)** If you have any additional comments, please reply to us here or contact our customer care team at 1-800-123-4567.
 >
@@ -933,8 +914,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - you (1)
 
-#### Make your writing more like speaking
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/make-your-writing-more-like-speaking?u=76281980)
+#### [Make your writing more like speaking](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/make-your-writing-more-like-speaking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1034,7 +1014,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), business (1)
 > **CLI Commands:** make (4), find (3)
 > **Versions:** version 9 (2)
 > **Env Vars:** abc (1)
@@ -1047,8 +1026,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### When and how to apologize
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/when-and-how-to-apologize?u=76281980)
+#### [When and how to apologize](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/when-and-how-to-apologize?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1128,13 +1106,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), product (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
 
-#### What to write after you apologize
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/what-to-write-after-you-apologize?u=76281980)
+#### [What to write after you apologize](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/what-to-write-after-you-apologize?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1182,13 +1158,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), product (1)
 > **Env Vars:** sms (1)
 > **Analogies:** for example (1)
 > **Speakers:** - you (1)
 
-#### Avoid insincere wording
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/avoid-insincere-wording?u=76281980)
+#### [Avoid insincere wording](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/avoid-insincere-wording?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1216,7 +1190,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/avoid-insincere-wording?u=76281980&t=69)** "We regret." Do we really regret this?
 >
-> **[1:13](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/avoid-insincere-wording?u=76281980&t=73)** Regret is a fussy, formal word.
+> **[1:13](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/avoid-insincere-wording?u=76281980&t=73)** Regret is a fussy, formal [[Microsoft Word|word]].
 >
 > **[1:16](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/avoid-insincere-wording?u=76281980&t=76)** "Any inconvenience." These words just aren't sincere.
 >
@@ -1273,8 +1247,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - remember (1)
 
-#### When to empathize
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/when-to-empathize?u=76281980)
+#### [When to empathize](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/when-to-empathize?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1368,7 +1341,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), next (1)
 > **CLI Commands:** find (1)
 > **Versions:** 3.99 (1)
 > **Exercise Files:** download the (1)
@@ -1376,8 +1348,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Write an apology email
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/challenge-write-an-apology-email?u=76281980)
+#### [Challenge: Write an apology email](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/challenge-write-an-apology-email?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1385,7 +1356,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/challenge-write-an-apology-email?u=76281980&t=13)** These writing skills are so important because saying I'm sorry, or I understand how you feel is often all we can offer our customers.
 >
-> **[0:21](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/challenge-write-an-apology-email?u=76281980&t=21)** But as Elton John says, "sorry seems to be the hardest word.
+> **[0:21](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/challenge-write-an-apology-email?u=76281980&t=21)** But as Elton [[John the Ripper|John]] says, "sorry seems to be the hardest [[Microsoft Word|word]].
 >
 > **[0:26](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/challenge-write-an-apology-email?u=76281980&t=26)** So I'm going to challenge you to practice what you've learned by writing a sincere reply to an upset customer.
 >
@@ -1401,13 +1372,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1), [[Microsoft Word|Word]] (1)
 > **Exercise Files:** download the (1), exercise files (1)
 > **Speakers:** - in (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Write an apology email
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/solution-write-an-apology-email?u=76281980)
+#### [Solution: Write an apology email](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/solution-write-an-apology-email?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1439,7 +1409,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Speakers:** - so (1)
 > **Non-Speech:** (upbeat lively music) (1)
 
@@ -1448,8 +1417,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use the template as a starting point
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/use-the-template-as-a-starting-point?u=76281980)
+#### [Use the template as a starting point](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/use-the-template-as-a-starting-point?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1531,15 +1499,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), next (1), generic (1)
 > **Exercise Files:** template (13)
 > **CLI Commands:** make (5)
 > **Best Practices:** best practice (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - you (1)
 
-#### Make templates customizable
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/make-templates-customizable?u=76281980)
+#### [Make templates customizable](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/make-templates-customizable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1613,7 +1579,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), database (1)
 > **Exercise Files:** template (8), boilerplate (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is an  (2)
@@ -1622,8 +1587,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - when (1)
 
-#### Build rapport
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/build-rapport?u=76281980)
+#### [Build rapport](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/build-rapport?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1639,7 +1603,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/build-rapport?u=76281980&t=34)** The trick to writing a great opening sentence is to free text half of it.
 >
-> **[0:39](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/build-rapport?u=76281980&t=39)** That means that while you may use the same templated sentence to start every email, you'll write much of the rest from scratch.
+> **[0:39](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/build-rapport?u=76281980&t=39)** That means that while you may use the same templated sentence to start every email, you'll write much of the [[Representational State Transfer (REST)|rest]] from scratch.
 >
 > **[0:46](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/build-rapport?u=76281980&t=46)** Here's how this works, instead of just writing thank you for contacting us, add a few words of free text that briefly mentioned what the customer wrote about.
 >
@@ -1657,7 +1621,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/build-rapport?u=76281980&t=100)** You want to close your email in a sincere, specific way because it's your last shot at your customer's attention.
 >
-> **[1:47](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/build-rapport?u=76281980&t=107)** Please do not hesitate to contact us again about your auto loan or any other banking issue at CustomerService@[GlobeBank.com](https://GlobeBank.com) or 800 555 4567.
+> **[1:47](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/build-rapport?u=76281980&t=107)** Please do not hesitate to contact us again about your auto loan or any other [[Banking]] issue at CustomerService@[GlobeBank.com](https://GlobeBank.com) or 800 555 4567.
 >
 > **[1:59](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/build-rapport?u=76281980&t=119)** We sincerely appreciate your business and hope you enjoyed your extended timeshare rental in Orlando in January.
 >
@@ -1675,14 +1639,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Banking]] (1), business (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Banking]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **URLs:** [globebank.com](https://globebank.com) (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - first (1)
 
-#### Challenge: Use a template to write a customized reply
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/challenge-use-a-template-to-write-a-customized-reply?u=76281980)
+#### [Challenge: Use a template to write a customized reply](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/challenge-use-a-template-to-write-a-customized-reply?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1704,13 +1667,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **Exercise Files:** template (3), download the (1)
 > **Speakers:** - you (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Use a template to write a customized reply
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/solution-use-a-template-to-write-a-customized-reply?u=76281980)
+#### [Solution: Use a template to write a customized reply](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/solution-use-a-template-to-write-a-customized-reply?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1748,7 +1709,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **Exercise Files:** template (7)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1760,8 +1720,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue to sharpen customer service email skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/continue-to-sharpen-customer-service-email-skills?u=76281980)
+#### [Continue to sharpen customer service email skills](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/continue-to-sharpen-customer-service-email-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1797,7 +1756,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/continue-to-sharpen-customer-service-email-skills?u=76281980&t=61)** I hope we'll stay in touch.
 >
-> **[1:03](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/continue-to-sharpen-customer-service-email-skills?u=76281980&t=63)** Start by joining me for my monthly office hours on LinkedIn Live.
+> **[1:03](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/continue-to-sharpen-customer-service-email-skills?u=76281980&t=63)** Start by joining me for my monthly [[Microsoft Office|office]] hours on [[LinkedIn]] Live.
 >
 > **[1:07](https://www.linkedin.com/learning/writing-customer-service-emails-22379835/continue-to-sharpen-customer-service-email-skills?u=76281980&t=67)** Visit my website to download white papers on writing great emails and live chats or subscribe to my newsletter, which gives you monthly tips about writing well.
 >
@@ -1809,7 +1768,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), next (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Microsoft Office|Office]] (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is called (1)
 > **Speakers:** - congratulations (1)

@@ -73,34 +73,32 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Putting kanban to work in your development team
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/putting-kanban-to-work-in-your-development-team?u=76281980)
+#### [Putting kanban to work in your development team](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/putting-kanban-to-work-in-your-development-team?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/putting-kanban-to-work-in-your-development-team?u=76281980&t=0)** - [Harrison] Hi I'm Harrison Ferrone and I'd like to welcome you to Kanban for Developers.
 >
-> **[0:06](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/putting-kanban-to-work-in-your-development-team?u=76281980&t=6)** By day I am a software developer and certified scrum master, by night you can find me writing and editing technical manuscripts or creating instructional content.
+> **[0:06](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/putting-kanban-to-work-in-your-development-team?u=76281980&t=6)** By day I am a software developer and certified [[Scrum]] master, by night you can find me writing and editing technical manuscripts or creating instructional content.
 >
-> **[0:16](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/putting-kanban-to-work-in-your-development-team?u=76281980&t=16)** In this course we'll be taking a tour of Lean Thinking, Kanban Principles, and the Kanban process itself through Trello, a popular, free to use Kanban board tool.
+> **[0:16](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/putting-kanban-to-work-in-your-development-team?u=76281980&t=16)** In this course we'll be taking a tour of Lean Thinking, Kanban Principles, and the Kanban process itself through [[Trello]], a popular, free to use Kanban board tool.
 >
 > **[0:27](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/putting-kanban-to-work-in-your-development-team?u=76281980&t=27)** Since this course is developer focused we'll start with a basic setup and gradually improve our development process with each principle we discuss.
 >
-> **[0:37](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/putting-kanban-to-work-in-your-development-team?u=76281980&t=37)** By the end of this course you'll be ready to up the efficiency of your Agile development process, avoid common Kanban pitfalls, and bring out your teams best work.
+> **[0:37](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/putting-kanban-to-work-in-your-development-team?u=76281980&t=37)** By the end of this course you'll be ready to up the efficiency of your [[Agile Development|Agile]] development process, avoid common Kanban pitfalls, and bring out your teams best work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (1), [[Trello]] (1), [[Agile Development|Agile]] (1), teams (1)
+> **Frameworks & Libraries:** [[Scrum]] (1), [[Trello]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [harrison] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/what-you-should-know?u=76281980&t=0)** - [Instructor] Before starting out, you should be familiar with the basics of [[Agile Software Development]] and Scrum.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/what-you-should-know?u=76281980&t=0)** - [Instructor] Before starting out, you should be familiar with the basics of [[[[Agile Software Development]]]] and [[Scrum]].
 >
 > **[0:07](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/what-you-should-know?u=76281980&t=7)** If you need a refresher or are just diving in, our [[Agile Software Development]] and Scrum: Basics courses are a great place to get up to speed.
 >
@@ -110,7 +108,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Software Development]] (2), [[Scrum]] (2), application (1)
+> **Frameworks & Libraries:** [[Agile Software Development]] (2), [[Scrum]] (2)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
@@ -119,8 +117,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The lean mindset
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/the-lean-mindset?u=76281980)
+#### [The lean mindset](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/the-lean-mindset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -128,7 +125,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/the-lean-mindset?u=76281980&t=6)** A mindset called lean thinking.
 >
-> **[0:08](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/the-lean-mindset?u=76281980&t=8)** The key difference between lean thinking and Scrum or other agile practices is that the lean mindset is not an actual methodology.
+> **[0:08](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/the-lean-mindset?u=76281980&t=8)** The key difference between lean thinking and [[Scrum]] or other [[Agile Development|agile]] practices is that the lean mindset is not an actual methodology.
 >
 > **[0:17](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/the-lean-mindset?u=76281980&t=17)** Instead of a checklist of actions or events to follow, it has values that can help us understand the Kanban process.
 >
@@ -138,7 +135,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/the-lean-mindset?u=76281980&t=49)** A few of these should look familiar to you as they take their queues from Scrum and extreme programming principles.
 >
-> **[0:55](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/the-lean-mindset?u=76281980&t=55)** Let's take a closer look at each value and see if we can get a clearer picture of how they fit in the software development.
+> **[0:55](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/the-lean-mindset?u=76281980&t=55)** Let's take a closer look at each value and see if we can get a clearer picture of how they fit in the [[Software Development]].
 >
 > **[1:02](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/the-lean-mindset?u=76281980&t=62)** Eliminating waste is exactly what it sounds like.
 >
@@ -168,7 +165,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/the-lean-mindset?u=76281980&t=138)** Delivering as fast as possible is sort of a no-brainer.
 >
-> **[2:21](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/the-lean-mindset?u=76281980&t=141)** We all want to get something shipped so customers can start using our products.
+> **[2:21](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/the-lean-mindset?u=76281980&t=141)** We all want to get something shipped so customers can start using our [[Microsoft Products|products]].
 >
 > **[2:26](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/the-lean-mindset?u=76281980&t=146)** The rub is that this often leads to forced marches, late nights, and a lot of overtime which takes away from team morale and product quality in a big way.
 >
@@ -192,14 +189,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), teams (3), [[Scrum]] (2), [[Software Development]] (2), management (2)
+> **Frameworks & Libraries:** [[Scrum]] (2), [[Software Development]] (2), [[Microsoft Products|Products]] (2), [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [narrator] (1)
 
-#### Kanban principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/kanban-principles?u=76281980)
+#### [Kanban principles](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/kanban-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -249,7 +245,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/kanban-principles?u=76281980&t=148)** If it can't tell me how to development software or even manage my project?
 >
-> **[2:33](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/kanban-principles?u=76281980&t=153)** The answer is usually another set of questions starting with how much value your products are really delivering?
+> **[2:33](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/kanban-principles?u=76281980&t=153)** The answer is usually another set of questions starting with how much value your [[Microsoft Products|products]] are really delivering?
 >
 > **[2:40](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/kanban-principles?u=76281980&t=160)** Is the delivered value what was asked for?
 >
@@ -263,13 +259,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), leadership (2), application (1), teams (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Definitions:** is called (1), is an  (1)
 > **Analogies:** picture (1), just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Core practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/core-practices?u=76281980)
+#### [Core practices](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/core-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -283,7 +278,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/core-practices?u=76281980&t=35)** Limiting work in progress is a fancy way of giving development teams the opportunity to set a cap on the number of active work items.
 >
-> **[0:43](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/core-practices?u=76281980&t=43)** Work items are the units of measurement used in Kanban, just like user stories are used in scrum.
+> **[0:43](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/core-practices?u=76281980&t=43)** Work items are the units of measurement used in Kanban, just like user stories are used in [[Scrum]].
 >
 > **[0:50](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/core-practices?u=76281980&t=50)** We'll discuss these in detail in the next few videos.
 >
@@ -313,7 +308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), next (2), product (2), [[Scrum]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -325,14 +320,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Demo overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/demo-overview?u=76281980)
+#### [Demo overview](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/demo-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/demo-overview?u=76281980&t=0)** - [Instructor] The Kanban board we'll be building up in Trello, is for a fictional video-chat mobile application called FaceTalk.
+> **[0:00](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/demo-overview?u=76281980&t=0)** - [Instructor] The Kanban board we'll be building up in [[Trello]], is for a fictional video-chat mobile application called FaceTalk.
 >
-> **[0:08](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/demo-overview?u=76281980&t=8)** The FaceTalk team have used scrum in the past but they keep delivering software late so they've decided to see if Kanban can increase their efficiency.
+> **[0:08](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/demo-overview?u=76281980&t=8)** The FaceTalk team have used [[Scrum]] in the past but they keep delivering software late so they've decided to see if Kanban can increase their efficiency.
 >
 > **[0:16](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/demo-overview?u=76281980&t=16)** They're a close-knit team, so getting everyone on board shouldn't be a problem.
 >
@@ -422,7 +416,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Trello]] (4), [[Scrum]] (4), hit (3), next (2), mobile application (1)
+> **Frameworks & Libraries:** [[Trello]] (4), [[Scrum]] (4)
 > **Analogies:** just like (1), picture (1), similar to (1)
 > **Prerequisites:** set up (2)
 > **URLs:** [trello.com](https://trello.com) (1)
@@ -430,8 +424,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/project-visualization?u=76281980)
+#### [Project visualization](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/project-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -453,7 +446,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/project-visualization?u=76281980&t=45)** If you want, you can include the estimated work versus wait time for each step, which results in a value string map.
 >
-> **[0:52](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/project-visualization?u=76281980&t=52)** In Agile, this small feature is called a minimum marketable feature, or MMF for short.
+> **[0:52](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/project-visualization?u=76281980&t=52)** In [[Agile Development|Agile]], this small feature is called a minimum marketable feature, or MMF for short.
 >
 > **[0:59](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/project-visualization?u=76281980&t=59)** For Face Talk, we're going to assume that push notifications is already completed, and use that as our MMF.
 >
@@ -473,7 +466,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/project-visualization?u=76281980&t=118)** Done is going to be release.
 >
-> **[2:01](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/project-visualization?u=76281980&t=121)** And let's see, we need to add in a new column for code review.
+> **[2:01](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/project-visualization?u=76281980&t=121)** And let's see, we need to add in a new column for [[Code Review]].
 >
 > **[2:08](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/project-visualization?u=76281980&t=128)** And one last one for validate.
 >
@@ -495,20 +488,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (4), feature (3), [[Agile Development|Agile]] (1), teams (1)
+> **Frameworks & Libraries:** [[Code Review]] (4), [[Agile Development|Agile]] (1)
 > **Env Vars:** mmf (2)
 > **Definitions:** is called (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Limit work in progress
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/limit-work-in-progress?u=76281980)
+#### [Limit work in progress](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/limit-work-in-progress?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/limit-work-in-progress?u=76281980&t=0)** - [Instructor] Limiting work in progress is not so much about modifying the Kanban board, as it is about making a decision as a team.
 >
-> **[0:08](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/limit-work-in-progress?u=76281980&t=8)** If you can't all agree on the amount of work that can be done at a sustainable pace and stick to it in the face of deadlines and managers who might not understand software development, then other Kanban practices won't be much help.
+> **[0:08](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/limit-work-in-progress?u=76281980&t=8)** If you can't all agree on the amount of work that can be done at a sustainable pace and stick to it in the face of deadlines and managers who might not understand [[Software Development]], then other Kanban practices won't be much help.
 >
 > **[0:21](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/limit-work-in-progress?u=76281980&t=21)** I'll harp on this again and again until it becomes a mantra for you.
 >
@@ -528,7 +520,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/limit-work-in-progress?u=76281980&t=78)** Addressing this is as simple as meeting with the testers or the code reviewers and agreeing to a feasible amount of work at a given time.
 >
-> **[1:27](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/limit-work-in-progress?u=76281980&t=87)** For example, we could go into our Code Review column title and just click into it, add a colon, we'll say WIP, which stands for work in progress, Max is five.
+> **[1:27](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/limit-work-in-progress?u=76281980&t=87)** For example, we could go into our [[Code Review]] column title and just click into it, add a colon, we'll say WIP, which stands for work in progress, Max is five.
 >
 > **[1:40](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/limit-work-in-progress?u=76281980&t=100)** Now this means that if there is a sixth feature ready to go and build, it has to wait.
 >
@@ -546,14 +538,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[Code Review]] (2), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Code Review]] (2), [[Software Development]] (1)
 > **Definitions:** stands for (1), means that (1), is a  (1)
 > **Env Vars:** wip (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/managing-flow?u=76281980)
+#### [Managing flow](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/managing-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -579,7 +570,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/managing-flow?u=76281980&t=67)** With the done layer getting bigger and bigger as more work items are finished and released.
 >
-> **[1:11](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/managing-flow?u=76281980&t=71)** Now like any good data collection tool, CFDs can help predict behavior.
+> **[1:11](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/managing-flow?u=76281980&t=71)** Now like any good [[Data Collection]] tool, CFDs can help predict behavior.
 >
 > **[1:18](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/managing-flow?u=76281980&t=78)** If you start to see a trend where only one layer is getting disproportionately wider than the others, that column has too many work items going in but almost none going out.
 >
@@ -603,7 +594,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
+> **Frameworks & Libraries:** [[Data Collection]] (1)
 > **Env Vars:** cfd (4)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -613,8 +604,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Handling process policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/handling-process-policies?u=76281980)
+#### [Handling process policies](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/handling-process-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -646,7 +636,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/handling-process-policies?u=76281980&t=95)** This is usually called an item's definition of done, or a column's, and can be added directly in the board.
 >
-> **[1:43](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/handling-process-policies?u=76281980&t=103)** Since we've already edited our code review column, I'm just going to add another card here.
+> **[1:43](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/handling-process-policies?u=76281980&t=103)** Since we've already edited our [[Code Review]] column, I'm just going to add another card here.
 >
 > **[1:47](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/handling-process-policies?u=76281980&t=107)** And this isn't going to be a work item.
 >
@@ -672,13 +662,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (1), teams (1), management (1)
+> **Frameworks & Libraries:** [[Code Review]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Improve and evolve
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/improve-and-evolve?u=76281980)
+#### [Improve and evolve](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/improve-and-evolve?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -712,14 +701,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Avoiding bad kanban
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/avoiding-bad-kanban?u=76281980)
+#### [Avoiding bad kanban](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/avoiding-bad-kanban?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -735,7 +722,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/avoiding-bad-kanban?u=76281980&t=34)** Let's put our Build column's work in progress max to one and let's also change our Code Reviews max to one.
 >
-> **[0:45](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/avoiding-bad-kanban?u=76281980&t=45)** Now, this is great because there really won't ever be a bottleneck in Code Review anymore.
+> **[0:45](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/avoiding-bad-kanban?u=76281980&t=45)** Now, this is great because there really won't ever be a bottleneck in [[Code Review]] anymore.
 >
 > **[0:51](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/avoiding-bad-kanban?u=76281980&t=51)** There only will be allowed one in there at a time.
 >
@@ -839,7 +826,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (10), product (1)
+> **Frameworks & Libraries:** [[Code Review]] (10)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is a  (1)
 > **Cross-References:** go back to (1)
@@ -851,28 +838,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/next-steps?u=76281980&t=0)** - [Instructor] At this point you've worked with the principles and practices of Kanban in a practical, if fictional, environment and applied Lean thinking in the process.
 >
-> **[0:10](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/next-steps?u=76281980&t=10)** I want to thank you for joining me for this course and give you a little send off with a few learning resources that can take your Agile and Kanban knowledge to the next level.
+> **[0:10](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/next-steps?u=76281980&t=10)** I want to thank you for joining me for this course and give you a little send off with a few learning resources that can take your [[Agile Development|Agile]] and Kanban knowledge to the next level.
 >
 > **[0:19](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/next-steps?u=76281980&t=19)** I mentioned Stay Lean with Kanban at the beginning of the course as an optional prerequisite, but if you haven't checked it out already I'd highly recommend you do after this.
 >
-> **[0:29](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/next-steps?u=76281980&t=29)** For another developer-centric take Scrum for Developers has you covered.
+> **[0:29](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/next-steps?u=76281980&t=29)** For another developer-centric take [[Scrum]] for Developers has you covered.
 >
 > **[0:34](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/next-steps?u=76281980&t=34)** If you're looking for tips and tricks for Agile at large, visit me again in Agile Development Practices.
 >
-> **[0:41](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/next-steps?u=76281980&t=41)** Lastly if the written word is more your speed, you can't go wrong with David Anderson's book, Kanban: Successful Evolutionary Change for your Technology Business.
+> **[0:41](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/next-steps?u=76281980&t=41)** Lastly if the written [[Microsoft Word|word]] is more your speed, you can't go wrong with David Anderson's book, Kanban: Successful Evolutionary Change for your Technology Business.
 >
 > **[0:51](https://www.linkedin.com/learning/agile-software-development-kanban-for-developers-2019/next-steps?u=76281980&t=51)** As always happy coding.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), next (1), [[Scrum]] (1), [[Microsoft Word|Word]] (1), business (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[Scrum]] (1), [[Microsoft Word|Word]] (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - [instructor] (1)
 

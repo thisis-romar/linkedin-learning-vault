@@ -67,14 +67,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Slither into advanced core Python code challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-python/slither-into-advanced-core-python-code-challenges?u=76281980)
+#### [Slither into advanced core Python code challenges](https://www.linkedin.com/learning/level-up-advanced-python/slither-into-advanced-core-python-code-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/level-up-advanced-python/slither-into-advanced-core-python-code-challenges?u=76281980&t=0)** (electronic music)
 >
-> **[0:06](https://www.linkedin.com/learning/level-up-advanced-python/slither-into-advanced-core-python-code-challenges?u=76281980&t=6)** - [Johnathon] Welcome to Level Up, Advanced Python Code Challenges.
+> **[0:06](https://www.linkedin.com/learning/level-up-advanced-python/slither-into-advanced-core-python-code-challenges?u=76281980&t=6)** - [Johnathon] Welcome to Level Up, Advanced [[Python (Programming Language)|Python]] Code Challenges.
 >
 > **[0:09](https://www.linkedin.com/learning/level-up-advanced-python/slither-into-advanced-core-python-code-challenges?u=76281980&t=9)** You're probably wondering how do you even define what makes the cut for something to be considered advanced Python?
 >
@@ -104,21 +103,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (1), ai (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5)
 > **Non-Speech:** (electronic music) (1), (electronic chime) (1)
 > **Speakers:** - [johnathon] (1)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-python/using-github-codespaces-with-this-course?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/level-up-advanced-python/using-github-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/level-up-advanced-python/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Ray] This is Ray Villalobos, senior staff instructor at LinkedIn Learning, and I'm going to show you how to work with LinkedIn Learning courses using GitHub Codespaces.
+> **[0:00](https://www.linkedin.com/learning/level-up-advanced-python/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Ray] This is Ray Villalobos, senior staff instructor at [[LinkedIn]] Learning, and I'm going to show you how to work with LinkedIn Learning courses using [[GitHub]] [[Codespaces]].
 >
 > **[0:09](https://www.linkedin.com/learning/level-up-advanced-python/using-github-codespaces-with-this-course?u=76281980&t=9)** Codespaces is a code editor in the cloud with the full power of Visual Studio Code.
 >
-> **[0:14](https://www.linkedin.com/learning/level-up-advanced-python/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real world hands on practice that mirrors software development in the workplace.
+> **[0:14](https://www.linkedin.com/learning/level-up-advanced-python/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real world hands on practice that mirrors [[Software Development]] in the workplace.
 >
 > **[0:19](https://www.linkedin.com/learning/level-up-advanced-python/using-github-codespaces-with-this-course?u=76281980&t=19)** This course was created using GitHub Codespaces.
 >
@@ -188,7 +186,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/level-up-advanced-python/using-github-codespaces-with-this-course?u=76281980&t=195)** As you work through a course, you might make some changes on a branch.
 >
-> **[3:19](https://www.linkedin.com/learning/level-up-advanced-python/using-github-codespaces-with-this-course?u=76281980&t=199)** I'm going to make a minor edit on the index.html file right here.
+> **[3:19](https://www.linkedin.com/learning/level-up-advanced-python/using-github-codespaces-with-this-course?u=76281980&t=199)** I'm going to make a minor edit on the index.[[HTML]] file right here.
 >
 > **[3:27](https://www.linkedin.com/learning/level-up-advanced-python/using-github-codespaces-with-this-course?u=76281980&t=207)** I'm going to go ahead and save that, and you can see that I've modified this file because there's an M right here and the branch name now has an asterisk on it.
 >
@@ -230,7 +228,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/level-up-advanced-python/using-github-codespaces-with-this-course?u=76281980&t=332)** I'll hit okay.
 >
-> **[5:34](https://www.linkedin.com/learning/level-up-advanced-python/using-github-codespaces-with-this-course?u=76281980&t=334)** You can also let it go ahead and run git fetch.
+> **[5:34](https://www.linkedin.com/learning/level-up-advanced-python/using-github-codespaces-with-this-course?u=76281980&t=334)** You can also let it go ahead and run [[Git]] [[Fetch]].
 >
 > **[5:37](https://www.linkedin.com/learning/level-up-advanced-python/using-github-codespaces-with-this-course?u=76281980&t=337)** That way, it'll automatically sync with your forked repo.
 >
@@ -246,7 +244,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), [[LinkedIn]] (2), [[Software Development]] (1), [[HTML]] (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (3), go to (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
@@ -260,8 +258,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Find a runner’s average race time
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-python/find-a-runner-s-average-race-time?u=76281980)
+#### [Find a runner’s average race time](https://www.linkedin.com/learning/level-up-advanced-python/find-a-runner-s-average-race-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -347,29 +344,28 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/level-up-advanced-python/find-a-runner-s-average-race-time?u=76281980&t=226)** Now, just so you know, if you just post your code in the Q&A section as plain text, it won't be formatted, and so it'll be difficult to read.
 >
-> **[3:53](https://www.linkedin.com/learning/level-up-advanced-python/find-a-runner-s-average-race-time?u=76281980&t=233)** You might want to post the link to your code snippet using something like github gist instead.
+> **[3:53](https://www.linkedin.com/learning/level-up-advanced-python/find-a-runner-s-average-race-time?u=76281980&t=233)** You might want to post the link to your code snippet using something like [[GitHub]] gist instead.
 >
 > **[3:58](https://www.linkedin.com/learning/level-up-advanced-python/find-a-runner-s-average-race-time?u=76281980&t=238)** I'd love to see your answer to this code challenge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Prerequisites:** you'll need (1), install (1)
 > **CLI Commands:** pip (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
-#### HTML to markdown converter
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-python/html-to-markdown-converter?u=76281980)
+#### [HTML to markdown converter](https://www.linkedin.com/learning/level-up-advanced-python/html-to-markdown-converter?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/level-up-advanced-python/html-to-markdown-converter?u=76281980&t=0)** (energetic music)
 >
-> **[0:03](https://www.linkedin.com/learning/level-up-advanced-python/html-to-markdown-converter?u=76281980&t=3)** - [Instructor] In this challenge, we're going to convert text from HTML to Markdown.
+> **[0:03](https://www.linkedin.com/learning/level-up-advanced-python/html-to-markdown-converter?u=76281980&t=3)** - [Instructor] In this challenge, we're going to convert text from [[HTML]] to Markdown.
 >
-> **[0:09](https://www.linkedin.com/learning/level-up-advanced-python/html-to-markdown-converter?u=76281980&t=9)** We're going to implement a small portion of the html2markdown Python package.
+> **[0:09](https://www.linkedin.com/learning/level-up-advanced-python/html-to-markdown-converter?u=76281980&t=9)** We're going to implement a small portion of the html2markdown [[Python (Programming Language)|Python]] package.
 >
 > **[0:14](https://www.linkedin.com/learning/level-up-advanced-python/html-to-markdown-converter?u=76281980&t=14)** So let's go ahead and update html2markdown.py.
 >
@@ -425,7 +421,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/level-up-advanced-python/html-to-markdown-converter?u=76281980&t=181)** Now, just so you know, if you just post your code in the Q&A section as plain text, it won't be formatted, and so it'll be difficult to read.
 >
-> **[3:09](https://www.linkedin.com/learning/level-up-advanced-python/html-to-markdown-converter?u=76281980&t=189)** You might want to post the link to your code snippet using something like GitHub's Gist instead.
+> **[3:09](https://www.linkedin.com/learning/level-up-advanced-python/html-to-markdown-converter?u=76281980&t=189)** You might want to post the link to your code snippet using something like [[GitHub]]'s Gist instead.
 >
 > **[3:14](https://www.linkedin.com/learning/level-up-advanced-python/html-to-markdown-converter?u=76281980&t=194)** I'd love to see your answer to this code challenge.
 
@@ -439,8 +435,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a pairwise offset
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-python/create-a-pairwise-offset?u=76281980)
+#### [Create a pairwise offset](https://www.linkedin.com/learning/level-up-advanced-python/create-a-pairwise-offset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -531,8 +526,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Find a runner’s age at slowest race time
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-python/find-a-runner-s-age-at-slowest-race-time?u=76281980)
+#### [Find a runner’s age at slowest race time](https://www.linkedin.com/learning/level-up-advanced-python/find-a-runner-s-age-at-slowest-race-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -602,21 +596,20 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/level-up-advanced-python/find-a-runner-s-age-at-slowest-race-time?u=76281980&t=188)** Now, just so you know, if you just post your code in the Q and A section as plain text, it won't be formatted, and so it'll be difficult to read.
 >
-> **[3:16](https://www.linkedin.com/learning/level-up-advanced-python/find-a-runner-s-age-at-slowest-race-time?u=76281980&t=196)** You might want to post the link to your code snippet using something like GitHub's Gist instead.
+> **[3:16](https://www.linkedin.com/learning/level-up-advanced-python/find-a-runner-s-age-at-slowest-race-time?u=76281980&t=196)** You might want to post the link to your code snippet using something like [[GitHub]]'s Gist instead.
 >
 > **[3:21](https://www.linkedin.com/learning/level-up-advanced-python/find-a-runner-s-age-at-slowest-race-time?u=76281980&t=201)** I'd love to see your answer to this code challenge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **CLI Commands:** find (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Context managers: Calculator
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-python/context-managers-calculator-24070942?u=76281980)
+#### [Context managers: Calculator](https://www.linkedin.com/learning/level-up-advanced-python/context-managers-calculator-24070942?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -624,7 +617,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/level-up-advanced-python/context-managers-calculator-24070942?u=76281980&t=4)** - [Instructor] In this challenge, we're going to create a context manager called calculator.
 >
-> **[0:09](https://www.linkedin.com/learning/level-up-advanced-python/context-managers-calculator-24070942?u=76281980&t=9)** (screen tinkling) Now, before we get started, let's take a quick refresher of just three examples of errors available in Python.
+> **[0:09](https://www.linkedin.com/learning/level-up-advanced-python/context-managers-calculator-24070942?u=76281980&t=9)** (screen tinkling) Now, before we get started, let's take a quick refresher of just three examples of errors available in [[Python (Programming Language)|Python]].
 >
 > **[0:16](https://www.linkedin.com/learning/level-up-advanced-python/context-managers-calculator-24070942?u=76281980&t=16)** Now, there are loads more, but we'll focus on these for now.
 >
@@ -722,7 +715,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **File Paths:** calculator.py (1)
 > **CLI Commands:** python (1)
 > **Code Identifiers:** exc_types (1)
@@ -731,8 +724,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Get Olympic medals
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-python/get-olympic-medals?u=76281980)
+#### [Get Olympic medals](https://www.linkedin.com/learning/level-up-advanced-python/get-olympic-medals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -806,15 +798,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** get_medals (3), test_medal (1)
 > **Non-Speech:** (8-bit music) (2)
 > **File Paths:** medals.py (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Create an argument checker
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-python/create-an-argument-checker?u=76281980)
+#### [Create an argument checker](https://www.linkedin.com/learning/level-up-advanced-python/create-an-argument-checker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -822,7 +812,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/level-up-advanced-python/create-an-argument-checker?u=76281980&t=4)** - In this challenge, we're going to create an argument checker or arg checker decorator.
 >
-> **[0:08](https://www.linkedin.com/learning/level-up-advanced-python/create-an-argument-checker?u=76281980&t=8)** Now, in Python, version 3.6 type hints were introduced.
+> **[0:08](https://www.linkedin.com/learning/level-up-advanced-python/create-an-argument-checker?u=76281980&t=8)** Now, in [[Python (Programming Language)|Python]], version 3.6 type hints were introduced.
 >
 > **[0:12](https://www.linkedin.com/learning/level-up-advanced-python/create-an-argument-checker?u=76281980&t=12)** This allows you to specify what type an argument is.
 >
@@ -892,13 +882,13 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/level-up-advanced-python/create-an-argument-checker?u=76281980&t=210)** Now, just so you know, if you just post your code in the Q and A section as plain text, it won't be formatted and so it'll be difficult to read.
 >
-> **[3:38](https://www.linkedin.com/learning/level-up-advanced-python/create-an-argument-checker?u=76281980&t=218)** You might want to post the link to your code snippet using something like GitHub's "gist" instead.
+> **[3:38](https://www.linkedin.com/learning/level-up-advanced-python/create-an-argument-checker?u=76281980&t=218)** You might want to post the link to your code snippet using something like [[GitHub]]'s "gist" instead.
 >
 > **[3:43](https://www.linkedin.com/learning/level-up-advanced-python/create-an-argument-checker?u=76281980&t=223)** I'd love to see your answer to this code challenge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), game (1), [[Python (Programming Language)|Python]] (1), next (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[GitHub]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Definitions:** means that (2)
 > **Non-Speech:** (upbeat video game music) (1), (upbeat music) (1)
@@ -907,14 +897,13 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Speakers:** - in (1)
 
-#### Implement a LinkedIn checker
-> [LinkedIn Learning](https://www.linkedin.com/learning/level-up-advanced-python/implement-a-linkedin-checker?u=76281980)
+#### [Implement a LinkedIn checker](https://www.linkedin.com/learning/level-up-advanced-python/implement-a-linkedin-checker?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/level-up-advanced-python/implement-a-linkedin-checker?u=76281980&t=0)** (video game beeps and chimes)
 >
-> **[0:04](https://www.linkedin.com/learning/level-up-advanced-python/implement-a-linkedin-checker?u=76281980&t=4)** - [Narrator] In this challenge, we're going to create a LinkedIn checker for two LinkedIn features, creating a custom URL, and logging in.
+> **[0:04](https://www.linkedin.com/learning/level-up-advanced-python/implement-a-linkedin-checker?u=76281980&t=4)** - [Narrator] In this challenge, we're going to create a [[LinkedIn]] checker for two LinkedIn features, creating a custom URL, and logging in.
 >
 > **[0:11](https://www.linkedin.com/learning/level-up-advanced-python/implement-a-linkedin-checker?u=76281980&t=11)** So let's look at each of these in turn.
 >
@@ -1026,13 +1015,13 @@ created: 2026-05-02
 >
 > **[5:49](https://www.linkedin.com/learning/level-up-advanced-python/implement-a-linkedin-checker?u=76281980&t=349)** Now, just so you know, if you just post your code in the Q and A section as plain text, it won't be formatted, and so it'll be difficult to read.
 >
-> **[5:56](https://www.linkedin.com/learning/level-up-advanced-python/implement-a-linkedin-checker?u=76281980&t=356)** You might want to post the link to your code snippet using something like GitHub's gist instead.
+> **[5:56](https://www.linkedin.com/learning/level-up-advanced-python/implement-a-linkedin-checker?u=76281980&t=356)** You might want to post the link to your code snippet using something like [[GitHub]]'s gist instead.
 >
 > **[6:01](https://www.linkedin.com/learning/level-up-advanced-python/implement-a-linkedin-checker?u=76281980&t=361)** I'd love to see your answer to this code challenge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (8), [[LinkedIn]] (6), game (2), data (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (6), [[GitHub]] (1)
 > **Env Vars:** url (11)
 > **Definitions:** is a  (3), is an  (1), short for (1), means that (1)
 > **File Paths:** specifications.txt (2), linkedin_checker.py (2)

@@ -104,12 +104,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with algorithmic trading and finance
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-started-with-algorithmic-trading-and-finance?u=76281980)
+#### [Getting started with algorithmic trading and finance](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-started-with-algorithmic-trading-and-finance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-started-with-algorithmic-trading-and-finance?u=76281980&t=0)** - Algorithmic trading is a fast growing area in the field of finance and it represents a huge opportunity for new and existing professionals in the space.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-started-with-algorithmic-trading-and-finance?u=76281980&t=0)** - [[Algorithmic Trading]] is a fast growing area in the field of finance and it represents a huge opportunity for new and existing professionals in the space.
 >
 > **[0:09](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-started-with-algorithmic-trading-and-finance?u=76281980&t=9)** Despite what you might think though, algorithmic trading, or algo trading for short, doesn't have to be that complicated, nor does it rely on deep computer programming knowledge.
 >
@@ -119,18 +118,17 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-started-with-algorithmic-trading-and-finance?u=76281980&t=33)** I'm a professor of finance and a frequent consultant in the investments field.
 >
-> **[0:37](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-started-with-algorithmic-trading-and-finance?u=76281980&t=37)** So if you are ready to dive in and learn how to use algo trading to make your life as an investor easier and more profitable, then please join me here on LinkedIn Learning.
+> **[0:37](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-started-with-algorithmic-trading-and-finance?u=76281980&t=37)** So if you are ready to dive in and learn how to use algo trading to make your life as an investor easier and more profitable, then please join me here on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithmic Trading]] (2), [[Programming]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Algorithmic Trading]] (2), [[LinkedIn]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - algorithmic (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -138,9 +136,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/what-you-should-know?u=76281980&t=3)** First of all, I'm going to assume you have some kind of basic knowledge of capital markets, meaning stocks, bonds, currencies, things like that.
 >
-> **[0:10](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/what-you-should-know?u=76281980&t=10)** If you're not familiar with these areas, or if you'd like a refresher, I recommend that you check out the Understanding Capital Markets course here on LinkedIn Learning.
+> **[0:10](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/what-you-should-know?u=76281980&t=10)** If you're not familiar with these areas, or if you'd like a refresher, I recommend that you check out the Understanding Capital Markets course here on [[LinkedIn]] Learning.
 >
-> **[0:20](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/what-you-should-know?u=76281980&t=20)** Similarly, I'm going to assume that you have some kind of basic knowledge of algorithmic trading, at least in theory.
+> **[0:20](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/what-you-should-know?u=76281980&t=20)** Similarly, I'm going to assume that you have some kind of basic knowledge of [[Algorithmic Trading]], at least in theory.
 >
 > **[0:27](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/what-you-should-know?u=76281980&t=27)** If you'd like to learn a little bit more about this area and deepen your knowledge, I recommend my first course on algorithmic trading, which is called Algorithmic Trading and Stocks Essential Training.
 >
@@ -148,24 +146,23 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/what-you-should-know?u=76281980&t=40)** And then finally, it'll be helpful if you have a little bit of knowledge of some sort of programming language, any language will do.
 >
-> **[0:47](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/what-you-should-know?u=76281980&t=47)** All of the software we're going to use throughout this course is cross platform, so it'll work on Windows machines, Apple machines, or just about anything else.
+> **[0:47](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/what-you-should-know?u=76281980&t=47)** All of the software we're going to use throughout this course is cross platform, so it'll work on [[Windows]] machines, Apple machines, or just about anything else.
 >
 > **[0:55](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/what-you-should-know?u=76281980&t=55)** With that said, if you have all these things at hand, you'll be in great shape.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithmic Trading]] (3), [[LinkedIn]] (2), [[Programming]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Algorithmic Trading]] (3), [[LinkedIn]] (2), [[Windows]] (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [narrator] (1)
 
-#### Disclaimer
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/disclaimer?u=76281980)
+#### [Disclaimer](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/disclaimer?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/disclaimer?u=76281980&t=0)** - [Instructor] Disclaimer.
 >
-> **[0:01](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/disclaimer?u=76281980&t=1)** In this course we're going to talk a lot about financial products and financial advice.
+> **[0:01](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/disclaimer?u=76281980&t=1)** In this course we're going to talk a lot about financial [[Microsoft Products|products]] and financial advice.
 >
 > **[0:06](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/disclaimer?u=76281980&t=6)** None of this information that we'll discuss at any point throughout the course, in any of the videos, is intended as financial advice for you or any other specific individual.
 >
@@ -175,7 +172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -183,8 +180,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basics of algo trading
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/basics-of-algo-trading?u=76281980)
+#### [Basics of algo trading](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/basics-of-algo-trading?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -200,11 +196,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/basics-of-algo-trading?u=76281980&t=25)** Well, the reality is humans still play a role in trading.
 >
-> **[0:29](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/basics-of-algo-trading?u=76281980&t=29)** Among other things, humans design algorithms.
+> **[0:29](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/basics-of-algo-trading?u=76281980&t=29)** Among other things, humans design [[Algorithms]].
 >
 > **[0:32](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/basics-of-algo-trading?u=76281980&t=32)** Computers are great at executing the trades, carrying out the strategy that humans have developed.
 >
-> **[0:39](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/basics-of-algo-trading?u=76281980&t=39)** So the role that you should think of for yourself from an algorithmic trading perspective is you are the general that tells all your computer soldiers what to do.
+> **[0:39](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/basics-of-algo-trading?u=76281980&t=39)** So the role that you should think of for yourself from an [[Algorithmic Trading]] perspective is you are the general that tells all your computer soldiers what to do.
 >
 > **[0:49](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/basics-of-algo-trading?u=76281980&t=49)** That means that you need to be familiar with how the markets work and how to develop those algorithmic trading strategies.
 >
@@ -246,7 +242,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/basics-of-algo-trading?u=76281980&t=151)** These factors are critical in putting together an effective algorithmic trading strategy.
 >
-> **[2:37](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/basics-of-algo-trading?u=76281980&t=157)** Now, algorithmic trading, or algo trading for short, essentially comes in two flavors: Market making and data mining.
+> **[2:37](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/basics-of-algo-trading?u=76281980&t=157)** Now, algorithmic trading, or algo trading for short, essentially comes in two flavors: Market making and [[Data Mining]].
 >
 > **[2:44](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/basics-of-algo-trading?u=76281980&t=164)** Market making trades are attempting to capitalize on what's called the bid-ask spread.
 >
@@ -262,18 +258,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithmic Trading]] (8), data (6), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithmic Trading]] (8), [[Data Mining]] (2), [[Algorithms]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Market making with algos
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/market-making-with-algos?u=76281980)
+#### [Market making with algos](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/market-making-with-algos?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/market-making-with-algos?u=76281980&t=0)** - [Instructor] One of the two major types of algorithmic trading is what's called market making.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/market-making-with-algos?u=76281980&t=0)** - [Instructor] One of the two major types of [[Algorithmic Trading]] is what's called market making.
 >
 > **[0:04](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/market-making-with-algos?u=76281980&t=4)** Market making, as the name implies, is all about making an effective market, it's about helping to match up buyers and sellers.
 >
@@ -375,7 +370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithmic Trading]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Algorithmic Trading]] (3)
 > **Versions:** 113.10 (3), 113.9 (1), 113.8 (1), 113.13 (1), 113.12 (1)
 > **Analogies:** just like (2), for example (1), similar to (1)
 > **CLI Commands:** make (1)
@@ -383,14 +378,13 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### An algorithm example
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/an-algorithm-example?u=76281980)
+#### [An algorithm example](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/an-algorithm-example?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/an-algorithm-example?u=76281980&t=0)** - [Instructor] Alright, now let's take a look at how we'd actually use market making data to put together a real algorithm.
 >
-> **[0:05](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/an-algorithm-example?u=76281980&t=5)** Now, in this particular case, based on previous data that we've collected and an algorithmic trading strategy that our intelligent humans have come up with and tested, we've determined that a natural price, a price that the stock should gravitate to over time based on our training data set, is based on the following formula, the last price the stock traded at minus some sort of relative change in an index times the standard deviation on the stock.
+> **[0:05](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/an-algorithm-example?u=76281980&t=5)** Now, in this particular case, based on previous data that we've collected and an [[Algorithmic Trading]] strategy that our intelligent humans have come up with and tested, we've determined that a natural price, a price that the stock should gravitate to over time based on our training data set, is based on the following formula, the last price the stock traded at minus some sort of relative change in an index times the standard deviation on the stock.
 >
 > **[0:32](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/an-algorithm-example?u=76281980&t=32)** Now, we could quibble with that formula, but we're simply going to assume that that's a given.
 >
@@ -398,7 +392,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/an-algorithm-example?u=76281980&t=39)** So how would we implement this and actually put this mechanically into practice?
 >
-> **[0:44](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/an-algorithm-example?u=76281980&t=44)** Well, to visualize it, let's do it in Excel.
+> **[0:44](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/an-algorithm-example?u=76281980&t=44)** Well, to visualize it, let's do it in [[Microsoft Excel|Excel]].
 >
 > **[0:47](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/an-algorithm-example?u=76281980&t=47)** I'm in the 0103 Begin Excel file.
 >
@@ -438,7 +432,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (4), [[Algorithmic Trading]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Algorithmic Trading]] (1)
 > **Ports:** :45 (1), :30 (1)
 > **Versions:** 13.69 (1), 13.56 (1)
 > **CLI Commands:** make (1)
@@ -446,8 +440,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prop trading with algos
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/prop-trading-with-algos?u=76281980)
+#### [Prop trading with algos](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/prop-trading-with-algos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -475,9 +468,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/prop-trading-with-algos?u=76281980&t=39)** Then we've got to go through and set operating time horizons and constraints.
 >
-> **[0:44](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/prop-trading-with-algos?u=76281980&t=44)** This requires that we're going to pull in data and performance statistics that we can monitor over time.
+> **[0:44](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/prop-trading-with-algos?u=76281980&t=44)** This requires that we're going to pull in data and performance [[Statistics]] that we can monitor over time.
 >
-> **[0:51](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/prop-trading-with-algos?u=76281980&t=51)** Typically, humans are going to program these algorithms and then they're going to provide oversight to the algorithms, but the algorithms are the one actually executing all of the trades.
+> **[0:51](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/prop-trading-with-algos?u=76281980&t=51)** Typically, humans are going to program these [[Algorithms]] and then they're going to provide oversight to the algorithms, but the algorithms are the one actually executing all of the trades.
 >
 > **[1:02](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/prop-trading-with-algos?u=76281980&t=62)** This means that we need programmable start and stop rules.
 >
@@ -519,7 +512,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/prop-trading-with-algos?u=76281980&t=224)** This is something we'll touch on later in the course.
 >
-> **[3:47](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/prop-trading-with-algos?u=76281980&t=227)** Algorithmic trading does have specific requirements from a technical perspective.
+> **[3:47](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/prop-trading-with-algos?u=76281980&t=227)** [[Algorithmic Trading]] does have specific requirements from a technical perspective.
 >
 > **[3:52](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/prop-trading-with-algos?u=76281980&t=232)** So again, humans are critical to actually designing that algorithm, but beyond the human role, beyond the data and the strategy and all of that, you are going to need certain technical requirements in order to make this particular type of trading work.
 >
@@ -553,21 +546,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithmic Trading]] (6), [[Algorithms]] (5), data (3), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Algorithmic Trading]] (6), [[Algorithms]] (5), [[Statistics]] (1)
 > **CLI Commands:** make (5)
 > **Prerequisites:** before we start (1), set up (1), you'll need (1), you need to have (1)
 > **Definitions:** means that (2)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Algos in practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/algos-in-practice?u=76281980)
+#### [Algos in practice](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/algos-in-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/algos-in-practice?u=76281980&t=0)** - [Narrator] Let's talk about one example of a successful algorithmic trader.
 >
-> **[0:05](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/algos-in-practice?u=76281980&t=5)** Renaissance Technologies is one of the most famous hedge funds pursuing algorithmic trading.
+> **[0:05](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/algos-in-practice?u=76281980&t=5)** Renaissance Technologies is one of the most famous hedge funds pursuing [[Algorithmic Trading]].
 >
 > **[0:10](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/algos-in-practice?u=76281980&t=10)** Renaissance Technologies, or RenTech, as they're more commonly known, gave an example of the type of trade they pursue at one point.
 >
@@ -631,18 +623,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithmic Trading]] (4), data (2)
+> **Frameworks & Libraries:** [[Algorithmic Trading]] (4)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** iphones (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Textual analysis and algo trading
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/textual-analysis-and-algo-trading?u=76281980)
+#### [Textual analysis and algo trading](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/textual-analysis-and-algo-trading?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/textual-analysis-and-algo-trading?u=76281980&t=0)** - [Instructor] Now, one of the most popular types of algorithmic trading strategies revolves around the use of what's called text data.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/textual-analysis-and-algo-trading?u=76281980&t=0)** - [Instructor] Now, one of the most popular types of [[Algorithmic Trading]] strategies revolves around the use of what's called text data.
 >
 > **[0:08](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/textual-analysis-and-algo-trading?u=76281980&t=8)** Text data, as the name implies, is something where it's not just numbers that are coming in, but instead, all kinds of qualitative information.
 >
@@ -650,7 +641,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/textual-analysis-and-algo-trading?u=76281980&t=18)** Transcripts from conference calls with the company, whatever.
 >
-> **[0:22](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/textual-analysis-and-algo-trading?u=76281980&t=22)** This type of analysis is often called textual analysis or natural language processing, sentiment analysis, content analysis, computational linguistics.
+> **[0:22](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/textual-analysis-and-algo-trading?u=76281980&t=22)** This type of analysis is often called textual analysis or [[Natural Language Processing (NLP)|natural language processing]], sentiment analysis, content analysis, computational linguistics.
 >
 > **[0:31](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/textual-analysis-and-algo-trading?u=76281980&t=31)** Whatever term you use, essentially, textual analysis is just about trying to pull this qualitative information, this text data, and turn it into quantitative signals that we can trade on.
 >
@@ -674,7 +665,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/textual-analysis-and-algo-trading?u=76281980&t=106)** We have audio transcripts in the form of conference calls from groups like Seeking Alpha.
 >
-> **[1:51](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/textual-analysis-and-algo-trading?u=76281980&t=111)** And of course, web searches, Google searches, Twitter and StockTwits, et cetera.
+> **[1:51](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/textual-analysis-and-algo-trading?u=76281980&t=111)** And of course, web searches, [[Google]] searches, Twitter and StockTwits, et cetera.
 >
 > **[1:57](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/textual-analysis-and-algo-trading?u=76281980&t=117)** The point is, there's a variety of different data sources that let us take what people are saying about a company and the news about that company and turn it into actionable insight.
 >
@@ -694,7 +685,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/textual-analysis-and-algo-trading?u=76281980&t=161)** Now, most modern programming languages provide for both of these functions.
 >
-> **[2:45](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/textual-analysis-and-algo-trading?u=76281980&t=165)** Perl, Python, SAS Text Miner, [VB.NET](https://VB.NET).
+> **[2:45](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/textual-analysis-and-algo-trading?u=76281980&t=165)** Perl, [[Python (Programming Language)|Python]], SAS Text Miner, [VB.NET](https://VB.NET).
 >
 > **[2:48](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/textual-analysis-and-algo-trading?u=76281980&t=168)** There's a variety of options.
 >
@@ -704,7 +695,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Algorithmic Trading]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Search]] (1), web (1)
+> **Frameworks & Libraries:** [[Algorithmic Trading]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Google]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** edgar (2), sec (2), xml (1), sas (1), net (1)
 > **CLI Commands:** make (1), python (1)
 > **URLs:** [vb.net](https://vb.net) (1)
@@ -712,14 +703,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Algorithmic trading with qualitative and text data
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/algorithmic-trading-with-qualitative-and-text-data?u=76281980)
+#### [Algorithmic trading with qualitative and text data](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/algorithmic-trading-with-qualitative-and-text-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/algorithmic-trading-with-qualitative-and-text-data?u=76281980&t=0)** - [Instructor] Let's take a look at a real-world example of using textual analysis in practice.
 >
-> **[0:06](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/algorithmic-trading-with-qualitative-and-text-data?u=76281980&t=6)** I'm in the 01_07 transcript word file.
+> **[0:06](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/algorithmic-trading-with-qualitative-and-text-data?u=76281980&t=6)** I'm in the 01_07 transcript [[Microsoft Word|word]] file.
 >
 > **[0:10](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/algorithmic-trading-with-qualitative-and-text-data?u=76281980&t=10)** Now what we're going to see here is an example of an earnings call transcript from Macy's.
 >
@@ -743,9 +733,9 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/algorithmic-trading-with-qualitative-and-text-data?u=76281980&t=66)** That's the old way of doing things, and there's nothing wrong with that.
 >
-> **[1:09](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/algorithmic-trading-with-qualitative-and-text-data?u=76281980&t=69)** But from an algorithmic trading point of view, there's an alternative way.
+> **[1:09](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/algorithmic-trading-with-qualitative-and-text-data?u=76281980&t=69)** But from an [[Algorithmic Trading]] point of view, there's an alternative way.
 >
-> **[1:15](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/algorithmic-trading-with-qualitative-and-text-data?u=76281980&t=75)** So I'm in the 01_07_Begin Excel file.
+> **[1:15](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/algorithmic-trading-with-qualitative-and-text-data?u=76281980&t=75)** So I'm in the 01_07_Begin [[Microsoft Excel|Excel]] file.
 >
 > **[1:21](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/algorithmic-trading-with-qualitative-and-text-data?u=76281980&t=81)** Now what we've got here in column H is what's called a dictionary.
 >
@@ -819,7 +809,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Algorithmic Trading]] (2), [[Microsoft Excel|Excel]] (2), power (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Algorithmic Trading]] (2), [[Microsoft Excel|Excel]] (2)
 > **Versions:** 1.6 (2), 2.2 (2)
 > **Definitions:** is an  (1), is a  (1)
 > **URLs:** [seekingalpha.com](https://seekingalpha.com) (1)
@@ -827,12 +817,11 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Careers in algorithmic trading
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/careers-in-algorithmic-trading?u=76281980)
+#### [Careers in algorithmic trading](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/careers-in-algorithmic-trading?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/careers-in-algorithmic-trading?u=76281980&t=0)** - [Instructor] Now, one question that comes up all the time when people talk to me about algorithmic trading is, "Gee, I'm really interested in this space.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/careers-in-algorithmic-trading?u=76281980&t=0)** - [Instructor] Now, one question that comes up all the time when people talk to me about [[Algorithmic Trading]] is, "Gee, I'm really interested in this space.
 >
 > **[0:07](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/careers-in-algorithmic-trading?u=76281980&t=7)** How do I get a job in it?"
 >
@@ -852,7 +841,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/careers-in-algorithmic-trading?u=76281980&t=77)** The skills that you need are going to depend on which role you have.
 >
-> **[1:21](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/careers-in-algorithmic-trading?u=76281980&t=81)** If you're a computer programmer, typically this type of programming will be done using something like R or Python, or perhaps SaaS, or Stata.
+> **[1:21](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/careers-in-algorithmic-trading?u=76281980&t=81)** If you're a computer programmer, typically this type of programming will be done using something like R or [[Python (Programming Language)|Python]], or perhaps [[SaaS]], or [[Stata]].
 >
 > **[1:30](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/careers-in-algorithmic-trading?u=76281980&t=90)** We're going to cover a lot of these tools, at least at a high level in this course.
 >
@@ -870,7 +859,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/careers-in-algorithmic-trading?u=76281980&t=136)** The answer is emphatically yes.
 >
-> **[2:18](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/careers-in-algorithmic-trading?u=76281980&t=138)** So I did a quick LinkedIn search using my own LinkedIn page and algorithmic trading results in 320 different roles that come up for a very simple search.
+> **[2:18](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/careers-in-algorithmic-trading?u=76281980&t=138)** So I did a quick [[LinkedIn]] search using my own LinkedIn page and algorithmic trading results in 320 different roles that come up for a very simple search.
 >
 > **[2:29](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/careers-in-algorithmic-trading?u=76281980&t=149)** Algorithmic trading is just one of the names for this particular type of investing.
 >
@@ -884,7 +873,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/careers-in-algorithmic-trading?u=76281980&t=178)** Well, oftentimes, again, it's really all about a combination of that computer programming and then the finance side of the world.
 >
-> **[3:07](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/careers-in-algorithmic-trading?u=76281980&t=187)** So it's about developing the framework and the functionality that's going to power these trading algorithms, and then going through, implementing that algorithm, testing it, and making sure it goes into production effectively.
+> **[3:07](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/careers-in-algorithmic-trading?u=76281980&t=187)** So it's about developing the framework and the functionality that's going to power these trading [[Algorithms]], and then going through, implementing that algorithm, testing it, and making sure it goes into production effectively.
 >
 > **[3:20](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/careers-in-algorithmic-trading?u=76281980&t=200)** From there, you've got to monitor and tune that algorithm and optimize it so that it maximizes the profits for the firm, and then make updates and improvements over time.
 >
@@ -896,7 +885,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithmic Trading]] (7), career (2), [[Programming]] (2), [[LinkedIn]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Algorithmic Trading]] (7), [[LinkedIn]] (2), [[Python (Programming Language)|Python]] (1), [[SaaS]] (1), [[Stata]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -907,12 +896,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### One software option: Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-python?u=76281980)
+#### [One software option: Python](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-python?u=76281980&t=0)** - [Instructor] Okay, let's go ahead and dive in to our first software package that we're going to look at using algorithmic trading around, and that's called Python.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-python?u=76281980&t=0)** - [Instructor] Okay, let's go ahead and dive in to our first software package that we're going to look at using [[Algorithmic Trading]] around, and that's called [[Python (Programming Language)|Python]].
 >
 > **[0:08](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-python?u=76281980&t=8)** Now I'm not talking about the snake that inhabits Florida and periodically eats your pet parrot or cat or whatever.
 >
@@ -930,7 +918,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-python?u=76281980&t=49)** It's a overlay that gives you a variety of different tools you can use, including various Python options, but also opportunities to use things like R.
 >
-> **[1:01](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-python?u=76281980&t=61)** Now, I'm going to operate Python through the JupyterLabs program, so I'll go ahead and launch Jupyter Labs, and once I've done that, it'll pop up in Google.
+> **[1:01](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-python?u=76281980&t=61)** Now, I'm going to operate Python through the JupyterLabs program, so I'll go ahead and launch Jupyter Labs, and once I've done that, it'll pop up in [[Google]].
 >
 > **[1:15](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-python?u=76281980&t=75)** Once we're in Jupyter Labs now, we'll use a Notebook, and this will allow us to go through and put in basic Python commands.
 >
@@ -958,7 +946,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (13), [[Algorithmic Trading]] (2), [[Programming]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (13), [[Algorithmic Trading]] (2), [[Google]] (1)
 > **CLI Commands:** python (13), cat (1)
 > **Tools:** anaconda (7), jupyter (2)
 > **URLs:** [anaconda.org](https://anaconda.org) (1)
@@ -967,24 +955,23 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Importing data in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-in-python?u=76281980)
+#### [Importing data in Python](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-in-python?u=76281980&t=0)** - [Instructor] Alright.
 >
-> **[0:01](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-in-python?u=76281980&t=1)** Now, as I said, when we are looking at Python in this particular course, we're assuming you already have at least some working knowledge of the software.
+> **[0:01](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-in-python?u=76281980&t=1)** Now, as I said, when we are looking at [[Python (Programming Language)|Python]] in this particular course, we're assuming you already have at least some working knowledge of the software.
 >
-> **[0:09](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-in-python?u=76281980&t=9)** If you don't, there's a variety of courses here on LinkedIn Learning that are a great place to get started learning.
+> **[0:09](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-in-python?u=76281980&t=9)** If you don't, there's a variety of courses here on [[LinkedIn]] Learning that are a great place to get started learning.
 >
-> **[0:15](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-in-python?u=76281980&t=15)** In our case, our focus is on using particular tools and commands that can help you from the perspective of effectively doing algorithmic trading.
+> **[0:15](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-in-python?u=76281980&t=15)** In our case, our focus is on using particular tools and commands that can help you from the perspective of effectively doing [[Algorithmic Trading]].
 >
 > **[0:25](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-in-python?u=76281980&t=25)** So I'm going to open up a new file, and what we want to start by doing is just pulling in some data.
 >
 > **[0:32](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-in-python?u=76281980&t=32)** All algorithmic trading is built around examining past data, looking for correlations or trading opportunities, and then applying that to new data going forward.
 >
-> **[0:43](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-in-python?u=76281980&t=43)** So to begin with, I'm going to start by simply installing the pandas and panda data readers that we're going to need in this particular set of projects.
+> **[0:43](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-in-python?u=76281980&t=43)** So to begin with, I'm going to start by simply installing the [[Pandas (Software)|pandas]] and panda data readers that we're going to need in this particular set of projects.
 >
 > **[0:53](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-in-python?u=76281980&t=53)** Now, you may already have these installed on your machine.
 >
@@ -1018,7 +1005,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-in-python?u=76281980&t=134)** Once we've done that, we're going to go through and import the function data from our pandas module, pandas_datareader.
 >
-> **[2:23](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-in-python?u=76281980&t=143)** Okay? And this is going to store our financial data as a data frame, which we can then put in our tabular format.
+> **[2:23](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-in-python?u=76281980&t=143)** Okay? And this is going to store our [[Financial Data]] as a data frame, which we can then put in our tabular format.
 >
 > **[2:32](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-in-python?u=76281980&t=152)** So to do that, we are going to type pandas_datareader import data and run that.
 >
@@ -1026,11 +1013,11 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-in-python?u=76281980&t=171)** So I'm going to pull in data from Yahoo because it's freely available and we'll get data on a single stock.
 >
-> **[3:03](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-in-python?u=76281980&t=183)** So to do that, let's just pick, say Microsoft.
+> **[3:03](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-in-python?u=76281980&t=183)** So to do that, let's just pick, say [[Microsoft]].
 >
 > **[3:08](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-in-python?u=76281980&t=188)** It's a company we're all familiar with.
 >
-> **[3:10](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-in-python?u=76281980&t=190)** Certainly they make a lot of products that most of us use on a regular basis.
+> **[3:10](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-in-python?u=76281980&t=190)** Certainly they make a lot of [[Microsoft Products|products]] that most of us use on a regular basis.
 >
 > **[3:15](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-in-python?u=76281980&t=195)** All right, so we're going to go from January 1st, 2018 to January 1st, 2019, which we'll do as follows.
 >
@@ -1062,23 +1049,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Pandas (Software)|Pandas]] (8), [[Python (Programming Language)|Python]] (4), [[Algorithmic Trading]] (3), [[Microsoft]] (3)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8), [[Python (Programming Language)|Python]] (4), [[Algorithmic Trading]] (3), [[Microsoft]] (3), [[LinkedIn]] (1)
 > **CLI Commands:** python (4), make (4), pip (1)
 > **Code Identifiers:** pandas_datareader (2), panda_datareader (1)
 > **Prerequisites:** install (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Quandl and Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quandl-and-python?u=76281980)
+#### [Quandl and Python](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quandl-and-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quandl-and-python?u=76281980&t=0)** - [Instructor] One of the great features about Python is that because it's open source, there's a variety of different third-party platforms that have been created to make your life easier and enable you to do more things with Python.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quandl-and-python?u=76281980&t=0)** - [Instructor] One of the great features about [[Python (Programming Language)|Python]] is that because it's open source, there's a variety of different third-party platforms that have been created to make your life easier and enable you to do more things with Python.
 >
-> **[0:12](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quandl-and-python?u=76281980&t=12)** In the case of algorithmic trading, one feature you'll want to be aware of is the Quandl platform.
+> **[0:12](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quandl-and-python?u=76281980&t=12)** In the case of [[Algorithmic Trading]], one feature you'll want to be aware of is the Quandl platform.
 >
-> **[0:18](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quandl-and-python?u=76281980&t=18)** Quandl is a free platform that you can register an account for and pull financial data into Python.
+> **[0:18](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quandl-and-python?u=76281980&t=18)** Quandl is a free platform that you can register an account for and pull [[Financial Data]] into Python.
 >
 > **[0:25](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quandl-and-python?u=76281980&t=25)** Quandl, of course, has premium upgraded versions that allow you to pull more data, but even just registering for the free version is a great place to start.
 >
@@ -1158,7 +1144,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (6), feature (2), prompt (2), [[Algorithmic Trading]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Algorithmic Trading]] (1), [[Financial Data]] (1)
 > **CLI Commands:** python (6), make (1), pip (1)
 > **Prerequisites:** install (3), assuming you have (1), you'll need (1), set up (1)
 > **Tools:** jupyter (3), anaconda (1)
@@ -1167,24 +1153,23 @@ created: 2026-05-02
 > **Env Vars:** cmd (1)
 > **Speakers:** - [instructor] (1)
 
-#### CSVs and Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/csvs-and-python?u=76281980)
+#### [CSVs and Python](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/csvs-and-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/csvs-and-python?u=76281980&t=0)** - [Instructor] Now, one thing you'll often want to do when you're working in Python is to pull data that you've gathered in Python out and turn it into a CSV file.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/csvs-and-python?u=76281980&t=0)** - [Instructor] Now, one thing you'll often want to do when you're working in [[Python (Programming Language)|Python]] is to pull data that you've gathered in Python out and turn it into a CSV file.
 >
 > **[0:09](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/csvs-and-python?u=76281980&t=9)** There's a variety of reasons you might want to do this.
 >
-> **[0:11](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/csvs-and-python?u=76281980&t=11)** For one thing, it's much easier to visualize the data in Excel and to do kind of basic preliminary type calculations to evaluate if your strategy makes any sense using Excel.
+> **[0:11](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/csvs-and-python?u=76281980&t=11)** For one thing, it's much easier to visualize the data in [[Microsoft Excel|Excel]] and to do kind of basic preliminary type calculations to evaluate if your strategy makes any sense using Excel.
 >
-> **[0:22](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/csvs-and-python?u=76281980&t=22)** Similarly, if you're trying to pull data through Python, but perhaps do your manipulation and calculations in R or Stata, then it's often easier to transfer those files using CSV rather than using the Python files directly.
+> **[0:22](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/csvs-and-python?u=76281980&t=22)** Similarly, if you're trying to pull data through Python, but perhaps do your manipulation and calculations in R or [[Stata]], then it's often easier to transfer those files using CSV rather than using the Python files directly.
 >
 > **[0:37](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/csvs-and-python?u=76281980&t=37)** So let's take a look at how we could do this using Python.
 >
 > **[0:40](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/csvs-and-python?u=76281980&t=40)** I'm in the 02_04_Begin file, which is just our blank Jupyter notebook file.
 >
-> **[0:46](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/csvs-and-python?u=76281980&t=46)** So I'm going to begin by importing our pandas as pd.
+> **[0:46](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/csvs-and-python?u=76281980&t=46)** So I'm going to begin by importing our [[Pandas (Software)|pandas]] as pd.
 >
 > **[0:52](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/csvs-and-python?u=76281980&t=52)** And then similarly, I'm going to import our pandas_datareader as pdr.
 >
@@ -1222,7 +1207,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (2), next (2), [[Stata]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (2), [[Stata]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (5), make (1)
 > **Env Vars:** csv (4)
 > **Code Identifiers:** pandas_datareader (1), get_data (1), to_csv (1)
@@ -1230,12 +1215,11 @@ created: 2026-05-02
 > **File Paths:** 02_04.csv (1)
 > **Speakers:** - [instructor] (1)
 
-#### Financial data and Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/financial-data-and-python?u=76281980)
+#### [Financial data and Python](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/financial-data-and-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/financial-data-and-python?u=76281980&t=0)** - [Instructor] While we pull in a significant amount of data into Python from a variety of different sources, most of the time, we're going to need to make some sort of modifications to that data in order to get the output that we're looking for.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/financial-data-and-python?u=76281980&t=0)** - [Instructor] While we pull in a significant amount of data into [[Python (Programming Language)|Python]] from a variety of different sources, most of the time, we're going to need to make some sort of modifications to that data in order to get the output that we're looking for.
 >
 > **[0:13](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/financial-data-and-python?u=76281980&t=13)** We may have to add new columns, calculate changes or logs of particular variables, merge different datasets together.
 >
@@ -1243,7 +1227,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/financial-data-and-python?u=76281980&t=24)** Let's take a look at how we'd begin that process.
 >
-> **[0:27](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/financial-data-and-python?u=76281980&t=27)** I'm in the 02_05_Begin file, which is just a Jupyter Notebook file that imported pandas, pandas_datareader, and datetime, and then created a dataset called aapl.
+> **[0:27](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/financial-data-and-python?u=76281980&t=27)** I'm in the 02_05_Begin file, which is just a Jupyter Notebook file that imported [[Pandas (Software)|pandas]], pandas_datareader, and datetime, and then created a dataset called aapl.
 >
 > **[0:40](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/financial-data-and-python?u=76281980&t=40)** Now, what I want to do from here is to go through and add a new column to our dataset.
 >
@@ -1307,7 +1291,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/financial-data-and-python?u=76281980&t=234)** So this fits with our intuition.
 >
-> **[3:56](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/financial-data-and-python?u=76281980&t=236)** It's important to always do these kinds of sanity checks on your data to make sure you don't have some sort of an error in your dataset that might result in you having faulty algorithms later on.
+> **[3:56](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/financial-data-and-python?u=76281980&t=236)** It's important to always do these kinds of sanity checks on your data to make sure you don't have some sort of an error in your dataset that might result in you having faulty [[Algorithms]] later on.
 >
 > **[4:08](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/financial-data-and-python?u=76281980&t=248)** You don't want to lose money, because you had an error in your data import somewhere.
 >
@@ -1325,22 +1309,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (3), python (1)
 > **Code Identifiers:** pandas_datareader (1)
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Python and building financial databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/python-and-building-financial-databases?u=76281980)
+#### [Python and building financial databases](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/python-and-building-financial-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/python-and-building-financial-databases?u=76281980&t=0)** - [Instructor] When you're dealing with Python, you wouldn't want to be dealing with data for just a single stock in most cases.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/python-and-building-financial-databases?u=76281980&t=0)** - [Instructor] When you're dealing with [[Python (Programming Language)|Python]], you wouldn't want to be dealing with data for just a single stock in most cases.
 >
-> **[0:06](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/python-and-building-financial-databases?u=76281980&t=6)** In most cases, algorithms are going to look at data from a variety of stocks.
+> **[0:06](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/python-and-building-financial-databases?u=76281980&t=6)** In most cases, [[Algorithms]] are going to look at data from a variety of stocks.
 >
-> **[0:11](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/python-and-building-financial-databases?u=76281980&t=11)** And so, rather than being interested in a single security where, if we're being honest, we could just pull the data from Yahoo Finance and put it into Excel on our own, we're often going to want to pull the data for a variety of stocks, tens, hundreds, maybe even thousands.
+> **[0:11](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/python-and-building-financial-databases?u=76281980&t=11)** And so, rather than being interested in a single security where, if we're being honest, we could just pull the data from Yahoo Finance and put it into [[Microsoft Excel|Excel]] on our own, we're often going to want to pull the data for a variety of stocks, tens, hundreds, maybe even thousands.
 >
 > **[0:27](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/python-and-building-financial-databases?u=76281980&t=27)** Now, in our case, for simplicity, I'm not necessarily going to pull the data on hundreds of different stocks, but we do want to go through and pull data on at least a few all at once just to illustrate how that works.
 >
@@ -1366,7 +1349,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/python-and-building-financial-databases?u=76281980&t=138)** Let's see.
 >
-> **[2:21](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/python-and-building-financial-databases?u=76281980&t=141)** And let's put in our pandas library function.
+> **[2:21](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/python-and-building-financial-databases?u=76281980&t=141)** And let's put in our [[Pandas (Software)|pandas]] library function.
 >
 > **[2:32](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/python-and-building-financial-databases?u=76281980&t=152)** All right, now, what we've done so far is pull together a little program that's going to pull data out of Yahoo for us based on our ticker, our start date and our end date.
 >
@@ -1378,7 +1361,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/python-and-building-financial-databases?u=76281980&t=175)** In principle, we could name as many as we want, but I'm just going to start with a few well-known firms that we'd be interested in.
 >
-> **[3:04](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/python-and-building-financial-databases?u=76281980&t=184)** So let's pull data on say, Microsoft, Salesforce.
+> **[3:04](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/python-and-building-financial-databases?u=76281980&t=184)** So let's pull data on say, [[Microsoft]], Salesforce.
 >
 > **[3:12](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/python-and-building-financial-databases?u=76281980&t=192)** Oh, how about GE and 3M?
 >
@@ -1432,7 +1415,7 @@ created: 2026-05-02
 >
 > **[6:02](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/python-and-building-financial-databases?u=76281980&t=362)** Now, the beauty is that when we get done, we have data for these multiple different ticker groups, and we could do things like check correlations and look for patterns that we could trade on.
 >
-> **[6:12](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/python-and-building-financial-databases?u=76281980&t=372)** So this, in essence, represents the start of our algorithmic trading process.
+> **[6:12](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/python-and-building-financial-databases?u=76281980&t=372)** So this, in essence, represents the start of our [[Algorithmic Trading]] process.
 >
 > **[6:17](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/python-and-building-financial-databases?u=76281980&t=377)** We've gathered the data and now we're prepared to go through and begin testing different strategies that we, as humans, have come up with.
 >
@@ -1440,7 +1423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Microsoft]] (3), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (2), [[Algorithmic Trading]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (2), [[Algorithmic Trading]] (2), [[Algorithms]] (1)
 > **CLI Commands:** python (2), make (2)
 > **Env Vars:** csv (3)
 > **Code Identifiers:** all_data (2)
@@ -1454,14 +1437,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### One software option: R
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-r?u=76281980)
+#### [One software option: R](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-r?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-r?u=76281980&t=0)** - [Instructor] Another great tool to use with financial analysis and algorithmic trading is R.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-r?u=76281980&t=0)** - [Instructor] Another great tool to use with [[Financial Analysis]] and [[Algorithmic Trading]] is R.
 >
-> **[0:07](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-r?u=76281980&t=7)** Just like Python, R is widely used across the finance industry.
+> **[0:07](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-r?u=76281980&t=7)** Just like [[Python (Programming Language)|Python]], R is widely used across the finance industry.
 >
 > **[0:11](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-r?u=76281980&t=11)** Like Python, R is free.
 >
@@ -1479,7 +1461,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-r?u=76281980&t=35)** Now I'm in the Anaconda Navigator.
 >
-> **[0:37](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-r?u=76281980&t=37)** One of the nice features about Anaconda Navigator, of course, is it has a variety of programs, including RStudio, so we can use that in exactly the same way that we use Jupyter Lab and Jupyter Notebook.
+> **[0:37](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-r?u=76281980&t=37)** One of the nice features about Anaconda Navigator, of course, is it has a variety of programs, including [[RStudio]], so we can use that in exactly the same way that we use Jupyter Lab and Jupyter Notebook.
 >
 > **[0:48](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-r?u=76281980&t=48)** So I'm going to go ahead and launch the RStudio.
 >
@@ -1489,7 +1471,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-r?u=76281980&t=60)** Alright, now here we are in RStudio.
 >
-> **[1:02](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-r?u=76281980&t=62)** You'll notice that you've got three different windows.
+> **[1:02](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-r?u=76281980&t=62)** You'll notice that you've got three different [[Windows]].
 >
 > **[1:05](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-r?u=76281980&t=65)** Now the nice thing about RStudio is that you're going to type everything over here on the left, but then your output and your files will appear over on the right.
 >
@@ -1497,7 +1479,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-r?u=76281980&t=82)** We've got the usual set of menus that lets us do a variety of different things, like as an example, importing data sets, say from a variety of different packages.
 >
-> **[1:32](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-r?u=76281980&t=92)** Oh, look, we could import data from Excel, from SPSS, from SaaS, or even from our friend Stata.
+> **[1:32](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-r?u=76281980&t=92)** Oh, look, we could import data from [[Microsoft Excel|Excel]], from SPSS, from [[SaaS]], or even from our friend [[Stata]].
 >
 > **[1:40](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-r?u=76281980&t=100)** In addition, you can also do things like going through and changing some of your global options.
 >
@@ -1553,7 +1535,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[RStudio]] (8), [[Python (Programming Language)|Python]] (7), hit (5), [[Windows]] (3), data (2)
+> **Frameworks & Libraries:** [[RStudio]] (8), [[Python (Programming Language)|Python]] (7), [[Windows]] (3), [[Financial Analysis]] (1), [[Algorithmic Trading]] (1)
 > **CLI Commands:** python (7), make (2)
 > **Tools:** anaconda (3), jupyter (2)
 > **Prerequisites:** install (4)
@@ -1562,8 +1544,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Importing data with R
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-with-r?u=76281980)
+#### [Importing data with R](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-with-r?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1633,7 +1614,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-with-r?u=76281980&t=202)** First of all, of course, the file named .txt, we'd have to replace with it whatever the actual file is.
 >
-> **[3:29](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-with-r?u=76281980&t=209)** But notice in a more conventional programming language like Python, you'd probably use an equal sign here in place of this arrow like feature.
+> **[3:29](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-with-r?u=76281980&t=209)** But notice in a more conventional programming language like [[Python (Programming Language)|Python]], you'd probably use an equal sign here in place of this arrow like feature.
 >
 > **[3:39](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-with-r?u=76281980&t=219)** R works a little differently than other coding programs you might be familiar with.
 >
@@ -1647,9 +1628,9 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-with-r?u=76281980&t=242)** So let's go ahead and read in some data.
 >
-> **[4:07](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-with-r?u=76281980&t=247)** Alright, now we can certainly import our data manually, but I want to just for the sake of kind of viewing it visually, I want to go ahead and import our dataset through the file system, through the the file windows.
+> **[4:07](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-with-r?u=76281980&t=247)** Alright, now we can certainly import our data manually, but I want to just for the sake of kind of viewing it visually, I want to go ahead and import our dataset through the file system, through the the file [[Windows]].
 >
-> **[4:21](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-with-r?u=76281980&t=261)** So I'm going to go to import dataset from Excel, pull that up and I've already preloaded the file that I'm interested in.
+> **[4:21](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-with-r?u=76281980&t=261)** So I'm going to go to import dataset from [[Microsoft Excel|Excel]], pull that up and I've already preloaded the file that I'm interested in.
 >
 > **[4:34](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-with-r?u=76281980&t=274)** And of course you'll have to change this file path to wherever you have any data that you might be interested in, including if you're using the 0302 start data that I've provided.
 >
@@ -1661,7 +1642,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-with-r?u=76281980&t=315)** United Technologies, and this is just the first 50 rows.
 >
-> **[5:19](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-with-r?u=76281980&t=319)** R will pull all of this data in once we click the import button and then that gives us a good place to start if we want to go through and do further data manipulation.
+> **[5:19](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-with-r?u=76281980&t=319)** R will pull all of this data in once we click the import button and then that gives us a good place to start if we want to go through and do further [[Data Manipulation]].
 >
 > **[5:30](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/importing-data-with-r?u=76281980&t=330)** So the nice feature about R is that they import data from a wide variety of other existing programs.
 >
@@ -1675,7 +1656,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), feature (5), hit (2), [[Data Manipulation]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Data Manipulation]] (2), [[Python (Programming Language)|Python]] (1), [[Windows]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** csv (2), ebitda (1), ibm (1)
 > **CLI Commands:** make (1), python (1)
 > **Analogies:** just like (1), for example (1)
@@ -1684,12 +1665,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### quantmod and R
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quantmod-and-r?u=76281980)
+#### [quantmod and R](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quantmod-and-r?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quantmod-and-r?u=76281980&t=0)** - [Instructor] R has a variety of third party tools that you can use in order to improve and develop financial algorithms that can help you with your trading needs.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quantmod-and-r?u=76281980&t=0)** - [Instructor] R has a variety of third party tools that you can use in order to improve and develop financial [[Algorithms]] that can help you with your trading needs.
 >
 > **[0:10](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quantmod-and-r?u=76281980&t=10)** I'm in the 03_03_Begin file.
 >
@@ -1705,7 +1685,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quantmod-and-r?u=76281980&t=41)** First of all, in order to install Quantmod, we've got to know and understand kind of what it is.
 >
-> **[0:46](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quantmod-and-r?u=76281980&t=46)** Quantmod is a third party tool that lets you go through and pull data on a variety of different financial products.
+> **[0:46](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quantmod-and-r?u=76281980&t=46)** Quantmod is a third party tool that lets you go through and pull data on a variety of different financial [[Microsoft Products|products]].
 >
 > **[0:55](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quantmod-and-r?u=76281980&t=55)** So we are installing that using this line of code and this line of code, and we're pulling it from the R Studio site.
 >
@@ -1771,7 +1751,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quantmod-and-r?u=76281980&t=250)** If we type rm AAPL, that's going to remove Apple from our library and now we can get another company.
 >
-> **[4:27](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quantmod-and-r?u=76281980&t=267)** So let's try, as an example, getting Microsoft.
+> **[4:27](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quantmod-and-r?u=76281980&t=267)** So let's try, as an example, getting [[Microsoft]].
 >
 > **[4:31](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quantmod-and-r?u=76281980&t=271)** Now, we didn't have to remove Apple, of course, but it just makes the computer operate a little bit faster if we remove variables that we're not using.
 >
@@ -1809,7 +1789,7 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quantmod-and-r?u=76281980&t=392)** And you can see these have been added in the red over here, but the chart's pretty small, so it's difficult to see exactly what's happened, right?
 >
-> **[6:42](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quantmod-and-r?u=76281980&t=402)** So maybe we want to zoom in a little bit.
+> **[6:42](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quantmod-and-r?u=76281980&t=402)** So maybe we want to [[Zoom]] in a little bit.
 >
 > **[6:46](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quantmod-and-r?u=76281980&t=406)** And to do that, we'll try a subset over, say, the last 60 days, and let's see what happens.
 >
@@ -1839,7 +1819,7 @@ created: 2026-05-02
 >
 > **[8:16](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quantmod-and-r?u=76281980&t=496)** As humans, it's our role, as I said at the start of the course, to go through and determine what types of strategies might be useful.
 >
-> **[8:24](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quantmod-and-r?u=76281980&t=504)** Instead, while the hard part is finding out what strategies might be useful, we want to make sure that we can implement those strategies in an algorithmic trading program, and we can test those strategies based on data.
+> **[8:24](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quantmod-and-r?u=76281980&t=504)** Instead, while the hard part is finding out what strategies might be useful, we want to make sure that we can implement those strategies in an [[Algorithmic Trading]] program, and we can test those strategies based on data.
 >
 > **[8:39](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/quantmod-and-r?u=76281980&t=519)** And that's what we've done here.
 >
@@ -1857,7 +1837,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft]] (6), hit (2), [[Algorithms]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (6), [[Algorithms]] (1), [[Microsoft Products|Products]] (1), [[Zoom]] (1), [[Algorithmic Trading]] (1)
 > **Env Vars:** aapl (4), macd (2), msft (1)
 > **Code Identifiers:** getsymbols (2), barchart (2), chartseries (1), addmacd (1)
 > **CLI Commands:** make (4), rm (1)
@@ -1866,12 +1846,11 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data analysis in R
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/data-analysis-in-r?u=76281980)
+#### [Data analysis in R](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/data-analysis-in-r?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/data-analysis-in-r?u=76281980&t=0)** - [Instructor] Once you've pulled your data from whatever source, when it comes to developing financial algorithms, you're going to need to start by trying to come up with a strategy.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/data-analysis-in-r?u=76281980&t=0)** - [Instructor] Once you've pulled your data from whatever source, when it comes to developing financial [[Algorithms]], you're going to need to start by trying to come up with a strategy.
 >
 > **[0:09](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/data-analysis-in-r?u=76281980&t=9)** Oftentimes, that sounds easier than it really is.
 >
@@ -1881,9 +1860,9 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/data-analysis-in-r?u=76281980&t=34)** All right, now, let's just start with something basic.
 >
-> **[0:37](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/data-analysis-in-r?u=76281980&t=37)** We have the MSFT, the Microsoft stock data that we pulled previously.
+> **[0:37](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/data-analysis-in-r?u=76281980&t=37)** We have the MSFT, the [[Microsoft]] stock data that we pulled previously.
 >
-> **[0:41](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/data-analysis-in-r?u=76281980&t=41)** So if we wanted to go through and examine summary statistics around that, we could simply type summary(MSFT), and then Ctrl + Enter.
+> **[0:41](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/data-analysis-in-r?u=76281980&t=41)** So if we wanted to go through and examine summary [[Statistics]] around that, we could simply type summary(MSFT), and then Ctrl + Enter.
 >
 > **[0:51](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/data-analysis-in-r?u=76281980&t=51)** And in the Console window, we'll see a whole bunch of output popup.
 >
@@ -1991,7 +1970,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Statistics]] (5), [[Microsoft]] (3), hit (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (5), [[Microsoft]] (3), [[Algorithms]] (1)
 > **Env Vars:** msft (3), spy (2), aapl (1), sp500 (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** install (3)
@@ -1999,12 +1978,11 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
-#### Regressions in R
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/regressions-in-r?u=76281980)
+#### [Regressions in R](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/regressions-in-r?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/regressions-in-r?u=76281980&t=0)** - [Instructor] One of the key tools that is often used by finance folks when developing algorithmic trading strategies is called linear regression.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/regressions-in-r?u=76281980&t=0)** - [Instructor] One of the key tools that is often used by finance folks when developing [[Algorithmic Trading]] strategies is called [[Linear Regression]].
 >
 > **[0:08](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/regressions-in-r?u=76281980&t=8)** Firms like Renaissance Technologies, which are famous for their successful algorithmic trading, have used linear regression as a way to develop algorithmic trading strategies for decades.
 >
@@ -2012,13 +1990,13 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/regressions-in-r?u=76281980&t=22)** Even if I could, those are going to change over time, but linear regression is a great way to get started trying to identify relationships between variables that you can capitalize on in an algorithmic trading model, and you can do these kinds of linear regressions in R.
 >
-> **[0:39](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/regressions-in-r?u=76281980&t=39)** I'm in the 03_05_Begin.R file in the RStudio program, and I've gone ahead and imported a new dataset for us, 03_05_Start_R, which just contains years, ticker symbols, and then accounting variables for a variety of different companies.
+> **[0:39](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/regressions-in-r?u=76281980&t=39)** I'm in the 03_05_Begin.R file in the [[RStudio]] program, and I've gone ahead and imported a new dataset for us, 03_05_Start_R, which just contains years, ticker symbols, and then accounting variables for a variety of different companies.
 >
 > **[1:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/regressions-in-r?u=76281980&t=60)** And we don't have very large dataset here for reasons of, you know, kind of convenience and ease of downloading, it's just 82 entries.
 >
 > **[1:07](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/regressions-in-r?u=76281980&t=67)** But the point here isn't to have a large dataset, it's to help you to learn how to do the regression analysis.
 >
-> **[1:15](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/regressions-in-r?u=76281980&t=75)** Now, once you've gone and imported that data, which you can do either through code or through the Windows based option, we'll want to go ahead and do a linear regression.
+> **[1:15](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/regressions-in-r?u=76281980&t=75)** Now, once you've gone and imported that data, which you can do either through code or through the [[Windows]] based option, we'll want to go ahead and do a linear regression.
 >
 > **[1:27](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/regressions-in-r?u=76281980&t=87)** So to do that, I'm going to type linearMod, and then lm(), and I want to do this based on, let's say, Cash against EBITDA.
 >
@@ -2058,7 +2036,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (6), [[Algorithmic Trading]] (4), [[RStudio]] (1), data (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (6), [[Algorithmic Trading]] (4), [[RStudio]] (1), [[Windows]] (1)
 > **Env Vars:** ebitda (6)
 > **Definitions:** is a  (2), is called (1), means that (1)
 > **Versions:** 2.8 (1), 2.9 (1), 0.17 (1)
@@ -2070,18 +2048,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### One software option: Stata
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-stata?u=76281980)
+#### [One software option: Stata](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-stata?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-stata?u=76281980&t=0)** - [Instructor] Another software program that I want to talk about is Stata or Stata, it can be said either way depending on who you're talking to.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-stata?u=76281980&t=0)** - [Instructor] Another software program that I want to talk about is [[Stata]] or Stata, it can be said either way depending on who you're talking to.
 >
-> **[0:07](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-stata?u=76281980&t=7)** But Stata is simply a combination of a statistics and a data analysis package, hence the name.
+> **[0:07](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-stata?u=76281980&t=7)** But Stata is simply a combination of a [[Statistics]] and a data analysis package, hence the name.
 >
 > **[0:14](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-stata?u=76281980&t=14)** Now, I'm in Stata right now.
 >
-> **[0:17](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-stata?u=76281980&t=17)** The nice thing about Stata is that, while it's not free like R or Python, Stata doesn't cost very much.
+> **[0:17](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-stata?u=76281980&t=17)** The nice thing about Stata is that, while it's not free like R or [[Python (Programming Language)|Python]], Stata doesn't cost very much.
 >
 > **[0:23](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-stata?u=76281980&t=23)** You can get a perpetual license for 100, 200 bucks depending on which version you're talking about, things like that.
 >
@@ -2107,7 +2084,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-stata?u=76281980&t=122)** Stata is great for a variety of different options then.
 >
-> **[2:06](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-stata?u=76281980&t=126)** Similarly, Stata has very nice graphical features comparable to what you'd find in something like Excel, but with a lot more power arguably than Excel has, at least when it comes to very large datasets.
+> **[2:06](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-stata?u=76281980&t=126)** Similarly, Stata has very nice graphical features comparable to what you'd find in something like [[Microsoft Excel|Excel]], but with a lot more power arguably than Excel has, at least when it comes to very large datasets.
 >
 > **[2:20](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/one-software-option-stata?u=76281980&t=140)** Excel tends to get bogged down when you're dealing with more than, say, a dozen variables and 100 or 200,000 observations, in many cases.
 >
@@ -2121,24 +2098,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stata]] (16), data (8), [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (3), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Stata]] (16), [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (3), [[Statistics]] (1)
 > **CLI Commands:** python (3), make (1), find (1)
 > **Env Vars:** csv (1), sas (1)
 > **Analogies:** just like (1), kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting currency data
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-currency-data?u=76281980)
+#### [Getting currency data](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-currency-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-currency-data?u=76281980&t=0)** - [Instructor] Now, once you've installed Stata and you've gotten familiar with it, one of the first things that you're going to want to do is to import some data.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-currency-data?u=76281980&t=0)** - [Instructor] Now, once you've installed [[Stata]] and you've gotten familiar with it, one of the first things that you're going to want to do is to import some data.
 >
-> **[0:07](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-currency-data?u=76281980&t=7)** To do that, we'll go to File Import, and let's import an Excel spreadsheet.
+> **[0:07](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-currency-data?u=76281980&t=7)** To do that, we'll go to File Import, and let's import an [[Microsoft Excel|Excel]] spreadsheet.
 >
 > **[0:15](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-currency-data?u=76281980&t=15)** You could import this in a variety of different file features, but I'm simply going to browse for Excel files and I've preloaded our file folder, and I'm going to put in the 04_02 begin file, and Stata will give me a preview of what that data looks like.
 >
-> **[0:37](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-currency-data?u=76281980&t=37)** I want to make sure that I import the first row as variable names, and then the rest of the variables should be okay.
+> **[0:37](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-currency-data?u=76281980&t=37)** I want to make sure that I import the first row as variable names, and then the [[Representational State Transfer (REST)|rest]] of the variables should be okay.
 >
 > **[0:47](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-currency-data?u=76281980&t=47)** We're going to click OK, and now all of a sudden Stata is going to pull in that data.
 >
@@ -2148,7 +2124,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-currency-data?u=76281980&t=69)** And this is all sourced from exchange [rates.org](https://rates.org), which is just an open source site containing currency data.
 >
-> **[1:17](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-currency-data?u=76281980&t=77)** So far we've talked mainly about equities, but the reality is algorithmic trading can be used in a variety of different financial products, stocks, bonds, foreign currencies, and many others.
+> **[1:17](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-currency-data?u=76281980&t=77)** So far we've talked mainly about equities, but the reality is [[Algorithmic Trading]] can be used in a variety of different financial [[Microsoft Products|products]], stocks, bonds, foreign currencies, and many others.
 >
 > **[1:30](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-currency-data?u=76281980&t=90)** All you really need is the features we talked about at the start of the course, including liquidity, access to good markets, et cetera.
 >
@@ -2160,19 +2136,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Stata]] (5), [[Microsoft Excel|Excel]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Algorithmic Trading]] (1)
+> **Frameworks & Libraries:** [[Stata]] (5), [[Microsoft Excel|Excel]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Algorithmic Trading]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [rates.org](https://rates.org) (1)
 > **Cross-References:** we talked about (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cleaning up data for algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/cleaning-up-data-for-algorithms?u=76281980)
+#### [Cleaning up data for algorithms](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/cleaning-up-data-for-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/cleaning-up-data-for-algorithms?u=76281980&t=0)** - [Instructor] Once you've imported your data into Stata the next thing you'll want to do is start cleaning it up.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/cleaning-up-data-for-algorithms?u=76281980&t=0)** - [Instructor] Once you've imported your data into [[Stata]] the next thing you'll want to do is start cleaning it up.
 >
 > **[0:05](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/cleaning-up-data-for-algorithms?u=76281980&t=5)** Now you can type directly into the command window in Stata and it'll certainly run any program commands that you put in.
 >
@@ -2324,24 +2299,23 @@ created: 2026-05-02
 >
 > **[8:27](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/cleaning-up-data-for-algorithms?u=76281980&t=507)** Pretty neat, huh?
 >
-> **[8:28](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/cleaning-up-data-for-algorithms?u=76281980&t=508)** Now we are ready to start some real algorithmic trading development.
+> **[8:28](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/cleaning-up-data-for-algorithms?u=76281980&t=508)** Now we are ready to start some real [[Algorithmic Trading]] development.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Stata]] (13), next (2), [[Algorithmic Trading]] (1)
+> **Frameworks & Libraries:** [[Stata]] (13), [[Algorithmic Trading]] (1)
 > **Definitions:** is a  (2), is called (1), in other words (1)
 > **Env Vars:** dow (1), date (1), mdy (1)
 > **Analogies:** for instance (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Strategies in currencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/strategies-in-currencies?u=76281980)
+#### [Strategies in currencies](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/strategies-in-currencies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/strategies-in-currencies?u=76281980&t=0)** - [Instructor] Now that we've put together an attractive dataset and cleaned it up a little bit, let's start going through and actually developing a real algorithmic trading strategy.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/strategies-in-currencies?u=76281980&t=0)** - [Instructor] Now that we've put together an attractive dataset and cleaned it up a little bit, let's start going through and actually developing a real [[Algorithmic Trading]] strategy.
 >
-> **[0:08](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/strategies-in-currencies?u=76281980&t=8)** I am using two different files in Stata.
+> **[0:08](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/strategies-in-currencies?u=76281980&t=8)** I am using two different files in [[Stata]].
 >
 > **[0:12](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/strategies-in-currencies?u=76281980&t=12)** First, we have the 04_04_Begin do-file.
 >
@@ -2413,20 +2387,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Stata]] (2), [[Algorithmic Trading]] (1)
+> **Frameworks & Libraries:** [[Stata]] (2), [[Algorithmic Trading]] (1)
 > **Versions:** 32.62709 (2), 111.91399 (1), 0.29154 (1), 32.6274 (1)
 > **Env Vars:** jpy (2), dta (1), thb (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing strategies in Stata
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/testing-strategies-in-stata?u=76281980)
+#### [Testing strategies in Stata](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/testing-strategies-in-stata?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/testing-strategies-in-stata?u=76281980&t=0)** - [Instructor] Once you've gone through and developed your basic strategy, you'll need to actually go and test that strategy to see if it makes money, right?
 >
-> **[0:07](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/testing-strategies-in-stata?u=76281980&t=7)** I'm in the 04_05 begin due file and the 04_05 begin .dta file in Stata.
+> **[0:07](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/testing-strategies-in-stata?u=76281980&t=7)** I'm in the 04_05 begin due file and the 04_05 begin .dta file in [[Stata]].
 >
 > **[0:16](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/testing-strategies-in-stata?u=76281980&t=16)** Now, we've gone through and previously developed this triangular arbitrage strategy, which is built around moving from the US dollar to the yen, and then the yen to the Thai baht.
 >
@@ -2578,11 +2551,11 @@ created: 2026-05-02
 >
 > **[9:38](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/testing-strategies-in-stata?u=76281980&t=578)** So from here, we could pull in realtime data, run that same variable to calculate our triangle arb value, compare that to the US dollar to Thai baht exchange rate directly, spit out an arb profit, and then an arb profit US dollar prediction, and a buy, no-buy decision, that is a one or zero value, and that would tell us whether or not we should make that trade.
 >
-> **[10:05](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/testing-strategies-in-stata?u=76281980&t=605)** From there, we'd feed that buy decision into our execution algorithm to tell it to ship this trade off to the exchange, or else don't do anything, and that's how we'd go through and build a real algorithmic trading system from soup to nuts.
+> **[10:05](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/testing-strategies-in-stata?u=76281980&t=605)** From there, we'd feed that buy decision into our execution algorithm to tell it to ship this trade off to the exchange, or else don't do anything, and that's how we'd go through and build a real [[Algorithmic Trading]] system from soup to nuts.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stata]] (5), data (2), feature (1), next (1), [[Algorithmic Trading]] (1)
+> **Frameworks & Libraries:** [[Stata]] (5), [[Algorithmic Trading]] (1)
 > **CLI Commands:** make (8)
 > **Definitions:** is an  (1), means that (1), is a  (1)
 > **Env Vars:** usd (1)
@@ -2590,16 +2563,15 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Regressions in Stata
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/regressions-in-stata?u=76281980)
+#### [Regressions in Stata](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/regressions-in-stata?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/regressions-in-stata?u=76281980&t=0)** - [Instructor] One other thing you may want to be able to do in Stata is to run regressions.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/regressions-in-stata?u=76281980&t=0)** - [Instructor] One other thing you may want to be able to do in [[Stata]] is to run regressions.
 >
-> **[0:05](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/regressions-in-stata?u=76281980&t=5)** Stata is a great tool for running regressions, and regressions are very useful for helping you to understand relationships between different variables, which is a key component, in a predictive analytic sense, in terms of developing effective algorithmic trading strategies.
+> **[0:05](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/regressions-in-stata?u=76281980&t=5)** Stata is a great tool for running regressions, and regressions are very useful for helping you to understand relationships between different variables, which is a key component, in a predictive analytic sense, in terms of developing effective [[Algorithmic Trading]] strategies.
 >
-> **[0:21](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/regressions-in-stata?u=76281980&t=21)** I've imported the data from the 04_06_Begin Excel file
+> **[0:21](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/regressions-in-stata?u=76281980&t=21)** I've imported the data from the 04_06_Begin [[Microsoft Excel|Excel]] file
 >
 > **[0:30](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/regressions-in-stata?u=76281980&t=30)** and put that into Stata, as you see here.
 >
@@ -2679,7 +2651,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stata]] (11), data (4), [[Algorithmic Trading]] (2), [[Microsoft Excel|Excel]] (2), feature (1)
+> **Frameworks & Libraries:** [[Stata]] (11), [[Algorithmic Trading]] (2), [[Microsoft Excel|Excel]] (2)
 > **Definitions:** is a  (3), in other words (1)
 > **Env Vars:** ebitda (3)
 > **CLI Commands:** make (1)
@@ -2691,26 +2663,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting broad market data
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-broad-market-data?u=76281980)
+#### [Getting broad market data](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-broad-market-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-broad-market-data?u=76281980&t=0)** - [Instructor] If you're going to do algorithmic trading, realistically you're going to need data.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-broad-market-data?u=76281980&t=0)** - [Instructor] If you're going to do [[Algorithmic Trading]], realistically you're going to need data.
 >
 > **[0:04](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-broad-market-data?u=76281980&t=4)** Let's talk about some options for where you can get that data.
 >
 > **[0:07](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-broad-market-data?u=76281980&t=7)** So, when we think about data in the capital markets, there's probably a few things that come to mind, right, but top of list is going to be stock market data.
 >
-> **[0:17](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-broad-market-data?u=76281980&t=17)** Realistically, you're going to need historical price data and real-time data so that you can make trading decisions.
+> **[0:17](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-broad-market-data?u=76281980&t=17)** Realistically, you're going to need historical price data and [[Real-Time]] data so that you can make trading decisions.
 >
 > **[0:24](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-broad-market-data?u=76281980&t=24)** In other words, you need historical data so that you can come up with some sort of a strategy based on backtesting, and then you need real-time data to enable you to go through and use a rules-based asset management approach.
 >
-> **[0:37](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-broad-market-data?u=76281980&t=37)** Now, there's many different sources of financial data that are out there.
+> **[0:37](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-broad-market-data?u=76281980&t=37)** Now, there's many different sources of [[Financial Data]] that are out there.
 >
 > **[0:41](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-broad-market-data?u=76281980&t=41)** One of my favorites is FactSet.
 >
-> **[0:42](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-broad-market-data?u=76281980&t=42)** FactSet is generally used in the asset management industry, but it's used by a variety of firms across the entire financial space, and they have a lot of different dashboards that are appropriate for different industries.
+> **[0:42](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-broad-market-data?u=76281980&t=42)** FactSet is generally used in the asset management industry, but it's used by a variety of firms across the entire financial space, and they have a lot of different [[Dashboards]] that are appropriate for different industries.
 >
 > **[0:55](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/getting-broad-market-data?u=76281980&t=55)** So, FactSet is certainly something you should be thinking about as a starting point here.
 >
@@ -2746,15 +2717,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), api (4), [[Algorithmic Trading]] (3), management (3), [[Real-Time]] (2)
+> **Frameworks & Libraries:** [[Algorithmic Trading]] (3), [[Real-Time]] (2), [[Financial Data]] (1), [[Dashboards]] (1)
 > **Env Vars:** api (4)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of data
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/types-of-data?u=76281980)
+#### [Types of data](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/types-of-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2776,7 +2746,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/types-of-data?u=76281980&t=52)** One of my favorite sources for data is from Wharton at the University of Pennsylvania, and it's the Wharton Research Data Services Tool.
 >
-> **[1:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/types-of-data?u=76281980&t=60)** Now, this is my particular WRDS account, so obviously you wouldn't have access to the same products necessarily and the particular products you have, depending on what you subscribe to.
+> **[1:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/types-of-data?u=76281980&t=60)** Now, this is my particular WRDS account, so obviously you wouldn't have access to the same [[Microsoft Products|products]] necessarily and the particular products you have, depending on what you subscribe to.
 >
 > **[1:10](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/types-of-data?u=76281980&t=70)** But WRDS is really just a platform.
 >
@@ -2784,7 +2754,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/types-of-data?u=76281980&t=77)** And there's dozens of different data sources, right, ranging from things like patents to global stock markets around the world to individual US stock markets, and data-specific to either the market as a whole or to individual companies.
 >
-> **[1:34](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/types-of-data?u=76281980&t=94)** Now, there's lots of different opportunities to kind of pull in that data, and then based on having pulled that data in in some sort of format, you can then go through and run different back tests to try to find strategies that might be appropriate for your particular algorithms or the particular markets you're operating in.
+> **[1:34](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/types-of-data?u=76281980&t=94)** Now, there's lots of different opportunities to kind of pull in that data, and then based on having pulled that data in in some sort of format, you can then go through and run different back tests to try to find strategies that might be appropriate for your particular [[Algorithms]] or the particular markets you're operating in.
 >
 > **[1:55](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/types-of-data?u=76281980&t=115)** So this is a very appealing part of kind of the WRDS database, is that there's lots of different places that you can kind of look for data using WRDS, right?
 >
@@ -2810,7 +2780,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), api (3), [[Microsoft Products|Products]] (2), [[Algorithms]] (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Algorithms]] (1)
 > **Env Vars:** wrds (6), api (3), msrb (1), otc (1), trace (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -2819,8 +2789,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### CRSP and Compustat
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/crsp-and-compustat?u=76281980)
+#### [CRSP and Compustat](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/crsp-and-compustat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2892,25 +2861,24 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/crsp-and-compustat?u=76281980&t=216)** So we might turn to something like permco or cusip or something similar as a way to go through and identify these firms over time.
 >
-> **[3:46](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/crsp-and-compustat?u=76281980&t=226)** And then we would put this file into, we would download it in Excel potentially, and import it into something else, or more likely in something like SaaS or Stata or a CSV file that we then import into our Python, Stata, whatever we're interested in.
+> **[3:46](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/crsp-and-compustat?u=76281980&t=226)** And then we would put this file into, we would download it in [[Microsoft Excel|Excel]] potentially, and import it into something else, or more likely in something like [[SaaS]] or [[Stata]] or a CSV file that we then import into our [[Python (Programming Language)|Python]], Stata, whatever we're interested in.
 >
 > **[4:02](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/crsp-and-compustat?u=76281980&t=242)** And from there, with this data, we can then go through and start back-testing to see what types of strategies we might come up with.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Stata]] (2), business (1), career (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Stata]] (2), [[Microsoft Excel|Excel]] (1), [[SaaS]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** crsp (2), wrds (1), csv (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Other financial markets data
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/other-financial-markets-data?u=76281980)
+#### [Other financial markets data](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/other-financial-markets-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/other-financial-markets-data?u=76281980&t=0)** - [Instructor] Beyond basic stock pricing, if you're going to develop robust algorithmic trading strategies, you're going to need to pull data from a variety of sources.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/other-financial-markets-data?u=76281980&t=0)** - [Instructor] Beyond basic stock pricing, if you're going to develop robust [[Algorithmic Trading]] strategies, you're going to need to pull data from a variety of sources.
 >
 > **[0:09](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/other-financial-markets-data?u=76281980&t=9)** Now, that can mean using APIs from places like Alpaca.
 >
@@ -2954,7 +2922,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/other-financial-markets-data?u=76281980&t=186)** And this tells us something about the relative solvency of a particular firm.
 >
-> **[3:11](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/other-financial-markets-data?u=76281980&t=191)** So the point is, we can pull all this data in, then we merge it up with our securities price data from Crisp, from any other source that we're interested in, and we can then having put this into Python, R, or Stata or some other software program, we can develop trading strategies around it.
+> **[3:11](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/other-financial-markets-data?u=76281980&t=191)** So the point is, we can pull all this data in, then we merge it up with our securities price data from Crisp, from any other source that we're interested in, and we can then having put this into [[Python (Programming Language)|Python]], R, or [[Stata]] or some other software program, we can develop trading strategies around it.
 >
 > **[3:33](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/other-financial-markets-data?u=76281980&t=213)** Now, we've talked already about how to import data into Python, R, and Stata, respectively, but this is the kind of source that you can use to actually get that data to do the testing.
 >
@@ -2962,11 +2930,11 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/other-financial-markets-data?u=76281980&t=232)** From there, it becomes what data are you going to use, and then how creative can you get around the strategies you're going to develop.
 >
-> **[4:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/other-financial-markets-data?u=76281980&t=240)** But this gives you an overview and an idea of the range of different data that's available out there, and hopefully gives you a starting point for developing your own algorithms.
+> **[4:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/other-financial-markets-data?u=76281980&t=240)** But this gives you an overview and an idea of the range of different data that's available out there, and hopefully gives you a starting point for developing your own [[Algorithms]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Python (Programming Language)|Python]] (2), [[Stata]] (2), [[Algorithmic Trading]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Stata]] (2), [[Algorithmic Trading]] (1), [[Algorithms]] (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** wrds (1), cusip (1)
 > **Cross-References:** previous video (1), as we saw (1)
@@ -2978,8 +2946,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choosing tactics: Trading or investing
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/choosing-tactics-trading-or-investing?u=76281980)
+#### [Choosing tactics: Trading or investing](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/choosing-tactics-trading-or-investing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2989,7 +2956,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/choosing-tactics-trading-or-investing?u=76281980&t=10)** Let's talk about this a little bit.
 >
-> **[0:12](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/choosing-tactics-trading-or-investing?u=76281980&t=12)** So I've pulled up Stata here and I've got a program that I wrote, and basically what we're looking at is just some data that I've pulled in from CRISP and CompStat into Stata.
+> **[0:12](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/choosing-tactics-trading-or-investing?u=76281980&t=12)** So I've pulled up [[Stata]] here and I've got a program that I wrote, and basically what we're looking at is just some data that I've pulled in from CRISP and CompStat into Stata.
 >
 > **[0:24](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/choosing-tactics-trading-or-investing?u=76281980&t=24)** And you see that here, right?
 >
@@ -3011,7 +2978,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/choosing-tactics-trading-or-investing?u=76281980&t=102)** And Stata is very nice for kind of letting us go through and put all this information together and then view it.
 >
-> **[1:47](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/choosing-tactics-trading-or-investing?u=76281980&t=107)** But what I find is often helpful after this, I like to pull it out and put it into Excel or PowerPoint or something like that, for visualization purposes.
+> **[1:47](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/choosing-tactics-trading-or-investing?u=76281980&t=107)** But what I find is often helpful after this, I like to pull it out and put it into [[Microsoft Excel|Excel]] or [[Microsoft PowerPoint|PowerPoint]] or something like that, for visualization purposes.
 >
 > **[1:57](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/choosing-tactics-trading-or-investing?u=76281980&t=117)** Now, let's just take a look at two types of trading strategies that we might be following.
 >
@@ -3093,7 +3060,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Stata]] (4), next (2), [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Stata]] (4), [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Versions:** 0.03 (1), 6.7 (1), 1.02 (1), 9.38 (1), 8.2 (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -3102,8 +3069,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding strategies in trading: Market microstructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-trading-market-microstructure?u=76281980)
+#### [Finding strategies in trading: Market microstructure](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-trading-market-microstructure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3111,9 +3077,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-trading-market-microstructure?u=76281980&t=9)** Let's take a look at an example.
 >
-> **[0:10](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-trading-market-microstructure?u=76281980&t=10)** I'm in the 06_02_Begin Excel file.
+> **[0:10](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-trading-market-microstructure?u=76281980&t=10)** I'm in the 06_02_Begin [[Microsoft Excel|Excel]] file.
 >
-> **[0:14](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-trading-market-microstructure?u=76281980&t=14)** Now what I've done here is pull in some data from Stata, having kind of gone through and manipulated that data.
+> **[0:14](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-trading-market-microstructure?u=76281980&t=14)** Now what I've done here is pull in some data from [[Stata]], having kind of gone through and manipulated that data.
 >
 > **[0:22](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-trading-market-microstructure?u=76281980&t=22)** And this represents the S&P 500, and we've got daily price levels over time from 1962 through the end of 2023.
 >
@@ -3167,7 +3133,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-trading-market-microstructure?u=76281980&t=166)** So one way to tell, to identify mathematically if something is a peak or a trough, is based on changes in slope, right?
 >
-> **[2:55](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-trading-market-microstructure?u=76281980&t=175)** If you think about your calculus class, calculus one, if you think back to high school as an example, okay, what is the derivative measure?
+> **[2:55](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-trading-market-microstructure?u=76281980&t=175)** If you think about your [[Calculus]] class, calculus one, if you think back to high school as an example, okay, what is the derivative measure?
 >
 > **[3:03](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-trading-market-microstructure?u=76281980&t=183)** Well, it measures the rate of change at a given point.
 >
@@ -3175,7 +3141,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-trading-market-microstructure?u=76281980&t=191)** Well, the slope is really the derivative at a given point in time then, right?
 >
-> **[3:16](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-trading-market-microstructure?u=76281980&t=196)** So I went through and I'm using Microsoft Excel's slope function to figure out what the slope is from day to day.
+> **[3:16](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-trading-market-microstructure?u=76281980&t=196)** So I went through and I'm using [[Microsoft Excel]]'s slope function to figure out what the slope is from day to day.
 >
 > **[3:23](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-trading-market-microstructure?u=76281980&t=203)** And this tells us as an example whether something is trending up or down.
 >
@@ -3205,7 +3171,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-trading-market-microstructure?u=76281980&t=268)** Is there a positive return or a negative return in the previous period that we can capitalize on, for example, what types of mechanisms or what types of metrics can we find that we might be able to look at to identify attractive trading patterns?
 >
-> **[4:46](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-trading-market-microstructure?u=76281980&t=286)** The point is that I often find, it's helpful to go through, pull in the data, whether it's in Python, or R, Stata, go through, pull that data into a spreadsheet, look at it, think about it, get to really know it, and be able to say, "Hey, what is it I'm trying to pick up on?
+> **[4:46](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-trading-market-microstructure?u=76281980&t=286)** The point is that I often find, it's helpful to go through, pull in the data, whether it's in [[Python (Programming Language)|Python]], or R, Stata, go through, pull that data into a spreadsheet, look at it, think about it, get to really know it, and be able to say, "Hey, what is it I'm trying to pick up on?
 >
 > **[5:04](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-trading-market-microstructure?u=76281980&t=304)** Am I trying to pick up on trend following, reversion to mean?
 >
@@ -3219,7 +3185,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Stata]] (4), [[Calculus]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Stata]] (4), [[Calculus]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Excel]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (3), make (3), python (1)
 > **Definitions:** is a  (4)
 > **Versions:** 1.46 (1)
@@ -3227,12 +3193,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding strategies in investing: Factors
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-investing-factors?u=76281980)
+#### [Finding strategies in investing: Factors](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-investing-factors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-investing-factors?u=76281980&t=0)** - [Instructor] When people think about algorithmic trading, they usually think about high-frequency trading, that is trading multiple times per day, or oftentimes multiple times per second or minute.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-investing-factors?u=76281980&t=0)** - [Instructor] When people think about [[Algorithmic Trading]], they usually think about high-frequency trading, that is trading multiple times per day, or oftentimes multiple times per second or minute.
 >
 > **[0:10](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-investing-factors?u=76281980&t=10)** It doesn't have to be that way.
 >
@@ -3246,9 +3211,9 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-investing-factors?u=76281980&t=44)** Let's take a look at an example of how this works.
 >
-> **[0:48](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-investing-factors?u=76281980&t=48)** I'm in the 06_03_Begin Excel file.
+> **[0:48](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-investing-factors?u=76281980&t=48)** I'm in the 06_03_Begin [[Microsoft Excel|Excel]] file.
 >
-> **[0:51](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-investing-factors?u=76281980&t=51)** Now, what I've done here is use Stata, and I've pulled in data on all stocks from 1960 through present, and I have sorted these into quartiles based on momentum, right?
+> **[0:51](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-investing-factors?u=76281980&t=51)** Now, what I've done here is use [[Stata]], and I've pulled in data on all stocks from 1960 through present, and I have sorted these into quartiles based on momentum, right?
 >
 > **[1:07](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-investing-factors?u=76281980&t=67)** So based on how much they have gone up in the previous T-1 to T-12 period, okay?
 >
@@ -3280,7 +3245,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-investing-factors?u=76281980&t=203)** Now, this is just one snapshot of the data, right?
 >
-> **[3:26](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-investing-factors?u=76281980&t=206)** We haven't necessarily looked at what the probability of losses are, the standard deviation or any of that, but we can start to see, well, hey, maybe that's an opportunity.
+> **[3:26](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-investing-factors?u=76281980&t=206)** We haven't necessarily looked at what the [[Probability]] of losses are, the standard deviation or any of that, but we can start to see, well, hey, maybe that's an opportunity.
 >
 > **[3:35](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/finding-strategies-in-investing-factors?u=76281980&t=215)** We're going to pull in data, and we're looking for stocks that underperformed last year, but have an attractive PE ratio, meaning their price to earnings are pretty low.
 >
@@ -3330,7 +3295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Algorithmic Trading]] (4), [[Microsoft Excel|Excel]] (2), [[Stata]] (1), next (1)
+> **Frameworks & Libraries:** [[Algorithmic Trading]] (4), [[Microsoft Excel|Excel]] (2), [[Stata]] (1), [[Probability]] (1)
 > **Env Vars:** dfa (1), aqr (1)
 > **Versions:** 11.7 (1), 37.7 (1)
 > **CLI Commands:** make (1)
@@ -3338,8 +3303,7 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Risk management and stress testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/risk-management-and-stress-testing?u=76281980)
+#### [Risk management and stress testing](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/risk-management-and-stress-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3443,7 +3407,7 @@ created: 2026-05-02
 >
 > **[6:14](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/risk-management-and-stress-testing?u=76281980&t=374)** And what we see is, again, kind of breaking out by quartiles, slowest-growing firms, a little more likely to have a loss, but if they have a loss, it's generally a little bit less than very fast-growing firms.
 >
-> **[6:29](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/risk-management-and-stress-testing?u=76281980&t=389)** So high-growth firms, less likely to have a loss, but when they do have a loss, it's larger than the rest of the market.
+> **[6:29](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/risk-management-and-stress-testing?u=76281980&t=389)** So high-growth firms, less likely to have a loss, but when they do have a loss, it's larger than the [[Representational State Transfer (REST)|rest]] of the market.
 >
 > **[6:36](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/risk-management-and-stress-testing?u=76281980&t=396)** And this is borne out by that top 10%.
 >
@@ -3465,11 +3429,11 @@ created: 2026-05-02
 >
 > **[7:31](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/risk-management-and-stress-testing?u=76281980&t=451)** And we could go through and identify what these particular industries are, but on some level, it doesn't matter.
 >
-> **[7:36](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/risk-management-and-stress-testing?u=76281980&t=456)** What we're doing is basically data mining to try to identify patterns.
+> **[7:36](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/risk-management-and-stress-testing?u=76281980&t=456)** What we're doing is basically [[Data Mining]] to try to identify patterns.
 >
 > **[7:39](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/risk-management-and-stress-testing?u=76281980&t=459)** And what you see here is there are certain industries that appear less likely to have losses, all else equal, right?
 >
-> **[7:48](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/risk-management-and-stress-testing?u=76281980&t=468)** Industry six here, SIC code six, as an example, appears safer in general than something like SIC code nine, lower probability of a loss.
+> **[7:48](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/risk-management-and-stress-testing?u=76281980&t=468)** Industry six here, SIC code six, as an example, appears safer in general than something like SIC code nine, lower [[Probability]] of a loss.
 >
 > **[8:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/risk-management-and-stress-testing?u=76281980&t=480)** And their losses, in general, are much smaller than something like SIC code nine, or even than the typical SIC code, like SIC code three, SIC code eight, et cetera.
 >
@@ -3479,11 +3443,11 @@ created: 2026-05-02
 >
 > **[8:38](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/risk-management-and-stress-testing?u=76281980&t=518)** But two of the characteristics you're going to care about is what's the probability of a loss in your portfolio, and given a loss, how big will that loss be?
 >
-> **[8:48](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/risk-management-and-stress-testing?u=76281980&t=528)** And that's what you want to think about and figure out how you're going to capture across not only any individual algorithmic trading strategy, but your suite of strategies as a whole.
+> **[8:48](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/risk-management-and-stress-testing?u=76281980&t=528)** And that's what you want to think about and figure out how you're going to capture across not only any individual [[Algorithmic Trading]] strategy, but your suite of strategies as a whole.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Probability]] (2), [[Security]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Probability]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Data Mining]] (1), [[Algorithmic Trading]] (1)
 > **Env Vars:** sic (11), naics (2)
 > **CLI Commands:** make (3)
 > **Versions:** 49.2 (1)
@@ -3491,12 +3455,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Model aging and obsolescence
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/model-aging-and-obsolescence?u=76281980)
+#### [Model aging and obsolescence](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/model-aging-and-obsolescence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/model-aging-and-obsolescence?u=76281980&t=0)** - [Michael] For any algorithmic trading model you come up with, you're going to face a problem.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/model-aging-and-obsolescence?u=76281980&t=0)** - [Michael] For any [[Algorithmic Trading]] model you come up with, you're going to face a problem.
 >
 > **[0:04](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/model-aging-and-obsolescence?u=76281980&t=4)** If you have a strategy that works now, other people are going to find that strategy over time, and eventually your model will become obsolete.
 >
@@ -3508,7 +3471,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/model-aging-and-obsolescence?u=76281980&t=50)** And what they find is essentially that there's a link between firms and their customers.
 >
-> **[0:59](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/model-aging-and-obsolescence?u=76281980&t=59)** Specifically if we have a company that is selling products to other companies, well then, the earnings content, the earnings release for Firm A has economic implications, economic meaning, for Firm B.
+> **[0:59](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/model-aging-and-obsolescence?u=76281980&t=59)** Specifically if we have a company that is selling [[Microsoft Products|products]] to other companies, well then, the earnings content, the earnings release for Firm A has economic implications, economic meaning, for Firm B.
 >
 > **[1:15](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/model-aging-and-obsolescence?u=76281980&t=75)** In other words, if Apple is beating on their earnings release, well then, probably, Apple suppliers are going to beat on their earnings release as well.
 >
@@ -3572,7 +3535,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Algorithmic Trading]] (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Algorithmic Trading]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (6), make (2)
 > **Definitions:** is a  (2), in other words (1), is an  (1)
 > **Analogies:** for example (1)
@@ -3583,14 +3546,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/next-steps-and-additional-resources?u=76281980)
+#### [Next steps and additional resources](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/next-steps-and-additional-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/next-steps-and-additional-resources?u=76281980&t=0)** - As you move forward in your career and consider ways that you can use algorithmic trading to help you advance your financial future, there's a few things, a few key points, if you will, that I want you to remember.
+> **[0:00](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/next-steps-and-additional-resources?u=76281980&t=0)** - As you move forward in your career and consider ways that you can use [[Algorithmic Trading]] to help you advance your financial future, there's a few things, a few key points, if you will, that I want you to remember.
 >
-> **[0:12](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/next-steps-and-additional-resources?u=76281980&t=12)** First of all, we've talked in this course about R, Stata, and Python, and I've showed you a variety of third party add-ins, tips, tools, and tricks that you can use with each programming language.
+> **[0:12](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/next-steps-and-additional-resources?u=76281980&t=12)** First of all, we've talked in this course about R, [[Stata]], and [[Python (Programming Language)|Python]], and I've showed you a variety of third party add-ins, tips, tools, and tricks that you can use with each programming language.
 >
 > **[0:23](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/next-steps-and-additional-resources?u=76281980&t=23)** My goal here was certainly not to give you any exhaustive education in any of these programming languages.
 >
@@ -3608,17 +3570,17 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/next-steps-and-additional-resources?u=76281980&t=59)** Focus on learning more about the capital markets.
 >
-> **[1:02](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/next-steps-and-additional-resources?u=76281980&t=62)** Learn more about stocks, bonds, currencies, and a variety of other products you might be able to trade.
+> **[1:02](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/next-steps-and-additional-resources?u=76281980&t=62)** Learn more about stocks, bonds, currencies, and a variety of other [[Microsoft Products|products]] you might be able to trade.
 >
 > **[1:08](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/next-steps-and-additional-resources?u=76281980&t=68)** Look for opportunities to capitalize on either new data sets or existing data sets, or maybe you think you can find a strategy by looking at it in a little different way than people have in the past.
 >
-> **[1:20](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/next-steps-and-additional-resources?u=76281980&t=80)** And of course, and perhaps most importantly, keep an eye out for more great courses on finance and algo trading right here on LinkedIn Learning.
+> **[1:20](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/next-steps-and-additional-resources?u=76281980&t=80)** And of course, and perhaps most importantly, keep an eye out for more great courses on finance and algo trading right here on [[LinkedIn]] Learning.
 >
 > **[1:28](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training-24504280/next-steps-and-additional-resources?u=76281980&t=88)** Thanks, and I'll see you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Programming]] (2), career (1), [[Algorithmic Trading]] (1), [[Stata]] (1)
+> **Frameworks & Libraries:** [[Algorithmic Trading]] (1), [[Stata]] (1), [[Python (Programming Language)|Python]] (1), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (2), python (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - as (1)

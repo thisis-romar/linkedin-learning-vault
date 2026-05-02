@@ -102,12 +102,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to Kotlin
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/welcome-to-kotlin-14800824?u=76281980)
+#### [Welcome to Kotlin](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/welcome-to-kotlin-14800824?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/welcome-to-kotlin-14800824?u=76281980&t=0)** - [Nate] Kotlin is one of the most popular programming languages for building mobile applications, being the default choice for Android development.
+> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/welcome-to-kotlin-14800824?u=76281980&t=0)** - [Nate] [[Kotlin]] is one of the most popular programming languages for building mobile applications, being the default choice for [[Android]] development.
 >
 > **[0:08](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/welcome-to-kotlin-14800824?u=76281980&t=8)** It's no surprise why developers are turning to Kotlin.
 >
@@ -123,42 +122,40 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/welcome-to-kotlin-14800824?u=76281980&t=42)** I've been building mobile applications for over 10 years and have been working with Kotlin since before it's 1.0 release.
 >
-> **[0:49](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/welcome-to-kotlin-14800824?u=76281980&t=49)** If you're excited to start learning Kotlin then join me in my LinkedIn learning course on Kotlin essentials.
+> **[0:49](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/welcome-to-kotlin-14800824?u=76281980&t=49)** If you're excited to start learning Kotlin then join me in my [[LinkedIn]] learning course on Kotlin essentials.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (8), [[Programming]] (1), [[Android]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Kotlin]] (8), [[Android]] (1), [[LinkedIn]] (1)
 > **Versions:** 1.0 (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [nate] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/what-you-should-know-14798820?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/what-you-should-know-14798820?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/what-you-should-know-14798820?u=76281980&t=0)** - [Instructor] This course is designed to help you learn the essentials of the Kotlin programming language.
+> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/what-you-should-know-14798820?u=76281980&t=0)** - [Instructor] This course is designed to help you learn the essentials of the [[Kotlin]] programming language.
 >
-> **[0:05](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/what-you-should-know-14798820?u=76281980&t=5)** To get the most out of it you should already be familiar with writing code using a modern language such as Java, Python, Swift or JavaScript.
+> **[0:05](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/what-you-should-know-14798820?u=76281980&t=5)** To get the most out of it you should already be familiar with writing code using a modern language such as [[Java]], [[Python (Programming Language)|Python]], [[Swift (Programming Language)|Swift]] or [[JavaScript]].
 >
-> **[0:15](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/what-you-should-know-14798820?u=76281980&t=15)** You'll want to be comfortable with object oriented programming concepts and you should know your way around GitHub.
+> **[0:15](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/what-you-should-know-14798820?u=76281980&t=15)** You'll want to be comfortable with object oriented [[Programming Concepts]] and you should know your way around [[GitHub]].
 >
 > **[0:23](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/what-you-should-know-14798820?u=76281980&t=23)** If you feel you should brush up on any of these concepts check out the course library for more resources and come back to this course when you're ready.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (1), [[Programming]] (1), [[Java]] (1), [[Python (Programming Language)|Python]] (1), [[Swift (Programming Language)|Swift]] (1)
+> **Frameworks & Libraries:** [[Kotlin]] (1), [[Java]] (1), [[Python (Programming Language)|Python]] (1), [[Swift (Programming Language)|Swift]] (1), [[JavaScript]] (1)
 > **CLI Commands:** python (1)
 > **Tools:** github (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files on GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/using-the-exercise-files-on-github-14803700?u=76281980)
+#### [Using the exercise files on GitHub](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/using-the-exercise-files-on-github-14803700?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/using-the-exercise-files-on-github-14803700?u=76281980&t=1)** - [Instructor] The exercise files for this course are stored on GitHub.
+> **[0:01](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/using-the-exercise-files-on-github-14803700?u=76281980&t=1)** - [Instructor] The exercise files for this course are stored on [[GitHub]].
 >
 > **[0:05](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/using-the-exercise-files-on-github-14803700?u=76281980&t=5)** There are branches for both the start and end states of each video where we work on code.
 >
@@ -172,7 +169,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/using-the-exercise-files-on-github-14803700?u=76281980&t=53)** Once in IntelliJ, we're going to select the Get from VCS option.
 >
-> **[0:57](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/using-the-exercise-files-on-github-14803700?u=76281980&t=57)** VCS in this context stands for version control system.
+> **[0:57](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/using-the-exercise-files-on-github-14803700?u=76281980&t=57)** VCS in this context stands for [[Version Control]] system.
 >
 > **[1:01](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/using-the-exercise-files-on-github-14803700?u=76281980&t=61)** When we click that button, we'll get the Get from Version Control dialogue, where we will then paste in the URL to the repo that we copied from GitHub.
 >
@@ -180,7 +177,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/using-the-exercise-files-on-github-14803700?u=76281980&t=79)** Once you're satisfied with that working directory, go ahead and click Clone to download the project to your machine.
 >
-> **[1:27](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/using-the-exercise-files-on-github-14803700?u=76281980&t=87)** Once you've opened the project, you may receive a few dialogues asking if you want to add the files to Git, go ahead and ignore those, but chances are, by the time you download the files, there will be updates to IntelliJ and the associated plugins.
+> **[1:27](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/using-the-exercise-files-on-github-14803700?u=76281980&t=87)** Once you've opened the project, you may receive a few dialogues asking if you want to add the files to [[Git]], go ahead and ignore those, but chances are, by the time you download the files, there will be updates to IntelliJ and the associated plugins.
 >
 > **[1:40](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/using-the-exercise-files-on-github-14803700?u=76281980&t=100)** If you receive a dialogue asking you to upgrade your dependencies, please do so, then wait project to sync.
 >
@@ -210,7 +207,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[Git]] (3), [[Version Control]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Git]] (3), [[Version Control]] (2)
 > **Tools:** intellij (5), github (3)
 > **CLI Commands:** git (3), find (2)
 > **Env Vars:** url (2), vcs (2)
@@ -224,12 +221,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing IntelliJ IDEA
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/introducing-intellij-idea-14799802?u=76281980)
+#### [Introducing IntelliJ IDEA](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/introducing-intellij-idea-14799802?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/introducing-intellij-idea-14799802?u=76281980&t=0)** - [Instructor] Like most programming languages, it's possible to write Kotlin in a variety of ways, from the command line, your favorite text editor, or other more language focused programs.
+> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/introducing-intellij-idea-14799802?u=76281980&t=0)** - [Instructor] Like most programming languages, it's possible to write [[Kotlin]] in a variety of ways, from the command line, your favorite text editor, or other more language focused programs.
 >
 > **[0:10](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/introducing-intellij-idea-14799802?u=76281980&t=10)** In this course, we're going to be using a program called IntelliJ Idea or just IntelliJ for short.
 >
@@ -241,7 +237,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/introducing-intellij-idea-14799802?u=76281980&t=33)** Without a fully featured IDE, we would need to build our Kotlin projects using a combination of different text editors, terminals, and command line tools.
 >
-> **[0:42](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/introducing-intellij-idea-14799802?u=76281980&t=42)** And while this is perfectly possible, it's not usually the most efficient way to write modern software projects.
+> **[0:42](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/introducing-intellij-idea-14799802?u=76281980&t=42)** And while this is perfectly possible, it's not usually the most efficient way to write modern [[Software Projects]].
 >
 > **[0:50](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/introducing-intellij-idea-14799802?u=76281980&t=50)** IntelliJ has a robust suite of tools for Kotlin development including a fully functional text editor, syntax highlighting, and powerful refactoring capabilities.
 >
@@ -249,11 +245,11 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/introducing-intellij-idea-14799802?u=76281980&t=68)** Well that's because IntelliJ is built by JetBrains, the creators of the Kotlin programming language.
 >
-> **[1:15](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/introducing-intellij-idea-14799802?u=76281980&t=75)** They are the industry leaders in IDE development with a long track record of terrific tooling for C#, Java and other popular languages.
+> **[1:15](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/introducing-intellij-idea-14799802?u=76281980&t=75)** They are the industry leaders in IDE development with a long track record of terrific tooling for C#, [[Java]] and other popular languages.
 >
 > **[1:28](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/introducing-intellij-idea-14799802?u=76281980&t=88)** Because of this, IntelliJ provides a powerful and comprehensive set of functionality for building nearly any type of Kotlin project you could want, including mobile, web, or backend projects.
 >
-> **[1:41](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/introducing-intellij-idea-14799802?u=76281980&t=101)** IntelliJ comes in two flavors, community edition and ultimate, and both of these variants are available across Mac, Windows and Linux.
+> **[1:41](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/introducing-intellij-idea-14799802?u=76281980&t=101)** IntelliJ comes in two flavors, community edition and ultimate, and both of these variants are available across Mac, [[Windows]] and [[Linux]].
 >
 > **[1:51](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/introducing-intellij-idea-14799802?u=76281980&t=111)** The community edition provides full support for Kotlin development and is free to use and download.
 >
@@ -267,7 +263,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (9), [[Programming]] (2), [[Software Projects]] (1), functional (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Kotlin]] (9), [[Software Projects]] (1), [[Java]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Tools:** intellij (8), command line (2)
 > **Env Vars:** ide (4)
 > **Versions:** version
@@ -276,16 +272,15 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing IntelliJ IDEA for macOS
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/installing-intellij-idea-for-macos-14800826?u=76281980)
+#### [Installing IntelliJ IDEA for macOS](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/installing-intellij-idea-for-macos-14800826?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/installing-intellij-idea-for-macos-14800826?u=76281980&t=0)** - [Instructor] Before we can start writing Kotlin code with IntelliJ, we'll first need to download and install one of the available versions of the IDE.
+> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/installing-intellij-idea-for-macos-14800826?u=76281980&t=0)** - [Instructor] Before we can start writing [[Kotlin]] code with IntelliJ, we'll first need to download and install one of the available versions of the IDE.
 >
 > **[0:08](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/installing-intellij-idea-for-macos-14800826?u=76281980&t=8)** Let's walk through the IntelliJ installation process for macOS.
 >
-> **[0:12](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/installing-intellij-idea-for-macos-14800826?u=76281980&t=12)** If developing on a Windows machine, no worries, we will cover the Windows installation process soon.
+> **[0:12](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/installing-intellij-idea-for-macos-14800826?u=76281980&t=12)** If developing on a [[Windows]] machine, no worries, we will cover the Windows installation process soon.
 >
 > **[0:19](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/installing-intellij-idea-for-macos-14800826?u=76281980&t=19)** Whether you want to install the Community or Ultimate Edition, there are two primary ways to download IntelliJ.
 >
@@ -293,7 +288,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/installing-intellij-idea-for-macos-14800826?u=76281980&t=31)** If you aren't familiar, JetBrains Toolbox is an application for managing the installation and updates for any JetBrains IDE.
 >
-> **[0:41](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/installing-intellij-idea-for-macos-14800826?u=76281980&t=41)** It's a very helpful tool if you're using IntelliJ, Android Studio, or any other JetBrains IDE.
+> **[0:41](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/installing-intellij-idea-for-macos-14800826?u=76281980&t=41)** It's a very helpful tool if you're using IntelliJ, [[Android]] Studio, or any other JetBrains IDE.
 >
 > **[0:48](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/installing-intellij-idea-for-macos-14800826?u=76281980&t=48)** We won't walk through the installation of JetBrains Toolbox itself in this course.
 >
@@ -337,7 +332,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Kotlin]] (2), [[Windows]] (2), [[Android]] (1), web (1)
+> **Frameworks & Libraries:** [[Kotlin]] (2), [[Windows]] (2), [[Android]] (1)
 > **Tools:** intellij (16)
 > **Env Vars:** ide (4), cpu (1)
 > **Prerequisites:** install (4)
@@ -346,14 +341,13 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **URLs:** [jetbrains.com](https://jetbrains.com) (1)
 
-#### Installing IntelliJ IDEA for Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/installing-intellij-idea-for-windows-14799792?u=76281980)
+#### [Installing IntelliJ IDEA for Windows](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/installing-intellij-idea-for-windows-14799792?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/installing-intellij-idea-for-windows-14799792?u=76281980&t=0)** - Before we can start writing Kotlin code with IntelliJ, we'll first need to download and install one of the available versions of the IDE.
+> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/installing-intellij-idea-for-windows-14799792?u=76281980&t=0)** - Before we can start writing [[Kotlin]] code with IntelliJ, we'll first need to download and install one of the available versions of the IDE.
 >
-> **[0:08](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/installing-intellij-idea-for-windows-14799792?u=76281980&t=8)** Now, let's go through the IntelliJ installation process for Windows.
+> **[0:08](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/installing-intellij-idea-for-windows-14799792?u=76281980&t=8)** Now, let's go through the IntelliJ installation process for [[Windows]].
 >
 > **[0:13](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/installing-intellij-idea-for-windows-14799792?u=76281980&t=13)** Whether you want to install the Community or Ultimate Edition, there are two primary ways to download IntelliJ.
 >
@@ -361,7 +355,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/installing-intellij-idea-for-windows-14799792?u=76281980&t=24)** If you aren't familiar, JetBrains Toolbox is an application for managing the installation and updates for any JetBrains-based IDE.
 >
-> **[0:34](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/installing-intellij-idea-for-windows-14799792?u=76281980&t=34)** It's a very helpful tool if you're using IntelliJ, Android Studio or any other JetBrains IDE.
+> **[0:34](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/installing-intellij-idea-for-windows-14799792?u=76281980&t=34)** It's a very helpful tool if you're using IntelliJ, [[Android]] Studio or any other JetBrains IDE.
 >
 > **[0:42](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/installing-intellij-idea-for-windows-14799792?u=76281980&t=42)** We won't walk through the installation of JetBrains Toolbox itself in this course.
 >
@@ -409,7 +403,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Kotlin]] (2), application (2), [[Android]] (1), web (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Kotlin]] (2), [[Android]] (1)
 > **Tools:** intellij (16)
 > **Prerequisites:** install (9), setup (1)
 > **Env Vars:** ide (3), idea (1)
@@ -418,12 +412,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - before (1)
 
-#### Run your first Kotlin code
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/run-your-first-kotlin-code-14799786?u=76281980)
+#### [Run your first Kotlin code](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/run-your-first-kotlin-code-14799786?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/run-your-first-kotlin-code-14799786?u=76281980&t=0)** - [Instructor] To create our first Kotlin project, open the IntelliJ application.
+> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/run-your-first-kotlin-code-14799786?u=76281980&t=0)** - [Instructor] To create our first [[Kotlin]] project, open the IntelliJ application.
 >
 > **[0:05](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/run-your-first-kotlin-code-14799786?u=76281980&t=5)** Once open, select New Project.
 >
@@ -433,7 +426,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/run-your-first-kotlin-code-14799786?u=76281980&t=20)** But for now, we will stick with the basic JVM console application.
 >
-> **[0:25](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/run-your-first-kotlin-code-14799786?u=76281980&t=25)** If you aren't familiar, JVM stands for Java Virtual Machine and is the most common runtime environment for Kotlin applications.
+> **[0:25](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/run-your-first-kotlin-code-14799786?u=76281980&t=25)** If you aren't familiar, JVM stands for [[Java]] Virtual Machine and is the most common runtime environment for Kotlin applications.
 >
 > **[0:35](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/run-your-first-kotlin-code-14799786?u=76281980&t=35)** Name your project HelloKotlin.
 >
@@ -513,7 +506,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (12), application (4), [[Java]] (4), next (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Kotlin]] (12), [[Java]] (4)
 > **Env Vars:** jdk (10), jvm (3)
 > **Tools:** intellij (6)
 > **Versions:** version 8 (3), version 15 (2)
@@ -527,14 +520,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mutable and immutable data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mutable-and-immutable-data-types-14800822?u=76281980)
+#### [Mutable and immutable data types](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mutable-and-immutable-data-types-14800822?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mutable-and-immutable-data-types-14800822?u=76281980&t=0)** - [Instructor] The ability to store, update and retrieve values using variables is a core feature of most programming languages.
 >
-> **[0:08](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mutable-and-immutable-data-types-14800822?u=76281980&t=8)** So we're going to start our exploration of Kotlin by learning how to define both mutable and readonly variables.
+> **[0:08](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mutable-and-immutable-data-types-14800822?u=76281980&t=8)** So we're going to start our exploration of [[Kotlin]] by learning how to define both mutable and readonly variables.
 >
 > **[0:16](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mutable-and-immutable-data-types-14800822?u=76281980&t=16)** To create our first variable, we're going to come into our empty main function here, and we going to start by writing val.
 >
@@ -638,7 +630,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (8), next (2), feature (1), [[Programming]] (1), hit (1)
+> **Frameworks & Libraries:** [[Kotlin]] (8)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** ide (1)
 > **Cross-References:** go back to (1)
@@ -646,14 +638,13 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Numeric data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/numeric-data-types-14803696?u=76281980)
+#### [Numeric data types](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/numeric-data-types-14803696?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/numeric-data-types-14803696?u=76281980&t=0)** - [Instructor] Numeric data types are essential for writing almost any application.
 >
-> **[0:05](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/numeric-data-types-14803696?u=76281980&t=5)** Let's jump in and explore examples of both integer and floating point data types in Kotlin.
+> **[0:05](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/numeric-data-types-14803696?u=76281980&t=5)** Let's jump in and explore examples of both integer and floating point data types in [[Kotlin]].
 >
 > **[0:13](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/numeric-data-types-14803696?u=76281980&t=13)** Integer data types represent whole numbers.
 >
@@ -781,7 +772,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Kotlin]] (3), application (1)
+> **Frameworks & Libraries:** [[Kotlin]] (3)
 > **Code Identifiers:** toint (2), aint (1), anotherint (1), abyte (1), ashort (1)
 > **Versions:** 10.1 (2), 5.2 (2), 5.5 (1), 10.5 (1), 10.9 (1)
 > **Analogies:** for example (2)
@@ -789,12 +780,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Char and string data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/char-and-string-data-types-14804064?u=76281980)
+#### [Char and string data types](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/char-and-string-data-types-14804064?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/char-and-string-data-types-14804064?u=76281980&t=0)** - [Instructor] In addition to numeric data types, most programming languages include support for text based types as well, and Kotlin is no exception.
+> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/char-and-string-data-types-14804064?u=76281980&t=0)** - [Instructor] In addition to numeric data types, most programming languages include support for text based types as well, and [[Kotlin]] is no exception.
 >
 > **[0:09](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/char-and-string-data-types-14804064?u=76281980&t=9)** So let's jump in and explore how to work with text in Kotlin.
 >
@@ -966,7 +956,7 @@ created: 2026-05-02
 >
 > **[9:48](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/char-and-string-data-types-14804064?u=76281980&t=588)** So this gives us a lot of power and flexibility to create formatted strings in a more efficient way.
 >
-> **[9:56](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/char-and-string-data-types-14804064?u=76281980&t=596)** Now, strings are a very common data type in Kotlin development, especially if working in user facing domains such as mobile development.
+> **[9:56](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/char-and-string-data-types-14804064?u=76281980&t=596)** Now, strings are a very common data type in Kotlin development, especially if working in user facing domains such as [[Mobile Development]].
 >
 > **[10:04](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/char-and-string-data-types-14804064?u=76281980&t=604)** To make strings easier to work with, the Kotlin Standard Library provides many useful functions for us.
 >
@@ -1014,7 +1004,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (17), data (7), [[Programming]] (1), next (1), power (1)
+> **Frameworks & Libraries:** [[Kotlin]] (17), [[Mobile Development]] (1)
 > **Code Identifiers:** anumber (4), somestring (4), isnotblank (4), trimmargin (2), isempty (2)
 > **Analogies:** such as (3), for example (3), just like (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1023,14 +1013,13 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Nullable types
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/nullable-types-14797834?u=76281980)
+#### [Nullable types](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/nullable-types-14797834?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/nullable-types-14797834?u=76281980&t=0)** - [Instructor] What do we do when we have a variable whose value is not available at declaration time?
 >
-> **[0:06](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/nullable-types-14797834?u=76281980&t=6)** How do you represent the absence of data in Kotlin?
+> **[0:06](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/nullable-types-14797834?u=76281980&t=6)** How do you represent the absence of data in [[Kotlin]]?
 >
 > **[0:10](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/nullable-types-14797834?u=76281980&t=10)** There are a couple of approaches to handling this scenario but the most basic is the use of null values.
 >
@@ -1056,7 +1045,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/nullable-types-14797834?u=76281980&t=102)** After this update, we're now free to assign both null and non-null values to our variable.
 >
-> **[1:55](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/nullable-types-14797834?u=76281980&t=115)** Kotlin defaults to non-null types because null has historically been the source of many bugs and headaches in the Java ecosystem.
+> **[1:55](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/nullable-types-14797834?u=76281980&t=115)** Kotlin defaults to non-null types because null has historically been the source of many bugs and headaches in the [[Java]] ecosystem.
 >
 > **[2:04](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/nullable-types-14797834?u=76281980&t=124)** Most notably, null values can lead to null pointer exceptions when a null value is accessed.
 >
@@ -1102,7 +1091,7 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/nullable-types-14797834?u=76281980&t=284)** The null safe call will prevent throwing a null pointer exception in this case and will actually return null instead.
 >
-> **[4:53](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/nullable-types-14797834?u=76281980&t=293)** So now our code doesn't crash but instead it actually prints the word null out to the console, which maybe isn't as helpful or as interesting as we would like it to be.
+> **[4:53](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/nullable-types-14797834?u=76281980&t=293)** So now our code doesn't crash but instead it actually prints the [[Microsoft Word|word]] null out to the console, which maybe isn't as helpful or as interesting as we would like it to be.
 >
 > **[5:04](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/nullable-types-14797834?u=76281980&t=304)** To improve this, we'll introduce one more operator for working with null and that's the Elvis operator.
 >
@@ -1126,7 +1115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (7), data (2), [[Java]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Kotlin]] (7), [[Java]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1136,14 +1125,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basic functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/basic-functions-14802632?u=76281980)
+#### [Basic functions](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/basic-functions-14802632?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/basic-functions-14802632?u=76281980&t=0)** - [Narrator] How do we write self-contained reusable pieces of code that we can then invoke and reuse throughout our code bases?
 >
-> **[0:08](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/basic-functions-14802632?u=76281980&t=8)** Well, in Kotlin we start with functions.
+> **[0:08](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/basic-functions-14802632?u=76281980&t=8)** Well, in [[Kotlin]] we start with functions.
 >
 > **[0:11](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/basic-functions-14802632?u=76281980&t=11)** In Kotlin functions are first class concepts.
 >
@@ -1323,7 +1311,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (9), application (1)
+> **Frameworks & Libraries:** [[Kotlin]] (9)
 > **Definitions:** defined as (1), known as (1), is a  (1), is an  (1)
 > **Analogies:** similar to (2)
 > **CLI Commands:** make (1)
@@ -1332,8 +1320,7 @@ created: 2026-05-02
 > **Tools:** intellij (1)
 > **Warnings:** warning (1)
 
-#### Function parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/function-parameters-14802638?u=76281980)
+#### [Function parameters](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/function-parameters-14802638?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1347,7 +1334,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/function-parameters-14802638?u=76281980&t=20)** We can do that by specifying a parameter name and a type within the functions parentheses.
 >
-> **[0:27](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/function-parameters-14802638?u=76281980&t=27)** So let's refactor our getGreeting function to take in the thingToGreet rather than just always saying Hello Kotlin.
+> **[0:27](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/function-parameters-14802638?u=76281980&t=27)** So let's refactor our getGreeting function to take in the thingToGreet rather than just always saying Hello [[Kotlin]].
 >
 > **[0:37](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/function-parameters-14802638?u=76281980&t=37)** So within the parentheses of our getGreeting function we will first define the name of the parameter.
 >
@@ -1471,19 +1458,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (10), feature (2), hit (1)
+> **Frameworks & Libraries:** [[Kotlin]] (10)
 > **Code Identifiers:** getgreeting (12), thingtogreet (11)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Functional types
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/functional-types-14803699?u=76281980)
+#### [Functional types](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/functional-types-14803699?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/functional-types-14803699?u=76281980&t=0)** - [Instructor] Functions in Kotlin don't require any kind of enclosing class.
+> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/functional-types-14803699?u=76281980&t=0)** - [Instructor] Functions in [[Kotlin]] don't require any kind of enclosing class.
 >
 > **[0:04](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/functional-types-14803699?u=76281980&t=4)** They stand on their own as top-level constructs of the language.
 >
@@ -1601,7 +1587,7 @@ created: 2026-05-02
 >
 > **[7:25](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/functional-types-14803699?u=76281980&t=445)** This is a special property of lambdas.
 >
-> **[7:28](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/functional-types-14803699?u=76281980&t=448)** Within a lambda you don't have to explicitly return the value using the return key word.
+> **[7:28](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/functional-types-14803699?u=76281980&t=448)** Within a lambda you don't have to explicitly return the value using the return key [[Microsoft Word|word]].
 >
 > **[7:33](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/functional-types-14803699?u=76281980&t=453)** Whatever the last value is within the lambda will be implicitly return.
 >
@@ -1653,7 +1639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (10), functional (7), [[Programming]] (2), data (1), hit (1)
+> **Frameworks & Libraries:** [[Kotlin]] (10), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** greetingfunction (9), thingtogreet (5)
 > **Definitions:** is a  (2), known as (1), is called (1)
 > **Analogies:** such as (1), just like (1), imagine (1)
@@ -1661,8 +1647,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Higher-order functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/higher-order-functions-14802627?u=76281980)
+#### [Higher-order functions](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/higher-order-functions-14802627?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1670,7 +1655,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/higher-order-functions-14802627?u=76281980&t=8)** So by extension, it might come as no surprise that we can pass functions as arguments to other functions.
 >
-> **[0:14](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/higher-order-functions-14802627?u=76281980&t=14)** This type of function is known as a higher order function and is an integral part of the flexibility and power of the Kotlin standard library.
+> **[0:14](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/higher-order-functions-14802627?u=76281980&t=14)** This type of function is known as a higher order function and is an integral part of the flexibility and power of the [[Kotlin]] standard library.
 >
 > **[0:23](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/higher-order-functions-14802627?u=76281980&t=23)** To help build our understanding of both functions and the Kotlin standard library, let's dive in and explore how to pass a function to another function.
 >
@@ -1754,7 +1739,7 @@ created: 2026-05-02
 >
 > **[6:10](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/higher-order-functions-14802627?u=76281980&t=370)** Being able to define this one printCalculatedValue function by giving it the flexibility to take in another function that actually determines how the calculation is performed.
 >
-> **[6:20](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/higher-order-functions-14802627?u=76281980&t=380)** This makes it very flexible for us to define strategies or how certain pieces of algorithms should behave while being able to customize other portions of those algorithms.
+> **[6:20](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/higher-order-functions-14802627?u=76281980&t=380)** This makes it very flexible for us to define strategies or how certain pieces of [[Algorithms]] should behave while being able to customize other portions of those algorithms.
 >
 > **[6:32](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/higher-order-functions-14802627?u=76281980&t=392)** Now, the current invocations of these functions is a little bit verbose.
 >
@@ -1790,7 +1775,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (5), functional (4), power (2), next (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Kotlin]] (5), [[Algorithms]] (2)
 > **Code Identifiers:** printcalculatedvalue (11), printcalculatedvalues (1)
 > **Definitions:** is a  (2), known as (1), is an  (1)
 > **CLI Commands:** make (2)
@@ -1799,8 +1784,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Prerequisites:** setup (1)
 
-#### Challenge: Write a name formatter function
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/challenge-write-a-name-formatter-function-14804061?u=76281980)
+#### [Challenge: Write a name formatter function](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/challenge-write-a-name-formatter-function-14804061?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1818,12 +1802,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (1)
 > **Speakers:** - to (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Write a name formatter function
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/solution-write-a-name-formatter-function-14799784?u=76281980)
+#### [Solution: Write a name formatter function](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/solution-write-a-name-formatter-function-14799784?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1929,7 +1911,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
@@ -1939,12 +1920,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### if and when statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/if-and-when-statements-14802631?u=76281980)
+#### [if and when statements](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/if-and-when-statements-14802631?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/if-and-when-statements-14802631?u=76281980&t=0)** - [Instructor] How do we define conditional logic in Kotlin?
+> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/if-and-when-statements-14802631?u=76281980&t=0)** - [Instructor] How do we define conditional logic in [[Kotlin]]?
 >
 > **[0:03](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/if-and-when-statements-14802631?u=76281980&t=3)** For this problem, we have two primary tools: if and when, both of which can be used as both a statement or an expression.
 >
@@ -2064,7 +2044,7 @@ created: 2026-05-02
 >
 > **[7:29](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/if-and-when-statements-14802631?u=76281980&t=449)** And these conditions, just like with if else, are evaluated from top-down and only a single one will be evaluated and run.
 >
-> **[7:37](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/if-and-when-statements-14802631?u=76281980&t=457)** This is very analogous to switch statements found in languages like C# or Java.
+> **[7:37](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/if-and-when-statements-14802631?u=76281980&t=457)** This is very analogous to switch statements found in languages like C# or [[Java]].
 >
 > **[7:44](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/if-and-when-statements-14802631?u=76281980&t=464)** And similar again to if else, we could wrap any of these code blocks in curly braces if we needed more complex logic.
 >
@@ -2138,7 +2118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (4), [[Java]] (1), hit (1)
+> **Frameworks & Libraries:** [[Kotlin]] (4), [[Java]] (1)
 > **Code Identifiers:** somevariable (18)
 > **Analogies:** just like (4), similar to (1), analogous to (1)
 > **Env Vars:** max_value (4), ide (1)
@@ -2146,8 +2126,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Statements vs. expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/statements-vs-expressions-14800823?u=76281980)
+#### [Statements vs. expressions](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/statements-vs-expressions-14800823?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2254,8 +2233,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### try/catch as control flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/try-catch-as-control-flow-14797833?u=76281980)
+#### [try/catch as control flow](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/try-catch-as-control-flow-14797833?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2267,7 +2245,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/try-catch-as-control-flow-14797833?u=76281980&t=19)** There are many ways to work towards preventing these errors and one of which is try catch.
 >
-> **[0:27](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/try-catch-as-control-flow-14797833?u=76281980&t=27)** We're going to continue our exploration of expressions in Kotlin by looking at how we can use try catch as an expression to write more concise, error safe code.
+> **[0:27](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/try-catch-as-control-flow-14797833?u=76281980&t=27)** We're going to continue our exploration of expressions in [[Kotlin]] by looking at how we can use try catch as an expression to write more concise, error safe code.
 >
 > **[0:37](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/try-catch-as-control-flow-14797833?u=76281980&t=37)** So let's take a look at an example here.
 >
@@ -2351,19 +2329,18 @@ created: 2026-05-02
 >
 > **[6:09](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/try-catch-as-control-flow-14797833?u=76281980&t=369)** Are there places where rather than crashing or generically catching the crash, you could provide a sensible default value if one of these errors occurs?
 >
-> **[6:18](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/try-catch-as-control-flow-14797833?u=76281980&t=378)** If so, you might consider whether you can use a try catch expression to streamline this error control flow.
+> **[6:18](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/try-catch-as-control-flow-14797833?u=76281980&t=378)** If so, you might consider whether you can use a try catch expression to streamline this error [[Control Flow]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (1), application (1), [[Control Flow]] (1)
+> **Frameworks & Libraries:** [[Kotlin]] (1), [[Control Flow]] (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Smart casting
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/smart-casting-14804062?u=76281980)
+#### [Smart casting](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/smart-casting-14804062?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2373,7 +2350,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/smart-casting-14804062?u=76281980&t=14)** In a production code base, having to repeatedly make these kinds of type checks can result in verbose, difficult-to-follow code.
 >
-> **[0:22](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/smart-casting-14804062?u=76281980&t=22)** To help alleviate this issue, Kotlin includes the notion of smart casting.
+> **[0:22](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/smart-casting-14804062?u=76281980&t=22)** To help alleviate this issue, [[Kotlin]] includes the notion of smart casting.
 >
 > **[0:27](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/smart-casting-14804062?u=76281980&t=27)** To help us understand the power of smart casting, we're going to first look at how to cast a value to a specific type and then we'll see how the Kotlin Compiler can help do this for us in some situations.
 >
@@ -2563,7 +2540,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Kotlin]] (3), power (2), generic (1), next (1)
+> **Frameworks & Libraries:** [[Kotlin]] (3)
 > **Code Identifiers:** checktype (6), agenericvariable (3), anintvariable (2)
 > **Definitions:** is a  (7), is an  (2), means that (2)
 > **CLI Commands:** make (7)
@@ -2572,8 +2549,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Analogies:** for example (1)
 
-#### while loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/while-loops-14799788?u=76281980)
+#### [while loops](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/while-loops-14799788?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2583,7 +2559,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/while-loops-14799788?u=76281980&t=14)** Let's explore one mechanism for this type of repeated operation, the while loop.
 >
-> **[0:22](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/while-loops-14799788?u=76281980&t=22)** While loops in kotlin behave very similarly to other programming languages.
+> **[0:22](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/while-loops-14799788?u=76281980&t=22)** While loops in [[Kotlin]] behave very similarly to other programming languages.
 >
 > **[0:27](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/while-loops-14799788?u=76281980&t=27)** First, we need to define some counter value.
 >
@@ -2617,7 +2593,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/while-loops-14799788?u=76281980&t=147)** As soon as that counter value hits three we break out of the loop and return from our main function.
 >
-> **[2:34](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/while-loops-14799788?u=76281980&t=154)** Using break effectively can be a good way to avoid doing unnecessary data processing in our code.
+> **[2:34](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/while-loops-14799788?u=76281980&t=154)** Using break effectively can be a good way to avoid doing unnecessary [[Data Processing]] in our code.
 >
 > **[2:42](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/while-loops-14799788?u=76281980&t=162)** The while loops we've been working with so far evaluate their condition before ever executing the loop body.
 >
@@ -2659,24 +2635,23 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/while-loops-14799788?u=76281980&t=304)** While loops are a straightforward way to repeat blocks of code times.
 >
-> **[5:08](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/while-loops-14799788?u=76281980&t=308)** And like many things in kotlin there are multiple forms of a while loop to help fit different types of looping use cases.
+> **[5:08](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/while-loops-14799788?u=76281980&t=308)** And like many things in kotlin there are multiple [[Forms]] of a while loop to help fit different types of looping use cases.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (2), application (1), [[Programming]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Kotlin]] (2), [[Data Processing]] (1), [[Forms]] (1)
 > **Prerequisites:** set up (3)
 > **Best Practices:** avoid doing (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### for loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/for-loops-14797841?u=76281980)
+#### [for loops](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/for-loops-14797841?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/for-loops-14797841?u=76281980&t=0)** - [Instructor] For loops are one of the most common programming language constructs across all languages for repeatedly running a block of code.
 >
-> **[0:07](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/for-loops-14797841?u=76281980&t=7)** In Kotlin, we can use four loops in a variety of ways, depending on our specific use case.
+> **[0:07](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/for-loops-14797841?u=76281980&t=7)** In [[Kotlin]], we can use four loops in a variety of ways, depending on our specific use case.
 >
 > **[0:14](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/for-loops-14797841?u=76281980&t=14)** Let's start off with the basics and explore how to repeat tasks using some simple for loops.
 >
@@ -2740,23 +2715,22 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/for-loops-14797841?u=76281980&t=213)** This only scratches the surface of iterating with for loops in Kotlin.
 >
-> **[3:38](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/for-loops-14797841?u=76281980&t=218)** As we continue through this course and learn more about arrays, lists, and other collections, we'll revisit different forms of for loop for iterating over these data types.
+> **[3:38](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/for-loops-14797841?u=76281980&t=218)** As we continue through this course and learn more about arrays, lists, and other collections, we'll revisit different [[Forms]] of for loop for iterating over these data types.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (3), [[Programming]] (1), [[Forms]] (1), data (1)
+> **Frameworks & Libraries:** [[Kotlin]] (3), [[Forms]] (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Replace an if/else expression with a when expression
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/challenge-replace-an-if-else-expression-with-a-when-expression-14803705?u=76281980)
+#### [Challenge: Replace an if/else expression with a when expression](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/challenge-replace-an-if-else-expression-with-a-when-expression-14803705?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/challenge-replace-an-if-else-expression-with-a-when-expression-14803705?u=76281980&t=0)** - [Instructor] Time for another challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/challenge-replace-an-if-else-expression-with-a-when-expression-14803705?u=76281980&t=7)** This time, we want to get some hands-on practice with using when expressions as a more Kotlin idiomatic way of writing conditional logic.
+> **[0:07](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/challenge-replace-an-if-else-expression-with-a-when-expression-14803705?u=76281980&t=7)** This time, we want to get some hands-on practice with using when expressions as a more [[Kotlin]] idiomatic way of writing conditional logic.
 >
 > **[0:16](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/challenge-replace-an-if-else-expression-with-a-when-expression-14803705?u=76281980&t=16)** Examine the provided function, getOutput.
 >
@@ -2777,8 +2751,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Replace an if/else expression with a when expression
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/solution-replace-an-if-else-expression-with-a-when-expression-14798822?u=76281980)
+#### [Solution: Replace an if/else expression with a when expression](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/solution-replace-an-if-else-expression-with-a-when-expression-14798822?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2864,11 +2837,11 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/solution-replace-an-if-else-expression-with-a-when-expression-14798822?u=76281980&t=296)** Both can be used to accomplish the same things and it largely comes down to personal preference.
 >
-> **[5:02](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/solution-replace-an-if-else-expression-with-a-when-expression-14798822?u=76281980&t=302)** However, when expressions do have some additional benefits for exhaustively enumerating close types, which we'll explore soon when we dive into object-oriented programming with Colin.
+> **[5:02](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/solution-replace-an-if-else-expression-with-a-when-expression-14798822?u=76281980&t=302)** However, when expressions do have some additional benefits for exhaustively enumerating close types, which we'll explore soon when we dive into [[Object-Oriented Programming (OOP)|object-oriented programming]] with Colin.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), next (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Code Identifiers:** getoutput (4)
 > **Non-Speech:** (keyboard clicking) (3), (gentle upbeat music) (1)
 > **Env Vars:** ide (2)
@@ -2882,8 +2855,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting breakpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/setting-breakpoints-14802634?u=76281980)
+#### [Setting breakpoints](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/setting-breakpoints-14802634?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2969,13 +2941,13 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/setting-breakpoints-14802634?u=76281980&t=299)** In this case, we see the value of our counter and we see the current random value.
 >
-> **[5:06](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/setting-breakpoints-14802634?u=76281980&t=306)** The debugger and breakpoints are extremely valuable tools for Kotlin developers and there's even more functionality to leverage when debugging our code.
+> **[5:06](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/setting-breakpoints-14802634?u=76281980&t=306)** The debugger and breakpoints are extremely valuable tools for [[Kotlin]] developers and there's even more functionality to leverage when debugging our code.
 >
 > **[5:17](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/setting-breakpoints-14802634?u=76281980&t=317)** We'll see later how we can build on this concept of breakpoints to inspect our code and to learn more information about how our code is behaving.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (7), application (4), hit (4), database (1), [[Kotlin]] (1)
+> **Frameworks & Libraries:** [[Kotlin]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Code Identifiers:** iseven (2)
 > **UI Navigation:** in the toolbar (1), go to (1)
@@ -2984,8 +2956,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stepping through code
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/stepping-through-code-14802635?u=76281980)
+#### [Stepping through code](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/stepping-through-code-14802635?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3129,13 +3100,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), hit (7), [[Debugging]] (4), application (3)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** right-click (2)
 > **Speakers:** - [speaker] (1)
 
-#### Evaluate expressions and add watches
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/evaluate-expressions-and-add-watches-14804065?u=76281980)
+#### [Evaluate expressions and add watches](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/evaluate-expressions-and-add-watches-14804065?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3219,7 +3188,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (5), application (2), hit (2)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** kind of like (1), it's like (1)
 > **Definitions:** known as (1)
@@ -3230,12 +3198,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/arrays-14800814?u=76281980)
+#### [Arrays](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/arrays-14800814?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/arrays-14800814?u=76281980&t=0)** - [Instructor] Let's discuss how we store collections of data in Kotlin.
+> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/arrays-14800814?u=76281980&t=0)** - [Instructor] Let's discuss how we store collections of data in [[Kotlin]].
 >
 > **[0:04](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/arrays-14800814?u=76281980&t=4)** The most basic data structure for this is an array, which behaves very similarly to arrays in other programming languages.
 >
@@ -3371,11 +3338,11 @@ created: 2026-05-02
 >
 > **[13:31](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/arrays-14800814?u=76281980&t=811)** We can pass in all of the arguments very fluently, and the compiler will recognize that everything after the first argument belongs to that array of things to greet.
 >
-> **[13:45](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/arrays-14800814?u=76281980&t=825)** Arrays are a fundamental data type in any programming language, and it's important to have a solid understanding of them before moving on to other more complex data structures in Kotlin.
+> **[13:45](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/arrays-14800814?u=76281980&t=825)** Arrays are a fundamental data type in any programming language, and it's important to have a solid understanding of them before moving on to other more complex [[Data Structures]] in Kotlin.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (11), data (4), [[Programming]] (3), functional (1), next (1)
+> **Frameworks & Libraries:** [[Kotlin]] (11), [[Data Structures]] (1)
 > **Code Identifiers:** greetthings (4), arrayofnulls (2), foreach (2), arrayof (1), sizeofarray (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is an  (2), is a  (2)
@@ -3383,12 +3350,11 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/lists-14802628?u=76281980)
+#### [Lists](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/lists-14802628?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/lists-14802628?u=76281980&t=0)** - [Tutor] Lists are a core data structure of many programming languages and Kotlin is no different.
+> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/lists-14802628?u=76281980&t=0)** - [Tutor] Lists are a core data structure of many programming languages and [[Kotlin]] is no different.
 >
 > **[0:06](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/lists-14802628?u=76281980&t=6)** Let's dive into some code and learn to create lists in Kotlin.
 >
@@ -3484,7 +3450,7 @@ created: 2026-05-02
 >
 > **[6:16](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/lists-14802628?u=76281980&t=376)** So I've got my languages variable, and now I will say mutableListOf, and just like before now I can pass in the items in my list.
 >
-> **[6:27](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/lists-14802628?u=76281980&t=387)** So I could say Kotlin and Java to start.
+> **[6:27](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/lists-14802628?u=76281980&t=387)** So I could say Kotlin and [[Java]] to start.
 >
 > **[6:32](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/lists-14802628?u=76281980&t=392)** So now I have a mutable list of size two.
 >
@@ -3496,7 +3462,7 @@ created: 2026-05-02
 >
 > **[6:57](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/lists-14802628?u=76281980&t=417)** We could also have done languages.set, and passed in zero and the value like this, we can also add an element to the end of our list by saying languages.add and passing in whatever string we want to add to the collection.
 >
-> **[7:20](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/lists-14802628?u=76281980&t=440)** So in this case, we'll say JavaScript.
+> **[7:20](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/lists-14802628?u=76281980&t=440)** So in this case, we'll say [[JavaScript]].
 >
 > **[7:26](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/lists-14802628?u=76281980&t=446)** Now there are other types of add methods available to us.
 >
@@ -3542,7 +3508,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (10), [[Programming]] (2), generic (2), data (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Kotlin]] (10), [[Java]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** listofint (7), emptylist (6), listof (4), alist (3), stringlist (2)
 > **CLI Commands:** make (1), find (1), cat (1)
 > **Env Vars:** ide (1), abi (1), api (1)
@@ -3551,24 +3517,23 @@ created: 2026-05-02
 > **Prerequisites:** initialization (3)
 > **Speakers:** - [tutor] (1)
 
-#### Sets and maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/sets-and-maps-14797842?u=76281980)
+#### [Sets and maps](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/sets-and-maps-14797842?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/sets-and-maps-14797842?u=76281980&t=0)** - [Instructor] Now it's time to introduce two more common data structures, sets and maps.
+> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/sets-and-maps-14797842?u=76281980&t=0)** - [Instructor] Now it's time to introduce two more common [[Data Structures]], sets and maps.
 >
 > **[0:05](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/sets-and-maps-14797842?u=76281980&t=5)** Both these data structures are incredibly useful and widely used.
 >
 > **[0:09](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/sets-and-maps-14797842?u=76281980&t=9)** We're going to explore how to create and work with both of them.
 >
-> **[0:13](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/sets-and-maps-14797842?u=76281980&t=13)** Like with lists, the easiest way to create a set in Kotlin is to use a builder function.
+> **[0:13](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/sets-and-maps-14797842?u=76281980&t=13)** Like with lists, the easiest way to create a set in [[Kotlin]] is to use a builder function.
 >
 > **[0:19](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/sets-and-maps-14797842?u=76281980&t=19)** So let's define a variable called languages, and we want this to hold a set of programming language strings.
 >
 > **[0:26](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/sets-and-maps-14797842?u=76281980&t=26)** So I will use the setOf function here and then I need to pass in the strings that I want to be a part of this set.
 >
-> **[0:34](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/sets-and-maps-14797842?u=76281980&t=34)** So in this case, I'll pass Kotlin, Java and C++.
+> **[0:34](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/sets-and-maps-14797842?u=76281980&t=34)** So in this case, I'll pass Kotlin, [[Java]] and C++.
 >
 > **[0:41](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/sets-and-maps-14797842?u=76281980&t=41)** Oops. Need to make sure that last one is wrapped in quotes.
 >
@@ -3746,7 +3711,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (13), data (4), [[Java]] (3), [[Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[Kotlin]] (13), [[Data Structures]] (3), [[Java]] (3)
 > **Code Identifiers:** setof (5), testscores (5), mapof (4), mutablesetof (3), containskey (2)
 > **Versions:** 91.2 (2), 79.1 (2), 84.5 (1)
 > **Definitions:** is a  (1), is an  (1), is called (1)
@@ -3754,12 +3719,11 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Working with collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/working-with-collections-14799791?u=76281980)
+#### [Working with collections](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/working-with-collections-14799791?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/working-with-collections-14799791?u=76281980&t=0)** - [Instructor] While collections such as list, set, or map are useful in their own right, the Kotlin Standard Library provides many useful helper functions that add even greater programming power to these collection types.
+> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/working-with-collections-14799791?u=76281980&t=0)** - [Instructor] While collections such as list, set, or map are useful in their own right, the [[Kotlin]] Standard Library provides many useful helper functions that add even greater programming power to these collection types.
 >
 > **[0:13](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/working-with-collections-14799791?u=76281980&t=13)** We're going to explore how to take full advantage of the Kotlin Standard Library as we learn to transform and query common collection types.
 >
@@ -3773,7 +3737,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/working-with-collections-14799791?u=76281980&t=55)** or readOnlyMap by using the mapOf function.
 >
-> **[1:07](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/working-with-collections-14799791?u=76281980&t=67)** And like we've seen if we need immutable versions of these common data structures, there are builder functions for those as well.
+> **[1:07](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/working-with-collections-14799791?u=76281980&t=67)** And like we've seen if we need immutable versions of these common [[Data Structures]], there are builder functions for those as well.
 >
 > **[1:16](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/working-with-collections-14799791?u=76281980&t=76)** If we simply copy these first three examples, we will pace them down here and change these to mutableList.
 >
@@ -3867,11 +3831,11 @@ created: 2026-05-02
 >
 > **[8:15](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/working-with-collections-14799791?u=76281980&t=495)** And finally, we could print out each of these values by using forEach and calling println and passing in that string.
 >
-> **[8:28](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/working-with-collections-14799791?u=76281980&t=508)** Now, if we go ahead and run this, we will see JavaScript, Kotlin and Python here.
+> **[8:28](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/working-with-collections-14799791?u=76281980&t=508)** Now, if we go ahead and run this, we will see [[JavaScript]], Kotlin and [[Python (Programming Language)|Python]] here.
 >
 > **[8:36](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/working-with-collections-14799791?u=76281980&t=516)** And if we notice that those are in order, JavaScript having a value of four, Kotlin having a value of five, and Python having an order of six.
 >
-> **[8:50](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/working-with-collections-14799791?u=76281980&t=530)** This type of data transformation leverages these powerful functions to enable developers to write complex code in a very concise, easy to follow syntax.
+> **[8:50](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/working-with-collections-14799791?u=76281980&t=530)** This type of [[Data Transformation]] leverages these powerful functions to enable developers to write complex code in a very concise, easy to follow syntax.
 >
 > **[9:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/working-with-collections-14799791?u=76281980&t=540)** And these functions are written to be generic so they can be used regardless of which type of collection we're working with.
 >
@@ -3881,19 +3845,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (7), data (4), [[Programming]] (3), [[JavaScript]] (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Kotlin]] (7), [[JavaScript]] (2), [[Python (Programming Language)|Python]] (2), [[Data Structures]] (1), [[Data Transformation]] (1)
 > **Code Identifiers:** readonlylist (5), readonlyset (4), mutableset (4), mutablemap (4), isempty (4)
 > **CLI Commands:** make (3), python (2), find (1)
 > **Analogies:** for example (3), such as (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sequences
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/sequences-14802643?u=76281980)
+#### [Sequences](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/sequences-14802643?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/sequences-14802643?u=76281980&t=0)** - The Kotlin Standard Library provides many helpful functions for working with iterable collections such as List.
+> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/sequences-14802643?u=76281980&t=0)** - The [[Kotlin]] Standard Library provides many helpful functions for working with iterable collections such as List.
 >
 > **[0:07](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/sequences-14802643?u=76281980&t=7)** These functions make complex processing of collections quite easy.
 >
@@ -3907,7 +3870,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/sequences-14802643?u=76281980&t=47)** There we go.
 >
-> **[0:48](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/sequences-14802643?u=76281980&t=48)** So we have a list holding Kotlin C++ and Java.
+> **[0:48](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/sequences-14802643?u=76281980&t=48)** So we have a list holding Kotlin C++ and [[Java]].
 >
 > **[0:52](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/sequences-14802643?u=76281980&t=52)** Now, let's say that we want to do something like a filter where we maybe want to filter out any languages whose length is not greater than four and then maybe we want to map this from the string to let's say simply the length of that string instead.
 >
@@ -3985,7 +3948,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (4), next (2), [[Programming]] (1), [[Java]] (1), application (1)
+> **Frameworks & Libraries:** [[Kotlin]] (4), [[Java]] (1)
 > **Analogies:** such as (3), imagine (2), similar to (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** sequenceof (1)
@@ -3993,8 +3956,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - the (1)
 
-#### Challenge: Filtering a list of data
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/challenge-filtering-a-list-of-data-14799787?u=76281980)
+#### [Challenge: Filtering a list of data](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/challenge-filtering-a-list-of-data-14799787?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4024,7 +3986,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** find (2)
 > **Tools:** intellij (2)
 > **File Paths:** testscores.kt (1)
@@ -4032,8 +3993,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Filtering a list of data
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/solution-filtering-a-list-of-data-14800815?u=76281980)
+#### [Solution: Filtering a list of data](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/solution-filtering-a-list-of-data-14800815?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4119,13 +4079,13 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/solution-filtering-a-list-of-data-14800815?u=76281980&t=284)** As with most things in programming, there's no perfect right or wrong answer.
 >
-> **[4:49](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/solution-filtering-a-list-of-data-14800815?u=76281980&t=289)** In Kotlin, there's often many ways to accomplish the same task.
+> **[4:49](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/solution-filtering-a-list-of-data-14800815?u=76281980&t=289)** In [[Kotlin]], there's often many ways to accomplish the same task.
 >
 > **[4:53](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/solution-filtering-a-list-of-data-14800815?u=76281980&t=293)** To help us pick the best solution to our problem, it's helpful to explore the Kotlin standard library and to look for helpful functions that might come in handy next time we need them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Kotlin]] (2), [[Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[Kotlin]] (2)
 > **File Paths:** main.kt (2), test-scores.kt (2)
 > **Code Identifiers:** tosortedmap (1), sortedby (1), foreach (1)
 > **Versions:** 62.1 (1), 66.1 (1), 72.1 (1)
@@ -4139,8 +4099,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Command-line arguments
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/command-line-arguments-14797835?u=76281980)
+#### [Command-line arguments](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/command-line-arguments-14797835?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4148,7 +4107,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/command-line-arguments-14797835?u=76281980&t=11)** This makes our programs more flexible and easier to adapt to different situations.
 >
-> **[0:16](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/command-line-arguments-14797835?u=76281980&t=16)** We're going to explore how to do this in Kotlin by passing command line argument to our main function.
+> **[0:16](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/command-line-arguments-14797835?u=76281980&t=16)** We're going to explore how to do this in [[Kotlin]] by passing command line argument to our main function.
 >
 > **[0:23](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/command-line-arguments-14797835?u=76281980&t=23)** So we've seen many examples of main functions so far in this course.
 >
@@ -4202,7 +4161,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/command-line-arguments-14797835?u=76281980&t=236)** So within this, I can enter any command line arguments that I would like to be passed to my main function.
 >
-> **[4:03](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/command-line-arguments-14797835?u=76281980&t=243)** So in this case, I'm going to type Kotlin, Java and Go.
+> **[4:03](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/command-line-arguments-14797835?u=76281980&t=243)** So in this case, I'm going to type Kotlin, [[Java]] and Go.
 >
 > **[4:08](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/command-line-arguments-14797835?u=76281980&t=248)** Now notice that these are simply separated by a space.
 >
@@ -4232,11 +4191,11 @@ created: 2026-05-02
 >
 > **[6:17](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/command-line-arguments-14797835?u=76281980&t=377)** However, by opening up our program to take in those external arguments, we also have to account for additional error scenarios like empty arguments or invalid arguments.
 >
-> **[6:28](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/command-line-arguments-14797835?u=76281980&t=388)** So to help provide that great end user experience, we want to make sure that we're handling both the happy path, where we get the arguments we want and the error scenarios where might go wrong.
+> **[6:28](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/command-line-arguments-14797835?u=76281980&t=388)** So to help provide that great end [[User Experience (UX)|user experience]], we want to make sure that we're handling both the happy path, where we get the arguments we want and the error scenarios where might go wrong.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (4), next (2), [[Java]] (2), application (1), hit (1)
+> **Frameworks & Libraries:** [[Kotlin]] (4), [[Java]] (2), [[User Experience (UX)|User experience]] (1)
 > **Tools:** command line (4), intellij (2)
 > **UI Navigation:** dropdown (2), go to (1)
 > **CLI Commands:** make (1)
@@ -4245,8 +4204,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Receiving user input
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/receiving-user-input-14799789?u=76281980)
+#### [Receiving user input](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/receiving-user-input-14799789?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4300,9 +4258,9 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/receiving-user-input-14799789?u=76281980&t=158)** When you type file and add the parentheses, you may be prompted to import the file.
 >
-> **[2:44](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/receiving-user-input-14799789?u=76281980&t=164)** You may notice here that now at the top of the file I see import [java.io](https://java.io).File.
+> **[2:44](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/receiving-user-input-14799789?u=76281980&t=164)** You may notice here that now at the top of the file I see import [[[Java]].io](https://java.io).File.
 >
-> **[2:50](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/receiving-user-input-14799789?u=76281980&t=170)** This is going to pull in that file type from the standard set of Java components which we have full access to via Kotlin.
+> **[2:50](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/receiving-user-input-14799789?u=76281980&t=170)** This is going to pull in that file type from the standard set of Java components which we have full access to via [[Kotlin]].
 >
 > **[3:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/receiving-user-input-14799789?u=76281980&t=180)** So to finish off creating my file then I want to pass in the filename that was entered by the user.
 >
@@ -4352,7 +4310,7 @@ created: 2026-05-02
 >
 > **[5:42](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/receiving-user-input-14799789?u=76281980&t=342)** If I open this back up, we'll see a number of top level files here.
 >
-> **[5:47](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/receiving-user-input-14799789?u=76281980&t=347)** So for example, we could check for the existence of gradle.properties.
+> **[5:47](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/receiving-user-input-14799789?u=76281980&t=347)** So for example, we could check for the existence of [[Gradle]].properties.
 >
 > **[5:53](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/receiving-user-input-14799789?u=76281980&t=353)** So I'm going to run the code again here, and this time when prompted to enter a filename, I will type great gradle.properties and I'll hit Enter, and this time it says that it is a valid file.
 >
@@ -4360,7 +4318,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), hit (3), [[Java]] (2), [[Gradle]] (2), next (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Gradle]] (2), [[Kotlin]] (1)
 > **Code Identifiers:** readline (7), isvalidfile (1), isfile (1)
 > **Definitions:** is a  (5)
 > **File Paths:** file.kt (4)
@@ -4369,14 +4327,13 @@ created: 2026-05-02
 > **URLs:** [java.io](https://java.io) (1)
 > **Env Vars:** ide (1)
 
-#### Read and write to files
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/read-and-write-to-files-14798817?u=76281980)
+#### [Read and write to files](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/read-and-write-to-files-14798817?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/read-and-write-to-files-14798817?u=76281980&t=0)** - [Instructor] How do you read a list of test scores from a file or save processed data to a file for later use?
 >
-> **[0:07](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/read-and-write-to-files-14798817?u=76281980&t=7)** Let's explore how we can work with file inputs and outputs in Kotlin.
+> **[0:07](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/read-and-write-to-files-14798817?u=76281980&t=7)** Let's explore how we can work with file inputs and outputs in [[Kotlin]].
 >
 > **[0:13](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/read-and-write-to-files-14798817?u=76281980&t=13)** Let's start with reading from files.
 >
@@ -4466,7 +4423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Kotlin]] (3), hit (2)
+> **Frameworks & Libraries:** [[Kotlin]] (3)
 > **File Paths:** sorted-scores.txt (4), scores.txt (3), main.kt (1), sortedscores.txt (1)
 > **Code Identifiers:** scoresfile (3), readlines (1), outputfile (1), writelines (1)
 > **Env Vars:** ide (1), txt (1)
@@ -4475,8 +4432,7 @@ created: 2026-05-02
 > **Tools:** intellij (1)
 > **UI Navigation:** go to (1)
 
-#### Challenge: Parsing a list of data from a file
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/challenge-parsing-a-list-of-data-from-a-file-14802633?u=76281980)
+#### [Challenge: Parsing a list of data from a file](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/challenge-parsing-a-list-of-data-from-a-file-14802633?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4500,15 +4456,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1)
 > **File Paths:** scores.txt (2), sorted.txt (1), main.kt (1)
 > **Tools:** intellij (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Parsing a list of data from a file
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/solution-parsing-a-list-of-data-from-a-file-14802642?u=76281980)
+#### [Solution: Parsing a list of data from a file](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/solution-parsing-a-list-of-data-from-a-file-14802642?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4662,11 +4616,11 @@ created: 2026-05-02
 >
 > **[8:47](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/solution-parsing-a-list-of-data-from-a-file-14802642?u=76281980&t=527)** However you solved the challenge, this type of problem closely mirrors the types of challenges we might face in a production code base.
 >
-> **[8:54](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/solution-parsing-a-list-of-data-from-a-file-14802642?u=76281980&t=534)** And as we've seen, Kotlin provides many tools for solving those types of challenges.
+> **[8:54](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/solution-parsing-a-list-of-data-from-a-file-14802642?u=76281980&t=534)** And as we've seen, [[Kotlin]] provides many tools for solving those types of challenges.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), next (2), hit (2), data (1), api (1)
+> **Frameworks & Libraries:** [[Kotlin]] (1)
 > **Code Identifiers:** inputfile (5), parsedscores (5), rawscores (4), readlines (3), sortedbydescending (3)
 > **File Paths:** scores.txt (4), sorted.txt (3)
 > **Prerequisites:** set up (3)
@@ -4680,18 +4634,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Writing JUnit tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/writing-junit-tests-14800827?u=76281980)
+#### [Writing JUnit tests](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/writing-junit-tests-14800827?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/writing-junit-tests-14800827?u=76281980&t=0)** - Testing is an important part of writing production quality code with any programming language.
 >
-> **[0:06](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/writing-junit-tests-14800827?u=76281980&t=6)** We're going to learn to write basic unit tests in Kotlin using the popular test framework JUnit.
+> **[0:06](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/writing-junit-tests-14800827?u=76281980&t=6)** We're going to learn to write basic unit tests in [[Kotlin]] using the popular test framework [[JUnit]].
 >
 > **[0:13](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/writing-junit-tests-14800827?u=76281980&t=13)** Now, before we can write our first JUnit test, we need to add the necessary dependencies to our project.
 >
-> **[0:19](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/writing-junit-tests-14800827?u=76281980&t=19)** So within IntelliJ, we'll navigate over to our project viewer, and we want to open up the build.gradle.kts build script file.
+> **[0:19](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/writing-junit-tests-14800827?u=76281980&t=19)** So within IntelliJ, we'll navigate over to our project viewer, and we want to open up the build.[[Gradle]].kts build script file.
 >
 > **[0:30](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/writing-junit-tests-14800827?u=76281980&t=30)** Here we want to scroll down until we find the dependencies configuration block.
 >
@@ -4709,7 +4662,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/writing-junit-tests-14800827?u=76281980&t=85)** Once we're sure our builds is configured properly, we can resync our project just to be sure the IDE will recognize these new dependencies.
 >
-> **[1:34](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/writing-junit-tests-14800827?u=76281980&t=94)** To resync the project can open up the Gradle tool window from the right-hand side of the screen here or navigate to View, Tool Windows, scroll down until you find Gradle, And within that Gradle tool window, in the menu, there should be this Reload All Gradle Projects button.
+> **[1:34](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/writing-junit-tests-14800827?u=76281980&t=94)** To resync the project can open up the Gradle tool window from the right-hand side of the screen here or navigate to View, Tool [[Windows]], scroll down until you find Gradle, And within that Gradle tool window, in the menu, there should be this Reload All Gradle Projects button.
 >
 > **[1:55](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/writing-junit-tests-14800827?u=76281980&t=115)** If we click that, it will resync the project and make sure that all needed dependencies are ready to be used.
 >
@@ -4867,7 +4820,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (9), [[JUnit]] (9), [[Gradle]] (5), hit (3), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Kotlin]] (9), [[JUnit]] (9), [[Gradle]] (5), [[Windows]] (1)
 > **Code Identifiers:** getrandom (7), nextint (2), testimplementation (1), verifytrueisalwaystrue (1)
 > **UI Navigation:** navigate to (3), scroll down (2), in the menu (1), right-click (1), dropdown (1)
 > **CLI Commands:** make (5), find (3)
@@ -4876,8 +4829,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1), set up (1)
 > **Tools:** intellij (1)
 
-#### Mocking data
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mocking-data-14799790?u=76281980)
+#### [Mocking data](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mocking-data-14799790?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4887,7 +4839,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mocking-data-14799790?u=76281980&t=13)** In these situations, it can be helpful to mock out the data and responses that we need to effectively write our test.
 >
-> **[0:20](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mocking-data-14799790?u=76281980&t=20)** Mockito is a popular mocking tool for Java development and works great for Kotlin code as well.
+> **[0:20](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mocking-data-14799790?u=76281980&t=20)** Mockito is a popular mocking tool for [[Java]] development and works great for [[Kotlin]] code as well.
 >
 > **[0:28](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mocking-data-14799790?u=76281980&t=28)** So here's a testing scenario for us.
 >
@@ -4905,7 +4857,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mocking-data-14799790?u=76281980&t=85)** And we will create a new test class called ViewModelTest and hit Enter.
 >
-> **[1:34](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mocking-data-14799790?u=76281980&t=94)** Then within the ViewModelTest class, we will create a new test using our @Test annotation, importing the org.junit.Test annotation.
+> **[1:34](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mocking-data-14799790?u=76281980&t=94)** Then within the ViewModelTest class, we will create a new test using our @Test annotation, importing the org.[[JUnit]].Test annotation.
 >
 > **[1:48](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mocking-data-14799790?u=76281980&t=108)** And we will name this test trackEvent is called when submitClick is called.
 >
@@ -4929,7 +4881,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mocking-data-14799790?u=76281980&t=180)** So to do this, we need to first pull in the Mockito dependency.
 >
-> **[3:05](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mocking-data-14799790?u=76281980&t=185)** We can do this by opening up our build.gradle.kts file.
+> **[3:05](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mocking-data-14799790?u=76281980&t=185)** We can do this by opening up our build.[[Gradle]].kts file.
 >
 > **[3:10](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/mocking-data-14799790?u=76281980&t=190)** And within our dependencies configuration block, we need to add the Mockito core dependency to the testImplementation class path.
 >
@@ -5009,7 +4961,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (6), [[Kotlin]] (4), [[Java]] (2), [[Gradle]] (2), data (1)
+> **Frameworks & Libraries:** [[Kotlin]] (4), [[Java]] (2), [[Gradle]] (2), [[JUnit]] (1)
 > **Code Identifiers:** analyticsclient (6), submitclicked (6), viewmodel (3), trackevent (2), submitclick (2)
 > **Definitions:** is called (9), is a  (2)
 > **UI Navigation:** go to (1), navigate to (1), right-click (1)
@@ -5023,18 +4975,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/next-steps-14803698?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/next-steps-14803698?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/next-steps-14803698?u=76281980&t=0)** - [Instructor] As we've seen throughout this course, Kotlin is a powerful and flexible language designed for building modern applications across a variety of domains.
+> **[0:00](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/next-steps-14803698?u=76281980&t=0)** - [Instructor] As we've seen throughout this course, [[Kotlin]] is a powerful and flexible language designed for building modern applications across a variety of domains.
 >
 > **[0:11](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/next-steps-14803698?u=76281980&t=11)** Language features such as top-level and higher order functions, default parameter values and data and sealed classes provide first class solutions to some of the most common programming problems.
 >
 > **[0:23](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/next-steps-14803698?u=76281980&t=23)** As you continue on with Kotlin, there are many other great resources out there.
 >
-> **[0:28](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/next-steps-14803698?u=76281980&t=28)** Be sure to check out Kotlin's "Getting Started" guide, the Kotlin org on GitHub, or work through the Kotlin Koans for more practice.
+> **[0:28](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/next-steps-14803698?u=76281980&t=28)** Be sure to check out Kotlin's "Getting Started" guide, the Kotlin org on [[GitHub]], or work through the Kotlin Koans for more practice.
 >
 > **[0:39](https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o/next-steps-14803698?u=76281980&t=39)** You should now have the tools you need to start building complete applications with Kotlin.
 >
@@ -5044,7 +4995,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kotlin]] (10), data (1), [[Programming]] (1), [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[Kotlin]] (10), [[GitHub]] (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)

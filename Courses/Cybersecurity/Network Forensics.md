@@ -103,22 +103,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning network forensics
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/learning-network-forensics?u=76281980)
+#### [Learning network forensics](https://www.linkedin.com/learning/network-forensics-23931106/learning-network-forensics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/learning-network-forensics?u=76281980&t=0)** - Cyber crimes are increasing, and network forensics specialists are more in demand than ever.
+> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/learning-network-forensics?u=76281980&t=0)** - Cyber crimes are increasing, and [[Network Forensics]] specialists are more in demand than ever.
 >
-> **[0:06](https://www.linkedin.com/learning/network-forensics-23931106/learning-network-forensics?u=76281980&t=6)** We need more professionals proficient in computer networking and well versed in computer forensics to investigate crimes in cyberspace effectively.
+> **[0:06](https://www.linkedin.com/learning/network-forensics-23931106/learning-network-forensics?u=76281980&t=6)** We need more professionals proficient in [[Computer Networking]] and well versed in [[Computer Forensics]] to investigate crimes in cyberspace effectively.
 >
 > **[0:16](https://www.linkedin.com/learning/network-forensics-23931106/learning-network-forensics?u=76281980&t=16)** Hi, my name is Jungwoo Ryoo.
 >
 > **[0:19](https://www.linkedin.com/learning/network-forensics-23931106/learning-network-forensics?u=76281980&t=19)** Welcome to my course, Network Forensics.
 >
-> **[0:22](https://www.linkedin.com/learning/network-forensics-23931106/learning-network-forensics?u=76281980&t=22)** Throughout this course, we'll learn how to use various network forensics tools like Syslog, Kiwi, TCP Dump, Wireshark, Fiddler, Snort and Splunk.
+> **[0:22](https://www.linkedin.com/learning/network-forensics-23931106/learning-network-forensics?u=76281980&t=22)** Throughout this course, we'll learn how to use various network forensics tools like Syslog, Kiwi, TCP Dump, [[Wireshark]], Fiddler, Snort and Splunk.
 >
-> **[0:38](https://www.linkedin.com/learning/network-forensics-23931106/learning-network-forensics?u=76281980&t=38)** We'll cover all the major topics in network forensics through many hands-on demonstrations in Windows and Linux.
+> **[0:38](https://www.linkedin.com/learning/network-forensics-23931106/learning-network-forensics?u=76281980&t=38)** We'll cover all the major topics in network forensics through many hands-on demonstrations in [[Windows]] and [[Linux]].
 >
 > **[0:46](https://www.linkedin.com/learning/network-forensics-23931106/learning-network-forensics?u=76281980&t=46)** Now let's get started with learning network forensics.
 
@@ -128,24 +127,23 @@ created: 2026-05-02
 > **Env Vars:** tcp (1)
 > **Speakers:** - cyber (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/network-forensics-23931106/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/what-you-should-know?u=76281980&t=0)** - Let's talk about what you should know before taking this course.
 >
-> **[0:05](https://www.linkedin.com/learning/network-forensics-23931106/what-you-should-know?u=76281980&t=5)** I aim to help you quickly learn essential network forensics concepts and develop an overall understanding of the field without prerequisite courses.
+> **[0:05](https://www.linkedin.com/learning/network-forensics-23931106/what-you-should-know?u=76281980&t=5)** I aim to help you quickly learn essential [[Network Forensics]] concepts and develop an overall understanding of the field without prerequisite courses.
 >
-> **[0:14](https://www.linkedin.com/learning/network-forensics-23931106/what-you-should-know?u=76281980&t=14)** However, background knowledge in computer or digital forensics would be helpful.
+> **[0:14](https://www.linkedin.com/learning/network-forensics-23931106/what-you-should-know?u=76281980&t=14)** However, background knowledge in computer or [[Digital Forensics]] would be helpful.
 >
-> **[0:20](https://www.linkedin.com/learning/network-forensics-23931106/what-you-should-know?u=76281980&t=20)** For that, you can check out my other course, Cybersecurity Forensics: Computer Forensics.
+> **[0:20](https://www.linkedin.com/learning/network-forensics-23931106/what-you-should-know?u=76281980&t=20)** For that, you can check out my other course, [[Cybersecurity]] Forensics: [[Computer Forensics]].
 >
-> **[0:27](https://www.linkedin.com/learning/network-forensics-23931106/what-you-should-know?u=76281980&t=27)** Throughout the course, we'll be using both Windows and Linux operating systems, but don't worry if you don't have any spare computers to practice your skills on.
+> **[0:27](https://www.linkedin.com/learning/network-forensics-23931106/what-you-should-know?u=76281980&t=27)** Throughout the course, we'll be using both [[Windows]] and [[Linux]] operating systems, but don't worry if you don't have any spare computers to practice your skills on.
 >
 > **[0:37](https://www.linkedin.com/learning/network-forensics-23931106/what-you-should-know?u=76281980&t=37)** Watching the demos without doing them yourself will still be effective.
 >
-> **[0:42](https://www.linkedin.com/learning/network-forensics-23931106/what-you-should-know?u=76281980&t=42)** If you'd like to follow along, my setup includes three virtual machines, Windows, Ubuntu and Kali Linux.
+> **[0:42](https://www.linkedin.com/learning/network-forensics-23931106/what-you-should-know?u=76281980&t=42)** If you'd like to follow along, my setup includes three [[Virtual Machines]], Windows, [[Ubuntu]] and [[Kali Linux]].
 >
 > **[0:52](https://www.linkedin.com/learning/network-forensics-23931106/what-you-should-know?u=76281980&t=52)** We'll use the Linux and Windows command lines frequently, and I encourage you to experiment with them as much as possible.
 >
@@ -167,14 +165,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Goals of network forensics
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/goals-of-network-forensics?u=76281980)
+#### [Goals of network forensics](https://www.linkedin.com/learning/network-forensics-23931106/goals-of-network-forensics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/goals-of-network-forensics?u=76281980&t=0)** - [Instructor] Digital forensics investigates devices, storing, processing, and transmitting data over networks.
+> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/goals-of-network-forensics?u=76281980&t=0)** - [Instructor] [[Digital Forensics]] investigates devices, storing, processing, and transmitting data over networks.
 >
-> **[0:10](https://www.linkedin.com/learning/network-forensics-23931106/goals-of-network-forensics?u=76281980&t=10)** Network forensics is a specialized field within digital forensics and focuses on the data exchange aspect of digital forensics.
+> **[0:10](https://www.linkedin.com/learning/network-forensics-23931106/goals-of-network-forensics?u=76281980&t=10)** [[Network Forensics]] is a specialized field within digital forensics and focuses on the data exchange aspect of digital forensics.
 >
 > **[0:22](https://www.linkedin.com/learning/network-forensics-23931106/goals-of-network-forensics?u=76281980&t=22)** Most computer applications rely on connectivity to the internet, and a significant part of network forensics involves analyzing traffic generated by these network applications.
 >
@@ -204,7 +201,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/network-forensics-23931106/goals-of-network-forensics?u=76281980&t=124)** Collecting as much data as possible from as many sources as possible is necessary to accomplish this objective.
 >
-> **[2:13](https://www.linkedin.com/learning/network-forensics-23931106/goals-of-network-forensics?u=76281980&t=133)** The remaining two objectives are to analyze data and to generate reports in near-real-time as significant network events happen.
+> **[2:13](https://www.linkedin.com/learning/network-forensics-23931106/goals-of-network-forensics?u=76281980&t=133)** The remaining two objectives are to analyze data and to generate reports in near-[[Real-Time]] as significant network events happen.
 >
 > **[2:23](https://www.linkedin.com/learning/network-forensics-23931106/goals-of-network-forensics?u=76281980&t=143)** Unlike crimes in physical spaces, illegal activities can be detected as they unfold in cyberspace, and we should make every effort to catch them red-handed.
 >
@@ -216,15 +213,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Digital Forensics]] (5), [[Network Forensics]] (4), traffic (2), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Digital Forensics]] (5), [[Network Forensics]] (4), [[Real-Time]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** pii (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/tools?u=76281980)
+#### [Tools](https://www.linkedin.com/learning/network-forensics-23931106/tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -236,7 +232,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/network-forensics-23931106/tools?u=76281980&t=24)** Criminals can conduct much of this initial recon through the internet.
 >
-> **[0:30](https://www.linkedin.com/learning/network-forensics-23931106/tools?u=76281980&t=30)** A popular technique is using a search engine like Google to determine a company's organizational structure.
+> **[0:30](https://www.linkedin.com/learning/network-forensics-23931106/tools?u=76281980&t=30)** A popular technique is using a search engine like [[Google]] to determine a company's organizational structure.
 >
 > **[0:39](https://www.linkedin.com/learning/network-forensics-23931106/tools?u=76281980&t=39)** This can in turn, lead to a social engineering attempt in which an intruder impersonates a person of authority to gain access to confidential information such as a password.
 >
@@ -246,13 +242,13 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/network-forensics-23931106/tools?u=76281980&t=71)** Believe it or not, Google hacking or dorks are an established term, as you can see here on this website.
 >
-> **[1:21](https://www.linkedin.com/learning/network-forensics-23931106/tools?u=76281980&t=81)** Other recon tools such as Nmap and its graphical user interface or GUI version, Zenmap, are even more powerful because they allow users to probe cyberspace vulnerabilities directly.
+> **[1:21](https://www.linkedin.com/learning/network-forensics-23931106/tools?u=76281980&t=81)** Other recon tools such as [[Nmap]] and its graphical user interface or GUI version, Zenmap, are even more powerful because they allow users to probe cyberspace vulnerabilities directly.
 >
 > **[1:37](https://www.linkedin.com/learning/network-forensics-23931106/tools?u=76281980&t=97)** Let's say attacker's goal is to discover what devices are active in a network.
 >
 > **[1:44](https://www.linkedin.com/learning/network-forensics-23931106/tools?u=76281980&t=104)** All they need is to install Nmap on their computer.
 >
-> **[1:49](https://www.linkedin.com/learning/network-forensics-23931106/tools?u=76281980&t=109)** To install Nmap on Linux type sudo space apt space install space Nmap.
+> **[1:49](https://www.linkedin.com/learning/network-forensics-23931106/tools?u=76281980&t=109)** To install Nmap on [[Linux]] type sudo space apt space install space Nmap.
 >
 > **[2:03](https://www.linkedin.com/learning/network-forensics-23931106/tools?u=76281980&t=123)** Press enter.
 >
@@ -284,7 +280,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), [[Search]] (2), [[Programming]] (1), [[Engineering]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (7), [[Google]] (3), [[Linux]] (1)
 > **Versions:** 10.0.2 (4)
 > **CLI Commands:** sudo (1), apt (1), find (1)
 > **Prerequisites:** install (3)
@@ -292,8 +288,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1), - sn (1)
 > **Env Vars:** gui (1)
 
-#### Legal implications
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/legal-implications?u=76281980)
+#### [Legal implications](https://www.linkedin.com/learning/network-forensics-23931106/legal-implications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -303,9 +298,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/network-forensics-23931106/legal-implications?u=76281980&t=16)** By cross-check, I mean the same event originating from multiple devices, strengthening the evidence.
 >
-> **[0:25](https://www.linkedin.com/learning/network-forensics-23931106/legal-implications?u=76281980&t=25)** Firewall logs and intrusion detection system, or IDS logs, can all point to the same user trying to connect to a server at a specific time.
+> **[0:25](https://www.linkedin.com/learning/network-forensics-23931106/legal-implications?u=76281980&t=25)** Firewall logs and [[Intrusion Detection]] system, or IDS logs, can all point to the same user trying to connect to a server at a specific time.
 >
-> **[0:36](https://www.linkedin.com/learning/network-forensics-23931106/legal-implications?u=76281980&t=36)** However, for this to work, the clocks on the hardware producing the log files must be synchronized to produce accurate timestamps.
+> **[0:36](https://www.linkedin.com/learning/network-forensics-23931106/legal-implications?u=76281980&t=36)** However, for this to work, the clocks on the [[Hardware]] producing the log files must be synchronized to produce accurate timestamps.
 >
 > **[0:48](https://www.linkedin.com/learning/network-forensics-23931106/legal-implications?u=76281980&t=48)** It's impossible to correlate an event on one device to another without proper synchronization.
 >
@@ -323,7 +318,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/network-forensics-23931106/legal-implications?u=76281980&t=94)** You may have to explicitly enable logging.
 >
-> **[1:39](https://www.linkedin.com/learning/network-forensics-23931106/legal-implications?u=76281980&t=99)** As you can see here, the Microsoft web server program, Internet Information Services, or IIS, requires you to enable HTTP logging after installation.
+> **[1:39](https://www.linkedin.com/learning/network-forensics-23931106/legal-implications?u=76281980&t=99)** As you can see here, the [[Microsoft]] web server program, Internet Information Services, or IIS, requires you to enable HTTP logging after installation.
 >
 > **[1:53](https://www.linkedin.com/learning/network-forensics-23931106/legal-implications?u=76281980&t=113)** Tampering is another challenge to consider.
 >
@@ -341,7 +336,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/network-forensics-23931106/legal-implications?u=76281980&t=172)** Because it's relatively easy to delete, alter and fabricate records on network devices, courts need a reasonable assurance that no unauthorized access occurred in the submitted evidence collected during the period of a network breach.
 >
-> **[3:12](https://www.linkedin.com/learning/network-forensics-23931106/legal-implications?u=76281980&t=192)** Cross checks through data collection, tampering prevention, and access control are essential to avoid potential legal challenges.
+> **[3:12](https://www.linkedin.com/learning/network-forensics-23931106/legal-implications?u=76281980&t=192)** Cross checks through [[Data Collection]], tampering prevention, and access control are essential to avoid potential legal challenges.
 >
 > **[3:23](https://www.linkedin.com/learning/network-forensics-23931106/legal-implications?u=76281980&t=203)** Please remember seemingly minor things you do can have serious legal implications in court.
 >
@@ -349,7 +344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Intrusion Detection]] (1), [[Hardware]] (1), [[Microsoft]] (1), web (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (1), [[Hardware]] (1), [[Microsoft]] (1), [[Data Collection]] (1)
 > **Env Vars:** ntp (2), ids (1), iis (1), http (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -357,14 +352,13 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Current and future trends
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/current-and-future-trends?u=76281980)
+#### [Current and future trends](https://www.linkedin.com/learning/network-forensics-23931106/current-and-future-trends?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/current-and-future-trends?u=76281980&t=0)** - [Presenter] Technology changes are a dominant driving force in conducting a network forensics investigation.
+> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/current-and-future-trends?u=76281980&t=0)** - [Presenter] Technology changes are a dominant driving force in conducting a [[Network Forensics]] investigation.
 >
-> **[0:08](https://www.linkedin.com/learning/network-forensics-23931106/current-and-future-trends?u=76281980&t=8)** Take cloud computing.
+> **[0:08](https://www.linkedin.com/learning/network-forensics-23931106/current-and-future-trends?u=76281980&t=8)** Take [[Cloud Computing]].
 >
 > **[0:10](https://www.linkedin.com/learning/network-forensics-23931106/current-and-future-trends?u=76281980&t=10)** Many companies have abandoned the idea of maintaining their own server rooms.
 >
@@ -382,7 +376,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/network-forensics-23931106/current-and-future-trends?u=76281980&t=61)** Although presenting new challenges, advances in technology also provide unprecedented opportunities.
 >
-> **[1:09](https://www.linkedin.com/learning/network-forensics-23931106/current-and-future-trends?u=76281980&t=69)** Big data and artificial intelligence or AI are two such developments.
+> **[1:09](https://www.linkedin.com/learning/network-forensics-23931106/current-and-future-trends?u=76281980&t=69)** [[Big Data]] and [[Artificial Intelligence (AI)|artificial intelligence]] or AI are two such developments.
 >
 > **[1:17](https://www.linkedin.com/learning/network-forensics-23931106/current-and-future-trends?u=76281980&t=77)** Computer networks generate an excessive amount of data.
 >
@@ -390,7 +384,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/network-forensics-23931106/current-and-future-trends?u=76281980&t=92)** Big data is an infrastructure technology that allows us to distribute the processing of an unmanageably large workload to many individual computers for faster and more scalable handling.
 >
-> **[1:48](https://www.linkedin.com/learning/network-forensics-23931106/current-and-future-trends?u=76281980&t=108)** AI builds on big data in the sense that it supplies the algorithms used to process a dataset.
+> **[1:48](https://www.linkedin.com/learning/network-forensics-23931106/current-and-future-trends?u=76281980&t=108)** AI builds on big data in the sense that it supplies the [[Algorithms]] used to process a dataset.
 >
 > **[1:57](https://www.linkedin.com/learning/network-forensics-23931106/current-and-future-trends?u=76281980&t=117)** Machine learning or ML is a subset of AI and is especially useful for detecting patterns.
 >
@@ -400,24 +394,23 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/network-forensics-23931106/current-and-future-trends?u=76281980&t=148)** Using ML and big data platforms will help make the tedious process of anomaly detection and evidence gathering closer to full automation.
 >
-> **[2:39](https://www.linkedin.com/learning/network-forensics-23931106/current-and-future-trends?u=76281980&t=159)** If the current trend of adopting ML continues, especially with the recent phenomenon of generative AI or GAI, the future of network forensics will be bright.
+> **[2:39](https://www.linkedin.com/learning/network-forensics-23931106/current-and-future-trends?u=76281980&t=159)** If the current trend of adopting ML continues, especially with the recent phenomenon of [[Generative AI]] or GAI, the future of network forensics will be bright.
 >
 > **[2:52](https://www.linkedin.com/learning/network-forensics-23931106/current-and-future-trends?u=76281980&t=172)** The newly emerging solutions will free network forensics specialists from mundane and repetitive tasks and enable them to focus more on tasks that require a highly trained human mind.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Network Forensics]] (4), cloud (4), [[Big Data]] (4), ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Network Forensics]] (4), [[Big Data]] (4), [[Cloud Computing]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1)
 > **Definitions:** means that (1), is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gai (1)
 > **Speakers:** - [presenter] (1)
 
-#### Anti-network forensics techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/anti-network-forensics-techniques?u=76281980)
+#### [Anti-network forensics techniques](https://www.linkedin.com/learning/network-forensics-23931106/anti-network-forensics-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/anti-network-forensics-techniques?u=76281980&t=0)** - [Presenter] In cybersecurity, we call anti-forensics techniques covering tracks.
+> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/anti-network-forensics-techniques?u=76281980&t=0)** - [Presenter] In [[Cybersecurity]], we call anti-forensics techniques covering tracks.
 >
 > **[0:07](https://www.linkedin.com/learning/network-forensics-23931106/anti-network-forensics-techniques?u=76281980&t=7)** One of the last steps in a cyber attack is to hide all the traces of intrusion to avoid detection.
 >
@@ -457,7 +450,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/network-forensics-23931106/anti-network-forensics-techniques?u=76281980&t=159)** They're usually multiple layers of zombies, making it challenging to identify the true origin of a cyber attack.
 >
-> **[2:49](https://www.linkedin.com/learning/network-forensics-23931106/anti-network-forensics-techniques?u=76281980&t=169)** Network forensics professionals can benefit from studying how APTs work and the use of zombies, rootkits, and utilities to manipulate log files.
+> **[2:49](https://www.linkedin.com/learning/network-forensics-23931106/anti-network-forensics-techniques?u=76281980&t=169)** [[Network Forensics]] professionals can benefit from studying how APTs work and the use of zombies, rootkits, and utilities to manipulate log files.
 >
 > **[3:03](https://www.linkedin.com/learning/network-forensics-23931106/anti-network-forensics-techniques?u=76281980&t=183)** Knowing what to expect and what to look for will reduce the possibility of overlooking evidence and improve the chance of catching a crime.
 
@@ -468,14 +461,13 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
 
-#### Challenge: Acquiring additional information with Nmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/challenge-aquiring-additional-information-with-nmap?u=76281980)
+#### [Challenge: Acquiring additional information with Nmap](https://www.linkedin.com/learning/network-forensics-23931106/challenge-aquiring-additional-information-with-nmap?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/challenge-aquiring-additional-information-with-nmap?u=76281980&t=0)** (techno upbeat music)
 >
-> **[0:05](https://www.linkedin.com/learning/network-forensics-23931106/challenge-aquiring-additional-information-with-nmap?u=76281980&t=5)** - [Instructor] We learned how to discover active hosts using Nmap.
+> **[0:05](https://www.linkedin.com/learning/network-forensics-23931106/challenge-aquiring-additional-information-with-nmap?u=76281980&t=5)** - [Instructor] We learned how to discover active hosts using [[Nmap]].
 >
 > **[0:10](https://www.linkedin.com/learning/network-forensics-23931106/challenge-aquiring-additional-information-with-nmap?u=76281980&t=10)** Your challenge is to find Nmap options to find out what ports are open on the active hosts in the network of your interest.
 >
@@ -485,12 +477,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Nmap]] (4)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (techno upbeat music) (1)
 
-#### Solution: Acquiring additional information with Nmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/solution-acquiring-additional-information-with-nmap?u=76281980)
+#### [Solution: Acquiring additional information with Nmap](https://www.linkedin.com/learning/network-forensics-23931106/solution-acquiring-additional-information-with-nmap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -506,7 +498,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/network-forensics-23931106/solution-acquiring-additional-information-with-nmap?u=76281980&t=25)** subnet.
 >
-> **[0:31](https://www.linkedin.com/learning/network-forensics-23931106/solution-acquiring-additional-information-with-nmap?u=76281980&t=31)** Therefore type nmap
+> **[0:31](https://www.linkedin.com/learning/network-forensics-23931106/solution-acquiring-additional-information-with-nmap?u=76281980&t=31)** Therefore type [[Nmap]]
 >
 > **[0:36](https://www.linkedin.com/learning/network-forensics-23931106/solution-acquiring-additional-information-with-nmap?u=76281980&t=36)** - dash F, 192.168.0.0/24.
 >
@@ -516,6 +508,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Nmap]] (1)
 > **Versions:** 192.168.0 (2)
 > **Speakers:** - [instructor] (1), - dash (1)
 > **Non-Speech:** (bouncy upbeat music) (1)
@@ -525,8 +518,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Network forensics investigation hardware
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-hardware?u=76281980)
+#### [Network forensics investigation hardware](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-hardware?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -544,13 +536,13 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-hardware?u=76281980&t=59)** Don't get disappointed if your device doesn't have a mirroring capability.
 >
-> **[1:04](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-hardware?u=76281980&t=64)** There are hardware network sniffers like this one.
+> **[1:04](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-hardware?u=76281980&t=64)** There are [[Hardware]] network sniffers like this one.
 >
 > **[1:08](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-hardware?u=76281980&t=68)** Do you see the arrow with the TAP label?
 >
 > **[1:12](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-hardware?u=76281980&t=72)** That's where you connect a piece of recording equipment.
 >
-> **[1:17](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-hardware?u=76281980&t=77)** In wireless networking, eavesdropping is easier because access points, or APs, broadcast their signals.
+> **[1:17](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-hardware?u=76281980&t=77)** In [[Wireless Networking]], eavesdropping is easier because access points, or APs, broadcast their signals.
 >
 > **[1:26](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-hardware?u=76281980&t=86)** Any device connected to an AP has the potential to intercept the network traffic meant for its peers.
 >
@@ -560,7 +552,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-hardware?u=76281980&t=108)** Because of this, turning on the promiscuous mode is a must if an investigator uses a wireless NIC to collect network data.
 >
-> **[2:00](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-hardware?u=76281980&t=120)** Wireshark is a popular tool for sniping network packets, including wireless signals.
+> **[2:00](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-hardware?u=76281980&t=120)** [[Wireshark]] is a popular tool for sniping network packets, including wireless signals.
 >
 > **[2:07](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-hardware?u=76281980&t=127)** Let's check if Wireshark provides the promiscuous mode option.
 >
@@ -576,25 +568,24 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-hardware?u=76281980&t=164)** Network data recorders or appliances you can purchase to hold the days or even a month's worth of network traffic.
 >
-> **[2:54](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-hardware?u=76281980&t=174)** They're expensive but are essential hardware for network forensics investigations.
+> **[2:54](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-hardware?u=76281980&t=174)** They're expensive but are essential hardware for [[Network Forensics]] investigations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), traffic (4), [[Wireshark]] (3), [[Hardware]] (2), feature (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3), [[Hardware]] (2), [[Wireless Networking]] (1), [[Network Forensics]] (1)
 > **Env Vars:** nic (4), tap (1)
 > **Definitions:** is a  (3)
 > **Ports:** port 1 (1), port 4 (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Network forensics investigation software
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-software?u=76281980)
+#### [Network forensics investigation software](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-software?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-software?u=76281980&t=0)** - [Instructor] A major network forensics tool is software that collects logs.
+> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-software?u=76281980&t=0)** - [Instructor] A major [[Network Forensics]] tool is software that collects logs.
 >
-> **[0:06](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-software?u=76281980&t=6)** Windows operating systems, or OSes, manage their logs through a program called Event Viewer.
+> **[0:06](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-software?u=76281980&t=6)** [[Windows]] operating systems, or OSes, manage their logs through a program called Event Viewer.
 >
 > **[0:16](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-software?u=76281980&t=16)** Let's try it.
 >
@@ -624,7 +615,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-software?u=76281980&t=114)** You have both agent-based and agent-less options.
 >
-> **[2:00](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-software?u=76281980&t=120)** Linux has built-in features for managing logs, such as Syslog and Syslog-ng.
+> **[2:00](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-software?u=76281980&t=120)** [[Linux]] has built-in features for managing logs, such as Syslog and Syslog-ng.
 >
 > **[2:08](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-software?u=76281980&t=128)** We'll examine them in more detail later.
 >
@@ -632,13 +623,13 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-software?u=76281980&t=141)** Security information and event management, or SIEM, is the most sophisticated form of log management, and Splunk is the software implementation we'll try out.
 >
-> **[2:36](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-software?u=76281980&t=156)** In addition to producing, collecting, and analyzing logs, there are many other types of network forensics software, such as packet sniffing, traffic analysis, and intrusion detection systems.
+> **[2:36](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-software?u=76281980&t=156)** In addition to producing, collecting, and analyzing logs, there are many other types of network forensics software, such as packet sniffing, traffic analysis, and [[Intrusion Detection]] systems.
 >
 > **[2:52](https://www.linkedin.com/learning/network-forensics-23931106/network-forensics-investigation-software?u=76281980&t=172)** We'll look at each of them closely one by one.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), management (3), [[Network Forensics]] (2), [[Security]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Network Forensics]] (2), [[Linux]] (1), [[Intrusion Detection]] (1)
 > **Env Vars:** snmp (5), siem (1)
 > **Analogies:** such as (3)
 > **Ports:** :00 (1)
@@ -647,14 +638,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding computer networking
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/understanding-computer-networking?u=76281980)
+#### [Understanding computer networking](https://www.linkedin.com/learning/network-forensics-23931106/understanding-computer-networking?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/understanding-computer-networking?u=76281980&t=0)** - [Instructor] Networking connects computers, allowing applications running on them to communicate with each other and provide services to end users.
 >
-> **[0:10](https://www.linkedin.com/learning/network-forensics-23931106/understanding-computer-networking?u=76281980&t=10)** We enjoy the benefits of networking by using email, cloud computing, and web content, just to name a few.
+> **[0:10](https://www.linkedin.com/learning/network-forensics-23931106/understanding-computer-networking?u=76281980&t=10)** We enjoy the benefits of networking by using email, [[Cloud Computing]], and web content, just to name a few.
 >
 > **[0:21](https://www.linkedin.com/learning/network-forensics-23931106/understanding-computer-networking?u=76281980&t=21)** Each network device needs a network interface card, or NIC, to transform data into electrical currents, pulses of light, or radio waves, depending on the medium used to transmit the signals.
 >
@@ -686,14 +676,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), application (2), cloud (1), web (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1)
 > **Env Vars:** mac (3), nic (1), utp (1), tcp (1)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding networking devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/understanding-networking-devices?u=76281980)
+#### [Understanding networking devices](https://www.linkedin.com/learning/network-forensics-23931106/understanding-networking-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -705,11 +694,11 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/network-forensics-23931106/understanding-networking-devices?u=76281980&t=29)** A personal computer could be disqualified as a host if it lacks a network interface card or NEC, although such a scenario is highly unlikely.
 >
-> **[0:40](https://www.linkedin.com/learning/network-forensics-23931106/understanding-networking-devices?u=76281980&t=40)** A switch connects two or more hosts in a local area network or LAN.
+> **[0:40](https://www.linkedin.com/learning/network-forensics-23931106/understanding-networking-devices?u=76281980&t=40)** A switch connects two or more hosts in a [[Local Area Network (LAN)|local area network]] or LAN.
 >
 > **[0:47](https://www.linkedin.com/learning/network-forensics-23931106/understanding-networking-devices?u=76281980&t=47)** It uses MAC addresses to distinguish its hosts.
 >
-> **[0:53](https://www.linkedin.com/learning/network-forensics-23931106/understanding-networking-devices?u=76281980&t=53)** To find your Windows computer's MAC address, type ipconfig /all in the command prompt window.
+> **[0:53](https://www.linkedin.com/learning/network-forensics-23931106/understanding-networking-devices?u=76281980&t=53)** To find your [[Windows]] computer's MAC address, type ipconfig /all in the command prompt window.
 >
 > **[1:09](https://www.linkedin.com/learning/network-forensics-23931106/understanding-networking-devices?u=76281980&t=69)** The /all option forces the MAC address to show up.
 >
@@ -735,7 +724,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/network-forensics-23931106/understanding-networking-devices?u=76281980&t=164)** well-known port numbers are a group of commonly used port numbers associated with server applications.
 >
-> **[2:52](https://www.linkedin.com/learning/network-forensics-23931106/understanding-networking-devices?u=76281980&t=172)** Port 80 is a well-known port number for web servers.
+> **[2:52](https://www.linkedin.com/learning/network-forensics-23931106/understanding-networking-devices?u=76281980&t=172)** Port 80 is a well-known port number for [[Web Servers]].
 >
 > **[2:59](https://www.linkedin.com/learning/network-forensics-23931106/understanding-networking-devices?u=76281980&t=179)** So far we have reviewed three different types of addresses required to send the packet from one host to another.
 >
@@ -747,11 +736,11 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/network-forensics-23931106/understanding-networking-devices?u=76281980&t=205)** These concepts may take a while before they sink in.
 >
-> **[3:30](https://www.linkedin.com/learning/network-forensics-23931106/understanding-networking-devices?u=76281980&t=210)** I emphasize them here because they are part of the foundational knowledge essential for network forensics investigators.
+> **[3:30](https://www.linkedin.com/learning/network-forensics-23931106/understanding-networking-devices?u=76281980&t=210)** I emphasize them here because they are part of the foundational knowledge essential for [[Network Forensics]] investigators.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** lan (2), web (2), [[Local Area Network (LAN)|Local area network]] (1), [[Windows]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (1), [[Windows]] (1), [[Web Servers]] (1), [[Network Forensics]] (1)
 > **Env Vars:** mac (9), lan (2), nec (1), lans (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
@@ -760,18 +749,17 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding network data sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/understanding-network-data-sources?u=76281980)
+#### [Understanding network data sources](https://www.linkedin.com/learning/network-forensics-23931106/understanding-network-data-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/understanding-network-data-sources?u=76281980&t=0)** - [Instructor] As cyber criminals expand their territory on the internet, the demand for evidence data in network forensics is also rapidly growing.
+> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/understanding-network-data-sources?u=76281980&t=0)** - [Instructor] As cyber criminals expand their territory on the internet, the demand for evidence data in [[Network Forensics]] is also rapidly growing.
 >
 > **[0:10](https://www.linkedin.com/learning/network-forensics-23931106/understanding-network-data-sources?u=76281980&t=10)** None of the mainstream network forensics tools can function optimally without access to several data sources.
 >
 > **[0:19](https://www.linkedin.com/learning/network-forensics-23931106/understanding-network-data-sources?u=76281980&t=19)** Therefore, readily available data from various origins is crucial in producing satisfactory and meaningful network forensics reports.
 >
-> **[0:31](https://www.linkedin.com/learning/network-forensics-23931106/understanding-network-data-sources?u=76281980&t=31)** Network forensics data comes from many places, including software, hardware, and media.
+> **[0:31](https://www.linkedin.com/learning/network-forensics-23931106/understanding-network-data-sources?u=76281980&t=31)** Network forensics data comes from many places, including software, [[Hardware]], and media.
 >
 > **[0:40](https://www.linkedin.com/learning/network-forensics-23931106/understanding-network-data-sources?u=76281980&t=40)** Packet sniffers are the most obvious data source.
 >
@@ -781,13 +769,13 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/network-forensics-23931106/understanding-network-data-sources?u=76281980&t=61)** Firewalls are another data source that creates log entries whenever a packet is dropped.
 >
-> **[1:09](https://www.linkedin.com/learning/network-forensics-23931106/understanding-network-data-sources?u=76281980&t=69)** They are the first line of defense in network security and one of the biggest targets for cybersecurity attacks.
+> **[1:09](https://www.linkedin.com/learning/network-forensics-23931106/understanding-network-data-sources?u=76281980&t=69)** They are the first line of defense in [[Network Security]] and one of the biggest targets for [[Cybersecurity]] attacks.
 >
-> **[1:18](https://www.linkedin.com/learning/network-forensics-23931106/understanding-network-data-sources?u=76281980&t=78)** Intrusion detection systems, or IDSs, and intrusion prevention systems, or IPSs, also produce data in the form of alerts when they detect and discard suspicious attack packets.
+> **[1:18](https://www.linkedin.com/learning/network-forensics-23931106/understanding-network-data-sources?u=76281980&t=78)** [[Intrusion Detection]] systems, or IDSs, and intrusion prevention systems, or IPSs, also produce data in the form of alerts when they detect and discard suspicious attack packets.
 >
 > **[1:34](https://www.linkedin.com/learning/network-forensics-23931106/understanding-network-data-sources?u=76281980&t=94)** Vulnerability management systems scan networks for potential weaknesses such as unnecessarily open ports and unpatched operating systems, or OSs, susceptible to known exploits.
 >
-> **[1:52](https://www.linkedin.com/learning/network-forensics-23931106/understanding-network-data-sources?u=76281980&t=112)** Network applications such as web browsers and servers and operating systems, like Windows, Linux, and Mac OS, are also major producers of network forensics data.
+> **[1:52](https://www.linkedin.com/learning/network-forensics-23931106/understanding-network-data-sources?u=76281980&t=112)** Network applications such as web browsers and servers and operating systems, like [[Windows]], [[Linux]], and Mac OS, are also major producers of network forensics data.
 >
 > **[2:07](https://www.linkedin.com/learning/network-forensics-23931106/understanding-network-data-sources?u=76281980&t=127)** They all have their own logging mechanisms designed to establish a trail of evidence left behind by attackers.
 >
@@ -801,19 +789,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Network Forensics]] (7), management (2), [[Hardware]] (1), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[Network Forensics]] (7), [[Hardware]] (1), [[Network Security]] (1), [[Cybersecurity]] (1), [[Intrusion Detection]] (1)
 > **Analogies:** such as (4)
 > **Env Vars:** siem (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Wireshark filtering
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/challenge-wireshark-filtering?u=76281980)
+#### [Challenge: Wireshark filtering](https://www.linkedin.com/learning/network-forensics-23931106/challenge-wireshark-filtering?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/challenge-wireshark-filtering?u=76281980&t=0)** (lively upbeat music)
 >
-> **[0:05](https://www.linkedin.com/learning/network-forensics-23931106/challenge-wireshark-filtering?u=76281980&t=5)** - [Instructor] To start capturing packets in Wireshark, all you have to do is pick the right network interface and press the play button here.
+> **[0:05](https://www.linkedin.com/learning/network-forensics-23931106/challenge-wireshark-filtering?u=76281980&t=5)** - [Instructor] To start capturing packets in [[Wireshark]], all you have to do is pick the right network interface and press the play button here.
 >
 > **[0:17](https://www.linkedin.com/learning/network-forensics-23931106/challenge-wireshark-filtering?u=76281980&t=17)** There are so many packets passing by and it's critical to be able to filter them.
 >
@@ -830,8 +817,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively upbeat music) (1)
 
-#### Solution: Wireshark filtering
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/solution-wireshark-filtering?u=76281980)
+#### [Solution: Wireshark filtering](https://www.linkedin.com/learning/network-forensics-23931106/solution-wireshark-filtering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -857,8 +843,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Network logs
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/network-logs?u=76281980)
+#### [Network logs](https://www.linkedin.com/learning/network-forensics-23931106/network-logs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -866,7 +851,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/network-forensics-23931106/network-logs?u=76281980&t=9)** They log events that require human attention in various files.
 >
-> **[0:15](https://www.linkedin.com/learning/network-forensics-23931106/network-logs?u=76281980&t=15)** Examples include hardware and software errors and intrusion attempts.
+> **[0:15](https://www.linkedin.com/learning/network-forensics-23931106/network-logs?u=76281980&t=15)** Examples include [[Hardware]] and software errors and intrusion attempts.
 >
 > **[0:21](https://www.linkedin.com/learning/network-forensics-23931106/network-logs?u=76281980&t=21)** The hardware components include personal computers, or PCs, servers, routers, and firewalls.
 >
@@ -882,7 +867,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/network-forensics-23931106/network-logs?u=76281980&t=73)** Servers are also hosts, but different from PCs because they specialize in providing certain services.
 >
-> **[1:23](https://www.linkedin.com/learning/network-forensics-23931106/network-logs?u=76281980&t=83)** Take web servers that serve content to browsers.
+> **[1:23](https://www.linkedin.com/learning/network-forensics-23931106/network-logs?u=76281980&t=83)** Take [[Web Servers]] that serve content to browsers.
 >
 > **[1:29](https://www.linkedin.com/learning/network-forensics-23931106/network-logs?u=76281980&t=89)** Web server log files document when a host accesses a specific website.
 >
@@ -904,34 +889,33 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/network-forensics-23931106/network-logs?u=76281980&t=170)** There are more specialized sources of network logs too.
 >
-> **[2:55](https://www.linkedin.com/learning/network-forensics-23931106/network-logs?u=76281980&t=175)** Firewalls have evolved into intrusion detection and prevention systems, which triggered the development of more advanced and comprehensive systems, like vulnerability management systems and security information and event management, or SIEM systems.
+> **[2:55](https://www.linkedin.com/learning/network-forensics-23931106/network-logs?u=76281980&t=175)** Firewalls have evolved into [[Intrusion Detection]] and prevention systems, which triggered the development of more advanced and comprehensive systems, like vulnerability management systems and security information and event management, or SIEM systems.
 >
-> **[3:12](https://www.linkedin.com/learning/network-forensics-23931106/network-logs?u=76281980&t=192)** Network forensics investigators should always look out for these continually evolving and emerging specialty solutions and consider them for inclusion in their investigations.
+> **[3:12](https://www.linkedin.com/learning/network-forensics-23931106/network-logs?u=76281980&t=192)** [[Network Forensics]] investigators should always look out for these continually evolving and emerging specialty solutions and consider them for inclusion in their investigations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (3), web (3), management (2), [[Intrusion Detection]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Web Servers]] (1), [[Intrusion Detection]] (1), [[Network Forensics]] (1)
 > **Env Vars:** mac (2), nic (1), siem (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Intrusion and security events
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/intrusion-and-security-events?u=76281980)
+#### [Intrusion and security events](https://www.linkedin.com/learning/network-forensics-23931106/intrusion-and-security-events?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/intrusion-and-security-events?u=76281980&t=0)** - [Instructor] In network forensics, a passive approach is to examine network logs and search for a series of related security events to detect an intrusion after a cybersecurity incident.
+> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/intrusion-and-security-events?u=76281980&t=0)** - [Instructor] In [[Network Forensics]], a passive approach is to examine network logs and search for a series of related security events to detect an intrusion after a [[Cybersecurity]] incident.
 >
 > **[0:13](https://www.linkedin.com/learning/network-forensics-23931106/intrusion-and-security-events?u=76281980&t=13)** A more active method is to monitor network traffic in real time to catch attacks while they are underway.
 >
-> **[0:21](https://www.linkedin.com/learning/network-forensics-23931106/intrusion-and-security-events?u=76281980&t=21)** We call this more proactive method active intrusion detection.
+> **[0:21](https://www.linkedin.com/learning/network-forensics-23931106/intrusion-and-security-events?u=76281980&t=21)** We call this more proactive method active [[Intrusion Detection]].
 >
 > **[0:27](https://www.linkedin.com/learning/network-forensics-23931106/intrusion-and-security-events?u=76281980&t=27)** One of the most well-known, open-source, active intrusion detection systems, or IDS, is Snort.
 >
 > **[0:37](https://www.linkedin.com/learning/network-forensics-23931106/intrusion-and-security-events?u=76281980&t=37)** You can download it at [snort.org](https://snort.org).
 >
-> **[0:41](https://www.linkedin.com/learning/network-forensics-23931106/intrusion-and-security-events?u=76281980&t=41)** Both Linux and Windows versions are available for installation.
+> **[0:41](https://www.linkedin.com/learning/network-forensics-23931106/intrusion-and-security-events?u=76281980&t=41)** Both [[Linux]] and [[Windows]] versions are available for installation.
 >
 > **[0:48](https://www.linkedin.com/learning/network-forensics-23931106/intrusion-and-security-events?u=76281980&t=48)** Once installed, Snort starts capturing packets and inspecting them for known attack data patterns, which we call signatures.
 >
@@ -977,7 +961,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), [[Intrusion Detection]] (2), prompt (2), [[Network Forensics]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Intrusion Detection]] (2), [[Network Forensics]] (1), [[Cybersecurity]] (1), [[Windows]] (1)
 > **Env Vars:** nic (2), ids (1)
 > **Tools:** command prompt (2), terminal (1)
 > **CLI Commands:** sudo (2)
@@ -986,8 +970,7 @@ created: 2026-05-02
 > **Versions:** 192.168.0 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Network logs as evidence
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/network-logs-as-evidence?u=76281980)
+#### [Network logs as evidence](https://www.linkedin.com/learning/network-forensics-23931106/network-logs-as-evidence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1007,7 +990,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/network-forensics-23931106/network-logs-as-evidence?u=76281980&t=66)** A history of prior breaches seriously weakens the credibility of the witness and the court may even reject the log data.
 >
-> **[1:16](https://www.linkedin.com/learning/network-forensics-23931106/network-logs-as-evidence?u=76281980&t=76)** Another requirement is keeping logs as a regular business practice, which is often required as part of complying with rules and regulations, such as the Health Insurance Portability and Accountability Act, or HIPAA.
+> **[1:16](https://www.linkedin.com/learning/network-forensics-23931106/network-logs-as-evidence?u=76281980&t=76)** Another requirement is keeping logs as a regular business practice, which is often required as part of complying with rules and regulations, such as the Health Insurance Portability and [[Accountability]] Act, or HIPAA.
 >
 > **[1:32](https://www.linkedin.com/learning/network-forensics-23931106/network-logs-as-evidence?u=76281980&t=92)** This increases the credibility of the presented logs because you're not artificially creating them to prove your claims.
 >
@@ -1029,24 +1012,23 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/network-forensics-23931106/network-logs-as-evidence?u=76281980&t=180)** There is also a cost associated with maintaining an effective logging system.
 >
-> **[3:07](https://www.linkedin.com/learning/network-forensics-23931106/network-logs-as-evidence?u=76281980&t=187)** One of the roles you play as a network forensics specialist is to convince your management team of the necessity of investing all the required resources to avoid the unfortunate situation of your log files being dismissed by the court due to violating any of the criteria we have discussed so far.
+> **[3:07](https://www.linkedin.com/learning/network-forensics-23931106/network-logs-as-evidence?u=76281980&t=187)** One of the roles you play as a [[Network Forensics]] specialist is to convince your management team of the necessity of investing all the required resources to avoid the unfortunate situation of your log files being dismissed by the court due to violating any of the criteria we have discussed so far.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), business (2), [[Security]] (1), data (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (1), [[Network Forensics]] (1)
 > **Analogies:** such as (2)
 > **Warnings:** note that (1), keep in mind (1)
 > **Env Vars:** hipaa (1)
 > **Speakers:** - [instructor] (1)
 
-#### Network logs and compliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/network-logs-and-compliance?u=76281980)
+#### [Network logs and compliance](https://www.linkedin.com/learning/network-forensics-23931106/network-logs-and-compliance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/network-logs-and-compliance?u=76281980&t=0)** - [Instructor] Organizations today are facing increasing pressure to comply with a growing number of rules and regulations that require network forensics as part of their incident response mandates.
+> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/network-logs-and-compliance?u=76281980&t=0)** - [Instructor] Organizations today are facing increasing pressure to comply with a growing number of rules and regulations that require [[Network Forensics]] as part of their [[Incident Response]] mandates.
 >
-> **[0:14](https://www.linkedin.com/learning/network-forensics-23931106/network-logs-and-compliance?u=76281980&t=14)** Sarbanes-Oxley, or SOX, the Payment Card Industry Data Security Standard, or PCI DSS, the Federal Information Security Management Act, or FISMA, and the Health Insurance Portability and Accountability Act, or HIPAA, are some of the legal and industry compliance requirements.
+> **[0:14](https://www.linkedin.com/learning/network-forensics-23931106/network-logs-and-compliance?u=76281980&t=14)** Sarbanes-Oxley, or SOX, the Payment Card Industry [[Data Security]] Standard, or PCI DSS, the Federal [[Information Security Management]] Act, or FISMA, and the Health Insurance Portability and [[Accountability]] Act, or HIPAA, are some of the legal and industry compliance requirements.
 >
 > **[0:42](https://www.linkedin.com/learning/network-forensics-23931106/network-logs-and-compliance?u=76281980&t=42)** Logs contain traces of illicit activities, which act as evidence necessary for building a convincing case in a network forensics investigation.
 >
@@ -1054,7 +1036,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/network-forensics-23931106/network-logs-and-compliance?u=76281980&t=60)** Many of the existing rules and regulations require logging as one of the mandatory security controls.
 >
-> **[1:07](https://www.linkedin.com/learning/network-forensics-23931106/network-logs-and-compliance?u=76281980&t=67)** The term control here refers to a countermeasure against the cybersecurity attack.
+> **[1:07](https://www.linkedin.com/learning/network-forensics-23931106/network-logs-and-compliance?u=76281980&t=67)** The term control here refers to a countermeasure against the [[Cybersecurity]] attack.
 >
 > **[1:14](https://www.linkedin.com/learning/network-forensics-23931106/network-logs-and-compliance?u=76281980&t=74)** Network logs are a high priority among security control options because that's often all we have to piece together what happened in an attack.
 >
@@ -1084,13 +1066,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Security]] (3), [[Automation]] (3), [[Network Forensics]] (2), [[Incident Response]] (1)
+> **Frameworks & Libraries:** [[Network Forensics]] (2), [[Incident Response]] (1), [[Information Security Management]] (1), [[Accountability]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** sox (1), pci (1), dss (1), fisma (1), hipaa (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Audit logs
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/audit-logs?u=76281980)
+#### [Audit logs](https://www.linkedin.com/learning/network-forensics-23931106/audit-logs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1100,9 +1081,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/network-forensics-23931106/audit-logs?u=76281980&t=18)** Audit trail is another name for audit logs.
 >
-> **[0:22](https://www.linkedin.com/learning/network-forensics-23931106/audit-logs?u=76281980&t=22)** Maintaining a strong audit trail is critical in network forensics, and here's why.
+> **[0:22](https://www.linkedin.com/learning/network-forensics-23931106/audit-logs?u=76281980&t=22)** Maintaining a strong audit trail is critical in [[Network Forensics]], and here's why.
 >
-> **[0:30](https://www.linkedin.com/learning/network-forensics-23931106/audit-logs?u=76281980&t=30)** First, it provides accountability.
+> **[0:30](https://www.linkedin.com/learning/network-forensics-23931106/audit-logs?u=76281980&t=30)** First, it provides [[Accountability]].
 >
 > **[0:34](https://www.linkedin.com/learning/network-forensics-23931106/audit-logs?u=76281980&t=34)** Logs tie accounts and people to security events.
 >
@@ -1116,7 +1097,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/network-forensics-23931106/audit-logs?u=76281980&t=72)** Anomaly detection is another benefit because log data provides raw materials for spotting any suspicious activities.
 >
-> **[1:23](https://www.linkedin.com/learning/network-forensics-23931106/audit-logs?u=76281980&t=83)** Linux keeps its audit trail by maintaining a number of log files.
+> **[1:23](https://www.linkedin.com/learning/network-forensics-23931106/audit-logs?u=76281980&t=83)** [[Linux]] keeps its audit trail by maintaining a number of log files.
 >
 > **[1:28](https://www.linkedin.com/learning/network-forensics-23931106/audit-logs?u=76281980&t=88)** You can find them under the var log directory.
 >
@@ -1152,23 +1133,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Network Forensics]] (3), [[Linux]] (3), [[Accountability]] (1), next (1)
+> **Frameworks & Libraries:** [[Network Forensics]] (3), [[Linux]] (3), [[Accountability]] (1)
 > **CLI Commands:** find (1), cd (1), ls (1), sudo (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Firewall logs
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/firewall-logs?u=76281980)
+#### [Firewall logs](https://www.linkedin.com/learning/network-forensics-23931106/firewall-logs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/firewall-logs?u=76281980&t=0)** - [Instructor] Firewalls are a key element of audit logs and a rich source of network forensics data.
+> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/firewall-logs?u=76281980&t=0)** - [Instructor] Firewalls are a key element of audit logs and a rich source of [[Network Forensics]] data.
 >
 > **[0:08](https://www.linkedin.com/learning/network-forensics-23931106/firewall-logs?u=76281980&t=8)** Firewalls generate logs of various access control activities.
 >
 > **[0:14](https://www.linkedin.com/learning/network-forensics-23931106/firewall-logs?u=76281980&t=14)** Firewalls use user-defined rules to decide whether to accept a packet requesting entry into or exit from a network.
 >
-> **[0:27](https://www.linkedin.com/learning/network-forensics-23931106/firewall-logs?u=76281980&t=27)** Please note the word exit here.
+> **[0:27](https://www.linkedin.com/learning/network-forensics-23931106/firewall-logs?u=76281980&t=27)** Please note the [[Microsoft Word|word]] exit here.
 >
 > **[0:30](https://www.linkedin.com/learning/network-forensics-23931106/firewall-logs?u=76281980&t=30)** Firewalls also control outgoing traffic to prevent confidential or sensitive information from leaving a protected network environment.
 >
@@ -1190,7 +1170,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/network-forensics-23931106/firewall-logs?u=76281980&t=115)** On the other hand, the destination IP and port specified in a packet header indicate where the packet is heading.
 >
-> **[2:06](https://www.linkedin.com/learning/network-forensics-23931106/firewall-logs?u=76281980&t=126)** Ubuntu Linux stores its firewall logs in the /var/log/syslog directory.
+> **[2:06](https://www.linkedin.com/learning/network-forensics-23931106/firewall-logs?u=76281980&t=126)** [[Ubuntu]] [[Linux]] stores its firewall logs in the /var/log/syslog directory.
 >
 > **[2:14](https://www.linkedin.com/learning/network-forensics-23931106/firewall-logs?u=76281980&t=134)** Let's check what's happening in our firewall now by typing sudo tail -f /var/log/syslog
 >
@@ -1222,19 +1202,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Network Forensics]] (2), web (2), [[Ubuntu]] (2), data (1)
+> **Frameworks & Libraries:** [[Network Forensics]] (2), [[Ubuntu]] (2), [[Microsoft Word|Word]] (1), [[Linux]] (1)
 > **CLI Commands:** grep (2), sudo (1)
 > **Definitions:** stands for (1), is a  (1)
 > **Env Vars:** gui (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### syslog
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/syslog?u=76281980)
+#### [syslog](https://www.linkedin.com/learning/network-forensics-23931106/syslog?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/syslog?u=76281980&t=0)** - [Instructor] Linux uses a consolidated and systematic audit logging mechanism called Syslog.
+> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/syslog?u=76281980&t=0)** - [Instructor] [[Linux]] uses a consolidated and systematic audit logging mechanism called Syslog.
 >
 > **[0:09](https://www.linkedin.com/learning/network-forensics-23931106/syslog?u=76281980&t=9)** Syslog supports both local and remote log collection.
 >
@@ -1244,11 +1223,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), management (1)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **Speakers:** - [instructor] (1)
 
-#### syslog-ng
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/syslog-ng?u=76281980)
+#### [syslog-ng](https://www.linkedin.com/learning/network-forensics-23931106/syslog-ng?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1276,18 +1254,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), next (1)
 > **Definitions:** is a  (1), stands for (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Kiwi Syslog Server
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/kiwi-syslog-server?u=76281980)
+#### [Kiwi Syslog Server](https://www.linkedin.com/learning/network-forensics-23931106/kiwi-syslog-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/kiwi-syslog-server?u=76281980&t=0)** - [Instructor] Kiwi is a Windows-based syslog server.
+> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/kiwi-syslog-server?u=76281980&t=0)** - [Instructor] Kiwi is a [[Windows]]-based syslog server.
 >
 > **[0:05](https://www.linkedin.com/learning/network-forensics-23931106/kiwi-syslog-server?u=76281980&t=5)** You can download Kiwi by visiting this Kiwi website.
 >
@@ -1302,20 +1278,19 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Log Parser
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/microsoft-log-parser?u=76281980)
+#### [Microsoft Log Parser](https://www.linkedin.com/learning/network-forensics-23931106/microsoft-log-parser?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/microsoft-log-parser?u=76281980&t=0)** - [Instructor] Microsoft Log Parser is still a popular command line tool despite its age.
+> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/microsoft-log-parser?u=76281980&t=0)** - [Instructor] [[Microsoft]] Log Parser is still a popular command line tool despite its age.
 >
-> **[0:07](https://www.linkedin.com/learning/network-forensics-23931106/microsoft-log-parser?u=76281980&t=7)** It provides an S-Q-L or SQL interface that allows users to search for and manipulate the log messages of interest.
+> **[0:07](https://www.linkedin.com/learning/network-forensics-23931106/microsoft-log-parser?u=76281980&t=7)** It provides an S-Q-L or [[SQL]] interface that allows users to search for and manipulate the log messages of interest.
 >
 > **[0:18](https://www.linkedin.com/learning/network-forensics-23931106/microsoft-log-parser?u=76281980&t=18)** One of the primary features of Microsoft Log Parser is the ability to run SQL-like queries on log files regardless of their original formats such as XML, text, or internet information services or IIS log files.
 >
 > **[0:39](https://www.linkedin.com/learning/network-forensics-23931106/microsoft-log-parser?u=76281980&t=39)** The information retrieved as part of a query can appear on a console in a file, or be returned to a database.
 >
-> **[0:48](https://www.linkedin.com/learning/network-forensics-23931106/microsoft-log-parser?u=76281980&t=48)** Microsoft Log Parser can also generate HTML reports and make queries against Windows Event View logs, Active Directory, Windows Registry, et cetera.
+> **[0:48](https://www.linkedin.com/learning/network-forensics-23931106/microsoft-log-parser?u=76281980&t=48)** Microsoft Log Parser can also generate [[HTML]] reports and make queries against [[Windows]] Event View logs, [[Active Directory]], Windows Registry, et cetera.
 >
 > **[1:04](https://www.linkedin.com/learning/network-forensics-23931106/microsoft-log-parser?u=76281980&t=64)** The latest Microsoft Log Parser version is 2.2, and you can download it at this website.
 >
@@ -1325,7 +1300,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (6), [[SQL]] (2), [[Windows]] (2), [[Search]] (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft]] (6), [[SQL]] (2), [[Windows]] (2), [[HTML]] (1), [[Active Directory]] (1)
 > **Env Vars:** sql (2), xml (1), iis (1), html (1)
 > **CLI Commands:** make (1)
 > **Versions:** 2.2 (1)
@@ -1339,12 +1314,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fundamentals
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/fundamentals?u=76281980)
+#### [Fundamentals](https://www.linkedin.com/learning/network-forensics-23931106/fundamentals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/fundamentals?u=76281980&t=0)** - [Instructor] A big part of a network forensics investigation is traffic analysis.
+> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/fundamentals?u=76281980&t=0)** - [Instructor] A big part of a [[Network Forensics]] investigation is traffic analysis.
 >
 > **[0:06](https://www.linkedin.com/learning/network-forensics-23931106/fundamentals?u=76281980&t=6)** Network forensics specialists must clearly understand how a packet travels from its source to a destination because they often have to trace attack packets to their sources.
 >
@@ -1360,7 +1334,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/network-forensics-23931106/fundamentals?u=76281980&t=59)** Each type of network application uses different rules of engagement when communicating with each other, which are referred to as protocols.
 >
-> **[1:12](https://www.linkedin.com/learning/network-forensics-23931106/fundamentals?u=76281980&t=72)** Web browsers send requests for web pages to web servers that store web content.
+> **[1:12](https://www.linkedin.com/learning/network-forensics-23931106/fundamentals?u=76281980&t=72)** Web browsers send requests for web pages to [[Web Servers]] that store web content.
 >
 > **[1:21](https://www.linkedin.com/learning/network-forensics-23931106/fundamentals?u=76281980&t=81)** To do their jobs, web browsers and servers need to know what to expect from each other beforehand regarding anticipated behaviors and their meanings, HTTP is the protocol they use.
 >
@@ -1376,13 +1350,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (8), application (3), [[Network Forensics]] (2), traffic (1), next (1)
+> **Frameworks & Libraries:** [[Network Forensics]] (2), [[Web Servers]] (1)
 > **Env Vars:** http (2), url (1), tcp (1), nic (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Network models
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/network-models?u=76281980)
+#### [Network models](https://www.linkedin.com/learning/network-forensics-23931106/network-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1414,7 +1387,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/network-forensics-23931106/network-models?u=76281980&t=130)** Switches implement only two layers, physical and data link.
 >
-> **[2:16](https://www.linkedin.com/learning/network-forensics-23931106/network-models?u=76281980&t=136)** The data link layer specifies MAC addresses, which switches need to send frames back and forth in a local area network or LAN.
+> **[2:16](https://www.linkedin.com/learning/network-forensics-23931106/network-models?u=76281980&t=136)** The data link layer specifies MAC addresses, which switches need to send frames back and forth in a [[Local Area Network (LAN)|local area network]] or LAN.
 >
 > **[2:28](https://www.linkedin.com/learning/network-forensics-23931106/network-models?u=76281980&t=148)** Routers handle three layers, physical, data link, and network.
 >
@@ -1426,17 +1399,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), application (4), [[Local Area Network (LAN)|Local area network]] (1), lan (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** mac (1), lan (1), http (1)
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Subnets, subnet ID, and subnet mask
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/subnets-subnet-id-and-subnet-mask?u=76281980)
+#### [Subnets, subnet ID, and subnet mask](https://www.linkedin.com/learning/network-forensics-23931106/subnets-subnet-id-and-subnet-mask?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/subnets-subnet-id-and-subnet-mask?u=76281980&t=0)** - [Instructor] A subnet is a mechanism to divide a local area network or LAN into multiple independent networks.
+> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/subnets-subnet-id-and-subnet-mask?u=76281980&t=0)** - [Instructor] A subnet is a mechanism to divide a [[Local Area Network (LAN)|local area network]] or LAN into multiple independent networks.
 >
 > **[0:10](https://www.linkedin.com/learning/network-forensics-23931106/subnets-subnet-id-and-subnet-mask?u=76281980&t=10)** Creating subnets improves security by reducing visibility between hosts.
 >
@@ -1446,7 +1418,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/network-forensics-23931106/subnets-subnet-id-and-subnet-mask?u=76281980&t=41)** Once malicious users gain access to the network, they can scan the whole network and obtain the details of all its hosts.
 >
-> **[0:52](https://www.linkedin.com/learning/network-forensics-23931106/subnets-subnet-id-and-subnet-mask?u=76281980&t=52)** Therefore, splitting a network into multiple sections is one of the best network security practices.
+> **[0:52](https://www.linkedin.com/learning/network-forensics-23931106/subnets-subnet-id-and-subnet-mask?u=76281980&t=52)** Therefore, splitting a network into multiple sections is one of the best [[Network Security]] practices.
 >
 > **[1:02](https://www.linkedin.com/learning/network-forensics-23931106/subnets-subnet-id-and-subnet-mask?u=76281980&t=62)** Creating subnets or subnetting occurs at the network layer, which provides IP addresses.
 >
@@ -1484,15 +1456,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** lan (2), [[Local Area Network (LAN)|Local area network]] (1), [[Security]] (1), traffic (1), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (1), [[Network Security]] (1)
 > **Versions:** 13.107.42 (4), 13.107 (2), 42.14 (1), 13.107.43 (1), 13.107.255 (1)
 > **Env Vars:** lan (2), isp (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protocol analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/protocol-analysis?u=76281980)
+#### [Protocol analysis](https://www.linkedin.com/learning/network-forensics-23931106/protocol-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1538,7 +1509,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/network-forensics-23931106/protocol-analysis?u=76281980&t=176)** On the other hand, programs like email and web browsers use TCP to ensure the correctness of the data they receive.
 >
-> **[3:08](https://www.linkedin.com/learning/network-forensics-23931106/protocol-analysis?u=76281980&t=188)** Wireshark is a packet sniffer, but it's also referred to as a protocol analyzer because it can decode the network message into the layers used by various protocols.
+> **[3:08](https://www.linkedin.com/learning/network-forensics-23931106/protocol-analysis?u=76281980&t=188)** [[Wireshark]] is a packet sniffer, but it's also referred to as a protocol analyzer because it can decode the network message into the layers used by various protocols.
 >
 > **[3:23](https://www.linkedin.com/learning/network-forensics-23931106/protocol-analysis?u=76281980&t=203)** Let's see if this is true.
 >
@@ -1554,7 +1525,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Wireshark]] (2), web (1), power (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2)
 > **Env Vars:** tcp (7), syn (6), udp (5), ack (5), osi (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1), find (1)
@@ -1562,14 +1533,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### ARP
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/arp?u=76281980)
+#### [ARP](https://www.linkedin.com/learning/network-forensics-23931106/arp?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/arp?u=76281980&t=0)** - [Instructor] ARP, or ARP stands for address resolution protocol.
 >
-> **[0:08](https://www.linkedin.com/learning/network-forensics-23931106/arp?u=76281980&t=8)** In the previous lessons, I talked about the use of two addressing schemes in computer networking.
+> **[0:08](https://www.linkedin.com/learning/network-forensics-23931106/arp?u=76281980&t=8)** In the previous lessons, I talked about the use of two addressing schemes in [[Computer Networking]].
 >
 > **[0:16](https://www.linkedin.com/learning/network-forensics-23931106/arp?u=76281980&t=16)** One was MAC for switches, and the other was IP for routers.
 >
@@ -1577,13 +1547,13 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/network-forensics-23931106/arp?u=76281980&t=39)** Hosts use an ARP table to keep track of the mapping between IP addresses and their MAC versions.
 >
-> **[0:49](https://www.linkedin.com/learning/network-forensics-23931106/arp?u=76281980&t=49)** Let's check this out on our Windows machine.
+> **[0:49](https://www.linkedin.com/learning/network-forensics-23931106/arp?u=76281980&t=49)** Let's check this out on our [[Windows]] machine.
 >
 > **[0:54](https://www.linkedin.com/learning/network-forensics-23931106/arp?u=76281980&t=54)** In your command prompt window type arp -a, press enter.
 >
 > **[1:05](https://www.linkedin.com/learning/network-forensics-23931106/arp?u=76281980&t=65)** Do you see the mapping between the internet address and physical addresses?
 >
-> **[1:12](https://www.linkedin.com/learning/network-forensics-23931106/arp?u=76281980&t=72)** This table is useful for network forensics specialists because they can find out the MAC addresses associated with the IP addresses they are investigating without signing onto each host.
+> **[1:12](https://www.linkedin.com/learning/network-forensics-23931106/arp?u=76281980&t=72)** This table is useful for [[Network Forensics]] specialists because they can find out the MAC addresses associated with the IP addresses they are investigating without signing onto each host.
 >
 > **[1:29](https://www.linkedin.com/learning/network-forensics-23931106/arp?u=76281980&t=89)** ARP obtains MAC addresses by using a network broadcast request that asks for the MAC address of a device configured with a specific IP.
 >
@@ -1595,7 +1565,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/network-forensics-23931106/arp?u=76281980&t=143)** In the meantime, the ARP table of all the machines you're contacting will be updated with your MAC and IP address mapping, while yours will be populated with the MAC and IP address mappings of all the hosts you are reaching out to.
 >
-> **[2:40](https://www.linkedin.com/learning/network-forensics-23931106/arp?u=76281980&t=160)** ARP operates at the data link layer and you'll encounter many ARP requests when reviewing your packet capture results in a tool like Wireshark.
+> **[2:40](https://www.linkedin.com/learning/network-forensics-23931106/arp?u=76281980&t=160)** ARP operates at the data link layer and you'll encounter many ARP requests when reviewing your packet capture results in a tool like [[Wireshark]].
 >
 > **[2:53](https://www.linkedin.com/learning/network-forensics-23931106/arp?u=76281980&t=173)** Take a look at this.
 >
@@ -1605,14 +1575,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Computer Networking]] (1), [[Windows]] (1), prompt (1), [[Network Forensics]] (1), hit (1)
+> **Frameworks & Libraries:** [[Computer Networking]] (1), [[Windows]] (1), [[Network Forensics]] (1), [[Wireshark]] (1)
 > **Env Vars:** arp (14), mac (11)
 > **CLI Commands:** find (1)
 > **Tools:** command prompt (1)
 > **Speakers:** - [instructor] (1)
 
-#### ARP poisoning
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/arp-poisoning?u=76281980)
+#### [ARP poisoning](https://www.linkedin.com/learning/network-forensics-23931106/arp-poisoning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1642,12 +1611,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### DNS
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/dns?u=76281980)
+#### [DNS](https://www.linkedin.com/learning/network-forensics-23931106/dns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/dns?u=76281980&t=0)** - [Instructor] Domain Name System, or DNS, is an application layer protocol.
+> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/dns?u=76281980&t=0)** - [Instructor] [[Domain Name System (DNS)|Domain Name System]], or DNS, is an application layer protocol.
 >
 > **[0:05](https://www.linkedin.com/learning/network-forensics-23931106/dns?u=76281980&t=5)** It uses UDP instead of TCP at the transport layer because it doesn't require a reliable connection.
 >
@@ -1663,7 +1631,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/network-forensics-23931106/dns?u=76281980&t=44)** This is why we need a DNS server in the cloud somewhere.
 >
-> **[0:50](https://www.linkedin.com/learning/network-forensics-23931106/dns?u=76281980&t=50)** Converting a meaningful domain name like worldwideweb.[linkedin.com](https://linkedin.com) into an IP address.
+> **[0:50](https://www.linkedin.com/learning/network-forensics-23931106/dns?u=76281980&t=50)** Converting a meaningful domain name like worldwideweb.[[[LinkedIn]].com](https://linkedin.com) into an IP address.
 >
 > **[0:58](https://www.linkedin.com/learning/network-forensics-23931106/dns?u=76281980&t=58)** Network equipment only understands IP addresses unlike humans who prefer a name like LinkedIn.
 >
@@ -1693,7 +1661,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (9), [[LinkedIn]] (3), web (2), [[Domain Name System (DNS)|Domain name system]] (1), application (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Domain Name System (DNS)|Domain name system]] (1)
 > **Env Vars:** dns (9), udp (1), tcp (1), url (1)
 > **Versions:** 10.35.4 (1), 192.168.0 (1), 104.18.41 (1), 172.64.146 (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (2)
@@ -1702,8 +1670,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
 
-#### DNS poisoning
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/dns-poisoning?u=76281980)
+#### [DNS poisoning](https://www.linkedin.com/learning/network-forensics-23931106/dns-poisoning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1717,17 +1684,17 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/network-forensics-23931106/dns-poisoning?u=76281980&t=29)** Second, we're talking about millions or even billions of records.
 >
-> **[0:37](https://www.linkedin.com/learning/network-forensics-23931106/dns-poisoning?u=76281980&t=37)** We know that one of LinkedIn's IP addresses is 13.107.42.14.
+> **[0:37](https://www.linkedin.com/learning/network-forensics-23931106/dns-poisoning?u=76281980&t=37)** We know that one of [[LinkedIn]]'s IP addresses is 13.107.42.14.
 >
 > **[0:46](https://www.linkedin.com/learning/network-forensics-23931106/dns-poisoning?u=76281980&t=46)** What if bad guys changed the domain name IP mapping on our DNS server to point to a fake web server designed to disguise as an authentic LinkedIn website?
 >
-> **[1:00](https://www.linkedin.com/learning/network-forensics-23931106/dns-poisoning?u=76281980&t=60)** Unsuspecting users will type their login credentials and the phishing server will steal their sensitive information.
+> **[1:00](https://www.linkedin.com/learning/network-forensics-23931106/dns-poisoning?u=76281980&t=60)** Unsuspecting users will type their login credentials and the [[Phishing]] server will steal their sensitive information.
 >
 > **[1:09](https://www.linkedin.com/learning/network-forensics-23931106/dns-poisoning?u=76281980&t=69)** Basically, this is what we mean by DNS poisoning.
 >
 > **[1:15](https://www.linkedin.com/learning/network-forensics-23931106/dns-poisoning?u=76281980&t=75)** Let me demonstrate this locally on my virtual machine.
 >
-> **[1:20](https://www.linkedin.com/learning/network-forensics-23931106/dns-poisoning?u=76281980&t=80)** Windows OS keeps a file called hosts, which acts like a DNS server.
+> **[1:20](https://www.linkedin.com/learning/network-forensics-23931106/dns-poisoning?u=76281980&t=80)** [[Windows]] OS keeps a file called hosts, which acts like a DNS server.
 >
 > **[1:29](https://www.linkedin.com/learning/network-forensics-23931106/dns-poisoning?u=76281980&t=89)** It maintains its own list of domain names and IP addresses.
 >
@@ -1755,7 +1722,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (6), [[LinkedIn]] (5), web (4), data (2), [[Phishing]] (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (5), [[Phishing]] (2), [[Windows]] (2)
 > **Env Vars:** dns (6), arp (1), url (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (3)
 > **Versions:** 13.107.42 (1), 192.168.0 (1)
@@ -1767,20 +1734,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### tcpdump and WinDump
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump?u=76281980)
+#### [tcpdump and WinDump](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump?u=76281980&t=0)** - [Instructor] Most packet capture or sniffing tools use a software library called Packet Capture, or pcap in short, to sniff network data.
 >
-> **[0:11](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump?u=76281980&t=11)** The Unix/Linux pcap version is called libpcap while its Windows version is called WinPcap.
+> **[0:11](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump?u=76281980&t=11)** The Unix/[[Linux]] pcap version is called libpcap while its [[Windows]] version is called WinPcap.
 >
 > **[0:22](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump?u=76281980&t=22)** Two well-known tools are relying on pcap to capture and analyze packets.
 >
 > **[0:28](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump?u=76281980&t=28)** The first one is tcpdump, a simple command line interface packet sniffer.
 >
-> **[0:35](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump?u=76281980&t=35)** The second one is Wireshark, which is a much more sophisticated and user-friendlier tool, complete with a graphical user interface or GUI.
+> **[0:35](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump?u=76281980&t=35)** The second one is [[Wireshark]], which is a much more sophisticated and user-friendlier tool, complete with a graphical user interface or GUI.
 >
 > **[0:47](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump?u=76281980&t=47)** tcpdump works on both Unix and Linux operating systems.
 >
@@ -1788,7 +1754,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump?u=76281980&t=63)** tcpdump and WinDump have similar commands and options, but of course there are subtle differences between the two tools.
 >
-> **[1:15](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump?u=76281980&t=75)** tcpdump is pre-installed on Ubuntu but WinDump requires a new installation, including setting up WinPcap.
+> **[1:15](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump?u=76281980&t=75)** tcpdump is pre-installed on [[Ubuntu]] but WinDump requires a new installation, including setting up WinPcap.
 >
 > **[1:29](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump?u=76281980&t=89)** Let's try some basic commands with tcpdump.
 >
@@ -1804,7 +1770,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump?u=76281980&t=123)** Press Enter.
 >
-> **[2:06](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump?u=76281980&t=126)** You'll notice that the output is somewhat different and more relevant to network forensics professionals like me.
+> **[2:06](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump?u=76281980&t=126)** You'll notice that the output is somewhat different and more relevant to [[Network Forensics]] professionals like me.
 >
 > **[2:14](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump?u=76281980&t=134)** That is, I can see all the network interfaces on my host and their status.
 >
@@ -1812,19 +1778,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), [[Windows]] (2), [[Ubuntu]] (2), data (1), [[Wireshark]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Windows]] (2), [[Ubuntu]] (2), [[Wireshark]] (1), [[Network Forensics]] (1)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gui (1)
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### tcpdump and WinDump hands-on
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump-hands-on?u=76281980)
+#### [tcpdump and WinDump hands-on](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump-hands-on?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump-hands-on?u=76281980&t=0)** - [Instructor] Imagine that I'd like to intercept all the Secure Shell traffic on my Ubuntu operating system, or OS.
+> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump-hands-on?u=76281980&t=0)** - [Instructor] Imagine that I'd like to intercept all the Secure Shell traffic on my [[Ubuntu]] operating system, or OS.
 >
 > **[0:08](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump-hands-on?u=76281980&t=8)** To accomplish this goal, type sudo tcpdump, space,
 >
@@ -1882,7 +1847,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump-hands-on?u=76281980&t=193)** As you can see, it's not a simple text file.
 >
-> **[3:17](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump-hands-on?u=76281980&t=197)** In fact, the file format used here is pcap, and we need a special tool such as Wireshark to open it.
+> **[3:17](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump-hands-on?u=76281980&t=197)** In fact, the file format used here is pcap, and we need a special tool such as [[Wireshark]] to open it.
 >
 > **[3:27](https://www.linkedin.com/learning/network-forensics-23931106/tcpdump-and-windump-hands-on?u=76281980&t=207)** Let's get out of this by typing Q.
 >
@@ -1906,7 +1871,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Wireshark]] (3), power (2), traffic (1), [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3), [[Ubuntu]] (1)
 > **CLI Commands:** ssh (4), sudo (2), ls (1)
 > **Tools:** terminal (4)
 > **UI Navigation:** open the (1), go to (1), scroll down (1), click on (1)
@@ -1915,12 +1880,11 @@ created: 2026-05-02
 > **Versions:** 10.35.4 (1)
 > **Definitions:** is an  (1)
 
-#### Wireshark
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/wireshark?u=76281980)
+#### [Wireshark](https://www.linkedin.com/learning/network-forensics-23931106/wireshark?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/wireshark?u=76281980&t=0)** - [Instructor] Wireshark is one of the most well-known packet or protocol analysis software programs.
+> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/wireshark?u=76281980&t=0)** - [Instructor] [[Wireshark]] is one of the most well-known packet or protocol analysis software programs.
 >
 > **[0:07](https://www.linkedin.com/learning/network-forensics-23931106/wireshark?u=76281980&t=7)** This type of software is also called Packet Sniper.
 >
@@ -1930,7 +1894,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/network-forensics-23931106/wireshark?u=76281980&t=34)** I like how I can use Wireshark to show packets and their associated protocols in real time when explaining networking concepts.
 >
-> **[0:45](https://www.linkedin.com/learning/network-forensics-23931106/wireshark?u=76281980&t=45)** It's a powerful education tool, but it's also a highly practical and useful tool for network forensics professionals.
+> **[0:45](https://www.linkedin.com/learning/network-forensics-23931106/wireshark?u=76281980&t=45)** It's a powerful education tool, but it's also a highly practical and useful tool for [[Network Forensics]] professionals.
 >
 > **[0:55](https://www.linkedin.com/learning/network-forensics-23931106/wireshark?u=76281980&t=55)** Once you've mastered the basic features of Wireshark, it's time to learn some more advanced features to make your life easier.
 >
@@ -1956,19 +1920,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (11), feature (2), dns (2), data (1), application (1)
+> **Frameworks & Libraries:** [[Wireshark]] (11), [[Network Forensics]] (1)
 > **Env Vars:** dns (2), gui (1)
 > **CLI Commands:** make (1)
 > **Tools:** command prompt (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wireshark hands-on
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/wireshark-hands-on?u=76281980)
+#### [Wireshark hands-on](https://www.linkedin.com/learning/network-forensics-23931106/wireshark-hands-on?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/wireshark-hands-on?u=76281980&t=0)** - [Instructor] Let's try some advanced Wireshark features.
+> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/wireshark-hands-on?u=76281980&t=0)** - [Instructor] Let's try some advanced [[Wireshark]] features.
 >
 > **[0:04](https://www.linkedin.com/learning/network-forensics-23931106/wireshark-hands-on?u=76281980&t=4)** The first one I'd like to show you is how to start packet capturing without going through the initial Wireshark GUI screen.
 >
@@ -1986,7 +1949,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/network-forensics-23931106/wireshark-hands-on?u=76281980&t=71)** Let's generate some more traffic by opening up our web browser.
 >
-> **[1:16](https://www.linkedin.com/learning/network-forensics-23931106/wireshark-hands-on?u=76281980&t=76)** I'll type the domain name, worldwideweb.[linkedin.com](https://linkedin.com).
+> **[1:16](https://www.linkedin.com/learning/network-forensics-23931106/wireshark-hands-on?u=76281980&t=76)** I'll type the domain name, worldwideweb.[[[LinkedIn]].com](https://linkedin.com).
 >
 > **[1:21](https://www.linkedin.com/learning/network-forensics-23931106/wireshark-hands-on?u=76281980&t=81)** Press Enter.
 >
@@ -2010,17 +1973,17 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/network-forensics-23931106/wireshark-hands-on?u=76281980&t=154)** I can also choose the type of firewall product I'm using.
 >
-> **[2:39](https://www.linkedin.com/learning/network-forensics-23931106/wireshark-hands-on?u=76281980&t=159)** Choose Windows Firewall.
+> **[2:39](https://www.linkedin.com/learning/network-forensics-23931106/wireshark-hands-on?u=76281980&t=159)** Choose [[Windows]] Firewall.
 >
 > **[2:42](https://www.linkedin.com/learning/network-forensics-23931106/wireshark-hands-on?u=76281980&t=162)** As you can see, different firewall rules get generated automatically each time I choose a different firewall product entry.
 >
 > **[2:52](https://www.linkedin.com/learning/network-forensics-23931106/wireshark-hands-on?u=76281980&t=172)** There are many more hidden Wireshark features waiting for you to try.
 >
-> **[2:58](https://www.linkedin.com/learning/network-forensics-23931106/wireshark-hands-on?u=76281980&t=178)** As you become more proficient with Wireshark, your workflow will get smoother and smoother, making your job as a network forensics specialist more effective and efficient.
+> **[2:58](https://www.linkedin.com/learning/network-forensics-23931106/wireshark-hands-on?u=76281980&t=178)** As you become more proficient with Wireshark, your workflow will get smoother and smoother, making your job as a [[Network Forensics]] specialist more effective and efficient.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (6), traffic (2), product (2), next (1), web (1)
+> **Frameworks & Libraries:** [[Wireshark]] (6), [[LinkedIn]] (1), [[Windows]] (1), [[Network Forensics]] (1)
 > **Env Vars:** gui (2), acl (2)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** sudo (1)
@@ -2028,8 +1991,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### HTTP proxies
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies?u=76281980)
+#### [HTTP proxies](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2053,7 +2015,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies?u=76281980&t=76)** You can download Fiddler at this website for free.
 >
-> **[1:22](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies?u=76281980&t=82)** The software works with one web browser at a given time and intercepts all the communications between the client and the web servers it connects to.
+> **[1:22](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies?u=76281980&t=82)** The software works with one web browser at a given time and intercepts all the communications between the client and the [[Web Servers]] it connects to.
 >
 > **[1:34](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies?u=76281980&t=94)** This is especially useful when you are trying to identify potential vulnerabilities that could have contributed to a cyber crime or incident.
 >
@@ -2063,7 +2025,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies?u=76281980&t=129)** Web browsers must be configured to use an HTTP proxy server like this.
 >
-> **[2:16](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies?u=76281980&t=136)** In your Microsoft Edge web browser, choose Settings, type proxy in the search box, click on Open your computer's proxy settings.
+> **[2:16](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies?u=76281980&t=136)** In your [[Microsoft]] Edge web browser, choose Settings, type proxy in the search box, click on Open your computer's proxy settings.
 >
 > **[2:40](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies?u=76281980&t=160)** Click on Setup.
 >
@@ -2071,15 +2033,15 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies?u=76281980&t=176)** That's it.
 >
-> **[2:58](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies?u=76281980&t=178)** Connecting your Windows Edge web browser to an HTTP proxy server like Squid ensures it will always go through a proxy to get to a website.
+> **[2:58](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies?u=76281980&t=178)** Connecting your [[Windows]] Edge web browser to an HTTP proxy server like Squid ensures it will always go through a proxy to get to a website.
 >
 > **[3:11](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies?u=76281980&t=191)** In this context, we use HTTP proxies to enforce security by blocking access to certain websites or to enhance performance by caching specific web content.
 >
-> **[3:27](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies?u=76281980&t=207)** While doing their job, Http proxies also generate a large number of log messages, which are another data source for a computer forensics investigation.
+> **[3:27](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies?u=76281980&t=207)** While doing their job, Http proxies also generate a large number of log messages, which are another data source for a [[Computer Forensics]] investigation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (12), [[Security]] (2), application (2), traffic (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Web Servers]] (1), [[Microsoft]] (1), [[Windows]] (1), [[Computer Forensics]] (1)
 > **Env Vars:** http (11), arp (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (1)
@@ -2087,8 +2049,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### HTTP proxies hands-on
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies-hands-on?u=76281980)
+#### [HTTP proxies hands-on](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies-hands-on?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2098,7 +2059,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies-hands-on?u=76281980&t=4)** It shows all the HTTP or its encrypted version, HTTPS connections on my local host.
 >
-> **[0:14](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies-hands-on?u=76281980&t=14)** In my Chrome web browser, let's open the [linkedin.com](https://linkedin.com) start page.
+> **[0:14](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies-hands-on?u=76281980&t=14)** In my Chrome web browser, let's open the [[[LinkedIn]].com](https://linkedin.com) start page.
 >
 > **[0:20](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies-hands-on?u=76281980&t=20)** Let's go back to Fiddler.
 >
@@ -2130,7 +2091,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies-hands-on?u=76281980&t=112)** Now let's check out squid.
 >
-> **[1:55](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies-hands-on?u=76281980&t=115)** I already installed squid on my Ubuntu box.
+> **[1:55](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies-hands-on?u=76281980&t=115)** I already installed squid on my [[Ubuntu]] box.
 >
 > **[2:00](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies-hands-on?u=76281980&t=120)** Let's see if squid is running.
 >
@@ -2220,13 +2181,13 @@ created: 2026-05-02
 >
 > **[6:44](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies-hands-on?u=76281980&t=404)** As you can see, squid is doing its job.
 >
-> **[6:48](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies-hands-on?u=76281980&t=408)** Both fiddler and squid are great tools for network forensics investigators like us.
+> **[6:48](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies-hands-on?u=76281980&t=408)** Both fiddler and squid are great tools for [[Network Forensics]] investigators like us.
 >
 > **[6:55](https://www.linkedin.com/learning/network-forensics-23931106/http-proxies-hands-on?u=76281980&t=415)** There are numerous features to learn and you definitely have a lot of studying to do.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (7), web (4), data (2), [[Ubuntu]] (2), cd (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (7), [[Ubuntu]] (2), [[Network Forensics]] (1)
 > **Env Vars:** http (5), https (2), etc (1), lan (1), url (1)
 > **UI Navigation:** click on (6), go to (3), open the (1)
 > **CLI Commands:** sudo (3), cd (1), ls (1)
@@ -2235,14 +2196,13 @@ created: 2026-05-02
 > **Code Identifiers:** http_access (1)
 > **API Endpoints:** get  (1)
 
-#### Splunk
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/splunk?u=76281980)
+#### [Splunk](https://www.linkedin.com/learning/network-forensics-23931106/splunk?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/splunk?u=76281980&t=0)** - [Instructor] Security information and event management or SIEM systems like Splunk collect and analyze network forensics data generated by many sources, including intrusion detection systems or IDSes, intrusion prevention systems, or IPSes, and vulnerability management systems.
+> **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/splunk?u=76281980&t=0)** - [Instructor] Security information and event management or SIEM systems like Splunk collect and analyze [[Network Forensics]] data generated by many sources, including [[Intrusion Detection]] systems or IDSes, intrusion prevention systems, or IPSes, and vulnerability management systems.
 >
-> **[0:24](https://www.linkedin.com/learning/network-forensics-23931106/splunk?u=76281980&t=24)** SIEM focuses on monitoring, logging, and analyzing network security events in real time.
+> **[0:24](https://www.linkedin.com/learning/network-forensics-23931106/splunk?u=76281980&t=24)** SIEM focuses on monitoring, logging, and analyzing [[Network Security]] events in real time.
 >
 > **[0:33](https://www.linkedin.com/learning/network-forensics-23931106/splunk?u=76281980&t=33)** The ultimate goal of SIEM is to alert human operators when suspicious or anomalous activities are detected.
 >
@@ -2250,29 +2210,28 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/network-forensics-23931106/splunk?u=76281980&t=63)** SIEM also provides a much more comprehensive and holistic view of your network beyond specific intrusion attempts or known vulnerabilities by leveraging IDS, IPS, and vulnerability management system data and correlating them.
 >
-> **[1:25](https://www.linkedin.com/learning/network-forensics-23931106/splunk?u=76281980&t=85)** Due to the recent advances in data science, SIEM systems are starting to incorporate newly emerging big data analytics technologies.
+> **[1:25](https://www.linkedin.com/learning/network-forensics-23931106/splunk?u=76281980&t=85)** Due to the recent advances in [[Data Science]], SIEM systems are starting to incorporate newly emerging [[Big Data Analytics]] technologies.
 >
 > **[1:37](https://www.linkedin.com/learning/network-forensics-23931106/splunk?u=76281980&t=97)** These enhancements are designed to harness a large amount of historical and real time data to predict future security threats.
 >
 > **[1:48](https://www.linkedin.com/learning/network-forensics-23931106/splunk?u=76281980&t=108)** Splunk is one of the most well-known SIEM solutions in the market today, and we'll have an opportunity to try it out in our next lesson.
 >
-> **[1:58](https://www.linkedin.com/learning/network-forensics-23931106/splunk?u=76281980&t=118)** Other same products include IBM Security, QRadar, RSA, NetWitness Suite, and SolarWinds Log & Event Manager.
+> **[1:58](https://www.linkedin.com/learning/network-forensics-23931106/splunk?u=76281980&t=118)** Other same [[Microsoft Products|products]] include IBM Security, QRadar, RSA, NetWitness Suite, and SolarWinds Log & Event Manager.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), management (4), [[Security]] (3), [[Network Security]] (2), [[Network Forensics]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (2), [[Network Forensics]] (1), [[Intrusion Detection]] (1), [[Data Science]] (1), [[Big Data Analytics]] (1)
 > **Env Vars:** siem (8), ids (2), ips (2), ibm (1), rsa (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Splunk hands-on
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/splunk-hands-on?u=76281980)
+#### [Splunk hands-on](https://www.linkedin.com/learning/network-forensics-23931106/splunk-hands-on?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/splunk-hands-on?u=76281980&t=0)** - Before analyzing network data with Splunk, in this case, rogue network traffic, let's take a moment to capture the data first.
 >
-> **[0:11](https://www.linkedin.com/learning/network-forensics-23931106/splunk-hands-on?u=76281980&t=11)** Open Wireshark.
+> **[0:11](https://www.linkedin.com/learning/network-forensics-23931106/splunk-hands-on?u=76281980&t=11)** Open [[Wireshark]].
 >
 > **[0:13](https://www.linkedin.com/learning/network-forensics-23931106/splunk-hands-on?u=76281980&t=13)** Type, sudo space Wireshark.
 >
@@ -2366,7 +2325,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), traffic (3), [[Wireshark]] (3), web application (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3)
 > **UI Navigation:** click on (11), go to (1), dropdown (1)
 > **Env Vars:** pcap (9), tcp (2)
 > **CLI Commands:** find (2), sudo (1)
@@ -2380,24 +2339,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/network-forensics-23931106/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/network-forensics-23931106/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/network-forensics-23931106/next-steps?u=76281980&t=0)** - Thanks for watching this course.
 >
-> **[0:02](https://www.linkedin.com/learning/network-forensics-23931106/next-steps?u=76281980&t=2)** If you'd like to start at the beginning, network security courses are a foundation for studying network forensics, i suggest you check out my courses, Protecting Your Network with Open Source Software and Data-Driven Network Security Essentials.
+> **[0:02](https://www.linkedin.com/learning/network-forensics-23931106/next-steps?u=76281980&t=2)** If you'd like to start at the beginning, [[Network Security]] courses are a foundation for studying [[Network Forensics]], i suggest you check out my courses, Protecting Your Network with Open Source Software and Data-Driven Network Security Essentials.
 >
 > **[0:19](https://www.linkedin.com/learning/network-forensics-23931106/next-steps?u=76281980&t=19)** These courses will give you a very good exposure to network security.
 >
-> **[0:24](https://www.linkedin.com/learning/network-forensics-23931106/next-steps?u=76281980&t=24)** I also recommend that you take my other forensics courses, including [[Cybersecurity Foundations]] Computer Forensics, [[Operating System Forensics]], and Web Forensics.
+> **[0:24](https://www.linkedin.com/learning/network-forensics-23931106/next-steps?u=76281980&t=24)** I also recommend that you take my other forensics courses, including [[[[Cybersecurity]] Foundations]] [[Computer Forensics]], [[Operating System Forensics]], and Web Forensics.
 >
 > **[0:38](https://www.linkedin.com/learning/network-forensics-23931106/next-steps?u=76281980&t=38)** Thank you again and see you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Network Security]] (3), [[Network Forensics]] (1), data (1), [[Cybersecurity]] (1), [[Computer Forensics]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (3), [[Network Forensics]] (1), [[Cybersecurity]] (1), [[Computer Forensics]] (1)
 > **Speakers:** - thanks (1)
 
 

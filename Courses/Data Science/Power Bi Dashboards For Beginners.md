@@ -75,16 +75,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Unlock the value of Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/unlock-the-value-of-power-bi?u=76281980)
+#### [Unlock the value of Power BI](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/unlock-the-value-of-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/unlock-the-value-of-power-bi?u=76281980&t=0)** - [Joshua] Power BI's continued growth as an analytics capability is truly remarkable.
+> **[0:00](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/unlock-the-value-of-power-bi?u=76281980&t=0)** - [Joshua] [[Microsoft Power BI|Power BI]]'s continued growth as an analytics capability is truly remarkable.
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/unlock-the-value-of-power-bi?u=76281980&t=6)** It feels like almost every day that new features are being released, making it increasingly easy, even for beginners, to take data and turn it into a powerful story.
 >
-> **[0:17](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/unlock-the-value-of-power-bi?u=76281980&t=17)** In this course, I'll show you how to get your hands dirty with dashboards.
+> **[0:17](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/unlock-the-value-of-power-bi?u=76281980&t=17)** In this course, I'll show you how to get your hands dirty with [[Dashboards]].
 >
 > **[0:21](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/unlock-the-value-of-power-bi?u=76281980&t=21)** We'll quickly connect our Power BI model with some high quality data, then work through how to generate some incredibly powerful insights using just a few keystrokes.
 >
@@ -94,7 +93,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), bi (3), data (3), [[Dashboards]] (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Dashboards]] (2)
 > **Speakers:** - [joshua] (1)
 
 
@@ -102,14 +101,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Navigate the Power BI Desktop interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/navigate-the-power-bi-desktop-interface?u=76281980)
+#### [Navigate the Power BI Desktop interface](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/navigate-the-power-bi-desktop-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/navigate-the-power-bi-desktop-interface?u=76281980&t=0)** - [Instructor] Let me guess.
 >
-> **[0:01](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/navigate-the-power-bi-desktop-interface?u=76281980&t=1)** You're watching this course because you have an interest in dashboards, have heard about Power BI, but don't even know where or how to get started.
+> **[0:01](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/navigate-the-power-bi-desktop-interface?u=76281980&t=1)** You're watching this course because you have an interest in [[Dashboards]], have heard about [[Microsoft Power BI|Power BI]], but don't even know where or how to get started.
 >
 > **[0:11](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/navigate-the-power-bi-desktop-interface?u=76281980&t=11)** Well, keep watching and I'll guide you through the basics.
 >
@@ -119,7 +117,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/navigate-the-power-bi-desktop-interface?u=76281980&t=23)** That is the desktop application.
 >
-> **[0:26](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/navigate-the-power-bi-desktop-interface?u=76281980&t=26)** If you are unsure on how to find it, then simply head over to powerbi.[microsoft.com](https://microsoft.com) and select Power BI Desktop from the products dropdown list.
+> **[0:26](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/navigate-the-power-bi-desktop-interface?u=76281980&t=26)** If you are unsure on how to find it, then simply head over to powerbi.[[[Microsoft]].com](https://microsoft.com) and select Power BI Desktop from the [[Microsoft Products|products]] dropdown list.
 >
 > **[0:39](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/navigate-the-power-bi-desktop-interface?u=76281980&t=39)** Now, if you want to follow along with me, then pause this movie and make sure that you have the desktop app installed on your computer before continuing.
 >
@@ -155,7 +153,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/navigate-the-power-bi-desktop-interface?u=76281980&t=131)** So I want you to be aware of this feature, but note that we won't be utilizing it for this course.
 >
-> **[2:18](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/navigate-the-power-bi-desktop-interface?u=76281980&t=138)** The same with the fourth one here, which is the DAX Query View.
+> **[2:18](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/navigate-the-power-bi-desktop-interface?u=76281980&t=138)** The same with the fourth one here, which is the [[DAX]] Query View.
 >
 > **[2:22](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/navigate-the-power-bi-desktop-interface?u=76281980&t=142)** You may not actually see this icon here, and don't be too hung up on it because we're not going to use it in this course.
 >
@@ -165,7 +163,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (9), bi (9), data (3), [[Dashboards]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (9), [[Dashboards]] (1), [[Microsoft]] (1), [[Microsoft Products|Products]] (1), [[DAX]] (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** dropdown (1), click on (1)
 > **Warnings:** be aware (1), note that (1)
@@ -174,12 +172,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Distinguish between dashboards and reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/distinguish-between-dashboards-and-reports?u=76281980)
+#### [Distinguish between dashboards and reports](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/distinguish-between-dashboards-and-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/distinguish-between-dashboards-and-reports?u=76281980&t=0)** - [Instructor] It would be remiss of me to prepare a course on dashboards without explaining what they are, or more importantly, the benefits that they can deliver.
+> **[0:00](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/distinguish-between-dashboards-and-reports?u=76281980&t=0)** - [Instructor] It would be remiss of me to prepare a course on [[Dashboards]] without explaining what they are, or more importantly, the benefits that they can deliver.
 >
 > **[0:11](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/distinguish-between-dashboards-and-reports?u=76281980&t=11)** So what are dashboards?
 >
@@ -189,7 +186,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/distinguish-between-dashboards-and-reports?u=76281980&t=34)** In the analytics world, whilst the term dashboard is often used to describe any kind of visualization summary.
 >
-> **[0:43](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/distinguish-between-dashboards-and-reports?u=76281980&t=43)** In Power BI speak, there's actually an important distinction that needs to be made between dashboards and reports.
+> **[0:43](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/distinguish-between-dashboards-and-reports?u=76281980&t=43)** In [[Microsoft Power BI|Power BI]] speak, there's actually an important distinction that needs to be made between dashboards and reports.
 >
 > **[0:51](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/distinguish-between-dashboards-and-reports?u=76281980&t=51)** In Power BI, reports are detailed, often multi-aged interfaces that are used for creating visuals, applying filters, and exporting data for deeper analysis.
 >
@@ -215,17 +212,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (6), power (6), bi (6), data (3), business (1)
+> **Frameworks & Libraries:** [[Dashboards]] (6), [[Microsoft Power BI|Power bi]] (6)
 > **CLI Commands:** make (2)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - [instructor] (1)
 
-#### Plan for success with dashboard building blocks
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/plan-for-success-with-dashboard-building-blocks?u=76281980)
+#### [Plan for success with dashboard building blocks](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/plan-for-success-with-dashboard-building-blocks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/plan-for-success-with-dashboard-building-blocks?u=76281980&t=0)** - [Narrator] Once you're familiar with the layout of Power BI and the benefits of interactive dashboards, it can be rather tempting to go ahead and import data, then prepare some fancy visualizations.
+> **[0:00](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/plan-for-success-with-dashboard-building-blocks?u=76281980&t=0)** - [Narrator] Once you're familiar with the layout of [[Microsoft Power BI|Power BI]] and the benefits of interactive [[Dashboards]], it can be rather tempting to go ahead and import data, then prepare some fancy visualizations.
 >
 > **[0:13](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/plan-for-success-with-dashboard-building-blocks?u=76281980&t=13)** But hold up a moment, this is a little bit risky as if we don't lay some basic yet important foundations first, we may end up with some rather poor results.
 >
@@ -253,25 +249,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), power (2), bi (2), [[Dashboards]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Dashboards]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Embrace the modern workplace with next generation AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/embrace-the-modern-workplace-with-next-generation-ai?u=76281980)
+#### [Embrace the modern workplace with next generation AI](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/embrace-the-modern-workplace-with-next-generation-ai?u=76281980)
 
 
 ### 2. Getting Data into Power BI
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Become familiar with the Power BI data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/become-familiar-with-the-power-bi-data-types?u=76281980)
+#### [Become familiar with the Power BI data types](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/become-familiar-with-the-power-bi-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/become-familiar-with-the-power-bi-data-types?u=76281980&t=0)** - [Narrator] It kind of goes without saying that to make us start on this Power BI journey, we need data.
+> **[0:00](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/become-familiar-with-the-power-bi-data-types?u=76281980&t=0)** - [Narrator] It kind of goes without saying that to make us start on this [[Microsoft Power BI|Power BI]] journey, we need data.
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/become-familiar-with-the-power-bi-data-types?u=76281980&t=7)** But not just any data. We need the right kind of data.
 >
@@ -289,7 +283,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/become-familiar-with-the-power-bi-data-types?u=76281980&t=50)** And you'll see that we've got quite a few options that we can choose from.
 >
-> **[0:55](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/become-familiar-with-the-power-bi-data-types?u=76281980&t=55)** We have Excel data sources, SQL, text files, and a whole bunch of other selections that we can make.
+> **[0:55](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/become-familiar-with-the-power-bi-data-types?u=76281980&t=55)** We have [[Microsoft Excel|Excel]] data sources, [[SQL]], text files, and a whole bunch of other selections that we can make.
 >
 > **[1:04](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/become-familiar-with-the-power-bi-data-types?u=76281980&t=64)** But have a look at what happens if we go ahead and click on More.
 >
@@ -303,7 +297,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), power (6), bi (6), [[Microsoft Excel|Excel]] (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (6), [[Microsoft Excel|Excel]] (3), [[SQL]] (1)
 > **UI Navigation:** click on (2), select the (1), dropdown (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** sql (1)
@@ -311,18 +305,17 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Get started by connecting with rich source data
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/get-started-by-connecting-with-rich-source-data?u=76281980)
+#### [Get started by connecting with rich source data](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/get-started-by-connecting-with-rich-source-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/get-started-by-connecting-with-rich-source-data?u=76281980&t=0)** - [Narrator] Let's get some data into Power BI Desktop, and I strongly suggest that you follow along with me to get the most from your journey.
+> **[0:00](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/get-started-by-connecting-with-rich-source-data?u=76281980&t=0)** - [Narrator] Let's get some data into [[Microsoft Power BI|Power BI]] Desktop, and I strongly suggest that you follow along with me to get the most from your journey.
 >
-> **[0:08](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/get-started-by-connecting-with-rich-source-data?u=76281980&t=8)** If you're not at this screen here, then from the home menu, click on Get Data, and then select Excel.
+> **[0:08](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/get-started-by-connecting-with-rich-source-data?u=76281980&t=8)** If you're not at this screen here, then from the home menu, click on Get Data, and then select [[Microsoft Excel|Excel]].
 >
 > **[0:16](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/get-started-by-connecting-with-rich-source-data?u=76281980&t=16)** It's now time to connect with data.
 >
-> **[0:19](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/get-started-by-connecting-with-rich-source-data?u=76281980&t=19)** The file that you're looking for is called E-Commerce Online Sales, and you'll find that in your exercise file pack.
+> **[0:19](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/get-started-by-connecting-with-rich-source-data?u=76281980&t=19)** The file that you're looking for is called [[E-Commerce]] Online Sales, and you'll find that in your exercise file pack.
 >
 > **[0:28](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/get-started-by-connecting-with-rich-source-data?u=76281980&t=28)** Once selected, click on Open.
 >
@@ -352,7 +345,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), power (3), bi (3), [[Microsoft Excel|Excel]] (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Microsoft Excel|Excel]] (1), [[E-Commerce]] (1)
 > **UI Navigation:** click on (4), scroll down (1), dropdown (1)
 > **Definitions:** is called (1), known as (1), is a  (1)
 > **CLI Commands:** find (1), make (1)
@@ -360,18 +353,17 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Create safeguards by assuring data quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/create-safeguards-by-assuring-data-quality?u=76281980)
+#### [Create safeguards by assuring data quality](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/create-safeguards-by-assuring-data-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/create-safeguards-by-assuring-data-quality?u=76281980&t=0)** - [Narrator] When it comes to creating dashboards, there's nothing worse than getting to the end of your project only to realize that the data just doesn't look right.
+> **[0:00](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/create-safeguards-by-assuring-data-quality?u=76281980&t=0)** - [Narrator] When it comes to creating [[Dashboards]], there's nothing worse than getting to the end of your project only to realize that the data just doesn't look right.
 >
-> **[0:09](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/create-safeguards-by-assuring-data-quality?u=76281980&t=9)** So if data quality is going to be an issue, isn't it better that we apply some basic checks early on in the piece?
+> **[0:09](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/create-safeguards-by-assuring-data-quality?u=76281980&t=9)** So if [[Data Quality]] is going to be an issue, isn't it better that we apply some basic checks early on in the piece?
 >
-> **[0:18](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/create-safeguards-by-assuring-data-quality?u=76281980&t=18)** What you're looking at here is a Power BI model that already has a data connection, and we can check this by clicking on the table view icon on the left-hand side of the screen.
+> **[0:18](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/create-safeguards-by-assuring-data-quality?u=76281980&t=18)** What you're looking at here is a [[Microsoft Power BI|Power BI]] model that already has a data connection, and we can check this by clicking on the table view icon on the left-hand side of the screen.
 >
-> **[0:30](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/create-safeguards-by-assuring-data-quality?u=76281980&t=30)** Now when it comes to data integrity, it isn't possible to check for everything at this stage, but it can certainly help with identifying some obvious things, firstly, structure.
+> **[0:30](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/create-safeguards-by-assuring-data-quality?u=76281980&t=30)** Now when it comes to [[Data Integrity]], it isn't possible to check for everything at this stage, but it can certainly help with identifying some obvious things, firstly, structure.
 >
 > **[0:42](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/create-safeguards-by-assuring-data-quality?u=76281980&t=42)** Reliable data is neatly organized into rows and columns, such as this one here.
 >
@@ -395,7 +387,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/create-safeguards-by-assuring-data-quality?u=76281980&t=118)** Now I've purposely chosen a reliable data set for this course, but it can certainly help to know what poor quality data looks like, too.
 >
-> **[2:08](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/create-safeguards-by-assuring-data-quality?u=76281980&t=128)** What you're looking at is an extract from the same e-commerce sales data that we were just looking at before.
+> **[2:08](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/create-safeguards-by-assuring-data-quality?u=76281980&t=128)** What you're looking at is an extract from the same [[E-Commerce]] sales data that we were just looking at before.
 >
 > **[2:15](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/create-safeguards-by-assuring-data-quality?u=76281980&t=135)** Only on this occasion it's a bit of a mess.
 >
@@ -413,7 +405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), next (3), [[Dashboards]] (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[Data Quality]] (1), [[Microsoft Power BI|Power bi]] (1), [[Data Integrity]] (1), [[E-Commerce]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** coming up (1)
@@ -421,14 +413,13 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Incorporate source data from a brief
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/challenge-incorporate-source-data-from-a-brief?u=76281980)
+#### [Challenge: Incorporate source data from a brief](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/challenge-incorporate-source-data-from-a-brief?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/challenge-incorporate-source-data-from-a-brief?u=76281980&t=0)** - [Instructor] Okay, ready to take on the data source challenge?
 >
-> **[0:09](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/challenge-incorporate-source-data-from-a-brief?u=76281980&t=9)** Let's put your Power BI skills to the test.
+> **[0:09](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/challenge-incorporate-source-data-from-a-brief?u=76281980&t=9)** Let's put your [[Microsoft Power BI|Power BI]] skills to the test.
 >
 > **[0:12](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/challenge-incorporate-source-data-from-a-brief?u=76281980&t=12)** Imagine a manager from a local coffee shop has asked you to run a preliminary check of their transaction data, looking for gaps and any anomalies.
 >
@@ -442,7 +433,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), power (2), bi (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** csv (1)
 > **Exercise Files:** exercise file (1)
@@ -451,8 +442,7 @@ created: 2026-05-02
 > **Warnings:** heads up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Incorporate source data from a brief
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/solution-incorporate-source-data-from-a-brief?u=76281980)
+#### [Solution: Incorporate source data from a brief](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/solution-incorporate-source-data-from-a-brief?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -462,7 +452,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/solution-incorporate-source-data-from-a-brief?u=76281980&t=8)** Let me walk you through how I tackled it.
 >
-> **[0:11](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/solution-incorporate-source-data-from-a-brief?u=76281980&t=11)** Firstly, I opened up a new instance that is a blank report in Power BI Desktop.
+> **[0:11](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/solution-incorporate-source-data-from-a-brief?u=76281980&t=11)** Firstly, I opened up a new instance that is a blank report in [[Microsoft Power BI|Power BI]] Desktop.
 >
 > **[0:18](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/solution-incorporate-source-data-from-a-brief?u=76281980&t=18)** This was just to avoid any confusion with the data that we've already been working with.
 >
@@ -502,7 +492,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (2), power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 > **UI Navigation:** dropdown (1), select the (1)
 > **Env Vars:** csv (1)
 > **Exercise Files:** exercise file (1)
@@ -515,8 +505,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prepare the optimal layout for stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/prepare-the-optimal-layout-for-stakeholders?u=76281980)
+#### [Prepare the optimal layout for stakeholders](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/prepare-the-optimal-layout-for-stakeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -548,19 +537,18 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/prepare-the-optimal-layout-for-stakeholders?u=76281980&t=77)** Simply double click over Page 1, type in Summary Report, and hit Enter on the keyboard.
 >
-> **[1:27](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/prepare-the-optimal-layout-for-stakeholders?u=76281980&t=87)** Now, we can always come back and change this later on and enhance it even further, but this should give you an idea of some of the practical tools that we can apply to prepare our Power BI layout for stakeholders.
+> **[1:27](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/prepare-the-optimal-layout-for-stakeholders?u=76281980&t=87)** Now, we can always come back and change this later on and enhance it even further, but this should give you an idea of some of the practical tools that we can apply to prepare our [[Microsoft Power BI|Power BI]] layout for stakeholders.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Illustrate results by building intuitive charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/illustrate-results-by-building-intuitive-charts?u=76281980)
+#### [Illustrate results by building intuitive charts](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/illustrate-results-by-building-intuitive-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -584,7 +572,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/illustrate-results-by-building-intuitive-charts?u=76281980&t=51)** From the fields on the right-hand side, just need to make sure that we open them up, let's drag the OrderDate and drop it over the X-axis here.
 >
-> **[1:05](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/illustrate-results-by-building-intuitive-charts?u=76281980&t=65)** Power BI will probably apply a default date hierarchy here.
+> **[1:05](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/illustrate-results-by-building-intuitive-charts?u=76281980&t=65)** [[Microsoft Power BI|Power BI]] will probably apply a default date hierarchy here.
 >
 > **[1:10](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/illustrate-results-by-building-intuitive-charts?u=76281980&t=70)** And if that's the case, let's change the selection to OrderDate by clicking on the dropdown arrow here, and then select OrderDate.
 >
@@ -628,7 +616,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), power (2), bi (2), next (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** ebooks (1)
 > **UI Navigation:** dropdown (1)
@@ -636,16 +624,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Do even more by configuring charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/do-even-more-by-configuring-charts?u=76281980)
+#### [Do even more by configuring charts](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/do-even-more-by-configuring-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/do-even-more-by-configuring-charts?u=76281980&t=0)** - [Instructor] Configuring a Power BI chart is quite straightforward, but it certainly helps to know where to look.
+> **[0:00](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/do-even-more-by-configuring-charts?u=76281980&t=0)** - [Instructor] Configuring a [[Microsoft Power BI|Power BI]] chart is quite straightforward, but it certainly helps to know where to look.
 >
 > **[0:07](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/do-even-more-by-configuring-charts?u=76281980&t=7)** To follow along, have the exercise file open for this movie.
 >
-> **[0:11](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/do-even-more-by-configuring-charts?u=76281980&t=11)** What you're looking at is the backbone of a Power BI dashboard for an e-commerce business.
+> **[0:11](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/do-even-more-by-configuring-charts?u=76281980&t=11)** What you're looking at is the backbone of a Power BI dashboard for an [[E-Commerce]] business.
 >
 > **[0:17](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/do-even-more-by-configuring-charts?u=76281980&t=17)** Now, I don't know about you, but I'm not a massive fan of the default color scheme here.
 >
@@ -685,14 +672,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), bi (3), next (2), [[E-Commerce]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[E-Commerce]] (1)
 > **UI Navigation:** click on (2), dropdown (2), scroll down (2), select the (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Drill down on results using slicers
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/drill-down-on-results-using-slicers?u=76281980)
+#### [Drill down on results using slicers](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/drill-down-on-results-using-slicers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -732,18 +718,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** click on (2), dropdown (2)
 > **CLI Commands:** find (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a shareable dashboard for collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/collaborate-by-creating-a-shareable-dashboard-29737471?u=76281980)
+#### [Create a shareable dashboard for collaboration](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/collaborate-by-creating-a-shareable-dashboard-29737471?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/collaborate-by-creating-a-shareable-dashboard-29737471?u=76281980&t=0)** - [Instructor] As you may recall, Power BI Desktop is the best place to start by creating data-rich reports containing engaging visuals and filters.
+> **[0:00](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/collaborate-by-creating-a-shareable-dashboard-29737471?u=76281980&t=0)** - [Instructor] As you may recall, [[Microsoft Power BI|Power BI]] Desktop is the best place to start by creating data-rich reports containing engaging visuals and filters.
 >
 > **[0:10](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/collaborate-by-creating-a-shareable-dashboard-29737471?u=76281980&t=10)** You've now achieved this.
 >
@@ -751,7 +735,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/collaborate-by-creating-a-shareable-dashboard-29737471?u=76281980&t=19)** So if you'd like to follow along with me, just make sure that you can access the Power BI Web Service using your browser.
 >
-> **[0:28](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/collaborate-by-creating-a-shareable-dashboard-29737471?u=76281980&t=28)** Head on over to powerbi.[microsoft.com](https://microsoft.com) and log in using your Microsoft 365 credentials.
+> **[0:28](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/collaborate-by-creating-a-shareable-dashboard-29737471?u=76281980&t=28)** Head on over to powerbi.[[[Microsoft]].com](https://microsoft.com) and log in using your [[Microsoft 365]] credentials.
 >
 > **[0:36](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/collaborate-by-creating-a-shareable-dashboard-29737471?u=76281980&t=36)** You'll just need to make sure that you have a current Power BI license in order to do this.
 >
@@ -787,7 +771,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (8), bi (8), data (2), next (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (8), [[Microsoft]] (1), [[Microsoft 365]] (1)
 > **UI Navigation:** click on (3), open the (1), go to (1)
 > **CLI Commands:** make (3)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
@@ -796,12 +780,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Prerequisites:** you'll need (1)
 
-#### Wow stakeholders by enhancing your dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/wow-stakeholders-by-enhancing-your-dashboard?u=76281980)
+#### [Wow stakeholders by enhancing your dashboard](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/wow-stakeholders-by-enhancing-your-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/wow-stakeholders-by-enhancing-your-dashboard?u=76281980&t=0)** - [Instructor] Many of you will be wondering if it's possible to make changes to Power BI reports once they've been imported into the Power BI service and then pinned to a dashboard.
+> **[0:00](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/wow-stakeholders-by-enhancing-your-dashboard?u=76281980&t=0)** - [Instructor] Many of you will be wondering if it's possible to make changes to [[Microsoft Power BI|Power BI]] reports once they've been imported into the Power BI service and then pinned to a dashboard.
 >
 > **[0:10](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/wow-stakeholders-by-enhancing-your-dashboard?u=76281980&t=10)** Well, guess what? It is certainly possible.
 >
@@ -867,7 +850,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), bi (5), data (2), [[Analytics]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5)
 > **UI Navigation:** click on (5), dropdown (2), go to (1), select the (1)
 > **CLI Commands:** make (4), find (2)
 > **Cross-References:** go back to (1)
@@ -875,8 +858,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Build a dashboard from an existing report
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/challenge-build-a-dashboard-from-an-existing-report?u=76281980)
+#### [Challenge: Build a dashboard from an existing report](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/challenge-build-a-dashboard-from-an-existing-report?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -886,7 +868,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/challenge-build-a-dashboard-from-an-existing-report?u=76281980&t=6)** Ready to take on the dashboard builder challenge?
 >
-> **[0:10](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/challenge-build-a-dashboard-from-an-existing-report?u=76281980&t=10)** Let's say that you've created a Power BI desktop report for a local coffee shop you're helping out.
+> **[0:10](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/challenge-build-a-dashboard-from-an-existing-report?u=76281980&t=10)** Let's say that you've created a [[Microsoft Power BI|Power BI]] desktop report for a local coffee shop you're helping out.
 >
 > **[0:16](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/challenge-build-a-dashboard-from-an-existing-report?u=76281980&t=16)** As you probably know by now, the best way to share a Power BI story with stakeholders is via a dashboard.
 >
@@ -902,7 +884,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), bi (4), business (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (4)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
@@ -910,8 +892,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
 
-#### Solution: Build a dashboard from an existing report
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/solution-build-a-dashboard-from-an-existing-report?u=76281980)
+#### [Solution: Build a dashboard from an existing report](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/solution-build-a-dashboard-from-an-existing-report?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -919,7 +900,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/solution-build-a-dashboard-from-an-existing-report?u=76281980&t=8)** Let me show you how I got there.
 >
-> **[0:10](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/solution-build-a-dashboard-from-an-existing-report?u=76281980&t=10)** I firstly made sure that I was signed in to the Power BI service.
+> **[0:10](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/solution-build-a-dashboard-from-an-existing-report?u=76281980&t=10)** I firstly made sure that I was signed in to the [[Microsoft Power BI|Power BI]] service.
 >
 > **[0:15](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/solution-build-a-dashboard-from-an-existing-report?u=76281980&t=15)** I then went ahead and clicked on My Workspace on the left-hand side of the screen and then selected Import, the second option Report, and then selected From This Computer.
 >
@@ -957,7 +938,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), bi (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise file (1)
@@ -969,18 +950,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to get the most from Power BI dashboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/how-to-get-the-most-from-power-bi-dashboards?u=76281980)
+#### [How to get the most from Power BI dashboards](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/how-to-get-the-most-from-power-bi-dashboards?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/how-to-get-the-most-from-power-bi-dashboards?u=76281980&t=0)** - [Joshua Rischin] Thank you so much for taking the time to watch this course.
 >
-> **[0:04](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/how-to-get-the-most-from-power-bi-dashboards?u=76281980&t=4)** What you have just learned is only a brief introduction to how using Power BI can unlock the value of your data and tell an insightful story.
+> **[0:04](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/how-to-get-the-most-from-power-bi-dashboards?u=76281980&t=4)** What you have just learned is only a brief introduction to how using [[Microsoft Power BI|Power BI]] can unlock the value of your data and tell an insightful story.
 >
 > **[0:14](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/how-to-get-the-most-from-power-bi-dashboards?u=76281980&t=14)** New Power BI features are being released all the time, so I strongly suggest that you keep abreast of what's changing in this space.
 >
-> **[0:23](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/how-to-get-the-most-from-power-bi-dashboards?u=76281980&t=23)** Why not head over to powerbi.[microsoft.com](https://microsoft.com) to check out the latest news.
+> **[0:23](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/how-to-get-the-most-from-power-bi-dashboards?u=76281980&t=23)** Why not head over to powerbi.[[[Microsoft]].com](https://microsoft.com) to check out the latest news.
 >
 > **[0:29](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/how-to-get-the-most-from-power-bi-dashboards?u=76281980&t=29)** To galvanize your learnings from this course, I strongly suggest that you try creating your own Power BI dashboard from scratch using a fresh data source.
 >
@@ -992,7 +972,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/how-to-get-the-most-from-power-bi-dashboards?u=76281980&t=53)** Remember, you're not trying to tell your stakeholders everything, just the key insights, and if you're keen to deepen your knowledge, then why not check out my list of suggested courses provided in the downloadable handout?
 >
-> **[1:09](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/how-to-get-the-most-from-power-bi-dashboards?u=76281980&t=69)** Finally, I encourage you to connect with me on LinkedIn.
+> **[1:09](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/how-to-get-the-most-from-power-bi-dashboards?u=76281980&t=69)** Finally, I encourage you to connect with me on [[LinkedIn]].
 >
 > **[1:12](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/how-to-get-the-most-from-power-bi-dashboards?u=76281980&t=72)** I'd love to hear your feedback on this course.
 >
@@ -1000,7 +980,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), bi (3), data (3), [[Microsoft]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Speakers:** - [joshua (1)

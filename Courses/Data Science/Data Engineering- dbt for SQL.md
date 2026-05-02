@@ -96,12 +96,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/introduction?u=76281980&t=0)** - Are you tired of dealing with production outages after seemingly small SQL changes, or are you just looking for a better way to build and manage SQL code?
+> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/introduction?u=76281980&t=0)** - Are you tired of dealing with production outages after seemingly small [[SQL]] changes, or are you just looking for a better way to build and manage SQL code?
 >
 > **[0:10](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/introduction?u=76281980&t=10)** If so, this class is for you.
 >
@@ -109,28 +108,27 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/introduction?u=76281980&t=24)** You'll design and implement DBT models based on real world scenarios that I've personally encountered.
 >
-> **[0:31](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/introduction?u=76281980&t=31)** Hi, my name is Vinoo and I've spent a career building critical data pipelines for the healthcare, defense, and financial sector using tools in this course.
+> **[0:31](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/introduction?u=76281980&t=31)** Hi, my name is Vinoo and I've spent a career building critical [[Data Pipelines]] for the healthcare, defense, and financial sector using tools in this course.
 >
 > **[0:42](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/introduction?u=76281980&t=42)** If you want to advance your SQL skills and learn to leverage DBT in powerful ways, let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), dbt (3), open-source (1), career (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Data Pipelines]] (1)
 > **Env Vars:** sql (4), dbt (3)
 > **Speakers:** - are (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/what-you-should-know?u=76281980&t=0)** - [Instructor] The path to data engineering is as unique as those that make up the profession.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/what-you-should-know?u=76281980&t=0)** - [Instructor] The path to [[Data Engineering]] is as unique as those that make up the profession.
 >
 > **[0:05](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/what-you-should-know?u=76281980&t=5)** Data analysts, scientists, software engineers, and virtually every other profession have made inroads to the data engineering profession.
 >
 > **[0:13](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/what-you-should-know?u=76281980&t=13)** As such, for this advanced course, it's crucial that you, as a data engineer, have the following skills.
 >
-> **[0:20](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/what-you-should-know?u=76281980&t=20)** First, Experience with SQL.
+> **[0:20](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/what-you-should-know?u=76281980&t=20)** First, Experience with [[SQL]].
 >
 > **[0:23](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/what-you-should-know?u=76281980&t=23)** This course is intended to help you, as a data engineer, enhance your SQL skills.
 >
@@ -158,19 +156,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), data (3), [[Data Engineering]] (2)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Data Engineering]] (2)
 > **Env Vars:** sql (5), ide (1)
 > **Tools:** bash (1), vs code (1), terminal (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Codespaces introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/codespaces-introduction?u=76281980)
+#### [Codespaces introduction](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/codespaces-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/codespaces-introduction?u=76281980&t=0)** - [Instructor] This course uses the GitHub Codespaces feature to bring out hands-on and live coding experience to the material.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/codespaces-introduction?u=76281980&t=0)** - [Instructor] This course uses the [[GitHub]] [[Codespaces]] feature to bring out hands-on and live coding experience to the material.
 >
 > **[0:08](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/codespaces-introduction?u=76281980&t=8)** GitHub Codespaces allows you to author code and live deploy that code onto a running VM.
 >
@@ -186,7 +183,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/codespaces-introduction?u=76281980&t=49)** We'll talk a bit about branch naming conventions shortly.
 >
-> **[0:52](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/codespaces-introduction?u=76281980&t=52)** LinkedIn Learning's use of GitHub Codespaces relies on exercises that are broken down on a per branch basis with before and after states.
+> **[0:52](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/codespaces-introduction?u=76281980&t=52)** [[LinkedIn]] Learning's use of GitHub Codespaces relies on exercises that are broken down on a per branch basis with before and after states.
 >
 > **[1:01](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/codespaces-introduction?u=76281980&t=61)** In the accompanying GitHub repository, you will find a number of branches.
 >
@@ -226,7 +223,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (6), [[Codespaces]] (5), feature (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Codespaces]] (5), [[LinkedIn]] (1)
 > **Tools:** github (6)
 > **Prerequisites:** setup (2), configure (2)
 > **UI Navigation:** dropdown (2), select the (1)
@@ -240,18 +237,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SQL as a data engineer
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980)
+#### [SQL as a data engineer](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980&t=0)** - If you're a data engineer chances are you've been using SQL quite extensively.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980&t=0)** - If you're a data engineer chances are you've been using [[SQL]] quite extensively.
 >
 > **[0:06](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980&t=6)** Despite its age originating in the 1970s, SQL remains a critical tool in the data engineer's arsenal.
 >
-> **[0:13](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980&t=13)** In today's data-driven world, modern data engineers and analysts rely on SQL for a wide range of tasks from data transformation to analysis.
+> **[0:13](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980&t=13)** In today's data-driven world, modern data engineers and analysts rely on SQL for a wide range of tasks from [[Data Transformation]] to analysis.
 >
-> **[0:23](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980&t=23)** The resurgence of SQL can be attributed to the emergence of highly scalable platforms like Snowflake and Databricks.
+> **[0:23](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980&t=23)** The resurgence of SQL can be attributed to the emergence of highly scalable platforms like [[Snowflake]] and Databricks.
 >
 > **[0:31](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980&t=31)** These platforms have made SQL the go-to language for handling large scale data.
 >
@@ -259,19 +255,19 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980&t=41)** SQL has been a favorite for a few reasons.
 >
-> **[0:45](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980&t=45)** First, much of the data engineer's work involves running ETL, extract transform load, operations across various relational databases like Postgres and MySQL.
+> **[0:45](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980&t=45)** First, much of the data engineer's work involves running ETL, extract transform load, operations across various [[Relational Databases]] like [[PostgreSQL|Postgres]] and [[MySQL]].
 >
-> **[0:58](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980&t=58)** SQL is a language used to interact with these databases and most data engineers are already familiar with it when they start their roles.
+> **[0:58](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980&t=58)** SQL is a language used to interact with these [[Databases]] and most data engineers are already familiar with it when they start their roles.
 >
 > **[1:06](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980&t=66)** Second, SQL offers a unified processing data experience.
 >
 > **[1:11](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980&t=71)** Its versatility allows data engineers to perform ingestion, transformation, aggregation and analytics all within a single language.
 >
-> **[1:21](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980&t=81)** This simplifies the maintenance and development of data pipelines.
+> **[1:21](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980&t=81)** This simplifies the maintenance and development of [[Data Pipelines]].
 >
 > **[1:26](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980&t=86)** Third, SQL can be both scalable and efficient.
 >
-> **[1:30](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980&t=90)** It's a declarative language, meaning engineers only need to specify the desired data manipulation or retrieval leaving the query optimization engine to handle the complexities of execution.
+> **[1:30](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980&t=90)** It's a declarative language, meaning engineers only need to specify the desired [[Data Manipulation]] or retrieval leaving the query optimization engine to handle the complexities of execution.
 >
 > **[1:43](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980&t=103)** These query optimization engines have become fast and efficient, handling large data sets with ease.
 >
@@ -285,30 +281,29 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980&t=133)** However, many data engineers only scratch the surface of SQL's capabilities and may not use it to the full potential.
 >
-> **[2:21](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980&t=141)** This LinkedIn Learning course is designed to help modern data engineers like you advance your SQL skills by introducing various methods and techniques to harness its power effectively.
+> **[2:21](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980&t=141)** This [[LinkedIn]] Learning course is designed to help modern data engineers like you advance your SQL skills by introducing various methods and techniques to harness its power effectively.
 >
-> **[2:32](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980&t=152)** Get ready to up your SQL game and unleash the true potential of your data engineering endeavors.
+> **[2:32](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/sql-as-a-data-engineer?u=76281980&t=152)** Get ready to up your SQL game and unleash the true potential of your [[Data Engineering]] endeavors.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (15), data (14), [[Data Transformation]] (1), [[Snowflake]] (1), etl (1)
+> **Frameworks & Libraries:** [[SQL]] (15), [[Data Transformation]] (1), [[Snowflake]] (1), [[Relational Databases]] (1), [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** sql (15), etl (1)
 > **CLI Commands:** mysql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
 
-#### The modern data stack and SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/the-modern-data-stack-and-sql?u=76281980)
+#### [The modern data stack and SQL](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/the-modern-data-stack-and-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/the-modern-data-stack-and-sql?u=76281980&t=0)** - [Instructor] We'll start by exploring the modern data stack, a group of technologies that has revolutionized data processing and analytics in our current era.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/the-modern-data-stack-and-sql?u=76281980&t=0)** - [Instructor] We'll start by exploring the modern data stack, a group of technologies that has revolutionized [[Data Processing]] and analytics in our current era.
 >
 > **[0:09](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/the-modern-data-stack-and-sql?u=76281980&t=9)** The modern data stack emerged in response to the ever-increasing volume and complexity of data, as well as the growing demand for faster insights and self-service analytics.
 >
 > **[0:20](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/the-modern-data-stack-and-sql?u=76281980&t=20)** Traditional data architectures relying on on-premise data warehouses and ETL tools could no longer keep up with the needs of the modern enterprise.
 >
-> **[0:30](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/the-modern-data-stack-and-sql?u=76281980&t=30)** To address these challenges, companies sought a more flexible, scalable, and cost-effective solution, capable of handling large data volumes and providing real-time insights.
+> **[0:30](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/the-modern-data-stack-and-sql?u=76281980&t=30)** To address these challenges, companies sought a more flexible, scalable, and cost-effective solution, capable of handling large data volumes and providing [[Real-Time]] insights.
 >
 > **[0:43](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/the-modern-data-stack-and-sql?u=76281980&t=43)** Enter the modern data stack, equipped with cloud-based tools and platforms designed to meet these modern needs.
 >
@@ -316,17 +311,17 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/the-modern-data-stack-and-sql?u=76281980&t=53)** It's a term used to describe a comprehensive set of tools and technologies that have emerged in recent years to help companies collect, store, and analyze data effectively.
 >
-> **[1:06](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/the-modern-data-stack-and-sql?u=76281980&t=66)** The core components of the modern data stack typically include a data warehouse, which is a centralized repository for storing and organizing data, facilitating efficient querying and analysis, an ETL tool, which enables the movement and transformation of data from various sources into the data warehouse, a data lake, which is a storage system that allows storing large volumes of raw and unstructured data, and a BI platform, or business intelligence platform, that empowers users to visualize and analyze data, gaining valuable insights for decision-making.
+> **[1:06](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/the-modern-data-stack-and-sql?u=76281980&t=66)** The core components of the modern data stack typically include a data warehouse, which is a centralized repository for storing and organizing data, facilitating efficient querying and analysis, an ETL tool, which enables the movement and transformation of data from various sources into the data warehouse, a data lake, which is a storage system that allows storing large volumes of raw and [[Unstructured Data]], and a BI platform, or [[Business Intelligence (BI)|business intelligence]] platform, that empowers users to visualize and analyze data, gaining valuable insights for [[Decision-Making]].
 >
-> **[1:45](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/the-modern-data-stack-and-sql?u=76281980&t=105)** However, the modern data stack continues to evolve and now includes an array of additional tools and technologies, such as data quality and observability tools, cost management platforms, orchestration platforms, data catalogs, and more.
+> **[1:45](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/the-modern-data-stack-and-sql?u=76281980&t=105)** However, the modern data stack continues to evolve and now includes an array of additional tools and technologies, such as [[Data Quality]] and observability tools, [[Cost Management]] platforms, orchestration platforms, data catalogs, and more.
 >
-> **[2:02](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/the-modern-data-stack-and-sql?u=76281980&t=122)** SQL plays a crucial role in the modern data stack, serving as the language for manipulating and analyzing data within the warehouse.
+> **[2:02](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/the-modern-data-stack-and-sql?u=76281980&t=122)** [[SQL]] plays a crucial role in the modern data stack, serving as the language for manipulating and analyzing data within the warehouse.
 >
-> **[2:11](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/the-modern-data-stack-and-sql?u=76281980&t=131)** Popular tools like Snowflake, Airflow, Fivetran, dbt, and Looker often integrate SQL seamlessly into their functionalities.
+> **[2:11](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/the-modern-data-stack-and-sql?u=76281980&t=131)** Popular tools like [[Snowflake]], Airflow, Fivetran, dbt, and Looker often integrate SQL seamlessly into their functionalities.
 >
-> **[2:22](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/the-modern-data-stack-and-sql?u=76281980&t=142)** The modern data stack offers several advantages, making it the go-to choice for modern data engineering.
+> **[2:22](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/the-modern-data-stack-and-sql?u=76281980&t=142)** The modern data stack offers several advantages, making it the go-to choice for modern [[Data Engineering]].
 >
-> **[2:30](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/the-modern-data-stack-and-sql?u=76281980&t=150)** First, flexibility and scalability.
+> **[2:30](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/the-modern-data-stack-and-sql?u=76281980&t=150)** First, flexibility and [[Scalability]].
 >
 > **[2:32](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/the-modern-data-stack-and-sql?u=76281980&t=152)** It outshines traditional data architectures with its ability to adapt to changing requirements and handle massive data volumes efficiently.
 >
@@ -354,21 +349,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), [[SQL]] (5), cloud (4), [[Analytics]] (2), etl (2)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Data Processing]] (2), [[Data Engineering]] (2), [[Real-Time]] (1), [[Unstructured Data]] (1)
 > **Env Vars:** sql (5), etl (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Schema design
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/schema-design?u=76281980)
+#### [Schema design](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/schema-design?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/schema-design?u=76281980&t=0)** - [Instructor] To enhance your SQL skills, it is crucial to grasp the fundamental principles of relational database design.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/schema-design?u=76281980&t=0)** - [Instructor] To enhance your [[SQL]] skills, it is crucial to grasp the fundamental principles of relational [[Database Design]].
 >
-> **[0:07](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/schema-design?u=76281980&t=7)** In this video, we'll cover two essential concepts, normal forms and functional dependencies.
+> **[0:07](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/schema-design?u=76281980&t=7)** In this video, we'll cover two essential concepts, normal [[Forms]] and functional dependencies.
 >
 > **[0:14](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/schema-design?u=76281980&t=14)** Let's say you have some example data to illustrate these concepts.
 >
@@ -408,17 +402,16 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/schema-design?u=76281980&t=182)** This organization enhances the efficiency and reliability of your database.
 >
-> **[3:08](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/schema-design?u=76281980&t=188)** As an advanced SQL practitioner, mastering normal forms enables you to design an optimal database schema, setting the foundation for robust data management.
+> **[3:08](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/schema-design?u=76281980&t=188)** As an advanced SQL practitioner, mastering normal forms enables you to design an optimal database schema, setting the foundation for robust [[Data Management]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Forms]] (5), functional (5), database (4), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Forms]] (5), [[SQL]] (2), [[Database Design]] (1), [[Data Management]] (1)
 > **Analogies:** imagine (1), for example (1), for instance (1)
 > **Env Vars:** sql (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Schema design
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-schema-design?u=76281980)
+#### [Challenge: Schema design](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-schema-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -426,7 +419,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-schema-design?u=76281980&t=5)** - [Narrator] Let's put some of these skills to the test.
 >
-> **[0:08](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-schema-design?u=76281980&t=8)** In this challenge, you're going to take on the role of a company that sells products online.
+> **[0:08](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-schema-design?u=76281980&t=8)** In this challenge, you're going to take on the role of a company that sells [[Microsoft Products|products]] online.
 >
 > **[0:13](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-schema-design?u=76281980&t=13)** The company wants to create a database to track its internal sales information and they have hired you for the job.
 >
@@ -464,7 +457,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-schema-design?u=76281980&t=106)** Can you design an appropriate schema for this store?
 >
-> **[1:49](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-schema-design?u=76281980&t=109)** Please ensure that your schema design is compliant with each of the normal forms specified previously.
+> **[1:49](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-schema-design?u=76281980&t=109)** Please ensure that your schema design is compliant with each of the normal [[Forms]] specified previously.
 >
 > **[1:56](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-schema-design?u=76281980&t=116)** There are multiple different correct answers, so don't fret about trying to find the exact perfect schema.
 >
@@ -472,7 +465,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), database (1), product (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Forms]] (1)
 > **Definitions:** means that (2), is a  (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -480,8 +473,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (bouncy upbeat music) (1)
 
-#### Solution: Schema design
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-schema-design?u=76281980)
+#### [Solution: Schema design](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-schema-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -493,7 +485,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-schema-design?u=76281980&t=14)** Let's start designing.
 >
-> **[0:17](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-schema-design?u=76281980&t=17)** We know that the company has a catalog of products and that multiple products may have the same name, the same price, and the same inventory count.
+> **[0:17](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-schema-design?u=76281980&t=17)** We know that the company has a catalog of [[Microsoft Products|products]] and that multiple products may have the same name, the same price, and the same inventory count.
 >
 > **[0:26](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-schema-design?u=76281980&t=26)** So let's first design our product table with these specifications in mind.
 >
@@ -505,7 +497,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-schema-design?u=76281980&t=49)** Let's create a table to represent that.
 >
-> **[0:53](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-schema-design?u=76281980&t=53)** We now have a basic version of our schema but we haven't vetted it with any of the normal forms yet.
+> **[0:53](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-schema-design?u=76281980&t=53)** We now have a basic version of our schema but we haven't vetted it with any of the normal [[Forms]] yet.
 >
 > **[0:58](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-schema-design?u=76281980&t=58)** Let's do that now.
 >
@@ -559,7 +551,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), product (3), [[Forms]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Forms]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -570,12 +562,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Supply chain outage: SQL spaghetti
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/supply-chain-outage-sql-spaghetti?u=76281980)
+#### [Supply chain outage: SQL spaghetti](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/supply-chain-outage-sql-spaghetti?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/supply-chain-outage-sql-spaghetti?u=76281980&t=0)** - SQL, while immensely powerful, can often become unwieldy and challenging to manage, especially as companies deal with massive amounts of data and hard-coded table and column names.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/supply-chain-outage-sql-spaghetti?u=76281980&t=0)** - [[SQL]], while immensely powerful, can often become unwieldy and challenging to manage, especially as companies deal with massive amounts of data and hard-coded table and column names.
 >
 > **[0:14](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/supply-chain-outage-sql-spaghetti?u=76281980&t=14)** Let me share a true story from my early consulting days to illustrate this point.
 >
@@ -623,44 +614,43 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/supply-chain-outage-sql-spaghetti?u=76281980&t=162)** In this chapter, we'll dive into a powerful solution to manage SQL more effectively and prevent such headaches in the future.
 >
-> **[2:50](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/supply-chain-outage-sql-spaghetti?u=76281980&t=170)** We'll explore ways to improve SQL organization and structure, ensuring robustness, maintainability, and scalability.
+> **[2:50](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/supply-chain-outage-sql-spaghetti?u=76281980&t=170)** We'll explore ways to improve SQL organization and structure, ensuring robustness, maintainability, and [[Scalability]].
 >
-> **[2:59](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/supply-chain-outage-sql-spaghetti?u=76281980&t=179)** By mastering these techniques, you'll become a SQL champion and steer your data engineering efforts towards smoother waters.
+> **[2:59](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/supply-chain-outage-sql-spaghetti?u=76281980&t=179)** By mastering these techniques, you'll become a SQL champion and steer your [[Data Engineering]] efforts towards smoother waters.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), data (5), [[Engineering]] (4), teams (1), leadership (1)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Scalability]] (1), [[Data Engineering]] (1)
 > **Env Vars:** sql (8), ceo (1), cto (1)
 > **Analogies:** imagine (2)
 > **File Paths:** mammoth.sql (1)
 > **Speakers:** - sql (1)
 
-#### Data build tool (dbt)
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/data-build-tool-dbt?u=76281980)
+#### [Data build tool (dbt)](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/data-build-tool-dbt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/data-build-tool-dbt?u=76281980&t=0)** - [Instructor] In the world of software engineering, principles like testing, version control, and dependency visualization have significantly improved stability and overall quality of life.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/data-build-tool-dbt?u=76281980&t=0)** - [Instructor] In the world of software engineering, principles like testing, [[Version Control]], and dependency visualization have significantly improved stability and overall quality of life.
 >
 > **[0:12](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/data-build-tool-dbt?u=76281980&t=12)** However, these beneficial features haven't always existed and been readily available to data engineers.
 >
 > **[0:19](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/data-build-tool-dbt?u=76281980&t=19)** In the past, such capabilities were often limited to large-scale enterprise platforms, making it challenging for smaller teams or firms to implement them effectively.
 >
-> **[0:30](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/data-build-tool-dbt?u=76281980&t=30)** Then, everything changed a few years ago with the introduction of dbt, or data build tool, by a small company called Fishtown Analytics.
+> **[0:30](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/data-build-tool-dbt?u=76281980&t=30)** Then, everything changed a few years ago with the introduction of dbt, or [[Data Build Tool (DBT)|data build tool]], by a small company called Fishtown Analytics.
 >
-> **[0:39](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/data-build-tool-dbt?u=76281980&t=39)** Dbt revolutionized the data engineering landscape, providing a powerful open-source solution for building data pipelines.
+> **[0:39](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/data-build-tool-dbt?u=76281980&t=39)** Dbt revolutionized the [[Data Engineering]] landscape, providing a powerful open-source solution for building [[Data Pipelines]].
 >
 > **[0:47](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/data-build-tool-dbt?u=76281980&t=47)** Dbt lives up to its name by helping data engineers build and transform data with ease.
 >
-> **[0:54](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/data-build-tool-dbt?u=76281980&t=54)** It allows for the modularization and centralization of analytics code, making SQL-based data transformation and testing a breeze.
+> **[0:54](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/data-build-tool-dbt?u=76281980&t=54)** It allows for the modularization and centralization of analytics code, making [[SQL]]-based [[Data Transformation]] and testing a breeze.
 >
-> **[1:04](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/data-build-tool-dbt?u=76281980&t=64)** This tool has gained immense popularity among data analysts and data engineers who frequently deal with data cleaning and transformation before conducting analyses.
+> **[1:04](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/data-build-tool-dbt?u=76281980&t=64)** This tool has gained immense popularity among data analysts and data engineers who frequently deal with [[Data Cleaning]] and transformation before conducting analyses.
 >
 > **[1:14](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/data-build-tool-dbt?u=76281980&t=74)** Dbt's strength lies in its model-first approach to data analytics and transformation.
 >
-> **[1:20](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/data-build-tool-dbt?u=76281980&t=80)** By leveraging dbt, you can avoid writing boilerplate data manipulation and definition language code as the tool handles the materialization process for you.
+> **[1:20](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/data-build-tool-dbt?u=76281980&t=80)** By leveraging dbt, you can avoid writing boilerplate [[Data Manipulation]] and definition language code as the tool handles the materialization process for you.
 >
-> **[1:31](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/data-build-tool-dbt?u=76281980&t=91)** One of dbt's key advantages is in its ability to enhance data quality in databases.
+> **[1:31](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/data-build-tool-dbt?u=76281980&t=91)** One of dbt's key advantages is in its ability to enhance [[Data Quality]] in [[Databases]].
 >
 > **[1:37](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/data-build-tool-dbt?u=76281980&t=97)** By defining a data model that can specify the data's structure, dbt can validate the data and ensure that it adheres to the model.
 >
@@ -680,7 +670,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/data-build-tool-dbt?u=76281980&t=147)** Dbt brings essential features and functionality to the data engineering world, elevating your SQL skills to new heights.
 >
-> **[2:35](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/data-build-tool-dbt?u=76281980&t=155)** That's precisely why dbt will be a major focus in this LinkedIn Learning video.
+> **[2:35](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/data-build-tool-dbt?u=76281980&t=155)** That's precisely why dbt will be a major focus in this [[LinkedIn]] Learning video.
 >
 > **[2:40](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/data-build-tool-dbt?u=76281980&t=160)** Let's dive in and unlock the full potential of dbt to streamline and enhance your data engineering endeavors.
 >
@@ -688,18 +678,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), dbt (13), [[Analytics]] (3), [[Data Engineering]] (3), [[SQL]] (3)
+> **Frameworks & Libraries:** [[Data Engineering]] (3), [[SQL]] (3), [[Version Control]] (1), [[Data Build Tool (DBT)|Data build tool]] (1), [[Data Pipelines]] (1)
 > **Env Vars:** sql (3)
 > **Exercise Files:** boilerplate (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modeling in dbt
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/modeling-in-dbt?u=76281980)
+#### [Modeling in dbt](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/modeling-in-dbt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/modeling-in-dbt?u=76281980&t=0)** - [Instructor] We're going to be working with a MariaDB MySQL database for these exercises.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/modeling-in-dbt?u=76281980&t=0)** - [Instructor] We're going to be working with a MariaDB [[MySQL]] database for these exercises.
 >
 > **[0:06](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/modeling-in-dbt?u=76281980&t=6)** Anytime you start a new project it's always important to get a lay of the land.
 >
@@ -751,7 +740,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/modeling-in-dbt?u=76281980&t=131)** Let's take a quick pause and talk about profiles.
 >
-> **[2:14](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/modeling-in-dbt?u=76281980&t=134)** DBT profiles are the methods for connecting to databases managed by DBT, meaning in order for DBT to connect to your database, you first have to create a connection profile.
+> **[2:14](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/modeling-in-dbt?u=76281980&t=134)** DBT profiles are the methods for connecting to [[Databases]] managed by DBT, meaning in order for DBT to connect to your database, you first have to create a connection profile.
 >
 > **[2:28](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/modeling-in-dbt?u=76281980&t=148)** For this course, I've created all of the profiles for you behind the scenes.
 >
@@ -791,7 +780,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/modeling-in-dbt?u=76281980&t=253)** The lineage view shows how DBT models or the tables themselves, are related to one another.
 >
-> **[4:20](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/modeling-in-dbt?u=76281980&t=260)** Let's click on my_first_dbt_model.sql which we have open here.
+> **[4:20](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/modeling-in-dbt?u=76281980&t=260)** Let's click on my_first_dbt_model.[[SQL]] which we have open here.
 >
 > **[4:25](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/modeling-in-dbt?u=76281980&t=265)** In the lineage view, you can see that this model has a child node that is my second DBT model.
 >
@@ -813,7 +802,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (29), database (6), [[MySQL]] (4), [[SQL]] (3), power (2)
+> **Frameworks & Libraries:** [[MySQL]] (4), [[SQL]] (3), [[Databases]] (1)
 > **Env Vars:** dbt (27), sql (2)
 > **CLI Commands:** mysql (4), pip (1), make (1), node (1)
 > **File Paths:** dbt_project.yml (2), profiles.yml (1), my_first_dbt_model.sql (1), schema.yml (1)
@@ -822,8 +811,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (2)
 > **Definitions:** means that (1), is a  (1)
 
-#### Running dbt
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/running-dbt?u=76281980)
+#### [Running dbt](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/running-dbt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -835,7 +823,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/running-dbt?u=76281980&t=12)** The dbt seed command is used to seed or load initial data into the database tables.
 >
-> **[0:19](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/running-dbt?u=76281980&t=19)** Seeding involves populating tables with sample data that will serve as the basis for data transformation and analysis.
+> **[0:19](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/running-dbt?u=76281980&t=19)** Seeding involves populating tables with sample data that will serve as the basis for [[Data Transformation]] and analysis.
 >
 > **[0:26](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/running-dbt?u=76281980&t=26)** This command is particularly useful during the development and testing phases when you need a representative data set to work with.
 >
@@ -851,7 +839,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/running-dbt?u=76281980&t=62)** Now from the terminal, navigate to the chapter two directory and we're going to run dbt seed.
 >
-> **[1:20](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/running-dbt?u=76281980&t=80)** Once the command finishes successfully, navigate to the SQL Tools sidebar and open the chapter two dropdown.
+> **[1:20](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/running-dbt?u=76281980&t=80)** Once the command finishes successfully, navigate to the [[SQL]] Tools sidebar and open the chapter two dropdown.
 >
 > **[1:32](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/running-dbt?u=76281980&t=92)** Underneath the table's directory you will see something called raw taxi trips.
 >
@@ -903,7 +891,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (9), data (5), database (4), [[SQL]] (4), [[Data Transformation]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Data Transformation]] (1)
 > **UI Navigation:** navigate to (3), click on (3), open the (2), dropdown (2)
 > **Code Identifiers:** raw_taxi_trips (4), taxi_trips (2)
 > **Env Vars:** sql (4), csv (1)
@@ -912,8 +900,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - now (1)
 
-#### Challenge: Modeling taxi data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-modeling-taxi-data?u=76281980)
+#### [Challenge: Modeling taxi data](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-modeling-taxi-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -927,7 +914,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-modeling-taxi-data?u=76281980&t=27)** Open the models directory under chapter two and perform your work there.
 >
-> **[0:33](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-modeling-taxi-data?u=76281980&t=33)** First, create a new model called over_nine_miles.sql which generates a table that contains all the columns of the source data with only the taxi trips with a distance of over nine miles.
+> **[0:33](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-modeling-taxi-data?u=76281980&t=33)** First, create a new model called over_nine_miles.[[SQL]] which generates a table that contains all the columns of the source data with only the taxi trips with a distance of over nine miles.
 >
 > **[0:46](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-modeling-taxi-data?u=76281980&t=46)** Second, create a new model called credit_card_count.sql that contains a breakdown of the fares paid by credit card.
 >
@@ -943,7 +930,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), dbt (3), data (3)
+> **Frameworks & Libraries:** [[SQL]] (4)
 > **File Paths:** over_nine_miles.sql (1), credit_card_count.sql (1), cross_borough.sql (1), avg_num_dropoff_manhattan.sql (1), schema.yml (1)
 > **Code Identifiers:** over_nine_miles (1), credit_card_count (1), cross_borough (1), avg_num_dropoff_manhattan (1)
 > **CLI Commands:** make (1)
@@ -951,8 +938,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
-#### Solution: Modeling taxi data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-modeling-taxi-data?u=76281980)
+#### [Solution: Modeling taxi data](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-modeling-taxi-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -988,7 +974,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-modeling-taxi-data?u=76281980&t=81)** I'll only use one column this time and name it avg for average.
 >
-> **[1:26](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-modeling-taxi-data?u=76281980&t=86)** Now, let's switch to the SQL models themselves.
+> **[1:26](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-modeling-taxi-data?u=76281980&t=86)** Now, let's switch to the [[SQL]] models themselves.
 >
 > **[1:32](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-modeling-taxi-data?u=76281980&t=92)** To get the trips that are over nine miles, we'll simply filter to where the distance is over nine.
 >
@@ -1006,11 +992,11 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-modeling-taxi-data?u=76281980&t=148)** I'll run through them quickly so you can compare your output with mine.
 >
-> **[2:38](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-modeling-taxi-data?u=76281980&t=158)** Great work completing this challenge and advancing your data engineering and SQL skills.
+> **[2:38](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-modeling-taxi-data?u=76281980&t=158)** Great work completing this challenge and advancing your [[Data Engineering]] and SQL skills.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (3), [[SQL]] (2), data (1), [[Data Engineering]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Data Engineering]] (1)
 > **Code Identifiers:** taxi_trips (2), over_nine_miles (1), cross_borough (1), credit_card_count (1)
 > **Env Vars:** sql (2), yaml (1), sqltools (1)
 > **UI Navigation:** click on (2), switch to (1)
@@ -1024,12 +1010,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Crypto cost: Materializations
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/crypto-cost-materializations?u=76281980)
+#### [Crypto cost: Materializations](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/crypto-cost-materializations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/crypto-cost-materializations?u=76281980&t=0)** - While we advance our modeling skills in SQL, it's important to be mindful of resource consumption.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/crypto-cost-materializations?u=76281980&t=0)** - While we advance our modeling skills in [[SQL]], it's important to be mindful of resource consumption.
 >
 > **[0:07](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/crypto-cost-materializations?u=76281980&t=7)** To start, let's talk about strategies for storing or persisting data.
 >
@@ -1037,11 +1022,11 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/crypto-cost-materializations?u=76281980&t=19)** This can mean saving it to a database locally or saving it to a database in the cloud.
 >
-> **[0:25](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/crypto-cost-materializations?u=76281980&t=25)** Databases offer a number of powerful strategies to optimally use resources meaning you, as a data engineer, frequently control your overall database footprint in powerful ways.
+> **[0:25](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/crypto-cost-materializations?u=76281980&t=25)** [[Databases]] offer a number of powerful strategies to optimally use resources meaning you, as a data engineer, frequently control your overall database footprint in powerful ways.
 >
 > **[0:37](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/crypto-cost-materializations?u=76281980&t=37)** As always, I like to start with a personal story.
 >
-> **[0:41](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/crypto-cost-materializations?u=76281980&t=41)** This story involves a cryptocurrency data provider.
+> **[0:41](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/crypto-cost-materializations?u=76281980&t=41)** This story involves a [[Cryptocurrency]] data provider.
 >
 > **[0:45](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/crypto-cost-materializations?u=76281980&t=45)** I was contracted as an independent consultant to tackle a challenging cost optimization project for a cryptocurrency company.
 >
@@ -1057,7 +1042,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/crypto-cost-materializations?u=76281980&t=85)** Recognizing the seriousness of the situation, they sought help, and that's when I was brought in.
 >
-> **[1:31](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/crypto-cost-materializations?u=76281980&t=91)** As I dug deeper into their data storage structure, I discovered the root of the issue.
+> **[1:31](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/crypto-cost-materializations?u=76281980&t=91)** As I dug deeper into their [[Data Storage]] structure, I discovered the root of the issue.
 >
 > **[1:36](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/crypto-cost-materializations?u=76281980&t=96)** There was a perpetually growing table that held transactions related to a specific coin.
 >
@@ -1073,7 +1058,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/crypto-cost-materializations?u=76281980&t=144)** By implementing effective strategies, we significantly reduced the exponential growth in both the storage and the compute layer.
 >
-> **[2:32](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/crypto-cost-materializations?u=76281980&t=152)** As a result of our collaborative efforts, the company's data management became much more efficient leading to a substantial decrease in their cloud costs.
+> **[2:32](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/crypto-cost-materializations?u=76281980&t=152)** As a result of our collaborative efforts, the company's [[Data Management]] became much more efficient leading to a substantial decrease in their cloud costs.
 >
 > **[2:41](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/crypto-cost-materializations?u=76281980&t=161)** With the newfound clarity and control over their data, the team could focus on their core objectives with confidence.
 >
@@ -1083,13 +1068,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), database (3), cloud (3), [[SQL]] (2), [[Cryptocurrency]] (2)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Cryptocurrency]] (2), [[Data Storage]] (2), [[Databases]] (1), [[Data Management]] (1)
 > **Env Vars:** sql (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - while (1)
 
-#### Materialization terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/materialization-terminology?u=76281980)
+#### [Materialization terminology](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/materialization-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1099,7 +1083,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/materialization-terminology?u=76281980&t=14)** Let's start by breaking some of those down.
 >
-> **[0:18](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/materialization-terminology?u=76281980&t=18)** Table materialization is the most common form of materialization in SQL.
+> **[0:18](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/materialization-terminology?u=76281980&t=18)** Table materialization is the most common form of materialization in [[SQL]].
 >
 > **[0:23](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/materialization-terminology?u=76281980&t=23)** When a query's result set is materialized as a table, it is saved as a physical table on the database.
 >
@@ -1143,7 +1127,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/materialization-terminology?u=76281980&t=157)** It says config materialized equals table.
 >
-> **[2:42](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/materialization-terminology?u=76281980&t=162)** The word table in this line implies that we're using the table materialization strategy.
+> **[2:42](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/materialization-terminology?u=76281980&t=162)** The [[Microsoft Word|word]] table in this line implies that we're using the table materialization strategy.
 >
 > **[2:48](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/materialization-terminology?u=76281980&t=168)** In terminal, let's run DBT run.
 >
@@ -1165,7 +1149,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (9), dbt (9), data (6), database (4), business (1)
+> **Frameworks & Libraries:** [[SQL]] (9), [[Microsoft Word|Word]] (1)
 > **Env Vars:** dbt (9), sql (8)
 > **UI Navigation:** navigate to (2), switch to (1), in the sidebar (1), open the (1), dropdown (1)
 > **Tools:** terminal (2), vs code (1)
@@ -1174,8 +1158,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
-#### Incremental materializations
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/incremental-materializations?u=76281980)
+#### [Incremental materializations](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/incremental-materializations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1185,7 +1168,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/incremental-materializations?u=76281980&t=13)** As you know, DBT offers a few materialization strategies.
 >
-> **[0:18](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/incremental-materializations?u=76281980&t=18)** These traditional materializations in DBT involve creating intermediary tables that start the results of complex SQL queries.
+> **[0:18](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/incremental-materializations?u=76281980&t=18)** These traditional materializations in DBT involve creating intermediary tables that start the results of complex [[SQL]] queries.
 >
 > **[0:27](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/incremental-materializations?u=76281980&t=27)** But let's say you have a table that's growing in perpetuity.
 >
@@ -1203,7 +1186,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/incremental-materializations?u=76281980&t=81)** Enter the incremental strategy.
 >
-> **[1:23](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/incremental-materializations?u=76281980&t=83)** Incremental materialization is a powerful technique used to optimize data pipelines and improve overall performance.
+> **[1:23](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/incremental-materializations?u=76281980&t=83)** Incremental materialization is a powerful technique used to optimize [[Data Pipelines]] and improve overall performance.
 >
 > **[1:32](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/incremental-materializations?u=76281980&t=92)** With incremental materialization, DBT only processes and updates the data that has changed since the last run.
 >
@@ -1227,7 +1210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (9), data (8), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Data Pipelines]] (1)
 > **Env Vars:** dbt (9), sql (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
@@ -1235,24 +1218,23 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Materializations
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-materializations?u=76281980)
+#### [Challenge: Materializations](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-materializations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-materializations?u=76281980&t=0)** - [Instructor] Let's put our knowledge about all things materializations to practice and help a fictional version of our crypto company above.
 >
-> **[0:12](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-materializations?u=76281980&t=12)** Open up Codespaces and navigate to chapter three.
+> **[0:12](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-materializations?u=76281980&t=12)** Open up [[Codespaces]] and navigate to chapter three.
 >
 > **[0:16](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-materializations?u=76281980&t=16)** You'll see a DBT project has been created for you.
 >
 > **[0:20](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-materializations?u=76281980&t=20)** This project contains a data set of crypto data over a fixed period of time.
 >
-> **[0:25](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-materializations?u=76281980&t=25)** It includes data across Bitcoin, Ethereum and a few other coins.
+> **[0:25](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-materializations?u=76281980&t=25)** It includes data across Bitcoin, [[Ethereum]] and a few other coins.
 >
 > **[0:30](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-materializations?u=76281980&t=30)** To get started run DBT Seed, to seed the raw crypto data table with the necessary information.
 >
-> **[0:39](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-materializations?u=76281980&t=39)** Once the seed command has successfully run, you should be able to navigate SQL tools, open up the chapter three database, right click on the raw crypto data table and select show table records to see what the data looks like.
+> **[0:39](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-materializations?u=76281980&t=39)** Once the seed command has successfully run, you should be able to navigate [[SQL]] tools, open up the chapter three database, right click on the raw crypto data table and select show table records to see what the data looks like.
 >
 > **[0:56](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-materializations?u=76281980&t=56)** It's always wise to run some basic exploratory analysis on new data as well.
 >
@@ -1268,15 +1250,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), dbt (3), [[Codespaces]] (1), [[Ethereum]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Codespaces]] (1), [[Ethereum]] (1), [[SQL]] (1)
 > **Env Vars:** dbt (3), sql (1)
 > **UI Navigation:** navigate to (1), click on (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Materializations
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-materializations?u=76281980)
+#### [Solution: Materializations](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-materializations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1286,7 +1267,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-materializations?u=76281980&t=9)** As I mentioned before, there are many correct answers and the solution I present will simply be one of many.
 >
-> **[0:15](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-materializations?u=76281980&t=15)** Let's navigate to the chapter3 models directory in the UI and open up btc.sql.
+> **[0:15](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-materializations?u=76281980&t=15)** Let's navigate to the chapter3 models directory in the UI and open up btc.[[SQL]].
 >
 > **[0:22](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-materializations?u=76281980&t=22)** Next, let's open up the lineage view in the bottom bar.
 >
@@ -1354,7 +1335,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[SQL]] (6), next (1), dbt (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (6)
 > **CLI Commands:** make (7)
 > **File Paths:** btc.sql (3), eth.sql (1), btc_closing_above_3k.sql (1), crypto_data.sql (1)
 > **UI Navigation:** navigate to (1), click on (1)
@@ -1368,8 +1349,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Construction planning: Query complexity
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/construction-planning-query-complexity?u=76281980)
+#### [Construction planning: Query complexity](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/construction-planning-query-complexity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1383,7 +1363,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/construction-planning-query-complexity?u=76281980&t=23)** They're like libraries too.
 >
-> **[0:25](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/construction-planning-query-complexity?u=76281980&t=25)** External pieces of code that speed up writing SQL code.
+> **[0:25](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/construction-planning-query-complexity?u=76281980&t=25)** External pieces of code that speed up writing [[SQL]] code.
 >
 > **[0:29](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/construction-planning-query-complexity?u=76281980&t=29)** But what if you need custom logic specific to a unique set of transformations?
 >
@@ -1433,15 +1413,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), [[Engineering]] (1), database (1), data (1), feature (1)
+> **Frameworks & Libraries:** [[SQL]] (8)
 > **Env Vars:** sql (8), sum (1), average (1)
 > **Analogies:** imagine (2), for example (1), it's like (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
 
-#### Common table expressions (CTEs) vs. subqueries
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/common-table-expressions-ctes-vs-subqueries?u=76281980)
+#### [Common table expressions (CTEs) vs. subqueries](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/common-table-expressions-ctes-vs-subqueries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1463,7 +1442,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/common-table-expressions-ctes-vs-subqueries?u=76281980&t=52)** First, readability and maintainability.
 >
-> **[0:55](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/common-table-expressions-ctes-vs-subqueries?u=76281980&t=55)** CTEs make your SQL code more readable and maintainable.
+> **[0:55](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/common-table-expressions-ctes-vs-subqueries?u=76281980&t=55)** CTEs make your [[SQL]] code more readable and maintainable.
 >
 > **[1:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/common-table-expressions-ctes-vs-subqueries?u=76281980&t=60)** By breaking down complex queries into smaller logical steps, you can easily understand the purpose of each CTE and the data it produces.
 >
@@ -1477,7 +1456,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/common-table-expressions-ctes-vs-subqueries?u=76281980&t=101)** Third, recursive queries.
 >
-> **[1:44](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/common-table-expressions-ctes-vs-subqueries?u=76281980&t=104)** CTEs can handle recursive queries allowing you to traverse hierarchical data structures like organizational charts or file systems.
+> **[1:44](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/common-table-expressions-ctes-vs-subqueries?u=76281980&t=104)** CTEs can handle recursive queries allowing you to traverse hierarchical [[Data Structures]] like organizational charts or file systems.
 >
 > **[1:53](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/common-table-expressions-ctes-vs-subqueries?u=76281980&t=113)** That capability is especially valuable when you're dealing with data that has a parent-child relationship.
 >
@@ -1511,14 +1490,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), database (4), [[SQL]] (4), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Data Structures]] (1)
 > **Env Vars:** cte (4), sql (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### CTEs in dbt
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/ctes-in-dbt?u=76281980)
+#### [CTEs in dbt](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/ctes-in-dbt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1532,7 +1510,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/ctes-in-dbt?u=76281980&t=19)** WITH the name of your CTE AS SELECT column1, column2, so on and so forth, FROM a source_table WHERE condition.
 >
-> **[0:31](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/ctes-in-dbt?u=76281980&t=31)** You can see that this looks very similar to a normal SELECT statement in SQL, just with the additional WITH syntax.
+> **[0:31](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/ctes-in-dbt?u=76281980&t=31)** You can see that this looks very similar to a normal SELECT statement in [[SQL]], just with the additional WITH syntax.
 >
 > **[0:38](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/ctes-in-dbt?u=76281980&t=38)** This is why I think it's helpful to think of CTEs as functions.
 >
@@ -1578,7 +1556,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (4), [[SQL]] (3), data (3)
+> **Frameworks & Libraries:** [[SQL]] (3)
 > **Env Vars:** cte (14), select (3), sql (3), where (1), left (1)
 > **Code Identifiers:** order_items_cte (2), order_items (2), order_id (2), source_table (1), ordered_items_cte (1)
 > **SQL:** select (3), where (1), left join (1)
@@ -1587,8 +1565,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Implementing CTEs
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-implementing-ctes?u=76281980)
+#### [Challenge: Implementing CTEs](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-implementing-ctes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1598,11 +1575,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-implementing-ctes?u=76281980&t=13)** Now, in this challenge, let's help them out.
 >
-> **[0:16](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-implementing-ctes?u=76281980&t=16)** To begin, open Codespaces, and navigate to chapter4, and open up the dbt models project.
+> **[0:16](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-implementing-ctes?u=76281980&t=16)** To begin, open [[Codespaces]], and navigate to chapter4, and open up the dbt models project.
 >
 > **[0:24](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-implementing-ctes?u=76281980&t=24)** Take a moment to understand the project setup, starting with the schema.yml file, and then exploring the individual models themselves.
 >
-> **[0:34](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-implementing-ctes?u=76281980&t=34)** Let's dive into the models directory and click on excavators.sql.
+> **[0:34](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-implementing-ctes?u=76281980&t=34)** Let's dive into the models directory and click on excavators.[[SQL]].
 >
 > **[0:39](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-implementing-ctes?u=76281980&t=39)** In the bottom pane, open Lineage View.
 >
@@ -1634,7 +1611,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), dbt (3), [[Codespaces]] (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Codespaces]] (1)
 > **File Paths:** schema.yml (1), excavators.sql (1), jobs.sql (1), maintenance.sql (1), maintenance_cte.sql (1)
 > **Code Identifiers:** raw_excavators (2), raw_jobs (2), maintenance_cte (1)
 > **CLI Commands:** make (2), find (1)
@@ -1643,8 +1620,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Implementing CTEs
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-implementing-ctes?u=76281980)
+#### [Solution: Implementing CTEs](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-implementing-ctes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1652,7 +1628,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-implementing-ctes?u=76281980&t=9)** You've experienced firsthand how CTEs can significantly improve the readability of your code.
 >
-> **[0:16](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-implementing-ctes?u=76281980&t=16)** Now, let's start applying CTEs to simplify the maintenance.sql file.
+> **[0:16](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-implementing-ctes?u=76281980&t=16)** Now, let's start applying CTEs to simplify the maintenance.[[SQL]] file.
 >
 > **[0:22](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-implementing-ctes?u=76281980&t=22)** Go to chapter4, open up the models, and open up maintenance.sql.
 >
@@ -1704,7 +1680,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), next (1), dbt (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (5)
 > **Env Vars:** cte (7)
 > **File Paths:** maintenance.sql (4), maintenance_cte.sql (1)
 > **Code Identifiers:** maintenance_cte (3), failing_excavators (1)
@@ -1718,8 +1694,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advertising: Testing SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/advertising-testing-sql?u=76281980)
+#### [Advertising: Testing SQL](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/advertising-testing-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1731,7 +1706,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/advertising-testing-sql?u=76281980&t=17)** From unit tests to code coverage tests to full scale integration tests, there are a number of ways to test software.
 >
-> **[0:25](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/advertising-testing-sql?u=76281980&t=25)** Testing SQL, however, involves a different set of concerns.
+> **[0:25](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/advertising-testing-sql?u=76281980&t=25)** Testing [[SQL]], however, involves a different set of concerns.
 >
 > **[0:28](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/advertising-testing-sql?u=76281980&t=28)** Often the SQL code is tightly coupled with the data in the underlying system.
 >
@@ -1775,17 +1750,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[SQL]] (4), [[Engineering]] (1), dbt (1)
+> **Frameworks & Libraries:** [[SQL]] (4)
 > **Env Vars:** sql (4), adid (1), dbt (1)
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
 
-#### Unit testing using dbt
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/unit-testing-using-dbt?u=76281980)
+#### [Unit testing using dbt](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/unit-testing-using-dbt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/unit-testing-using-dbt?u=76281980&t=0)** - [Tutor] Unit testing in dbt is a critical aspect of ensuring the accuracy, reliability, and consistency of data transformation pipelines.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/unit-testing-using-dbt?u=76281980&t=0)** - [Tutor] [[Unit Testing]] in dbt is a critical aspect of ensuring the accuracy, reliability, and consistency of [[Data Transformation]] pipelines.
 >
 > **[0:10](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/unit-testing-using-dbt?u=76281980&t=10)** It involves testing individual data models in isolation to verify their correctness.
 >
@@ -1825,7 +1799,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/unit-testing-using-dbt?u=76281980&t=144)** To include one of these assertions in a dbt model, you can modify the schema.yaml file associated with the model.
 >
-> **[2:33](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/unit-testing-using-dbt?u=76281980&t=153)** Let's get hands-on and switch to Codespaces.
+> **[2:33](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/unit-testing-using-dbt?u=76281980&t=153)** Let's get hands-on and switch to [[Codespaces]].
 >
 > **[2:36](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/unit-testing-using-dbt?u=76281980&t=156)** Open up example/models/example and open the schema.yml file.
 >
@@ -1853,15 +1827,15 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/unit-testing-using-dbt?u=76281980&t=237)** Let's trace this.
 >
-> **[3:59](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/unit-testing-using-dbt?u=76281980&t=239)** If you open up my_first_dbt_model.sql, you can see we select one as ID and union that with a null value.
+> **[3:59](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/unit-testing-using-dbt?u=76281980&t=239)** If you open up my_first_dbt_model.[[SQL]], you can see we select one as ID and union that with a null value.
 >
 > **[4:08](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/unit-testing-using-dbt?u=76281980&t=248)** So, it makes sense why this test fails.
 >
 > **[4:12](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/unit-testing-using-dbt?u=76281980&t=252)** While using the built-in dbt functions for testing is relatively straightforward, more complex testing scenarios may require custom tests.
 >
-> **[4:21](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/unit-testing-using-dbt?u=76281980&t=261)** Custom tests are defined in separate SQL files and can assess specific business logic, or data quality rules that could be unique to your organization.
+> **[4:21](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/unit-testing-using-dbt?u=76281980&t=261)** Custom tests are defined in separate SQL files and can assess specific business logic, or [[Data Quality]] rules that could be unique to your organization.
 >
-> **[4:31](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/unit-testing-using-dbt?u=76281980&t=271)** In conclusion, unit testing in dbt is essential for maintaining data integrity and ensuring the reliability of your data pipelines.
+> **[4:31](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/unit-testing-using-dbt?u=76281980&t=271)** In conclusion, unit testing in dbt is essential for maintaining [[Data Integrity]] and ensuring the reliability of your [[Data Pipelines]].
 >
 > **[4:41](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/unit-testing-using-dbt?u=76281980&t=281)** By leveraging the built-in test functions and creating custom tests, you can confidently validate the accuracy of your data models and identify any issues early in the development process.
 >
@@ -1869,7 +1843,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (18), data (13), [[Unit Testing]] (4), business (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Unit Testing]] (4), [[SQL]] (2), [[Data Pipelines]] (2), [[Data Transformation]] (1), [[Codespaces]] (1)
 > **Code Identifiers:** not_null (3), my_first_dbt_model_id (1), my_first_dbt_model (1)
 > **File Paths:** schema.yml (2), schema.yaml (1), my_first_dbt_model.sql (1)
 > **Analogies:** such as (1), for example (1), for instance (1)
@@ -1878,8 +1852,7 @@ created: 2026-05-02
 > **Tools:** terminal (2)
 > **UI Navigation:** switch to (1), open the (1)
 
-#### Custom tests in dbt
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/custom-tests-in-dbt?u=76281980)
+#### [Custom tests in dbt](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/custom-tests-in-dbt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1887,7 +1860,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/custom-tests-in-dbt?u=76281980&t=4)** The process is simple and consists of three main steps.
 >
-> **[0:09](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/custom-tests-in-dbt?u=76281980&t=9)** First, we'll create a new sql file in the test directory of our dbt project.
+> **[0:09](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/custom-tests-in-dbt?u=76281980&t=9)** First, we'll create a new [[SQL]] file in the test directory of our dbt project.
 >
 > **[0:14](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/custom-tests-in-dbt?u=76281980&t=14)** Then we'll write the custom logic for the custom test in the sql file.
 >
@@ -1951,21 +1924,20 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/custom-tests-in-dbt?u=76281980&t=216)** Custom tests in dbt are powerful and flexible As anything expressible in sql can be translated into a dbt test.
 >
-> **[3:45](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/custom-tests-in-dbt?u=76281980&t=225)** By mastering testing in dbt, you'll advance your data engineering skills ensuring the accuracy and reliability of your data pipelines.
+> **[3:45](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/custom-tests-in-dbt?u=76281980&t=225)** By mastering testing in dbt, you'll advance your [[Data Engineering]] skills ensuring the accuracy and reliability of your [[Data Pipelines]].
 >
-> **[3:54](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/custom-tests-in-dbt?u=76281980&t=234)** The ability to create custom tests empowers you to validate specific business logic and data quality rules unique to your organization, enhancing the overall data testing process in dbt.
+> **[3:54](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/custom-tests-in-dbt?u=76281980&t=234)** The ability to create custom tests empowers you to validate specific business logic and [[Data Quality]] rules unique to your organization, enhancing the overall data testing process in dbt.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (13), [[SQL]] (7), data (5), generic (3), next (2)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Data Engineering]] (1), [[Data Pipelines]] (1), [[Data Quality]] (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** open the (1), navigate to (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** defined as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Testing SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-testing-sql?u=76281980)
+#### [Challenge: Testing SQL](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-testing-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1975,7 +1947,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-testing-sql?u=76281980&t=11)** For this challenge, we're going to help the company get their testing infrastructure in order.
 >
-> **[0:16](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-testing-sql?u=76281980&t=16)** To get started, first open up chapter5/models/adid_data.sql in the VS Code UI.
+> **[0:16](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-testing-sql?u=76281980&t=16)** To get started, first open up chapter5/models/adid_data.[[SQL]] in the VS Code UI.
 >
 > **[0:25](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-testing-sql?u=76281980&t=25)** Then open Lineage View in the DBT Power User plugin.
 >
@@ -1985,7 +1957,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-testing-sql?u=76281980&t=43)** Upon inspection, you'll notice that the schema in its current form lacks any tests.
 >
-> **[0:49](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-testing-sql?u=76281980&t=49)** Now our mission is to add some of the essential built-in DBT tests to ensure data quality and reliability for this kind of data.
+> **[0:49](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-testing-sql?u=76281980&t=49)** Now our mission is to add some of the essential built-in DBT tests to ensure [[Data Quality]] and reliability for this kind of data.
 >
 > **[0:59](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/challenge-testing-sql?u=76281980&t=59)** Modify the schema.yaml file to add some of the built-in DBT tests that you believe would be necessary to have in this kind of data.
 >
@@ -2015,7 +1987,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (6), data (4), generic (2), [[SQL]] (1), power (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Data Quality]] (1)
 > **Env Vars:** dbt (6)
 > **File Paths:** schema.yaml (2), chapter5/models/adid_data.sql (1)
 > **Code Identifiers:** adid_data (1), raw_adid_data (1)
@@ -2024,8 +1996,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Testing SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-testing-sql?u=76281980)
+#### [Solution: Testing SQL](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-testing-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2053,7 +2024,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-testing-sql?u=76281980&t=70)** Looking at cohort we can see that the cohort field is required and that there are actually a set of defined values.
 >
-> **[1:17](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-testing-sql?u=76281980&t=77)** For this column, specifically, the values must either be the English word one, two, three, four, five, or six.
+> **[1:17](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-testing-sql?u=76281980&t=77)** For this column, specifically, the values must either be the English [[Microsoft Word|word]] one, two, three, four, five, or six.
 >
 > **[1:29](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-testing-sql?u=76281980&t=89)** Let's add this as an accepted values test and include the list of values that this column can contain.
 >
@@ -2091,7 +2062,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-testing-sql?u=76281980&t=194)** To investigate I'm going to grab the cohort count CTE code, and run it to see the count of each of my cohorts.
 >
-> **[3:22](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-testing-sql?u=76281980&t=202)** You can open up the SQL Tools plugin and press this button here to create a new SQL file.
+> **[3:22](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-testing-sql?u=76281980&t=202)** You can open up the [[SQL]] Tools plugin and press this button here to create a new SQL file.
 >
 > **[3:29](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/solution-testing-sql?u=76281980&t=209)** You may have to use the Chapter five database by typing use chapter five, but I've already done that.
 >
@@ -2105,7 +2076,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (3), dbt (2), [[SQL]] (2), [[Microsoft Word|Word]] (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** dbt (2), cte (2), sql (2)
 > **File Paths:** chapter5/models/schema.yaml (1), schema.yaml (1)
 > **CLI Commands:** make (2)
@@ -2118,26 +2089,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Looking ahead
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/looking-ahead?u=76281980)
+#### [Looking ahead](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/looking-ahead?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/looking-ahead?u=76281980&t=0)** - Looking ahead, I anticipate several exciting developments in the SQL and data engineering landscape.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/looking-ahead?u=76281980&t=0)** - Looking ahead, I anticipate several exciting developments in the [[SQL]] and [[Data Engineering]] landscape.
 >
 > **[0:07](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/looking-ahead?u=76281980&t=7)** Machine learning and AI integration with SQL are poised to revolutionize how enterprises derive insights from data.
 >
-> **[0:14](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/looking-ahead?u=76281980&t=14)** With predictive analytics becoming an integral part of data engineering workflows.
+> **[0:14](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/looking-ahead?u=76281980&t=14)** With [[Predictive Analytics]] becoming an integral part of data engineering workflows.
 >
-> **[0:20](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/looking-ahead?u=76281980&t=20)** Automated data governance and data quality checks will enhance the reliability and trustworthiness of data pipelines, ensuring that data engineers can confidently make decisions based on high quality data.
+> **[0:20](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/looking-ahead?u=76281980&t=20)** Automated [[Data Governance]] and [[Data Quality]] checks will enhance the reliability and trustworthiness of [[Data Pipelines]], ensuring that data engineers can confidently make decisions based on high quality data.
 >
-> **[0:33](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/looking-ahead?u=76281980&t=33)** The rise of streaming and real-time processing will drive the demand for data engineers skilled in SQL and technologies like Apache Kafka and Apache Flink.
+> **[0:33](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/looking-ahead?u=76281980&t=33)** The rise of streaming and [[Real-Time]] processing will drive the demand for data engineers skilled in SQL and technologies like [[Apache Kafka]] and Apache Flink.
 >
 > **[0:43](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/looking-ahead?u=76281980&t=43)** This shift towards real-time data analytics will enable businesses to respond swiftly to changing market trends and customer demands.
 >
-> **[0:52](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/looking-ahead?u=76281980&t=52)** Moreover, the convergence of data engineering and data science will necessitate data engineers to develop expertise in languages like Python and R alongside their SQL skills.
+> **[0:52](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/looking-ahead?u=76281980&t=52)** Moreover, the convergence of data engineering and [[Data Science]] will necessitate data engineers to develop expertise in languages like [[Python (Programming Language)|Python]] and R alongside their SQL skills.
 >
-> **[1:04](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/looking-ahead?u=76281980&t=64)** This interdisciplinary effort will empower data engineers to collaborate effectively with data scientists and bridge the gap between data collection and data-driven decision making.
+> **[1:04](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/looking-ahead?u=76281980&t=64)** This interdisciplinary effort will empower data engineers to collaborate effectively with data scientists and bridge the gap between [[Data Collection]] and [[Data-driven Decision Making]].
 >
 > **[1:17](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/looking-ahead?u=76281980&t=77)** As you wrap up this course, remember that SQL is a powerful tool that empowers data engineers to transform raw data into valuable insights.
 >
@@ -2147,32 +2117,31 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[SQL]] (6), [[Data Engineering]] (5), [[Real-Time]] (2), ai (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Data Engineering]] (5), [[Real-Time]] (2), [[Predictive Analytics]] (1), [[Data Governance]] (1)
 > **Env Vars:** sql (6)
 > **CLI Commands:** apache (2), make (1), python (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - looking (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/next-steps?u=76281980&t=0)** - Congratulations.
 >
-> **[0:01](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/next-steps?u=76281980&t=1)** You have successfully completed the course and advanced your SQL skills for data engineering.
+> **[0:01](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/next-steps?u=76281980&t=1)** You have successfully completed the course and advanced your [[SQL]] skills for [[Data Engineering]].
 >
-> **[0:07](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/next-steps?u=76281980&t=7)** Throughout this comprehensive journey, you explored the powerful world of SQL and learned how to leverage the revolutionary Data transformation tool DBT along with best practices for data engineering.
+> **[0:07](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/next-steps?u=76281980&t=7)** Throughout this comprehensive journey, you explored the powerful world of SQL and learned how to leverage the revolutionary [[Data Transformation]] tool DBT along with best practices for data engineering.
 >
 > **[0:21](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/next-steps?u=76281980&t=21)** Let's reflect on the key takeaways.
 >
 > **[0:23](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/next-steps?u=76281980&t=23)** We explored trends in the SQL and modern data stack ecosystem and discussed some forward-looking ideas in the ever-evolving field of data engineering.
 >
-> **[0:34](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/next-steps?u=76281980&t=34)** In this course, you explored essential concepts like normal forms, functional dependencies, and the principle of relational database design.
+> **[0:34](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/next-steps?u=76281980&t=34)** In this course, you explored essential concepts like normal [[Forms]], functional dependencies, and the principle of relational [[Database Design]].
 >
-> **[0:44](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/next-steps?u=76281980&t=44)** Understanding these fundamentals is vital for maintaining data integrity, reducing redundancy, and optimizing the efficiency of your database schema.
+> **[0:44](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/next-steps?u=76281980&t=44)** Understanding these fundamentals is vital for maintaining [[Data Integrity]], reducing redundancy, and optimizing the efficiency of your database schema.
 >
-> **[0:56](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/next-steps?u=76281980&t=56)** With DBT, you harness the capabilities of a versatile open source solution, enabling us to build and transform data pipelines with ease.
+> **[0:56](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/next-steps?u=76281980&t=56)** With DBT, you harness the capabilities of a versatile open source solution, enabling us to build and transform [[Data Pipelines]] with ease.
 >
 > **[1:07](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/next-steps?u=76281980&t=67)** You learned how to optimally design analytics code, making SQL-based data transformation and testing a breeze.
 >
@@ -2184,7 +2153,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/next-steps?u=76281980&t=107)** I encourage you to keep exploring, learning, and applying your skills to make a positive impact with data.
 >
-> **[1:54](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/next-steps?u=76281980&t=114)** As the data engineering landscape evolves, I'm confident that you are well equipped to excel in this dynamic and rewarding field.
+> **[1:54](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/next-steps?u=76281980&t=114)** As the data engineering landscape evolves, I'm confident that you are well equipped to [[Microsoft Excel|excel]] in this dynamic and rewarding field.
 >
 > **[2:02](https://www.linkedin.com/learning/data-engineering-dbt-for-sql/next-steps?u=76281980&t=122)** Again, I'm Vinu, and I thank you for joining me on this exciting learning journey.
 >
@@ -2192,7 +2161,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[SQL]] (6), [[Data Engineering]] (6), [[Data Transformation]] (2), dbt (2)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Data Engineering]] (6), [[Data Transformation]] (2), [[Forms]] (1), [[Database Design]] (1)
 > **Env Vars:** sql (6), dbt (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)

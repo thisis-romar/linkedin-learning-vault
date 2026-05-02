@@ -80,12 +80,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/welcome?u=76281980&t=0)** - [Instructor] Greetings and welcome to this Unity Certified Associate Training course for 2D and user interfaces, presented by LinkedIn Learning.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/welcome?u=76281980&t=0)** - [Instructor] Greetings and welcome to this [[Unity]] Certified Associate Training course for 2D and user interfaces, presented by [[LinkedIn]] Learning.
 >
 > **[0:10](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/welcome?u=76281980&t=10)** My name is Alan fawn, and I'll be your instructor.
 >
@@ -102,16 +101,15 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Unity]] (4), [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Companion files
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/companion-files?u=76281980)
+#### [Companion files](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/companion-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/companion-files?u=76281980&t=0)** - [Instructor] If you have access to the course exercise files, you'll find these inside the Exercise Files folder that you can download from LinkedIn Learning.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/companion-files?u=76281980&t=0)** - [Instructor] If you have access to the course exercise files, you'll find these inside the Exercise Files folder that you can download from [[LinkedIn]] Learning.
 >
 > **[0:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/companion-files?u=76281980&t=9)** Each video of this course will signpost where it corresponds to particular exercise files.
 >
-> **[0:15](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/companion-files?u=76281980&t=15)** So you can download those, open them up inside Unity, and follow along step-by-step with the videos presented.
+> **[0:15](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/companion-files?u=76281980&t=15)** So you can download those, open them up inside [[Unity]], and follow along step-by-step with the videos presented.
 >
 > **[0:23](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/companion-files?u=76281980&t=23)** However, I should say that we're going to be surveying many 2D features inside Unity and you don't need the course files.
 >
@@ -137,12 +135,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### 2D projects and user interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/2d-projects-and-user-interfaces?u=76281980)
+#### [2D projects and user interfaces](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/2d-projects-and-user-interfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/2d-projects-and-user-interfaces?u=76281980&t=0)** - [Instructor] In this chapter and the next, we're going to look at the fundamentals of user interfaces inside the Unity engine.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/2d-projects-and-user-interfaces?u=76281980&t=0)** - [Instructor] In this chapter and the next, we're going to look at the fundamentals of user interfaces inside the [[Unity]] engine.
 >
 > **[0:08](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/2d-projects-and-user-interfaces?u=76281980&t=8)** And we'll do that by completing a practical project together.
 >
@@ -228,7 +225,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/2d-projects-and-user-interfaces?u=76281980&t=251)** Then we have the background image itself.
 >
-> **[4:14](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/2d-projects-and-user-interfaces?u=76281980&t=254)** This is a matte painting that forms the backdrop for the entirety of the scene.
+> **[4:14](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/2d-projects-and-user-interfaces?u=76281980&t=254)** This is a matte painting that [[Forms]] the backdrop for the entirety of the scene.
 >
 > **[4:18](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/2d-projects-and-user-interfaces?u=76281980&t=258)** And then we also have the button elements here that are going to be used as the background for the buttons we can click on.
 >
@@ -262,7 +259,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (17), game (6), hit (2), next (1), web (1)
+> **Frameworks & Libraries:** [[Unity]] (17), [[Forms]] (1)
 > **UI Navigation:** select the (3), click on (2), dropdown (2)
 > **Exercise Files:** template (4), exercise files (3)
 > **Versions:** 2020.1.10 (2)
@@ -271,8 +268,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 
-#### Canvas and event systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/canvas-and-event-systems?u=76281980)
+#### [Canvas and event systems](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/canvas-and-event-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -292,7 +288,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/canvas-and-event-systems?u=76281980&t=42)** Great.
 >
-> **[0:43](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/canvas-and-event-systems?u=76281980&t=43)** Now, the next thing to do for a user interface is to create the surface on which the user interface will be presented by Unity.
+> **[0:43](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/canvas-and-event-systems?u=76281980&t=43)** Now, the next thing to do for a user interface is to create the surface on which the user interface will be presented by [[Unity]].
 >
 > **[0:51](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/canvas-and-event-systems?u=76281980&t=51)** That's pretty easy to set up.
 >
@@ -300,7 +296,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/canvas-and-event-systems?u=76281980&t=63)** Now, when you select canvas it creates this massive element all the way over here.
 >
-> **[1:10](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/canvas-and-event-systems?u=76281980&t=70)** I can zoom my mouse to bring that into view.
+> **[1:10](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/canvas-and-event-systems?u=76281980&t=70)** I can [[Zoom]] my mouse to bring that into view.
 >
 > **[1:13](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/canvas-and-event-systems?u=76281980&t=73)** This circle represents the center of the screen and these represent the corners of the screen.
 >
@@ -392,7 +388,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (6), next (3), [[Unity]] (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Unity]] (2), [[Zoom]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** select the (3)
 > **Definitions:** is a  (3)
@@ -401,8 +397,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a background and panel
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-a-background-and-panel?u=76281980)
+#### [Creating a background and panel](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-a-background-and-panel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -420,7 +415,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-a-background-and-panel?u=76281980&t=40)** Now, you might think that the best way to do that is by dragging and dropping the background into the scene but it really isn't.
 >
-> **[0:50](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-a-background-and-panel?u=76281980&t=50)** In creating this and by dragging and dropping the background, unity creates a sprite object.
+> **[0:50](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-a-background-and-panel?u=76281980&t=50)** In creating this and by dragging and dropping the background, [[Unity]] creates a sprite object.
 >
 > **[0:56](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-a-background-and-panel?u=76281980&t=56)** You can see from the inspector, it creates a sprite.
 >
@@ -510,15 +505,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (5), [[Unity]] (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[Unity]] (1)
 > **UI Navigation:** select the (4), drag and drop (3)
 > **CLI Commands:** make (1), snap (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating labels and text
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-labels-and-text?u=76281980)
+#### [Creating labels and text](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-labels-and-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -544,7 +538,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-labels-and-text?u=76281980&t=63)** I'm going to move it to the center and then make sure I select the wrecked tool so that I can reposition and resize the element.
 >
-> **[1:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-labels-and-text?u=76281980&t=71)** Let's zoom in just a little bit.
+> **[1:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-labels-and-text?u=76281980&t=71)** Let's [[Zoom]] in just a little bit.
 >
 > **[1:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-labels-and-text?u=76281980&t=72)** Move the top to here, just down a little bit to be consistent with this line in side the image.
 >
@@ -616,7 +610,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-labels-and-text?u=76281980&t=240)** And I know that the panel buttons occupies this area represented by this rectangle.
 >
-> **[4:07](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-labels-and-text?u=76281980&t=247)** You'll notice that all of the UI elements in Unity have a wrecked transform as opposed to the standard transform.
+> **[4:07](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-labels-and-text?u=76281980&t=247)** You'll notice that all of the UI elements in [[Unity]] have a wrecked transform as opposed to the standard transform.
 >
 > **[4:16](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-labels-and-text?u=76281980&t=256)** The standard transform represents position, rotation, and scale but erect transform represents the additional structure of a rectangle within the UI.
 >
@@ -640,7 +634,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (8), [[Zoom]] (2), [[Unity]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Unity]] (1)
 > **UI Navigation:** select the (4), scroll down (2), click on (2), dropdown (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** go back to (1)
@@ -648,8 +642,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Canvas groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/canvas-groups?u=76281980)
+#### [Canvas groups](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/canvas-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -671,7 +664,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/canvas-groups?u=76281980&t=74)** So how can we link these together so that I could fade out the entirety of this element, if I wanted to, both the panel and all of its children.
 >
-> **[1:24](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/canvas-groups?u=76281980&t=84)** The way you do that inside Unity is by using a Canvas Group component.
+> **[1:24](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/canvas-groups?u=76281980&t=84)** The way you do that inside [[Unity]] is by using a Canvas Group component.
 >
 > **[1:30](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/canvas-groups?u=76281980&t=90)** I'm going to select the object that I want to fade out along with its children.
 >
@@ -701,7 +694,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Unity]] (1), game (1)
+> **Frameworks & Libraries:** [[Unity]] (1)
 > **UI Navigation:** select the (2), go to (1), scroll down (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Definitions:** means that (1), is a  (1)
@@ -714,8 +707,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configuring sprite images
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/configuring-sprite-images?u=76281980)
+#### [Configuring sprite images](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/configuring-sprite-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -773,7 +765,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **UI Navigation:** select the (2), click on (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Prerequisites:** configure (2)
@@ -781,12 +772,11 @@ created: 2026-05-02
 > **Env Vars:** png (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Creating buttons
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-buttons?u=76281980)
+#### [Creating buttons](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-buttons?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-buttons?u=76281980&t=1)** - [Narrator] In the previous movie, we saw the Sprite selection feature of unity using the Sprite editor.
+> **[0:01](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-buttons?u=76281980&t=1)** - [Narrator] In the previous movie, we saw the Sprite selection feature of [[Unity]] using the Sprite editor.
 >
 > **[0:06](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-buttons?u=76281980&t=6)** This allowed me to select our options nine slice texture and Mark out the region.
 >
@@ -850,7 +840,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-buttons?u=76281980&t=197)** So I moved to the tax component and change the button, text to new game.
 >
-> **[3:23](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-buttons?u=76281980&t=203)** And if I zoom in you can already see the text here, but it's pretty small.
+> **[3:23](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-buttons?u=76281980&t=203)** And if I [[Zoom]] in you can already see the text here, but it's pretty small.
 >
 > **[3:28](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-buttons?u=76281980&t=208)** And in zooming in, as far as I am, it's actually looking pretty blurry and I don't want that at all.
 >
@@ -870,7 +860,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (8), [[Unity]] (2), next (2), [[Zoom]] (2), feature (1)
+> **Frameworks & Libraries:** [[Unity]] (2), [[Zoom]] (2)
 > **UI Navigation:** select the (3), click on (2)
 > **Prerequisites:** configure (4), set up (1)
 > **Analogies:** kind of like (2), such as (1)
@@ -879,8 +869,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Button states
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/button-states?u=76281980)
+#### [Button states](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/button-states?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -980,7 +969,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), data (1), next (1)
 > **UI Navigation:** click on (3), select the (1), dropdown (1), switch to (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -989,8 +977,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling button clicks
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/handling-button-clicks?u=76281980)
+#### [Handling button clicks](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/handling-button-clicks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1048,7 +1035,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/handling-button-clicks?u=76281980&t=144)** And a few options appear outside of the recording window.
 >
-> **[2:27](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/handling-button-clicks?u=76281980&t=147)** So I'm going to resize the unity window just a little bit here, so you have a better chance of seeing them.
+> **[2:27](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/handling-button-clicks?u=76281980&t=147)** So I'm going to resize the [[Unity]] window just a little bit here, so you have a better chance of seeing them.
 >
 > **[2:34](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/handling-button-clicks?u=76281980&t=154)** Choosing Game Object.
 >
@@ -1160,7 +1147,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (10), [[Unity]] (2), next (2), [[Scripting]] (1), hit (1)
+> **Frameworks & Libraries:** [[Unity]] (2)
 > **UI Navigation:** click on (4), select the (3), drag and drop (2), scroll down (2), toggle (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** in the next (1)
@@ -1168,8 +1155,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Layouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/layouts?u=76281980)
+#### [Layouts](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/layouts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1253,13 +1239,13 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/layouts?u=76281980&t=315)** Let's give this a test inside Play Mode just by hitting the Play button from the Toolbar and notice as I hover my mouse over each of these buttons, each one is responding individually to the mouse movement, new game, restore, and exit.
 >
-> **[5:31](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/layouts?u=76281980&t=331)** And it really is that quick and easy to configure a UI in unity.
+> **[5:31](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/layouts?u=76281980&t=331)** And it really is that quick and easy to configure a UI in [[Unity]].
 >
 > **[5:36](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/layouts?u=76281980&t=336)** And there we have a completed menu screen, easy stuff.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), next (1), [[Unity]] (1)
+> **Frameworks & Libraries:** [[Unity]] (1)
 > **UI Navigation:** dropdown (2), click on (1), right-click (1), drag and drop (1), select the (1)
 > **Prerequisites:** set up (2), configure (1)
 > **Analogies:** for example (2)
@@ -1271,8 +1257,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring 2D games
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/exploring-2d-games?u=76281980)
+#### [Exploring 2D games](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/exploring-2d-games?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1284,7 +1269,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/exploring-2d-games?u=76281980&t=17)** In particular, we're going to look at sprites, animated sprites, and other kinds of 2D games, complete with physics, as well as tile sets.
 >
-> **[0:26](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/exploring-2d-games?u=76281980&t=26)** To start to demonstrate the 2D features, I've opened up the 2D game kit project, provided by Unity Technologies.
+> **[0:26](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/exploring-2d-games?u=76281980&t=26)** To start to demonstrate the 2D features, I've opened up the 2D game kit project, provided by [[Unity]] Technologies.
 >
 > **[0:34](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/exploring-2d-games?u=76281980&t=34)** You can easily download this 2D game kit from the Unity Asset Store.
 >
@@ -1338,11 +1323,11 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/exploring-2d-games?u=76281980&t=195)** There's a lot of 2D objects set up here.
 >
-> **[3:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/exploring-2d-games?u=76281980&t=197)** In the next movie, we're going to look at the fundamental raw ingredient of 2D games and 2D products, and that is the sprite.
+> **[3:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/exploring-2d-games?u=76281980&t=197)** In the next movie, we're going to look at the fundamental raw ingredient of 2D games and 2D [[Microsoft Products|products]], and that is the sprite.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (9), [[Unity]] (5), hit (2), web (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Unity]] (5), [[Microsoft Products|Products]] (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** navigate to (1), go to (1)
 > **Definitions:** known as (1), is a  (1)
@@ -1350,8 +1335,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Importing sprites and sprite sheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/importing-sprites-and-sprite-sheets?u=76281980)
+#### [Importing sprites and sprite sheets](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/importing-sprites-and-sprite-sheets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1437,7 +1421,7 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/importing-sprites-and-sprite-sheets?u=76281980&t=317)** And it zoomed in a little bit here.
 >
-> **[5:18](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/importing-sprites-and-sprite-sheets?u=76281980&t=318)** I can zoom out simply by moving to the free aspect, check the uncheck, the low aspect resolution here, and I can make sure that my scale here is set to one.
+> **[5:18](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/importing-sprites-and-sprite-sheets?u=76281980&t=318)** I can [[Zoom]] out simply by moving to the free aspect, check the uncheck, the low aspect resolution here, and I can make sure that my scale here is set to one.
 >
 > **[5:28](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/importing-sprites-and-sprite-sheets?u=76281980&t=328)** I don't want this to be zoomed in.
 >
@@ -1445,13 +1429,13 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/importing-sprites-and-sprite-sheets?u=76281980&t=337)** How can I have this wall repeat?
 >
-> **[5:40](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/importing-sprites-and-sprite-sheets?u=76281980&t=340)** I guess one way we could do that is by selecting the wall tile sprite, duplicating it like a regular 3D object, and then vertex snapping it to this position here.
+> **[5:40](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/importing-sprites-and-sprite-sheets?u=76281980&t=340)** I guess one way we could do that is by selecting the wall tile sprite, duplicating it like a regular 3D object, and then [[Vertex]] snapping it to this position here.
 >
 > **[5:51](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/importing-sprites-and-sprite-sheets?u=76281980&t=351)** That is one way you can make a sprite tile, but it's not the only way.
 >
 > **[5:56](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/importing-sprites-and-sprite-sheets?u=76281980&t=356)** I'm going to select this duplicate, right-click and choose delete to remove it from the scene.
 >
-> **[6:02](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/importing-sprites-and-sprite-sheets?u=76281980&t=362)** You can select the original sprite texture down here inside the project panel, move to the object inspector, and under mesh type, where it says tight, you can change this to full wrecked, and then choose apply.
+> **[6:02](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/importing-sprites-and-sprite-sheets?u=76281980&t=362)** You can select the original sprite texture down here inside the project panel, move to the object inspector, and under [[Mesh]] type, where it says tight, you can change this to full wrecked, and then choose apply.
 >
 > **[6:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/importing-sprites-and-sprite-sheets?u=76281980&t=377)** When you do this, if you select the wall tile and move to the sprite renderer and change the drawer mode from simple to tiled, I can now select the sprite using the rect tool here, and begin to drag that off to the right hand side.
 >
@@ -1469,7 +1453,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (4), [[Zoom]] (1), [[Vertex]] (1), [[Mesh]] (1), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[Vertex]] (1), [[Mesh]] (1)
 > **UI Navigation:** select the (6), drag and drop (4), navigate to (1), right-click (1)
 > **CLI Commands:** make (6), find (1)
 > **Exercise Files:** exercise files (2)
@@ -1478,8 +1462,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Creating sprite animations
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-sprite-animations?u=76281980)
+#### [Creating sprite animations](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-sprite-animations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1495,7 +1478,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-sprite-animations?u=76281980&t=36)** That is the player character just standing on the spot, rocking slightly back and forth.
 >
-> **[0:42](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-sprite-animations?u=76281980&t=42)** I'm going to grab all of those frames and drag and drop them into unity here to import them all together.
+> **[0:42](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-sprite-animations?u=76281980&t=42)** I'm going to grab all of those frames and drag and drop them into [[Unity]] here to import them all together.
 >
 > **[0:50](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/creating-sprite-animations?u=76281980&t=50)** You can see those frames stancked up.
 >
@@ -1639,7 +1622,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (9), hit (7), data (6), [[Unity]] (3), game (2)
+> **Frameworks & Libraries:** [[Unity]] (3)
 > **UI Navigation:** select the (6), drag and drop (3), in the menu (1), checkbox (1), click on (1)
 > **CLI Commands:** node (9), make (2)
 > **Versions:** 0.5 (1), 1.4 (1), 1.2 (1)
@@ -1648,8 +1631,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sprites and 2D physics
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/sprites-and-2d-physics?u=76281980)
+#### [Sprites and 2D physics](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/sprites-and-2d-physics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1685,7 +1667,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/sprites-and-2d-physics?u=76281980&t=97)** This approximates, the volume of the object.
 >
-> **[1:39](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/sprites-and-2d-physics?u=76281980&t=99)** This tells Unity how big or small or what shape an object is.
+> **[1:39](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/sprites-and-2d-physics?u=76281980&t=99)** This tells [[Unity]] how big or small or what shape an object is.
 >
 > **[1:44](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/sprites-and-2d-physics?u=76281980&t=104)** To set that up, I'm going to select the player character, choose component, then select Physics 2D, and then select, well, I could choose a range of different Collider types.
 >
@@ -1707,7 +1689,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/sprites-and-2d-physics?u=76281980&t=155)** I can hit that button and resize the Collider by using these control handles just by clicking and dragging them into place.
 >
-> **[2:43](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/sprites-and-2d-physics?u=76281980&t=163)** Going to zoom in, so I can see this a bit more clearly.
+> **[2:43](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/sprites-and-2d-physics?u=76281980&t=163)** Going to [[Zoom]] in, so I can see this a bit more clearly.
 >
 > **[2:49](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/sprites-and-2d-physics?u=76281980&t=169)** I grabbed that, move to the side, grab that, move it to the side here, move it pretty close to the head of the character, somewhere around here.
 >
@@ -1769,7 +1751,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (2), hit (2), next (1), [[Zoom]] (1), game (1)
+> **Frameworks & Libraries:** [[Unity]] (2), [[Zoom]] (1)
 > **UI Navigation:** select the (3), scroll down (1), switch to (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** set up (3)
@@ -1783,8 +1765,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Importing and creating tilesets
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/importing-and-creating-tilesets?u=76281980)
+#### [Importing and creating tilesets](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/importing-and-creating-tilesets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1796,7 +1777,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/importing-and-creating-tilesets?u=76281980&t=19)** Let's see how to do that.
 >
-> **[0:20](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/importing-and-creating-tilesets?u=76281980&t=20)** To demonstrate tilesets, I'm going to be importing some textures into our Unity project.
+> **[0:20](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/importing-and-creating-tilesets?u=76281980&t=20)** To demonstrate tilesets, I'm going to be importing some textures into our [[Unity]] project.
 >
 > **[0:26](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/importing-and-creating-tilesets?u=76281980&t=26)** And these are taken from the 2D game kit that we've seen already.
 >
@@ -1952,7 +1933,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (6), game (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[Unity]] (6)
 > **UI Navigation:** drag and drop (3), click on (2), select the (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** env (1)
@@ -1961,12 +1942,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 
-#### Configuring 2D worlds
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/configuring-2d-worlds?u=76281980)
+#### [Configuring 2D worlds](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/configuring-2d-worlds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/configuring-2d-worlds?u=76281980&t=0)** - [Illustrator] In this movie, we're going to continue from the previous with our Tile Palette and begin to piece together, a tile set that we can put into a Unity level.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/configuring-2d-worlds?u=76281980&t=0)** - [Illustrator] In this movie, we're going to continue from the previous with our Tile Palette and begin to piece together, a tile set that we can put into a [[Unity]] level.
 >
 > **[0:10](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/configuring-2d-worlds?u=76281980&t=10)** We've already generated the Tile Palette itself, from the tiles that you can see positioned here inside the project panel.
 >
@@ -2068,7 +2048,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), [[Unity]] (1), data (1)
+> **Frameworks & Libraries:** [[Unity]] (1)
 > **Cross-References:** go back to (4)
 > **UI Navigation:** select the (2), click on (1), switch to (1)
 > **Analogies:** for example (3), kind of like (1)
@@ -2077,8 +2057,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Speakers:** - [illustrator] (1)
 
-#### Painting level layouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/painting-level-layouts?u=76281980)
+#### [Painting level layouts](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/painting-level-layouts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2150,7 +2129,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), data (3), next (2), game (1)
 > **Cross-References:** in the next (2)
 > **UI Navigation:** click on (1), select the (1)
 > **CLI Commands:** find (1)
@@ -2158,8 +2136,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with 2D tiles
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/working-with-2d-tiles?u=76281980)
+#### [Working with 2D tiles](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/working-with-2d-tiles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2185,13 +2162,13 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/working-with-2d-tiles?u=76281980&t=70)** But we can easily tweak it.
 >
-> **[1:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/working-with-2d-tiles?u=76281980&t=72)** It's going to allow us to build our own custom mesh.
+> **[1:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/working-with-2d-tiles?u=76281980&t=72)** It's going to allow us to build our own custom [[Mesh]].
 >
 > **[1:16](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/working-with-2d-tiles?u=76281980&t=76)** To do that, I'm going to move to the Polygon Collider 2D component and just hit that Edit Collider button.
 >
-> **[1:22](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/working-with-2d-tiles?u=76281980&t=82)** And when I do this and zoom in just a little bit, I can begin to move my mouse over these edges.
+> **[1:22](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/working-with-2d-tiles?u=76281980&t=82)** And when I do this and [[Zoom]] in just a little bit, I can begin to move my mouse over these edges.
 >
-> **[1:30](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/working-with-2d-tiles?u=76281980&t=90)** And already as I move my mouse over these edges, you can see it begins to slide a vertex along that edge, allowing me to reshape this collider.
+> **[1:30](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/working-with-2d-tiles?u=76281980&t=90)** And already as I move my mouse over these edges, you can see it begins to slide a [[Vertex]] along that edge, allowing me to reshape this collider.
 >
 > **[1:41](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/working-with-2d-tiles?u=76281980&t=101)** I'm going to move my mouse to this point here.
 >
@@ -2237,7 +2214,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[Mesh]] (1), [[Zoom]] (1), [[Vertex]] (1)
+> **Frameworks & Libraries:** [[Mesh]] (1), [[Zoom]] (1), [[Vertex]] (1)
 > **UI Navigation:** right-click (1), click on (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -2249,12 +2226,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/next-steps?u=76281980&t=0)** - [Instructor] Well, congratulations on reaching the end of this course in Unity Certified Associate Training for 2D and User Interfaces presented by LinkedIn Learning.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/next-steps?u=76281980&t=0)** - [Instructor] Well, congratulations on reaching the end of this course in [[Unity]] Certified Associate Training for 2D and User Interfaces presented by [[LinkedIn]] Learning.
 >
 > **[0:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-ui-and-2d-games/next-steps?u=76281980&t=12)** Over this course, over the course of the chapters here, we've seen a broad range of Unity 2D features, including how to import sprites like animated characters and title sequences, how to animate them, how to set up the frames, how to slice out sprites from different kinds of sprite sheets, how to bring different user interface elements into Unity, such as 9-slice scaling components, and how to set those up to create a user interface that is responsive and fits a variety of different screen sizes.
 >

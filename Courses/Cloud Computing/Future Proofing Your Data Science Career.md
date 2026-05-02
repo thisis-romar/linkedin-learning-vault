@@ -96,8 +96,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data science is disrupting every business
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-science-is-disrupting-every-business?u=76281980)
+#### [Data science is disrupting every business](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-science-is-disrupting-every-business?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -119,7 +118,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-science-is-disrupting-every-business?u=76281980&t=41)** There was a point in my music career around the mid 80s when I realized that music was becoming data, and I had to embrace that change and evolve my own career.
 >
-> **[0:49](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-science-is-disrupting-every-business?u=76281980&t=49)** Based on how I successfully navigated these various roles, I put together what I call a Future Career Toolkit that can help you successfully evolve your data science career.
+> **[0:49](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-science-is-disrupting-every-business?u=76281980&t=49)** Based on how I successfully navigated these various roles, I put together what I call a Future Career Toolkit that can help you successfully evolve your [[Data Science]] career.
 >
 > **[1:01](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-science-is-disrupting-every-business?u=76281980&t=61)** I'm going to start by orienting you to how we got to this place, provide insight on historical precedents from both a technical, as well as a business and cultural, perspective.
 >
@@ -131,19 +130,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), career (6), business (1)
+> **Frameworks & Libraries:** [[Data Science]] (5)
 > **Non-Speech:** (upbeat music) (5)
 > **Env Vars:** ibm (1)
 > **Speakers:** - to (1)
 
-#### The new workplace
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-new-workplace?u=76281980)
+#### [The new workplace](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-new-workplace?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-new-workplace?u=76281980&t=0)** - Research indicates that 85% of the jobs today's learners will be doing during their lifetime have not been invented yet and that they'll be using technology that does not exist today to solve problems we don't yet know are problems.
 >
-> **[0:16](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-new-workplace?u=76281980&t=16)** The U.S. Bureau of Labor Statistics says that today's learners will have eight to 10 jobs by the time they're 38.
+> **[0:16](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-new-workplace?u=76281980&t=16)** The U.S. Bureau of Labor [[Statistics]] says that today's learners will have eight to 10 jobs by the time they're 38.
 >
 > **[0:23](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-new-workplace?u=76281980&t=23)** The broad implications are that this represents tremendous opportunities for data scientists.
 >
@@ -165,7 +163,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-new-workplace?u=76281980&t=94)** "The companies that embrace this fact are "the ones that shape our world."
 >
-> **[1:38](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-new-workplace?u=76281980&t=98)** At the very least, not adopting the power of data science represents potentially missed business opportunities.
+> **[1:38](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-new-workplace?u=76281980&t=98)** At the very least, not adopting the power of [[Data Science]] represents potentially missed business opportunities.
 >
 > **[1:45](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-new-workplace?u=76281980&t=105)** An alternative scenario is that a company might become a target for acquisition.
 >
@@ -179,7 +177,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), business (2), [[Statistics]] (1), next (1), career (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Statistics]] (1)
 > **Env Vars:** mit (1), cio (1)
 > **Definitions:** is a  (2)
 > **Warnings:** keep in mind (1)
@@ -190,8 +188,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A brief history of machines helping humans
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/a-brief-history-of-machines-helping-humans?u=76281980)
+#### [A brief history of machines helping humans](https://www.linkedin.com/learning/future-proofing-your-data-science-career/a-brief-history-of-machines-helping-humans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -223,15 +220,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), ai (1)
 > **Speakers:** - technology (1)
 
-#### Data throughout history
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-throughout-history?u=76281980)
+#### [Data throughout history](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-throughout-history?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-throughout-history?u=76281980&t=0)** - A good place to start when considering the history of data science is in the early part of the 19th century.
+> **[0:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-throughout-history?u=76281980&t=0)** - A good place to start when considering the history of [[Data Science]] is in the early part of the 19th century.
 >
 > **[0:07](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-throughout-history?u=76281980&t=7)** An English inventor and mechanical engineer named Charles Babbage designed a machine to mimic human learning and problem solving.
 >
@@ -285,7 +280,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), application (2), business (2)
+> **Frameworks & Libraries:** [[Data Science]] (5)
 > **File Paths:** b.c (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** arpanet (1)
@@ -298,14 +293,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data science drives Wall Street and Main Street
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-science-drives-wall-street-and-main-street?u=76281980)
+#### [Data science drives Wall Street and Main Street](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-science-drives-wall-street-and-main-street?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-science-drives-wall-street-and-main-street?u=76281980&t=0)** - Data powers everything we do these days.
 >
-> **[0:03](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-science-drives-wall-street-and-main-street?u=76281980&t=3)** That means that the ways in which organizations identify, accumulate, disseminate, study, store, and act upon data is one of the most important jobs out there, which is why data science is such a burgeoning field, and why it's impacting every industry, and every function, in every geography.
+> **[0:03](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-science-drives-wall-street-and-main-street?u=76281980&t=3)** That means that the ways in which organizations identify, accumulate, disseminate, study, store, and act upon data is one of the most important jobs out there, which is why [[Data Science]] is such a burgeoning field, and why it's impacting every industry, and every function, in every geography.
 >
 > **[0:23](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-science-drives-wall-street-and-main-street?u=76281980&t=23)** The main factor driving this transition at a meta level is the shift from analog data to digital data.
 >
@@ -317,7 +311,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-science-drives-wall-street-and-main-street?u=76281980&t=53)** The viscosity of data continues to decrease as the volume of digits increases.
 >
-> **[0:58](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-science-drives-wall-street-and-main-street?u=76281980&t=58)** We find ourselves in the era of big data, dealing with a tsunami of information.
+> **[0:58](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-science-drives-wall-street-and-main-street?u=76281980&t=58)** We find ourselves in the era of [[Big Data]], dealing with a tsunami of information.
 >
 > **[1:04](https://www.linkedin.com/learning/future-proofing-your-data-science-career/data-science-drives-wall-street-and-main-street?u=76281980&t=64)** Managing this deluge is increasingly critical to how successful companies generate attributable revenue, take market share, improve productivity, and become more efficient.
 >
@@ -335,19 +329,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), business (2), cloud (1), [[Big Data]] (1), ai (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Big Data]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
 > **Speakers:** - data (1)
 
-#### Where is all the data coming from?
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/where-is-all-the-data-coming-from?u=76281980)
+#### [Where is all the data coming from?](https://www.linkedin.com/learning/future-proofing-your-data-science-career/where-is-all-the-data-coming-from?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/where-is-all-the-data-coming-from?u=76281980&t=0)** - Numerous technology trends are also driving the transformation of business models across a range of verticals.
 >
-> **[0:07](https://www.linkedin.com/learning/future-proofing-your-data-science-career/where-is-all-the-data-coming-from?u=76281980&t=7)** We're in the process right now of giving the world a digital nervous system made up of cognitive objects, what we're calling the Internet of Things.
+> **[0:07](https://www.linkedin.com/learning/future-proofing-your-data-science-career/where-is-all-the-data-coming-from?u=76281980&t=7)** We're in the process right now of giving the world a digital nervous system made up of cognitive objects, what we're calling the [[IoT|Internet of Things]].
 >
 > **[0:15](https://www.linkedin.com/learning/future-proofing-your-data-science-career/where-is-all-the-data-coming-from?u=76281980&t=15)** In the last two decades, more than six billion devices have come online.
 >
@@ -355,11 +348,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/future-proofing-your-data-science-career/where-is-all-the-data-coming-from?u=76281980&t=26)** That's an astounding number of devices.
 >
-> **[0:30](https://www.linkedin.com/learning/future-proofing-your-data-science-career/where-is-all-the-data-coming-from?u=76281980&t=30)** Collectively, the IoT today generates more than two and a half quintillion bytes of data daily.
+> **[0:30](https://www.linkedin.com/learning/future-proofing-your-data-science-career/where-is-all-the-data-coming-from?u=76281980&t=30)** Collectively, the [[IoT]] today generates more than two and a half quintillion bytes of data daily.
 >
 > **[0:36](https://www.linkedin.com/learning/future-proofing-your-data-science-career/where-is-all-the-data-coming-from?u=76281980&t=36)** This ever-expanding footprint, with IP addresses assigned to everything from vehicles, to clothing, to appliances will drive the need for smart collection and strategic analysis of myriad data sources coming from unlikely settings.
 >
-> **[0:51](https://www.linkedin.com/learning/future-proofing-your-data-science-career/where-is-all-the-data-coming-from?u=76281980&t=51)** Healthcare backend systems now leverage data science to capture patient information and electronic health records, as well as improve billing systems.
+> **[0:51](https://www.linkedin.com/learning/future-proofing-your-data-science-career/where-is-all-the-data-coming-from?u=76281980&t=51)** Healthcare backend systems now leverage [[Data Science]] to capture patient information and electronic health records, as well as improve billing systems.
 >
 > **[1:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/where-is-all-the-data-coming-from?u=76281980&t=60)** New wearable sensors are going to help track a patient's health trends, like blood pressure.
 >
@@ -367,7 +360,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/future-proofing-your-data-science-career/where-is-all-the-data-coming-from?u=76281980&t=80)** Even businesses like agriculture that have traditionally relied heavily on manual labor are adopting data science-enabled practices.
 >
-> **[1:28](https://www.linkedin.com/learning/future-proofing-your-data-science-career/where-is-all-the-data-coming-from?u=76281980&t=88)** Information gathered from sensors attached to farm machinery as well as drones that are flying overhead let agri-businesses use data science to address a range of challenges including labor shortages, soil health, food spoilage, yield information and even commodity forecasting.
+> **[1:28](https://www.linkedin.com/learning/future-proofing-your-data-science-career/where-is-all-the-data-coming-from?u=76281980&t=88)** Information gathered from sensors attached to farm machinery as well as drones that are flying overhead let agri-businesses use data science to address a range of challenges including labor shortages, soil health, food spoilage, yield information and even commodity [[Forecasting]].
 >
 > **[1:46](https://www.linkedin.com/learning/future-proofing-your-data-science-career/where-is-all-the-data-coming-from?u=76281980&t=106)** Climate monitoring is now a data science opportunity.
 >
@@ -379,13 +372,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), business (1), [[Internet of Things (IoT)|Internet of things]] (1), [[IoT]] (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (4), [[IoT|Internet of things]] (1), [[IoT]] (1), [[Forecasting]] (1)
 > **Env Vars:** ibm (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - numerous (1)
 
-#### Businesses of the future
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/businesses-of-the-future?u=76281980)
+#### [Businesses of the future](https://www.linkedin.com/learning/future-proofing-your-data-science-career/businesses-of-the-future?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -415,7 +407,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (1)
 > **Env Vars:** nasa (3)
 > **Speakers:** - as (1)
 
@@ -424,8 +415,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing the emerging data science job market
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/managing-the-emerging-data-science-job-market?u=76281980)
+#### [Managing the emerging data science job market](https://www.linkedin.com/learning/future-proofing-your-data-science-career/managing-the-emerging-data-science-job-market?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -433,7 +423,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/future-proofing-your-data-science-career/managing-the-emerging-data-science-job-market?u=76281980&t=6)** And they are increasingly in unlikely places, especially the interesting and really creative ones.
 >
-> **[0:12](https://www.linkedin.com/learning/future-proofing-your-data-science-career/managing-the-emerging-data-science-job-market?u=76281980&t=12)** As new technologies continue to emerge, and historically disconnected disciplines continue to evolve, data science is becoming kind of a connective tissue that weaves these new business models and work paradigms together.
+> **[0:12](https://www.linkedin.com/learning/future-proofing-your-data-science-career/managing-the-emerging-data-science-job-market?u=76281980&t=12)** As new technologies continue to emerge, and historically disconnected disciplines continue to evolve, [[Data Science]] is becoming kind of a connective tissue that weaves these new business models and work paradigms together.
 >
 > **[0:26](https://www.linkedin.com/learning/future-proofing-your-data-science-career/managing-the-emerging-data-science-job-market?u=76281980&t=26)** The future career tool kit will help you stay on top of this trending, and help you map your skills and interests to the future data science fields so you can make smart, strategic decisions about where your next career opportunity might be.
 >
@@ -455,13 +445,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), career (2), business (1), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - since (1)
 
-#### Three tools to navigate your career(s)
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/three-tools-to-navigate-your-career-s?u=76281980)
+#### [Three tools to navigate your career(s)](https://www.linkedin.com/learning/future-proofing-your-data-science-career/three-tools-to-navigate-your-career-s?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -475,9 +464,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/future-proofing-your-data-science-career/three-tools-to-navigate-your-career-s?u=76281980&t=26)** I also had to objectively assess, each time, what skills I had that were transferable as well as what the gap was, what I'd need to learn in order to move to my next career.
 >
-> **[0:38](https://www.linkedin.com/learning/future-proofing-your-data-science-career/three-tools-to-navigate-your-career-s?u=76281980&t=38)** With the Future Career Toolkit I focus on three main areas that I call voice, antenna, and mesh.
+> **[0:38](https://www.linkedin.com/learning/future-proofing-your-data-science-career/three-tools-to-navigate-your-career-s?u=76281980&t=38)** With the Future Career Toolkit I focus on three main areas that I call voice, antenna, and [[Mesh]].
 >
-> **[0:44](https://www.linkedin.com/learning/future-proofing-your-data-science-career/three-tools-to-navigate-your-career-s?u=76281980&t=44)** These tools will give you a set of tactical, repeatable processes that you can use to proactively future proof your evolving data science career.
+> **[0:44](https://www.linkedin.com/learning/future-proofing-your-data-science-career/three-tools-to-navigate-your-career-s?u=76281980&t=44)** These tools will give you a set of tactical, repeatable processes that you can use to proactively future proof your evolving [[Data Science]] career.
 >
 > **[0:53](https://www.linkedin.com/learning/future-proofing-your-data-science-career/three-tools-to-navigate-your-career-s?u=76281980&t=53)** Let me explain what each one is.
 >
@@ -495,7 +484,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (7), data (6), next (4), [[Mesh]] (3), strengths (1)
+> **Frameworks & Libraries:** [[Data Science]] (4), [[Mesh]] (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - the (1)
 
@@ -504,8 +493,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is your VOICE?
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/what-is-your-voice?u=76281980)
+#### [What is your VOICE?](https://www.linkedin.com/learning/future-proofing-your-data-science-career/what-is-your-voice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -519,7 +507,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/future-proofing-your-data-science-career/what-is-your-voice?u=76281980&t=26)** While environment plays a huge role, don't get me wrong, the real key to lifelong success is figuring out what you do well and focusing on it.
 >
-> **[0:35](https://www.linkedin.com/learning/future-proofing-your-data-science-career/what-is-your-voice?u=76281980&t=35)** It sounds way too simple, but this is a critical assessment you need to make in order to advance your data science career, in fact any career.
+> **[0:35](https://www.linkedin.com/learning/future-proofing-your-data-science-career/what-is-your-voice?u=76281980&t=35)** It sounds way too simple, but this is a critical assessment you need to make in order to advance your [[Data Science]] career, in fact any career.
 >
 > **[0:45](https://www.linkedin.com/learning/future-proofing-your-data-science-career/what-is-your-voice?u=76281980&t=45)** What is the combination of skills and experience that you bring to the planet, to your everyday interaction, to the global talent marketplace eager to hire smart, passionate data scientists?
 >
@@ -533,20 +521,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), career (3)
+> **Frameworks & Libraries:** [[Data Science]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - i (1)
 
-#### The importance of brand
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-importance-of-brand?u=76281980)
+#### [The importance of brand](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-importance-of-brand?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-importance-of-brand?u=76281980&t=0)** - This process of finding your voice based on the need to create a personal brand has evolved over the past 25 years or so and it's driven by many different factors that include social media, the emerging gig economy, and increased globalization.
 >
-> **[0:16](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-importance-of-brand?u=76281980&t=16)** At the same time, the field of data science is being driven by changes in work models at a meta level, changes that are really affecting every career path.
+> **[0:16](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-importance-of-brand?u=76281980&t=16)** At the same time, the field of [[Data Science]] is being driven by changes in work models at a meta level, changes that are really affecting every career path.
 >
 > **[0:25](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-importance-of-brand?u=76281980&t=25)** The objective of this exercise is to give you clarity on your own voice as a key component of the value that you bring to the job marketplace.
 >
@@ -556,7 +543,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-importance-of-brand?u=76281980&t=53)** We're all familiar with the importance of brands from a consumer perspective, but in terms of individual people, used to be that only a comparatively small subset of the population had the need for a public personal brand or voice.
 >
-> **[1:07](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-importance-of-brand?u=76281980&t=67)** The need for personal branding was essentially confined to people like major movie stars, famous athletes, successful politicians, gifted musicians, innovative artists.
+> **[1:07](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-importance-of-brand?u=76281980&t=67)** The need for [[Personal Branding]] was essentially confined to people like major movie stars, famous athletes, successful politicians, gifted musicians, innovative artists.
 >
 > **[1:18](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-importance-of-brand?u=76281980&t=78)** But if you think about it, from a historical perspective, major thinkers, contributors to culture and society for literally thousands of years had, what could be termed, a voice or a brand.
 >
@@ -566,7 +553,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-importance-of-brand?u=76281980&t=111)** Their brands live on.
 >
-> **[1:53](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-importance-of-brand?u=76281980&t=113)** Some used clay tablets, others relied only on the spoken word.
+> **[1:53](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-importance-of-brand?u=76281980&t=113)** Some used clay tablets, others relied only on the spoken [[Microsoft Word|word]].
 >
 > **[1:58](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-importance-of-brand?u=76281980&t=118)** Several created content with a quill pen, still others leveraged printed materials, like books and papers.
 >
@@ -574,11 +561,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), career (2), [[Personal Branding]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Personal Branding]] (1), [[Microsoft Word|Word]] (1)
 > **Speakers:** - this (1)
 
-#### Your personal brand
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/your-personal-brand?u=76281980)
+#### [Your personal brand](https://www.linkedin.com/learning/future-proofing-your-data-science-career/your-personal-brand?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -600,13 +586,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1), find (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - here (1)
 
-#### Identify your interests
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/identify-your-interests?u=76281980)
+#### [Identify your interests](https://www.linkedin.com/learning/future-proofing-your-data-science-career/identify-your-interests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -614,7 +598,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/future-proofing-your-data-science-career/identify-your-interests?u=76281980&t=16)** Ideation is technically defined as a way to produce multiple ideas to address a problem statement using a facilitated process.
 >
-> **[0:26](https://www.linkedin.com/learning/future-proofing-your-data-science-career/identify-your-interests?u=76281980&t=26)** By uncovering areas of interest and passion, you can more easily decide where to focus, both in terms of what specific industry or type of organization you might want to work for as well as what additional skills you might need to acquire to be successful in your next data science career.
+> **[0:26](https://www.linkedin.com/learning/future-proofing-your-data-science-career/identify-your-interests?u=76281980&t=26)** By uncovering areas of interest and passion, you can more easily decide where to focus, both in terms of what specific industry or type of organization you might want to work for as well as what additional skills you might need to acquire to be successful in your next [[Data Science]] career.
 >
 > **[0:43](https://www.linkedin.com/learning/future-proofing-your-data-science-career/identify-your-interests?u=76281980&t=43)** Here's how this works.
 >
@@ -636,13 +620,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1), career (1), game (1)
+> **Frameworks & Libraries:** [[Data Science]] (2)
 > **Definitions:** defined as (1)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
-#### Identify your triggers
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/identify-your-triggers?u=76281980)
+#### [Identify your triggers](https://www.linkedin.com/learning/future-proofing-your-data-science-career/identify-your-triggers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -666,23 +649,22 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/future-proofing-your-data-science-career/identify-your-triggers?u=76281980&t=67)** Not only did the theme you select clearly represent your interests, but by implication, they reflect your skills and talents, as well.
 >
-> **[1:15](https://www.linkedin.com/learning/future-proofing-your-data-science-career/identify-your-triggers?u=76281980&t=75)** The characteristics that these triggers reveal will provide the framework you can use to guide you to your next data science career and the one after that and the one after that.
+> **[1:15](https://www.linkedin.com/learning/future-proofing-your-data-science-career/identify-your-triggers?u=76281980&t=75)** The characteristics that these triggers reveal will provide the framework you can use to guide you to your next [[Data Science]] career and the one after that and the one after that.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), next (1), data (1), career (1)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### Building your VOICE table
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/building-your-voice-table?u=76281980)
+#### [Building your VOICE table](https://www.linkedin.com/learning/future-proofing-your-data-science-career/building-your-voice-table?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/building-your-voice-table?u=76281980&t=0)** - Now, I want you to build a table using the triggers and the qualities you discovered.
 >
-> **[0:06](https://www.linkedin.com/learning/future-proofing-your-data-science-career/building-your-voice-table?u=76281980&t=6)** Think about how your triggers might translate into a career in data science.
+> **[0:06](https://www.linkedin.com/learning/future-proofing-your-data-science-career/building-your-voice-table?u=76281980&t=6)** Think about how your triggers might translate into a career in [[Data Science]].
 >
 > **[0:11](https://www.linkedin.com/learning/future-proofing-your-data-science-career/building-your-voice-table?u=76281980&t=11)** We've provided a simple table in the resource materials that you can use to capture these data points.
 >
@@ -700,7 +682,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/future-proofing-your-data-science-career/building-your-voice-table?u=76281980&t=57)** Andrew was particularly interested in learning about the processes that drive global economics.
 >
-> **[1:03](https://www.linkedin.com/learning/future-proofing-your-data-science-career/building-your-voice-table?u=76281980&t=63)** Based on this specific trigger, he might want to focus on data science opportunities in financial services organizations, for example, or possibly investigate working for a firm that is looking at macroeconomic trends and how to apply data science skills to advance, say predictive analytics or logistics management for a global trade organization.
+> **[1:03](https://www.linkedin.com/learning/future-proofing-your-data-science-career/building-your-voice-table?u=76281980&t=63)** Based on this specific trigger, he might want to focus on data science opportunities in financial services organizations, for example, or possibly investigate working for a firm that is looking at macroeconomic trends and how to apply data science skills to advance, say [[Predictive Analytics]] or logistics management for a global trade organization.
 >
 > **[1:25](https://www.linkedin.com/learning/future-proofing-your-data-science-career/building-your-voice-table?u=76281980&t=85)** Again, this is all coming from that one trigger.
 >
@@ -712,13 +694,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), career (2), next (2), business (1), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Predictive Analytics]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)
 
-#### That is what I can do, that nobody else can do
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/that-is-what-i-can-do-that-nobody-else-can-do?u=76281980)
+#### [That is what I can do, that nobody else can do](https://www.linkedin.com/learning/future-proofing-your-data-science-career/that-is-what-i-can-do-that-nobody-else-can-do?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -728,7 +709,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/future-proofing-your-data-science-career/that-is-what-i-can-do-that-nobody-else-can-do?u=76281980&t=13)** So we're sitting there and as the two inch tape is going by, it's a big reel, it's spinning by the playback head, and he's listening very thoughtfully and focused on what he had just played, what he just recorded.
 >
-> **[0:25](https://www.linkedin.com/learning/future-proofing-your-data-science-career/that-is-what-i-can-do-that-nobody-else-can-do?u=76281980&t=25)** And he turns to me at one point and says, "That's my John Coltrane inspired lick."
+> **[0:25](https://www.linkedin.com/learning/future-proofing-your-data-science-career/that-is-what-i-can-do-that-nobody-else-can-do?u=76281980&t=25)** And he turns to me at one point and says, "That's my [[John the Ripper|John]] Coltrane inspired lick."
 >
 > **[0:30](https://www.linkedin.com/learning/future-proofing-your-data-science-career/that-is-what-i-can-do-that-nobody-else-can-do?u=76281980&t=30)** And I listened to a lot of John Coltrane, I loved his tone.
 >
@@ -750,6 +731,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[John the Ripper|John]] (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - i (1)
 
@@ -758,14 +740,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### ANTENNA overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/antenna-overview?u=76281980)
+#### [ANTENNA overview](https://www.linkedin.com/learning/future-proofing-your-data-science-career/antenna-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/antenna-overview?u=76281980&t=0)** - Based on the first future career tool exercise, you've identified your current voice characteristics.
 >
-> **[0:07](https://www.linkedin.com/learning/future-proofing-your-data-science-career/antenna-overview?u=76281980&t=7)** These will help you define what you will do in the data science base.
+> **[0:07](https://www.linkedin.com/learning/future-proofing-your-data-science-career/antenna-overview?u=76281980&t=7)** These will help you define what you will do in the [[Data Science]] base.
 >
 > **[0:11](https://www.linkedin.com/learning/future-proofing-your-data-science-career/antenna-overview?u=76281980&t=11)** They represent the qualities that make you you, that drive you and excite you, that motivate you, and they're clear indicators of where you want to focus, at least for now.
 >
@@ -797,13 +778,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), career (4), next (2)
+> **Frameworks & Libraries:** [[Data Science]] (7)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - based (1)
 
-#### Where are the conversations happening?
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/where-are-the-conversations-happening?u=76281980)
+#### [Where are the conversations happening?](https://www.linkedin.com/learning/future-proofing-your-data-science-career/where-are-the-conversations-happening?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -819,9 +799,9 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/future-proofing-your-data-science-career/where-are-the-conversations-happening?u=76281980&t=35)** Believe me I still struggle with this myself.
 >
-> **[0:38](https://www.linkedin.com/learning/future-proofing-your-data-science-career/where-are-the-conversations-happening?u=76281980&t=38)** You're looking to find discussions around innovative and evolving technologies and their attendant business models, all of which have implications for data science.
+> **[0:38](https://www.linkedin.com/learning/future-proofing-your-data-science-career/where-are-the-conversations-happening?u=76281980&t=38)** You're looking to find discussions around innovative and evolving technologies and their attendant business models, all of which have implications for [[Data Science]].
 >
-> **[0:48](https://www.linkedin.com/learning/future-proofing-your-data-science-career/where-are-the-conversations-happening?u=76281980&t=48)** This will include the development of products and services driven by new inventions and patents, research being conducted in corporate and university R&D labs, as well as atypical business relationships.
+> **[0:48](https://www.linkedin.com/learning/future-proofing-your-data-science-career/where-are-the-conversations-happening?u=76281980&t=48)** This will include the development of [[Microsoft Products|products]] and services driven by new inventions and patents, research being conducted in corporate and university R&D labs, as well as atypical business relationships.
 >
 > **[1:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/where-are-the-conversations-happening?u=76281980&t=60)** The key to future proofing your data science career is to find these conversations, the ones that align with your areas of interest that you uncovered in the voice exercise.
 >
@@ -847,14 +827,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), career (3), business (2), [[Microsoft Products|Products]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** mit (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### Building the new career grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/building-the-new-career-grid?u=76281980)
+#### [Building the new career grid](https://www.linkedin.com/learning/future-proofing-your-data-science-career/building-the-new-career-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -876,7 +855,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/future-proofing-your-data-science-career/building-the-new-career-grid?u=76281980&t=31)** Might be a social media account.
 >
-> **[0:33](https://www.linkedin.com/learning/future-proofing-your-data-science-career/building-the-new-career-grid?u=76281980&t=33)** Might be a YouTube channel, even a LinkedIn group.
+> **[0:33](https://www.linkedin.com/learning/future-proofing-your-data-science-career/building-the-new-career-grid?u=76281980&t=33)** Might be a YouTube channel, even a [[LinkedIn]] group.
 >
 > **[0:36](https://www.linkedin.com/learning/future-proofing-your-data-science-career/building-the-new-career-grid?u=76281980&t=36)** Could be something else.
 >
@@ -886,7 +865,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/future-proofing-your-data-science-career/building-the-new-career-grid?u=76281980&t=57)** You can start by scanning your inbox.
 >
-> **[1:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/building-the-new-career-grid?u=76281980&t=60)** Look for any newsletters you subscribe to that connect to topics from the voice exercise.
+> **[1:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/building-the-new-career-grid?u=76281980&t=60)** Look for any [[Newsletters]] you subscribe to that connect to topics from the voice exercise.
 >
 > **[1:05](https://www.linkedin.com/learning/future-proofing-your-data-science-career/building-the-new-career-grid?u=76281980&t=65)** So you make a list of the apps on your phone that provide content.
 >
@@ -906,8 +885,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Start developing your ANTENNA
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-developing-your-antenna?u=76281980)
+#### [Start developing your ANTENNA](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-developing-your-antenna?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -931,9 +909,9 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-developing-your-antenna?u=76281980&t=61)** For the global economics attribute he plans to monitor the tech section on the Wall Street Journal website which is updated daily.
 >
-> **[1:08](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-developing-your-antenna?u=76281980&t=68)** Additionally, he found a relevant LinkedIn group that's called The Global Economist Network and he plans to check on this every three or four weeks based on how often people seem to be posting content.
+> **[1:08](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-developing-your-antenna?u=76281980&t=68)** Additionally, he found a relevant [[LinkedIn]] group that's called The Global Economist Network and he plans to check on this every three or four weeks based on how often people seem to be posting content.
 >
-> **[1:19](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-developing-your-antenna?u=76281980&t=79)** I also suggested that he add a general data science source so he subscribed to the Super Data Science Podcast which publishes new content once every week.
+> **[1:19](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-developing-your-antenna?u=76281980&t=79)** I also suggested that he add a general [[Data Science]] source so he subscribed to the Super Data Science Podcast which publishes new content once every week.
 >
 > **[1:30](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-developing-your-antenna?u=76281980&t=90)** This is a great start.
 >
@@ -941,15 +919,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (2), business (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Keep a journal
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/keep-a-journal?u=76281980)
+#### [Keep a journal](https://www.linkedin.com/learning/future-proofing-your-data-science-career/keep-a-journal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -963,9 +940,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/future-proofing-your-data-science-career/keep-a-journal?u=76281980&t=16)** Make a note of the source, maybe the title of the article and the name of the author, and then add a simple summary of the content.
 >
-> **[0:24](https://www.linkedin.com/learning/future-proofing-your-data-science-career/keep-a-journal?u=76281980&t=24)** Describe what you think the data science and business implications might be, just a sentence or two, you don't need to over-engineer it.
+> **[0:24](https://www.linkedin.com/learning/future-proofing-your-data-science-career/keep-a-journal?u=76281980&t=24)** Describe what you think the [[Data Science]] and business implications might be, just a sentence or two, you don't need to over-engineer it.
 >
-> **[0:33](https://www.linkedin.com/learning/future-proofing-your-data-science-career/keep-a-journal?u=76281980&t=33)** Keep in mind we're going to use the author information for the third future career tool exercise called MESH.
+> **[0:33](https://www.linkedin.com/learning/future-proofing-your-data-science-career/keep-a-journal?u=76281980&t=33)** Keep in mind we're going to use the author information for the third future career tool exercise called [[Mesh]].
 >
 > **[0:40](https://www.linkedin.com/learning/future-proofing-your-data-science-career/keep-a-journal?u=76281980&t=40)** The value is that your more formally teasing out topics of interest for future data science careers as well as beginning to discover who's involved in these relevant conversations.
 >
@@ -977,14 +954,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), business (1), career (1), [[Mesh]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Mesh]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** mesh (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - now (1)
 
-#### How ANTENNA helped me
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/how-antenna-helped-me?u=76281980)
+#### [How ANTENNA helped me](https://www.linkedin.com/learning/future-proofing-your-data-science-career/how-antenna-helped-me?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1006,7 +982,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/future-proofing-your-data-science-career/how-antenna-helped-me?u=76281980&t=63)** I read magazines like "Macworld" and "PC World".
 >
-> **[1:06](https://www.linkedin.com/learning/future-proofing-your-data-science-career/how-antenna-helped-me?u=76281980&t=66)** I took HTML classes.
+> **[1:06](https://www.linkedin.com/learning/future-proofing-your-data-science-career/how-antenna-helped-me?u=76281980&t=66)** I took [[HTML]] classes.
 >
 > **[1:08](https://www.linkedin.com/learning/future-proofing-your-data-science-career/how-antenna-helped-me?u=76281980&t=68)** I went to a lot of events, internet world events.
 >
@@ -1028,7 +1004,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), career (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** ibm (2), html (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** source code (1)
@@ -1039,8 +1015,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### It is not what you know, but who you know
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-is-not-what-you-know-but-who-you-know?u=76281980)
+#### [It is not what you know, but who you know](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-is-not-what-you-know-but-who-you-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1048,9 +1023,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-is-not-what-you-know-but-who-you-know?u=76281980&t=6)** And that is, it's not what you know, it's who you know.
 >
-> **[0:10](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-is-not-what-you-know-but-who-you-know?u=76281980&t=10)** So the Mesh exercise is going to help you figure out, not only who you know, but more importantly, who you don't know and need to know in order to advance your career.
+> **[0:10](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-is-not-what-you-know-but-who-you-know?u=76281980&t=10)** So the [[Mesh]] exercise is going to help you figure out, not only who you know, but more importantly, who you don't know and need to know in order to advance your career.
 >
-> **[0:20](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-is-not-what-you-know-but-who-you-know?u=76281980&t=20)** The objective is to identify people who can help you successfully navigate your data science career journey, starting with your next opportunity.
+> **[0:20](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-is-not-what-you-know-but-who-you-know?u=76281980&t=20)** The objective is to identify people who can help you successfully navigate your [[Data Science]] career journey, starting with your next opportunity.
 >
 > **[0:30](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-is-not-what-you-know-but-who-you-know?u=76281980&t=30)** Building a future-focused mega-network, what I call a Mesh, is critically important in the evolving global borderless workplace.
 >
@@ -1066,7 +1041,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-is-not-what-you-know-but-who-you-know?u=76281980&t=62)** It's how battleships get built.
 >
-> **[1:04](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-is-not-what-you-know-but-who-you-know?u=76281980&t=64)** It's how AI algorithms are developed.
+> **[1:04](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-is-not-what-you-know-but-who-you-know?u=76281980&t=64)** It's how AI [[Algorithms]] are developed.
 >
 > **[1:06](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-is-not-what-you-know-but-who-you-know?u=76281980&t=66)** We have always worked together and continue to.
 >
@@ -1092,18 +1067,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Mesh]] (4), career (3), business (1), next (1)
+> **Frameworks & Libraries:** [[Mesh]] (4), [[Data Science]] (4), [[Algorithms]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - there (1)
 
-#### The office of the future
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-office-of-the-future?u=76281980)
+#### [The office of the future](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-office-of-the-future?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-office-of-the-future?u=76281980&t=0)** - The contingent-worker model and the gig economy are becoming more prevalent.
 >
-> **[0:05](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-office-of-the-future?u=76281980&t=5)** The days of a bunch of people working together in an office are slowly giving way to meetings being held via Google Hangouts with one person in a Starbucks and the other on a train headed somewhere.
+> **[0:05](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-office-of-the-future?u=76281980&t=5)** The days of a bunch of people working together in an [[Microsoft Office|office]] are slowly giving way to meetings being held via [[Google]] Hangouts with one person in a Starbucks and the other on a train headed somewhere.
 >
 > **[0:17](https://www.linkedin.com/learning/future-proofing-your-data-science-career/the-office-of-the-future?u=76281980&t=17)** As I mentioned earlier, MIT professor Tom Malone theorizes that companies will devolve over the next decades into core teams at the top but most business activities will be conducted using a network, similar to the resourcing models and processes that are used today to make movies.
 >
@@ -1129,15 +1103,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), next (2), business (2), [[Microsoft Office|Office]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Google]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** mit (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - the (1)
 
-#### Cast a wide net
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/cast-a-wide-net?u=76281980)
+#### [Cast a wide net](https://www.linkedin.com/learning/future-proofing-your-data-science-career/cast-a-wide-net?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1145,7 +1118,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/future-proofing-your-data-science-career/cast-a-wide-net?u=76281980&t=9)** We used to say, "Getting the job is the job."
 >
-> **[0:13](https://www.linkedin.com/learning/future-proofing-your-data-science-career/cast-a-wide-net?u=76281980&t=13)** This phrase applies to current and future data science careers as well.
+> **[0:13](https://www.linkedin.com/learning/future-proofing-your-data-science-career/cast-a-wide-net?u=76281980&t=13)** This phrase applies to current and future [[Data Science]] careers as well.
 >
 > **[0:17](https://www.linkedin.com/learning/future-proofing-your-data-science-career/cast-a-wide-net?u=76281980&t=17)** Much like freelance musicians, data scientists are individuals with talents, skills, experience, and aptitudes.
 >
@@ -1163,7 +1136,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/future-proofing-your-data-science-career/cast-a-wide-net?u=76281980&t=68)** This same model holds true when trying to find your next data science career and the on after that.
 >
-> **[1:14](https://www.linkedin.com/learning/future-proofing-your-data-science-career/cast-a-wide-net?u=76281980&t=74)** Which is why you need to expand your mesh and diligently reach for and connect with as many people as possible who might have data science needs.
+> **[1:14](https://www.linkedin.com/learning/future-proofing-your-data-science-career/cast-a-wide-net?u=76281980&t=74)** Which is why you need to expand your [[Mesh]] and diligently reach for and connect with as many people as possible who might have data science needs.
 >
 > **[1:25](https://www.linkedin.com/learning/future-proofing-your-data-science-career/cast-a-wide-net?u=76281980&t=85)** This will serve to increase your odds of find the right opportunity.
 >
@@ -1181,19 +1154,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Mesh]] (3), career (2), next (1), game (1)
+> **Frameworks & Libraries:** [[Data Science]] (4), [[Mesh]] (3)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - working (1)
 
-#### Following thought leaders and leading-edge groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/following-thought-leaders-and-leading-edge-groups?u=76281980)
+#### [Following thought leaders and leading-edge groups](https://www.linkedin.com/learning/future-proofing-your-data-science-career/following-thought-leaders-and-leading-edge-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/following-thought-leaders-and-leading-edge-groups?u=76281980&t=0)** - The key objective of the mesh exercise is to track down people who are developing innovative approaches to business problems and sharing valuable insight.
+> **[0:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/following-thought-leaders-and-leading-edge-groups?u=76281980&t=0)** - The key objective of the [[Mesh]] exercise is to track down people who are developing innovative approaches to business problems and sharing valuable insight.
 >
-> **[0:10](https://www.linkedin.com/learning/future-proofing-your-data-science-career/following-thought-leaders-and-leading-edge-groups?u=76281980&t=10)** The implication is that these people have a forward thinking, future-oriented perspective about data science and how it is trending across various verticals and disciplines.
+> **[0:10](https://www.linkedin.com/learning/future-proofing-your-data-science-career/following-thought-leaders-and-leading-edge-groups?u=76281980&t=10)** The implication is that these people have a forward thinking, future-oriented perspective about [[Data Science]] and how it is trending across various verticals and disciplines.
 >
 > **[0:20](https://www.linkedin.com/learning/future-proofing-your-data-science-career/following-thought-leaders-and-leading-edge-groups?u=76281980&t=20)** These are the ones you're interested in connecting with.
 >
@@ -1207,7 +1179,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/future-proofing-your-data-science-career/following-thought-leaders-and-leading-edge-groups?u=76281980&t=39)** I call this working the Twitter math.
 >
-> **[0:42](https://www.linkedin.com/learning/future-proofing-your-data-science-career/following-thought-leaders-and-leading-edge-groups?u=76281980&t=42)** Look at the people that the thought leaders in your mesh are connected to on LinkedIn.
+> **[0:42](https://www.linkedin.com/learning/future-proofing-your-data-science-career/following-thought-leaders-and-leading-edge-groups?u=76281980&t=42)** Look at the people that the thought leaders in your mesh are connected to on [[LinkedIn]].
 >
 > **[0:46](https://www.linkedin.com/learning/future-proofing-your-data-science-career/following-thought-leaders-and-leading-edge-groups?u=76281980&t=46)** That's a good place to start.
 >
@@ -1229,16 +1201,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Mesh]] (3), business (1), [[LinkedIn]] (1), career (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Mesh]] (3), [[LinkedIn]] (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - the (1)
 
-#### Start building your MESH on LinkedIn
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-building-your-mesh-on-linkedin?u=76281980)
+#### [Start building your MESH on LinkedIn](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-building-your-mesh-on-linkedin?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-building-your-mesh-on-linkedin?u=76281980&t=0)** - Even though there are many tools that are available for building your mesh, I strongly recommend using LinkedIn for this activity.
+> **[0:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-building-your-mesh-on-linkedin?u=76281980&t=0)** - Even though there are many tools that are available for building your [[Mesh]], I strongly recommend using [[LinkedIn]] for this activity.
 >
 > **[0:08](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-building-your-mesh-on-linkedin?u=76281980&t=8)** As of this writing it's the defacto business networking tool of social networks.
 >
@@ -1246,38 +1217,37 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-building-your-mesh-on-linkedin?u=76281980&t=19)** And it's also the go-to destination for recruiters and companies looking to hire smart, talented data scientists like you.
 >
-> **[0:27](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-building-your-mesh-on-linkedin?u=76281980&t=27)** Plus you can post all kinds of information and assets to help you represent your voice in the data science marketplace.
+> **[0:27](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-building-your-mesh-on-linkedin?u=76281980&t=27)** Plus you can post all kinds of information and assets to help you represent your voice in the [[Data Science]] marketplace.
 >
 > **[0:34](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-building-your-mesh-on-linkedin?u=76281980&t=34)** You can point to charts of your own presentations on Slideshare, or videos on YouTube or Vimeo of you speaking at events.
 >
 > **[0:41](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-building-your-mesh-on-linkedin?u=76281980&t=41)** You can direct people to your blog, or even write an article and post it on your profile using the LinkedIn Publishing Tool.
 >
-> **[0:49](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-building-your-mesh-on-linkedin?u=76281980&t=49)** You can include a link to your code on GitHub.
+> **[0:49](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-building-your-mesh-on-linkedin?u=76281980&t=49)** You can include a link to your code on [[GitHub]].
 >
 > **[0:51](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-building-your-mesh-on-linkedin?u=76281980&t=51)** Because people can comment and interact with your content, it allows you to expand your impact.
 >
-> **[0:57](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-building-your-mesh-on-linkedin?u=76281980&t=57)** You can then reach for the people who react and add them to your mesh.
+> **[0:57](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-building-your-mesh-on-linkedin?u=76281980&t=57)** You can then reach for the people who [[React.js|react]] and add them to your mesh.
 >
 > **[1:02](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-building-your-mesh-on-linkedin?u=76281980&t=62)** There's certainly other channels where data science conversations are going on to varying degrees.
 >
 > **[1:08](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-building-your-mesh-on-linkedin?u=76281980&t=68)** Places like Facebook, Instagram, Snapchat, WhatsApp, Reddit, but I think that starting with LinkedIn is really the best option.
 >
-> **[1:18](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-building-your-mesh-on-linkedin?u=76281980&t=78)** Because of its exemplary brand, its robust support, and wide-ranging functionality, as well as its commitment to connecting skills with opportunity at scale, it's the best choice for expertise sharing, relationship building, and connecting in order to build out your mesh.
+> **[1:18](https://www.linkedin.com/learning/future-proofing-your-data-science-career/start-building-your-mesh-on-linkedin?u=76281980&t=78)** Because of its exemplary brand, its robust support, and wide-ranging functionality, as well as its commitment to connecting skills with opportunity at scale, it's the best choice for expertise sharing, [[Relationship Building]], and connecting in order to build out your mesh.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Mesh]] (3), [[LinkedIn]] (3), data (3), business (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Mesh]] (3), [[LinkedIn]] (3), [[Data Science]] (2), [[GitHub]] (1), [[React.js|React]] (1)
 > **Tools:** github (1)
 > **Speakers:** - even (1)
 
-#### Connect with people on LinkedIn
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/connect-with-people-on-linkedin?u=76281980)
+#### [Connect with people on LinkedIn](https://www.linkedin.com/learning/future-proofing-your-data-science-career/connect-with-people-on-linkedin?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/connect-with-people-on-linkedin?u=76281980&t=0)** - Here are the steps to building out your future data science career mesh using the topics and criteria you defined in the voice exercise, and the sources that you identified in the antenna exercise.
+> **[0:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/connect-with-people-on-linkedin?u=76281980&t=0)** - Here are the steps to building out your future [[Data Science]] career [[Mesh]] using the topics and criteria you defined in the voice exercise, and the sources that you identified in the antenna exercise.
 >
-> **[0:13](https://www.linkedin.com/learning/future-proofing-your-data-science-career/connect-with-people-on-linkedin?u=76281980&t=13)** First, do a LinkedIn search for three to five people working in areas that you're interested in.
+> **[0:13](https://www.linkedin.com/learning/future-proofing-your-data-science-career/connect-with-people-on-linkedin?u=76281980&t=13)** First, do a [[LinkedIn]] search for three to five people working in areas that you're interested in.
 >
 > **[0:19](https://www.linkedin.com/learning/future-proofing-your-data-science-career/connect-with-people-on-linkedin?u=76281980&t=19)** The search criteria could include things like job title, company, area of focus, vertical, geography, discipline, functional area, et cetera.
 >
@@ -1327,20 +1297,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Mesh]] (2), [[LinkedIn]] (2), [[Search]] (2), data (1), career (1)
+> **Frameworks & Libraries:** [[Mesh]] (2), [[LinkedIn]] (2), [[Data Science]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** remember to (1)
 > **Speakers:** - here (1)
 
-#### Connect with groups on LinkedIn
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/connect-with-groups-on-linkedin?u=76281980)
+#### [Connect with groups on LinkedIn](https://www.linkedin.com/learning/future-proofing-your-data-science-career/connect-with-groups-on-linkedin?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/connect-with-groups-on-linkedin?u=76281980&t=0)** - For step two in the mesh exercise we're going to talk about leveraging the power of groups.
+> **[0:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/connect-with-groups-on-linkedin?u=76281980&t=0)** - For step two in the [[Mesh]] exercise we're going to talk about leveraging the power of groups.
 >
-> **[0:06](https://www.linkedin.com/learning/future-proofing-your-data-science-career/connect-with-groups-on-linkedin?u=76281980&t=6)** I want you to search for three to five groups on LinkedIn that you want to join and follow.
+> **[0:06](https://www.linkedin.com/learning/future-proofing-your-data-science-career/connect-with-groups-on-linkedin?u=76281980&t=6)** I want you to search for three to five groups on [[LinkedIn]] that you want to join and follow.
 >
 > **[0:11](https://www.linkedin.com/learning/future-proofing-your-data-science-career/connect-with-groups-on-linkedin?u=76281980&t=11)** Here's how you do it.
 >
@@ -1380,27 +1349,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Mesh]] (2), [[Search]] (2), [[LinkedIn]] (2), power (1), business (1)
+> **Frameworks & Libraries:** [[Mesh]] (2), [[LinkedIn]] (2)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - for (1)
 
-#### In-person interactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/in-person-interactions?u=76281980)
+#### [In-person interactions](https://www.linkedin.com/learning/future-proofing-your-data-science-career/in-person-interactions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/in-person-interactions?u=76281980&t=0)** - Even though we're living in this digitally connected world, there's still great value in hanging out in real time with other carbon based life forms.
+> **[0:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/in-person-interactions?u=76281980&t=0)** - Even though we're living in this digitally connected world, there's still great value in hanging out in real time with other carbon based life [[Forms]].
 >
 > **[0:09](https://www.linkedin.com/learning/future-proofing-your-data-science-career/in-person-interactions?u=76281980&t=9)** Meaning, it's still cool getting together with people in the same physical space.
 >
 > **[0:14](https://www.linkedin.com/learning/future-proofing-your-data-science-career/in-person-interactions?u=76281980&t=14)** There are many ways to do this ranging from small local meetups to large scale events.
 >
-> **[0:20](https://www.linkedin.com/learning/future-proofing-your-data-science-career/in-person-interactions?u=76281980&t=20)** To get a sense of options, do a quick, simple, Google search.
+> **[0:20](https://www.linkedin.com/learning/future-proofing-your-data-science-career/in-person-interactions?u=76281980&t=20)** To get a sense of options, do a quick, simple, [[Google]] search.
 >
 > **[0:25](https://www.linkedin.com/learning/future-proofing-your-data-science-career/in-person-interactions?u=76281980&t=25)** The criteria that you might use could include a vertical, like retail, tech, or aerospace.
 >
-> **[0:31](https://www.linkedin.com/learning/future-proofing-your-data-science-career/in-person-interactions?u=76281980&t=31)** Maybe a specific language or tool set, like Java, Python, Lisp, Prolog, C++.
+> **[0:31](https://www.linkedin.com/learning/future-proofing-your-data-science-career/in-person-interactions?u=76281980&t=31)** Maybe a specific language or tool set, like [[Java]], [[Python (Programming Language)|Python]], Lisp, Prolog, C++.
 >
 > **[0:39](https://www.linkedin.com/learning/future-proofing-your-data-science-career/in-person-interactions?u=76281980&t=39)** You could use a specific discipline, like marketing, legal, or operations to qualify your search or even a geographic qualifier, like you want to go to a local event, you're looking for something in a big US city, or you want to go overseas to some international conference.
 >
@@ -1410,23 +1378,22 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/future-proofing-your-data-science-career/in-person-interactions?u=76281980&t=71)** A technique that I've used is to reach for the event organizers and offer to help out.
 >
-> **[1:16](https://www.linkedin.com/learning/future-proofing-your-data-science-career/in-person-interactions?u=76281980&t=76)** You might have to pay for travel and an Airbnb, but it could really be worth the investment of time and money if it allows you to expand your mesh by connecting with and hearing from smart forward thinking people.
+> **[1:16](https://www.linkedin.com/learning/future-proofing-your-data-science-career/in-person-interactions?u=76281980&t=76)** You might have to pay for travel and an Airbnb, but it could really be worth the investment of time and money if it allows you to expand your [[Mesh]] by connecting with and hearing from smart forward thinking people.
 >
 > **[1:29](https://www.linkedin.com/learning/future-proofing-your-data-science-career/in-person-interactions?u=76281980&t=89)** Don't discount the value of in-person one-on-one conversations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), [[Forms]] (1), [[Google]] (1), [[Java]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Google]] (1), [[Java]] (1), [[Python (Programming Language)|Python]] (1), [[Mesh]] (1)
 > **CLI Commands:** python (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - even (1)
 
-#### Keeping track of your connections with a CRM
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/keeping-track-of-your-connections-with-a-crm?u=76281980)
+#### [Keeping track of your connections with a CRM](https://www.linkedin.com/learning/future-proofing-your-data-science-career/keeping-track-of-your-connections-with-a-crm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/keeping-track-of-your-connections-with-a-crm?u=76281980&t=0)** - As you expand your network, you're going to need some way to keep track of all the data science execs and authors and thought leaders with whom you spoke or sent an email or had coffee with as well as the one who didn't respond to your email or return your call.
+> **[0:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/keeping-track-of-your-connections-with-a-crm?u=76281980&t=0)** - As you expand your network, you're going to need some way to keep track of all the [[Data Science]] execs and authors and thought leaders with whom you spoke or sent an email or had coffee with as well as the one who didn't respond to your email or return your call.
 >
 > **[0:16](https://www.linkedin.com/learning/future-proofing-your-data-science-career/keeping-track-of-your-connections-with-a-crm?u=76281980&t=16)** While many people are comfortable with paper-based calendars and address books, I strongly encourage you to investigate a digital solution that's portable and cloud-based as well as device and operating system agnostic.
 >
@@ -1434,7 +1401,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/future-proofing-your-data-science-career/keeping-track-of-your-connections-with-a-crm?u=76281980&t=38)** These tools are historically designed to help sales people but are easily adapted for general networking.
 >
-> **[0:43](https://www.linkedin.com/learning/future-proofing-your-data-science-career/keeping-track-of-your-connections-with-a-crm?u=76281980&t=43)** You can use a CRM to manage how often you reach for the various contacts in your mesh.
+> **[0:43](https://www.linkedin.com/learning/future-proofing-your-data-science-career/keeping-track-of-your-connections-with-a-crm?u=76281980&t=43)** You can use a CRM to manage how often you reach for the various contacts in your [[Mesh]].
 >
 > **[0:49](https://www.linkedin.com/learning/future-proofing-your-data-science-career/keeping-track-of-your-connections-with-a-crm?u=76281980&t=49)** It also help you keep track of who you're talking to, what you discussed, what the next steps and follow up activities might be, what a contact's value might be, and who they might know that you could then contact regarding your data science career.
 >
@@ -1442,18 +1409,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), cloud (1), management (1), [[Mesh]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Mesh]] (1)
 > **Env Vars:** crm (2)
 > **Speakers:** - as (1)
 
-#### Connecting is an equal exchange
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/connecting-is-an-equal-exchange?u=76281980)
+#### [Connecting is an equal exchange](https://www.linkedin.com/learning/future-proofing-your-data-science-career/connecting-is-an-equal-exchange?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/connecting-is-an-equal-exchange?u=76281980&t=0)** - While these next two topics may seem somewhat obvious, I think they're worth mentioning and very important.
 >
-> **[0:07](https://www.linkedin.com/learning/future-proofing-your-data-science-career/connecting-is-an-equal-exchange?u=76281980&t=7)** Keep in mind that using your mesh to find your next data science career is based on value exchange.
+> **[0:07](https://www.linkedin.com/learning/future-proofing-your-data-science-career/connecting-is-an-equal-exchange?u=76281980&t=7)** Keep in mind that using your [[Mesh]] to find your next [[Data Science]] career is based on value exchange.
 >
 > **[0:13](https://www.linkedin.com/learning/future-proofing-your-data-science-career/connecting-is-an-equal-exchange?u=76281980&t=13)** The person in your mesh who reaches for you does it based on your ability to drive their success, to solve a problem they're facing or to help them deal with the challenges they're asked to address.
 >
@@ -1475,15 +1441,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Mesh]] (3), career (3), next (2), game (1)
+> **Frameworks & Libraries:** [[Data Science]] (4), [[Mesh]] (3)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - while (1)
 
-#### How to start building your MESH by cold-calling
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/how-to-start-building-your-mesh-by-cold-calling?u=76281980)
+#### [How to start building your MESH by cold-calling](https://www.linkedin.com/learning/future-proofing-your-data-science-career/how-to-start-building-your-mesh-by-cold-calling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1505,7 +1470,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/future-proofing-your-data-science-career/how-to-start-building-your-mesh-by-cold-calling?u=76281980&t=38)** So I set my sights on breaking into the jingle biz.
 >
-> **[0:40](https://www.linkedin.com/learning/future-proofing-your-data-science-career/how-to-start-building-your-mesh-by-cold-calling?u=76281980&t=40)** This is way before LinkedIn and way before Upwork or Fiverr or any freelance online marketplaces.
+> **[0:40](https://www.linkedin.com/learning/future-proofing-your-data-science-career/how-to-start-building-your-mesh-by-cold-calling?u=76281980&t=40)** This is way before [[LinkedIn]] and way before Upwork or Fiverr or any freelance online marketplaces.
 >
 > **[0:48](https://www.linkedin.com/learning/future-proofing-your-data-science-career/how-to-start-building-your-mesh-by-cold-calling?u=76281980&t=48)** So to do it I bought a box of three by five cards in a little plastic box and wrote down the names of everyone I knew who was remote connected to the jingle biz.
 >
@@ -1525,11 +1490,11 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/future-proofing-your-data-science-career/how-to-start-building-your-mesh-by-cold-calling?u=76281980&t=91)** And finally through basically sheer perseverance I was able to break into the business as a bass player and then eventually as an arranger, then as a composer, and then finally as a producer writing and producing music.
 >
-> **[1:44](https://www.linkedin.com/learning/future-proofing-your-data-science-career/how-to-start-building-your-mesh-by-cold-calling?u=76281980&t=104)** So this is an analog version of mesh way before today's digital technology but I used it and it served me well and it allowed me to get the job done I wanted.
+> **[1:44](https://www.linkedin.com/learning/future-proofing-your-data-science-career/how-to-start-building-your-mesh-by-cold-calling?u=76281980&t=104)** So this is an analog version of [[Mesh]] way before today's digital technology but I used it and it served me well and it allowed me to get the job done I wanted.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[LinkedIn]] (1), [[Mesh]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Mesh]] (1)
 > **CLI Commands:** composer (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - so (1)
@@ -1539,12 +1504,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prepare for future data-science careers
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/prepare-for-future-data-science-careers?u=76281980)
+#### [Prepare for future data-science careers](https://www.linkedin.com/learning/future-proofing-your-data-science-career/prepare-for-future-data-science-careers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/prepare-for-future-data-science-careers?u=76281980&t=0)** - Now you have both a social historical perspective on data science, as well as ideas for how it's evolving.
+> **[0:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/prepare-for-future-data-science-careers?u=76281980&t=0)** - Now you have both a social historical perspective on [[Data Science]], as well as ideas for how it's evolving.
 >
 > **[0:07](https://www.linkedin.com/learning/future-proofing-your-data-science-career/prepare-for-future-data-science-careers?u=76281980&t=7)** But more importantly, you have a set of tools that can help you be successful in the future.
 >
@@ -1584,18 +1548,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), business (1)
+> **Frameworks & Libraries:** [[Data Science]] (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - now (1)
 
-#### It's not about the tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-s-not-about-the-tools?u=76281980)
+#### [It's not about the tools](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-s-not-about-the-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-s-not-about-the-tools?u=76281980&t=0)** - I want to give you one other piece of advice.
 >
-> **[0:03](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-s-not-about-the-tools?u=76281980&t=3)** Remember that data science tools and techniques will change, but the overall objectives will not.
+> **[0:03](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-s-not-about-the-tools?u=76281980&t=3)** Remember that [[Data Science]] tools and techniques will change, but the overall objectives will not.
 >
 > **[0:10](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-s-not-about-the-tools?u=76281980&t=10)** As programming languages and processes continue to evolve, today's trusted solutions will continue to be disrupted.
 >
@@ -1615,7 +1578,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-s-not-about-the-tools?u=76281980&t=60)** Then it was Fortran, then COBOL.
 >
-> **[1:02](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-s-not-about-the-tools?u=76281980&t=62)** Today, you've got to know Python or Julia to be successful.
+> **[1:02](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-s-not-about-the-tools?u=76281980&t=62)** Today, you've got to know [[Python (Programming Language)|Python]] or Julia to be successful.
 >
 > **[1:06](https://www.linkedin.com/learning/future-proofing-your-data-science-career/it-s-not-about-the-tools?u=76281980&t=66)** Will more robust AI be writing code in the years ahead?
 >
@@ -1623,13 +1586,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Programming]] (1), next (1), career (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** cobol (1)
 > **Speakers:** - i (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/future-proofing-your-data-science-career/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/future-proofing-your-data-science-career/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1647,7 +1609,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/future-proofing-your-data-science-career/next-steps?u=76281980&t=31)** And let's keep in touch.
 >
-> **[0:33](https://www.linkedin.com/learning/future-proofing-your-data-science-career/next-steps?u=76281980&t=33)** Please reach out to me on LinkedIn, you can follow me on Twitter, or send me an email.
+> **[0:33](https://www.linkedin.com/learning/future-proofing-your-data-science-career/next-steps?u=76281980&t=33)** Please reach out to me on [[LinkedIn]], you can follow me on Twitter, or send me an email.
 >
 > **[0:38](https://www.linkedin.com/learning/future-proofing-your-data-science-career/next-steps?u=76281980&t=38)** I also have a website called [Improvisingcareers.com](https://Improvisingcareers.com) where I post information on my various speaking engagements and places where I conduct my future career workshops.
 >
@@ -1659,7 +1621,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), [[LinkedIn]] (1), career (1), business (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [improvisingcareers.com](https://improvisingcareers.com) (1)
 > **Speakers:** - as (1)

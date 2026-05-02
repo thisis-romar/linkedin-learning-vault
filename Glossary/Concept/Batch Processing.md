@@ -6,16 +6,16 @@ glossary_type: concept
 linkedin_topics:
   - Data Science
   - Software Development
-  - Database Management
   - Artificial Intelligence (AI)
+  - Database Management
   - Cloud Computing
 tags:
   - glossary
   - type/concept
   - topic/data-science
   - topic/software-development
-  - topic/database-management
   - topic/artificial-intelligence
+  - topic/database-management
   - topic/cloud-computing
 course_count: 49
 created: 2026-05-02
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Batch Processing
 
-> **Type:** Concept | **Courses:** 49 | **Topics:** [[Data Science]], [[Software Development]], [[Database Management]], [[Artificial Intelligence (AI)]], [[Cloud Computing]]
+> **Type:** Concept | **Courses:** 49 | **Topics:** [[Data Science]], [[Software Development]], [[Artificial Intelligence (AI)]], [[Database Management]], [[Cloud Computing]]
 
 ## Courses
 
@@ -42,11 +42,11 @@ created: 2026-05-02
 
 > [!note]- See all 49 courses
 > 11. [[MLOps Essentials- Model Deployment and Monitoring]] — 3 mentions
-> 12. [[Scalable Data Storage and Processing for AI Workloads]] — 3 mentions
-> 13. [[OpenAI API- Working with Files]] — 3 mentions
-> 14. [[Databricks Certified Data Engineer Associate Cert Prep]] — 3 mentions
-> 15. [[Implementing a Data Strategy for Responsible AI]] — 2 mentions
-> 16. [[AI Orchestration- Developing and Testing Your AI Prototype]] — 2 mentions
+> 12. [[OpenAI API- Working with Files]] — 3 mentions
+> 13. [[Databricks Certified Data Engineer Associate Cert Prep]] — 3 mentions
+> 14. [[Implementing a Data Strategy for Responsible AI]] — 2 mentions
+> 15. [[AI Orchestration- Developing and Testing Your AI Prototype]] — 2 mentions
+> 16. [[Scalable Data Storage and Processing for AI Workloads]] — 2 mentions
 > 17. [[Amazon EC2 Essential Training]] — 2 mentions
 > 18. [[Introduction to Gen AI with Snowflake]] — 2 mentions
 > 19. [[Aws Essential Training For Developers]] — 2 mentions
@@ -83,7 +83,7 @@ created: 2026-05-02
 
 ## Learning Paths
 
-1. [[Working with Data- Collecting, Processing, and Storing Data for AI]] — 36 total mentions
+1. [[Working with Data- Collecting, Processing, and Storing Data for AI]] — 35 total mentions
 2. [[Advance Your Data Skills in Apache Spark]] — 30 total mentions
 3. [[Master Data Engineering]] — 21 total mentions
 4. [[Introduction to Fundamental Skills for Data Work- Data Processing]] — 10 total mentions

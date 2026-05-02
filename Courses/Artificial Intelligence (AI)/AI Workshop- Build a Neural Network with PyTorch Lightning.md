@@ -80,12 +80,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI workshop build a neural network with PyTorch Lightning
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980)
+#### [AI workshop build a neural network with PyTorch Lightning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980&t=1)** - [Presenter] Hi, and welcome to this course AI Workshop: Build a Neural Network with PyTorch Lightning.
+> **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980&t=1)** - [Presenter] Hi, and welcome to this course AI Workshop: Build a Neural Network with [[PyTorch]] Lightning.
 >
 > **[0:06](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980&t=6)** Since this course is an AI workshop, for most of this course, we'll be performing hands-on coding.
 >
@@ -97,17 +96,17 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980&t=28)** Here is a definition from the PyTorch documentation.
 >
-> **[0:31](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980&t=31)** It's an optimized tensor library for deep learning using GPUs and CPUs.
+> **[0:31](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980&t=31)** It's an optimized tensor library for [[Deep Learning]] using GPUs and CPUs.
 >
 > **[0:37](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980&t=37)** The tensors here refer to multidimensional arrays that can be trained in a distributed manner.
 >
-> **[0:44](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980&t=44)** Another way to look at PyTorch also from the documentation, it's an open-source machine learning framework based on the Python programming language.
+> **[0:44](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980&t=44)** Another way to look at PyTorch also from the documentation, it's an open-source machine learning framework based on the [[Python (Programming Language)|Python]] programming language.
 >
-> **[0:53](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980&t=53)** It has simple and intuitive APIs, which accelerate the path from research prototyping to production deployment.
+> **[0:53](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980&t=53)** It has simple and intuitive APIs, which accelerate the path from research [[Prototyping]] to production deployment.
 >
 > **[1:00](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980&t=60)** The PyTorch framework is primarily used to build deep learning neural network models, and its APIs are so simple that with just basic knowledge of Python, you should be able to work in PyTorch right away.
 >
-> **[1:13](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980&t=73)** Now, hopefully you've worked with neural networks before, and this is not your first neural network course.
+> **[1:13](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980&t=73)** Now, hopefully you've worked with [[Neural Networks]] before, and this is not your first neural network course.
 >
 > **[1:18](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/ai-workshop-build-a-neural-network-with-pytorch-lightning?u=76281980&t=78)** Neural network models, you know, are just directed acyclic graphs.
 >
@@ -185,7 +184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PyTorch]] (33), [[Neural Networks]] (6), data (5), [[Deep Learning]] (3), ai (2)
+> **Frameworks & Libraries:** [[PyTorch]] (33), [[Neural Networks]] (6), [[Deep Learning]] (3), [[Python (Programming Language)|Python]] (2), [[Prototyping]] (1)
 > **Definitions:** is an  (3), is a  (1), known as (1)
 > **Env Vars:** api (2), gpu (1)
 > **Prerequisites:** set up (2), configure (1)
@@ -194,8 +193,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Analogies:** such as (1)
 
-#### Prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prerequisites?u=76281980)
+#### [Prerequisites](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -209,28 +207,27 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prerequisites?u=76281980&t=19)** A basic understanding of machine learning, regression, and classification models will really help you.
 >
-> **[0:25](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prerequisites?u=76281980&t=25)** Also, you need to have a basic understanding of how neural networks work.
+> **[0:25](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prerequisites?u=76281980&t=25)** Also, you need to have a basic understanding of how [[Neural Networks]] work.
 >
 > **[0:30](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prerequisites?u=76281980&t=30)** In the next movie, we'll quickly go through how neural networks function, but that's more of revision, rather than explaining all of the nitty gritty of neural network training.
 >
 > **[0:41](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prerequisites?u=76281980&t=41)** So basic understanding of neural networks would really help.
 >
-> **[0:44](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prerequisites?u=76281980&t=44)** And finally, because we're going to be coding a lot using Python, you should be comfortable programming in Python.
+> **[0:44](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prerequisites?u=76281980&t=44)** And finally, because we're going to be coding a lot using [[Python (Programming Language)|Python]], you should be comfortable programming in Python.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neural Networks]] (3), [[Python (Programming Language)|Python]] (2), ai (1), next (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (3), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), make (1)
 > **Prerequisites:** you need to have (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Quick overview of neural networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/quick-overview-of-neural-networks?u=76281980)
+#### [Quick overview of neural networks](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/quick-overview-of-neural-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/quick-overview-of-neural-networks?u=76281980&t=1)** - [Instructor] Let's do a quick revision of how neural networks work before we get down to the demos.
+> **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/quick-overview-of-neural-networks?u=76281980&t=1)** - [Instructor] Let's do a quick revision of how [[Neural Networks]] work before we get down to the demos.
 >
 > **[0:06](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/quick-overview-of-neural-networks?u=76281980&t=6)** Remember, this is not a comprehensive overview or a look at neural network training, but a quick overview to give you the main points to remember as you dive into the code.
 >
@@ -330,7 +327,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Neural Networks]] (2)
+> **Frameworks & Libraries:** [[Neural Networks]] (2)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** set up (1)
@@ -341,12 +338,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up the virtual environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/setting-up-the-virtual-environment?u=76281980)
+#### [Setting up the virtual environment](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/setting-up-the-virtual-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/setting-up-the-virtual-environment?u=76281980&t=1)** - [Narrator] In this course, we'll first build a simple neural network model for regression using PyTorch, and you'll see that there are a lot of granular details that we need to know about model building in order to work with PyTorch directly.
+> **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/setting-up-the-virtual-environment?u=76281980&t=1)** - [Narrator] In this course, we'll first build a simple neural network model for regression using [[PyTorch]], and you'll see that there are a lot of granular details that we need to know about model building in order to work with PyTorch directly.
 >
 > **[0:14](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/setting-up-the-virtual-environment?u=76281980&t=14)** There'll be a lot of boilerplate code.
 >
@@ -358,13 +354,13 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/setting-up-the-virtual-environment?u=76281980&t=39)** Now, for much of the code that we'll write in the course, we'll make use of some digital assistance.
 >
-> **[0:44](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/setting-up-the-virtual-environment?u=76281980&t=44)** ChatGPT, Google Gemini, and Claude.
+> **[0:44](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/setting-up-the-virtual-environment?u=76281980&t=44)** [[ChatGPT]], [[Google Gemini]], and Claude.
 >
-> **[0:47](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/setting-up-the-virtual-environment?u=76281980&t=47)** Now I can't remember the exact set of instructions that I need to follow to set up a virtual environment in Python, so I'm going to ask ChatGPT and follow what ChatGPT has to say.
+> **[0:47](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/setting-up-the-virtual-environment?u=76281980&t=47)** Now I can't remember the exact set of instructions that I need to follow to set up a virtual environment in [[Python (Programming Language)|Python]], so I'm going to ask ChatGPT and follow what ChatGPT has to say.
 >
 > **[0:58](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/setting-up-the-virtual-environment?u=76281980&t=58)** We use the VENV package to create our virtual environment, and then we activate our virtual environment.
 >
-> **[1:03](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/setting-up-the-virtual-environment?u=76281980&t=63)** Now, I'm working on a MacOS machine but if you're working on Windows, please use the highlighted command.
+> **[1:03](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/setting-up-the-virtual-environment?u=76281980&t=63)** Now, I'm working on a MacOS machine but if you're working on [[Windows]], please use the highlighted command.
 >
 > **[1:09](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/setting-up-the-virtual-environment?u=76281980&t=69)** I'll now follow these instructions to set up a virtual environment.
 >
@@ -446,7 +442,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (17), [[PyTorch]] (11), [[ChatGPT]] (4), [[Windows]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (17), [[PyTorch]] (11), [[ChatGPT]] (4), [[Windows]] (2), [[Google Gemini]] (1)
 > **CLI Commands:** python (17), make (3), cd (1), pip (1), find (1)
 > **Prerequisites:** install (7), set up (5), make sure you have (1)
 > **Code Identifiers:** pytorch_venv (9)
@@ -455,18 +451,17 @@ created: 2026-05-02
 > **Env Vars:** venv (3)
 > **Versions:** python 3 (2), 10.9 (1)
 
-#### Loading and exploring regression data
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-regression-data?u=76281980)
+#### [Loading and exploring regression data](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-regression-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-regression-data?u=76281980&t=1)** - [Instructor] We first going to train a regression model using raw PyTorch before we switch over to using PyTorch Lightning.
+> **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-regression-data?u=76281980&t=1)** - [Instructor] We first going to train a regression model using raw [[PyTorch]] before we switch over to using PyTorch Lightning.
 >
-> **[0:06](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-regression-data?u=76281980&t=6)** We'll be using the Scikit learn module in Python in order to pre-process our data.
+> **[0:06](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-regression-data?u=76281980&t=6)** We'll be using the Scikit learn module in [[Python (Programming Language)|Python]] in order to pre-process our data.
 >
 > **[0:12](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-regression-data?u=76281980&t=12)** So go ahead and pip install Scikit learn.
 >
-> **[0:15](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-regression-data?u=76281980&t=15)** In addition, we need the standard Python packages to work with data, Pandas, Numpy, and Seaborn for visualization.
+> **[0:15](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-regression-data?u=76281980&t=15)** In addition, we need the standard Python packages to work with data, [[Pandas (Software)|Pandas]], Numpy, and Seaborn for visualization.
 >
 > **[0:21](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-regression-data?u=76281980&t=21)** I'm just going to pip install all of these within my virtual environment.
 >
@@ -522,7 +517,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-regression-data?u=76281980&t=167)** Now, here are the columns in my data.
 >
-> **[2:50](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-regression-data?u=76281980&t=170)** I'm going to make use of ChatGPT to get help with some Seaborn visualization.
+> **[2:50](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-regression-data?u=76281980&t=170)** I'm going to make use of [[ChatGPT]] to get help with some Seaborn visualization.
 >
 > **[2:55](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-regression-data?u=76281980&t=175)** You can see that I'm giving ChatGPT some context here.
 >
@@ -558,7 +553,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-regression-data?u=76281980&t=264)** You can see that insurance charges tend to increase with age, but for each age, they seem to be different bands of charges.
 >
-> **[4:33](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-regression-data?u=76281980&t=273)** I found that digital assistance like ChatGPT, Gemini, et cetera, are great at interpreting data.
+> **[4:33](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-regression-data?u=76281980&t=273)** I found that digital assistance like ChatGPT, [[Gemini]], et cetera, are great at interpreting data.
 >
 > **[4:38](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-regression-data?u=76281980&t=278)** I often use their help to verify whether my interpretations of data are correct.
 >
@@ -570,7 +565,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-regression-data?u=76281980&t=301)** Not only is the median insurance charge for smokers higher, but there's also greater spread of charges for smokers.
 >
-> **[5:09](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-regression-data?u=76281980&t=309)** In this manner, you can use generative AI to validate the findings from your data.
+> **[5:09](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-regression-data?u=76281980&t=309)** In this manner, you can use [[Generative AI]] to validate the findings from your data.
 >
 > **[5:14](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-regression-data?u=76281980&t=314)** Now that we've understood the data that we are working with, let's quickly split the data into training and test data using train test split.
 >
@@ -584,7 +579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[PyTorch]] (9), [[ChatGPT]] (6), [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[PyTorch]] (9), [[ChatGPT]] (6), [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (2), [[Gemini]] (1)
 > **CLI Commands:** pip (4), make (3), python (2)
 > **Prerequisites:** install (4), you'll need (2), set up (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -593,8 +588,7 @@ created: 2026-05-02
 > **File Paths:** insurance.csv (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preprocessing data for training
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/preprocessing-data-for-training?u=76281980)
+#### [Preprocessing data for training](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/preprocessing-data-for-training?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -606,7 +600,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/preprocessing-data-for-training?u=76281980&t=26)** In addition, you need to scale your numeric features so that all of the features are represented using the same range.
 >
-> **[0:34](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/preprocessing-data-for-training?u=76281980&t=34)** And I'm going to take ChatGPT's help for this.
+> **[0:34](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/preprocessing-data-for-training?u=76281980&t=34)** And I'm going to take [[ChatGPT]]'s help for this.
 >
 > **[0:36](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/preprocessing-data-for-training?u=76281980&t=36)** Now, I asked ChatGPT a very specific question.
 >
@@ -664,7 +658,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/preprocessing-data-for-training?u=76281980&t=218)** After imputation, it standardizes the data, that is, expresses the features in terms of number of standard deviations away from the mean.
 >
-> **[3:47](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/preprocessing-data-for-training?u=76281980&t=227)** When you feed in numeric values to neural networks, neural networks perform much better with smaller numeric values.
+> **[3:47](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/preprocessing-data-for-training?u=76281980&t=227)** When you feed in numeric values to [[Neural Networks]], neural networks perform much better with smaller numeric values.
 >
 > **[3:56](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/preprocessing-data-for-training?u=76281980&t=236)** And also when the individual features do not have widely different ranges, and standard scaling is one way to preserve the information in individual features, but also have them all centered around zero and expressed using small numeric values.
 >
@@ -724,7 +718,7 @@ created: 2026-05-02
 >
 > **[7:07](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/preprocessing-data-for-training?u=76281980&t=427)** torch.from_numpy will convert NumPy arrays to Torch Tensors.
 >
-> **[7:13](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/preprocessing-data-for-training?u=76281980&t=433)** Now, Torch Tensors are the primary data structures used in PyTorch for building neural networks and other ML models.
+> **[7:13](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/preprocessing-data-for-training?u=76281980&t=433)** Now, Torch Tensors are the primary [[Data Structures]] used in [[PyTorch]] for building neural networks and other ML models.
 >
 > **[7:21](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/preprocessing-data-for-training?u=76281980&t=441)** Torch Tensors are multidimensional arrays like NumPy, but they support distributed training using GPUs.
 >
@@ -732,19 +726,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[ChatGPT]] (4), [[Neural Networks]] (4), next (2), feature (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Neural Networks]] (4), [[Data Structures]] (1), [[PyTorch]] (1)
 > **Code Identifiers:** numerical_transformer (2), handle_unknown (2), categorical_transformer (1), fit_transform (1), sex_male (1)
 > **Definitions:** means that (1), is a  (1), known as (1)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a simple neural network
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/creating-a-simple-neural-network?u=76281980)
+#### [Creating a simple neural network](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/creating-a-simple-neural-network?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/creating-a-simple-neural-network?u=76281980&t=1)** - [Instructor] The next step is for us to set up a simple neural network model in PyTorch, and here I'm going to take Gemini's help.
+> **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/creating-a-simple-neural-network?u=76281980&t=1)** - [Instructor] The next step is for us to set up a simple neural network model in [[PyTorch]], and here I'm going to take [[Gemini]]'s help.
 >
 > **[0:08](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/creating-a-simple-neural-network?u=76281980&t=8)** I want a dense, fully connected neural network.
 >
@@ -852,26 +845,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PyTorch]] (4), [[Gemini]] (4), data (3), next (1)
+> **Frameworks & Libraries:** [[PyTorch]] (4), [[Gemini]] (4)
 > **Definitions:** is a  (1), is called (1)
 > **Prerequisites:** set up (2)
 > **Code Identifiers:** no_grad (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up the Dataset and DataLoader
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/setting-up-the-dataset-and-dataloader?u=76281980)
+#### [Setting up the Dataset and DataLoader](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/setting-up-the-dataset-and-dataloader?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/setting-up-the-dataset-and-dataloader?u=76281980&t=1)** - [Instructor] Now before we set up our neural network, we have pre-processed our data and set up the features and labels in the form of Torch Tensors.
 >
-> **[0:08](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/setting-up-the-dataset-and-dataloader?u=76281980&t=8)** Now, in order to organize and feed our data efficiently into our machine learning model, we'll make use of two PyTorch objects, the dataset and the DataLoader.
+> **[0:08](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/setting-up-the-dataset-and-dataloader?u=76281980&t=8)** Now, in order to organize and feed our data efficiently into our machine learning model, we'll make use of two [[PyTorch]] objects, the dataset and the DataLoader.
 >
 > **[0:19](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/setting-up-the-dataset-and-dataloader?u=76281980&t=19)** The dataset abstracts access to individual data samples in our training and test data.
 >
 > **[0:25](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/setting-up-the-dataset-and-dataloader?u=76281980&t=25)** And the DataLoader will automate batching, shuffling, and multi-threaded loading.
 >
-> **[0:30](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/setting-up-the-dataset-and-dataloader?u=76281980&t=30)** Let's get Gemini's help in setting these up.
+> **[0:30](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/setting-up-the-dataset-and-dataloader?u=76281980&t=30)** Let's get [[Gemini]]'s help in setting these up.
 >
 > **[0:33](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/setting-up-the-dataset-and-dataloader?u=76281980&t=33)** So I have train inputs and train targets that are both to Tensors.
 >
@@ -939,7 +931,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[PyTorch]] (4), [[Gemini]] (3), next (1)
+> **Frameworks & Libraries:** [[PyTorch]] (4), [[Gemini]] (3)
 > **Prerequisites:** set up (5)
 > **Code Identifiers:** x_val (1), y_val (1)
 > **Definitions:** is an  (2)
@@ -948,8 +940,7 @@ created: 2026-05-02
 > **Warnings:** heads up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Training a neural network using PyTorch
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-a-neural-network-using-pytorch?u=76281980)
+#### [Training a neural network using PyTorch](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-a-neural-network-using-pytorch?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -965,7 +956,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-a-neural-network-using-pytorch?u=76281980&t=28)** Maybe you're running on a similar machine.
 >
-> **[0:30](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-a-neural-network-using-pytorch?u=76281980&t=30)** Maybe you're running on Google Colab, and you too have a GPU.
+> **[0:30](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-a-neural-network-using-pytorch?u=76281980&t=30)** Maybe you're running on [[Google]] Colab, and you too have a GPU.
 >
 > **[0:33](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-a-neural-network-using-pytorch?u=76281980&t=33)** Otherwise, just run training on a CPU.
 >
@@ -991,7 +982,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-a-neural-network-using-pytorch?u=76281980&t=77)** You can see that my device says mps because I'm on a new Mac.
 >
-> **[1:22](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-a-neural-network-using-pytorch?u=76281980&t=82)** We'll now instantiate and train our neural network using PyTorch.
+> **[1:22](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-a-neural-network-using-pytorch?u=76281980&t=82)** We'll now instantiate and train our neural network using [[PyTorch]].
 >
 > **[1:26](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-a-neural-network-using-pytorch?u=76281980&t=86)** Remember, PyTorch is a lower level API, and it does not abstract us away from the details of neural network training, and there'll be a lot of boilerplate code involved.
 >
@@ -1109,7 +1100,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[PyTorch]] (6), next (4), [[Google]] (1), api (1)
+> **Frameworks & Libraries:** [[PyTorch]] (6), [[Google]] (1)
 > **Env Vars:** gpu (9), cpu (7), sgd (2), api (1)
 > **Code Identifiers:** loss_stats (2), is_available (1), input_size (1), train_loss (1), no_grad (1)
 > **Definitions:** is a  (6), means that (1)
@@ -1118,8 +1109,7 @@ created: 2026-05-02
 > **CLI Commands:** make (3), find (1)
 > **Prerequisites:** set up (2)
 
-#### Visualizing losses and evaluating models
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/visualizing-losses-and-evaluating-models?u=76281980)
+#### [Visualizing losses and evaluating models](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/visualizing-losses-and-evaluating-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1127,7 +1117,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/visualizing-losses-and-evaluating-models?u=76281980&t=8)** And for that, I'm going to set up a DataFrame with the training loss and validation loss along with the epochs.
 >
-> **[0:14](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/visualizing-losses-and-evaluating-models?u=76281980&t=14)** This information is available in the loss statistics that we've manually populated in the training process, and we now have this in the form of a DataFrame.
+> **[0:14](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/visualizing-losses-and-evaluating-models?u=76281980&t=14)** This information is available in the loss [[Statistics]] that we've manually populated in the training process, and we now have this in the form of a DataFrame.
 >
 > **[0:23](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/visualizing-losses-and-evaluating-models?u=76281980&t=23)** We have the epochs, then whether it's training or validation loss, and the corresponding value.
 >
@@ -1137,7 +1127,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/visualizing-losses-and-evaluating-models?u=76281980&t=36)** Now with this information in the DataFrame format, the next step is to plot this in the form of a nice line chart.
 >
-> **[0:42](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/visualizing-losses-and-evaluating-models?u=76281980&t=42)** And I'm going to take Gemini's help for this.
+> **[0:42](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/visualizing-losses-and-evaluating-models?u=76281980&t=42)** And I'm going to take [[Gemini]]'s help for this.
 >
 > **[0:45](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/visualizing-losses-and-evaluating-models?u=76281980&t=45)** Now I'm going to tell Gemini exactly what I have.
 >
@@ -1213,7 +1203,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Gemini]] (6), [[Statistics]] (1), next (1), ai (1)
+> **Frameworks & Libraries:** [[Gemini]] (6), [[Statistics]] (1)
 > **Code Identifiers:** y_true (2), train_val_loss (1), no_grad (1), y_pred (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (2)
@@ -1225,12 +1215,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prompt engineering to convert PyTorch to PyTorch Lightning
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prompt-engineering-to-convert-pytorch-to-pytorch-lightning?u=76281980)
+#### [Prompt engineering to convert PyTorch to PyTorch Lightning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prompt-engineering-to-convert-pytorch-to-pytorch-lightning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prompt-engineering-to-convert-pytorch-to-pytorch-lightning?u=76281980&t=1)** - [Instructor] At this point, we've successfully built and trained a neural network to perform regression, but we used PyTorch and not PyTorch Lightning.
+> **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prompt-engineering-to-convert-pytorch-to-pytorch-lightning?u=76281980&t=1)** - [Instructor] At this point, we've successfully built and trained a neural network to perform regression, but we used [[PyTorch]] and not PyTorch Lightning.
 >
 > **[0:09](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prompt-engineering-to-convert-pytorch-to-pytorch-lightning?u=76281980&t=9)** It was important that you see how the model is built using PyTorch first so that you can see how much cleaner our code is when we use PyTorch Lightning.
 >
@@ -1248,7 +1237,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prompt-engineering-to-convert-pytorch-to-pytorch-lightning?u=76281980&t=50)** Claude gives me a very clean breakdown.
 >
-> **[0:52](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prompt-engineering-to-convert-pytorch-to-pytorch-lightning?u=76281980&t=52)** PyTorch is the foundational deep learning framework, and this is what we are basically going to be using for all our low level tensor operations, except that when we use PyTorch Lightning, it gives us a high level wrapper that makes our code more readable and more organized.
+> **[0:52](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prompt-engineering-to-convert-pytorch-to-pytorch-lightning?u=76281980&t=52)** PyTorch is the foundational [[Deep Learning]] framework, and this is what we are basically going to be using for all our low level tensor operations, except that when we use PyTorch Lightning, it gives us a high level wrapper that makes our code more readable and more organized.
 >
 > **[1:08](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prompt-engineering-to-convert-pytorch-to-pytorch-lightning?u=76281980&t=68)** It's a structured framework that organizes our code.
 >
@@ -1270,7 +1259,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prompt-engineering-to-convert-pytorch-to-pytorch-lightning?u=76281980&t=114)** Raw PyTorch is great for one-off experiments or for custom loops that have unusual requirements, maybe unique architectures.
 >
-> **[2:03](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prompt-engineering-to-convert-pytorch-to-pytorch-lightning?u=76281980&t=123)** When you're coding with the help of generative AI models like ChatGPT, Gemini, or Claude, you'll find that you often have to write very little code, but you may need to reorganize or review a lot of code.
+> **[2:03](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prompt-engineering-to-convert-pytorch-to-pytorch-lightning?u=76281980&t=123)** When you're coding with the help of [[Generative AI]] models like [[ChatGPT]], [[Gemini]], or Claude, you'll find that you often have to write very little code, but you may need to reorganize or review a lot of code.
 >
 > **[2:15](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prompt-engineering-to-convert-pytorch-to-pytorch-lightning?u=76281980&t=135)** Now, for the simple regression model that we've built so far, you can actually just drag that notebook to Gemini and then basically ask Gemini to convert the code to use PyTorch Lightning, and it often works very well.
 >
@@ -1298,7 +1287,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prompt-engineering-to-convert-pytorch-to-pytorch-lightning?u=76281980&t=210)** So that's something to keep in mind.
 >
-> **[3:32](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prompt-engineering-to-convert-pytorch-to-pytorch-lightning?u=76281980&t=212)** Gen AI models always set up the PyTorch Lightning module for my neural network correctly, but it often forgot the data processing module.
+> **[3:32](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prompt-engineering-to-convert-pytorch-to-pytorch-lightning?u=76281980&t=212)** Gen AI models always set up the PyTorch Lightning module for my neural network correctly, but it often forgot the [[Data Processing]] module.
 >
 > **[3:41](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/prompt-engineering-to-convert-pytorch-to-pytorch-lightning?u=76281980&t=221)** Now, copying this code over will not allow us to learn and understand how PyTorch Lightning works.
 >
@@ -1308,19 +1297,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PyTorch]] (23), data (7), [[Gemini]] (6), [[ChatGPT]] (3), [[Deep Learning]] (1)
+> **Frameworks & Libraries:** [[PyTorch]] (23), [[Gemini]] (6), [[ChatGPT]] (3), [[Deep Learning]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Exercise Files:** boilerplate (2)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Encapsulating data using a LightningDataModule
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-data-using-a-lightningdatamodule?u=76281980)
+#### [Encapsulating data using a LightningDataModule](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-data-using-a-lightningdatamodule?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-data-using-a-lightningdatamodule?u=76281980&t=1)** - [Instructor] !pip install lightning to get PyTorch Lightning installed on your local machine.
+> **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-data-using-a-lightningdatamodule?u=76281980&t=1)** - [Instructor] !pip install lightning to get [[PyTorch]] Lightning installed on your local machine.
 >
 > **[0:07](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-data-using-a-lightningdatamodule?u=76281980&t=7)** You need the Lightning module in addition to the PyTorch framework that we've already installed.
 >
@@ -1332,9 +1320,9 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-data-using-a-lightningdatamodule?u=76281980&t=41)** In addition to abstracting away the training process of a neural network, the training loop, and other code associated with it, PyTorch Lightning also makes available the LightningDataModule.
 >
-> **[0:54](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-data-using-a-lightningdatamodule?u=76281980&t=54)** pl.LightningDataModule allows us to abstract and organize the data related aspects of our deep learning model.
+> **[0:54](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-data-using-a-lightningdatamodule?u=76281980&t=54)** pl.LightningDataModule allows us to abstract and organize the data related aspects of our [[Deep Learning]] model.
 >
-> **[1:02](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-data-using-a-lightningdatamodule?u=76281980&t=62)** It's a way to decouple the data processing steps, the loading, pre-processing, and splitting of data from the model training logic.
+> **[1:02](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-data-using-a-lightningdatamodule?u=76281980&t=62)** It's a way to decouple the [[Data Processing]] steps, the loading, pre-processing, and splitting of data from the model training logic.
 >
 > **[1:10](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-data-using-a-lightningdatamodule?u=76281980&t=70)** When we structure all of our data processing tasks to be encapsulated within a LightningDataModule class, we are centralizing all data related operations in one place and encapsulating all of our code to make it more modular and reusable.
 >
@@ -1344,11 +1332,11 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-data-using-a-lightningdatamodule?u=76281980&t=102)** The functions have all been named in very meaningful ways, so you know exactly what goes in each of these functions.
 >
-> **[1:49](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-data-using-a-lightningdatamodule?u=76281980&t=109)** However, it's important that you understand what goes in each of these methods within the skeleton structure, and this is where you can take help from generative AI.
+> **[1:49](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-data-using-a-lightningdatamodule?u=76281980&t=109)** However, it's important that you understand what goes in each of these methods within the skeleton structure, and this is where you can take help from [[Generative AI]].
 >
 > **[1:59](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-data-using-a-lightningdatamodule?u=76281980&t=119)** I've pasted in my skeleton structure and I've asked for an explanation of the methods that I have in the LightningDataModule.
 >
-> **[2:07](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-data-using-a-lightningdatamodule?u=76281980&t=127)** Here is Gemini's response.
+> **[2:07](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-data-using-a-lightningdatamodule?u=76281980&t=127)** Here is [[Gemini]]'s response.
 >
 > **[2:08](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-data-using-a-lightningdatamodule?u=76281980&t=128)** In the init method is the constructor where you initialize parameters for your data module.
 >
@@ -1392,7 +1380,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-data-using-a-lightningdatamodule?u=76281980&t=259)** Here we are keeping things simple, so I'll apply the data transformations all in the fit stage or the training stage of the model.
 >
-> **[4:27](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-data-using-a-lightningdatamodule?u=76281980&t=267)** The data transformation operations that you see here should all be very familiar to you because these are the steps we carried out in the previous demo.
+> **[4:27](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-data-using-a-lightningdatamodule?u=76281980&t=267)** The [[Data Transformation]] operations that you see here should all be very familiar to you because these are the steps we carried out in the previous demo.
 >
 > **[4:35](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-data-using-a-lightningdatamodule?u=76281980&t=275)** On lines 15 and 16, we extract the X features and y values.
 >
@@ -1452,11 +1440,11 @@ created: 2026-05-02
 >
 > **[7:29](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-data-using-a-lightningdatamodule?u=76281980&t=449)** And we have eight records in this batch.
 >
-> **[7:32](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-data-using-a-lightningdatamodule?u=76281980&t=452)** Observe how by using theta module to manage all of the data preparation and processing operations, we've created a modular bit of code that can be reused anywhere.
+> **[7:32](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-data-using-a-lightningdatamodule?u=76281980&t=452)** Observe how by using theta module to manage all of the [[Data Preparation]] and processing operations, we've created a modular bit of code that can be reused anywhere.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (41), [[PyTorch]] (6), [[Deep Learning]] (1), [[Generative AI]] (1), [[Gemini]] (1)
+> **Frameworks & Libraries:** [[PyTorch]] (6), [[Data Processing]] (2), [[Deep Learning]] (1), [[Generative AI]] (1), [[Gemini]] (1)
 > **Code Identifiers:** prepare_data (5), train_dataloader (4), val_dataloader (3), num_workers (2), batch_size (1)
 > **Prerequisites:** setup (4), install (1), set up (1), you'll need (1)
 > **CLI Commands:** make (2), pip (1)
@@ -1465,18 +1453,17 @@ created: 2026-05-02
 > **Versions:** v2.5.2 (1)
 > **Exercise Files:** download the (1)
 
-#### Encapsulating a model using a LightningModule
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-a-model-using-a-lightningmodule?u=76281980)
+#### [Encapsulating a model using a LightningModule](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-a-model-using-a-lightningmodule?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-a-model-using-a-lightningmodule?u=76281980&t=1)** - [Instructor] In the previous demo, we built a simple regression model using PyTorch.
+> **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-a-model-using-a-lightningmodule?u=76281980&t=1)** - [Instructor] In the previous demo, we built a simple regression model using [[PyTorch]].
 >
 > **[0:06](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-a-model-using-a-lightningmodule?u=76281980&t=6)** Now, in this demo, I'm going to build the same neural network that we used before, but this time, I'm going to use PyTorch Lightning.
 >
 > **[0:14](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-a-model-using-a-lightningmodule?u=76281980&t=14)** What I've defined here on screen is the skeleton of a class that derives from pl.LightningModule.
 >
-> **[0:21](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-a-model-using-a-lightningmodule?u=76281980&t=21)** Just like the LightningDataModule encapsulates all of the data-related operations, a LightningModule is a fundamental class in PyTorch Lightning that encapsulates everything related to our deep learning model.
+> **[0:21](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-a-model-using-a-lightningmodule?u=76281980&t=21)** Just like the LightningDataModule encapsulates all of the data-related operations, a LightningModule is a fundamental class in PyTorch Lightning that encapsulates everything related to our [[Deep Learning]] model.
 >
 > **[0:35](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-a-model-using-a-lightningmodule?u=76281980&t=35)** It extends the functionality of the nn.Module class that we used in PyTorch to build up our neural network.
 >
@@ -1498,7 +1485,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-a-model-using-a-lightningmodule?u=76281980&t=93)** That's where we'll define the architecture for our neural network.
 >
-> **[1:36](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-a-model-using-a-lightningmodule?u=76281980&t=96)** Gemini reminds us that it's important that we call self.save_hyperparameters within the __init__ method.
+> **[1:36](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-a-model-using-a-lightningmodule?u=76281980&t=96)** [[Gemini]] reminds us that it's important that we call self.save_hyperparameters within the __init__ method.
 >
 > **[1:43](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/encapsulating-a-model-using-a-lightningmodule?u=76281980&t=103)** We'll do that when we actually fill out the stubs.
 >
@@ -1606,7 +1593,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PyTorch]] (11), data (10), [[Gemini]] (2), [[Deep Learning]] (1), ai (1)
+> **Frameworks & Libraries:** [[PyTorch]] (11), [[Gemini]] (2), [[Deep Learning]] (1)
 > **Code Identifiers:** save_hyperparameters (7), learning_rate (5), configure_optimizers (2), num_features (2), training_step (2)
 > **CLI Commands:** make (6)
 > **Prerequisites:** set up (4), setup (1)
@@ -1615,12 +1602,11 @@ created: 2026-05-02
 > **Versions:** 0.01 (1)
 > **Cross-References:** in the next (1)
 
-#### Training the model using the PyTorch Lightning Trainer
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-the-model-using-the-pytorch-lightning-trainer?u=76281980)
+#### [Training the model using the PyTorch Lightning Trainer](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-the-model-using-the-pytorch-lightning-trainer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-the-model-using-the-pytorch-lightning-trainer?u=76281980&t=1)** - We've defined our model, our training step and validation step nicely encapsulated in a PyTorch lightning module, and we are now ready to train our model.
+> **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-the-model-using-the-pytorch-lightning-trainer?u=76281980&t=1)** - We've defined our model, our training step and validation step nicely encapsulated in a [[PyTorch]] lightning module, and we are now ready to train our model.
 >
 > **[0:12](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-the-model-using-the-pytorch-lightning-trainer?u=76281980&t=12)** If you remember in PyTorch, you had to write a lot of code to actually train your model and get validation metrics for your model after each epoch.
 >
@@ -1640,7 +1626,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-the-model-using-the-pytorch-lightning-trainer?u=76281980&t=71)** First, let's take a look at the import statement where I import a CSV logger that will log the details of the training process to our local machine in a CSV format.
 >
-> **[1:22](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-the-model-using-the-pytorch-lightning-trainer?u=76281980&t=82)** Next, I instantiate the insurance data module class, which encapsulates all of the data preparation and processing operations for the data that I plan to use to train the model.
+> **[1:22](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-the-model-using-the-pytorch-lightning-trainer?u=76281980&t=82)** Next, I instantiate the insurance data module class, which encapsulates all of the [[Data Preparation]] and processing operations for the data that I plan to use to train the model.
 >
 > **[1:34](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-the-model-using-the-pytorch-lightning-trainer?u=76281980&t=94)** Next on line 5 I instantiate a CSV logger class to write the logs out to the logs sub folder under my current working directory.
 >
@@ -1692,9 +1678,9 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-the-model-using-the-pytorch-lightning-trainer?u=76281980&t=250)** You may want to ignore certain warnings, but not others.
 >
-> **[4:13](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-the-model-using-the-pytorch-lightning-trainer?u=76281980&t=253)** I found generative AI incredibly useful in helping me debug warnings, letting me know whether I can ignore this or not.
+> **[4:13](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-the-model-using-the-pytorch-lightning-trainer?u=76281980&t=253)** I found [[Generative AI]] incredibly useful in helping me debug warnings, letting me know whether I can ignore this or not.
 >
-> **[4:20](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-the-model-using-the-pytorch-lightning-trainer?u=76281980&t=260)** Before I switch over to get Gemini's help with this warning, let's just take a look at the result.
+> **[4:20](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-the-model-using-the-pytorch-lightning-trainer?u=76281980&t=260)** Before I switch over to get [[Gemini]]'s help with this warning, let's just take a look at the result.
 >
 > **[4:25](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-the-model-using-the-pytorch-lightning-trainer?u=76281980&t=265)** The output format of the predictions gives us the predictions for every batch of the input in a separate tensor, and this is something we'll have to deal with in a bit.
 >
@@ -1758,7 +1744,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[PyTorch]] (4), next (2), [[Gemini]] (2), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[PyTorch]] (4), [[Gemini]] (2), [[Data Preparation]] (1), [[Generative AI]] (1)
 > **Env Vars:** gpu (5), csv (5), true (3), tpu (1), cpu (1)
 > **Warnings:** warning (5)
 > **Versions:** 0.00889 (1), 0.00525 (1), 0.87 (1)
@@ -1772,12 +1758,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Loading and exploring classification data
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-classification-data?u=76281980)
+#### [Loading and exploring classification data](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-classification-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-classification-data?u=76281980&t=1)** - [Instructor] We've seen how easy it is to build and train a neural network, using PyTorch Lightning.
+> **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-classification-data?u=76281980&t=1)** - [Instructor] We've seen how easy it is to build and train a neural network, using [[PyTorch]] Lightning.
 >
 > **[0:05](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-classification-data?u=76281980&t=5)** Let's get some more practice with this and this time, we'll build and train a classification model.
 >
@@ -1785,7 +1770,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-classification-data?u=76281980&t=14)** I'll first set up the import statements for all of the libraries that we use.
 >
-> **[0:18](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-classification-data?u=76281980&t=18)** This involves data access, data processing, libraries.
+> **[0:18](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-classification-data?u=76281980&t=18)** This involves data access, [[Data Processing]], libraries.
 >
 > **[0:21](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-classification-data?u=76281980&t=21)** You can see that I've also imported lightning.pytorch as pl on line 10 because this is a classification model.
 >
@@ -1817,7 +1802,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-classification-data?u=76281980&t=112)** Will they really help us predicting churn?
 >
-> **[1:54](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-classification-data?u=76281980&t=114)** We'll take generative AI's help to figure out.
+> **[1:54](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-classification-data?u=76281980&t=114)** We'll take [[Generative AI]]'s help to figure out.
 >
 > **[1:57](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-classification-data?u=76281980&t=117)** Next, let's take a look at the data types for the various columns to make sure they're all of the right type.
 >
@@ -1825,7 +1810,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-classification-data?u=76281980&t=134)** Things look good so far.
 >
-> **[2:15](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-classification-data?u=76281980&t=135)** I'm going to copy these columns over, and I'm going to ask ChatGPT, what columns are relevant for training our classification model?
+> **[2:15](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-classification-data?u=76281980&t=135)** I'm going to copy these columns over, and I'm going to ask [[ChatGPT]], what columns are relevant for training our classification model?
 >
 > **[2:22](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/loading-and-exploring-classification-data?u=76281980&t=142)** So I give ChatGPT to the columns, and I ask it, do you think all of the features are relevant in predicting customer churn?
 >
@@ -1861,7 +1846,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[ChatGPT]] (4), [[PyTorch]] (3), [[Generative AI]] (1), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[PyTorch]] (3), [[Data Processing]] (1), [[Generative AI]] (1)
 > **Definitions:** is a  (5)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
@@ -1870,14 +1855,13 @@ created: 2026-05-02
 > **Warnings:** heads up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a LightningDataModule
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/creating-a-lightningdatamodule?u=76281980)
+#### [Creating a LightningDataModule](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/creating-a-lightningdatamodule?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/creating-a-lightningdatamodule?u=76281980&t=1)** - [Instructor] If you remember the previous regression demo where we used PyTorch Lightning, the first thing we set up was a data module class.
+> **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/creating-a-lightningdatamodule?u=76281980&t=1)** - [Instructor] If you remember the previous regression demo where we used [[PyTorch]] Lightning, the first thing we set up was a data module class.
 >
-> **[0:08](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/creating-a-lightningdatamodule?u=76281980&t=8)** This data module encapsulated all of the data preparation, processing, and other operations to work with our training and validation data.
+> **[0:08](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/creating-a-lightningdatamodule?u=76281980&t=8)** This data module encapsulated all of the [[Data Preparation]], processing, and other operations to work with our training and validation data.
 >
 > **[0:18](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/creating-a-lightningdatamodule?u=76281980&t=18)** Here is our bank customer churn data module, which inherits from the PL dot lightning data module based class.
 >
@@ -1903,7 +1887,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/creating-a-lightningdatamodule?u=76281980&t=81)** I'll use drop init to drop records with missing values, and I'll use drop duplicates to get rid of duplicate rows.
 >
-> **[1:28](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/creating-a-lightningdatamodule?u=76281980&t=88)** Now, ChatGPT had suggested that certain columns are not relevant, such as row number, customer ID, and surname.
+> **[1:28](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/creating-a-lightningdatamodule?u=76281980&t=88)** Now, [[ChatGPT]] had suggested that certain columns are not relevant, such as row number, customer ID, and surname.
 >
 > **[1:34](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/creating-a-lightningdatamodule?u=76281980&t=94)** Let's drop those.
 >
@@ -1969,7 +1953,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (41), [[PyTorch]] (2), [[ChatGPT]] (1), power (1), next (1)
+> **Frameworks & Libraries:** [[PyTorch]] (2), [[Data Preparation]] (1), [[ChatGPT]] (1)
 > **Prerequisites:** set up (4), setup (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** csv (1)
@@ -1977,12 +1961,11 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a LightningModule
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/creating-a-lightningmodule?u=76281980)
+#### [Creating a LightningModule](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/creating-a-lightningmodule?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/creating-a-lightningmodule?u=76281980&t=1)** - [Instructor] We are now ready to define our PyTorch lightning module, which will hold our model as well as have the steps required for training and validating our model.
+> **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/creating-a-lightningmodule?u=76281980&t=1)** - [Instructor] We are now ready to define our [[PyTorch]] lightning module, which will hold our model as well as have the steps required for training and validating our model.
 >
 > **[0:11](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/creating-a-lightningmodule?u=76281980&t=11)** Here's a class that I've defined, binary classification module.
 >
@@ -2008,7 +1991,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/creating-a-lightningmodule?u=76281980&t=62)** This is the output layer on line 12.
 >
-> **[1:05](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/creating-a-lightningmodule?u=76281980&t=65)** The output of this layer will be a probability score, and this is the probability score that we use to determine whether a particular customer churned or not.
+> **[1:05](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/creating-a-lightningmodule?u=76281980&t=65)** The output of this layer will be a [[Probability]] score, and this is the probability score that we use to determine whether a particular customer churned or not.
 >
 > **[1:16](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/creating-a-lightningmodule?u=76281980&t=76)** Once again, I call self.save hyper parameters on line 16.
 >
@@ -2068,7 +2051,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (8), data (7), [[PyTorch]] (1)
+> **Frameworks & Libraries:** [[Probability]] (8), [[PyTorch]] (1)
 > **Env Vars:** bce (4)
 > **Definitions:** refers to (1), stands for (1), is an  (1)
 > **Prerequisites:** set up (2), configure (1)
@@ -2076,8 +2059,7 @@ created: 2026-05-02
 > **Versions:** 0.001 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Training a classification model and evaluating metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-a-classification-model-and-evaluating-metrics?u=76281980)
+#### [Training a classification model and evaluating metrics](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-a-classification-model-and-evaluating-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2085,7 +2067,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-a-classification-model-and-evaluating-metrics?u=76281980&t=8)** Here is what the layers of the model look like.
 >
-> **[0:12](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-a-classification-model-and-evaluating-metrics?u=76281980&t=12)** We know that the training process of this model is a very straightforward using a PyTorch trainer.
+> **[0:12](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-a-classification-model-and-evaluating-metrics?u=76281980&t=12)** We know that the training process of this model is a very straightforward using a [[PyTorch]] trainer.
 >
 > **[0:18](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-a-classification-model-and-evaluating-metrics?u=76281980&t=18)** Once again, I use a CSV logger to log out the training metrics in a CSV file.
 >
@@ -2125,7 +2107,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-a-classification-model-and-evaluating-metrics?u=76281980&t=118)** The predictions here are in the form of raw unnormalized logic scores.
 >
-> **[2:04](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-a-classification-model-and-evaluating-metrics?u=76281980&t=124)** In order to get these scores in the form of probability values between zero and one, you need to apply the torch. sigmoid function, and then torch round will give us the actual predictions in the form of zero one values.
+> **[2:04](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-a-classification-model-and-evaluating-metrics?u=76281980&t=124)** In order to get these scores in the form of [[Probability]] values between zero and one, you need to apply the torch. sigmoid function, and then torch round will give us the actual predictions in the form of zero one values.
 >
 > **[2:17](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/training-a-classification-model-and-evaluating-metrics?u=76281980&t=137)** I'll now get the ground truth labels from the validation data.
 >
@@ -2167,7 +2149,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[PyTorch]] (2), next (1), [[Probability]] (1), hit (1)
+> **Frameworks & Libraries:** [[PyTorch]] (2), [[Probability]] (1)
 > **Versions:** 0.436 (1), 0.48 (1), 0.351 (1), 0.331 (1), 0.857 (1)
 > **Env Vars:** gpu (3), csv (2)
 > **File Paths:** metrics.csv (1)
@@ -2179,12 +2161,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/summary-and-next-steps?u=76281980)
+#### [Summary and next steps](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/summary-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/summary-and-next-steps?u=76281980&t=1)** - [Instructor] And this demo brings us to the very end of this AI workshop on building a neural network with PyTorch Lightning.
+> **[0:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/summary-and-next-steps?u=76281980&t=1)** - [Instructor] And this demo brings us to the very end of this AI workshop on building a neural network with [[PyTorch]] Lightning.
 >
 > **[0:07](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/summary-and-next-steps?u=76281980&t=7)** Now, we started this course off with a quick overview of PyTorch and PyTorch Lightning, and we discussed how PyTorch Lightning allows us to write cleaner and more modular code for model training.
 >
@@ -2196,9 +2177,9 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/summary-and-next-steps?u=76281980&t=51)** Well, this brings us to the very end of this AI workshop.
 >
-> **[0:54](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/summary-and-next-steps?u=76281980&t=54)** If you're interested in neural networks and you want to study further, here are some other courses on LinkedIn Learning you might want to watch.
+> **[0:54](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/summary-and-next-steps?u=76281980&t=54)** If you're interested in [[Neural Networks]] and you want to study further, here are some other courses on [[LinkedIn]] Learning you might want to watch.
 >
-> **[1:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/summary-and-next-steps?u=76281980&t=61)** TensorFlow: Neural Networks and Working with Tables and [[Hands-On PyTorch Machine Learning]] are both great courses that might be a good fit for you.
+> **[1:01](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/summary-and-next-steps?u=76281980&t=61)** [[TensorFlow]]: Neural Networks and Working with Tables and [[Hands-On PyTorch Machine Learning]] are both great courses that might be a good fit for you.
 >
 > **[1:11](https://www.linkedin.com/learning/ai-workshop-build-a-neural-network-with-pytorch-lightning-26906172/summary-and-next-steps?u=76281980&t=71)** Well, that's it from me here today.
 >
@@ -2208,7 +2189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PyTorch]] (9), ai (3), [[Neural Networks]] (2), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[PyTorch]] (9), [[Neural Networks]] (2), [[LinkedIn]] (1), [[TensorFlow]] (1)
 > **Cross-References:** we discussed (1), in the next (1)
 > **Exercise Files:** boilerplate (2)
 > **Speakers:** - [instructor] (1)

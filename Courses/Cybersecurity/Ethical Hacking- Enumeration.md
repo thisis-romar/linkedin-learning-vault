@@ -102,12 +102,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Starting your testing with enumeration
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/starting-your-testing-with-enumeration?u=76281980)
+#### [Starting your testing with enumeration](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/starting-your-testing-with-enumeration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/starting-your-testing-with-enumeration?u=76281980&t=0)** - [Instructor] When carrying out testing through ethical hacking one of the key activities that directs the testing is a enumeration.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/starting-your-testing-with-enumeration?u=76281980&t=0)** - [Instructor] When carrying out testing through [[Ethical Hacking]] one of the key activities that directs the testing is a enumeration.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/starting-your-testing-with-enumeration?u=76281980&t=8)** The ability to find out everything about a target by enumerating its ports and services, its uses and accounts, it's processes and just about everything that can be exposed and enumerator.
 >
@@ -115,13 +114,13 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/starting-your-testing-with-enumeration?u=76281980&t=30)** I'm Malcolm Shore and I've spent a career helping governments and businesses protect their systems against cyber attacks.
 >
-> **[0:38](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/starting-your-testing-with-enumeration?u=76281980&t=38)** In this course, I'll explore how to enumerate Windows and Linux systems using the tools built into CALI as well as some third party tools.
+> **[0:38](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/starting-your-testing-with-enumeration?u=76281980&t=38)** In this course, I'll explore how to enumerate [[Windows]] and [[Linux]] systems using the tools built into CALI as well as some third party tools.
 >
 > **[0:48](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/starting-your-testing-with-enumeration?u=76281980&t=48)** I'll start by explaining enumeration in the context of technical testing and I'll demonstrate the basic Windows and Linux toolsets.
 >
 > **[0:57](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/starting-your-testing-with-enumeration?u=76281980&t=57)** I'll then look at the detailed enumeration of special protocols such as SMB, RPC, and SNMP.
 >
-> **[1:07](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/starting-your-testing-with-enumeration?u=76281980&t=67)** I'll show how to enumerate websites and databases and how to enumerate the internet as a whole.
+> **[1:07](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/starting-your-testing-with-enumeration?u=76281980&t=67)** I'll show how to enumerate websites and [[Databases]] and how to enumerate the internet as a whole.
 >
 > **[1:15](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/starting-your-testing-with-enumeration?u=76281980&t=75)** Finally, I'll demonstrate some key third party tools for enumeration.
 >
@@ -131,25 +130,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Linux]] (2), [[Ethical Hacking]] (1), business (1), career (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Linux]] (2), [[Ethical Hacking]] (1), [[Databases]] (1)
 > **Env Vars:** cali (1), smb (1), rpc (1), snmp (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-you-need-to-know?u=76281980&t=0)** - [Instructor] This is a practical course, and during this course, I'll be using a virtualized computing environment called VirtualBox.
 >
-> **[0:08](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-you-need-to-know?u=76281980&t=8)** I will also be using a number of tools which are part of the Kali Linux framework to test systems.
+> **[0:08](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-you-need-to-know?u=76281980&t=8)** I will also be using a number of tools which are part of the [[Kali Linux]] framework to test systems.
 >
 > **[0:14](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-you-need-to-know?u=76281980&t=14)** If you're not familiar with virtualization, you should watch the Introduction to Kali Linux Course, which will show you how to install and use VirtualBox.
 >
-> **[0:24](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-you-need-to-know?u=76281980&t=24)** In addition, I'll be assuming that you understand basic computer networking concepts, are familiar with Windows, and have a knowledge of basic Linux commands.
+> **[0:24](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-you-need-to-know?u=76281980&t=24)** In addition, I'll be assuming that you understand basic [[Computer Networking]] concepts, are familiar with [[Windows]], and have a knowledge of basic [[Linux]] commands.
 >
 > **[0:34](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-you-need-to-know?u=76281980&t=34)** This course requires a number of tools to be downloaded and installed, and you can pre-install these tools to avoid unnecessary waiting during the course.
 >
@@ -157,18 +155,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kali Linux]] (2), [[Virtualization]] (1), [[Computer Networking]] (1), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (2), [[Computer Networking]] (1), [[Windows]] (1), [[Linux]] (1)
 > **Prerequisites:** install (2), required to (1)
 > **Env Vars:** pdf (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Disclaimer
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/disclaimer?u=76281980)
+#### [Disclaimer](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/disclaimer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/disclaimer?u=76281980&t=0)** - [Instructor] This course uses a range of third-party testing tools, some are commercial products and some are open source.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/disclaimer?u=76281980&t=0)** - [Instructor] This course uses a range of third-party testing tools, some are commercial [[Microsoft Products|products]] and some are open source.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/disclaimer?u=76281980&t=8)** The download and installation instructions for all tools used in this course is available as a PDF in the associated course material.
 >
@@ -191,8 +188,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is enumeration?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-is-enumeration?u=76281980)
+#### [What is enumeration?](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-is-enumeration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -202,7 +198,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-is-enumeration?u=76281980&t=16)** Enumeration occurs after scanning and is part of the overall information gathering or reconnaissance activity.
 >
-> **[0:24](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-is-enumeration?u=76281980&t=24)** Testers need to be methodical in their approach to ethical hacking.
+> **[0:24](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-is-enumeration?u=76281980&t=24)** Testers need to be methodical in their approach to [[Ethical Hacking]].
 >
 > **[0:28](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-is-enumeration?u=76281980&t=28)** And this means structured preparation for testing a target system, for example, the tester may wish to do the following before starting any vulnerability testing: extract usernames using enumeration, gather information about the host using null sessions, perform port enumeration using scanning tools.
 >
@@ -244,7 +240,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethical Hacking]] (2), dns (2), web (1), data (1), management (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (2)
 > **Env Vars:** rpc (3), smtp (2), dns (2), smb (2), snmp (1)
 > **Ports:** port 53 (1), port 25 (1), port 135 (1), port 137 (1), port 139 (1)
 > **Analogies:** for example (2), such as (2)
@@ -252,8 +248,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding contexts
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-contexts?u=76281980)
+#### [Understanding contexts](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-contexts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -261,7 +256,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-contexts?u=76281980&t=4)** And a process has an operating context.
 >
-> **[0:06](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-contexts?u=76281980&t=6)** In both windows and Linux, a process operates in one of two modes, user a mode and system mode, which is also known as kernel or supervisor mode.
+> **[0:06](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-contexts?u=76281980&t=6)** In both [[Windows]] and [[Linux]], a process operates in one of two modes, user a mode and system mode, which is also known as kernel or supervisor mode.
 >
 > **[0:18](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-contexts?u=76281980&t=18)** In fact, a single process will often switch between the two modes with a user mode process, switching to kernel mode when it makes the system call.
 >
@@ -281,7 +276,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-contexts?u=76281980&t=75)** Such rings are arranged in a hierarchy from most privileged, ring zero, to least privileged.
 >
-> **[1:21](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-contexts?u=76281980&t=81)** Ring zero is kernel mode, is the level with the most privileges and interacts most directly with the physical hardware such as the CPU and memory.
+> **[1:21](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-contexts?u=76281980&t=81)** Ring zero is kernel mode, is the level with the most privileges and interacts most directly with the physical [[Hardware]] such as the CPU and memory.
 >
 > **[1:32](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-contexts?u=76281980&t=92)** In earlier windows operating systems rings one and two were not used.
 >
@@ -309,19 +304,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), [[Linux]] (2), [[Hardware]] (1), application (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Linux]] (2), [[Hardware]] (1)
 > **Definitions:** known as (5), is a  (1)
 > **Env Vars:** cpu (1), vtx (1), vms (1), arm (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
 > **Speakers:** - code (1)
 
-#### Working with contexts
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/working-with-contexts?u=76281980)
+#### [Working with contexts](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/working-with-contexts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/working-with-contexts?u=76281980&t=0)** - [Instructor] In Linux, every user account is automatically assigned a user identification number, the UID.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/working-with-contexts?u=76281980&t=0)** - [Instructor] In [[Linux]], every user account is automatically assigned a user identification number, the UID.
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/working-with-contexts?u=76281980&t=7)** And the system uses these numbers instead of the usernames to identify and keep track of user context.
 >
@@ -381,7 +375,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/working-with-contexts?u=76281980&t=183)** And we can exit to come back to user mode.
 >
-> **[3:07](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/working-with-contexts?u=76281980&t=187)** In Windows, there are two important contexts for a user, standard and administrator.
+> **[3:07](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/working-with-contexts?u=76281980&t=187)** In [[Windows]], there are two important contexts for a user, standard and administrator.
 >
 > **[3:13](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/working-with-contexts?u=76281980&t=193)** The context for a user count can be set in the user account details by changing the account type.
 >
@@ -397,15 +391,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), [[Security]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Windows]] (1)
 > **CLI Commands:** sudo (11), cat (3)
 > **Env Vars:** uid (8), gvm (1)
 > **UI Navigation:** go to (1), switch to (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding NetBIOS, SMB, SAMBA, and RPC
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-netbios-smb-samba-and-rpc?u=76281980)
+#### [Understanding NetBIOS, SMB, SAMBA, and RPC](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-netbios-smb-samba-and-rpc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -413,11 +406,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-netbios-smb-samba-and-rpc?u=76281980&t=13)** Ethernet is now the dominant and almost exclusive low level protocol for traditional IT local area networks.
 >
-> **[0:21](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-netbios-smb-samba-and-rpc?u=76281980&t=21)** Some API specifications have been developed for both local area network and internet use, and which are often referred to as protocols.
+> **[0:21](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-netbios-smb-samba-and-rpc?u=76281980&t=21)** Some API specifications have been developed for both [[Local Area Network (LAN)|local area network]] and internet use, and which are often referred to as protocols.
 >
 > **[0:30](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-netbios-smb-samba-and-rpc?u=76281980&t=30)** The key ones are NetBIOS, SMB, SAMBA, and RPC.
 >
-> **[0:35](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-netbios-smb-samba-and-rpc?u=76281980&t=35)** The Network Basic Input-Output System, NetBIOS, provides session layer services for Windows systems, which allow applications on separate computers to communicate over a local area network.
+> **[0:35](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-netbios-smb-samba-and-rpc?u=76281980&t=35)** The Network Basic Input-Output System, NetBIOS, provides session layer services for [[Windows]] systems, which allow applications on separate computers to communicate over a local area network.
 >
 > **[0:49](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-netbios-smb-samba-and-rpc?u=76281980&t=49)** NetBIOS is an API specification rather than a protocol and requires a networking protocol to carry NetBIOS payloads.
 >
@@ -429,7 +422,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-netbios-smb-samba-and-rpc?u=76281980&t=91)** This not only works on the local network, but can also be accessed through IP across the internet.
 >
-> **[1:39](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-netbios-smb-samba-and-rpc?u=76281980&t=99)** SAMBA is a free software implementation of SMB which can integrate with Windows systems and is standard on Linux distributions.
+> **[1:39](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-netbios-smb-samba-and-rpc?u=76281980&t=99)** SAMBA is a free software implementation of SMB which can integrate with Windows systems and is standard on [[Linux]] distributions.
 >
 > **[1:48](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-netbios-smb-samba-and-rpc?u=76281980&t=108)** The distributed computing environment, DCE, is a software system developed in the early 1990s as a framework and toolkit for developing client/server applications.
 >
@@ -449,11 +442,11 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-netbios-smb-samba-and-rpc?u=76281980&t=176)** The programmer on the client side issues a call and the programmer on the server side writes a procedure to carry out the desired function.
 >
-> **[3:05](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-netbios-smb-samba-and-rpc?u=76281980&t=185)** The Microsoft implementation of RPC, MSRPC, is an extended implementation of RPC which operates over SMB or across TCP/IP.
+> **[3:05](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-netbios-smb-samba-and-rpc?u=76281980&t=185)** The [[Microsoft]] implementation of RPC, MSRPC, is an extended implementation of RPC which operates over SMB or across TCP/IP.
 >
 > **[3:18](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-netbios-smb-samba-and-rpc?u=76281980&t=198)** It's used extensively in Microsoft systems.
 >
-> **[3:21](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-netbios-smb-samba-and-rpc?u=76281980&t=201)** The Windows server domains protocols are entirely MSRPC-based.
+> **[3:21](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-netbios-smb-samba-and-rpc?u=76281980&t=201)** The [[Windows Server]] domains protocols are entirely MSRPC-based.
 >
 > **[3:27](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/understanding-netbios-smb-samba-and-rpc?u=76281980&t=207)** Microsoft DNS administrative tool uses MSRPC.
 >
@@ -463,7 +456,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (4), application (3), api (2), [[Local Area Network (LAN)|Local area network]] (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Local Area Network (LAN)|Local area network]] (2), [[Windows]] (2), [[Linux]] (1), [[Windows Server]] (1)
 > **Env Vars:** rpc (6), msrpc (6), tcp (4), smb (4), udp (3)
 > **Definitions:** is an  (3), is a  (2), known as (2)
 > **Ports:** port 137 (1), port 138 (1), port 139 (1)
@@ -476,12 +469,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Profiling a Unix host
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-unix-host?u=76281980)
+#### [Profiling a Unix host](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-unix-host?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-unix-host?u=76281980&t=0)** - [Instructor] Linux provides a number of commands to enable basic profiling of the activity in the system.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-unix-host?u=76281980&t=0)** - [Instructor] [[Linux]] provides a number of commands to enable basic profiling of the activity in the system.
 >
 > **[0:06](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-unix-host?u=76281980&t=6)** I'll go through the main ones fairly quickly.
 >
@@ -497,7 +489,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-unix-host?u=76281980&t=42)** I can look at his distribution details by entering cat /etc/*-release.
 >
-> **[0:54](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-unix-host?u=76281980&t=54)** And I can see that the Ubuntu distribution is version 8.04 code name party.
+> **[0:54](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-unix-host?u=76281980&t=54)** And I can see that the [[Ubuntu]] distribution is version 8.04 code name party.
 >
 > **[0:59](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-unix-host?u=76281980&t=59)** I can enumerate details on the CPU by entering cat /proc/cpu info.
 >
@@ -557,13 +549,13 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-unix-host?u=76281980&t=242)** And I can generally find version information on an application.
 >
-> **[4:06](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-unix-host?u=76281980&t=246)** With the -v or --version switch, for example, python --version.
+> **[4:06](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-unix-host?u=76281980&t=246)** With the -v or --version switch, for example, [[Python (Programming Language)|python]] --version.
 >
 > **[4:16](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-unix-host?u=76281980&t=256)** I won't spend too much time on network information as I'll cover this in more detail later in the course.
 >
 > **[4:22](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-unix-host?u=76281980&t=262)** However, I can find the list of interfaces using the ifconfig command.
 >
-> **[4:28](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-unix-host?u=76281980&t=268)** I can see the routing on the host using the command route.
+> **[4:28](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-unix-host?u=76281980&t=268)** I can see the [[Routing]] on the host using the command route.
 >
 > **[4:33](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-unix-host?u=76281980&t=273)** And we can see that the default route is through the gateway at 10.0.2.1.
 >
@@ -579,7 +571,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), [[Ubuntu]] (2), application (1), [[Python (Programming Language)|Python]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Ubuntu]] (2), [[Python (Programming Language)|Python]] (1), [[Routing]] (1)
 > **CLI Commands:** cat (5), find (4), python (1), ssh (1)
 > **Env Vars:** cpu (1), uid (1), psn (1), tcp (1), ssh (1)
 > **Versions:** 2.6.24 (1), version 4 (1), 2.3 (1), version 8 (1), 10.0.2 (1)
@@ -588,16 +580,15 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Analogies:** for example (1)
 
-#### Profiling a Windows host
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-windows-host?u=76281980)
+#### [Profiling a Windows host](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-windows-host?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-windows-host?u=76281980&t=0)** - [Instructor] While the windows command shell doesn't provide quite the same level of detailed information that's available in Linux, we can install a set of tools which adds quite a lot of local and remote capability.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-windows-host?u=76281980&t=0)** - [Instructor] While the [[Windows]] command shell doesn't provide quite the same level of detailed information that's available in [[Linux]], we can install a set of tools which adds quite a lot of local and remote capability.
 >
 > **[0:11](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-windows-host?u=76281980&t=11)** These are the PS tools from system internals.
 >
-> **[0:14](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-windows-host?u=76281980&t=14)** The tools can be downloaded as a zip file from the Microsoft TechNet site as shown.
+> **[0:14](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-windows-host?u=76281980&t=14)** The tools can be downloaded as a zip file from the [[Microsoft]] TechNet site as shown.
 >
 > **[0:19](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-windows-host?u=76281980&t=19)** I've already downloaded and extracted the tools, so I'll get straight into it.
 >
@@ -605,7 +596,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-windows-host?u=76281980&t=29)** We do this using the psInfo tool.
 >
-> **[0:34](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-windows-host?u=76281980&t=34)** This returns the local systems product and build information, the basic hardware configuration, and the number of hours uptime.
+> **[0:34](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-windows-host?u=76281980&t=34)** This returns the local systems product and build information, the basic [[Hardware]] configuration, and the number of hours uptime.
 >
 > **[0:41](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-windows-host?u=76281980&t=41)** It also provides the root directory for the system which is commonly c:/ windows.
 >
@@ -617,7 +608,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-windows-host?u=76281980&t=66)** I'll add the remote server name to the command line.
 >
-> **[1:11](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-windows-host?u=76281980&t=71)** And here we see the remote system information, my Windows 10 system.
+> **[1:11](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-windows-host?u=76281980&t=71)** And here we see the remote system information, my [[Windows 10]] system.
 >
 > **[1:15](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/profiling-a-windows-host?u=76281980&t=75)** Note the time using implicit access with my current user id.
 >
@@ -677,7 +668,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Windows]] (2), [[Microsoft]] (2), [[Linux]] (1), product (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Microsoft]] (2), [[Linux]] (1), [[Hardware]] (1), [[Windows 10]] (1)
 > **Code Identifiers:** psinfo (3), pslist (2)
 > **Env Vars:** rpc (1), cpu (1), bna (1)
 > **Tools:** command line (2)
@@ -686,8 +677,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Prerequisites:** install (1)
 
-#### Investigating the Windows network interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/investigating-the-windows-network-interface?u=76281980)
+#### [Investigating the Windows network interface](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/investigating-the-windows-network-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -695,7 +685,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/investigating-the-windows-network-interface?u=76281980&t=10)** We can also run it from the command line.
 >
-> **[0:12](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/investigating-the-windows-network-interface?u=76281980&t=12)** I'll run this against my Windows 7 system.
+> **[0:12](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/investigating-the-windows-network-interface?u=76281980&t=12)** I'll run this against my [[Windows]] 7 system.
 >
 > **[0:15](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/investigating-the-windows-network-interface?u=76281980&t=15)** I have a standard user account which I can use called training.
 >
@@ -711,9 +701,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/investigating-the-windows-network-interface?u=76281980&t=59)** I can also run this with the R option and get a directory listing of files in the accessible temp share.
 >
-> **[1:12](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/investigating-the-windows-network-interface?u=76281980&t=72)** There's also a tool for Kali, which can be used to enumerate the permission shares, directories, and files on a host Windows and Linux systems.
+> **[1:12](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/investigating-the-windows-network-interface?u=76281980&t=72)** There's also a tool for Kali, which can be used to enumerate the permission shares, directories, and files on a host Windows and [[Linux]] systems.
 >
-> **[1:21](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/investigating-the-windows-network-interface?u=76281980&t=81)** This is shareenum, and if it's not preloaded on your version of Kali, it can be downloaded and installed from the GitHub site shown.
+> **[1:21](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/investigating-the-windows-network-interface?u=76281980&t=81)** This is shareenum, and if it's not preloaded on your version of Kali, it can be downloaded and installed from the [[GitHub]] site shown.
 >
 > **[1:29](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/investigating-the-windows-network-interface?u=76281980&t=89)** If I execute shareenum with no options, I get the help output.
 >
@@ -739,16 +729,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Investigating the Linux network interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/investigating-the-linux-network-interface?u=76281980)
+#### [Investigating the Linux network interface](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/investigating-the-linux-network-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/investigating-the-linux-network-interface?u=76281980&t=0)** - [Instructor] We can run netstat in a Linux environment although the command line options are slightly different.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/investigating-the-linux-network-interface?u=76281980&t=0)** - [Instructor] We can run netstat in a [[Linux]] environment although the command line options are slightly different.
 >
 > **[0:06](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/investigating-the-linux-network-interface?u=76281980&t=6)** To start, I'll check the netstat -help file.
 >
-> **[0:10](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/investigating-the-linux-network-interface?u=76281980&t=10)** This lists the command line options, we can see the familiar ones such as r for routing, n for numeric and s for statistics.
+> **[0:10](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/investigating-the-linux-network-interface?u=76281980&t=10)** This lists the command line options, we can see the familiar ones such as r for [[Routing]], n for numeric and s for [[Statistics]].
 >
 > **[0:17](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/investigating-the-linux-network-interface?u=76281980&t=17)** However, many of the others have different meanings.
 >
@@ -822,7 +811,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (2), [[Linux]] (1), [[Statistics]] (1), web (1), next (1)
+> **Frameworks & Libraries:** [[Routing]] (2), [[Linux]] (1), [[Statistics]] (1)
 > **Env Vars:** tcp (4), udp (3), iaf (1), icmp (1)
 > **Analogies:** for example (3), such as (1)
 > **Versions:** 132.181.109 (2)
@@ -836,14 +825,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Enumerating host services
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-host-services?u=76281980)
+#### [Enumerating host services](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-host-services?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-host-services?u=76281980&t=0)** - [Instructor] One of the first tasks after identifying a remote host is to enumerate the ports available on it.
 >
-> **[0:06](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-host-services?u=76281980&t=6)** We can do this easily with the Nmap command.
+> **[0:06](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-host-services?u=76281980&t=6)** We can do this easily with the [[Nmap]] command.
 >
 > **[0:09](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-host-services?u=76281980&t=9)** Let's enumerate the services on our Metasploitable host using the minus PS option.
 >
@@ -873,16 +861,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Nmap]] (4)
 > **Env Vars:** udp (3), tcp (1)
 > **Ports:** port 68 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enumerating SMB from Linux: Episode 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-1?u=76281980)
+#### [Enumerating SMB from Linux: Episode 1](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-1?u=76281980&t=0)** - [Instructor] SMB and its Linux equivalent Samba are important protocols for the pentester to master.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-1?u=76281980&t=0)** - [Instructor] SMB and its [[Linux]] equivalent Samba are important protocols for the pentester to master.
 >
 > **[0:06](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-1?u=76281980&t=6)** We can use SMB to enumerate the network using a tool called nbtscan.
 >
@@ -902,7 +890,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-1?u=76281980&t=44)** 1U and 01G of both master browser.
 >
-> **[0:48](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-1?u=76281980&t=48)** The full list of codes can be found at the Windows networking site.
+> **[0:48](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-1?u=76281980&t=48)** The full list of codes can be found at the [[Windows]] networking site.
 >
 > **[0:52](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-1?u=76281980&t=52)** I can use nbtscan to provide netbios information on a single host.
 >
@@ -910,7 +898,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-1?u=76281980&t=65)** This was the same information provided in the network scan in a slightly different format.
 >
-> **[1:15](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-1?u=76281980&t=75)** I can also enumerate individual system resources using nmap SMB scripts.
+> **[1:15](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-1?u=76281980&t=75)** I can also enumerate individual system resources using [[Nmap]] SMB scripts.
 >
 > **[1:20](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-1?u=76281980&t=80)** Let's check what scripts we have available.
 >
@@ -920,7 +908,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-1?u=76281980&t=102)** This lists the open ports on my Windows 7 system which is on my testing network and shows the operating system details.
 >
-> **[1:56](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-1?u=76281980&t=116)** I can also run this script across the internet and I'll target my Windows 10 system on IP address 192.168.1.10.
+> **[1:56](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-1?u=76281980&t=116)** I can also run this script across the internet and I'll target my [[Windows 10]] system on IP address 192.168.1.10.
 >
 > **[2:04](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-1?u=76281980&t=124)** Again, you have enumerated the open ports and acquired the operating system details.
 >
@@ -932,7 +920,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-1?u=76281980&t=151)** Let's enumerate the user accounts on metasploitable.
 >
-> **[2:34](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-1?u=76281980&t=154)** Here we see the open ports followed by a listing of accounts, starting with backup, including MSF admin, and also showing route and user, sys, UUCP and ww data.
+> **[2:34](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-1?u=76281980&t=154)** Here we see the open ports followed by a listing of accounts, starting with backup, including [[Metasploit|MSF]] admin, and also showing route and user, sys, UUCP and ww data.
 >
 > **[2:59](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-1?u=76281980&t=179)** Many of these counts are disabled.
 >
@@ -968,15 +956,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (4), [[Windows]] (4), [[Windows 10]] (2), [[Scripting]] (1), data (1)
+> **Frameworks & Libraries:** [[Linux]] (4), [[Windows]] (4), [[Windows 10]] (2), [[Nmap]] (1), [[Metasploit|Msf]] (1)
 > **Non-Speech:** (typing) (12)
 > **Env Vars:** smb (5), msf (1), uucp (1), ipc (1), mbt (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Versions:** 192.168.1 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enumerating SMB from Linux: Episode 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-2?u=76281980)
+#### [Enumerating SMB from Linux: Episode 2](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -986,7 +973,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-2?u=76281980&t=10)** We can also run it from the command line.
 >
-> **[0:12](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-2?u=76281980&t=12)** I'll run this against my Windows 7 system.
+> **[0:12](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-2?u=76281980&t=12)** I'll run this against my [[Windows]] 7 system.
 >
 > **[0:15](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-2?u=76281980&t=15)** I have a standard user account which I can use called training.
 >
@@ -1002,11 +989,11 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-2?u=76281980&t=59)** I can also run this with the R option and get a direct relisting of files in the accessible temp share.
 >
-> **[1:12](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-2?u=76281980&t=72)** There's also a tool for Kali which can be used to enumerate the permission shares, directories and files on a host Windows and Linux systems.
+> **[1:12](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-2?u=76281980&t=72)** There's also a tool for Kali which can be used to enumerate the permission shares, directories and files on a host Windows and [[Linux]] systems.
 >
 > **[1:21](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-2?u=76281980&t=81)** This is ShareEnum.
 >
-> **[1:22](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-2?u=76281980&t=82)** And if it's not preloaded on your version of Kali it can be downloaded and installed from the GitHub site shown.
+> **[1:22](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-2?u=76281980&t=82)** And if it's not preloaded on your version of Kali it can be downloaded and installed from the [[GitHub]] site shown.
 >
 > **[1:29](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-2?u=76281980&t=89)** If I execute sharing them with no options, I get the help out part.
 >
@@ -1030,16 +1017,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enumerating SMB from Linux: Episode 3
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-3?u=76281980)
+#### [Enumerating SMB from Linux: Episode 3](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-3?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-3?u=76281980&t=0)** - [Instructor] A useful tool for Windows SMB enumeration, from Linux, is RPC client which comes as part of the Samba suite.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-3?u=76281980&t=0)** - [Instructor] A useful tool for [[Windows]] SMB enumeration, from [[Linux]], is RPC client which comes as part of the Samba suite.
 >
 > **[0:09](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-3?u=76281980&t=9)** It needs authenticated access, so we'll use the IE user account for enumeration with its password of password shriek.
 >
-> **[0:17](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-3?u=76281980&t=17)** I'll use it to enumerate my Windows 10 system, but, firstly, let's have a look at its help.
+> **[0:17](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-3?u=76281980&t=17)** I'll use it to enumerate my [[Windows 10]] system, but, firstly, let's have a look at its help.
 >
 > **[0:26](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-linux-episode-3?u=76281980&t=26)** Okay, so now I'll connect to the Windows 10 system.
 >
@@ -1087,16 +1073,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (1), [[Linux]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** rpc (5), smb (1), admin (1), ipc (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enumerating SMB from Windows: Episode 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-windows-episode-1?u=76281980)
+#### [Enumerating SMB from Windows: Episode 1](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-windows-episode-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-windows-episode-1?u=76281980&t=0)** - [Instructor] DeepNetScanner is a windows graphical net bias scanning tool.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-windows-episode-1?u=76281980&t=0)** - [Instructor] DeepNetScanner is a [[Windows]] graphical net bias scanning tool.
 >
 > **[0:04](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-windows-episode-1?u=76281980&t=4)** It can be downloaded from the source forge sites shown here as the nbtenum zip file.
 >
@@ -1112,7 +1097,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-windows-episode-1?u=76281980&t=56)** I can, however right click and select Gather Information and in the right hand panel, we see that the deep scanning has probed using SMB and we can now see shares and we can open them and we can see services and open those.
 >
-> **[1:17](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-windows-episode-1?u=76281980&t=77)** And we can I expand the server information and the operating system to see where windows 10 system.
+> **[1:17](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-windows-episode-1?u=76281980&t=77)** And we can I expand the server information and the operating system to see where [[Windows 10]] system.
 >
 > **[1:25](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-windows-episode-1?u=76281980&t=85)** At the bottom, we have open ports and we can see two open ports, one, three, nine and four, four, five.
 >
@@ -1134,7 +1119,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-windows-episode-1?u=76281980&t=132)** And we'll again enter 10.0.2.1 to 10.0.2.20.
 >
-> **[2:23](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-windows-episode-1?u=76281980&t=143)** Above this, we have three scanning options from the left IP range scan, network neighborhood scan, and active directory scan.
+> **[2:23](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-windows-episode-1?u=76281980&t=143)** Above this, we have three scanning options from the left IP range scan, network neighborhood scan, and [[Active Directory]] scan.
 >
 > **[2:33](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-windows-episode-1?u=76281980&t=153)** I'll select the IP Range Scan.
 >
@@ -1176,7 +1161,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Windows 10]] (2), [[Active Directory]] (1), management (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Windows 10]] (2), [[Active Directory]] (1)
 > **UI Navigation:** click on (2), select the (2), go to (2), double-click (1), dropdown (1)
 > **Versions:** 10.0.2 (5)
 > **Definitions:** is a  (4)
@@ -1185,8 +1170,7 @@ created: 2026-05-02
 > **Exercise Files:** zip file (1)
 > **Analogies:** for example (1)
 
-#### Enumerating SMB from Windows: Episode 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-windows-episode-2?u=76281980)
+#### [Enumerating SMB from Windows: Episode 2](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-windows-episode-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1216,13 +1200,13 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-windows-episode-2?u=76281980&t=91)** Okay. I'll now start the scan.
 >
-> **[1:37](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-windows-episode-2?u=76281980&t=97)** I've started at my Ubuntu system, so the scan now finds seven systems on the network and continues to run the scan, with the longer-running items, such as port scans, updating as they're complete.
+> **[1:37](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-windows-episode-2?u=76281980&t=97)** I've started at my [[Ubuntu]] system, so the scan now finds seven systems on the network and continues to run the scan, with the longer-running items, such as port scans, updating as they're complete.
 >
 > **[1:49](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-windows-episode-2?u=76281980&t=109)** 10.0.2.9 and 10.0.2.14 show that they can be expanded.
 >
 > **[1:56](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-windows-episode-2?u=76281980&t=116)** When I do that, we can see the shares that are available on those two targets.
 >
-> **[2:04](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-windows-episode-2?u=76281980&t=124)** If I double click on C$, I can explore the remote Windows 10 file system.
+> **[2:04](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-windows-episode-2?u=76281980&t=124)** If I double click on C$, I can explore the remote [[Windows 10]] file system.
 >
 > **[2:14](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-smb-from-windows-episode-2?u=76281980&t=134)** And if I click on Users, I can see the user folders.
 >
@@ -1242,7 +1226,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), [[Ubuntu]] (1), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (1), [[Windows 10]] (1)
 > **Env Vars:** wmi (2), snmp (2), smb (1), udp (1)
 > **UI Navigation:** click on (2), right-click (2), go to (1)
 > **Versions:** 10.0.2 (4)
@@ -1250,8 +1234,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), for instance (1)
 > **Speakers:** - softperfect (1)
 
-#### Enumerating using SNMP
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-using-snmp?u=76281980)
+#### [Enumerating using SNMP](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-using-snmp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1259,7 +1242,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-using-snmp?u=76281980&t=8)** SNMP was approved as an internet standard in 1990 and has been used widely in network management systems since that time.
 >
-> **[0:17](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-using-snmp?u=76281980&t=17)** While most network equipment vendors provide SNMP support in their products, Microsoft has recently announced it will see support for SNMP and has essentially removed it from Windows.
+> **[0:17](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-using-snmp?u=76281980&t=17)** While most network equipment vendors provide SNMP support in their [[Microsoft Products|products]], [[Microsoft]] has recently announced it will see support for SNMP and has essentially removed it from [[Windows]].
 >
 > **[0:29](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-using-snmp?u=76281980&t=29)** Nevertheless, you'll find a lot of SNMP out there.
 >
@@ -1279,7 +1262,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-using-snmp?u=76281980&t=106)** Production systems will use a common object identifier for the same information.
 >
-> **[1:50](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-using-snmp?u=76281980&t=110)** So both a Microsoft and a Linux system will have 1.3.6.1.2.1.1.1 as the object identifier for system information.
+> **[1:50](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-using-snmp?u=76281980&t=110)** So both a Microsoft and a [[Linux]] system will have 1.3.6.1.2.1.1.1 as the object identifier for system information.
 >
 > **[2:02](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-using-snmp?u=76281980&t=122)** And 1.3.6.1.2.1.25.4.2.1.2 for running processes.
 >
@@ -1297,7 +1280,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-using-snmp?u=76281980&t=182)** 161 and we'll check our sub-net 10.0.2.0/24 and we'll look for the public community.
 >
-> **[3:14](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-using-snmp?u=76281980&t=194)** And here we see we have just 10.0.2.9, which is our Ubuntu system.
+> **[3:14](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-using-snmp?u=76281980&t=194)** And here we see we have just 10.0.2.9, which is our [[Ubuntu]] system.
 >
 > **[3:20](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-using-snmp?u=76281980&t=200)** Next we can use snmpget, which extracts a specific RID.
 >
@@ -1343,7 +1326,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), [[Microsoft]] (3), [[Microsoft Products|Products]] (2), [[Windows]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Products|Products]] (2), [[Windows]] (1), [[Linux]] (1), [[Ubuntu]] (1)
 > **Versions:** 1.3.6 (9), 1.2.1 (4), 10.0.2 (4), 2.1.1 (2), 1.4.1 (1)
 > **Env Vars:** snmp (16), mib (3), sgmp (1), iso (1), dod (1)
 > **CLI Commands:** find (1), node (1), wget (1), unzip (1)
@@ -1352,8 +1335,7 @@ created: 2026-05-02
 > **File Paths:** browser.sh (1)
 > **Code Identifiers:** ireasoning (1)
 
-#### Enumerating with RPC
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-with-rpc?u=76281980)
+#### [Enumerating with RPC](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-with-rpc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1369,7 +1351,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-with-rpc?u=76281980&t=39)** Let's load a graphical tool called winfingerprint which provides a lot of types of enumeration including enumerating RPC endpoints.
 >
-> **[0:47](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-with-rpc?u=76281980&t=47)** This is available from the QP download site and I've already installed it on my Windows system.
+> **[0:47](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-with-rpc?u=76281980&t=47)** This is available from the QP download site and I've already installed it on my [[Windows]] system.
 >
 > **[0:53](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-with-rpc?u=76281980&t=53)** Winfingerprint has many features, but for the purpose of RPC enumeration I'll select a single host and de-select all but the RPC bindings option, and then we'll scan.
 >
@@ -1377,7 +1359,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-with-rpc?u=76281980&t=80)** Carly also comes with a tool to enumerate Unix endpoints using the Unix RPC port mapper on port one, one, one.
 >
-> **[1:30](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-with-rpc?u=76281980&t=90)** RPC and Linux is available as assembler service.
+> **[1:30](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-with-rpc?u=76281980&t=90)** RPC and [[Linux]] is available as assembler service.
 >
 > **[1:32](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-with-rpc?u=76281980&t=92)** And we can use the RPC info tool in Carly to enumerate it.
 >
@@ -1387,24 +1369,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), data (1), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1)
 > **Env Vars:** rpc (10), uuid (2), tcp (2), udp (1)
 > **Versions:** 0.2.8 (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using WMI to enumerate Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-wmi-to-enumerate-windows?u=76281980)
+#### [Using WMI to enumerate Windows](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-wmi-to-enumerate-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-wmi-to-enumerate-windows?u=76281980&t=0)** - [Instructor] WMI is the Microsoft implementation of Web-Based Enterprise Management, WBEM, and Common Information Model, CIM, to industry-driven distributed system management standards.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-wmi-to-enumerate-windows?u=76281980&t=0)** - [Instructor] WMI is the [[Microsoft]] implementation of Web-Based Enterprise Management, WBEM, and Common Information Model, CIM, to industry-driven distributed system management standards.
 >
 > **[0:15](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-wmi-to-enumerate-windows?u=76281980&t=15)** Managed components are represented as WMI objects, class instances representing highly structured operating system data.
 >
-> **[0:25](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-wmi-to-enumerate-windows?u=76281980&t=25)** Microsoft provides a wealth of WMI objects that communicate information related to the operating system, as well as mechanisms such as PowerShell for accessing WMI data, and executing WMI methods.
+> **[0:25](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-wmi-to-enumerate-windows?u=76281980&t=25)** Microsoft provides a wealth of WMI objects that communicate information related to the operating system, as well as mechanisms such as [[Powershell]] for accessing WMI data, and executing WMI methods.
 >
-> **[0:39](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-wmi-to-enumerate-windows?u=76281980&t=39)** All WMI objects are queried using the WMI query language, WQL, which is similar to SQL.
+> **[0:39](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-wmi-to-enumerate-windows?u=76281980&t=39)** All WMI objects are queried using the WMI query language, WQL, which is similar to [[SQL]].
 >
 > **[0:47](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-wmi-to-enumerate-windows?u=76281980&t=47)** There are two types of WMI objects, dynamic and persistent.
 >
@@ -1412,7 +1393,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-wmi-to-enumerate-windows?u=76281980&t=57)** For example, when 32 process objects are generated on the fly.
 >
-> **[1:03](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-wmi-to-enumerate-windows?u=76281980&t=63)** Persistent objects are stored in the CIM repository located by default in the System32 Windows directory under WBEM/Repository/OBJECTS.DATA.
+> **[1:03](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-wmi-to-enumerate-windows?u=76281980&t=63)** Persistent objects are stored in the CIM repository located by default in the System32 [[Windows]] directory under WBEM/Repository/OBJECTS.DATA.
 >
 > **[1:16](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-wmi-to-enumerate-windows?u=76281980&t=76)** The Windows Management Instrumentation Service is automatically started by default in Windows, and can be used to enumerate the windows configuration.
 >
@@ -1440,7 +1421,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-wmi-to-enumerate-windows?u=76281980&t=163)** WMI is an extremely powerful tool for attackers across many phases of the attack lifecycle.
 >
-> **[2:49](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-wmi-to-enumerate-windows?u=76281980&t=169)** From reconnaissance, AVM detection, code execution, lateral movement, covered data storage, introduction of a bank door, and persistence.
+> **[2:49](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-wmi-to-enumerate-windows?u=76281980&t=169)** From reconnaissance, AVM detection, code execution, lateral movement, covered [[Data Storage]], introduction of a bank door, and persistence.
 >
 > **[3:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-wmi-to-enumerate-windows?u=76281980&t=180)** Understanding how to enumerate WMI is useful both for offensive and defensive activities.
 >
@@ -1530,7 +1511,7 @@ created: 2026-05-02
 >
 > **[7:55](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-wmi-to-enumerate-windows?u=76281980&t=475)** Moving down the classes, I'll select ROOT\Security Center2, this shows three entries in the classes panel, I'll click on the first AntiSpyware and an entry appears in the instances.
 >
-> **[8:08](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-wmi-to-enumerate-windows?u=76281980&t=488)** I can double click on that when we get the properties showing that windows defender is configured.
+> **[8:08](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-wmi-to-enumerate-windows?u=76281980&t=488)** I can double click on that when we get the properties showing that windows [[Microsoft Defender|defender]] is configured.
 >
 > **[8:16](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-wmi-to-enumerate-windows?u=76281980&t=496)** PowerShell remoting uses WinRM rather than Dcom and allows for extremely powerful remote management of a windows enterprise at scale, using PowerShell.
 >
@@ -1540,7 +1521,7 @@ created: 2026-05-02
 >
 > **[8:43](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-wmi-to-enumerate-windows?u=76281980&t=523)** I can check from PowerShell whether a remote computer is set up to take a remote WMI request.
 >
-> **[8:49](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-wmi-to-enumerate-windows?u=76281980&t=529)** I'll run the Test-WSMan command against the windows 10 system.
+> **[8:49](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-wmi-to-enumerate-windows?u=76281980&t=529)** I'll run the Test-WSMan command against the [[Windows 10]] system.
 >
 > **[8:59](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-wmi-to-enumerate-windows?u=76281980&t=539)** This confirms that it can access the remote windows seven system displaying the standard the WSMan identity banner.
 >
@@ -1554,7 +1535,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (11), [[Windows]] (9), [[Microsoft]] (6), data (6), management (5)
+> **Frameworks & Libraries:** [[Powershell]] (11), [[Windows]] (9), [[Microsoft]] (6), [[SQL]] (1), [[Data Storage]] (1)
 > **Env Vars:** wmi (29), dcom (3), root (3), wbem (2), cim (2)
 > **Tools:** powershell (11), command prompt (1)
 > **UI Navigation:** scroll down (2), click on (2), double-click (1)
@@ -1563,8 +1544,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Versions:** 127.0.0 (1)
 
-#### Enumeration using Finger
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-using-finger?u=76281980)
+#### [Enumeration using Finger](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-using-finger?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1572,7 +1552,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-using-finger?u=76281980&t=4)** It may still be available on some systems, and if it is, then it's an easy way of enumerating users.
 >
-> **[0:10](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-using-finger?u=76281980&t=10)** I've installed the Finger Daemon on my Ubuntu host so let's take a look at what it gives me.
+> **[0:10](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-using-finger?u=76281980&t=10)** I've installed the Finger Daemon on my [[Ubuntu]] host so let's take a look at what it gives me.
 >
 > **[0:15](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-using-finger?u=76281980&t=15)** It's basic use is to check on details of a specific user.
 >
@@ -1595,16 +1575,15 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Remote enumeration using PowerShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/remote-enumeration-using-powershell?u=76281980)
+#### [Remote enumeration using PowerShell](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/remote-enumeration-using-powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/remote-enumeration-using-powershell?u=76281980&t=0)** - [Instructor] When testing a target network, you may gain access to a Windows target inside the network.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/remote-enumeration-using-powershell?u=76281980&t=0)** - [Instructor] When testing a target network, you may gain access to a [[Windows]] target inside the network.
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/remote-enumeration-using-powershell?u=76281980&t=7)** At this point, you'll likely want to scan the internal network.
 >
-> **[0:11](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/remote-enumeration-using-powershell?u=76281980&t=11)** To do this, we can use the target's own PowerShell capability to scan for additional hosts or to do port scanning.
+> **[0:11](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/remote-enumeration-using-powershell?u=76281980&t=11)** To do this, we can use the target's own [[Powershell]] capability to scan for additional hosts or to do port scanning.
 >
 > **[0:19](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/remote-enumeration-using-powershell?u=76281980&t=19)** This way, we don't need to increase the risk of detection by loading additional tools.
 >
@@ -1640,7 +1619,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (6), [[Windows]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Powershell]] (6), [[Windows]] (1)
 > **Tools:** powershell (6)
 > **Versions:** 10.0.2 (3), 0.1 (1), 0.254 (1)
 > **Env Vars:** tcp (1)
@@ -1652,8 +1631,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is that web server?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-is-that-web-server?u=76281980)
+#### [What is that web server?](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-is-that-web-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1663,7 +1641,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-is-that-web-server?u=76281980&t=10)** Whatweb 10.0.2.8.
 >
-> **[0:15](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-is-that-web-server?u=76281980&t=15)** We can see the web server is running on a Ubuntu platform using the Apache 2.2.8 software configured with WebDAV, and it's called Metasploitable2 - Linux.
+> **[0:15](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-is-that-web-server?u=76281980&t=15)** We can see the web server is running on a [[Ubuntu]] platform using the Apache 2.2.8 software configured with WebDAV, and it's called Metasploitable2 - [[Linux]].
 >
 > **[0:27](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-is-that-web-server?u=76281980&t=27)** WhatWeb can also check all websites on a subnet, and using grep, we can skip hosts which don't respond.
 >
@@ -1679,23 +1657,22 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-is-that-web-server?u=76281980&t=77)** Whatweb -l, and that'll pipe that through to more.
 >
-> **[1:23](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-is-that-web-server?u=76281980&t=83)** Here we see the plugins for all the web servers and applications that Whatweb knows about, and there are plenty of them.
+> **[1:23](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-is-that-web-server?u=76281980&t=83)** Here we see the plugins for all the [[Web Servers]] and applications that Whatweb knows about, and there are plenty of them.
 >
 > **[1:30](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/what-is-that-web-server?u=76281980&t=90)** Whatweb is useful for us to rapidly kickstart our web testing and gather valuable information for subsequent deeper targeted testing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Ubuntu]] (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (2), [[Linux]] (1), [[Web Servers]] (1)
 > **Versions:** 10.0.2 (4), 2.2.8 (1), 2.4.29 (1)
 > **CLI Commands:** apache (3), grep (2)
 > **Speakers:** - [instructor] (1)
 
-#### Enumerating a website with Nikto
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-a-website-with-nikto?u=76281980)
+#### [Enumerating a website with Nikto](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-a-website-with-nikto?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-a-website-with-nikto?u=76281980&t=0)** - [Instructor] Having identified our target list of web servers with a tool such as What Web, we can use Nikto to get more detailed enumeration of these websites.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-a-website-with-nikto?u=76281980&t=0)** - [Instructor] Having identified our target list of [[Web Servers]] with a tool such as What Web, we can use [[Nikto]] to get more detailed enumeration of these websites.
 >
 > **[0:09](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-a-website-with-nikto?u=76281980&t=9)** Let's run Nikto against the Metasploitable server on 10.0.2.8.
 >
@@ -1719,7 +1696,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[Nikto]] (7), [[Web Servers]] (1)
 > **Versions:** 10.0.2 (2), 2.2.8 (1)
 > **CLI Commands:** apache (2)
 > **Env Vars:** tcn (1), osvdb (1)
@@ -1728,12 +1705,11 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enumerating webpages
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-webpages?u=76281980)
+#### [Enumerating webpages](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-webpages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-webpages?u=76281980&t=0)** - [Instructor] If we want to enumerate a website, we can do that with OWASP ZAP which we can run from the web application analysis menu.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-webpages?u=76281980&t=0)** - [Instructor] If we want to enumerate a website, we can do that with [[OWASP]] ZAP which we can run from the web application analysis menu.
 >
 > **[0:11](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-webpages?u=76281980&t=11)** We can run our analysis by clicking Automated Scan and entering 10.0.2.8.
 >
@@ -1763,21 +1739,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (1), web application (1)
+> **Frameworks & Libraries:** [[OWASP]] (1)
 > **Env Vars:** zap (6), owasp (1)
 > **Versions:** 10.0.2 (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enumerating hidden webpages
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-hidden-webpages?u=76281980)
+#### [Enumerating hidden webpages](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-hidden-webpages?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-hidden-webpages?u=76281980&t=0)** - [Instructor] Spidering is fine for pages linked to the main web route, but we also need to find those pages that aren't.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-hidden-webpages?u=76281980&t=7)** For that, we can use one of a number of tools, the main ones being DIRB, DirBuster, and Gobuster.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-hidden-webpages?u=76281980&t=7)** For that, we can use one of a number of tools, the main ones being [[Dirb]], DirBuster, and [[Gobuster]].
 >
 > **[0:13](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-hidden-webpages?u=76281980&t=13)** Let's look at a couple of these.
 >
@@ -1787,7 +1762,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-hidden-webpages?u=76281980&t=30)** Let's run DIRB in its simplest form, dirb [http://10.0.2.8](http://10.0.2.8).
 >
-> **[0:42](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-hidden-webpages?u=76281980&t=42)** The default dictionary for DIRB is in alphabetical order, and we can see the current word list being tested.
+> **[0:42](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-hidden-webpages?u=76281980&t=42)** The default dictionary for DIRB is in alphabetical order, and we can see the current [[Microsoft Word|word]] list being tested.
 >
 > **[0:49](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-hidden-webpages?u=76281980&t=49)** We can see it's quickly found a number of files and folders at the top level.
 >
@@ -1795,7 +1770,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-hidden-webpages?u=76281980&t=66)** Okay, we can see DIRB found 56 files.
 >
-> **[1:11](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-hidden-webpages?u=76281980&t=71)** We can see there's a php MyAdmin directory with a webpage, TODO.
+> **[1:11](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-hidden-webpages?u=76281980&t=71)** We can see there's a [[PHP]] MyAdmin directory with a webpage, TODO.
 >
 > **[1:16](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-hidden-webpages?u=76281980&t=76)** Let's take a look at that.
 >
@@ -1841,7 +1816,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), [[Microsoft Word|Word]] (3), [[Search]] (2), web (1)
+> **Frameworks & Libraries:** [[Gobuster]] (8), [[Dirb]] (7), [[PHP]] (4), [[Microsoft Word|Word]] (3)
 > **Env Vars:** dirb (6), php (3), todo (1)
 > **CLI Commands:** php (4), find (1), sudo (1), apt (1)
 > **Versions:** 10.0.2 (2), 2.3 (1)
@@ -1855,8 +1830,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tracing routes across the internet routes
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/tracing-routes-across-the-internet-routes?u=76281980)
+#### [Tracing routes across the internet routes](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/tracing-routes-across-the-internet-routes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1870,7 +1844,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/tracing-routes-across-the-internet-routes?u=76281980&t=34)** The trace terminates when the responses cease.
 >
-> **[0:38](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/tracing-routes-across-the-internet-routes?u=76281980&t=38)** Windows provides a tracing tool called TRACERT.
+> **[0:38](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/tracing-routes-across-the-internet-routes?u=76281980&t=38)** [[Windows]] provides a tracing tool called TRACERT.
 >
 > **[0:41](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/tracing-routes-across-the-internet-routes?u=76281980&t=41)** TRACERT and I'll look again at 67.3.11.1.
 >
@@ -1886,8 +1860,7 @@ created: 2026-05-02
 > **CLI Commands:** sudo (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Shodan
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-shodan?u=76281980)
+#### [Using Shodan](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-shodan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1957,7 +1930,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-shodan?u=76281980&t=235)** Which returns just two systems with HTTP open.
 >
-> **[3:58](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-shodan?u=76281980&t=238)** Shodan allows export of the search results in CSV, JSON, or XML format by clicking the Downloads link, and also is able to create a formatted report which it stores for subsequent access.
+> **[3:58](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-shodan?u=76281980&t=238)** Shodan allows export of the search results in CSV, [[JSON]], or XML format by clicking the Downloads link, and also is able to create a formatted report which it stores for subsequent access.
 >
 > **[4:11](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/using-shodan?u=76281980&t=251)** Shodan is a powerful enumeration tool that offers the opportunity to enumerate a significant amount of information about a target system or network without doing any active inquiries on the Internet.
 >
@@ -1967,7 +1940,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (9), database (3), feature (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** ibm (1), smtp (1), email (1), http (1), csv (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Ports:** port 1352 (1), port 80 (1)
@@ -1976,8 +1949,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - shodan (1)
 
-#### Scan the internet with ZMap
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scan-the-internet-with-zmap?u=76281980)
+#### [Scan the internet with ZMap](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scan-the-internet-with-zmap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1999,7 +1971,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scan-the-internet-with-zmap?u=76281980&t=54)** ZMap can be downloaded from the website [zmap.io](https://zmap.io) using the download ZMap link shown.
 >
-> **[1:01](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scan-the-internet-with-zmap?u=76281980&t=61)** However, it can also be installed into Linux using the standard command apt-get install ZMap.
+> **[1:01](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scan-the-internet-with-zmap?u=76281980&t=61)** However, it can also be installed into [[Linux]] using the standard command apt-get install ZMap.
 >
 > **[1:09](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scan-the-internet-with-zmap?u=76281980&t=69)** I've already installed ZMap so let's check the available options.
 >
@@ -2023,7 +1995,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scan-the-internet-with-zmap?u=76281980&t=148)** Okay, that's finished.
 >
-> **[2:36](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scan-the-internet-with-zmap?u=76281980&t=156)** And again, we see a number of public web servers in that range.
+> **[2:36](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scan-the-internet-with-zmap?u=76281980&t=156)** And again, we see a number of public [[Web Servers]] in that range.
 >
 > **[2:40](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scan-the-internet-with-zmap?u=76281980&t=160)** This is enumerated a full class b address space in just under six minutes on the consumer internet connection.
 >
@@ -2039,7 +2011,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Linux]] (1), [[Search]] (1), business (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Web Servers]] (1)
 > **CLI Commands:** apt (1), find (1)
 > **Definitions:** is a  (2)
 > **URLs:** [zmap.io](https://zmap.io) (1)
@@ -2053,30 +2025,29 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Enumeration of the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980)
+#### [Enumeration of the cloud](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=0)** - [Instructor] Cloud service providers offer a wide range of services ranging from generic operating system platforms to specialized applications.
 >
-> **[0:08](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=8)** Here we can see the services that Amazon offers which make up the Amazon web services offering.
+> **[0:08](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=8)** Here we can see the services that Amazon offers which make up the [[Amazon Web Services (AWS)|Amazon web services]] offering.
 >
 > **[0:14](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=14)** Covering compute, storage, database, management and governance, more exotic services such as quantum and machine learning and many more.
 >
-> **[0:25](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=25)** One of the most popular services in AWS is the elastic compute cloud or EC2 service.
+> **[0:25](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=25)** One of the most popular services in AWS is the elastic compute cloud or [[Amazon EC2|EC2]] service.
 >
-> **[0:32](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=32)** This is a Windows or Linux platform with an operating system installed and ready to go.
+> **[0:32](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=32)** This is a [[Windows]] or [[Linux]] platform with an operating system installed and ready to go.
 >
 > **[0:38](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=38)** When we commissioned an EC2 platform, it's called an instance.
 >
 > **[0:42](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=42)** The life business may run many hundreds of instances.
 >
-> **[0:45](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=45)** Popular data resources are the S3 simple storage service which is like a virtual drive in the cloud and the RDS service, which provides various forms of SQL databases.
+> **[0:45](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=45)** Popular data resources are the S3 simple storage service which is like a virtual drive in the cloud and the RDS service, which provides various [[Forms]] of [[SQL]] [[Databases]].
 >
 > **[0:58](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=58)** Even though a cloud service is on a public cloud, that doesn't mean it's necessarily accessible from the internet.
 >
-> **[1:05](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=65)** A cloud service such as EC2 will operate inside an AWS account virtual private network.
+> **[1:05](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=65)** A cloud service such as EC2 will operate inside an AWS account [[Virtual Private Network (VPN)|virtual private network]].
 >
 > **[1:11](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=71)** Being accessible only by the owner using a private IP address and accessed using SSH keys.
 >
@@ -2086,9 +2057,9 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=98)** However, Amazon provides a command line tool which you can use to do additional enumeration.
 >
-> **[1:43](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=103)** This is called AWS CLI.
+> **[1:43](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=103)** This is called AWS [[CLI]].
 >
-> **[1:46](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=106)** If you want to see how to register for an install list, check out my cybersecurity and cloud computing course on LinkedIn Learning.
+> **[1:46](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=106)** If you want to see how to register for an install list, check out my [[Cybersecurity]] and [[Cloud Computing]] course on [[LinkedIn]] Learning.
 >
 > **[1:54](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=114)** We don't need an Amazon account to do an authenticated testing, but this provides limited results.
 >
@@ -2104,9 +2075,9 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=143)** Deploying infrastructure into the cloud retains the normal attack surface of the resources, system services accessible through their TCP and UDP ports, and injection points accessible through the web portal.
 >
-> **[2:36](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=156)** We can enumerate these as normal using tools such as Nmap and Burp Suite.
+> **[2:36](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=156)** We can enumerate these as normal using tools such as [[Nmap]] and [[Burp Suite]].
 >
-> **[2:41](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=161)** However, with cloud, we also get a complex set of policy scripts written in JSON form, which are attached to users to detail the services they can access and the actions they can take.
+> **[2:41](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=161)** However, with cloud, we also get a complex set of policy scripts written in [[JSON]] form, which are attached to users to detail the services they can access and the actions they can take.
 >
 > **[2:53](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumeration-of-the-cloud?u=76281980&t=173)** Policies can also be attached to resources, such as servers and storage to also detail access rights and restrictions.
 >
@@ -2138,7 +2109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), aws (4), [[Amazon EC2|Ec2]] (3), web (2), generic (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Windows]] (1), [[Linux]] (1), [[Forms]] (1)
 > **Env Vars:** aws (4), ec2 (3), rds (1), sql (1), ssh (1)
 > **CLI Commands:** aws (4), make (1), ssh (1)
 > **Definitions:** is a  (2), is called (1), known as (1), is an  (1)
@@ -2147,8 +2118,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **UI Navigation:** select the (1)
 
-#### Enumerating cloud policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-policies?u=76281980)
+#### [Enumerating cloud policies](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2162,7 +2132,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-policies?u=76281980&t=29)** There's a reasonable amount of work involved in setting up a testing environment for AWS.
 >
-> **[0:34](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-policies?u=76281980&t=34)** So we won't do that here, but if you want to get hands on with AWS, then I'd suggest you hop over to my Pen Testing AWS with Python course and take a deeper dive into the cloud.
+> **[0:34](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-policies?u=76281980&t=34)** So we won't do that here, but if you want to get hands on with AWS, then I'd suggest you hop over to my Pen Testing AWS with [[Python (Programming Language)|Python]] course and take a deeper dive into the cloud.
 >
 > **[0:45](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-policies?u=76281980&t=45)** With the scenario two access keys.
 >
@@ -2186,7 +2156,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-policies?u=76281980&t=137)** And we're looking for things such as the number of policies and versions of policies.
 >
-> **[2:21](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-policies?u=76281980&t=141)** The number of access keys allowed per user and whether multi-factor authentication is active.
+> **[2:21](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-policies?u=76281980&t=141)** The number of access keys allowed per user and whether [[Multi-factor Authentication]] is active.
 >
 > **[2:26](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-policies?u=76281980&t=146)** We can list the users active in the account with aws iam list users minus minus profile scenario1 there's two here.
 >
@@ -2198,7 +2168,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-policies?u=76281980&t=171)** We can do this with aws iam lists policies minus minus profile scenario1 to outerpol.
 >
-> **[3:06](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-policies?u=76281980&t=186)** We get a lot of information provided in the JSON structure.
+> **[3:06](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-policies?u=76281980&t=186)** We get a lot of information provided in the [[JSON]] structure.
 >
 > **[3:10](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-policies?u=76281980&t=190)** So I've saved it into a file.
 >
@@ -2206,7 +2176,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-policies?u=76281980&t=200)** We can see an initial policy called cg raynor policy cgid et cetera, et cetera.
 >
-> **[3:27](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-policies?u=76281980&t=207)** The rest of the output relates to standard Amazon policies.
+> **[3:27](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-policies?u=76281980&t=207)** The [[Representational State Transfer (REST)|rest]] of the output relates to standard Amazon policies.
 >
 > **[3:31](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-policies?u=76281980&t=211)** Okay, now we've got the policy name.
 >
@@ -2246,7 +2216,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (13), cloud (2), api (1), [[Python (Programming Language)|Python]] (1), [[Multi-factor Authentication]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Multi-factor Authentication]] (1), [[JSON]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** aws (13), python (1), yarn (1)
 > **Env Vars:** aws (5), api (1), asia (1), swae (1), wk6 (1)
 > **Tools:** command line (1)
@@ -2255,18 +2225,17 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enumerating cloud compute resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-compute-resources?u=76281980)
+#### [Enumerating cloud compute resources](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-compute-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-compute-resources?u=76281980&t=0)** - [Instructor] Let's use the Amazon Command Line tool to look at how we enumerate compute resources.
 >
-> **[0:05](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-compute-resources?u=76281980&t=5)** We'll use a command called describe resources to enumerate all EC2 instances in the account, and we'll use our default profile.
+> **[0:05](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-compute-resources?u=76281980&t=5)** We'll use a command called describe resources to enumerate all [[Amazon EC2|EC2]] instances in the account, and we'll use our default profile.
 >
 > **[0:15](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-compute-resources?u=76281980&t=15)** We do this by entering the command, aws ec2 describe-instances, and we have to put the region in, which I'll use ap-southeast-2.
 >
-> **[0:36](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-compute-resources?u=76281980&t=36)** We can see that AWS has returned a JSON structure.
+> **[0:36](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-compute-resources?u=76281980&t=36)** We can see that AWS has returned a [[JSON]] structure.
 >
 > **[0:39](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-compute-resources?u=76281980&t=39)** Let's examine this.
 >
@@ -2302,13 +2271,13 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-compute-resources?u=76281980&t=134)** There's a fair bit more technical information provided about the instance, including its block storage and hypervisor type.
 >
-> **[2:21](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-compute-resources?u=76281980&t=141)** We can see it's a Kali Linux platform and we have its DNS information.
+> **[2:21](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-compute-resources?u=76281980&t=141)** We can see it's a [[Kali Linux]] platform and we have its DNS information.
 >
 > **[2:25](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-compute-resources?u=76281980&t=145)** This provides a fairly good start point for understanding the type of server this is.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), aws (5), product (3), dns (3), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), [[JSON]] (1), [[Kali Linux]] (1)
 > **Env Vars:** ec2 (4), aws (4), dns (3), json (1), vpn (1)
 > **CLI Commands:** aws (5), ssh (1)
 > **Definitions:** is a  (2)
@@ -2317,8 +2286,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enumerating cloud storage resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-storage-resources?u=76281980)
+#### [Enumerating cloud storage resources](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-storage-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2356,9 +2324,9 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-storage-resources?u=76281980&t=146)** If we open one, we can see everybody's password, again, probably not what we want on a server, nevermind on the internet.
 >
-> **[2:39](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-storage-resources?u=76281980&t=159)** There's another form of storage used frequently on Amazon, and that's the Relational Database Storage service or RDS which provides SQL databases.
+> **[2:39](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-storage-resources?u=76281980&t=159)** There's another form of storage used frequently on Amazon, and that's the Relational Database Storage service or RDS which provides [[SQL]] [[Databases]].
 >
-> **[2:48](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-storage-resources?u=76281980&t=168)** Let's see how we use the command line tool to enumerate our relational databases.
+> **[2:48](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-storage-resources?u=76281980&t=168)** Let's see how we use the command line tool to enumerate our [[Relational Databases]].
 >
 > **[2:54](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-storage-resources?u=76281980&t=174)** The method we'll be focusing on for enumerating databases is describe-db-instances and we can try this using the command line interface.
 >
@@ -2368,7 +2336,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-storage-resources?u=76281980&t=201)** Okay, we've now enumerated the relational databases on the account, there's just the one, which we can see is called securedb, which is managed with a master user account called cgadmin.
 >
-> **[3:33](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-storage-resources?u=76281980&t=213)** It's a Postgres SQL database run on a db.t2.micro server.
+> **[3:33](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-storage-resources?u=76281980&t=213)** It's a [[PostgreSQL|Postgres]] SQL database run on a db.t2.micro server.
 >
 > **[3:38](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-storage-resources?u=76281980&t=218)** A little bit further down, we can see it's accessible as an endpoint through port 5432, and we find it's running Postgres9.6.
 >
@@ -2376,11 +2344,11 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-storage-resources?u=76281980&t=233)** There's a lot to learn about enumerating cloud, especially the account details in the identity and access management system and the accountant component policies.
 >
-> **[4:02](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-storage-resources?u=76281980&t=242)** To learn more about cloud enumeration, check out my LinkedIn learning courses, Cybersecurity and Cloud Computing and Pen tTesting AWS with Python.
+> **[4:02](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-cloud-storage-resources?u=76281980&t=242)** To learn more about cloud enumeration, check out my [[LinkedIn]] learning courses, [[Cybersecurity]] and [[Cloud Computing]] and Pen tTesting AWS with [[Python (Programming Language)|Python]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), cloud (3), data (2), [[Search]] (2), database (2)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Databases]] (2), [[Relational Databases]] (2), [[PostgreSQL|Postgres]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** aws (7), find (3), ls (1), cp (1), python (1)
 > **Env Vars:** aws (4), sql (2), rds (1), rdb (1)
 > **Tools:** command line (3)
@@ -2394,12 +2362,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scanning with SuperScan
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-superscan?u=76281980)
+#### [Scanning with SuperScan](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-superscan?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-superscan?u=76281980&t=1)** - [Narrator] SuperScan is a Legacy Windows Enumeration tool, which we can download from the SnapFile site as shown.
+> **[0:01](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-superscan?u=76281980&t=1)** - [Narrator] SuperScan is a Legacy [[Windows]] Enumeration tool, which we can download from the SnapFile site as shown.
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-superscan?u=76281980&t=7)** The download is a zip file, and the tool can be used directly after extraction.
 >
@@ -2427,7 +2394,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-superscan?u=76281980&t=87)** If I scroll up, I can see that we found IP addresses 10.0.2.1 2 3 8 9 14 and 15 5 of the 7 of open ports.
 >
-> **[1:43](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-superscan?u=76281980&t=103)** I can also view the scan report as an HTML document.
+> **[1:43](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-superscan?u=76281980&t=103)** I can also view the scan report as an [[HTML]] document.
 >
 > **[1:49](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-superscan?u=76281980&t=109)** This provides the details for each host, and identifies its service characteristics.
 >
@@ -2441,7 +2408,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-superscan?u=76281980&t=151)** 10.0.2.9 has 3 TCP and 2 UDP ports open.
 >
-> **[2:36](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-superscan?u=76281980&t=156)** And we can see in the port banner information, that it's a Ubuntu system.
+> **[2:36](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-superscan?u=76281980&t=156)** And we can see in the port banner information, that it's a [[Ubuntu]] system.
 >
 > **[2:41](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-superscan?u=76281980&t=161)** 10.0.2.14 has 8 common TCP ports open, and the UDP Echo port.
 >
@@ -2451,7 +2418,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-superscan?u=76281980&t=181)** I'll go to the Window Enumeration tab and I will enter the address 10.0.2.14, and enumerate that.
 >
-> **[3:14](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-superscan?u=76281980&t=194)** SuperScan uses NetBIOS to enumerate the Windows 10 server.
+> **[3:14](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-superscan?u=76281980&t=194)** SuperScan uses NetBIOS to enumerate the [[Windows 10]] server.
 >
 > **[3:19](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-superscan?u=76281980&t=199)** We can see the MAC address, but SuperScan isn't able to identify the operating system.
 >
@@ -2469,7 +2436,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-superscan?u=76281980&t=242)** Let's clear this and let's now look at our 10.0.2.8 Metasploitable server.
 >
-> **[4:10](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-superscan?u=76281980&t=250)** While SuperScan calls this a Windows Enumeration, we can still use it to enumerate Samba on Linux systems.
+> **[4:10](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-superscan?u=76281980&t=250)** While SuperScan calls this a Windows Enumeration, we can still use it to enumerate Samba on [[Linux]] systems.
 >
 > **[4:17](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-superscan?u=76281980&t=257)** Okay, well it thinks this is a Windows NT system, but it has been able to extract the server name and comment, which shows us that it is the Metasploitable Debian server.
 >
@@ -2481,7 +2448,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[Linux]] (2), [[HTML]] (1), prompt (1), [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Linux]] (2), [[HTML]] (1), [[Ubuntu]] (1), [[Windows 10]] (1)
 > **Env Vars:** tcp (5), udp (4), html (1), tftp (1), smb (1)
 > **Versions:** 10.0.2 (12), 10.0 (1)
 > **Definitions:** is a  (6), is called (1)
@@ -2490,8 +2457,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** zip file (1)
 
-#### Scanning with NetScanTools Pro
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-netscantools-pro?u=76281980)
+#### [Scanning with NetScanTools Pro](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-netscantools-pro?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2525,7 +2491,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-netscantools-pro?u=76281980&t=74)** I'll select the record and view selected report.
 >
-> **[1:22](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-netscantools-pro?u=76281980&t=82)** This produces an HTML report showing the ping results followed by the port scan with banner information.
+> **[1:22](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-netscantools-pro?u=76281980&t=82)** This produces an [[HTML]] report showing the ping results followed by the port scan with banner information.
 >
 > **[1:29](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-netscantools-pro?u=76281980&t=89)** The report finishes with an ARP scan, and that shows the systems that are known to be on the network together with their Mac addresses.
 >
@@ -2543,7 +2509,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-netscantools-pro?u=76281980&t=133)** Okay, that's complete now.
 >
-> **[2:15](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-netscantools-pro?u=76281980&t=135)** And it's identified the target as a Linux server, possibly a Slackware variant with kernel version 2.4.26.
+> **[2:15](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-netscantools-pro?u=76281980&t=135)** And it's identified the target as a [[Linux]] server, possibly a Slackware variant with kernel version 2.4.26.
 >
 > **[2:23](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/scanning-with-netscantools-pro?u=76281980&t=143)** Well, it is a Linux system.
 >
@@ -2563,19 +2529,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), product (1), data (1), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[HTML]] (1)
 > **Env Vars:** arp (3), smb (2), url (1), html (1)
 > **UI Navigation:** select the (2), click on (2), in the menu (1), scroll down (1)
 > **Versions:** 10.0.2 (2), version 2 (1), 4.26 (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Enumerating LDAP
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-ldap?u=76281980)
+#### [Enumerating LDAP](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-ldap?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-ldap?u=76281980&t=0)** - LDAP is the Lightweight Directory Access Protocol and is used extensively in various forms of enterprise servers.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-ldap?u=76281980&t=0)** - LDAP is the Lightweight Directory Access Protocol and is used extensively in various [[Forms]] of enterprise servers.
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-ldap?u=76281980&t=8)** It provides a repository for organizational entity information.
 >
@@ -2583,7 +2548,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-ldap?u=76281980&t=19)** Its main security use is for authenticating users.
 >
-> **[0:22](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-ldap?u=76281980&t=22)** A number of Linux packages exist, the best known being OpenLDAP and Active Directory is a Windows product which uses LDAP as the access protocol.
+> **[0:22](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-ldap?u=76281980&t=22)** A number of [[Linux]] packages exist, the best known being OpenLDAP and [[Active Directory]] is a [[Windows]] product which uses LDAP as the access protocol.
 >
 > **[0:33](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-ldap?u=76281980&t=33)** LDAP uses a tree structure database to store information about an organization and enable searching for people in the organization without knowing where they're located in the tree.
 >
@@ -2601,13 +2566,13 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-ldap?u=76281980&t=86)** OpenLDAP is an open source tool which can be installed on Linux systems as an LDAP server.
 >
-> **[1:31](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-ldap?u=76281980&t=91)** I've set up an OpenLDAP server on my Ubuntu system as IP address 10.2.9 and populated it with some entries.
+> **[1:31](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-ldap?u=76281980&t=91)** I've set up an OpenLDAP server on my [[Ubuntu]] system as IP address 10.2.9 and populated it with some entries.
 >
 > **[1:40](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-ldap?u=76281980&t=100)** I won't go into the details of how to do this.
 >
-> **[1:43](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-ldap?u=76281980&t=103)** But you can find all you need to know in Grant Williams Linux, OpenLDAP course here on LinkedIn.
+> **[1:43](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-ldap?u=76281980&t=103)** But you can find all you need to know in Grant Williams Linux, OpenLDAP course here on [[LinkedIn]].
 >
-> **[1:51](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-ldap?u=76281980&t=111)** We can enumerate LDAP information at the Kali terminal using Nmap's LDAP search script.
+> **[1:51](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-ldap?u=76281980&t=111)** We can enumerate LDAP information at the Kali terminal using [[Nmap]]'s LDAP search script.
 >
 > **[1:58](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-ldap?u=76281980&t=118)** We do that with nmap, minus P 389, minus, minus script equals LDAP search and the servers 10.0.2.9.
 >
@@ -2635,7 +2600,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-ldap?u=76281980&t=203)** We'll call the connection name, Cybex.
 >
-> **[3:28](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-ldap?u=76281980&t=208)** The host is 10.0.2.9 and I've got anonymous connection selected and I can fetch DNs.
+> **[3:28](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-ldap?u=76281980&t=208)** The host is 10.0.2.9 and I've got anonymous connection selected and I can [[Fetch]] DNs.
 >
 > **[3:39](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-ldap?u=76281980&t=219)** We can see we've been able to get the Cybex.nz domain from the server.
 >
@@ -2659,7 +2624,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), database (2), [[Search]] (2), [[Forms]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Nmap]] (2), [[Forms]] (1), [[Active Directory]] (1), [[Windows]] (1)
 > **Env Vars:** ldap (17)
 > **Versions:** 10.0.2 (2), 10.2.9 (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -2668,8 +2633,7 @@ created: 2026-05-02
 > **Ports:** port 389 (1)
 > **Tools:** terminal (1)
 
-#### Checking for SMTP users
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/checking-for-smtp-users?u=76281980)
+#### [Checking for SMTP users](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/checking-for-smtp-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2702,8 +2666,7 @@ created: 2026-05-02
 > **Ports:** port 25 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Digging into DNS
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/digging-into-dns?u=76281980)
+#### [Digging into DNS](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/digging-into-dns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2731,9 +2694,9 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/digging-into-dns?u=76281980&t=80)** Let's dig further to find the mail server with dig [sciencedirect.com](https://sciencedirect.com) minus -t mx, and we'll get the short output.
 >
-> **[1:33](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/digging-into-dns?u=76281980&t=93)** We've now got the name of the mail server which is sciencedirect.mail.protection.[outlook.com](https://outlook.com).
+> **[1:33](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/digging-into-dns?u=76281980&t=93)** We've now got the name of the mail server which is sciencedirect.mail.protection.[[[Microsoft Outlook|outlook]].com](https://outlook.com).
 >
-> **[1:41](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/digging-into-dns?u=76281980&t=101)** This is a Microsoft 365 mail service.
+> **[1:41](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/digging-into-dns?u=76281980&t=101)** This is a [[Microsoft 365]] mail service.
 >
 > **[1:45](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/digging-into-dns?u=76281980&t=105)** Another command we can use to look for DNS information is the host command, host [sciencedirect.com](https://sciencedirect.com), and this provides a tidy set of information.
 >
@@ -2753,7 +2716,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (8), [[Search]] (1), [[Microsoft Outlook|Outlook]] (1), [[Microsoft 365]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1), [[Microsoft 365]] (1)
 > **Env Vars:** dns (8), enum (3), ftp (1), rss (1)
 > **URLs:** [sciencedirect.com](https://sciencedirect.com) (7), [outlook.com](https://outlook.com) (1)
 > **CLI Commands:** find (3)
@@ -2761,8 +2724,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enumerating netbios
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-netbios?u=76281980)
+#### [Enumerating netbios](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-netbios?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2770,7 +2732,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-netbios?u=76281980&t=7)** This is commonly used on local networks through ports 137 and 139, but may also be exposed to the internet.
 >
-> **[0:14](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-netbios?u=76281980&t=14)** In order to demonstrate how we enumerate NetBIOS information, we'll do testing on my active directory server, so you won't be able to follow hands on.
+> **[0:14](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-netbios?u=76281980&t=14)** In order to demonstrate how we enumerate NetBIOS information, we'll do testing on my [[Active Directory]] server, so you won't be able to follow hands on.
 >
 > **[0:24](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-netbios?u=76281980&t=24)** The first tool we'll use is NMB lookup.
 >
@@ -2788,7 +2750,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-netbios?u=76281980&t=66)** And finally, we'll have the server's Mac address.
 >
-> **[1:10](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-netbios?u=76281980&t=70)** We can also use Nmap to run a NetBIOS scan.
+> **[1:10](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-netbios?u=76281980&t=70)** We can also use [[Nmap]] to run a NetBIOS scan.
 >
 > **[1:15](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-netbios?u=76281980&t=75)** Nmap minus SV 192.168.1.199 minus minus script
 >
@@ -2798,7 +2760,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-netbios?u=76281980&t=104)** Of course, if we have credentials to access a server, then we can get a lot more information.
 >
-> **[1:49](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-netbios?u=76281980&t=109)** A useful tool for this is enum four Linux.
+> **[1:49](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-netbios?u=76281980&t=109)** A useful tool for this is enum four [[Linux]].
 >
 > **[1:53](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-netbios?u=76281980&t=113)** Let's run that with our Sam Spade credentials.
 >
@@ -2816,11 +2778,11 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-netbios?u=76281980&t=171)** And the various groups and group memberships are also enumerated.
 >
-> **[2:56](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-netbios?u=76281980&t=176)** That's a reasonably good start if we want to focus our penetration testing on specific high value accounts.
+> **[2:56](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/enumerating-netbios?u=76281980&t=176)** That's a reasonably good start if we want to focus our [[Penetration Testing]] on specific high value accounts.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), [[Active Directory]] (1), [[Penetration Testing]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (3), [[Linux]] (2), [[Active Directory]] (1), [[Penetration Testing]] (1)
 > **Env Vars:** nmb (3), tcp (1), win (1), mac (1), smb (1)
 > **Versions:** 192.168.1 (3)
 > **Code Identifiers:** netbios (2)
@@ -2828,8 +2790,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Taking time to enumerate
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/netbios-is-a-windows-service-used-to-manage-computer-names-and-file-sharing-in-this-video-learn-how-to-enumera?u=76281980)
+#### [Taking time to enumerate](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/netbios-is-a-windows-service-used-to-manage-computer-names-and-file-sharing-in-this-video-learn-how-to-enumera?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2851,7 +2812,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/netbios-is-a-windows-service-used-to-manage-computer-names-and-file-sharing-in-this-video-learn-how-to-enumera?u=76281980&t=64)** This isn't the most important aspect of enumeration but nevertheless, do take some time to try out more of the NTPQ commands once you finish this course.
 >
-> **[1:14](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/netbios-is-a-windows-service-used-to-manage-computer-names-and-file-sharing-in-this-video-learn-how-to-enumera?u=76281980&t=74)** Another tool we can use is Nmap with its NTP enumeration script.
+> **[1:14](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/netbios-is-a-windows-service-used-to-manage-computer-names-and-file-sharing-in-this-video-learn-how-to-enumera?u=76281980&t=74)** Another tool we can use is [[Nmap]] with its NTP enumeration script.
 >
 > **[1:21](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/netbios-is-a-windows-service-used-to-manage-computer-names-and-file-sharing-in-this-video-learn-how-to-enumera?u=76281980&t=81)** We'll run this as a UDP query against the time service on port 123.
 >
@@ -2867,6 +2828,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[Nmap]] (3)
 > **Env Vars:** ntpq (2), ntp (2), udp (1)
 > **Versions:** 89.221.165 (2), 89.135.149 (1), 196.133 (1)
 > **CLI Commands:** sudo (1)
@@ -2878,8 +2840,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2887,23 +2848,23 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/next-steps?u=76281980&t=3)** I hope you enjoyed learning about enumeration.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/next-steps?u=76281980&t=7)** There's always something new to learn about in cybersecurity, and if you're interested in learning more, then check out the full cybersecurity segment in the library where new cybersecurity courses are added regularly.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/next-steps?u=76281980&t=7)** There's always something new to learn about in [[Cybersecurity]], and if you're interested in learning more, then check out the full cybersecurity segment in the library where new cybersecurity courses are added regularly.
 >
-> **[0:18](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/next-steps?u=76281980&t=18)** You'll find courses on cybersecurity in the cloud, using cryptography for cybersecurity, cybersecurity and artificial intelligence, and much more.
+> **[0:18](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/next-steps?u=76281980&t=18)** You'll find courses on cybersecurity in the cloud, using [[Cryptography]] for cybersecurity, cybersecurity and [[Artificial Intelligence (AI)|artificial intelligence]], and much more.
 >
 > **[0:29](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/next-steps?u=76281980&t=29)** I'd like to invite you to go to my author page where you can find some additional courses on cybersecurity.
 >
 > **[0:35](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/next-steps?u=76281980&t=35)** If you want to get hands-on with some of the common tools, then do take a look at Cybersecurity for IT Professionals.
 >
-> **[0:41](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/next-steps?u=76281980&t=41)** If you're wanting to learn about security for the cloud, then Cybersecurity for Cloud Computing is for you.
+> **[0:41](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/next-steps?u=76281980&t=41)** If you're wanting to learn about security for the cloud, then Cybersecurity for [[Cloud Computing]] is for you.
 >
-> **[0:48](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/next-steps?u=76281980&t=48)** You might also want to see what my colleague on the cybersecurity ethical hacking series, Lisa Bock, has for you on her home page.
+> **[0:48](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/next-steps?u=76281980&t=48)** You might also want to see what my colleague on the cybersecurity [[Ethical Hacking]] series, Lisa Bock, has for you on her home page.
 >
 > **[0:57](https://www.linkedin.com/learning/ethical-hacking-enumeration-13945377/next-steps?u=76281980&t=57)** Thanks again for joining me on this course and I hope to see you again soon.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (10), cloud (3), [[Cryptography]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (10), [[Cryptography]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Cloud Computing]] (1), [[Ethical Hacking]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [malcolm] (1)

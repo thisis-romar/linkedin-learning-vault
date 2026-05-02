@@ -88,35 +88,33 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Elevate Your NLP expertise using Python and machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/elevate-your-nlp-expertise-using-python-and-machine-learning?u=76281980)
+#### [Elevate Your NLP expertise using Python and machine learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/elevate-your-nlp-expertise-using-python-and-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/elevate-your-nlp-expertise-using-python-and-machine-learning?u=76281980&t=0)** - [Gwendolyn] Everyone's talking about generative AI, but have you heard about natural language processing, which started this entire evolution to generating not only text but images, audio, video, and even computer code?
+> **[0:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/elevate-your-nlp-expertise-using-python-and-machine-learning?u=76281980&t=0)** - [Gwendolyn] Everyone's talking about [[Generative AI]], but have you heard about [[Natural Language Processing (NLP)|natural language processing]], which started this entire evolution to generating not only text but images, audio, video, and even computer code?
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/elevate-your-nlp-expertise-using-python-and-machine-learning?u=76281980&t=15)** By the end of this course, you will be able to confidently apply natural language processing in your applications and day-to-day work.
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/elevate-your-nlp-expertise-using-python-and-machine-learning?u=76281980&t=24)** This is your moment in time to make the career pivot you have been thinking of.
 >
-> **[0:31](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/elevate-your-nlp-expertise-using-python-and-machine-learning?u=76281980&t=31)** If you are a student or someone who is in the field of data science and machine learning but want to understand the evolution of natural language processing, this course is for you.
+> **[0:31](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/elevate-your-nlp-expertise-using-python-and-machine-learning?u=76281980&t=31)** If you are a student or someone who is in the field of [[Data Science]] and machine learning but want to understand the evolution of natural language processing, this course is for you.
 >
-> **[0:43](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/elevate-your-nlp-expertise-using-python-and-machine-learning?u=76281980&t=43)** I am Gwendolyn Stripling, and I have helped thousands of students understand artificial intelligence and machine learning concepts.
+> **[0:43](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/elevate-your-nlp-expertise-using-python-and-machine-learning?u=76281980&t=43)** I am Gwendolyn Stripling, and I have helped thousands of students understand [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning concepts.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (3), [[Generative AI]] (1), career (1), data (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (3), [[Generative AI]] (1), [[Data Science]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [gwendolyn] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/what-you-should-know?u=76281980&t=0)** - [Instructor] So what do you need to know to get the most out of this course?
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/what-you-should-know?u=76281980&t=4)** Well, a working knowledge of Python, and a working knowledge of some basic natural language processing and machine learning concepts, and an excitement and enthusiasm for learning.
+> **[0:04](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/what-you-should-know?u=76281980&t=4)** Well, a working knowledge of [[Python (Programming Language)|Python]], and a working knowledge of some basic [[Natural Language Processing (NLP)|natural language processing]] and machine learning concepts, and an excitement and enthusiasm for learning.
 
 > [!info]- Semantic Content
 >
@@ -124,14 +122,13 @@ created: 2026-05-02
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to use the challenge exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/how-to-use-the-challenge-exercise-files?u=76281980)
+#### [How to use the challenge exercise files](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/how-to-use-the-challenge-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/how-to-use-the-challenge-exercise-files?u=76281980&t=0)** - [Educator] Throughout the course, there will be four hands-on challenges for you to try on your own.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/how-to-use-the-challenge-exercise-files?u=76281980&t=5)** The files needed for these challenges are located in the course's GitHub repository.
+> **[0:05](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/how-to-use-the-challenge-exercise-files?u=76281980&t=5)** The files needed for these challenges are located in the course's [[GitHub]] repository.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/how-to-use-the-challenge-exercise-files?u=76281980&t=11)** To use the files, please download the files locally, or you can clone the repo into your own GitHub repository account.
 >
@@ -143,7 +140,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/how-to-use-the-challenge-exercise-files?u=76281980&t=39)** Feel free to reference the solution files for the solution.
 >
-> **[0:44](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/how-to-use-the-challenge-exercise-files?u=76281980&t=44)** We'll be working in Google's Colaboratory Notebooks.
+> **[0:44](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/how-to-use-the-challenge-exercise-files?u=76281980&t=44)** We'll be working in [[Google]]'s Colaboratory Notebooks.
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/how-to-use-the-challenge-exercise-files?u=76281980&t=48)** You can open the notebook from your GitHub, or if you downloaded the files as a ZIP, you can upload them from your computer.
 >
@@ -161,7 +158,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), data (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Google]] (1)
 > **Tools:** github (3), colab (1)
 > **Exercise Files:** download the (1), clone the repo (1), exercise files (1)
 > **UI Navigation:** open the (1), click on (1)
@@ -175,16 +172,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of natural language processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/overview-of-natural-language-processing?u=76281980)
+#### [Overview of natural language processing](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/overview-of-natural-language-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/overview-of-natural-language-processing?u=76281980&t=0)** - Natural language processing or NLP is the ability of a computer to understand, analyze, manipulate, and process human language.
+> **[0:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/overview-of-natural-language-processing?u=76281980&t=0)** - [[Natural Language Processing (NLP)|Natural language processing]] or NLP is the ability of a computer to understand, analyze, manipulate, and process human language.
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/overview-of-natural-language-processing?u=76281980&t=11)** As a computer programming language, Python plays a central role in NLP due to its rich collection of specialized libraries for various NLP tasks.
+> **[0:11](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/overview-of-natural-language-processing?u=76281980&t=11)** As a computer programming language, [[Python (Programming Language)|Python]] plays a central role in NLP due to its rich collection of specialized libraries for various NLP tasks.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/overview-of-natural-language-processing?u=76281980&t=24)** But computers do not understand words, and Python does not natively know what any given word means.
+> **[0:24](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/overview-of-natural-language-processing?u=76281980&t=24)** But computers do not understand words, and Python does not natively know what any given [[Microsoft Word|word]] means.
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/overview-of-natural-language-processing?u=76281980&t=31)** It just sees a string of characters.
 >
@@ -192,7 +188,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/overview-of-natural-language-processing?u=76281980&t=41)** For instance, Python as a computer programming language has no idea what the word natural means.
 >
-> **[0:49](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/overview-of-natural-language-processing?u=76281980&t=49)** It only knows it's seven characters long, and to build any model in machine learning or deep learning, the data has to be in numerical form because models don't understand text or image data directly like humans do.
+> **[0:49](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/overview-of-natural-language-processing?u=76281980&t=49)** It only knows it's seven characters long, and to build any model in machine learning or [[Deep Learning]], the data has to be in numerical form because models don't understand text or image data directly like humans do.
 >
 > **[1:06](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/overview-of-natural-language-processing?u=76281980&t=66)** You convert the text data into numerical data, which is called vectorization, or in the NLP world, word embeddings.
 >
@@ -226,13 +222,13 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/overview-of-natural-language-processing?u=76281980&t=194)** Question answering systems, which are systems that can understand and respond to user queries in a human-like manner.
 >
-> **[3:22](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/overview-of-natural-language-processing?u=76281980&t=202)** Often seen in chatbots, virtual assistants, and online web-based large language models such as ChatGPT or Gemini, which understand and generate human-like text in response to a wide range of prompts and questions and sentiment analysis where you can determine the sentiment expressed in a piece of text, such as positive, negative, or neutral for applications like customer feedback analysis.
+> **[3:22](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/overview-of-natural-language-processing?u=76281980&t=202)** Often seen in chatbots, virtual assistants, and online web-based [[Large Language Models (LLM)|large language models]] such as [[ChatGPT]] or [[Gemini]], which understand and generate human-like text in response to a wide range of prompts and questions and sentiment analysis where you can determine the sentiment expressed in a piece of text, such as positive, negative, or neutral for applications like customer feedback analysis.
 >
 > **[3:56](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/overview-of-natural-language-processing?u=76281980&t=236)** Regardless of its use, the core component of NLP is extracting all information from a block of text that is relevant to a computer understanding the language.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), nlp (6), data (5), [[Python (Programming Language)|Python]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Python (Programming Language)|Python]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Deep Learning]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** nlp (6), ner (1)
 > **Analogies:** such as (3), for instance (1), imagine (1), for example (1)
 > **CLI Commands:** python (3)
@@ -240,16 +236,15 @@ created: 2026-05-02
 > **Definitions:** is called (1), is a  (1)
 > **Speakers:** - natural (1)
 
-#### Evolution of natural language processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/evolution-of-natural-language-processing?u=76281980)
+#### [Evolution of natural language processing](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/evolution-of-natural-language-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/evolution-of-natural-language-processing?u=76281980&t=0)** - [Instructor] The field of natural language processing has evolved over the years and three major approaches are often discussed.
+> **[0:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/evolution-of-natural-language-processing?u=76281980&t=0)** - [Instructor] The field of [[Natural Language Processing (NLP)|natural language processing]] has evolved over the years and three major approaches are often discussed.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/evolution-of-natural-language-processing?u=76281980&t=8)** First, the traditional approach relied on linguistic rules, handcrafted features, and statistical models to process and understand natural language.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/evolution-of-natural-language-processing?u=76281980&t=20)** This evolved to neural networks.
+> **[0:20](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/evolution-of-natural-language-processing?u=76281980&t=20)** This evolved to [[Neural Networks]].
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/evolution-of-natural-language-processing?u=76281980&t=24)** For example, recurrent neural networks and long short-term memory neural networks are used to capture sequential dependencies in text.
 >
@@ -269,7 +264,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/evolution-of-natural-language-processing?u=76281980&t=90)** In this example, the CountVectorizer is used to convert a collection of text documents into a matrix of token counts.
 >
-> **[1:40](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/evolution-of-natural-language-processing?u=76281980&t=100)** The values in the matrix represent the count of each word in the corresponding document.
+> **[1:40](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/evolution-of-natural-language-processing?u=76281980&t=100)** The values in the matrix represent the count of each [[Microsoft Word|word]] in the corresponding document.
 >
 > **[1:46](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/evolution-of-natural-language-processing?u=76281980&t=106)** The output is shown in the image on the right.
 >
@@ -285,7 +280,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/evolution-of-natural-language-processing?u=76281980&t=154)** BERT is an example of a modern NLP approach.
 >
-> **[2:38](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/evolution-of-natural-language-processing?u=76281980&t=158)** To implement text classification using the transformer architecture, you can use the transformer library which provides pre-trained transformer models.
+> **[2:38](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/evolution-of-natural-language-processing?u=76281980&t=158)** To implement text classification using the transformer architecture, you can use the transformer library which provides pre-trained [[Transformer Models]].
 >
 > **[2:49](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/evolution-of-natural-language-processing?u=76281980&t=169)** Here's an example using the pipeline module from transformers.
 >
@@ -301,7 +296,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/evolution-of-natural-language-processing?u=76281980&t=223)** Now transform architectures have been adapted to handle multimodal information.
 >
-> **[3:49](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/evolution-of-natural-language-processing?u=76281980&t=229)** Generative AI, especially in the context of NLP, has evolved to incorporate multimodal aspects, expanding beyond text-only input and output to handle not only text, but audio and video and images as well.
+> **[3:49](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/evolution-of-natural-language-processing?u=76281980&t=229)** [[Generative AI]], especially in the context of NLP, has evolved to incorporate multimodal aspects, expanding beyond text-only input and output to handle not only text, but audio and video and images as well.
 >
 > **[4:07](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/evolution-of-natural-language-processing?u=76281980&t=247)** Recall that in traditional NLP, the primary modality is text.
 >
@@ -313,7 +308,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/evolution-of-natural-language-processing?u=76281980&t=295)** Several NLP libraries and frameworks are suitable for working with multimodal NLP tasks where the goal is to process and understand data that involves multiple modalities.
 >
-> **[5:08](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/evolution-of-natural-language-processing?u=76281980&t=308)** Hugging Face is widely recognized for its transformers library, an open source library that provides pre-trained models, model architectures, and tools for working with transformer based models, and this includes models like BERT, GPT, RoBERTa, and more.
+> **[5:08](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/evolution-of-natural-language-processing?u=76281980&t=308)** [[Hugging Face]] is widely recognized for its transformers library, an open source library that provides pre-trained models, model architectures, and tools for working with transformer based models, and this includes models like BERT, GPT, RoBERTa, and more.
 >
 > **[5:28](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/evolution-of-natural-language-processing?u=76281980&t=328)** The Hugging Face Model Hub is a platform for sharing and discovering pre-trained models.
 >
@@ -323,22 +318,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (11), [[Neural Networks]] (4), data (2), parallel (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Neural Networks]] (4), [[Microsoft Word|Word]] (2), [[Hugging Face]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Transformer Models]] (1)
 > **Env Vars:** nlp (11), lstm (3), bert (2), gpt (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Natural language processing libraries
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/natural-language-processing-libraries?u=76281980)
+#### [Natural language processing libraries](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/natural-language-processing-libraries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/natural-language-processing-libraries?u=76281980&t=0)** - [Narrator] There are several powerful NLP libraries available in Python that provide tools and functionalities for working with text data.
+> **[0:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/natural-language-processing-libraries?u=76281980&t=0)** - [Narrator] There are several powerful NLP libraries available in [[Python (Programming Language)|Python]] that provide tools and functionalities for working with text data.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/natural-language-processing-libraries?u=76281980&t=9)** Some of the most popular Python NLP libraries include NLTK or Natural Language Toolkit, which is the foundational library for text processing, including tokenization, stemming, limitization, and stop word removal.
+> **[0:09](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/natural-language-processing-libraries?u=76281980&t=9)** Some of the most popular Python NLP libraries include NLTK or Natural Language Toolkit, which is the foundational library for text processing, including tokenization, stemming, limitization, and stop [[Microsoft Word|word]] removal.
 >
-> **[0:28](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/natural-language-processing-libraries?u=76281980&t=28)** Spacy, like NLTK, has similar functionality for text processing, but unlike NLTK, Spacy is faster, especially for large data sets because it is optimized for performance.
+> **[0:28](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/natural-language-processing-libraries?u=76281980&t=28)** [[spaCy]], like NLTK, has similar functionality for text processing, but unlike NLTK, Spacy is faster, especially for large data sets because it is optimized for performance.
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/natural-language-processing-libraries?u=76281980&t=43)** Spacy is also easier to use, while NLTK has a steeper learning curve.
 >
@@ -354,13 +348,13 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/natural-language-processing-libraries?u=76281980&t=89)** This chart shows the comparison between Spacy, NLTK, Gensim, and Text Blob.
 >
-> **[1:39](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/natural-language-processing-libraries?u=76281980&t=99)** If your project involves tasks that benefit from deep learning's power, here are some popular deep learning libraries used for NLP, and they include TensorFlow, which is a comprehensive framework that supports transformers and PyTorch, which is easier to use than TensorFlow.
+> **[1:39](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/natural-language-processing-libraries?u=76281980&t=99)** If your project involves tasks that benefit from [[Deep Learning]]'s power, here are some popular deep learning libraries used for NLP, and they include [[TensorFlow]], which is a comprehensive framework that supports transformers and [[PyTorch]], which is easier to use than TensorFlow.
 >
 > **[1:58](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/natural-language-processing-libraries?u=76281980&t=118)** And MXNet and JAX, which have a moderate learning curve, and then Keras, which is the easiest to use.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[spaCy]] (7), nlp (5), [[Python (Programming Language)|Python]] (2), data (2), [[Deep Learning]] (2)
+> **Frameworks & Libraries:** [[spaCy]] (7), [[Python (Programming Language)|Python]] (2), [[Deep Learning]] (2), [[TensorFlow]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** nltk (8), nlp (5), jax (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (1)
@@ -371,12 +365,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to spaCy
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/introduction-to-spacy?u=76281980)
+#### [Introduction to spaCy](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/introduction-to-spacy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/introduction-to-spacy?u=76281980&t=0)** - [Narrator] spaCy is designed for efficiency and high performance.
+> **[0:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/introduction-to-spacy?u=76281980&t=0)** - [Narrator] [[spaCy]] is designed for efficiency and high performance.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/introduction-to-spacy?u=76281980&t=5)** spaCy organizes its NLP tasks into a processing pipeline.
 >
@@ -404,7 +397,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/introduction-to-spacy?u=76281980&t=80)** In the previous example, each token in the sentence, this is an example sentence, is printed along with its associated dependency label.
 >
-> **[1:30](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/introduction-to-spacy?u=76281980&t=90)** The output shows the grammatical relationships between the tokens in the sentence.
+> **[1:30](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/introduction-to-spacy?u=76281980&t=90)** The output shows the grammatical relationships between the [[Tokens]] in the sentence.
 >
 > **[1:36](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/introduction-to-spacy?u=76281980&t=96)** Here is another example.
 >
@@ -412,7 +405,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/introduction-to-spacy?u=76281980&t=101)** In this example, you import the spaCy library and load the English NLP model.
 >
-> **[1:47](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/introduction-to-spacy?u=76281980&t=107)** You then process the text, your products are excellent and assign it to the variable text.
+> **[1:47](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/introduction-to-spacy?u=76281980&t=107)** You then process the text, your [[Microsoft Products|products]] are excellent and assign it to the variable text.
 >
 > **[1:53](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/introduction-to-spacy?u=76281980&t=113)** The doc equals NLP text line, uses spaCy's language processing pipeline to analyze the text.
 >
@@ -420,7 +413,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/introduction-to-spacy?u=76281980&t=126)** Ti access the tokens in the processed document, iterate over the tokens in the process documents using this for loop.
 >
-> **[2:15](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/introduction-to-spacy?u=76281980&t=135)** Each token represents a word or a punctuation mark in the text.
+> **[2:15](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/introduction-to-spacy?u=76281980&t=135)** Each token represents a [[Microsoft Word|word]] or a punctuation mark in the text.
 >
 > **[2:20](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/introduction-to-spacy?u=76281980&t=140)** Next, you print a text of each token in the document.
 >
@@ -448,7 +441,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/introduction-to-spacy?u=76281980&t=214)** Dependency parsing involves analyzing the grammatical structure of a sentence and determining how words relate to each other.
 >
-> **[3:42](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/introduction-to-spacy?u=76281980&t=222)** It helps identify key entities, relationships and actions in a text, facilitating the extraction of structured information from unstructured data.
+> **[3:42](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/introduction-to-spacy?u=76281980&t=222)** It helps identify key entities, relationships and actions in a text, facilitating the extraction of structured information from [[Unstructured Data]].
 >
 > **[3:55](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/introduction-to-spacy?u=76281980&t=235)** Part of speech tagging plays a foundational role in NLP, contributing to various downstream tasks that involve understanding the structure and meaning of natural language text.
 >
@@ -456,23 +449,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (11), [[spaCy]] (10), [[Tokens]] (4), [[Microsoft Word|Word]] (2), product (1)
+> **Frameworks & Libraries:** [[spaCy]] (10), [[Tokens]] (4), [[Microsoft Word|Word]] (2), [[Microsoft Products|Products]] (1), [[Unstructured Data]] (1)
 > **Env Vars:** nlp (11), ceo (1), gpe (1)
 > **Code Identifiers:** spacy (10)
 > **Definitions:** is an  (2), stands for (1)
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Build a spaCy processing pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/challenge-build-a-spacy-processing-pipeline?u=76281980)
+#### [Challenge: Build a spaCy processing pipeline](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/challenge-build-a-spacy-processing-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/challenge-build-a-spacy-processing-pipeline?u=76281980&t=0)** - [Instructor] In this first hands-on challenge, you'll build two spaCy processing pipelines, one that uses a simple sentence as text, and the other that uses a sentiments file.
+> **[0:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/challenge-build-a-spacy-processing-pipeline?u=76281980&t=0)** - [Instructor] In this first hands-on challenge, you'll build two [[spaCy]] processing pipelines, one that uses a simple sentence as text, and the other that uses a sentiments file.
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/challenge-build-a-spacy-processing-pipeline?u=76281980&t=17)** You'll use a Colab Jupyter notebook, and many cells are pre-coded for you.
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/challenge-build-a-spacy-processing-pipeline?u=76281980&t=23)** First, you'll import the following resources: pandas and spaCy.
+> **[0:23](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/challenge-build-a-spacy-processing-pipeline?u=76281980&t=23)** First, you'll import the following resources: [[Pandas (Software)|pandas]] and spaCy.
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/challenge-build-a-spacy-processing-pipeline?u=76281980&t=28)** You'll then install spaCy and download and load the English model for spaCy.
 >
@@ -497,8 +489,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Build a processing pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-build-a-processing-pipeline?u=76281980)
+#### [Solution: Build a processing pipeline](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-build-a-processing-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -520,7 +511,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-build-a-processing-pipeline?u=76281980&t=35)** And so I'm going to go ahead and run this cell now and you can see how it's going through.
 >
-> **[0:38](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-build-a-processing-pipeline?u=76281980&t=38)** And it's going to be importing pandas, it's going to import spacy, it's going to do a pip install of spacy.
+> **[0:38](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-build-a-processing-pipeline?u=76281980&t=38)** And it's going to be importing [[Pandas (Software)|pandas]], it's going to import [[spaCy]], it's going to do a pip install of spacy.
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-build-a-processing-pipeline?u=76281980&t=46)** It's then going to download the English language model for spacy, and then it's actually going to load that English model as well.
 >
@@ -542,13 +533,13 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-build-a-processing-pipeline?u=76281980&t=105)** So the sentence, "A customer in New York City wants "to give a review," that's been tokenized.
 >
-> **[1:52](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-build-a-processing-pipeline?u=76281980&t=112)** Filtered tokens, these are all the words that are not the, a, an, and that is what we see here.
+> **[1:52](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-build-a-processing-pipeline?u=76281980&t=112)** Filtered [[Tokens]], these are all the words that are not the, a, an, and that is what we see here.
 >
 > **[1:59](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-build-a-processing-pipeline?u=76281980&t=119)** Part of speech tagging has been applied.
 >
 > **[2:02](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-build-a-processing-pipeline?u=76281980&t=122)** You can see your nouns and proper nouns and verbs.
 >
-> **[2:06](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-build-a-processing-pipeline?u=76281980&t=126)** And then down here, name entities have been recognized, New York City, and also limitization where you're getting the root of the word.
+> **[2:06](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-build-a-processing-pipeline?u=76281980&t=126)** And then down here, name entities have been recognized, New York City, and also limitization where you're getting the root of the [[Microsoft Word|word]].
 >
 > **[2:15](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-build-a-processing-pipeline?u=76281980&t=135)** And so here you have New York City and that's been applied as well.
 >
@@ -586,7 +577,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[spaCy]] (4), [[Tokens]] (4), data (4), [[Microsoft Word|Word]] (2), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[spaCy]] (4), [[Tokens]] (4), [[Microsoft Word|Word]] (2), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** pos (1), csv (1)
 > **CLI Commands:** pip (1)
 > **UI Navigation:** scroll down (1)
@@ -600,12 +591,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analyze customer feedback using spaCy
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980)
+#### [Analyze customer feedback using spaCy](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980&t=0)** - [Instructor] In this video, we'll learn about spaCy by analyzing customer feedback data.
+> **[0:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980&t=0)** - [Instructor] In this video, we'll learn about [[spaCy]] by analyzing customer feedback data.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980&t=5)** spaCy itself doesn't have built-in sentiment analysis capabilities.
 >
@@ -617,7 +607,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980&t=36)** You can improve customer experience.
 >
-> **[0:39](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980&t=39)** Analyzing sentiment allows you to understand how customers perceive your products and services.
+> **[0:39](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980&t=39)** Analyzing sentiment allows you to understand how customers perceive your [[Microsoft Products|products]] and services.
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980&t=47)** Positive sentiments can highlight strengths, while negative sentiments can indicate areas for improvement.
 >
@@ -637,7 +627,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980&t=114)** Then train or use a pre-trained machine learning model for sentiment analysis.
 >
-> **[2:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980&t=120)** Popular machine learning frameworks, like scikit-learn or deep learning libraries like TensorFlow and PyTorch can be used for this purpose.
+> **[2:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980&t=120)** Popular machine learning frameworks, like scikit-learn or [[Deep Learning]] libraries like [[TensorFlow]] and [[PyTorch]] can be used for this purpose.
 >
 > **[2:09](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980&t=129)** You can integrate the spaCy processing pipeline with the sentiment analysis model.
 >
@@ -651,9 +641,9 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980&t=174)** These models include VADER or Valence Aware Dictionary and sEntiment Reasoner, which is a rule-based sentiment analysis tool designed for analyzing social media text.
 >
-> **[3:09](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980&t=189)** And then there's Google Cloud Natural Language API, which offers sentiment analysis as part of its suite of natural language processing tools.
+> **[3:09](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980&t=189)** And then there's [[Google Cloud Platform (GCP)|Google Cloud]] Natural Language API, which offers sentiment analysis as part of its suite of [[Natural Language Processing (NLP)|natural language processing]] tools.
 >
-> **[3:19](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980&t=199)** Microsoft's Azure's Text Analytics can analyze text in multiple languages and provides a confidence score for the sentiment analysis.
+> **[3:19](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980&t=199)** [[Microsoft]]'s [[Microsoft Azure|Azure]]'s Text Analytics can analyze text in multiple languages and provides a confidence score for the sentiment analysis.
 >
 > **[3:31](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980&t=211)** Amazon Comprehend offers sentiment analysis as one of its features, allowing you to analyze text for positive, negative, neutral, or mixed sentiment.
 >
@@ -661,7 +651,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980&t=234)** And TextBlob.
 >
-> **[3:56](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980&t=236)** As we spoke of earlier, TextBlob is a Python library that provides a simple API for sentiment analysis.
+> **[3:56](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980&t=236)** As we spoke of earlier, TextBlob is a [[Python (Programming Language)|Python]] library that provides a simple API for sentiment analysis.
 >
 > **[4:04](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/analyze-customer-feedback-using-spacy?u=76281980&t=244)** It is built on top of NLTK and Pattern, and it offers a basic sentiment analysis functionality out of the box.
 >
@@ -675,7 +665,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[spaCy]] (9), data (2), api (2), [[Microsoft Products|Products]] (1), strengths (1)
+> **Frameworks & Libraries:** [[spaCy]] (9), [[Microsoft Products|Products]] (1), [[Deep Learning]] (1), [[TensorFlow]] (1), [[PyTorch]] (1)
 > **Code Identifiers:** spacy (9), sentiment (1)
 > **Env Vars:** api (2), nlp (1), vader (1), ibm (1), nltk (1)
 > **Definitions:** is a  (2)
@@ -684,12 +674,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### The spaCy processing pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/the-spacy-processing-pipeline?u=76281980)
+#### [The spaCy processing pipeline](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/the-spacy-processing-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/the-spacy-processing-pipeline?u=76281980&t=0)** - [Presenter] As previously mentioned, spaCy organizes its NLP tasks into a processing pipeline.
+> **[0:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/the-spacy-processing-pipeline?u=76281980&t=0)** - [Presenter] As previously mentioned, [[spaCy]] organizes its NLP tasks into a processing pipeline.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/the-spacy-processing-pipeline?u=76281980&t=8)** The NLP object has a pipeline of components that are applied sequentially to process a text.
 >
@@ -697,7 +686,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/the-spacy-processing-pipeline?u=76281980&t=27)** When you call NLP on a text, spaCy first tokenizes to text to produce a dock object, the dock is then processed in several different steps, this is also referred to as the processing pipeline.
 >
-> **[0:41](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/the-spacy-processing-pipeline?u=76281980&t=41)** In this sentence, "Your products are excellent.
+> **[0:41](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/the-spacy-processing-pipeline?u=76281980&t=41)** In this sentence, "Your [[Microsoft Products|products]] are excellent.
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/the-spacy-processing-pipeline?u=76281980&t=45)** I really love the quality.
 >
@@ -757,7 +746,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[spaCy]] (4), nlp (3), [[Microsoft Products|Products]] (2), express (1), product (1)
+> **Frameworks & Libraries:** [[spaCy]] (4), [[Microsoft Products|Products]] (2)
 > **Code Identifiers:** spacy (4)
 > **URLs:** [email.com](https://email.com) (4)
 > **Definitions:** is a  (2), is an  (1), means that (1)
@@ -766,8 +755,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### Challenge: Analyze customer feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/challenge-analyze-customer-feedback?u=76281980)
+#### [Challenge: Analyze customer feedback](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/challenge-analyze-customer-feedback?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -779,17 +767,16 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/challenge-analyze-customer-feedback?u=76281980&t=15)** First, you'll install libraries and modules, then read in the customer feedback file and create an output file to store the results.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/challenge-analyze-customer-feedback?u=76281980&t=25)** The last exercise is loading the output results into a Pandas Dataframe, displaying the first five rows of the data frame, and then plotting the count of preferred contact methods, whether it's email or chat.
+> **[0:25](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/challenge-analyze-customer-feedback?u=76281980&t=25)** The last exercise is loading the output results into a [[Pandas (Software)|Pandas]] Dataframe, displaying the first five rows of the data frame, and then plotting the count of preferred contact methods, whether it's email or chat.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1), data (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (cheerful music) (1)
 
-#### Solution: Analyze customer feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-analyze-customer-feedback?u=76281980)
+#### [Solution: Analyze customer feedback](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-analyze-customer-feedback?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -807,7 +794,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-analyze-customer-feedback?u=76281980&t=36)** And in Exercise 2, you're going to read in the feedback file and create an output file for results.
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-analyze-customer-feedback?u=76281980&t=45)** Scroll on down here, and the solution is here where you're going to process and analyze each bit of feedback, you're going to process the narrative using spaCy, you're going to perform sentiment analysis using TextBlob, you're going to extract the named entities, and you're going to determine the preferred method of contact.
+> **[0:45](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-analyze-customer-feedback?u=76281980&t=45)** Scroll on down here, and the solution is here where you're going to process and analyze each bit of feedback, you're going to process the narrative using [[spaCy]], you're going to perform sentiment analysis using TextBlob, you're going to extract the named entities, and you're going to determine the preferred method of contact.
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-analyze-customer-feedback?u=76281980&t=73)** And the last thing here, you're going to write the results to a CSV file.
 >
@@ -819,7 +806,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-analyze-customer-feedback?u=76281980&t=93)** And in Exercise 3, a little bit of exploratory data analysis on the feedback.
 >
-> **[1:38](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-analyze-customer-feedback?u=76281980&t=98)** And here you're just going to load data into a Pandas DataFrame.
+> **[1:38](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-analyze-customer-feedback?u=76281980&t=98)** And here you're just going to load data into a [[Pandas (Software)|Pandas]] DataFrame.
 >
 > **[1:44](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-analyze-customer-feedback?u=76281980&t=104)** Look at the first five rows. And here is the table.
 >
@@ -839,7 +826,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[spaCy]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[spaCy]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** spacy (1)
 > **Env Vars:** csv (1)
@@ -853,12 +840,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Modern natural language processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/modern-natural-language-processing?u=76281980)
+#### [Modern natural language processing](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/modern-natural-language-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/modern-natural-language-processing?u=76281980&t=0)** - [Instructor] In this video, we provide an overview of modern natural language processing, which has paved the way for numerous advancements, including pre-trained language models and state-of-the-art performance on various NLP tasks, such as question answering or QA, which is a task in NLP that involves automatically generating answers to questions posed in natural language.
+> **[0:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/modern-natural-language-processing?u=76281980&t=0)** - [Instructor] In this video, we provide an overview of modern [[Natural Language Processing (NLP)|natural language processing]], which has paved the way for numerous advancements, including pre-trained language models and state-of-the-art performance on various NLP tasks, such as question answering or QA, which is a task in NLP that involves automatically generating answers to questions posed in natural language.
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/modern-natural-language-processing?u=76281980&t=30)** And we have text classification, which is an NLP task that involves creating text documents or sentences into predefined classes or categories based on their content.
 >
@@ -872,7 +858,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/modern-natural-language-processing?u=76281980&t=101)** The goal of text generation is to produce coherent and contextually relevant text that mimics human writing style and language patterns.
 >
-> **[1:50](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/modern-natural-language-processing?u=76281980&t=110)** Text generation can be performed in various ways, ranging from simple rule-based approaches to more advanced deep learning models, and there is code generation, which is the task of automatically generating source code or code snippets from natural language descriptions or requirements.
+> **[1:50](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/modern-natural-language-processing?u=76281980&t=110)** Text generation can be performed in various ways, ranging from simple rule-based approaches to more advanced [[Deep Learning]] models, and there is code generation, which is the task of automatically generating source code or code snippets from natural language descriptions or requirements.
 >
 > **[2:12](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/modern-natural-language-processing?u=76281980&t=132)** This involves converting human readable text, such as natural language specifications, comments or documentation into executable code that performs the desired functionality.
 >
@@ -884,37 +870,36 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/modern-natural-language-processing?u=76281980&t=180)** Chatbots simulate human-like conversations and can be deployed across various platforms, including websites, messaging applications, mobile apps, and voice assistance.
 >
-> **[3:13](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/modern-natural-language-processing?u=76281980&t=193)** All of these applications and tasks are possible by leveraging large scale language models such as BERT, GPT, LLM, Mistral, Gemini, or other transformer based NLP architectures.
+> **[3:13](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/modern-natural-language-processing?u=76281980&t=193)** All of these applications and tasks are possible by leveraging large scale language models such as BERT, GPT, LLM, Mistral, [[Gemini]], or other transformer based NLP architectures.
 >
-> **[3:28](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/modern-natural-language-processing?u=76281980&t=208)** Transformer models can understand user inputs, generate contextually relevant responses, and engage in more natural and human-like conversations.
+> **[3:28](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/modern-natural-language-processing?u=76281980&t=208)** [[Transformer Models]] can understand user inputs, generate contextually relevant responses, and engage in more natural and human-like conversations.
 >
 > **[3:39](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/modern-natural-language-processing?u=76281980&t=219)** Let's take a brief look at three transformer based models.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (6), [[Natural Language Processing (NLP)|Natural language processing]] (1), data (1), [[Deep Learning]] (1), llm (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Deep Learning]] (1), [[Gemini]] (1), [[Transformer Models]] (1)
 > **Env Vars:** nlp (6), bert (1), gpt (1), llm (1)
 > **Definitions:** is an  (3), is a  (1), refers to (1)
 > **Analogies:** such as (3)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transformers neural networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/transformers-neural-networks?u=76281980)
+#### [Transformers neural networks](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/transformers-neural-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/transformers-neural-networks?u=76281980&t=0)** - [Instructor] In this video, we provide an overview of BERT or bidirectional encoder representations from transformers and GPT or generative pre-trained transformer.
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/transformers-neural-networks?u=76281980&t=15)** As a reminder, tokens can be words, punctuation marks, or sub word units.
+> **[0:15](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/transformers-neural-networks?u=76281980&t=15)** As a reminder, [[Tokens]] can be words, punctuation marks, or sub [[Microsoft Word|word]] units.
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/transformers-neural-networks?u=76281980&t=22)** A vector represents the numerical value or representations of a token.
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/transformers-neural-networks?u=76281980&t=27)** In NLP, tokens are typically represented as vectors, so tokens are the smallest unit of text and vectors represent their numerical values or representation in NLP.
 >
-> **[0:40](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/transformers-neural-networks?u=76281980&t=40)** By converting text into vectors, we can then use mathematical operations and machine learning algorithms to analyze and manipulate them.
+> **[0:40](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/transformers-neural-networks?u=76281980&t=40)** By converting text into vectors, we can then use mathematical operations and machine learning [[Algorithms]] to analyze and manipulate them.
 >
-> **[0:50](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/transformers-neural-networks?u=76281980&t=50)** This is a diagram of a transformer, a neural network architecture used in natural language processing.
+> **[0:50](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/transformers-neural-networks?u=76281980&t=50)** This is a diagram of a transformer, a neural network architecture used in [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[0:57](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/transformers-neural-networks?u=76281980&t=57)** The transformer is made up of two parts, an encoder and a decoder.
 >
@@ -946,7 +931,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/transformers-neural-networks?u=76281980&t=172)** This representation of attention scores and input embeddings is more aligned with how they would be used within a transformer neural network, as they are typically used as weights to compute a weighted sum of the input embeddings producing context-aware representations for each token in the sequence.
 >
-> **[3:14](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/transformers-neural-networks?u=76281980&t=194)** In this example, we first define the tension scores and input embeddings as PyTorch sensors.
+> **[3:14](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/transformers-neural-networks?u=76281980&t=194)** In this example, we first define the tension scores and input embeddings as [[PyTorch]] sensors.
 >
 > **[3:23](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/transformers-neural-networks?u=76281980&t=203)** We then use PyTorch's torch.matmul function to compute the weighted sum of input embeddings based on the attention scores.
 >
@@ -972,7 +957,7 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/transformers-neural-networks?u=76281980&t=327)** The feed forward neural network applies nonlinear transformations to the contextualized representations, the "I enjoy reading books," and enables the model to capture complex patterns and relationships in the data.
 >
-> **[5:44](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/transformers-neural-networks?u=76281980&t=344)** Both the self-attention mechanism and the feed forward neural networks are followed by layer normalization and residual connections.
+> **[5:44](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/transformers-neural-networks?u=76281980&t=344)** Both the self-attention mechanism and the feed forward [[Neural Networks]] are followed by layer normalization and residual connections.
 >
 > **[5:54](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/transformers-neural-networks?u=76281980&t=354)** Layer normalization and residual connections work together to stabilize the training process and ensure efficient information flow through the network.
 >
@@ -980,21 +965,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (7), [[Microsoft Word|Word]] (5), [[Tokens]] (4), data (4), [[PyTorch]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Tokens]] (4), [[PyTorch]] (2), [[Algorithms]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** nlp (7), bert (1), gpt (1)
 > **Analogies:** such as (2), for instance (1)
 > **Versions:** 1.0 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Large language models: BERT, GPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/large-language-models-bert-gpt?u=76281980)
+#### [Large language models: BERT, GPT](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/large-language-models-bert-gpt?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/large-language-models-bert-gpt?u=76281980&t=0)** - [Narrator] As previously mentioned, BERT utilizes an encoder only transformer architecture, processing texts in a bidirectional manner.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/large-language-models-bert-gpt?u=76281980&t=10)** BERT predicts tokens based on a bidirectional context, meaning it captures bidirectional contextual information, by considering both left and right context of each token in the input sequence.
+> **[0:10](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/large-language-models-bert-gpt?u=76281980&t=10)** BERT predicts [[Tokens]] based on a bidirectional context, meaning it captures bidirectional contextual information, by considering both left and right context of each token in the input sequence.
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/large-language-models-bert-gpt?u=76281980&t=24)** GPT utilizes a decoder only transformer architecture, processing text in a unidirectional manner.
 >
@@ -1008,7 +992,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/large-language-models-bert-gpt?u=76281980&t=81)** GPT is better for text generation, text summarization, and dialogue generation or creating chatbots.
 >
-> **[1:31](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/large-language-models-bert-gpt?u=76281980&t=91)** BERT and GPT are known as large language models or LLMs.
+> **[1:31](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/large-language-models-bert-gpt?u=76281980&t=91)** BERT and GPT are known as [[Large Language Models (LLM)|large language models]] or LLMs.
 >
 > **[1:37](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/large-language-models-bert-gpt?u=76281980&t=97)** LLMs are also trained on large data sets, and these include books, articles, websites, code repositories, social media platforms, and much more.
 >
@@ -1026,7 +1010,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/large-language-models-bert-gpt?u=76281980&t=165)** The LLM breaks the input text into a sequence of tokens.
 >
-> **[2:50](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/large-language-models-bert-gpt?u=76281980&t=170)** Each token represents an individual word, punctuation mark, or other character.
+> **[2:50](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/large-language-models-bert-gpt?u=76281980&t=170)** Each token represents an individual [[Microsoft Word|word]], punctuation mark, or other character.
 >
 > **[2:56](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/large-language-models-bert-gpt?u=76281980&t=176)** And in embeddings, the LLM converts each token into a dense vector representation.
 >
@@ -1038,14 +1022,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (4), [[Large Language Models (LLM)|Large language models]] (3), [[Tokens]] (2), data (2), next (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (3), [[Tokens]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** gpt (6), bert (5), llm (4)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Sentiment analysis using DistilBERT
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/challenge-sentiment-analysis-using-distilbert?u=76281980)
+#### [Challenge: Sentiment analysis using DistilBERT](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/challenge-sentiment-analysis-using-distilbert?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1059,17 +1042,16 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/challenge-sentiment-analysis-using-distilbert?u=76281980&t=29)** Then you need to complete the code to perform sentiment analysis.
 >
-> **[0:34](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/challenge-sentiment-analysis-using-distilbert?u=76281980&t=34)** And lastly, I have an optional data analysis exercise where you can run the cells to create a word cloud, a pie chart, and a bar chart.
+> **[0:34](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/challenge-sentiment-analysis-using-distilbert?u=76281980&t=34)** And lastly, I have an optional data analysis exercise where you can run the cells to create a [[Microsoft Word|word]] cloud, a pie chart, and a bar chart.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Sentiment analysis using DistilBERT
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-sentiment-analysis-using-distilbert?u=76281980)
+#### [Solution: Sentiment analysis using DistilBERT](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-sentiment-analysis-using-distilbert?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1123,7 +1105,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-sentiment-analysis-using-distilbert?u=76281980&t=137)** Okay, so here's my output.
 >
-> **[2:19](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-sentiment-analysis-using-distilbert?u=76281980&t=139)** My first one, "Your products are excellent.
+> **[2:19](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-sentiment-analysis-using-distilbert?u=76281980&t=139)** My first one, "Your [[Microsoft Products|products]] are excellent.
 >
 > **[2:20](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-sentiment-analysis-using-distilbert?u=76281980&t=140)** I really love the quality."
 >
@@ -1149,7 +1131,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** csv (2)
 > **Best Practices:** best practice (2)
 > **CLI Commands:** make (1)
@@ -1163,16 +1145,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Methods that improve LLM performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980)
+#### [Methods that improve LLM performance](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980&t=0)** - [Instructor] Because LLMs are trained on a large corpus of data, you may need to customize an LLM for a special use case in order to improve its accuracy, effectiveness, and adaptability.
 >
-> **[0:14](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980&t=14)** Methods that improve LLM performance include prompt engineering and supervised fine-tuning, which are considered traditional approaches.
+> **[0:14](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980&t=14)** Methods that improve LLM performance include [[Prompt Engineering]] and supervised fine-tuning, which are considered traditional approaches.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980&t=24)** Retrieval-augmented generation, or RAG, and parameter-efficient tuning, or PEFT, are considered more advanced approaches.
+> **[0:24](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980&t=24)** [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]], or RAG, and parameter-efficient tuning, or PEFT, are considered more advanced approaches.
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980&t=35)** Let's begin with an overview of prompt engineering and supervised fine-tuning.
 >
@@ -1184,11 +1165,11 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980&t=74)** Here is an example of a few short prompts.
 >
-> **[1:17](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980&t=77)** This prompt provides key elements for developing a comprehensive marketing strategy tailored to the target audience and product attributes, guiding the business towards effective promotion and sales growth.
+> **[1:17](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980&t=77)** This prompt provides key elements for developing a comprehensive [[Marketing Strategy]] tailored to the target audience and product attributes, guiding the business towards effective promotion and sales growth.
 >
 > **[1:31](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980&t=91)** The few short examples include product features, channels, and messaging.
 >
-> **[1:37](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980&t=97)** This is a basic example prompt engineering code using Hugging Face's Transformers library in Python.
+> **[1:37](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980&t=97)** This is a basic example prompt engineering code using [[Hugging Face]]'s Transformers library in [[Python (Programming Language)|Python]].
 >
 > **[1:43](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980&t=103)** In this example, the code generates text based on a given prompt using a pre-trained language model.
 >
@@ -1200,7 +1181,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980&t=124)** It takes several parameters.
 >
-> **[2:07](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980&t=127)** Tokenizer.encode(input_text, return_tensors="pt") encodes the input text using the tokenizer and returns it as PyTorch tensors.
+> **[2:07](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980&t=127)** Tokenizer.encode(input_text, return_tensors="pt") encodes the input text using the tokenizer and returns it as [[PyTorch]] tensors.
 >
 > **[2:20](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980&t=140)** The tokenizer converts the input_text into token IDs that the model can understand.
 >
@@ -1216,13 +1197,13 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980&t=173)** Top_k.
 >
-> **[2:55](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980&t=175)** Top_k sampling limits the vocabulary to the Top-k, most likely tokens, at each step of the generation process.
+> **[2:55](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980&t=175)** Top_k sampling limits the vocabulary to the Top-k, most likely [[Tokens]], at each step of the generation process.
 >
 > **[3:03](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980&t=183)** It helps control the diversity of the generated text.
 >
 > **[3:08](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980&t=188)** Top_p.
 >
-> **[3:10](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980&t=190)** Top_p sampling, also known as nucleus sampling, limits the vocabulary to the smallest set of tokens whose cumulative probability exceeds the given threshold P.
+> **[3:10](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980&t=190)** Top_p sampling, also known as nucleus sampling, limits the vocabulary to the smallest set of tokens whose cumulative [[Probability]] exceeds the given threshold P.
 >
 > **[3:23](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/methods-that-improve-llm-performance?u=76281980&t=203)** It dynamically adjusts the vocabulary size based on the probabilities of tokens.
 >
@@ -1258,7 +1239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (9), [[Prompt Engineering]] (7), prompt (7), data (3), llm (3)
+> **Frameworks & Libraries:** [[Tokens]] (9), [[Prompt Engineering]] (7), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Marketing Strategy]] (1), [[Hugging Face]] (1)
 > **Code Identifiers:** input_text (2), return_tensors (1), token_id (1), eos_token_id (1), skip_special_tokens (1)
 > **Env Vars:** llm (3), rag (1), peft (1)
 > **Definitions:** is an  (1), is a  (1), known as (1)
@@ -1266,8 +1247,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Supervised fine-tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/supervised-fine-tuning?u=76281980)
+#### [Supervised fine-tuning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/supervised-fine-tuning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1303,14 +1283,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), llm (2)
 > **Env Vars:** llm (2)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fine-tuning methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/fine-tuning-methods?u=76281980)
+#### [Fine-tuning methods](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/fine-tuning-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1336,7 +1314,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/fine-tuning-methods?u=76281980&t=106)** Let's take this opportunity to dive a bit deeper.
 >
-> **[1:50](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/fine-tuning-methods?u=76281980&t=110)** When the input text is tokenized, it is broken down into individual tokens where each token corresponds to a word or sub word in the text.
+> **[1:50](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/fine-tuning-methods?u=76281980&t=110)** When the input text is tokenized, it is broken down into individual [[Tokens]] where each token corresponds to a [[Microsoft Word|word]] or sub word in the text.
 >
 > **[1:59](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/fine-tuning-methods?u=76281980&t=119)** The tokenizer then assigns a numerical token ID to each token.
 >
@@ -1394,7 +1372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (10), data (4), llm (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Tokens]] (10), [[Microsoft Word|Word]] (2)
 > **Env Vars:** bert (3), llm (2), gpt (2)
 > **Code Identifiers:** train_texts (3), train_encodings (2), medical_texts (1)
 > **Analogies:** such as (3), for example (3)
@@ -1402,8 +1380,7 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1), earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Retrieval-augmented generation (RAG)
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/retrieval-augented-generation-rag?u=76281980)
+#### [Retrieval-augmented generation (RAG)](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/retrieval-augented-generation-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1457,15 +1434,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), rag (2), llm (1), database (1), [[Search]] (1)
 > **Env Vars:** rag (2), llm (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Parameter-efficient fine-tuning (PEFT)
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/parameter-efficient-tunning-peft?u=76281980)
+#### [Parameter-efficient fine-tuning (PEFT)](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/parameter-efficient-tunning-peft?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1479,13 +1454,13 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/parameter-efficient-tunning-peft?u=76281980&t=40)** Recall that parameters are internal settings learned by the model during training.
 >
-> **[0:46](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/parameter-efficient-tunning-peft?u=76281980&t=46)** These parameters represent the coefficients or values associated with the connections between neurons in neural networks, or the relationships between features and labels in other types of models.
+> **[0:46](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/parameter-efficient-tunning-peft?u=76281980&t=46)** These parameters represent the coefficients or values associated with the connections between neurons in [[Neural Networks]], or the relationships between features and labels in other types of models.
 >
 > **[1:01](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/parameter-efficient-tunning-peft?u=76281980&t=61)** Essentially, these weight and bias matrices are learnable parameters that the model adjusts during training to minimize the loss function.
 >
-> **[1:13](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/parameter-efficient-tunning-peft?u=76281980&t=73)** Parameter-efficient tuning uses different approaches to fine tuning, like freezing some parts of the LLM, or updating only a subset of the model's parameters, and only training other parts.
+> **[1:13](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/parameter-efficient-tunning-peft?u=76281980&t=73)** Parameter-efficient tuning uses different approaches to [[Fine Tuning]], like freezing some parts of the LLM, or updating only a subset of the model's parameters, and only training other parts.
 >
-> **[1:28](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/parameter-efficient-tunning-peft?u=76281980&t=88)** In GPT models, word embedding parameters are typically kept frozen to preserve the model's basic understanding of language structure.
+> **[1:28](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/parameter-efficient-tunning-peft?u=76281980&t=88)** In GPT models, [[Microsoft Word|word]] embedding parameters are typically kept frozen to preserve the model's basic understanding of language structure.
 >
 > **[1:38](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/parameter-efficient-tunning-peft?u=76281980&t=98)** Layer normalization parameters normalize the activations within each layer of the model and are also frozen.
 >
@@ -1507,7 +1482,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/parameter-efficient-tunning-peft?u=76281980&t=180)** This can be useful when you want to leverage pre-trained weights from a model and only fine tune special parts of the model on a new task or dataset.
 >
-> **[3:10](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/parameter-efficient-tunning-peft?u=76281980&t=190)** In most deep learning frameworks, freezing layers is typically achieved by setting the requires_grad attribute of the parameters in those layers to false.
+> **[3:10](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/parameter-efficient-tunning-peft?u=76281980&t=190)** In most [[Deep Learning]] frameworks, freezing layers is typically achieved by setting the requires_grad attribute of the parameters in those layers to false.
 >
 > **[3:20](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/parameter-efficient-tunning-peft?u=76281980&t=200)** This prevents the optimizer from computing gradients and updating the weights of those parameters.
 >
@@ -1537,7 +1512,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fine Tuning]] (7), llm (2), data (1), [[Neural Networks]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (7), [[Neural Networks]] (1), [[Microsoft Word|Word]] (1), [[Deep Learning]] (1)
 > **Env Vars:** llm (2), gpt (2), bert (2)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1545,8 +1520,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Parameter-efficient fine-tuning with LoRa
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/challenge-parameter-efficient-fine-tuning-with-lora?u=76281980)
+#### [Challenge: Parameter-efficient fine-tuning with LoRa](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/challenge-parameter-efficient-fine-tuning-with-lora?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1562,12 +1536,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - in (1)
 
-#### Solution: Parameter-efficient fine-tuning with LoRa
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-parameter-efficient-fine-tuning-with-lora?u=76281980)
+#### [Solution: Parameter-efficient fine-tuning with LoRa](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-parameter-efficient-fine-tuning-with-lora?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1621,11 +1593,11 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-parameter-efficient-fine-tuning-with-lora?u=76281980&t=174)** And then here, we're creating an id2label mapping, and we will this for our classifier so we can classify whether a news article from our dataset is either sports, entertainment, or business, for example.
 >
-> **[3:10](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-parameter-efficient-fine-tuning-with-lora?u=76281980&t=190)** And then we have a data_collator that we have to tokenize and that returns a PyTorch tensor.
+> **[3:10](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-parameter-efficient-fine-tuning-with-lora?u=76281980&t=190)** And then we have a data_collator that we have to tokenize and that returns a [[PyTorch]] tensor.
 >
 > **[3:18](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-parameter-efficient-fine-tuning-with-lora?u=76281980&t=198)** And that's ran, and so I'm just scrolling down here and then there's training.
 >
-> **[3:23](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-parameter-efficient-fine-tuning-with-lora?u=76281980&t=203)** And so here, the notebook trains two models, one using LoRA, and the other with full fine tuning.
+> **[3:23](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-parameter-efficient-fine-tuning-with-lora?u=76281980&t=203)** And so here, the notebook trains two models, one using LoRA, and the other with full [[Fine Tuning]].
 >
 > **[3:33](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-parameter-efficient-fine-tuning-with-lora?u=76281980&t=213)** And these are the concepts that we talked about in the chapter.
 >
@@ -1677,7 +1649,7 @@ created: 2026-05-02
 >
 > **[6:42](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-parameter-efficient-fine-tuning-with-lora?u=76281980&t=402)** So we're asking the model now to classify these two different sentences here, and here.
 >
-> **[6:51](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-parameter-efficient-fine-tuning-with-lora?u=76281980&t=411)** One has the word hospital, so something maybe health-related, and then here, this says Wall Street, so something perhaps maybe business-related.
+> **[6:51](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-parameter-efficient-fine-tuning-with-lora?u=76281980&t=411)** One has the [[Microsoft Word|word]] hospital, so something maybe health-related, and then here, this says Wall Street, so something perhaps maybe business-related.
 >
 > **[6:59](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/solution-parameter-efficient-fine-tuning-with-lora?u=76281980&t=419)** And the class one label is sports, in terms of this person probably being left in the hospital and participating in some kind of sports, and then this label here in terms of Wall Street was business.
 >
@@ -1693,7 +1665,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Fine Tuning]] (5), business (3), [[PyTorch]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (5), [[PyTorch]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** peft (7)
 > **Code Identifiers:** roberta_model_name (1), modified_base (1), base_model (1), data_collator (1)
 > **Versions:** 0.927 (1), 0.946 (1), 0.248 (1)
@@ -1707,8 +1679,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1716,7 +1687,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/next-steps?u=76281980&t=1)** This is an amazing accomplishment.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/next-steps?u=76281980&t=5)** After completing this course, the next steps would depend on your specific goals and interests within the field of natural language processing.
+> **[0:05](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/next-steps?u=76281980&t=5)** After completing this course, the next steps would depend on your specific goals and interests within the field of [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/next-steps?u=76281980&t=14)** Here are some general next steps you might consider.
 >
@@ -1730,13 +1701,13 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/next-steps?u=76281980&t=57)** Keep learning, practicing, and exploring new areas within NLP based on your interests and career goals.
 >
-> **[1:06](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/next-steps?u=76281980&t=66)** Please feel free to reach out to me on LinkedIn and also join the machine learning community group on LinkedIn as well.
+> **[1:06](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/next-steps?u=76281980&t=66)** Please feel free to reach out to me on [[LinkedIn]] and also join the machine learning community group on LinkedIn as well.
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning-24079681/next-steps?u=76281980&t=74)** Thank you for taking the course, and remember, this is your moment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (4), next (2), [[LinkedIn]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), data (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** nlp (4)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)

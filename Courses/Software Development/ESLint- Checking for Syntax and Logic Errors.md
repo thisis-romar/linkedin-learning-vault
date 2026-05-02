@@ -68,12 +68,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using ESLint to catch coding errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-eslint-to-catch-coding-errors-25671666?u=76281980)
+#### [Using ESLint to catch coding errors](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-eslint-to-catch-coding-errors-25671666?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-eslint-to-catch-coding-errors-25671666?u=76281980&t=0)** - ESLint error checking rules can be really handy, but sometimes it's not clear which ones make sense for a project and which ones you should turn off.
+> **[0:00](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-eslint-to-catch-coding-errors-25671666?u=76281980&t=0)** - [[ESLint]] error checking rules can be really handy, but sometimes it's not clear which ones make sense for a project and which ones you should turn off.
 >
 > **[0:09](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-eslint-to-catch-coding-errors-25671666?u=76281980&t=9)** In this course we'll look at some of ESLint's most significant error checking rules.
 >
@@ -88,14 +87,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - eslint (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/what-you-should-know?u=76281980&t=0)** - [Instructor] This course assumes you have intermediate to advanced level experience coding in front-end JavaScript including modern ES6 syntax.
+> **[0:00](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/what-you-should-know?u=76281980&t=0)** - [Instructor] This course assumes you have intermediate to advanced level experience coding in front-end [[JavaScript]] including modern ES6 syntax.
 >
-> **[0:08](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/what-you-should-know?u=76281980&t=8)** It also assumes you know how to set up and configure ESLint in an npm project.
+> **[0:08](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/what-you-should-know?u=76281980&t=8)** It also assumes you know how to set up and configure [[ESLint]] in an [[npm]] project.
 >
 > **[0:13](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/what-you-should-know?u=76281980&t=13)** If you need to review how to configure ESLint, search in our library for a course on customizing ESLint styles.
 >
@@ -103,18 +101,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (5), [[Search]] (2), front-end (1), [[JavaScript]] (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[ESLint]] (5), [[JavaScript]] (1), [[npm]] (1)
 > **Prerequisites:** configure (2), set up (1)
 > **CLI Commands:** npm (1)
 > **Env Vars:** es6 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files for this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-the-exercise-files-for-this-course?u=76281980)
+#### [Using the exercise files for this course](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-the-exercise-files-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-the-exercise-files-for-this-course?u=76281980&t=0)** - [Instructor] All of the files for this course are freely available as a GitHub repo at this URL.
+> **[0:00](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-the-exercise-files-for-this-course?u=76281980&t=0)** - [Instructor] All of the files for this course are freely available as a [[GitHub]] repo at this URL.
 >
 > **[0:05](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-the-exercise-files-for-this-course?u=76281980&t=5)** The repository is built so there are branches for each of the videos in the course.
 >
@@ -126,11 +123,11 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-the-exercise-files-for-this-course?u=76281980&t=35)** If you want to see how the code looked at the end, just choose the same branch but with an E at the end instead.
 >
-> **[0:42](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-the-exercise-files-for-this-course?u=76281980&t=42)** In this course, I go through configuring syntax and logic rules for ESLint.
+> **[0:42](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-the-exercise-files-for-this-course?u=76281980&t=42)** In this course, I go through configuring syntax and logic rules for [[ESLint]].
 >
 > **[0:48](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-the-exercise-files-for-this-course?u=76281980&t=48)** If you want to, you can download any of the branches by first going to the branch and then hitting the clone or download button and downloading the ZIP file for the video that you want to follow along with.
 >
-> **[1:00](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-the-exercise-files-for-this-course?u=76281980&t=60)** You may need to install NPM as well as GIT before you do this.
+> **[1:00](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-the-exercise-files-for-this-course?u=76281980&t=60)** You may need to install [[npm]] as well as [[Git]] before you do this.
 >
 > **[1:05](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-the-exercise-files-for-this-course?u=76281980&t=65)** If you need more experience working with Git and GitHub, make sure you're familiar working with Git and GitHub before taking this course.
 >
@@ -140,7 +137,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), [[Git]] (3), [[ESLint]] (1), [[npm]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Git]] (3), [[ESLint]] (1), [[npm]] (1)
 > **CLI Commands:** git (3), npm (1), make (1)
 > **Env Vars:** url (1), zip (1), npm (1), git (1)
 > **Tools:** github (4)
@@ -149,16 +146,15 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-github-codespaces-with-this-course?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-github-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-github-codespaces-with-this-course?u=76281980&t=0)** - This is Ray Villalobos, senior staff instructor at LinkedIn Learning, and I'm going to show you how to work with LinkedIn Learning courses using GitHub Codespaces.
+> **[0:00](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-github-codespaces-with-this-course?u=76281980&t=0)** - This is Ray Villalobos, senior staff instructor at [[LinkedIn]] Learning, and I'm going to show you how to work with LinkedIn Learning courses using [[GitHub]] [[Codespaces]].
 >
 > **[0:09](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-github-codespaces-with-this-course?u=76281980&t=9)** Codespaces is a code editor in the cloud with the full power of Visual Studio Code.
 >
-> **[0:15](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-github-codespaces-with-this-course?u=76281980&t=15)** It allows for real world hands-on practice that mirrors software development in the workplace.
+> **[0:15](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-github-codespaces-with-this-course?u=76281980&t=15)** It allows for real world hands-on practice that mirrors [[Software Development]] in the workplace.
 >
 > **[0:20](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-github-codespaces-with-this-course?u=76281980&t=20)** This course has been adopted for use with GitHub Codespaces.
 >
@@ -226,7 +222,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-github-codespaces-with-this-course?u=76281980&t=193)** As you work through a course, you might make some changes on a branch.
 >
-> **[3:17](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-github-codespaces-with-this-course?u=76281980&t=197)** I'm going to make a minor edit on the index.html file right here.
+> **[3:17](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-github-codespaces-with-this-course?u=76281980&t=197)** I'm going to make a minor edit on the index.[[HTML]] file right here.
 >
 > **[3:25](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-github-codespaces-with-this-course?u=76281980&t=205)** I'm going to go ahead and save that, and you can see that I've modified this file because there's an M right here, and the branch name now has an asterisk on it.
 >
@@ -264,7 +260,7 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-github-codespaces-with-this-course?u=76281980&t=330)** I'll hit OK.
 >
-> **[5:32](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-github-codespaces-with-this-course?u=76281980&t=332)** You can also let it go ahead and run Git Fetch, that way it'll automatically sync with your forked repo.
+> **[5:32](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-github-codespaces-with-this-course?u=76281980&t=332)** You can also let it go ahead and run [[Git]] [[Fetch]], that way it'll automatically sync with your forked repo.
 >
 > **[5:39](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/using-github-codespaces-with-this-course?u=76281980&t=339)** Now that change will be stored in your own version of this repository.
 >
@@ -288,7 +284,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (6), hit (5), [[GitHub]] (4), [[LinkedIn]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Codespaces]] (6), [[GitHub]] (4), [[LinkedIn]] (2), [[Software Development]] (1), [[HTML]] (1)
 > **UI Navigation:** switch to (4), click on (3), go to (2)
 > **CLI Commands:** make (4), find (1), git (1)
 > **Tools:** github (4), visual studio (2)
@@ -302,12 +298,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding ESLint error rule types
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/understanding-eslint-error-rule-types?u=76281980)
+#### [Understanding ESLint error rule types](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/understanding-eslint-error-rule-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/understanding-eslint-error-rule-types?u=76281980&t=0)** - [Instructor] ESLint can be super handy in enforcing consistency in code you write.
+> **[0:00](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/understanding-eslint-error-rule-types?u=76281980&t=0)** - [Instructor] [[ESLint]] can be super handy in enforcing consistency in code you write.
 >
 > **[0:05](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/understanding-eslint-error-rule-types?u=76281980&t=5)** In fact, most of the rules that ESLint supports have to do with aspects of code that don't have just one correct approach.
 >
@@ -341,12 +336,11 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Flagging issues in functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/flagging-issues-in-functions?u=76281980)
+#### [Flagging issues in functions](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/flagging-issues-in-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/flagging-issues-in-functions?u=76281980&t=0)** - [Instructor] My project includes some test code for the ESLint rules and writing.
+> **[0:00](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/flagging-issues-in-functions?u=76281980&t=0)** - [Instructor] My project includes some test code for the [[ESLint]] rules and writing.
 >
 > **[0:04](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/flagging-issues-in-functions?u=76281980&t=4)** In the files for this course I'm in the Error Checking folder and within that the Source folder contains index.js.
 >
@@ -446,12 +440,11 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying problems in loops and conditionals
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/identifying-problems-in-loops-and-conditionals?u=76281980)
+#### [Identifying problems in loops and conditionals](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/identifying-problems-in-loops-and-conditionals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/identifying-problems-in-loops-and-conditionals?u=76281980&t=0)** - [Instructor] The loops and conditionals section of index.js, starting on line 15, contains a couple of issues I want ESLint to flag.
+> **[0:00](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/identifying-problems-in-loops-and-conditionals?u=76281980&t=0)** - [Instructor] The loops and conditionals section of index.js, starting on line 15, contains a couple of issues I want [[ESLint]] to flag.
 >
 > **[0:07](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/identifying-problems-in-loops-and-conditionals?u=76281980&t=7)** There's a for loop starting on line 19.
 >
@@ -477,7 +470,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/identifying-problems-in-loops-and-conditionals?u=76281980&t=85)** And, immediately the error's gone, I'll save that, my loop is no longer infinite, and I fixed the logic error in my code and that is thanks to ESLint for actually flagging that logic issue.
 >
-> **[1:37](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/identifying-problems-in-loops-and-conditionals?u=76281980&t=97)** Now starting on line 23, I have some if else control flow code, which checks a number of conditions.
+> **[1:37](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/identifying-problems-in-loops-and-conditionals?u=76281980&t=97)** Now starting on line 23, I have some if else [[Control Flow]] code, which checks a number of conditions.
 >
 > **[1:44](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/identifying-problems-in-loops-and-conditionals?u=76281980&t=104)** The editor doesn't find any issues with my syntax, but I want to get ESLint to verify that I haven't duplicated any conditions.
 >
@@ -509,21 +502,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (9), [[Control Flow]] (1), next (1)
+> **Frameworks & Libraries:** [[ESLint]] (9), [[Control Flow]] (1)
 > **File Paths:** index.js (3)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (1), later in (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Eliminating unfinished code
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/eliminating-unfinished-code?u=76281980)
+#### [Eliminating unfinished code](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/eliminating-unfinished-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/eliminating-unfinished-code?u=76281980&t=0)** - [Instructor] In my index.js file starting on line 40, I have some test code that's not quite ready for deployment.
 >
-> **[0:07](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/eliminating-unfinished-code?u=76281980&t=7)** And I can set up a few ESLint rules to call out some common issues that I see in this code.
+> **[0:07](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/eliminating-unfinished-code?u=76281980&t=7)** And I can set up a few [[ESLint]] rules to call out some common issues that I see in this code.
 >
 > **[0:12](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/eliminating-unfinished-code?u=76281980&t=12)** I have an if else construction starting on line 41, and I can see on lines 43 and 44 that I have an else if clause with an empty block.
 >
@@ -539,7 +531,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/eliminating-unfinished-code?u=76281980&t=56)** If I move my pointer over that, that tip mentions that this is an empty block statement.
 >
-> **[1:01](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/eliminating-unfinished-code?u=76281980&t=61)** So for now, I'm just going to comment out 43, that is the empty block, and leave that else as the fallback for the rest of the if else construction.
+> **[1:01](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/eliminating-unfinished-code?u=76281980&t=61)** So for now, I'm just going to comment out 43, that is the empty block, and leave that else as the fallback for the [[Representational State Transfer (REST)|rest]] of the if else construction.
 >
 > **[1:13](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/eliminating-unfinished-code?u=76281980&t=73)** And now I've taken care of that error.
 >
@@ -591,7 +583,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/eliminating-unfinished-code?u=76281980&t=215)** So I have an allow and the value for that is array, and the value's going to be error.
 >
-> **[3:44](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/eliminating-unfinished-code?u=76281980&t=224)** And so here, just notice that the word error within the array is specifying console.error as an allowable method.
+> **[3:44](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/eliminating-unfinished-code?u=76281980&t=224)** And so here, just notice that the [[Microsoft Word|word]] error within the array is specifying console.error as an allowable method.
 >
 > **[3:55](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/eliminating-unfinished-code?u=76281980&t=235)** Whereas the error string up here is saying when there's a problem with console statements I want to throw an error rather than throwing a warning.
 >
@@ -611,7 +603,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (3), [[Debugging]] (2), [[Microsoft Word|Word]] (2), generic (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[ESLint]] (3), [[Microsoft Word|Word]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **File Paths:** index.js (5)
 > **Prerequisites:** set up (1), configure (1)
 > **CLI Commands:** make (1)
@@ -620,12 +612,11 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ensuring accurate values
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/ensuring-accurate-values?u=76281980)
+#### [Ensuring accurate values](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/ensuring-accurate-values?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/ensuring-accurate-values?u=76281980&t=0)** - [Instructor] The accurate values section of index.js starts on line 54, and it contains code without any syntax errors, but there are a couple indications in this code that I may have made typing errors and I can use ESLint rules to flag these for me.
+> **[0:00](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/ensuring-accurate-values?u=76281980&t=0)** - [Instructor] The accurate values section of index.js starts on line 54, and it contains code without any syntax errors, but there are a couple indications in this code that I may have made typing errors and I can use [[ESLint]] rules to flag these for me.
 >
 > **[0:14](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/ensuring-accurate-values?u=76281980&t=14)** The scores array on line 54 includes an empty element.
 >
@@ -699,14 +690,13 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calling out general logic errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/calling-out-general-logic-errors?u=76281980)
+#### [Calling out general logic errors](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/calling-out-general-logic-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/calling-out-general-logic-errors?u=76281980&t=0)** - [Instructor] My index.js file contains a few test statements starting on line 63 that test for errors in logical tests.
 >
-> **[0:07](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/calling-out-general-logic-errors?u=76281980&t=7)** ESLint supports a number of rules for a range of potential logic issues, but I want to use a few specific ones.
+> **[0:07](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/calling-out-general-logic-errors?u=76281980&t=7)** [[ESLint]] supports a number of rules for a range of potential logic issues, but I want to use a few specific ones.
 >
 > **[0:14](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/calling-out-general-logic-errors?u=76281980&t=14)** Line 63 contains a subtle error in the condition that I still find myself making on occasion.
 >
@@ -728,7 +718,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/calling-out-general-logic-errors?u=76281980&t=86)** Another logical instruction that often indicates an error is setting a constant condition, like here in line 68 where my condition is simply false.
 >
-> **[1:36](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/calling-out-general-logic-errors?u=76281980&t=96)** This can be useful during development to test the code within a control flow block, but it's not useful in deployed code.
+> **[1:36](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/calling-out-general-logic-errors?u=76281980&t=96)** This can be useful during development to test the code within a [[Control Flow]] block, but it's not useful in deployed code.
 >
 > **[1:44](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/calling-out-general-logic-errors?u=76281980&t=104)** ESLint can flag this with the no-constant-condition rule.
 >
@@ -782,25 +772,24 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/calling-out-general-logic-errors?u=76281980&t=252)** The trick there is the use parentheses to clarify exactly what you want to negate.
 >
-> **[4:19](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/calling-out-general-logic-errors?u=76281980&t=259)** A lot of these rules are on by default in the recommended configuration because they provide a great baseline to help you tighten up most JavaScript code.
+> **[4:19](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/calling-out-general-logic-errors?u=76281980&t=259)** A lot of these rules are on by default in the recommended configuration because they provide a great baseline to help you tighten up most [[JavaScript]] code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (6), [[Control Flow]] (2), data (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[ESLint]] (6), [[Control Flow]] (2), [[JavaScript]] (1)
 > **File Paths:** index.js (4)
 > **CLI Commands:** find (1)
 > **Documentation:** the documentation (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/challenge?u=76281980)
+#### [Challenge](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/challenge?u=76281980&t=0)** (playful music)
 >
-> **[0:05](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/challenge?u=76281980&t=5)** - [Instructor] Ready to try your hand at configuring ESLint error checking features?
+> **[0:05](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/challenge?u=76281980&t=5)** - [Instructor] Ready to try your hand at configuring [[ESLint]] error checking features?
 >
 > **[0:09](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/challenge?u=76281980&t=9)** It's time for a challenge.
 >
@@ -810,7 +799,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/challenge?u=76281980&t=21)** The index.js file in the source folder contains test code with a few comments.
 >
-> **[0:26](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/challenge?u=76281980&t=26)** Each comment describes how ESLint should react to the line of code that follows.
+> **[0:26](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/challenge?u=76281980&t=26)** Each comment describes how ESLint should [[React.js|react]] to the line of code that follows.
 >
 > **[0:31](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/challenge?u=76281980&t=31)** Your task is to edit the eslintrc file so the five error types in the comments are flagged.
 >
@@ -826,14 +815,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (3), [[React.js|React]] (1), next (1)
+> **Frameworks & Libraries:** [[ESLint]] (3), [[React.js|React]] (1)
 > **File Paths:** index.js (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (playful music) (1)
 
-#### Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/solution?u=76281980)
+#### [Solution](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -865,9 +853,9 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/solution?u=76281980&t=75)** So next up, flag invalid typeof comparison string.
 >
-> **[1:19](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/solution?u=76281980&t=79)** And so right here, if we look hard we can see that this is objct, it's missing an E to spell the word object.
+> **[1:19](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/solution?u=76281980&t=79)** And so right here, if we look hard we can see that this is objct, it's missing an E to spell the [[Microsoft Word|word]] object.
 >
-> **[1:27](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/solution?u=76281980&t=87)** So we're doing a typeof comparison against a string that doesn't match any commonly used data type in JavaScript.
+> **[1:27](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/solution?u=76281980&t=87)** So we're doing a typeof comparison against a string that doesn't match any commonly used data type in [[JavaScript]].
 >
 > **[1:33](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/solution?u=76281980&t=93)** So, back in eslintrc, for this one I want to be using the valid typeof, so that's valid-typeof.
 >
@@ -899,7 +887,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/solution?u=76281980&t=209)** So, the error here is no-console, and the value is going to be an array.
 >
-> **[3:37](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/solution?u=76281980&t=217)** So this is all documented as everything else in that [eslint.org](https://eslint.org) man page for this particular rule.
+> **[3:37](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/solution?u=76281980&t=217)** So this is all documented as everything else in that [[[ESLint]].org](https://eslint.org) man page for this particular rule.
 >
 > **[3:45](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/solution?u=76281980&t=225)** And so first we say, a string, we give a string for the type of issue that we want raised when this problem occurs, and we want it to raise an error.
 >
@@ -925,7 +913,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/solution?u=76281980&t=305)** So I've got a rule in place and my code is fixed to comply with that rule.
 >
-> **[5:09](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/solution?u=76281980&t=309)** So, one more left then, flag empty block in control flow structure.
+> **[5:09](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/solution?u=76281980&t=309)** So, one more left then, flag empty block in [[Control Flow]] structure.
 >
 > **[5:14](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/solution?u=76281980&t=314)** So, I have an else statement here that's orphaned, there's nothing in that else statement, but it's also not being flagged.
 >
@@ -951,7 +939,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[ESLint]] (2), [[Microsoft Word|Word]] (1), data (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[ESLint]] (2), [[Microsoft Word|Word]] (1), [[JavaScript]] (1), [[Control Flow]] (1)
 > **File Paths:** index.js (6)
 > **Exercise Files:** template (6)
 > **CLI Commands:** make (3)
@@ -965,20 +953,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/next-steps?u=76281980&t=0)** - [Sasha] Thanks so much for joining me in this course.
 >
-> **[0:03](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/next-steps?u=76281980&t=3)** You now have experience setting up and configuring ESLint rules that flag possible errors.
+> **[0:03](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/next-steps?u=76281980&t=3)** You now have experience setting up and configuring [[ESLint]] rules that flag possible errors.
 >
 > **[0:08](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/next-steps?u=76281980&t=8)** To dig deeper into incorporating ESLint into a tool chain, check out a course on Integrating ESLint.
 >
 > **[0:14](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/next-steps?u=76281980&t=14)** If you want to understand more about ESLint syntax, check out a course on Customizing ESLint styles.
 >
-> **[0:20](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/next-steps?u=76281980&t=20)** If you want to learn more about the reasons behind common coding styles, check out a course on JavaScript best practices.
+> **[0:20](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/next-steps?u=76281980&t=20)** If you want to learn more about the reasons behind common coding styles, check out a course on [[JavaScript]] best practices.
 >
 > **[0:27](https://www.linkedin.com/learning/eslint-checking-for-syntax-and-logic-errors/next-steps?u=76281980&t=27)** Feel free to follow me online.
 >

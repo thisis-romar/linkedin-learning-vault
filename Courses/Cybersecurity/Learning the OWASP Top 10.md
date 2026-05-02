@@ -77,18 +77,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A first look at the 2021 OWASP Top Ten
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/a-first-look-at-the-2021-owasp-top-ten-23316459?u=76281980)
+#### [A first look at the 2021 OWASP Top Ten](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/a-first-look-at-the-2021-owasp-top-ten-23316459?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/a-first-look-at-the-2021-owasp-top-ten-23316459?u=76281980&t=0)** - Every day we see news reports of major companies getting breached.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/a-first-look-at-the-2021-owasp-top-ten-23316459?u=76281980&t=5)** When it comes to cybersecurity, it can feel overwhelming to know where to focus.
+> **[0:05](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/a-first-look-at-the-2021-owasp-top-ten-23316459?u=76281980&t=5)** When it comes to [[Cybersecurity]], it can feel overwhelming to know where to focus.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/a-first-look-at-the-2021-owasp-top-ten-23316459?u=76281980&t=10)** Fortunately, OWASP narrows it down for us.
+> **[0:10](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/a-first-look-at-the-2021-owasp-top-ten-23316459?u=76281980&t=10)** Fortunately, [[OWASP]] narrows it down for us.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/a-first-look-at-the-2021-owasp-top-ten-23316459?u=76281980&t=14)** OWASP stands for Open Web Application Security Project.
+> **[0:14](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/a-first-look-at-the-2021-owasp-top-ten-23316459?u=76281980&t=14)** OWASP stands for Open [[Web Application Security]] Project.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/a-first-look-at-the-2021-owasp-top-ten-23316459?u=76281980&t=18)** For decades, this group has been providing resources to educate and inform technology professionals about security best practices.
 >
@@ -100,11 +99,11 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/a-first-look-at-the-2021-owasp-top-ten-23316459?u=76281980&t=47)** I've been working in cybersecurity for nearly two decades.
 >
-> **[0:51](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/a-first-look-at-the-2021-owasp-top-ten-23316459?u=76281980&t=51)** I am so excited to share this LinkedIn learning course so let's dive in.
+> **[0:51](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/a-first-look-at-the-2021-owasp-top-ten-23316459?u=76281980&t=51)** I am so excited to share this [[LinkedIn]] learning course so let's dive in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (3), [[Cybersecurity]] (2), [[Security]] (2), web application (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (3), [[Cybersecurity]] (2), [[Web Application Security]] (1), [[LinkedIn]] (1)
 > **Env Vars:** owasp (3)
 > **Definitions:** stands for (1)
 > **Speakers:** - every (1)
@@ -114,12 +113,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Broken access control
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/broken-access-control?u=76281980)
+#### [Broken access control](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/broken-access-control?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/broken-access-control?u=76281980&t=0)** - [Instructor] The first item in the 2021 OWASP Top 10 is Broken Access Control.
+> **[0:00](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/broken-access-control?u=76281980&t=0)** - [Instructor] The first item in the 2021 [[OWASP]] Top 10 is Broken Access Control.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/broken-access-control?u=76281980&t=6)** OWASP says this exposure occurs when confidential information is viewed by a user who should not have permission to access that data.
 >
@@ -155,7 +153,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/broken-access-control?u=76281980&t=109)** If someone else goes to my profile and can see all the photos, my kids and pets, that's Broken Access Control.
 >
-> **[1:57](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/broken-access-control?u=76281980&t=117)** It's also kind of like if someone in the human resources department prints out a document that has all the employee performance evaluations and forgets to pick up the paper from the printer, leaving it out in plain view for anyone who walks by to see that confidential information.
+> **[1:57](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/broken-access-control?u=76281980&t=117)** It's also kind of like if someone in the [[Human Resources (HR)|human resources]] department prints out a document that has all the employee performance evaluations and forgets to pick up the paper from the printer, leaving it out in plain view for anyone who walks by to see that confidential information.
 >
 > **[2:15](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/broken-access-control?u=76281980&t=135)** The key takeaway here is to make sure that you're not unintentionally leaving private data around for just anyone to stumble upon physically or on the web.
 >
@@ -167,7 +165,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/broken-access-control?u=76281980&t=175)** Imagine if that same human resources person from scenario one tries to send all employee performance evaluations, to someone else in the human resources department in an email, but accidentally types the wrong email address into the to field and it unintentionally gets sent to everyone in the company instead.
 >
-> **[3:17](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/broken-access-control?u=76281980&t=197)** Another example to consider might be if you're at the doctor's office and you finished your appointment, you're just waiting for the nurse to bring you a printed summary of your diagnosis and treatment.
+> **[3:17](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/broken-access-control?u=76281980&t=197)** Another example to consider might be if you're at the doctor's [[Microsoft Office|office]] and you finished your appointment, you're just waiting for the nurse to bring you a printed summary of your diagnosis and treatment.
 >
 > **[3:28](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/broken-access-control?u=76281980&t=208)** The nurse comes in, and hands you the paperwork, you look at it and it's actually not yours, it's someone else's, the nurse made a mistake, and now you have access to someone else's medical data.
 >
@@ -185,21 +183,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), web (4), [[OWASP]] (3), [[Human Resources (HR)|Human resources]] (3), web application (1)
+> **Frameworks & Libraries:** [[OWASP]] (3), [[Human Resources (HR)|Human resources]] (3), [[Microsoft Office|Office]] (1)
 > **Env Vars:** owasp (3)
 > **Analogies:** kind of like (1), similar to (1), imagine (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cryptographic failures
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/cryptographic-failures?u=76281980)
+#### [Cryptographic failures](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/cryptographic-failures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/cryptographic-failures?u=76281980&t=1)** - [Instructor] The second item in the 2021 OWASP Top 10 is cryptographic failure.
+> **[0:01](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/cryptographic-failures?u=76281980&t=1)** - [Instructor] The second item in the 2021 [[OWASP]] Top 10 is cryptographic failure.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/cryptographic-failures?u=76281980&t=7)** OWASP says, the first thing is to determine the protection needs of data in transit and at rest.
+> **[0:07](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/cryptographic-failures?u=76281980&t=7)** OWASP says, the first thing is to determine the protection needs of data in transit and at [[Representational State Transfer (REST)|rest]].
 >
 > **[0:14](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/cryptographic-failures?u=76281980&t=14)** Passwords, credit card numbers, health records, personal information, and business secrets require extra protection.
 >
@@ -221,7 +218,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/cryptographic-failures?u=76281980&t=78)** And so I make sure that when they're riding in the car, they sit in protective car seats.
 >
-> **[1:24](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/cryptographic-failures?u=76281980&t=84)** I value my online banking password, and I expect that the web app that allows me to bank online is encrypting my password.
+> **[1:24](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/cryptographic-failures?u=76281980&t=84)** I value my online [[Banking]] password, and I expect that the web app that allows me to bank online is encrypting my password.
 >
 > **[1:34](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/cryptographic-failures?u=76281980&t=94)** Once the decision has been made to protect something of value, steps, need to be taken, to implement the additional protection.
 >
@@ -233,7 +230,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/cryptographic-failures?u=76281980&t=123)** Secondly, if you are storing sensitive data, encrypt it both at rest and in transit.
 >
-> **[2:10](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/cryptographic-failures?u=76281980&t=130)** Third, if you are encrypting data, use known strong cryptographic algorithms.
+> **[2:10](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/cryptographic-failures?u=76281980&t=130)** Third, if you are encrypting data, use known strong cryptographic [[Algorithms]].
 >
 > **[2:16](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/cryptographic-failures?u=76281980&t=136)** For example, MD5 is a weak algorithm and should not be used, while AES is a strong algorithm, which should be used.
 >
@@ -247,19 +244,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), web (5), [[OWASP]] (4), [[Representational State Transfer (REST)|Rest]] (2), business (1)
+> **Frameworks & Libraries:** [[OWASP]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[Banking]] (1), [[Algorithms]] (1)
 > **Env Vars:** owasp (4), md5 (1), aes (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/injection?u=76281980)
+#### [Injection](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/injection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/injection?u=76281980&t=1)** - [Instructor] The third item in the 2021 OWASP Top 10 is injection.
+> **[0:01](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/injection?u=76281980&t=1)** - [Instructor] The third item in the 2021 [[OWASP]] Top 10 is injection.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/injection?u=76281980&t=6)** Here's a thing about computer science, code can either represent data or be an instruction.
 >
@@ -275,7 +271,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/injection?u=76281980&t=50)** Sit, come here, Sit.
 >
-> **[0:54](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/injection?u=76281980&t=54)** Is a dog supposed to respond to the word sit as though it's its name, or is it supposed to respond to the word sit as though it's an instruction for what to do?
+> **[0:54](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/injection?u=76281980&t=54)** Is a dog supposed to respond to the [[Microsoft Word|word]] sit as though it's its name, or is it supposed to respond to the word sit as though it's an instruction for what to do?
 >
 > **[1:04](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/injection?u=76281980&t=64)** Injection vulnerabilities occur in web applications when there's an opportunity for a user to provide some input and the application handles it incorrectly.
 >
@@ -291,7 +287,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/injection?u=76281980&t=127)** Going back to the rescue dog analogy.
 >
-> **[2:10](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/injection?u=76281980&t=130)** One way that the folks at the animal rescue might prevent confusing names that sound like commands is checking the name against a list that includes words like sit, come and fetch.
+> **[2:10](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/injection?u=76281980&t=130)** One way that the folks at the animal rescue might prevent confusing names that sound like commands is checking the name against a list that includes words like sit, come and [[Fetch]].
 >
 > **[2:23](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/injection?u=76281980&t=143)** This could go a long way to preventing a situation where a dog might be named Sit and interpret its name as an instruction.
 >
@@ -301,9 +297,9 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/injection?u=76281980&t=186)** And maybe it displays a user error instead of further interpreting that data.
 >
-> **[3:12](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/injection?u=76281980&t=192)** Injection attacks can also be used against web apps that connect to backend databases in order to carry out instructions that violate the confidentiality, integrity or availability of the information in those databases.
+> **[3:12](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/injection?u=76281980&t=192)** Injection attacks can also be used against web apps that connect to backend [[Databases]] in order to carry out instructions that violate the confidentiality, integrity or availability of the information in those databases.
 >
-> **[3:28](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/injection?u=76281980&t=208)** These databases are frequently coded in a language called SQL and a malicious attacker launching a SQL injection attack is attempting to create, read, update, or delete something that they're not supposed to in a backend SQL database.
+> **[3:28](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/injection?u=76281980&t=208)** These databases are frequently coded in a language called [[SQL]] and a malicious attacker launching a SQL injection attack is attempting to create, read, update, or delete something that they're not supposed to in a backend SQL database.
 >
 > **[3:43](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/injection?u=76281980&t=223)** They take advantage of a user input field that doesn't check to make sure that user input is appropriate and trick the software application into following their instructions.
 >
@@ -313,18 +309,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (9), data (8), application (8), [[Databases]] (3), [[SQL]] (3)
+> **Frameworks & Libraries:** [[Databases]] (3), [[SQL]] (3), [[OWASP]] (2), [[Microsoft Word|Word]] (2), [[Fetch]] (1)
 > **Env Vars:** sql (3), owasp (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Insecure design
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/insecure-design?u=76281980)
+#### [Insecure design](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/insecure-design?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/insecure-design?u=76281980&t=0)** - [Instructor] The fourth item in the 2021 OWASP Top 10 is a new one, insecure design.
+> **[0:00](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/insecure-design?u=76281980&t=0)** - [Instructor] The fourth item in the 2021 [[OWASP]] Top 10 is a new one, insecure design.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/insecure-design?u=76281980&t=8)** OWASP calls it a new category focusing on risks related to design and architectural flaws.
 >
@@ -372,25 +367,24 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/insecure-design?u=76281980&t=157)** The bottom line is that security matters not only when code is being developed and in production, but in the design phase as well.
 >
-> **[2:45](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/insecure-design?u=76281980&t=165)** Teams that work together to build web applications should consult with security experts to ensure that appropriate requirements and design decisions are being made early in the software development lifecycle.
+> **[2:45](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/insecure-design?u=76281980&t=165)** Teams that work together to build web applications should consult with security experts to ensure that appropriate requirements and design decisions are being made early in the [[Software Development]] lifecycle.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (4), web (3), web application (3), [[Security]] (2), application (1)
+> **Frameworks & Libraries:** [[OWASP]] (4), [[Software Development]] (1)
 > **Env Vars:** owasp (4)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** similar to (1), imagine (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security misconfiguration
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/security-misconfiguration-24396269?u=76281980)
+#### [Security misconfiguration](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/security-misconfiguration-24396269?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/security-misconfiguration-24396269?u=76281980&t=1)** - [Instructor] The fifth item in the 2021 OWASP top 10 is security misconfiguration.
+> **[0:01](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/security-misconfiguration-24396269?u=76281980&t=1)** - [Instructor] The fifth item in the 2021 [[OWASP]] top 10 is security misconfiguration.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/security-misconfiguration-24396269?u=76281980&t=7)** OWASP says the application might be vulnerable if it is without a concerted, repeatable application security configuration process.
+> **[0:07](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/security-misconfiguration-24396269?u=76281980&t=7)** OWASP says the application might be vulnerable if it is without a concerted, repeatable [[Application Security]] configuration process.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/security-misconfiguration-24396269?u=76281980&t=16)** You can think of security misconfiguration as having a default setup that is not very secure.
 >
@@ -404,7 +398,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/security-misconfiguration-24396269?u=76281980&t=63)** A digital security misconfiguration would be if you chose not to use a passcode on your mobile device.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/security-misconfiguration-24396269?u=76281980&t=71)** In the case of web applications, examples of security misconfiguration include failing to change default passwords, enabling unnecessary services or features, insecurely configuring cloud services permissions, and failing to update software.
+> **[1:11](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/security-misconfiguration-24396269?u=76281980&t=71)** In the case of web applications, examples of security misconfiguration include failing to change default passwords, enabling unnecessary services or features, insecurely configuring [[Cloud Services]] permissions, and failing to update software.
 >
 > **[1:29](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/security-misconfiguration-24396269?u=76281980&t=89)** Security misconfigurations include both a failure to change default passwords, as well as a failure to use strong passwords, especially for critical systems like update servers.
 >
@@ -414,7 +408,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/security-misconfiguration-24396269?u=76281980&t=130)** I've worked directly with technology teams to harden systems according to the industry's standard guidelines for securely configuring software, the Center for Internet Security, or CIS, Benchmarks.
 >
-> **[2:24](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/security-misconfiguration-24396269?u=76281980&t=144)** Today, the CIS Benchmarks include a group of more than 100 configuration guidelines across dozens of technologies in use today, from AWS to Zoom.
+> **[2:24](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/security-misconfiguration-24396269?u=76281980&t=144)** Today, the CIS Benchmarks include a group of more than 100 configuration guidelines across dozens of technologies in use today, from AWS to [[Zoom]].
 >
 > **[2:36](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/security-misconfiguration-24396269?u=76281980&t=156)** From a security perspective, it would be ideal to always comply perfectly with these hardening standards.
 >
@@ -424,19 +418,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), [[OWASP]] (2), application (2), teams (2), web (1)
+> **Frameworks & Libraries:** [[OWASP]] (2), [[Application Security]] (1), [[Cloud Services]] (1), [[Zoom]] (1)
 > **Env Vars:** owasp (2), cis (2), aws (1)
 > **CLI Commands:** aws (1), make (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Vulnerable and outdated components
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/vulnerable-and-outdated-components?u=76281980)
+#### [Vulnerable and outdated components](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/vulnerable-and-outdated-components?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/vulnerable-and-outdated-components?u=76281980&t=1)** - [Instructor] The sixth item in the 2021 OWASP Top 10 is vulnerable and outdated components.
+> **[0:01](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/vulnerable-and-outdated-components?u=76281980&t=1)** - [Instructor] The sixth item in the 2021 [[OWASP]] Top 10 is vulnerable and outdated components.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/vulnerable-and-outdated-components?u=76281980&t=7)** OWASP says, "You're likely vulnerable: if you don't know all the versions of all the components you use, and if the software is vulnerable, unsupported, or out of date."
 >
@@ -486,19 +479,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (3), web (3), [[Security]] (2), web application (1), teams (1)
+> **Frameworks & Libraries:** [[OWASP]] (3)
 > **Env Vars:** owasp (3)
 > **CLI Commands:** apache (1)
 > **Best Practices:** you should always (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identification and authentication failures
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/identification-and-authentication-failures?u=76281980)
+#### [Identification and authentication failures](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/identification-and-authentication-failures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/identification-and-authentication-failures?u=76281980&t=1)** - [Instructor] The seventh item in the 2021 OWASP Top 10 is identification and authentication failures.
+> **[0:01](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/identification-and-authentication-failures?u=76281980&t=1)** - [Instructor] The seventh item in the 2021 [[OWASP]] Top 10 is identification and authentication failures.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/identification-and-authentication-failures?u=76281980&t=8)** OWASP says confirmation of the user's identity, authentication, and session management is critical to protect against authentication-related attacks.
 >
@@ -554,17 +546,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[OWASP]] (3), management (1), web application (1), application (1)
+> **Frameworks & Libraries:** [[OWASP]] (3)
 > **Env Vars:** owasp (3), sms (1)
 > **Analogies:** imagine (1), kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Software and data integrity failures
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/software-and-data-integrity-failures?u=76281980)
+#### [Software and data integrity failures](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/software-and-data-integrity-failures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/software-and-data-integrity-failures?u=76281980&t=1)** - [Instructor] The eighth item in the 2021 OWASP top 10 is software and data integrity failures.
+> **[0:01](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/software-and-data-integrity-failures?u=76281980&t=1)** - [Instructor] The eighth item in the 2021 [[OWASP]] top 10 is software and [[Data Integrity]] failures.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/software-and-data-integrity-failures?u=76281980&t=7)** OWSP says, "An insecure CI/CD pipeline can introduce the potential for system compromise.
 >
@@ -572,7 +563,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/software-and-data-integrity-failures?u=76281980&t=22)** The eighth item is actually a subset of the sixth, specifically, vulnerabilities that happen as a result of an insecure CI/CD pipeline.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/software-and-data-integrity-failures?u=76281980&t=32)** Modern software development processes like Agile, DevOps and CI/CD have changed the way that web applications are built.
+> **[0:32](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/software-and-data-integrity-failures?u=76281980&t=32)** Modern [[Software Development]] processes like [[Agile Development|Agile]], [[DevOps]] and CI/CD have changed the way that web applications are built.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/software-and-data-integrity-failures?u=76281980&t=40)** These processes are optimized for rapid iterative development, and naturally include a lot of automation.
 >
@@ -616,19 +607,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), ci (3), cd (3), [[Software Development]] (3), product (3)
+> **Frameworks & Libraries:** [[Software Development]] (3), [[OWASP]] (2), [[Data Integrity]] (2), [[Agile Development|Agile]] (1), [[DevOps]] (1)
 > **CLI Commands:** cd (3)
 > **Env Vars:** owasp (2), owsp (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security logging and monitoring failures
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/security-logging-and-monitoring-failures?u=76281980)
+#### [Security logging and monitoring failures](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/security-logging-and-monitoring-failures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/security-logging-and-monitoring-failures?u=76281980&t=1)** - [Instructor] The ninth item in the 2021 OWASP top 10 is security logging and monitoring failures.
+> **[0:01](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/security-logging-and-monitoring-failures?u=76281980&t=1)** - [Instructor] The ninth item in the 2021 [[OWASP]] top 10 is security logging and monitoring failures.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/security-logging-and-monitoring-failures?u=76281980&t=7)** OWASP says, "Without logging and monitoring, breaches cannot be detected."
 >
@@ -668,7 +658,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/security-logging-and-monitoring-failures?u=76281980&t=114)** At each step of the attack, logging and monitoring gives us an opportunity to stop the attacker in their tracks.
 >
-> **[2:02](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/security-logging-and-monitoring-failures?u=76281980&t=122)** The UK National Cybersecurity Center in their Introduction to Logging for Security Purposes Guide has a useful table of questions that helps security practitioners design their logging and monitoring setups.
+> **[2:02](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/security-logging-and-monitoring-failures?u=76281980&t=122)** The UK National [[Cybersecurity]] Center in their Introduction to Logging for Security Purposes Guide has a useful table of questions that helps security practitioners design their logging and monitoring setups.
 >
 > **[2:15](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/security-logging-and-monitoring-failures?u=76281980&t=135)** And some questions include: Who has viewed or downloaded a specific file?
 >
@@ -690,27 +680,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), [[OWASP]] (3), data (2), career (1), next (1)
+> **Frameworks & Libraries:** [[OWASP]] (3), [[Cybersecurity]] (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** owasp (3)
 > **UI Navigation:** open the (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Server-side request forgery (SSRF)
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/server-side-request-forgery-ssrf?u=76281980)
+#### [Server-side request forgery (SSRF)](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/server-side-request-forgery-ssrf?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/server-side-request-forgery-ssrf?u=76281980&t=1)** - [Instructor] The 10th and final item in the 2021 OWASP Top 10 is Server Side Request Forgery, also known as SSRF.
+> **[0:01](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/server-side-request-forgery-ssrf?u=76281980&t=1)** - [Instructor] The 10th and final item in the 2021 [[OWASP]] Top 10 is Server Side Request Forgery, also known as SSRF.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/server-side-request-forgery-ssrf?u=76281980&t=11)** OWASP says, "SSRF flaws allow an attacker to coerce the application, to send a crafted request to an unexpected destination."
 >
 > **[0:21](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/server-side-request-forgery-ssrf?u=76281980&t=21)** When SSRF is present in a web application, the attackers can send requests while pretending to be the victim server.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/server-side-request-forgery-ssrf?u=76281980&t=29)** Because the server is a trusted entity, these requests may result in access to sensitive, and administrative functions like internal API calls and database queries.
+> **[0:29](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/server-side-request-forgery-ssrf?u=76281980&t=29)** Because the server is a trusted entity, these requests may result in access to sensitive, and administrative functions like internal API calls and [[Database Queries]].
 >
-> **[0:42](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/server-side-request-forgery-ssrf?u=76281980&t=42)** SSRF can occur when servers send requests to fetch external resources, this is a normal behavior.
+> **[0:42](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/server-side-request-forgery-ssrf?u=76281980&t=42)** SSRF can occur when servers send requests to [[Fetch]] external resources, this is a normal behavior.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/server-side-request-forgery-ssrf?u=76281980&t=50)** For example, when a web app needs to display a graphic that is stored somewhere else.
 >
@@ -726,7 +715,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (3), web (2), application (1), web application (1), api (1)
+> **Frameworks & Libraries:** [[OWASP]] (3), [[Database Queries]] (1), [[Fetch]] (1)
 > **Env Vars:** ssrf (6), owasp (3), api (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** make (1)
@@ -738,12 +727,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to go from here with the 2021 OWASP Top Ten
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/where-to-go-from-here-with-the-2021-owasp-top-ten?u=76281980)
+#### [Where to go from here with the 2021 OWASP Top Ten](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/where-to-go-from-here-with-the-2021-owasp-top-ten?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/where-to-go-from-here-with-the-2021-owasp-top-ten?u=76281980&t=1)** - [Instructor] And that's the OWASP top 10.
+> **[0:01](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/where-to-go-from-here-with-the-2021-owasp-top-ten?u=76281980&t=1)** - [Instructor] And that's the [[OWASP]] top 10.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-the-owasp-top-10-9364599/where-to-go-from-here-with-the-2021-owasp-top-ten?u=76281980&t=4)** Now that we've gone through all 10 items, I want to remind you that while they are presented in order, the practical reality is that all of these issues are extremely pervasive.
 >
@@ -763,7 +751,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), web (3), [[OWASP]] (1), product (1)
+> **Frameworks & Libraries:** [[OWASP]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** owasp (1)
 > **Speakers:** - [instructor] (1)

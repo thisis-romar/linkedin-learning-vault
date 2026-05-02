@@ -91,24 +91,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advancing your career with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/advancing-your-career-with-python?u=76281980)
+#### [Advancing your career with Python](https://www.linkedin.com/learning/python-quick-start-22667553/advancing-your-career-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-quick-start-22667553/advancing-your-career-with-python?u=76281980&t=0)** There is no better time to learn programming and no better time to learn Python.
+> **[0:00](https://www.linkedin.com/learning/python-quick-start-22667553/advancing-your-career-with-python?u=76281980&t=0)** There is no better time to learn programming and no better time to learn [[Python (Programming Language)|Python]].
 >
 > **[0:04](https://www.linkedin.com/learning/python-quick-start-22667553/advancing-your-career-with-python?u=76281980&t=4)** Python is a powerful programming language and continues to grow in popularity, and when you take time to learn Python, you're opening doors that can help advance your career.
 >
 > **[0:14](https://www.linkedin.com/learning/python-quick-start-22667553/advancing-your-career-with-python?u=76281980&t=14)** My name is Lavanya Vijayan.
 >
-> **[0:16](https://www.linkedin.com/learning/python-quick-start-22667553/advancing-your-career-with-python?u=76281980&t=16)** I'm a programming and data science instructor and an advocate for Stem education.
+> **[0:16](https://www.linkedin.com/learning/python-quick-start-22667553/advancing-your-career-with-python?u=76281980&t=16)** I'm a programming and [[Data Science]] instructor and an advocate for Stem education.
 >
 > **[0:21](https://www.linkedin.com/learning/python-quick-start-22667553/advancing-your-career-with-python?u=76281980&t=21)** In this course, I'll help you get started learning Python.
 >
 > **[0:24](https://www.linkedin.com/learning/python-quick-start-22667553/advancing-your-career-with-python?u=76281980&t=24)** I'll show you how Python stacks up to other programming languages and give you a step-by-step guide for setting up your Python environment.
 >
-> **[0:32](https://www.linkedin.com/learning/python-quick-start-22667553/advancing-your-career-with-python?u=76281980&t=32)** Throughout the course, I'll help you learn data types, variables, functions, conditional statements, sequences, iteration, recursion, and even a quick introduction to object-oriented programming in Python.
+> **[0:32](https://www.linkedin.com/learning/python-quick-start-22667553/advancing-your-career-with-python?u=76281980&t=32)** Throughout the course, I'll help you learn data types, variables, functions, conditional statements, sequences, iteration, recursion, and even a quick introduction to [[Object-Oriented Programming (OOP)|object-oriented programming]] in Python.
 >
 > **[0:46](https://www.linkedin.com/learning/python-quick-start-22667553/advancing-your-career-with-python?u=76281980&t=46)** By the end of this course, you'll feel confident and ready to begin programming.
 >
@@ -116,7 +115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Programming]] (5), data (2), career (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Data Science]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** python (7)
 > **Definitions:** is a  (1)
 
@@ -125,12 +124,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Demystifying Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/demystifying-python?u=76281980)
+#### [Demystifying Python](https://www.linkedin.com/learning/python-quick-start-22667553/demystifying-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-quick-start-22667553/demystifying-python?u=76281980&t=0)** Python is a powerful programming language.
+> **[0:00](https://www.linkedin.com/learning/python-quick-start-22667553/demystifying-python?u=76281980&t=0)** [[Python (Programming Language)|Python]] is a powerful programming language.
 >
 > **[0:02](https://www.linkedin.com/learning/python-quick-start-22667553/demystifying-python?u=76281980&t=2)** It's been around for some time, but in the last ten years, Python has grown to be one of the most popular programming languages around.
 >
@@ -146,24 +144,23 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/python-quick-start-22667553/demystifying-python?u=76281980&t=42)** The popularity of Python has grown.
 >
-> **[0:45](https://www.linkedin.com/learning/python-quick-start-22667553/demystifying-python?u=76281980&t=45)** Many web applications and platforms use Python, including Google Search Engine, YouTube, the Web-oriented transaction system of the New York Stock Exchange, as well as NASA.
+> **[0:45](https://www.linkedin.com/learning/python-quick-start-22667553/demystifying-python?u=76281980&t=45)** Many web applications and platforms use Python, including [[Google]] Search Engine, YouTube, the Web-oriented transaction system of the New York Stock Exchange, as well as NASA.
 >
 > **[0:56](https://www.linkedin.com/learning/python-quick-start-22667553/demystifying-python?u=76281980&t=56)** So as you can see, Python is a powerful tool that has applications in many industries.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Programming]] (2), web (2), data (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Google]] (1)
 > **CLI Commands:** python (11), make (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** nasa (1)
 > **Cross-References:** in the last (1)
 
-#### Starting with Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/starting-with-python?u=76281980)
+#### [Starting with Python](https://www.linkedin.com/learning/python-quick-start-22667553/starting-with-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-quick-start-22667553/starting-with-python?u=76281980&t=0)** One of the best things about Python is that it's easy to learn, and because of that, it's become one of the most top programming languages in universities.
+> **[0:00](https://www.linkedin.com/learning/python-quick-start-22667553/starting-with-python?u=76281980&t=0)** One of the best things about [[Python (Programming Language)|Python]] is that it's easy to learn, and because of that, it's become one of the most top programming languages in universities.
 >
 > **[0:09](https://www.linkedin.com/learning/python-quick-start-22667553/starting-with-python?u=76281980&t=9)** The reason is Python has a simple syntax that makes it especially suitable for people who are learning how to code for the first time.
 >
@@ -179,7 +176,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/python-quick-start-22667553/starting-with-python?u=76281980&t=44)** Python allows you to develop complex software.
 >
-> **[0:47](https://www.linkedin.com/learning/python-quick-start-22667553/starting-with-python?u=76281980&t=47)** For example, many Python developers use Python to accomplish tasks in artificial intelligence as well as natural language processing.
+> **[0:47](https://www.linkedin.com/learning/python-quick-start-22667553/starting-with-python?u=76281980&t=47)** For example, many Python developers use Python to accomplish tasks in [[Artificial Intelligence (AI)|artificial intelligence]] as well as [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[0:55](https://www.linkedin.com/learning/python-quick-start-22667553/starting-with-python?u=76281980&t=55)** And finally, Python makes it easier for you to code and test your code simultaneously through an approach known as test driven development.
 >
@@ -187,17 +184,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (13), [[Programming]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (13), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** python (13)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
 
-#### Comparing Python vs. Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/comparing-python-vs-java?u=76281980)
+#### [Comparing Python vs. Java](https://www.linkedin.com/learning/python-quick-start-22667553/comparing-python-vs-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-quick-start-22667553/comparing-python-vs-java?u=76281980&t=0)** Python and Java are two commonly used programming languages.
+> **[0:00](https://www.linkedin.com/learning/python-quick-start-22667553/comparing-python-vs-java?u=76281980&t=0)** [[Python (Programming Language)|Python]] and [[Java]] are two commonly used programming languages.
 >
 > **[0:04](https://www.linkedin.com/learning/python-quick-start-22667553/comparing-python-vs-java?u=76281980&t=4)** And I want to help point out some key differences between the two.
 >
@@ -221,37 +217,36 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/python-quick-start-22667553/comparing-python-vs-java?u=76281980&t=57)** Then you run your program, which converts the bytecode to platform-dependent machine code so that the computer understands the program.
 >
-> **[1:05](https://www.linkedin.com/learning/python-quick-start-22667553/comparing-python-vs-java?u=76281980&t=65)** Python is currently the most preferred programming language for machine learning and data science.
+> **[1:05](https://www.linkedin.com/learning/python-quick-start-22667553/comparing-python-vs-java?u=76281980&t=65)** Python is currently the most preferred programming language for machine learning and [[Data Science]].
 >
-> **[1:11](https://www.linkedin.com/learning/python-quick-start-22667553/comparing-python-vs-java?u=76281980&t=71)** However, Java is used to build mobile applications for the Android platform.
+> **[1:11](https://www.linkedin.com/learning/python-quick-start-22667553/comparing-python-vs-java?u=76281980&t=71)** However, Java is used to build mobile applications for the [[Android]] platform.
 >
 > **[1:16](https://www.linkedin.com/learning/python-quick-start-22667553/comparing-python-vs-java?u=76281980&t=76)** If you find yourself deciding between using Python and using Java, make sure to compare the two based on the specific needs of the project you're working on, and then choose the language that best suits those needs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Java]] (9), [[Programming]] (4), data (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Java]] (9), [[Data Science]] (1), [[Android]] (1)
 > **CLI Commands:** python (10), find (1), make (1)
 > **Exercise Files:** source code (1)
 > **Best Practices:** make sure to (1)
 
-#### Harnessing the power of Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/harnessing-the-power-of-python?u=76281980)
+#### [Harnessing the power of Python](https://www.linkedin.com/learning/python-quick-start-22667553/harnessing-the-power-of-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-quick-start-22667553/harnessing-the-power-of-python?u=76281980&t=0)** Developing Python skills opens the door to various opportunities.
+> **[0:00](https://www.linkedin.com/learning/python-quick-start-22667553/harnessing-the-power-of-python?u=76281980&t=0)** Developing [[Python (Programming Language)|Python]] skills opens the door to various opportunities.
 >
 > **[0:04](https://www.linkedin.com/learning/python-quick-start-22667553/harnessing-the-power-of-python?u=76281980&t=4)** After watching this video, you'll know what you can achieve with Python.
 >
 > **[0:08](https://www.linkedin.com/learning/python-quick-start-22667553/harnessing-the-power-of-python?u=76281980&t=8)** Python has several powerful applications.
 >
-> **[0:11](https://www.linkedin.com/learning/python-quick-start-22667553/harnessing-the-power-of-python?u=76281980&t=11)** Of course, the major applications of Python are web development and data science.
+> **[0:11](https://www.linkedin.com/learning/python-quick-start-22667553/harnessing-the-power-of-python?u=76281980&t=11)** Of course, the major applications of Python are [[Web Development]] and [[Data Science]].
 >
-> **[0:16](https://www.linkedin.com/learning/python-quick-start-22667553/harnessing-the-power-of-python?u=76281980&t=16)** Now, web frameworks that are based on Python, such as Django and Flask have become quite popular for web development, and these frameworks help you create code that runs on your server.
+> **[0:16](https://www.linkedin.com/learning/python-quick-start-22667553/harnessing-the-power-of-python?u=76281980&t=16)** Now, web frameworks that are based on Python, such as [[Django]] and Flask have become quite popular for web development, and these frameworks help you create code that runs on your server.
 >
 > **[0:27](https://www.linkedin.com/learning/python-quick-start-22667553/harnessing-the-power-of-python?u=76281980&t=27)** Also, Python has libraries that are useful in machine learning.
 >
-> **[0:31](https://www.linkedin.com/learning/python-quick-start-22667553/harnessing-the-power-of-python?u=76281980&t=31)** A couple of Python libraries that are used a lot in machine learning are scikit-learn and TensorFlow.
+> **[0:31](https://www.linkedin.com/learning/python-quick-start-22667553/harnessing-the-power-of-python?u=76281980&t=31)** A couple of Python libraries that are used a lot in machine learning are scikit-learn and [[TensorFlow]].
 >
 > **[0:37](https://www.linkedin.com/learning/python-quick-start-22667553/harnessing-the-power-of-python?u=76281980&t=37)** Python also has the tools to create data visualizations and conduct data analysis.
 >
@@ -261,7 +256,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), data (5), [[Web Development]] (3), web (1), [[Django]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (10), [[Web Development]] (3), [[Data Science]] (2), [[Django]] (1), [[TensorFlow]] (1)
 > **CLI Commands:** python (10)
 > **Analogies:** such as (1)
 
@@ -270,8 +265,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up your Python environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/setting-up-your-python-environment?u=76281980)
+#### [Setting up your Python environment](https://www.linkedin.com/learning/python-quick-start-22667553/setting-up-your-python-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -309,7 +303,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/python-quick-start-22667553/setting-up-your-python-environment?u=76281980&t=105)** This is on the upper right area of your screen.
 >
-> **[1:49](https://www.linkedin.com/learning/python-quick-start-22667553/setting-up-your-python-environment?u=76281980&t=109)** And you want to click on "Python 3."
+> **[1:49](https://www.linkedin.com/learning/python-quick-start-22667553/setting-up-your-python-environment?u=76281980&t=109)** And you want to click on "[[Python (Programming Language)|Python]] 3."
 >
 > **[1:51](https://www.linkedin.com/learning/python-quick-start-22667553/setting-up-your-python-environment?u=76281980&t=111)** This is how we create a new notebook with Python 3.
 >
@@ -345,7 +339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), hit (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5), make (1)
 > **Tools:** jupyter (4), anaconda (1), terminal (1)
 > **Versions:** python 3 (3)
@@ -354,8 +348,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **URLs:** [jupyter.org](https://jupyter.org) (1)
 
-#### Sorting your types of data
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/sorting-your-types-of-data?u=76281980)
+#### [Sorting your types of data](https://www.linkedin.com/learning/python-quick-start-22667553/sorting-your-types-of-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -373,7 +366,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/python-quick-start-22667553/sorting-your-types-of-data?u=76281980&t=30)** Well, you do this by categorizing the data into different types, which helps you stay organized so you can complete your task.
 >
-> **[0:38](https://www.linkedin.com/learning/python-quick-start-22667553/sorting-your-types-of-data?u=76281980&t=38)** I'm going to help you learn the main types of data and how they're written in Python.
+> **[0:38](https://www.linkedin.com/learning/python-quick-start-22667553/sorting-your-types-of-data?u=76281980&t=38)** I'm going to help you learn the main types of data and how they're written in [[Python (Programming Language)|Python]].
 >
 > **[0:42](https://www.linkedin.com/learning/python-quick-start-22667553/sorting-your-types-of-data?u=76281980&t=42)** Let's begin with booleans.
 >
@@ -413,7 +406,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/python-quick-start-22667553/sorting-your-types-of-data?u=76281980&t=142)** And in Python the data type of a string is written as str.
 >
-> **[2:27](https://www.linkedin.com/learning/python-quick-start-22667553/sorting-your-types-of-data?u=76281980&t=147)** Now, I want to zoom in on the difference between strings and integers.
+> **[2:27](https://www.linkedin.com/learning/python-quick-start-22667553/sorting-your-types-of-data?u=76281980&t=147)** Now, I want to [[Zoom]] in on the difference between strings and integers.
 >
 > **[2:32](https://www.linkedin.com/learning/python-quick-start-22667553/sorting-your-types-of-data?u=76281980&t=152)** Any sequence of characters enclosed by quotes is a string.
 >
@@ -443,20 +436,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Python (Programming Language)|Python]] (6), [[Programming]] (3), next (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Zoom]] (1)
 > **Definitions:** is a  (4), is an  (2), known as (1), in other words (1)
 > **CLI Commands:** python (6)
 > **Versions:** 0.0 (1), 4.0 (1), 3.3 (1)
 > **Warnings:** keep in mind (2)
 
-#### Storing data using variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/storing-data-using-variables?u=76281980)
+#### [Storing data using variables](https://www.linkedin.com/learning/python-quick-start-22667553/storing-data-using-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-quick-start-22667553/storing-data-using-variables?u=76281980&t=0)** Did you ever play guessing games as a kid?
 >
-> **[0:03](https://www.linkedin.com/learning/python-quick-start-22667553/storing-data-using-variables?u=76281980&t=3)** If so, you may remember playing a game where one player, also known as Player 1, comes up with a word or a phrase, and the other player, also known as Player 2, has to guess it.
+> **[0:03](https://www.linkedin.com/learning/python-quick-start-22667553/storing-data-using-variables?u=76281980&t=3)** If so, you may remember playing a game where one player, also known as Player 1, comes up with a [[Microsoft Word|word]] or a phrase, and the other player, also known as Player 2, has to guess it.
 >
 > **[0:14](https://www.linkedin.com/learning/python-quick-start-22667553/storing-data-using-variables?u=76281980&t=14)** So when is the game over?
 >
@@ -516,7 +508,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (13), [[Microsoft Word|Word]] (6), data (3), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6)
 > **Cross-References:** go back to (2)
 > **Definitions:** known as (2)
 
@@ -525,8 +517,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining functions in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/defining-functions-in-python?u=76281980)
+#### [Defining functions in Python](https://www.linkedin.com/learning/python-quick-start-22667553/defining-functions-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -570,17 +561,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2)
 > **CLI Commands:** find (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
 
-#### Using built-in functions in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/using-built-in-functions-in-python?u=76281980)
+#### [Using built-in functions in Python](https://www.linkedin.com/learning/python-quick-start-22667553/using-built-in-functions-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-quick-start-22667553/using-built-in-functions-in-python?u=76281980&t=0)** Python has some functions that have already been defined.
+> **[0:00](https://www.linkedin.com/learning/python-quick-start-22667553/using-built-in-functions-in-python?u=76281980&t=0)** [[Python (Programming Language)|Python]] has some functions that have already been defined.
 >
 > **[0:03](https://www.linkedin.com/learning/python-quick-start-22667553/using-built-in-functions-in-python?u=76281980&t=3)** These are called built-in functions and they're available for you to use any time.
 >
@@ -676,13 +665,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), prompt (5), [[Python (Programming Language)|Python]] (4), next (3), hit (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **Definitions:** is a  (3), in other words (1), known as (1)
 > **CLI Commands:** python (4)
 > **Analogies:** for example (2)
 
-#### Building your own functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/building-your-own-functions?u=76281980)
+#### [Building your own functions](https://www.linkedin.com/learning/python-quick-start-22667553/building-your-own-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -768,7 +756,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), hit (1), generic (1)
 > **Code Identifiers:** addfive (11)
 > **Versions:** 62.5 (6), 67.5 (1)
 > **Definitions:** is a  (2), stands for (1), in other words (1)
@@ -776,8 +763,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), just like (1), such as (1)
 > **Best Practices:** make sure to (1)
 
-#### Distinguishing types of functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/distinguishing-types-of-functions?u=76281980)
+#### [Distinguishing types of functions](https://www.linkedin.com/learning/python-quick-start-22667553/distinguishing-types-of-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -943,19 +929,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), hit (4), prompt (2), generic (1), [[Programming]] (1)
 > **Code Identifiers:** anotherone (2), sumofsquares (2), is_it_raining (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (2)
 
-#### Using modules in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/using-modules-in-python?u=76281980)
+#### [Using modules in Python](https://www.linkedin.com/learning/python-quick-start-22667553/using-modules-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-quick-start-22667553/using-modules-in-python?u=76281980&t=0)** A critical skill in programming is knowing how to reuse.
 >
-> **[0:04](https://www.linkedin.com/learning/python-quick-start-22667553/using-modules-in-python?u=76281980&t=4)** And by reuse, I mean take advantage of code that has already been written. In Python, one of the main ways to do this is by using modules and modules contain code that has already been written.
+> **[0:04](https://www.linkedin.com/learning/python-quick-start-22667553/using-modules-in-python?u=76281980&t=4)** And by reuse, I mean take advantage of code that has already been written. In [[Python (Programming Language)|Python]], one of the main ways to do this is by using modules and modules contain code that has already been written.
 >
 > **[0:17](https://www.linkedin.com/learning/python-quick-start-22667553/using-modules-in-python?u=76281980&t=17)** I'm going to help you learn how to make use of modules when you code.
 >
@@ -1071,7 +1055,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), next (2), [[Programming]] (1), game (1), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **Definitions:** is a  (8), refers to (1)
 > **CLI Commands:** python (5), make (1), find (1)
 > **Analogies:** for example (5)
@@ -1083,8 +1067,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining sequences
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/defining-sequences?u=76281980)
+#### [Defining sequences](https://www.linkedin.com/learning/python-quick-start-22667553/defining-sequences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1112,11 +1095,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Programming]] (2)
 > **Definitions:** is a  (2)
 
-#### Using lists in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/using-lists-in-python?u=76281980)
+#### [Using lists in Python](https://www.linkedin.com/learning/python-quick-start-22667553/using-lists-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1132,7 +1113,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/python-quick-start-22667553/using-lists-in-python?u=76281980&t=19)** I'm going to run this cell and in the next cell, I can print out "n" And when I run this, 5 gets printed out.
 >
-> **[0:27](https://www.linkedin.com/learning/python-quick-start-22667553/using-lists-in-python?u=76281980&t=27)** Now, if you want to store multiple numbers together, Python has a clever way of doing this using something called a sequence.
+> **[0:27](https://www.linkedin.com/learning/python-quick-start-22667553/using-lists-in-python?u=76281980&t=27)** Now, if you want to store multiple numbers together, [[Python (Programming Language)|Python]] has a clever way of doing this using something called a sequence.
 >
 > **[0:35](https://www.linkedin.com/learning/python-quick-start-22667553/using-lists-in-python?u=76281980&t=35)** A sequence allows you to store a collection of data.
 >
@@ -1216,7 +1197,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Programming]] (2), next (1), [[Python (Programming Language)|Python]] (1), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** lista (12), listb (2)
 > **CLI Commands:** find (1), python (1)
 > **Cross-References:** later in (1), in the next (1)
@@ -1224,8 +1205,7 @@ created: 2026-05-02
 > **Versions:** 333.3 (1)
 > **Analogies:** for example (1)
 
-#### Leveraging tuples in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/leveraging-tuples-in-python?u=76281980)
+#### [Leveraging tuples in Python](https://www.linkedin.com/learning/python-quick-start-22667553/leveraging-tuples-in-python?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1243,7 +1223,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/python-quick-start-22667553/leveraging-tuples-in-python?u=76281980&t=47)** So you need to use a sequence that cannot be changed after creation.
 >
-> **[0:51](https://www.linkedin.com/learning/python-quick-start-22667553/leveraging-tuples-in-python?u=76281980&t=51)** Don't worry, Python has a type of sequence that helps you do this easily.
+> **[0:51](https://www.linkedin.com/learning/python-quick-start-22667553/leveraging-tuples-in-python?u=76281980&t=51)** Don't worry, [[Python (Programming Language)|Python]] has a type of sequence that helps you do this easily.
 >
 > **[0:55](https://www.linkedin.com/learning/python-quick-start-22667553/leveraging-tuples-in-python?u=76281980&t=55)** And it's called a tuple.
 >
@@ -1353,7 +1333,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (4), data (3), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Ports:** :25 (6), :42 (1)
 > **CLI Commands:** python (1)
 > **Cross-References:** in the next (1)
@@ -1365,8 +1345,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining conditional statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/defining-conditional-statements?u=76281980)
+#### [Defining conditional statements](https://www.linkedin.com/learning/python-quick-start-22667553/defining-conditional-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1398,12 +1377,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 
-#### Working with if statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/working-with-if-statements?u=76281980)
+#### [Working with if statements](https://www.linkedin.com/learning/python-quick-start-22667553/working-with-if-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1419,7 +1396,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/python-quick-start-22667553/working-with-if-statements?u=76281980&t=34)** You would do something like this.
 >
-> **[0:36](https://www.linkedin.com/learning/python-quick-start-22667553/working-with-if-statements?u=76281980&t=36)** I'll call input, which is a built-in Python function and I'll pass in the following prompt.
+> **[0:36](https://www.linkedin.com/learning/python-quick-start-22667553/working-with-if-statements?u=76281980&t=36)** I'll call input, which is a built-in [[Python (Programming Language)|Python]] function and I'll pass in the following prompt.
 >
 > **[0:44](https://www.linkedin.com/learning/python-quick-start-22667553/working-with-if-statements?u=76281980&t=44)** Choose an integer between -10 and 10 and enter it here.
 >
@@ -1481,14 +1458,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), prompt (3), [[Python (Programming Language)|Python]] (2), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** python (2)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 
-#### Using If-else statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/using-if-else-statements?u=76281980)
+#### [Using If-else statements](https://www.linkedin.com/learning/python-quick-start-22667553/using-if-else-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1566,13 +1542,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), generic (1), hit (1)
 > **Definitions:** means that (1), is an  (1), is a  (1)
 > **Versions:** 3.1 (2)
 > **Analogies:** for example (1)
 
-#### If-elif and if-elif-else statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/if-elif-and-if-elif-else-statements?u=76281980)
+#### [If-elif and if-elif-else statements](https://www.linkedin.com/learning/python-quick-start-22667553/if-elif-and-if-elif-else-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1612,7 +1586,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/python-quick-start-22667553/if-elif-and-if-elif-else-statements?u=76281980&t=118)** So I'll write print ("Wear a waterproof jacket when you go out!")
 >
-> **[2:05](https://www.linkedin.com/learning/python-quick-start-22667553/if-elif-and-if-elif-else-statements?u=76281980&t=125)** And note that both the if clause and the elif clause here contain a compound condition. Python supports this.
+> **[2:05](https://www.linkedin.com/learning/python-quick-start-22667553/if-elif-and-if-elif-else-statements?u=76281980&t=125)** And note that both the if clause and the elif clause here contain a compound condition. [[Python (Programming Language)|Python]] supports this.
 >
 > **[2:15](https://www.linkedin.com/learning/python-quick-start-22667553/if-elif-and-if-elif-else-statements?u=76281980&t=135)** Now, I'll go ahead and run this cell, and I'll act as a user now.
 >
@@ -1810,7 +1784,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (13), prompt (6), [[Python (Programming Language)|Python]] (3), [[Programming]] (1), generic (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **Versions:** 78.3 (6), 1.5 (5), 1.0 (2)
 > **Code Identifiers:** abs_val (4)
 > **Definitions:** is a  (2), in other words (2)
@@ -1824,12 +1798,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining iteration
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/defining-iteration?u=76281980)
+#### [Defining iteration](https://www.linkedin.com/learning/python-quick-start-22667553/defining-iteration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-quick-start-22667553/defining-iteration?u=76281980&t=0)** Let's say two people, Player 1 and Player 2 are playing guess the word.
+> **[0:00](https://www.linkedin.com/learning/python-quick-start-22667553/defining-iteration?u=76281980&t=0)** Let's say two people, Player 1 and Player 2 are playing guess the [[Microsoft Word|word]].
 >
 > **[0:06](https://www.linkedin.com/learning/python-quick-start-22667553/defining-iteration?u=76281980&t=6)** Player 1 comes up with a word or phrase and Player 2 needs to guess it. During the game, Player 1 can provide hints to Player 2 so Player 2 can make more informed guesses.
 >
@@ -1893,7 +1866,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/python-quick-start-22667553/defining-iteration?u=76281980&t=190)** So vowel count must be incremented by 1.
 >
-> **[3:13](https://www.linkedin.com/learning/python-quick-start-22667553/defining-iteration?u=76281980&t=193)** The rest of the characters in word would also be visited in this way and vowel count would be updated accordingly along the way.
+> **[3:13](https://www.linkedin.com/learning/python-quick-start-22667553/defining-iteration?u=76281980&t=193)** The [[Representational State Transfer (REST)|rest]] of the characters in word would also be visited in this way and vowel count would be updated accordingly along the way.
 >
 > **[3:21](https://www.linkedin.com/learning/python-quick-start-22667553/defining-iteration?u=76281980&t=201)** As you can tell, there is some repetition happening here.
 >
@@ -1929,13 +1902,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (24), [[Programming]] (3), game (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (24), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** find (2), make (1)
 > **Warnings:** note that (1)
 
-#### Using a for loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/using-a-for-loop?u=76281980)
+#### [Using a for loop](https://www.linkedin.com/learning/python-quick-start-22667553/using-a-for-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1949,7 +1921,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/python-quick-start-22667553/using-a-for-loop?u=76281980&t=15)** You can specify a range of numbers by calling the range function.
 >
-> **[0:20](https://www.linkedin.com/learning/python-quick-start-22667553/using-a-for-loop?u=76281980&t=20)** Range is a built-in function in Python that takes in the following inputs in the following order, an optional starting number, a required ending number, and an optional step size.
+> **[0:20](https://www.linkedin.com/learning/python-quick-start-22667553/using-a-for-loop?u=76281980&t=20)** Range is a built-in function in [[Python (Programming Language)|Python]] that takes in the following inputs in the following order, an optional starting number, a required ending number, and an optional step size.
 >
 > **[0:32](https://www.linkedin.com/learning/python-quick-start-22667553/using-a-for-loop?u=76281980&t=32)** When a starting number is not provided, range defaults to starting with 0.
 >
@@ -2021,14 +1993,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), next (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (3)
 > **Warnings:** note that (3)
 > **Analogies:** for example (2)
 > **CLI Commands:** python (1)
 
-#### Writing a while loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/writing-a-while-loop?u=76281980)
+#### [Writing a while loop](https://www.linkedin.com/learning/python-quick-start-22667553/writing-a-while-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2040,7 +2011,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/python-quick-start-22667553/writing-a-while-loop?u=76281980&t=12)** First, I want to introduce a helpful function called Len.
 >
-> **[0:16](https://www.linkedin.com/learning/python-quick-start-22667553/writing-a-while-loop?u=76281980&t=16)** Len is a built-in function in Python that takes in a sequence as input and returns the length of the sequence as output.
+> **[0:16](https://www.linkedin.com/learning/python-quick-start-22667553/writing-a-while-loop?u=76281980&t=16)** Len is a built-in function in [[Python (Programming Language)|Python]] that takes in a sequence as input and returns the length of the sequence as output.
 >
 > **[0:23](https://www.linkedin.com/learning/python-quick-start-22667553/writing-a-while-loop?u=76281980&t=23)** For example, say I have a list of vowels stored in a variable named vowels and I want to know the length of the list.
 >
@@ -2092,7 +2063,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2)
 > **Warnings:** note that (2)
 > **CLI Commands:** python (1)
@@ -2104,8 +2075,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Demystifying recursive functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/demystifying-recursive-functions?u=76281980)
+#### [Demystifying recursive functions](https://www.linkedin.com/learning/python-quick-start-22667553/demystifying-recursive-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2119,7 +2089,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/python-quick-start-22667553/demystifying-recursive-functions?u=76281980&t=21)** A recursive function solves a problem by dividing the problem into smaller subproblems and calling the function itself to solve each subproblem.
 >
-> **[0:30](https://www.linkedin.com/learning/python-quick-start-22667553/demystifying-recursive-functions?u=76281980&t=30)** Python supports recursion.
+> **[0:30](https://www.linkedin.com/learning/python-quick-start-22667553/demystifying-recursive-functions?u=76281980&t=30)** [[Python (Programming Language)|Python]] supports recursion.
 >
 > **[0:32](https://www.linkedin.com/learning/python-quick-start-22667553/demystifying-recursive-functions?u=76281980&t=32)** For example, say you want to write a function that takes a positive integer as input and returns the factorial of that number.
 >
@@ -2151,14 +2121,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), product (2), [[Python (Programming Language)|Python]] (1), express (1), generic (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is called (1), in other words (1), is a  (1), means that (1)
 > **Warnings:** note that (2)
 > **CLI Commands:** python (1)
 > **Analogies:** for example (1)
 
-#### Navigating a recursive function
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/navigating-a-recursive-function?u=76281980)
+#### [Navigating a recursive function](https://www.linkedin.com/learning/python-quick-start-22667553/navigating-a-recursive-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2242,7 +2211,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/python-quick-start-22667553/navigating-a-recursive-function?u=76281980&t=256)** Next, say you want a function that takes a string as input and returns whether that string is a palindrome.
 >
-> **[4:23](https://www.linkedin.com/learning/python-quick-start-22667553/navigating-a-recursive-function?u=76281980&t=263)** Note that a palindrome is a word, phrase, or sequence that reads the same backwards and forwards.
+> **[4:23](https://www.linkedin.com/learning/python-quick-start-22667553/navigating-a-recursive-function?u=76281980&t=263)** Note that a palindrome is a [[Microsoft Word|word]], phrase, or sequence that reads the same backwards and forwards.
 >
 > **[4:30](https://www.linkedin.com/learning/python-quick-start-22667553/navigating-a-recursive-function?u=76281980&t=270)** Examples of palindromes include mom, K, 5, 121 and 1221.
 >
@@ -2286,7 +2255,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (3), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (8), in other words (2)
 > **Warnings:** note that (5)
 > **Analogies:** for example (1)
@@ -2296,12 +2265,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is object-oriented programming?
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/what-is-object-oriented-programming?u=76281980)
+#### [What is object-oriented programming?](https://www.linkedin.com/learning/python-quick-start-22667553/what-is-object-oriented-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-quick-start-22667553/what-is-object-oriented-programming?u=76281980&t=0)** Python supports object oriented programming, also known as OOP, which is a useful approach to programming.
+> **[0:00](https://www.linkedin.com/learning/python-quick-start-22667553/what-is-object-oriented-programming?u=76281980&t=0)** [[Python (Programming Language)|Python]] supports object oriented programming, also known as OOP, which is a useful approach to programming.
 >
 > **[0:08](https://www.linkedin.com/learning/python-quick-start-22667553/what-is-object-oriented-programming?u=76281980&t=8)** Now there's a lot to OOP, but for the purposes of this course, I'll give you a quick introduction. In OOP, objects are collections of both data and the methods that operate on that data.
 >
@@ -2389,7 +2357,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/python-quick-start-22667553/what-is-object-oriented-programming?u=76281980&t=250)** As you can see, Fido is now 3 years old.
 >
-> **[4:13](https://www.linkedin.com/learning/python-quick-start-22667553/what-is-object-oriented-programming?u=76281980&t=253)** Now you know what object-oriented programming is, the main components of it, how to define classes and create instances of classes.
+> **[4:13](https://www.linkedin.com/learning/python-quick-start-22667553/what-is-object-oriented-programming?u=76281980&t=253)** Now you know what [[Object-Oriented Programming (OOP)|object-oriented programming]] is, the main components of it, how to define classes and create instances of classes.
 >
 > **[4:22](https://www.linkedin.com/learning/python-quick-start-22667553/what-is-object-oriented-programming?u=76281980&t=262)** As a fun exercise, think of a specific object in the real world and try to define a new type of data that represents how that object works in the real world.
 >
@@ -2397,7 +2365,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (3), oop (3), next (3), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Definitions:** is a  (3), known as (1), is an  (1)
 > **CLI Commands:** python (3)
 > **Env Vars:** oop (3)
@@ -2405,8 +2373,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** initialization (1)
 
-#### Applying object-oriented programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/applying-object-oriented-programming?u=76281980)
+#### [Applying object-oriented programming](https://www.linkedin.com/learning/python-quick-start-22667553/applying-object-oriented-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2418,7 +2385,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/python-quick-start-22667553/applying-object-oriented-programming?u=76281980&t=15)** Diving deeper into OOP will help you understand the power of OOP and what you can accomplish with it.
 >
-> **[0:21](https://www.linkedin.com/learning/python-quick-start-22667553/applying-object-oriented-programming?u=76281980&t=21)** In this lesson, I'm going to show you inheritance and method overwriting so you can implement these concepts as you program in Python.
+> **[0:21](https://www.linkedin.com/learning/python-quick-start-22667553/applying-object-oriented-programming?u=76281980&t=21)** In this lesson, I'm going to show you inheritance and method overwriting so you can implement these concepts as you program in [[Python (Programming Language)|Python]].
 >
 > **[0:30](https://www.linkedin.com/learning/python-quick-start-22667553/applying-object-oriented-programming?u=76281980&t=30)** Inheritance allows programmers to create a hierarchy in which each class inherits the methods and the data attributes from the classes above it in hierarchy.
 >
@@ -2548,7 +2515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** oop (4), [[Programming]] (2), power (1), [[Python (Programming Language)|Python]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** getinfo (8), addyear (6)
 > **Prerequisites:** initialization (6)
 > **Env Vars:** oop (4)
@@ -2562,20 +2529,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-quick-start-22667553/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/python-quick-start-22667553/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-quick-start-22667553/next-steps?u=76281980&t=0)** Congratulations on completing this course.
 >
-> **[0:03](https://www.linkedin.com/learning/python-quick-start-22667553/next-steps?u=76281980&t=3)** As you can see, there's a lot to learn about programming in Python, and the learning definitely does not stop here.
+> **[0:03](https://www.linkedin.com/learning/python-quick-start-22667553/next-steps?u=76281980&t=3)** As you can see, there's a lot to learn about programming in [[Python (Programming Language)|Python]], and the learning definitely does not stop here.
 >
 > **[0:09](https://www.linkedin.com/learning/python-quick-start-22667553/next-steps?u=76281980&t=9)** While watching someone walk through examples is important to learning how things work, it's equally important to practice on your own after watching. To reinforce your understanding of the concepts that we're covered in this course, I recommend that you try out the examples from the videos on your own.
 >
 > **[0:26](https://www.linkedin.com/learning/python-quick-start-22667553/next-steps?u=76281980&t=26)** I also recommend that you check out the following resources.
 >
-> **[0:30](https://www.linkedin.com/learning/python-quick-start-22667553/next-steps?u=76281980&t=30)** The first is the book "Introduction to Computation and Programming using Python" by John V. Guttag.
+> **[0:30](https://www.linkedin.com/learning/python-quick-start-22667553/next-steps?u=76281980&t=30)** The first is the book "Introduction to Computation and Programming using Python" by [[John the Ripper|John]] V. Guttag.
 >
 > **[0:36](https://www.linkedin.com/learning/python-quick-start-22667553/next-steps?u=76281980&t=36)** Another great resource is the website tutorials point.
 >
@@ -2595,7 +2561,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Programming]] (3), power (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[John the Ripper|John]] (1)
 > **CLI Commands:** python (7), find (4)
 > **URLs:** [pythoncheatsheet.org](https://pythoncheatsheet.org) (1)
 > **Analogies:** such as (1)

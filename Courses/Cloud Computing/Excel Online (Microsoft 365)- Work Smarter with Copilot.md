@@ -80,12 +80,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Kickstart your Excel Online journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/kickstart-your-excel-online-journey?u=76281980)
+#### [Kickstart your Excel Online journey](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/kickstart-your-excel-online-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/kickstart-your-excel-online-journey?u=76281980&t=0)** - [Joshua] Excel continues to inspire with its innovative approach to managing spreadsheets.
+> **[0:00](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/kickstart-your-excel-online-journey?u=76281980&t=0)** - [Joshua] [[Microsoft Excel|Excel]] continues to inspire with its innovative approach to managing spreadsheets.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/kickstart-your-excel-online-journey?u=76281980&t=5)** With organizations increasingly adopting flexible work practices, staff need to be able to interact with business tools on the go.
 >
@@ -93,7 +92,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/kickstart-your-excel-online-journey?u=76281980&t=18)** We'll then dive into the expanding range of powerful features in Excel Online.
 >
-> **[0:24](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/kickstart-your-excel-online-journey?u=76281980&t=24)** Finally, I'll introduce you to Excel Online's integrated AI features, including Copilot.
+> **[0:24](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/kickstart-your-excel-online-journey?u=76281980&t=24)** Finally, I'll introduce you to Excel Online's integrated AI features, including [[Microsoft Copilot|Copilot]].
 >
 > **[0:30](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/kickstart-your-excel-online-journey?u=76281980&t=30)** I'm Josh Chen and I've been using Excel for more than 20 years now and have helped enterprises of all sizes to use Excel to make more informed business decisions.
 >
@@ -101,7 +100,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), business (2), ai (1), [[Microsoft Copilot|Copilot]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Microsoft Copilot|Copilot]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [joshua] (1)
 
@@ -110,14 +109,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting acquainted with Excel Online
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-acquainted-with-excel-online?u=76281980)
+#### [Getting acquainted with Excel Online](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-acquainted-with-excel-online?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-acquainted-with-excel-online?u=76281980&t=0)** - [Instructor] Before getting started, make sure that you're logged into your Microsoft 365 online account.
+> **[0:00](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-acquainted-with-excel-online?u=76281980&t=0)** - [Instructor] Before getting started, make sure that you're logged into your [[Microsoft 365]] online account.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-acquainted-with-excel-online?u=76281980&t=7)** It doesn't matter which online app is visible once you're logged in, just make sure that you can see Excel when you click on the App Launcher icon here.
+> **[0:07](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-acquainted-with-excel-online?u=76281980&t=7)** It doesn't matter which online app is visible once you're logged in, just make sure that you can see [[Microsoft Excel|Excel]] when you click on the App Launcher icon here.
 >
 > **[0:17](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-acquainted-with-excel-online?u=76281980&t=17)** Actually, I should point out, the official name for Excel's online solution is Excel for the Web, however, for this course, I'll be referring to it as Excel Online, as I think it just rolls off the tongue more smoothly.
 >
@@ -143,7 +141,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (12), web (2), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (12), [[Microsoft 365]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
 > **Env Vars:** url (1)
@@ -151,12 +149,11 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring essential features in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/exploring-essential-features-in-excel?u=76281980)
+#### [Exploring essential features in Excel](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/exploring-essential-features-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/exploring-essential-features-in-excel?u=76281980&t=0)** - [Instructor] Before getting started, make sure that the exercise file pack for this course is available in your OneDrive account.
+> **[0:00](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/exploring-essential-features-in-excel?u=76281980&t=0)** - [Instructor] Before getting started, make sure that the exercise file pack for this course is available in your [[Microsoft OneDrive|OneDrive]] account.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/exploring-essential-features-in-excel?u=76281980&t=7)** I find that the easiest way to do this is to open up OneDrive using the app launcher icon, then select my files.
 >
@@ -170,7 +167,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/exploring-essential-features-in-excel?u=76281980&t=51)** Let's actually go into the folder, exercise files, and we're working with chapter one.
 >
-> **[0:59](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/exploring-essential-features-in-excel?u=76281980&t=59)** The file that we're looking for is called Excel Customer Data.
+> **[0:59](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/exploring-essential-features-in-excel?u=76281980&t=59)** The file that we're looking for is called [[Microsoft Excel|Excel]] Customer Data.
 >
 > **[1:03](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/exploring-essential-features-in-excel?u=76281980&t=63)** Let's go ahead and open it up.
 >
@@ -204,7 +201,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (4), [[Microsoft OneDrive|Onedrive]] (2), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (2), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** click on (7), select the (3), dropdown (3)
 > **CLI Commands:** make (3), find (3)
 > **Exercise Files:** exercise file (2), zip file (1), exercise files (1)
@@ -213,12 +210,11 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Personalizing your view with Sheet View
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/personalizing-your-view-with-sheet-view?u=76281980)
+#### [Personalizing your view with Sheet View](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/personalizing-your-view-with-sheet-view?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/personalizing-your-view-with-sheet-view?u=76281980&t=0)** - [Instructor] A wonderful Excel Online feature you may wish to play around with is something called Sheet View, which appears here under the View ribbon.
+> **[0:00](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/personalizing-your-view-with-sheet-view?u=76281980&t=0)** - [Instructor] A wonderful [[Microsoft Excel|Excel]] Online feature you may wish to play around with is something called Sheet View, which appears here under the View ribbon.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/personalizing-your-view-with-sheet-view?u=76281980&t=8)** To follow along with me, have the Excel exercise file, XL MyView open.
 >
@@ -268,7 +264,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (2), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** click on (6), select the (3), dropdown (3)
 > **Cross-References:** go back to (2)
 > **Analogies:** for example (1), such as (1)
@@ -277,8 +273,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Warnings:** be careful (1)
 
-#### Using version history in Excel to fix mistakes
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/using-version-history-in-excel-to-fix-mistakes?u=76281980)
+#### [Using version history in Excel to fix mistakes](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/using-version-history-in-excel-to-fix-mistakes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -286,7 +281,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/using-version-history-in-excel-to-fix-mistakes?u=76281980&t=1)** Don't you just hate that feeling when you've made some changes to a workbook and closed it but want to revert back to how things used to look?
 >
-> **[0:09](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/using-version-history-in-excel-to-fix-mistakes?u=76281980&t=9)** Many of you may be aware that Excel online auto saves changes, which can make things a little bit nervous when you make changes that weren't intentional.
+> **[0:09](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/using-version-history-in-excel-to-fix-mistakes?u=76281980&t=9)** Many of you may be aware that [[Microsoft Excel|Excel]] online auto saves changes, which can make things a little bit nervous when you make changes that weren't intentional.
 >
 > **[0:18](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/using-version-history-in-excel-to-fix-mistakes?u=76281980&t=18)** But don't stress.
 >
@@ -294,7 +289,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/using-version-history-in-excel-to-fix-mistakes?u=76281980&t=22)** I strongly suggest having the file Excel Versions open to follow along with me.
 >
-> **[0:27](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/using-version-history-in-excel-to-fix-mistakes?u=76281980&t=27)** I also suggest having OneDrive open in a separate tab.
+> **[0:27](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/using-version-history-in-excel-to-fix-mistakes?u=76281980&t=27)** I also suggest having [[Microsoft OneDrive|OneDrive]] open in a separate tab.
 >
 > **[0:31](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/using-version-history-in-excel-to-fix-mistakes?u=76281980&t=31)** Let's go ahead and make some changes to our data.
 >
@@ -334,18 +329,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), next (3), [[Microsoft OneDrive|Onedrive]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft OneDrive|Onedrive]] (1)
 > **UI Navigation:** click on (2), select the (2), open the (1), checkbox (1)
 > **CLI Commands:** make (4)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Use Excel Online to undo mistakes
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/challenge-use-excel-online-to-un-do-mistakes?u=76281980)
+#### [Challenge: Use Excel Online to undo mistakes](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/challenge-use-excel-online-to-un-do-mistakes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/challenge-use-excel-online-to-un-do-mistakes?u=76281980&t=6)** - Okay, ready to take the Excel Online "where's my data" challenge?
+> **[0:06](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/challenge-use-excel-online-to-un-do-mistakes?u=76281980&t=6)** - Okay, ready to take the [[Microsoft Excel|Excel]] Online "where's my data" challenge?
 >
 > **[0:10](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/challenge-use-excel-online-to-un-do-mistakes?u=76281980&t=10)** In your exercise file pack, I want you to use Excel Online to delete column C and then restore the file to how it looked originally.
 >
@@ -355,12 +349,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - okay (1)
 
-#### Solution: Use Excel Online to undo mistakes
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/solution-use-excel-online-to-un-do-mistakes?u=76281980)
+#### [Solution: Use Excel Online to undo mistakes](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/solution-use-excel-online-to-un-do-mistakes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -370,7 +363,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/solution-use-excel-online-to-un-do-mistakes?u=76281980&t=8)** There were a few ways you might have achieved the end result, but here's how I got there.
 >
-> **[0:12](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/solution-use-excel-online-to-un-do-mistakes?u=76281980&t=12)** Using OneDrive, I opened up the file called XL LostData.
+> **[0:12](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/solution-use-excel-online-to-un-do-mistakes?u=76281980&t=12)** Using [[Microsoft OneDrive|OneDrive]], I opened up the file called XL LostData.
 >
 > **[0:17](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/solution-use-excel-online-to-un-do-mistakes?u=76281980&t=17)** I then went ahead and selected column C, right-clicked it, and then selected Delete Column C.
 >
@@ -396,7 +389,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (2)
 > **Versions:** version 1 (1), version 3 (1)
 > **UI Navigation:** checkbox (1)
 > **Speakers:** - [instructor] (1)
@@ -407,8 +400,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sharing your work and collaborating with others
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/sharing-your-work-and-collaborating-with-others?u=76281980)
+#### [Sharing your work and collaborating with others](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/sharing-your-work-and-collaborating-with-others?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -416,7 +408,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/sharing-your-work-and-collaborating-with-others?u=76281980&t=8)** It really is something that we should do upfront before we invest too much time and effort in developing a workbook.
 >
-> **[0:14](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/sharing-your-work-and-collaborating-with-others?u=76281980&t=14)** It's a task that can be performed from Excel online, but I actually find it much easier to work with OneDrive.
+> **[0:14](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/sharing-your-work-and-collaborating-with-others?u=76281980&t=14)** It's a task that can be performed from [[Microsoft Excel|Excel]] online, but I actually find it much easier to work with [[Microsoft OneDrive|OneDrive]].
 >
 > **[0:21](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/sharing-your-work-and-collaborating-with-others?u=76281980&t=21)** So let's go ahead and do that.
 >
@@ -458,7 +450,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft OneDrive|Onedrive]] (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft OneDrive|Onedrive]] (3)
 > **UI Navigation:** click on (4), select the (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** exercise files (1)
@@ -467,12 +459,11 @@ created: 2026-05-02
 > **Warnings:** heads up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Securing your files with permission settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/securing-your-files-with-permission-settings?u=76281980)
+#### [Securing your files with permission settings](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/securing-your-files-with-permission-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/securing-your-files-with-permission-settings?u=76281980&t=0)** - [Instructor] Updating Excel online permissions and workbook sharing is a breeze, and it's best managed from OneDrive.
+> **[0:00](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/securing-your-files-with-permission-settings?u=76281980&t=0)** - [Instructor] Updating [[Microsoft Excel|Excel]] online permissions and workbook sharing is a breeze, and it's best managed from [[Microsoft OneDrive|OneDrive]].
 >
 > **[0:07](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/securing-your-files-with-permission-settings?u=76281980&t=7)** So the easiest way to follow along for this movie is to work with an Excel Online file that's already been shared with someone else.
 >
@@ -506,14 +497,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tracking edits in Excel with Show Changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/tracking-edits-in-excel-with-show-changes?u=76281980)
+#### [Tracking edits in Excel with Show Changes](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/tracking-edits-in-excel-with-show-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/tracking-edits-in-excel-with-show-changes?u=76281980&t=0)** - [Narrator] Collaboration really is the bee's knees of Excel Online, but it certainly isn't without its risks, especially when it comes to multiple users having edit access to the same workbook.
+> **[0:00](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/tracking-edits-in-excel-with-show-changes?u=76281980&t=0)** - [Narrator] Collaboration really is the bee's knees of [[Microsoft Excel|Excel]] Online, but it certainly isn't without its risks, especially when it comes to multiple users having edit access to the same workbook.
 >
-> **[0:11](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/tracking-edits-in-excel-with-show-changes?u=76281980&t=11)** Fortunately, Microsoft has an incredibly powerful feature to safeguard against this called Show Changes.
+> **[0:11](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/tracking-edits-in-excel-with-show-changes?u=76281980&t=11)** Fortunately, [[Microsoft]] has an incredibly powerful feature to safeguard against this called Show Changes.
 >
 > **[0:19](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/tracking-edits-in-excel-with-show-changes?u=76281980&t=19)** Show Changes allows you to zero in on individual cells of data to see what's changed by who and also when the changes were made.
 >
@@ -543,7 +533,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (1), [[Microsoft]] (1), feature (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft]] (1)
 > **Cross-References:** we covered (1), earlier in (1)
 > **UI Navigation:** click on (1), select the (1)
 > **Exercise Files:** exercise file (1)
@@ -555,12 +545,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What you need to know before creating charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/what-you-need-to-know-before-creating-charts?u=76281980)
+#### [What you need to know before creating charts](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/what-you-need-to-know-before-creating-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/what-you-need-to-know-before-creating-charts?u=76281980&t=0)** - [Instructor] Charting in Excel online is flexible and pretty straightforward.
+> **[0:00](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/what-you-need-to-know-before-creating-charts?u=76281980&t=0)** - [Instructor] Charting in [[Microsoft Excel|Excel]] online is flexible and pretty straightforward.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/what-you-need-to-know-before-creating-charts?u=76281980&t=4)** However, there are a few things that you should know first.
 >
@@ -584,17 +573,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating eye-catching Excel charts for stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/creating-eye-catching-excel-charts-for-stakeholders?u=76281980)
+#### [Creating eye-catching Excel charts for stakeholders](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/creating-eye-catching-excel-charts-for-stakeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/creating-eye-catching-excel-charts-for-stakeholders?u=76281980&t=0)** - [Instructor] One of the most commonly used features of Excel Online is charting as it really brings life to your data.
+> **[0:00](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/creating-eye-catching-excel-charts-for-stakeholders?u=76281980&t=0)** - [Instructor] One of the most commonly used features of [[Microsoft Excel|Excel]] Online is charting as it really brings life to your data.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/creating-eye-catching-excel-charts-for-stakeholders?u=76281980&t=7)** If you'd like to follow along with me, then have XL Charts open.
 >
@@ -640,18 +628,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (4), business (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5)
 > **UI Navigation:** select the (2), click on (1), dropdown (1)
 > **Definitions:** is an  (1), is a  (1), is called (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Customizing charts with advanced Excel tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/customizing-charts-with-advanced-excel-tools?u=76281980)
+#### [Customizing charts with advanced Excel tools](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/customizing-charts-with-advanced-excel-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/customizing-charts-with-advanced-excel-tools?u=76281980&t=0)** - [Instructor] Once we have created an Excel Online chart, we can make the most of something called Charting Tools to change the look and feel of the information.
+> **[0:00](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/customizing-charts-with-advanced-excel-tools?u=76281980&t=0)** - [Instructor] Once we have created an [[Microsoft Excel|Excel]] Online chart, we can make the most of something called Charting Tools to change the look and feel of the information.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/customizing-charts-with-advanced-excel-tools?u=76281980&t=10)** In this example, we have already prepared a basic column chart.
 >
@@ -687,7 +674,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **UI Navigation:** click on (3), dropdown (2)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (1)
@@ -698,12 +685,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with Copilot in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-started-with-copilot-in-excel?u=76281980)
+#### [Getting started with Copilot in Excel](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-started-with-copilot-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-started-with-copilot-in-excel?u=76281980&t=0)** - [Presenter] In early 2024, Microsoft Incorporated Copilot into its productivity apps, including Excel.
+> **[0:00](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-started-with-copilot-in-excel?u=76281980&t=0)** - [Presenter] In early 2024, [[Microsoft]] Incorporated [[Microsoft Copilot|Copilot]] into its productivity apps, including [[Microsoft Excel|Excel]].
 >
 > **[0:08](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-started-with-copilot-in-excel?u=76281980&t=8)** Copilot can streamline your work and bring life to your data in ways that you couldn't have imagined.
 >
@@ -713,7 +699,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-started-with-copilot-in-excel?u=76281980&t=25)** If you have access to Copilot, there's a few ways to access it.
 >
-> **[0:29](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-started-with-copilot-in-excel?u=76281980&t=29)** For this movie, I'll walk you through the process of accessing it from OneDrive.
+> **[0:29](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-started-with-copilot-in-excel?u=76281980&t=29)** For this movie, I'll walk you through the process of accessing it from [[Microsoft OneDrive|OneDrive]].
 >
 > **[0:35](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-started-with-copilot-in-excel?u=76281980&t=35)** To start with, select the check to the left hand side of the Excel population exercise file, and from the menu at the top, click on the dropdown box next to Copilot and then click on summarize.
 >
@@ -731,17 +717,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[Microsoft Excel|Excel]] (2), data (2), [[Microsoft]] (1), [[Microsoft OneDrive|Onedrive]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[Microsoft Excel|Excel]] (2), [[Microsoft]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **UI Navigation:** click on (2), select the (1), dropdown (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [presenter] (1)
 
-#### Using Copilot to analyze your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/using-copilot-to-analyze-your-data?u=76281980)
+#### [Using Copilot to analyze your data](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/using-copilot-to-analyze-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/using-copilot-to-analyze-your-data?u=76281980&t=0)** - [Instructor] To get the most from Copilot in Excel, it's essential to work with data.
+> **[0:00](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/using-copilot-to-analyze-your-data?u=76281980&t=0)** - [Instructor] To get the most from [[Microsoft Copilot|Copilot]] in [[Microsoft Excel|Excel]], it's essential to work with data.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/using-copilot-to-analyze-your-data?u=76281980&t=5)** Start by having the exercise file open for this movie, which is XL Population.
 >
@@ -777,15 +762,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), data (4), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[Microsoft Excel|Excel]] (3)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Partnering with Copilot for enhanced productivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/partnering-with-copilot-for-enhanced-productivity?u=76281980)
+#### [Partnering with Copilot for enhanced productivity](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/partnering-with-copilot-for-enhanced-productivity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -797,7 +781,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/partnering-with-copilot-for-enhanced-productivity?u=76281980&t=20)** When used effectively, it's a rather handy companion that can afford myriad opportunities.
 >
-> **[0:26](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/partnering-with-copilot-for-enhanced-productivity?u=76281980&t=26)** So let's see how we can partner with copilot.
+> **[0:26](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/partnering-with-copilot-for-enhanced-productivity?u=76281980&t=26)** So let's see how we can partner with [[Microsoft Copilot|copilot]].
 >
 > **[0:31](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/partnering-with-copilot-for-enhanced-productivity?u=76281980&t=31)** At the bottom of the copilot pane.
 >
@@ -821,7 +805,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/partnering-with-copilot-for-enhanced-productivity?u=76281980&t=80)** 215 countries.
 >
-> **[1:22](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/partnering-with-copilot-for-enhanced-productivity?u=76281980&t=82)** Now being quite experienced in Excel, I can tell you that doing something like this manually would've been far more labor intensive.
+> **[1:22](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/partnering-with-copilot-for-enhanced-productivity?u=76281980&t=82)** Now being quite experienced in [[Microsoft Excel|Excel]], I can tell you that doing something like this manually would've been far more labor intensive.
 >
 > **[1:30](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/partnering-with-copilot-for-enhanced-productivity?u=76281980&t=90)** You see, what you have just tapped into is something called natural language queries.
 >
@@ -849,25 +833,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), data (4), [[Microsoft Excel|Excel]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** such as (2), just like (1), imagine (1)
 > **UI Navigation:** select the (1), click on (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [speaker] (1)
 
-#### Challenge: Use Copilot to create a chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/challenge-use-copilot-for-chart-creation?u=76281980)
+#### [Challenge: Use Copilot to create a chart](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/challenge-use-copilot-for-chart-creation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/challenge-use-copilot-for-chart-creation?u=76281980&t=5)** - [Narrator] Ready to take the Excel Online "chart creation" challenge?
+> **[0:05](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/challenge-use-copilot-for-chart-creation?u=76281980&t=5)** - [Narrator] Ready to take the [[Microsoft Excel|Excel]] Online "chart creation" challenge?
 >
 > **[0:09](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/challenge-use-copilot-for-chart-creation?u=76281980&t=9)** In your exercise file pack, you'll have a file called Excel Population.
 >
 > **[0:14](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/challenge-use-copilot-for-chart-creation?u=76281980&t=14)** You may have already been working with this file throughout the chapter, and that's totally cool.
 >
-> **[0:19](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/challenge-use-copilot-for-chart-creation?u=76281980&t=19)** Using Excel Online with Copilot activated, I'd like you to try and create a line chart summarizing Australia's population by year.
+> **[0:19](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/challenge-use-copilot-for-chart-creation?u=76281980&t=19)** Using Excel Online with [[Microsoft Copilot|Copilot]] activated, I'd like you to try and create a line chart summarizing Australia's population by year.
 >
 > **[0:30](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/challenge-use-copilot-for-chart-creation?u=76281980&t=30)** Oh, and here's a hint.
 >
@@ -879,13 +862,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Microsoft Copilot|Copilot]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Microsoft Copilot|Copilot]] (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Use Copilot to create a chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/solution-use-copilot-for-chart-creation?u=76281980)
+#### [Solution: Use Copilot to create a chart](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/solution-use-copilot-for-chart-creation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -895,9 +877,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/solution-use-copilot-for-chart-creation?u=76281980&t=8)** Let me show you how I got there.
 >
-> **[0:10](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/solution-use-copilot-for-chart-creation?u=76281980&t=10)** Using OneDrive, I opened the Excel population exercise file by simply clicking on it.
+> **[0:10](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/solution-use-copilot-for-chart-creation?u=76281980&t=10)** Using [[Microsoft OneDrive|OneDrive]], I opened the [[Microsoft Excel|Excel]] population exercise file by simply clicking on it.
 >
-> **[0:16](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/solution-use-copilot-for-chart-creation?u=76281980&t=16)** I then invoked Copilot by selecting the Copilot icon in my menu option here.
+> **[0:16](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/solution-use-copilot-for-chart-creation?u=76281980&t=16)** I then invoked [[Microsoft Copilot|Copilot]] by selecting the Copilot icon in my menu option here.
 >
 > **[0:25](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/solution-use-copilot-for-chart-creation?u=76281980&t=25)** Then, using natural language, I asked Copilot, "Can you please generate a line chart summarizing Australia's population by year?"
 >
@@ -926,12 +908,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Streamlining your layout with modern grids
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/streamlining-your-layout-with-modern-grids?u=76281980)
+#### [Streamlining your layout with modern grids](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/streamlining-your-layout-with-modern-grids?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/streamlining-your-layout-with-modern-grids?u=76281980&t=0)** - [Instructor] Until recently, one of the biggest pain points of working with data in Excel online has been shuffling things around.
+> **[0:00](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/streamlining-your-layout-with-modern-grids?u=76281980&t=0)** - [Instructor] Until recently, one of the biggest pain points of working with data in [[Microsoft Excel|Excel]] online has been shuffling things around.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/streamlining-your-layout-with-modern-grids?u=76281980&t=8)** What you're looking at is a summary of the world's population by country since 2005.
 >
@@ -973,14 +954,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), feature (3), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding interactive elements with checkboxes
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/adding-interactive-elements-with-checkboxes?u=76281980)
+#### [Adding interactive elements with checkboxes](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/adding-interactive-elements-with-checkboxes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1004,7 +984,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/adding-interactive-elements-with-checkboxes?u=76281980&t=58)** Now this can cause all sorts of issues down the track with typos and in any event it's actually not necessary to do this.
 >
-> **[1:07](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/adding-interactive-elements-with-checkboxes?u=76281980&t=67)** Performing this task in Excel Online has recently become super easy.
+> **[1:07](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/adding-interactive-elements-with-checkboxes?u=76281980&t=67)** Performing this task in [[Microsoft Excel|Excel]] Online has recently become super easy.
 >
 > **[1:12](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/adding-interactive-elements-with-checkboxes?u=76281980&t=72)** All we need to do is select cells C3 down to C12.
 >
@@ -1014,7 +994,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), feature (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (2)
 > **Env Vars:** c12 (1)
 > **Definitions:** is a  (1)
@@ -1026,16 +1006,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting the most out of Excel Online
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-the-most-out-of-excel-online?u=76281980)
+#### [Getting the most out of Excel Online](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-the-most-out-of-excel-online?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-the-most-out-of-excel-online?u=76281980&t=0)** - [Joshua] Thank you for taking the time to watch this course.
 >
-> **[0:03](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-the-most-out-of-excel-online?u=76281980&t=3)** What you have learned is just the start of your Excel Online journey.
+> **[0:03](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-the-most-out-of-excel-online?u=76281980&t=3)** What you have learned is just the start of your [[Microsoft Excel|Excel]] Online journey.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-the-most-out-of-excel-online?u=76281980&t=7)** Microsoft release new features all the time, so I strongly suggest that you keep abreast of what's changing in this space.
+> **[0:07](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-the-most-out-of-excel-online?u=76281980&t=7)** [[Microsoft]] release new features all the time, so I strongly suggest that you keep abreast of what's changing in this space.
 >
 > **[0:15](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-the-most-out-of-excel-online?u=76281980&t=15)** The one resource I recommend for this is to become of Microsoft's 365 Insider Program.
 >
@@ -1043,7 +1022,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-the-most-out-of-excel-online?u=76281980&t=34)** To help reinforce your learnings from this course, I strongly suggest that you try creating a new Excel online file from scratch, bringing in some source data, creating a few charts, and then try sharing your work with a friend or colleague.
 >
-> **[0:49](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-the-most-out-of-excel-online?u=76281980&t=49)** And if you're interested in expanding your knowledge even further, consider exploring the Excel Online Tips and Tricks course on the LinkedIn Learning platform.
+> **[0:49](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-the-most-out-of-excel-online?u=76281980&t=49)** And if you're interested in expanding your knowledge even further, consider exploring the Excel Online Tips and Tricks course on the [[LinkedIn]] Learning platform.
 >
 > **[0:59](https://www.linkedin.com/learning/excel-online-microsoft-365-work-smarter-with-copilot/getting-the-most-out-of-excel-online?u=76281980&t=59)** It builds upon the concepts that we've covered here in this course, and introduces how to leverage the desktop version of Excel to enhance your online experience.
 >
@@ -1055,7 +1034,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft]] (2), [[LinkedIn]] (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft]] (2), [[LinkedIn]] (2)
 > **Speakers:** - [joshua] (1)
 
 

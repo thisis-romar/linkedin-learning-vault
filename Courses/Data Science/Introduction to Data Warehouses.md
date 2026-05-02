@@ -86,8 +86,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to data warehouses
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/introduction-to-data-warehouses?u=76281980)
+#### [Introduction to data warehouses](https://www.linkedin.com/learning/introduction-to-data-warehouses/introduction-to-data-warehouses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -107,7 +106,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), cloud (2)
 > **Speakers:** - [deepak] (1)
 
 
@@ -115,8 +113,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data warehouse key concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-warehouse-key-concepts?u=76281980)
+#### [Data warehouse key concepts](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-warehouse-key-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -126,7 +123,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-warehouse-key-concepts?u=76281980&t=8)** That's where the data warehouse comes into play.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-warehouse-key-concepts?u=76281980&t=12)** In layman terms, a data warehouse is a large warehouse that's filled with data rather than physical products.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-warehouse-key-concepts?u=76281980&t=12)** In layman terms, a data warehouse is a large warehouse that's filled with data rather than physical [[Microsoft Products|products]].
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-warehouse-key-concepts?u=76281980&t=19)** It's basically like a normal database, but very large in size.
 >
@@ -136,7 +133,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-warehouse-key-concepts?u=76281980&t=43)** Here is an example.
 >
-> **[0:46](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-warehouse-key-concepts?u=76281980&t=46)** Assume that you go to an e-commerce website to buy a product.
+> **[0:46](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-warehouse-key-concepts?u=76281980&t=46)** Assume that you go to an [[E-Commerce]] website to buy a product.
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-warehouse-key-concepts?u=76281980&t=50)** Once you buy something, a transactional order gets generated.
 >
@@ -144,7 +141,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-warehouse-key-concepts?u=76281980&t=62)** Later on, this entry from a database will move to a data warehouse by a process popularly known as the extract, transform, and load process or ETL.
 >
-> **[1:16](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-warehouse-key-concepts?u=76281980&t=76)** Data warehouse gets data from variety of databases.
+> **[1:16](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-warehouse-key-concepts?u=76281980&t=76)** Data warehouse gets data from variety of [[Databases]].
 >
 > **[1:20](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-warehouse-key-concepts?u=76281980&t=80)** In an organization, multiple departments and projects might have their own databases.
 >
@@ -172,7 +169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), database (8), [[Databases]] (5), [[E-Commerce]] (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Databases]] (5), [[E-Commerce]] (2), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2), known as (2), is an  (1), in other words (1)
 > **Env Vars:** oltp (2), olap (2), etl (1)
 > **CLI Commands:** make (1)
@@ -181,8 +178,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Importance of data warehouses
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/importance-of-data-warehouses?u=76281980)
+#### [Importance of data warehouses](https://www.linkedin.com/learning/introduction-to-data-warehouses/importance-of-data-warehouses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -196,7 +192,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-data-warehouses/importance-of-data-warehouses?u=76281980&t=25)** It also makes it easier to access the data.
 >
-> **[0:29](https://www.linkedin.com/learning/introduction-to-data-warehouses/importance-of-data-warehouses?u=76281980&t=29)** Instead of having to search through multiple databases and systems, all of the is stored in one place.
+> **[0:29](https://www.linkedin.com/learning/introduction-to-data-warehouses/importance-of-data-warehouses?u=76281980&t=29)** Instead of having to search through multiple [[Databases]] and systems, all of the is stored in one place.
 >
 > **[0:37](https://www.linkedin.com/learning/introduction-to-data-warehouses/importance-of-data-warehouses?u=76281980&t=37)** This makes it easier for the team to find the information they need quickly and easily.
 >
@@ -204,11 +200,11 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-data-warehouses/importance-of-data-warehouses?u=76281980&t=51)** With all of your data in one place, it's easier to spot trends and patterns that can help your business make better decisions.
 >
-> **[1:00](https://www.linkedin.com/learning/introduction-to-data-warehouses/importance-of-data-warehouses?u=76281980&t=60)** For example, a retail store might use data from data warehouse to identify which products are selling well and which aren't so they can adjust their inventory accordingly.
+> **[1:00](https://www.linkedin.com/learning/introduction-to-data-warehouses/importance-of-data-warehouses?u=76281980&t=60)** For example, a retail store might use data from data warehouse to identify which [[Microsoft Products|products]] are selling well and which aren't so they can adjust their inventory accordingly.
 >
 > **[1:13](https://www.linkedin.com/learning/introduction-to-data-warehouses/importance-of-data-warehouses?u=76281980&t=73)** Additionally, analyzing the data from data warehouse will eliminate the reporting load from the transactional database and avoid slowing it down.
 >
-> **[1:23](https://www.linkedin.com/learning/introduction-to-data-warehouses/importance-of-data-warehouses?u=76281980&t=83)** Data warehousing also allows for better data security.
+> **[1:23](https://www.linkedin.com/learning/introduction-to-data-warehouses/importance-of-data-warehouses?u=76281980&t=83)** [[Data Warehousing]] also allows for better [[Data Security]].
 >
 > **[1:27](https://www.linkedin.com/learning/introduction-to-data-warehouses/importance-of-data-warehouses?u=76281980&t=87)** With all of your data in one place it's easier to protect it from unauthorized access and keep it safe from cyber threats.
 >
@@ -222,15 +218,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), business (2), [[Search]] (1), [[Databases]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Microsoft Products|Products]] (1), [[Data Warehousing]] (1), [[Data Security]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data lake vs. data warehouse
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-lake-vs-data-warehouse?u=76281980)
+#### [Data lake vs. data warehouse](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-lake-vs-data-warehouse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -250,9 +245,9 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-lake-vs-data-warehouse?u=76281980&t=40)** It is a type of data with a well-defined schema.
 >
-> **[0:42](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-lake-vs-data-warehouse?u=76281980&t=42)** For example, tables in relational databases.
+> **[0:42](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-lake-vs-data-warehouse?u=76281980&t=42)** For example, tables in [[Relational Databases]].
 >
-> **[0:46](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-lake-vs-data-warehouse?u=76281980&t=46)** There, we have fixed number of columns and data types for every row, while unstructured data has no fixed schema.
+> **[0:46](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-lake-vs-data-warehouse?u=76281980&t=46)** There, we have fixed number of columns and data types for every row, while [[Unstructured Data]] has no fixed schema.
 >
 > **[0:55](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-lake-vs-data-warehouse?u=76281980&t=55)** Examples include a plain text file, image, audio, or a video file.
 >
@@ -266,7 +261,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-lake-vs-data-warehouse?u=76281980&t=90)** In a data lake, data is only processed when needed.
 >
-> **[1:34](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-lake-vs-data-warehouse?u=76281980&t=94)** This allows for faster data ingestion and greater flexibility.
+> **[1:34](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-lake-vs-data-warehouse?u=76281980&t=94)** This allows for faster [[Data Ingestion]] and greater flexibility.
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-lake-vs-data-warehouse?u=76281980&t=99)** In a data warehouse, data is typically transformed and organized before it is stored, which can take longer, but allows for faster querying and analysis.
 >
@@ -284,14 +279,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (36), database (1), [[Relational Databases]] (1), [[Unstructured Data]] (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (1), [[Unstructured Data]] (1), [[Data Ingestion]] (1)
 > **Definitions:** is a  (4), means that (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data mart vs. data warehouse
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-mart-vs-data-warehouse?u=76281980)
+#### [Data mart vs. data warehouse](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-mart-vs-data-warehouse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -309,7 +303,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-mart-vs-data-warehouse?u=76281980&t=36)** For example, imagine a retail company that has a data warehouse that stores all of its sales data.
 >
-> **[0:44](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-mart-vs-data-warehouse?u=76281980&t=44)** The finance department might have a data mart that is focused on financial data, such as sales by store.
+> **[0:44](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-mart-vs-data-warehouse?u=76281980&t=44)** The finance department might have a data mart that is focused on [[Financial Data]], such as sales by store.
 >
 > **[0:52](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-mart-vs-data-warehouse?u=76281980&t=52)** While the marketing department might have a data mart that is focused on customer data, such as demographics and purchasing habits.
 >
@@ -325,18 +319,17 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-mart-vs-data-warehouse?u=76281980&t=108)** Now that you understand the difference between a data warehouse and a data mart, try applying this knowledge to a real-world scenario.
 >
-> **[1:56](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-mart-vs-data-warehouse?u=76281980&t=116)** Think of an organization you're familiar with and brainstorm example of how a data warehouse and data mart might be used to support decision-making and analysis within that organization.
+> **[1:56](https://www.linkedin.com/learning/introduction-to-data-warehouses/data-mart-vs-data-warehouse?u=76281980&t=116)** Think of an organization you're familiar with and brainstorm example of how a data warehouse and data mart might be used to support [[Decision-Making]] and analysis within that organization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Financial Data]] (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Financial Data]] (1), [[Decision-Making]] (1)
 > **Analogies:** such as (4), for example (1), imagine (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** ecg (1), mri (1)
 > **Speakers:** - [instructor] (1)
 
-#### ETL process
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/etl-process?u=76281980)
+#### [ETL process](https://www.linkedin.com/learning/introduction-to-data-warehouses/etl-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -356,7 +349,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/introduction-to-data-warehouses/etl-process?u=76281980&t=52)** Similarly, take another example of banks.
 >
-> **[0:55](https://www.linkedin.com/learning/introduction-to-data-warehouses/etl-process?u=76281980&t=55)** A bank may have customer information stored in different systems, such as an online banking which could be one database.
+> **[0:55](https://www.linkedin.com/learning/introduction-to-data-warehouses/etl-process?u=76281980&t=55)** A bank may have customer information stored in different systems, such as an online [[Banking]] which could be one database.
 >
 > **[1:03](https://www.linkedin.com/learning/introduction-to-data-warehouses/etl-process?u=76281980&t=63)** ATM transaction might have another database and branches might have their own separate database.
 >
@@ -370,18 +363,17 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/introduction-to-data-warehouses/etl-process?u=76281980&t=119)** There are variety of tools such as SSIS and Informatica which are specifically used for ETL purpose.
 >
-> **[2:06](https://www.linkedin.com/learning/introduction-to-data-warehouses/etl-process?u=76281980&t=126)** Next, let's explore different popular data warehousing options and see which one is best for you.
+> **[2:06](https://www.linkedin.com/learning/introduction-to-data-warehouses/etl-process?u=76281980&t=126)** Next, let's explore different popular [[Data Warehousing]] options and see which one is best for you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), etl (6), database (3), [[Analytics]] (2), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Banking]] (1), [[Data Warehousing]] (1)
 > **Env Vars:** etl (6), atm (1), ssis (1)
 > **Analogies:** such as (6)
 > **Definitions:** stands for (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Traditional data warehouse options
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/traditional-data-warehouse-options?u=76281980)
+#### [Traditional data warehouse options](https://www.linkedin.com/learning/introduction-to-data-warehouses/traditional-data-warehouse-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -391,9 +383,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-data-warehouses/traditional-data-warehouse-options?u=76281980&t=15)** Let's explore the variety of data warehouse used commonly across the industry.
 >
-> **[0:21](https://www.linkedin.com/learning/introduction-to-data-warehouses/traditional-data-warehouse-options?u=76281980&t=21)** When it comes to, specifically, traditional data warehousing, some of the most popular options include Teradata, IBM Db2, Oracle Database, Microsoft SQL Server and MySQL.
+> **[0:21](https://www.linkedin.com/learning/introduction-to-data-warehouses/traditional-data-warehouse-options?u=76281980&t=21)** When it comes to, specifically, traditional [[Data Warehousing]], some of the most popular options include Teradata, IBM Db2, Oracle Database, [[Microsoft SQL Server]] and [[MySQL]].
 >
-> **[0:34](https://www.linkedin.com/learning/introduction-to-data-warehouses/traditional-data-warehouse-options?u=76281980&t=34)** Starting with Teradata, this is a relational database management system known for its scalability and high performance.
+> **[0:34](https://www.linkedin.com/learning/introduction-to-data-warehouses/traditional-data-warehouse-options?u=76281980&t=34)** Starting with Teradata, this is a relational [[Database Management]] system known for its [[Scalability]] and high performance.
 >
 > **[0:43](https://www.linkedin.com/learning/introduction-to-data-warehouses/traditional-data-warehouse-options?u=76281980&t=43)** It's a popular choice for large enterprises, particularly those in telecommunication and finance.
 >
@@ -407,15 +399,15 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/introduction-to-data-warehouses/traditional-data-warehouse-options?u=76281980&t=78)** Microsoft SQL Server is another relational database management system.
 >
-> **[1:23](https://www.linkedin.com/learning/introduction-to-data-warehouses/traditional-data-warehouse-options?u=76281980&t=83)** It is known for its ease of use and integration with other Microsoft products.
+> **[1:23](https://www.linkedin.com/learning/introduction-to-data-warehouses/traditional-data-warehouse-options?u=76281980&t=83)** It is known for its ease of use and integration with other [[Microsoft Products]].
 >
 > **[1:28](https://www.linkedin.com/learning/introduction-to-data-warehouses/traditional-data-warehouse-options?u=76281980&t=88)** It's a popular choice for small and medium sized businesses.
 >
 > **[1:33](https://www.linkedin.com/learning/introduction-to-data-warehouses/traditional-data-warehouse-options?u=76281980&t=93)** MySQL is a popular open-source relational database management system that is known for being cost-effective and easy to use.
 >
-> **[1:43](https://www.linkedin.com/learning/introduction-to-data-warehouses/traditional-data-warehouse-options?u=76281980&t=103)** It's a popular choice for small and medium-sized businesses, particularly those in ecommerce and web development industries.
+> **[1:43](https://www.linkedin.com/learning/introduction-to-data-warehouses/traditional-data-warehouse-options?u=76281980&t=103)** It's a popular choice for small and medium-sized businesses, particularly those in ecommerce and [[Web Development]] industries.
 >
-> **[1:52](https://www.linkedin.com/learning/introduction-to-data-warehouses/traditional-data-warehouse-options?u=76281980&t=112)** In addition to these options, there are also other traditional data warehousing options available on the market, such as PostgreSQL and SQLite.
+> **[1:52](https://www.linkedin.com/learning/introduction-to-data-warehouses/traditional-data-warehouse-options?u=76281980&t=112)** In addition to these options, there are also other traditional data warehousing options available on the market, such as [[PostgreSQL]] and SQLite.
 >
 > **[2:03](https://www.linkedin.com/learning/introduction-to-data-warehouses/traditional-data-warehouse-options?u=76281980&t=123)** Now that you have a better understanding of some of the popular traditional data warehouse options, research some of the options and see which one fits your data warehousing needs.
 >
@@ -423,7 +415,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (7), management (5), [[Microsoft SQL Server]] (2), [[MySQL]] (2)
+> **Frameworks & Libraries:** [[Database Management]] (5), [[Data Warehousing]] (3), [[Microsoft SQL Server]] (2), [[MySQL]] (2), [[Scalability]] (2)
 > **Env Vars:** ibm (2), sql (2)
 > **Definitions:** is a  (4)
 > **CLI Commands:** mysql (2)
@@ -436,8 +428,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dimensional modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/dimensional-modeling?u=76281980)
+#### [Dimensional modeling](https://www.linkedin.com/learning/introduction-to-data-warehouses/dimensional-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -445,7 +436,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-data-warehouses/dimensional-modeling?u=76281980&t=8)** The answer is dimensional modeling.
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-data-warehouses/dimensional-modeling?u=76281980&t=11)** Dimensional modeling is a data modeling technique used to organize and structure a data in a data warehouse.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-data-warehouses/dimensional-modeling?u=76281980&t=11)** Dimensional modeling is a [[Data Modeling]] technique used to organize and structure a data in a data warehouse.
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-data-warehouses/dimensional-modeling?u=76281980&t=18)** Dimensional modeling helps organize data in a way that solves a business problem by creating a model that is optimized for querying and analysis.
 >
@@ -483,15 +474,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), product (4), business (1), next (1)
+> **Frameworks & Libraries:** [[Data Modeling]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dimensional modeling vs. a traditional approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/dimensional-modeling-vs-a-traditional-approach?u=76281980)
+#### [Dimensional modeling vs. a traditional approach](https://www.linkedin.com/learning/introduction-to-data-warehouses/dimensional-modeling-vs-a-traditional-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -537,14 +527,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** next video (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Facts
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/facts?u=76281980)
+#### [Facts](https://www.linkedin.com/learning/introduction-to-data-warehouses/facts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -552,7 +540,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-data-warehouses/facts?u=76281980&t=8)** These facts can be numerical or quantitative values.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-data-warehouses/facts?u=76281980&t=12)** A fact could be the number of products sold, the total sales amount, or the number of customer complaints.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-data-warehouses/facts?u=76281980&t=12)** A fact could be the number of [[Microsoft Products|products]] sold, the total sales amount, or the number of customer complaints.
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-data-warehouses/facts?u=76281980&t=18)** To make these facts meaningful and useful, we organize them into facts tables.
 >
@@ -586,20 +574,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Products|Products]] (1), product (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Dimensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/dimensions?u=76281980)
+#### [Dimensions](https://www.linkedin.com/learning/introduction-to-data-warehouses/dimensions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-data-warehouses/dimensions?u=76281980&t=0)** - [Instructor] A dimension in the data warehousing is a way of categorizing facts or information in your data.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-data-warehouses/dimensions?u=76281980&t=0)** - [Instructor] A dimension in the [[Data Warehousing]] is a way of categorizing facts or information in your data.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-data-warehouses/dimensions?u=76281980&t=7)** Imagine having a bunch of puzzle pieces and each piece represent a fact about your business such as the number of products sold or total sales amount.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-data-warehouses/dimensions?u=76281980&t=7)** Imagine having a bunch of puzzle pieces and each piece represent a fact about your business such as the number of [[Microsoft Products|products]] sold or total sales amount.
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-data-warehouses/dimensions?u=76281980&t=18)** The dimensions provide the context for these puzzle pieces, allowing you to categorize and group them in a meaningful ways.
 >
@@ -627,18 +614,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (1), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Warehousing]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (3), for example (2), imagine (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Star schema
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/star-schema?u=76281980)
+#### [Star schema](https://www.linkedin.com/learning/introduction-to-data-warehouses/star-schema?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-data-warehouses/star-schema?u=76281980&t=0)** - [Instructor] A star schema is a data modeling technique used in data warehousing.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-data-warehouses/star-schema?u=76281980&t=0)** - [Instructor] A star schema is a [[Data Modeling]] technique used in [[Data Warehousing]].
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-data-warehouses/star-schema?u=76281980&t=5)** It's called a star schema because the diagram of the schema look like a star with one center table, which we call the fact table, surrounded by multiple tables, which we call the dimension table.
 >
@@ -684,19 +670,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), database (2), next (1)
+> **Frameworks & Libraries:** [[Data Modeling]] (1), [[Data Warehousing]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** such as (2), imagine (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Snowflake schema
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/snowflake-schema?u=76281980)
+#### [Snowflake schema](https://www.linkedin.com/learning/introduction-to-data-warehouses/snowflake-schema?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-data-warehouses/snowflake-schema?u=76281980&t=0)** - [Instructor] A snowflake schema is a multi-dimensional data model that is used in data warehousing.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-data-warehouses/snowflake-schema?u=76281980&t=0)** - [Instructor] A [[Snowflake]] schema is a multi-dimensional data model that is used in [[Data Warehousing]].
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-data-warehouses/snowflake-schema?u=76281980&t=6)** It's called a snowflake schema because of its unique structure that looks like a snowflake.
 >
@@ -732,7 +717,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Snowflake]] (9), next (2)
+> **Frameworks & Libraries:** [[Snowflake]] (9), [[Data Warehousing]] (4)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -744,16 +729,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to install SQL Server
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-install-sql-server?u=76281980)
+#### [How to install SQL Server](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-install-sql-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-install-sql-server?u=76281980&t=0)** - [Instructor] Before we get started I will be using a Windows PC for demo purposes.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-install-sql-server?u=76281980&t=0)** - [Instructor] Before we get started I will be using a [[Windows]] PC for demo purposes.
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-install-sql-server?u=76281980&t=5)** Now, as you understand the concepts let's start building our first data warehouse solution.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-install-sql-server?u=76281980&t=12)** The first step to download and install SQL Server is to go to the Microsoft website.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-install-sql-server?u=76281980&t=12)** The first step to download and install [[Microsoft SQL Server|SQL Server]] is to go to the [[Microsoft]] website.
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-install-sql-server?u=76281980&t=18)** You will start at this URL.
 >
@@ -801,7 +785,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-install-sql-server?u=76281980&t=153)** Now let's click on the Install button.
 >
-> **[2:36](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-install-sql-server?u=76281980&t=156)** Now, this will going to take some time, so meanwhile you can take a rest or grab a cup of coffee.
+> **[2:36](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-install-sql-server?u=76281980&t=156)** Now, this will going to take some time, so meanwhile you can take a [[Representational State Transfer (REST)|rest]] or grab a cup of coffee.
 >
 > **[2:47](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-install-sql-server?u=76281980&t=167)** Finally, after waiting for a brief period of time, our SQL Server Developer Edition has been installed successfully.
 >
@@ -837,7 +821,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (12), prompt (2), [[Windows]] (1), data (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (12), [[Windows]] (1), [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (12), ssms (3), url (1), sql2022 (1), ssei (1)
 > **UI Navigation:** click on (4), go to (1), scroll down (1), double-click (1)
 > **Tools:** command line (2), command prompt (2)
@@ -846,12 +830,11 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to connect SSMS to SQL Server
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-connect-ssms-to-sql-server?u=76281980)
+#### [How to connect SSMS to SQL Server](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-connect-ssms-to-sql-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-connect-ssms-to-sql-server?u=76281980&t=0)** - Installing the SSMS status, SQL Server Management Studio can be done in multiple ways.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-connect-ssms-to-sql-server?u=76281980&t=0)** - Installing the SSMS status, [[Microsoft SQL Server|SQL Server]] Management Studio can be done in multiple ways.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-connect-ssms-to-sql-server?u=76281980&t=6)** One way is to directly click on this install SSMS button.
 >
@@ -897,7 +880,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), management (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3)
 > **Env Vars:** ssms (6), sql (3)
 > **UI Navigation:** click on (6), open the (1), go to (1)
 > **Prerequisites:** install (4)
@@ -905,16 +888,15 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - installing (1)
 
-#### How to create a data warehouse using SQL Server
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-create-a-data-warehouse-using-sql-server?u=76281980)
+#### [How to create a data warehouse using SQL Server](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-create-a-data-warehouse-using-sql-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-create-a-data-warehouse-using-sql-server?u=76281980&t=0)** - [Instructor] Now, as we have installed SQL Server and SSMS successfully, hence, it's a time to create our first data warehouse.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-create-a-data-warehouse-using-sql-server?u=76281980&t=0)** - [Instructor] Now, as we have installed [[Microsoft SQL Server|SQL Server]] and SSMS successfully, hence, it's a time to create our first data warehouse.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-create-a-data-warehouse-using-sql-server?u=76281980&t=10)** So let me open the SSMS.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-create-a-data-warehouse-using-sql-server?u=76281980&t=12)** For that, go down to your Windows search bar, type in SSMS and it'll show you SQL Server Management Studio.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-create-a-data-warehouse-using-sql-server?u=76281980&t=12)** For that, go down to your [[Windows]] search bar, type in SSMS and it'll show you SQL Server Management Studio.
 >
 > **[0:22](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-create-a-data-warehouse-using-sql-server?u=76281980&t=22)** Click open.
 >
@@ -998,7 +980,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-create-a-data-warehouse-using-sql-server?u=76281980&t=236)** So it's like we are creating the foreign key relationship.
 >
-> **[4:01](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-create-a-data-warehouse-using-sql-server?u=76281980&t=241)** We can do this either through this UI, or you can do through SQL Query as well.
+> **[4:01](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-create-a-data-warehouse-using-sql-server?u=76281980&t=241)** We can do this either through this UI, or you can do through [[SQL]] Query as well.
 >
 > **[4:08](https://www.linkedin.com/learning/introduction-to-data-warehouses/how-to-create-a-data-warehouse-using-sql-server?u=76281980&t=248)** And now let's say okay, and say, okay.
 >
@@ -1016,7 +998,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), database (7), product (7), [[Microsoft SQL Server|Sql server]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[Windows]] (1), [[SQL]] (1)
 > **UI Navigation:** click on (7), go to (4), open the (1)
 > **Env Vars:** sql (3), ssms (3)
 > **CLI Commands:** make (3)
@@ -1030,8 +1012,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud data warehouse
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse?u=76281980)
+#### [Cloud data warehouse](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1045,7 +1026,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse?u=76281980&t=24)** You might store data from your website, mobile apps, social media and in store purchase in a cloud data warehouse.
 >
-> **[0:32](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse?u=76281980&t=32)** Then you can use specialized tools such as SQL or data visualization software to extract insights from it.
+> **[0:32](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse?u=76281980&t=32)** Then you can use specialized tools such as [[SQL]] or data visualization software to extract insights from it.
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse?u=76281980&t=41)** So as you can see, a cloud data warehouse is a powerful tool for any company looking to utilize its data for analytics purposes.
 >
@@ -1053,15 +1034,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), cloud (5), [[SQL]] (1), [[Analytics]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** sql (1)
 > **Cross-References:** next video (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud vs. on-premises data warehouse
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-vs-on-premises-data-warehouse?u=76281980)
+#### [Cloud vs. on-premises data warehouse](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-vs-on-premises-data-warehouse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1083,9 +1063,9 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-vs-on-premises-data-warehouse?u=76281980&t=57)** One, it can be expensive and time consuming to set up and maintain.
 >
-> **[1:02](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-vs-on-premises-data-warehouse?u=76281980&t=62)** Companies need to invest in hardware, softwares, and IT staff to manage their own data center.
+> **[1:02](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-vs-on-premises-data-warehouse?u=76281980&t=62)** Companies need to invest in [[Hardware]], softwares, and IT staff to manage their own data center.
 >
-> **[1:10](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-vs-on-premises-data-warehouse?u=76281980&t=70)** On-premise data warehouses can also be limited in their scalability, as the amount of data that can be stored is dependent on the physical space available in the server room.
+> **[1:10](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-vs-on-premises-data-warehouse?u=76281980&t=70)** On-premise data warehouses can also be limited in their [[Scalability]], as the amount of data that can be stored is dependent on the physical space available in the server room.
 >
 > **[1:23](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-vs-on-premises-data-warehouse?u=76281980&t=83)** Now let's talk about cloud data warehouses.
 >
@@ -1093,7 +1073,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-vs-on-premises-data-warehouse?u=76281980&t=94)** One of the biggest advantage of cloud data warehouses is their scalability.
 >
-> **[1:39](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-vs-on-premises-data-warehouse?u=76281980&t=99)** Companies can easily scale up or down their data storage and processing capabilities as their needs change without the need for physical servers or additional IT staff.
+> **[1:39](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-vs-on-premises-data-warehouse?u=76281980&t=99)** Companies can easily scale up or down their [[Data Storage]] and processing capabilities as their needs change without the need for physical servers or additional IT staff.
 >
 > **[1:52](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-vs-on-premises-data-warehouse?u=76281980&t=112)** Cloud data warehouses are also often more cost effective as companies only pay for the storage and processing power they need rather than having to invest in expensive hardware.
 >
@@ -1107,7 +1087,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-vs-on-premises-data-warehouse?u=76281980&t=158)** However, there is also some downside to cloud data warehouses.
 >
-> **[2:42](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-vs-on-premises-data-warehouse?u=76281980&t=162)** First, there can be concerns around data security and privacy as data is stored on remote servers that may not be the under company's control.
+> **[2:42](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-vs-on-premises-data-warehouse?u=76281980&t=162)** First, there can be concerns around [[Data Security]] and [[Privacy]] as data is stored on remote servers that may not be the under company's control.
 >
 > **[2:53](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-vs-on-premises-data-warehouse?u=76281980&t=173)** Secondly, cloud data warehouses can also be slower and less reliable as data needs to be travel over the internet and can be affected by network condition or outages.
 >
@@ -1117,14 +1097,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), cloud (11), [[Hardware]] (2), [[Scalability]] (2), business (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Scalability]] (2), [[Data Storage]] (1), [[Data Security]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud data warehouse options
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse-options?u=76281980)
+#### [Cloud data warehouse options](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1138,21 +1117,21 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse-options?u=76281980&t=29)** One of the biggest advantages of Amazon Redshift is its integration with other Amazon services, such as Amazon S3 and Amazon EMR.
 >
-> **[0:40](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse-options?u=76281980&t=40)** Another popular cloud data warehouse option is Microsoft Azure Synapse Analytics, which is a fully managed, petabyte-scale analytics service that can be handled both structured and unstructured data.
+> **[0:40](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse-options?u=76281980&t=40)** Another popular cloud data warehouse option is [[Microsoft Azure]] Synapse Analytics, which is a fully managed, petabyte-scale analytics service that can be handled both structured and [[Unstructured Data]].
 >
-> **[0:54](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse-options?u=76281980&t=54)** One of the biggest advantage of Azure Synapse Analytics is its integration with other Microsoft Azure services such as Azure Data Factory and Azure Databricks.
+> **[0:54](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse-options?u=76281980&t=54)** One of the biggest advantage of [[Microsoft Azure|Azure]] Synapse Analytics is its integration with other Microsoft Azure services such as Azure Data Factory and [[Azure Databricks]].
 >
-> **[1:05](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse-options?u=76281980&t=65)** This makes it easy to move data into and out of the Synapse Analytics and to perform big data processing tasks using Databricks.
+> **[1:05](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse-options?u=76281980&t=65)** This makes it easy to move data into and out of the Synapse Analytics and to perform [[Big Data]] processing tasks using Databricks.
 >
-> **[1:14](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse-options?u=76281980&t=74)** Next one is Google BigQuery.
+> **[1:14](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse-options?u=76281980&t=74)** Next one is [[Google]] BigQuery.
 >
 > **[1:17](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse-options?u=76281980&t=77)** It is fully managed, serverless data warehouse that can handle large amounts of data.
 >
-> **[1:23](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse-options?u=76281980&t=83)** BigQuery is designed to be fast and easy to use, with a SQL-like interface that makes it accessible to both developers and analysts.
+> **[1:23](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse-options?u=76281980&t=83)** BigQuery is designed to be fast and easy to use, with a [[SQL]]-like interface that makes it accessible to both developers and analysts.
 >
-> **[1:34](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse-options?u=76281980&t=94)** It can also be integrated with other Google products like Cloud Storage and Data Studio.
+> **[1:34](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse-options?u=76281980&t=94)** It can also be integrated with other Google [[Microsoft Products|products]] like [[Cloud Storage]] and Data Studio.
 >
-> **[1:41](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse-options?u=76281980&t=101)** Finally, there's Snowflake, which is a cloud-native data warehouse that can handle both structured and semi-structured data.
+> **[1:41](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse-options?u=76281980&t=101)** Finally, there's [[Snowflake]], which is a cloud-native data warehouse that can handle both structured and semi-structured data.
 >
 > **[1:50](https://www.linkedin.com/learning/introduction-to-data-warehouses/cloud-data-warehouse-options?u=76281980&t=110)** Snowflake is designed to be fast, flexible, and easy to use with a SQL-like interface that makes it accessible to both developers and analysts.
 >
@@ -1174,7 +1153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), cloud (8), [[Analytics]] (4), business (3), [[Snowflake]] (3)
+> **Frameworks & Libraries:** [[Snowflake]] (3), [[Microsoft Azure]] (2), [[Microsoft Azure|Azure]] (2), [[Google]] (2), [[SQL]] (2)
 > **Env Vars:** sql (2), emr (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2)
@@ -1185,8 +1164,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-warehouses/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/introduction-to-data-warehouses/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1196,9 +1174,9 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-data-warehouses/next-steps?u=76281980&t=14)** I encourage you to keep moving forward in your learning journey.
 >
-> **[0:18](https://www.linkedin.com/learning/introduction-to-data-warehouses/next-steps?u=76281980&t=18)** You can start by taking my live data engineering course, Mission 100 Azure Data Engineer.
+> **[0:18](https://www.linkedin.com/learning/introduction-to-data-warehouses/next-steps?u=76281980&t=18)** You can start by taking my live [[Data Engineering]] course, Mission 100 [[Microsoft Azure|Azure]] Data Engineer.
 >
-> **[0:25](https://www.linkedin.com/learning/introduction-to-data-warehouses/next-steps?u=76281980&t=25)** You can find the program on my LinkedIn profile page itself.
+> **[0:25](https://www.linkedin.com/learning/introduction-to-data-warehouses/next-steps?u=76281980&t=25)** You can find the program on my [[LinkedIn]] profile page itself.
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-data-warehouses/next-steps?u=76281980&t=29)** Again, my name is Deepak Goyal, and it has been both my pleasure and honor to teach you the skill of data warehouse.
 >
@@ -1206,7 +1184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Data Engineering]] (1), [[Microsoft Azure|Azure]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (1), [[Microsoft Azure|Azure]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [deepak] (1)
 

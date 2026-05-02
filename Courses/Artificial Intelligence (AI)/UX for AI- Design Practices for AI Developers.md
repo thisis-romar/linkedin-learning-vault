@@ -77,18 +77,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing for AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/designing-for-ai?u=76281980)
+#### [Designing for AI](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/designing-for-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/designing-for-ai?u=76281980&t=0)** - When I talk with businesses using this new kind of AI, they all inevitably ask how do we make an incredible UX using this copilot stack?
+> **[0:00](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/designing-for-ai?u=76281980&t=0)** - When I talk with businesses using this new kind of AI, they all inevitably ask how do we make an incredible UX using this [[Microsoft Copilot|copilot]] stack?
 >
 > **[0:09](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/designing-for-ai?u=76281980&t=9)** Well, the answer isn't a pretty UX, it's a collaborative UX.
 >
 > **[0:15](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/designing-for-ai?u=76281980&t=15)** In my course, I'm going to walk you through seven essential principles to use the copilot stack in real world applications for real people, not just developers.
 >
-> **[0:26](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/designing-for-ai?u=76281980&t=26)** Hi, I'm John Maeda, VP of Design and AI at Microsoft.
+> **[0:26](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/designing-for-ai?u=76281980&t=26)** Hi, I'm [[John the Ripper|John]] Maeda, VP of Design and AI at [[Microsoft]].
 >
 > **[0:31](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/designing-for-ai?u=76281980&t=31)** This new kind of AI UX is nothing like we've seen in the past.
 >
@@ -96,16 +95,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (4), ai (3), [[Microsoft Copilot|Copilot]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), [[John the Ripper|John]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - when (1)
 
-#### What is copilot stack?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-copilot-stack?u=76281980)
+#### [What is copilot stack?](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-copilot-stack?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-copilot-stack?u=76281980&t=0)** - So if you were there at Microsoft Build either in the audience or attending remotely you learned about the copilot stack.
+> **[0:00](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-copilot-stack?u=76281980&t=0)** - So if you were there at [[Microsoft]] Build either in the audience or attending remotely you learned about the [[Microsoft Copilot|copilot]] stack.
 >
 > **[0:08](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-copilot-stack?u=76281980&t=8)** And the copilot stack was a bit radical because it put UX at the front of it.
 >
@@ -121,11 +119,11 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-copilot-stack?u=76281980&t=37)** In what ways?
 >
-> **[0:38](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-copilot-stack?u=76281980&t=38)** User experience, your app architecture and your concern for safety and security.
+> **[0:38](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-copilot-stack?u=76281980&t=38)** [[User Experience (UX)|User experience]], your app architecture and your concern for safety and security.
 >
 > **[0:45](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-copilot-stack?u=76281980&t=45)** You want to remember that AI used to be about building models and the model was the product but no longer.
 >
-> **[0:52](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-copilot-stack?u=76281980&t=52)** You're building products that use the model.
+> **[0:52](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-copilot-stack?u=76281980&t=52)** You're building [[Microsoft Products|products]] that use the model.
 >
 > **[0:55](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-copilot-stack?u=76281980&t=55)** You're making user experiences that use the model.
 >
@@ -147,7 +145,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-copilot-stack?u=76281980&t=88)** Above that, there's foundation models.
 >
-> **[1:31](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-copilot-stack?u=76281980&t=91)** Above that in the middle is AI orchestration, semantic kernel.
+> **[1:31](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-copilot-stack?u=76281980&t=91)** Above that in the middle is [[AI Orchestration]], [[Semantic Kernel]].
 >
 > **[1:35](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-copilot-stack?u=76281980&t=95)** You may have taken the course.
 >
@@ -173,7 +171,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-copilot-stack?u=76281980&t=149)** Now, as a developer, why do you care about this kind of AI and building with it?
 >
-> **[2:35](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-copilot-stack?u=76281980&t=155)** I don't have to convince you about that but you're going to have to use a new word collaborate.
+> **[2:35](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-copilot-stack?u=76281980&t=155)** I don't have to convince you about that but you're going to have to use a new [[Microsoft Word|word]] collaborate.
 >
 > **[2:41](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-copilot-stack?u=76281980&t=161)** That means collaborating with your marketing partners, your product partners, your design partners, your ops partners.
 >
@@ -185,7 +183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), ai (7), [[Security]] (3), product (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Microsoft Products|Products]] (2), [[Microsoft]] (1), [[User Experience (UX)|User experience]] (1), [[AI Orchestration]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** evp (1)
 > **Definitions:** is a  (1)
@@ -197,12 +195,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is collaborative UX?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-collaborative-ux?u=76281980)
+#### [What is collaborative UX?](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-collaborative-ux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-collaborative-ux?u=76281980&t=0)** - When you're building a copilot, an AI copilot, it's got to be a collaborative process.
+> **[0:00](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-collaborative-ux?u=76281980&t=0)** - When you're building a [[Microsoft Copilot|copilot]], an AI copilot, it's got to be a collaborative process.
 >
 > **[0:06](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-collaborative-ux?u=76281980&t=6)** You, the developer knows the technology, knows the math.
 >
@@ -228,13 +225,13 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-collaborative-ux?u=76281980&t=51)** The co-pilot is only as good as the human pilot.
 >
-> **[0:55](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-collaborative-ux?u=76281980&t=55)** CollaboroUX as a philosophy at Microsoft has been evolving rapidly in this copilot era and there's a bunch of people working on it at Microsoft.
+> **[0:55](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-collaborative-ux?u=76281980&t=55)** CollaboroUX as a philosophy at [[Microsoft]] has been evolving rapidly in this copilot era and there's a bunch of people working on it at Microsoft.
 >
 > **[1:04](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-collaborative-ux?u=76281980&t=64)** Shout out to you all.
 >
 > **[1:06](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-collaborative-ux?u=76281980&t=66)** Now, why do you care about building these experiences, these AI experiences?
 >
-> **[1:12](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-collaborative-ux?u=76281980&t=72)** It's because right now, big stuff is happening. (laughs) I'm sure you've noticed since the ChatGPT sonic boom, everyone's noticing that we got to ship AI in the product right now.
+> **[1:12](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-collaborative-ux?u=76281980&t=72)** It's because right now, big stuff is happening. (laughs) I'm sure you've noticed since the [[ChatGPT]] sonic boom, everyone's noticing that we got to ship AI in the product right now.
 >
 > **[1:27](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-collaborative-ux?u=76281980&t=87)** We need to work together.
 >
@@ -262,7 +259,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-collaborative-ux?u=76281980&t=173)** Now, as a developer thinking about design, it may be foreign to you, but I grew up as a software engineer from MIT.
 >
-> **[3:04](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-collaborative-ux?u=76281980&t=184)** I loved building things but never knew how to build things for people and went on a journey into design world and wrote a book called "The Laws of Simplicity" 10 Laws to enable you to design better technology products.
+> **[3:04](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-collaborative-ux?u=76281980&t=184)** I loved building things but never knew how to build things for people and went on a journey into design world and wrote a book called "The Laws of Simplicity" 10 Laws to enable you to design better technology [[Microsoft Products|products]].
 >
 > **[3:19](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-is-collaborative-ux?u=76281980&t=199)** That's 2006.
 >
@@ -294,13 +291,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), ai (8), ux (2), [[Microsoft]] (2), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[Microsoft]] (2), [[ChatGPT]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** mit (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - when (1)
 
-#### Collaborative UX practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/collaborative-ux-practices?u=76281980)
+#### [Collaborative UX practices](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/collaborative-ux-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -378,7 +374,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/collaborative-ux-practices?u=76281980&t=154)** That's the danger.
 >
-> **[2:36](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/collaborative-ux-practices?u=76281980&t=156)** And that's why collaborative UX isn't about collaborating with a sentient being, it's about, hate to be boring, the human's a pilot and the AI is a copilot.
+> **[2:36](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/collaborative-ux-practices?u=76281980&t=156)** And that's why collaborative UX isn't about collaborating with a sentient being, it's about, hate to be boring, the human's a pilot and the AI is a [[Microsoft Copilot|copilot]].
 >
 > **[2:47](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/collaborative-ux-practices?u=76281980&t=167)** Let's talk about one collaborative UX pattern.
 >
@@ -422,7 +418,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/collaborative-ux-practices?u=76281980&t=258)** Good news.
 >
-> **[4:19](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/collaborative-ux-practices?u=76281980&t=259)** With just these three basic patterns, you're well on your way to becoming an expert in collaborative UX that will be practiced at Microsoft.
+> **[4:19](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/collaborative-ux-practices?u=76281980&t=259)** With just these three basic patterns, you're well on your way to becoming an expert in collaborative UX that will be practiced at [[Microsoft]].
 >
 > **[4:27](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/collaborative-ux-practices?u=76281980&t=267)** Now remember that these patterns are grounded in the co-pilot stack, the tech stack might mind you.
 >
@@ -430,23 +426,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), ux (7), [[Microsoft Copilot|Copilot]] (3), chatbot (1), game (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Microsoft]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Env Vars:** mit (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - so (1)
 
-#### Copilot stack layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/copilot-stack-layers?u=76281980)
+#### [Copilot stack layers](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/copilot-stack-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/copilot-stack-layers?u=76281980&t=0)** - So the Copilot stack has five components and layers.
+> **[0:00](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/copilot-stack-layers?u=76281980&t=0)** - So the [[Microsoft Copilot|Copilot]] stack has five components and layers.
 >
-> **[0:05](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/copilot-stack-layers?u=76281980&t=5)** In the middle there is AI orchestration.
+> **[0:05](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/copilot-stack-layers?u=76281980&t=5)** In the middle there is [[AI Orchestration]].
 >
-> **[0:08](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/copilot-stack-layers?u=76281980&t=8)** That's to view Semantic Kernel.
+> **[0:08](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/copilot-stack-layers?u=76281980&t=8)** That's to view [[Semantic Kernel]].
 >
 > **[0:10](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/copilot-stack-layers?u=76281980&t=10)** You know what that is, it's about sequencing things.
 >
@@ -454,7 +449,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/copilot-stack-layers?u=76281980&t=16)** Below AI orchestration is foundation models, the reason why we're all here and curious about this new kind of AI.
 >
-> **[0:26](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/copilot-stack-layers?u=76281980&t=26)** And below foundation models is the AI infrastructure, the hardware that runs it all, GPU world.
+> **[0:26](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/copilot-stack-layers?u=76281980&t=26)** And below foundation models is the AI infrastructure, the [[Hardware]] that runs it all, GPU world.
 >
 > **[0:34](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/copilot-stack-layers?u=76281980&t=34)** We go above the AI orchestration level, we have UX, we wrap it.
 >
@@ -526,7 +521,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Orchestration]] (5), ux (5), [[Microsoft Copilot|Copilot]] (3), [[Semantic Kernel]] (1)
+> **Frameworks & Libraries:** [[AI Orchestration]] (5), [[Microsoft Copilot|Copilot]] (3), [[Semantic Kernel]] (1), [[Hardware]] (1)
 > **Env Vars:** gpu (1), led (1)
 > **CLI Commands:** snap (1)
 > **Cross-References:** in the next (1)
@@ -538,8 +533,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The three iron triangle dimensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/the-three-iron-triangle-dimensions?u=76281980)
+#### [The three iron triangle dimensions](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/the-three-iron-triangle-dimensions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -553,7 +547,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/the-three-iron-triangle-dimensions?u=76281980&t=14)** Why do these things matter?
 >
-> **[0:16](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/the-three-iron-triangle-dimensions?u=76281980&t=16)** These patterns help to cement that pilot human, copilot AI relationship.
+> **[0:16](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/the-three-iron-triangle-dimensions?u=76281980&t=16)** These patterns help to cement that pilot human, [[Microsoft Copilot|copilot]] AI relationship.
 >
 > **[0:24](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/the-three-iron-triangle-dimensions?u=76281980&t=24)** Why does this relationship so important to craft?
 >
@@ -561,7 +555,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/the-three-iron-triangle-dimensions?u=76281980&t=34)** But what's different is that this AI thing, powered by the copilot stack is so powerful, you got to get the relationship right.
 >
-> **[0:42](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/the-three-iron-triangle-dimensions?u=76281980&t=42)** And the way to reinforce it is in the user experience.
+> **[0:42](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/the-three-iron-triangle-dimensions?u=76281980&t=42)** And the way to reinforce it is in the [[User Experience (UX)|user experience]].
 >
 > **[0:46](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/the-three-iron-triangle-dimensions?u=76281980&t=46)** Why?
 >
@@ -603,13 +597,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), ai (4), ux (3), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[User Experience (UX)|User experience]] (1)
 > **Tools:** notion (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - okay (1)
 
-#### Dimension 1: Practices for speed
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-1-practices-for-speed?u=76281980)
+#### [Dimension 1: Practices for speed](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-1-practices-for-speed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -631,7 +624,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-1-practices-for-speed?u=76281980&t=44)** It alters perception and it makes something feel better.
 >
-> **[0:49](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-1-practices-for-speed?u=76281980&t=49)** In the modern day, when you use something like ChatGPT, what does it do?
+> **[0:49](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-1-practices-for-speed?u=76281980&t=49)** In the modern day, when you use something like [[ChatGPT]], what does it do?
 >
 > **[0:54](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-1-practices-for-speed?u=76281980&t=54)** It's stream text out character by character.
 >
@@ -657,7 +650,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-1-practices-for-speed?u=76281980&t=103)** "Oh, I'm doing this, I'm doing this, I'm doing this," while the thing is processing.
 >
-> **[1:48](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-1-practices-for-speed?u=76281980&t=108)** And the Copilot can make you the user feel better knowing that it's not being lazy.
+> **[1:48](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-1-practices-for-speed?u=76281980&t=108)** And the [[Microsoft Copilot|Copilot]] can make you the user feel better knowing that it's not being lazy.
 >
 > **[1:56](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-1-practices-for-speed?u=76281980&t=116)** The fifth collaborative UX pattern is to give citations for information that the Copilot generates, whenever possible.
 >
@@ -673,7 +666,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-1-practices-for-speed?u=76281980&t=165)** And the Copilot speedily provides references that they can browse while they're doing other things.
 >
-> **[2:51](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-1-practices-for-speed?u=76281980&t=171)** It's kind of like going to a doctor's office and the doctor's office is taking a while to get into.
+> **[2:51](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-1-practices-for-speed?u=76281980&t=171)** It's kind of like going to a doctor's [[Microsoft Office|office]] and the doctor's office is taking a while to get into.
 >
 > **[2:58](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-1-practices-for-speed?u=76281980&t=178)** And there's all these health magazines.
 >
@@ -687,17 +680,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), ux (3), ai (3), [[Microsoft Office|Office]] (2), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[Microsoft Office|Office]] (2), [[ChatGPT]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - so (1)
 
-#### Semantic coding for speed
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-speed?u=76281980)
+#### [Semantic coding for speed](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-speed?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-speed?u=76281980&t=0)** - Okay, I am in the GitHub repo for Semantic Kernel.
+> **[0:00](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-speed?u=76281980&t=0)** - Okay, I am in the [[GitHub]] repo for [[Semantic Kernel]].
 >
 > **[0:04](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-speed?u=76281980&t=4)** Those of you who are one of the tens of thousands of people who have completed the Semantic Kernel intro training, you'll know that this repo exists, but you might be looking at them like there looks kind of too much for me.
 >
@@ -711,7 +703,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-speed?u=76281980&t=55)** What it is is it's the new Semantic Kernel extension and the way you get it is you go to extensions and you type in Semantic Kernel and there it is.
 >
-> **[1:09](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-speed?u=76281980&t=69)** It lets you do quick prompt engineering without any installation of this that GitHub repo, can just get going really quickly.
+> **[1:09](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-speed?u=76281980&t=69)** It lets you do quick [[Prompt Engineering]] without any installation of this that GitHub repo, can just get going really quickly.
 >
 > **[1:20](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-speed?u=76281980&t=80)** Let's show you how that works.
 >
@@ -719,7 +711,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-speed?u=76281980&t=88)** I want to provide my OpenAI key and let me get that key, one second.
 >
-> **[1:33](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-speed?u=76281980&t=93)** And this works with Azure OpenAI or regular OpenAI.
+> **[1:33](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-speed?u=76281980&t=93)** And this works with [[Microsoft Azure|Azure]] OpenAI or regular OpenAI.
 >
 > **[1:39](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-speed?u=76281980&t=99)** And there I have all these endpoints available.
 >
@@ -751,7 +743,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-speed?u=76281980&t=192)** It is taking that function and oh, it's asking me for input.
 >
-> **[3:19](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-speed?u=76281980&t=199)** I forgot to say within the customers, banking in a retail location, you know that thing, they're like waiting.
+> **[3:19](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-speed?u=76281980&t=199)** I forgot to say within the customers, [[Banking]] in a retail location, you know that thing, they're like waiting.
 >
 > **[3:29](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-speed?u=76281980&t=209)** So you are at a bank and you've got this long line of people, dissimilar to a service, takes you long.
 >
@@ -763,7 +755,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-speed?u=76281980&t=233)** Let's say instead however, you wanted to have some quick illustration to place in context.
 >
-> **[4:00](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-speed?u=76281980&t=240)** Well, we can use these Semantic Kernel endpoints available for hugging face and we can use their open source text to image models to do something similar.
+> **[4:00](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-speed?u=76281980&t=240)** Well, we can use these Semantic Kernel endpoints available for [[Hugging Face]] and we can use their open source text to image models to do something similar.
 >
 > **[4:15](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-speed?u=76281980&t=255)** Let's make a plugin for, let's see here, latency is a thing.
 >
@@ -795,7 +787,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Semantic Kernel]] (7), [[GitHub]] (2), ux (2), ai (2), application (2)
+> **Frameworks & Libraries:** [[Semantic Kernel]] (7), [[GitHub]] (2), [[Banking]] (2), [[Prompt Engineering]] (1), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** go to (6)
 > **Tools:** github (2), vs code (1), visual studio (1)
 > **CLI Commands:** make (3)
@@ -804,8 +796,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - okay (1)
 
-#### Dimension 2: Practices for costs
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-2-practices-for-costs?u=76281980)
+#### [Dimension 2: Practices for costs](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-2-practices-for-costs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -823,7 +814,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-2-practices-for-costs?u=76281980&t=22)** But don't forget, developers love hard problems.
 >
-> **[0:26](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-2-practices-for-costs?u=76281980&t=26)** So consider all of these cool new open AI models, DaVinci, GPT-4.
+> **[0:26](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-2-practices-for-costs?u=76281980&t=26)** So consider all of these cool new open AI models, DaVinci, [[GPT-4]].
 >
 > **[0:34](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-2-practices-for-costs?u=76281980&t=34)** But DaVinci had its predecessor, Curie.
 >
@@ -839,7 +830,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-2-practices-for-costs?u=76281980&t=64)** It is the invisible craft.
 >
-> **[1:07](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-2-practices-for-costs?u=76281980&t=67)** This means, you as a developer are doing some pretty strange things in the copilot stack to reduce costs.
+> **[1:07](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-2-practices-for-costs?u=76281980&t=67)** This means, you as a developer are doing some pretty strange things in the [[Microsoft Copilot|copilot]] stack to reduce costs.
 >
 > **[1:17](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-2-practices-for-costs?u=76281980&t=77)** And in reality, you're not going to get a lot of credit for... Unless, you actually move the needle, so it costs less.
 >
@@ -859,7 +850,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), ai (1), [[GPT-4]] (1), ux (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), [[GPT-4]] (1)
 > **Env Vars:** ada (2), gpt (1), abcd (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -867,12 +858,11 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - so (1)
 
-#### Semantic coding for cost
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980)
+#### [Semantic coding for cost](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=0)** - [Instructor] Okay, we're back in the code, and we're worried about cost, and cost correlates to a lot of things in the AI world, especially in the model usage because it costs tokens to use them.
+> **[0:00](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=0)** - [Instructor] Okay, we're back in the code, and we're worried about cost, and cost correlates to a lot of things in the AI world, especially in the model usage because it costs [[Tokens]] to use them.
 >
 > **[0:15](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=15)** You may be using an open source modeling locally, so you're like, ah, no problem.
 >
@@ -906,7 +896,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=105)** You're out there listening hopefully, and you are a human.
 >
-> **[1:48](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=108)** So we're going to cache completions, and the Python code that's being used is able to generate embeddings from the text you give it.
+> **[1:48](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=108)** So we're going to cache completions, and the [[Python (Programming Language)|Python]] code that's being used is able to generate embeddings from the text you give it.
 >
 > **[2:04](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=124)** And of course, you can generate completions as well.
 >
@@ -920,7 +910,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=177)** I'll tell you like six months ago, I had no idea what I'm typing just now. (chuckles) So actually, in the spirit of that, let's say, let's actually do something different here.
 >
-> **[3:10](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=190)** Let's use the Semantic Kernel extension to summarize the previous text in plain language.
+> **[3:10](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=190)** Let's use the [[Semantic Kernel]] extension to summarize the previous text in plain language.
 >
 > **[3:22](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=202)** Okay, we're going to ask GPT-3 to translate my gobbledygook into different like, okay, result, caching, save, store results, cache completions, use vector similarity.
 >
@@ -930,7 +920,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=221)** We're going to increase the number of tokens available.
 >
-> **[3:46](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=226)** We can also do it here from the text file config.json.
+> **[3:46](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=226)** We can also do it here from the text file config.[[JSON]].
 >
 > **[3:52](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=232)** And okay, that's our strategy.
 >
@@ -940,7 +930,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=260)** They are both in Python.
 >
-> **[4:24](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=264)** Decode to construct rudimentary cache, will read as, and you know, if you have GitHub co-pilot installed, this happens automagically while you're typing.
+> **[4:24](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=264)** Decode to construct rudimentary cache, will read as, and you know, if you have [[GitHub]] co-pilot installed, this happens automagically while you're typing.
 >
 > **[4:36](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=276)** But just imagine you're a developer somewhere out there trying to figure stuff out.
 >
@@ -952,7 +942,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=296)** And I want to note that this is using GPT-3.
 >
-> **[5:01](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=301)** And if you try GPT-4, you'll quickly discover that the code it generates is probably like three to four times better.
+> **[5:01](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=301)** And if you try [[GPT-4]], you'll quickly discover that the code it generates is probably like three to four times better.
 >
 > **[5:12](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-cost?u=76281980&t=312)** But that's the kind of quick way to sort of play with ideas, like, oh, it costs a lot to use the model.
 >
@@ -972,7 +962,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[GitHub]] (3), [[Tokens]] (2), [[Engineering]] (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Tokens]] (2), [[Python (Programming Language)|Python]] (2), [[Semantic Kernel]] (1), [[JSON]] (1)
 > **Tools:** github (3), vs code (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** gpt (3)
@@ -981,8 +971,7 @@ created: 2026-05-02
 > **File Paths:** config.json (1)
 > **Warnings:** note that (1)
 
-#### Dimension 3: Practices for quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-3-practices-for-quality?u=76281980)
+#### [Dimension 3: Practices for quality](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-3-practices-for-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -996,11 +985,11 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-3-practices-for-quality?u=76281980&t=49)** For example, when we worked through speed, we found how, wow, this Collateral UX we're trying to create to change the perception of speed.
 >
-> **[0:59](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-3-practices-for-quality?u=76281980&t=59)** We can use the semantic coding build that we have now to be able to give us ideas, hints for how to actually improve the user experience, collaboratively with AI.
+> **[0:59](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-3-practices-for-quality?u=76281980&t=59)** We can use the semantic coding build that we have now to be able to give us ideas, hints for how to actually improve the [[User Experience (UX)|user experience]], collaboratively with AI.
 >
 > **[1:12](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-3-practices-for-quality?u=76281980&t=72)** And for cost, we're also able to ask questions about how to optimize how models get used.
 >
-> **[1:19](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-3-practices-for-quality?u=76281980&t=79)** The AI can generate actual code as our copilot to decrease costs.
+> **[1:19](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-3-practices-for-quality?u=76281980&t=79)** The AI can generate actual code as our [[Microsoft Copilot|copilot]] to decrease costs.
 >
 > **[1:24](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-3-practices-for-quality?u=76281980&t=84)** This intersection is magic.
 >
@@ -1012,20 +1001,19 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-3-practices-for-quality?u=76281980&t=112)** It takes a new kind of developer who understands syntax, regular coding and semantic AI coding just like you.
 >
-> **[2:02](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-3-practices-for-quality?u=76281980&t=122)** And they're also curious about how to use Collateral UX to change the perceptual angle and to use AI as their co-pilot to be able to make incredible products for people and discovering that they might have feelings about the product.
+> **[2:02](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-3-practices-for-quality?u=76281980&t=122)** And they're also curious about how to use Collateral UX to change the perceptual angle and to use AI as their co-pilot to be able to make incredible [[Microsoft Products|products]] for people and discovering that they might have feelings about the product.
 >
 > **[2:20](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-3-practices-for-quality?u=76281980&t=140)** They might have emotions, so next, let's get emotional.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), ux (3), prompt (1), power (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Microsoft Copilot|Copilot]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** cto (1)
 > **Speakers:** - everyone (1)
 
-#### Dimension 4: Practices for emotion
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-4-practices-for-emotion?u=76281980)
+#### [Dimension 4: Practices for emotion](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-4-practices-for-emotion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1049,7 +1037,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-4-practices-for-emotion?u=76281980&t=48)** The other blade is context, prompts, et cetera.
 >
-> **[0:51](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-4-practices-for-emotion?u=76281980&t=51)** The two together produce this incredible copilot world.
+> **[0:51](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-4-practices-for-emotion?u=76281980&t=51)** The two together produce this incredible [[Microsoft Copilot|copilot]] world.
 >
 > **[0:56](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/dimension-4-practices-for-emotion?u=76281980&t=56)** But don't forget what your parents told you.
 >
@@ -1117,13 +1105,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Microsoft Copilot|Copilot]] (2), product (2), ux (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2)
 > **CLI Commands:** make (6), find (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - so (1)
 
-#### Semantic coding for emotion
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-emotion?u=76281980)
+#### [Semantic coding for emotion](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-emotion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1137,7 +1124,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-emotion?u=76281980&t=21)** So, let's imagine we're going to cook a semantic function that is about, "define empathy for issue."
 >
-> **[0:36](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-emotion?u=76281980&t=36)** Well, define is kind of a weird word, isn't it?
+> **[0:36](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-emotion?u=76281980&t=36)** Well, define is kind of a weird [[Microsoft Word|word]], isn't it?
 >
 > **[0:38](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-emotion?u=76281980&t=38)** But let's try that.
 >
@@ -1165,7 +1152,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-emotion?u=76281980&t=116)** Okay.
 >
-> **[1:57](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-emotion?u=76281980&t=117)** I don't know, like how are they going to react to this one?
+> **[1:57](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-emotion?u=76281980&t=117)** I don't know, like how are they going to [[React.js|react]] to this one?
 >
 > **[1:59](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-emotion?u=76281980&t=119)** Let's see.
 >
@@ -1201,7 +1188,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-emotion?u=76281980&t=191)** Let's see here.
 >
-> **[3:13](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-emotion?u=76281980&t=193)** They may be telling yourself, "Well, you're asking a generative AI to do this for you?"
+> **[3:13](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-emotion?u=76281980&t=193)** They may be telling yourself, "Well, you're asking a [[Generative AI]] to do this for you?"
 >
 > **[3:19](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-emotion?u=76281980&t=199)** Well, in reality, you should actually test it on real people, use a research, you know?
 >
@@ -1281,7 +1268,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), ai (3), [[React.js|React]] (2), [[Microsoft Word|Word]] (1), prompt (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Microsoft Word|Word]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** imagine (1), kind of like (1)
 > **File Paths:** key.env (1)
@@ -1293,8 +1280,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding friction: The new math
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/adding-friction-the-new-math?u=76281980)
+#### [Adding friction: The new math](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/adding-friction-the-new-math?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1324,7 +1310,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/adding-friction-the-new-math?u=76281980&t=90)** You're dispelling the myth that this is magic, and that's an important part of being responsible in this era of AI.
 >
-> **[1:37](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/adding-friction-the-new-math?u=76281980&t=97)** So we have the tetrahedron to guide us in the copilot stack, speed, cost, quality, emotion.
+> **[1:37](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/adding-friction-the-new-math?u=76281980&t=97)** So we have the tetrahedron to guide us in the [[Microsoft Copilot|copilot]] stack, speed, cost, quality, emotion.
 >
 > **[1:47](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/adding-friction-the-new-math?u=76281980&t=107)** And remember the emotion one, it's hard as a developer to remember the emotion one.
 >
@@ -1332,13 +1318,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (7), ai (4), cloud (4), [[Microsoft Copilot|Copilot]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (1)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - so (1)
 
-#### What's responsible technology?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-s-responsible-technology?u=76281980)
+#### [What's responsible technology?](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/what-s-responsible-technology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1368,17 +1353,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2)
 > **Speakers:** - last (1)
 
-#### Semantic coding for responsible AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-responsible-ai?u=76281980)
+#### [Semantic coding for responsible AI](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-responsible-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-responsible-ai?u=76281980&t=0)** - [Instructor] So let's get coding.
 >
-> **[0:03](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-responsible-ai?u=76281980&t=3)** If you remember, we use the semantic kernel extension.
+> **[0:03](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-responsible-ai?u=76281980&t=3)** If you remember, we use the [[Semantic Kernel]] extension.
 >
 > **[0:08](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-responsible-ai?u=76281980&t=8)** This is always available on the left-hand side and let's make a function called make_me_responsible.
 >
@@ -1394,9 +1377,9 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-responsible-ai?u=76281980&t=49)** No problem.
 >
-> **[0:50](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-responsible-ai?u=76281980&t=50)** I have gathered information online, open source, from Microsoft's harms taxonomy that lays out the different risks of AI and what we want to be concerned about.
+> **[0:50](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-responsible-ai?u=76281980&t=50)** I have gathered information online, open source, from [[Microsoft]]'s harms taxonomy that lays out the different risks of AI and what we want to be concerned about.
 >
-> **[1:08](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-responsible-ai?u=76281980&t=68)** Things like infringement on human rights, things on privacy laws, things that we should be worried about.
+> **[1:08](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-responsible-ai?u=76281980&t=68)** Things like infringement on human rights, things on [[Privacy]] laws, things that we should be worried about.
 >
 > **[1:16](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-responsible-ai?u=76281980&t=76)** Let's just take a piece of one of them.
 >
@@ -1482,13 +1465,13 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-responsible-ai?u=76281980&t=294)** So this is one example of using expert information about unintended consequences.
 >
-> **[5:00](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-responsible-ai?u=76281980&t=300)** Responsible AI thinking in the context of a feature input and this can get as complex as you want.
+> **[5:00](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-responsible-ai?u=76281980&t=300)** [[Responsible AI]] thinking in the context of a feature input and this can get as complex as you want.
 >
 > **[5:10](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-responsible-ai?u=76281980&t=310)** And when you think about it, this ability to enable the AI that could enable you to do irresponsible things could also be used as a calculator, a responsible AI calculator.
 >
 > **[5:24](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-responsible-ai?u=76281980&t=324)** I think it's a question of feature, how we build features, we'll want to be able to write new code but also write this kind of reflective code.
 >
-> **[5:33](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-responsible-ai?u=76281980&t=333)** As in the software industry, we have software testing.
+> **[5:33](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-responsible-ai?u=76281980&t=333)** As in the software industry, we have [[Software Testing]].
 >
 > **[5:36](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/semantic-coding-for-responsible-ai?u=76281980&t=336)** We may as part of deploying this kind of AI-based software.
 >
@@ -1498,7 +1481,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), feature (4), [[Responsible AI]] (3), [[Semantic Kernel]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (3), [[Semantic Kernel]] (1), [[Microsoft]] (1), [[Privacy]] (1), [[Software Testing]] (1)
 > **Analogies:** for example (5), kind of like (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** make_me_responsible (3)
@@ -1510,16 +1493,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/next-steps?u=76281980&t=0)** - This course has been about AI technology but it's also been about emotions.
 >
-> **[0:06](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/next-steps?u=76281980&t=6)** I'm sorry to see you go, but I am excited that you're going to be jumping into the Copilot stack.
+> **[0:06](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/next-steps?u=76281980&t=6)** I'm sorry to see you go, but I am excited that you're going to be jumping into the [[Microsoft Copilot|Copilot]] stack.
 >
-> **[0:13](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/next-steps?u=76281980&t=13)** Just download Semantic Kernel.
+> **[0:13](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/next-steps?u=76281980&t=13)** Just download [[Semantic Kernel]].
 >
 > **[0:15](https://www.linkedin.com/learning/ux-for-ai-design-practices-for-ai-developers/next-steps?u=76281980&t=15)** We have a chat reference apps, deploy it, customize it, try it with a user base, optimize it, and get ready to scale responsibly.
 >
@@ -1529,7 +1511,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), [[Microsoft Copilot|Copilot]] (1), [[Semantic Kernel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (1), [[Semantic Kernel]] (1)
 > **Speakers:** - this (1)
 
 

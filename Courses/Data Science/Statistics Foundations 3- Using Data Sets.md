@@ -85,12 +85,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Discover samples, confidence intervals, and hypothesis testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/discover-samples-confidence-intervals-and-hypothesis-testing?u=76281980)
+#### [Discover samples, confidence intervals, and hypothesis testing](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/discover-samples-confidence-intervals-and-hypothesis-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/discover-samples-confidence-intervals-and-hypothesis-testing?u=76281980&t=0)** - As a person that loves statistics, perhaps as someone who just appreciates statistics, you're probably comfortable with the basics, means, medians, standard deviations, probabilities, and normal distributions.
+> **[0:00](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/discover-samples-confidence-intervals-and-hypothesis-testing?u=76281980&t=0)** - As a person that loves [[Statistics]], perhaps as someone who just appreciates statistics, you're probably comfortable with the basics, means, medians, standard deviations, probabilities, and normal distributions.
 >
 > **[0:12](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/discover-samples-confidence-intervals-and-hypothesis-testing?u=76281980&t=12)** They're all part of your stats vocabulary.
 >
@@ -130,7 +129,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (7), data (7), business (2), power (2), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (7)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - as (1)
 
@@ -139,8 +138,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sample considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/sample-considerations?u=76281980)
+#### [Sample considerations](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/sample-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -214,19 +212,18 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/sample-considerations?u=76281980&t=169)** Strangely enough, despite the endless list of sample considerations, the best samples are the ones that are chosen at random.
 >
-> **[2:58](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/sample-considerations?u=76281980&t=178)** - The simple random sample is the gold standard when it comes to collecting data, but in the world of statistics, nothing comes easy.
+> **[2:58](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/sample-considerations?u=76281980&t=178)** - The simple random sample is the gold standard when it comes to collecting data, but in the world of [[Statistics]], nothing comes easy.
 >
 > **[3:07](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/sample-considerations?u=76281980&t=187)** So let's look at the complex nature of the simple, random sample.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Analogies:** imagine (1), just like (1)
 > **Speakers:** - imagine (1), - the (1)
 > **Definitions:** is a  (1)
 
-#### Random samples
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/random-samples?u=76281980)
+#### [Random samples](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/random-samples?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -238,7 +235,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/random-samples?u=76281980&t=17)** And the most dependable data comes from what's called a simple random sample.
 >
-> **[0:23](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/random-samples?u=76281980&t=23)** In a simple, random sample, each individual in the population has the same probability of being chosen for inclusion in the sample as any other individual.
+> **[0:23](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/random-samples?u=76281980&t=23)** In a simple, random sample, each individual in the population has the same [[Probability]] of being chosen for inclusion in the sample as any other individual.
 >
 > **[0:34](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/random-samples?u=76281980&t=34)** Or each subset of K individuals has the same probability of being chosen for the sample as any other subset of K individuals.
 >
@@ -332,19 +329,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Probability]] (2)
+> **Frameworks & Libraries:** [[Probability]] (2)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - typically (1)
 
-#### Alternative to random samples
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/alternative-to-random-samples?u=76281980)
+#### [Alternative to random samples](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/alternative-to-random-samples?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/alternative-to-random-samples?u=76281980&t=0)** - The simple random sample.
 >
-> **[0:02](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/alternative-to-random-samples?u=76281980&t=2)** It's the foundation of dependable statistical analysis.
+> **[0:02](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/alternative-to-random-samples?u=76281980&t=2)** It's the foundation of dependable [[Statistical Analysis]].
 >
 > **[0:05](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/alternative-to-random-samples?u=76281980&t=5)** But as we've seen, the simple random sample can be rather elusive.
 >
@@ -454,7 +450,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), product (2), [[Statistical Analysis]] (1)
+> **Frameworks & Libraries:** [[Statistical Analysis]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - the (1)
 
@@ -463,8 +459,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of sample size
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/the-importance-of-sample-size?u=76281980)
+#### [The importance of sample size](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/the-importance-of-sample-size?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -550,8 +545,7 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - a (1)
 
-#### The central limit theorem
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/the-central-limit-theorem?u=76281980)
+#### [The central limit theorem](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/the-central-limit-theorem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -559,7 +553,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/the-central-limit-theorem?u=76281980&t=3)** Just saying those words can be a little intimidating.
 >
-> **[0:06](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/the-central-limit-theorem?u=76281980&t=6)** I mean, it sounds complicated, but it turns out it's a rather simple concept, a concept that's not only important to our world of statistics, but dare I say, it's also a concept that is rather interesting.
+> **[0:06](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/the-central-limit-theorem?u=76281980&t=6)** I mean, it sounds complicated, but it turns out it's a rather simple concept, a concept that's not only important to our world of [[Statistics]], but dare I say, it's also a concept that is rather interesting.
 >
 > **[0:22](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/the-central-limit-theorem?u=76281980&t=22)** Let's start simple, a distribution of discrete numbers.
 >
@@ -635,7 +629,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (2), data (1)
+> **Frameworks & Libraries:** [[Statistics]] (2)
 > **Versions:** 15.0 (2), 18.75 (2), 12.5 (2), 16.25 (2), 15.83 (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - the (1)
@@ -645,8 +639,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Standard error for proportions
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/standard-error-for-proportions?u=76281980)
+#### [Standard error for proportions](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/standard-error-for-proportions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -752,11 +745,11 @@ created: 2026-05-02
 >
 > **[6:15](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/standard-error-for-proportions?u=76281980&t=375)** And for our lower limit, it's p minus the standard deviation.
 >
-> **[6:20](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/standard-error-for-proportions?u=76281980&t=380)** Once the range is established, if we assume the probability distribution is nearly normal, then we would expect that 68% of the simple random samples gathered in the upcoming weeks would fall within the standard error.
+> **[6:20](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/standard-error-for-proportions?u=76281980&t=380)** Once the range is established, if we assume the [[Probability]] distribution is nearly normal, then we would expect that 68% of the simple random samples gathered in the upcoming weeks would fall within the standard error.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Versions:** 0.60 (2), 0.05 (1), 0.015 (1), 1.5 (1), 58.5 (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** find (1)
@@ -764,8 +757,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - before (1)
 
-#### Sampling distribution of the mean
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/sampling-distribution-of-the-mean?u=76281980)
+#### [Sampling distribution of the mean](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/sampling-distribution-of-the-mean?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -839,12 +831,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **Versions:** 180.5 (1)
 > **Speakers:** - through (1)
 
-#### Standard error for means
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/standard-error-for-means?u=76281980)
+#### [Standard error for means](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/standard-error-for-means?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -898,7 +888,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/standard-error-for-means?u=76281980&t=202)** Why?
 >
-> **[3:23](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/standard-error-for-means?u=76281980&t=203)** Well, when we collect another sample of drink order times tomorrow and the rest of the week we would expect that 68% of our samples will have sample means that fall within 0.25 minutes of 1.52 minutes which is the calculated mean of our means.
+> **[3:23](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/standard-error-for-means?u=76281980&t=203)** Well, when we collect another sample of drink order times tomorrow and the [[Representational State Transfer (REST)|rest]] of the week we would expect that 68% of our samples will have sample means that fall within 0.25 minutes of 1.52 minutes which is the calculated mean of our means.
 >
 > **[3:49](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/standard-error-for-means?u=76281980&t=229)** The standard error formula is very simple but still very informative.
 >
@@ -906,7 +896,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 0.25 (5), 1.52 (2), 0.6 (1), 2.4 (1), 1.58 (1)
 > **CLI Commands:** find (2)
 > **Ports:** :00 (2)
@@ -918,8 +908,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to confidence intervals
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/introduction-to-confidence-intervals?u=76281980)
+#### [Introduction to confidence intervals](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/introduction-to-confidence-intervals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -971,12 +960,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - the (1)
 
-#### Components of a confidence interval
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/components-of-a-confidence-interval?u=76281980)
+#### [Components of a confidence interval](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/components-of-a-confidence-interval?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1038,14 +1025,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1)
 > **Versions:** 0.55 (3), 2.0 (3), 0.05 (2), 0.65 (2), 0.45 (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - before (1)
 
-#### Creating a 95% confidence interval for a population
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/creating-a-95-confidence-interval-for-a-population?u=76281980)
+#### [Creating a 95% confidence interval for a population](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/creating-a-95-confidence-interval-for-a-population?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1193,15 +1178,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (1)
 > **Versions:** 1.96 (7), 2.5 (6), 0.55 (5), 0.975 (4), 97.5 (2)
 > **CLI Commands:** find (4), make (1)
 > **Definitions:** is a  (1), in other words (1), is called (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - so (1)
 
-#### Alternative confidence intervals
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/alternative-confidence-intervals?u=76281980)
+#### [Alternative confidence intervals](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/alternative-confidence-intervals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1211,7 +1194,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/alternative-confidence-intervals?u=76281980&t=9)** Well, let's remember a 95% confidence interval stretches in equal distances in opposite directions from our distribution mean, or proportion, how far?
 >
-> **[0:21](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/alternative-confidence-intervals?u=76281980&t=21)** Enough to include 95% of the probability distribution, which means that a 98% confidence interval would have to stretch a little bit farther so our interval would include 98% of the probability distribution.
+> **[0:21](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/alternative-confidence-intervals?u=76281980&t=21)** Enough to include 95% of the [[Probability]] distribution, which means that a 98% confidence interval would have to stretch a little bit farther so our interval would include 98% of the probability distribution.
 >
 > **[0:37](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/alternative-confidence-intervals?u=76281980&t=37)** So, you see, my numbers aren't necessarily better, I simply increase the size of my interval.
 >
@@ -1293,7 +1276,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (3), data (1), next (1)
+> **Frameworks & Libraries:** [[Probability]] (3)
 > **Versions:** 1.96 (3), 0.99 (2), 2.33 (2), 0.509 (2), 0.98 (1)
 > **CLI Commands:** find (4)
 > **Cross-References:** previous video (2), next video (1)
@@ -1302,8 +1285,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - for (1)
 
-#### Confidence intervals with unexpected outcomes
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/confidence-intervals-with-unexpected-outcomes?u=76281980)
+#### [Confidence intervals with unexpected outcomes](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/confidence-intervals-with-unexpected-outcomes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1379,7 +1361,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/confidence-intervals-with-unexpected-outcomes?u=76281980&t=217)** My vote isn't going to make a difference at this point.
 >
-> **[3:41](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/confidence-intervals-with-unexpected-outcomes?u=76281980&t=221)** Hopefully, you aren't growing distrustful of statistics.
+> **[3:41](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/confidence-intervals-with-unexpected-outcomes?u=76281980&t=221)** Hopefully, you aren't growing distrustful of [[Statistics]].
 >
 > **[3:45](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/confidence-intervals-with-unexpected-outcomes?u=76281980&t=225)** If you investigate confidence intervals that have been reported over the last few decades, you'll see that very often, they're very accurate.
 >
@@ -1406,8 +1388,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hypothesis test introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/hypothesis-test-introduction?u=76281980)
+#### [Hypothesis test introduction](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/hypothesis-test-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1481,7 +1462,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/hypothesis-test-introduction?u=76281980&t=189)** When done properly, hypothesis testing can be an extremely powerful statistical tool, but it can be a bit complex.
 >
-> **[3:18](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/hypothesis-test-introduction?u=76281980&t=198)** You see, hypothesis testing will require that you put to use almost every element of your statistics foundation.
+> **[3:18](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/hypothesis-test-introduction?u=76281980&t=198)** You see, hypothesis testing will require that you put to use almost every element of your [[Statistics]] foundation.
 >
 > **[3:26](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/hypothesis-test-introduction?u=76281980&t=206)** Means, proportions, and standard deviations, normal distributions, z-scores, the empirical rule, sampling and sample size, and confidence intervals.
 >
@@ -1491,15 +1472,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), game (2), leadership (1), [[Statistics]] (1), career (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **CLI Commands:** make (3)
 > **Versions:** 8.5 (1), 7.3 (1), 1.2 (1)
 > **Analogies:** for example (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - sometimes (1)
 
-#### Hypothesis test : Step-by-step
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/hypothesis-test-step-by-step?u=76281980)
+#### [Hypothesis test : Step-by-step](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/hypothesis-test-step-by-step?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1563,7 +1543,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/hypothesis-test-step-by-step?u=76281980&t=141)** Essentially, this sets a threshold for our test.
 >
-> **[2:24](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/hypothesis-test-step-by-step?u=76281980&t=144)** In other words, what would have to be the probability for you to believe that the system was not fair?
+> **[2:24](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/hypothesis-test-step-by-step?u=76281980&t=144)** In other words, what would have to be the [[Probability]] for you to believe that the system was not fair?
 >
 > **[2:32](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/hypothesis-test-step-by-step?u=76281980&t=152)** What would it take for you to reject the null hypothesis?
 >
@@ -1597,7 +1577,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/hypothesis-test-step-by-step?u=76281980&t=259)** So what is that probability?
 >
-> **[4:22](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/hypothesis-test-step-by-step?u=76281980&t=262)** Well, via Google, I found an online binomial calculator.
+> **[4:22](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/hypothesis-test-step-by-step?u=76281980&t=262)** Well, via [[Google]], I found an online binomial calculator.
 >
 > **[4:28](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/hypothesis-test-step-by-step?u=76281980&t=268)** I plugged in the probability of success as 50%.
 >
@@ -1643,7 +1623,7 @@ created: 2026-05-02
 >
 > **[7:01](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/hypothesis-test-step-by-step?u=76281980&t=421)** They just lacked the evidence to prove guilt.
 >
-> **[7:05](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/hypothesis-test-step-by-step?u=76281980&t=425)** Hypothesis testing is an extremely important part of the world of statistics, and every field that leans on statistics for assistance.
+> **[7:05](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/hypothesis-test-step-by-step?u=76281980&t=425)** Hypothesis testing is an extremely important part of the world of [[Statistics]], and every field that leans on statistics for assistance.
 >
 > **[7:15](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/hypothesis-test-step-by-step?u=76281980&t=435)** This was a very abbreviated version of the hypothesis testing process.
 >
@@ -1651,7 +1631,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (6), next (4), [[Statistics]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Probability]] (6), [[Statistics]] (2), [[Google]] (1)
 > **Versions:** 0.50 (3), 0.13 (2), 0.0013 (1), 0.05 (1)
 > **Definitions:** is an  (2), in other words (1), means that (1)
 > **CLI Commands:** find (2), make (1)
@@ -1659,8 +1639,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [narrator] (1)
 
-#### One-tailed vs. two-tail tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/one-tailed-vs-two-tail-tests?u=76281980)
+#### [One-tailed vs. two-tail tests](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/one-tailed-vs-two-tail-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1774,8 +1753,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - let (1)
 
-#### Significance test for proportions
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/significance-test-for-proportions?u=76281980)
+#### [Significance test for proportions](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/significance-test-for-proportions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1885,8 +1863,7 @@ created: 2026-05-02
 > **Analogies:** imagine (2)
 > **Speakers:** - let (1)
 
-#### Significance test for means
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/significance-test-for-means?u=76281980)
+#### [Significance test for means](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/significance-test-for-means?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1898,7 +1875,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/significance-test-for-means?u=76281980&t=17)** K-Nosh has high-end customers.
 >
-> **[0:20](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/significance-test-for-means?u=76281980&t=20)** They demand outstanding products and excellent service.
+> **[0:20](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/significance-test-for-means?u=76281980&t=20)** They demand outstanding [[Microsoft Products|products]] and excellent service.
 >
 > **[0:24](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/significance-test-for-means?u=76281980&t=24)** Customers expect at least 20 pounds of dog food in every 20 pound bag, so while the bag is labeled as 20 pounds, K-Nosh sets the desired weight of each bag at 20.15 pounds.
 >
@@ -1970,7 +1947,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/significance-test-for-means?u=76281980&t=308)** In other words, this sample of 100 bags is 1.92 standard deviations from the required mean for 5,000 bags.
 >
-> **[5:20](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/significance-test-for-means?u=76281980&t=320)** Step four, our test statistics Z is negative 1.92.
+> **[5:20](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/significance-test-for-means?u=76281980&t=320)** Step four, our test [[Statistics]] Z is negative 1.92.
 >
 > **[5:27](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/significance-test-for-means?u=76281980&t=327)** If we look this number up on a z-score chart, you will find that negative 1.92 leads you to 0.0274.
 >
@@ -2000,8 +1977,7 @@ created: 2026-05-02
 > **CLI Commands:** find (2)
 > **Speakers:** - k (1)
 
-#### Type one and type two errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/type-one-and-type-two-errors?u=76281980)
+#### [Type one and type two errors](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/type-one-and-type-two-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2093,7 +2069,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/type-one-and-type-two-errors?u=76281980&t=221)** If a person gets a positive result but they do not have cancer, this would be a false positive.
 >
-> **[3:49](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/type-one-and-type-two-errors?u=76281980&t=229)** In statistics, we also call this a type one error.
+> **[3:49](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/type-one-and-type-two-errors?u=76281980&t=229)** In [[Statistics]], we also call this a type one error.
 >
 > **[3:54](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/type-one-and-type-two-errors?u=76281980&t=234)** The opposite is also possible.
 >
@@ -2131,8 +2107,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/next-steps-and-additional-resources?u=76281980)
+#### [Next steps and additional resources](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/next-steps-and-additional-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2140,7 +2115,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/next-steps-and-additional-resources?u=76281980&t=2)** You survived sampling and sample size, you created confidence intervals and you performed some very basic hypothesis tests.
 >
-> **[0:10](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/next-steps-and-additional-resources?u=76281980&t=10)** If you weren't already surprised, interested or perhaps skeptical of the statistics that you encounter at work and in the media, you're probably now hypersensitive to any statistic that's put in front of you.
+> **[0:10](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/next-steps-and-additional-resources?u=76281980&t=10)** If you weren't already surprised, interested or perhaps skeptical of the [[Statistics]] that you encounter at work and in the media, you're probably now hypersensitive to any statistic that's put in front of you.
 >
 > **[0:22](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/next-steps-and-additional-resources?u=76281980&t=22)** You might even ask probing questions about sampling methods or get excited when you see poll results listed with their margins of error.
 >
@@ -2148,9 +2123,9 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/next-steps-and-additional-resources?u=76281980&t=36)** So what's next?
 >
-> **[0:38](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/next-steps-and-additional-resources?u=76281980&t=38)** Well, you can move on to even more advanced statistics courses that cover topics like regression, comparing two populations and analysis of variance or perhaps you want to learn more about business analytics.
+> **[0:38](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/next-steps-and-additional-resources?u=76281980&t=38)** Well, you can move on to even more advanced statistics courses that cover topics like regression, comparing two populations and analysis of variance or perhaps you want to learn more about [[Business Analytics]].
 >
-> **[0:53](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/next-steps-and-additional-resources?u=76281980&t=53)** You can follow me here on LinkedIn for more statistics and business courses.
+> **[0:53](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/next-steps-and-additional-resources?u=76281980&t=53)** You can follow me here on [[LinkedIn]] for more statistics and business courses.
 >
 > **[0:58](https://www.linkedin.com/learning/statistics-foundations-3-using-data-sets/next-steps-and-additional-resources?u=76281980&t=58)** In either case, your statistics foundations will be valuable tools that will help you understand the world around you and guide you to make sound decisions based on data.
 >
@@ -2158,7 +2133,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (4), data (2), business (2), next (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (4), [[Business Analytics]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)
 

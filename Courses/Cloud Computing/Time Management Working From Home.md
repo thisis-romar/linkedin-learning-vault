@@ -75,8 +75,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making working from home work
-> [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/making-working-from-home-work?u=76281980)
+#### [Making working from home work](https://www.linkedin.com/learning/time-management-working-from-home-2018/making-working-from-home-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -102,12 +101,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - working (1)
 
-#### What you should know before watching
-> [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/what-you-should-know-before-watching-14792532?u=76281980)
+#### [What you should know before watching](https://www.linkedin.com/learning/time-management-working-from-home-2018/what-you-should-know-before-watching-14792532?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -125,7 +122,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/time-management-working-from-home-2018/what-you-should-know-before-watching-14792532?u=76281980&t=49)** The principles that I will cover in this course apply to anyone in any kind of a remote worker situation.
 >
-> **[0:57](https://www.linkedin.com/learning/time-management-working-from-home-2018/what-you-should-know-before-watching-14792532?u=76281980&t=57)** Even if you don't work from home on a full-time basis, you'll still find strategies that will help you for the times when you're away from a corporate office.
+> **[0:57](https://www.linkedin.com/learning/time-management-working-from-home-2018/what-you-should-know-before-watching-14792532?u=76281980&t=57)** Even if you don't work from home on a full-time basis, you'll still find strategies that will help you for the times when you're away from a corporate [[Microsoft Office|office]].
 >
 > **[1:07](https://www.linkedin.com/learning/time-management-working-from-home-2018/what-you-should-know-before-watching-14792532?u=76281980&t=67)** As you go through this course, put your focus on taking action.
 >
@@ -137,7 +134,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), next (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - this (1)
@@ -147,8 +144,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a productive workspace
-> [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/create-a-productive-workspace-14792530?u=76281980)
+#### [Create a productive workspace](https://www.linkedin.com/learning/time-management-working-from-home-2018/create-a-productive-workspace-14792530?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -166,7 +162,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/time-management-working-from-home-2018/create-a-productive-workspace-14792530?u=76281980&t=46)** So I believe the best way to approach this is to first start with the ideal, and then we'll work backwards from the ideal, helping you find adaptations that work best for you.
 >
-> **[0:58](https://www.linkedin.com/learning/time-management-working-from-home-2018/create-a-productive-workspace-14792530?u=76281980&t=58)** The ideal workspace is a designated room with doors that's relatively soundproof and removed from the rest of the house.
+> **[0:58](https://www.linkedin.com/learning/time-management-working-from-home-2018/create-a-productive-workspace-14792530?u=76281980&t=58)** The ideal workspace is a designated room with doors that's relatively soundproof and removed from the [[Representational State Transfer (REST)|rest]] of the house.
 >
 > **[1:08](https://www.linkedin.com/learning/time-management-working-from-home-2018/create-a-productive-workspace-14792530?u=76281980&t=68)** This means it's not in an open traffic area.
 >
@@ -178,7 +174,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/time-management-working-from-home-2018/create-a-productive-workspace-14792530?u=76281980&t=88)** You also have enough space for any other resources or tools that you need to perform the kind of work that you're doing at home.
 >
-> **[1:36](https://www.linkedin.com/learning/time-management-working-from-home-2018/create-a-productive-workspace-14792530?u=76281980&t=96)** In summary, the ideal workspace is a home office, set aside only for work.
+> **[1:36](https://www.linkedin.com/learning/time-management-working-from-home-2018/create-a-productive-workspace-14792530?u=76281980&t=96)** In summary, the ideal workspace is a home [[Microsoft Office|office]], set aside only for work.
 >
 > **[1:44](https://www.linkedin.com/learning/time-management-working-from-home-2018/create-a-productive-workspace-14792530?u=76281980&t=104)** Try to adapt this as best you can to your situation.
 >
@@ -250,14 +246,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Microsoft Office|Office]] (2), [[Representational State Transfer (REST)|Rest]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (3)
 > **Analogies:** similar to (1), such as (1)
 > **Speakers:** - when (1)
 
-#### Identify visual and audible distractions
-> [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/identify-visual-and-audible-distractions?u=76281980)
+#### [Identify visual and audible distractions](https://www.linkedin.com/learning/time-management-working-from-home-2018/identify-visual-and-audible-distractions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -311,7 +306,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/time-management-working-from-home-2018/identify-visual-and-audible-distractions?u=76281980&t=141)** When you listened, did you notice sounds from children in the house or nearby construction or a dog barking outside?
 >
-> **[2:29](https://www.linkedin.com/learning/time-management-working-from-home-2018/identify-visual-and-audible-distractions?u=76281980&t=149)** The ideal solution is to select a soundproof office away from sources of noise, yet I recognize that's not practical for most people working from home.
+> **[2:29](https://www.linkedin.com/learning/time-management-working-from-home-2018/identify-visual-and-audible-distractions?u=76281980&t=149)** The ideal solution is to select a soundproof [[Microsoft Office|office]] away from sources of noise, yet I recognize that's not practical for most people working from home.
 >
 > **[2:41](https://www.linkedin.com/learning/time-management-working-from-home-2018/identify-visual-and-audible-distractions?u=76281980&t=161)** You can do two things however.
 >
@@ -329,7 +324,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/time-management-working-from-home-2018/identify-visual-and-audible-distractions?u=76281980&t=202)** One home-based entrepreneur I coached was constantly distracted by his children running around outside.
 >
-> **[3:29](https://www.linkedin.com/learning/time-management-working-from-home-2018/identify-visual-and-audible-distractions?u=76281980&t=209)** While he wanted them to be able to come and get him in case of a true emergency, the rest of the time it was just distraction and noise that pulled him from what he should be doing.
+> **[3:29](https://www.linkedin.com/learning/time-management-working-from-home-2018/identify-visual-and-audible-distractions?u=76281980&t=209)** While he wanted them to be able to come and get him in case of a true emergency, the [[Representational State Transfer (REST)|rest]] of the time it was just distraction and noise that pulled him from what he should be doing.
 >
 > **[3:40](https://www.linkedin.com/learning/time-management-working-from-home-2018/identify-visual-and-audible-distractions?u=76281980&t=220)** He got an inexpensive fan and put it in his office, and the accompanying white noise drowned out the harmless but distracting sounds of his children playing.
 >
@@ -339,14 +334,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), management (1), functional (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (2)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - staying (1)
 
-#### Applying the processing technique at home
-> [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/applying-the-processing-technique-at-home?u=76281980)
+#### [Applying the processing technique at home](https://www.linkedin.com/learning/time-management-working-from-home-2018/applying-the-processing-technique-at-home?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -410,7 +404,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/time-management-working-from-home-2018/applying-the-processing-technique-at-home?u=76281980&t=207)** For example, if we have a set of A to Z alphabetical files for work-related papers, then we also want to have a separate set of A to Z files for home-related matters.
 >
-> **[3:41](https://www.linkedin.com/learning/time-management-working-from-home-2018/applying-the-processing-technique-at-home?u=76281980&t=221)** Even for things such as office supplies, it's wise to have a set that is readily on hand and close to your home workspace that are designated just for your work and not for home personal use.
+> **[3:41](https://www.linkedin.com/learning/time-management-working-from-home-2018/applying-the-processing-technique-at-home?u=76281980&t=221)** Even for things such as [[Microsoft Office|office]] supplies, it's wise to have a set that is readily on hand and close to your home workspace that are designated just for your work and not for home personal use.
 >
 > **[3:56](https://www.linkedin.com/learning/time-management-working-from-home-2018/applying-the-processing-technique-at-home?u=76281980&t=236)** Why? A couple of reasons.
 >
@@ -440,7 +434,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), career (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (4), means that (1)
 > **Analogies:** such as (2), for example (2), for instance (1)
 > **CLI Commands:** find (1)
@@ -448,8 +442,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - in (1)
 
-#### Utilize the best technology
-> [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/utilize-the-best-technology-14788767?u=76281980)
+#### [Utilize the best technology](https://www.linkedin.com/learning/time-management-working-from-home-2018/utilize-the-best-technology-14788767?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -477,7 +470,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/time-management-working-from-home-2018/utilize-the-best-technology-14788767?u=76281980&t=77)** Now, of course, if your employer is willing to cover the cost, try that first.
 >
-> **[1:22](https://www.linkedin.com/learning/time-management-working-from-home-2018/utilize-the-best-technology-14788767?u=76281980&t=82)** At a physical office, typically the employer provides everything for you, but when you work from home, there's a little bit of a gray area when it comes to who's buying which workplace-based tools for whom.
+> **[1:22](https://www.linkedin.com/learning/time-management-working-from-home-2018/utilize-the-best-technology-14788767?u=76281980&t=82)** At a physical [[Microsoft Office|office]], typically the employer provides everything for you, but when you work from home, there's a little bit of a gray area when it comes to who's buying which workplace-based tools for whom.
 >
 > **[1:36](https://www.linkedin.com/learning/time-management-working-from-home-2018/utilize-the-best-technology-14788767?u=76281980&t=96)** Here's the mindset that you want to have.
 >
@@ -541,7 +534,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), career (2), management (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3)
 > **CLI Commands:** make (5)
 > **Definitions:** in other words (1)
 > **Speakers:** - time (1)
@@ -551,12 +544,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Keep work hours in balance
-> [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/keep-work-hours-in-balance?u=76281980)
+#### [Keep work hours in balance](https://www.linkedin.com/learning/time-management-working-from-home-2018/keep-work-hours-in-balance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/time-management-working-from-home-2018/keep-work-hours-in-balance?u=76281980&t=1)** - While creating this course, I asked my LinkedIn network, what is the number one challenge you experience while working from home?
+> **[0:01](https://www.linkedin.com/learning/time-management-working-from-home-2018/keep-work-hours-in-balance?u=76281980&t=1)** - While creating this course, I asked my [[LinkedIn]] network, what is the number one challenge you experience while working from home?
 >
 > **[0:08](https://www.linkedin.com/learning/time-management-working-from-home-2018/keep-work-hours-in-balance?u=76281980&t=8)** This question received tens of thousands of views and hundreds of replies.
 >
@@ -634,7 +626,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/time-management-working-from-home-2018/keep-work-hours-in-balance?u=76281980&t=222)** When you work from home, you lack the natural transition that those who travel to work have, a commute.
 >
-> **[3:49](https://www.linkedin.com/learning/time-management-working-from-home-2018/keep-work-hours-in-balance?u=76281980&t=229)** The travel time from the office to home gives you the ability to decompress and stop thinking about work.
+> **[3:49](https://www.linkedin.com/learning/time-management-working-from-home-2018/keep-work-hours-in-balance?u=76281980&t=229)** The travel time from the [[Microsoft Office|office]] to home gives you the ability to decompress and stop thinking about work.
 >
 > **[3:57](https://www.linkedin.com/learning/time-management-working-from-home-2018/keep-work-hours-in-balance?u=76281980&t=237)** So, you'll likely want to create your own mental commute.
 >
@@ -679,8 +671,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - while (1)
 
-#### Find your peak productivity time
-> [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/find-your-peak-productivity-time?u=76281980)
+#### [Find your peak productivity time](https://www.linkedin.com/learning/time-management-working-from-home-2018/find-your-peak-productivity-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -688,13 +679,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/time-management-working-from-home-2018/find-your-peak-productivity-time?u=76281980&t=8)** What this means is that it's not realistic for us to expect ourselves to continuously perform at the same level of productivity constantly, relentlessly without break.
 >
-> **[0:20](https://www.linkedin.com/learning/time-management-working-from-home-2018/find-your-peak-productivity-time?u=76281980&t=20)** In fact, we perform better when we have periods of high activity, periods of low activity, and periods of rest.
+> **[0:20](https://www.linkedin.com/learning/time-management-working-from-home-2018/find-your-peak-productivity-time?u=76281980&t=20)** In fact, we perform better when we have periods of high activity, periods of low activity, and periods of [[Representational State Transfer (REST)|rest]].
 >
 > **[0:28](https://www.linkedin.com/learning/time-management-working-from-home-2018/find-your-peak-productivity-time?u=76281980&t=28)** When you're working from home this principle becomes even more powerful and necessary to your success, why?
 >
 > **[0:35](https://www.linkedin.com/learning/time-management-working-from-home-2018/find-your-peak-productivity-time?u=76281980&t=35)** Because your productivity rhythm extends just beyond your personal biology and tendencies.
 >
-> **[0:41](https://www.linkedin.com/learning/time-management-working-from-home-2018/find-your-peak-productivity-time?u=76281980&t=41)** No, you must also account for things like people coming and going at certain times of the day, from when a family member is going to need your attention to when people at your office at the main headquarters want to have meetings with you.
+> **[0:41](https://www.linkedin.com/learning/time-management-working-from-home-2018/find-your-peak-productivity-time?u=76281980&t=41)** No, you must also account for things like people coming and going at certain times of the day, from when a family member is going to need your attention to when people at your [[Microsoft Office|office]] at the main headquarters want to have meetings with you.
 >
 > **[0:55](https://www.linkedin.com/learning/time-management-working-from-home-2018/find-your-peak-productivity-time?u=76281980&t=55)** Your days and weeks will be constantly peppered with interruptions, it is unavoidable to a degree.
 >
@@ -750,15 +741,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), next (2), [[Representational State Transfer (REST)|Rest]] (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** caution (1)
 > **Speakers:** - when (1)
 
-#### Plan meaningful breaks
-> [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/plan-meaningful-breaks-14794394?u=76281980)
+#### [Plan meaningful breaks](https://www.linkedin.com/learning/time-management-working-from-home-2018/plan-meaningful-breaks-14794394?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -840,7 +830,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/time-management-working-from-home-2018/plan-meaningful-breaks-14794394?u=76281980&t=238)** Whatever it is, schedule it, and make it a priority to get it done.
 >
-> **[4:04](https://www.linkedin.com/learning/time-management-working-from-home-2018/plan-meaningful-breaks-14794394?u=76281980&t=244)** This little oasis will boost your ability to perform the rest of the day.
+> **[4:04](https://www.linkedin.com/learning/time-management-working-from-home-2018/plan-meaningful-breaks-14794394?u=76281980&t=244)** This little oasis will boost your ability to perform the [[Representational State Transfer (REST)|rest]] of the day.
 >
 > **[4:09](https://www.linkedin.com/learning/time-management-working-from-home-2018/plan-meaningful-breaks-14794394?u=76281980&t=249)** It gives you something to look forward to.
 >
@@ -852,14 +842,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - having (1)
 
-#### Adjust when schedules collide
-> [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/adjust-when-schedules-collide-14792529?u=76281980)
+#### [Adjust when schedules collide](https://www.linkedin.com/learning/time-management-working-from-home-2018/adjust-when-schedules-collide-14792529?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -877,7 +866,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/time-management-working-from-home-2018/adjust-when-schedules-collide-14792529?u=76281980&t=32)** So much of our happiness in work and in life depends on if our expectations are met or exceeded.
 >
-> **[0:39](https://www.linkedin.com/learning/time-management-working-from-home-2018/adjust-when-schedules-collide-14792529?u=76281980&t=39)** Part of working from home is that you must expect that sometimes your schedule will collide with the home office.
+> **[0:39](https://www.linkedin.com/learning/time-management-working-from-home-2018/adjust-when-schedules-collide-14792529?u=76281980&t=39)** Part of working from home is that you must expect that sometimes your schedule will collide with the home [[Microsoft Office|office]].
 >
 > **[0:47](https://www.linkedin.com/learning/time-management-working-from-home-2018/adjust-when-schedules-collide-14792529?u=76281980&t=47)** Just having that expectation that it will happen perhaps once a week or once every two weeks will go a long way toward helping you feel okay with it.
 >
@@ -935,7 +924,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), management (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (2), for instance (1)
 > **Ports:** :00 (2)
 > **CLI Commands:** make (1)
@@ -947,12 +936,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Determine your company's ground rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/determine-your-company-s-ground-rules?u=76281980)
+#### [Determine your company's ground rules](https://www.linkedin.com/learning/time-management-working-from-home-2018/determine-your-company-s-ground-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/time-management-working-from-home-2018/determine-your-company-s-ground-rules?u=76281980&t=1)** - Often, confusion and disagreement can occur between a person working from home and the home office, because there isn't a clear set of rules about how their work will be monitored, and how they'll communicate with each other.
+> **[0:01](https://www.linkedin.com/learning/time-management-working-from-home-2018/determine-your-company-s-ground-rules?u=76281980&t=1)** - Often, confusion and disagreement can occur between a person working from home and the home [[Microsoft Office|office]], because there isn't a clear set of rules about how their work will be monitored, and how they'll communicate with each other.
 >
 > **[0:14](https://www.linkedin.com/learning/time-management-working-from-home-2018/determine-your-company-s-ground-rules?u=76281980&t=14)** If you Work for a company that has an established track record, and history of having employees who work from home, odds are they already have a set of ground rules and policies in place.
 >
@@ -1035,8 +1023,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - often (1)
 
-#### Best practices for virtual meetings
-> [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/best-practices-for-virtual-meetings?u=76281980)
+#### [Best practices for virtual meetings](https://www.linkedin.com/learning/time-management-working-from-home-2018/best-practices-for-virtual-meetings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1104,7 +1091,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/time-management-working-from-home-2018/best-practices-for-virtual-meetings?u=76281980&t=211)** While you don't need to dress your very best when you're in a virtual meeting, you certainly want to be respectful of the people that you're go going to meet with.
 >
-> **[3:40](https://www.linkedin.com/learning/time-management-working-from-home-2018/best-practices-for-virtual-meetings?u=76281980&t=220)** This means that if you know how they normally dress at the office, it's a good idea to make an effort to match that standard of dress.
+> **[3:40](https://www.linkedin.com/learning/time-management-working-from-home-2018/best-practices-for-virtual-meetings?u=76281980&t=220)** This means that if you know how they normally dress at the [[Microsoft Office|office]], it's a good idea to make an effort to match that standard of dress.
 >
 > **[3:49](https://www.linkedin.com/learning/time-management-working-from-home-2018/best-practices-for-virtual-meetings?u=76281980&t=229)** In other words, if you know everyone at the office wears a button up shirt, and you show up with a graphic t-shirt, you may create a bit of a disconnect between the culture at work and where you are at home.
 >
@@ -1114,7 +1101,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), [[Microsoft Office|Office]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2)
 > **CLI Commands:** make (9)
 > **Definitions:** means that (3), in other words (1)
 > **Analogies:** for example (1), such as (1), for instance (1)
@@ -1123,8 +1110,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - when (1)
 
-#### How to work across time zones
-> [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/how-to-work-across-time-zones-14790535?u=76281980)
+#### [How to work across time zones](https://www.linkedin.com/learning/time-management-working-from-home-2018/how-to-work-across-time-zones-14790535?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1134,7 +1120,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/time-management-working-from-home-2018/how-to-work-across-time-zones-14790535?u=76281980&t=17)** Here are a few tips to reduce these kinds of issues.
 >
-> **[0:21](https://www.linkedin.com/learning/time-management-working-from-home-2018/how-to-work-across-time-zones-14790535?u=76281980&t=21)** First, I recommend somewhere in your office having a second clock, or even a third clock if you're working with multiple time zones.
+> **[0:21](https://www.linkedin.com/learning/time-management-working-from-home-2018/how-to-work-across-time-zones-14790535?u=76281980&t=21)** First, I recommend somewhere in your [[Microsoft Office|office]] having a second clock, or even a third clock if you're working with multiple time zones.
 >
 > **[0:28](https://www.linkedin.com/learning/time-management-working-from-home-2018/how-to-work-across-time-zones-14790535?u=76281980&t=28)** These show the times of the people that you're meeting with.
 >
@@ -1156,7 +1142,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/time-management-working-from-home-2018/how-to-work-across-time-zones-14790535?u=76281980&t=86)** In that same vein, it's a good idea to use a shared calendar that automatically makes those timezone changes for you.
 >
-> **[1:34](https://www.linkedin.com/learning/time-management-working-from-home-2018/how-to-work-across-time-zones-14790535?u=76281980&t=94)** Most modern workplace calendars, such as Outlook or Google, already have this built-in.
+> **[1:34](https://www.linkedin.com/learning/time-management-working-from-home-2018/how-to-work-across-time-zones-14790535?u=76281980&t=94)** Most modern workplace calendars, such as [[Microsoft Outlook|Outlook]] or [[Google]], already have this built-in.
 >
 > **[1:40](https://www.linkedin.com/learning/time-management-working-from-home-2018/how-to-work-across-time-zones-14790535?u=76281980&t=100)** If you're not using those apps, it might be wise to run a test or two to make sure that your group calendaring tool is automatically accounting for time zones.
 >
@@ -1182,7 +1168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), management (1), [[Microsoft Outlook|Outlook]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft Outlook|Outlook]] (1), [[Google]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Ports:** :00 (3)
 > **Analogies:** such as (1), for instance (1)
@@ -1191,8 +1177,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - when (1)
 
-#### Responding to quick questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/responding-to-quick-questions?u=76281980)
+#### [Responding to quick questions](https://www.linkedin.com/learning/time-management-working-from-home-2018/responding-to-quick-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1202,7 +1187,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/time-management-working-from-home-2018/responding-to-quick-questions?u=76281980&t=12)** The issue of quick questions becomes magnified when someone is working from home.
 >
-> **[0:19](https://www.linkedin.com/learning/time-management-working-from-home-2018/responding-to-quick-questions?u=76281980&t=19)** While you might think that the separation of not being together in a physical office would reduce these kinds of things, I've found the opposite to be true.
+> **[0:19](https://www.linkedin.com/learning/time-management-working-from-home-2018/responding-to-quick-questions?u=76281980&t=19)** While you might think that the separation of not being together in a physical [[Microsoft Office|office]] would reduce these kinds of things, I've found the opposite to be true.
 >
 > **[0:28](https://www.linkedin.com/learning/time-management-working-from-home-2018/responding-to-quick-questions?u=76281980&t=28)** Largely because team members don't know what their home-based counterparts are doing.
 >
@@ -1270,14 +1255,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Definitions:** means that (1), is an  (1)
 > **Cross-References:** we mentioned (1)
 > **Analogies:** such as (1)
 > **Speakers:** - excuse (1)
 
-#### Productivity and co-worker relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/productivity-and-co-worker-relationships?u=76281980)
+#### [Productivity and co-worker relationships](https://www.linkedin.com/learning/time-management-working-from-home-2018/productivity-and-co-worker-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1359,7 +1343,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1)
 > **CLI Commands:** find (4), make (3)
 > **Analogies:** such as (1), picture (1), for instance (1)
 > **Warnings:** be aware (2)
@@ -1371,8 +1354,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build boundaries with loved ones
-> [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/build-boundaries-with-loved-ones-14790533?u=76281980)
+#### [Build boundaries with loved ones](https://www.linkedin.com/learning/time-management-working-from-home-2018/build-boundaries-with-loved-ones-14790533?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1455,8 +1437,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - working (1)
 
-#### Manage interruptions and emergencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/manage-interruptions-and-emergencies-14788768?u=76281980)
+#### [Manage interruptions and emergencies](https://www.linkedin.com/learning/time-management-working-from-home-2018/manage-interruptions-and-emergencies-14788768?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1556,8 +1537,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - if (1)
 
-#### The power of having fun with loved ones
-> [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/the-power-of-having-fun-with-loved-ones-14792528?u=76281980)
+#### [The power of having fun with loved ones](https://www.linkedin.com/learning/time-management-working-from-home-2018/the-power-of-having-fun-with-loved-ones-14792528?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1579,7 +1559,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/time-management-working-from-home-2018/the-power-of-having-fun-with-loved-ones-14792528?u=76281980&t=50)** This is time set aside for people who you love and care about, a moment there they know they can count on where you're giving them undivided attention.
 >
-> **[1:01](https://www.linkedin.com/learning/time-management-working-from-home-2018/the-power-of-having-fun-with-loved-ones-14792528?u=76281980&t=61)** Then they are more likely to respect your time for the rest of the day.
+> **[1:01](https://www.linkedin.com/learning/time-management-working-from-home-2018/the-power-of-having-fun-with-loved-ones-14792528?u=76281980&t=61)** Then they are more likely to respect your time for the [[Representational State Transfer (REST)|rest]] of the day.
 >
 > **[1:07](https://www.linkedin.com/learning/time-management-working-from-home-2018/the-power-of-having-fun-with-loved-ones-14792528?u=76281980&t=67)** What I'm referring to should happen far more frequently than a vacation.
 >
@@ -1645,7 +1625,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), power (1), career (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
@@ -1657,8 +1637,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choose one action to take today
-> [LinkedIn Learning](https://www.linkedin.com/learning/time-management-working-from-home-2018/choose-one-action-to-take-today?u=76281980)
+#### [Choose one action to take today](https://www.linkedin.com/learning/time-management-working-from-home-2018/choose-one-action-to-take-today?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1686,7 +1665,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3)
 > **URLs:** [davecrenshaw.com](https://davecrenshaw.com) (1)
 > **Speakers:** - congratulations (1)
 

@@ -103,12 +103,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of AI-powered vector databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/the-power-of-ai-powered-vector-databases?u=76281980)
+#### [The power of AI-powered vector databases](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/the-power-of-ai-powered-vector-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/the-power-of-ai-powered-vector-databases?u=76281980&t=0)** - AI technologies are transforming how all of us work and vector databases at the forefront of this transformation at the infrastructure level.
+> **[0:00](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/the-power-of-ai-powered-vector-databases?u=76281980&t=0)** - AI technologies are transforming how all of us work and [[Vector Databases]] at the forefront of this transformation at the infrastructure level.
 >
 > **[0:08](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/the-power-of-ai-powered-vector-databases?u=76281980&t=8)** They are fundamentally changing how data's stored, managed and retrieved through their deep integration with AI models.
 >
@@ -118,13 +117,13 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/the-power-of-ai-powered-vector-databases?u=76281980&t=29)** You'll be using keyword, vector and hybrid searches to find the right data faster.
 >
-> **[0:35](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/the-power-of-ai-powered-vector-databases?u=76281980&t=35)** And you'll be applying retrieval augmented generation, which makes generative AI tools even better by grounding them with your data.
+> **[0:35](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/the-power-of-ai-powered-vector-databases?u=76281980&t=35)** And you'll be applying retrieval augmented generation, which makes [[Generative AI Tools]] even better by grounding them with your data.
 >
 > **[0:45](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/the-power-of-ai-powered-vector-databases?u=76281980&t=45)** Join me here and by the end, you'll have built a search and recommendation web app that is powered by a vector database.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), ai (2), database (2), [[Vector Databases]] (1), [[Generative AI Tools]] (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (1), [[Generative AI Tools]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - ai (1)
 
@@ -133,18 +132,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A high-level view of vector databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/a-high-level-view-of-vector-databases?u=76281980)
+#### [A high-level view of vector databases](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/a-high-level-view-of-vector-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/a-high-level-view-of-vector-databases?u=76281980&t=0)** - [Lecturer] So what is a vector database and how are they different from other types of databases?
+> **[0:00](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/a-high-level-view-of-vector-databases?u=76281980&t=0)** - [Lecturer] So what is a vector database and how are they different from other types of [[Databases]]?
 >
 > **[0:07](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/a-high-level-view-of-vector-databases?u=76281980&t=7)** At a very high level, a vector database is a type of database that is capable of organizing data by their meaning.
 >
 > **[0:15](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/a-high-level-view-of-vector-databases?u=76281980&t=15)** This allows a vector database to perform searches, to find database entries that are most similar to the search query.
 >
-> **[0:23](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/a-high-level-view-of-vector-databases?u=76281980&t=23)** For instance, let's say you search a vector database containing words for the word cat.
+> **[0:23](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/a-high-level-view-of-vector-databases?u=76281980&t=23)** For instance, let's say you search a vector database containing words for the [[Microsoft Word|word]] cat.
 >
 > **[0:28](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/a-high-level-view-of-vector-databases?u=76281980&t=28)** Using a vector search, the results would not only include the word cat and derivative words like cats, but also words with similar meaning like kitten, lion, jaguar, and so on.
 >
@@ -164,7 +162,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/a-high-level-view-of-vector-databases?u=76281980&t=107)** And if we plot colors in three dimensions according to these numbers, similar colors magically end up next to each other.
 >
-> **[1:55](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/a-high-level-view-of-vector-databases?u=76281980&t=115)** Vector databases extend this idea, but instead of three dials, we have hundreds of dials to represent more nuanced meaning.
+> **[1:55](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/a-high-level-view-of-vector-databases?u=76281980&t=115)** [[Vector Databases]] extend this idea, but instead of three dials, we have hundreds of dials to represent more nuanced meaning.
 >
 > **[2:04](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/a-high-level-view-of-vector-databases?u=76281980&t=124)** And these vectors are used to find object with similar meaning, just like how similar colors can be found by similar RGB values.
 >
@@ -188,29 +186,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), [[Search]] (5), [[Vector Databases]] (5), [[Microsoft Word|Word]] (3), data (2)
+> **Frameworks & Libraries:** [[Vector Databases]] (5), [[Microsoft Word|Word]] (3), [[Databases]] (1)
 > **CLI Commands:** cat (3), find (2), make (1)
 > **Env Vars:** rgb (3), cmyk (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for instance (1), just like (1), for example (1)
 > **Speakers:** - [lecturer] (1), - now (1)
 
-#### What you can do with vector databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/what-you-can-do-with-vector-databases?u=76281980)
+#### [What you can do with vector databases](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/what-you-can-do-with-vector-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/what-you-can-do-with-vector-databases?u=76281980&t=0)** - [Presenter] Before we get really hands-on, let's talk a little bit about what vector databases can do.
+> **[0:00](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/what-you-can-do-with-vector-databases?u=76281980&t=0)** - [Presenter] Before we get really hands-on, let's talk a little bit about what [[Vector Databases]] can do.
 >
 > **[0:06](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/what-you-can-do-with-vector-databases?u=76281980&t=6)** Being a type of database, they can, of course, manage data.
 >
 > **[0:10](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/what-you-can-do-with-vector-databases?u=76281980&t=10)** That means being able to create new entries or objects as well as being able to read, update, and delete existing objects.
 >
-> **[0:19](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/what-you-can-do-with-vector-databases?u=76281980&t=19)** And they can perform keyword searches and filtering just like many traditional databases.
+> **[0:19](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/what-you-can-do-with-vector-databases?u=76281980&t=19)** And they can perform keyword searches and filtering just like many traditional [[Databases]].
 >
 > **[0:24](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/what-you-can-do-with-vector-databases?u=76281980&t=24)** But vector databases can do other things to get value out of your data, more specifically, by leveraging modern AI technologies.
 >
-> **[0:33](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/what-you-can-do-with-vector-databases?u=76281980&t=33)** These capabilities include additional types of search and integration with generative AI tools.
+> **[0:33](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/what-you-can-do-with-vector-databases?u=76281980&t=33)** These capabilities include additional types of search and integration with [[Generative AI Tools]].
 >
 > **[0:40](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/what-you-can-do-with-vector-databases?u=76281980&t=40)** Vector databases can perform vector searches and hybrid searches as well using something called a vector index.
 >
@@ -236,7 +233,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/what-you-can-do-with-vector-databases?u=76281980&t=120)** Then these results are complemented by the vector search, whose results are based on the degree of similarity between the input and the database objects.
 >
-> **[2:11](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/what-you-can-do-with-vector-databases?u=76281980&t=131)** And last, but not least, some vector databases can perform retrieval-augmented generation or RAG.
+> **[2:11](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/what-you-can-do-with-vector-databases?u=76281980&t=131)** And last, but not least, some vector databases can perform [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]] or RAG.
 >
 > **[2:19](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/what-you-can-do-with-vector-databases?u=76281980&t=139)** This is a very powerful tool that combines the use of a large language model with data retrieved from the database.
 >
@@ -244,7 +241,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/what-you-can-do-with-vector-databases?u=76281980&t=159)** As with all the other features, you'll see this in more detail later on.
 >
-> **[2:43](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/what-you-can-do-with-vector-databases?u=76281980&t=163)** RAG is a very powerful and important tool for many, especially as large language models continue to become even more capable.
+> **[2:43](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/what-you-can-do-with-vector-databases?u=76281980&t=163)** RAG is a very powerful and important tool for many, especially as [[Large Language Models (LLM)|large language models]] continue to become even more capable.
 >
 > **[2:52](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/what-you-can-do-with-vector-databases?u=76281980&t=172)** As you can see, there's a lot that vector databases can do to help you find the right information faster.
 >
@@ -252,7 +249,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vector Databases]] (6), database (6), data (6), [[Search]] (6), rag (2)
+> **Frameworks & Libraries:** [[Vector Databases]] (6), [[Databases]] (1), [[Generative AI Tools]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** find (3)
 > **Analogies:** just like (2), similar to (1)
 > **Env Vars:** rag (2)
@@ -260,14 +257,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [presenter] (1)
 
-#### Get set up for the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/get-set-up-for-the-course?u=76281980)
+#### [Get set up for the course](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/get-set-up-for-the-course?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/get-set-up-for-the-course?u=76281980&t=0)** - [Instructor] Before we go further, let's get set up with the tools and resources that you'll need for the course.
 >
-> **[0:06](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/get-set-up-for-the-course?u=76281980&t=6)** The main tools that we'll be using are Python for our programming, Weaviate as our vector database, and the OpenAI API for their various AI models.
+> **[0:06](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/get-set-up-for-the-course?u=76281980&t=6)** The main tools that we'll be using are [[Python (Programming Language)|Python]] for our programming, [[Weaviate]] as our vector database, and the [[OpenAI API]] for their various AI models.
 >
 > **[0:17](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/get-set-up-for-the-course?u=76281980&t=17)** So here, we'll set you up with Python and the related tools, an example script to connect to Weaviate, and an OpenAI API key.
 >
@@ -277,7 +273,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/get-set-up-for-the-course?u=76281980&t=40)** Once you have Python installed on your system, I recommend working with a virtual environment.
 >
-> **[0:46](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/get-set-up-for-the-course?u=76281980&t=46)** If you're using a Mac, Linux, or even Windows with WSL, you can do this by navigating to your working directory and running a command like this.
+> **[0:46](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/get-set-up-for-the-course?u=76281980&t=46)** If you're using a Mac, [[Linux]], or even [[Windows]] with WSL, you can do this by navigating to your working directory and running a command like this.
 >
 > **[0:56](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/get-set-up-for-the-course?u=76281980&t=56)** This runs the venv script, which will create a virtual environment in the .venv subdirectory.
 >
@@ -295,7 +291,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/get-set-up-for-the-course?u=76281980&t=97)** You can use any number of different models for this.
 >
-> **[1:40](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/get-set-up-for-the-course?u=76281980&t=100)** With Weaviate, you could use local models or services like, Cohere, HuggingFace, and so on, but for the course, we'll be using OpenAI's models.
+> **[1:40](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/get-set-up-for-the-course?u=76281980&t=100)** With Weaviate, you could use local models or services like, Cohere, [[Hugging Face|HuggingFace]], and so on, but for the course, we'll be using OpenAI's models.
 >
 > **[1:51](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/get-set-up-for-the-course?u=76281980&t=111)** Let's go to the OpenAI website, sign up if you haven't, and then create a new API key.
 >
@@ -329,7 +325,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Weaviate]] (5), database (3), [[OpenAI API]] (3), ai (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Weaviate]] (5), [[OpenAI API]] (3), [[Linux]] (1), [[Windows]] (1)
 > **CLI Commands:** python (7), make (2)
 > **Env Vars:** api (5), wsl (1), ide (1)
 > **Prerequisites:** set up (3), install (2), you'll need (1)
@@ -338,12 +334,11 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Tools:** vs code (1)
 
-#### Keyword filtering and keyword searches
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/keyword-filtering-and-keyword-searches?u=76281980)
+#### [Keyword filtering and keyword searches](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/keyword-filtering-and-keyword-searches?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/keyword-filtering-and-keyword-searches?u=76281980&t=0)** - [Instructor] Let's dive in to explore some of the things you can do with vector databases.
+> **[0:00](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/keyword-filtering-and-keyword-searches?u=76281980&t=0)** - [Instructor] Let's dive in to explore some of the things you can do with [[Vector Databases]].
 >
 > **[0:05](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/keyword-filtering-and-keyword-searches?u=76281980&t=5)** Why don't we start by taking a look at searches in practice?
 >
@@ -363,7 +358,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/keyword-filtering-and-keyword-searches?u=76281980&t=55)** These movies don't actually exist, but I promise they're just as fun and interesting as a real movie data set.
 >
-> **[1:02](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/keyword-filtering-and-keyword-searches?u=76281980&t=62)** This code snippet will fetch objects from our collection of movies for those containing the word love in the description, returning a maximum of three movie objects.
+> **[1:02](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/keyword-filtering-and-keyword-searches?u=76281980&t=62)** This code snippet will [[Fetch]] objects from our collection of movies for those containing the [[Microsoft Word|word]] love in the description, returning a maximum of three movie objects.
 >
 > **[1:14](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/keyword-filtering-and-keyword-searches?u=76281980&t=74)** And if we take a look at the results here, we do indeed see that the word love appears in each of our return results.
 >
@@ -423,7 +418,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Search]] (6), data (4), database (3), next (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Vector Databases]] (1), [[Fetch]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** in other words (1), is called (1)
 > **Analogies:** similar to (1), for example (1)
@@ -431,8 +426,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Vector searches
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/vector-searches?u=76281980)
+#### [Vector searches](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/vector-searches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -442,7 +436,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/vector-searches?u=76281980&t=10)** Recall that we talked about analogies to colors with similar RGB values.
 >
-> **[0:16](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/vector-searches?u=76281980&t=16)** Vector databases allow us to capture meaning as vectors, which are just a series of numbers, and then perform fast, accurate searches based on how close they are in meaning to each other.
+> **[0:16](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/vector-searches?u=76281980&t=16)** [[Vector Databases]] allow us to capture meaning as vectors, which are just a series of numbers, and then perform fast, accurate searches based on how close they are in meaning to each other.
 >
 > **[0:28](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/vector-searches?u=76281980&t=28)** This probably still seems a little bit abstract, so let's turn that into something more concrete by exploring examples of vector search.
 >
@@ -452,7 +446,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/vector-searches?u=76281980&t=59)** But something interesting is happening here.
 >
-> **[1:01](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/vector-searches?u=76281980&t=61)** Let's do another vector search this time for the word amorous.
+> **[1:01](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/vector-searches?u=76281980&t=61)** Let's do another vector search this time for the [[Microsoft Word|word]] amorous.
 >
 > **[1:09](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/vector-searches?u=76281980&t=69)** You'll see that we can do that with the same code as before, just with a different search string.
 >
@@ -488,7 +482,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/vector-searches?u=76281980&t=146)** For example, with images and text.
 >
-> **[2:29](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/vector-searches?u=76281980&t=149)** In those cases, a search using images might be able to fetch text that best matches its description and again, vice versa.
+> **[2:29](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/vector-searches?u=76281980&t=149)** In those cases, a search using images might be able to [[Fetch]] text that best matches its description and again, vice versa.
 >
 > **[2:38](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/vector-searches?u=76281980&t=158)** The key idea, again, is that vector searches allows to search these objects by their key concepts or meanings.
 >
@@ -502,14 +496,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (14), [[Microsoft Word|Word]] (3), database (2), [[Vector Databases]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Vector Databases]] (1), [[Fetch]] (1)
 > **Analogies:** for example (2), similar to (1)
 > **Cross-References:** we talked about (2)
 > **Env Vars:** rgb (1)
 > **Speakers:** - let (1)
 
-#### Searching with filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/searching-with-filters?u=76281980)
+#### [Searching with filters](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/searching-with-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -531,7 +524,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/searching-with-filters?u=76281980&t=59)** You've seen that you can filter by keywords.
 >
-> **[1:01](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/searching-with-filters?u=76281980&t=61)** You can also filter by range of numbers in a particular property or by the metadata.
+> **[1:01](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/searching-with-filters?u=76281980&t=61)** You can also filter by range of numbers in a particular property or by the [[Metadata]].
 >
 > **[1:08](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/searching-with-filters?u=76281980&t=68)** Metadata might include things like object ID, object creation date, or whether a particular property is null, as well as many more.
 >
@@ -563,9 +556,9 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/searching-with-filters?u=76281980&t=171)** While we showed the simple example here, we can construct more nuanced filters as well.
 >
-> **[2:58](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/searching-with-filters?u=76281980&t=178)** For example, you can combine multiple filters with AND or OR operators denoted by ampersands or pipes in the Python client.
+> **[2:58](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/searching-with-filters?u=76281980&t=178)** For example, you can combine multiple filters with AND or OR operators denoted by ampersands or pipes in the [[Python (Programming Language)|Python]] client.
 >
-> **[3:07](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/searching-with-filters?u=76281980&t=187)** You could, for example, require that results be from earlier than a particular year, or that description to contain a particular word.
+> **[3:07](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/searching-with-filters?u=76281980&t=187)** You could, for example, require that results be from earlier than a particular year, or that description to contain a particular [[Microsoft Word|word]].
 >
 > **[3:17](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/searching-with-filters?u=76281980&t=197)** Using filters with a search is a versatile technique that lets you control your search domain with precision before carrying out the search.
 >
@@ -573,7 +566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (13), [[Metadata]] (2), data (1), [[Python (Programming Language)|Python]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Python (Programming Language)|Python]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1), find (1), python (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), imagine (1)
@@ -581,8 +574,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hybrid searches
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/hybrid-searches?u=76281980)
+#### [Hybrid searches](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/hybrid-searches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -600,7 +592,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/hybrid-searches?u=76281980&t=41)** So now let's take a look at a few examples of hybrid search.
 >
-> **[0:46](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/hybrid-searches?u=76281980&t=46)** You can perform a hybrid search with just one search query like we do here for the word stellar.
+> **[0:46](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/hybrid-searches?u=76281980&t=46)** You can perform a hybrid search with just one search query like we do here for the [[Microsoft Word|word]] stellar.
 >
 > **[0:53](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/hybrid-searches?u=76281980&t=53)** And if we perform the search, we see those results come up.
 >
@@ -610,7 +602,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/hybrid-searches?u=76281980&t=68)** So why don't we dig a little bit deeper into our results?
 >
-> **[1:12](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/hybrid-searches?u=76281980&t=72)** Let's update our search query to retrieve the score and explain score metadata and see what that tells us.
+> **[1:12](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/hybrid-searches?u=76281980&t=72)** Let's update our search query to retrieve the score and explain score [[Metadata]] and see what that tells us.
 >
 > **[1:26](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/hybrid-searches?u=76281980&t=86)** First, let's inspect the score.
 >
@@ -642,26 +634,25 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/hybrid-searches?u=76281980&t=203)** Next, we'll take a look at retrieval augmented generation.
 >
-> **[3:26](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/hybrid-searches?u=76281980&t=206)** This is where we can go beyond simple data retrieval by combining data with the power of large language models.
+> **[3:26](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/hybrid-searches?u=76281980&t=206)** This is where we can go beyond simple data retrieval by combining data with the power of [[Large Language Models (LLM)|large language models]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (29), [[Microsoft Word|Word]] (3), data (2), database (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Metadata]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** bm25 (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Retrieval augmented generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/retrieval-augmented-generation?u=76281980)
+#### [Retrieval augmented generation](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/retrieval-augmented-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/retrieval-augmented-generation?u=76281980&t=0)** - [Instructor] Let's talk about retrieval-augmented generation, which combines the power of generative AI models with the grounding of your real data.
+> **[0:00](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/retrieval-augmented-generation?u=76281980&t=0)** - [Instructor] Let's talk about [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]], which combines the power of [[Generative AI]] models with the grounding of your real data.
 >
 > **[0:09](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/retrieval-augmented-generation?u=76281980&t=9)** I think many of you have probably heard of generative AI models.
 >
-> **[0:13](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/retrieval-augmented-generation?u=76281980&t=13)** For example, large language models like the GPT or the Llama models that can produce human-like text.
+> **[0:13](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/retrieval-augmented-generation?u=76281980&t=13)** For example, [[Large Language Models (LLM)|large language models]] like the GPT or the [[LLaMA]] models that can produce human-like text.
 >
 > **[0:20](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/retrieval-augmented-generation?u=76281980&t=20)** These models can do all sorts of things like recite the capital of Australia, explain how gravity works, or even write a haiku about toothbrushes.
 >
@@ -727,21 +718,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (11), data (10), [[Search]] (5), prompt (4), [[Generative AI]] (3)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[LLaMA]] (1)
 > **Env Vars:** rag (11), gpt (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Vector database queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/challenge-vector-database-queries?u=76281980)
+#### [Challenge: Vector database queries](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/challenge-vector-database-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/challenge-vector-database-queries?u=76281980&t=0)** - [Instructor] For this first challenge, you're going to put your querying skills into practice by writing your own database queries.
+> **[0:00](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/challenge-vector-database-queries?u=76281980&t=0)** - [Instructor] For this first challenge, you're going to put your querying skills into practice by writing your own [[Database Queries]].
 >
-> **[0:12](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/challenge-vector-database-queries?u=76281980&t=12)** To get started, open up this Python script, which provides some code to help you get on the way.
+> **[0:12](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/challenge-vector-database-queries?u=76281980&t=12)** To get started, open up this [[Python (Programming Language)|Python]] script, which provides some code to help you get on the way.
 >
 > **[0:18](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/challenge-vector-database-queries?u=76281980&t=18)** The provided code here connects to the database, gets the movie collection, and then fetched a couple of objects before displaying the results on the screen.
 >
@@ -769,15 +759,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), database (2), [[Python (Programming Language)|Python]] (1), rag (1), prompt (1)
+> **Frameworks & Libraries:** [[Database Queries]] (1), [[Python (Programming Language)|Python]] (1)
 > **Versions:** 0.1 (1), 0.9 (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** rag (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Vector database queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-vector-database-queries?u=76281980)
+#### [Solution: Vector database queries](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-vector-database-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -795,7 +784,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-vector-database-queries?u=76281980&t=39)** We'll provide the alpha value from our loop, and then limit the number of results to three.
 >
-> **[0:45](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-vector-database-queries?u=76281980&t=45)** I would also like to get the score metadata, so I'll specify the return metadata parameter and use the metadata query class.
+> **[0:45](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-vector-database-queries?u=76281980&t=45)** I would also like to get the score [[Metadata]], so I'll specify the return metadata parameter and use the metadata query class.
 >
 > **[0:55](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-vector-database-queries?u=76281980&t=55)** And then with the response, I've written a note here to display what the alpha value used was, so I can see it in the results before iterating through the objects and displaying the review body, as well as the metadata score.
 >
@@ -827,9 +816,9 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-vector-database-queries?u=76281980&t=163)** And I break down what the title is, as well as what the description is.
 >
-> **[2:47](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-vector-database-queries?u=76281980&t=167)** Just a reminder, again, this is a template for Weaviate to replace these variables within the braces, within the collection property.
+> **[2:47](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-vector-database-queries?u=76281980&t=167)** Just a reminder, again, this is a template for [[Weaviate]] to replace these variables within the braces, within the collection property.
 >
-> **[2:54](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-vector-database-queries?u=76281980&t=174)** This is not a Python F-String.
+> **[2:54](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-vector-database-queries?u=76281980&t=174)** This is not a [[Python (Programming Language)|Python]] F-String.
 >
 > **[2:57](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-vector-database-queries?u=76281980&t=177)** The results can then be printed out with something like this.
 >
@@ -851,13 +840,13 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-vector-database-queries?u=76281980&t=226)** New results will probably differ from mine for a couple of reasons.
 >
-> **[3:50](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-vector-database-queries?u=76281980&t=230)** One is that large language models are not deterministic.
+> **[3:50](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-vector-database-queries?u=76281980&t=230)** One is that [[Large Language Models (LLM)|large language models]] are not deterministic.
 >
 > **[3:53](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-vector-database-queries?u=76281980&t=233)** And of course, your prompt probably differed from mine in some way or another, but hopefully you arrived at a similar query syntax as they did, and your language model was to generate a tagline that made sense in the context of the given information.
 >
 > **[4:09](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-vector-database-queries?u=76281980&t=249)** So that's your first challenge down.
 >
-> **[4:12](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-vector-database-queries?u=76281980&t=252)** If you can write queries like these, you are well in your way to making great use of vector databases.
+> **[4:12](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-vector-database-queries?u=76281980&t=252)** If you can write queries like these, you are well in your way to making great use of [[Vector Databases]].
 >
 > **[4:19](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-vector-database-queries?u=76281980&t=259)** But you might also be wondering, "Hey, how did the data get there in the first place?"
 >
@@ -865,7 +854,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), [[Metadata]] (4), rag (3), prompt (3), data (2)
+> **Frameworks & Libraries:** [[Metadata]] (4), [[Weaviate]] (1), [[Python (Programming Language)|Python]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Vector Databases]] (1)
 > **Env Vars:** rag (3)
 > **Versions:** 0.9 (2)
 > **CLI Commands:** python (1)
@@ -879,8 +868,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create your own database
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-your-own-database?u=76281980)
+#### [Create your own database](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-your-own-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -896,11 +884,11 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-your-own-database?u=76281980&t=30)** At its core level, deviate is a free open source database software library, but it is packaged and offered through multiple installation or deployment methods to meet different users' needs.
 >
-> **[0:43](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-your-own-database?u=76281980&t=43)** For this course, we'll use a cloud-based managed solution called Weaviate Cloud Services.
+> **[0:43](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-your-own-database?u=76281980&t=43)** For this course, we'll use a cloud-based managed solution called [[Weaviate]] [[Cloud Services]].
 >
 > **[0:48](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-your-own-database?u=76281980&t=48)** The free tier should be more than good enough for us, so let's do that.
 >
-> **[0:53](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-your-own-database?u=76281980&t=53)** This will let us focus on the course and not about managing any hardware or infrastructure concerns, but if you do have another preferred method like running a Kubernetes cluster, please feel free to do so and come back.
+> **[0:53](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-your-own-database?u=76281980&t=53)** This will let us focus on the course and not about managing any [[Hardware]] or infrastructure concerns, but if you do have another preferred method like running a [[Kubernetes]] cluster, please feel free to do so and come back.
 >
 > **[1:06](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-your-own-database?u=76281980&t=66)** You'll find the required information in the official documentation.
 >
@@ -946,11 +934,11 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-your-own-database?u=76281980&t=198)** Excellent, you are now a proud owner of a Vector database.
 >
-> **[3:22](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-your-own-database?u=76281980&t=202)** Next, we'll start to work with it by showing you a little bit more about how to interact with it using the Python client before going on to populate it with some actual data.
+> **[3:22](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-your-own-database?u=76281980&t=202)** Next, we'll start to work with it by showing you a little bit more about how to interact with it using the [[Python (Programming Language)|Python]] client before going on to populate it with some actual data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (12), next (3), [[Weaviate]] (3), api (3), data (2)
+> **Frameworks & Libraries:** [[Weaviate]] (3), [[Cloud Services]] (1), [[Hardware]] (1), [[Kubernetes]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (3), url (2), wcs (1)
 > **CLI Commands:** find (4), python (1)
 > **Prerequisites:** set up (2)
@@ -959,14 +947,13 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 
-#### Work with Weaviate
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/work-with-weaviate?u=76281980)
+#### [Work with Weaviate](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/work-with-weaviate?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/work-with-weaviate?u=76281980&t=0)** - [Instructor] Now that you've got a Weaviate database instance set up, let's talk a little more about how to work with it.
+> **[0:00](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/work-with-weaviate?u=76281980&t=0)** - [Instructor] Now that you've got a [[Weaviate]] database instance set up, let's talk a little more about how to work with it.
 >
-> **[0:07](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/work-with-weaviate?u=76281980&t=7)** Weaviate's actually configured with many rest endpoints, which you can access directly.
+> **[0:07](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/work-with-weaviate?u=76281980&t=7)** Weaviate's actually configured with many [[Representational State Transfer (REST)|rest]] endpoints, which you can access directly.
 >
 > **[0:12](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/work-with-weaviate?u=76281980&t=12)** For example, I can browse for the URL of a WCS instance and get this response, reassuringly telling me at the server's running, at least.
 >
@@ -984,15 +971,15 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/work-with-weaviate?u=76281980&t=61)** You've seen code examples like this earlier when we looked at queries, but now let's take a little more time going through it in detail, starting with this import statement.
 >
-> **[1:12](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/work-with-weaviate?u=76281980&t=72)** What we're doing here is to import the necessary classes that the Python client provides for typing.
+> **[1:12](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/work-with-weaviate?u=76281980&t=72)** What we're doing here is to import the necessary classes that the [[Python (Programming Language)|Python]] client provides for typing.
 >
 > **[1:18](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/work-with-weaviate?u=76281980&t=78)** We'll use quite a few of them, so we import them all as wvc here for convenience.
 >
-> **[1:23](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/work-with-weaviate?u=76281980&t=83)** You'll see it used throughout, like here, when we specify what metadata to retrieve.
+> **[1:23](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/work-with-weaviate?u=76281980&t=83)** You'll see it used throughout, like here, when we specify what [[Metadata]] to retrieve.
 >
 > **[1:29](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/work-with-weaviate?u=76281980&t=89)** And just above, you see this statement.
 >
-> **[1:31](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/work-with-weaviate?u=76281980&t=91)** A collection of objects in Weaviate is like a table in SQL.
+> **[1:31](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/work-with-weaviate?u=76281980&t=91)** A collection of objects in Weaviate is like a table in [[SQL]].
 >
 > **[1:36](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/work-with-weaviate?u=76281980&t=96)** Here we create a Python object for interacting with the movie collection, whether it be data operations like creating, updating, and deleting objects, running queries like keyword, vector, and hybrid searches, or expanding on them with RAG requests.
 >
@@ -1020,7 +1007,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Weaviate]] (6), database (3), [[Metadata]] (3), data (3), api (2)
+> **Frameworks & Libraries:** [[Weaviate]] (6), [[Metadata]] (3), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[SQL]] (1)
 > **Env Vars:** api (2), url (1), wcs (1), sql (1), rag (1)
 > **CLI Commands:** python (2), make (1), find (1)
 > **Analogies:** for example (2)
@@ -1028,16 +1015,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an object collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-an-object-collection?u=76281980)
+#### [Create an object collection](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-an-object-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-an-object-collection?u=76281980&t=0)** - [Instructor] What we need to do next is to create a framework for our data.
 >
-> **[0:04](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-an-object-collection?u=76281980&t=4)** This is also called creating an object collection in Weaviate.
+> **[0:04](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-an-object-collection?u=76281980&t=4)** This is also called creating an object collection in [[Weaviate]].
 >
-> **[0:08](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-an-object-collection?u=76281980&t=8)** This is a little bit like creating tables in relational databases.
+> **[0:08](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-an-object-collection?u=76281980&t=8)** This is a little bit like creating tables in [[Relational Databases]].
 >
 > **[0:13](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-an-object-collection?u=76281980&t=13)** Collection definitions are where we'll define the structure of the data, like what properties each collection will contain and their data types, like whether to hold text data, numbers and so on.
 >
@@ -1059,13 +1045,13 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-an-object-collection?u=76281980&t=83)** Very handy for avoiding the terrible films even if they're made up.
 >
-> **[1:27](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-an-object-collection?u=76281980&t=87)** Now let's begin to create our data collection.
+> **[1:27](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-an-object-collection?u=76281980&t=87)** Now let's begin to create our [[Data Collection]].
 >
 > **[1:31](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-an-object-collection?u=76281980&t=91)** Seeing how it's a movie database, we'll start with the collection for individual movies, first, we'll need a name.
 >
 > **[1:39](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-an-object-collection?u=76281980&t=99)** Let's call it movie after individual objects.
 >
-> **[1:42](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-an-object-collection?u=76281980&t=102)** And then let's define how the data will be vectorized and what generative AI tool to integrate with.
+> **[1:42](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-an-object-collection?u=76281980&t=102)** And then let's define how the data will be vectorized and what [[Generative AI]] tool to integrate with.
 >
 > **[1:49](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-an-object-collection?u=76281980&t=109)** In Weaviate this is done through the concept of modules.
 >
@@ -1073,7 +1059,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-an-object-collection?u=76281980&t=119)** You could also specify specific models, but we'll stick with the default ones for now.
 >
-> **[2:05](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-an-object-collection?u=76281980&t=125)** Next, we define properties, which are like columns in SQL.
+> **[2:05](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-an-object-collection?u=76281980&t=125)** Next, we define properties, which are like columns in [[SQL]].
 >
 > **[2:10](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-an-object-collection?u=76281980&t=130)** Each property needs a name and a data type at a minimum.
 >
@@ -1107,7 +1093,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), database (6), [[Weaviate]] (4), next (2), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[Weaviate]] (4), [[Relational Databases]] (1), [[Data Collection]] (1), [[Generative AI]] (1), [[SQL]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** make (2)
@@ -1115,8 +1101,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic data import in Weaviate
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/basic-data-import-in-weaviate?u=76281980)
+#### [Basic data import in Weaviate](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/basic-data-import-in-weaviate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1126,11 +1111,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/basic-data-import-in-weaviate?u=76281980&t=7)** We've created a database and created a scaffold or blueprint by defining our movie collection.
 >
-> **[0:15](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/basic-data-import-in-weaviate?u=76281980&t=15)** All we need to do now is to load our data and pass it to Weaviate in a way that matches the collection definition.
+> **[0:15](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/basic-data-import-in-weaviate?u=76281980&t=15)** All we need to do now is to load our data and pass it to [[Weaviate]] in a way that matches the collection definition.
 >
 > **[0:22](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/basic-data-import-in-weaviate?u=76281980&t=22)** So let's take a look.
 >
-> **[0:24](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/basic-data-import-in-weaviate?u=76281980&t=24)** What we're going to do first is to load the dataset using a library called pandas.
+> **[0:24](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/basic-data-import-in-weaviate?u=76281980&t=24)** What we're going to do first is to load the dataset using a library called [[Pandas (Software)|pandas]].
 >
 > **[0:29](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/basic-data-import-in-weaviate?u=76281980&t=29)** This line loads our movie data from a CSV to a nice tabular format called a DataFrame.
 >
@@ -1170,13 +1155,13 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/basic-data-import-in-weaviate?u=76281980&t=138)** We've used something like movies query.number times before for our searches, but now we're using movies.data.
 >
-> **[2:26](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/basic-data-import-in-weaviate?u=76281980&t=146)** What the Python client does here is to separate functions or methods into submodules like query or data or generate to make usage easier for developers.
+> **[2:26](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/basic-data-import-in-weaviate?u=76281980&t=146)** What the [[Python (Programming Language)|Python]] client does here is to separate functions or methods into submodules like query or data or generate to make usage easier for developers.
 >
 > **[2:36](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/basic-data-import-in-weaviate?u=76281980&t=156)** We'll close the connection and then run this code.
 >
 > **[2:41](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/basic-data-import-in-weaviate?u=76281980&t=161)** So when we now run this code with the insert_many method, it'll populate Weaviate with the movie data.
 >
-> **[2:49](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/basic-data-import-in-weaviate?u=76281980&t=169)** Note that while Weaviate does so, it'll contact the OpenAI API.
+> **[2:49](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/basic-data-import-in-weaviate?u=76281980&t=169)** Note that while Weaviate does so, it'll contact the [[OpenAI API]].
 >
 > **[2:54](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/basic-data-import-in-weaviate?u=76281980&t=174)** Remember that we defined the vectorizer module earlier to obtain vectors to represent each object.
 >
@@ -1202,7 +1187,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), database (6), [[Weaviate]] (5), next (3), [[OpenAI API]] (2)
+> **Frameworks & Libraries:** [[Weaviate]] (5), [[OpenAI API]] (2), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** uuid (3), api (2), csv (1), uid (1)
 > **CLI Commands:** python (1), make (1)
 > **Code Identifiers:** insert_many (2)
@@ -1211,12 +1196,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Establishing relationships with references
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/establishing-relationships-with-references?u=76281980)
+#### [Establishing relationships with references](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/establishing-relationships-with-references?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/establishing-relationships-with-references?u=76281980&t=0)** - [Instructor] So far, you've seen how to define our movie data collection as well as how to populate it, but this didn't include a common aspect of data sets, which is relationships.
+> **[0:00](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/establishing-relationships-with-references?u=76281980&t=0)** - [Instructor] So far, you've seen how to define our movie [[Data Collection]] as well as how to populate it, but this didn't include a common aspect of data sets, which is relationships.
 >
 > **[0:12](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/establishing-relationships-with-references?u=76281980&t=12)** In real life, data objects are often related to each other in some way.
 >
@@ -1226,7 +1210,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/establishing-relationships-with-references?u=76281980&t=27)** Well, that's where references, also called cross references, come in.
 >
-> **[0:32](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/establishing-relationships-with-references?u=76281980&t=32)** In Weaviate, references are created by defining them between collections.
+> **[0:32](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/establishing-relationships-with-references?u=76281980&t=32)** In [[Weaviate]], references are created by defining them between collections.
 >
 > **[0:38](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/establishing-relationships-with-references?u=76281980&t=38)** In our data set, we happen to have reviews for our movies.
 >
@@ -1306,14 +1290,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), database (2), product (1), [[Weaviate]] (1)
+> **Frameworks & Libraries:** [[Data Collection]] (1), [[Weaviate]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** hasreview (2), insert_many (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Recap: Building a vector database
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/recap-building-a-vector-database?u=76281980)
+#### [Recap: Building a vector database](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/recap-building-a-vector-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1323,7 +1306,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/recap-building-a-vector-database?u=76281980&t=8)** Let's pause here to recap the steps so far, and also discuss what you can do with the database.
 >
-> **[0:14](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/recap-building-a-vector-database?u=76281980&t=14)** First, you started up a new database instance with (indistinct) eight cloud services.
+> **[0:14](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/recap-building-a-vector-database?u=76281980&t=14)** First, you started up a new database instance with (indistinct) eight [[Cloud Services]].
 >
 > **[0:19](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/recap-building-a-vector-database?u=76281980&t=19)** This created a server that you or any other user can communicate with, given of course, the right authentication details.
 >
@@ -1353,9 +1336,9 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/recap-building-a-vector-database?u=76281980&t=109)** What we've built so far is obviously a fairly small database, but excitingly, you now have the tools to potentially build a database with millions or even billions of objects.
 >
-> **[2:01](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/recap-building-a-vector-database?u=76281980&t=121)** Given of course, the appropriate hardware resources, vector database can scale to these types of numbers while remaining performant, which is really exciting and a differentiating factor in this data rich age.
+> **[2:01](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/recap-building-a-vector-database?u=76281980&t=121)** Given of course, the appropriate [[Hardware]] resources, vector database can scale to these types of numbers while remaining performant, which is really exciting and a differentiating factor in this data rich age.
 >
-> **[2:14](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/recap-building-a-vector-database?u=76281980&t=134)** And the skills to populate those larger databases really don't differ from populating a smaller database.
+> **[2:14](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/recap-building-a-vector-database?u=76281980&t=134)** And the skills to populate those larger [[Databases]] really don't differ from populating a smaller database.
 >
 > **[2:20](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/recap-building-a-vector-database?u=76281980&t=140)** Now, in the next section, let's start to put this in something a little bit more user-friendly.
 >
@@ -1365,13 +1348,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), data (11), web (2), cloud (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (1), [[Hardware]] (1), [[Databases]] (1)
 > **Definitions:** in other words (1), means that (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Add another object collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/challenge-add-another-object-collection?u=76281980)
+#### [Challenge: Add another object collection](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/challenge-add-another-object-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1413,7 +1395,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), data (1)
 > **Analogies:** for example (1), similar to (1)
 > **File Paths:** movies.config (1)
 > **CLI Commands:** find (1)
@@ -1421,8 +1402,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Add another object collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-add-another-object-collection?u=76281980)
+#### [Solution: Add another object collection](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-add-another-object-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1516,7 +1496,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), database (5), next (3), cloud (1), web (1)
 > **Code Identifiers:** hassynopsis (2), data_type (1), formovie (1), add_reference (1), insert_many (1)
 > **Definitions:** is a  (2), is called (1)
 > **Best Practices:** don't forget (2), remember to (1)
@@ -1524,14 +1503,14 @@ created: 2026-05-02
 > **Analogies:** similar to (1), just like (1)
 > **File Paths:** movies.config (1)
 > **CLI Commands:** make (1)
+> **Cross-References:** in the next (1)
 
 
 ### 3. Building a Vector Database-Powered App
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Web apps and vector databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/web-apps-and-vector-databases?u=76281980)
+#### [Web apps and vector databases](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/web-apps-and-vector-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1561,7 +1540,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/web-apps-and-vector-databases?u=76281980&t=75)** By this point, they should be identical, but if you're not sure, you can use the demo database.
 >
-> **[1:20](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/web-apps-and-vector-databases?u=76281980&t=80)** And we'll also use a Python framework called Streamlit.
+> **[1:20](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/web-apps-and-vector-databases?u=76281980&t=80)** And we'll also use a [[Python (Programming Language)|Python]] framework called Streamlit.
 >
 > **[1:24](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/web-apps-and-vector-databases?u=76281980&t=84)** Streamlit makes it really easy to produce these data-driven web apps.
 >
@@ -1575,7 +1554,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/web-apps-and-vector-databases?u=76281980&t=113)** The truth is, most of the principles that you'll be learning and applying here relate to how to work with a vector database and to produce a data-driven app.
 >
-> **[2:03](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/web-apps-and-vector-databases?u=76281980&t=123)** These aspects will be applicable to other frameworks, whether using tools like Django or Flask, or even tools in other languages, like Express.
+> **[2:03](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/web-apps-and-vector-databases?u=76281980&t=123)** These aspects will be applicable to other frameworks, whether using tools like [[Django]] or Flask, or even tools in other languages, like Express.
 >
 > **[2:12](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/web-apps-and-vector-databases?u=76281980&t=132)** What's important is for you to conceptually see how a vector database can be connected to these interactive elements of a web app, how a user's inputs can be translated into queries, and how those queries and the responses can produce results that then can display back to the user.
 >
@@ -1585,14 +1564,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (11), database (7), [[Search]] (3), [[Python (Programming Language)|Python]] (2), data (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Django]] (1)
 > **CLI Commands:** python (2)
 > **Analogies:** just like (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a basic app
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-a-basic-app?u=76281980)
+#### [Create a basic app](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/create-a-basic-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1672,14 +1650,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), database (5), [[Search]] (4), next (2), web (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** just like (1), similar to (1)
 > **Env Vars:** rag (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connect the app to Weaviate
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/connect-the-app-to-weaviate?u=76281980)
+#### [Connect the app to Weaviate](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/connect-the-app-to-weaviate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1693,11 +1669,11 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/connect-the-app-to-weaviate?u=76281980&t=30)** Let's begin to modify to connect to our database.
 >
-> **[0:33](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/connect-the-app-to-weaviate?u=76281980&t=33)** I'll start by adding these imports and creating our connection to the Weaviate instance.
+> **[0:33](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/connect-the-app-to-weaviate?u=76281980&t=33)** I'll start by adding these imports and creating our connection to the [[Weaviate]] instance.
 >
 > **[0:41](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/connect-the-app-to-weaviate?u=76281980&t=41)** And of course, remembering to close the connection.
 >
-> **[0:45](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/connect-the-app-to-weaviate?u=76281980&t=45)** I'm also going to wrap the rest of the streamlet code in a try block like this.
+> **[0:45](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/connect-the-app-to-weaviate?u=76281980&t=45)** I'm also going to wrap the [[Representational State Transfer (REST)|rest]] of the streamlet code in a try block like this.
 >
 > **[0:50](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/connect-the-app-to-weaviate?u=76281980&t=50)** So I'll add the line try, indent all of this code, and add the finally close, and indent the client close function.
 >
@@ -1723,11 +1699,11 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/connect-the-app-to-weaviate?u=76281980&t=120)** And you probably remember that we created references between movies and synopses earlier.
 >
-> **[2:04](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/connect-the-app-to-weaviate?u=76281980&t=124)** To fetch those, we'll use a query reference object like so.
+> **[2:04](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/connect-the-app-to-weaviate?u=76281980&t=124)** To [[Fetch]] those, we'll use a query reference object like so.
 >
 > **[2:09](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/connect-the-app-to-weaviate?u=76281980&t=129)** We'll give it the reference property name to link on, which is hassynopsis, and then names of the properties to get from the target collection, which is called body in the case of the synopsis collection.
 >
-> **[2:21](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/connect-the-app-to-weaviate?u=76281980&t=141)** And now for the control flow, let's only have it perform a search when there is a search string entered.
+> **[2:21](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/connect-the-app-to-weaviate?u=76281980&t=141)** And now for the [[Control Flow]], let's only have it perform a search when there is a search string entered.
 >
 > **[2:28](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/connect-the-app-to-weaviate?u=76281980&t=148)** If the selection is for a vector search, we'll have the app run the near text method.
 >
@@ -1751,18 +1727,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (9), database (4), data (3), next (2), [[Fetch]] (2)
+> **Frameworks & Libraries:** [[Fetch]] (2), [[Weaviate]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Control Flow]] (1)
 > **Definitions:** is called (1), is a  (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Parsing query responses
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/parsing-query-responses?u=76281980)
+#### [Parsing query responses](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/parsing-query-responses?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/parsing-query-responses?u=76281980&t=0)** - [Instructor] Our web app is now connected to the Weaviate instance and able to send queries using the user's inputs.
+> **[0:00](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/parsing-query-responses?u=76281980&t=0)** - [Instructor] Our web app is now connected to the [[Weaviate]] instance and able to send queries using the user's inputs.
 >
 > **[0:07](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/parsing-query-responses?u=76281980&t=7)** Now let's pass the response back through the front end.
 >
@@ -1770,7 +1745,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/parsing-query-responses?u=76281980&t=21)** We can then retrieve each property through the properties attribute within each object.
 >
-> **[0:27](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/parsing-query-responses?u=76281980&t=27)** Now the Python client returns all the properties by default as a dictionary, so we can access each property as a key, like rating here and movie_id.
+> **[0:27](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/parsing-query-responses?u=76281980&t=27)** Now the [[Python (Programming Language)|Python]] client returns all the properties by default as a dictionary, so we can access each property as a key, like rating here and movie_id.
 >
 > **[0:38](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/parsing-query-responses?u=76281980&t=38)** Next, we need to retrieve the synopsis for each movie.
 >
@@ -1778,7 +1753,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/parsing-query-responses?u=76281980&t=48)** As a result, we'll have the requested data available through the references attribute within the response.
 >
-> **[0:55](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/parsing-query-responses?u=76281980&t=55)** And this is how you would fetch that data.
+> **[0:55](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/parsing-query-responses?u=76281980&t=55)** And this is how you would [[Fetch]] that data.
 >
 > **[0:57](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/parsing-query-responses?u=76281980&t=57)** Hopefully, this syntax is starting to look a little bit familiar.
 >
@@ -1834,13 +1809,13 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/parsing-query-responses?u=76281980&t=222)** There's just a one more feature to add, which is possibly the most exciting.
 >
-> **[3:47](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/parsing-query-responses?u=76281980&t=227)** I'm talking, of course, about adding our recommendation feature using retrieval-augmented generation.
+> **[3:47](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/parsing-query-responses?u=76281980&t=227)** I'm talking, of course, about adding our recommendation feature using [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]].
 >
 > **[3:52](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/parsing-query-responses?u=76281980&t=232)** We'll tackle that next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Search]] (3), next (3), [[Fetch]] (3), [[Weaviate]] (2)
+> **Frameworks & Libraries:** [[Fetch]] (3), [[Weaviate]] (2), [[Python (Programming Language)|Python]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1)
 > **Code Identifiers:** hassynopsis (2), movie_id (1), movie_tab (1), movie_uuid (1), fetch_object_by_id (1)
 > **Env Vars:** uuid (2)
 > **Analogies:** just like (2)
@@ -1848,8 +1823,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Recommendations with RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/recommendations-with-rag?u=76281980)
+#### [Recommendations with RAG](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/recommendations-with-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1909,7 +1883,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/recommendations-with-rag?u=76281980&t=130)** So this is a reverse of how we've used references before where we've fetched synopsis based on movie data.
 >
-> **[2:17](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/recommendations-with-rag?u=76281980&t=137)** This time we'll use the reference property for movie to fetch details of the reference movie object from the synopsis.
+> **[2:17](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/recommendations-with-rag?u=76281980&t=137)** This time we'll use the reference property for movie to [[Fetch]] details of the reference movie object from the synopsis.
 >
 > **[2:27](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/recommendations-with-rag?u=76281980&t=147)** So all that's left to do is to pass the results back to the user.
 >
@@ -1957,7 +1931,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (7), data (7), database (4), prompt (3), feature (2)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (2), is an  (1), in other words (1)
 > **Env Vars:** rag (1)
@@ -1965,8 +1939,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: App enhancements
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/challenge-app-enhancements?u=76281980)
+#### [Challenge: App enhancements](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/challenge-app-enhancements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2000,13 +1973,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), next (1), feature (1), data (1), web (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: App enhancements
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-app-enhancements?u=76281980)
+#### [Solution: App enhancements](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-app-enhancements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2044,7 +2015,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-app-enhancements?u=76281980&t=99)** And this will do a similar thing, but for the maximum year and make sure the data that's returned has the year that's less than or equal to the maximum year specified.
 >
-> **[1:52](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-app-enhancements?u=76281980&t=112)** So lastly, let's fetch and display the review data.
+> **[1:52](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-app-enhancements?u=76281980&t=112)** So lastly, let's [[Fetch]] and display the review data.
 >
 > **[1:56](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-app-enhancements?u=76281980&t=116)** For this, we need to remember how the movie collection is linked to the review collection.
 >
@@ -2072,7 +2043,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-app-enhancements?u=76281980&t=197)** We have an additional keyword option here in the radio buttons, and we have the year filters.
 >
-> **[3:23](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-app-enhancements?u=76281980&t=203)** Let's pick a keyword search for the word time, and then perform our search.
+> **[3:23](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-app-enhancements?u=76281980&t=203)** Let's pick a keyword search for the [[Microsoft Word|word]] time, and then perform our search.
 >
 > **[3:31](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-app-enhancements?u=76281980&t=211)** And if we change the year filter, let's say to between 1980 and 2000.
 >
@@ -2092,7 +2063,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), data (6), [[Fetch]] (2), database (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (2), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** hasreview (2), hassynopsis (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** bm25 (2)
@@ -2106,8 +2077,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Messiness of real data
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/messiness-of-real-data?u=76281980)
+#### [Messiness of real data](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/messiness-of-real-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2175,7 +2145,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), web (3), database (1), next (1)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** find (3)
 > **Analogies:** for example (3)
@@ -2183,12 +2152,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pre-processing text for vector databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/pre-processing-text-for-vector-databases?u=76281980)
+#### [Pre-processing text for vector databases](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/pre-processing-text-for-vector-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/pre-processing-text-for-vector-databases?u=76281980&t=0)** - [Instructor] Let's take a look at a couple of pre-processing tools and examples that might be applicable for vector databases.
+> **[0:00](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/pre-processing-text-for-vector-databases?u=76281980&t=0)** - [Instructor] Let's take a look at a couple of pre-processing tools and examples that might be applicable for [[Vector Databases]].
 >
 > **[0:07](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/pre-processing-text-for-vector-databases?u=76281980&t=7)** Here, as we often do, we'll talk about some general scenarios, before moving on to specific ones.
 >
@@ -2196,7 +2164,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/pre-processing-text-for-vector-databases?u=76281980&t=20)** That might seem very hard, but luckily for us there's a wide array of great tools available for this, like Beautiful Soup, pypdf, or even AI models.
 >
-> **[0:30](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/pre-processing-text-for-vector-databases?u=76281980&t=30)** Beautiful Soup, for example, is a popular tool that extracts text from HTML or XML files.
+> **[0:30](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/pre-processing-text-for-vector-databases?u=76281980&t=30)** Beautiful Soup, for example, is a popular tool that extracts text from [[HTML]] or XML files.
 >
 > **[0:38](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/pre-processing-text-for-vector-databases?u=76281980&t=38)** And pypdf will let you extract text from a PDF file, which is notoriously tricky to extract information from.
 >
@@ -2218,7 +2186,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/pre-processing-text-for-vector-databases?u=76281980&t=103)** But, for downloading just a few files, you can use API based tools like MediaWiki API.
 >
-> **[1:50](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/pre-processing-text-for-vector-databases?u=76281980&t=110)** These tools will fetch and parse Wikipedia articles with items like the summaries, sections, headings, and so on, parsed.
+> **[1:50](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/pre-processing-text-for-vector-databases?u=76281980&t=110)** These tools will [[Fetch]] and parse Wikipedia articles with items like the summaries, sections, headings, and so on, parsed.
 >
 > **[1:58](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/pre-processing-text-for-vector-databases?u=76281980&t=118)** So these in turn, help us to build sensible, context-rich data objects in no time.
 >
@@ -2242,19 +2210,18 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/pre-processing-text-for-vector-databases?u=76281980&t=187)** So, we now have just the text from a Wikipedia article with natural breakpoints to split the text, and we can also find contextual information of section and subsection headings to match the text.
 >
-> **[3:20](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/pre-processing-text-for-vector-databases?u=76281980&t=200)** Next up, we'll show you how real life data like this might be imported into Weaviate.
+> **[3:20](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/pre-processing-text-for-vector-databases?u=76281980&t=200)** Next up, we'll show you how real life data like this might be imported into [[Weaviate]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), ai (2), api (2), [[Vector Databases]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (1), [[HTML]] (1), [[Fetch]] (1), [[Weaviate]] (1)
 > **Env Vars:** api (2), html (1), xml (1), pdf (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chunking longer texts
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunking-longer-texts?u=76281980)
+#### [Chunking longer texts](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunking-longer-texts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2266,7 +2233,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunking-longer-texts?u=76281980&t=17)** At a high level, you can think of chunking as a way to help define a unit of information.
 >
-> **[0:23](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunking-longer-texts?u=76281980&t=23)** When it comes to databases, chunking would define the smallest amount of retrievable information.
+> **[0:23](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunking-longer-texts?u=76281980&t=23)** When it comes to [[Databases]], chunking would define the smallest amount of retrievable information.
 >
 > **[0:29](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunking-longer-texts?u=76281980&t=29)** At a library, a unit of information might be a book, but in a book's index, the unit of information might be a page.
 >
@@ -2274,7 +2241,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunking-longer-texts?u=76281980&t=42)** So the question is how much information will each data object contain?
 >
-> **[0:48](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunking-longer-texts?u=76281980&t=48)** This is an especially important topic in vector databases where each chunk is going to be represented by a vector.
+> **[0:48](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunking-longer-texts?u=76281980&t=48)** This is an especially important topic in [[Vector Databases]] where each chunk is going to be represented by a vector.
 >
 > **[0:56](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunking-longer-texts?u=76281980&t=56)** You should also know, though, that there are trade-offs depending on the size of each chunk as well.
 >
@@ -2308,7 +2275,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunking-longer-texts?u=76281980&t=177)** This is a simple but a quite effective and robust approach.
 >
-> **[3:02](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunking-longer-texts?u=76281980&t=182)** You can set a maximum word count or a character count for each chunk and split the text accordingly.
+> **[3:02](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunking-longer-texts?u=76281980&t=182)** You can set a maximum [[Microsoft Word|word]] count or a character count for each chunk and split the text accordingly.
 >
 > **[3:08](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunking-longer-texts?u=76281980&t=188)** As a rule of thumb, a good starting point would be something like 100, 150 words or five to 700 characters per chunk with an optional overlap somewhere between say, 10 to 15%.
 >
@@ -2320,15 +2287,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (4), [[Databases]] (1), [[Vector Databases]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Vector Databases]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (4), is an  (2), known as (1)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** go back to (1), we discussed (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chunk Wikipedia articles
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunk-wikipedia-articles?u=76281980)
+#### [Chunk Wikipedia articles](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunk-wikipedia-articles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2338,13 +2304,13 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunk-wikipedia-articles?u=76281980&t=10)** Off the top, I'm using the same mediawikiapi library that you saw earlier, as well as a few other standard libraries.
 >
-> **[0:18](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunk-wikipedia-articles?u=76281980&t=18)** And this is a list of some, what I think at least, are interesting articles ranging from history of computing to databases.
+> **[0:18](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunk-wikipedia-articles?u=76281980&t=18)** And this is a list of some, what I think at least, are interesting articles ranging from history of computing to [[Databases]].
 >
 > **[0:26](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunk-wikipedia-articles?u=76281980&t=26)** For each of these Wikipedia article then, we need to download it, pause it to raw text, and chunk the body as you just learned to import it into the database.
 >
 > **[0:36](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunk-wikipedia-articles?u=76281980&t=36)** So what I did was set up a couple of functions to break up these tasks.
 >
-> **[0:40](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunk-wikipedia-articles?u=76281980&t=40)** The first task is to turn our text into just a list of words, so we can use the word count for chunking.
+> **[0:40](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunk-wikipedia-articles?u=76281980&t=40)** The first task is to turn our text into just a list of words, so we can use the [[Microsoft Word|word]] count for chunking.
 >
 > **[0:47](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunk-wikipedia-articles?u=76281980&t=47)** This is what this word split of function does.
 >
@@ -2362,7 +2328,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunk-wikipedia-articles?u=76281980&t=98)** And then what we can do here is to use the functions that are defined above to go through each page.
 >
-> **[1:44](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunk-wikipedia-articles?u=76281980&t=104)** And then for each page, we'll get a list of chunks that pertains to those page, and then we'll save those chunks into this JSON file here.
+> **[1:44](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunk-wikipedia-articles?u=76281980&t=104)** And then for each page, we'll get a list of chunks that pertains to those page, and then we'll save those chunks into this [[JSON]] file here.
 >
 > **[1:54](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunk-wikipedia-articles?u=76281980&t=114)** It's a fairly simple piece of code that's quite useful.
 >
@@ -2370,7 +2336,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunk-wikipedia-articles?u=76281980&t=122)** Now let's have a look at a sample query that'll show you what you can do with chunked data like this.
 >
-> **[2:10](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunk-wikipedia-articles?u=76281980&t=130)** Let's say you want to know what our database says about how vector databases are different from relational databases.
+> **[2:10](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunk-wikipedia-articles?u=76281980&t=130)** Let's say you want to know what our database says about how [[Vector Databases]] are different from [[Relational Databases]].
 >
 > **[2:17](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/chunk-wikipedia-articles?u=76281980&t=137)** So hopefully this syntax seems familiar.
 >
@@ -2408,7 +2374,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), data (4), [[Microsoft Word|Word]] (2), [[Vector Databases]] (2), [[Relational Databases]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Vector Databases]] (2), [[Relational Databases]] (2), [[Databases]] (1), [[JSON]] (1)
 > **Env Vars:** rag (2), json (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Code Identifiers:** chunk_size_max (1), chunk_number (1)
@@ -2417,8 +2383,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Import Wikipedia data chunks
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/challenge-import-wikipedia-data-chunks?u=76281980)
+#### [Challenge: Import Wikipedia data chunks](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/challenge-import-wikipedia-data-chunks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2464,7 +2429,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), database (4), application (1)
 > **Env Vars:** uuid (2)
 > **Cross-References:** in the last (1)
 > **Exercise Files:** starter code (1)
@@ -2473,8 +2437,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (energetic electronic music) (1)
 
-#### Solution: Import Wikipedia data chunks
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-import-wikipedia-data-chunks?u=76281980)
+#### [Solution: Import Wikipedia data chunks](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-import-wikipedia-data-chunks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2534,11 +2497,11 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-import-wikipedia-data-chunks?u=76281980&t=220)** These types of chunking and data import techniques are really useful and applicable for many types and sources of data, and you now know how to apply them yourself end to end from creating a database to importing this data.
 >
-> **[3:55](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-import-wikipedia-data-chunks?u=76281980&t=235)** This is really exciting and I would really encourage you to build your own databases with whatever data you're interested in.
+> **[3:55](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/solution-import-wikipedia-data-chunks?u=76281980&t=235)** This is really exciting and I would really encourage you to build your own [[Databases]] with whatever data you're interested in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), database (3), rag (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Env Vars:** uuid (3), rag (2)
 > **Best Practices:** remember to (2)
 > **Definitions:** is a  (1)
@@ -2551,8 +2514,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue learning about vector databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/continue-learning-about-vector-databases?u=76281980)
+#### [Continue learning about vector databases](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/continue-learning-about-vector-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2560,7 +2522,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/continue-learning-about-vector-databases?u=76281980&t=2)** I hope you've found this course as interesting as I did building it.
 >
-> **[0:06](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/continue-learning-about-vector-databases?u=76281980&t=6)** Vector databases are fast becoming key pieces of infrastructure for many organizations.
+> **[0:06](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/continue-learning-about-vector-databases?u=76281980&t=6)** [[Vector Databases]] are fast becoming key pieces of infrastructure for many organizations.
 >
 > **[0:12](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/continue-learning-about-vector-databases?u=76281980&t=12)** And by learning how to build and then use vector databases, you've taken a huge first step towards mastery of this exciting field.
 >
@@ -2574,7 +2536,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/continue-learning-about-vector-databases?u=76281980&t=47)** We'll have links to some of these in the read me file.
 >
-> **[0:50](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/continue-learning-about-vector-databases?u=76281980&t=50)** You can find me on LinkedIn.
+> **[0:50](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/continue-learning-about-vector-databases?u=76281980&t=50)** You can find me on [[LinkedIn]].
 >
 > **[0:52](https://www.linkedin.com/learning/vector-databases-in-practice-deep-dive/continue-learning-about-vector-databases?u=76281980&t=52)** I would love to hear about what you're building with these new skills.
 >
@@ -2582,7 +2544,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vector Databases]] (2), next (1), ai (1), rag (1), database (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** rag (1)
 > **Definitions:** is a  (1)

@@ -84,36 +84,34 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/course-introduction?u=76281980)
+#### [Course introduction](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/course-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/course-introduction?u=76281980&t=0)** - Did your job just become all about data and statistics?
+> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/course-introduction?u=76281980&t=0)** - Did your job just become all about data and [[Statistics]]?
 >
 > **[0:03](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/course-introduction?u=76281980&t=3)** Do data-driven decisions need to be made and made fast?
 >
-> **[0:07](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/course-introduction?u=76281980&t=7)** If you need to learn about stats and Excel, you've come to the right place.
+> **[0:07](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/course-introduction?u=76281980&t=7)** If you need to learn about stats and [[Microsoft Excel|Excel]], you've come to the right place.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/course-introduction?u=76281980&t=11)** In this course, I'll show you how to understand and describe a data set.
 >
-> **[0:16](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/course-introduction?u=76281980&t=16)** We'll explore the foundations of probability and we'll learn how to use Excel to do some of the work for us.
+> **[0:16](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/course-introduction?u=76281980&t=16)** We'll explore the foundations of [[Probability]] and we'll learn how to use Excel to do some of the work for us.
 >
 > **[0:22](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/course-introduction?u=76281980&t=22)** Hi, I'm Eddie Davila, and I love working with statistics and Excel.
 >
-> **[0:27](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/course-introduction?u=76281980&t=27)** So if you're ready to get started, please join me over at LinkedIn Learning.
+> **[0:27](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/course-introduction?u=76281980&t=27)** So if you're ready to get started, please join me over at [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (3), [[Statistics]] (2), [[Probability]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Statistics]] (2), [[Probability]] (1), [[LinkedIn]] (1)
 > **Speakers:** - did (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/what-you-need-to-know?u=76281980&t=0)** - [Narrator] This class combines two things that scare lots of people, statistics and Excel.
+> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/what-you-need-to-know?u=76281980&t=0)** - [Narrator] This class combines two things that scare lots of people, [[Statistics]] and [[Microsoft Excel|Excel]].
 >
 > **[0:05](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/what-you-need-to-know?u=76281980&t=5)** And while it'd be great for you to have even a tiny level of comfort with each, don't worry.
 >
@@ -136,12 +134,11 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Statistics]] (2)
 > **Speakers:** - [narrator] (1)
 
-#### Exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/exercise-files?u=76281980)
+#### [Exercise files](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/exercise-files?u=76281980&t=0)** - [Instructor] The exercise files that come with this course are meant for you to follow along with my work and the videos, and they're there so you can practice working with statistics in Excel.
+> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/exercise-files?u=76281980&t=0)** - [Instructor] The exercise files that come with this course are meant for you to follow along with my work and the videos, and they're there so you can practice working with [[Statistics]] in [[Microsoft Excel|Excel]].
 >
 > **[0:10](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/exercise-files?u=76281980&t=10)** Each one is named with the chapter number followed by the video number.
 >
@@ -173,12 +170,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Excel basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/excel-basics?u=76281980)
+#### [Excel basics](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/excel-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/excel-basics?u=76281980&t=0)** - [Instructor] Some of you may be Excel experts, others you can get by with your Excel skills, and some of you may be pretty new to Excel.
+> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/excel-basics?u=76281980&t=0)** - [Instructor] Some of you may be [[Microsoft Excel|Excel]] experts, others you can get by with your Excel skills, and some of you may be pretty new to Excel.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/excel-basics?u=76281980&t=7)** So before we get started let's go through some very basic Excel functions.
 >
@@ -190,7 +186,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/excel-basics?u=76281980&t=21)** There are some slight differences from time to time.
 >
-> **[0:23](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/excel-basics?u=76281980&t=23)** In some cases, when I say the word Command, for example if I wanted to use the Command + D function on the Mac that might be the Control + D function on the PC.
+> **[0:23](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/excel-basics?u=76281980&t=23)** In some cases, when I say the [[Microsoft Word|word]] Command, for example if I wanted to use the Command + D function on the Mac that might be the Control + D function on the PC.
 >
 > **[0:32](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/excel-basics?u=76281980&t=32)** But let's go ahead and move forward.
 >
@@ -308,7 +304,7 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/excel-basics?u=76281980&t=317)** Notice what I just did there.
 >
-> **[5:19](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/excel-basics?u=76281980&t=319)** Instead of dragging it down, which I could have done, I went to the handle and I double-clicked and it knew that I wanted it to fill out the rest of my table right there.
+> **[5:19](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/excel-basics?u=76281980&t=319)** Instead of dragging it down, which I could have done, I went to the handle and I double-clicked and it knew that I wanted it to fill out the [[Representational State Transfer (REST)|rest]] of my table right there.
 >
 > **[5:32](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/excel-basics?u=76281980&t=332)** In this case, what we want to do is we want to sum the pounds of potatoes, and then we want to move that over into a different table.
 >
@@ -446,7 +442,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (11), data (7), hit (5), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (11), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** b12 (5), sum (4)
 > **UI Navigation:** click on (4), go to (1)
 > **CLI Commands:** make (2), find (1)
@@ -455,8 +451,7 @@ created: 2026-05-02
 > **Versions:** 27.92 (1)
 > **Cross-References:** go back to (1)
 
-#### Random number generator
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/random-number-generator?u=76281980)
+#### [Random number generator](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/random-number-generator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -468,7 +463,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/random-number-generator?u=76281980&t=27)** And in this course with data sets we've never seen before.
 >
-> **[0:30](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/random-number-generator?u=76281980&t=30)** Therefore, I'll often be using random number generator functions within Excel to put our lessons into action.
+> **[0:30](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/random-number-generator?u=76281980&t=30)** Therefore, I'll often be using random number generator functions within [[Microsoft Excel|Excel]] to put our lessons into action.
 >
 > **[0:39](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/random-number-generator?u=76281980&t=39)** So yes, some segments of these videos will be freestyled and I'm sort of excited or maybe nervous to see what types of interesting things we might encounter.
 >
@@ -600,7 +595,7 @@ created: 2026-05-02
 >
 > **[6:54](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/random-number-generator?u=76281980&t=414)** All right, let's go to something a little bit different.
 >
-> **[6:57](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/random-number-generator?u=76281980&t=417)** In the world of statistics, we often talk about something called a normal distribution, and we'll be talking about that quite a few times throughout this course and probably subsequent courses.
+> **[6:57](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/random-number-generator?u=76281980&t=417)** In the world of [[Statistics]], we often talk about something called a normal distribution, and we'll be talking about that quite a few times throughout this course and probably subsequent courses.
 >
 > **[7:09](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/random-number-generator?u=76281980&t=429)** You might say to yourself, "I don't exactly know what a normal distribution is."
 >
@@ -700,7 +695,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (6), hit (5), [[Statistics]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Statistics]] (1)
 > **UI Navigation:** click on (8), go to (3)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (3)
@@ -713,8 +708,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sum, Count, Max, Min, and Range
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/sum-count-max-min-and-range?u=76281980)
+#### [Sum, Count, Max, Min, and Range](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/sum-count-max-min-and-range?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -736,7 +730,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/sum-count-max-min-and-range?u=76281980&t=29)** At first, you have no idea what it is, what's inside that dataset.
 >
-> **[0:34](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/sum-count-max-min-and-range?u=76281980&t=34)** But, just as we can begin to understand the object in the dark by feeling it, we have descriptive tools and statistics that help us begin to understand our dataset.
+> **[0:34](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/sum-count-max-min-and-range?u=76281980&t=34)** But, just as we can begin to understand the object in the dark by feeling it, we have descriptive tools and [[Statistics]] that help us begin to understand our dataset.
 >
 > **[0:46](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/sum-count-max-min-and-range?u=76281980&t=46)** Let's look at some of these very basic descriptive tools that allow us to explore our new dataset.
 >
@@ -890,7 +884,7 @@ created: 2026-05-02
 >
 > **[6:18](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/sum-count-max-min-and-range?u=76281980&t=378)** Now, up to this point, we'll be looking at test scores.
 >
-> **[6:21](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/sum-count-max-min-and-range?u=76281980&t=381)** With financial data, we have a number of banks, so they have different branches; they have account numbers; and each account number, we think, has a balance.
+> **[6:21](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/sum-count-max-min-and-range?u=76281980&t=381)** With [[Financial Data]], we have a number of banks, so they have different branches; they have account numbers; and each account number, we think, has a balance.
 >
 > **[6:31](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/sum-count-max-min-and-range?u=76281980&t=391)** So the first thing we want to do is: I wonder how many accounts are in this particular set of bank data.
 >
@@ -980,7 +974,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), next (2), [[Statistics]] (1), [[Financial Data]] (1), hit (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Financial Data]] (1)
 > **Env Vars:** count (5), max (2), min (2), sum (2), randbetween (1)
 > **UI Navigation:** click on (2), go to (1), double-click (1)
 > **Versions:** 12.4 (2)
@@ -988,8 +982,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Means, medians, and modes
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/means-medians-and-modes?u=76281980)
+#### [Means, medians, and modes](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/means-medians-and-modes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1007,7 +1000,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/means-medians-and-modes?u=76281980&t=43)** So if we divide the sum by our count, we'll see that the average is 60.
 >
-> **[0:53](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/means-medians-and-modes?u=76281980&t=53)** An easier way to do this is to use the average function inside of Excel.
+> **[0:53](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/means-medians-and-modes?u=76281980&t=53)** An easier way to do this is to use the average function inside of [[Microsoft Excel|Excel]].
 >
 > **[0:57](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/means-medians-and-modes?u=76281980&t=57)** So let's go over here and say, "Well, let's type in average."
 >
@@ -1147,7 +1140,7 @@ created: 2026-05-02
 >
 > **[6:44](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/means-medians-and-modes?u=76281980&t=404)** And there is a mode, 72 seems to be the most popular exam score for this particular class.
 >
-> **[6:54](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/means-medians-and-modes?u=76281980&t=414)** Alright, so let's look at this with financial data.
+> **[6:54](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/means-medians-and-modes?u=76281980&t=414)** Alright, so let's look at this with [[Financial Data]].
 >
 > **[6:57](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/means-medians-and-modes?u=76281980&t=417)** And once again I'm going to copy and paste my formulas because we're looking at data in column C.
 >
@@ -1209,7 +1202,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (39), [[Microsoft Excel|Excel]] (3), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Financial Data]] (1)
 > **Env Vars:** mode (4), mult (3), sngl (1)
 > **CLI Commands:** find (7)
 > **Definitions:** is a  (3), known as (1), means that (1)
@@ -1223,8 +1216,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Frequency table
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/frequency-table?u=76281980)
+#### [Frequency table](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/frequency-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1236,7 +1228,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/frequency-table?u=76281980&t=22)** This table will then help us create a bar chart or histogram that represents the same distribution in graphical form.
 >
-> **[0:30](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/frequency-table?u=76281980&t=30)** In this video, we'll focus on a few different ways you can create a frequency table in Excel.
+> **[0:30](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/frequency-table?u=76281980&t=30)** In this video, we'll focus on a few different ways you can create a frequency table in [[Microsoft Excel|Excel]].
 >
 > **[0:37](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/frequency-table?u=76281980&t=37)** In our next video, we'll use the same table to create the histogram.
 >
@@ -1354,7 +1346,7 @@ created: 2026-05-02
 >
 > **[6:41](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/frequency-table?u=76281980&t=401)** When we compare this to what we have over here, took a little more work, but now, visually, it looks a little bit better.
 >
-> **[6:50](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/frequency-table?u=76281980&t=410)** So, how do we do this for the rest of our grade ranges?
+> **[6:50](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/frequency-table?u=76281980&t=410)** So, how do we do this for the [[Representational State Transfer (REST)|rest]] of our grade ranges?
 >
 > **[6:54](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/frequency-table?u=76281980&t=414)** For the Bs, Cs, Ds and Fs?
 >
@@ -1394,7 +1386,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (5), hit (5), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** frequency (6), countifs (3), countif (1), sum (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -1402,8 +1394,7 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Speakers:** - [narrator] (1)
 
-#### Histogram
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/histogram?u=76281980)
+#### [Histogram](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/histogram?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1479,7 +1470,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/histogram?u=76281980&t=248)** If this happened to you, you're not alone, but we can fix this.
 >
-> **[4:12](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/histogram?u=76281980&t=252)** Go to the exercise file entitled Excel Stats Formulas and Functions.
+> **[4:12](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/histogram?u=76281980&t=252)** Go to the exercise file entitled [[Microsoft Excel|Excel]] Stats Formulas and Functions.
 >
 > **[4:17](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/histogram?u=76281980&t=257)** Click on the chapter 03 worksheet, go to the PC column, and find the cells highlighted in blue.
 >
@@ -1527,7 +1518,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (3), [[Microsoft Excel|Excel]] (2), generic (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** go to (7), click on (3), right-click (3)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** previous video (1), go back to (1)
@@ -1540,8 +1531,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Standard deviation
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/standard-deviation?u=76281980)
+#### [Standard deviation](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/standard-deviation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1571,7 +1561,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/standard-deviation?u=76281980&t=93)** First, it's obvious, want you to notice how ugly these formulas are.
 >
-> **[1:39](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/standard-deviation?u=76281980&t=99)** Thankfully, we have Excel to do the heavy lifting.
+> **[1:39](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/standard-deviation?u=76281980&t=99)** Thankfully, we have [[Microsoft Excel|Excel]] to do the heavy lifting.
 >
 > **[1:42](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/standard-deviation?u=76281980&t=102)** Also, I want you to notice both formulas result in the variance being a squared number, this is why we use standard deviation.
 >
@@ -1629,7 +1619,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/standard-deviation?u=76281980&t=305)** Whoa, standard deviation is much bigger!
 >
-> **[5:08](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/standard-deviation?u=76281980&t=308)** And that makes sense, really big data points, really small data points, and one in the middle.
+> **[5:08](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/standard-deviation?u=76281980&t=308)** And that makes sense, really [[Big Data]] points, really small data points, and one in the middle.
 >
 > **[5:16](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/standard-deviation?u=76281980&t=316)** And let's do this one more time, we'll copy our formula here and in this case, standard deviation is zero, that also makes sense, because as we can see here, all of our data points are the same.
 >
@@ -1683,7 +1673,7 @@ created: 2026-05-02
 >
 > **[9:39](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/standard-deviation?u=76281980&t=579)** Let's do this one more time.
 >
-> **[9:46](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/standard-deviation?u=76281980&t=586)** So here we're doing it for financial data.
+> **[9:46](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/standard-deviation?u=76281980&t=586)** So here we're doing it for [[Financial Data]].
 >
 > **[9:51](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/standard-deviation?u=76281980&t=591)** First of all, our variance is huge, isn't it?
 >
@@ -1721,7 +1711,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), [[Microsoft Excel|Excel]] (4), hit (3), power (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Big Data]] (1), [[Financial Data]] (1)
 > **CLI Commands:** find (6), make (4)
 > **Env Vars:** stdev (7), var (3)
 > **Versions:** 15.8 (2), 15.81 (1), 0.5 (1), 614.71 (1), 13.2 (1)
@@ -1729,8 +1719,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### Normal curve and normal distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/normal-curve-and-normal-distribution?u=76281980)
+#### [Normal curve and normal distribution](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/normal-curve-and-normal-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1758,7 +1747,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/normal-curve-and-normal-distribution?u=76281980&t=70)** Third, since one half of the curve is the same as the other half, and since it's centered around the mean, the normal curve shows us that the mean and the median are the same, and since the tallest part of the curve is at the mean, this also tells us the mode is equal to the mean and the median.
 >
-> **[1:33](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/normal-curve-and-normal-distribution?u=76281980&t=93)** Fourth, in statistics, we say the perfect normal curve is centered at a mean of zero and has a standard deviation of one.
+> **[1:33](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/normal-curve-and-normal-distribution?u=76281980&t=93)** Fourth, in [[Statistics]], we say the perfect normal curve is centered at a mean of zero and has a standard deviation of one.
 >
 > **[1:43](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/normal-curve-and-normal-distribution?u=76281980&t=103)** You might be saying, well, the things we measure, for example, people's heights, test scores and the time it takes people to run marathons, these don't have a mean of zero.
 >
@@ -1782,17 +1771,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Definitions:** in other words (3)
 > **Analogies:** similar to (1), for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Skewness and kurtosis
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/skewness-and-kurtosis?u=76281980)
+#### [Skewness and kurtosis](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/skewness-and-kurtosis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/skewness-and-kurtosis?u=76281980&t=0)** - [Speaker] Mean, median, mode, even standard deviation, in most cases, these words sound pretty familiar even for those of us that are new to statistics.
+> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/skewness-and-kurtosis?u=76281980&t=0)** - [Speaker] Mean, median, mode, even standard deviation, in most cases, these words sound pretty familiar even for those of us that are new to [[Statistics]].
 >
 > **[0:10](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/skewness-and-kurtosis?u=76281980&t=10)** But how about skewness and kurtosis?
 >
@@ -1852,7 +1840,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/skewness-and-kurtosis?u=76281980&t=253)** As you can see, neither is very simple.
 >
-> **[4:16](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/skewness-and-kurtosis?u=76281980&t=256)** Which is why Excel is so useful.
+> **[4:16](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/skewness-and-kurtosis?u=76281980&t=256)** Which is why [[Microsoft Excel|Excel]] is so useful.
 >
 > **[4:19](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/skewness-and-kurtosis?u=76281980&t=259)** Not only does it calculate both of these statistics for us, it allows us to see how changing some data points in a dataset, can change the skewness and kurtosis of a dataset.
 >
@@ -1962,7 +1950,7 @@ created: 2026-05-02
 >
 > **[9:59](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/skewness-and-kurtosis?u=76281980&t=599)** Well this is very symmetrical data, it's almost at zero, and our kurtosis is a little bit flat, it's a negative one, so probably, not quite what we would be expecting and make these a little bit more visually appealing.
 >
-> **[10:16](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/skewness-and-kurtosis?u=76281980&t=616)** Let's do this for financial data.
+> **[10:16](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/skewness-and-kurtosis?u=76281980&t=616)** Let's do this for [[Financial Data]].
 >
 > **[10:20](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/skewness-and-kurtosis?u=76281980&t=620)** Oh, look at this, our skewness is way off.
 >
@@ -1986,15 +1974,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (35), [[Statistics]] (2), [[Microsoft Excel|Excel]] (2), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Microsoft Excel|Excel]] (2), [[Financial Data]] (1)
 > **Versions:** 1.0 (5), 0.5 (4), 1.2 (1), 0.223 (1), 0.16 (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2), in other words (1)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [speaker] (1)
 
-#### Empirical rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/empirical-rule?u=76281980)
+#### [Empirical rule](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/empirical-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2032,7 +2019,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/empirical-rule?u=76281980&t=130)** Those data points are sometimes referred to as outliers.
 >
-> **[2:15](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/empirical-rule?u=76281980&t=135)** So let's head over to Excel and see the empirical rule in action.
+> **[2:15](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/empirical-rule?u=76281980&t=135)** So let's head over to [[Microsoft Excel|Excel]] and see the empirical rule in action.
 >
 > **[2:20](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/empirical-rule?u=76281980&t=140)** So here we're going to be looking at data sets that come from the real world; whether it be rainfall, the height of NBA players or exam test scores.
 >
@@ -2216,7 +2203,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), next (2), [[Microsoft Excel|Excel]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Versions:** 99.7 (3), 0.3 (2), 11.56 (1), 11.5 (1), 42.88 (1)
 > **Env Vars:** nba (3), bins (2)
 > **CLI Commands:** find (2), make (1)
@@ -2230,16 +2217,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Descriptive tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/ddescriptive-tool?u=76281980)
+#### [Descriptive tool](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/ddescriptive-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/ddescriptive-tool?u=76281980&t=0)** - [Instructor] So far in this course, we've learned about a number of descriptive tools and statistics, all of them helping us understand the size and shape of our data sets, giving meaning to our data sets, perhaps, even providing us some insight on how to make some good decisions.
+> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/ddescriptive-tool?u=76281980&t=0)** - [Instructor] So far in this course, we've learned about a number of descriptive tools and [[Statistics]], all of them helping us understand the size and shape of our data sets, giving meaning to our data sets, perhaps, even providing us some insight on how to make some good decisions.
 >
 > **[0:16](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/ddescriptive-tool?u=76281980&t=16)** Yep, we've looked at quite a few tools and statistics.
 >
-> **[0:19](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/ddescriptive-tool?u=76281980&t=19)** Each is relatively easy to find and develop when using Excel, and while we spent quite a bit of time learning about each tool and statistic, it's time to let you in on a little secret.
+> **[0:19](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/ddescriptive-tool?u=76281980&t=19)** Each is relatively easy to find and develop when using [[Microsoft Excel|Excel]], and while we spent quite a bit of time learning about each tool and statistic, it's time to let you in on a little secret.
 >
 > **[0:31](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/ddescriptive-tool?u=76281980&t=31)** Excel has some built-in tools that allow you to very quickly find and develop pretty much everything we've already covered in this course.
 >
@@ -2353,7 +2339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Statistics]] (8), [[Microsoft Excel|Excel]] (4), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (8), [[Microsoft Excel|Excel]] (4)
 > **CLI Commands:** make (5), find (4)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is a  (1), means that (1)
@@ -2361,12 +2347,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Descriptive tool exercise
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/descriptive-tool-exercise?u=76281980)
+#### [Descriptive tool exercise](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/descriptive-tool-exercise?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/descriptive-tool-exercise?u=76281980&t=0)** - [Instructor] All right, we've just learned about how to use Excel's Descriptive tool with a few different data sets.
+> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/descriptive-tool-exercise?u=76281980&t=0)** - [Instructor] All right, we've just learned about how to use [[Microsoft Excel|Excel]]'s Descriptive tool with a few different data sets.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/descriptive-tool-exercise?u=76281980&t=5)** Now let's put many of the topics we've covered in this course to work by using Excel's Descriptive tool and also the Histogram tool.
 >
@@ -2374,7 +2359,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/descriptive-tool-exercise?u=76281980&t=25)** But instead of building our means, our medians, our modes, our kurtosis, doing all of those one at a time, let's use the Descriptive tool.
 >
-> **[0:34](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/descriptive-tool-exercise?u=76281980&t=34)** So again, we go up to our Data menu, Data Analysis, we go to our Descriptive Statistics, click OK.
+> **[0:34](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/descriptive-tool-exercise?u=76281980&t=34)** So again, we go up to our Data menu, Data Analysis, we go to our Descriptive [[Statistics]], click OK.
 >
 > **[0:45](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/descriptive-tool-exercise?u=76281980&t=45)** We want our input range to yes, be B.
 >
@@ -2510,13 +2495,13 @@ created: 2026-05-02
 >
 > **[6:54](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/descriptive-tool-exercise?u=76281980&t=414)** And again, if I just want to make sure, I can sum up all my data points and make sure that the frequency, 786 is equal to the number of exam scores that I have.
 >
-> **[7:07](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/descriptive-tool-exercise?u=76281980&t=427)** All right, so hopefully now you'll feel confident about being able to take a big data set, finding all the summary statistics that you need very quickly, and even turning it into a histogram very quickly if you'd like.
+> **[7:07](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/descriptive-tool-exercise?u=76281980&t=427)** All right, so hopefully now you'll feel confident about being able to take a [[Big Data]] set, finding all the summary statistics that you need very quickly, and even turning it into a histogram very quickly if you'd like.
 >
 > **[7:21](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/descriptive-tool-exercise?u=76281980&t=441)** All right, good luck.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Statistics]] (9), next (5), [[Microsoft Excel|Excel]] (2), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (9), [[Microsoft Excel|Excel]] (2), [[Big Data]] (1)
 > **CLI Commands:** make (8)
 > **Env Vars:** nba (3)
 > **Versions:** 46.23 (1), 43.79 (1)
@@ -2530,12 +2515,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Probability explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/probability-explained?u=76281980)
+#### [Probability explained](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/probability-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/probability-explained?u=76281980&t=0)** - [Instructor] Nobody has all the answers, but it seems everyone can tell you the probability.
+> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/probability-explained?u=76281980&t=0)** - [Instructor] Nobody has all the answers, but it seems everyone can tell you the [[Probability]].
 >
 > **[0:05](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/probability-explained?u=76281980&t=5)** There's a 50% chance that in a single roll you will roll either a four, five, or six with the die.
 >
@@ -2559,7 +2543,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/probability-explained?u=76281980&t=62)** This is what we call empirical probability.
 >
-> **[1:06](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/probability-explained?u=76281980&t=66)** Based on LeBron's lifetime NBA statistics, we believe there is a 73% chance he will make this next free throw.
+> **[1:06](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/probability-explained?u=76281980&t=66)** Based on LeBron's lifetime NBA [[Statistics]], we believe there is a 73% chance he will make this next free throw.
 >
 > **[1:15](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/probability-explained?u=76281980&t=75)** Look, there's plenty of past data to look at, but perhaps tonight he's tired.
 >
@@ -2591,7 +2575,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/probability-explained?u=76281980&t=163)** Those are definitely not even odds.
 >
-> **[2:47](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/probability-explained?u=76281980&t=167)** Let's begin to play around with probabilities in Excel.
+> **[2:47](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/probability-explained?u=76281980&t=167)** Let's begin to play around with probabilities in [[Microsoft Excel|Excel]].
 >
 > **[2:51](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/probability-explained?u=76281980&t=171)** So to find probability, we need to know the total number of occurrences that we're looking for, and then we divide by the total outcomes that are even possible.
 >
@@ -2739,7 +2723,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (13), next (5), [[Statistics]] (3), data (2), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Probability]] (13), [[Statistics]] (3), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** find (7), make (3)
 > **Definitions:** is a  (5), means that (1)
 > **Env Vars:** nba (1), nfl (1)
@@ -2747,8 +2731,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Percentiles
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/percentiles?u=76281980)
+#### [Percentiles](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/percentiles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2792,7 +2775,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/percentiles?u=76281980&t=99)** This score is in the top 30% of the class.
 >
-> **[1:44](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/percentiles?u=76281980&t=104)** But before we move to Excel, I want to warn you, Excel does things a little bit different.
+> **[1:44](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/percentiles?u=76281980&t=104)** But before we move to [[Microsoft Excel|Excel]], I want to warn you, Excel does things a little bit different.
 >
 > **[1:50](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/percentiles?u=76281980&t=110)** They like to use percentile as a dividing line.
 >
@@ -3006,7 +2989,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), data (5), next (2), hit (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6)
 > **Versions:** 132.5 (1), 0.995 (1)
 > **Definitions:** is a  (1), is called (1)
 > **CLI Commands:** make (1)
@@ -3015,8 +2998,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [host] (1)
 
-#### Permutations
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/permutations?u=76281980)
+#### [Permutations](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/permutations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3024,7 +3006,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/permutations?u=76281980&t=5)** There's only one single four on the die and there are six sides, so you have a one-in-six chance.
 >
-> **[0:13](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/permutations?u=76281980&t=13)** But what's the probability of choosing a queen from a standard deck of 52 cards?
+> **[0:13](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/permutations?u=76281980&t=13)** But what's the [[Probability]] of choosing a queen from a standard deck of 52 cards?
 >
 > **[0:20](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/permutations?u=76281980&t=20)** In this case, there's four queens in the deck and the deck has 52 cards.
 >
@@ -3042,7 +3024,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/permutations?u=76281980&t=62)** How many different possible first, second, and third place combinations are there if we have 10 runners?
 >
-> **[1:10](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/permutations?u=76281980&t=70)** Actually, the correct word we're looking for here is permutations.
+> **[1:10](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/permutations?u=76281980&t=70)** Actually, the correct [[Microsoft Word|word]] we're looking for here is permutations.
 >
 > **[1:17](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/permutations?u=76281980&t=77)** Permutations are the number of ways in which objects can be arranged.
 >
@@ -3098,7 +3080,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/permutations?u=76281980&t=210)** So we end up with 10 times nine times eight times seven times six times five and times four, 604,800 different permutations for those top three spots when we have 10 runners.
 >
-> **[3:48](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/permutations?u=76281980&t=228)** So let's move to Excel and look at some permutations.
+> **[3:48](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/permutations?u=76281980&t=228)** So let's move to [[Microsoft Excel|Excel]] and look at some permutations.
 >
 > **[3:53](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/permutations?u=76281980&t=233)** As you might expect, Excel has a permutations function.
 >
@@ -3175,8 +3157,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
 
-#### Combinations
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/combinations?u=76281980)
+#### [Combinations](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/combinations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3188,7 +3169,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/combinations?u=76281980&t=19)** The book club will raffle off three $50 gift cards to three of the members in attendance.
 >
-> **[0:27](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/combinations?u=76281980&t=27)** What is the probability both Maria and Carlos will win a gift card?
+> **[0:27](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/combinations?u=76281980&t=27)** What is the [[Probability]] both Maria and Carlos will win a gift card?
 >
 > **[0:32](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/combinations?u=76281980&t=32)** To solve this, we'll need to understand how to calculate combinations.
 >
@@ -3214,7 +3195,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/combinations?u=76281980&t=80)** n factorial divided by the quantity, n minus x factorial, times x factorial, where n is the total number of objects and x is the number of objects chosen at one time.
 >
-> **[1:36](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/combinations?u=76281980&t=96)** Let's head over to Excel and put this formula into action.
+> **[1:36](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/combinations?u=76281980&t=96)** Let's head over to [[Microsoft Excel|Excel]] and put this formula into action.
 >
 > **[1:42](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/combinations?u=76281980&t=102)** Let's begin with something very simple and knowable.
 >
@@ -3296,7 +3277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Probability]] (2), next (2), power (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Probability]] (2)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (2)
 > **Env Vars:** fact (1)
@@ -3305,14 +3286,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Addition rule of probability
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/addition-rule-of-probability?u=76281980)
+#### [Addition rule of probability](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/addition-rule-of-probability?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/addition-rule-of-probability?u=76281980&t=0)** - [Instructor] Let's say you have two coins, we flip both coins, what are the odds that the coin flips will result in at least one coin resulting in heads?
 >
-> **[0:12](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/addition-rule-of-probability?u=76281980&t=12)** To solve this probability problem, we're going to use something called the addition rule of probability.
+> **[0:12](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/addition-rule-of-probability?u=76281980&t=12)** To solve this [[Probability]] problem, we're going to use something called the addition rule of probability.
 >
 > **[0:18](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/addition-rule-of-probability?u=76281980&t=18)** The addition rule of probability is often presented like this.
 >
@@ -3348,7 +3328,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/addition-rule-of-probability?u=76281980&t=133)** Three of the four possible outcomes, 75% of our outcomes have at least one heads.
 >
-> **[2:21](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/addition-rule-of-probability?u=76281980&t=141)** Let's head over to Excel and put the addition rule to work.
+> **[2:21](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/addition-rule-of-probability?u=76281980&t=141)** Let's head over to [[Microsoft Excel|Excel]] and put the addition rule to work.
 >
 > **[2:26](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/addition-rule-of-probability?u=76281980&t=146)** So, here we can see exam score data for a number of students.
 >
@@ -3436,7 +3416,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (26), [[Microsoft Excel|Excel]] (1), data (1)
+> **Frameworks & Libraries:** [[Probability]] (26), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (4), make (2)
 > **Env Vars:** countif (4), counta (1), countifs (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -3445,8 +3425,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multiplication rule of probability
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/multiplication-rule-of-probability?u=76281980)
+#### [Multiplication rule of probability](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/multiplication-rule-of-probability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3460,7 +3439,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/multiplication-rule-of-probability?u=76281980&t=22)** To find the odds of rolling a six with both dice, we use the multiplication rule.
 >
-> **[0:29](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/multiplication-rule-of-probability?u=76281980&t=29)** We multiply the probability for each independent event, 16.7% times 16.7%.
+> **[0:29](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/multiplication-rule-of-probability?u=76281980&t=29)** We multiply the [[Probability]] for each independent event, 16.7% times 16.7%.
 >
 > **[0:37](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/multiplication-rule-of-probability?u=76281980&t=37)** This tells us there is a 2.79% chance both dice will result in six.
 >
@@ -3480,7 +3459,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/multiplication-rule-of-probability?u=76281980&t=71)** What's the probability all three cards will either be a 10, jack, queen, king, or ace?
 >
-> **[1:20](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/multiplication-rule-of-probability?u=76281980&t=80)** Let's use Excel and the multiplication rule to help us solve this problem.
+> **[1:20](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/multiplication-rule-of-probability?u=76281980&t=80)** Let's use [[Microsoft Excel|Excel]] and the multiplication rule to help us solve this problem.
 >
 > **[1:26](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/multiplication-rule-of-probability?u=76281980&t=86)** So in our file right here, we can see that I've already prepopulated 10, jack, queen, king, and ace, and we know that there are four of each of these in the deck, diamond, spades, clubs, and hearts.
 >
@@ -3534,18 +3513,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (5), [[Microsoft Excel|Excel]] (1), product (1)
+> **Frameworks & Libraries:** [[Probability]] (5), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 16.7 (4), 2.79 (2), 38.46 (2), 37.25 (2), 5.16 (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Conditional probability and probability trees
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/conditional-probability-and-probability-trees?u=76281980)
+#### [Conditional probability and probability trees](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/conditional-probability-and-probability-trees?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/conditional-probability-and-probability-trees?u=76281980&t=0)** - [Instructor] Probability trees, a really useful tool when you have a series of probability events.
+> **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/conditional-probability-and-probability-trees?u=76281980&t=0)** - [Instructor] [[Probability]] trees, a really useful tool when you have a series of probability events.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/conditional-probability-and-probability-trees?u=76281980&t=7)** For example, let's say we are flipping a coin, our two possible outcomes, heads and tails, each represents a different branch on our probability tree.
 >
@@ -3575,7 +3553,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/conditional-probability-and-probability-trees?u=76281980&t=96)** Now that heads came up the first time.
 >
-> **[1:39](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/conditional-probability-and-probability-trees?u=76281980&t=99)** Let's use Excel to build some more complex probability trees.
+> **[1:39](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/conditional-probability-and-probability-trees?u=76281980&t=99)** Let's use [[Microsoft Excel|Excel]] to build some more complex probability trees.
 >
 > **[1:45](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/conditional-probability-and-probability-trees?u=76281980&t=105)** So the scenario we're given here, there is a disease, we call this disease X and most people are healthy.
 >
@@ -3689,7 +3667,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (17), next (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Probability]] (17), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 0.9999 (2), 0.0001 (2), 0.98 (1), 0.02 (1), 99.99 (1)
 > **CLI Commands:** find (4), make (2)
 > **Definitions:** in other words (1), is a  (1), we call this (1)
@@ -3702,8 +3680,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Discrete probability explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-probability-explained?u=76281980)
+#### [Discrete probability explained](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-probability-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3713,7 +3690,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-probability-explained?u=76281980&t=12)** Why random?
 >
-> **[0:13](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-probability-explained?u=76281980&t=13)** Why do we use that word?
+> **[0:13](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-probability-explained?u=76281980&t=13)** Why do we use that [[Microsoft Word|word]]?
 >
 > **[0:14](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-probability-explained?u=76281980&t=14)** Well, as we perform experiments, we need to understand that the value of the eventual outcome of the experiment is unknown, or random.
 >
@@ -3741,7 +3718,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-probability-explained?u=76281980&t=92)** Again, we do not have any decimals.
 >
-> **[1:35](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-probability-explained?u=76281980&t=95)** This too would be a discrete probability.
+> **[1:35](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-probability-explained?u=76281980&t=95)** This too would be a discrete [[Probability]].
 >
 > **[1:39](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-probability-explained?u=76281980&t=99)** So what are continuous random variables?
 >
@@ -3793,13 +3770,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (3), next (2), [[Microsoft Word|Word]] (1), data (1)
+> **Frameworks & Libraries:** [[Probability]] (3), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Versions:** 0.58 (1), 2.35 (1), 4.77 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discrete: Mean
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-mean?u=76281980)
+#### [Discrete: Mean](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-mean?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3815,7 +3791,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-mean?u=76281980&t=42)** You can't order 0.35 drinks.
 >
-> **[0:46](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-mean?u=76281980&t=46)** Let's head over to Excel and look at the data collected in this study.
+> **[0:46](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-mean?u=76281980&t=46)** Let's head over to [[Microsoft Excel|Excel]] and look at the data collected in this study.
 >
 > **[0:51](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-mean?u=76281980&t=51)** As you can see, we've been given a Frequency Table.
 >
@@ -3871,7 +3847,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft Excel|Excel]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Versions:** 5.4 (3), 1.8 (2), 1.77 (2), 0.35 (1), 0.643 (1)
 > **Ports:** :00 (4)
 > **CLI Commands:** find (2), make (1)
@@ -3879,8 +3855,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discrete: Standard deviation
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-standard-deviation?u=76281980)
+#### [Discrete: Standard deviation](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-standard-deviation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4066,7 +4041,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), power (2), hit (1)
 > **Versions:** 1.77 (4), 0.67 (3), 99.7 (2), 2.87 (2), 0.5 (1)
 > **CLI Commands:** make (4), find (3)
 > **Cross-References:** previous video (1)
@@ -4074,8 +4048,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discrete: Binomial distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-binomial-distribution?u=76281980)
+#### [Discrete: Binomial distribution](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-binomial-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4085,7 +4058,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-binomial-distribution?u=76281980&t=12)** A patient can either test positive or negative for a disease.
 >
-> **[0:16](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-binomial-distribution?u=76281980&t=16)** These are possible binomial random variables provided we have n trials with the probability of success we call P.
+> **[0:16](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-binomial-distribution?u=76281980&t=16)** These are possible binomial random variables provided we have n trials with the [[Probability]] of success we call P.
 >
 > **[0:26](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-binomial-distribution?u=76281980&t=26)** In other words, if we take our coin and flip it four times, n is equal to four, the number of flips.
 >
@@ -4163,7 +4136,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-binomial-distribution?u=76281980&t=214)** But this table is already a bit ugly and it only goes up to N equals four.
 >
-> **[3:39](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-binomial-distribution?u=76281980&t=219)** Luckily, we have Excel, and Excel can be very useful in working with binomial distributions.
+> **[3:39](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-binomial-distribution?u=76281980&t=219)** Luckily, we have [[Microsoft Excel|Excel]], and Excel can be very useful in working with binomial distributions.
 >
 > **[3:47](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/discrete-binomial-distribution?u=76281980&t=227)** So in the file you've been provided, I've already prepopulated some things in here for you.
 >
@@ -4279,7 +4252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (19), next (5), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[Probability]] (19), [[Microsoft Excel|Excel]] (3)
 > **Versions:** 12.8 (3), 38.4 (2), 0.50 (1), 0.55 (1), 0.20 (1)
 > **UI Navigation:** go to (3), click on (2), scroll down (1)
 > **Definitions:** is a  (2), in other words (1)
@@ -4292,8 +4265,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuous: Z-score tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/continuous-z-score-tables?u=76281980)
+#### [Continuous: Z-score tables](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/continuous-z-score-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4343,7 +4315,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/continuous-z-score-tables?u=76281980&t=159)** 32% are outside of that range, which means we should expect about 16% of outcomes to be bigger on the positive side of the curve.
 >
-> **[2:51](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/continuous-z-score-tables?u=76281980&t=171)** Let's see how Excel can be useful in giving us those z-score table values.
+> **[2:51](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/continuous-z-score-tables?u=76281980&t=171)** Let's see how [[Microsoft Excel|Excel]] can be useful in giving us those z-score table values.
 >
 > **[2:59](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/continuous-z-score-tables?u=76281980&t=179)** So here you can see that we have data for NBA player heights.
 >
@@ -4403,7 +4375,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (4), power (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **Versions:** 0.99 (3), 0.8389 (2), 1.52 (2), 1.520 (2), 93.57 (2)
 > **CLI Commands:** find (9), make (1)
 > **Env Vars:** nba (7), norm (1), dist (1), true (1)
@@ -4412,14 +4384,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Continuous: Creating a normal curve in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/continuous-creating-a-normal-curve-in-excel?u=76281980)
+#### [Continuous: Creating a normal curve in Excel](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/continuous-creating-a-normal-curve-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/continuous-creating-a-normal-curve-in-excel?u=76281980&t=0)** - [Instructor] Throughout this course we have seen the normal curve and the power that goes with understanding the normal distribution.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/continuous-creating-a-normal-curve-in-excel?u=76281980&t=7)** So let's go ahead and build a normal curve in Excel.
+> **[0:07](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/continuous-creating-a-normal-curve-in-excel?u=76281980&t=7)** So let's go ahead and build a normal curve in [[Microsoft Excel|Excel]].
 >
 > **[0:13](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/continuous-creating-a-normal-curve-in-excel?u=76281980&t=13)** So as you can see in Excel I've provided a foundation for you to build off of.
 >
@@ -4443,7 +4414,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/continuous-creating-a-normal-curve-in-excel?u=76281980&t=88)** First, the Z value, which we have now in cell A3.
 >
-> **[1:34](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/continuous-creating-a-normal-curve-in-excel?u=76281980&t=94)** And the next thing, because we're going to do a cumulative probability here we are going to type true, and that's it.
+> **[1:34](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/continuous-creating-a-normal-curve-in-excel?u=76281980&t=94)** And the next thing, because we're going to do a cumulative [[Probability]] here we are going to type true, and that's it.
 >
 > **[1:43](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/continuous-creating-a-normal-curve-in-excel?u=76281980&t=103)** And we can copy this down.
 >
@@ -4559,7 +4530,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (4), data (4), [[Microsoft Excel|Excel]] (3), next (3), power (1)
+> **Frameworks & Libraries:** [[Probability]] (4), [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** make (9), find (2)
 > **UI Navigation:** go to (6), select the (1), click on (1)
 > **Env Vars:** norm (2), dist (2), normal (1), curve (1)
@@ -4567,8 +4538,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Continuous: Calculating normal distribution probabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/continuous-calculating-normal-distribution-probabilities?u=76281980)
+#### [Continuous: Calculating normal distribution probabilities](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/continuous-calculating-normal-distribution-probabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4596,7 +4566,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/continuous-calculating-normal-distribution-probabilities?u=76281980&t=110)** That means the area we're looking for represents 62.47% of the distribution.
 >
-> **[1:58](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/continuous-calculating-normal-distribution-probabilities?u=76281980&t=118)** Let's now go to Excel to solve similar types of problems.
+> **[1:58](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/continuous-calculating-normal-distribution-probabilities?u=76281980&t=118)** Let's now go to [[Microsoft Excel|Excel]] to solve similar types of problems.
 >
 > **[2:04](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/continuous-calculating-normal-distribution-probabilities?u=76281980&t=124)** Once again, I want to remind you that we're going to assume that NBA player heights are normally distributed.
 >
@@ -4704,7 +4674,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (2), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Versions:** 1.5 (2), 0.5 (2), 37.53 (2), 1.63 (2), 99.7 (1)
 > **CLI Commands:** find (11), make (1)
 > **Env Vars:** nba (2)
@@ -4716,14 +4686,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/next-steps-and-additional-resources?u=76281980)
+#### [Next steps and additional resources](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/next-steps-and-additional-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/next-steps-and-additional-resources?u=76281980&t=0)** - Congrats.
 >
-> **[0:01](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/next-steps-and-additional-resources?u=76281980&t=1)** Stats, Excel, you did it.
+> **[0:01](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/next-steps-and-additional-resources?u=76281980&t=1)** Stats, [[Microsoft Excel|Excel]], you did it.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/next-steps-and-additional-resources?u=76281980&t=4)** You've established a foundation.
 >
@@ -4733,13 +4702,13 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/next-steps-and-additional-resources?u=76281980&t=12)** That said, there's so much more out there.
 >
-> **[0:15](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/next-steps-and-additional-resources?u=76281980&t=15)** There are plenty more statistics courses in the LinkedIn Learning Library.
+> **[0:15](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/next-steps-and-additional-resources?u=76281980&t=15)** There are plenty more [[Statistics]] courses in the [[LinkedIn]] Learning Library.
 >
 > **[0:19](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/next-steps-and-additional-resources?u=76281980&t=19)** You could dig in deeper in Excel or you can explore tools like SPSS or maybe you want to see what all the buzz is about.
 >
 > **[0:28](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/next-steps-and-additional-resources?u=76281980&t=28)** What exactly is analytics?
 >
-> **[0:30](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/next-steps-and-additional-resources?u=76281980&t=30)** And if you're really loving stats in Excel, perhaps start exploring a career in data science.
+> **[0:30](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/next-steps-and-additional-resources?u=76281980&t=30)** And if you're really loving stats in Excel, perhaps start exploring a career in [[Data Science]].
 >
 > **[0:38](https://www.linkedin.com/learning/excel-statistics-essential-training-1-22334537/next-steps-and-additional-resources?u=76281980&t=38)** Thank you so much for completing this course.
 >
@@ -4747,7 +4716,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Statistics]] (1), [[LinkedIn]] (1), [[Analytics]] (1), career (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Statistics]] (1), [[LinkedIn]] (1), [[Data Science]] (1)
 > **Env Vars:** spss (1)
 > **Speakers:** - congrats (1)
 

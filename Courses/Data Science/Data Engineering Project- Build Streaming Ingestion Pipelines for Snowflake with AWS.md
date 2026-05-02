@@ -77,20 +77,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building streaming data pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/building-streaming-data-pipelines?u=76281980)
+#### [Building streaming data pipelines](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/building-streaming-data-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/building-streaming-data-pipelines?u=76281980&t=0)** - As data engineers, it's difficult to ignore the ever-growing importance and demand for stream data.
 >
-> **[0:06](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/building-streaming-data-pipelines?u=76281980&t=6)** In this course, we'll learn the fundamentals of streaming data pipelines.
+> **[0:06](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/building-streaming-data-pipelines?u=76281980&t=6)** In this course, we'll learn the fundamentals of streaming [[Data Pipelines]].
 >
-> **[0:10](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/building-streaming-data-pipelines?u=76281980&t=10)** We'll work with cutting-edge tooling, including the top cloud provider on the market, AWS, and the top cloud data platform on the market, Snowflake, to build a functional data stream.
+> **[0:10](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/building-streaming-data-pipelines?u=76281980&t=10)** We'll work with cutting-edge tooling, including the top cloud provider on the market, AWS, and the top cloud data platform on the market, [[Snowflake]], to build a functional data stream.
 >
 > **[0:20](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/building-streaming-data-pipelines?u=76281980&t=20)** I'm Sagar Suri.
 >
-> **[0:22](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/building-streaming-data-pipelines?u=76281980&t=22)** For over a decade, I've built and run high-impact data engineering programs across rapidly growing industries, including e-commerce and cybersecurity, and I'm thrilled to pass along my experiences to you.
+> **[0:22](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/building-streaming-data-pipelines?u=76281980&t=22)** For over a decade, I've built and run high-impact [[Data Engineering]] programs across rapidly growing industries, including [[E-Commerce]] and [[Cybersecurity]], and I'm thrilled to pass along my experiences to you.
 >
 > **[0:33](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/building-streaming-data-pipelines?u=76281980&t=33)** So join me as I share with you everything you need to know about streaming data pipelines.
 >
@@ -98,19 +97,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), cloud (2), aws (1), [[Snowflake]] (1), functional (1)
+> **Frameworks & Libraries:** [[Data Pipelines]] (2), [[Snowflake]] (1), [[Data Engineering]] (1), [[E-Commerce]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - as (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/what-you-should-know?u=76281980&t=0)** - [Instructor] Here's what you should know before starting this course.
 >
-> **[0:03](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/what-you-should-know?u=76281980&t=3)** While I will provide overviews of core concepts and each step of the project, including each of the tools we use and guidance on how to get set up in those tools, it's highly recommended that you have a foundational understanding of the data engineering discipline, some hands-on experience with SQL and scripting, familiarity with basic AWS concepts such as EC2 and VPCs, and an internet connection and web browser.
+> **[0:03](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/what-you-should-know?u=76281980&t=3)** While I will provide overviews of core concepts and each step of the project, including each of the tools we use and guidance on how to get set up in those tools, it's highly recommended that you have a foundational understanding of the [[Data Engineering]] discipline, some hands-on experience with [[SQL]] and scripting, familiarity with basic AWS concepts such as [[Amazon EC2|EC2]] and VPCs, and an internet connection and web browser.
 >
 > **[0:31](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/what-you-should-know?u=76281980&t=31)** For applicable videos, you'll find reference files in the "Related to this course" section.
 >
@@ -122,7 +120,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Engineering]] (1), [[SQL]] (1), [[Scripting]] (1), aws (1), [[Amazon EC2|Ec2]] (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (1), [[SQL]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** sql (1), aws (1), ec2 (1)
 > **CLI Commands:** aws (1), find (1)
 > **Analogies:** such as (1)
@@ -130,14 +128,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/prerequisites?u=76281980)
+#### [Prerequisites](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/prerequisites?u=76281980&t=0)** - [Instructor] In order to follow along with the hands-on project in this course, you'll need to set up a few prerequisites.
 >
-> **[0:07](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/prerequisites?u=76281980&t=7)** If you don't have access to a Snowflake environment, you can set up an account on [snowflake.com](https://snowflake.com).
+> **[0:07](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/prerequisites?u=76281980&t=7)** If you don't have access to a [[Snowflake]] environment, you can set up an account on [snowflake.com](https://snowflake.com).
 >
 > **[0:13](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/prerequisites?u=76281980&t=13)** By clicking on the start for free button and setting up an account, you'll receive a 30-day free trial, which includes $400 worth of free usage.
 >
@@ -165,11 +162,11 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/prerequisites?u=76281980&t=98)** This completes our introductory chapter.
 >
-> **[1:40](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/prerequisites?u=76281980&t=100)** In the next chapter, we'll discuss data streaming, AWS, Snowflake, and overview the project we'll be working on in this course.
+> **[1:40](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/prerequisites?u=76281980&t=100)** In the next chapter, we'll discuss [[Data Streaming]], AWS, Snowflake, and overview the project we'll be working on in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (9), [[Snowflake]] (5), data (4), cloud (2), next (1)
+> **Frameworks & Libraries:** [[Snowflake]] (5), [[Data Streaming]] (1)
 > **CLI Commands:** aws (9), make (2)
 > **Env Vars:** aws (7), vpc (2)
 > **Prerequisites:** set up (5), make sure you have (2), you'll need (1)
@@ -183,12 +180,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why AWS and Snowflake?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/why-aws-and-snowflake?u=76281980)
+#### [Why AWS and Snowflake?](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/why-aws-and-snowflake?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/why-aws-and-snowflake?u=76281980&t=0)** - [Instructor] The streaming project covered in this course will use services in AWS to facilitate a streaming pipeline that will land data in Snowflake in near real time.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/why-aws-and-snowflake?u=76281980&t=0)** - [Instructor] The streaming project covered in this course will use services in AWS to facilitate a streaming pipeline that will land data in [[Snowflake]] in near real time.
 >
 > **[0:10](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/why-aws-and-snowflake?u=76281980&t=10)** We'll learn more about these technologies in this video.
 >
@@ -198,30 +194,29 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/why-aws-and-snowflake?u=76281980&t=28)** Architecturally, Snowflake enables data engineers to build Lakehouse environments, a combination of a data warehouse and data lake due to its ability to support both structured and semi-structured data.
 >
-> **[0:41](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/why-aws-and-snowflake?u=76281980&t=41)** As Snowflake is based in the cloud, it offers elasticity and scalability without worrying about things like high upfront costs, performance, or complexity of managing the system.
+> **[0:41](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/why-aws-and-snowflake?u=76281980&t=41)** As Snowflake is based in the cloud, it offers elasticity and [[Scalability]] without worrying about things like high upfront costs, performance, or complexity of managing the system.
 >
-> **[0:55](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/why-aws-and-snowflake?u=76281980&t=55)** AWS is a secure cloud services platform offering compute power, database storage, 360 degree tooling for your software development lifecycle and other functionality to help businesses scale and grow.
+> **[0:55](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/why-aws-and-snowflake?u=76281980&t=55)** AWS is a secure [[Cloud Services]] platform offering compute power, database storage, 360 degree tooling for your [[Software Development]] lifecycle and other functionality to help businesses scale and grow.
 >
 > **[1:09](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/why-aws-and-snowflake?u=76281980&t=69)** It was the initial cloud provider offering S3 in 2006 and has held the largest market share since its inception.
 >
-> **[1:18](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/why-aws-and-snowflake?u=76281980&t=78)** Up next, I'll introduce the concept of data streaming and why it is relevant today.
+> **[1:18](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/why-aws-and-snowflake?u=76281980&t=78)** Up next, I'll introduce the concept of [[Data Streaming]] and why it is relevant today.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Snowflake]] (5), cloud (4), aws (2), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (5), [[Scalability]] (1), [[Cloud Services]] (1), [[Software Development]] (1), [[Data Streaming]] (1)
 > **Env Vars:** aws (2), ipo (1)
 > **CLI Commands:** aws (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to streaming ingestion pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/introduction-to-streaming-ingestion-pipelines?u=76281980)
+#### [Introduction to streaming ingestion pipelines](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/introduction-to-streaming-ingestion-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/introduction-to-streaming-ingestion-pipelines?u=76281980&t=0)** - [Instructor] Data pipelines are the core of a data engineer's everyday workflows.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/introduction-to-streaming-ingestion-pipelines?u=76281980&t=0)** - [Instructor] [[Data Pipelines]] are the core of a data engineer's everyday workflows.
 >
-> **[0:04](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/introduction-to-streaming-ingestion-pipelines?u=76281980&t=4)** While batch pipelines have been a staple workflow in the data engineering space for decades, streaming data pipelines are gaining popularity with the International Data Corporation reporting that by 2025, 30% of all data generated will be near real-time.
+> **[0:04](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/introduction-to-streaming-ingestion-pipelines?u=76281980&t=4)** While batch pipelines have been a staple workflow in the [[Data Engineering]] space for decades, streaming data pipelines are gaining popularity with the International Data Corporation reporting that by 2025, 30% of all data generated will be near [[Real-Time]].
 >
 > **[0:20](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/introduction-to-streaming-ingestion-pipelines?u=76281980&t=20)** In this chapter, we'll dive deeper into streaming data pipelines.
 >
@@ -229,7 +224,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/introduction-to-streaming-ingestion-pipelines?u=76281980&t=30)** Data pipelines are the coordination of infrastructure, tools, and processes that move data from a source, such as a transaction service, or enterprise application, through the ELT process, extract, load, and transform, and into a destination.
 >
-> **[0:46](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/introduction-to-streaming-ingestion-pipelines?u=76281980&t=46)** This destination could be a warehouse or lake house, such as snowflake.
+> **[0:46](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/introduction-to-streaming-ingestion-pipelines?u=76281980&t=46)** This destination could be a warehouse or lake house, such as [[Snowflake]].
 >
 > **[0:51](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/introduction-to-streaming-ingestion-pipelines?u=76281980&t=51)** Even further downstream, that data could be consumed by visualization tool, or ML model, or reverse ETL back into a source application, post transformation.
 >
@@ -247,23 +242,22 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/introduction-to-streaming-ingestion-pipelines?u=76281980&t=114)** Lastly, streaming data pipelines process events, whereas batch data pipelines process large chunks of data.
 >
-> **[2:01](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/introduction-to-streaming-ingestion-pipelines?u=76281980&t=121)** In our next video, we'll dive even deeper into data streaming and discuss practical use cases, considerations, and general architecture.
+> **[2:01](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/introduction-to-streaming-ingestion-pipelines?u=76281980&t=121)** In our next video, we'll dive even deeper into [[Data Streaming]] and discuss practical use cases, considerations, and general architecture.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[Real-Time]] (3), application (2), [[Data Engineering]] (1), [[Snowflake]] (1)
+> **Frameworks & Libraries:** [[Data Pipelines]] (17), [[Real-Time]] (3), [[Data Engineering]] (1), [[Snowflake]] (1), [[Data Streaming]] (1)
 > **Env Vars:** elt (1), etl (1)
 > **Analogies:** such as (2)
 > **Cross-References:** next video (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Streaming data pipelines: A deeper dive
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/streaming-data-pipelines-a-deeper-dive?u=76281980)
+#### [Streaming data pipelines: A deeper dive](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/streaming-data-pipelines-a-deeper-dive?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/streaming-data-pipelines-a-deeper-dive?u=76281980&t=0)** - [Instructor] In our previous video, we walked through an overview of streaming data pipelines.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/streaming-data-pipelines-a-deeper-dive?u=76281980&t=0)** - [Instructor] In our previous video, we walked through an overview of streaming [[Data Pipelines]].
 >
 > **[0:05](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/streaming-data-pipelines-a-deeper-dive?u=76281980&t=5)** In this video, we'll dive deeper into the anatomy of a streaming architecture, considerations and practical use cases.
 >
@@ -271,7 +265,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/streaming-data-pipelines-a-deeper-dive?u=76281980&t=16)** Streaming pipelines generally consist of a provider or set of providers.
 >
-> **[0:21](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/streaming-data-pipelines-a-deeper-dive?u=76281980&t=21)** This could be your products backend, your order service, or IOT sensors.
+> **[0:21](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/streaming-data-pipelines-a-deeper-dive?u=76281980&t=21)** This could be your [[Microsoft Products|products]] backend, your order service, or [[IoT]] sensors.
 >
 > **[0:27](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/streaming-data-pipelines-a-deeper-dive?u=76281980&t=27)** Your streaming platform could pull from this client or the client may publish to this via an application programming interface or API.
 >
@@ -287,7 +281,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/streaming-data-pipelines-a-deeper-dive?u=76281980&t=64)** It also requires a sync connector to communicate with sources and destinations.
 >
-> **[1:09](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/streaming-data-pipelines-a-deeper-dive?u=76281980&t=69)** Other optional pieces of your event streaming service are a schema registry to validate incoming payloads against an existing topics predefined schema or a real-time processing layer, such as Flink.
+> **[1:09](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/streaming-data-pipelines-a-deeper-dive?u=76281980&t=69)** Other optional pieces of your event streaming service are a schema registry to validate incoming payloads against an existing topics predefined schema or a [[Real-Time]] processing layer, such as Flink.
 >
 > **[1:21](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/streaming-data-pipelines-a-deeper-dive?u=76281980&t=81)** Lastly, your destination or store.
 >
@@ -313,7 +307,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/streaming-data-pipelines-a-deeper-dive?u=76281980&t=134)** Events that may not align with the defined schema in your schema registry or tied to an existing topic may end up in the dead letter queue so they don't block other events and can be troubleshooted.
 >
-> **[2:25](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/streaming-data-pipelines-a-deeper-dive?u=76281980&t=145)** And finally, scalability.
+> **[2:25](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/streaming-data-pipelines-a-deeper-dive?u=76281980&t=145)** And finally, [[Scalability]].
 >
 > **[2:27](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/streaming-data-pipelines-a-deeper-dive?u=76281980&t=147)** The ability to scale horizontally across multiple servers and vertically, for example, to buffer messages if falling behind.
 >
@@ -323,19 +317,19 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/streaming-data-pipelines-a-deeper-dive?u=76281980&t=171)** Let's walk through four sample use cases.
 >
-> **[2:54](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/streaming-data-pipelines-a-deeper-dive?u=76281980&t=174)** Firstly, e-commerce or banking companies detecting fraud anomalies quick enough to stop them.
+> **[2:54](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/streaming-data-pipelines-a-deeper-dive?u=76281980&t=174)** Firstly, [[E-Commerce]] or [[Banking]] companies detecting fraud anomalies quick enough to stop them.
 >
 > **[3:00](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/streaming-data-pipelines-a-deeper-dive?u=76281980&t=180)** In the real world, you may have two pipelines, a batch one that allows your transactions to be curated for earnings reports and analytics, and a second streaming pipeline that isn't cleansed and transformed solely for detecting fraud quickly.
 >
 > **[3:14](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/streaming-data-pipelines-a-deeper-dive?u=76281980&t=194)** A second example is customer behavior data to inform online advertising by a social media network, for example.
 >
-> **[3:22](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/streaming-data-pipelines-a-deeper-dive?u=76281980&t=202)** Thirdly, algorithmic stock day trading, and finally, IOT sensor data collection.
+> **[3:22](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/streaming-data-pipelines-a-deeper-dive?u=76281980&t=202)** Thirdly, algorithmic stock day trading, and finally, IOT sensor [[Data Collection]].
 >
-> **[3:28](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/streaming-data-pipelines-a-deeper-dive?u=76281980&t=208)** Now that you have a sound understanding of data streaming, we'll walk through an overview of the project we'll be building in this course in our next video.
+> **[3:28](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/streaming-data-pipelines-a-deeper-dive?u=76281980&t=208)** Now that you have a sound understanding of [[Data Streaming]], we'll walk through an overview of the project we'll be building in this course in our next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), database (3), [[IoT]] (2), [[Microsoft Products|Products]] (1), application (1)
+> **Frameworks & Libraries:** [[Data Pipelines]] (2), [[IoT]] (2), [[Microsoft Products|Products]] (1), [[Real-Time]] (1), [[Scalability]] (1)
 > **Analogies:** such as (3), for example (2)
 > **Env Vars:** iot (2), api (1)
 > **Definitions:** is a  (3)
@@ -344,8 +338,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** you'll need (1)
 
-#### Overview of streaming pipeline project
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/overview-of-streaming-pipeline-project?u=76281980)
+#### [Overview of streaming pipeline project](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/overview-of-streaming-pipeline-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -353,17 +346,17 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/overview-of-streaming-pipeline-project?u=76281980&t=7)** We'll be using MSK or Managed Streaming for Kafka.
 >
-> **[0:10](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/overview-of-streaming-pipeline-project?u=76281980&t=10)** This is AWS's fully managed, highly available Apache Kafka event streaming platform.
+> **[0:10](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/overview-of-streaming-pipeline-project?u=76281980&t=10)** This is AWS's fully managed, highly available [[Apache Kafka]] event streaming platform.
 >
 > **[0:17](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/overview-of-streaming-pipeline-project?u=76281980&t=17)** Event streaming platforms are event-driven architectures that specialize in streaming event data such as change data capture from a data provider to a destination.
 >
-> **[0:27](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/overview-of-streaming-pipeline-project?u=76281980&t=27)** Generally, a database management service of some sort, such as a lakehouse or a time series database.
+> **[0:27](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/overview-of-streaming-pipeline-project?u=76281980&t=27)** Generally, a [[Database Management]] service of some sort, such as a lakehouse or a time series database.
 >
-> **[0:33](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/overview-of-streaming-pipeline-project?u=76281980&t=33)** Other event streaming services include Amazon Kinesis, AWS's principle streaming service, or Google Datastream.
+> **[0:33](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/overview-of-streaming-pipeline-project?u=76281980&t=33)** Other event streaming services include Amazon Kinesis, AWS's principle streaming service, or [[Google]] Datastream.
 >
-> **[0:41](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/overview-of-streaming-pipeline-project?u=76281980&t=41)** At a high level in this chapter, you will create a provisioned Kafka cluster, create Kafka producers and connectors, create topics in a Kafka cluster, create a Snowflake database and associated permissions.
+> **[0:41](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/overview-of-streaming-pipeline-project?u=76281980&t=41)** At a high level in this chapter, you will create a provisioned Kafka cluster, create Kafka producers and connectors, create topics in a Kafka cluster, create a [[Snowflake]] database and associated permissions.
 >
-> **[0:57](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/overview-of-streaming-pipeline-project?u=76281980&t=57)** Specifically, our final pipeline will consist of an AWS EC2 instance, which will serve as our producer of events for a particular topic we create.
+> **[0:57](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/overview-of-streaming-pipeline-project?u=76281980&t=57)** Specifically, our final pipeline will consist of an AWS [[Amazon EC2|EC2]] instance, which will serve as our producer of events for a particular topic we create.
 >
 > **[1:06](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/overview-of-streaming-pipeline-project?u=76281980&t=66)** MSK will consume these events and send them through Kafka Connect to Snowflake's Snowpipe streaming service, and finally into our Snowflake instance as a table.
 >
@@ -377,7 +370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), data (3), database (3), [[Snowflake]] (3), [[Amazon EC2|Ec2]] (3)
+> **Frameworks & Libraries:** [[Snowflake]] (3), [[Amazon EC2|Ec2]] (3), [[Apache Kafka]] (1), [[Database Management]] (1), [[Google]] (1)
 > **Env Vars:** aws (5), msk (3), ec2 (3)
 > **CLI Commands:** aws (5), apache (1)
 > **Analogies:** such as (2)
@@ -389,18 +382,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up your MSK cluster and EC2 instance
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-msk-cluster-and-ec2-instance?u=76281980)
+#### [Setting up your MSK cluster and EC2 instance](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-msk-cluster-and-ec2-instance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-msk-cluster-and-ec2-instance?u=76281980&t=0)** - [Instructor] We'll start setting up our pipeline by building our MSK cluster and EC2 instance.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-msk-cluster-and-ec2-instance?u=76281980&t=0)** - [Instructor] We'll start setting up our pipeline by building our MSK cluster and [[Amazon EC2|EC2]] instance.
 >
 > **[0:05](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-msk-cluster-and-ec2-instance?u=76281980&t=5)** The EC2 instance will serve as the data producer that sends messages to MSK.
 >
 > **[0:10](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-msk-cluster-and-ec2-instance?u=76281980&t=10)** It will also host the Snowpipe Streaming via Kafka Connect.
 >
-> **[0:14](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-msk-cluster-and-ec2-instance?u=76281980&t=14)** Before proceeding, pause this video here and refer to the handout for a link to a handy CloudFormation template provided by Snowflake.
+> **[0:14](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-msk-cluster-and-ec2-instance?u=76281980&t=14)** Before proceeding, pause this video here and refer to the handout for a link to a handy CloudFormation template provided by [[Snowflake]].
 >
 > **[0:21](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-msk-cluster-and-ec2-instance?u=76281980&t=21)** Click that link, but come back to this video before proceeding to kick off the build.
 >
@@ -410,7 +402,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-msk-cluster-and-ec2-instance?u=76281980&t=38)** Let's click on the View in Designer button to understand what this template will be setting up for us.
 >
-> **[0:48](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-msk-cluster-and-ec2-instance?u=76281980&t=48)** We can break this JSON code down into sections.
+> **[0:48](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-msk-cluster-and-ec2-instance?u=76281980&t=48)** We can break this [[JSON]] code down into sections.
 >
 > **[0:52](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-msk-cluster-and-ec2-instance?u=76281980&t=52)** Firstly, we are setting up parameters to be referenced in the build of the EC2 instance and MSK cluster.
 >
@@ -422,7 +414,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-msk-cluster-and-ec2-instance?u=76281980&t=86)** We'll see this a bit later.
 >
-> **[1:29](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-msk-cluster-and-ec2-instance?u=76281980&t=89)** In line 74, metadata is referring to the customization options we want to make available to the user on the AWS UI.
+> **[1:29](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-msk-cluster-and-ec2-instance?u=76281980&t=89)** In line 74, [[Metadata]] is referring to the customization options we want to make available to the user on the AWS UI.
 >
 > **[1:37](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-msk-cluster-and-ec2-instance?u=76281980&t=97)** We'll notice this is referencing the parameters above.
 >
@@ -478,7 +470,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (8), next (7), [[Security]] (3), [[JSON]] (2), aws (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (8), [[JSON]] (2), [[Snowflake]] (1), [[Metadata]] (1)
 > **Env Vars:** msk (10), ec2 (8), json (2), aws (2)
 > **Exercise Files:** template (6)
 > **Prerequisites:** set up (3), setup (1)
@@ -487,12 +479,11 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Definitions:** is a  (1)
 
-#### Setting up your keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-keys?u=76281980)
+#### [Setting up your keys](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-keys?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-keys?u=76281980&t=0)** - [Instructor] Let's now spin up a session with our newly created EC2 instance and create public and private keys to be used for secured connection between Kafka Connector and Snowflake.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-keys?u=76281980&t=0)** - [Instructor] Let's now spin up a session with our newly created [[Amazon EC2|EC2]] instance and create public and private keys to be used for secured connection between Kafka Connector and [[Snowflake]].
 >
 > **[0:11](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-keys?u=76281980&t=11)** We're going to use AWS Session Manager to securely tunnel into our jump post, as that will be simpler than setting up open inbound ports, SSH Keys or bastion hosts.
 >
@@ -506,7 +497,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-keys?u=76281980&t=46)** In the idle session timeout field, change 20 to 60.
 >
-> **[0:51](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-keys?u=76281980&t=51)** Let's scroll down to the Linux Shell profile section.
+> **[0:51](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-keys?u=76281980&t=51)** Let's scroll down to the [[Linux]] Shell profile section.
 >
 > **[0:56](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-keys?u=76281980&t=56)** While we're here, let's bootstrap our session by entering /bin/bash.
 >
@@ -544,7 +535,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-keys?u=76281980&t=161)** That pipe is taking the output of the first command and using it as an input to the second command.
 >
-> **[2:47](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-keys?u=76281980&t=167)** The PKCS in PKCS8 stands for Public Key Cryptography Standards.
+> **[2:47](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-keys?u=76281980&t=167)** The PKCS in PKCS8 stands for Public Key [[Cryptography]] Standards.
 >
 > **[2:54](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-keys?u=76281980&t=174)** This instantiates OpenSSL's private key conversion tool.
 >
@@ -584,7 +575,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Snowflake]] (4), [[Amazon EC2|Ec2]] (2), aws (2), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Snowflake]] (4), [[Amazon EC2|Ec2]] (2), [[Linux]] (2), [[Cryptography]] (1)
 > **Env Vars:** ec2 (2), aws (2), ssh (1), tls (1), rsa (1)
 > **CLI Commands:** aws (2), cat (2), ssh (1), cd (1)
 > **UI Navigation:** scroll down (3), click on (2)
@@ -593,8 +584,7 @@ created: 2026-05-02
 > **Cross-References:** later in (2), next video (1)
 > **Exercise Files:** template (1)
 
-#### What is Snowpipe?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/what-is-snowpipe?u=76281980)
+#### [What is Snowpipe?](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/what-is-snowpipe?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -602,7 +592,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/what-is-snowpipe?u=76281980&t=6)** We'll dive deeper into Snowpipe in this video.
 >
-> **[0:10](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/what-is-snowpipe?u=76281980&t=10)** Snowpipe is a service offered by Snowflake that automates the load of data files into your Snowflake, Lakehouse from an external stage as soon as data is available versus setting up a job that does this in batches on a schedule, Snowpipe sends this data into a Snowflake object call to pipe, which stages the data from the source files before sending it to a Snowflake table.
+> **[0:10](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/what-is-snowpipe?u=76281980&t=10)** Snowpipe is a service offered by [[Snowflake]] that automates the load of data files into your Snowflake, Lakehouse from an external stage as soon as data is available versus setting up a job that does this in batches on a schedule, Snowpipe sends this data into a Snowflake object call to pipe, which stages the data from the source files before sending it to a Snowflake table.
 >
 > **[0:32](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/what-is-snowpipe?u=76281980&t=32)** Whereas Snowpipe loads files in minutes via micro batches, Snowpipe Streaming is a true streaming compliment.
 >
@@ -610,7 +600,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/what-is-snowpipe?u=76281980&t=55)** Because Snowpipe Streaming works nicely with MSK and has lower latency, we'll be using this option for our streaming pipeline.
 >
-> **[1:02](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/what-is-snowpipe?u=76281980&t=62)** Snowpipe Streaming does require a Java application wrapper.
+> **[1:02](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/what-is-snowpipe?u=76281980&t=62)** Snowpipe Streaming does require a [[Java]] application wrapper.
 >
 > **[1:06](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/what-is-snowpipe?u=76281980&t=66)** You'll notice when we install Snowpipe Streaming in the next video, it will be in the form of a JAR file.
 >
@@ -624,7 +614,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (10), data (6), next (2), [[Java]] (1), application (1)
+> **Frameworks & Libraries:** [[Snowflake]] (10), [[Java]] (1)
 > **Prerequisites:** install (3), configure (1), set up (1)
 > **Env Vars:** sdk (1), msk (1), jar (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -632,8 +622,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Installing Snowpipe Kafka connector
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/installing-snowpipe-kafka-connector?u=76281980)
+#### [Installing Snowpipe Kafka connector](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/installing-snowpipe-kafka-connector?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -675,7 +664,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/installing-snowpipe-kafka-connector?u=76281980&t=119)** This time we're going to download a JAR file.
 >
-> **[2:02](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/installing-snowpipe-kafka-connector?u=76281980&t=122)** And this JAR file makes it possible for the EC2 instance to communicate to the MSK cluster.
+> **[2:02](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/installing-snowpipe-kafka-connector?u=76281980&t=122)** And this JAR file makes it possible for the [[Amazon EC2|EC2]] instance to communicate to the MSK cluster.
 >
 > **[2:10](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/installing-snowpipe-kafka-connector?u=76281980&t=130)** And then let's just still delete out that TGZ file.
 >
@@ -685,7 +674,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/installing-snowpipe-kafka-connector?u=76281980&t=154)** We'll reference this trust store in a config we set up in the next video required for the client to securely connect to the MSK cluster.
 >
-> **[2:43](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/installing-snowpipe-kafka-connector?u=76281980&t=163)** Let's run another wget now, and this is going to actually download the Snowflake Kafka connector.
+> **[2:43](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/installing-snowpipe-kafka-connector?u=76281980&t=163)** Let's run another wget now, and this is going to actually download the [[Snowflake]] Kafka connector.
 >
 > **[2:52](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/installing-snowpipe-kafka-connector?u=76281980&t=172)** And then I'm going to download another four JAR files.
 >
@@ -701,7 +690,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), [[Snowflake]] (3), cd (1), web (1), [[Amazon EC2|Ec2]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (3), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** msk (5), tgz (3), jar (3), ec2 (1), sdk (1)
 > **CLI Commands:** wget (3), make (1), cd (1), sudo (1)
 > **Prerequisites:** install (4), set up (2)
@@ -710,14 +699,13 @@ created: 2026-05-02
 > **Tools:** bash (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up config for provider-MSK connection and create topic
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/set-up-config-for-provider-msk-connection-and-create-topic?u=76281980)
+#### [Set up config for provider-MSK connection and create topic](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/set-up-config-for-provider-msk-connection-and-create-topic?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/set-up-config-for-provider-msk-connection-and-create-topic?u=76281980&t=0)** - [Instructor] In our previous video, we installed the Snowpipe Kafka Connector, which bridges MSK and Snowflake.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/set-up-config-for-provider-msk-connection-and-create-topic?u=76281980&t=0)** - [Instructor] In our previous video, we installed the Snowpipe Kafka Connector, which bridges MSK and [[Snowflake]].
 >
-> **[0:06](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/set-up-config-for-provider-msk-connection-and-create-topic?u=76281980&t=6)** Let's now work on establishing a relationship between the provider, our EC2 instance and MSK.
+> **[0:06](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/set-up-config-for-provider-msk-connection-and-create-topic?u=76281980&t=6)** Let's now work on establishing a relationship between the provider, our [[Amazon EC2|EC2]] instance and MSK.
 >
 > **[0:12](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/set-up-config-for-provider-msk-connection-and-create-topic?u=76281980&t=12)** We'll also set up a Kafka topic in this video.
 >
@@ -761,7 +749,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/set-up-config-for-provider-msk-connection-and-create-topic?u=76281980&t=158)** Now, these following commands will enable Kafka's converter tools to help ensure Kafka converts bytes to a string.
 >
-> **[2:46](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/set-up-config-for-provider-msk-connection-and-create-topic?u=76281980&t=166)** So data's readable and ensures incoming JSON's readable as well.
+> **[2:46](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/set-up-config-for-provider-msk-connection-and-create-topic?u=76281980&t=166)** So data's readable and ensures incoming [[JSON]]'s readable as well.
 >
 > **[2:50](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/set-up-config-for-provider-msk-connection-and-create-topic?u=76281980&t=170)** So I'm going to throw those in now.
 >
@@ -809,7 +797,7 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/set-up-config-for-provider-msk-connection-and-create-topic?u=76281980&t=337)** Lastly, we have the option to indicate any partitioning or replication factors we want.
 >
-> **[5:43](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/set-up-config-for-provider-msk-connection-and-create-topic?u=76281980&t=343)** Partitioning in this context refers to how many nodes in your MSK cluster you want your logs to be sharded across, which helps with scalability.
+> **[5:43](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/set-up-config-for-provider-msk-connection-and-create-topic?u=76281980&t=343)** Partitioning in this context refers to how many nodes in your MSK cluster you want your logs to be sharded across, which helps with [[Scalability]].
 >
 > **[5:51](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/set-up-config-for-provider-msk-connection-and-create-topic?u=76281980&t=351)** Replication factors refer to how many nodes each log will get written to.
 >
@@ -825,7 +813,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), data (4), [[Amazon EC2|Ec2]] (3), next (3), [[Snowflake]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (3), [[Snowflake]] (2), [[JSON]] (1), [[Scalability]] (1)
 > **Env Vars:** msk (10), ec2 (3), aws (1), json (1)
 > **Cross-References:** previous video (1), later in (1), go back to (1), in the last (1), next video (1)
 > **CLI Commands:** cat (2), aws (1), ls (1)
@@ -834,12 +822,11 @@ created: 2026-05-02
 > **Tools:** aws console (1), command line (1)
 > **Definitions:** is a  (1), refers to (1)
 
-#### Preparing your Snowflake environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/preparing-your-snowflake-environment?u=76281980)
+#### [Preparing your Snowflake environment](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/preparing-your-snowflake-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/preparing-your-snowflake-environment?u=76281980&t=0)** - [Instructor] In this video, we'll set up key components within your Snowflake instance in order for that instance to receive data from MSK.
+> **[0:00](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/preparing-your-snowflake-environment?u=76281980&t=0)** - [Instructor] In this video, we'll set up key components within your [[Snowflake]] instance in order for that instance to receive data from MSK.
 >
 > **[0:08](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/preparing-your-snowflake-environment?u=76281980&t=8)** This will include a database and schema to store the incoming data, a virtual warehouse for processing, and a permissioned user that the Kafka connector can assume.
 >
@@ -849,7 +836,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/preparing-your-snowflake-environment?u=76281980&t=25)** Also make sure your role is ACCOUNTADMIN, or some other role that has the ability to create users, roles, and database objects.
 >
-> **[0:34](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/preparing-your-snowflake-environment?u=76281980&t=34)** Click on the plus button on the top-right, then create a new SQL worksheet.
+> **[0:34](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/preparing-your-snowflake-environment?u=76281980&t=34)** Click on the plus button on the top-right, then create a new [[SQL]] worksheet.
 >
 > **[0:39](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/preparing-your-snowflake-environment?u=76281980&t=39)** Let's begin by creating a database and schema that we'll stream our data into.
 >
@@ -857,7 +844,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/preparing-your-snowflake-environment?u=76281980&t=58)** Then let's create a schema within that database, which we'll call PRODUCT.
 >
-> **[1:10](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/preparing-your-snowflake-environment?u=76281980&t=70)** We'll then want to create a virtual compute warehouse in order to allocate data processing resources associated with ingesting MSK data.
+> **[1:10](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/preparing-your-snowflake-environment?u=76281980&t=70)** We'll then want to create a virtual compute warehouse in order to allocate [[Data Processing]] resources associated with ingesting MSK data.
 >
 > **[1:19](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/preparing-your-snowflake-environment?u=76281980&t=79)** This can help you track usage as well, and is a best practice.
 >
@@ -935,7 +922,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), [[Snowflake]] (6), data (6), product (4), next (3)
+> **Frameworks & Libraries:** [[Snowflake]] (6), [[SQL]] (1), [[Data Processing]] (1)
 > **Env Vars:** msk (6), user (6), create (4), replace (4), kafka_user (4)
 > **CLI Commands:** make (4), aws (1), cat (1)
 > **Cross-References:** previous video (1), earlier in (1), next video (1)
@@ -944,14 +931,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
 
-#### Setting up your Snowpipe Kafka connect config
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-snowpipe-kafka-connect-config?u=76281980)
+#### [Setting up your Snowpipe Kafka connect config](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-snowpipe-kafka-connect-config?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-snowpipe-kafka-connect-config?u=76281980&t=0)** - [Instructor] In this video, we'll finish setting up our config for Snowpipe Kafka Connect, which will define the connection.
 >
-> **[0:06](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-snowpipe-kafka-connect-config?u=76281980&t=6)** This will include granting permissions to Kafka Connect, to connect to Snowflake, and defining data transfer parameters.
+> **[0:06](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-snowpipe-kafka-connect-config?u=76281980&t=6)** This will include granting permissions to Kafka Connect, to connect to [[Snowflake]], and defining data transfer parameters.
 >
 > **[0:14](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/setting-up-your-snowpipe-kafka-connect-config?u=76281980&t=14)** In order to create a config for Kafka Connect Snowpipe connection, let's first switch directories to our property files directory, so I'll throw in the CD command.
 >
@@ -1023,7 +1009,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (8), next (8), data (3), cd (1), generic (1)
+> **Frameworks & Libraries:** [[Snowflake]] (8)
 > **Cross-References:** in the next (3)
 > **CLI Commands:** cd (1), cat (1)
 > **Env Vars:** url (1)
@@ -1031,14 +1017,13 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sending data to Snowflake
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/sending-data-to-snowflake?u=76281980)
+#### [Sending data to Snowflake](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/sending-data-to-snowflake?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/sending-data-to-snowflake?u=76281980&t=0)** - [Instructor] We finished setting up our infrastructure for our streaming pipeline over the course of the previous videos.
 >
-> **[0:06](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/sending-data-to-snowflake?u=76281980&t=6)** In this video, we'll put the pipeline to the test by actually sending data through MSK and into Snowflake.
+> **[0:06](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/sending-data-to-snowflake?u=76281980&t=6)** In this video, we'll put the pipeline to the test by actually sending data through MSK and into [[Snowflake]].
 >
 > **[0:13](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/sending-data-to-snowflake?u=76281980&t=13)** To start, let's run the following three commands in our existing session to initiate the connection between Kafka Connect and Snowpipe.
 >
@@ -1078,7 +1063,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/sending-data-to-snowflake?u=76281980&t=132)** Let's send over a sample message at this point.
 >
-> **[2:16](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/sending-data-to-snowflake?u=76281980&t=136)** Keep in mind this message has to be in JSON format.
+> **[2:16](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/sending-data-to-snowflake?u=76281980&t=136)** Keep in mind this message has to be in [[JSON]] format.
 >
 > **[2:19](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/sending-data-to-snowflake?u=76281980&t=139)** Let's mimic a practical event.
 >
@@ -1092,11 +1077,11 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/sending-data-to-snowflake?u=76281980&t=175)** and we'll see it actually has a record in there.
 >
-> **[2:59](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/sending-data-to-snowflake?u=76281980&t=179)** You'll see two columns in the output of that query, one called record metadata and the other called record content.
+> **[2:59](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/sending-data-to-snowflake?u=76281980&t=179)** You'll see two columns in the output of that query, one called record [[Metadata]] and the other called record content.
 >
 > **[3:05](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/sending-data-to-snowflake?u=76281980&t=185)** Record metadata will contain metadata about your record, including timestamp and topic name.
 >
-> **[3:10](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/sending-data-to-snowflake?u=76281980&t=190)** The record content column will be the payload you submitted via the producer EC2 instance.
+> **[3:10](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/sending-data-to-snowflake?u=76281980&t=190)** The record content column will be the payload you submitted via the producer [[Amazon EC2|EC2]] instance.
 >
 > **[3:16](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/sending-data-to-snowflake?u=76281980&t=196)** You've done it.
 >
@@ -1106,7 +1091,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (4), data (3), [[Metadata]] (3), next (2), hit (1)
+> **Frameworks & Libraries:** [[Snowflake]] (4), [[Metadata]] (3), [[JSON]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** msk (1), json (1), ec2 (1)
 > **File Paths:** connect-standalone.sh (1), kafka-console-producer.sh (1)
 > **Cross-References:** next video (1)
@@ -1114,14 +1099,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Final considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/final-considerations?u=76281980)
+#### [Final considerations](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/final-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/final-considerations?u=76281980&t=0)** - [Instructor] With our streaming pipeline successfully up and running, let's talk through a few final considerations as we close out the chapter.
 >
-> **[0:07](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/final-considerations?u=76281980&t=7)** While we used an EC2 instance to host Kafka Connect in this course, AWS does offer a service called Amazon MSK Connect, which takes care of the hosting duties for you.
+> **[0:07](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/final-considerations?u=76281980&t=7)** While we used an [[Amazon EC2|EC2]] instance to host Kafka Connect in this course, AWS does offer a service called Amazon MSK Connect, which takes care of the hosting duties for you.
 >
 > **[0:17](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/final-considerations?u=76281980&t=17)** Let's quickly walk through how setup would differ should you choose this solution in a practical setting.
 >
@@ -1159,11 +1143,11 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/final-considerations?u=76281980&t=115)** This will automatically terminate everything that was created from that template.
 >
-> **[1:59](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/final-considerations?u=76281980&t=119)** You now have everything you need to be successfully building out streaming pipelines on your own using MSK to land data in Snowflake.
+> **[1:59](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/final-considerations?u=76281980&t=119)** You now have everything you need to be successfully building out streaming pipelines on your own using MSK to land data in [[Snowflake]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), data (3), aws (1), management (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Snowflake]] (1)
 > **Env Vars:** msk (8), ec2 (4), zip (2), aws (1)
 > **Exercise Files:** template (3), zip file (1)
 > **UI Navigation:** select the (2)
@@ -1177,8 +1161,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course review and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/course-review-and-next-steps?u=76281980)
+#### [Course review and next steps](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/course-review-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1186,9 +1169,9 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/course-review-and-next-steps?u=76281980&t=2)** You made it and should be proud of your accomplishments.
 >
-> **[0:05](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/course-review-and-next-steps?u=76281980&t=5)** You learned about data streaming and when to use it in the real world.
+> **[0:05](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/course-review-and-next-steps?u=76281980&t=5)** You learned about [[Data Streaming]] and when to use it in the real world.
 >
-> **[0:10](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/course-review-and-next-steps?u=76281980&t=10)** You built a successfully running streaming pipeline, and you got hands-on experience with top of the market tooling, including AWS and Snowflake.
+> **[0:10](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/course-review-and-next-steps?u=76281980&t=10)** You built a successfully running streaming pipeline, and you got hands-on experience with top of the market tooling, including AWS and [[Snowflake]].
 >
 > **[0:19](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/course-review-and-next-steps?u=76281980&t=19)** I encourage you to download and share your certificate of completion.
 >
@@ -1198,13 +1181,13 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/course-review-and-next-steps?u=76281980&t=32)** If you have any questions, feel free to submit one through the Q and A function offered in this course.
 >
-> **[0:38](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/course-review-and-next-steps?u=76281980&t=38)** And please be sure to follow me on LinkedIn to stay in the loop of any new courses I create, conferences I'll be speaking at, or just to expand our networks.
+> **[0:38](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/course-review-and-next-steps?u=76281980&t=38)** And please be sure to follow me on [[LinkedIn]] to stay in the loop of any new courses I create, conferences I'll be speaking at, or just to expand our networks.
 >
 > **[0:47](https://www.linkedin.com/learning/data-engineering-project-build-streaming-ingestion-pipelines-for-snowflake-with-aws/course-review-and-next-steps?u=76281980&t=47)** See you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), aws (1), [[Snowflake]] (1), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Streaming]] (1), [[Snowflake]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - congratulations (1)

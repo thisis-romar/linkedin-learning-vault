@@ -80,26 +80,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Gaining executive advocates for a strong security posture
-> [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/gaining-executive-advocates-for-a-strong-security-posture?u=76281980)
+#### [Gaining executive advocates for a strong security posture](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/gaining-executive-advocates-for-a-strong-security-posture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/gaining-executive-advocates-for-a-strong-security-posture?u=76281980&t=0)** - More organizations are realizing the need for a chief information security officer, the CISO, as an executive leader who will be able to make security decisions, and at the same time, educate the management team and the rest of the executive leaders on the relevant risk.
+> **[0:00](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/gaining-executive-advocates-for-a-strong-security-posture?u=76281980&t=0)** - More organizations are realizing the need for a chief information security officer, the CISO, as an executive leader who will be able to make security decisions, and at the same time, educate the management team and the [[Representational State Transfer (REST)|rest]] of the executive leaders on the relevant risk.
 >
 > **[0:18](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/gaining-executive-advocates-for-a-strong-security-posture?u=76281980&t=18)** In this course, you will get a detailed view of each executive role in a cyber resilience journey.
 >
-> **[0:25](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/gaining-executive-advocates-for-a-strong-security-posture?u=76281980&t=25)** I'm Shamane Tan, the Chief Growth Officer of a global cybersecurity organization.
+> **[0:25](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/gaining-executive-advocates-for-a-strong-security-posture?u=76281980&t=25)** I'm Shamane Tan, the Chief Growth Officer of a global [[Cybersecurity]] organization.
 >
 > **[0:30](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/gaining-executive-advocates-for-a-strong-security-posture?u=76281980&t=30)** I work with C-Suite teams and executives on their strategy to uplift their corporate security posture.
 >
-> **[0:37](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/gaining-executive-advocates-for-a-strong-security-posture?u=76281980&t=37)** I will provide practical insights and lessons learned to help you partner with your [[Executive Leadership]] team.
+> **[0:37](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/gaining-executive-advocates-for-a-strong-security-posture?u=76281980&t=37)** I will provide practical insights and lessons learned to help you partner with your [[[[Executive Leadership]]]] team.
 >
 > **[0:45](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/gaining-executive-advocates-for-a-strong-security-posture?u=76281980&t=45)** Come along for the ride!
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), management (1), [[Representational State Transfer (REST)|Rest]] (1), [[Cybersecurity]] (1), teams (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Cybersecurity]] (1), [[Executive Leadership]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ciso (1)
 > **Speakers:** - more (1)
@@ -109,8 +108,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Navigating your executive relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/navigating-your-executive-relationships?u=76281980)
+#### [Navigating your executive relationships](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/navigating-your-executive-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -122,7 +120,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/navigating-your-executive-relationships?u=76281980&t=34)** In understanding the modus operandi of your executives, you will be able to navigate your different stakeholders and build a collaborative relationship for a more meaningful outcome.
 >
-> **[0:47](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/navigating-your-executive-relationships?u=76281980&t=47)** In the rest of this course, we will equip you with a deeper understanding of the different perspectives of key leaders in your organization, such as the chief executive officer, the chief financial officer, the chief risk officer, the chief information officer.
+> **[0:47](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/navigating-your-executive-relationships?u=76281980&t=47)** In the [[Representational State Transfer (REST)|rest]] of this course, we will equip you with a deeper understanding of the different perspectives of key leaders in your organization, such as the chief executive officer, the chief financial officer, the chief risk officer, the chief information officer.
 >
 > **[1:06](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/navigating-your-executive-relationships?u=76281980&t=66)** We will also cover the role of the boardroom and the importance of shaping the organization's culture in your role as a CISO or cyber leader.
 >
@@ -142,15 +140,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Representational State Transfer (REST)|Rest]] (1), leadership (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ciso (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - for (1)
 
-#### The lens of the four birds
-> [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/the-lens-of-the-four-birds?u=76281980)
+#### [The lens of the four birds](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/the-lens-of-the-four-birds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -210,7 +207,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** dope (3), ciso (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
@@ -223,8 +219,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Starting with the biggest executive: Your CEO
-> [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/starting-with-the-biggest-executive-your-ceo?u=76281980)
+#### [Starting with the biggest executive: Your CEO](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/starting-with-the-biggest-executive-your-ceo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -254,7 +249,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/starting-with-the-biggest-executive-your-ceo?u=76281980&t=91)** We will talk about the board in more detail later in the course, but CEOs are accountable to a group of individuals who are selected by the company's shareholders to look after their interest.
 >
-> **[1:43](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/starting-with-the-biggest-executive-your-ceo?u=76281980&t=103)** The main objective of the CEO is to ensure the sustainability, profitability, and development of the company they work for.
+> **[1:43](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/starting-with-the-biggest-executive-your-ceo?u=76281980&t=103)** The main objective of the CEO is to ensure the [[Sustainability]], profitability, and development of the company they work for.
 >
 > **[1:52](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/starting-with-the-biggest-executive-your-ceo?u=76281980&t=112)** They make major corporate decisions, manage the overall operations and resources of a company, and they are fully conscious that their performance is reviewed by the directors.
 >
@@ -270,7 +265,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/starting-with-the-biggest-executive-your-ceo?u=76281980&t=146)** They might be actively involved in speaking engagements or also featured as a thought leader on industry issues.
 >
-> **[2:34](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/starting-with-the-biggest-executive-your-ceo?u=76281980&t=154)** It is important for the CEO to set, communicate, and update the vision for the company as this will be the direction for the rest of the organization.
+> **[2:34](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/starting-with-the-biggest-executive-your-ceo?u=76281980&t=154)** It is important for the CEO to set, communicate, and update the vision for the company as this will be the direction for the [[Representational State Transfer (REST)|rest]] of the organization.
 >
 > **[2:45](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/starting-with-the-biggest-executive-your-ceo?u=76281980&t=165)** In recent years, we are seeing the CEO having to step up to the limelight with many high profile cyber attacks and data breaches.
 >
@@ -284,14 +279,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (2), functional (1), [[Sustainability]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ceo (10)
 > **CLI Commands:** make (1)
 > **Versions:** 13.1 (1)
 > **Speakers:** - the (1)
 
-#### Winning over the CEO in your cyber resilience mission
-> [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/winning-over-the-ceo-in-your-cyber-resilience-mission?u=76281980)
+#### [Winning over the CEO in your cyber resilience mission](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/winning-over-the-ceo-in-your-cyber-resilience-mission?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -299,7 +293,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/winning-over-the-ceo-in-your-cyber-resilience-mission?u=76281980&t=6)** I'll put it simply, why should they care?
 >
-> **[0:10](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/winning-over-the-ceo-in-your-cyber-resilience-mission?u=76281980&t=10)** Well, more CEOs assume that cyber risks are best left to experts and the different IT and cybersecurity departments.
+> **[0:10](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/winning-over-the-ceo-in-your-cyber-resilience-mission?u=76281980&t=10)** Well, more CEOs assume that cyber risks are best left to experts and the different IT and [[Cybersecurity]] departments.
 >
 > **[0:20](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/winning-over-the-ceo-in-your-cyber-resilience-mission?u=76281980&t=20)** In reality, no amount of delegation can shield the CEO from the personal consequences of a cyber attack.
 >
@@ -329,7 +323,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/winning-over-the-ceo-in-your-cyber-resilience-mission?u=76281980&t=145)** If the basics are not even done well and there's a poor cybersecurity culture across the organization, it's just a matter of time that the company will be prone to a cyber attack or data breach.
 >
-> **[2:40](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/winning-over-the-ceo-in-your-cyber-resilience-mission?u=76281980&t=160)** Typical business impact could look like your company systems or data being held for ransom, which means business operations will be disrupted.
+> **[2:40](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/winning-over-the-ceo-in-your-cyber-resilience-mission?u=76281980&t=160)** Typical business impact could look like your company systems or data being held for ransom, which means [[Business Operations]] will be disrupted.
 >
 > **[2:51](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/winning-over-the-ceo-in-your-cyber-resilience-mission?u=76281980&t=171)** There are notification costs and possibly millions in fines with data breaches and your company's reputation will be severely impacted with a loss of customer trust, leading to a drop in customers and loss in revenue.
 >
@@ -343,13 +337,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Cybersecurity]] (3), data (3), management (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Business Operations]] (1)
 > **Env Vars:** ceo (11), ipo (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - how (1)
 
-#### Partnering with your CEO in their first 30 days
-> [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/partnering-with-your-ceo-in-their-first-30-days?u=76281980)
+#### [Partnering with your CEO in their first 30 days](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/partnering-with-your-ceo-in-their-first-30-days?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -357,7 +350,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/partnering-with-your-ceo-in-their-first-30-days?u=76281980&t=17)** Yes, that's right, it's culture.
 >
-> **[0:20](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/partnering-with-your-ceo-in-their-first-30-days?u=76281980&t=20)** While the CSO, or if there isn't one, the cyber leader, is an invaluable resource and leader in helping the organization develop the most appropriate cybersecurity strategy, for it to be effective they cannot do this alone.
+> **[0:20](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/partnering-with-your-ceo-in-their-first-30-days?u=76281980&t=20)** While the CSO, or if there isn't one, the cyber leader, is an invaluable resource and leader in helping the organization develop the most appropriate [[Cybersecurity]] strategy, for it to be effective they cannot do this alone.
 >
 > **[0:37](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/partnering-with-your-ceo-in-their-first-30-days?u=76281980&t=37)** It is crucial to include a plan to create a culture of cybersecurity and embed it within the organization.
 >
@@ -383,7 +376,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Cybersecurity]] (3), business (2), management (1), leadership (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3)
 > **Env Vars:** ceo (4), cso (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - now (1)
@@ -393,8 +386,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Money: Understanding the CFO
-> [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/money-understanding-the-cfo?u=76281980)
+#### [Money: Understanding the CFO](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/money-understanding-the-cfo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -402,7 +394,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/money-understanding-the-cfo?u=76281980&t=8)** What does a CFO do?
 >
-> **[0:10](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/money-understanding-the-cfo?u=76281980&t=10)** They're responsible for a number of things, from tracking cash flow to financial planning and crafting budgets, analyzing the company's financial strengths and weaknesses, and proposing strategic directions.
+> **[0:10](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/money-understanding-the-cfo?u=76281980&t=10)** They're responsible for a number of things, from tracking cash flow to [[Financial Planning]] and crafting budgets, analyzing the company's financial strengths and weaknesses, and proposing strategic directions.
 >
 > **[0:26](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/money-understanding-the-cfo?u=76281980&t=26)** The CFO is generally responsible for the fiscal health of the business.
 >
@@ -434,7 +426,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/money-understanding-the-cfo?u=76281980&t=108)** So, why is it important to understand our CFOs?
 >
-> **[1:52](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/money-understanding-the-cfo?u=76281980&t=112)** In today's economy, cybersecurity is typically the top five risk for a corporation.
+> **[1:52](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/money-understanding-the-cfo?u=76281980&t=112)** In today's economy, [[Cybersecurity]] is typically the top five risk for a corporation.
 >
 > **[1:59](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/money-understanding-the-cfo?u=76281980&t=119)** Now, a key aspect of the CFO role is to help manage that risk as part of enterprise risk management.
 >
@@ -450,20 +442,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Financial Planning]] (1), strengths (1), leadership (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Financial Planning]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** cfo (10), ceo (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - meet (1)
 
-#### Aligning cyber risk with the CFO role
-> [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/aligning-cyber-risk-with-the-cfo-role?u=76281980)
+#### [Aligning cyber risk with the CFO role](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/aligning-cyber-risk-with-the-cfo-role?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/aligning-cyber-risk-with-the-cfo-role?u=76281980&t=0)** - Now that we've gotten a better idea of the role of the CFO, let's look at our key priorities and see if there's any connection with the impact caused by a cyber attack.
 >
-> **[0:11](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/aligning-cyber-risk-with-the-cfo-role?u=76281980&t=11)** Specific to the finance team, phishing, social engineering, and business email compromise, known as BEC, have been some of the more common cyber crimes.
+> **[0:11](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/aligning-cyber-risk-with-the-cfo-role?u=76281980&t=11)** Specific to the finance team, [[Phishing]], social engineering, and business email compromise, known as BEC, have been some of the more common cyber crimes.
 >
 > **[0:22](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/aligning-cyber-risk-with-the-cfo-role?u=76281980&t=22)** The FBI's Internet Crime Complaint Center cyber crime report found that BEC schemes to be the costliest of all cyber crimes, leading to losses of approximately $2.4 billion in 2022 alone.
 >
@@ -479,7 +470,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/aligning-cyber-risk-with-the-cfo-role?u=76281980&t=106)** Another relatable topic for CFOs would be on the topic of insurance.
 >
-> **[1:51](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/aligning-cyber-risk-with-the-cfo-role?u=76281980&t=111)** In the last decade, more insurers have started asking corporate CFOs what their company was doing about cybersecurity, and providing cyber insurance as a risk transfer option.
+> **[1:51](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/aligning-cyber-risk-with-the-cfo-role?u=76281980&t=111)** In the last decade, more insurers have started asking corporate CFOs what their company was doing about [[Cybersecurity]], and providing cyber insurance as a risk transfer option.
 >
 > **[2:03](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/aligning-cyber-risk-with-the-cfo-role?u=76281980&t=123)** Insurers are including cyber risk in the risk profiling of a company, and this has resulted in a shift in a CFO's perception of cyber risk, as they are now directly correlating the frequency and cost of a cyber attack with insurance premiums.
 >
@@ -505,7 +496,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Engineering]] (2), [[Cybersecurity]] (2), data (2), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Phishing]] (1)
 > **Env Vars:** cfo (3), bec (2), fbi (1), ipo (1)
 > **Definitions:** known as (2), is an  (1)
 > **Versions:** 2.4 (1)
@@ -513,8 +504,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - now (1)
 
-#### Changing mindsets on costs and budgets
-> [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/changing-mindsets-on-costs-and-budgets?u=76281980)
+#### [Changing mindsets on costs and budgets](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/changing-mindsets-on-costs-and-budgets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -522,7 +512,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/changing-mindsets-on-costs-and-budgets?u=76281980&t=10)** In this section, we will address the mindset that needs to be shifted for CFO to start seeing cyber risk as a needed investment, instead of just additional figures to the cost and budget.
 >
-> **[0:23](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/changing-mindsets-on-costs-and-budgets?u=76281980&t=23)** There has been an intentional shift in recent years to focus the needs of cybersecurity on the return on value, ROV, or return on objective, ROO.
+> **[0:23](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/changing-mindsets-on-costs-and-budgets?u=76281980&t=23)** There has been an intentional shift in recent years to focus the needs of [[Cybersecurity]] on the return on value, ROV, or return on objective, ROO.
 >
 > **[0:36](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/changing-mindsets-on-costs-and-budgets?u=76281980&t=36)** Think about it from the perspective of a nation's defense strategy.
 >
@@ -540,7 +530,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/changing-mindsets-on-costs-and-budgets?u=76281980&t=94)** Although it might not necessarily translate to I just saved my company 10 million, such investments are still needed for an organization to thrive.
 >
-> **[1:45](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/changing-mindsets-on-costs-and-budgets?u=76281980&t=105)** Regulatory compliance, such as the European General Data Protection Regulation, known as GDPR, and Payment Card Industry Data Security Standard, PCI DSS compliance where applicable to a company is another approach to building a credible cyber program.
+> **[1:45](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/changing-mindsets-on-costs-and-budgets?u=76281980&t=105)** [[Regulatory Compliance]], such as the European General Data Protection Regulation, known as GDPR, and Payment Card Industry [[Data Security]] Standard, PCI DSS compliance where applicable to a company is another approach to building a credible cyber program.
 >
 > **[2:04](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/changing-mindsets-on-costs-and-budgets?u=76281980&t=124)** The CFO's dollars and cents attitude is handy for analyzing cyber risk using a quantitative rather than qualitative approach, ensuring that business and risk values are quantified equally.
 >
@@ -576,7 +566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (6), data (5), business (5), [[Security]] (4), management (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Regulatory Compliance]] (1), [[Data Security]] (1)
 > **Env Vars:** cfo (5), fair (3), ciso (2), rov (1), roo (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** such as (2)
@@ -588,8 +578,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The focus areas that are important to your CRO
-> [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/the-focus-areas-that-are-important-to-your-cro?u=76281980)
+#### [The focus areas that are important to your CRO](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/the-focus-areas-that-are-important-to-your-cro?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -613,7 +602,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/the-focus-areas-that-are-important-to-your-cro?u=76281980&t=87)** Meeting the business commitment to your customers.
 >
-> **[1:30](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/the-focus-areas-that-are-important-to-your-cro?u=76281980&t=90)** And caring about anything to do with regulatory compliance.
+> **[1:30](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/the-focus-areas-that-are-important-to-your-cro?u=76281980&t=90)** And caring about anything to do with [[Regulatory Compliance]].
 >
 > **[1:35](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/the-focus-areas-that-are-important-to-your-cro?u=76281980&t=95)** A major challenge for our CROs isn't anticipating the risk on the horizon, which is complex and unpredictable.
 >
@@ -633,13 +622,13 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/the-focus-areas-that-are-important-to-your-cro?u=76281980&t=161)** However, one of the value adds of a risk function is a system in which the business is able to make risk-informed decisions.
 >
-> **[2:51](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/the-focus-areas-that-are-important-to-your-cro?u=76281980&t=171)** Your CRO can develop and maintain a governance framework that aligns cybersecurity risk management with your business operations.
+> **[2:51](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/the-focus-areas-that-are-important-to-your-cro?u=76281980&t=171)** Your CRO can develop and maintain a governance framework that aligns [[Cybersecurity]] risk management with your [[Business Operations]].
 >
 > **[3:01](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/the-focus-areas-that-are-important-to-your-cro?u=76281980&t=181)** In the next video, we will connect the dots and demonstrate how the Cisco, or cyber risk leaders, can align their priorities with the CROs and speak the same language.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), management (4), next (2), [[Regulatory Compliance]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Regulatory Compliance]] (1), [[Cybersecurity]] (1), [[Business Operations]] (1)
 > **Env Vars:** cro (4), iso (4), erm (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
@@ -647,8 +636,7 @@ created: 2026-05-02
 > **Tools:** notion (1)
 > **Speakers:** - the (1)
 
-#### Connecting the dots with how CROs perceive risks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/connecting-the-dots-with-how-cros-perceive-risks?u=76281980)
+#### [Connecting the dots with how CROs perceive risks](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/connecting-the-dots-with-how-cros-perceive-risks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -660,13 +648,13 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/connecting-the-dots-with-how-cros-perceive-risks?u=76281980&t=25)** This specialist risk team together with the cyber specialist risk teams should collaborate to ensure the efficiency of risk management across the organization.
 >
-> **[0:38](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/connecting-the-dots-with-how-cros-perceive-risks?u=76281980&t=38)** This means that the cyber team should work closely with their physical security teams, the health and safety, data governance, and other responsible teams.
+> **[0:38](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/connecting-the-dots-with-how-cros-perceive-risks?u=76281980&t=38)** This means that the cyber team should work closely with their physical security teams, the health and safety, [[Data Governance]], and other responsible teams.
 >
 > **[0:49](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/connecting-the-dots-with-how-cros-perceive-risks?u=76281980&t=49)** The CRO then works closely with the CISO on their frameworks, operating models, reporting, and incident management.
 >
 > **[0:58](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/connecting-the-dots-with-how-cros-perceive-risks?u=76281980&t=58)** Collaboration is key in creating effective risk plans.
 >
-> **[1:04](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/connecting-the-dots-with-how-cros-perceive-risks?u=76281980&t=64)** Together, they can also find opportunities to improve their work by considering other parts of the business such as supply chain risk, physical security, privacy, and other sizable areas with shared governance.
+> **[1:04](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/connecting-the-dots-with-how-cros-perceive-risks?u=76281980&t=64)** Together, they can also find opportunities to improve their work by considering other parts of the business such as supply chain risk, physical security, [[Privacy]], and other sizable areas with shared governance.
 >
 > **[1:19](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/connecting-the-dots-with-how-cros-perceive-risks?u=76281980&t=79)** The CISO then owns the mitigation controls and compliance for the digital or cyber risk, and ensure alignment between the residual risk and organization's risk tolerance.
 >
@@ -686,7 +674,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), management (4), teams (3), [[Security]] (2), data (1)
+> **Frameworks & Libraries:** [[Data Governance]] (1), [[Privacy]] (1)
 > **Env Vars:** cro (7), ciso (4)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the last (1)
@@ -694,12 +682,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
-#### Cyber and risk: The power duo and trigger questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/cyber-and-risk-the-power-duo-and-trigger-questions?u=76281980)
+#### [Cyber and risk: The power duo and trigger questions](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/cyber-and-risk-the-power-duo-and-trigger-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/cyber-and-risk-the-power-duo-and-trigger-questions?u=76281980&t=0)** - When it comes to cybersecurity, the chief risk officer needs to collaborate closely with the CISO to achieve a balanced risk posture.
+> **[0:00](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/cyber-and-risk-the-power-duo-and-trigger-questions?u=76281980&t=0)** - When it comes to [[Cybersecurity]], the chief risk officer needs to collaborate closely with the CISO to achieve a balanced risk posture.
 >
 > **[0:11](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/cyber-and-risk-the-power-duo-and-trigger-questions?u=76281980&t=11)** Honestly, cyber risk makes sense together.
 >
@@ -733,7 +720,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Cybersecurity]] (1), power (1), management (1), next (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **Env Vars:** cro (3), ciso (2), erm (1)
 > **CLI Commands:** find (3)
 > **Speakers:** - when (1)
@@ -743,18 +730,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Meeting the CIO: Welcome to their world
-> [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/meeting-the-cio-welcome-to-their-world?u=76281980)
+#### [Meeting the CIO: Welcome to their world](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/meeting-the-cio-welcome-to-their-world?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/meeting-the-cio-welcome-to-their-world?u=76281980&t=0)** - The chief information officer, or the CIO, is responsible for implementing IT strategies in a company's operations.
 >
-> **[0:10](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/meeting-the-cio-welcome-to-their-world?u=76281980&t=10)** Similar to the rest of the executives, there are multiple areas of focus required, but in today's digital age, there are a few standup priorities for CIOs.
+> **[0:10](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/meeting-the-cio-welcome-to-their-world?u=76281980&t=10)** Similar to the [[Representational State Transfer (REST)|rest]] of the executives, there are multiple areas of focus required, but in today's digital age, there are a few standup priorities for CIOs.
 >
 > **[0:23](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/meeting-the-cio-welcome-to-their-world?u=76281980&t=23)** In Gartner Peer Insights polling executives on what are CIOs prioritizing in 2022, the results show that the three most popular trends are on hybrid, or flexible work infrastructure, that's 61%.
 >
-> **[0:39](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/meeting-the-cio-welcome-to-their-world?u=76281980&t=39)** Cybersecurity, more than half at 52%, no surprises there.
+> **[0:39](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/meeting-the-cio-welcome-to-their-world?u=76281980&t=39)** [[Cybersecurity]], more than half at 52%, no surprises there.
 >
 > **[0:45](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/meeting-the-cio-welcome-to-their-world?u=76281980&t=45)** And third one, digital enablement at 46%.
 >
@@ -762,7 +748,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/meeting-the-cio-welcome-to-their-world?u=76281980&t=58)** The CIO is expected to utilize technology in the most efficient and cohesive manner.
 >
-> **[1:06](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/meeting-the-cio-welcome-to-their-world?u=76281980&t=66)** Organizations rely on them for their IT strategy and roadmap to support their business objectives and goals.
+> **[1:06](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/meeting-the-cio-welcome-to-their-world?u=76281980&t=66)** Organizations rely on them for their [[IT Strategy]] and roadmap to support their business objectives and goals.
 >
 > **[1:14](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/meeting-the-cio-welcome-to-their-world?u=76281980&t=74)** A savvy CIO would have an in-depth understanding of technology, solutions and trends, as well as a big picture understanding of what it takes to run a business.
 >
@@ -780,20 +766,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Cybersecurity]] (2), [[Representational State Transfer (REST)|Rest]] (1), management (1), [[IT Strategy]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[IT Strategy]] (1)
 > **Env Vars:** cio (7), opex (1), cfo (1), cro (1)
 > **Analogies:** similar to (1), picture (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### Innovation and technology: What's the conflict with cyber?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/innovation-and-technology-what-s-the-conflict-with-cyber?u=76281980)
+#### [Innovation and technology: What's the conflict with cyber?](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/innovation-and-technology-what-s-the-conflict-with-cyber?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/innovation-and-technology-what-s-the-conflict-with-cyber?u=76281980&t=0)** - Historically, information security professional roles are developed out of the information technology IT discipline.
 >
-> **[0:09](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/innovation-and-technology-what-s-the-conflict-with-cyber?u=76281980&t=9)** A 2021 ISACA State of Cybersecurity survey of about 3,700 global cybersecurity professionals revealed that 48% of security teams report to a CISO while 25% report to the CIO.
+> **[0:09](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/innovation-and-technology-what-s-the-conflict-with-cyber?u=76281980&t=9)** A 2021 ISACA State of [[Cybersecurity]] survey of about 3,700 global cybersecurity professionals revealed that 48% of security teams report to a CISO while 25% report to the CIO.
 >
 > **[0:26](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/innovation-and-technology-what-s-the-conflict-with-cyber?u=76281980&t=26)** Another survey by Heidrick & Struggles of 327 CISOs published in 2022 show that majority of the CISOs, 48%, are still reporting directly to the CIO, followed by the CTOs.
 >
@@ -801,7 +786,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/innovation-and-technology-what-s-the-conflict-with-cyber?u=76281980&t=51)** On one end, many are of the view that there is a conflict of interest.
 >
-> **[0:56](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/innovation-and-technology-what-s-the-conflict-with-cyber?u=76281980&t=56)** Some of them had experienced their CIOs withholding cyber risk information from the rest of the C-suite as they were hesitant about a negative implication to their productivity.
+> **[0:56](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/innovation-and-technology-what-s-the-conflict-with-cyber?u=76281980&t=56)** Some of them had experienced their CIOs withholding cyber risk information from the [[Representational State Transfer (REST)|rest]] of the C-suite as they were hesitant about a negative implication to their productivity.
 >
 > **[1:08](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/innovation-and-technology-what-s-the-conflict-with-cyber?u=76281980&t=68)** But yet, when there were impacts to productivity due to a security measure, they had been very vocal and shifted the blame to the CISO.
 >
@@ -815,26 +800,25 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/innovation-and-technology-what-s-the-conflict-with-cyber?u=76281980&t=106)** The CIO is typically skewed in IT with an understanding of enterprise business functions and are focused on driving business value through the adoption and operation of technology.
 >
-> **[2:00](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/innovation-and-technology-what-s-the-conflict-with-cyber?u=76281980&t=120)** The CISO, on the other hand, would be skilled in the background of information security management, along with an understanding of enterprise cybersecurity, information security, security governance, compliance and risk, which as you can see are two very different roles for two very different domains.
+> **[2:00](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/innovation-and-technology-what-s-the-conflict-with-cyber?u=76281980&t=120)** The CISO, on the other hand, would be skilled in the background of [[Information Security Management]], along with an understanding of enterprise cybersecurity, information security, security governance, compliance and risk, which as you can see are two very different roles for two very different domains.
 >
-> **[2:22](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/innovation-and-technology-what-s-the-conflict-with-cyber?u=76281980&t=142)** Yet the commonalities between both roles include the need for extensive communication skills, leadership qualities, and strategic understanding of business and technology management, especially business alignment with cyber resilient choices, ensuring secure innovation, proper cash flow, forecasting, and liquidity management.
+> **[2:22](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/innovation-and-technology-what-s-the-conflict-with-cyber?u=76281980&t=142)** Yet the commonalities between both roles include the need for extensive communication skills, leadership qualities, and strategic understanding of business and technology management, especially business alignment with cyber resilient choices, ensuring secure innovation, proper cash flow, [[Forecasting]], and liquidity management.
 >
 > **[2:49](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/innovation-and-technology-what-s-the-conflict-with-cyber?u=76281980&t=169)** This is why on the other end of the spectrum, I have also seen fantastic collaborative working relationships between the CIO who understands the importance of cybersecurity and its business implications, and achieving great outcomes together with their CISO.
 >
 > **[3:08](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/innovation-and-technology-what-s-the-conflict-with-cyber?u=76281980&t=188)** CIOs who have an in-depth understanding of how cyber risk affects the IT landscape and the consequences for the business can increase their visibility and authority through strong communication and collaboration on the cybersecurity strategy together with their CISO.
 >
-> **[3:28](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/innovation-and-technology-what-s-the-conflict-with-cyber?u=76281980&t=208)** Great partnership is seen when both the CIO and the CISO work together to find the right balance between cyber risk, business operations, and revenue, which includes finding compromises with a balance between usability and security for end users.
+> **[3:28](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/innovation-and-technology-what-s-the-conflict-with-cyber?u=76281980&t=208)** Great partnership is seen when both the CIO and the CISO work together to find the right balance between cyber risk, [[Business Operations]], and revenue, which includes finding compromises with a balance between usability and security for end users.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), business (7), [[Cybersecurity]] (6), management (2), teams (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Representational State Transfer (REST)|Rest]] (1), [[Information Security Management]] (1), [[Forecasting]] (1), [[Business Operations]] (1)
 > **Env Vars:** ciso (7), cio (6), isaca (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - historically (1)
 
-#### Building friendships and getting their critical support
-> [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/building-friendships-and-getting-their-critical-support?u=76281980)
+#### [Building friendships and getting their critical support](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/building-friendships-and-getting-their-critical-support?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -852,7 +836,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/building-friendships-and-getting-their-critical-support?u=76281980&t=26)** Take time to understand their strategy and goals.
 >
-> **[0:30](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/building-friendships-and-getting-their-critical-support?u=76281980&t=30)** In your conversation with your CIOs, determine if they perceive cybersecurity as a business risk or an IT risk.
+> **[0:30](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/building-friendships-and-getting-their-critical-support?u=76281980&t=30)** In your conversation with your CIOs, determine if they perceive [[Cybersecurity]] as a business risk or an IT risk.
 >
 > **[0:39](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/building-friendships-and-getting-their-critical-support?u=76281980&t=39)** You can use analogies to help them relate better.
 >
@@ -878,11 +862,11 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/building-friendships-and-getting-their-critical-support?u=76281980&t=113)** It helps you get to places.
 >
-> **[1:56](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/building-friendships-and-getting-their-critical-support?u=76281980&t=116)** Now, CISOs, we are not in the office of no but know, K-N-O-W, knowledge.
+> **[1:56](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/building-friendships-and-getting-their-critical-support?u=76281980&t=116)** Now, CISOs, we are not in the [[Microsoft Office|office]] of no but know, K-N-O-W, knowledge.
 >
 > **[2:06](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/building-friendships-and-getting-their-critical-support?u=76281980&t=126)** We can help our CIOs and equip them with the knowledge that security is not a showstopper, but if done right can help businesses and transformation accelerate.
 >
-> **[2:18](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/building-friendships-and-getting-their-critical-support?u=76281980&t=138)** So now, if your organization is planning on embarking on any significant programs, perhaps a digital or big data, cloud, outsourcing or third-party ventures, it is critical that you and your CIO are having an honest and open conversation about any cyber risk concerns.
+> **[2:18](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/building-friendships-and-getting-their-critical-support?u=76281980&t=138)** So now, if your organization is planning on embarking on any significant programs, perhaps a digital or [[Big Data]], cloud, outsourcing or third-party ventures, it is critical that you and your CIO are having an honest and open conversation about any cyber risk concerns.
 >
 > **[2:39](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/building-friendships-and-getting-their-critical-support?u=76281980&t=159)** It is a good opportunity to work together so that the business can be assured that this component of the enterprise risk has been taken into consideration.
 >
@@ -898,7 +882,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Security]] (3), business (2), [[Microsoft Office|Office]] (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Microsoft Office|Office]] (1), [[Big Data]] (1)
 > **Env Vars:** cio (3)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
@@ -910,8 +894,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Six guidelines for your board
-> [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/six-guidelines-for-your-board?u=76281980)
+#### [Six guidelines for your board](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/six-guidelines-for-your-board?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -937,7 +920,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/six-guidelines-for-your-board?u=76281980&t=107)** Help them see that cyber risk is a business ownership.
 >
-> **[1:51](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/six-guidelines-for-your-board?u=76281980&t=111)** Secondly, do your board think they are investing appropriately in cybersecurity?
+> **[1:51](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/six-guidelines-for-your-board?u=76281980&t=111)** Secondly, do your board think they are investing appropriately in [[Cybersecurity]]?
 >
 > **[1:57](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/six-guidelines-for-your-board?u=76281980&t=117)** Do they believe that they are rightly equipped in protecting their crown jewels?
 >
@@ -949,7 +932,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/six-guidelines-for-your-board?u=76281980&t=132)** It is important for organizations to keep up with current affairs and be prepared for regulatory changes.
 >
-> **[2:20](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/six-guidelines-for-your-board?u=76281980&t=140)** How are they maintaining foresight and factoring in future economic drivers and digital transformation impacts on cyber risk?
+> **[2:20](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/six-guidelines-for-your-board?u=76281980&t=140)** How are they maintaining foresight and factoring in future economic drivers and [[Digital Transformation]] impacts on cyber risk?
 >
 > **[2:27](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/six-guidelines-for-your-board?u=76281980&t=147)** Finally, the board needs to know that if they want to stay cyber resilient they cannot do it alone.
 >
@@ -957,7 +940,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), management (1), business (1), [[Cybersecurity]] (1), [[Digital Transformation]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Digital Transformation]] (1)
 > **Env Vars:** ciso (3)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
@@ -968,18 +951,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your role in shaping the organization's culture
-> [LinkedIn Learning](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/your-role-in-shaping-the-organization-s-culture?u=76281980)
+#### [Your role in shaping the organization's culture](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/your-role-in-shaping-the-organization-s-culture?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/your-role-in-shaping-the-organization-s-culture?u=76281980&t=0)** - The role you can play in championing a secure culture is critical.
 >
-> **[0:06](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/your-role-in-shaping-the-organization-s-culture?u=76281980&t=6)** Often an organizational culture is taken for granted, and something that's already there that people passively adopt, not something that we actively drive.
+> **[0:06](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/your-role-in-shaping-the-organization-s-culture?u=76281980&t=6)** Often an [[Organizational Culture]] is taken for granted, and something that's already there that people passively adopt, not something that we actively drive.
 >
 > **[0:17](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/your-role-in-shaping-the-organization-s-culture?u=76281980&t=17)** However, culture is really important as it shapes everything we do.
 >
-> **[0:22](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/your-role-in-shaping-the-organization-s-culture?u=76281980&t=22)** If there's a poor security culture that currently exists within the organization, our cybersecurity strategy needs to include fixing this and when it comes to building culture it makes sense that we start off with the people.
+> **[0:22](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/your-role-in-shaping-the-organization-s-culture?u=76281980&t=22)** If there's a poor security culture that currently exists within the organization, our [[Cybersecurity]] strategy needs to include fixing this and when it comes to building culture it makes sense that we start off with the people.
 >
 > **[0:37](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/your-role-in-shaping-the-organization-s-culture?u=76281980&t=37)** As a leader you do not need to accept the cultural status quo.
 >
@@ -1013,7 +995,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/your-role-in-shaping-the-organization-s-culture?u=76281980&t=170)** People take more ownership and are supported even in their failures.
 >
-> **[2:55](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/your-role-in-shaping-the-organization-s-culture?u=76281980&t=175)** However, to change the culture positively takes a journey, and other than the executive leaders we have highlighted in the earlier videos, there's still many others that you can work your way through, from the rest of the executive layers such as the chief operating officer to your chief human resource officer, the chief marketing officer, and not forgetting the middle management.
+> **[2:55](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/your-role-in-shaping-the-organization-s-culture?u=76281980&t=175)** However, to change the culture positively takes a journey, and other than the executive leaders we have highlighted in the earlier videos, there's still many others that you can work your way through, from the [[Representational State Transfer (REST)|rest]] of the executive layers such as the chief operating officer to your chief human resource officer, the chief marketing officer, and not forgetting the middle management.
 >
 > **[3:19](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/your-role-in-shaping-the-organization-s-culture?u=76281980&t=199)** There's many different allies you can win over to help support your goals.
 >
@@ -1023,7 +1005,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/your-role-in-shaping-the-organization-s-culture?u=76281980&t=217)** I'm excited to see the results of your effort and I would love to hear about your progress.
 >
-> **[3:42](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/your-role-in-shaping-the-organization-s-culture?u=76281980&t=222)** You can connect with me on LinkedIn or find additional resources at my website.
+> **[3:42](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/your-role-in-shaping-the-organization-s-culture?u=76281980&t=222)** You can connect with me on [[LinkedIn]] or find additional resources at my website.
 >
 > **[3:47](https://www.linkedin.com/learning/ciso-foundations-influencing-the-board-and-c-suite/your-role-in-shaping-the-organization-s-culture?u=76281980&t=227)** I've written several books containing playbooks for cyber leaders with great leadership insights from over 100 CxOs across industries.
 >
@@ -1031,7 +1013,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), [[Cybersecurity]] (3), [[Organizational Culture]] (2), business (2), management (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Organizational Culture]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** ceo (1)

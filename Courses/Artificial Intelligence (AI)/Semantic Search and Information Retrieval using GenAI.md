@@ -96,18 +96,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of semantic search and information retrieval
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/the-power-of-semantic-search-and-information-retrieval?u=76281980)
+#### [The power of semantic search and information retrieval](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/the-power-of-semantic-search-and-information-retrieval?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/the-power-of-semantic-search-and-information-retrieval?u=76281980&t=0)** - Wouldn't it be great to answer the questions you need without decoding the perfect search query?
 >
-> **[0:06](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/the-power-of-semantic-search-and-information-retrieval?u=76281980&t=6)** That's the power of semantic search, now supercharged with AI.
+> **[0:06](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/the-power-of-semantic-search-and-information-retrieval?u=76281980&t=6)** That's the power of [[Semantic Search]], now supercharged with AI.
 >
 > **[0:11](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/the-power-of-semantic-search-and-information-retrieval?u=76281980&t=11)** But today it's about pinpointing exactly what you need.
 >
-> **[0:15](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/the-power-of-semantic-search-and-information-retrieval?u=76281980&t=15)** You'll learn the mechanics of effective semantic search, how to structure knowledge using tools like knowledge graphs and how to retrieve answers using grounded AI and semantic queries all without having to code.
+> **[0:15](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/the-power-of-semantic-search-and-information-retrieval?u=76281980&t=15)** You'll learn the mechanics of effective semantic search, how to structure knowledge using tools like [[Knowledge Graphs]] and how to retrieve answers using grounded AI and semantic queries all without having to code.
 >
 > **[0:28](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/the-power-of-semantic-search-and-information-retrieval?u=76281980&t=28)** While we'll touch on document retrieval and vector spaces, our focus is explicit semantics, how language carries meaning, and how AI can understand it from the semantic frameworks that we've built.
 >
@@ -117,17 +116,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Semantic Search]] (3), ai (3), [[Knowledge Graphs]] (2), [[Search]] (1), power (1)
+> **Frameworks & Libraries:** [[Semantic Search]] (3), [[Knowledge Graphs]] (2)
 > **Speakers:** - wouldn (1)
 
-#### What you need to know for the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-you-need-to-know-for-the-course?u=76281980)
+#### [What you need to know for the course](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-you-need-to-know-for-the-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-you-need-to-know-for-the-course?u=76281980&t=0)** - In this course, we will walk through semantic search and information retrieval.
+> **[0:00](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-you-need-to-know-for-the-course?u=76281980&t=0)** - In this course, we will walk through [[Semantic Search]] and [[Information Retrieval]].
 >
-> **[0:05](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-you-need-to-know-for-the-course?u=76281980&t=5)** There's strategies and approaches and how search can be assisted with generative AI.
+> **[0:05](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-you-need-to-know-for-the-course?u=76281980&t=5)** There's strategies and approaches and how search can be assisted with [[Generative AI]].
 >
 > **[0:11](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-you-need-to-know-for-the-course?u=76281980&t=11)** You probably already have a search stack, and if you don't, I've provided some resources in the course materials to help you set one up.
 >
@@ -135,7 +133,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-you-need-to-know-for-the-course?u=76281980&t=31)** So it's not required that you have a search engine set up to benefit from this course.
 >
-> **[0:36](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-you-need-to-know-for-the-course?u=76281980&t=36)** But if you are interested in learning how to set up a search engine, check out LinkedIn Learning courses on Elasticsearch or Apache Spark and Vector search with Pinecone.
+> **[0:36](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-you-need-to-know-for-the-course?u=76281980&t=36)** But if you are interested in learning how to set up a search engine, check out [[LinkedIn]] Learning courses on [[Elasticsearch]] or [[Apache Spark]] and Vector search with [[Pinecone]].
 >
 > **[0:47](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-you-need-to-know-for-the-course?u=76281980&t=47)** You can also dive into OpenSearch, which is an open community-based Elasticsearch, or use your own internal search engine to experiment with the techniques we will cover.
 >
@@ -149,13 +147,13 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-you-need-to-know-for-the-course?u=76281980&t=86)** Finally, for the purpose of this course, we have a sample of customer data and knowledge graph to interpret that data semantically.
 >
-> **[1:36](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-you-need-to-know-for-the-course?u=76281980&t=96)** If you want to make your own knowledge graph, check out my other courses on Knowledge Graph for AI Use Cases as well as Knowledge Data Engineering for Gen AI.
+> **[1:36](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-you-need-to-know-for-the-course?u=76281980&t=96)** If you want to make your own knowledge graph, check out my other courses on Knowledge Graph for AI Use Cases as well as Knowledge [[Data Engineering]] for Gen AI.
 >
 > **[1:46](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-you-need-to-know-for-the-course?u=76281980&t=106)** So with the logistics covered, let's move on to the use case we will experiment with in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (10), [[Semantic Search]] (5), [[Elasticsearch]] (2), data (2), ai (2)
+> **Frameworks & Libraries:** [[Semantic Search]] (5), [[Elasticsearch]] (2), [[Information Retrieval]] (1), [[Generative AI]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), apache (1)
 > **Prerequisites:** set up (2), setup (1)
 > **Definitions:** is an  (1)
@@ -166,18 +164,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use case: Two Trees Olive Oil
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/use-case-two-trees-olive-oil?u=76281980)
+#### [Use case: Two Trees Olive Oil](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/use-case-two-trees-olive-oil?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/use-case-two-trees-olive-oil?u=76281980&t=0)** - [Instructor] We will be working with the Two Trees Olive Oil data, a fictional olive oil retail and manufacturing company.
 >
-> **[0:07](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/use-case-two-trees-olive-oil?u=76281980&t=7)** Before getting started on your search strategy, you should know that queries are the most important to answer in the case of analytics and investigation, or in the case of information retrieval, what are the unmet or ineffective searches you have now?
+> **[0:07](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/use-case-two-trees-olive-oil?u=76281980&t=7)** Before getting started on your search strategy, you should know that queries are the most important to answer in the case of analytics and investigation, or in the case of [[Information Retrieval]], what are the unmet or ineffective searches you have now?
 >
 > **[0:24](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/use-case-two-trees-olive-oil?u=76281980&t=24)** Or if you don't have a search in place yet, what queries do you anticipate having from users?
 >
-> **[0:29](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/use-case-two-trees-olive-oil?u=76281980&t=29)** We call this the golden query set, and it is one of the most important data sets to use when making decisions, testing, measuring, and understanding the success of your semantic search.
+> **[0:29](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/use-case-two-trees-olive-oil?u=76281980&t=29)** We call this the golden query set, and it is one of the most important data sets to use when making decisions, testing, measuring, and understanding the success of your [[Semantic Search]].
 >
 > **[0:42](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/use-case-two-trees-olive-oil?u=76281980&t=42)** You should also know what data your search will consult or have access to, but we will cover that later in the course.
 >
@@ -197,7 +194,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), data (3), [[Analytics]] (1), [[Information Retrieval]] (1), [[Semantic Search]] (1)
+> **Frameworks & Libraries:** [[Information Retrieval]] (1), [[Semantic Search]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** later in (1)
 > **UI Navigation:** go to (1)
@@ -205,8 +202,7 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### What kind of search do you need?
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-kind-of-search-do-you-need?u=76281980)
+#### [What kind of search do you need?](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-kind-of-search-do-you-need?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -230,7 +226,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-kind-of-search-do-you-need?u=76281980&t=71)** Finally, you can mix and match any of these methods.
 >
-> **[1:14](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-kind-of-search-do-you-need?u=76281980&t=74)** Semantic search can take a few different forms, depending on your needs, types of data you have, and the level of risk you are willing to accept in search results or answers.
+> **[1:14](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-kind-of-search-do-you-need?u=76281980&t=74)** [[Semantic Search]] can take a few different [[Forms]], depending on your needs, types of data you have, and the level of risk you are willing to accept in search results or answers.
 >
 > **[1:25](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-kind-of-search-do-you-need?u=76281980&t=85)** In our Two Trees Olive Oil case, our analytics query is something that would not be easily done in a traditional search.
 >
@@ -246,7 +242,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-kind-of-search-do-you-need?u=76281980&t=141)** Most search engines and tools can accommodate semantic search now, but more often, an AI prompt or query window is used as a frontline search experience.
 >
-> **[2:33](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-kind-of-search-do-you-need?u=76281980&t=153)** There may still be multiple individual search engines and informational databases behind the scenes, but for a Gentex search for instance, there's many different aspects that the AI can retrieve from.
+> **[2:33](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-kind-of-search-do-you-need?u=76281980&t=153)** There may still be multiple individual search engines and informational [[Databases]] behind the scenes, but for a Gentex search for instance, there's many different aspects that the AI can retrieve from.
 >
 > **[2:46](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-kind-of-search-do-you-need?u=76281980&t=166)** So in our use case, we will show how AI can be used as the main entry point to semantic search.
 >
@@ -254,15 +250,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (16), ai (11), [[Semantic Search]] (4), business (3), database (1)
+> **Frameworks & Libraries:** [[Semantic Search]] (4), [[Forms]] (1), [[Databases]] (1)
 > **Analogies:** such as (1), for instance (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deciding if you need a vector database, a knowledge graph, or both
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/deciding-if-you-need-a-vector-database-a-kg-or-both?u=76281980)
+#### [Deciding if you need a vector database, a knowledge graph, or both](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/deciding-if-you-need-a-vector-database-a-kg-or-both?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -292,33 +287,32 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/deciding-if-you-need-a-vector-database-a-kg-or-both?u=76281980&t=113)** I recommend you still review these to standardize them, but if that's not possible, a vector database or a property graph could help capture those raw entity triples and then use those in AI later on.
 >
-> **[2:06](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/deciding-if-you-need-a-vector-database-a-kg-or-both?u=76281980&t=126)** Both knowledge graphs and vector database can be used to retrieve answers, not just documents.
+> **[2:06](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/deciding-if-you-need-a-vector-database-a-kg-or-both?u=76281980&t=126)** Both [[Knowledge Graphs]] and vector database can be used to retrieve answers, not just documents.
 >
 > **[2:13](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/deciding-if-you-need-a-vector-database-a-kg-or-both?u=76281980&t=133)** You can use them together, and often they are used together.
 >
 > **[2:17](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/deciding-if-you-need-a-vector-database-a-kg-or-both?u=76281980&t=137)** In both cases, semantic similarity is calculated based on the match between what is queried and the underlying information.
 >
-> **[2:27](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/deciding-if-you-need-a-vector-database-a-kg-or-both?u=76281980&t=147)** So let's move on to the next video where we will explore non-LLM AI for semantic search just so that we have that covered.
+> **[2:27](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/deciding-if-you-need-a-vector-database-a-kg-or-both?u=76281980&t=147)** So let's move on to the next video where we will explore non-LLM AI for [[Semantic Search]] just so that we have that covered.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), llm (5), data (3), ai (2), web (1)
+> **Frameworks & Libraries:** [[Knowledge Graphs]] (1), [[Semantic Search]] (1)
 > **Env Vars:** llm (5)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### What about non-LLM AI for semantic search?
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-about-non-llm-ai-for-semantic-search?u=76281980)
+#### [What about non-LLM AI for semantic search?](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-about-non-llm-ai-for-semantic-search?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-about-non-llm-ai-for-semantic-search?u=76281980&t=0)** - [Instructor] Okay, let's address the elephant in the room.
 >
-> **[0:03](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-about-non-llm-ai-for-semantic-search?u=76281980&t=3)** I alluded to this earlier, but semantic search has been around for a while, just in forms that we're maybe more cumbersome or not exactly what we would consider it today.
+> **[0:03](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-about-non-llm-ai-for-semantic-search?u=76281980&t=3)** I alluded to this earlier, but [[Semantic Search]] has been around for a while, just in [[Forms]] that we're maybe more cumbersome or not exactly what we would consider it today.
 >
-> **[0:14](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-about-non-llm-ai-for-semantic-search?u=76281980&t=14)** Query expansion, for instance, can be achieved with knowledge graphs, on their own, without AI, where keywords are expanded into their known equivalencies.
+> **[0:14](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-about-non-llm-ai-for-semantic-search?u=76281980&t=14)** Query expansion, for instance, can be achieved with [[Knowledge Graphs]], on their own, without AI, where keywords are expanded into their known equivalencies.
 >
-> **[0:24](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-about-non-llm-ai-for-semantic-search?u=76281980&t=24)** If you have a knowledge graph or ontology, like an OWL or RDF based model, these have used class hierarchies and relationships to find related concepts or word occurrences like in TFIDF, and parsing a search query to understand its context has been done for many years with something like a BERT model, as just one example.
+> **[0:24](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-about-non-llm-ai-for-semantic-search?u=76281980&t=24)** If you have a knowledge graph or ontology, like an OWL or RDF based model, these have used class hierarchies and relationships to find related concepts or [[Microsoft Word|word]] occurrences like in TFIDF, and parsing a search query to understand its context has been done for many years with something like a BERT model, as just one example.
 >
 > **[0:47](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-about-non-llm-ai-for-semantic-search?u=76281980&t=47)** These are still great options.
 >
@@ -328,13 +322,13 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-about-non-llm-ai-for-semantic-search?u=76281980&t=78)** In those cases, you may not need more sophisticated search approaches, or maybe just a vector database is all you need if you want to retrieve semantic chunks of documents.
 >
-> **[1:28](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-about-non-llm-ai-for-semantic-search?u=76281980&t=88)** Many folks just opt for that, but audiences for this course will learn about the advanced ways to bake in semantics into their search, and why, if you need more trusted, complex, and business contextualization for your information retrieval, these techniques covered in this course will fit your needs.
+> **[1:28](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-about-non-llm-ai-for-semantic-search?u=76281980&t=88)** Many folks just opt for that, but audiences for this course will learn about the advanced ways to bake in semantics into their search, and why, if you need more trusted, complex, and business contextualization for your [[Information Retrieval]], these techniques covered in this course will fit your needs.
 >
 > **[1:49](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-about-non-llm-ai-for-semantic-search?u=76281980&t=109)** We've laid a great foundation in this chapter, let's continue into chapter two and dive deeper into information retrieval in the context of semantic search.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), data (3), [[Semantic Search]] (2), [[Information Retrieval]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Semantic Search]] (2), [[Information Retrieval]] (2), [[Forms]] (1), [[Knowledge Graphs]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** owl (1), rdf (1), tfidf (1), bert (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
@@ -345,12 +339,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is information retrieval?
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-information-retrieval?u=76281980)
+#### [What is information retrieval?](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-information-retrieval?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-information-retrieval?u=76281980&t=0)** - [Narrator] Information retrieval or IR is the act of retrieving information based on words, vectors, or metadata that is associated with the content, images, videos, audio, or data sets that are relevant to a user's query.
+> **[0:00](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-information-retrieval?u=76281980&t=0)** - [Narrator] [[Information Retrieval]] or IR is the act of retrieving information based on words, vectors, or [[Metadata]] that is associated with the content, images, videos, audio, or data sets that are relevant to a user's query.
 >
 > **[0:17](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-information-retrieval?u=76281980&t=17)** The retrieved artifact can be a document, video or other assets, and its metadata records.
 >
@@ -358,7 +351,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-information-retrieval?u=76281980&t=41)** Information retrieval is the primary way AI retrieves information from the data sources you have the AI consulting.
 >
-> **[0:50](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-information-retrieval?u=76281980&t=50)** AI also uses a method called Retrieval-Augmented Generation or RAG, which also depends on information retrieval to retrieve information from structured, and unstructured databases that are used to ground the AI responses at the time of execution.
+> **[0:50](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-information-retrieval?u=76281980&t=50)** AI also uses a method called [[Retrieval-Augmented Generation (RAG)|Retrieval-Augmented Generation]] or RAG, which also depends on information retrieval to retrieve information from structured, and unstructured [[Databases]] that are used to ground the AI responses at the time of execution.
 >
 > **[1:07](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-information-retrieval?u=76281980&t=67)** Just remember, good information retrieval means better RAG and better AI in general.
 >
@@ -366,7 +359,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-information-retrieval?u=76281980&t=80)** So let's break down information retrieval.
 >
-> **[1:24](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-information-retrieval?u=76281980&t=84)** It takes a query and parses it into individual parts of speech, entities and phrases, and understands the context around the word placement and other contextual information such as location or language preference, as well as looking at how that query can be rearranged, so that it can have the optimal results retrieved.
+> **[1:24](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-information-retrieval?u=76281980&t=84)** It takes a query and parses it into individual parts of speech, entities and phrases, and understands the context around the [[Microsoft Word|word]] placement and other contextual information such as location or language preference, as well as looking at how that query can be rearranged, so that it can have the optimal results retrieved.
 >
 > **[1:47](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-information-retrieval?u=76281980&t=107)** The information in a database is then consulted to retrieve information with the highest relevancy, or semantic similarity to the parse query.
 >
@@ -388,25 +381,24 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-information-retrieval?u=76281980&t=192)** But search retrieval has traditionally been keyword based.
 >
-> **[3:16](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-information-retrieval?u=76281980&t=196)** In recent years, semantic search has become more and more popular, especially with the explosion of GenAI, and the reason for that is better contextualized search.
+> **[3:16](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-information-retrieval?u=76281980&t=196)** In recent years, [[Semantic Search]] has become more and more popular, especially with the explosion of GenAI, and the reason for that is better contextualized search.
 >
 > **[3:27](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-information-retrieval?u=76281980&t=207)** Let's dive into that in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Information Retrieval]] (8), ai (7), [[Search]] (5), data (4), database (3)
+> **Frameworks & Libraries:** [[Information Retrieval]] (8), [[Metadata]] (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Databases]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** rag (2)
 > **Cross-References:** later in (1), in the next (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### What is semantic search?
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-search?u=76281980)
+#### [What is semantic search?](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-search?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-search?u=76281980&t=0)** - [Instructor] We alluded to this a little bit in the last video, but semantic search is when a search understands the context of your query, and can retrieve relevant results for that query past just keyword matches.
+> **[0:00](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-search?u=76281980&t=0)** - [Instructor] We alluded to this a little bit in the last video, but [[Semantic Search]] is when a search understands the context of your query, and can retrieve relevant results for that query past just keyword matches.
 >
 > **[0:14](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-search?u=76281980&t=14)** When search understands your query, it can mean the synonyms, translations, and context of the words, how those words relate to one another, the level of detail or delivery you expect, the type of domain, use case, or need of your request, geographic or cultural context, significance at the time of your search, or where you are in a geographic region, and your preferences on search behaviors.
 >
@@ -422,7 +414,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-search?u=76281980&t=84)** You know that the person is not going to a financial institution because fishing is an outdoor sport where a person is near a body of water where fish live.
 >
-> **[1:33](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-search?u=76281980&t=93)** The context is in the word placement and contextual clues that the bank is where the act of fishing happens, and that fishing requires water and fish to be conceptually relevant.
+> **[1:33](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-search?u=76281980&t=93)** The context is in the [[Microsoft Word|word]] placement and contextual clues that the bank is where the act of fishing happens, and that fishing requires water and fish to be conceptually relevant.
 >
 > **[1:45](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-search?u=76281980&t=105)** Which in turn, narrows the context to the semantic concept of bank, the narrow edge sloping toward water, where also fish and water converge.
 >
@@ -438,28 +430,27 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-search?u=76281980&t=150)** This context is inferred by the semantic model to help search engines retrieve the most relevant information for the user when and how they are searching.
 >
-> **[2:41](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-search?u=76281980&t=161)** So let's now explore how knowledge graphs and the storage and interpretation of the semantic model within them can help in semantic search.
+> **[2:41](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-search?u=76281980&t=161)** So let's now explore how [[Knowledge Graphs]] and the storage and interpretation of the semantic model within them can help in semantic search.
 >
 > **[2:49](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-search?u=76281980&t=169)** That's up next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (10), [[Semantic Search]] (2), [[Microsoft Word|Word]] (1), [[Knowledge Graphs]] (1), next (1)
+> **Frameworks & Libraries:** [[Semantic Search]] (2), [[Microsoft Word|Word]] (1), [[Knowledge Graphs]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are knowledge graphs, and how are they used in semantic search?
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-are-knowledge-graphs-and-their-use-in-semantic-search?u=76281980)
+#### [What are knowledge graphs, and how are they used in semantic search?](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-are-knowledge-graphs-and-their-use-in-semantic-search?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-are-knowledge-graphs-and-their-use-in-semantic-search?u=76281980&t=0)** - [Instructor] Knowledge graphs represent data as a network of entities and how those entities relate in explicit and business or use case specific ways.
+> **[0:00](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-are-knowledge-graphs-and-their-use-in-semantic-search?u=76281980&t=0)** - [Instructor] [[Knowledge Graphs]] represent data as a network of entities and how those entities relate in explicit and business or use case specific ways.
 >
 > **[0:10](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-are-knowledge-graphs-and-their-use-in-semantic-search?u=76281980&t=10)** Each entity is represented by a unique identifier, or a UID, that can help an AI find the exact entity or concept in the data that should be retrieved, It has a special thing, it can also retrieve called a relationship between two different entities to know how they relate to each other.
 >
-> **[0:30](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-are-knowledge-graphs-and-their-use-in-semantic-search?u=76281980&t=30)** UIDs help make search retrieval more precise because they help connect entities from the query to the exact unambiguous text metadata or knowledge graph information tagged or embedded with the entity that the UID represents.
+> **[0:30](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-are-knowledge-graphs-and-their-use-in-semantic-search?u=76281980&t=30)** UIDs help make search retrieval more precise because they help connect entities from the query to the exact unambiguous text [[Metadata]] or knowledge graph information tagged or embedded with the entity that the UID represents.
 >
 > **[0:46](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-are-knowledge-graphs-and-their-use-in-semantic-search?u=76281980&t=46)** For example, in our Two Trees Olive Oil use case, Jackie can be represented by this specific UID 12376.
 >
@@ -471,7 +462,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-are-knowledge-graphs-and-their-use-in-semantic-search?u=76281980&t=103)** Whereas a customer who purchased chili-flavored olive oil, while connected to Jackie and Sam because they all purchased some olive oil, they're not highly related because they would be two hops out from Jackie and Sam.
 >
-> **[1:58](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-are-knowledge-graphs-and-their-use-in-semantic-search?u=76281980&t=118)** While gen AI can also pick up on these relationships, techniques like GraphRAG can certainly help extract networks of nodes related to each other from unstructured text.
+> **[1:58](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-are-knowledge-graphs-and-their-use-in-semantic-search?u=76281980&t=118)** While gen AI can also pick up on these relationships, techniques like [[GraphRAG]] can certainly help extract networks of nodes related to each other from unstructured text.
 >
 > **[2:08](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-are-knowledge-graphs-and-their-use-in-semantic-search?u=76281980&t=128)** Business and use case context is missing because you miss out on the context of why the nodes are related.
 >
@@ -479,7 +470,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-are-knowledge-graphs-and-their-use-in-semantic-search?u=76281980&t=142)** Ambiguity can lead to false positives or negatives in search results, and context is critical for relevancy ranking in search.
 >
-> **[2:31](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-are-knowledge-graphs-and-their-use-in-semantic-search?u=76281980&t=151)** So GraphRAG is a great first step in understanding what nodes are in your data, but it lacks the explicit relationships we need for our semantic search.
+> **[2:31](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-are-knowledge-graphs-and-their-use-in-semantic-search?u=76281980&t=151)** So GraphRAG is a great first step in understanding what nodes are in your data, but it lacks the explicit relationships we need for our [[Semantic Search]].
 >
 > **[2:42](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-are-knowledge-graphs-and-their-use-in-semantic-search?u=76281980&t=162)** So while either property graphs, which is the type of graph a GraphRAG outputs, or a semantic graph like RDF can both be used in retrieval augmented generation.
 >
@@ -503,15 +494,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Semantic Search]] (6), [[GraphRAG]] (4), [[Search]] (3), [[Knowledge Graphs]] (2)
+> **Frameworks & Libraries:** [[Semantic Search]] (6), [[GraphRAG]] (4), [[Knowledge Graphs]] (2), [[Metadata]] (1)
 > **Env Vars:** uid (5), rdf (3)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are vector embeddings?
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-are-a-vector-and-an-embedding?u=76281980)
+#### [What are vector embeddings?](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-are-a-vector-and-an-embedding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -559,7 +549,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-are-a-vector-and-an-embedding?u=76281980&t=113)** The difference is the embeddings from a knowledge graph have deeper semantic meaning than similarity vectors alone.
 >
-> **[2:00](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-are-a-vector-and-an-embedding?u=76281980&t=120)** You do not necessarily need a knowledge graph for semantic search.
+> **[2:00](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-are-a-vector-and-an-embedding?u=76281980&t=120)** You do not necessarily need a knowledge graph for [[Semantic Search]].
 >
 > **[2:04](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-are-a-vector-and-an-embedding?u=76281980&t=124)** But if you have complex data needs that need to be referred based on specific kinds of rules, for instance, when a customer would be labeled as a prospect or when a customer is labeled as a customer when they could also be a vendor.
 >
@@ -589,7 +579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), data (3), [[Semantic Search]] (3), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Semantic Search]] (3)
 > **Analogies:** imagine (3), for instance (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** later in (1), in the next (1)
@@ -601,8 +591,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is semantic similarity?
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-similarity?u=76281980)
+#### [What is semantic similarity?](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-similarity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -612,7 +601,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-similarity?u=76281980&t=12)** Each document has its own grid in your dataset.
 >
-> **[0:16](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-similarity?u=76281980&t=16)** The database has no idea what each word really means, it only sees them as strings or characters.
+> **[0:16](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-similarity?u=76281980&t=16)** The database has no idea what each [[Microsoft Word|word]] really means, it only sees them as strings or characters.
 >
 > **[0:22](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-similarity?u=76281980&t=22)** The similarity is calculated based on the company a word keeps, or in other words, there is adjacency bias that weights each words higher in relevancy the more they show up together.
 >
@@ -620,9 +609,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-similarity?u=76281980&t=39)** If we now add fishing to the query along with bank, the semantic similarity now shifts toward a bank along the water as its context, because that is the most common context or vector where these two words meet.
 >
-> **[0:55](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-similarity?u=76281980&t=55)** Now, let's say your organization tracks signals for security banking.
+> **[0:55](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-similarity?u=76281980&t=55)** Now, let's say your organization tracks signals for security [[Banking]].
 >
-> **[0:59](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-similarity?u=76281980&t=59)** If the words phishing and bank are used in the most common context that we just discussed, we may miss some of the less common context within our content set, such as the two words being referred to bank fraud, where there is evidence being gathered by our firm where there are phishing expeditions for banking fraud.
+> **[0:59](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-similarity?u=76281980&t=59)** If the words [[Phishing]] and bank are used in the most common context that we just discussed, we may miss some of the less common context within our content set, such as the two words being referred to bank fraud, where there is evidence being gathered by our firm where there are phishing expeditions for banking fraud.
 >
 > **[1:25](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-similarity?u=76281980&t=85)** So far, these similarities, while semantic, are not explicit, they show up together for word association context, like co-sign similarity.
 >
@@ -646,35 +635,34 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-similarity?u=76281980&t=196)** Vectors on their own are pretty smart, but do we really want to take that risk on some of the really important things for our business?
 >
-> **[3:24](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-similarity?u=76281980&t=204)** This is where knowledge graphs are helpful, so the LLM and the search engine has explicit information to consult during its response and retrieval.
+> **[3:24](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-similarity?u=76281980&t=204)** This is where [[Knowledge Graphs]] are helpful, so the LLM and the search engine has explicit information to consult during its response and retrieval.
 >
 > **[3:35](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/what-is-semantic-similarity?u=76281980&t=215)** Let's continue and dive into how semantic similarity is calculated.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), database (4), [[Search]] (4), [[Banking]] (3), business (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Banking]] (3), [[Phishing]] (2), [[Knowledge Graphs]] (1)
 > **Analogies:** for example (2), such as (2)
 > **Env Vars:** llm (2)
 > **CLI Commands:** node (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### How is semantic similarity calculated?
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/how-is-semantic-similarity-calculated?u=76281980)
+#### [How is semantic similarity calculated?](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/how-is-semantic-similarity-calculated?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/how-is-semantic-similarity-calculated?u=76281980&t=0)** - [Instructor] In traditional search, things like TFIDF are used to calculate similarity.
 >
-> **[0:06](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/how-is-semantic-similarity-calculated?u=76281980&t=6)** In vector databases, approaches like cosine similarity are also used.
+> **[0:06](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/how-is-semantic-similarity-calculated?u=76281980&t=6)** In [[Vector Databases]], approaches like cosine similarity are also used.
 >
-> **[0:11](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/how-is-semantic-similarity-calculated?u=76281980&t=11)** In graphs, there are a number of algorithms that can be used, like nearest neighbor, but graphs also can be walked to find explicitly how two things are related, because their edges are labeled and defined.
+> **[0:11](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/how-is-semantic-similarity-calculated?u=76281980&t=11)** In graphs, there are a number of [[Algorithms]] that can be used, like nearest neighbor, but graphs also can be walked to find explicitly how two things are related, because their edges are labeled and defined.
 >
 > **[0:28](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/how-is-semantic-similarity-calculated?u=76281980&t=28)** This is especially helpful when doing trend or event-based analysis, because you can explain exactly why entities are related, how closely they are related, and even the impact on your business if they are related strongly or weighted in a certain way.
 >
 > **[0:44](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/how-is-semantic-similarity-calculated?u=76281980&t=44)** Example, algorithms for this are shortest path, PageRank, or k-means.
 >
-> **[0:50](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/how-is-semantic-similarity-calculated?u=76281980&t=50)** When similarity is calculated, the context of the entities in the query are assessed and then matched to entities and context within the graph or vector store, like nearest neighbors in vectors and nodes, metadata of the nodes and instances of the nodes in a graph, or node relationships in a graph, or common occurrence in vectors.
+> **[0:50](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/how-is-semantic-similarity-calculated?u=76281980&t=50)** When similarity is calculated, the context of the entities in the query are assessed and then matched to entities and context within the graph or vector store, like nearest neighbors in vectors and nodes, [[Metadata]] of the nodes and instances of the nodes in a graph, or node relationships in a graph, or common occurrence in vectors.
 >
 > **[1:14](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/how-is-semantic-similarity-calculated?u=76281980&t=74)** The more context you have from the documents or knowledge graph, the greater chance that similarity will be correct and calculated at its true strength.
 >
@@ -688,18 +676,17 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/how-is-semantic-similarity-calculated?u=76281980&t=134)** Similarity match is not the only factor in relevancy, though.
 >
-> **[2:18](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/how-is-semantic-similarity-calculated?u=76281980&t=138)** Let's explore other context we can add in for semantic search to be more successful.
+> **[2:18](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/how-is-semantic-similarity-calculated?u=76281980&t=138)** Let's explore other context we can add in for [[Semantic Search]] to be more successful.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), [[Algorithms]] (2), [[Vector Databases]] (1), business (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Vector Databases]] (1), [[Metadata]] (1), [[Semantic Search]] (1)
 > **CLI Commands:** find (1), node (1)
 > **Env Vars:** tfidf (1), llm (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Weights, boosts, and blocks
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/weights-boosts-and-blocks?u=76281980)
+#### [Weights, boosts, and blocks](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/weights-boosts-and-blocks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -715,7 +702,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/weights-boosts-and-blocks?u=76281980&t=51)** Boosts are like weights, but more focused on the ranking of search results.
 >
-> **[0:56](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/weights-boosts-and-blocks?u=76281980&t=56)** These are often based on trends in popular queries, products or needs where keyword matches are on specific words, and this is essentially how Google AdSense works.
+> **[0:56](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/weights-boosts-and-blocks?u=76281980&t=56)** These are often based on trends in popular queries, [[Microsoft Products|products]] or needs where keyword matches are on specific words, and this is essentially how [[Google]] AdSense works.
 >
 > **[1:06](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/weights-boosts-and-blocks?u=76281980&t=66)** It also works on fields such as boosting when a match is found in a product ingredient list because you know that information users are starting to look at but are having a hard time finding.
 >
@@ -733,7 +720,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/weights-boosts-and-blocks?u=76281980&t=138)** These just have to really be used with caution though.
 >
-> **[2:23](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/weights-boosts-and-blocks?u=76281980&t=143)** All of these can be used in traditional search, but also even more importantly, when semantic search is used with AI.
+> **[2:23](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/weights-boosts-and-blocks?u=76281980&t=143)** All of these can be used in traditional search, but also even more importantly, when [[Semantic Search]] is used with AI.
 >
 > **[2:31](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/weights-boosts-and-blocks?u=76281980&t=151)** Instead of retrieving documents, semantic chunks of documents in the case of a vector database and entities and triples in the case of a knowledge graph or a combination of the two are the things that are being retrieved and ranked according to all of these mechanisms in your AI answers or in your analytics that are using this data.
 >
@@ -741,13 +728,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (9), ai (4), [[Semantic Search]] (2), data (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Semantic Search]] (2), [[Microsoft Products|Products]] (1), [[Google]] (1)
 > **Analogies:** for example (2), just like (1), such as (1)
 > **Warnings:** caution (2)
 > **Speakers:** - [instructor] (1)
 
-#### User and localization data
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/user-and-localization-data?u=76281980)
+#### [User and localization data](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/user-and-localization-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -767,13 +753,13 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/user-and-localization-data?u=76281980&t=98)** One more factor is the surprise factor or similar but less expensive or higher end, where a graph can help rank information amongst more traditional matched results with things that are surprising or help the user discover more avenues to pursue.
 >
-> **[1:57](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/user-and-localization-data?u=76281980&t=117)** These would be graph algorithms where results that are maybe two hops out from the original context are used and dispersed amongst the normal search results; we will go over that in the next video.
+> **[1:57](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/user-and-localization-data?u=76281980&t=117)** These would be graph [[Algorithms]] where results that are maybe two hops out from the original context are used and dispersed amongst the normal search results; we will go over that in the next video.
 >
-> **[2:09](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/user-and-localization-data?u=76281980&t=129)** These all can be calibrated into how your semantic search contextualizes the query and what it retrieves, but a lot of this is dependent on walking that graph, so let's get into that next.
+> **[2:09](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/user-and-localization-data?u=76281980&t=129)** These all can be calibrated into how your [[Semantic Search]] contextualizes the query and what it retrieves, but a lot of this is dependent on walking that graph, so let's get into that next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Search]] (6), next (2), ai (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Semantic Search]] (1)
 > **Analogies:** such as (2), for instance (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ttoo (1)
@@ -782,12 +768,11 @@ created: 2026-05-02
 > **Best Practices:** always make sure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Walking the graph
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/walking-the-graph?u=76281980)
+#### [Walking the graph](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/walking-the-graph?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/walking-the-graph?u=76281980&t=0)** - [Instructor] A unique aspect of a semantic search with knowledge graphs is being able to traverse or walk the graph to help calculate relevancy.
+> **[0:00](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/walking-the-graph?u=76281980&t=0)** - [Instructor] A unique aspect of a [[Semantic Search]] with [[Knowledge Graphs]] is being able to traverse or walk the graph to help calculate relevancy.
 >
 > **[0:10](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/walking-the-graph?u=76281980&t=10)** Going back to our legal department example, the query, Which parties review the most negotiations?
 >
@@ -799,7 +784,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/walking-the-graph?u=76281980&t=59)** So now we know what types of documents they interacted with.
 >
-> **[1:04](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/walking-the-graph?u=76281980&t=64)** In the case of similarity, a search on lemons could retrieve all products involving lemons.
+> **[1:04](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/walking-the-graph?u=76281980&t=64)** In the case of similarity, a search on lemons could retrieve all [[Microsoft Products|products]] involving lemons.
 >
 > **[1:10](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/walking-the-graph?u=76281980&t=70)** One hop and logic out might be all products involving citrus, which includes lemons, but a few other varieties of fruits that are also citrus.
 >
@@ -807,11 +792,11 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/walking-the-graph?u=76281980&t=92)** It's similar enough to the query, but might be surprising and interesting to the user to discover this is another fruit they may want to consider.
 >
-> **[1:41](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/walking-the-graph?u=76281980&t=101)** Hops and logic can also be used for calculating semantic similarity based on graph algorithms for specific matching and analytical use cases, where the path between lemons and other citrus fruits are shorter than the path between lemon and pineapple, but based on their connection of both being acidic, sweet, and fruit, the similarity is enough to find pineapple as relevant but not as relevant as perhaps oranges.
+> **[1:41](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/walking-the-graph?u=76281980&t=101)** Hops and logic can also be used for calculating semantic similarity based on graph [[Algorithms]] for specific matching and analytical use cases, where the path between lemons and other citrus fruits are shorter than the path between lemon and pineapple, but based on their connection of both being acidic, sweet, and fruit, the similarity is enough to find pineapple as relevant but not as relevant as perhaps oranges.
 >
 > **[2:09](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/walking-the-graph?u=76281980&t=129)** These algorithms can be baked into your prompt if you are using AI to construct your query.
 >
-> **[2:15](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/walking-the-graph?u=76281980&t=135)** You can also use your favorite Python package, like spaCy, or you can construct the query as an endpoint for retrieval.
+> **[2:15](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/walking-the-graph?u=76281980&t=135)** You can also use your favorite [[Python (Programming Language)|Python]] package, like [[spaCy]], or you can construct the query as an endpoint for retrieval.
 >
 > **[2:23](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/walking-the-graph?u=76281980&t=143)** There are a few more elements that can be used to calculate similarity.
 >
@@ -819,14 +804,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Algorithms]] (2), [[Semantic Search]] (1), [[Knowledge Graphs]] (1), node (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Algorithms]] (2), [[Semantic Search]] (1), [[Knowledge Graphs]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (3), node (1), python (1)
 > **Code Identifiers:** spacy (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Other factors for semantic similarity
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/other-factors-for-semantic-similarity?u=76281980)
+#### [Other factors for semantic similarity](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/other-factors-for-semantic-similarity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -844,7 +828,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/other-factors-for-semantic-similarity?u=76281980&t=54)** Document length is not usually something that's stored in knowledge graph, so in that case, a traditional document or vector store would be helpful for that information.
 >
-> **[1:03](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/other-factors-for-semantic-similarity?u=76281980&t=63)** We've covered in passing that LLMs, vector databases, and knowledge graphs can do query expansion, where keywords are expanded into their semantic synonyms and equivalencies, or the query can be rewritten to capture more phrase and word forms or even triple structures.
+> **[1:03](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/other-factors-for-semantic-similarity?u=76281980&t=63)** We've covered in passing that LLMs, [[Vector Databases]], and [[Knowledge Graphs]] can do query expansion, where keywords are expanded into their semantic synonyms and equivalencies, or the query can be rewritten to capture more phrase and [[Microsoft Word|word]] [[Forms]] or even triple structures.
 >
 > **[1:21](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/other-factors-for-semantic-similarity?u=76281980&t=81)** All of those will add additional context.
 >
@@ -864,12 +848,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Search]] (2), ai (1), [[Analytics]] (1), [[Vector Databases]] (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (1), [[Knowledge Graphs]] (1), [[Microsoft Word|Word]] (1), [[Forms]] (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Search performance in semantic search
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/search-performance-in-semantic-search?u=76281980)
+#### [Search performance in semantic search](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/search-performance-in-semantic-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -879,7 +862,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/search-performance-in-semantic-search?u=76281980&t=17)** When using an AI to generate queries, make sure there is a load balancer in place that regulates and shuts down queries that the AI creates that may be too big or complex.
 >
-> **[0:28](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/search-performance-in-semantic-search?u=76281980&t=28)** This is especially important when using agentic search where the AI's hitting multiple endpoints for information retrieval.
+> **[0:28](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/search-performance-in-semantic-search?u=76281980&t=28)** This is especially important when using agentic search where the AI's hitting multiple endpoints for [[Information Retrieval]].
 >
 > **[0:35](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/search-performance-in-semantic-search?u=76281980&t=35)** You will also want to do search volume testing to make sure the endpoints you are retrieving from can handle the volume of queries you expect from the AI, and to make sure they fall within the latency thresholds for your use case.
 >
@@ -891,7 +874,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/search-performance-in-semantic-search?u=76281980&t=89)** And speaking of agentic search, if you do employ an AI agent for searching across multiple sources, make sure the AI and those who are allowed to query with it are permitted to have access to the data in those sources, either from a regulatory or confidentiality perspective, before you give access.
 >
-> **[1:49](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/search-performance-in-semantic-search?u=76281980&t=109)** This is not always understood at the data layer because many applications house the security aspects, which the semantic search can bypass when accessing the data layer.
+> **[1:49](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/search-performance-in-semantic-search?u=76281980&t=109)** This is not always understood at the data layer because many applications house the security aspects, which the [[Semantic Search]] can bypass when accessing the data layer.
 >
 > **[2:00](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/search-performance-in-semantic-search?u=76281980&t=120)** This can be dangerous, so work with your stakeholders and the owners of the data and systems you want your AI to consult for retrieval so that you know you will have access and they're not getting into trouble.
 >
@@ -907,15 +890,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (10), ai (8), data (8), [[Security]] (4), database (2)
+> **Frameworks & Libraries:** [[Information Retrieval]] (1), [[Semantic Search]] (1)
 > **CLI Commands:** make (7)
 > **Analogies:** such as (1), for instance (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automated and human search relevancy assessment
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/automated-and-human-search-relevancy-assessment?u=76281980)
+#### [Automated and human search relevancy assessment](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/automated-and-human-search-relevancy-assessment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -939,7 +921,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/automated-and-human-search-relevancy-assessment?u=76281980&t=76)** You should always strive for meeting or beating your baseline, but you need to verify the search gets better.
 >
-> **[1:22](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/automated-and-human-search-relevancy-assessment?u=76281980&t=82)** If the humans are using it, they need to be able to agree with those search statistics.
+> **[1:22](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/automated-and-human-search-relevancy-assessment?u=76281980&t=82)** If the humans are using it, they need to be able to agree with those search [[Statistics]].
 >
 > **[1:27](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/automated-and-human-search-relevancy-assessment?u=76281980&t=87)** For example, you can see here how the search results can be scored by the end user.
 >
@@ -965,7 +947,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (18), ai (5), data (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
@@ -978,16 +960,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Text and document quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/text-and-document-quality?u=76281980)
+#### [Text and document quality](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/text-and-document-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/text-and-document-quality?u=76281980&t=0)** - [Instructor] The better your text can be parsed, the better all of your search can be.
 >
-> **[0:05](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/text-and-document-quality?u=76281980&t=5)** Text is best when it is vectorized, or in a parable format like XML or JSON, and the more standardized your metadata schema and tags are, the more reliable your retrieval on them will be, because there will be less chance of ambiguity.
+> **[0:05](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/text-and-document-quality?u=76281980&t=5)** Text is best when it is vectorized, or in a parable format like XML or [[JSON]], and the more standardized your [[Metadata]] schema and tags are, the more reliable your retrieval on them will be, because there will be less chance of ambiguity.
 >
-> **[0:21](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/text-and-document-quality?u=76281980&t=21)** This is where taxonomies in data governance can play a critical role to make sure things are as standardized and contextually captured for your business.
+> **[0:21](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/text-and-document-quality?u=76281980&t=21)** This is where taxonomies in [[Data Governance]] can play a critical role to make sure things are as standardized and contextually captured for your business.
 >
 > **[0:30](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/text-and-document-quality?u=76281980&t=30)** The way your search or AI can access all your data is also important.
 >
@@ -995,9 +976,9 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/text-and-document-quality?u=76281980&t=54)** That can sit over top of all of your data as a translation layer for the search or AI to consult for a less ambiguous and messy retrieval of all of that underlying information.
 >
-> **[1:06](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/text-and-document-quality?u=76281980&t=66)** Text and data quality also means breadth and depth assessment to make sure you have the data you need structured in the way you need it to answer your questions, and this should be done on a regular basis.
+> **[1:06](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/text-and-document-quality?u=76281980&t=66)** Text and [[Data Quality]] also means breadth and depth assessment to make sure you have the data you need structured in the way you need it to answer your questions, and this should be done on a regular basis.
 >
-> **[1:20](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/text-and-document-quality?u=76281980&t=80)** You can use your golden set to assess any gaps in coverage by querying those against existing datasets and then comparing the results between that and the new semantic search you are setting up.
+> **[1:20](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/text-and-document-quality?u=76281980&t=80)** You can use your golden set to assess any gaps in coverage by querying those against existing datasets and then comparing the results between that and the new [[Semantic Search]] you are setting up.
 >
 > **[1:33](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/text-and-document-quality?u=76281980&t=93)** Other things to watch for are language, data, currency, and measure-type tags.
 >
@@ -1007,7 +988,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Search]] (3), ai (2), [[Semantic Search]] (2), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Semantic Search]] (2), [[JSON]] (1), [[Metadata]] (1), [[Data Governance]] (1), [[Data Quality]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** xml (1), json (1), rdf (1)
 > **Definitions:** is called (1)
@@ -1016,8 +997,7 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Entity recognition and disambiguation
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/entity-recognition-and-disambiguation?u=76281980)
+#### [Entity recognition and disambiguation](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/entity-recognition-and-disambiguation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1045,21 +1025,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), data (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Alternative search methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/alternative-search-methods?u=76281980)
+#### [Alternative search methods](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/alternative-search-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/alternative-search-methods?u=76281980&t=0)** - [Instructor] So far, we have covered text-based information retrieval, but voice, image, and sound can also be used to search for information.
+> **[0:00](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/alternative-search-methods?u=76281980&t=0)** - [Instructor] So far, we have covered text-based [[Information Retrieval]], but voice, image, and sound can also be used to search for information.
 >
-> **[0:09](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/alternative-search-methods?u=76281980&t=9)** In these cases, the same semantic search approach applies but the input is a little different.
+> **[0:09](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/alternative-search-methods?u=76281980&t=9)** In these cases, the same [[Semantic Search]] approach applies but the input is a little different.
 >
 > **[0:15](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/alternative-search-methods?u=76281980&t=15)** For images, the image is parsed into vectors or pixels to search against the vectors in the database.
 >
@@ -1069,11 +1047,11 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/alternative-search-methods?u=76281980&t=44)** The way humans verbally describe what they're looking for has a wider range of variables, not to mention the way that humans interpret what those things mean.
 >
-> **[0:54](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/alternative-search-methods?u=76281980&t=54)** For instance, the phrase, "Turn up the AC," is common, but air conditioning is meant to make a room cooler and the word up is usually associated with temperature going up or getting hotter.
+> **[0:54](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/alternative-search-methods?u=76281980&t=54)** For instance, the phrase, "Turn up the AC," is common, but air conditioning is meant to make a room cooler and the [[Microsoft Word|word]] up is usually associated with temperature going up or getting hotter.
 >
 > **[1:09](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/alternative-search-methods?u=76281980&t=69)** These are counterintuitive.
 >
-> **[1:11](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/alternative-search-methods?u=76281980&t=71)** A greater volume of training or sample data is needed to capture all the different forms that are common for any given semantic statement given by a verbal cue.
+> **[1:11](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/alternative-search-methods?u=76281980&t=71)** A greater volume of training or sample data is needed to capture all the different [[Forms]] that are common for any given semantic statement given by a verbal cue.
 >
 > **[1:22](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/alternative-search-methods?u=76281980&t=82)** But all the semantic search logic we have covered would still apply, but the input, that of voice, would need to be parsed and understood using voice recognition, and then those entities and context would then be resolved to their entities and sent into search, just like we have covered before.
 >
@@ -1081,7 +1059,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), [[Semantic Search]] (3), [[Information Retrieval]] (1), database (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Semantic Search]] (3), [[Information Retrieval]] (1), [[Microsoft Word|Word]] (1), [[Forms]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1), just like (1)
 > **CLI Commands:** make (1)
@@ -1092,16 +1070,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where does search fit in an AI or data pipeline?
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980)
+#### [Where does search fit in an AI or data pipeline?](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980&t=0)** - [Instructor] Let's look at a common semantic architectural pipeline.
 >
-> **[0:04](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980&t=4)** To start, most graph tooling can slot into existing data architectures, and these often include ETL tools, which can be repurposed to load into the graph data storage that you select.
+> **[0:04](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980&t=4)** To start, most graph tooling can slot into existing data architectures, and these often include ETL tools, which can be repurposed to load into the graph [[Data Storage]] that you select.
 >
-> **[0:15](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980&t=15)** If you're using a graph database that has ETL or has a data science studio, that will all load from your existing data storage, which also can be reused in a semantic pipeline.
+> **[0:15](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980&t=15)** If you're using a graph database that has ETL or has a [[Data Science]] studio, that will all load from your existing data storage, which also can be reused in a semantic pipeline.
 >
 > **[0:28](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980&t=28)** Make sure your data is complete and as up to date as possible.
 >
@@ -1109,7 +1086,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980&t=38)** This is why doing regular gap analysis and assessing your user queries is important to make sure the model and data are still supporting your needs.
 >
-> **[0:48](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980&t=48)** Now, your databases will sit here.
+> **[0:48](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980&t=48)** Now, your [[Databases]] will sit here.
 >
 > **[0:51](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980&t=51)** They don't all have to be one giant database.
 >
@@ -1117,7 +1094,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980&t=60)** You likely already have repositories, like a document store, customer management system, product inventory, or shipping data stores, analytics and data science operations, vector stores, and now, potentially your graph database.
 >
-> **[1:16](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980&t=76)** But to start out with semantic search, I would strongly consider adding it to only the repos you currently have search working across and add in the graph repo in as a materialized view that your search engine can query against, or have the AI query against during runtime.
+> **[1:16](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980&t=76)** But to start out with [[Semantic Search]], I would strongly consider adding it to only the repos you currently have search working across and add in the graph repo in as a materialized view that your search engine can query against, or have the AI query against during runtime.
 >
 > **[1:36](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980&t=96)** If you are transitioning to a vector database, the same would apply here.
 >
@@ -1125,7 +1102,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980&t=131)** Or if you train your own AI on your data model, it can pick the right resources and data for the query it is presented with, but that's for another course.
 >
-> **[2:24](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980&t=144)** Your semantic data can be used to power semantic applications, like recommendation systems or chatbots, ground your AI via RAG, or be used traditionally for data analytics and information retrieval.
+> **[2:24](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980&t=144)** Your semantic data can be used to power semantic applications, like recommendation systems or chatbots, ground your AI via RAG, or be used traditionally for data analytics and [[Information Retrieval]].
 >
 > **[2:39](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980&t=159)** In those cases, the AI would call your graph with a query it was given.
 >
@@ -1135,20 +1112,19 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980&t=195)** And then the triples that are the most relevant are served back up to the AI for grounding or for answering questions directly.
 >
-> **[3:24](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980&t=204)** When using AI to access or investigate data, the AI can retrieve from structured and unstructured data, so both can be assessed, but you will need to make sure that AI can consult your graph data in a way that it is expecting because it understands a lot about data already, especially graph constructs.
+> **[3:24](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980&t=204)** When using AI to access or investigate data, the AI can retrieve from structured and [[Unstructured Data]], so both can be assessed, but you will need to make sure that AI can consult your graph data in a way that it is expecting because it understands a lot about data already, especially graph constructs.
 >
 > **[3:45](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/where-does-search-fit-in-an-ai-or-data-pipeline?u=76281980&t=225)** Speaking of consulting your graph, let's explore how your search engine can consult your unstructured and structured data sources next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), ai (11), [[Search]] (6), database (4), etl (2)
+> **Frameworks & Libraries:** [[Data Storage]] (2), [[Data Science]] (2), [[Databases]] (1), [[Semantic Search]] (1), [[Information Retrieval]] (1)
 > **CLI Commands:** make (3), node (1)
 > **Env Vars:** etl (2), rag (1), uid (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### How can AI use both vector and graph data for semantic search?
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/how-can-ai-use-both-vector-and-graph-data-for-semantic-search?u=76281980)
+#### [How can AI use both vector and graph data for semantic search?](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/how-can-ai-use-both-vector-and-graph-data-for-semantic-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1156,7 +1132,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/how-can-ai-use-both-vector-and-graph-data-for-semantic-search?u=76281980&t=7)** Both vector data and graph data can be retrieved based on entity and context match, or in the case of a knowledge graph, a resolved entity ID.
 >
-> **[0:17](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/how-can-ai-use-both-vector-and-graph-data-for-semantic-search?u=76281980&t=17)** Similarity is assessed according to the semantic similarity parameters you have defined for your vector and graph search, and that would be some of those graph algorithms or the similarity context that you have from vector databases.
+> **[0:17](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/how-can-ai-use-both-vector-and-graph-data-for-semantic-search?u=76281980&t=17)** Similarity is assessed according to the semantic similarity parameters you have defined for your vector and graph search, and that would be some of those graph [[Algorithms]] or the similarity context that you have from [[Vector Databases]].
 >
 > **[0:33](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/how-can-ai-use-both-vector-and-graph-data-for-semantic-search?u=76281980&t=33)** The vectors and triples that are the most relevant are returned from both and re-ranked based on the new inputs.
 >
@@ -1178,13 +1154,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), data (5), ai (2), application (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Vector Databases]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rag (1)
 > **Speakers:** - [instructor] (1)
 
-#### How can key performance indicators (KPIs) be used in semantic search?
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/how-can-kpis-be-used-in-semantic-search?u=76281980)
+#### [How can key performance indicators (KPIs) be used in semantic search?](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/how-can-kpis-be-used-in-semantic-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1222,11 +1197,11 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/how-can-kpis-be-used-in-semantic-search?u=76281980&t=156)** Let's now continue on to chapter six, where we're going to kick things off with loading, graph models and data, and building out some graph queries.
 >
-> **[2:46](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/how-can-kpis-be-used-in-semantic-search?u=76281980&t=166)** And we're going to see what that semantic search really looks like.
+> **[2:46](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/how-can-kpis-be-used-in-semantic-search?u=76281980&t=166)** And we're going to see what that [[Semantic Search]] really looks like.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), ai (4), business (2), product (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Semantic Search]] (1)
 > **Definitions:** is a  (2), defined as (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** kpi (1)
@@ -1238,8 +1213,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Loading our sample model and data into Stardog
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/loading-our-sample-model-and-data-into-stardog?u=76281980)
+#### [Loading our sample model and data into Stardog](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/loading-our-sample-model-and-data-into-stardog?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1259,11 +1233,11 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/loading-our-sample-model-and-data-into-stardog?u=76281980&t=60)** All right, now that we have our data and model loaded, it is time for some fun.
 >
-> **[1:05](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/loading-our-sample-model-and-data-into-stardog?u=76281980&t=65)** Let's go and see what semantic search has in store for us when we can use a knowledge graph semantic search model.
+> **[1:05](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/loading-our-sample-model-and-data-into-stardog?u=76281980&t=65)** Let's go and see what [[Semantic Search]] has in store for us when we can use a knowledge graph semantic search model.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), database (2), [[Semantic Search]] (2), next (1), data (1)
+> **Frameworks & Libraries:** [[Semantic Search]] (2)
 > **CLI Commands:** unzip (1), make (1)
 > **Env Vars:** ttoov3 (2)
 > **Exercise Files:** zip file (1), exercise files (1)
@@ -1271,8 +1245,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a graph query
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/building-a-graph-query?u=76281980)
+#### [Building a graph query](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/building-a-graph-query?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1430,7 +1403,7 @@ created: 2026-05-02
 >
 > **[7:58](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/building-a-graph-query?u=76281980&t=478)** Now, what we have just done is we have added this query to the main Voicebox area on Stardog.
 >
-> **[8:07](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/building-a-graph-query?u=76281980&t=487)** Okay, so now we're going to go in to see how our semantic search will pick up on the queries that we just created.
+> **[8:07](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/building-a-graph-query?u=76281980&t=487)** Okay, so now we're going to go in to see how our [[Semantic Search]] will pick up on the queries that we just created.
 >
 > **[8:15](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/building-a-graph-query?u=76281980&t=495)** So, we're going to go to Voicebox, and you can see here is our saved query that we have created as a Voicebox-specific query.
 >
@@ -1474,7 +1447,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), business (6), database (2), data (2), product (1)
+> **Frameworks & Libraries:** [[Semantic Search]] (1)
 > **CLI Commands:** make (6), find (2), node (1)
 > **Code Identifiers:** customerreview (2)
 > **UI Navigation:** go to (2)
@@ -1483,8 +1456,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
-#### Query options
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/query-options?u=76281980)
+#### [Query options](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/query-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1510,12 +1482,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Analytics]] (2), api (2), application (1), [[Search]] (1)
 > **Env Vars:** api (2), sparql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using graph data to ground an AI response
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/using-graph-data-to-ground-an-ai-response?u=76281980)
+#### [Using graph data to ground an AI response](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/using-graph-data-to-ground-an-ai-response?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1539,7 +1509,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/using-graph-data-to-ground-an-ai-response?u=76281980&t=57)** Now, this is something that is stored about Jackie.
 >
-> **[1:02](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/using-graph-data-to-ground-an-ai-response?u=76281980&t=62)** This is all of the metadata about Jackie.
+> **[1:02](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/using-graph-data-to-ground-an-ai-response?u=76281980&t=62)** This is all of the [[Metadata]] about Jackie.
 >
 > **[1:05](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/using-graph-data-to-ground-an-ai-response?u=76281980&t=65)** These are all statements made about Jackie.
 >
@@ -1587,7 +1557,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/using-graph-data-to-ground-an-ai-response?u=76281980&t=174)** Now, you notice, when we were searching for this product number, this product showed up in a lot of different contexts.
 >
-> **[3:01](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/using-graph-data-to-ground-an-ai-response?u=76281980&t=181)** So without having a UID, our AI would maybe get confused as to what information we're really looking for, and it would be a lot more difficult to do analytics because this information would not be readily contained with a specific UID, which is the other benefit of using semantic knowledge graphs.
+> **[3:01](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/using-graph-data-to-ground-an-ai-response?u=76281980&t=181)** So without having a UID, our AI would maybe get confused as to what information we're really looking for, and it would be a lot more difficult to do analytics because this information would not be readily contained with a specific UID, which is the other benefit of using semantic [[Knowledge Graphs]].
 >
 > **[3:21](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/using-graph-data-to-ground-an-ai-response?u=76281980&t=201)** This process of finding an entity and following its graph traversals to retrieve the triples associated with Jackie and her purchase of lemon olive oil is how an AI would query and walk the graph.
 >
@@ -1599,9 +1569,9 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/using-graph-data-to-ground-an-ai-response?u=76281980&t=243)** So let's look at a prompt to clean that up.
 >
-> **[4:06](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/using-graph-data-to-ground-an-ai-response?u=76281980&t=246)** The reason we want to clean this up is not only do we not need all of that additional context, we've already retrieved on the context that we don't need it from this point forward, it's also expensive to have additional tokens that you maybe don't need in the AI prompt, so that's the other reason we're going to take those out.
+> **[4:06](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/using-graph-data-to-ground-an-ai-response?u=76281980&t=246)** The reason we want to clean this up is not only do we not need all of that additional context, we've already retrieved on the context that we don't need it from this point forward, it's also expensive to have additional [[Tokens]] that you maybe don't need in the AI prompt, so that's the other reason we're going to take those out.
 >
-> **[4:24](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/using-graph-data-to-ground-an-ai-response?u=76281980&t=264)** So here we are just prompting our AI to convert the triples into a JSON like format, so we can use that in our grounding.
+> **[4:24](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/using-graph-data-to-ground-an-ai-response?u=76281980&t=264)** So here we are just prompting our AI to convert the triples into a [[JSON]] like format, so we can use that in our grounding.
 >
 > **[4:35](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/using-graph-data-to-ground-an-ai-response?u=76281980&t=275)** If our AI had access to all customer data, and be cautious here, you want to make sure you are using a local LLM or your LLM license and guardrails protect personal information and the other things you need to be protective of when you are using AI.
 >
@@ -1615,14 +1585,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), product (12), data (3), database (2), prompt (2)
+> **Frameworks & Libraries:** [[Metadata]] (1), [[Knowledge Graphs]] (1), [[Tokens]] (1), [[JSON]] (1)
 > **Env Vars:** uid (2), llm (2), rag (1), rdf (1), json (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparison GraphRAG grounding alone vs. RAG with semantic knowledge graphs
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/comparison-graphrag-grounding-alone-vs-rag-with-semantic-knowledge-graphs?u=76281980)
+#### [Comparison GraphRAG grounding alone vs. RAG with semantic knowledge graphs](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/comparison-graphrag-grounding-alone-vs-rag-with-semantic-knowledge-graphs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1636,7 +1605,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/comparison-graphrag-grounding-alone-vs-rag-with-semantic-knowledge-graphs?u=76281980&t=26)** Left on its own, an LLM could pick the wrong context and give potentially damaging results.
 >
-> **[0:34](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/comparison-graphrag-grounding-alone-vs-rag-with-semantic-knowledge-graphs?u=76281980&t=34)** Let's see what the LLM will do with these articles when it is grounded with GraphRAG alone, no semantic data model behind the scenes.
+> **[0:34](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/comparison-graphrag-grounding-alone-vs-rag-with-semantic-knowledge-graphs?u=76281980&t=34)** Let's see what the LLM will do with these articles when it is grounded with [[GraphRAG]] alone, no semantic data model behind the scenes.
 >
 > **[0:42](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/comparison-graphrag-grounding-alone-vs-rag-with-semantic-knowledge-graphs?u=76281980&t=42)** This test was conducted using five of the major LLMs on the market.
 >
@@ -1688,11 +1657,11 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/comparison-graphrag-grounding-alone-vs-rag-with-semantic-knowledge-graphs?u=76281980&t=273)** It's added context to our graph that makes it more precise, accurate, and now all AI responses will benefit from this semantic information because the graph data can be retrieved for all future responses dealing with these entities and contexts.
 >
-> **[4:53](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/comparison-graphrag-grounding-alone-vs-rag-with-semantic-knowledge-graphs?u=76281980&t=293)** That's the power of AI plus semantic search backed by a semantic knowledge graph.
+> **[4:53](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/comparison-graphrag-grounding-alone-vs-rag-with-semantic-knowledge-graphs?u=76281980&t=293)** That's the power of AI plus [[Semantic Search]] backed by a semantic knowledge graph.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), llm (4), data (4), [[GraphRAG]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[GraphRAG]] (2), [[Semantic Search]] (1)
 > **Env Vars:** llm (4), ttoo (1), sme (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -1703,12 +1672,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing your learning journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/continuing-your-learning-journey?u=76281980)
+#### [Continuing your learning journey](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/continuing-your-learning-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/continuing-your-learning-journey?u=76281980&t=0)** - So much to search, so little time, but now you have the power of semantic search at your fingertips.
+> **[0:00](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/continuing-your-learning-journey?u=76281980&t=0)** - So much to search, so little time, but now you have the power of [[Semantic Search]] at your fingertips.
 >
 > **[0:07](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/continuing-your-learning-journey?u=76281980&t=7)** We've learned how to go beyond keywords and surface the insights that truly matter.
 >
@@ -1718,7 +1686,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/continuing-your-learning-journey?u=76281980&t=28)** And to continue your skill-building, don't forget to check out the Exercise Files for more inspiration.
 >
-> **[0:34](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/continuing-your-learning-journey?u=76281980&t=34)** If you want to follow along with me and AI, check out my YouTube channel, as well as connecting with me on LinkedIn.
+> **[0:34](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/continuing-your-learning-journey?u=76281980&t=34)** If you want to follow along with me and AI, check out my YouTube channel, as well as connecting with me on [[LinkedIn]].
 >
 > **[0:41](https://www.linkedin.com/learning/semantic-search-and-information-retrieval-using-genai/continuing-your-learning-journey?u=76281980&t=41)** Also, make sure to check out my other LinkedIn Learning courses.
 >
@@ -1726,7 +1694,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), [[LinkedIn]] (2), power (1), [[Semantic Search]] (1), data (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Semantic Search]] (1)
 > **Best Practices:** don't forget (1), make sure to (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)

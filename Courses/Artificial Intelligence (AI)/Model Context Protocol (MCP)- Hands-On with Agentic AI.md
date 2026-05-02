@@ -72,8 +72,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### MCP: Connecting AI agents to data, apps, and more
-> [LinkedIn Learning](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/mcp-connecting-ai-agents-to-data-apps-and-more?u=76281980)
+#### [MCP: Connecting AI agents to data, apps, and more](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/mcp-connecting-ai-agents-to-data-apps-and-more?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -85,13 +84,13 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/mcp-connecting-ai-agents-to-data-apps-and-more?u=76281980&t=25)** But forget the technical part for a moment.
 >
-> **[0:27](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/mcp-connecting-ai-agents-to-data-apps-and-more?u=76281980&t=27)** When you use ChatGPT or Claude or another AI chat app, I bet you've wondered if you could get it to retrieve data from a source and then do something with it or maybe run software.
+> **[0:27](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/mcp-connecting-ai-agents-to-data-apps-and-more?u=76281980&t=27)** When you use [[ChatGPT]] or Claude or another AI chat app, I bet you've wondered if you could get it to retrieve data from a source and then do something with it or maybe run software.
 >
 > **[0:36](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/mcp-connecting-ai-agents-to-data-apps-and-more?u=76281980&t=36)** That is what MCP allows you to do.
 >
 > **[0:39](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/mcp-connecting-ai-agents-to-data-apps-and-more?u=76281980&t=39)** It's a protocol that provides context for language models to interact with resources, run tools, and do whatever else you can think of.
 >
-> **[0:48](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/mcp-connecting-ai-agents-to-data-apps-and-more?u=76281980&t=48)** So come hang out with me for a bit and we'll explore how to use MCPs in Claude and Cursor, and then I'll show you how to build and run your own MCP servers using Python and TypeScript.
+> **[0:48](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/mcp-connecting-ai-agents-to-data-apps-and-more?u=76281980&t=48)** So come hang out with me for a bit and we'll explore how to use MCPs in Claude and Cursor, and then I'll show you how to build and run your own MCP servers using [[Python (Programming Language)|Python]] and TypeScript.
 >
 > **[0:57](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/mcp-connecting-ai-agents-to-data-apps-and-more?u=76281980&t=57)** The Model Context Protocol bridges the gap between AI tools and the tools we use every day, and I'm here to show you how to use it right.
 >
@@ -99,7 +98,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), ai (2), [[ChatGPT]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** mcp (6)
 > **CLI Commands:** python (1)
 > **Speakers:** - okay (1)
@@ -109,8 +108,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using MCP servers in Claude Desktop
-> [LinkedIn Learning](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/using-mcp-servers-in-claude-desktop?u=76281980)
+#### [Using MCP servers in Claude Desktop](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/using-mcp-servers-in-claude-desktop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -168,7 +166,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/using-mcp-servers-in-claude-desktop?u=76281980&t=135)** Now, language models are famously bad at this type of counting task, so I've created an MCP that does that work for the language model.
 >
-> **[2:27](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/using-mcp-servers-in-claude-desktop?u=76281980&t=147)** When I ask, "count the characters, with and without spaces, and also give me the total word count," Claude recognizes there's an MCP server called Text Assist that has a tool called count_total_characters, and it asks me if I want to run it.
+> **[2:27](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/using-mcp-servers-in-claude-desktop?u=76281980&t=147)** When I ask, "count the characters, with and without spaces, and also give me the total [[Microsoft Word|word]] count," Claude recognizes there's an MCP server called Text Assist that has a tool called count_total_characters, and it asks me if I want to run it.
 >
 > **[2:40](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/using-mcp-servers-in-claude-desktop?u=76281980&t=160)** And then it also says, "Malicious MCP servers or conversation content could potentially trick Claude into attempting harmful actions through your installed tools.
 >
@@ -216,7 +214,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/using-mcp-servers-in-claude-desktop?u=76281980&t=290)** The weather example is advanced, but let me show you something even more complex.
 >
-> **[4:54](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/using-mcp-servers-in-claude-desktop?u=76281980&t=294)** GitHub models provides many different models for experimenting.
+> **[4:54](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/using-mcp-servers-in-claude-desktop?u=76281980&t=294)** [[GitHub]] models provides many different models for experimenting.
 >
 > **[4:57](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/using-mcp-servers-in-claude-desktop?u=76281980&t=297)** Now let's say I want to compare several different models.
 >
@@ -242,7 +240,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (6), prompt (4), [[Microsoft Word|Word]] (3), next (2), api (2)
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Microsoft Word|Word]] (3)
 > **Env Vars:** mcp (16), api (2), gpt (2)
 > **Code Identifiers:** compare_models (2), count_total_characters (1), count_characters_without_spaces (1), count_words (1), get_forecast (1)
 > **Tools:** github (6)
@@ -250,8 +248,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **Speakers:** - i (1)
 
-#### Model Context Protocol (MCP) explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/model-context-protocol-mcp-explained?u=76281980)
+#### [Model Context Protocol (MCP) explained](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/model-context-protocol-mcp-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -287,7 +284,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/model-context-protocol-mcp-explained?u=76281980&t=128)** They are sampling, which allows the MCP server to request completions from the language model, and roots, which define the boundaries inside which the MCP server can operate.
 >
-> **[2:19](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/model-context-protocol-mcp-explained?u=76281980&t=139)** These two last ones are key to the promise of AI agents that truly act independently, but as we'll see later in the course, this acting independently part also opens endless threat surfaces, which is why it's not implemented yet.
+> **[2:19](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/model-context-protocol-mcp-explained?u=76281980&t=139)** These two last ones are key to the promise of [[AI Agents]] that truly act independently, but as we'll see later in the course, this acting independently part also opens endless threat surfaces, which is why it's not implemented yet.
 >
 > **[2:34](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/model-context-protocol-mcp-explained?u=76281980&t=154)** And that brings us to the final part.
 >
@@ -313,7 +310,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), application (3), next (1), prompt (1), ai (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1)
 > **Env Vars:** mcp (21), usb (6)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
@@ -322,8 +319,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)
 
-#### Exploring avaialble MCP servers and clients
-> [LinkedIn Learning](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/exploring-avaialble-mcp-servers-and-clients?u=76281980)
+#### [Exploring avaialble MCP servers and clients](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/exploring-avaialble-mcp-servers-and-clients?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -335,11 +331,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/exploring-avaialble-mcp-servers-and-clients?u=76281980&t=21)** You find them in the sidebar under Get Started, Example Servers, and here's a long list of servers you can install and run right away.
 >
-> **[0:28](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/exploring-avaialble-mcp-servers-and-clients?u=76281980&t=28)** All of these servers are provided by Anthropic are safe to use and integrate with well-known services like GitHub, Sentry, Brave, Slack, Google Maps, and so on.
+> **[0:28](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/exploring-avaialble-mcp-servers-and-clients?u=76281980&t=28)** All of these servers are provided by Anthropic are safe to use and integrate with well-known services like [[GitHub]], Sentry, Brave, [[Slack]], [[Google]] Maps, and so on.
 >
 > **[0:39](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/exploring-avaialble-mcp-servers-and-clients?u=76281980&t=39)** If you want to look under the hood of any of these servers, you can go to the model context protocol account on GitHub and go to the servers repository.
 >
-> **[0:47](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/exploring-avaialble-mcp-servers-and-clients?u=76281980&t=47)** Here you find all of these servers and more, and they're marked up either in Python or in TypeScript, but that's not the only place you'll find MCP servers and clients.
+> **[0:47](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/exploring-avaialble-mcp-servers-and-clients?u=76281980&t=47)** Here you find all of these servers and more, and they're marked up either in [[Python (Programming Language)|Python]] or in TypeScript, but that's not the only place you'll find MCP servers and clients.
 >
 > **[0:56](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/exploring-avaialble-mcp-servers-and-clients?u=76281980&t=56)** There are several websites that are now serving up lists of available MCP servers and clients.
 >
@@ -380,12 +376,11 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **Definitions:** is a  (1)
 
-#### Limiting the blast radius of AI agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/limiting-the-blast-radius-of-ai-agents?u=76281980)
+#### [Limiting the blast radius of AI agents](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/limiting-the-blast-radius-of-ai-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/limiting-the-blast-radius-of-ai-agents?u=76281980&t=0)** - Before we go any further, let's talk about the blast radius of AI agents and the risks involved in running and building MCPs.
+> **[0:00](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/limiting-the-blast-radius-of-ai-agents?u=76281980&t=0)** - Before we go any further, let's talk about the blast radius of [[AI Agents]] and the risks involved in running and building MCPs.
 >
 > **[0:08](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/limiting-the-blast-radius-of-ai-agents?u=76281980&t=8)** When you give a language model capabilities to do something on your computer, it may do things you didn't intend and may even do things you would never do.
 >
@@ -429,7 +424,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/limiting-the-blast-radius-of-ai-agents?u=76281980&t=149)** And what we're seeing is the threat surfaces and the blast radius for these things can be exponential and almost unlimited if we are not very careful on how we build these tools.
 >
-> **[2:41](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/limiting-the-blast-radius-of-ai-agents?u=76281980&t=161)** So apply responsible AI principles anytime you're building MCPs, test them extensively with adversarial prompts and prompt injections.
+> **[2:41](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/limiting-the-blast-radius-of-ai-agents?u=76281980&t=161)** So apply [[Responsible AI]] principles anytime you're building MCPs, test them extensively with adversarial prompts and prompt injections.
 >
 > **[2:49](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/limiting-the-blast-radius-of-ai-agents?u=76281980&t=169)** And remember the old adage, never trust the user.
 >
@@ -437,12 +432,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), ai (5), llm (2), [[Responsible AI]] (1), prompt (1)
+> **Frameworks & Libraries:** [[AI Agents]] (3), [[Responsible AI]] (1)
 > **Env Vars:** mcp (4), mcps (2), llm (2)
 > **Speakers:** - before (1)
 
-#### Leveraging the power of MCP servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/leveraging-the-power-of-mcp-servers?u=76281980)
+#### [Leveraging the power of MCP servers](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/leveraging-the-power-of-mcp-servers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -470,7 +464,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (2), power (1), hit (1)
 > **Env Vars:** readme (5), mcp (4)
 > **CLI Commands:** make (3), find (1)
 > **File Paths:** project.md (1), readme.md (1)
@@ -478,9 +471,9 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
+> **Prerequisites:** install (1)
 
-#### Using MCP servers in Cursor
-> [LinkedIn Learning](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/using-mcp-servers-in-cursor?u=76281980)
+#### [Using MCP servers in Cursor](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/using-mcp-servers-in-cursor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -500,7 +493,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/using-mcp-servers-in-cursor?u=76281980&t=46)** So I'll click add new global MCP server.
 >
-> **[0:49](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/using-mcp-servers-in-cursor?u=76281980&t=49)** This creates a new file under the .cursor folder under my profile called mcp.json.
+> **[0:49](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/using-mcp-servers-in-cursor?u=76281980&t=49)** This creates a new file under the .cursor folder under my profile called mcp.[[JSON]].
 >
 > **[0:55](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/using-mcp-servers-in-cursor?u=76281980&t=55)** And this is where I place the MCP server's objects, and all of the different MCP servers I want to call in.
 >
@@ -550,8 +543,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building your own MCP servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/building-your-own-mcp-servers?u=76281980)
+#### [Building your own MCP servers](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/building-your-own-mcp-servers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -559,7 +551,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/building-your-own-mcp-servers?u=76281980&t=4)** Now it's time to build some.
 >
-> **[0:06](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/building-your-own-mcp-servers?u=76281980&t=6)** In this chapter, I'm providing you with text articles, providing step-by-step instructions on how to build MCP servers using Python and TypeScript using the exercise files I provided in the GitHub repository for this course.
+> **[0:06](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/building-your-own-mcp-servers?u=76281980&t=6)** In this chapter, I'm providing you with text articles, providing step-by-step instructions on how to build MCP servers using [[Python (Programming Language)|Python]] and TypeScript using the exercise files I provided in the [[GitHub]] repository for this course.
 >
 > **[0:18](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/building-your-own-mcp-servers?u=76281980&t=18)** I've added videos showing how to test the servers using the MCP Inspector and how to run them in Claude and Cursor.
 >
@@ -577,15 +569,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[GitHub]] (1), next (1), power (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[GitHub]] (1)
 > **Env Vars:** mcp (5)
 > **Exercise Files:** exercise files (2)
 > **CLI Commands:** python (1)
 > **Tools:** github (1)
 > **Speakers:** - all (1)
 
-#### Testing with the MCP inspector
-> [LinkedIn Learning](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/testing-with-the-mcp-inspector?u=76281980)
+#### [Testing with the MCP inspector](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/testing-with-the-mcp-inspector?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -621,7 +612,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/testing-with-the-mcp-inspector?u=76281980&t=87)** This means the tool is working as expected.
 >
-> **[1:29](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/testing-with-the-mcp-inspector?u=76281980&t=89)** Now, this version of the inspector is the Python SDK running inside the virtual environment on my computer.
+> **[1:29](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/testing-with-the-mcp-inspector?u=76281980&t=89)** Now, this version of the inspector is the [[Python (Programming Language)|Python]] SDK running inside the virtual environment on my computer.
 >
 > **[1:35](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/testing-with-the-mcp-inspector?u=76281980&t=95)** But look what happens if I turn the environment off.
 >
@@ -665,7 +656,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), data (1), api (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (4), npx (3), find (1), python (1)
 > **Env Vars:** mcp (6), sdk (2), api (1)
 > **File Paths:** server.py (3)
@@ -674,12 +665,11 @@ created: 2026-05-02
 > **Tools:** vs code (1), terminal (1)
 > **UI Navigation:** go to (2)
 
-#### Troubleshooting MCP servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/troubleshooting-mcp-servers?u=76281980)
+#### [Troubleshooting MCP servers](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/troubleshooting-mcp-servers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/troubleshooting-mcp-servers?u=76281980&t=0)** - [Instructor] Debugging is a crucial part of any software development.
+> **[0:00](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/troubleshooting-mcp-servers?u=76281980&t=0)** - [Instructor] Debugging is a crucial part of any [[Software Development]].
 >
 > **[0:03](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/troubleshooting-mcp-servers?u=76281980&t=3)** And when you develop MCP servers that may run in different clients and interface with different external services, knowing what debugging tools are available becomes essential for success.
 >
@@ -719,13 +709,13 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/troubleshooting-mcp-servers?u=76281980&t=120)** It isn't how the server was called, specifically the command used to call the server because while we can call UV if UV is globally installed and in the path file for the operating system, if it's not, the system has no way of accessing UV directly.
 >
-> **[2:18](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/troubleshooting-mcp-servers?u=76281980&t=138)** Now to fix this problem on a Mac or Linux, you go into a terminal and type in which UV.
+> **[2:18](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/troubleshooting-mcp-servers?u=76281980&t=138)** Now to fix this problem on a Mac or [[Linux]], you go into a terminal and type in which UV.
 >
 > **[2:24](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/troubleshooting-mcp-servers?u=76281980&t=144)** This gives you the full path to UV.
 >
 > **[2:26](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/troubleshooting-mcp-servers?u=76281980&t=146)** Just copy it and paste it in.
 >
-> **[2:29](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/troubleshooting-mcp-servers?u=76281980&t=149)** And on Windows, you do the exact same thing except you type in where UV, and you get the direct path.
+> **[2:29](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/troubleshooting-mcp-servers?u=76281980&t=149)** And on [[Windows]], you do the exact same thing except you type in where UV, and you get the direct path.
 >
 > **[2:36](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/troubleshooting-mcp-servers?u=76281980&t=156)** I'll save claude_desktop_config, close Claude and reopen it.
 >
@@ -743,7 +733,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (5), [[Software Development]] (1), [[Troubleshooting]] (1), [[Linux]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Linux]] (1), [[Windows]] (1)
 > **Env Vars:** mcp (14), enoent (1), mcps (1), npx (1), uvx (1)
 > **CLI Commands:** find (3), npx (1), make (1)
 > **Code Identifiers:** claude_desktop_config (2)
@@ -757,8 +747,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building AI agents with MCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/building-ai-agents-with-mcp?u=76281980)
+#### [Building AI agents with MCP](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/building-ai-agents-with-mcp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -778,7 +767,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/building-ai-agents-with-mcp?u=76281980&t=63)** And as you do so, keep this in mind.
 >
-> **[1:05](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/building-ai-agents-with-mcp?u=76281980&t=65)** The blast radius of AI agents and MCPs is unlimited until we limit it.
+> **[1:05](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/building-ai-agents-with-mcp?u=76281980&t=65)** The blast radius of [[AI Agents]] and MCPs is unlimited until we limit it.
 >
 > **[1:11](https://www.linkedin.com/learning/model-context-protocol-mcp-hands-on-with-agentic-ai/building-ai-agents-with-mcp?u=76281980&t=71)** And it's your job to make sure these tools do what they're supposed to, do not do what they're not supposed to, and do not put your users at risk.
 >
@@ -792,7 +781,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), power (2), data (1), next (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1)
 > **CLI Commands:** make (1), go build (1)
 > **Env Vars:** mcps (1), mcp (1)
 > **Cross-References:** in the next (1)

@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/cfi-financial-analysis-and-modeling
 course_count: 7
 linkedin_topics:
   - Data Science
-louvain_cluster: 2
+louvain_cluster: 16
 tags:
   - professional-certificate
   - topic/data-science

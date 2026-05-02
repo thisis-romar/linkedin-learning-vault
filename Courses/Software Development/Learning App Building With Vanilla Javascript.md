@@ -94,18 +94,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/welcome?u=76281980&t=1)** - Building apps with Vanilla JavaScript alone, without libraries or frameworks, can provide better load times and better overall performance without giving up modern features like data binding and animation.
+> **[0:01](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/welcome?u=76281980&t=1)** - Building apps with [[Vanilla]] [[JavaScript]] alone, without libraries or frameworks, can provide better load times and better overall performance without giving up modern features like data binding and animation.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/welcome?u=76281980&t=15)** I'm Sasha Vodnik, a web developer, author, and educator.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/welcome?u=76281980&t=18)** In this course, I'll invite you to think about removing libraries and frameworks using this metaphor as we convert an app that builds the same features and functionality with Vanilla JavaScript alone.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/welcome?u=76281980&t=31)** We'll get familiar with modern JavaScript solutions like the fetch API for ajax requests.
+> **[0:31](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/welcome?u=76281980&t=31)** We'll get familiar with modern JavaScript solutions like the [[Fetch]] API for [[AJAX]] requests.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/welcome?u=76281980&t=37)** I'll show you how to implement Vanilla JavaScript approaches to common tasks like selecting elements.
 >
@@ -117,16 +116,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (5), [[Vanilla]] (4), web (2), data (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[Vanilla]] (4), [[Fetch]] (1), [[AJAX]] (1)
 > **Env Vars:** api (1), dom (1)
 > **Speakers:** - building (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/what-you-should-know?u=76281980&t=0)** - [Instructor] This course assumes basic familiarity with HTML, CSS, and JavaScript.
+> **[0:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/what-you-should-know?u=76281980&t=0)** - [Instructor] This course assumes basic familiarity with [[HTML]], CSS, and [[JavaScript]].
 >
 > **[0:06](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/what-you-should-know?u=76281980&t=6)** You should understand the basic syntax of HTML and CSS, and how CSS style rules are applied to DOM elements.
 >
@@ -134,7 +132,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/what-you-should-know?u=76281980&t=18)** If you don't have experience with JavaScript, the JavaScript essentials course is a great place to start.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/what-you-should-know?u=76281980&t=24)** We'll also be working with React and jQuery in this course.
+> **[0:24](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/what-you-should-know?u=76281980&t=24)** We'll also be working with [[React.js|React]] and jQuery in this course.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/what-you-should-know?u=76281980&t=28)** It's helpful if you have some experience with these tools so you can understand the code we're replacing.
 >
@@ -142,11 +140,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/what-you-should-know?u=76281980&t=38)** If you want to learn the basis of jQuery, check out [[jQuery Essential Training]].
 >
-> **[0:43](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/what-you-should-know?u=76281980&t=43)** You'll find a good introduction to React in react.js essential training.
+> **[0:43](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/what-you-should-know?u=76281980&t=43)** You'll find a good introduction to React in [[React.js]] essential training.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), css (3), [[HTML]] (2), [[React.js|React]] (2), dom (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[HTML]] (2), [[React.js|React]] (2), [[React.js]] (1)
 > **Env Vars:** css (3), html (2), dom (1)
 > **Code Identifiers:** jquery (3)
 > **File Paths:** react.js (1)
@@ -154,8 +152,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/exercise-files?u=76281980)
+#### [Exercise files](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -179,7 +176,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **Exercise Files:** exercise files (3)
 > **Speakers:** - [instructor] (1)
 
@@ -188,8 +184,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Libraries, frameworks, and vanilla JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/libraries-frameworks-and-vanilla-javascript?u=76281980)
+#### [Libraries, frameworks, and vanilla JavaScript](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/libraries-frameworks-and-vanilla-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -197,7 +192,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/libraries-frameworks-and-vanilla-javascript?u=76281980&t=6)** Both consist of pre-written code you can include in your app that makes it easier to perform common tasks.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/libraries-frameworks-and-vanilla-javascript?u=76281980&t=12)** You can write vanilla JavaScript code in an app that uses libraries and/or frameworks.
+> **[0:12](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/libraries-frameworks-and-vanilla-javascript?u=76281980&t=12)** You can write [[Vanilla]] [[JavaScript]] code in an app that uses libraries and/or frameworks.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/libraries-frameworks-and-vanilla-javascript?u=76281980&t=18)** Any combination of these can coexist in the same code base.
 >
@@ -239,7 +234,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/libraries-frameworks-and-vanilla-javascript?u=76281980&t=174)** However, such a rewrite is not something to be undertaken lightly.
 >
-> **[3:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/libraries-frameworks-and-vanilla-javascript?u=76281980&t=180)** We're going to rewrite an app that uses the jQuery library and the React framework to instead use only vanilla JavaScript.
+> **[3:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/libraries-frameworks-and-vanilla-javascript?u=76281980&t=180)** We're going to rewrite an app that uses the jQuery library and the [[React.js|React]] framework to instead use only vanilla JavaScript.
 >
 > **[3:09](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/libraries-frameworks-and-vanilla-javascript?u=76281980&t=189)** Now just removing the linked files that contain the code for the library and framework themselves isn't enough.
 >
@@ -251,7 +246,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (10), [[Vanilla]] (7), web application (1), node (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (10), [[Vanilla]] (7), [[React.js|React]] (1)
 > **CLI Commands:** make (3), find (2), node (1)
 > **Code Identifiers:** jquery (1)
 > **Definitions:** refers to (1)
@@ -259,12 +254,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - when (1)
 
-#### Identify when to replace frameworks and libraries
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/identify-when-to-replace-frameworks-and-libraries?u=76281980)
+#### [Identify when to replace frameworks and libraries](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/identify-when-to-replace-frameworks-and-libraries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/identify-when-to-replace-frameworks-and-libraries?u=76281980&t=0)** - [Instructor] There are a few factors to consider before deciding whether to replace libraries or frameworks in your existing code with Vanilla JavaScript.
+> **[0:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/identify-when-to-replace-frameworks-and-libraries?u=76281980&t=0)** - [Instructor] There are a few factors to consider before deciding whether to replace libraries or frameworks in your existing code with [[Vanilla]] [[JavaScript]].
 >
 > **[0:08](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/identify-when-to-replace-frameworks-and-libraries?u=76281980&t=8)** First, it's useful to examine how extensively your app relies on the library or framework.
 >
@@ -292,13 +286,13 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/identify-when-to-replace-frameworks-and-libraries?u=76281980&t=110)** The app in this course uses the jQuery library, which has been around for a number of years.
 >
-> **[1:56](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/identify-when-to-replace-frameworks-and-libraries?u=76281980&t=116)** At the time it was first released, it simplified some coding tasks, like selecting elements and performing Ajax requests, that were much more complicated in Vanilla JavaScript.
+> **[1:56](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/identify-when-to-replace-frameworks-and-libraries?u=76281980&t=116)** At the time it was first released, it simplified some coding tasks, like selecting elements and performing [[AJAX]] requests, that were much more complicated in Vanilla JavaScript.
 >
 > **[2:07](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/identify-when-to-replace-frameworks-and-libraries?u=76281980&t=127)** However, today, the JavaScript language supports simplified syntax for these and other tasks.
 >
 > **[2:13](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/identify-when-to-replace-frameworks-and-libraries?u=76281980&t=133)** For this reason, it makes sense to remove the library from our code base, which should let us realize an improvement in load times and memory usage.
 >
-> **[2:22](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/identify-when-to-replace-frameworks-and-libraries?u=76281980&t=142)** Our app also makes limited use of the React framework.
+> **[2:22](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/identify-when-to-replace-frameworks-and-libraries?u=76281980&t=142)** Our app also makes limited use of the [[React.js|React]] framework.
 >
 > **[2:26](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/identify-when-to-replace-frameworks-and-libraries?u=76281980&t=146)** Because the app uses only a couple small React components, it's pretty straightforward to replace them with code written in Vanilla JavaScript, which allows us to eliminate the overhead of the React framework files, as well.
 >
@@ -320,7 +314,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (8), [[React.js|React]] (7), [[Vanilla]] (4), [[AJAX]] (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (8), [[React.js|React]] (7), [[Vanilla]] (4), [[AJAX]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for instance (3)
 > **File Paths:** babel.js (2)
@@ -334,16 +328,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Application architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/application-architecture?u=76281980)
+#### [Application architecture](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/application-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/application-architecture?u=76281980&t=0)** - [Instructor] In this course we're starting with an existing app that uses jQuery and React, and we're refactoring that app to use Vanilla Javascript.
+> **[0:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/application-architecture?u=76281980&t=0)** - [Instructor] In this course we're starting with an existing app that uses jQuery and [[React.js|React]], and we're refactoring that app to use [[Vanilla]] [[JavaScript]].
 >
 > **[0:08](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/application-architecture?u=76281980&t=8)** So before we dig in on coding, let's get familiar with the app and its existing code.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/application-architecture?u=76281980&t=14)** Our app is a page for a sports company, and most of the page is about its products and personnel.
+> **[0:14](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/application-architecture?u=76281980&t=14)** Our app is a page for a sports company, and most of the page is about its [[Microsoft Products|products]] and personnel.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/application-architecture?u=76281980&t=21)** Now up here at the top is a widget, and that's what we'll be working on.
 >
@@ -361,7 +354,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/application-architecture?u=76281980&t=66)** So at the start we have several constants and variables, including the state variable, an object which is empty to begin.
 >
-> **[1:15](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/application-architecture?u=76281980&t=75)** And next is an event listener for the Get Forecast button, which calls AJAX code to submit a request to open Weather Map, and then calls either update UI success, or update UI failure if there's a problem.
+> **[1:15](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/application-architecture?u=76281980&t=75)** And next is an event listener for the Get Forecast button, which calls [[AJAX]] code to submit a request to open Weather Map, and then calls either update UI success, or update UI failure if there's a problem.
 >
 > **[1:33](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/application-architecture?u=76281980&t=93)** Next we have one more event listener, which is for the three tabs at the top of the activity list.
 >
@@ -385,7 +378,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[AJAX]] (4), [[React.js|React]] (2), next (2), [[Vanilla]] (1)
+> **Frameworks & Libraries:** [[AJAX]] (4), [[React.js|React]] (2), [[Vanilla]] (1), [[JavaScript]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** ajax (4)
 > **Definitions:** is a  (3), is an  (1)
 > **Code Identifiers:** jquery (1)
@@ -396,16 +389,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Environment setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/environment-setup?u=76281980)
+#### [Environment setup](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/environment-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/environment-setup?u=76281980&t=0)** - To complete the videos in this course, you need four applications.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/environment-setup?u=76281980&t=4)** A web browser, a code editor, a JavaScript transpiler and an http server.
+> **[0:04](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/environment-setup?u=76281980&t=4)** A web browser, a code editor, a [[JavaScript]] transpiler and an http server.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/environment-setup?u=76281980&t=11)** You undoubtedly already have a web browser installed on your machine, and any major browser, Chrome, Firefox, Microsoft Edge, or even Safari, is fine for this course.
+> **[0:11](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/environment-setup?u=76281980&t=11)** You undoubtedly already have a web browser installed on your machine, and any major browser, Chrome, Firefox, [[Microsoft]] Edge, or even Safari, is fine for this course.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/environment-setup?u=76281980&t=22)** I'll be using Chrome in these videos, which is a popular choice among web developers because of the extensive and powerful developer tools that it has built in.
 >
@@ -417,11 +409,11 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/environment-setup?u=76281980&t=56)** So if you have a code editor you like, such as Sublime Text or Atom, it's fine to use it.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/environment-setup?u=76281980&t=62)** I use Visual Studio Code in these videos, which is a version of Microsoft's Visual Studio created specifically for web development.
+> **[1:02](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/environment-setup?u=76281980&t=62)** I use Visual Studio Code in these videos, which is a version of Microsoft's Visual Studio created specifically for [[Web Development]].
 >
-> **[1:10](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/environment-setup?u=76281980&t=70)** Visual Studio Code is free and has Windows, Mac and Linux releases.
+> **[1:10](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/environment-setup?u=76281980&t=70)** Visual Studio Code is free and has [[Windows]], Mac and [[Linux]] releases.
 >
-> **[1:15](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/environment-setup?u=76281980&t=75)** The code is available on GitHub, and users can submit issues there as well.
+> **[1:15](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/environment-setup?u=76281980&t=75)** The code is available on [[GitHub]], and users can submit issues there as well.
 >
 > **[1:21](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/environment-setup?u=76281980&t=81)** Babel is a utility used to transpile some newer JavaScript features to run on older browsers.
 >
@@ -435,7 +427,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/environment-setup?u=76281980&t=113)** So if you don't have one installed at this point, use this as your excuse to install it.
 >
-> **[1:58](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/environment-setup?u=76281980&t=118)** I'm using http-server, which is a command line utility that runs under Node and it's installed through the Node Package Manager, or NPM.
+> **[1:58](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/environment-setup?u=76281980&t=118)** I'm using http-server, which is a command line utility that runs under Node and it's installed through the Node Package Manager, or [[npm]].
 >
 > **[2:07](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/environment-setup?u=76281980&t=127)** You can install Node by downloading a GUI installer from [nodejs.org](https://nodejs.org).
 >
@@ -451,7 +443,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), node (3), [[JavaScript]] (2), [[Microsoft]] (2), [[npm]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Microsoft]] (2), [[npm]] (2), [[Web Development]] (1), [[Windows]] (1)
 > **Tools:** visual studio (4), safari (2), command line (2), firefox (1), sublime (1)
 > **CLI Commands:** node (3), npm (2), sudo (2)
 > **Prerequisites:** install (5), you'll need (1)
@@ -460,8 +452,7 @@ created: 2026-05-02
 > **URLs:** [nodejs.org](https://nodejs.org) (1)
 > **Analogies:** such as (1)
 
-#### Getting your API key
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/getting-your-api-key?u=76281980)
+#### [Getting your API key](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/getting-your-api-key?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -471,7 +462,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/getting-your-api-key?u=76281980&t=15)** The service provides a limited amount of data for free and by having your own key you can ensure that you stay below the limit of free requests.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/getting-your-api-key?u=76281980&t=23)** To do this you need to sign up for an account with [OpenWeatherMap.org](https://OpenWeatherMap.org) and obtain an API key which you will use when creating your Ajax requests for data.
+> **[0:23](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/getting-your-api-key?u=76281980&t=23)** To do this you need to sign up for an account with [OpenWeatherMap.org](https://OpenWeatherMap.org) and obtain an API key which you will use when creating your [[AJAX]] requests for data.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/getting-your-api-key?u=76281980&t=33)** So let's set that up now, [OpenWeatherMap.org](https://OpenWeatherMap.org) makes weather information available under a creative commons license, data is free for up to 60 requests per minute which will work fine for this course.
 >
@@ -489,7 +480,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/getting-your-api-key?u=76281980&t=86)** And then enter a password of at least 8 characters in both password boxes.
 >
-> **[1:32](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/getting-your-api-key?u=76281980&t=92)** And you can read the terms of service and privacy policy and then check this box, verify you're not a robot, and create your account.
+> **[1:32](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/getting-your-api-key?u=76281980&t=92)** And you can read the terms of service and [[Privacy]] policy and then check this box, verify you're not a robot, and create your account.
 >
 > **[1:45](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/getting-your-api-key?u=76281980&t=105)** And the company has a survey about how you can use the data, you can choose to answer that or not.
 >
@@ -517,7 +508,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (11), data (6), [[AJAX]] (2), hit (2), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[AJAX]] (2), [[Privacy]] (1)
 > **Env Vars:** api (11)
 > **URLs:** [openweathermap.org](https://openweathermap.org) (5)
 > **CLI Commands:** make (2)
@@ -531,14 +522,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fetch API
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/fetch-api?u=76281980)
+#### [Fetch API](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/fetch-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/fetch-api?u=76281980&t=1)** - One common feature offered by modern libraries and frameworks is a convenience method for making AJAX requests.
+> **[0:01](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/fetch-api?u=76281980&t=1)** - One common feature offered by modern libraries and frameworks is a convenience method for making [[AJAX]] requests.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/fetch-api?u=76281980&t=7)** These methods let developers avoid needing to code the most widely supported vanilla JavaScript object, XMLHttpRequest or XHR.
+> **[0:07](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/fetch-api?u=76281980&t=7)** These methods let developers avoid needing to code the most widely supported [[Vanilla]] [[JavaScript]] object, XMLHttpRequest or XHR.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/fetch-api?u=76281980&t=17)** XHR code for multiple sequential AJAX requests, or callbacks, requires a set of nested functions which can result in a code structure that's difficult for humans to read and can create a call stack that presents debugging challenges.
 >
@@ -550,7 +540,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/fetch-api?u=76281980&t=48)** Each one passing its result to the next callback.
 >
-> **[0:53](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/fetch-api?u=76281980&t=53)** Modern browsers support the Fetch API, which is a successor to XHR that's built on promises.
+> **[0:53](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/fetch-api?u=76281980&t=53)** Modern browsers support the [[Fetch]] API, which is a successor to XHR that's built on promises.
 >
 > **[1:01](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/fetch-api?u=76281980&t=61)** You can create a Fetch request that specifies a URL and code one or more chained success callbacks as well as a callback to deal with a failed request.
 >
@@ -560,29 +550,28 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/fetch-api?u=76281980&t=85)** If you've used the AJAX convenience methods in modern libraries and frameworks, Fetch syntax will look very familiar.
 >
-> **[1:32](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/fetch-api?u=76281980&t=92)** As many of these methods, such as those in jQuery or Angular, are also built on promises.
+> **[1:32](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/fetch-api?u=76281980&t=92)** As many of these methods, such as those in jQuery or [[Angular]], are also built on promises.
 >
 > **[1:38](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/fetch-api?u=76281980&t=98)** The first plate I'm going to replace as I reset my table will be the jQuery AJAX code, which I'll swap out for Fetch code that will perform the same task but will work without a library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (5), [[AJAX]] (4), api (2), feature (1), [[Vanilla]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (5), [[AJAX]] (4), [[Vanilla]] (1), [[JavaScript]] (1), [[Angular]] (1)
 > **Env Vars:** ajax (4), xhr (3), api (2), url (2)
 > **Code Identifiers:** jquery (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **Speakers:** - one (1)
 
-#### Create an Ajax request with Fetch
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-an-ajax-request-with-fetch?u=76281980)
+#### [Create an Ajax request with Fetch](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-an-ajax-request-with-fetch?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-an-ajax-request-with-fetch?u=76281980&t=0)** - [Instructor] So, we've opened script.js from the js folder in the start files for this video and this contains the code for this app.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-an-ajax-request-with-fetch?u=76281980&t=9)** And so if we scroll down, it's down here in lines 23 to 27 that contain the code for the Ajax request that fetches the weather data for whatever location the user entered.
+> **[0:09](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-an-ajax-request-with-fetch?u=76281980&t=9)** And so if we scroll down, it's down here in lines 23 to 27 that contain the code for the [[AJAX]] request that fetches the weather data for whatever location the user entered.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-an-ajax-request-with-fetch?u=76281980&t=21)** This code uses the jQuery get method which uses syntax similar to promises and fetch in vanilla JavaScript.
+> **[0:21](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-an-ajax-request-with-fetch?u=76281980&t=21)** This code uses the jQuery get method which uses syntax similar to promises and [[Fetch]] in [[Vanilla]] [[JavaScript]].
 >
 > **[0:28](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-an-ajax-request-with-fetch?u=76281980&t=28)** So, after the get request, the done method is chained capturing the response and then calling updateUISuccess which is a function and passing along that response object.
 >
@@ -610,7 +599,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-an-ajax-request-with-fetch?u=76281980&t=130)** So, fetch fortunately allows us to chain as many then statements as we want and this can be useful in a number of situations like this one.
 >
-> **[2:18](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-an-ajax-request-with-fetch?u=76281980&t=138)** So here, we need to first grab the response object and then we need to run the response.json method to get just the JSON content we received from Open Weather Map and then pass that along.
+> **[2:18](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-an-ajax-request-with-fetch?u=76281980&t=138)** So here, we need to first grab the response object and then we need to run the response.[[JSON]] method to get just the JSON content we received from Open Weather Map and then pass that along.
 >
 > **[2:30](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-an-ajax-request-with-fetch?u=76281980&t=150)** So, I'm going to click before the dot in .then and I'm going to press enter twice to put that on its own line and then going back up after the fetch method and after the closing paren for those arguments, I'm going to add another .then, I'm going to pass an anonymous function and I'm going to use the parameter name response for the response object.
 >
@@ -628,7 +617,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-an-ajax-request-with-fetch?u=76281980&t=245)** So, once my apiKey is in place, I'm going to save my work.
 >
-> **[4:09](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-an-ajax-request-with-fetch?u=76281980&t=249)** And I need to start my http server for the current folder so I'm using http-server which is an NPM module and so I need to cd to the current folder so there's a little trick for that using the finder so I can do cd space and then in the finder, I'm going to grab the start folder for video 04_02.
+> **[4:09](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-an-ajax-request-with-fetch?u=76281980&t=249)** And I need to start my http server for the current folder so I'm using http-server which is an [[npm]] module and so I need to cd to the current folder so there's a little trick for that using the finder so I can do cd space and then in the finder, I'm going to grab the start folder for video 04_02.
 >
 > **[4:30](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-an-ajax-request-with-fetch?u=76281980&t=270)** I'm going to drag it over to my terminal.
 >
@@ -678,12 +667,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Element selection with vanilla JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/element-selection-with-vanilla-javascript?u=76281980)
+#### [Element selection with vanilla JavaScript](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/element-selection-with-vanilla-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/element-selection-with-vanilla-javascript?u=76281980&t=1)** - Vanilla JavaScript supports numerous different ways of selecting elements, both single and collections, including references their IDs, classes, and tag names.
+> **[0:01](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/element-selection-with-vanilla-javascript?u=76281980&t=1)** - [[Vanilla]] [[JavaScript]] supports numerous different ways of selecting elements, both single and collections, including references their IDs, classes, and tag names.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/element-selection-with-vanilla-javascript?u=76281980&t=11)** However, the easiest way to select elements with vanilla JavaScript is to specify CSS selectors, just as you would with jQuery, for instance.
 >
@@ -731,7 +719,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vanilla]] (7), [[JavaScript]] (7), css (2), web (1), next (1)
+> **Frameworks & Libraries:** [[Vanilla]] (7), [[JavaScript]] (7)
 > **Code Identifiers:** jquery (9), queryselector (7), queryselectorall (3)
 > **Env Vars:** css (2)
 > **Definitions:** is a  (2)
@@ -739,12 +727,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - vanilla (1)
 
-#### Select and modify elements with querySelector
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/select-and-modify-elements-with-queryselector?u=76281980)
+#### [Select and modify elements with querySelector](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/select-and-modify-elements-with-queryselector?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/select-and-modify-elements-with-queryselector?u=76281980&t=0)** - [Instructor] So we're going to start replacing jQuery selectors in our app with Vanilla JavaScript selectors.
+> **[0:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/select-and-modify-elements-with-queryselector?u=76281980&t=0)** - [Instructor] So we're going to start replacing jQuery selectors in our app with [[Vanilla]] [[JavaScript]] selectors.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/select-and-modify-elements-with-queryselector?u=76281980&t=6)** So in script.js, scrolling through there are a number of places throughout that use the jQuery dollar selector syntax to select elements.
 >
@@ -788,7 +775,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/select-and-modify-elements-with-queryselector?u=76281980&t=168)** So this resets the text box, removing the user input by setting that box's value to an empty string.
 >
-> **[2:56](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/select-and-modify-elements-with-queryselector?u=76281980&t=176)** Now I can move down to line 58, and here we're selecting the DOM element where the React component that follows will be rendered.
+> **[2:56](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/select-and-modify-elements-with-queryselector?u=76281980&t=176)** Now I can move down to line 58, and here we're selecting the DOM element where the [[React.js|React]] component that follows will be rendered.
 >
 > **[3:07](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/select-and-modify-elements-with-queryselector?u=76281980&t=187)** So I'm going to comment this line out, and add a new line, and I'm going to create a new const statement, but I'm going to make one additional change here.
 >
@@ -840,7 +827,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vanilla]] (7), [[JavaScript]] (7), [[React.js|React]] (2), dom (1)
+> **Frameworks & Libraries:** [[Vanilla]] (7), [[JavaScript]] (7), [[React.js|React]] (2)
 > **Code Identifiers:** jquery (16), queryselector (4), apikey (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), for instance (1)
@@ -849,14 +836,13 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 
-#### Select and modify elements with querySelectorAll
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/select-and-modify-elements-with-queryselectorall?u=76281980)
+#### [Select and modify elements with querySelectorAll](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/select-and-modify-elements-with-queryselectorall?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/select-and-modify-elements-with-queryselectorall?u=76281980&t=0)** - [Instructor] Our app contains jQuery selector code that returns multiple elements rather than just a single element.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/select-and-modify-elements-with-queryselectorall?u=76281980&t=6)** We can re-create this behavior in vanilla JavaScript using the querySelectorAll method, which returns a collection of elements.
+> **[0:06](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/select-and-modify-elements-with-queryselectorall?u=76281980&t=6)** We can re-create this behavior in [[Vanilla]] [[JavaScript]] using the querySelectorAll method, which returns a collection of elements.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/select-and-modify-elements-with-queryselectorall?u=76281980&t=14)** So down on line 89, the selector .options div matches three elements which are the three tabs in the activity results section.
 >
@@ -886,7 +872,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/select-and-modify-elements-with-queryselectorall?u=76281980&t=105)** So we can take advantage of the class list property that's part of each element.
 >
-> **[1:50](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/select-and-modify-elements-with-queryselectorall?u=76281980&t=110)** This stores a collection of the element's current class values, which are specified in the HTML using the class attribute.
+> **[1:50](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/select-and-modify-elements-with-queryselectorall?u=76281980&t=110)** This stores a collection of the element's current class values, which are specified in the [[HTML]] using the class attribute.
 >
 > **[1:59](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/select-and-modify-elements-with-queryselectorall?u=76281980&t=119)** And the class list property supports a remove method, which is similar to the removeClass method in jQuery.
 >
@@ -914,7 +900,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vanilla]] (4), [[JavaScript]] (4), [[HTML]] (1), api (1)
+> **Frameworks & Libraries:** [[Vanilla]] (4), [[JavaScript]] (4), [[HTML]] (1)
 > **Code Identifiers:** jquery (4), queryselectorall (3), foreach (2), removeclass (1), classlist (1)
 > **Env Vars:** html (1), api (1), http (1)
 > **CLI Commands:** make (2)
@@ -927,14 +913,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### JavaScript events
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/javascript-events?u=76281980)
+#### [JavaScript events](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/javascript-events?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/javascript-events?u=76281980&t=0)** - You can write all the down manipulation code you want but a web app doesn't become interactive without making it respond to events.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/javascript-events?u=76281980&t=8)** To do that whether with a library of frame work or with vanilla java script we have to do three things.
+> **[0:08](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/javascript-events?u=76281980&t=8)** To do that whether with a library of frame work or with [[Vanilla]] [[Java]] script we have to do three things.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/javascript-events?u=76281980&t=16)** First we have to select the element that we want a user to be able to interact with.
 >
@@ -980,7 +965,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/javascript-events?u=76281980&t=155)** Which stops the default behavior of the event on the object.
 >
-> **[2:38](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/javascript-events?u=76281980&t=158)** This is often useful for buttons in forms when you want to capture a button click without immediately submitting the form and reloading the page.
+> **[2:38](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/javascript-events?u=76281980&t=158)** This is often useful for buttons in [[Forms]] when you want to capture a button click without immediately submitting the form and reloading the page.
 >
 > **[2:48](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/javascript-events?u=76281980&t=168)** You can also access a number of properties about the event itself.
 >
@@ -1004,7 +989,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/javascript-events?u=76281980&t=235)** By contrast you can create as many event listeners as you want for a given event on the same element and all of the event handlers you specify will run in response to that event.
 >
-> **[4:07](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/javascript-events?u=76281980&t=247)** Finally you can technically register an event using an event attribute in your html.
+> **[4:07](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/javascript-events?u=76281980&t=247)** Finally you can technically register an event using an event attribute in your [[HTML]].
 >
 > **[4:13](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/javascript-events?u=76281980&t=253)** For instance specifying an on click attribute and setting it's value equal to the name of an event handler function, or a string containing java script code.
 >
@@ -1018,7 +1003,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (8), [[Vanilla]] (5), [[HTML]] (2), web (1), css (1)
+> **Frameworks & Libraries:** [[Java]] (8), [[Vanilla]] (5), [[HTML]] (2), [[Forms]] (1)
 > **Code Identifiers:** jquery (4)
 > **UI Navigation:** select the (3), click on (1)
 > **Analogies:** for instance (2), just like (1), such as (1)
@@ -1027,8 +1012,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** css (1)
 
-#### Add event listeners with vanilla JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-event-listeners-with-vanilla-javascript?u=76281980)
+#### [Add event listeners with vanilla JavaScript](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-event-listeners-with-vanilla-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1036,7 +1020,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-event-listeners-with-vanilla-javascript?u=76281980&t=6)** This is the button that users click to look up the weather for a location they've entered.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-event-listeners-with-vanilla-javascript?u=76281980&t=12)** So, we'll comment out the code on line 18, and then on a new line, our first step is to replace the jquery selector with a vanilla javascript selector.
+> **[0:12](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-event-listeners-with-vanilla-javascript?u=76281980&t=12)** So, we'll comment out the code on line 18, and then on a new line, our first step is to replace the jquery selector with a [[Vanilla]] [[JavaScript]] selector.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-event-listeners-with-vanilla-javascript?u=76281980&t=23)** Because this is a single element, we'll use document.queryselector and we'll use the same selector as in the jquery statement, which is .forecast-button.
 >
@@ -1078,26 +1062,25 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-event-listeners-with-vanilla-javascript?u=76281980&t=232)** We'll stick a semicolon at the end.
 >
-> **[3:55](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-event-listeners-with-vanilla-javascript?u=76281980&t=235)** Saving my work, I have my API key in place, my HTTP server is running on the current directory, and in the browser, I shift reload, and I'll enter Cairo in the location box, click the button, and we see results from the Ajax call, so we know that the event listener on the get forecast button works, and then I can click the tabs in the results section, and the results change.
+> **[3:55](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-event-listeners-with-vanilla-javascript?u=76281980&t=235)** Saving my work, I have my API key in place, my HTTP server is running on the current directory, and in the browser, I shift reload, and I'll enter Cairo in the location box, click the button, and we see results from the [[AJAX]] call, so we know that the event listener on the get forecast button works, and then I can click the tabs in the results section, and the results change.
 >
 > **[4:22](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-event-listeners-with-vanilla-javascript?u=76281980&t=262)** Which demonstrates that the event listeners are in place and doing what we expect for each of those tabs as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vanilla]] (3), [[JavaScript]] (3), api (1), [[AJAX]] (1)
+> **Frameworks & Libraries:** [[Vanilla]] (3), [[JavaScript]] (3), [[AJAX]] (1)
 > **Env Vars:** api (1), http (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with the event object
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/work-with-the-event-object?u=76281980)
+#### [Work with the event object](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/work-with-the-event-object?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/work-with-the-event-object?u=76281980&t=0)** - Our app also makes use of the jQuery dollar this selector in a few places to reference the element that was the target of an event.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/work-with-the-event-object?u=76281980&t=8)** To convert this to vanilla JavaScript we can use properties of the event object.
+> **[0:08](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/work-with-the-event-object?u=76281980&t=8)** To convert this to [[Vanilla]] [[JavaScript]] we can use properties of the event object.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/work-with-the-event-object?u=76281980&t=13)** So first online 82 we have and if statement that starts by checking if the event parameter has a value.
 >
@@ -1133,7 +1116,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/work-with-the-event-object?u=76281980&t=124)** So I have to put in that closing curly brace in the else to make this an else if statement.
 >
-> **[2:11](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/work-with-the-event-object?u=76281980&t=131)** And then the only other change is that I need to put an exclamation mark or a bang before the word event and after the and logical operator.
+> **[2:11](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/work-with-the-event-object?u=76281980&t=131)** And then the only other change is that I need to put an exclamation mark or a bang before the [[Microsoft Word|word]] event and after the and logical operator.
 >
 > **[2:19](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/work-with-the-event-object?u=76281980&t=139)** And then on line 94 we can see another use of jQuery dollar this to get the value of the id attribute of the element that was clicked.
 >
@@ -1165,7 +1148,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vanilla]] (3), [[JavaScript]] (3), dom (1), data (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Vanilla]] (3), [[JavaScript]] (3), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** jquery (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -1176,16 +1159,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data binding
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/data-binding?u=76281980)
+#### [Data binding](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/data-binding?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/data-binding?u=76281980&t=0)** - When you use a framework like React for your UI, it lets you build out a view that incorporates data, either from user input or from a web service.
+> **[0:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/data-binding?u=76281980&t=0)** - When you use a framework like [[React.js|React]] for your UI, it lets you build out a view that incorporates data, either from user input or from a web service.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/data-binding?u=76281980&t=10)** In addition to providing you an API that lets you build a modular interface with a minimum of code, React does a couple important things for you behind the scenes to facilitate data-binding, which is connecting the data you want to display with specific parts of your view.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/data-binding?u=76281980&t=27)** When you're building out a UI yourself with vanilla Javascript, it's important to understand how it works so you can create a fully functional solution that doesn't suffer from performance issues.
+> **[0:27](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/data-binding?u=76281980&t=27)** When you're building out a UI yourself with [[Vanilla]] [[JavaScript]], it's important to understand how it works so you can create a fully functional solution that doesn't suffer from performance issues.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/data-binding?u=76281980&t=39)** When performing data-binding, it's crucial to track state, which is the canonical or authoritative value for each piece of information involved.
 >
@@ -1197,7 +1179,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/data-binding?u=76281980&t=70)** And the argument is not without merit.
 >
-> **[1:12](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/data-binding?u=76281980&t=72)** However, if you need to make an ajax request each time you need to reference the value of a variable, your app will take a performance hit.
+> **[1:12](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/data-binding?u=76281980&t=72)** However, if you need to make an [[AJAX]] request each time you need to reference the value of a variable, your app will take a performance hit.
 >
 > **[1:20](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/data-binding?u=76281980&t=80)** Sometimes significant.
 >
@@ -1219,7 +1201,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/data-binding?u=76281980&t=140)** Instead, it's a best practice to build out your DOM changes in memory and then update the DOM in a single operation.
 >
-> **[2:28](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/data-binding?u=76281980&t=148)** This reduces the demand for resources on your app and generally provides a better user experience.
+> **[2:28](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/data-binding?u=76281980&t=148)** This reduces the demand for resources on your app and generally provides a better [[User Experience (UX)|user experience]].
 >
 > **[2:35](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/data-binding?u=76281980&t=155)** Our app already contains a state variable, which stores properties that are updated when the user interacts with the view.
 >
@@ -1247,7 +1229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (13), data (7), [[JavaScript]] (5), [[React.js|React]] (4), web (4)
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[React.js|React]] (4), [[Vanilla]] (2), [[AJAX]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** dom (13), api (2)
 > **CLI Commands:** make (3), node (3)
 > **Code Identifiers:** createelement (1), setattribute (1), textcontent (1), appendchild (1)
@@ -1256,18 +1238,17 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - when (1)
 
-#### Create elements with vanilla JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-elements-with-vanilla-javascript?u=76281980)
+#### [Create elements with vanilla JavaScript](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-elements-with-vanilla-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-elements-with-vanilla-javascript?u=76281980&t=0)** - [Instructor] Our app is currently using React to make changes to the view in response to user interaction.
+> **[0:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-elements-with-vanilla-javascript?u=76281980&t=0)** - [Instructor] Our app is currently using [[React.js|React]] to make changes to the view in response to user interaction.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-elements-with-vanilla-javascript?u=76281980&t=6)** Now, we already have a state variable which tracks the current values of several properties related to both user choices and Ajax data.
+> **[0:06](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-elements-with-vanilla-javascript?u=76281980&t=6)** Now, we already have a state variable which tracks the current values of several properties related to both user choices and [[AJAX]] data.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-elements-with-vanilla-javascript?u=76281980&t=14)** When the state changes, our app calls the appropriate function to change the view with React.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-elements-with-vanilla-javascript?u=76281980&t=20)** We're going to take out the React components altogether and then build out replacement code for DOM manipulation using vanilla JavaScript.
+> **[0:20](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-elements-with-vanilla-javascript?u=76281980&t=20)** We're going to take out the React components altogether and then build out replacement code for DOM manipulation using [[Vanilla]] [[JavaScript]].
 >
 > **[0:27](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/create-elements-with-vanilla-javascript?u=76281980&t=27)** So, starting with the first component on line 66, we'll comment out the ReactDOM.render statement and then we'll comment out the forecast function which is our React component for the city and weather information in our view.
 >
@@ -1355,7 +1336,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (10), dom (3), [[AJAX]] (1), data (1), [[Vanilla]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (10), [[AJAX]] (1), [[Vanilla]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** createelement (8), foreach (4), activitiescontainer (2), listitem (2), updateactivitylist (1)
 > **Env Vars:** dom (3), jsx (2)
 > **CLI Commands:** make (1)
@@ -1364,18 +1345,17 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add and modify properties with vanilla JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-and-modify-properties-with-vanilla-javascript?u=76281980)
+#### [Add and modify properties with vanilla JavaScript](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-and-modify-properties-with-vanilla-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-and-modify-properties-with-vanilla-javascript?u=76281980&t=0)** - [Instructor] JavaScript allows us to access a number of properties and methods of DOM elements, which we can use to customize the elements.
+> **[0:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-and-modify-properties-with-vanilla-javascript?u=76281980&t=0)** - [Instructor] [[JavaScript]] allows us to access a number of properties and methods of DOM elements, which we can use to customize the elements.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-and-modify-properties-with-vanilla-javascript?u=76281980&t=7)** These are part of the API that let's us manipulate elements programmatically using JavaScript.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-and-modify-properties-with-vanilla-javascript?u=76281980&t=13)** So scrolling down to line 79 in our app, we've created a few elements but they need some customization before we can use them.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-and-modify-properties-with-vanilla-javascript?u=76281980&t=21)** The container element is fine, but the p element, stored in the cityPara variable, needs a class value of city, which we can see up here in the JSX for our react component.
+> **[0:21](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-and-modify-properties-with-vanilla-javascript?u=76281980&t=21)** The container element is fine, but the p element, stored in the cityPara variable, needs a class value of city, which we can see up here in the JSX for our [[React.js|react]] component.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-and-modify-properties-with-vanilla-javascript?u=76281980&t=33)** So we can use the element's setAttribute method to specify both the attribute and its value.
 >
@@ -1391,7 +1371,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-and-modify-properties-with-vanilla-javascript?u=76281980&t=71)** You may have heard of or even used the innerHTML property which is one way to specify text content.
 >
-> **[1:18](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-and-modify-properties-with-vanilla-javascript?u=76281980&t=78)** However, innerHTML comes with some security risks as it allows HTML tags as part of its content and thus opens your code to potential Cross-site Scripting Attack.
+> **[1:18](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-and-modify-properties-with-vanilla-javascript?u=76281980&t=78)** However, innerHTML comes with some security risks as it allows [[HTML]] tags as part of its content and thus opens your code to potential Cross-site Scripting Attack.
 >
 > **[1:28](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-and-modify-properties-with-vanilla-javascript?u=76281980&t=88)** A safer alternative is the textContent property which interprets values passed to it as raw text and doesn't parse any HTML in the values.
 >
@@ -1403,7 +1383,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-and-modify-properties-with-vanilla-javascript?u=76281980&t=136)** Now notice, up in the commented out react component, that our p element next includes the HTML character reference for the degree symbol, which is &#176:.
 >
-> **[2:29](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-and-modify-properties-with-vanilla-javascript?u=76281980&t=149)** Now this is HTML code that won't be parsed as part of the textContent attribute, and so we can't use it in our vanilla JavaScript code.
+> **[2:29](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-and-modify-properties-with-vanilla-javascript?u=76281980&t=149)** Now this is HTML code that won't be parsed as part of the textContent attribute, and so we can't use it in our [[Vanilla]] JavaScript code.
 >
 > **[2:39](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-and-modify-properties-with-vanilla-javascript?u=76281980&t=159)** However, we can instead use the Unicode version of that same character reference.
 >
@@ -1431,7 +1411,7 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-and-modify-properties-with-vanilla-javascript?u=76281980&t=392)** Now we have one final statement in our code to replace, and that's in the updateUIFailure function at the end of the code.
 >
-> **[6:40](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-and-modify-properties-with-vanilla-javascript?u=76281980&t=400)** This uses the jQuery text method to set a text value displaying an error message when our AJAX request is unsuccessful.
+> **[6:40](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-and-modify-properties-with-vanilla-javascript?u=76281980&t=400)** This uses the jQuery text method to set a text value displaying an error message when our [[AJAX]] request is unsuccessful.
 >
 > **[6:49](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/add-and-modify-properties-with-vanilla-javascript?u=76281980&t=409)** So I'll comment out that jQuery statement, and then on a new line, I'll use document.querySelector to select .conditions, and then I'll use .textContent
 >
@@ -1457,7 +1437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (5), [[React.js|React]] (4), [[HTML]] (4), dom (2), next (2)
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[React.js|React]] (4), [[HTML]] (4), [[Vanilla]] (2), [[AJAX]] (2)
 > **Code Identifiers:** textcontent (14), setattribute (5), citypara (3), listitem (3), innerhtml (2)
 > **Env Vars:** html (4), dom (2), jsx (2), ajax (2), api (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -1466,8 +1446,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** just like (1)
 
-#### Append elements with vanilla JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/append-elements-with-vanilla-javascript?u=76281980)
+#### [Append elements with vanilla JavaScript](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/append-elements-with-vanilla-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1481,7 +1460,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/append-elements-with-vanilla-javascript?u=76281980&t=18)** We pass in a reference to a new child element, which is then appended.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/append-elements-with-vanilla-javascript?u=76281980&t=23)** Now for our app we already know the document structure we need which is represented in the jsx code in the commented out react components.
+> **[0:23](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/append-elements-with-vanilla-javascript?u=76281980&t=23)** Now for our app we already know the document structure we need which is represented in the jsx code in the commented out [[React.js|react]] components.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/append-elements-with-vanilla-javascript?u=76281980&t=32)** So for the first one around line 79, we've created a div, two P elements, and an image element.
 >
@@ -1503,7 +1482,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/append-elements-with-vanilla-javascript?u=76281980&t=114)** And that matches the structure where we're creating.
 >
-> **[1:57](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/append-elements-with-vanilla-javascript?u=76281980&t=117)** So now we have a set of nested html elements.
+> **[1:57](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/append-elements-with-vanilla-javascript?u=76281980&t=117)** So now we have a set of nested [[HTML]] elements.
 >
 > **[2:01](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/append-elements-with-vanilla-javascript?u=76281980&t=121)** However, they're still not part of the DOM and won't show up in the browser window yet.
 >
@@ -1571,7 +1550,7 @@ created: 2026-05-02
 >
 > **[6:24](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/append-elements-with-vanilla-javascript?u=76281980&t=384)** And then in my browser I shift reload.
 >
-> **[6:29](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/append-elements-with-vanilla-javascript?u=76281980&t=389)** And I enter Tokyo, click the button, and the weather is displayed, but this time using our vanilla javascript elements rather than react.
+> **[6:29](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/append-elements-with-vanilla-javascript?u=76281980&t=389)** And I enter Tokyo, click the button, and the weather is displayed, but this time using our [[Vanilla]] [[JavaScript]] elements rather than react.
 >
 > **[6:40](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/append-elements-with-vanilla-javascript?u=76281980&t=400)** And clicking tabs, the list updates, again using the vanilla javascript we wrote.
 >
@@ -1579,25 +1558,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (9), [[React.js|React]] (4), [[Vanilla]] (2), [[JavaScript]] (2), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[Vanilla]] (2), [[JavaScript]] (2), [[HTML]] (1)
 > **Code Identifiers:** appendchild (9), queryselector (4), replacechild (4), conditionspara (3), activitiescontainer (3)
 > **Env Vars:** dom (9)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [narrator] (1)
 
-#### Template literals to build DOM content
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/template-literals-to-build-dom-content?u=76281980)
+#### [Template literals to build DOM content](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/template-literals-to-build-dom-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/template-literals-to-build-dom-content?u=76281980&t=0)** - [Instructor] One of the really useful features of React is the ability to write JSX code.
+> **[0:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/template-literals-to-build-dom-content?u=76281980&t=0)** - [Instructor] One of the really useful features of [[React.js|React]] is the ability to write JSX code.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/template-literals-to-build-dom-content?u=76281980&t=5)** JSX let's you write a single string that include both literal content and variable values with the common curly bracket delimiters used in templating libraries like Mustache and Handlebars.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/template-literals-to-build-dom-content?u=76281980&t=17)** Now, JSX also let's you pass literal HTML elements.
+> **[0:17](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/template-literals-to-build-dom-content?u=76281980&t=17)** Now, JSX also let's you pass literal [[HTML]] elements.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/template-literals-to-build-dom-content?u=76281980&t=22)** And although React contains code to parse those safely, that's not a safe thing to do in Vanilla JavaScript without writing some extra code to secure it.
+> **[0:22](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/template-literals-to-build-dom-content?u=76281980&t=22)** And although React contains code to parse those safely, that's not a safe thing to do in [[Vanilla]] [[JavaScript]] without writing some extra code to secure it.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/template-literals-to-build-dom-content?u=76281980&t=31)** But JavaScript does allow us to incorporate variable values with literal content in a single string known as a template literal.
 >
@@ -1653,7 +1631,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), [[React.js|React]] (2), [[HTML]] (2), [[Vanilla]] (1), feature (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[React.js|React]] (2), [[HTML]] (2), [[Vanilla]] (1)
 > **Exercise Files:** template (8)
 > **Code Identifiers:** conditionspara (2), u00b0 (2), textcontent (1), degcint (1), degfint (1)
 > **Env Vars:** jsx (3), html (2)
@@ -1665,8 +1643,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Animation with vanilla JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/animation-with-vanilla-javascript?u=76281980)
+#### [Animation with vanilla JavaScript](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/animation-with-vanilla-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1674,7 +1651,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/animation-with-vanilla-javascript?u=76281980&t=7)** The library includes methods for simply showing and hiding elements, as well as for fading in and out and for sliding up and down as they're revealed or hidden.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/animation-with-vanilla-javascript?u=76281980&t=17)** For simple effects like these, re-creating jQuery's scripted behavior requires just a single line of vanilla JavaScript along with a bit of CSS.
+> **[0:17](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/animation-with-vanilla-javascript?u=76281980&t=17)** For simple effects like these, re-creating jQuery's scripted behavior requires just a single line of [[Vanilla]] [[JavaScript]] along with a bit of CSS.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/animation-with-vanilla-javascript?u=76281980&t=28)** You can use a CSS transition, which is a feature that enables you to animate one or more of an element's CSS properties over a given duration.
 >
@@ -1690,7 +1667,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/animation-with-vanilla-javascript?u=76281980&t=91)** If your animation needs exceed what CSS offers, then vanilla JavaScript still has some additional tools for you.
 >
-> **[1:39](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/animation-with-vanilla-javascript?u=76281980&t=99)** One of the most versatile involves creating scripted content for an HTML canvas element and then changing the appearance of the content using the setInterval, setTimeout, or requestAnimationFrame methods.
+> **[1:39](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/animation-with-vanilla-javascript?u=76281980&t=99)** One of the most versatile involves creating scripted content for an [[HTML]] canvas element and then changing the appearance of the content using the setInterval, setTimeout, or requestAnimationFrame methods.
 >
 > **[1:54](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/animation-with-vanilla-javascript?u=76281980&t=114)** These building blocks allow you to create a frame by frame animation and are a common solution for developers when replacing content that was formerly built using Flash.
 >
@@ -1698,23 +1675,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (6), [[Vanilla]] (3), [[JavaScript]] (3), dom (2), feature (1)
+> **Frameworks & Libraries:** [[Vanilla]] (3), [[JavaScript]] (3), [[HTML]] (1)
 > **Env Vars:** css (6), dom (2), html (1)
 > **Code Identifiers:** jquery (3), setinterval (1), settimeout (1), requestanimationframe (1)
 > **Definitions:** is a  (2), means that (2)
 > **Analogies:** such as (1)
 > **Speakers:** - after (1)
 
-#### Show and hide elements using vanilla JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/show-and-hide-elements-using-vanilla-javascript?u=76281980)
+#### [Show and hide elements using vanilla JavaScript](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/show-and-hide-elements-using-vanilla-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/show-and-hide-elements-using-vanilla-javascript?u=76281980&t=0)** - [Instructor] Our app now uses jQuery in just one final place, to animate the appearance of the results of the Ajax request in the view.
+> **[0:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/show-and-hide-elements-using-vanilla-javascript?u=76281980&t=0)** - [Instructor] Our app now uses jQuery in just one final place, to animate the appearance of the results of the [[AJAX]] request in the view.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/show-and-hide-elements-using-vanilla-javascript?u=76281980&t=10)** Near the end of the app, on line 182, we're using the jQuery slideDown method to animate the appearance of the element with the class value results, which starts off with its display set to none in CSS.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/show-and-hide-elements-using-vanilla-javascript?u=76281980&t=24)** Now this is one of those cases where replacing the library actually takes not just JavaScript, but also some CSS code.
+> **[0:24](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/show-and-hide-elements-using-vanilla-javascript?u=76281980&t=24)** Now this is one of those cases where replacing the library actually takes not just [[JavaScript]], but also some CSS code.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/show-and-hide-elements-using-vanilla-javascript?u=76281980&t=32)** So, switching over to style.css, line 232 here is the start of the style rule for the element that's revealed.
 >
@@ -1756,19 +1732,18 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/show-and-hide-elements-using-vanilla-javascript?u=76281980&t=195)** And now it has a border as well.
 >
-> **[3:17](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/show-and-hide-elements-using-vanilla-javascript?u=76281980&t=197)** So, I've replaced the jQuery to show this element with Vanilla JavaScript code instead.
+> **[3:17](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/show-and-hide-elements-using-vanilla-javascript?u=76281980&t=197)** So, I've replaced the jQuery to show this element with [[Vanilla]] JavaScript code instead.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), css (3), dom (3), [[AJAX]] (1), [[Vanilla]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[AJAX]] (1), [[Vanilla]] (1)
 > **Code Identifiers:** jquery (6), slidedown (1), queryselector (1)
 > **Env Vars:** dom (3), css (2)
 > **File Paths:** style.css (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transition element appearance using CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/transition-element-appearance-using-css?u=76281980)
+#### [Transition element appearance using CSS](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/transition-element-appearance-using-css?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1808,11 +1783,11 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/transition-element-appearance-using-css?u=76281980&t=178)** There it is, it goes from top to bottom, over a third of a second.
 >
-> **[3:02](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/transition-element-appearance-using-css?u=76281980&t=182)** And so this is using just vanilla Javascript to add a class to the element and using the transition property in CSS to make the height change gradual, rather than abrupt.
+> **[3:02](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/transition-element-appearance-using-css?u=76281980&t=182)** And so this is using just [[Vanilla]] [[JavaScript]] to add a class to the element and using the transition property in CSS to make the height change gradual, rather than abrupt.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[Vanilla]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Vanilla]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** jquery (5)
 > **Env Vars:** css (3)
 > **CLI Commands:** make (2)
@@ -1826,16 +1801,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Backward compatibility for vanilla JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/backward-compatibility-for-vanilla-javascript?u=76281980)
+#### [Backward compatibility for vanilla JavaScript](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/backward-compatibility-for-vanilla-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/backward-compatibility-for-vanilla-javascript?u=76281980&t=1)** - In recent years, JavaScript has added a lot of new syntax that enables developers to perform common coding tasks with fewer characters.
+> **[0:01](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/backward-compatibility-for-vanilla-javascript?u=76281980&t=1)** - In recent years, [[JavaScript]] has added a lot of new syntax that enables developers to perform common coding tasks with fewer characters.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/backward-compatibility-for-vanilla-javascript?u=76281980&t=9)** These newer features, which include the spread operator and template literals are generally supported by all modern browsers.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/backward-compatibility-for-vanilla-javascript?u=76281980&t=17)** However, a significant portion of web users are running older browsers and are either using older hardware that prevents them from updating or choose not to update.
+> **[0:17](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/backward-compatibility-for-vanilla-javascript?u=76281980&t=17)** However, a significant portion of web users are running older browsers and are either using older [[Hardware]] that prevents them from updating or choose not to update.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/backward-compatibility-for-vanilla-javascript?u=76281980&t=28)** To ensure that your app is usable by the widest possible set of users, it's a best practice to convert or transpile code written with newer features into an older more verbose version of JavaScript that runs on a much wider set of browsers.
 >
@@ -1863,13 +1837,13 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/backward-compatibility-for-vanilla-javascript?u=76281980&t=149)** Fortunately, transpiling is a pretty straightforward step, so including it in your build process doesn't slow things down.
 >
-> **[2:36](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/backward-compatibility-for-vanilla-javascript?u=76281980&t=156)** We're also at the end of our process of building out the vanilla JavaScript version of our app.
+> **[2:36](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/backward-compatibility-for-vanilla-javascript?u=76281980&t=156)** We're also at the end of our process of building out the [[Vanilla]] JavaScript version of our app.
 >
-> **[2:43](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/backward-compatibility-for-vanilla-javascript?u=76281980&t=163)** We can remove references to the React and jQuery files and verify that everything now works together with the tablecloth gone.
+> **[2:43](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/backward-compatibility-for-vanilla-javascript?u=76281980&t=163)** We can remove references to the [[React.js|React]] and jQuery files and verify that everything now works together with the tablecloth gone.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (8), web (1), [[Hardware]] (1), [[Vanilla]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (8), [[Hardware]] (1), [[Vanilla]] (1), [[React.js|React]] (1)
 > **Env Vars:** es5 (3), es6 (2), es7 (1), es8 (1)
 > **Definitions:** known as (3), is a  (2)
 > **Code Identifiers:** jquery (1)
@@ -1878,16 +1852,15 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Best Practices:** best practice (1)
 
-#### Transpile vanilla JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/transpile-vanilla-javascript?u=76281980)
+#### [Transpile vanilla JavaScript](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/transpile-vanilla-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/transpile-vanilla-javascript?u=76281980&t=0)** - [Instructor] We've finished removing all the jQuery and React code from our app, so we should be able to run it with only our script.js file.
+> **[0:00](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/transpile-vanilla-javascript?u=76281980&t=0)** - [Instructor] We've finished removing all the jQuery and [[React.js|React]] code from our app, so we should be able to run it with only our script.js file.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/transpile-vanilla-javascript?u=76281980&t=8)** So here in our index.html file, I've scrolled to the bottom, and here are our script elements, and we can comment out the first four.
+> **[0:08](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/transpile-vanilla-javascript?u=76281980&t=8)** So here in our index.[[HTML]] file, I've scrolled to the bottom, and here are our script elements, and we can comment out the first four.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/transpile-vanilla-javascript?u=76281980&t=21)** Now, in addition to React and jQuery files, we have Babel here, and Babel is a library that converts JavaScript code that uses newer JavaScript syntax features into older, more widely supported code.
+> **[0:21](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/transpile-vanilla-javascript?u=76281980&t=21)** Now, in addition to React and jQuery files, we have Babel here, and Babel is a library that converts [[JavaScript]] code that uses newer JavaScript syntax features into older, more widely supported code.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/transpile-vanilla-javascript?u=76281980&t=34)** Now, to write our React components using JSX, we had to include Babel as a dependency and specify that our script was of type text/babel rather than text/javascript.
 >
@@ -1897,7 +1870,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/transpile-vanilla-javascript?u=76281980&t=74)** And I get the weather data, and I can click the tabs.
 >
-> **[1:18](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/transpile-vanilla-javascript?u=76281980&t=78)** So everything works just fine, and we are running pure Vanilla JavaScript.
+> **[1:18](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/transpile-vanilla-javascript?u=76281980&t=78)** So everything works just fine, and we are running pure [[Vanilla]] JavaScript.
 >
 > **[1:25](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/transpile-vanilla-javascript?u=76281980&t=85)** Now, a more common scenario for transpiling with Babel is in the process of preparing code for deployment rather than running it in the browser as a dependency.
 >
@@ -1951,7 +1924,7 @@ created: 2026-05-02
 >
 > **[5:26](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/transpile-vanilla-javascript?u=76281980&t=326)** And then returning to the HTML file for this project, I'll change the source of the remaining script element to the script-transpiled.js file, so we can run our code using just the transpiled version and verify that things work as we expect, even with the newer JavaScript syntax no longer in the code.
 >
-> **[5:48](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/transpile-vanilla-javascript?u=76281980&t=348)** And I'm going to make one more change here to add the fetch.js polyfill.
+> **[5:48](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/transpile-vanilla-javascript?u=76281980&t=348)** And I'm going to make one more change here to add the [[Fetch]].js polyfill.
 >
 > **[5:53](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/transpile-vanilla-javascript?u=76281980&t=353)** So that's going to be a new script element with a source of js/fetch.js.
 >
@@ -1997,20 +1970,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/next-steps?u=76281980&t=1)** - Thanks so much for joining me in this course.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/next-steps?u=76281980&t=3)** You now have experience building an app using Vanilla JavaScript.
+> **[0:03](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/next-steps?u=76281980&t=3)** You now have experience building an app using [[Vanilla]] [[JavaScript]].
 >
 > **[0:07](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/next-steps?u=76281980&t=7)** You can get more practice by trying your hand at building your own app from scratch using Vanilla JavaScript, or converting an existing app that uses a library or framework to Vanilla JavaScript.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/next-steps?u=76281980&t=19)** To learn more about different approaches to writing Ajax code, check out the Building Web Applications with Ajax course.
+> **[0:19](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/next-steps?u=76281980&t=19)** To learn more about different approaches to writing [[AJAX]] code, check out the Building Web Applications with Ajax course.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/next-steps?u=76281980&t=26)** To learn more about ES 6 and transpiling JavaScript, check out the Learning ECMAScript 6 course.
+> **[0:26](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/next-steps?u=76281980&t=26)** To learn more about ES 6 and transpiling JavaScript, check out the Learning [[ECMAScript]] 6 course.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-app-building-with-vanilla-javascript/next-steps?u=76281980&t=33)** Feel free to connect with me online.
 >
@@ -2020,7 +1992,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), [[Vanilla]] (3), [[AJAX]] (2), web (1), [[ECMAScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Vanilla]] (3), [[AJAX]] (2), [[ECMAScript]] (1)
 > **Speakers:** - thanks (1)
 
 

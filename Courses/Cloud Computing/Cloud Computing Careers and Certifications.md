@@ -88,8 +88,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to design a cloud career pathway
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/how-to-design-a-cloud-career-pathway?u=76281980)
+#### [How to design a cloud career pathway](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/how-to-design-a-cloud-career-pathway?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -97,13 +96,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/how-to-design-a-cloud-career-pathway?u=76281980&t=6)** I'm Lynn Langit.
 >
-> **[0:07](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/how-to-design-a-cloud-career-pathway?u=76281980&t=7)** In this course, we'll discuss how to define and implement your journey using the most current patterns and tools, including generative AI tools.
+> **[0:07](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/how-to-design-a-cloud-career-pathway?u=76281980&t=7)** In this course, we'll discuss how to define and implement your journey using the most current patterns and tools, including [[Generative AI Tools]].
 >
 > **[0:17](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/how-to-design-a-cloud-career-pathway?u=76281980&t=17)** So let's jump right in and see how you can take the first steps into your cloud career.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), career (2), [[Generative AI Tools]] (1)
+> **Frameworks & Libraries:** [[Generative AI Tools]] (1)
 > **Speakers:** - designing (1)
 
 
@@ -111,8 +110,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why do I need a cloud career guide?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/why-do-i-need-a-cloud-career-guide?u=76281980)
+#### [Why do I need a cloud career guide?](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/why-do-i-need-a-cloud-career-guide?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -128,11 +126,11 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/why-do-i-need-a-cloud-career-guide?u=76281980&t=43)** In addition, I bring a global perspective given my work with clients in the U.S., across Europe, and in other countries such as Australia, Zambia, and Brazil.
 >
-> **[0:55](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/why-do-i-need-a-cloud-career-guide?u=76281980&t=55)** Also, I have built and deployed solutions on all of the major cloud vendor platforms, Amazon Web Services, AWS, Microsoft Azure, and Google Cloud platform, or GCP.
+> **[0:55](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/why-do-i-need-a-cloud-career-guide?u=76281980&t=55)** Also, I have built and deployed solutions on all of the major cloud vendor platforms, [[Amazon Web Services (AWS)|Amazon Web Services]], AWS, [[Microsoft Azure]], and [[Google Cloud Platform (GCP)|Google Cloud platform]], or GCP.
 >
 > **[1:07](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/why-do-i-need-a-cloud-career-guide?u=76281980&t=67)** Additionally, because of my technical education work, I've received partner awards.
 >
-> **[1:13](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/why-do-i-need-a-cloud-career-guide?u=76281980&t=73)** I'm a Microsoft Regional Director, Google Developer Expert for Cloud and AI, and an Amazon Community Data Hero.
+> **[1:13](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/why-do-i-need-a-cloud-career-guide?u=76281980&t=73)** I'm a [[Microsoft]] Regional Director, [[Google]] Developer Expert for Cloud and AI, and an Amazon Community Data Hero.
 >
 > **[1:20](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/why-do-i-need-a-cloud-career-guide?u=76281980&t=80)** These partner communities are cloud leaders and great learning resources.
 >
@@ -140,15 +138,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), career (2), business (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), aws (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Microsoft]] (1), [[Google]] (1)
 > **Env Vars:** aws (1), gcp (1)
 > **CLI Commands:** aws (1)
 > **Analogies:** such as (1)
 > **Speakers:** - did (1)
 > **Non-Speech:** (soft music) (1)
 
-#### What are infrastructure roles?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-infrastructure-roles?u=76281980)
+#### [What are infrastructure roles?](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-infrastructure-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -160,29 +157,28 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-infrastructure-roles?u=76281980&t=15)** Whether you are working on the help desk, answering user questions, or configuring firewalls and subnets, these tasks are needed for cloud solutions too.
 >
-> **[0:25](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-infrastructure-roles?u=76281980&t=25)** IT pro roles get a name change in cloud, DevOps.
+> **[0:25](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-infrastructure-roles?u=76281980&t=25)** IT pro roles get a name change in cloud, [[DevOps]].
 >
 > **[0:30](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-infrastructure-roles?u=76281980&t=30)** DevOps teams work to support application code that developers are deploying out onto the cloud.
 >
-> **[0:37](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-infrastructure-roles?u=76281980&t=37)** This cloud deployment DevOps work adds new types of networking and security tasks because the underlying cloud infrastructure is managed via a shared responsibility model.
+> **[0:37](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-infrastructure-roles?u=76281980&t=37)** This cloud deployment DevOps work adds new types of networking and security tasks because the underlying [[Cloud Infrastructure]] is managed via a shared responsibility model.
 >
-> **[0:49](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-infrastructure-roles?u=76281980&t=49)** This means the cloud vendor manages some aspects such as racking and stacking the hardware while you manage higher level tasks such as deploying virtual machines.
+> **[0:49](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-infrastructure-roles?u=76281980&t=49)** This means the cloud vendor manages some aspects such as racking and stacking the [[Hardware]] while you manage higher level tasks such as deploying [[Virtual Machines]].
 >
 > **[1:01](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-infrastructure-roles?u=76281980&t=61)** I also like to include dedicated security roles with IT pros as an option for cloud work.
 >
-> **[1:08](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-infrastructure-roles?u=76281980&t=68)** Demand for security operations, or SecOps roles, definitely exceed supply of qualified applicants.
+> **[1:08](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-infrastructure-roles?u=76281980&t=68)** Demand for [[Security Operations]], or SecOps roles, definitely exceed supply of qualified applicants.
 >
 > **[1:15](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-infrastructure-roles?u=76281980&t=75)** So in terms of planning for your cloud career, if you have an interest in securing solutions, I would really encourage you to focus on that as a specialty, as part of moving from IT pro to DevOps.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[Security]] (4), [[DevOps]] (4), teams (1), application (1)
+> **Frameworks & Libraries:** [[DevOps]] (4), [[Cloud Infrastructure]] (1), [[Hardware]] (1), [[Virtual Machines]] (1), [[Security Operations]] (1)
 > **Analogies:** such as (2)
 > **Speakers:** - it (1)
 > **Non-Speech:** (gentle music) (1)
 
-#### What are developer roles?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-developer-roles?u=76281980)
+#### [What are developer roles?](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-developer-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -200,11 +196,11 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-developer-roles?u=76281980&t=39)** Several times I've trained and physically realigned teams along feature builds.
 >
-> **[0:44](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-developer-roles?u=76281980&t=44)** This means developers, DevOps, and architects sit together to code, debug, test, deploy, monitor, and update code.
+> **[0:44](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-developer-roles?u=76281980&t=44)** This means developers, [[DevOps]], and architects sit together to code, debug, test, deploy, monitor, and update code.
 >
-> **[0:56](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-developer-roles?u=76281980&t=56)** Cloud services are often available only in the Cloud, that means no local version available.
+> **[0:56](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-developer-roles?u=76281980&t=56)** [[Cloud Services]] are often available only in the Cloud, that means no local version available.
 >
-> **[1:02](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-developer-roles?u=76281980&t=62)** So the entire software development lifecycle, or SDLC, starts in the cloud.
+> **[1:02](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-developer-roles?u=76281980&t=62)** So the entire [[Software Development]] lifecycle, or SDLC, starts in the cloud.
 >
 > **[1:10](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-developer-roles?u=76281980&t=70)** In addition to this team shift, developers can plan on leveraging existing coding skills and learning new languages and patterns that are used in the cloud.
 >
@@ -212,15 +208,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), teams (3), [[DevOps]] (2), [[Security]] (1), feature (1)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[Cloud Services]] (1), [[Software Development]] (1)
 > **Env Vars:** sdlc (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - code (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### What are data science roles?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-data-science-roles?u=76281980)
+#### [What are data science roles?](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-data-science-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -228,30 +223,29 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-data-science-roles?u=76281980&t=4)** - Data-focused roles vary, from data stewards, to analysts, to DBAs.
 >
-> **[0:12](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-data-science-roles?u=76281980&t=12)** Sometimes roles include machine learning and also generative AI.
+> **[0:12](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-data-science-roles?u=76281980&t=12)** Sometimes roles include machine learning and also [[Generative AI]].
 >
 > **[0:17](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-data-science-roles?u=76281980&t=17)** Data scientists often currently do ML or machine learning analysis on their enterprise laptops.
 >
-> **[0:25](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-data-science-roles?u=76281980&t=25)** At other times, DBAs help scale out analysis using neural networks with algorithms like TensorFlow.
+> **[0:25](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-data-science-roles?u=76281980&t=25)** At other times, DBAs help scale out analysis using [[Neural Networks]] with [[Algorithms]] like [[TensorFlow]].
 >
-> **[0:33](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-data-science-roles?u=76281980&t=33)** Generally, Python is used, but there are other languages and tools in use as well.
+> **[0:33](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-data-science-roles?u=76281980&t=33)** Generally, [[Python (Programming Language)|Python]] is used, but there are other languages and tools in use as well.
 >
-> **[0:40](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-data-science-roles?u=76281980&t=40)** In addition to dedicated machine learning, there are still many data teams performing detailed statistical analysis.
+> **[0:40](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-data-science-roles?u=76281980&t=40)** In addition to dedicated machine learning, there are still many data teams performing detailed [[Statistical Analysis]].
 >
 > **[0:47](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-data-science-roles?u=76281980&t=47)** This is often done in languages like R, Matlab, or even SAS.
 >
-> **[0:53](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-data-science-roles?u=76281980&t=53)** As data volumes grow and type of analysis becomes more complex, learning how to scale out to effectively use clusters of cloud VMs is at the core of growing a data science career to cloud.
+> **[0:53](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-data-science-roles?u=76281980&t=53)** As data volumes grow and type of analysis becomes more complex, learning how to scale out to effectively use clusters of cloud VMs is at the core of growing a [[Data Science]] career to cloud.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), cloud (2), [[Generative AI]] (1), [[Neural Networks]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Neural Networks]] (1), [[Algorithms]] (1), [[TensorFlow]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** sas (1)
 > **Speakers:** - data (1)
 > **Non-Speech:** (bright music) (1)
 
-#### What are architect roles?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-architect-roles?u=76281980)
+#### [What are architect roles?](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-architect-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -267,7 +261,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-architect-roles?u=76281980&t=51)** In order to architect any type of systems you have to have a wide variety of technical skills, and all the skills from cloud foundational areas.
 >
-> **[1:01](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-architect-roles?u=76281980&t=61)** Within cloud the areas include app dev, DevOps, SecOps, FinOps, and also often now AIOps.
+> **[1:01](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-architect-roles?u=76281980&t=61)** Within cloud the areas include app dev, [[DevOps]], SecOps, FinOps, and also often now [[AIOps]].
 >
 > **[1:12](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-architect-roles?u=76281980&t=72)** This breadth of knowledge is why cloud architects are highly compensated.
 >
@@ -277,19 +271,19 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-architect-roles?u=76281980&t=88)** I started as a network admin on-prem.
 >
-> **[1:31](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-architect-roles?u=76281980&t=91)** I then learned database programming, SQL, and database administration skills.
+> **[1:31](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-architect-roles?u=76281980&t=91)** I then learned database programming, [[SQL]], and [[Database Administration]] skills.
 >
 > **[1:37](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-architect-roles?u=76281980&t=97)** Next, I taught myself application code, C#, and patterns for distributed systems.
 >
-> **[1:43](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-architect-roles?u=76281980&t=103)** Then I taught myself data warehousing, OLAP.
+> **[1:43](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-architect-roles?u=76281980&t=103)** Then I taught myself [[Data Warehousing]], OLAP.
 >
 > **[1:46](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-architect-roles?u=76281980&t=106)** Next, I learned federated security language, or SAML, patterns for single sign-on, or SSO.
 >
-> **[1:52](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-architect-roles?u=76281980&t=112)** Then I learned distributed data language, Java and Scala, and patterns for Hadoop and Spark.
+> **[1:52](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-architect-roles?u=76281980&t=112)** Then I learned distributed data language, [[Java]] and [[Scala]], and patterns for [[Hadoop]] and Spark.
 >
-> **[1:59](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-architect-roles?u=76281980&t=119)** Next, I taught myself object storage and NoSQL using Redis and MongoDB.
+> **[1:59](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-architect-roles?u=76281980&t=119)** Next, I taught myself object storage and [[NoSQL]] using [[Redis]] and [[MongoDB]].
 >
-> **[2:05](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-architect-roles?u=76281980&t=125)** Then I learned container build with Docker and container orchestration with Kubernetes, and I learned convolutional neural networks with TensorFlow.
+> **[2:05](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-architect-roles?u=76281980&t=125)** Then I learned container build with Docker and container orchestration with [[Kubernetes]], and I learned [[Convolutional Neural Networks (CNN)|convolutional neural networks]] with [[TensorFlow]].
 >
 > **[2:16](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-architect-roles?u=76281980&t=136)** There is no fast path, but slow and steady wins the race.
 >
@@ -299,7 +293,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), next (3), [[Security]] (2), data (2), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (1), [[AIOps]] (1), [[SQL]] (1), [[Database Administration]] (1), [[Data Warehousing]] (1)
 > **Env Vars:** sql (1), olap (1), saml (1), sso (1)
 > **CLI Commands:** docker (1)
 > **Analogies:** such as (1)
@@ -311,8 +305,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are networking and monitoring tasks?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-networking-monitoring-tasks?u=76281980)
+#### [What are networking and monitoring tasks?](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-networking-monitoring-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -320,11 +313,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-networking-monitoring-tasks?u=76281980&t=5)** - In the area of networking, many of the skills you've used on-premise in managing and setting up your networks will directly transfer to cloud-based activities.
 >
-> **[0:15](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-networking-monitoring-tasks?u=76281980&t=15)** Specifically, understanding how to plan and implement network security by configuring VPNs, firewalls, and associated log monitoring are key tasks.
+> **[0:15](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-networking-monitoring-tasks?u=76281980&t=15)** Specifically, understanding how to plan and implement [[Network Security]] by configuring VPNs, firewalls, and associated log monitoring are key tasks.
 >
-> **[0:27](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-networking-monitoring-tasks?u=76281980&t=27)** Implementing these tasks on public cloud services is a highly transferable skillset.
+> **[0:27](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-networking-monitoring-tasks?u=76281980&t=27)** Implementing these tasks on public [[Cloud Services]] is a highly transferable skillset.
 >
-> **[0:33](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-networking-monitoring-tasks?u=76281980&t=33)** Other transferable skills include directory based, user, and group authentication and access management, cloud-based subnetting, which involves setting up IP addressing appropriately for various network configurations, particularly in enterprise settings.
+> **[0:33](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-networking-monitoring-tasks?u=76281980&t=33)** Other transferable skills include directory based, user, and group authentication and access management, cloud-based subnetting, which involves setting up [[IP Addressing]] appropriately for various network configurations, particularly in enterprise settings.
 >
 > **[0:50](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-networking-monitoring-tasks?u=76281980&t=50)** A newer area is cloud-based IPv6 address allocation in addition to IPv4.
 >
@@ -332,13 +325,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Network Security]] (1), management (1), [[IP Addressing]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (1), [[Cloud Services]] (1), [[IP Addressing]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 > **Non-Speech:** (gentle music) (1)
 
-#### What are security and observability tasks?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-security-observability-tasks?u=76281980)
+#### [What are security and observability tasks?](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-security-observability-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -362,21 +354,20 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-security-observability-tasks?u=76281980&t=72)** For example, with my European customers, for the GDPR Data Protection Act, there are more and more requirements required for monitoring and logging.
 >
-> **[1:21](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-security-observability-tasks?u=76281980&t=81)** Also, for my genomics clients, HIPPA, the Health Information Privacy Protection Act, encloses similar requirements.
+> **[1:21](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-security-observability-tasks?u=76281980&t=81)** Also, for my genomics clients, HIPPA, the Health Information [[Privacy Protection]] Act, encloses similar requirements.
 >
 > **[1:30](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-security-observability-tasks?u=76281980&t=90)** So as you can tell, security roles are satisfying and in demand.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Security]] (3), data (2), [[Privacy Protection]] (1)
+> **Frameworks & Libraries:** [[Privacy Protection]] (1)
 > **Env Vars:** gdpr (1), hippa (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - did (1)
 > **Non-Speech:** (gentle bright music) (1)
 
-#### What are scripting and automation tasks?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-scripting-automation-tasks?u=76281980)
+#### [What are scripting and automation tasks?](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-scripting-automation-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -402,13 +393,13 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-scripting-automation-tasks?u=76281980&t=66)** Use a professional but lightweight IDE, such as VS Code.
 >
-> **[1:11](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-scripting-automation-tasks?u=76281980&t=71)** Use IDE add-ins for coding languages such as Python and infrastructure code, such as Terraform, and use source control.
+> **[1:11](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-scripting-automation-tasks?u=76281980&t=71)** Use IDE add-ins for coding languages such as [[Python (Programming Language)|Python]] and infrastructure code, such as [[Terraform]], and use source control.
 >
-> **[1:19](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-scripting-automation-tasks?u=76281980&t=79)** Later in this course, I'll show how I'm using gen AI tools such as GitHub Copilot and Claude AI to speed up my work with cloud.
+> **[1:19](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-scripting-automation-tasks?u=76281980&t=79)** Later in this course, I'll show how I'm using gen AI tools such as [[GitHub Copilot]] and Claude AI to speed up my work with cloud.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), [[Automation]] (2), application (2), web (2), ai (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Terraform]] (1), [[GitHub Copilot]] (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** aws (1), python (1), terraform (1)
 > **Env Vars:** ide (2), aws (1)
@@ -422,8 +413,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are application development tasks?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-application-development-tasks?u=76281980)
+#### [What are application development tasks?](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-application-development-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -431,11 +421,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-application-development-tasks?u=76281980&t=5)** - Application developers write all kinds of code for cloud applications.
 >
-> **[0:10](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-application-development-tasks?u=76281980&t=10)** While core application development skills generally map one-to-one, there are other types of coding tasks for cloud.
+> **[0:10](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-application-development-tasks?u=76281980&t=10)** While core [[Application Development]] skills generally map one-to-one, there are other types of coding tasks for cloud.
 >
-> **[0:17](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-application-development-tasks?u=76281980&t=17)** With the rise of generative AI, app devs are often involved in building applications, which include not only custom machine learning, but also integration with one or more large language models or LLMs.
+> **[0:17](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-application-development-tasks?u=76281980&t=17)** With the rise of [[Generative AI]], app devs are often involved in building applications, which include not only custom machine learning, but also integration with one or more [[Large Language Models (LLM)|large language models]] or LLMs.
 >
-> **[0:31](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-application-development-tasks?u=76281980&t=31)** Also, writing cloud infrastructure scripts and API wrappers, particularly for hybrid cloud scenarios, are becoming increasingly common cloud developer tasks.
+> **[0:31](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-application-development-tasks?u=76281980&t=31)** Also, writing [[Cloud Infrastructure]] scripts and API wrappers, particularly for [[Hybrid Cloud]] scenarios, are becoming increasingly common cloud developer tasks.
 >
 > **[0:43](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-application-development-tasks?u=76281980&t=43)** The key is to expand your thinking about what kinds of code you may need to write for the cloud.
 >
@@ -443,14 +433,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), application (2), [[Application Development]] (1), [[Generative AI]] (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Application Development]] (1), [[Generative AI]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Cloud Infrastructure]] (1), [[Hybrid Cloud]] (1)
 > **Env Vars:** api (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - application (1)
 > **Non-Speech:** (pensive music) (1)
 
-#### What are unstructured and structured data tasks?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-unstructured-structured-data-tasks?u=76281980)
+#### [What are unstructured and structured data tasks?](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-unstructured-structured-data-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -460,7 +449,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-unstructured-structured-data-tasks?u=76281980&t=9)** Common data roles include these: working as a subject matter expert, or SME; a data steward; a database administrator.
 >
-> **[0:17](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-unstructured-structured-data-tasks?u=76281980&t=17)** Cloud scalability is a game-changer for huge and complex data analysis workloads.
+> **[0:17](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-unstructured-structured-data-tasks?u=76281980&t=17)** Cloud [[Scalability]] is a game-changer for huge and complex data analysis workloads.
 >
 > **[0:24](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-unstructured-structured-data-tasks?u=76281980&t=24)** Learn container skills and security vulnerability remediation so that you can efficiently scale your jobs out onto the cloud.
 >
@@ -468,26 +457,25 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-unstructured-structured-data-tasks?u=76281980&t=41)** Gain expertise in object or bucket.
 >
-> **[0:45](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-unstructured-structured-data-tasks?u=76281980&t=45)** And NoSQL cloud services for best TCO, or total cost of ownership.
+> **[0:45](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-unstructured-structured-data-tasks?u=76281980&t=45)** And [[NoSQL]] [[Cloud Services]] for best TCO, or total cost of ownership.
 >
 > **[0:50](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-unstructured-structured-data-tasks?u=76281980&t=50)** Explore serverless and GenAI services and tool-to-speed, time-to-value.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), cloud (3), database (2), [[Scalability]] (1), game (1)
+> **Frameworks & Libraries:** [[Scalability]] (1), [[NoSQL]] (1), [[Cloud Services]] (1)
 > **Env Vars:** sme (1), tco (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - on (1)
 > **Non-Speech:** (mellow music) (1)
 
-#### What are programming languages and patterns skills?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-programming-languages-patterns-skills?u=76281980)
+#### [What are programming languages and patterns skills?](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-programming-languages-patterns-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-programming-languages-patterns-skills?u=76281980&t=0)** (gentle music)
 >
-> **[0:05](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-programming-languages-patterns-skills?u=76281980&t=5)** - Two years ago, I would've said Python and Terraform.
+> **[0:05](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-programming-languages-patterns-skills?u=76281980&t=5)** - Two years ago, I would've said [[Python (Programming Language)|Python]] and [[Terraform]].
 >
 > **[0:09](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-programming-languages-patterns-skills?u=76281980&t=9)** While these continue to be key cloud languages, my work has completely changed due to the explosion of Gen AI tools.
 >
@@ -507,11 +495,11 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-programming-languages-patterns-skills?u=76281980&t=62)** Here are some examples from my recent cloud work.
 >
-> **[1:06](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-programming-languages-patterns-skills?u=76281980&t=66)** One, use Google Gemini to generate docker files for scaling genomic open-source tool-based workflows.
+> **[1:06](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-programming-languages-patterns-skills?u=76281980&t=66)** One, use [[Google Gemini]] to generate docker files for scaling genomic open-source tool-based workflows.
 >
-> **[1:13](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-programming-languages-patterns-skills?u=76281980&t=73)** Two, use ChatGPT custom GPTs to generate flow charts and mind maps to capture business requirements and include in communication.
+> **[1:13](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-programming-languages-patterns-skills?u=76281980&t=73)** Two, use [[ChatGPT]] [[Custom GPTs]] to generate flow charts and mind maps to capture business requirements and include in communication.
 >
-> **[1:23](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-programming-languages-patterns-skills?u=76281980&t=83)** Three, use Claude IO to create a react-based interactive quantum qubit simulator to work out how an example code block runs step-by-step.
+> **[1:23](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-programming-languages-patterns-skills?u=76281980&t=83)** Three, use Claude IO to create a [[React.js|react]]-based interactive quantum qubit simulator to work out how an example code block runs step-by-step.
 >
 > **[1:34](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-programming-languages-patterns-skills?u=76281980&t=94)** And four, use AWSQ to quickly locate a subnet misconfiguration in a production application.
 >
@@ -519,7 +507,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), cloud (5), [[Programming]] (2), [[Python (Programming Language)|Python]] (1), [[Terraform]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Terraform]] (1), [[Google Gemini]] (1), [[ChatGPT]] (1), [[Custom GPTs]] (1)
 > **CLI Commands:** python (1), terraform (1), docker (1)
 > **Env Vars:** awsq (1)
 > **Best Practices:** the key is (1)
@@ -531,8 +519,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are AWS certifications?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-aws-certifications?u=76281980)
+#### [What are AWS certifications?](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-aws-certifications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -580,7 +567,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-aws-certifications?u=76281980&t=124)** I'd recommend that you would start with a specialty that relates to the job knowledge that you have, unless of course you already are a cloud architect, which I'm assuming most people watching this are not.
 >
-> **[2:14](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-aws-certifications?u=76281980&t=134)** So that would be, you know, data, dev operations, DevOps, security.
+> **[2:14](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-aws-certifications?u=76281980&t=134)** So that would be, you know, data, dev operations, [[DevOps]], security.
 >
 > **[2:24](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-aws-certifications?u=76281980&t=144)** Amazon has a particularly strong set of security certifications that are very, very in demand.
 >
@@ -590,7 +577,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-aws-certifications?u=76281980&t=156)** And notice we have a new set here.
 >
-> **[2:38](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-aws-certifications?u=76281980&t=158)** We have AI and ML, starting with prompt engineering for generative AI.
+> **[2:38](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-aws-certifications?u=76281980&t=158)** We have AI and ML, starting with [[Prompt Engineering]] for [[Generative AI]].
 >
 > **[2:44](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-aws-certifications?u=76281980&t=164)** We also have machine learning engineer, machine learning ops engineer, and data scientist.
 >
@@ -612,7 +599,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-aws-certifications?u=76281980&t=213)** That's going to tell you in detail what skills are being tested.
 >
-> **[3:38](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-aws-certifications?u=76281980&t=218)** Now before you go and take a class or maybe while you're taking a class, in addition to taking the associated suggested courses, whether Amazon or something like LinkedIn Learning or another platform, you really need to set up a trial account and actually use the services.
+> **[3:38](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-aws-certifications?u=76281980&t=218)** Now before you go and take a class or maybe while you're taking a class, in addition to taking the associated suggested courses, whether Amazon or something like [[LinkedIn]] Learning or another platform, you really need to set up a trial account and actually use the services.
 >
 > **[3:56](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-aws-certifications?u=76281980&t=236)** There's no better way to learn than actually learning those skills.
 >
@@ -656,7 +643,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), ai (5), [[Security]] (3), data (2), [[Prompt Engineering]] (2)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (2), [[DevOps]] (1), [[Generative AI]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (5), in other words (1)
 > **UI Navigation:** scroll down (2), go to (1), click on (1)
 > **CLI Commands:** aws (1), make (1), find (1)
@@ -665,14 +652,13 @@ created: 2026-05-02
 > **Env Vars:** aws (1)
 > **Prerequisites:** set up (1)
 
-#### What are Azure certifications?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-azure-certifications?u=76281980)
+#### [What are Azure certifications?](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-azure-certifications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-azure-certifications?u=76281980&t=0)** - [Instructor] Now, because Microsoft has both on-premise software and business software such as Dynamics, and Office, and things like that, their exam information aggregates both on-premise and Azure Cloud.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-azure-certifications?u=76281980&t=0)** - [Instructor] Now, because [[Microsoft]] has both on-premise software and business software such as Dynamics, and [[Microsoft Office|Office]], and things like that, their exam information aggregates both on-premise and [[Microsoft Azure|Azure]] Cloud.
 >
-> **[0:16](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-azure-certifications?u=76281980&t=16)** So you have to kind of sort through that to find the Microsoft Azure Cloud exam path that will work for you.
+> **[0:16](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-azure-certifications?u=76281980&t=16)** So you have to kind of sort through that to find the [[Microsoft Azure]] Cloud exam path that will work for you.
 >
 > **[0:23](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-azure-certifications?u=76281980&t=23)** I like to use this poster, and you can see across the top you have infrastructure, data and AI, digital app and innovation, modern work, business applications and security.
 >
@@ -720,7 +706,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), cloud (5), data (4), ai (4), [[Microsoft]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Microsoft]] (3), [[Microsoft Office|Office]] (1), [[Microsoft Azure]] (1)
 > **CLI Commands:** make (2), find (1), aws (1)
 > **Definitions:** is a  (3)
 > **UI Navigation:** click on (1), go to (1)
@@ -729,12 +715,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Prerequisites:** setup (1)
 
-#### What are GCP certifications?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-gcp-certifications?u=76281980)
+#### [What are GCP certifications?](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-gcp-certifications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-gcp-certifications?u=76281980&t=0)** - [Instructor] Google Cloud has three levels of certifications.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-gcp-certifications?u=76281980&t=0)** - [Instructor] [[Google Cloud Platform (GCP)|Google Cloud]] has three levels of certifications.
 >
 > **[0:03](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-gcp-certifications?u=76281980&t=3)** They have Foundational, Associate and Professional.
 >
@@ -748,7 +733,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-gcp-certifications?u=76281980&t=33)** The exams have a a certain flavor of the way they're written.
 >
-> **[0:39](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-gcp-certifications?u=76281980&t=39)** And really, with the foundational certification for Google, this helps you to understand what the exam experience will be like, what the questions are like, and what the environment of exams in Google Cloud is like.
+> **[0:39](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-gcp-certifications?u=76281980&t=39)** And really, with the foundational certification for [[Google]], this helps you to understand what the exam experience will be like, what the questions are like, and what the environment of exams in Google Cloud is like.
 >
 > **[0:53](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-gcp-certifications?u=76281980&t=53)** So I highly recommend that you start with the Cloud Digital Leader.
 >
@@ -780,7 +765,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-gcp-certifications?u=76281980&t=131)** And Google does a good job, as really all the major cloud vendors do, very specifically telling you the topics that they're going to test you on.
 >
-> **[2:21](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-gcp-certifications?u=76281980&t=141)** So as mentioned in previous videos, the way I would prep for this is I would set up a Excel spreadsheet.
+> **[2:21](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-gcp-certifications?u=76281980&t=141)** So as mentioned in previous videos, the way I would prep for this is I would set up a [[Microsoft Excel|Excel]] spreadsheet.
 >
 > **[2:27](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-gcp-certifications?u=76281980&t=147)** I would put all these tasks in here and I would do them (instructor laughing) to make sure I know how to do them.
 >
@@ -806,7 +791,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (14), [[Google Cloud Platform (GCP)|Google cloud]] (9), [[Google]] (6), data (6), career (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (9), [[Google]] (6), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Documentation:** the documentation (2)
 > **UI Navigation:** go to (1)
@@ -815,8 +800,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are NVIDIA or Databricks certifications?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-nvidia-or-databricks-certifications?u=76281980)
+#### [What are NVIDIA or Databricks certifications?](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-nvidia-or-databricks-certifications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -828,7 +812,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-nvidia-or-databricks-certifications?u=76281980&t=15)** And you can see that, in addition to certification, they have a new capability called an accreditation.
 >
-> **[0:22](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-nvidia-or-databricks-certifications?u=76281980&t=22)** And let's just pop into the Generative AI Fundamentals.
+> **[0:22](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-nvidia-or-databricks-certifications?u=76281980&t=22)** And let's just pop into the [[Generative AI]] Fundamentals.
 >
 > **[0:25](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-nvidia-or-databricks-certifications?u=76281980&t=25)** This is really lightweight, and it's just designed to prove, basically, that you watched four short videos, which you might say, "Well, you know, is this really even worthwhile?"
 >
@@ -862,7 +846,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-nvidia-or-databricks-certifications?u=76281980&t=127)** Another certification that's hot is NVIDIA.
 >
-> **[2:10](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-nvidia-or-databricks-certifications?u=76281980&t=130)** NVIDIA, of course, is, you know, so fundamental in the growth of AI because of the hardware that they make.
+> **[2:10](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-nvidia-or-databricks-certifications?u=76281980&t=130)** NVIDIA, of course, is, you know, so fundamental in the growth of AI because of the [[Hardware]] that they make.
 >
 > **[2:19](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/what-are-nvidia-or-databricks-certifications?u=76281980&t=139)** So they have added a number of certifications that are becoming increasingly valued in this world of GenAI and advanced machine learning.
 >
@@ -872,7 +856,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (5), cloud (2), ai (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Hardware]] (1)
 > **Analogies:** for example (2), think of it like (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** nvidia (2)
@@ -884,20 +868,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Which skills for network admin to cloud infrastructure?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-network-admin-to-cloud-infrastructure?u=76281980)
+#### [Which skills for network admin to cloud infrastructure?](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-network-admin-to-cloud-infrastructure?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-network-admin-to-cloud-infrastructure?u=76281980&t=0)** (calm music)
 >
-> **[0:05](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-network-admin-to-cloud-infrastructure?u=76281980&t=5)** - If you're currently working as a network administrator, the most straightforward path into the cloud would be a cloud DevOps professional.
+> **[0:05](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-network-admin-to-cloud-infrastructure?u=76281980&t=5)** - If you're currently working as a network administrator, the most straightforward path into the cloud would be a cloud [[DevOps]] professional.
 >
 > **[0:13](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-network-admin-to-cloud-infrastructure?u=76281980&t=13)** You'll be doing a lot of the same day in day out network configuration, service configuration, monitoring and management that you've done on premise.
 >
 > **[0:23](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-network-admin-to-cloud-infrastructure?u=76281980&t=23)** This role is also called an SRE or site reliability engineer.
 >
-> **[0:28](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-network-admin-to-cloud-infrastructure?u=76281980&t=28)** Also, in many enterprise companies, there is a set of tasks around cloud security, commonly called SecOps.
+> **[0:28](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-network-admin-to-cloud-infrastructure?u=76281980&t=28)** Also, in many enterprise companies, there is a set of tasks around [[Cloud Security]], commonly called SecOps.
 >
 > **[0:36](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-network-admin-to-cloud-infrastructure?u=76281980&t=36)** Cloud SecOps engineers implement security by understanding the shared cloud security responsibility model.
 >
@@ -911,15 +894,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), [[Security]] (6), [[DevOps]] (2), management (1), aws (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (3), [[DevOps]] (2)
 > **Env Vars:** sre (1), aws (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** aws (1)
 > **Speakers:** - if (1)
 > **Non-Speech:** (calm music) (1)
 
-#### Which skills for developer to cloud developer?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-developer-to-cloud-developer?u=76281980)
+#### [Which skills for developer to cloud developer?](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-developer-to-cloud-developer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -931,11 +913,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-developer-to-cloud-developer?u=76281980&t=14)** While sometimes app devs will already be on the cloud, there are also a number of other types of coding on the cloud.
 >
-> **[0:23](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-developer-to-cloud-developer?u=76281980&t=23)** I've seen devs move to DevOps in enterprises where best practices like cloud infrastructure scripts as code has been implemented.
+> **[0:23](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-developer-to-cloud-developer?u=76281980&t=23)** I've seen devs move to [[DevOps]] in enterprises where best practices like [[Cloud Infrastructure]] scripts as code has been implemented.
 >
-> **[0:33](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-developer-to-cloud-developer?u=76281980&t=33)** Some customers have cloud devs write wrappers around cloud services for hybrid cloud flexibility.
+> **[0:33](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-developer-to-cloud-developer?u=76281980&t=33)** Some customers have cloud devs write wrappers around [[Cloud Services]] for [[Hybrid Cloud]] flexibility.
 >
-> **[0:40](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-developer-to-cloud-developer?u=76281980&t=40)** With the rise of gen AI or LLM based application development, I've seen other devs partner with data scientists to build custom apps such as chatbots using a combination of app and DevOps code, along with custom machine learning models or augmented gen AI apps.
+> **[0:40](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-developer-to-cloud-developer?u=76281980&t=40)** With the rise of gen AI or LLM based [[Application Development]], I've seen other devs partner with data scientists to build custom apps such as chatbots using a combination of app and DevOps code, along with custom machine learning models or augmented gen AI apps.
 >
 > **[1:00](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-developer-to-cloud-developer?u=76281980&t=60)** The key is to think more broadly than traditional business app dev.
 >
@@ -945,7 +927,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), ai (3), [[DevOps]] (2), next (1), [[Cloud Infrastructure]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[Cloud Infrastructure]] (1), [[Cloud Services]] (1), [[Hybrid Cloud]] (1), [[Application Development]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** llm (1)
 > **Analogies:** such as (1)
@@ -953,8 +935,7 @@ created: 2026-05-02
 > **Speakers:** - so (1)
 > **Non-Speech:** (soft music) (1)
 
-#### Which skills for data scientist to cloud data scientist?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-data-scientist-to-cloud-data-scientist?u=76281980)
+#### [Which skills for data scientist to cloud data scientist?](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-data-scientist-to-cloud-data-scientist?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -966,7 +947,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-data-scientist-to-cloud-data-scientist?u=76281980&t=21)** These files can no longer be processed in a single machine, even if it is a local server.
 >
-> **[0:27](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-data-scientist-to-cloud-data-scientist?u=76281980&t=27)** While cloud solutions require new ways of working, such as storing data in buckets rather than on local file systems or in relational databases, familiar tools such as our studio can be used on the cloud, and those tools can be scaled out to as many CPUs or GPUs that are needed to analyze these genomic scale data sets.
+> **[0:27](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-data-scientist-to-cloud-data-scientist?u=76281980&t=27)** While cloud solutions require new ways of working, such as storing data in buckets rather than on local file systems or in [[Relational Databases]], familiar tools such as our studio can be used on the cloud, and those tools can be scaled out to as many CPUs or GPUs that are needed to analyze these genomic scale data sets.
 >
 > **[0:51](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-data-scientist-to-cloud-data-scientist?u=76281980&t=51)** Key skills are learning to update data analysis tasks and pipelines so they can be split across multiple compute nodes.
 >
@@ -974,14 +955,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), data (4), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - often (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Which skills for architect to cloud architect?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-architect-to-cloud-architect?u=76281980)
+#### [Which skills for architect to cloud architect?](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-architect-to-cloud-architect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -997,11 +977,11 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-architect-to-cloud-architect?u=76281980&t=35)** Architecture, whether it's physical buildings or cloud architecture is all about the optimal application of known patterns.
 >
-> **[0:44](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-architect-to-cloud-architect?u=76281980&t=44)** In order to be able to envision the best fit pattern for a set of business requirements, it's essential for you to have both a broad and deep level of experience with as many cloud services that you possibly have time to understand.
+> **[0:44](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-architect-to-cloud-architect?u=76281980&t=44)** In order to be able to envision the best fit pattern for a set of business requirements, it's essential for you to have both a broad and deep level of experience with as many [[Cloud Services]] that you possibly have time to understand.
 >
 > **[0:59](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-architect-to-cloud-architect?u=76281980&t=59)** To specifically answer your first question, plan your path to become a cloud architect as a journey rather than a destination.
 >
-> **[1:08](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-architect-to-cloud-architect?u=76281980&t=68)** Select intermediate roles that interest you, such as dev, DevOps, or whatever you enjoy doing.
+> **[1:08](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-architect-to-cloud-architect?u=76281980&t=68)** Select intermediate roles that interest you, such as dev, [[DevOps]], or whatever you enjoy doing.
 >
 > **[1:14](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/which-skills-for-architect-to-cloud-architect?u=76281980&t=74)** It is a very worthwhile journey, but you have to budget your time appropriately.
 >
@@ -1011,7 +991,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), career (2), application (1), business (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (1), [[DevOps]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
@@ -1022,8 +1002,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use GenAI for cloud developers
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-developers?u=76281980)
+#### [Use GenAI for cloud developers](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-developers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1033,9 +1012,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-developers?u=76281980&t=7)** Commonly, I get thrown a lot of different code bases in languages that I maybe I'm not familiar with.
 >
-> **[0:13](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-developers?u=76281980&t=13)** So in addition to using the expected tools, like ChatGPT and Gemini, I use tools that allow for an interactive run so that I can get more of a feel of the code.
+> **[0:13](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-developers?u=76281980&t=13)** So in addition to using the expected tools, like [[ChatGPT]] and [[Gemini]], I use tools that allow for an interactive run so that I can get more of a feel of the code.
 >
-> **[0:25](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-developers?u=76281980&t=25)** So an example from my work recently was I had a code base in the Rust language, and I really don't do much work in Rust.
+> **[0:25](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-developers?u=76281980&t=25)** So an example from my work recently was I had a code base in the [[Rust (Programming Language)|Rust]] language, and I really don't do much work in Rust.
 >
 > **[0:32](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-developers?u=76281980&t=32)** So I headed over to Replit, and I wrote something like this, "Create a simple calculator app in Rust."
 >
@@ -1077,7 +1056,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-developers?u=76281980&t=177)** So I made a prompt that was similar to this.
 >
-> **[3:00](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-developers?u=76281980&t=180)** "Create an interactive quantum computing, In this case, nine qubit program simulator using React.
+> **[3:00](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-developers?u=76281980&t=180)** "Create an interactive [[Quantum Computing]], In this case, nine qubit program simulator using [[React.js|React]].
 >
 > **[3:05](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-developers?u=76281980&t=185)** The nine qubits should become entangled in groups of three and then should be measurable by clicking on the button representing a qubit, one by one."
 >
@@ -1085,7 +1064,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-developers?u=76281980&t=197)** So I'm just going to paste that code in here.
 >
-> **[3:19](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-developers?u=76281980&t=199)** "Add code for a UI button, which allows the simulation to be rerun."
+> **[3:19](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-developers?u=76281980&t=199)** "Add code for a UI button, which allows the [[Simulation]] to be rerun."
 >
 > **[3:23](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-developers?u=76281980&t=203)** Now, when I was working with Claude on this, it took a couple of attempts for Claude to write the code, and here it looks like I hit a capacity constraint.
 >
@@ -1097,7 +1076,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-developers?u=76281980&t=239)** So, you know, I've run this previously, so you can see, as I said, it took Claude a couple attempts to write the correct code, and then I asked it to explain the code to help me as an instructor.
 >
-> **[4:12](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-developers?u=76281980&t=252)** And then it was able to create an actual interactive mini program basically, which I find to be very, very useful because when I'm working with code rather than just sort of a plain vanilla GenAI tool, I'd rather have an interface where I can actually run the code.
+> **[4:12](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-developers?u=76281980&t=252)** And then it was able to create an actual interactive mini program basically, which I find to be very, very useful because when I'm working with code rather than just sort of a plain [[Vanilla]] GenAI tool, I'd rather have an interface where I can actually run the code.
 >
 > **[4:32](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-developers?u=76281980&t=272)** Let me try one more time and see if it will overcome those capacity limits.
 >
@@ -1123,19 +1102,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (6), cloud (5), prompt (3), web (3), feature (2)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (6), [[ChatGPT]] (1), [[Gemini]] (1), [[Quantum Computing]] (1), [[React.js|React]] (1)
 > **CLI Commands:** find (4)
 > **Analogies:** similar to (1), think of it like (1), for example (1)
 > **Env Vars:** iei (1), poc (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use GenAI for cloud DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-devops?u=76281980)
+#### [Use GenAI for cloud DevOps](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-devops?u=76281980&t=0)** - [Instructor] For Cloud DevOps, I'm going to just show something I did recently using ChatGPT.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-devops?u=76281980&t=0)** - [Instructor] For Cloud [[DevOps]], I'm going to just show something I did recently using [[ChatGPT]].
 >
 > **[0:05](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-devops?u=76281980&t=5)** Although there are specialty tools, and we're going to certainly include those in this section of the course, you really want to go with the classics as well.
 >
@@ -1147,13 +1125,13 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-devops?u=76281980&t=25)** Generate a Dockerfile, which can be hosted on an AWS VM.
 >
-> **[0:29](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-devops?u=76281980&t=29)** Notice, I didn't say EC2.
+> **[0:29](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-devops?u=76281980&t=29)** Notice, I didn't say [[Amazon EC2|EC2]].
 >
 > **[0:30](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-devops?u=76281980&t=30)** That includes the configuration needed for one GPU.
 >
 > **[0:34](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-devops?u=76281980&t=34)** Then generate the AWS deployment script.
 >
-> **[0:37](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-devops?u=76281980&t=37)** Notice, I broke my tasks into two parts and this is a key pattern in working with any kind of generative AI tool.
+> **[0:37](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-devops?u=76281980&t=37)** Notice, I broke my tasks into two parts and this is a key pattern in working with any kind of [[Generative AI]] tool.
 >
 > **[0:46](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-devops?u=76281980&t=46)** Let's see how ChatGPT does with this.
 >
@@ -1183,7 +1161,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-devops?u=76281980&t=144)** So what I would then do is I would go over and open Amazon Q, and I would say list five best practices for deploying, I'll say EC2 instances with GPUs.
 >
-> **[2:43](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-devops?u=76281980&t=163)** And then I can compare the output of what the big tool, if you will, ChatGPT generated versus I kind of see this as a alternative to using like a Google search or reading through all of Amazon's documentation.
+> **[2:43](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-devops?u=76281980&t=163)** And then I can compare the output of what the big tool, if you will, ChatGPT generated versus I kind of see this as a alternative to using like a [[Google]] search or reading through all of Amazon's documentation.
 >
 > **[3:01](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-devops?u=76281980&t=181)** It's just a quicker way to make sure that the generated output is following best practice for the particular vendor.
 >
@@ -1191,7 +1169,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-devops?u=76281980&t=200)** It's kind of a faster Google search in a way in some cases, but I'd like to use the two together in cloud DevOps tasks.
 >
-> **[3:29](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-devops?u=76281980&t=209)** You know, a big, like a ChatGPT or even a Gemini.
+> **[3:29](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-devops?u=76281980&t=209)** You know, a big, like a ChatGPT or even a [[Gemini]].
 >
 > **[3:35](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-devops?u=76281980&t=215)** And then I like to use the specific within the cloud console.
 >
@@ -1199,7 +1177,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (7), cloud (5), [[ChatGPT]] (4), aws (3), [[Amazon EC2|Ec2]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (7), [[ChatGPT]] (4), [[Amazon EC2|Ec2]] (2), [[Google]] (2), [[Generative AI]] (1)
 > **CLI Commands:** aws (3), make (2), find (1)
 > **Env Vars:** aws (3), ec2 (2), gpu (1)
 > **UI Navigation:** scroll down (1)
@@ -1208,22 +1186,21 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use GenAI for cloud SecOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-secops?u=76281980)
+#### [Use GenAI for cloud SecOps](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-secops?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-secops?u=76281980&t=0)** - [Instructor] For Cloud SecOps and also for FinOps, but I'm going to talk about SecOps in this example, again, I'm going to take the same approach as you saw in the previous movie.
 >
-> **[0:09](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-secops?u=76281980&t=9)** For general concepts, I like to use one of the all purpose tools, and in this case, I'm going to talk about Google Cloud, so I like to use Gemini for that because that comes from Google.
+> **[0:09](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-secops?u=76281980&t=9)** For general concepts, I like to use one of the all purpose tools, and in this case, I'm going to talk about [[Google Cloud Platform (GCP)|Google Cloud]], so I like to use [[Gemini]] for that because that comes from [[Google]].
 >
-> **[0:20](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-secops?u=76281980&t=20)** So a common use case that I have is to help educate my customers about the importance of SecOps and to help them design a set of practices that can be implemented by their DevOps teams or dedicated security teams if they have them.
+> **[0:20](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-secops?u=76281980&t=20)** So a common use case that I have is to help educate my customers about the importance of SecOps and to help them design a set of practices that can be implemented by their [[DevOps]] teams or dedicated security teams if they have them.
 >
 > **[0:36](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-secops?u=76281980&t=36)** So I started with the high level sort of view of the landscape that I would use in preparing a presentation to stakeholders and business owners.
 >
 > **[0:50](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-secops?u=76281980&t=50)** So in Gemini Advanced, I wrote, "Act as an expert in Cloud SecOps.
 >
-> **[0:53](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-secops?u=76281980&t=53)** Generate a table with the five most common cloud security vulnerabilities, which are due to human error or misconfiguration and the estimated financial impact to enterprises over the past three years."
+> **[0:53](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-secops?u=76281980&t=53)** Generate a table with the five most common [[Cloud Security]] vulnerabilities, which are due to human error or misconfiguration and the estimated financial impact to enterprises over the past three years."
 >
 > **[1:05](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-secops?u=76281980&t=65)** Anyway, so well, isn't this just a Google search?
 >
@@ -1249,7 +1226,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-secops?u=76281980&t=139)** But when I'm looking for publicly available information, this is an approach that I take.
 >
-> **[2:27](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-secops?u=76281980&t=147)** So once you have this high level, then you might be looking at specific projects, and so I have a demo project here that has a, like, really bad thing, basically, which is a cloud storage bucket that has been set up to be public.
+> **[2:27](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-secops?u=76281980&t=147)** So once you have this high level, then you might be looking at specific projects, and so I have a demo project here that has a, like, really bad thing, basically, which is a [[Cloud Storage]] bucket that has been set up to be public.
 >
 > **[2:45](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-secops?u=76281980&t=165)** And you have to go through a number of steps to do that.
 >
@@ -1285,11 +1262,11 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-secops?u=76281980&t=281)** So I find this workflow just to be faster, given the tremendous amount of information guidance there is out there.
 >
-> **[4:48](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-secops?u=76281980&t=288)** And so I often will use this in SecOps, FinOps, and DevOps roles, where I use the sort of big gun out here, and then I come into the specific cloud vendor, and Azure has one of these as well, whether it's Amazon Q or GCP Gemini, and I use the version within that cloud so that I can more quickly get to best practices and the tasks that I'm going to do.
+> **[4:48](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-secops?u=76281980&t=288)** And so I often will use this in SecOps, FinOps, and DevOps roles, where I use the sort of big gun out here, and then I come into the specific cloud vendor, and [[Microsoft Azure|Azure]] has one of these as well, whether it's Amazon Q or GCP Gemini, and I use the version within that cloud so that I can more quickly get to best practices and the tasks that I'm going to do.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), [[Gemini]] (9), [[Security]] (6), [[Google]] (4), [[DevOps]] (3)
+> **Frameworks & Libraries:** [[Gemini]] (9), [[Google]] (4), [[DevOps]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Cloud Security]] (2)
 > **Definitions:** is an  (2), is a  (2), is called (1)
 > **Env Vars:** gcp (2), llm (1)
 > **Analogies:** similar to (1), just like (1), kind of like (1)
@@ -1298,12 +1275,11 @@ created: 2026-05-02
 > **Cross-References:** as you saw (1)
 > **UI Navigation:** click on (1)
 
-#### Use GenAI for cloud DataOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-dataops?u=76281980)
+#### [Use GenAI for cloud DataOps](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-dataops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-dataops?u=76281980&t=0)** - [Instructor] So another type of generative AI tool that I'm using in cloud data scenarios is integrated with data warehousing or even other types of data platforms on the cloud.
+> **[0:00](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-dataops?u=76281980&t=0)** - [Instructor] So another type of [[Generative AI]] tool that I'm using in cloud data scenarios is integrated with [[Data Warehousing]] or even other types of data platforms on the cloud.
 >
 > **[0:12](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-dataops?u=76281980&t=12)** And here's an example in BigQuery.
 >
@@ -1313,7 +1289,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-dataops?u=76281980&t=22)** And under my query options, I have a new capability.
 >
-> **[0:26](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-dataops?u=76281980&t=26)** Beyond using SQL query or Python query in a notebook, have this capability called data canvas.
+> **[0:26](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-dataops?u=76281980&t=26)** Beyond using [[SQL]] query or [[Python (Programming Language)|Python]] query in a notebook, have this capability called data canvas.
 >
 > **[0:31](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-dataops?u=76281980&t=31)** When I bring this up, I get the same sort of information that I saw in terms of schema and details and preview.
 >
@@ -1345,9 +1321,9 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-dataops?u=76281980&t=139)** And you can see how the tables are joined here 'cause it is a new way of working.
 >
-> **[2:25](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-dataops?u=76281980&t=145)** And Google isn't the only one for which this methodology is available.
+> **[2:25](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-dataops?u=76281980&t=145)** And [[Google]] isn't the only one for which this methodology is available.
 >
-> **[2:30](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-dataops?u=76281980&t=150)** I recently have been doing some work with the Databricks platform, and they have a new capability, kind of similar to the data canvas in Google Cloud.
+> **[2:30](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-dataops?u=76281980&t=150)** I recently have been doing some work with the Databricks platform, and they have a new capability, kind of similar to the data canvas in [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[2:42](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-dataops?u=76281980&t=162)** It's called Genie spaces.
 >
@@ -1361,7 +1337,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-dataops?u=76281980&t=183)** And again, it allows me to more quickly understand the data.
 >
-> **[3:08](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-dataops?u=76281980&t=188)** So it gives me this English layer that is querying the, in this case, table metadata.
+> **[3:08](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-dataops?u=76281980&t=188)** So it gives me this English layer that is querying the, in this case, table [[Metadata]].
 >
 > **[3:14](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-dataops?u=76281980&t=194)** Now, in terms of Databricks, this is not the only AI that's available.
 >
@@ -1369,13 +1345,13 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-dataops?u=76281980&t=203)** And you can see that as they're building it out, in this case, the assistant is not integrated with this particular page, and that's fair 'cause the Genie spaces are really brand new.
 >
-> **[3:33](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-dataops?u=76281980&t=213)** But if you go into some of the other types of interactions with your data, you also have this assistant tool, which is conceptually similar to what I showed you with GCP, Gemini and Amazon Q.
+> **[3:33](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-dataops?u=76281980&t=213)** But if you go into some of the other types of interactions with your data, you also have this assistant tool, which is conceptually similar to what I showed you with GCP, [[Gemini]] and Amazon Q.
 >
 > **[3:46](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-dataops?u=76281980&t=226)** So these type of tool sets with cloud platforms are really, really important in increasing your productivity and in this case, around understanding data more quickly.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[SQL]] (4), cloud (3), [[Python (Programming Language)|Python]] (2), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Python (Programming Language)|Python]] (2), [[Generative AI]] (1), [[Data Warehousing]] (1), [[Google]] (1)
 > **Env Vars:** sql (4), cdc (1), gcp (1)
 > **CLI Commands:** python (2)
 > **Definitions:** is a  (2)
@@ -1383,14 +1359,13 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use GenAI for cloud architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-architecture?u=76281980)
+#### [Use GenAI for cloud architecture](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-architecture?u=76281980&t=0)** - [Instructor] Here's an example of how I used GenAI in a current architecture task.
 >
-> **[0:06](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-architecture?u=76281980&t=6)** The client wanted me to help design and build a quick POC for a RAG-based GenAI custom application, and they wanted to build it on Google Cloud.
+> **[0:06](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-architecture?u=76281980&t=6)** The client wanted me to help design and build a quick POC for a RAG-based GenAI custom application, and they wanted to build it on [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[0:17](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-architecture?u=76281980&t=17)** So the first thing I did is I looked in the Google Cloud Architecture Center, and I found an example of a RAG-capable GenAI application using GKE.
 >
@@ -1402,13 +1377,13 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-architecture?u=76281980&t=41)** There was one little problem, though.
 >
-> **[0:43](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-architecture?u=76281980&t=43)** The client had specified that they did not want to use Kubernetes.
+> **[0:43](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-architecture?u=76281980&t=43)** The client had specified that they did not want to use [[Kubernetes]].
 >
-> **[0:47](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-architecture?u=76281980&t=47)** They wanted to use virtual machines.
+> **[0:47](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-architecture?u=76281980&t=47)** They wanted to use [[Virtual Machines]].
 >
 > **[0:49](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-architecture?u=76281980&t=49)** So pre-GenAI, I would've created a new diagram and done a bunch of research.
 >
-> **[0:55](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-architecture?u=76281980&t=55)** With GenAI, what I did is I screenshotted this diagram, and then I went over to Gemini, and I uploaded the screenshot and I fed Gemini this prompt, "Act as an expert GCP Cloud Architect.
+> **[0:55](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-architecture?u=76281980&t=55)** With GenAI, what I did is I screenshotted this diagram, and then I went over to [[Gemini]], and I uploaded the screenshot and I fed Gemini this prompt, "Act as an expert GCP Cloud Architect.
 >
 > **[1:10](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-architecture?u=76281980&t=70)** Using the diagram as a reference architecture, generate a table, which lists the first five tasks the cloud team needs to perform to build a POC of this architecture.
 >
@@ -1416,7 +1391,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-architecture?u=76281980&t=88)** So Gemini came back and talked about the process to set this up so that I could start working with the teams.
 >
-> **[1:36](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-architecture?u=76281980&t=96)** So setting up the network foundation, provisioning the virtual machines, installing/configuring the software, setting up Cloud SQL, data ingestion, embedding a generation.
+> **[1:36](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-architecture?u=76281980&t=96)** So setting up the network foundation, provisioning the virtual machines, installing/configuring the software, setting up Cloud [[SQL]], [[Data Ingestion]], embedding a generation.
 >
 > **[1:47](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-architecture?u=76281980&t=107)** And in this particular team, they had never worked with Cloud SQL, so they had done the other types of tasks here, but they just never worked with Cloud SQL.
 >
@@ -1426,7 +1401,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-architecture?u=76281980&t=132)** So very concise, very usable.
 >
-> **[2:15](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-architecture?u=76281980&t=135)** So for that next question that the team brought to me, this was my prompt, "Create a gcloud script, which performs the following task," and I just basically took the task from right here, Create a Cloud SQL instance for PostgreSQL with the PG vector extension.
+> **[2:15](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-architecture?u=76281980&t=135)** So for that next question that the team brought to me, this was my prompt, "Create a gcloud script, which performs the following task," and I just basically took the task from right here, Create a Cloud SQL instance for [[PostgreSQL]] with the PG vector extension.
 >
 > **[2:34](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/use-genai-for-cloud-architecture?u=76281980&t=154)** Configure high availability for production readiness."
 >
@@ -1474,7 +1449,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (16), [[SQL]] (8), [[Gemini]] (5), prompt (4), application (3)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Gemini]] (5), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Virtual Machines]] (2), [[Kubernetes]] (1)
 > **Env Vars:** sql (8), poc (3), gke (3), rag (2), gcp (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Best Practices:** best practice (2), recommended (1)
@@ -1487,8 +1462,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How can I learn more about a career in the cloud?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/how-can-i-learn-more-about-a-career-in-the-cloud?u=76281980)
+#### [How can I learn more about a career in the cloud?](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/how-can-i-learn-more-about-a-career-in-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1518,17 +1492,17 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/how-can-i-learn-more-about-a-career-in-the-cloud?u=76281980&t=53)** Create a study plan and go for it.
 >
-> **[0:56](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/how-can-i-learn-more-about-a-career-in-the-cloud?u=76281980&t=56)** Vendor partner communities such as Microsoft regional directors, Google developer experts, and AWS community heroes are great places to meet like-minded cloud leaders.
+> **[0:56](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/how-can-i-learn-more-about-a-career-in-the-cloud?u=76281980&t=56)** Vendor partner communities such as [[Microsoft]] regional directors, [[Google]] developer experts, and AWS community heroes are great places to meet like-minded cloud leaders.
 >
 > **[1:07](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/how-can-i-learn-more-about-a-career-in-the-cloud?u=76281980&t=67)** I provided links in the previous article.
 >
-> **[1:10](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/how-can-i-learn-more-about-a-career-in-the-cloud?u=76281980&t=70)** Contribute learnings to the open source communities such as GitHub, and seek out like-minded cloud builders on your cloud career journey.
+> **[1:10](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/how-can-i-learn-more-about-a-career-in-the-cloud?u=76281980&t=70)** Contribute learnings to the open source communities such as [[GitHub]], and seek out like-minded cloud builders on your cloud career journey.
 >
 > **[1:20](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications/how-can-i-learn-more-about-a-career-in-the-cloud?u=76281980&t=80)** I'm Lynn Langit. Now go build.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), career (3), aws (2), [[Microsoft]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Google]] (1), [[GitHub]] (1)
 > **CLI Commands:** aws (2), go build (2), find (1)
 > **Env Vars:** aws (2), cto (1)
 > **Analogies:** such as (2)

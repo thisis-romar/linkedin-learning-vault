@@ -94,20 +94,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of troubleshooting and debugging Kafka
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-troubleshooting-and-debugging-kafka?u=76281980)
+#### [Overview of troubleshooting and debugging Kafka](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-troubleshooting-and-debugging-kafka?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-troubleshooting-and-debugging-kafka?u=76281980&t=0)** Hi, and welcome to this course on troubleshooting and debugging Kafka.
 >
-> **[0:05](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-troubleshooting-and-debugging-kafka?u=76281980&t=5)** Now this is an intermediate level course, which means I assume that you are familiar with the Apache Kafka stream-processing platform.
+> **[0:05](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-troubleshooting-and-debugging-kafka?u=76281980&t=5)** Now this is an intermediate level course, which means I assume that you are familiar with the [[Apache Kafka]] stream-processing platform.
 >
 > **[0:13](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-troubleshooting-and-debugging-kafka?u=76281980&t=13)** Here is a quick overview for those who need a quick refresher.
 >
 > **[0:16](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-troubleshooting-and-debugging-kafka?u=76281980&t=16)** Apache Kafka is a distributed event store and stream processing platform.
 >
-> **[0:21](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-troubleshooting-and-debugging-kafka?u=76281980&t=21)** It provides a unified, high throughput, low latency platform for handling real-time data feeds.
+> **[0:21](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-troubleshooting-and-debugging-kafka?u=76281980&t=21)** It provides a unified, high throughput, low latency platform for handling [[Real-Time]] data feeds.
 >
 > **[0:28](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-troubleshooting-and-debugging-kafka?u=76281980&t=28)** Any time you want a messaging service to work with real-time data, you'll turn to Apache Kafka.
 >
@@ -123,7 +122,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-troubleshooting-and-debugging-kafka?u=76281980&t=75)** Working with Kafka standalone is difficult because it may not provide all of the tools and utilities that you need in a production environment, and that's where the Confluent platform comes in.
 >
-> **[1:27](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-troubleshooting-and-debugging-kafka?u=76281980&t=87)** The Confluent platform is a full scale data streaming platform that enables you to easily access, store, and manage data as continuous real-time streams.
+> **[1:27](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-troubleshooting-and-debugging-kafka?u=76281980&t=87)** The Confluent platform is a full scale [[Data Streaming]] platform that enables you to easily access, store, and manage data as continuous real-time streams.
 >
 > **[1:37](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-troubleshooting-and-debugging-kafka?u=76281980&t=97)** And the main thing about Confluent, it works with Apache Kafka at its core. The Confluent platform is built on top of Kafka.
 >
@@ -135,7 +134,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-troubleshooting-and-debugging-kafka?u=76281980&t=121)** Here is a high level architectural overview of the components that make up the Confluent platform.
 >
-> **[2:08](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-troubleshooting-and-debugging-kafka?u=76281980&t=128)** We have security, resiliency, performance, management, and monitoring development, but at the core lies Apache Kafka.
+> **[2:08](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-troubleshooting-and-debugging-kafka?u=76281980&t=128)** We have security, [[Resiliency]], performance, management, and monitoring development, but at the core lies Apache Kafka.
 >
 > **[2:16](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-troubleshooting-and-debugging-kafka?u=76281980&t=136)** The Confluent platform deals with streams of messages using Kafka, brokers, producers, and consumers.
 >
@@ -163,11 +162,11 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-troubleshooting-and-debugging-kafka?u=76281980&t=231)** The control Center also allows you to configure alerts for important components that you want to monitor.
 >
-> **[3:58](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-troubleshooting-and-debugging-kafka?u=76281980&t=238)** For example, you can have alerts on latency and completeness statistics of your data streams.
+> **[3:58](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-troubleshooting-and-debugging-kafka?u=76281980&t=238)** For example, you can have alerts on latency and completeness [[Statistics]] of your data streams.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Apache Kafka]] (11), data (7), [[Real-Time]] (3), management (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[Apache Kafka]] (11), [[Real-Time]] (3), [[Data Streaming]] (1), [[Resiliency]] (1), [[Statistics]] (1)
 > **CLI Commands:** apache (11), make (1)
 > **Definitions:** is a  (5), is an  (1)
 > **Analogies:** for example (1)
@@ -179,8 +178,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/prerequisites?u=76281980)
+#### [Prerequisites](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -192,11 +190,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/prerequisites?u=76281980&t=21)** You understand producers, consumers, brokers, you understand topics, their partitions and replication.
 >
-> **[0:29](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/prerequisites?u=76281980&t=29)** In addition to being familiar with Kafka, I also assume that you're familiar working with the Linux terminal.
+> **[0:29](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/prerequisites?u=76281980&t=29)** In addition to being familiar with Kafka, I also assume that you're familiar working with the [[Linux]] terminal.
 >
 > **[0:34](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/prerequisites?u=76281980&t=34)** The Confluent platform that we'll be using runs on Linux systems, so we'll be using a lot of shell commands on the terminal.
 >
-> **[0:42](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/prerequisites?u=76281980&t=42)** I also assume that you are familiar with the Python programming language.
+> **[0:42](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/prerequisites?u=76281980&t=42)** I also assume that you are familiar with the [[Python (Programming Language)|Python]] programming language.
 >
 > **[0:46](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/prerequisites?u=76281980&t=46)** Basic familiarity should be sufficient.
 >
@@ -204,23 +202,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), [[Python (Programming Language)|Python]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), make (1)
 > **Tools:** terminal (2)
 > **Prerequisites:** you need to have (1)
 
-#### An overview of Apache Kafka
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/an-overview-of-apache-kafka?u=76281980)
+#### [An overview of Apache Kafka](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/an-overview-of-apache-kafka?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/an-overview-of-apache-kafka?u=76281980&t=0)** In this movie, I'm going to do a very, very quick overview of Apache Kafka.
+> **[0:00](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/an-overview-of-apache-kafka?u=76281980&t=0)** In this movie, I'm going to do a very, very quick overview of [[Apache Kafka]].
 >
 > **[0:05](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/an-overview-of-apache-kafka?u=76281980&t=5)** This is by no means a comprehensive discussion of Kafka concepts.
 >
 > **[0:09](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/an-overview-of-apache-kafka?u=76281980&t=9)** This is just meant to be a refresher.
 >
-> **[0:11](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/an-overview-of-apache-kafka?u=76281980&t=11)** Kafka is a stream-processing platform that allows you to work with real-time data.
+> **[0:11](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/an-overview-of-apache-kafka?u=76281980&t=11)** Kafka is a stream-processing platform that allows you to work with [[Real-Time]] data.
 >
 > **[0:16](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/an-overview-of-apache-kafka?u=76281980&t=16)** An Apache Kafka cluster is made up of servers known as brokers.
 >
@@ -258,16 +255,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Apache Kafka]] (3), data (3), parallel (3), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Apache Kafka]] (3), [[Real-Time]] (1)
 > **CLI Commands:** apache (3)
 > **Definitions:** is a  (2), known as (1)
 
-#### The Confluent platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980)
+#### [The Confluent platform](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=0)** Coming into this course, I assume that you're familiar with Apache Kafka, but maybe you're not familiar with the Confluent platform.
+> **[0:00](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=0)** Coming into this course, I assume that you're familiar with [[Apache Kafka]], but maybe you're not familiar with the Confluent platform.
 >
 > **[0:07](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=7)** So let's get a quick overview of what this platform is all about.
 >
@@ -279,7 +275,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=29)** Even though the Confluent platform is essentially Apache Kafka at the core, it's more than just Kafka.
 >
-> **[0:36](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=36)** Working with Kafka in a production environment requires many additional services and tools, and Confluent has all of these. Because Confluent is built around Apache Kafka, it leverages Kafka brokers, Kafka's Java client APIs, and the Connect API that you can use to connect data sources to Kafka.
+> **[0:36](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=36)** Working with Kafka in a production environment requires many additional services and tools, and Confluent has all of these. Because Confluent is built around Apache Kafka, it leverages Kafka brokers, Kafka's [[Java]] client APIs, and the Connect API that you can use to connect data sources to Kafka.
 >
 > **[0:57](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=57)** Confluent expands the development and connectivity features that Kafka offers.
 >
@@ -301,7 +297,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=133)** The Control Center also allows you to configure alerts for events that you're specifically interested in.
 >
-> **[2:18](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=138)** If an event goes beyond a particular threshold, an alert will be triggered and you can receive an email, a slack notification or a pager call.
+> **[2:18](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=138)** If an event goes beyond a particular threshold, an alert will be triggered and you can receive an email, a [[Slack]] notification or a pager call.
 >
 > **[2:28](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=148)** Here is a visual of a replicated cluster in Apache Kafka.
 >
@@ -311,7 +307,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=170)** The control center uses interceptors embedded in the cluster to monitor and observe the cluster's health.
 >
-> **[2:58](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=178)** The Confluent platform has many more features for performance, scalability, security.
+> **[2:58](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=178)** The Confluent platform has many more features for performance, [[Scalability]], security.
 >
 > **[3:04](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=184)** We won't really be focusing on those in this course.
 >
@@ -319,25 +315,25 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=197)** Now Confluent has two modes of running.
 >
-> **[3:20](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=200)** It can run on-premises on the customer's data center or it can run on public cloud infrastructure like on AWS or Azure.
+> **[3:20](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=200)** It can run on-premises on the customer's data center or it can run on public [[Cloud Infrastructure]] like on AWS or [[Microsoft Azure|Azure]].
 >
 > **[3:29](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=209)** It can also run on the Confluent cloud platform.
 >
-> **[3:32](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=212)** Confluent has integrations and hooks that allows it to integrate with external data sources, ingest streaming data, and support real-time applications in a complete manner.
+> **[3:32](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=212)** Confluent has integrations and hooks that allows it to integrate with external data sources, ingest streaming data, and support [[Real-Time]] applications in a complete manner.
 >
 > **[3:46](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=226)** Confluent has an enterprise version of which we are going to use a free trial and a community version.
 >
 > **[3:52](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=232)** Here are Confluent community features.
 >
-> **[3:55](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=235)** ksqlDB is the streaming SQL engine for Kafka that allows you to do stream processing using SQL. Confluent Connectors to Kafka, leverage the Kafka Connect API to connect Kafka to other systems such as databases, search indices, file systems, and so on.
+> **[3:55](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=235)** ksqlDB is the streaming [[SQL]] engine for Kafka that allows you to do stream processing using SQL. Confluent Connectors to Kafka, leverage the Kafka Connect API to connect Kafka to other systems such as [[Databases]], search indices, file systems, and so on.
 >
 > **[4:11](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=251)** Confluent Clients are libraries in different languages that work with Confluent.
 >
-> **[4:16](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=256)** These languages include C, C++, Python, Go, and the .Net Library.
+> **[4:16](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=256)** These languages include C, C++, [[Python (Programming Language)|Python]], Go, and the .Net Library.
 >
 > **[4:22](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=262)** The Confluent Schema Registry allows us to register and evolve schemas for our streaming data.
 >
-> **[4:30](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=270)** The Confluent REST Proxy provides a rest API that allows you to work with Confluent from any programming language by invoking these restful APIs. And Confluent provides a command line interface, the CLI that you can use to interact with Confluent and other command line tools.
+> **[4:30](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=270)** The Confluent [[Representational State Transfer (REST)|REST]] Proxy provides a rest API that allows you to work with Confluent from any programming language by invoking these restful APIs. And Confluent provides a command line interface, the [[CLI]] that you can use to interact with Confluent and other command line tools.
 >
 > **[4:48](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/the-confluent-platform?u=76281980&t=288)** Now Confluent for the Enterprise provides many, many more features, some of which are listed out here.
 >
@@ -351,7 +347,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Apache Kafka]] (3), api (3), [[SQL]] (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Apache Kafka]] (3), [[SQL]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Java]] (1), [[Slack]] (1)
 > **CLI Commands:** apache (5), make (1), aws (1), python (1)
 > **Env Vars:** api (3), sql (2), aws (1), rest (1), cli (1)
 > **Tools:** command line (2), slack (1)
@@ -360,16 +356,15 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (2)
 > **Code Identifiers:** ksqldb (1)
 
-#### Downloading the Confluent platform binaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/downloading-the-confluent-platform-binaries?u=76281980)
+#### [Downloading the Confluent platform binaries](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/downloading-the-confluent-platform-binaries?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/downloading-the-confluent-platform-binaries?u=76281980&t=0)** In this demo, we'll get set up with the Confluent platform.
 >
-> **[0:03](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/downloading-the-confluent-platform-binaries?u=76281980&t=3)** The Confluent platform runs and manage Apache Kafka service at its core, and it has a number of different services that integrate with Apache Kafka and make it easier to work with Kafka.
+> **[0:03](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/downloading-the-confluent-platform-binaries?u=76281980&t=3)** The Confluent platform runs and manage [[Apache Kafka]] service at its core, and it has a number of different services that integrate with Apache Kafka and make it easier to work with Kafka.
 >
-> **[0:15](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/downloading-the-confluent-platform-binaries?u=76281980&t=15)** The Confluent platform is only compatible with Linux-based systems.
+> **[0:15](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/downloading-the-confluent-platform-binaries?u=76281980&t=15)** The Confluent platform is only compatible with [[Linux]]-based systems.
 >
 > **[0:20](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/downloading-the-confluent-platform-binaries?u=76281980&t=20)** The steps that I'll be following to install the Confluent platform on a macOS machine is applicable for Linux versions as well.
 >
@@ -377,7 +372,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/downloading-the-confluent-platform-binaries?u=76281980&t=59)** And here you can see what operating systems are supported by the different Confluent platform versions.
 >
-> **[1:05](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/downloading-the-confluent-platform-binaries?u=76281980&t=65)** Observe that all of these are Linux operating systems, Debian, Ubuntu or Red Hat Enterprise Linux.
+> **[1:05](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/downloading-the-confluent-platform-binaries?u=76281980&t=65)** Observe that all of these are Linux operating systems, Debian, [[Ubuntu]] or Red Hat Enterprise Linux.
 >
 > **[1:13](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/downloading-the-confluent-platform-binaries?u=76281980&t=73)** In this course, we will not be working with the production deployment of the Confluent platform.
 >
@@ -387,15 +382,15 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/downloading-the-confluent-platform-binaries?u=76281980&t=92)** If you have a Linux base machine running a flavor of Ubuntu or Debian, you can use that for the demos in this course.
 >
-> **[1:40](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/downloading-the-confluent-platform-binaries?u=76281980&t=100)** At the time of this recording, the Confluent platform supports Java 17 or Java 11.
+> **[1:40](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/downloading-the-confluent-platform-binaries?u=76281980&t=100)** At the time of this recording, the Confluent platform supports [[Java]] 17 or Java 11.
 >
 > **[1:46](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/downloading-the-confluent-platform-binaries?u=76281980&t=106)** Java 8 is soon to be deprecated.
 >
 > **[1:48](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/downloading-the-confluent-platform-binaries?u=76281980&t=108)** Now when you are doing this course, I recommend you check out this page to figure out the right Java version for the Confluent platform.
 >
-> **[1:56](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/downloading-the-confluent-platform-binaries?u=76281980&t=116)** I also recommend that you check out the right Java version for the other components, specifically the confluent CLI.
+> **[1:56](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/downloading-the-confluent-platform-binaries?u=76281980&t=116)** I also recommend that you check out the right Java version for the other components, specifically the confluent [[CLI]].
 >
-> **[2:02](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/downloading-the-confluent-platform-binaries?u=76281980&t=122)** I'll be using Java 11 for this course because the confluence CLI worked well with Java 11.
+> **[2:02](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/downloading-the-confluent-platform-binaries?u=76281980&t=122)** I'll be using Java 11 for this course because the [[Confluence]] CLI worked well with Java 11.
 >
 > **[2:08](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/downloading-the-confluent-platform-binaries?u=76281980&t=128)** In order to get installed and set up with Confluent on your local machine, you need to head over to [confluent.io](https://confluent.io), get started.
 >
@@ -434,8 +429,7 @@ created: 2026-05-02
 > **Code Identifiers:** macos (2)
 > **URLs:** [confluent.io](https://confluent.io) (2)
 
-#### Running the Confluent platform locally
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-the-confluent-platform-locally?u=76281980)
+#### [Running the Confluent platform locally](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-the-confluent-platform-locally?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -455,9 +449,9 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-the-confluent-platform-locally?u=76281980&t=44)** It just happens to be on my machine, but that's not what we are going to be using.
 >
-> **[0:48](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-the-confluent-platform-locally?u=76281980&t=48)** We are going to be using Apache Kafka with the Confluent platform.
+> **[0:48](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-the-confluent-platform-locally?u=76281980&t=48)** We are going to be using [[Apache Kafka]] with the Confluent platform.
 >
-> **[0:51](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-the-confluent-platform-locally?u=76281980&t=51)** Now let's confirm that I have the right Java version.
+> **[0:51](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-the-confluent-platform-locally?u=76281980&t=51)** Now let's confirm that I have the right [[Java]] version.
 >
 > **[0:54](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-the-confluent-platform-locally?u=76281980&t=54)** Notice that I have Java 11 installed.
 >
@@ -477,7 +471,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-the-confluent-platform-locally?u=76281980&t=125)** So make sure you run this command to install datagen.
 >
-> **[2:08](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-the-confluent-platform-locally?u=76281980&t=128)** We are now very, very close to being done with our setup. Now, because we have the Confluent home configured in our path, we can run Confluent command, so run Confluent version and you can see the version of the Confluent CLI that you're working with. In order to see all of the commands that you can use with this local installation of Confluent, remember, this is a single-node testing and development installation, run the Confluent local command.
+> **[2:08](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-the-confluent-platform-locally?u=76281980&t=128)** We are now very, very close to being done with our setup. Now, because we have the Confluent home configured in our path, we can run Confluent command, so run Confluent version and you can see the version of the Confluent [[CLI]] that you're working with. In order to see all of the commands that you can use with this local installation of Confluent, remember, this is a single-node testing and development installation, run the Confluent local command.
 >
 > **[2:35](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-the-confluent-platform-locally?u=76281980&t=155)** Observe that this allows us to try out the Confluent platform by running a single-node instance locally on our machine, which is exactly what we want.
 >
@@ -493,13 +487,13 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-the-confluent-platform-locally?u=76281980&t=191)** We have Kafka at the very center, this is Apache Kafka.
 >
-> **[3:15](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-the-confluent-platform-locally?u=76281980&t=195)** Then we have a REST API for Apache Kafka, Kafka REST.
+> **[3:15](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-the-confluent-platform-locally?u=76281980&t=195)** Then we have a [[Representational State Transfer (REST)|REST]] API for Apache Kafka, Kafka REST.
 >
 > **[3:19](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-the-confluent-platform-locally?u=76281980&t=199)** We have the Control Center, which is the user interface that we'll use to monitor and troubleshoot Kafka.
 >
 > **[3:25](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-the-confluent-platform-locally?u=76281980&t=205)** That's where we'll be spending most of our time.
 >
-> **[3:27](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-the-confluent-platform-locally?u=76281980&t=207)** We have ZooKeeper to manage Kafka, the Schema Registry, and the ksql server that will allow us to run SQL queries on our streams.
+> **[3:27](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-the-confluent-platform-locally?u=76281980&t=207)** We have ZooKeeper to manage Kafka, the Schema Registry, and the ksql server that will allow us to run [[SQL]] queries on our streams.
 >
 > **[3:37](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-the-confluent-platform-locally?u=76281980&t=217)** Okay. Everything looks good here.
 >
@@ -511,7 +505,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (5), [[Apache Kafka]] (4), node (3), [[Representational State Transfer (REST)|Rest]] (2), cd (1)
+> **Frameworks & Libraries:** [[Java]] (5), [[Apache Kafka]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[CLI]] (1), [[SQL]] (1)
 > **CLI Commands:** apache (4), make (3), node (3), ls (2), cd (1)
 > **Env Vars:** rest (2), readme (1), cli (1), api (1), sql (1)
 > **Prerequisites:** configure (2), install (2), setup (1)
@@ -520,14 +514,13 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **Warnings:** troubleshoot (1)
 
-#### Overview of the control center
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-the-control-center?u=76281980)
+#### [Overview of the control center](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-the-control-center?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-the-control-center?u=76281980&t=0)** Now that we've successfully brought up the Confluent platform for local testing and development, let's head over to localhost 9021, which is where we'll be able to work with the Confluent Control Center.
 >
-> **[0:13](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-the-control-center?u=76281980&t=13)** The Confluent Control Center is the administrative user interface that you can use to interact with the Confluent platform with Apache Kafka on the platform.
+> **[0:13](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-the-control-center?u=76281980&t=13)** The Confluent Control Center is the administrative user interface that you can use to interact with the Confluent platform with [[Apache Kafka]] on the platform.
 >
 > **[0:22](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-the-control-center?u=76281980&t=22)** By default, we have a single-node cluster with a single broker running and you can see that it's healthy.
 >
@@ -611,7 +604,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-the-control-center?u=76281980&t=257)** We'll be setting up connections during the course of our demos so we can just quickly head over to the next section, ksqlDB.
 >
-> **[4:23](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-the-control-center?u=76281980&t=263)** ksqlDB is the streaming SQL engine for Kafka that allows us to perform stream processing tasks using this SQL.
+> **[4:23](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-the-control-center?u=76281980&t=263)** ksqlDB is the streaming [[SQL]] engine for Kafka that allows us to perform stream processing tasks using this SQL.
 >
 > **[4:32](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/overview-of-the-control-center?u=76281980&t=272)** The Control Center can also be used to monitor consumers for the various topics that you have in your cluster.
 >
@@ -653,7 +646,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), node (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **UI Navigation:** scroll down (2), go to (2), navigate to (1), click on (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** apache (1), node (1)
@@ -667,8 +660,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Observing message production and consumption
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/observing-message-production-and-consumption?u=76281980)
+#### [Observing message production and consumption](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/observing-message-production-and-consumption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -676,7 +668,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/observing-message-production-and-consumption?u=76281980&t=1)** We have the Confluent platform up and running, and we've also taken a look at the Control Center.
 >
-> **[0:06](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/observing-message-production-and-consumption?u=76281980&t=6)** So let's go ahead and create our first topic in Apache Kafka, and for that, we'll use the command line.
+> **[0:06](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/observing-message-production-and-consumption?u=76281980&t=6)** So let's go ahead and create our first topic in [[Apache Kafka]], and for that, we'll use the command line.
 >
 > **[0:14](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/observing-message-production-and-consumption?u=76281980&t=14)** Kafka Topics is available within the bin folder of your Confluent home.
 >
@@ -786,15 +778,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Apache Kafka]] (1), hit (1), data (1)
+> **Frameworks & Libraries:** [[Apache Kafka]] (1)
 > **Tools:** terminal (2), command line (1)
 > **Prerequisites:** install (1), setup (1)
 > **CLI Commands:** apache (1)
 > **Code Identifiers:** first_topic (1)
 > **Warnings:** warning (1)
 
-#### Produce messages using the control center
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/produce-messages-using-the-control-center?u=76281980)
+#### [Produce messages using the control center](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/produce-messages-using-the-control-center?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -854,7 +845,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/produce-messages-using-the-control-center?u=76281980&t=124)** And in fact, you can produce and publish a new message from right here.
 >
-> **[2:08](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/produce-messages-using-the-control-center?u=76281980&t=128)** You can see there is a JSON message that has been automatically generated for you, something about orders and addresses.
+> **[2:08](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/produce-messages-using-the-control-center?u=76281980&t=128)** You can see there is a [[JSON]] message that has been automatically generated for you, something about orders and addresses.
 >
 > **[2:15](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/produce-messages-using-the-control-center?u=76281980&t=135)** You can actually publish this Json message with the key of 18 to the topic that we've just created.
 >
@@ -892,7 +883,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (2), [[Debugging]] (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **UI Navigation:** click on (3), scroll down (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** configure (1), set up (1), setup (1)
@@ -901,8 +892,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Env Vars:** json (1)
 
-#### Using datagen to generate synthetic data
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/using-datagen-to-generate-synthetic-data?u=76281980)
+#### [Using datagen to generate synthetic data](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/using-datagen-to-generate-synthetic-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -974,7 +964,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Debugging]] (3), next (3), [[Troubleshooting]] (1), etl (1)
 > **UI Navigation:** click on (5), scroll down (2), select the (1)
 > **CLI Commands:** find (3)
 > **Code Identifiers:** random_topic (1), stock_market_data (1), datagen_stock_data (1)
@@ -982,8 +971,7 @@ created: 2026-05-02
 > **Env Vars:** etl (1)
 > **Warnings:** troubleshoot (1)
 
-#### Observing consumers
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/observing-consumers?u=76281980)
+#### [Observing consumers](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/observing-consumers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1095,7 +1083,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Debugging]] (2)
 > **Definitions:** is a  (3)
 > **Prerequisites:** set up (2), configure (1)
 > **Cross-References:** in the last (1), go back to (1)
@@ -1108,14 +1095,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding ksqlDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/understanding-ksqldb?u=76281980)
+#### [Understanding ksqlDB](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/understanding-ksqldb?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/understanding-ksqldb?u=76281980&t=0)** Now, the cool thing about working with Apache Kafka is that you don't really need to process your streams using high level programming languages such as Python or Java.
+> **[0:00](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/understanding-ksqldb?u=76281980&t=0)** Now, the cool thing about working with [[Apache Kafka]] is that you don't really need to process your streams using high level programming languages such as [[Python (Programming Language)|Python]] or [[Java]].
 >
-> **[0:10](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/understanding-ksqldb?u=76281980&t=10)** You can just use SQL.
+> **[0:10](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/understanding-ksqldb?u=76281980&t=10)** You can just use [[SQL]].
 >
 > **[0:12](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/understanding-ksqldb?u=76281980&t=12)** Thanks to ksqlDB.
 >
@@ -1133,11 +1119,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/understanding-ksqldb?u=76281980&t=67)** It's actually meant to allow you to develop streaming applications without writing code in Java, Python, C#, or another high level programming language.
 >
-> **[1:17](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/understanding-ksqldb?u=76281980&t=77)** The main use case for ksqlDB is to allow you to create data pipelines for extract transform load operations on your Kafka streams.
+> **[1:17](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/understanding-ksqldb?u=76281980&t=77)** The main use case for ksqlDB is to allow you to create [[Data Pipelines]] for extract transform load operations on your Kafka streams.
 >
 > **[1:27](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/understanding-ksqldb?u=76281980&t=87)** With ksqlDB, you can also store data in Kafka using materialized caches and views.
 >
-> **[1:33](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/understanding-ksqldb?u=76281980&t=93)** ksqldb also enables you to model event-driven microservices.
+> **[1:33](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/understanding-ksqldb?u=76281980&t=93)** ksqldb also enables you to model event-driven [[Microservices]].
 >
 > **[1:39](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/understanding-ksqldb?u=76281980&t=99)** It's an entirely different paradigm of looking at your stream processing applications.
 >
@@ -1155,15 +1141,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[SQL]] (5), [[Programming]] (2), [[Python (Programming Language)|Python]] (2), [[Java]] (2)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Python (Programming Language)|Python]] (2), [[Java]] (2), [[Apache Kafka]] (1), [[Data Pipelines]] (1)
 > **Code Identifiers:** ksqldb (10)
 > **Env Vars:** sql (5)
 > **CLI Commands:** python (2), apache (1)
 > **Warnings:** troubleshoot (1), note that (1)
 > **Analogies:** such as (1)
 
-#### Creating streams and tables using ksqlDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/creating-streams-and-tables-using-ksqldb?u=76281980)
+#### [Creating streams and tables using ksqlDB](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/creating-streams-and-tables-using-ksqldb?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1171,9 +1156,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/creating-streams-and-tables-using-ksqldb?u=76281980&t=6)** Now, ksqlDB is actually a stream processing engine.
 >
-> **[0:11](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/creating-streams-and-tables-using-ksqldb?u=76281980&t=11)** ksqlDB extends the Kafka Streams API by allowing you to query and analyze streams using just SQL queries.
+> **[0:11](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/creating-streams-and-tables-using-ksqldb?u=76281980&t=11)** ksqlDB extends the Kafka Streams API by allowing you to query and analyze streams using just [[SQL]] queries.
 >
-> **[0:20](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/creating-streams-and-tables-using-ksqldb?u=76281980&t=20)** ksqlDB actually runs on top of Kafka streams and it allows you to build applications that can consume, process, and produce data streams in real-time.
+> **[0:20](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/creating-streams-and-tables-using-ksqldb?u=76281980&t=20)** ksqlDB actually runs on top of Kafka streams and it allows you to build applications that can consume, process, and produce data streams in [[Real-Time]].
 >
 > **[0:30](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/creating-streams-and-tables-using-ksqldb?u=76281980&t=30)** ksqlDB is not a monitoring tool, it's not a debugging tool.
 >
@@ -1317,7 +1302,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[SQL]] (2), [[Debugging]] (2), api (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Real-Time]] (1)
 > **Code Identifiers:** ksqldb (16), stock_data_stream (5), users_table (5), users_data (2), datagen_user_data (1)
 > **Definitions:** is a  (5), is an  (1)
 > **UI Navigation:** click on (2), scroll down (2)
@@ -1326,8 +1311,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (1), just like (1)
 
-#### Performing join and windowing operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/performing-join-and-windowing-operations?u=76281980)
+#### [Performing join and windowing operations](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/performing-join-and-windowing-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1371,11 +1355,11 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/performing-join-and-windowing-operations?u=76281980&t=153)** Windowing operations allow you to include the messages within a particular time window and aggregations are computed within the time window.
 >
-> **[2:42](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/performing-join-and-windowing-operations?u=76281980&t=162)** Here, I've used a tumbling window. In a tumbling window, there is no overlapping time between two consecutive windows. I store the result of this aggregation in a table.
+> **[2:42](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/performing-join-and-windowing-operations?u=76281980&t=162)** Here, I've used a tumbling window. In a tumbling window, there is no overlapping time between two consecutive [[Windows]]. I store the result of this aggregation in a table.
 >
 > **[2:52](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/performing-join-and-windowing-operations?u=76281980&t=172)** That's why have the create or replace table, symbol_1_minute_aggregates.
 >
-> **[2:57](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/performing-join-and-windowing-operations?u=76281980&t=177)** The key format is JSON, indicating we have a JSON key and I select symbol, the average price, and the average quantity from stock_data_stream where my tumbling window size is 60 seconds or one minute. Within each window interval, I group by symbol so that I get the average price and quantity for each symbol.
+> **[2:57](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/performing-join-and-windowing-operations?u=76281980&t=177)** The key format is [[JSON]], indicating we have a JSON key and I select symbol, the average price, and the average quantity from stock_data_stream where my tumbling window size is 60 seconds or one minute. Within each window interval, I group by symbol so that I get the average price and quantity for each symbol.
 >
 > **[3:19](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/performing-join-and-windowing-operations?u=76281980&t=199)** So this is the average price and quantity for the trades on that particular symbol.
 >
@@ -1407,18 +1391,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[JSON]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Windows]] (1)
 > **Code Identifiers:** stock_data_stream (5), users_table (4), user_stock_purchases (4), stock_data (1), ksqldb (1)
 > **Env Vars:** zvv (2), json (2), userid (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 
-#### Viewing streams and tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/viewing-streams-and-tables?u=76281980)
+#### [Viewing streams and tables](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/viewing-streams-and-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/viewing-streams-and-tables?u=76281980&t=0)** And finally, as we close out this chapter, let's look at some metadata related queries that you can run on ksqlDB.
+> **[0:00](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/viewing-streams-and-tables?u=76281980&t=0)** And finally, as we close out this chapter, let's look at some [[Metadata]] related queries that you can run on ksqlDB.
 >
 > **[0:06](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/viewing-streams-and-tables?u=76281980&t=6)** If you want to view all of the streams that you've created so far, you can execute the list streams command, and here are all of the streams in our ksqlDB instance.
 >
@@ -1446,7 +1429,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (1)
 > **Code Identifiers:** stock_data_stream (3), ksqldb (2), user_stock_purchases (2), users_table (2), user_stock (1)
 > **UI Navigation:** scroll down (1)
 
@@ -1455,12 +1438,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Programmatically produce messages using Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/programmatically-produce-messages-using-python?u=76281980)
+#### [Programmatically produce messages using Python](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/programmatically-produce-messages-using-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/programmatically-produce-messages-using-python?u=76281980&t=0)** In this demo, we'll see how you can use the Confluent Control Center to monitor, observe, and troubleshoot consumer groups in Apache Kafka.
+> **[0:00](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/programmatically-produce-messages-using-python?u=76281980&t=0)** In this demo, we'll see how you can use the Confluent Control Center to monitor, observe, and troubleshoot consumer groups in [[Apache Kafka]].
 >
 > **[0:09](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/programmatically-produce-messages-using-python?u=76281980&t=9)** In order to work with consumer groups, I'm going to create a new topic with multiple partitions.
 >
@@ -1502,7 +1484,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/programmatically-produce-messages-using-python?u=76281980&t=109)** That's the partition leader. Here on, we won't use the console producer and consumer anymore, nor will be used datagen.
 >
-> **[1:56](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/programmatically-produce-messages-using-python?u=76281980&t=116)** Instead, we'll programmatically use Python code to write code for producers and consumers.
+> **[1:56](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/programmatically-produce-messages-using-python?u=76281980&t=116)** Instead, we'll programmatically use [[Python (Programming Language)|Python]] code to write code for producers and consumers.
 >
 > **[2:02](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/programmatically-produce-messages-using-python?u=76281980&t=122)** And for that, we'll use the Confluent Kafka Library.
 >
@@ -1542,7 +1524,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/programmatically-produce-messages-using-python?u=76281980&t=243)** This producer will produce these fake messages and publish them to the customer payments topic in a loop.
 >
-> **[4:09](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/programmatically-produce-messages-using-python?u=76281980&t=249)** The while true loop starts on Line 32, we get the payment data that is the payment details and convert the message to a JSON format using json.dumps.
+> **[4:09](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/programmatically-produce-messages-using-python?u=76281980&t=249)** The while true loop starts on Line 32, we get the payment data that is the payment details and convert the message to a [[JSON]] format using json.dumps.
 >
 > **[4:20](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/programmatically-produce-messages-using-python?u=76281980&t=260)** Producer.produce will actually produce the messages and publish them to the topic.
 >
@@ -1572,7 +1554,7 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/programmatically-produce-messages-using-python?u=76281980&t=351)** Production seems pretty steady between 70 and about 85 bytes a second.
 >
-> **[5:56](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/programmatically-produce-messages-using-python?u=76281980&t=356)** And if you scroll down, you'll see that the rest of the topic looks healthy as well.
+> **[5:56](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/programmatically-produce-messages-using-python?u=76281980&t=356)** And if you scroll down, you'll see that the [[Representational State Transfer (REST)|rest]] of the topic looks healthy as well.
 >
 > **[6:01](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/programmatically-produce-messages-using-python?u=76281980&t=361)** You can take a look at the partition, it's available, and you can see that it's constantly receiving messages.
 >
@@ -1588,7 +1570,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), data (5), [[JSON]] (2), [[Apache Kafka]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[JSON]] (2), [[Apache Kafka]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (7), pip (2), apache (1), make (1)
 > **Code Identifiers:** customer_payments (4), get_payment_details (1)
 > **UI Navigation:** click on (4), scroll down (1)
@@ -1597,8 +1579,7 @@ created: 2026-05-02
 > **Tools:** terminal (2)
 > **Env Vars:** json (1)
 
-#### Troubleshooting partition usage
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/troubleshooting-partition-usage?u=76281980)
+#### [Troubleshooting partition usage](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/troubleshooting-partition-usage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1666,7 +1647,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** customer_payments (4), thecustomer_payments (1)
 > **UI Navigation:** scroll down (3)
 > **CLI Commands:** make (1), find (1)
@@ -1675,8 +1655,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Warnings:** troubleshoot (1)
 
-#### Consumer groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/consumer-groups?u=76281980)
+#### [Consumer groups](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/consumer-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1724,11 +1703,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1), parallel (1)
 > **Definitions:** is a  (1)
 
-#### Monitoring consumption in a consumer group
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/monitoring-consumption-in-a-consumer-group?u=76281980)
+#### [Monitoring consumption in a consumer group](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/monitoring-consumption-in-a-consumer-group?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1774,7 +1751,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/monitoring-consumption-in-a-consumer-group?u=76281980&t=110)** And finally, on Line 32, I call consumer.close.
 >
-> **[1:54](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/monitoring-consumption-in-a-consumer-group?u=76281980&t=114)** This is very, very simple Python consumer code.
+> **[1:54](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/monitoring-consumption-in-a-consumer-group?u=76281980&t=114)** This is very, very simple [[Python (Programming Language)|Python]] consumer code.
 >
 > **[1:57](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/monitoring-consumption-in-a-consumer-group?u=76281980&t=117)** Just pay attention to the fact that on Line 5, we have specified a consumer group ID indicating this consumer is part of a group.
 >
@@ -1846,14 +1823,13 @@ created: 2026-05-02
 > **File Paths:** consumera.py (1)
 > **Tools:** terminal (1)
 
-#### Debugging consumption lag
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/debugging-consumption-lag?u=76281980)
+#### [Debugging consumption lag](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/debugging-consumption-lag?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/debugging-consumption-lag?u=76281980&t=0)** In this movie, we'll see how you can monitor consumer lag, how you can see whether a particular consumer has fallen behind on consuming messages.
 >
-> **[0:10](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/debugging-consumption-lag?u=76281980&t=10)** Now, here I am with my terminal windows open.
+> **[0:10](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/debugging-consumption-lag?u=76281980&t=10)** Now, here I am with my terminal [[Windows]] open.
 >
 > **[0:13](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/debugging-consumption-lag?u=76281980&t=13)** I have the producer running on the left hand side and the consumer on the right hand side.
 >
@@ -1918,8 +1894,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (2)
 > **Code Identifiers:** consumer_payment (1)
 
-#### Monitoring consumer group rebalancing
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/monitoring-consumer-group-rebalancing?u=76281980)
+#### [Monitoring consumer group rebalancing](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/monitoring-consumer-group-rebalancing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1937,7 +1912,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/monitoring-consumer-group-rebalancing?u=76281980&t=28)** And notice on Line 5 that it belongs to the same consumer group, payment group.
 >
-> **[0:33](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/monitoring-consumer-group-rebalancing?u=76281980&t=33)** The rest of the code here for the consumer is identical to consumer A, so I don't really need to go over this code again.
+> **[0:33](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/monitoring-consumer-group-rebalancing?u=76281980&t=33)** The [[Representational State Transfer (REST)|rest]] of the code here for the consumer is identical to consumer A, so I don't really need to go over this code again.
 >
 > **[0:40](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/monitoring-consumer-group-rebalancing?u=76281980&t=40)** And let's take a look at Consumer C, the code is exactly the same.
 >
@@ -1945,7 +1920,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/monitoring-consumer-group-rebalancing?u=76281980&t=47)** You can see this on Line 5.
 >
-> **[0:49](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/monitoring-consumer-group-rebalancing?u=76281980&t=49)** I'll now switch to a screen where I have four terminal windows open.
+> **[0:49](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/monitoring-consumer-group-rebalancing?u=76281980&t=49)** I'll now switch to a screen where I have four terminal [[Windows]] open.
 >
 > **[0:54](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/monitoring-consumer-group-rebalancing?u=76281980&t=54)** Now to the top left, I'm going to run the producer.
 >
@@ -2029,7 +2004,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** terminal (7)
 > **Prerequisites:** set up (1), setup (1)
 > **UI Navigation:** switch to (1)
@@ -2039,8 +2014,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configuration properties for a multi-broker cluster
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuration-properties-for-a-multi-broker-cluster?u=76281980)
+#### [Configuration properties for a multi-broker cluster](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuration-properties-for-a-multi-broker-cluster?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2062,7 +2036,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuration-properties-for-a-multi-broker-cluster?u=76281980&t=41)** Once this is done, let's see how we can configure and set up a four-broker cluster on our local machine. cd into the Kafka folder under Confluent_Home.
 >
-> **[0:51](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuration-properties-for-a-multi-broker-cluster?u=76281980&t=51)** This folder contains all of the configuration settings that you'll use to configure Apache Kafka.
+> **[0:51](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuration-properties-for-a-multi-broker-cluster?u=76281980&t=51)** This folder contains all of the configuration settings that you'll use to configure [[Apache Kafka]].
 >
 > **[0:57](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuration-properties-for-a-multi-broker-cluster?u=76281980&t=57)** Observe that there are a number of different files for the different configuration settings.
 >
@@ -2178,7 +2152,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), next (4), cd (2), [[Apache Kafka]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Apache Kafka]] (1)
 > **CLI Commands:** find (3), cd (2), apache (1), make (1), ls (1)
 > **Prerequisites:** configure (4), set up (4)
 > **Ports:** port 9093 (1), port 9094 (1), port 9095 (1), port 2181 (1)
@@ -2187,12 +2161,11 @@ created: 2026-05-02
 > **Versions:** 127.0.0 (1)
 > **Best Practices:** good practice (1)
 
-#### Running a multi-broker cluster on the Confluent platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-a-multi-broker-cluster-on-the-confluent-platform?u=76281980)
+#### [Running a multi-broker cluster on the Confluent platform](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-a-multi-broker-cluster-on-the-confluent-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-a-multi-broker-cluster-on-the-confluent-platform?u=76281980&t=0)** Now that we've seen the configuration of the four brokers, the Connect Service and Confluence Control Center, let's bring up the four brokers on our cluster.
+> **[0:00](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-a-multi-broker-cluster-on-the-confluent-platform?u=76281980&t=0)** Now that we've seen the configuration of the four brokers, the Connect Service and [[Confluence]] Control Center, let's bring up the four brokers on our cluster.
 >
 > **[0:11](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-a-multi-broker-cluster-on-the-confluent-platform?u=76281980&t=11)** Now, first, I'm going to run Confluent local services stop to confirm that our single broker cluster indeed is down and that everything is stopped.
 >
@@ -2228,7 +2201,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-a-multi-broker-cluster-on-the-confluent-platform?u=76281980&t=103)** Now, all of the brokers as well as ZooKeeper are running.
 >
-> **[1:47](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-a-multi-broker-cluster-on-the-confluent-platform?u=76281980&t=107)** We now need to bring up the remaining components of the Confluent platform, starting with the kafka-rest API.
+> **[1:47](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-a-multi-broker-cluster-on-the-confluent-platform?u=76281980&t=107)** We now need to bring up the remaining components of the Confluent platform, starting with the kafka-[[Representational State Transfer (REST)|rest]] API.
 >
 > **[1:54](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/running-a-multi-broker-cluster-on-the-confluent-platform?u=76281980&t=114)** Use the kafka-rest-start command and point to kafka-rest.properties under confluent_home kafka_rest.
 >
@@ -2260,15 +2233,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), api (2), [[Confluence]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), [[Confluence]] (1)
 > **UI Navigation:** switch to (4)
 > **Code Identifiers:** confluent_home (1), kafka_rest (1), ksqldb (1)
 > **Env Vars:** api (2)
 > **Tools:** confluence (1), terminal (1)
 > **CLI Commands:** make (1)
 
-#### Monitoring brokers
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/monitoring-brokers?u=76281980)
+#### [Monitoring brokers](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/monitoring-brokers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2320,11 +2292,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1)
 > **UI Navigation:** scroll down (3), go to (2)
 
-#### Observing partitions and replication
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/observing-partitions-and-replication?u=76281980)
+#### [Observing partitions and replication](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/observing-partitions-and-replication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2392,12 +2362,11 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 
-#### Monitoring broker throughput and latency
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/monitoring-broker-throughput-and-latency?u=76281980)
+#### [Monitoring broker throughput and latency](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/monitoring-broker-throughput-and-latency?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/monitoring-broker-throughput-and-latency?u=76281980&t=0)** I'll now set up a Python producer to produce messages to this topic and set up three consumers in a consumer group to listen and consume those messages.
+> **[0:00](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/monitoring-broker-throughput-and-latency?u=76281980&t=0)** I'll now set up a [[Python (Programming Language)|Python]] producer to produce messages to this topic and set up three consumers in a consumer group to listen and consume those messages.
 >
 > **[0:10](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/monitoring-broker-throughput-and-latency?u=76281980&t=10)** Here is the code for the producer.
 >
@@ -2519,7 +2488,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (2), next (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** user_signups (4), fakeprofileproducer (1), fakeprofileconsumera (1), fakeprofileconsumerb (1), fakeprofileconsumerc (1)
 > **CLI Commands:** python (2), find (2), make (1)
 > **UI Navigation:** scroll down (2), select the (1), click on (1)
@@ -2533,8 +2502,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Debugging failed brokers, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/debugging-failed-brokers-part-1?u=76281980)
+#### [Debugging failed brokers, part 1](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/debugging-failed-brokers-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2634,7 +2602,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), next (1)
 > **Code Identifiers:** user_signups (3)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** find (1)
@@ -2642,8 +2609,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 
-#### Debugging failed brokers, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/debugging-failed-brokers-part-2?u=76281980)
+#### [Debugging failed brokers, part 2](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/debugging-failed-brokers-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2683,7 +2649,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/debugging-failed-brokers-part-2?u=76281980&t=99)** Observe that two partitions, Partition 0 and Partition 3 are offline because they do not have the minimum number of in-sync replicas up and available. Because our replication factor was 3 and the min in-sync replicas was two, this topic was available even after we lost one broker, but with the loss of two brokers, you can see that certain partitions are no longer available.
 >
-> **[2:06](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/debugging-failed-brokers-part-2?u=76281980&t=126)** Because this happens to be a simulation, we can actually fix this very, very easily.
+> **[2:06](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/debugging-failed-brokers-part-2?u=76281980&t=126)** Because this happens to be a [[Simulation]], we can actually fix this very, very easily.
 >
 > **[2:11](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/debugging-failed-brokers-part-2?u=76281980&t=131)** I'm going to head back to the terminal window and bring up Broker 2 using server-2.properties, use kafka-server-start and bring up Broker 2 so that it's up and running.
 >
@@ -2713,7 +2679,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Simulation]] (1), next (1)
+> **Frameworks & Libraries:** [[Simulation]] (1)
 > **Code Identifiers:** user_signups (4)
 > **CLI Commands:** find (2)
 > **Cross-References:** go back to (1)
@@ -2722,8 +2688,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** warning (1)
 
-#### Debugging slow consumers
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/debugging-slow-consumers?u=76281980)
+#### [Debugging slow consumers](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/debugging-slow-consumers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2793,7 +2758,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** user_signups (1)
 > **Cross-References:** go back to (1)
 > **Tools:** terminal (1)
@@ -2804,8 +2768,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configuring alerts
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-alerts?u=76281980)
+#### [Configuring alerts](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-alerts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2835,7 +2798,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-alerts?u=76281980&t=65)** We haven't configured any actions.
 >
-> **[1:07](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-alerts?u=76281980&t=67)** The Confluent platform also exposes a nice REST API that you can use to view all of the alerts that have been triggered on Confluent.
+> **[1:07](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-alerts?u=76281980&t=67)** The Confluent platform also exposes a nice [[Representational State Transfer (REST)|REST]] API that you can use to view all of the alerts that have been triggered on Confluent.
 >
 > **[1:18](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-alerts?u=76281980&t=78)** We'll use this in just a bit.
 >
@@ -2871,7 +2834,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-alerts?u=76281980&t=153)** The action specifies what action you want to take when the trigger is fired, that is, when zookeeper is down.
 >
-> **[2:39](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-alerts?u=76281980&t=159)** You can choose to send email, send PagerDuty notification or Slack.
+> **[2:39](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-alerts?u=76281980&t=159)** You can choose to send email, send PagerDuty notification or [[Slack]].
 >
 > **[2:43](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-alerts?u=76281980&t=163)** Let's send an email.
 >
@@ -2883,7 +2846,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-alerts?u=76281980&t=190)** We've set up a trigger and configured a corresponding action.
 >
-> **[3:16](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-alerts?u=76281980&t=196)** Now, we need to wait for the event to occur. Now because this is a simulation, we can go to the ZooKeeper tab and just kill Zookeeper.
+> **[3:16](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-alerts?u=76281980&t=196)** Now, we need to wait for the event to occur. Now because this is a [[Simulation]], we can go to the ZooKeeper tab and just kill Zookeeper.
 >
 > **[3:25](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-alerts?u=76281980&t=205)** Zookeeper is now no longer running.
 >
@@ -2899,7 +2862,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-alerts?u=76281980&t=232)** Now let's look at the API that we can use to get the history of all of the alerts.
 >
-> **[3:57](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-alerts?u=76281980&t=237)** Specify the URL for your Control Center localhost: 9021/2.0/alerts/history, and you can get a Json response with all of the alerts that have been fired so far.
+> **[3:57](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-alerts?u=76281980&t=237)** Specify the URL for your Control Center localhost: 9021/2.0/alerts/history, and you can get a [[JSON]] response with all of the alerts that have been fired so far.
 >
 > **[4:11](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-alerts?u=76281980&t=251)** Let's go over to our email and check to see whether we've received any email and we have it.
 >
@@ -2911,7 +2874,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), [[Troubleshooting]] (1), [[Debugging]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Slack]] (1), [[Simulation]] (1), [[JSON]] (1)
 > **Env Vars:** api (2), rest (1), urgent (1), attention (1), needed (1)
 > **UI Navigation:** click on (3), go to (2)
 > **Prerequisites:** configure (4), set up (1)
@@ -2920,8 +2883,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **URLs:** [loonycorn.com](https://loonycorn.com) (1)
 
-#### Configuring email settings for alerts
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-email-settings-for-alerts?u=76281980)
+#### [Configuring email settings for alerts](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-email-settings-for-alerts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3003,7 +2965,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-email-settings-for-alerts?u=76281980&t=171)** Well, I follow the steps here in this link.
 >
-> **[2:54](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-email-settings-for-alerts?u=76281980&t=174)** Essentially, you go to your Google account and under security you should find a way to generate app passwords.
+> **[2:54](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-email-settings-for-alerts?u=76281980&t=174)** Essentially, you go to your [[Google]] account and under security you should find a way to generate app passwords.
 >
 > **[3:02](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/configuring-email-settings-for-alerts?u=76281980&t=182)** App passwords are useful on devices that don't support two step verification.
 >
@@ -3057,7 +3019,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), hit (2), cloud (1), [[Google]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Prerequisites:** configure (6), set up (2)
 > **Code Identifiers:** under_replication (3), under_replicated_partition_alert (1), under_replication_alert (1), control_center_start (1)
 > **UI Navigation:** click on (3), go to (2), select the (1)
@@ -3071,8 +3033,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/summary-and-next-steps?u=76281980)
+#### [Summary and next steps](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/summary-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3082,7 +3043,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/summary-and-next-steps?u=76281980&t=13)** We started this course off by introducing the Confluent platform to work with Kafka.
 >
-> **[0:18](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/summary-and-next-steps?u=76281980&t=18)** We saw that the Confluent platform is built on top of Apache Kafka using Kafka as the core, and it offers many enterprise grade features.
+> **[0:18](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/summary-and-next-steps?u=76281980&t=18)** We saw that the Confluent platform is built on top of [[Apache Kafka]] using Kafka as the core, and it offers many enterprise grade features.
 >
 > **[0:27](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/summary-and-next-steps?u=76281980&t=27)** We saw how the Confluent platform offers the Confluent Control Center user interface that we could use to monitor our cluster health and the health of all of the Kafka components that we run.
 >
@@ -3096,13 +3057,13 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/summary-and-next-steps?u=76281980&t=79)** Now, this brings us to the very end of this course.
 >
-> **[1:22](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/summary-and-next-steps?u=76281980&t=82)** If you're interested in studying further, here are some other courses on LinkedIn learning that you might find interesting. If you're interested in Big Data Processing, Apache Spark is a great technology to learn. Apache Spark Essential Training Big Data Engineering is a great course for this.
+> **[1:22](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/summary-and-next-steps?u=76281980&t=82)** If you're interested in studying further, here are some other courses on [[LinkedIn]] learning that you might find interesting. If you're interested in [[Big Data]] Processing, [[Apache Spark]] is a great technology to learn. Apache Spark Essential Training Big Data Engineering is a great course for this.
 >
 > **[1:38](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/summary-and-next-steps?u=76281980&t=98)** If Kafka is what you're interested in, here is another course that you might find enjoyable.
 >
-> **[1:43](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/summary-and-next-steps?u=76281980&t=103)** Deploying and Running Apache Kafka on Kubernetes.
+> **[1:43](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/summary-and-next-steps?u=76281980&t=103)** Deploying and Running Apache Kafka on [[Kubernetes]].
 >
-> **[1:48](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/summary-and-next-steps?u=76281980&t=108)** In order to learn more about stream processing with Kafka, you can view Stream Processing Design Patterns with Kafka Streams.
+> **[1:48](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/summary-and-next-steps?u=76281980&t=108)** In order to learn more about stream processing with Kafka, you can view Stream Processing [[Design Patterns]] with Kafka Streams.
 >
 > **[1:55](https://www.linkedin.com/learning/troubleshooting-and-debugging-kafka/summary-and-next-steps?u=76281980&t=115)** And if you're interested in configuring and tuning your Kafka cluster, Tuning Kafka might be the right course for you.
 >
@@ -3116,7 +3077,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Apache Kafka]] (2), [[Big Data]] (2), [[Apache Spark]] (2), [[Troubleshooting]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Apache Kafka]] (2), [[Big Data]] (2), [[Apache Spark]] (2), [[LinkedIn]] (1), [[Kubernetes]] (1)
 > **CLI Commands:** apache (4), find (2)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** ksqldb (1)

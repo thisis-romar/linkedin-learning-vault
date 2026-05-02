@@ -117,8 +117,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Planning a multicloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/planning-a-multicloud?u=76281980)
+#### [Planning a multicloud](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/planning-a-multicloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -134,7 +133,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/planning-a-multicloud?u=76281980&t=41)** Hi, I'm Dave Linthicum, internationally known expert and consultant.
 >
-> **[0:44](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/planning-a-multicloud?u=76281980&t=44)** In this LinkedIn Learning course I'll use pragmatic examples, including case studies.
+> **[0:44](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/planning-a-multicloud?u=76281980&t=44)** In this [[LinkedIn]] Learning course I'll use pragmatic examples, including case studies.
 >
 > **[0:49](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/planning-a-multicloud?u=76281980&t=49)** I'll explain processes to help you gain an understanding of the steps to undertake for making successful multicloud deployments the first time.
 >
@@ -142,18 +141,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [dave] (1)
 
-#### What is multicloud?
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-is-multicloud?u=76281980)
+#### [What is multicloud?](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-is-multicloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-is-multicloud?u=76281980&t=0)** - [Instructor] Multicloud is the use of more than one cloud computing service, typically a public cloud in a cloud deployment.
+> **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-is-multicloud?u=76281980&t=0)** - [Instructor] Multicloud is the use of more than one [[Cloud Computing]] service, typically a public cloud in a cloud deployment.
 >
-> **[0:08](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-is-multicloud?u=76281980&t=8)** Public clouds include Amazon Web Services, Microsoft and Google, as well as other clouds where storage and compute services exist away from those who are consuming it.
+> **[0:08](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-is-multicloud?u=76281980&t=8)** Public clouds include [[Amazon Web Services (AWS)|Amazon Web Services]], [[Microsoft]] and [[Google]], as well as other clouds where storage and compute services exist away from those who are consuming it.
 >
 > **[0:18](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-is-multicloud?u=76281980&t=18)** For our purposes, we'll talk about multicloud as a cloud deployment that leverages more than a single public cloud, which may or may not include a private cloud and or a legacy system.
 >
@@ -161,11 +159,11 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-is-multicloud?u=76281980&t=35)** This can be confusing because this type of deployment has more than a single cloud.
 >
-> **[0:40](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-is-multicloud?u=76281980&t=40)** Both multicloud and hybrid cloud refer to cloud deployments that integrate more than one cloud.
+> **[0:40](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-is-multicloud?u=76281980&t=40)** Both multicloud and [[Hybrid Cloud]] refer to cloud deployments that integrate more than one cloud.
 >
-> **[0:46](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-is-multicloud?u=76281980&t=46)** They differ in the kinds of cloud infrastructure they include.
+> **[0:46](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-is-multicloud?u=76281980&t=46)** They differ in the kinds of [[Cloud Infrastructure]] they include.
 >
-> **[0:49](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-is-multicloud?u=76281980&t=49)** NIST or the National Industry Standards and Technology Organization defines hybrid cloud as a cloud infrastructure that is a composition of two or more distinct cloud infrastructures, such as private, community, or public, that remain unique entities but are bound together by standardized proprietary technology.
+> **[0:49](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-is-multicloud?u=76281980&t=49)** [[NIST]] or the National Industry Standards and Technology Organization defines hybrid cloud as a cloud infrastructure that is a composition of two or more distinct cloud infrastructures, such as private, community, or public, that remain unique entities but are bound together by standardized proprietary technology.
 >
 > **[1:10](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-is-multicloud?u=76281980&t=70)** However, legacy systems paired with a public cloud are also called hybrid clouds.
 >
@@ -187,24 +185,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (14), [[Hybrid Cloud]] (2), [[Cloud Infrastructure]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Hybrid Cloud]] (2), [[Cloud Infrastructure]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft]] (1)
 > **Env Vars:** nist (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why multicloud?
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/why-multicloud?u=76281980)
+#### [Why multicloud?](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/why-multicloud?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/why-multicloud?u=76281980&t=0)** - [Instructor] The core reason that businesses leverage multi-cloud is choice.
 >
-> **[0:04](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/why-multicloud?u=76281980&t=4)** By leveraging more than a single public cloud provider, we now have more choices in terms of the cloud services.
+> **[0:04](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/why-multicloud?u=76281980&t=4)** By leveraging more than a single public cloud provider, we now have more choices in terms of the [[Cloud Services]].
 >
-> **[0:10](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/why-multicloud?u=76281980&t=10)** So there's an opportunity to create a solution that meets your business's unique cloud infrastructure needs.
+> **[0:10](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/why-multicloud?u=76281980&t=10)** So there's an opportunity to create a solution that meets your business's unique [[Cloud Infrastructure]] needs.
 >
-> **[0:17](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/why-multicloud?u=76281980&t=17)** This includes storage, compute, databases, artificial intelligence systems, and other services that may be found to be best of breed, are better cloud services that are optimal in building solutions, thus by finding the best of breed cloud service for multiple vendors, we have the ability to build solutions that should be superior to solutions that are built around a single cloud provider.
+> **[0:17](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/why-multicloud?u=76281980&t=17)** This includes storage, compute, [[Databases]], [[Artificial Intelligence (AI)|artificial intelligence]] systems, and other services that may be found to be best of breed, are better cloud services that are optimal in building solutions, thus by finding the best of breed cloud service for multiple vendors, we have the ability to build solutions that should be superior to solutions that are built around a single cloud provider.
 >
 > **[0:40](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/why-multicloud?u=76281980&t=40)** This allows us to mix cloud services that are closer to solving the problems at hand, not being forced to select from a limited number of services that are part of a single cloud provider.
 >
@@ -230,15 +227,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (16), business (5), [[Cloud Infrastructure]] (1), [[Databases]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (3), [[Cloud Infrastructure]] (1), [[Databases]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multicloud advantages
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-advantages?u=76281980)
+#### [Multicloud advantages](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-advantages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -252,7 +248,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-advantages?u=76281980&t=28)** This means that we're able to select the best cloud service for our applications by not being limited to a single public cloud provider's set of services.
 >
-> **[0:37](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-advantages?u=76281980&t=37)** As a result, we're able to build better and more innovative solutions, and developers are not limited by the services that they are able to leverage, at least to the extent of the combined cloud services that can be created by a multicloud deployment.
+> **[0:37](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-advantages?u=76281980&t=37)** As a result, we're able to build better and more innovative solutions, and developers are not limited by the services that they are able to leverage, at least to the extent of the combined [[Cloud Services]] that can be created by a multicloud deployment.
 >
 > **[0:52](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-advantages?u=76281980&t=52)** Opportunities to reduce costs, meaning that while we can't always reduce costs, that when leveraging multicloud, that we have the ability to select services that are more cost efficient than others.
 >
@@ -270,15 +266,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), business (6)
+> **Frameworks & Libraries:** [[Cloud Services]] (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the last (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multicloud disadvantages
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-disadvantages?u=76281980)
+#### [Multicloud disadvantages](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-disadvantages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -286,7 +281,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-disadvantages?u=76281980&t=6)** They include cost of complexity, cost of operations and cost of security.
 >
-> **[0:12](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-disadvantages?u=76281980&t=12)** Cost of complexity refers to the fact that we have many public cloud services to deal with.
+> **[0:12](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-disadvantages?u=76281980&t=12)** Cost of complexity refers to the fact that we have many public [[Cloud Services]] to deal with.
 >
 > **[0:17](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-disadvantages?u=76281980&t=17)** For example, we may go from 1000 cloud services that are leveraged from a business application to as many as 5,000 cloud services.
 >
@@ -308,18 +303,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Security]] (4), business (2), next (2), application (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (3)
 > **Definitions:** refers to (1), means that (1)
 > **Cross-References:** later in (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-you-should-know?u=76281980&t=0)** - [Instructor] In order to get the most out of this course, you should have an understanding of enterprise architecture for both traditional and cloud-based systems.
+> **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-you-should-know?u=76281980&t=0)** - [Instructor] In order to get the most out of this course, you should have an understanding of [[Enterprise Architecture]] for both traditional and cloud-based systems.
 >
 > **[0:08](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-you-should-know?u=76281980&t=8)** And it's helpful to understand the basics of computing, including compute, storage, and networking.
 >
@@ -327,11 +321,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-you-should-know?u=76281980&t=20)** But if those are not on your list of skills, we'll provide enough information here to help you keep up.
 >
-> **[0:26](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-you-should-know?u=76281980&t=26)** If you're not yet comfortable around some of the topics mentioned, I suggest you review one, two, or all three of the following courses: Learning Cloud Computing: Core Concepts, [[Cloud Architecture- Core Concepts]], Learning Cloud Computing: Public Cloud Platforms.
+> **[0:26](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-you-should-know?u=76281980&t=26)** If you're not yet comfortable around some of the topics mentioned, I suggest you review one, two, or all three of the following courses: Learning [[Cloud Computing]]: Core Concepts, [[Cloud Architecture- Core Concepts]], Learning Cloud Computing: Public Cloud Platforms.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Enterprise Architecture]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Enterprise Architecture]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -339,14 +333,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Business case for multicloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/business-case-for-multicloud?u=76281980)
+#### [Business case for multicloud](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/business-case-for-multicloud?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/business-case-for-multicloud?u=76281980&t=0)** - [Instructor] A business case for multi-cloud is largely related to the specific needs of the business.
 >
-> **[0:05](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/business-case-for-multicloud?u=76281980&t=5)** It isn't helpful to simply generically list off what's considered to be the value of multi-cloud computing.
+> **[0:05](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/business-case-for-multicloud?u=76281980&t=5)** It isn't helpful to simply generically list off what's considered to be the value of multi-[[Cloud Computing]].
 >
 > **[0:13](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/business-case-for-multicloud?u=76281980&t=13)** What is important is to calculate adding value to your business as related to leveraging multi-cloud.
 >
@@ -370,7 +363,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/business-case-for-multicloud?u=76281980&t=97)** To do this, they are looking to leverage a multi-cloud.
 >
-> **[1:39](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/business-case-for-multicloud?u=76281980&t=99)** This allows the marketing and sales departments to leverage best of breed cloud services, including artificially intelligence systems from one provider, a database from another provider and a development platform from yet another provider.
+> **[1:39](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/business-case-for-multicloud?u=76281980&t=99)** This allows the marketing and sales departments to leverage best of breed [[Cloud Services]], including artificially intelligence systems from one provider, a database from another provider and a development platform from yet another provider.
 >
 > **[1:53](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/business-case-for-multicloud?u=76281980&t=113)** Together, these will form new customer oriented systems that allow the customer to design and customize their own hammocks via mobile app.
 >
@@ -386,14 +379,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), business (10), next (1), game (1), database (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[Cloud Services]] (1)
 > **Analogies:** such as (2)
 > **Code Identifiers:** ecommerce (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Migration planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/migration-planning?u=76281980)
+#### [Migration planning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/migration-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -413,7 +405,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/migration-planning?u=76281980&t=34)** Note, it's not a good idea to pick too many applications or too few.
 >
-> **[0:39](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/migration-planning?u=76281980&t=39)** Pick applications that are somewhat related, such as sharing the same data, a part of the same logical grouping, such as sales, marketing, human resources, things like that.
+> **[0:39](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/migration-planning?u=76281980&t=39)** Pick applications that are somewhat related, such as sharing the same data, a part of the same logical grouping, such as sales, marketing, [[Human Resources (HR)|human resources]], things like that.
 >
 > **[0:50](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/migration-planning?u=76281980&t=50)** Understanding the core business requirements around the application and data set refers to understanding the core business purpose for each application that currently exists.
 >
@@ -423,15 +415,15 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/migration-planning?u=76281980&t=80)** This includes putting the application in coupled data stores in one of the following categories, rehost, replatform, refactor/rearchitect, repurchase, retire, and retain.
 >
-> **[1:34](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/migration-planning?u=76281980&t=94)** Rehost means that we're just moving it from one type of server on premise to the same server in the cloud, such as Windows NT to Windows NT in the cloud.
+> **[1:34](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/migration-planning?u=76281980&t=94)** Rehost means that we're just moving it from one type of server on premise to the same server in the cloud, such as [[Windows]] NT to Windows NT in the cloud.
 >
 > **[1:43](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/migration-planning?u=76281980&t=103)** Replatform means that we're changing the platform.
 >
-> **[1:46](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/migration-planning?u=76281980&t=106)** We're removing from Red Hat Linux on premises to AWS Linux in the cloud.
+> **[1:46](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/migration-planning?u=76281980&t=106)** We're removing from [[Red Hat Linux]] on premises to AWS [[Linux]] in the cloud.
 >
 > **[1:51](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/migration-planning?u=76281980&t=111)** Refactor means that we're changing some or all of the application to have code that's able to run better in the cloud.
 >
-> **[1:58](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/migration-planning?u=76281980&t=118)** Repurchase, meaning we're replacing the system with a SaaS-based cloud.
+> **[1:58](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/migration-planning?u=76281980&t=118)** Repurchase, meaning we're replacing the system with a [[SaaS]]-based cloud.
 >
 > **[2:03](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/migration-planning?u=76281980&t=123)** Retire means removing the application altogether.
 >
@@ -447,19 +439,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), data (9), application (9), business (6), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Human Resources (HR)|Human resources]] (1), [[Red Hat Linux]] (1), [[Linux]] (1), [[SaaS]] (1)
 > **Definitions:** means that (3), refers to (2)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (1), aws (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/security-planning?u=76281980)
+#### [Security planning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/security-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/security-planning?u=76281980&t=0)** - [Instructor] It's essential to do security planning before selecting your multi-cloud security model.
+> **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/security-planning?u=76281980&t=0)** - [Instructor] It's essential to do security planning before selecting your multi-[[Cloud Security]] model.
 >
 > **[0:05](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/security-planning?u=76281980&t=5)** Since we need to figure out our security requirements then the logical security model, and how we plan on deploying it to our multicloud.
 >
@@ -487,7 +478,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/security-planning?u=76281980&t=123)** This is the installation and testing of the multicloud security technology solution and then defining an operations approach for security.
 >
-> **[2:12](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/security-planning?u=76281980&t=132)** This is also called security operations or SecOps.
+> **[2:12](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/security-planning?u=76281980&t=132)** This is also called [[Security Operations]] or SecOps.
 >
 > **[2:16](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/security-planning?u=76281980&t=136)** All too often security is not well planned for cloud deployments.
 >
@@ -495,21 +486,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (32), cloud (4), business (2), management (2), data (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (3), [[Security Operations]] (1)
 > **Definitions:** means that (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** iam (1)
 > **Speakers:** - [instructor] (1)
 
-#### Governance planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/governance-planning?u=76281980)
+#### [Governance planning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/governance-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/governance-planning?u=76281980&t=0)** - [Instructor] Governance is critically important to multi-cloud considering that not only are we controlling access to services within a single cloud provider, but we're also controlling access to services within many cloud providers.
 >
-> **[0:13](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/governance-planning?u=76281980&t=13)** Governance is able to place guardrails around using resources, such as cloud storage and cloud compute or specific services such as one of the tens of thousands of microservices that may make up a system.
+> **[0:13](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/governance-planning?u=76281980&t=13)** Governance is able to place guardrails around using resources, such as [[Cloud Storage]] and cloud compute or specific services such as one of the tens of thousands of [[Microservices]] that may make up a system.
 >
 > **[0:25](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/governance-planning?u=76281980&t=25)** These guardrails are in place to put limits on how, when, and for what purpose that these services and resources are being assessed.
 >
@@ -533,14 +523,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (14), [[Security]] (2), business (2), [[Microservices]] (1), data (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (1), [[Microservices]] (1)
 > **Analogies:** such as (4), for example (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Operations planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/operations-planning?u=76281980)
+#### [Operations planning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/operations-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -554,7 +543,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/operations-planning?u=76281980&t=41)** When doing multicloud operations planning, it's important to understand both the requirements of the business, such as uptime expectations, as well as requirements for the technology you're running within your multicloud deployment.
 >
-> **[0:54](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/operations-planning?u=76281980&t=54)** For example, how the databases, serverless systems, container clusters, and other technologies that you have in place need to be operated as well as secured and governed.
+> **[0:54](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/operations-planning?u=76281980&t=54)** For example, how the [[Databases]], serverless systems, container clusters, and other technologies that you have in place need to be operated as well as secured and governed.
 >
 > **[1:04](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/operations-planning?u=76281980&t=64)** Keep in mind that successful operations is how most businesses perceive the value of multicloud.
 >
@@ -564,24 +553,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Security]] (1), cloud (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Skills and tools needed
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/skills-and-tools-needed?u=76281980)
+#### [Skills and tools needed](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/skills-and-tools-needed?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/skills-and-tools-needed?u=76281980&t=0)** - [Instructor] You'll need layers of skills and talent to design, build, and deploy a multicloud solution.
 >
-> **[0:06](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/skills-and-tools-needed?u=76281980&t=6)** They include: cloud and multicloud architects, security, governance, and operations planning subject matter experts, security, governance, and operations technology subject matter experts, cloud application developers, and cloud platform subject matter experts such as Amazon Web Service architects or Microsoft Azure architects.
+> **[0:06](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/skills-and-tools-needed?u=76281980&t=6)** They include: cloud and multicloud architects, security, governance, and operations planning subject matter experts, security, governance, and operations technology subject matter experts, cloud application developers, and cloud platform subject matter experts such as Amazon Web Service architects or [[Microsoft Azure]] architects.
 >
 > **[0:26](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/skills-and-tools-needed?u=76281980&t=26)** Cloud and multicloud architects are people who have many different skills and knowledge that allows him or her for a fully optimized cloud and multicloud solution.
 >
-> **[0:36](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/skills-and-tools-needed?u=76281980&t=36)** These people typically have a large array of eclectic skills ranging from security, governance, operations, application development, databases, networking, storage and compute.
+> **[0:36](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/skills-and-tools-needed?u=76281980&t=36)** These people typically have a large array of eclectic skills ranging from security, governance, operations, [[Application Development]], [[Databases]], networking, storage and compute.
 >
 > **[0:47](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/skills-and-tools-needed?u=76281980&t=47)** This is a critical role in that they can make or break a multicloud deployment if the wrong decisions are made.
 >
@@ -595,7 +583,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/skills-and-tools-needed?u=76281980&t=87)** Cloud application developers are those people who know how to build, deploy, and test application solutions on a multicloud or a specific public cloud provider.
 >
-> **[1:37](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/skills-and-tools-needed?u=76281980&t=97)** They also typically have DevOps skills or development and operations, such as setting up tool chains, DevOps tools, or anything that is needed to design, build, test and deploy applications on a multicloud platform.
+> **[1:37](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/skills-and-tools-needed?u=76281980&t=97)** They also typically have [[DevOps]] skills or development and operations, such as setting up tool chains, [[DevOps Tools]], or anything that is needed to design, build, test and deploy applications on a multicloud platform.
 >
 > **[1:50](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/skills-and-tools-needed?u=76281980&t=110)** Cloud platform subject matter experts are people you need to have around since private and public clouds are needed.
 >
@@ -603,21 +591,20 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/skills-and-tools-needed?u=76281980&t=127)** No two multicloud projects are exactly the same, and you'll likely find that you need different skills for each multicloud deployment.
 >
-> **[2:14](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/skills-and-tools-needed?u=76281980&t=134)** These may include edge computing, SMEs or subject matter experts, serverless computing SMEs, containers, and container orchestrations and such, and other technologies that may not even be understood at this time.
+> **[2:14](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/skills-and-tools-needed?u=76281980&t=134)** These may include edge computing, SMEs or subject matter experts, [[Serverless Computing]] SMEs, containers, and container orchestrations and such, and other technologies that may not even be understood at this time.
 >
 > **[2:26](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/skills-and-tools-needed?u=76281980&t=146)** Keep an open mind around who you'll need to leverage to meet the unique needs of your project.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), [[Security]] (5), application (3), [[Databases]] (2), web (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Microsoft Azure]] (1), [[Application Development]] (1), [[DevOps]] (1), [[DevOps Tools]] (1)
 > **Analogies:** such as (3)
 > **Prerequisites:** you'll need (3)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Other things to consider
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/other-things-to-consider?u=76281980)
+#### [Other things to consider](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/other-things-to-consider?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -627,7 +614,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/other-things-to-consider?u=76281980&t=22)** Here are a few essentials to consider.
 >
-> **[0:24](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/other-things-to-consider?u=76281980&t=24)** Because this is not a one and done type project, and we'll be continually improving our multi-cloud deployment, including adding and removing cloud services and even clouds based on the changing needs of the business.
+> **[0:24](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/other-things-to-consider?u=76281980&t=24)** Because this is not a one and done type project, and we'll be continually improving our multi-cloud deployment, including adding and removing [[Cloud Services]] and even clouds based on the changing needs of the business.
 >
 > **[0:36](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/other-things-to-consider?u=76281980&t=36)** This is a marathon, not a sprint, so be prepared to fund and staff the ongoing journey to multi-cloud.
 >
@@ -657,7 +644,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (13), business (3), [[Security]] (2), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for example (1), such as (1)
 > **Warnings:** keep in mind (2)
@@ -669,8 +656,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Public clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/public-clouds?u=76281980)
+#### [Public clouds](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/public-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -678,21 +664,21 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/public-clouds?u=76281980&t=4)** Those public clouds are foundational to a multi-cloud architecture.
 >
-> **[0:07](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/public-clouds?u=76281980&t=7)** Simply put, IaaS, or infrastructures-as-a-service public clouds are public cloud services that provide infrastructure, such as storage and compute.
+> **[0:07](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/public-clouds?u=76281980&t=7)** Simply put, [[IaaS]], or infrastructures-as-a-service public clouds are public [[Cloud Services]] that provide infrastructure, such as storage and compute.
 >
-> **[0:16](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/public-clouds?u=76281980&t=16)** Besides IaaS public clouds, other types of public clouds include, software as a service, or SaaS, as well as platform as a service, or PaaS.
+> **[0:16](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/public-clouds?u=76281980&t=16)** Besides IaaS public clouds, other types of public clouds include, [[SaaS|software as a service]], or [[SaaS]], as well as [[PaaS|platform as a service]], or [[PaaS]].
 >
-> **[0:27](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/public-clouds?u=76281980&t=27)** SaaS public clouds, or software as a service, are basically applications delivered over the internet as a very dynamic website, such as [salesforce.com](https://salesforce.com), even Google Docs.
+> **[0:27](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/public-clouds?u=76281980&t=27)** SaaS public clouds, or software as a service, are basically applications delivered over the internet as a very dynamic website, such as [salesforce.com](https://salesforce.com), even [[Google]] Docs.
 >
-> **[0:39](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/public-clouds?u=76281980&t=39)** PaaS, or platform as a service, is basically application development, deployment and operations as a service.
+> **[0:39](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/public-clouds?u=76281980&t=39)** PaaS, or platform as a service, is basically [[Application Development]], deployment and operations as a service.
 >
-> **[0:46](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/public-clouds?u=76281980&t=46)** While there are three basic types of public clouds, we're focusing on infrastructure as a service, or IaaS, in this course, since it's most relevant to what a multi-cloud is.
+> **[0:46](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/public-clouds?u=76281980&t=46)** While there are three basic types of public clouds, we're focusing on [[IaaS|infrastructure as a service]], or IaaS, in this course, since it's most relevant to what a multi-cloud is.
 >
-> **[0:57](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/public-clouds?u=76281980&t=57)** This is because public IaaS clouds offer infrastructure that you typically find inside most traditional data centers, such as storage, compute, databases, network, things like that.
+> **[0:57](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/public-clouds?u=76281980&t=57)** This is because public IaaS clouds offer infrastructure that you typically find inside most traditional data centers, such as storage, compute, [[Databases]], network, things like that.
 >
 > **[1:08](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/public-clouds?u=76281980&t=68)** Public clouds are able to offer things as a service for use by anyone who can pay for their usage and thus, they are delivered over the open internet.
 >
-> **[1:17](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/public-clouds?u=76281980&t=77)** This means that while we once had to purchase our own storage systems and compute systems as well as find a place to run them, now we can rent these services over the internet for usage prices that are a fraction of what buying the hardware or software would cost.
+> **[1:17](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/public-clouds?u=76281980&t=77)** This means that while we once had to purchase our own storage systems and compute systems as well as find a place to run them, now we can rent these services over the internet for usage prices that are a fraction of what buying the [[Hardware]] or software would cost.
 >
 > **[1:32](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/public-clouds?u=76281980&t=92)** IaaS clouds provide specific advantages, such as the ability to save capital resources by not having to purchase hardware, software and data center space to invest back into more strategic resources of the business.
 >
@@ -716,19 +702,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), [[IaaS]] (5), [[SaaS|Software as a service]] (2), [[SaaS]] (2), [[PaaS|Platform as a service]] (2)
+> **Frameworks & Libraries:** [[IaaS]] (5), [[Cloud Services]] (4), [[SaaS|Software as a service]] (2), [[SaaS]] (2), [[PaaS|Platform as a service]] (2)
 > **Analogies:** such as (4)
 > **CLI Commands:** find (3)
 > **Definitions:** means that (2)
 > **URLs:** [salesforce.com](https://salesforce.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Private clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/private-clouds?u=76281980)
+#### [Private clouds](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/private-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/private-clouds?u=76281980&t=0)** - [Instructor] Private clouds are basically versions of public cloud systems that are able to run on our own hardware within our own data center.
+> **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/private-clouds?u=76281980&t=0)** - [Instructor] [[Private Clouds]] are basically versions of public cloud systems that are able to run on our own [[Hardware]] within our own data center.
 >
 > **[0:07](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/private-clouds?u=76281980&t=7)** Private clouds have been used in the past when considering that many enterprises viewed public clouds as unsecure considering they were not run on hardware that the enterprises owned.
 >
@@ -754,16 +739,15 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/private-clouds?u=76281980&t=85)** This is due to the fact that it's a popular and well supported private cloud operating system platform that's an open source system.
 >
-> **[1:32](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/private-clouds?u=76281980&t=92)** Much like virtualization systems, private clouds are able to provide basic infrastructure as a service cloud service, such as storage and compute, much the same way as public clouds do.
+> **[1:32](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/private-clouds?u=76281980&t=92)** Much like virtualization systems, private clouds are able to provide basic [[IaaS|infrastructure as a service]] cloud service, such as storage and compute, much the same way as public clouds do.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), [[Private Clouds]] (5), [[Hardware]] (2), data (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Private Clouds]] (5), [[Hardware]] (2), [[IaaS|Infrastructure as a service]] (1)
 > **Analogies:** such as (3)
 > **Speakers:** - [instructor] (1)
 
-#### Tools for operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-operations?u=76281980)
+#### [Tools for operations](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -787,14 +771,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), cloud (1), [[Security]] (1), database (1), data (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tools for security
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-security?u=76281980)
+#### [Tools for security](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -802,7 +784,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-security?u=76281980&t=10)** There are three types of security tools to consider, audit tools, encryption tools, and IAM, or identity and access management.
 >
-> **[0:18](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-security?u=76281980&t=18)** Audit tools assist you with auditing systems to deal with legal compliance or other reasons that you want to perform an audit.
+> **[0:18](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-security?u=76281980&t=18)** Audit tools assist you with auditing systems to deal with [[Legal Compliance]] or other reasons that you want to perform an audit.
 >
 > **[0:26](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-security?u=76281980&t=26)** For example, some healthcare regulations require that you keep track of how things are secured and how the data is locked up and how the processing has occurred on the data dealing with security.
 >
@@ -814,26 +796,25 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-security?u=76281980&t=64)** Identity and access management, or IAM, this is security that allows you to track users, services, and other entities that interact with your multicloud.
 >
-> **[1:12](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-security?u=76281980&t=72)** IAM uses a directory to keep track of entities, such as Microsoft Active Directory.
+> **[1:12](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-security?u=76281980&t=72)** IAM uses a directory to keep track of entities, such as [[Microsoft]] [[Active Directory]].
 >
 > **[1:18](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-security?u=76281980&t=78)** IAM services allow access or not depending on their identity and if they are provided with partial or complete access.
 >
 > **[1:26](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-security?u=76281980&t=86)** For complex distributed systems, this is typically the best approach to security.
 >
-> **[1:31](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-security?u=76281980&t=91)** Other types of security include specialized security, such as security testing tools for developers and security technology that is made specifically for edge computing and IoT devices.
+> **[1:31](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-security?u=76281980&t=91)** Other types of security include specialized security, such as [[Security Testing]] tools for developers and security technology that is made specifically for edge computing and [[IoT]] devices.
 >
-> **[1:42](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-security?u=76281980&t=102)** Other data security allows data storage systems to operate effectively with security systems that are provided by the database provider or third-party tools.
+> **[1:42](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-security?u=76281980&t=102)** Other [[Data Security]] allows [[Data Storage]] systems to operate effectively with security systems that are provided by the database provider or third-party tools.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), data (6), management (2), [[Legal Compliance]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Legal Compliance]] (1), [[Microsoft]] (1), [[Active Directory]] (1), [[Security Testing]] (1), [[IoT]] (1)
 > **Env Vars:** iam (4)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tools for governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-governance?u=76281980)
+#### [Tools for governance](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -855,7 +836,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-governance?u=76281980&t=66)** Basically you're controlling access by using governance policies that are enforced by the governance tool.
 >
-> **[1:12](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-governance?u=76281980&t=72)** Service governance is governancing cloud services or APIs that are typically a part of larger resources, as we just covered.
+> **[1:12](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-governance?u=76281980&t=72)** Service governance is governancing [[Cloud Services]] or APIs that are typically a part of larger resources, as we just covered.
 >
 > **[1:21](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-governance?u=76281980&t=81)** These are discrete services that usually carry out a single function, such as updating a date in a database or doing a credit check for a customer.
 >
@@ -863,7 +844,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-governance?u=76281980&t=97)** These work by the application or human calling the service governance system to access the API or service, which will allow access according to policy.
 >
-> **[1:48](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-governance?u=76281980&t=108)** Compliance governance is much like service and resource governance and is created especially to deal with the legal compliance around the use of cloud resources and services.
+> **[1:48](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-governance?u=76281980&t=108)** Compliance governance is much like service and resource governance and is created especially to deal with the [[Legal Compliance]] around the use of cloud resources and services.
 >
 > **[1:59](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/tools-for-governance?u=76281980&t=119)** An example of this is checking to ensure that a transaction is legal as defined by the country and local laws that may be applicable, such as forcing the recording of a to-the-minute timestamp so that it can easily be audited by authorities.
 >
@@ -879,15 +860,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), application (2), database (1), api (1), [[Legal Compliance]] (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (1), [[Legal Compliance]] (1)
 > **Analogies:** such as (6)
 > **Definitions:** is a  (2)
 > **Env Vars:** api (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting legacy systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/connecting-legacy-systems?u=76281980)
+#### [Connecting legacy systems](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/connecting-legacy-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -901,9 +881,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/connecting-legacy-systems?u=76281980&t=20)** Thus, it really depends on what data you need to share, where it exists in the legacy system, and where it exists within your multi-cloud deployment.
 >
-> **[0:30](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/connecting-legacy-systems?u=76281980&t=30)** Most of the time, it's databases residing on legacy systems, such as Db2 or Oracle, that are exchanging data with databases within a multi-cloud, such as AWS's DynamoDB, or hundreds of other databases that exist on public clouds.
+> **[0:30](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/connecting-legacy-systems?u=76281980&t=30)** Most of the time, it's [[Databases]] residing on legacy systems, such as Db2 or Oracle, that are exchanging data with databases within a multi-cloud, such as AWS's DynamoDB, or hundreds of other databases that exist on public clouds.
 >
-> **[0:45](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/connecting-legacy-systems?u=76281980&t=45)** For this, we'll leverage some type of data integration technology that's able to connect to a database on the legacy system, extract the data, and then change the structure of the data and sometimes the content, so it's understood by the databases receiving the data on the cloud.
+> **[0:45](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/connecting-legacy-systems?u=76281980&t=45)** For this, we'll leverage some type of [[Data Integration]] technology that's able to connect to a database on the legacy system, extract the data, and then change the structure of the data and sometimes the content, so it's understood by the databases receiving the data on the cloud.
 >
 > **[1:01](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/connecting-legacy-systems?u=76281980&t=61)** Sometimes, this technology works in the cloud and does the data integration from that platform.
 >
@@ -915,26 +895,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), cloud (6), [[Databases]] (4), aws (1), database (1)
+> **Frameworks & Libraries:** [[Databases]] (4), [[Data Integration]] (2)
 > **Analogies:** such as (3)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data integration between clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/data-integration-between-clouds?u=76281980)
+#### [Data integration between clouds](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/data-integration-between-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/data-integration-between-clouds?u=76281980&t=0)** - [Narrator] Just as we need to exchange data between cloud providers and legacy systems, also, we need to exchange data between cloud brands as well.
 >
-> **[0:08](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/data-integration-between-clouds?u=76281980&t=8)** For example, a database and data storage system running on Amazon web services to the same, running on Microsoft.
+> **[0:08](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/data-integration-between-clouds?u=76281980&t=8)** For example, a database and [[Data Storage]] system running on [[Amazon Web Services (AWS)|Amazon web services]] to the same, running on [[Microsoft]].
 >
 > **[0:15](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/data-integration-between-clouds?u=76281980&t=15)** Much the same approaches apply here.
 >
-> **[0:17](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/data-integration-between-clouds?u=76281980&t=17)** The ability to leverage data integration, cloud services, or software that can connect both data stores, and deal with the differences as the data moves from one database on one cloud to another.
+> **[0:17](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/data-integration-between-clouds?u=76281980&t=17)** The ability to leverage [[Data Integration]], [[Cloud Services]], or software that can connect both data stores, and deal with the differences as the data moves from one database on one cloud to another.
 >
-> **[0:29](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/data-integration-between-clouds?u=76281980&t=29)** Sometimes many databases to many databases, and other more complex integration patterns.
+> **[0:29](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/data-integration-between-clouds?u=76281980&t=29)** Sometimes many [[Databases]] to many databases, and other more complex integration patterns.
 >
 > **[0:36](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/data-integration-between-clouds?u=76281980&t=36)** Keep in mind that this data should move in real time on request.
 >
@@ -946,14 +925,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), cloud (5), business (3), database (2), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Data Storage]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft]] (1), [[Data Integration]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Linking things together
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/linking-things-together?u=76281980)
+#### [Linking things together](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/linking-things-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -979,7 +957,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), [[Security]] (3), functional (1)
 > **CLI Commands:** find (4), make (1)
 > **Definitions:** means that (2), is an  (1)
 > **Prerequisites:** you'll need (1)
@@ -990,8 +967,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building an ops process
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-an-ops-process?u=76281980)
+#### [Building an ops process](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-an-ops-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1001,15 +977,15 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-an-ops-process?u=76281980&t=14)** When developing multicloud operations we're often doubling or tripling the amount of services under management, as well as managing many different types of brands of services running at the same time.
 >
-> **[0:25](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-an-ops-process?u=76281980&t=25)** So why are we leveraging more than one storage system or several different databases?
+> **[0:25](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-an-ops-process?u=76281980&t=25)** So why are we leveraging more than one storage system or several different [[Databases]]?
 >
-> **[0:30](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-an-ops-process?u=76281980&t=30)** It's to take advantage of best of breed, meaning that developers and application builders are picking the technology, in this case cloud services, that they find to be best fit for the types of problems they are solving.
+> **[0:30](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-an-ops-process?u=76281980&t=30)** It's to take advantage of best of breed, meaning that developers and application builders are picking the technology, in this case [[Cloud Services]], that they find to be best fit for the types of problems they are solving.
 >
 > **[0:42](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-an-ops-process?u=76281980&t=42)** So how do we build an ops process around operating very complex multicloud deployments?
 >
 > **[0:48](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-an-ops-process?u=76281980&t=48)** You just need to think in terms of what problems you need to solve and create processes around that idea.
 >
-> **[0:53](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-an-ops-process?u=76281980&t=53)** We can break this process down into SecOps, or security operations.
+> **[0:53](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-an-ops-process?u=76281980&t=53)** We can break this process down into SecOps, or [[Security Operations]].
 >
 > **[0:59](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-an-ops-process?u=76281980&t=59)** Or how we're going to run and monitor core security systems such as identity and access management and encryption.
 >
@@ -1019,19 +995,18 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-an-ops-process?u=76281980&t=82)** App Ops, or application operations, are how we're going to monitor the applications that are running.
 >
-> **[1:28](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-an-ops-process?u=76281980&t=88)** Data Ops, or data operations, are how we're going to monitor and operate databases in data storage in general.
+> **[1:28](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-an-ops-process?u=76281980&t=88)** Data Ops, or data operations, are how we're going to monitor and operate databases in [[Data Storage]] in general.
 >
 > **[1:35](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-an-ops-process?u=76281980&t=95)** Other ops or everything else that should need to be a part of this process, such as edge computing operations, and other types of systems that may or may not be a part of your multicloud.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (3), data (3), management (2), application (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Databases]] (3), [[Cloud Services]] (1), [[Security Operations]] (1), [[Data Storage]] (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
-#### Building ops automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-ops-automation?u=76281980)
+#### [Building ops automation](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-ops-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1047,9 +1022,9 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-ops-automation?u=76281980&t=38)** We do this by defining the requirements for each component of our multi-cloud, such as security, performance, applications, containers, et cetera, including everything that was named as part of our automation process from GovOps or Other Ops, or anything that you feel you need to be a part of your deployment.
 >
-> **[0:57](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-ops-automation?u=76281980&t=57)** As you can see here we're listing six things to consider, including SecOps or security operations, GovOps or government operations, PerfOps or performance operations, App Ops or application operations, Data Ops or data operations, and Other Ops, meaning everything else.
+> **[0:57](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-ops-automation?u=76281980&t=57)** As you can see here we're listing six things to consider, including SecOps or [[Security Operations]], GovOps or government operations, PerfOps or performance operations, App Ops or application operations, Data Ops or data operations, and Other Ops, meaning everything else.
 >
-> **[1:15](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-ops-automation?u=76281980&t=75)** Edge computing, IOT, things that may go into a particular ops process that you need that are specific to your deployment.
+> **[1:15](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-ops-automation?u=76281980&t=75)** Edge computing, [[IoT]], things that may go into a particular ops process that you need that are specific to your deployment.
 >
 > **[1:23](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-ops-automation?u=76281980&t=83)** Then it's a matter of looking at the marketplace and discovering what technologies are available to perform these automations.
 >
@@ -1067,14 +1042,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (7), cloud (4), [[Security]] (2), data (2), application (1)
+> **Frameworks & Libraries:** [[Security Operations]] (1), [[IoT]] (1)
 > **Analogies:** such as (2)
 > **Env Vars:** iot (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building reactive ops
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-reactive-ops?u=76281980)
+#### [Building reactive ops](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-reactive-ops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1086,7 +1060,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-reactive-ops?u=76281980&t=12)** Proactive ops are those automations that are able to discover problems before they actually cause problems, such as network packet errors that may indicate a network switch is going to fail and replacing it before a complete failure.
 >
-> **[0:25](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-reactive-ops?u=76281980&t=25)** Let's take a closer look at tools that support reactive operations including anything that can monitor, detect, and react.
+> **[0:25](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-reactive-ops?u=76281980&t=25)** Let's take a closer look at tools that support reactive operations including anything that can monitor, detect, and [[React.js|react]].
 >
 > **[0:33](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-reactive-ops?u=76281980&t=33)** Monitor, a cloud service or resource ongoing looks at what's working and what may not be working.
 >
@@ -1102,14 +1076,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[Automation]] (3), [[React.js|React]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (2)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building proactive ops
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-proactive-ops?u=76281980)
+#### [Building proactive ops](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-proactive-ops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1137,13 +1110,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), ai (2), [[Automation]] (1), business (1), data (1)
 > **Analogies:** for example (2), such as (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
-#### Case study: Multicloud operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-operations?u=76281980)
+#### [Case study: Multicloud operations](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1151,23 +1122,23 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-operations?u=76281980&t=6)** Henry's Hammocks needs to deploy a multi-cloud to support its growing operations around the production and sales of special custom hammocks.
 >
-> **[0:14](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-operations?u=76281980&t=14)** As such, it needs to figure out a set of operational processes, automation, approaches and tooling to support a multi-cloud that includes Amazon Web Services, Microsoft and Google.
+> **[0:14](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-operations?u=76281980&t=14)** As such, it needs to figure out a set of operational processes, automation, approaches and tooling to support a multi-cloud that includes [[Amazon Web Services (AWS)|Amazon Web Services]], [[Microsoft]] and [[Google]].
 >
 > **[0:27](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-operations?u=76281980&t=27)** Henry's first task is understand what their multi-cloud solution is, including services and resource that will be under operational control.
 >
-> **[0:35](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-operations?u=76281980&t=35)** They need to build a multi-cloud operations process around SecOps, or identity access management that spans all clouds, GovOps, a service governance system that spans all clouds, PerfOps, a database and application performance monitoring system, App Ops, monitoring Henry's 100 core applications, Data Ops, monitoring their SQL server database systems as well as older Oracle databases that may be running in the cloud, Other Ops, in this case, an edge-based computing system that operates on the factory floor.
+> **[0:35](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-operations?u=76281980&t=35)** They need to build a multi-cloud operations process around SecOps, or identity access management that spans all clouds, GovOps, a service governance system that spans all clouds, PerfOps, a database and application performance monitoring system, App Ops, monitoring Henry's 100 core applications, Data Ops, monitoring their [[Microsoft SQL Server|SQL server]] [[Database Systems]] as well as older Oracle [[Databases]] that may be running in the cloud, Other Ops, in this case, an edge-based computing system that operates on the factory floor.
 >
 > **[1:08](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-operations?u=76281980&t=68)** Henry is able to automate about 80% of the types of operations listed above, including about 40% of the automation tools that are reactive in nature and 60% that are more proactive in nature, leveraging AI Ops and other state-of-the-art operational tools.
 >
 > **[1:24](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-operations?u=76281980&t=84)** Using this process, automation, technology, approaches and ops configuration, Henry is able to maintain a good up-tying record for their multi-cloud deployment, including the ability to detect issues prior to them stopping production, in many instances.
 >
-> **[1:39](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-operations?u=76281980&t=99)** Most of the success with ops deployment is around Henry's ability to abstract the operational complexity away from the humans that operate the system, instead of dealing with the details around monitoring and management all of the cloud services within a multi-cloud deployment, much of this, automated and controlled through a user interface that's able to provide a single pane of glass, in terms of how all of the complex systems are seen, monitored and corrected.
+> **[1:39](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-operations?u=76281980&t=99)** Most of the success with ops deployment is around Henry's ability to abstract the operational complexity away from the humans that operate the system, instead of dealing with the details around monitoring and management all of the [[Cloud Services]] within a multi-cloud deployment, much of this, automated and controlled through a user interface that's able to provide a single pane of glass, in terms of how all of the complex systems are seen, monitored and corrected.
 >
-> **[2:05](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-operations?u=76281980&t=125)** Indeed, as Henry adds more services, the way that he'll approach ops should not require any additional human resources.
+> **[2:05](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-operations?u=76281980&t=125)** Indeed, as Henry adds more services, the way that he'll approach ops should not require any additional [[Human Resources (HR)|human resources]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[Automation]] (3), management (2), database (2), [[Amazon Web Services (AWS)|Amazon web services]] (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft]] (1), [[Google]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Database Systems]] (1)
 > **Env Vars:** sql (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
@@ -1177,8 +1148,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building a dev process
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-a-dev-process?u=76281980)
+#### [Building a dev process](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-a-dev-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1190,7 +1160,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-a-dev-process?u=76281980&t=33)** So what do you need to understand about development in multi-cloud?
 >
-> **[0:36](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-a-dev-process?u=76281980&t=36)** First, that we are changing the way that we do development from something that is very static and inflexible to something that is very flexible, agile and focuses on delivering value.
+> **[0:36](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-a-dev-process?u=76281980&t=36)** First, that we are changing the way that we do development from something that is very static and inflexible to something that is very flexible, [[Agile Development|agile]] and focuses on delivering value.
 >
 > **[0:46](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-a-dev-process?u=76281980&t=46)** For those of you charged with building and development approach in a development architectures to support design, development, integration, testing and deployment on a multi-cloud, there are a few basics that become important, especially regarding what is done to build the development platform of a multi-cloud.
 >
@@ -1202,7 +1172,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-a-dev-process?u=76281980&t=89)** Typically, questions that need to be answered include, what's the business requirements, including the purpose of the application that the developer intends to build for the business?
 >
-> **[1:38](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-a-dev-process?u=76281980&t=98)** What's the purpose for building and deploying applications, including the use of agile and DevOps?
+> **[1:38](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-a-dev-process?u=76281980&t=98)** What's the purpose for building and deploying applications, including the use of agile and [[DevOps]]?
 >
 > **[1:44](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-a-dev-process?u=76281980&t=104)** what tool chains are needed for the developers to become successful?
 >
@@ -1210,9 +1180,9 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-a-dev-process?u=76281980&t=114)** What about security and governance requirements?
 >
-> **[1:57](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-a-dev-process?u=76281980&t=117)** What about databases and other storage requirements?
+> **[1:57](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-a-dev-process?u=76281980&t=117)** What about [[Databases]] and other storage requirements?
 >
-> **[2:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-a-dev-process?u=76281980&t=120)** Any special technology needed, such as AI, IoT, serverless, et cetera?
+> **[2:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-a-dev-process?u=76281980&t=120)** Any special technology needed, such as AI, [[IoT]], serverless, et cetera?
 >
 > **[2:07](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-a-dev-process?u=76281980&t=127)** Multi-cloud is not just a platform where enterprise applications reside, but a platform where we build net new applications as well.
 >
@@ -1220,7 +1190,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), [[Agile Development|Agile]] (2), business (2), application (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[DevOps]] (1), [[Databases]] (1), [[IoT]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** pov (1)
 > **UI Navigation:** select the (1)
@@ -1228,16 +1198,15 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-automation?u=76281980)
+#### [Building automation](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-automation?u=76281980&t=0)** - [Instructor] Automation of the development process for multicloud is really just a use case for DevOps automation.
+> **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-automation?u=76281980&t=0)** - [Instructor] Automation of the development process for multicloud is really just a use case for [[DevOps]] automation.
 >
 > **[0:06](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-automation?u=76281980&t=6)** You'll find that many of the tools, processes, and culture changes are the same.
 >
-> **[0:12](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-automation?u=76281980&t=12)** If you're looking for more detail on DevOps and the automation of DevOps processes and tools to support software development for multicloud or cloud computing in general, make sure to check out the other courses here that are specific to DevOps in the cloud.
+> **[0:12](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-automation?u=76281980&t=12)** If you're looking for more detail on DevOps and the automation of DevOps processes and tools to support [[Software Development]] for multicloud or [[Cloud Computing]] in general, make sure to check out the other courses here that are specific to DevOps in the cloud.
 >
 > **[0:26](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-automation?u=76281980&t=26)** For our purposes here, we can look at a typical DevOps tool chain and understand how things are automated, generally speaking.
 >
@@ -1247,7 +1216,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-automation?u=76281980&t=39)** Build automation is tooling that it takes to design and build software applications, passing it on to automated testing.
 >
-> **[0:46](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-automation?u=76281980&t=46)** Anything that's related to building software here, including continuous integration tools, that combine all subsystems into a single unified software system.
+> **[0:46](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-automation?u=76281980&t=46)** Anything that's related to building software here, including [[Continuous Integration (CI)|continuous integration]] tools, that combine all subsystems into a single unified software system.
 >
 > **[0:55](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-automation?u=76281980&t=55)** Release automation is moving to testing, perhaps staging, and then deployment.
 >
@@ -1257,17 +1226,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (5), [[DevOps]] (5), cloud (2), [[Software Development]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (5), [[Software Development]] (1), [[Cloud Computing]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Continuous everything
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/continuous-everything?u=76281980)
+#### [Continuous everything](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/continuous-everything?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/continuous-everything?u=76281980&t=0)** - [Narrator] One of the main themes of building systems using Agile and DevOps processes and tool chains is that we're iterating everything or being continuous.
+> **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/continuous-everything?u=76281980&t=0)** - [Narrator] One of the main themes of building systems using [[Agile Development|Agile]] and [[DevOps]] processes and tool chains is that we're iterating everything or being continuous.
 >
 > **[0:09](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/continuous-everything?u=76281980&t=9)** By saying continuous, I mean, we're always developing, always designing, always testing, and always improving the software during the development process as it's being defined and deployed from the tool chain, but also continuously releasing better versions for any reason at any time.
 >
@@ -1285,18 +1253,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (3), business (3), cloud (2), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (3), [[Agile Development|Agile]] (1)
 > **Versions:** 1.0 (1), 2.0 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Integration of dev and ops
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/integration-of-dev-and-ops?u=76281980)
+#### [Integration of dev and ops](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/integration-of-dev-and-ops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/integration-of-dev-and-ops?u=76281980&t=0)** - [Instructor] Before we leave the topic of development of software for multi-cloud, we need to address the most important aspect of development in DevOps, or how ops and dev work together.
+> **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/integration-of-dev-and-ops?u=76281980&t=0)** - [Instructor] Before we leave the topic of development of software for multi-cloud, we need to address the most important aspect of development in [[DevOps]], or how ops and dev work together.
 >
 > **[0:11](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/integration-of-dev-and-ops?u=76281980&t=11)** Development operations were traditionally groups that did not work together.
 >
@@ -1324,14 +1291,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[DevOps]] (3), business (3), teams (1)
+> **Frameworks & Libraries:** [[DevOps]] (3)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case study: Multicloud development
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-development?u=76281980)
+#### [Case study: Multicloud development](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1339,9 +1305,9 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-development?u=76281980&t=2)** They're looking to leverage a multi-cloud to bring more value to their business.
 >
-> **[0:06](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-development?u=76281980&t=6)** So we're looking at how Henry is leveraging DevOps to redo his development processes, including his development and operations team, to build and deploy applications to create the maximum amount of value as the company can from the use of multi-cloud based applications.
+> **[0:06](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-development?u=76281980&t=6)** So we're looking at how Henry is leveraging [[DevOps]] to redo his development processes, including his development and operations team, to build and deploy applications to create the maximum amount of value as the company can from the use of multi-cloud based applications.
 >
-> **[0:23](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-development?u=76281980&t=23)** Since the multi-cloud will support several brands of clouds, including Amazon Web Services, Microsoft, and Google, the development processes and development tools, including design, coding, testing, and deployment need to work with many different target platforms.
+> **[0:23](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-development?u=76281980&t=23)** Since the multi-cloud will support several brands of clouds, including [[Amazon Web Services (AWS)|Amazon Web Services]], [[Microsoft]], and [[Google]], the development processes and development tools, including design, coding, testing, and deployment need to work with many different target platforms.
 >
 > **[0:38](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-development?u=76281980&t=38)** Thus, Henry's Hammocks will need to consider this and the process they create as well as the tools they leverage in the tool chains.
 >
@@ -1351,7 +1317,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-development?u=76281980&t=67)** By that, I mean the developer and operation engineers will be in the same group, and they will need to work together to ensure that the applications are being developed, tested, and deployed promptly.
 >
-> **[1:19](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-development?u=76281980&t=79)** The operations team is working closely with the developer to ensure that the deployed applications are operating in an optimized way, and any problems are fixed using a flexible agile process and supporting tool chain.
+> **[1:19](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-development?u=76281980&t=79)** The operations team is working closely with the developer to ensure that the deployed applications are operating in an optimized way, and any problems are fixed using a flexible [[Agile Development|agile]] process and supporting tool chain.
 >
 > **[1:32](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-development?u=76281980&t=92)** By leveraging this, the company is able to deploy solutions in one third the time as before they leveraged DevOps and fixes occur 20 times faster as prior.
 >
@@ -1359,7 +1325,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), [[DevOps]] (6), business (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (6), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft]] (1), [[Google]] (1), [[Agile Development|Agile]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -1367,14 +1333,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Resource governance and multicloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/resource-governance-and-multicloud?u=76281980)
+#### [Resource governance and multicloud](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/resource-governance-and-multicloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/resource-governance-and-multicloud?u=76281980&t=0)** - [Instructor] Resources are anything that provides a holistic service from a cloud provider such as storage, compute, databases, AI, et cetera.
+> **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/resource-governance-and-multicloud?u=76281980&t=0)** - [Instructor] Resources are anything that provides a holistic service from a cloud provider such as storage, compute, [[Databases]], AI, et cetera.
 >
-> **[0:09](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/resource-governance-and-multicloud?u=76281980&t=9)** They're also known as coarse grained services considering that they can be broken down into much smaller services or microservices.
+> **[0:09](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/resource-governance-and-multicloud?u=76281980&t=9)** They're also known as coarse grained services considering that they can be broken down into much smaller services or [[Microservices]].
 >
 > **[0:16](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/resource-governance-and-multicloud?u=76281980&t=16)** We need to govern these services considering the value that each brings.
 >
@@ -1398,14 +1363,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[Databases]] (2), ai (1), [[Microservices]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Microservices]] (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** known as (1), refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Service governance and multicloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/service-governance-and-multicloud?u=76281980)
+#### [Service governance and multicloud](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/service-governance-and-multicloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1413,9 +1377,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/service-governance-and-multicloud?u=76281980&t=10)** Many refer to these services as fine-grained, whereas resources themselves are coarse-grained.
 >
-> **[0:15](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/service-governance-and-multicloud?u=76281980&t=15)** For example, add data to an Amazon Web Services storage bucket, which is a small function that updates the bucket with a small amount of data, update a table with specific customer information, such as a single customer, allocate more processors to a specific task or ask the cloud provider to add more CPUs.
+> **[0:15](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/service-governance-and-multicloud?u=76281980&t=15)** For example, add data to an [[Amazon Web Services (AWS)|Amazon Web Services]] storage bucket, which is a small function that updates the bucket with a small amount of data, update a table with specific customer information, such as a single customer, allocate more processors to a specific task or ask the cloud provider to add more CPUs.
 >
-> **[0:34](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/service-governance-and-multicloud?u=76281980&t=34)** Keep in mind that microservices are an example of a fine-grained service.
+> **[0:34](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/service-governance-and-multicloud?u=76281980&t=34)** Keep in mind that [[Microservices]] are an example of a fine-grained service.
 >
 > **[0:38](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/service-governance-and-multicloud?u=76281980&t=38)** These types of services carve out very specific and narrowly defined activities.
 >
@@ -1443,19 +1407,18 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/service-governance-and-multicloud?u=76281980&t=117)** For example, using a database update service to insert a fraudulent SSN or Social Security number, with that data being checked for the service policy, and perhaps the database integrity checks as well.
 >
-> **[2:09](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/service-governance-and-multicloud?u=76281980&t=129)** Finally, works with the multi-cloud security system to ensure that access is allowed via security before the governance policies are even leveraged.
+> **[2:09](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/service-governance-and-multicloud?u=76281980&t=129)** Finally, works with the multi-[[Cloud Security]] system to ensure that access is allowed via security before the governance policies are even leveraged.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), cloud (4), database (3), [[Security]] (3), [[Amazon Web Services (AWS)|Amazon web services]] (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microservices]] (1), [[Cloud Security]] (1)
 > **Analogies:** such as (4), for example (2)
 > **Env Vars:** ssn (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cost governance and multicloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/cost-governance-and-multicloud?u=76281980)
+#### [Cost governance and multicloud](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/cost-governance-and-multicloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1475,24 +1438,23 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/cost-governance-and-multicloud?u=76281980&t=55)** Cost governance is also related to the concept of FinOps, which will be covered in another video.
 >
-> **[1:01](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/cost-governance-and-multicloud?u=76281980&t=61)** FinOps, or financial operations, is related to the cost of cloud computing as a set of concepts, processes, and disciplines that are related to managing the cost of cloud computing and the value that it may be able to deliver.
+> **[1:01](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/cost-governance-and-multicloud?u=76281980&t=61)** FinOps, or [[Financial Operations]], is related to the cost of [[Cloud Computing]] as a set of concepts, processes, and disciplines that are related to managing the cost of cloud computing and the value that it may be able to deliver.
 >
 > **[1:14](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/cost-governance-and-multicloud?u=76281980&t=74)** One can consider cost governance as tools that allow FinOps to monitor and control cloud computing cost properly.
 >
 > **[1:21](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/cost-governance-and-multicloud?u=76281980&t=81)** FinOps includes: inform, means getting visibility into all cloud spending, optimize, meaning automating and rightsizing resources, and operate, meaning continuously improving cost efficiency.
 >
-> **[1:34](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/cost-governance-and-multicloud?u=76281980&t=94)** Just like resource and service governance, cost governance is mandatory for most cloud deployments given the number of cloud resources and cloud services you have to keep track of.
+> **[1:34](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/cost-governance-and-multicloud?u=76281980&t=94)** Just like resource and service governance, cost governance is mandatory for most cloud deployments given the number of cloud resources and [[Cloud Services]] you have to keep track of.
 >
 > **[1:44](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/cost-governance-and-multicloud?u=76281980&t=104)** Without having automated monitoring and enforcement of cost policies, this could not be tracked manually.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[Financial Operations]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (3), [[Financial Operations]] (1), [[Cloud Services]] (1)
 > **Analogies:** such as (2), just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security governance and multicloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/security-governance-and-multicloud?u=76281980)
+#### [Security governance and multicloud](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/security-governance-and-multicloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1510,11 +1472,11 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/security-governance-and-multicloud?u=76281980&t=42)** and doing so by using automated services that are not likely to make a mistake.
 >
-> **[0:48](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/security-governance-and-multicloud?u=76281980&t=48)** In this graphic, we show that security governance spans many cloud services across cloud brands.
+> **[0:48](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/security-governance-and-multicloud?u=76281980&t=48)** In this graphic, we show that security governance spans many [[Cloud Services]] across cloud brands.
 >
 > **[0:52](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/security-governance-and-multicloud?u=76281980&t=52)** All of these services in the right-hand side of your screen are going to exist in different cloud providers.
 >
-> **[0:58](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/security-governance-and-multicloud?u=76281980&t=58)** Such as Amazon Web Services, Microsoft and Google.
+> **[0:58](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/security-governance-and-multicloud?u=76281980&t=58)** Such as [[Amazon Web Services (AWS)|Amazon Web Services]], [[Microsoft]] and [[Google]].
 >
 > **[1:01](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/security-governance-and-multicloud?u=76281980&t=61)** This is in contrast to cloud deployment where we are attempting to leverage manual processes to track services and resource usage and governance of those resources.
 >
@@ -1524,28 +1486,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), cloud (5), application (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft]] (1), [[Google]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case study: Multicloud governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-governance?u=76281980)
+#### [Case study: Multicloud governance](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-governance?u=76281980&t=0)** - [Narrator] Back to our company Henry's Hammocks, and moving them closer to a multicloud deployment.
 >
-> **[0:05](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-governance?u=76281980&t=5)** Now that we have operations planning well defined, Henry needs to have the ability to govern several AWS object storage systems, govern 10 compute and storage instances on the Google cloud in support of manufacturing processes, govern five different databases running on the Microsoft cloud, as well as five more compute instances.
+> **[0:05](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-governance?u=76281980&t=5)** Now that we have operations planning well defined, Henry needs to have the ability to govern several AWS object storage systems, govern 10 compute and storage instances on the [[Google Cloud Platform (GCP)|Google cloud]] in support of manufacturing processes, govern five different [[Databases]] running on the [[Microsoft]] cloud, as well as five more compute instances.
 >
-> **[0:25](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-governance?u=76281980&t=25)** Additionally, Henry's IT group needs to manage cross-cloud security including user and process authentication, manage cross-cloud governance that are able to enforce custom policies for all resources, services, applications, and databases, provide core cost monitoring and governance services, and or automations.
+> **[0:25](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-governance?u=76281980&t=25)** Additionally, Henry's IT group needs to manage cross-[[Cloud Security]] including user and process authentication, manage cross-cloud governance that are able to enforce custom policies for all resources, services, applications, and databases, provide core cost monitoring and governance services, and or automations.
 >
 > **[0:44](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-governance?u=76281980&t=44)** In order to provide governances needed by Henry's multi-cloud deployment, his IT group needs to do the following, define the resources and services that need to be governed on all public clouds that are a part of Henry's multi-cloud.
 >
 > **[0:56](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-governance?u=76281980&t=56)** This means what they do, what purpose they serve, who owns them, and any defined rules of access.
 >
-> **[1:03](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-governance?u=76281980&t=63)** Define the business usage for each service and or resources on the cloud, what they do, what they should cost, and current allocated budgets for cloud services and resources.
+> **[1:03](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-governance?u=76281980&t=63)** Define the business usage for each service and or resources on the cloud, what they do, what they should cost, and current allocated budgets for [[Cloud Services]] and resources.
 >
 > **[1:13](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-governance?u=76281980&t=73)** Evaluate and select a resource governance tool, cost governance, and service governance tools, selecting the best tools that are able to fit the governance needs of Henry's multi-cloud.
 >
@@ -1569,7 +1530,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), [[Databases]] (2), [[Security]] (2), aws (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Cloud Security]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft]] (1), [[Cloud Services]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - [narrator] (1)
@@ -1579,14 +1540,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is multicloud FinOps?
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-is-multicloud-finops?u=76281980)
+#### [What is multicloud FinOps?](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-is-multicloud-finops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-is-multicloud-finops?u=76281980&t=0)** - [Instructor] FinOps is short for financial operations.
+> **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-is-multicloud-finops?u=76281980&t=0)** - [Instructor] FinOps is short for [[Financial Operations]].
 >
-> **[0:02](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-is-multicloud-finops?u=76281980&t=2)** It's a financial cloud management approach that combines best practices, a culture of efficiency, and effective systems to produce absolute financial and operational control for cloud computing spending.
+> **[0:02](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-is-multicloud-finops?u=76281980&t=2)** It's a financial cloud management approach that combines best practices, a culture of efficiency, and effective systems to produce absolute financial and operational control for [[Cloud Computing]] spending.
 >
 > **[0:14](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/what-is-multicloud-finops?u=76281980&t=14)** As we covered in the video defining cost governance, it's essential for multicloud when considering the complexity of the multicloud platforms different ways that usage is billed, our own systems accounted for.
 >
@@ -1610,14 +1570,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), business (3), [[Financial Operations]] (1), management (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Financial Operations]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we covered (1)
 > **Definitions:** short for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multicloud cost usage monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-cost-usage-monitoring?u=76281980)
+#### [Multicloud cost usage monitoring](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-cost-usage-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1649,13 +1608,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), data (3)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multicloud cost usage reporting
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-cost-usage-reporting?u=76281980)
+#### [Multicloud cost usage reporting](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-cost-usage-reporting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1671,13 +1628,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), cloud (2), database (1)
 > **Analogies:** such as (4)
 > **Env Vars:** sla (1)
 > **Speakers:** - [narrator] (1)
 
-#### Multicloud cost controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-cost-controls?u=76281980)
+#### [Multicloud cost controls](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-cost-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1687,26 +1642,25 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-cost-controls?u=76281980&t=13)** All this may seem to be something that many multicloud users will not like.
 >
-> **[0:17](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-cost-controls?u=76281980&t=17)** The reality is that this puts the burden on cost control on the cost control system rather than on the humans that are consuming the cloud services.
+> **[0:17](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-cost-controls?u=76281980&t=17)** The reality is that this puts the burden on cost control on the cost control system rather than on the humans that are consuming the [[Cloud Services]].
 >
 > **[0:26](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-cost-controls?u=76281980&t=26)** Since other processes is watching out overspending, this removes the stress that you'll run over budget and have to deal with the fallout over that.
 >
-> **[0:35](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-cost-controls?u=76281980&t=35)** Indeed these cost control systems such as cost governance systems or other types of cloud cost management systems are there to remove the chance of mistakes being made and cost overruns occurring.
+> **[0:35](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-cost-controls?u=76281980&t=35)** Indeed these cost control systems such as cost governance systems or other types of cloud [[Cost Management]] systems are there to remove the chance of mistakes being made and cost overruns occurring.
 >
 > **[0:46](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-cost-controls?u=76281980&t=46)** This can be building applications that are not as cost efficient as they should be and that's the cost control system points to improvements that need to be made or leaving a resource running when it should have been shut down, such as a cloud-based storage system that's no longer needed.
 >
-> **[1:01](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-cost-controls?u=76281980&t=61)** It does us no good if we're able to gather cost data but not react to the data in terms of controlling spending.
+> **[1:01](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-cost-controls?u=76281980&t=61)** It does us no good if we're able to gather cost data but not [[React.js|react]] to the data in terms of controlling spending.
 >
 > **[1:08](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/multicloud-cost-controls?u=76281980&t=68)** Cost control allow us to put limits on what cloud spending can occur and keeps cloud users out of trouble.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), data (2), [[Cost Management]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (1), [[Cost Management]] (1), [[React.js|React]] (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [narrator] (1)
 
-#### Case study: Multicloud FinOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-finops?u=76281980)
+#### [Case study: Multicloud FinOps](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-finops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1722,7 +1676,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), business (2), management (1), [[Automation]] (1)
 > **Env Vars:** sla (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1731,8 +1684,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Logical planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/logical-planning?u=76281980)
+#### [Logical planning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/logical-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1744,7 +1696,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/logical-planning?u=76281980&t=25)** So, in order to create a sound logical design for our multi-cloud, the focus is on what technology patterns need to be applied, not what specific technology.
 >
-> **[0:35](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/logical-planning?u=76281980&t=35)** As you can see here, we're configuring infrastructure, such as storage and compute, applications, including connected databases, security, and governance which are systemic to operational tooling, such as anything dealing with management, monitoring, and the concept of observability.
+> **[0:35](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/logical-planning?u=76281980&t=35)** As you can see here, we're configuring infrastructure, such as storage and compute, applications, including connected [[Databases]], security, and governance which are systemic to operational tooling, such as anything dealing with management, monitoring, and the concept of observability.
 >
 > **[0:51](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/logical-planning?u=76281980&t=51)** Note that our logical architecture may be different based on your requirements.
 >
@@ -1764,21 +1716,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), business (4), application (2), next (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Analogies:** such as (3)
 > **Warnings:** note that (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Physical planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/physical-planning?u=76281980)
+#### [Physical planning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/physical-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/physical-planning?u=76281980&t=0)** - [Instructor] The physical architecture or physical plan is the logical architecture with the technology defined along with the concepts.
 >
-> **[0:07](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/physical-planning?u=76281980&t=7)** For example, we may have defined the logical concept of object storage in the logical architecture, and in the physical, we defined a specific technology, say, Amazon Web Services S3 object storage.
+> **[0:07](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/physical-planning?u=76281980&t=7)** For example, we may have defined the logical concept of object storage in the logical architecture, and in the physical, we defined a specific technology, say, [[Amazon Web Services (AWS)|Amazon Web Services]] S3 object storage.
 >
 > **[0:19](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/physical-planning?u=76281980&t=19)** We're also defining the cloud providers that we're going to leverage, as well as any technologies that we may employ as part of those cloud providers.
 >
@@ -1788,17 +1739,17 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/physical-planning?u=76281980&t=46)** For most multicloud deployments, selecting the best storage and compute systems that are part of the public cloud will just be looking at the features, functions, and prices for public-cloud-based systems, all of them pretty similar.
 >
-> **[1:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/physical-planning?u=76281980&t=60)** However, you'll also have to pick less-understood specialized technologies, such as DevOps, edge computing, special purpose databases.
+> **[1:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/physical-planning?u=76281980&t=60)** However, you'll also have to pick less-understood specialized technologies, such as [[DevOps]], edge computing, special purpose [[Databases]].
 >
 > **[1:08](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/physical-planning?u=76281980&t=68)** They're going to take more analysis and testing.
 >
 > **[1:10](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/physical-planning?u=76281980&t=70)** Not to be overly concerning, but picking the wrong technology here can end up costing time and money.
 >
-> **[1:16](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/physical-planning?u=76281980&t=76)** So, be careful to understand your requirements specifically, as well as the technology that is a part of major brands of public cloud services or third-party providers, which are rapidly expanding.
+> **[1:16](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/physical-planning?u=76281980&t=76)** So, be careful to understand your requirements specifically, as well as the technology that is a part of major brands of public [[Cloud Services]] or third-party providers, which are rapidly expanding.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Amazon Web Services (AWS)|Amazon web services]] (1), aws (1), [[DevOps]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (1), [[DevOps]] (1), [[Databases]] (1), [[Cloud Services]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
@@ -1806,8 +1757,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-a-strategy?u=76281980)
+#### [Building a strategy](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-a-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1819,7 +1769,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-a-strategy?u=76281980&t=12)** The duration of this process may be one month or one year, depending on the complexity and scope.
 >
-> **[0:18](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-a-strategy?u=76281980&t=18)** The process we suggest in building a multi-cloud strategy includes business requirements or defining what business requirements are specific to the business.
+> **[0:18](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-a-strategy?u=76281980&t=18)** The process we suggest in building a multi-[[Cloud Strategy]] includes business requirements or defining what business requirements are specific to the business.
 >
 > **[0:27](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/building-a-strategy?u=76281980&t=27)** This includes any benefits and value that the use of multi-cloud can bring to the business.
 >
@@ -1833,19 +1783,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), business (7), [[Security]] (2)
+> **Frameworks & Libraries:** [[Cloud Strategy]] (1)
 > **Cross-References:** we covered (1), previous video (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deployment planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/deployment-planning?u=76281980)
+#### [Deployment planning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/deployment-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/deployment-planning?u=76281980&t=0)** - [Instructor] Deployment planning means that we're defining how we're going to move our physical multicloud solution into production.
+> **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/deployment-planning?u=76281980&t=0)** - [Instructor] [[Deployment Planning]] means that we're defining how we're going to move our physical multicloud solution into production.
 >
 > **[0:07](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/deployment-planning?u=76281980&t=7)** Keep in mind, we typically have dozens of moving parts to keep track of.
 >
@@ -1853,7 +1802,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/deployment-planning?u=76281980&t=14)** You'll reuse this process several times a year, typically.
 >
-> **[0:17](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/deployment-planning?u=76281980&t=17)** Although deployment planning may be a bit different for you depending on your core business requirements, a good list starts with DevOps integration planning or defining core DevOps processes and tool chains to be deployed to support your multicloud, configuration management planning or defining configuration management solutions including processes and tooling, security and governance planning.
+> **[0:17](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/deployment-planning?u=76281980&t=17)** Although deployment planning may be a bit different for you depending on your core business requirements, a good list starts with [[DevOps]] integration planning or defining core DevOps processes and tool chains to be deployed to support your multicloud, [[Configuration Management]] planning or defining configuration management solutions including processes and tooling, security and governance planning.
 >
 > **[0:39](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/deployment-planning?u=76281980&t=39)** How we're going to address security and governance after deployment.
 >
@@ -1869,17 +1818,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deployment Planning]] (2), [[DevOps]] (2), [[Configuration Management]] (2), [[Security]] (2), business (1)
+> **Frameworks & Libraries:** [[Deployment Planning]] (2), [[DevOps]] (2), [[Configuration Management]] (2)
 > **Definitions:** means that (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bringing it all together
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/bringing-it-all-together?u=76281980)
+#### [Bringing it all together](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/bringing-it-all-together?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/bringing-it-all-together?u=76281980&t=0)** - [Instructor] Multicloud deployment planning is really a matter of understanding that everything provided in this section in terms of how to understand, plan, and deploy a multicloud is a holistic process that really never stops.
+> **[0:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/bringing-it-all-together?u=76281980&t=0)** - [Instructor] Multicloud [[Deployment Planning]] is really a matter of understanding that everything provided in this section in terms of how to understand, plan, and deploy a multicloud is a holistic process that really never stops.
 >
 > **[0:14](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/bringing-it-all-together?u=76281980&t=14)** Indeed, while we're defining this as a set of orderly procedures, you'll find that you'll have to iterate through many of these again and again as business needs change or as you make mistakes.
 >
@@ -1893,7 +1841,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/bringing-it-all-together?u=76281980&t=40)** It's only purpose is to serve the business.
 >
-> **[0:43](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/bringing-it-all-together?u=76281980&t=43)** Often those building multiclouds look outside of the organization and the hype that leads the cloud computing industry and the media guidance for how they need to define in builder solutions.
+> **[0:43](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/bringing-it-all-together?u=76281980&t=43)** Often those building multiclouds look outside of the organization and the hype that leads the [[Cloud Computing]] industry and the media guidance for how they need to define in builder solutions.
 >
 > **[0:55](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/bringing-it-all-together?u=76281980&t=55)** That's never a good idea.
 >
@@ -1901,7 +1849,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Deployment Planning]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Deployment Planning]] (1), [[Cloud Computing]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -1911,8 +1859,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Staged deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/staged-deployment?u=76281980)
+#### [Staged deployment](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/staged-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1926,15 +1873,15 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/staged-deployment?u=76281980&t=21)** You may need to adapt this process to accommodate different or special business requirements.
 >
-> **[0:27](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/staged-deployment?u=76281980&t=27)** Although you may customize these processes, the basic steps in a staged deployment of a multicloud include selection and deployment of public cloud, cloud platforms, such as Amazon Web Services, Microsoft, and Google.
+> **[0:27](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/staged-deployment?u=76281980&t=27)** Although you may customize these processes, the basic steps in a staged deployment of a multicloud include selection and deployment of public cloud, cloud platforms, such as [[Amazon Web Services (AWS)|Amazon Web Services]], [[Microsoft]], and [[Google]].
 >
 > **[0:40](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/staged-deployment?u=76281980&t=40)** Monitoring and management are any operational tools that you need to put in place to watch and operate your multicloud.
 >
-> **[0:47](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/staged-deployment?u=76281980&t=47)** DevOps, including tool chains that are designed specifically for the types of applications that are going to be built and deployed on our multicloud.
+> **[0:47](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/staged-deployment?u=76281980&t=47)** [[DevOps]], including tool chains that are designed specifically for the types of applications that are going to be built and deployed on our multicloud.
 >
 > **[0:54](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/staged-deployment?u=76281980&t=54)** Security and governance, including any security and governance tooling that runs across the multicloud.
 >
-> **[1:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/staged-deployment?u=76281980&t=60)** Databases and storage, meaning any storage needs to support the applications or the business in general.
+> **[1:00](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/staged-deployment?u=76281980&t=60)** [[Databases]] and storage, meaning any storage needs to support the applications or the business in general.
 >
 > **[1:07](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/staged-deployment?u=76281980&t=67)** Also, et cetera, other specialized systems that you may need to deploy, such as edge computing, containers, serverless and such.
 >
@@ -1946,12 +1893,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), cloud (2), [[Security]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft]] (1), [[Google]] (1), [[DevOps]] (1), [[Databases]] (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Staged testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/staged-testing?u=76281980)
+#### [Staged testing](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/staged-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1967,7 +1913,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/staged-testing?u=76281980&t=41)** There are many types of testing to consider with a multi-cloud deployment.
 >
-> **[0:46](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/staged-testing?u=76281980&t=46)** For our purposes, we'll focus on unit testing, or testing something as a standalone component, such as an application or a database.
+> **[0:46](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/staged-testing?u=76281980&t=46)** For our purposes, we'll focus on [[Unit Testing]], or testing something as a standalone component, such as an application or a database.
 >
 > **[0:54](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/staged-testing?u=76281980&t=54)** Regression testing, or testing a system holistically by regressing through the various subsystems.
 >
@@ -1975,7 +1921,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/staged-testing?u=76281980&t=66)** Black box testing, or testing a system, platform, or component by just looking at the systems that are externalized such as the user interface or API.
 >
-> **[1:16](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/staged-testing?u=76281980&t=76)** White box testing, which is black box testing with the added functionality of looking at what the system is actually doing behind the scenes, such as testing a storage system and using the storage system monitoring system to look at how the internal systems are working.
+> **[1:16](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/staged-testing?u=76281980&t=76)** White box testing, which is black box testing with the added functionality of looking at what the system is actually doing behind the scenes, such as testing a storage system and using the storage [[System Monitoring]] system to look at how the internal systems are working.
 >
 > **[1:32](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/staged-testing?u=76281980&t=92)** You've heard the term trust but verify.
 >
@@ -1987,14 +1933,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), business (1), [[Unit Testing]] (1), application (1), database (1)
+> **Frameworks & Libraries:** [[Unit Testing]] (1), [[System Monitoring]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** api (1)
 > **Best Practices:** you should never (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case study: Multicloud deployment and testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-deployment-and-testing?u=76281980)
+#### [Case study: Multicloud deployment and testing](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-deployment-and-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2002,23 +1947,23 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-deployment-and-testing?u=76281980&t=5)** To recap, the IT group at Henry's Hammocks is worried that the planning, design and configuration may not be correct to meet the needs of the business and is looking not only to deploy their solution that has been defined previously but ensure that it's working correctly by testing the solution before it goes into production.
 >
-> **[0:24](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-deployment-and-testing?u=76281980&t=24)** Henry's Hammocks IT group is using a subset of the processes previously defined to include selection and deployment of public cloud platforms such as Amazon Web Services, Microsoft and Google.
+> **[0:24](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-deployment-and-testing?u=76281980&t=24)** Henry's Hammocks IT group is using a subset of the processes previously defined to include selection and deployment of public cloud platforms such as [[Amazon Web Services (AWS)|Amazon Web Services]], [[Microsoft]] and [[Google]].
 >
 > **[0:38](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-deployment-and-testing?u=76281980&t=38)** Monitoring and Management or any operational tools that need to be placed to watch and operate your multi-cloud.
 >
 > **[0:45](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-deployment-and-testing?u=76281980&t=45)** In this case, the IT group has selected tools that are able to monitor systems across public cloud providers which provides the lowest risk and cost.
 >
-> **[0:55](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-deployment-and-testing?u=76281980&t=55)** DevOps, including tool chains that are designed specifically for the types of applications that are going to be built and deployed, with the IT group selecting a single coding, development tool, continuous integration tool, continuous testing tool and continuous deployment tool that supports all cloud platforms existing in their multi-cloud.
+> **[0:55](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-deployment-and-testing?u=76281980&t=55)** [[DevOps]], including tool chains that are designed specifically for the types of applications that are going to be built and deployed, with the IT group selecting a single coding, development tool, [[Continuous Integration (CI)|continuous integration]] tool, continuous testing tool and continuous deployment tool that supports all cloud platforms existing in their multi-cloud.
 >
 > **[1:15](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-deployment-and-testing?u=76281980&t=75)** Security and governance, including any security and governance tooling that runs across the multi-cloud.
 >
 > **[1:20](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-deployment-and-testing?u=76281980&t=80)** In this case, the IT group is leveraging IAM, Identity and Access Management tool, to deal with security across cloud providers.
 >
-> **[1:29](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-deployment-and-testing?u=76281980&t=89)** Databases and storage, meaning any storage needs to support the applications or business in general.
+> **[1:29](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-deployment-and-testing?u=76281980&t=89)** [[Databases]] and storage, meaning any storage needs to support the applications or business in general.
 >
-> **[1:35](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-deployment-and-testing?u=76281980&t=95)** In this case, the IT group is deploying several object databases and a few relational databases running on the public cloud.
+> **[1:35](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-deployment-and-testing?u=76281980&t=95)** In this case, the IT group is deploying several object databases and a few [[Relational Databases]] running on the public cloud.
 >
-> **[1:42](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-deployment-and-testing?u=76281980&t=102)** Examples would be Amazon Web Services, DynamoDB running on AWS or Amazon Web Services, and SQL Server running on Microsoft.
+> **[1:42](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-deployment-and-testing?u=76281980&t=102)** Examples would be Amazon Web Services, DynamoDB running on AWS or Amazon Web Services, and [[Microsoft SQL Server|SQL Server]] running on Microsoft.
 >
 > **[1:53](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/case-study-multicloud-deployment-and-testing?u=76281980&t=113)** Some of the testing carried out by the IT group included regression testing or testing the system holistically by progressing through the various subsystems.
 >
@@ -2030,7 +1975,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (13), [[Amazon Web Services (AWS)|Amazon web services]] (3), [[Security]] (3), business (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (3), [[Microsoft]] (2), [[Databases]] (2), [[Google]] (1), [[DevOps]] (1)
 > **Env Vars:** iam (1), aws (1), sql (1)
 > **CLI Commands:** aws (1)
 > **Analogies:** such as (1)
@@ -2041,8 +1986,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Final considerations for a successful multicloud deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/final-considerations-for-a-successful-multicloud-deployment?u=76281980)
+#### [Final considerations for a successful multicloud deployment](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/final-considerations-for-a-successful-multicloud-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2050,7 +1994,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/final-considerations-for-a-successful-multicloud-deployment?u=76281980&t=9)** The complexity and breadth of what a multi-cloud is means that it's many times more complex than just a single system.
 >
-> **[0:16](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/final-considerations-for-a-successful-multicloud-deployment?u=76281980&t=16)** It's dozens of platforms, hundreds of databases.
+> **[0:16](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/final-considerations-for-a-successful-multicloud-deployment?u=76281980&t=16)** It's dozens of platforms, hundreds of [[Databases]].
 >
 > **[0:19](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/final-considerations-for-a-successful-multicloud-deployment?u=76281980&t=19)** thousands of applications, and all that needs to work together to support the business in an optimized way.
 >
@@ -2068,23 +2012,22 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/final-considerations-for-a-successful-multicloud-deployment?u=76281980&t=61)** The way that you're doing multi-cloud this year will not be the same as years to come.
 >
-> **[1:05](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/final-considerations-for-a-successful-multicloud-deployment?u=76281980&t=65)** Approach multi-cloud development readiness to continuously improve and learn.
+> **[1:05](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/final-considerations-for-a-successful-multicloud-deployment?u=76281980&t=65)** Approach multi-[[Cloud Development]] readiness to continuously improve and learn.
 >
 > **[1:10](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/final-considerations-for-a-successful-multicloud-deployment?u=76281980&t=70)** Technology processes as well as best practices improve over time, and you need to adjust to take advantage of these new opportunities.
 >
 > **[1:17](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/final-considerations-for-a-successful-multicloud-deployment?u=76281980&t=77)** This is a journey, and this course will get you through the first few steps.
 >
-> **[1:21](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/final-considerations-for-a-successful-multicloud-deployment?u=76281980&t=81)** The rest is a process of learning and ingesting as you learn.
+> **[1:21](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/final-considerations-for-a-successful-multicloud-deployment?u=76281980&t=81)** The [[Representational State Transfer (REST)|rest]] is a process of learning and ingesting as you learn.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[Databases]] (1), business (1), [[Cloud Development]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Cloud Development]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/planning-a-multicloud-solution-2022/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2112,7 +2055,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [instructor] (1)

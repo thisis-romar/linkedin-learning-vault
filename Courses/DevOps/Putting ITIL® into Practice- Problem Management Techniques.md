@@ -112,14 +112,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Stand apart as a problem practitioner
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/stand-apart-as-a-problem-practitioner?u=76281980)
+#### [Stand apart as a problem practitioner](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/stand-apart-as-a-problem-practitioner?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/stand-apart-as-a-problem-practitioner?u=76281980&t=0)** - Isn't it strange?
 >
-> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/stand-apart-as-a-problem-practitioner?u=76281980&t=1)** People in organizations expect you to have problem management skills, yet most people never get formal training in them.
+> **[0:01](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/stand-apart-as-a-problem-practitioner?u=76281980&t=1)** People in organizations expect you to have [[Problem Management]] skills, yet most people never get formal training in them.
 >
 > **[0:07](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/stand-apart-as-a-problem-practitioner?u=76281980&t=7)** And teams of top troubleshooters can struggle without a shared approach, leading to chaos, miscommunication, and half-baked solutions.
 >
@@ -127,18 +126,17 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/stand-apart-as-a-problem-practitioner?u=76281980&t=19)** I'm David Pultorak, and I've seen how problem management techniques can set you apart as a professional.
 >
-> **[0:25](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/stand-apart-as-a-problem-practitioner?u=76281980&t=25)** I built this course to fill a gap for you since ITIL mentions these techniques but doesn't show you how to do them.
+> **[0:25](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/stand-apart-as-a-problem-practitioner?u=76281980&t=25)** I built this course to fill a gap for you since [[ITIL]] mentions these techniques but doesn't show you how to do them.
 >
 > **[0:31](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/stand-apart-as-a-problem-practitioner?u=76281980&t=31)** Join me, elevate your career, become the go-to problem solver your team needs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Problem Management]] (2), teams (1), [[ITIL]] (1), career (1)
+> **Frameworks & Libraries:** [[Problem Management]] (2), [[ITIL]] (1)
 > **Env Vars:** itil (1)
 > **Speakers:** - isn (1)
 
-#### What is problem management?
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-problem-management?u=76281980)
+#### [What is problem management?](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-problem-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -152,7 +150,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-problem-management?u=76281980&t=20)** The unknown underlying cause of these incidents is a problem.
 >
-> **[0:25](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-problem-management?u=76281980&t=25)** ITIL defines four dimensions that make up services and where you can look for causes and solutions for problems.
+> **[0:25](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-problem-management?u=76281980&t=25)** [[ITIL]] defines four dimensions that make up services and where you can look for causes and solutions for problems.
 >
 > **[0:31](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-problem-management?u=76281980&t=31)** Organizations and people, information and technology, partners and suppliers, and value streams and processes.
 >
@@ -166,13 +164,13 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-problem-management?u=76281980&t=60)** To minimize the occurrence and impact of problems and solve them, you must consider each dimension as you seek possible causes and solutions.
 >
-> **[1:09](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-problem-management?u=76281980&t=69)** You should see from this definition that the proper scope of your practice must be problem management, not just problem solving.
+> **[1:09](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-problem-management?u=76281980&t=69)** You should see from this definition that the proper scope of your practice must be [[Problem Management]], not just problem solving.
 >
-> **[1:17](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-problem-management?u=76281980&t=77)** Problem management has a larger scope that includes proactively minimizing the occurrence and impact of problems, improving how you react to problems, and getting to the root cause and resolution quicker.
+> **[1:17](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-problem-management?u=76281980&t=77)** Problem management has a larger scope that includes proactively minimizing the occurrence and impact of problems, improving how you [[React.js|react]] to problems, and getting to the root cause and resolution quicker.
 >
 > **[1:29](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-problem-management?u=76281980&t=89)** You achieve this by continually improving your practice by applying lessons learned.
 >
-> **[1:35](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-problem-management?u=76281980&t=95)** One word of caution.
+> **[1:35](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-problem-management?u=76281980&t=95)** One [[Microsoft Word|word]] of caution.
 >
 > **[1:37](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-problem-management?u=76281980&t=97)** You must never jump to solutions without sufficient facts and always be thorough enough and look for causes and solutions in the four dimensions.
 >
@@ -194,7 +192,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ITIL]] (2), [[Problem Management]] (2), [[React.js|React]] (1), [[Microsoft Word|Word]] (1), data (1)
+> **Frameworks & Libraries:** [[ITIL]] (2), [[Problem Management]] (2), [[React.js|React]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** itil (2)
 > **Definitions:** is a  (1)
@@ -202,8 +200,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### A consistent set of techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/a-consisistent-set-of-techniques?u=76281980)
+#### [A consistent set of techniques](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/a-consisistent-set-of-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -223,7 +220,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/a-consisistent-set-of-techniques?u=76281980&t=51)** Impact, how significantly does the issue affect business safety, system performance, or user experiences?
 >
-> **[0:59](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/a-consisistent-set-of-techniques?u=76281980&t=59)** Probability, what's the likelihood associated with it?
+> **[0:59](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/a-consisistent-set-of-techniques?u=76281980&t=59)** [[Probability]], what's the likelihood associated with it?
 >
 > **[1:02](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/a-consisistent-set-of-techniques?u=76281980&t=62)** And effort, how much time, cost, and resources will it require?
 >
@@ -247,17 +244,16 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/a-consisistent-set-of-techniques?u=76281980&t=119)** Throughout this course, you'll see the same example of a collaboration service used as the basis for exercising each technique.
 >
-> **[2:06](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/a-consisistent-set-of-techniques?u=76281980&t=126)** Using a single example with a detailed reference should help you better know the scope and applicability of each technique, how they fit together, and how you can use them as a set in your problem management practice.
+> **[2:06](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/a-consisistent-set-of-techniques?u=76281980&t=126)** Using a single example with a detailed reference should help you better know the scope and applicability of each technique, how they fit together, and how you can use them as a set in your [[Problem Management]] practice.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (2), business (1), [[Problem Management]] (1)
+> **Frameworks & Libraries:** [[Probability]] (2), [[Problem Management]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you'll learn
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-you-ll-learn?u=76281980)
+#### [What you'll learn](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-you-ll-learn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -267,7 +263,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-you-ll-learn?u=76281980&t=7)** In this course, you'll learn the what, why, and how of each technique, improving your ability to prevent problems in the first place, and to respond more effectively when they do occur, and influence others to adopt them, and show them how.
 >
-> **[0:22](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-you-ll-learn?u=76281980&t=22)** In this course, you'll learn the what, why, and how of seven problem management techniques so you can begin to apply them.
+> **[0:22](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-you-ll-learn?u=76281980&t=22)** In this course, you'll learn the what, why, and how of seven [[Problem Management]] techniques so you can begin to apply them.
 >
 > **[0:27](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-you-ll-learn?u=76281980&t=27)** There are more variations and details for these techniques than it makes sense to cover in this course.
 >
@@ -317,14 +313,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Problem Management]] (2), next (1), power (1)
+> **Frameworks & Libraries:** [[Problem Management]] (2)
 > **Definitions:** is a  (3), known as (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### How you'll learn it
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/how-you-ll-learn-it?u=76281980)
+#### [How you'll learn it](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/how-you-ll-learn-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -376,12 +371,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), power (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Building capacity
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/building-capacity?u=76281980)
+#### [Building capacity](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/building-capacity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -389,7 +382,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/building-capacity?u=76281980&t=10)** Getting things into muscle memory where actions and reactions are second nature and come about naturally is what that's all about.
 >
-> **[0:18](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/building-capacity?u=76281980&t=18)** You want to avoid common pitfalls when you and your team work to build your problem management capability.
+> **[0:18](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/building-capacity?u=76281980&t=18)** You want to avoid common pitfalls when you and your team work to build your [[Problem Management]] capability.
 >
 > **[0:24](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/building-capacity?u=76281980&t=24)** The first is simply to intellectually accept the need for building capability, but not doing the practice and drills required to achieve and sustain it.
 >
@@ -431,7 +424,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Problem Management]] (3), teams (1), power (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[Problem Management]] (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
@@ -440,8 +433,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is brainstorming, and why use it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-brainstorming-and-why-use-it?u=76281980)
+#### [What is brainstorming, and why use it?](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-brainstorming-and-why-use-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -453,7 +445,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-brainstorming-and-why-use-it?u=76281980&t=20)** It's not about filtering or critiquing, it's about quickly generating many good ideas.
 >
-> **[0:25](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-brainstorming-and-why-use-it?u=76281980&t=25)** Why use brainstorming and problem management?
+> **[0:25](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-brainstorming-and-why-use-it?u=76281980&t=25)** Why use brainstorming and [[Problem Management]]?
 >
 > **[0:27](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-brainstorming-and-why-use-it?u=76281980&t=27)** Because speed and collaboration matter and problem management time is tight.
 >
@@ -479,8 +471,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - brainstorming (1)
 
-#### Where and when to use brainstorming
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-brainstorming?u=76281980)
+#### [Where and when to use brainstorming](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-brainstorming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -512,7 +503,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-brainstorming?u=76281980&t=76)** When time is tight, brainstorming delivers, rapid fire ideas, no overthinking, just solutions fast, diverse minds, quick insights, unexpected breakthroughs.
 >
-> **[1:27](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-brainstorming?u=76281980&t=87)** It cuts through delays, sparks innovation and gets you to action, because in problem management, speed matters, but so does getting it right.
+> **[1:27](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-brainstorming?u=76281980&t=87)** It cuts through delays, sparks innovation and gets you to action, because in [[Problem Management]], speed matters, but so does getting it right.
 >
 > **[1:38](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-brainstorming?u=76281980&t=98)** When problems strike, use brainstorming to find causes, workarounds, and solutions.
 >
@@ -540,12 +531,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Problem Management]] (1)
+> **Frameworks & Libraries:** [[Problem Management]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Brainstorming steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-steps?u=76281980)
+#### [Brainstorming steps](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -645,7 +635,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-steps?u=76281980&t=243)** List candidate actions, prioritize them, and choose the highest priority actions for execution.
 >
-> **[4:08](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-steps?u=76281980&t=248)** Set a review date to track progress and ensure accountability.
+> **[4:08](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-steps?u=76281980&t=248)** Set a review date to track progress and ensure [[Accountability]].
 >
 > **[4:12](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-steps?u=76281980&t=252)** Decide and commit to lock-in execution.
 >
@@ -657,7 +647,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-steps?u=76281980&t=268)** Tailor messages to each.
 >
-> **[4:30](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-steps?u=76281980&t=270)** Choose the messengers and the channels they trust, like email, meetings, and dashboards.
+> **[4:30](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-steps?u=76281980&t=270)** Choose the messengers and the channels they trust, like email, meetings, and [[Dashboards]].
 >
 > **[4:36](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-steps?u=76281980&t=276)** Keep communication clear, concise, and two-way.
 >
@@ -677,7 +667,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-steps?u=76281980&t=308)** Decisions without actions are just ideas.
 >
-> **[5:11](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-steps?u=76281980&t=311)** So take action and use tools like Trello, Asana, or a simple action log to track progress, because what gets tracked gets done.
+> **[5:11](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-steps?u=76281980&t=311)** So take action and use tools like [[Trello]], Asana, or a simple action log to track progress, because what gets tracked gets done.
 >
 > **[5:19](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-steps?u=76281980&t=319)** Build and sustained momentum.
 >
@@ -723,18 +713,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Accountability]] (1), teams (1), [[Dashboards]] (1), [[Trello]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (1), [[Dashboards]] (1), [[Trello]] (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Brainstorming example
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-example?u=76281980)
+#### [Brainstorming example](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-example?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-example?u=76281980&t=0)** - [Presenter] Now that you've seen the steps to brainstorming, let's examine a real-world example to help reinforce what you've learned.
 >
-> **[0:07](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-example?u=76281980&t=7)** Nexiko Lab's IT group wants to brainstorm the components and dependencies of its collaboration service as part of proactive problem management.
+> **[0:07](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-example?u=76281980&t=7)** Nexiko Lab's IT group wants to brainstorm the components and dependencies of its collaboration service as part of proactive [[Problem Management]].
 >
 > **[0:15](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-example?u=76281980&t=15)** A big part of problem management is to put things in place to prevent problems in the first place or recover faster should a problem occur.
 >
@@ -744,7 +733,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-example?u=76281980&t=31)** Alex, the PM, picks Jamie, a senior engineer, to facilitate, as he can keep things on track and ensure everyone's voice is heard.
 >
-> **[0:38](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-example?u=76281980&t=38)** Alex brings in Priah from the backend, Mark from DevOps, Luis from networking, and Sarah from operations for all necessary perspectives.
+> **[0:38](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-example?u=76281980&t=38)** Alex brings in Priah from the backend, Mark from [[DevOps]], Luis from networking, and Sarah from operations for all necessary perspectives.
 >
 > **[0:47](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-example?u=76281980&t=47)** Jamie chooses a whiteboard and digital tools to capture decisions, actions, and communications, making it easy for the team to collaborate and stay on track.
 >
@@ -764,7 +753,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-example?u=76281980&t=85)** Priah starts by listing the backend services, highlighting database interactions, and Luis maps out networking dependencies pointing to the API gateways.
 >
-> **[1:35](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-example?u=76281980&t=95)** Mark adds DevOps tools like monitoring and deployment pipelines.
+> **[1:35](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-example?u=76281980&t=95)** Mark adds [[DevOps Tools]] like monitoring and deployment pipelines.
 >
 > **[1:39](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/brainstorming-example?u=76281980&t=99)** Sarah shares insights from past outages, emphasizing areas with frequent failures.
 >
@@ -830,14 +819,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Problem Management]] (2), leadership (2), [[DevOps]] (1), database (1)
+> **Frameworks & Libraries:** [[Problem Management]] (2), [[DevOps]] (1), [[DevOps Tools]] (1)
 > **Env Vars:** sla (3), api (1), dns (1), dhcp (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### You do it: Brainstorming
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/you-do-it-brainstorming?u=76281980)
+#### [You do it: Brainstorming](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/you-do-it-brainstorming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -869,8 +857,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [instructor] (1)
 
-#### Review it: Brainstorming
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/review-it-brainstorming?u=76281980)
+#### [Review it: Brainstorming](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/review-it-brainstorming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -928,7 +915,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/review-it-brainstorming?u=76281980&t=101)** Where and when?
 >
-> **[1:43](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/review-it-brainstorming?u=76281980&t=103)** It's an excellent technique for teams beginning to formalize their shared problem management techniques, because it's easy to learn and immediately valuable in proactive and reactive problem management situations.
+> **[1:43](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/review-it-brainstorming?u=76281980&t=103)** It's an excellent technique for teams beginning to formalize their shared [[Problem Management]] techniques, because it's easy to learn and immediately valuable in proactive and reactive problem management situations.
 >
 > **[1:55](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/review-it-brainstorming?u=76281980&t=115)** Apply the harder-to-learn and more difficult-to-use techniques later as your team's capabilities mature.
 >
@@ -942,7 +929,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Problem Management]] (2), next (1)
+> **Frameworks & Libraries:** [[Problem Management]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -953,8 +940,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is cause-effect analysis, and why use it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-cause-effect-analysis-and-why-use-it?u=76281980)
+#### [What is cause-effect analysis, and why use it?](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-cause-effect-analysis-and-why-use-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -989,8 +975,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - cause (1)
 
-#### Where and when to use cause-effect analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-cause-effect-analysis?u=76281980)
+#### [Where and when to use cause-effect analysis](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-cause-effect-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1016,7 +1001,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-cause-effect-analysis?u=76281980&t=72)** Putting causes and effects on a single page, perhaps the first time for all participants to see, sparks a collective understanding of the problem, gets the group's knowledge on one visual, and serves as an excellent vehicle for communication.
 >
-> **[1:27](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-cause-effect-analysis?u=76281980&t=87)** When problems strike, don't just react, analyze.
+> **[1:27](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-cause-effect-analysis?u=76281980&t=87)** When problems strike, don't just [[React.js|react]], analyze.
 >
 > **[1:30](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-cause-effect-analysis?u=76281980&t=90)** Cause-effect analysis gives you a structured visual of what's happening now.
 >
@@ -1046,14 +1031,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), teams (1), strengths (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Analogies:** picture (1), such as (1)
 > **CLI Commands:** find (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Steps in cause-effect analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-cause-effect-analysis?u=76281980)
+#### [Steps in cause-effect analysis](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-cause-effect-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1163,7 +1147,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-cause-effect-analysis?u=76281980&t=251)** You thoroughly analyze the root causes of the problem, identify the key factors contributing to it, and represented the relationships graphically.
 >
-> **[4:19](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-cause-effect-analysis?u=76281980&t=259)** You've aside actions to mitigate or eliminate causes with owners and timelines established for accountability.
+> **[4:19](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-cause-effect-analysis?u=76281980&t=259)** You've aside actions to mitigate or eliminate causes with owners and timelines established for [[Accountability]].
 >
 > **[4:25](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-cause-effect-analysis?u=76281980&t=265)** Now you need to plan what you're going to tell your stakeholders about what you've done, what you'll be doing, and what it means to them.
 >
@@ -1173,7 +1157,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-cause-effect-analysis?u=76281980&t=288)** Now, take action and track progress.
 >
-> **[4:51](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-cause-effect-analysis?u=76281980&t=291)** Use task management tools like Trello, Asana, or a simple action log to track progress and ensure you maintain momentum.
+> **[4:51](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-cause-effect-analysis?u=76281980&t=291)** Use task management tools like [[Trello]], Asana, or a simple action log to track progress and ensure you maintain momentum.
 >
 > **[4:57](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-cause-effect-analysis?u=76281980&t=297)** Doing so helps you achieve what you've set out to do by the review date and turn your ideas into results.
 >
@@ -1199,15 +1183,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), hit (1), [[Accountability]] (1), management (1), [[Trello]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (1), [[Trello]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example of cause-effect analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cause-effect-analysis?u=76281980)
+#### [Example of cause-effect analysis](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cause-effect-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1223,9 +1206,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cause-effect-analysis?u=76281980&t=24)** Alex, the IT operations lead, takes charge.
 >
-> **[0:27](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cause-effect-analysis?u=76281980&t=27)** He brings in DevOps, IT support, security, and the database admin, each with a unique perspective.
+> **[0:27](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cause-effect-analysis?u=76281980&t=27)** He brings in [[DevOps]], IT support, security, and the database admin, each with a unique perspective.
 >
-> **[0:33](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cause-effect-analysis?u=76281980&t=33)** Using a whiteboard, instant logs, and backup dashboards, they map out failures.
+> **[0:33](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cause-effect-analysis?u=76281980&t=33)** Using a whiteboard, instant logs, and backup [[Dashboards]], they map out failures.
 >
 > **[0:38](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cause-effect-analysis?u=76281980&t=38)** Alex sets the focus, "Why are backups failing?
 >
@@ -1305,11 +1288,11 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cause-effect-analysis?u=76281980&t=225)** The storage team increases space and backups start to complete more often.
 >
-> **[3:50](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cause-effect-analysis?u=76281980&t=230)** The network team analyzes logs, finding high latency during backup windows.
+> **[3:50](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cause-effect-analysis?u=76281980&t=230)** The network team analyzes logs, finding high latency during backup [[Windows]].
 >
 > **[3:55](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cause-effect-analysis?u=76281980&t=235)** The security team reviews authentication failures, discovering an expired token causing random job failures.
 >
-> **[4:01](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cause-effect-analysis?u=76281980&t=241)** The team tracks real-time backup success rates as fixes are applied to their dashboard.
+> **[4:01](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cause-effect-analysis?u=76281980&t=241)** The team tracks [[Real-Time]] backup success rates as fixes are applied to their dashboard.
 >
 > **[4:06](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cause-effect-analysis?u=76281980&t=246)** They see fewer failures, but agree to give it another night to confirm.
 >
@@ -1327,13 +1310,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), next (2), [[DevOps]] (1), database (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (1), [[Dashboards]] (1), [[Windows]] (1), [[Real-Time]] (1)
 > **Code Identifiers:** iscsi (3)
 > **Env Vars:** san (2), cto (1)
 > **Speakers:** - [instructor] (1)
 
-#### You do it: Cause-effect analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/you-do-it-cause-effect-analysis?u=76281980)
+#### [You do it: Cause-effect analysis](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/you-do-it-cause-effect-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1377,11 +1359,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2)
 > **Speakers:** - [narrator] (1)
 
-#### Review it: Cause-effect analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/review-it-cause-effect-analysis?u=76281980)
+#### [Review it: Cause-effect analysis](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/review-it-cause-effect-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1479,7 +1459,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** watch out (1)
@@ -1490,8 +1469,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Kepner-Tregoe RCA, and why use it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-kepner-tregoe-rca-and-why-use-it?u=76281980)
+#### [What is Kepner-Tregoe RCA, and why use it?](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-kepner-tregoe-rca-and-why-use-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1531,12 +1509,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - you (1)
 
-#### Where and when to use Kepner-Tregoe RCA
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-kepner-tregoe-rca?u=76281980)
+#### [Where and when to use Kepner-Tregoe RCA](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-kepner-tregoe-rca?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1588,11 +1564,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), data (1), management (1)
 > **Speakers:** - [instructor] (1)
 
-#### Steps in Kepner-Tregoe RCA
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-kepner-tregoe-rca?u=76281980)
+#### [Steps in Kepner-Tregoe RCA](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-kepner-tregoe-rca?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1806,13 +1780,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (2)
 > **CLI Commands:** find (2), make (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example of Kepner-Tregoe RCA
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-kepner-tregoe-rca?u=76281980)
+#### [Example of Kepner-Tregoe RCA](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-kepner-tregoe-rca?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1826,7 +1798,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-kepner-tregoe-rca?u=76281980&t=22)** Alex, the IT manager, takes charge of the investigation and facilitates the problem analysis, Priya from the engineering team takes on infrastructure diagnostics, while Jordan from AppDev focuses on app logs, and Chris from the database team will check database performance.
 >
-> **[0:38](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-kepner-tregoe-rca?u=76281980&t=38)** The team decides to use monitoring dashboards, logs, and packet captures to pinpoint the issue.
+> **[0:38](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-kepner-tregoe-rca?u=76281980&t=38)** The team decides to use monitoring [[Dashboards]], logs, and packet captures to pinpoint the issue.
 >
 > **[0:44](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-kepner-tregoe-rca?u=76281980&t=44)** Priya begins pulling historical trends and checking server load.
 >
@@ -1848,7 +1820,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-kepner-tregoe-rca?u=76281980&t=80)** The team now discusses possible causes and provides evidence to support or refute the potential causes.
 >
-> **[1:26](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-kepner-tregoe-rca?u=76281980&t=86)** They quickly come up with a list of possible causes, from inadequate hardware to Active Directory issues, and keep all but one of them, which they discard due to a lack of evidence to support it.
+> **[1:26](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-kepner-tregoe-rca?u=76281980&t=86)** They quickly come up with a list of possible causes, from inadequate [[Hardware]] to [[Active Directory]] issues, and keep all but one of them, which they discard due to a lack of evidence to support it.
 >
 > **[1:38](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-kepner-tregoe-rca?u=76281980&t=98)** Now the team turns to identifying and running tests for each possible cause to determine whether it could be the cause of all the symptoms of the problem.
 >
@@ -1894,9 +1866,9 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-kepner-tregoe-rca?u=76281980&t=253)** The team initiates the fix, estimating a completion time of one hour and 45 minutes.
 >
-> **[4:17](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-kepner-tregoe-rca?u=76281980&t=257)** They engage in real-time performance tracking to monitor response times during the transition.
+> **[4:17](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-kepner-tregoe-rca?u=76281980&t=257)** They engage in [[Real-Time]] performance tracking to monitor response times during the transition.
 >
-> **[4:22](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-kepner-tregoe-rca?u=76281980&t=262)** They observe that the performance metrics are on the uptick.
+> **[4:22](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-kepner-tregoe-rca?u=76281980&t=262)** They observe that the [[Performance Metrics]] are on the uptick.
 >
 > **[4:26](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-kepner-tregoe-rca?u=76281980&t=266)** They stay on it to validate results before marking the issue as resolved.
 >
@@ -1914,7 +1886,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[Hardware]] (3), business (2), leadership (2), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Dashboards]] (1), [[Active Directory]] (1), [[Real-Time]] (1), [[Performance Metrics]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** swat (1)
 > **Tools:** colab (1)
@@ -1922,8 +1894,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### You do it: Kepner-Tregoe RCA
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/you-do-it-kepner-tregoe-rca?u=76281980)
+#### [You do it: Kepner-Tregoe RCA](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/you-do-it-kepner-tregoe-rca?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1958,8 +1929,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review it: Kepner-Tregoe RCA
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/review-it-kepner-tregoe-rca?u=76281980)
+#### [Review it: Kepner-Tregoe RCA](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/review-it-kepner-tregoe-rca?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2035,13 +2005,13 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/review-it-kepner-tregoe-rca?u=76281980&t=133)** There you have it, now you know what Kepner-Tregoe analysis is, why to use it, where to apply it, and how to implement it.
 >
-> **[2:21](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/review-it-kepner-tregoe-rca?u=76281980&t=141)** Hopefully you've tried the technique, reflected on the experience and learned something useful for you and your team to apply in future problem management situations.
+> **[2:21](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/review-it-kepner-tregoe-rca?u=76281980&t=141)** Hopefully you've tried the technique, reflected on the experience and learned something useful for you and your team to apply in future [[Problem Management]] situations.
 >
 > **[2:29](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/review-it-kepner-tregoe-rca?u=76281980&t=149)** In the next video, you'll learn about fault tree analysis.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), next (4), [[Problem Management]] (1)
+> **Frameworks & Libraries:** [[Problem Management]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -2051,8 +2021,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is fault tree analysis, and why use it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-fault-tree-analysis-and-why-use-it?u=76281980)
+#### [What is fault tree analysis, and why use it?](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-fault-tree-analysis-and-why-use-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2070,7 +2039,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-fault-tree-analysis-and-why-use-it?u=76281980&t=39)** Want clear insights, smarter decisions, stronger systems?
 >
-> **[0:43](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-fault-tree-analysis-and-why-use-it?u=76281980&t=43)** Don't just react, don't just guess, analyze.
+> **[0:43](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-fault-tree-analysis-and-why-use-it?u=76281980&t=43)** Don't just [[React.js|react]], don't just guess, analyze.
 >
 > **[0:46](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-fault-tree-analysis-and-why-use-it?u=76281980&t=46)** Use fault tree analysis to map critical dependencies, troubleshoot failures, and implement proactive countermeasures, reducing risk, mitigating impact, and preparing for contingencies when failures do occur.
 >
@@ -2088,8 +2057,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - fault (1)
 
-#### Where and when to use fault tree analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-fault-tree-analysis?u=76281980)
+#### [Where and when to use fault tree analysis](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-fault-tree-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2167,13 +2135,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (1), [[Automation]] (1)
 > **Analogies:** for instance (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Steps in fault tree analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980)
+#### [Steps in fault tree analysis](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2183,7 +2149,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=7)** Combine events with logic and check.
 >
-> **[0:10](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=10)** Evaluate probability and risk, and develop countermeasures.
+> **[0:10](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=10)** Evaluate [[Probability]] and risk, and develop countermeasures.
 >
 > **[0:13](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=13)** Choose actions instead of review date.
 >
@@ -2203,13 +2169,13 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=39)** Create a team with the right mix of skills, people who know the system and can connect the dots.
 >
-> **[0:44](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=44)** Choose tools like whiteboards and fault-tree-diagramming software.
+> **[0:44](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=44)** Choose tools like whiteboards and fault-tree-[[Diagramming]] software.
 >
 > **[0:47](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=47)** With the right people and tools, you're ready for success.
 >
 > **[0:51](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=51)** Fault-tree analysis identifies the faults and logical relationships among faults that lead to an event.
 >
-> **[0:57](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=57)** In the context of problem management, the top event we're concerned with, is the failure or degradation of an IT service.
+> **[0:57](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=57)** In the context of [[Problem Management]], the top event we're concerned with, is the failure or degradation of an IT service.
 >
 > **[1:03](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=63)** Define the top event as clearly as possible.
 >
@@ -2307,7 +2273,7 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=325)** Finally, document and test.
 >
-> **[5:27](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=327)** Run simulation drills to ensure your mitigations work.
+> **[5:27](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=327)** Run [[Simulation]] drills to ensure your mitigations work.
 >
 > **[5:31](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=331)** Have a plan for every risk to prevent, detect, or recover from failure.
 >
@@ -2317,7 +2283,7 @@ created: 2026-05-02
 >
 > **[5:46](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=346)** Then assign who will do what by when in the way of improvement initiatives.
 >
-> **[5:51](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=351)** Set a review date to check in on progress and help ensure accountability.
+> **[5:51](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=351)** Set a review date to check in on progress and help ensure [[Accountability]].
 >
 > **[5:55](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=355)** Plan stakeholder communications to keep everyone informed, aligned, and confident.
 >
@@ -2325,7 +2291,7 @@ created: 2026-05-02
 >
 > **[6:05](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=365)** Identify stakeholders, such as leaders, teams, and customers, and tailor messages for each.
 >
-> **[6:10](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=370)** Use the right credible messengers and channels, the ones they use, like email, meetings, or dashboards.
+> **[6:10](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=370)** Use the right credible messengers and channels, the ones they use, like email, meetings, or [[Dashboards]].
 >
 > **[6:16](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=376)** Keep it concise, actionable, transparent, and bidirectional to get the feedback you need.
 >
@@ -2333,7 +2299,7 @@ created: 2026-05-02
 >
 > **[6:29](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=389)** Remember, your goal is to improve reality by making improvements and to influence your stakeholder's perceptions through your communications.
 >
-> **[6:37](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=397)** Use task-management tools like Trello, Asana, or a simple action log to track progress and ensure you maintain momentum.
+> **[6:37](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=397)** Use task-management tools like [[Trello]], Asana, or a simple action log to track progress and ensure you maintain momentum.
 >
 > **[6:44](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-fault-tree-analysis?u=76281980&t=404)** Achieve your goals by the review date, and turn your ideas into results.
 >
@@ -2365,7 +2331,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (7), power (5), next (3), teams (2), [[Dashboards]] (2)
+> **Frameworks & Libraries:** [[Probability]] (7), [[Dashboards]] (2), [[Diagramming]] (1), [[Problem Management]] (1), [[Simulation]] (1)
 > **Analogies:** for example (5), such as (2), for instance (1)
 > **Env Vars:** san (1), lan (1), xor (1), inhibit (1)
 > **Prerequisites:** required to (1), set up (1)
@@ -2374,8 +2340,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example of fault tree analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-fault-tree-analysis?u=76281980)
+#### [Example of fault tree analysis](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-fault-tree-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2397,11 +2362,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-fault-tree-analysis?u=76281980&t=38)** Let's stay focused, be data-driven, and ensure every voice is heard.
 >
-> **[0:43](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-fault-tree-analysis?u=76281980&t=43)** The team writes, failure of the SharePoint collaboration service as the top event on the board to leave room for the rest of the tree.
+> **[0:43](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-fault-tree-analysis?u=76281980&t=43)** The team writes, failure of the [[SharePoint]] collaboration service as the top event on the board to leave room for the [[Representational State Transfer (REST)|rest]] of the tree.
 >
 > **[0:52](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-fault-tree-analysis?u=76281980&t=52)** The team then identifies necessary and sufficient events to directly cause a top event.
 >
-> **[0:56](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-fault-tree-analysis?u=76281980&t=56)** In this case, a failure of either the SQL server or DNS will cause the failure of the SharePoint collaboration service.
+> **[0:56](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-fault-tree-analysis?u=76281980&t=56)** In this case, a failure of either the [[Microsoft SQL Server|SQL server]] or DNS will cause the failure of the SharePoint collaboration service.
 >
 > **[1:03](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-fault-tree-analysis?u=76281980&t=63)** The team continues to identify events that lead to other events that eventually lead to the failure of the SharePoint collaboration service.
 >
@@ -2413,7 +2378,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-fault-tree-analysis?u=76281980&t=97)** In this example, either the server being down, the server's network interface card being disabled, or the network that the server's attached to being down could cause the server to appear offline.
 >
-> **[1:48](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-fault-tree-analysis?u=76281980&t=108)** Now the team assesses the probability and impact of each root cause and the cost and effort required to address it.
+> **[1:48](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-fault-tree-analysis?u=76281980&t=108)** Now the team assesses the [[Probability]] and impact of each root cause and the cost and effort required to address it.
 >
 > **[1:55](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-fault-tree-analysis?u=76281980&t=115)** They use a spreadsheet to do this.
 >
@@ -2449,7 +2414,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-fault-tree-analysis?u=76281980&t=183)** IT teams will get technical details and end users will receive a fact.
 >
-> **[3:08](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-fault-tree-analysis?u=76281980&t=188)** The team chooses communication channels, emails, dashboards, and a town hall Q&A.
+> **[3:08](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-fault-tree-analysis?u=76281980&t=188)** The team chooses communication channels, emails, [[Dashboards]], and a town hall Q&A.
 >
 > **[3:12](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-fault-tree-analysis?u=76281980&t=192)** They choose the timing, an initial update now with another after tests.
 >
@@ -2489,7 +2454,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-fault-tree-analysis?u=76281980&t=250)** Auto renewals worked.
 >
-> **[4:12](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-fault-tree-analysis?u=76281980&t=252)** Failover needed fine tuning and alerts required adjustments.
+> **[4:12](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-fault-tree-analysis?u=76281980&t=252)** Failover needed [[Fine Tuning]] and alerts required adjustments.
 >
 > **[4:16](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-fault-tree-analysis?u=76281980&t=256)** IT leadership sees the ROI of proactive fixes.
 >
@@ -2501,7 +2466,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (4), dns (4), [[Probability]] (3), teams (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (4), [[Probability]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Dashboards]] (1)
 > **Env Vars:** dns (4), sql (1), roi (1)
 > **CLI Commands:** make (1)
 > **Tools:** colab (1)
@@ -2509,8 +2474,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [narrator] (1)
 
-#### You do it: Fault tree analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/you-do-it-fault-tree-analysis?u=76281980)
+#### [You do it: Fault tree analysis](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/you-do-it-fault-tree-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2544,8 +2508,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [narrator] (1)
 
-#### Review it: Fault tree analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/review-it-fault-tree-analysis?u=76281980)
+#### [Review it: Fault tree analysis](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/review-it-fault-tree-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2631,7 +2594,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Troubleshooting]] (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the next (1)
 > **Best Practices:** rule of thumb (1)
@@ -2642,8 +2604,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is CFIA, and why use it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-cfia-and-why-use-it?u=76281980)
+#### [What is CFIA, and why use it?](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-cfia-and-why-use-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2661,7 +2622,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-cfia-and-why-use-it?u=76281980&t=25)** Which are catastrophic?
 >
-> **[0:27](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-cfia-and-why-use-it?u=76281980&t=27)** Master component failure impact analysis to anticipate and mitigate failure, not just react to it.
+> **[0:27](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-cfia-and-why-use-it?u=76281980&t=27)** Master component failure impact analysis to anticipate and mitigate failure, not just [[React.js|react]] to it.
 >
 > **[0:33](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-cfia-and-why-use-it?u=76281980&t=33)** Why use component failure impact analysis?
 >
@@ -2685,8 +2646,7 @@ created: 2026-05-02
 > **Env Vars:** cfia (1)
 > **Speakers:** - look (1)
 
-#### Where and when to use CFIA
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-cfia?u=76281980)
+#### [Where and when to use CFIA](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-cfia?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2694,7 +2654,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-cfia?u=76281980&t=7)** Apply it during system design after incidents, or before major upgrades.
 >
-> **[0:13](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-cfia?u=76281980&t=13)** Focus on critical dependencies, power, networking databases, and authentication services.
+> **[0:13](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-cfia?u=76281980&t=13)** Focus on critical dependencies, power, networking [[Databases]], and authentication services.
 >
 > **[0:20](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-cfia?u=76281980&t=20)** If one fails, what's the impact?
 >
@@ -2724,7 +2684,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-cfia?u=76281980&t=88)** Identify weak points, single points of failure, and potential failure chains before launch.
 >
-> **[1:34](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-cfia?u=76281980&t=94)** Apply it during prototyping, testing and process design to ensure resilient architectures and smooth operations.
+> **[1:34](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-cfia?u=76281980&t=94)** Apply it during [[Prototyping]], testing and process design to ensure resilient architectures and smooth operations.
 >
 > **[1:41](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-cfia?u=76281980&t=101)** Catching risks early saves time, costs, and future outages.
 >
@@ -2736,13 +2696,13 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-cfia?u=76281980&t=133)** Use component failure impact analysis to minimize recovery times after failures.
 >
-> **[2:18](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-cfia?u=76281980&t=138)** Apply it in incident response planning, disaster recovery drills and postmortem reviews to identify bottlenecks in the restoration process.
+> **[2:18](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-cfia?u=76281980&t=138)** Apply it in [[Incident Response]] planning, disaster recovery drills and postmortem reviews to identify bottlenecks in the restoration process.
 >
 > **[2:26](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-cfia?u=76281980&t=146)** Focus on streamlining repairs, automating recovery steps, and ensuring spare parts or backup systems are ready.
 >
 > **[2:34](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-cfia?u=76281980&t=154)** Your goal, faster, more efficient recovery with minimal downtime.
 >
-> **[2:41](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-cfia?u=76281980&t=161)** Use component failure impact analysis when making the case for resiliency investments.
+> **[2:41](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-cfia?u=76281980&t=161)** Use component failure impact analysis when making the case for [[Resiliency]] investments.
 >
 > **[2:46](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-cfia?u=76281980&t=166)** Apply it in budget planning, risk assessments, and executive reviews to show how specific failures impact operations, revenue, and customer trust.
 >
@@ -2752,12 +2712,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Databases]] (2), power (1), business (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Prototyping]] (1), [[Incident Response]] (1), [[Resiliency]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Steps in CFIA
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-cfia?u=76281980)
+#### [Steps in CFIA](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-cfia?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2765,7 +2724,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-cfia?u=76281980&t=5)** Select a service and list the items it depends on.
 >
-> **[0:08](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-cfia?u=76281980&t=8)** Indicate each item's failover capability and failure probability and impact.
+> **[0:08](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-cfia?u=76281980&t=8)** Indicate each item's failover capability and failure [[Probability]] and impact.
 >
 > **[0:13](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-cfia?u=76281980&t=13)** Identify and rank countermeasures.
 >
@@ -2817,7 +2776,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-cfia?u=76281980&t=132)** First, you want to select the subset of services you're going to analyze and get a list of the configuration items they're made up of and depend on.
 >
-> **[2:18](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-cfia?u=76281980&t=138)** You can get this information from a variety of sources, but make sure to include all CI types, not just technical components, so IT services, hardware, software, buildings, people, and documentation, like process documentation and service level agreements.
+> **[2:18](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-cfia?u=76281980&t=138)** You can get this information from a variety of sources, but make sure to include all CI types, not just technical components, so IT services, [[Hardware]], software, buildings, people, and documentation, like process documentation and service level agreements.
 >
 > **[2:34](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-cfia?u=76281980&t=154)** They're also essential.
 >
@@ -2875,7 +2834,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-cfia?u=76281980&t=291)** Who needs to know about these risks and actions to minimize or eliminate them?
 >
-> **[4:54](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-cfia?u=76281980&t=294)** Plan how and when to update key stakeholders through reports, meetings, or dashboards.
+> **[4:54](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-cfia?u=76281980&t=294)** Plan how and when to update key stakeholders through reports, meetings, or [[Dashboards]].
 >
 > **[5:00](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-cfia?u=76281980&t=300)** Proper communication prevents surprises.
 >
@@ -2917,7 +2876,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (8), data (4), ci (1), [[Hardware]] (1), next (1)
+> **Frameworks & Libraries:** [[Probability]] (8), [[Hardware]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (3), such as (1)
 > **Prerequisites:** setup (1), required to (1)
@@ -2925,8 +2884,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example of CFIA
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cfia?u=76281980)
+#### [Example of CFIA](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cfia?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2958,7 +2916,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cfia?u=76281980&t=53)** The analysis team assembles a list of components that make up the service depends on.
 >
-> **[0:58](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cfia?u=76281980&t=58)** Here you see a partial list of what they drew up for the SharePoint Collaboration Service in the column SCS.
+> **[0:58](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cfia?u=76281980&t=58)** Here you see a partial list of what they drew up for the [[SharePoint]] Collaboration Service in the column SCS.
 >
 > **[1:05](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cfia?u=76281980&t=65)** The other system the team wants to look at is the ERP system, so it's listed at the head of column three.
 >
@@ -2966,15 +2924,15 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cfia?u=76281980&t=77)** There is some back and forth here because of some unevenness.
 >
-> **[1:20](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cfia?u=76281980&t=80)** For example, some SQL server databases are clustered, and others are not.
+> **[1:20](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cfia?u=76281980&t=80)** For example, some [[Microsoft SQL Server|SQL server]] [[Databases]] are clustered, and others are not.
 >
-> **[1:25](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cfia?u=76281980&t=85)** Similarly, some DNS configurations are redundant, and inconsistent versions of Windows server are running on different servers.
+> **[1:25](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cfia?u=76281980&t=85)** Similarly, some DNS configurations are redundant, and inconsistent versions of [[Windows Server]] are running on different servers.
 >
 > **[1:33](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cfia?u=76281980&t=93)** Also, some SANs have an active active configuration where others have an active passive configuration.
 >
 > **[1:40](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cfia?u=76281980&t=100)** So the team makes some notes in addition to marking up the spreadsheet with S's, A's H's, W's, and C's, because all of this is relevant to the analysis.
 >
-> **[1:51](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cfia?u=76281980&t=111)** Now the team works to record the probability and impact of failure for each configuration item.
+> **[1:51](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cfia?u=76281980&t=111)** Now the team works to record the [[Probability]] and impact of failure for each configuration item.
 >
 > **[1:57](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cfia?u=76281980&t=117)** They also record the cost and effort required to address it.
 >
@@ -3004,7 +2962,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cfia?u=76281980&t=194)** IT teams will get the technical details, and end users will receive a summary, highlighting the benefits to them.
 >
-> **[3:20](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cfia?u=76281980&t=200)** The team chooses channels that stakeholders know and use to communicate, emails, dashboards, and a town hall Q and A.
+> **[3:20](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cfia?u=76281980&t=200)** The team chooses channels that stakeholders know and use to communicate, emails, [[Dashboards]], and a town hall Q and A.
 >
 > **[3:28](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-cfia?u=76281980&t=208)** They choose timing, an initial update now, another after countermeasure tests.
 >
@@ -3046,7 +3004,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), teams (2), [[SharePoint]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1), [[Windows Server]] (1), [[Probability]] (1)
 > **Env Vars:** scs (1), erp (1), sql (1), dns (1), roi (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** earlier in (1)
@@ -3055,8 +3013,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### You do it: CFIA
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/you-do-it-cfia?u=76281980)
+#### [You do it: CFIA](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/you-do-it-cfia?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3084,8 +3041,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [narrator] (1)
 
-#### Review it: CFIA
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/review-it-cfia?u=76281980)
+#### [Review it: CFIA](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/review-it-cfia?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3181,7 +3137,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Env Vars:** cfia (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -3193,12 +3148,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is SOA, and why use it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-soa-and-why-use-it?u=76281980)
+#### [What is SOA, and why use it?](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-soa-and-why-use-it?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-soa-and-why-use-it?u=76281980&t=0)** - Service outage analysis is a technique for examining past outages to identify the most significant and addressable contributors to their occurrence and duration, including people, processes, products, technologies, and partners, which are suppliers or vendors.
+> **[0:00](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-soa-and-why-use-it?u=76281980&t=0)** - Service outage analysis is a technique for examining past outages to identify the most significant and addressable contributors to their occurrence and duration, including people, processes, [[Microsoft Products|products]], technologies, and partners, which are suppliers or vendors.
 >
 > **[0:16](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-soa-and-why-use-it?u=76281980&t=16)** The goal of service outage analysis is to reduce the risk and time to recover from potential future outages.
 >
@@ -3232,12 +3186,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - service (1)
 
-#### Where and when to use SOA
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-soa?u=76281980)
+#### [Where and when to use SOA](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-soa?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3263,7 +3216,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-soa?u=76281980&t=56)** Use it after every major incident to identify root causes, recurring issues, and gaps in recovery processes.
 >
-> **[1:04](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-soa?u=76281980&t=64)** Regular reviews will help you fix weak points before they cause bigger problems and refine incident response playbooks to recover faster next time.
+> **[1:04](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-soa?u=76281980&t=64)** Regular reviews will help you fix weak points before they cause bigger problems and refine [[Incident Response]] playbooks to recover faster next time.
 >
 > **[1:14](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-soa?u=76281980&t=74)** Use service outage analysis to spot patterns and past failures and take action to reduce both how often outages happen and how long they last.
 >
@@ -3285,12 +3238,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Incident Response]] (1), next (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Incident Response]] (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
-#### Steps in SOA
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-soa?u=76281980)
+#### [Steps in SOA](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-soa?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3312,7 +3264,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-soa?u=76281980&t=63)** Which outages are related?
 >
-> **[1:05](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-soa?u=76281980&t=65)** Group them by shared causes or affected systems, then focus on the major ones with the biggest impact on users or business operations.
+> **[1:05](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-soa?u=76281980&t=65)** Group them by shared causes or affected systems, then focus on the major ones with the biggest impact on users or [[Business Operations]].
 >
 > **[1:13](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-soa?u=76281980&t=73)** Don't waste time on minor blips that don't reveal systemic issues.
 >
@@ -3364,7 +3316,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-soa?u=76281980&t=194)** Your goal is to choose action items that will eliminate any avoidable outage time.
 >
-> **[3:19](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-soa?u=76281980&t=199)** As you don't have unlimited time and resources, select the subset of action items that are potentially the most impactful and set the rest aside.
+> **[3:19](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-soa?u=76281980&t=199)** As you don't have unlimited time and resources, select the subset of action items that are potentially the most impactful and set the [[Representational State Transfer (REST)|rest]] aside.
 >
 > **[3:26](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-soa?u=76281980&t=206)** All other things being equal, rank items that are easy to do, require little or no resources, and have a higher impact on reducing the frequency and duration of outages higher than items that are hard, time-consuming, and costly to do, and have a low impact on outages.
 >
@@ -3392,7 +3344,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-soa?u=76281980&t=268)** Make sure assigned actions are being executed.
 >
-> **[4:30](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-soa?u=76281980&t=270)** Use dashboards, check-ins, or reports to track progress.
+> **[4:30](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-soa?u=76281980&t=270)** Use [[Dashboards]], check-ins, or reports to track progress.
 >
 > **[4:33](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-soa?u=76281980&t=273)** Analysis without action does not lead to improvement, and improvement is what we're all about here.
 >
@@ -3420,7 +3372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (3), functional (1), product (1), application (1)
+> **Frameworks & Libraries:** [[Business Operations]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Dashboards]] (1)
 > **CLI Commands:** find (4), make (2)
 > **Analogies:** for example (2), such as (1)
 > **Best Practices:** good practice (1), rule of thumb (1)
@@ -3428,8 +3380,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example of SOA
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-soa?u=76281980)
+#### [Example of SOA](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-soa?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3463,7 +3414,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-soa?u=76281980&t=98)** The facilitator ensures that data was available for all outages under consideration in advance, so the team didn't have to dig for it in the meeting.
 >
-> **[1:46](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-soa?u=76281980&t=106)** Notice that lack of experience on Azure versions of services, DNS, and active directory has contributed to most of these outages.
+> **[1:46](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-soa?u=76281980&t=106)** Notice that lack of experience on [[Microsoft Azure|Azure]] versions of services, DNS, and [[Active Directory]] has contributed to most of these outages.
 >
 > **[1:54](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-soa?u=76281980&t=114)** So the team focuses on these since they aim to focus on the 20% of causes that cause 80% of the outages.
 >
@@ -3481,7 +3432,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-soa?u=76281980&t=169)** A process compliance discussion with the vendor bubbled to the top, because it was easy to do and should have a high impact.
 >
-> **[2:55](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-soa?u=76281980&t=175)** Next came AD team training on Azure AD and Azure DNS training.
+> **[2:55](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-soa?u=76281980&t=175)** Next came AD team training on [[Microsoft Entra ID|Azure AD]] and Azure DNS training.
 >
 > **[3:00](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-soa?u=76281980&t=180)** The sequence here was chosen because Azure AD issues had contributed more to outages than Azure DNS.
 >
@@ -3495,13 +3446,13 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-soa?u=76281980&t=220)** There's a dollar cost to two of these action items, so the facilitator representing the team puts these costs in front of the head of IT for approval.
 >
-> **[3:48](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-soa?u=76281980&t=228)** If a change was required, like replacing network switches or adjusting default switch settings, the change manager would've been involved and a change request would've been necessary, but there wasn't, so the team moves on.
+> **[3:48](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-soa?u=76281980&t=228)** If a change was required, like replacing [[Network Switches]] or adjusting default switch settings, the change manager would've been involved and a change request would've been necessary, but there wasn't, so the team moves on.
 >
 > **[4:01](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-soa?u=76281980&t=241)** The team now sets a date to check in on action items.
 >
 > **[4:04](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-soa?u=76281980&t=244)** The process compliance discussion will happen immediately, and the Azure training is set up for the week of the seventh with a check-in on all three action items on the seventh, which is when the team's all hands meeting is held, where such things are typically discussed anyway.
 >
-> **[4:19](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-soa?u=76281980&t=259)** All SharePoint users and a subset of developers, the legato developers, were impacted by five outages that could have been in scope.
+> **[4:19](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-soa?u=76281980&t=259)** All [[SharePoint]] users and a subset of developers, the legato developers, were impacted by five outages that could have been in scope.
 >
 > **[4:26](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-soa?u=76281980&t=266)** Now, the team wants to communicate tailored messages based on the results of their analysis.
 >
@@ -3545,15 +3496,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (8), [[Microsoft Azure|Azure]] (7), [[Microsoft Entra ID|Azure ad]] (6), next (4), [[SharePoint]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft Entra ID|Azure ad]] (6), [[SharePoint]] (2), [[Active Directory]] (1), [[Network Switches]] (1)
 > **Env Vars:** dns (8), vlan (1)
 > **Tools:** colab (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### You do it: SOA
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/you-do-it-soa?u=76281980)
+#### [You do it: SOA](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/you-do-it-soa?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3587,11 +3537,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Speakers:** - [narrator] (1)
 
-#### Review it: SOA
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/review-it-soa?u=76281980)
+#### [Review it: SOA](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/review-it-soa?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3683,7 +3631,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), teams (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** soa (1)
 > **Cross-References:** in the next (1)
@@ -3696,8 +3643,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a problem review, and why use one?
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-a-problem-review-and-why-use-one?u=76281980)
+#### [What is a problem review, and why use one?](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/what-is-a-problem-review-and-why-use-one?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3737,12 +3683,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), teams (2), strengths (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - a (1)
 
-#### Where and when to use a problem review
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-a-problem-review?u=76281980)
+#### [Where and when to use a problem review](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-a-problem-review?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3770,7 +3714,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-a-problem-review?u=76281980&t=47)** They're about learning.
 >
-> **[0:48](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-a-problem-review?u=76281980&t=48)** Use problem reviews to create a space where people feel safe to admit mistakes while ensuring accountability for addressing failures and making improvements.
+> **[0:48](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-a-problem-review?u=76281980&t=48)** Use problem reviews to create a space where people feel safe to admit mistakes while ensuring [[Accountability]] for addressing failures and making improvements.
 >
 > **[0:57](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/where-and-when-to-use-a-problem-review?u=76281980&t=57)** Focus on actionable fixes and crisp and convincing stakeholder communications, turning every review into a step towards better outcomes.
 >
@@ -3840,12 +3784,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accountability]] (2), teams (1), strengths (1), next (1)
+> **Frameworks & Libraries:** [[Accountability]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Steps in a problem review
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-a-problem-review?u=76281980)
+#### [Steps in a problem review](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-a-problem-review?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3937,7 +3880,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-a-problem-review?u=76281980&t=212)** Don't place blame.
 >
-> **[3:34](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-a-problem-review?u=76281980&t=214)** Balance accountability with the safety to admit failures so you can learn and grow.
+> **[3:34](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-a-problem-review?u=76281980&t=214)** Balance [[Accountability]] with the safety to admit failures so you can learn and grow.
 >
 > **[3:40](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-a-problem-review?u=76281980&t=220)** What did you learn about the cause of the problem and how you handled it?
 >
@@ -3957,7 +3900,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-a-problem-review?u=76281980&t=257)** Turn lessons into actions.
 >
-> **[4:19](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-a-problem-review?u=76281980&t=259)** Prioritize tasks based on impact, probability and effort.
+> **[4:19](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-a-problem-review?u=76281980&t=259)** Prioritize tasks based on impact, [[Probability]] and effort.
 >
 > **[4:22](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/steps-in-a-problem-review?u=76281980&t=262)** Assign owners, set deadlines, and ensure every action has a clear path forward.
 >
@@ -4017,14 +3960,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (5), teams (2), business (1), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (1), [[Probability]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** select the (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example of a problem review
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-a-problem-review?u=76281980)
+#### [Example of a problem review](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-a-problem-review?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4034,7 +3976,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-a-problem-review?u=76281980&t=13)** While the service was back up and running, many people were upset about the outage and wanted to know what the IT team was doing and what they would do to prevent it from happening again.
 >
-> **[0:23](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-a-problem-review?u=76281980&t=23)** Alex, the incident response lead, will facilitate a problem review.
+> **[0:23](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-a-problem-review?u=76281980&t=23)** Alex, the [[Incident Response]] lead, will facilitate a problem review.
 >
 > **[0:28](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-a-problem-review?u=76281980&t=28)** It's already known that the outage was due to VLAN changes affecting directory services.
 >
@@ -4042,7 +3984,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-a-problem-review?u=76281980&t=38)** She also invites the vendor team who were engaged in the VLAN changes that contributed to the outage.
 >
-> **[0:43](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-a-problem-review?u=76281980&t=43)** She invites the change enablement lead and another supplier, Microsoft, to bring knowledge of Azure AD.
+> **[0:43](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-a-problem-review?u=76281980&t=43)** She invites the change enablement lead and another supplier, [[Microsoft]], to bring knowledge of [[Microsoft Entra ID|Azure AD]].
 >
 > **[0:50](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-a-problem-review?u=76281980&t=50)** She aims to get the right perspectives in the room without filling with too many people.
 >
@@ -4058,7 +4000,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-a-problem-review?u=76281980&t=79)** They analyzed logs, network authentication, firewall, and collaboration service logs.
 >
-> **[1:24](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-a-problem-review?u=76281980&t=84)** They review VLAN configurations, change records, and system health dashboards.
+> **[1:24](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-a-problem-review?u=76281980&t=84)** They review VLAN configurations, change records, and system health [[Dashboards]].
 >
 > **[1:29](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-a-problem-review?u=76281980&t=89)** They pull data from monitoring tools, alerts, and CMDV records to track dependencies.
 >
@@ -4086,7 +4028,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-a-problem-review?u=76281980&t=161)** Directory services admins will check authentication failures and directory sync issues.
 >
-> **[2:45](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-a-problem-review?u=76281980&t=165)** Service owners will assess the outages impact on users and business operations.
+> **[2:45](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-a-problem-review?u=76281980&t=165)** Service owners will assess the outages impact on users and [[Business Operations]].
 >
 > **[2:50](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-a-problem-review?u=76281980&t=170)** Alex, the incident manager, drives the review, ensuring a structured analysis and follow-up actions.
 >
@@ -4110,7 +4052,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-a-problem-review?u=76281980&t=217)** The root cause: misconfigured VLAN settings blocked directory sync traffic.
 >
-> **[3:42](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-a-problem-review?u=76281980&t=222)** The issue lasted three hours until routing was corrected.
+> **[3:42](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-a-problem-review?u=76281980&t=222)** The issue lasted three hours until [[Routing]] was corrected.
 >
 > **[3:45](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-a-problem-review?u=76281980&t=225)** We're here to confirm the full impact, contributing factors, and next steps."
 >
@@ -4132,7 +4074,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-a-problem-review?u=76281980&t=273)** The team is used to being on the top of its game, but Azure AD is a big shift for them.
 >
-> **[4:38](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-a-problem-review?u=76281980&t=278)** Also, the vendor made a mistake with the VLAN configuration change, but it wouldn't have been an issue if a standard set of network switches with the same default configuration settings had been used.
+> **[4:38](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-a-problem-review?u=76281980&t=278)** Also, the vendor made a mistake with the VLAN configuration change, but it wouldn't have been an issue if a standard set of [[Network Switches]] with the same default configuration settings had been used.
 >
 > **[4:48](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/example-of-a-problem-review?u=76281980&t=288)** Alex did a good job focusing attention away from assigning blame and on what could be done to improve things moving forward.
 >
@@ -4214,15 +4156,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), teams (5), [[Microsoft Entra ID|Azure ad]] (4), business (3), next (3)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (4), [[Incident Response]] (2), [[Microsoft]] (1), [[Dashboards]] (1), [[Business Operations]] (1)
 > **Env Vars:** vlan (11), cmdv (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [presenter] (1)
 
-#### You do it: Problem review
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/you-do-it-problem-review?u=76281980)
+#### [You do it: Problem review](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/you-do-it-problem-review?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4236,7 +4177,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/you-do-it-problem-review?u=76281980&t=22)** With the steps in front of you, it's time to put them into action.
 >
-> **[0:26](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/you-do-it-problem-review?u=76281980&t=26)** Your success will come from preparation, structure, and accountability.
+> **[0:26](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/you-do-it-problem-review?u=76281980&t=26)** Your success will come from preparation, structure, and [[Accountability]].
 >
 > **[0:30](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/you-do-it-problem-review?u=76281980&t=30)** Be sure to keep a balance between accountability and the safety to admit failures.
 >
@@ -4248,12 +4189,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Accountability]] (2), data (1)
+> **Frameworks & Libraries:** [[Accountability]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review it: Problem review
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/review-it-problem-review?u=76281980)
+#### [Review it: Problem review](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/review-it-problem-review?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4329,11 +4269,11 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/review-it-problem-review?u=76281980&t=117)** Hopefully you've tried a technique, reflected on the experience and gained valuable insight for you and your team moving forward.
 >
-> **[2:05](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/review-it-problem-review?u=76281980&t=125)** In the next movie, you'll learn how to continue your problem management journey.
+> **[2:05](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/review-it-problem-review?u=76281980&t=125)** In the next movie, you'll learn how to continue your [[Problem Management]] journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), data (2), management (1), next (1), [[Problem Management]] (1)
+> **Frameworks & Libraries:** [[Problem Management]] (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
@@ -4342,8 +4282,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Further your problem management journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/further-your-problem-management-journey?u=76281980)
+#### [Further your problem management journey](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/further-your-problem-management-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4389,7 +4328,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/further-your-problem-management-journey?u=76281980&t=99)** Problem Review ensures you don't repeat the same mistakes.
 >
-> **[1:42](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/further-your-problem-management-journey?u=76281980&t=102)** Learn more from Kepner-Tregoe's problem management, DevOps retrospectives from Atlassian, and the Phoenix Project's lessons on IT resilience.
+> **[1:42](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/further-your-problem-management-journey?u=76281980&t=102)** Learn more from Kepner-Tregoe's [[Problem Management]], [[DevOps]] retrospectives from [[Atlassian]], and the Phoenix Project's lessons on IT resilience.
 >
 > **[1:52](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/further-your-problem-management-journey?u=76281980&t=112)** Congratulations on completing the course.
 >
@@ -4403,7 +4342,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/further-your-problem-management-journey?u=76281980&t=131)** As you move forward, assess your organization's problem management practices, its strengths, weaknesses and opportunities for improvement.
 >
-> **[2:19](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/further-your-problem-management-journey?u=76281980&t=139)** Explore scalability, performance and security enhancements.
+> **[2:19](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/further-your-problem-management-journey?u=76281980&t=139)** Explore [[Scalability]], performance and security enhancements.
 >
 > **[2:22](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/further-your-problem-management-journey?u=76281980&t=142)** Find out what techniques your team is using and review current practices to see what needs improvement.
 >
@@ -4413,7 +4352,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/further-your-problem-management-journey?u=76281980&t=154)** Think about your role, the people you influence, and the goals you support.
 >
-> **[2:39](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/further-your-problem-management-journey?u=76281980&t=159)** For deeper learning, check out these LinkedIn Learning courses.
+> **[2:39](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/further-your-problem-management-journey?u=76281980&t=159)** For deeper learning, check out these [[LinkedIn]] Learning courses.
 >
 > **[2:43](https://www.linkedin.com/learning/putting-itil-into-practice-problem-management-techniques-25083448/further-your-problem-management-journey?u=76281980&t=163)** Feel free to connect with me on LinkedIn, I'd love to hear from you.
 >
@@ -4421,7 +4360,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Problem Management]] (4), business (2), [[LinkedIn]] (2), next (1), teams (1)
+> **Frameworks & Libraries:** [[Problem Management]] (4), [[LinkedIn]] (2), [[DevOps]] (1), [[Atlassian]] (1), [[Scalability]] (1)
 > **Env Vars:** ideo (1), asq (1), nasa (1), mit (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - congratulations (1)

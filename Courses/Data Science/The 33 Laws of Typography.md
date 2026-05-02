@@ -91,12 +91,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/the-33-laws-of-typography/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-33-laws-of-typography/introduction?u=76281980&t=0)** - [Voiceover] Hello and welcome to The 33 Laws of Typography.
+> **[0:00](https://www.linkedin.com/learning/the-33-laws-of-typography/introduction?u=76281980&t=0)** - [Voiceover] Hello and welcome to The 33 Laws of [[Typography]].
 >
 > **[0:04](https://www.linkedin.com/learning/the-33-laws-of-typography/introduction?u=76281980&t=4)** My name is Jill Butler and I own a design studio in Houston, Texas.
 >
@@ -136,7 +135,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/the-33-laws-of-typography/introduction?u=76281980&t=148)** Documents with professional, beautiful typography are also more aesthetically pleasing.
 >
-> **[2:33](https://www.linkedin.com/learning/the-33-laws-of-typography/introduction?u=76281980&t=153)** They look better and because of this, these documents with beautiful typography, they create a good first impression and they set a positive tone for your audience before a single word is ever spoken or read.
+> **[2:33](https://www.linkedin.com/learning/the-33-laws-of-typography/introduction?u=76281980&t=153)** They look better and because of this, these documents with beautiful typography, they create a good first impression and they set a positive tone for your audience before a single [[Microsoft Word|word]] is ever spoken or read.
 >
 > **[2:49](https://www.linkedin.com/learning/the-33-laws-of-typography/introduction?u=76281980&t=169)** This course is going to introduce you to the foundations of beautiful typography by explaining the 33 laws of typography and these 33 laws have been broken down into five categories.
 >
@@ -148,7 +147,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Typography]] (13), web (1), business (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Typography]] (13), [[Microsoft Word|Word]] (1)
 > **Speakers:** - [voiceover] (1)
 
 
@@ -156,8 +155,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### 01 Distrust default software settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/01-distrust-default-software-settings?u=76281980)
+#### [01 Distrust default software settings](https://www.linkedin.com/learning/the-33-laws-of-typography/01-distrust-default-software-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -261,13 +259,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2)
 > **CLI Commands:** make (1)
 > **Versions:** 2.4 (1)
 > **Definitions:** is called (1)
 
-#### 02 Ensure good contrast between text and background
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/02-ensure-good-contrast-between-text-and-background?u=76281980)
+#### [02 Ensure good contrast between text and background](https://www.linkedin.com/learning/the-33-laws-of-typography/02-ensure-good-contrast-between-text-and-background?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -407,8 +403,7 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - law (1)
 
-#### 03 Avoid chart junk and page junk
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/03-avoid-chart-junk-and-page-junk?u=76281980)
+#### [03 Avoid chart junk and page junk](https://www.linkedin.com/learning/the-33-laws-of-typography/03-avoid-chart-junk-and-page-junk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -539,8 +534,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - law (1)
 
-#### 04 Enforce a consistent style within a document
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/04-enforce-a-consistent-style-within-a-document?u=76281980)
+#### [04 Enforce a consistent style within a document](https://www.linkedin.com/learning/the-33-laws-of-typography/04-enforce-a-consistent-style-within-a-document?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -580,7 +574,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/the-33-laws-of-typography/04-enforce-a-consistent-style-within-a-document?u=76281980&t=102)** Some of the chapter titles are bold, others are not bold, some chapter titles are all upper case, others are not.
 >
-> **[1:50](https://www.linkedin.com/learning/the-33-laws-of-typography/04-enforce-a-consistent-style-within-a-document?u=76281980&t=110)** And even in the body text if we look at the final paragraph there's extra space between each of these lines of text and it's different from the rest of the body text.
+> **[1:50](https://www.linkedin.com/learning/the-33-laws-of-typography/04-enforce-a-consistent-style-within-a-document?u=76281980&t=110)** And even in the body text if we look at the final paragraph there's extra space between each of these lines of text and it's different from the [[Representational State Transfer (REST)|rest]] of the body text.
 >
 > **[2:00](https://www.linkedin.com/learning/the-33-laws-of-typography/04-enforce-a-consistent-style-within-a-document?u=76281980&t=120)** That means that this last paragraph has more leading than the others.
 >
@@ -636,7 +630,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/the-33-laws-of-typography/04-enforce-a-consistent-style-within-a-document?u=76281980&t=264)** And a really nice thing is that if you do use styles and then you change your mind about a particular element, like if you want to change the type style of all your headings, you can go in and modify this style one time and it updates throughout your document.
 >
-> **[4:39](https://www.linkedin.com/learning/the-33-laws-of-typography/04-enforce-a-consistent-style-within-a-document?u=76281980&t=279)** If you're designing a website, you're going to want to use css or Cascading Style Sheets and that will accomplish the same thing.
+> **[4:39](https://www.linkedin.com/learning/the-33-laws-of-typography/04-enforce-a-consistent-style-within-a-document?u=76281980&t=279)** If you're designing a website, you're going to want to use css or [[Cascading Style Sheets (CSS)|Cascading Style Sheets]] and that will accomplish the same thing.
 >
 > **[4:50](https://www.linkedin.com/learning/the-33-laws-of-typography/04-enforce-a-consistent-style-within-a-document?u=76281980&t=290)** Let's summarize, enforcing consistent style throughout your documents allows readers to focus on the content.
 >
@@ -648,15 +642,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), css (1), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1)
 > **Definitions:** means that (3), is a  (3), is an  (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for instance (1)
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - law (1)
 
-#### 05 Maintain a visual hierarchy
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/05-maintain-a-visual-hierarchy?u=76281980)
+#### [05 Maintain a visual hierarchy](https://www.linkedin.com/learning/the-33-laws-of-typography/05-maintain-a-visual-hierarchy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -760,7 +753,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/the-33-laws-of-typography/05-maintain-a-visual-hierarchy?u=76281980&t=315)** You can use your software's built-in style sheets to help set up and apply and maintain this consistent hierarchy throughout your document.
 >
-> **[5:24](https://www.linkedin.com/learning/the-33-laws-of-typography/05-maintain-a-visual-hierarchy?u=76281980&t=324)** And if you're a web designer, using Cascading Style Sheets, or CSS, is going to help provide the same framework.
+> **[5:24](https://www.linkedin.com/learning/the-33-laws-of-typography/05-maintain-a-visual-hierarchy?u=76281980&t=324)** And if you're a web designer, using [[Cascading Style Sheets (CSS)|Cascading Style Sheets]], or CSS, is going to help provide the same framework.
 >
 > **[5:32](https://www.linkedin.com/learning/the-33-laws-of-typography/05-maintain-a-visual-hierarchy?u=76281980&t=332)** Let's summarize.
 >
@@ -774,15 +767,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1), css (1)
+> **Frameworks & Libraries:** [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** means that (1), is a  (1)
 > **Prerequisites:** before you begin (1), set up (1)
 > **Env Vars:** css (1)
 > **Speakers:** - law (1)
 
-#### 06 Group related page elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/06-group-related-page-elements?u=76281980)
+#### [06 Group related page elements](https://www.linkedin.com/learning/the-33-laws-of-typography/06-group-related-page-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -881,8 +873,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### 07 Set printed body text from 9 to 11 points
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/07-set-printed-body-text-from-9-to-11-points?u=76281980)
+#### [07 Set printed body text from 9 to 11 points](https://www.linkedin.com/learning/the-33-laws-of-typography/07-set-printed-body-text-from-9-to-11-points?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -958,14 +949,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - law (1)
 
-#### 08 Set body text two to three alphabets wide
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/08-set-body-text-two-to-three-alphabets-wide?u=76281980)
+#### [08 Set body text two to three alphabets wide](https://www.linkedin.com/learning/the-33-laws-of-typography/08-set-body-text-two-to-three-alphabets-wide?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1061,13 +1050,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (5)
 > **Definitions:** refers to (1), is an  (1)
 > **Speakers:** - law (1)
 
-#### 09 Favor flush-left, ragged-right body text
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/09-favor-flush-left-ragged-right-body-text?u=76281980)
+#### [09 Favor flush-left, ragged-right body text](https://www.linkedin.com/learning/the-33-laws-of-typography/09-favor-flush-left-ragged-right-body-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1081,7 +1068,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/the-33-laws-of-typography/09-favor-flush-left-ragged-right-body-text?u=76281980&t=27)** This is flush left, ragged right text.
 >
-> **[0:30](https://www.linkedin.com/learning/the-33-laws-of-typography/09-favor-flush-left-ragged-right-body-text?u=76281980&t=30)** In flush left text, you can see that the left edge of the text forms a straight line and the right edge is ragged.
+> **[0:30](https://www.linkedin.com/learning/the-33-laws-of-typography/09-favor-flush-left-ragged-right-body-text?u=76281980&t=30)** In flush left text, you can see that the left edge of the text [[Forms]] a straight line and the right edge is ragged.
 >
 > **[0:37](https://www.linkedin.com/learning/the-33-laws-of-typography/09-favor-flush-left-ragged-right-body-text?u=76281980&t=37)** This means that the right edge is allowed to be uneven.
 >
@@ -1147,13 +1134,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (4), data (1), business (1)
+> **Frameworks & Libraries:** [[Forms]] (4)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), means that (1)
 > **Speakers:** - [voiceover] (1)
 
-#### 10 Separate sentences with one space, not two
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/10-separate-sentences-with-one-space-not-two?u=76281980)
+#### [10 Separate sentences with one space, not two](https://www.linkedin.com/learning/the-33-laws-of-typography/10-separate-sentences-with-one-space-not-two?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1241,19 +1227,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - law (1)
 
-#### 11 Don't allow less than seven characters on a line
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/11-don-t-allow-less-than-seven-characters-on-a-line?u=76281980)
+#### [11 Don't allow less than seven characters on a line](https://www.linkedin.com/learning/the-33-laws-of-typography/11-don-t-allow-less-than-seven-characters-on-a-line?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/the-33-laws-of-typography/11-don-t-allow-less-than-seven-characters-on-a-line?u=76281980&t=0)** Law 11: Don't allow less than seven characters on the line.
 >
-> **[0:07](https://www.linkedin.com/learning/the-33-laws-of-typography/11-don-t-allow-less-than-seven-characters-on-a-line?u=76281980&t=7)** When you're formatting paragraphs of text, sometimes a single word, or maybe a short phrase, is going to end up as the last line of a paragraph.
+> **[0:07](https://www.linkedin.com/learning/the-33-laws-of-typography/11-don-t-allow-less-than-seven-characters-on-a-line?u=76281980&t=7)** When you're formatting paragraphs of text, sometimes a single [[Microsoft Word|word]], or maybe a short phrase, is going to end up as the last line of a paragraph.
 >
 > **[0:14](https://www.linkedin.com/learning/the-33-laws-of-typography/11-don-t-allow-less-than-seven-characters-on-a-line?u=76281980&t=14)** It's pretty much inevitable.
 >
@@ -1325,7 +1309,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/the-33-laws-of-typography/11-don-t-allow-less-than-seven-characters-on-a-line?u=76281980&t=235)** They're not allowed to be broken at the space.
 >
-> **[3:59](https://www.linkedin.com/learning/the-33-laws-of-typography/11-don-t-allow-less-than-seven-characters-on-a-line?u=76281980&t=239)** Non-breaking spaces are also available in HTML, if you're a web designer, and you access them by using this character entity.
+> **[3:59](https://www.linkedin.com/learning/the-33-laws-of-typography/11-don-t-allow-less-than-seven-characters-on-a-line?u=76281980&t=239)** Non-breaking spaces are also available in [[HTML]], if you're a web designer, and you access them by using this character entity.
 >
 > **[4:11](https://www.linkedin.com/learning/the-33-laws-of-typography/11-don-t-allow-less-than-seven-characters-on-a-line?u=76281980&t=251)** This law applies not only to body text, but you also want to use this same law if you're dealing with document titles, subheadings, invitation text, et cetera.
 >
@@ -1369,15 +1353,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (9), hit (2), next (1), [[HTML]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (9), [[HTML]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** html (1)
 > **Best Practices:** rule of thumb (1)
 > **Warnings:** keep in mind (1)
 
-#### 12 Avoid bad paragraph breaks
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/12-avoid-bad-paragraph-breaks?u=76281980)
+#### [12 Avoid bad paragraph breaks](https://www.linkedin.com/learning/the-33-laws-of-typography/12-avoid-bad-paragraph-breaks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1411,7 +1394,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/the-33-laws-of-typography/12-avoid-bad-paragraph-breaks?u=76281980&t=91)** In multi-line paragraphs, you want to keep at least two lines of text grouped together at all times.
 >
-> **[1:39](https://www.linkedin.com/learning/the-33-laws-of-typography/12-avoid-bad-paragraph-breaks?u=76281980&t=99)** Keeping at least two lines of text together forms a block or a group that carries more visual weight than just one little line of text.
+> **[1:39](https://www.linkedin.com/learning/the-33-laws-of-typography/12-avoid-bad-paragraph-breaks?u=76281980&t=99)** Keeping at least two lines of text together [[Forms]] a block or a group that carries more visual weight than just one little line of text.
 >
 > **[1:48](https://www.linkedin.com/learning/the-33-laws-of-typography/12-avoid-bad-paragraph-breaks?u=76281980&t=108)** When you allow your paragraphs to break across pages and leave these single lines of text at the beginning or the end of a page, you're not only creating visual unbalance, but you're also breaking up the point of the paragraph or the text in a paragraph in a way that makes it a little bit harder to read and a little bit more difficult for readers to stitch those thoughts back together while they're reading.
 >
@@ -1467,14 +1450,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** in other words (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - law (1)
 
-#### 13 Avoid line-breaking hyphens
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/13-avoid-line-breaking-hyphens?u=76281980)
+#### [13 Avoid line-breaking hyphens](https://www.linkedin.com/learning/the-33-laws-of-typography/13-avoid-line-breaking-hyphens?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1486,7 +1468,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/the-33-laws-of-typography/13-avoid-line-breaking-hyphens?u=76281980&t=9)** And sometimes they're necessary to improve readability and help clarify meaning in your documents.
 >
-> **[0:15](https://www.linkedin.com/learning/the-33-laws-of-typography/13-avoid-line-breaking-hyphens?u=76281980&t=15)** There are some words like the word twenty-two that require a hyphen.
+> **[0:15](https://www.linkedin.com/learning/the-33-laws-of-typography/13-avoid-line-breaking-hyphens?u=76281980&t=15)** There are some words like the [[Microsoft Word|word]] twenty-two that require a hyphen.
 >
 > **[0:19](https://www.linkedin.com/learning/the-33-laws-of-typography/13-avoid-line-breaking-hyphens?u=76281980&t=19)** And here the hyphen's being used to eliminate confusion and to help your readers get a quick grasp on exactly what the text is trying to say.
 >
@@ -1500,7 +1482,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/the-33-laws-of-typography/13-avoid-line-breaking-hyphens?u=76281980&t=45)** These hyphens are automatically inserted when an entire word won't fit at the end of a line of text.
 >
-> **[0:52](https://www.linkedin.com/learning/the-33-laws-of-typography/13-avoid-line-breaking-hyphens?u=76281980&t=52)** The software is going to put the beginning of the word on the line, maybe a few characters, then the software adds a hyphen and then the software continues the rest of the word on the next line of the paragraph.
+> **[0:52](https://www.linkedin.com/learning/the-33-laws-of-typography/13-avoid-line-breaking-hyphens?u=76281980&t=52)** The software is going to put the beginning of the word on the line, maybe a few characters, then the software adds a hyphen and then the software continues the [[Representational State Transfer (REST)|rest]] of the word on the next line of the paragraph.
 >
 > **[1:05](https://www.linkedin.com/learning/the-33-laws-of-typography/13-avoid-line-breaking-hyphens?u=76281980&t=65)** And I'm sure you've seen these a lot, you probably see them all the time.
 >
@@ -1562,12 +1544,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Representational State Transfer (REST)|Rest]] (1), next (1), web (1), css (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - law (1)
 
-#### 14 Signal new paragraphs once, not twice
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/14-signal-new-paragraphs-once-not-twice?u=76281980)
+#### [14 Signal new paragraphs once, not twice](https://www.linkedin.com/learning/the-33-laws-of-typography/14-signal-new-paragraphs-once-not-twice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1663,13 +1644,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - law (1)
 
-#### 15 Break up large blocks of text
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/15-break-up-large-blocks-of-text?u=76281980)
+#### [15 Break up large blocks of text](https://www.linkedin.com/learning/the-33-laws-of-typography/15-break-up-large-blocks-of-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1711,7 +1690,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/the-33-laws-of-typography/15-break-up-large-blocks-of-text?u=76281980&t=124)** A drop cap is a large capital letter that drops down into the body of the text.
 >
-> **[2:11](https://www.linkedin.com/learning/the-33-laws-of-typography/15-break-up-large-blocks-of-text?u=76281980&t=131)** A large initial cap is an initial character that's been set at a much larger size than the rest of the body text or the text on the page.
+> **[2:11](https://www.linkedin.com/learning/the-33-laws-of-typography/15-break-up-large-blocks-of-text?u=76281980&t=131)** A large initial cap is an initial character that's been set at a much larger size than the [[Representational State Transfer (REST)|rest]] of the body text or the text on the page.
 >
 > **[2:19](https://www.linkedin.com/learning/the-33-laws-of-typography/15-break-up-large-blocks-of-text?u=76281980&t=139)** This initial cap shares the same baseline as the rest of the text.
 >
@@ -1771,7 +1750,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/the-33-laws-of-typography/15-break-up-large-blocks-of-text?u=76281980&t=278)** Overall, the result is disjointed and pretty frantic.
 >
-> **[4:43](https://www.linkedin.com/learning/the-33-laws-of-typography/15-break-up-large-blocks-of-text?u=76281980&t=283)** Knowing when to stop is a really important part of typography and page design.
+> **[4:43](https://www.linkedin.com/learning/the-33-laws-of-typography/15-break-up-large-blocks-of-text?u=76281980&t=283)** Knowing when to stop is a really important part of [[Typography]] and page design.
 >
 > **[4:49](https://www.linkedin.com/learning/the-33-laws-of-typography/15-break-up-large-blocks-of-text?u=76281980&t=289)** Let's summarize.
 >
@@ -1795,8 +1774,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### 16 Emphasize ten percent or less of text
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/16-emphasize-ten-percent-or-less-of-text?u=76281980)
+#### [16 Emphasize ten percent or less of text](https://www.linkedin.com/learning/the-33-laws-of-typography/16-emphasize-ten-percent-or-less-of-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1816,7 +1794,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/the-33-laws-of-typography/16-emphasize-ten-percent-or-less-of-text?u=76281980&t=43)** You should emphasize 10 percent or less of visible text on a page.
 >
-> **[0:49](https://www.linkedin.com/learning/the-33-laws-of-typography/16-emphasize-ten-percent-or-less-of-text?u=76281980&t=49)** This means that, for every 10 words, only one word should be emphasized.
+> **[0:49](https://www.linkedin.com/learning/the-33-laws-of-typography/16-emphasize-ten-percent-or-less-of-text?u=76281980&t=49)** This means that, for every 10 words, only one [[Microsoft Word|word]] should be emphasized.
 >
 > **[0:54](https://www.linkedin.com/learning/the-33-laws-of-typography/16-emphasize-ten-percent-or-less-of-text?u=76281980&t=54)** Any more than that, and you risk over-emphasizing.
 >
@@ -1884,13 +1862,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Warnings:** be careful (2)
 > **Speakers:** - law (1)
 
-#### 17 Avoid all caps and underlined text
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/17-avoid-all-caps-and-underlined-text?u=76281980)
+#### [17 Avoid all caps and underlined text](https://www.linkedin.com/learning/the-33-laws-of-typography/17-avoid-all-caps-and-underlined-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1950,13 +1927,13 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/the-33-laws-of-typography/17-avoid-all-caps-and-underlined-text?u=76281980&t=176)** Using a different typeface.
 >
-> **[2:59](https://www.linkedin.com/learning/the-33-laws-of-typography/17-avoid-all-caps-and-underlined-text?u=76281980&t=179)** If you're using a different typeface for emphasis, make sure it's different enough from the rest of your text to stand out.
+> **[2:59](https://www.linkedin.com/learning/the-33-laws-of-typography/17-avoid-all-caps-and-underlined-text?u=76281980&t=179)** If you're using a different typeface for emphasis, make sure it's different enough from the [[Representational State Transfer (REST)|rest]] of your text to stand out.
 >
 > **[3:06](https://www.linkedin.com/learning/the-33-laws-of-typography/17-avoid-all-caps-and-underlined-text?u=76281980&t=186)** If you're using this technique in body text, align x heights of both typefaces to help integrate them and make them look cohesive on the page.
 >
 > **[3:18](https://www.linkedin.com/learning/the-33-laws-of-typography/17-avoid-all-caps-and-underlined-text?u=76281980&t=198)** Spacing.
 >
-> **[3:19](https://www.linkedin.com/learning/the-33-laws-of-typography/17-avoid-all-caps-and-underlined-text?u=76281980&t=199)** Adding extra space around a block of text can be a very effective, unexpected way to emphasize a word or a phrase.
+> **[3:19](https://www.linkedin.com/learning/the-33-laws-of-typography/17-avoid-all-caps-and-underlined-text?u=76281980&t=199)** Adding extra space around a block of text can be a very effective, unexpected way to emphasize a [[Microsoft Word|word]] or a phrase.
 >
 > **[3:27](https://www.linkedin.com/learning/the-33-laws-of-typography/17-avoid-all-caps-and-underlined-text?u=76281980&t=207)** This technique doesn't work so well in body text but it can be very effective on business cards, posters, invitations and documents of that type.
 >
@@ -2020,15 +1997,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (7)
 > **Warnings:** be aware (2), be careful (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - law (1)
 
-#### 18 Set acronyms and initialisms in small caps
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/18-set-acronyms-and-initialisms-in-small-caps?u=76281980)
+#### [18 Set acronyms and initialisms in small caps](https://www.linkedin.com/learning/the-33-laws-of-typography/18-set-acronyms-and-initialisms-in-small-caps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2042,7 +2018,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/the-33-laws-of-typography/18-set-acronyms-and-initialisms-in-small-caps?u=76281980&t=28)** Examples of acronyms are NASA, which stands for National Aeronautics and Space Administration, ASCII, which stands for American Standard Code for Information Interchange, NATO, which stands for North Atlantic Treaty Organization, and ASAP which stands for as soon as possible.
 >
-> **[0:47](https://www.linkedin.com/learning/the-33-laws-of-typography/18-set-acronyms-and-initialisms-in-small-caps?u=76281980&t=47)** And you can see we took the first letter of each of these words and strung it together to form an abbreviation which we pronounce as a word.
+> **[0:47](https://www.linkedin.com/learning/the-33-laws-of-typography/18-set-acronyms-and-initialisms-in-small-caps?u=76281980&t=47)** And you can see we took the first letter of each of these words and strung it together to form an abbreviation which we pronounce as a [[Microsoft Word|word]].
 >
 > **[0:59](https://www.linkedin.com/learning/the-33-laws-of-typography/18-set-acronyms-and-initialisms-in-small-caps?u=76281980&t=59)** Examples of initialisms are CIA, which stands for Central Intelligence Agency, and here, instead of reading CIA as a word, we pronounce each separate letter, and that's what makes this an initialism.
 >
@@ -2054,7 +2030,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/the-33-laws-of-typography/18-set-acronyms-and-initialisms-in-small-caps?u=76281980&t=107)** So, you should avoid using all caps in professional documents for this reason.
 >
-> **[1:52](https://www.linkedin.com/learning/the-33-laws-of-typography/18-set-acronyms-and-initialisms-in-small-caps?u=76281980&t=112)** Text that is set in all caps is really too heavy on the page, and it looks out of scale compared to the rest of the body text that's going to be set in mostly lower case letters.
+> **[1:52](https://www.linkedin.com/learning/the-33-laws-of-typography/18-set-acronyms-and-initialisms-in-small-caps?u=76281980&t=112)** Text that is set in all caps is really too heavy on the page, and it looks out of scale compared to the [[Representational State Transfer (REST)|rest]] of the body text that's going to be set in mostly lower case letters.
 >
 > **[2:02](https://www.linkedin.com/learning/the-33-laws-of-typography/18-set-acronyms-and-initialisms-in-small-caps?u=76281980&t=122)** So then, what do you do with acronyms and initialisms?
 >
@@ -2101,8 +2077,7 @@ created: 2026-05-02
 > **Env Vars:** cia (2), nasa (1), ascii (1), nato (1), asap (1)
 > **Speakers:** - law (1)
 
-#### 19 Hang punctuation in small chunks of text
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/19-hang-punctuation-in-small-chunks-of-text?u=76281980)
+#### [19 Hang punctuation in small chunks of text](https://www.linkedin.com/learning/the-33-laws-of-typography/19-hang-punctuation-in-small-chunks-of-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2120,7 +2095,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/the-33-laws-of-typography/19-hang-punctuation-in-small-chunks-of-text?u=76281980&t=33)** The pull quote is helping us break up some of the text on the page and add some visual interest.
 >
-> **[0:39](https://www.linkedin.com/learning/the-33-laws-of-typography/19-hang-punctuation-in-small-chunks-of-text?u=76281980&t=39)** Notice how the opening quotation marks have been left-aligned with the rest of the text.
+> **[0:39](https://www.linkedin.com/learning/the-33-laws-of-typography/19-hang-punctuation-in-small-chunks-of-text?u=76281980&t=39)** Notice how the opening quotation marks have been left-aligned with the [[Representational State Transfer (REST)|rest]] of the text.
 >
 > **[0:43](https://www.linkedin.com/learning/the-33-laws-of-typography/19-hang-punctuation-in-small-chunks-of-text?u=76281980&t=43)** In this example, the punctuation is not hung.
 >
@@ -2204,12 +2179,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - law (1)
 
-#### 20 Hang bullets and numbers in lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/20-hang-bullets-and-numbers-in-lists?u=76281980)
+#### [20 Hang bullets and numbers in lists](https://www.linkedin.com/learning/the-33-laws-of-typography/20-hang-bullets-and-numbers-in-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2323,15 +2297,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - law (1)
 
-#### 21 Avoid bad line breaks
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/21-avoid-bad-line-breaks?u=76281980)
+#### [21 Avoid bad line breaks](https://www.linkedin.com/learning/the-33-laws-of-typography/21-avoid-bad-line-breaks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2411,14 +2383,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (2), next (1)
 > **CLI Commands:** make (7)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **Warnings:** watch out (1)
 > **Speakers:** - law (1)
 
-#### 22 Use symbols and special characters as needed
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/22-use-symbols-and-special-characters-as-needed?u=76281980)
+#### [22 Use symbols and special characters as needed](https://www.linkedin.com/learning/the-33-laws-of-typography/22-use-symbols-and-special-characters-as-needed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2440,7 +2410,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/the-33-laws-of-typography/22-use-symbols-and-special-characters-as-needed?u=76281980&t=77)** The English language contains words that have been borrowed from some of these languages, that also require these diacritical marks.
 >
-> **[1:26](https://www.linkedin.com/learning/the-33-laws-of-typography/22-use-symbols-and-special-characters-as-needed?u=76281980&t=86)** If a word needs a diacritical mark to be spelled correctly, use it.
+> **[1:26](https://www.linkedin.com/learning/the-33-laws-of-typography/22-use-symbols-and-special-characters-as-needed?u=76281980&t=86)** If a [[Microsoft Word|word]] needs a diacritical mark to be spelled correctly, use it.
 >
 > **[1:33](https://www.linkedin.com/learning/the-33-laws-of-typography/22-use-symbols-and-special-characters-as-needed?u=76281980&t=93)** For example, in Spanish, the word si without an accent mark over the i, is not the same as the word si with an accent mark over the i.
 >
@@ -2478,11 +2448,11 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/the-33-laws-of-typography/22-use-symbols-and-special-characters-as-needed?u=76281980&t=206)** Further special characters on a Macintosh computer, you could use what's called the character viewer or the keyboard viewer.
 >
-> **[3:35](https://www.linkedin.com/learning/the-33-laws-of-typography/22-use-symbols-and-special-characters-as-needed?u=76281980&t=215)** If you use a computer with the Windows operating system, look for what's called the character map or the international keyboard utility.
+> **[3:35](https://www.linkedin.com/learning/the-33-laws-of-typography/22-use-symbols-and-special-characters-as-needed?u=76281980&t=215)** If you use a computer with the [[Windows]] operating system, look for what's called the character map or the international keyboard utility.
 >
 > **[3:45](https://www.linkedin.com/learning/the-33-laws-of-typography/22-use-symbols-and-special-characters-as-needed?u=76281980&t=225)** For web designers, to make special characters and accented letters show up on your web pages, you're going to use a special set of codes that are called character entities.
 >
-> **[3:56](https://www.linkedin.com/learning/the-33-laws-of-typography/22-use-symbols-and-special-characters-as-needed?u=76281980&t=236)** You'll insert these character entities into your HTML code and then a web browser is going to display the corresponding symbols or characters that you coded.
+> **[3:56](https://www.linkedin.com/learning/the-33-laws-of-typography/22-use-symbols-and-special-characters-as-needed?u=76281980&t=236)** You'll insert these character entities into your [[HTML]] code and then a web browser is going to display the corresponding symbols or characters that you coded.
 >
 > **[4:07](https://www.linkedin.com/learning/the-33-laws-of-typography/22-use-symbols-and-special-characters-as-needed?u=76281980&t=247)** You could do an online search for character entities and you will get plenty of information that gives you all of these special codes to use in your web pages.
 >
@@ -2508,7 +2478,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), web (4), [[Windows]] (1), [[HTML]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Windows]] (1), [[HTML]] (1)
 > **CLI Commands:** make (2)
 > **Warnings:** keep in mind (1), be aware (1)
 > **Code Identifiers:** iphones (1)
@@ -2517,8 +2487,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - law (1)
 
-#### 23 Use proportional old-style figures in body text
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/23-use-proportional-old-style-figures-in-body-text?u=76281980)
+#### [23 Use proportional old-style figures in body text](https://www.linkedin.com/learning/the-33-laws-of-typography/23-use-proportional-old-style-figures-in-body-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2526,7 +2495,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/the-33-laws-of-typography/23-use-proportional-old-style-figures-in-body-text?u=76281980&t=7)** You may not be aware of this, but some typefaces contain different types of figures that have been designed for different uses.
 >
-> **[0:15](https://www.linkedin.com/learning/the-33-laws-of-typography/23-use-proportional-old-style-figures-in-body-text?u=76281980&t=15)** Figures is just another word for numbers.
+> **[0:15](https://www.linkedin.com/learning/the-33-laws-of-typography/23-use-proportional-old-style-figures-in-body-text?u=76281980&t=15)** Figures is just another [[Microsoft Word|word]] for numbers.
 >
 > **[0:20](https://www.linkedin.com/learning/the-33-laws-of-typography/23-use-proportional-old-style-figures-in-body-text?u=76281980&t=20)** Proportional figures have been designed to consume different amounts of space based on the shape of each number.
 >
@@ -2616,15 +2585,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (1), business (1), web (1), css (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Warnings:** be aware (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** css (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - law (1)
 
-#### 24 Adjust leading and kerning for large text
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/24-adjust-leading-and-kerning-for-large-text?u=76281980)
+#### [24 Adjust leading and kerning for large text](https://www.linkedin.com/learning/the-33-laws-of-typography/24-adjust-leading-and-kerning-for-large-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2720,7 +2688,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/the-33-laws-of-typography/24-adjust-leading-and-kerning-for-large-text?u=76281980&t=273)** As long as you're using a professionally designed typeface, the kerning table should do its job, and you will not have to get involved.
 >
-> **[4:41](https://www.linkedin.com/learning/the-33-laws-of-typography/24-adjust-leading-and-kerning-for-large-text?u=76281980&t=281)** A special note, if you do use Microsoft Word, kerning is not applied by default.
+> **[4:41](https://www.linkedin.com/learning/the-33-laws-of-typography/24-adjust-leading-and-kerning-for-large-text?u=76281980&t=281)** A special note, if you do use [[Microsoft Word]], kerning is not applied by default.
 >
 > **[4:47](https://www.linkedin.com/learning/the-33-laws-of-typography/24-adjust-leading-and-kerning-for-large-text?u=76281980&t=287)** It's actually not turned on.
 >
@@ -2766,13 +2734,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word]] (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Word]] (2)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - law (1)
 
-#### 25 Verify software alignments optically
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/25-verify-software-alignments-optically?u=76281980)
+#### [25 Verify software alignments optically](https://www.linkedin.com/learning/the-33-laws-of-typography/25-verify-software-alignments-optically?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2800,7 +2767,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/the-33-laws-of-typography/25-verify-software-alignments-optically?u=76281980&t=68)** It looks like it's just a little too far to the left, and it actually looks like it might tip over just a little bit.
 >
-> **[1:16](https://www.linkedin.com/learning/the-33-laws-of-typography/25-verify-software-alignments-optically?u=76281980&t=76)** Why? Because the sun rays are visually lighter than the rest of the logo, which means that the left side of this logo is visually heavier than the right side.
+> **[1:16](https://www.linkedin.com/learning/the-33-laws-of-typography/25-verify-software-alignments-optically?u=76281980&t=76)** Why? Because the sun rays are visually lighter than the [[Representational State Transfer (REST)|rest]] of the logo, which means that the left side of this logo is visually heavier than the right side.
 >
 > **[1:28](https://www.linkedin.com/learning/the-33-laws-of-typography/25-verify-software-alignments-optically?u=76281980&t=88)** When I'm centering this logo on a page, it needs to be centered using just the text, not including the sun rays.
 >
@@ -2824,7 +2791,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/the-33-laws-of-typography/25-verify-software-alignments-optically?u=76281980&t=153)** But, it doesn't look quite right, it doesn't look centered. Why?
 >
-> **[2:37](https://www.linkedin.com/learning/the-33-laws-of-typography/25-verify-software-alignments-optically?u=76281980&t=157)** Because, the word's that we're using, have descenders but no ascenders.
+> **[2:37](https://www.linkedin.com/learning/the-33-laws-of-typography/25-verify-software-alignments-optically?u=76281980&t=157)** Because, the [[Microsoft Word|word]]'s that we're using, have descenders but no ascenders.
 >
 > **[2:44](https://www.linkedin.com/learning/the-33-laws-of-typography/25-verify-software-alignments-optically?u=76281980&t=164)** So, horizontally this looks just fine, but vertically it looks too high on the page.
 >
@@ -2878,7 +2845,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), business (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
@@ -2890,8 +2857,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### 26 Connect thoughts, using em dashes
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/26-connect-thoughts-using-em-dashes?u=76281980)
+#### [26 Connect thoughts, using em dashes](https://www.linkedin.com/learning/the-33-laws-of-typography/26-connect-thoughts-using-em-dashes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2945,9 +2911,9 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/the-33-laws-of-typography/26-connect-thoughts-using-em-dashes?u=76281980&t=161)** If you're using a Macintosh computer, you can insert an em dash into your document by holding down the keys option and shift, and then typing a hyphen.
 >
-> **[2:53](https://www.linkedin.com/learning/the-33-laws-of-typography/26-connect-thoughts-using-em-dashes?u=76281980&t=173)** And if you're using a Windows machine, you can insert an em dash by holding down the alt key, and then typing the numbers "0151".
+> **[2:53](https://www.linkedin.com/learning/the-33-laws-of-typography/26-connect-thoughts-using-em-dashes?u=76281980&t=173)** And if you're using a [[Windows]] machine, you can insert an em dash by holding down the alt key, and then typing the numbers "0151".
 >
-> **[3:04](https://www.linkedin.com/learning/the-33-laws-of-typography/26-connect-thoughts-using-em-dashes?u=76281980&t=184)** Now if you're a web designer in HTML, you would use this character entity in order to insert an em dash.
+> **[3:04](https://www.linkedin.com/learning/the-33-laws-of-typography/26-connect-thoughts-using-em-dashes?u=76281980&t=184)** Now if you're a web designer in [[HTML]], you would use this character entity in order to insert an em dash.
 >
 > **[3:12](https://www.linkedin.com/learning/the-33-laws-of-typography/26-connect-thoughts-using-em-dashes?u=76281980&t=192)** Let's summarize.
 >
@@ -2955,7 +2921,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/the-33-laws-of-typography/26-connect-thoughts-using-em-dashes?u=76281980&t=196)** They're not correct and they make your documents look unprofessional.
 >
-> **[3:21](https://www.linkedin.com/learning/the-33-laws-of-typography/26-connect-thoughts-using-em-dashes?u=76281980&t=201)** Instead, use an em dash when you want to add emphasis to a word or phrase, to indicate a long pause or interruption, or to show abrupt changes of thought.
+> **[3:21](https://www.linkedin.com/learning/the-33-laws-of-typography/26-connect-thoughts-using-em-dashes?u=76281980&t=201)** Instead, use an em dash when you want to add emphasis to a [[Microsoft Word|word]] or phrase, to indicate a long pause or interruption, or to show abrupt changes of thought.
 >
 > **[3:35](https://www.linkedin.com/learning/the-33-laws-of-typography/26-connect-thoughts-using-em-dashes?u=76281980&t=215)** Em dashes are really easy to insert in your documents, and they will make your documents more professional.
 >
@@ -2963,15 +2929,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), web (1), [[HTML]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[HTML]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** html (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - law (1)
 
-#### 27 Show ranges, using en dashes
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/27-show-ranges-using-en-dashes?u=76281980)
+#### [27 Show ranges, using en dashes](https://www.linkedin.com/learning/the-33-laws-of-typography/27-show-ranges-using-en-dashes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3001,7 +2966,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/the-33-laws-of-typography/27-show-ranges-using-en-dashes?u=76281980&t=66)** In all of those cases, we're talking about ranges and an en dash is the proper character to use.
 >
-> **[1:15](https://www.linkedin.com/learning/the-33-laws-of-typography/27-show-ranges-using-en-dashes?u=76281980&t=75)** En dashes are also used to join words when at least one word is an open compound.
+> **[1:15](https://www.linkedin.com/learning/the-33-laws-of-typography/27-show-ranges-using-en-dashes?u=76281980&t=75)** En dashes are also used to join words when at least one [[Microsoft Word|word]] is an open compound.
 >
 > **[1:21](https://www.linkedin.com/learning/the-33-laws-of-typography/27-show-ranges-using-en-dashes?u=76281980&t=81)** Open compounds are usually two-word proper nouns.
 >
@@ -3033,9 +2998,9 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/the-33-laws-of-typography/27-show-ranges-using-en-dashes?u=76281980&t=199)** On a Mac, you can create an en dash by holding down the option key and typing a hyphen.
 >
-> **[3:26](https://www.linkedin.com/learning/the-33-laws-of-typography/27-show-ranges-using-en-dashes?u=76281980&t=206)** If you're using a computer with the Windows operating system, you can create an en dash by holding down the alt key and typing the numbers 0 1 5 0.
+> **[3:26](https://www.linkedin.com/learning/the-33-laws-of-typography/27-show-ranges-using-en-dashes?u=76281980&t=206)** If you're using a computer with the [[Windows]] operating system, you can create an en dash by holding down the alt key and typing the numbers 0 1 5 0.
 >
-> **[3:38](https://www.linkedin.com/learning/the-33-laws-of-typography/27-show-ranges-using-en-dashes?u=76281980&t=218)** In HTML, if you're a web designer, the character entity for an en dash is this: Let's summarize.
+> **[3:38](https://www.linkedin.com/learning/the-33-laws-of-typography/27-show-ranges-using-en-dashes?u=76281980&t=218)** In [[HTML]], if you're a web designer, the character entity for an en dash is this: Let's summarize.
 >
 > **[3:47](https://www.linkedin.com/learning/the-33-laws-of-typography/27-show-ranges-using-en-dashes?u=76281980&t=227)** Stop using hyphens when you really need an en dash instead.
 >
@@ -3049,7 +3014,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Windows]] (1), [[HTML]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Windows]] (1), [[HTML]] (1)
 > **Definitions:** is an  (3), is a  (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
@@ -3057,8 +3022,7 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - law (1)
 
-#### 28 Clarify, and improve readability, using hyphens
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/28-clarify-and-improve-readability-using-hyphens?u=76281980)
+#### [28 Clarify, and improve readability, using hyphens](https://www.linkedin.com/learning/the-33-laws-of-typography/28-clarify-and-improve-readability-using-hyphens?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3088,7 +3052,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/the-33-laws-of-typography/28-clarify-and-improve-readability-using-hyphens?u=76281980&t=64)** Using the hyphen here makes it clear that we're talking about multiple bills that are worth five dollars each.
 >
-> **[1:11](https://www.linkedin.com/learning/the-33-laws-of-typography/28-clarify-and-improve-readability-using-hyphens?u=76281980&t=71)** Because we join the words "five" and "dollar" with a hyphen, it's clear that both of those words are acting as a single phrase to modify or describe the word "bills."
+> **[1:11](https://www.linkedin.com/learning/the-33-laws-of-typography/28-clarify-and-improve-readability-using-hyphens?u=76281980&t=71)** Because we join the words "five" and "dollar" with a hyphen, it's clear that both of those words are acting as a single phrase to modify or describe the [[Microsoft Word|word]] "bills."
 >
 > **[1:24](https://www.linkedin.com/learning/the-33-laws-of-typography/28-clarify-and-improve-readability-using-hyphens?u=76281980&t=84)** The phrase five dollar bills, with no hyphens, is describing very different.
 >
@@ -3170,7 +3134,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
@@ -3178,8 +3142,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - law (1)
 
-#### 29 Designate feet and inches, with prime symbols
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/29-designate-feet-and-inches-with-prime-symbols?u=76281980)
+#### [29 Designate feet and inches, with prime symbols](https://www.linkedin.com/learning/the-33-laws-of-typography/29-designate-feet-and-inches-with-prime-symbols?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3197,13 +3160,13 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/the-33-laws-of-typography/29-designate-feet-and-inches-with-prime-symbols?u=76281980&t=30)** Straight quotes are a hold-over from the days of the typewriter, and should not be used for anything.
 >
-> **[0:36](https://www.linkedin.com/learning/the-33-laws-of-typography/29-designate-feet-and-inches-with-prime-symbols?u=76281980&t=36)** In fact, modern word processors and page layout programs will automatically use curly quotes as you type.
+> **[0:36](https://www.linkedin.com/learning/the-33-laws-of-typography/29-designate-feet-and-inches-with-prime-symbols?u=76281980&t=36)** In fact, modern [[Microsoft Word|word]] processors and page layout programs will automatically use curly quotes as you type.
 >
 > **[0:44](https://www.linkedin.com/learning/the-33-laws-of-typography/29-designate-feet-and-inches-with-prime-symbols?u=76281980&t=44)** There's usually a setting somewhere in the software preferences, and the setting is almost always automatically turned on and that tells the software to use curly quotes instead of straight.
 >
 > **[0:56](https://www.linkedin.com/learning/the-33-laws-of-typography/29-designate-feet-and-inches-with-prime-symbols?u=76281980&t=56)** And this is a really good thing because curly quotes are prettier than straight quotes, and curly quotes have been designed by the typeface's designer to flow with the letters on the page and in your documents.
 >
-> **[1:10](https://www.linkedin.com/learning/the-33-laws-of-typography/29-designate-feet-and-inches-with-prime-symbols?u=76281980&t=70)** Curly quotes have always been used in professional typography and should always be used in your documents as well.
+> **[1:10](https://www.linkedin.com/learning/the-33-laws-of-typography/29-designate-feet-and-inches-with-prime-symbols?u=76281980&t=70)** Curly quotes have always been used in professional [[Typography]] and should always be used in your documents as well.
 >
 > **[1:17](https://www.linkedin.com/learning/the-33-laws-of-typography/29-designate-feet-and-inches-with-prime-symbols?u=76281980&t=77)** So, when is that?
 >
@@ -3243,7 +3206,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/the-33-laws-of-typography/29-designate-feet-and-inches-with-prime-symbols?u=76281980&t=199)** Hold down the option key and type an opening square bracket for an opening double curly quote, and hold down the option and shift keys and type an opening square bracket for a closing double curly quote.
 >
-> **[3:34](https://www.linkedin.com/learning/the-33-laws-of-typography/29-designate-feet-and-inches-with-prime-symbols?u=76281980&t=214)** If you're on a computer that uses the Windows operating system, you would hold down the alt key and type the numbers zero, one, four, five for an opening single curly quote, hold down the alt key and type zero, one, four, six for a closing single curly quote, hold down the alt key and type zero, one, four, seven for an opening double curly quote, and hold down the alt key and type zero, one, four, eight for a closing double curly quote.
+> **[3:34](https://www.linkedin.com/learning/the-33-laws-of-typography/29-designate-feet-and-inches-with-prime-symbols?u=76281980&t=214)** If you're on a computer that uses the [[Windows]] operating system, you would hold down the alt key and type the numbers zero, one, four, five for an opening single curly quote, hold down the alt key and type zero, one, four, six for a closing single curly quote, hold down the alt key and type zero, one, four, seven for an opening double curly quote, and hold down the alt key and type zero, one, four, eight for a closing double curly quote.
 >
 > **[4:05](https://www.linkedin.com/learning/the-33-laws-of-typography/29-designate-feet-and-inches-with-prime-symbols?u=76281980&t=245)** What do you do if you don't want curly quotes but instead, you need to use prime symbols?
 >
@@ -3285,13 +3248,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Windows]] (3), web (3), [[Typography]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Windows]] (3), [[Typography]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1), means that (1)
 > **Cross-References:** we talked about (1)
 
-#### 30 Replace missing characters with apostrophes
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/30-replace-missing-characters-with-apostrophes?u=76281980)
+#### [30 Replace missing characters with apostrophes](https://www.linkedin.com/learning/the-33-laws-of-typography/30-replace-missing-characters-with-apostrophes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3299,7 +3261,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/the-33-laws-of-typography/30-replace-missing-characters-with-apostrophes?u=76281980&t=6)** Keep in mind that an apostrophe is always a single, closing, curly quotation mark.
 >
-> **[0:12](https://www.linkedin.com/learning/the-33-laws-of-typography/30-replace-missing-characters-with-apostrophes?u=76281980&t=12)** If you're using modern word processing or desktop publishing software, you probably automatically get a single curly quote when you type an apostrophe on your keyboard.
+> **[0:12](https://www.linkedin.com/learning/the-33-laws-of-typography/30-replace-missing-characters-with-apostrophes?u=76281980&t=12)** If you're using modern [[Microsoft Word|word]] processing or desktop publishing software, you probably automatically get a single curly quote when you type an apostrophe on your keyboard.
 >
 > **[0:23](https://www.linkedin.com/learning/the-33-laws-of-typography/30-replace-missing-characters-with-apostrophes?u=76281980&t=23)** There is a setting in the preferences of your software, and that makes this automatic, it makes the curly quote automatic, but it's a good idea to check and make sure, because you don't ever want to be using straight quotes, ever.
 >
@@ -3375,7 +3337,7 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/the-33-laws-of-typography/30-replace-missing-characters-with-apostrophes?u=76281980&t=309)** On a Macintosh, you would create a curly apostrophe by holding down the Option and Shift keys and then typing a right square bracket, or a closing square bracket.
 >
-> **[5:20](https://www.linkedin.com/learning/the-33-laws-of-typography/30-replace-missing-characters-with-apostrophes?u=76281980&t=320)** And on a computer with the Windows operating system, you would hold down the Alt key and type the numbers 0146.
+> **[5:20](https://www.linkedin.com/learning/the-33-laws-of-typography/30-replace-missing-characters-with-apostrophes?u=76281980&t=320)** And on a computer with the [[Windows]] operating system, you would hold down the Alt key and type the numbers 0146.
 >
 > **[5:30](https://www.linkedin.com/learning/the-33-laws-of-typography/30-replace-missing-characters-with-apostrophes?u=76281980&t=330)** If you are a Web designer, curly quotes may not be automatically generated like they are in a word processing program, and so if you're designing Web pages, you would want to use this character entity for a curly, single, closing quote, or an apostrophe.
 >
@@ -3413,7 +3375,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), web (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Windows]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), short for (1)
 > **Warnings:** keep in mind (2)
@@ -3424,8 +3386,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### 31 Limit typefaces to two per document
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/31-limit-typefaces-to-two-per-document?u=76281980)
+#### [31 Limit typefaces to two per document](https://www.linkedin.com/learning/the-33-laws-of-typography/31-limit-typefaces-to-two-per-document?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3469,7 +3430,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/the-33-laws-of-typography/31-limit-typefaces-to-two-per-document?u=76281980&t=129)** And these little feet are called serifs.
 >
-> **[2:12](https://www.linkedin.com/learning/the-33-laws-of-typography/31-limit-typefaces-to-two-per-document?u=76281980&t=132)** In French, the word "sans" means without.
+> **[2:12](https://www.linkedin.com/learning/the-33-laws-of-typography/31-limit-typefaces-to-two-per-document?u=76281980&t=132)** In French, the [[Microsoft Word|word]] "sans" means without.
 >
 > **[2:15](https://www.linkedin.com/learning/the-33-laws-of-typography/31-limit-typefaces-to-two-per-document?u=76281980&t=135)** And so Sans Serif means without serifs.
 >
@@ -3547,8 +3508,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - law (1)
 
-#### 32 Use typefaces that reinforce a document's mood
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/32-use-typefaces-that-reinforce-a-document-s-mood?u=76281980)
+#### [32 Use typefaces that reinforce a document's mood](https://www.linkedin.com/learning/the-33-laws-of-typography/32-use-typefaces-that-reinforce-a-document-s-mood?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3612,7 +3572,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/the-33-laws-of-typography/32-use-typefaces-that-reinforce-a-document-s-mood?u=76281980&t=188)** When you're trying to choose an appropriate typeface for a document, first, think about the personality of the document that you are creating and its message.
 >
-> **[3:18](https://www.linkedin.com/learning/the-33-laws-of-typography/32-use-typefaces-that-reinforce-a-document-s-mood?u=76281980&t=198)** Once you have a clear vision of these things, scroll through the typefaces on your computer or an online typography website and ask yourself, what does this typeface remind me of?
+> **[3:18](https://www.linkedin.com/learning/the-33-laws-of-typography/32-use-typefaces-that-reinforce-a-document-s-mood?u=76281980&t=198)** Once you have a clear vision of these things, scroll through the typefaces on your computer or an online [[Typography]] website and ask yourself, what does this typeface remind me of?
 >
 > **[3:30](https://www.linkedin.com/learning/the-33-laws-of-typography/32-use-typefaces-that-reinforce-a-document-s-mood?u=76281980&t=210)** Or how does it make me feel?
 >
@@ -3634,13 +3594,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Typography]] (1), next (1)
+> **Frameworks & Libraries:** [[Typography]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - law (1)
 
-#### 33 Choose serif or sans serif, based on aesthetics
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/33-choose-serif-or-sans-serif-based-on-aesthetics?u=76281980)
+#### [33 Choose serif or sans serif, based on aesthetics](https://www.linkedin.com/learning/the-33-laws-of-typography/33-choose-serif-or-sans-serif-based-on-aesthetics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3650,7 +3609,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/the-33-laws-of-typography/33-choose-serif-or-sans-serif-based-on-aesthetics?u=76281980&t=12)** Serif typefaces have little lines, or what are called serifs that appear at the end of each stroke.
 >
-> **[0:19](https://www.linkedin.com/learning/the-33-laws-of-typography/33-choose-serif-or-sans-serif-based-on-aesthetics?u=76281980&t=19)** In French, the word sans means without, and so sans serif means without serifs and therefore, a sans serif typeface does not have the little serifs at the end of each stroke.
+> **[0:19](https://www.linkedin.com/learning/the-33-laws-of-typography/33-choose-serif-or-sans-serif-based-on-aesthetics?u=76281980&t=19)** In French, the [[Microsoft Word|word]] sans means without, and so sans serif means without serifs and therefore, a sans serif typeface does not have the little serifs at the end of each stroke.
 >
 > **[0:33](https://www.linkedin.com/learning/the-33-laws-of-typography/33-choose-serif-or-sans-serif-based-on-aesthetics?u=76281980&t=33)** Many designers love to discuss the legibility of serif versus sans serif typefaces and you can find a slew of articles stating that serif typefaces are easier to read and then you can find an equal number of articles stating that sans serif typefaces are easier to read.
 >
@@ -3707,12 +3666,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Goodbye
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-33-laws-of-typography/goodbye?u=76281980)
+#### [Goodbye](https://www.linkedin.com/learning/the-33-laws-of-typography/goodbye?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-33-laws-of-typography/goodbye?u=76281980&t=0)** - I hope you enjoyed learning The 33 Laws of Typography.
+> **[0:00](https://www.linkedin.com/learning/the-33-laws-of-typography/goodbye?u=76281980&t=0)** - I hope you enjoyed learning The 33 Laws of [[Typography]].
 >
 > **[0:04](https://www.linkedin.com/learning/the-33-laws-of-typography/goodbye?u=76281980&t=4)** Abiding by these laws will make sure that typography works for you and not against you.
 >

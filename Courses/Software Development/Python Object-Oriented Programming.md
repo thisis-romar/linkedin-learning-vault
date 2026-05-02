@@ -92,12 +92,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Python object-oriented programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/python-object-oriented-programming?u=76281980)
+#### [Python object-oriented programming](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/python-object-oriented-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/python-object-oriented-programming?u=76281980&t=0)** - In my opinion, two of the best things about the Python language are its power and its simplicity.
+> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/python-object-oriented-programming?u=76281980&t=0)** - In my opinion, two of the best things about the [[Python (Programming Language)|Python]] language are its power and its simplicity.
 >
 > **[0:06](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/python-object-oriented-programming?u=76281980&t=6)** You can accomplish quite a lot in Python while keeping your programs relatively small and easy to understand.
 >
@@ -105,7 +104,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/python-object-oriented-programming?u=76281980&t=24)** Hi, I'm Joe Marini, and I've been building software some of the best known companies in Silicon Valley for more than 30 years.
 >
-> **[0:30](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/python-object-oriented-programming?u=76281980&t=30)** In this course, we'll cover the object-oriented programming features of Python and how they can be put to work in your projects.
+> **[0:30](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/python-object-oriented-programming?u=76281980&t=30)** In this course, we'll cover the [[Object-Oriented Programming (OOP)|object-oriented programming]] features of Python and how they can be put to work in your projects.
 >
 > **[0:37](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/python-object-oriented-programming?u=76281980&t=37)** We'll start with the basics of defining and using classes and objects.
 >
@@ -121,12 +120,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), data (2), power (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **CLI Commands:** python (6)
 > **Speakers:** - in (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -134,19 +132,19 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-you-should-know?u=76281980&t=5)** First, you should be familiar with using developer tools such as text editors.
 >
-> **[0:10](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-you-should-know?u=76281980&t=10)** We're going to be writing Python code in this course and Python is of course just a text format, so you can use whatever text editor you want but I'll be using Visual Studio Code for this course.
+> **[0:10](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-you-should-know?u=76281980&t=10)** We're going to be writing [[Python (Programming Language)|Python]] code in this course and Python is of course just a text format, so you can use whatever text editor you want but I'll be using Visual Studio Code for this course.
 >
 > **[0:21](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-you-should-know?u=76281980&t=21)** And specifically, I'll be using Visual Studio Code in an online code space.
 >
 > **[0:26](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-you-should-know?u=76281980&t=26)** But if you want to download and work locally on your computer, I suggest you use Visual Studio Code.
 >
-> **[0:32](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-you-should-know?u=76281980&t=32)** It's free from Microsoft, it runs on Mac and Windows and Linux, and you can download it if you want to from this website, code.[visualstudio.com](https://visualstudio.com).
+> **[0:32](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-you-should-know?u=76281980&t=32)** It's free from [[Microsoft]], it runs on Mac and [[Windows]] and [[Linux]], and you can download it if you want to from this website, code.[visualstudio.com](https://visualstudio.com).
 >
 > **[0:40](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-you-should-know?u=76281980&t=40)** It has a rich ecosystem of plugins available which of course we'll take advantage of in the course.
 >
 > **[0:46](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-you-should-know?u=76281980&t=46)** And if you'd like to learn more about Visual Studio Code just go to that link and you'll learn more.
 >
-> **[0:50](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-you-should-know?u=76281980&t=50)** Again, though, I'll be using GitHub and a code space and an online version of Visual Studio Code.
+> **[0:50](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-you-should-know?u=76281980&t=50)** Again, though, I'll be using [[GitHub]] and a code space and an online version of Visual Studio Code.
 >
 > **[0:57](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-you-should-know?u=76281980&t=57)** You should also already be familiar with the basics of Python programming.
 >
@@ -156,15 +154,15 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-you-should-know?u=76281980&t=77)** If you feel like you need to brush up on your basic Python programming skills, you can check out Learning Python or [[Python Essential Training]].
 >
-> **[1:25](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-you-should-know?u=76281980&t=85)** You should also be familiar with basic object-oriented programming principles such as classes, methods and inheritance, and so on.
+> **[1:25](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-you-should-know?u=76281980&t=85)** You should also be familiar with basic [[Object-Oriented Programming (OOP)|object-oriented programming]] principles such as classes, methods and inheritance, and so on.
 >
-> **[1:33](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-you-should-know?u=76281980&t=93)** We're going to be learning about the Python specific details of these concepts in this course, but if you need to learn about the basics first, I suggest you watch [[Programming Foundations- Object-Oriented Design]].
+> **[1:33](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-you-should-know?u=76281980&t=93)** We're going to be learning about the Python specific details of these concepts in this course, but if you need to learn about the basics first, I suggest you watch [[[[Programming Foundations]]- Object-Oriented Design]].
 >
 > **[1:45](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-you-should-know?u=76281980&t=105)** When you're comfortable with these subjects you are ready to proceed with the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Programming]] (2), [[Microsoft]] (1), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Microsoft]] (1), [[Windows]] (1), [[Linux]] (1), [[GitHub]] (1)
 > **CLI Commands:** python (9)
 > **Tools:** visual studio (5), github (1)
 > **Analogies:** such as (3)
@@ -173,14 +171,13 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up the development environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/setting-up-the-development-environment?u=76281980)
+#### [Setting up the development environment](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/setting-up-the-development-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/setting-up-the-development-environment?u=76281980&t=0)** - [Instructor] There are a couple of different ways you can work with the example code in this course.
 >
-> **[0:04](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/setting-up-the-development-environment?u=76281980&t=4)** I've set up a GitHub repository with the examples.
+> **[0:04](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/setting-up-the-development-environment?u=76281980&t=4)** I've set up a [[GitHub]] repository with the examples.
 >
 > **[0:08](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/setting-up-the-development-environment?u=76281980&t=8)** And you can find it at this link.
 >
@@ -196,13 +193,13 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/setting-up-the-development-environment?u=76281980&t=39)** All you need to do is go to the Code menu here, and then in the Local panel, either clone the repository directly to your computer or you can download a zip file and then use your favorite code editor to work on them.
 >
-> **[0:52](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/setting-up-the-development-environment?u=76281980&t=52)** You'll just need to make sure that you have Python installed on your computer, at least version 3.10, in order to use the examples.
+> **[0:52](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/setting-up-the-development-environment?u=76281980&t=52)** You'll just need to make sure that you have [[Python (Programming Language)|Python]] installed on your computer, at least version 3.10, in order to use the examples.
 >
 > **[0:58](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/setting-up-the-development-environment?u=76281980&t=58)** But this repository has also been set up to work with a GitHub codespace so you could just work directly online with nothing to install.
 >
 > **[1:06](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/setting-up-the-development-environment?u=76281980&t=66)** All you need to do is fork a copy of the repository into your own GitHub account, and then fire up a codespace.
 >
-> **[1:12](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/setting-up-the-development-environment?u=76281980&t=72)** And you do that here in the Codespaces menu.
+> **[1:12](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/setting-up-the-development-environment?u=76281980&t=72)** And you do that here in the [[Codespaces]] menu.
 >
 > **[1:14](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/setting-up-the-development-environment?u=76281980&t=74)** Now, I've already done that.
 >
@@ -262,7 +259,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/setting-up-the-development-environment?u=76281980&t=174)** And you can do that either here in the file menu or just by typing Ctrl+,.
 >
-> **[3:01](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/setting-up-the-development-environment?u=76281980&t=181)** And what you're going to want to do is, in the Settings, search for the word execute.
+> **[3:01](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/setting-up-the-development-environment?u=76281980&t=181)** And what you're going to want to do is, in the Settings, search for the [[Microsoft Word|word]] execute.
 >
 > **[3:07](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/setting-up-the-development-environment?u=76281980&t=187)** And you want to make sure that Execute in File Dir is checked.
 >
@@ -274,7 +271,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[GitHub]] (3), [[Search]] (3), [[Codespaces]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[GitHub]] (3), [[Codespaces]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** python (8), make (5), find (1)
 > **Tools:** terminal (4), github (3), visual studio (2)
 > **Prerequisites:** set up (4), install (3), you'll need (1)
@@ -283,8 +280,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1), zip file (1)
 > **Cross-References:** go back to (1)
 
-#### Using CoderPad
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/using-coderpad?u=76281980)
+#### [Using CoderPad](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/using-coderpad?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -294,7 +290,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/using-coderpad?u=76281980&t=16)** These challenges are hosted by CoderPad and they appear in the same area of the course page where you watch the course' videos.
 >
-> **[0:24](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/using-coderpad?u=76281980&t=24)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:24](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/using-coderpad?u=76281980&t=24)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:33](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/using-coderpad?u=76281980&t=33)** The code challenge has four areas.
 >
@@ -344,7 +340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** find (1)
 > **Cross-References:** next video (1)
@@ -356,18 +352,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Object-oriented programming refresher
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/object-oriented-programming-refresher?u=76281980)
+#### [Object-oriented programming refresher](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/object-oriented-programming-refresher?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/object-oriented-programming-refresher?u=76281980&t=0)** - [Instructor] Before getting into the details of how Python implements object-oriented programming, let's have a very quick refresher of some OOP principles.
+> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/object-oriented-programming-refresher?u=76281980&t=0)** - [Instructor] Before getting into the details of how [[Python (Programming Language)|Python]] implements [[Object-Oriented Programming (OOP)|object-oriented programming]], let's have a very quick refresher of some OOP principles.
 >
 > **[0:09](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/object-oriented-programming-refresher?u=76281980&t=9)** Let's begin with some of the reasons and motivations for using OOP in the first place.
 >
-> **[0:14](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/object-oriented-programming-refresher?u=76281980&t=14)** First, Python, unlike other languages such as Java and C Sharp, does not actually require you to use object oriented principles when creating your programs, even though everything within Python itself is technically an object.
+> **[0:14](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/object-oriented-programming-refresher?u=76281980&t=14)** First, Python, unlike other languages such as [[Java]] and C Sharp, does not actually require you to use object oriented principles when creating your programs, even though everything within Python itself is technically an object.
 >
-> **[0:28](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/object-oriented-programming-refresher?u=76281980&t=28)** If you want to create individual functions and variables and data structures and so on, then you're free to do so.
+> **[0:28](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/object-oriented-programming-refresher?u=76281980&t=28)** If you want to create individual functions and variables and [[Data Structures]] and so on, then you're free to do so.
 >
 > **[0:34](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/object-oriented-programming-refresher?u=76281980&t=34)** And Python will happily execute your code, as long as it is syntactically correct.
 >
@@ -381,7 +376,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/object-oriented-programming-refresher?u=76281980&t=77)** Object orientation also promotes the building of modular programs, meaning that individual parts of the program don't need to know how other parts work internally.
 >
-> **[1:26](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/object-oriented-programming-refresher?u=76281980&t=86)** So down the road, if part of the program needs to be updated or replaced, it can be done with minimal disturbance to the code in the rest of the program.
+> **[1:26](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/object-oriented-programming-refresher?u=76281980&t=86)** So down the road, if part of the program needs to be updated or replaced, it can be done with minimal disturbance to the code in the [[Representational State Transfer (REST)|rest]] of the program.
 >
 > **[1:35](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/object-oriented-programming-refresher?u=76281980&t=95)** It also helps isolate different parts of the program from each other.
 >
@@ -411,7 +406,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), data (5), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[Representational State Transfer (REST)|Rest]] (3), oop (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[Representational State Transfer (REST)|Rest]] (3), [[Java]] (1), [[Data Structures]] (1)
 > **CLI Commands:** python (6)
 > **Definitions:** is a  (1), is an  (1), refers to (1)
 > **Env Vars:** oop (2)
@@ -419,18 +414,17 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic class definition
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/basic-class-definition?u=76281980)
+#### [Basic class definition](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/basic-class-definition?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/basic-class-definition?u=76281980&t=0)** - [Instructor] Let's begin by seeing how to create a basic class definition in Python, along with how to instantiate the class and then access parts of it.
+> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/basic-class-definition?u=76281980&t=0)** - [Instructor] Let's begin by seeing how to create a basic class definition in [[Python (Programming Language)|Python]], along with how to instantiate the class and then access parts of it.
 >
 > **[0:07](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/basic-class-definition?u=76281980&t=7)** So here in chapter one in the start folder I'm going to open up the definition_start code and we're going to start by creating a class to represent a book.
 >
 > **[0:17](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/basic-class-definition?u=76281980&t=17)** So to do that, I'm going to use the class keyword.
 >
-> **[0:20](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/basic-class-definition?u=76281980&t=20)** So I type the word class and then the name of the class.
+> **[0:20](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/basic-class-definition?u=76281980&t=20)** So I type the [[Microsoft Word|word]] class and then the name of the class.
 >
 > **[0:24](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/basic-class-definition?u=76281980&t=24)** And in this case I'll type the word book and then a colon.
 >
@@ -468,7 +462,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/basic-class-definition?u=76281980&t=116)** When the class is created, like we see here on line 11 the init function is then called to initialize the new object with information, and it is called before any of the other functions that you've defined in the class.
 >
-> **[2:11](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/basic-class-definition?u=76281980&t=131)** Some people mistakenly call this the constructor function because other languages like Java and C Sharp have a similar function that performs a similar purpose but it's more accurate in Python to say that this is the initializer function.
+> **[2:11](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/basic-class-definition?u=76281980&t=131)** Some people mistakenly call this the constructor function because other languages like [[Java]] and C Sharp have a similar function that performs a similar purpose but it's more accurate in Python to say that this is the initializer function.
 >
 > **[2:24](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/basic-class-definition?u=76281980&t=144)** At this point, the object has already been created when the function is called, so you know that it's safe to start initializing your data attributes.
 >
@@ -520,11 +514,11 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/basic-class-definition?u=76281980&t=270)** So that gets us up and running with creating Python classes.
 >
-> **[4:33](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/basic-class-definition?u=76281980&t=273)** In the rest of the chapter we'll see how to work with other kinds of methods and properties and how to identify classes and objects.
+> **[4:33](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/basic-class-definition?u=76281980&t=273)** In the [[Representational State Transfer (REST)|rest]] of the chapter we'll see how to work with other kinds of methods and properties and how to identify classes and objects.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Microsoft Word|Word]] (4), data (2), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Microsoft Word|Word]] (4), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (9), make (2)
 > **Code Identifiers:** definition_start (2), def__init (1)
 > **Definitions:** is called (2), is a  (1)
@@ -533,12 +527,11 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **UI Navigation:** click on (1)
 
-#### Instance methods and attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/instance-methods-and-attributes?u=76281980)
+#### [Instance methods and attributes](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/instance-methods-and-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/instance-methods-and-attributes?u=76281980&t=0)** - [Instructor] In the previous video we saw how to define a basic Python class and create an instance of it.
+> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/instance-methods-and-attributes?u=76281980&t=0)** - [Instructor] In the previous video we saw how to define a basic [[Python (Programming Language)|Python]] class and create an instance of it.
 >
 > **[0:06](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/instance-methods-and-attributes?u=76281980&t=6)** Now let's see how to create instance methods and attributes for our class.
 >
@@ -608,7 +601,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/instance-methods-and-attributes?u=76281980&t=207)** Now the underscore in front of the attribute name, the main reason to do this is to give other developers a hint that this attribute is considered internal to the class and is not for public consumption.
 >
-> **[3:42](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/instance-methods-and-attributes?u=76281980&t=222)** Other languages like Java or C#, have a way of declaring attributes that are only intended to be used within the logic of the class where they are defined.
+> **[3:42](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/instance-methods-and-attributes?u=76281980&t=222)** Other languages like [[Java]] or C#, have a way of declaring attributes that are only intended to be used within the logic of the class where they are defined.
 >
 > **[3:51](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/instance-methods-and-attributes?u=76281980&t=231)** Python doesn't have a way of enforcing this.
 >
@@ -692,7 +685,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Java]] (1), feature (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Java]] (1)
 > **CLI Commands:** python (6), make (2)
 > **Tools:** terminal (6)
 > **Versions:** 29.95 (2), 39.95 (1), 0.25 (1), 22.46 (1)
@@ -701,14 +694,13 @@ created: 2026-05-02
 > **Code Identifiers:** instance_start (1)
 > **Analogies:** for instance (1)
 
-#### Checking instance types
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/checking-instance-types?u=76281980)
+#### [Checking instance types](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/checking-instance-types?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/checking-instance-types?u=76281980&t=0)** - [Instructor] Sometimes it is useful to be able to check what type or class a given object is.
 >
-> **[0:05](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/checking-instance-types?u=76281980&t=5)** And in Python we can do this with the type function and the isinstance function.
+> **[0:05](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/checking-instance-types?u=76281980&t=5)** And in [[Python (Programming Language)|Python]] we can do this with the type function and the isinstance function.
 >
 > **[0:10](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/checking-instance-types?u=76281980&t=10)** So let's open up typecheck_start.
 >
@@ -774,7 +766,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), next (1), generic (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **Definitions:** is a  (8), is called (2), is an  (2)
 > **CLI Commands:** python (3)
 > **Code Identifiers:** typecheck_start (1)
@@ -783,8 +775,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Class methods and members
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/class-methods-and-members?u=76281980)
+#### [Class methods and members](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/class-methods-and-members?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -924,7 +915,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), feature (1)
 > **Env Vars:** book_types (3), comic (2), paperback (2), hardcover (1), ebook (1)
 > **CLI Commands:** make (7)
 > **Code Identifiers:** get_book_types (2), class_start (1), set_title (1)
@@ -932,9 +922,9 @@ created: 2026-05-02
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (1), such as (1), imagine (1)
 > **Cross-References:** go back to (1)
+> **Speakers:** - [instructor] (1)
 
-#### Solution: Stocks
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/solution-stocks-25250559?u=76281980)
+#### [Solution: Stocks](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/solution-stocks-25250559?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -948,7 +938,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/solution-stocks-25250559?u=76281980&t=42)** So let's go ahead and try running this.
 >
-> **[0:44](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/solution-stocks-25250559?u=76281980&t=44)** You can see I've got some sample test code down here for the Google stock ticker, and I'm going to test my code, and you can see that my string is being returned correctly.
+> **[0:44](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/solution-stocks-25250559?u=76281980&t=44)** You can see I've got some sample test code down here for the [[Google]] stock ticker, and I'm going to test my code, and you can see that my string is being returned correctly.
 >
 > **[0:56](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/solution-stocks-25250559?u=76281980&t=56)** So let's try another one.
 >
@@ -986,14 +976,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/understanding-inheritance?u=76281980)
+#### [Understanding inheritance](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/understanding-inheritance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/understanding-inheritance?u=76281980&t=0)** - [Instructor] One of the core concepts of object-oriented programming is the notion of inheritance.
+> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/understanding-inheritance?u=76281980&t=0)** - [Instructor] One of the core concepts of [[Object-Oriented Programming (OOP)|object-oriented programming]] is the notion of inheritance.
 >
-> **[0:05](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/understanding-inheritance?u=76281980&t=5)** And in this example, we're going to see how that works in Python.
+> **[0:05](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/understanding-inheritance?u=76281980&t=5)** And in this example, we're going to see how that works in [[Python (Programming Language)|Python]].
 >
 > **[0:08](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/understanding-inheritance?u=76281980&t=8)** Inheritance defines a way for a given class to inherit attributes and methods from one or more super classes.
 >
@@ -1105,7 +1094,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1), find (1)
 > **Tools:** terminal (3), notion (1)
 > **Definitions:** is a  (1), means that (1)
@@ -1113,12 +1102,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Abstract base classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/abstract-base-classes?u=76281980)
+#### [Abstract base classes](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/abstract-base-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/abstract-base-classes?u=76281980&t=0)** - [Instructor] Now that we've seen how inheritance works in Python, let's move on to a related topic called abstract base classes.
+> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/abstract-base-classes?u=76281980&t=0)** - [Instructor] Now that we've seen how inheritance works in [[Python (Programming Language)|Python]], let's move on to a related topic called abstract base classes.
 >
 > **[0:07](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/abstract-base-classes?u=76281980&t=7)** There's a fairly common design pattern in programming where you want to provide a base class that defines a template for other classes to inherit from but with a couple of twists.
 >
@@ -1224,7 +1212,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** abc (4)
 > **Tools:** terminal (3)
 > **CLI Commands:** python (2)
@@ -1233,12 +1221,11 @@ created: 2026-05-02
 > **Code Identifiers:** abstract_start (1)
 > **Versions:** 3.14 (1)
 
-#### Using multiple inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/using-multiple-inheritance?u=76281980)
+#### [Using multiple inheritance](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/using-multiple-inheritance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/using-multiple-inheritance?u=76281980&t=0)** - [Instructor] Unlike some other popular programming languages, Python lets you define classes that can inherit more than one base class.
+> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/using-multiple-inheritance?u=76281980&t=0)** - [Instructor] Unlike some other popular programming languages, [[Python (Programming Language)|Python]] lets you define classes that can inherit more than one base class.
 >
 > **[0:07](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/using-multiple-inheritance?u=76281980&t=7)** This is called multiple inheritance and while it can be a useful tool, it can also cause a lot of problems if you don't use it carefully.
 >
@@ -1332,21 +1319,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4), make (2)
 > **Tools:** terminal (3)
 > **Definitions:** is called (1), is a  (1)
 > **Code Identifiers:** multiple_start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/interfaces?u=76281980)
+#### [Interfaces](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/interfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/interfaces?u=76281980&t=0)** - [Instructor] In this example, we're going to see how to use a combination of multiple inheritance and abstract base classes to implement a type of programming feature called an interface.
 >
-> **[0:10](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/interfaces?u=76281980&t=10)** Some languages like C# and Java provide this feature as a built-in part of the language, but Python doesn't have explicit language support for this feature.
+> **[0:10](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/interfaces?u=76281980&t=10)** Some languages like C# and [[Java]] provide this feature as a built-in part of the language, but [[Python (Programming Language)|Python]] doesn't have explicit language support for this feature.
 >
 > **[0:21](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/interfaces?u=76281980&t=21)** You can think of an interface as a kind of promise.
 >
@@ -1358,7 +1344,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/interfaces?u=76281980&t=45)** So I have my GraphicShape and just my Circle.
 >
-> **[0:49](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/interfaces?u=76281980&t=49)** Suppose we wanted our shape objects to be able to provide the ability to represent themselves as JSON.
+> **[0:49](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/interfaces?u=76281980&t=49)** Suppose we wanted our shape objects to be able to provide the ability to represent themselves as [[JSON]].
 >
 > **[0:58](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/interfaces?u=76281980&t=58)** Now we could just make that a part of the GraphicShape base class, but if we had a variety of other objects in our program that we also wanted to have that function, then we would need to add that to each of those base classes as well.
 >
@@ -1420,7 +1406,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), [[JSON]] (3), [[Python (Programming Language)|Python]] (2), [[Programming]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[Python (Programming Language)|Python]] (2), [[Java]] (1)
 > **Code Identifiers:** tojson (5), calcarea (2), interface_start (1)
 > **CLI Commands:** make (5), python (2)
 > **Env Vars:** json (3)
@@ -1428,12 +1414,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding composition
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/understanding-composition?u=76281980)
+#### [Understanding composition](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/understanding-composition?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/understanding-composition?u=76281980&t=0)** - [Instructor] Earlier in the chapter, we learned about how Python implements the concept of inheritance in order to create class hierarchies.
+> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/understanding-composition?u=76281980&t=0)** - [Instructor] Earlier in the chapter, we learned about how [[Python (Programming Language)|Python]] implements the concept of inheritance in order to create class hierarchies.
 >
 > **[0:07](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/understanding-composition?u=76281980&t=7)** In this example, we'll see how we can use a concept called composition to create complex objects out of simpler ones.
 >
@@ -1573,7 +1558,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (2), application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), make (1)
 > **Analogies:** for example (2), imagine (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1582,8 +1567,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Stocks and bonds
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/solution-stocks-and-bonds-25246656?u=76281980)
+#### [Solution: Stocks and bonds](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/solution-stocks-and-bonds-25246656?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1609,7 +1593,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/solution-stocks-and-bonds-25246656?u=76281980&t=90)** All right, so let's go ahead and run this code with our test code.
 >
-> **[1:35](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/solution-stocks-and-bonds-25246656?u=76281980&t=95)** And you can see that our test code for the company information, we're going to use the Microsoft ticker.
+> **[1:35](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/solution-stocks-and-bonds-25246656?u=76281980&t=95)** And you can see that our test code for the company information, we're going to use the [[Microsoft]] ticker.
 >
 > **[1:40](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/solution-stocks-and-bonds-25246656?u=76281980&t=100)** And for the bond we're going to use the 30-year treasury.
 >
@@ -1639,12 +1623,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are magic methods?
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-are-magic-methods?u=76281980)
+#### [What are magic methods?](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-are-magic-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-are-magic-methods?u=76281980&t=0)** - [Instructor] In this chapter, we're going to spend some time learning about Python's so-called "magic" methods, which are a set of methods that Python automatically associates with every class definition.
+> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-are-magic-methods?u=76281980&t=0)** - [Instructor] In this chapter, we're going to spend some time learning about [[Python (Programming Language)|Python]]'s so-called "magic" methods, which are a set of methods that Python automatically associates with every class definition.
 >
 > **[0:11](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/what-are-magic-methods?u=76281980&t=11)** Your classes can override these methods to customize a variety of behavior and make them act just like built-in Python classes.
 >
@@ -1664,17 +1647,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Debugging]] (1), power (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4), make (3)
 > **Analogies:** just like (2), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### String representation
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/string-representation?u=76281980)
+#### [String representation](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/string-representation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/string-representation?u=76281980&t=0)** - [Instructor] The first set of magic methods we're going to learn about are the ones that Python uses to generate string representations of objects.
+> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/string-representation?u=76281980&t=0)** - [Instructor] The first set of magic methods we're going to learn about are the ones that [[Python (Programming Language)|Python]] uses to generate string representations of objects.
 >
 > **[0:07](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/string-representation?u=76281980&t=7)** And we saw a little peek of this in the prior chapter when we worked on object composition.
 >
@@ -1746,18 +1728,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Tools:** terminal (3)
 > **CLI Commands:** python (1), make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Equality and comparison
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/equality-and-comparison?u=76281980)
+#### [Equality and comparison](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/equality-and-comparison?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/equality-and-comparison?u=76281980&t=0)** - [Speaker] Plain objects in Python by default don't know how to compare themselves to each other, but we can teach them how to do so by using the equality and comparison magic methods.
+> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/equality-and-comparison?u=76281980&t=0)** - [Speaker] Plain objects in [[Python (Programming Language)|Python]] by default don't know how to compare themselves to each other, but we can teach them how to do so by using the equality and comparison magic methods.
 >
 > **[0:11](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/equality-and-comparison?u=76281980&t=11)** So let's open up magic EQ start.
 >
@@ -1935,19 +1916,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (2), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4), make (3)
 > **Versions:** 39.95 (3), 29.5 (1), 29.95 (1), 24.95 (1)
 > **Tools:** terminal (6)
 > **UI Navigation:** open the (1), go to (1), click on (1)
 > **Speakers:** - [speaker] (1)
 
-#### Attribute access
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/attribute-access?u=76281980)
+#### [Attribute access](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/attribute-access?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/attribute-access?u=76281980&t=0)** - [Instructor] Python's Magic methods also give you complete control over how an object's attributes are accessed.
+> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/attribute-access?u=76281980&t=0)** - [Instructor] [[Python (Programming Language)|Python]]'s Magic methods also give you complete control over how an object's attributes are accessed.
 >
 > **[0:06](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/attribute-access?u=76281980&t=6)** Your class can define methods that intercept the process anytime an attribute is set or retrieved.
 >
@@ -2097,7 +2077,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3), make (2), find (1)
 > **Tools:** terminal (5)
 > **Versions:** 38.95 (2), 35.005 (1)
@@ -2106,12 +2086,11 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Callable objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/callable-objects?u=76281980)
+#### [Callable objects](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/callable-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/callable-objects?u=76281980&t=0)** - [Instructor] To finish up this chapter, we'll take a look at the magic method that enables Python objects to be callable, just like any other function.
+> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/callable-objects?u=76281980&t=0)** - [Instructor] To finish up this chapter, we'll take a look at the magic method that enables [[Python (Programming Language)|Python]] objects to be callable, just like any other function.
 >
 > **[0:08](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/callable-objects?u=76281980&t=8)** Now, that might sound a little bit weird but it's easy to understand it when you see it in action.
 >
@@ -2161,15 +2140,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), feature (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Code Identifiers:** magiccall_start (1)
 > **Versions:** 49.95 (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Compare objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/solution-compare-objects?u=76281980)
+#### [Solution: Compare objects](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/solution-compare-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2226,12 +2204,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining a data class
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/defining-a-data-class?u=76281980)
+#### [Defining a data class](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/defining-a-data-class?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/defining-a-data-class?u=76281980&t=0)** - [Voiceover] As we've been working through the course you may have noticed a pattern with each of our examples so far, and that is that one of the main use cases for creating classes in Python is to contain and represent data.
+> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/defining-a-data-class?u=76281980&t=0)** - [Voiceover] As we've been working through the course you may have noticed a pattern with each of our examples so far, and that is that one of the main use cases for creating classes in [[Python (Programming Language)|Python]] is to contain and represent data.
 >
 > **[0:13](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/defining-a-data-class?u=76281980&t=13)** Our code creates classes, and let's go ahead and open up the data class underscore start example.
 >
@@ -2359,15 +2336,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Python (Programming Language)|Python]] (8), feature (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8)
 > **CLI Commands:** python (8), make (1)
 > **Versions:** 3.7 (2), python 3 (1)
 > **Tools:** terminal (3)
 > **Analogies:** just like (1)
 > **Speakers:** - [voiceover] (1)
 
-#### Using post initialization
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/using-post-initialization?u=76281980)
+#### [Using post initialization](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/using-post-initialization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2397,15 +2373,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** postinit_start (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using default values
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/using-default-values?u=76281980)
+#### [Using default values](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/using-default-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2507,7 +2481,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6)
 > **Tools:** terminal (4)
 > **Versions:** 10.0 (2), 0.0 (1)
 > **CLI Commands:** make (1)
@@ -2515,8 +2488,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Immutable data classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/immutable-data-classes?u=76281980)
+#### [Immutable data classes](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/immutable-data-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2524,7 +2496,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/immutable-data-classes?u=76281980&t=5)** In other words, you want the data within them to be immutable.
 >
-> **[0:08](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/immutable-data-classes?u=76281980&t=8)** Python data classes make this possible by specifying an argument to the data class decorator.
+> **[0:08](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/immutable-data-classes?u=76281980&t=8)** [[Python (Programming Language)|Python]] data classes make this possible by specifying an argument to the data class decorator.
 >
 > **[0:14](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/immutable-data-classes?u=76281980&t=14)** So let's open up immutable start.
 >
@@ -2600,18 +2572,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Tools:** terminal (5)
 > **CLI Commands:** make (3), python (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Data classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/solution-data-classes-25249570?u=76281980)
+#### [Solution: Data classes](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/solution-data-classes-25249570?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/solution-data-classes-25249570?u=76281980&t=0)** - [Instructor] All right, for this challenge we had to convert an existing class structure to use Python data classes.
+> **[0:00](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/solution-data-classes-25249570?u=76281980&t=0)** - [Instructor] All right, for this challenge we had to convert an existing class structure to use [[Python (Programming Language)|Python]] data classes.
 >
 > **[0:12](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/solution-data-classes-25249570?u=76281980&t=12)** So of course we need to import that module, which I did here.
 >
@@ -2651,7 +2622,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (3), python (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
@@ -2662,8 +2633,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2671,7 +2641,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/next-steps?u=76281980&t=1)** It looks like you made it to the end of the course.
 >
-> **[0:03](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/next-steps?u=76281980&t=3)** I hope you enjoyed learning about how the Python language uses object-oriented programming techniques, and maybe you've picked up some ideas about how to apply these principles in your own Python programs.
+> **[0:03](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/next-steps?u=76281980&t=3)** I hope you enjoyed learning about how the [[Python (Programming Language)|Python]] language uses [[Object-Oriented Programming (OOP)|object-oriented programming]] techniques, and maybe you've picked up some ideas about how to apply these principles in your own Python programs.
 >
 > **[0:14](https://www.linkedin.com/learning/python-object-oriented-programming-22888296/next-steps?u=76281980&t=14)** As I said at the beginning of the course, it's not required to use object-oriented programming with Python, but I think that once you get started with it and you've experienced the benefits, you'll be reluctant to go back to writing code the old non-object-based way.
 >

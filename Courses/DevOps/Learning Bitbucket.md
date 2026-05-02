@@ -81,22 +81,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Streamline your code and collaboration with Bitbucket
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/streamline-your-code-and-collaboration-with-bitbucket?u=76281980)
+#### [Streamline your code and collaboration with Bitbucket](https://www.linkedin.com/learning/learning-bitbucket/streamline-your-code-and-collaboration-with-bitbucket?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-bitbucket/streamline-your-code-and-collaboration-with-bitbucket?u=76281980&t=0)** - Modern software development requires tools that track code changes, encourage collaboration, and help us manage projects all at the same time.
+> **[0:00](https://www.linkedin.com/learning/learning-bitbucket/streamline-your-code-and-collaboration-with-bitbucket?u=76281980&t=0)** - Modern [[Software Development]] requires tools that track code changes, encourage collaboration, and help us manage projects all at the same time.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-bitbucket/streamline-your-code-and-collaboration-with-bitbucket?u=76281980&t=8)** Bitbucket is a cloud-based solution that handles all of these tasks and much more.
+> **[0:08](https://www.linkedin.com/learning/learning-bitbucket/streamline-your-code-and-collaboration-with-bitbucket?u=76281980&t=8)** [[Bitbucket]] is a cloud-based solution that handles all of these tasks and much more.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-bitbucket/streamline-your-code-and-collaboration-with-bitbucket?u=76281980&t=13)** Hi, I'm Michael Jenkins.
+> **[0:13](https://www.linkedin.com/learning/learning-bitbucket/streamline-your-code-and-collaboration-with-bitbucket?u=76281980&t=13)** Hi, I'm Michael [[Jenkins]].
 >
 > **[0:15](https://www.linkedin.com/learning/learning-bitbucket/streamline-your-code-and-collaboration-with-bitbucket?u=76281980&t=15)** I'm a seasoned computer engineer and I've been using Bitbucket for years.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-bitbucket/streamline-your-code-and-collaboration-with-bitbucket?u=76281980&t=18)** I'm thrilled to be your instructor for this course, and I'm excited to share some of the ways Bitbucket can be an asset for your software development needs.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-bitbucket/streamline-your-code-and-collaboration-with-bitbucket?u=76281980&t=26)** By the end of this course, you'll have the knowledge and skills you need to use Bitbucket for hosting git-based repositories, collaborating with branches and pull requests, and managing project workflows with Jira.
+> **[0:26](https://www.linkedin.com/learning/learning-bitbucket/streamline-your-code-and-collaboration-with-bitbucket?u=76281980&t=26)** By the end of this course, you'll have the knowledge and skills you need to use Bitbucket for hosting [[Git]]-based repositories, collaborating with branches and pull requests, and managing project workflows with [[Jira]].
 >
 > **[0:38](https://www.linkedin.com/learning/learning-bitbucket/streamline-your-code-and-collaboration-with-bitbucket?u=76281980&t=38)** Are you ready? I hope so.
 >
@@ -104,14 +103,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (5), [[Software Development]] (2), cloud (1), [[Jenkins]] (1), [[Git]] (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (5), [[Software Development]] (2), [[Jenkins]] (1), [[Git]] (1), [[Jira]] (1)
 > **Tools:** bitbucket (5), jira (1)
 > **CLI Commands:** git (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - modern (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-bitbucket/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -119,13 +117,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-bitbucket/what-you-should-know?u=76281980&t=5)** I also want you to know that this course has built-in features to help you out along the way.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-bitbucket/what-you-should-know?u=76281980&t=11)** We'll be doing a lot of work in the web browser, but you should be comfortable using the terminal on a Mac, Windows, or Linux system.
+> **[0:11](https://www.linkedin.com/learning/learning-bitbucket/what-you-should-know?u=76281980&t=11)** We'll be doing a lot of work in the web browser, but you should be comfortable using the terminal on a Mac, [[Windows]], or [[Linux]] system.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-bitbucket/what-you-should-know?u=76281980&t=19)** There are hundreds of applications that work with Git, but for this course, we'll be using the command line interface to run Git commands.
+> **[0:19](https://www.linkedin.com/learning/learning-bitbucket/what-you-should-know?u=76281980&t=19)** There are hundreds of applications that work with [[Git]], but for this course, we'll be using the command line interface to run Git commands.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-bitbucket/what-you-should-know?u=76281980&t=29)** Git is a version control system used to track changes in files, and Bitbucket as a cloud-based GI repository service.
+> **[0:29](https://www.linkedin.com/learning/learning-bitbucket/what-you-should-know?u=76281980&t=29)** Git is a [[Version Control]] system used to track changes in files, and [[Bitbucket]] as a cloud-based GI repository service.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-bitbucket/what-you-should-know?u=76281980&t=37)** I'll be sharing some Git basics along the way, but if you are unfamiliar with Git, you can use the LinkedIn Learning course, [[Git Essential Training]], to get up to speed or as a reference.
+> **[0:37](https://www.linkedin.com/learning/learning-bitbucket/what-you-should-know?u=76281980&t=37)** I'll be sharing some Git basics along the way, but if you are unfamiliar with Git, you can use the [[LinkedIn]] Learning course, [[Git Essential Training]], to get up to speed or as a reference.
 >
 > **[0:49](https://www.linkedin.com/learning/learning-bitbucket/what-you-should-know?u=76281980&t=49)** Exercise files are also available.
 >
@@ -147,21 +145,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (6), web (1), [[Windows]] (1), [[Linux]] (1), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[Git]] (6), [[Windows]] (1), [[Linux]] (1), [[Version Control]] (1), [[Bitbucket]] (1)
 > **CLI Commands:** git (6), find (2)
 > **Tools:** terminal (1), command line (1), bitbucket (1)
 > **Exercise Files:** exercise files (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an Atlassian account
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/create-an-atlassian-account?u=76281980)
+#### [Create an Atlassian account](https://www.linkedin.com/learning/learning-bitbucket/create-an-atlassian-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-bitbucket/create-an-atlassian-account?u=76281980&t=1)** - [Instructor] To start using Bitbucket, you'll need to create an Atlassian account.
+> **[0:01](https://www.linkedin.com/learning/learning-bitbucket/create-an-atlassian-account?u=76281980&t=1)** - [Instructor] To start using [[Bitbucket]], you'll need to create an [[Atlassian]] account.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-bitbucket/create-an-atlassian-account?u=76281980&t=5)** Browse to the signup page and create an account using your email address or another account that you might already have with Google, Microsoft, Apple, or Slack.
+> **[0:05](https://www.linkedin.com/learning/learning-bitbucket/create-an-atlassian-account?u=76281980&t=5)** Browse to the signup page and create an account using your email address or another account that you might already have with [[Google]], [[Microsoft]], Apple, or [[Slack]].
 >
 > **[0:16](https://www.linkedin.com/learning/learning-bitbucket/create-an-atlassian-account?u=76281980&t=16)** Once you're logged into your Atlassian account, select the icon for Bitbucket and then select login.
 >
@@ -189,12 +186,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bitbucket content organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/bitbucket-content-organization?u=76281980)
+#### [Bitbucket content organization](https://www.linkedin.com/learning/learning-bitbucket/bitbucket-content-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-bitbucket/bitbucket-content-organization?u=76281980&t=1)** - [Presenter] Bitbucket uses three components to organize and manage access to content, workspaces, projects, and repositories.
+> **[0:01](https://www.linkedin.com/learning/learning-bitbucket/bitbucket-content-organization?u=76281980&t=1)** - [Presenter] [[Bitbucket]] uses three components to organize and manage access to content, workspaces, projects, and repositories.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-bitbucket/bitbucket-content-organization?u=76281980&t=10)** Let's take a look at each one of these and how they work together.
 >
@@ -246,7 +242,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (6), teams (1), mobile application (1), web (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (6)
 > **Tools:** bitbucket (6)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** make (1)
@@ -260,12 +256,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create public and private repositories
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/create-public-and-private-repositories?u=76281980)
+#### [Create public and private repositories](https://www.linkedin.com/learning/learning-bitbucket/create-public-and-private-repositories?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-bitbucket/create-public-and-private-repositories?u=76281980&t=0)** - Let's get started with one of Bitbucket's core features, repositories.
+> **[0:00](https://www.linkedin.com/learning/learning-bitbucket/create-public-and-private-repositories?u=76281980&t=0)** - Let's get started with one of [[Bitbucket]]'s core features, repositories.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-bitbucket/create-public-and-private-repositories?u=76281980&t=4)** When we discussed how content is organized in Bitbucket, we saw how workspaces, projects, and repositories can be either public or private.
 >
@@ -283,7 +278,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/learning-bitbucket/create-public-and-private-repositories?u=76281980&t=59)** Private repositories are best suited for files that aren't meant to be shared.
 >
-> **[1:04](https://www.linkedin.com/learning/learning-bitbucket/create-public-and-private-repositories?u=76281980&t=64)** This can include proprietary algorithms, sensitive data, or code for an exclusive application.
+> **[1:04](https://www.linkedin.com/learning/learning-bitbucket/create-public-and-private-repositories?u=76281980&t=64)** This can include proprietary [[Algorithms]], sensitive data, or code for an exclusive application.
 >
 > **[1:11](https://www.linkedin.com/learning/learning-bitbucket/create-public-and-private-repositories?u=76281980&t=71)** Let's go over to Bitbucket and create public and private repos.
 >
@@ -305,7 +300,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/learning-bitbucket/create-public-and-private-repositories?u=76281980&t=138)** I'll uncheck the setting so the repo can be public.
 >
-> **[2:22](https://www.linkedin.com/learning/learning-bitbucket/create-public-and-private-repositories?u=76281980&t=142)** I'll keep the rest of the default settings and select Create repository.
+> **[2:22](https://www.linkedin.com/learning/learning-bitbucket/create-public-and-private-repositories?u=76281980&t=142)** I'll keep the [[Representational State Transfer (REST)|rest]] of the default settings and select Create repository.
 >
 > **[2:31](https://www.linkedin.com/learning/learning-bitbucket/create-public-and-private-repositories?u=76281980&t=151)** Okay, there's our public repo.
 >
@@ -327,7 +322,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (4), open-source (1), [[Algorithms]] (1), data (1), application (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (4), [[Algorithms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** bitbucket (4)
 > **Env Vars:** url (2)
 > **Cross-References:** we discussed (1), in the next (1)
@@ -336,18 +331,17 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - let (1)
 
-#### Add files to a repository
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/add-files-to-a-repository?u=76281980)
+#### [Add files to a repository](https://www.linkedin.com/learning/learning-bitbucket/add-files-to-a-repository?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-bitbucket/add-files-to-a-repository?u=76281980&t=0)** - [Presenter] I'm logged into my Bitbucket account and I'm on the homepage for the public repository that I just created.
+> **[0:00](https://www.linkedin.com/learning/learning-bitbucket/add-files-to-a-repository?u=76281980&t=0)** - [Presenter] I'm logged into my [[Bitbucket]] account and I'm on the homepage for the public repository that I just created.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-bitbucket/add-files-to-a-repository?u=76281980&t=7)** Specifically, I've selected the source tab on the sidebar menu. To create a file from here, I'll select the three.menu on the far right hand side and then select add file.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-bitbucket/add-files-to-a-repository?u=76281980&t=19)** This gives me an interface to add a file, and I'll start by entering the file name.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-bitbucket/add-files-to-a-repository?u=76281980&t=24)** I'll call this one Hello World, and then I'll add the extension.py to indicate that this is a Python file.
+> **[0:24](https://www.linkedin.com/learning/learning-bitbucket/add-files-to-a-repository?u=76281980&t=24)** I'll call this one Hello World, and then I'll add the extension.py to indicate that this is a [[Python (Programming Language)|Python]] file.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-bitbucket/add-files-to-a-repository?u=76281980&t=33)** Now, I'll enter the content for this file.
 >
@@ -377,7 +371,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (4), [[Python (Programming Language)|Python]] (3), next (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (4), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3), ssh (1)
 > **Tools:** bitbucket (4)
 > **UI Navigation:** select the (2)
@@ -386,8 +380,7 @@ created: 2026-05-02
 > **Env Vars:** ssh (1)
 > **Cross-References:** in the next (1)
 
-#### Add an SSH key for authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/add-an-ssh-key-for-authentication?u=76281980)
+#### [Add an SSH key for authentication](https://www.linkedin.com/learning/learning-bitbucket/add-an-ssh-key-for-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -399,9 +392,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/learning-bitbucket/add-an-ssh-key-for-authentication?u=76281980&t=27)** The public key is shared with the remote server and the private key remains securely stored on your local system.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-bitbucket/add-an-ssh-key-for-authentication?u=76281980&t=35)** Okay, that's all great information, but you might be wondering, what does SSH have to do with Bitbucket?
+> **[0:35](https://www.linkedin.com/learning/learning-bitbucket/add-an-ssh-key-for-authentication?u=76281980&t=35)** Okay, that's all great information, but you might be wondering, what does SSH have to do with [[Bitbucket]]?
 >
-> **[0:42](https://www.linkedin.com/learning/learning-bitbucket/add-an-ssh-key-for-authentication?u=76281980&t=42)** Well, our local Git client uses the SSH protocol to securely connect to remote repositories on Bitbucket.
+> **[0:42](https://www.linkedin.com/learning/learning-bitbucket/add-an-ssh-key-for-authentication?u=76281980&t=42)** Well, our local [[Git]] client uses the SSH protocol to securely connect to remote repositories on Bitbucket.
 >
 > **[0:51](https://www.linkedin.com/learning/learning-bitbucket/add-an-ssh-key-for-authentication?u=76281980&t=51)** Our Git client uses the private key for identification.
 >
@@ -447,7 +440,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/learning-bitbucket/add-an-ssh-key-for-authentication?u=76281980&t=209)** Now that we're up to speed on all things SSH, let's use a demonstration to create a key pair for Bitbucket.
 >
-> **[3:36](https://www.linkedin.com/learning/learning-bitbucket/add-an-ssh-key-for-authentication?u=76281980&t=216)** For this demonstration, I have three windows open.
+> **[3:36](https://www.linkedin.com/learning/learning-bitbucket/add-an-ssh-key-for-authentication?u=76281980&t=216)** For this demonstration, I have three [[Windows]] open.
 >
 > **[3:40](https://www.linkedin.com/learning/learning-bitbucket/add-an-ssh-key-for-authentication?u=76281980&t=220)** I'm viewing the exercise files in my browser, I've got my terminal ready to create keys, and I'm logged into my Bitbucket account where I'll add the keys after I create them.
 >
@@ -507,7 +500,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (14), [[Git]] (4), [[Security]] (3), next (2), data (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (14), [[Git]] (4), [[Windows]] (1)
 > **CLI Commands:** ssh (19), git (4), make (4), ls (1), cat (1)
 > **Env Vars:** ssh (19)
 > **Tools:** bitbucket (14), terminal (3)
@@ -516,20 +509,19 @@ created: 2026-05-02
 > **UI Navigation:** go to (2), select the (1)
 > **Exercise Files:** exercise files (3)
 
-#### Clone repo to a local system
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/clone-repo-to-a-local-system?u=76281980)
+#### [Clone repo to a local system](https://www.linkedin.com/learning/learning-bitbucket/clone-repo-to-a-local-system?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-bitbucket/clone-repo-to-a-local-system?u=76281980&t=1)** - [Instructor] We've set up SSH keys on our local system and in Bitbucket.
+> **[0:01](https://www.linkedin.com/learning/learning-bitbucket/clone-repo-to-a-local-system?u=76281980&t=1)** - [Instructor] We've set up SSH keys on our local system and in [[Bitbucket]].
 >
 > **[0:05](https://www.linkedin.com/learning/learning-bitbucket/clone-repo-to-a-local-system?u=76281980&t=5)** Now we can clone a repo.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-bitbucket/clone-repo-to-a-local-system?u=76281980&t=7)** The primary purpose of the git clone command is to create a local copy of a remote repository.
+> **[0:07](https://www.linkedin.com/learning/learning-bitbucket/clone-repo-to-a-local-system?u=76281980&t=7)** The primary purpose of the [[Git]] clone command is to create a local copy of a remote repository.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-bitbucket/clone-repo-to-a-local-system?u=76281980&t=14)** The local copy is stored in a working directory that mirrors the content of the remote repo.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-bitbucket/clone-repo-to-a-local-system?u=76281980&t=20)** The clone command fetches files, commit history, and metadata from the remote repository and stores them inside the working directory.
+> **[0:20](https://www.linkedin.com/learning/learning-bitbucket/clone-repo-to-a-local-system?u=76281980&t=20)** The clone command fetches files, commit history, and [[Metadata]] from the remote repository and stores them inside the working directory.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-bitbucket/clone-repo-to-a-local-system?u=76281980&t=30)** Working from the web UI requires a constant network connection.
 >
@@ -581,7 +573,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (8), [[Git]] (8), web (2), [[Metadata]] (1), next (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (8), [[Git]] (8), [[Metadata]] (1)
 > **CLI Commands:** git (8), ssh (1), ls (1), make (1), cat (1)
 > **Tools:** bitbucket (8), terminal (2)
 > **Env Vars:** url (4), readme (2), ssh (1)
@@ -590,16 +582,15 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Documentation:** the readme (1)
 
-#### Use a Git workflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/use-a-git-workflow?u=76281980)
+#### [Use a Git workflow](https://www.linkedin.com/learning/learning-bitbucket/use-a-git-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-bitbucket/use-a-git-workflow?u=76281980&t=0)** - [Instructor] After cloning a repo to our local system, we'll be able to work with the files, and then push the changes back to Bitbucket.
+> **[0:00](https://www.linkedin.com/learning/learning-bitbucket/use-a-git-workflow?u=76281980&t=0)** - [Instructor] After cloning a repo to our local system, we'll be able to work with the files, and then push the changes back to [[Bitbucket]].
 >
 > **[0:08](https://www.linkedin.com/learning/learning-bitbucket/use-a-git-workflow?u=76281980&t=8)** Let's take a closer look at the workflow we'll use for this process.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-bitbucket/use-a-git-workflow?u=76281980&t=12)** We'll be using four git commands in our workflow, git add, git commit, git push, and git status.
+> **[0:12](https://www.linkedin.com/learning/learning-bitbucket/use-a-git-workflow?u=76281980&t=12)** We'll be using four [[Git]] commands in our workflow, git add, git commit, git push, and git status.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-bitbucket/use-a-git-workflow?u=76281980&t=23)** After making changes in the workspace, we'll use git add to stage, or in other words, indicate which files will be included in the next commit.
 >
@@ -647,19 +638,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (17), next (4), [[Bitbucket]] (2)
+> **Frameworks & Libraries:** [[Git]] (17), [[Bitbucket]] (2)
 > **CLI Commands:** git (17), make (2)
 > **Cross-References:** in the next (2)
 > **Tools:** bitbucket (2)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Push code to a remote repo
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/push-code-to-a-remote-repo?u=76281980)
+#### [Push code to a remote repo](https://www.linkedin.com/learning/learning-bitbucket/push-code-to-a-remote-repo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/learning-bitbucket/push-code-to-a-remote-repo?u=76281980&t=2)** - [Instructor] I'm logged into my Bitbucket account and I'm on the homepage for my private repository.
+> **[0:02](https://www.linkedin.com/learning/learning-bitbucket/push-code-to-a-remote-repo?u=76281980&t=2)** - [Instructor] I'm logged into my [[Bitbucket]] account and I'm on the homepage for my private repository.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-bitbucket/push-code-to-a-remote-repo?u=76281980&t=7)** On the source view, we can see the files currently in the repo, the last time they were updated, and the commit message from the update.
 >
@@ -669,7 +659,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/learning-bitbucket/push-code-to-a-remote-repo?u=76281980&t=30)** I'm on my local system now and I'm inside the working directory for my private repo.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-bitbucket/push-code-to-a-remote-repo?u=76281980&t=36)** I'm going to start things out by running git status.
+> **[0:36](https://www.linkedin.com/learning/learning-bitbucket/push-code-to-a-remote-repo?u=76281980&t=36)** I'm going to start things out by running [[Git]] status.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-bitbucket/push-code-to-a-remote-repo?u=76281980&t=40)** This shows that I'm on the main branch and that my branch is up to date with a remote repo.
 >
@@ -735,7 +725,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (18), [[Bitbucket]] (3), web (2), next (1)
+> **Frameworks & Libraries:** [[Git]] (18), [[Bitbucket]] (3)
 > **CLI Commands:** git (18), make (1)
 > **Env Vars:** readme (4), ctrl (1)
 > **Documentation:** the readme (4)
@@ -744,16 +734,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **File Paths:** newfile.txt (1)
 
-#### Challenge: Create a repo and add code
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/challenge-create-a-repo-and-add-code?u=76281980)
+#### [Challenge: Create a repo and add code](https://www.linkedin.com/learning/learning-bitbucket/challenge-create-a-repo-and-add-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-bitbucket/challenge-create-a-repo-and-add-code?u=76281980&t=0)** (buoyant music)
 >
-> **[0:06](https://www.linkedin.com/learning/learning-bitbucket/challenge-create-a-repo-and-add-code?u=76281980&t=6)** - [Presenter] Let's use a challenge to apply what you've learned about Bitbucket.
+> **[0:06](https://www.linkedin.com/learning/learning-bitbucket/challenge-create-a-repo-and-add-code?u=76281980&t=6)** - [Presenter] Let's use a challenge to apply what you've learned about [[Bitbucket]].
 >
-> **[0:10](https://www.linkedin.com/learning/learning-bitbucket/challenge-create-a-repo-and-add-code?u=76281980&t=10)** You're part of a software development team working on a new, amazing open source application, the amazing mobile app.
+> **[0:10](https://www.linkedin.com/learning/learning-bitbucket/challenge-create-a-repo-and-add-code?u=76281980&t=10)** You're part of a [[Software Development]] team working on a new, amazing open source application, the amazing mobile app.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-bitbucket/challenge-create-a-repo-and-add-code?u=76281980&t=18)** The team is inviting the community to work with them and they need a cloud-based repository service to store the code.
 >
@@ -781,7 +770,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (4), application (3), [[Software Development]] (1), cloud (1), next (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (4), [[Software Development]] (1)
 > **Tools:** bitbucket (4)
 > **Env Vars:** url (1), contributing (1)
 > **File Paths:** contributing.md (1)
@@ -790,14 +779,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** configure (1)
 
-#### Solution: Create a repo and add code
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/solution-create-a-repo-and-add-code?u=76281980)
+#### [Solution: Create a repo and add code](https://www.linkedin.com/learning/learning-bitbucket/solution-create-a-repo-and-add-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-bitbucket/solution-create-a-repo-and-add-code?u=76281980&t=0)** - [Instructor] Okay, it is time to apply some of the skills that we've learned so far, and this is the challenge where we're going to make that happen.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-bitbucket/solution-create-a-repo-and-add-code?u=76281980&t=13)** We're going to set up a Bitbucket workspace, add a project, create two repositories, those repositories need to have specific visibilities, and then we're going to add some files and push those files back to Bitbucket.
+> **[0:13](https://www.linkedin.com/learning/learning-bitbucket/solution-create-a-repo-and-add-code?u=76281980&t=13)** We're going to set up a [[Bitbucket]] workspace, add a project, create two repositories, those repositories need to have specific visibilities, and then we're going to add some files and push those files back to Bitbucket.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-bitbucket/solution-create-a-repo-and-add-code?u=76281980&t=27)** Let's get started on this solution.
 >
@@ -845,7 +833,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/learning-bitbucket/solution-create-a-repo-and-add-code?u=76281980&t=193)** I'll start with the community repository.
 >
-> **[3:16](https://www.linkedin.com/learning/learning-bitbucket/solution-create-a-repo-and-add-code?u=76281980&t=196)** I'll drop in there and then I'll select this button Clone, and I'll just copy these or click the stacked squares icon here that copies that Git URL and the get clone command to my clipboard, and now I'll go to my terminal.
+> **[3:16](https://www.linkedin.com/learning/learning-bitbucket/solution-create-a-repo-and-add-code?u=76281980&t=196)** I'll drop in there and then I'll select this button Clone, and I'll just copy these or click the stacked squares icon here that copies that [[Git]] URL and the get clone command to my clipboard, and now I'll go to my terminal.
 >
 > **[3:33](https://www.linkedin.com/learning/learning-bitbucket/solution-create-a-repo-and-add-code?u=76281980&t=213)** Okay, I'm in the terminal now and all I need to do is paste in that lovely command that I copied, and I get that clone command automatically, I'm cloning the repo in the community, and everything looks good there.
 >
@@ -933,7 +921,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (7), [[Bitbucket]] (6), next (3), cd (1), web (1)
+> **Frameworks & Libraries:** [[Git]] (7), [[Bitbucket]] (6)
 > **CLI Commands:** git (7), make (2), ls (1), cd (1)
 > **Tools:** bitbucket (6), terminal (4), vim (1)
 > **Env Vars:** contributing (7), url (1)
@@ -947,12 +935,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a branch
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/create-a-branch?u=76281980)
+#### [Create a branch](https://www.linkedin.com/learning/learning-bitbucket/create-a-branch?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-bitbucket/create-a-branch?u=76281980&t=0)** - We've gotten some experience with Bitbucket by setting up workspaces, creating files in the web interface, and cloning repositories using the command line.
+> **[0:00](https://www.linkedin.com/learning/learning-bitbucket/create-a-branch?u=76281980&t=0)** - We've gotten some experience with [[Bitbucket]] by setting up workspaces, creating files in the web interface, and cloning repositories using the command line.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-bitbucket/create-a-branch?u=76281980&t=9)** Now let's move on to the next step. Working with branches.
 >
@@ -1062,7 +1049,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (7), feature (6), web (3), next (2)
+> **Frameworks & Libraries:** [[Bitbucket]] (7)
 > **Tools:** bitbucket (7), command line (2)
 > **UI Navigation:** select the (3)
 > **CLI Commands:** make (1)
@@ -1070,16 +1057,15 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - we (1)
 
-#### Push code to a branch
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/push-code-to-a-branch?u=76281980)
+#### [Push code to a branch](https://www.linkedin.com/learning/learning-bitbucket/push-code-to-a-branch?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-bitbucket/push-code-to-a-branch?u=76281980&t=1)** - [Instructor] We've seen how we can create a branch in the Bitbucket Web UI.
+> **[0:01](https://www.linkedin.com/learning/learning-bitbucket/push-code-to-a-branch?u=76281980&t=1)** - [Instructor] We've seen how we can create a branch in the [[Bitbucket]] Web UI.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-bitbucket/push-code-to-a-branch?u=76281980&t=4)** Now let's check out a branch to our local system and push code back to the same branch on Bitbucket.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-bitbucket/push-code-to-a-branch?u=76281980&t=11)** When we're working with branches locally, we'll start by running Git Pull, this downloads any remote changes to the local repository on the main branch.
+> **[0:11](https://www.linkedin.com/learning/learning-bitbucket/push-code-to-a-branch?u=76281980&t=11)** When we're working with branches locally, we'll start by running [[Git]] Pull, this downloads any remote changes to the local repository on the main branch.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-bitbucket/push-code-to-a-branch?u=76281980&t=21)** Then we'll run the get checkout Command.
 >
@@ -1157,7 +1143,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (18), [[Bitbucket]] (6), web (3), feature (3), next (2)
+> **Frameworks & Libraries:** [[Git]] (18), [[Bitbucket]] (6)
 > **CLI Commands:** git (18), make (2)
 > **Tools:** bitbucket (6), terminal (2), command line (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1165,12 +1151,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a Pull request
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/create-a-pull-request?u=76281980)
+#### [Create a Pull request](https://www.linkedin.com/learning/learning-bitbucket/create-a-pull-request?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-bitbucket/create-a-pull-request?u=76281980&t=1)** - [Host] Pull requests are a key feature to GIT based version control systems.
+> **[0:01](https://www.linkedin.com/learning/learning-bitbucket/create-a-pull-request?u=76281980&t=1)** - [Host] Pull requests are a key feature to [[Git]] based [[Version Control]] systems.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-bitbucket/create-a-pull-request?u=76281980&t=5)** More often than not, the term pull request is abbreviated as PR.
 >
@@ -1178,7 +1163,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/learning-bitbucket/create-a-pull-request?u=76281980&t=19)** Usually the changes are coming from a branch containing a new feature or a bug fix.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-bitbucket/create-a-pull-request?u=76281980&t=25)** The request is to merge those changes into the primary code base, pull requests, create a special checkpoint for collaboration in the software development process.
+> **[0:25](https://www.linkedin.com/learning/learning-bitbucket/create-a-pull-request?u=76281980&t=25)** The request is to merge those changes into the primary code base, pull requests, create a special checkpoint for collaboration in the [[Software Development]] process.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-bitbucket/create-a-pull-request?u=76281980&t=37)** Working with PRs team members can review changes, provide feedback, and lend support to code quality.
 >
@@ -1192,7 +1177,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/learning-bitbucket/create-a-pull-request?u=76281980&t=77)** This is our PR.
 >
-> **[1:19](https://www.linkedin.com/learning/learning-bitbucket/create-a-pull-request?u=76281980&t=79)** Bitbucket will do a fine job of tracking the commits and files involved in the PR.
+> **[1:19](https://www.linkedin.com/learning/learning-bitbucket/create-a-pull-request?u=76281980&t=79)** [[Bitbucket]] will do a fine job of tracking the commits and files involved in the PR.
 >
 > **[1:24](https://www.linkedin.com/learning/learning-bitbucket/create-a-pull-request?u=76281980&t=84)** It's up to us to add a descriptive title and message for our PR so anyone that sees it will understand the purpose or context for the changes.
 >
@@ -1264,7 +1249,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), [[Bitbucket]] (3), [[Git]] (1), [[Version Control]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (3), [[Git]] (1), [[Version Control]] (1), [[Software Development]] (1)
 > **CLI Commands:** make (2), git (1), find (1)
 > **Tools:** bitbucket (3)
 > **Env Vars:** git (1)
@@ -1272,14 +1257,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [host] (1)
 
-#### Challenge: Create and merge a Pull request
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/challenge-create-and-merge-a-pull-request?u=76281980)
+#### [Challenge: Create and merge a Pull request](https://www.linkedin.com/learning/learning-bitbucket/challenge-create-and-merge-a-pull-request?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-bitbucket/challenge-create-and-merge-a-pull-request?u=76281980&t=0)** (bright techno music)
 >
-> **[0:07](https://www.linkedin.com/learning/learning-bitbucket/challenge-create-and-merge-a-pull-request?u=76281980&t=7)** - [Instructor] Let's use another challenge to practice what you've learned about Bitbucket.
+> **[0:07](https://www.linkedin.com/learning/learning-bitbucket/challenge-create-and-merge-a-pull-request?u=76281980&t=7)** - [Instructor] Let's use another challenge to practice what you've learned about [[Bitbucket]].
 >
 > **[0:11](https://www.linkedin.com/learning/learning-bitbucket/challenge-create-and-merge-a-pull-request?u=76281980&t=11)** In the previous challenge, you configured Bitbucket for the amazing mobile app, creating two repositories; one for open source development and another for the team's internal files.
 >
@@ -1307,7 +1291,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (5), feature (1), next (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (5)
 > **Tools:** bitbucket (5)
 > **File Paths:** contributing.md (1)
 > **Cross-References:** in the next (1)
@@ -1315,14 +1299,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright techno music) (1)
 
-#### Solution: Create and merge a Pull request
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/solution-create-and-merge-a-pull-request?u=76281980)
+#### [Solution: Create and merge a Pull request](https://www.linkedin.com/learning/learning-bitbucket/solution-create-and-merge-a-pull-request?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-bitbucket/solution-create-and-merge-a-pull-request?u=76281980&t=0)** - [Instructor] Yes, you know what that theme music means, it's time for another challenge.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-bitbucket/solution-create-and-merge-a-pull-request?u=76281980&t=11)** And this time we're going to be using the skills that we just learned with Bitbucket using branches and pull requests.
+> **[0:11](https://www.linkedin.com/learning/learning-bitbucket/solution-create-and-merge-a-pull-request?u=76281980&t=11)** And this time we're going to be using the skills that we just learned with [[Bitbucket]] using branches and pull requests.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-bitbucket/solution-create-and-merge-a-pull-request?u=76281980&t=19)** So, the task for this challenge, we're going to use some of the repos that we set up in the previous challenge, and we're going to create a branch in the community repo, we're going to update the CONTRIBUTING.md file on that branch, and then we're going to merge those changes back into the main branch.
 >
@@ -1400,7 +1383,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (5), [[Bitbucket]] (4), next (2)
+> **Frameworks & Libraries:** [[Bitbucket]] (4)
 > **Tools:** bitbucket (4)
 > **File Paths:** contributing.md (2)
 > **CLI Commands:** make (2)
@@ -1414,22 +1397,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage Projects with Jira and Bitbucket
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/manage-projects-with-jira-and-bitbucket?u=76281980)
+#### [Manage Projects with Jira and Bitbucket](https://www.linkedin.com/learning/learning-bitbucket/manage-projects-with-jira-and-bitbucket?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-bitbucket/manage-projects-with-jira-and-bitbucket?u=76281980&t=1)** - So far, you've learned how Bitbucket provides a service for managing Git repositories in the cloud.
+> **[0:01](https://www.linkedin.com/learning/learning-bitbucket/manage-projects-with-jira-and-bitbucket?u=76281980&t=1)** - So far, you've learned how [[Bitbucket]] provides a service for managing [[Git]] repositories in the cloud.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-bitbucket/manage-projects-with-jira-and-bitbucket?u=76281980&t=7)** Now let's take a look at Jira, a project management platform that helps teams track, organize, and manage their work.
+> **[0:07](https://www.linkedin.com/learning/learning-bitbucket/manage-projects-with-jira-and-bitbucket?u=76281980&t=7)** Now let's take a look at [[Jira]], a project management platform that helps teams track, organize, and manage their work.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-bitbucket/manage-projects-with-jira-and-bitbucket?u=76281980&t=14)** With Jira and Bitbucket both being produced by Atlassian, we can get these tools working together easily.
+> **[0:14](https://www.linkedin.com/learning/learning-bitbucket/manage-projects-with-jira-and-bitbucket?u=76281980&t=14)** With Jira and Bitbucket both being produced by [[Atlassian]], we can get these tools working together easily.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-bitbucket/manage-projects-with-jira-and-bitbucket?u=76281980&t=21)** Let's see how we can manage software development projects with Jira and Bitbucket.
+> **[0:21](https://www.linkedin.com/learning/learning-bitbucket/manage-projects-with-jira-and-bitbucket?u=76281980&t=21)** Let's see how we can manage [[Software Development]] projects with Jira and Bitbucket.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-bitbucket/manage-projects-with-jira-and-bitbucket?u=76281980&t=27)** Jira is a popular project management tool for tracking issues, features, and bugs through all stages of the software development lifecycle.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-bitbucket/manage-projects-with-jira-and-bitbucket?u=76281980&t=37)** Jira is highly customizable, allowing teams to create workflows that map to a variety of project management methodologies, including Agile, Scrum, and Kanban.
+> **[0:37](https://www.linkedin.com/learning/learning-bitbucket/manage-projects-with-jira-and-bitbucket?u=76281980&t=37)** Jira is highly customizable, allowing teams to create workflows that map to a variety of project management methodologies, including [[Agile Development|Agile]], [[Scrum]], and Kanban.
 >
 > **[0:49](https://www.linkedin.com/learning/learning-bitbucket/manage-projects-with-jira-and-bitbucket?u=76281980&t=49)** These and other project management methodologies take projects and break them up into smaller units of work, known as issues, tasks, or stories.
 >
@@ -1453,7 +1435,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/learning-bitbucket/manage-projects-with-jira-and-bitbucket?u=76281980&t=125)** But this is a Bitbucket course after all, right?
 >
-> **[2:08](https://www.linkedin.com/learning/learning-bitbucket/manage-projects-with-jira-and-bitbucket?u=76281980&t=128)** So we won't be going into all of the project management awesomeness that Jira possesses, but if you search for Jira in the LinkedIn Learning Library, you'll find dozens of courses to choose from.
+> **[2:08](https://www.linkedin.com/learning/learning-bitbucket/manage-projects-with-jira-and-bitbucket?u=76281980&t=128)** So we won't be going into all of the project management awesomeness that Jira possesses, but if you search for Jira in the [[LinkedIn]] Learning Library, you'll find dozens of courses to choose from.
 >
 > **[2:19](https://www.linkedin.com/learning/learning-bitbucket/manage-projects-with-jira-and-bitbucket?u=76281980&t=139)** I've updated the exercise files with links to a few recommendations including Learning Jira, [[Jira- Basic Administration]], and Managing Custom Workflows.
 >
@@ -1475,7 +1457,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/learning-bitbucket/manage-projects-with-jira-and-bitbucket?u=76281980&t=191)** Team members can see Kelvin's progress using links from the Jira issue to the Pull Request in Bitbucket.
 >
-> **[3:18](https://www.linkedin.com/learning/learning-bitbucket/manage-projects-with-jira-and-bitbucket?u=76281980&t=198)** Kelvin, Margaret, and the rest of the team review the changes and agree that everything is working as planned.
+> **[3:18](https://www.linkedin.com/learning/learning-bitbucket/manage-projects-with-jira-and-bitbucket?u=76281980&t=198)** Kelvin, Margaret, and the [[Representational State Transfer (REST)|rest]] of the team review the changes and agree that everything is working as planned.
 >
 > **[3:24](https://www.linkedin.com/learning/learning-bitbucket/manage-projects-with-jira-and-bitbucket?u=76281980&t=204)** Kelvin merges the Feature branch into the Main branch, kicking off automation in Jira that moves the issue from In Progress to Done.
 >
@@ -1485,7 +1467,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (19), [[Bitbucket]] (8), management (6), [[Software Development]] (5), feature (5)
+> **Frameworks & Libraries:** [[Jira]] (19), [[Bitbucket]] (8), [[Software Development]] (5), [[Git]] (1), [[Atlassian]] (1)
 > **Tools:** jira (19), bitbucket (8)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** git (1), find (1)
@@ -1494,14 +1476,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 
-#### Connect Jira to Bitbucket
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/connect-jira-to-bitbucket?u=76281980)
+#### [Connect Jira to Bitbucket](https://www.linkedin.com/learning/learning-bitbucket/connect-jira-to-bitbucket?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-bitbucket/connect-jira-to-bitbucket?u=76281980&t=1)** - [Instructor] To start connecting Jira to Bitbucket, we'll create an instance of Jira Cloud.
+> **[0:01](https://www.linkedin.com/learning/learning-bitbucket/connect-jira-to-bitbucket?u=76281980&t=1)** - [Instructor] To start connecting [[Jira]] to [[Bitbucket]], we'll create an instance of Jira Cloud.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-bitbucket/connect-jira-to-bitbucket?u=76281980&t=6)** Jira Cloud is a software as a service installation of Jira hosted by Atlassian.
+> **[0:06](https://www.linkedin.com/learning/learning-bitbucket/connect-jira-to-bitbucket?u=76281980&t=6)** Jira Cloud is a [[SaaS|software as a service]] installation of Jira hosted by [[Atlassian]].
 >
 > **[0:13](https://www.linkedin.com/learning/learning-bitbucket/connect-jira-to-bitbucket?u=76281980&t=13)** There's no server to manage, no patches to maintain.
 >
@@ -1587,7 +1568,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (20), [[Bitbucket]] (13), cloud (4), [[Atlassian]] (3), next (2)
+> **Frameworks & Libraries:** [[Jira]] (20), [[Bitbucket]] (13), [[Atlassian]] (3)
 > **Tools:** jira (20), bitbucket (13)
 > **Prerequisites:** set up (3), configure (2), getting started (1)
 > **UI Navigation:** go to (2), dropdown (2), select the (1)
@@ -1596,16 +1577,15 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 
-#### Automate issue updates
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/automate-issue-updates?u=76281980)
+#### [Automate issue updates](https://www.linkedin.com/learning/learning-bitbucket/automate-issue-updates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-bitbucket/automate-issue-updates?u=76281980&t=1)** - [Instructor] Now that we've seen how Jira can be connected to Bitbucket, let's tap into another Jira superpower, automation.
+> **[0:01](https://www.linkedin.com/learning/learning-bitbucket/automate-issue-updates?u=76281980&t=1)** - [Instructor] Now that we've seen how [[Jira]] can be connected to [[Bitbucket]], let's tap into another Jira superpower, automation.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-bitbucket/automate-issue-updates?u=76281980&t=8)** Jira automation allows for synchronization between project management and code development activities.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-bitbucket/automate-issue-updates?u=76281980&t=14)** By reflecting the real time status of the work being done, automation keeps project tracking accurate and up to date.
+> **[0:14](https://www.linkedin.com/learning/learning-bitbucket/automate-issue-updates?u=76281980&t=14)** By reflecting the real time status of the work being done, automation keeps [[Project Tracking]] accurate and up to date.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-bitbucket/automate-issue-updates?u=76281980&t=23)** Developers can work in Bitbucket while project managers and other team members track progress in Jira, allowing the team to collaborate from the tool they're most familiar with.
 >
@@ -1633,7 +1613,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/learning-bitbucket/automate-issue-updates?u=76281980&t=102)** Take some time to explore the rule templates you can choose from.
 >
-> **[1:45](https://www.linkedin.com/learning/learning-bitbucket/automate-issue-updates?u=76281980&t=105)** For now, I'll scroll down to the DevOps section.
+> **[1:45](https://www.linkedin.com/learning/learning-bitbucket/automate-issue-updates?u=76281980&t=105)** For now, I'll scroll down to the [[DevOps]] section.
 >
 > **[1:56](https://www.linkedin.com/learning/learning-bitbucket/automate-issue-updates?u=76281980&t=116)** This is where we'll find rule templates for actions that update issues based on changes in repositories.
 >
@@ -1651,7 +1631,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/learning-bitbucket/automate-issue-updates?u=76281980&t=162)** If all the other conditions are met, then Jira will update the issue to be in progress.
 >
-> **[2:48](https://www.linkedin.com/learning/learning-bitbucket/automate-issue-updates?u=76281980&t=168)** Now this template is already provided for us, so we don't have to do anything but enable it by selecting this button to turn the rule on, We even get an option to let Atlassian know what our automation experience has been like.
+> **[2:48](https://www.linkedin.com/learning/learning-bitbucket/automate-issue-updates?u=76281980&t=168)** Now this template is already provided for us, so we don't have to do anything but enable it by selecting this button to turn the rule on, We even get an option to let [[Atlassian]] know what our automation experience has been like.
 >
 > **[3:05](https://www.linkedin.com/learning/learning-bitbucket/automate-issue-updates?u=76281980&t=185)** I'm going to say thumbs up.
 >
@@ -1671,7 +1651,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (11), [[Automation]] (8), [[Bitbucket]] (4), next (3), management (1)
+> **Frameworks & Libraries:** [[Jira]] (11), [[Bitbucket]] (4), [[Project Tracking]] (1), [[DevOps]] (1), [[Atlassian]] (1)
 > **Tools:** jira (11), bitbucket (4)
 > **Cross-References:** go back to (2), in the next (1)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -1680,12 +1660,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
-#### Create an issue and link to the Bitbucket branch
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/create-an-issue-and-link-to-the-bitbucket-branch?u=76281980)
+#### [Create an issue and link to the Bitbucket branch](https://www.linkedin.com/learning/learning-bitbucket/create-an-issue-and-link-to-the-bitbucket-branch?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-bitbucket/create-an-issue-and-link-to-the-bitbucket-branch?u=76281980&t=1)** - [Instructor] At this point, we have our project connected to Bitbucket and we've added rules that will automatically update issues based on events in a repository.
+> **[0:01](https://www.linkedin.com/learning/learning-bitbucket/create-an-issue-and-link-to-the-bitbucket-branch?u=76281980&t=1)** - [Instructor] At this point, we have our project connected to [[Bitbucket]] and we've added rules that will automatically update issues based on events in a repository.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-bitbucket/create-an-issue-and-link-to-the-bitbucket-branch?u=76281980&t=10)** To see how everything comes together, let's start by creating an issue.
 >
@@ -1713,7 +1692,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/learning-bitbucket/create-an-issue-and-link-to-the-bitbucket-branch?u=76281980&t=82)** Okay, the branch is created.
 >
-> **[1:23](https://www.linkedin.com/learning/learning-bitbucket/create-an-issue-and-link-to-the-bitbucket-branch?u=76281980&t=83)** Let's take a look to see what happened in Jira.
+> **[1:23](https://www.linkedin.com/learning/learning-bitbucket/create-an-issue-and-link-to-the-bitbucket-branch?u=76281980&t=83)** Let's take a look to see what happened in [[Jira]].
 >
 > **[1:27](https://www.linkedin.com/learning/learning-bitbucket/create-an-issue-and-link-to-the-bitbucket-branch?u=76281980&t=87)** Back in Jira, the issue was automatically updated to be in progress, and if I scroll down a bit and open the Automation pane and select Refresh, I can see a log with a rule that was used to update the issue.
 >
@@ -1725,18 +1704,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (2), [[Jira]] (2), feature (1), [[Automation]] (1), next (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (2), [[Jira]] (2)
 > **Tools:** bitbucket (2), jira (2)
 > **UI Navigation:** select the (2), scroll down (1), open the (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Update and close issues from Bitbucket
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/update-and-close-issues-from-bitbucket?u=76281980)
+#### [Update and close issues from Bitbucket](https://www.linkedin.com/learning/learning-bitbucket/update-and-close-issues-from-bitbucket?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/learning-bitbucket/update-and-close-issues-from-bitbucket?u=76281980&t=1)** - [Instructor] I'm back in my Bitbucket account now, viewing the branch page.
+> **[0:01](https://www.linkedin.com/learning/learning-bitbucket/update-and-close-issues-from-bitbucket?u=76281980&t=1)** - [Instructor] I'm back in my [[Bitbucket]] account now, viewing the branch page.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-bitbucket/update-and-close-issues-from-bitbucket?u=76281980&t=5)** To see the feature branch I just created, I'll select all branches.
 >
@@ -1750,7 +1728,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/learning-bitbucket/update-and-close-issues-from-bitbucket?u=76281980&t=60)** I'll also select the option to delete the branch and then create pull request.
 >
-> **[1:08](https://www.linkedin.com/learning/learning-bitbucket/update-and-close-issues-from-bitbucket?u=76281980&t=68)** Okay, we have the pr. Let's go back to Jira.
+> **[1:08](https://www.linkedin.com/learning/learning-bitbucket/update-and-close-issues-from-bitbucket?u=76281980&t=68)** Okay, we have the pr. Let's go back to [[Jira]].
 >
 > **[1:12](https://www.linkedin.com/learning/learning-bitbucket/update-and-close-issues-from-bitbucket?u=76281980&t=72)** I'm back in Jira, and I want to refresh my screen for this next step, and it's a very subtle detail, but I'll place my mouse pointer right here next to this icon.
 >
@@ -1774,7 +1752,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (5), [[Bitbucket]] (2), next (2), feature (1)
+> **Frameworks & Libraries:** [[Jira]] (5), [[Bitbucket]] (2)
 > **Tools:** jira (5), bitbucket (2)
 > **Cross-References:** go back to (3)
 > **CLI Commands:** make (2)
@@ -1782,8 +1760,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Trigger Jira automation from Bitbucket
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/challenge-trigger-jira-automation-from-bitbucket?u=76281980)
+#### [Challenge: Trigger Jira automation from Bitbucket](https://www.linkedin.com/learning/learning-bitbucket/challenge-trigger-jira-automation-from-bitbucket?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1791,13 +1768,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-bitbucket/challenge-trigger-jira-automation-from-bitbucket?u=76281980&t=6)** - [Instructor] I hope you're as excited as I am for one more challenge.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-bitbucket/challenge-trigger-jira-automation-from-bitbucket?u=76281980&t=11)** In this challenge, you'll continue your role as the Bitbucket expert on the team developing the Amazing mobile app.
+> **[0:11](https://www.linkedin.com/learning/learning-bitbucket/challenge-trigger-jira-automation-from-bitbucket?u=76281980&t=11)** In this challenge, you'll continue your role as the [[Bitbucket]] expert on the team developing the Amazing mobile app.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-bitbucket/challenge-trigger-jira-automation-from-bitbucket?u=76281980&t=19)** Since the last challenge, the application has grown in popularity and has millions of daily active users.
 >
 > **[0:25](https://www.linkedin.com/learning/learning-bitbucket/challenge-trigger-jira-automation-from-bitbucket?u=76281980&t=25)** The team has decided to bring on a project manager to help streamline new features and prioritize bug fixes.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-bitbucket/challenge-trigger-jira-automation-from-bitbucket?u=76281980&t=33)** Your task is to set up a Jira project, connecting it to existing repositories, and demonstrating how the team can manage issues using automation rules, branches, and pull requests.
+> **[0:33](https://www.linkedin.com/learning/learning-bitbucket/challenge-trigger-jira-automation-from-bitbucket?u=76281980&t=33)** Your task is to set up a [[Jira]] project, connecting it to existing repositories, and demonstrating how the team can manage issues using automation rules, branches, and pull requests.
 >
 > **[0:46](https://www.linkedin.com/learning/learning-bitbucket/challenge-trigger-jira-automation-from-bitbucket?u=76281980&t=46)** To complete this challenge, you'll start by creating a Jira project.
 >
@@ -1817,7 +1794,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (4), [[Automation]] (3), [[Bitbucket]] (2), application (1), feature (1)
+> **Frameworks & Libraries:** [[Jira]] (4), [[Bitbucket]] (2)
 > **Tools:** jira (4), bitbucket (2)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
@@ -1825,8 +1802,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Trigger Jira automation from Bitbucket
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/solution-trigger-jira-automation-from-bitbucket?u=76281980)
+#### [Solution: Trigger Jira automation from Bitbucket](https://www.linkedin.com/learning/learning-bitbucket/solution-trigger-jira-automation-from-bitbucket?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1834,7 +1810,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-bitbucket/solution-trigger-jira-automation-from-bitbucket?u=76281980&t=6)** - [Instructor] There was a lot packed into this challenge, and I hope you had as much fun as I did solving it.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-bitbucket/solution-trigger-jira-automation-from-bitbucket?u=76281980&t=13)** We got to use all the things we learned about Bitbucket and Jira.
+> **[0:13](https://www.linkedin.com/learning/learning-bitbucket/solution-trigger-jira-automation-from-bitbucket?u=76281980&t=13)** We got to use all the things we learned about [[Bitbucket]] and [[Jira]].
 >
 > **[0:17](https://www.linkedin.com/learning/learning-bitbucket/solution-trigger-jira-automation-from-bitbucket?u=76281980&t=17)** I won't walk through all the steps that I took to reach my solution, but I will show the final state.
 >
@@ -1880,7 +1856,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (5), [[Bitbucket]] (4), [[Automation]] (4)
+> **Frameworks & Libraries:** [[Jira]] (5), [[Bitbucket]] (4)
 > **Tools:** jira (5), bitbucket (4)
 > **UI Navigation:** scroll down (2), go to (1), select the (1)
 > **Cross-References:** go back to (2)
@@ -1892,14 +1868,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-bitbucket/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-bitbucket/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-bitbucket/next-steps?u=76281980&t=0)** - We covered a lot in this course, and there's still so much more that Bitbucket has to offer.
+> **[0:00](https://www.linkedin.com/learning/learning-bitbucket/next-steps?u=76281980&t=0)** - We covered a lot in this course, and there's still so much more that [[Bitbucket]] has to offer.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-bitbucket/next-steps?u=76281980&t=5)** Take the time to learn about other Bitbucket features, like hosting static websites, using snippets to share files, or adding CI/CD capabilities to all of your software projects with Bitbucket pipelines.
+> **[0:05](https://www.linkedin.com/learning/learning-bitbucket/next-steps?u=76281980&t=5)** Take the time to learn about other Bitbucket features, like hosting static websites, using snippets to share files, or adding CI/CD capabilities to all of your [[Software Projects]] with Bitbucket pipelines.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-bitbucket/next-steps?u=76281980&t=18)** Whatever path you choose, check out the exercise files for links to these and other topics as you continue your Bitbucket journey.
 >
@@ -1909,7 +1884,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Bitbucket]] (5), ci (1), cd (1), [[Software Projects]] (1)
+> **Frameworks & Libraries:** [[Bitbucket]] (5), [[Software Projects]] (1)
 > **Tools:** bitbucket (5)
 > **CLI Commands:** cd (1)
 > **Cross-References:** we covered (1)

@@ -81,8 +81,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to turn a static website into a content-managed one
-> [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/how-to-turn-a-static-website-into-a-content-managed-one?u=76281980)
+#### [How to turn a static website into a content-managed one](https://www.linkedin.com/learning/winter-cms-with-laravel/how-to-turn-a-static-website-into-a-content-managed-one?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -90,7 +89,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/winter-cms-with-laravel/how-to-turn-a-static-website-into-a-content-managed-one?u=76281980&t=8)** If you've built a website or you regularly build websites, you know the difficulty of maintaining and refreshing their contents over time.
 >
-> **[0:15](https://www.linkedin.com/learning/winter-cms-with-laravel/how-to-turn-a-static-website-into-a-content-managed-one?u=76281980&t=15)** In this course, you'll learn how to use Winter, a Laravel content management system, so that all base CMS requirements are taken care of for you, while at the same time, making it easy to manage its contents.
+> **[0:15](https://www.linkedin.com/learning/winter-cms-with-laravel/how-to-turn-a-static-website-into-a-content-managed-one?u=76281980&t=15)** In this course, you'll learn how to use Winter, a [[Laravel]] [[Content Management]] system, so that all base CMS requirements are taken care of for you, while at the same time, making it easy to manage its contents.
 >
 > **[0:28](https://www.linkedin.com/learning/winter-cms-with-laravel/how-to-turn-a-static-website-into-a-content-managed-one?u=76281980&t=28)** With my guidance, you'll get to take a static website and turn it into a CMS-managed one.
 >
@@ -100,26 +99,25 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/winter-cms-with-laravel/how-to-turn-a-static-website-into-a-content-managed-one?u=76281980&t=45)** I am a full stack web developer with a background in information systems, and I have been developing for the web for six years now.
 >
-> **[0:53](https://www.linkedin.com/learning/winter-cms-with-laravel/how-to-turn-a-static-website-into-a-content-managed-one?u=76281980&t=53)** Join me now in LinkedIn Learning to turn your website from static to dynamic ones that any user can edit.
+> **[0:53](https://www.linkedin.com/learning/winter-cms-with-laravel/how-to-turn-a-static-website-into-a-content-managed-one?u=76281980&t=53)** Join me now in [[LinkedIn]] Learning to turn your website from static to dynamic ones that any user can edit.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cms (2), web (2), [[Laravel]] (1), [[Content Management]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Laravel]] (1), [[Content Management]] (1), [[LinkedIn]] (1)
 > **Env Vars:** cms (2)
 > **Speakers:** - [ana] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/winter-cms-with-laravel/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/winter-cms-with-laravel/what-you-should-know?u=76281980&t=0)** - [Instructor] In this course, we are focusing on moving a static website into a content management system, or a CMS managed one.
+> **[0:00](https://www.linkedin.com/learning/winter-cms-with-laravel/what-you-should-know?u=76281980&t=0)** - [Instructor] In this course, we are focusing on moving a static website into a [[Content Management]] system, or a CMS managed one.
 >
 > **[0:07](https://www.linkedin.com/learning/winter-cms-with-laravel/what-you-should-know?u=76281980&t=7)** More specifically, you'll learn how to take the already existent static website for Wisdom Pet Medicine and allow it to be managed in a CMS.
 >
 > **[0:16](https://www.linkedin.com/learning/winter-cms-with-laravel/what-you-should-know?u=76281980&t=16)** So to follow this course, you are expected to have some basic website development knowledge.
 >
-> **[0:21](https://www.linkedin.com/learning/winter-cms-with-laravel/what-you-should-know?u=76281980&t=21)** In particular, you should be familiar with HTML, CSS, and programming basic concepts, like the use of variables, loops, and control structures.
+> **[0:21](https://www.linkedin.com/learning/winter-cms-with-laravel/what-you-should-know?u=76281980&t=21)** In particular, you should be familiar with [[HTML]], CSS, and programming basic concepts, like the use of variables, loops, and control structures.
 >
 > **[0:32](https://www.linkedin.com/learning/winter-cms-with-laravel/what-you-should-know?u=76281980&t=32)** If you do have any previous experience with Twig templating, it is a plus, since this is the templating language used in Winter CMS.
 >
@@ -127,13 +125,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cms (3), [[Content Management]] (1), [[HTML]] (1), css (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Content Management]] (1), [[HTML]] (1)
 > **Env Vars:** cms (3), html (1), css (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Course project: The sample website
-> [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/course-project-the-sample-website?u=76281980)
+#### [Course project: The sample website](https://www.linkedin.com/learning/winter-cms-with-laravel/course-project-the-sample-website?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -147,12 +144,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cms (1)
 > **Env Vars:** cms (1)
 > **Speakers:** - [instructor] (1)
 
-#### Access the course files
-> [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/access-the-course-files?u=76281980)
+#### [Access the course files](https://www.linkedin.com/learning/winter-cms-with-laravel/access-the-course-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -164,15 +159,15 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/winter-cms-with-laravel/access-the-course-files?u=76281980&t=25)** The demo website shared in this video's exercise files can be saved anywhere on your computer.
 >
-> **[0:31](https://www.linkedin.com/learning/winter-cms-with-laravel/access-the-course-files?u=76281980&t=31)** To open it, extract the contents of the zip file and open the HTML files on your browser.
+> **[0:31](https://www.linkedin.com/learning/winter-cms-with-laravel/access-the-course-files?u=76281980&t=31)** To open it, extract the contents of the zip file and open the [[HTML]] files on your browser.
 >
 > **[0:38](https://www.linkedin.com/learning/winter-cms-with-laravel/access-the-course-files?u=76281980&t=38)** To set up the CMS website files on your computer you need to extract the Zip files on a directory in your web root.
 >
-> **[0:46](https://www.linkedin.com/learning/winter-cms-with-laravel/access-the-course-files?u=76281980&t=46)** Set up a database, import the database file, and define the database credentials on the config/database.php file.
+> **[0:46](https://www.linkedin.com/learning/winter-cms-with-laravel/access-the-course-files?u=76281980&t=46)** Set up a database, import the database file, and define the database credentials on the config/database.[[PHP]] file.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[HTML]] (1), cms (1), web (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[PHP]] (1)
 > **Exercise Files:** exercise files (2), download the (1), starter files (1), zip file (1)
 > **Env Vars:** html (1), cms (1)
 > **Prerequisites:** set up (2)
@@ -181,18 +176,17 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Best Practices:** recommended (1)
 
-#### Local development configurations
-> [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/local-development-configurations?u=76281980)
+#### [Local development configurations](https://www.linkedin.com/learning/winter-cms-with-laravel/local-development-configurations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/winter-cms-with-laravel/local-development-configurations?u=76281980&t=0)** - [Instructor] For the development of your project you will need to have a PHP server running on your local machine since Winter CMS runs in PHP.
+> **[0:00](https://www.linkedin.com/learning/winter-cms-with-laravel/local-development-configurations?u=76281980&t=0)** - [Instructor] For the development of your project you will need to have a [[PHP]] server running on your local machine since Winter CMS runs in PHP.
 >
 > **[0:09](https://www.linkedin.com/learning/winter-cms-with-laravel/local-development-configurations?u=76281980&t=9)** The software that I use to do this in my PC is called Laragon and you can freely download it in [laragon.org](https://laragon.org).
 >
 > **[0:17](https://www.linkedin.com/learning/winter-cms-with-laravel/local-development-configurations?u=76281980&t=17)** It comes with PHP in database server we need to run winter.
 >
-> **[0:22](https://www.linkedin.com/learning/winter-cms-with-laravel/local-development-configurations?u=76281980&t=22)** You can also go with XAMPP with versions for windows micro X, and Linux, as well as other PHP server solutions.
+> **[0:22](https://www.linkedin.com/learning/winter-cms-with-laravel/local-development-configurations?u=76281980&t=22)** You can also go with XAMPP with versions for [[Windows]] micro X, and [[Linux]], as well as other PHP server solutions.
 >
 > **[0:30](https://www.linkedin.com/learning/winter-cms-with-laravel/local-development-configurations?u=76281980&t=30)** In the remainder of this video I'll give you a quick overview on how to install Laragon so you can skip the section if you won't be using it, let's go ahead and download the executable for the full version of Laragon.
 >
@@ -214,7 +208,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/winter-cms-with-laravel/local-development-configurations?u=76281980&t=88)** To check if the server is running, you can press the web button.
 >
-> **[1:32](https://www.linkedin.com/learning/winter-cms-with-laravel/local-development-configurations?u=76281980&t=92)** This will open a browser window, just like the one you are seeing on the video as a database IDE Laragon comes with Heidi SQL.
+> **[1:32](https://www.linkedin.com/learning/winter-cms-with-laravel/local-development-configurations?u=76281980&t=92)** This will open a browser window, just like the one you are seeing on the video as a database IDE Laragon comes with Heidi [[SQL]].
 >
 > **[1:43](https://www.linkedin.com/learning/winter-cms-with-laravel/local-development-configurations?u=76281980&t=103)** For this course, though, we'll be using phpmyadmin.
 >
@@ -248,7 +242,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), database (3), cms (1), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[Windows]] (1), [[Linux]] (1), [[SQL]] (1)
 > **Env Vars:** php (4), url (2), cms (1), xampp (1), ide (1)
 > **Prerequisites:** install (6)
 > **CLI Commands:** php (4), make (1)
@@ -262,14 +256,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Winter CMS overview and installation
-> [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-cms-overview-and-installation?u=76281980)
+#### [Winter CMS overview and installation](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-cms-overview-and-installation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-cms-overview-and-installation?u=76281980&t=0)** - [Narrator] Let's start with an overview of winter CMS.
 >
-> **[0:04](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-cms-overview-and-installation?u=76281980&t=4)** Winter is a content management system that allows you to develop websites that are managed by an admin section.
+> **[0:04](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-cms-overview-and-installation?u=76281980&t=4)** Winter is a [[Content Management]] system that allows you to develop websites that are managed by an admin section.
 >
 > **[0:11](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-cms-overview-and-installation?u=76281980&t=11)** This interns allows you to focus on the development of set websites and forgo to development of commonly requested features like logins, permissions, and content editing.
 >
@@ -303,7 +296,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-cms-overview-and-installation?u=76281980&t=140)** Remember, these credentials are not safe for use in production.
 >
-> **[2:28](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-cms-overview-and-installation?u=76281980&t=148)** Let's click on the databases button and create a new database.
+> **[2:28](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-cms-overview-and-installation?u=76281980&t=148)** Let's click on the [[Databases]] button and create a new database.
 >
 > **[2:33](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-cms-overview-and-installation?u=76281980&t=153)** We simply need to write the database name.
 >
@@ -323,7 +316,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-cms-overview-and-installation?u=76281980&t=192)** And we should see the files from the winter directory in our default browser.
 >
-> **[3:17](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-cms-overview-and-installation?u=76281980&t=197)** To install, click the install.HTML link.
+> **[3:17](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-cms-overview-and-installation?u=76281980&t=197)** To install, click the install.[[HTML]] link.
 >
 > **[3:23](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-cms-overview-and-installation?u=76281980&t=203)** We should now begin the compatibility checks.
 >
@@ -359,7 +352,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), cms (6), next (4), web (2), [[Content Management]] (1)
+> **Frameworks & Libraries:** [[Content Management]] (1), [[Databases]] (1), [[HTML]] (1)
 > **Env Vars:** cms (6), html (1), url (1)
 > **Prerequisites:** install (5), set up (1)
 > **CLI Commands:** find (3), make (1)
@@ -368,8 +361,7 @@ created: 2026-05-02
 > **Exercise Files:** zip file (2)
 > **File Paths:** install.html (1)
 
-#### Admin section overview: Dashboard, media, and settings pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/admin-section-overview-dashboard-media-and-settings-pages?u=76281980)
+#### [Admin section overview: Dashboard, media, and settings pages](https://www.linkedin.com/learning/winter-cms-with-laravel/admin-section-overview-dashboard-media-and-settings-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -391,13 +383,13 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/winter-cms-with-laravel/admin-section-overview-dashboard-media-and-settings-pages?u=76281980&t=93)** I do want to add that many plugins also make their settings available through the Settings page, so this list might have more items depending on the plugins you have installed.
 >
-> **[1:44](https://www.linkedin.com/learning/winter-cms-with-laravel/admin-section-overview-dashboard-media-and-settings-pages?u=76281980&t=104)** For example, the Google Analytics plugin we'll be installing later in the course has its configurations accessible through this Settings page.
+> **[1:44](https://www.linkedin.com/learning/winter-cms-with-laravel/admin-section-overview-dashboard-media-and-settings-pages?u=76281980&t=104)** For example, the [[Google]] Analytics plugin we'll be installing later in the course has its configurations accessible through this Settings page.
 >
 > **[1:54](https://www.linkedin.com/learning/winter-cms-with-laravel/admin-section-overview-dashboard-media-and-settings-pages?u=76281980&t=114)** This is now the perfect time for you to take your time exploring the pages we just went over and tinker with the settings we just saw.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cms (1), next (1), [[Google]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Cross-References:** in the next (1), later in (1)
 > **Prerequisites:** install (2)
 > **CLI Commands:** make (1)
@@ -405,8 +397,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### The CMS page
-> [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/the-cms-page?u=76281980)
+#### [The CMS page](https://www.linkedin.com/learning/winter-cms-with-laravel/the-cms-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -440,7 +431,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/winter-cms-with-laravel/the-cms-page?u=76281980&t=100)** In the markup tab, we place the tweak markup template code for our page.
 >
-> **[1:45](https://www.linkedin.com/learning/winter-cms-with-laravel/the-cms-page?u=76281980&t=105)** The code tab allows us to run PHP code in our template.
+> **[1:45](https://www.linkedin.com/learning/winter-cms-with-laravel/the-cms-page?u=76281980&t=105)** The code tab allows us to run [[PHP]] code in our template.
 >
 > **[1:50](https://www.linkedin.com/learning/winter-cms-with-laravel/the-cms-page?u=76281980&t=110)** As it executes every time before the template is rendered, it might be helpful if we need to work on variables, get records, or perform calculations for example.
 >
@@ -456,7 +447,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/winter-cms-with-laravel/the-cms-page?u=76281980&t=165)** There our pages will follow and we can have multiple layouts on our website.
 >
-> **[2:52](https://www.linkedin.com/learning/winter-cms-with-laravel/the-cms-page?u=76281980&t=172)** The content tab is where we define HTML or text that can be edited separately from the page or layout.
+> **[2:52](https://www.linkedin.com/learning/winter-cms-with-laravel/the-cms-page?u=76281980&t=172)** The content tab is where we define [[HTML]] or text that can be edited separately from the page or layout.
 >
 > **[3:01](https://www.linkedin.com/learning/winter-cms-with-laravel/the-cms-page?u=76281980&t=181)** These are useful for clients to edit.
 >
@@ -464,7 +455,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/winter-cms-with-laravel/the-cms-page?u=76281980&t=192)** We can also define placeholders in the section.
 >
-> **[3:15](https://www.linkedin.com/learning/winter-cms-with-laravel/the-cms-page?u=76281980&t=195)** Placeholders are sometimes used when we need a page to insert specific links to style sheets or JavaScript files into a layout.
+> **[3:15](https://www.linkedin.com/learning/winter-cms-with-laravel/the-cms-page?u=76281980&t=195)** Placeholders are sometimes used when we need a page to insert specific links to style sheets or [[JavaScript]] files into a layout.
 >
 > **[3:24](https://www.linkedin.com/learning/winter-cms-with-laravel/the-cms-page?u=76281980&t=204)** So we don't have to insert those files in all pages, thus usually improving page loading speed.
 >
@@ -488,7 +479,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/winter-cms-with-laravel/the-cms-page?u=76281980&t=269)** Each component gives you extra functionalities for the website.
 >
-> **[4:33](https://www.linkedin.com/learning/winter-cms-with-laravel/the-cms-page?u=76281980&t=273)** They can output HTML, handle ajax requests, forms, or inject variables and responses.
+> **[4:33](https://www.linkedin.com/learning/winter-cms-with-laravel/the-cms-page?u=76281980&t=273)** They can output HTML, handle [[AJAX]] requests, [[Forms]], or inject variables and responses.
 >
 > **[4:41](https://www.linkedin.com/learning/winter-cms-with-laravel/the-cms-page?u=76281980&t=281)** Think of components as configurable building elements that can be attached to your pages, partials or layouts.
 >
@@ -496,7 +487,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), [[JavaScript]] (2), cms (1), [[PHP]] (1), product (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[JavaScript]] (2), [[PHP]] (1), [[AJAX]] (1), [[Forms]] (1)
 > **Env Vars:** url (2), html (2), cms (1), php (1), cmh (1)
 > **Exercise Files:** template (5)
 > **CLI Commands:** php (1), make (1)
@@ -509,8 +500,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring the default theme and creating your own
-> [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/exploring-the-default-theme-and-creating-your-own?u=76281980)
+#### [Exploring the default theme and creating your own](https://www.linkedin.com/learning/winter-cms-with-laravel/exploring-the-default-theme-and-creating-your-own?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -528,7 +518,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/winter-cms-with-laravel/exploring-the-default-theme-and-creating-your-own?u=76281980&t=37)** This is to be used with the static page's plugin, which we won't be covering for this course.
 >
-> **[0:44](https://www.linkedin.com/learning/winter-cms-with-laravel/exploring-the-default-theme-and-creating-your-own?u=76281980&t=44)** The composer.json file contains themes informations that are important when publishing your theme for other users to install, discover infos, from theme name, description, author, required packages and more.
+> **[0:44](https://www.linkedin.com/learning/winter-cms-with-laravel/exploring-the-default-theme-and-creating-your-own?u=76281980&t=44)** The composer.[[JSON]] file contains themes informations that are important when publishing your theme for other users to install, discover infos, from theme name, description, author, required packages and more.
 >
 > **[1:01](https://www.linkedin.com/learning/winter-cms-with-laravel/exploring-the-default-theme-and-creating-your-own?u=76281980&t=61)** In the README.md file, you can leave details and instructions for the users of your team especially if you are going to publish it.
 >
@@ -584,7 +574,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cms (2), hit (2), [[JSON]] (1), front-end (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **File Paths:** composer.json (1), readme.md (1), theme.yaml (1)
 > **Env Vars:** cms (2), readme (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -593,8 +583,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Prerequisites:** install (1), set up (1)
 
-#### Moving your website to Winter
-> [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/moving-your-website-to-winter?u=76281980)
+#### [Moving your website to Winter](https://www.linkedin.com/learning/winter-cms-with-laravel/moving-your-website-to-winter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -604,7 +593,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/winter-cms-with-laravel/moving-your-website-to-winter?u=76281980&t=9)** Let's start with importing the website as is and then adapt it to use the CMS features.
 >
-> **[0:17](https://www.linkedin.com/learning/winter-cms-with-laravel/moving-your-website-to-winter?u=76281980&t=17)** Let's copy all the HTML from the NX page and paste it in our winter homepage.
+> **[0:17](https://www.linkedin.com/learning/winter-cms-with-laravel/moving-your-website-to-winter?u=76281980&t=17)** Let's copy all the [[HTML]] from the NX page and paste it in our winter homepage.
 >
 > **[0:24](https://www.linkedin.com/learning/winter-cms-with-laravel/moving-your-website-to-winter?u=76281980&t=24)** Open the original index page in a code editor and copy its contents.
 >
@@ -640,7 +629,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/winter-cms-with-laravel/moving-your-website-to-winter?u=76281980&t=159)** Starting to look good now.
 >
-> **[2:42](https://www.linkedin.com/learning/winter-cms-with-laravel/moving-your-website-to-winter?u=76281980&t=162)** We just need to do the same for the JavaScript files.
+> **[2:42](https://www.linkedin.com/learning/winter-cms-with-laravel/moving-your-website-to-winter?u=76281980&t=162)** We just need to do the same for the [[JavaScript]] files.
 >
 > **[2:45](https://www.linkedin.com/learning/winter-cms-with-laravel/moving-your-website-to-winter?u=76281980&t=165)** If you take a look at line 12, we are importing the prefixfree.min.js file.
 >
@@ -698,7 +687,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (8), [[HTML]] (5), [[JavaScript]] (4), cms (3), teams (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[JavaScript]] (4)
 > **Env Vars:** html (5), css (5), cms (3), url (2)
 > **UI Navigation:** open the (3), go to (2), select the (1), navigate to (1)
 > **File Paths:** css/style.css (1), styles.css (1), home.html (1), prefixfree.min.js (1), myscript.js (1)
@@ -707,8 +696,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
 
-#### Extracting the layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/extracting-the-layout?u=76281980)
+#### [Extracting the layout](https://www.linkedin.com/learning/winter-cms-with-laravel/extracting-the-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -716,7 +704,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/winter-cms-with-laravel/extracting-the-layout?u=76281980&t=6)** A menu, followed by content and a footer.
 >
-> **[0:10](https://www.linkedin.com/learning/winter-cms-with-laravel/extracting-the-layout?u=76281980&t=10)** And by looking at HTML in both pages, on the demo website, we can see that there is code application.
+> **[0:10](https://www.linkedin.com/learning/winter-cms-with-laravel/extracting-the-layout?u=76281980&t=10)** And by looking at [[HTML]] in both pages, on the demo website, we can see that there is code application.
 >
 > **[0:19](https://www.linkedin.com/learning/winter-cms-with-laravel/extracting-the-layout?u=76281980&t=19)** As you know, we should avoid this repetition.
 >
@@ -764,7 +752,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), cms (2), application (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **Env Vars:** html (4), cms (2)
 > **Code Identifiers:** onecolumn (2)
 > **CLI Commands:** make (1)
@@ -772,8 +760,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Home and error pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/home-and-error-pages?u=76281980)
+#### [Home and error pages](https://www.linkedin.com/learning/winter-cms-with-laravel/home-and-error-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -807,7 +794,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/winter-cms-with-laravel/home-and-error-pages?u=76281980&t=120)** Next, let's take a quick introduction on a how to customize error pages.
 >
-> **[2:07](https://www.linkedin.com/learning/winter-cms-with-laravel/home-and-error-pages?u=76281980&t=127)** This makes for a better user experience as they can see the error while being kept in the same look and feel of our website.
+> **[2:07](https://www.linkedin.com/learning/winter-cms-with-laravel/home-and-error-pages?u=76281980&t=127)** This makes for a better [[User Experience (UX)|user experience]] as they can see the error while being kept in the same look and feel of our website.
 >
 > **[2:16](https://www.linkedin.com/learning/winter-cms-with-laravel/home-and-error-pages?u=76281980&t=136)** To create a custom error page, we simply need to create a new page with a error code.
 >
@@ -823,7 +810,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/winter-cms-with-laravel/home-and-error-pages?u=76281980&t=169)** If you go ahead, save and refresh the page, it's looking a bit better.
 >
-> **[2:56](https://www.linkedin.com/learning/winter-cms-with-laravel/home-and-error-pages?u=76281980&t=176)** Now, we can further improve this by going to our demo website and use the page content for the error.html page.
+> **[2:56](https://www.linkedin.com/learning/winter-cms-with-laravel/home-and-error-pages?u=76281980&t=176)** Now, we can further improve this by going to our demo website and use the page content for the error.[[HTML]] page.
 >
 > **[3:07](https://www.linkedin.com/learning/winter-cms-with-laravel/home-and-error-pages?u=76281980&t=187)** Go ahead and copy lines 49 to 65 and replace the markup in the CMS error page.
 >
@@ -831,15 +818,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cms (2), seo (1), next (1), [[User Experience (UX)|User experience]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[HTML]] (1)
 > **Env Vars:** cms (2), seo (1)
 > **File Paths:** error.html (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Turning the main sections modular with partials
-> [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/turning-the-main-sections-modular-with-partials?u=76281980)
+#### [Turning the main sections modular with partials](https://www.linkedin.com/learning/winter-cms-with-laravel/turning-the-main-sections-modular-with-partials?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -887,7 +873,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/winter-cms-with-laravel/turning-the-main-sections-modular-with-partials?u=76281980&t=122)** We'll do this in two stages by sending a variable in the partial to replace the image, name and text.
 >
-> **[2:12](https://www.linkedin.com/learning/winter-cms-with-laravel/turning-the-main-sections-modular-with-partials?u=76281980&t=132)** We'll also take that variable to fetch the content for the staff member, which we'll cover in the next video.
+> **[2:12](https://www.linkedin.com/learning/winter-cms-with-laravel/turning-the-main-sections-modular-with-partials?u=76281980&t=132)** We'll also take that variable to [[Fetch]] the content for the staff member, which we'll cover in the next video.
 >
 > **[2:20](https://www.linkedin.com/learning/winter-cms-with-laravel/turning-the-main-sections-modular-with-partials?u=76281980&t=140)** First off, let's take a look at the name of the image file used for the staff on line four.
 >
@@ -971,15 +957,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Fetch]] (2), feature (1), cms (1)
+> **Frameworks & Libraries:** [[Fetch]] (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (2)
 > **Env Vars:** cms (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extracting text into content
-> [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/extracting-text-into-content?u=76281980)
+#### [Extracting text into content](https://www.linkedin.com/learning/winter-cms-with-laravel/extracting-text-into-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -993,7 +978,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/winter-cms-with-laravel/extracting-text-into-content?u=76281980&t=23)** they need to head to CMS, content, and choose the file to edit.
 >
-> **[0:28](https://www.linkedin.com/learning/winter-cms-with-laravel/extracting-text-into-content?u=76281980&t=28)** Content files can be in HTML markup or simple text.
+> **[0:28](https://www.linkedin.com/learning/winter-cms-with-laravel/extracting-text-into-content?u=76281980&t=28)** Content files can be in [[HTML]] markup or simple text.
 >
 > **[0:33](https://www.linkedin.com/learning/winter-cms-with-laravel/extracting-text-into-content?u=76281980&t=33)** For this example, we'll go with simple text.
 >
@@ -1051,7 +1036,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cms (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** txt (3), cms (2), html (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -1064,8 +1049,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using a plug-in to set the navbar
-> [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/using-a-plug-in-to-set-the-navbar?u=76281980)
+#### [Using a plug-in to set the navbar](https://www.linkedin.com/learning/winter-cms-with-laravel/using-a-plug-in-to-set-the-navbar?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1163,7 +1147,7 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/winter-cms-with-laravel/using-a-plug-in-to-set-the-navbar?u=76281980&t=317)** To fix this, I've made a script that ignores Bootstrap Scrollspy and adds this functionality.
 >
-> **[5:25](https://www.linkedin.com/learning/winter-cms-with-laravel/using-a-plug-in-to-set-the-navbar?u=76281980&t=325)** You can find the script in the exercise files for this video as a standalone file and a complete JavaScript file in the website zip, also in the exercise files.
+> **[5:25](https://www.linkedin.com/learning/winter-cms-with-laravel/using-a-plug-in-to-set-the-navbar?u=76281980&t=325)** You can find the script in the exercise files for this video as a standalone file and a complete [[JavaScript]] file in the website zip, also in the exercise files.
 >
 > **[5:36](https://www.linkedin.com/learning/winter-cms-with-laravel/using-a-plug-in-to-set-the-navbar?u=76281980&t=336)** To quickly fix this, let's go back to our admin and then you should go to the JS folder and open the myscript.js file.
 >
@@ -1181,7 +1165,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cms (3), [[Search]] (1), hit (1), next (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **UI Navigation:** go to (4), click on (4), scroll down (1), open the (1)
 > **Env Vars:** cms (3), url (1)
 > **Cross-References:** go back to (2), we discussed (1)
@@ -1190,14 +1174,13 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **File Paths:** myscript.js (1)
 
-#### Winter asset compilation
-> [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-asset-compilation?u=76281980)
+#### [Winter asset compilation](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-asset-compilation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-asset-compilation?u=76281980&t=0)** - [Instructor] One way to improve your website performance and search engine optimization tools core is to compile your assets.
+> **[0:00](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-asset-compilation?u=76281980&t=0)** - [Instructor] One way to improve your website performance and [[Search Engine Optimization (SEO)|search engine optimization]] tools core is to compile your assets.
 >
-> **[0:08](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-asset-compilation?u=76281980&t=8)** This usually means joining all your CSS files into one and doing the same for the JavaScript files while also minifying them.
+> **[0:08](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-asset-compilation?u=76281980&t=8)** This usually means joining all your CSS files into one and doing the same for the [[JavaScript]] files while also minifying them.
 >
 > **[0:17](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-asset-compilation?u=76281980&t=17)** When files are minified, the compiled files size is smaller.
 >
@@ -1207,7 +1190,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-asset-compilation?u=76281980&t=47)** For minification while combining the files in Winter.
 >
-> **[0:51](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-asset-compilation?u=76281980&t=51)** This happens when you set the enable asset minify option in the config/cms.php file, or when debug option is set to true in the config/app.CSS file.
+> **[0:51](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-asset-compilation?u=76281980&t=51)** This happens when you set the enable asset minify option in the config/cms.[[PHP]] file, or when debug option is set to true in the config/app.CSS file.
 >
 > **[1:08](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-asset-compilation?u=76281980&t=68)** The debug option should be set to true when launching the website for production.
 >
@@ -1259,15 +1242,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (9), cms (3), [[JavaScript]] (2), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[PHP]] (1)
 > **Env Vars:** css (9), cms (2), ide (1), url (1)
 > **File Paths:** config/cms.php (1), config/app.css (1), bootstrap.main.css (1), style.css (1)
 > **CLI Commands:** php (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Winter theme variables and asset customization
-> [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-theme-variables-and-asset-customization?u=76281980)
+#### [Winter theme variables and asset customization](https://www.linkedin.com/learning/winter-cms-with-laravel/winter-theme-variables-and-asset-customization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1351,7 +1333,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), cms (1), css (1), front-end (1)
 > **Code Identifiers:** show_staff_section (3), menu_background (1), menu_background_color (1), our_staff_title (1)
 > **UI Navigation:** go to (3), click on (1)
 > **Env Vars:** ide (1), cms (1), css (1)
@@ -1359,9 +1340,9 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Best Practices:** don't forget (1)
 > **Warnings:** be aware (1)
+> **Speakers:** - [instructor] (1)
 
-#### Challenge: Customizing the 404 page
-> [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/challenge-customizing-the-404-page?u=76281980)
+#### [Challenge: Customizing the 404 page](https://www.linkedin.com/learning/winter-cms-with-laravel/challenge-customizing-the-404-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1381,8 +1362,7 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Customizing the 404 page
-> [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/solution-customizing-the-404-page?u=76281980)
+#### [Solution: Customizing the 404 page](https://www.linkedin.com/learning/winter-cms-with-laravel/solution-customizing-the-404-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1406,7 +1386,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/winter-cms-with-laravel/solution-customizing-the-404-page?u=76281980&t=45)** So for the 4 0 4 page markup we need to add everything in between those texts.
 >
-> **[0:51](https://www.linkedin.com/learning/winter-cms-with-laravel/solution-customizing-the-404-page?u=76281980&t=51)** Open the 404 HTML file from the demo website on your code editor and let's copy the markup in lines 49 to 70 and paste them in the 404 page.
+> **[0:51](https://www.linkedin.com/learning/winter-cms-with-laravel/solution-customizing-the-404-page?u=76281980&t=51)** Open the 404 [[HTML]] file from the demo website on your code editor and let's copy the markup in lines 49 to 70 and paste them in the 404 page.
 >
 > **[1:08](https://www.linkedin.com/learning/winter-cms-with-laravel/solution-customizing-the-404-page?u=76281980&t=68)** Let's see how it looks clicking the preview button and that's it.
 >
@@ -1425,8 +1405,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Magic Forms plug-in
-> [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/magic-forms-plug-in?u=76281980)
+#### [Magic Forms plug-in](https://www.linkedin.com/learning/winter-cms-with-laravel/magic-forms-plug-in?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1434,7 +1413,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/winter-cms-with-laravel/magic-forms-plug-in?u=76281980&t=5)** It is lacking the code to treat the form submission.
 >
-> **[0:09](https://www.linkedin.com/learning/winter-cms-with-laravel/magic-forms-plug-in?u=76281980&t=9)** To do this with WinterCMS we can use a plugin by Martin M. called Magic Forms.
+> **[0:09](https://www.linkedin.com/learning/winter-cms-with-laravel/magic-forms-plug-in?u=76281980&t=9)** To do this with WinterCMS we can use a plugin by Martin M. called Magic [[Forms]].
 >
 > **[0:17](https://www.linkedin.com/learning/winter-cms-with-laravel/magic-forms-plug-in?u=76281980&t=17)** Let's install it in the admin sections, Updates and Plugins.
 >
@@ -1452,7 +1431,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/winter-cms-with-laravel/magic-forms-plug-in?u=76281980&t=68)** Let's add the Magic Forms components to it.
 >
-> **[1:13](https://www.linkedin.com/learning/winter-cms-with-laravel/magic-forms-plug-in?u=76281980&t=73)** We'll go with a Generic AJAX Form and call that component on line 150, right after the dev with the columns classes.
+> **[1:13](https://www.linkedin.com/learning/winter-cms-with-laravel/magic-forms-plug-in?u=76281980&t=73)** We'll go with a Generic [[AJAX]] Form and call that component on line 150, right after the dev with the columns classes.
 >
 > **[1:26](https://www.linkedin.com/learning/winter-cms-with-laravel/magic-forms-plug-in?u=76281980&t=86)** Use the component tag and the generic form is the components alias.
 >
@@ -1468,7 +1447,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/winter-cms-with-laravel/magic-forms-plug-in?u=76281980&t=117)** Let's make it look the same.
 >
-> **[2:01](https://www.linkedin.com/learning/winter-cms-with-laravel/magic-forms-plug-in?u=76281980&t=121)** We'll need to make some changes to the form HTML.
+> **[2:01](https://www.linkedin.com/learning/winter-cms-with-laravel/magic-forms-plug-in?u=76281980&t=121)** We'll need to make some changes to the form [[HTML]].
 >
 > **[2:04](https://www.linkedin.com/learning/winter-cms-with-laravel/magic-forms-plug-in?u=76281980&t=124)** For that, let's override the component view by inserting it in our page.
 >
@@ -1556,7 +1535,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (6), [[Forms]] (4), cms (2), [[AJAX]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Forms]] (4), [[AJAX]] (1), [[HTML]] (1)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** recaptcha (5)
 > **Env Vars:** cms (2), gdpr (1), ajax (1), html (1)
@@ -1565,8 +1544,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Clear cache widget
-> [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/clear-cache-widget?u=76281980)
+#### [Clear cache widget](https://www.linkedin.com/learning/winter-cms-with-laravel/clear-cache-widget?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1592,20 +1570,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1)
 > **UI Navigation:** go to (1), select the (1), click on (1)
 > **Prerequisites:** install (3)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Google Analytics plug-in
-> [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/google-analytics-plug-in?u=76281980)
+#### [Google Analytics plug-in](https://www.linkedin.com/learning/winter-cms-with-laravel/google-analytics-plug-in?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/winter-cms-with-laravel/google-analytics-plug-in?u=76281980&t=1)** - [Instructor] Quite often, you'll find you need to install some type of analytics to track website users' statistics like page views.
+> **[0:01](https://www.linkedin.com/learning/winter-cms-with-laravel/google-analytics-plug-in?u=76281980&t=1)** - [Instructor] Quite often, you'll find you need to install some type of analytics to track website users' [[Statistics]] like page views.
 >
-> **[0:10](https://www.linkedin.com/learning/winter-cms-with-laravel/google-analytics-plug-in?u=76281980&t=10)** The most common tool for this is Google analytics.
+> **[0:10](https://www.linkedin.com/learning/winter-cms-with-laravel/google-analytics-plug-in?u=76281980&t=10)** The most common tool for this is [[Google]] analytics.
 >
 > **[0:13](https://www.linkedin.com/learning/winter-cms-with-laravel/google-analytics-plug-in?u=76281980&t=13)** Winter has many plugins to deal with Google analytics.
 >
@@ -1623,9 +1599,9 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/winter-cms-with-laravel/google-analytics-plug-in?u=76281980&t=68)** For this video, as we'll be focusing on plugin configuration, you may need a guide on how to activate the Google analytics API key and to get the profile ID.
 >
-> **[1:20](https://www.linkedin.com/learning/winter-cms-with-laravel/google-analytics-plug-in?u=76281980&t=80)** You can refer to the documentation of the plugin in the GitHub repository, as it provides you with step by step instructions.
+> **[1:20](https://www.linkedin.com/learning/winter-cms-with-laravel/google-analytics-plug-in?u=76281980&t=80)** You can refer to the documentation of the plugin in the [[GitHub]] repository, as it provides you with step by step instructions.
 >
-> **[1:29](https://www.linkedin.com/learning/winter-cms-with-laravel/google-analytics-plug-in?u=76281980&t=89)** After setting up the API and Google analytics, you'll need the account ID, the JSON file with the API key and the tracking ID.
+> **[1:29](https://www.linkedin.com/learning/winter-cms-with-laravel/google-analytics-plug-in?u=76281980&t=89)** After setting up the API and Google analytics, you'll need the account ID, the [[JSON]] file with the API key and the tracking ID.
 >
 > **[1:39](https://www.linkedin.com/learning/winter-cms-with-laravel/google-analytics-plug-in?u=76281980&t=99)** Let's go on with the configuration.
 >
@@ -1669,7 +1645,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (17), [[Google]] (14), api (5), [[Statistics]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Google]] (14), [[Statistics]] (1), [[GitHub]] (1), [[JSON]] (1)
 > **Env Vars:** api (5), json (1), ssl (1), cms (1)
 > **UI Navigation:** go to (3), click on (2)
 > **Prerequisites:** install (2), configure (1), you'll need (1)
@@ -1678,8 +1654,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Tools:** github (1)
 
-#### Prepping your website for production
-> [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/prepping-your-website-for-production?u=76281980)
+#### [Prepping your website for production](https://www.linkedin.com/learning/winter-cms-with-laravel/prepping-your-website-for-production?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1697,9 +1672,9 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/winter-cms-with-laravel/prepping-your-website-for-production?u=76281980&t=34)** While you are doing this, go ahead and export your database and migrate it to the server as well.
 >
-> **[0:42](https://www.linkedin.com/learning/winter-cms-with-laravel/prepping-your-website-for-production?u=76281980&t=42)** You can set server database configurations on the config/database.php file.
+> **[0:42](https://www.linkedin.com/learning/winter-cms-with-laravel/prepping-your-website-for-production?u=76281980&t=42)** You can set server database configurations on the config/database.[[PHP]] file.
 >
-> **[0:50](https://www.linkedin.com/learning/winter-cms-with-laravel/prepping-your-website-for-production?u=76281980&t=50)** You can also use continuous integration, continuous deployment to deploy your website.
+> **[0:50](https://www.linkedin.com/learning/winter-cms-with-laravel/prepping-your-website-for-production?u=76281980&t=50)** You can also use [[Continuous Integration (CI)|continuous integration]], continuous deployment to deploy your website.
 >
 > **[0:56](https://www.linkedin.com/learning/winter-cms-with-laravel/prepping-your-website-for-production?u=76281980&t=56)** I recommend you check out the guide written by Luke Towers on how to do that.
 >
@@ -1713,7 +1688,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), [[PHP]] (3), next (2), cms (2), [[Continuous Integration (CI)|Continuous integration]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **CLI Commands:** php (3), make (1)
 > **File Paths:** config/database.php (1), config/app.php (1), config/cms.php (1)
 > **Code Identifiers:** restrictbasedir (2)
@@ -1726,8 +1701,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Further your knowledge and connect to the community
-> [LinkedIn Learning](https://www.linkedin.com/learning/winter-cms-with-laravel/further-your-knowledge-and-connect-to-the-community?u=76281980)
+#### [Further your knowledge and connect to the community](https://www.linkedin.com/learning/winter-cms-with-laravel/further-your-knowledge-and-connect-to-the-community?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1751,13 +1725,13 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/winter-cms-with-laravel/further-your-knowledge-and-connect-to-the-community?u=76281980&t=59)** That's all for now.
 >
-> **[1:00](https://www.linkedin.com/learning/winter-cms-with-laravel/further-your-knowledge-and-connect-to-the-community?u=76281980&t=60)** I invite you to connect with me on LinkedIn or Twitter.
+> **[1:00](https://www.linkedin.com/learning/winter-cms-with-laravel/further-your-knowledge-and-connect-to-the-community?u=76281980&t=60)** I invite you to connect with me on [[LinkedIn]] or Twitter.
 >
 > **[1:04](https://www.linkedin.com/learning/winter-cms-with-laravel/further-your-knowledge-and-connect-to-the-community?u=76281980&t=64)** I hope that you have fun coding, and keep growing on your journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cms (5), next (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Env Vars:** cms (5)
 > **CLI Commands:** find (2)
 > **Tools:** discord (1)

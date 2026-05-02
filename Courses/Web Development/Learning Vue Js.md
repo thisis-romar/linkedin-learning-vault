@@ -78,20 +78,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Is Vue for you?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/is-vue-for-you?u=76281980)
+#### [Is Vue for you?](https://www.linkedin.com/learning/learning-vue-js-8602681/is-vue-for-you?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-vue-js-8602681/is-vue-for-you?u=76281980&t=0)** - [Michael] Welcome to Learning Vue.js.
+> **[0:00](https://www.linkedin.com/learning/learning-vue-js-8602681/is-vue-for-you?u=76281980&t=0)** - [Michael] Welcome to Learning [[Vue.js]].
 >
 > **[0:02](https://www.linkedin.com/learning/learning-vue-js-8602681/is-vue-for-you?u=76281980&t=2)** I'm Mike Sullivan and if you're looking to become a more efficient and versatile front end developer, then you're in the right place.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-vue-js-8602681/is-vue-for-you?u=76281980&t=8)** In this course, I'll talk about the reasons that we use frameworks like Vue.js in the first place and how to quickly get up and running with nothing more than a browser and a text editor.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-vue-js-8602681/is-vue-for-you?u=76281980&t=17)** We'll take a detailed look at how to manage form controls and dynamic attributes of HTML elements.
+> **[0:17](https://www.linkedin.com/learning/learning-vue-js-8602681/is-vue-for-you?u=76281980&t=17)** We'll take a detailed look at how to manage form controls and dynamic attributes of [[HTML]] elements.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-vue-js-8602681/is-vue-for-you?u=76281980&t=23)** You'll learn how to take advantage of Vue's powerful reactivity system that allows us to keep our UI in sync with our data model and how to use Vue's flexible computed properties that are cached for optimal performance.
+> **[0:23](https://www.linkedin.com/learning/learning-vue-js-8602681/is-vue-for-you?u=76281980&t=23)** You'll learn how to take advantage of [[Vue.js|Vue]]'s powerful reactivity system that allows us to keep our UI in sync with our data model and how to use Vue's flexible computed properties that are cached for optimal performance.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-vue-js-8602681/is-vue-for-you?u=76281980&t=35)** There are many different reasons that developers choose one framework over another or end up loving a particular framework.
 >
@@ -99,26 +98,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vue.js|Vue]] (3), [[Vue.js]] (2), [[HTML]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (3), [[Vue.js]] (2), [[HTML]] (1)
 > **File Paths:** vue.js (2)
 > **Env Vars:** html (1)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [michael] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-vue-js-8602681/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-vue-js-8602681/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most possible out of this course, you should already be comfortable working with basic HTML and CSS.
+> **[0:00](https://www.linkedin.com/learning/learning-vue-js-8602681/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most possible out of this course, you should already be comfortable working with basic [[HTML]] and CSS.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-vue-js-8602681/what-you-should-know?u=76281980&t=7)** You should also have some experience with JavaScript including ECMAScript2015 syntax or ECMAScript 6 as it was formerly known.
+> **[0:07](https://www.linkedin.com/learning/learning-vue-js-8602681/what-you-should-know?u=76281980&t=7)** You should also have some experience with [[JavaScript]] including ECMAScript2015 syntax or [[ECMAScript]] 6 as it was formerly known.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-vue-js-8602681/what-you-should-know?u=76281980&t=16)** Some familiarity with the command line, Node.JS, and the npm package manager will be helpful, but the overwhelming majority of videos involve only the use of a text editor and a browser.
+> **[0:16](https://www.linkedin.com/learning/learning-vue-js-8602681/what-you-should-know?u=76281980&t=16)** Some familiarity with the command line, [[Node.js]], and the [[npm]] package manager will be helpful, but the overwhelming majority of videos involve only the use of a text editor and a browser.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), css (1), [[JavaScript]] (1), [[ECMAScript]] (1), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[JavaScript]] (1), [[ECMAScript]] (1), [[Node.js]] (1), [[npm]] (1)
 > **CLI Commands:** node (1), npm (1)
 > **Env Vars:** html (1), css (1)
 > **File Paths:** node.js (1)
@@ -130,30 +128,29 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What problems does Vue.js solve?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/what-problems-does-vue-js-solve?u=76281980)
+#### [What problems does Vue.js solve?](https://www.linkedin.com/learning/learning-vue-js-8602681/what-problems-does-vue-js-solve?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-vue-js-8602681/what-problems-does-vue-js-solve?u=76281980&t=0)** - Before writing any code.
 >
-> **[0:02](https://www.linkedin.com/learning/learning-vue-js-8602681/what-problems-does-vue-js-solve?u=76281980&t=2)** I want to spend a few minutes talking about our motivation for using Vue.js and the problems that it aims to solve as a framework for JavaScript applications.
+> **[0:02](https://www.linkedin.com/learning/learning-vue-js-8602681/what-problems-does-vue-js-solve?u=76281980&t=2)** I want to spend a few minutes talking about our motivation for using [[Vue.js]] and the problems that it aims to solve as a framework for [[JavaScript]] applications.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-vue-js-8602681/what-problems-does-vue-js-solve?u=76281980&t=12)** In the days when libraries like jQuery were first widely used, or even earlier, it was common to write JavaScript code that looked like this.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-vue-js-8602681/what-problems-does-vue-js-solve?u=76281980&t=21)** The purpose of this function is to add an element to the Dom or document object model.
+> **[0:21](https://www.linkedin.com/learning/learning-vue-js-8602681/what-problems-does-vue-js-solve?u=76281980&t=21)** The purpose of this function is to add an element to the Dom or [[Document Object Model (DOM)|document object model]].
 >
 > **[0:26](https://www.linkedin.com/learning/learning-vue-js-8602681/what-problems-does-vue-js-solve?u=76281980&t=26)** Our in memory representation of the webpage.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-vue-js-8602681/what-problems-does-vue-js-solve?u=76281980&t=29)** In turn, updating the onscreen representation for the user.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-vue-js-8602681/what-problems-does-vue-js-solve?u=76281980&t=33)** But after the call to appendElement on the first line this function is almost entirely concerned with updating the rest of the UI to make sure everything stays in a consistent state.
+> **[0:33](https://www.linkedin.com/learning/learning-vue-js-8602681/what-problems-does-vue-js-solve?u=76281980&t=33)** But after the call to appendElement on the first line this function is almost entirely concerned with updating the [[Representational State Transfer (REST)|rest]] of the UI to make sure everything stays in a consistent state.
 >
 > **[0:46](https://www.linkedin.com/learning/learning-vue-js-8602681/what-problems-does-vue-js-solve?u=76281980&t=46)** While we could extract some of this logic to another reusable function, the point is that we need to explicitly do this additional work to keep the UI in sync, whenever we make a small change.
 >
 > **[0:58](https://www.linkedin.com/learning/learning-vue-js-8602681/what-problems-does-vue-js-solve?u=76281980&t=58)** And the more complex the UI becomes the more code it takes to manage all of that.
 >
-> **[1:04](https://www.linkedin.com/learning/learning-vue-js-8602681/what-problems-does-vue-js-solve?u=76281980&t=64)** Managing complexity is something I often think about when using Vue, the concept is self-explanatory but I probably first came across the term in Steve McConnell's classic book, Code Complete.
+> **[1:04](https://www.linkedin.com/learning/learning-vue-js-8602681/what-problems-does-vue-js-solve?u=76281980&t=64)** Managing complexity is something I often think about when using [[Vue.js|Vue]], the concept is self-explanatory but I probably first came across the term in Steve McConnell's classic book, Code Complete.
 >
 > **[1:16](https://www.linkedin.com/learning/learning-vue-js-8602681/what-problems-does-vue-js-solve?u=76281980&t=76)** He calls it Software's Primary Technical Imperative.
 >
@@ -189,7 +186,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vue.js]] (3), dom (3), [[Vue.js|Vue]] (3), application (3), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[Vue.js]] (3), [[Vue.js|Vue]] (3), [[JavaScript]] (2), [[Document Object Model (DOM)|Document object model]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** appendelement (2), jquery (1), makesureeverythingstaysinsyncfromnowon (1)
 > **File Paths:** vue.js (3)
 > **Prerequisites:** set up (2), required to (1)
@@ -198,12 +195,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Documentation:** mdn (1)
 
-#### Adding Vue.js to a project
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-vue-js-to-a-project?u=76281980)
+#### [Adding Vue.js to a project](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-vue-js-to-a-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-vue-js-to-a-project?u=76281980&t=0)** - [Instructor] Whether you're starting a new project or you have an existing project that you're considering using Vue for, getting set up is simple.
+> **[0:00](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-vue-js-to-a-project?u=76281980&t=0)** - [Instructor] Whether you're starting a new project or you have an existing project that you're considering using [[Vue.js|Vue]] for, getting set up is simple.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-vue-js-to-a-project?u=76281980&t=7)** At the time I'm recording this course, the Get Started button on the [vuejs.org](https://vuejs.org) homepage still points to the version 2 guide.
 >
@@ -211,13 +207,13 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-vue-js-to-a-project?u=76281980&t=26)** So, if I click this Installation button here I'm presented with several different ways to get set up.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-vue-js-to-a-project?u=76281980&t=32)** The first, Import from a CDN, really just means adding a script tag to an HTML page.
+> **[0:32](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-vue-js-to-a-project?u=76281980&t=32)** The first, Import from a CDN, really just means adding a script tag to an [[HTML]] page.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-vue-js-to-a-project?u=76281980&t=39)** And I could do that with the CDN URL, or I could download it and host the script locally.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-vue-js-to-a-project?u=76281980&t=46)** If you're familiar with the command line package manager, NPM then you probably know that most JavaScript libraries and frameworks that are still used today are available as downloadable packages that can be automatically installed with those tools.
+> **[0:46](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-vue-js-to-a-project?u=76281980&t=46)** If you're familiar with the command line package manager, [[npm]] then you probably know that most [[JavaScript]] libraries and frameworks that are still used today are available as downloadable packages that can be automatically installed with those tools.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-vue-js-to-a-project?u=76281980&t=62)** Vue CLI, or command line interface, is just a more sophisticated way of installing Vue with a package manager along with some other useful development tools and some skeleton code to help you get started.
+> **[1:02](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-vue-js-to-a-project?u=76281980&t=62)** Vue [[CLI]], or command line interface, is just a more sophisticated way of installing Vue with a package manager along with some other useful development tools and some skeleton code to help you get started.
 >
 > **[1:15](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-vue-js-to-a-project?u=76281980&t=75)** To keep things simple for now, we'll grab the URL from the CDN page, but instead of using this script tag I'm going to copy this URL and then use the URL of the specific version that that redirects to.
 >
@@ -227,7 +223,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-vue-js-to-a-project?u=76281980&t=106)** This will be the starting point for our example project, which will be a flashcard app.
 >
-> **[1:51](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-vue-js-to-a-project?u=76281980&t=111)** This page pulls in a style sheet and a data file, none of which is specific to vue.js.
+> **[1:51](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-vue-js-to-a-project?u=76281980&t=111)** This page pulls in a style sheet and a data file, none of which is specific to [[Vue.js]].
 >
 > **[2:00](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-vue-js-to-a-project?u=76281980&t=120)** The CSS just helps us see what's changing a little bit better as we build out the app and makes it a little prettier.
 >
@@ -243,7 +239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vue.js|Vue]] (4), data (4), [[JavaScript]] (2), [[HTML]] (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (4), [[JavaScript]] (2), [[HTML]] (1), [[npm]] (1), [[CLI]] (1)
 > **Env Vars:** url (4), cdn (3), html (1), npm (1), cli (1)
 > **Versions:** version 2 (1), version 3 (1), 3.0.7 (1)
 > **CLI Commands:** npm (1), find (1)
@@ -252,12 +248,11 @@ created: 2026-05-02
 > **File Paths:** vue.js (1)
 > **URLs:** [vuejs.org](https://vuejs.org) (1)
 
-#### Configuring dynamic elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-dynamic-elements?u=76281980)
+#### [Configuring dynamic elements](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-dynamic-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-dynamic-elements?u=76281980&t=0)** - [Instructor] In order to configure our Vue app so that it can manage part of our page, we'll add another script element down here making sure that it appears after the one that loads the Vue framework.
+> **[0:00](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-dynamic-elements?u=76281980&t=0)** - [Instructor] In order to configure our [[Vue.js|Vue]] app so that it can manage part of our page, we'll add another script element down here making sure that it appears after the one that loads the Vue framework.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-dynamic-elements?u=76281980&t=13)** Next I'm going to declare a new constant called FlashcardApp.
 >
@@ -271,7 +266,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-dynamic-elements?u=76281980&t=58)** The object that the data function returns will contain, for now, just a property called deckName, the name of our flashcard deck.
 >
-> **[1:08](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-dynamic-elements?u=76281980&t=68)** And this is going to be Vue.js Fundamentals.
+> **[1:08](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-dynamic-elements?u=76281980&t=68)** And this is going to be [[Vue.js]] Fundamentals.
 >
 > **[1:12](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-dynamic-elements?u=76281980&t=72)** This is going to be a deck of flashcards related to Vue.js concepts, but this app could actually be used to present any deck of flashcards.
 >
@@ -289,7 +284,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-dynamic-elements?u=76281980&t=120)** Well, instead of having to write code that, say, selects this H1 element and imperatively sets the inner text, I can just declaratively say that I want the inner text of this element to be the value of our deck name data property, and I can do that using the mustache or double curly brace syntax.
 >
-> **[2:28](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-dynamic-elements?u=76281980&t=148)** The other benefit to this is that it's very easy now for someone to come along later on, and that someone may be you in the future, and just quickly scan this HTML template, and have a good idea of what's going on as compared to when you have some code in a script somewhere that's explicitly accessing this element's inner text value.
+> **[2:28](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-dynamic-elements?u=76281980&t=148)** The other benefit to this is that it's very easy now for someone to come along later on, and that someone may be you in the future, and just quickly scan this [[HTML]] template, and have a good idea of what's going on as compared to when you have some code in a script somewhere that's explicitly accessing this element's inner text value.
 >
 > **[2:47](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-dynamic-elements?u=76281980&t=167)** So if I go over to the browser now and refresh, I can see that deck name has now been replaced by Vue.js Fundamentals.
 >
@@ -299,7 +294,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vue.js|Vue]] (6), data (5), [[Vue.js]] (3), next (2), dom (2)
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (6), [[Vue.js]] (3), [[HTML]] (1)
 > **Env Vars:** dom (2), css (1), html (1)
 > **File Paths:** vue.js (3)
 > **Code Identifiers:** deckname (1), createapp (1)
@@ -308,12 +303,11 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Analogies:** just like (1)
 
-#### Binding to inner text and HTML
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-to-inner-text-and-html?u=76281980)
+#### [Binding to inner text and HTML](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-to-inner-text-and-html?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-to-inner-text-and-html?u=76281980&t=0)** - [Narrator] In this video, we'll start to get a sense of Vue's reactivity system and observe how the UI changes when the underlying data changes.
+> **[0:00](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-to-inner-text-and-html?u=76281980&t=0)** - [Narrator] In this video, we'll start to get a sense of [[Vue.js|Vue]]'s reactivity system and observe how the UI changes when the underlying data changes.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-to-inner-text-and-html?u=76281980&t=8)** First, to get rid of that flash of curly braces when the page loads.
 >
@@ -329,7 +323,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-to-inner-text-and-html?u=76281980&t=75)** So let's see if we can just display the content of the first card by setting the inner text of this "h2", I'll remove "item" here, to "cards", the first element at index zero, ".front" And, the inner text of this "div" to "cards[0].back".
 >
-> **[1:45](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-to-inner-text-and-html?u=76281980&t=105)** If we refresh, we can see that content but one problem we have is that you'll notice that there's a little bit of HTML in the description here.
+> **[1:45](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-to-inner-text-and-html?u=76281980&t=105)** If we refresh, we can see that content but one problem we have is that you'll notice that there's a little bit of [[HTML]] in the description here.
 >
 > **[1:54](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-to-inner-text-and-html?u=76281980&t=114)** Since we're using "v-text" to set the inner text, that HTML is going to be escaped and if we want to render it as HTML, we should use the "v-html" directive instead.
 >
@@ -345,7 +339,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-to-inner-text-and-html?u=76281980&t=197)** But, for now, it's good to know that we can do this if we need to.
 >
-> **[3:21](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-to-inner-text-and-html?u=76281980&t=201)** Let's use this as an opportunity to observe the reactive behavior that's so important to all modern JavaScript frameworks which will instantly bring our UI in sync with the underlying data whenever it changes.
+> **[3:21](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-to-inner-text-and-html?u=76281980&t=201)** Let's use this as an opportunity to observe the reactive behavior that's so important to all modern [[JavaScript]] frameworks which will instantly bring our UI in sync with the underlying data whenever it changes.
 >
 > **[3:34](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-to-inner-text-and-html?u=76281980&t=214)** So first we'll save a reference to our created app in a new variable named "app" and now, having done that, we can refresh the browser and then if we open up the dev tools in the console, I can type "app.flipped" and notice that it shows the default value of "false".
 >
@@ -357,15 +351,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[HTML]] (5), [[Vue.js|Vue]] (1), [[JavaScript]] (1), dom (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[Vue.js|Vue]] (1), [[JavaScript]] (1)
 > **Env Vars:** html (3), dom (1)
 > **Code Identifiers:** deckname (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Dynamic attributes and v-model
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/dynamic-attributes-and-v-model?u=76281980)
+#### [Dynamic attributes and v-model](https://www.linkedin.com/learning/learning-vue-js-8602681/dynamic-attributes-and-v-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -373,7 +366,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-vue-js-8602681/dynamic-attributes-and-v-model?u=76281980&t=5)** Let's say that we wanted to add a link for more information down here.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-vue-js-8602681/dynamic-attributes-and-v-model?u=76281980&t=11)** The link text will be read more and, it will point to the Vue guide.
+> **[0:11](https://www.linkedin.com/learning/learning-vue-js-8602681/dynamic-attributes-and-v-model?u=76281980&t=11)** The link text will be read more and, it will point to the [[Vue.js|Vue]] guide.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-vue-js-8602681/dynamic-attributes-and-v-model?u=76281980&t=18)** But if we want to our app to be a generic solution for any kind of flashcard deck, we would probably have our URL as part of the data, and we can just call it readMoreUrl and initialize it to that same value.
 >
@@ -383,7 +376,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/learning-vue-js-8602681/dynamic-attributes-and-v-model?u=76281980&t=57)** One way to simplify your template or your markup, is just to remove the v-bind part, leaving only :href, this is just a shorthand version of the v-bind syntax, and it's usage is very common.
 >
-> **[1:13](https://www.linkedin.com/learning/learning-vue-js-8602681/dynamic-attributes-and-v-model?u=76281980&t=73)** In fact for the rest of the course we'll be using the shorthand syntax, instead of the v-bind syntax.
+> **[1:13](https://www.linkedin.com/learning/learning-vue-js-8602681/dynamic-attributes-and-v-model?u=76281980&t=73)** In fact for the [[Representational State Transfer (REST)|rest]] of the course we'll be using the shorthand syntax, instead of the v-bind syntax.
 >
 > **[1:18](https://www.linkedin.com/learning/learning-vue-js-8602681/dynamic-attributes-and-v-model?u=76281980&t=78)** Next, I'm going to add a text field up here just to experiment a little with.
 >
@@ -409,7 +402,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/learning-vue-js-8602681/dynamic-attributes-and-v-model?u=76281980&t=183)** So now when the user edits this field, it will automatically update our user input data property.
 >
-> **[3:10](https://www.linkedin.com/learning/learning-vue-js-8602681/dynamic-attributes-and-v-model?u=76281980&t=190)** So let's test this by checking for the word flip, and using user input, as a mechanism for flipping the card.
+> **[3:10](https://www.linkedin.com/learning/learning-vue-js-8602681/dynamic-attributes-and-v-model?u=76281980&t=190)** So let's test this by checking for the [[Microsoft Word|word]] flip, and using user input, as a mechanism for flipping the card.
 >
 > **[3:18](https://www.linkedin.com/learning/learning-vue-js-8602681/dynamic-attributes-and-v-model?u=76281980&t=198)** So instead of flipped here, I'm going to ask if user input is equal to flip, and we'll do the same thing right below, instead of, flipped we have that conditional expression.
 >
@@ -419,7 +412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (3), [[Vue.js|Vue]] (2), hit (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (2), [[Microsoft Word|Word]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** readmoreurl (2), userinput (2)
 > **Env Vars:** url (1), css (1), dom (1)
 > **Prerequisites:** set up (1), setup (1)
@@ -428,8 +421,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling events with v-on
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/handling-events-with-v-on?u=76281980)
+#### [Handling events with v-on](https://www.linkedin.com/learning/learning-vue-js-8602681/handling-events-with-v-on?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -453,7 +445,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/learning-vue-js-8602681/handling-events-with-v-on?u=76281980&t=57)** And it's an @ symbol instead of the v-on:.
 >
-> **[1:01](https://www.linkedin.com/learning/learning-vue-js-8602681/handling-events-with-v-on?u=76281980&t=61)** Again, this is very common so we'll be using this form throughout the rest of the course.
+> **[1:01](https://www.linkedin.com/learning/learning-vue-js-8602681/handling-events-with-v-on?u=76281980&t=61)** Again, this is very common so we'll be using this form throughout the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[1:07](https://www.linkedin.com/learning/learning-vue-js-8602681/handling-events-with-v-on?u=76281980&t=67)** Another thing that's overdue to be addressed is the fact that we're only loading the first card in the deck at index zero.
 >
@@ -465,7 +457,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/learning-vue-js-8602681/handling-events-with-v-on?u=76281980&t=92)** Next, let's add a button to advance to the next slide.
 >
-> **[1:39](https://www.linkedin.com/learning/learning-vue-js-8602681/handling-events-with-v-on?u=76281980&t=99)** This HTML entity that I'm typing is just a forward arrow.
+> **[1:39](https://www.linkedin.com/learning/learning-vue-js-8602681/handling-events-with-v-on?u=76281980&t=99)** This [[HTML]] entity that I'm typing is just a forward arrow.
 >
 > **[1:45](https://www.linkedin.com/learning/learning-vue-js-8602681/handling-events-with-v-on?u=76281980&t=105)** And I'm going to wrap this in a div with class navigation.
 >
@@ -519,11 +511,11 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/learning-vue-js-8602681/handling-events-with-v-on?u=76281980&t=266)** And I can move both ways.
 >
-> **[4:28](https://www.linkedin.com/learning/learning-vue-js-8602681/handling-events-with-v-on?u=76281980&t=268)** In the next chapter, we'll take a deeper dive into how to work with various form controls in Vue.
+> **[4:28](https://www.linkedin.com/learning/learning-vue-js-8602681/handling-events-with-v-on?u=76281980&t=268)** In the next chapter, we'll take a deeper dive into how to work with various form controls in [[Vue.js|Vue]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), data (2), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Vue.js|Vue]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Vue.js|Vue]] (1)
 > **Exercise Files:** template (3)
 > **Env Vars:** html (2)
 > **Cross-References:** in the last (1), in the next (1)
@@ -537,12 +529,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Text field bindings
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/text-field-bindings?u=76281980)
+#### [Text field bindings](https://www.linkedin.com/learning/learning-vue-js-8602681/text-field-bindings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-vue-js-8602681/text-field-bindings?u=76281980&t=0)** - In this video, we'll take a look at a very simple HTML form, and talk about how to manage text fields using Vue.
+> **[0:00](https://www.linkedin.com/learning/learning-vue-js-8602681/text-field-bindings?u=76281980&t=0)** - In this video, we'll take a look at a very simple [[HTML]] form, and talk about how to manage text fields using [[Vue.js|Vue]].
 >
 > **[0:07](https://www.linkedin.com/learning/learning-vue-js-8602681/text-field-bindings?u=76281980&t=7)** In my code editor, you can see that this is indeed a form element with an input of type text and then a text area for lengthier input.
 >
@@ -552,7 +543,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/learning-vue-js-8602681/text-field-bindings?u=76281980&t=29)** So we've already seen that we can use v-bind value, or the shorthand version, just colon value to pre-populate a text field with a given value.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-vue-js-8602681/text-field-bindings?u=76281980&t=39)** And remember that value could be a data property, or a JavaScript expression.
+> **[0:39](https://www.linkedin.com/learning/learning-vue-js-8602681/text-field-bindings?u=76281980&t=39)** And remember that value could be a data property, or a [[JavaScript]] expression.
 >
 > **[0:44](https://www.linkedin.com/learning/learning-vue-js-8602681/text-field-bindings?u=76281980&t=44)** Or even something like math dot random.
 >
@@ -566,7 +557,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/learning-vue-js-8602681/text-field-bindings?u=76281980&t=77)** For instance, I might want to display the length of this value here.
 >
-> **[1:21](https://www.linkedin.com/learning/learning-vue-js-8602681/text-field-bindings?u=76281980&t=81)** So inside double curly braces I could say deck name dot length, and then the word characters after.
+> **[1:21](https://www.linkedin.com/learning/learning-vue-js-8602681/text-field-bindings?u=76281980&t=81)** So inside double curly braces I could say deck name dot length, and then the [[Microsoft Word|word]] characters after.
 >
 > **[1:32](https://www.linkedin.com/learning/learning-vue-js-8602681/text-field-bindings?u=76281980&t=92)** So this shows us that the current value is 19 characters long.
 >
@@ -584,7 +575,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/learning-vue-js-8602681/text-field-bindings?u=76281980&t=142)** So if you're familiar with text areas, you know that a pre-populated value usually goes between the text area tags.
 >
-> **[2:29](https://www.linkedin.com/learning/learning-vue-js-8602681/text-field-bindings?u=76281980&t=149)** You should avoid doing that when using Vue.js, even though it might seem to work in some cases.
+> **[2:29](https://www.linkedin.com/learning/learning-vue-js-8602681/text-field-bindings?u=76281980&t=149)** You should avoid doing that when using [[Vue.js]], even though it might seem to work in some cases.
 >
 > **[2:36](https://www.linkedin.com/learning/learning-vue-js-8602681/text-field-bindings?u=76281980&t=156)** But usually we want that two way data binding, so we should use v-model anyway.
 >
@@ -606,7 +597,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Vue.js|Vue]] (4), [[HTML]] (1), [[JavaScript]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (4), [[HTML]] (1), [[JavaScript]] (1), [[Microsoft Word|Word]] (1), [[Vue.js]] (1)
 > **File Paths:** vue.js (1)
 > **Env Vars:** html (1)
 > **Analogies:** for instance (1)
@@ -614,14 +605,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - in (1)
 
-#### Using v-model with related checkboxes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/using-v-model-with-related-checkboxes?u=76281980)
+#### [Using v-model with related checkboxes](https://www.linkedin.com/learning/learning-vue-js-8602681/using-v-model-with-related-checkboxes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-vue-js-8602681/using-v-model-with-related-checkboxes?u=76281980&t=0)** - [Instructor] Let's take a look at some ways that we can work with checkboxes in Vue.
+> **[0:00](https://www.linkedin.com/learning/learning-vue-js-8602681/using-v-model-with-related-checkboxes?u=76281980&t=0)** - [Instructor] Let's take a look at some ways that we can work with checkboxes in [[Vue.js|Vue]].
 >
-> **[0:04](https://www.linkedin.com/learning/learning-vue-js-8602681/using-v-model-with-related-checkboxes?u=76281980&t=4)** So, here you can see that I've added some options to the Deck Settings page, so far, I've only added some basic HTML, nothing related to Vue or any kind of dynamic behavior.
+> **[0:04](https://www.linkedin.com/learning/learning-vue-js-8602681/using-v-model-with-related-checkboxes?u=76281980&t=4)** So, here you can see that I've added some options to the Deck Settings page, so far, I've only added some basic [[HTML]], nothing related to Vue or any kind of dynamic behavior.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-vue-js-8602681/using-v-model-with-related-checkboxes?u=76281980&t=16)** Let's take a look at this first checkbox, include reverse cards just means that, the user would be presented with both sides of the card as they go through the deck.
 >
@@ -671,7 +661,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vue.js|Vue]] (4), data (2), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (4), [[HTML]] (1)
 > **UI Navigation:** checkbox (6), toggle (1)
 > **Warnings:** note that (2)
 > **CLI Commands:** make (1)
@@ -680,8 +670,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring radio buttons and select elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-radio-buttons-and-select-elements?u=76281980)
+#### [Configuring radio buttons and select elements](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-radio-buttons-and-select-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -689,7 +678,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-radio-buttons-and-select-elements?u=76281980&t=7)** So here we have a couple of related radio buttons in a field set for an additional option called leech action, with one of two values, tag or suspend.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-radio-buttons-and-select-elements?u=76281980&t=17)** Leech is a term that I'm borrowing from a popular flashcard program called Anki, which gets his name from the Japanese word for memorization.
+> **[0:17](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-radio-buttons-and-select-elements?u=76281980&t=17)** Leech is a term that I'm borrowing from a popular flashcard program called Anki, which gets his name from the Japanese [[Microsoft Word|word]] for memorization.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-radio-buttons-and-select-elements?u=76281980&t=26)** Anki defines leeches as cards that you tend to have trouble with repeatedly.
 >
@@ -701,7 +690,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-radio-buttons-and-select-elements?u=76281980&t=55)** (computer keys clicking) And then in our data object down here, we'll add leech and we can let it default to tag because that's the first one that appears.
 >
-> **[1:07](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-radio-buttons-and-select-elements?u=76281980&t=67)** Instead of displaying the selected value on the page or looking at it in the JavaScript console, let's track this value using the Vue JS devtools extension, which is available for Chrome and Firefox, or as a standalone app.
+> **[1:07](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-radio-buttons-and-select-elements?u=76281980&t=67)** Instead of displaying the selected value on the page or looking at it in the [[JavaScript]] console, let's track this value using the [[Vue.js|Vue]] JS devtools extension, which is available for Chrome and Firefox, or as a standalone app.
 >
 > **[1:21](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-radio-buttons-and-select-elements?u=76281980&t=81)** I happen to be using Firefox at the moment.
 >
@@ -709,7 +698,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-radio-buttons-and-select-elements?u=76281980&t=90)** At the time I'm recording this course, the first value here will still install the Vue two version, although it might be different for you by the time you watch the course.
 >
-> **[1:41](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-radio-buttons-and-select-elements?u=76281980&t=101)** But for me, the Vue three version is still in beta, so I'm going to look at this third result here and visit the GitHub repository, scroll down to installation, and click on beta channel next to the Firefox add-on.
+> **[1:41](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-radio-buttons-and-select-elements?u=76281980&t=101)** But for me, the Vue three version is still in beta, so I'm going to look at this third result here and visit the [[GitHub]] repository, scroll down to installation, and click on beta channel next to the Firefox add-on.
 >
 > **[1:58](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-radio-buttons-and-select-elements?u=76281980&t=118)** I'll click on the first release in the list and then click on this XPI file down here.
 >
@@ -727,7 +716,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-radio-buttons-and-select-elements?u=76281980&t=184)** Next, let's take a look at this select element here which offers some possible categories to assign to our flashcard deck.
 >
-> **[3:13](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-radio-buttons-and-select-elements?u=76281980&t=193)** Again, if I want to manage the selected value with Vue, perhaps to post the options as JSON, to an API with an Ajax request, I can simply add V-model (computer keys clicking) and I'll call it category ID. (computer keys clicking) And then let's make sure that we add category ID to our data down here. (computer keys clicking) And we can initialize it with the same value as the default that just invites the user to select, which is an empty string.
+> **[3:13](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-radio-buttons-and-select-elements?u=76281980&t=193)** Again, if I want to manage the selected value with Vue, perhaps to post the options as [[JSON]], to an API with an [[AJAX]] request, I can simply add V-model (computer keys clicking) and I'll call it category ID. (computer keys clicking) And then let's make sure that we add category ID to our data down here. (computer keys clicking) And we can initialize it with the same value as the default that just invites the user to select, which is an empty string.
 >
 > **[3:45](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-radio-buttons-and-select-elements?u=76281980&t=225)** And to ensure that we've set this up correctly, (computer mouse clicks) I can refresh and take a look at the Vue dev tools.
 >
@@ -737,7 +726,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vue.js|Vue]] (12), data (4), next (3), [[Microsoft Word|Word]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (12), [[Microsoft Word|Word]] (1), [[JavaScript]] (1), [[GitHub]] (1), [[JSON]] (1)
 > **UI Navigation:** click on (4), dropdown (2), scroll down (1), toggle (1)
 > **Tools:** firefox (5), github (1)
 > **Env Vars:** xpi (1), f12 (1), json (1), api (1)
@@ -746,8 +735,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (1)
 
-#### Adding modifiers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-modifiers?u=76281980)
+#### [Adding modifiers](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-modifiers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -757,7 +745,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-modifiers?u=76281980&t=18)** We might want to write some code in a submit event handler that trims that string before sending it to the server.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-modifiers?u=76281980&t=25)** But we have a convenient alternative in the trim modifier which is basically as easy as just typing the word trim in our template.
+> **[0:25](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-modifiers?u=76281980&t=25)** But we have a convenient alternative in the trim modifier which is basically as easy as just typing the [[Microsoft Word|word]] trim in our template.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-modifiers?u=76281980&t=33)** So we'll do that right after the V model for deck name.
 >
@@ -807,7 +795,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-modifiers?u=76281980&t=190)** If I want it to prevent that default behavior I could just do, @click.prevent.
 >
-> **[3:21](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-modifiers?u=76281980&t=201)** Now we can handle this submission however we want, again, perhaps with an AJAX call and a client site update.
+> **[3:21](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-modifiers?u=76281980&t=201)** Now we can handle this submission however we want, again, perhaps with an [[AJAX]] call and a client site update.
 >
 > **[3:37](https://www.linkedin.com/learning/learning-vue-js-8602681/adding-modifiers?u=76281980&t=217)** There are a few other modifiers that will come in handy at times, including stop for stopping event propagation, self for detecting whether the target was this element or a child element.
 >
@@ -817,7 +805,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), data (3), [[Microsoft Word|Word]] (1), next (1), [[AJAX]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[AJAX]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ajax (1)
 > **Exercise Files:** template (1)
@@ -825,12 +813,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Computed properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/computed-properties?u=76281980)
+#### [Computed properties](https://www.linkedin.com/learning/learning-vue-js-8602681/computed-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-vue-js-8602681/computed-properties?u=76281980&t=0)** - [Instructor] Vue.js uses a reactivity system that tracks changes in the data that we declare when we create a view instance.
+> **[0:00](https://www.linkedin.com/learning/learning-vue-js-8602681/computed-properties?u=76281980&t=0)** - [Instructor] [[Vue.js]] uses a reactivity system that tracks changes in the data that we declare when we create a view instance.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-vue-js-8602681/computed-properties?u=76281980&t=8)** It can tell when changes to the data necessitate re-rendering parts of the DOM.
 >
@@ -842,9 +829,9 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/learning-vue-js-8602681/computed-properties?u=76281980&t=38)** Take a look at our mustache expression here that shows how many characters are still available for our description.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-vue-js-8602681/computed-properties?u=76281980&t=44)** As JavaScript expressions go, this one's fairly readable, but there are a lot of front-end developers who would say that even this is too much code for what we're claiming as a declarative template.
+> **[0:44](https://www.linkedin.com/learning/learning-vue-js-8602681/computed-properties?u=76281980&t=44)** As [[JavaScript]] expressions go, this one's fairly readable, but there are a lot of front-end developers who would say that even this is too much code for what we're claiming as a declarative template.
 >
-> **[0:56](https://www.linkedin.com/learning/learning-vue-js-8602681/computed-properties?u=76281980&t=56)** What a computed property allows us to do is move this logic into our Vue instance and replace it with a simple identifier.
+> **[0:56](https://www.linkedin.com/learning/learning-vue-js-8602681/computed-properties?u=76281980&t=56)** What a computed property allows us to do is move this logic into our [[Vue.js|Vue]] instance and replace it with a simple identifier.
 >
 > **[1:05](https://www.linkedin.com/learning/learning-vue-js-8602681/computed-properties?u=76281980&t=65)** In this case, we could use something like charsLeft.
 >
@@ -884,7 +871,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vue.js|Vue]] (5), data (4), dom (2), [[Vue.js]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (5), [[Vue.js]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** charsleft (2), deckdescription (2)
 > **Exercise Files:** template (4)
 > **Env Vars:** dom (2), css (1)
@@ -898,18 +885,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conditional rendering with v-if
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/conditional-rendering-with-v-if?u=76281980)
+#### [Conditional rendering with v-if](https://www.linkedin.com/learning/learning-vue-js-8602681/conditional-rendering-with-v-if?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-vue-js-8602681/conditional-rendering-with-v-if?u=76281980&t=0)** - [Instructor] In this video, we'll turn our attention back to our flashcard presenter and clean up our template using some additional directives for conditionally displaying elements.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-vue-js-8602681/conditional-rendering-with-v-if?u=76281980&t=11)** If we look at this first inner div here inside the div that our app is mounted on, we have this click handler here and for the value of that directive we have a bit of JavaScript code that will be executed when a user clicks.
+> **[0:11](https://www.linkedin.com/learning/learning-vue-js-8602681/conditional-rendering-with-v-if?u=76281980&t=11)** If we look at this first inner div here inside the div that our app is mounted on, we have this click handler here and for the value of that directive we have a bit of [[JavaScript]] code that will be executed when a user clicks.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-vue-js-8602681/conditional-rendering-with-v-if?u=76281980&t=26)** And that's instead of perhaps a method call to handle the click event.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-vue-js-8602681/conditional-rendering-with-v-if?u=76281980&t=30)** Again, some Vue developers would prefer not to have any statements like this in their templates.
+> **[0:30](https://www.linkedin.com/learning/learning-vue-js-8602681/conditional-rendering-with-v-if?u=76281980&t=30)** Again, some [[Vue.js|Vue]] developers would prefer not to have any statements like this in their templates.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-vue-js-8602681/conditional-rendering-with-v-if?u=76281980&t=36)** Personally, I think a simple assignment like this is okay, but that's about as far as I would go with actually including imperative code in your template.
 >
@@ -929,7 +915,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/learning-vue-js-8602681/conditional-rendering-with-v-if?u=76281980&t=108)** And again, I can remove part of this ternary and just leave cards index.back.
 >
-> **[1:57](https://www.linkedin.com/learning/learning-vue-js-8602681/conditional-rendering-with-v-if?u=76281980&t=117)** And while we're cleaning this up, let's go ahead and create computed properties for the front text and the back HTML.
+> **[1:57](https://www.linkedin.com/learning/learning-vue-js-8602681/conditional-rendering-with-v-if?u=76281980&t=117)** And while we're cleaning this up, let's go ahead and create computed properties for the front text and the back [[HTML]].
 >
 > **[2:05](https://www.linkedin.com/learning/learning-vue-js-8602681/conditional-rendering-with-v-if?u=76281980&t=125)** So we could just use front and back in our template.
 >
@@ -965,7 +951,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vue.js|Vue]] (3), css (3), [[HTML]] (2), dom (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (3), [[HTML]] (2), [[JavaScript]] (1)
 > **Env Vars:** css (3), dom (2), html (1)
 > **Exercise Files:** template (4)
 > **CLI Commands:** make (1)
@@ -974,8 +960,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Conditional rendering with v-show
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/conditional-rendering-with-v-show?u=76281980)
+#### [Conditional rendering with v-show](https://www.linkedin.com/learning/learning-vue-js-8602681/conditional-rendering-with-v-show?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1001,9 +986,9 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/learning-vue-js-8602681/conditional-rendering-with-v-show?u=76281980&t=150)** But we can just do v-show="flipped".
 >
-> **[2:35](https://www.linkedin.com/learning/learning-vue-js-8602681/conditional-rendering-with-v-show?u=76281980&t=155)** So refreshing again, once the page loads, the back content has already been rendered, although as a hidden element, and when we get around to flipping the card, which I'll do now, that value has already been computed, of course, if you noticed we did block the initial rendering of the page with that JavaScript loop, but in a real application, we might be loading that data behind the scenes with Ajax, which would avoid that completely, since we're on the subject of hiding and revealing things, it's a good time to talk about v-cloak, remember that if we wanted to, we could rewrite this with mustache syntax here instead of using v-text.
+> **[2:35](https://www.linkedin.com/learning/learning-vue-js-8602681/conditional-rendering-with-v-show?u=76281980&t=155)** So refreshing again, once the page loads, the back content has already been rendered, although as a hidden element, and when we get around to flipping the card, which I'll do now, that value has already been computed, of course, if you noticed we did block the initial rendering of the page with that [[JavaScript]] loop, but in a real application, we might be loading that data behind the scenes with [[AJAX]], which would avoid that completely, since we're on the subject of hiding and revealing things, it's a good time to talk about v-cloak, remember that if we wanted to, we could rewrite this with mustache syntax here instead of using v-text.
 >
-> **[3:17](https://www.linkedin.com/learning/learning-vue-js-8602681/conditional-rendering-with-v-show?u=76281980&t=197)** Refresh again, now with that delay, those curly braces are especially visible, but if we wanted to hide that element until Vue has loaded, we can do it with v-cloak.
+> **[3:17](https://www.linkedin.com/learning/learning-vue-js-8602681/conditional-rendering-with-v-show?u=76281980&t=197)** Refresh again, now with that delay, those curly braces are especially visible, but if we wanted to hide that element until [[Vue.js|Vue]] has loaded, we can do it with v-cloak.
 >
 > **[3:30](https://www.linkedin.com/learning/learning-vue-js-8602681/conditional-rendering-with-v-show?u=76281980&t=210)** So we're just going to add the v-cloak directive here on the h2, and v-cloak is a special directive that's always removed as soon as our view instance has finished compiling, by itself, it has no effect, but while it's present we can use it to hide the h2 element with CSS.
 >
@@ -1015,7 +1000,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), css (2), dom (1), [[JavaScript]] (1), application (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[AJAX]] (1), [[Vue.js|Vue]] (1)
 > **Env Vars:** css (2), dom (1)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1), it's like (1)
@@ -1023,8 +1008,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Looping and list rendering with v-for
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/looping-and-list-rendering-with-v-for?u=76281980)
+#### [Looping and list rendering with v-for](https://www.linkedin.com/learning/learning-vue-js-8602681/looping-and-list-rendering-with-v-for?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1062,13 +1046,13 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/learning-vue-js-8602681/looping-and-list-rendering-with-v-for?u=76281980&t=97)** So for the front, we can add V-text is card.front.
 >
-> **[1:42](https://www.linkedin.com/learning/learning-vue-js-8602681/looping-and-list-rendering-with-v-for?u=76281980&t=102)** And then for the back we have V-html is card.back.
+> **[1:42](https://www.linkedin.com/learning/learning-vue-js-8602681/looping-and-list-rendering-with-v-for?u=76281980&t=102)** And then for the back we have V-[[HTML]] is card.back.
 >
 > **[1:48](https://www.linkedin.com/learning/learning-vue-js-8602681/looping-and-list-rendering-with-v-for?u=76281980&t=108)** So now when we refresh the page, we see all of the cards on one screen.
 >
 > **[1:53](https://www.linkedin.com/learning/learning-vue-js-8602681/looping-and-list-rendering-with-v-for?u=76281980&t=113)** But how can we edit them?
 >
-> **[1:55](https://www.linkedin.com/learning/learning-vue-js-8602681/looping-and-list-rendering-with-v-for?u=76281980&t=115)** Well, in this course we're not using any persistent data storage.
+> **[1:55](https://www.linkedin.com/learning/learning-vue-js-8602681/looping-and-list-rendering-with-v-for?u=76281980&t=115)** Well, in this course we're not using any persistent [[Data Storage]].
 >
 > **[1:58](https://www.linkedin.com/learning/learning-vue-js-8602681/looping-and-list-rendering-with-v-for?u=76281980&t=118)** So the updates will last only until the page is refreshed.
 >
@@ -1138,7 +1122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), dom (1), css (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Data Storage]] (1)
 > **Code Identifiers:** editindex (3)
 > **Env Vars:** dom (1), css (1)
 > **CLI Commands:** make (1)
@@ -1147,18 +1131,17 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - in (1)
 
-#### Binding style attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-style-attributes?u=76281980)
+#### [Binding style attributes](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-style-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-style-attributes?u=76281980&t=0)** - [Instructor] In this video, we'll take a look at how we can use dynamic style attributes in view.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-style-attributes?u=76281980&t=6)** Whether we're using view or just writing static HTML.
+> **[0:06](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-style-attributes?u=76281980&t=6)** Whether we're using view or just writing static [[HTML]].
 >
 > **[0:09](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-style-attributes?u=76281980&t=9)** The use of style attributes is generally something we should avoid because it has a tendency to litter our markup with CSS properties that would be better off in an external style sheet but there are exceptions to that rule of thumb.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-style-attributes?u=76281980&t=23)** And also it can sometimes be helpful for quick prototyping.
+> **[0:23](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-style-attributes?u=76281980&t=23)** And also it can sometimes be helpful for quick [[Prototyping]].
 >
 > **[0:27](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-style-attributes?u=76281980&t=27)** A classic example for a dynamic style attribute is wanting to change a numeric value at a very granular level, such as a font size or a width which would be difficult to set up with CSS classes.
 >
@@ -1170,7 +1153,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-style-attributes?u=76281980&t=63)** So we can set up a dynamic style attribute using the shorthand for v bind style, colon style.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-style-attributes?u=76281980&t=71)** And one way to set the value is as a JavaScript object with CSS property names and values.
+> **[1:11](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-style-attributes?u=76281980&t=71)** And one way to set the value is as a [[JavaScript]] object with CSS property names and values.
 >
 > **[1:20](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-style-attributes?u=76281980&t=80)** So we can use the actual property name, font size.
 >
@@ -1222,7 +1205,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), data (4), next (3), [[JavaScript]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[HTML]] (1), [[Prototyping]] (1)
 > **Env Vars:** css (5), html (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (3)
@@ -1231,12 +1214,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Binding CSS classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-css-classes?u=76281980)
+#### [Binding CSS classes](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-css-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-css-classes?u=76281980&t=0)** - [Instructor] In this video, we'll continue looking at managing dynamic CSS with Vue, this time through the use of class attribute bindings.
+> **[0:00](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-css-classes?u=76281980&t=0)** - [Instructor] In this video, we'll continue looking at managing dynamic CSS with [[Vue.js|Vue]], this time through the use of class attribute bindings.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-css-classes?u=76281980&t=7)** And you can see that we're back to our flashcard presenter again.
 >
@@ -1318,7 +1300,7 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-css-classes?u=76281980&t=309)** Okay, so over in my style sheet, I have this again class already defined, which just adds a yellowish background color.
 >
-> **[5:17](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-css-classes?u=76281980&t=317)** So what we can do in our card div up here is add a dynamic class attribute, again with v-bind or just :class and similar to the style syntax, this is often going to be a JavaScript object but the property names will correspond to CSS classes and the values will be treated as Booleans that determine whether the class name should appear in the list.
+> **[5:17](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-css-classes?u=76281980&t=317)** So what we can do in our card div up here is add a dynamic class attribute, again with v-bind or just :class and similar to the style syntax, this is often going to be a [[JavaScript]] object but the property names will correspond to CSS classes and the values will be treated as Booleans that determine whether the class name should appear in the list.
 >
 > **[5:44](https://www.linkedin.com/learning/learning-vue-js-8602681/binding-css-classes?u=76281980&t=344)** So if I write again and isRepeat, I'm saying that the again class should appear in the class list as long as isRepeat is true but remember, this isn't quite right yet because isRepeat is a property of the current card or any card.
 >
@@ -1336,7 +1318,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), css (2), [[Vue.js|Vue]] (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (2), [[JavaScript]] (1)
 > **Code Identifiers:** isrepeat (9), gotit (2), anotherclass (1)
 > **Env Vars:** got (3), again (3), css (2)
 > **CLI Commands:** make (3)
@@ -1350,14 +1332,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating and registering components
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-and-registering-components?u=76281980)
+#### [Creating and registering components](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-and-registering-components?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-and-registering-components?u=76281980&t=0)** - We've talked a little bit along the way about strategies for cleaning up our templates.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-and-registering-components?u=76281980&t=5)** One of the most effective tools that Vue offers us in that regard is its component system, which allows us to encapsulate sections of our template and make them easier to reason about and debug.
+> **[0:05](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-and-registering-components?u=76281980&t=5)** One of the most effective tools that [[Vue.js|Vue]] offers us in that regard is its component system, which allows us to encapsulate sections of our template and make them easier to reason about and debug.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-and-registering-components?u=76281980&t=16)** Let's target a section of our template for component extraction. We'll start with something simple like the "read more" link here and to make it even simpler, we're going to temporarily change this to a static href attribute and just put the URL for the guide there instead of "read more" URL.
 >
@@ -1367,11 +1348,11 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-and-registering-components?u=76281980&t=50)** I'm going to cut it to the clipboard and then we can replace it with a custom element that I'll call "read more" that will look something like this with open and closed tags.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-and-registering-components?u=76281980&t=62)** You'll want to keep the tag names of your custom components lowercase for now, and include a hyphen if possible to help ensure that it's valid HTML and also not a tag name that already exists.
+> **[1:02](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-and-registering-components?u=76281980&t=62)** You'll want to keep the tag names of your custom components lowercase for now, and include a hyphen if possible to help ensure that it's valid [[HTML]] and also not a tag name that already exists.
 >
 > **[1:17](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-and-registering-components?u=76281980&t=77)** And then to define, "read more", we can go all the way down here and use app, which points to our view instance and with the component method, we can say that this app uses a component with the tag "read more" and next we have an options object. It's very similar to the options object that we use when we declare the main instance, but because we're not mounting it on a certain element, but just making it available through the use of a custom tag, we need to define its template.
 >
-> **[1:51](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-and-registering-components?u=76281980&t=111)** So I'm just going to paste what I cut before inside these single quotes and note that if I were to break this up into multiple lines, maybe something like this, I would have to escape each new line with a backslash so that, that would still be valid JavaScript.
+> **[1:51](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-and-registering-components?u=76281980&t=111)** So I'm just going to paste what I cut before inside these single quotes and note that if I were to break this up into multiple lines, maybe something like this, I would have to escape each new line with a backslash so that, that would still be valid [[JavaScript]].
 >
 > **[2:13](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-and-registering-components?u=76281980&t=133)** Finally, we need to make sure that when we mount our view app already knows about the read more component.
 >
@@ -1383,7 +1364,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-and-registering-components?u=76281980&t=187)** It does require setting up a build tool, such as web pack, so for now we're going to stick with this approach as our introduction to components.
 >
-> **[3:15](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-and-registering-components?u=76281980&t=195)** So now let's refresh and we see the same thing as before our read more link that we can click to get to the Vue.js guide and let's take a moment to look at this in view dev tools so I'm going to click the view tab over here again and I can see my route instance with its data and computer properties over here on the right.
+> **[3:15](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-and-registering-components?u=76281980&t=195)** So now let's refresh and we see the same thing as before our read more link that we can click to get to the [[Vue.js]] guide and let's take a moment to look at this in view dev tools so I'm going to click the view tab over here again and I can see my route instance with its data and computer properties over here on the right.
 >
 > **[3:37](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-and-registering-components?u=76281980&t=217)** And I also see that I now have a child component that's called "anonymous component".
 >
@@ -1403,7 +1384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[HTML]] (2), next (2), [[Vue.js|Vue]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Vue.js|Vue]] (1), [[JavaScript]] (1), [[Vue.js]] (1)
 > **Exercise Files:** template (6)
 > **Env Vars:** url (2), html (2)
 > **CLI Commands:** make (3)
@@ -1412,8 +1393,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 
-#### Using component props
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/using-component-props?u=76281980)
+#### [Using component props](https://www.linkedin.com/learning/learning-vue-js-8602681/using-component-props?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1431,7 +1411,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/learning-vue-js-8602681/using-component-props?u=76281980&t=50)** So down in the component options I can add props to declare the data that this component is expecting to be provided with.
 >
-> **[1:00](https://www.linkedin.com/learning/learning-vue-js-8602681/using-component-props?u=76281980&t=60)** So this can take several forms and one is just an array of string names and we'll include URL as one of the props that this component is expecting.
+> **[1:00](https://www.linkedin.com/learning/learning-vue-js-8602681/using-component-props?u=76281980&t=60)** So this can take several [[Forms]] and one is just an array of string names and we'll include URL as one of the props that this component is expecting.
 >
 > **[1:10](https://www.linkedin.com/learning/learning-vue-js-8602681/using-component-props?u=76281980&t=70)** And then instead of referring to readMoreurl. here I can just use its own prop URL.
 >
@@ -1483,7 +1463,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/learning-vue-js-8602681/using-component-props?u=76281980&t=221)** So it's passing those properties down to the card component because we set up those computer properties we can just pass flipped for flipped isRepeat for isRepeat and so on.
 >
-> **[4:05](https://www.linkedin.com/learning/learning-vue-js-8602681/using-component-props?u=76281980&t=245)** One thing we need to be careful of though is that HTML attributes are not case sensitive.
+> **[4:05](https://www.linkedin.com/learning/learning-vue-js-8602681/using-component-props?u=76281980&t=245)** One thing we need to be careful of though is that [[HTML]] attributes are not case sensitive.
 >
 > **[4:10](https://www.linkedin.com/learning/learning-vue-js-8602681/using-component-props?u=76281980&t=250)** So instead of camel casing isRepeat we'll want to use a kebab case meaning a hyphen between is, and repeat.
 >
@@ -1505,7 +1485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (3), [[Forms]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[HTML]] (1)
 > **Code Identifiers:** isrepeat (6), readmoreurl (5)
 > **Env Vars:** url (5), html (1)
 > **Exercise Files:** template (3)
@@ -1514,8 +1494,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
-#### Configuring custom events
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-custom-events?u=76281980)
+#### [Configuring custom events](https://www.linkedin.com/learning/learning-vue-js-8602681/configuring-custom-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1579,7 +1558,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1), feature (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** isflipped (2)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1587,9 +1565,9 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1), - and (1)
 > **Exercise Files:** template (1)
 > **Warnings:** warning (1)
+> **Prerequisites:** set up (1)
 
-#### Using component slots
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/using-component-slots?u=76281980)
+#### [Using component slots](https://www.linkedin.com/learning/learning-vue-js-8602681/using-component-slots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1601,7 +1579,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/learning-vue-js-8602681/using-component-slots?u=76281980&t=15)** But, what if we wanted to allow someone to provide custom content for the link text?
 >
-> **[0:20](https://www.linkedin.com/learning/learning-vue-js-8602681/using-component-slots?u=76281980&t=20)** We could certainly use an additional prop, but, what if we want it to be even more flexible, and allow arbitrary HTML content there?
+> **[0:20](https://www.linkedin.com/learning/learning-vue-js-8602681/using-component-slots?u=76281980&t=20)** We could certainly use an additional prop, but, what if we want it to be even more flexible, and allow arbitrary [[HTML]] content there?
 >
 > **[0:29](https://www.linkedin.com/learning/learning-vue-js-8602681/using-component-slots?u=76281980&t=29)** That's where slots come in handy.
 >
@@ -1673,25 +1651,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Exercise Files:** template (9)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** url (5), html (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing Vue CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/installing-vue-cli?u=76281980)
+#### [Installing Vue CLI](https://www.linkedin.com/learning/learning-vue-js-8602681/installing-vue-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-vue-js-8602681/installing-vue-cli?u=76281980&t=0)** - [Tutor] The best way to work with Vue components is by defining them in files with the dot Vue extension and these are known as single file components.
+> **[0:00](https://www.linkedin.com/learning/learning-vue-js-8602681/installing-vue-cli?u=76281980&t=0)** - [Tutor] The best way to work with [[Vue.js|Vue]] components is by defining them in files with the dot Vue extension and these are known as single file components.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-vue-js-8602681/installing-vue-cli?u=76281980&t=9)** Here's a component called hello, defined in its own file as shown in the Vue guide.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-vue-js-8602681/installing-vue-cli?u=76281980&t=15)** Browsers can't natively support such files so they need to be compiled to JavaScript with a build tool like Webpack or Vue CLI or command-line interface which can configure Webpack for us and make the whole build process a lot simpler.
+> **[0:15](https://www.linkedin.com/learning/learning-vue-js-8602681/installing-vue-cli?u=76281980&t=15)** Browsers can't natively support such files so they need to be compiled to [[JavaScript]] with a build tool like Webpack or Vue [[CLI]] or command-line interface which can configure Webpack for us and make the whole build process a lot simpler.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-vue-js-8602681/installing-vue-cli?u=76281980&t=31)** Vue CLI is a mature system for rapid Vue.js development and it makes it incredibly fast to scaffold and configure a project that can make use of single file components.
+> **[0:31](https://www.linkedin.com/learning/learning-vue-js-8602681/installing-vue-cli?u=76281980&t=31)** Vue CLI is a mature system for rapid [[Vue.js]] development and it makes it incredibly fast to scaffold and configure a project that can make use of single file components.
 >
 > **[0:43](https://www.linkedin.com/learning/learning-vue-js-8602681/installing-vue-cli?u=76281980&t=43)** From the Vue guide, you'll find links to the Vue CLI docs in a few different places.
 >
@@ -1699,7 +1676,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/learning-vue-js-8602681/installing-vue-cli?u=76281980&t=51)** If I go down and click on Vue CLI and then click get started, I can click installation in the left-hand nav here.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-vue-js-8602681/installing-vue-cli?u=76281980&t=62)** I'm going to be using the NPM package manager provided by Node.js.
+> **[1:02](https://www.linkedin.com/learning/learning-vue-js-8602681/installing-vue-cli?u=76281980&t=62)** I'm going to be using the [[npm]] package manager provided by [[Node.js]].
 >
 > **[1:07](https://www.linkedin.com/learning/learning-vue-js-8602681/installing-vue-cli?u=76281980&t=67)** So I'm just going to copy this first command here.
 >
@@ -1707,13 +1684,13 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/learning-vue-js-8602681/installing-vue-cli?u=76281980&t=84)** Once that's taken care of, you should be able to install UCLI on your command line of choice using the NPM package manager, that's included with Node.
 >
-> **[1:34](https://www.linkedin.com/learning/learning-vue-js-8602681/installing-vue-cli?u=76281980&t=94)** I'm on a Windows machine using vs code.
+> **[1:34](https://www.linkedin.com/learning/learning-vue-js-8602681/installing-vue-cli?u=76281980&t=94)** I'm on a [[Windows]] machine using vs code.
 >
 > **[1:37](https://www.linkedin.com/learning/learning-vue-js-8602681/installing-vue-cli?u=76281980&t=97)** So, I'm going to open up a terminal with Control + backtick and then I'm just going to paste that command that I copied from the Vue CLI docs.
 >
 > **[1:48](https://www.linkedin.com/learning/learning-vue-js-8602681/installing-vue-cli?u=76281980&t=108)** I'm not going to talk about any of the initial output here because it's likely different on your machine.
 >
-> **[1:53](https://www.linkedin.com/learning/learning-vue-js-8602681/installing-vue-cli?u=76281980&t=113)** But once this is finished installing, we can tell that we've successfully installed the correct version if I go back to the Vue CLI docs and click on GitHub in the upper right.
+> **[1:53](https://www.linkedin.com/learning/learning-vue-js-8602681/installing-vue-cli?u=76281980&t=113)** But once this is finished installing, we can tell that we've successfully installed the correct version if I go back to the Vue CLI docs and click on [[GitHub]] in the upper right.
 >
 > **[2:04](https://www.linkedin.com/learning/learning-vue-js-8602681/installing-vue-cli?u=76281980&t=124)** I can see on the right side that the latest release is four dot five dot 11.
 >
@@ -1735,7 +1712,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/learning-vue-js-8602681/installing-vue-cli?u=76281980&t=203)** But for now, if we just click on this local host one, we should see that we're up and running on the Vue dev server.
 >
-> **[3:33](https://www.linkedin.com/learning/learning-vue-js-8602681/installing-vue-cli?u=76281980&t=213)** So to get a sense of how all of this works with the local development server, we can start in our flashcard app directory with index dot HTML in the public directory.
+> **[3:33](https://www.linkedin.com/learning/learning-vue-js-8602681/installing-vue-cli?u=76281980&t=213)** So to get a sense of how all of this works with the local development server, we can start in our flashcard app directory with index dot [[HTML]] in the public directory.
 >
 > **[3:48](https://www.linkedin.com/learning/learning-vue-js-8602681/installing-vue-cli?u=76281980&t=228)** You see here, the div with ID app, just like we had in the other version, you won't see any script tags on this HTML page because the development server will just automatically inject them as it says in this comment here.
 >
@@ -1773,7 +1750,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vue.js|Vue]] (18), [[CLI]] (6), [[npm]] (5), next (4), [[Node.js]] (3)
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (18), [[CLI]] (6), [[npm]] (5), [[Node.js]] (3), [[HTML]] (3)
 > **Env Vars:** cli (6), npm (5), html (3), ide (2), lts (1)
 > **CLI Commands:** npm (5), node (4), make (2), find (1), cd (1)
 > **File Paths:** node.js (3), vue.js (2)
@@ -1782,8 +1759,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (2), go back to (1)
 > **UI Navigation:** click on (3)
 
-#### Creating single file components
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-single-file-components?u=76281980)
+#### [Creating single file components](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-single-file-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1803,7 +1779,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-single-file-components?u=76281980&t=53)** Most single file components have a template element, a script element and a style element.
 >
-> **[1:05](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-single-file-components?u=76281980&t=65)** The script element will be used for defining our options object and then exporting it as a JavaScript module.
+> **[1:05](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-single-file-components?u=76281980&t=65)** The script element will be used for defining our options object and then exporting it as a [[JavaScript]] module.
 >
 > **[1:14](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-single-file-components?u=76281980&t=74)** So it's common to see here, export default instead of a named export, and then the options object.
 >
@@ -1837,7 +1813,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-single-file-components?u=76281980&t=194)** We'll register it as a local component by just adding deck name here and then we'll add it to the template.
 >
-> **[3:23](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-single-file-components?u=76281980&t=203)** So up here now that we're using Vue CLI and compiled templates, I can use the Pascal casing here.
+> **[3:23](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-single-file-components?u=76281980&t=203)** So up here now that we're using [[Vue.js|Vue]] [[CLI]] and compiled templates, I can use the Pascal casing here.
 >
 > **[3:31](https://www.linkedin.com/learning/learning-vue-js-8602681/creating-single-file-components?u=76281980&t=211)** I don't have to use the kebab casing as we were doing before which would be deck dash name all lowercase.
 >
@@ -1865,7 +1841,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), [[JavaScript]] (3), [[Vue.js|Vue]] (3), [[CLI]] (2), data (2)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Vue.js|Vue]] (3), [[CLI]] (2)
 > **Env Vars:** css (5), cli (2), ujs (1)
 > **CLI Commands:** make (3), find (1)
 > **Exercise Files:** template (3)
@@ -1879,12 +1855,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vue-js-8602681/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-vue-js-8602681/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-vue-js-8602681/next-steps?u=76281980&t=0)** - [Michael] I'll leave you now with a few ideas for where to focus next if you're interested in learning more and growing as a Vue developer.
+> **[0:00](https://www.linkedin.com/learning/learning-vue-js-8602681/next-steps?u=76281980&t=0)** - [Michael] I'll leave you now with a few ideas for where to focus next if you're interested in learning more and growing as a [[Vue.js|Vue]] developer.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-vue-js-8602681/next-steps?u=76281980&t=8)** First, even if you're the type of learner who doesn't always find value in reading through guides and documentation I would suggest at least giving the Vue Guide a try.
 >
@@ -1894,11 +1869,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/learning-vue-js-8602681/next-steps?u=76281980&t=36)** This describes how Vue instances are created, mounted and the process of updating data and re-rendering the DOM based on Vue's in memory representation of elements known as the Virtual DOM.
 >
-> **[0:50](https://www.linkedin.com/learning/learning-vue-js-8602681/next-steps?u=76281980&t=50)** If we had been using an API to fetch data for our example app, I would likely have used the created hook shown here.
+> **[0:50](https://www.linkedin.com/learning/learning-vue-js-8602681/next-steps?u=76281980&t=50)** If we had been using an API to [[Fetch]] data for our example app, I would likely have used the created hook shown here.
 >
-> **[0:58](https://www.linkedin.com/learning/learning-vue-js-8602681/next-steps?u=76281980&t=58)** This is fired when the instance is first created and it's quite common to tap into that event to make an AJAX call since you can't just declare data that's fetched asynchronously from an API in the data object, like we did with our cards array that was already available.
+> **[0:58](https://www.linkedin.com/learning/learning-vue-js-8602681/next-steps?u=76281980&t=58)** This is fired when the instance is first created and it's quite common to tap into that event to make an [[AJAX]] call since you can't just declare data that's fetched asynchronously from an API in the data object, like we did with our cards array that was already available.
 >
-> **[1:15](https://www.linkedin.com/learning/learning-vue-js-8602681/next-steps?u=76281980&t=75)** You'll also find out about other advanced features, like Vue Router, for building single page apps with client side routing and Vuex whose name is based on the flux pattern made popular by React.
+> **[1:15](https://www.linkedin.com/learning/learning-vue-js-8602681/next-steps?u=76281980&t=75)** You'll also find out about other advanced features, like Vue Router, for building single page apps with client side [[Routing]] and Vuex whose name is based on the [[Flux]] pattern made popular by [[React.js|React]].
 >
 > **[1:31](https://www.linkedin.com/learning/learning-vue-js-8602681/next-steps?u=76281980&t=91)** This can be a great solution for managing state and sharing data between components in more complex Vue apps.
 >
@@ -1910,9 +1885,9 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/learning-vue-js-8602681/next-steps?u=76281980&t=114)** I, myself, came to Vue years ago after seeing a tweet praising Vue for being innovative while also effectively borrowing things that already work well from existing frameworks.
 >
-> **[2:05](https://www.linkedin.com/learning/learning-vue-js-8602681/next-steps?u=76281980&t=125)** For more video content, please check out Ray Villalobos' Vue.js 3 Essential Training here on LinkedIn Learning.
+> **[2:05](https://www.linkedin.com/learning/learning-vue-js-8602681/next-steps?u=76281980&t=125)** For more video content, please check out Ray Villalobos' [[Vue.js]] 3 Essential Training here on [[LinkedIn]] Learning.
 >
-> **[2:13](https://www.linkedin.com/learning/learning-vue-js-8602681/next-steps?u=76281980&t=133)** I hope, by now, that you have enough of a feel for Vue to at least be able to determine whether you want to go deeper and perhaps even adopt it as your JavaScript framework of choice moving forward.
+> **[2:13](https://www.linkedin.com/learning/learning-vue-js-8602681/next-steps?u=76281980&t=133)** I hope, by now, that you have enough of a feel for Vue to at least be able to determine whether you want to go deeper and perhaps even adopt it as your [[JavaScript]] framework of choice moving forward.
 >
 > **[2:24](https://www.linkedin.com/learning/learning-vue-js-8602681/next-steps?u=76281980&t=144)** That's what I did over five years ago now.
 >
@@ -1922,7 +1897,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vue.js|Vue]] (10), data (5), dom (2), api (2), next (1)
+> **Frameworks & Libraries:** [[Vue.js|Vue]] (10), [[Fetch]] (1), [[AJAX]] (1), [[Routing]] (1), [[Flux]] (1)
 > **Env Vars:** dom (2), api (2), ajax (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (1), known as (1)

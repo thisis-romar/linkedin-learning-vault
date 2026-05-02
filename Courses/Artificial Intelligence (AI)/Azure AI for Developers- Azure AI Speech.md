@@ -82,14 +82,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What this course is about
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/what-this-course-is-about?u=76281980)
+#### [What this course is about](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/what-this-course-is-about?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/what-this-course-is-about?u=76281980&t=0)** - The way we interact with AI is changing rapidly and becoming more speech centric.
 >
-> **[0:05](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/what-this-course-is-about?u=76281980&t=5)** In this course, you'll explore how Azure AI speech is transforming AI interactions from speech to text, to text to speech to real time translation and language models.
+> **[0:05](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/what-this-course-is-about?u=76281980&t=5)** In this course, you'll explore how [[Microsoft Azure|Azure]] AI speech is transforming AI interactions from speech to text, to text to speech to real time translation and language models.
 >
 > **[0:16](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/what-this-course-is-about?u=76281980&t=16)** We'll start with the fundamentals and work our way up to advanced techniques covering integration strategies and customizations.
 >
@@ -99,7 +98,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/what-this-course-is-about?u=76281980&t=34)** Whether you're a seasoned developer or just starting your journey in AI, this course will empower you with the skills and confidence to harness Azure's state-of-the-art speech technologies.
 >
-> **[0:45](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/what-this-course-is-about?u=76281980&t=45)** I'm Marco Casalaina, VP of Products of Core AI at Microsoft, and I'll be your guide on this journey into voice-driven AI innovation.
+> **[0:45](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/what-this-course-is-about?u=76281980&t=45)** I'm Marco Casalaina, VP of [[Microsoft Products|Products]] of Core AI at [[Microsoft]], and I'll be your guide on this journey into voice-driven AI innovation.
 >
 > **[0:54](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/what-this-course-is-about?u=76281980&t=54)** What do you think, Marco Avatar, are you ready to get started?
 >
@@ -107,18 +106,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Microsoft Azure|Azure]] (2), [[Microsoft Products|Products]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Microsoft Products|Products]] (1), [[Microsoft]] (1)
 > **Speakers:** - the (1), - all (1)
 > **CLI Commands:** make (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/what-you-should-know?u=76281980&t=0)** - [Instructor] Let's consider the essential prerequisites you should have to get the most out of this course.
 >
-> **[0:05](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/what-you-should-know?u=76281980&t=5)** First, you'll need a basic understanding of Azure.
+> **[0:05](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/what-you-should-know?u=76281980&t=5)** First, you'll need a basic understanding of [[Microsoft Azure|Azure]].
 >
 > **[0:09](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/what-you-should-know?u=76281980&t=9)** You should be comfortable navigating the Azure portal and familiar with core Azure services.
 >
@@ -130,7 +128,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/what-you-should-know?u=76281980&t=33)** A quick note on languages.
 >
-> **[0:35](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/what-you-should-know?u=76281980&t=35)** While we'll be showcasing most examples in Python, Azure AI Speech is versatile and can be used with nearly any programming language.
+> **[0:35](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/what-you-should-know?u=76281980&t=35)** While we'll be showcasing most examples in [[Python (Programming Language)|Python]], Azure AI Speech is versatile and can be used with nearly any programming language.
 >
 > **[0:43](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/what-you-should-know?u=76281980&t=43)** Python has become one of the go-to languages for AI projects, which is why we've chosen it for clarity and ease of use in our demos.
 >
@@ -140,13 +138,13 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/what-you-should-know?u=76281980&t=69)** If you're comfortable with Azure fundamentals and have some development experience, you're ready to move on.
 >
-> **[1:14](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/what-you-should-know?u=76281980&t=74)** For those who might need a refresher, you might first try a few of the other LinkedIn learning courses, including one of my own, Introduction to Azure AI.
+> **[1:14](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/what-you-should-know?u=76281980&t=74)** For those who might need a refresher, you might first try a few of the other [[LinkedIn]] learning courses, including one of my own, Introduction to Azure AI.
 >
 > **[1:23](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/what-you-should-know?u=76281980&t=83)** Now, let's dive into the exciting world of Azure AI Speech.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), ai (5), [[Programming]] (2), [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** python (2)
 > **Tools:** azure portal (1)
 > **Prerequisites:** you'll need (1)
@@ -157,16 +155,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Common scenarios for Azure AI Speech
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/common-scenarios-for-azure-ai-speech?u=76281980)
+#### [Common scenarios for Azure AI Speech](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/common-scenarios-for-azure-ai-speech?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/common-scenarios-for-azure-ai-speech?u=76281980&t=0)** - [Narrator] So how do people actually use Azure AI Speech?
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/common-scenarios-for-azure-ai-speech?u=76281980&t=0)** - [Narrator] So how do people actually use [[Microsoft Azure|Azure]] AI Speech?
 >
 > **[0:03](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/common-scenarios-for-azure-ai-speech?u=76281980&t=3)** Let's find out.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/common-scenarios-for-azure-ai-speech?u=76281980&t=6)** Now, we're in the Speech Studio at speech.[microsoft.com](https://microsoft.com).
+> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/common-scenarios-for-azure-ai-speech?u=76281980&t=6)** Now, we're in the Speech Studio at speech.[[[Microsoft]].com](https://microsoft.com).
 >
 > **[0:10](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/common-scenarios-for-azure-ai-speech?u=76281980&t=10)** At the very top of the Speech Studio are some common scenarios in which Speech is used.
 >
@@ -184,7 +181,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/common-scenarios-for-azure-ai-speech?u=76281980&t=32)** - [Narrator] Or in real time.
 >
-> **[0:34](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/common-scenarios-for-azure-ai-speech?u=76281980&t=34)** - When you use the real-time captioning and transcription system in Microsoft Teams, you're using Azure AI Speech.
+> **[0:34](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/common-scenarios-for-azure-ai-speech?u=76281980&t=34)** - When you use the [[Real-Time]] captioning and transcription system in [[Microsoft Teams]], you're using Azure AI Speech.
 >
 > **[0:44](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/common-scenarios-for-azure-ai-speech?u=76281980&t=44)** - [Narrator] It can also be used for post-call transcription and analytics, transcribing, for example, a customer service call.
 >
@@ -222,7 +219,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), ai (4), [[Real-Time]] (2), [[Microsoft]] (1), [[Microsoft Teams]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Real-Time]] (2), [[Microsoft]] (1), [[Microsoft Teams]] (1)
 > **Speakers:** - [narrator] (5), - welcome (1), - when (1), - [customer (1), - [mary] (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Non-Speech:** (mouse clicking) (2)
@@ -236,32 +233,30 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How speech to text works
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/how-speech-to-text-works?u=76281980)
+#### [How speech to text works](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/how-speech-to-text-works?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/how-speech-to-text-works?u=76281980&t=0)** - [Instructor] We'll begin with Speech to Text.
 >
-> **[0:03](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/how-speech-to-text-works?u=76281980&t=3)** As its name suggests, this function takes in speech in various forms and outputs text.
+> **[0:03](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/how-speech-to-text-works?u=76281980&t=3)** As its name suggests, this function takes in speech in various [[Forms]] and outputs text.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/how-speech-to-text-works?u=76281980&t=9)** We'll start with the Transcription functions, which are divided into three sub-functions.
 >
-> **[0:15](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/how-speech-to-text-works?u=76281980&t=15)** There's real-time transcription, fast transcription, and batch transcription, and you use each one to solve different problems.
+> **[0:15](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/how-speech-to-text-works?u=76281980&t=15)** There's [[Real-Time]] transcription, fast transcription, and batch transcription, and you use each one to solve different problems.
 
 > [!info]- Semantic Content
 >
 > **Frameworks & Libraries:** [[Forms]] (1), [[Real-Time]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transcription
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980)
+#### [Transcription](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=0)** - [Instructor] So let's have a look at these transcription functions.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=4)** To demonstrate this part, we'll use the Azure AI Foundry at ai.[azure.com](https://azure.com).
+> **[0:04](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=4)** To demonstrate this part, we'll use the [[Azure AI Foundry]] at ai.[[[Microsoft Azure|azure]].com](https://azure.com).
 >
 > **[0:10](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=10)** To get started in the Azure AI Foundry, you're going to want to create a project.
 >
@@ -269,13 +264,13 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=23)** Once you've got your project, you can find the Azure AI speech functions in the Speech Playground.
 >
-> **[0:29](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=29)** Let's begin with real-time transcription.
+> **[0:29](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=29)** Let's begin with [[Real-Time]] transcription.
 >
-> **[0:32](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=32)** You would use real-time transcription, as the name suggests, when you need to transcribe something in real time, as we did earlier in Microsoft Teams.
+> **[0:32](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=32)** You would use real-time transcription, as the name suggests, when you need to transcribe something in real time, as we did earlier in [[Microsoft Teams]].
 >
 > **[0:40](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=40)** Here in the Playground, you can try it just by recording something with your microphone.
 >
-> **[0:45](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=45)** Hey, LinkedIn learners.
+> **[0:45](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=45)** Hey, [[LinkedIn]] learners.
 >
 > **[0:46](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=46)** What's going on?
 >
@@ -297,11 +292,11 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=96)** You can choose whether you want a detailed output format with timestamps and all kinds of little lexical outputs, or a simple output that just emits the timestamps and the text.
 >
-> **[1:46](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=106)** And you can give it a set of known words and phrases so that, for example, when somebody says the word LinkedIn, it doesn't come out as Linked In, two words.
+> **[1:46](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=106)** And you can give it a set of known words and phrases so that, for example, when somebody says the [[Microsoft Word|word]] LinkedIn, it doesn't come out as Linked In, two words.
 >
 > **[1:57](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=117)** Now since this is a course for developers, this is probably a good time to take a look at the View code button.
 >
-> **[2:03](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=123)** This points us to some documentation and a quick start, but most importantly, the sample code that you can find in GitHub.
+> **[2:03](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=123)** This points us to some documentation and a quick start, but most importantly, the sample code that you can find in [[GitHub]].
 >
 > **[2:10](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=130)** This repository is called cognitive-services-speech-sdk.
 >
@@ -309,7 +304,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=140)** In this samples directory, you'll find a whole bunch of different samples in all number of languages.
 >
-> **[2:26](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=146)** Here we'll be using Python, and in the console directory, we'll find the transcription sample that we'll be using now.
+> **[2:26](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=146)** Here we'll be using [[Python (Programming Language)|Python]], and in the console directory, we'll find the transcription sample that we'll be using now.
 >
 > **[2:32](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=152)** So let's switch over to VS Code to do some proper development.
 >
@@ -323,7 +318,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=187)** And rather than hard-code these into the code, I actually set these to go to some environment variables.
 >
-> **[3:13](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=193)** In reality, I used GitHub Copilot Edits to make this change across all of the Python in these samples because GitHub Copilot Edits can make changes across a wide swath of files.
+> **[3:13](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=193)** In reality, I used [[GitHub Copilot]] Edits to make this change across all of the Python in these samples because GitHub Copilot Edits can make changes across a wide swath of files.
 >
 > **[3:25](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=205)** So if you're using GitHub Copilot, this is a great way to be able to do this across all of the sample files or all the files in a set that you want to change.
 >
@@ -331,7 +326,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=218)** Regardless, you do need to set your key and your region in here, and so my environment and my code is all set up.
 >
-> **[3:47](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=227)** And let's go ahead and run this in PowerShell just so we can see it a little more clearly.
+> **[3:47](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=227)** And let's go ahead and run this in [[Powershell]] just so we can see it a little more clearly.
 >
 > **[3:52](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/transcription?u=76281980&t=232)** The samples I'm using here are a set of console apps, and the main file of these console apps is called main.py, from which you can run a number of these speech samples.
 >
@@ -409,7 +404,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (7), [[LinkedIn]] (6), [[Python (Programming Language)|Python]] (6), [[Microsoft Azure|Azure]] (5), ai (4)
+> **Frameworks & Libraries:** [[Real-Time]] (7), [[LinkedIn]] (6), [[Python (Programming Language)|Python]] (6), [[Microsoft Azure|Azure]] (5), [[Azure AI Foundry]] (3)
 > **CLI Commands:** python (6), find (4), make (2)
 > **Prerequisites:** set up (6), install (2), you'll need (1)
 > **Tools:** github (4), vs code (2), powershell (1)
@@ -418,18 +413,17 @@ created: 2026-05-02
 > **Env Vars:** sdk (2), url (1)
 > **File Paths:** main.py (1), transcription_sample.py (1)
 
-#### Customizing speech to text
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/customizing-speech-to-text?u=76281980)
+#### [Customizing speech to text](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/customizing-speech-to-text?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/customizing-speech-to-text?u=76281980&t=0)** - [Instructor] Azure AI's speech to text is astonishingly accurate out of the box for a wide variety of languages and vocabulary, but sometimes you need to customize it for your specific scenario so it gets it just right.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/customizing-speech-to-text?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] AI's speech to text is astonishingly accurate out of the box for a wide variety of languages and vocabulary, but sometimes you need to customize it for your specific scenario so it gets it just right.
 >
 > **[0:13](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/customizing-speech-to-text?u=76281980&t=13)** There are two different ways that you can customize the output of speech to text.
 >
 > **[0:17](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/customizing-speech-to-text?u=76281980&t=17)** You can use phrase lists for quick ad hoc customization or custom speech for deeper customization.
 >
-> **[0:25](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/customizing-speech-to-text?u=76281980&t=25)** Phrase lists are a quick and easy way to improve speech recognition for unique words and phrases.
+> **[0:25](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/customizing-speech-to-text?u=76281980&t=25)** Phrase lists are a quick and easy way to improve [[Speech Recognition]] for unique words and phrases.
 >
 > **[0:31](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/customizing-speech-to-text?u=76281980&t=31)** They're great for things like names, places, or industry specific jargon.
 >
@@ -437,7 +431,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/customizing-speech-to-text?u=76281980&t=38)** You provide the list right before you start.
 >
-> **[0:41](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/customizing-speech-to-text?u=76281980&t=41)** Like in the last chapter when I added the phrase LinkedIn.
+> **[0:41](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/customizing-speech-to-text?u=76281980&t=41)** Like in the last chapter when I added the phrase [[LinkedIn]].
 >
 > **[0:44](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/customizing-speech-to-text?u=76281980&t=44)** So there's no need to train a custom model and they're lightweight.
 >
@@ -457,9 +451,9 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/customizing-speech-to-text?u=76281980&t=97)** Here in the AI Foundry, you can find a few examples of when you might want to use custom speech.
 >
-> **[1:43](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/customizing-speech-to-text?u=76281980&t=103)** For example, here, we want it to take in biological input rather than translating a certain word as Cory Gibbs, we might want it to translate it as coragyps.
+> **[1:43](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/customizing-speech-to-text?u=76281980&t=103)** For example, here, we want it to take in biological input rather than translating a certain [[Microsoft Word|word]] as Cory Gibbs, we might want it to translate it as coragyps.
 >
-> **[1:53](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/customizing-speech-to-text?u=76281980&t=113)** You could try making a custom speech model yourself right here in the Azure AI Foundry.
+> **[1:53](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/customizing-speech-to-text?u=76281980&t=113)** You could try making a custom speech model yourself right here in the [[Azure AI Foundry]].
 >
 > **[1:58](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/customizing-speech-to-text?u=76281980&t=118)** Just press the fine tune speech button at the top of the custom speech section, that will give you the option to customize speech to text.
 >
@@ -529,7 +523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Word|Word]] (4), ai (2), [[Microsoft Azure|Azure]] (1), [[Speech Recognition]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Microsoft Azure|Azure]] (1), [[Speech Recognition]] (1), [[LinkedIn]] (1), [[Azure AI Foundry]] (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** find (2)
 > **Env Vars:** sdk (1)
@@ -538,14 +532,13 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing between the OpenAI Whisper and Azure Speech models
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/choosing-between-openai-whisper-vs-azure-speech-models?u=76281980)
+#### [Choosing between the OpenAI Whisper and Azure Speech models](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/choosing-between-openai-whisper-vs-azure-speech-models?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/choosing-between-openai-whisper-vs-azure-speech-models?u=76281980&t=0)** - [Instructor] Let's dive into how you choose the right model for your speech to text tasks.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/choosing-between-openai-whisper-vs-azure-speech-models?u=76281980&t=6)** As you've seen in the prior chapters, you have a number of choices when you're using speech to text in Azure.
+> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/choosing-between-openai-whisper-vs-azure-speech-models?u=76281980&t=6)** As you've seen in the prior chapters, you have a number of choices when you're using speech to text in [[Microsoft Azure|Azure]].
 >
 > **[0:12](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/choosing-between-openai-whisper-vs-azure-speech-models?u=76281980&t=12)** You can choose the prebuilt Azure speech models or the Whisper models produced by OpenAI, or you can build a custom model with your own data.
 >
@@ -563,13 +556,13 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/choosing-between-openai-whisper-vs-azure-speech-models?u=76281980&t=54)** They also offer both synchronous and asynchronous modes.
 >
-> **[0:58](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/choosing-between-openai-whisper-vs-azure-speech-models?u=76281980&t=58)** So as we saw in the earlier chapter on transcription, you can use them in batch, but also for real-time applications or for applications where you need the transcript soon after the audio is recorded.
+> **[0:58](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/choosing-between-openai-whisper-vs-azure-speech-models?u=76281980&t=58)** So as we saw in the earlier chapter on transcription, you can use them in batch, but also for [[Real-Time]] applications or for applications where you need the transcript soon after the audio is recorded.
 >
 > **[1:09](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/choosing-between-openai-whisper-vs-azure-speech-models?u=76281980&t=69)** In contrast, the integrated open AI Whisper model excels when dealing with more challenging audio scenarios.
 >
 > **[1:16](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/choosing-between-openai-whisper-vs-azure-speech-models?u=76281980&t=76)** Think multi-language content, varied accents, or recordings with significant background noise.
 >
-> **[1:23](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/choosing-between-openai-whisper-vs-azure-speech-models?u=76281980&t=83)** Whisper prioritizes fluency of output over exact word for word transcription, but it can only be used asynchronously and is not made for real time transcription.
+> **[1:23](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/choosing-between-openai-whisper-vs-azure-speech-models?u=76281980&t=83)** Whisper prioritizes fluency of output over exact [[Microsoft Word|word]] for word transcription, but it can only be used asynchronously and is not made for real time transcription.
 >
 > **[1:33](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/choosing-between-openai-whisper-vs-azure-speech-models?u=76281980&t=93)** If your transcription tasks involve non-standard audio, consider using Whisper.
 >
@@ -583,23 +576,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), data (2), [[Microsoft Word|Word]] (2), [[Real-Time]] (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Microsoft Word|Word]] (2), [[Real-Time]] (1)
 > **Cross-References:** as we saw (2), in the last (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Speech translation
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/speech-translation?u=76281980)
+#### [Speech translation](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/speech-translation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/speech-translation?u=76281980&t=0)** - [Narrator] The last function we'll explore in this speech-to-text chapter is speech translation.
 >
-> **[0:07](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/speech-translation?u=76281980&t=7)** Azure AI speech translation delivers both real-time and batch language conversion.
+> **[0:07](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/speech-translation?u=76281980&t=7)** [[Microsoft Azure|Azure]] AI speech translation delivers both [[Real-Time]] and batch language conversion.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/speech-translation?u=76281980&t=12)** It supports over 100 languages and like the other speech-to-text functions we covered earlier, it integrates easily into your applications using the same simple SDK.
 >
-> **[0:23](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/speech-translation?u=76281980&t=23)** Here we see speech translation in Azure AI Foundry.
+> **[0:23](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/speech-translation?u=76281980&t=23)** Here we see speech translation in [[Azure AI Foundry]].
 >
 > **[0:27](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/speech-translation?u=76281980&t=27)** It's pretty simple.
 >
@@ -609,7 +601,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/speech-translation?u=76281980&t=44)** So all you have to do to try out this speech translation is press the record button.
 >
-> **[0:51](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/speech-translation?u=76281980&t=51)** Hello LinkedIn learners.
+> **[0:51](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/speech-translation?u=76281980&t=51)** Hello [[LinkedIn]] learners.
 >
 > **[0:52](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/speech-translation?u=76281980&t=52)** How are you doing today?
 >
@@ -633,7 +625,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/speech-translation?u=76281980&t=90)** Let's actually try this in the command line now.
 >
-> **[1:33](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/speech-translation?u=76281980&t=93)** Starting from the top, we'll activate our main Python file and here number two gives us the translation sample.
+> **[1:33](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/speech-translation?u=76281980&t=93)** Starting from the top, we'll activate our main [[Python (Programming Language)|Python]] file and here number two gives us the translation sample.
 >
 > **[1:42](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/speech-translation?u=76281980&t=102)** And we'll do translation once from the microphone, which is number zero.
 >
@@ -645,7 +637,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (2), [[Microsoft Azure|Azure]] (1), ai (1), [[Azure AI Foundry]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Microsoft Azure|Azure]] (1), [[Azure AI Foundry]] (1), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** vs code (1), command line (1)
 > **Speakers:** - [narrator] (2)
 > **File Paths:** translation_sample.py (1)
@@ -659,12 +651,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Text to speech: Azure Voice Gallery
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980)
+#### [Text to speech: Azure Voice Gallery](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=0)** - [Instructor] Now we're going to switch gears a bit and talk about Text to Speech in Azure AI Speech.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=0)** - [Instructor] Now we're going to switch gears a bit and talk about Text to Speech in [[Microsoft Azure|Azure]] AI Speech.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=7)** Azure Text to Speech is really quite a complete package.
 >
@@ -676,7 +667,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=25)** As with the tools we've studied in this course so far, it's remarkably easy to integrate into applications in code.
 >
-> **[0:33](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=33)** Well, the easiest way to experience Text to Speech is to go back to the playground, the Speech Playground that is, in Azure AI Foundry, and click on the Text to Speech header.
+> **[0:33](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=33)** Well, the easiest way to experience Text to Speech is to go back to the playground, the Speech Playground that is, in [[Azure AI Foundry]], and click on the Text to Speech header.
 >
 > **[0:43](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=43)** And here we have the voice gallery.
 >
@@ -688,7 +679,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=57)** These are always fun names, and many of them you can try out like this.
 >
-> **[1:09](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=69)** - [Ava] Hello, LinkedIn Learners.
+> **[1:09](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=69)** - [Ava] Hello, [[LinkedIn]] Learners.
 >
 > **[1:11](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=71)** - [Instructor] Let's try that with Brian instead.
 >
@@ -702,9 +693,9 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=89)** - [Instructor] Between the multilingual voices and the dedicated language voices, Azure AI Speech has support for hundreds of languages and dialects.
 >
-> **[1:38](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=98)** This seems like as good a time as any to introduce the Azure AI Speech CLI, or command line interface.
+> **[1:38](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=98)** This seems like as good a time as any to introduce the Azure AI Speech [[CLI]], or command line interface.
 >
-> **[1:45](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=105)** First, you'll need to have installed .NET 6 on whatever platform you happen to be using, and then you can say, "dotnet tool install --global Microsoft.CognitiveServices.Speech.CLI" Now I have the CI installed.
+> **[1:45](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=105)** First, you'll need to have installed .NET 6 on whatever platform you happen to be using, and then you can say, "dotnet tool install --global [[Microsoft]].CognitiveServices.Speech.CLI" Now I have the CI installed.
 >
 > **[2:00](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=120)** It's called SPX.
 >
@@ -712,9 +703,9 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=128)** I would recommend you not make the same mistake I did.
 >
-> **[2:11](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=131)** Don't do this in PowerShell, because the @key thing will confuse PowerShell.
+> **[2:11](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=131)** Don't do this in [[Powershell]], because the @key thing will confuse PowerShell.
 >
-> **[2:16](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=136)** So just do it in Windows in a regular old command prompt if you're in Windows.
+> **[2:16](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=136)** So just do it in [[Windows]] in a regular old command prompt if you're in Windows.
 >
 > **[2:21](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=141)** Replace this with your speech key.
 >
@@ -724,7 +715,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=150)** Now let's take a look at all the available voices.
 >
-> **[2:32](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=152)** Oh my word.
+> **[2:32](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=152)** Oh my [[Microsoft Word|word]].
 >
 > **[2:34](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/text-to-speech-azure-voice-gallery?u=76281980&t=154)** Well, there are a lot of them.
 >
@@ -744,7 +735,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[CLI]] (5), ai (4), [[LinkedIn]] (3), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[CLI]] (5), [[LinkedIn]] (3), [[Microsoft]] (2), [[Powershell]] (2)
 > **Speakers:** - [instructor] (5), - [ava] (2), - [brian] (1), - [samuel] (1)
 > **Env Vars:** cli (5), spx (2), net (1)
 > **Tools:** powershell (2), command line (1), command prompt (1)
@@ -753,14 +744,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
 
-#### Audio content creation
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980)
+#### [Audio content creation](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980&t=0)** - [Narrator] Let's look at how audio can be created on Mass.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980&t=4)** We'll use a tool called Audio Content Creation, but first, we should discuss how to produce human-like output with Azure AI Speech.
+> **[0:04](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980&t=4)** We'll use a tool called Audio [[Content Creation]], but first, we should discuss how to produce human-like output with [[Microsoft Azure|Azure]] AI Speech.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980&t=12)** The trick is to use Speech Synthesis Markup Language, or SSML.
 >
@@ -790,7 +780,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980&t=79)** Fortunately, there's a tool called Audio Content Creation, which can help you construct it.
 >
-> **[1:25](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980&t=85)** As of this recording, Audio Content Creation is not yet available in the Azure AI Foundry portal, so we'll get there via the Speech Studio at speech.[microsoft.com](https://microsoft.com).
+> **[1:25](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980&t=85)** As of this recording, Audio Content Creation is not yet available in the [[Azure AI Foundry]] portal, so we'll get there via the Speech Studio at speech.[[[Microsoft]].com](https://microsoft.com).
 >
 > **[1:54](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980&t=114)** Here I can produce natural sounding speech using all of the features of SSML.
 >
@@ -802,7 +792,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980&t=143)** I can add silence or change the rate at which the voice speaks, and I can even use multiple voices in the same file.
 >
-> **[2:38](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980&t=158)** - [Jenny] Hello, LinkedIn Learners.
+> **[2:38](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980&t=158)** - [Jenny] Hello, [[LinkedIn]] Learners.
 >
 > **[2:40](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980&t=160)** - [Marco] It's great to see you.
 >
@@ -810,9 +800,9 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980&t=169)** You know what else is really good at generating SSML?
 >
-> **[2:51](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980&t=171)** GPT-4.
+> **[2:51](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980&t=171)** [[GPT-4]].
 >
-> **[2:53](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980&t=173)** And so here I've got the latest GPT-4o model as of this recording, and I'm going to tell it to make some SSML and welcome LinkedIn Learners and then make me the CLI call for that.
+> **[2:53](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980&t=173)** And so here I've got the latest GPT-4o model as of this recording, and I'm going to tell it to make some SSML and welcome LinkedIn Learners and then make me the [[CLI]] call for that.
 >
 > **[3:03](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/audio-content-creation?u=76281980&t=183)** All right, we got that. Let's try it out.
 >
@@ -824,7 +814,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Content Creation]] (3), [[LinkedIn]] (3), [[Microsoft Azure|Azure]] (2), ai (2), functional (1)
+> **Frameworks & Libraries:** [[Content Creation]] (3), [[LinkedIn]] (3), [[Microsoft Azure|Azure]] (2), [[Azure AI Foundry]] (1), [[Microsoft]] (1)
 > **Env Vars:** ssml (8), gpt (2), gps (1), cli (1)
 > **Speakers:** - [narrator] (5), - [navigator] (2), - [jenny] (1), - [marco] (1), - [computer] (1)
 > **CLI Commands:** make (2)
@@ -832,18 +822,17 @@ created: 2026-05-02
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Definitions:** is a  (1)
 
-#### Custom voices
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980)
+#### [Custom voices](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=0)** - [Instructor] You can synthesize entirely custom voices in Azure AI Speech.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=0)** - [Instructor] You can synthesize entirely custom voices in [[Microsoft Azure|Azure]] AI Speech.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=5)** There are a few different ways to do it, which we will go through now.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=10)** First, there's Custom Neural Voice.
 >
-> **[0:12](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=12)** Custom Neural Voice is ideal for creating branded voices for virtual assistants, interactive voice response, or IVR systems, and other applications where a distinct voice can enhance the user experience.
+> **[0:12](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=12)** Custom Neural Voice is ideal for creating branded voices for virtual assistants, [[Interactive Voice Response (IVR)|interactive voice response]], or IVR systems, and other applications where a distinct voice can enhance the [[User Experience (UX)|user experience]].
 >
 > **[0:26](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=26)** This feature is commonly used in many cars, devices, public transit stations, and applications.
 >
@@ -851,7 +840,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=41)** As of this recording, Custom Neural Voice is only available in the Speech Studio.
 >
-> **[0:45](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=45)** It's not yet in Azure AI Foundry, and so we'll have a look at it here.
+> **[0:45](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=45)** It's not yet in [[Azure AI Foundry]], and so we'll have a look at it here.
 >
 > **[0:49](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=49)** You can find it under Text to speech, Custom Voice.
 >
@@ -867,7 +856,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=72)** To use Custom Neural Voice Pro, you need to apply for eligibility through an intake form.
 >
-> **[1:18](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=78)** You have to have an Azure account and a Speech service subscription with the S0 tier, and you need explicit written permission from the voice talent, and you have to adhere to our responsible AI principles.
+> **[1:18](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=78)** You have to have an Azure account and a Speech service subscription with the S0 tier, and you need explicit written permission from the voice talent, and you have to adhere to our [[Responsible AI]] principles.
 >
 > **[1:29](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=89)** This is how we ensure that people aren't using our voice synthesis capabilities nefariously.
 >
@@ -931,7 +920,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=270)** And once I've deployed it, I can test it.
 >
-> **[4:32](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=272)** - [Custom Neural Voice] Hello, LinkedIn learners.
+> **[4:32](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=272)** - [Custom Neural Voice] Hello, [[LinkedIn]] learners.
 >
 > **[4:34](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=274)** Great to see you.
 >
@@ -949,7 +938,7 @@ created: 2026-05-02
 >
 > **[5:26](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=326)** First, I have to enter my name and my company, and now I just need to read what's written here.
 >
-> **[5:32](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=332)** "I, Marco Casalaina, am aware that recordings of my voice will be used by Microsoft to create and use a synthetic version of my voice."
+> **[5:32](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=332)** "I, Marco Casalaina, am aware that recordings of my voice will be used by [[Microsoft]] to create and use a synthetic version of my voice."
 >
 > **[5:42](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=342)** It'll rate it for clearness, pronunciation, and volume.
 >
@@ -969,15 +958,15 @@ created: 2026-05-02
 >
 > **[6:20](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=380)** (Personal Voice speaking French) Or maybe in Japanese.
 >
-> **[6:28](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=388)** (Personal Voice speaking Japanese) So the Personal Voice is intended for personal uses like this, and in fact, the most increasingly common use case of it is in Microsoft Teams, which can do realtime translation in your own voice.
+> **[6:28](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=388)** (Personal Voice speaking Japanese) So the Personal Voice is intended for personal uses like this, and in fact, the most increasingly common use case of it is in [[Microsoft Teams]], which can do realtime translation in your own voice.
 >
-> **[6:45](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=405)** Here's an example of Teams translating my colleague, Bogdan Crivat, from Romanian to English in real-time using speech translation and his personal voice.
+> **[6:45](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=405)** Here's an example of Teams translating my colleague, Bogdan Crivat, from Romanian to English in [[Real-Time]] using speech translation and his personal voice.
 >
 > **[6:54](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=414)** (Bogdan speaking Romanian)
 >
 > **[6:58](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=418)** - [Synthesized Voice] Certainly.
 >
-> **[7:05](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=425)** Co-Fabric is a complete data analysis platform where you will find all Microsoft products for data analysis.
+> **[7:05](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=425)** Co-Fabric is a complete data analysis platform where you will find all [[Microsoft Products]] for data analysis.
 >
 > **[7:12](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/custom-voices?u=76281980&t=432)** - [Instructor] So how do you choose between them?
 >
@@ -993,7 +982,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Azure|Azure]] (4), ai (4), [[Responsible AI]] (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Responsible AI]] (2), [[Microsoft]] (2), [[Interactive Voice Response (IVR)|Interactive voice response]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (5), find (3)
 > **Speakers:** - [instructor] (4), - [custom (1), - [personal (1), - [synthesized (1)
 > **Definitions:** is a  (2), is called (1)
@@ -1005,8 +994,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Combining speech with avatars
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/combining-speech-with-avatars?u=76281980)
+#### [Combining speech with avatars](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/combining-speech-with-avatars?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1014,13 +1002,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/combining-speech-with-avatars?u=76281980&t=7)** - Hello, I'm the standard avatar called Lisa.
 >
-> **[0:11](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/combining-speech-with-avatars?u=76281980&t=11)** I can be paired with any Azure AI speech voice.
+> **[0:11](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/combining-speech-with-avatars?u=76281980&t=11)** I can be paired with any [[Microsoft Azure|Azure]] AI speech voice.
 >
 > **[0:13](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/combining-speech-with-avatars?u=76281980&t=13)** I'm currently using the Ava voice. Isn't that exciting?
 >
 > **[0:17](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/combining-speech-with-avatars?u=76281980&t=17)** Imagine the possibilities.
 >
-> **[0:19](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/combining-speech-with-avatars?u=76281980&t=19)** Whether you're looking for customer support, virtual assistants, or just a friendly voice, I'm here to help.
+> **[0:19](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/combining-speech-with-avatars?u=76281980&t=19)** Whether you're looking for [[Customer Support]], virtual assistants, or just a friendly voice, I'm here to help.
 >
 > **[0:27](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/combining-speech-with-avatars?u=76281980&t=27)** - [Instructor] So how did I make that avatar?
 >
@@ -1030,9 +1018,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/combining-speech-with-avatars?u=76281980&t=39)** I can type something right in the box here and generate a video of it.
 >
-> **[0:50](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/combining-speech-with-avatars?u=76281980&t=50)** - Hello, LinkedIn learners.
+> **[0:50](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/combining-speech-with-avatars?u=76281980&t=50)** - Hello, [[LinkedIn]] learners.
 >
-> **[0:53](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/combining-speech-with-avatars?u=76281980&t=53)** - [Instructor] But in this case, I decided to use some SSML that I generated with GPT-4 as we did earlier in this course, and that's what produced the video you saw.
+> **[0:53](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/combining-speech-with-avatars?u=76281980&t=53)** - [Instructor] But in this case, I decided to use some SSML that I generated with [[GPT-4]] as we did earlier in this course, and that's what produced the video you saw.
 >
 > **[1:02](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/combining-speech-with-avatars?u=76281980&t=62)** You can also put your avatar in front of a custom background.
 >
@@ -1062,7 +1050,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), ai (2), [[LinkedIn]] (2), [[Customer Support]] (1), [[GPT-4]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[LinkedIn]] (2), [[Customer Support]] (1), [[GPT-4]] (1)
 > **Speakers:** - [instructor] (5), - hello (2), - now (1), - avatars (1)
 > **Env Vars:** ssml (4), gpt (1)
 > **CLI Commands:** make (2), find (1)
@@ -1070,8 +1058,7 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Documentation:** the documentation (1)
 
-#### Building custom avatars
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/building-custom-avatars?u=76281980)
+#### [Building custom avatars](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/building-custom-avatars?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1109,11 +1096,11 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/building-custom-avatars?u=76281980&t=109)** Like custom neural voice, this can take some hours or even days.
 >
-> **[1:54](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/building-custom-avatars?u=76281980&t=114)** You can then deploy the avatar for use with either batch or real-time avatar scenarios.
+> **[1:54](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/building-custom-avatars?u=76281980&t=114)** You can then deploy the avatar for use with either batch or [[Real-Time]] avatar scenarios.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), data (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1)
 > **Analogies:** similar to (1)
@@ -1121,8 +1108,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - you (1)
 
-#### Live chat avatars
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/live-chat-avatars?u=76281980)
+#### [Live chat avatars](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/live-chat-avatars?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1132,7 +1118,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/live-chat-avatars?u=76281980&t=7)** - [Instructor] So tell me the process for using live chat with an avatar.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/live-chat-avatars?u=76281980&t=14)** - One, set up Azure AI speech in your Azure subscription.
+> **[0:14](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/live-chat-avatars?u=76281980&t=14)** - One, set up [[Microsoft Azure|Azure]] AI speech in your Azure subscription.
 >
 > **[0:18](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/live-chat-avatars?u=76281980&t=18)** Two, integrate the speech service with your avatar platform.
 >
@@ -1140,13 +1126,13 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/live-chat-avatars?u=76281980&t=29)** - [Instructor] You'll find sample code for this available in all manner of different languages.
 >
-> **[0:34](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/live-chat-avatars?u=76281980&t=34)** For example, in Cognitive Services Speech SDK, you'll find there's a chat.html and a chat.py.
+> **[0:34](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/live-chat-avatars?u=76281980&t=34)** For example, in Cognitive Services Speech SDK, you'll find there's a chat.[[HTML]] and a chat.py.
 >
-> **[0:42](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/live-chat-avatars?u=76281980&t=42)** So both in HTML and Python, there are sample files on how to use and embed these realtime avatars into your application.
+> **[0:42](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/live-chat-avatars?u=76281980&t=42)** So both in HTML and [[Python (Programming Language)|Python]], there are sample files on how to use and embed these realtime avatars into your application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[HTML]] (2), ai (1), [[Python (Programming Language)|Python]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[HTML]] (2), [[Python (Programming Language)|Python]] (1)
 > **Speakers:** - [instructor] (3), - you (1), - one (1)
 > **CLI Commands:** find (2), python (1)
 > **File Paths:** chat.html (1), chat.py (1)
@@ -1160,12 +1146,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Video translation
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/video-translation?u=76281980)
+#### [Video translation](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/video-translation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/video-translation?u=76281980&t=0)** - Now we're going to take a look at some of the more advanced functions of Azure AI speech, and it starts with video translation.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/video-translation?u=76281980&t=0)** - Now we're going to take a look at some of the more advanced functions of [[Microsoft Azure|Azure]] AI speech, and it starts with video translation.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/video-translation?u=76281980&t=8)** Well, up to this point, I have shown some video translation in teams, but you can use Azure AI speech to actually translate your own videos in batch.
 >
@@ -1215,12 +1200,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Microsoft Azure|Azure]] (3), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3)
 > **CLI Commands:** make (3), find (1)
 > **Speakers:** - now (1)
 
-#### Pronunciation assessment
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/pronunciation-assessment?u=76281980)
+#### [Pronunciation assessment](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/pronunciation-assessment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1238,11 +1222,11 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/pronunciation-assessment?u=76281980&t=46)** The countryside was in full bloom, yet the air was crisp and cold.
 >
-> **[0:51](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/pronunciation-assessment?u=76281980&t=51)** Towards the end of the day, clouds came in, forecasting much needed rain."
+> **[0:51](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/pronunciation-assessment?u=76281980&t=51)** Towards the end of the day, clouds came in, [[Forecasting]] much needed rain."
 >
 > **[0:58](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/pronunciation-assessment?u=76281980&t=58)** Now, I intentionally made a mistake there so that it should be able to catch my mispronunciation.
 >
-> **[1:07](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/pronunciation-assessment?u=76281980&t=67)** And you can see here that it caught the fact that I said the word "inside" instead of "outside."
+> **[1:07](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/pronunciation-assessment?u=76281980&t=67)** And you can see here that it caught the fact that I said the [[Microsoft Word|word]] "inside" instead of "outside."
 >
 > **[1:14](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/pronunciation-assessment?u=76281980&t=74)** And my overall pronunciation score was an 89, with my fluency and prosody taking a hit here.
 >
@@ -1252,13 +1236,13 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/pronunciation-assessment?u=76281980&t=102)** And as always, sample code is provided in many different languages.
 >
-> **[1:48](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/pronunciation-assessment?u=76281980&t=108)** In C Sharp, Java, JavaScript, and Python.
+> **[1:48](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/pronunciation-assessment?u=76281980&t=108)** In C Sharp, [[Java]], [[JavaScript]], and [[Python (Programming Language)|Python]].
 >
 > **[1:51](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/pronunciation-assessment?u=76281980&t=111)** It's available here in the studio, and also in the cognitive services speech SDK repo.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forecasting]] (1), [[Microsoft Word|Word]] (1), hit (1), [[Java]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1), [[Microsoft Word|Word]] (1), [[Java]] (1), [[JavaScript]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** sdk (1)
 > **Cross-References:** earlier in (1)
@@ -1266,12 +1250,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Azure Content Understanding for audio and video
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/using-azure-content-understanding-for-audio-and-video?u=76281980)
+#### [Using Azure Content Understanding for audio and video](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/using-azure-content-understanding-for-audio-and-video?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/using-azure-content-understanding-for-audio-and-video?u=76281980&t=0)** - [Instructor] Now we would be remiss if we did not cover in this Azure AI speech course a little bit about content understanding.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/using-azure-content-understanding-for-audio-and-video?u=76281980&t=0)** - [Instructor] Now we would be remiss if we did not cover in this [[Microsoft Azure|Azure]] AI speech course a little bit about content understanding.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/using-azure-content-understanding-for-audio-and-video?u=76281980&t=9)** Content understanding is a higher-level API in Azure AI.
 >
@@ -1333,19 +1316,19 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/using-azure-content-understanding-for-audio-and-video?u=76281980&t=176)** The purpose of using content understanding, of course, is not really this web interface, it's really the result.
 >
-> **[3:01](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/using-azure-content-understanding-for-audio-and-video?u=76281980&t=181)** And so when you call this with an API, what you get back is a big JSON file containing all of this information, including the transcript, but also including the information that it extracted from this file.
+> **[3:01](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/using-azure-content-understanding-for-audio-and-video?u=76281980&t=181)** And so when you call this with an API, what you get back is a big [[JSON]] file containing all of this information, including the transcript, but also including the information that it extracted from this file.
 >
-> **[3:19](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/using-azure-content-understanding-for-audio-and-video?u=76281980&t=199)** If you're looking for sample code on how you might implement this type of a use case in code, you need look no further than GitHub.
+> **[3:19](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/using-azure-content-understanding-for-audio-and-video?u=76281980&t=199)** If you're looking for sample code on how you might implement this type of a use case in code, you need look no further than [[GitHub]].
 >
 > **[3:27](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/using-azure-content-understanding-for-audio-and-video?u=76281980&t=207)** Here we have the Conversation Knowledge Mining Solution Accelerator.
 >
-> **[3:33](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/using-azure-content-understanding-for-audio-and-video?u=76281980&t=213)** And this is a whole bunch of sample code that calls this content understanding, API, in Python again.
+> **[3:33](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/using-azure-content-understanding-for-audio-and-video?u=76281980&t=213)** And this is a whole bunch of sample code that calls this content understanding, API, in [[Python (Programming Language)|Python]] again.
 >
 > **[3:42](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/using-azure-content-understanding-for-audio-and-video?u=76281980&t=222)** And allows you to do this kind of thing in code in your own application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Microsoft Azure|Azure]] (5), api (3), data (2), web (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[JSON]] (1), [[GitHub]] (1), [[Python (Programming Language)|Python]] (1)
 > **Speakers:** - [ai (3), - [client] (3), - [instructor] (2)
 > **Env Vars:** api (3), json (1)
 > **Definitions:** is a  (3)
@@ -1354,14 +1337,13 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1)
 > **Tools:** github (1)
 
-#### Azure Speech vs. real-time LLMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/azure-speech-vs-real-time-llms?u=76281980)
+#### [Azure Speech vs. real-time LLMs](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/azure-speech-vs-real-time-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/azure-speech-vs-real-time-llms?u=76281980&t=0)** - [Instructor] There now exist real-time large language models like GPT-4o Realtime.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/azure-speech-vs-real-time-llms?u=76281980&t=0)** - [Instructor] There now exist [[Real-Time]] [[Large Language Models (LLM)|large language models]] like GPT-4o Realtime.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/azure-speech-vs-real-time-llms?u=76281980&t=6)** These models are direct audio in and audio out, so you don't need to layer something like Azure AI Speech on top of them.
+> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/azure-speech-vs-real-time-llms?u=76281980&t=6)** These models are direct audio in and audio out, so you don't need to layer something like [[Microsoft Azure|Azure]] AI Speech on top of them.
 >
 > **[0:14](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/azure-speech-vs-real-time-llms?u=76281980&t=14)** When you look at Azure AI Speech compared to real-time models, there are some clear differences.
 >
@@ -1369,7 +1351,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/azure-speech-vs-real-time-llms?u=76281980&t=28)** So let's do that.
 >
-> **[0:30](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/azure-speech-vs-real-time-llms?u=76281980&t=30)** Now, here I am in the Azure AI Foundry and I am in the real-time audio playground in Azure AI Foundry and we're about to have a little chat with GPT-4o Realtime, the latest version as of this recording, 2024.12.17.
+> **[0:30](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/azure-speech-vs-real-time-llms?u=76281980&t=30)** Now, here I am in the [[Azure AI Foundry]] and I am in the real-time audio playground in Azure AI Foundry and we're about to have a little chat with GPT-4o Realtime, the latest version as of this recording, 2024.12.17.
 >
 > **[0:48](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/azure-speech-vs-real-time-llms?u=76281980&t=48)** Let's see what it has to say.
 >
@@ -1387,11 +1369,11 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/azure-speech-vs-real-time-llms?u=76281980&t=85)** - [Instructor] Now, sometimes these realtime models can be a little bit more human-like, and so let's try this.
 >
-> **[1:32](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/azure-speech-vs-real-time-llms?u=76281980&t=92)** Tell me a joke about Microsoft and then laugh at your own joke.
+> **[1:32](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/azure-speech-vs-real-time-llms?u=76281980&t=92)** Tell me a joke about [[Microsoft]] and then laugh at your own joke.
 >
 > **[1:36](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/azure-speech-vs-real-time-llms?u=76281980&t=96)** - [AI] Why did Microsoft start planting trees?
 >
-> **[1:40](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/azure-speech-vs-real-time-llms?u=76281980&t=100)** Because they heard about the importance of having good Windows (laughs).
+> **[1:40](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/azure-speech-vs-real-time-llms?u=76281980&t=100)** Because they heard about the importance of having good [[Windows]] (laughs).
 >
 > **[1:48](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/azure-speech-vs-real-time-llms?u=76281980&t=108)** - [Instructor] Well, they're not necessarily wonderful at telling jokes that are funny, and I don't even know what that was.
 >
@@ -1405,7 +1387,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (8), ai (7), [[Microsoft Azure|Azure]] (5), [[Azure AI Foundry]] (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Real-Time]] (8), [[Microsoft Azure|Azure]] (5), [[Azure AI Foundry]] (2), [[Microsoft]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Speakers:** - [instructor] (3), - [ai] (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** gpt (2)
@@ -1416,8 +1398,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### More resources on Azure Speech
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/more-resources-on-azure-speech?u=76281980)
+#### [More resources on Azure Speech](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/more-resources-on-azure-speech?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1425,13 +1406,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/more-resources-on-azure-speech?u=76281980&t=5)** So in the course of this course, we have gone through a number of different sites and repositories of sample code.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/more-resources-on-azure-speech?u=76281980&t=14)** First of all, the Azure AI Foundry at ai.[azure.com](https://azure.com) contains the Speech Playground where you can try many of the aspects of Azure AI Speech.
+> **[0:14](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/more-resources-on-azure-speech?u=76281980&t=14)** First of all, the [[Azure AI Foundry]] at ai.[[[Microsoft Azure|azure]].com](https://azure.com) contains the Speech Playground where you can try many of the aspects of Azure AI Speech.
 >
-> **[0:29](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/more-resources-on-azure-speech?u=76281980&t=29)** As of this recording as you may have seen, some of the items are still not quite migrated to the Azure AI Foundry and they can be found in the Speech Studio at speech.[microsoft.com](https://microsoft.com).
+> **[0:29](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/more-resources-on-azure-speech?u=76281980&t=29)** As of this recording as you may have seen, some of the items are still not quite migrated to the Azure AI Foundry and they can be found in the Speech Studio at speech.[[[Microsoft]].com](https://microsoft.com).
 >
-> **[0:44](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/more-resources-on-azure-speech?u=76281980&t=44)** When it comes to these code samples, there are a ton of them available here in the cognitive-services-speech-sdk repository in Azure samples in GitHub.
+> **[0:44](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/more-resources-on-azure-speech?u=76281980&t=44)** When it comes to these code samples, there are a ton of them available here in the cognitive-services-speech-sdk repository in Azure samples in [[GitHub]].
 >
-> **[0:58](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/more-resources-on-azure-speech?u=76281980&t=58)** And here you'll find code in Python, C#, in Java and JavaScript.
+> **[0:58](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/more-resources-on-azure-speech?u=76281980&t=58)** And here you'll find code in [[Python (Programming Language)|Python]], C#, in [[Java]] and [[JavaScript]].
 >
 > **[1:04](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/more-resources-on-azure-speech?u=76281980&t=64)** All kinds of different languages available in this repo over here.
 >
@@ -1443,7 +1424,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/more-resources-on-azure-speech?u=76281980&t=106)** So this is a great place to start.
 >
-> **[1:50](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/more-resources-on-azure-speech?u=76281980&t=110)** And finally, GitHub Copilot is your friend.
+> **[1:50](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/more-resources-on-azure-speech?u=76281980&t=110)** And finally, [[GitHub Copilot]] is your friend.
 >
 > **[1:55](https://www.linkedin.com/learning/azure-ai-for-developers-azure-ai-speech/more-resources-on-azure-speech?u=76281980&t=115)** And so for a lot of the sample code that I used here, I used GitHub Copilot to help me write that and understand it, and you can too.
 >
@@ -1453,7 +1434,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), ai (5), [[GitHub Copilot]] (3), [[Azure AI Foundry]] (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[GitHub Copilot]] (3), [[Azure AI Foundry]] (2), [[Microsoft]] (2), [[GitHub]] (1)
 > **Tools:** github (4)
 > **CLI Commands:** find (2), python (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (2), [azure.com](https://azure.com) (1)

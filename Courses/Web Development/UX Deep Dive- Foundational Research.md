@@ -71,12 +71,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Diving into foundational research
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/diving-into-foundational-research?u=76281980)
+#### [Diving into foundational research](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/diving-into-foundational-research?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/diving-into-foundational-research?u=76281980&t=1)** - When you think about UX Research, you might think of usability tests and assessing how easy or not something is to use.
+> **[0:01](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/diving-into-foundational-research?u=76281980&t=1)** - When you think about [[UX Research]], you might think of usability tests and assessing how easy or not something is to use.
 >
 > **[0:08](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/diving-into-foundational-research?u=76281980&t=8)** That sort of evaluation is great.
 >
@@ -86,7 +85,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/diving-into-foundational-research?u=76281980&t=30)** The research that helps us do that is what we call Foundational Research.
 >
-> **[0:35](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/diving-into-foundational-research?u=76281980&t=35)** This kind of research can also help us uncover opportunities with our existing users and products or brand new areas to tackle.
+> **[0:35](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/diving-into-foundational-research?u=76281980&t=35)** This kind of research can also help us uncover opportunities with our existing users and [[Microsoft Products|products]] or brand new areas to tackle.
 >
 > **[0:43](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/diving-into-foundational-research?u=76281980&t=43)** Let's discuss the uses of Foundational Research and how it's different from evaluation, commonly used methods and how to best infuse that knowledge into your teams so you can use that data.
 >
@@ -94,7 +93,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (1), [[Microsoft Products|Products]] (1), teams (1), data (1)
+> **Frameworks & Libraries:** [[UX Research]] (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - when (1)
 
 
@@ -102,12 +101,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is foundational research and why does it matter?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/what-is-foundational-research-and-why-does-it-matter?u=76281980)
+#### [What is foundational research and why does it matter?](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/what-is-foundational-research-and-why-does-it-matter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/what-is-foundational-research-and-why-does-it-matter?u=76281980&t=1)** - Most of us know that user experience is made up of a wide range of disciplines, with a major delineation between those who focus more on creation and design and those that focus more on research.
+> **[0:01](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/what-is-foundational-research-and-why-does-it-matter?u=76281980&t=1)** - Most of us know that [[User Experience (UX)|user experience]] is made up of a wide range of disciplines, with a major delineation between those who focus more on creation and design and those that focus more on research.
 >
 > **[0:13](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/what-is-foundational-research-and-why-does-it-matter?u=76281980&t=13)** Within research, there are even more distinctions, and one of the most important to understand is that between the kind of research that evaluates solutions and the kind of research that helps us understand the users, context, and possibilities.
 >
@@ -117,7 +115,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/what-is-foundational-research-and-why-does-it-matter?u=76281980&t=39)** This is usually covered by things like usability tests, tree tests, that kind of thing.
 >
-> **[0:44](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/what-is-foundational-research-and-why-does-it-matter?u=76281980&t=44)** And no doubt it's incredibly important to be able to assess solutions, whether they're existing products, competitor solutions, or something you've just come up with.
+> **[0:44](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/what-is-foundational-research-and-why-does-it-matter?u=76281980&t=44)** And no doubt it's incredibly important to be able to assess solutions, whether they're existing [[Microsoft Products|products]], competitor solutions, or something you've just come up with.
 >
 > **[0:56](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/what-is-foundational-research-and-why-does-it-matter?u=76281980&t=56)** It's just that you need to know more than just evaluation techniques to be a truly impactful UX researcher.
 >
@@ -127,7 +125,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/what-is-foundational-research-and-why-does-it-matter?u=76281980&t=77)** You might also hear this research be called exploratory, generative, or discovery research.
 >
-> **[1:23](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/what-is-foundational-research-and-why-does-it-matter?u=76281980&t=83)** They're all typically used pretty interchangeably, but for the rest of the course, I'll use the term foundational.
+> **[1:23](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/what-is-foundational-research-and-why-does-it-matter?u=76281980&t=83)** They're all typically used pretty interchangeably, but for the [[Representational State Transfer (REST)|rest]] of the course, I'll use the term foundational.
 >
 > **[1:30](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/what-is-foundational-research-and-why-does-it-matter?u=76281980&t=90)** To remember, you can think of this kind of work as that that helps us set the foundation for what we're going to build, for whom, and why.
 >
@@ -159,13 +157,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), ux (2), [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** picture (1), for instance (1)
 > **Speakers:** - most (1)
 
-#### Foundational research cadence
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/foundational-research-cadence?u=76281980)
+#### [Foundational research cadence](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/foundational-research-cadence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -217,7 +214,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/foundational-research-cadence?u=76281980&t=218)** This way, there usually aren't huge gotchas or issues hidden until launch, and teams always know the next opportunity to get feedback.
 >
-> **[3:47](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/foundational-research-cadence?u=76281980&t=227)** If you already work with Agile methodologies and are used to iterating, you can use the chunks of time you use to organize your work to also organize research efforts.
+> **[3:47](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/foundational-research-cadence?u=76281980&t=227)** If you already work with [[Agile Development|Agile]] methodologies and are used to iterating, you can use the chunks of time you use to organize your work to also organize research efforts.
 >
 > **[3:57](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/foundational-research-cadence?u=76281980&t=237)** You might dedicate time every sprint or two to incorporate evaluative efforts, and then something like every sixth sprint, conduct foundational work.
 >
@@ -237,18 +234,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), data (2), power (1), business (1), product (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** means that (1)
 > **Analogies:** picture (1)
 > **Speakers:** - finding (1)
 
-#### Common UX methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/common-ux-methods?u=76281980)
+#### [Common UX methods](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/common-ux-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/common-ux-methods?u=76281980&t=1)** - There are several UX research methods that are typically used for conducting foundational research.
+> **[0:01](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/common-ux-methods?u=76281980&t=1)** - There are several [[UX Research]] methods that are typically used for conducting foundational research.
 >
 > **[0:06](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/common-ux-methods?u=76281980&t=6)** And you can roughly categorize them as either focused on understanding users and their contexts, generating ideas for solutions, or exploring business or market landscape.
 >
@@ -256,7 +252,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/common-ux-methods?u=76281980&t=28)** Rather than focusing scope just on their interactions, you look to learn more broadly about their motivations and behaviors.
 >
-> **[0:36](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/common-ux-methods?u=76281980&t=36)** There are a lot of methods that can be used to do this exploration, the most popular being interviews, ethnography or field studies, longitudinal studies like experienced samples or diary studies and data mining.
+> **[0:36](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/common-ux-methods?u=76281980&t=36)** There are a lot of methods that can be used to do this exploration, the most popular being interviews, ethnography or field studies, longitudinal studies like experienced samples or diary studies and [[Data Mining]].
 >
 > **[0:50](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/common-ux-methods?u=76281980&t=50)** Another focus of foundational research might be on generating ideas alongside stakeholders or users.
 >
@@ -266,7 +262,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/common-ux-methods?u=76281980&t=88)** Foundational research might also include efforts that are focused on understanding the market and potential customer base and product fit.
 >
-> **[1:36](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/common-ux-methods?u=76281980&t=96)** Market research efforts aren't always thought of as the duty of user experience professionals, and there are certainly some nuances, but it can be incredibly important to include efforts that look at things that traditionally fit into market research efforts, like identifying target audiences, exploring how customers react to messaging or branding, or digging in how to position or sell a feature or product.
+> **[1:36](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/common-ux-methods?u=76281980&t=96)** [[Market Research]] efforts aren't always thought of as the duty of [[User Experience (UX)|user experience]] professionals, and there are certainly some nuances, but it can be incredibly important to include efforts that look at things that traditionally fit into market research efforts, like identifying target audiences, exploring how customers [[React.js|react]] to messaging or branding, or digging in how to position or sell a feature or product.
 >
 > **[2:00](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/common-ux-methods?u=76281980&t=120)** As you'll see, you might use versions of the same method to dig into all three of these areas or incorporate exercises that explore these different angles.
 >
@@ -296,7 +292,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), ux (2), data (2), [[Market Research]] (2), business (1)
+> **Frameworks & Libraries:** [[Market Research]] (2), [[UX Research]] (1), [[Data Mining]] (1), [[User Experience (UX)|User experience]] (1), [[React.js|React]] (1)
 > **CLI Commands:** find (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - there (1)
@@ -306,8 +302,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Look at existing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/look-at-existing-data?u=76281980)
+#### [Look at existing data](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/look-at-existing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -339,7 +334,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Analytics]] (1), product (1)
 > **Analogies:** for instance (1), for example (1)
 > **CLI Commands:** find (1)
 > **Definitions:** we call this (1)
@@ -351,8 +345,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conducting basic interviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/conducting-basic-interviews?u=76281980)
+#### [Conducting basic interviews](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/conducting-basic-interviews?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -378,7 +371,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/conducting-basic-interviews?u=76281980&t=96)** We'll talk more about that in a moment.
 >
-> **[1:40](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/conducting-basic-interviews?u=76281980&t=100)** If you need some practical tips about planning, running, and analyzing user interviews, check out my more in-depth interview course.
+> **[1:40](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/conducting-basic-interviews?u=76281980&t=100)** If you need some practical tips about planning, running, and analyzing [[User Interviews]], check out my more in-depth interview course.
 >
 > **[1:49](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/conducting-basic-interviews?u=76281980&t=109)** Interviews sound so simple, but these conversations can be the backbone for deeply understanding people and developing a strong strategy to successfully provide for them.
 >
@@ -386,7 +379,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), [[User Interviews]] (1)
+> **Frameworks & Libraries:** [[User Interviews]] (1)
 > **CLI Commands:** find (1)
 > **Warnings:** caution (1)
 > **Speakers:** - interviews (1)
@@ -396,8 +389,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting in the field
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/getting-in-the-field?u=76281980)
+#### [Getting in the field](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/getting-in-the-field?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -449,13 +441,13 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/getting-in-the-field?u=76281980&t=197)** Again, for tips to remain neutral during sessions, I recommend chapter four of my interview course.
 >
-> **[3:23](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/getting-in-the-field?u=76281980&t=203)** Remember to try to view the ecosystem as a whole and look at people's interactions with your products, other technology, and other people.
+> **[3:23](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/getting-in-the-field?u=76281980&t=203)** Remember to try to view the ecosystem as a whole and look at people's interactions with your [[Microsoft Products|products]], other technology, and other people.
 >
 > **[3:32](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/getting-in-the-field?u=76281980&t=212)** This will help you see issues and uncover opportunities you may not have even realized are related until you see them all together.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), management (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **UI Navigation:** go to (2)
 > **Warnings:** be aware (2)
 > **Analogies:** for instance (1)
@@ -467,12 +459,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using longitudinal studies
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/using-longitudinal-studies?u=76281980)
+#### [Using longitudinal studies](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/using-longitudinal-studies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/using-longitudinal-studies?u=76281980&t=1)** - While interviewing and going onsite are both wonderful, you may want to learn about your users' behaviors and experiences over time, which means you'll need to run some sort of longitudinal study.
+> **[0:01](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/using-longitudinal-studies?u=76281980&t=1)** - While [[Interviewing]] and going onsite are both wonderful, you may want to learn about your users' behaviors and experiences over time, which means you'll need to run some sort of longitudinal study.
 >
 > **[0:13](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/using-longitudinal-studies?u=76281980&t=13)** There are a few common methods, but basically a longitudinal study is any in which you collect information over a period of time.
 >
@@ -518,7 +509,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Interviewing]] (1), ux (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1)
 > **Definitions:** is called (1), we call this (1)
 > **Prerequisites:** you'll need (1), set up (1)
 > **CLI Commands:** make (1)
@@ -530,8 +521,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Focus on ideation exercises
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/focus-on-ideation-exercises?u=76281980)
+#### [Focus on ideation exercises](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/focus-on-ideation-exercises?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -553,7 +543,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/focus-on-ideation-exercises?u=76281980&t=90)** Then, look for ways to build off of each idea.
 >
-> **[1:34](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/focus-on-ideation-exercises?u=76281980&t=94)** For example, if you first did a mind mapping exercise, you can then do a round robin type of thing where everyone passes their mind map to the person next to them and chooses the word that resonates most.
+> **[1:34](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/focus-on-ideation-exercises?u=76281980&t=94)** For example, if you first did a mind mapping exercise, you can then do a round robin type of thing where everyone passes their mind map to the person next to them and chooses the [[Microsoft Word|word]] that resonates most.
 >
 > **[1:45](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/focus-on-ideation-exercises?u=76281980&t=105)** Continuing passing around until everyone has voted and everyone can see what stood out most.
 >
@@ -565,7 +555,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
@@ -575,8 +565,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analysis and integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/analysis-and-integration?u=76281980)
+#### [Analysis and integration](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/analysis-and-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -638,11 +627,11 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/analysis-and-integration?u=76281980&t=245)** Remember, foundational research helps you understand people and context, and is used to explore problem areas or uncover new opportunities.
 >
-> **[4:14](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/analysis-and-integration?u=76281980&t=254)** Linking together what you learn about people into what actionable steps you should do next will help your teams glean the most benefit out of your work and help your products improve.
+> **[4:14](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/analysis-and-integration?u=76281980&t=254)** Linking together what you learn about people into what actionable steps you should do next will help your teams glean the most benefit out of your work and help your [[Microsoft Products|products]] improve.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (3), ux (2), business (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - analyzing (1)
@@ -652,8 +641,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Foundational research toolset
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/foundational-research-toolset?u=76281980)
+#### [Foundational research toolset](https://www.linkedin.com/learning/ux-deep-dive-foundational-research/foundational-research-toolset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -671,7 +659,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (3), teams (2), next (1)
 > **Speakers:** - foundational (1)
 
 

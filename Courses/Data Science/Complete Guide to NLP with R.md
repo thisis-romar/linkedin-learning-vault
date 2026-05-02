@@ -150,8 +150,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to natural language processing with R
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r-24442818?u=76281980)
+#### [Welcome to natural language processing with R](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r-24442818?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -163,7 +162,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r-24442818?u=76281980&t=22)** That's more information than any one person can read, much less research or draw conclusions from.
 >
-> **[0:29](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r-24442818?u=76281980&t=29)** Here's where natural language processing can help.
+> **[0:29](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r-24442818?u=76281980&t=29)** Here's where [[Natural Language Processing (NLP)|natural language processing]] can help.
 >
 > **[0:33](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r-24442818?u=76281980&t=33)** By teaching a computer to recognize parts of human language, we can use it to give us insights and summaries of the obvious, or hiddenm meaning, behind the words.
 >
@@ -173,9 +172,9 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r-24442818?u=76281980&t=62)** Welcome to Introduction to Natural Language Processing using R.
 >
-> **[1:06](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r-24442818?u=76281980&t=66)** In this course, we'll use the R programming language to implement natural language processing algorithms.
+> **[1:06](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r-24442818?u=76281980&t=66)** In this course, we'll use the R programming language to implement natural language processing [[Algorithms]].
 >
-> **[1:13](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r-24442818?u=76281980&t=73)** R is uniquely adept at manipulating matrices and producing statistics, both of which are core to NLP.
+> **[1:13](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r-24442818?u=76281980&t=73)** R is uniquely adept at manipulating matrices and producing [[Statistics]], both of which are core to NLP.
 >
 > **[1:23](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r-24442818?u=76281980&t=83)** I'm Mark Neimann-Ross, and I'm excited to travel with you on this journey.
 >
@@ -183,19 +182,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (5), nlp (2), [[Programming]] (1), [[Algorithms]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (5), [[Algorithms]] (1), [[Statistics]] (1)
 > **Env Vars:** nlp (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [mark] (1)
 
-#### Skills and tools you need to be successful in this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-ll-need-to-be-successful-in-this-course?u=76281980)
+#### [Skills and tools you need to be successful in this course](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-ll-need-to-be-successful-in-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-ll-need-to-be-successful-in-this-course?u=76281980&t=1)** - [Instructor] This course on natural language processing requires knowledge of the R programming language.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-ll-need-to-be-successful-in-this-course?u=76281980&t=1)** - [Instructor] This course on [[Natural Language Processing (NLP)|natural language processing]] requires knowledge of the R programming language.
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-ll-need-to-be-successful-in-this-course?u=76281980&t=7)** This is decidedly not a beginner course.
 >
@@ -215,7 +213,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-ll-need-to-be-successful-in-this-course?u=76281980&t=46)** If you aren't sure about these concepts, you might want to look at one of the beginning R courses in this library.
 >
-> **[0:52](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-ll-need-to-be-successful-in-this-course?u=76281980&t=52)** Another alternative is to take the LinkedIn Skills Assessment Test, you'll find it via your profile, under skills.
+> **[0:52](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-ll-need-to-be-successful-in-this-course?u=76281980&t=52)** Another alternative is to take the [[LinkedIn]] Skills Assessment Test, you'll find it via your profile, under skills.
 >
 > **[1:03](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-ll-need-to-be-successful-in-this-course?u=76281980&t=63)** Go ahead and take the test.
 >
@@ -239,7 +237,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-ll-need-to-be-successful-in-this-course?u=76281980&t=117)** It's popular, but by no means the only option available.
 >
-> **[2:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-ll-need-to-be-successful-in-this-course?u=76281980&t=121)** I have also used Visual Studio Code and dabbled with several other products.
+> **[2:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-ll-need-to-be-successful-in-this-course?u=76281980&t=121)** I have also used Visual Studio Code and dabbled with several other [[Microsoft Products|products]].
 >
 > **[2:07](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-ll-need-to-be-successful-in-this-course?u=76281980&t=127)** Whatever IDE you choose will be fine.
 >
@@ -249,7 +247,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[LinkedIn]] (1), nlp (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), [[LinkedIn]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** ide (2), nlp (1)
 > **Tools:** visual studio (2)
 > **CLI Commands:** find (1)
@@ -262,24 +260,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is tm and why do you need it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-tm-and-why-do-you-need-it?u=76281980)
+#### [What is tm and why do you need it?](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-tm-and-why-do-you-need-it?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-tm-and-why-do-you-need-it?u=76281980&t=1)** - [Instructor] R is an excellent programming language for statistics and matrix manipulation.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-tm-and-why-do-you-need-it?u=76281980&t=1)** - [Instructor] R is an excellent programming language for [[Statistics]] and matrix manipulation.
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-tm-and-why-do-you-need-it?u=76281980&t=7)** Given a table or matrix where data is organized, R can return a wealth of insights and visualizations.
 >
 > **[0:15](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-tm-and-why-do-you-need-it?u=76281980&t=15)** However, data is rarely stored in clean tables with well-ordered rows and columns.
 >
-> **[0:22](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-tm-and-why-do-you-need-it?u=76281980&t=22)** Data is messy and requires cleaning, often referred to as data wrangling.
+> **[0:22](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-tm-and-why-do-you-need-it?u=76281980&t=22)** Data is messy and requires cleaning, often referred to as [[Data Wrangling]].
 >
 > **[0:28](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-tm-and-why-do-you-need-it?u=76281980&t=28)** Human language is a prime example of messy data.
 >
 > **[0:32](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-tm-and-why-do-you-need-it?u=76281980&t=32)** Concepts aren't tagged, context is fluid, there are no standardized rules, and absolutely no reliable indicators to help a computer understand what is being said and how to separate the information from the presentation.
 >
-> **[0:47](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-tm-and-why-do-you-need-it?u=76281980&t=47)** This is where natural language processing comes in.
+> **[0:47](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-tm-and-why-do-you-need-it?u=76281980&t=47)** This is where [[Natural Language Processing (NLP)|natural language processing]] comes in.
 >
 > **[0:51](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-tm-and-why-do-you-need-it?u=76281980&t=51)** Natural language processing is a collection of tools and techniques to convert human language into a format useful to computers.
 >
@@ -287,7 +284,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-tm-and-why-do-you-need-it?u=76281980&t=65)** Instead, it's easier to use a framework.
 >
-> **[1:08](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-tm-and-why-do-you-need-it?u=76281980&t=68)** In this course, we'll use a package called Tm, short for Text Mining.
+> **[1:08](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-tm-and-why-do-you-need-it?u=76281980&t=68)** In this course, we'll use a package called Tm, short for [[Text Mining]].
 >
 > **[1:15](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-tm-and-why-do-you-need-it?u=76281980&t=75)** Tm is a standard R package.
 >
@@ -313,19 +310,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Natural Language Processing (NLP)|Natural language processing]] (3), [[Programming]] (1), [[Statistics]] (1), [[Text Mining]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (3), [[Statistics]] (1), [[Data Wrangling]] (1), [[Text Mining]] (1)
 > **Definitions:** is a  (3), is an  (1), short for (1)
 > **Prerequisites:** install (3), you'll need (1)
 > **Env Vars:** nlp (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Real-world NLP with tm
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-tm?u=76281980)
+#### [Real-world NLP with tm](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-tm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-tm?u=76281980&t=1)** - [Instructor] As part of the introduction to a natural language processing with TM, I'd like to show you three instances of how to do natural language processing.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-tm?u=76281980&t=1)** - [Instructor] As part of the introduction to a [[Natural Language Processing (NLP)|natural language processing]] with TM, I'd like to show you three instances of how to do natural language processing.
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-tm?u=76281980&t=11)** First, we'll be with TM and Base R.
 >
@@ -383,7 +379,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-tm?u=76281980&t=207)** Now, what's important here to realize is that this matrix is a collection of a number of rows.
 >
-> **[3:34](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-tm?u=76281980&t=214)** Each row identifies the document that we're talking about, and each column identifies a term or a word.
+> **[3:34](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-tm?u=76281980&t=214)** Each row identifies the document that we're talking about, and each column identifies a term or a [[Microsoft Word|word]].
 >
 > **[3:43](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-tm?u=76281980&t=223)** So the spaces in the matrix are the number of times that a word appears in a particular document.
 >
@@ -411,7 +407,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (4), [[Microsoft Word|Word]] (2), next (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (4), [[Microsoft Word|Word]] (2)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** just like (1), similar to (1)
@@ -420,14 +416,13 @@ created: 2026-05-02
 > **Warnings:** heads up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Real-world NLP with quanteda
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-quanteda?u=76281980)
+#### [Real-world NLP with quanteda](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-quanteda?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-quanteda?u=76281980&t=1)** - [Lecturer] As an introduction to natural language processing, I'm showing how to do a task with three different tools.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-quanteda?u=76281980&t=1)** - [Lecturer] As an introduction to [[Natural Language Processing (NLP)|natural language processing]], I'm showing how to do a task with three different tools.
 >
-> **[0:08](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-quanteda?u=76281980&t=8)** One of them is Base R with the text mining package.
+> **[0:08](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-quanteda?u=76281980&t=8)** One of them is Base R with the [[Text Mining]] package.
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-quanteda?u=76281980&t=12)** One of them is Quanteda, also a text mining package for R, and the third is going to be with Tidytext which again is text mining with R.
 >
@@ -465,7 +460,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-quanteda?u=76281980&t=111)** The corpus command is a Quanteda function that creates a corpus, and a corpus is nothing more than a collection of documents.
 >
-> **[2:00](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-quanteda?u=76281980&t=120)** I send that corpus then to tokens in line 21 which breaks each document up into a series of what Quanteda calls features, what most of the rest of us call words.
+> **[2:00](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-quanteda?u=76281980&t=120)** I send that corpus then to [[Tokens]] in line 21 which breaks each document up into a series of what Quanteda calls features, what most of the [[Representational State Transfer (REST)|rest]] of us call words.
 >
 > **[2:15](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-quanteda?u=76281980&t=135)** In this case, you'll notice that I'm removing all of the numbers and the punctuation.
 >
@@ -499,21 +494,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Text Mining]] (3), feature (3), [[Tokens]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Text Mining]] (3), [[Tokens]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Prerequisites:** you'll need (2), install (1), set up (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** dfm (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Real-world NLP with tidytext
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-tidytext?u=76281980)
+#### [Real-world NLP with tidytext](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-tidytext?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-tidytext?u=76281980&t=1)** - [Instructor] In this third introductory file, I'm going to show you how to accomplish our task of finding the most popular words in a collection of poetry, and we're going to use Tidy Text to find that answer.
 >
-> **[0:16](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-tidytext?u=76281980&t=16)** In previous sessions, I used base R with the text mining package, or tm.
+> **[0:16](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-tidytext?u=76281980&t=16)** In previous sessions, I used base R with the [[Text Mining]] package, or tm.
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-tidytext?u=76281980&t=21)** Then I used Quantita.
 >
@@ -539,11 +533,11 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-tidytext?u=76281980&t=93)** It's just a collection of all of the files in the poetry folder, and I've said, create a data frame where you read in all of those files.
 >
-> **[1:43](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-tidytext?u=76281980&t=103)** In line 17, tidy text provides the unnest tokens function.
+> **[1:43](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-tidytext?u=76281980&t=103)** In line 17, tidy text provides the unnest [[Tokens]] function.
 >
 > **[1:50](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-tidytext?u=76281980&t=110)** And what this will do is break all of those documents down into individual words.
 >
-> **[1:57](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-tidytext?u=76281980&t=117)** In keeping with the tidy verse mandate unnest provides one word per row.
+> **[1:57](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-tidytext?u=76281980&t=117)** In keeping with the tidy verse mandate unnest provides one [[Microsoft Word|word]] per row.
 >
 > **[2:05](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-nlp-with-tidytext?u=76281980&t=125)** In line 18, I used a filter command to remove any numbers.
 >
@@ -569,7 +563,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Text Mining]] (1), data (1), [[Tokens]] (1), [[Microsoft Word|Word]] (1), hit (1)
+> **Frameworks & Libraries:** [[Text Mining]] (1), [[Tokens]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** just like (1), compare this to (1)
 > **Env Vars:** map (1)
@@ -582,12 +576,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding corpora and sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/understanding-corpora-and-sources?u=76281980)
+#### [Understanding corpora and sources](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/understanding-corpora-and-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/understanding-corpora-and-sources?u=76281980&t=1)** - [Instructor] Natural language processing revolves around several data objects, corpus, documents, tokens, and DTMs or document-token matrices.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/understanding-corpora-and-sources?u=76281980&t=1)** - [Instructor] [[Natural Language Processing (NLP)|Natural language processing]] revolves around several data objects, corpus, documents, [[Tokens]], and DTMs or document-token matrices.
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/understanding-corpora-and-sources?u=76281980&t=12)** A corpus is a collection of documents, and those documents come from various sources.
 >
@@ -623,14 +616,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), data (2), [[Tokens]] (1), next (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Tokens]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Code Identifiers:** getsources (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Examining corpora
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/examining-corpora?u=76281980)
+#### [Examining corpora](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/examining-corpora?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -640,7 +632,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/examining-corpora?u=76281980&t=11)** In most cases, you'll use simple corpus but it's useful to know of the other types in case you either run into them or you find that you need their capabilities.
 >
-> **[0:22](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/examining-corpora?u=76281980&t=22)** Let's start in line one where I bring in the text mining library, and then in line five I'm going to use the corpus command.
+> **[0:22](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/examining-corpora?u=76281980&t=22)** Let's start in line one where I bring in the [[Text Mining]] library, and then in line five I'm going to use the corpus command.
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/examining-corpora?u=76281980&t=31)** I've created a directory source pointing to a directory called poetry and I'm only selecting the text files.
 >
@@ -668,7 +660,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/examining-corpora?u=76281980&t=98)** There is a content element in the corpus and you can see there that there's actual readable content.
 >
-> **[1:45](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/examining-corpora?u=76281980&t=105)** There are attributes which are the names of each of the documents included in this corpus and some metadata and we'll talk about metadata in a minute.
+> **[1:45](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/examining-corpora?u=76281980&t=105)** There are attributes which are the names of each of the documents included in this corpus and some [[Metadata]] and we'll talk about metadata in a minute.
 >
 > **[1:55](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/examining-corpora?u=76281980&t=115)** If I select the class of new corpus, you'll see that it returns simple corpus, which is a subtype of corpus.
 >
@@ -748,7 +740,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (2), [[Text Mining]] (1), next (1), data (1), database (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Text Mining]] (1)
 > **Definitions:** is a  (8), is called (1)
 > **CLI Commands:** find (3)
 > **Prerequisites:** you'll need (1), install (1), set up (1)
@@ -757,8 +749,7 @@ created: 2026-05-02
 > **Code Identifiers:** mypcorpus (1)
 > **Cross-References:** in the next (1)
 
-#### Examining sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/examining-sources?u=76281980)
+#### [Examining sources](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/examining-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -766,7 +757,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/examining-sources?u=76281980&t=12)** Let's take a look at them.
 >
-> **[0:14](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/examining-sources?u=76281980&t=14)** In line one, I've brought in the text mining library and I'm also going to bring in the read text library 'cause I'll need it here in a minute.
+> **[0:14](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/examining-sources?u=76281980&t=14)** In line one, I've brought in the [[Text Mining]] library and I'm also going to bring in the read text library 'cause I'll need it here in a minute.
 >
 > **[0:24](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/examining-sources?u=76281980&t=24)** Before we get too far, you can always pull up a list of sources available to you with the text mining get Sources command as shown in line five.
 >
@@ -876,7 +867,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Text Mining]] (2), business (1), data (1)
+> **Frameworks & Libraries:** [[Text Mining]] (2)
 > **Code Identifiers:** acorpus (14), newcorpus (7), vectorsource (3), vectoroftext (2), azipcorpus (1)
 > **Env Vars:** xml (7), uri (1), url (1)
 > **Exercise Files:** zip file (2)
@@ -885,8 +876,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **URLs:** [nasa.gov](https://nasa.gov) (1)
 
-#### Custom sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/custom-sources?u=76281980)
+#### [Custom sources](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/custom-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -930,15 +920,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Env Vars:** cran (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - the (1)
 
-#### Combining and subsetting corpora
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/combining-and-subsetting-corpora?u=76281980)
+#### [Combining and subsetting corpora](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/combining-and-subsetting-corpora?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -978,11 +966,11 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/combining-and-subsetting-corpora?u=76281980&t=131)** In either case, you should be able to use this combinedCorpus in other Corpora-related type commands.
 >
-> **[2:19](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/combining-and-subsetting-corpora?u=76281980&t=139)** Next, let's talk about TM filter, which is text mining filter.
+> **[2:19](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/combining-and-subsetting-corpora?u=76281980&t=139)** Next, let's talk about TM filter, which is [[Text Mining]] filter.
 >
 > **[2:24](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/combining-and-subsetting-corpora?u=76281980&t=144)** TM filter returns a corpus of documents matching a particular filter, and I've set this up in line 20.
 >
-> **[2:32](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/combining-and-subsetting-corpora?u=76281980&t=152)** I'm going to create a filteredCorpus, where each document must have the word will not.
+> **[2:32](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/combining-and-subsetting-corpora?u=76281980&t=152)** I'm going to create a filteredCorpus, where each document must have the [[Microsoft Word|word]] will not.
 >
 > **[2:40](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/combining-and-subsetting-corpora?u=76281980&t=160)** And I'm going to filter the simpCorp, or simpleCorpus.
 >
@@ -1024,7 +1012,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (1), [[Text Mining]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Text Mining]] (1)
 > **Code Identifiers:** simplecorpus (7), combinedcorpora (4), filteredcorpus (4), newvcorpus (2), simpcorp (2)
 > **Definitions:** is a  (5), refers to (2), means that (1)
 > **Warnings:** note that (1), be aware (1)
@@ -1037,12 +1025,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with document metadata
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/working-with-document-metadata?u=76281980)
+#### [Working with document metadata](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/working-with-document-metadata?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/working-with-document-metadata?u=76281980&t=1)** - [Instructor] The tm package for R provides a lot of different metadata options.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/working-with-document-metadata?u=76281980&t=1)** - [Instructor] The tm package for R provides a lot of different [[Metadata]] options.
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/working-with-document-metadata?u=76281980&t=7)** Metadata is information about the data, the content of the corpus that you're working with.
 >
@@ -1202,7 +1189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (28), data (8), application (1)
+> **Frameworks & Libraries:** [[Metadata]] (28)
 > **File Paths:** poetry_9622.txt (2), poetry_1020.txt (1), poetry_12031.txt (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Code Identifiers:** mnrmeta (2)
@@ -1211,12 +1198,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Make useful metadata
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/make-useful-metadata?u=76281980)
+#### [Make useful metadata](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/make-useful-metadata?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/make-useful-metadata?u=76281980&t=1)** - [Host] We've identified three types of metadata, corpus, indexed, and local.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/make-useful-metadata?u=76281980&t=1)** - [Host] We've identified three types of [[Metadata]], corpus, indexed, and local.
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/make-useful-metadata?u=76281980&t=8)** Let's take a look at how to use them.
 >
@@ -1256,7 +1242,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/make-useful-metadata?u=76281980&t=138)** The string will come from aDataframe$text which we just looked at aDataframe and looked at the text column.
 >
-> **[2:27](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/make-useful-metadata?u=76281980&t=147)** And the pattern I'm looking for is the word language, followed by a colon, followed by a space, and then one or more of anything, followed by a return.
+> **[2:27](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/make-useful-metadata?u=76281980&t=147)** And the pattern I'm looking for is the [[Microsoft Word|word]] language, followed by a colon, followed by a space, and then one or more of anything, followed by a return.
 >
 > **[2:41](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/make-useful-metadata?u=76281980&t=161)** When we run line 18, you can see that I now have language and if I click on that, you can see that language contains three things.
 >
@@ -1318,7 +1304,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (12), data (8), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Metadata]] (12), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** adataframe (6), newvcorpus (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1), scroll up (1)
@@ -1327,12 +1313,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [host] (1)
 
-#### Finding and filtering based on metadata
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/finding-and-filtering-based-on-metadata?u=76281980)
+#### [Finding and filtering based on metadata](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/finding-and-filtering-based-on-metadata?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/finding-and-filtering-based-on-metadata?u=76281980&t=1)** - [Instructor] We've just created a bunch of metadata and attached it to a corpus.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/finding-and-filtering-based-on-metadata?u=76281980&t=1)** - [Instructor] We've just created a bunch of [[Metadata]] and attached it to a corpus.
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/finding-and-filtering-based-on-metadata?u=76281980&t=6)** In this session, let's talk about how to find and filter parts of the corpus based on that metadata.
 >
@@ -1408,7 +1393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (10), data (2)
+> **Frameworks & Libraries:** [[Metadata]] (10)
 > **Code Identifiers:** newvcorpus (7)
 > **Definitions:** is a  (3), is called (2), stands for (1)
 > **CLI Commands:** find (3), make (1)
@@ -1421,12 +1406,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Transformations
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/transformations?u=76281980)
+#### [Transformations](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/transformations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/transformations?u=76281980&t=0)** - [Host] Part of natural language processing is performing statistics on documents.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/transformations?u=76281980&t=0)** - [Host] Part of [[Natural Language Processing (NLP)|natural language processing]] is performing [[Statistics]] on documents.
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/transformations?u=76281980&t=6)** It's important to perform those statistics on the important parts of the document and that's why natural language processing frameworks provide ways to transform the content.
 >
@@ -1500,12 +1484,11 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [host] (1)
 
-#### Stop words
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stop-words?u=76281980)
+#### [Stop words](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stop-words?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stop-words?u=76281980&t=1)** - [Instructor] In natural language processing, when we run statistics on documents, it's important to run those statistics on significant words in the document.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stop-words?u=76281980&t=1)** - [Instructor] In [[Natural Language Processing (NLP)|natural language processing]], when we run [[Statistics]] on documents, it's important to run those statistics on significant words in the document.
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stop-words?u=76281980&t=10)** Stop words is a term or a phrase used to describe words that may not be all that useful, things like And and The and Too, words that are nice for humans, but when it comes down to analyzing the actual meaning of a document may not significantly add to our information and in fact may cloud our results.
 >
@@ -1571,25 +1554,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Code Identifiers:** mytext (3), removewords (2), morewords (2), mystopwords (1), mynewtext (1)
 > **Definitions:** is a  (3), defined as (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stemming
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming?u=76281980)
+#### [Stemming](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming?u=76281980&t=1)** - [Instructor] Another transformation available in natural language processing is something called stemming and this is a really interesting tool.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming?u=76281980&t=1)** - [Instructor] Another transformation available in [[Natural Language Processing (NLP)|natural language processing]] is something called stemming and this is a really interesting tool.
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming?u=76281980&t=11)** For example, consider the following words: walked, walking, walker, and walk.
 >
-> **[0:18](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming?u=76281980&t=18)** All of those words are derivatives of the word walk.
+> **[0:18](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming?u=76281980&t=18)** All of those words are derivatives of the [[Microsoft Word|word]] walk.
 >
-> **[0:24](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming?u=76281980&t=24)** When you're calculating things like word frequency or appearance or statistics about a document, you may not want all four of those words to appear separately since they all essentially mean the same thing.
+> **[0:24](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming?u=76281980&t=24)** When you're calculating things like word frequency or appearance or [[Statistics]] about a document, you may not want all four of those words to appear separately since they all essentially mean the same thing.
 >
 > **[0:39](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming?u=76281980&t=39)** Instead of counting four words, you may want to count one word with a frequency of four.
 >
@@ -1646,8 +1628,7 @@ created: 2026-05-02
 > **Code Identifiers:** stemdocument (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lemmatization
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/lemmatization?u=76281980)
+#### [Lemmatization](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/lemmatization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1665,7 +1646,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/lemmatization?u=76281980&t=44)** For example, ball, orb, globe, and sphere all mean essentially the same thing.
 >
-> **[0:50](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/lemmatization?u=76281980&t=50)** You may want those to be counted as one word with four instances rather than four words with one instances.
+> **[0:50](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/lemmatization?u=76281980&t=50)** You may want those to be counted as one [[Microsoft Word|word]] with four instances rather than four words with one instances.
 >
 > **[0:59](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/lemmatization?u=76281980&t=59)** If you create or use the proper dictionary with lemmatization, lemmatization will accomplish that for you.
 >
@@ -1705,7 +1686,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), data (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
@@ -1714,14 +1695,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tokenization
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/tokenization?u=76281980)
+#### [Tokenization](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/tokenization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/tokenization?u=76281980&t=1)** - [Instructor] Tokenizers are at the heart of natural language processing.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/tokenization?u=76281980&t=1)** - [Instructor] Tokenizers are at the heart of [[Natural Language Processing (NLP)|natural language processing]].
 >
-> **[0:06](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/tokenization?u=76281980&t=6)** Put very simply, tokenizers convert text into tokens or words, but sometimes sentences or phrases or arbitrary strings depending on how you set the tokenizer up.
+> **[0:06](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/tokenization?u=76281980&t=6)** Put very simply, tokenizers convert text into [[Tokens]] or words, but sometimes sentences or phrases or arbitrary strings depending on how you set the tokenizer up.
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/tokenization?u=76281980&t=20)** Let's take a look at the tokenizers included with the TM package.
 >
@@ -1753,7 +1733,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/tokenization?u=76281980&t=129)** Let's take a look at my indexes.
 >
-> **[2:12](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/tokenization?u=76281980&t=132)** Instead of words, what you're getting is the start and end of each matched word.
+> **[2:12](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/tokenization?u=76281980&t=132)** Instead of words, what you're getting is the start and end of each matched [[Microsoft Word|word]].
 >
 > **[2:20](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/tokenization?u=76281980&t=140)** I can convert these set of indexes into actual sample text, and this is what I do in line 27.
 >
@@ -1787,14 +1767,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### N-grams
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/ngrams?u=76281980)
+#### [N-grams](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/ngrams?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/ngrams?u=76281980&t=1)** - [Instructor] N-grams are a special type of token.
 >
-> **[0:05](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/ngrams?u=76281980&t=5)** They're actually combinations of tokens.
+> **[0:05](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/ngrams?u=76281980&t=5)** They're actually combinations of [[Tokens]].
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/ngrams?u=76281980&t=8)** You might consider them to be phrases.
 >
@@ -1802,7 +1781,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/ngrams?u=76281980&t=15)** Let's take a look at how to use an N-gram command.
 >
-> **[0:19](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/ngrams?u=76281980&t=19)** In line three, I bring in the text mining package, and then in line six, I define some text with some sample text, very simple this time.
+> **[0:19](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/ngrams?u=76281980&t=19)** In line three, I bring in the [[Text Mining]] package, and then in line six, I define some text with some sample text, very simple this time.
 >
 > **[0:29](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/ngrams?u=76281980&t=29)** In line seven, I use the boost tokenizer to break some text into individual tokens, and we can take a look at that just by typing in ngram_tokens.
 >
@@ -1834,7 +1813,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/ngrams?u=76281980&t=145)** Gutenberg, by the way, is a collection of eBooks and texts.
 >
-> **[2:30](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/ngrams?u=76281980&t=150)** In line 16, I run a command called gutenberg_subjects and I'm grepping for anything that has the word politic in the subjects, and I place that into a vector called downloadThese.
+> **[2:30](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/ngrams?u=76281980&t=150)** In line 16, I run a command called gutenberg_subjects and I'm grepping for anything that has the [[Microsoft Word|word]] politic in the subjects, and I place that into a vector called downloadThese.
 >
 > **[2:45](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/ngrams?u=76281980&t=165)** In line 17, I use download these, which is a collection of IDs and I put it into gutenberg_download.
 >
@@ -1898,7 +1877,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (9), next (4), [[Microsoft Word|Word]] (4), [[Text Mining]] (1), data (1)
+> **Frameworks & Libraries:** [[Tokens]] (9), [[Microsoft Word|Word]] (4), [[Text Mining]] (1)
 > **Code Identifiers:** ngram_tokens (2), ebooks (1), gutenberg_subjects (1), downloadthese (1), gutenberg_download (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (2)
@@ -1906,8 +1885,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Part of speech tagging
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/part-of-speech-tagging?u=76281980)
+#### [Part of speech tagging](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/part-of-speech-tagging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1953,7 +1931,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/part-of-speech-tagging?u=76281980&t=124)** The interesting column here is called UPOS, or Universal Part of Speech, and you can see that A, as in a dome of many colored glass, has been identified as a DET.
 >
-> **[2:22](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/part-of-speech-tagging?u=76281980&t=142)** The second word, which is dome, is on the second line and it's been identified as a noun.
+> **[2:22](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/part-of-speech-tagging?u=76281980&t=142)** The second [[Microsoft Word|word]], which is dome, is on the second line and it's been identified as a noun.
 >
 > **[2:28](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/part-of-speech-tagging?u=76281980&t=148)** The third word is of, and it's identified as an ADP.
 >
@@ -1979,7 +1957,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/part-of-speech-tagging?u=76281980&t=218)** So for example, in line 14 I've selected a bar plot to show the results of our UDP pipe results.
 >
-> **[3:48](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/part-of-speech-tagging?u=76281980&t=228)** When I run that command, I'll zoom in on the plot and you can see that a majority of the words in this particular document are nouns, followed by punctuation, and then verbs.
+> **[3:48](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/part-of-speech-tagging?u=76281980&t=228)** When I run that command, I'll [[Zoom]] in on the plot and you can see that a majority of the words in this particular document are nouns, followed by punctuation, and then verbs.
 >
 > **[4:00](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/part-of-speech-tagging?u=76281980&t=240)** Depending on how you feel about your writing, what type of writing you're doing, or who's doing the writing, you can identify different patterns.
 >
@@ -1995,7 +1973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), nlp (1), data (1), next (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Zoom]] (1)
 > **Env Vars:** rds (2), det (2), adp (2), nlp (1), upos (1)
 > **Definitions:** is an  (4), is a  (3), is called (1), defined as (1)
 > **Code Identifiers:** poetcorpus (3)
@@ -2009,16 +1987,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the document-term matrix
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/understanding-the-document-term-matrix?u=76281980)
+#### [Understanding the document-term matrix](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/understanding-the-document-term-matrix?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/understanding-the-document-term-matrix?u=76281980&t=1)** - [Instructor] You won't spend much time with natural language processing before you run into the concept of a document term matrix or a term document matrix or a document feature matrix.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/understanding-the-document-term-matrix?u=76281980&t=1)** - [Instructor] You won't spend much time with [[Natural Language Processing (NLP)|natural language processing]] before you run into the concept of a document term matrix or a term document matrix or a document feature matrix.
 >
 > **[0:13](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/understanding-the-document-term-matrix?u=76281980&t=13)** Let's take a look at the basic concept of a DTM.
 >
-> **[0:18](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/understanding-the-document-term-matrix?u=76281980&t=18)** The text mining package provides us with tools to create a DTM, so in line two, I bring it in to my current R session.
+> **[0:18](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/understanding-the-document-term-matrix?u=76281980&t=18)** The [[Text Mining]] package provides us with tools to create a DTM, so in line two, I bring it in to my current R session.
 >
 > **[0:26](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/understanding-the-document-term-matrix?u=76281980&t=26)** Then in line five, I bring in a poet corpus and this is the poet corpus we've been using in the past.
 >
@@ -2080,14 +2057,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1), feature (1), [[Text Mining]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Text Mining]] (1)
 > **Env Vars:** dtm (2), thi (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create the document-term matrix
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-the-document-term-matrix?u=76281980)
+#### [Create the document-term matrix](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-the-document-term-matrix?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2149,7 +2125,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-the-document-term-matrix?u=76281980&t=218)** This is an easy way to remove terms that don't appear frequently enough to be interesting, or appear so often that they are just generating noise.
 >
-> **[3:49](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-the-document-term-matrix?u=76281980&t=229)** Now let's look at word lengths as shown in the code line 20.
+> **[3:49](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-the-document-term-matrix?u=76281980&t=229)** Now let's look at [[Microsoft Word|word]] lengths as shown in the code line 20.
 >
 > **[3:54](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-the-document-term-matrix?u=76281980&t=234)** I'll run the document term matrix command with word lengths of 10 and 50.
 >
@@ -2175,15 +2151,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), feature (1), power (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - in (1)
 
-#### Weighting the document-term matrix
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/weighting-the-document-term-matrix?u=76281980)
+#### [Weighting the document-term matrix](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/weighting-the-document-term-matrix?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2269,14 +2244,13 @@ created: 2026-05-02
 > **Env Vars:** dtm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Focus the document-term matrix
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/focus-the-document-term-matrix?u=76281980)
+#### [Focus the document-term matrix](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/focus-the-document-term-matrix?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/focus-the-document-term-matrix?u=76281980&t=1)** - [Host] A document term matrix is actually a sparse matrix, which means that empty cells in the matrix actually don't exist, and this is how the actual object is structured.
 >
-> **[0:14](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/focus-the-document-term-matrix?u=76281980&t=14)** Let's take a look at sparse matrices, how to trim them, and how this affects natural language processing.
+> **[0:14](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/focus-the-document-term-matrix?u=76281980&t=14)** Let's take a look at sparse matrices, how to trim them, and how this affects [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/focus-the-document-term-matrix?u=76281980&t=22)** In line three, I'm going to bring in the TM library and then in line six, I bring in our old friend, the poet corpus.
 >
@@ -2357,8 +2331,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Word and document frequency
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/word-and-document-frequency?u=76281980)
+#### [Word and document frequency](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/word-and-document-frequency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2428,8 +2401,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - a (1)
 
-#### Hierarchical clustering
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/hierarchical-clustering?u=76281980)
+#### [Hierarchical clustering](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/hierarchical-clustering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2457,7 +2429,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/hierarchical-clustering?u=76281980&t=67)** You can see in the lower right-hand corner of R studio that we have a clustered dendrogram representing all of the documents in the poet DTM.
 >
-> **[1:17](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/hierarchical-clustering?u=76281980&t=77)** Let's zoom in on that and take a look at some of the numbers and the relationships.
+> **[1:17](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/hierarchical-clustering?u=76281980&t=77)** Let's [[Zoom]] in on that and take a look at some of the numbers and the relationships.
 >
 > **[1:23](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/hierarchical-clustering?u=76281980&t=83)** The way to interpret this graph is that the numbers that are close together have some sort of a relationship.
 >
@@ -2506,12 +2478,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Associated terms
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/associated-terms?u=76281980)
+#### [Associated terms](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/associated-terms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/associated-terms?u=76281980&t=1)** - [Instructor] In our research with natural language processing, it might be helpful to understand what terms are associated, what terms are similar, and one way that we can assume that a term is similar is by looking at how often they appear together.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/associated-terms?u=76281980&t=1)** - [Instructor] In our research with [[Natural Language Processing (NLP)|natural language processing]], it might be helpful to understand what terms are associated, what terms are similar, and one way that we can assume that a term is similar is by looking at how often they appear together.
 >
 > **[0:18](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/associated-terms?u=76281980&t=18)** So for example, crisp might often appear with apple or wet might appear with ocean.
 >
@@ -2543,7 +2514,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/associated-terms?u=76281980&t=91)** In the console, you'll see that we have three elements that have been returned, love, hate, and child.
 >
-> **[1:38](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/associated-terms?u=76281980&t=98)** With a correlation limit of 0.95, love only has one other word that correlates and that's lie.
+> **[1:38](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/associated-terms?u=76281980&t=98)** With a correlation limit of 0.95, love only has one other [[Microsoft Word|word]] that correlates and that's lie.
 >
 > **[1:47](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/associated-terms?u=76281980&t=107)** Well, that's an interesting correlation and it tells us something about the poets.
 >
@@ -2579,7 +2550,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/associated-terms?u=76281980&t=206)** So for example, 16,328, the most frequent terms are Beowulf, one, Hrothgar, hero, Grendel, and king.
 >
-> **[3:37](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/associated-terms?u=76281980&t=217)** Depending on your research, this may be significant statistics or it may be just interesting research.
+> **[3:37](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/associated-terms?u=76281980&t=217)** Depending on your research, this may be significant [[Statistics]] or it may be just interesting research.
 >
 > **[3:44](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/associated-terms?u=76281980&t=224)** In either case, TM provides an easy way to find both the most frequent terms and the associated terms.
 
@@ -2599,12 +2570,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is sentiment analysis?
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-sentiment-analysis?u=76281980)
+#### [What is sentiment analysis?](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-sentiment-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-sentiment-analysis?u=76281980&t=1)** - [Instructor] Sentiment analysis is an interesting and subjective part of natural language processing.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-sentiment-analysis?u=76281980&t=1)** - [Instructor] Sentiment analysis is an interesting and subjective part of [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-sentiment-analysis?u=76281980&t=8)** Sentiment analysis provides insight into the emotional content of a document.
 >
@@ -2614,7 +2584,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-sentiment-analysis?u=76281980&t=24)** That dictionary is then compared to a source document.
 >
-> **[0:28](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-sentiment-analysis?u=76281980&t=28)** Each word in the source document is given a score and the cumulative score indicates the sentiment of the document.
+> **[0:28](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-sentiment-analysis?u=76281980&t=28)** Each [[Microsoft Word|word]] in the source document is given a score and the cumulative score indicates the sentiment of the document.
 >
 > **[0:36](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/what-is-sentiment-analysis?u=76281980&t=36)** There are several dictionaries tailored for different types of documents.
 >
@@ -2652,15 +2622,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Natural Language Processing (NLP)|Natural language processing]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** nrc (2), edgar (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Real-world example of sentiment analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-example-of-sentiment-analysis?u=76281980)
+#### [Real-world example of sentiment analysis](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-example-of-sentiment-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2672,7 +2641,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-example-of-sentiment-analysis?u=76281980&t=22)** If you haven't already installed this package look to line five for the installation process.
 >
-> **[0:28](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-example-of-sentiment-analysis?u=76281980&t=28)** In line six, I bring that package into my version of R, and then in line nine I get small text from the tokens, hate, love, and apathy.
+> **[0:28](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-example-of-sentiment-analysis?u=76281980&t=28)** In line six, I bring that package into my version of R, and then in line nine I get small text from the [[Tokens]], hate, love, and apathy.
 >
 > **[0:40](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-example-of-sentiment-analysis?u=76281980&t=40)** This is just a simple vector.
 >
@@ -2682,7 +2651,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-example-of-sentiment-analysis?u=76281980&t=65)** You'll recognize these as the categories that are contained in the NRC project.
 >
-> **[1:11](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-example-of-sentiment-analysis?u=76281980&t=71)** I have three rows and each row corresponds with the word that I've asked to get the sentiment for.
+> **[1:11](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-example-of-sentiment-analysis?u=76281980&t=71)** I have three rows and each row corresponds with the [[Microsoft Word|word]] that I've asked to get the sentiment for.
 >
 > **[1:19](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-example-of-sentiment-analysis?u=76281980&t=79)** So the first row is hate, and you can see that it ranks one for anger and one for disgust, and one for fear but zero for joy and zero for anticipation.
 >
@@ -2770,7 +2739,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-example-of-sentiment-analysis?u=76281980&t=321)** You need to be careful with sentiment analysis.
 >
-> **[5:24](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-example-of-sentiment-analysis?u=76281980&t=324)** There are other statistics that may be more useful in this case.
+> **[5:24](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-example-of-sentiment-analysis?u=76281980&t=324)** There are other [[Statistics]] that may be more useful in this case.
 >
 > **[5:29](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-example-of-sentiment-analysis?u=76281980&t=329)** For example, you might want to look at TF IDF which we talked about way back in this section on waiting document, term matrices.
 >
@@ -2778,7 +2747,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), data (2), nlp (1), [[Tokens]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Tokens]] (1), [[Statistics]] (1)
 > **Env Vars:** nrc (5), nlp (1), fun (1), idf (1)
 > **Versions:** 0.2 (2), 0.5 (1)
 > **Definitions:** is a  (3)
@@ -2787,8 +2756,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** be careful (1)
 
-#### Sentiment datasets
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-datasets?u=76281980)
+#### [Sentiment datasets](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-datasets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2810,7 +2778,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-datasets?u=76281980&t=57)** Down in the console in the lower left-hand corner, you can see that AFFIN has produced a list of words.
 >
-> **[1:03](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-datasets?u=76281980&t=63)** Although they're not shown, each word has a corresponding valence or value.
+> **[1:03](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-datasets?u=76281980&t=63)** Although they're not shown, each [[Microsoft Word|word]] has a corresponding valence or value.
 >
 > **[1:10](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-datasets?u=76281980&t=70)** We can calculate that using the text stat under bar valence command, heart of quanteda I give it the string anger and I tell it to use the data dictionary AFINN.
 >
@@ -2852,7 +2820,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-datasets?u=76281980&t=212)** And in order to look at these I'm going to look at the syuzhet library.
 >
-> **[3:36](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-datasets?u=76281980&t=216)** I'll pull that in, and I need to define small texts with three tokens, love, hate, and apathy.
+> **[3:36](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-datasets?u=76281980&t=216)** I'll pull that in, and I need to define small texts with three [[Tokens]], love, hate, and apathy.
 >
 > **[3:43](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-datasets?u=76281980&t=223)** Again, I can get the NRC sentiment for small text and we did this in the previous session.
 >
@@ -2872,7 +2840,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), data (3), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Tokens]] (1)
 > **Env Vars:** nrc (8), afinn (4), anew (4), affin (1), bing (1)
 > **CLI Commands:** make (3), find (3)
 > **Definitions:** is a  (3), is an  (1)
@@ -2881,8 +2849,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
 
-#### Sentiment tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-tools?u=76281980)
+#### [Sentiment tools](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2906,7 +2873,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-tools?u=76281980&t=59)** On the other end of the continuum are these frameworks.
 >
-> **[1:03](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-tools?u=76281980&t=63)** Quanta in particular is a full featured natural language processing environment and includes sentiment analysis.
+> **[1:03](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-tools?u=76281980&t=63)** Quanta in particular is a full featured [[Natural Language Processing (NLP)|natural language processing]] environment and includes sentiment analysis.
 >
 > **[1:11](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-tools?u=76281980&t=71)** These packages provide intricate control over the parameters used to generate sentiment analysis.
 >
@@ -2914,7 +2881,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-tools?u=76281980&t=84)** Beware, these tools require detailed setup and more time to learn how to use them.
 >
-> **[1:31](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-tools?u=76281980&t=91)** If you're coming from the world of Python programming you might feel more at home using an R version of Python NLP libraries.
+> **[1:31](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-tools?u=76281980&t=91)** If you're coming from the world of [[Python (Programming Language)|Python]] programming you might feel more at home using an R version of Python NLP libraries.
 >
 > **[1:40](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-tools?u=76281980&t=100)** These two packages, [Sentiment.ai](https://Sentiment.ai) and transforEmotion provide an R interface to Python NLP tools.
 >
@@ -2928,15 +2895,15 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-tools?u=76281980&t=138)** I mentioned them here so you're aware of their existence and use, in the case of the Twitter API becoming available again.
 >
-> **[2:27](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-tools?u=76281980&t=147)** There are natural language processing web services from Microsoft, Google, IBM, and other companies.
+> **[2:27](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-tools?u=76281980&t=147)** There are natural language processing web services from [[Microsoft]], [[Google]], IBM, and other companies.
 >
 > **[2:35](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-tools?u=76281980&t=155)** There is a package on CRAN which provides R access to Microsoft Cognitive Services and it does require creating an account with that service.
 >
-> **[2:46](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-tools?u=76281980&t=166)** Although we don't have time in this course to cover each of these tools in any sort of detail, these tools will appear as separate sessions in my companion course titled "R for Data Science: Lunch Break Lessons."
+> **[2:46](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-tools?u=76281980&t=166)** Although we don't have time in this course to cover each of these tools in any sort of detail, these tools will appear as separate sessions in my companion course titled "R for [[Data Science]]: Lunch Break Lessons."
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), nlp (2), api (2), data (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Microsoft]] (2), [[Google]] (1), [[Data Science]] (1)
 > **Env Vars:** nlp (2), api (2), ibm (1), cran (1)
 > **CLI Commands:** python (3)
 > **Definitions:** is a  (2)
@@ -2950,12 +2917,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Plotting text mining
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/plotting-text-mining?u=76281980)
+#### [Plotting text mining](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/plotting-text-mining?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/plotting-text-mining?u=76281980&t=1)** - [Instructor] Visualizations are useful for interpreting any dataset and it's the same way with natural language processing.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/plotting-text-mining?u=76281980&t=1)** - [Instructor] Visualizations are useful for interpreting any dataset and it's the same way with [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/plotting-text-mining?u=76281980&t=9)** There are a couple of ways to visualize the results of natural language processing.
 >
@@ -3029,7 +2995,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (3), data (1), next (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (3)
 > **Code Identifiers:** frequentterms (3), poetcorpus (2)
 > **Definitions:** is a  (3), short for (1)
 > **Prerequisites:** install (3), set up (1)
@@ -3037,12 +3003,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Plotting Zipf’s and Heap’s Law
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/plotting-zipf-s-and-heap-s-law?u=76281980)
+#### [Plotting Zipf’s and Heap’s Law](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/plotting-zipf-s-and-heap-s-law?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/plotting-zipf-s-and-heap-s-law?u=76281980&t=1)** - [Instructor] Zip's Law and Heap's Law are two interesting concepts in the world of natural language processing.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/plotting-zipf-s-and-heap-s-law?u=76281980&t=1)** - [Instructor] Zip's Law and Heap's Law are two interesting concepts in the world of [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/plotting-zipf-s-and-heap-s-law?u=76281980&t=9)** TM provides tools for plotting both of these and exploring those concepts.
 >
@@ -3054,7 +3019,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/plotting-zipf-s-and-heap-s-law?u=76281980&t=36)** Now, what does this actually mean?
 >
-> **[0:38](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/plotting-zipf-s-and-heap-s-law?u=76281980&t=38)** Zip's Law states that the most frequent word will occur about twice as often as the second most frequent word.
+> **[0:38](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/plotting-zipf-s-and-heap-s-law?u=76281980&t=38)** Zip's Law states that the most frequent [[Microsoft Word|word]] will occur about twice as often as the second most frequent word.
 >
 > **[0:49](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/plotting-zipf-s-and-heap-s-law?u=76281980&t=49)** It'll appear three times as often as the third most frequent word, and so on.
 >
@@ -3082,17 +3047,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Word clouds
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/word-clouds?u=76281980)
+#### [Word clouds](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/word-clouds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/word-clouds?u=76281980&t=1)** - [Instructor] Word clouds are a colorful, but simplistic way of looking at term frequency within a document.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/word-clouds?u=76281980&t=1)** - [Instructor] [[Microsoft Word|Word]] clouds are a colorful, but simplistic way of looking at term frequency within a document.
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/word-clouds?u=76281980&t=9)** The TM package, along with two word cloud packages makes it fairly simple to produce these simplistic graphs.
 >
@@ -3116,7 +3080,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/word-clouds?u=76281980&t=70)** After a bit of time, we have the result of a word cloud command.
 >
-> **[1:16](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/word-clouds?u=76281980&t=76)** We can zoom in and take a look at this result and you can see terms that we've been working with.
+> **[1:16](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/word-clouds?u=76281980&t=76)** We can [[Zoom]] in and take a look at this result and you can see terms that we've been working with.
 >
 > **[1:21](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/word-clouds?u=76281980&t=81)** Some of them are the most frequent terms.
 >
@@ -3136,7 +3100,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (11), cloud (9), data (2), next (2), [[Zoom]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (11), [[Zoom]] (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** install (1), set up (1)
 > **Speakers:** - [instructor] (1)
@@ -3146,12 +3110,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your next steps in NLP
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp-24442815?u=76281980)
+#### [Your next steps in NLP](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp-24442815?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp-24442815?u=76281980&t=1)** - [Narrator] Thanks for participating in this class on natural language processing.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp-24442815?u=76281980&t=1)** - [Narrator] Thanks for participating in this class on [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp-24442815?u=76281980&t=6)** You might think, since this is the last video of the course, there's nothing left to learn.
 >
@@ -3171,33 +3134,33 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp-24442815?u=76281980&t=40)** Words gain additional meanings, depending on who is using them, and how.
 >
-> **[0:46](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp-24442815?u=76281980&t=46)** For example, cosplay was originally from Japan but has become a commonly understood word among English speakers.
+> **[0:46](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp-24442815?u=76281980&t=46)** For example, cosplay was originally from Japan but has become a commonly understood [[Microsoft Word|word]] among English speakers.
 >
 > **[0:56](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp-24442815?u=76281980&t=56)** These shifts in language require new approaches to NLP.
 >
-> **[1:00](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp-24442815?u=76281980&t=60)** For instance, stemming algorithms will need to understand how to work with multiple languages.
+> **[1:00](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp-24442815?u=76281980&t=60)** For instance, stemming [[Algorithms]] will need to understand how to work with multiple languages.
 >
 > **[1:07](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp-24442815?u=76281980&t=67)** Stop words will need to accommodate changes to pronouns, such as they and them.
 >
 > **[1:13](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp-24442815?u=76281980&t=73)** And of course, our technology changes.
 >
-> **[1:16](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp-24442815?u=76281980&t=76)** Online cognitive services provide exciting new tools and hardware's becoming faster, specialized, and more capable.
+> **[1:16](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp-24442815?u=76281980&t=76)** Online cognitive services provide exciting new tools and [[Hardware]]'s becoming faster, specialized, and more capable.
 >
 > **[1:26](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp-24442815?u=76281980&t=86)** Lately, handheld language translators cost less than $300.
 >
 > **[1:31](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp-24442815?u=76281980&t=91)** They carry 40 languages and have a translation accuracy of 95%.
 >
-> **[1:38](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp-24442815?u=76281980&t=98)** Most recently, artificial intelligence has advanced natural language processing and participates in conversations, ranging from amusing to alarming.
+> **[1:38](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp-24442815?u=76281980&t=98)** Most recently, [[Artificial Intelligence (AI)|artificial intelligence]] has advanced natural language processing and participates in conversations, ranging from amusing to alarming.
 >
 > **[1:50](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp-24442815?u=76281980&t=110)** By completing this course, you have a basis for understanding how NLP works and can make educated guesses about the next research advances.
 >
 > **[2:00](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp-24442815?u=76281980&t=120)** I'm excited about this emerging field and I hope you are as well.
 >
-> **[2:05](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp-24442815?u=76281980&t=125)** And until our next encounter, Klaatu barada nikto.
+> **[2:05](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp-24442815?u=76281980&t=125)** And until our next encounter, Klaatu barada [[Nikto]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), nlp (2), next (2), express (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Microsoft Word|Word]] (1), [[Algorithms]] (1), [[Hardware]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** for instance (2), for example (1), such as (1)
 > **Env Vars:** nlp (2)
 > **CLI Commands:** make (1)
@@ -3208,12 +3171,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to natural language processing with R
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r?u=76281980)
+#### [Welcome to natural language processing with R](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r?u=76281980&t=1)** - [Mark] Natural language processing provides computerized tools to help us quantify human speech and research the intent behind a piece of writing.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r?u=76281980&t=1)** - [Mark] [[Natural Language Processing (NLP)|Natural language processing]] provides computerized tools to help us quantify human speech and research the intent behind a piece of writing.
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r?u=76281980&t=10)** There are lots of tools to do this analysis.
 >
@@ -3241,17 +3203,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Programming]] (1), career (1), nlp (1), data (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2)
 > **Definitions:** is a  (3)
 > **Env Vars:** nlp (1)
 > **Speakers:** - [mark] (1)
 
-#### Skills you need to be successful in this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-you-ll-need-to-be-successful-in-this-course?u=76281980)
+#### [Skills you need to be successful in this course](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-you-ll-need-to-be-successful-in-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-you-ll-need-to-be-successful-in-this-course?u=76281980&t=1)** - [Instructor] This course on natural language processing requires knowledge of the R programming language.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-you-ll-need-to-be-successful-in-this-course?u=76281980&t=1)** - [Instructor] This course on [[Natural Language Processing (NLP)|natural language processing]] requires knowledge of the R programming language.
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-you-ll-need-to-be-successful-in-this-course?u=76281980&t=7)** This is decidedly not a beginning course.
 >
@@ -3271,7 +3232,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-you-ll-need-to-be-successful-in-this-course?u=76281980&t=44)** If you aren't sure about these concepts, you might want to look at one of the beginning R courses in this library.
 >
-> **[0:51](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-you-ll-need-to-be-successful-in-this-course?u=76281980&t=51)** Another alternative is to take the LinkedIn Skills Assessment Test.
+> **[0:51](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-you-ll-need-to-be-successful-in-this-course?u=76281980&t=51)** Another alternative is to take the [[LinkedIn]] Skills Assessment Test.
 >
 > **[0:55](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-you-ll-need-to-be-successful-in-this-course?u=76281980&t=55)** You'll find it via your profile under Skills.
 >
@@ -3291,7 +3252,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-you-ll-need-to-be-successful-in-this-course?u=76281980&t=81)** Programming natural language processing tasks can be done with a regular text editor, but it will be a painful process.
 >
-> **[1:30](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-you-ll-need-to-be-successful-in-this-course?u=76281980&t=90)** To perform NLP efficiently requires an integrated development environment such as RStudio, VS Code, or R Commander.
+> **[1:30](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-you-ll-need-to-be-successful-in-this-course?u=76281980&t=90)** To perform NLP efficiently requires an integrated development environment such as [[RStudio]], VS Code, or R Commander.
 >
 > **[1:39](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-you-ll-need-to-be-successful-in-this-course?u=76281980&t=99)** These IDEs will help you write efficient code and avoid mistakes, and amazingly, all of them have no-cost options.
 >
@@ -3299,7 +3260,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-you-ll-need-to-be-successful-in-this-course?u=76281980&t=111)** It's popular, but by no means the only option available.
 >
-> **[1:55](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-you-ll-need-to-be-successful-in-this-course?u=76281980&t=115)** I have also used Visual Studio Code and dabbled with several other products.
+> **[1:55](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-you-ll-need-to-be-successful-in-this-course?u=76281980&t=115)** I have also used Visual Studio Code and dabbled with several other [[Microsoft Products|products]].
 >
 > **[2:00](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-you-ll-need-to-be-successful-in-this-course?u=76281980&t=120)** Whatever IDE you choose will be fine.
 >
@@ -3309,7 +3270,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[RStudio]] (2), [[LinkedIn]] (1), nlp (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), [[RStudio]] (2), [[LinkedIn]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** ide (2), nlp (1)
 > **Tools:** vs code (1), visual studio (1)
 > **CLI Commands:** find (1)
@@ -3322,12 +3283,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to think like tidytext
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/how-to-think-like-tidytext?u=76281980)
+#### [How to think like tidytext](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/how-to-think-like-tidytext?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/how-to-think-like-tidytext?u=76281980&t=1)** - [Instructor] Many natural language processing packages work with lists and matrices.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/how-to-think-like-tidytext?u=76281980&t=1)** - [Instructor] Many [[Natural Language Processing (NLP)|natural language processing]] packages work with lists and matrices.
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/how-to-think-like-tidytext?u=76281980&t=7)** These objects are commonly described as corpora, collections of documents, and document term matrices, documents showing term frequency in a collection of documents.
 >
@@ -3339,7 +3299,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/how-to-think-like-tidytext?u=76281980&t=32)** Each observation is a row and each type of observational unit is a table.
 >
-> **[0:40](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/how-to-think-like-tidytext?u=76281980&t=40)** Tidytext brings these concepts to text mining, resulting in a document structure with one word or token per row.
+> **[0:40](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/how-to-think-like-tidytext?u=76281980&t=40)** Tidytext brings these concepts to [[Text Mining]], resulting in a document structure with one [[Microsoft Word|word]] or token per row.
 >
 > **[0:48](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/how-to-think-like-tidytext?u=76281980&t=48)** There isn't an inherent advantage of one method over another, but if you are used to data in one form or another, you may find it easier to work with what you already know.
 >
@@ -3347,7 +3307,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/how-to-think-like-tidytext?u=76281980&t=70)** In contrast, if you've worked with the tidyverse and understand pipelining, which is %&gt;%, and tools such as dplyr or lubridate, you may be more comfortable using tidytext for NLP.
 >
-> **[1:26](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/how-to-think-like-tidytext?u=76281980&t=86)** For example, where tidytext relies on existing tools such as dplyr and count to produce the same statistics, many base-R NLP packages provide specialized tools to find the most frequent terms in a document term matrix.
+> **[1:26](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/how-to-think-like-tidytext?u=76281980&t=86)** For example, where tidytext relies on existing tools such as dplyr and count to produce the same [[Statistics]], many base-R NLP packages provide specialized tools to find the most frequent terms in a document term matrix.
 >
 > **[1:43](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/how-to-think-like-tidytext?u=76281980&t=103)** In this course, we'll be entirely focused on the tidytext method of NLP.
 >
@@ -3355,19 +3315,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (4), data (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Text Mining]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Text Mining]] (1), [[Microsoft Word|Word]] (1), [[Statistics]] (1)
 > **Env Vars:** nlp (4)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (2), such as (2)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
-#### An example: Calculate the most popular terms in a document
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/an-example-calculate-the-most-popular-terms-in-a-document?u=76281980)
+#### [An example: Calculate the most popular terms in a document](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/an-example-calculate-the-most-popular-terms-in-a-document?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/an-example-calculate-the-most-popular-terms-in-a-document?u=76281980&t=1)** - [Instructor] I could spend a lot of time talking about theory and practice behind natural language processing, but we're talking about how to use tidytext to do that.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/an-example-calculate-the-most-popular-terms-in-a-document?u=76281980&t=1)** - [Instructor] I could spend a lot of time talking about theory and practice behind [[Natural Language Processing (NLP)|natural language processing]], but we're talking about how to use tidytext to do that.
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/an-example-calculate-the-most-popular-terms-in-a-document?u=76281980&t=10)** So let's dive right in.
 >
@@ -3389,7 +3348,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/an-example-calculate-the-most-popular-terms-in-a-document?u=76281980&t=74)** In line 12 through 17, I've set up a chunk of tidytext code.
 >
-> **[1:20](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/an-example-calculate-the-most-popular-terms-in-a-document?u=76281980&t=80)** When we run it, you'll see that I receive a list of terms, Dorothy with an N of 347, which means that the word Dorothy appears 347 times, Scarecrow appears 219 times.
+> **[1:20](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/an-example-calculate-the-most-popular-terms-in-a-document?u=76281980&t=80)** When we run it, you'll see that I receive a list of terms, Dorothy with an N of 347, which means that the [[Microsoft Word|word]] Dorothy appears 347 times, Scarecrow appears 219 times.
 >
 > **[1:37](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/an-example-calculate-the-most-popular-terms-in-a-document?u=76281980&t=97)** Let's look at the code to see where this actually came from.
 >
@@ -3397,7 +3356,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/an-example-calculate-the-most-popular-terms-in-a-document?u=76281980&t=109)** This is just simply the text of the book "Wonderful Wizard of Oz."
 >
-> **[1:54](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/an-example-calculate-the-most-popular-terms-in-a-document?u=76281980&t=114)** In line 13, I use unnest underbar tokens and we'll talk quite a bit about unnest tokens in a future session, what unnest tokens does is take all the words of WonderfulWizardofOz.text and convert them to one word per row.
+> **[1:54](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/an-example-calculate-the-most-popular-terms-in-a-document?u=76281980&t=114)** In line 13, I use unnest underbar [[Tokens]] and we'll talk quite a bit about unnest tokens in a future session, what unnest tokens does is take all the words of WonderfulWizardofOz.text and convert them to one word per row.
 >
 > **[2:13](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/an-example-calculate-the-most-popular-terms-in-a-document?u=76281980&t=133)** In line 14, I use filter to remove all of the numbers in the text.
 >
@@ -3420,16 +3379,15 @@ created: 2026-05-02
 > **Env Vars:** osma (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tokenizing with unnest_tokens( )
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/tokenizing-with-unnest-tokens?u=76281980)
+#### [Tokenizing with unnest_tokens( )](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/tokenizing-with-unnest-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/tokenizing-with-unnest-tokens?u=76281980&t=1)** - [Instructor] tokenizing is at the heart of natural language processing and tidytext provides some useful tools to do that.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/tokenizing-with-unnest-tokens?u=76281980&t=1)** - [Instructor] tokenizing is at the heart of [[Natural Language Processing (NLP)|natural language processing]] and tidytext provides some useful tools to do that.
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/tokenizing-with-unnest-tokens?u=76281980&t=10)** In this session, let's look at how tokenizing is accomplished with tidytext.
 >
-> **[0:14](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/tokenizing-with-unnest-tokens?u=76281980&t=14)** Right up front, tidytext uses something called unnest tokens to accomplish this task, here is some code to accomplish this.
+> **[0:14](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/tokenizing-with-unnest-tokens?u=76281980&t=14)** Right up front, tidytext uses something called unnest [[Tokens]] to accomplish this task, here is some code to accomplish this.
 >
 > **[0:25](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/tokenizing-with-unnest-tokens?u=76281980&t=25)** In order to run this code, of course you'll need to make sure that your current working directory points to the exercise files where it can find wonderful wizard of oz dot text.
 >
@@ -3465,7 +3423,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/tokenizing-with-unnest-tokens?u=76281980&t=140)** The second column is wiz words, which you'll see in line 13 was our output column.
 >
-> **[2:26](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/tokenizing-with-unnest-tokens?u=76281980&t=146)** And then there's the text, which is what the original text was that we took the wiz word from.
+> **[2:26](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/tokenizing-with-unnest-tokens?u=76281980&t=146)** And then there's the text, which is what the original text was that we took the wiz [[Microsoft Word|word]] from.
 >
 > **[2:31](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/tokenizing-with-unnest-tokens?u=76281980&t=151)** If we scroll down a bit, you'll see that wiz words is actually each individual word in the entire document.
 >
@@ -3553,7 +3511,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (12), [[Microsoft Word|Word]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (12), [[Microsoft Word|Word]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** ptb (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -3562,8 +3520,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Exercise Files:** exercise files (1)
 
-#### Stopwords, punctuation, whitespace, and numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stopwords-punctuation-whitespace-and-numbers?u=76281980)
+#### [Stopwords, punctuation, whitespace, and numbers](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stopwords-punctuation-whitespace-and-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3571,7 +3528,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stopwords-punctuation-whitespace-and-numbers?u=76281980&t=5)** Most often this is words, but tokenizing can also break things into paragraphs or sentences or individual characters, punctuation, numbers, or whitespace.
 >
-> **[0:17](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stopwords-punctuation-whitespace-and-numbers?u=76281980&t=17)** Some of these tokens are not useful for doing statistics.
+> **[0:17](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stopwords-punctuation-whitespace-and-numbers?u=76281980&t=17)** Some of these [[Tokens]] are not useful for doing [[Statistics]].
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stopwords-punctuation-whitespace-and-numbers?u=76281980&t=22)** For example, numbers may not add context to what you're trying to understand, and there are many words that are only there for human consumption.
 >
@@ -3583,7 +3540,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stopwords-punctuation-whitespace-and-numbers?u=76281980&t=50)** In line eight, I create a sample tibble called term frequency.
 >
-> **[0:55](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stopwords-punctuation-whitespace-and-numbers?u=76281980&t=55)** This is "The Wonderful Wizard of Oz" text, unnested or tokenized into individual words, and then each word is counted.
+> **[0:55](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stopwords-punctuation-whitespace-and-numbers?u=76281980&t=55)** This is "The Wonderful Wizard of Oz" text, unnested or tokenized into individual words, and then each [[Microsoft Word|word]] is counted.
 >
 > **[1:04](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stopwords-punctuation-whitespace-and-numbers?u=76281980&t=64)** Let's take a look at what term frequency looks like.
 >
@@ -3702,14 +3659,13 @@ created: 2026-05-02
 > **Env Vars:** smart (1)
 > **Exercise Files:** sample code (1)
 
-#### Stemming and lemmatization
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming-and-lemmatization?u=76281980)
+#### [Stemming and lemmatization](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming-and-lemmatization?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming-and-lemmatization?u=76281980&t=1)** - [Instructor] Stemming and lemmification are two related concepts.
 >
-> **[0:05](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming-and-lemmatization?u=76281980&t=5)** They're both designed to aggregate words to improve statistics on token counts.
+> **[0:05](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming-and-lemmatization?u=76281980&t=5)** They're both designed to aggregate words to improve [[Statistics]] on token counts.
 >
 > **[0:12](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming-and-lemmatization?u=76281980&t=12)** Let's take a look at how to do both processes and talk a bit about the concerns you might have with stemming and lemmification.
 >
@@ -3719,7 +3675,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming-and-lemmatization?u=76281980&t=34)** Snowball C is a standard stemming library.
 >
-> **[0:38](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming-and-lemmatization?u=76281980&t=38)** Let's run the code in line 12 and then take a look at the results of using word stem which is part of the snowball C package.
+> **[0:38](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming-and-lemmatization?u=76281980&t=38)** Let's run the code in line 12 and then take a look at the results of using [[Microsoft Word|word]] stem which is part of the snowball C package.
 >
 > **[0:47](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming-and-lemmatization?u=76281980&t=47)** I'm going to click on stemmed and you'll see a table with three columns, doc id, the original word and the stemmed word.
 >
@@ -3733,7 +3689,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming-and-lemmatization?u=76281980&t=97)** Now look at line 15.
 >
-> **[1:40](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming-and-lemmatization?u=76281980&t=100)** Copy C O P Y has been changed to C O P I and stemming algorithms will oftentimes remove the Y and replace it with an I.
+> **[1:40](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming-and-lemmatization?u=76281980&t=100)** Copy C O P Y has been changed to C O P I and stemming [[Algorithms]] will oftentimes remove the Y and replace it with an I.
 >
 > **[1:53](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming-and-lemmatization?u=76281980&t=113)** So you'll see copy or copied or copying all coming up as the same word.
 >
@@ -3792,12 +3748,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Warnings:** note that (1)
 
-#### Term frequency with bind_tf_idf( )
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/term-frequency-with-bind-tf-idf?u=76281980)
+#### [Term frequency with bind_tf_idf( )](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/term-frequency-with-bind-tf-idf?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/term-frequency-with-bind-tf-idf?u=76281980&t=1)** - [Instructor] Natural language processing uses a sophisticated statistic called term frequency and inverse document frequency.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/term-frequency-with-bind-tf-idf?u=76281980&t=1)** - [Instructor] [[Natural Language Processing (NLP)|Natural language processing]] uses a sophisticated statistic called term frequency and inverse document frequency.
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/term-frequency-with-bind-tf-idf?u=76281980&t=11)** The math behind this particular statistic is deep and I'm not going to go into it right now, instead of what I'm going to do is spend time showing you how to compute this particular statistic.
 >
@@ -3805,7 +3760,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/term-frequency-with-bind-tf-idf?u=76281980&t=31)** The first thing I want to show you is a standard term frequency, which is what we've been using all along.
 >
-> **[0:37](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/term-frequency-with-bind-tf-idf?u=76281980&t=37)** Term frequency is simply the number of times a word appears in this document.
+> **[0:37](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/term-frequency-with-bind-tf-idf?u=76281980&t=37)** Term frequency is simply the number of times a [[Microsoft Word|word]] appears in this document.
 >
 > **[0:43](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/term-frequency-with-bind-tf-idf?u=76281980&t=43)** Now, this is a bit different than the term frequency used in TFIDF.
 >
@@ -3843,7 +3798,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/term-frequency-with-bind-tf-idf?u=76281980&t=151)** Down in line five is Patchwork Oz, and if you look down in line 12, you'll see Ozma of Oz.
 >
-> **[2:39](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/term-frequency-with-bind-tf-idf?u=76281980&t=159)** The word column shows individual tokens for each document.
+> **[2:39](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/term-frequency-with-bind-tf-idf?u=76281980&t=159)** The word column shows individual [[Tokens]] for each document.
 >
 > **[2:44](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/term-frequency-with-bind-tf-idf?u=76281980&t=164)** In this case, Betsy and Carter, Rash, Ready, Ojo, these are all members of the documents listed to their left.
 >
@@ -3861,7 +3816,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/term-frequency-with-bind-tf-idf?u=76281980&t=213)** And then finally, the last column is the most interesting statistic, tf_idf.
 >
-> **[3:41](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/term-frequency-with-bind-tf-idf?u=76281980&t=221)** Without going into the actual statistics itself, what we know is that the best place to find the word Betsy would happen to be in OzHungryTiger.text.
+> **[3:41](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/term-frequency-with-bind-tf-idf?u=76281980&t=221)** Without going into the actual [[Statistics]] itself, what we know is that the best place to find the word Betsy would happen to be in OzHungryTiger.text.
 >
 > **[3:53](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/term-frequency-with-bind-tf-idf?u=76281980&t=233)** The higher the TFIDF, the more likely that a particular word is associated with the document.
 >
@@ -3897,7 +3852,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Tokens]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Statistics]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Tokens]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Statistics]] (1)
 > **Env Vars:** tfidf (9), idf (1)
 > **Code Identifiers:** tf_idf (2), unnest_tokens (1), bind_tf_idf (1)
 > **Prerequisites:** set up (2), you'll need (1), you need to have (1)
@@ -3905,12 +3860,11 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
-#### Sentiment analysis with sentiments( )
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-analysis-with-sentiments?u=76281980)
+#### [Sentiment analysis with sentiments( )](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-analysis-with-sentiments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-analysis-with-sentiments?u=76281980&t=1)** - [Instructor] Sentiment analysis is a natural language processing tool used to determine the intent of a document.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-analysis-with-sentiments?u=76281980&t=1)** - [Instructor] Sentiment analysis is a [[Natural Language Processing (NLP)|natural language processing]] tool used to determine the intent of a document.
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-analysis-with-sentiments?u=76281980&t=10)** By attaching values to words, we can determine whether a document is intended to be negative or positive or angry or happy.
 >
@@ -3926,7 +3880,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-analysis-with-sentiments?u=76281980&t=60)** Line nine provides us with all of the sentiments available in this particular dictionary, and you'll notice that only negative and positive appear as sentiments in this particular dictionary.
 >
-> **[1:14](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-analysis-with-sentiments?u=76281980&t=74)** What you're seeing is that somebody has created this particular list of words and in their view, their judgment, words like abomination is a negative word.
+> **[1:14](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-analysis-with-sentiments?u=76281980&t=74)** What you're seeing is that somebody has created this particular list of words and in their view, their judgment, words like abomination is a negative [[Microsoft Word|word]].
 >
 > **[1:25](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-analysis-with-sentiments?u=76281980&t=85)** This is the immediate concern you should have.
 >
@@ -3960,7 +3914,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-analysis-with-sentiments?u=76281980&t=176)** You'll notice that the first column is the document ID where this particular token came from.
 >
-> **[3:02](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-analysis-with-sentiments?u=76281980&t=182)** The second column labeled word is actually a series of tokens.
+> **[3:02](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-analysis-with-sentiments?u=76281980&t=182)** The second column labeled word is actually a series of [[Tokens]].
 >
 > **[3:06](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-analysis-with-sentiments?u=76281980&t=186)** The third column is sentiments attached to those particular tokens.
 >
@@ -3980,13 +3934,13 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-analysis-with-sentiments?u=76281980&t=245)** How about in line three, we're told that this is somewhat a fearful document, much more so than a surprising document or a disgusting document.
 >
-> **[4:17](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-analysis-with-sentiments?u=76281980&t=257)** Obviously, sentiment analysis provides us with a whole list of values that we can generate on statistical analysis.
+> **[4:17](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-analysis-with-sentiments?u=76281980&t=257)** Obviously, sentiment analysis provides us with a whole list of values that we can generate on [[Statistical Analysis]].
 >
 > **[4:26](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/sentiment-analysis-with-sentiments?u=76281980&t=266)** It's important to be careful to realize that the initial intent of these dictionaries were created by someone and are somewhat subjective in nature, but sentiment analysis can give us a view into the intent of a document.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Tokens]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), data (1), [[Statistical Analysis]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Tokens]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Statistical Analysis]] (1)
 > **Env Vars:** nrc (5)
 > **Definitions:** is a  (2)
 > **Warnings:** be aware (1), be careful (1)
@@ -3994,12 +3948,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Parts of speech with parts_of_speech( )
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/parts-of-speech-with-parts-of-speech?u=76281980)
+#### [Parts of speech with parts_of_speech( )](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/parts-of-speech-with-parts-of-speech?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/parts-of-speech-with-parts-of-speech?u=76281980&t=1)** - [Instructor] Natural language processing uses a tool called parts of speech to identify tokens in context.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/parts-of-speech-with-parts-of-speech?u=76281980&t=1)** - [Instructor] [[Natural Language Processing (NLP)|Natural language processing]] uses a tool called parts of speech to identify [[Tokens]] in context.
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/parts-of-speech-with-parts-of-speech?u=76281980&t=10)** Let's take a look at how tidy text implements this concept and why it might be useful or why you might want to be concerned about what parts of speech is doing.
 >
@@ -4007,7 +3960,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/parts-of-speech-with-parts-of-speech?u=76281980&t=27)** Then in line seven, I've called up parts of speech.
 >
-> **[0:32](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/parts-of-speech-with-parts-of-speech?u=76281980&t=32)** If you look down in the console, you'll notice that we have a tibble with two columns, Word and POS or parts of speech.
+> **[0:32](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/parts-of-speech-with-parts-of-speech?u=76281980&t=32)** If you look down in the console, you'll notice that we have a tibble with two columns, [[Microsoft Word|Word]] and POS or parts of speech.
 >
 > **[0:41](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/parts-of-speech-with-parts-of-speech?u=76281980&t=41)** Each word has an associated part of speech, adjective, noun, verb, things like that.
 >
@@ -4077,18 +4030,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), [[Tokens]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), chatbot (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), [[Tokens]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Definitions:** is a  (6)
 > **Env Vars:** pos (2), pos_oz (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Import and export from other NLP packages
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/import-and-export-from-other-nlp-packages?u=76281980)
+#### [Import and export from other NLP packages](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/import-and-export-from-other-nlp-packages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/import-and-export-from-other-nlp-packages?u=76281980&t=1)** - [Instructor] This entire course has been about how to use tidy text and the tidy verse to do natural language processing.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/import-and-export-from-other-nlp-packages?u=76281980&t=1)** - [Instructor] This entire course has been about how to use tidy text and the tidy verse to do [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/import-and-export-from-other-nlp-packages?u=76281980&t=9)** There are many other natural language processing tools such as Quantida or TM or UD Pipe.
 >
@@ -4096,7 +4048,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/import-and-export-from-other-nlp-packages?u=76281980&t=26)** Let's take a look at how to bring in corpora or collections of documents into the tidyverse slash tidy text universe.
 >
-> **[0:35](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/import-and-export-from-other-nlp-packages?u=76281980&t=35)** In line two, I've brought in the tm or text mining package, followed by tidy verse and tidy text.
+> **[0:35](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/import-and-export-from-other-nlp-packages?u=76281980&t=35)** In line two, I've brought in the tm or [[Text Mining]] package, followed by tidy verse and tidy text.
 >
 > **[0:45](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/import-and-export-from-other-nlp-packages?u=76281980&t=45)** In line seven, I've created something called a v corpus and it's important to notice that you can't use corpus or simple corpus, which are two document structures in the text mining package.
 >
@@ -4104,7 +4056,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/import-and-export-from-other-nlp-packages?u=76281980&t=70)** Well let's take a look at that and what you'll see is something that looks very different than what we've been working with.
 >
-> **[1:16](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/import-and-export-from-other-nlp-packages?u=76281980&t=76)** There is a list of documents, and then each of those is a list in itself that contains content and metadata.
+> **[1:16](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/import-and-export-from-other-nlp-packages?u=76281980&t=76)** There is a list of documents, and then each of those is a list in itself that contains content and [[Metadata]].
 >
 > **[1:26](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/import-and-export-from-other-nlp-packages?u=76281980&t=86)** For a deeper understanding of what this particular corpus actually contains, there is a class on tm located in this library.
 >
@@ -4114,7 +4066,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/import-and-export-from-other-nlp-packages?u=76281980&t=110)** When we run that, we can take a look at the result.
 >
-> **[1:54](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/import-and-export-from-other-nlp-packages?u=76281980&t=114)** When we take a look at this file we see something that looks much more familiar to the tidy text list of tokens that we've been using in the past.
+> **[1:54](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/import-and-export-from-other-nlp-packages?u=76281980&t=114)** When we take a look at this file we see something that looks much more familiar to the tidy text list of [[Tokens]] that we've been using in the past.
 >
 > **[2:03](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/import-and-export-from-other-nlp-packages?u=76281980&t=123)** There is an addition of some metadata, author, date, timestamp, description and heading, but there is a document ID and a token, the Project Gutenberg ebook.
 >
@@ -4133,26 +4085,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/next-steps?u=76281980&t=1)** - [Mark] Tidytext provides a well-designed set of tools for natural language processing using tidyverse concepts and packages.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/next-steps?u=76281980&t=1)** - [Mark] Tidytext provides a well-designed set of tools for [[Natural Language Processing (NLP)|natural language processing]] using tidyverse concepts and packages.
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/next-steps?u=76281980&t=10)** It doesn't have all the bells and whistles provided by other NLP packages such as Quanteda, tm, or Udpipe, but coupled with dplyr and other tidyverse tools, it accomplishes everything you'll need for effective text mining.
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/next-steps?u=76281980&t=10)** It doesn't have all the bells and whistles provided by other NLP packages such as Quanteda, tm, or Udpipe, but coupled with dplyr and other tidyverse tools, it accomplishes everything you'll need for effective [[Text Mining]].
 >
 > **[0:28](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/next-steps?u=76281980&t=28)** In this course, I've provided you with guidelines and insights into natural language tools and techniques, but this field of knowledge is growing and changing at a rapid pace.
 >
-> **[0:40](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/next-steps?u=76281980&t=40)** Shifts in language require new approaches to NLP, for instance, stemming algorithms will need to understand how to work with multiple languages.
+> **[0:40](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/next-steps?u=76281980&t=40)** Shifts in language require new approaches to NLP, for instance, stemming [[Algorithms]] will need to understand how to work with multiple languages.
 >
 > **[0:49](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/next-steps?u=76281980&t=49)** Stop words will need to accommodate changes to pronouns, such as they and them.
 >
 > **[0:56](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/next-steps?u=76281980&t=56)** And of course, our technology changes.
 >
-> **[0:59](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/next-steps?u=76281980&t=59)** Online cognitive services provide exciting new tools, and hardware is becoming faster, specialized, and more capable.
+> **[0:59](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/next-steps?u=76281980&t=59)** Online cognitive services provide exciting new tools, and [[Hardware]] is becoming faster, specialized, and more capable.
 >
-> **[1:08](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/next-steps?u=76281980&t=68)** Most recently, artificial intelligence has advanced natural language processing and participates in conversations ranging from amusing to alarming.
+> **[1:08](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/next-steps?u=76281980&t=68)** Most recently, [[Artificial Intelligence (AI)|artificial intelligence]] has advanced natural language processing and participates in conversations ranging from amusing to alarming.
 >
 > **[1:19](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/next-steps?u=76281980&t=79)** By completing this course, you have a basis for understanding how NLP works and can make educated guesses about the next research advances.
 >
@@ -4162,7 +4113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (3), nlp (3), [[Text Mining]] (1), [[Algorithms]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (3), [[Text Mining]] (1), [[Algorithms]] (1), [[Hardware]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** nlp (3)
 > **Analogies:** such as (2), for instance (1)
 > **CLI Commands:** make (1)
@@ -4174,12 +4125,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to natural language processing with R
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r-24442823?u=76281980)
+#### [Welcome to natural language processing with R](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r-24442823?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r-24442823?u=76281980&t=1)** Natural language processing lets you mine huge collections of text, such as transcripts of every political speech for an election or every quarterly earnings call for a company.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r-24442823?u=76281980&t=1)** [[Natural Language Processing (NLP)|Natural language processing]] lets you mine huge collections of text, such as transcripts of every political speech for an election or every quarterly earnings call for a company.
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r-24442823?u=76281980&t=14)** Is a candidate optimistic or pessimistic about the economy?
 >
@@ -4189,20 +4139,19 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r-24442823?u=76281980&t=34)** Hi, I'm Mark Niemann-Ross.
 >
-> **[0:36](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r-24442823?u=76281980&t=36)** Join me to learn how to leverage Quanteda in your next text mining, Natural Language Processing Project.
+> **[0:36](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/welcome-to-natural-language-processing-with-r-24442823?u=76281980&t=36)** Join me to learn how to leverage Quanteda in your next [[Text Mining]], Natural Language Processing Project.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (3), data (1), next (1), [[Text Mining]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (3), [[Text Mining]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Skills and tools you need
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-need?u=76281980)
+#### [Skills and tools you need](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-need?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-need?u=76281980&t=1)** This course will introduce you to the use of quanteda for natural language processing, research and text mining with the R programming language.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-need?u=76281980&t=1)** This course will introduce you to the use of quanteda for [[Natural Language Processing (NLP)|natural language processing]], research and [[Text Mining]] with the R programming language.
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-need?u=76281980&t=11)** Quanteda is a framework for natural language processing.
 >
@@ -4224,7 +4173,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-need?u=76281980&t=57)** If you aren't sure about these concepts, you might want to look at one of the beginning R courses in this library.
 >
-> **[1:04](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-need?u=76281980&t=64)** Another alternative is to take the LinkedIn skills assessment test.
+> **[1:04](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-need?u=76281980&t=64)** Another alternative is to take the [[LinkedIn]] skills assessment test.
 >
 > **[1:09](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-need?u=76281980&t=69)** You'll find it via your profile.
 >
@@ -4236,9 +4185,9 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-need?u=76281980&t=96)** If you score in the top 30%, you're good to go.
 >
-> **[1:39](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-need?u=76281980&t=99)** Likewise, you won't need advanced statistics skills, although anything you know will be helpful with text mining.
+> **[1:39](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-need?u=76281980&t=99)** Likewise, you won't need advanced [[Statistics]] skills, although anything you know will be helpful with text mining.
 >
-> **[1:48](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-need?u=76281980&t=108)** An integrated development environment such as RStudio Visual Studio Code or R Commander will simplify the programming you'll need to do to explore NLP.
+> **[1:48](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-need?u=76281980&t=108)** An integrated development environment such as [[RStudio]] Visual Studio Code or R Commander will simplify the programming you'll need to do to explore NLP.
 >
 > **[1:59](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-need?u=76281980&t=119)** These IDEs will help you write efficient code and avoid mistakes.
 >
@@ -4248,7 +4197,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-need?u=76281980&t=134)** It's popular, but by no means the only option available.
 >
-> **[2:18](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-need?u=76281980&t=138)** I have also used Visual Studio Code and dabbled with several other products.
+> **[2:18](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-need?u=76281980&t=138)** I have also used Visual Studio Code and dabbled with several other [[Microsoft Products|products]].
 >
 > **[2:24](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/skills-and-tools-you-need?u=76281980&t=144)** Whatever IDE you choose will be fine.
 >
@@ -4270,7 +4219,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (4), [[Programming]] (4), [[Text Mining]] (3), [[LinkedIn]] (2), [[RStudio]] (2)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (4), [[Text Mining]] (3), [[LinkedIn]] (2), [[RStudio]] (2), [[Statistics]] (1)
 > **Env Vars:** ide (2), nlp (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** before we start (1), required to (1), you'll need (1)
@@ -4284,16 +4233,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to quanteda
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/introduction-to-quanteda?u=76281980)
+#### [Introduction to quanteda](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/introduction-to-quanteda?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/introduction-to-quanteda?u=76281980&t=1)** Quanteda is an alternative text mining framework similar to TM or tidy text.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/introduction-to-quanteda?u=76281980&t=1)** Quanteda is an alternative [[Text Mining]] framework similar to TM or tidy text.
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/introduction-to-quanteda?u=76281980&t=9)** Quanteda is short for Quantitative Analysis of Textual Data.
 >
-> **[0:14](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/introduction-to-quanteda?u=76281980&t=14)** There are several reasons you might dedicate some time to learning quanteda for natural language processing.
+> **[0:14](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/introduction-to-quanteda?u=76281980&t=14)** There are several reasons you might dedicate some time to learning quanteda for [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[0:22](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/introduction-to-quanteda?u=76281980&t=22)** It does everything you expect an NLP framework to do, but there are three particular advantages.
 >
@@ -4317,20 +4265,19 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/introduction-to-quanteda?u=76281980&t=91)** Second, a corpus can be tokenized.
 >
-> **[1:35](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/introduction-to-quanteda?u=76281980&t=95)** And third, tokens can be used to create a document feature matrix.
+> **[1:35](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/introduction-to-quanteda?u=76281980&t=95)** And third, [[Tokens]] can be used to create a document feature matrix.
 >
 > **[1:41](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/introduction-to-quanteda?u=76281980&t=101)** In the next chapters, we'll learn more about how these three concepts work together to provide a rich set of natural language processing tools.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Text Mining]] (2), data (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), nlp (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Text Mining]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Tokens]] (1)
 > **Definitions:** is an  (1), short for (1)
 > **Env Vars:** nlp (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 
-#### Install quanteda
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/install-quanteda?u=76281980)
+#### [Install quanteda](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/install-quanteda?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4352,9 +4299,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/install-quanteda?u=76281980&t=39)** Textmodels includes some example datasets and functions for advanced calculations.
 >
-> **[0:46](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/install-quanteda?u=76281980&t=46)** Textstats provides functions for statistics on words such as frequency or readability.
+> **[0:46](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/install-quanteda?u=76281980&t=46)** Textstats provides functions for [[Statistics]] on words such as frequency or readability.
 >
-> **[0:54](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/install-quanteda?u=76281980&t=54)** Textplots provides visualizations such as word clouds and networks.
+> **[0:54](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/install-quanteda?u=76281980&t=54)** Textplots provides visualizations such as [[Microsoft Word|word]] clouds and networks.
 >
 > **[1:00](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/install-quanteda?u=76281980&t=60)** In addition to the basic quanteda packages, there are other recommended packages.
 >
@@ -4364,13 +4311,13 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/install-quanteda?u=76281980&t=80)** Readtext is useful for reading text files.
 >
-> **[1:23](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/install-quanteda?u=76281980&t=83)** Spacyr provides access to the spacy text processing library.
+> **[1:23](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/install-quanteda?u=76281980&t=83)** Spacyr provides access to the [[spaCy]] text processing library.
 >
 > **[1:30](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/install-quanteda?u=76281980&t=90)** Stopwords provides several dictionaries of stop words.
 >
 > **[1:35](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/install-quanteda?u=76281980&t=95)** Next is a list of packages still in development or not on CRAN for various reasons.
 >
-> **[1:41](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/install-quanteda?u=76281980&t=101)** These are hosted on GitHub and can be installed with the condition that you have first installed the dev tools package.
+> **[1:41](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/install-quanteda?u=76281980&t=101)** These are hosted on [[GitHub]] and can be installed with the condition that you have first installed the dev tools package.
 >
 > **[1:49](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/install-quanteda?u=76281980&t=109)** Quanteda.corpora provides additional data libraries as pre-built corpora.
 >
@@ -4398,7 +4345,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (1), [[Microsoft Word|Word]] (1), nlp (1), [[spaCy]] (1), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Microsoft Word|Word]] (1), [[spaCy]] (1), [[GitHub]] (1)
 > **Env Vars:** cran (2), nlp (1), ram (1)
 > **Analogies:** such as (2)
 > **Best Practices:** recommended (1), don't forget (1)
@@ -4412,12 +4359,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a quanteda corpus
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-a-quanteda-corpus?u=76281980)
+#### [Create a quanteda corpus](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-a-quanteda-corpus?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-a-quanteda-corpus?u=76281980&t=1)** Natural language processing works best when documents are collected into a consistent data structure.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-a-quanteda-corpus?u=76281980&t=1)** [[Natural Language Processing (NLP)|Natural language processing]] works best when documents are collected into a consistent data structure.
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-a-quanteda-corpus?u=76281980&t=8)** These data objects are called corpora.
 >
@@ -4429,7 +4375,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-a-quanteda-corpus?u=76281980&t=37)** Let's take a look at some examples.
 >
-> **[0:40](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-a-quanteda-corpus?u=76281980&t=40)** We're looking at some R code in RStudio. In line one, the first thing we do, of course, is to load in the quanteda library.
+> **[0:40](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-a-quanteda-corpus?u=76281980&t=40)** We're looking at some R code in [[RStudio]]. In line one, the first thing we do, of course, is to load in the quanteda library.
 >
 > **[0:50](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-a-quanteda-corpus?u=76281980&t=50)** In line eight, we're going to create a named vector, which we'll eventually turn into a corpus for quanteda.
 >
@@ -4455,7 +4401,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-a-quanteda-corpus?u=76281980&t=125)** In this case, the summary is telling us that myCorpus contains four documents.
 >
-> **[2:11](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-a-quanteda-corpus?u=76281980&t=131)** The text of them is first, second, third, fourth, that's the document name. The number of types, the number of tokens, and the number of sentences.
+> **[2:11](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-a-quanteda-corpus?u=76281980&t=131)** The text of them is first, second, third, fourth, that's the document name. The number of types, the number of [[Tokens]], and the number of sentences.
 >
 > **[2:21](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-a-quanteda-corpus?u=76281980&t=141)** And we'll talk more about types, tokens, and sentences in a future session.
 >
@@ -4487,7 +4433,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-a-quanteda-corpus?u=76281980&t=223)** And the text field will be contained in an observation called myNamedVector.
 >
-> **[3:50](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-a-quanteda-corpus?u=76281980&t=230)** Now, I've also added some metadata, and that's in line 27 where it says meta equals a list, and I'm adding an object called thisCameFrom with the contents of I made this myself.
+> **[3:50](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-a-quanteda-corpus?u=76281980&t=230)** Now, I've also added some [[Metadata]], and that's in line 27 where it says meta equals a list, and I'm adding an object called thisCameFrom with the contents of I made this myself.
 >
 > **[4:03](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-a-quanteda-corpus?u=76281980&t=243)** Let's go ahead and run line 24.
 >
@@ -4517,19 +4463,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Metadata]] (3), hit (2), [[Tokens]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (3), [[Tokens]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[RStudio]] (1)
 > **Code Identifiers:** mycorpus (8), mynamedvector (5), mydata (3), someinfo (3), mynamevector (2)
 > **Env Vars:** rds (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is an  (1)
 
-#### Create metadata with docvars
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-metadata-with-docvars?u=76281980)
+#### [Create metadata with docvars](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-metadata-with-docvars?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-metadata-with-docvars?u=76281980&t=1)** Doc variables are quanteda's way of storing metadata along with the corpus.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-metadata-with-docvars?u=76281980&t=1)** Doc variables are quanteda's way of storing [[Metadata]] along with the corpus.
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-metadata-with-docvars?u=76281980&t=7)** So let's take a look at how do you create document variables.
 >
@@ -4547,7 +4492,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-metadata-with-docvars?u=76281980&t=39)** You'll see that when I run line nine in the environment, I now have a sampleCorpus and we can take a look at the contents of sampleCorpus by hitting the summary.
 >
-> **[0:49](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-metadata-with-docvars?u=76281980&t=49)** You'll see that there are four documents and types tokens, sentences and someInfo about each one of those.
+> **[0:49](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-metadata-with-docvars?u=76281980&t=49)** You'll see that there are four documents and types [[Tokens]], sentences and someInfo about each one of those.
 >
 > **[0:57](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-metadata-with-docvars?u=76281980&t=57)** You'll remember this is the first four lines of the poem, Jabberwocky.
 >
@@ -4589,7 +4534,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-metadata-with-docvars?u=76281980&t=193)** In this case, I'm using Darwin x86 64.
 >
-> **[3:17](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-metadata-with-docvars?u=76281980&t=197)** And the user happens to be Linkedin instructor, that's me.
+> **[3:17](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-metadata-with-docvars?u=76281980&t=197)** And the user happens to be [[LinkedIn]] instructor, that's me.
 >
 > **[3:21](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-metadata-with-docvars?u=76281980&t=201)** It shows the directory where this particular corpus is located, when it was created, December 29th of 2022, and what kind of a source was it?
 >
@@ -4641,12 +4586,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (10), [[Tokens]] (1), hit (1), [[LinkedIn]] (1), data (1)
+> **Frameworks & Libraries:** [[Metadata]] (10), [[Tokens]] (1), [[LinkedIn]] (1)
 > **Code Identifiers:** samplecorpus (11), someinfo (4), thiscamefrom (1)
 > **Definitions:** is a  (1)
 
-#### Corpus subsets and groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-subsets-and-groups?u=76281980)
+#### [Corpus subsets and groups](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-subsets-and-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4708,7 +4652,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-subsets-and-groups?u=76281980&t=209)** And in line 21, I've done that.
 >
-> **[3:32](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-subsets-and-groups?u=76281980&t=212)** I've created an observation or some metadata, a docvar that contains the number of characters in each element of sampleCorpus.
+> **[3:32](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-subsets-and-groups?u=76281980&t=212)** I've created an observation or some [[Metadata]], a docvar that contains the number of characters in each element of sampleCorpus.
 >
 > **[3:40](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-subsets-and-groups?u=76281980&t=220)** When I run that, I can take a look at sampleCorpus.
 >
@@ -4756,7 +4700,7 @@ created: 2026-05-02
 >
 > **[6:33](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-subsets-and-groups?u=76281980&t=393)** MyDoc and myDoc were combined, they were grouped together.
 >
-> **[6:38](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-subsets-and-groups?u=76281980&t=398)** If you look at the types in the top sampleCorpus compared to the types in the groupedSampleCorpus, you'll notice that myDoc has 11 types and 13 tokens.
+> **[6:38](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-subsets-and-groups?u=76281980&t=398)** If you look at the types in the top sampleCorpus compared to the types in the groupedSampleCorpus, you'll notice that myDoc has 11 types and 13 [[Tokens]].
 >
 > **[6:54](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-subsets-and-groups?u=76281980&t=414)** Now, you might think that you could just add the types from documents one and two.
 >
@@ -4804,8 +4748,7 @@ created: 2026-05-02
 > **Env Vars:** rds (1)
 > **Exercise Files:** exercise files (1)
 
-#### Reshape and segment a corpus
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/reshape-and-segment-a-corpus?u=76281980)
+#### [Reshape and segment a corpus](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/reshape-and-segment-a-corpus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4821,7 +4764,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/reshape-and-segment-a-corpus?u=76281980&t=24)** And let's take a look at what that is.
 >
-> **[0:27](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/reshape-and-segment-a-corpus?u=76281980&t=27)** In this case, it consists of one document with text 244 types, 529 tokens and 15 sentences.
+> **[0:27](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/reshape-and-segment-a-corpus?u=76281980&t=27)** In this case, it consists of one document with text 244 types, 529 [[Tokens]] and 15 sentences.
 >
 > **[0:38](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/reshape-and-segment-a-corpus?u=76281980&t=38)** Now, I only have one document.
 >
@@ -4897,13 +4840,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Tokens]] (2)
+> **Frameworks & Libraries:** [[Tokens]] (2)
 > **Code Identifiers:** mycorpus (4), segmentedcorpus (4), washspeech (3), reshapedcorpus (2)
 > **Env Vars:** imf (1)
 > **Definitions:** is a  (1)
 
-#### Remove lines from a corpus
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/remove-lines-from-a-corpus?u=76281980)
+#### [Remove lines from a corpus](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/remove-lines-from-a-corpus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4915,7 +4857,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/remove-lines-from-a-corpus?u=76281980&t=11)** In line three, I bring in the quanteda library, then line six retrieves a sampleCorpus for us to experiment with.
 >
-> **[0:19](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/remove-lines-from-a-corpus?u=76281980&t=19)** The summary of sampleCorpus shows us that it's a fairly simple corpus, but it's got types and tokens and sentences and some document variables called someInfo.
+> **[0:19](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/remove-lines-from-a-corpus?u=76281980&t=19)** The summary of sampleCorpus shows us that it's a fairly simple corpus, but it's got types and [[Tokens]] and sentences and some document variables called someInfo.
 >
 > **[0:33](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/remove-lines-from-a-corpus?u=76281980&t=33)** Now, let's suppose that we don't want short sentences in our corpus.
 >
@@ -4951,18 +4893,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Corpus and tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-and-tokens?u=76281980)
+#### [Corpus and tokens](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-and-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-and-tokens?u=76281980&t=1)** A corpus is built of documents.
 >
-> **[0:04](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-and-tokens?u=76281980&t=4)** A document is built of tokens.
+> **[0:04](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-and-tokens?u=76281980&t=4)** A document is built of [[Tokens]].
 >
 > **[0:07](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-and-tokens?u=76281980&t=7)** In this chapter, let's look at the creation, manipulation and removal of tokens.
 >
-> **[0:13](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-and-tokens?u=76281980&t=13)** Quanteda provides a large number of token tools as you gain more experience with natural language processing, the use of some of these advanced token tools will become obvious.
+> **[0:13](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-and-tokens?u=76281980&t=13)** Quanteda provides a large number of token tools as you gain more experience with [[Natural Language Processing (NLP)|natural language processing]], the use of some of these advanced token tools will become obvious.
 >
 > **[0:25](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-and-tokens?u=76281980&t=25)** For the moment, let's focus on some of the basic tools for tokens.
 >
@@ -5024,18 +4965,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (13), [[Natural Language Processing (NLP)|Natural language processing]] (1), data (1)
+> **Frameworks & Libraries:** [[Tokens]] (13), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Code Identifiers:** samplecorpus (2)
 > **Definitions:** is a  (1), known as (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** setup (1)
 
-#### Remove tokens and stopwords
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/remove-tokens-and-stopwords?u=76281980)
+#### [Remove tokens and stopwords](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/remove-tokens-and-stopwords?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/remove-tokens-and-stopwords?u=76281980&t=1)** In our previous session, we talked about converting a corpus into tokens.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/remove-tokens-and-stopwords?u=76281980&t=1)** In our previous session, we talked about converting a corpus into [[Tokens]].
 >
 > **[0:05](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/remove-tokens-and-stopwords?u=76281980&t=5)** In this session, let's talk about removing tokens.
 >
@@ -5073,7 +5013,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/remove-tokens-and-stopwords?u=76281980&t=105)** And I'm going to keep those tokens.
 >
-> **[1:48](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/remove-tokens-and-stopwords?u=76281980&t=108)** So when I run that, you can see that all of my documents now list just the word citizens.
+> **[1:48](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/remove-tokens-and-stopwords?u=76281980&t=108)** So when I run that, you can see that all of my documents now list just the [[Microsoft Word|word]] citizens.
 >
 > **[1:58](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/remove-tokens-and-stopwords?u=76281980&t=118)** There are two shortcuts for using tokens select. One of them, which is tokens remove, and one of them which is tokens keep.
 >
@@ -5107,7 +5047,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/remove-tokens-and-stopwords?u=76281980&t=214)** And this is what's called stopwords.
 >
-> **[3:36](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/remove-tokens-and-stopwords?u=76281980&t=216)** You'll recall that there was lots of, and the, and a, and and, words that are nice for humans, but not so useful for natural language processing.
+> **[3:36](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/remove-tokens-and-stopwords?u=76281980&t=216)** You'll recall that there was lots of, and the, and a, and and, words that are nice for humans, but not so useful for [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[3:49](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/remove-tokens-and-stopwords?u=76281980&t=229)** In line 33, I'm using tokens remove.
 >
@@ -5135,12 +5075,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll up (1)
 > **Analogies:** for example (1)
 
-#### Group tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/group-tokens?u=76281980)
+#### [Group tokens](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/group-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/group-tokens?u=76281980&t=1)** When you have a tokens object, there are a couple of things that you can do with those tokens. We've just covered keep and remove.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/group-tokens?u=76281980&t=1)** When you have a [[Tokens]] object, there are a couple of things that you can do with those tokens. We've just covered keep and remove.
 >
 > **[0:09](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/group-tokens?u=76281980&t=9)** Now we're going to talk about grouping them in different ways.
 >
@@ -5228,7 +5167,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (12), data (1), hit (1)
+> **Frameworks & Libraries:** [[Tokens]] (12)
 > **Code Identifiers:** sctokens (3), chartoken (3)
 > **Analogies:** such as (4), similar to (1)
 > **Definitions:** is a  (2)
@@ -5237,8 +5176,7 @@ created: 2026-05-02
 > **Cross-References:** coming up (1)
 > **UI Navigation:** scroll up (1)
 
-#### Stemming with tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming-with-tokens?u=76281980)
+#### [Stemming with tokens](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming-with-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5250,7 +5188,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming-with-tokens?u=76281980&t=15)** To understand stemming, let's first of all do some and I've set up some code to do this.
 >
-> **[0:21](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming-with-tokens?u=76281980&t=21)** You can see it's fairly short. In line three, I use the library command to bring in quateda. Inline six, I created tokens object called sctokens.
+> **[0:21](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming-with-tokens?u=76281980&t=21)** You can see it's fairly short. In line three, I use the library command to bring in quateda. Inline six, I created [[Tokens]] object called sctokens.
 >
 > **[0:35](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming-with-tokens?u=76281980&t=35)** Then in line 11 I remove stopwords from that object.
 >
@@ -5268,7 +5206,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming-with-tokens?u=76281980&t=77)** If I go up to the top document titled 1789 dash Washington, you'll see fellow citizen and then Senat S-E-N-A-T but it's misspelled. It's missing the e or house, H-O-U-S but it's missing the e. And then you see R-E-P-R-E-S, which is very short for representative or representing or represented.
 >
-> **[1:45](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming-with-tokens?u=76281980&t=105)** This is what happens when you stem wards and what you've done using the tokens underbar wordstem command is apply an algorithm to each word which returns just the stem or the root of each particular word.
+> **[1:45](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming-with-tokens?u=76281980&t=105)** This is what happens when you stem wards and what you've done using the tokens underbar wordstem command is apply an algorithm to each [[Microsoft Word|word]] which returns just the stem or the root of each particular word.
 >
 > **[2:04](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/stemming-with-tokens?u=76281980&t=124)** If you look at the documentation, you'll see that in quanteda, stemming is based on something called Martin Porter's stemming algorithm.
 >
@@ -5299,14 +5237,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Corpus, tokens, and DFM
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-tokens-and-dfm?u=76281980)
+#### [Corpus, tokens, and DFM](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-tokens-and-dfm?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-tokens-and-dfm?u=76281980&t=1)** After tokenizing the documents in a corpus, we are ready to create a document feature matrix also referred to as a DFM.
 >
-> **[0:10](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-tokens-and-dfm?u=76281980&t=10)** Most other natural language processing packages refer to this as a document term matrix or a term document matrix.
+> **[0:10](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-tokens-and-dfm?u=76281980&t=10)** Most other [[Natural Language Processing (NLP)|natural language processing]] packages refer to this as a document term matrix or a term document matrix.
 >
 > **[0:20](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-tokens-and-dfm?u=76281980&t=20)** Quanteda is unique in calling this a DFM.
 >
@@ -5316,17 +5253,16 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-tokens-and-dfm?u=76281980&t=35)** These can be broken into four rough groups.
 >
-> **[0:39](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-tokens-and-dfm?u=76281980&t=39)** Create and modify, modify features, subset and select, and statistics.
+> **[0:39](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-tokens-and-dfm?u=76281980&t=39)** Create and modify, modify features, subset and select, and [[Statistics]].
 >
 > **[0:48](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/corpus-tokens-and-dfm?u=76281980&t=48)** Let's jump right into some code to demonstrate how to create a DFM and use some of these commands to perform statistic analysis on text.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Statistics]] (1)
 > **Env Vars:** dfm (3)
 
-#### Create and modify a DFM
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-and-modify-a-dfm?u=76281980)
+#### [Create and modify a DFM](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-and-modify-a-dfm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5336,7 +5272,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-and-modify-a-dfm?u=76281980&t=14)** In line six, I'll bring in the quanteda package.
 >
-> **[0:19](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-and-modify-a-dfm?u=76281980&t=19)** And then in line nine, I create a tokens object called scTokens.
+> **[0:19](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-and-modify-a-dfm?u=76281980&t=19)** And then in line nine, I create a [[Tokens]] object called scTokens.
 >
 > **[0:26](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/create-and-modify-a-dfm?u=76281980&t=26)** And I'm doing that from a data underbar corpus underbar inaugural.
 >
@@ -5416,14 +5352,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (5), [[Tokens]] (4), data (1), next (1)
+> **Frameworks & Libraries:** [[Tokens]] (4)
 > **Env Vars:** dfm (13), dfa (1)
 > **Code Identifiers:** sctokens (3), mydfm (3), sorteddfm (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Real-world analysis with DFM
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-analysis-with-dfm?u=76281980)
+#### [Real-world analysis with DFM](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-analysis-with-dfm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5449,7 +5384,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-analysis-with-dfm?u=76281980&t=85)** We don't need all of the Gutenberg information.
 >
-> **[1:29](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-analysis-with-dfm?u=76281980&t=89)** Finally, in line 11, I use the tokens command to build a billOfRights token object from a corpus called billOfRights.
+> **[1:29](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-analysis-with-dfm?u=76281980&t=89)** Finally, in line 11, I use the [[Tokens]] command to build a billOfRights token object from a corpus called billOfRights.
 >
 > **[1:39](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-analysis-with-dfm?u=76281980&t=99)** And you'll notice I've removed numbers, punctuation and symbols.
 >
@@ -5549,7 +5484,7 @@ created: 2026-05-02
 >
 > **[7:02](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-analysis-with-dfm?u=76281980&t=422)** This is showing us that most of these document terms do not start with free, but there is one located in the row labeled 352 that is true.
 >
-> **[7:14](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-analysis-with-dfm?u=76281980&t=434)** This indicates a term or a frequency that starts with the word free.
+> **[7:14](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-analysis-with-dfm?u=76281980&t=434)** This indicates a term or a frequency that starts with the [[Microsoft Word|word]] free.
 >
 > **[7:18](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-analysis-with-dfm?u=76281980&t=438)** What I can say is I would like to select the documents from myDFM underbar stemmed with a pattern that starts with the word free.
 >
@@ -5609,7 +5544,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (7), [[Tokens]] (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[Microsoft Word|Word]] (2)
 > **Code Identifiers:** mydfm (8), billofrights (4)
 > **Env Vars:** dfm (7), lsd (2)
 > **Definitions:** is a  (4)
@@ -5623,16 +5558,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The quanteda textstats package
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/the-quanteda-textstat-package?u=76281980)
+#### [The quanteda textstats package](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/the-quanteda-textstat-package?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/the-quanteda-textstat-package?u=76281980&t=0)** Quanteda provides a collection of tools for statistical analysis of documents.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/the-quanteda-textstat-package?u=76281980&t=0)** Quanteda provides a collection of tools for [[Statistical Analysis]] of documents.
 >
 > **[0:06](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/the-quanteda-textstat-package?u=76281980&t=6)** Some of these are easy to understand, frequency of features, readability, documents similarity and summaries of features.
 >
-> **[0:17](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/the-quanteda-textstat-package?u=76281980&t=17)** Some features are more complex and require a bit of research on natural language processing concepts.
+> **[0:17](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/the-quanteda-textstat-package?u=76281980&t=17)** Some features are more complex and require a bit of research on [[Natural Language Processing (NLP)|natural language processing]] concepts.
 >
 > **[0:23](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/the-quanteda-textstat-package?u=76281980&t=23)** Those topics are beyond the scope of this course, but provide valuable insight into the nature of documents.
 >
@@ -5642,8 +5576,7 @@ created: 2026-05-02
 >
 > **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Statistical Analysis]] (1)
 
-#### Real-world text statistics with textstats
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-text-statistics-with-textstat?u=76281980)
+#### [Real-world text statistics with textstats](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-text-statistics-with-textstat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5681,7 +5614,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-text-statistics-with-textstat?u=76281980&t=119)** Let's go ahead and run 15 through 18 and you'll see in the lower right hand corner is a heatmap.
 >
-> **[2:06](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-text-statistics-with-textstat?u=76281980&t=126)** Let's zoom into it.
+> **[2:06](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-text-statistics-with-textstat?u=76281980&t=126)** Let's [[Zoom]] into it.
 >
 > **[2:08](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-text-statistics-with-textstat?u=76281980&t=128)** The red diagonal line is the one to one correspondence between all speeches.
 >
@@ -5709,7 +5642,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-text-statistics-with-textstat?u=76281980&t=214)** It provides us with a summary of all of the documents in that particular corpus.
 >
-> **[3:39](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-text-statistics-with-textstat?u=76281980&t=219)** Things that it tells us is the number of characters, the number of sentences, the number of tokens.
+> **[3:39](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-text-statistics-with-textstat?u=76281980&t=219)** Things that it tells us is the number of characters, the number of sentences, the number of [[Tokens]].
 >
 > **[3:45](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-text-statistics-with-textstat?u=76281980&t=225)** So, for example, in 1789 Washington, there were 1,537 tokens, 107 punctuations, zero numbers, zero symbols, zero URLs, not surprising for a speech given in 1789.
 >
@@ -5729,7 +5662,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-text-statistics-with-textstat?u=76281980&t=281)** Let's run line 33 and then show the results in line 34.
 >
-> **[4:47](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-text-statistics-with-textstat?u=76281980&t=287)** And if we scroll up to the top, what you see is that, for example, in the 1789 Washington document, at position 436, the word government appears.
+> **[4:47](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-text-statistics-with-textstat?u=76281980&t=287)** And if we scroll up to the top, what you see is that, for example, in the 1789 Washington document, at position 436, the [[Microsoft Word|word]] government appears.
 >
 > **[5:00](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-text-statistics-with-textstat?u=76281980&t=300)** Before the word government is of the United States a government.
 >
@@ -5739,11 +5672,11 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-text-statistics-with-textstat?u=76281980&t=315)** So again, key words in context provides us with the location of a pattern or a particular token, in this case government, and shows the words before and after that particular keyword.
 >
-> **[5:28](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-text-statistics-with-textstat?u=76281980&t=328)** This is just a quick run through of the textstat package available with quanteda, and I encourage you to take a deeper look at all of the statistics that it provides to analyze documents.
+> **[5:28](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-text-statistics-with-textstat?u=76281980&t=328)** This is just a quick run through of the textstat package available with quanteda, and I encourage you to take a deeper look at all of the [[Statistics]] that it provides to analyze documents.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (2), [[Tokens]] (2), [[Microsoft Word|Word]] (2), data (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Tokens]] (2), [[Microsoft Word|Word]] (2), [[Statistics]] (1)
 > **Analogies:** similar to (4), for example (2)
 > **UI Navigation:** scroll up (2), scroll down (1)
 > **Prerequisites:** setup (1), set up (1)
@@ -5751,12 +5684,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 
-#### Understand the quanteda sentiment package
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/understand-the-quanteda-sentiment-package?u=76281980)
+#### [Understand the quanteda sentiment package](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/understand-the-quanteda-sentiment-package?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/understand-the-quanteda-sentiment-package?u=76281980&t=1)** Sentiment analysis is an interesting and subjective part of natural language processing.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/understand-the-quanteda-sentiment-package?u=76281980&t=1)** Sentiment analysis is an interesting and subjective part of [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/understand-the-quanteda-sentiment-package?u=76281980&t=8)** Sentiment analysis provides insight into the emotional context of a document.
 >
@@ -5764,7 +5696,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/understand-the-quanteda-sentiment-package?u=76281980&t=25)** Quanteda includes several dictionaries tailored for different types of documents.
 >
-> **[0:31](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/understand-the-quanteda-sentiment-package?u=76281980&t=31)** This page lists those dictionaries, but only indicates the polarity positive or negative of the sentiment of a word.
+> **[0:31](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/understand-the-quanteda-sentiment-package?u=76281980&t=31)** This page lists those dictionaries, but only indicates the polarity positive or negative of the sentiment of a [[Microsoft Word|word]].
 >
 > **[0:41](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/understand-the-quanteda-sentiment-package?u=76281980&t=41)** For example, positive words are things like celebration or amazement or insight.
 >
@@ -5805,12 +5737,11 @@ created: 2026-05-02
 > **Env Vars:** nrc (2)
 > **Definitions:** is an  (1), is a  (1)
 
-#### Real-world sentiment analysis with quanteda sentiment
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-sentiment-analysis-with-quanteda-sentiment?u=76281980)
+#### [Real-world sentiment analysis with quanteda sentiment](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-sentiment-analysis-with-quanteda-sentiment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-sentiment-analysis-with-quanteda-sentiment?u=76281980&t=0)** Sentiment analysis is a natural language processing tool used to identify the positivity or negativity of a particular document.
+> **[0:00](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-sentiment-analysis-with-quanteda-sentiment?u=76281980&t=0)** Sentiment analysis is a [[Natural Language Processing (NLP)|natural language processing]] tool used to identify the positivity or negativity of a particular document.
 >
 > **[0:11](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-sentiment-analysis-with-quanteda-sentiment?u=76281980&t=11)** It's a fairly subjective and a fairly complex process, and I'm going to walk you through the steps in order to set it up.
 >
@@ -5858,7 +5789,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-sentiment-analysis-with-quanteda-sentiment?u=76281980&t=171)** In line 17, I've given you the command to find out more information about the data underbar dictionary underbar NRC.
 >
-> **[3:00](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-sentiment-analysis-with-quanteda-sentiment?u=76281980&t=180)** And you'll see that in the right hand side in the help window, this dictionary is labeled the NRC word Emotion Association Lexicon, and there is a lengthy description provided for this particular dictionary.
+> **[3:00](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-sentiment-analysis-with-quanteda-sentiment?u=76281980&t=180)** And you'll see that in the right hand side in the help window, this dictionary is labeled the NRC [[Microsoft Word|word]] Emotion Association Lexicon, and there is a lengthy description provided for this particular dictionary.
 >
 > **[3:15](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/real-world-sentiment-analysis-with-quanteda-sentiment?u=76281980&t=195)** If I scroll down to the index, you'll see that the quanteda.sentiment package includes several dictionaries and dictionaries are tailored for their specific use.
 >
@@ -6028,7 +5959,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Word|Word]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Env Vars:** nrc (11)
 > **CLI Commands:** find (5), make (2)
 > **Definitions:** is a  (5), is an  (1), stands for (1)
@@ -6037,12 +5968,11 @@ created: 2026-05-02
 > **Versions:** 0.99725979 (1), 1.60943791 (1), 0.06 (1), 1.60 (1)
 > **Analogies:** for example (2), such as (1), similar to (1)
 
-#### Visualization with textplots
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/visualization-with-textplot?u=76281980)
+#### [Visualization with textplots](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/visualization-with-textplot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/visualization-with-textplot?u=76281980&t=1)** Quanteda provides an entire package of tools for plotting the statistics related to natural language processing.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/visualization-with-textplot?u=76281980&t=1)** Quanteda provides an entire package of tools for plotting the [[Statistics]] related to [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[0:10](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/visualization-with-textplot?u=76281980&t=10)** The quanteda folks have put all of this into a package called quanted.textplots, and we bring this in in lines six and seven.
 >
@@ -6064,7 +5994,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/visualization-with-textplot?u=76281980&t=76)** You can look in the lower left hand corner of the console.
 >
-> **[1:19](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/visualization-with-textplot?u=76281980&t=79)** Now in line 18, I'll run texplot underbar word cloud on this smallerDFM. In line 19, I've requested that the minimum occurrence of any feature is 10 and I'm using a selection of colors called topo colors.
+> **[1:19](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/visualization-with-textplot?u=76281980&t=79)** Now in line 18, I'll run texplot underbar [[Microsoft Word|word]] cloud on this smallerDFM. In line 19, I've requested that the minimum occurrence of any feature is 10 and I'm using a selection of colors called topo colors.
 >
 > **[1:35](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/visualization-with-textplot?u=76281980&t=95)** Let's go ahead and run line 18, 19, 20 and you can see a new wordcloud.
 >
@@ -6090,7 +6020,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/visualization-with-textplot?u=76281980&t=173)** Now, in line 28, I can plot that.
 >
-> **[2:56](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/visualization-with-textplot?u=76281980&t=176)** And let's zoom in to see what this actually does for us.
+> **[2:56](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/visualization-with-textplot?u=76281980&t=176)** And let's [[Zoom]] in to see what this actually does for us.
 >
 > **[3:00](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/visualization-with-textplot?u=76281980&t=180)** I'm looking for the word government.
 >
@@ -6102,20 +6032,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Statistics]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), cloud (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Statistics]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Zoom]] (1)
 > **Code Identifiers:** smallerdfm (4)
 > **Definitions:** is a  (3)
 > **Env Vars:** dfm (1), kwic (1)
 > **CLI Commands:** make (1)
 
-#### Use dplyr with quanteda
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/use-dplyr-with-quanteda?u=76281980)
+#### [Use dplyr with quanteda](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/use-dplyr-with-quanteda?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/use-dplyr-with-quanteda?u=76281980&t=1)** Quanteda provides a package to interface quanteda commands into the tidyverse.
 >
-> **[0:07](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/use-dplyr-with-quanteda?u=76281980&t=7)** More specifically, this is a package that extends dplyr to account for some of the quanteda type natural language processing commands.
+> **[0:07](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/use-dplyr-with-quanteda?u=76281980&t=7)** More specifically, this is a package that extends dplyr to account for some of the quanteda type [[Natural Language Processing (NLP)|natural language processing]] commands.
 >
 > **[0:17](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/use-dplyr-with-quanteda?u=76281980&t=17)** Let's take a look at how this actually works.
 >
@@ -6153,7 +6082,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (2)
 > **Code Identifiers:** newsamplecorp (1)
@@ -6164,12 +6092,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your next steps in NLP
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp?u=76281980)
+#### [Your next steps in NLP](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp?u=76281980&t=1)** We've been talking about quanteda, one of many natural language processing frameworks and packages written for R.
+> **[0:01](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp?u=76281980&t=1)** We've been talking about quanteda, one of many [[Natural Language Processing (NLP)|natural language processing]] frameworks and packages written for R.
 >
 > **[0:08](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp?u=76281980&t=8)** You might be interested in two other packages. In particular, look at TM and tidytext.
 >
@@ -6177,9 +6104,9 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp?u=76281980&t=21)** Be sure to familiarize yourself with this comprehensive list of available tools.
 >
-> **[0:27](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp?u=76281980&t=27)** Of course, text mining and natural language processing can be done in multiple languages, not just R.
+> **[0:27](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp?u=76281980&t=27)** Of course, [[Text Mining]] and natural language processing can be done in multiple languages, not just R.
 >
-> **[0:33](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp?u=76281980&t=33)** Python, for instance, has a collection of NLP tools, and some NLP libraries work across multiple languages.
+> **[0:33](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp?u=76281980&t=33)** [[Python (Programming Language)|Python]], for instance, has a collection of NLP tools, and some NLP libraries work across multiple languages.
 >
 > **[0:44](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/your-next-steps-in-nlp?u=76281980&t=44)** There are web API solutions from all of the major Cloud providers as well as other technology APIs.
 >
@@ -6191,7 +6118,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (3), nlp (2), [[Text Mining]] (1), [[Python (Programming Language)|Python]] (1), web (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (3), [[Text Mining]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** nlp (2), cran (1), api (1)
 > **Analogies:** for instance (1), just like (1)
 > **CLI Commands:** python (1)
@@ -6201,11 +6128,9 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Project introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/project-introduction?u=76281980)
+#### [Project introduction](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/project-introduction?u=76281980)
 
-#### Project explanation
-> [LinkedIn Learning](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/project-explanation?u=76281980)
+#### [Project explanation](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/project-explanation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6227,7 +6152,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/project-explanation?u=76281980&t=67)** Switching made the task much simpler.
 >
-> **[1:12](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/project-explanation?u=76281980&t=72)** Now take a look at the file titled Final Climate Change in Mastodon.qmd.
+> **[1:12](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/project-explanation?u=76281980&t=72)** Now take a look at the file titled Final [[Climate Change]] in Mastodon.qmd.
 >
 > **[1:19](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/project-explanation?u=76281980&t=79)** This is a copy of the outline I provided for you earlier, but with code I wrote and cleaned up for publication.
 >
@@ -6243,7 +6168,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/project-explanation?u=76281980&t=119)** I'm also choosing to build code using the forward pipe command, as well as lambda functions.
 >
-> **[2:06](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/project-explanation?u=76281980&t=126)** These may not be familiar, so I suggest you refer to lessons in my other course, R for Data Science, Lunch Break Lessons.
+> **[2:06](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/project-explanation?u=76281980&t=126)** These may not be familiar, so I suggest you refer to lessons in my other course, R for [[Data Science]], Lunch Break Lessons.
 >
 > **[2:14](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/project-explanation?u=76281980&t=134)** You already know how quanteda works, so I'll only review some of the highlights of the code.
 >
@@ -6273,13 +6198,13 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/project-explanation?u=76281980&t=202)** R is an advanced language, as you well know.
 >
-> **[3:25](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/project-explanation?u=76281980&t=205)** It provides in-depth tools for natural language processing, but these require study.
+> **[3:25](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/project-explanation?u=76281980&t=205)** It provides in-depth tools for [[Natural Language Processing (NLP)|natural language processing]], but these require study.
 >
 > **[3:31](https://www.linkedin.com/learning/complete-guide-to-nlp-with-r/project-explanation?u=76281980&t=211)** I encourage you to accept the challenge of improving your skills with natural language processing using the R language.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Climate Change]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), data (1), next (1)
+> **Frameworks & Libraries:** [[Climate Change]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Data Science]] (1)
 > **Definitions:** is an  (2), is a  (1), in other words (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** dfm_keep (1)

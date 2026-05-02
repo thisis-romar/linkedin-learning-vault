@@ -76,16 +76,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to Adobe XD: Prototype
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/welcome-to-adobe-xd-prototype?u=76281980)
+#### [Welcome to Adobe XD: Prototype](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/welcome-to-adobe-xd-prototype?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/welcome-to-adobe-xd-prototype?u=76281980&t=1)** - In the world of prototyping, it's pretty well understood that the best way to validate an experience is to, well, validate the experience.
+> **[0:01](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/welcome-to-adobe-xd-prototype?u=76281980&t=1)** - In the world of [[Prototyping]], it's pretty well understood that the best way to validate an experience is to, well, validate the experience.
 >
 > **[0:09](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/welcome-to-adobe-xd-prototype?u=76281980&t=9)** You can wave your hands and talk all you want, but your customer and the stakeholder that's paying your bill will likely not really understand what you mean until they can see it and interact with the solution themselves.
 >
-> **[0:23](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/welcome-to-adobe-xd-prototype?u=76281980&t=23)** My name is Dani Beaumont and I'm a principal product manager on the Adobe XD team.
+> **[0:23](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/welcome-to-adobe-xd-prototype?u=76281980&t=23)** My name is Dani Beaumont and I'm a principal product manager on the [[Adobe XD]] team.
 >
 > **[0:27](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/welcome-to-adobe-xd-prototype?u=76281980&t=27)** In part two of this three-part series, we're going to take the designs we created in part one and start to add interactivity.
 >
@@ -103,7 +102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Adobe XD]] (2), [[Prototyping]] (1), product (1), application (1)
+> **Frameworks & Libraries:** [[Adobe XD]] (2), [[Prototyping]] (1)
 > **Exercise Files:** download the (2), exercise files (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - in (1)
@@ -113,12 +112,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Desktop preview app
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/desktop-preview-app?u=76281980)
+#### [Desktop preview app](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/desktop-preview-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/desktop-preview-app?u=76281980&t=0)** - [Instructor] Well, now that we have those housekeeping items in order, let's start looking at some prototyping features in Adobe XD.
+> **[0:00](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/desktop-preview-app?u=76281980&t=0)** - [Instructor] Well, now that we have those housekeeping items in order, let's start looking at some [[Prototyping]] features in [[Adobe XD]].
 >
 > **[0:06](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/desktop-preview-app?u=76281980&t=6)** As I proceed through the exercise file that I've given you, I'm going to give you a shout out, letting you know what area of the exercise file I'm on and what particular art boards.
 >
@@ -128,7 +126,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/desktop-preview-app?u=76281980&t=24)** If you want to follow along with me and move to that area easily, you can look for the names that I shout out here in the layers panel, come on in and select them.
 >
-> **[0:33](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/desktop-preview-app?u=76281980&t=33)** And then in the view menu, select zoom to selection.
+> **[0:33](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/desktop-preview-app?u=76281980&t=33)** And then in the view menu, select [[Zoom]] to selection.
 >
 > **[0:37](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/desktop-preview-app?u=76281980&t=37)** That will bring you to that area of the overall practice file.
 >
@@ -168,7 +166,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Zoom]] (2), [[Prototyping]] (1), [[Adobe XD]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Prototyping]] (1), [[Adobe XD]] (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Exercise Files:** exercise file (3)
 > **Code Identifiers:** ios (1), iphone (1)
@@ -176,12 +174,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting viewport height
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/setting-viewport-height?u=76281980)
+#### [Setting viewport height](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/setting-viewport-height?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/setting-viewport-height?u=76281980&t=0)** - [Instructor] So when I place an art board on the canvas in Adobe XD, that art board by default is simulating a particular device, and it has a fixed height and width.
+> **[0:00](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/setting-viewport-height?u=76281980&t=0)** - [Instructor] So when I place an art board on the canvas in [[Adobe XD]], that art board by default is simulating a particular device, and it has a fixed height and width.
 >
 > **[0:10](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/setting-viewport-height?u=76281980&t=10)** As I design, I tend to grow the length of that art board to compensate for the content that I want to show.
 >
@@ -217,16 +214,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Adobe XD]] (1), hit (1)
+> **Frameworks & Libraries:** [[Adobe XD]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fixed position while scrolling
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/fixed-position-while-scrolling?u=76281980)
+#### [Fixed position while scrolling](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/fixed-position-while-scrolling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/fixed-position-while-scrolling?u=76281980&t=0)** - [Instructor] One thing I've realized when I teach prototyping in Adobe XD is it's very difficult to take a linear approach because interactive features work together with one another.
+> **[0:00](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/fixed-position-while-scrolling?u=76281980&t=0)** - [Instructor] One thing I've realized when I teach [[Prototyping]] in [[Adobe XD]] is it's very difficult to take a linear approach because interactive features work together with one another.
 >
 > **[0:13](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/fixed-position-while-scrolling?u=76281980&t=13)** And it's easiest to understand how they work together using specific examples.
 >
@@ -278,7 +274,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (1), [[Adobe XD]] (1), next (1), feature (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1), [[Adobe XD]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
 > **Definitions:** known as (1), is a  (1)
@@ -289,8 +285,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tap and Previous Artboard transition
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/tap-and-previous-artboard-transition?u=76281980)
+#### [Tap and Previous Artboard transition](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/tap-and-previous-artboard-transition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -318,7 +313,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/tap-and-previous-artboard-transition?u=76281980&t=67)** This is a quick way for you to realize that you're in prototype mode.
 >
-> **[1:11](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/tap-and-previous-artboard-transition?u=76281980&t=71)** There are some design capabilities that you can achieve, in prototype mode, but for the most part, it's really for defining prototyping.
+> **[1:11](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/tap-and-previous-artboard-transition?u=76281980&t=71)** There are some design capabilities that you can achieve, in prototype mode, but for the most part, it's really for defining [[Prototyping]].
 >
 > **[1:21](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/tap-and-previous-artboard-transition?u=76281980&t=81)** And all of the design features are over in design mode.
 >
@@ -406,7 +401,7 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/tap-and-previous-artboard-transition?u=76281980&t=309)** Let's check out our work.
 >
-> **[5:11](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/tap-and-previous-artboard-transition?u=76281980&t=311)** I'll go ahead and zoom back out so that I can see what I got going on here a bit better.
+> **[5:11](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/tap-and-previous-artboard-transition?u=76281980&t=311)** I'll go ahead and [[Zoom]] back out so that I can see what I got going on here a bit better.
 >
 > **[5:15](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/tap-and-previous-artboard-transition?u=76281980&t=315)** I'm going to click on that first art board and I'll bring back up the desktop preview.
 >
@@ -452,7 +447,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (2), next (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Prototyping]] (1)
 > **UI Navigation:** click on (7), scroll down (3), select the (1), go to (1), dropdown (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
@@ -460,8 +455,7 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hover transition
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/hover-transition?u=76281980)
+#### [Hover transition](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/hover-transition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -469,7 +463,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/hover-transition?u=76281980&t=8)** What I'd like to do is go ahead and show off the states that I've defined for this button, as part of the interaction.
 >
-> **[0:15](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/hover-transition?u=76281980&t=15)** So for that I'm going to go ahead and zoom in a bit tighter so I can see these two art boards side-by-side pretty well.
+> **[0:15](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/hover-transition?u=76281980&t=15)** So for that I'm going to go ahead and [[Zoom]] in a bit tighter so I can see these two art boards side-by-side pretty well.
 >
 > **[0:22](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/hover-transition?u=76281980&t=22)** I'm going to make sure I'm in prototype mode.
 >
@@ -513,8 +507,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overlay transitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/overlay-transitions?u=76281980)
+#### [Overlay transitions](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/overlay-transitions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -628,14 +621,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** mobile application (1), feature (1), next (1)
 > **UI Navigation:** click on (4), scroll down (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copy and paste interaction
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/copy-and-paste-interaction?u=76281980)
+#### [Copy and paste interaction](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/copy-and-paste-interaction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -685,12 +676,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** click on (3), select the (2), double-click (2), go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding menu navigation
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/adding-menu-navigation?u=76281980)
+#### [Adding menu navigation](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/adding-menu-navigation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -708,7 +697,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/adding-menu-navigation?u=76281980&t=55)** Now a funny thing happened that I want to explain.
 >
-> **[0:58](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/adding-menu-navigation?u=76281980&t=58)** I had mentioned earlier on that XDs prototyping options are sticky.
+> **[0:58](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/adding-menu-navigation?u=76281980&t=58)** I had mentioned earlier on that XDs [[Prototyping]] options are sticky.
 >
 > **[1:03](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/adding-menu-navigation?u=76281980&t=63)** XD tries to be helpful and remember your last set of settings in this case it's not helpful because I don't want an overlay behavior to happen here.
 >
@@ -753,8 +742,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Anchor links (Scroll To interaction)
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/anchor-links-scroll-to-interaction?u=76281980)
+#### [Anchor links (Scroll To interaction)](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/anchor-links-scroll-to-interaction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -762,7 +750,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/anchor-links-scroll-to-interaction?u=76281980&t=5)** Let's talk about how you can define what's often known as anchor tags or hyperlinks that allow you to navigate to different locations on the same screen or same art board.
 >
-> **[0:16](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/anchor-links-scroll-to-interaction?u=76281980&t=16)** I have an art board here, and if we take a quick look at it, you'll notice that I've got a header area, then I've defined a middle area for products, and below that I have what would be recipes.
+> **[0:16](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/anchor-links-scroll-to-interaction?u=76281980&t=16)** I have an art board here, and if we take a quick look at it, you'll notice that I've got a header area, then I've defined a middle area for [[Microsoft Products|products]], and below that I have what would be recipes.
 >
 > **[0:29](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/anchor-links-scroll-to-interaction?u=76281980&t=29)** Back up at the top if I take a closer look here, you can see that in the top navigation in the header, I added three icons.
 >
@@ -798,7 +786,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/anchor-links-scroll-to-interaction?u=76281980&t=115)** So under destination, I'm going to go ahead and choose the Matcha products as a destination for that one.
 >
-> **[2:02](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/anchor-links-scroll-to-interaction?u=76281980&t=122)** And I'll leave the rest of the behaviors here.
+> **[2:02](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/anchor-links-scroll-to-interaction?u=76281980&t=122)** And I'll leave the [[Representational State Transfer (REST)|rest]] of the behaviors here.
 >
 > **[2:04](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/anchor-links-scroll-to-interaction?u=76281980&t=124)** I've got a nice easing behavior, and a slow down duration so that you can see the effect that we're applying.
 >
@@ -812,7 +800,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/anchor-links-scroll-to-interaction?u=76281980&t=143)** And I'm going to come back up to the top icon there, click and release on it, and I'm going to go ahead and have the scroll to take me to the nav mobile top.
 >
-> **[2:35](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/anchor-links-scroll-to-interaction?u=76281980&t=155)** Now we're almost there, but I want to show you one other bit of fine tuning before we actually do it.
+> **[2:35](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/anchor-links-scroll-to-interaction?u=76281980&t=155)** Now we're almost there, but I want to show you one other bit of [[Fine Tuning]] before we actually do it.
 >
 > **[2:41](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/anchor-links-scroll-to-interaction?u=76281980&t=161)** So with that all set, I'll go ahead and make sure I click on the title of the art board and I'll bring up the desktop preview.
 >
@@ -900,7 +888,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (10), hit (3), next (1), product (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (10), [[Representational State Transfer (REST)|Rest]] (1), [[Fine Tuning]] (1)
 > **UI Navigation:** click on (7), navigate to (1), go to (1), scroll down (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (1)
@@ -909,8 +897,7 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preserving scroll position
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/preserving-scroll-position?u=76281980)
+#### [Preserving scroll position](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/preserving-scroll-position?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1026,8 +1013,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Keyboards and game pads
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/keyboards-and-game-pads?u=76281980)
+#### [Keyboards and game pads](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/keyboards-and-game-pads?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1059,7 +1045,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/keyboards-and-game-pads?u=76281980&t=79)** What I want to do is go ahead and now link that to my main recipe screen here.
 >
-> **[1:24](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/keyboards-and-game-pads?u=76281980&t=84)** I'm going to zoom in so that I can see both art boards, this one on the right and this on the left.
+> **[1:24](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/keyboards-and-game-pads?u=76281980&t=84)** I'm going to [[Zoom]] in so that I can see both art boards, this one on the right and this on the left.
 >
 > **[1:30](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/keyboards-and-game-pads?u=76281980&t=90)** Just a bit more clearly.
 >
@@ -1123,7 +1109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (4), next (2), application (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **UI Navigation:** click on (7), dropdown (3), navigate to (1), toggle (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Exercise Files:** exercise file (1)
@@ -1131,8 +1117,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - if (1)
 
-#### Voice triggers with speech playback
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/voice-triggers-with-speech-playback?u=76281980)
+#### [Voice triggers with speech playback](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/voice-triggers-with-speech-playback?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1142,7 +1127,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/voice-triggers-with-speech-playback?u=76281980&t=13)** Voice is kind of a whole world on Twitam.
 >
-> **[0:16](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/voice-triggers-with-speech-playback?u=76281980&t=16)** And using voice that basically is the spoken word, right?
+> **[0:16](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/voice-triggers-with-speech-playback?u=76281980&t=16)** And using voice that basically is the spoken [[Microsoft Word|word]], right?
 >
 > **[0:21](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/voice-triggers-with-speech-playback?u=76281980&t=21)** So speaking to your prototype, once you've produced it in XD will actually allow you to navigate between objects and art boards.
 >
@@ -1152,7 +1137,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/voice-triggers-with-speech-playback?u=76281980&t=39)** And what I want to do is explain to you how I set it up and give you the opportunity to interact with it.
 >
-> **[0:45](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/voice-triggers-with-speech-playback?u=76281980&t=45)** I'm going to zoom in here to these first two art boards.
+> **[0:45](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/voice-triggers-with-speech-playback?u=76281980&t=45)** I'm going to [[Zoom]] in here to these first two art boards.
 >
 > **[0:49](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/voice-triggers-with-speech-playback?u=76281980&t=49)** So I'll select them and I'm going to magnify them a bit and I'll go ahead and hide all my panels so we can really see what we've got going on here.
 >
@@ -1164,7 +1149,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/voice-triggers-with-speech-playback?u=76281980&t=73)** And often that is kind of validating when you actually navigate to another location, you can speak something appropriate for that.
 >
-> **[1:21](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/voice-triggers-with-speech-playback?u=76281980&t=81)** So let's assume I'm prototyping here.
+> **[1:21](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/voice-triggers-with-speech-playback?u=76281980&t=81)** So let's assume I'm [[Prototyping]] here.
 >
 > **[1:23](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/voice-triggers-with-speech-playback?u=76281980&t=83)** The Alexa echo show.
 >
@@ -1214,7 +1199,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/voice-triggers-with-speech-playback?u=76281980&t=237)** I'm going to have her say welcome to matcha goodness.
 >
-> **[4:01](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/voice-triggers-with-speech-playback?u=76281980&t=241)** The next thing I want to have happen is I want to enable speech recognition when I say these words, Alexa search for Matcha smoothies.
+> **[4:01](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/voice-triggers-with-speech-playback?u=76281980&t=241)** The next thing I want to have happen is I want to enable [[Speech Recognition]] when I say these words, Alexa search for Matcha smoothies.
 >
 > **[4:10](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/voice-triggers-with-speech-playback?u=76281980&t=250)** So I've added a second wire.
 >
@@ -1252,14 +1237,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[Prototyping]] (2), [[Speech Recognition]] (2), game (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (2), [[Speech Recognition]] (2), [[Microsoft Word|Word]] (1), [[Zoom]] (1)
 > **Definitions:** is a  (4), is called (1), is an  (1), known as (1)
 > **UI Navigation:** click on (4), navigate to (1), dropdown (1)
 > **Speakers:** - [announcer] (2), - [joanne] (1)
 > **Exercise Files:** exercise file (1)
 
-#### Hyperlinks
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/hyperlinks?u=76281980)
+#### [Hyperlinks](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/hyperlinks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1327,7 +1311,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/hyperlinks?u=76281980&t=180)** So if I wanted to define a hyperlink but I want it to be in line, so in the paragraph text itself, what I can do is come in and select the text that I want to apply that link to, so I'll double click here to get inside this text object.
 >
-> **[3:17](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/hyperlinks?u=76281980&t=197)** I'm actually going to switch back over to design mode, right, 'cause we're editing the text, and I'll double click and just select that word measure.
+> **[3:17](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/hyperlinks?u=76281980&t=197)** I'm actually going to switch back over to design mode, right, 'cause we're editing the text, and I'll double click and just select that [[Microsoft Word|word]] measure.
 >
 > **[3:26](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/hyperlinks?u=76281980&t=206)** With that selected now, here in the properties inspector, if I roll on down, notice that in the text area, there's insert URL here.
 >
@@ -1347,7 +1331,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/hyperlinks?u=76281980&t=294)** The last thing that is worth mentioning is, and this is definitely sort of a niche case for hyperlinks, is the ability to actually use the mail to command to actually send an email.
 >
-> **[5:08](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/hyperlinks?u=76281980&t=308)** So there are lots of ways that you'll do this with buttons and forms and such, but if you did want a simple mail to command, that is supported in XD.
+> **[5:08](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/hyperlinks?u=76281980&t=308)** So there are lots of ways that you'll do this with buttons and [[Forms]] and such, but if you did want a simple mail to command, that is supported in XD.
 >
 > **[5:17](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/hyperlinks?u=76281980&t=317)** Let's say I came here to learn more and I wanted to have them send me an email whenever they wanted to learn more about this product.
 >
@@ -1365,7 +1349,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), hit (3), next (2), [[Microsoft Word|Word]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Forms]] (1)
 > **UI Navigation:** click on (4), select the (3), go to (2), dropdown (1), navigate to (1)
 > **CLI Commands:** make (7), find (1)
 > **Env Vars:** url (5), pdf (2), cdn (1)
@@ -1379,8 +1363,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing auto-animate
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/introducing-auto-animate?u=76281980)
+#### [Introducing auto-animate](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/introducing-auto-animate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1538,7 +1521,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), next (1), [[Search]] (1)
 > **UI Navigation:** click on (9), select the (1), scroll down (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (3)
@@ -1547,8 +1529,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - if (1)
 
-#### Drag interaction
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/drag-interaction?u=76281980)
+#### [Drag interaction](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/drag-interaction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1634,13 +1615,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), feature (1)
 > **UI Navigation:** click on (4), select the (1), go to (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Integrating video
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/integrating-video?u=76281980)
+#### [Integrating video](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/integrating-video?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1648,13 +1627,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/integrating-video?u=76281980&t=6)** So in an earlier course, we talked about video as a media type that you can work with in the design course in this three-part series.
 >
-> **[0:14](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/integrating-video?u=76281980&t=14)** In this course, we talked about prototyping using auto-animate to transition between art boards.
+> **[0:14](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/integrating-video?u=76281980&t=14)** In this course, we talked about [[Prototyping]] using auto-animate to transition between art boards.
 >
 > **[0:21](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/integrating-video?u=76281980&t=21)** What I want to do is show you how combining the two together, can be a lot of fun and quite powerful.
 >
 > **[0:27](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/integrating-video?u=76281980&t=27)** So I have an extraordinarily simple example just so that you can understand the concept.
 >
-> **[0:32](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/integrating-video?u=76281980&t=32)** If I come here to the first two art boards and zoom in a little more tightly, I've got a landing art board, and I have a button here for preparing matcha.
+> **[0:32](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/integrating-video?u=76281980&t=32)** If I come here to the first two art boards and [[Zoom]] in a little more tightly, I've got a landing art board, and I have a button here for preparing matcha.
 >
 > **[0:41](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/integrating-video?u=76281980&t=41)** I want it to be such that when you click that button it takes you to a video view.
 >
@@ -1738,15 +1717,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Prototyping]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1), [[Zoom]] (1)
 > **UI Navigation:** click on (5), toggle (2), go to (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** we talked about (2), go back to (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Integrating Lottie
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/integrating-lottie?u=76281980)
+#### [Integrating Lottie](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/integrating-lottie?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1820,7 +1798,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), next (2), data (1)
 > **UI Navigation:** click on (3), select the (1), dropdown (1)
 > **CLI Commands:** find (1)
 > **Versions:** 0.6 (1)
@@ -1828,8 +1805,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - if (1)
 
-#### Exporting to After Effects
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/exporting-to-after-effects?u=76281980)
+#### [Exporting to After Effects](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/exporting-to-after-effects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1859,13 +1835,13 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/exporting-to-after-effects?u=76281980&t=86)** Notice here towards the timeline down below, I have all of the parts that were used for that auto animate micro interaction as pieces that I can now in After Effects start to take forward as I develop out the finished product.
 >
-> **[1:42](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/exporting-to-after-effects?u=76281980&t=102)** In addition to being able to export those interactions to After Effects, there's also the fact that Lottie files can easily be created in After Effects, and then saved back out as JSON.
+> **[1:42](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/exporting-to-after-effects?u=76281980&t=102)** In addition to being able to export those interactions to After Effects, there's also the fact that Lottie files can easily be created in After Effects, and then saved back out as [[JSON]].
 >
 > **[1:56](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/exporting-to-after-effects?u=76281980&t=116)** So the partnership between XD and After Effects, in my opinion, is going to continue to get stronger over the next period of time because the two tools do work quite well together.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), [[JSON]] (1), next (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** json (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
@@ -1875,8 +1851,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to go to from here
-> [LinkedIn Learning](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/where-to-go-to-from-here?u=76281980)
+#### [Where to go to from here](https://www.linkedin.com/learning/adobe-xd-essential-training-prototype/where-to-go-to-from-here?u=76281980)
 
 > [!transcript]- Transcript
 >

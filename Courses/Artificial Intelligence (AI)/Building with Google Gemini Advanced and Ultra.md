@@ -69,22 +69,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to Google's AI family of the future
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/welcome-to-google-s-ai-family-of-the-future?u=76281980)
+#### [Welcome to Google's AI family of the future](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/welcome-to-google-s-ai-family-of-the-future?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/welcome-to-google-s-ai-family-of-the-future?u=76281980&t=0)** - Google has been a pioneer in artificial intelligence, but I think most people miss why its family of models and offerings are different than others and where it could drive our conversations about AI.
+> **[0:00](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/welcome-to-google-s-ai-family-of-the-future?u=76281980&t=0)** - [[Google]] has been a pioneer in [[Artificial Intelligence (AI)|artificial intelligence]], but I think most people miss why its family of models and offerings are different than others and where it could drive our conversations about AI.
 >
-> **[0:11](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/welcome-to-google-s-ai-family-of-the-future?u=76281980&t=11)** Recently, Google released more capable versions of Gemini as well as version 1.5 of their Pro model, which can consider an unprecedented million tokens.
+> **[0:11](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/welcome-to-google-s-ai-family-of-the-future?u=76281980&t=11)** Recently, Google released more capable versions of [[Gemini]] as well as version 1.5 of their Pro model, which can consider an unprecedented million [[Tokens]].
 >
-> **[0:21](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/welcome-to-google-s-ai-family-of-the-future?u=76281980&t=21)** These models power their chatbot tiers previously known as Bard, which has been gaining unique capabilities while integrating deeply with products used by millions of users every day.
+> **[0:21](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/welcome-to-google-s-ai-family-of-the-future?u=76281980&t=21)** These models power their chatbot tiers previously known as Bard, which has been gaining unique capabilities while integrating deeply with [[Microsoft Products|products]] used by millions of users every day.
 >
-> **[0:31](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/welcome-to-google-s-ai-family-of-the-future?u=76281980&t=31)** So let's dive into Google Gemini, what's changed in Gemini Pro, and how the new chatbot tiers are changing the future of AI.
+> **[0:31](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/welcome-to-google-s-ai-family-of-the-future?u=76281980&t=31)** So let's dive into [[Google Gemini]], what's changed in Gemini Pro, and how the new chatbot tiers are changing the future of AI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), ai (2), [[Gemini]] (2), chatbot (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Gemini]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Tokens]] (1), [[Microsoft Products|Products]] (1)
 > **Versions:** version 1 (1)
 > **Definitions:** known as (1)
 > **Speakers:** - google (1)
@@ -94,26 +93,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning Google Gemini fundamentals
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980)
+#### [Learning Google Gemini fundamentals](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980&t=0)** - Talking about Google Gemini can be a bit confusing, especially since they turned the model with the name of Gemini to a product called Gemini, which used to be called Google Bard.
+> **[0:00](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980&t=0)** - Talking about [[Google Gemini]] can be a bit confusing, especially since they turned the model with the name of [[Gemini]] to a product called Gemini, which used to be called [[Google]] Bard.
 >
-> **[0:10](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980&t=10)** And when you combine the variants of the products and models, it gets even more confusing.
+> **[0:10](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980&t=10)** And when you combine the variants of the [[Microsoft Products|products]] and models, it gets even more confusing.
 >
 > **[0:15](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980&t=15)** At its core, Gemini is a family of multimodal models from Google.
 >
 > **[0:20](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980&t=20)** Think of a model like an engine that accomplishes a specific task.
 >
-> **[0:24](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980&t=24)** In Gemini's case, we call the types of tasks generative AI.
+> **[0:24](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980&t=24)** In Gemini's case, we call the types of tasks [[Generative AI]].
 >
 > **[0:28](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980&t=28)** Generative AI models are trained with massive amounts of data to transfer prompts to some type of results.
 >
 > **[0:34](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980&t=34)** It's called multimodal because the model can handle different types of inputs like text, images, audio, video, and even code.
 >
-> **[0:43](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980&t=43)** In reality, different engines handle different modalities because processing video or generating images is very different to handling prompts in large language models.
+> **[0:43](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980&t=43)** In reality, different engines handle different modalities because processing video or generating images is very different to handling prompts in [[Large Language Models (LLM)|large language models]].
 >
 > **[0:53](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980&t=53)** This supermodel architecture is sometimes called a mixture of experts where requests are handed over to models that specialize in different types of requests.
 >
@@ -133,7 +131,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980&t=90)** Pro has two variants, 1.0 and 1.5.
 >
-> **[1:34](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980&t=94)** This model is supposed to be comparable in capabilities to ChatGPT 3.5.
+> **[1:34](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980&t=94)** This model is supposed to be comparable in capabilities to [[ChatGPT]] 3.5.
 >
 > **[1:39](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980&t=99)** And because it's smaller than Ultra, it's also faster and more performant.
 >
@@ -143,7 +141,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980&t=118)** Things get interesting with the newer version of the Pro model called 1.5.
 >
-> **[2:02](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980&t=122)** Not currently available other than in a developer preview by invitation only, but the key feature is extremely long-context understanding and being able to process up to 1 million tokens.
+> **[2:02](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980&t=122)** Not currently available other than in a developer preview by invitation only, but the key feature is extremely long-context understanding and being able to process up to 1 million [[Tokens]].
 >
 > **[2:14](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980&t=134)** Think of tokens as how much information the models can handle at one time, sort of like their memory.
 >
@@ -155,7 +153,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980&t=161)** However, remember that token capacity isn't free, so the larger the token size, the more expensive the tasks.
 >
-> **[2:48](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980&t=168)** Having said that, this token size goes far beyond what other models can do, with GPT-4 Turbo having an available context window of only 128,000 tokens and Cloude 2.1, 200,000 tokens.
+> **[2:48](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980&t=168)** Having said that, this token size goes far beyond what other models can do, with [[GPT-4]] Turbo having an available context window of only 128,000 tokens and Cloude 2.1, 200,000 tokens.
 >
 > **[3:01](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/learning-google-gemini-fundamentals?u=76281980&t=181)** Finally, we have the model called Ultra.
 >
@@ -173,28 +171,27 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - talking (1)
 
-#### Chatting with new Google Gemini
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980)
+#### [Chatting with new Google Gemini](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980&t=0)** - One of the ways you can try Google Gemini is to use their family of chatbot offerings.
+> **[0:00](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980&t=0)** - One of the ways you can try [[Google Gemini]] is to use their family of chatbot offerings.
 >
-> **[0:04](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980&t=4)** This used to be called Google Bard, but with the release of the Ultra model, it's been renamed Google Gemini.
+> **[0:04](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980&t=4)** This used to be called [[Google]] Bard, but with the release of the Ultra model, it's been renamed Google Gemini.
 >
 > **[0:10](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980&t=10)** There's a free version, as well as a paid version of the tool.
 >
 > **[0:14](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980&t=14)** The free version is called just Google Gemini, and the paid version is Google Gemini Advanced.
 >
-> **[0:20](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980&t=20)** There are also additional plans for business teams, as well as an enterprise package with additional user management and security options.
+> **[0:20](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980&t=20)** There are also additional plans for business teams, as well as an enterprise package with additional [[User Management]] and security options.
 >
-> **[0:28](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980&t=28)** The free Gemini chatbot currently uses the Pro 1.0 model and is also integrated into existing Google apps.
+> **[0:28](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980&t=28)** The free [[Gemini]] chatbot currently uses the Pro 1.0 model and is also integrated into existing Google apps.
 >
 > **[0:36](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980&t=36)** As of this recording, the Pro 1.5 model is not available on any plan.
 >
 > **[0:40](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980&t=40)** Gemini Advanced is 19.99 a month and uses the latest Ultra model.
 >
-> **[0:45](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980&t=45)** You do get two months of a free trial for Google Advanced, as well as access to Google Gemini inside Gmail, Google Docs, and other products.
+> **[0:45](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980&t=45)** You do get two months of a free trial for Google Advanced, as well as access to Google Gemini inside Gmail, Google Docs, and other [[Microsoft Products|products]].
 >
 > **[0:54](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980&t=54)** The Business version is $20 a month billed annually, and gives you enterprise security.
 >
@@ -202,7 +199,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980&t=66)** Now, let's take a look at the Advanced model, whose features are also reflected in Business and Enterprise.
 >
-> **[1:11](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980&t=71)** When you're using the advanced version, you still have access to run the Pro model, which is faster and might eventually let you have access to higher-context windows.
+> **[1:11](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980&t=71)** When you're using the advanced version, you still have access to run the Pro model, which is faster and might eventually let you have access to higher-context [[Windows]].
 >
 > **[1:20](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980&t=80)** Keep in mind that, like with other chatbots, the regular and advanced versions will help Google by using your conversations to improve the Gemini models, while the Business and Enterprise versions will not share data with the chatot training.
 >
@@ -218,30 +215,29 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980&t=124)** These aren't open to the public for development, so at least for now, the extensions give you access to other Google products like Flights, Hotels, Maps, YouTube, and Workspace.
 >
-> **[2:15](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980&t=135)** Workspace is Google's family of office products like Gmail, Drive, and Docs.
+> **[2:15](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980&t=135)** Workspace is Google's family of [[Microsoft Office|office]] products like Gmail, Drive, and Docs.
 >
-> **[2:21](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980&t=141)** That means that you can search through PDFs stored in your Google Drive, ask it to summarize a YouTube video, or get flight and hotel information for trips.
+> **[2:21](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980&t=141)** That means that you can search through PDFs stored in your [[Google Drive]], ask it to summarize a YouTube video, or get flight and hotel information for trips.
 >
 > **[2:29](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/chatting-with-new-google-gemini?u=76281980&t=149)** The Gemini chatbot has quickly caught up to others in terms of features and offerings.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (7), [[Gemini]] (7), [[Google Gemini]] (5), business (4), chatbot (3)
+> **Frameworks & Libraries:** [[Google]] (7), [[Gemini]] (7), [[Google Gemini]] (5), [[Microsoft Products|Products]] (3), [[User Management]] (1)
 > **Versions:** 1.0 (1), 1.5 (1), 19.99 (1)
 > **Definitions:** is called (1), stands for (1), means that (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - one (1)
 
-#### Prompting with Google Gemini
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/prompting-with-google-gemini?u=76281980)
+#### [Prompting with Google Gemini](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/prompting-with-google-gemini?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/prompting-with-google-gemini?u=76281980&t=0)** - Let's try out Google Gemini by using their chat bot.
+> **[0:00](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/prompting-with-google-gemini?u=76281980&t=0)** - Let's try out [[Google Gemini]] by using their chat bot.
 >
-> **[0:02](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/prompting-with-google-gemini?u=76281980&t=2)** I'm going to refer to this as Gemini Chat to make sure we keep the model discussions separate from the app.
+> **[0:02](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/prompting-with-google-gemini?u=76281980&t=2)** I'm going to refer to this as [[Gemini]] Chat to make sure we keep the model discussions separate from the app.
 >
-> **[0:09](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/prompting-with-google-gemini?u=76281980&t=9)** Google makes a lot of claims about the capabilities behind Gemini and how, for example, its ultra versions is the first model to outperform human experts on a test called MMLU, as well as a lot of benchmarks comparing it to GPT-4.
+> **[0:09](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/prompting-with-google-gemini?u=76281980&t=9)** [[Google]] makes a lot of claims about the capabilities behind Gemini and how, for example, its ultra versions is the first model to outperform human experts on a test called MMLU, as well as a lot of benchmarks comparing it to [[GPT-4]].
 >
 > **[0:23](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/prompting-with-google-gemini?u=76281980&t=23)** I think the model is quite capable, but like with anything else, I think your mileage will vary.
 >
@@ -325,7 +321,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/prompting-with-google-gemini?u=76281980&t=218)** This model also yields less errors and should be more accurate.
 >
-> **[3:42](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/prompting-with-google-gemini?u=76281980&t=222)** There's also a mobile app that as of right now is available only for Android devices, but it's quite capable and might be a great way to prompt while on the road, or continue working on a specific prompt you started on your desktop when you're away from your computer.
+> **[3:42](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/prompting-with-google-gemini?u=76281980&t=222)** There's also a mobile app that as of right now is available only for [[Android]] devices, but it's quite capable and might be a great way to prompt while on the road, or continue working on a specific prompt you started on your desktop when you're away from your computer.
 >
 > **[3:58](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/prompting-with-google-gemini?u=76281980&t=238)** The true power of Gemini isn't necessarily the prompting, although it's quite capable in all modalities.
 >
@@ -333,7 +329,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (10), [[Google]] (9), [[Gemini]] (7), power (2), [[Google Gemini]] (1)
+> **Frameworks & Libraries:** [[Google]] (9), [[Gemini]] (7), [[Google Gemini]] (1), [[GPT-4]] (1), [[Android]] (1)
 > **CLI Commands:** make (4), find (3)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** mmlu (1), gpt (1)
@@ -342,18 +338,17 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - let (1)
 
-#### Building with Google Gemini
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980)
+#### [Building with Google Gemini](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=0)** - Let's say that your goal is to build applications with the Gemini platform.
+> **[0:00](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=0)** - Let's say that your goal is to build applications with the [[Gemini]] platform.
 >
 > **[0:04](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=4)** Another one of Gemini's advantages is the robust set of tools that are available to developers.
 >
-> **[0:10](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=10)** The best way to learn how to work with them is to try the AI Studio platform at ai.[google.dev](https://google.dev).
+> **[0:10](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=10)** The best way to learn how to work with them is to try the AI Studio platform at ai.[[[Google]].dev](https://google.dev).
 >
-> **[0:16](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=16)** If you're a Google Cloud client, you can do the same thing on Vertex AI, which gives you access to many more models.
+> **[0:16](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=16)** If you're a [[Google Cloud Platform (GCP)|Google Cloud]] client, you can do the same thing on [[Vertex]] AI, which gives you access to many more models.
 >
 > **[0:22](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=22)** One of the places that Google shines is with extremely competitive pricing when using these models.
 >
@@ -391,7 +386,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=116)** There's a great place where you can get some of the starter code for any of the supported platforms.
 >
-> **[2:01](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=121)** You can see JavaScript, Python, and Android code, and there's even a copy button right here or you can open this up in Google Colab, an online platform where you can play around with the code some more.
+> **[2:01](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=121)** You can see [[JavaScript]], [[Python (Programming Language)|Python]], and [[Android]] code, and there's even a copy button right here or you can open this up in Google Colab, an online platform where you can play around with the code some more.
 >
 > **[2:12](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=132)** A chat prompt is where you're meant to have back and forth conversations with the LLM.
 >
@@ -407,13 +402,13 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=166)** You can use that to ask the LLM to stop when it reaches a specified token.
 >
-> **[2:50](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=170)** So maybe if you ask it to generate some code for an HTML page, you can ask it to stop at the end of an HTML tag or create a similar end marker.
+> **[2:50](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=170)** So maybe if you ask it to generate some code for an [[HTML]] page, you can ask it to stop at the end of an HTML tag or create a similar end marker.
 >
 > **[2:59](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=179)** Let's go ahead and just add a second message.
 >
 > **[3:02](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=182)** We'll just ask it to try again.
 >
-> **[3:04](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=184)** You can see that we'll get a new response and at the bottom you can see a running total of the current token count, which right now lets us go to about 30,000 tokens with the current model per chat.
+> **[3:04](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=184)** You can see that we'll get a new response and at the bottom you can see a running total of the current token count, which right now lets us go to about 30,000 [[Tokens]] with the current model per chat.
 >
 > **[3:15](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=195)** If I click on preview, I can take a look at what the model is currently returning back to me.
 >
@@ -435,11 +430,11 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=267)** I'm just going to click the Object Identifier and you can see that it loads up as a structural prompt and it lets me look at an example of a more complete application.
 >
-> **[4:37](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=277)** One of the big reasons to consider Gemini is that Google has a much more mature family of development products and a history of great documentation, plus a lot of developer tools, so working with Gemini feels like working with a mature product.
+> **[4:37](https://www.linkedin.com/learning/building-with-google-gemini-advanced-and-ultra/building-with-google-gemini?u=76281980&t=277)** One of the big reasons to consider Gemini is that Google has a much more mature family of development [[Microsoft Products|products]] and a history of great documentation, plus a lot of developer tools, so working with Gemini feels like working with a mature product.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (13), api (7), [[Gemini]] (6), ai (6), [[Google]] (5)
+> **Frameworks & Libraries:** [[Gemini]] (6), [[Google]] (5), [[HTML]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Vertex]] (1)
 > **Env Vars:** api (7), llm (3), html (2), pdf (1), csv (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** find (1), make (1), python (1)

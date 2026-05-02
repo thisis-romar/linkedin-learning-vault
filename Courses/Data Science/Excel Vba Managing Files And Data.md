@@ -117,12 +117,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Automate repetitive tasks using Excel VBA
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/automate-repetitive-tasks-using-excel-vba?u=76281980)
+#### [Automate repetitive tasks using Excel VBA](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/automate-repetitive-tasks-using-excel-vba?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/automate-repetitive-tasks-using-excel-vba?u=76281980&t=0)** - [Curt] Excel VBA is a powerful and versatile tool for managing files and data in your organization.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/automate-repetitive-tasks-using-excel-vba?u=76281980&t=0)** - [Curt] [[Microsoft Excel|Excel]] VBA is a powerful and versatile tool for managing files and data in your organization.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/automate-repetitive-tasks-using-excel-vba?u=76281980&t=6)** Mastering the skills that you need to use Excel VBA effectively will let you work efficiently and automate repetitive tasks.
 >
@@ -130,17 +129,16 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/automate-repetitive-tasks-using-excel-vba?u=76281980&t=22)** I'm Curt Frye.
 >
-> **[0:23](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/automate-repetitive-tasks-using-excel-vba?u=76281980&t=23)** Join me at LinkedIn Learning for an introduction to the essential skills that will let you unlock the power and flexibility that comes from using Excel VBA to manage your files and data.
+> **[0:23](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/automate-repetitive-tasks-using-excel-vba?u=76281980&t=23)** Join me at [[LinkedIn]] Learning for an introduction to the essential skills that will let you unlock the power and flexibility that comes from using Excel VBA to manage your files and data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (3), power (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[LinkedIn]] (1)
 > **Env Vars:** vba (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [curt] (1)
 
-#### Manage files and data using Excel VBA
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/manage-files-and-data-using-excel-vba?u=76281980)
+#### [Manage files and data using Excel VBA](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/manage-files-and-data-using-excel-vba?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -148,7 +146,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/manage-files-and-data-using-excel-vba?u=76281980&t=3)** Before I get started, I wanted to give you an overview of what I assume you know before you start.
 >
-> **[0:11](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/manage-files-and-data-using-excel-vba?u=76281980&t=11)** First, know that I will be referring to properties and methods within the Excel object model.
+> **[0:11](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/manage-files-and-data-using-excel-vba?u=76281980&t=11)** First, know that I will be referring to properties and methods within the [[Microsoft Excel|Excel]] object model.
 >
 > **[0:17](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/manage-files-and-data-using-excel-vba?u=76281980&t=17)** So I assume that you are familiar with objects-oriented programming in general and know a bit about the Excel object model.
 >
@@ -158,11 +156,11 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/manage-files-and-data-using-excel-vba?u=76281980&t=40)** We are working with Excel macros and most of the workbooks that are included in the exercise files collection already have macros in them.
 >
-> **[0:49](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/manage-files-and-data-using-excel-vba?u=76281980&t=49)** And there have been some recent changes to Excel macro security and actually macro security overall in Windows and Microsoft Office so I'm going to explain what we're going to do and then show you how to do it inside of File Explorer.
+> **[0:49](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/manage-files-and-data-using-excel-vba?u=76281980&t=49)** And there have been some recent changes to Excel macro security and actually macro security overall in [[Windows]] and [[Microsoft Office]] so I'm going to explain what we're going to do and then show you how to do it inside of File Explorer.
 >
 > **[1:06](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/manage-files-and-data-using-excel-vba?u=76281980&t=66)** First, of course, with macros, you need to be able to comment your code effectively, and also how to record and edit macros to generate useful code.
 >
-> **[1:15](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/manage-files-and-data-using-excel-vba?u=76281980&t=75)** This will be especially useful when we work with pivot tables.
+> **[1:15](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/manage-files-and-data-using-excel-vba?u=76281980&t=75)** This will be especially useful when we work with [[Pivot Tables]].
 >
 > **[1:19](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/manage-files-and-data-using-excel-vba?u=76281980&t=79)** And finally, because of the changes that I mentioned, you will need to change file properties and macro security settings.
 >
@@ -180,7 +178,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/manage-files-and-data-using-excel-vba?u=76281980&t=143)** So unless you need to edit, it's safer to stay in protected view.
 >
-> **[2:28](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/manage-files-and-data-using-excel-vba?u=76281980&t=148)** In this case, I know the file is safe so I'll click enable editing, but then I get another message bar which says that Microsoft has blocked macros from running because the source of this file is untrusted.
+> **[2:28](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/manage-files-and-data-using-excel-vba?u=76281980&t=148)** In this case, I know the file is safe so I'll click enable editing, but then I get another message bar which says that [[Microsoft]] has blocked macros from running because the source of this file is untrusted.
 >
 > **[2:43](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/manage-files-and-data-using-excel-vba?u=76281980&t=163)** I'll go down here and press Alt + F11 and I try to run any of the macros, for example, RemoveFilter, so I'll press F5, I get a message saying that macros in the project are disabled.
 >
@@ -208,7 +206,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), [[Microsoft Excel|Excel]] (5), [[Microsoft Office]] (2), [[Programming]] (1), game (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft Office]] (2), [[Windows]] (1), [[Pivot Tables]] (1), [[Microsoft]] (1)
 > **Exercise Files:** exercise files (2)
 > **Warnings:** be careful (1), warning (1)
 > **CLI Commands:** make (1)
@@ -222,14 +220,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Select the active region
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/select-the-active-region?u=76281980)
+#### [Select the active region](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/select-the-active-region?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/select-the-active-region?u=76281980&t=0)** - [Instructor] One very common action in Microsoft Excel that you don't always think about is selecting the current region or the active region.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/select-the-active-region?u=76281980&t=0)** - [Instructor] One very common action in [[Microsoft Excel]] that you don't always think about is selecting the current region or the active region.
 >
-> **[0:09](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/select-the-active-region?u=76281980&t=9)** And in this movie, I will show you how to do that in the worksheet and also using Excel VBA.
+> **[0:09](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/select-the-active-region?u=76281980&t=9)** And in this movie, I will show you how to do that in the worksheet and also using [[Microsoft Excel|Excel]] VBA.
 >
 > **[0:15](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/select-the-active-region?u=76281980&t=15)** My sample file is 0 1 0 1 CurrentRegion and you can find it in the Chapter01 folder of the exercise files collection.
 >
@@ -287,7 +284,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (4), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft Excel]] (1)
 > **Env Vars:** c15 (3), f11 (3), vba (2), ctrl (2)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (1)
@@ -296,12 +293,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a filter
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-filter?u=76281980)
+#### [Create a filter](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-filter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-filter?u=76281980&t=0)** - [Instructor] It's easy to store, summarize, and visualize a lot of data in an Excel worksheet.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-filter?u=76281980&t=0)** - [Instructor] It's easy to store, summarize, and visualize a lot of data in an [[Microsoft Excel|Excel]] worksheet.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-filter?u=76281980&t=6)** The problem can be limiting the data so that you get the information you need to make a decision.
 >
@@ -311,7 +307,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-filter?u=76281980&t=31)** In this workbook, I have sales data for two years, broken down by state, and I have separated the 2023 data from 2024 into separate lists, so I can illustrate the filtering problem that I mentioned before.
 >
-> **[0:49](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-filter?u=76281980&t=49)** Let's start just by implementing a filter using Microsoft Excel.
+> **[0:49](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-filter?u=76281980&t=49)** Let's start just by implementing a filter using [[Microsoft Excel]].
 >
 > **[0:53](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-filter?u=76281980&t=53)** So I will click up in cell B3 and then press alt F11 to move to the Visual Basic Editor.
 >
@@ -379,15 +375,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Excel|Excel]] (3), [[Microsoft Excel]] (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Microsoft Excel]] (1)
 > **Env Vars:** f11 (16), vba (1), alt (1), b12 (1)
 > **CLI Commands:** make (5), find (1)
 > **Definitions:** is a  (4)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter based on more than one field
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/filter-based-on-more-than-one-field?u=76281980)
+#### [Filter based on more than one field](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/filter-based-on-more-than-one-field?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -431,14 +426,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1)
 > **Env Vars:** f11 (4), vba (2), c15 (2)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combine criteria using OR
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/combine-criteria-using-or?u=76281980)
+#### [Combine criteria using OR](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/combine-criteria-using-or?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -526,7 +519,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/combine-criteria-using-or?u=76281980&t=261)** You might wonder why we have criteria one and criteria two at the start, and then we have an array for more than two values.
 >
-> **[4:29](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/combine-criteria-using-or?u=76281980&t=269)** And the reason is that in Excel VBA, in the early days, you could only have two filter values on a single column.
+> **[4:29](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/combine-criteria-using-or?u=76281980&t=269)** And the reason is that in [[Microsoft Excel|Excel]] VBA, in the early days, you could only have two filter values on a single column.
 >
 > **[4:42](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/combine-criteria-using-or?u=76281980&t=282)** So for a field you could have one value shown, or two, but no more.
 >
@@ -548,19 +541,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **Env Vars:** f11 (6), vba (3), alt (3), c15 (1)
 > **Definitions:** is a  (3), is an  (2), is called (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Find unique items using xlFilter
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/find-unique-items-using-xlfilter?u=76281980)
+#### [Find unique items using xlFilter](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/find-unique-items-using-xlfilter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/find-unique-items-using-xlfilter?u=76281980&t=0)** - [Instructor] One of the more interesting ways to analyze your data in Microsoft Excel is to find unique values within a dataset.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/find-unique-items-using-xlfilter?u=76281980&t=0)** - [Instructor] One of the more interesting ways to analyze your data in [[Microsoft Excel]] is to find unique values within a dataset.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/find-unique-items-using-xlfilter?u=76281980&t=8)** For example, you might look at your orders and see how many different states you've received orders from.
 >
@@ -652,7 +644,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Excel]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Excel]] (2)
 > **Env Vars:** f11 (6), vba (2)
 > **CLI Commands:** find (3), make (1)
 > **Code Identifiers:** xlfilterinplace (1)
@@ -661,12 +653,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 
-#### Restore a range or worksheet to an unfiltered state
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/restore-a-range-or-worksheet-to-an-unfiltered-state?u=76281980)
+#### [Restore a range or worksheet to an unfiltered state](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/restore-a-range-or-worksheet-to-an-unfiltered-state?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/restore-a-range-or-worksheet-to-an-unfiltered-state?u=76281980&t=0)** - [Instructor] Filtering an Excel worksheet lets you focus on the data that you need to make a specific decision.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/restore-a-range-or-worksheet-to-an-unfiltered-state?u=76281980&t=0)** - [Instructor] Filtering an [[Microsoft Excel|Excel]] worksheet lets you focus on the data that you need to make a specific decision.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/restore-a-range-or-worksheet-to-an-unfiltered-state?u=76281980&t=6)** Of course, there will usually be times when you need to remove the filter so you can look at all of your data, and in this movie, I will show you two techniques to do that.
 >
@@ -718,7 +709,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **Env Vars:** f11 (8), vba (3), c15 (1)
 > **CLI Commands:** make (1), find (1)
 > **Code Identifiers:** straddress (2)
@@ -730,12 +721,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Determine if a workbook exists
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/determine-if-a-workbook-exists?u=76281980)
+#### [Determine if a workbook exists](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/determine-if-a-workbook-exists?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/determine-if-a-workbook-exists?u=76281980&t=0)** - [Instructor] Most of the Excel VBA code that you write will operate on the workbook that is currently open.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/determine-if-a-workbook-exists?u=76281980&t=0)** - [Instructor] Most of the [[Microsoft Excel|Excel]] VBA code that you write will operate on the workbook that is currently open.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/determine-if-a-workbook-exists?u=76281980&t=5)** However, as you create more advanced routines, it's likely that you will need to open, close, and otherwise operate on workbooks elsewhere in your system or on your network.
 >
@@ -797,7 +787,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/determine-if-a-workbook-exists?u=76281980&t=202)** I could also press Ctrl + Shift + C.
 >
-> **[3:26](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/determine-if-a-workbook-exists?u=76281980&t=206)** If you have a different installation of Windows and don't see this, there's another way that you can get Copy as path, and that is to Shift + right click the file.
+> **[3:26](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/determine-if-a-workbook-exists?u=76281980&t=206)** If you have a different installation of [[Windows]] and don't see this, there's another way that you can get Copy as path, and that is to Shift + right click the file.
 >
 > **[3:36](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/determine-if-a-workbook-exists?u=76281980&t=216)** So I'll hold down the Shift key and right click Target.
 >
@@ -821,7 +811,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), data (1), [[Windows]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Windows]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** vba (2), f11 (1)
 > **Code Identifiers:** strfilename (1), bisthere (1)
@@ -829,8 +819,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Determine if a folder (directory) exists
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/determine-if-a-folder-directory-exists?u=76281980)
+#### [Determine if a folder (directory) exists](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/determine-if-a-folder-directory-exists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -884,7 +873,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/determine-if-a-folder-directory-exists?u=76281980&t=166)** And we will use the Chapter02 folder of the Exercise Files collection, because I know it exists, because you downloaded the files.
 >
-> **[2:55](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/determine-if-a-folder-directory-exists?u=76281980&t=175)** In my version of Windows, I can get the path by right-clicking a blank spot on the address bar at the top, and click Copy Address as Text.
+> **[2:55](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/determine-if-a-folder-directory-exists?u=76281980&t=175)** In my version of [[Windows]], I can get the path by right-clicking a blank spot on the address bar at the top, and click Copy Address as Text.
 >
 > **[3:07](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/determine-if-a-folder-directory-exists?u=76281980&t=187)** So I've got that.
 >
@@ -916,11 +905,11 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/determine-if-a-folder-directory-exists?u=76281980&t=253)** So I'll click OK.
 >
-> **[4:16](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/determine-if-a-folder-directory-exists?u=76281980&t=256)** And that is how you check whether a folder exists in VBA for Microsoft Excel.
+> **[4:16](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/determine-if-a-folder-directory-exists?u=76281980&t=256)** And that is how you check whether a folder exists in VBA for [[Microsoft Excel]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), [[Windows]] (1), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Microsoft Excel]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** strpathname (2), vbdirectory (1)
 > **Env Vars:** f11 (1), vba (1)
@@ -929,12 +918,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1)
 
-#### Detect whether a file is open
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/detect-whether-a-file-is-open?u=76281980)
+#### [Detect whether a file is open](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/detect-whether-a-file-is-open?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/detect-whether-a-file-is-open?u=76281980&t=0)** - [Instructor] When you write VBA code that affects other Excel workbooks, you need to make sure that those workbooks are open.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/detect-whether-a-file-is-open?u=76281980&t=0)** - [Instructor] When you write VBA code that affects other [[Microsoft Excel|Excel]] workbooks, you need to make sure that those workbooks are open.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/detect-whether-a-file-is-open?u=76281980&t=7)** And in this movie, I will show you a technique for determining whether another workbook is in fact open.
 >
@@ -1024,7 +1012,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft Excel|Excel]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (4), is called (2), is an  (1)
 > **Env Vars:** f11 (2), vba (1)
 > **CLI Commands:** make (1), find (1)
@@ -1033,12 +1021,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Open a workbook
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/open-a-workbook?u=76281980)
+#### [Open a workbook](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/open-a-workbook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/open-a-workbook?u=76281980&t=0)** - [Instructor] In the previous movie, I showed you how to determine whether a particular Excel file is open or not.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/open-a-workbook?u=76281980&t=0)** - [Instructor] In the previous movie, I showed you how to determine whether a particular [[Microsoft Excel|Excel]] file is open or not.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/open-a-workbook?u=76281980&t=7)** In this movie, I will show you how to open files that are currently closed.
 >
@@ -1060,7 +1047,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/open-a-workbook?u=76281980&t=111)** I could also click the file and then press Control+Shift+C.
 >
-> **[1:55](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/open-a-workbook?u=76281980&t=115)** If you don't see that version of the shortcut menu, which might happen based on your version of Windows, you can display it for sure by holding down the shift key and right clicking a file.
+> **[1:55](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/open-a-workbook?u=76281980&t=115)** If you don't see that version of the shortcut menu, which might happen based on your version of [[Windows]], you can display it for sure by holding down the shift key and right clicking a file.
 >
 > **[2:06](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/open-a-workbook?u=76281980&t=126)** So I will hold down shift, right click Target, and then from a different shortcut menu that appears, I'll click copy as path.
 >
@@ -1078,15 +1065,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Windows]] (1)
 > **Exercise Files:** exercise files (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** f11 (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Close a workbook
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/close-a-workbook?u=76281980)
+#### [Close a workbook](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/close-a-workbook?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1094,7 +1080,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/close-a-workbook?u=76281980&t=5)** When you're done with them, you should close them.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/close-a-workbook?u=76281980&t=7)** And in this movie, I will show you various ways to close your Excel workbooks.
+> **[0:07](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/close-a-workbook?u=76281980&t=7)** And in this movie, I will show you various ways to close your [[Microsoft Excel|Excel]] workbooks.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/close-a-workbook?u=76281980&t=12)** The sample file that I will start with is 02_05_CloseWorkbook, and you can find it in the chapter two folder of the exercise files collection.
 >
@@ -1180,7 +1166,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/close-a-workbook?u=76281980&t=241)** And this is where the On Error Resume Next and On Error GoTo 0 lines of code come into play.
 >
-> **[4:09](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/close-a-workbook?u=76281980&t=249)** On Error Resume Next is an error handling mode, where Microsoft Excel, specifically the Visual Basic Editor, tries to keep running the code for as long as it can.
+> **[4:09](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/close-a-workbook?u=76281980&t=249)** On Error Resume Next is an error handling mode, where [[Microsoft Excel]], specifically the Visual Basic Editor, tries to keep running the code for as long as it can.
 >
 > **[4:19](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/close-a-workbook?u=76281980&t=259)** It basically ignores all errors and keeps executing.
 >
@@ -1206,7 +1192,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Microsoft Excel|Excel]] (2), application (2), data (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Excel]] (1)
 > **Env Vars:** vba (3), f11 (3)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (2)
@@ -1215,12 +1201,11 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Save a workbook under a new name
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/save-a-workbook-under-a-new-name?u=76281980)
+#### [Save a workbook under a new name](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/save-a-workbook-under-a-new-name?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/save-a-workbook-under-a-new-name?u=76281980&t=0)** - [Instructor] When you automate a process in Excel using Visual Basic for applications, you will often want to save the file you're working on under a new name or in a new location.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/save-a-workbook-under-a-new-name?u=76281980&t=0)** - [Instructor] When you automate a process in [[Microsoft Excel|Excel]] using Visual Basic for applications, you will often want to save the file you're working on under a new name or in a new location.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/save-a-workbook-under-a-new-name?u=76281980&t=10)** In this movie, I will show you how to perform those tasks in Excel VBA.
 >
@@ -1256,7 +1241,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/save-a-workbook-under-a-new-name?u=76281980&t=119)** But in this case, if I click copy as path, then I will get the directory path that leads to the file.
 >
-> **[2:07](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/save-a-workbook-under-a-new-name?u=76281980&t=127)** If you don't see that, and it depends on which version of Windows you're running, you can get the copy as path indicator another way.
+> **[2:07](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/save-a-workbook-under-a-new-name?u=76281980&t=127)** If you don't see that, and it depends on which version of [[Windows]] you're running, you can get the copy as path indicator another way.
 >
 > **[2:17](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/save-a-workbook-under-a-new-name?u=76281980&t=137)** I'll hold down the shift key and right click my file.
 >
@@ -1304,15 +1289,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (1), [[Windows]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Windows]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** vba (1), alt (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Save a workbook as a CSV file
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/save-a-workbook-as-a-csv-file?u=76281980)
+#### [Save a workbook as a CSV file](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/save-a-workbook-as-a-csv-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1322,7 +1306,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/save-a-workbook-as-a-csv-file?u=76281980&t=15)** My sample file is 02_07_SaveAsCSV, and you can find it in the Chapter02 folder of the Exercise Files collection.
 >
-> **[0:24](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/save-a-workbook-as-a-csv-file?u=76281980&t=24)** Excel is a very popular program, but not every other application can take Excel data in.
+> **[0:24](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/save-a-workbook-as-a-csv-file?u=76281980&t=24)** [[Microsoft Excel|Excel]] is a very popular program, but not every other application can take Excel data in.
 >
 > **[0:31](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/save-a-workbook-as-a-csv-file?u=76281980&t=31)** Instead, you might need to transfer the data into the comma separated value format, which is a text-only format.
 >
@@ -1342,7 +1326,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/save-a-workbook-as-a-csv-file?u=76281980&t=94)** I could also press Ctrl + Shift + C.
 >
-> **[1:37](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/save-a-workbook-as-a-csv-file?u=76281980&t=97)** If you don't see that and you might not, depending upon your version of Windows, you can get the Copy as path option by holding down the Shift key and right clicking a file name in File Explorer and then right about halfway down is Copy as path.
+> **[1:37](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/save-a-workbook-as-a-csv-file?u=76281980&t=97)** If you don't see that and you might not, depending upon your version of [[Windows]], you can get the Copy as path option by holding down the Shift key and right clicking a file name in File Explorer and then right about halfway down is Copy as path.
 >
 > **[1:52](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/save-a-workbook-as-a-csv-file?u=76281980&t=112)** So I'll click that, then switch back to the Visual Basic Editor and I can start typing in the code.
 >
@@ -1400,7 +1384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (4), application (3), [[Windows]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Windows]] (1)
 > **Env Vars:** csv (6), f11 (2), vba (1)
 > **Exercise Files:** exercise files (3)
 > **File Paths:** saveascsv.csv (2)
@@ -1414,12 +1398,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Check if a worksheet exists
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/check-if-a-worksheet-exists?u=76281980)
+#### [Check if a worksheet exists](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/check-if-a-worksheet-exists?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/check-if-a-worksheet-exists?u=76281980&t=0)** - [Narrator] When you work with Excel VBA within a workbook, you will often need to check whether a worksheet with a particular name exists.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/check-if-a-worksheet-exists?u=76281980&t=0)** - [Narrator] When you work with [[Microsoft Excel|Excel]] VBA within a workbook, you will often need to check whether a worksheet with a particular name exists.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/check-if-a-worksheet-exists?u=76281980&t=9)** In this movie I will show you how to do that.
 >
@@ -1481,7 +1464,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** vba (2), f11 (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1)
@@ -1489,12 +1472,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [narrator] (1)
 
-#### Create and rename worksheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-and-rename-worksheets?u=76281980)
+#### [Create and rename worksheets](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-and-rename-worksheets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-and-rename-worksheets?u=76281980&t=0)** - [Instructor] Two very common tasks when you work with Excel workbooks and worksheets in Excel VBA is to create and rename worksheets.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-and-rename-worksheets?u=76281980&t=0)** - [Instructor] Two very common tasks when you work with [[Microsoft Excel|Excel]] workbooks and worksheets in Excel VBA is to create and rename worksheets.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-and-rename-worksheets?u=76281980&t=9)** In this movie, I will show you how to do both of those things.
 >
@@ -1544,7 +1526,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5)
 > **Env Vars:** f11 (6), vba (4)
 > **UI Navigation:** in the tab (2)
 > **CLI Commands:** find (1)
@@ -1553,8 +1535,7 @@ created: 2026-05-02
 > **Warnings:** watch out (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copy a worksheet within the active workbook
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-a-worksheet-within-the-active-workbook?u=76281980)
+#### [Copy a worksheet within the active workbook](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-a-worksheet-within-the-active-workbook?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1623,12 +1604,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copy a worksheet to a new workbook
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-a-worksheet-to-a-new-workbook?u=76281980)
+#### [Copy a worksheet to a new workbook](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-a-worksheet-to-a-new-workbook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-a-worksheet-to-a-new-workbook?u=76281980&t=0)** - [Instructor] After you're done working with a worksheet in Microsoft Excel, you can use VBA to copy it to a new workbook.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-a-worksheet-to-a-new-workbook?u=76281980&t=0)** - [Instructor] After you're done working with a worksheet in [[Microsoft Excel]], you can use VBA to copy it to a new workbook.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-a-worksheet-to-a-new-workbook?u=76281980&t=9)** Copying sends the worksheet to a new workbook without erasing the original, so it's very useful.
 >
@@ -1668,7 +1648,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-a-worksheet-to-a-new-workbook?u=76281980&t=91)** And from here I could save it give it a new name, whatever I like to do.
 >
-> **[1:36](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-a-worksheet-to-a-new-workbook?u=76281980&t=96)** And in fact, that is so common that I will show you how to do it in Excel VBA.
+> **[1:36](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-a-worksheet-to-a-new-workbook?u=76281980&t=96)** And in fact, that is so common that I will show you how to do it in [[Microsoft Excel|Excel]] VBA.
 >
 > **[1:42](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-a-worksheet-to-a-new-workbook?u=76281980&t=102)** So I'll close the new workbook without saving it.
 >
@@ -1686,7 +1666,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-a-worksheet-to-a-new-workbook?u=76281980&t=155)** So I will right-click, CopyToNew, 03_04_CopyToNew, and then I could click copy as path or press control shift C.
 >
-> **[2:45](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-a-worksheet-to-a-new-workbook?u=76281980&t=165)** If you have an older version of Windows, you might not see that.
+> **[2:45](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-a-worksheet-to-a-new-workbook?u=76281980&t=165)** If you have an older version of [[Windows]], you might not see that.
 >
 > **[2:49](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-a-worksheet-to-a-new-workbook?u=76281980&t=169)** In that case, click the file and then shift right-click.
 >
@@ -1730,12 +1710,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copy a worksheet to an existing workbook
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-a-worksheet-to-an-existing-workbook?u=76281980)
+#### [Copy a worksheet to an existing workbook](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-a-worksheet-to-an-existing-workbook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-a-worksheet-to-an-existing-workbook?u=76281980&t=0)** - [Instructor] One common task when you are performing a file manipulation with Excel VBA is to copy a worksheet to an existing workbook.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-a-worksheet-to-an-existing-workbook?u=76281980&t=0)** - [Instructor] One common task when you are performing a file manipulation with [[Microsoft Excel|Excel]] VBA is to copy a worksheet to an existing workbook.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-a-worksheet-to-an-existing-workbook?u=76281980&t=10)** And in this movie I will show you how to do that.
 >
@@ -1781,7 +1760,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-a-worksheet-to-an-existing-workbook?u=76281980&t=170)** So I will right click that and then from the shortcut menu that appears I see Copy as Path.
 >
-> **[2:58](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-a-worksheet-to-an-existing-workbook?u=76281980&t=178)** If you don't see that and you might not depending upon your version of Windows, then click TargetForCopy and then shift right click.
+> **[2:58](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-a-worksheet-to-an-existing-workbook?u=76281980&t=178)** If you don't see that and you might not depending upon your version of [[Windows]], then click TargetForCopy and then shift right click.
 >
 > **[3:06](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-a-worksheet-to-an-existing-workbook?u=76281980&t=186)** From this version of the shortcut menu, you'll get copy as path.
 >
@@ -1833,7 +1812,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), next (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Windows]] (1)
 > **Definitions:** is called (2), is a  (1), is an  (1)
 > **Env Vars:** vba (1), f11 (1)
 > **UI Navigation:** open the (1), select the (1)
@@ -1842,14 +1821,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Move a worksheet within the active workbook
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-worksheet-within-the-active-workbook?u=76281980)
+#### [Move a worksheet within the active workbook](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-worksheet-within-the-active-workbook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-worksheet-within-the-active-workbook?u=76281980&t=0)** - [Instructor] When you build solutions in Microsoft Excel, you quickly discover that the order of worksheets within a workbook matters.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-worksheet-within-the-active-workbook?u=76281980&t=0)** - [Instructor] When you build solutions in [[Microsoft Excel]], you quickly discover that the order of worksheets within a workbook matters.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-worksheet-within-the-active-workbook?u=76281980&t=7)** So in this movie, I will show you how to move a worksheet within a workbook using Excel VBA.
+> **[0:07](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-worksheet-within-the-active-workbook?u=76281980&t=7)** So in this movie, I will show you how to move a worksheet within a workbook using [[Microsoft Excel|Excel]] VBA.
 >
 > **[0:14](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-worksheet-within-the-active-workbook?u=76281980&t=14)** My sample file is 03_06_MoveWithin, and you can find it in the chapter 03 folder of the exercise files collection.
 >
@@ -1886,8 +1864,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Move a worksheet to a new workbook
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-worksheet-to-a-new-workbook?u=76281980)
+#### [Move a worksheet to a new workbook](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-worksheet-to-a-new-workbook?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1931,7 +1908,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-worksheet-to-a-new-workbook?u=76281980&t=129)** And then if I want to copy its path, I can click copy as path from the shortcut menu, or by selecting the file, I can also press Control + Shift + C.
 >
-> **[2:19](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-worksheet-to-a-new-workbook?u=76281980&t=139)** If you don't see those options, and you might not, depending upon your version of Windows, you can click a file, and then Shift right-click the file name inside File Explorer, and there about halfway down, you'll see copy as Path.
+> **[2:19](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-worksheet-to-a-new-workbook?u=76281980&t=139)** If you don't see those options, and you might not, depending upon your version of [[Windows]], you can click a file, and then Shift right-click the file name inside File Explorer, and there about halfway down, you'll see copy as Path.
 >
 > **[2:33](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-worksheet-to-a-new-workbook?u=76281980&t=153)** So click that, and then go back to the Visual Basic Editor.
 >
@@ -1981,12 +1958,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Move a worksheet to an existing workbook
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-worksheet-to-an-existing-workbook?u=76281980)
+#### [Move a worksheet to an existing workbook](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-worksheet-to-an-existing-workbook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-worksheet-to-an-existing-workbook?u=76281980&t=0)** - One of the great things about Excel is that you can use workbooks to store collections of data.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-worksheet-to-an-existing-workbook?u=76281980&t=0)** - One of the great things about [[Microsoft Excel|Excel]] is that you can use workbooks to store collections of data.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-worksheet-to-an-existing-workbook?u=76281980&t=5)** And because worksheets tend to store data that is saved based on a theme, you can create workbooks to save them as you move along.
 >
@@ -2036,7 +2012,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-worksheet-to-an-existing-workbook?u=76281980&t=179)** So I'll click that and right click.
 >
-> **[3:01](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-worksheet-to-an-existing-workbook?u=76281980&t=181)** And then in my version of Windows, I can click "copy as path".
+> **[3:01](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-worksheet-to-an-existing-workbook?u=76281980&t=181)** And then in my version of [[Windows]], I can click "copy as path".
 >
 > **[3:07](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-worksheet-to-an-existing-workbook?u=76281980&t=187)** If you're running a different version of Windows, you might not see that with just a single right click, but if you hold down the shift key and right click "target for move", then you'll get "copy as path" in that shortcut menu.
 >
@@ -2094,7 +2070,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (2), [[Windows]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Windows]] (2)
 > **Definitions:** is an  (2), is called (1), means that (1)
 > **Env Vars:** f11 (2), alt (1)
 > **CLI Commands:** find (1), make (1)
@@ -2108,14 +2084,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use the built-in Open dialog box
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/use-the-built-in-open-dialog-box?u=76281980)
+#### [Use the built-in Open dialog box](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/use-the-built-in-open-dialog-box?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/use-the-built-in-open-dialog-box?u=76281980&t=0)** - [Instructor] Elsewhere In this course, I show you how to find the full path to a file within the Windows operating system by working in File Explorer.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/use-the-built-in-open-dialog-box?u=76281980&t=0)** - [Instructor] Elsewhere In this course, I show you how to find the full path to a file within the [[Windows]] operating system by working in File Explorer.
 >
-> **[0:10](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/use-the-built-in-open-dialog-box?u=76281980&t=10)** In this movie, I will show you how to do the same thing, but this time allow the user to select the file from within Excel VBA.
+> **[0:10](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/use-the-built-in-open-dialog-box?u=76281980&t=10)** In this movie, I will show you how to do the same thing, but this time allow the user to select the file from within [[Microsoft Excel|Excel]] VBA.
 >
 > **[0:20](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/use-the-built-in-open-dialog-box?u=76281980&t=20)** My sample file is 04_01_OpenDialog, and you can find it in the Chapter 4 folder of the Exercise Files collection.
 >
@@ -2147,7 +2122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Windows]] (1), [[Microsoft Excel|Excel]] (1), data (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** vba (1), f11 (1)
 > **Cross-References:** go back to (1), later in (1)
@@ -2155,12 +2130,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Suppress and restore alerts
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/suppress-and-restore-alerts?u=76281980)
+#### [Suppress and restore alerts](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/suppress-and-restore-alerts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/suppress-and-restore-alerts?u=76281980&t=0)** - [Instructor] One of the real benefits of creating Excel VBA code is that you can run through a process without you, the human, having to get involved.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/suppress-and-restore-alerts?u=76281980&t=0)** - [Instructor] One of the real benefits of creating [[Microsoft Excel|Excel]] VBA code is that you can run through a process without you, the human, having to get involved.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/suppress-and-restore-alerts?u=76281980&t=10)** However, there will be some actions that Excel VBA tries to take that would ask for you as an individual to confirm that the action is supposed to take place.
 >
@@ -2176,7 +2150,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/suppress-and-restore-alerts?u=76281980&t=65)** If I want to delete the worksheet manually, I can right click its sheet tab and then the second item in the shortcut menu is delete.
 >
-> **[1:14](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/suppress-and-restore-alerts?u=76281980&t=74)** And then I receive an alert box saying that Microsoft Excel will permanently delete the sheet and asking if I want to continue.
+> **[1:14](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/suppress-and-restore-alerts?u=76281980&t=74)** And then I receive an alert box saying that [[Microsoft Excel]] will permanently delete the sheet and asking if I want to continue.
 >
 > **[1:23](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/suppress-and-restore-alerts?u=76281980&t=83)** And when Excel says permanently, it means that you can't press Control Z to undo.
 >
@@ -2218,7 +2192,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), application (2), [[Microsoft Excel]] (1), [[Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Microsoft Excel]] (1)
 > **Env Vars:** vba (3), f11 (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (1), in other words (1)
@@ -2227,12 +2201,11 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Warnings:** warning (1)
 
-#### Calculate data using Excel worksheet functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/calculate-data-using-excel-worksheet-functions?u=76281980)
+#### [Calculate data using Excel worksheet functions](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/calculate-data-using-excel-worksheet-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/calculate-data-using-excel-worksheet-functions?u=76281980&t=0)** - [Instructor] One great thing about Microsoft Excel VBA is that if there is a built-in worksheet function that will perform a calculation that you want, chances are very good that you will be able to use it from inside of Excel VBA.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/calculate-data-using-excel-worksheet-functions?u=76281980&t=0)** - [Instructor] One great thing about [[Microsoft Excel]] VBA is that if there is a built-in worksheet function that will perform a calculation that you want, chances are very good that you will be able to use it from inside of [[Microsoft Excel|Excel]] VBA.
 >
 > **[0:15](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/calculate-data-using-excel-worksheet-functions?u=76281980&t=15)** And in this movie, I will show you one example of how to do that.
 >
@@ -2324,7 +2297,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), application (2), [[Microsoft Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Excel]] (1)
 > **Env Vars:** vba (3), cpv (2), ctrl (1), alt (1), f11 (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
@@ -2333,14 +2306,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use the current date and time
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/use-the-current-date-and-time?u=76281980)
+#### [Use the current date and time](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/use-the-current-date-and-time?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/use-the-current-date-and-time?u=76281980&t=0)** - [Narrator] When you track things that happen to your business or organization, it's important to remember that everything happens on a certain day and at a certain time.
 >
-> **[0:10](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/use-the-current-date-and-time?u=76281980&t=10)** You don't always need that information, but when you do, you should know how to find it and write it out in Excel VBA.
+> **[0:10](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/use-the-current-date-and-time?u=76281980&t=10)** You don't always need that information, but when you do, you should know how to find it and write it out in [[Microsoft Excel|Excel]] VBA.
 >
 > **[0:18](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/use-the-current-date-and-time?u=76281980&t=18)** I'll show you how to do that in this movie.
 >
@@ -2436,7 +2408,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** vba (2), alt (2), f11 (2)
 > **CLI Commands:** find (3)
 > **Analogies:** for example (2), such as (1)
@@ -2445,12 +2417,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1), in other words (1)
 > **Warnings:** note that (2)
 
-#### Remove spaces from before or after a string
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/remove-spaces-from-before-or-after-a-string?u=76281980)
+#### [Remove spaces from before or after a string](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/remove-spaces-from-before-or-after-a-string?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/remove-spaces-from-before-or-after-a-string?u=76281980&t=0)** - [Instructor] One common problem with data that you bring in from outside of Microsoft Excel is that there are spaces before and after the values that you import as strings.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/remove-spaces-from-before-or-after-a-string?u=76281980&t=0)** - [Instructor] One common problem with data that you bring in from outside of [[Microsoft Excel]] is that there are spaces before and after the values that you import as strings.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/remove-spaces-from-before-or-after-a-string?u=76281980&t=12)** In this movie, I will show you how to use keywords in Microsoft Excel VBA to get rid of those extra spaces.
 >
@@ -2484,7 +2455,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/remove-spaces-from-before-or-after-a-string?u=76281980&t=92)** So I will use the built-in keyword Ltrim for text 1.
 >
-> **[1:39](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/remove-spaces-from-before-or-after-a-string?u=76281980&t=99)** And this isn't a worksheet function, instead, it's just a built-in keyword in Excel VBA.
+> **[1:39](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/remove-spaces-from-before-or-after-a-string?u=76281980&t=99)** And this isn't a worksheet function, instead, it's just a built-in keyword in [[Microsoft Excel|Excel]] VBA.
 >
 > **[1:45](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/remove-spaces-from-before-or-after-a-string?u=76281980&t=105)** And this will remove all of the blank spaces to the left of the first character in string 1.
 >
@@ -2514,7 +2485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Excel]] (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel]] (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** vba (2), f11 (1)
 > **Code Identifiers:** stext1 (1), stext3 (1)
 > **CLI Commands:** find (1)
@@ -2526,12 +2497,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-chart?u=76281980)
+#### [Create a chart](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-chart?u=76281980&t=0)** - [Instructor] After you bring data into Microsoft Excel, you can use Excel VBA to create a chart.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-chart?u=76281980&t=0)** - [Instructor] After you bring data into [[Microsoft Excel]], you can use [[Microsoft Excel|Excel]] VBA to create a chart.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-chart?u=76281980&t=7)** And in this movie, I will show you how to do that.
 >
@@ -2617,7 +2587,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (5), next (4), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft Excel]] (1)
 > **Env Vars:** vba (4), f11 (4), alt (1)
 > **Definitions:** means that (1), is an  (1), is a  (1)
 > **CLI Commands:** find (1), make (1)
@@ -2626,12 +2596,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Move a chart to a chart sheet
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-chart-to-a-chart-sheet?u=76281980)
+#### [Move a chart to a chart sheet](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-chart-to-a-chart-sheet?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-chart-to-a-chart-sheet?u=76281980&t=0)** - [Instructor] In the previous movie, I showed you how to use Excel VBA to create a chart in two different ways.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-chart-to-a-chart-sheet?u=76281980&t=0)** - [Instructor] In the previous movie, I showed you how to use [[Microsoft Excel|Excel]] VBA to create a chart in two different ways.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-a-chart-to-a-chart-sheet?u=76281980&t=6)** The first, which you see here, is to create a chart on the same worksheet where the data it summarizes is stored.
 >
@@ -2709,19 +2678,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** f11 (3), vba (2)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (1), select the (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add or remove data series from a chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-or-remove-data-series-from-a-chart?u=76281980)
+#### [Add or remove data series from a chart](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-or-remove-data-series-from-a-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-or-remove-data-series-from-a-chart?u=76281980&t=0)** - [Instructor] One task that can be automated in a straightforward manner using Excel VBA is to add a data series to an existing chart.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-or-remove-data-series-from-a-chart?u=76281980&t=0)** - [Instructor] One task that can be automated in a straightforward manner using [[Microsoft Excel|Excel]] VBA is to add a data series to an existing chart.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-or-remove-data-series-from-a-chart?u=76281980&t=10)** And in this movie I will show you how to do that.
 >
@@ -2821,7 +2789,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** f11 (4), vba (2)
 > **CLI Commands:** find (2), make (2)
 > **Code Identifiers:** intseriescount (2)
@@ -2830,12 +2798,11 @@ created: 2026-05-02
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Export a chart as an image
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/export-a-chart-as-an-image?u=76281980)
+#### [Export a chart as an image](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/export-a-chart-as-an-image?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/export-a-chart-as-an-image?u=76281980&t=0)** - [Instructor] After you create a chart in Excel using VBA, or by hand, you can copy an image of the chart to another location in the workbook.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/export-a-chart-as-an-image?u=76281980&t=0)** - [Instructor] After you create a chart in [[Microsoft Excel|Excel]] using VBA, or by hand, you can copy an image of the chart to another location in the workbook.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/export-a-chart-as-an-image?u=76281980&t=9)** In this movie, I will show you how to do that.
 >
@@ -2907,7 +2874,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** f11 (2), vba (1)
 > **Cross-References:** go back to (1)
@@ -2916,14 +2883,13 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a line sparkline
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-line-sparkline?u=76281980)
+#### [Create a line sparkline](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-line-sparkline?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-line-sparkline?u=76281980&t=0)** - [Instructor] When you create a dashboard or other visualization in Microsoft Excel, you will often have to use as little space as possible.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-line-sparkline?u=76281980&t=0)** - [Instructor] When you create a dashboard or other visualization in [[Microsoft Excel]], you will often have to use as little space as possible.
 >
-> **[0:09](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-line-sparkline?u=76281980&t=9)** One great way to show trends and other visualizations of data in Excel is by creating a sparkline.
+> **[0:09](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-line-sparkline?u=76281980&t=9)** One great way to show trends and other visualizations of data in [[Microsoft Excel|Excel]] is by creating a sparkline.
 >
 > **[0:18](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-line-sparkline?u=76281980&t=18)** Sparklines were popularized, in the United States at least, by a graphic designer named Edward Tufte.
 >
@@ -2953,7 +2919,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-line-sparkline?u=76281980&t=134)** The type of sparkline will be type and then I'll set it as a parameter.
 >
-> **[2:18](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-line-sparkline?u=76281980&t=138)** So colon equal xlSparkLine, and xlSparkLine as opposed to SparkLine as a single word, then a comma, and then identify the SourceData, our SourceData, again setting it as a parameter.
+> **[2:18](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-line-sparkline?u=76281980&t=138)** So colon equal xlSparkLine, and xlSparkLine as opposed to SparkLine as a single [[Microsoft Word|word]], then a comma, and then identify the SourceData, our SourceData, again setting it as a parameter.
 >
 > **[2:34](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-line-sparkline?u=76281980&t=154)** So colon equal is cell B2 to B8, and that's all we need to do.
 >
@@ -2963,7 +2929,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel]] (1), [[Microsoft Excel|Excel]] (1), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Code Identifiers:** xlsparkline (2)
 > **Env Vars:** f11 (2)
@@ -2971,14 +2937,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a column sparkline
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-column-sparkline?u=76281980)
+#### [Create a column sparkline](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-column-sparkline?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-column-sparkline?u=76281980&t=0)** - [Instructor] When you summarize categorical data in a dashboard, it makes sense to create charts that are as small as possible.
 >
-> **[0:08](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-column-sparkline?u=76281980&t=8)** In this movie, I will show you how to use Excel VBA to create a column sparkline chart.
+> **[0:08](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-column-sparkline?u=76281980&t=8)** In this movie, I will show you how to use [[Microsoft Excel|Excel]] VBA to create a column sparkline chart.
 >
 > **[0:14](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-column-sparkline?u=76281980&t=14)** My sample file is 05_06_ColumnSparkline, and you can find it in the chapter five folder of the exercise files collection.
 >
@@ -3012,7 +2977,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** f11 (2), vba (1)
 > **CLI Commands:** find (1), make (1)
 > **Code Identifiers:** xlsparkcolumn (1)
@@ -3020,14 +2985,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a win/loss sparkline
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-win-loss-sparkline?u=76281980)
+#### [Create a win/loss sparkline](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-win-loss-sparkline?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-win-loss-sparkline?u=76281980&t=0)** - [Instructor] Businesses of all kinds, and in fact, pretty much every organization, sets goals for their performance.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-win-loss-sparkline?u=76281980&t=7)** In this movie, I will show you how to create a sparkline chart which fits within a single cell of an Excel worksheet to summarize whether goals have been met or not.
+> **[0:07](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-win-loss-sparkline?u=76281980&t=7)** In this movie, I will show you how to create a sparkline chart which fits within a single cell of an [[Microsoft Excel|Excel]] worksheet to summarize whether goals have been met or not.
 >
 > **[0:19](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-win-loss-sparkline?u=76281980&t=19)** My sample file is 05_07_WinLossSparkline and you can find it in the chapter five folder of the exercise files collection.
 >
@@ -3099,7 +3063,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), hit (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** f11 (2)
 > **Code Identifiers:** xlsparkcolumnstacked100 (1)
@@ -3107,14 +3071,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delete a sparkline
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/delete-a-sparkline?u=76281980)
+#### [Delete a sparkline](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/delete-a-sparkline?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/delete-a-sparkline?u=76281980&t=0)** - [Instructor] Earlier in this chapter, I showed you several ways to create sparklines.
 >
-> **[0:05](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/delete-a-sparkline?u=76281980&t=5)** In this movie, I will show you how to use Excel VBA to delete one.
+> **[0:05](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/delete-a-sparkline?u=76281980&t=5)** In this movie, I will show you how to use [[Microsoft Excel|Excel]] VBA to delete one.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/delete-a-sparkline?u=76281980&t=10)** My sample file is 05_08_DeleteSparkline.xlsm, and you can find it in the Chapter05 folder of the Exercise Files collection.
 >
@@ -3161,18 +3124,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a UserForm
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-userform?u=76281980)
+#### [Create a UserForm](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-userform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-userform?u=76281980&t=0)** - One issue that Excel VBA developers always face is how to allow for user input.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-userform?u=76281980&t=0)** - One issue that [[Microsoft Excel|Excel]] VBA developers always face is how to allow for user input.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-userform?u=76281980&t=6)** If you give users direct access to every worksheet, then they can change data they're not supposed to, either by accident or on purpose.
 >
 > **[0:14](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-userform?u=76281980&t=14)** Also, they might discover data that you would rather keep hidden.
 >
-> **[0:18](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-userform?u=76281980&t=18)** With this movie, I will show you how to create and use user forms, which allow user input, but without direct access to worksheets.
+> **[0:18](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-userform?u=76281980&t=18)** With this movie, I will show you how to create and use user [[Forms]], which allow user input, but without direct access to worksheets.
 >
 > **[0:27](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-userform?u=76281980&t=27)** My sample file is 06_01_CreateUserForm, and you can find it in the Chapter 6 folder of the Exercise Files collection.
 >
@@ -3204,7 +3166,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Forms]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** vba (1), f11 (1)
 > **Cross-References:** later in (1)
@@ -3213,8 +3175,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
 
-#### Add a TextBox to a UserForm
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-a-textbox-to-a-userform?u=76281980)
+#### [Add a TextBox to a UserForm](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-a-textbox-to-a-userform?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3278,7 +3239,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** go to (3), click on (1)
 > **Definitions:** is a  (1), means that (1), refers to (1)
 > **Analogies:** for example (3)
@@ -3287,8 +3247,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add a ListBox to a UserForm
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-a-listbox-to-a-userform?u=76281980)
+#### [Add a ListBox to a UserForm](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-a-listbox-to-a-userform?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3362,7 +3321,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7)
 > **UI Navigation:** open the (1), scroll down (1), click on (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -3371,8 +3329,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add a ComboBox to a UserForm
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-a-combobox-to-a-userform?u=76281980)
+#### [Add a ComboBox to a UserForm](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-a-combobox-to-a-userform?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3382,7 +3339,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-a-combobox-to-a-userform?u=76281980&t=23)** My sample file is 06_04_ComboBox, and you can find it in the chapter six folder of the exercise files collection.
 >
-> **[0:32](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-a-combobox-to-a-userform?u=76281980&t=32)** I'm not going to use the data on sheet one, but on sheet two, I have a list of states, and rather than just refer to the cell range of A2 to A5, which actually contains the states we'll use and not the label, I'll create an Excel table that I can refer to as my row source definition.
+> **[0:32](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-a-combobox-to-a-userform?u=76281980&t=32)** I'm not going to use the data on sheet one, but on sheet two, I have a list of states, and rather than just refer to the cell range of A2 to A5, which actually contains the states we'll use and not the label, I'll create an [[Microsoft Excel|Excel]] table that I can refer to as my row source definition.
 >
 > **[0:52](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-a-combobox-to-a-userform?u=76281980&t=52)** It makes it easier to understand where the data is coming from and exactly what it is.
 >
@@ -3444,7 +3401,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Analogies:** just like (1), for example (1)
@@ -3452,8 +3409,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add an option button to a UserForm
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-an-option-button-to-a-userform?u=76281980)
+#### [Add an option button to a UserForm](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-an-option-button-to-a-userform?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3477,7 +3433,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-an-option-button-to-a-userform?u=76281980&t=63)** The option button is here.
 >
-> **[1:05](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-an-option-button-to-a-userform?u=76281980&t=65)** Looks like a target, and I will drag the button onto the body of the user form, and there's the button and the caption, which is displayed next to it, is OptionButton1, which is the same as the internal name that Excel VBA gives to it.
+> **[1:05](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-an-option-button-to-a-userform?u=76281980&t=65)** Looks like a target, and I will drag the button onto the body of the user form, and there's the button and the caption, which is displayed next to it, is OptionButton1, which is the same as the internal name that [[Microsoft Excel|Excel]] VBA gives to it.
 >
 > **[1:25](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-an-option-button-to-a-userform?u=76281980&t=85)** You can change the name of the option button if you want to.
 >
@@ -3573,7 +3529,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** f11 (1), vba (1)
 > **Cross-References:** go back to (2)
@@ -3582,8 +3538,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** means that (1)
 
-#### Add graphics to a UserForm
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-graphics-to-a-userform?u=76281980)
+#### [Add graphics to a UserForm](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-graphics-to-a-userform?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3641,7 +3596,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-graphics-to-a-userform?u=76281980&t=205)** And for this, if I were to make the frame larger, then it would stretch the image.
 >
-> **[3:33](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-graphics-to-a-userform?u=76281980&t=213)** And then clicking again, size mode, zoom, then it zooms it within the frame.
+> **[3:33](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-graphics-to-a-userform?u=76281980&t=213)** And then clicking again, size mode, [[Zoom]], then it zooms it within the frame.
 >
 > **[3:40](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-graphics-to-a-userform?u=76281980&t=220)** So in this case, if I were to make it larger or make it taller rather, then it stretches it that way.
 >
@@ -3653,7 +3608,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-graphics-to-a-userform?u=76281980&t=264)** After moving the image around and resizing it, I would probably reenter it rather than go with what I see now.
 >
-> **[4:32](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-graphics-to-a-userform?u=76281980&t=272)** And then once you have the image added, you can drag it as you would any other object in an office program, for example, resizing here.
+> **[4:32](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-graphics-to-a-userform?u=76281980&t=272)** And then once you have the image added, you can drag it as you would any other object in an [[Microsoft Office|office]] program, for example, resizing here.
 >
 > **[4:41](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-graphics-to-a-userform?u=76281980&t=281)** Actually, I'll undo that and then I will change to mode zoom and I'll drag it in, and that makes the image smaller and it changes the resolution a little bit.
 >
@@ -3665,7 +3620,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Zoom]] (2), [[Microsoft Office|Office]] (1), management (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Analogies:** picture (4), for example (2), such as (1)
 > **UI Navigation:** go to (2)
@@ -3674,8 +3629,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add a SpinButton to a UserForm
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-a-spinbutton-to-a-userform?u=76281980)
+#### [Add a SpinButton to a UserForm](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/add-a-spinbutton-to-a-userform?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3769,7 +3723,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (2), right-click (1)
 > **Definitions:** is a  (2), means that (1)
@@ -3777,15 +3730,15 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
+> **Speakers:** - [instructor] (1)
 
-#### Create a multipage or multitab UserForm
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-multipage-or-multitab-userform?u=76281980)
+#### [Create a multipage or multitab UserForm](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-multipage-or-multitab-userform?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-multipage-or-multitab-userform?u=76281980&t=0)** - [Instructor] The amount of space that a user has on their screen depends on their device.
 >
-> **[0:05](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-multipage-or-multitab-userform?u=76281980&t=5)** In this movie, I will show you how to take advantage of what could be a limited space by creating multi-page and multi-tab user forms.
+> **[0:05](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-multipage-or-multitab-userform?u=76281980&t=5)** In this movie, I will show you how to take advantage of what could be a limited space by creating multi-page and multi-tab user [[Forms]].
 >
 > **[0:15](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/create-a-multipage-or-multitab-userform?u=76281980&t=15)** My sample file is 06_08_TabsAndPages, and you can find it in the Chapter06 folder of the Exercise Files collection.
 >
@@ -3897,7 +3850,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (2), data (1)
+> **Frameworks & Libraries:** [[Forms]] (2)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (2)
 > **Warnings:** note that (2)
@@ -3906,8 +3859,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Write UserForm data to a worksheet
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/write-userform-data-to-a-worksheet?u=76281980)
+#### [Write UserForm data to a worksheet](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/write-userform-data-to-a-worksheet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3939,7 +3891,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/write-userform-data-to-a-worksheet?u=76281980&t=95)** So it's about in the middle.
 >
-> **[1:38](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/write-userform-data-to-a-worksheet?u=76281980&t=98)** And now I can change the command button's caption to something more informative, like the word submit.
+> **[1:38](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/write-userform-data-to-a-worksheet?u=76281980&t=98)** And now I can change the command button's caption to something more informative, like the [[Microsoft Word|word]] submit.
 >
 > **[1:47](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/write-userform-data-to-a-worksheet?u=76281980&t=107)** So I will edit the command button's caption property, and if you don't see the properties window, then you can go up to the view menu and click properties window, or just press F4.
 >
@@ -3965,7 +3917,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/write-userform-data-to-a-worksheet?u=76281980&t=219)** So column A in the 1,048,576th row, which is all the way at the bottom end.
 >
-> **[3:50](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/write-userform-data-to-a-worksheet?u=76281980&t=230)** Then we're going to search, using the excel up keyword, or a built in value dot row, plus one.
+> **[3:50](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/write-userform-data-to-a-worksheet?u=76281980&t=230)** Then we're going to search, using the [[Microsoft Excel|excel]] up keyword, or a built in value dot row, plus one.
 >
 > **[4:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/write-userform-data-to-a-worksheet?u=76281980&t=240)** So this will identify the first empty cell in column A.
 >
@@ -4033,7 +3985,7 @@ created: 2026-05-02
 >
 > **[7:14](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/write-userform-data-to-a-worksheet?u=76281980&t=434)** So that data is false.
 >
-> **[7:17](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/write-userform-data-to-a-worksheet?u=76281980&t=437)** And this points out one trick to creating user forms.
+> **[7:17](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/write-userform-data-to-a-worksheet?u=76281980&t=437)** And this points out one trick to creating user [[Forms]].
 >
 > **[7:22](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/write-userform-data-to-a-worksheet?u=76281980&t=442)** If you want to enter more than one bit of data using a user form, and this selection could change and it's not part of a group, for example, I can have new customer and old customer as option buttons, and one of them would always have to be selected.
 >
@@ -4043,7 +3995,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (2), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1), [[Forms]] (1)
 > **Code Identifiers:** lngrow (7), txtfirstname (1), txtlastname (1), txtcountry (1), chknew (1)
 > **Env Vars:** txt (4), f11 (1), a1048576 (1), r1c1 (1), vba (1)
 > **UI Navigation:** checkbox (4), go to (1)
@@ -4052,8 +4004,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), for example (1)
 > **Exercise Files:** exercise files (1)
 
-#### Run a UserForm
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/run-a-userform?u=76281980)
+#### [Run a UserForm](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/run-a-userform?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4125,7 +4076,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Env Vars:** vba (2), usa (2), alt (1), f11 (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
@@ -4133,18 +4083,18 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** short for (1)
 > **Prerequisites:** set up (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### 7. Managing PivotTables Using VBA
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Record a PivotTable configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/record-a-pivottable-configuration?u=76281980)
+#### [Record a PivotTable configuration](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/record-a-pivottable-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/record-a-pivottable-configuration?u=76281980&t=0)** - [Instructor] When you work with pivot tables, you'll often find that you want to recreate a particular configuration.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/record-a-pivottable-configuration?u=76281980&t=0)** - [Instructor] When you work with [[Pivot Tables]], you'll often find that you want to recreate a particular configuration.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/record-a-pivottable-configuration?u=76281980&t=7)** You could write down the fields and the order in which they appear, but it is far easier to record a macro that configures the pivot table for you, and in this movie, I will show you how to do that, and then we'll look at the code.
 >
@@ -4168,7 +4118,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/record-a-pivottable-configuration?u=76281980&t=89)** I won't worry about anything else.
 >
-> **[1:32](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/record-a-pivottable-configuration?u=76281980&t=92)** So to start recording, I'll click Okay, and Excel is now recording everything that I do.
+> **[1:32](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/record-a-pivottable-configuration?u=76281980&t=92)** So to start recording, I'll click Okay, and [[Microsoft Excel|Excel]] is now recording everything that I do.
 >
 > **[1:39](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/record-a-pivottable-configuration?u=76281980&t=99)** My first step will be to click a cell inside of the pivot table.
 >
@@ -4226,7 +4176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Pivot Tables]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
@@ -4235,8 +4185,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assign a PivotTable macro to the Quick Access Toolbar
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/assign-a-pivottable-macro-to-the-quick-access-toolbar?u=76281980)
+#### [Assign a PivotTable macro to the Quick Access Toolbar](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/assign-a-pivottable-macro-to-the-quick-access-toolbar?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4262,7 +4211,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/assign-a-pivottable-macro-to-the-quick-access-toolbar?u=76281980&t=80)** And then below, click more commands.
 >
-> **[1:24](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/assign-a-pivottable-macro-to-the-quick-access-toolbar?u=76281980&t=84)** That takes you to the quick access toolbar of the Excel Options dialogue box and you can tell you're there because you have the turn autosave on and off button, save, undo, and redo, and that matches the buttons here.
+> **[1:24](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/assign-a-pivottable-macro-to-the-quick-access-toolbar?u=76281980&t=84)** That takes you to the quick access toolbar of the [[Microsoft Excel|Excel]] Options dialogue box and you can tell you're there because you have the turn autosave on and off button, save, undo, and redo, and that matches the buttons here.
 >
 > **[1:41](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/assign-a-pivottable-macro-to-the-quick-access-toolbar?u=76281980&t=101)** We have autosave, save, undo, and redo.
 >
@@ -4304,12 +4253,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advance one step forward in a PivotTable playlist
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/advance-one-step-forward-in-a-pivottable-playlist?u=76281980)
+#### [Advance one step forward in a PivotTable playlist](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/advance-one-step-forward-in-a-pivottable-playlist?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/advance-one-step-forward-in-a-pivottable-playlist?u=76281980&t=0)** - If you use a pivot table as part of an Excel-based presentation, whether to a single coworker or perhaps at a conference, it makes sense to create a playlist of positions.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/advance-one-step-forward-in-a-pivottable-playlist?u=76281980&t=0)** - If you use a pivot table as part of an [[Microsoft Excel|Excel]]-based presentation, whether to a single coworker or perhaps at a conference, it makes sense to create a playlist of positions.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/advance-one-step-forward-in-a-pivottable-playlist?u=76281980&t=12)** That's where you record a series of macros and use VBA in combination with a control worksheet to move through it.
 >
@@ -4329,7 +4277,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/advance-one-step-forward-in-a-pivottable-playlist?u=76281980&t=61)** So I have a position number and then the description.
 >
-> **[1:05](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/advance-one-step-forward-in-a-pivottable-playlist?u=76281980&t=65)** Because this is a simple example, I just made the descriptions a single word with a number.
+> **[1:05](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/advance-one-step-forward-in-a-pivottable-playlist?u=76281980&t=65)** Because this is a simple example, I just made the descriptions a single [[Microsoft Word|word]] with a number.
 >
 > **[1:11](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/advance-one-step-forward-in-a-pivottable-playlist?u=76281980&t=71)** So it's just Position1, Position2, and Position3.
 >
@@ -4437,7 +4385,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), next (4), data (1), [[Microsoft Word|Word]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft Word|Word]] (1)
 > **Env Vars:** f11 (4), vba (1)
 > **Definitions:** is a  (3), is an  (1), is called (1)
 > **UI Navigation:** go to (3), open the (1)
@@ -4446,8 +4394,7 @@ created: 2026-05-02
 > **Code Identifiers:** iposition (2)
 > **Exercise Files:** exercise files (1)
 
-#### Move to any PivotTable playlist position
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-to-any-pivottable-playlist-position?u=76281980)
+#### [Move to any PivotTable playlist position](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/move-to-any-pivottable-playlist-position?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4595,7 +4542,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Programming]] (2), data (1)
 > **Code Identifiers:** imove (3), iposition (2), ispecific (1)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** go to (2), scroll down (1)
@@ -4603,18 +4549,18 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
+> **Analogies:** similar to (1)
 
 
 ### 8. Incorporating New Excel Functions
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### List unique values from a data set using UNIQUE
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/list-unique-values-from-a-data-set-using-unique?u=76281980)
+#### [List unique values from a data set using UNIQUE](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/list-unique-values-from-a-data-set-using-unique?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/list-unique-values-from-a-data-set-using-unique?u=76281980&t=0)** - [Instructor] Recent updates to Microsoft Excel have added some functions that you can use to manipulate data inside of a worksheet.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/list-unique-values-from-a-data-set-using-unique?u=76281980&t=0)** - [Instructor] Recent updates to [[Microsoft Excel]] have added some functions that you can use to manipulate data inside of a worksheet.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/list-unique-values-from-a-data-set-using-unique?u=76281980&t=9)** In this movie, I will show you how to use the Unique function.
 >
@@ -4690,19 +4636,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel]] (1)
 > **CLI Commands:** find (3)
 > **Analogies:** such as (2)
 > **Env Vars:** a10 (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Limit data displayed in a worksheet using FILTER
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/limit-data-displayed-in-a-worksheet-using-filter?u=76281980)
+#### [Limit data displayed in a worksheet using FILTER](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/limit-data-displayed-in-a-worksheet-using-filter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/limit-data-displayed-in-a-worksheet-using-filter?u=76281980&t=0)** - [Instructor] Elsewhere in this course, I have shown you how to filter data using Excel VBA.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/limit-data-displayed-in-a-worksheet-using-filter?u=76281980&t=0)** - [Instructor] Elsewhere in this course, I have shown you how to filter data using [[Microsoft Excel|Excel]] VBA.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/limit-data-displayed-in-a-worksheet-using-filter?u=76281980&t=6)** In this movie, I will show you how to perform a similar task using the new filter function.
 >
@@ -4784,11 +4729,11 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/limit-data-displayed-in-a-worksheet-using-filter?u=76281980&t=267)** And remember, if it's a string, it needs to go in double quotes, and then what to do if we don't find anything.
 >
-> **[4:33](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/limit-data-displayed-in-a-worksheet-using-filter?u=76281980&t=273)** And that is how you do a multi-criteria filter using the filter function in Microsoft Excel.
+> **[4:33](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/limit-data-displayed-in-a-worksheet-using-filter?u=76281980&t=273)** And that is how you do a multi-criteria filter using the filter function in [[Microsoft Excel]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (2), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Excel]] (1)
 > **Env Vars:** c15 (2), a15 (2), vba (1), e11 (1), b15 (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** select the (1)
@@ -4796,12 +4741,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Change the order of data using SORT and SORTBY
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/change-the-order-of-data-using-sort-and-sortby?u=76281980)
+#### [Change the order of data using SORT and SORTBY](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/change-the-order-of-data-using-sort-and-sortby?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/change-the-order-of-data-using-sort-and-sortby?u=76281980&t=0)** - [Instructor] Elsewhere in this course, I showed you how to sort data using Excel VBA.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/change-the-order-of-data-using-sort-and-sortby?u=76281980&t=0)** - [Instructor] Elsewhere in this course, I showed you how to sort data using [[Microsoft Excel|Excel]] VBA.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/change-the-order-of-data-using-sort-and-sortby?u=76281980&t=5)** You're probably familiar with sorting within a worksheet, however, what that does is change the order of the data where it is originally written in the worksheet.
 >
@@ -4855,19 +4799,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** c15 (3), vba (1), a15 (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copy data from a list using TAKE
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-data-from-a-list-using-take?u=76281980)
+#### [Copy data from a list using TAKE](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-data-from-a-list-using-take?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-data-from-a-list-using-take?u=76281980&t=0)** - [Instructor] When you work with lists of data in Excel and other programs, there will be times when you want to take sets of data that meet a certain criteria and paste them to another part of your worksheet, and in this movie, I will show you how to use the TAKE function to do exactly that.
+> **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-data-from-a-list-using-take?u=76281980&t=0)** - [Instructor] When you work with lists of data in [[Microsoft Excel|Excel]] and other programs, there will be times when you want to take sets of data that meet a certain criteria and paste them to another part of your worksheet, and in this movie, I will show you how to use the TAKE function to do exactly that.
 >
 > **[0:19](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/copy-data-from-a-list-using-take?u=76281980&t=19)** My sample file is 08_04_Take, and you can find it in the Chapter08 folder of the Exercise Files collection.
 >
@@ -4959,7 +4902,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** countif (3), b10 (2), a10 (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** double-click (1)
@@ -4968,8 +4911,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delete data from a list using DROP
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/delete-data-from-a-list-using-drop?u=76281980)
+#### [Delete data from a list using DROP](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/delete-data-from-a-list-using-drop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4989,7 +4931,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/delete-data-from-a-list-using-drop?u=76281980&t=66)** So in D4, I'll type =DROP drop the array, again A4 through B10, we're not including the headers, then a comma, and then the number of rows.
 >
-> **[1:17](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/delete-data-from-a-list-using-drop?u=76281980&t=77)** The Excel team assumed that you'll want to drop the oldest values, which tend to be at the top of a list.
+> **[1:17](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/delete-data-from-a-list-using-drop?u=76281980&t=77)** The [[Microsoft Excel|Excel]] team assumed that you'll want to drop the oldest values, which tend to be at the top of a list.
 >
 > **[1:24](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/delete-data-from-a-list-using-drop?u=76281980&t=84)** So positive values indicate the number of rows from the top to drop, and that is the opposite of TAKE, where you would use a positive number to take values from the bottom.
 >
@@ -5049,7 +4991,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** drop (4), a10 (3), b10 (3), countif (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -5062,14 +5004,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Further resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/further-resources?u=76281980)
+#### [Further resources](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/further-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/further-resources?u=76281980&t=0)** - [Instructor] Thanks again for your interest in this course.
 >
-> **[0:02](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/further-resources?u=76281980&t=2)** Before I go, I wanted to provide the names of three books that you can use to learn a lot more about Excel macro programming.
+> **[0:02](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/further-resources?u=76281980&t=2)** Before I go, I wanted to provide the names of three books that you can use to learn a lot more about [[Microsoft Excel|Excel]] macro programming.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/further-resources?u=76281980&t=12)** The first is "Excel 2019 Power Programming with VBA" by Michael Alexander and Dick Kusleika.
 >
@@ -5077,13 +5018,13 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/further-resources?u=76281980&t=28)** So the fact that it's an older book should not put you off.
 >
-> **[0:32](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/further-resources?u=76281980&t=32)** Second is "Microsoft Excel VBA and Macros," specifically written for Office 2021 and Microsoft 365.
+> **[0:32](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/further-resources?u=76281980&t=32)** Second is "[[Microsoft Excel]] VBA and Macros," specifically written for [[Microsoft Office|Office]] 2021 and [[Microsoft 365]].
 >
 > **[0:40](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/further-resources?u=76281980&t=40)** That's by Bill Jelen and Tracy Syrstad.
 >
 > **[0:44](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/further-resources?u=76281980&t=44)** That's another great book, and even though it's a few years old, everything in it still applies.
 >
-> **[0:51](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/further-resources?u=76281980&t=51)** And finally, the oldest book of all, but by far the most complete, is "Professional Excel Development, Second Edition" by Rob Bovey, Dennis Wallentin, Stephen Bullen and John Green.
+> **[0:51](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/further-resources?u=76281980&t=51)** And finally, the oldest book of all, but by far the most complete, is "Professional Excel Development, Second Edition" by Rob Bovey, Dennis Wallentin, Stephen Bullen and [[John the Ripper|John]] Green.
 >
 > **[1:02](https://www.linkedin.com/learning/excel-vba-managing-files-and-data-25320834/further-resources?u=76281980&t=62)** This is an outstanding book, and if you are serious about Excel programming, not just doing it every now and then, but really getting good at it, I cannot recommend "Professional Excel Development" enough.
 >
@@ -5091,7 +5032,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Programming]] (3), power (1), [[Microsoft Excel]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Microsoft Excel]] (1), [[Microsoft Office|Office]] (1), [[Microsoft 365]] (1), [[John the Ripper|John]] (1)
 > **Env Vars:** vba (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)

@@ -62,8 +62,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why you need an upskilling strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/why-you-need-an-upskilling-strategy?u=76281980)
+#### [Why you need an upskilling strategy](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/why-you-need-an-upskilling-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -86,8 +85,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why skills?
-> [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/why-skills?u=76281980)
+#### [Why skills?](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/why-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -121,7 +119,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/why-skills?u=76281980&t=86)** An individual can be 10 years in a position, but if they haven't been exposed to industry advances they may be lacking critical skills.
 >
-> **[1:36](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/why-skills?u=76281980&t=96)** When we structure workaround skills it opens up many more possibilities for internal mobility.
+> **[1:36](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/why-skills?u=76281980&t=96)** When we structure workaround skills it opens up many more possibilities for [[Internal Mobility]].
 >
 > **[1:42](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/why-skills?u=76281980&t=102)** Individuals are no longer slotted into positions according to title as so many skills are transferrable.
 >
@@ -131,7 +129,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/why-skills?u=76281980&t=120)** Previously, their job title might have limited their scope.
 >
-> **[2:05](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/why-skills?u=76281980&t=125)** Fun fact, when you search for a job on LinkedIn you can now search by skill.
+> **[2:05](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/why-skills?u=76281980&t=125)** Fun fact, when you search for a job on [[LinkedIn]] you can now search by skill.
 >
 > **[2:11](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/why-skills?u=76281980&t=131)** Head over to LinkedIn now and give it a try.
 >
@@ -149,15 +147,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[LinkedIn]] (2), power (2), hr (1), data (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Internal Mobility]] (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
 > **Non-Speech:** (light music) (1)
 
-#### Skills terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/skills-terminology?u=76281980)
+#### [Skills terminology](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/skills-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -213,13 +210,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (1), data (1)
 > **Definitions:** is a  (4), is an  (2), defined as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - there (1)
 
-#### Transferable skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/transferable-skills?u=76281980)
+#### [Transferable skills](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/transferable-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -255,7 +250,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/transferable-skills?u=76281980&t=105)** This ensures everyone is investing their time in an effective way.
 >
-> **[1:51](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/transferable-skills?u=76281980&t=111)** Transferrable skills are absolutely critical when it comes to internal mobility.
+> **[1:51](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/transferable-skills?u=76281980&t=111)** Transferrable skills are absolutely critical when it comes to [[Internal Mobility]].
 >
 > **[1:56](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/transferable-skills?u=76281980&t=116)** This is the ability for employees to move into different roles within an organization.
 >
@@ -279,11 +274,11 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/transferable-skills?u=76281980&t=177)** However, they do have in-depth knowledge of the company and a unique perspective.
 >
-> **[3:03](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/transferable-skills?u=76281980&t=183)** Consider hiring for the role of user experience designer.
+> **[3:03](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/transferable-skills?u=76281980&t=183)** Consider hiring for the role of [[User Experience (UX)|user experience]] designer.
 >
 > **[3:08](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/transferable-skills?u=76281980&t=188)** Perhaps the individual does not have a degree in UX, but after time serving as a frontline employee, has extensive insights into the voice of the customer.
 >
-> **[3:18](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/transferable-skills?u=76281980&t=198)** This could be invaluable to product development.
+> **[3:18](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/transferable-skills?u=76281980&t=198)** This could be invaluable to [[Product Development]].
 >
 > **[3:22](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/transferable-skills?u=76281980&t=202)** The specifics of UX design can then be provided as upskilling to this individual.
 >
@@ -291,7 +286,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), ux (2), business (1), product (1), [[Internal Mobility]] (1)
+> **Frameworks & Libraries:** [[Internal Mobility]] (1), [[User Experience (UX)|User experience]] (1), [[Product Development]] (1)
 > **Analogies:** for example (3), imagine (1), it's like (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -302,8 +297,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The supply chain management of skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/the-supply-chain-management-of-skills?u=76281980)
+#### [The supply chain management of skills](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/the-supply-chain-management-of-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -347,7 +341,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/the-supply-chain-management-of-skills?u=76281980&t=119)** So work with the business to determine exactly how many people require a particular skill.
 >
-> **[2:06](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/the-supply-chain-management-of-skills?u=76281980&t=126)** It comes back to the supply chain management.
+> **[2:06](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/the-supply-chain-management-of-skills?u=76281980&t=126)** It comes back to the [[Supply Chain Management]].
 >
 > **[2:08](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/the-supply-chain-management-of-skills?u=76281980&t=128)** You do not want a surplus or a shortage.
 >
@@ -383,19 +377,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Supply Chain Management]] (1)
+> **Frameworks & Libraries:** [[Supply Chain Management]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Warnings:** common mistake (1)
 > **Speakers:** - let (1)
 
-#### Who owns skills?
-> [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/who-owns-skills?u=76281980)
+#### [Who owns skills?](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/who-owns-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/who-owns-skills?u=76281980&t=0)** - If you were to put all of your stakeholders in a room and ask them who owns upskilling at your company, chances are they would probably point to the learning and development team or maybe human resources.
+> **[0:00](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/who-owns-skills?u=76281980&t=0)** - If you were to put all of your stakeholders in a room and ask them who owns upskilling at your company, chances are they would probably point to the learning and development team or maybe [[Human Resources (HR)|human resources]].
 >
 > **[0:14](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/who-owns-skills?u=76281980&t=14)** The truth is everyone plays a critical role in upskilling, but it can get complicated.
 >
@@ -407,7 +400,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/who-owns-skills?u=76281980&t=39)** Applying a skills taxonomy touches all parts of the business, from talent to people managers, to benefits and compensation.
 >
-> **[0:47](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/who-owns-skills?u=76281980&t=47)** If one group runs off in another direction, their taxonomy will be a completely different structure from what the rest of the company is thinking around workforce management.
+> **[0:47](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/who-owns-skills?u=76281980&t=47)** If one group runs off in another direction, their taxonomy will be a completely different structure from what the [[Representational State Transfer (REST)|rest]] of the company is thinking around workforce management.
 >
 > **[0:58](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/who-owns-skills?u=76281980&t=58)** Even if your company is not considering a skills-based organization, and you simply want to build a cohesive upskilling strategy, it will involve all parts of the business.
 >
@@ -461,15 +454,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), [[Human Resources (HR)|Human resources]] (1), [[Representational State Transfer (REST)|Rest]] (1), management (1), leadership (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** roi (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - if (1)
 
-#### Calculate upskilling investment
-> [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/calculate-upskilling-investment?u=76281980)
+#### [Calculate upskilling investment](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/calculate-upskilling-investment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -555,7 +547,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Automation]] (1)
 > **Analogies:** such as (4)
 > **Env Vars:** roi (2), lms (1)
 > **CLI Commands:** make (1)
@@ -567,14 +558,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Invest in content libraries
-> [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/invest-in-content-libraries?u=76281980)
+#### [Invest in content libraries](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/invest-in-content-libraries?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/invest-in-content-libraries?u=76281980&t=0)** - Content libraries are a great way to provide access to learning on a wide variety of topics.
 >
-> **[0:07](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/invest-in-content-libraries?u=76281980&t=7)** The average L&D team, no matter the size, is simply unable to design and deliver modules that cater to the diverse needs of every department, from sales and marketing, to product development, to IT.
+> **[0:07](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/invest-in-content-libraries?u=76281980&t=7)** The average L&D team, no matter the size, is simply unable to design and deliver modules that cater to the diverse needs of every department, from sales and marketing, to [[Product Development]], to IT.
 >
 > **[0:20](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/invest-in-content-libraries?u=76281980&t=20)** This is why savvy L&D leaders leverage content libraries for generic skills and use their internal team to build company-specific bespoke content using internal subject matter experts.
 >
@@ -622,7 +612,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/invest-in-content-libraries?u=76281980&t=179)** Someone currently in communications might pursue product development or data analytics.
 >
-> **[3:06](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/invest-in-content-libraries?u=76281980&t=186)** Take a look at the usage data on your LinkedIn Learning.
+> **[3:06](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/invest-in-content-libraries?u=76281980&t=186)** Take a look at the usage data on your [[LinkedIn]] Learning.
 >
 > **[3:10](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/invest-in-content-libraries?u=76281980&t=190)** Are people engaged in the learning content aligned with your learning strategy?
 >
@@ -636,14 +626,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (3), [[Product Development]] (2), data (2), generic (1), business (1)
+> **Frameworks & Libraries:** [[Product Development]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - content (1)
 
-#### Build in experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/build-in-experience?u=76281980)
+#### [Build in experience](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/build-in-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -665,7 +654,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/build-in-experience?u=76281980&t=63)** It is an excellent start and provides the foundational knowledge needed for upskilling.
 >
-> **[1:09](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/build-in-experience?u=76281980&t=69)** How do you incorporate the rest?
+> **[1:09](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/build-in-experience?u=76281980&t=69)** How do you incorporate the [[Representational State Transfer (REST)|rest]]?
 >
 > **[1:12](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/build-in-experience?u=76281980&t=72)** Ensure stakeholders and leadership know that a course library is only a part of upskilling.
 >
@@ -729,18 +718,17 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/build-in-experience?u=76281980&t=241)** Be sure to make note of what others say so we can learn together.
 >
-> **[4:06](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/build-in-experience?u=76281980&t=246)** Comment on the other ideas you find useful and consider making a connection on LinkedIn.
+> **[4:06](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/build-in-experience?u=76281980&t=246)** Comment on the other ideas you find useful and consider making a connection on [[LinkedIn]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (2), [[Representational State Transfer (REST)|Rest]] (1), next (1), management (1), career (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - there (1)
 
-#### Build a hypothesis and test
-> [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/build-a-hypothesis-and-test?u=76281980)
+#### [Build a hypothesis and test](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/build-a-hypothesis-and-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -786,7 +774,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/build-a-hypothesis-and-test?u=76281980&t=138)** You will then need to determine a target pool to launch the skill too.
 >
-> **[2:23](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/build-a-hypothesis-and-test?u=76281980&t=143)** Remember, skills are about internal mobility.
+> **[2:23](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/build-a-hypothesis-and-test?u=76281980&t=143)** Remember, skills are about [[Internal Mobility]].
 >
 > **[2:27](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/build-a-hypothesis-and-test?u=76281980&t=147)** This is why I recommend you choose a transferrable skill for your prototype.
 >
@@ -794,7 +782,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/build-a-hypothesis-and-test?u=76281980&t=159)** This is extremely critical as most organization have an array of workplaces.
 >
-> **[2:45](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/build-a-hypothesis-and-test?u=76281980&t=165)** These could be everything from frontline positions in a factory or back-office processing.
+> **[2:45](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/build-a-hypothesis-and-test?u=76281980&t=165)** These could be everything from frontline positions in a factory or back-[[Microsoft Office|office]] processing.
 >
 > **[2:52](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/build-a-hypothesis-and-test?u=76281980&t=172)** Some of the environments may not have wifi or access to laptops or mobile devices.
 >
@@ -822,13 +810,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), [[Internal Mobility]] (1), [[Microsoft Office|Office]] (1), business (1)
+> **Frameworks & Libraries:** [[Internal Mobility]] (1), [[Microsoft Office|Office]] (1)
 > **Exercise Files:** template (1)
 > **Analogies:** such as (1)
 > **Speakers:** - often (1)
 
-#### Stakeholder buy-in
-> [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/stakeholder-buy-in?u=76281980)
+#### [Stakeholder buy-in](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/stakeholder-buy-in?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -898,7 +885,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), next (1), data (1), hr (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** required to (2), you'll need (1)
@@ -911,8 +897,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Execute your upskilling strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/execute-your-upskilling-strategy?u=76281980)
+#### [Execute your upskilling strategy](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/execute-your-upskilling-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -964,7 +949,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/execute-your-upskilling-strategy?u=76281980&t=152)** Moving from roles to skills will eventually drastically change the way work gets done, especially as it is broken down by task.
 >
-> **[2:41](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/execute-your-upskilling-strategy?u=76281980&t=161)** If we get it right, it can lead to far more internal mobility, as people are no longer restricted by title.
+> **[2:41](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/execute-your-upskilling-strategy?u=76281980&t=161)** If we get it right, it can lead to far more [[Internal Mobility]], as people are no longer restricted by title.
 >
 > **[2:48](https://www.linkedin.com/learning/upskilling-and-reskilling-your-workforce/execute-your-upskilling-strategy?u=76281980&t=168)** It can also mean that individuals are given more opportunities based on their demonstrated skills, not just connections and a well-written resume.
 >
@@ -982,7 +967,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), hr (2), next (1), career (1), [[Internal Mobility]] (1)
+> **Frameworks & Libraries:** [[Internal Mobility]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** picture (1)
 > **Speakers:** - building (1)

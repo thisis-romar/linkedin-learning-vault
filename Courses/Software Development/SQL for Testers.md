@@ -80,8 +80,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dive deep into quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/dive-deep-into-quality-20262778?u=76281980)
+#### [Dive deep into quality](https://www.linkedin.com/learning/sql-for-testers/dive-deep-into-quality-20262778?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -89,7 +88,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/sql-for-testers/dive-deep-into-quality-20262778?u=76281980&t=5)** The modern tester is expected to know their way around the technical aspects of an application.
 >
-> **[0:10](https://www.linkedin.com/learning/sql-for-testers/dive-deep-into-quality-20262778?u=76281980&t=10)** Almost every application on the web has a database somewhere, and so the ability to use SQL is an in-demand skill for any tester to have.
+> **[0:10](https://www.linkedin.com/learning/sql-for-testers/dive-deep-into-quality-20262778?u=76281980&t=10)** Almost every application on the web has a database somewhere, and so the ability to use [[SQL]] is an in-demand skill for any tester to have.
 >
 > **[0:18](https://www.linkedin.com/learning/sql-for-testers/dive-deep-into-quality-20262778?u=76281980&t=18)** I'm going to show you how to use SQL to enhance your ability to do testing in an application.
 >
@@ -101,27 +100,26 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/sql-for-testers/dive-deep-into-quality-20262778?u=76281980&t=35)** I've been working as a technical tester for many years now, and I'm excited to share a little bit about what I've learned about SQL testing.
 >
-> **[0:42](https://www.linkedin.com/learning/sql-for-testers/dive-deep-into-quality-20262778?u=76281980&t=42)** If you're ready to use the power of SQL to dive deep into quality, join me in my LinkedIn Learning course on SQL for Testers.
+> **[0:42](https://www.linkedin.com/learning/sql-for-testers/dive-deep-into-quality-20262778?u=76281980&t=42)** If you're ready to use the power of SQL to dive deep into quality, join me in my [[LinkedIn]] Learning course on SQL for Testers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), application (3), product (1), web (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[LinkedIn]] (1)
 > **Env Vars:** sql (7)
 > **Definitions:** is an  (1)
 > **Speakers:** - [dave] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/sql-for-testers/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-for-testers/what-you-should-know?u=76281980&t=0)** - [Instructor] As a software tester, there are many things you need to know.
 >
-> **[0:03](https://www.linkedin.com/learning/sql-for-testers/what-you-should-know?u=76281980&t=3)** By the end of this course, you'll be able to use SQL to help you with testing work, and you'll also be able to test SQL queries.
+> **[0:03](https://www.linkedin.com/learning/sql-for-testers/what-you-should-know?u=76281980&t=3)** By the end of this course, you'll be able to use [[SQL]] to help you with testing work, and you'll also be able to test SQL queries.
 >
 > **[0:09](https://www.linkedin.com/learning/sql-for-testers/what-you-should-know?u=76281980&t=9)** I'll try to start from the basics and build up, but in order to maximize your learning, you should be comfortable with the basics of working on a command line.
 >
-> **[0:16](https://www.linkedin.com/learning/sql-for-testers/what-you-should-know?u=76281980&t=16)** I'll also use a simple Python application to cement some of these concepts for you, but other than a few simple commands that I'll show you, you shouldn't need to know any Python or SQL to start this course.
+> **[0:16](https://www.linkedin.com/learning/sql-for-testers/what-you-should-know?u=76281980&t=16)** I'll also use a simple [[Python (Programming Language)|Python]] application to cement some of these concepts for you, but other than a few simple commands that I'll show you, you shouldn't need to know any Python or SQL to start this course.
 >
 > **[0:26](https://www.linkedin.com/learning/sql-for-testers/what-you-should-know?u=76281980&t=26)** This course assumes that you are new to SQL and ramps you up quickly into being able to use SQL in your day-to-day work as a tester.
 >
@@ -129,7 +127,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), [[Python (Programming Language)|Python]] (2), application (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** sql (5)
 > **CLI Commands:** python (2)
 > **Tools:** command line (1)
@@ -140,22 +138,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is SQL and why use it as a tester?
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/what-is-sql-and-why-use-it-as-a-tester?u=76281980)
+#### [What is SQL and why use it as a tester?](https://www.linkedin.com/learning/sql-for-testers/what-is-sql-and-why-use-it-as-a-tester?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-testers/what-is-sql-and-why-use-it-as-a-tester?u=76281980&t=0)** - [Instructor] SQL is everywhere.
+> **[0:00](https://www.linkedin.com/learning/sql-for-testers/what-is-sql-and-why-use-it-as-a-tester?u=76281980&t=0)** - [Instructor] [[SQL]] is everywhere.
 >
-> **[0:02](https://www.linkedin.com/learning/sql-for-testers/what-is-sql-and-why-use-it-as-a-tester?u=76281980&t=2)** Almost every application on the web use a structured query language to create and query databases.
+> **[0:02](https://www.linkedin.com/learning/sql-for-testers/what-is-sql-and-why-use-it-as-a-tester?u=76281980&t=2)** Almost every application on the web use a structured query language to create and query [[Databases]].
 >
-> **[0:07](https://www.linkedin.com/learning/sql-for-testers/what-is-sql-and-why-use-it-as-a-tester?u=76281980&t=7)** There's some big data applications and other technology that's moved on to other ways of managing their data, but for the vast majority of websites, SQL remains the backbone of how they use and store data.
+> **[0:07](https://www.linkedin.com/learning/sql-for-testers/what-is-sql-and-why-use-it-as-a-tester?u=76281980&t=7)** There's some [[Big Data]] applications and other technology that's moved on to other ways of managing their data, but for the vast majority of websites, SQL remains the backbone of how they use and store data.
 >
 > **[0:17](https://www.linkedin.com/learning/sql-for-testers/what-is-sql-and-why-use-it-as-a-tester?u=76281980&t=17)** The very fact that it's so popular, means that as a tester, you should know something about it and how it works, generally, testers don't need to be able to create production code, but understanding how technology works will help you improve your testing of that technology.
 >
 > **[0:30](https://www.linkedin.com/learning/sql-for-testers/what-is-sql-and-why-use-it-as-a-tester?u=76281980&t=30)** There's additional benefits as well for testers, so some test scenarios are difficult or time-consuming to set up if you have to do everything with the UI, or even with UI automation.
 >
-> **[0:40](https://www.linkedin.com/learning/sql-for-testers/what-is-sql-and-why-use-it-as-a-tester?u=76281980&t=40)** For example, if you use selenium to do this, that could be helpful, but those kinds of scripts can take some time to write and can be a bit difficult to maintain.
+> **[0:40](https://www.linkedin.com/learning/sql-for-testers/what-is-sql-and-why-use-it-as-a-tester?u=76281980&t=40)** For example, if you use [[Selenium]] to do this, that could be helpful, but those kinds of scripts can take some time to write and can be a bit difficult to maintain.
 >
 > **[0:48](https://www.linkedin.com/learning/sql-for-testers/what-is-sql-and-why-use-it-as-a-tester?u=76281980&t=48)** So sometimes the fastest way to do things is just go right to the database and create or modify the data that you need.
 >
@@ -183,7 +180,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/sql-for-testers/what-is-sql-and-why-use-it-as-a-tester?u=76281980&t=139)** Well, there's a few reasons.
 >
-> **[2:20](https://www.linkedin.com/learning/sql-for-testers/what-is-sql-and-why-use-it-as-a-tester?u=76281980&t=140)** One is that relational databases are very good at expressing relationships in a system where those relationships change and evolve over time, and if you think about it, that pretty much describes any website or application from finance to eCommerce to gaming and everything in between.
+> **[2:20](https://www.linkedin.com/learning/sql-for-testers/what-is-sql-and-why-use-it-as-a-tester?u=76281980&t=140)** One is that [[Relational Databases]] are very good at expressing relationships in a system where those relationships change and evolve over time, and if you think about it, that pretty much describes any website or application from finance to eCommerce to gaming and everything in between.
 >
 > **[2:36](https://www.linkedin.com/learning/sql-for-testers/what-is-sql-and-why-use-it-as-a-tester?u=76281980&t=156)** We've got some defined relationships that sit in place, but those relationships may morph and change a bit over time.
 >
@@ -201,7 +198,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/sql-for-testers/what-is-sql-and-why-use-it-as-a-tester?u=76281980&t=213)** There might be people at your company, there almost for sure are, people at your company that are very good at SQL and understand how to use it and you can talk to them and ask them questions, and then, there's millions of SQL users on the internet.
 >
-> **[3:46](https://www.linkedin.com/learning/sql-for-testers/what-is-sql-and-why-use-it-as-a-tester?u=76281980&t=226)** So anytime you hit problems with SQL, if you Google it, you will probably find an answer that can help you because it has been around for so long.
+> **[3:46](https://www.linkedin.com/learning/sql-for-testers/what-is-sql-and-why-use-it-as-a-tester?u=76281980&t=226)** So anytime you hit problems with SQL, if you [[Google]] it, you will probably find an answer that can help you because it has been around for so long.
 >
 > **[3:53](https://www.linkedin.com/learning/sql-for-testers/what-is-sql-and-why-use-it-as-a-tester?u=76281980&t=233)** It's so popular.
 >
@@ -215,7 +212,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (16), data (6), database (3), application (2), web (1)
+> **Frameworks & Libraries:** [[SQL]] (16), [[Databases]] (1), [[Big Data]] (1), [[Selenium]] (1), [[Relational Databases]] (1)
 > **Env Vars:** sql (16)
 > **CLI Commands:** find (4)
 > **Definitions:** means that (2), is an  (1), is a  (1)
@@ -224,8 +221,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting setup with the tools you need
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/getting-setup-with-the-tools-you-need?u=76281980)
+#### [Getting setup with the tools you need](https://www.linkedin.com/learning/sql-for-testers/getting-setup-with-the-tools-you-need?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -235,11 +231,11 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/sql-for-testers/getting-setup-with-the-tools-you-need?u=76281980&t=10)** So in order to do this, you're going to need SQLiteStudio.
 >
-> **[0:13](https://www.linkedin.com/learning/sql-for-testers/getting-setup-with-the-tools-you-need?u=76281980&t=13)** This is an application that you can download from SQLightStudio.pl, this website here, and it gives you an interface for working with SQL.
+> **[0:13](https://www.linkedin.com/learning/sql-for-testers/getting-setup-with-the-tools-you-need?u=76281980&t=13)** This is an application that you can download from SQLightStudio.pl, this website here, and it gives you an interface for working with [[SQL]].
 >
 > **[0:22](https://www.linkedin.com/learning/sql-for-testers/getting-setup-with-the-tools-you-need?u=76281980&t=22)** So in order to use it, we're going to need to download it.
 >
-> **[0:24](https://www.linkedin.com/learning/sql-for-testers/getting-setup-with-the-tools-you-need?u=76281980&t=24)** I'm on Windows, so I'll just download the Windows version for it.
+> **[0:24](https://www.linkedin.com/learning/sql-for-testers/getting-setup-with-the-tools-you-need?u=76281980&t=24)** I'm on [[Windows]], so I'll just download the Windows version for it.
 >
 > **[0:28](https://www.linkedin.com/learning/sql-for-testers/getting-setup-with-the-tools-you-need?u=76281980&t=28)** If you are not on Windows, you can go to the download link to find other versions.
 >
@@ -253,7 +249,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/sql-for-testers/getting-setup-with-the-tools-you-need?u=76281980&t=64)** So if we navigate to that, I can find the SQLiteStudio folder, go into there and open it with SQLiteStudio.exe.
 >
-> **[1:13](https://www.linkedin.com/learning/sql-for-testers/getting-setup-with-the-tools-you-need?u=76281980&t=73)** Of course, if you're on a Mac or Linux platform, you'll have to look for the appropriate ending for your platform, and you'll have to uninstall it in the appropriate way.
+> **[1:13](https://www.linkedin.com/learning/sql-for-testers/getting-setup-with-the-tools-you-need?u=76281980&t=73)** Of course, if you're on a Mac or [[Linux]] platform, you'll have to look for the appropriate ending for your platform, and you'll have to uninstall it in the appropriate way.
 >
 > **[1:21](https://www.linkedin.com/learning/sql-for-testers/getting-setup-with-the-tools-you-need?u=76281980&t=81)** I think, I believe on a Mac, you will have to drag it into your app folder.
 >
@@ -299,7 +295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (9), database (6), [[Windows]] (3), data (2), application (1)
+> **Frameworks & Libraries:** [[SQL]] (9), [[Windows]] (3), [[Linux]] (1)
 > **Env Vars:** sql (9), fake_car_data (4)
 > **CLI Commands:** find (3), unzip (1)
 > **UI Navigation:** go to (1), navigate to (1), double-click (1), right-click (1)
@@ -308,8 +304,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting started with SQL queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/getting-started-with-sql-queries?u=76281980)
+#### [Getting started with SQL queries](https://www.linkedin.com/learning/sql-for-testers/getting-started-with-sql-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -361,7 +356,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/sql-for-testers/getting-started-with-sql-queries?u=76281980&t=155)** And note that in these examples here, we don't have quotes around it because we're dealing with numbers here.
 >
-> **[2:42](https://www.linkedin.com/learning/sql-for-testers/getting-started-with-sql-queries?u=76281980&t=162)** There are a number of operators that are available to you and the Wikipedia page on SQL syntax has a good summary table of all these different operators that you can refer to.
+> **[2:42](https://www.linkedin.com/learning/sql-for-testers/getting-started-with-sql-queries?u=76281980&t=162)** There are a number of operators that are available to you and the Wikipedia page on [[SQL]] syntax has a good summary table of all these different operators that you can refer to.
 >
 > **[2:51](https://www.linkedin.com/learning/sql-for-testers/getting-started-with-sql-queries?u=76281980&t=171)** So after just a few minutes, we've already been able to put together some pretty powerful queries that let us slice up the data in some interesting ways.
 >
@@ -371,7 +366,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[SQL]] (3)
+> **Frameworks & Libraries:** [[SQL]] (3)
 > **Env Vars:** bmw (3), sql (3)
 > **CLI Commands:** make (3)
 > **Definitions:** is called (2), is a  (1)
@@ -380,12 +375,11 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Warnings:** note that (1)
 
-#### Understanding more complex SQL queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/understanding-more-complex-sql-queries?u=76281980)
+#### [Understanding more complex SQL queries](https://www.linkedin.com/learning/sql-for-testers/understanding-more-complex-sql-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-testers/understanding-more-complex-sql-queries?u=76281980&t=0)** - We're going to start looking at how to use SQL to help with testing where shortly.
+> **[0:00](https://www.linkedin.com/learning/sql-for-testers/understanding-more-complex-sql-queries?u=76281980&t=0)** - We're going to start looking at how to use [[SQL]] to help with testing where shortly.
 >
 > **[0:04](https://www.linkedin.com/learning/sql-for-testers/understanding-more-complex-sql-queries?u=76281980&t=4)** But before we do that, I want to take a few more minutes to get into some of the fundamentals of SQL queries.
 >
@@ -511,7 +505,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[SQL]] (5), next (3)
+> **Frameworks & Libraries:** [[SQL]] (5)
 > **Env Vars:** sql (5), desc (1), asc (1)
 > **UI Navigation:** go to (1), select the (1)
 > **CLI Commands:** make (1)
@@ -524,16 +518,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up a site for testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/setting-up-a-site-for-testing-20267382?u=76281980)
+#### [Setting up a site for testing](https://www.linkedin.com/learning/sql-for-testers/setting-up-a-site-for-testing-20267382?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-testers/setting-up-a-site-for-testing-20267382?u=76281980&t=0)** - [Instructor] Now that we have the basics of SQL under our belt, let's start to look at how to use SQL queries as a tester.
+> **[0:00](https://www.linkedin.com/learning/sql-for-testers/setting-up-a-site-for-testing-20267382?u=76281980&t=0)** - [Instructor] Now that we have the basics of [[SQL]] under our belt, let's start to look at how to use SQL queries as a tester.
 >
 > **[0:06](https://www.linkedin.com/learning/sql-for-testers/setting-up-a-site-for-testing-20267382?u=76281980&t=6)** I really firmly believe that you'll learn best if you can actually execute queries on your own and have a hands-on experience throughout this course.
 >
-> **[0:13](https://www.linkedin.com/learning/sql-for-testers/setting-up-a-site-for-testing-20267382?u=76281980&t=13)** Now, in order to do that, you're going to need to set up some databases locally, but I didn't want this just to be about querying databases.
+> **[0:13](https://www.linkedin.com/learning/sql-for-testers/setting-up-a-site-for-testing-20267382?u=76281980&t=13)** Now, in order to do that, you're going to need to set up some [[Databases]] locally, but I didn't want this just to be about querying databases.
 >
 > **[0:19](https://www.linkedin.com/learning/sql-for-testers/setting-up-a-site-for-testing-20267382?u=76281980&t=19)** As testers, we look at things in a holistic way.
 >
@@ -543,13 +536,13 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/sql-for-testers/setting-up-a-site-for-testing-20267382?u=76281980&t=34)** So in order to sort of replicate this, I put together a simple website that has a few database tables for various parts of the data, and it has a simple user interface on top of it that uses the data.
 >
-> **[0:44](https://www.linkedin.com/learning/sql-for-testers/setting-up-a-site-for-testing-20267382?u=76281980&t=44)** Now, obviously this will be far less complex than a real e-commerce site would be, but it should help to make sure that the things that we learn in this course are applicable in the day-to-day work of a tester.
+> **[0:44](https://www.linkedin.com/learning/sql-for-testers/setting-up-a-site-for-testing-20267382?u=76281980&t=44)** Now, obviously this will be far less complex than a real [[E-Commerce]] site would be, but it should help to make sure that the things that we learn in this course are applicable in the day-to-day work of a tester.
 >
-> **[0:54](https://www.linkedin.com/learning/sql-for-testers/setting-up-a-site-for-testing-20267382?u=76281980&t=54)** I also want to acknowledge GitHub user, Himani13040, whose repo I initially forked off of before modifying this for our needs here.
+> **[0:54](https://www.linkedin.com/learning/sql-for-testers/setting-up-a-site-for-testing-20267382?u=76281980&t=54)** I also want to acknowledge [[GitHub]] user, Himani13040, whose repo I initially forked off of before modifying this for our needs here.
 >
 > **[1:02](https://www.linkedin.com/learning/sql-for-testers/setting-up-a-site-for-testing-20267382?u=76281980&t=62)** In order to use this site locally, you're going to need a few things.
 >
-> **[1:05](https://www.linkedin.com/learning/sql-for-testers/setting-up-a-site-for-testing-20267382?u=76281980&t=65)** First of all, you'll need to have Python three installed on your computer.
+> **[1:05](https://www.linkedin.com/learning/sql-for-testers/setting-up-a-site-for-testing-20267382?u=76281980&t=65)** First of all, you'll need to have [[Python (Programming Language)|Python]] three installed on your computer.
 >
 > **[1:08](https://www.linkedin.com/learning/sql-for-testers/setting-up-a-site-for-testing-20267382?u=76281980&t=68)** If you don't yet have it, you can get it from [python.org/downloads](https://python.org/downloads) and then download the latest version three release for your platform and install it like you would any other application.
 >
@@ -575,7 +568,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/sql-for-testers/setting-up-a-site-for-testing-20267382?u=76281980&t=138)** First of all, you're going to set the Flask app variable, and on my computer I can do that by calling export FLASK_APP.
 >
-> **[2:26](https://www.linkedin.com/learning/sql-for-testers/setting-up-a-site-for-testing-20267382?u=76281980&t=146)** On Windows, you would probably do, set FLASK_APP, and then we're going to set the value of this variable to main.
+> **[2:26](https://www.linkedin.com/learning/sql-for-testers/setting-up-a-site-for-testing-20267382?u=76281980&t=146)** On [[Windows]], you would probably do, set FLASK_APP, and then we're going to set the value of this variable to main.
 >
 > **[2:33](https://www.linkedin.com/learning/sql-for-testers/setting-up-a-site-for-testing-20267382?u=76281980&t=153)** And similarly, I will also set the FLASK_ENV variable.
 >
@@ -605,7 +598,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), application (7), [[Python (Programming Language)|Python]] (5), [[SQL]] (4), data (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[SQL]] (4), [[Databases]] (2), [[E-Commerce]] (1), [[GitHub]] (1)
 > **Prerequisites:** install (7), you'll need (4), set up (2)
 > **CLI Commands:** python (5), pip (3), make (1), cd (1)
 > **Env Vars:** sql (3), flask_app (2), url (2), pip (1), zip (1)
@@ -614,12 +607,11 @@ created: 2026-05-02
 > **File Paths:** databaseinitializationscript.sql (1)
 > **URLs:** [python.org](https://python.org) (1)
 
-#### Validate user workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/validate-user-workflows-20266621?u=76281980)
+#### [Validate user workflows](https://www.linkedin.com/learning/sql-for-testers/validate-user-workflows-20266621?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-testers/validate-user-workflows-20266621?u=76281980&t=0)** - [Instructor] Now that you have the testing practice site set up, let's look at how you can use SQL as a tester to validate a user workflow.
+> **[0:00](https://www.linkedin.com/learning/sql-for-testers/validate-user-workflows-20266621?u=76281980&t=0)** - [Instructor] Now that you have the testing practice site set up, let's look at how you can use [[SQL]] as a tester to validate a user workflow.
 >
 > **[0:06](https://www.linkedin.com/learning/sql-for-testers/validate-user-workflows-20266621?u=76281980&t=6)** Now, this is obviously a very simple site, so let's take a look at a very simple cart workflow.
 >
@@ -635,7 +627,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/sql-for-testers/validate-user-workflows-20266621?u=76281980&t=45)** So that looks like it's working okay, but let's take a look at this product.
 >
-> **[0:50](https://www.linkedin.com/learning/sql-for-testers/validate-user-workflows-20266621?u=76281980&t=50)** So we'll do Select Star from products where product ID is equal to the product ID in our cart.
+> **[0:50](https://www.linkedin.com/learning/sql-for-testers/validate-user-workflows-20266621?u=76281980&t=50)** So we'll do Select Star from [[Microsoft Products|products]] where product ID is equal to the product ID in our cart.
 >
 > **[1:01](https://www.linkedin.com/learning/sql-for-testers/validate-user-workflows-20266621?u=76281980&t=61)** So two, and we'll run this query.
 >
@@ -677,7 +669,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/sql-for-testers/validate-user-workflows-20266621?u=76281980&t=192)** It looks like it might not display anything after the first space following that one.
 >
-> **[3:17](https://www.linkedin.com/learning/sql-for-testers/validate-user-workflows-20266621?u=76281980&t=197)** Now, obviously here we have a very small set of users in our table, but if we had a big data set, we might want to do a quick search and just see how many people are going to be affected by this bug.
+> **[3:17](https://www.linkedin.com/learning/sql-for-testers/validate-user-workflows-20266621?u=76281980&t=197)** Now, obviously here we have a very small set of users in our table, but if we had a [[Big Data]] set, we might want to do a quick search and just see how many people are going to be affected by this bug.
 >
 > **[3:26](https://www.linkedin.com/learning/sql-for-testers/validate-user-workflows-20266621?u=76281980&t=206)** So to do that, we can use something called the like operator.
 >
@@ -695,7 +687,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[SQL]] (4), database (4), data (4), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Microsoft Products|Products]] (2), [[Big Data]] (1)
 > **Env Vars:** sql (4)
 > **URLs:** [gmail.com](https://gmail.com) (2)
 > **UI Navigation:** go to (2)
@@ -704,14 +696,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 
-#### Validate data integrity
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/validate-data-integrity-20264571?u=76281980)
+#### [Validate data integrity](https://www.linkedin.com/learning/sql-for-testers/validate-data-integrity-20264571?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-testers/validate-data-integrity-20264571?u=76281980&t=0)** - [Instructor] We've seen how you can use SQL to validate that certain workflows are correct.
+> **[0:00](https://www.linkedin.com/learning/sql-for-testers/validate-data-integrity-20264571?u=76281980&t=0)** - [Instructor] We've seen how you can use [[SQL]] to validate that certain workflows are correct.
 >
-> **[0:04](https://www.linkedin.com/learning/sql-for-testers/validate-data-integrity-20264571?u=76281980&t=4)** But now let's dive a little deeper into validating the data integrity.
+> **[0:04](https://www.linkedin.com/learning/sql-for-testers/validate-data-integrity-20264571?u=76281980&t=4)** But now let's dive a little deeper into validating the [[Data Integrity]].
 >
 > **[0:08](https://www.linkedin.com/learning/sql-for-testers/validate-data-integrity-20264571?u=76281980&t=8)** In order to do this, it's sometimes helpful to look at data that spans multiple tables at the same time.
 >
@@ -729,7 +720,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/sql-for-testers/validate-data-integrity-20264571?u=76281980&t=36)** We'll add a few of these and then let's take a look at the cart table.
 >
-> **[0:45](https://www.linkedin.com/learning/sql-for-testers/validate-data-integrity-20264571?u=76281980&t=45)** So we'll do SELECT * FROM cart and we can see we've got these four products in the cart for this user.
+> **[0:45](https://www.linkedin.com/learning/sql-for-testers/validate-data-integrity-20264571?u=76281980&t=45)** So we'll do SELECT * FROM cart and we can see we've got these four [[Microsoft Products|products]] in the cart for this user.
 >
 > **[0:56](https://www.linkedin.com/learning/sql-for-testers/validate-data-integrity-20264571?u=76281980&t=56)** Now, what if I wanted to see the stock count for each of these products?
 >
@@ -805,7 +796,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (10), data (6), [[SQL]] (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (10), [[SQL]] (3), [[Data Integrity]] (1)
 > **Code Identifiers:** productid (9), userid (5), productids (1), firstname (1)
 > **Env Vars:** select (5), join (4), sql (3), inner (3), distinct (1)
 > **SQL:** select (5), inner join (3), join (1)
@@ -814,8 +805,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
 
-#### Working through an example
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/working-through-an-example?u=76281980)
+#### [Working through an example](https://www.linkedin.com/learning/sql-for-testers/working-through-an-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -841,7 +831,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/sql-for-testers/working-through-an-example?u=76281980&t=48)** So let's see if we can combine everything together into a query that uses all these different clauses that we've learned so far.
 >
-> **[0:54](https://www.linkedin.com/learning/sql-for-testers/working-through-an-example?u=76281980&t=54)** So what I want you to do is try to create a single query that will give you the price, description, and category name of all products that have a price greater than $10, and ensure that that result is sorted by price.
+> **[0:54](https://www.linkedin.com/learning/sql-for-testers/working-through-an-example?u=76281980&t=54)** So what I want you to do is try to create a single query that will give you the price, description, and category name of all [[Microsoft Products|products]] that have a price greater than $10, and ensure that that result is sorted by price.
 >
 > **[1:07](https://www.linkedin.com/learning/sql-for-testers/working-through-an-example?u=76281980&t=67)** Now that's a pretty complex set of things to do, so hopefully you are able to pause this video and put together a query like that.
 >
@@ -897,7 +887,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), data (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6)
 > **Cross-References:** in the last (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -907,8 +897,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create new entries in a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/create-new-entries-in-a-table?u=76281980)
+#### [Create new entries in a table](https://www.linkedin.com/learning/sql-for-testers/create-new-entries-in-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -918,11 +907,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/sql-for-testers/create-new-entries-in-a-table?u=76281980&t=8)** So if you're testing, you're often going to want to create certain scenarios to see what happens.
 >
-> **[0:13](https://www.linkedin.com/learning/sql-for-testers/create-new-entries-in-a-table?u=76281980&t=13)** Maybe you want a certain kind of data to be there, or maybe you just want to have a whole bunch of data in place so that you can test maybe lots of users or lots of products or something else, some other kind of load test in your system.
+> **[0:13](https://www.linkedin.com/learning/sql-for-testers/create-new-entries-in-a-table?u=76281980&t=13)** Maybe you want a certain kind of data to be there, or maybe you just want to have a whole bunch of data in place so that you can test maybe lots of users or lots of [[Microsoft Products|products]] or something else, some other kind of load test in your system.
 >
 > **[0:25](https://www.linkedin.com/learning/sql-for-testers/create-new-entries-in-a-table?u=76281980&t=25)** There's a lot of reasons that you might want to create data in a table.
 >
-> **[0:28](https://www.linkedin.com/learning/sql-for-testers/create-new-entries-in-a-table?u=76281980&t=28)** But before we go further, I just want to give you a quick word of warning, make sure that when you create data like this, you're not modifying things in a production environment or in another place where those changes can have adverse effects.
+> **[0:28](https://www.linkedin.com/learning/sql-for-testers/create-new-entries-in-a-table?u=76281980&t=28)** But before we go further, I just want to give you a quick [[Microsoft Word|word]] of warning, make sure that when you create data like this, you're not modifying things in a production environment or in another place where those changes can have adverse effects.
 >
 > **[0:40](https://www.linkedin.com/learning/sql-for-testers/create-new-entries-in-a-table?u=76281980&t=40)** So with that warning firmly in your mind, let's take a look at a few examples of how we create data in a table.
 >
@@ -932,7 +921,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/sql-for-testers/create-new-entries-in-a-table?u=76281980&t=60)** Imagine filling out all the data in here a hundred times, not fun.
 >
-> **[1:05](https://www.linkedin.com/learning/sql-for-testers/create-new-entries-in-a-table?u=76281980&t=65)** So let's see if we can do it a little more efficiently with SQL.
+> **[1:05](https://www.linkedin.com/learning/sql-for-testers/create-new-entries-in-a-table?u=76281980&t=65)** So let's see if we can do it a little more efficiently with [[SQL]].
 >
 > **[1:08](https://www.linkedin.com/learning/sql-for-testers/create-new-entries-in-a-table?u=76281980&t=68)** Now, before we go creating a hundred users, let's look at creating one user.
 >
@@ -1040,7 +1029,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[SQL]] (3), database (3), [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (3)
 > **Analogies:** imagine (2), for example (1)
 > **Warnings:** warning (2)
@@ -1049,8 +1038,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Exercise Files:** download the (1)
 
-#### Update existing entries in a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/update-existing-entries-in-a-table?u=76281980)
+#### [Update existing entries in a table](https://www.linkedin.com/learning/sql-for-testers/update-existing-entries-in-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1064,7 +1052,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/sql-for-testers/update-existing-entries-in-a-table?u=76281980&t=24)** So update needs to know what table to update.
 >
-> **[0:28](https://www.linkedin.com/learning/sql-for-testers/update-existing-entries-in-a-table?u=76281980&t=28)** So we'll say products, and now we can set values.
+> **[0:28](https://www.linkedin.com/learning/sql-for-testers/update-existing-entries-in-a-table?u=76281980&t=28)** So we'll say [[Microsoft Products|products]], and now we can set values.
 >
 > **[0:33](https://www.linkedin.com/learning/sql-for-testers/update-existing-entries-in-a-table?u=76281980&t=33)** So we'll use the set keyword to do that, and we only want to do it for the column name.
 >
@@ -1084,7 +1072,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/sql-for-testers/update-existing-entries-in-a-table?u=76281980&t=91)** So first, set up the user table to have mock data in it, and if you still have it set up from last video, that's great, you can use that.
 >
-> **[1:38](https://www.linkedin.com/learning/sql-for-testers/update-existing-entries-in-a-table?u=76281980&t=98)** Or if you're like me and you ran the initialization script, again, you can use this ad_100_users.sql script in your exercise files to just create 100 users, and I'll just do ctrl + A and run that query to add 98 more users.
+> **[1:38](https://www.linkedin.com/learning/sql-for-testers/update-existing-entries-in-a-table?u=76281980&t=98)** Or if you're like me and you ran the initialization script, again, you can use this ad_100_users.[[SQL]] script in your exercise files to just create 100 users, and I'll just do ctrl + A and run that query to add 98 more users.
 >
 > **[1:59](https://www.linkedin.com/learning/sql-for-testers/update-existing-entries-in-a-table?u=76281980&t=119)** So now I have 100 users in my table.
 >
@@ -1136,7 +1124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Products|Products]] (2), product (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[SQL]] (1)
 > **Prerequisites:** set up (2), initialization (1)
 > **File Paths:** ad_100_users.sql (1)
 > **CLI Commands:** make (1)
@@ -1145,8 +1133,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 
-#### Deleting data from a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/deleting-data-from-a-table?u=76281980)
+#### [Deleting data from a table](https://www.linkedin.com/learning/sql-for-testers/deleting-data-from-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1164,7 +1151,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/sql-for-testers/deleting-data-from-a-table?u=76281980&t=23)** Now, I'm going to put together an imaginary scenario for you.
 >
-> **[0:26](https://www.linkedin.com/learning/sql-for-testers/deleting-data-from-a-table?u=76281980&t=26)** Imagine that our database, it hooks up to another process and this process can remove products.
+> **[0:26](https://www.linkedin.com/learning/sql-for-testers/deleting-data-from-a-table?u=76281980&t=26)** Imagine that our database, it hooks up to another process and this process can remove [[Microsoft Products|products]].
 >
 > **[0:32](https://www.linkedin.com/learning/sql-for-testers/deleting-data-from-a-table?u=76281980&t=32)** So this is some kind of other part of the business, and it can remove products that are no longer available for the site.
 >
@@ -1218,17 +1205,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), [[Microsoft Products|Products]] (6), database (4), business (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6)
 > **Analogies:** imagine (1), just like (1)
 > **Warnings:** be careful (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Data generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/challenge-data-generation?u=76281980)
+#### [Challenge: Data generation](https://www.linkedin.com/learning/sql-for-testers/challenge-data-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-testers/challenge-data-generation?u=76281980&t=0)** - [Instructor] We've been learning a lot about manipulating data with SQL.
+> **[0:00](https://www.linkedin.com/learning/sql-for-testers/challenge-data-generation?u=76281980&t=0)** - [Instructor] We've been learning a lot about manipulating data with [[SQL]].
 >
 > **[0:08](https://www.linkedin.com/learning/sql-for-testers/challenge-data-generation?u=76281980&t=8)** And hopefully you've been able to try these things out at home and maybe even been exploring beyond the things that I've explicitly shown you.
 >
@@ -1260,7 +1246,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/sql-for-testers/challenge-data-generation?u=76281980&t=71)** And then the second challenge is to add a new category to the categories table and call that category testers.
 >
-> **[1:18](https://www.linkedin.com/learning/sql-for-testers/challenge-data-generation?u=76281980&t=78)** And then modify the products table so that all the products that have testers in their name get associated with that new category that you just created.
+> **[1:18](https://www.linkedin.com/learning/sql-for-testers/challenge-data-generation?u=76281980&t=78)** And then modify the [[Microsoft Products|products]] table so that all the products that have testers in their name get associated with that new category that you just created.
 >
 > **[1:28](https://www.linkedin.com/learning/sql-for-testers/challenge-data-generation?u=76281980&t=88)** So that's the challenges that I have for you.
 >
@@ -1274,7 +1260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), data (2), product (2), [[Microsoft Products|Products]] (2), database (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** sql (3)
 > **UI Navigation:** open the (1)
@@ -1282,8 +1268,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Data generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/solution-data-generation?u=76281980)
+#### [Solution: Data generation](https://www.linkedin.com/learning/sql-for-testers/solution-data-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1295,7 +1280,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/sql-for-testers/solution-data-generation?u=76281980&t=19)** So the first challenge was to duplicate the rows in the product table, so that there are twice as many items available in our store.
 >
-> **[0:25](https://www.linkedin.com/learning/sql-for-testers/solution-data-generation?u=76281980&t=25)** So we know we want to duplicate, so we're going to need to add more rows to the table, so we're going to need to use an insert into, and we know we're going to need insert into the products table, so we'll include that.
+> **[0:25](https://www.linkedin.com/learning/sql-for-testers/solution-data-generation?u=76281980&t=25)** So we know we want to duplicate, so we're going to need to add more rows to the table, so we're going to need to use an insert into, and we know we're going to need insert into the [[Microsoft Products|products]] table, so we'll include that.
 >
 > **[0:38](https://www.linkedin.com/learning/sql-for-testers/solution-data-generation?u=76281980&t=38)** And now we don't want to just set each row one at a time manually, so we don't want to do this set manual workflow.
 >
@@ -1345,7 +1330,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/sql-for-testers/solution-data-generation?u=76281980&t=217)** So, we will use the update query, and we're going to update the products table, and we're going to set the category ID to be five, so this is the new category ID, the testers category that we've created.
 >
-> **[3:53](https://www.linkedin.com/learning/sql-for-testers/solution-data-generation?u=76281980&t=233)** And we want to do that, wherever the name field has, so we'll use this like operator, has the word tester in it, and we need to have that be a wild card.
+> **[3:53](https://www.linkedin.com/learning/sql-for-testers/solution-data-generation?u=76281980&t=233)** And we want to do that, wherever the name field has, so we'll use this like operator, has the [[Microsoft Word|word]] tester in it, and we need to have that be a wild card.
 >
 > **[4:09](https://www.linkedin.com/learning/sql-for-testers/solution-data-generation?u=76281980&t=249)** So if it's anywhere, we don't want to just find where it is exactly tester, but anywhere that starts with anything includes the word tester.
 >
@@ -1355,7 +1340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (12), [[Microsoft Products|Products]] (12), data (3), next (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (12), [[Microsoft Word|Word]] (2)
 > **Cross-References:** in the last (1), go back to (1)
 > **UI Navigation:** scroll down (1), click on (1)
 > **CLI Commands:** find (1)
@@ -1368,12 +1353,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Transactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/transactions?u=76281980)
+#### [Transactions](https://www.linkedin.com/learning/sql-for-testers/transactions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/sql-for-testers/transactions?u=76281980&t=1)** - [Instructor] One of the things that are pretty common in SQL are transactions.
+> **[0:01](https://www.linkedin.com/learning/sql-for-testers/transactions?u=76281980&t=1)** - [Instructor] One of the things that are pretty common in [[SQL]] are transactions.
 >
 > **[0:04](https://www.linkedin.com/learning/sql-for-testers/transactions?u=76281980&t=4)** Let's take a quick look at how they work.
 >
@@ -1407,7 +1391,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/sql-for-testers/transactions?u=76281980&t=80)** Why are those changes that we made not showing up here?
 >
-> **[1:23](https://www.linkedin.com/learning/sql-for-testers/transactions?u=76281980&t=83)** Back here, we can see we did a select on the cart table and those products are in the cart but they're not showing up for us in the UI.
+> **[1:23](https://www.linkedin.com/learning/sql-for-testers/transactions?u=76281980&t=83)** Back here, we can see we did a select on the cart table and those [[Microsoft Products|products]] are in the cart but they're not showing up for us in the UI.
 >
 > **[1:31](https://www.linkedin.com/learning/sql-for-testers/transactions?u=76281980&t=91)** Well, it's because these changes were made inside a transaction.
 >
@@ -1513,7 +1497,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[Microsoft Products|Products]] (5), [[SQL]] (3), product (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[SQL]] (3)
 > **Env Vars:** sql (3), begin (1), transaction (1), insert (1), into (1)
 > **Warnings:** be aware (3)
 > **CLI Commands:** make (2)
@@ -1522,8 +1506,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** means that (1)
 
-#### Field constrains
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/field-constrains?u=76281980)
+#### [Field constrains](https://www.linkedin.com/learning/sql-for-testers/field-constrains?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1535,7 +1518,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/sql-for-testers/field-constrains?u=76281980&t=15)** Now, there's a number of different kinds of constraints that can be applied, so let's kind of take a look at it in SQLite to get a bit of a feeling for how it works.
 >
-> **[0:23](https://www.linkedin.com/learning/sql-for-testers/field-constrains?u=76281980&t=23)** So if we double click on the products table here, it will bring up some of the different kinds of field constraints that can be applied.
+> **[0:23](https://www.linkedin.com/learning/sql-for-testers/field-constrains?u=76281980&t=23)** So if we double click on the [[Microsoft Products|products]] table here, it will bring up some of the different kinds of field constraints that can be applied.
 >
 > **[0:30](https://www.linkedin.com/learning/sql-for-testers/field-constrains?u=76281980&t=30)** So, this table here, it's got a primary key constraint applied to the product ID column.
 >
@@ -1713,7 +1696,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), product (6), data (4), next (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7)
 > **Definitions:** is a  (3), means that (2)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** click on (1), go to (1)
@@ -1722,8 +1705,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Schema validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/schema-validation-20260933?u=76281980)
+#### [Schema validation](https://www.linkedin.com/learning/sql-for-testers/schema-validation-20260933?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1747,7 +1729,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/sql-for-testers/schema-validation-20260933?u=76281980&t=35)** But we know that there's some relationships between these tables.
 >
-> **[0:39](https://www.linkedin.com/learning/sql-for-testers/schema-validation-20260933?u=76281980&t=39)** So the category ID here is linked to the category ID in the products table.
+> **[0:39](https://www.linkedin.com/learning/sql-for-testers/schema-validation-20260933?u=76281980&t=39)** So the category ID here is linked to the category ID in the [[Microsoft Products|products]] table.
 >
 > **[0:46](https://www.linkedin.com/learning/sql-for-testers/schema-validation-20260933?u=76281980&t=46)** And the cart is also linked to the other table, so the cart user ID is linked to the user's table, and the product ID is linked to the products table as well.
 >
@@ -1789,11 +1771,11 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/sql-for-testers/schema-validation-20260933?u=76281980&t=184)** So if you feel like you don't really understand what's going on, try making an entity relationship diagram even on a piece of paper, and see what you can figure out by looking at something like that.
 >
-> **[3:15](https://www.linkedin.com/learning/sql-for-testers/schema-validation-20260933?u=76281980&t=195)** You might find that this is a helpful tool for testing databases.
+> **[3:15](https://www.linkedin.com/learning/sql-for-testers/schema-validation-20260933?u=76281980&t=195)** You might find that this is a helpful tool for testing [[Databases]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (4), [[Microsoft Products|Products]] (4), application (2), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Databases]] (1)
 > **Analogies:** picture (2), for example (1)
 > **CLI Commands:** find (2)
 > **Definitions:** in other words (1), is a  (1)
@@ -1801,30 +1783,29 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/security-testing?u=76281980)
+#### [Security testing](https://www.linkedin.com/learning/sql-for-testers/security-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-testers/security-testing?u=76281980&t=0)** - [Instructor] The OWASP Foundation maintains a list of the top 10 web application security risks.
+> **[0:00](https://www.linkedin.com/learning/sql-for-testers/security-testing?u=76281980&t=0)** - [Instructor] The [[OWASP]] Foundation maintains a list of the top 10 [[Web Application Security]] risks.
 >
 > **[0:05](https://www.linkedin.com/learning/sql-for-testers/security-testing?u=76281980&t=5)** This list is known as the OWASP Top 10.
 >
 > **[0:08](https://www.linkedin.com/learning/sql-for-testers/security-testing?u=76281980&t=8)** And number one on this list is injection.
 >
-> **[0:11](https://www.linkedin.com/learning/sql-for-testers/security-testing?u=76281980&t=11)** You're probably already well aware of the fact that SQL systems are vulnerable to injection flaws, but how would you go about testing for them?
+> **[0:11](https://www.linkedin.com/learning/sql-for-testers/security-testing?u=76281980&t=11)** You're probably already well aware of the fact that [[SQL]] systems are vulnerable to injection flaws, but how would you go about testing for them?
 >
 > **[0:18](https://www.linkedin.com/learning/sql-for-testers/security-testing?u=76281980&t=18)** Well, let's take a look at an example of a SQL injection flaw in this application, and see if we can learn anything about testing them.
 >
 > **[0:25](https://www.linkedin.com/learning/sql-for-testers/security-testing?u=76281980&t=25)** For this example, we're going to use the Shop by Category page, and you can see here in the URL that we have this query parameter.
 >
-> **[0:32](https://www.linkedin.com/learning/sql-for-testers/security-testing?u=76281980&t=32)** So we've got a question and categoryId equals, and that's what's being used to determine which products to show us.
+> **[0:32](https://www.linkedin.com/learning/sql-for-testers/security-testing?u=76281980&t=32)** So we've got a question and categoryId equals, and that's what's being used to determine which [[Microsoft Products|products]] to show us.
 >
 > **[0:39](https://www.linkedin.com/learning/sql-for-testers/security-testing?u=76281980&t=39)** So it queries the categoryId, and where it equals one, it returns us back those products.
 >
 > **[0:43](https://www.linkedin.com/learning/sql-for-testers/security-testing?u=76281980&t=43)** So in this case, one is men's, and it returns those products for us.
 >
-> **[0:47](https://www.linkedin.com/learning/sql-for-testers/security-testing?u=76281980&t=47)** So what's happening here is that in the background, this query is getting sent to the SQL server and it's being told here's the categoryId I want you to go get for me.
+> **[0:47](https://www.linkedin.com/learning/sql-for-testers/security-testing?u=76281980&t=47)** So what's happening here is that in the background, this query is getting sent to the [[Microsoft SQL Server|SQL server]] and it's being told here's the categoryId I want you to go get for me.
 >
 > **[1:00](https://www.linkedin.com/learning/sql-for-testers/security-testing?u=76281980&t=60)** But what if we change this categoryId.
 >
@@ -1904,7 +1885,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/sql-for-testers/security-testing?u=76281980&t=316)** In fact, I think it could be an entire course all on its own, but there are many good resources on the internet if you want to dive into it a bit more.
 >
-> **[5:23](https://www.linkedin.com/learning/sql-for-testers/security-testing?u=76281980&t=323)** Google around, look up some resources.
+> **[5:23](https://www.linkedin.com/learning/sql-for-testers/security-testing?u=76281980&t=323)** [[Google]] around, look up some resources.
 >
 > **[5:25](https://www.linkedin.com/learning/sql-for-testers/security-testing?u=76281980&t=325)** But an example here is PortSwigger.
 >
@@ -1914,7 +1895,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (10), [[SQL]] (7), data (6), application (3), [[OWASP]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (10), [[SQL]] (7), [[OWASP]] (2), [[Web Application Security]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Code Identifiers:** categoryid (14), categorid (1)
 > **Env Vars:** sql (8), owasp (2), url (1)
 > **CLI Commands:** find (1), make (1)
@@ -1922,16 +1903,15 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Performance testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/performance-testing-20266622?u=76281980)
+#### [Performance testing](https://www.linkedin.com/learning/sql-for-testers/performance-testing-20266622?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-for-testers/performance-testing-20266622?u=76281980&t=0)** - [Instructor] In the toy application that we've been playing with, performance is measured in milliseconds, but out there in that scary place called production, there can be vast amounts of data and huge databases.
+> **[0:00](https://www.linkedin.com/learning/sql-for-testers/performance-testing-20266622?u=76281980&t=0)** - [Instructor] In the toy application that we've been playing with, performance is measured in milliseconds, but out there in that scary place called production, there can be vast amounts of data and huge [[Databases]].
 >
 > **[0:10](https://www.linkedin.com/learning/sql-for-testers/performance-testing-20266622?u=76281980&t=10)** I've seen queries where runtime is measured in minutes or even hours when dealing with tables that have millions of rows of data.
 >
-> **[0:17](https://www.linkedin.com/learning/sql-for-testers/performance-testing-20266622?u=76281980&t=17)** Obviously, in cases like that, the performance becomes important, but how does one go about testing the performance of a SQL query?
+> **[0:17](https://www.linkedin.com/learning/sql-for-testers/performance-testing-20266622?u=76281980&t=17)** Obviously, in cases like that, the performance becomes important, but how does one go about testing the performance of a [[SQL]] query?
 >
 > **[0:24](https://www.linkedin.com/learning/sql-for-testers/performance-testing-20266622?u=76281980&t=24)** In general, this is a pretty specialized field that goes beyond what we can cover in this course, but here are a few tips to consider as you think about this.
 >
@@ -1953,7 +1933,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/sql-for-testers/performance-testing-20266622?u=76281980&t=73)** But with an OR, you usually have to look at the entire table twice.
 >
-> **[1:18](https://www.linkedin.com/learning/sql-for-testers/performance-testing-20266622?u=76281980&t=78)** For example, I've created a dummy dataset where I duplicated items in the products table a few times to get a slightly bigger table, and I've opened up the SQLite3 command line tool here, and I've enabled the timer.
+> **[1:18](https://www.linkedin.com/learning/sql-for-testers/performance-testing-20266622?u=76281980&t=78)** For example, I've created a dummy dataset where I duplicated items in the [[Microsoft Products|products]] table a few times to get a slightly bigger table, and I've opened up the SQLite3 command line tool here, and I've enabled the timer.
 >
 > **[1:32](https://www.linkedin.com/learning/sql-for-testers/performance-testing-20266622?u=76281980&t=92)** Now, when I run this query here, you can see that it takes around a half a second to do it.
 >
@@ -2001,11 +1981,11 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/sql-for-testers/performance-testing-20266622?u=76281980&t=236)** On the other hand, if you frequently query against that column, you probably do want to index it.
 >
-> **[4:01](https://www.linkedin.com/learning/sql-for-testers/performance-testing-20266622?u=76281980&t=241)** There's much more to performance in databases, but hopefully this quick survey has been able to give you a taste of some of the kinds of things to think about as you consider performance concerns in database testing.
+> **[4:01](https://www.linkedin.com/learning/sql-for-testers/performance-testing-20266622?u=76281980&t=241)** There's much more to performance in databases, but hopefully this quick survey has been able to give you a taste of some of the kinds of things to think about as you consider performance concerns in [[Database Testing]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Databases]] (5), database (4), [[Microsoft Products|Products]] (3), application (1)
+> **Frameworks & Libraries:** [[Databases]] (5), [[Microsoft Products|Products]] (3), [[SQL]] (1), [[Database Testing]] (1)
 > **Warnings:** be careful (2), keep in mind (1), be aware (1), watch out (1)
 > **CLI Commands:** make (3), sqlite3 (1)
 > **Definitions:** is a  (2), means that (1)
@@ -2014,8 +1994,7 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Tools:** command line (1)
 
-#### Challenge: Database tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/challenge-database-tests?u=76281980)
+#### [Challenge: Database tests](https://www.linkedin.com/learning/sql-for-testers/challenge-database-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2023,11 +2002,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/sql-for-testers/challenge-database-tests?u=76281980&t=5)** - [Instructor] This course is coming to an end and as I wrap up, I want to give you the chance to pull everything together in a final challenge.
 >
-> **[0:11](https://www.linkedin.com/learning/sql-for-testers/challenge-database-tests?u=76281980&t=11)** This challenge will push you to put into practice many of the things that you've been learning about testing databases and testing with databases.
+> **[0:11](https://www.linkedin.com/learning/sql-for-testers/challenge-database-tests?u=76281980&t=11)** This challenge will push you to put into practice many of the things that you've been learning about testing [[Databases]] and testing with databases.
 >
 > **[0:18](https://www.linkedin.com/learning/sql-for-testers/challenge-database-tests?u=76281980&t=18)** In order to push you a little, I've actually created a new database for this challenge.
 >
-> **[0:22](https://www.linkedin.com/learning/sql-for-testers/challenge-database-tests?u=76281980&t=22)** To use that database, we'll need to disconnect from the e-commerce one that we have and then we can add a database.
+> **[0:22](https://www.linkedin.com/learning/sql-for-testers/challenge-database-tests?u=76281980&t=22)** To use that database, we'll need to disconnect from the [[E-Commerce]] one that we have and then we can add a database.
 >
 > **[0:31](https://www.linkedin.com/learning/sql-for-testers/challenge-database-tests?u=76281980&t=31)** So we'll go here.
 >
@@ -2087,7 +2066,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), data (3), [[Databases]] (2), [[E-Commerce]] (2), next (2)
+> **Frameworks & Libraries:** [[Databases]] (2), [[E-Commerce]] (2)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** exercise files (1)
@@ -2096,8 +2075,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (electronic music) (1)
 
-#### Solution: Database tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/solution-database-tests-20263732?u=76281980)
+#### [Solution: Database tests](https://www.linkedin.com/learning/sql-for-testers/solution-database-tests-20263732?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2253,7 +2231,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** select the (1)
@@ -2265,8 +2242,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-for-testers/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/sql-for-testers/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2276,7 +2252,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/sql-for-testers/next-steps?u=76281980&t=7)** So, what have you learned in this course?
 >
-> **[0:10](https://www.linkedin.com/learning/sql-for-testers/next-steps?u=76281980&t=10)** Well you've learned how to execute SQL queries that'll allow you to validate all kinds of data.
+> **[0:10](https://www.linkedin.com/learning/sql-for-testers/next-steps?u=76281980&t=10)** Well you've learned how to execute [[SQL]] queries that'll allow you to validate all kinds of data.
 >
 > **[0:15](https://www.linkedin.com/learning/sql-for-testers/next-steps?u=76281980&t=15)** You've also learned how to modify and change data so that you can set up test scenarios.
 >
@@ -2298,7 +2274,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), data (2), database (2), [[Security]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[SQL]] (6)
 > **Env Vars:** sql (6)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)

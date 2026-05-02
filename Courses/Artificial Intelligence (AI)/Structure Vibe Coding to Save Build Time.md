@@ -58,12 +58,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Save time by structuring your vibe coding
-> [LinkedIn Learning](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/save-time-by-using-vibe-coding-structure?u=76281980)
+#### [Save time by structuring your vibe coding](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/save-time-by-using-vibe-coding-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/save-time-by-using-vibe-coding-structure?u=76281980&t=0)** - You've been told that vibe coding is only for prototypes, not production array applications.
+> **[0:00](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/save-time-by-using-vibe-coding-structure?u=76281980&t=0)** - You've been told that [[Vibe Coding]] is only for prototypes, not production array applications.
 >
 > **[0:04](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/save-time-by-using-vibe-coding-structure?u=76281980&t=4)** Well, I'm here to tell you that's a myth.
 >
@@ -87,7 +86,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Vibe Coding]] (1), next (1), product (1), teams (1)
+> **Frameworks & Libraries:** [[Vibe Coding]] (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - you (1)
 
@@ -96,12 +95,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is vibe coding and why do most people get it wrong?
-> [LinkedIn Learning](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/what-is-vibe-coding-and-why-do-most-people-get-it-wrong?u=76281980)
+#### [What is vibe coding and why do most people get it wrong?](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/what-is-vibe-coding-and-why-do-most-people-get-it-wrong?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/what-is-vibe-coding-and-why-do-most-people-get-it-wrong?u=76281980&t=0)** - Now the question is, what is vibe coding?
+> **[0:00](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/what-is-vibe-coding-and-why-do-most-people-get-it-wrong?u=76281980&t=0)** - Now the question is, what is [[Vibe Coding]]?
 >
 > **[0:02](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/what-is-vibe-coding-and-why-do-most-people-get-it-wrong?u=76281980&t=2)** Depending on the person you speak to, they'll have different answers.
 >
@@ -171,7 +169,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/what-is-vibe-coding-and-why-do-most-people-get-it-wrong?u=76281980&t=195)** We then went to a higher level abstracted language.
 >
-> **[3:17](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/what-is-vibe-coding-and-why-do-most-people-get-it-wrong?u=76281980&t=197)** This is Python, and this is probably one of the more adapted languages that are easy to understand when it comes to reading and being closer to English.
+> **[3:17](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/what-is-vibe-coding-and-why-do-most-people-get-it-wrong?u=76281980&t=197)** This is [[Python (Programming Language)|Python]], and this is probably one of the more adapted languages that are easy to understand when it comes to reading and being closer to English.
 >
 > **[3:27](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/what-is-vibe-coding-and-why-do-most-people-get-it-wrong?u=76281980&t=207)** And then finally we have English, and this is when we're doing vibe coding and we're speaking English to the AI to have it write the code for us.
 >
@@ -191,14 +189,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Vibe Coding]] (8), product (1), hr (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Vibe Coding]] (8), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1), rails (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - now (1)
 
-#### The critical role of AI guidance in vibe coding
-> [LinkedIn Learning](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/the-critical-role-of-ai-guidance-in-vibe-coding?u=76281980)
+#### [The critical role of AI guidance in vibe coding](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/the-critical-role-of-ai-guidance-in-vibe-coding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -206,7 +203,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/the-critical-role-of-ai-guidance-in-vibe-coding?u=76281980&t=3)** We have one with complexity and the other one with structure.
 >
-> **[0:06](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/the-critical-role-of-ai-guidance-in-vibe-coding?u=76281980&t=6)** So on one side, we have minimal complexity at the bottom, meaning that we're going to create a simple script that's a one-shot prompt, meaning we ask an AI such as ChatGPT, Claude, Grok, Gemini, et cetera, we ask it one question saying, "Hey, can you create this script?"
+> **[0:06](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/the-critical-role-of-ai-guidance-in-vibe-coding?u=76281980&t=6)** So on one side, we have minimal complexity at the bottom, meaning that we're going to create a simple script that's a one-shot prompt, meaning we ask an AI such as [[ChatGPT]], Claude, Grok, [[Gemini]], et cetera, we ask it one question saying, "Hey, can you create this script?"
 >
 > **[0:20](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/the-critical-role-of-ai-guidance-in-vibe-coding?u=76281980&t=20)** And then it comes back with a perfect answer with all the code we need.
 >
@@ -274,7 +271,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), application (3), prompt (2), [[ChatGPT]] (1), [[Gemini]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Gemini]] (1)
 > **Cross-References:** go back to (2), we discussed (1)
 > **CLI Commands:** make (1), go build (1)
 > **Documentation:** specification (1)
@@ -287,8 +284,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Define the spec, blueprint, and todos
-> [LinkedIn Learning](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/define-the-spec-blueprint-and-todos?u=76281980)
+#### [Define the spec, blueprint, and todos](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/define-the-spec-blueprint-and-todos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -322,11 +318,11 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/define-the-spec-blueprint-and-todos?u=76281980&t=88)** And in that, we're going to have the most intelligent model we have access to, write the blueprint for us.
 >
-> **[1:33](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/define-the-spec-blueprint-and-todos?u=76281980&t=93)** And the reason we're doing that is because the blueprint's going to be a very detailed item or document that's going to explain exactly what the AI engineer needs to do when we're going through the vibe coding process in a phased approach.
+> **[1:33](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/define-the-spec-blueprint-and-todos?u=76281980&t=93)** And the reason we're doing that is because the blueprint's going to be a very detailed item or document that's going to explain exactly what the AI engineer needs to do when we're going through the [[Vibe Coding]] process in a phased approach.
 >
 > **[1:45](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/define-the-spec-blueprint-and-todos?u=76281980&t=105)** And in this case, we're likely going to use either O3.
 >
-> **[1:50](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/define-the-spec-blueprint-and-todos?u=76281980&t=110)** We can use 2.5 Pro from Gemini.
+> **[1:50](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/define-the-spec-blueprint-and-todos?u=76281980&t=110)** We can use 2.5 Pro from [[Gemini]].
 >
 > **[1:53](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/define-the-spec-blueprint-and-todos?u=76281980&t=113)** We can even use Grok 3 from X or a variety of other models that are very powerful.
 >
@@ -350,15 +346,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), next (2), product (2), prompt (1), [[Vibe Coding]] (1)
+> **Frameworks & Libraries:** [[Vibe Coding]] (1), [[Gemini]] (1)
 > **Documentation:** specification (5)
 > **Cross-References:** previous video (1), we talked about (1)
 > **CLI Commands:** make (1)
 > **Versions:** 2.5 (1)
 > **Speakers:** - to (1)
 
-#### Step 1: Crafting the project spec with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980)
+#### [Step 1: Crafting the project spec with AI](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -368,7 +363,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=7)** And in this example, oftentimes we go to restaurants and they could have a bunch of different dishes on the menu that were uncertain as to what they actually are.
 >
-> **[0:14](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=14)** Now, in those cases, we tend to google each one of the items.
+> **[0:14](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=14)** Now, in those cases, we tend to [[Google]] each one of the items.
 >
 > **[0:16](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=16)** But a faster wave of going about this would be just to take a photo of the menu, send that off to AI, have AI parse the menu, pull back the images for each one of those line items so we can get a long list of images we can scroll through associated each dish to get an idea of what it is.
 >
@@ -414,7 +409,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=128)** And this shouldn't take any longer than 15 to 20 minutes, probably less.
 >
-> **[2:12](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=132)** And reason being is oftentimes when you're building an application with AI models, you need to ensure that you're feeding it real-time information that's relevant to the application you're building, such as APIs.
+> **[2:12](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=132)** And reason being is oftentimes when you're building an application with AI models, you need to ensure that you're feeding it [[Real-Time]] information that's relevant to the application you're building, such as APIs.
 >
 > **[2:22](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=142)** So if there's certain APIs you're going to call out to get data or access tools.
 >
@@ -444,7 +439,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=210)** Are there code libraries I should add or are there models that we should reference?
 >
-> **[3:33](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=213)** An example for models is oftentimes when we're using maybe Gemini 2.5 Pro, it'll reference models from 2024.
+> **[3:33](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=213)** An example for models is oftentimes when we're using maybe [[Gemini]] 2.5 Pro, it'll reference models from 2024.
 >
 > **[3:40](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=220)** But if I want to use 2.5 Pro or 2.5 Flash for a application I'm building, I need to specifically reference that model name and say, "This exists today, please do not remove it, just leave this as is."
 >
@@ -452,7 +447,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=233)** And I recommend when you're doing your research, you do it with a model that has access to the internet.
 >
-> **[3:57](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=237)** And different models I like to use are going to be ChatGPT We'll do C/G for ChatGPT.
+> **[3:57](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=237)** And different models I like to use are going to be [[ChatGPT]] We'll do C/G for ChatGPT.
 >
 > **[4:02](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=242)** I like to use Perplexity as well, they have a pretty good kind of a searching capability.
 >
@@ -496,7 +491,7 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=322)** Now, I want to show you what an example of this looks like.
 >
-> **[5:25](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=325)** So if we zoom out of this and go to our spec demo, you'll see this is me having a conversation with o4-mini-high, you can see the model chosen here.
+> **[5:25](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=325)** So if we [[Zoom]] out of this and go to our spec demo, you'll see this is me having a conversation with o4-mini-high, you can see the model chosen here.
 >
 > **[5:35](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=335)** And you can see this is the prompt I just shared with you, this is some prompt.
 >
@@ -552,7 +547,7 @@ created: 2026-05-02
 >
 > **[7:07](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=427)** Is it going to be in an iPhone?
 >
-> **[7:09](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=429)** Is it going to be in an Android device?
+> **[7:09](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=429)** Is it going to be in an [[Android]] device?
 >
 > **[7:11](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=431)** Is it going to be in the web?
 >
@@ -574,7 +569,7 @@ created: 2026-05-02
 >
 > **[7:37](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=457)** You can outsource that to the AI as well, and that's exactly what I did here.
 >
-> **[7:40](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=460)** I said, "Whichever you feel is best for the UI for this type of application and the user experience."
+> **[7:40](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=460)** I said, "Whichever you feel is best for the UI for this type of application and the [[User Experience (UX)|user experience]]."
 >
 > **[7:46](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=466)** So it then decides what it should do, and then it moves on to the next question.
 >
@@ -636,7 +631,7 @@ created: 2026-05-02
 >
 > **[9:55](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=595)** And if we zoom out of here, we can go ahead and look at the specification that's been given to us from the AI.
 >
-> **[10:00](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=600)** So we here and we have the top, we have the overview of explaining what this is, and you can see it calls out that this is a React-based web application, a variety of other things.
+> **[10:00](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=600)** So we here and we have the top, we have the overview of explaining what this is, and you can see it calls out that this is a [[React.js|React]]-based web application, a variety of other things.
 >
 > **[10:08](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=608)** It gives us the personas, so who we serving this to and the user flow they're going to experience when they use the app.
 >
@@ -646,7 +641,7 @@ created: 2026-05-02
 >
 > **[10:23](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=623)** So we have a good breakdown of how the architecture of this app's going to look, and also the flow of the data going through different items.
 >
-> **[10:30](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=630)** The data model, so if we're using any type of database, so it could be Airtable, Supabase, even Google Sheets, or Excel, it's going to give you a structure of how that data should be structured.
+> **[10:30](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=630)** The data model, so if we're using any type of database, so it could be Airtable, Supabase, even Google Sheets, or [[Microsoft Excel|Excel]], it's going to give you a structure of how that data should be structured.
 >
 > **[10:40](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-1-crafting-the-project-spec-with-ai?u=76281980&t=640)** It's going to give you a design, so how are we going to design the overall application.
 >
@@ -682,7 +677,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (20), application (19), next (12), prompt (10), data (4)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Zoom]] (3), [[Google]] (2), [[Real-Time]] (1), [[Gemini]] (1)
 > **Documentation:** specification (9), spec (3)
 > **CLI Commands:** cd (2), find (1), make (1)
 > **UI Navigation:** go to (4)
@@ -691,8 +686,7 @@ created: 2026-05-02
 > **Versions:** 2.5 (3)
 > **Definitions:** is an  (1), is a  (1)
 
-#### Step 2: Developing the AI blueprint
-> [LinkedIn Learning](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-2-developing-the-ai-blueprint?u=76281980)
+#### [Step 2: Developing the AI blueprint](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-2-developing-the-ai-blueprint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -700,7 +694,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-2-developing-the-ai-blueprint?u=76281980&t=5)** Now these are just some options.
 >
-> **[0:07](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-2-developing-the-ai-blueprint?u=76281980&t=7)** We have o3, we have 2.5 Pro from Gemini, Grok 3.
+> **[0:07](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-2-developing-the-ai-blueprint?u=76281980&t=7)** We have o3, we have 2.5 Pro from [[Gemini]], Grok 3.
 >
 > **[0:10](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-2-developing-the-ai-blueprint?u=76281980&t=10)** Not even listed here, but another great one to use is 3.7 Sonnet from Claude, and a variety of others that are very strong, intelligent reasoning models that can think through specifically what is needed for the blueprint and how to build this application in the most effective way.
 >
@@ -752,13 +746,13 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-2-developing-the-ai-blueprint?u=76281980&t=172)** So if it's going to write the test first, the test should constrain the AI when it writes the code for the function to say, "This is exactly what the code should do, so write this test first, then write the code."
 >
-> **[3:02](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-2-developing-the-ai-blueprint?u=76281980&t=182)** That's called test-driven development.
+> **[3:02](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-2-developing-the-ai-blueprint?u=76281980&t=182)** That's called [[Test-Driven Development]].
 >
 > **[3:04](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-2-developing-the-ai-blueprint?u=76281980&t=184)** So we write the test, then we write the function.
 >
 > **[3:08](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-2-developing-the-ai-blueprint?u=76281980&t=188)** And then after we've written the function, we then run that function against the test we've previously written.
 >
-> **[3:12](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-2-developing-the-ai-blueprint?u=76281980&t=192)** This is kind of a distilled version of reinforcement learning.
+> **[3:12](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-2-developing-the-ai-blueprint?u=76281980&t=192)** This is kind of a distilled version of [[Reinforcement Learning]].
 >
 > **[3:16](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-2-developing-the-ai-blueprint?u=76281980&t=196)** It's not as sophisticated as it, but it's the the abstract concept of reinforcement learning, where we're having the AI run the function against the test that it wrote previously.
 >
@@ -774,7 +768,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-2-developing-the-ai-blueprint?u=76281980&t=230)** And you can also allow the AI to add to this markdown and mark off different check boxes as it progresses.
 >
-> **[3:57](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-2-developing-the-ai-blueprint?u=76281980&t=237)** And then lastly is a little piece that I've added myself to the system prompt, which is sometimes when you use certain variants of AI, such as Gemini 2.5 Pro or even ChatGPT o3, when it writes the blueprint, it won't finish the entire piece.
+> **[3:57](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-2-developing-the-ai-blueprint?u=76281980&t=237)** And then lastly is a little piece that I've added myself to the system prompt, which is sometimes when you use certain variants of AI, such as Gemini 2.5 Pro or even [[ChatGPT]] o3, when it writes the blueprint, it won't finish the entire piece.
 >
 > **[4:08](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-2-developing-the-ai-blueprint?u=76281980&t=248)** So it'll write some stuff, but it won't write the entire blueprint.
 >
@@ -864,7 +858,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), prompt (11), application (5), [[Gemini]] (3), [[ChatGPT]] (3)
+> **Frameworks & Libraries:** [[Gemini]] (3), [[ChatGPT]] (3), [[Reinforcement Learning]] (2), [[Test-Driven Development]] (1)
 > **Versions:** 3.7 (4), 2.5 (3)
 > **Documentation:** specification (3), spec (2)
 > **Env Vars:** spec (1), llm (1), ide (1)
@@ -873,8 +867,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 
-#### Step 3: Creating the roadmap and final setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-3-creating-the-road-map-and-final-setup?u=76281980)
+#### [Step 3: Creating the roadmap and final setup](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/step-3-creating-the-road-map-and-final-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -930,7 +923,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), cloud (2), application (2), prompt (1), next (1)
 > **Documentation:** specification (3)
 > **UI Navigation:** go to (2)
 > **File Paths:** todo.md (1)
@@ -939,14 +931,13 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - and (1)
 
-#### Tips for your AI vibe coding journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/tips-for-your-ai-vibe-coding-journey?u=76281980)
+#### [Tips for your AI vibe coding journey](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/tips-for-your-ai-vibe-coding-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/tips-for-your-ai-vibe-coding-journey?u=76281980&t=0)** - At the end of this course, I want to leave you with some tips.
 >
-> **[0:03](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/tips-for-your-ai-vibe-coding-journey?u=76281980&t=3)** Some tips that'll guide you on this journey of vibe coding.
+> **[0:03](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/tips-for-your-ai-vibe-coding-journey?u=76281980&t=3)** Some tips that'll guide you on this journey of [[Vibe Coding]].
 >
 > **[0:06](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/tips-for-your-ai-vibe-coding-journey?u=76281980&t=6)** So, the first one I want to walk you through are the different tools that you can use for this specific process.
 >
@@ -1064,7 +1055,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Vibe Coding]] (3), next (3), api (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[Vibe Coding]] (3)
 > **Versions:** 2.5 (8), 3.7 (3), 4.1 (1), 3.5 (1)
 > **Env Vars:** api (3)
 > **CLI Commands:** make (1), find (1)
@@ -1078,8 +1069,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Move forward with structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/move-forward-with-structure?u=76281980)
+#### [Move forward with structure](https://www.linkedin.com/learning/structure-vibe-coding-to-save-build-time/move-forward-with-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1097,7 +1087,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Automation]] (1), application (1)
 > **Speakers:** - here (1)
 
 

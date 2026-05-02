@@ -106,16 +106,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your first project on Kubernetes
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/your-first-project-on-kubernetes?u=76281980)
+#### [Your first project on Kubernetes](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/your-first-project-on-kubernetes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/your-first-project-on-kubernetes?u=76281980&t=0)** - [Carlos] Kubernetes is everywhere.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/your-first-project-on-kubernetes?u=76281980&t=0)** - [Carlos] [[Kubernetes]] is everywhere.
 >
 > **[0:03](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/your-first-project-on-kubernetes?u=76281980&t=3)** Containers are revolutionizing how developers create and ship their software to the world.
 >
-> **[0:09](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/your-first-project-on-kubernetes?u=76281980&t=9)** Teams that used to require a data center full of VMs and hardware to run their most important business applications can now do so on any Kubernetes cluster on any cloud.
+> **[0:09](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/your-first-project-on-kubernetes?u=76281980&t=9)** Teams that used to require a data center full of VMs and [[Hardware]] to run their most important business applications can now do so on any Kubernetes cluster on any cloud.
 >
 > **[0:22](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/your-first-project-on-kubernetes?u=76281980&t=22)** You might've heard your friends or colleagues tell you that Kubernetes is hard or complicated.
 >
@@ -135,14 +134,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (9), teams (2), data (1), [[Hardware]] (1), business (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (9), [[Hardware]] (1)
 > **CLI Commands:** docker (3), aws (1)
 > **URLs:** [explorercalifornia.com](https://explorercalifornia.com) (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - [carlos] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -154,11 +152,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-you-should-know?u=76281980&t=13)** If the terminal is new to you, check out the Bash Academy Guide at the bottom of this page to learn more.
 >
-> **[0:18](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-you-should-know?u=76281980&t=18)** You will also need to have an Amazon Web Services account if you wish to deploy Explore California into production.
+> **[0:18](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-you-should-know?u=76281980&t=18)** You will also need to have an [[Amazon Web Services (AWS)|Amazon Web Services]] account if you wish to deploy Explore California into production.
 >
 > **[0:25](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-you-should-know?u=76281980&t=25)** AWS is a popular provider of managed services that run in their vast and widely distributed data center network across the world.
 >
-> **[0:31](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-you-should-know?u=76281980&t=31)** We will be using their Elastic Kubernetes Service, or EKS, to deploy our website into a real Kubernetes cluster.
+> **[0:31](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-you-should-know?u=76281980&t=31)** We will be using their Elastic [[Kubernetes]] Service, or EKS, to deploy our website into a real Kubernetes cluster.
 >
 > **[0:38](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-you-should-know?u=76281980&t=38)** If this sounds interesting to you, you'll need to create an AWS account.
 >
@@ -168,7 +166,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-you-should-know?u=76281980&t=50)** At this time of recording, an EKS cluster costs around 10 cents an hour to operate.
 >
-> **[0:55](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-you-should-know?u=76281980&t=55)** The EC2 instances that are created with the scripts provided by this course should cost about 2 cents an hour on top of that in order to operate it.
+> **[0:55](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-you-should-know?u=76281980&t=55)** The [[Amazon EC2|EC2]] instances that are created with the scripts provided by this course should cost about 2 cents an hour on top of that in order to operate it.
 >
 > **[1:03](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-you-should-know?u=76281980&t=63)** If you have access to another Kubernetes cluster, such as a Raspberry Pi cluster or a Bare-Metal cluster in your own lab, or even one provided by your company, you can use that as well.
 >
@@ -176,7 +174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (3), aws (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), data (1), [[Amazon EC2|Ec2]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (3), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** aws (2), eks (2), ec2 (1)
 > **CLI Commands:** aws (2), make (1)
 > **Tools:** terminal (2), bash (1)
@@ -185,12 +183,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** you'll need (1)
 
-#### Configuring AWS access
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-aws-access?u=76281980)
+#### [Configuring AWS access](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-aws-access?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-aws-access?u=76281980&t=0)** - [Instructor] In this course, we will deploy Explore California into a real Kubernetes cluster inside of Elastic Kubernetes Service.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-aws-access?u=76281980&t=0)** - [Instructor] In this course, we will deploy Explore California into a real [[Kubernetes]] cluster inside of Elastic Kubernetes Service.
 >
 > **[0:08](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-aws-access?u=76281980&t=8)** If you would like to do this, you'll need to create a programmatic access key and secret key within AWS.
 >
@@ -224,7 +221,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-aws-access?u=76281980&t=77)** Next, you'll be asked to provide the access type.
 >
-> **[1:20](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-aws-access?u=76281980&t=80)** Since we want an access key and a secret key that we'll use with our AWS CLI tool.
+> **[1:20](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-aws-access?u=76281980&t=80)** Since we want an access key and a secret key that we'll use with our AWS [[CLI]] tool.
 >
 > **[1:26](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-aws-access?u=76281980&t=86)** We're going to click on programmatic access right here, we're going to check that off.
 >
@@ -264,7 +261,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-aws-access?u=76281980&t=174)** If you're on a Mac, you can press the Command + Space button and then type terminal.
 >
-> **[3:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-aws-access?u=76281980&t=180)** If you're on windows, you should install a program called Git Bash, which comes with the bash shell, which is the same shell that I'll be using for this course.
+> **[3:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-aws-access?u=76281980&t=180)** If you're on [[Windows]], you should install a program called [[Git]] Bash, which comes with the bash shell, which is the same shell that I'll be using for this course.
 >
 > **[3:08](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-aws-access?u=76281980&t=188)** Once you have that installed, you can click on Start, then Run, then type in Git Bash in the text box and click on the first result..
 >
@@ -304,13 +301,13 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-aws-access?u=76281980&t=276)** So right now, in my case, I am using the Ohio region, which is called us-east-2.
 >
-> **[4:42](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-aws-access?u=76281980&t=282)** So what I'm going to do is I'm going to remember that it is us-east-2 'cause I'm having hard time copying it right now, and then I'm going to type it in here and then press Enter, and then you're going to be asked for the output format, just leave it as JSON, it's pretty readable.
+> **[4:42](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-aws-access?u=76281980&t=282)** So what I'm going to do is I'm going to remember that it is us-east-2 'cause I'm having hard time copying it right now, and then I'm going to type it in here and then press Enter, and then you're going to be asked for the output format, just leave it as [[JSON]], it's pretty readable.
 >
 > **[4:57](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-aws-access?u=76281980&t=297)** So once you hit Enter, you are done configuring the tool.
 >
 > **[5:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-aws-access?u=76281980&t=300)** Now the user that we created doesn't have any permissions to do anything by design, we didn't give it any.
 >
-> **[5:05](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-aws-access?u=76281980&t=305)** So in order to demonstrate that I'm going to try and list the set of instances that I've spun up on EC2, which I haven't done any.
+> **[5:05](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-aws-access?u=76281980&t=305)** So in order to demonstrate that I'm going to try and list the set of instances that I've spun up on [[Amazon EC2|EC2]], which I haven't done any.
 >
 > **[5:14](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-aws-access?u=76281980&t=314)** But as you can see, when I run that command, it tells me that I'm not authorized to perform that operation because I'm not, I don't have any permissions to do that.
 >
@@ -416,7 +413,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (16), next (13), [[CLI]] (4), [[JSON]] (3), hit (3)
+> **Frameworks & Libraries:** [[CLI]] (4), [[JSON]] (3), [[Kubernetes]] (2), [[Git]] (2), [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** aws (14), cli (4), json (3), iam (2), ec2 (2)
 > **UI Navigation:** click on (26), navigate to (1), go to (1)
 > **CLI Commands:** aws (16), git (2), make (1)
@@ -430,8 +427,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Our application: Pre-Kubernetes
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980)
+#### [Our application: Pre-Kubernetes](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -441,15 +437,15 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980&t=15)** First, their website [explorecalifornia.com](https://explorecalifornia.com) and friends are now entirely on AWS.
 >
-> **[0:22](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980&t=22)** This infrastructure is deployed entirely through code with Terraform and Jenkins.
+> **[0:22](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980&t=22)** This infrastructure is deployed entirely through code with [[Terraform]] and [[Jenkins]].
 >
-> **[0:26](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980&t=26)** Moreover, development teams migrated away from their manual suite of unit and integration tests in favor of executing Capybara and Selenium tests against local copies of their website running inside of Docker containers.
+> **[0:26](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980&t=26)** Moreover, development teams migrated away from their manual suite of unit and integration tests in favor of executing Capybara and [[Selenium]] tests against local copies of their website running inside of Docker containers.
 >
 > **[0:39](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980&t=39)** Life is pretty good at "Explore California", except for one thing, environments.
 >
 > **[0:44](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980&t=44)** Environments have been a problem for developers for three reasons, resource scarcity, time-consuming maintenance, and faulty tests.
 >
-> **[0:52](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980&t=52)** Even though developers are using Docker containers for local testing, what customers actually use is running on AWS EC2 virtual machines or stored inside of S3 buckets.
+> **[0:52](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980&t=52)** Even though developers are using Docker containers for local testing, what customers actually use is running on AWS [[Amazon EC2|EC2]] [[Virtual Machines]] or stored inside of S3 buckets.
 >
 > **[1:02](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980&t=62)** Consequently, developers still have to deploy code into virtual machines before their code can get into production.
 >
@@ -473,13 +469,13 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980&t=110)** Local tasks failing because of all the software in, quote-unquote, DEV being down.
 >
-> **[1:55](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980&t=115)** Some tasks that developers execute locally make use of other software in so-called DEV, like databases and message queues.
+> **[1:55](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980&t=115)** Some tasks that developers execute locally make use of other software in so-called DEV, like [[Databases]] and message queues.
 >
 > **[2:03](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980&t=123)** When these services go down, tasks fail unexpectedly.
 >
 > **[2:06](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980&t=126)** More waiting occurs as a result.
 >
-> **[2:09](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980&t=129)** The CTO of "Explore California" recently learned that other teams at other travel companies are using this thing called, quote-unquote, Kubernetes to run Docker containers in production, like VMs in a data center.
+> **[2:09](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980&t=129)** The CTO of "Explore California" recently learned that other teams at other travel companies are using this thing called, quote-unquote, [[Kubernetes]] to run Docker containers in production, like VMs in a data center.
 >
 > **[2:20](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980&t=140)** Engineering leadership has also received a tip a few days ago that "Explore Texas", their biggest competitor, has been using Kubernetes for years.
 >
@@ -487,7 +483,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980&t=162)** Given this new found knowledge, the CTO gave her teams a challenge.
 >
-> **[2:47](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980&t=167)** "Hey teams, let's try getting .com onto Kubernetes, AWS as EKS, or Elastic Kubernetes Service, so we won't have to make too many changes to the rest of our front.
+> **[2:47](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980&t=167)** "Hey teams, let's try getting .com onto Kubernetes, AWS as EKS, or Elastic Kubernetes Service, so we won't have to make too many changes to the [[Representational State Transfer (REST)|rest]] of our front.
 >
 > **[2:58](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-pre-kubernetes?u=76281980&t=178)** If it's as hard as our friends lead on, we'll double down on our VM automation.
 >
@@ -505,14 +501,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (8), [[Virtual Machines]] (6), teams (5), aws (3), [[Engineering]] (3)
+> **Frameworks & Libraries:** [[Kubernetes]] (8), [[Virtual Machines]] (6), [[Terraform]] (1), [[Jenkins]] (1), [[Selenium]] (1)
 > **CLI Commands:** aws (3), docker (3), make (2), terraform (1), find (1)
 > **Env Vars:** aws (3), dev (2), cto (2), ec2 (1), eks (1)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Our application: Post-Kubernetes
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-post-kubernetes?u=76281980)
+#### [Our application: Post-Kubernetes](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-post-kubernetes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -522,21 +517,21 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-post-kubernetes?u=76281980&t=16)** She was also excited for developers to more easily obtain, production like test environments.
 >
-> **[0:21](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-post-kubernetes?u=76281980&t=21)** The Kubernetes experiment was a raging success for Explore California.
+> **[0:21](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-post-kubernetes?u=76281980&t=21)** The [[Kubernetes]] experiment was a raging success for Explore California.
 >
 > **[0:25](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-post-kubernetes?u=76281980&t=25)** Not only were they able to move [explorecalifornia.com](https://explorecalifornia.com) and to Kubernetes with all but a few minor bombs, they were also able to migrate over half of their online services along with it, [explorecalifornia.com](https://explorecalifornia.com), the company's flagship website now runs as a Kubernetes deployment.
 >
-> **[0:42](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-post-kubernetes?u=76281980&t=42)** Instead of having to use complicated, EC2 auto scaling rules for its dynamic back-end services, the website's deployment creates more replicas of itself, based on the average number of hits to the website.
+> **[0:42](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-post-kubernetes?u=76281980&t=42)** Instead of having to use complicated, [[Amazon EC2|EC2]] auto scaling rules for its dynamic back-end services, the website's deployment creates more replicas of itself, based on the average number of hits to the website.
 >
 > **[0:54](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-post-kubernetes?u=76281980&t=54)** Additionally, thanks to the flexibility provided through the websites ingress resource, Explore California can run experiments on a website that weren't easily possible previously like; AB tests and rolling updates.
 >
 > **[1:06](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-post-kubernetes?u=76281980&t=66)** Deploying applications through continuous deliveries is easier too.
 >
-> **[1:10](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-post-kubernetes?u=76281980&t=70)** Previously Explore California development teams used well-written but increasingly complex Ansible playbooks to deploy their applications from environment to environment.
+> **[1:10](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-post-kubernetes?u=76281980&t=70)** Previously Explore California development teams used well-written but increasingly complex [[Ansible]] playbooks to deploy their applications from environment to environment.
 >
 > **[1:19](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-post-kubernetes?u=76281980&t=79)** While some of these developers were able to grok Ansible fairly easily, many enlisted the help of explore California's operations team, whenever the playbooks needed to be changed.
 >
-> **[1:29](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-post-kubernetes?u=76281980&t=89)** After migrating to Kubernetes Explore California developers used Helm charts and Docker files to describe it installed their applications in T chaos.
+> **[1:29](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-post-kubernetes?u=76281980&t=89)** After migrating to Kubernetes Explore California developers used [[Helm]] charts and Docker files to describe it installed their applications in T chaos.
 >
 > **[1:38](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-post-kubernetes?u=76281980&t=98)** Deployment teams are also able to control almost everything their application needs with Helm, from the number of instances in their application and their environments to their underlying network configurations.
 >
@@ -562,7 +557,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-post-kubernetes?u=76281980&t=148)** Even with ingress and local storage.
 >
-> **[2:30](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-post-kubernetes?u=76281980&t=150)** It's not Docker compose easy, but it's nowhere near what I thought it was going to be.
+> **[2:30](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-post-kubernetes?u=76281980&t=150)** It's not Docker [[Jetpack Compose|compose]] easy, but it's nowhere near what I thought it was going to be.
 >
 > **[2:35](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/our-application-post-kubernetes?u=76281980&t=155)** "I'm glad that we did this challenge. He concluded.
 >
@@ -580,7 +575,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (10), teams (6), [[Engineering]] (2), [[Ansible]] (2), [[Helm]] (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (10), [[Ansible]] (2), [[Helm]] (2), [[Amazon EC2|Ec2]] (1), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** docker (3), ansible (2)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (3)
 > **Env Vars:** cto (1), ec2 (1), svp (1)
@@ -591,20 +586,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How Docker containers work
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/how-docker-containers-work?u=76281980)
+#### [How Docker containers work](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/how-docker-containers-work?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/how-docker-containers-work?u=76281980&t=0)** - [Instructor] Before we delve into getting explorecalifornia onto Kubernetes, let's briefly recap containers and how they work.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/how-docker-containers-work?u=76281980&t=0)** - [Instructor] Before we delve into getting explorecalifornia onto [[Kubernetes]], let's briefly recap containers and how they work.
 >
 > **[0:07](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/how-docker-containers-work?u=76281980&t=7)** Since we'll be using some of these concepts throughout our mission, it's a good idea to review them upfront.
 >
 > **[0:11](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/how-docker-containers-work?u=76281980&t=11)** Containers are virtualized instances of operating system kernels.
 >
-> **[0:15](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/how-docker-containers-work?u=76281980&t=15)** Unlike virtual machines, while containers look like separate smaller instances of Linux or Windows, they consume resources like processor time, memory, and disk space directly from their parent host as you can see in the diagram on the right.
+> **[0:15](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/how-docker-containers-work?u=76281980&t=15)** Unlike [[Virtual Machines]], while containers look like separate smaller instances of [[Linux]] or [[Windows]], they consume resources like processor time, memory, and disk space directly from their parent host as you can see in the diagram on the right.
 >
-> **[0:29](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/how-docker-containers-work?u=76281980&t=29)** From your computer's perspective, containers look like separate apps running along same Word, Outlook, and the instance of Chrome that you're watching this course from.
+> **[0:29](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/how-docker-containers-work?u=76281980&t=29)** From your computer's perspective, containers look like separate apps running along same [[Microsoft Word|Word]], [[Microsoft Outlook|Outlook]], and the instance of Chrome that you're watching this course from.
 >
 > **[0:37](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/how-docker-containers-work?u=76281980&t=37)** Well, what does that all even mean?
 >
@@ -688,11 +682,11 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/how-docker-containers-work?u=76281980&t=330)** Instead of having to worry about crafting local VMs that are just like the machines, running your software in production, or having the laptop big enough to run those VMs in the first place, you can store your application and everything that it needs into a Docker image and run that wherever Docker is installed.
 >
-> **[5:46](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/how-docker-containers-work?u=76281980&t=346)** The same Docker image that you can run on your machine can also run on production hardware, which has massive.
+> **[5:46](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/how-docker-containers-work?u=76281980&t=346)** The same Docker image that you can run on your machine can also run on production [[Hardware]], which has massive.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (5), [[Virtual Machines]] (3), application (3), [[Kubernetes]] (2), web (2)
+> **Frameworks & Libraries:** [[Linux]] (5), [[Virtual Machines]] (3), [[Kubernetes]] (2), [[Windows]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** docker (21), nginx (1)
 > **Env Vars:** txt (4), tmp (3), api (1)
 > **Analogies:** just like (2), such as (1), imagine (1)
@@ -701,8 +695,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is Kubernetes?
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-kubernetes?u=76281980)
+#### [What is Kubernetes?](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-kubernetes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -718,11 +711,11 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-kubernetes?u=76281980&t=35)** There are many examples of container orchestrators out there today.
 >
-> **[0:38](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-kubernetes?u=76281980&t=38)** However, Kubernetes is by far the most popular option.
+> **[0:38](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-kubernetes?u=76281980&t=38)** However, [[Kubernetes]] is by far the most popular option.
 >
 > **[0:41](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-kubernetes?u=76281980&t=41)** Kubernetes is a planet scale container orchestration system.
 >
-> **[0:45](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-kubernetes?u=76281980&t=45)** Originally inspired by Google's in-house container orchestration platform called Borg, Kubernetes aims to make creating and managing containers for any workload as easy as managing virtual or physical machines in a data center.
+> **[0:45](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-kubernetes?u=76281980&t=45)** Originally inspired by [[Google]]'s in-house container orchestration platform called Borg, Kubernetes aims to make creating and managing containers for any workload as easy as managing virtual or physical machines in a data center.
 >
 > **[0:59](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-kubernetes?u=76281980&t=59)** Unlike similar platforms, Kubernetes can manage clusters of up to 5,000 nodes and up to 150,000 pods.
 >
@@ -762,7 +755,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-kubernetes?u=76281980&t=170)** Speaking of routine applications on Kubernetes from the outside world, Kubernetes provides really convenient objects called ingresses for explicitly this.
 >
-> **[3:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-kubernetes?u=76281980&t=180)** Ingresses are HTTP reversed proxies that allow the outside world to reach Kubernetes pods through one or more routing rules.
+> **[3:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-kubernetes?u=76281980&t=180)** Ingresses are HTTP reversed proxies that allow the outside world to reach Kubernetes pods through one or more [[Routing]] rules.
 >
 > **[3:07](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-kubernetes?u=76281980&t=187)** These rules are created and managed through things called ingress controllers.
 >
@@ -786,7 +779,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (23), application (4), [[Orchestration]] (3), data (2), teams (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (23), [[Google]] (1), [[Routing]] (1)
 > **CLI Commands:** docker (3), find (1), make (1)
 > **Env Vars:** dns (1), http (1), idrl (1)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (1), [https://kubernetes.io](https://kubernetes.io) (1)
@@ -799,8 +792,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-docker?u=76281980)
+#### [Installing Docker](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -808,13 +800,13 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-docker?u=76281980&t=3)** Because we're using a Mac for this journey, I'm going to install Docker for Mac.
 >
-> **[0:07](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-docker?u=76281980&t=7)** Docker for Mac installs two things, a really small Linux virtual machine for hosting and running Docker containers and a command line client that interacts with it.
+> **[0:07](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-docker?u=76281980&t=7)** Docker for Mac installs two things, a really small [[Linux]] virtual machine for hosting and running Docker containers and a command line client that interacts with it.
 >
-> **[0:16](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-docker?u=76281980&t=16)** It also installs Docker Compose, a tool for linking multiple containers together as if it were a single application stack.
+> **[0:16](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-docker?u=76281980&t=16)** It also installs Docker [[Jetpack Compose|Compose]], a tool for linking multiple containers together as if it were a single application stack.
 >
-> **[0:22](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-docker?u=76281980&t=22)** Are you running this on a Windows machine?
+> **[0:22](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-docker?u=76281980&t=22)** Are you running this on a [[Windows]] machine?
 >
-> **[0:24](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-docker?u=76281980&t=24)** If your machine is running Windows 10 or later, you can install Docker for Windows, which is more or less the same thing as Docker for Mac.
+> **[0:24](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-docker?u=76281980&t=24)** If your machine is running [[Windows 10]] or later, you can install Docker for Windows, which is more or less the same thing as Docker for Mac.
 >
 > **[0:30](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-docker?u=76281980&t=30)** If you're running Windows 7 or Windows 8, you'll need to install Docker Machine instead which is slightly more involved but behaves more or less the same once everything's up and running.
 >
@@ -826,7 +818,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-docker?u=76281980&t=58)** Side note, if you're a Windows user, then you should give Chocolatey a try.
 >
-> **[1:03](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-docker?u=76281980&t=63)** It's the same concept except more .net-y, if that's a word.
+> **[1:03](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-docker?u=76281980&t=63)** It's the same concept except more .net-y, if that's a [[Microsoft Word|word]].
 >
 > **[1:06](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-docker?u=76281980&t=66)** Now let's get to the fun stuff.
 >
@@ -872,7 +864,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), [[Linux]] (2), application (2), hit (2), [[Jetpack Compose|Compose]] (1)
+> **Frameworks & Libraries:** [[Windows]] (5), [[Linux]] (2), [[Jetpack Compose|Compose]] (1), [[Windows 10]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** docker (20), brew (3), yum (1)
 > **Prerequisites:** install (13), you'll need (2)
 > **Tools:** command line (2), terminal (1)
@@ -881,8 +873,7 @@ created: 2026-05-02
 > **Env Vars:** yum (1)
 > **Exercise Files:** download the (1)
 
-#### Writing our project's Dockerfile
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-dockerfile?u=76281980)
+#### [Writing our project's Dockerfile](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-dockerfile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -896,13 +887,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-dockerfile?u=76281980&t=15)** First it will read and parse this docker file.
 >
-> **[0:18](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-dockerfile?u=76281980&t=18)** Second, it will fetch the parent image that the Docker file requested, which in this example is, in the nginx:alpine image, or the image named scratch, if you're starting from a blank slate.
+> **[0:18](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-dockerfile?u=76281980&t=18)** Second, it will [[Fetch]] the parent image that the Docker file requested, which in this example is, in the nginx:alpine image, or the image named scratch, if you're starting from a blank slate.
 >
 > **[0:30](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-dockerfile?u=76281980&t=30)** Third it'll run any commands within the Docker file on top of that image, such as the copy commands demonstrated here on lines four and five.
 >
 > **[0:39](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-dockerfile?u=76281980&t=39)** And finally if defined, it will set a process that will run whenever this container runs along with any arguments provided to it.
 >
-> **[0:46](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-dockerfile?u=76281980&t=46)** Unlike traditional configuration management tools like Chef, Puppet or Ansible, all configuration dependencies, and other environment settings that your application needs to run itself can be defined within the Docker file.
+> **[0:46](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-dockerfile?u=76281980&t=46)** Unlike traditional [[Configuration Management]] tools like Chef, Puppet or [[Ansible]], all configuration dependencies, and other environment settings that your application needs to run itself can be defined within the Docker file.
 >
 > **[0:59](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-dockerfile?u=76281980&t=59)** Additionally, while you can write scripts that will perform the installation steps within the Docker file.
 >
@@ -942,7 +933,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-dockerfile?u=76281980&t=137)** Docker can also retrieve Docker images from private repositories.
 >
-> **[2:21](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-dockerfile?u=76281980&t=141)** We'll actually use this feature later in our course to run, explorecalifornia inside of a local Kubernetes cluster, which is really exciting.
+> **[2:21](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-dockerfile?u=76281980&t=141)** We'll actually use this feature later in our course to run, explorecalifornia inside of a local [[Kubernetes]] cluster, which is really exciting.
 >
 > **[2:28](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-dockerfile?u=76281980&t=148)** You don't always need to start from another image.
 >
@@ -1012,7 +1003,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), application (2), [[Fetch]] (1), [[Configuration Management]] (1), [[Ansible]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[Configuration Management]] (1), [[Ansible]] (1), [[Kubernetes]] (1)
 > **CLI Commands:** docker (28), nginx (10), make (4), ansible (1)
 > **Cross-References:** we talked about (1), later in (1), go back to (1)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (1), [docker.com](https://docker.com) (1)
@@ -1021,8 +1012,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Prerequisites:** configure (1)
 
-#### Building the Docker image from the Dockerfile
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/building-the-docker-image-from-the-dockerfile?u=76281980)
+#### [Building the Docker image from the Dockerfile](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/building-the-docker-image-from-the-dockerfile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1072,7 +1062,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/building-the-docker-image-from-the-dockerfile?u=76281980&t=118)** Some of them are from Docker Hub.
 >
-> **[2:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/building-the-docker-image-from-the-dockerfile?u=76281980&t=120)** Some of them I've already had on my machine and so it didn't need to fetch it again.
+> **[2:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/building-the-docker-image-from-the-dockerfile?u=76281980&t=120)** Some of them I've already had on my machine and so it didn't need to [[Fetch]] it again.
 >
 > **[2:04](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/building-the-docker-image-from-the-dockerfile?u=76281980&t=124)** But once it's done, you'll see that the last step is naming the image to [explorecalifornia.com](https://explorecalifornia.com).
 >
@@ -1139,8 +1129,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Analogies:** just like (2)
 
-#### Writing our project's makefile
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-makefile?u=76281980)
+#### [Writing our project's makefile](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-makefile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1150,11 +1139,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-makefile?u=76281980&t=5)** Many popular projects use Make to create software you know and love.
 >
-> **[0:09](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-makefile?u=76281980&t=9)** Mozilla Firefox, Haskell, and even Kubernetes are some examples of software compiled with Make.
+> **[0:09](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-makefile?u=76281980&t=9)** Mozilla Firefox, Haskell, and even [[Kubernetes]] are some examples of software compiled with Make.
 >
 > **[0:14](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-makefile?u=76281980&t=14)** In fact, this image right here is directly from the Kubernetes project.
 >
-> **[0:19](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-makefile?u=76281980&t=19)** Go into GitHub/Kubernetes/Kubernetes, and you can see this and much more.
+> **[0:19](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-makefile?u=76281980&t=19)** Go into [[GitHub]]/Kubernetes/Kubernetes, and you can see this and much more.
 >
 > **[0:25](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-makefile?u=76281980&t=25)** Make can also be used to perform one-off actions, such as creating files and running scripts.
 >
@@ -1190,7 +1179,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-makefile?u=76281980&t=90)** Let's explain what we just wrote here.
 >
-> **[1:32](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-makefile?u=76281980&t=92)** So the word behind the colon and my first line here, that's called a target.
+> **[1:32](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-makefile?u=76281980&t=92)** So the [[Microsoft Word|word]] behind the colon and my first line here, that's called a target.
 >
 > **[1:37](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/writing-our-project-s-makefile?u=76281980&t=97)** By default, this is the file that Make expects to exist after this role is executed.
 >
@@ -1224,7 +1213,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (4), [[GitHub]] (1), feature (1), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (4), [[GitHub]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (16), docker (7)
 > **Code Identifiers:** run_website (5)
 > **Definitions:** is a  (2), is called (2)
@@ -1233,8 +1222,7 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing the website with make
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/testing-the-website-with-make?u=76281980)
+#### [Testing the website with make](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/testing-the-website-with-make?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1290,7 +1278,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (8)
 > **Code Identifiers:** run_website (3)
 > **Definitions:** is a  (2)
@@ -1298,9 +1285,9 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** terminal (1)
 > **Analogies:** for example (1)
+> **Speakers:** - [instructor] (1)
 
-#### Challenge: Write a teardown make target
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/challenge-write-a-teardown-make-target?u=76281980)
+#### [Challenge: Write a teardown make target](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/challenge-write-a-teardown-make-target?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1323,8 +1310,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Write a teardown make target
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/solution-write-a-teardown-make-target?u=76281980)
+#### [Solution: Write a teardown make target](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/solution-write-a-teardown-make-target?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1400,12 +1386,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is kind?
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-kind?u=76281980)
+#### [What is kind?](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-kind?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-kind?u=76281980&t=0)** - [Instructor] Now that our website successfully runs in Docker, we are ready to run it inside of Kubernetes.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-kind?u=76281980&t=0)** - [Instructor] Now that our website successfully runs in Docker, we are ready to run it inside of [[Kubernetes]].
 >
 > **[0:05](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-kind?u=76281980&t=5)** Creating a Kubernetes cluster in AWS is currently around 10 cents an hour.
 >
@@ -1447,27 +1432,26 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-kind?u=76281980&t=94)** That's it.
 >
-> **[1:35](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-kind?u=76281980&t=95)** Fortunately, most of the work that we'll be doing with our client cluster will be done with the kubectl tool, as well as with helm, both of which we'll talk about later.
+> **[1:35](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-kind?u=76281980&t=95)** Fortunately, most of the work that we'll be doing with our client cluster will be done with the kubectl tool, as well as with [[Helm]], both of which we'll talk about later.
 >
 > **[1:44](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-kind?u=76281980&t=104)** Now that we know more about kind and how it works, let's use it to run Explore California.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (9), feature (2), aws (1), application (1), [[Helm]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (9), [[Helm]] (1)
 > **CLI Commands:** docker (6), aws (1), kubectl (1)
 > **Env Vars:** k3s (5), aws (1), k0s (1)
 > **Tools:** command line (1)
 > **Definitions:** short for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing kind
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-kind?u=76281980)
+#### [Installing kind](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-kind?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-kind?u=76281980&t=0)** - [Instructor] First, we will need to install the latest version of kind from their website.
 >
-> **[0:04](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-kind?u=76281980&t=4)** Let's open a browser and visit kind.sigs.k8s, that's short for Kubernetes, .io.
+> **[0:04](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-kind?u=76281980&t=4)** Let's open a browser and visit kind.sigs.k8s, that's short for [[Kubernetes]], .io.
 >
 > **[0:11](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-kind?u=76281980&t=11)** Next we're going to click on Quick Start over here on the left.
 >
@@ -1477,7 +1461,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-kind?u=76281980&t=24)** Instead, we are going to scroll down a bit for a link to the releases page, which is right here.
 >
-> **[0:28](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-kind?u=76281980&t=28)** That's going to bring us to kind's GitHub page.
+> **[0:28](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-kind?u=76281980&t=28)** That's going to bring us to kind's [[GitHub]] page.
 >
 > **[0:31](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-kind?u=76281980&t=31)** The latest version right now is version 0.11.1.
 >
@@ -1489,9 +1473,9 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-kind?u=76281980&t=55)** Now, if you're running this on a regular Mac, right click on the 'darwin-amd64' variant instead.
 >
-> **[1:02](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-kind?u=76281980&t=62)** If you arr running this on Windows, right click on the windows-amd64 variant below.
+> **[1:02](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-kind?u=76281980&t=62)** If you arr running this on [[Windows]], right click on the windows-amd64 variant below.
 >
-> **[1:08](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-kind?u=76281980&t=68)** And of course if you're running this on Linux, you have several options, so make sure that you pack the version that's right for your CPU.
+> **[1:08](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-kind?u=76281980&t=68)** And of course if you're running this on [[Linux]], you have several options, so make sure that you pack the version that's right for your CPU.
 >
 > **[1:14](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/installing-kind?u=76281980&t=74)** Now let's head to our terminal.
 >
@@ -1559,7 +1543,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), next (2), [[Windows]] (2), hit (2), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Kubernetes]] (1), [[GitHub]] (1), [[Linux]] (1)
 > **CLI Commands:** make (6), curl (6), chmod (3)
 > **UI Navigation:** click on (6), scroll down (2)
 > **Tools:** terminal (2), github (1), command line (1)
@@ -1568,8 +1552,7 @@ created: 2026-05-02
 > **Prerequisites:** install (3)
 > **Env Vars:** url (1), cpu (1)
 
-#### Creating the kind cluster
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-kind-cluster?u=76281980)
+#### [Creating the kind cluster](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-kind-cluster?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1613,7 +1596,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-kind-cluster?u=76281980&t=100)** We will need a tool called kubectl to do this.
 >
-> **[1:42](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-kind-cluster?u=76281980&t=102)** kubectl is a canonical command line client for interacting with Kubernetes clusters.
+> **[1:42](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-kind-cluster?u=76281980&t=102)** kubectl is a canonical command line client for interacting with [[Kubernetes]] clusters.
 >
 > **[1:47](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-kind-cluster?u=76281980&t=107)** We will also use kubectl when we run explore California on the internet.
 >
@@ -1621,11 +1604,11 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-kind-cluster?u=76281980&t=117)** I've already installed it, So I got this, but you'll see a lot of progress when you run this.
 >
-> **[2:04](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-kind-cluster?u=76281980&t=124)** If you're on Windows, you can also use choco install, kubectl to perform the same action.
+> **[2:04](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-kind-cluster?u=76281980&t=124)** If you're on [[Windows]], you can also use choco install, kubectl to perform the same action.
 >
 > **[2:10](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-kind-cluster?u=76281980&t=130)** Once homebrew is done, confirm that kubectl was installed by running kubectl, version, dash, dash, client.
 >
-> **[2:17](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-kind-cluster?u=76281980&t=137)** You'll get a long JSON-like blob like this. If you do, then that means it kubectl was installed successfully.
+> **[2:17](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-kind-cluster?u=76281980&t=137)** You'll get a long [[JSON]]-like blob like this. If you do, then that means it kubectl was installed successfully.
 >
 > **[2:25](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-kind-cluster?u=76281980&t=145)** Now let's use it to confirm that our kind cluster's running.
 >
@@ -1653,7 +1636,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (6), next (1), [[Windows]] (1), [[JSON]] (1), aws (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (6), [[Windows]] (1), [[JSON]] (1)
 > **CLI Commands:** kubectl (12), docker (8), make (1), brew (1), aws (1)
 > **Definitions:** means that (3), is a  (1), is called (1), short for (1)
 > **Env Vars:** json (1), aws (1)
@@ -1661,8 +1644,7 @@ created: 2026-05-02
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (1)
 > **Tools:** command line (1)
 
-#### Creating the kind cluster with make
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-kind-cluster-with-make?u=76281980)
+#### [Creating the kind cluster with make](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-kind-cluster-with-make?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1704,15 +1686,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (10), kubectl (6), brew (1)
 > **Prerequisites:** install (5)
 > **URLs:** [california.com](https://california.com) (2)
 > **Tools:** terminal (1)
 > **Speakers:** - let (1)
 
-#### Creating a local Docker Registry
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-a-local-docker-registry?u=76281980)
+#### [Creating a local Docker Registry](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-a-local-docker-registry?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1720,7 +1700,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-a-local-docker-registry?u=76281980&t=7)** I also mentioned that Docker images can be stored in private registries.
 >
-> **[0:11](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-a-local-docker-registry?u=76281980&t=11)** When we run our app inside of Kubernetes, Kubernetes is going to expect that our application comes with a pre-built docker image.
+> **[0:11](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-a-local-docker-registry?u=76281980&t=11)** When we run our app inside of [[Kubernetes]], Kubernetes is going to expect that our application comes with a pre-built docker image.
 >
 > **[0:18](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-a-local-docker-registry?u=76281980&t=18)** While we were building our docker image locally to test our website inside a Docker, Kubernetes doesn't know about the existence of local images.
 >
@@ -1782,11 +1762,11 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-a-local-docker-registry?u=76281980&t=178)** So let's try re-running this command, but let's put --location right before the URL.
 >
-> **[3:04](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-a-local-docker-registry?u=76281980&t=184)** As you can see, and it might be a little bit hard to see, we got a blank JSON object here, which means that we don't have any images in our registry just yet, but it does mean that it's working.
+> **[3:04](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-a-local-docker-registry?u=76281980&t=184)** As you can see, and it might be a little bit hard to see, we got a blank [[JSON]] object here, which means that we don't have any images in our registry just yet, but it does mean that it's working.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (5), application (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (5), [[JSON]] (1)
 > **CLI Commands:** docker (23), make (1), curl (1)
 > **Ports:** :5000 (2), port 5000 (2)
 > **Env Vars:** p5000 (1), url (1), json (1)
@@ -1795,8 +1775,7 @@ created: 2026-05-02
 > **Versions:** version 2 (1)
 > **Cross-References:** we mentioned (1)
 
-#### Creating the local Docker Registry with make
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-local-docker-registry-with-make?u=76281980)
+#### [Creating the local Docker Registry with make](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-local-docker-registry-with-make?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1862,7 +1841,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-local-docker-registry-with-make?u=76281980&t=148)** In Bash, when you're creating an if/else block, you end the if/else block with an FI.
 >
-> **[2:34](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-local-docker-registry-with-make?u=76281980&t=154)** Those of you that are Java developers, you might be accustomed to doing something like if thing, and then a curly bracket there, and then the rest of your logic.
+> **[2:34](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-local-docker-registry-with-make?u=76281980&t=154)** Those of you that are [[Java]] developers, you might be accustomed to doing something like if thing, and then a curly bracket there, and then the [[Representational State Transfer (REST)|rest]] of your logic.
 >
 > **[2:45](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-local-docker-registry-with-make?u=76281980&t=165)** It's kind of like that.
 >
@@ -1926,7 +1905,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Search]] (1), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** docker (16), make (10), grep (8), rm (3), find (2)
 > **Tools:** terminal (2), bash (2)
 > **Definitions:** is a  (3), short for (1)
@@ -1934,8 +1913,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Linking the local Docker Registry to the kind cluster
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/linking-the-local-docker-registry-to-the-kind-cluster?u=76281980)
+#### [Linking the local Docker Registry to the kind cluster](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/linking-the-local-docker-registry-to-the-kind-cluster?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1951,7 +1929,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/linking-the-local-docker-registry-to-the-kind-cluster?u=76281980&t=28)** So let's go ahead and open kind config dot yaml into your editor. There's a lot going on here.
 >
-> **[0:35](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/linking-the-local-docker-registry-to-the-kind-cluster?u=76281980&t=35)** So let's briefly dig into it. First, I should note that this is a good example of a file, that uses the Kubernetes manifest format.
+> **[0:35](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/linking-the-local-docker-registry-to-the-kind-cluster?u=76281980&t=35)** So let's briefly dig into it. First, I should note that this is a good example of a file, that uses the [[Kubernetes]] manifest format.
 >
 > **[0:43](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/linking-the-local-docker-registry-to-the-kind-cluster?u=76281980&t=43)** Kubernetes manifests are files that are used to install and configure objects within a Kubernetes cluster.
 >
@@ -1977,7 +1955,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/linking-the-local-docker-registry-to-the-kind-cluster?u=76281980&t=111)** I want the reference docs, which are right here.
 >
-> **[1:54](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/linking-the-local-docker-registry-to-the-kind-cluster?u=76281980&t=114)** It might look different depending on where you are and where you're using Google.
+> **[1:54](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/linking-the-local-docker-registry-to-the-kind-cluster?u=76281980&t=114)** It might look different depending on where you are and where you're using [[Google]].
 >
 > **[1:58](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/linking-the-local-docker-registry-to-the-kind-cluster?u=76281980&t=118)** So I'm going to click on that and it's going to bring me to this great tomb of information here.
 >
@@ -2015,7 +1993,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (18), api (7), next (2), [[Search]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (18), [[Google]] (1)
 > **Env Vars:** api (7), adm (3)
 > **Prerequisites:** configure (6), install (2), you'll need (1)
 > **CLI Commands:** docker (2), make (1)
@@ -2024,8 +2002,7 @@ created: 2026-05-02
 > **Ports:** port 5 (1)
 > **Tools:** terminal (1)
 
-#### Linking the kind registry with make
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/linking-the-kind-registry-with-make?u=76281980)
+#### [Linking the kind registry with make](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/linking-the-kind-registry-with-make?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2079,7 +2056,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/linking-the-kind-registry-with-make?u=76281980&t=151)** So let's create a new rule called "connect_registry_to_kind" and let's make it a phony target as well.
 >
-> **[2:43](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/linking-the-kind-registry-with-make?u=76281980&t=163)** Now, applying Kubernetes manifests like the config map that we saw earlier is really, really, really, really easy.
+> **[2:43](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/linking-the-kind-registry-with-make?u=76281980&t=163)** Now, applying [[Kubernetes]] manifests like the config map that we saw earlier is really, really, really, really easy.
 >
 > **[2:50](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/linking-the-kind-registry-with-make?u=76281980&t=170)** With kubectl, all you have to do is kubectl apply -f, and then the path to the manifest, which in our case is going to be ./kind_configmap.yaml.
 >
@@ -2147,7 +2124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (1)
 > **CLI Commands:** make (20), docker (8), kubectl (3)
 > **Code Identifiers:** kind_config (1), connect_registry_to_kind (1), kind_configmap (1)
 > **File Paths:** kind_config.yaml (1), kind_configmap.yaml (1)
@@ -2156,8 +2133,7 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (1)
 > **Definitions:** is a  (1)
 
-#### Challenge: Deleting kind clusters with make
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/challenge-deleting-kind-clusters-with-make?u=76281980)
+#### [Challenge: Deleting kind clusters with make](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/challenge-deleting-kind-clusters-with-make?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2179,8 +2155,7 @@ created: 2026-05-02
 > **Speakers:** - all (1)
 > **Non-Speech:** (lively music) (1)
 
-#### Solution: Deleting kind clusters with make
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/solution-deleting-kind-clusters-with-make?u=76281980)
+#### [Solution: Deleting kind clusters with make](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/solution-deleting-kind-clusters-with-make?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2252,12 +2227,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Kubernetes manifests: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-kubernetes-manifests-part-1?u=76281980)
+#### [Understanding Kubernetes manifests: Part 1](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-kubernetes-manifests-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-kubernetes-manifests-part-1?u=76281980&t=0)** - We're now going to start deploying our website into Kubernetes. I'm super excited.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-kubernetes-manifests-part-1?u=76281980&t=0)** - We're now going to start deploying our website into [[Kubernetes]]. I'm super excited.
 >
 > **[0:04](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-kubernetes-manifests-part-1?u=76281980&t=4)** I hope you're just as excited as I am.
 >
@@ -2325,7 +2299,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (9), node (2), next (2), application (1), api (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (9)
 > **CLI Commands:** kubectl (9), docker (2), make (2), node (2)
 > **Env Vars:** yaml (4), api (1)
 > **Tools:** command line (3), terminal (1)
@@ -2334,8 +2308,7 @@ created: 2026-05-02
 > **Ports:** :5000 (1)
 > **Cross-References:** as we saw (1)
 
-#### Understanding Kubernetes manifests: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-kubernetes-manifests-part-2?u=76281980)
+#### [Understanding Kubernetes manifests: Part 2](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-kubernetes-manifests-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2355,7 +2328,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-kubernetes-manifests-part-2?u=76281980&t=37)** The next object that we have is the kind which determines the object that we're creating, which happens to be deployment, which is what we're looking at here on the left.
 >
-> **[0:47](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-kubernetes-manifests-part-2?u=76281980&t=47)** Now, most objects in Kubernetes have metadata associated with them.
+> **[0:47](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-kubernetes-manifests-part-2?u=76281980&t=47)** Now, most objects in [[Kubernetes]] have [[Metadata]] associated with them.
 >
 > **[0:52](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-kubernetes-manifests-part-2?u=76281980&t=52)** Deployments are no exception to this.
 >
@@ -2489,7 +2462,7 @@ created: 2026-05-02
 >
 > **[6:36](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-kubernetes-manifests-part-2?u=76281980&t=396)** So let's go ahead and click on that.
 >
-> **[6:38](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-kubernetes-manifests-part-2?u=76281980&t=398)** So if you've written any Docker compose, you might be familiar with a lot of the fields that are in here because they're very very very similar.
+> **[6:38](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-kubernetes-manifests-part-2?u=76281980&t=398)** So if you've written any Docker [[Jetpack Compose|compose]], you might be familiar with a lot of the fields that are in here because they're very very very similar.
 >
 > **[6:47](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-kubernetes-manifests-part-2?u=76281980&t=407)** So just like in Docker compose, it allows you to specify the image that you want to use, which in this case is going to be our [explorecalifornia.com](https://explorecalifornia.com) image on local host 5000.
 >
@@ -2513,7 +2486,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (9), api (7), next (6), [[Metadata]] (5), [[Jetpack Compose|Compose]] (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (9), [[Metadata]] (5), [[Jetpack Compose|Compose]] (2)
 > **Documentation:** spec (4), specification (3), the documentation (1), api reference (1)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (5), [california.com](https://california.com) (1)
 > **CLI Commands:** find (3), docker (2)
@@ -2522,8 +2495,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1), imagine (1), kind of like (1), just like (1), such as (1)
 > **Env Vars:** ctl (3), cpu (1)
 
-#### Creating a Deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-a-deployment?u=76281980)
+#### [Creating a Deployment](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-a-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2537,7 +2509,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-a-deployment?u=76281980&t=24)** Now that our cluster is ready, let's go ahead and push our Docker image into the registry that we've created.
 >
-> **[0:29](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-a-deployment?u=76281980&t=29)** Now, you may have already done this if your cluster was already running before you got here, but just in case you haven't, or just in case you made any changes, this will make sure that the image is definitely inside of your registry and that Kubernetes can pick up from it.
+> **[0:29](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-a-deployment?u=76281980&t=29)** Now, you may have already done this if your cluster was already running before you got here, but just in case you haven't, or just in case you made any changes, this will make sure that the image is definitely inside of your registry and that [[Kubernetes]] can pick up from it.
 >
 > **[0:43](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-a-deployment?u=76281980&t=43)** So to do that, we're going to first tag our image.
 >
@@ -2593,7 +2565,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (1), next (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (1)
 > **CLI Commands:** docker (6), make (2), kubectl (1)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (4), [explorercalifornia.com](https://explorercalifornia.com) (1)
 > **Ports:** port 8080 (2), port 80 (1)
@@ -2602,8 +2574,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** similar to (1)
 
-#### Creating a Service
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-a-service?u=76281980)
+#### [Creating a Service](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-a-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2619,7 +2590,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-a-service?u=76281980&t=20)** To do that, we'll need to map, [exploreCalifornia.com](https://exploreCalifornia.com) into a single point of entry.
 >
-> **[0:24](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-a-service?u=76281980&t=24)** That's going to live inside of Kubernetes.
+> **[0:24](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-a-service?u=76281980&t=24)** That's going to live inside of [[Kubernetes]].
 >
 > **[0:26](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-a-service?u=76281980&t=26)** And we'll have Kubernetes, handling distributing requests between our pods.
 >
@@ -2681,7 +2652,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-a-service?u=76281980&t=174)** We're creating our ports up here.
 >
-> **[2:56](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-a-service?u=76281980&t=176)** And we've defined our selector as mentioned earlier, and we're specifying, that we want a cluster IP type of service, and we have our metadata, and we're going to remove this creation timestamp since that's going to get created automatically.
+> **[2:56](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-a-service?u=76281980&t=176)** And we've defined our selector as mentioned earlier, and we're specifying, that we want a cluster IP type of service, and we have our [[Metadata]], and we're going to remove this creation timestamp since that's going to get created automatically.
 >
 > **[3:11](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-a-service?u=76281980&t=191)** So, I'm going to save it.
 >
@@ -2741,7 +2712,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (4), dns (3), next (2), [[Metadata]] (2), traffic (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (4), [[Metadata]] (2)
 > **CLI Commands:** kubectl (6), make (4), find (1)
 > **Code Identifiers:** explorecalifornia (10)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (8), [remove.com](https://remove.com) (1), [of.com](https://of.com) (1)
@@ -2750,8 +2721,7 @@ created: 2026-05-02
 > **File Paths:** service.yaml (3)
 > **Ports:** port 80 (3)
 
-#### Understanding Ingress and Ingress controllers
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-ingress-and-ingress-controllers?u=76281980)
+#### [Understanding Ingress and Ingress controllers](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-ingress-and-ingress-controllers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2759,9 +2729,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-ingress-and-ingress-controllers?u=76281980&t=3)** Before we do so, let's explain how they work.
 >
-> **[0:06](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-ingress-and-ingress-controllers?u=76281980&t=6)** In Kubernetes, an Ingress is a reverse proxy that enables external access into other Kubernetes resources.
+> **[0:06](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-ingress-and-ingress-controllers?u=76281980&t=6)** In [[Kubernetes]], an Ingress is a reverse proxy that enables external access into other Kubernetes resources.
 >
-> **[0:12](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-ingress-and-ingress-controllers?u=76281980&t=12)** If you've ever used an application load balancer like AWS Application Load Balancer, very appropriately named, Azure API Gateway or Google's Cloud Load Balancer, or if you've ever used a quote unquote, "Bare Metal Load Balancer" like F5's BIG-IP, then the Kubernetes Ingress will probably be familiar to you.
+> **[0:12](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-ingress-and-ingress-controllers?u=76281980&t=12)** If you've ever used an application load balancer like AWS Application Load Balancer, very appropriately named, [[Microsoft Azure|Azure]] API Gateway or [[Google]]'s Cloud Load Balancer, or if you've ever used a quote unquote, "Bare Metal Load Balancer" like F5's BIG-IP, then the Kubernetes Ingress will probably be familiar to you.
 >
 > **[0:32](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-ingress-and-ingress-controllers?u=76281980&t=32)** But if you haven't, do not panic.
 >
@@ -2769,7 +2739,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-ingress-and-ingress-controllers?u=76281980&t=41)** Here's a great diagram from the Kubernetes documentation that explains how Ingresses work.
 >
-> **[0:46](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-ingress-and-ingress-controllers?u=76281980&t=46)** First, you provide your Ingress with a series of routing rules which are summarized here in the middle.
+> **[0:46](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-ingress-and-ingress-controllers?u=76281980&t=46)** First, you provide your Ingress with a series of [[Routing]] rules which are summarized here in the middle.
 >
 > **[0:52](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/understanding-ingress-and-ingress-controllers?u=76281980&t=52)** Like all make rules earlier, routing rules perform an action when given a name in the case of our Ingress, instead of using a make target, we provide the HTTP path like slash or slash shopping.
 >
@@ -2801,7 +2771,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (8), [[Routing]] (4), application (3), aws (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (8), [[Routing]] (4), [[Microsoft Azure|Azure]] (1), [[Google]] (1)
 > **CLI Commands:** nginx (5), make (2), aws (1)
 > **Env Vars:** aws (1), api (1), big (1), http (1), dns (1)
 > **Code Identifiers:** nginx (1)
@@ -2809,8 +2779,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating the Ingress
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-ingress?u=76281980)
+#### [Creating the Ingress](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-ingress?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2828,7 +2797,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-ingress?u=76281980&t=34)** That's actually what we want.
 >
-> **[0:35](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-ingress?u=76281980&t=35)** If we don't provide an ingress controller, Kubernetes will use the default one set up for the cluster.
+> **[0:35](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-ingress?u=76281980&t=35)** If we don't provide an ingress controller, [[Kubernetes]] will use the default one set up for the cluster.
 >
 > **[0:41](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-the-ingress?u=76281980&t=41)** The NGINX ingress controller that we're going to create is configured to be the default for this cluster.
 >
@@ -2878,7 +2847,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (5), [[Kubernetes]] (1), next (1), hit (1), css (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (1)
 > **Env Vars:** svc (3), nginx (1), svc1 (1), https (1), css (1)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (5), [foo.com](https://foo.com) (1)
 > **CLI Commands:** kubectl (2), nginx (1), make (1)
@@ -2887,8 +2856,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll up (1), go to (1)
 > **Prerequisites:** set up (1)
 
-#### Configuring kind to use Ingress controllers
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-kind-to-use-ingress-controllers?u=76281980)
+#### [Configuring kind to use Ingress controllers](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-kind-to-use-ingress-controllers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2906,7 +2874,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-kind-to-use-ingress-controllers?u=76281980&t=38)** So as we can see from lines 8 through 14, we can see that we've provided an InitConfiguration Kind on line 11 to this kubeadmConfigPatches object here.
 >
-> **[0:48](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-kind-to-use-ingress-controllers?u=76281980&t=48)** And underneath it we're providing extra arguments to what's called the kubelet, which is another name for a Kubernetes node.
+> **[0:48](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-kind-to-use-ingress-controllers?u=76281980&t=48)** And underneath it we're providing extra arguments to what's called the kubelet, which is another name for a [[Kubernetes]] node.
 >
 > **[0:54](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-kind-to-use-ingress-controllers?u=76281980&t=54)** It's the actual application that runs the node, or what makes a node, a node.
 >
@@ -2942,7 +2910,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-kind-to-use-ingress-controllers?u=76281980&t=154)** So what I'm going to do is I'm going to click on Ingress NGINX, which is up here, and then I'm going to copy this long kubectl apply command.
 >
-> **[2:42](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-kind-to-use-ingress-controllers?u=76281980&t=162)** And this kubectl apply command is taking a Kubernetes manifest from GitHub and running kubectl apply against it.
+> **[2:42](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-kind-to-use-ingress-controllers?u=76281980&t=162)** And this kubectl apply command is taking a Kubernetes manifest from [[GitHub]] and running kubectl apply against it.
 >
 > **[2:50](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/configuring-kind-to-use-ingress-controllers?u=76281980&t=170)** So let's copy it and see that in action.
 >
@@ -3018,7 +2986,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (4), dns (4), [[Kubernetes]] (2), application (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2), [[GitHub]] (1)
 > **CLI Commands:** nginx (7), kubectl (5), node (4), make (4), find (3)
 > **Env Vars:** nginx (6), dns (4)
 > **UI Navigation:** go to (7), click on (2), scroll down (1)
@@ -3032,12 +3000,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Helm?
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-helm?u=76281980)
+#### [What is Helm?](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-helm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-helm?u=76281980&t=0)** - [Instructor] Previously, we used Kubernetes Manifests to deploy our website into our local KIND Kubernetes cluster.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-helm?u=76281980&t=0)** - [Instructor] Previously, we used [[Kubernetes]] Manifests to deploy our website into our local KIND Kubernetes cluster.
 >
 > **[0:06](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-helm?u=76281980&t=6)** These manifests written in YAML, describe the Kubernetes resources that we wanted to install and configure inside of the cluster.
 >
@@ -3061,11 +3028,11 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-helm?u=76281980&t=69)** Moreover, as an application inside of Kubernetes grows the chances of deleting something really important or modifying the wrong thing increases, which introduces risks that we don't want.
 >
-> **[1:20](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-helm?u=76281980&t=80)** It'd be nice to have a Doc compose-like way of keeping track of how everything relates to each other.
+> **[1:20](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-helm?u=76281980&t=80)** It'd be nice to have a Doc [[Jetpack Compose|compose]]-like way of keeping track of how everything relates to each other.
 >
 > **[1:26](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-helm?u=76281980&t=86)** And fortunately for us, this exists.
 >
-> **[1:29](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-helm?u=76281980&t=89)** And this exist to a tool called Helm.
+> **[1:29](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-helm?u=76281980&t=89)** And this exist to a tool called [[Helm]].
 >
 > **[1:32](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-helm?u=76281980&t=92)** Helm is a package manager for applications in Kubernetes.
 >
@@ -3079,7 +3046,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-helm?u=76281980&t=124)** It's really really powerful stuff.
 >
-> **[2:05](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-helm?u=76281980&t=125)** Helm consists of three key parts: the Chart's metadata, the Chart values and the Chart templates.
+> **[2:05](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-helm?u=76281980&t=125)** Helm consists of three key parts: the Chart's [[Metadata]], the Chart values and the Chart templates.
 >
 > **[2:12](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-helm?u=76281980&t=132)** So like the metadata section that we modified earlier, the Helm Charts metadata inside of Chart.yaml simply describes the Chart's properties.
 >
@@ -3103,7 +3070,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-helm?u=76281980&t=200)** Now let's take a look at what this looks like if we were to use a Helm template.
 >
-> **[3:23](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-helm?u=76281980&t=203)** So I'm going to go ahead and zoom in on that.
+> **[3:23](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-helm?u=76281980&t=203)** So I'm going to go ahead and [[Zoom]] in on that.
 >
 > **[3:26](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/what-is-helm?u=76281980&t=206)** As you can see everything, and I mean almost everything inside of this deployment was turned into a value.
 >
@@ -3125,7 +3092,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Helm]] (26), [[Kubernetes]] (11), application (3), [[Metadata]] (3), [[Jetpack Compose|Compose]] (1)
+> **Frameworks & Libraries:** [[Helm]] (26), [[Kubernetes]] (11), [[Metadata]] (3), [[Jetpack Compose|Compose]] (1), [[Zoom]] (1)
 > **CLI Commands:** kubectl (5), make (1)
 > **Prerequisites:** install (5), configure (1)
 > **File Paths:** deployment.yaml (1), chart.yaml (1), helm.sh (1)
@@ -3134,12 +3101,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Exercise Files:** template (2)
 
-#### Creating our Chart metadata
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-metadata?u=76281980)
+#### [Creating our Chart metadata](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-metadata?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-metadata?u=76281980&t=0)** - [Instructor] So the first thing that we need to do is to install Helm.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-metadata?u=76281980&t=0)** - [Instructor] So the first thing that we need to do is to install [[Helm]].
 >
 > **[0:03](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-metadata?u=76281980&t=3)** Fortunately, that's really easy.
 >
@@ -3147,7 +3113,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-metadata?u=76281980&t=10)** Now I already have it installed on my machine, but you'll see more output when you run this command, if you haven't installed it before.
 >
-> **[0:17](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-metadata?u=76281980&t=17)** if you're on a Windows machine, you can run choco install helm instead.
+> **[0:17](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-metadata?u=76281980&t=17)** if you're on a [[Windows]] machine, you can run choco install helm instead.
 >
 > **[0:21](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-metadata?u=76281980&t=21)** Next we'll create a new directory to store the contents of our Helm chart.
 >
@@ -3157,7 +3123,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-metadata?u=76281980&t=34)** Next we're going to create a file called Chart.yaml inside of the chart director.
 >
-> **[0:40](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-metadata?u=76281980&t=40)** Chart.yaml provides metadata that describes our chart.
+> **[0:40](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-metadata?u=76281980&t=40)** Chart.yaml provides [[Metadata]] that describes our chart.
 >
 > **[0:43](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-metadata?u=76281980&t=43)** Important to note here, is that the C in chart is capitalized.
 >
@@ -3179,7 +3145,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-metadata?u=76281980&t=73)** As the Helm documentation states on the left here, API version just defines the version of the chart schema.
 >
-> **[1:18](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-metadata?u=76281980&t=78)** So if you work with Docker Compose, this is similar to the version line at the top of Docker Compose at YAML.
+> **[1:18](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-metadata?u=76281980&t=78)** So if you work with Docker [[Jetpack Compose|Compose]], this is similar to the version line at the top of Docker Compose at YAML.
 >
 > **[1:23](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-metadata?u=76281980&t=83)** Helen supports two different schema versions, version one, and version two, we're going to use version two and most charts that you work with will use this version.
 >
@@ -3237,7 +3203,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Helm]] (16), next (6), [[Metadata]] (2), api (2), [[Jetpack Compose|Compose]] (2)
+> **Frameworks & Libraries:** [[Helm]] (16), [[Metadata]] (2), [[Jetpack Compose|Compose]] (2), [[Windows]] (1)
 > **CLI Commands:** docker (3), make (2), brew (1), mkdir (1)
 > **Prerequisites:** install (7)
 > **File Paths:** chart.yaml (5)
@@ -3246,16 +3212,15 @@ created: 2026-05-02
 > **UI Navigation:** click on (3)
 > **Definitions:** is a  (2), is called (1)
 
-#### Creating our Chart values
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-values?u=76281980)
+#### [Creating our Chart values](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-values?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-values?u=76281980&t=0)** - [Instructor] Now, we're going to define some Helm values.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-values?u=76281980&t=0)** - [Instructor] Now, we're going to define some [[Helm]] values.
 >
-> **[0:04](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-values?u=76281980&t=4)** These values will be used to render our Kubernetes manifest, when we install our app with Helm install.
+> **[0:04](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-values?u=76281980&t=4)** These values will be used to render our [[Kubernetes]] manifest, when we install our app with Helm install.
 >
-> **[0:08](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-values?u=76281980&t=8)** So to start, I'm going to zoom in on my terminal, and then, I'm going to create a new file, called values.yaml inside a chart.
+> **[0:08](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-values?u=76281980&t=8)** So to start, I'm going to [[Zoom]] in on my terminal, and then, I'm going to create a new file, called values.yaml inside a chart.
 >
 > **[0:16](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-values?u=76281980&t=16)** And in this example, the V in values is lowercase, so keep that in mind when you create it.
 >
@@ -3289,13 +3254,13 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-values?u=76281980&t=76)** So to do that, we're going to do, helm show all ./chart.
 >
-> **[1:23](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-values?u=76281980&t=83)** If our chart is valid, which it is in our case, Helm will show us everything it can process about the chart, including its metadata, which we saw here, values, which we see down here, and rendered manifests, which we're going to create soon.
+> **[1:23](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-values?u=76281980&t=83)** If our chart is valid, which it is in our case, Helm will show us everything it can process about the chart, including its [[Metadata]], which we saw here, values, which we see down here, and rendered manifests, which we're going to create soon.
 >
 > **[1:37](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/creating-our-chart-values?u=76281980&t=97)** As you can see, Helm was okay with our changes, since it gave us the metadata we created along with the chart's values.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Helm]] (5), [[Kubernetes]] (3), data (2), [[Metadata]] (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Helm]] (5), [[Kubernetes]] (3), [[Metadata]] (2), [[Zoom]] (1)
 > **File Paths:** values.yaml (2)
 > **Code Identifiers:** appname (1), imagename (1)
 > **URLs:** [localhost:5000](https://localhost:5000) (1), [explorecalifornia.com](https://explorecalifornia.com) (1)
@@ -3304,14 +3269,13 @@ created: 2026-05-02
 > **Ports:** :5000 (1)
 > **Tools:** terminal (1)
 
-#### Templatizing a Deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/templatizing-a-deployment?u=76281980)
+#### [Templatizing a Deployment](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/templatizing-a-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/templatizing-a-deployment?u=76281980&t=0)** - Now that we know more about helm chart, metadata and creating helm values.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/templatizing-a-deployment?u=76281980&t=0)** - Now that we know more about [[Helm]] chart, [[Metadata]] and creating helm values.
 >
-> **[0:04](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/templatizing-a-deployment?u=76281980&t=4)** Let's turn our Kubernetes manifests into helm chart templates.
+> **[0:04](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/templatizing-a-deployment?u=76281980&t=4)** Let's turn our [[Kubernetes]] manifests into helm chart templates.
 >
 > **[0:07](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/templatizing-a-deployment?u=76281980&t=7)** First, we're going to create a new directory inside a chart card template.
 >
@@ -3333,7 +3297,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/templatizing-a-deployment?u=76281980&t=53)** Next, I'm going to replace the image on line 19.
 >
-> **[0:55](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/templatizing-a-deployment?u=76281980&t=55)** So instead of having local host 5,000 and the rest of the line, I'm going to get rid of that.
+> **[0:55](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/templatizing-a-deployment?u=76281980&t=55)** So instead of having local host 5,000 and the [[Representational State Transfer (REST)|rest]] of the line, I'm going to get rid of that.
 >
 > **[1:01](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/templatizing-a-deployment?u=76281980&t=61)** And I'm going to put in brace brace dot values dot image, brace brace.
 >
@@ -3461,7 +3425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Helm]] (12), next (4), [[Kubernetes]] (3), [[Metadata]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Helm]] (12), [[Kubernetes]] (3), [[Metadata]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4), ls (2), mkdir (1), mv (1), kubectl (1)
 > **Exercise Files:** template (6)
 > **File Paths:** deployment.yaml (3), service.yaml (2)
@@ -3470,8 +3434,7 @@ created: 2026-05-02
 > **Analogies:** just like (3), for example (1)
 > **Code Identifiers:** randalphanum (1), kubectl (1)
 
-#### Deploying our Helm Chart with make
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploying-our-helm-chart-with-make?u=76281980)
+#### [Deploying our Helm Chart with make](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploying-our-helm-chart-with-make?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3483,7 +3446,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploying-our-helm-chart-with-make?u=76281980&t=8)** So the first thing I'm going to do is create a new make rule called install_app.
 >
-> **[0:13](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploying-our-helm-chart-with-make?u=76281980&t=13)** And we're going to make that target a phony target up here, going back to it, instead of using helm install like we've been doing, as you probably noticed, it's really inconvenient to install something and then have to uninstall it if something goes wrong.
+> **[0:13](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploying-our-helm-chart-with-make?u=76281980&t=13)** And we're going to make that target a phony target up here, going back to it, instead of using [[Helm]] install like we've been doing, as you probably noticed, it's really inconvenient to install something and then have to uninstall it if something goes wrong.
 >
 > **[0:27](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploying-our-helm-chart-with-make?u=76281980&t=27)** So instead of doing that, we're going to use the helm upgrade command.
 >
@@ -3515,7 +3478,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploying-our-helm-chart-with-make?u=76281980&t=99)** So let's just click on this link.
 >
-> **[1:42](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploying-our-helm-chart-with-make?u=76281980&t=102)** And as you can see, we were able to fetch the link and we were able to go back to the webpage, which everything is working.
+> **[1:42](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploying-our-helm-chart-with-make?u=76281980&t=102)** And as you can see, we were able to [[Fetch]] the link and we were able to go back to the webpage, which everything is working.
 >
 > **[1:48](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploying-our-helm-chart-with-make?u=76281980&t=108)** So like I said earlier, we can install our app as many times as we want now.
 >
@@ -3557,7 +3520,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Helm]] (8), business (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Helm]] (8), [[Fetch]] (1)
 > **Prerequisites:** install (7)
 > **CLI Commands:** make (5), kubectl (1)
 > **Code Identifiers:** install_app (3)
@@ -3566,8 +3529,7 @@ created: 2026-05-02
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (1)
 > **Cross-References:** go back to (1)
 
-#### Challenge: Change the port number
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/challenge-change-the-port-number?u=76281980)
+#### [Challenge: Change the port number](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/challenge-change-the-port-number?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3581,20 +3543,19 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/challenge-change-the-port-number?u=76281980&t=13)** You should not need to change any other ports associated with the Explorer California app.
 >
-> **[0:19](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/challenge-change-the-port-number?u=76281980&t=19)** If you need any help with this, don't be afraid to consult the Kubernetes API reference docs for more help, or you can just attach dash dash help to any of the Kube CTL Create Commands to learn more.
+> **[0:19](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/challenge-change-the-port-number?u=76281980&t=19)** If you need any help with this, don't be afraid to consult the [[Kubernetes]] API reference docs for more help, or you can just attach dash dash help to any of the Kube CTL Create Commands to learn more.
 >
 > **[0:30](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/challenge-change-the-port-number?u=76281980&t=30)** Good luck and have fun.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (1), api (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (1)
 > **Env Vars:** api (1), ctl (1)
 > **Documentation:** api reference (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Change the port number
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/solution-change-the-port-number?u=76281980)
+#### [Solution: Change the port number](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/solution-change-the-port-number?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3616,7 +3577,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/solution-change-the-port-number?u=76281980&t=32)** Now I recommend you for learning Nginx configuration parameters, as Nginx can be quite tricky to learn.
 >
-> **[0:38](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/solution-change-the-port-number?u=76281980&t=38)** But we want our changes to be entirely inside of Kubernetes.
+> **[0:38](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/solution-change-the-port-number?u=76281980&t=38)** But we want our changes to be entirely inside of [[Kubernetes]].
 >
 > **[0:43](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/solution-change-the-port-number?u=76281980&t=43)** So, let's take a look into that, so we're going to go into chart/templates/service.yaml.
 >
@@ -3662,7 +3623,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/solution-change-the-port-number?u=76281980&t=180)** So since we updated the sourcePort here in values we don't actually need to make an update here, in our Ingress.
 >
-> **[3:07](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/solution-change-the-port-number?u=76281980&t=187)** Our Ingress already got that information which is a nice example of the power of, not only Helm, but of Helm values.
+> **[3:07](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/solution-change-the-port-number?u=76281980&t=187)** Our Ingress already got that information which is a nice example of the power of, not only [[Helm]], but of Helm values.
 >
 > **[3:16](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/solution-change-the-port-number?u=76281980&t=196)** So let's double check that that's actually truth, so let's quit, and let's go to [explorecalifornia.com](https://explorecalifornia.com) instead.
 >
@@ -3672,7 +3633,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (2), [[Helm]] (2), next (1), power (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (2), [[Helm]] (2)
 > **Ports:** port 80 (3), port 8080 (3), port 443 (1), :8080 (1)
 > **CLI Commands:** nginx (3), make (2), kubectl (1)
 > **File Paths:** values.yaml (2), chart/templates/service.yaml (1)
@@ -3686,14 +3647,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### From local testing to EKS: What's changing?
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/from-local-testing-to-eks-what-s-changing?u=76281980)
+#### [From local testing to EKS: What's changing?](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/from-local-testing-to-eks-what-s-changing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/from-local-testing-to-eks-what-s-changing?u=76281980&t=0)** - [Instructor] Now that Explore California is running smoothly in our own computer, it's time to graduate to the big leagues.
 >
-> **[0:07](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/from-local-testing-to-eks-what-s-changing?u=76281980&t=7)** We're finally ready to ship, [explorecalifornia.com](https://explorecalifornia.com) into a real Kubernetes cluster.
+> **[0:07](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/from-local-testing-to-eks-what-s-changing?u=76281980&t=7)** We're finally ready to ship, [explorecalifornia.com](https://explorecalifornia.com) into a real [[Kubernetes]] cluster.
 >
 > **[0:12](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/from-local-testing-to-eks-what-s-changing?u=76281980&t=12)** We're going to use AWS's Elastic Kubernetes Service or EKS for short, as our real Kubernetes cluster.
 >
@@ -3731,7 +3691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (7), aws (6), application (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (7)
 > **Env Vars:** aws (6), eks (5), alb (1)
 > **CLI Commands:** aws (6), nginx (2), make (2)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (2)
@@ -3739,12 +3699,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explaining the kubeconfig
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/explaining-the-kubeconfig?u=76281980)
+#### [Explaining the kubeconfig](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/explaining-the-kubeconfig?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/explaining-the-kubeconfig?u=76281980&t=0)** - Now that we know what explore-california will look like in a real Kubernetes cluster, Let's log into it.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/explaining-the-kubeconfig?u=76281980&t=0)** - Now that we know what explore-california will look like in a real [[Kubernetes]] cluster, Let's log into it.
 >
 > **[0:06](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/explaining-the-kubeconfig?u=76281980&t=6)** When we installed Kind earlier in our journey, Kind took care of the backstage details that allowed us to use CUBE CTL without worrying about logging in.
 >
@@ -3792,7 +3751,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/explaining-the-kubeconfig?u=76281980&t=115)** Kubernetes supports multiple different ways of logging into clusters.
 >
-> **[1:59](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/explaining-the-kubeconfig?u=76281980&t=119)** You can log in with passwords, OAuth, JSON, web tokens, or JOTS or JWTs, certificates, and more.
+> **[1:59](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/explaining-the-kubeconfig?u=76281980&t=119)** You can log in with passwords, OAuth, [[JSON]], web [[Tokens]], or JOTS or JWTs, certificates, and more.
 >
 > **[2:07](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/explaining-the-kubeconfig?u=76281980&t=127)** Most clusters are set up so that users can log in with certificates.
 >
@@ -3806,7 +3765,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (9), data (3), [[Tokens]] (2), next (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (9), [[Tokens]] (2), [[JSON]] (1)
 > **Env Vars:** cube (10), ctl (3), eks (1), json (1), jots (1)
 > **Cross-References:** earlier in (1)
 > **UI Navigation:** go to (1)
@@ -3815,8 +3774,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - now (1)
 
-#### Logging into an AWS EKS cluster with kubectl
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/logging-into-an-aws-eks-cluster-with-kubectl?u=76281980)
+#### [Logging into an AWS EKS cluster with kubectl](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/logging-into-an-aws-eks-cluster-with-kubectl?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3836,7 +3794,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/logging-into-an-aws-eks-cluster-with-kubectl?u=76281980&t=42)** Now my installation went quickly because I've already downloaded and installed it before.
 >
-> **[0:47](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/logging-into-an-aws-eks-cluster-with-kubectl?u=76281980&t=47)** It may take longer if you haven't done this, note that if you're a windows user, you can just run "Choco, install AWSCLI" for the same effect.
+> **[0:47](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/logging-into-an-aws-eks-cluster-with-kubectl?u=76281980&t=47)** It may take longer if you haven't done this, note that if you're a [[Windows]] user, you can just run "Choco, install AWSCLI" for the same effect.
 >
 > **[0:56](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/logging-into-an-aws-eks-cluster-with-kubectl?u=76281980&t=56)** Next I'm going to configure AWSCLI with access and secret keys that it can use to access the EKS service.
 >
@@ -3874,13 +3832,13 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/logging-into-an-aws-eks-cluster-with-kubectl?u=76281980&t=198)** As you can see, a few nodes were represented back to us in our EKS cluster, we have two nodes that are associated with this.
 >
-> **[3:27](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/logging-into-an-aws-eks-cluster-with-kubectl?u=76281980&t=207)** Now we use the Kube system namespace since Kubelets or Kubernetes nodes live inside of the system namespace by default.
+> **[3:27](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/logging-into-an-aws-eks-cluster-with-kubectl?u=76281980&t=207)** Now we use the Kube system namespace since Kubelets or [[Kubernetes]] nodes live inside of the system namespace by default.
 >
 > **[3:36](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/logging-into-an-aws-eks-cluster-with-kubectl?u=76281980&t=216)** Now that we've proven that EKS is set up, we're ready for our next step.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (6), next (2), [[Windows]] (1), data (1), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Kubernetes]] (1)
 > **Env Vars:** eks (7), awscli (6), aws (6), sts (1), arn (1)
 > **CLI Commands:** aws (6), kubectl (4), brew (1), make (1)
 > **Prerequisites:** install (3), you'll need (2), configure (1), set up (1)
@@ -3889,14 +3847,13 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **UI Navigation:** open the (1)
 
-#### Deploy our Docker image into AWS ECR with the Docker CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploy-our-docker-image-into-aws-ecr-with-the-docker-cli?u=76281980)
+#### [Deploy our Docker image into AWS ECR with the Docker CLI](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploy-our-docker-image-into-aws-ecr-with-the-docker-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploy-our-docker-image-into-aws-ecr-with-the-docker-cli?u=76281980&t=0)** - [Instructor] If you recall from earlier, we needed to push our image into a local Docker registry.
 >
-> **[0:05](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploy-our-docker-image-into-aws-ecr-with-the-docker-cli?u=76281980&t=5)** We needed to do this because Kubernetes is not come with a Docker registry by default.
+> **[0:05](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploy-our-docker-image-into-aws-ecr-with-the-docker-cli?u=76281980&t=5)** We needed to do this because [[Kubernetes]] is not come with a Docker registry by default.
 >
 > **[0:09](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploy-our-docker-image-into-aws-ecr-with-the-docker-cli?u=76281980&t=9)** While we could spin up our own Docker registry inside of this cluster, in a production scenario, this would create several additional maintenance headaches.
 >
@@ -3974,7 +3931,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (6), [[Security]] (2), data (2), [[Kubernetes]] (1), management (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (1)
 > **CLI Commands:** docker (13), aws (6), find (1)
 > **Env Vars:** ecr (10), aws (6), uri (2), iam (1), url (1)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (2), [localhost:5000](https://localhost:5000) (1)
@@ -3983,8 +3940,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deploying our Helm Chart into AWS EKS with make
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploying-our-helm-chart-into-aws-eks-with-make?u=76281980)
+#### [Deploying our Helm Chart into AWS EKS with make](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploying-our-helm-chart-into-aws-eks-with-make?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3994,7 +3950,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploying-our-helm-chart-into-aws-eks-with-make?u=76281980&t=7)** First, since we're using a Docker registry that has a password.
 >
-> **[0:11](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploying-our-helm-chart-into-aws-eks-with-make?u=76281980&t=11)** We'll need to create a secret inside of Kubernetes that contains it.
+> **[0:11](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploying-our-helm-chart-into-aws-eks-with-make?u=76281980&t=11)** We'll need to create a secret inside of [[Kubernetes]] that contains it.
 >
 > **[0:15](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploying-our-helm-chart-into-aws-eks-with-make?u=76281980&t=15)** This secret is called an image pull secret, and it's used by our app when it starts up and pulls our image.
 >
@@ -4008,7 +3964,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploying-our-helm-chart-into-aws-eks-with-make?u=76281980&t=42)** First, let's create a new set of values for our AWS deployment.
 >
-> **[0:45](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploying-our-helm-chart-into-aws-eks-with-make?u=76281980&t=45)** This way helm knows what to use when we install our app.
+> **[0:45](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploying-our-helm-chart-into-aws-eks-with-make?u=76281980&t=45)** This way [[Helm]] knows what to use when we install our app.
 >
 > **[0:49](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploying-our-helm-chart-into-aws-eks-with-make?u=76281980&t=49)** Let's copy the values that yaml file and serve our chart and create a new file called values-aws.yaml.
 >
@@ -4024,7 +3980,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploying-our-helm-chart-into-aws-eks-with-make?u=76281980&t=83)** So I'm going to go ahead and copy that and then I'm going to go back into the terminal and replace local host here with what I just copied.
 >
-> **[1:31](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploying-our-helm-chart-into-aws-eks-with-make?u=76281980&t=91)** Also when you do this, don't forget to add the colon latest to the end of that line so that Kubernetes knows which version of the image to fetch.
+> **[1:31](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploying-our-helm-chart-into-aws-eks-with-make?u=76281980&t=91)** Also when you do this, don't forget to add the colon latest to the end of that line so that Kubernetes knows which version of the image to [[Fetch]].
 >
 > **[1:41](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/deploying-our-helm-chart-into-aws-eks-with-make?u=76281980&t=101)** Next I'm going to create a variable underneath this called imagePullSecretName.
 >
@@ -4142,7 +4098,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (9), [[Kubernetes]] (8), [[Helm]] (5), next (4), node (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (8), [[Helm]] (5), [[Fetch]] (1)
 > **CLI Commands:** make (9), aws (9), docker (8), kubectl (3), node (2)
 > **Env Vars:** aws (7), ecr (2), eks (1), nginx (1), dns (1)
 > **Prerequisites:** install (5)
@@ -4151,8 +4107,7 @@ created: 2026-05-02
 > **URLs:** [kubernetes.io](https://kubernetes.io) (3)
 > **Analogies:** similar to (2), just like (1)
 
-#### The smoke test: Does it work?
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/the-smoke-test-does-it-work?u=76281980)
+#### [The smoke test: Does it work?](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/the-smoke-test-does-it-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4216,7 +4171,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/the-smoke-test-does-it-work?u=76281980&t=145)** Now, this is a little anticlimactic because we didn't have to wait at all.
 >
-> **[2:30](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/the-smoke-test-does-it-work?u=76281980&t=150)** While we were writing that command, our website became available as you can see by the HTML here.
+> **[2:30](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/the-smoke-test-does-it-work?u=76281980&t=150)** While we were writing that command, our website became available as you can see by the [[HTML]] here.
 >
 > **[2:35](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/the-smoke-test-does-it-work?u=76281980&t=155)** So we can see in our browser that we are live, Explore California is running.
 >
@@ -4224,11 +4179,11 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/the-smoke-test-does-it-work?u=76281980&t=164)** We are online. Congratulations.
 >
-> **[2:46](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/the-smoke-test-does-it-work?u=76281980&t=166)** You are now Kubernetes engineer.
+> **[2:46](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/the-smoke-test-does-it-work?u=76281980&t=166)** You are now [[Kubernetes]] engineer.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), application (2), dns (1), [[HTML]] (1), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Kubernetes]] (1)
 > **CLI Commands:** curl (3), find (2)
 > **Env Vars:** ctl (1), dns (1), url (1), html (1)
 > **Tools:** terminal (1), command line (1)
@@ -4237,14 +4192,13 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - alright (1)
 
-#### Cleaning up
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/cleaning-up?u=76281980)
+#### [Cleaning up](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/cleaning-up?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/cleaning-up?u=76281980&t=0)** - [Instructor] Congratulations!
 >
-> **[0:01](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/cleaning-up?u=76281980&t=1)** You've shipped "Explore California" all the way to production and it's in Kubernetes.
+> **[0:01](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/cleaning-up?u=76281980&t=1)** You've shipped "Explore California" all the way to production and it's in [[Kubernetes]].
 >
 > **[0:06](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/cleaning-up?u=76281980&t=6)** You even tested it locally, with Kubernetes.
 >
@@ -4252,7 +4206,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/cleaning-up?u=76281980&t=12)** Let's clean up.
 >
-> **[0:13](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/cleaning-up?u=76281980&t=13)** I'm going to go back to my terminal here, and first I'm going to uninstall the Helm chart for my EKS cluster, with helm uninstall explore california website.
+> **[0:13](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/cleaning-up?u=76281980&t=13)** I'm going to go back to my terminal here, and first I'm going to uninstall the [[Helm]] chart for my EKS cluster, with helm uninstall explore california website.
 >
 > **[0:24](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/cleaning-up?u=76281980&t=24)** Next, we're going to delete the client cluster that we created earlier.
 >
@@ -4292,7 +4246,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Kubernetes]] (2), [[Helm]] (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (2), [[Helm]] (2)
 > **CLI Commands:** docker (6), make (2), grep (2), rm (1), awk (1)
 > **URLs:** [explorecalifornia.com](https://explorecalifornia.com) (1)
 > **Env Vars:** eks (1)
@@ -4306,14 +4260,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/next-steps?u=76281980&t=0)** - [Instructor] This course aim to show you how easy it can be to get started with Kubernetes.
+> **[0:00](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/next-steps?u=76281980&t=0)** - [Instructor] This course aim to show you how easy it can be to get started with [[Kubernetes]].
 >
-> **[0:04](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/next-steps?u=76281980&t=4)** We proved that we could deploy a simple website hosted by Explore California, a fictitious travel provider into a local Kubernetes cluster with kind, helm, and MEC.
+> **[0:04](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/next-steps?u=76281980&t=4)** We proved that we could deploy a simple website hosted by Explore California, a fictitious travel provider into a local Kubernetes cluster with kind, [[Helm]], and MEC.
 >
 > **[0:15](https://www.linkedin.com/learning/kubernetes-your-first-project-2021/next-steps?u=76281980&t=15)** We then use these same tools, and deployed our website into a real Kubernetes cluster hosted by AWS Elastic Kubernetes Service or EKS.
 >
@@ -4357,7 +4310,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (13), [[Helm]] (3), application (2), aws (1), next (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (13), [[Helm]] (3)
 > **Env Vars:** mec (1), aws (1), eks (1), sico (1)
 > **CLI Commands:** aws (1), make (1)
 > **Definitions:** is a  (1), is an  (1)

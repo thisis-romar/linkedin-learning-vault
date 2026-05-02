@@ -70,16 +70,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Chatbots are revolutionizing the web
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/chatbots-are-revolutionizing-the-web?u=76281980)
+#### [Chatbots are revolutionizing the web](https://www.linkedin.com/learning/developing-chatbots-with-azure/chatbots-are-revolutionizing-the-web?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/developing-chatbots-with-azure/chatbots-are-revolutionizing-the-web?u=76281980&t=0)** - [Bhavani] Chat bots, currently being the 9 billion dollar market, is revolutionizing the web by replacing applications.
 >
-> **[0:07](https://www.linkedin.com/learning/developing-chatbots-with-azure/chatbots-are-revolutionizing-the-web?u=76281980&t=7)** Developers who stay ahead of the curve will see themselves in high demand as the businesses start to implement chat bot solution across their products and services.
+> **[0:07](https://www.linkedin.com/learning/developing-chatbots-with-azure/chatbots-are-revolutionizing-the-web?u=76281980&t=7)** Developers who stay ahead of the curve will see themselves in high demand as the businesses start to implement chat bot solution across their [[Microsoft Products|products]] and services.
 >
-> **[0:17](https://www.linkedin.com/learning/developing-chatbots-with-azure/chatbots-are-revolutionizing-the-web?u=76281980&t=17)** In this course, we will go through five stages of building a chat bot, right from conversation design to consuming an external data using Azure bot framework and Python.
+> **[0:17](https://www.linkedin.com/learning/developing-chatbots-with-azure/chatbots-are-revolutionizing-the-web?u=76281980&t=17)** In this course, we will go through five stages of building a chat bot, right from conversation design to consuming an external data using [[Microsoft Azure|Azure]] bot framework and [[Python (Programming Language)|Python]].
 >
 > **[0:29](https://www.linkedin.com/learning/developing-chatbots-with-azure/chatbots-are-revolutionizing-the-web?u=76281980&t=29)** The course focuses on laying down a strong fundamental and hands-on experience so that you would be able to swap the bot framework for other frameworks, like Dialogflow or Rasa.
 >
@@ -95,7 +94,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Python (Programming Language)|Python]] (2), web (1), [[Microsoft Products|Products]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Python (Programming Language)|Python]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - [bhavani] (1)
 
@@ -104,8 +103,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a chatbot?
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/what-is-a-chatbot?u=76281980)
+#### [What is a chatbot?](https://www.linkedin.com/learning/developing-chatbots-with-azure/what-is-a-chatbot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -113,7 +111,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/developing-chatbots-with-azure/what-is-a-chatbot?u=76281980&t=2)** Well, this is easy.
 >
-> **[0:04](https://www.linkedin.com/learning/developing-chatbots-with-azure/what-is-a-chatbot?u=76281980&t=4)** There's a good chance that you're sitting next to Google Home or Alexa as you're taking this course.
+> **[0:04](https://www.linkedin.com/learning/developing-chatbots-with-azure/what-is-a-chatbot?u=76281980&t=4)** There's a good chance that you're sitting next to [[Google]] Home or Alexa as you're taking this course.
 >
 > **[0:09](https://www.linkedin.com/learning/developing-chatbots-with-azure/what-is-a-chatbot?u=76281980&t=9)** Who knows, there might be a Siri or a Google Assistant waiting to pop up any moment now, but that's not it.
 >
@@ -133,12 +131,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (3), [[Google]] (3), business (2), next (1)
+> **Frameworks & Libraries:** [[Google]] (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bots vs. chatbots vs. applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/bots-vs-chatbots-vs-applications?u=76281980)
+#### [Bots vs. chatbots vs. applications](https://www.linkedin.com/learning/developing-chatbots-with-azure/bots-vs-chatbots-vs-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -160,7 +157,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/developing-chatbots-with-azure/bots-vs-chatbots-vs-applications?u=76281980&t=46)** What do you see?
 >
-> **[0:47](https://www.linkedin.com/learning/developing-chatbots-with-azure/bots-vs-chatbots-vs-applications?u=76281980&t=47)** A bunch of forms, buttons, checkboxes, and UI elements.
+> **[0:47](https://www.linkedin.com/learning/developing-chatbots-with-azure/bots-vs-chatbots-vs-applications?u=76281980&t=47)** A bunch of [[Forms]], buttons, checkboxes, and UI elements.
 >
 > **[0:52](https://www.linkedin.com/learning/developing-chatbots-with-azure/bots-vs-chatbots-vs-applications?u=76281980&t=52)** Basically, every user action has a different name and a spot using these HTLM elements.
 >
@@ -186,7 +183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (4), web (2), [[Automation]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Env Vars:** htlm (1)
 > **Definitions:** is an  (1)
 > **Analogies:** imagine (1)
@@ -197,8 +194,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Components of a chatbot system
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/components-of-a-chatbot-system?u=76281980)
+#### [Components of a chatbot system](https://www.linkedin.com/learning/developing-chatbots-with-azure/components-of-a-chatbot-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -212,7 +208,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/developing-chatbots-with-azure/components-of-a-chatbot-system?u=76281980&t=20)** So it is obvious that we need a UI client to send and receive messages.
 >
-> **[0:25](https://www.linkedin.com/learning/developing-chatbots-with-azure/components-of-a-chatbot-system?u=76281980&t=25)** It can be existing platforms, like Slack, Facebook Messenger, Telegram, or you can build one on your own.
+> **[0:25](https://www.linkedin.com/learning/developing-chatbots-with-azure/components-of-a-chatbot-system?u=76281980&t=25)** It can be existing platforms, like [[Slack]], Facebook Messenger, Telegram, or you can build one on your own.
 >
 > **[0:33](https://www.linkedin.com/learning/developing-chatbots-with-azure/components-of-a-chatbot-system?u=76281980&t=33)** Next, we need a component to understand what the user is saying, a natural language understanding component in machine learning terms.
 >
@@ -220,9 +216,9 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/developing-chatbots-with-azure/components-of-a-chatbot-system?u=76281980&t=47)** There are chatbot platforms to help us with that.
 >
-> **[0:50](https://www.linkedin.com/learning/developing-chatbots-with-azure/components-of-a-chatbot-system?u=76281980&t=50)** Some of the famous ones are Dialogflow by Google, [Wit.ai](https://Wit.ai) by Facebook, Rasa and Chatterbot, famous open source chatbot libraries, and IBM Watson.
+> **[0:50](https://www.linkedin.com/learning/developing-chatbots-with-azure/components-of-a-chatbot-system?u=76281980&t=50)** Some of the famous ones are Dialogflow by [[Google]], [Wit.ai](https://Wit.ai) by Facebook, Rasa and Chatterbot, famous open source chatbot libraries, and IBM Watson.
 >
-> **[1:03](https://www.linkedin.com/learning/developing-chatbots-with-azure/components-of-a-chatbot-system?u=76281980&t=63)** For this course, we will be using Azure bot framework by Microsoft.
+> **[1:03](https://www.linkedin.com/learning/developing-chatbots-with-azure/components-of-a-chatbot-system?u=76281980&t=63)** For this course, we will be using [[Microsoft Azure|Azure]] bot framework by [[Microsoft]].
 >
 > **[1:08](https://www.linkedin.com/learning/developing-chatbots-with-azure/components-of-a-chatbot-system?u=76281980&t=68)** These frameworks abstract away the NLU functionalities and provide us an interface to be consumed by an API.
 >
@@ -250,7 +246,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (7), api (2), data (2), application (1), web (1)
+> **Frameworks & Libraries:** [[Slack]] (1), [[Google]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft]] (1)
 > **Env Vars:** nlu (2), api (2), ibm (1)
 > **Definitions:** is a  (1), we call this (1)
 > **URLs:** [wit.ai](https://wit.ai) (1)
@@ -258,8 +254,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chatbot engine, a deep dive
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/chatbot-engine-a-deep-dive?u=76281980)
+#### [Chatbot engine, a deep dive](https://www.linkedin.com/learning/developing-chatbots-with-azure/chatbot-engine-a-deep-dive?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -291,13 +286,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (6), ai (2)
 > **Definitions:** is a  (2), is called (2)
 > **Analogies:** for example (2), imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Intent classifier
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/intent-classifier?u=76281980)
+#### [Intent classifier](https://www.linkedin.com/learning/developing-chatbots-with-azure/intent-classifier?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -317,7 +310,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/developing-chatbots-with-azure/intent-classifier?u=76281980&t=51)** For the wordbot, the sentences, "What's the meaning of good?"
 >
-> **[0:55](https://www.linkedin.com/learning/developing-chatbots-with-azure/intent-classifier?u=76281980&t=55)** and "What's the opposite of good?" differ only by one word, making it difficult for the ML models to predict the intent.
+> **[0:55](https://www.linkedin.com/learning/developing-chatbots-with-azure/intent-classifier?u=76281980&t=55)** and "What's the opposite of good?" differ only by one [[Microsoft Word|word]], making it difficult for the ML models to predict the intent.
 >
 > **[1:05](https://www.linkedin.com/learning/developing-chatbots-with-azure/intent-classifier?u=76281980&t=65)** In this case, it's a good idea to merge these sentences and mark the differing word as an entity.
 >
@@ -335,15 +328,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (6), [[Microsoft Word|Word]] (3), nlp (2), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3)
 > **Env Vars:** nlp (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Entity extractor
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/entity-extractor?u=76281980)
+#### [Entity extractor](https://www.linkedin.com/learning/developing-chatbots-with-azure/entity-extractor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -361,13 +353,13 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/developing-chatbots-with-azure/entity-extractor?u=76281980&t=52)** These are the words that might not be a part of the universal language, say English, but would make total sense in a particular use case.
 >
-> **[1:02](https://www.linkedin.com/learning/developing-chatbots-with-azure/entity-extractor?u=76281980&t=62)** For example, drug names in case of a medical chatbot, bank versus river bank or balance sheet in a financial chatbot, or Python as a programming language as opposed to Snake in a software development based chatbot.
+> **[1:02](https://www.linkedin.com/learning/developing-chatbots-with-azure/entity-extractor?u=76281980&t=62)** For example, drug names in case of a medical chatbot, bank versus river bank or balance sheet in a financial chatbot, or [[Python (Programming Language)|Python]] as a programming language as opposed to Snake in a [[Software Development]] based chatbot.
 >
 > **[1:20](https://www.linkedin.com/learning/developing-chatbots-with-azure/entity-extractor?u=76281980&t=80)** Along with that, the chatbot should also understand certain abbreviations used by the user.
 >
 > **[1:27](https://www.linkedin.com/learning/developing-chatbots-with-azure/entity-extractor?u=76281980&t=87)** For example, NYC for New York City, USA for America.
 >
-> **[1:33](https://www.linkedin.com/learning/developing-chatbots-with-azure/entity-extractor?u=76281980&t=93)** Another important use case is to have synonyms mapped for a particular word.
+> **[1:33](https://www.linkedin.com/learning/developing-chatbots-with-azure/entity-extractor?u=76281980&t=93)** Another important use case is to have synonyms mapped for a particular [[Microsoft Word|word]].
 >
 > **[1:39](https://www.linkedin.com/learning/developing-chatbots-with-azure/entity-extractor?u=76281980&t=99)** It's very common that we use C followed by a hash for the word C#, and it's important to train all these entities in the entity extractor.
 >
@@ -389,15 +381,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (10), [[Microsoft Word|Word]] (2), nlp (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Python (Programming Language)|Python]] (1), [[Software Development]] (1)
 > **Analogies:** for example (5), just like (1)
 > **Env Vars:** usa (3), nlp (1), nyc (1)
 > **CLI Commands:** make (2), python (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Action server
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/action-server?u=76281980)
+#### [Action server](https://www.linkedin.com/learning/developing-chatbots-with-azure/action-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -421,13 +412,13 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/developing-chatbots-with-azure/action-server?u=76281980&t=50)** That's why we have intelligent chat bot developers, like you, in the picture.
 >
-> **[0:54](https://www.linkedin.com/learning/developing-chatbots-with-azure/action-server?u=76281980&t=54)** Once the chat bot engine understands the user language, converts them into intents and entities, the action server takes over and map the intent to fetch the right data from the corresponding DB or API.
+> **[0:54](https://www.linkedin.com/learning/developing-chatbots-with-azure/action-server?u=76281980&t=54)** Once the chat bot engine understands the user language, converts them into intents and entities, the action server takes over and map the intent to [[Fetch]] the right data from the corresponding DB or API.
 >
 > **[1:09](https://www.linkedin.com/learning/developing-chatbots-with-azure/action-server?u=76281980&t=69)** An action server is an interface that converts the intent to action.
 >
 > **[1:14](https://www.linkedin.com/learning/developing-chatbots-with-azure/action-server?u=76281980&t=74)** It is responsible for picking up the right data from the DB or external APIs, and most importantly, it can be written in any language of your choice.
 >
-> **[1:25](https://www.linkedin.com/learning/developing-chatbots-with-azure/action-server?u=76281980&t=85)** In this course, we will be using Python.
+> **[1:25](https://www.linkedin.com/learning/developing-chatbots-with-azure/action-server?u=76281980&t=85)** In this course, we will be using [[Python (Programming Language)|Python]].
 >
 > **[1:30](https://www.linkedin.com/learning/developing-chatbots-with-azure/action-server?u=76281980&t=90)** As a chat bot developer, it's your job to ensure that the right intents are mapped to right actions, all the necessary information, that is your entities, are available to perform the action.
 >
@@ -435,7 +426,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), business (2), application (1), [[Fetch]] (1), api (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** api (1)
@@ -447,8 +438,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing conversation for chatbots
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/designing-conversation-for-chatbots?u=76281980)
+#### [Designing conversation for chatbots](https://www.linkedin.com/learning/developing-chatbots-with-azure/designing-conversation-for-chatbots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -458,7 +448,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/developing-chatbots-with-azure/designing-conversation-for-chatbots?u=76281980&t=13)** It has language and platform agnostic you should start with designing a conversation that the user would likely to have the deal chatbot then identify the intents and entities.
 >
-> **[0:27](https://www.linkedin.com/learning/developing-chatbots-with-azure/designing-conversation-for-chatbots?u=76281980&t=27)** Once you have the intent and entities in the place train the bot engine of your choice in our case, it's Microsoft Azure.
+> **[0:27](https://www.linkedin.com/learning/developing-chatbots-with-azure/designing-conversation-for-chatbots?u=76281980&t=27)** Once you have the intent and entities in the place train the bot engine of your choice in our case, it's [[Microsoft Azure]].
 >
 > **[0:36](https://www.linkedin.com/learning/developing-chatbots-with-azure/designing-conversation-for-chatbots?u=76281980&t=36)** Once you have the bot engine trained write the action server to access the respect of data.
 >
@@ -468,11 +458,11 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/developing-chatbots-with-azure/designing-conversation-for-chatbots?u=76281980&t=61)** Designing the conversation is the web app equal and off designing the UI.
 >
-> **[1:05](https://www.linkedin.com/learning/developing-chatbots-with-azure/designing-conversation-for-chatbots?u=76281980&t=65)** Since the conversation is the one layer interface it should be engaging and usable for the end users you don't need any fancy setup for the step all you need is an empty document for the rest of the course, we will be building a product bot which will answer questions about the product of our mock company Red30 Tech.
+> **[1:05](https://www.linkedin.com/learning/developing-chatbots-with-azure/designing-conversation-for-chatbots?u=76281980&t=65)** Since the conversation is the one layer interface it should be engaging and usable for the end users you don't need any fancy setup for the step all you need is an empty document for the [[Representational State Transfer (REST)|rest]] of the course, we will be building a product bot which will answer questions about the product of our mock company Red30 Tech.
 >
 > **[1:28](https://www.linkedin.com/learning/developing-chatbots-with-azure/designing-conversation-for-chatbots?u=76281980&t=88)** Red30 Tech is a mock company that we are going to build the product portfolio.
 >
-> **[1:33](https://www.linkedin.com/learning/developing-chatbots-with-azure/designing-conversation-for-chatbots?u=76281980&t=93)** It has a series of lineup of products in AI and machine learning, cloud computing, security and so on.
+> **[1:33](https://www.linkedin.com/learning/developing-chatbots-with-azure/designing-conversation-for-chatbots?u=76281980&t=93)** It has a series of lineup of [[Microsoft Products|products]] in AI and machine learning, [[Cloud Computing]], security and so on.
 >
 > **[1:41](https://www.linkedin.com/learning/developing-chatbots-with-azure/designing-conversation-for-chatbots?u=76281980&t=101)** The data for all these projects are provided to us in a CSV file, which we will consume when building our bot.
 >
@@ -534,7 +524,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (12), chatbot (4), [[Microsoft Products|Products]] (4), data (2), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Microsoft Azure]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Cloud Computing]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** csv (2)
 > **Analogies:** imagine (1), for example (1)
@@ -542,8 +532,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying intents and entities
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/identifying-intents-and-entities?u=76281980)
+#### [Identifying intents and entities](https://www.linkedin.com/learning/developing-chatbots-with-azure/identifying-intents-and-entities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -587,7 +576,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/developing-chatbots-with-azure/identifying-intents-and-entities?u=76281980&t=112)** And there are other ways to ask this.
 >
-> **[1:56](https://www.linkedin.com/learning/developing-chatbots-with-azure/identifying-intents-and-entities?u=76281980&t=116)** Like, "I'm looking for some ML products".
+> **[1:56](https://www.linkedin.com/learning/developing-chatbots-with-azure/identifying-intents-and-entities?u=76281980&t=116)** Like, "I'm looking for some ML [[Microsoft Products|products]]".
 >
 > **[2:02](https://www.linkedin.com/learning/developing-chatbots-with-azure/identifying-intents-and-entities?u=76281980&t=122)** Or, "do you have any ML solutions?"
 >
@@ -619,7 +608,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/developing-chatbots-with-azure/identifying-intents-and-entities?u=76281980&t=196)** Or, "what are the features does redtech30 secure provide?"
 >
-> **[3:27](https://www.linkedin.com/learning/developing-chatbots-with-azure/identifying-intents-and-entities?u=76281980&t=207)** Now that we have came up with all these intents, you can repeat it for the rest of the conversation as well.
+> **[3:27](https://www.linkedin.com/learning/developing-chatbots-with-azure/identifying-intents-and-entities?u=76281980&t=207)** Now that we have came up with all these intents, you can repeat it for the [[Representational State Transfer (REST)|rest]] of the conversation as well.
 >
 > **[3:34](https://www.linkedin.com/learning/developing-chatbots-with-azure/identifying-intents-and-entities?u=76281980&t=214)** And you will have the list of intents.
 >
@@ -635,7 +624,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/developing-chatbots-with-azure/identifying-intents-and-entities?u=76281980&t=239)** But in case of get product list, the product list is usually got by specifying a category.
 >
-> **[4:06](https://www.linkedin.com/learning/developing-chatbots-with-azure/identifying-intents-and-entities?u=76281980&t=246)** Whether it's machine learning, or security, or cloud computing.
+> **[4:06](https://www.linkedin.com/learning/developing-chatbots-with-azure/identifying-intents-and-entities?u=76281980&t=246)** Whether it's machine learning, or security, or [[Cloud Computing]].
 >
 > **[4:11](https://www.linkedin.com/learning/developing-chatbots-with-azure/identifying-intents-and-entities?u=76281980&t=251)** So it depends on the category, right?
 >
@@ -655,13 +644,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), [[Microsoft Products|Products]] (3), next (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Cloud Computing]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Designing conversations
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/challenge-designing-conversations?u=76281980)
+#### [Challenge: Designing conversations](https://www.linkedin.com/learning/developing-chatbots-with-azure/challenge-designing-conversations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -669,7 +657,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/developing-chatbots-with-azure/challenge-designing-conversations?u=76281980&t=7)** - [Instructor] What you learn really sticks when you can apply all of it to a real-world problem.
 >
-> **[0:11](https://www.linkedin.com/learning/developing-chatbots-with-azure/challenge-designing-conversations?u=76281980&t=11)** For the rest of the course, while I build a product bot, you will follow along and build your own version of a bot for this challenge.
+> **[0:11](https://www.linkedin.com/learning/developing-chatbots-with-azure/challenge-designing-conversations?u=76281980&t=11)** For the [[Representational State Transfer (REST)|rest]] of the course, while I build a product bot, you will follow along and build your own version of a bot for this challenge.
 >
 > **[0:19](https://www.linkedin.com/learning/developing-chatbots-with-azure/challenge-designing-conversations?u=76281980&t=19)** The bot that you're going to build is called a job bot, a bot that can answer questions about job description of our Red Tech 30 company.
 >
@@ -685,13 +673,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), product (1), job description (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat playful music) (1)
 
-#### Solution: Designing conversations
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/solution-designing-conversations?u=76281980)
+#### [Solution: Designing conversations](https://www.linkedin.com/learning/developing-chatbots-with-azure/solution-designing-conversations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -731,15 +718,15 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/developing-chatbots-with-azure/solution-designing-conversations?u=76281980&t=76)** Because you're halfway through the course.
 >
-> **[1:18](https://www.linkedin.com/learning/developing-chatbots-with-azure/solution-designing-conversations?u=76281980&t=78)** For the rest of the course we'll use this design as a guiding light.
+> **[1:18](https://www.linkedin.com/learning/developing-chatbots-with-azure/solution-designing-conversations?u=76281980&t=78)** For the [[Representational State Transfer (REST)|rest]] of the course we'll use this design as a guiding light.
 >
-> **[1:22](https://www.linkedin.com/learning/developing-chatbots-with-azure/solution-designing-conversations?u=76281980&t=82)** And code a bot using Azure QnA Maker, LUIS and bot frame work.
+> **[1:22](https://www.linkedin.com/learning/developing-chatbots-with-azure/solution-designing-conversations?u=76281980&t=82)** And code a bot using [[Microsoft Azure|Azure]] QnA Maker, LUIS and bot frame work.
 >
 > **[1:27](https://www.linkedin.com/learning/developing-chatbots-with-azure/solution-designing-conversations?u=76281980&t=87)** Let's get going.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** luis (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -749,8 +736,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up the Azure account and building an echobot
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980)
+#### [Setting up the Azure account and building an echobot](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -762,9 +748,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=10)** Every chat bot project needs a good setup.
 >
-> **[0:13](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=13)** For this we need an Azure account.
+> **[0:13](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=13)** For this we need an [[Microsoft Azure|Azure]] account.
 >
-> **[0:15](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=15)** Pull off the project repository, Microsoft bot emulator and pipe the knowledge.
+> **[0:15](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=15)** Pull off the project repository, [[Microsoft]] bot emulator and pipe the knowledge.
 >
 > **[0:20](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=20)** Let's set this up one by one.
 >
@@ -776,7 +762,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=35)** Click on, create a resource search for QnA maker in the QnA maker service Click on create select the resource group if one already exists, if not create one for yourself and give your bot a name in our case product-bot-redtech30, click and select on a pricing dire.
 >
-> **[0:59](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=59)** Use an Azure search pricing dire and you can leave the rest of the things like that and click on review plus create.
+> **[0:59](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=59)** Use an Azure search pricing dire and you can leave the [[Representational State Transfer (REST)|rest]] of the things like that and click on review plus create.
 >
 > **[1:07](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=67)** Once you're happy with all the information provided, click on create.
 >
@@ -814,7 +800,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=138)** Click on create a new knowledge base.
 >
-> **[2:21](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=141)** Here you can see you have your Microsoft Azure ID select the subscription select the service that you have created previously and that will automatically select your language.
+> **[2:21](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=141)** Here you can see you have your [[Microsoft Azure]] ID select the subscription select the service that you have created previously and that will automatically select your language.
 >
 > **[2:33](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=153)** Give your knowledge base a name something like a product bot.
 >
@@ -846,11 +832,11 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=220)** I have two (indistinct) already created one for the job bot and another one for the product bot.
 >
-> **[3:47](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=227)** Next we need to download Microsoft bot emulator, go to Microsoft bot emulator github repository and click on download from one of these images that's available.
+> **[3:47](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=227)** Next we need to download Microsoft bot emulator, go to Microsoft bot emulator [[GitHub]] repository and click on download from one of these images that's available.
 >
 > **[4:01](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=241)** If you're using Mac, you can download the Mac image.
 >
-> **[4:03](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=243)** If you're using Linux or windows you can choose the one appropriately.
+> **[4:03](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=243)** If you're using [[Linux]] or [[Windows]] you can choose the one appropriately.
 >
 > **[4:08](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=248)** So once you have it downloaded you can open it by clicking on Microsoft bot emulator.
 >
@@ -858,7 +844,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=258)** The last and the final step for this section is to set up the code repository.
 >
-> **[4:23](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=263)** Once you have the bot emulator downloaded go to LinkedIn learnings github repository and clone this repo into your visual studio code.
+> **[4:23](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=263)** Once you have the bot emulator downloaded go to [[LinkedIn]] learnings github repository and clone this repo into your visual studio code.
 >
 > **[4:32](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=272)** You are free to use any other editors, just like this one.
 >
@@ -912,7 +898,7 @@ created: 2026-05-02
 >
 > **[6:14](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=374)** Now let's go to (indistinct) MD and see what the next step is.
 >
-> **[6:17](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=377)** We have to CD into our redtech30_product bot and we have run the Python app.bike So this is our bot server.
+> **[6:17](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=377)** We have to CD into our redtech30_product bot and we have run the [[Python (Programming Language)|Python]] app.bike So this is our bot server.
 >
 > **[6:27](https://www.linkedin.com/learning/developing-chatbots-with-azure/setting-up-the-azure-account-and-building-an-echobot?u=76281980&t=387)** So let's run this.
 >
@@ -974,7 +960,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (8), [[Microsoft Azure|Azure]] (6), product (5), next (4), [[Search]] (3)
+> **Frameworks & Libraries:** [[Microsoft]] (8), [[Microsoft Azure|Azure]] (6), [[Representational State Transfer (REST)|Rest]] (2), [[GitHub]] (2), [[Microsoft Azure]] (1)
 > **UI Navigation:** click on (16), go to (5), select the (4), dropdown (1)
 > **Prerequisites:** set up (5), install (4), setup (1)
 > **Env Vars:** url (2), qna (1), csv (1), pip (1), txt (1)
@@ -983,8 +969,7 @@ created: 2026-05-02
 > **Tools:** github (2), azure portal (1), visual studio (1)
 > **Exercise Files:** template (3), download the (1)
 
-#### Training QnA Maker and static productbot
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-qna-maker-and-static-productbot?u=76281980)
+#### [Training QnA Maker and static productbot](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-qna-maker-and-static-productbot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -992,7 +977,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-qna-maker-and-static-productbot?u=76281980&t=6)** When we designed a product bot became across intents which are segregated into static and dynamic questions.
 >
-> **[0:16](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-qna-maker-and-static-productbot?u=76281980&t=16)** For our chat bot to support tactic questions, we will use Microsoft QnA maker.
+> **[0:16](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-qna-maker-and-static-productbot?u=76281980&t=16)** For our chat bot to support tactic questions, we will use [[Microsoft]] QnA maker.
 >
 > **[0:23](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-qna-maker-and-static-productbot?u=76281980&t=23)** Go to [QnAmaker.ai](https://QnAmaker.ai) website, click on the product bot that you have already created.
 >
@@ -1012,7 +997,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-qna-maker-and-static-productbot?u=76281980&t=60)** (keyboard clicking) So you can just go on and on and add all the questions under one particular intent and what would be the answer for the same?
 >
-> **[1:07](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-qna-maker-and-static-productbot?u=76281980&t=67)** Hey, product word here.
+> **[1:07](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-qna-maker-and-static-productbot?u=76281980&t=67)** Hey, product [[Microsoft Word|word]] here.
 >
 > **[1:09](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-qna-maker-and-static-productbot?u=76281980&t=69)** (keyboard clicking) How can I help you?
 >
@@ -1056,7 +1041,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-qna-maker-and-static-productbot?u=76281980&t=150)** So the details that you would need are this post URL which will have an app ID.
 >
-> **[2:36](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-qna-maker-and-static-productbot?u=76281980&t=156)** This is your application ID and then an authorization key which is going to be here and then the host of your Azure account.
+> **[2:36](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-qna-maker-and-static-productbot?u=76281980&t=156)** This is your application ID and then an authorization key which is going to be here and then the host of your [[Microsoft Azure|Azure]] account.
 >
 > **[2:46](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-qna-maker-and-static-productbot?u=76281980&t=166)** So this is where your maker model is hosted.
 >
@@ -1116,7 +1101,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-qna-maker-and-static-productbot?u=76281980&t=292)** So I'm going to add an init method.
 >
-> **[4:54](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-qna-maker-and-static-productbot?u=76281980&t=294)** This is an initializer in python, and this initializer is going to get some config and using that config, it is going to create a QnA maker object.
+> **[4:54](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-qna-maker-and-static-productbot?u=76281980&t=294)** This is an initializer in [[Python (Programming Language)|python]], and this initializer is going to get some config and using that config, it is going to create a QnA maker object.
 >
 > **[5:11](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-qna-maker-and-static-productbot?u=76281980&t=311)** So this is going to be a self object, and it's going to use a QnA maker class to create this object.
 >
@@ -1222,7 +1207,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), api (3), next (3), ai (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Python (Programming Language)|Python]] (2), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** go to (3), click on (3), switch to (1)
 > **File Paths:** app.py (3), config.py (1), load.env (1), bot.py (1)
 > **Env Vars:** api (3), env (2), url (1)
@@ -1231,8 +1216,7 @@ created: 2026-05-02
 > **CLI Commands:** make (3), python (2)
 > **URLs:** [qnamaker.ai](https://qnamaker.ai) (1), [builder.ai](https://builder.ai) (1)
 
-#### Training LUIS and dynamic productbot
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-luis-and-dynamic-productbot?u=76281980)
+#### [Training LUIS and dynamic productbot](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-luis-and-dynamic-productbot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1276,7 +1260,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-luis-and-dynamic-productbot?u=76281980&t=151)** So that action is going to happen in the product intent handler.
 >
-> **[2:35](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-luis-and-dynamic-productbot?u=76281980&t=155)** So this product intent handler, will fetch the data from data handler, which is the product data Fetcher.
+> **[2:35](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-luis-and-dynamic-productbot?u=76281980&t=155)** So this product intent handler, will [[Fetch]] the data from data handler, which is the product data Fetcher.
 >
 > **[2:46](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-luis-and-dynamic-productbot?u=76281980&t=166)** And this product data Fetcher will get you the data and intent handler will return the response back to the user.
 >
@@ -1300,7 +1284,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-luis-and-dynamic-productbot?u=76281980&t=244)** I have returned this module completely for you.
 >
-> **[4:07](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-luis-and-dynamic-productbot?u=76281980&t=247)** It doesn't come with the Microsoft bot AI.
+> **[4:07](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-luis-and-dynamic-productbot?u=76281980&t=247)** It doesn't come with the [[Microsoft]] bot AI.
 >
 > **[4:10](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-luis-and-dynamic-productbot?u=76281980&t=250)** I have given you the template.
 >
@@ -1314,7 +1298,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-luis-and-dynamic-productbot?u=76281980&t=281)** And when I call get price, I'll get the price information.
 >
-> **[4:45](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-luis-and-dynamic-productbot?u=76281980&t=285)** And when I called list products, I list out all the products that matches this specific category.
+> **[4:45](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-luis-and-dynamic-productbot?u=76281980&t=285)** And when I called list [[Microsoft Products|products]], I list out all the products that matches this specific category.
 >
 > **[4:51](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-luis-and-dynamic-productbot?u=76281980&t=291)** So these are basic filter functions that have returned.
 >
@@ -1374,7 +1358,7 @@ created: 2026-05-02
 >
 > **[7:42](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-luis-and-dynamic-productbot?u=76281980&t=462)** So that finishes up our one intent completely.
 >
-> **[7:47](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-luis-and-dynamic-productbot?u=76281980&t=467)** Similarly, you can do the same for the rest of the intent.
+> **[7:47](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-luis-and-dynamic-productbot?u=76281980&t=467)** Similarly, you can do the same for the [[Representational State Transfer (REST)|rest]] of the intent.
 >
 > **[7:50](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-luis-and-dynamic-productbot?u=76281980&t=470)** It's pretty much the same.
 >
@@ -1390,7 +1374,7 @@ created: 2026-05-02
 >
 > **[8:26](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-luis-and-dynamic-productbot?u=76281980&t=506)** Running the chat bot is the same thing.
 >
-> **[8:28](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-luis-and-dynamic-productbot?u=76281980&t=508)** You have to run python app.py.
+> **[8:28](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-luis-and-dynamic-productbot?u=76281980&t=508)** You have to run [[Python (Programming Language)|python]] app.py.
 >
 > **[8:31](https://www.linkedin.com/learning/developing-chatbots-with-azure/training-luis-and-dynamic-productbot?u=76281980&t=511)** And if everything is well and good, the bot will run seamlessly.
 >
@@ -1456,7 +1440,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (44), data (23), application (4), cloud (4), api (3)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Fetch]] (2), [[Microsoft Products|Products]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** luis (17), api (3), csv (3), tsb (1)
 > **File Paths:** bot.py (2), product.csv (1), app.py (1)
 > **UI Navigation:** go to (3)
@@ -1465,8 +1449,7 @@ created: 2026-05-02
 > **Analogies:** similar to (2), for example (1)
 > **Code Identifiers:** get_entities (1), get_product (1)
 
-#### Challenge: Write your own chatbot
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/challenge-write-your-own-chatbot?u=76281980)
+#### [Challenge: Write your own chatbot](https://www.linkedin.com/learning/developing-chatbots-with-azure/challenge-write-your-own-chatbot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1486,7 +1469,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/developing-chatbots-with-azure/challenge-write-your-own-chatbot?u=76281980&t=43)** This challenge can take you a few hours to few days.
 >
-> **[0:47](https://www.linkedin.com/learning/developing-chatbots-with-azure/challenge-write-your-own-chatbot?u=76281980&t=47)** Refer to the Azure documentation for further readings and more details about the topics.
+> **[0:47](https://www.linkedin.com/learning/developing-chatbots-with-azure/challenge-write-your-own-chatbot?u=76281980&t=47)** Refer to the [[Microsoft Azure|Azure]] documentation for further readings and more details about the topics.
 >
 > **[0:53](https://www.linkedin.com/learning/developing-chatbots-with-azure/challenge-write-your-own-chatbot?u=76281980&t=53)** I hope you have a lot of fun and good luck.
 >
@@ -1494,15 +1477,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1)
 > **File Paths:** bot.py (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** starter code (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat playful music) (1)
 
-#### Solution: Write your own chatbot
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/solution-write-your-own-chatbot?u=76281980)
+#### [Solution: Write your own chatbot](https://www.linkedin.com/learning/developing-chatbots-with-azure/solution-write-your-own-chatbot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1534,13 +1516,13 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/developing-chatbots-with-azure/solution-write-your-own-chatbot?u=76281980&t=87)** And it's going to give me the introduction about Realtek30.
 >
-> **[1:31](https://www.linkedin.com/learning/developing-chatbots-with-azure/solution-write-your-own-chatbot?u=76281980&t=91)** And I'm going to ask my query saying, do you have any python jokes for five years experience?
+> **[1:31](https://www.linkedin.com/learning/developing-chatbots-with-azure/solution-write-your-own-chatbot?u=76281980&t=91)** And I'm going to ask my query saying, do you have any [[Python (Programming Language)|python]] jokes for five years experience?
 >
 > **[1:37](https://www.linkedin.com/learning/developing-chatbots-with-azure/solution-write-your-own-chatbot?u=76281980&t=97)** And it's going to give me a response, and wala, we have a fully functioning board ready to be deployed.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), product (1), next (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** get_job (2)
 > **CLI Commands:** python (1)
 > **Env Vars:** csv (1)
@@ -1553,8 +1535,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advancing the chatbot ladder
-> [LinkedIn Learning](https://www.linkedin.com/learning/developing-chatbots-with-azure/advancing-the-chatbot-ladder?u=76281980)
+#### [Advancing the chatbot ladder](https://www.linkedin.com/learning/developing-chatbots-with-azure/advancing-the-chatbot-ladder?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1576,7 +1557,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/developing-chatbots-with-azure/advancing-the-chatbot-ladder?u=76281980&t=33)** Chat bot also needs a good user interface, and as a chat bot developer you expose the APIs that these message platforms can connect to.
 >
-> **[0:43](https://www.linkedin.com/learning/developing-chatbots-with-azure/advancing-the-chatbot-ladder?u=76281980&t=43)** Azure has clear documentation on how to connect to these messaging channels.
+> **[0:43](https://www.linkedin.com/learning/developing-chatbots-with-azure/advancing-the-chatbot-ladder?u=76281980&t=43)** [[Microsoft Azure|Azure]] has clear documentation on how to connect to these messaging channels.
 >
 > **[0:48](https://www.linkedin.com/learning/developing-chatbots-with-azure/advancing-the-chatbot-ladder?u=76281980&t=48)** Those are worth checking out.
 >
@@ -1584,7 +1565,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/developing-chatbots-with-azure/advancing-the-chatbot-ladder?u=76281980&t=62)** From here, you can do a deep dive and check out the rich set of features that the Azure bot framework provides, or you can try swapping out Azure altogether and try different bot platforms, like Dialogflow or Rasa.
 >
-> **[1:20](https://www.linkedin.com/learning/developing-chatbots-with-azure/advancing-the-chatbot-ladder?u=76281980&t=80)** Finally, learning to build a chat bot is the same as software development journey.
+> **[1:20](https://www.linkedin.com/learning/developing-chatbots-with-azure/advancing-the-chatbot-ladder?u=76281980&t=80)** Finally, learning to build a chat bot is the same as [[Software Development]] journey.
 >
 > **[1:24](https://www.linkedin.com/learning/developing-chatbots-with-azure/advancing-the-chatbot-ladder?u=76281980&t=84)** You never stop learning.
 >
@@ -1592,7 +1573,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), web application (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Software Development]] (1)
 > **Speakers:** - [instructor] (1)
 
 

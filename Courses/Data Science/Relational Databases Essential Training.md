@@ -102,12 +102,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Organize data with the relational model
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/organize-data-with-the-relational-model?u=76281980)
+#### [Organize data with the relational model](https://www.linkedin.com/learning/relational-databases-essential-training/organize-data-with-the-relational-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/relational-databases-essential-training/organize-data-with-the-relational-model?u=76281980&t=1)** - [Instructor] Relational databases are the most popular way of managing information for a number of reasons.
+> **[0:01](https://www.linkedin.com/learning/relational-databases-essential-training/organize-data-with-the-relational-model?u=76281980&t=1)** - [Instructor] [[Relational Databases]] are the most popular way of managing information for a number of reasons.
 >
 > **[0:06](https://www.linkedin.com/learning/relational-databases-essential-training/organize-data-with-the-relational-model?u=76281980&t=6)** They store data efficiently.
 >
@@ -117,7 +116,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/relational-databases-essential-training/organize-data-with-the-relational-model?u=76281980&t=11)** Government agencies, programmers, gamers, and businesses large and small all over the world rely on relational database's for every day operations.
 >
-> **[0:20](https://www.linkedin.com/learning/relational-databases-essential-training/organize-data-with-the-relational-model?u=76281980&t=20)** And in my LinkedIn learning course I'm going to show you the things that you need to know in order to build one for yourself.
+> **[0:20](https://www.linkedin.com/learning/relational-databases-essential-training/organize-data-with-the-relational-model?u=76281980&t=20)** And in my [[LinkedIn]] learning course I'm going to show you the things that you need to know in order to build one for yourself.
 >
 > **[0:26](https://www.linkedin.com/learning/relational-databases-essential-training/organize-data-with-the-relational-model?u=76281980&t=26)** Hi, my name is Adam Wilbert and I've been introducing people to the benefits of organizing their data in relational database's for the past 15 years.
 >
@@ -127,31 +126,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), data (2), [[Relational Databases]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/relational-databases-essential-training/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/relational-databases-essential-training/what-you-should-know?u=76281980&t=1)** - [Instructor] To get the most out of this course, you should have a need to organize some data, but that's about it.
 >
-> **[0:06](https://www.linkedin.com/learning/relational-databases-essential-training/what-you-should-know?u=76281980&t=6)** This course is aimed at people that are brand new to relational databases, so no prior knowledge is expected.
+> **[0:06](https://www.linkedin.com/learning/relational-databases-essential-training/what-you-should-know?u=76281980&t=6)** This course is aimed at people that are brand new to [[Relational Databases]], so no prior knowledge is expected.
 >
-> **[0:11](https://www.linkedin.com/learning/relational-databases-essential-training/what-you-should-know?u=76281980&t=11)** I've written the material to be platform agnostic, so it doesn't matter if you plan on creating a database with SQL Server or MySQL or PostgreS or Microsoft Access, or if you don't even know what any of those are, that's fine, too.
+> **[0:11](https://www.linkedin.com/learning/relational-databases-essential-training/what-you-should-know?u=76281980&t=11)** I've written the material to be platform agnostic, so it doesn't matter if you plan on creating a database with [[Microsoft SQL Server|SQL Server]] or [[MySQL]] or [[PostgreSQL|PostgreS]] or [[Microsoft]] Access, or if you don't even know what any of those are, that's fine, too.
 >
 > **[0:24](https://www.linkedin.com/learning/relational-databases-essential-training/what-you-should-know?u=76281980&t=24)** All you need to do is bring a little curiosity about how relational databases work and be ready to apply what you learn to your own data needs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Relational Databases]] (2), database (1), [[Microsoft SQL Server|Sql server]] (1), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (2), [[Microsoft SQL Server|Sql server]] (1), [[MySQL]] (1), [[PostgreSQL|Postgres]] (1), [[Microsoft]] (1)
 > **CLI Commands:** mysql (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring the code challenge environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/exploring-the-code-challenge-environment-24764267?u=76281980)
+#### [Exploring the code challenge environment](https://www.linkedin.com/learning/relational-databases-essential-training/exploring-the-code-challenge-environment-24764267?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -161,7 +158,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/relational-databases-essential-training/exploring-the-code-challenge-environment-24764267?u=76281980&t=14)** These challenges are hosted by CoderPad, and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:21](https://www.linkedin.com/learning/relational-databases-essential-training/exploring-the-code-challenge-environment-24764267?u=76281980&t=21)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:21](https://www.linkedin.com/learning/relational-databases-essential-training/exploring-the-code-challenge-environment-24764267?u=76281980&t=21)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:29](https://www.linkedin.com/learning/relational-databases-essential-training/exploring-the-code-challenge-environment-24764267?u=76281980&t=29)** The code challenge has three areas.
 >
@@ -177,7 +174,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/relational-databases-essential-training/exploring-the-code-challenge-environment-24764267?u=76281980&t=60)** When you click on the Test my code button, you'll see a message indicating whether your code returned a correct result and a text-based version of the returned data.
 >
-> **[1:08](https://www.linkedin.com/learning/relational-databases-essential-training/exploring-the-code-challenge-environment-24764267?u=76281980&t=68)** In this case, this SQL query is not correct for this challenge, so I'll change it to a correct output.
+> **[1:08](https://www.linkedin.com/learning/relational-databases-essential-training/exploring-the-code-challenge-environment-24764267?u=76281980&t=68)** In this case, this [[SQL]] query is not correct for this challenge, so I'll change it to a correct output.
 >
 > **[1:13](https://www.linkedin.com/learning/relational-databases-essential-training/exploring-the-code-challenge-environment-24764267?u=76281980&t=73)** I'll select Max price as price from Dishes.
 >
@@ -189,7 +186,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[SQL]] (1)
 > **UI Navigation:** click on (2)
 > **Env Vars:** sql (1)
 > **Cross-References:** next video (1)
@@ -200,8 +197,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A brief introduction to data storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/a-brief-introduction-to-data-storage?u=76281980)
+#### [A brief introduction to data storage](https://www.linkedin.com/learning/relational-databases-essential-training/a-brief-introduction-to-data-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -295,7 +291,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/relational-databases-essential-training/a-brief-introduction-to-data-storage?u=76281980&t=192)** It is a little inefficient though with how much data is being store.
 >
-> **[3:16](https://www.linkedin.com/learning/relational-databases-essential-training/a-brief-introduction-to-data-storage?u=76281980&t=196)** You might of noticed that every time we stored the word Cairo, we also stored the word Egypt.
+> **[3:16](https://www.linkedin.com/learning/relational-databases-essential-training/a-brief-introduction-to-data-storage?u=76281980&t=196)** You might of noticed that every time we stored the [[Microsoft Word|word]] Cairo, we also stored the word Egypt.
 >
 > **[3:21](https://www.linkedin.com/learning/relational-databases-essential-training/a-brief-introduction-to-data-storage?u=76281980&t=201)** It also starts to break down if we have a photo with two or more people.
 >
@@ -325,7 +321,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Word|Word]] (2), next (1), [[Search]] (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **CLI Commands:** find (10), make (2)
 > **Analogies:** picture (8), for instance (1)
 > **Definitions:** is a  (3)
@@ -333,14 +329,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### E.F. Codd's relational model
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/e-f-codd-s-relational-model?u=76281980)
+#### [E.F. Codd's relational model](https://www.linkedin.com/learning/relational-databases-essential-training/e-f-codd-s-relational-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/relational-databases-essential-training/e-f-codd-s-relational-model?u=76281980&t=1)** - [Instructor] Data that's structured following the principles of the relational model make up the very core of our modern lives.
 >
-> **[0:07](https://www.linkedin.com/learning/relational-databases-essential-training/e-f-codd-s-relational-model?u=76281980&t=7)** Everything from the transactions in your bank account to the status updates that you post to social media are almost certainly managed and stored in relational databases.
+> **[0:07](https://www.linkedin.com/learning/relational-databases-essential-training/e-f-codd-s-relational-model?u=76281980&t=7)** Everything from the transactions in your bank account to the status updates that you post to social media are almost certainly managed and stored in [[Relational Databases]].
 >
 > **[0:16](https://www.linkedin.com/learning/relational-databases-essential-training/e-f-codd-s-relational-model?u=76281980&t=16)** The birth of the modern relational database can be traced back to an English data scientist named Edgar Frank Codd.
 >
@@ -420,7 +415,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), database (8), [[Relational Databases]] (1), [[Search]] (1), power (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (1)
 > **CLI Commands:** find (8), make (2)
 > **Analogies:** picture (3), for instance (1)
 > **Definitions:** is a  (2)
@@ -428,36 +423,35 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### What the CRUD?
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980)
+#### [What the CRUD?](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=0)** - [Narrator] If you need to create a written document it's likely that you'll turn to a word processor, like Microsoft Word.
+> **[0:00](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=0)** - [Narrator] If you need to create a written document it's likely that you'll turn to a [[Microsoft Word|word]] processor, like [[Microsoft Word]].
 >
-> **[0:06](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=6)** If you want to create a spreadsheet then you'll likely use a program like Microsoft Excel.
+> **[0:06](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=6)** If you want to create a spreadsheet then you'll likely use a program like [[Microsoft Excel]].
 >
 > **[0:11](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=11)** And in order to create a relational database, you'll need a specialized application to do so.
 >
-> **[0:16](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=16)** In order to create and store data in a relational database you need to use a relational database management system or RDBMS for short.
+> **[0:16](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=16)** In order to create and store data in a relational database you need to use a relational [[Database Management]] system or RDBMS for short.
 >
 > **[0:24](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=24)** There are a number of competing systems on the market today.
 >
 > **[0:27](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=27)** Some of which I'm sure you've heard of.
 >
-> **[0:29](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=29)** Microsoft SQL server and the cloud-hosted Azure SQL database are two popular relational database management systems.
+> **[0:29](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=29)** [[Microsoft SQL Server]] and the cloud-hosted [[Microsoft Azure|Azure]] [[SQL]] database are two popular relational database management systems.
 >
-> **[0:36](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=36)** As are: Oracle, PostgreSQL and IBM's Db2.
+> **[0:36](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=36)** As are: Oracle, [[PostgreSQL]] and IBM's Db2.
 >
-> **[0:41](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=41)** These systems power some of the world's largest corporations today and typically run on dedicated server hardware.
+> **[0:41](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=41)** These systems power some of the world's largest corporations today and typically run on dedicated server [[Hardware]].
 >
-> **[0:46](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=46)** Another RDBMS is MySQL.
+> **[0:46](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=46)** Another RDBMS is [[MySQL]].
 >
-> **[0:49](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=49)** It's a popular database management system used on web servers.
+> **[0:49](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=49)** It's a popular database management system used on [[Web Servers]].
 >
-> **[0:52](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=52)** Every website that uses the WordPress publishing platform for example, uses a MySQL database to manage blog posts and comments.
+> **[0:52](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=52)** Every website that uses the [[WordPress]] publishing platform for example, uses a MySQL database to manage blog posts and comments.
 >
-> **[1:00](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=60)** For smaller databases that you can run right on your local computer's desktop, you can find Microsoft Access on the PC and the FileMaker on macOS.
+> **[1:00](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=60)** For smaller [[Databases]] that you can run right on your local computer's desktop, you can find [[Microsoft]] Access on the PC and the FileMaker on macOS.
 >
 > **[1:09](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=69)** The RDBMS that you choose to use will largely depend on what you need it to do and the scale at which you need to do it.
 >
@@ -495,7 +489,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=152)** Some RDMBS's include components to develop reports with graphs or charts that make it easy to understand and share the data that's being stored.
 >
-> **[2:40](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=160)** Or to create forms that simplify the process of entering new data.
+> **[2:40](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=160)** Or to create [[Forms]] that simplify the process of entering new data.
 >
 > **[2:44](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=164)** Most RDBMS's use a combination of a graphical interface and a coding environment.
 >
@@ -515,7 +509,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=200)** Now I know that was a lot of acronyms, so lets run through them one more time.
 >
-> **[3:24](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=204)** The RDBMS, the relational database management system is the application that creates and manages relational databases.
+> **[3:24](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=204)** The RDBMS, the relational database management system is the application that creates and manages [[Relational Databases]].
 >
 > **[3:31](https://www.linkedin.com/learning/relational-databases-essential-training/what-the-crud?u=76281980&t=211)** When working with data, the RDBMS will perform CRUD tasks to create, read, update, and delete records.
 >
@@ -523,7 +517,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), database (12), management (5), [[SQL]] (5), application (2)
+> **Frameworks & Libraries:** [[Database Management]] (5), [[SQL]] (5), [[MySQL]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Word]] (1)
 > **Env Vars:** rdbms (10), sql (6), crud (3), ibm (1), rdmbs (1)
 > **CLI Commands:** mysql (2), make (2), find (1)
 > **Definitions:** stands for (2)
@@ -532,12 +526,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Relations, tuples, tables, and records
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/relations-tuples-tables-and-records?u=76281980)
+#### [Relations, tuples, tables, and records](https://www.linkedin.com/learning/relational-databases-essential-training/relations-tuples-tables-and-records?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/relational-databases-essential-training/relations-tuples-tables-and-records?u=76281980&t=0)** - [Instructor] E.F. Codd's Relational Model has its roots in mathematics and set theory, and this means that there's a number of technical terms that you're likely to come across as you delve into the world of relational databases.
+> **[0:00](https://www.linkedin.com/learning/relational-databases-essential-training/relations-tuples-tables-and-records?u=76281980&t=0)** - [Instructor] E.F. Codd's Relational Model has its roots in mathematics and set theory, and this means that there's a number of technical terms that you're likely to come across as you delve into the world of [[Relational Databases]].
 >
 > **[0:10](https://www.linkedin.com/learning/relational-databases-essential-training/relations-tuples-tables-and-records?u=76281980&t=10)** With that said, practical database use over the past 50 years has softened or simplified some of the major concepts.
 >
@@ -565,7 +558,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/relational-databases-essential-training/relations-tuples-tables-and-records?u=76281980&t=92)** This table is made up of columns for the person name, favorite color, and eye color.
 >
-> **[1:37](https://www.linkedin.com/learning/relational-databases-essential-training/relations-tuples-tables-and-records?u=76281980&t=97)** In some relational database management systems, they'll use the terms fields or attributes to refer to the same thing.
+> **[1:37](https://www.linkedin.com/learning/relational-databases-essential-training/relations-tuples-tables-and-records?u=76281980&t=97)** In some relational [[Database Management]] systems, they'll use the terms fields or attributes to refer to the same thing.
 >
 > **[1:43](https://www.linkedin.com/learning/relational-databases-essential-training/relations-tuples-tables-and-records?u=76281980&t=103)** These terms are all interchangeable and all refer to the vertical component of a table.
 >
@@ -597,7 +590,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), data (9), [[Relational Databases]] (1), management (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (1), [[Database Management]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** means that (1), refers to (1)
 > **Analogies:** for example (2)
@@ -609,8 +602,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Develop a model of the real world
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/develop-a-model-of-the-real-world-19270480?u=76281980)
+#### [Develop a model of the real world](https://www.linkedin.com/learning/relational-databases-essential-training/develop-a-model-of-the-real-world-19270480?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -622,7 +614,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/relational-databases-essential-training/develop-a-model-of-the-real-world-19270480?u=76281980&t=16)** A much better approach is to plan ahead and carefully think through the requirements of the system that you're about to build so that it accurately models the real world data that you need to store.
 >
-> **[0:27](https://www.linkedin.com/learning/relational-databases-essential-training/develop-a-model-of-the-real-world-19270480?u=76281980&t=27)** All relational databases attempt to create a model of some real world phenomenon.
+> **[0:27](https://www.linkedin.com/learning/relational-databases-essential-training/develop-a-model-of-the-real-world-19270480?u=76281980&t=27)** All [[Relational Databases]] attempt to create a model of some real world phenomenon.
 >
 > **[0:32](https://www.linkedin.com/learning/relational-databases-essential-training/develop-a-model-of-the-real-world-19270480?u=76281980&t=32)** The first steps in creating your personal database model is to identify what facts or pieces of information that you need to store.
 >
@@ -710,7 +702,7 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/relational-databases-essential-training/develop-a-model-of-the-real-world-19270480?u=76281980&t=325)** The N is a mathematical notation for any number.
 >
-> **[5:29](https://www.linkedin.com/learning/relational-databases-essential-training/develop-a-model-of-the-real-world-19270480?u=76281980&t=329)** Some relational database management systems use a one to infinity symbol notation instead to mean the same thing.
+> **[5:29](https://www.linkedin.com/learning/relational-databases-essential-training/develop-a-model-of-the-real-world-19270480?u=76281980&t=329)** Some relational [[Database Management]] systems use a one to infinity symbol notation instead to mean the same thing.
 >
 > **[5:36](https://www.linkedin.com/learning/relational-databases-essential-training/develop-a-model-of-the-real-world-19270480?u=76281980&t=336)** And still others take a more diagrammatic approach and use something called crow's foot notation.
 >
@@ -722,24 +714,23 @@ created: 2026-05-02
 >
 > **[5:58](https://www.linkedin.com/learning/relational-databases-essential-training/develop-a-model-of-the-real-world-19270480?u=76281980&t=358)** And that's the basics of creating an entity relationship diagram to help in the development of your relational database.
 >
-> **[6:05](https://www.linkedin.com/learning/relational-databases-essential-training/develop-a-model-of-the-real-world-19270480?u=76281980&t=365)** Your databases will almost certainly have more tables, but they'll all be designed and connected in the same way.
+> **[6:05](https://www.linkedin.com/learning/relational-databases-essential-training/develop-a-model-of-the-real-world-19270480?u=76281980&t=365)** Your [[Databases]] will almost certainly have more tables, but they'll all be designed and connected in the same way.
 >
 > **[6:12](https://www.linkedin.com/learning/relational-databases-essential-training/develop-a-model-of-the-real-world-19270480?u=76281980&t=372)** There will be more details that we can add in later to better define the structure of the database, but this is enough to get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (15), data (8), [[Relational Databases]] (1), business (1), management (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (1), [[Database Management]] (1), [[Databases]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is an  (1), is called (1), is a  (1)
 > **Env Vars:** uml (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choose an ER design tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980)
+#### [Choose an ER design tool](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980&t=1)** - [Instructor] Sketching out a plan before you start building tables and connecting them with relationships in your RDBMS is always going to be a recommended best practice.
+> **[0:01](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980&t=1)** - [Instructor] [[Sketching]] out a plan before you start building tables and connecting them with relationships in your RDBMS is always going to be a recommended best practice.
 >
 > **[0:09](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980&t=9)** This will help you think through your design and identify potential challenges early on before they become major flaws in your database.
 >
@@ -747,7 +738,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980&t=24)** But for those that prefer a software solution to help them create a design diagram and help them collaborate with coworkers, then you have a wide variety of options to choose from.
 >
-> **[0:33](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980&t=33)** There are standalone desktop applications that you can use, but those can be expensive and are often tied to developing databases for a specific RDBMS.
+> **[0:33](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980&t=33)** There are standalone desktop applications that you can use, but those can be expensive and are often tied to developing [[Databases]] for a specific RDBMS.
 >
 > **[0:42](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980&t=42)** For flexibility, I'd like to introduce you to a couple of free online tools that you could use.
 >
@@ -771,15 +762,15 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980&t=88)** When it opens you have a diagram with a number of tables and you can visualize how they connect together through relationships.
 >
-> **[1:34](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980&t=94)** I'm going to zoom in on my screen just a little bit here.
+> **[1:34](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980&t=94)** I'm going to [[Zoom]] in on my screen just a little bit here.
 >
 > **[1:39](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980&t=99)** Lucidchart gives you a graphical interface to work with so you can click and drag items around on the screen or double-click on items to start renaming them.
 >
 > **[1:46](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980&t=106)** You can either modify these tables to suit your needs or you can drag in additional components from the diagram shape library over here on the left.
 >
-> **[1:54](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980&t=114)** This is a pretty full-featured diagramming tool that I like a lot.
+> **[1:54](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980&t=114)** This is a pretty full-featured [[Diagramming]] tool that I like a lot.
 >
-> **[1:58](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980&t=118)** Another graphical tool that works well is called SQL Database Modeler and you can find it at [sqldbm.com](https://sqldbm.com).
+> **[1:58](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980&t=118)** Another graphical tool that works well is called [[SQL]] Database Modeler and you can find it at [sqldbm.com](https://sqldbm.com).
 >
 > **[2:05](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980&t=125)** This site doesn't require that you create an account if you just want to play around with a database diagram.
 >
@@ -789,7 +780,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980&t=137)** And they support some of the most popular options and this list has been growing as the site matures.
 >
-> **[2:22](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980&t=142)** I'm going to choose to create a SQL Server diagram and press open sample project.
+> **[2:22](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980&t=142)** I'm going to choose to create a [[Microsoft SQL Server|SQL Server]] diagram and press open sample project.
 >
 > **[2:28](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980&t=148)** This is another graphical interface based tool like Lucidchart.
 >
@@ -835,7 +826,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980&t=270)** You can also export your database diagram to a PDF, which will be good to share with colleagues, or even graphic files you can post online or include in an email.
 >
-> **[4:39](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980&t=279)** So this is the tool that I'm going to be using to build some entity relationship diagrams as we continue to explore how relational databases work.
+> **[4:39](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980&t=279)** So this is the tool that I'm going to be using to build some entity relationship diagrams as we continue to explore how [[Relational Databases]] work.
 >
 > **[4:46](https://www.linkedin.com/learning/relational-databases-essential-training/choose-an-er-design-tool?u=76281980&t=286)** But you can experiment with these tools or find another one that works best for you.
 >
@@ -849,7 +840,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), [[SQL]] (4), [[Diagramming]] (3), [[Sketching]] (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Diagramming]] (3), [[Sketching]] (1), [[Databases]] (1), [[Zoom]] (1)
 > **Env Vars:** rdbms (3), sql (3), uml (2), erd (1), dbms (1)
 > **CLI Commands:** find (3), make (3)
 > **URLs:** [lucidchart.com](https://lucidchart.com) (1), [sqldbm.com](https://sqldbm.com) (1), [dbdiagrams.io](https://dbdiagrams.io) (1), [quickdatabasediagrams.com](https://quickdatabasediagrams.com) (1)
@@ -858,8 +849,7 @@ created: 2026-05-02
 > **Analogies:** similar to (2)
 > **Best Practices:** recommended (1), best practice (1)
 
-#### Design a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/design-a-table?u=76281980)
+#### [Design a table](https://www.linkedin.com/learning/relational-databases-essential-training/design-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -875,7 +865,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/relational-databases-essential-training/design-a-table?u=76281980&t=23)** Now we can use this blank canvas to develop our own diagram.
 >
-> **[0:26](https://www.linkedin.com/learning/relational-databases-essential-training/design-a-table?u=76281980&t=26)** I want to create a database for storing information about the products sold by my company.
+> **[0:26](https://www.linkedin.com/learning/relational-databases-essential-training/design-a-table?u=76281980&t=26)** I want to create a database for storing information about the [[Microsoft Products|products]] sold by my company.
 >
 > **[0:30](https://www.linkedin.com/learning/relational-databases-essential-training/design-a-table?u=76281980&t=30)** I'll start by creating a table called "Products."
 >
@@ -883,7 +873,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/relational-databases-essential-training/design-a-table?u=76281980&t=39)** You can click and drag it around the screen if you want to move it into a new position.
 >
-> **[0:43](https://www.linkedin.com/learning/relational-databases-essential-training/design-a-table?u=76281980&t=43)** Now in this diagramming tool, you're going to want to type one or more hyphens to separate the table name from the columns.
+> **[0:43](https://www.linkedin.com/learning/relational-databases-essential-training/design-a-table?u=76281980&t=43)** Now in this [[Diagramming]] tool, you're going to want to type one or more hyphens to separate the table name from the columns.
 >
 > **[0:49](https://www.linkedin.com/learning/relational-databases-essential-training/design-a-table?u=76281980&t=49)** So, over here on the left, I'm going to come down to the next line, and I'll just type in three hyphens, just to separate that out, and then come down to line number three.
 >
@@ -893,7 +883,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/relational-databases-essential-training/design-a-table?u=76281980&t=64)** Notice that I'm not including a space in the column name.
 >
-> **[1:07](https://www.linkedin.com/learning/relational-databases-essential-training/design-a-table?u=76281980&t=67)** Most database applications will accept spaces in names, but you'll have to take special care so that the system doesn't get confused.
+> **[1:07](https://www.linkedin.com/learning/relational-databases-essential-training/design-a-table?u=76281980&t=67)** Most [[Database Applications]] will accept spaces in names, but you'll have to take special care so that the system doesn't get confused.
 >
 > **[1:13](https://www.linkedin.com/learning/relational-databases-essential-training/design-a-table?u=76281980&t=73)** You'll do this by wrapping the name in either quotation marks or square brackets, depending on the RDBMS that you're working with.
 >
@@ -951,7 +941,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), next (5), data (5), [[Microsoft Products|Products]] (4), product (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Diagramming]] (1), [[Database Applications]] (1)
 > **Non-Speech:** (keys clicking) (9)
 > **CLI Commands:** make (2)
 > **Env Vars:** rdbms (1), dbms (1)
@@ -959,8 +949,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Attribute data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/attribute-data-types?u=76281980)
+#### [Attribute data types](https://www.linkedin.com/learning/relational-databases-essential-training/attribute-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -980,7 +969,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/relational-databases-essential-training/attribute-data-types?u=76281980&t=38)** That's a mathematically precise way of saying that each column only stores a single type of data.
 >
-> **[0:43](https://www.linkedin.com/learning/relational-databases-essential-training/attribute-data-types?u=76281980&t=43)** Because of this the relational database management system can use this fact in a number of useful ways.
+> **[0:43](https://www.linkedin.com/learning/relational-databases-essential-training/attribute-data-types?u=76281980&t=43)** Because of this the relational [[Database Management]] system can use this fact in a number of useful ways.
 >
 > **[0:49](https://www.linkedin.com/learning/relational-databases-essential-training/attribute-data-types?u=76281980&t=49)** First when the data types are known ahead of time the RDBMS can store data more efficiently.
 >
@@ -990,9 +979,9 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/relational-databases-essential-training/attribute-data-types?u=76281980&t=65)** Next the RDBMS can make better predictions about how much data it can load into memory when performing searches.
 >
-> **[1:11](https://www.linkedin.com/learning/relational-databases-essential-training/attribute-data-types?u=76281980&t=71)** For large databases the ability of the system to make accurate predictions before executing a routine, can dramatically help balance work loads.
+> **[1:11](https://www.linkedin.com/learning/relational-databases-essential-training/attribute-data-types?u=76281980&t=71)** For large [[Databases]] the ability of the system to make accurate predictions before executing a routine, can dramatically help balance work loads.
 >
-> **[1:19](https://www.linkedin.com/learning/relational-databases-essential-training/attribute-data-types?u=76281980&t=79)** And finally, specifying a data type will allow the database engine to help protect the data quality.
+> **[1:19](https://www.linkedin.com/learning/relational-databases-essential-training/attribute-data-types?u=76281980&t=79)** And finally, specifying a data type will allow the database engine to help protect the [[Data Quality]].
 >
 > **[1:25](https://www.linkedin.com/learning/relational-databases-essential-training/attribute-data-types?u=76281980&t=85)** If the table is expecting a date and a user tries to put in elephant, it simply is going to get rejected.
 >
@@ -1062,7 +1051,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/relational-databases-essential-training/attribute-data-types?u=76281980&t=258)** The color will also be varchar 20.
 >
-> **[4:23](https://www.linkedin.com/learning/relational-databases-essential-training/attribute-data-types?u=76281980&t=263)** For the price column I'm going to target SQL server as my DMBS so I'm going to use the money data type.
+> **[4:23](https://www.linkedin.com/learning/relational-databases-essential-training/attribute-data-types?u=76281980&t=263)** For the price column I'm going to target [[Microsoft SQL Server|SQL server]] as my DMBS so I'm going to use the money data type.
 >
 > **[4:30](https://www.linkedin.com/learning/relational-databases-essential-training/attribute-data-types?u=76281980&t=270)** Other systems might not support a specific currency data type so you might need to use a decimal number here.
 >
@@ -1098,7 +1087,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (36), database (8), management (4), next (4), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Database Management]] (3), [[Data Quality]] (2), [[Databases]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** rdbms (6), sql (1), dmbs (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for instance (2), it's like (1)
@@ -1107,12 +1096,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use primary keys to identify records
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/use-primary-keys-to-identify-records?u=76281980)
+#### [Use primary keys to identify records](https://www.linkedin.com/learning/relational-databases-essential-training/use-primary-keys-to-identify-records?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/relational-databases-essential-training/use-primary-keys-to-identify-records?u=76281980&t=1)** - [Narrator] Relational databases only work if the system can uniquely identify each record in a table.
+> **[0:01](https://www.linkedin.com/learning/relational-databases-essential-training/use-primary-keys-to-identify-records?u=76281980&t=1)** - [Narrator] [[Relational Databases]] only work if the system can uniquely identify each record in a table.
 >
 > **[0:07](https://www.linkedin.com/learning/relational-databases-essential-training/use-primary-keys-to-identify-records?u=76281980&t=7)** They do this using a column that's been designated as the table's primary key.
 >
@@ -1126,7 +1114,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/relational-databases-essential-training/use-primary-keys-to-identify-records?u=76281980&t=38)** These unique identifiers are all critically important to the functionality of the systems that you participate in.
 >
-> **[0:44](https://www.linkedin.com/learning/relational-databases-essential-training/use-primary-keys-to-identify-records?u=76281980&t=44)** Beyond the databases that identify you as a unique person, businesses need to have unique product numbers so that they ship the correct items to customers.
+> **[0:44](https://www.linkedin.com/learning/relational-databases-essential-training/use-primary-keys-to-identify-records?u=76281980&t=44)** Beyond the [[Databases]] that identify you as a unique person, businesses need to have unique product numbers so that they ship the correct items to customers.
 >
 > **[0:52](https://www.linkedin.com/learning/relational-databases-essential-training/use-primary-keys-to-identify-records?u=76281980&t=52)** Books have ISBN numbers and computers have serial numbers.
 >
@@ -1212,7 +1200,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/relational-databases-essential-training/use-primary-keys-to-identify-records?u=76281980&t=256)** We just need to make sure that we think through which field will uniquely identify every record in the table.
 >
-> **[4:21](https://www.linkedin.com/learning/relational-databases-essential-training/use-primary-keys-to-identify-records?u=76281980&t=261)** In the Products table you might consider the product name as potentially unique, or the part number.
+> **[4:21](https://www.linkedin.com/learning/relational-databases-essential-training/use-primary-keys-to-identify-records?u=76281980&t=261)** In the [[Microsoft Products|Products]] table you might consider the product name as potentially unique, or the part number.
 >
 > **[4:26](https://www.linkedin.com/learning/relational-databases-essential-training/use-primary-keys-to-identify-records?u=76281980&t=266)** So each of these are good candidates.
 >
@@ -1256,14 +1244,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), product (5), database (5), [[Databases]] (2), business (2)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Relational Databases]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** isbn (3)
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Object naming considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/object-naming-considerations?u=76281980)
+#### [Object naming considerations](https://www.linkedin.com/learning/relational-databases-essential-training/object-naming-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1293,7 +1280,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/relational-databases-essential-training/object-naming-considerations?u=76281980&t=67)** Those extra wrapper characters often negate any legibility benefits that including spaces in your names was meant to create in the first place.
 >
-> **[1:14](https://www.linkedin.com/learning/relational-databases-essential-training/object-naming-considerations?u=76281980&t=74)** So I suggest that you avoid spaces all together, instead, use underscores, hyphens, or push words together and capitalize each word.
+> **[1:14](https://www.linkedin.com/learning/relational-databases-essential-training/object-naming-considerations?u=76281980&t=74)** So I suggest that you avoid spaces all together, instead, use underscores, hyphens, or push words together and capitalize each [[Microsoft Word|word]].
 >
 > **[1:22](https://www.linkedin.com/learning/relational-databases-essential-training/object-naming-considerations?u=76281980&t=82)** There are a number of words that you should avoid using in your names entirely, these are called Reserved Words.
 >
@@ -1331,7 +1318,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (2), management (1), [[Microsoft Word|Word]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** rdbms (2)
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
@@ -1344,8 +1331,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data constraints
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/data-constraints?u=76281980)
+#### [Data constraints](https://www.linkedin.com/learning/relational-databases-essential-training/data-constraints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1353,7 +1339,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/relational-databases-essential-training/data-constraints?u=76281980&t=6)** For the most part, this requires that you set specific rules on the data tables to control what will be allowed in.
 >
-> **[0:11](https://www.linkedin.com/learning/relational-databases-essential-training/data-constraints?u=76281980&t=11)** If someone tries to enter data that violates one of the rules, then the database management system won't allow the record to be saved into the table.
+> **[0:11](https://www.linkedin.com/learning/relational-databases-essential-training/data-constraints?u=76281980&t=11)** If someone tries to enter data that violates one of the rules, then the [[Database Management]] system won't allow the record to be saved into the table.
 >
 > **[0:19](https://www.linkedin.com/learning/relational-databases-essential-training/data-constraints?u=76281980&t=19)** The user will receive an error message and will have to try again with different values.
 >
@@ -1381,29 +1367,28 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/relational-databases-essential-training/data-constraints?u=76281980&t=85)** Both of those are good ideas to implement.
 >
-> **[1:27](https://www.linkedin.com/learning/relational-databases-essential-training/data-constraints?u=76281980&t=87)** And if you ever did have two customers with the same email address or two different part numbers with the same ID number, then you could imagine the negative impact that that could have on business operations.
+> **[1:27](https://www.linkedin.com/learning/relational-databases-essential-training/data-constraints?u=76281980&t=87)** And if you ever did have two customers with the same email address or two different part numbers with the same ID number, then you could imagine the negative impact that that could have on [[Business Operations]].
 >
 > **[1:37](https://www.linkedin.com/learning/relational-databases-essential-training/data-constraints?u=76281980&t=97)** By codifying the uniqueness constraint in the database, the system will help ensure that neither of those cases ever occurs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (4), business (4), management (1)
+> **Frameworks & Libraries:** [[Database Management]] (1), [[Business Operations]] (1)
 > **Analogies:** for instance (1), imagine (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a unique constraint
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-unique-constraint?u=76281980)
+#### [Create a unique constraint](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-unique-constraint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-unique-constraint?u=76281980&t=1)** - [Instructor] In our database diagram that we started in the previous chapter, we've already identified the primary keys for each of these tables: the Part Number field in the Products table and the Supplier ID field in the Suppliers table.
+> **[0:01](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-unique-constraint?u=76281980&t=1)** - [Instructor] In our database diagram that we started in the previous chapter, we've already identified the primary keys for each of these tables: the Part Number field in the [[Microsoft Products|Products]] table and the Supplier ID field in the Suppliers table.
 >
 > **[0:11](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-unique-constraint?u=76281980&t=11)** Now, I've saved this text that makes up these tables into the exercise files for the course for your reference.
 >
 > **[0:16](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-unique-constraint?u=76281980&t=16)** Now let's suppose we also need to ensure that the Product Name in the Products table also has a unique constraint applied to it.
 >
-> **[0:22](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-unique-constraint?u=76281980&t=22)** You can make a note of that requirement in this diagramming application by simply placing the word "unique" after the data type.
+> **[0:22](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-unique-constraint?u=76281980&t=22)** You can make a note of that requirement in this [[Diagramming]] application by simply placing the [[Microsoft Word|word]] "unique" after the data type.
 >
 > **[0:30](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-unique-constraint?u=76281980&t=30)** That'll update the diagram on the right and it displays this little key icon here on this particular column.
 >
@@ -1413,7 +1398,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-unique-constraint?u=76281980&t=46)** So now let's test it out.
 >
-> **[0:48](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-unique-constraint?u=76281980&t=48)** I'ma come up here to the Export button and choose to export the script for SQL Server.
+> **[0:48](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-unique-constraint?u=76281980&t=48)** I'ma come up here to the Export button and choose to export the script for [[Microsoft SQL Server|SQL Server]].
 >
 > **[0:53](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-unique-constraint?u=76281980&t=53)** That'll download a file to my computer.
 >
@@ -1441,7 +1426,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-unique-constraint?u=76281980&t=105)** Then we'll go back to my web browser and open up a new tab at a site called [sqlfiddle.com](https://sqlfiddle.com).
 >
-> **[1:52](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-unique-constraint?u=76281980&t=112)** This is a website that allows you to play around and experiment with SQL commands without the need for a full relational database application.
+> **[1:52](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-unique-constraint?u=76281980&t=112)** This is a website that allows you to play around and experiment with [[SQL]] commands without the need for a full relational database application.
 >
 > **[1:59](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-unique-constraint?u=76281980&t=119)** In this dropdown menu at the top of the screen, I'm going to choose to use MS SQL Server 2017 to make sure that it's compatible with the text that we just exported from the diagramming tool.
 >
@@ -1511,7 +1496,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-unique-constraint?u=76281980&t=268)** Because this product name is going to match exactly the product name that we entered earlier, it's going to violate the unique constraint that we applied to the data table.
 >
-> **[4:35](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-unique-constraint?u=76281980&t=275)** Let's continue on, typing in the rest of the values for this particular record.
+> **[4:35](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-unique-constraint?u=76281980&t=275)** Let's continue on, typing in the [[Representational State Transfer (REST)|rest]] of the values for this particular record.
 >
 > **[4:40](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-unique-constraint?u=76281980&t=280)** The part number is going to be 101.
 >
@@ -1539,11 +1524,11 @@ created: 2026-05-02
 >
 > **[5:31](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-unique-constraint?u=76281980&t=331)** And that's how you enforce uniqueness across the values stored in a column.
 >
-> **[5:35](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-unique-constraint?u=76281980&t=335)** The Relational Database Management System attaches the constraint to the table and then it monitors data entry processes to ensure that the rule isn't violated as new records get added into the database.
+> **[5:35](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-unique-constraint?u=76281980&t=335)** The Relational [[Database Management]] System attaches the constraint to the table and then it monitors data entry processes to ensure that the rule isn't violated as new records get added into the database.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (13), product (9), database (7), data (7), next (6)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (13), [[Diagramming]] (3), [[Microsoft SQL Server|Sql server]] (3), [[SQL]] (3), [[Microsoft Word|Word]] (2)
 > **Env Vars:** sql (6), rdbms (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** previous chapter (1), go back to (1)
@@ -1552,8 +1537,7 @@ created: 2026-05-02
 > **UI Navigation:** dropdown (1)
 > **Exercise Files:** exercise files (1)
 
-#### Required attributes and null values
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/required-attributes-and-null-values?u=76281980)
+#### [Required attributes and null values](https://www.linkedin.com/learning/relational-databases-essential-training/required-attributes-and-null-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1587,7 +1571,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/relational-databases-essential-training/required-attributes-and-null-values?u=76281980&t=63)** The birthday column should not be required to be filled in in this case, which by definition, will require that it allowed null values.
 >
-> **[1:10](https://www.linkedin.com/learning/relational-databases-essential-training/required-attributes-and-null-values?u=76281980&t=70)** But what if this data table represents a listing of employees that was maintained by human resources, and the birthday information was required to be collected for compliance reasons?
+> **[1:10](https://www.linkedin.com/learning/relational-databases-essential-training/required-attributes-and-null-values?u=76281980&t=70)** But what if this data table represents a listing of employees that was maintained by [[Human Resources (HR)|human resources]], and the birthday information was required to be collected for compliance reasons?
 >
 > **[1:19](https://www.linkedin.com/learning/relational-databases-essential-training/required-attributes-and-null-values?u=76281980&t=79)** In this case, a missing birthday could present a potential liability for the company.
 >
@@ -1599,11 +1583,11 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/relational-databases-essential-training/required-attributes-and-null-values?u=76281980&t=106)** Let's go through the data table in our design diagram and decide whether each column should allow null values or not.
 >
-> **[1:52](https://www.linkedin.com/learning/relational-databases-essential-training/required-attributes-and-null-values?u=76281980&t=112)** Now, in the diagramming tool that we're using, it makes the assumption that every column is required, or not null, unless you specify otherwise.
+> **[1:52](https://www.linkedin.com/learning/relational-databases-essential-training/required-attributes-and-null-values?u=76281980&t=112)** Now, in the [[Diagramming]] tool that we're using, it makes the assumption that every column is required, or not null, unless you specify otherwise.
 >
-> **[1:59](https://www.linkedin.com/learning/relational-databases-essential-training/required-attributes-and-null-values?u=76281980&t=119)** To define a column as an optional piece of information, you're going to add the word null after the data type.
+> **[1:59](https://www.linkedin.com/learning/relational-databases-essential-training/required-attributes-and-null-values?u=76281980&t=119)** To define a column as an optional piece of information, you're going to add the [[Microsoft Word|word]] null after the data type.
 >
-> **[2:05](https://www.linkedin.com/learning/relational-databases-essential-training/required-attributes-and-null-values?u=76281980&t=125)** For instance, in the products table, maybe size and color doesn't apply to some of the products that we carry.
+> **[2:05](https://www.linkedin.com/learning/relational-databases-essential-training/required-attributes-and-null-values?u=76281980&t=125)** For instance, in the [[Microsoft Products|products]] table, maybe size and color doesn't apply to some of the products that we carry.
 >
 > **[2:10](https://www.linkedin.com/learning/relational-databases-essential-training/required-attributes-and-null-values?u=76281980&t=130)** I can code the optionality of these columns into the design of the database by adding the keyword null after the data type.
 >
@@ -1617,19 +1601,19 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/relational-databases-essential-training/required-attributes-and-null-values?u=76281980&t=162)** I'm going to come up here to the export button, and this time, I'm going to choose something a little bit different.
 >
-> **[2:45](https://www.linkedin.com/learning/relational-databases-essential-training/required-attributes-and-null-values?u=76281980&t=165)** Let's take a look at the postgreSQL code.
+> **[2:45](https://www.linkedin.com/learning/relational-databases-essential-training/required-attributes-and-null-values?u=76281980&t=165)** Let's take a look at the [[PostgreSQL]] code.
 >
 > **[2:49](https://www.linkedin.com/learning/relational-databases-essential-training/required-attributes-and-null-values?u=76281980&t=169)** Once again, that'll download a new file onto our computer, and I'm going to move over here and take a look at it.
 >
 > **[2:54](https://www.linkedin.com/learning/relational-databases-essential-training/required-attributes-and-null-values?u=76281980&t=174)** And, it's this one right here.
 >
-> **[2:55](https://www.linkedin.com/learning/relational-databases-essential-training/required-attributes-and-null-values?u=76281980&t=175)** I'm going to open it up in my standard text editor, and we can see it looks a little bit different than the code that we saw for SQL server earlier.
+> **[2:55](https://www.linkedin.com/learning/relational-databases-essential-training/required-attributes-and-null-values?u=76281980&t=175)** I'm going to open it up in my standard text editor, and we can see it looks a little bit different than the code that we saw for [[Microsoft SQL Server|SQL server]] earlier.
 >
 > **[3:03](https://www.linkedin.com/learning/relational-databases-essential-training/required-attributes-and-null-values?u=76281980&t=183)** The postgreSQL code uses double quotation marks, whereas SQL server uses square brackets.
 >
 > **[3:08](https://www.linkedin.com/learning/relational-databases-essential-training/required-attributes-and-null-values?u=76281980&t=188)** But, the syntax that you're seeing here on the screen is mostly the same.
 >
-> **[3:11](https://www.linkedin.com/learning/relational-databases-essential-training/required-attributes-and-null-values?u=76281980&t=191)** This is because both database management systems used the same basic SQL commands to run their product.
+> **[3:11](https://www.linkedin.com/learning/relational-databases-essential-training/required-attributes-and-null-values?u=76281980&t=191)** This is because both [[Database Management]] systems used the same basic [[SQL]] commands to run their product.
 >
 > **[3:17](https://www.linkedin.com/learning/relational-databases-essential-training/required-attributes-and-null-values?u=76281980&t=197)** In any case, the part that I want to focus on is at the end of each line that defines the properties for each column.
 >
@@ -1645,7 +1629,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), database (9), [[Microsoft Products|Products]] (3), product (3), [[Diagramming]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Diagramming]] (2), [[PostgreSQL]] (2), [[Microsoft SQL Server|Sql server]] (2), [[Database Management]] (2)
 > **Env Vars:** sql (3)
 > **Code Identifiers:** postgresql (2)
 > **Analogies:** for instance (1), just like (1)
@@ -1653,8 +1637,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define a default value
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/define-a-default-value?u=76281980)
+#### [Define a default value](https://www.linkedin.com/learning/relational-databases-essential-training/define-a-default-value?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1666,7 +1649,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/relational-databases-essential-training/define-a-default-value?u=76281980&t=23)** This'll be done unless we specify a different number when we enter the record.
 >
-> **[0:28](https://www.linkedin.com/learning/relational-databases-essential-training/define-a-default-value?u=76281980&t=28)** In the diagramming tool, to note a default value, add the "default" keyword after the column's data-type.
+> **[0:28](https://www.linkedin.com/learning/relational-databases-essential-training/define-a-default-value?u=76281980&t=28)** In the [[Diagramming]] tool, to note a default value, add the "default" keyword after the column's data-type.
 >
 > **[0:35](https://www.linkedin.com/learning/relational-databases-essential-training/define-a-default-value?u=76281980&t=35)** Then we'll type in an equals sign and the value that you want to be applied automatically.
 >
@@ -1674,7 +1657,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/relational-databases-essential-training/define-a-default-value?u=76281980&t=41)** There is no indication of this change over here in the diagram, but let's take a look at what happens with the code.
 >
-> **[0:46](https://www.linkedin.com/learning/relational-databases-essential-training/define-a-default-value?u=76281980&t=46)** I'm going to come up here to the export menu and once again, I'm going to export the code for SQL Server.
+> **[0:46](https://www.linkedin.com/learning/relational-databases-essential-training/define-a-default-value?u=76281980&t=46)** I'm going to come up here to the export menu and once again, I'm going to export the code for [[Microsoft SQL Server|SQL Server]].
 >
 > **[0:52](https://www.linkedin.com/learning/relational-databases-essential-training/define-a-default-value?u=76281980&t=52)** That'll download the file to my computer, and I'll switch over here to my downloads folder, and we'll find it.
 >
@@ -1692,7 +1675,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/relational-databases-essential-training/define-a-default-value?u=76281980&t=86)** So let's copy out all of this code.
 >
-> **[1:27](https://www.linkedin.com/learning/relational-databases-essential-training/define-a-default-value?u=76281980&t=87)** I'll select it and copy it to my clipboard and then we'll switch back over to the SQL Fiddle tool.
+> **[1:27](https://www.linkedin.com/learning/relational-databases-essential-training/define-a-default-value?u=76281980&t=87)** I'll select it and copy it to my clipboard and then we'll switch back over to the [[SQL]] Fiddle tool.
 >
 > **[1:32](https://www.linkedin.com/learning/relational-databases-essential-training/define-a-default-value?u=76281980&t=92)** I still have the window open from the last time that we used this site, but if you don't, make sure you switch the syntax to SQL Server.
 >
@@ -1702,7 +1685,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/relational-databases-essential-training/define-a-default-value?u=76281980&t=109)** This time, because I'm not going to provide values for every column in the table, I need to specify what columns I'm filling in.
 >
-> **[1:56](https://www.linkedin.com/learning/relational-databases-essential-training/define-a-default-value?u=76281980&t=116)** The syntax for this is going to be INSERT INTO Products, then I'll open up a parentheses, and list out the columns that I'm going to give values for.
+> **[1:56](https://www.linkedin.com/learning/relational-databases-essential-training/define-a-default-value?u=76281980&t=116)** The syntax for this is going to be INSERT INTO [[Microsoft Products|Products]], then I'll open up a parentheses, and list out the columns that I'm going to give values for.
 >
 > **[2:06](https://www.linkedin.com/learning/relational-databases-essential-training/define-a-default-value?u=76281980&t=126)** In this case the product name column, the part number, the price, and supplier.
 >
@@ -1732,11 +1715,11 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/relational-databases-essential-training/define-a-default-value?u=76281980&t=220)** So with a default constraint on the database you can still force the database to require a value in a column by labeling it not null, and still have the flexibility to not supply a value when the record is entered.
 >
-> **[3:51](https://www.linkedin.com/learning/relational-databases-essential-training/define-a-default-value?u=76281980&t=231)** The database management system will simply fill in the default value whenever a value isn't explicitly given.
+> **[3:51](https://www.linkedin.com/learning/relational-databases-essential-training/define-a-default-value?u=76281980&t=231)** The [[Database Management]] system will simply fill in the default value whenever a value isn't explicitly given.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), data (4), product (4), [[Microsoft SQL Server|Sql server]] (3), [[Microsoft Products|Products]] (3)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[Microsoft Products|Products]] (3), [[SQL]] (2), [[Diagramming]] (1), [[Database Management]] (1)
 > **Env Vars:** sql (5), insert (2), into (1), select (1)
 > **CLI Commands:** make (3), find (2)
 > **SQL:** insert into (1), select (1)
@@ -1744,8 +1727,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - another (1)
 
-#### Establish table indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/establish-table-indexes?u=76281980)
+#### [Establish table indexes](https://www.linkedin.com/learning/relational-databases-essential-training/establish-table-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1771,7 +1753,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/relational-databases-essential-training/establish-table-indexes?u=76281980&t=70)** This is exactly how your database would function in the same situation.
 >
-> **[1:14](https://www.linkedin.com/learning/relational-databases-essential-training/establish-table-indexes?u=76281980&t=74)** In the database management system, providing these types of alternate indexing schemes allows the database to find requested information much faster.
+> **[1:14](https://www.linkedin.com/learning/relational-databases-essential-training/establish-table-indexes?u=76281980&t=74)** In the [[Database Management]] system, providing these types of alternate indexing schemes allows the database to find requested information much faster.
 >
 > **[1:21](https://www.linkedin.com/learning/relational-databases-essential-training/establish-table-indexes?u=76281980&t=81)** Indexes can be added to any column of a table, and they're typically included on columns that you'll want to use for regular database searches or on columns that are used in relationship joins.
 >
@@ -1813,7 +1795,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/relational-databases-essential-training/establish-table-indexes?u=76281980&t=198)** They help the system find specific pieces of information quickly, but they do so by slowing down the speed at which new records can get added in to the database.
 >
-> **[3:26](https://www.linkedin.com/learning/relational-databases-essential-training/establish-table-indexes?u=76281980&t=206)** In our database design diagram, we already have indexes on the part number and the supplier ID columns of our products and suppliers table.
+> **[3:26](https://www.linkedin.com/learning/relational-databases-essential-training/establish-table-indexes?u=76281980&t=206)** In our [[Database Design]] diagram, we already have indexes on the part number and the supplier ID columns of our [[Microsoft Products|products]] and suppliers table.
 >
 > **[3:34](https://www.linkedin.com/learning/relational-databases-essential-training/establish-table-indexes?u=76281980&t=214)** That's because those are the primary keys for the table.
 >
@@ -1825,13 +1807,13 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/relational-databases-essential-training/establish-table-indexes?u=76281980&t=237)** I can add an additional non-clustered index to this column.
 >
-> **[4:00](https://www.linkedin.com/learning/relational-databases-essential-training/establish-table-indexes?u=76281980&t=240)** To make a note of that in the diagram, simply add the key word index after the data type.
+> **[4:00](https://www.linkedin.com/learning/relational-databases-essential-training/establish-table-indexes?u=76281980&t=240)** To make a note of that in the diagram, simply add the key [[Microsoft Word|word]] index after the data type.
 >
 > **[4:07](https://www.linkedin.com/learning/relational-databases-essential-training/establish-table-indexes?u=76281980&t=247)** In the diagram on the right, you'll see this little branching icon here to indicate an index has been applied to the supplier name field.
 >
 > **[4:14](https://www.linkedin.com/learning/relational-databases-essential-training/establish-table-indexes?u=76281980&t=254)** Now if we view the commands that'll build this database, we can see what happened.
 >
-> **[4:17](https://www.linkedin.com/learning/relational-databases-essential-training/establish-table-indexes?u=76281980&t=257)** Once again, I'm going to export this as a SQL Server script and then take a look inside of my Downloads folder for that script there.
+> **[4:17](https://www.linkedin.com/learning/relational-databases-essential-training/establish-table-indexes?u=76281980&t=257)** Once again, I'm going to export this as a [[Microsoft SQL Server|SQL Server]] script and then take a look inside of my Downloads folder for that script there.
 >
 > **[4:23](https://www.linkedin.com/learning/relational-databases-essential-training/establish-table-indexes?u=76281980&t=263)** I'll open it up in my Text Editor and then scroll all the way to the very bottom of the script.
 >
@@ -1845,15 +1827,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (18), data (3), management (2), [[Search]] (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Database Management]] (2), [[Database Design]] (1), [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** find (7), make (2)
 > **Definitions:** means that (2)
 > **Env Vars:** sql (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add check constraints
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/add-check-constraints?u=76281980)
+#### [Add check constraints](https://www.linkedin.com/learning/relational-databases-essential-training/add-check-constraints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1861,11 +1842,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/relational-databases-essential-training/add-check-constraints?u=76281980&t=11)** Like null constraints, default values, and unique constraints, check constraints are built right into the design of the table itself.
 >
-> **[0:19](https://www.linkedin.com/learning/relational-databases-essential-training/add-check-constraints?u=76281980&t=19)** Then, anytime data is entered into the table, the database management system will verify the new values meet the criteria that have been established.
+> **[0:19](https://www.linkedin.com/learning/relational-databases-essential-training/add-check-constraints?u=76281980&t=19)** Then, anytime data is entered into the table, the [[Database Management]] system will verify the new values meet the criteria that have been established.
 >
 > **[0:27](https://www.linkedin.com/learning/relational-databases-essential-training/add-check-constraints?u=76281980&t=27)** For numerical data, you can check that the values fall within a range of acceptable values.
 >
-> **[0:32](https://www.linkedin.com/learning/relational-databases-essential-training/add-check-constraints?u=76281980&t=32)** For instance, a products price must be above zero and therefore can't be negative.
+> **[0:32](https://www.linkedin.com/learning/relational-databases-essential-training/add-check-constraints?u=76281980&t=32)** For instance, a [[Microsoft Products|products]] price must be above zero and therefore can't be negative.
 >
 > **[0:37](https://www.linkedin.com/learning/relational-databases-essential-training/add-check-constraints?u=76281980&t=37)** Or an employee's job rating must be between one and five.
 >
@@ -1887,9 +1868,9 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/relational-databases-essential-training/add-check-constraints?u=76281980&t=86)** Otherwise export another script here, or you can copy the file out of the exercise files for the course.
 >
-> **[1:31](https://www.linkedin.com/learning/relational-databases-essential-training/add-check-constraints?u=76281980&t=91)** Then we'll switch over to SQL Fiddle.
+> **[1:31](https://www.linkedin.com/learning/relational-databases-essential-training/add-check-constraints?u=76281980&t=91)** Then we'll switch over to [[SQL]] Fiddle.
 >
-> **[1:35](https://www.linkedin.com/learning/relational-databases-essential-training/add-check-constraints?u=76281980&t=95)** In the Schema Panel over here on the left side, I'm going to paste that code in, and I'm also going to make sure that my language is still set to SQL Server in this dropdown menu.
+> **[1:35](https://www.linkedin.com/learning/relational-databases-essential-training/add-check-constraints?u=76281980&t=95)** In the Schema Panel over here on the left side, I'm going to paste that code in, and I'm also going to make sure that my language is still set to [[Microsoft SQL Server|SQL Server]] in this dropdown menu.
 >
 > **[1:45](https://www.linkedin.com/learning/relational-databases-essential-training/add-check-constraints?u=76281980&t=105)** Now, let's suppose that our suppliers can only be from the state of California or Texas.
 >
@@ -1965,7 +1946,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), database (6), management (2), [[SQL]] (2), [[Microsoft SQL Server|Sql server]] (2)
+> **Frameworks & Libraries:** [[Database Management]] (2), [[SQL]] (2), [[Microsoft SQL Server|Sql server]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (5), find (2)
 > **Env Vars:** sql (4), rdbms (1)
 > **UI Navigation:** dropdown (1), scroll down (1)
@@ -1979,8 +1960,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Relate tables with foreign keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/relate-tables-with-foreign-keys?u=76281980)
+#### [Relate tables with foreign keys](https://www.linkedin.com/learning/relational-databases-essential-training/relate-tables-with-foreign-keys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2046,11 +2026,11 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/relational-databases-essential-training/relate-tables-with-foreign-keys?u=76281980&t=175)** This style of relationship notation with the slash in the branches drawn on the line is called crow's foot notation.
 >
-> **[3:02](https://www.linkedin.com/learning/relational-databases-essential-training/relate-tables-with-foreign-keys?u=76281980&t=182)** Some relational database management systems will use the number one and an infinity symbol to represent the same kind of relationship.
+> **[3:02](https://www.linkedin.com/learning/relational-databases-essential-training/relate-tables-with-foreign-keys?u=76281980&t=182)** Some relational [[Database Management]] systems will use the number one and an infinity symbol to represent the same kind of relationship.
 >
 > **[3:09](https://www.linkedin.com/learning/relational-databases-essential-training/relate-tables-with-foreign-keys?u=76281980&t=189)** When looking at this diagram, you'll notice that each column on the one side of the relationship, that's the side with the single slash mark is also the primary key for the table.
 >
-> **[3:19](https://www.linkedin.com/learning/relational-databases-essential-training/relate-tables-with-foreign-keys?u=76281980&t=199)** Most relationships in relational databases will involve a primary key column.
+> **[3:19](https://www.linkedin.com/learning/relational-databases-essential-training/relate-tables-with-foreign-keys?u=76281980&t=199)** Most relationships in [[Relational Databases]] will involve a primary key column.
 >
 > **[3:24](https://www.linkedin.com/learning/relational-databases-essential-training/relate-tables-with-foreign-keys?u=76281980&t=204)** On the other side of the join, the many side, the column is known as a foreign key.
 >
@@ -2084,7 +2064,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), data (6), management (3), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[Database Management]] (3), [[Relational Databases]] (1)
 > **Analogies:** picture (12), for instance (1)
 > **CLI Commands:** find (10), make (1)
 > **Definitions:** is a  (1), means that (1), is called (1), known as (1), is an  (1)
@@ -2092,14 +2072,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Diagram a relationship
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/diagram-a-relationship?u=76281980)
+#### [Diagram a relationship](https://www.linkedin.com/learning/relational-databases-essential-training/diagram-a-relationship?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/relational-databases-essential-training/diagram-a-relationship?u=76281980&t=1)** - [Instructor] Let's go back to our database diagram and hook these to tables together with a formal relationship.
 >
-> **[0:06](https://www.linkedin.com/learning/relational-databases-essential-training/diagram-a-relationship?u=76281980&t=6)** I'm continuing on from the last chapter, but if you need the text that I have on the left side of my screen that builds the Products and Suppliers table, then you can find that text in the exercise files for this course.
+> **[0:06](https://www.linkedin.com/learning/relational-databases-essential-training/diagram-a-relationship?u=76281980&t=6)** I'm continuing on from the last chapter, but if you need the text that I have on the left side of my screen that builds the [[Microsoft Products|Products]] and Suppliers table, then you can find that text in the exercise files for this course.
 >
 > **[0:16](https://www.linkedin.com/learning/relational-databases-essential-training/diagram-a-relationship?u=76281980&t=16)** To create a relationship between the Products table and Suppliers table, we first need to identify what columns we'll join together.
 >
@@ -2157,15 +2136,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), data (6), database (1), product (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7)
 > **CLI Commands:** make (4), find (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Relationship optionality and cardinality
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/relationship-optionality-and-cardinality-19271222?u=76281980)
+#### [Relationship optionality and cardinality](https://www.linkedin.com/learning/relational-databases-essential-training/relationship-optionality-and-cardinality-19271222?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2201,7 +2179,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/relational-databases-essential-training/relationship-optionality-and-cardinality-19271222?u=76281980&t=89)** Usually this unknown number is represented by the letter N if there's no business rules that state an absolute maximum acceptable number.
 >
-> **[1:38](https://www.linkedin.com/learning/relational-databases-essential-training/relationship-optionality-and-cardinality-19271222?u=76281980&t=98)** When sketching out a database diagram, the optionality and cardinality of a relationship are noted by two numbers and a couple of dots to indicate the range.
+> **[1:38](https://www.linkedin.com/learning/relational-databases-essential-training/relationship-optionality-and-cardinality-19271222?u=76281980&t=98)** When [[Sketching]] out a database diagram, the optionality and cardinality of a relationship are noted by two numbers and a couple of dots to indicate the range.
 >
 > **[1:47](https://www.linkedin.com/learning/relational-databases-essential-training/relationship-optionality-and-cardinality-19271222?u=76281980&t=107)** So, for instance, an optionality of one and a cardinality of many would look like this.
 >
@@ -2271,15 +2249,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), database (5), business (5), product (2), [[Sketching]] (1)
+> **Frameworks & Libraries:** [[Sketching]] (1)
 > **Analogies:** picture (7), for instance (2), for example (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (2)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### One-to-many relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/one-to-many-relationships?u=76281980)
+#### [One-to-many relationships](https://www.linkedin.com/learning/relational-databases-essential-training/one-to-many-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2339,13 +2316,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), data (2)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### One-to-one relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/one-to-one-relationships?u=76281980)
+#### [One-to-one relationships](https://www.linkedin.com/learning/relational-databases-essential-training/one-to-one-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2363,7 +2338,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/relational-databases-essential-training/one-to-one-relationships?u=76281980&t=29)** This information isn't very sensitive, and it's made available to everyone in the company.
 >
-> **[0:33](https://www.linkedin.com/learning/relational-databases-essential-training/one-to-one-relationships?u=76281980&t=33)** But the human resources department has a second table that adds some additional information about each employee, such as their salary and job rating.
+> **[0:33](https://www.linkedin.com/learning/relational-databases-essential-training/one-to-one-relationships?u=76281980&t=33)** But the [[Human Resources (HR)|human resources]] department has a second table that adds some additional information about each employee, such as their salary and job rating.
 >
 > **[0:41](https://www.linkedin.com/learning/relational-databases-essential-training/one-to-one-relationships?u=76281980&t=41)** Since both of these tables use the employee ID as the primary key, which is by definition unique, they can be joined in a one-to-one relationship.
 >
@@ -2375,12 +2350,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[Human Resources (HR)|Human resources]] (2), [[Security]] (2), data (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Many-to-many relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/many-to-many-relationships?u=76281980)
+#### [Many-to-many relationships](https://www.linkedin.com/learning/relational-databases-essential-training/many-to-many-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2436,13 +2410,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), data (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### Self joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/self-joins?u=76281980)
+#### [Self joins](https://www.linkedin.com/learning/relational-databases-essential-training/self-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2494,20 +2466,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), database (4)
 > **Definitions:** is called (1), known as (1)
 > **Analogies:** for instance (2)
 > **Warnings:** watch out (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cascade changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/cascade-changes?u=76281980)
+#### [Cascade changes](https://www.linkedin.com/learning/relational-databases-essential-training/cascade-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/relational-databases-essential-training/cascade-changes?u=76281980&t=1)** - [Instructor] When records in a table are modified or deleted, it can have downstream effects on other tables that they're related to.
 >
-> **[0:08](https://www.linkedin.com/learning/relational-databases-essential-training/cascade-changes?u=76281980&t=8)** Relational database management systems have features that can cascade changes to affected tables in order to maintain the integrity of a relationship.
+> **[0:08](https://www.linkedin.com/learning/relational-databases-essential-training/cascade-changes?u=76281980&t=8)** Relational [[Database Management]] systems have features that can cascade changes to affected tables in order to maintain the integrity of a relationship.
 >
 > **[0:16](https://www.linkedin.com/learning/relational-databases-essential-training/cascade-changes?u=76281980&t=16)** Let's see how this works by looking at the Vacation Photos database again.
 >
@@ -2529,7 +2499,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/relational-databases-essential-training/cascade-changes?u=76281980&t=67)** So that's a Cascade Update.
 >
-> **[1:09](https://www.linkedin.com/learning/relational-databases-essential-training/cascade-changes?u=76281980&t=69)** Relational databases also support another feature called Cascade Delete.
+> **[1:09](https://www.linkedin.com/learning/relational-databases-essential-training/cascade-changes?u=76281980&t=69)** [[Relational Databases]] also support another feature called Cascade Delete.
 >
 > **[1:13](https://www.linkedin.com/learning/relational-databases-essential-training/cascade-changes?u=76281980&t=73)** It's basically the same thing, but triggers when a record is completely removed from the database.
 >
@@ -2547,13 +2517,13 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/relational-databases-essential-training/cascade-changes?u=76281980&t=121)** Some use a graphical interface and a checkbox to enable the feature when creating relationships.
 >
-> **[2:05](https://www.linkedin.com/learning/relational-databases-essential-training/cascade-changes?u=76281980&t=125)** Others will rely on SQL commands to do the same thing.
+> **[2:05](https://www.linkedin.com/learning/relational-databases-essential-training/cascade-changes?u=76281980&t=125)** Others will rely on [[SQL]] commands to do the same thing.
 >
 > **[2:08](https://www.linkedin.com/learning/relational-databases-essential-training/cascade-changes?u=76281980&t=128)** With this method, you'll use ON UPDATE CASCADE and ON DELETE CASCADE in the script when creating the foreign key and relationship.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), data (3), management (2), feature (2), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[Database Management]] (1), [[Relational Databases]] (1), [[SQL]] (1)
 > **Env Vars:** cascade (2), dbms (1), sql (1), update (1), delete (1)
 > **CLI Commands:** make (2), find (1)
 > **API Endpoints:** delete  (1)
@@ -2567,18 +2537,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Relational database normal forms
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/relational-database-normal-forms?u=76281980)
+#### [Relational database normal forms](https://www.linkedin.com/learning/relational-databases-essential-training/relational-database-normal-forms?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/relational-databases-essential-training/relational-database-normal-forms?u=76281980&t=1)** - [Instructor] In Edgar Frank Codd's authoritative paper on the Relational Model, he defines a number of rules that data tables should adhere to in order to make up a well-structured database.
 >
-> **[0:10](https://www.linkedin.com/learning/relational-databases-essential-training/relational-database-normal-forms?u=76281980&t=10)** He called tables that satisfied these requirements, "Normal Forms."
+> **[0:10](https://www.linkedin.com/learning/relational-databases-essential-training/relational-database-normal-forms?u=76281980&t=10)** He called tables that satisfied these requirements, "Normal [[Forms]]."
 >
 > **[0:14](https://www.linkedin.com/learning/relational-databases-essential-training/relational-database-normal-forms?u=76281980&t=14)** And the process of assessing a table and making necessary changes to the structure, became known as "Normalization."
 >
-> **[0:20](https://www.linkedin.com/learning/relational-databases-essential-training/relational-database-normal-forms?u=76281980&t=20)** Normalization is a series of rules that your databases table structure must pass in order to be considered a good relational design.
+> **[0:20](https://www.linkedin.com/learning/relational-databases-essential-training/relational-database-normal-forms?u=76281980&t=20)** Normalization is a series of rules that your [[Databases]] table structure must pass in order to be considered a good relational design.
 >
 > **[0:28](https://www.linkedin.com/learning/relational-databases-essential-training/relational-database-normal-forms?u=76281980&t=28)** The individual rules are called "normal forms," and they must be tested in order like passing through a series of gates or checkpoints.
 >
@@ -2674,7 +2643,7 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/relational-databases-essential-training/relational-database-normal-forms?u=76281980&t=289)** Since state abbreviation is entirely dependent on state, or vice versa, one of those two fields should be removed from the table and, you guessed it, put into a related table.
 >
-> **[4:58](https://www.linkedin.com/learning/relational-databases-essential-training/relational-database-normal-forms?u=76281980&t=298)** Compliance with Third Normal Form is typically considered a great place to get to for many business database systems.
+> **[4:58](https://www.linkedin.com/learning/relational-databases-essential-training/relational-database-normal-forms?u=76281980&t=298)** Compliance with Third Normal Form is typically considered a great place to get to for many business [[Database Systems]].
 >
 > **[5:04](https://www.linkedin.com/learning/relational-databases-essential-training/relational-database-normal-forms?u=76281980&t=304)** There are additional Normal Forms beyond 3NF, but they're of increasing obscurity and complexity.
 >
@@ -2682,7 +2651,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (5), [[Forms]] (3), [[Databases]] (2), functional (2)
+> **Frameworks & Libraries:** [[Forms]] (3), [[Databases]] (2), [[Database Systems]] (1)
 > **Definitions:** in other words (2), is an  (2), known as (1), is a  (1)
 > **CLI Commands:** make (3)
 > **Analogies:** picture (2)
@@ -2690,14 +2659,13 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### When not to normalize
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/when-not-to-normalize?u=76281980)
+#### [When not to normalize](https://www.linkedin.com/learning/relational-databases-essential-training/when-not-to-normalize?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/relational-databases-essential-training/when-not-to-normalize?u=76281980&t=1)** - [Narrator] The process of normalizing a database is a good exercise to move through in order to alleviate many problems that can make a database inefficient and inflexible, but they are only guidelines.
 >
-> **[0:10](https://www.linkedin.com/learning/relational-databases-essential-training/when-not-to-normalize?u=76281980&t=10)** In certain circumstances, a tables design can deliberately violate one of the first three normal forms if the database designer has a good reason to do so.
+> **[0:10](https://www.linkedin.com/learning/relational-databases-essential-training/when-not-to-normalize?u=76281980&t=10)** In certain circumstances, a tables design can deliberately violate one of the first three normal [[Forms]] if the database designer has a good reason to do so.
 >
 > **[0:18](https://www.linkedin.com/learning/relational-databases-essential-training/when-not-to-normalize?u=76281980&t=18)** This is a process called Denormalization.
 >
@@ -2711,13 +2679,13 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/relational-databases-essential-training/when-not-to-normalize?u=76281980&t=54)** You might have noticed that a common solution to all of our normalization procedures was to create additional related tables and move the offending columns into them.
 >
-> **[1:02](https://www.linkedin.com/learning/relational-databases-essential-training/when-not-to-normalize?u=76281980&t=62)** And while it makes for very efficient data storage, it increases the time that it takes to access the related values when the DBMS needs to go looking in multiple tables and join them back together in order to return the requested information.
+> **[1:02](https://www.linkedin.com/learning/relational-databases-essential-training/when-not-to-normalize?u=76281980&t=62)** And while it makes for very efficient [[Data Storage]], it increases the time that it takes to access the related values when the DBMS needs to go looking in multiple tables and join them back together in order to return the requested information.
 >
 > **[1:14](https://www.linkedin.com/learning/relational-databases-essential-training/when-not-to-normalize?u=76281980&t=74)** These two tables here are the solution that we came up for bringing our Person table into compliance with third normal form.
 >
 > **[1:20](https://www.linkedin.com/learning/relational-databases-essential-training/when-not-to-normalize?u=76281980&t=80)** It broke the full state names into a separate table and created one to many relationship back to the Person data.
 >
-> **[1:26](https://www.linkedin.com/learning/relational-databases-essential-training/when-not-to-normalize?u=76281980&t=86)** If these tables grew very large, then it could take a bit of time for the database management system to piece records together when they're requested.
+> **[1:26](https://www.linkedin.com/learning/relational-databases-essential-training/when-not-to-normalize?u=76281980&t=86)** If these tables grew very large, then it could take a bit of time for the [[Database Management]] system to piece records together when they're requested.
 >
 > **[1:33](https://www.linkedin.com/learning/relational-databases-essential-training/when-not-to-normalize?u=76281980&t=93)** If all of the data were back in a single table, then the system wouldn't have to match records across tables.
 >
@@ -2735,7 +2703,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (6), [[Forms]] (1), management (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Data Storage]] (1), [[Database Management]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** dbms (1)
@@ -2748,24 +2716,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Convert the ER diagram to a database
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980)
+#### [Convert the ER diagram to a database](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980&t=0)** - [Instructor] The online tools we've been using throughout this course such as the Quick Database Diagram's web app here or the SQL Fiddle app for experimenting with code can be fantastic little tools for quickly testing out design solutions and playing around with relational database concepts.
+> **[0:00](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980&t=0)** - [Instructor] The online tools we've been using throughout this course such as the Quick Database Diagram's web app here or the [[SQL]] Fiddle app for experimenting with code can be fantastic little tools for quickly testing out design solutions and playing around with relational database concepts.
 >
-> **[0:15](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980&t=15)** But at some point, you really need to dive right into a full-feature relational database management system.
+> **[0:15](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980&t=15)** But at some point, you really need to dive right into a full-feature relational [[Database Management]] system.
 >
 > **[0:20](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980&t=20)** That's what we're going to do in this chapter.
 >
-> **[0:22](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980&t=22)** As I outlined at the beginning of the course, you have an extensive number of platforms to choose from for running your databases.
+> **[0:22](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980&t=22)** As I outlined at the beginning of the course, you have an extensive number of platforms to choose from for running your [[Databases]].
 >
-> **[0:27](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980&t=27)** Everything from Microsoft Access and FileMaker on your desktop computer to Enterprise-grade SQL Server and Oracle deployments are all grounded in the relational concepts that we've been exploring.
+> **[0:27](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980&t=27)** Everything from [[Microsoft]] Access and FileMaker on your desktop computer to Enterprise-grade [[Microsoft SQL Server|SQL Server]] and Oracle deployments are all grounded in the relational concepts that we've been exploring.
 >
-> **[0:37](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980&t=37)** Some of those solutions do require licensing fees, complex installation procedures, or expensive hardware requirements, though.
+> **[0:37](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980&t=37)** Some of those solutions do require licensing fees, complex installation procedures, or expensive [[Hardware]] requirements, though.
 >
-> **[0:44](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980&t=44)** So to keep everyone on the same page, I've chosen the demonstrate the next few steps with a solution that'll run SQL Server in a Docker container and use an application called Azure Data Studio to interface with the server.
+> **[0:44](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980&t=44)** So to keep everyone on the same page, I've chosen the demonstrate the next few steps with a solution that'll run SQL Server in a Docker container and use an application called [[Microsoft Azure|Azure]] Data Studio to interface with the server.
 >
 > **[0:55](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980&t=55)** That'll give everyone a free-to-use full-feature database server of their own to continue experimenting with, and it'll only take a couple of steps to get everything configured.
 >
@@ -2773,7 +2740,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980&t=68)** This is a program published by Microsoft that gives us a graphical interface for working with SQL Server.
 >
-> **[1:13](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980&t=73)** There are versions for Windows, macOS, and Linux, and you'll find the installation files right here.
+> **[1:13](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980&t=73)** There are versions for [[Windows]], macOS, and [[Linux]], and you'll find the installation files right here.
 >
 > **[1:18](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980&t=78)** On Windows, you're going to use this installer from the user installer link.
 >
@@ -2871,7 +2838,7 @@ created: 2026-05-02
 >
 > **[5:41](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980&t=341)** Let's go back over to the web app.
 >
-> **[5:44](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980&t=344)** These are the two tables that we set up earlier in the course, the Products tables and the Suppliers table.
+> **[5:44](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980&t=344)** These are the two tables that we set up earlier in the course, the [[Microsoft Products|Products]] tables and the Suppliers table.
 >
 > **[5:48](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980&t=348)** We applied a couple of constraints, for instance, a unique constraint or a null constraint.
 >
@@ -2905,11 +2872,11 @@ created: 2026-05-02
 >
 > **[6:51](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980&t=411)** So now we've set up a SQL Server instance.
 >
-> **[6:53](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980&t=413)** We've created an empty database, and we've populated the database with the tables that we designed in the Database Design tool.
+> **[6:53](https://www.linkedin.com/learning/relational-databases-essential-training/convert-the-er-diagram-to-a-database?u=76281980&t=413)** We've created an empty database, and we've populated the database with the tables that we designed in the [[Database Design]] tool.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (16), [[Microsoft SQL Server|Sql server]] (11), [[Windows]] (5), [[Microsoft]] (4), application (4)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (11), [[Windows]] (5), [[Microsoft]] (4), [[Microsoft Azure|Azure]] (4), [[Microsoft Products|Products]] (3)
 > **CLI Commands:** docker (18), make (2), find (1)
 > **Env Vars:** sql (12), url (3)
 > **Prerequisites:** set up (5), install (3), you'll need (1)
@@ -2918,12 +2885,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1), stands for (1)
 > **Code Identifiers:** macos (2)
 
-#### Data definition queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/data-definition-queries?u=76281980)
+#### [Data definition queries](https://www.linkedin.com/learning/relational-databases-essential-training/data-definition-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/relational-databases-essential-training/data-definition-queries?u=76281980&t=1)** - [Instructor] Relational databases used structured query language or SQL in order to perform tasks on the data base.
+> **[0:01](https://www.linkedin.com/learning/relational-databases-essential-training/data-definition-queries?u=76281980&t=1)** - [Instructor] [[Relational Databases]] used structured query language or [[SQL]] in order to perform tasks on the data base.
 >
 > **[0:07](https://www.linkedin.com/learning/relational-databases-essential-training/data-definition-queries?u=76281980&t=7)** These tasks include everything from creating tables and relationships, adding record to the tables, querying the database for information, and running maintenance tasks like backups and index repairs.
 >
@@ -2931,15 +2897,15 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/relational-databases-essential-training/data-definition-queries?u=76281980&t=27)** For instance, one platform might use double quotation marks where another uses square brackets, or a function might have a slightly different name.
 >
-> **[0:35](https://www.linkedin.com/learning/relational-databases-essential-training/data-definition-queries?u=76281980&t=35)** I'm working with Microsoft Sequel Server database management system, so the commands that I show you here might not translate perfectly if you try and implement them word for word on Postgress, or MySQL, or Auricle, but the concepts will be exactly the same, and that's really what I want to get across in this course.
+> **[0:35](https://www.linkedin.com/learning/relational-databases-essential-training/data-definition-queries?u=76281980&t=35)** I'm working with [[Microsoft]] Sequel Server [[Database Management]] system, so the commands that I show you here might not translate perfectly if you try and implement them [[Microsoft Word|word]] for word on Postgress, or [[MySQL]], or Auricle, but the concepts will be exactly the same, and that's really what I want to get across in this course.
 >
 > **[0:51](https://www.linkedin.com/learning/relational-databases-essential-training/data-definition-queries?u=76281980&t=51)** So let's start working with Kineteco database.
 >
 > **[0:53](https://www.linkedin.com/learning/relational-databases-essential-training/data-definition-queries?u=76281980&t=53)** I've already created the tables that we designed in the quick database diagrams tool.
 >
-> **[0:57](https://www.linkedin.com/learning/relational-databases-essential-training/data-definition-queries?u=76281980&t=57)** That included a number of constraints and a one committee relationship between the products table and the suppliers table.
+> **[0:57](https://www.linkedin.com/learning/relational-databases-essential-training/data-definition-queries?u=76281980&t=57)** That included a number of constraints and a one committee relationship between the [[Microsoft Products|products]] table and the suppliers table.
 >
-> **[1:02](https://www.linkedin.com/learning/relational-databases-essential-training/data-definition-queries?u=76281980&t=62)** Here in Azure Data Studio, you can explore the database's contents by opening up each folder.
+> **[1:02](https://www.linkedin.com/learning/relational-databases-essential-training/data-definition-queries?u=76281980&t=62)** Here in [[Microsoft Azure|Azure]] Data Studio, you can explore the database's contents by opening up each folder.
 >
 > **[1:07](https://www.linkedin.com/learning/relational-databases-essential-training/data-definition-queries?u=76281980&t=67)** For instance, inside of the Kineteco Database, I can open up the folder for tables and I can see the two tables here.
 >
@@ -3051,7 +3017,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (15), data (11), [[SQL]] (4), [[Microsoft Products|Products]] (3), next (3)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Microsoft Products|Products]] (3), [[Microsoft Word|Word]] (2), [[Relational Databases]] (1), [[Microsoft]] (1)
 > **Env Vars:** sql (4), dbms (1)
 > **CLI Commands:** make (2), mysql (1), find (1)
 > **UI Navigation:** click on (2), scroll down (1)
@@ -3060,8 +3026,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Solution: Create tables with DDL commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/solution-create-tables-with-ddl-commands-24764266?u=76281980)
+#### [Solution: Create tables with DDL commands](https://www.linkedin.com/learning/relational-databases-essential-training/solution-create-tables-with-ddl-commands-24764266?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3069,7 +3034,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/relational-databases-essential-training/solution-create-tables-with-ddl-commands-24764266?u=76281980&t=5)** - [Instructor] For this code challenge, we were asked to create a table for storing information about our movie watching activities so that we can remember what movies we've seen and our thoughts about each film.
 >
-> **[0:16](https://www.linkedin.com/learning/relational-databases-essential-training/solution-create-tables-with-ddl-commands-24764266?u=76281980&t=16)** Now, the table diagram that was developed included the details for a number of different columns, so we just need to translate that into the SQL code to add it into our database.
+> **[0:16](https://www.linkedin.com/learning/relational-databases-essential-training/solution-create-tables-with-ddl-commands-24764266?u=76281980&t=16)** Now, the table diagram that was developed included the details for a number of different columns, so we just need to translate that into the [[SQL]] code to add it into our database.
 >
 > **[0:26](https://www.linkedin.com/learning/relational-databases-essential-training/solution-create-tables-with-ddl-commands-24764266?u=76281980&t=26)** And we start that by using a CREATE TABLE statement.
 >
@@ -3163,7 +3128,7 @@ created: 2026-05-02
 >
 > **[5:29](https://www.linkedin.com/learning/relational-databases-essential-training/solution-create-tables-with-ddl-commands-24764266?u=76281980&t=329)** I'll change it to a 7 and then press Test my code again, and this time we get an error, and in fact, it's a check constraint violation, So that's exactly what I expected.
 >
-> **[5:39](https://www.linkedin.com/learning/relational-databases-essential-training/solution-create-tables-with-ddl-commands-24764266?u=76281980&t=339)** So we're getting a check constraint conflict, that the data validation is saying that that 7 is out of range, it's not within the range of 0 to 5, so the check constraint is working.
+> **[5:39](https://www.linkedin.com/learning/relational-databases-essential-training/solution-create-tables-with-ddl-commands-24764266?u=76281980&t=339)** So we're getting a check constraint conflict, that the [[Data Validation]] is saying that that 7 is out of range, it's not within the range of 0 to 5, so the check constraint is working.
 >
 > **[5:50](https://www.linkedin.com/learning/relational-databases-essential-training/solution-create-tables-with-ddl-commands-24764266?u=76281980&t=350)** We change this back to a 5 over here again, test my code again, and that gets us back to the correct output for the challenge.
 >
@@ -3171,7 +3136,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), next (5), database (3), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Data Validation]] (1)
 > **Env Vars:** table (4), alter (3), check (3), sql (1), create (1)
 > **SQL:** alter table (3), create table (1), select (1)
 > **CLI Commands:** make (4)
@@ -3180,12 +3145,11 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data manipulation queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/data-manipulation-queries?u=76281980)
+#### [Data manipulation queries](https://www.linkedin.com/learning/relational-databases-essential-training/data-manipulation-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/relational-databases-essential-training/data-manipulation-queries?u=76281980&t=1)** - [Instructor] The sequel commands that are used to modify data fall under the category called data manipulation language commands, or DML.
+> **[0:01](https://www.linkedin.com/learning/relational-databases-essential-training/data-manipulation-queries?u=76281980&t=1)** - [Instructor] The sequel commands that are used to modify data fall under the category called [[Data Manipulation]] language commands, or DML.
 >
 > **[0:08](https://www.linkedin.com/learning/relational-databases-essential-training/data-manipulation-queries?u=76281980&t=8)** These commands affect the information stored in the database tables.
 >
@@ -3227,7 +3191,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/relational-databases-essential-training/data-manipulation-queries?u=76281980&t=104)** The supplier name Two Trees.
 >
-> **[1:49](https://www.linkedin.com/learning/relational-databases-essential-training/data-manipulation-queries?u=76281980&t=109)** And I'll continue on filling in the rest of the details.
+> **[1:49](https://www.linkedin.com/learning/relational-databases-essential-training/data-manipulation-queries?u=76281980&t=109)** And I'll continue on filling in the [[Representational State Transfer (REST)|rest]] of the details.
 >
 > **[1:56](https://www.linkedin.com/learning/relational-databases-essential-training/data-manipulation-queries?u=76281980&t=116)** That finishes the values for my second record, so I'll finish with a closing parenthesis, and we'll add in the statement terminator, the semicolon character there and run the statement.
 >
@@ -3239,7 +3203,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/relational-databases-essential-training/data-manipulation-queries?u=76281980&t=139)** Now, let's go through the process of changing one of these records.
 >
-> **[2:22](https://www.linkedin.com/learning/relational-databases-essential-training/data-manipulation-queries?u=76281980&t=142)** I want to update the Two Trees supplier to have the name two with the number two instead of the word two.
+> **[2:22](https://www.linkedin.com/learning/relational-databases-essential-training/data-manipulation-queries?u=76281980&t=142)** I want to update the Two Trees supplier to have the name two with the number two instead of the [[Microsoft Word|word]] two.
 >
 > **[2:29](https://www.linkedin.com/learning/relational-databases-essential-training/data-manipulation-queries?u=76281980&t=149)** To do that, I'll come back here to the first tab and I'll highlight all this text and get rid of it.
 >
@@ -3291,15 +3255,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (5), next (4), [[Data Manipulation]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Data Manipulation]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** dml (2)
 > **File Paths:** dml_complete.txt (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Add data with DML commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/solution-add-data-with-dml-commands-24762297?u=76281980)
+#### [Solution: Add data with DML commands](https://www.linkedin.com/learning/relational-databases-essential-training/solution-add-data-with-dml-commands-24762297?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3369,7 +3332,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/relational-databases-essential-training/solution-add-data-with-dml-commands-24762297?u=76281980&t=166)** So that is my insert into statement.
 >
-> **[2:48](https://www.linkedin.com/learning/relational-databases-essential-training/solution-add-data-with-dml-commands-24762297?u=76281980&t=168)** We need to finish every single statement with a semicolon at the very end, just so the SQL processor knows that we're done with that statement.
+> **[2:48](https://www.linkedin.com/learning/relational-databases-essential-training/solution-add-data-with-dml-commands-24762297?u=76281980&t=168)** We need to finish every single statement with a semicolon at the very end, just so the [[SQL]] processor knows that we're done with that statement.
 >
 > **[2:56](https://www.linkedin.com/learning/relational-databases-essential-training/solution-add-data-with-dml-commands-24762297?u=76281980&t=176)** And I'm going to test my code here.
 >
@@ -3429,7 +3392,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), data (7), database (3), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **Versions:** 9.50 (1)
@@ -3437,8 +3400,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light music) (1)
 
-#### Write database select queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/write-database-select-queries?u=76281980)
+#### [Write database select queries](https://www.linkedin.com/learning/relational-databases-essential-training/write-database-select-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3454,7 +3416,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/relational-databases-essential-training/write-database-select-queries?u=76281980&t=29)** Then you'll just copy the text out of that, come over here and right-click on the Kineteco database and say new query, and then paste the text in.
 >
-> **[0:36](https://www.linkedin.com/learning/relational-databases-essential-training/write-database-select-queries?u=76281980&t=36)** At the top, this script is first going to delete any records that might be in the products or the suppliers table, just to give us a fresh start.
+> **[0:36](https://www.linkedin.com/learning/relational-databases-essential-training/write-database-select-queries?u=76281980&t=36)** At the top, this script is first going to delete any records that might be in the [[Microsoft Products|products]] or the suppliers table, just to give us a fresh start.
 >
 > **[0:42](https://www.linkedin.com/learning/relational-databases-essential-training/write-database-select-queries?u=76281980&t=42)** Then it'll insert three records into the suppliers table, and a whole bunch of records into the products table.
 >
@@ -3570,11 +3532,11 @@ created: 2026-05-02
 >
 > **[5:24](https://www.linkedin.com/learning/relational-databases-essential-training/write-database-select-queries?u=76281980&t=324)** And you can even manipulate values with functions and other mathematical operations.
 >
-> **[5:29](https://www.linkedin.com/learning/relational-databases-essential-training/write-database-select-queries?u=76281980&t=329)** If you're going to be doing any amount of work with relational databases, then I would strongly encourage you to look into exploring more about the structure query language and the select statement.
+> **[5:29](https://www.linkedin.com/learning/relational-databases-essential-training/write-database-select-queries?u=76281980&t=329)** If you're going to be doing any amount of work with [[Relational Databases]], then I would strongly encourage you to look into exploring more about the structure query language and the select statement.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (20), database (12), data (11), product (7), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (20), [[Relational Databases]] (1)
 > **CLI Commands:** find (4), make (1)
 > **UI Navigation:** right-click (2)
 > **Analogies:** for instance (2)
@@ -3582,8 +3544,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Query data in a database
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/solution-query-data-in-a-database-24761255?u=76281980)
+#### [Solution: Query data in a database](https://www.linkedin.com/learning/relational-databases-essential-training/solution-query-data-in-a-database-24761255?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3713,23 +3674,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is called (2)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Create a database view
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-database-view?u=76281980)
+#### [Create a database view](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-database-view?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-database-view?u=76281980&t=1)** - [Instructor] Sequel select statements provide a very powerful way to interact with the data that's stored in a relational database, but they can get a little bit long when you're joining multiple tables together or have complex filtrating requirements specified in a where clause.
 >
-> **[0:13](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-database-view?u=76281980&t=13)** Luckily relational database management systems allow you to save a query as something called a view.
+> **[0:13](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-database-view?u=76281980&t=13)** Luckily relational [[Database Management]] systems allow you to save a query as something called a view.
 >
-> **[0:19](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-database-view?u=76281980&t=19)** This query here at the top of the screen is the one that we finished the last movie with, and it pulls the product's name and price from the products table and matches it to the supplier name and phone number from the supplier's table.
+> **[0:19](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-database-view?u=76281980&t=19)** This query here at the top of the screen is the one that we finished the last movie with, and it pulls the product's name and price from the [[Microsoft Products|products]] table and matches it to the supplier name and phone number from the supplier's table.
 >
 > **[0:30](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-database-view?u=76281980&t=30)** These are the results that returned from this query.
 >
@@ -3739,7 +3698,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-database-view?u=76281980&t=43)** To do that, place your cursor at the beginning of line number one, and then press enter to move it down a line.
 >
-> **[0:49](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-database-view?u=76281980&t=49)** Then, at the top, type create view, the name of the view that you want to create, I'm going to create one called product details, and then the key word as, and that's all you need to do.
+> **[0:49](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-database-view?u=76281980&t=49)** Then, at the top, type create view, the name of the view that you want to create, I'm going to create one called product details, and then the key [[Microsoft Word|word]] as, and that's all you need to do.
 >
 > **[1:02](https://www.linkedin.com/learning/relational-databases-essential-training/create-a-database-view?u=76281980&t=62)** This will have the database store the select statement as its own object that you can then reference, just like any other table in the database.
 >
@@ -3779,7 +3738,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), data (5), product (5), [[Microsoft Products|Products]] (2), management (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Database Management]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** just like (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -3789,8 +3748,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Graph databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/graph-databases?u=76281980)
+#### [Graph databases](https://www.linkedin.com/learning/relational-databases-essential-training/graph-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3800,7 +3758,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/relational-databases-essential-training/graph-databases?u=76281980&t=17)** The first one that I want to look at is called a graph database.
 >
-> **[0:20](https://www.linkedin.com/learning/relational-databases-essential-training/graph-databases?u=76281980&t=20)** Graph databases store information as either objects called nodes or relationships called edges.
+> **[0:20](https://www.linkedin.com/learning/relational-databases-essential-training/graph-databases?u=76281980&t=20)** Graph [[Databases]] store information as either objects called nodes or relationships called edges.
 >
 > **[0:26](https://www.linkedin.com/learning/relational-databases-essential-training/graph-databases?u=76281980&t=26)** Unlike a relational database where a single relationship defines all of the objects between two tables, in a graph database each object or node can have a network of different relationships to any other object.
 >
@@ -3828,22 +3786,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), node (4), data (3), [[Databases]] (3)
+> **Frameworks & Libraries:** [[Databases]] (3)
 > **CLI Commands:** node (4), find (1)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Document databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/document-databases?u=76281980)
+#### [Document databases](https://www.linkedin.com/learning/relational-databases-essential-training/document-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/relational-databases-essential-training/document-databases?u=76281980&t=1)** - [Instructor] The other database model that you should be aware of is called a document database, or a document store.
 >
-> **[0:06](https://www.linkedin.com/learning/relational-databases-essential-training/document-databases?u=76281980&t=6)** Document databases store individual files that contain information about a single object.
+> **[0:06](https://www.linkedin.com/learning/relational-databases-essential-training/document-databases?u=76281980&t=6)** Document [[Databases]] store individual files that contain information about a single object.
 >
-> **[0:11](https://www.linkedin.com/learning/relational-databases-essential-training/document-databases?u=76281980&t=11)** These can be XML data files or JSON data files or PDF files or Word documents, or the database can store a mixture of file types.
+> **[0:11](https://www.linkedin.com/learning/relational-databases-essential-training/document-databases?u=76281980&t=11)** These can be XML data files or [[JSON]] data files or PDF files or [[Microsoft Word|Word]] documents, or the database can store a mixture of file types.
 >
 > **[0:20](https://www.linkedin.com/learning/relational-databases-essential-training/document-databases?u=76281980&t=20)** The documents can be read and categorized by the system, put into collections, or have attribute tags attached to them.
 >
@@ -3857,7 +3814,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/relational-databases-essential-training/document-databases?u=76281980&t=51)** So you can insert a document that represents a person and then a document that represents a contract and then a document that represents a picture, all in the same database, without any pre-configuration.
 >
-> **[1:01](https://www.linkedin.com/learning/relational-databases-essential-training/document-databases?u=76281980&t=61)** Together, document and graph databases make up a class of database that are collectively called NoSQL databases because they operate outside of the traditional relational model.
+> **[1:01](https://www.linkedin.com/learning/relational-databases-essential-training/document-databases?u=76281980&t=61)** Together, document and graph databases make up a class of database that are collectively called [[NoSQL]] databases because they operate outside of the traditional relational model.
 >
 > **[1:10](https://www.linkedin.com/learning/relational-databases-essential-training/document-databases?u=76281980&t=70)** The term NoSQL is a little bit misleading, though, since some graph and document databases still use portions of the Structured Query Language syntax.
 >
@@ -3867,7 +3824,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[Databases]] (4), data (3), [[NoSQL]] (3), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Databases]] (4), [[NoSQL]] (3), [[JSON]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** xml (1), json (1), pdf (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -3880,28 +3837,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/relational-databases-essential-training/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/relational-databases-essential-training/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/relational-databases-essential-training/next-steps?u=76281980&t=1)** - [Adam] Now that you know how relational databases work, you should have a good foundation and be ready to move on to a specific database platform.
+> **[0:01](https://www.linkedin.com/learning/relational-databases-essential-training/next-steps?u=76281980&t=1)** - [Adam] Now that you know how [[Relational Databases]] work, you should have a good foundation and be ready to move on to a specific database platform.
 >
-> **[0:08](https://www.linkedin.com/learning/relational-databases-essential-training/next-steps?u=76281980&t=8)** I would encourage you to do some research into the various relational database management systems that are available and pick a platform that's appropriate for your project.
+> **[0:08](https://www.linkedin.com/learning/relational-databases-essential-training/next-steps?u=76281980&t=8)** I would encourage you to do some research into the various relational [[Database Management]] systems that are available and pick a platform that's appropriate for your project.
 >
 > **[0:16](https://www.linkedin.com/learning/relational-databases-essential-training/next-steps?u=76281980&t=16)** Then find an introductory course to learn the specifics of that software.
 >
-> **[0:19](https://www.linkedin.com/learning/relational-databases-essential-training/next-steps?u=76281980&t=19)** If you choose to go with SQL Server, then my short course, Learn SQL Server 2019, will be a great place to start.
+> **[0:19](https://www.linkedin.com/learning/relational-databases-essential-training/next-steps?u=76281980&t=19)** If you choose to go with [[Microsoft SQL Server|SQL Server]], then my short course, Learn SQL Server 2019, will be a great place to start.
 >
-> **[0:26](https://www.linkedin.com/learning/relational-databases-essential-training/next-steps?u=76281980&t=26)** But you can find essential training courses on platforms such as MySQL and Access.
+> **[0:26](https://www.linkedin.com/learning/relational-databases-essential-training/next-steps?u=76281980&t=26)** But you can find essential training courses on platforms such as [[MySQL]] and Access.
 >
-> **[0:30](https://www.linkedin.com/learning/relational-databases-essential-training/next-steps?u=76281980&t=30)** Another great skill that you should have in your database tool belt is a familiarity with the SQL language.
+> **[0:30](https://www.linkedin.com/learning/relational-databases-essential-training/next-steps?u=76281980&t=30)** Another great skill that you should have in your database tool belt is a familiarity with the [[SQL]] language.
 >
 > **[0:35](https://www.linkedin.com/learning/relational-databases-essential-training/next-steps?u=76281980&t=35)** We touched on it a bit here in this course, but SQL is really the common thread that ties all relational database platforms together.
 >
 > **[0:42](https://www.linkedin.com/learning/relational-databases-essential-training/next-steps?u=76281980&t=42)** And it'll be a valuable thing to know no matter where your career takes you.
 >
-> **[0:46](https://www.linkedin.com/learning/relational-databases-essential-training/next-steps?u=76281980&t=46)** Bill Weinman's course, [[SQL Essential Training]], can give you a solid foundation in writing commands and queries that'll help you get the most out of your databases.
+> **[0:46](https://www.linkedin.com/learning/relational-databases-essential-training/next-steps?u=76281980&t=46)** Bill Weinman's course, [[SQL Essential Training]], can give you a solid foundation in writing commands and queries that'll help you get the most out of your [[Databases]].
 >
 > **[0:54](https://www.linkedin.com/learning/relational-databases-essential-training/next-steps?u=76281980&t=54)** So until next time, I've been Adam Wilbert.
 >
@@ -3909,7 +3865,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[SQL]] (3), [[Microsoft SQL Server|Sql server]] (2), [[Relational Databases]] (1), management (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Microsoft SQL Server|Sql server]] (2), [[Relational Databases]] (1), [[Database Management]] (1), [[MySQL]] (1)
 > **Env Vars:** sql (5)
 > **CLI Commands:** find (2), mysql (1)
 > **Definitions:** is a  (1)

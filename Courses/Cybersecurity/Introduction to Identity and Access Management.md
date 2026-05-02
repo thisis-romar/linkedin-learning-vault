@@ -82,8 +82,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of identity and access management
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/the-importance-of-identity-and-access-management?u=76281980)
+#### [The importance of identity and access management](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/the-importance-of-identity-and-access-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -107,12 +106,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), management (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - according (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -126,7 +123,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), management (2), career (1), data (1), business (1)
 > **Speakers:** - [narrator] (1)
 
 
@@ -134,8 +130,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Authentication, authorization, and accounting
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/authentication-authorization-and-accounting?u=76281980)
+#### [Authentication, authorization, and accounting](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/authentication-authorization-and-accounting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -201,7 +196,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/authentication-authorization-and-accounting?u=76281980&t=188)** When you go into your workplace, you may have a badge to prove who you are, which is authentication.
 >
-> **[3:15](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/authentication-authorization-and-accounting?u=76281980&t=195)** Once you swipe your badge to your office floor, if you have permission to access that particular area, the locked door will open, which is authorization.
+> **[3:15](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/authentication-authorization-and-accounting?u=76281980&t=195)** Once you swipe your badge to your [[Microsoft Office|office]] floor, if you have permission to access that particular area, the locked door will open, which is authorization.
 >
 > **[3:24](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/authentication-authorization-and-accounting?u=76281980&t=204)** On a monthly basis, the security group will run a report to ensure that only authorized people have accessed the building.
 >
@@ -211,15 +206,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), data (2), [[Security]] (2), next (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (1), defined as (1)
 > **Cross-References:** next video (1)
 > **Analogies:** such as (1)
 > **Warnings:** important note (1)
 > **Speakers:** - there (1)
 
-#### Authentication deep dive
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/authentication-deep-dive?u=76281980)
+#### [Authentication deep dive](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/authentication-deep-dive?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -287,12 +281,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Users, groups, systems, assets, and permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/users-groups-systems-assets-and-permissions?u=76281980)
+#### [Users, groups, systems, assets, and permissions](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/users-groups-systems-assets-and-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -326,7 +318,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/users-groups-systems-assets-and-permissions?u=76281980&t=82)** You would give that account an identity so that you can track its actions.
 >
-> **[1:27](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/users-groups-systems-assets-and-permissions?u=76281980&t=87)** Think about when a banking system needs to transfer money between accounts.
+> **[1:27](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/users-groups-systems-assets-and-permissions?u=76281980&t=87)** Think about when a [[Banking]] system needs to transfer money between accounts.
 >
 > **[1:31](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/users-groups-systems-assets-and-permissions?u=76281980&t=91)** In order to transfer money from checking to savings, the system needs to know that the accounts have permission to take that action.
 >
@@ -348,7 +340,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/users-groups-systems-assets-and-permissions?u=76281980&t=153)** Once you understand who your users are, you have to determine what permissions you are going to provide to them.
 >
-> **[2:40](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/users-groups-systems-assets-and-permissions?u=76281980&t=160)** Permissions are another word for authorizations, or access to your network.
+> **[2:40](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/users-groups-systems-assets-and-permissions?u=76281980&t=160)** Permissions are another [[Microsoft Word|word]] for authorizations, or access to your network.
 >
 > **[2:46](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/users-groups-systems-assets-and-permissions?u=76281980&t=166)** In the ideal situation, all identities would start with no permissions.
 >
@@ -380,14 +372,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), data (1), [[Banking]] (1), [[Microsoft Word|Word]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Banking]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (5), similar to (1)
 > **Definitions:** is a  (2), is an  (2), is called (1)
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - [instructor] (1)
 
-#### Access control principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/access-control-principles?u=76281980)
+#### [Access control principles](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/access-control-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -435,11 +426,11 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/access-control-principles?u=76281980&t=176)** Role-Based Access Control, or RBAC, is a model that uses specific jobs, or roles, to determine access permissions.
 >
-> **[3:05](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/access-control-principles?u=76281980&t=185)** So instead of giving John permissions based on who he is, John would be given permissions based on his role, such as accountant.
+> **[3:05](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/access-control-principles?u=76281980&t=185)** So instead of giving [[John the Ripper|John]] permissions based on who he is, John would be given permissions based on his role, such as accountant.
 >
 > **[3:16](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/access-control-principles?u=76281980&t=196)** Role based access, when built well, is a very good framework to use and is the easiest model for the identity administrator to leverage.
 >
-> **[3:25](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/access-control-principles?u=76281980&t=205)** It can also provide a positive user experience, providing all the necessary permissions for a given job automatically.
+> **[3:25](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/access-control-principles?u=76281980&t=205)** It can also provide a positive [[User Experience (UX)|user experience]], providing all the necessary permissions for a given job automatically.
 >
 > **[3:32](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/access-control-principles?u=76281980&t=212)** One downside of RBAC would be if a user needs permissions outside of their job.
 >
@@ -459,7 +450,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), next (1), teams (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (2), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** rbac (3), mac (1), dac (1)
 > **Analogies:** such as (4)
 > **Definitions:** is a  (3)
@@ -471,8 +462,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Better together: Identity providers and identity governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/better-together-identity-providers-and-identity-governance?u=76281980)
+#### [Better together: Identity providers and identity governance](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/better-together-identity-providers-and-identity-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -546,13 +536,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), business (1), [[Security]] (1), next (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Env Vars:** idp (2), iga (1)
 > **Speakers:** - as (1)
 
-#### Single sign-on
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/single-sign-on?u=76281980)
+#### [Single sign-on](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/single-sign-on?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -580,7 +568,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/single-sign-on?u=76281980&t=103)** From an administration perspective, single sign-on provides simpler administration of authentication, since a standardized process can be used repeatedly across resources using the same set of tools.
 >
-> **[1:57](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/single-sign-on?u=76281980&t=117)** The other large benefit of single sign-on for identity administrators is improved network security.
+> **[1:57](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/single-sign-on?u=76281980&t=117)** The other large benefit of single sign-on for identity administrators is improved [[Network Security]].
 >
 > **[2:04](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/single-sign-on?u=76281980&t=124)** Let me explain.
 >
@@ -610,7 +598,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/single-sign-on?u=76281980&t=212)** You can ask your IT friends about that one.
 >
-> **[3:35](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/single-sign-on?u=76281980&t=215)** Just know that not all services accept those tokens.
+> **[3:35](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/single-sign-on?u=76281980&t=215)** Just know that not all services accept those [[Tokens]].
 >
 > **[3:39](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/single-sign-on?u=76281980&t=219)** The basis of single sign-on is having the trusted relationship between the service provider and the identity provider in place ahead of time so that the user can be quickly validated and sent to the various resources that are part of that trust.
 >
@@ -632,7 +620,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), [[Network Security]] (1), application (1), [[Tokens]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (1), [[Tokens]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Env Vars:** sso (1)
 > **Analogies:** such as (1)
@@ -640,14 +628,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Federation
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/federation?u=76281980)
+#### [Federation](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/federation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/federation?u=76281980&t=0)** - [Instructor] Federation is a collection of domains or service providers that have established trust among one another, following standard principles to allow them all to execute authentication in the same manner.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/federation?u=76281980&t=14)** Having federation in place allows for more effective and secure identity administration, as well as improved simplicity for the user experience.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/federation?u=76281980&t=14)** Having federation in place allows for more effective and secure identity administration, as well as improved simplicity for the [[User Experience (UX)|user experience]].
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/federation?u=76281980&t=26)** The act of federation is being able to use your relationship with an organization in multiple places, using an identity provider to validate your identity using a trusted list and provide that to various service providers so you can have easy access to their services.
 >
@@ -655,7 +642,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/federation?u=76281980&t=51)** Single sign on is actually part of the overarching framework of federation and is one of the most beneficial aspects of federation.
 >
-> **[1:00](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/federation?u=76281980&t=60)** If single sign on is the process of forwarding tokens to achieve federation, we also need to discuss the different protocols that are used to enable everyone to speak a common language.
+> **[1:00](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/federation?u=76281980&t=60)** If single sign on is the process of forwarding [[Tokens]] to achieve federation, we also need to discuss the different protocols that are used to enable everyone to speak a common language.
 >
 > **[1:15](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/federation?u=76281980&t=75)** There are three primary protocols used in federation, SAML or Security Assertion Markup Language, OAuth 2.0 pronounced OAuth, and OIDC or OpenID Connect.
 >
@@ -677,7 +664,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/federation?u=76281980&t=172)** And yes, in case you're wondering, there was a previous version.
 >
-> **[2:56](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/federation?u=76281980&t=176)** OAuth 2.0 is used mostly in mobile applications using a language called JSON.
+> **[2:56](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/federation?u=76281980&t=176)** OAuth 2.0 is used mostly in mobile applications using a language called [[JSON]].
 >
 > **[3:03](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/federation?u=76281980&t=183)** In order for this protocol to work, an authorization token is provided by one application on your behalf to another application.
 >
@@ -709,7 +696,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[User Experience (UX)|User experience]] (3), data (3), [[Security]] (2), web (2)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (3), [[Tokens]] (1), [[JSON]] (1)
 > **Env Vars:** saml (5), oidc (5), xml (1), json (1)
 > **Definitions:** is a  (5)
 > **Versions:** 2.0 (4)
@@ -721,8 +708,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Least privilege
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/least-privilege?u=76281980)
+#### [Least privilege](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/least-privilege?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -772,14 +758,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (1), application (1), [[Security]] (1), data (1), cloud (1)
 > **Definitions:** is an  (2), is called (1)
 > **Warnings:** important note (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - now (1)
 
-#### Provisioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/provisioning?u=76281980)
+#### [Provisioning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/provisioning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -825,15 +809,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), application (1), [[Security]] (1)
 > **Definitions:** is called (1), is an  (1)
 > **Cross-References:** we discussed (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identity lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/identity-lifecycle?u=76281980)
+#### [Identity lifecycle](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/identity-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -877,7 +859,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (5), next (1), application (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -887,8 +868,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Zero trust
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/zero-trust?u=76281980)
+#### [Zero trust](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/zero-trust?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -942,7 +922,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), application (2), next (1), hr (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** such as (2)
@@ -950,8 +929,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - you (1)
 
-#### Role mining
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/role-mining?u=76281980)
+#### [Role mining](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/role-mining?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -989,18 +967,17 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/role-mining?u=76281980&t=161)** In this case, the role mining analysis would recommend that you remove access to the unused resource and consider if modifying the accountant role makes sense as well.
 >
-> **[2:52](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/role-mining?u=76281980&t=172)** Being able to analyze your user's permissions to resources and how they use them can significantly reduce the security risk in your organization.
+> **[2:52](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/role-mining?u=76281980&t=172)** Being able to analyze your user's permissions to resources and how they use them can significantly reduce the [[Security Risk]] in your organization.
 >
 > **[3:03](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/role-mining?u=76281980&t=183)** By ensuring that people have the appropriate resources needed for their role when you audit, and in the case where they are not using them, they can be automatically modified and or removed as relevant.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), data (2), application (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Security Risk]] (1)
 > **Definitions:** is an  (2), in other words (1), is a  (1)
 > **Speakers:** - [speaker] (1)
 
-#### Conditional access and just-in-time access
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/conditional-access-and-just-in-time-access?u=76281980)
+#### [Conditional access and just-in-time access](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/conditional-access-and-just-in-time-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1022,7 +999,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/conditional-access-and-just-in-time-access?u=76281980&t=41)** To gain access, the user must ensure all conditions are compliant.
 >
-> **[0:45](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/conditional-access-and-just-in-time-access?u=76281980&t=45)** For your reference, conditional access is most common with Microsoft Active Directory and Azure, as well as their Intune product for mobile devices.
+> **[0:45](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/conditional-access-and-just-in-time-access?u=76281980&t=45)** For your reference, conditional access is most common with [[Microsoft]] [[Active Directory]] and [[Microsoft Azure|Azure]], as well as their Intune product for mobile devices.
 >
 > **[0:56](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/conditional-access-and-just-in-time-access?u=76281980&t=56)** Conditional access can block or allow access.
 >
@@ -1060,13 +1037,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (1), [[Active Directory]] (1), [[Microsoft Azure|Azure]] (1), product (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Active Directory]] (1), [[Microsoft Azure|Azure]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### An important side note on passwords
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/an-important-side-note-on-passwords?u=76281980)
+#### [An important side note on passwords](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/an-important-side-note-on-passwords?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1122,7 +1098,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/an-important-side-note-on-passwords?u=76281980&t=138)** Think of it like a single combination that only the user knows.
 >
-> **[2:22](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/an-important-side-note-on-passwords?u=76281980&t=142)** All the rest of the user's passwords are in a vault and protected.
+> **[2:22](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/an-important-side-note-on-passwords?u=76281980&t=142)** All the [[Representational State Transfer (REST)|rest]] of the user's passwords are in a vault and protected.
 >
 > **[2:27](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/an-important-side-note-on-passwords?u=76281980&t=147)** As long as that master password is long and secure, use a passphrase here too, then no one should get access to your vault.
 >
@@ -1166,15 +1142,15 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/an-important-side-note-on-passwords?u=76281980&t=300)** The one watch out here is to ensure there is a backup in case you need to recover your key.
 >
-> **[5:08](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/an-important-side-note-on-passwords?u=76281980&t=308)** Passphrases, password vaults, and passwordless are all ways to simplify the user experience without sacrificing security.
+> **[5:08](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/an-important-side-note-on-passwords?u=76281980&t=308)** Passphrases, password vaults, and passwordless are all ways to simplify the [[User Experience (UX)|user experience]] without sacrificing security.
 >
 > **[5:18](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/an-important-side-note-on-passwords?u=76281980&t=318)** I highly recommend that you consider one, two, or all three of them as part of your identity and access management strategy.
 >
-> **[5:27](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/an-important-side-note-on-passwords?u=76281980&t=327)** For additional information, check out NIST's special publication 800-63B Rev. 3.
+> **[5:27](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/an-important-side-note-on-passwords?u=76281980&t=327)** For additional information, check out [[NIST]]'s special publication 800-63B Rev. 3.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), web application (1), next (1), [[Representational State Transfer (REST)|Rest]] (1), application (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[User Experience (UX)|User experience]] (1), [[NIST]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** fido2 (2), pin (2), nist (1)
 > **Definitions:** is a  (2), known as (1), is an  (1), means that (1)
@@ -1188,8 +1164,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1223,7 +1198,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/next-steps?u=76281980&t=74)** If you can't go passwordless right now, I suggest you require passwords or passphrases of at least 14 characters that only have to be changed once per year or in case of a security incident.
 >
-> **[1:27](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/next-steps?u=76281980&t=87)** You can check out NIST Special Publication 800-63B guidance for this.
+> **[1:27](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/next-steps?u=76281980&t=87)** You can check out [[NIST]] Special Publication 800-63B guidance for this.
 >
 > **[1:34](https://www.linkedin.com/learning/introduction-to-identity-and-access-management/next-steps?u=76281980&t=94)** Lastly, take those users with elevated access and separate their normal user accounts from their elevated user accounts.
 >
@@ -1243,7 +1218,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[NIST]] (1), management (1)
+> **Frameworks & Libraries:** [[NIST]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** stands for (1), is a  (1)
 > **Env Vars:** nist (1)

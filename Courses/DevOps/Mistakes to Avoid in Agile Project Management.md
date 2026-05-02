@@ -81,12 +81,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started
-> [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/getting-started?u=76281980)
+#### [Getting started](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/getting-started?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/getting-started?u=76281980&t=0)** - If you were just made an agile project manager, you may feel like you were just thrown into a pool of alligators with no way to get on shore.
+> **[0:00](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/getting-started?u=76281980&t=0)** - If you were just made an [[Agile Development|agile]] project manager, you may feel like you were just thrown into a pool of alligators with no way to get on shore.
 >
 > **[0:09](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/getting-started?u=76281980&t=9)** There's little or no formal training or mentorship for early agile PMs, and there often isn't even an agreement about what the job entails.
 >
@@ -94,7 +93,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/getting-started?u=76281980&t=32)** My name is Michael De La Maza.
 >
-> **[0:35](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/getting-started?u=76281980&t=35)** I have a PhD in Computer Science from MIT, and I'm one of approximately 100 Scrum Alliance Certified Enterprise coaches.
+> **[0:35](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/getting-started?u=76281980&t=35)** I have a PhD in Computer Science from MIT, and I'm one of approximately 100 [[Scrum]] Alliance Certified Enterprise coaches.
 >
 > **[0:45](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/getting-started?u=76281980&t=45)** In this course, I want to help you start your career as an agile project manager with a bang.
 >
@@ -118,7 +117,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), management (2), career (2), teams (2), [[Scrum]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6), [[Scrum]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** mit (1)
 > **Speakers:** - if (1)
@@ -128,12 +127,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Misunderstanding agile
-> [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/misunderstanding-agile?u=76281980)
+#### [Misunderstanding agile](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/misunderstanding-agile?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/misunderstanding-agile?u=76281980&t=0)** - Your company has selected you to be an agile project manager.
+> **[0:00](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/misunderstanding-agile?u=76281980&t=0)** - Your company has selected you to be an [[Agile Development|agile]] project manager.
 >
 > **[0:05](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/misunderstanding-agile?u=76281980&t=5)** You'll help the company and your team shift from traditional project management to agile project management.
 >
@@ -157,7 +155,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/misunderstanding-agile?u=76281980&t=63)** It's a reaction to heavyweight development processes, often called waterfall, that involve lots of documentation and sign-off committees.
 >
-> **[1:14](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/misunderstanding-agile?u=76281980&t=74)** While there's no definitive list of what practices constitute agile project management, key practices that you should expect to know and help implement include the delivery of value in short iterations, typically from one to four weeks, close collaboration with stakeholders, such as customers, management, and other teams, throughout the project, and an inclusive decision-making style that involves team members in making decisions.
+> **[1:14](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/misunderstanding-agile?u=76281980&t=74)** While there's no definitive list of what practices constitute agile project management, key practices that you should expect to know and help implement include the delivery of value in short iterations, typically from one to four weeks, close collaboration with stakeholders, such as customers, management, and other teams, throughout the project, and an inclusive [[Decision-Making]] style that involves team members in making decisions.
 >
 > **[1:46](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/misunderstanding-agile?u=76281980&t=106)** Now let's turn to three key differences between agile project management and traditional project management.
 >
@@ -183,17 +181,16 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/misunderstanding-agile?u=76281980&t=193)** Armed with this knowledge, you're on your way to becoming an effective agile project manager.
 >
-> **[3:21](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/misunderstanding-agile?u=76281980&t=201)** Google scrum guide to get started right now learning more about scrum, one of the most popular ways to increase agility.
+> **[3:21](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/misunderstanding-agile?u=76281980&t=201)** [[Google]] [[Scrum]] guide to get started right now learning more about scrum, one of the most popular ways to increase agility.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (19), [[Agile Development|Agile]] (16), [[Decision-Making]] (3), [[Scrum]] (2), teams (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (16), [[Decision-Making]] (3), [[Scrum]] (2), [[Google]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - your (1)
 
-#### Don't over-promise results
-> [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/don-t-over-promise-results?u=76281980)
+#### [Don't over-promise results](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/don-t-over-promise-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -205,7 +202,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/don-t-over-promise-results?u=76281980&t=26)** Overpromising results is a mistake that can create that same disappointment.
 >
-> **[0:32](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/don-t-over-promise-results?u=76281980&t=32)** You might be inclined to tell management that Agile is the solution to all problems in an attempt to sell it to them.
+> **[0:32](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/don-t-over-promise-results?u=76281980&t=32)** You might be inclined to tell management that [[Agile Development|Agile]] is the solution to all problems in an attempt to sell it to them.
 >
 > **[0:41](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/don-t-over-promise-results?u=76281980&t=41)** It's natural for a team transitioning to Agile to get excited about all of the benefits that might come and to play these up in order to win over skeptical members of your team, or just to create excitement.
 >
@@ -217,7 +214,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/don-t-over-promise-results?u=76281980&t=78)** First, begin by knowing what the benefits of Agile are industry-wide and what management expects them to be for your company.
 >
-> **[1:28](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/don-t-over-promise-results?u=76281980&t=88)** Some of the industry-wide benefits of Agile are: the ability to adapt to changing priorities, faster release of products, and improved team morale.
+> **[1:28](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/don-t-over-promise-results?u=76281980&t=88)** Some of the industry-wide benefits of Agile are: the ability to adapt to changing priorities, faster release of [[Microsoft Products|products]], and improved team morale.
 >
 > **[1:39](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/don-t-over-promise-results?u=76281980&t=99)** Tens of thousands of teams have seen these benefits.
 >
@@ -263,16 +260,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (13), management (2), [[Microsoft Products|Products]] (1), teams (1), next (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (13), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - maybe (1)
 
-#### Set the right pace
-> [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/set-the-right-pace?u=76281980)
+#### [Set the right pace](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/set-the-right-pace?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/set-the-right-pace?u=76281980&t=0)** - When your organization decides to adopt agile project management, there'll probably be enormous pressure to do it as quickly as possible; almost overnight.
+> **[0:00](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/set-the-right-pace?u=76281980&t=0)** - When your organization decides to adopt [[Agile Development|agile]] project management, there'll probably be enormous pressure to do it as quickly as possible; almost overnight.
 >
 > **[0:11](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/set-the-right-pace?u=76281980&t=11)** We're waterfall on Friday, but we'll be agile on Monday.
 >
@@ -342,15 +338,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (11), management (6), next (2), teams (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (11)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - when (1)
 
-#### Consistent project titles
-> [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/consistent-project-titles?u=76281980)
+#### [Consistent project titles](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/consistent-project-titles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -362,9 +357,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/consistent-project-titles?u=76281980&t=18)** Too often, I see organizations change titles before any real change has taken place.
 >
-> **[0:26](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/consistent-project-titles?u=76281980&t=26)** This cheapens the hard work required to shift to Agile values and practices.
+> **[0:26](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/consistent-project-titles?u=76281980&t=26)** This cheapens the hard work required to shift to [[Agile Development|Agile]] values and practices.
 >
-> **[0:33](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/consistent-project-titles?u=76281980&t=33)** Calling a project manager a scrum master or an Agile project manager changes nothing.
+> **[0:33](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/consistent-project-titles?u=76281980&t=33)** Calling a project manager a [[Scrum]] master or an Agile project manager changes nothing.
 >
 > **[0:41](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/consistent-project-titles?u=76281980&t=41)** Here's how you can effectively use titles to signal and catalyze real change.
 >
@@ -372,7 +367,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/consistent-project-titles?u=76281980&t=53)** Here are some changes to watch out for and prevent.
 >
-> **[0:57](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/consistent-project-titles?u=76281980&t=57)** Calling projects teams, calling product managers product owners, calling project managers, technical project managers, or anyone else scrum masters, calling a software development phase a sprint.
+> **[0:57](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/consistent-project-titles?u=76281980&t=57)** Calling projects teams, calling product managers product owners, calling project managers, technical project managers, or anyone else scrum masters, calling a [[Software Development]] phase a sprint.
 >
 > **[1:15](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/consistent-project-titles?u=76281980&t=75)** Watch out for the introduction of Agile titles before any real change has taken place.
 >
@@ -386,7 +381,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/consistent-project-titles?u=76281980&t=108)** Next, clearly define what Agile terms mean in the context of the organization.
 >
-> **[1:56](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/consistent-project-titles?u=76281980&t=116)** Start with authoritative information, such as the manifesto for [[Agile Software Development]] at [AgileManifesto.org](https://AgileManifesto.org), or the scrum guide at [scrumguides.org](https://scrumguides.org).
+> **[1:56](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/consistent-project-titles?u=76281980&t=116)** Start with authoritative information, such as the manifesto for [[[[Agile Software Development]]]] at [AgileManifesto.org](https://AgileManifesto.org), or the scrum guide at [scrumguides.org](https://scrumguides.org).
 >
 > **[2:08](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/consistent-project-titles?u=76281980&t=128)** Then add in information that is relevant to your situation.
 >
@@ -404,7 +399,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), [[Scrum]] (3), next (3), product (2), teams (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), [[Scrum]] (3), [[Software Development]] (1), [[Agile Software Development]] (1)
 > **URLs:** [agilemanifesto.org](https://agilemanifesto.org) (1), [scrumguides.org](https://scrumguides.org) (1)
 > **Warnings:** watch out (2)
 > **CLI Commands:** make (1)
@@ -418,8 +413,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Not setting the tone
-> [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-setting-the-tone?u=76281980)
+#### [Not setting the tone](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-setting-the-tone?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -433,7 +427,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-setting-the-tone?u=76281980&t=25)** When executives ask team members to do something, they are not doing, that's a mistake.
 >
-> **[0:30](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-setting-the-tone?u=76281980&t=30)** The executives think that Agile does not apply to them but leadership starts at the top.
+> **[0:30](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-setting-the-tone?u=76281980&t=30)** The executives think that [[Agile Development|Agile]] does not apply to them but leadership starts at the top.
 >
 > **[0:36](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-setting-the-tone?u=76281980&t=36)** You can avoid this mistake, however, by making sure you bond with executives to get them onboard with your efforts as an Agile project manager.
 >
@@ -463,7 +457,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-setting-the-tone?u=76281980&t=135)** Tell team members that management is trying to shift its behavior from say telling the team what to do to involving the team in decision making.
 >
-> **[2:24](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-setting-the-tone?u=76281980&t=144)** Finally, leaders need to communicate to the rest of the organization.
+> **[2:24](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-setting-the-tone?u=76281980&t=144)** Finally, leaders need to communicate to the [[Representational State Transfer (REST)|rest]] of the organization.
 >
 > **[2:29](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-setting-the-tone?u=76281980&t=149)** They need to stress that the transition is going to be a long and bumpy road.
 >
@@ -481,20 +475,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (5), [[Agile Development|Agile]] (4), management (3), next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - have (1)
 
-#### Too much regulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/too-much-regulation?u=76281980)
+#### [Too much regulation](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/too-much-regulation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/too-much-regulation?u=76281980&t=0)** - People are naturally creative, but company regulations and processes stifle that creativity.
 >
-> **[0:09](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/too-much-regulation?u=76281980&t=9)** As an agile leader, part of your job is to minimize constraints that limit the productivity of your team.
+> **[0:09](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/too-much-regulation?u=76281980&t=9)** As an [[Agile Development|agile]] leader, part of your job is to minimize constraints that limit the productivity of your team.
 >
 > **[0:19](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/too-much-regulation?u=76281980&t=19)** Overburdening teams with rules and regulations is a mistake.
 >
@@ -548,15 +541,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (8), [[Agile Development|Agile]] (6), teams (5), next (3), power (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (6)
 > **CLI Commands:** make (4)
 > **Ports:** :00 (2)
 > **Definitions:** is a  (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - people (1)
 
-#### Lack of transparency
-> [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/lack-of-transparency?u=76281980)
+#### [Lack of transparency](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/lack-of-transparency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -574,7 +566,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/lack-of-transparency?u=76281980&t=31)** Companies tend to think that not sharing information reduces distractions, but in my experience, people always want to understand what is going on.
 >
-> **[0:42](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/lack-of-transparency?u=76281980&t=42)** Agile leaders believe in transparency.
+> **[0:42](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/lack-of-transparency?u=76281980&t=42)** [[Agile Development|Agile]] leaders believe in transparency.
 >
 > **[0:46](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/lack-of-transparency?u=76281980&t=46)** Feelings of vulnerability, often prevent transparency.
 >
@@ -604,7 +596,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/lack-of-transparency?u=76281980&t=150)** It depends on the maturity of the leaders and their goals.
 >
-> **[2:35](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/lack-of-transparency?u=76281980&t=155)** Sometimes you will need to resort to more basic tools, such as inviting leaders to reflect on how much time they are spending on tactical work versus strategic thinking so that their own behavior can be more transparent to themselves.
+> **[2:35](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/lack-of-transparency?u=76281980&t=155)** Sometimes you will need to resort to more basic tools, such as inviting leaders to reflect on how much time they are spending on tactical work versus [[Strategic Thinking]] so that their own behavior can be more transparent to themselves.
 >
 > **[2:52](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/lack-of-transparency?u=76281980&t=172)** Next, invite the leader to apply the model to their daily work.
 >
@@ -630,7 +622,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), next (3), [[Strategic Thinking]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), [[Strategic Thinking]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1), is an  (1), stands for (1)
 > **Env Vars:** ceo (1), vast (1)
@@ -642,8 +634,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Assigning tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/assigning-tasks?u=76281980)
+#### [Assigning tasks](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/assigning-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -651,7 +642,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/assigning-tasks?u=76281980&t=9)** Wouldn't it be great if team members kept track of their own tasks?
 >
-> **[0:14](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/assigning-tasks?u=76281980&t=14)** That's what Agile teams do.
+> **[0:14](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/assigning-tasks?u=76281980&t=14)** That's what [[Agile Development|Agile]] teams do.
 >
 > **[0:17](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/assigning-tasks?u=76281980&t=17)** But how do you do that?
 >
@@ -671,7 +662,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/assigning-tasks?u=76281980&t=89)** Make sure to explain the benefits of doing this.
 >
-> **[1:33](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/assigning-tasks?u=76281980&t=93)** Increased team ownership, collaboration, decision-making speed and productivity.
+> **[1:33](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/assigning-tasks?u=76281980&t=93)** Increased team ownership, collaboration, [[Decision-Making]] speed and productivity.
 >
 > **[1:39](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/assigning-tasks?u=76281980&t=99)** Next, pick a small section of the project on which to practice, hold a task brainstorming session with the entire team and brainstorm tasks that need to be done for that small section of the project.
 >
@@ -705,7 +696,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), next (4), teams (1), [[Decision-Making]] (1), career (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), [[Decision-Making]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Best Practices:** pro tip (1), make sure to (1)
@@ -713,8 +704,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - as (1)
 
-#### Overlooking values
-> [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-values?u=76281980)
+#### [Overlooking values](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -726,7 +716,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-values?u=76281980&t=17)** Project managers are accustomed to tracking tasks, communicating risks, and creating processes.
 >
-> **[0:24](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-values?u=76281980&t=24)** Agile project managers also bring a set of values to work every day that guide all of the work they do.
+> **[0:24](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-values?u=76281980&t=24)** [[Agile Development|Agile]] project managers also bring a set of values to work every day that guide all of the work they do.
 >
 > **[0:33](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-values?u=76281980&t=33)** Overlooking values is a mistake.
 >
@@ -736,11 +726,11 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-values?u=76281980&t=56)** After watching this lesson, you'll learn the importance of using these values to accomplish goals with your team.
 >
-> **[1:05](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-values?u=76281980&t=65)** The Agile values were created in 2001 when a group of software development pioneers met in Snowbird, Utah.
+> **[1:05](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-values?u=76281980&t=65)** The Agile values were created in 2001 when a group of [[Software Development]] pioneers met in Snowbird, Utah.
 >
 > **[1:14](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-values?u=76281980&t=74)** Frustrated by the state of software development, often called waterfall, they wanted to change the way they worked with large companies.
 >
-> **[1:24](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-values?u=76281980&t=84)** Over several days, they hammered out the four values and the 12 principles that have come to be known as the Manifesto for [[Agile Software Development]].
+> **[1:24](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-values?u=76281980&t=84)** Over several days, they hammered out the four values and the 12 principles that have come to be known as the Manifesto for [[[[Agile Software Development]]]].
 >
 > **[1:35](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-values?u=76281980&t=95)** Let's take a look at the four values they developed.
 >
@@ -758,7 +748,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-values?u=76281980&t=142)** But on Agile projects, software is considered to be the primary measure of progress, so software is developed throughout the project.
 >
-> **[2:32](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-values?u=76281980&t=152)** As an Agile project manager, you may need to help shift people's mindsets around the continuous delivery of software.
+> **[2:32](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-values?u=76281980&t=152)** As an Agile project manager, you may need to help shift people's mindsets around the [[Continuous Delivery (CD)|continuous delivery]] of software.
 >
 > **[2:41](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-values?u=76281980&t=161)** You may hear software architects say that the architecture needs to be finalized first before any software development takes place.
 >
@@ -792,12 +782,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (11), [[Software Development]] (5), management (1), [[Agile Software Development]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (11), [[Software Development]] (5), [[Agile Software Development]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **Definitions:** means that (2), in other words (1), is a  (1)
 > **Speakers:** - there (1)
 
-#### Predicting, not estimating
-> [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/predicting-not-estimating?u=76281980)
+#### [Predicting, not estimating](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/predicting-not-estimating?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -811,7 +800,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/predicting-not-estimating?u=76281980&t=15)** As the saying goes, you can have two of the three, but you can't have all three.
 >
-> **[0:21](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/predicting-not-estimating?u=76281980&t=21)** This is because complex products are not predictable.
+> **[0:21](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/predicting-not-estimating?u=76281980&t=21)** This is because complex [[Microsoft Products|products]] are not predictable.
 >
 > **[0:24](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/predicting-not-estimating?u=76281980&t=24)** You aren't making widgets.
 >
@@ -823,7 +812,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/predicting-not-estimating?u=76281980&t=42)** All of these ups and downs mean that you and the team need to stop predicting and start learning about what works by trying it out.
 >
-> **[0:53](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/predicting-not-estimating?u=76281980&t=53)** Agile project managers don't try to predict the future and then push the team to make that prediction come true.
+> **[0:53](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/predicting-not-estimating?u=76281980&t=53)** [[Agile Development|Agile]] project managers don't try to predict the future and then push the team to make that prediction come true.
 >
 > **[1:03](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/predicting-not-estimating?u=76281980&t=63)** That's a mistake, while acting as if the future is predictable creates a feeling of security.
 >
@@ -887,19 +876,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), data (3), [[Agile Development|Agile]] (2), [[Security]] (2), teams (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Microsoft Products|Products]] (1)
 > **Versions:** 8.7 (1), 5.2 (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - a (1)
 
-#### Managing change incorrectly
-> [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/managing-change-incorrectly?u=76281980)
+#### [Managing change incorrectly](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/managing-change-incorrectly?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/managing-change-incorrectly?u=76281980&t=0)** - As an Agile project manager, you're like the world's most humble and helpful Superman, ready to pop in at a moment's notice and help your team get back on track, save the kittens in the tree, move the car off the train tracks and really start up whatever process will help your team improve.
+> **[0:00](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/managing-change-incorrectly?u=76281980&t=0)** - As an [[Agile Development|Agile]] project manager, you're like the world's most humble and helpful Superman, ready to pop in at a moment's notice and help your team get back on track, save the kittens in the tree, move the car off the train tracks and really start up whatever process will help your team improve.
 >
 > **[0:21](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/managing-change-incorrectly?u=76281980&t=21)** But what happens when you fly in, ask the team what's getting in their way and all they give you are problems with other people.
 >
@@ -953,7 +941,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), next (3), teams (2), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - as (1)
@@ -963,8 +951,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Not planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-planning?u=76281980)
+#### [Not planning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -974,7 +961,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-planning?u=76281980&t=16)** That causes a lot of friction on projects that have been planned down to the last minute.
 >
-> **[0:23](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-planning?u=76281980&t=23)** To avoid this problem, agile teams plan in small chunks.
+> **[0:23](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-planning?u=76281980&t=23)** To avoid this problem, [[Agile Development|agile]] teams plan in small chunks.
 >
 > **[0:28](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-planning?u=76281980&t=28)** They revisit those plans frequently when things change and they keep the work in priority order so they are working on the most important things first.
 >
@@ -1040,7 +1027,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), teams (4), product (4), next (4)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (8)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
@@ -1048,14 +1035,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - waterfall (1)
 
-#### Not releasing frequently
-> [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-releasing-frequently?u=76281980)
+#### [Not releasing frequently](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-releasing-frequently?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-releasing-frequently?u=76281980&t=0)** - How often should you release products, and how should you release them?
+> **[0:00](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-releasing-frequently?u=76281980&t=0)** - How often should you release [[Microsoft Products|products]], and how should you release them?
 >
-> **[0:06](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-releasing-frequently?u=76281980&t=6)** Those are key questions on an agile project manager's mind at the start of a project.
+> **[0:06](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-releasing-frequently?u=76281980&t=6)** Those are key questions on an [[Agile Development|agile]] project manager's mind at the start of a project.
 >
 > **[0:13](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/not-releasing-frequently?u=76281980&t=13)** Agile teams release products frequently to get feedback from customers and deliver value.
 >
@@ -1105,14 +1091,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Microsoft Products|Products]] (5), [[Agile Development|Agile]] (4), next (3), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Agile Development|Agile]] (4)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - how (1)
 
-#### Avoiding stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/avoiding-stakeholders?u=76281980)
+#### [Avoiding stakeholders](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/avoiding-stakeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1120,7 +1105,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/avoiding-stakeholders?u=76281980&t=5)** They may need to know about progress on the project or about the technology needed to complete it, or about any of the million things that a project involves.
 >
-> **[0:15](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/avoiding-stakeholders?u=76281980&t=15)** Bottom line, as an agile project manager, you need to keep each stakeholder regularly updated on some aspect of your project.
+> **[0:15](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/avoiding-stakeholders?u=76281980&t=15)** Bottom line, as an [[Agile Development|agile]] project manager, you need to keep each stakeholder regularly updated on some aspect of your project.
 >
 > **[0:26](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/avoiding-stakeholders?u=76281980&t=26)** You don't want to spearhead this great transition to agile only to fail to keep stakeholders informed and risk looking like agile is code for getting nothing accomplished.
 >
@@ -1180,14 +1165,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), next (3)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1), find (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - stakeholders (1)
 
-#### Missing feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/missing-feedback?u=76281980)
+#### [Missing feedback](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/missing-feedback?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1199,7 +1183,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/missing-feedback?u=76281980&t=20)** Techniques like this lack authenticity and effectiveness, reinforcing feedback's awful reputation.
 >
-> **[0:29](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/missing-feedback?u=76281980&t=29)** But as an Agile Project Manager, you can't avoid feedback, that's a mistake.
+> **[0:29](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/missing-feedback?u=76281980&t=29)** But as an [[Agile Development|Agile]] Project Manager, you can't avoid feedback, that's a mistake.
 >
 > **[0:36](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/missing-feedback?u=76281980&t=36)** Avoiding feedback might seem like the nice thing to do, but your team members will have to give one another feedback in order to improve.
 >
@@ -1257,7 +1241,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), product (2), [[Agile Development|Agile]] (1), teams (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1)
 > **Speakers:** - feedback (1)
@@ -1267,12 +1251,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Starting too large
-> [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/starting-too-large?u=76281980)
+#### [Starting too large](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/starting-too-large?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/starting-too-large?u=76281980&t=0)** - When your Agile initiative gets started, your executives and managers are likely to want to get as much done, as quickly as possible.
+> **[0:00](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/starting-too-large?u=76281980&t=0)** - When your [[Agile Development|Agile]] initiative gets started, your executives and managers are likely to want to get as much done, as quickly as possible.
 >
 > **[0:09](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/starting-too-large?u=76281980&t=9)** After all, faster is better, right?
 >
@@ -1340,18 +1323,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (10), next (4), teams (1), management (1), leadership (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (10)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2)
 > **Best Practices:** pro tip (1)
 > **Speakers:** - when (1)
 
-#### Avoiding metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/avoiding-metrics?u=76281980)
+#### [Avoiding metrics](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/avoiding-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/avoiding-metrics?u=76281980&t=0)** - Let's be honest, no one adopts an agile approach just for the sake of agile.
+> **[0:00](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/avoiding-metrics?u=76281980&t=0)** - Let's be honest, no one adopts an [[Agile Development|agile]] approach just for the sake of agile.
 >
 > **[0:06](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/avoiding-metrics?u=76281980&t=6)** Companies shift to agile because they want to improve their business.
 >
@@ -1419,14 +1401,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), teams (4), feature (4), business (1), prompt (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (8)
 > **Analogies:** for example (4), such as (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - let (1)
 
-#### Sitting still
-> [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/sitting-still?u=76281980)
+#### [Sitting still](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/sitting-still?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1436,7 +1417,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/sitting-still?u=76281980&t=9)** Athletes recommit themselves to their sport every year.
 >
-> **[0:14](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/sitting-still?u=76281980&t=14)** The same is true for the most successful Agile teams.
+> **[0:14](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/sitting-still?u=76281980&t=14)** The same is true for the most successful [[Agile Development|Agile]] teams.
 >
 > **[0:18](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/sitting-still?u=76281980&t=18)** It's important to make sure that your team does not settle into a rut.
 >
@@ -1504,15 +1485,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), teams (2), next (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (7)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - everything (1)
 
-#### Overlooking handoffs
-> [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-handoffs?u=76281980)
+#### [Overlooking handoffs](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-handoffs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1524,7 +1504,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-handoffs?u=76281980&t=33)** It's all too easy to think that they should be managed like the work that a team is entirely responsible for, but that leads to an under appreciation of the effort required to manage them.
 >
-> **[0:47](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-handoffs?u=76281980&t=47)** And while there are a lot of great ideas about how to manage handoff and dependency challenges, actually implementing good dependency management practices is tough, but after watching this video, you'll be able to use proven ways to help your team master the art of a smooth handoff.
+> **[0:47](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-handoffs?u=76281980&t=47)** And while there are a lot of great ideas about how to manage handoff and dependency challenges, actually implementing good [[Dependency Management]] practices is tough, but after watching this video, you'll be able to use proven ways to help your team master the art of a smooth handoff.
 >
 > **[1:08](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/overlooking-handoffs?u=76281980&t=68)** First, start by consulting the technical experts on your team, they'll know best what handoffs and dependencies need to be managed.
 >
@@ -1568,7 +1548,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), teams (2), [[Dependency Management]] (1)
+> **Frameworks & Libraries:** [[Dependency Management]] (1)
 > **Prerequisites:** required to (1), you'll need (1)
 > **CLI Commands:** make (1)
 > **Versions:** 37.5 (1)
@@ -1581,8 +1561,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Unclear priorities
-> [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/unclear-priorities?u=76281980)
+#### [Unclear priorities](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/unclear-priorities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1594,7 +1573,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/unclear-priorities?u=76281980&t=14)** One person feels the trunk while another the legs, and yet another the tusks.
 >
-> **[0:19](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/unclear-priorities?u=76281980&t=19)** Your job as an Agile project manager is to make sure that even when some folks have blinders on, everyone remains aligned towards the same priorities.
+> **[0:19](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/unclear-priorities?u=76281980&t=19)** Your job as an [[Agile Development|Agile]] project manager is to make sure that even when some folks have blinders on, everyone remains aligned towards the same priorities.
 >
 > **[0:31](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/unclear-priorities?u=76281980&t=31)** Being sloppy about priorities is a mistake.
 >
@@ -1664,15 +1643,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (11), [[Agile Development|Agile]] (5), teams (2), next (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5)
 > **CLI Commands:** make (4)
 > **Env Vars:** roi (3)
 > **Definitions:** is a  (3)
 > **Analogies:** it's like (1), for example (1), such as (1)
 > **Speakers:** - out (1)
 
-#### Finishing vs. starting
-> [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/finishing-vs-starting?u=76281980)
+#### [Finishing vs. starting](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/finishing-vs-starting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1694,7 +1672,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/finishing-vs-starting?u=76281980&t=46)** While it might seem like a good idea to tell your stakeholders that you are working on everything that slows down work, instead of speeding it up.
 >
-> **[0:56](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/finishing-vs-starting?u=76281980&t=56)** Agile teams finish work before they start new work.
+> **[0:56](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/finishing-vs-starting?u=76281980&t=56)** [[Agile Development|Agile]] teams finish work before they start new work.
 >
 > **[1:01](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/finishing-vs-starting?u=76281980&t=61)** A small amount of finished work is a lot more valuable to the customer than a lot of partially finished work.
 >
@@ -1736,12 +1714,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), [[Agile Development|Agile]] (3), product (2), teams (1), next (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - what (1)
 
-#### Adding work
-> [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/adding-work?u=76281980)
+#### [Adding work](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/adding-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1753,7 +1730,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/adding-work?u=76281980&t=22)** While pushing the team is the traditional way to get work done, that reduces employee engagement and product quality.
 >
-> **[0:31](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/adding-work?u=76281980&t=31)** As an Agile project manager, it's important for you to only assign work to your team that feels comfortable for them to complete.
+> **[0:31](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/adding-work?u=76281980&t=31)** As an [[Agile Development|Agile]] project manager, it's important for you to only assign work to your team that feels comfortable for them to complete.
 >
 > **[0:41](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/adding-work?u=76281980&t=41)** This lesson will equip you with strategies to identify when it is and is not appropriate to adjust your team's workload.
 >
@@ -1791,15 +1768,15 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/adding-work?u=76281980&t=157)** When you first start working as an Agile project manager, protecting the team from overwork will be one of the most valuable contributions that you can make.
 >
-> **[2:49](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/adding-work?u=76281980&t=169)** The typical product development or IT organization is accustomed to absorbing all of the volatility created by changes in requirements and technology surprises.
+> **[2:49](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/adding-work?u=76281980&t=169)** The typical [[Product Development]] or IT organization is accustomed to absorbing all of the volatility created by changes in requirements and technology surprises.
 >
-> **[3:02](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/adding-work?u=76281980&t=182)** They do this by working overtime, which is a short-term fix that leads to lower quality products and eventually to unhappy customers and employees.
+> **[3:02](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/adding-work?u=76281980&t=182)** They do this by working overtime, which is a short-term fix that leads to lower quality [[Microsoft Products|products]] and eventually to unhappy customers and employees.
 >
 > **[3:12](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/adding-work?u=76281980&t=192)** By rightsizing the amount of work that your team commits to, you will be building a healthy team.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Agile Development|Agile]] (2), data (1), business (1), [[Product Development]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Product Development]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (5), means that (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** make sure to (1)
@@ -1810,14 +1787,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting yourself up for long-term success
-> [LinkedIn Learning](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/setting-yourself-up-for-long-term-success?u=76281980)
+#### [Setting yourself up for long-term success](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/setting-yourself-up-for-long-term-success?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/setting-yourself-up-for-long-term-success?u=76281980&t=0)** - Congratulations, you've made it to the end of this course.
 >
-> **[0:05](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/setting-yourself-up-for-long-term-success?u=76281980&t=5)** You now have my top tips for how to be a successful agile project manager.
+> **[0:05](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/setting-yourself-up-for-long-term-success?u=76281980&t=5)** You now have my top tips for how to be a successful [[Agile Development|agile]] project manager.
 >
 > **[0:11](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/setting-yourself-up-for-long-term-success?u=76281980&t=11)** You've got a way to collaborate with managers and other teams.
 >
@@ -1825,7 +1801,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/setting-yourself-up-for-long-term-success?u=76281980&t=25)** Here are a few steps you can take if you want to continue learning more.
 >
-> **[0:31](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/setting-yourself-up-for-long-term-success?u=76281980&t=31)** First, you can go to [scrumguides.org](https://scrumguides.org) to get the authoritative guide on scrum.
+> **[0:31](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/setting-yourself-up-for-long-term-success?u=76281980&t=31)** First, you can go to [scrumguides.org](https://scrumguides.org) to get the authoritative guide on [[Scrum]].
 >
 > **[0:38](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/setting-yourself-up-for-long-term-success?u=76281980&t=38)** Second, you can read the book "Agile Project Management with Scrum" by Ken Schwaber, one of the co-creators of scrum.
 >
@@ -1837,7 +1813,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/setting-yourself-up-for-long-term-success?u=76281980&t=67)** I'm always happy to help.
 >
-> **[1:09](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/setting-yourself-up-for-long-term-success?u=76281980&t=69)** I have a unique name, so feel free to Google me, or you can find me at LinkedIn @michaeldelamaza, or my website, [hearthealthyscrum.com](https://hearthealthyscrum.com).
+> **[1:09](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/setting-yourself-up-for-long-term-success?u=76281980&t=69)** I have a unique name, so feel free to [[Google]] me, or you can find me at [[LinkedIn]] @michaeldelamaza, or my website, [hearthealthyscrum.com](https://hearthealthyscrum.com).
 >
 > **[1:21](https://www.linkedin.com/learning/mistakes-to-avoid-in-agile-project-management/setting-yourself-up-for-long-term-success?u=76281980&t=81)** You have invested in yourself by taking this course.
 >
@@ -1847,7 +1823,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), [[Scrum]] (3), teams (2), management (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (4), [[Scrum]] (3), [[Google]] (1), [[LinkedIn]] (1)
 > **URLs:** [scrumguides.org](https://scrumguides.org) (1), [meetup.com](https://meetup.com) (1), [hearthealthyscrum.com](https://hearthealthyscrum.com) (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)

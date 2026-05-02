@@ -66,32 +66,30 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use Copilot in Outlook
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/use-copilot-in-outlook?u=76281980)
+#### [Use Copilot in Outlook](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/use-copilot-in-outlook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/use-copilot-in-outlook?u=76281980&t=0)** - Copilot is your everyday AI companion in Microsoft Outlook.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/use-copilot-in-outlook?u=76281980&t=0)** - [[Microsoft Copilot|Copilot]] is your everyday AI companion in [[Microsoft Outlook]].
 >
-> **[0:04](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/use-copilot-in-outlook?u=76281980&t=4)** Whether you're composing a new email, replying to emails you received, or reviewing a lengthy thread that's been forwarded to you, Copilot can help you strengthen your writing, compose thoughtful replies, and analyze messages to give you the key takeaways.
+> **[0:04](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/use-copilot-in-outlook?u=76281980&t=4)** Whether you're composing a new email, replying to emails you received, or reviewing a lengthy thread that's been forwarded to you, Copilot can help you strengthen your writing, [[Jetpack Compose|compose]] thoughtful replies, and analyze messages to give you the key takeaways.
 >
-> **[0:18](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/use-copilot-in-outlook?u=76281980&t=18)** Hi, I'm LinkedIn Learning Senior Staff Instructor Garrick Chow.
+> **[0:18](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/use-copilot-in-outlook?u=76281980&t=18)** Hi, I'm [[LinkedIn]] Learning Senior Staff Instructor Garrick Chow.
 >
 > **[0:21](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/use-copilot-in-outlook?u=76281980&t=21)** And in this course, we're going to look at some of the most useful ways you can have Copilot help enhance your emails and maximize your workday efficiency.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), ai (1), [[Microsoft Outlook]] (1), [[Jetpack Compose|Compose]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Microsoft Outlook]] (1), [[Jetpack Compose|Compose]] (1), [[LinkedIn]] (1)
 > **Speakers:** - copilot (1)
 
-#### Understand Copilot subscriptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/understand-copilot-subscriptions?u=76281980)
+#### [Understand Copilot subscriptions](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/understand-copilot-subscriptions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/understand-copilot-subscriptions?u=76281980&t=0)** - [Instructor] The name Copilot is used by Microsoft for several of their products and services.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/understand-copilot-subscriptions?u=76281980&t=0)** - [Instructor] The name [[Microsoft Copilot|Copilot]] is used by [[Microsoft]] for several of their [[Microsoft Products|products]] and services.
 >
-> **[0:04](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/understand-copilot-subscriptions?u=76281980&t=4)** So before we jump into this course, I want to take a moment to clarify how the name applies to this specific course on using Copilot in Microsoft Outlook.
+> **[0:04](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/understand-copilot-subscriptions?u=76281980&t=4)** So before we jump into this course, I want to take a moment to clarify how the name applies to this specific course on using Copilot in [[Microsoft Outlook]].
 >
 > **[0:12](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/understand-copilot-subscriptions?u=76281980&t=12)** So first we have a free version of Copilot.
 >
@@ -101,9 +99,9 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/understand-copilot-subscriptions?u=76281980&t=33)** But again, anyone can use this web-based version of Copilot for free without an account.
 >
-> **[0:38](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/understand-copilot-subscriptions?u=76281980&t=38)** But the free version doesn't allow you to use Copilot and Microsoft 365 applications like Word, Excel, PowerPoint, Outlook, and so on.
+> **[0:38](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/understand-copilot-subscriptions?u=76281980&t=38)** But the free version doesn't allow you to use Copilot and [[Microsoft 365]] applications like [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]], [[Microsoft Outlook|Outlook]], and so on.
 >
-> **[0:46](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/understand-copilot-subscriptions?u=76281980&t=46)** To use Copilot through those and other M365 apps, you have to have a paid subscription to Copilot, either through a personal or individual account or an account you have through work or school, also refer to as a business account.
+> **[0:46](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/understand-copilot-subscriptions?u=76281980&t=46)** To use Copilot through those and other [[Microsoft 365|M365]] apps, you have to have a paid subscription to Copilot, either through a personal or individual account or an account you have through work or school, also refer to as a business account.
 >
 > **[0:58](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/understand-copilot-subscriptions?u=76281980&t=58)** If you're subscribing as an individual, you'll be subscribing to a product called Copilot Pro.
 >
@@ -121,7 +119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (26), [[Microsoft]] (5), [[Microsoft 365]] (5), web (4), business (3)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (26), [[Microsoft]] (5), [[Microsoft 365]] (5), [[Microsoft Products|Products]] (2), [[Microsoft Outlook]] (2)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Env Vars:** m365 (1)
 > **Definitions:** is called (1)
@@ -129,14 +127,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Check if you're using the new Outlook
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/check-if-you-re-using-the-new-outlook?u=76281980)
+#### [Check if you're using the new Outlook](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/check-if-you-re-using-the-new-outlook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/check-if-you-re-using-the-new-outlook?u=76281980&t=0)** - [Narrator] One other thing to be aware of if you want to be able to use all the features of Copilot in Outlook is that you have to use what's currently being referred to, at least as of this recording, as the new Outlook.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/check-if-you-re-using-the-new-outlook?u=76281980&t=0)** - [Narrator] One other thing to be aware of if you want to be able to use all the features of [[Microsoft Copilot|Copilot]] in [[Microsoft Outlook|Outlook]] is that you have to use what's currently being referred to, at least as of this recording, as the new Outlook.
 >
-> **[0:11](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/check-if-you-re-using-the-new-outlook?u=76281980&t=11)** Now, we're currently looking at the older or legacy version of Outlook in Windows.
+> **[0:11](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/check-if-you-re-using-the-new-outlook?u=76281980&t=11)** Now, we're currently looking at the older or legacy version of Outlook in [[Windows]].
 >
 > **[0:14](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/check-if-you-re-using-the-new-outlook?u=76281980&t=14)** And while you can access some Copilot features here, when you say draft a new email, for example, here's the Copilot button or you can use it to draft a message or use the coaching feature.
 >
@@ -148,7 +145,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/check-if-you-re-using-the-new-outlook?u=76281980&t=50)** And now, we're looking at the new Outlook.
 >
-> **[0:53](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/check-if-you-re-using-the-new-outlook?u=76281980&t=53)** Now alternately, if you don't have the new Outlook or any version of Outlook installed, you can open up the Microsoft store on your computer, do a search for Outlook, and that will bring up the latest version of Outlook, which you can then install from here.
+> **[0:53](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/check-if-you-re-using-the-new-outlook?u=76281980&t=53)** Now alternately, if you don't have the new Outlook or any version of Outlook installed, you can open up the [[Microsoft]] store on your computer, do a search for Outlook, and that will bring up the latest version of Outlook, which you can then install from here.
 >
 > **[1:06](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/check-if-you-re-using-the-new-outlook?u=76281980&t=66)** So, the new Outlook looks like this.
 >
@@ -176,7 +173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (20), [[Microsoft Copilot|Copilot]] (9), [[Windows]] (1), feature (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (20), [[Microsoft Copilot|Copilot]] (9), [[Windows]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** install (2)
 > **Cross-References:** go back to (1)
@@ -189,16 +186,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Draft a new email message
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/draft-a-new-email-message?u=76281980)
+#### [Draft a new email message](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/draft-a-new-email-message?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/draft-a-new-email-message?u=76281980&t=0)** - [Instructor] Copilot is a great resource to have at your fingertips when you need to compose a new email message but aren't quite sure how to get started.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/draft-a-new-email-message?u=76281980&t=0)** - [Instructor] [[Microsoft Copilot|Copilot]] is a great resource to have at your fingertips when you need to [[Jetpack Compose|compose]] a new email message but aren't quite sure how to get started.
 >
 > **[0:07](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/draft-a-new-email-message?u=76281980&t=7)** As long as you have a general idea of what your email is about, Copilot can help you compose it.
 >
-> **[0:12](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/draft-a-new-email-message?u=76281980&t=12)** In Outlook, start by clicking the New mail button.
+> **[0:12](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/draft-a-new-email-message?u=76281980&t=12)** In [[Microsoft Outlook|Outlook]], start by clicking the New mail button.
 >
 > **[0:16](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/draft-a-new-email-message?u=76281980&t=16)** Then you can either click the Draft with Copilot link that appears in the body of the message area, or if you've already clicked in the body of the message and that link has disappeared, just go to the Copilot button in the ribbon and choose Draft.
 >
@@ -216,7 +212,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/draft-a-new-email-message?u=76281980&t=69)** So I'll click in here and write something like, "Act as a manager.
 >
-> **[1:14](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/draft-a-new-email-message?u=76281980&t=74)** "Let my team know that annual reviews "will once again be held in July this year, "and that they should have their self-reviews completed "and submitted by June 15th, "and that the tools to help them write their reviews "are available on our company SharePoint."
+> **[1:14](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/draft-a-new-email-message?u=76281980&t=74)** "Let my team know that annual reviews "will once again be held in July this year, "and that they should have their self-reviews completed "and submitted by June 15th, "and that the tools to help them write their reviews "are available on our company [[SharePoint]]."
 >
 > **[1:28](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/draft-a-new-email-message?u=76281980&t=88)** So here I'm telling Copilot to take on the perspective of being a manager.
 >
@@ -236,7 +232,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/draft-a-new-email-message?u=76281980&t=125)** So I think this message is actually pretty good.
 >
-> **[2:07](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/draft-a-new-email-message?u=76281980&t=127)** Now, it's a good idea to always consider Copilot-generated content as a first draft, and to always read every word it generates to make sure it applies to your situation and to customize it to suit your needs.
+> **[2:07](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/draft-a-new-email-message?u=76281980&t=127)** Now, it's a good idea to always consider Copilot-generated content as a first draft, and to always read every [[Microsoft Word|word]] it generates to make sure it applies to your situation and to customize it to suit your needs.
 >
 > **[2:19](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/draft-a-new-email-message?u=76281980&t=139)** Notice it even says here that "AI-generated content may be incorrect."
 >
@@ -296,7 +292,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), prompt (6), [[Jetpack Compose|Compose]] (4), [[SharePoint]] (3), [[Microsoft Outlook|Outlook]] (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[Jetpack Compose|Compose]] (4), [[SharePoint]] (3), [[Microsoft Outlook|Outlook]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (8)
 > **Definitions:** is a  (1), is called (1)
 > **UI Navigation:** go to (1)
@@ -304,18 +300,17 @@ created: 2026-05-02
 > **Best Practices:** general rule (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reply to email messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/reply-to-email-messages?u=76281980)
+#### [Reply to email messages](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/reply-to-email-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/reply-to-email-messages?u=76281980&t=0)** - [Instructor] In addition to drafting an email from scratch, as we saw how to do in the previous video, Copilot can also help you draft replies to the emails you received.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/reply-to-email-messages?u=76281980&t=0)** - [Instructor] In addition to drafting an email from scratch, as we saw how to do in the previous video, [[Microsoft Copilot|Copilot]] can also help you draft replies to the emails you received.
 >
 > **[0:08](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/reply-to-email-messages?u=76281980&t=8)** Copilot can look at the message you received and come up with a reply based on what you specify in your prompt.
 >
 > **[0:14](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/reply-to-email-messages?u=76281980&t=14)** So I've selected an email I received where Pedro is asking if I have the most recent current technical specifications for a project we're working on.
 >
-> **[0:21](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/reply-to-email-messages?u=76281980&t=21)** Notice here at the top of the message area Outlook is offering some quick ways to reply.
+> **[0:21](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/reply-to-email-messages?u=76281980&t=21)** Notice here at the top of the message area [[Microsoft Outlook|Outlook]] is offering some quick ways to reply.
 >
 > **[0:26](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/reply-to-email-messages?u=76281980&t=26)** It noticed that Pedro is asking me for something, so it offers to attach a file to the reply right away, or I can start my reply with, "Here's what I have" or "I will get them to you."
 >
@@ -355,7 +350,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/reply-to-email-messages?u=76281980&t=129)** So it contains all the information that I wanted to share, but maybe Pedro and I are good friends.
 >
-> **[2:13](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/reply-to-email-messages?u=76281980&t=133)** So I'm going to click the change tone menu, and I'm going to ask Copilot to compose my reply in a more casual tone.
+> **[2:13](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/reply-to-email-messages?u=76281980&t=133)** So I'm going to click the change tone menu, and I'm going to ask Copilot to [[Jetpack Compose|compose]] my reply in a more casual tone.
 >
 > **[2:26](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/reply-to-email-messages?u=76281980&t=146)** And there it is.
 >
@@ -371,18 +366,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), prompt (5), [[Microsoft Outlook|Outlook]] (1), [[Jetpack Compose|Compose]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[Microsoft Outlook|Outlook]] (1), [[Jetpack Compose|Compose]] (1)
 > **Cross-References:** as we saw (3), previous video (1)
 > **Analogies:** for example (1), just like (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Summarize emails and email threads
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/summarize-emails-and-email-threads?u=76281980)
+#### [Summarize emails and email threads](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/summarize-emails-and-email-threads?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/summarize-emails-and-email-threads?u=76281980&t=0)** - [Narrator] Copilot's ability to summarize emails can help you quickly get caught up on your messages.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/summarize-emails-and-email-threads?u=76281980&t=0)** - [Narrator] [[Microsoft Copilot|Copilot]]'s ability to summarize emails can help you quickly get caught up on your messages.
 >
 > **[0:05](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/summarize-emails-and-email-threads?u=76281980&t=5)** You can have Copilot summarize single emails to give you the important points or even long threads to help you understand what information or tasks you need to be aware of.
 >
@@ -400,7 +394,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/summarize-emails-and-email-threads?u=76281980&t=52)** And you can see the summary now appears here at the top of the email detailing those key points.
 >
-> **[0:56](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/summarize-emails-and-email-threads?u=76281980&t=56)** Now, depending on the nature of the email and the summary, this might be all you need to compose a thoughtful reply, but as always, you'll want to at least skim through the discussion and see if there's anything important that Copilot might have missed.
+> **[0:56](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/summarize-emails-and-email-threads?u=76281980&t=56)** Now, depending on the nature of the email and the summary, this might be all you need to [[Jetpack Compose|compose]] a thoughtful reply, but as always, you'll want to at least skim through the discussion and see if there's anything important that Copilot might have missed.
 >
 > **[1:07](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/summarize-emails-and-email-threads?u=76281980&t=67)** Notice we also have this "Ask Copilot" button here, and that opens up the Copilot panel.
 >
@@ -438,17 +432,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), prompt (2), [[Jetpack Compose|Compose]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[Jetpack Compose|Compose]] (1)
 > **Analogies:** for example (2)
 > **Warnings:** be aware (1)
 > **Speakers:** - [narrator] (1)
 
-#### Receive email coaching
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/receive-email-coaching?u=76281980)
+#### [Receive email coaching](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/receive-email-coaching?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/receive-email-coaching?u=76281980&t=0)** - [Instructor] Copilot in Outlook can provide helpful coaching with suggestions on ways to adjust the tone and clarity of your emails before you send them to make sure you're effectively conveying your message the way you intend.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/receive-email-coaching?u=76281980&t=0)** - [Instructor] [[Microsoft Copilot|Copilot]] in [[Microsoft Outlook|Outlook]] can provide helpful coaching with suggestions on ways to adjust the tone and clarity of your emails before you send them to make sure you're effectively conveying your message the way you intend.
 >
 > **[0:11](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/receive-email-coaching?u=76281980&t=11)** Here we have an email that Kim has composed to send to Pedro, essentially letting him know that she won't be able to join his team on a new project.
 >
@@ -504,12 +497,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chat with Copilot in Outlook
-> [LinkedIn Learning](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/chat-with-copilot-in-outlook?u=76281980)
+#### [Chat with Copilot in Outlook](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/chat-with-copilot-in-outlook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/chat-with-copilot-in-outlook?u=76281980&t=0)** - [Instructor] So we've seen that in Outlook clicking the Copilot button in the ribbon opens up the Copilot panel, just like in the other M365 apps like Word, Excel, and PowerPoint.
+> **[0:00](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/chat-with-copilot-in-outlook?u=76281980&t=0)** - [Instructor] So we've seen that in [[Microsoft Outlook|Outlook]] clicking the [[Microsoft Copilot|Copilot]] button in the ribbon opens up the Copilot panel, just like in the other [[Microsoft 365|M365]] apps like [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], and [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[0:11](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/chat-with-copilot-in-outlook?u=76281980&t=11)** And from here we can ask questions or perform tasks all while being able to use Outlook side by side with the chat.
 >
@@ -521,7 +513,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/chat-with-copilot-in-outlook?u=76281980&t=41)** And, of course, we know that down here at the bottom of the panel, you can type your own prompts.
 >
-> **[0:46](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/chat-with-copilot-in-outlook?u=76281980&t=46)** For example, instead of digging through my settings to set an out of office notification, I can just type "Set my out of office from tomorrow through Monday at 2pm."
+> **[0:46](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/chat-with-copilot-in-outlook?u=76281980&t=46)** For example, instead of digging through my settings to set an out of [[Microsoft Office|office]] notification, I can just type "Set my out of office from tomorrow through Monday at 2pm."
 >
 > **[1:06](https://www.linkedin.com/learning/copilot-in-outlook-maximize-your-workday-efficiency-2025-34331062/chat-with-copilot-in-outlook?u=76281980&t=66)** Copilot takes a moment and then it brings up the settings right here in the panel.
 >

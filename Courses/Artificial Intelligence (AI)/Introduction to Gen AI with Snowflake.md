@@ -84,18 +84,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Navigating the generative AI revolution with Snowflake
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980)
+#### [Navigating the generative AI revolution with Snowflake](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=5)** - Artificial intelligence as a field of study has existed since the 1950s.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=5)** - [[Artificial Intelligence (AI)|Artificial intelligence]] as a field of study has existed since the 1950s.
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=17)** Up until a few years ago, artificial intelligence was associated with computers that could play chess or recognized objects and images.
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=26)** The notion of AI writing stories or composing music, engaging in human-like conversations, generating realistic artwork, and even writing functional computer code was still the stuff of science fiction.
 >
-> **[0:42](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=42)** Fast forward to 2022, ChatGPT entered the mainstream, sparking a daily surge of new generative AI capabilities.
+> **[0:42](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=42)** Fast forward to 2022, [[ChatGPT]] entered the mainstream, sparking a daily surge of new [[Generative AI]] capabilities.
 >
 > **[0:52](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=52)** Today's generative AI models can answer our hardest questions.
 >
@@ -111,7 +110,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=84)** Hi there, my name is Vino Duraisamy.
 >
-> **[1:27](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=87)** I'm a developer advocate at Snowflake.
+> **[1:27](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=87)** I'm a developer advocate at [[Snowflake]].
 >
 > **[1:29](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=89)** I'm excited to welcome you into this course.
 >
@@ -123,11 +122,11 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=126)** So understanding AI, even if you don't work with it on a daily basis, became crucial.
 >
-> **[2:13](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=133)** What does this mean for builders who create data products and software applications?
+> **[2:13](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=133)** What does this mean for builders who create data [[Microsoft Products|products]] and software applications?
 >
 > **[2:19](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=139)** As AI emerges as a transformation platform shift, we as builders are at the forefront of a new technological revolution.
 >
-> **[2:28](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=148)** The integration of AI into various aspects of software development is reshaping the industry.
+> **[2:28](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=148)** The integration of AI into various aspects of [[Software Development]] is reshaping the industry.
 >
 > **[2:35](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=155)** In order to stay relevant and take advantage of this paradigm shift, we must proactively enhance our AI-related skills and knowledge.
 >
@@ -141,11 +140,11 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=199)** Now, let's talk a little about who this course is best suited for.
 >
-> **[3:25](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=205)** This course is open to anyone, but it's going to be best suited for data scientists, ML engineers, or AI builders who have had some exposure to data science or machine learning concepts.
+> **[3:25](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=205)** This course is open to anyone, but it's going to be best suited for data scientists, ML engineers, or AI builders who have had some exposure to [[Data Science]] or machine learning concepts.
 >
 > **[3:38](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=218)** It is also suited for other data practitioners looking to enhance their AI skills.
 >
-> **[3:45](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=225)** You should have some experience with Snowflake, Python, and SQL.
+> **[3:45](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=225)** You should have some experience with Snowflake, [[Python (Programming Language)|Python]], and [[SQL]].
 >
 > **[3:51](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/navigating-the-generative-ai-revolution-with-snowflake?u=76281980&t=231)** If you are totally new to Snowflake, we recommend that you take our intro to Snowflake for devs, data scientists, and data engineers course.
 >
@@ -161,29 +160,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), data (12), [[Snowflake]] (8), [[Generative AI]] (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
+> **Frameworks & Libraries:** [[Snowflake]] (8), [[Generative AI]] (7), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[ChatGPT]] (2), [[Microsoft Products|Products]] (2)
 > **Env Vars:** sql (1), llm (1)
 > **Non-Speech:** (upbeat music) (2)
 > **CLI Commands:** python (1)
 > **Tools:** notion (1)
 > **Speakers:** - artificial (1)
 
-#### What we’ll cover in this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-we-ll-cover-in-this-course?u=76281980)
+#### [What we’ll cover in this course](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-we-ll-cover-in-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-we-ll-cover-in-this-course?u=76281980&t=0)** - Let's take a quick moment to discuss how this course has been designed.
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-we-ll-cover-in-this-course?u=76281980&t=5)** This course is designed to be practical, so you can get up to speed quickly and feel confident in applying the concepts right away in Snowflake.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-we-ll-cover-in-this-course?u=76281980&t=5)** This course is designed to be practical, so you can get up to speed quickly and feel confident in applying the concepts right away in [[Snowflake]].
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-we-ll-cover-in-this-course?u=76281980&t=14)** We will get our hands dirty building applications just like those you'll build for your own work.
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-we-ll-cover-in-this-course?u=76281980&t=20)** Let me tell you about all the cool projects we'll build in this course.
 >
-> **[0:24](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-we-ll-cover-in-this-course?u=76281980&t=24)** In this module, we will start with a simple AI application that summarizes customer support calls.
+> **[0:24](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-we-ll-cover-in-this-course?u=76281980&t=24)** In this module, we will start with a simple AI application that summarizes [[Customer Support]] calls.
 >
-> **[0:31](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-we-ll-cover-in-this-course?u=76281980&t=31)** Think of this as a Hello World of generative AI in Snowflake.
+> **[0:31](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-we-ll-cover-in-this-course?u=76281980&t=31)** Think of this as a Hello World of [[Generative AI]] in Snowflake.
 >
 > **[0:35](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-we-ll-cover-in-this-course?u=76281980&t=35)** And then we will build a more complex model that can not only summarize customer issues, but capture their sentiment and translate them to new languages, as well.
 >
@@ -201,7 +199,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (4), ai (4), application (2), [[Generative AI]] (2), [[Customer Support]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (4), [[Generative AI]] (2), [[Customer Support]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - let (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -211,12 +209,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing your development environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-development-environment?u=76281980)
+#### [Preparing your development environment](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-development-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-development-environment?u=76281980&t=0)** - This course was designed for you to follow along, so we'll build your first AI app on Snowflake together.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-development-environment?u=76281980&t=0)** - This course was designed for you to follow along, so we'll build your first AI app on [[Snowflake]] together.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-development-environment?u=76281980&t=7)** First, you'll need a Snowflake free trial account, and second, you will need a code editor.
 >
@@ -242,7 +239,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-development-environment?u=76281980&t=60)** The Snowflake UI is called Snowsight, so don't be puzzled when I use Snowsight and Snowflake UI interchangeably.
 >
-> **[1:08](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-development-environment?u=76281980&t=68)** Once you've logged into your Snowflake account, you can continue with the rest of the video.
+> **[1:08](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-development-environment?u=76281980&t=68)** Once you've logged into your Snowflake account, you can continue with the [[Representational State Transfer (REST)|rest]] of the video.
 >
 > **[1:13](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-development-environment?u=76281980&t=73)** Let us create our first Snowflake notebook using Snowsight.
 >
@@ -270,7 +267,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-development-environment?u=76281980&t=145)** Click on cancel.
 >
-> **[2:27](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-development-environment?u=76281980&t=147)** Select the data tab from the left panel and navigate to databases.
+> **[2:27](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-development-environment?u=76281980&t=147)** Select the data tab from the left panel and navigate to [[Databases]].
 >
 > **[2:32](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-development-environment?u=76281980&t=152)** On the top right click on the create database button.
 >
@@ -304,7 +301,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-development-environment?u=76281980&t=230)** This warehouse was created in the free trial account for you.
 >
-> **[3:54](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-development-environment?u=76281980&t=234)** This runs any SQL and Snowflake Python code issued by the notebook.
+> **[3:54](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-development-environment?u=76281980&t=234)** This runs any [[SQL]] and Snowflake [[Python (Programming Language)|Python]] code issued by the notebook.
 >
 > **[3:59](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-development-environment?u=76281980&t=239)** The next one is system created Streamlit Notebook Warehouse.
 >
@@ -352,7 +349,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (28), database (10), next (4), [[Databases]] (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Snowflake]] (28), [[Databases]] (2), [[SQL]] (2), [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (10), navigate to (5), select the (1)
 > **Prerequisites:** you'll need (2), install (1), set up (1)
 > **CLI Commands:** python (2)
@@ -361,8 +358,7 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Speakers:** - this (1)
 
-#### Build a simple AI app in Snowflake
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980)
+#### [Build a simple AI app in Snowflake](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -370,7 +366,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=2)** You have everything you need to build a simple AI app.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=6)** There is, you created your Snowflake free trial account, a database, schema, and your first Snowflake notebook as well.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=6)** There is, you created your [[Snowflake]] free trial account, a database, schema, and your first Snowflake notebook as well.
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=14)** In this video, we are going to build a simple AI app with Snowflake.
 >
@@ -384,9 +380,9 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=48)** Customers typically call the company to complain about the damage to their ski gear.
 >
-> **[0:53](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=53)** You are tasked with analyzing the customer support call transcripts to identify top customer complaints.
+> **[0:53](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=53)** You are tasked with analyzing the [[Customer Support]] call transcripts to identify top customer complaints.
 >
-> **[1:01](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=61)** You have access to raw unstructured call transcript data, and we are going to use natural language processing to process them and find the root cause of each complaint.
+> **[1:01](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=61)** You have access to raw unstructured call transcript data, and we are going to use [[Natural Language Processing (NLP)|natural language processing]] to process them and find the root cause of each complaint.
 >
 > **[1:13](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=73)** To achieve that, here's what we will do.
 >
@@ -424,7 +420,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=191)** Once the notebook is open, on the top right, click on packages dropdown list.
 >
-> **[3:18](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=198)** You can see that the Streamlet and Python packages are already installed in this notebook.
+> **[3:18](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=198)** You can see that the Streamlet and [[Python (Programming Language)|Python]] packages are already installed in this notebook.
 >
 > **[3:23](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=203)** Type snowflake-ml-python to install the Snowflake ML Python package.
 >
@@ -432,13 +428,13 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=215)** Let us understand what each cell in this Snowflake notebook does.
 >
-> **[3:39](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=219)** In the first cell, you can see that we are importing pandas and streamed packages to be used later in the code.
+> **[3:39](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=219)** In the first cell, you can see that we are importing [[Pandas (Software)|pandas]] and streamed packages to be used later in the code.
 >
 > **[3:46](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=226)** We will also create a notebook session to process the call transcripts in the app.
 >
 > **[3:51](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=231)** Also note this is a Python cell.
 >
-> **[3:54](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=234)** Snowflake notebooks support Python, SQL, and markdown cells.
+> **[3:54](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=234)** Snowflake notebooks support Python, [[SQL]], and markdown cells.
 >
 > **[3:59](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=239)** It means that you can write SQL and Python and run them all together in the same notebook.
 >
@@ -462,7 +458,7 @@ created: 2026-05-02
 >
 > **[5:26](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=326)** Before we continue further in the notebook, let us verify if the call transcripts data is loaded into the Snowflake table.
 >
-> **[5:34](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=334)** Navigate to the data tab or the cylinder icon on the left panel and click on databases.
+> **[5:34](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=334)** Navigate to the data tab or the cylinder icon on the left panel and click on [[Databases]].
 >
 > **[5:41](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=341)** You will see the list of all databases.
 >
@@ -476,13 +472,13 @@ created: 2026-05-02
 >
 > **[6:03](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=363)** Now, if you click on data preview, you will see a sample of a few rows of data.
 >
-> **[6:10](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=370)** Now let's hop back to the notebook and understand what the rest of the notebook cells are running.
+> **[6:10](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=370)** Now let's hop back to the notebook and understand what the [[Representational State Transfer (REST)|rest]] of the notebook cells are running.
 >
 > **[6:16](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=376)** Let's go to cell four, which is a sample transcript copied from the dataset for your reference.
 >
 > **[6:22](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=382)** In cell five, we use the Snowflake Cortex LLM function named Complete to process the transcript and summarize it.
 >
-> **[6:31](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=391)** First, we import the complete function and create a prompt for instructing the large language model to summarize the call transcript into JSON format.
+> **[6:31](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=391)** First, we import the complete function and create a prompt for instructing the large language model to summarize the call transcript into [[JSON]] format.
 >
 > **[6:41](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=401)** You can modify this prompt as well.
 >
@@ -550,17 +546,17 @@ created: 2026-05-02
 >
 > **[10:17](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=617)** Finally, you build a Streamlit UI for this AI application.
 >
-> **[10:22](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=622)** This was a great start that shows how easy it can be to get value from your data using generative AI in Snowflake.
+> **[10:22](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=622)** This was a great start that shows how easy it can be to get value from your data using [[Generative AI]] in Snowflake.
 >
 > **[10:31](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=631)** There is so much more that we can learn and do.
 >
-> **[10:35](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=635)** In the next module, we will dive deeper into Cortex LLM functions, using them to extract info from unstructured data.
+> **[10:35](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=635)** In the next module, we will dive deeper into Cortex LLM functions, using them to extract info from [[Unstructured Data]].
 >
 > **[10:43](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/build-a-simple-ai-app-in-snowflake?u=76281980&t=643)** You will stitch the functions together into a meaningful architecture to get to a structured data output as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (30), data (17), ai (8), [[Python (Programming Language)|Python]] (8), [[JSON]] (8)
+> **Frameworks & Libraries:** [[Snowflake]] (30), [[Python (Programming Language)|Python]] (8), [[JSON]] (8), [[Customer Support]] (6), [[SQL]] (6)
 > **Env Vars:** json (8), llm (7), sql (6), aws (3), csv (3)
 > **UI Navigation:** click on (9), navigate to (2), dropdown (2), select the (1), go to (1)
 > **CLI Commands:** python (8), aws (3), find (1), make (1)
@@ -574,16 +570,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction?u=76281980&t=5)** - Welcome back.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction?u=76281980&t=12)** Now, that we have gotten our first taste of how we can use generative AI in Snowflake, let's take a closer look at using Cortex LLM functions.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction?u=76281980&t=12)** Now, that we have gotten our first taste of how we can use [[Generative AI]] in [[Snowflake]], let's take a closer look at using Cortex LLM functions.
 >
-> **[0:22](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction?u=76281980&t=22)** As you might remember from before, we used the Snowflake Cortex COMPLETE function to prompt the foundation models with instructions to summarize the transcript in JSON format.
+> **[0:22](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction?u=76281980&t=22)** As you might remember from before, we used the Snowflake Cortex COMPLETE function to prompt the foundation models with instructions to summarize the transcript in [[JSON]] format.
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction?u=76281980&t=34)** In this module, we will look at what LLM functions are and how we can use them to accomplish complex natural language tasks.
 >
@@ -605,13 +600,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (3), llm (3), [[Generative AI]] (1), prompt (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (3), [[Generative AI]] (1), [[JSON]] (1)
 > **Env Vars:** llm (3), complete (1), json (1), count_tokens (1), try_complete (1)
 > **Non-Speech:** (upbeat music) (2)
 > **Speakers:** - welcome (1)
 
-#### Introduction to LLM functions and Cortex COMPLETE
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980)
+#### [Introduction to LLM functions and Cortex COMPLETE](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -623,9 +617,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=13)** Let's start.
 >
-> **[0:15](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=15)** Large language models are very powerful tools that can accomplish many tasks.
+> **[0:15](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=15)** [[Large Language Models (LLM)|Large language models]] are very powerful tools that can accomplish many tasks.
 >
-> **[0:21](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=21)** These tools can be further specialized from their foundational form through the process of fine tuning, which we will discuss in the next module.
+> **[0:21](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=21)** These tools can be further specialized from their foundational form through the process of [[Fine Tuning]], which we will discuss in the next module.
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=29)** However, LLMs are just models.
 >
@@ -633,9 +627,9 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=34)** We create value and gain insight by invoking the LLM to generate a response.
 >
-> **[0:40](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=40)** This is where the Snowflake Cortex comes in.
+> **[0:40](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=40)** This is where the [[Snowflake]] Cortex comes in.
 >
-> **[0:43](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=43)** Snowflake Cortex allows you to access some of the most capable enterprise-grade models, such as the Llama, Mistral, Reka, and Claude family of models.
+> **[0:43](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=43)** Snowflake Cortex allows you to access some of the most capable enterprise-grade models, such as the [[LLaMA]], Mistral, Reka, and Claude family of models.
 >
 > **[0:55](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=55)** LLM functions are easy to use building blocks for Gen AI apps, where the functions can be called to enable actions within the Snowflake environment.
 >
@@ -649,7 +643,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=89)** It's Tuesday and you have millions of customer service requests that are received in different languages.
 >
-> **[1:35](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=95)** You want to automate the analysis of service requests in a way that simple, low-severity requests are sent to the chat bot to respond, more complex, high-severity issues are sent to the customer support team to be handled.
+> **[1:35](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=95)** You want to automate the analysis of service requests in a way that simple, low-severity requests are sent to the chat bot to respond, more complex, high-severity issues are sent to the [[Customer Support]] team to be handled.
 >
 > **[1:51](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=111)** It's Wednesday and you have millions of PDFs that you need to extract data from.
 >
@@ -659,9 +653,9 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=123)** Let's dive in so you can see how easy using these functions can be.
 >
-> **[2:09](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=129)** Like many operations in Snowflake, LLM functions can be called both in SQL and Python.
+> **[2:09](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=129)** Like many operations in Snowflake, LLM functions can be called both in [[SQL]] and [[Python (Programming Language)|Python]].
 >
-> **[2:16](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=136)** It is worth noting that when called in SQL, the functions reach Cortex endpoint that is optimized for batch processing as it may require some warmup time.
+> **[2:16](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=136)** It is worth noting that when called in SQL, the functions reach Cortex endpoint that is optimized for [[Batch Processing]] as it may require some warmup time.
 >
 > **[2:27](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=147)** When Cortex LLMs are called in Python, on the other hand, they will hit an endpoint specifically optimized for low latency.
 >
@@ -671,7 +665,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=173)** This is the time to pause the video and log into your Snowflake account if you haven't already.
 >
-> **[3:00](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=180)** (screen whooshing) Once you're logged into Snowflake account, navigate to the companion Git repo for this course.
+> **[3:00](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=180)** (screen whooshing) Once you're logged into Snowflake account, navigate to the companion [[Git]] repo for this course.
 >
 > **[3:07](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=187)** You can find the link to the Git repo in the reading section prior to this video.
 >
@@ -695,7 +689,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=252)** Fantastic.
 >
-> **[4:13](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=253)** Now we have everything we need to run through the rest of this module.
+> **[4:13](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=253)** Now we have everything we need to run through the [[Representational State Transfer (REST)|rest]] of this module.
 >
 > **[4:18](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=258)** Click on the notebook titled, "Intro to LLM Functions," and select the start button at the top to start the notebook session.
 >
@@ -723,11 +717,11 @@ created: 2026-05-02
 >
 > **[5:35](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=335)** Cortex Complete in Snowflake can use a variety of pre-trained models of different sizes, which are tailored to meet diverse business needs.
 >
-> **[5:45](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=345)** These models range from the single digit billions of parameters to larger models such as Mr. Large, Llama 3.1, the 405 billion parameter model, and Anthropic Claude's 3.5 Sonnet.
+> **[5:45](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=345)** These models range from the single digit billions of parameters to larger models such as Mr. Large, Llama 3.1, the 405 billion parameter model, and [[Anthropic Claude]]'s 3.5 Sonnet.
 >
-> **[5:58](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=358)** The larger ones can be more accurate for more complex tasks and often come with larger context windows and are great for content generation and answering questions with large sets of context.
+> **[5:58](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=358)** The larger ones can be more accurate for more complex tasks and often come with larger context [[Windows]] and are great for content generation and answering questions with large sets of context.
 >
-> **[6:11](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=371)** Alternatively, the smaller ones typically offer faster speeds and lower inference cost, which is great for time-sensitive tasks such as external facing chat apps or constrained simpler tasks like LLM routing.
+> **[6:11](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=371)** Alternatively, the smaller ones typically offer faster speeds and lower inference cost, which is great for time-sensitive tasks such as external facing chat apps or constrained simpler tasks like LLM [[Routing]].
 >
 > **[6:27](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/introduction-to-llm-functions-and-cortex-complete?u=76281980&t=387)** Pretty impressive.
 >
@@ -747,7 +741,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (14), llm (12), next (5), [[LLaMA]] (3), [[Python (Programming Language)|Python]] (3)
+> **Frameworks & Libraries:** [[Snowflake]] (14), [[LLaMA]] (3), [[Python (Programming Language)|Python]] (3), [[Git]] (3), [[SQL]] (2)
 > **Env Vars:** llm (12), ski (6), gear (6), support (6), schema (3)
 > **UI Navigation:** click on (3), select the (3), navigate to (2), switch to (1)
 > **CLI Commands:** python (3), git (3), find (2)
@@ -756,8 +750,7 @@ created: 2026-05-02
 > **Versions:** 3.1 (2), 3.5 (1)
 > **Prerequisites:** install (2), set up (1)
 
-#### Task-specific LLM functions and helper functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980)
+#### [Task-specific LLM functions and helper functions](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -767,7 +760,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=12)** These are purpose built and handle common tasks such as translation, sentiment analysis, summarization, and text classification without the need for prompting or specifying LLMs.
 >
-> **[0:25](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=25)** It's a good time to pause the video and log into your Snowflake account if you're not already logged in.
+> **[0:25](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=25)** It's a good time to pause the video and log into your [[Snowflake]] account if you're not already logged in.
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=34)** Navigate to projects on the left panel, select notebooks and click on intro to LLM Functions Notebook.
 >
@@ -779,7 +772,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=55)** Translate is a helpful function that as the name implies, allows us to easily translate strings or columns in batch from one language to another.
 >
-> **[1:06](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=66)** Let's take a look at how we do this in Python.
+> **[1:06](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=66)** Let's take a look at how we do this in [[Python (Programming Language)|Python]].
 >
 > **[1:09](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=69)** When we use Cortex Translate, we pass the text or table column source language and target language to the function, and if we don't know the source language ahead of time, it can also be auto detected by leaving the source language as an empty string.
 >
@@ -811,7 +804,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=191)** There is no need to train a predictor like in classical NLP, on even craft a custom prompt.
 >
-> **[3:19](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=199)** Here is what the basic structure looks like in both Python and SQL.
+> **[3:19](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=199)** Here is what the basic structure looks like in both Python and [[SQL]].
 >
 > **[3:24](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=204)** In the SQL example here, we see how this is used to classify an entire table of support call transcripts.
 >
@@ -823,7 +816,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=252)** While text classification is a useful task on its own, it can also serve as a powerful starting point for LLM applications.
 >
-> **[4:20](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=260)** One common way to do this is routing.
+> **[4:20](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=260)** One common way to do this is [[Routing]].
 >
 > **[4:23](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=263)** Classify text can categorize the user intent based on the query and choose whether to send the query to a search system, a function call, or even between language models of varying sizes and capabilities.
 >
@@ -839,11 +832,11 @@ created: 2026-05-02
 >
 > **[5:11](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=311)** It is worth noting that as we saw, they can be run either on a single text string or on an entire column of table in batch.
 >
-> **[5:21](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=321)** Next, we will move on to talk about helper functions that we can use from prototyping an LLM application to promoting it to production.
+> **[5:21](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=321)** Next, we will move on to talk about helper functions that we can use from [[Prototyping]] an LLM application to promoting it to production.
 >
 > **[5:30](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=330)** Cortex offers two additional functions that can help as we build applications for production use.
 >
-> **[5:37](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=337)** Try complete and count tokens.
+> **[5:37](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=337)** Try complete and count [[Tokens]].
 >
 > **[5:40](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=340)** The try complete function helps with handling failures gracefully.
 >
@@ -867,7 +860,7 @@ created: 2026-05-02
 >
 > **[6:48](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=408)** This is the basic unit of process data when working with language models.
 >
-> **[6:53](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=413)** Each token is approximately equal to four characters and can be either a word, a single character or part of the word.
+> **[6:53](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=413)** Each token is approximately equal to four characters and can be either a [[Microsoft Word|word]], a single character or part of the word.
 >
 > **[7:02](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/task-specific-llm-functions-helper-functions?u=76281980&t=422)** To better understand the Snowflake credits used based on the token count, refer to the reading prior to this video.
 >
@@ -911,7 +904,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (15), [[Snowflake]] (7), [[Tokens]] (6), next (5), [[Python (Programming Language)|Python]] (4)
+> **Frameworks & Libraries:** [[Snowflake]] (7), [[Tokens]] (6), [[Python (Programming Language)|Python]] (4), [[SQL]] (2), [[Routing]] (2)
 > **Env Vars:** llm (15), sql (2), nlp (1)
 > **Cross-References:** in the next (2), in the last (1), we discussed (1), as we saw (1)
 > **CLI Commands:** python (4)
@@ -920,8 +913,7 @@ created: 2026-05-02
 > **Versions:** 3.5 (1)
 > **Documentation:** the documentation (1)
 
-#### Using the Cortex COMPLETE function
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980)
+#### [Using the Cortex COMPLETE function](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -929,7 +921,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=2)** In this video, we will use Cortex Complete function to build a multi turn chat application.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=8)** Let's start. First though, sign into your Snowflake account if you're not already signed in.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=8)** Let's start. First though, sign into your [[Snowflake]] account if you're not already signed in.
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=14)** (graphic swoosh) Navigate to Projects on the left panel, select Notebooks.
 >
@@ -943,9 +935,9 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=40)** We also need another package.
 >
-> **[0:42](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=42)** Look for Snowflake ML Python and install that as well.
+> **[0:42](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=42)** Look for Snowflake ML [[Python (Programming Language)|Python]] and install that as well.
 >
-> **[0:53](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=53)** First, we import the active snowpark session and then set the context for the rest of the notebook cells to use the SKI_GEAR_SUPPORT_DB and SKI_GEAR_SUPPORT_SCHEMA.
+> **[0:53](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=53)** First, we import the active snowpark session and then set the context for the [[Representational State Transfer (REST)|rest]] of the notebook cells to use the SKI_GEAR_SUPPORT_DB and SKI_GEAR_SUPPORT_SCHEMA.
 >
 > **[1:05](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=65)** Look at the code below using Complete.
 >
@@ -953,11 +945,11 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=72)** As we saw before Complete can be used with different models.
 >
-> **[1:16](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=76)** In this case, we are using the Llama 3.1405 billion parameter model for its multilingual capability.
+> **[1:16](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=76)** In this case, we are using the [[LLaMA]] 3.1405 billion parameter model for its multilingual capability.
 >
 > **[1:24](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=84)** If your application needs to interact with a wide range of languages, say French, German, Spanish, Italian, Portuguese, Arabic, Hindi, Russian, Chinese, Japanese, or Korean, you could use Mistral Large 2 or the Llama 3.1405 Billion model.
 >
-> **[1:49](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=109)** If you're building a summarization, extraction, or question and answer use case involving lengthy documents or an extremely large knowledge base, it is useful to turn to models with larger context windows, such as Claude 3.5 Sonnet, which offers a context window size of 200,000 tokens, or Jamba Instruct, which boasts an even larger window of 256,000 tokens.
+> **[1:49](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=109)** If you're building a summarization, extraction, or question and answer use case involving lengthy documents or an extremely large knowledge base, it is useful to turn to models with larger context [[Windows]], such as Claude 3.5 Sonnet, which offers a context window size of 200,000 [[Tokens]], or Jamba Instruct, which boasts an even larger window of 256,000 tokens.
 >
 > **[2:16](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=136)** For use cases requiring low latency or high throughput that only need low to moderate reasoning, small models below 10 billion parameter size can be the ideal choice, such as the Llama 3.2 1 billion and 3 billion parameter models.
 >
@@ -999,7 +991,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=268)** Then the user prompt contains the meat of the request for which we expect a response from the model.
 >
-> **[4:35](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=275)** For example, here we ask the model about the role of semicolons in JavaScript.
+> **[4:35](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=275)** For example, here we ask the model about the role of semicolons in [[JavaScript]].
 >
 > **[4:40](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=280)** You will notice that we've also added additional parameters to our call to Complete using options.
 >
@@ -1019,7 +1011,7 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=351)** Second, when options are present, we will get a full response object from Complete.
 >
-> **[5:57](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=357)** It now returns the JSON object from the LLM that contains the response to the prompt, information about the model used, and the number of tokens used at each step.
+> **[5:57](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=357)** It now returns the [[JSON]] object from the LLM that contains the response to the prompt, information about the model used, and the number of tokens used at each step.
 >
 > **[6:08](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=368)** Next, let's take a look at how Complete can be used for multi turn conversations in chat.
 >
@@ -1037,7 +1029,7 @@ created: 2026-05-02
 >
 > **[6:41](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=401)** This way we could keep appending our question to the model and its response in messages with history variable, and recursively call the Complete function to build a multi turn chat application.
 >
-> **[6:54](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=414)** For this multi turn chat experience, it would be really great if the user could read the output text similarly to how they would in a real conversation word by word, or in LLM speak, token by token.
+> **[6:54](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=414)** For this multi turn chat experience, it would be really great if the user could read the output text similarly to how they would in a real conversation [[Microsoft Word|word]] by word, or in LLM speak, token by token.
 >
 > **[7:08](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=428)** Another word for this is streaming.
 >
@@ -1049,11 +1041,11 @@ created: 2026-05-02
 >
 > **[7:29](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=449)** Doing so, dramatically reduces the perceived latency to the user, because each token, as soon as it is generated, appears on the output screen rather than waiting for the entire response to be generated.
 >
-> **[7:43](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=463)** This can make the user experience seem more interactive and responsive when it is utilized in the user facing applications that our models support.
+> **[7:43](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=463)** This can make the [[User Experience (UX)|user experience]] seem more interactive and responsive when it is utilized in the user facing applications that our models support.
 >
-> **[7:53](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=473)** Please note that streaming is enabled for Python only, not SQL.
+> **[7:53](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=473)** Please note that streaming is enabled for Python only, not [[SQL]].
 >
-> **[7:59](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=479)** The reason for this is that SQL, as mentioned before, is meant and optimized for batch processing scenarios where latency of an individual response is not a concern.
+> **[7:59](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=479)** The reason for this is that SQL, as mentioned before, is meant and optimized for [[Batch Processing]] scenarios where latency of an individual response is not a concern.
 >
 > **[8:11](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=491)** When we want a chat bot to feel more creative and interesting, we can turn to my favorite parameters, temperature and top_p.
 >
@@ -1071,7 +1063,7 @@ created: 2026-05-02
 >
 > **[9:00](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=540)** Top_p works by restricting the generated tokens to tokens that fit in accumulative distribution below the threshold you set.
 >
-> **[9:09](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=549)** For example, if top_p is equal to 0.3, only tokens comprising the 30% probability mass would be considered.
+> **[9:09](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=549)** For example, if top_p is equal to 0.3, only tokens comprising the 30% [[Probability]] mass would be considered.
 >
 > **[9:18](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-the-cortex-complete-function?u=76281980&t=558)** Moving from chat experiences to more task-based actions, it can be especially useful to constrain the number of tokens an LLM can generate.
 >
@@ -1145,7 +1137,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (12), [[Tokens]] (10), llm (7), [[LLaMA]] (6), application (4)
+> **Frameworks & Libraries:** [[Tokens]] (10), [[LLaMA]] (6), [[Snowflake]] (4), [[Microsoft Word|Word]] (4), [[Python (Programming Language)|Python]] (3)
 > **Env Vars:** llm (7), sql (3), json (2), using_llm_functions (1), ski_gear_support_db (1)
 > **Analogies:** such as (5), for example (3)
 > **CLI Commands:** python (3), aws (1), make (1), find (1)
@@ -1154,8 +1146,7 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1), we mentioned (1), we covered (1), we talked about (1), in the next (1)
 > **Definitions:** is a  (4), is an  (1)
 
-#### Using task-specific Cortex LLM functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-task-specific-cortex-llm-functions?u=76281980)
+#### [Using task-specific Cortex LLM functions](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-task-specific-cortex-llm-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1181,7 +1172,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-task-specific-cortex-llm-functions?u=76281980&t=59)** It helps process an entire column of text strings that are in different languages into a desired target language for use.
 >
-> **[1:07](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-task-specific-cortex-llm-functions?u=76281980&t=67)** Before we dive into using the function, this is the time to pause the video and log into your Snowflake account, if you haven't already.
+> **[1:07](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-task-specific-cortex-llm-functions?u=76281980&t=67)** Before we dive into using the function, this is the time to pause the video and log into your [[Snowflake]] account, if you haven't already.
 >
 > **[1:18](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-task-specific-cortex-llm-functions?u=76281980&t=78)** Navigate to projects on the left panel and select notebooks.
 >
@@ -1193,7 +1184,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-task-specific-cortex-llm-functions?u=76281980&t=96)** Scroll down all the way to task-specific functions.
 >
-> **[1:40](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-task-specific-cortex-llm-functions?u=76281980&t=100)** Let's look at how we call translate in Python.
+> **[1:40](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-task-specific-cortex-llm-functions?u=76281980&t=100)** Let's look at how we call translate in [[Python (Programming Language)|Python]].
 >
 > **[1:44](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-task-specific-cortex-llm-functions?u=76281980&t=104)** We already know that the call transcripts are available in various languages such as German, French, and so on.
 >
@@ -1207,7 +1198,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-task-specific-cortex-llm-functions?u=76281980&t=132)** Fantastic.
 >
-> **[2:13](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-task-specific-cortex-llm-functions?u=76281980&t=133)** In the next cell, let's look at an example in SQL.
+> **[2:13](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-task-specific-cortex-llm-functions?u=76281980&t=133)** In the next cell, let's look at an example in [[SQL]].
 >
 > **[2:17](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-task-specific-cortex-llm-functions?u=76281980&t=137)** Here, let's try to convert all the transcripts in different languages to English.
 >
@@ -1225,7 +1216,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-task-specific-cortex-llm-functions?u=76281980&t=185)** This is a very cost-effective function.
 >
-> **[3:07](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-task-specific-cortex-llm-functions?u=76281980&t=187)** They are only built for our use of input tokens and not output tokens.
+> **[3:07](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-task-specific-cortex-llm-functions?u=76281980&t=187)** They are only built for our use of input [[Tokens]] and not output tokens.
 >
 > **[3:12](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-task-specific-cortex-llm-functions?u=76281980&t=192)** Let's look at how we do this in Python.
 >
@@ -1309,17 +1300,17 @@ created: 2026-05-02
 >
 > **[6:36](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-task-specific-cortex-llm-functions?u=76281980&t=396)** In this video, we got some hands-on experience using the task-specific cortex functions: translation, sentiment analysis, summarization, and classify text.
 >
-> **[6:48](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-task-specific-cortex-llm-functions?u=76281980&t=408)** They save us a lot of time because we don't have to do prompt engineering or try to decide which model would be best for each case.
+> **[6:48](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-task-specific-cortex-llm-functions?u=76281980&t=408)** They save us a lot of time because we don't have to do [[Prompt Engineering]] or try to decide which model would be best for each case.
 >
 > **[6:56](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-task-specific-cortex-llm-functions?u=76281980&t=416)** The functions do their job right out of the box.
 >
 > **[7:00](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-task-specific-cortex-llm-functions?u=76281980&t=420)** In the next video, we will learn how to use helper functions.
 >
-> **[7:04](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-task-specific-cortex-llm-functions?u=76281980&t=424)** They can be useful, both in early prototyping and when our app reaches production.
+> **[7:04](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-task-specific-cortex-llm-functions?u=76281980&t=424)** They can be useful, both in early [[Prototyping]] and when our app reaches production.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), [[Python (Programming Language)|Python]] (4), next (4), llm (2), data (2)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Python (Programming Language)|Python]] (4), [[Tokens]] (2), [[Snowflake]] (1), [[Prompt Engineering]] (1)
 > **Env Vars:** sql (5), llm (2)
 > **CLI Commands:** python (4), make (1), find (1)
 > **Cross-References:** in the next (2), previous video (1), as we saw (1)
@@ -1328,20 +1319,19 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Using helper functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-helper-functions?u=76281980)
+#### [Using helper functions](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-helper-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-helper-functions?u=76281980&t=0)** - Welcome back.
 >
-> **[0:02](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-helper-functions?u=76281980&t=2)** In this video, we are going to learn how to use the third type of LLM functions in Snowflake Cortex, the helper functions, and get some practical experience using them.
+> **[0:02](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-helper-functions?u=76281980&t=2)** In this video, we are going to learn how to use the third type of LLM functions in [[Snowflake]] Cortex, the helper functions, and get some practical experience using them.
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-helper-functions?u=76281980&t=13)** Helper functions are purpose-built and managed functions that can help us estimate inference costs and also reduce cases of failures when running other LLM functions.
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-helper-functions?u=76281980&t=24)** As we noted before, there are two helper functions, COUNT_TOKENS and TRY_COMPLETE.
 >
-> **[0:30](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-helper-functions?u=76281980&t=30)** As the name implies, COUNT_TOKENS returns the number of tokens in a given text string or prompt.
+> **[0:30](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-helper-functions?u=76281980&t=30)** As the name implies, COUNT_TOKENS returns the number of [[Tokens]] in a given text string or prompt.
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/using-helper-functions?u=76281980&t=36)** In addition to the text string or prompt, it takes the name of the model, in the case of COMPLETE, or the name of the function, in the case of task specific LLM functions.
 >
@@ -1433,7 +1423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (5), llm (4), application (3), [[Snowflake]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Tokens]] (5), [[Snowflake]] (2)
 > **Env Vars:** try_complete (7), count_tokens (5), complete (5), llm (4), using_llm_functions (1)
 > **UI Navigation:** navigate to (1), click on (1), select the (1)
 > **Definitions:** is a  (2)
@@ -1442,8 +1432,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - welcome (1)
 
-#### Getting ready to put it all together: Build a Streamlit app
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980)
+#### [Getting ready to put it all together: Build a Streamlit app](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1453,21 +1442,21 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980&t=14)** First, the scenario.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980&t=16)** We will be playing the part of an analyst that has a volume of customer support tickets that we need to process to understand the concerns that our customers are telling us about.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980&t=16)** We will be playing the part of an analyst that has a volume of [[Customer Support]] tickets that we need to process to understand the concerns that our customers are telling us about.
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980&t=26)** The volume of support tickets is too large and it arrives in different languages, so handling it manually is not feasible.
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980&t=34)** We need a way to automate this and make it faster and efficient for the support teams.
 >
-> **[0:40](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980&t=40)** Before we build an app to help our support teams pause the video and navigate to the Git companion repo for this course.
+> **[0:40](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980&t=40)** Before we build an app to help our support teams pause the video and navigate to the [[Git]] companion repo for this course.
 >
 > **[0:47](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980&t=47)** It is highlighted in the reading prior to this video.
 >
-> **[0:52](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980&t=52)** Click on the repo URL and navigate to module two and download the call transcripts analytics app Python file that has all the source code needed to build the AI app.
+> **[0:52](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980&t=52)** Click on the repo URL and navigate to module two and download the call transcripts analytics app [[Python (Programming Language)|Python]] file that has all the source code needed to build the AI app.
 >
 > **[1:04](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980&t=64)** Now, you have downloaded the source code needed to build the Streamlit app.
 >
-> **[1:09](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980&t=69)** Next up, log into your Snowflake account and navigate to the projects tab in the left panel and select Streamlit.
+> **[1:09](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980&t=69)** Next up, log into your [[Snowflake]] account and navigate to the projects tab in the left panel and select Streamlit.
 >
 > **[1:17](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980&t=77)** Select the blue button on the upper right side of the screen which reads Streamlit app to create your app.
 >
@@ -1493,7 +1482,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980&t=132)** Once you pasted the code from the Python file, click run on the top right of the screen.
 >
-> **[2:18](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980&t=138)** The Streamlit app has a text box called JSON Summary.
+> **[2:18](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980&t=138)** The Streamlit app has a text box called [[JSON]] Summary.
 >
 > **[2:22](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980&t=142)** Click on the arrow right next to it and you see a dropdown list.
 >
@@ -1511,7 +1500,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980&t=196)** Go to line 29 where we call Snowflake cortex complete function and switch out the function parameter.
 >
-> **[3:23](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980&t=203)** Replace Mr. large with Llama 3.1 70 billion.
+> **[3:23](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980&t=203)** Replace Mr. large with [[LLaMA]] 3.1 70 billion.
 >
 > **[3:30](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980&t=210)** Click run on the top right.
 >
@@ -1559,7 +1548,7 @@ created: 2026-05-02
 >
 > **[5:26](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980&t=326)** You have successfully set up an app that translates, summarizes, and runs sentiment analysis.
 >
-> **[5:33](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980&t=333)** You looked at how using different LLMs produce different completions and the reasons to compare different LLMS while prototyping.
+> **[5:33](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980&t=333)** You looked at how using different LLMs produce different completions and the reasons to compare different LLMS while [[Prototyping]].
 >
 > **[5:41](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/getting-ready-to-put-it-all-together-build-a-streamlit-app?u=76281980&t=341)** Nice work.
 >
@@ -1573,7 +1562,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), next (6), llm (5), [[Snowflake]] (4), [[JSON]] (4)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Snowflake]] (4), [[JSON]] (4), [[LLaMA]] (2), [[Customer Support]] (1)
 > **Env Vars:** llm (5), json (4), llms (2), url (1), aws (1)
 > **CLI Commands:** python (8), make (1), git (1), aws (1)
 > **UI Navigation:** click on (3), select the (3), navigate to (2), dropdown (2), go to (1)
@@ -1582,8 +1571,7 @@ created: 2026-05-02
 > **Versions:** 3.1 (2), python 3 (1)
 > **Cross-References:** go back to (1), in the next (1), we covered (1)
 
-#### Module recap
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/module-recap?u=76281980)
+#### [Module recap](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/module-recap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1599,7 +1587,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/module-recap?u=76281980&t=30)** Great work.
 >
-> **[0:31](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/module-recap?u=76281980&t=31)** In the next module, we will be looking at how we can customize our LLM responses using Cortex fine tuning.
+> **[0:31](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/module-recap?u=76281980&t=31)** In the next module, we will be looking at how we can customize our LLM responses using Cortex [[Fine Tuning]].
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/module-recap?u=76281980&t=39)** We will cover how to prepare our training data, starting the fine tuning function, and managing our fine tuned models.
 >
@@ -1611,7 +1599,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (2), [[Fine Tuning]] (2), next (1), data (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (2)
 > **Env Vars:** llm (2), complete (1), count_tokens (1), try_complete (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
@@ -1624,8 +1612,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Cortex fine-tuning?
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980)
+#### [What is Cortex fine-tuning?](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1641,7 +1628,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=39)** Excited? I am.
 >
-> **[0:41](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=41)** Now, you might be thinking, "I ask all sorts of questions to ChatGPT "and other models every day, "and I get the right answers back.
+> **[0:41](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=41)** Now, you might be thinking, "I ask all sorts of questions to [[ChatGPT]] "and other models every day, "and I get the right answers back.
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=50)** "If these models work just fine, "why do we need to fine-tune them?"
 >
@@ -1667,7 +1654,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=150)** That makes sense, right?
 >
-> **[2:32](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=152)** Say occasionally, these models don't give me straight answers to my questions, so I have to word the question differently to get to the right answer.
+> **[2:32](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=152)** Say occasionally, these models don't give me straight answers to my questions, so I have to [[Microsoft Word|word]] the question differently to get to the right answer.
 >
 > **[2:42](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=162)** Can we simply experiment with different prompts to get the model to respond the right way?
 >
@@ -1679,7 +1666,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=177)** However, fine-tuning allows models to learn from new examples and potentially acquire new knowledge not part of their original training set.
 >
-> **[3:07](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=187)** In contrast, prompt engineering limits models to the original knowledge and capabilities and cannot introduce new knowledge.
+> **[3:07](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=187)** In contrast, [[Prompt Engineering]] limits models to the original knowledge and capabilities and cannot introduce new knowledge.
 >
 > **[3:16](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=196)** In addition, the time involved in crafting different prompts and experimenting with them is a factor as well.
 >
@@ -1691,7 +1678,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=218)** What is the level of customization needed and more?
 >
-> **[3:41](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=221)** Once you decide fine-tuning is the way forward for your specific use case and requirement, this video shows how you can fine-tune a general purpose LLM with your own data using Snowflake.
+> **[3:41](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=221)** Once you decide fine-tuning is the way forward for your specific use case and requirement, this video shows how you can fine-tune a general purpose LLM with your own data using [[Snowflake]].
 >
 > **[3:56](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=236)** To run fine-tuning in Snowflake, we use Snowflake's Cortex FINETUNE function.
 >
@@ -1699,7 +1686,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=252)** As mentioned above, fine-tuning a model allows us to train the model so that it can complete new tasks, respond in particular formats, or use specific tones or styles.
 >
-> **[4:25](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=265)** For example, you can teach the model to use a particular brand voice or to always generate a JSON with a particular set of keys.
+> **[4:25](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=265)** For example, you can teach the model to use a particular brand voice or to always generate a [[JSON]] with a particular set of keys.
 >
 > **[4:34](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=274)** Another reason that we might want to fine-tune our LLM before deploying it is to achieve a more reliable output formatting that matches the expected or required format.
 >
@@ -1713,7 +1700,7 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=317)** We carefully construct the following prompt shown here, which asks to extract only conditions and interventions from the medical notes.
 >
-> **[5:27](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=327)** When we ask this of Llama 3.1, the 405 billion parameter model, we get exactly the response we are looking for containing only the information we need.
+> **[5:27](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=327)** When we ask this of [[LLaMA]] 3.1, the 405 billion parameter model, we get exactly the response we are looking for containing only the information we need.
 >
 > **[5:39](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=339)** However, if we need to deploy this extraction for an entire health system, it'll be cost prohibitive to use a 405 billion parameter model.
 >
@@ -1735,7 +1722,7 @@ created: 2026-05-02
 >
 > **[7:06](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=426)** The large model worked well on our medical notes.
 >
-> **[7:09](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=429)** This is great for prototyping.
+> **[7:09](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=429)** This is great for [[Prototyping]].
 >
 > **[7:12](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=432)** In a real world setting, when you want to extract information from millions of medical notes in production, the cost would blow up.
 >
@@ -1761,7 +1748,7 @@ created: 2026-05-02
 >
 > **[8:52](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=532)** Sounds great, right?
 >
-> **[8:54](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=534)** Let's quickly consider hardware requirements when we're dealing with LLMs.
+> **[8:54](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=534)** Let's quickly consider [[Hardware]] requirements when we're dealing with LLMs.
 >
 > **[8:58](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/what-is-cortex-fine-tuning?u=76281980&t=538)** Due to the enormous size, fine-tuning large models, such as the Llama 3.1 405 billion model, entail intensive hardware requirements that need innovative approaches to reduce the memory load to train billions of parameters.
 >
@@ -1793,7 +1780,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (8), [[Snowflake]] (6), [[LLaMA]] (5), data (3), [[JSON]] (3)
+> **Frameworks & Libraries:** [[Snowflake]] (6), [[LLaMA]] (5), [[JSON]] (3), [[ChatGPT]] (2), [[Microsoft Word|Word]] (2)
 > **Env Vars:** llm (8), finetune (6), json (3), peft (1)
 > **Analogies:** such as (7), imagine (2), just like (2), picture (1), for example (1)
 > **Definitions:** is a  (5)
@@ -1802,14 +1789,13 @@ created: 2026-05-02
 > **Non-Speech:** (upbeat music) (2)
 > **Warnings:** note that (1)
 
-#### Setting up your environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980)
+#### [Setting up your environment](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=0)** - Welcome back.
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=1)** Imagine you are a data scientist working at a telecommunications company called Telco.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=1)** Imagine you are a data scientist working at a [[Telecommunications]] company called Telco.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=7)** Your responsibility is to provide AI-driven insights for your stakeholders so that they can make strategic decisions to increase customer satisfaction.
 >
@@ -1833,13 +1819,13 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=81)** Currently, the support tickets are landed in an S3 bucket.
 >
-> **[1:25](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=85)** We are going to load this dataset into a Snowflake table for analysis.
+> **[1:25](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=85)** We are going to load this dataset into a [[Snowflake]] table for analysis.
 >
 > **[1:30](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=90)** In this video, we will set up our Snowflake environment, load the dataset into a Snowflake table, and prepare it for further analysis.
 >
 > **[1:40](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=100)** Now you should pause the video to log into your Snowflake free trial account.
 >
-> **[1:47](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=107)** Once you are logged into Snowflake account, navigate to the companion git repo for this course.
+> **[1:47](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=107)** Once you are logged into Snowflake account, navigate to the companion [[Git]] repo for this course.
 >
 > **[1:53](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=113)** You can find the link to the git repo in the reading section prior to this video.
 >
@@ -1847,11 +1833,11 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=126)** The first notebook is for loading the support ticket dataset from the AWS S3 bucket into Snowflake.
 >
-> **[2:13](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=133)** The second notebook is for fine tuning the Mistral 7B model.
+> **[2:13](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=133)** The second notebook is for [[Fine Tuning]] the Mistral 7B model.
 >
 > **[2:18](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=138)** Now switch to your Snowflake account.
 >
-> **[2:21](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=141)** Select the Data tab from the left panel and navigate to Databases.
+> **[2:21](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=141)** Select the Data tab from the left panel and navigate to [[Databases]].
 >
 > **[2:26](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=146)** On the top right click on the create database button and type in telco_support_db for the database name.
 >
@@ -1899,7 +1885,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=258)** It takes a couple seconds.
 >
-> **[4:20](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=260)** First, we import the active snowpark session and then set the context for the rest of the notebook cells to use the TELCO_SUPPORT_DB and SUPPORT_DATA schema.
+> **[4:20](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=260)** First, we import the active snowpark session and then set the context for the [[Representational State Transfer (REST)|rest]] of the notebook cells to use the TELCO_SUPPORT_DB and SUPPORT_DATA schema.
 >
 > **[4:31](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=271)** After that, we will create a CSV file format so Snowflake knows how to read the support tickets dataset that is stored in CSV files in the AWS S3 bucket in this specific location.
 >
@@ -1911,7 +1897,7 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=320)** That is it.
 >
-> **[5:21](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=321)** So far, we logged into our Snowflake account, loaded the customer support tickets from an S3 bucket into a Snowflake table.
+> **[5:21](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=321)** So far, we logged into our Snowflake account, loaded the [[Customer Support]] tickets from an S3 bucket into a Snowflake table.
 >
 > **[5:30](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/setting-up-your-environment?u=76281980&t=330)** We have everything we need to analyze the support tickets and help our support team.
 >
@@ -1923,7 +1909,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (19), data (7), next (4), [[Git]] (3), database (3)
+> **Frameworks & Libraries:** [[Snowflake]] (19), [[Git]] (3), [[Fine Tuning]] (2), [[Databases]] (2), [[Telecommunications]] (1)
 > **Env Vars:** telco_support_db (5), support_data (4), aws (2), schema (2), csv (2)
 > **UI Navigation:** click on (7), select the (4), navigate to (3), switch to (1)
 > **CLI Commands:** git (3), find (2), aws (2), make (1)
@@ -1932,8 +1918,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), install (1)
 > **Cross-References:** in the next (1)
 
-#### Analyzing customer support tickets
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/analyzing-customer-support-tickets?u=76281980)
+#### [Analyzing customer support tickets](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/analyzing-customer-support-tickets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1941,7 +1926,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/analyzing-customer-support-tickets?u=76281980&t=1)** In this video, you will explore the support tickets dataset and use Cortex LLM functions to analyze them.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/analyzing-customer-support-tickets?u=76281980&t=9)** Sign into your Snowflake account if you're not already signed in.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/analyzing-customer-support-tickets?u=76281980&t=9)** Sign into your [[Snowflake]] account if you're not already signed in.
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/analyzing-customer-support-tickets?u=76281980&t=15)** Navigate to the project tab on the left panel and select notebooks, and click on the fine-tuning Mistral 7B notebook, and select the start button at the top right to initiate the notebook session.
 >
@@ -2027,7 +2012,7 @@ created: 2026-05-02
 >
 > **[5:07](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/analyzing-customer-support-tickets?u=76281980&t=307)** We could certainly engineer the prompt in different ways and experiment to see if the model is able to generate the right responses.
 >
-> **[5:16](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/analyzing-customer-support-tickets?u=76281980&t=316)** This prompt engineering approach can be effective in some cases, but in many cases, it can feel like a whack-a-mole where the engineered prompt can work sometimes, but be flaky the other times, not to mention the time it requires to manually craft your prompt.
+> **[5:16](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/analyzing-customer-support-tickets?u=76281980&t=316)** This [[Prompt Engineering]] approach can be effective in some cases, but in many cases, it can feel like a whack-a-mole where the engineered prompt can work sometimes, but be flaky the other times, not to mention the time it requires to manually craft your prompt.
 >
 > **[5:32](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/analyzing-customer-support-tickets?u=76281980&t=332)** For specific tasks like this where we want to generate responses in a certain style to every support ticket, fine-tuning the foundation models would be an effective approach.
 >
@@ -2037,7 +2022,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (9), llm (7), next (6), [[Snowflake]] (4), data (4)
+> **Frameworks & Libraries:** [[Snowflake]] (4), [[Prompt Engineering]] (1)
 > **Env Vars:** llm (7)
 > **Cross-References:** in the next (4), coming up (1)
 > **UI Navigation:** click on (2), select the (2), navigate to (1)
@@ -2046,8 +2031,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - welcome (1)
 
-#### Preparing your training data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-training-data?u=76281980)
+#### [Preparing your training data](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-training-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2059,11 +2043,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-training-data?u=76281980&t=17)** This is great, but large models are more costly to run than smaller ones.
 >
-> **[0:22](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-training-data?u=76281980&t=22)** An ideal solution would be to improve the accuracy of the small model through fine tuning.
+> **[0:22](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-training-data?u=76281980&t=22)** An ideal solution would be to improve the accuracy of the small model through [[Fine Tuning]].
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-training-data?u=76281980&t=28)** This is what we are going to do next, we will fine tune Mistral 7B to optimize for cost, but at the same time improving the accuracy of the response.
 >
-> **[0:39](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-training-data?u=76281980&t=39)** If you're not logged into your Snowflake account, please pause the video now to log into your account.
+> **[0:39](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-training-data?u=76281980&t=39)** If you're not logged into your [[Snowflake]] account, please pause the video now to log into your account.
 >
 > **[0:47](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/preparing-your-training-data?u=76281980&t=47)** Navigate to the projects tab in the left panel and select notebooks.
 >
@@ -2157,7 +2141,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Fine Tuning]] (11), next (5), [[Snowflake]] (5), prompt (2)
+> **Frameworks & Libraries:** [[Fine Tuning]] (11), [[Snowflake]] (5)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (2), we covered (1)
 > **UI Navigation:** navigate to (1), click on (1), select the (1)
@@ -2166,8 +2150,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
 
-#### Starting the fine-tuning job
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/starting-the-fine-tuning-job?u=76281980)
+#### [Starting the fine-tuning job](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/starting-the-fine-tuning-job?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2179,13 +2162,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/starting-the-fine-tuning-job?u=76281980&t=9)** We will talk about cost considerations, access permissions, and controls.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/starting-the-fine-tuning-job?u=76281980&t=14)** We will look at examples of how to run your fine-tuned job from your Snowflake Notebook.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/starting-the-fine-tuning-job?u=76281980&t=14)** We will look at examples of how to run your fine-tuned job from your [[Snowflake]] Notebook.
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/starting-the-fine-tuning-job?u=76281980&t=20)** In the last video, we finished preparing our data and we are now ready to start our fine-tune job.
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/starting-the-fine-tuning-job?u=76281980&t=27)** But before we get started with fine-tuning our LLM, we will take a moment to talk about the costs that the fine-tuned jobs incur and what factors affect this.
 >
-> **[0:37](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/starting-the-fine-tuning-job?u=76281980&t=37)** The cortex fine-tuning function incurs costs based upon the number of tokens that are consumed during the training.
+> **[0:37](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/starting-the-fine-tuning-job?u=76281980&t=37)** The cortex fine-tuning function incurs costs based upon the number of [[Tokens]] that are consumed during the training.
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/starting-the-fine-tuning-job?u=76281980&t=45)** On average, each token is roughly equal into four characters of text, which we mentioned before, so you could calculate a rough cost that way.
 >
@@ -2217,7 +2200,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/starting-the-fine-tuning-job?u=76281980&t=171)** It is worth noting that your costs do not end with calculating input tokens multiplied by epochs.
 >
-> **[2:58](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/starting-the-fine-tuning-job?u=76281980&t=178)** You will have costs incurred for the storage, and warehouse costs for storing any of your customized adapters and any SQL queries you run.
+> **[2:58](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/starting-the-fine-tuning-job?u=76281980&t=178)** You will have costs incurred for the storage, and warehouse costs for storing any of your customized adapters and any [[SQL]] queries you run.
 >
 > **[3:07](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/starting-the-fine-tuning-job?u=76281980&t=187)** Fine-tuning jobs are often long running and are not attached to a Snowflake Notebook session.
 >
@@ -2281,7 +2264,7 @@ created: 2026-05-02
 >
 > **[6:27](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/starting-the-fine-tuning-job?u=76281980&t=387)** That is it.
 >
-> **[6:28](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/starting-the-fine-tuning-job?u=76281980&t=388)** In a single line of code, we are now fine-tuning the mistral-7b foundation model with our own proprietary customer support ticket data to generate responses in a particular style, in just a single line of code.
+> **[6:28](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/starting-the-fine-tuning-job?u=76281980&t=388)** In a single line of code, we are now fine-tuning the mistral-7b foundation model with our own proprietary [[Customer Support]] ticket data to generate responses in a particular style, in just a single line of code.
 >
 > **[6:44](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/starting-the-fine-tuning-job?u=76281980&t=404)** How cool is that?
 >
@@ -2429,7 +2412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Snowflake]] (16), next (11), llm (6), [[Tokens]] (6)
+> **Frameworks & Libraries:** [[Snowflake]] (16), [[Tokens]] (6), [[SQL]] (1), [[Customer Support]] (1)
 > **Env Vars:** finetune (8), llm (6), describe (5), create (4), show (4)
 > **UI Navigation:** select the (5), click on (2), navigate to (1), go to (1)
 > **Cross-References:** in the next (2), in the last (1), we mentioned (1)
@@ -2438,8 +2421,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Warnings:** note that (1)
 
-#### Inference using fine-tuned model
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/inference-using-fine-tuned-model?u=76281980)
+#### [Inference using fine-tuned model](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/inference-using-fine-tuned-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2449,11 +2431,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/inference-using-fine-tuned-model?u=76281980&t=6)** Now it's time to put the model to work and see how it does.
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/inference-using-fine-tuned-model?u=76281980&t=11)** If you're not logged into your Snowflake account, please pause the video now to log into your account.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/inference-using-fine-tuned-model?u=76281980&t=11)** If you're not logged into your [[Snowflake]] account, please pause the video now to log into your account.
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/inference-using-fine-tuned-model?u=76281980&t=17)** (air whooshing) Navigate to the project's tab on the left panel and select Notebooks.
 >
-> **[0:23](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/inference-using-fine-tuned-model?u=76281980&t=23)** Click on the fine tuning mistral 7B notebook and select the Start button at the top right to initiate the notebook session.
+> **[0:23](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/inference-using-fine-tuned-model?u=76281980&t=23)** Click on the [[Fine Tuning]] mistral 7B notebook and select the Start button at the top right to initiate the notebook session.
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/inference-using-fine-tuned-model?u=76281980&t=31)** We had already run the notebook until the fine tuning section, but the notebook session ended, so we need to run the import statements again, and we'll also run the second cell to use this database and schema for the notebook.
 >
@@ -2465,7 +2447,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/inference-using-fine-tuned-model?u=76281980&t=70)** We invoke the Cortex complete function with the name of the fine tuned model, instead of mistral 7B or Mr. Large.
 >
-> **[1:21](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/inference-using-fine-tuned-model?u=76281980&t=81)** Looking at the inference output, it is clear that the fine tuned model is able to generate custom responses in the desired style for our customer support tickets.
+> **[1:21](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/inference-using-fine-tuned-model?u=76281980&t=81)** Looking at the inference output, it is clear that the fine tuned model is able to generate custom responses in the desired style for our [[Customer Support]] tickets.
 >
 > **[1:31](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/inference-using-fine-tuned-model?u=76281980&t=91)** Well done.
 >
@@ -2483,15 +2465,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fine Tuning]] (2), next (2), llm (1), [[Snowflake]] (1), database (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (2), [[Snowflake]] (1), [[Customer Support]] (1)
 > **UI Navigation:** navigate to (1), click on (1), select the (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - in (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Streamlit app to autogenerate custom emails and text messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/streamlit-app-to-auto-generate-custom-emails-text-messages?u=76281980)
+#### [Streamlit app to autogenerate custom emails and text messages](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/streamlit-app-to-auto-generate-custom-emails-text-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2501,7 +2482,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/streamlit-app-to-auto-generate-custom-emails-text-messages?u=76281980&t=3)** In this video, we are going to put all our learnings together to build an AI application using Streamlit that generates custom responses for the support tickets based on the customer issues.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/streamlit-app-to-auto-generate-custom-emails-text-messages?u=76281980&t=16)** If you're not logged into your Snowflake account, please pause the video now to log into your account.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/streamlit-app-to-auto-generate-custom-emails-text-messages?u=76281980&t=16)** If you're not logged into your [[Snowflake]] account, please pause the video now to log into your account.
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/streamlit-app-to-auto-generate-custom-emails-text-messages?u=76281980&t=23)** Navigate to the projects tab in the left panel and select notebooks.
 >
@@ -2565,11 +2546,11 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/streamlit-app-to-auto-generate-custom-emails-text-messages?u=76281980&t=174)** There is another way you could create Streamlit apps in Snowflake.
 >
-> **[2:58](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/streamlit-app-to-auto-generate-custom-emails-text-messages?u=76281980&t=178)** Before we do that, pause the video and navigate to the Git companion repo for this course.
+> **[2:58](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/streamlit-app-to-auto-generate-custom-emails-text-messages?u=76281980&t=178)** Before we do that, pause the video and navigate to the [[Git]] companion repo for this course.
 >
 > **[3:04](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/streamlit-app-to-auto-generate-custom-emails-text-messages?u=76281980&t=184)** It is highlighted in the reading prior to this video.
 >
-> **[3:08](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/streamlit-app-to-auto-generate-custom-emails-text-messages?u=76281980&t=188)** Click on the repo URL and navigate to module three and download the support ticket response app Python file that has all the source code needed to build the AI app.
+> **[3:08](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/streamlit-app-to-auto-generate-custom-emails-text-messages?u=76281980&t=188)** Click on the repo URL and navigate to module three and download the support ticket response app [[Python (Programming Language)|Python]] file that has all the source code needed to build the AI app.
 >
 > **[3:21](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/streamlit-app-to-auto-generate-custom-emails-text-messages?u=76281980&t=201)** Now, you've downloaded the source code needed to build the Streamlit app.
 >
@@ -2661,7 +2642,7 @@ created: 2026-05-02
 >
 > **[7:43](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/streamlit-app-to-auto-generate-custom-emails-text-messages?u=76281980&t=463)** With these, our simple, clean UI is now complete.
 >
-> **[7:47](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/streamlit-app-to-auto-generate-custom-emails-text-messages?u=76281980&t=467)** It's definitely not the most sophisticated UI for an app, but serves the purpose for rapidly prototyping AI applications and sharing it.
+> **[7:47](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/streamlit-app-to-auto-generate-custom-emails-text-messages?u=76281980&t=467)** It's definitely not the most sophisticated UI for an app, but serves the purpose for rapidly [[Prototyping]] AI applications and sharing it.
 >
 > **[7:56](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/streamlit-app-to-auto-generate-custom-emails-text-messages?u=76281980&t=476)** Let's look at the last 10 lines of code, where we invoke the Snowflake Cortex classify text function that takes the customer requests and tickets categories as input.
 >
@@ -2695,7 +2676,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (14), [[Python (Programming Language)|Python]] (8), application (7), llm (7), ai (6)
+> **Frameworks & Libraries:** [[Snowflake]] (14), [[Python (Programming Language)|Python]] (8), [[Prototyping]] (2), [[Git]] (1)
 > **UI Navigation:** select the (5), navigate to (4), click on (4), dropdown (4)
 > **Env Vars:** llm (7), url (3), ast (1)
 > **CLI Commands:** python (8), git (1)
@@ -2704,8 +2685,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1), in the next (1)
 > **Versions:** python 3 (1)
 
-#### Module recap
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/module-recap-24596135?u=76281980)
+#### [Module recap](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/module-recap-24596135?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2735,7 +2715,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/module-recap-24596135?u=76281980&t=74)** Gen AI allows us to do incredible things.
 >
-> **[1:18](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/module-recap-24596135?u=76281980&t=78)** We have only started to scratch the surface of the abilities gen AI offers in the Snowflake environment.
+> **[1:18](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/module-recap-24596135?u=76281980&t=78)** We have only started to scratch the surface of the abilities gen AI offers in the [[Snowflake]] environment.
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/module-recap-24596135?u=76281980&t=85)** Well done.
 >
@@ -2747,14 +2727,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (3), ai (3), data (2), application (1), business (1)
+> **Frameworks & Libraries:** [[Snowflake]] (1)
 > **Env Vars:** llm (3)
 > **Cross-References:** coming up (1)
 > **Speakers:** - congratulations (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Continue your generative AI education
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/continue-your-generative-ai-education?u=76281980)
+#### [Continue your generative AI education](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/continue-your-generative-ai-education?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2768,7 +2747,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/continue-your-generative-ai-education?u=76281980&t=30)** We looked at what the LLM function is and we followed that up with how to use the complete function and after that we learned how to use the task specific functions, translate, sentiment, summarize and classify text.
 >
-> **[0:45](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/continue-your-generative-ai-education?u=76281980&t=45)** We then looked at the helper functions, count tokens, and try complete.
+> **[0:45](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/continue-your-generative-ai-education?u=76281980&t=45)** We then looked at the helper functions, count [[Tokens]], and try complete.
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/continue-your-generative-ai-education?u=76281980&t=50)** From there, we brought it all together and created a Streamlet app using LLM functions as building blocks for the app.
 >
@@ -2792,11 +2771,11 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/continue-your-generative-ai-education?u=76281980&t=139)** The functions are simple to use and out of the box, but they don't offer flexibility to support other tasks.
 >
-> **[2:27](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/continue-your-generative-ai-education?u=76281980&t=147)** If you have a task that is not supported out of the box by any of the task specific functions, you can use complete with your choice of foundation model and some prompt engineering to solve it.
+> **[2:27](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/continue-your-generative-ai-education?u=76281980&t=147)** If you have a task that is not supported out of the box by any of the task specific functions, you can use complete with your choice of foundation model and some [[Prompt Engineering]] to solve it.
 >
 > **[2:40](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/continue-your-generative-ai-education?u=76281980&t=160)** Finally, if your use case is so specialized that it is not supported efficiently or adequately by the foundation models out of the box, then you can use Cortex fine-tune function to fine-tune and create a custom model for it.
 >
-> **[2:56](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/continue-your-generative-ai-education?u=76281980&t=176)** As you can see between the task specific functions, complete and fine-tune, Snowflake Cortex offers a powerful set of tools to solve many of your use cases.
+> **[2:56](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/continue-your-generative-ai-education?u=76281980&t=176)** As you can see between the task specific functions, complete and fine-tune, [[Snowflake]] Cortex offers a powerful set of tools to solve many of your use cases.
 >
 > **[3:08](https://www.linkedin.com/learning/introduction-to-gen-ai-with-snowflake/continue-your-generative-ai-education?u=76281980&t=188)** Congratulations again, You have covered the beginning of Gen AI in snowflake's environment and started yourself on an exciting journey.
 >
@@ -2814,7 +2793,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Snowflake]] (4), llm (3), next (1), career (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Snowflake]] (4), [[Tokens]] (1), [[Prompt Engineering]] (1)
 > **Env Vars:** llm (3), llms (1), lms (1)
 > **Cross-References:** we covered (2)
 > **Definitions:** is a  (1)

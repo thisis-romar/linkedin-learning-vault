@@ -95,8 +95,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/welcome-to-this-course?u=76281980)
+#### [Welcome to this course](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/welcome-to-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -124,21 +123,20 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/welcome-to-this-course?u=76281980&t=58)** And I've been working in information technology since 1996.
 >
-> **[1:03](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/welcome-to-this-course?u=76281980&t=63)** So, join me in this LinkedIn learning course as we get past the fear of the complexity of the IP addressing system.
+> **[1:03](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/welcome-to-this-course?u=76281980&t=63)** So, join me in this [[LinkedIn]] learning course as we get past the fear of the complexity of the [[IP Addressing]] system.
 >
 > **[1:11](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/welcome-to-this-course?u=76281980&t=71)** Yes, there will be some math but I promise you'll love it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (1), functional (1), dns (1), [[LinkedIn]] (1), [[IP Addressing]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[IP Addressing]] (1)
 > **Env Vars:** tcpip (1), dhcp (1), dns (1), ccie (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [anthony] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -146,7 +144,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/what-you-should-know?u=76281980&t=2)** So we're going to be approaching this from a beginner's perspective.
 >
-> **[0:06](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/what-you-should-know?u=76281980&t=6)** However, there are a few things that might be helpful to know before we start learning about IP addressing.
+> **[0:06](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/what-you-should-know?u=76281980&t=6)** However, there are a few things that might be helpful to know before we start learning about [[IP Addressing]].
 >
 > **[0:13](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/what-you-should-know?u=76281980&t=13)** First, it'd be helpful to understand basic networking concepts such as servers and clients.
 >
@@ -154,13 +152,13 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/what-you-should-know?u=76281980&t=26)** And finally, you should understand some of the fundamentals behind internet technologies like HTTP and web browsing.
 >
-> **[0:35](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/what-you-should-know?u=76281980&t=35)** If you need to brush up on any of those topics, check out some of the courses here in the LinkedIn Learning Library.
+> **[0:35](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/what-you-should-know?u=76281980&t=35)** If you need to brush up on any of those topics, check out some of the courses here in the [[LinkedIn]] Learning Library.
 >
 > **[0:41](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/what-you-should-know?u=76281980&t=41)** If you're all set, let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IP Addressing]] (1), next (1), management (1), web (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[IP Addressing]] (1), [[LinkedIn]] (1)
 > **Analogies:** such as (2)
 > **Env Vars:** http (1)
 > **Definitions:** is a  (1)
@@ -172,8 +170,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The IP address and its purpose
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/the-ip-address-and-its-purpose?u=76281980)
+#### [The IP address and its purpose](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/the-ip-address-and-its-purpose?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -209,7 +206,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/the-ip-address-and-its-purpose?u=76281980&t=121)** You will leave this course with a rich understanding of these various IP addresses and their functions.
 >
-> **[2:08](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/the-ip-address-and-its-purpose?u=76281980&t=128)** Let's take the two most popular desktop operating systems in the world, Microsoft Windows and the Apple macOS.
+> **[2:08](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/the-ip-address-and-its-purpose?u=76281980&t=128)** Let's take the two most popular desktop operating systems in the world, [[Microsoft]] [[Windows]] and the Apple macOS.
 >
 > **[2:16](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/the-ip-address-and-its-purpose?u=76281980&t=136)** And let's determine how to learn the relevant IP address information using both the graphical user interface and the command line interface on each of these two different operating systems.
 >
@@ -283,7 +280,7 @@ created: 2026-05-02
 >
 > **[7:56](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/the-ip-address-and-its-purpose?u=76281980&t=476)** for a long time, even folks that are non-technical like my father, he has looked at his smartphone and he's realized that his smartphone is really a computer in his pocket.
 >
-> **[8:09](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/the-ip-address-and-its-purpose?u=76281980&t=489)** And sure enough, just like one of our Mac systems or our windows systems, our iPhone or Android phone or whatever kind of phone that we're using is going to have an IP address.
+> **[8:09](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/the-ip-address-and-its-purpose?u=76281980&t=489)** And sure enough, just like one of our Mac systems or our windows systems, our iPhone or [[Android]] phone or whatever kind of phone that we're using is going to have an IP address.
 >
 > **[8:22](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/the-ip-address-and-its-purpose?u=76281980&t=502)** So here you can see me once I enter the settings, I'm going to go ahead and select the option for my WiFi connection.
 >
@@ -293,7 +290,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (3), [[Windows]] (3), [[Microsoft]] (1), [[Search]] (1), hit (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Microsoft]] (1), [[Android]] (1)
 > **Env Vars:** ipv4 (5), dhcp (4), dns (3), tcp (1)
 > **Versions:** 172.20.6 (3), 172.20.0 (1), 172.20.15 (1), 127.0.0 (1)
 > **UI Navigation:** go to (5), select the (1)
@@ -302,8 +299,7 @@ created: 2026-05-02
 > **Tools:** command line (1), terminal (1)
 > **Definitions:** is a  (1), is an  (1)
 
-#### Expressing IP addresses
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/expressing-ip-addresses?u=76281980)
+#### [Expressing IP addresses](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/expressing-ip-addresses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -415,18 +411,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), power (2), data (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the last (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### IP addressing structures and functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-addressing-structures-and-functions?u=76281980)
+#### [IP addressing structures and functions](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-addressing-structures-and-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-addressing-structures-and-functions?u=76281980&t=0)** - [Instructor] Now let's review the required IP addressing components that we're going to find in a typical computer on the network.
+> **[0:00](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-addressing-structures-and-functions?u=76281980&t=0)** - [Instructor] Now let's review the required [[IP Addressing]] components that we're going to find in a typical computer on the network.
 >
 > **[0:08](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-addressing-structures-and-functions?u=76281980&t=8)** And we know the most important and the one we focus on is the IP address itself.
 >
@@ -480,7 +474,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-addressing-structures-and-functions?u=76281980&t=185)** And they're pretty famous, the 8.8.8.8 address, and the 8.8.4.4 addresses.
 >
-> **[3:13](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-addressing-structures-and-functions?u=76281980&t=193)** These are the Google DNS servers.
+> **[3:13](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-addressing-structures-and-functions?u=76281980&t=193)** These are the [[Google]] DNS servers.
 >
 > **[3:16](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-addressing-structures-and-functions?u=76281980&t=196)** So these are these public DNS servers located all over the world.
 >
@@ -530,7 +524,7 @@ created: 2026-05-02
 >
 > **[6:05](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-addressing-structures-and-functions?u=76281980&t=365)** Well, let's test that connectivity.
 >
-> **[6:08](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-addressing-structures-and-functions?u=76281980&t=368)** So I will do a ping to none other than www.[linkedin.com](https://linkedin.com).
+> **[6:08](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-addressing-structures-and-functions?u=76281980&t=368)** So I will do a ping to none other than www.[[[LinkedIn]].com](https://linkedin.com).
 >
 > **[6:16](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-addressing-structures-and-functions?u=76281980&t=376)** And look at this, we can reach that resource.
 >
@@ -550,7 +544,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (14), next (4), [[LinkedIn]] (2), [[IP Addressing]] (1), node (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[IP Addressing]] (1), [[Google]] (1)
 > **Env Vars:** dns (14), tcp (1)
 > **Versions:** 255.255.255 (2), 192.168.0 (2), 8.8.8 (1), 8.8.4 (1), 127.0.0 (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (2), [example.com](https://example.com) (1)
@@ -559,18 +553,17 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### IP addressing examples in modern networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-addressing-examples-in-modern-networks?u=76281980)
+#### [IP addressing examples in modern networks](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-addressing-examples-in-modern-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-addressing-examples-in-modern-networks?u=76281980&t=0)** - [Instructor] It's pretty amazing how much we've learned about IP addressing already.
+> **[0:00](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-addressing-examples-in-modern-networks?u=76281980&t=0)** - [Instructor] It's pretty amazing how much we've learned about [[IP Addressing]] already.
 >
 > **[0:05](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-addressing-examples-in-modern-networks?u=76281980&t=5)** It's also pretty amazing how important all of this is.
 >
 > **[0:08](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-addressing-examples-in-modern-networks?u=76281980&t=8)** Isn't it for networking today?
 >
-> **[0:11](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-addressing-examples-in-modern-networks?u=76281980&t=11)** I thought it would help out, this point for us to just go ahead and take a look at a typical small office, home office network environment and put these IP addressing components in place so we can see them clearly.
+> **[0:11](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-addressing-examples-in-modern-networks?u=76281980&t=11)** I thought it would help out, this point for us to just go ahead and take a look at a typical small [[Microsoft Office|office]], home office network environment and put these IP addressing components in place so we can see them clearly.
 >
 > **[0:25](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-addressing-examples-in-modern-networks?u=76281980&t=25)** Notice this is really typical.
 >
@@ -606,18 +599,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (8), dns (3), [[IP Addressing]] (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (8), [[IP Addressing]] (2)
 > **Versions:** 192.168.1 (5), 255.255.255 (1), 8.8.8 (1), 8.8.4 (1), 203.0.113 (1)
 > **Env Vars:** dns (3)
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Examining IP addresses
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/challenge-examining-ip-addresses?u=76281980)
+#### [Challenge: Examining IP addresses](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/challenge-examining-ip-addresses?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/challenge-examining-ip-addresses?u=76281980&t=0)** - [Narrator] Well, here's your chance to show your skills in the area of IP addressing.
+> **[0:00](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/challenge-examining-ip-addresses?u=76281980&t=0)** - [Narrator] Well, here's your chance to show your skills in the area of [[IP Addressing]].
 >
 > **[0:11](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/challenge-examining-ip-addresses?u=76281980&t=11)** So, here's your challenge.
 >
@@ -641,21 +633,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IP Addressing]] (1), dns (1), next (1)
+> **Frameworks & Libraries:** [[IP Addressing]] (1)
 > **Env Vars:** dns (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Examining IP addresses
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/solution-examining-ip-addresses?u=76281980)
+#### [Solution: Examining IP addresses](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/solution-examining-ip-addresses?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/solution-examining-ip-addresses?u=76281980&t=0)** - [Instructor] So, how did you do?
 >
-> **[0:07](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/solution-examining-ip-addresses?u=76281980&t=7)** I'm going to go ahead and demonstrate my solution on my Windows system here.
+> **[0:07](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/solution-examining-ip-addresses?u=76281980&t=7)** I'm going to go ahead and demonstrate my solution on my [[Windows]] system here.
 >
 > **[0:12](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/solution-examining-ip-addresses?u=76281980&t=12)** If you'd like to review the way to do this for another operating system be sure to review the earlier appropriate portion of the videos where we covered this.
 >
@@ -671,7 +662,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), prompt (2), dns (1)
+> **Frameworks & Libraries:** [[Windows]] (3)
 > **Versions:** 192.168.0 (2), 209.18.47 (2), 255.255.255 (1)
 > **Tools:** command prompt (2)
 > **Env Vars:** dns (1)
@@ -684,8 +675,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Classful addressing
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/classful-addressing?u=76281980)
+#### [Classful addressing](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/classful-addressing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -767,15 +757,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Versions:** 0.0.0 (1), 127.255.255 (1), 255.255 (1), 128.0.0 (1), 191.255.255 (1)
 > **Definitions:** is called (1), is a  (1)
 > **Env Vars:** tcp (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Subnet masks
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/subnet-masks?u=76281980)
+#### [Subnet masks](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/subnet-masks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -793,7 +781,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/subnet-masks?u=76281980&t=35)** Remember, we'll be examining IPv6 addresses in detail later on.
 >
-> **[0:41](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/subnet-masks?u=76281980&t=41)** Let's examine the default subnet masks that were designed for the Classful IP Addressing System.
+> **[0:41](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/subnet-masks?u=76281980&t=41)** Let's examine the default subnet masks that were designed for the Classful [[IP Addressing]] System.
 >
 > **[0:48](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/subnet-masks?u=76281980&t=48)** Notice we have for the Class A, a subnet mask of 255.0.0.0.
 >
@@ -838,8 +826,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Subnet addressing
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/subnet-addressing?u=76281980)
+#### [Subnet addressing](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/subnet-addressing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -849,7 +836,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/subnet-addressing?u=76281980&t=14)** Let's say we're wanting to use the 10.0.0.0/8 class A address for our network.
 >
-> **[0:22](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/subnet-addressing?u=76281980&t=22)** We want to break our network up into smaller networks with about 50 windows, 10 computers in each network.
+> **[0:22](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/subnet-addressing?u=76281980&t=22)** We want to break our network up into smaller networks with about 50 [[Windows]], 10 computers in each network.
 >
 > **[0:29](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/subnet-addressing?u=76281980&t=29)** The 10/8 address and mask allows us to address millions of hosts, but they'd all need to be in the same network.
 >
@@ -899,14 +886,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Windows]] (1), business (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Versions:** 10.0.0 (4), 10.64 (2), 10.128 (2), 10.192 (2), 255.0.0 (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - subnetting (1)
 
-#### VLSM
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/vlsm?u=76281980)
+#### [VLSM](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/vlsm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -930,7 +916,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/vlsm?u=76281980&t=64)** This allows me to create eight new networks and each of these new networks can support about 2 million hosts.
 >
-> **[1:13](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/vlsm?u=76281980&t=73)** Do you notice what happens very easily with IP addressing, address waste It is often the case that we can accommodate and have reserved far more host IP addresses than we need.
+> **[1:13](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/vlsm?u=76281980&t=73)** Do you notice what happens very easily with [[IP Addressing]], address waste It is often the case that we can accommodate and have reserved far more host IP addresses than we need.
 >
 > **[1:26](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/vlsm?u=76281980&t=86)** This is where VLSM can get very powerful, allowing you to design the IP addressing so that it nicely accommodates just the amount of addresses you need in various areas of the network without all the waste.
 
@@ -943,8 +929,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Broadcast addressing
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/broadcast-addressing?u=76281980)
+#### [Broadcast addressing](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/broadcast-addressing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -974,15 +959,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), node (1), traffic (1)
 > **Versions:** 255.255.255 (1), 10.192.255 (1), 10.192.0 (1)
 > **CLI Commands:** node (1)
 > **Definitions:** we call this (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### IPv6 addresses
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ipv6-addresses?u=76281980)
+#### [IPv6 addresses](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ipv6-addresses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1034,14 +1017,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), next (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ipv4 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Subnet masks
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/challenge-subnet-masks?u=76281980)
+#### [Challenge: Subnet masks](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/challenge-subnet-masks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1067,13 +1048,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Subnet masks
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/solution-subnet-masks?u=76281980)
+#### [Solution: Subnet masks](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/solution-subnet-masks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1112,12 +1091,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### IP address prefixes
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-address-prefixes?u=76281980)
+#### [IP address prefixes](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-address-prefixes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-address-prefixes?u=76281980&t=0)** - [Narrator] In the early nineties three main problems with IP addressing were identified.
+> **[0:00](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-address-prefixes?u=76281980&t=0)** - [Narrator] In the early nineties three main problems with [[IP Addressing]] were identified.
 >
 > **[0:06](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-address-prefixes?u=76281980&t=6)** First, the IP address space for the public was beginning to become very short supply.
 >
@@ -1125,7 +1103,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-address-prefixes?u=76281980&t=17)** Second, the 32 bit address making up an IP address really started to look inadequate.
 >
-> **[0:25](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-address-prefixes?u=76281980&t=25)** And third, the size of the routing table for the internet, was growing so big as it was really starting to cause major problems.
+> **[0:25](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-address-prefixes?u=76281980&t=25)** And third, the size of the [[Routing]] table for the internet, was growing so big as it was really starting to cause major problems.
 >
 > **[0:35](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-address-prefixes?u=76281980&t=35)** A group of really smart engineers were assigned to solve these issues.
 >
@@ -1169,12 +1147,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### IP address aggregation
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-address-aggregation?u=76281980)
+#### [IP address aggregation](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-address-aggregation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-address-aggregation?u=76281980&t=0)** - [Instructor] While the design of classless inner domain routing and IPV6 certainly helped to prevent major issues with IP addressing, a big one really did still remain.
+> **[0:00](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-address-aggregation?u=76281980&t=0)** - [Instructor] While the design of classless inner domain [[Routing]] and IPV6 certainly helped to prevent major issues with [[IP Addressing]], a big one really did still remain.
 >
 > **[0:12](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ip-address-aggregation?u=76281980&t=12)** And this was the size of the internet routing table.
 >
@@ -1247,8 +1224,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: IP address aggregation
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/challenge-ip-address-aggregation?u=76281980)
+#### [Challenge: IP address aggregation](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/challenge-ip-address-aggregation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1264,13 +1240,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: IP address aggregation
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/solution-ip-address-aggregation?u=76281980)
+#### [Solution: IP address aggregation](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/solution-ip-address-aggregation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1306,8 +1280,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### IPv4 to IPv6 translators
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ipv4-to-ipv6-translators?u=76281980)
+#### [IPv4 to IPv6 translators](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/ipv4-to-ipv6-translators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1338,8 +1311,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multicast addressing
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/multicast-addressing?u=76281980)
+#### [Multicast addressing](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/multicast-addressing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1393,14 +1365,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), node (1), power (1)
 > **Definitions:** is an  (2), is a  (1), is called (1), known as (1)
 > **Versions:** 224.0.0 (1), 239.255.255 (1)
 > **CLI Commands:** node (1)
 > **Speakers:** - [instructor] (1)
 
-#### Anycast addressing
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/anycast-addressing?u=76281980)
+#### [Anycast addressing](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/anycast-addressing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1424,7 +1394,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (2)
 > **Env Vars:** dns (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -1435,8 +1404,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing DHCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-dhcp?u=76281980)
+#### [Introducing DHCP](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-dhcp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1444,7 +1412,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-dhcp?u=76281980&t=9)** DHCP uses the client server concept.
 >
-> **[0:13](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-dhcp?u=76281980&t=13)** An end user device is a classic example of a client while a Linux or Windows server is a classic example of a server.
+> **[0:13](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-dhcp?u=76281980&t=13)** An end user device is a classic example of a client while a [[Linux]] or [[Windows Server]] is a classic example of a server.
 >
 > **[0:21](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-dhcp?u=76281980&t=21)** The basic operation of this service is simple.
 >
@@ -1478,19 +1446,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (1), [[Windows Server]] (1), dns (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Windows Server]] (1)
 > **Env Vars:** dhcp (13), dns (1), dora (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring DHCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980)
+#### [Configuring DHCP](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980&t=0)** - Well, when it comes to DHCP settings and configuration I'm sure you're wondering what that's going to exactly look like.
 >
-> **[0:07](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980&t=7)** Well, here we are in a Windows 10 Client settings app.
+> **[0:07](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980&t=7)** Well, here we are in a [[Windows 10]] Client settings app.
 >
 > **[0:11](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980&t=11)** And when we come in here and we look at the different options that we have notice one of those is for network and internet.
 >
@@ -1508,11 +1475,11 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980&t=56)** So if I were to go to manual, notice it'll allow you to provide the IPv4 and IPv6 address information, but notice the default setting.
 >
-> **[1:08](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980&t=68)** And I'm in that default setting we are going to get our IP address information on this windows machine automatically.
+> **[1:08](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980&t=68)** And I'm in that default setting we are going to get our IP address information on this [[Windows]] machine automatically.
 >
 > **[1:16](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980&t=76)** Thanks to DHCP.
 >
-> **[1:19](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980&t=79)** Now, as we saw from the client perspective things are very easy and things obviously get more complex and a little trickier when you're setting up a DHCP server but it's not that bad at all here on a Windows server.
+> **[1:19](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980&t=79)** Now, as we saw from the client perspective things are very easy and things obviously get more complex and a little trickier when you're setting up a DHCP server but it's not that bad at all here on a [[Windows Server]].
 >
 > **[1:34](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980&t=94)** As an example, we love this server manager tool that will allow us to go in and manage that device.
 >
@@ -1532,7 +1499,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980&t=171)** And then notice how we can enter the DNS server addresses.
 >
-> **[2:56](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980&t=176)** So maybe we're using the globally reachable, Google DNS.
+> **[2:56](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980&t=176)** So maybe we're using the globally reachable, [[Google]] DNS.
 >
 > **[3:02](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980&t=182)** So we complete this information.
 >
@@ -1550,7 +1517,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980&t=211)** So just trust me, we would do that in actual practice.
 >
-> **[3:35](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980&t=215)** And then what we're going to do is we're going to go up to the manage option and we're going to choose add roles and features because this is nice in the Microsoft server operating system.
+> **[3:35](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980&t=215)** And then what we're going to do is we're going to go up to the manage option and we're going to choose add roles and features because this is nice in the [[Microsoft]] server operating system.
 >
 > **[3:47](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dhcp?u=76281980&t=227)** We can go in and say that we want to add certain features only when we need them.
 >
@@ -1650,7 +1617,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Windows Server]] (2), dns (2), [[Windows 10]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Windows Server]] (2), [[Windows 10]] (1), [[Google]] (1), [[Microsoft]] (1)
 > **Env Vars:** dhcp (20), dns (2), tcp (1)
 > **Versions:** 10.10.0 (3), 172.31 (1), 58.194 (1), 255.255.240 (1), 172.31.58 (1)
 > **UI Navigation:** go to (6), scroll down (1)
@@ -1659,8 +1626,7 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1)
 > **Speakers:** - well (1)
 
-#### Introducing DNS
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-dns?u=76281980)
+#### [Introducing DNS](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-dns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1668,7 +1634,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-dns?u=76281980&t=9)** It would be a nightmare to try and memorize even a handful of these addresses for key services we need to access.
 >
-> **[0:17](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-dns?u=76281980&t=17)** I'm sure you agree with me that it's easier to go to our web browser and go to the address bar and type LinkedIn than it is to know to type 13.107.42.14.
+> **[0:17](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-dns?u=76281980&t=17)** I'm sure you agree with me that it's easier to go to our web browser and go to the address bar and type [[LinkedIn]] than it is to know to type 13.107.42.14.
 >
 > **[0:32](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-dns?u=76281980&t=32)** Of course it is DNS that makes this name resolution and that's how we refer to it possible.
 >
@@ -1696,7 +1662,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (8), [[LinkedIn]] (2), web (1), database (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **Env Vars:** dns (8), ipv4 (1), ipv6 (1)
 > **Definitions:** stands for (1), is a  (1), known as (1)
 > **UI Navigation:** go to (2)
@@ -1705,8 +1671,7 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring DNS
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dns?u=76281980)
+#### [Configuring DNS](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1716,7 +1681,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dns?u=76281980&t=5)** It's going to be a bit more challenging on the server side of the equation but both the client and the server configurations are not bad at all.
 >
-> **[0:15](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dns?u=76281980&t=15)** So notice here in a Windows 10 client, there's many, many different ways we could access the DNS configuration for this device.
+> **[0:15](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dns?u=76281980&t=15)** So notice here in a [[Windows 10]] client, there's many, many different ways we could access the DNS configuration for this device.
 >
 > **[0:26](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dns?u=76281980&t=26)** We know one of them is in the settings and going into the properties of our network connection.
 >
@@ -1724,7 +1689,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dns?u=76281980&t=39)** Now if we wanted to edit this information of course we could go into the edit as we discussed, we could go to a manual configuration and we could put in the preferred and alternate DNS values but that is not often done because of the fact that we are gaining that information from that wonderful DHCP that we love so much.
 >
-> **[1:04](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dns?u=76281980&t=64)** Now I know that we can go in and we could configure DNS ourselves on something like a Linux box or a Windows server but don't forget there's powerful options now for these types of services thanks to Cloud.
+> **[1:04](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dns?u=76281980&t=64)** Now I know that we can go in and we could configure DNS ourselves on something like a [[Linux]] box or a [[Windows Server]] but don't forget there's powerful options now for these types of services thanks to Cloud.
 >
 > **[1:21](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dns?u=76281980&t=81)** Here you can see I'm logged in to Amazon AWS and they have a wonderful DNS service that is called route 53.
 >
@@ -1752,7 +1717,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dns?u=76281980&t=184)** And this is indicating who's in charge.
 >
-> **[3:07](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dns?u=76281980&t=187)** And if I wanted to create a record for just simple routing, I would start that and define a simple record in here maybe it's www dot, or you don't have to put in the dot, it's already there, www.[id10ttech.com](https://id10ttech.com) and then we could link right to something in AWS or we could just say, all right, look, we're going to create a basic a record here pointing to the server.
+> **[3:07](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dns?u=76281980&t=187)** And if I wanted to create a record for just simple [[Routing]], I would start that and define a simple record in here maybe it's www dot, or you don't have to put in the dot, it's already there, www.[id10ttech.com](https://id10ttech.com) and then we could link right to something in AWS or we could just say, all right, look, we're going to create a basic a record here pointing to the server.
 >
 > **[3:38](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/configuring-dns?u=76281980&t=218)** So you would input the appropriate IP address, let's just make one up and then you could set again the exact type of record.
 >
@@ -1762,7 +1727,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (10), cloud (2), aws (2), [[Windows 10]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (1), [[Linux]] (1), [[Windows Server]] (1), [[Routing]] (1)
 > **Env Vars:** dns (10), dhcp (2), aws (2), tcp (1), udp (1)
 > **CLI Commands:** make (3), aws (2)
 > **URLs:** [id10ttech.com](https://id10ttech.com) (2), [anthonysequeira.net](https://anthonysequeira.net) (1)
@@ -1771,8 +1736,7 @@ created: 2026-05-02
 > **Cross-References:** we discussed (1)
 > **UI Navigation:** go to (1)
 
-#### RFC 1918 addressing
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/rfc-1918-addressing?u=76281980)
+#### [RFC 1918 addressing](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/rfc-1918-addressing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1817,8 +1781,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing NAT
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-nat?u=76281980)
+#### [Introducing NAT](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-nat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1834,9 +1797,9 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-nat?u=76281980&t=42)** And sure enough, this solution worked and worked well.
 >
-> **[0:46](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-nat?u=76281980&t=46)** By the way, it's called RFC 1918 private IP addressing because there's a request for comments document and it's numbered 1918 that specified this idea.
+> **[0:46](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-nat?u=76281980&t=46)** By the way, it's called RFC 1918 private [[IP Addressing]] because there's a request for comments document and it's numbered 1918 that specified this idea.
 >
-> **[0:59](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-nat?u=76281980&t=59)** You can do a Google search on RFC 1918 and you can read the original document.
+> **[0:59](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-nat?u=76281980&t=59)** You can do a [[Google]] search on RFC 1918 and you can read the original document.
 >
 > **[1:06](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-nat?u=76281980&t=66)** It's very readable and it's somewhat enjoyable if you're a tech nerd like me.
 >
@@ -1848,19 +1811,19 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-nat?u=76281980&t=104)** For example, your enterprise might find that critical to permit the merger and eventual renumbering of your network when it merges with another network that your company might have recently acquired.
 >
-> **[1:57](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-nat?u=76281980&t=117)** Now as you might guess, ordinarily this is where I would walk you through the configuration of network address translations but the great news is in the small office home office with that router that we have, providing internet access and also providing wireless access, there's nothing to configure.
+> **[1:57](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-nat?u=76281980&t=117)** Now as you might guess, ordinarily this is where I would walk you through the configuration of network address translations but the great news is in the small [[Microsoft Office|office]] home office with that router that we have, providing internet access and also providing wireless access, there's nothing to configure.
 >
 > **[2:18](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-nat?u=76281980&t=138)** The network address translation intelligence is built right into the device and it is doing it for us automatically.
 >
 > **[2:28](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-nat?u=76281980&t=148)** Now of course, there are scenarios where perhaps you'll be configuring a really big, really important router at a service provider or maybe even one in your enterprise network and there you would need to manually do a NAT configuration but that's a bit above the scope of this presentation.
 >
-> **[2:51](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-nat?u=76281980&t=171)** But if you're so brave as to be interested in that, you can certainly find great training on that here in the LinkedIn learning library where there are plenty of advanced networking courses on Cisco equipment and Juniper equipment.
+> **[2:51](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-nat?u=76281980&t=171)** But if you're so brave as to be interested in that, you can certainly find great training on that here in the [[LinkedIn]] learning library where there are plenty of advanced networking courses on Cisco equipment and Juniper equipment.
 >
 > **[3:07](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/introducing-nat?u=76281980&t=187)** And you'll find plenty of examples of these advanced NAT configurations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[IP Addressing]] (1), [[Google]] (1), [[Search]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[IP Addressing]] (1), [[Google]] (1), [[LinkedIn]] (1)
 > **Env Vars:** rfc (5), nat (4), ipv4 (1)
 > **Documentation:** rfc (5)
 > **CLI Commands:** find (3)
@@ -1869,8 +1832,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: IP services
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/challenge-ip-services?u=76281980)
+#### [Challenge: IP services](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/challenge-ip-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1896,15 +1858,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), dns (1)
 > **Env Vars:** dhcp (1), dns (1), aaaa (1), cname (1), rfc (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** rfc (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: IP services
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/solution-ip-services?u=76281980)
+#### [Solution: IP services](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/solution-ip-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1946,7 +1906,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (3), next (2), traffic (1)
 > **Env Vars:** dhcp (4), dns (3), aaaa (1), cname (1), rfc (1)
 > **Versions:** 172.16 (1), 172.31 (1), 255.255 (1), 192.168.0 (1), 192.168.255 (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -1954,14 +1913,14 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
+> **Non-Speech:** (upbeat music) (1)
 
 
 ### Conclusion
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1969,7 +1928,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/next-steps?u=76281980&t=2)** By now you've learned the details of the IPv4 and IPv6 addresses and their meaning.
 >
-> **[0:09](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/next-steps?u=76281980&t=9)** You've learned more advanced IP addressing concepts, such as VLSM and CIDR.
+> **[0:09](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/next-steps?u=76281980&t=9)** You've learned more advanced [[IP Addressing]] concepts, such as VLSM and CIDR.
 >
 > **[0:15](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/next-steps?u=76281980&t=15)** You've learned of the various critical IP address components, like subnet masks and default gateways and DNS server addresses, and the important related services, like DNS, DHCP, and NAT.
 >
@@ -1981,11 +1940,11 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/next-steps?u=76281980&t=37)** You should consider creating or improving your network documentation around the details of IP addressing in your own space, whether that's at home or at work.
 >
-> **[0:48](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/next-steps?u=76281980&t=48)** Finally, you should consider moving to more advanced networking courses here in the LinkedIn Learning Library.
+> **[0:48](https://www.linkedin.com/learning/networking-foundations-ip-addressing-2020/next-steps?u=76281980&t=48)** Finally, you should consider moving to more advanced networking courses here in the [[LinkedIn]] Learning Library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IP Addressing]] (2), dns (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[IP Addressing]] (2), [[LinkedIn]] (1)
 > **Env Vars:** dns (2), vlsm (1), cidr (1), dhcp (1), nat (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [anthony] (1)

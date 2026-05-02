@@ -83,8 +83,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### PLC program flow and control
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/plc-program-flow-and-control?u=76281980)
+#### [PLC program flow and control](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/plc-program-flow-and-control?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -92,11 +91,11 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/plc-program-flow-and-control?u=76281980&t=18)** The controller, using a PLC program, specifies what action each device needs to perform.
 >
-> **[0:28](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/plc-program-flow-and-control?u=76281980&t=28)** PLC Ladder Logic is one of the common programming languages used in industrial and manufacturing processes.
+> **[0:28](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/plc-program-flow-and-control?u=76281980&t=28)** [[PLC Ladder Logic]] is one of the common programming languages used in industrial and manufacturing processes.
 >
 > **[0:38](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/plc-program-flow-and-control?u=76281980&t=38)** Although there are many types of PLC devices, the concepts of the language are the same.
 >
-> **[0:46](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/plc-program-flow-and-control?u=76281980&t=46)** In this LinkedIn Learning course, we'll explore some of the advanced instructions of PLC Ladder Logic programming, including bit shift, word shift, MCR, Jump and Label, and sub-routine instructions.
+> **[0:46](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/plc-program-flow-and-control?u=76281980&t=46)** In this [[LinkedIn]] Learning course, we'll explore some of the advanced instructions of PLC Ladder Logic programming, including bit shift, [[Microsoft Word|word]] shift, MCR, Jump and Label, and sub-routine instructions.
 >
 > **[1:05](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/plc-program-flow-and-control?u=76281980&t=65)** I'll explore each instruction separately by explaining its parameters and operation.
 >
@@ -108,13 +107,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (5), [[Programming]] (3), [[LinkedIn]] (2), [[Microsoft Word|Word]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[PLC Ladder Logic]] (3), [[LinkedIn]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** plc (5), mcr (1)
 > **Analogies:** similar to (1), just like (1)
 > **Speakers:** - [zahraa] (1)
 
-#### What you should know before watching
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/what-you-should-know-before-watching?u=76281980)
+#### [What you should know before watching](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/what-you-should-know-before-watching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -122,19 +120,19 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/what-you-should-know-before-watching?u=76281980&t=10)** This course introduces instructions that are used in advanced operations.
 >
-> **[0:16](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/what-you-should-know-before-watching?u=76281980&t=16)** Like bit shift, word shift instructions, master control resets, jump and label instructions, and the concept of subroutine and its instructions.
+> **[0:16](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/what-you-should-know-before-watching?u=76281980&t=16)** Like bit shift, [[Microsoft Word|word]] shift instructions, master control resets, jump and label instructions, and the concept of subroutine and its instructions.
 >
 > **[0:29](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/what-you-should-know-before-watching?u=76281980&t=29)** I'll be using LogixPro PLC Simulator from LearningPit.
 >
-> **[0:35](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/what-you-should-know-before-watching?u=76281980&t=35)** This simulation software mimics Allen-Bradley's Rockwell RSLogix 500.
+> **[0:35](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/what-you-should-know-before-watching?u=76281980&t=35)** This [[Simulation Software]] mimics Allen-Bradley's Rockwell RSLogix 500.
 >
 > **[0:42](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/what-you-should-know-before-watching?u=76281980&t=42)** This course is designed as a continuation of the learning path, Become a PLC Developer.
 >
-> **[0:50](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/what-you-should-know-before-watching?u=76281980&t=50)** If you need a refresher on the basics of programming, ladder logic, I recommend that you check Learning PLC Ladder Logic course so you are prepared for this one.
+> **[0:50](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/what-you-should-know-before-watching?u=76281980&t=50)** If you need a refresher on the basics of programming, ladder logic, I recommend that you check Learning [[PLC Ladder Logic]] course so you are prepared for this one.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (3), [[Programming]] (2), [[Microsoft Word|Word]] (1), [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Simulation Software]] (1), [[PLC Ladder Logic]] (1)
 > **Env Vars:** plc (3)
 > **Speakers:** - [instructor] (1)
 
@@ -143,8 +141,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Concepts of bits and words
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/concepts-of-bits-and-words?u=76281980)
+#### [Concepts of bits and words](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/concepts-of-bits-and-words?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -158,7 +155,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/concepts-of-bits-and-words?u=76281980&t=27)** These locations, or registers, are referred to as words.
 >
-> **[0:33](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/concepts-of-bits-and-words?u=76281980&t=33)** Each word stores data in the form of binary digits, or bits.
+> **[0:33](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/concepts-of-bits-and-words?u=76281980&t=33)** Each [[Microsoft Word|word]] stores data in the form of binary digits, or bits.
 >
 > **[0:39](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/concepts-of-bits-and-words?u=76281980&t=39)** The number of bits that a word can store depends on the type of the PLC system being used.
 >
@@ -180,13 +177,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (6), [[Microsoft Word|Word]] (4), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4)
 > **Env Vars:** plc (6), lsb (1), msb (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bit shift registers intro
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bit-shift-registers-intro?u=76281980)
+#### [Bit shift registers intro](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bit-shift-registers-intro?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -194,7 +190,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bit-shift-registers-intro?u=76281980&t=10)** Here is an illustration of the basic concept of a bit shift register.
 >
-> **[0:16](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bit-shift-registers-intro?u=76281980&t=16)** You can see a memory allocation for a 16-bit word.
+> **[0:16](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bit-shift-registers-intro?u=76281980&t=16)** You can see a memory allocation for a 16-bit [[Microsoft Word|word]].
 >
 > **[0:21](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bit-shift-registers-intro?u=76281980&t=21)** A shift pulse or a clock causes each bit in the shift register to move one position to the right in this case.
 >
@@ -228,19 +224,18 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bit-shift-registers-intro?u=76281980&t=128)** The difference is the direction in which the bits are moved.
 >
-> **[2:13](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bit-shift-registers-intro?u=76281980&t=133)** In the simulation software, you can find the bit shift register instructions over here if you scroll to the right until you find the tab file shift sequencer, and then you can find the two instructions, BSL and BSR.
+> **[2:13](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bit-shift-registers-intro?u=76281980&t=133)** In the [[Simulation Software]], you can find the bit shift register instructions over here if you scroll to the right until you find the tab file shift sequencer, and then you can find the two instructions, BSL and BSR.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (1), [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Simulation Software]] (1)
 > **Definitions:** is an  (3), is a  (1)
 > **CLI Commands:** find (3)
 > **Env Vars:** bsl (1), bsr (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bit shift register parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bit-shift-register-parameters?u=76281980)
+#### [Bit shift register parameters](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bit-shift-register-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -252,7 +247,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bit-shift-register-parameters?u=76281980&t=15)** The address must start with the hashtag sign.
 >
-> **[0:20](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bit-shift-register-parameters?u=76281980&t=20)** An example is B3:10, which means binary file three word 10 starting from bit zero.
+> **[0:20](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bit-shift-register-parameters?u=76281980&t=20)** An example is B3:10, which means binary file three [[Microsoft Word|word]] 10 starting from bit zero.
 >
 > **[0:30](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bit-shift-register-parameters?u=76281980&t=30)** Any remaining bits in this word cannot be used all swear in the program because the instruction invalidates them.
 >
@@ -286,18 +281,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), data (1), plc (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7)
 > **Env Vars:** bsl (1), bsr (1), plc (1)
 > **Ports:** :10 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [teacher] (1)
 
-#### BSL instruction (bit shift left)
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bsl-instruction-bit-shift-left?u=76281980)
+#### [BSL instruction (bit shift left)](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bsl-instruction-bit-shift-left?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bsl-instruction-bit-shift-left?u=76281980&t=0)** - [Tutor] The bit shift left instruction shifts the bits to the left once for every low to high transition on its inputs, the shifting starts from the least significant bit address of the word.
+> **[0:00](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bsl-instruction-bit-shift-left?u=76281980&t=0)** - [Tutor] The bit shift left instruction shifts the bits to the left once for every low to high transition on its inputs, the shifting starts from the least significant bit address of the [[Microsoft Word|word]].
 >
 > **[0:16](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bsl-instruction-bit-shift-left?u=76281980&t=16)** To show the operation of the instruction, I will use our previous example of detecting the presence and absence of bottles, the file is #B3:0 , the control file is R6:0, the bit address source is the address of the sensor input 1:1, I'm going to choose six for the file length, meaning I will log and shift only six bits within the file.
 >
@@ -323,20 +317,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), data (3), plc (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3)
 > **Env Vars:** plc (2), bsl (1)
 > **Documentation:** the documentation (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [tutor] (1)
 
-#### BSR instruction (bit shift right)
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bsr-instruction-bit-shift-right?u=76281980)
+#### [BSR instruction (bit shift right)](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bsr-instruction-bit-shift-right?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bsr-instruction-bit-shift-right?u=76281980&t=0)** - [Instructor] Bit shifts right instruction shifts the bits in the data file to the right once for every low to high transition.
 >
-> **[0:09](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bsr-instruction-bit-shift-right?u=76281980&t=9)** The shifting starts from the most significant bit address of the word.
+> **[0:09](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bsr-instruction-bit-shift-right?u=76281980&t=9)** The shifting starts from the most significant bit address of the [[Microsoft Word|word]].
 >
 > **[0:15](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bsr-instruction-bit-shift-right?u=76281980&t=15)** Using the same previous example, when the instruction is enabled, goes from false to true.
 >
@@ -352,12 +345,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** bsr (1)
 > **Speakers:** - [instructor] (1)
 
-#### BSL instruction demonstration
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bsl-instruction-demonstration?u=76281980)
+#### [BSL instruction demonstration](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bsl-instruction-demonstration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -375,7 +367,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bsl-instruction-demonstration?u=76281980&t=41)** I'll move it little bit to the side and notice in the BSL instruction, the file is B3 zero.
 >
-> **[0:49](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bsl-instruction-demonstration?u=76281980&t=49)** So we are going to load the data inside B3 word zero, starting from bit zero.
+> **[0:49](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bsl-instruction-demonstration?u=76281980&t=49)** So we are going to load the data inside B3 [[Microsoft Word|word]] zero, starting from bit zero.
 >
 > **[0:57](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/bsl-instruction-demonstration?u=76281980&t=57)** All right, I'm going to go ahead and press on the switch to turn the switch on.
 >
@@ -393,7 +385,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **UI Navigation:** click on (3), switch to (2)
 > **Env Vars:** bsl (2)
 > **Exercise Files:** download the (1)
@@ -405,12 +397,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Word shift operations intro
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/word-shift-operations-intro?u=76281980)
+#### [Word shift operations intro](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/word-shift-operations-intro?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/word-shift-operations-intro?u=76281980&t=0)** - [Tutor] Word shifting operation provides a simpler method of loading and unloading data into a file.
+> **[0:00](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/word-shift-operations-intro?u=76281980&t=0)** - [Tutor] [[Microsoft Word|Word]] shifting operation provides a simpler method of loading and unloading data into a file.
 >
 > **[0:08](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/word-shift-operations-intro?u=76281980&t=8)** Now the word shifting operates this way, rather than shifting bits of information within a word, it shifts the data from a complete word into a file or stack.
 >
@@ -448,13 +439,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), data (7)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8)
 > **Env Vars:** fifo (4), lifo (4)
 > **Definitions:** is called (1), is a  (1)
 > **Speakers:** - [tutor] (1)
 
-#### First in, first out (FIFO) instruction
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/first-in-first-out-fifo-instruction?u=76281980)
+#### [First in, first out (FIFO) instruction](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/first-in-first-out-fifo-instruction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -478,7 +468,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/first-in-first-out-fifo-instruction?u=76281980&t=77)** And the last two are for LIFO.
 >
-> **[1:22](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/first-in-first-out-fifo-instruction?u=76281980&t=82)** One example of using Word Shifting Instructions in manufacturing is for tracking parts through an assembly line, like using a barcode reader for reading printed barcode data on boxes.
+> **[1:22](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/first-in-first-out-fifo-instruction?u=76281980&t=82)** One example of using [[Microsoft Word|Word]] Shifting Instructions in manufacturing is for tracking parts through an assembly line, like using a barcode reader for reading printed barcode data on boxes.
 >
 > **[1:38](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/first-in-first-out-fifo-instruction?u=76281980&t=98)** Another scenario, the FIFO instruction is often used for inventory control.
 >
@@ -490,14 +480,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** fifo (7), lifo (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [narrator] (1)
 
-#### FFL (FIFO load) parameters, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/ffl-fifo-load-parameters-part-1?u=76281980)
+#### [FFL (FIFO load) parameters, part 1](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/ffl-fifo-load-parameters-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -505,7 +494,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/ffl-fifo-load-parameters-part-1?u=76281980&t=18)** I'm going to go over the parameters of FIFO load instruction first, starting with source.
 >
-> **[0:27](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/ffl-fifo-load-parameters-part-1?u=76281980&t=27)** The source is the word address from which the data are entered into the FIFO file.
+> **[0:27](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/ffl-fifo-load-parameters-part-1?u=76281980&t=27)** The source is the [[Microsoft Word|word]] address from which the data are entered into the FIFO file.
 >
 > **[0:34](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/ffl-fifo-load-parameters-part-1?u=76281980&t=34)** Data of the source could be coming from an input device, like thumbwheel input address, or from an internal location, like a counter accumulator.
 >
@@ -525,13 +514,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Word|Word]] (2), plc (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Env Vars:** fifo (8), plc (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### FFL (FIFO load) parameters, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/ffl-fifo-load-parameters-part-2?u=76281980)
+#### [FFL (FIFO load) parameters, part 2](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/ffl-fifo-load-parameters-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -539,7 +527,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/ffl-fifo-load-parameters-part-2?u=76281980&t=10)** It includes the status bits, stack length, and position.
 >
-> **[0:16](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/ffl-fifo-load-parameters-part-2?u=76281980&t=16)** Example is R6:0 meaning file six word zero.
+> **[0:16](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/ffl-fifo-load-parameters-part-2?u=76281980&t=16)** Example is R6:0 meaning file six [[Microsoft Word|word]] zero.
 >
 > **[0:24](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/ffl-fifo-load-parameters-part-2?u=76281980&t=24)** The status bits of the control word are; enabled bits when the instruction is true, done bits when the instruction position equals the length, empty bits when all the data have been unloaded from the FIFO file. The control file also includes length and position. You can refer to the following manual page 545 for more details about Fifo load instructions.
 >
@@ -567,13 +555,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), next (4), data (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5)
 > **Env Vars:** fifo (5)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### FFU (FIFO unload) parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/ffu-fifo-unload-parameters?u=76281980)
+#### [FFU (FIFO unload) parameters](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/ffu-fifo-unload-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -589,16 +576,15 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/ffu-fifo-unload-parameters?u=76281980&t=40)** First, it unloads the one in position zero, and sends it to the destination address, then shifts the remaining words one position toward the starting address of the file.
 >
-> **[0:55](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/ffu-fifo-unload-parameters?u=76281980&t=55)** And then the process continues for unloading the rest of the data from the stack.
+> **[0:55](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/ffu-fifo-unload-parameters?u=76281980&t=55)** And then the process continues for unloading the [[Representational State Transfer (REST)|rest]] of the data from the stack.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** fifo (2), led (1)
 > **Speakers:** - [instructor] (1)
 
-#### Illustrate FIFO operation: Example
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/illustrate-fifo-operation-example?u=76281980)
+#### [Illustrate FIFO operation: Example](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/illustrate-fifo-operation-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -630,13 +616,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Env Vars:** fifo (4), led (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Illustrate FFL operation, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/illustrate-ffl-operation-part-1?u=76281980)
+#### [Illustrate FFL operation, part 1](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/illustrate-ffl-operation-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -656,17 +640,16 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/illustrate-ffl-operation-part-1?u=76281980&t=58)** Meaning that the next available position to load the data is now position one N7:1.
 >
-> **[1:07](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/illustrate-ffl-operation-part-1?u=76281980&t=67)** The same process continues for the next word into the FIFO file until reaching the number of the file length.
+> **[1:07](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/illustrate-ffl-operation-part-1?u=76281980&t=67)** The same process continues for the next [[Microsoft Word|word]] into the FIFO file until reaching the number of the file length.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** fifo (3)
 > **UI Navigation:** toggle (1)
 > **Speakers:** - [instructor] (1)
 
-#### Illustrate FFL operation, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/illustrate-ffl-operation-part-2?u=76281980)
+#### [Illustrate FFL operation, part 2](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/illustrate-ffl-operation-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -690,23 +673,22 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/illustrate-ffl-operation-part-2?u=76281980&t=61)** Again, unloading and displaying the value of the starting address of the file.
 >
-> **[1:07](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/illustrate-ffl-operation-part-2?u=76281980&t=67)** This causes all data of the FIFO file to shift one position towards the starting address of the file and the same thing happens for position three, and for the rest until you reach the end of the stack length.
+> **[1:07](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/illustrate-ffl-operation-part-2?u=76281980&t=67)** This causes all data of the FIFO file to shift one position towards the starting address of the file and the same thing happens for position three, and for the [[Representational State Transfer (REST)|rest]] until you reach the end of the stack length.
 >
 > **[1:23](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/illustrate-ffl-operation-part-2?u=76281980&t=83)** The final step is when the whole stack file is empty and the position is zero.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** fifo (3), led (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example program
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/example-program?u=76281980)
+#### [Example program](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/example-program?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/example-program?u=76281980&t=0)** - [Instructor] I have the ladder logic program inside the simulation software.
+> **[0:00](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/example-program?u=76281980&t=0)** - [Instructor] I have the ladder logic program inside the [[Simulation Software]].
 >
 > **[0:05](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/example-program?u=76281980&t=5)** Now for the input, if you don't have it already, you can change the type of the input by going over here and then simply just right-click until you find the one that you want.
 >
@@ -740,11 +722,11 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/example-program?u=76281980&t=96)** So once I click on the Unload Switch, the instruction starts unloading from position zero, showing the number on the LED display.
 >
-> **[1:49](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/example-program?u=76281980&t=109)** The next time I click on the Unload Switch, it shows the next available value and so on for the rest of the values.
+> **[1:49](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/example-program?u=76281980&t=109)** The next time I click on the Unload Switch, it shows the next available value and so on for the [[Representational State Transfer (REST)|rest]] of the values.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (2), [[Simulation Software]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Simulation Software]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (4), right-click (1), go to (1)
 > **Env Vars:** fifo (1), led (1)
 > **CLI Commands:** find (1)
@@ -756,8 +738,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intro to program control instructions
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/intro-to-program-control-instructions?u=76281980)
+#### [Intro to program control instructions](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/intro-to-program-control-instructions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -767,18 +748,17 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/intro-to-program-control-instructions?u=76281980&t=19)** The use of program control instructions can shorten the time required to complete a program scan or alter the program scan from its normal sequence.
 >
-> **[0:32](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/intro-to-program-control-instructions?u=76281980&t=32)** In the PLC simulation software, you will find the program flow instructions under the program control tab.
+> **[0:32](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/intro-to-program-control-instructions?u=76281980&t=32)** In the PLC [[Simulation Software]], you will find the program flow instructions under the program control tab.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (1), [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [[Simulation Software]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** plc (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Jump (JMP) to label (LBL) instructions
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/jump-jmp-to-label-lbl-instructions?u=76281980)
+#### [Jump (JMP) to label (LBL) instructions](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/jump-jmp-to-label-lbl-instructions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -810,13 +790,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Env Vars:** plc (1)
 > **Speakers:** - [instructor] (1)
 
-#### Master control rest (MCR) instruction
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/master-control-rest-mcr-instruction?u=76281980)
+#### [Master control rest (MCR) instruction](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/master-control-rest-mcr-instruction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -859,12 +837,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Difference between JMP and MCR
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/difference-between-jmp-and-mcr?u=76281980)
+#### [Difference between JMP and MCR](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/difference-between-jmp-and-mcr?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/difference-between-jmp-and-mcr?u=76281980&t=0)** - [Instructor] The four word jump and label Instructions are similar to an MCR Instruction in that both instructions skip over a block of PLC ladder logic program.
+> **[0:00](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/difference-between-jmp-and-mcr?u=76281980&t=0)** - [Instructor] The four [[Microsoft Word|word]] jump and label Instructions are similar to an MCR Instruction in that both instructions skip over a block of [[PLC Ladder Logic]] program.
 >
 > **[0:13](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/difference-between-jmp-and-mcr?u=76281980&t=13)** The main difference between the two is in how the outputs are handled when the instructions are executed.
 >
@@ -882,14 +859,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** plc (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[PLC Ladder Logic]] (1)
 > **Env Vars:** mcr (7), plc (2)
 > **Analogies:** similar to (1)
 > **Best Practices:** you should never (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to subroutines
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/introduction-to-subroutines?u=76281980)
+#### [Introduction to subroutines](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/introduction-to-subroutines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -925,11 +901,11 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/introduction-to-subroutines?u=76281980&t=114)** In Allen Bradley PLCs, the main ladder logic is stored in the program file number two, and subroutines are stored starting from file three.
 >
-> **[2:06](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/introduction-to-subroutines?u=76281980&t=126)** You can find the instructions in the simulation software under the tab, program control
+> **[2:06](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/introduction-to-subroutines?u=76281980&t=126)** You can find the instructions in the [[Simulation Software]] under the tab, program control
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Programming]] (1), [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [[Simulation Software]] (1)
 > **Env Vars:** jsr (1), sbr (1), ret (1)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** find (1)
@@ -938,8 +914,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - when (1)
 
-#### Jump to subroutine (JSR) instruction
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/jump-to-subroutine-jsr-instruction?u=76281980)
+#### [Jump to subroutine (JSR) instruction](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/jump-to-subroutine-jsr-instruction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -957,8 +932,7 @@ created: 2026-05-02
 > **Env Vars:** jsr (1)
 > **Speakers:** - [instructor] (1)
 
-#### Subroutine (SBR) instruction
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/subroutine-sbr-instruction?u=76281980)
+#### [Subroutine (SBR) instruction](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/subroutine-sbr-instruction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -976,8 +950,7 @@ created: 2026-05-02
 > **Env Vars:** jsr (1), sbr (1)
 > **Speakers:** - [instructor] (1)
 
-#### Return from subroutine (RET)
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/return-from-subroutine-ret?u=76281980)
+#### [Return from subroutine (RET)](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/return-from-subroutine-ret?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -999,8 +972,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Nested subroutines
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/nested-subroutines?u=76281980)
+#### [Nested subroutines](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/nested-subroutines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1012,7 +984,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2)
 > **CLI Commands:** make (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -1022,8 +993,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1033,11 +1003,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/next-steps?u=76281980&t=17)** If you're interested in understanding more about PLCs, and how they fit within the field of industrial automation, check out the course Learn Industrial Automation that goes through each level of the automation field.
 >
-> **[0:33](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/next-steps?u=76281980&t=33)** I hope this course gave you an opportunity to learn more about PLC ladder logic programming.
+> **[0:33](https://www.linkedin.com/learning/plc-program-flow-and-control-instructions/next-steps?u=76281980&t=33)** I hope this course gave you an opportunity to learn more about [[PLC Ladder Logic]] programming.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (3), plc (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[PLC Ladder Logic]] (1)
 > **Env Vars:** plc (2)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)

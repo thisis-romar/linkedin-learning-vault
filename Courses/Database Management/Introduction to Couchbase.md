@@ -81,18 +81,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Couchbase and what it can do for you
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-and-what-it-can-do-for-you-23456905?u=76281980)
+#### [Couchbase and what it can do for you](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-and-what-it-can-do-for-you-23456905?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-and-what-it-can-do-for-you-23456905?u=76281980&t=0)** - [Michelle] Are you an application developer looking to make the next great app?
 >
-> **[0:04](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-and-what-it-can-do-for-you-23456905?u=76281980&t=4)** Or are you a SQL developer who already created a wildly successful app that now needs to scale?
+> **[0:04](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-and-what-it-can-do-for-you-23456905?u=76281980&t=4)** Or are you a [[SQL]] developer who already created a wildly successful app that now needs to scale?
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-and-what-it-can-do-for-you-23456905?u=76281980&t=11)** If you're wondering where to begin, I suggest with Couchbase Capella.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-and-what-it-can-do-for-you-23456905?u=76281980&t=11)** If you're wondering where to begin, I suggest with [[Couchbase]] Capella.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-and-what-it-can-do-for-you-23456905?u=76281980&t=16)** Couchbase is a NoSQL database that uses and expands the ability of SQL and can scale often without system downtime.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-and-what-it-can-do-for-you-23456905?u=76281980&t=16)** Couchbase is a [[NoSQL]] database that uses and expands the ability of SQL and can scale often without system downtime.
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-and-what-it-can-do-for-you-23456905?u=76281980&t=25)** Capella provides a fully-managed Couchbase database.
 >
@@ -108,27 +107,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Couchbase]] (5), database (3), application (2), [[SQL]] (2), next (1)
+> **Frameworks & Libraries:** [[Couchbase]] (5), [[SQL]] (2), [[NoSQL]] (1)
 > **Env Vars:** sql (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [michelle] (1)
 
-#### Couchbase: Understanding the lexicon
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-understanding-the-lexicon-23456903?u=76281980)
+#### [Couchbase: Understanding the lexicon](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-understanding-the-lexicon-23456903?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-understanding-the-lexicon-23456903?u=76281980&t=0)** - [Instructor] Before diving into Capella, let's learn how Couchbase organizes data.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-understanding-the-lexicon-23456903?u=76281980&t=0)** - [Instructor] Before diving into Capella, let's learn how [[Couchbase]] organizes data.
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-understanding-the-lexicon-23456903?u=76281980&t=5)** Couchbase is a NoSQL database, that harnesses the power of an SQL or relational database, while allowing for the flexibility of a NoSQL data solution.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-understanding-the-lexicon-23456903?u=76281980&t=5)** Couchbase is a [[NoSQL]] database, that harnesses the power of an [[SQL]] or relational database, while allowing for the flexibility of a NoSQL data solution.
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-understanding-the-lexicon-23456903?u=76281980&t=16)** It is highly available, provides low latency transactions, and is easily scalable, often without downtime.
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-understanding-the-lexicon-23456903?u=76281980&t=25)** Capella is an interface that allows you to access a fully managed, Couchbase database.
 >
-> **[0:31](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-understanding-the-lexicon-23456903?u=76281980&t=31)** Here, I'm showing you Capella, where you can view and work with many databases, or clusters, all from one pane.
+> **[0:31](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-understanding-the-lexicon-23456903?u=76281980&t=31)** Here, I'm showing you Capella, where you can view and work with many [[Databases]], or clusters, all from one pane.
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-understanding-the-lexicon-23456903?u=76281980&t=40)** At Couchbase, data is in databases, also referred to as clusters.
 >
@@ -186,19 +184,19 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-understanding-the-lexicon-23456903?u=76281980&t=208)** In Couchbase, documents are housed in Collections, where all key value operations are performed.
 >
-> **[3:35](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-understanding-the-lexicon-23456903?u=76281980&t=215)** Further, you have multiple data format options, including JSON, CSV, TSV, and JSON line.
+> **[3:35](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-understanding-the-lexicon-23456903?u=76281980&t=215)** Further, you have multiple data format options, including [[JSON]], CSV, TSV, and JSON line.
 >
 > **[3:44](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-understanding-the-lexicon-23456903?u=76281980&t=224)** Finally, documents are similar to rows, in a relational database model.
 >
 > **[3:50](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-understanding-the-lexicon-23456903?u=76281980&t=230)** And why does this structure matter to you?
 >
-> **[3:53](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-understanding-the-lexicon-23456903?u=76281980&t=233)** Well, if your data is organized into microservices, it comes into the database in certain groupings.
+> **[3:53](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-understanding-the-lexicon-23456903?u=76281980&t=233)** Well, if your data is organized into [[Microservices]], it comes into the database in certain groupings.
 >
 > **[3:59](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-understanding-the-lexicon-23456903?u=76281980&t=239)** Scopes and collections maintain those groupings, so you're not reinventing your structure.
 >
 > **[4:05](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-understanding-the-lexicon-23456903?u=76281980&t=245)** When operations are coded, the database is directed to a collection of documents, speeding up operation times, and increasing retrieval accuracy.
 >
-> **[4:15](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-understanding-the-lexicon-23456903?u=76281980&t=255)** If you want multiple non-related users to access data, scopes and collections help keep data in appropriate isolation, which ensures data integrity and allows for greater security.
+> **[4:15](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-understanding-the-lexicon-23456903?u=76281980&t=255)** If you want multiple non-related users to access data, scopes and collections help keep data in appropriate isolation, which ensures [[Data Integrity]] and allows for greater security.
 >
 > **[4:28](https://www.linkedin.com/learning/introduction-to-couchbase/couchbase-understanding-the-lexicon-23456903?u=76281980&t=268)** And those are the building blocks of Couchbase.
 >
@@ -206,7 +204,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Couchbase]] (14), database (13), node (7), [[Databases]] (3)
+> **Frameworks & Libraries:** [[Couchbase]] (14), [[Databases]] (3), [[NoSQL]] (2), [[SQL]] (2), [[JSON]] (2)
 > **CLI Commands:** node (7), make (1)
 > **Env Vars:** sql (2), json (2), sdk (1), csv (1), tsv (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -219,18 +217,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Signing up for Capella
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/signing-up-for-capella-23461791?u=76281980)
+#### [Signing up for Capella](https://www.linkedin.com/learning/introduction-to-couchbase/signing-up-for-capella-23461791?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-couchbase/signing-up-for-capella-23461791?u=76281980&t=0)** - [Instructor] Getting into Couchbase Capella is quick and easy.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-couchbase/signing-up-for-capella-23461791?u=76281980&t=0)** - [Instructor] Getting into [[Couchbase]] Capella is quick and easy.
 >
 > **[0:03](https://www.linkedin.com/learning/introduction-to-couchbase/signing-up-for-capella-23461791?u=76281980&t=3)** You can do it in around three minutes.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-couchbase/signing-up-for-capella-23461791?u=76281980&t=6)** I'll show you how by sharing a real-life example.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-couchbase/signing-up-for-capella-23461791?u=76281980&t=9)** Let's say Freedom Air, my company, is considering Couchbase Capella to simplify and accelerate database management.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-couchbase/signing-up-for-capella-23461791?u=76281980&t=9)** Let's say Freedom Air, my company, is considering Couchbase Capella to simplify and accelerate [[Database Management]].
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-couchbase/signing-up-for-capella-23461791?u=76281980&t=17)** As a Freedom Air admin, I want to explore the free trial, so I'll use this address to navigate to the Capella sign-up page.
 >
@@ -270,7 +267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[Couchbase]] (3), next (2), management (1), cloud (1)
+> **Frameworks & Libraries:** [[Couchbase]] (3), [[Database Management]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** navigate to (1)
@@ -278,8 +275,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding users to Capella
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/adding-users-to-capella?u=76281980)
+#### [Adding users to Capella](https://www.linkedin.com/learning/introduction-to-couchbase/adding-users-to-capella?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -299,9 +295,9 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-couchbase/adding-users-to-capella?u=76281980&t=45)** This person is also automatically assigned as a project owner for any projects they create.
 >
-> **[0:51](https://www.linkedin.com/learning/introduction-to-couchbase/adding-users-to-capella?u=76281980&t=51)** A Cloud Manager is a user that you would only add if you have previous experience with Couchbase.
+> **[0:51](https://www.linkedin.com/learning/introduction-to-couchbase/adding-users-to-capella?u=76281980&t=51)** A Cloud Manager is a user that you would only add if you have previous experience with [[Couchbase]].
 >
-> **[0:57](https://www.linkedin.com/learning/introduction-to-couchbase/adding-users-to-capella?u=76281980&t=57)** This person is someone who manages outside clouds hosted separately in Microsoft Azure, Amazon Web Services, or Google Web Services.
+> **[0:57](https://www.linkedin.com/learning/introduction-to-couchbase/adding-users-to-capella?u=76281980&t=57)** This person is someone who manages outside clouds hosted separately in [[Microsoft Azure]], [[Amazon Web Services (AWS)|Amazon Web Services]], or [[Google]] Web Services.
 >
 > **[1:06](https://www.linkedin.com/learning/introduction-to-couchbase/adding-users-to-capella?u=76281980&t=66)** And finally, an Organization Member has read only access at the organization level for projects they're assigned.
 >
@@ -315,7 +311,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/introduction-to-couchbase/adding-users-to-capella?u=76281980&t=100)** I will add the person's name and email address.
 >
-> **[1:51](https://www.linkedin.com/learning/introduction-to-couchbase/adding-users-to-capella?u=76281980&t=111)** Then based on the role that I'll need, I'll give John his organizational permissions.
+> **[1:51](https://www.linkedin.com/learning/introduction-to-couchbase/adding-users-to-capella?u=76281980&t=111)** Then based on the role that I'll need, I'll give [[John the Ripper|John]] his organizational permissions.
 >
 > **[2:00](https://www.linkedin.com/learning/introduction-to-couchbase/adding-users-to-capella?u=76281980&t=120)** I'm going to make him a Project Creator so that he can create projects within Couchbase Capella.
 >
@@ -323,21 +319,20 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/introduction-to-couchbase/adding-users-to-capella?u=76281980&t=133)** He will be listed as pending until he accepts his verification email.
 >
-> **[2:18](https://www.linkedin.com/learning/introduction-to-couchbase/adding-users-to-capella?u=76281980&t=138)** Also, it is very easy to delete a user as all you would need to do within the Capella UI is click on the trashcan and type the word remove in order to remove John as a user.
+> **[2:18](https://www.linkedin.com/learning/introduction-to-couchbase/adding-users-to-capella?u=76281980&t=138)** Also, it is very easy to delete a user as all you would need to do within the Capella UI is click on the trashcan and type the [[Microsoft Word|word]] remove in order to remove John as a user.
 >
 > **[2:34](https://www.linkedin.com/learning/introduction-to-couchbase/adding-users-to-capella?u=76281980&t=154)** Capella again will tell me that John was successfully removed and I'll need to add all users who will interact with the Capella UI from this area.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Couchbase]] (2), api (1), cloud (1), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (4), [[Couchbase]] (2), [[Microsoft Azure]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Google]] (1)
 > **UI Navigation:** navigate to (1), click on (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Segmenting databases and adding users to projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/segmenting-databases-and-adding-users-to-projects?u=76281980)
+#### [Segmenting databases and adding users to projects](https://www.linkedin.com/learning/introduction-to-couchbase/segmenting-databases-and-adding-users-to-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -355,7 +350,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/introduction-to-couchbase/segmenting-databases-and-adding-users-to-projects?u=76281980&t=46)** So, if I have five developers with access to this project on the screen, each developer will have access to all three clusters within this project.
 >
-> **[0:57](https://www.linkedin.com/learning/introduction-to-couchbase/segmenting-databases-and-adding-users-to-projects?u=76281980&t=57)** Making sure you understand this is key to maintaining data security.
+> **[0:57](https://www.linkedin.com/learning/introduction-to-couchbase/segmenting-databases-and-adding-users-to-projects?u=76281980&t=57)** Making sure you understand this is key to maintaining [[Data Security]].
 >
 > **[1:02](https://www.linkedin.com/learning/introduction-to-couchbase/segmenting-databases-and-adding-users-to-projects?u=76281980&t=62)** And it is a best practice to plan out which clusters logically need to be linked within a project.
 >
@@ -367,7 +362,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/introduction-to-couchbase/segmenting-databases-and-adding-users-to-projects?u=76281980&t=84)** When Freedom Air planned out their project structure, they decided to separate projects out by housing applications for airports in project one, for flight paths in project two, for airlines in project three, and for regions in project four.
 >
-> **[1:41](https://www.linkedin.com/learning/introduction-to-couchbase/segmenting-databases-and-adding-users-to-projects?u=76281980&t=101)** This way, they gave access to clusters following current data structures.
+> **[1:41](https://www.linkedin.com/learning/introduction-to-couchbase/segmenting-databases-and-adding-users-to-projects?u=76281980&t=101)** This way, they gave access to clusters following current [[Data Structures]].
 >
 > **[1:46](https://www.linkedin.com/learning/introduction-to-couchbase/segmenting-databases-and-adding-users-to-projects?u=76281980&t=106)** Let me show you how easy it is to begin creating a project structure in Capella.
 >
@@ -401,7 +396,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/introduction-to-couchbase/segmenting-databases-and-adding-users-to-projects?u=76281980&t=234)** You can do that by clicking on Documentation on the left, then click on Organizations and Access, Organizations, and Manage Users.
 >
-> **[4:08](https://www.linkedin.com/learning/introduction-to-couchbase/segmenting-databases-and-adding-users-to-projects?u=76281980&t=248)** This is the most up to date information about Couchbase Capella supplied by Couchbase.
+> **[4:08](https://www.linkedin.com/learning/introduction-to-couchbase/segmenting-databases-and-adding-users-to-projects?u=76281980&t=248)** This is the most up to date information about [[Couchbase]] Capella supplied by Couchbase.
 >
 > **[4:14](https://www.linkedin.com/learning/introduction-to-couchbase/segmenting-databases-and-adding-users-to-projects?u=76281980&t=254)** And here you can learn more about the capabilities of each of the users within Capella.
 >
@@ -409,11 +404,11 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/introduction-to-couchbase/segmenting-databases-and-adding-users-to-projects?u=76281980&t=277)** If you need more than one data cluster, please upgrade to the full access version.
 >
-> **[4:43](https://www.linkedin.com/learning/introduction-to-couchbase/segmenting-databases-and-adding-users-to-projects?u=76281980&t=283)** While segmenting databases into projects takes time, once identified, they enhanced database visibility and data access security well worth any time spent.
+> **[4:43](https://www.linkedin.com/learning/introduction-to-couchbase/segmenting-databases-and-adding-users-to-projects?u=76281980&t=283)** While segmenting [[Databases]] into projects takes time, once identified, they enhanced database visibility and data access security well worth any time spent.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Security]] (3), [[Couchbase]] (2), [[Databases]] (1), database (1)
+> **Frameworks & Libraries:** [[Couchbase]] (2), [[Data Security]] (1), [[Data Structures]] (1), [[Databases]] (1)
 > **UI Navigation:** click on (3), dropdown (3)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
@@ -421,12 +416,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Spinning up cluster with buckets, scopes, and collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/spinning-up-cluster-with-buckets-scopes-and-collections?u=76281980)
+#### [Spinning up cluster with buckets, scopes, and collections](https://www.linkedin.com/learning/introduction-to-couchbase/spinning-up-cluster-with-buckets-scopes-and-collections?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-couchbase/spinning-up-cluster-with-buckets-scopes-and-collections?u=76281980&t=0)** - [Instructor] With Couchbase Capella's 30 day free trial, you can easily take a Couchbase database for a spin.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-couchbase/spinning-up-cluster-with-buckets-scopes-and-collections?u=76281980&t=0)** - [Instructor] With [[Couchbase]] Capella's 30 day free trial, you can easily take a Couchbase database for a spin.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-couchbase/spinning-up-cluster-with-buckets-scopes-and-collections?u=76281980&t=7)** This section will show you what you get and how to view the data included with the trial cluster.
 >
@@ -472,11 +466,11 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/introduction-to-couchbase/spinning-up-cluster-with-buckets-scopes-and-collections?u=76281980&t=156)** Use the scope to get individual collections and perform queries across the contained collections.
 >
-> **[2:43](https://www.linkedin.com/learning/introduction-to-couchbase/spinning-up-cluster-with-buckets-scopes-and-collections?u=76281980&t=163)** Use the collections to perform key value operations on JSON or CSV documents.
+> **[2:43](https://www.linkedin.com/learning/introduction-to-couchbase/spinning-up-cluster-with-buckets-scopes-and-collections?u=76281980&t=163)** Use the collections to perform key value operations on [[JSON]] or CSV documents.
 >
 > **[2:49](https://www.linkedin.com/learning/introduction-to-couchbase/spinning-up-cluster-with-buckets-scopes-and-collections?u=76281980&t=169)** Remember too, that each of these segments align with a relational database in this way.
 >
-> **[2:56](https://www.linkedin.com/learning/introduction-to-couchbase/spinning-up-cluster-with-buckets-scopes-and-collections?u=76281980&t=176)** Buckets are Databases, Scopes are Schemas, Collections are Tables, and Documents are Rows.
+> **[2:56](https://www.linkedin.com/learning/introduction-to-couchbase/spinning-up-cluster-with-buckets-scopes-and-collections?u=76281980&t=176)** Buckets are [[Databases]], Scopes are Schemas, Collections are Tables, and Documents are Rows.
 >
 > **[3:04](https://www.linkedin.com/learning/introduction-to-couchbase/spinning-up-cluster-with-buckets-scopes-and-collections?u=76281980&t=184)** Returning to the Capella UI, where can I find these buckets, scopes, collections, and documents?
 >
@@ -496,7 +490,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Couchbase]] (7), database (3), [[JSON]] (2), node (1)
+> **Frameworks & Libraries:** [[Couchbase]] (7), [[JSON]] (2), [[Databases]] (1)
 > **Env Vars:** mib (2), json (2), csv (2), ram (1), gp3 (1)
 > **CLI Commands:** find (2), node (1), make (1)
 > **UI Navigation:** click on (2), navigate to (1)
@@ -504,16 +498,15 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing an SDK and an IDE
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/choosing-an-sdk-and-an-ide?u=76281980)
+#### [Choosing an SDK and an IDE](https://www.linkedin.com/learning/introduction-to-couchbase/choosing-an-sdk-and-an-ide?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-couchbase/choosing-an-sdk-and-an-ide?u=76281980&t=0)** - You probably already know, but if you don't, you have many code language options to choose from when working with Couchbase clusters.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-couchbase/choosing-an-sdk-and-an-ide?u=76281980&t=0)** - You probably already know, but if you don't, you have many code language options to choose from when working with [[Couchbase]] clusters.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-couchbase/choosing-an-sdk-and-an-ide?u=76281980&t=7)** In order to connect your application to the Couchbase cluster housed in Capella, you'll use one of the nine software development kits or SDKs that Couchbase supports.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-couchbase/choosing-an-sdk-and-an-ide?u=76281980&t=7)** In order to connect your application to the Couchbase cluster housed in Capella, you'll use one of the nine [[Software Development]] kits or SDKs that Couchbase supports.
 >
-> **[0:18](https://www.linkedin.com/learning/introduction-to-couchbase/choosing-an-sdk-and-an-ide?u=76281980&t=18)** To have this conversation, we'll first narrow down the choices and say our example Freedom Air is a Node.js shop.
+> **[0:18](https://www.linkedin.com/learning/introduction-to-couchbase/choosing-an-sdk-and-an-ide?u=76281980&t=18)** To have this conversation, we'll first narrow down the choices and say our example Freedom Air is a [[Node.js]] shop.
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-couchbase/choosing-an-sdk-and-an-ide?u=76281980&t=23)** and say our example Freedom Air is a Node.js shop.
 >
@@ -543,9 +536,9 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/introduction-to-couchbase/choosing-an-sdk-and-an-ide?u=76281980&t=100)** And you could call your project whatever you'd like.
 >
-> **[1:43](https://www.linkedin.com/learning/introduction-to-couchbase/choosing-an-sdk-and-an-ide?u=76281980&t=103)** I've already downloaded my package.json dependencies.
+> **[1:43](https://www.linkedin.com/learning/introduction-to-couchbase/choosing-an-sdk-and-an-ide?u=76281980&t=103)** I've already downloaded my package.[[JSON]] dependencies.
 >
-> **[1:47](https://www.linkedin.com/learning/introduction-to-couchbase/choosing-an-sdk-and-an-ide?u=76281980&t=107)** And in order to enter the other Couchbase dependencies into the IDE, I will type NPM, install, Couchbase.
+> **[1:47](https://www.linkedin.com/learning/introduction-to-couchbase/choosing-an-sdk-and-an-ide?u=76281980&t=107)** And in order to enter the other Couchbase dependencies into the IDE, I will type [[npm]], install, Couchbase.
 >
 > **[1:55](https://www.linkedin.com/learning/introduction-to-couchbase/choosing-an-sdk-and-an-ide?u=76281980&t=115)** I will type NPM, install, Couchbase.
 >
@@ -575,7 +568,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (10), [[Couchbase]] (7), application (2), [[JSON]] (2), [[npm]] (2)
+> **Frameworks & Libraries:** [[Node.js]] (10), [[Couchbase]] (7), [[JSON]] (2), [[npm]] (2), [[Software Development]] (1)
 > **CLI Commands:** node (11), npm (2), make (2)
 > **File Paths:** node.js (10), app.js (2), package.json (2)
 > **Env Vars:** ide (4), sdk (3), npm (2), url (1)
@@ -584,14 +577,13 @@ created: 2026-05-02
 > **Versions:** version 3 (2), 2.5 (2)
 > **Tools:** visual studio (2), vs code (2)
 
-#### Connecting to Couchbase through Capella
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/connecting-to-couchbase-through-capella?u=76281980)
+#### [Connecting to Couchbase through Capella](https://www.linkedin.com/learning/introduction-to-couchbase/connecting-to-couchbase-through-capella?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-couchbase/connecting-to-couchbase-through-capella?u=76281980&t=0)** - [Instructor] You know, we've waited long enough.
 >
-> **[0:03](https://www.linkedin.com/learning/introduction-to-couchbase/connecting-to-couchbase-through-capella?u=76281980&t=3)** Let's get Freedom Air's trial cluster connected to couchbase using Capella.
+> **[0:03](https://www.linkedin.com/learning/introduction-to-couchbase/connecting-to-couchbase-through-capella?u=76281980&t=3)** Let's get Freedom Air's trial cluster connected to [[Couchbase]] using Capella.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-couchbase/connecting-to-couchbase-through-capella?u=76281980&t=8)** To make life easier, I've pasted an example of the no js connection code into our IDE Visual Studio code.
 >
@@ -655,7 +647,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/introduction-to-couchbase/connecting-to-couchbase-through-capella?u=76281980&t=249)** The last thing I need to do is make sure, that my IP address is whitelisted, so that couchbase can connect to my client application and where it will run from.
 >
-> **[4:20](https://www.linkedin.com/learning/introduction-to-couchbase/connecting-to-couchbase-through-capella?u=76281980&t=260)** This connection could be your local pc or possibly an EC2 instance where the app runs.
+> **[4:20](https://www.linkedin.com/learning/introduction-to-couchbase/connecting-to-couchbase-through-capella?u=76281980&t=260)** This connection could be your local pc or possibly an [[Amazon EC2|EC2]] instance where the app runs.
 >
 > **[4:26](https://www.linkedin.com/learning/introduction-to-couchbase/connecting-to-couchbase-through-capella?u=76281980&t=266)** In order to whitelist the connection, I'm going to click the back button, and now I'm again on the connect menu.
 >
@@ -677,7 +669,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Couchbase]] (6), database (6), hit (3), application (2), [[Amazon EC2|Ec2]] (1)
+> **Frameworks & Libraries:** [[Couchbase]] (6), [[Amazon EC2|Ec2]] (1)
 > **CLI Commands:** make (5), node (1)
 > **Env Vars:** ide (3), sdk (1), ec2 (1)
 > **UI Navigation:** click on (1), dropdown (1)
@@ -686,14 +678,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Get your Couchbase up and running
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/challenge-get-your-couchbase-up-and-running?u=76281980)
+#### [Challenge: Get your Couchbase up and running](https://www.linkedin.com/learning/introduction-to-couchbase/challenge-get-your-couchbase-up-and-running?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-couchbase/challenge-get-your-couchbase-up-and-running?u=76281980&t=0)** - [Instructor] It's time to apply the skills we've discussed in this chapter.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-couchbase/challenge-get-your-couchbase-up-and-running?u=76281980&t=8)** When you've finished with this challenge, you'll have your own Couchbase Capella single-node cluster.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-couchbase/challenge-get-your-couchbase-up-and-running?u=76281980&t=8)** When you've finished with this challenge, you'll have your own [[Couchbase]] Capella single-node cluster.
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-couchbase/challenge-get-your-couchbase-up-and-running?u=76281980&t=14)** You'll be able to connect to that cluster and start developing against it.
 >
@@ -709,7 +700,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/introduction-to-couchbase/challenge-get-your-couchbase-up-and-running?u=76281980&t=47)** Fourth, whitelist your IP address to allow your application to connect to the Couchbase cluster.
 >
-> **[0:54](https://www.linkedin.com/learning/introduction-to-couchbase/challenge-get-your-couchbase-up-and-running?u=76281980&t=54)** Fifth, choose whichever IDE, integrated development environment, and software development kit, SDK, you prefer to code with.
+> **[0:54](https://www.linkedin.com/learning/introduction-to-couchbase/challenge-get-your-couchbase-up-and-running?u=76281980&t=54)** Fifth, choose whichever IDE, integrated development environment, and [[Software Development]] kit, SDK, you prefer to code with.
 >
 > **[1:04](https://www.linkedin.com/learning/introduction-to-couchbase/challenge-get-your-couchbase-up-and-running?u=76281980&t=64)** Look at the exercise files for website addresses for Visual Studio Code IDE, as well as the addresses of where to find any of the nine Couchbase-supported SDKs.
 >
@@ -719,7 +710,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Couchbase]] (4), data (2), node (1), cloud (1), database (1)
+> **Frameworks & Libraries:** [[Couchbase]] (4), [[Software Development]] (1)
 > **Env Vars:** ide (2), sdk (1)
 > **CLI Commands:** node (1), find (1)
 > **URLs:** [couchbase.com](https://couchbase.com) (1)
@@ -728,14 +719,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** setup (1)
 
-#### Solution: Get your Couchbase up and running
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/solution-get-your-couchbase-up-and-running-23456904?u=76281980)
+#### [Solution: Get your Couchbase up and running](https://www.linkedin.com/learning/introduction-to-couchbase/solution-get-your-couchbase-up-and-running-23456904?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-couchbase/solution-get-your-couchbase-up-and-running-23456904?u=76281980&t=0)** - [Instructor] Now let's walk through the solution to the challenge activity.
 >
-> **[0:03](https://www.linkedin.com/learning/introduction-to-couchbase/solution-get-your-couchbase-up-and-running-23456904?u=76281980&t=3)** My first step was to navigate to cloud.[couchbase.com/sign-up](https://couchbase.com/sign-up).
+> **[0:03](https://www.linkedin.com/learning/introduction-to-couchbase/solution-get-your-couchbase-up-and-running-23456904?u=76281980&t=3)** My first step was to navigate to cloud.[[[Couchbase]].com/sign-up](https://couchbase.com/sign-up).
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-couchbase/solution-get-your-couchbase-up-and-running-23456904?u=76281980&t=10)** I've filled in my information, checked service agreements, and chosen a cloud service and geography appropriate to my database needs.
 >
@@ -815,7 +805,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (14), data (7), [[Couchbase]] (3), node (3), cloud (2)
+> **Frameworks & Libraries:** [[Couchbase]] (3)
 > **CLI Commands:** node (3), make (1)
 > **Env Vars:** sdk (2)
 > **Exercise Files:** sample code (2)
@@ -829,14 +819,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Completing a Get
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/completing-a-get-23462800?u=76281980)
+#### [Completing a Get](https://www.linkedin.com/learning/introduction-to-couchbase/completing-a-get-23462800?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-couchbase/completing-a-get-23462800?u=76281980&t=0)** - [Instructor] As a developer, it's likely your next step is to build out application functionality by coding key value operations.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-couchbase/completing-a-get-23462800?u=76281980&t=8)** Using the code for a connected Couchbase database, as you can see here in Visual Studio Code, you'll need to remember that in Couchbase, key value operations are only completed on a collection.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-couchbase/completing-a-get-23462800?u=76281980&t=8)** Using the code for a connected [[Couchbase]] database, as you can see here in Visual Studio Code, you'll need to remember that in Couchbase, key value operations are only completed on a collection.
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-couchbase/completing-a-get-23462800?u=76281980&t=21)** We'll need to find a document ID we can use to test the get operation.
 >
@@ -866,13 +855,13 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/introduction-to-couchbase/completing-a-get-23462800?u=76281980&t=111)** And as you can see, when I ran the command, document ID 10123 was returned with the information here.
 >
-> **[2:03](https://www.linkedin.com/learning/introduction-to-couchbase/completing-a-get-23462800?u=76281980&t=123)** You have now completed a get using the Node.js SDK in Couchbase.
+> **[2:03](https://www.linkedin.com/learning/introduction-to-couchbase/completing-a-get-23462800?u=76281980&t=123)** You have now completed a get using the [[Node.js]] SDK in Couchbase.
 >
 > **[2:08](https://www.linkedin.com/learning/introduction-to-couchbase/completing-a-get-23462800?u=76281980&t=128)** Continue on to learn more.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Couchbase]] (4), database (2), next (1), application (1), data (1)
+> **Frameworks & Libraries:** [[Couchbase]] (4), [[Node.js]] (1)
 > **CLI Commands:** find (1), make (1), node (1)
 > **Env Vars:** ide (1), sdk (1)
 > **UI Navigation:** click on (1), dropdown (1)
@@ -881,12 +870,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Completing an INSERT, UPSERT, and DELETE
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/completing-an-insert-upsert-and-delete?u=76281980)
+#### [Completing an INSERT, UPSERT, and DELETE](https://www.linkedin.com/learning/introduction-to-couchbase/completing-an-insert-upsert-and-delete?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-couchbase/completing-an-insert-upsert-and-delete?u=76281980&t=0)** - [Instructor] When getting started with Couchbase, you might find that it helps to spend a little time better understanding how to perform required application tasks.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-couchbase/completing-an-insert-upsert-and-delete?u=76281980&t=0)** - [Instructor] When getting started with [[Couchbase]], you might find that it helps to spend a little time better understanding how to perform required application tasks.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-couchbase/completing-an-insert-upsert-and-delete?u=76281980&t=10)** Let's talk about the common operations insert and delete and Couchbase's operation of upsert.
 >
@@ -908,7 +896,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/introduction-to-couchbase/completing-an-insert-upsert-and-delete?u=76281980&t=63)** This code should be familiar to you by now with the cluster information, the bucket, and the scope already listed.
 >
-> **[1:11](https://www.linkedin.com/learning/introduction-to-couchbase/completing-an-insert-upsert-and-delete?u=76281980&t=71)** To make life easy, I'm going to paste the rest of the code in for an upsert.
+> **[1:11](https://www.linkedin.com/learning/introduction-to-couchbase/completing-an-insert-upsert-and-delete?u=76281980&t=71)** To make life easy, I'm going to paste the [[Representational State Transfer (REST)|rest]] of the code in for an upsert.
 >
 > **[1:16](https://www.linkedin.com/learning/introduction-to-couchbase/completing-an-insert-upsert-and-delete?u=76281980&t=76)** And, as you can see, we've added the collection listed as airline, the result is set to an upsert and this is the document that we are upserting.
 >
@@ -936,15 +924,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[Couchbase]] (3), application (1), [[Representational State Transfer (REST)|Rest]] (1), hit (1)
+> **Frameworks & Libraries:** [[Couchbase]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ide (2), cas (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** just like (2)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling errors and exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/handling-errors-and-exceptions?u=76281980)
+#### [Handling errors and exceptions](https://www.linkedin.com/learning/introduction-to-couchbase/handling-errors-and-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -958,7 +945,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-couchbase/handling-errors-and-exceptions?u=76281980&t=29)** When I go down to the terminal and run the code,
 >
-> **[0:37](https://www.linkedin.com/learning/introduction-to-couchbase/handling-errors-and-exceptions?u=76281980&t=37)** I can see that I have a document not found error, also known as a document not found exception in languages other than Node.js.
+> **[0:37](https://www.linkedin.com/learning/introduction-to-couchbase/handling-errors-and-exceptions?u=76281980&t=37)** I can see that I have a document not found error, also known as a document not found exception in languages other than [[Node.js]].
 >
 > **[0:47](https://www.linkedin.com/learning/introduction-to-couchbase/handling-errors-and-exceptions?u=76281980&t=47)** If uncaught, errors could be propagated to the web layer, which can cause headaches for you as the developer.
 >
@@ -974,7 +961,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Node.js]] (1), web (1), hit (1)
+> **Frameworks & Libraries:** [[Node.js]] (1)
 > **Tools:** terminal (2), visual studio (1)
 > **File Paths:** node.js (1)
 > **CLI Commands:** node (1)
@@ -982,16 +969,15 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Complete a key value operation using Node.js
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/challenge-complete-a-key-value-operation-using-node-js?u=76281980)
+#### [Challenge: Complete a key value operation using Node.js](https://www.linkedin.com/learning/introduction-to-couchbase/challenge-complete-a-key-value-operation-using-node-js?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/introduction-to-couchbase/challenge-complete-a-key-value-operation-using-node-js?u=76281980&t=1)** - [Narrator] I hope you feel ready and excited to try out the skills we've just discussed by completing this challenge.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-couchbase/challenge-complete-a-key-value-operation-using-node-js?u=76281980&t=12)** When you finish this challenge, you'll have working Node.js code for one, maybe two key value operations.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-couchbase/challenge-complete-a-key-value-operation-using-node-js?u=76281980&t=12)** When you finish this challenge, you'll have working [[Node.js]] code for one, maybe two key value operations.
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-couchbase/challenge-complete-a-key-value-operation-using-node-js?u=76281980&t=20)** If you want to use a different coding language please reference Couchbase's website on SDKs for more examples.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-couchbase/challenge-complete-a-key-value-operation-using-node-js?u=76281980&t=20)** If you want to use a different coding language please reference [[Couchbase]]'s website on SDKs for more examples.
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-couchbase/challenge-complete-a-key-value-operation-using-node-js?u=76281980&t=27)** Okay, so this challenge asks you to complete each of these steps.
 >
@@ -1017,7 +1003,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (2), data (2), [[Couchbase]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[Couchbase]] (1)
 > **File Paths:** node.js (2)
 > **CLI Commands:** node (2)
 > **Env Vars:** ide (1)
@@ -1025,8 +1011,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Complete a key value operation using Node.js
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/solution-complete-a-key-value-operation-using-node-js?u=76281980)
+#### [Solution: Complete a key value operation using Node.js](https://www.linkedin.com/learning/introduction-to-couchbase/solution-complete-a-key-value-operation-using-node-js?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1036,7 +1021,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-couchbase/solution-complete-a-key-value-operation-using-node-js?u=76281980&t=13)** Please remember that I'm using the no-js code.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-couchbase/solution-complete-a-key-value-operation-using-node-js?u=76281980&t=16)** If you're using a different language, please refer to the Couchbase documentation for those code examples.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-couchbase/solution-complete-a-key-value-operation-using-node-js?u=76281980&t=16)** If you're using a different language, please refer to the [[Couchbase]] documentation for those code examples.
 >
 > **[0:22](https://www.linkedin.com/learning/introduction-to-couchbase/solution-complete-a-key-value-operation-using-node-js?u=76281980&t=22)** I'll start by pasting in the get code.
 >
@@ -1064,7 +1049,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Couchbase]] (2), application (1)
+> **Frameworks & Libraries:** [[Couchbase]] (2)
 > **Env Vars:** sdk (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
@@ -1075,20 +1060,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SQL and SQL++ and Indexing In Capella
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/sql-and-sql-plus-plus-and-indexing-in-capella?u=76281980)
+#### [SQL and SQL++ and Indexing In Capella](https://www.linkedin.com/learning/introduction-to-couchbase/sql-and-sql-plus-plus-and-indexing-in-capella?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-couchbase/sql-and-sql-plus-plus-and-indexing-in-capella?u=76281980&t=0)** - [Instructor] If you are familiar with SQL, then you're familiar with Couchbase's SQL++, which you may have seen referred to as N1QL or nickel.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-couchbase/sql-and-sql-plus-plus-and-indexing-in-capella?u=76281980&t=0)** - [Instructor] If you are familiar with [[SQL]], then you're familiar with [[Couchbase]]'s SQL++, which you may have seen referred to as N1QL or nickel.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-couchbase/sql-and-sql-plus-plus-and-indexing-in-capella?u=76281980&t=11)** So what is SQL++?
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-couchbase/sql-and-sql-plus-plus-and-indexing-in-capella?u=76281980&t=14)** Well, it used to have a different name.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-couchbase/sql-and-sql-plus-plus-and-indexing-in-capella?u=76281980&t=16)** SQL++ is still the Couchbase query language that harnesses the power of SQL and the flexibility of JSON.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-couchbase/sql-and-sql-plus-plus-and-indexing-in-capella?u=76281980&t=16)** SQL++ is still the Couchbase query language that harnesses the power of SQL and the flexibility of [[JSON]].
 >
-> **[0:23](https://www.linkedin.com/learning/introduction-to-couchbase/sql-and-sql-plus-plus-and-indexing-in-capella?u=76281980&t=23)** SQL++ manipulates JSN documents in the same way that SQL manipulates data in relational databases.
+> **[0:23](https://www.linkedin.com/learning/introduction-to-couchbase/sql-and-sql-plus-plus-and-indexing-in-capella?u=76281980&t=23)** SQL++ manipulates JSN documents in the same way that SQL manipulates data in [[Relational Databases]].
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-couchbase/sql-and-sql-plus-plus-and-indexing-in-capella?u=76281980&t=33)** SQL++ extends SQL to handle nested data that is both schemaless and non-uniform and SQL++ handles data containing arrays and objects.
 >
@@ -1198,7 +1182,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (21), data (14), [[Couchbase]] (6), database (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[SQL]] (21), [[Couchbase]] (6), [[JSON]] (2), [[Relational Databases]] (1)
 > **Env Vars:** sql (21), json (2), distinct (2), upsert (2), n1ql (1)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** click on (2), dropdown (1), select the (1), switch to (1)
@@ -1207,12 +1191,11 @@ created: 2026-05-02
 > **Versions:** 11.7 (2)
 > **SQL:** join (1)
 
-#### Using JOINs and Parameters with SQL++/N1QL
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/using-joins-and-parameters-with-sql-plus-plus-n1ql?u=76281980)
+#### [Using JOINs and Parameters with SQL++/N1QL](https://www.linkedin.com/learning/introduction-to-couchbase/using-joins-and-parameters-with-sql-plus-plus-n1ql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-couchbase/using-joins-and-parameters-with-sql-plus-plus-n1ql?u=76281980&t=0)** - [Instructor] Setting JOINs and parameters are two ways to enhance querying in Couchbase.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-couchbase/using-joins-and-parameters-with-sql-plus-plus-n1ql?u=76281980&t=0)** - [Instructor] Setting JOINs and parameters are two ways to enhance querying in [[Couchbase]].
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-couchbase/using-joins-and-parameters-with-sql-plus-plus-n1ql?u=76281980&t=6)** JOINs are connections between information in different document sets.
 >
@@ -1272,7 +1255,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Couchbase]] (3), data (2)
+> **Frameworks & Libraries:** [[Couchbase]] (3)
 > **SQL:** join (4)
 > **Env Vars:** join (4)
 > **UI Navigation:** navigate to (1), select the (1), dropdown (1), go to (1)
@@ -1286,8 +1269,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Evaluating database performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/evaluating-database-performance-23462799?u=76281980)
+#### [Evaluating database performance](https://www.linkedin.com/learning/introduction-to-couchbase/evaluating-database-performance-23462799?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1337,7 +1319,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/introduction-to-couchbase/evaluating-database-performance-23462799?u=76281980&t=203)** So make sure that you keep track of that.
 >
-> **[3:26](https://www.linkedin.com/learning/introduction-to-couchbase/evaluating-database-performance-23462799?u=76281980&t=206)** I also have the ability to turn off my database, and this is recommended to save costs only on non-production databases.
+> **[3:26](https://www.linkedin.com/learning/introduction-to-couchbase/evaluating-database-performance-23462799?u=76281980&t=206)** I also have the ability to turn off my database, and this is recommended to save costs only on non-production [[Databases]].
 >
 > **[3:35](https://www.linkedin.com/learning/introduction-to-couchbase/evaluating-database-performance-23462799?u=76281980&t=215)** You can turn off a database for up to 30 days, and in order to learn more, click the learn more icon here.
 >
@@ -1351,7 +1333,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), data (2), next (1), node (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **CLI Commands:** make (2), find (1), node (1), aws (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** aws (1), cidr (1)
@@ -1360,8 +1342,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** getting started (1)
 
-#### Scaling vertically and horizontally
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/scaling-vertically-and-horizontally?u=76281980)
+#### [Scaling vertically and horizontally](https://www.linkedin.com/learning/introduction-to-couchbase/scaling-vertically-and-horizontally?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1439,7 +1420,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), node (2), feature (1)
 > **CLI Commands:** make (4), node (2)
 > **Env Vars:** cpu (3), ram (3)
 > **UI Navigation:** dropdown (2), click on (1)
@@ -1448,8 +1428,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Applying replication
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/applying-replication?u=76281980)
+#### [Applying replication](https://www.linkedin.com/learning/introduction-to-couchbase/applying-replication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1523,11 +1502,11 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/introduction-to-couchbase/applying-replication?u=76281980&t=195)** My database is replicated and available in case a node or cluster fails.
 >
-> **[3:20](https://www.linkedin.com/learning/introduction-to-couchbase/applying-replication?u=76281980&t=200)** Capella has automatically made all the adjustments to ensure my two databases are synchronized.
+> **[3:20](https://www.linkedin.com/learning/introduction-to-couchbase/applying-replication?u=76281980&t=200)** Capella has automatically made all the adjustments to ensure my two [[Databases]] are synchronized.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), feature (3), next (3), [[Security]] (1), node (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **UI Navigation:** dropdown (2), select the (1), go to (1)
 > **Prerequisites:** setup (3), getting started (1)
 > **CLI Commands:** find (1), make (1), node (1)
@@ -1541,20 +1520,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-couchbase/next-steps-23462801?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/introduction-to-couchbase/next-steps-23462801?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-couchbase/next-steps-23462801?u=76281980&t=0)** - [Narrator] I want to say thanks for joining me on this course, and while this may be the end of your overview, I hope it's just the beginning of your journey with Couchbase and Couchbase Capella.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-couchbase/next-steps-23462801?u=76281980&t=0)** - [Narrator] I want to say thanks for joining me on this course, and while this may be the end of your overview, I hope it's just the beginning of your journey with [[Couchbase]] and Couchbase Capella.
 >
-> **[0:13](https://www.linkedin.com/learning/introduction-to-couchbase/next-steps-23462801?u=76281980&t=13)** As is the beauty of LinkedIn Learning, you can go back and review any section or information that I've shared.
+> **[0:13](https://www.linkedin.com/learning/introduction-to-couchbase/next-steps-23462801?u=76281980&t=13)** As is the beauty of [[LinkedIn]] Learning, you can go back and review any section or information that I've shared.
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-couchbase/next-steps-23462801?u=76281980&t=20)** And because our mission at Couchbase is always to provide a world-class NoSQL database, we are constantly evolving and there will always be opportunities to learn more about Couchbase's latest and greatest developments and upgrades.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-couchbase/next-steps-23462801?u=76281980&t=20)** And because our mission at Couchbase is always to provide a world-class [[NoSQL]] database, we are constantly evolving and there will always be opportunities to learn more about Couchbase's latest and greatest developments and upgrades.
 >
 > **[0:36](https://www.linkedin.com/learning/introduction-to-couchbase/next-steps-23462801?u=76281980&t=36)** Please consider bookmarking [couchbase.com](https://couchbase.com) as you see here for the latest news, updates, trainings, and other information.
 >
-> **[0:47](https://www.linkedin.com/learning/introduction-to-couchbase/next-steps-23462801?u=76281980&t=47)** Also, feel free to learn more about Couchbase by checking out the Couchbase Community Hub at community.[couchbase.com](https://couchbase.com), or take a look at our Discord page, where you can join all of our couch base developers and enthusiasts in Couchbase events, hackathons, live streaming, and more.
+> **[0:47](https://www.linkedin.com/learning/introduction-to-couchbase/next-steps-23462801?u=76281980&t=47)** Also, feel free to learn more about Couchbase by checking out the Couchbase Community Hub at community.[couchbase.com](https://couchbase.com), or take a look at our Discord page, where you can join all of our couch base developers and enthusiasts in Couchbase events, hackathons, [[Live Streaming]], and more.
 >
 > **[1:09](https://www.linkedin.com/learning/introduction-to-couchbase/next-steps-23462801?u=76281980&t=69)** Finally, please feel free to connect with me or any Couchbase employees on LinkedIn.
 >
@@ -1568,7 +1546,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Couchbase]] (12), [[LinkedIn]] (2), [[NoSQL]] (1), database (1), [[Live Streaming]] (1)
+> **Frameworks & Libraries:** [[Couchbase]] (12), [[LinkedIn]] (2), [[NoSQL]] (1), [[Live Streaming]] (1)
 > **URLs:** [couchbase.com](https://couchbase.com) (2)
 > **CLI Commands:** find (1)
 > **Tools:** discord (1)

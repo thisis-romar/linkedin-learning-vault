@@ -105,18 +105,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning Linux command line
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/learning-linux-command-line?u=76281980)
+#### [Learning Linux command line](https://www.linkedin.com/learning/learning-linux-command-line-26594217/learning-linux-command-line?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-linux-command-line-26594217/learning-linux-command-line?u=76281980&t=0)** - [Scott] Working in a text-based command-line environment?
 >
-> **[0:02](https://www.linkedin.com/learning/learning-linux-command-line-26594217/learning-linux-command-line?u=76281980&t=2)** Without the graphical user interface, the windows and buttons we're all familiar with can be intimidating at first.
+> **[0:02](https://www.linkedin.com/learning/learning-linux-command-line-26594217/learning-linux-command-line?u=76281980&t=2)** Without the graphical user interface, the [[Windows]] and buttons we're all familiar with can be intimidating at first.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-linux-command-line-26594217/learning-linux-command-line?u=76281980&t=9)** But once you start to understand how the command-line environment works, you'll see how powerful and efficient it can be.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-linux-command-line-26594217/learning-linux-command-line?u=76281980&t=15)** I'm Scott Simpson, and in this LinkedIn Learning course, I'll introduce you to the basics of working with a Linux command line using the very common bash shell.
+> **[0:15](https://www.linkedin.com/learning/learning-linux-command-line-26594217/learning-linux-command-line?u=76281980&t=15)** I'm Scott Simpson, and in this [[LinkedIn]] Learning course, I'll introduce you to the basics of working with a [[Linux]] command line using the very common bash shell.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-linux-command-line-26594217/learning-linux-command-line?u=76281980&t=23)** I'll explain what the command line is and how its major parts work.
 >
@@ -126,7 +125,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/learning-linux-command-line-26594217/learning-linux-command-line?u=76281980&t=40)** After that, I'll show you some of the more complex command-line tasks you'll need to be familiar with in the command-line environment.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-linux-command-line-26594217/learning-linux-command-line?u=76281980&t=46)** This course will give you a foundation of knowledge, working with a widely used bash shell, in case you choose to extend your learning into user management, network configuration, programming or development, or system administration.
+> **[0:46](https://www.linkedin.com/learning/learning-linux-command-line-26594217/learning-linux-command-line?u=76281980&t=46)** This course will give you a foundation of knowledge, working with a widely used bash shell, in case you choose to extend your learning into [[User Management]], network configuration, programming or development, or [[System Administration]].
 >
 > **[0:58](https://www.linkedin.com/learning/learning-linux-command-line-26594217/learning-linux-command-line?u=76281980&t=58)** Throughout the course, I'll recommend other courses here on LinkedIn Learning, where you can deepen your knowledge of certain tools or practices.
 >
@@ -134,13 +133,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Linux]] (2), [[Windows]] (1), [[User Management]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Linux]] (2), [[Windows]] (1), [[User Management]] (1), [[System Administration]] (1)
 > **Tools:** command line (2), bash (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [scott] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -148,13 +146,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-you-should-know?u=76281980&t=4)** That's to say, I expect that you're comfortable with the idea of files and directories and with running software and so on.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-you-should-know?u=76281980&t=11)** If you have an understanding of Mac OS or Windows, you'll be able to see the parallels between working at the command line and using the programs you're familiar with.
+> **[0:11](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-you-should-know?u=76281980&t=11)** If you have an understanding of Mac OS or [[Windows]], you'll be able to see the parallels between working at the command line and using the programs you're familiar with.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-you-should-know?u=76281980&t=19)** In this course, I'm going to be using a PC running Ubuntu Desktop Linux, and I recommend that you do the same if you're able to.
+> **[0:19](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-you-should-know?u=76281980&t=19)** In this course, I'm going to be using a PC running [[Ubuntu]] Desktop [[Linux]], and I recommend that you do the same if you're able to.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-you-should-know?u=76281980&t=27)** If you don't have a Linux PC, getting set up with an environment where you have a Linux command line Window to use can take a little bit of work.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-you-should-know?u=76281980&t=35)** One option is to use the GitHub Codespaces online environment to follow along with the course.
+> **[0:35](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-you-should-know?u=76281980&t=35)** One option is to use the [[GitHub]] [[Codespaces]] online environment to follow along with the course.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-you-should-know?u=76281980&t=41)** This allows you to work right inside your browser without any additional computers or software, and we'll explore how to use this course like that in the next chapter.
 >
@@ -172,7 +170,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-you-should-know?u=76281980&t=86)** The exercise files for this course, which are some text files and other files we'll used to practice throughout the course or hosted on GitHub, so you can download a copy of them when you have your environment set up.
 >
-> **[1:36](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-you-should-know?u=76281980&t=96)** In the course, we'll be downloading the files through the browser to get started, but if you're familiar with using Git, you can use that to download the files if you prefer.
+> **[1:36](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-you-should-know?u=76281980&t=96)** In the course, we'll be downloading the files through the browser to get started, but if you're familiar with using [[Git]], you can use that to download the files if you prefer.
 >
 > **[1:45](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-you-should-know?u=76281980&t=105)** On the GitHub page for this course, you can also find a file that lists all of the commands that I'll use in each video.
 >
@@ -182,7 +180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (6), [[GitHub]] (3), [[Windows]] (2), next (2), [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[Linux]] (6), [[GitHub]] (3), [[Windows]] (2), [[Ubuntu]] (1), [[Codespaces]] (1)
 > **Tools:** command line (3), github (3)
 > **CLI Commands:** make (1), git (1), find (1)
 > **Cross-References:** in the next (2)
@@ -190,16 +188,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Speakers:** - [speaker] (1)
 
-#### A very quick intro to Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/a-very-quick-intro-to-linux?u=76281980)
+#### [A very quick intro to Linux](https://www.linkedin.com/learning/learning-linux-command-line-26594217/a-very-quick-intro-to-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-linux-command-line-26594217/a-very-quick-intro-to-linux?u=76281980&t=0)** - [Instructor] Linux is a general purpose computer operating system originally released in 1991 by Linus Torvalds.
+> **[0:00](https://www.linkedin.com/learning/learning-linux-command-line-26594217/a-very-quick-intro-to-linux?u=76281980&t=0)** - [Instructor] [[Linux]] is a general purpose computer operating system originally released in 1991 by Linus Torvalds.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-linux-command-line-26594217/a-very-quick-intro-to-linux?u=76281980&t=7)** Linux is defined by its kernel, which is the core component of the operating system.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-linux-command-line-26594217/a-very-quick-intro-to-linux?u=76281980&t=12)** The kernel is software, which allows other software to communicate with the computer's hardware.
+> **[0:12](https://www.linkedin.com/learning/learning-linux-command-line-26594217/a-very-quick-intro-to-linux?u=76281980&t=12)** The kernel is software, which allows other software to communicate with the computer's [[Hardware]].
 >
 > **[0:17](https://www.linkedin.com/learning/learning-linux-command-line-26594217/a-very-quick-intro-to-linux?u=76281980&t=17)** Linux was inspired by MINIX, which in turn was inspired by Unix, and Linux is based on a philosophy that software and operating systems should be free, both free of cost and freely changeable.
 >
@@ -215,7 +212,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/learning-linux-command-line-26594217/a-very-quick-intro-to-linux?u=76281980&t=96)** There's Arch, Debian, Red Hat, and Slackware, and many other distributions that we might use, or we might use distributions based on or derived from these particular distributions.
 >
-> **[1:47](https://www.linkedin.com/learning/learning-linux-command-line-26594217/a-very-quick-intro-to-linux?u=76281980&t=107)** In this course, I'll be using Ubuntu desktop Linux, which is based on Debian Linux.
+> **[1:47](https://www.linkedin.com/learning/learning-linux-command-line-26594217/a-very-quick-intro-to-linux?u=76281980&t=107)** In this course, I'll be using [[Ubuntu]] desktop Linux, which is based on Debian Linux.
 >
 > **[1:53](https://www.linkedin.com/learning/learning-linux-command-line-26594217/a-very-quick-intro-to-linux?u=76281980&t=113)** Ubuntu Desktop is user-friendly and includes many tools and programs that make it a good choice for learning about Linux.
 >
@@ -223,7 +220,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/learning-linux-command-line-26594217/a-very-quick-intro-to-linux?u=76281980&t=125)** In practice, many companies and organizations use a distribution of Linux derived from Debian or Red Hat.
 >
-> **[2:12](https://www.linkedin.com/learning/learning-linux-command-line-26594217/a-very-quick-intro-to-linux?u=76281980&t=132)** Linux Mint, Ubuntu, Elementary OS, and Kali Linux are all derived from Debian.
+> **[2:12](https://www.linkedin.com/learning/learning-linux-command-line-26594217/a-very-quick-intro-to-linux?u=76281980&t=132)** Linux Mint, Ubuntu, Elementary OS, and [[Kali Linux]] are all derived from Debian.
 >
 > **[2:18](https://www.linkedin.com/learning/learning-linux-command-line-26594217/a-very-quick-intro-to-linux?u=76281980&t=138)** Fedora and Red Hat Enterprise Linux are part of the Red Hat ecosystem, though as I mentioned, there are many other distributions in common use too.
 >
@@ -237,11 +234,11 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/learning-linux-command-line-26594217/a-very-quick-intro-to-linux?u=76281980&t=188)** So what we explore in this course will apply on almost any Linux distro you might find yourself using in the future.
 >
-> **[3:15](https://www.linkedin.com/learning/learning-linux-command-line-26594217/a-very-quick-intro-to-linux?u=76281980&t=195)** As you extend your learning and explore software packages and system administration, there will be differences, but for now, don't worry too much about them.
+> **[3:15](https://www.linkedin.com/learning/learning-linux-command-line-26594217/a-very-quick-intro-to-linux?u=76281980&t=195)** As you extend your learning and explore software packages and [[System Administration]], there will be differences, but for now, don't worry too much about them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (22), [[Ubuntu]] (4), [[Hardware]] (2), web (1), [[Kali Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (22), [[Ubuntu]] (4), [[Hardware]] (2), [[Kali Linux]] (1), [[System Administration]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** gnu (3), minix (1)
 > **Tools:** command line (2), bash (1)
@@ -255,16 +252,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/using-github-codespaces-with-this-course?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/learning-linux-command-line-26594217/using-github-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-linux-command-line-26594217/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Instructor] There are a few ways you can follow along with this course, and I recommend using a PC that's running Linux, but if you don't have access to a Linux PC or a Linux virtual machine, one option for following along with the course is to use GitHub Codespaces.
+> **[0:00](https://www.linkedin.com/learning/learning-linux-command-line-26594217/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Instructor] There are a few ways you can follow along with this course, and I recommend using a PC that's running [[Linux]], but if you don't have access to a Linux PC or a Linux virtual machine, one option for following along with the course is to use [[GitHub]] [[Codespaces]].
 >
 > **[0:16](https://www.linkedin.com/learning/learning-linux-command-line-26594217/using-github-codespaces-with-this-course?u=76281980&t=16)** GitHub Codespaces provides a programming-oriented text editor, an integrated development environment we access through a web browser.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-linux-command-line-26594217/using-github-codespaces-with-this-course?u=76281980&t=23)** While Codespaces is usually used for software development, it also has a terminal feature we can use to explore the command line.
+> **[0:23](https://www.linkedin.com/learning/learning-linux-command-line-26594217/using-github-codespaces-with-this-course?u=76281980&t=23)** While Codespaces is usually used for [[Software Development]], it also has a terminal feature we can use to explore the command line.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-linux-command-line-26594217/using-github-codespaces-with-this-course?u=76281980&t=31)** GitHub Codespaces is available to anyone with a GitHub account, free or paid.
 >
@@ -294,13 +290,13 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/learning-linux-command-line-26594217/using-github-codespaces-with-this-course?u=76281980&t=104)** I'll move this up and I'll close the document above it.
 >
-> **[1:50](https://www.linkedin.com/learning/learning-linux-command-line-26594217/using-github-codespaces-with-this-course?u=76281980&t=110)** In the course, I'll be using an Ubuntu desktop environment, and that looks a little different than this Codespaces environment, but anything I type in the terminal, you can type in this terminal.
+> **[1:50](https://www.linkedin.com/learning/learning-linux-command-line-26594217/using-github-codespaces-with-this-course?u=76281980&t=110)** In the course, I'll be using an [[Ubuntu]] desktop environment, and that looks a little different than this Codespaces environment, but anything I type in the terminal, you can type in this terminal.
 >
 > **[2:01](https://www.linkedin.com/learning/learning-linux-command-line-26594217/using-github-codespaces-with-this-course?u=76281980&t=121)** This is a Linux system in the cloud, and what we have in this terminal is the same bash shell that other versions of Ubuntu provide.
 >
 > **[2:10](https://www.linkedin.com/learning/learning-linux-command-line-26594217/using-github-codespaces-with-this-course?u=76281980&t=130)** There are a few differences between this environment and a local machine or a local virtual machine, and you'll notice those as we move through the course.
 >
-> **[2:18](https://www.linkedin.com/learning/learning-linux-command-line-26594217/using-github-codespaces-with-this-course?u=76281980&t=138)** For example, the user home directory and the use of super user privileges will differ slightly from what you see in the course, and the command line prompt that we have here is different than what it'll look like in the rest of the course.
+> **[2:18](https://www.linkedin.com/learning/learning-linux-command-line-26594217/using-github-codespaces-with-this-course?u=76281980&t=138)** For example, the user home directory and the use of super user privileges will differ slightly from what you see in the course, and the command line prompt that we have here is different than what it'll look like in the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[2:30](https://www.linkedin.com/learning/learning-linux-command-line-26594217/using-github-codespaces-with-this-course?u=76281980&t=150)** In this environment, you won't be able to open graphical apps like I do on my system, but you can follow along with the command line material and complete the challenges here.
 >
@@ -318,7 +314,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (10), [[Linux]] (6), [[GitHub]] (6), [[Software Development]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Codespaces]] (10), [[Linux]] (6), [[GitHub]] (6), [[Software Development]] (2), [[Ubuntu]] (2)
 > **Tools:** terminal (7), github (6), command line (3), bash (1)
 > **CLI Commands:** make (2), find (1), cd (1)
 > **Definitions:** is a  (3)
@@ -327,12 +323,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 
-#### Creating a Linux virtual machine
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980)
+#### [Creating a Linux virtual machine](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=0)** - [Instructor] If you don't have access to a Linux computer and you're not able to use GitHub Code Spaces, another option for following along with me here is to set up a Linux virtual machine on your computer.
+> **[0:00](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=0)** - [Instructor] If you don't have access to a [[Linux]] computer and you're not able to use [[GitHub]] Code Spaces, another option for following along with me here is to set up a Linux virtual machine on your computer.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=10)** Working in a virtual machine allows us to keep our learning work separate from our real computer, so we're free to make changes and mistakes that won't affect anything else, though it's a bit more work to get up and running.
 >
@@ -340,11 +335,11 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=23)** You can decide for yourself.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=25)** There are many tools that allow us to create a virtual machine, and one of them that we can use on Windows, Linux, or Mac Systems is called VirtualBox.
+> **[0:25](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=25)** There are many tools that allow us to create a virtual machine, and one of them that we can use on [[Windows]], Linux, or Mac Systems is called VirtualBox.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=33)** VirtualBox is free for personal use and it makes building and controlling a virtual machine pretty straightforward.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=39)** In this video, I'll show you briefly how to install Ubuntu Desktop in VirtualBox on a Windows PC.
+> **[0:39](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=39)** In this video, I'll show you briefly how to install [[Ubuntu]] Desktop in VirtualBox on a Windows PC.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=45)** If you have other preferences, by all means use the distribution or other software of your choice, but you'll be on your own for installation and troubleshooting.
 >
@@ -354,7 +349,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=64)** Let's take a look at the process of setting up a virtual machine.
 >
-> **[1:07](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=67)** Depending on the speed of your hardware, this could take up to 20 minutes or so.
+> **[1:07](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=67)** Depending on the speed of your [[Hardware]], this could take up to 20 minutes or so.
 >
 > **[1:11](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=71)** Here's the VirtualBox website at [virtualbox.org](https://virtualbox.org).
 >
@@ -412,7 +407,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=215)** And then I'll click Start.
 >
-> **[3:38](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=218)** Depending on your monitor, the view here might be a little bit small, so to change the zoom, I'll click on View, and then I'll choose Virtual Screen 1.
+> **[3:38](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=218)** Depending on your monitor, the view here might be a little bit small, so to change the [[Zoom]], I'll click on View, and then I'll choose Virtual Screen 1.
 >
 > **[3:47](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=227)** Here I have a variety of options for scaling the display.
 >
@@ -472,7 +467,7 @@ created: 2026-05-02
 >
 > **[5:48](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=348)** Throughout the course, we'll be working with the command line shell in a terminal application, so I'll need to open my terminal.
 >
-> **[5:56](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=356)** To do that, I'll click on this area here in the top left and then start typing the word terminal.
+> **[5:56](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=356)** To do that, I'll click on this area here in the top left and then start typing the [[Microsoft Word|word]] terminal.
 >
 > **[6:02](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=362)** Alright, T-E-R, and there it is.
 >
@@ -492,7 +487,7 @@ created: 2026-05-02
 >
 > **[6:45](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=405)** So to do that, I'll open up Firefox, the web browser that's included with Ubuntu Desktop, and I'll go to GitHub to download the exercise files for the course.
 >
-> **[6:54](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=414)** If you don't have a GitHub account, you can download the files from the LinkedIn learning course page.
+> **[6:54](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=414)** If you don't have a GitHub account, you can download the files from the [[LinkedIn]] learning course page.
 >
 > **[6:59](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=419)** Look for a link called Exercise Files.
 >
@@ -508,11 +503,11 @@ created: 2026-05-02
 >
 > **[7:32](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=452)** Here I see the exercise files directory, so I'll drag those into my documents directory.
 >
-> **[7:39](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=459)** That's where I'll be using them for the rest of the course.
+> **[7:39](https://www.linkedin.com/learning/learning-linux-command-line-26594217/creating-a-linux-virtual-machine?u=76281980&t=459)** That's where I'll be using them for the [[Representational State Transfer (REST)|rest]] of the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (9), next (6), [[Linux]] (4), [[GitHub]] (4), [[Windows]] (4)
+> **Frameworks & Libraries:** [[Ubuntu]] (9), [[Linux]] (4), [[GitHub]] (4), [[Windows]] (4), [[Zoom]] (4)
 > **Tools:** terminal (7), github (4), command line (1), firefox (1)
 > **UI Navigation:** click on (8), open the (3), go to (1)
 > **CLI Commands:** make (7), find (3)
@@ -521,20 +516,19 @@ created: 2026-05-02
 > **URLs:** [virtualbox.org](https://virtualbox.org) (2), [ubuntu.com](https://ubuntu.com) (2)
 > **Env Vars:** iso (1), cpu (1)
 
-#### Following along on other platforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/following-along-on-other-platforms?u=76281980)
+#### [Following along on other platforms](https://www.linkedin.com/learning/learning-linux-command-line-26594217/following-along-on-other-platforms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-linux-command-line-26594217/following-along-on-other-platforms?u=76281980&t=0)** - [Instructor] If you're not able to use a Linux PC or GitHub Codespaces or to make a virtual machine in VirtualBox, there are some other choices available.
+> **[0:00](https://www.linkedin.com/learning/learning-linux-command-line-26594217/following-along-on-other-platforms?u=76281980&t=0)** - [Instructor] If you're not able to use a [[Linux]] PC or [[GitHub]] [[Codespaces]] or to make a virtual machine in VirtualBox, there are some other choices available.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-linux-command-line-26594217/following-along-on-other-platforms?u=76281980&t=8)** On Windows 10 and later, you could use Windows Subsystem for Linux, a feature of Windows that runs an instance of a Linux environment, right within Windows.
+> **[0:08](https://www.linkedin.com/learning/learning-linux-command-line-26594217/following-along-on-other-platforms?u=76281980&t=8)** On [[Windows 10]] and later, you could use [[Windows]] Subsystem for Linux, a feature of Windows that runs an instance of a Linux environment, right within Windows.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-linux-command-line-26594217/following-along-on-other-platforms?u=76281980&t=17)** It's not a full desktop installation of Linux, but it's enough to learn about Bash and about the standard toolchain that you'll find on most Linux systems.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-linux-command-line-26594217/following-along-on-other-platforms?u=76281980&t=25)** Windows Subsystem for Linux is available from the Microsoft Store for free.
+> **[0:25](https://www.linkedin.com/learning/learning-linux-command-line-26594217/following-along-on-other-platforms?u=76281980&t=25)** Windows Subsystem for Linux is available from the [[Microsoft]] Store for free.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-linux-command-line-26594217/following-along-on-other-platforms?u=76281980&t=30)** Setting that up takes some specific work in Windows, and that's not the focus of this course, but I do have another course called Learning Windows Subsystem for Linux that covers installation and configuration of WSL using Ubuntu.
+> **[0:30](https://www.linkedin.com/learning/learning-linux-command-line-26594217/following-along-on-other-platforms?u=76281980&t=30)** Setting that up takes some specific work in Windows, and that's not the focus of this course, but I do have another course called Learning Windows Subsystem for Linux that covers installation and configuration of WSL using [[Ubuntu]].
 >
 > **[0:42](https://www.linkedin.com/learning/learning-linux-command-line-26594217/following-along-on-other-platforms?u=76281980&t=42)** So if that's an option you're interested in, go check that out.
 >
@@ -562,7 +556,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/learning-linux-command-line-26594217/following-along-on-other-platforms?u=76281980&t=132)** So I can't recommend that method as a first choice, but if it's all you have, it can work.
 >
-> **[2:17](https://www.linkedin.com/learning/learning-linux-command-line-26594217/following-along-on-other-platforms?u=76281980&t=137)** And in any of these cases, you'll still want to download the exercise files from GitHub, either through the command-line Git interface, or by visiting the repository site and downloading the files directly.
+> **[2:17](https://www.linkedin.com/learning/learning-linux-command-line-26594217/following-along-on-other-platforms?u=76281980&t=137)** And in any of these cases, you'll still want to download the exercise files from GitHub, either through the command-line [[Git]] interface, or by visiting the repository site and downloading the files directly.
 >
 > **[2:27](https://www.linkedin.com/learning/learning-linux-command-line-26594217/following-along-on-other-platforms?u=76281980&t=147)** The files are available at this address, and if you download them as a ZIP file, you'll need to unzip that archive and put the files into whatever directory you'll be using.
 
@@ -582,8 +576,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the command line?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-is-the-command-line?u=76281980)
+#### [What is the command line?](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-is-the-command-line?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -591,13 +584,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-is-the-command-line?u=76281980&t=9)** In that environment, we're accustomed to seeing visual elements like scroll areas, images, buttons, and dropdown menus.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-is-the-command-line?u=76281980&t=17)** We can drag windows around, click links, and view tables of information or images.
+> **[0:17](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-is-the-command-line?u=76281980&t=17)** We can drag [[Windows]] around, click links, and view tables of information or images.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-is-the-command-line?u=76281980&t=23)** In a lot of cases, that's exactly what we want for photo editing, document layout, browsing the web, graphic design, watching movies, and playing games.
+> **[0:23](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-is-the-command-line?u=76281980&t=23)** In a lot of cases, that's exactly what we want for photo editing, document layout, browsing the web, [[Graphic Design]], watching movies, and playing games.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-is-the-command-line?u=76281980&t=34)** Many tools that we use in software development, system administration, and data analysis don't use a graphical interface to operate.
+> **[0:34](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-is-the-command-line?u=76281980&t=34)** Many tools that we use in [[Software Development]], [[System Administration]], and data analysis don't use a graphical interface to operate.
 >
-> **[0:42](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-is-the-command-line?u=76281980&t=42)** Sometimes, this software runs on computers in data centers, but it can also run on home servers, on our own computers, or on specialized hardware like a network router or other smart device.
+> **[0:42](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-is-the-command-line?u=76281980&t=42)** Sometimes, this software runs on computers in data centers, but it can also run on home servers, on our own computers, or on specialized [[Hardware]] like a network router or other smart device.
 >
 > **[0:54](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-is-the-command-line?u=76281980&t=54)** But we still need a way of interacting with these programs to send them information, to control their operation, and to retrieve the results of what they do.
 >
@@ -605,7 +598,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-is-the-command-line?u=76281980&t=69)** The command-line is a common name for a text-based interface where we type commands and where we can see the output of those commands written to the screen.
 >
-> **[1:18](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-is-the-command-line?u=76281980&t=78)** Command-line interfaces are common in many tools, but especially on Linux systems.
+> **[1:18](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-is-the-command-line?u=76281980&t=78)** Command-line interfaces are common in many tools, but especially on [[Linux]] systems.
 >
 > **[1:23](https://www.linkedin.com/learning/learning-linux-command-line-26594217/what-is-the-command-line?u=76281980&t=83)** Controlling the system or working with programs in a command-line interface is often the primary mode of using the system.
 >
@@ -657,7 +650,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (6), [[Windows]] (3), [[Software Development]] (2), data (2), web (1)
+> **Frameworks & Libraries:** [[Linux]] (6), [[Windows]] (3), [[Software Development]] (2), [[Graphic Design]] (1), [[System Administration]] (1)
 > **Tools:** bash (8), terminal (7)
 > **Env Vars:** gui (2)
 > **Definitions:** is a  (1), is called (1)
@@ -665,8 +658,7 @@ created: 2026-05-02
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand how commands are structured
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-how-commands-are-structured?u=76281980)
+#### [Understand how commands are structured](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-how-commands-are-structured?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -698,7 +690,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-how-commands-are-structured?u=76281980&t=68)** This is a tradition that goes back a long time.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-how-commands-are-structured?u=76281980&t=71)** The names of many commands are just long enough to represent what they mean, rather than using a whole word or phrase.
+> **[1:11](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-how-commands-are-structured?u=76281980&t=71)** The names of many commands are just long enough to represent what they mean, rather than using a whole [[Microsoft Word|word]] or phrase.
 >
 > **[1:17](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-how-commands-are-structured?u=76281980&t=77)** While it can make commands a little harder to remember and discover, as we become more familiar with the command line, we'll see how it's a lot more convenient to type a short command like ls every time we want to list the files in a folder, instead of typing out list or list files or something longer like that.
 >
@@ -768,7 +760,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-how-commands-are-structured?u=76281980&t=299)** Options can take arguments of their own, but for the purposes of this course, we'll consider arguments to be those that are passed to the command itself, not ones passed to an option, and we'll consider arguments to options as part of the option itself.
 >
-> **[5:13](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-how-commands-are-structured?u=76281980&t=313)** All of the commands we might use in a Linux command line environment will follow this basic pattern.
+> **[5:13](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-how-commands-are-structured?u=76281980&t=313)** All of the commands we might use in a [[Linux]] command line environment will follow this basic pattern.
 >
 > **[5:18](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-how-commands-are-structured?u=76281980&t=318)** Every command will have a command name.
 >
@@ -778,7 +770,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), next (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Linux]] (1)
 > **CLI Commands:** ls (6), grep (3), make (2), cat (1)
 > **Tools:** command line (7)
 > **Documentation:** the documentation (2)
@@ -787,8 +779,7 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Write commands in a shell at the prompt
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/write-commands-in-a-shell-at-the-prompt?u=76281980)
+#### [Write commands in a shell at the prompt](https://www.linkedin.com/learning/learning-linux-command-line-26594217/write-commands-in-a-shell-at-the-prompt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -872,13 +863,13 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/learning-linux-command-line-26594217/write-commands-in-a-shell-at-the-prompt?u=76281980&t=237)** These commands we can use are either programs installed on the system or they're keywords of a shell like bash.
 >
-> **[4:04](https://www.linkedin.com/learning/learning-linux-command-line-26594217/write-commands-in-a-shell-at-the-prompt?u=76281980&t=244)** Most of what we'll use in this course are programs, which are part of the GNU core utilities, or coreutils, the standard programs that come with most Linux distributions.
+> **[4:04](https://www.linkedin.com/learning/learning-linux-command-line-26594217/write-commands-in-a-shell-at-the-prompt?u=76281980&t=244)** Most of what we'll use in this course are programs, which are part of the GNU core utilities, or coreutils, the standard programs that come with most [[Linux]] distributions.
 >
 > **[4:13](https://www.linkedin.com/learning/learning-linux-command-line-26594217/write-commands-in-a-shell-at-the-prompt?u=76281980&t=253)** And next, we'll see how to find commands and how to learn what they do.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), application (2), [[Search]] (1), [[Linux]] (1), next (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** ls (6), find (3), rails (1)
 > **Tools:** terminal (4), command line (1), bash (1)
 > **Speakers:** - [instructor] (1), - l (1)
@@ -887,12 +878,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 
-#### Finding help for commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/finding-help-for-commands?u=76281980)
+#### [Finding help for commands](https://www.linkedin.com/learning/learning-linux-command-line-26594217/finding-help-for-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-linux-command-line-26594217/finding-help-for-commands?u=76281980&t=0)** - [Instructor] If you see an experienced Linux user, typing away at the command line, or you see a snippet of bash commands in a tutorial, a guide, or documentation, it can seem like memorizing the ins and outs of commands and options is the only way to be productive and understand what's going on.
+> **[0:00](https://www.linkedin.com/learning/learning-linux-command-line-26594217/finding-help-for-commands?u=76281980&t=0)** - [Instructor] If you see an experienced [[Linux]] user, typing away at the command line, or you see a snippet of bash commands in a tutorial, a guide, or documentation, it can seem like memorizing the ins and outs of commands and options is the only way to be productive and understand what's going on.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-linux-command-line-26594217/finding-help-for-commands?u=76281980&t=17)** But everybody starts somewhere, and even experienced command line users don't memorize everything.
 >
@@ -990,7 +980,7 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/learning-linux-command-line-26594217/finding-help-for-commands?u=76281980&t=306)** Apropos searches a list of installed programs that can be used as commands and their descriptions for text that you provide as an argument.
 >
-> **[5:13](https://www.linkedin.com/learning/learning-linux-command-line-26594217/finding-help-for-commands?u=76281980&t=313)** So if I wanted to find out what can list things, I could type apropos list and see a number of results that match that word.
+> **[5:13](https://www.linkedin.com/learning/learning-linux-command-line-26594217/finding-help-for-commands?u=76281980&t=313)** So if I wanted to find out what can list things, I could type apropos list and see a number of results that match that [[Microsoft Word|word]].
 >
 > **[5:22](https://www.linkedin.com/learning/learning-linux-command-line-26594217/finding-help-for-commands?u=76281980&t=322)** I'll take some time to look through these results, and sure enough, here's a command that can list directory contents.
 >
@@ -1008,7 +998,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), hit (2), [[Programming]] (1), feature (1), prompt (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** ls (8), find (5)
 > **Tools:** command line (5), bash (4), terminal (1)
 > **Documentation:** the documentation (2), man page (1)
@@ -1017,8 +1007,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll up (1)
 > **Definitions:** stands for (1)
 
-#### Helpful keyboard shortcuts in the terminal
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/helpful-keyboard-shortcuts-in-the-terminal?u=76281980)
+#### [Helpful keyboard shortcuts in the terminal](https://www.linkedin.com/learning/learning-linux-command-line-26594217/helpful-keyboard-shortcuts-in-the-terminal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1088,7 +1077,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/learning-linux-command-line-26594217/helpful-keyboard-shortcuts-in-the-terminal?u=76281980&t=202)** So in the case of a long command, what might look to us like more than one line being wrapped because of space constraints is really treated as just one long line.
 >
-> **[3:31](https://www.linkedin.com/learning/learning-linux-command-line-26594217/helpful-keyboard-shortcuts-in-the-terminal?u=76281980&t=211)** So moving to the beginning in this example would move the cursor to before the R in the R sync command, and moving to the end would move the cursor to after the K, in the last instance of the word work.
+> **[3:31](https://www.linkedin.com/learning/learning-linux-command-line-26594217/helpful-keyboard-shortcuts-in-the-terminal?u=76281980&t=211)** So moving to the beginning in this example would move the cursor to before the R in the R sync command, and moving to the end would move the cursor to after the K, in the last instance of the [[Microsoft Word|word]] work.
 >
 > **[3:42](https://www.linkedin.com/learning/learning-linux-command-line-26594217/helpful-keyboard-shortcuts-in-the-terminal?u=76281980&t=222)** Moving to the beginning or end of a line is useful for making changes, but with long commands, it may still not get us close enough to what we need to change.
 >
@@ -1126,7 +1115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), [[Microsoft Word|Word]] (2), feature (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Tools:** command line (5), bash (5), terminal (2)
 > **CLI Commands:** ls (2), find (1), make (1)
 > **Env Vars:** ctrl (2), doc (1)
@@ -1134,8 +1123,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Find command information
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/challenge-find-command-information?u=76281980)
+#### [Challenge: Find command information](https://www.linkedin.com/learning/learning-linux-command-line-26594217/challenge-find-command-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1156,8 +1144,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Find command information
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/solution-find-command-information?u=76281980)
+#### [Solution: Find command information](https://www.linkedin.com/learning/learning-linux-command-line-26594217/solution-find-command-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1167,7 +1154,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/learning-linux-command-line-26594217/solution-find-command-information?u=76281980&t=8)** This is a command and an argument, so let's focus on the stat.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-linux-command-line-26594217/solution-find-command-information?u=76281980&t=13)** Using the command man followed by stat, we can discover that it will show file statistics for my file.txt.
+> **[0:13](https://www.linkedin.com/learning/learning-linux-command-line-26594217/solution-find-command-information?u=76281980&t=13)** Using the command man followed by stat, we can discover that it will show file [[Statistics]] for my file.txt.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-linux-command-line-26594217/solution-find-command-information?u=76281980&t=21)** Let's take a look at that.
 >
@@ -1221,7 +1208,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **CLI Commands:** find (6), ls (4)
 > **Tools:** terminal (3), command line (1)
 > **File Paths:** myfile.txt (1), file.txt (1)
@@ -1235,14 +1222,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Linux file system
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-linux-file-system?u=76281980)
+#### [The Linux file system](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-linux-file-system?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-linux-file-system?u=76281980&t=0)** - [Instructor] If you've been working with computers for any amount of time, you're probably familiar with the idea of files.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-linux-file-system?u=76281980&t=7)** Files are collections of information that represent photos, documents, source code, databases, and all kinds of other things.
+> **[0:07](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-linux-file-system?u=76281980&t=7)** Files are collections of information that represent photos, documents, source code, [[Databases]], and all kinds of other things.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-linux-file-system?u=76281980&t=15)** Files are the basic component of data organization we work with in a graphical environment, and that's true in the command line environment as well.
 >
@@ -1274,7 +1260,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-linux-file-system?u=76281980&t=101)** And we need to know about where commands are located on the system too.
 >
-> **[1:45](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-linux-file-system?u=76281980&t=105)** On a Linux system, files and directories are part of the file system, which defines the way that data is represented on the system's storage media.
+> **[1:45](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-linux-file-system?u=76281980&t=105)** On a [[Linux]] system, files and directories are part of the file system, which defines the way that data is represented on the system's storage media.
 >
 > **[1:54](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-linux-file-system?u=76281980&t=114)** Most Linux distros follow the file system hierarchy standard, a standard which defines where certain kinds of files are stored on the file system.
 >
@@ -1292,7 +1278,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-linux-file-system?u=76281980&t=159)** Each Linux system only has one file system and everything else, directories, external hard drives, network shares and so on are represented within it.
 >
-> **[2:49](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-linux-file-system?u=76281980&t=169)** If you're familiar with Windows, you can think of the file system root kind of like the My Computer level of browsing in the File Explorer.
+> **[2:49](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-linux-file-system?u=76281980&t=169)** If you're familiar with [[Windows]], you can think of the file system root kind of like the My Computer level of browsing in the File Explorer.
 >
 > **[2:57](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-linux-file-system?u=76281980&t=177)** At the next level down the hierarchy are a handful of specific directories defined by the file system hierarchy standard.
 >
@@ -1322,7 +1308,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-linux-file-system?u=76281980&t=278)** There are a few special directories too, which are related to the system and the kernel.
 >
-> **[4:43](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-linux-file-system?u=76281980&t=283)** The /dev directory is where the system keeps references to all of the hardware it has, hard drives, memory, CPUs and everything else.
+> **[4:43](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-linux-file-system?u=76281980&t=283)** The /dev directory is where the system keeps references to all of the [[Hardware]] it has, hard drives, memory, CPUs and everything else.
 >
 > **[4:51](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-linux-file-system?u=76281980&t=291)** We won't get into that much here, but if you're interested in learning more about how a Linux system works under the hood, it's a good place to explore.
 >
@@ -1338,13 +1324,13 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-linux-file-system?u=76281980&t=325)** A normal user doesn't generally have permission to make changes in these system directories, so looking around won't do any harm.
 >
-> **[5:32](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-linux-file-system?u=76281980&t=332)** And as I mentioned, as you learn more about Linux, you'll find yourself starting to use these directories sometimes, especially as you expand into learning about system administration and software development.
+> **[5:32](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-linux-file-system?u=76281980&t=332)** And as I mentioned, as you learn more about Linux, you'll find yourself starting to use these directories sometimes, especially as you expand into learning about [[System Administration]] and [[Software Development]].
 >
 > **[5:41](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-linux-file-system?u=76281980&t=341)** For now, though, we won't focus on them because we'll keep our focus on working with files in our own home directory.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (8), data (2), [[Databases]] (1), application (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Linux]] (8), [[Databases]] (1), [[Windows]] (1), [[Hardware]] (1), [[System Administration]] (1)
 > **Tools:** command line (3)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** etc (1), usb (1)
@@ -1353,8 +1339,7 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Definitions:** refers to (1)
 
-#### Understanding file paths
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understanding-file-paths?u=76281980)
+#### [Understanding file paths](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understanding-file-paths?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1434,14 +1419,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **Tools:** command line (2), bash (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [scott] (1)
 
-#### Navigating the file system
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/navigating-the-file-system?u=76281980)
+#### [Navigating the file system](https://www.linkedin.com/learning/learning-linux-command-line-26594217/navigating-the-file-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1551,7 +1534,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cd (11), hr (7), prompt (3), [[Engineering]] (2)
 > **CLI Commands:** cd (11), ls (4)
 > **Tools:** terminal (8)
 > **Exercise Files:** exercise files (5)
@@ -1559,9 +1541,9 @@ created: 2026-05-02
 > **Env Vars:** pwd (2)
 > **UI Navigation:** navigate to (1), go to (1)
 > **Definitions:** is a  (2)
+> **Prerequisites:** set up (1)
 
-#### Finding directory and file information
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/finding-directory-and-file-information?u=76281980)
+#### [Finding directory and file information](https://www.linkedin.com/learning/learning-linux-command-line-26594217/finding-directory-and-file-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1617,7 +1599,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/learning-linux-command-line-26594217/finding-directory-and-file-information?u=76281980&t=160)** Over here further to the right there's the date and time that the item was modified, and finally there's the name of the item.
 >
-> **[2:48](https://www.linkedin.com/learning/learning-linux-command-line-26594217/finding-directory-and-file-information?u=76281980&t=168)** Various forms of ls give us a whole lot of helpful information about directories and files, so it's a good command to know about.
+> **[2:48](https://www.linkedin.com/learning/learning-linux-command-line-26594217/finding-directory-and-file-information?u=76281980&t=168)** Various [[Forms]] of ls give us a whole lot of helpful information about directories and files, so it's a good command to know about.
 >
 > **[2:54](https://www.linkedin.com/learning/learning-linux-command-line-26594217/finding-directory-and-file-information?u=76281980&t=174)** Don't be afraid to run ls in directories as you explore the system, it doesn't harm anything and it can give us a better sense of what kinds of things are located where.
 >
@@ -1651,11 +1633,11 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/learning-linux-command-line-26594217/finding-directory-and-file-information?u=76281980&t=272)** Some of this information is available using the ls command as well, but the file and stat commands can be helpful to know about if we come across an unknown file.
 >
-> **[4:41](https://www.linkedin.com/learning/learning-linux-command-line-26594217/finding-directory-and-file-information?u=76281980&t=281)** On a Linux system everything is a file, so these tools can come in handy.
+> **[4:41](https://www.linkedin.com/learning/learning-linux-command-line-26594217/finding-directory-and-file-information?u=76281980&t=281)** On a [[Linux]] system everything is a file, so these tools can come in handy.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cd (1), next (1), [[Forms]] (1), feature (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Linux]] (1)
 > **CLI Commands:** ls (11), cd (1)
 > **Definitions:** is a  (2), means that (1), stands for (1), is an  (1)
 > **Tools:** terminal (2), command line (1)
@@ -1664,8 +1646,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1), in the last (1)
 > **Code Identifiers:** masos (1)
 
-#### Create and remove directories
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/create-and-remove-directories?u=76281980)
+#### [Create and remove directories](https://www.linkedin.com/learning/learning-linux-command-line-26594217/create-and-remove-directories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1746,8 +1727,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copy, move, and delete files and directories
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/copy-move-and-delete-files-and-directories?u=76281980)
+#### [Copy, move, and delete files and directories](https://www.linkedin.com/learning/learning-linux-command-line-26594217/copy-move-and-delete-files-and-directories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1919,7 +1899,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (3), next (2), management (1)
 > **CLI Commands:** rm (11), cp (6), mv (6), make (3), ls (3)
 > **File Paths:** poems2.txt (5), simple_data.txt (4), literature.txt (4), poems.txt (3), poems3.txt (3)
 > **Code Identifiers:** simple_data (5)
@@ -1927,9 +1906,9 @@ created: 2026-05-02
 > **Definitions:** stands for (2), is a  (1)
 > **Exercise Files:** exercise files (2)
 > **Warnings:** keep in mind (1), be careful (1)
+> **Analogies:** for example (1)
 
-#### Find files from the command line
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-files-from-the-command-line?u=76281980)
+#### [Find files from the command line](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-files-from-the-command-line?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1987,7 +1966,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3)
 > **CLI Commands:** find (11)
 > **Exercise Files:** exercise files (3)
 > **File Paths:** poems.txt (1)
@@ -1996,12 +1974,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand user roles and sudo
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-user-roles-and-sudo?u=76281980)
+#### [Understand user roles and sudo](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-user-roles-and-sudo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-user-roles-and-sudo?u=76281980&t=0)** - [Instructor] Modern Linux is a multi-user environment.
+> **[0:00](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-user-roles-and-sudo?u=76281980&t=0)** - [Instructor] Modern [[Linux]] is a multi-user environment.
 >
 > **[0:03](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-user-roles-and-sudo?u=76281980&t=3)** On older systems and on single user systems, there's only one user.
 >
@@ -2015,7 +1992,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-user-roles-and-sudo?u=76281980&t=33)** To use SU, we write that command, followed by the name of the user we want to switch to, and then we'll need to provide the password for that user.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-user-roles-and-sudo?u=76281980&t=41)** One of the most common tasks for switching users at the command line is to do some system administration tasks.
+> **[0:41](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-user-roles-and-sudo?u=76281980&t=41)** One of the most common tasks for switching users at the command line is to do some [[System Administration]] tasks.
 >
 > **[0:47](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-user-roles-and-sudo?u=76281980&t=47)** There are two basic user roles on a modern Linux system, normal users and the super user.
 >
@@ -2051,7 +2028,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-user-roles-and-sudo?u=76281980&t=138)** I'll write ls /root.
 >
-> **[2:21](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-user-roles-and-sudo?u=76281980&t=141)** As I mentioned before, there are two different meanings of the word root, which can be a little confusing.
+> **[2:21](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-user-roles-and-sudo?u=76281980&t=141)** As I mentioned before, there are two different meanings of the [[Microsoft Word|word]] root, which can be a little confusing.
 >
 > **[2:26](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-user-roles-and-sudo?u=76281980&t=146)** When we're talking about a file system, the root is the highest level of the organizational structure, which is represented by the leftmost slash in this file path.
 >
@@ -2121,15 +2098,15 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-user-roles-and-sudo?u=76281980&t=337)** I can see that by typing PWD to print the working directory, and I can see that now I'm working in slash root.
 >
-> **[5:44](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-user-roles-and-sudo?u=76281980&t=344)** So now I'm working as the super user, and I could issue system configuration commands without having to use sudo in front of each of them.
+> **[5:44](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-user-roles-and-sudo?u=76281980&t=344)** So now I'm working as the super user, and I could issue [[System Configuration]] commands without having to use sudo in front of each of them.
 >
 > **[5:51](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-user-roles-and-sudo?u=76281980&t=351)** But I don't have any administration to do right now, so I'll type exit and I'll move back to my regular user.
 >
-> **[5:58](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-user-roles-and-sudo?u=76281980&t=358)** Take a look at my course, Ubuntu Linux Essential Commands and System Administration, for more about how to perform system administration tasks on a Linux system.
+> **[5:58](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-user-roles-and-sudo?u=76281980&t=358)** Take a look at my course, [[Ubuntu]] Linux Essential Commands and System Administration, for more about how to perform system administration tasks on a Linux system.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (4), prompt (4), [[System Administration]] (3), power (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Linux]] (4), [[System Administration]] (3), [[Microsoft Word|Word]] (1), [[System Configuration]] (1), [[Ubuntu]] (1)
 > **CLI Commands:** sudo (13), make (6), ls (2), snap (1)
 > **Prerequisites:** install (3), set up (2), setup (1)
 > **Definitions:** is a  (3), is called (1)
@@ -2138,8 +2115,7 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Best Practices:** bad practice (1)
 
-#### Understand file permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-file-permissions?u=76281980)
+#### [Understand file permissions](https://www.linkedin.com/learning/learning-linux-command-line-26594217/understand-file-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2259,15 +2235,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (1)
 > **CLI Commands:** chmod (9), make (3), chown (1)
 > **Definitions:** means that (3), is a  (2)
 > **Analogies:** for example (2), kind of like (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modify file permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/modify-file-permissions?u=76281980)
+#### [Modify file permissions](https://www.linkedin.com/learning/learning-linux-command-line-26594217/modify-file-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2309,7 +2283,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/learning-linux-command-line-26594217/modify-file-permissions?u=76281980&t=118)** An executable file means that the file can be run as a program on its own without having to be loaded by another program first, as we saw before when I passed the script as an argument to the Bash command.
 >
-> **[2:09](https://www.linkedin.com/learning/learning-linux-command-line-26594217/modify-file-permissions?u=76281980&t=129)** Again, this file is just an example, and if you're curious to learn more about writing programs with Bash, take a look at Learning Bash Scripting here on LinkedIn Learning.
+> **[2:09](https://www.linkedin.com/learning/learning-linux-command-line-26594217/modify-file-permissions?u=76281980&t=129)** Again, this file is just an example, and if you're curious to learn more about writing programs with Bash, take a look at Learning Bash Scripting here on [[LinkedIn]] Learning.
 >
 > **[2:19](https://www.linkedin.com/learning/learning-linux-command-line-26594217/modify-file-permissions?u=76281980&t=139)** Next, let's take away the execute bit for all the users and take away the right bit for the group.
 >
@@ -2353,9 +2327,9 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/learning-linux-command-line-26594217/modify-file-permissions?u=76281980&t=255)** When a user creates a file in their home directory, it starts out with a permission mode that's defined by the system.
 >
-> **[4:20](https://www.linkedin.com/learning/learning-linux-command-line-26594217/modify-file-permissions?u=76281980&t=260)** On distributions like Ubuntu Desktop and others, where it's likely that users might collaborate with each other's files, the permissions are set to allow users to view or sometimes to view and edit files in other home directories, and on other distributions like server distributions, sometimes the permissions are set so that only the user can view and modify files in their own home directory.
+> **[4:20](https://www.linkedin.com/learning/learning-linux-command-line-26594217/modify-file-permissions?u=76281980&t=260)** On distributions like [[Ubuntu]] Desktop and others, where it's likely that users might collaborate with each other's files, the permissions are set to allow users to view or sometimes to view and edit files in other home directories, and on other distributions like server distributions, sometimes the permissions are set so that only the user can view and modify files in their own home directory.
 >
-> **[4:41](https://www.linkedin.com/learning/learning-linux-command-line-26594217/modify-file-permissions?u=76281980&t=281)** There's no single standard permission mode for files in the home directory, but they're often 755, 644, or 700, depending on what the Linux distribution you're using has chosen.
+> **[4:41](https://www.linkedin.com/learning/learning-linux-command-line-26594217/modify-file-permissions?u=76281980&t=281)** There's no single standard permission mode for files in the home directory, but they're often 755, 644, or 700, depending on what the [[Linux]] distribution you're using has chosen.
 >
 > **[4:52](https://www.linkedin.com/learning/learning-linux-command-line-26594217/modify-file-permissions?u=76281980&t=292)** We can take a look at what these permissions are set to on our own system by creating a blank file with the touch command.
 >
@@ -2419,13 +2393,13 @@ created: 2026-05-02
 >
 > **[7:39](https://www.linkedin.com/learning/learning-linux-command-line-26594217/modify-file-permissions?u=76281980&t=459)** Changing groups works the same way, but with chgrp command.
 >
-> **[7:43](https://www.linkedin.com/learning/learning-linux-command-line-26594217/modify-file-permissions?u=76281980&t=463)** As we're getting started with the command line, we won't be changing permissions too much, but once we start working with things like web servers and other processes that need to access files in secure ways, we'll need to think about and change permissions.
+> **[7:43](https://www.linkedin.com/learning/learning-linux-command-line-26594217/modify-file-permissions?u=76281980&t=463)** As we're getting started with the command line, we won't be changing permissions too much, but once we start working with things like [[Web Servers]] and other processes that need to access files in secure ways, we'll need to think about and change permissions.
 >
-> **[7:56](https://www.linkedin.com/learning/learning-linux-command-line-26594217/modify-file-permissions?u=76281980&t=476)** To learn more about permissions and security, take a look at my course Ubuntu Linux: Essential Commands and System Administration, which I mentioned before, and also take a look at Linux Security and Hardening Essential Training.
+> **[7:56](https://www.linkedin.com/learning/learning-linux-command-line-26594217/modify-file-permissions?u=76281980&t=476)** To learn more about permissions and security, take a look at my course Ubuntu Linux: Essential Commands and [[System Administration]], which I mentioned before, and also take a look at Linux Security and Hardening Essential Training.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), [[Ubuntu]] (2), [[Security]] (2), [[Scripting]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Ubuntu]] (2), [[LinkedIn]] (1), [[Web Servers]] (1), [[System Administration]] (1)
 > **CLI Commands:** chmod (5), ls (4), cat (3), sudo (3), chown (2)
 > **File Paths:** test.sh (13)
 > **Tools:** bash (7), command line (1)
@@ -2434,12 +2408,11 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Prerequisites:** getting started (1)
 
-#### Create hard and symbolic links
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/create-hard-and-symbolic-links?u=76281980)
+#### [Create hard and symbolic links](https://www.linkedin.com/learning/learning-linux-command-line-26594217/create-hard-and-symbolic-links?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-linux-command-line-26594217/create-hard-and-symbolic-links?u=76281980&t=0)** - [Instructor] I want to take a moment to talk about a special kind of file on a Linux system, a type of file called a link.
+> **[0:00](https://www.linkedin.com/learning/learning-linux-command-line-26594217/create-hard-and-symbolic-links?u=76281980&t=0)** - [Instructor] I want to take a moment to talk about a special kind of file on a [[Linux]] system, a type of file called a link.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-linux-command-line-26594217/create-hard-and-symbolic-links?u=76281980&t=7)** Links are files that are references to other files, and they're used to avoid having multiple copies of the same file in different places.
 >
@@ -2513,7 +2486,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **File Paths:** writing.txt (5), poems.txt (2), words.txt (1)
 > **Definitions:** is a  (4), short for (1)
 > **CLI Commands:** make (1)
@@ -2522,8 +2495,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Fix broken syntax
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/challenge-fix-broken-syntax?u=76281980)
+#### [Challenge: Fix broken syntax](https://www.linkedin.com/learning/learning-linux-command-line-26594217/challenge-fix-broken-syntax?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2541,8 +2513,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Fix broken syntax
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/solutions-fix-broken-syntax?u=76281980)
+#### [Solution: Fix broken syntax](https://www.linkedin.com/learning/learning-linux-command-line-26594217/solutions-fix-broken-syntax?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2560,7 +2531,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-linux-command-line-26594217/solutions-fix-broken-syntax?u=76281980&t=32)** The problem here is that the command is written in capital letters.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-linux-command-line-26594217/solutions-fix-broken-syntax?u=76281980&t=36)** Linux commands are case sensitive, so I'll need to change that to lowercase in order for it to work.
+> **[0:36](https://www.linkedin.com/learning/learning-linux-command-line-26594217/solutions-fix-broken-syntax?u=76281980&t=36)** [[Linux]] commands are case sensitive, so I'll need to change that to lowercase in order for it to work.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-linux-command-line-26594217/solutions-fix-broken-syntax?u=76281980&t=41)** This third command looks like it's trying to move a file into a home directory, but it's missing some slashes.
 >
@@ -2572,13 +2543,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cd (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** make (2), cd (2), ls (1), mv (1), tar (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Practice working with files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/challenge-practice-working-with-files?u=76281980)
+#### [Challenge: Practice working with files](https://www.linkedin.com/learning/learning-linux-command-line-26594217/challenge-practice-working-with-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2588,7 +2558,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-linux-command-line-26594217/challenge-practice-working-with-files?u=76281980&t=7)** You can do this with a touch command or you can make copies of existing files, practice using links and creating directories to copy or move your copies of the exercise files.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-linux-command-line-26594217/challenge-practice-working-with-files?u=76281980&t=17)** Don't move the originals though, because we'll need them to be where they are for the rest of the course.
+> **[0:17](https://www.linkedin.com/learning/learning-linux-command-line-26594217/challenge-practice-working-with-files?u=76281980&t=17)** Don't move the originals though, because we'll need them to be where they are for the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-linux-command-line-26594217/challenge-practice-working-with-files?u=76281980&t=21)** Take about 10 minutes to do this so you can build your confidence, both working with files and avoiding files you don't want to change.
 
@@ -2599,8 +2569,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Practice working with files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/solutions-practice-working-with-files?u=76281980)
+#### [Solution: Practice working with files](https://www.linkedin.com/learning/learning-linux-command-line-26594217/solutions-practice-working-with-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2616,7 +2585,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **Tools:** command line (1)
 > **Speakers:** - [narrator] (1)
 
@@ -2625,8 +2593,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of modularity
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-importance-of-modularity?u=76281980)
+#### [The importance of modularity](https://www.linkedin.com/learning/learning-linux-command-line-26594217/the-importance-of-modularity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2670,15 +2637,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), next (1)
 > **Tools:** command line (4)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use pipes to connect commands together
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/use-pipes-to-connect-commands-together?u=76281980)
+#### [Use pipes to connect commands together](https://www.linkedin.com/learning/learning-linux-command-line-26594217/use-pipes-to-connect-commands-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2712,7 +2677,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/learning-linux-command-line-26594217/use-pipes-to-connect-commands-together?u=76281980&t=91)** For example, I'll write echo "hello" and the echo command replies with the text I provided.
 >
-> **[1:37](https://www.linkedin.com/learning/learning-linux-command-line-26594217/use-pipes-to-connect-commands-together?u=76281980&t=97)** Now let's write that command again, and this time I'll add a pipe character to send the output, not to the standard output or to the screen, but to the command wc, which is short for word count.
+> **[1:37](https://www.linkedin.com/learning/learning-linux-command-line-26594217/use-pipes-to-connect-commands-together?u=76281980&t=97)** Now let's write that command again, and this time I'll add a pipe character to send the output, not to the standard output or to the screen, but to the command wc, which is short for [[Microsoft Word|word]] count.
 >
 > **[1:49](https://www.linkedin.com/learning/learning-linux-command-line-26594217/use-pipes-to-connect-commands-together?u=76281980&t=109)** So I've written echo "hello" piped to wc, and here instead of the output from echo, we see the output of the wc program responding to the input from the echo command.
 >
@@ -2736,7 +2701,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3)
 > **Tools:** command line (4)
 > **CLI Commands:** cat (1), find (1)
 > **Analogies:** for example (2)
@@ -2745,8 +2710,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### View text files with cat, head, tail, and less
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/view-text-files-with-cat-head-tail-and-less?u=76281980)
+#### [View text files with cat, head, tail, and less](https://www.linkedin.com/learning/learning-linux-command-line-26594217/view-text-files-with-cat-head-tail-and-less?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2760,7 +2724,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/learning-linux-command-line-26594217/view-text-files-with-cat-head-tail-and-less?u=76281980&t=29)** Depending on the operating system we're using, we'll have different files available to us.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-linux-command-line-26594217/view-text-files-with-cat-head-tail-and-less?u=76281980&t=34)** Sometimes we'd use cat to look at a log file or something like that, but here I'll use some classic poems because I want you to be able to follow along with me exactly and not get tied up in the differences between Linux distributions at this point.
+> **[0:34](https://www.linkedin.com/learning/learning-linux-command-line-26594217/view-text-files-with-cat-head-tail-and-less?u=76281980&t=34)** Sometimes we'd use cat to look at a log file or something like that, but here I'll use some classic poems because I want you to be able to follow along with me exactly and not get tied up in the differences between [[Linux]] distributions at this point.
 >
 > **[0:47](https://www.linkedin.com/learning/learning-linux-command-line-26594217/view-text-files-with-cat-head-tail-and-less?u=76281980&t=47)** To just list out the contents of a file, I can write cat followed by the name of the file that I want to read as an argument.
 >
@@ -2832,13 +2796,13 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/learning-linux-command-line-26594217/view-text-files-with-cat-head-tail-and-less?u=76281980&t=263)** Again, I'll press Q to quit less and go back to the shell.
 >
-> **[4:27](https://www.linkedin.com/learning/learning-linux-command-line-26594217/view-text-files-with-cat-head-tail-and-less?u=76281980&t=267)** Looking at the contents of text files is an important scale to get comfortable with when you're working at the command line, whether you're doing system administration, programming, writing, or anything else that deals with text, these tools can help you out.
+> **[4:27](https://www.linkedin.com/learning/learning-linux-command-line-26594217/view-text-files-with-cat-head-tail-and-less?u=76281980&t=267)** Looking at the contents of text files is an important scale to get comfortable with when you're working at the command line, whether you're doing [[System Administration]], programming, writing, or anything else that deals with text, these tools can help you out.
 >
 > **[4:41](https://www.linkedin.com/learning/learning-linux-command-line-26594217/view-text-files-with-cat-head-tail-and-less?u=76281980&t=281)** Remember to take a look at the command pages for these commands to see what else they can do.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (1), [[System Administration]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[System Administration]] (1)
 > **CLI Commands:** cat (12), make (1), find (1)
 > **File Paths:** poems.txt (7)
 > **Analogies:** for example (3), just like (1)
@@ -2847,8 +2811,7 @@ created: 2026-05-02
 > **Tools:** command line (1), terminal (1)
 > **Best Practices:** good practice (1), remember to (1)
 
-#### Search for text in files and streams with grep
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/search-for-text-in-files-and-streams-with-grep?u=76281980)
+#### [Search for text in files and streams with grep](https://www.linkedin.com/learning/learning-linux-command-line-26594217/search-for-text-in-files-and-streams-with-grep?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2882,7 +2845,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/learning-linux-command-line-26594217/search-for-text-in-files-and-streams-with-grep?u=76281980&t=102)** That's because grep is case sensitive, meaning it considers the uppercase and lowercase letters to be different characters.
 >
-> **[1:49](https://www.linkedin.com/learning/learning-linux-command-line-26594217/search-for-text-in-files-and-streams-with-grep?u=76281980&t=109)** Some of the lines of my text file have a capital T at the beginning of the word "the."
+> **[1:49](https://www.linkedin.com/learning/learning-linux-command-line-26594217/search-for-text-in-files-and-streams-with-grep?u=76281980&t=109)** Some of the lines of my text file have a capital T at the beginning of the [[Microsoft Word|word]] "the."
 >
 > **[1:53](https://www.linkedin.com/learning/learning-linux-command-line-26594217/search-for-text-in-files-and-streams-with-grep?u=76281980&t=113)** We can verify this by changing our grep command to include a capital T.
 >
@@ -2952,7 +2915,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **CLI Commands:** grep (20), find (2)
 > **Analogies:** for example (2), such as (1)
 > **File Paths:** poems.txt (2)
@@ -2960,8 +2923,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manipulate text with awk, sed, and sort
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/manipulate-text-with-awk-sed-and-sort?u=76281980)
+#### [Manipulate text with awk, sed, and sort](https://www.linkedin.com/learning/learning-linux-command-line-26594217/manipulate-text-with-awk-sed-and-sort?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2973,7 +2935,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/learning-linux-command-line-26594217/manipulate-text-with-awk-sed-and-sort?u=76281980&t=29)** These tools are called awk and sed.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-linux-command-line-26594217/manipulate-text-with-awk-sed-and-sort?u=76281980&t=32)** Both tools are widely used in command line operations, and you'll see them both as you explore system administration and systems programming.
+> **[0:32](https://www.linkedin.com/learning/learning-linux-command-line-26594217/manipulate-text-with-awk-sed-and-sort?u=76281980&t=32)** Both tools are widely used in command line operations, and you'll see them both as you explore [[System Administration]] and systems programming.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-linux-command-line-26594217/manipulate-text-with-awk-sed-and-sort?u=76281980&t=40)** What awk is great at and is commonly used for in scripts is pulling data out of a file according to a rule.
 >
@@ -3127,7 +3089,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Search]] (1), [[System Administration]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[System Administration]] (1)
 > **CLI Commands:** awk (16), sed (7), cat (6), make (2), grep (1)
 > **File Paths:** simple_data.txt (7), dupes.txt (2)
 > **Code Identifiers:** simple_data (7)
@@ -3136,8 +3098,7 @@ created: 2026-05-02
 > **Tools:** command line (3)
 > **Speakers:** - [instructor] (1), - n (1)
 
-#### Edit text with Vim
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/edit-text-with-vim?u=76281980)
+#### [Edit text with Vim](https://www.linkedin.com/learning/learning-linux-command-line-26594217/edit-text-with-vim?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3147,11 +3108,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/learning-linux-command-line-26594217/edit-text-with-vim?u=76281980&t=11)** But if we're working at the command line, we don't always have access to our favorite graphical text editor.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-linux-command-line-26594217/edit-text-with-vim?u=76281980&t=17)** On most Linux distributions, there's a text editor called Vim.
+> **[0:17](https://www.linkedin.com/learning/learning-linux-command-line-26594217/edit-text-with-vim?u=76281980&t=17)** On most [[Linux]] distributions, there's a text editor called Vim.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-linux-command-line-26594217/edit-text-with-vim?u=76281980&t=21)** We'll also see it referred to as VI in some places for legacy reasons.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-linux-command-line-26594217/edit-text-with-vim?u=76281980&t=25)** The Command VI is a shortening of the word visual and VI was a popular text editor on Unix.
+> **[0:25](https://www.linkedin.com/learning/learning-linux-command-line-26594217/edit-text-with-vim?u=76281980&t=25)** The Command VI is a shortening of the [[Microsoft Word|word]] visual and VI was a popular text editor on Unix.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-linux-command-line-26594217/edit-text-with-vim?u=76281980&t=32)** The name VIM stands for VI Improved.
 >
@@ -3251,7 +3212,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Linux]] (1), [[Search]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Linux]] (1)
 > **Tools:** vim (18), command line (4), terminal (1)
 > **CLI Commands:** make (6), find (1)
 > **File Paths:** new.txt (2), poems.txt (1)
@@ -3260,12 +3221,11 @@ created: 2026-05-02
 > **Analogies:** it's like (1), such as (1)
 > **UI Navigation:** open the (1)
 
-#### Edit text with nano
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/edit-text-with-nano?u=76281980)
+#### [Edit text with nano](https://www.linkedin.com/learning/learning-linux-command-line-26594217/edit-text-with-nano?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-linux-command-line-26594217/edit-text-with-nano?u=76281980&t=0)** - [Instructor] Some Linux distributions include a lightweight text editor called Nano.
+> **[0:00](https://www.linkedin.com/learning/learning-linux-command-line-26594217/edit-text-with-nano?u=76281980&t=0)** - [Instructor] Some [[Linux]] distributions include a lightweight text editor called Nano.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-linux-command-line-26594217/edit-text-with-nano?u=76281980&t=4)** If it's not installed on your system, you can install it.
 >
@@ -3273,7 +3233,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-linux-command-line-26594217/edit-text-with-nano?u=76281980&t=16)** Let's take a quick look at Nano.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-linux-command-line-26594217/edit-text-with-nano?u=76281980&t=19)** I'm working here in Ubuntu desktop, which comes with Nano already installed.
+> **[0:19](https://www.linkedin.com/learning/learning-linux-command-line-26594217/edit-text-with-nano?u=76281980&t=19)** I'm working here in [[Ubuntu]] desktop, which comes with Nano already installed.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-linux-command-line-26594217/edit-text-with-nano?u=76281980&t=23)** In my terminal I'll type nano to launch Nano.
 >
@@ -3307,7 +3267,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/learning-linux-command-line-26594217/edit-text-with-nano?u=76281980&t=100)** Ctrl W is a useful feature to find text in the document.
 >
-> **[1:45](https://www.linkedin.com/learning/learning-linux-command-line-26594217/edit-text-with-nano?u=76281980&t=105)** I'll press control W and look for the word bright.
+> **[1:45](https://www.linkedin.com/learning/learning-linux-command-line-26594217/edit-text-with-nano?u=76281980&t=105)** I'll press control W and look for the [[Microsoft Word|word]] bright.
 >
 > **[1:49](https://www.linkedin.com/learning/learning-linux-command-line-26594217/edit-text-with-nano?u=76281980&t=109)** I'll press enter and I'm taken to the first match.
 >
@@ -3329,7 +3289,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (1), power (1), [[Ubuntu]] (1), feature (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Ubuntu]] (1), [[Microsoft Word|Word]] (1)
 > **Tools:** vim (4), terminal (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (2), is called (1)
@@ -3338,8 +3298,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with tar and zip archives
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/working-with-tar-and-zip-archives?u=76281980)
+#### [Working with tar and zip archives](https://www.linkedin.com/learning/learning-linux-command-line-26594217/working-with-tar-and-zip-archives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3347,9 +3306,9 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/learning-linux-command-line-26594217/working-with-tar-and-zip-archives?u=76281980&t=14)** In order to store files on a linear medium like a tape, files are recorded to the tape one after another in sequence like songs on an audio cassette.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-linux-command-line-26594217/working-with-tar-and-zip-archives?u=76281980&t=24)** If we don't happen to have a tape machine around, we can create files that work in the same way as these data storage tapes.
+> **[0:24](https://www.linkedin.com/learning/learning-linux-command-line-26594217/working-with-tar-and-zip-archives?u=76281980&t=24)** If we don't happen to have a tape machine around, we can create files that work in the same way as these [[Data Storage]] tapes.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-linux-command-line-26594217/working-with-tar-and-zip-archives?u=76281980&t=31)** Tar files, short for tape archive files, combine many files into one large file, and this kind of archive file is incredibly common for distributing, sharing, and storing files on Linux systems.
+> **[0:31](https://www.linkedin.com/learning/learning-linux-command-line-26594217/working-with-tar-and-zip-archives?u=76281980&t=31)** Tar files, short for tape archive files, combine many files into one large file, and this kind of archive file is incredibly common for distributing, sharing, and storing files on [[Linux]] systems.
 >
 > **[0:43](https://www.linkedin.com/learning/learning-linux-command-line-26594217/working-with-tar-and-zip-archives?u=76281980&t=43)** This is because it's much easier in many ways to send and store one large file instead of many small files.
 >
@@ -3457,11 +3416,11 @@ created: 2026-05-02
 >
 > **[6:34](https://www.linkedin.com/learning/learning-linux-command-line-26594217/working-with-tar-and-zip-archives?u=76281980&t=394)** While tar files of various types are pretty common in the Linux world, and to some extent in the Mac world too, the zip format is very widely used.
 >
-> **[6:43](https://www.linkedin.com/learning/learning-linux-command-line-26594217/working-with-tar-and-zip-archives?u=76281980&t=403)** In large part, because it's somewhat more cross platform friendly, meaning that it works well on Linux, on Windows, and on macOS, allowing us to easily exchange files between these platforms.
+> **[6:43](https://www.linkedin.com/learning/learning-linux-command-line-26594217/working-with-tar-and-zip-archives?u=76281980&t=403)** In large part, because it's somewhat more cross platform friendly, meaning that it works well on Linux, on [[Windows]], and on macOS, allowing us to easily exchange files between these platforms.
 >
 > **[6:53](https://www.linkedin.com/learning/learning-linux-command-line-26594217/working-with-tar-and-zip-archives?u=76281980&t=413)** So let's take a look at how to create and extract a zip archive.
 >
-> **[6:58](https://www.linkedin.com/learning/learning-linux-command-line-26594217/working-with-tar-and-zip-archives?u=76281980&t=418)** Ubuntu Desktop, which I'm using, has the zip and unzip tools installed, though on other Linux distributions, we might need to install them before using them.
+> **[6:58](https://www.linkedin.com/learning/learning-linux-command-line-26594217/working-with-tar-and-zip-archives?u=76281980&t=418)** [[Ubuntu]] Desktop, which I'm using, has the zip and unzip tools installed, though on other Linux distributions, we might need to install them before using them.
 >
 > **[7:06](https://www.linkedin.com/learning/learning-linux-command-line-26594217/working-with-tar-and-zip-archives?u=76281980&t=426)** We'll explore installing software later on.
 >
@@ -3513,7 +3472,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (5), data (4), cd (4), [[Windows]] (1), [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[Linux]] (5), [[Data Storage]] (1), [[Windows]] (1), [[Ubuntu]] (1)
 > **CLI Commands:** tar (33), ls (6), cd (4), mkdir (4), unzip (4)
 > **Definitions:** short for (2), is a  (2)
 > **Exercise Files:** zip file (3)
@@ -3522,8 +3481,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Analogies:** for example (1)
 
-#### Challenge: Create and share a file
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/challenge-create-and-share-a-file?u=76281980)
+#### [Challenge: Create and share a file](https://www.linkedin.com/learning/learning-linux-command-line-26594217/challenge-create-and-share-a-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3542,8 +3500,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1), tar (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Create and share a file
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/solution-create-and-share-a-file?u=76281980)
+#### [Solution: Create and share a file](https://www.linkedin.com/learning/learning-linux-command-line-26594217/solution-create-and-share-a-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3583,13 +3540,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (2), chmod (1), tar (1), ls (1)
 > **File Paths:** notes.txt (1)
 > **Speakers:** - [instructor] (1)
 
-#### Output redirection
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/output-redirection?u=76281980)
+#### [Output redirection](https://www.linkedin.com/learning/learning-linux-command-line-26594217/output-redirection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3697,19 +3652,18 @@ created: 2026-05-02
 >
 > **[5:28](https://www.linkedin.com/learning/learning-linux-command-line-26594217/output-redirection?u=76281980&t=328)** And while it's not something we'll use with every command, it does come up now and then.
 >
-> **[5:33](https://www.linkedin.com/learning/learning-linux-command-line-26594217/output-redirection?u=76281980&t=333)** You can learn more about redirection in Learning Bash Scripting, here on LinkedIn Learning.
+> **[5:33](https://www.linkedin.com/learning/learning-linux-command-line-26594217/output-redirection?u=76281980&t=333)** You can learn more about redirection in Learning Bash Scripting, here on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1), [[Scripting]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** ls (9), cat (3), find (1)
 > **Tools:** command line (3), bash (2), terminal (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring environment variables and PATH
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/exploring-environment-variables-and-path?u=76281980)
+#### [Exploring environment variables and PATH](https://www.linkedin.com/learning/learning-linux-command-line-26594217/exploring-environment-variables-and-path?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3803,11 +3757,11 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/learning-linux-command-line-26594217/exploring-environment-variables-and-path?u=76281980&t=248)** I'll close my editor and choose to not save this modified buffer.
 >
-> **[4:13](https://www.linkedin.com/learning/learning-linux-command-line-26594217/exploring-environment-variables-and-path?u=76281980&t=253)** To learn more about bash scripting, be sure to take a look at my course Learning Bash Scripting here on LinkedIn Learning.
+> **[4:13](https://www.linkedin.com/learning/learning-linux-command-line-26594217/exploring-environment-variables-and-path?u=76281980&t=253)** To learn more about bash scripting, be sure to take a look at my course Learning Bash Scripting here on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scripting]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Env Vars:** path (14)
 > **CLI Commands:** ls (5), make (5), find (3)
 > **Tools:** bash (5)
@@ -3816,8 +3770,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2), setup (1)
 > **UI Navigation:** scroll up (1), open the (1)
 
-#### Challenge: Extract information from a text file
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/challenge-extract-information-from-a-text-file?u=76281980)
+#### [Challenge: Extract information from a text file](https://www.linkedin.com/learning/learning-linux-command-line-26594217/challenge-extract-information-from-a-text-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3827,7 +3780,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-linux-command-line-26594217/challenge-extract-information-from-a-text-file?u=76281980&t=16)** So while this kind of activity is going on, we have a record of these attempts.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-linux-command-line-26594217/challenge-extract-information-from-a-text-file?u=76281980&t=21)** In the exercise files, there's an archive called log.tar.gz, and it contains a slightly modified Linux system log file with a lot of connection attempts.
+> **[0:21](https://www.linkedin.com/learning/learning-linux-command-line-26594217/challenge-extract-information-from-a-text-file?u=76281980&t=21)** In the exercise files, there's an archive called log.tar.gz, and it contains a slightly modified [[Linux]] system log file with a lot of connection attempts.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-linux-command-line-26594217/challenge-extract-information-from-a-text-file?u=76281980&t=31)** Your task is to extract the file, so you can work with it as text and to look for lines containing the string disconnected from invalid user.
 >
@@ -3845,8 +3798,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Extract information from a text file
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/solution-extract-information-from-a-text-file?u=76281980)
+#### [Solution: Extract information from a text file](https://www.linkedin.com/learning/learning-linux-command-line-26594217/solution-extract-information-from-a-text-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3886,7 +3838,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/learning-linux-command-line-26594217/solution-extract-information-from-a-text-file?u=76281980&t=87)** This would be three.
 >
-> **[1:28](https://www.linkedin.com/learning/learning-linux-command-line-26594217/solution-extract-information-from-a-text-file?u=76281980&t=88)** The word disconnected would be four, five, six, seven and here the username is in the eighth column.
+> **[1:28](https://www.linkedin.com/learning/learning-linux-command-line-26594217/solution-extract-information-from-a-text-file?u=76281980&t=88)** The [[Microsoft Word|word]] disconnected would be four, five, six, seven and here the username is in the eighth column.
 >
 > **[1:36](https://www.linkedin.com/learning/learning-linux-command-line-26594217/solution-extract-information-from-a-text-file?u=76281980&t=96)** Okay, now I have enough information to write my program.
 >
@@ -3944,7 +3896,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), data (1), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** awk (4), tar (1), cat (1), grep (1)
 > **Definitions:** is a  (2), is an  (1)
 > **File Paths:** invalid_users.txt (2)
@@ -3958,14 +3910,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Find information about your Linux distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-information-about-your-linux-distribution?u=76281980)
+#### [Find information about your Linux distribution](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-information-about-your-linux-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-information-about-your-linux-distribution?u=76281980&t=0)** - [Instructor] Up until now, almost everything we've done has been distribution independent.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-information-about-your-linux-distribution?u=76281980&t=4)** That is, it hasn't mattered if we're running Ubuntu, Fedora, Arch or another distribution of Linux, but it's good to know what environment we're working with in case we need to make some changes to the system or install software or if we need that information in order to ask for help.
+> **[0:04](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-information-about-your-linux-distribution?u=76281980&t=4)** That is, it hasn't mattered if we're running [[Ubuntu]], Fedora, Arch or another distribution of [[Linux]], but it's good to know what environment we're working with in case we need to make some changes to the system or install software or if we need that information in order to ask for help.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-information-about-your-linux-distribution?u=76281980&t=20)** If we find ourselves in an environment we don't know about, such as a system set up for us by someone else, the first thing we need to do is understand which Linux distribution we're using.
 >
@@ -3985,7 +3936,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-information-about-your-linux-distribution?u=76281980&t=69)** Let's take a look at what's inside of these files.
 >
-> **[1:12](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-information-about-your-linux-distribution?u=76281980&t=72)** To do that, I'll write cat /etc*release which will show us the contents of all of the files in the etc directory that end with the word release.
+> **[1:12](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-information-about-your-linux-distribution?u=76281980&t=72)** To do that, I'll write cat /etc*release which will show us the contents of all of the files in the etc directory that end with the [[Microsoft Word|word]] release.
 >
 > **[1:24](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-information-about-your-linux-distribution?u=76281980&t=84)** On different distributions there may be different numbers and names of files that match that wild card, but they'll contain the information we need.
 >
@@ -4015,19 +3966,19 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-information-about-your-linux-distribution?u=76281980&t=171)** Here, for example, is the output of the commands that we've seen on a Fedora workstation.
 >
-> **[2:56](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-information-about-your-linux-distribution?u=76281980&t=176)** Here's the output on a system running openSUSE and here's the output of those commands on an Ubuntu system running in Windows subsystem for Linux, and this output is from a Linux virtual machine running on an Apple Silicon Mac.
+> **[2:56](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-information-about-your-linux-distribution?u=76281980&t=176)** Here's the output on a system running openSUSE and here's the output of those commands on an Ubuntu system running in [[Windows]] subsystem for Linux, and this output is from a Linux virtual machine running on an Apple Silicon Mac.
 >
 > **[3:12](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-information-about-your-linux-distribution?u=76281980&t=192)** Notice that this device has a different architecture.
 >
 > **[3:14](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-information-about-your-linux-distribution?u=76281980&t=194)** It's aarch64, where the other ones were AMD x64.
 >
-> **[3:19](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-information-about-your-linux-distribution?u=76281980&t=199)** System architecture is not something we need to be too concerned about when we're getting started, but it's good to know about.
+> **[3:19](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-information-about-your-linux-distribution?u=76281980&t=199)** [[System Architecture]] is not something we need to be too concerned about when we're getting started, but it's good to know about.
 >
-> **[3:26](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-information-about-your-linux-distribution?u=76281980&t=206)** Again, if we've set up a system ourselves, the chances that we know what kind of distribution and hardware it's running are pretty high, but if for some reason we don't now we've seen how to figure it out.
+> **[3:26](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-information-about-your-linux-distribution?u=76281980&t=206)** Again, if we've set up a system ourselves, the chances that we know what kind of distribution and [[Hardware]] it's running are pretty high, but if for some reason we don't now we've seen how to figure it out.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (9), [[Ubuntu]] (3), [[Microsoft Word|Word]] (1), [[Troubleshooting]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Linux]] (9), [[Ubuntu]] (3), [[Microsoft Word|Word]] (1), [[Windows]] (1), [[System Architecture]] (1)
 > **Env Vars:** lsb (2), amd (2), usr (1), lts (1)
 > **CLI Commands:** find (2), make (1), ls (1), cat (1)
 > **Prerequisites:** set up (2), install (1), getting started (1)
@@ -4036,18 +3987,17 @@ created: 2026-05-02
 > **Code Identifiers:** opensuse (1)
 > **Definitions:** stands for (1)
 
-#### Find system hardware and disk information
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-system-hardware-and-disk-information?u=76281980)
+#### [Find system hardware and disk information](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-system-hardware-and-disk-information?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-system-hardware-and-disk-information?u=76281980&t=0)** - [Instructor] Let's take a look at finding out some information about the hardware and system resources in the system we're working with.
+> **[0:00](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-system-hardware-and-disk-information?u=76281980&t=0)** - [Instructor] Let's take a look at finding out some information about the [[Hardware]] and system resources in the system we're working with.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-system-hardware-and-disk-information?u=76281980&t=6)** If we're using a physical computer or a virtual machine we set up ourselves, we'll know some information about it, like how much memory it has, what kind of process or resources it has, and how much hard drive space there is.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-system-hardware-and-disk-information?u=76281980&t=17)** But if we're working on a remote system or a system someone else set up for us, it can be helpful to get a sense of what the available resources are and what hardware the system has.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-system-hardware-and-disk-information?u=76281980&t=27)** Linux offers many ways to find out all kinds of details about the hardware that makes up a computer.
+> **[0:27](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-system-hardware-and-disk-information?u=76281980&t=27)** [[Linux]] offers many ways to find out all kinds of details about the hardware that makes up a computer.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-system-hardware-and-disk-information?u=76281980&t=32)** But let's just take a high-level look at some common resources that might be relevant to us if we're using a Linux system.
 >
@@ -4055,7 +4005,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-system-hardware-and-disk-information?u=76281980&t=43)** To do that, I can use the free command with the -h option, which gives us output in human-readable numbers.
 >
-> **[0:51](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-system-hardware-and-disk-information?u=76281980&t=51)** I'll zoom out a little bit here.
+> **[0:51](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-system-hardware-and-disk-information?u=76281980&t=51)** I'll [[Zoom]] out a little bit here.
 >
 > **[0:52](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-system-hardware-and-disk-information?u=76281980&t=52)** And here, under total, I can see that I have over 30 gigabytes of RAM on this machine.
 >
@@ -4089,7 +4039,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-system-hardware-and-disk-information?u=76281980&t=118)** So that's where I'm likely to be taking up space if I install software or download files.
 >
-> **[2:02](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-system-hardware-and-disk-information?u=76281980&t=122)** The rest of these are managed by the system, so I'm not too worried about those.
+> **[2:02](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-system-hardware-and-disk-information?u=76281980&t=122)** The [[Representational State Transfer (REST)|rest]] of these are managed by the system, so I'm not too worried about those.
 >
 > **[2:06](https://www.linkedin.com/learning/learning-linux-command-line-26594217/find-system-hardware-and-disk-information?u=76281980&t=126)** If you just want to focus on one file system, you can write df, and again, in this case, -h, and then the path to the file system that you're interested in.
 >
@@ -4161,7 +4111,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (5), [[Linux]] (2), [[Zoom]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Hardware]] (5), [[Linux]] (2), [[Zoom]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (5), sudo (2), cat (1)
 > **Env Vars:** ram (1), cpu (1), pci (1), usb (1)
 > **Prerequisites:** set up (2), install (2)
@@ -4170,12 +4120,11 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 
-#### Install and update software with a package manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/install-and-update-software-with-a-package-manager?u=76281980)
+#### [Install and update software with a package manager](https://www.linkedin.com/learning/learning-linux-command-line-26594217/install-and-update-software-with-a-package-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-linux-command-line-26594217/install-and-update-software-with-a-package-manager?u=76281980&t=0)** - [Instructor] An important aspect of working with a Linux system is the ability to install and remove software.
+> **[0:00](https://www.linkedin.com/learning/learning-linux-command-line-26594217/install-and-update-software-with-a-package-manager?u=76281980&t=0)** - [Instructor] An important aspect of working with a [[Linux]] system is the ability to install and remove software.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-linux-command-line-26594217/install-and-update-software-with-a-package-manager?u=76281980&t=6)** We need to be able to manage software in order to add new tools and programs to a system.
 >
@@ -4185,7 +4134,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/learning-linux-command-line-26594217/install-and-update-software-with-a-package-manager?u=76281980&t=27)** Each distribution has its own repository of packages, a large index of available software that we can download, in which the package manager will then install for us.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-linux-command-line-26594217/install-and-update-software-with-a-package-manager?u=76281980&t=38)** Debian and distros like Ubuntu that are derived from it, use the APT package manager.
+> **[0:38](https://www.linkedin.com/learning/learning-linux-command-line-26594217/install-and-update-software-with-a-package-manager?u=76281980&t=38)** Debian and distros like [[Ubuntu]] that are derived from it, use the APT package manager.
 >
 > **[0:44](https://www.linkedin.com/learning/learning-linux-command-line-26594217/install-and-update-software-with-a-package-manager?u=76281980&t=44)** APT stands for Advanced Package Tool.
 >
@@ -4195,7 +4144,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/learning-linux-command-line-26594217/install-and-update-software-with-a-package-manager?u=76281980&t=54)** Generally speaking, the tools all work in a similar way.
 >
-> **[0:58](https://www.linkedin.com/learning/learning-linux-command-line-26594217/install-and-update-software-with-a-package-manager?u=76281980&t=58)** We provide the name of the package management tool and then we can use a command or argument to search for a particular package, to get more information about a package or to install or remove the package.
+> **[0:58](https://www.linkedin.com/learning/learning-linux-command-line-26594217/install-and-update-software-with-a-package-manager?u=76281980&t=58)** We provide the name of the [[Package Management]] tool and then we can use a command or argument to search for a particular package, to get more information about a package or to install or remove the package.
 >
 > **[1:09](https://www.linkedin.com/learning/learning-linux-command-line-26594217/install-and-update-software-with-a-package-manager?u=76281980&t=69)** Package management tools also allow us to look for updates to existing packages and install them.
 >
@@ -4269,11 +4218,11 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/learning-linux-command-line-26594217/install-and-update-software-with-a-package-manager?u=76281980&t=281)** As you continue learning about working with the command line, you'll probably need to install some software packages to do a particular job or work with some kind of information.
 >
-> **[4:50](https://www.linkedin.com/learning/learning-linux-command-line-26594217/install-and-update-software-with-a-package-manager?u=76281980&t=290)** If you're interested in learning more about system administration on Linux, be sure to take a look at our courses here on LinkedIn Learning that cover those skills.
+> **[4:50](https://www.linkedin.com/learning/learning-linux-command-line-26594217/install-and-update-software-with-a-package-manager?u=76281980&t=290)** If you're interested in learning more about [[System Administration]] on Linux, be sure to take a look at our courses here on [[LinkedIn]] Learning that cover those skills.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (5), [[Package Management]] (3), [[Search]] (3), [[Ubuntu]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Linux]] (5), [[Package Management]] (3), [[Ubuntu]] (2), [[System Administration]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** apt (12), sudo (3), find (2), dnf (1), make (1)
 > **Prerequisites:** install (14), configure (1)
 > **Env Vars:** apt (7), dnf (1), suse (1)
@@ -4287,12 +4236,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-linux-command-line-26594217/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-linux-command-line-26594217/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-linux-command-line-26594217/next-steps?u=76281980&t=0)** - [Scott] I hope you've enjoyed this basic introduction to working with the Linux command line.
+> **[0:00](https://www.linkedin.com/learning/learning-linux-command-line-26594217/next-steps?u=76281980&t=0)** - [Scott] I hope you've enjoyed this basic introduction to working with the [[Linux]] command line.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-linux-command-line-26594217/next-steps?u=76281980&t=4)** In every topic that we've explored, there's a lot more depth and detail that you can get into if you need to, but this course should get you started.
 >
@@ -4304,13 +4252,13 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/learning-linux-command-line-26594217/next-steps?u=76281980&t=27)** If you'd like to learn more about the Bash shell, take a look at "Learning Bash Scripting."
 >
-> **[0:31](https://www.linkedin.com/learning/learning-linux-command-line-26594217/next-steps?u=76281980&t=31)** If you want to learn more about becoming a Linux system administrator, be sure to look for our learning paths and courses focusing on both Ubuntu and Red Hat administration.
+> **[0:31](https://www.linkedin.com/learning/learning-linux-command-line-26594217/next-steps?u=76281980&t=31)** If you want to learn more about becoming a Linux system administrator, be sure to look for our learning paths and courses focusing on both [[Ubuntu]] and Red Hat administration.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-linux-command-line-26594217/next-steps?u=76281980&t=40)** Be sure to check out the course notes for a list of courses that I recommend you explore.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-linux-command-line-26594217/next-steps?u=76281980&t=45)** You can spend time learning about multitasking at the command line or configuring networking, web services, file sharing and more.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-linux-command-line-26594217/next-steps?u=76281980&t=52)** And if you want to explore tips about different aspects of Linux, be sure to check out my series of videos here on LinkedIn Learning called "Linux Tips."
+> **[0:52](https://www.linkedin.com/learning/learning-linux-command-line-26594217/next-steps?u=76281980&t=52)** And if you want to explore tips about different aspects of Linux, be sure to check out my series of videos here on [[LinkedIn]] Learning called "Linux Tips."
 >
 > **[1:00](https://www.linkedin.com/learning/learning-linux-command-line-26594217/next-steps?u=76281980&t=60)** Keep exploring the command line using apropos and the man pages to find new commands and give yourself some tasks to accomplish.
 >
@@ -4322,7 +4270,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (8), [[Scripting]] (1), [[Ubuntu]] (1), web (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Linux]] (8), [[Ubuntu]] (1), [[LinkedIn]] (1)
 > **Tools:** command line (4), bash (2), terminal (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [scott] (1)
